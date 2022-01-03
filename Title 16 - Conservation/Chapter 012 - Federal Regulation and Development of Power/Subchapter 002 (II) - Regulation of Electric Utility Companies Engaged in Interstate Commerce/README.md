@@ -31,6 +31,7 @@
 - [&sect; 00824q - Native load service obligation](%C2%A7%2000824q%20-%20Native%20load%20service%20obligation.md)
 - [&sect; 00824r - Protection of transmission contracts in the Pacific Northwest](%C2%A7%2000824r%20-%20Protection%20of%20transmission%20contracts%20in%20the%20Pacific%20Northwest.md)
 - [&sect; 00824s - Transmission infrastructure investment](%C2%A7%2000824s%20-%20Transmission%20infrastructure%20investment.md)
+- [&sect; 00824s&#8211;1 - Incentives for cybersecurity investments](%C2%A7%2000824s%E2%80%931%20-%20Incentives%20for%20cybersecurity%20investments.md)
 - [&sect; 00824t - Electricity market transparency rules](%C2%A7%2000824t%20-%20Electricity%20market%20transparency%20rules.md)
 - [&sect; 00824u - Prohibition on filing false information](%C2%A7%2000824u%20-%20Prohibition%20on%20filing%20false%20information.md)
 - [&sect; 00824v - Prohibition of energy market manipulation](%C2%A7%2000824v%20-%20Prohibition%20of%20energy%20market%20manipulation.md)

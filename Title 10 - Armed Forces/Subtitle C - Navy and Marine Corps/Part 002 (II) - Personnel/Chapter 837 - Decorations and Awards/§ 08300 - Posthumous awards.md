@@ -26,6 +26,8 @@ July 2, 1926, ch. 721, §12 (3d sentence, less last 31 words), 44 Stat. 789; Jul
 
 The word "associated" is substituted for the word "other" to relate the medal or cross to its emblem or insignia.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 8300, acts Aug. 10, 1956, ch. 1041, 70A Stat. 513; Aug. 21, 1957, Pub. L. 85–155, title III, §301(11), 71 Stat. 388; July 12, 1960, Pub. L. 86–616, §6(2), 74 Stat. 391; Nov. 8, 1967, Pub. L. 90–130, §1(27)(B), 81 Stat. 382, provided for selection board procedure when promotion-list officers in regular grade of first lieutenant, captain, or major are to be considered for promotion under section 8299 of this title, prior to repeal by Pub. L. 96–513, title II, §204, Dec. 12, 1980, 94 Stat. 2880, effective Sept. 15, 1981. See section 611 et seq. of this title.
@@ -33,6 +35,8 @@ A prior section 8300, acts Aug. 10, 1956, ch. 1041, 70A Stat. 513; Aug. 21, 1957
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 6250 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

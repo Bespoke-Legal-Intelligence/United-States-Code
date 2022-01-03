@@ -66,6 +66,8 @@ In subsection (c)(1)(A), the words "period of" and "while on" are omitted as sur
 
 In subsection (c)(2), the words "take such action as may be necessary to", "the terms of . . . policy or", and "to such railroad employee" are omitted as surplus. The words "or group of railroads" are omitted because of 1:1.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Subsec. (b)(3). Pub. L. 112–141 substituted "Surface Transportation Board" for "Interstate Commerce Commission".
@@ -86,6 +88,8 @@ Actions To Ensure Access.—Amtrak may act to ensure access to intercity transpo
 
 &emsp;"(5) providing special assistance to elderly and handicapped individuals when getting on and off trains and in terminal areas."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2012 Amendment
 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
@@ -102,7 +106,7 @@ In General.—Amtrak, in consultation with station owners and other railroads op
 
 Accessibility Improvements and Barrier Removal for People With Disabilities.—There are authorized to be appropriated to the Secretary \[of Transportation\] for the use of Amtrak such sums as may be necessary to improve the accessibility of facilities, including rail platforms, and services."
 
-Pub. L. 110–432, div. B, title II, §220, Oct. 16, 2008, 122 Stat. 4931, provided that: "Using the funds authorized by section 103 of this division \[122 Stat. 4909\], the Federal Railroad Administration shall monitor and conduct periodic reviews of Amtrak's compliance with applicable sections of the Americans with Disabilities Actof 1990 \[42 U.S.C. 12101 et seq.\] and the Rehabilitation Act of 1974 \[probably means Rehabilitation Act of 1973, 29 U.S.C. 701 et seq.\] to ensure that Amtrak's services and facilities are accessible to individuals with disabilities to the extent required by law."
+Pub. L. 110–432, div. B, title II, §220, Oct. 16, 2008, 122 Stat. 4931, provided that: "Using the funds authorized by section 103 of this division \[122 Stat. 4909\], the Federal Railroad Administration shall monitor and conduct periodic reviews of Amtrak's compliance with applicable sections of the Americans with Disabilities Act of 1990 \[42 U.S.C. 12101 et seq.\] and the Rehabilitation Act of 1974 \[probably means Rehabilitation Act of 1973, 29 U.S.C. 701 et seq.\] to ensure that Amtrak's services and facilities are accessible to individuals with disabilities to the extent required by law."
 
 Pub. L. 105–134, title IV, §406(a), Dec. 2, 1997, 111 Stat. 2586, provided that:
 

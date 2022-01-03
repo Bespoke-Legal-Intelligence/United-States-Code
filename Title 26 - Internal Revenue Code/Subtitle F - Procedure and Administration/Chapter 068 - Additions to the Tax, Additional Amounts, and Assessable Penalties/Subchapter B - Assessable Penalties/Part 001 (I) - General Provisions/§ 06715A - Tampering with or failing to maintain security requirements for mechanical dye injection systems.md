@@ -38,6 +38,8 @@ The amount of the penalty under subsection (a) shall be—
 
 (Added Pub. L. 108–357, title VIII, §854(c)(1), Oct. 22, 2004, 118 Stat. 1615.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective on the 180th day after the date on which the Secretary of the Treasury issues the regulations described in section 854(b) of Pub. L. 108–357, see section 854(d) of Pub. L. 108–357, set out as an Effective Date of 2004 Amendment note under section 4082 of this title.

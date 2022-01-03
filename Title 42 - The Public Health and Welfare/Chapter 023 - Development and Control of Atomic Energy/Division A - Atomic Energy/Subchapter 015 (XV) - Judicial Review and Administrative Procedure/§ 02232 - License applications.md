@@ -6,7 +6,7 @@ Each application for a license hereunder shall be in writing and shall specifica
 
 #### (b) Review of applications by Advisory Committee on Reactor Safeguards; report
 
-The Advisory Committee on Reactor Safeguards shall review each application under section 2133 or section 2134(b) of this title for a construction permit or an operating license for a facility, any application under section 2134(c) of this title for a construction permit or an operating license for a testing facility, any application under subsection (a) or (c) of section 2134 of this title specifically referred to it by the Commission, and any application for an amendment to a construction permit or an amendment to an operating license under section 2133 or 2134(a), (b), or (c) of this title specifically referred to it by the Commission, and shall submit a report thereon which shall be made part of the record of the application and available to the public except to the extent that security classification prevents disclosure.
+The Advisory Committee on Reactor Safeguards shall review each application under section 2133 or section 2134(b) of this title for a construction permit or an operating license for a facility, any application under section 2134(c) of this title for a construction permit or an operating license for a testing facility, any application under subsection (a) or (c) of section 2134 of this title specifically referred to it by the Commission, and any application for an amendment to a construction permit or an amendment to an operating license under section 2133 or 2134(a), (b), or (c) of this title specifically referred to it by the Commission, and shall submit a reportthereon which shall be made part of the record of the application and available to the public except to the extent that security classification prevents disclosure.
 
 #### (c) Commercial power; publication
 
@@ -18,6 +18,8 @@ The Commission, in issuing any license for a utilization or production facility 
 
 (Aug. 1, 1946, ch. 724, title I, §182, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 953; amended Aug. 6, 1956, ch. 1015, §5, 70 Stat. 1069; Pub. L. 85–256, §6, Sept. 2, 1957, 71 Stat. 579; Pub. L. 87–615, §3, Aug. 29, 1962, 76 Stat. 409; Pub. L. 91–560, §9, Dec. 19, 1970, 84 Stat. 1474; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1970</b>—Subsec. (c). Pub. L. 91–560 substituted provisions requiring notification by publication giving reasonable notice to municipalities, private utilities, public bodies, and cooperatives which might have a potential interest in such utilization or production facility, for provisions requiring notice in writing to municipalities, private utilities, public bodies and cooperatives within transmission distance authorized to engage in the distribution of electric energy.
@@ -28,7 +30,9 @@ The Commission, in issuing any license for a utilization or production facility 
 
 <b>1956</b>—Subsec. (a). Act Aug. 6, 1956, struck out "under oath or affirmation" from last sentence, and inserted two sentences at end requiring applications and statements in connection with sections 2133 and 2134 to be made under oath or affirmation and authorizing Commission to require any other applications or statements to be made under oath or affirmation.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 

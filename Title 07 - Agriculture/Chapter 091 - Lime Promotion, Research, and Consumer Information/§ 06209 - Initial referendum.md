@@ -52,6 +52,8 @@ The ballots and other information or reports that reveal, or tend to reveal, the
 
 (Pub. L. 101–624, title XIX, §1960, Nov. 28, 1990, 104 Stat. 3879; Pub. L. 103–194, §5, Dec. 14, 1993, 107 Stat. 2295.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1993</b>—Subsec. (a). Pub. L. 103–194 substituted "Not later than 30 months after the date on which the collection of assessments begins under the order pursuant to section 6204(d) of this title," for "Not later than 2 years after the date on which the Secretary first issues an order under section 6203(a),".

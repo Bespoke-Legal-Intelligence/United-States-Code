@@ -14,6 +14,8 @@ The purpose of this subchapter is to ensure that the Secretary, States, and othe
 
 (Added Pub. L. 105–178, title IV, §4002(a), June 9, 1998, 112 Stat. 395.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Compliance, Safety, Accountability Reform
 
 Pub. L. 114–94, div. A, title V, subtitle B, part II, Dec. 4, 2015, 129 Stat. 1538, provided that:
@@ -52,7 +54,7 @@ Scope of Study.—In carrying out the study commissioned pursuant to subsection 
 
 &emsp;&emsp;"(G) the differences in the rates at which safety violations are reported to the Federal Motor Carrier Safety Administration for inclusion in the SMS by various enforcement authorities, including States, territories, and Federal inspectors; and
 
-&emsp;&emsp;"(H) how members of the public use the SMS and what effect making the SMS information public hashad on reducing crashes and eliminating unsafe motor carriers from the industry; and
+&emsp;&emsp;"(H) how members of the public use the SMS and what effect making the SMS information public has had on reducing crashes and eliminating unsafe motor carriers from the industry; and
 
 &emsp;"(2) shall consider—
 
@@ -296,7 +298,7 @@ Verification.—Not later than 18 months after the date of the enactment of this
 
 #### Outreach and Education
 
-Pub. L. 109–59, title IV, §4127, Aug. 10, 2005, 119 Stat. 1741, as amended by Pub. L. 111–147, title IV, §422(g), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, §2202(g), Dec. 22, 2010, 124 Stat. 3525; Pub. L. 112–5, title II, §202(g), Mar. 4, 2011, 125 Stat. 17; Pub. L. 112–30, title I, §122(f), Sept. 16, 2011, 125 Stat. 349; Pub. L. 112–102, title II, §202(f), Mar. 30, 2012, 126 Stat. 274; Pub. L. 112–140, title II, §202(f), June 29, 2012, 126 Stat. 395; Pub. L. 112–141, div. C, title II, §32603(f), div. G, title II, §112002(e), July 6, 2012, 126 Stat. 808, 983; Pub. L. 113–159, title I, §1102(f), Aug. 8, 2014, 128 Stat. 1844; Pub. L. 114–21, title I, §1102(f), May 29, 2015, 129 Stat. 222; Pub. L. 114–41, title I, §1102(f), July 31, 2015, 129 Stat. 449; Pub. L. 114–73, title I, §1102(f), Oct. 29, 2015, 129 Stat. 572; Pub. L. 114–87, title I, §1102(f), Nov. 20, 2015, 129 Stat. 681, which provided for an outreach and education program, was repealed by Pub. L. 114–94, div. A, title V, §5103(c)(4), Dec. 4, 2015, 129 Stat. 1527. See section 31110(c) of this title.
+Pub. L. 109–59, title IV, §4127, Aug. 10, 2005, 119 Stat. 1741, as amended by Pub. L. 111–147, title IV, §422(g), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, §2202(g), Dec. 22, 2010, 124 Stat. 3525; Pub. L. 112–5, title II, §202(g), Mar. 4, 2011, 125 Stat. 17; Pub. L. 112–30, title I, §122(f), Sept. 16, 2011, 125 Stat. 349; Pub. L. 112–102, title II, §202(f), Mar. 30, 2012, 126 Stat. 274; Pub. L.112–140, title II, §202(f), June 29, 2012, 126 Stat. 395; Pub. L. 112–141, div. C, title II, §32603(f), div. G, title II, §112002(e), July 6, 2012, 126 Stat. 808, 983; Pub. L. 113–159, title I, §1102(f), Aug. 8, 2014, 128 Stat. 1844; Pub. L. 114–21, title I, §1102(f), May 29, 2015, 129 Stat. 222; Pub. L. 114–41, title I, §1102(f), July 31, 2015, 129 Stat. 449; Pub. L. 114–73, title I, §1102(f), Oct. 29, 2015, 129 Stat. 572; Pub. L. 114–87, title I, §1102(f), Nov. 20, 2015, 129 Stat. 681, which provided for an outreach and education program, was repealed by Pub. L. 114–94, div. A, title V, §5103(c)(4), Dec. 4, 2015, 129 Stat. 1527. See section 31110(c) of this title.
 
 #### Safety Data Improvement Program
 
@@ -316,7 +318,7 @@ Assessment.—The Inspector General of the Department of Transportation may peri
 
 #### Motor Carrier Safety Advisory Committee
 
-Pub. L. 109–59, title IV, §4144, Aug. 10, 2005, 119 Stat. 1748, as amended by Pub. L. 111–147, title IV, §422(i), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, §2202(i), Dec. 22, 2010, 124 Stat. 3525; Pub. L. 112–5, title II, §202(i), Mar. 4, 2011, 125 Stat. 17; Pub. L. 112–30, title I, §122(h), Sept. 16, 2011, 125 Stat. 349; Pub. L. 112–102, title II, §202(h), Mar. 30, 2012, 126 Stat. 274; Pub. L. 112–140, title II, §202(h), June 29, 2012, 126 Stat. 395; Pub. L. 112–141, div. C, title II, §32912, July 6, 2012, 126 Stat. 818, provided that:
+Pub. L. 109–59, title IV, §4144, Aug. 10, 2005, 119 Stat. 1748, as amended by Pub. L. 111–147, title IV, §422(i), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, §2202(i), Dec. 22, 2010, 124 Stat. 3525; Pub. L. 112–5, title II, §202(i), Mar. 4, 2011, 125 Stat. 17; Pub. L. 112–30, title I, §122(h), Sept. 16, 2011, 125 Stat. 349; Pub. L. 112–102, title II, §202(h), Mar. 30, 2012, 126 Stat. 274; Pub. L. 112–140, title II, §202(h), June 29, 2012, 126 Stat. 395; Pub. L. 112–141, div. C, title II, §32912, July 6, 2012, 126 Stat. 818; Pub. L. 117–58, div. B, title III, §23002, Nov. 15, 2021, 135 Stat. 758, provided that:
 
 "(a)
 
@@ -332,7 +334,7 @@ Members, Chairman, Pay, and Expenses.—
 
 &emsp;"(1)
 
-In general.—The committee shall be composed of not more than 20 members appointed by the Administrator from among individuals who are not employees of the Administration and who are specially qualified to serve on the committee because of their education, training, or experience. The members shall include representatives of the motor carrier industry, safety advocates, and safety enforcement officials. Representatives of a single enumerated interest group may not constitute a majority of the members of the advisory committee.
+In general.—The committee shall be composed of not more than 20 members appointed by the Administrator from among individuals who are not employees of the Administration and who are specially qualified to serve on the committee because of their education, training, or experience. The members shall include representatives of the motor carrier industry, including small business motor carriers, safety advocates, and safety enforcement officials. Representatives of a single enumerated interest group may not constitute a majority of the members of the advisory committee.
 
 &emsp;"(2)
 
@@ -348,7 +350,7 @@ Support Staff, Information, and Services.—The Administrator shall provide supp
 
 "(d)
 
-Termination Date.—Notwithstanding the Federal Advisory Committee Act (5 U.S.C. App.), the advisory committee shall terminate on September 30, 2013."
+Termination Date.—Notwithstanding the Federal Advisory Committee Act (5 U.S.C. App.), the advisory committee shall terminate on September 30, 2025."
 
 #### Motor Carrier Safety Strategy
 
@@ -520,5 +522,5 @@ Funding.—Of the amounts made available for each of fiscal years 2001, 2002, an
 
 #### Data Collection and Analysis
 
-Pub. L. 106–159, title II, §225, Dec. 9, 1999, 113 Stat. 1771, directed the Secretary, in cooperation with the States, to carry out a program to improve the collection and analysis of data on crashes, including crash causation, involving commercial motor vehicles and to transmit a report on the program and authorized appropriations for fiscal years 2001, 2002, and 2003.
+Pub. L. 106–159, title II, §225, Dec. 9, 1999, 113 Stat. 1771, directed the Secretary, in cooperation with the States, to carry out a program to improve the collection and analysis of data on crashes, including crash causation, involving commercial motor vehicles and totransmit a report on the program and authorized appropriations for fiscal years 2001, 2002, and 2003.
 

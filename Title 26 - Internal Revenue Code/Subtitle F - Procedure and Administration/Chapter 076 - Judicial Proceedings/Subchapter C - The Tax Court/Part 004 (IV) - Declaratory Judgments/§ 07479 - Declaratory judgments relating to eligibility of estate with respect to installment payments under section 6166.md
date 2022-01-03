@@ -30,15 +30,19 @@ In a case of actual controversy involving a determination by the Secretary of (o
 
 #### (c) Extension of time to file refund suit
 
-The 2-year period in section 6532(a)(1) for filing suit for refund after disallowance of a claim shall be suspended during the 90-day period after the mailing of the notice referred to in subsection (b)(3) and, if a pleading has been filedwith the Tax Court under this section, until the decision of the Tax Court has become final.
+The 2-year period in section 6532(a)(1) for filing suit for refund after disallowance of a claim shall be suspended during the 90-day period after the mailing of the notice referred to in subsection (b)(3) and, if a pleading has been filed with the Tax Court under this section, until the decision of the Tax Court has become final.
 
 (Added Pub. L. 105–34, title V, §505(a), Aug. 5, 1997, 111 Stat. 854; amended Pub. L. 105–206, title III, §3104(b), title VI, §6007(d), July 22, 1998, 112 Stat. 732, 809.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>1998</b>—Subsec. (a)(1), (2). Pub. L. 105–206, §6007(d), substituted "an estate (or with respect to any property included therein)," for "an estate,".
 
 Subsec. (c). Pub. L. 105–206, §3104(b), added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

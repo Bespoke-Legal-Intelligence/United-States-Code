@@ -68,7 +68,7 @@ Section 634, act Aug. 4, 1949, ch. 393, 63 Stat. 545; Pub. L. 86–70, §11, Jun
 
 A prior section 640, acts Aug. 4, 1949, ch. 393, 63 Stat. 546; June 15, 1955, ch. 142, 69 Stat. 134, related to interchange of supplies between armed forces, prior to repeal by Pub. L. 85–861, §36A, C(1), Sept. 2, 1958, 72 Stat. 1569, 1571. See section 2571 of Title 10, Armed Forces.
 
-A prior section 645, acts Aug. 4, 1949, ch. 393, §1, 63 Stat. 547; Sept. 3, 1954, ch. 1263, §34, 68 Stat. 1239; Aug. 23, 1958, Pub. L. 85–738, §§4, 5, 72 Stat. 833, provided for settlement of claims incident to activities of Coast Guard, prior to repeal by Pub. L. 90–525, §2, Sept. 26, 1968, 82 Stat. 877, effective two years after Sept. 26, 1968. See section 2733 of Title 10, Armed Forces.
+A prior section 645, acts Aug. 4, 1949, ch. 393, §1, 63 Stat. 547; Sept. 3, 1954, ch. 1263, §34, 68 Stat. 1239; Aug.23, 1958, Pub. L. 85–738, §§4, 5, 72 Stat. 833, provided for settlement of claims incident to activities of Coast Guard, prior to repeal by Pub. L. 90–525, §2, Sept. 26, 1968, 82 Stat. 877, effective two years after Sept. 26, 1968. See section 2733 of Title 10, Armed Forces.
 
 A prior section 651, act Aug. 4, 1949, ch. 393, 63 Stat. 550; Pub. L. 94–546, §1(36), Oct. 18, 1976, 90 Stat. 2522; Pub. L. 99–509, title V, §5102(a)(2), Oct. 21, 1986, 100 Stat. 1926, related to annual report on operations and expenditures of the Coast Guard during the preceding fiscal year, prior to repeal by Pub. L. 113–281, title II, §221(a)(2), Dec. 18, 2014, 128 Stat. 3037.
 

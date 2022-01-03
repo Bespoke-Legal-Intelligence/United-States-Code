@@ -28,7 +28,7 @@
 
 #### (3) Reports
 
-&emsp;Not later than February 15 of each year subsequent to the submission of the strategy described in paragraph (1), the Secretary shallsubmit to Congress an update of the strategy. The update shall include—
+&emsp;Not later than February 15 of each year subsequent to the submission of the strategy described in paragraph (1), the Secretary shall submit to Congress an update of the strategy. The update shall include—
 
 &emsp;&emsp;(A) an outline of the proposed activities with respect to the strategy during the succeeding year, including the manner in which such activities will meet the objectives set forth in paragraph (2); and
 

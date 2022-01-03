@@ -6,7 +6,7 @@
 
 &emsp;(A) delivers nuclear reprocessing equipment, materials, or technology to any other country on or after August 4, 1977, or receives such equipment, materials, or technology from any other country on or after August 4, 1977 (except for the transfer of reprocessing technology associated with the investigation, under international evaluation programs in which the United States participates, of technologies which are alternatives to pure plutonium reprocessing), or
 
-&emsp;(B) is a non-nuclear-weapon state which, on or after August 8, 1985, exports illegally (or attempts to export illegally) from the United States any material, equipment, or technologywhich would contribute significantly to the ability of such country to manufacture a nuclear explosive device, if the President determines that the material, equipment, or technology was to be used by such country in the manufacture of a nuclear explosive device.
+&emsp;(B) is a non-nuclear-weapon state which, on or after August 8, 1985, exports illegally (or attempts to export illegally) from the United States any material, equipment, or technology which would contribute significantly to the ability of such country to manufacture a nuclear explosive device, if the President determines that the material, equipment, or technology was to be used by such country in the manufacture of a nuclear explosive device.
 
 > For purposes of clause (B), an export (or attempted export) by a person who is an agent of, or is otherwise acting on behalf of or in the interests of, a country shall be considered to be an export (or attempted export) by that country.
 
@@ -62,7 +62,7 @@
 
 (3) As used in this subsection—
 
-&emsp;(A) the term "design information" means specific information that relates to the designof a nuclear explosive device and that is not available to the public; and
+&emsp;(A) the term "design information" means specific information that relates to the design of a nuclear explosive device and that is not available to the public; and
 
 &emsp;(B) the term "component" means a specific component of a nuclear explosive device.
 
@@ -190,7 +190,7 @@ Appropriate Congressional Committees Defined.—In this section, the term 'appro
 
 &emsp;"(2) the Committees on Appropriations, Armed Services, and Foreign Affairs of the House of Representatives."
 
-\[Amendment of section 1405 of Pub. L. 110–252, set out above, by section 7034(i) of div. J of Pub. L. 113–235, which directed that subsec. (c) of section 1405 be repealed, was not executed to reflect the probable intent of Congress and the prior amendment by section 801 of Pub. L. 113–188, which struck out subsec. (c) and redesignated subsec. (d) as (c).\]
+\[Amendment of section 1405 of Pub. L. 110–252, set out above, by section 7034(i) of div. J of Pub. L. 113–235,which directed that subsec. (c) of section 1405 be repealed, was not executed to reflect the probable intent of Congress and the prior amendment by section 801 of Pub. L. 113–188, which struck out subsec. (c) and redesignated subsec. (d) as (c).\]
 
 #### Exemption for Rhinoceros, Tiger, Asian Elephant, and Great Ape Conservation Programs
 

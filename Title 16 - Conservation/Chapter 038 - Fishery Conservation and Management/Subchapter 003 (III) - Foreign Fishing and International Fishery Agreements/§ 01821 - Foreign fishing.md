@@ -22,7 +22,7 @@ Foreign fishing described in subsection (a) may be conducted pursuant to an inte
 
 Foreign fishing described in subsection (a) may be conducted pursuant to an international fishery agreement (other than a treaty) which meets the requirements of this subsection if such agreement becomes effective after application of section 1823 of this title. Any such international fishery agreement shall hereafter in this chapter be referred to as a "governing international fishery agreement". Each governing international fishery agreement shall acknowledge the exclusive fishery management authority of the United States, as set forth in this chapter. It is the sense of the Congress that each such agreement shall include a binding commitment, on the part of such foreign nation and its fishing vessels, to comply with the following terms and conditions:
 
-&emsp;(1) The foreign nation, and the owner or operator of any fishing vessel fishing pursuant to such agreement, will abide by all regulations promulgated by the Secretary pursuant to this chapter, including any regulations promulgated to implement any applicable fishery management plan or any preliminary fishery management plan.
+&emsp;(1) The foreign nation, and the owner or operator of any fishing vessel fishing pursuant to such agreement, will abide by all regulations promulgated by the Secretary pursuant to this chapter, including any regulations promulgated to implement any applicable fisherymanagement plan or any preliminary fishery management plan.
 
 &emsp;(2) The foreign nation, and the owner or operator of any fishing vessel fishing pursuant to such agreement, will abide by the requirement that—
 
@@ -82,7 +82,7 @@ The total allowable level of foreign fishing, if any, with respect to any fisher
 
 (E) The determinations required to be made under subparagraphs (A) and (D)(ii), and the apportionments required to be made under subparagraph (C), with respect to a foreign nation shall be based on—
 
-&emsp;(i) whether, and to what extent, such nation imposes tariff barriers or nontariff barriers onthe importation, or otherwise restricts the market access, of both United States fish and fishery products, particularly fish and fishery products for which the foreign nation has requested an allocation;
+&emsp;(i) whether, and to what extent, such nation imposes tariff barriers or nontariff barriers on the importation, or otherwise restricts the market access, of both United States fish and fishery products, particularly fish and fishery products for which the foreign nation has requested an allocation;
 
 &emsp;(ii) whether, and to what extent, such nation is cooperating with the United States in both the advancement of existing and new opportunities for fisheries exports from the United States through the purchase of fishery products from United States processors, and the advancement of fisheries trade through the purchase of fish and fishery products from United States fishermen, particularly fish and fishery products for which the foreign nation has requested an allocation;
 
@@ -134,7 +134,7 @@ Foreign fishing shall not be authorized for the fishing vessels of any foreign n
 
 #### (g) Preliminary fishery management plans
 
-The Secretary, when notified by the Secretary of State that any foreign nation has submitted an application under section 1824(b) of this title shall prepare a preliminary fishery management plan for any fishery covered by such application if the Secretary determines that no fishery management plan for that fishery will be prepared and implemented, pursuant to subchapter IV, before March 1, 1977. To the extent practicable, each such plan—
+The Secretary, when notified by the Secretary of State that any foreign nation has submitted an application under section 1824(b) of this title shall prepare a preliminary fishery management plan for any fishery covered by such application if the Secretary determines that no fishery management plan for that fishery will be preparedand implemented, pursuant to subchapter IV, before March 1, 1977. To the extent practicable, each such plan—
 
 &emsp;(1) shall contain a preliminary description of the fishery and a preliminary determination as to—
 
@@ -182,7 +182,7 @@ The Secretary, when notified by the Secretary of State that any foreign nation h
 
 (6) If at any time the requirement set forth in paragraph (1) cannot be met because of insufficient appropriations, the Secretary shall, in implementing a supplementary observer program:
 
-&emsp;(A) certify as observers, for the purposes of this subsection, individuals who are citizens or nationals of the United States and who have the requisite education or experience to carry out the functions referred to in paragraph (3);
+&emsp;(A) certify as observers, for the purposes of this subsection, individuals who are citizens ornationals of the United States and who have the requisite education or experience to carry out the functions referred to in paragraph (3);
 
 &emsp;(B) establish standards of conduct for certified observers equivalent to those applicable to Federal personnel;
 
@@ -207,6 +207,8 @@ Notwithstanding any other provision of this subchapter, foreign fishing vessels 
 <i>(3) in subsection (i), (A) by inserting "or special areas" immediately before the period at the end of paragraph (1)(A), (B) by inserting "or special areas" immediately after "exclusive economic zone" in paragraph (2)(A), and (C) by inserting "or special areas" immediately after "exclusive economic zone" in paragraph (2)(B); and</i>
 
 <i>(4) in subsection (j), (A) by inserting ", special areas," immediately after "exclusive economic zone", and (B) by inserting ", areas," immediately after "such zone".</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -244,7 +246,7 @@ Subsec. (j). Pub. L. 104–297, §105(a)(4), redesignated subsec. (j) as (i).
 
 &emsp;"(2) all tariff and nontariff trade barriers imposed by such nations on the importation of such species from the United States."
 
-<b>1990</b>—Subsec. (d). Pub. L. 101–627 amended subsec. (d) generally, limiting the total allowable level of foreignfishing, with respect to any fishery subject to the exclusive management authority of the United States, to only that part of the potential fishery yield which is not harvested by United States fishermen and deleting the alternative method of determining the total allowable level of foreign fishing based on the annual fishing level for each harvesting season after the 1980 harvesting season.
+<b>1990</b>—Subsec. (d). Pub. L. 101–627 amended subsec. (d) generally, limiting the total allowable level of foreign fishing, with respect to any fishery subject to the exclusive management authority of the United States, to only that part of the potential fishery yield which is not harvested by United States fishermen and deleting the alternative method of determining the total allowable level of foreign fishing based on the annual fishing level for each harvesting season after the 1980 harvesting season.
 
 <b>1986</b>—Subsecs. (a), (e)(1)(E)(iv). Pub. L. 99–659, §101(c)(2), substituted "exclusive economic zone" for "fishery conservation zone" in two places.
 
@@ -299,6 +301,8 @@ Subsec. (e)(2)(D)(i). Pub. L. 96–118 substituted "unharvested" for "harvested"
 Subsec. (c)(3). Pub. L. 95–354, §4(2), substituted "harvest an amount of fish which exceeds" for "exceed".
 
 Subsecs. (f) to (h). Pub. L. 95–354, §4(3), (4), added subsec. (f), redesignated former subsecs. (f) and (g) as (g) and (h), and in subsec. (h)(1), as so redesignated, set out existing provisions as cls. (A) and (C) and added cl. (B).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

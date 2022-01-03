@@ -34,7 +34,7 @@ Any creditor or lessor may supply additional information or explanation with any
 
 &emsp;&emsp;&emsp;(i) list the items required to be included in the table in a different order than the order in which such items are set forth in paragraph (1)(A) or (4)(A) of section 1637(c) of this title; and
 
-&emsp;&emsp;&emsp;(ii) subject to subparagraph (C), employ terminology which is different than the terminology which is employed in section1637(c) of this title if such terminology conveys substantially the same meaning.
+&emsp;&emsp;&emsp;(ii) subject to subparagraph (C), employ terminology which is different than the terminology which is employed in section 1637(c) of this title if such terminology conveys substantially the same meaning.
 
 #### (C) Grace period
 
@@ -62,7 +62,9 @@ Any creditor or lessor may supply additional information or explanation with any
 
 &emsp;The Bureau, in consultation with the other Federal banking agencies (as that term is defined in section 1681a of this title) and the Bureau,<sup>1</sup> may promulgate regulations to implement this subsection, including specifying the format for posting the agreements on the Internet sites of creditors and establishing exceptions to paragraphs (1) and (2), in any case in which the administrative burden outweighs the benefit of increased transparency, such as where a credit card plan has a de minimis number of consumer account holders.
 
-(Pub. L. 90–321, title I, §122, May 29, 1968, 82 Stat. 152; Pub. L. 93–495, title III, §307(e), (f), Oct. 28, 1974, 88 Stat. 1516, 1517; Pub. L. 96–221, title VI, §611, Mar. 31, 1980, 94 Stat. 175; Pub. L. 100–583, §2(b), Nov. 3, 1988, 102 Stat. 2966; Pub. L. 100–709, §2(d), Nov. 23, 1988, 102 Stat. 4731; Pub. L. 111–24, title II, §204, May 22, 2009, 123 Stat. 1746; Pub. L. 111–203, title X, §1100A(2), (3), July 21, 2010, 124 Stat. 2107.)
+(Pub. L. 90–321, title I, §122, May 29, 1968, 82 Stat. 152; Pub. L. 93–495, title III, §307(e), (f), Oct. 28, 1974, 88 Stat. 1516, 1517; Pub. L. 96–221, title VI, §611, Mar. 31, 1980, 94 Stat. 175; Pub. L. 100–583, §2(b), Nov. 3, 1988, 102 Stat. 2966; Pub. L. 100–709, §2(d), Nov. 23, 1988, 102 Stat. 4731; Pub. L. 111–24,title II, §204, May 22, 2009, 123 Stat. 1746; Pub. L. 111–203, title X, §1100A(2), (3), July 21, 2010, 124 Stat. 2107.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -85,6 +87,8 @@ Subsec. (c). Pub. L. 100–583, §2(b)(2), added subsec. (c).
 Subsec. (b). Pub. L. 96–221 substituted provisions setting forth disclosure requirements for additional information by creditors or lessors, for provisions setting forth disclosure requirements for additional information by creditors.
 
 <b>1974</b>—Subsecs. (a), (b). Pub. L. 93–495 inserted references to part D of this subchapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

@@ -10,6 +10,8 @@ Purposes.—The National Guard Bureau is the channel of communications on all ma
 
 (Added Pub. L. 103–337, div. A, title IX, §904(a), Oct. 5, 1994, 108 Stat. 2824; amended Pub. L. 110–181, div. A, title XVIII, §1812(a), Jan. 28, 2008, 122 Stat. 497.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 3040(a) of this title, prior to repeal by Pub. L. 103–337, §904(b)(1).
@@ -17,6 +19,8 @@ Provisions similar to those in this section were contained in section 3040(a) of
 #### Amendments
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–181 substituted "joint activity of the Department of Defense" for "joint bureau of the Department of the Army and the Department of the Air Force".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -6,7 +6,7 @@ It is the policy of the United States that guidelines and criteria established p
 
 #### (b) Nature of uniformity
 
-Such uniformity refers to one policy applied uniformly to de jure segregation wherever foundand such other policy as may be provided pursuant to law applied uniformly to de facto segregation wherever found.
+Such uniformity refers to one policy applied uniformly to de jure segregation wherever found and such other policy as may be provided pursuant to law applied uniformly to de facto segregation wherever found.
 
 #### (c) Prohibition of construction for diminution of obligation for enforcement or compliance with nondiscrimination requirements
 
@@ -18,6 +18,8 @@ It is the sense of the Congress that the Department of Justice and the Secretary
 
 (Pub. L. 91–230, §2, Apr. 13, 1970, 84 Stat. 121; Pub. L. 96–88, title III, §301, title V, §507, Oct. 17, 1979, 93 Stat. 677, 692.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Civil Rights Act of 1964, referred to in subsecs. (a) and (c), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Civil Rights Act of 1964 is classified generally to this subchapter (§2000d et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
@@ -25,6 +27,8 @@ The Civil Rights Act of 1964, referred to in subsecs. (a) and (c), is Pub. L. 88
 #### Codification
 
 Section was enacted as part of the Elementary and Secondary Education Amendments of 1969, and not as part of the Civil Rights Act of 1964, title VI of which comprises this subchapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

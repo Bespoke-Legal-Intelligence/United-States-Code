@@ -20,13 +20,17 @@ Historical and Revision Notes
 
 July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §24; added Apr. 2, 1987, Pub. L. 100–17, §325, 101 Stat. 237.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Pub. L. 109–59 substituted "public transportation" for "mass transportation".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Regulations
 
-Pub. L. 109–59, title III, §3028(c), Aug. 10, 2005, 119 Stat. 1624, provided that: "Not later than 180 days after the date of enactment of this Act \[Aug. 10, 2005\], the Secretary \[of Transportation\] and the Secretary of Homeland Security shall issue jointly final regulations to establish the characteristics of and requirements for public transportation security grants, including funding priorities, eligible activities, methods for awarding grants, and limitations on administrative expenses."
+Pub. L. 109–59, title III, §3028(c), Aug. 10, 2005, 119 Stat. 1624, required the Secretaries of Transportation and Homeland Security to issue jointly final regulations to establish the characteristics of and requirements for public transportation security grants not later than 180 days after Aug. 10, 2005.
 
 #### Public Transportation Security
 

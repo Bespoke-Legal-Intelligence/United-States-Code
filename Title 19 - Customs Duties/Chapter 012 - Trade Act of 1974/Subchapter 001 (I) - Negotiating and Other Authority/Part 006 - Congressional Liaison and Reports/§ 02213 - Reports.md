@@ -136,6 +136,8 @@ The United States International Trade Commission shall submit to the Congress, a
 
 (Pub. L. 93–618, title I, §163, Jan. 3, 1975, 88 Stat. 2009; Pub. L. 100–418, title I, §1641, Aug. 23, 1988, 102 Stat. 1271; Pub. L. 114–125, title VI, §604(c), Feb. 24, 2016, 130 Stat. 186.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a)(1)(A) and (b), was in the original "this Act", meaning Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
@@ -147,6 +149,8 @@ This chapter, referred to in subsecs. (a)(1)(A) and (b), was in the original "th
 Subsec. (d). Pub. L. 114–125, §604(c)(2), added subsec. (d).
 
 <b>1988</b>—Pub. L. 100–418 amended section generally, completely revising and expanding provisions covering reports, changing the structure of the section from one consisting of subsecs. (a) and (b) to one consisting of subsecs. (a) to (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Trade Deficit Review Commission
 
@@ -374,7 +378,7 @@ Detail of government employees.—Any Federal Government employee may be detaile
 
 &emsp;"(5)
 
-Procurement of temporary and intermittent services.—The Chairperson of the Commission may procure temporary and intermittent services under section 3109(b) of title 5, United States Code, at rates for individuals which do not exceed the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of such title.
+Procurement of temporary and intermittent services.—The Chairperson of the Commission may procure temporary and intermittent services under section 3109(b) of title 5, United States Code, at ratesfor individuals which do not exceed the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of such title.
 
 &emsp;"(6)
 
@@ -395,6 +399,8 @@ Federal Advisory Committee Act.—The provisions of the Federal Advisory Committ
 "(k)
 
 Termination.—The Commission shall terminate 90 days after the date on which the Commission submits the final report under subsection (e)."
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

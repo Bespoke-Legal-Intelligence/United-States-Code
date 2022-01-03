@@ -1,12 +1,16 @@
 ### §460vv–12. Advisory committee
 
-Pursuant to the Federal Advisory Committee Act (Public Law 92–463), no later than 90 days after October 18, 1988, the Secretary is directed to establish an advisory committee for Ouachita National Forest lands in Le Flore County, Oklahoma. The Committee's purpose shall be advisory in nature and the Committee shall provide information and recommendations to the Secretary regarding the operation of the Ouachita National Forest in Le Flore County. The Committee shall be composed of representatives from the local area in which the Ouachita National Forest is located equally divided among conservation, timber, fish and wildlife, tourism and recreation, and economic development interests.
+Pursuant to the Federal Advisory Committee Act (Public Law 92–463), no later than 90 daysafter October 18, 1988, the Secretary is directed to establish an advisory committee for Ouachita National Forest lands in Le Flore County, Oklahoma. The Committee's purpose shall be advisory in nature and the Committee shall provide information and recommendations to the Secretary regarding the operation of the Ouachita National Forest in Le Flore County. The Committee shall be composed of representatives from the local area in which the Ouachita National Forest is located equally divided among conservation, timber, fish and wildlife, tourism and recreation, and economic development interests.
 
 (Pub. L. 100–499, §14, Oct. 18, 1988, 102 Stat. 2497.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Advisory Committees
 

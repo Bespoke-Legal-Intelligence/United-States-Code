@@ -20,9 +20,11 @@
 
 &emsp;(2) shall be considered a gift and shall be in lieu of payment of any lesser death gratuity authorized by this chapter or any other Federal law; and
 
-&emsp;(3) shall be made under the same conditions as apply to payments authorized by section 413of the Foreign Service Act of 1980 (22 U.S.C. 3973).
+&emsp;(3) shall be made under the same conditions as apply to payments authorized by section 413 of the Foreign Service Act of 1980 (22 U.S.C. 3973).
 
 (Added Pub. L. 96–450, title IV, §403(b)(1), Oct. 14, 1980, 94 Stat. 1979; amended Pub. L. 97–22, §11(a)(6), July 10, 1981, 95 Stat. 138; Pub. L. 98–94, title XII, §1268(9), Sept. 24, 1983, 97 Stat. 706; Pub. L. 99–145, title XIII, §1303(a)(12), Nov. 8, 1985, 99 Stat. 739.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

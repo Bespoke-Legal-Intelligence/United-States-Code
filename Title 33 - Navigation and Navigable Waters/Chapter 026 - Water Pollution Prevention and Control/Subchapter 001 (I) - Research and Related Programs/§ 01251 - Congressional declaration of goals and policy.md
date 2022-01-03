@@ -6,7 +6,7 @@ The objective of this chapter is to restore and maintain the chemical, physical,
 
 &emsp;(1) it is the national goal that the discharge of pollutants into the navigable waters be eliminated by 1985;
 
-&emsp;(2) it is the national goal that wherever attainable, an interim goal of water quality which provides for the protection and propagation of fish, shellfish, and wildlife and provides for recreation in and on the water be achieved by July 1, 1983;
+&emsp;(2) it is the national goal that wherever attainable, an interim goal of water qualitywhich provides for the protection and propagation of fish, shellfish, and wildlife and provides for recreation in and on the water be achieved by July 1, 1983;
 
 &emsp;(3) it is the national policy that the discharge of toxic pollutants in toxic amounts be prohibited;
 
@@ -57,6 +57,8 @@ Subsec. (g). Pub. L. 95–217, §5(a), added subsec. (g).
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2021 Amendment
+
+Pub. L. 117–58, div. E, §50001, Nov. 15, 2021, 135 Stat. 1135, provided that: "This division \[see Tables for classification\] may be cited as the 'Drinking Water and Wastewater Infrastructure Act of 2021'."
 
 Pub. L. 116–337, §1, Jan. 13, 2021, 134 Stat. 5120, provided that: "This Act \[amending section 1330 of this title\] may be cited as the 'Protect and Restore America's Estuaries Act'."
 
@@ -138,7 +140,7 @@ Act June 30, 1948, ch. 758, title V, §520, formerly §518, as added by Pub. L. 
 
 Pub. L. 92–500, §4, Oct. 18, 1972, 86 Stat. 896, provided that:
 
-"(a) No suit, action, or other proceeding lawfully commenced by or against the Administrator or any other officer or employee of the United States in his official capacity or in relation to the discharge of his official duties under the Federal Water Pollution Control Act as in effect immediately prior to the date of enactment of this Act \[Oct. 18, 1972\] shall abate by reason of the taking effect of the amendment made by section 2of this Act \[which enacted this chapter\]. The court may, on its own motion or that of any party made at any time within twelve months after such taking effect, allow the same to be maintained by or against the Administrator or such officer or employee.
+"(a) No suit, action, or other proceeding lawfully commenced by or against the Administrator or any other officer or employee of the United States in his official capacity or in relation to the discharge of his official duties under the Federal Water Pollution Control Act as in effect immediately prior to the date of enactment of this Act \[Oct. 18, 1972\] shall abate by reason of the taking effect of the amendment made by section 2 of this Act \[which enacted this chapter\]. The court may, on its own motion or that of any party made at any time within twelve months after such taking effect, allow the same to be maintained by or against the Administrator or such officer or employee.
 
 "(b) All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to the Federal Water Pollution Control Act as in effect immediately prior to the date of enactment of this Act \[Oct. 18, 1972\], and pertaining to any functions, powers, requirements, and duties under the Federal Water Pollution Control Act as in effect immediately prior to the date of enactment of this Act \[Oct. 18, 1972\] shall continue in full force and effect after the date of enactment of this Act \[Oct. 18, 1972\] until modified or rescinded in accordance with the Federal Water Pollution Control Act as amended by this Act \[this chapter\].
 
@@ -196,7 +198,7 @@ Advisory Committee.—(1) For the purpose of providing oversight of the Program 
 
 "(4) The Chairman of the Committee shall be selected from among the Committee members described in paragraph (3)(A).
 
-"(5) The Committee shall establish and maintain a subcommittee of scientific experts to provide advice, assistance, and information relevant to research funded under the Program, except that no individual who is awarded, or whose application is being considered for, a grant or subcontract under the Program may serve on such subcommittee. The membership of the subcommittee shall, to the extent practicable, be regionally balanced with experts who have scientific knowledge concerning each of the Atlantic, Pacific, and Gulf of Mexico shellfish growing regions. Scientists from the National Academy of Sciences and appropriate Federal agencies (including the National Oceanic and Atmospheric Administration, Food and Drug Administration, Centers for Disease Control, National Institutes of Health, Environmental Protection Agency, and National Science Foundation) shall be considered for membership on the subcommittee.
+"(5) The Committee shall establish and maintain a subcommittee of scientific experts to provide advice, assistance, and information relevant to research funded under the Program, except that no individual who isawarded, or whose application is being considered for, a grant or subcontract under the Program may serve on such subcommittee. The membership of the subcommittee shall, to the extent practicable, be regionally balanced with experts who have scientific knowledge concerning each of the Atlantic, Pacific, and Gulf of Mexico shellfish growing regions. Scientists from the National Academy of Sciences and appropriate Federal agencies (including the National Oceanic and Atmospheric Administration, Food and Drug Administration, Centers for Disease Control, National Institutes of Health, Environmental Protection Agency, and National Science Foundation) shall be considered for membership on the subcommittee.
 
 "(6) Members of the Committee and its scientific subcommittee established under this subsection shall not be paid for serving on the Committee or subcommittee, but shall receive travel expenses as authorized by section 5703 of title 5, United States Code.
 
@@ -268,7 +270,7 @@ Pub. L. 92–500, §6, Oct. 18, 1972, 86 Stat. 897, provided that:
 
 #### International Agreements
 
-Pub. L. 92–500, §7, Oct. 18, 1972, 86 Stat. 898, provided that: "The President shall undertake to enter into international agreement to apply uniform standards of performance for the control of the discharge and emission of pollutants from new sources, uniform controls over the discharge and emission of toxic pollutants, and uniform controls over the discharge of pollutants into the ocean. For this purpose the President shall negotiate multilateral treaties, conventions, resolutions, or other agreements, and formulate, present, or support proposals at the United Nations and other appropriate international forums."
+Pub. L. 92–500, §7, Oct. 18, 1972, 86 Stat. 898, provided that: "The President shall undertake to enter into international agreement to apply uniform standards ofperformance for the control of the discharge and emission of pollutants from new sources, uniform controls over the discharge and emission of toxic pollutants, and uniform controls over the discharge of pollutants into the ocean. For this purpose the President shall negotiate multilateral treaties, conventions, resolutions, or other agreements, and formulate, present, or support proposals at the United Nations and other appropriate international forums."
 
 #### National Policies and Goal Study
 
@@ -276,7 +278,7 @@ Pub. L. 92–500, §10, Oct. 18, 1972, 86 Stat. 899, directed President to make 
 
 #### Efficiency Study
 
-Pub. L. 92–500, §11, Oct. 18, 1972, 86 Stat. 899, directed President, by utilization of the General Accounting Office, to conduct a full and complete investigation and study of ways and means of most effectively using all of the various resources, facilities, and personnel of theFederal Government in order to most efficiently carry out the provisions of this chapter and to report results of his investigation and study together with his recommendations to Congress not later than two hundred and seventy days after Oct. 18, 1972.
+Pub. L. 92–500, §11, Oct. 18, 1972, 86 Stat. 899, directed President, by utilization of the General Accounting Office, to conduct a full and complete investigation and study of ways and means of most effectively using all of the various resources, facilities, and personnel of the Federal Government in order to most efficiently carry out the provisions of this chapter and to report results of his investigation and study together with his recommendations to Congress not later than two hundred and seventy days after Oct. 18, 1972.
 
 #### Sex Discrimination
 

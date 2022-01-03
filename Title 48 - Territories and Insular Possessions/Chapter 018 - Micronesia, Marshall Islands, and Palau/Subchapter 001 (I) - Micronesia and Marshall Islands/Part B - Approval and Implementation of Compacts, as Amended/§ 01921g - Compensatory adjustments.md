@@ -12,15 +12,19 @@ In addition to the programs and services set forth in section 221 of the U.S.-FS
 
 (Pub. L. 108–188, title I, §108, Dec. 17, 2003, 117 Stat. 2755; Pub. L. 113–128, title V, §512(g)(2), July 22, 2014, 128 Stat. 1708.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Workforce Innovation and Opportunity Act, referred to in subsec. (a), is Pub. L. 113–128, July 22, 2014,128 Stat. 1425. Subtitle C of title I of the Act is classified generally to part C (§3191 et seq.) of subchapter I of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (a), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Subtitle C of title I of the Act is classified generally to part C (§3191 et seq.) of subchapter I of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
 The joint resolution of January 14, 1986 (Public Law 99–239), referred to in subsec. (b)(1), is Pub. L. 99–239, Jan. 14, 1986, 99 Stat. 1770, as amended, known as the Compact of Free Association Act of 1985, which is classified principally to part A of this subchapter and chapter 19 (§2001 et seq.) of this title. Title IV of the joint resolution is set out as a note under section 1901 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
 
 #### Amendments
 
 <b>2014</b>—Subsec. (a). Pub. L. 113–128, §512(g)(2), substituted "subtitle C of title I of the Workforce Innovation and Opportunity Act (relating to Job Corps)" for "subtitle C of title I of the Workforce Investment Act of 1998 (29 U.S.C. 2881 et seq.; relating to Job Corps)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

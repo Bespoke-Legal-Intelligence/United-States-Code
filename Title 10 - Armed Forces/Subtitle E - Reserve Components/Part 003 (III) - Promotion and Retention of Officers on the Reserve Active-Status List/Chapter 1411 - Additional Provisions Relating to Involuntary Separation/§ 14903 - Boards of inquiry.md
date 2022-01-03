@@ -32,9 +32,13 @@ Action in Cases Where Cause for Retention Is Established.—(1) If a board of in
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2958; amended Pub. L. 104–106, div. A, title XV, §1501(b)(32), Feb. 10, 1996, 110 Stat. 498.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (b). Pub. L. 104–106 substituted "title" for "chapter".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

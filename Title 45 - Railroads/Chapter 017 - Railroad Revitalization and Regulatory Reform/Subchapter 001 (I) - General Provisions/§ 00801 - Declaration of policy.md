@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-It is the purpose of the Congress in this Act to provide the means to rehabilitate and maintain the physical facilities, improve the operations and structure, and restore the financial stability of the railway system of the United States, and to promote the revitalization of such railway system, so that this mode of transportation will remain viable in the private sector of the economy and will be able to provide energy-efficient, ecologically compatible transportation services with greater efficiency, effectiveness, and economy, through—
+The purpose of this Act and chapter 224 of title 49, United States Code, is to provide the means to rehabilitate and maintain the physical facilities, improve the operations and structure, and restore the financial stability of the railway system of the United States, and to promote the revitalization of such railway system, so that this mode of transportation will remain viable in the private sector of the economy and will be able to provide energy-efficient, ecologically compatible transportation services with greater efficiency, effectiveness, and economy, through—
 
 &emsp;(1) ratemaking and regulatory reform;
 
@@ -18,7 +18,7 @@ It is the purpose of the Congress in this Act to provide the means to rehabilita
 
 #### (b) Policy
 
-It is declared to be the policy of the Congress in this Act to—
+The policy of this Act and chapter 224 of title 49, United States Code, is to—
 
 &emsp;(1) balance the needs of carriers, shippers, and the public;
 
@@ -34,13 +34,19 @@ It is declared to be the policy of the Congress in this Act to—
 
 &emsp;(7) modernize and clarify the functions of railroad rate bureaus.
 
-(Pub. L. 94–210, title I, §101, Feb. 5, 1976, 90 Stat. 33.)
+(Pub. L. 94–210, title I, §101, Feb. 5, 1976, 90 Stat. 33; Pub. L. 117–58, div. B, title I, §21301(j)(3)(A), Nov. 15, 2021, 135 Stat. 691.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-This Act, referred to in text, means Pub. L. 94–210, Feb. 5, 1976, 90 Stat. 31, as amended, known as the Railroad Revitalization and Regulatory Reform Act of 1976. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This Act, referred to in text, means Pub. L. 94–210, Feb. 5, 1976, 90 Stat. 31, known as the Railroad Revitalization and Regulatory Reform Act of 1976. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+
+#### Amendments
+
+<b>2021</b>—Subsec. (a). Pub. L. 117–58, §21301(j)(3)(A)(i), substituted "The purpose of this Act and chapter 224 of title 49, United States Code, is to" for "It is the purpose of the Congress in this Act to" in introductory provisions.
+
+Subsec. (b). Pub. L. 117–58, §21301(j)(3)(A)(ii), substituted "The policy of this Act and chapter 224 of title 49, United States Code, is" for "It is declared to be the policy of the Congress in this Act" in introductory provisions.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

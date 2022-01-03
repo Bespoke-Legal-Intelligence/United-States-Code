@@ -10,13 +10,17 @@ Multiyear Appropriations.—Beginning with fiscal year 1999, amounts appropriate
 
 (Added Pub. L. 104–264, title II, §277(a), Oct. 9, 1996, 110 Stat. 3248.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 9502 of the Internal Revenue Code of 1986, referred to in subsec. (a), is classified to section 9502 of Title 26, Internal Revenue Code.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
 Section effective on date that is 30 days after Oct. 9, 1996, see section 203 of Pub. L. 104–264, set out as an Effective Date of 1996 Amendment note under section 106 of this title.
 
-Except as otherwise specifically provided, section applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as an Effective Date of 1996 Amendment note under section 106 of this title.
+Except as otherwise specifically provided, section applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds madeavailable for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as an Effective Date of 1996 Amendment note under section 106 of this title.
 

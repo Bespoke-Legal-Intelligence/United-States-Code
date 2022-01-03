@@ -12,7 +12,7 @@ There is established the Federal Interagency Council on Social Impact Partnershi
 
 &emsp;(4) provide subject-matter expertise to the Secretary with regard to the projects;
 
-&emsp;(5) certify to the Secretary that each State or local government that has entered into an agreement with the Secretary for a social impact partnership project under this division and each evaluator selected by the head of therelevant agency under section 1397n–4 of this title has access to Federal administrative data to assist the State or local government and the evaluator in evaluating the performance and outcomes of the project;
+&emsp;(5) certify to the Secretary that each State or local government that has entered into an agreement with the Secretary for a social impact partnership project under this division and each evaluator selected by the head of the relevant agency under section 1397n–4 of this title has access to Federal administrative data to assist the State or local government and the evaluator in evaluating the performance and outcomes of the project;
 
 &emsp;(6) address issues that will influence the future of social impact partnership projects in the United States;
 

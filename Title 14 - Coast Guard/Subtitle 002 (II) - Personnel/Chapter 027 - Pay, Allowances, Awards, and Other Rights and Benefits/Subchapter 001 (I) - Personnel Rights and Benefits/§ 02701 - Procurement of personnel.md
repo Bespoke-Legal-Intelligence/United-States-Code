@@ -26,5 +26,5 @@ A prior section 2701 was renumbered section 4901 of this title.
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 468 of this title as this section.
 
-<b>1996</b>—Pub. L. 104–324 amended text generally. Prior to amendment, text read as follows: "The Coast Guard may make expenditures as necessary in order to obtainrecruits for the service and cadet applicants, including advertising."
+<b>1996</b>—Pub. L. 104–324 amended text generally. Prior to amendment, text read as follows: "The Coast Guard may make expenditures as necessary in order to obtain recruits for the service and cadet applicants, including advertising."
 

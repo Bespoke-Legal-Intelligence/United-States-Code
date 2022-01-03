@@ -124,7 +124,7 @@ Each plan issued under this chapter shall contain the terms and conditions presc
 
 #### (i) Submitting nominations
 
-&emsp;&emsp;&emsp;To fill any vacancy created by the death, removal, resignation, or disqualification ofany member of the Board, the Secretary shall request that at least 2 eligible nominations for a successor for each such vacancy be submitted by the Board in the manner provided in paragraph (8).
+&emsp;&emsp;&emsp;To fill any vacancy created by the death, removal, resignation, or disqualification of any member of the Board, the Secretary shall request that at least 2 eligible nominations for a successor for each such vacancy be submitted by the Board in the manner provided in paragraph (8).
 
 #### (ii) Lack of nominations
 
@@ -204,7 +204,7 @@ The plan shall define the powers and duties of the Board, which shall include th
 
 #### (6) Limitation on spending
 
-&emsp;Effective on the date that is 3 years after the date of the establishment of the Board, the Board shall not spend in excess of 20 percent ofthe assessments collected under section 6007 of this title for administration of the Board.
+&emsp;Effective on the date that is 3 years after the date of the establishment of the Board, the Board shall not spend in excess of 20 percent of the assessments collected under section 6007 of this title for administration of the Board.
 
 #### (e) Contracts and agreements
 
@@ -317,6 +317,8 @@ The plan shall provide that the assessments collected under section 6007 of this
 The plan also shall contain such terms and conditions, not inconsistent with this chapter, as determined necessary by the Secretary to effectuate this chapter.
 
 (Pub. L. 101–624, title XIX, §1910, Nov. 28, 1990, 104 Stat. 3841; Pub. L. 102–237, title VIII, §802(2), Dec. 13, 1991, 105 Stat. 1882.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

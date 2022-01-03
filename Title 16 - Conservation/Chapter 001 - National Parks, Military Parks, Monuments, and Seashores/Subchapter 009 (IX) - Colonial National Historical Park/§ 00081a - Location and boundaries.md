@@ -4,13 +4,19 @@ The Secretary of the Interior is authorized and directed to make an examination 
 
 (July 3, 1930, ch. 837, §2, 46 Stat. 855; June 5, 1936, ch. 525, §2, 49 Stat. 1483.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 443a of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Act June 5, 1936, changed "Colonial National Monument" to "Colonial National Historical Park".
+
+#### <b>Executive Documents</b>
 
 #### Boundaries of Park
 

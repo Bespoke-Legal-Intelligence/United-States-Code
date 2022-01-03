@@ -54,6 +54,8 @@ Beginning on December 27, 2000, the amount of any fee collected under this secti
 
 (Pub. L. 93–383, title VI, §620, Aug. 22, 1974, 88 Stat. 712; Pub. L. 96–153, title III, §320, Dec. 21, 1979, 93 Stat. 1119; Pub. L. 96–399, title III, §308(c)(4), Oct. 8, 1980, 94 Stat. 1641; Pub. L. 106–569, title VI, §609, Dec. 27, 2000, 114 Stat. 3010.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For the effective date of the Manufactured Housing Improvement Act of 2000, referred to in subsec. (e)(3), see section 612 of Pub. L. 106–569, set out as an Effective Date of 2000 Amendment note under section 5401 of this title.
@@ -65,6 +67,8 @@ For the effective date of the Manufactured Housing Improvement Act of 2000, refe
 <b>1980</b>—Pub. L. 96–399 substituted "manufactured home" for "mobile home".
 
 <b>1979</b>—Pub. L. 96–153 substituted "conducting such inspections, and the Secretary may use any fees so collected to pay expenses incurred in connection with such inspections, except" for "conducting such inspections, except".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

@@ -14,9 +14,13 @@ Subsection (a) shall apply to amounts received by the taxpayer for living expens
 
 (Added Pub. L. 91–172, title IX, §901(a), Dec. 30, 1969, 83 Stat. 709.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 123 was renumbered section 140 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

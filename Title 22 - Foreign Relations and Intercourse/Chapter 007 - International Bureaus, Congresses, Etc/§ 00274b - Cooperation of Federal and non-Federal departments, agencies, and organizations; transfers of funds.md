@@ -2,7 +2,7 @@
 
 #### (a) Full cooperation with international biological program
 
-The Congress calls upon all Federal departments and agencies and other persons and organizations, both public and private, to support and cooperate fully with the international biological program and the activities and goals of the United States National Committee and the Interagency Coordinating Committee.
+The Congress calls upon all Federal departments and agencies and other persons and organizations, both public and private, to support and cooperate fully with the international biological program and the activities and goals ofthe United States National Committee and the Interagency Coordinating Committee.
 
 #### (b) Authorization for transfers of funds
 

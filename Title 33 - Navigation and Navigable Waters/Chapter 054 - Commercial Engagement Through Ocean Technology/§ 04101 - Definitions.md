@@ -64,7 +64,7 @@ In this chapter:
 
 #### Short Title
 
-Pub. L. 115–394, §1(a), Dec. 21, 2018, 132 Stat. 5281, provided that: "This Act \[enacting this chapter\] may be cited as the 'Commercial Engagement Through Ocean Technology Act of 2018' or the 'CENOTE Act of 2018'."
+Pub. L. 115–394, §1(a), Dec. 21, 2018, 132 Stat. 5281, provided that: "This Act \[enacting this chapter\] may becited as the 'Commercial Engagement Through Ocean Technology Act of 2018' or the 'CENOTE Act of 2018'."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "term".</i>
 

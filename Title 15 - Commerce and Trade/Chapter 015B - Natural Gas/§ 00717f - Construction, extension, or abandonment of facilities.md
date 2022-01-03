@@ -2,7 +2,7 @@
 
 #### (a) Extension or improvement of facilities on order of court; notice and hearing
 
-Whenever the Commission, after notice and opportunity for hearing, finds such action necessary or desirable in the public interest, it may by order direct a natural-gas company to extend or improve its transportation facilities, to establish physical connection of its transportation facilities with the facilities of, and sell natural gas to, any person or municipality engaged or legally authorized to engage in the local distribution of natural or artificial gas to the public, and for such purpose to extend its transportation facilities to communities immediately adjacent to such facilities or to territory servedby such natural-gas company, if the Commission finds that no undue burden will be placed upon such natural-gas company thereby: <i>Provided</i>, That the Commission shall have no authority to compel the enlargement of transportation facilities for such purposes, or to compel such natural-gas company to establish physical connection or sell natural gas when to do so would impair its ability to render adequate service to its customers.
+Whenever the Commission, after notice and opportunity for hearing, finds such action necessary or desirable in the public interest, it may by order direct a natural-gas company to extend or improve its transportation facilities, to establish physical connection of its transportation facilities with the facilities of, and sell natural gas to, any person or municipality engaged or legally authorized to engage in the local distribution of natural or artificial gas to the public, and for such purpose to extend its transportation facilities to communities immediately adjacent to such facilities or to territory served by such natural-gas company, if the Commission finds that no undue burden will be placed upon such natural-gas company thereby: <i>Provided</i>, That the Commission shall have no authority to compel the enlargement of transportation facilities for such purposes, or to compel such natural-gas company to establish physical connection or sell natural gas when to do so would impair its ability to render adequate service to its customers.
 
 #### (b) Abandonment of facilities or services; approval of Commission
 
@@ -44,6 +44,8 @@ When any holder of a certificate of public convenience and necessity cannot acqu
 
 (June 21, 1938, ch. 556, §7, 52 Stat. 824; Feb. 7, 1942, ch. 49, 56 Stat. 83; July 25, 1947, ch. 333, 61 Stat. 459; Pub. L. 95–617, title VI, §608, Nov. 9, 1978, 92 Stat. 3173; Pub. L. 100–474, §2, Oct. 6, 1988, 102 Stat. 2302.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Subsec. (f). Pub. L. 100–474 designated existing provisions as par. (1) and added par. (2).
@@ -56,9 +58,13 @@ Subsec. (e). Pub. L. 95–617, §608(b)(2), substituted "subsection (c)(1)" for 
 
 <b>1942</b>—Subsecs. (c) to (g). Act Feb. 7, 1942, struck out subsec. (c), and added new subsecs. (c) to (g).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1988 Amendment
 
 Pub. L. 100–474, §3, Oct. 6, 1988, 102 Stat. 2302, provided that: "The provisions of this Act \[amending this section and enacting provisions set out as a note under section 717w of this title\] shall become effective one hundred and twenty days after the date of enactment \[Oct. 6, 1988\]."
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

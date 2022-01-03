@@ -80,6 +80,8 @@ The issuance of any rule under this section is subject to judicial review as pro
 
 (Pub. L. 110–314, title I, §106, Aug. 14, 2008, 122 Stat. 3033; Pub. L. 112–28, §4, Aug. 12, 2011, 125 Stat. 280.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsec. (h)(1), is Pub. L. 110–314, Aug. 14, 2008, 122 Stat. 3016, known as the Consumer Product Safety Improvement Act of 2008. For complete classification of this Act to the Code, see Short Title of 2008 Amendment note set out under section 2051 of this title and Tables.
@@ -93,6 +95,8 @@ Section was enacted as part of the Consumer Product Safety Improvement Act of 20
 #### Amendments
 
 <b>2011</b>—Subsec. (a). Pub. L. 112–28 inserted "or any provision that restates or incorporates a regulation promulgated by the Food and Drug Administration or any statute administered by the Food and Drug Administration" after "or by statute".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definition
 

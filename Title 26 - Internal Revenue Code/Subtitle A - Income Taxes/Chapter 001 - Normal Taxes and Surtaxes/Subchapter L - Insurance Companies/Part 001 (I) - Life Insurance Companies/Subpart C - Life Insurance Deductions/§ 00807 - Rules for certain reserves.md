@@ -38,7 +38,7 @@ The items referred to in subsections (a) and (b) are as follows:
 
 &emsp;(5) Premiums received in advance, and liabilities for premium deposit funds.
 
-&emsp;(6) Reasonable special contingency reserves under contracts of group term life insurance or group accident and health insurance which are established and maintained for the provision of insurance on retired lives, for premium stabilization, or for a combination thereof.
+&emsp;(6) Reasonable special contingency reserves under contracts of group term life insuranceor group accident and health insurance which are established and maintained for the provision of insurance on retired lives, for premium stabilization, or for a combination thereof.
 
 > For purposes of paragraph (3), the appropriate rate of interest is the highest rate or rates permitted to be used to discount the obligations by the National Association of Insurance Commissioners as of the date the reserve is determined. In no case shall the amount determined under paragraph (3) for any contract be less than the net surrender value of such contract. For purposes of paragraph (2) and section 805(a)(1), the amount of the unpaid losses (other than losses on life insurance contracts) shall be the amount of the discounted unpaid losses as defined in section 846.
 
@@ -116,7 +116,7 @@ The items referred to in subsections (a) and (b) are as follows:
 
 #### (ii) CARVM
 
-&emsp;&emsp;&emsp;The term "CARVM" means the Commissioners' Annuities Reserve ValuationMethod prescribed by the National Association of Insurance Commissioners which is applicable to the contract and in effect as of the date the reserve is determined.
+&emsp;&emsp;&emsp;The term "CARVM" means the Commissioners' Annuities Reserve Valuation Method prescribed by the National Association of Insurance Commissioners which is applicable to the contract and in effect as of the date the reserve is determined.
 
 #### (C) No additional reserve deduction allowed for deficiency reserves
 
@@ -244,6 +244,8 @@ The items referred to in subsections (a) and (b) are as follows:
 
 (Added Pub. L. 98–369, div. A, title II, §211(a), July 18, 1984, 98 Stat. 726; amended Pub. L. 99–514, title X, §1023(b), title XVIII, §1821(a), (s), Oct. 22, 1986, 100 Stat. 2399, 2837, 2843; Pub. L. 100–203, title X, §10241(a)–(b)(2)(A), Dec. 22, 1987, 101 Stat. 1330–419, 1330–420; Pub. L. 101–508, title XI, §11302(a), Nov. 5, 1990, 104 Stat. 1388–449; Pub. L. 104–188, title I, §1704(t)(61), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 104–191, title III, §321(b), Aug. 21, 1996, 110 Stat. 2058; Pub. L. 105–34, title X, §1084(b)(2), Aug. 5, 1997, 111 Stat. 954; Pub. L. 108–218, title II, §205(b)(1), (2), Apr. 10, 2004, 118 Stat. 610; Pub. L. 113–295, div. A, title II, §221(a)(68), Dec. 19, 2014, 128 Stat. 4048; Pub. L. 115–97, title I, §§13513(a), 13517(a)(1)–(3), Dec. 22, 2017, 131 Stat. 2143–2145; Pub. L. 115–141, div. U, title IV, §401(a)(141), Mar. 23, 2018, 132 Stat. 1191.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Another section 1084(b) of Pub. L. 105–34 amended sections 101 and 264 of this title.
@@ -310,7 +312,7 @@ Subsec. (f)(1). Pub. L. 115–97, §13513(a), amended par. (1) generally. Prior 
 
 <b>2014</b>—Subsec. (e)(7)(B), (C). Pub. L. 113–295 redesignated subpar. (C) as (B) and struck out former subpar. (B) which related to transitional rule.
 
-<b>2004</b>—Subsecs. (a)(2)(B), (b)(1)(B). Pub. L. 108–218, §205(b)(1), struck out "the sum of (i)" before "the amount" and struck out "plus (ii) any excess described in section 809(a)(2) for the taxable year," after "to which section 264(f) applies,".
+<b>2004</b>—Subsecs. (a)(2)(B), (b)(1)(B). Pub. L. 108–218, §205(b)(1), struck out "the sum of (i)" before "theamount" and struck out "plus (ii) any excess described in section 809(a)(2) for the taxable year," after "to which section 264(f) applies,".
 
 Subsec. (d)(1). Pub. L. 108–218, §205(b)(2)(A), substituted "paragraph (6)" for "section 809(b)(4)(B)" in concluding provisions.
 
@@ -337,6 +339,8 @@ Subsec. (d)(4). Pub. L. 100–203, §10241(b)(1), substituted "Applicable Federa
 Pub. L. 99–514, §1821(a), inserted at end "In no case shall the amount determined under paragraph (3) for any contract be less than the net surrender value of such contract."
 
 Subsec. (d)(5)(C). Pub. L. 99–514, §1821(s), inserted at end "When the Secretary by regulation changes the table applicable to a type of contract, the new table shall be treated (for purposes of subparagraph (B) and for purposes of determining the issue dates of contracts for which it shall be used) as if it were a new prevailing commissioner's standard table adopted by the twenty-sixth State as of a date (no earlier than the date the regulation is issued) specified by the Secretary."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 
@@ -384,7 +388,7 @@ Pub. L. 108–218, title II, §205(c), Apr. 10, 2004, 118 Stat. 610, provided th
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to contracts issued after June 8, 1997, in taxable years ending aftersuch date, with special provisions relating to changes in contracts to be treated as new contracts, see section 1084(d) of Pub. L. 105–34, set out as a note under section 101 of this title.
+Amendment by Pub. L. 105–34 applicable to contracts issued after June 8, 1997, in taxable years ending after such date, with special provisions relating to changes in contracts to be treated as new contracts, see section 1084(d) of Pub. L. 105–34, set out as a note under section 101 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -396,7 +400,7 @@ Pub. L. 101–508, title XI, §11302(b), Nov. 5, 1990, 104 Stat. 1388–450, pro
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–203, title X, §10241(c), Dec. 22, 1987, 101 Stat. 1330–420, provided that: "The amendments made by this section \[amending this section and section 812 of this title\] shall apply to contracts issued in taxable years beginning after December 31, 1987."
+Pub. L. 100–203, title X, §10241(c), Dec. 22, 1987, 101 Stat. 1330–420, provided that: "The amendments madeby this section \[amending this section and section 812 of this title\] shall apply to contracts issued in taxable years beginning after December 31, 1987."
 
 #### Effective Date of 1986 Amendment
 

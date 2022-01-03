@@ -24,7 +24,7 @@ If a group health plan, or a health insurance issuer offering group health insur
 
 #### (B) Obstetrical and gynecological care
 
-&emsp;&emsp;A group health plan or health insurance issuer described in paragraph (2) shall treat the provision of obstetrical and gynecological care, and the ordering of related obstetrical and gynecological items and services, pursuant to the direct access described under subparagraph (A), by a participating health care professional who specializes in obstetrics or gynecology as the authorization of the primary care provider.
+&emsp;&emsp;A group health plan or health insurance issuer described in paragraph (2) shall treat the provision of obstetrical and gynecological care, and the ordering of related obstetrical and gynecological items and services, pursuant to the direct access described under subparagraph (A), by a participatinghealth care professional who specializes in obstetrics or gynecology as the authorization of the primary care provider.
 
 #### (2) Application of paragraph
 

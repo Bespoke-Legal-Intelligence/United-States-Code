@@ -14,7 +14,7 @@ The provisions of this chapter shall not apply with respect to a seizure made by
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–364 applicable with respect to seizures made after Apr. 1, 1983, by foreign countries of vessels of the United States, see section 303(c) of Pub. L. 98–364, set out as a note under section 1972 of this title.
+Amendment by Pub. L. 98–364 applicable with respect to seizures made after Apr. 1, 1983, by foreign countriesof vessels of the United States, see section 303(c) of Pub. L. 98–364, set out as a note under section 1972 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "of".</i>
 

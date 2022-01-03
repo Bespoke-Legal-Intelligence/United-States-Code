@@ -418,7 +418,7 @@ Pub. L. 109–121, Dec. 1, 2005, 119 Stat. 2533, as amended by Pub. L. 113–289
 
 &emsp;"(6) to promote country and local ownership of safe water and sanitation programs, to the extent appropriate;
 
-&emsp;"(7) to promote community-based approaches in the provision of affordable and equitable access to safewater and sanitation, including the involvement of civil society;
+&emsp;"(7) to promote community-based approaches in the provision of affordable and equitable access to safe water and sanitation, including the involvement of civil society;
 
 &emsp;"(8) to mobilize and leverage the financial and technical capacity of businesses, governments, nongovernmental organizations, and civil society in the form of public-private alliances;
 

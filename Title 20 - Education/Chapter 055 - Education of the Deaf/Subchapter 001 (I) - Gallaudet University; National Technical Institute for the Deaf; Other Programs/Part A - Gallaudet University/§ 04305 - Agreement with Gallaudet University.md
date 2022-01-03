@@ -8,7 +8,7 @@ The Secretary and Gallaudet University shall establish, and periodically update,
 
 The agreement shall—
 
-&emsp;(1) provide that Federal funds appropriated for the benefit of the Kendall Demonstration Elementary School and the Model Secondary School for the Deaf will be used only for thepurposes for which appropriated and in accordance with the applicable provisions of this chapter and such agreement;
+&emsp;(1) provide that Federal funds appropriated for the benefit of the Kendall Demonstration Elementary School and the Model Secondary School for the Deaf will be used only for the purposes for which appropriated and in accordance with the applicable provisions of this chapter and such agreement;
 
 &emsp;(2) provide that the University will make an annual report, to be part of the report required under section 4354 of this title, to the Secretary on the operations and national mission activities of the elementary and secondary education programs, including such other information as the Secretary may consider necessary;
 
@@ -19,6 +19,8 @@ The agreement shall—
 &emsp;(5) include such other conditions as the Secretary or the University considers necessary to carry out the purposes of this part.
 
 (Pub. L. 99–371, title I, §105, as added Pub. L. 102–421, title I, §113, Oct. 16, 1992, 106 Stat. 2154; amended Pub. L. 103–73, title II, §203(e), Aug. 11, 1993, 107 Stat. 734; Pub. L. 105–244, title IX, §913, Oct. 7, 1998, 112 Stat. 1830; Pub. L. 110–315, title IX, §902, Aug. 14, 2008, 122 Stat. 3451.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -33,6 +35,8 @@ Reorganization Plan Numbered 14 of 1950, referred to in subsec. (b)(4), is set o
 <b>1993</b>—Subsec. (b)(2). Pub. L. 103–73, §203(e)(1), substituted "will" for "shall".
 
 Subsec. (b)(4). Pub. L. 103–73, §203(e)(2), substituted "Elementary School or the Model" for "Elementary School and the Model" and "except that the Secretary" for "and the Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

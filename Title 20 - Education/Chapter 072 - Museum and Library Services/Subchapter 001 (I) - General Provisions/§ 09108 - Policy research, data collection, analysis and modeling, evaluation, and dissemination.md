@@ -78,6 +78,8 @@ The Director shall provide technical support and assistance (and other resources
 
 (Pub. L. 94–462, title II, §210, as added Pub. L. 108–81, title I, §105, Sept. 25, 2003, 117 Stat. 996; amended Pub. L. 111–340, title I, §106, Dec. 22, 2010, 124 Stat. 3598; Pub. L. 115–410, §5, Dec. 31, 2018, 132 Stat. 5413.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (b)(3), was in the original "this Act" and was translated as reading "this title", meaning title II of Pub. L. 94–462, known as the Museum and Library Services Act, to reflect the probable intent of Congress.

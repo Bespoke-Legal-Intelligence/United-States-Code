@@ -34,9 +34,11 @@ The Secretary shall transmit the guidelines issued under subsection (a) to the S
 
 (Pub. L. 100–607, title II, §253, Nov. 4, 1988, 102 Stat. 3108; Pub. L. 100–690, title II, §2602(c), Nov. 18, 1988, 102 Stat. 4234; Pub. L. 102–531, title III, §312(e)(3), Oct. 27, 1992, 106 Stat. 3506.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Occupational Safety and Health Act of 1970, referred to in subsec. (b), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
+The Occupational Safety and Health Act of 1970, referred to in subsec. (b), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principallyto chapter 15 (§651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
 
 #### Codification
 
@@ -47,6 +49,8 @@ Section was enacted as part of the AIDS Amendments of 1988 and as part of the He
 <b>1992</b>—Subsecs. (a), (c)(1), (4). Pub. L. 102–531 substituted "Centers for Disease Control and Prevention" for "Centers for Disease Control".
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–690 substituted "health workers and public safety workers" for "health workers, public safety workers".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

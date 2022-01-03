@@ -39,6 +39,12 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+|  |  |
+| :--- | ---: |
+| [30129\.](Subchapter%20002%20%28II%29%20-%20Standards%20and%20Compliance/%C2%A7%2030129%20-%20Crash%20avoidance%20technology.md) | Crash avoidance technology. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### SUBCHAPTER III—IMPORTING NONCOMPLYING MOTOR VEHICLES AND EQUIPMENT
 
 |  |  |
@@ -82,7 +88,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Pub. L. 117–58, div. B, title IV, §24208(b), Nov. 15, 2021, 135 Stat. 823, which directed amendment of the analysis for subchapter II of this chapter by adding item 30129 at the end, was executed by adding item 30129 to the analysis for this chapter to reflect the probable intent of Congress.
 
 <b>2015</b>—Pub. L. 114–94, div. B, title XXIV, §24352(c), Dec. 4, 2015, 129 Stat. 1720, which directed amendment of the analysis for subchapter IV of this chapter by adding item 30172 at the end, was executed by adding item 30172 to the analysis for this chapter to reflect the probable intent of Congress.
 

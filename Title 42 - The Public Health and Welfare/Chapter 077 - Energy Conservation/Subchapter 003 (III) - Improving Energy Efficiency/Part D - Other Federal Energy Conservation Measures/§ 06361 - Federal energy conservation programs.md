@@ -32,6 +32,8 @@ In addition to funds authorized in any other law, there is authorized to be appr
 
 (Pub. L. 94–163, title III, §381, Dec. 22, 1975, 89 Stat. 939; Pub. L. 95–619, title V, §501, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3275, 3288; Pub. L. 100–615, §2(b), Nov. 5, 1988, 102 Stat. 3189.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Subsec. (c) of this section, which required the Secretary to include in the report required under section 8258(b) of this title the steps taken under subsecs. (a) and (b) of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, the 13th item on page 19 and the 3rd item on page 138 of House Document No. 103–7.
@@ -44,9 +46,13 @@ Subsec. (c) of this section, which required the Secretary to include in the repo
 
 Subsecs. (d), (e). Pub. L. 95–619, §501, added subsecs. (d) and (e).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transfer of Functions
 
 Functions vested in Secretary \[formerly Administrator of Federal Energy Administration\] under subsec. (b)(1)(B) of this section transferred to Secretary of Transportation by section 7159 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 12191. Federal Facility Ridesharing Program
 
@@ -80,7 +86,7 @@ Responsibilities of the Administrator of General Services
 
 1–205. The Administrator shall take into consideration the advice of the Environmental Protection Agency under the Clean Air Act, as amended \[42 U.S.C. 7401 et seq.\] in performing his responsibilities under this Order.
 
-1–206. The Administrator shall, in consultation with the Secretary of Transportation, report annually to the President on the performance of the agencies in implementing the policies and actions contained in this Order. The report shall include (a) an assessment of each agency's performance, including the reasonableness of its goals and the adequacy of its effort, (b) a comparison of private sector and State and local government ridesharing efforts with those of the Federal government, and (c) recommendations for additional actions necessary to remove barriers or to provide additional incentives to encourage more ridesharing by personnel at Federal facilities.
+1–206. The Administrator shall, in consultation with the Secretary of Transportation, report annually to thePresident on the performance of the agencies in implementing the policies and actions contained in this Order. The report shall include (a) an assessment of each agency's performance, including the reasonableness of its goals and the adequacy of its effort, (b) a comparison of private sector and State and local government ridesharing efforts with those of the Federal government, and (c) recommendations for additional actions necessary to remove barriers or to provide additional incentives to encourage more ridesharing by personnel at Federal facilities.
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

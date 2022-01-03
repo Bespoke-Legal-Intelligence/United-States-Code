@@ -10,7 +10,7 @@ The Secretary is authorized to make or guarantee loans (either directly or in co
 
 &emsp;(3) the amount of the loan, together with other funds available, is adequate to assure completion of the project or achievement of the purposes for which the loan is made.
 
-> Loans made by the Secretary pursuant to this section shall bear interest at a rate not less than a rate determined by the Secretary of the Treasury taking into consideration the average market yield on outstanding Treasury obligations of comparable maturity, plus such additional charge, if any, toward covering other costs of the program as the Secretary of Health and Human Services may determine to be consistent with its purposes, except that, for the 5years following the date in which funds are initially available to the borrower, the rate of interest shall be set at a rate considered appropriate by the Secretary in light of the particular needs of the borrower, which rate shall not be lower than 1 percent. All such loans shall be repayable within a period of not more than 30 years.
+> Loans made by the Secretary pursuant to this section shall bear interest at a rate not less than a rate determined by the Secretary of the Treasury taking into consideration the average market yield on outstanding Treasury obligations of comparable maturity, plus such additional charge, if any, toward covering other costs of the program as the Secretary of Health and Human Services may determine to be consistent with its purposes, except that, for the 5 years following the date in which funds are initially available to the borrower, the rate of interest shall be set at a rate considered appropriate by the Secretary in light of the particular needs of the borrower, which rate shall not be lower than 1 percent. All such loans shall be repayable within a period of not more than 30 years.
 
 #### (b) Adjustment of interest rates, moratorium on principal and interest, etc.
 
@@ -26,6 +26,8 @@ The Secretary is authorized to adjust interest rates, grant moratoriums on repay
 
 (Pub. L. 97–35, title VI, §623, Aug. 13, 1981, 95 Stat. 494; Pub. L. 101–624, title XXIII, §2303(f)(1), Nov. 28, 1990, 104 Stat. 3981.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Chapter 106 of this title, referred to in subsec. (a), was in the original "subtitle B of this title", meaning subtitle B (§671 et seq.) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, as amended, known as the Community Services Block Grant Act, which is classified generally to chapter 106 (§9901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9901 of this title and Tables.
@@ -35,6 +37,8 @@ The Economic Opportunity Act of 1964, referred to in subsec. (c)(2), is Pub. L. 
 #### Amendments
 
 <b>1990</b>—Subsec. (c)(2). Pub. L. 101–624 inserted ", or the Rural Development Administration" after "Farmers Home Administration".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

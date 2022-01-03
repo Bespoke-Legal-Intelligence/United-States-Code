@@ -120,13 +120,13 @@
 
 #### (c) Later separation of fuel from diesel-water fuel emulsion
 
-If any person separates the taxable fuel from a diesel-water fuel emulsion on which tax was imposed under subsection (a) at a rate determinedunder subsection (a)(2)(D) (or with respect to which a credit or payment was allowed or made by reason of section 6427), such person shall be treated as the refiner of such taxable fuel. The amount of tax imposed on any removal of such fuel by such person shall be reduced by the amount of tax imposed (and not credited or refunded) on any prior removal or entry of such fuel.
+If any person separates the taxable fuel from a diesel-water fuel emulsion on which tax was imposed under subsection (a) at a rate determined under subsection (a)(2)(D) (or with respect to which a credit or payment was allowed or made by reason of section 6427), such person shall be treated as the refiner of such taxable fuel. The amount of tax imposed on any removal of such fuel by such person shall be reduced by the amount of tax imposed (and not credited or refunded) on any prior removal or entry of such fuel.
 
 #### (d) Termination
 
 #### (1) In general
 
-&emsp;The rates of tax specified in clauses (i) and (iii) of subsection (a)(2)(A) shall be 4.3 cents per gallon after September 30, 2022.
+&emsp;The rates of tax specified in clauses (i) and (iii) of subsection (a)(2)(A) shall be 4.3 cents per gallon after September 30, 2028.
 
 #### (2) Aviation fuels
 
@@ -138,13 +138,15 @@ If any person separates the taxable fuel from a diesel-water fuel emulsion on wh
 
 #### (3) Leaking Underground Storage Tank Trust Fund financing rate
 
-&emsp;The Leaking Underground Storage Tank Trust Fund financing rate under subsection (a)(2) shall apply after September 30, 1997, and before October 1, 2022.
+&emsp;The Leaking Underground Storage Tank Trust Fund financing rate under subsection (a)(2) shall apply after September 30, 1997, and before October 1, 2028.
 
 #### (e) Refunds in certain cases
 
 Under regulations prescribed by the Secretary, if any person who paid the tax imposed by this section with respect to any taxable fuel establishes to the satisfaction of the Secretary that a prior tax was paid (and not credited or refunded) with respect to such taxable fuel, then an amount equal to the tax paid by such person shall be allowed as a refund (without interest) to such person in the same manner as if it were an overpayment of tax imposed by this section.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 483; Mar. 30, 1955, ch. 18, §3(a)(3), 69 Stat. 14; Mar. 29, 1956, ch. 115, §3(a)(3), 70 Stat. 66; June 29, 1956, ch. 462, title II, §205, 70 Stat. 389; Pub. L. 86–342, title II, §201(a), Sept. 21, 1959, 73 Stat. 613; Pub. L. 87–61, title II, §201(b)–(d), June 29, 1961, 75 Stat. 123, 124; Pub. L. 91–605, title III, §303(a)(6), Dec. 31, 1970, 84 Stat. 1744; Pub. L. 94–280, title III, §303(a)(6), May 5, 1976, 90 Stat. 456; Pub. L. 95–599, title V, §502(a)(5), Nov. 6, 1978, 92 Stat. 2756; Pub. L. 95–618, title II, §221(a)(1), Nov. 9, 1978, 92 Stat. 3185; Pub. L. 96–223, title II, §232(a)(1), (b)(3)(A), (d)(3), Apr. 2, 1980, 94 Stat. 273, 276, 277; Pub. L. 97–424, title V, §§511(a)(1), (d)(1), 516(a)(3), Jan. 6, 1983, 96 Stat. 2169, 2171, 2182; Pub. L. 98–369, div. A, title VII, §732(a)(1), (2), title IX, §912(b), (f), July 18, 1984, 98 Stat. 976, 977, 1007; Pub. L. 99–499, title V, §521(a)(1), Oct. 17, 1986, 100 Stat. 1774; Pub. L. 99–514, title XVII, §1703(a), Oct. 22, 1986, 100 Stat. 2774; Pub. L. 100–17, title V, §502(a)(4), (c)(2), Apr. 2, 1987, 101 Stat. 256, 257; Pub. L. 100–203, title X, §10502(d)(2), Dec. 22, 1987, 101 Stat. 1330–444; Pub. L. 100–647, title I, §1017(c)(1), (14), title II, §2001(d)(5), title VI, §6104(a), Nov. 10, 1988, 102 Stat. 3575, 3577, 3595, 3711; Pub. L. 101–508, title XI, §§11211(a)(1)–(3), (5)(A)–(C), (c)(3), (e)(3), 11212(a), (d)(1), (e)(2), 11215(a), Nov. 5, 1990, 104 Stat. 1388–423, 1388–424, 1388–426, 1388–427, 1388–430, 1388–432, 1388–436; Pub. L. 102–240, title VIII, §8002(a)(3), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 102–486, title XIX, §1920(a), (b), Oct. 24, 1992, 106 Stat. 3026; Pub. L. 103–66, title XIII, §§13241(a), 13242(a), Aug. 10, 1993, 107 Stat. 510, 514; Pub. L. 104–188, title I, §1609(a)(2), (g)(1), (2), (4)(B), Aug. 20, 1996, 110 Stat. 1841–1843; Pub. L. 105–2, §2(a)(2), Feb. 28, 1997, 111 Stat. 4; Pub. L. 105–34, title X, §§1031(a)(2), 1032(b), 1033, Aug. 5, 1997, 111 Stat. 929, 933, 937; Pub. L. 105–178, title IX, §§9002(a)(1)(F), 9003(a)(1)(C), (b)(2)(B), (C), June 9, 1998, 112 Stat. 499, 502, 503; Pub. L. 108–357, title III, §301(c)(7), title VIII, §§853(a)(1)–(3)(A), (4), 860(a), Oct. 22, 2004, 118 Stat. 1461, 1609–1611, 1618; Pub. L. 109–6, §1(a), Mar. 31, 2005, 119 Stat. 20; Pub. L. 109–58, title XIII, §§1343(a), (b)(2), 1362(a), Aug. 8, 2005, 119 Stat. 1051, 1052, 1059; Pub. L. 109–59, title XI, §§11101(a)(1)(F), 11151(b)(1), (2), 11161(a)(1)–(4)(D), 11166(b)(1), Aug. 10, 2005, 119 Stat. 1944, 1968–1970, 1976; Pub. L. 110–161, div. K, title I, §116(a), Dec. 26, 2007, 121 Stat. 2381; Pub. L. 110–190, §2(a), Feb. 28, 2008, 122 Stat. 643; Pub. L. 110–253, §2(a), June 30, 2008, 122 Stat. 2417; Pub. L. 110–330, §2(a), Sept. 30, 2008, 122 Stat. 3717; Pub. L. 111–12, §2(a), Mar. 30, 2009, 123 Stat. 1457; Pub. L. 111–69, §2(a), Oct. 1, 2009, 123 Stat. 2054; Pub. L. 111–116, §2(a), Dec. 16, 2009, 123 Stat. 3031; Pub. L. 111–153, §2(a), Mar. 31, 2010, 124 Stat. 1084; Pub. L. 111–161, §2(a), Apr. 30, 2010, 124 Stat. 1126; Pub. L. 111–197, §2(a), July 2, 2010, 124 Stat. 1353; Pub. L. 111–216, title I, §101(a), Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, §2(a), Sept. 30, 2010, 124 Stat. 2627; Pub. L. 111–329, §2(a), Dec. 22, 2010, 124 Stat. 3566; Pub. L. 112–7, §2(a), Mar. 31, 2011, 125 Stat. 31; Pub. L. 112–16, §2(a), May 31, 2011, 125 Stat. 218; Pub. L. 112–21, §2(a), June 29, 2011, 125 Stat. 233; Pub. L. 112–27, §2(a), Aug. 5, 2011, 125 Stat. 270; Pub. L. 112–30, title I, §142(a)(1)(C), (2)(D), title II, §202(a), Sept. 16, 2011, 125 Stat. 356, 357; Pub. L. 112–91, §2(a), Jan. 31, 2012, 126 Stat. 3; Pub. L. 112–95, title XI, §1101(a), Feb. 14, 2012, 126 Stat. 148; Pub. L. 112–102, title IV, §402(a)(1)(C), (2)(D), Mar. 30, 2012, 126 Stat. 282; Pub. L. 112–140, title IV, §402(a)(1)(C), (2)(D), June 29, 2012, 126 Stat. 402; Pub. L. 112–141, div. D, title I, §40102(a)(1)(C), (2)(D), July 6, 2012, 126 Stat. 844; Pub. L. 114–55, title II, §202(a), Sept. 30, 2015, 129 Stat. 525; Pub. L. 114–94, div. C, title XXXI, §31102(a)(1)(C), (2)(D), Dec. 4, 2015, 129 Stat. 1727; Pub. L. 114–141, title II, §202(a), Mar. 30, 2016, 130 Stat. 324; Pub. L. 114–190, title I, §1202(a), July 15, 2016, 130 Stat. 619; Pub. L. 115–63, title II, §202(a), Sept. 29, 2017, 131 Stat. 1171; Pub. L. 115–141, div. M, title I, §202(a), Mar. 23, 2018, 132 Stat. 1048; Pub. L. 115–254, div. B, title VIII, §802(a), Oct. 5, 2018, 132 Stat. 3428.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 483; Mar. 30, 1955, ch. 18, §3(a)(3), 69 Stat. 14; Mar. 29, 1956, ch. 115, §3(a)(3), 70 Stat. 66; June 29, 1956, ch. 462, title II,§205, 70 Stat. 389; Pub. L. 86–342, title II, §201(a), Sept. 21, 1959, 73 Stat. 613; Pub. L. 87–61, title II, §201(b)–(d), June 29, 1961, 75 Stat. 123, 124; Pub. L. 91–605, title III, §303(a)(6), Dec. 31, 1970, 84 Stat. 1744; Pub. L. 94–280, title III, §303(a)(6), May 5, 1976, 90 Stat. 456; Pub. L. 95–599, title V, §502(a)(5), Nov. 6, 1978, 92 Stat. 2756; Pub. L. 95–618, title II, §221(a)(1), Nov. 9, 1978, 92 Stat. 3185; Pub. L. 96–223, title II, §232(a)(1), (b)(3)(A), (d)(3), Apr. 2, 1980, 94 Stat. 273, 276, 277; Pub. L. 97–424, title V, §§511(a)(1), (d)(1), 516(a)(3), Jan. 6, 1983, 96 Stat. 2169, 2171, 2182; Pub. L. 98–369, div. A, title VII, §732(a)(1), (2), title IX, §912(b), (f), July 18, 1984, 98 Stat. 976, 977, 1007; Pub. L. 99–499, title V, §521(a)(1), Oct. 17, 1986, 100 Stat. 1774; Pub. L. 99–514, title XVII, §1703(a), Oct. 22, 1986, 100 Stat. 2774; Pub. L. 100–17, title V, §502(a)(4), (c)(2), Apr. 2, 1987, 101 Stat. 256, 257; Pub. L. 100–203, title X, §10502(d)(2), Dec. 22, 1987, 101 Stat. 1330–444; Pub. L. 100–647, title I, §1017(c)(1), (14), title II, §2001(d)(5), title VI, §6104(a), Nov. 10, 1988, 102 Stat. 3575, 3577, 3595, 3711; Pub. L. 101–508, title XI, §§11211(a)(1)–(3), (5)(A)–(C), (c)(3), (e)(3), 11212(a), (d)(1), (e)(2), 11215(a), Nov. 5, 1990, 104 Stat. 1388–423, 1388–424, 1388–426, 1388–427, 1388–430, 1388–432, 1388–436; Pub. L. 102–240, title VIII, §8002(a)(3), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 102–486, title XIX, §1920(a), (b), Oct. 24, 1992, 106 Stat. 3026; Pub. L. 103–66, title XIII, §§13241(a), 13242(a), Aug. 10, 1993, 107 Stat. 510, 514; Pub. L. 104–188, title I, §1609(a)(2), (g)(1), (2), (4)(B), Aug. 20, 1996, 110 Stat. 1841–1843; Pub. L. 105–2, §2(a)(2), Feb. 28, 1997, 111 Stat. 4; Pub. L. 105–34, title X, §§1031(a)(2), 1032(b), 1033, Aug. 5, 1997, 111 Stat. 929, 933, 937; Pub. L. 105–178, title IX, §§9002(a)(1)(F), 9003(a)(1)(C), (b)(2)(B), (C), June 9, 1998, 112 Stat. 499, 502, 503; Pub. L. 108–357, title III, §301(c)(7), title VIII, §§853(a)(1)–(3)(A), (4), 860(a), Oct. 22, 2004, 118 Stat. 1461, 1609–1611, 1618; Pub. L. 109–6, §1(a), Mar. 31, 2005, 119 Stat. 20; Pub. L. 109–58, title XIII, §§1343(a), (b)(2), 1362(a), Aug. 8, 2005, 119 Stat. 1051, 1052, 1059; Pub. L. 109–59, title XI, §§11101(a)(1)(F), 11151(b)(1), (2), 11161(a)(1)–(4)(D), 11166(b)(1), Aug. 10, 2005, 119 Stat. 1944, 1968–1970, 1976; Pub. L. 110–161, div. K, title I, §116(a), Dec. 26, 2007, 121 Stat. 2381; Pub. L. 110–190, §2(a), Feb. 28, 2008, 122 Stat. 643; Pub. L. 110–253, §2(a), June 30, 2008, 122 Stat. 2417; Pub. L. 110–330, §2(a), Sept. 30, 2008, 122 Stat. 3717; Pub. L. 111–12, §2(a), Mar. 30, 2009, 123 Stat. 1457; Pub. L. 111–69, §2(a), Oct. 1, 2009, 123 Stat. 2054; Pub. L. 111–116, §2(a), Dec. 16, 2009, 123 Stat. 3031; Pub. L. 111–153, §2(a), Mar. 31, 2010, 124 Stat. 1084; Pub. L. 111–161, §2(a), Apr. 30, 2010, 124 Stat. 1126; Pub. L. 111–197, §2(a), July 2, 2010, 124 Stat. 1353; Pub. L. 111–216, title I, §101(a), Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, §2(a), Sept. 30, 2010, 124 Stat. 2627; Pub. L. 111–329, §2(a), Dec. 22, 2010, 124 Stat. 3566; Pub. L. 112–7, §2(a), Mar. 31, 2011, 125 Stat. 31; Pub. L. 112–16, §2(a), May 31, 2011, 125 Stat. 218; Pub. L. 112–21, §2(a), June 29, 2011, 125 Stat. 233; Pub. L. 112–27, §2(a), Aug. 5, 2011, 125 Stat. 270; Pub. L. 112–30, title I, §142(a)(1)(C), (2)(D), title II, §202(a), Sept. 16, 2011, 125 Stat. 356, 357; Pub. L. 112–91, §2(a), Jan. 31, 2012, 126 Stat. 3; Pub. L. 112–95, title XI, §1101(a), Feb. 14, 2012, 126 Stat. 148; Pub. L. 112–102, title IV, §402(a)(1)(C), (2)(D), Mar. 30, 2012, 126 Stat. 282; Pub. L. 112–140, title IV, §402(a)(1)(C), (2)(D), June 29, 2012, 126 Stat. 402; Pub. L. 112–141, div. D, title I, §40102(a)(1)(C), (2)(D), July 6, 2012, 126 Stat. 844; Pub. L. 114–55, title II, §202(a), Sept. 30, 2015, 129 Stat. 525; Pub. L. 114–94, div. C, title XXXI, §31102(a)(1)(C), (2)(D), Dec. 4, 2015, 129 Stat. 1727; Pub. L. 114–141, title II, §202(a), Mar. 30, 2016, 130 Stat. 324; Pub. L. 114–190, title I, §1202(a), July 15, 2016, 130 Stat. 619; Pub. L. 115–63, title II, §202(a), Sept. 29, 2017, 131 Stat. 1171; Pub. L. 115–141, div. M, title I, §202(a), Mar. 23, 2018, 132 Stat. 1048; Pub. L. 115–254, div. B, title VIII, §802(a), Oct. 5, 2018, 132 Stat. 3428; Pub. L. 117–58, div. H, title I, §80102(a)(1)(C), (2)(D), Nov. 15, 2021, 135 Stat. 1327.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -153,6 +155,10 @@ Section 211 of the Clean Air Act, referred to in subsec. (a)(2)(D), is classifie
 The date of the enactment of the Airport and Airway Trust Fund Tax Reinstatement Act of 1997, referred to in subsec. (d)(2)(A), is the date of enactment of Pub. L. 105–2, which was approved Feb. 28, 1997.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (d)(1). Pub. L. 117–58, §80102(a)(1)(C), substituted "September 30, 2028" for "September 30, 2022".
+
+Subsec. (d)(3). Pub. L. 117–58, §80102(a)(2)(D), substituted "October 1, 2028" for "October 1, 2022".
 
 <b>2018</b>—Subsec. (d)(2)(B). Pub. L. 115–254 substituted "September 30, 2023" for "September 30, 2018".
 
@@ -470,6 +476,12 @@ Subsec. (b). Act June 29, 1956, redesignated second sentence as subsec. (b) and 
 
 <b>1955</b>—Act Mar. 30, 1955, substituted "April 1, 1956" for "April 1, 1955".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 80102(f) of Pub. L. 117–58, set out as a note under section 4041 of this title.
+
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–94 effective Oct. 1, 2016, see section 31102(f) of Pub. L. 114–94, set out as a note under section 4041 of this title.
@@ -554,7 +566,7 @@ Pub. L. 109–6, §1(b), Mar. 31, 2005, 119 Stat. 20, provided that: "The amendm
 
 Amendment by section 301(c)(7) of Pub. L. 108–357 applicable to fuel sold or used after Dec. 31, 2004, see section 301(d)(1) of Pub. L. 108–357, set out as a note under section 40 of this title.
 
-Amendment by section 853(a)(1)–(3)(A), (4) of Pub. L. 108–357 applicable to aviation-grade kerosene removed,entered, or sold after Dec. 31, 2004, see section 853(e) of Pub. L. 108–357, set out as a note under section 4041 of this title.
+Amendment by section 853(a)(1)–(3)(A), (4) of Pub. L. 108–357 applicable to aviation-grade kerosene removed, entered, or sold after Dec. 31, 2004, see section 853(e) of Pub. L. 108–357, set out as a note under section 4041 of this title.
 
 Pub. L. 108–357, title VIII, §860(b), Oct. 22, 2004, 118 Stat. 1618, provided that: "The amendments made by this section \[amending this section\] shall take effect on March 1, 2005."
 
@@ -572,7 +584,7 @@ Amendment by Pub. L. 105–2 applicable to periods beginning on or after the 7th
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–188 effective on 7th calendar day after Aug. 20, 1996, see section 1609(i) of Pub. L. 104–188, set out as a note under section 4041 of this title.
+Amendment by Pub. L. 104–188 effective on 7th calendar day after Aug. 20, 1996, see section 1609(i) of Pub.L. 104–188, set out as a note under section 4041 of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -826,7 +838,7 @@ Secretary.—The term 'Secretary' means the Secretary of the Treasury or his del
 
 "(4)
 
-Exception for exempt uses.—The tax imposed by paragraph (1) shall not apply to kerosene held by any person exclusively for any use to the extent a credit or refund of the tax imposed by section 4081 of the Internal Revenue Code of 1986 is allowable for such use.
+Exception for exempt uses.—The tax imposed by paragraph (1) shall not apply to kerosene held byany person exclusively for any use to the extent a credit or refund of the tax imposed by section 4081 of the Internal Revenue Code of 1986 is allowable for such use.
 
 "(5)
 

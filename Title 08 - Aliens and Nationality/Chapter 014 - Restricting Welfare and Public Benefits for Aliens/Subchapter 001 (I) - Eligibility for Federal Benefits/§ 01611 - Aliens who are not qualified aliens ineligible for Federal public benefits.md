@@ -16,7 +16,7 @@ Notwithstanding any other provision of law and except as provided in subsection 
 
 &emsp;(D) Programs, services, or assistance (such as soup kitchens, crisis counseling and intervention, and short-term shelter) specified by the Attorney General, in the Attorney General's sole and unreviewable discretion after consultation with appropriate Federal agencies and departments, which (i) deliver in-kind services at the community level, including through public or private nonprofit agencies; (ii) do not condition the provision of assistance, the amount of assistance provided, or the cost of assistance provided on the individual recipient's income or resources; and (iii) are necessary for the protection of life or safety.
 
-&emsp;(E) Programs for housing or community development assistance or financial assistance administered by the Secretary of Housing and Urban Development, any program under title V of the Housing Act of 1949 \[42 U.S.C. 1471 et seq.\], or any assistance under section 1926c of title 7, to the extent that the alien is receiving such a benefit on August 22, 1996.
+&emsp;(E) Programs for housing or community development assistance or financial assistance administered by the Secretary of Housing andUrban Development, any program under title V of the Housing Act of 1949 \[42 U.S.C. 1471 et seq.\], or any assistance under section 1926c of title 7, to the extent that the alien is receiving such a benefit on August 22, 1996.
 
 (2) Subsection (a) shall not apply to any benefit payable under title II of the Social Security Act \[42 U.S.C. 401 et seq.\] to an alien who is lawfully present in the United States as determined by the Attorney General, to any benefit if nonpayment of such benefit would contravene an international agreement described in section 233 of the Social Security Act \[42 U.S.C. 433\], to any benefit if nonpayment would be contrary to section 202(t) of the Social Security Act \[42 U.S.C. 402(t)\], or to any benefit payable under title II of the Social Security Act to which entitlement is based on an application filed in or before August 1996.
 
@@ -38,7 +38,7 @@ Notwithstanding any other provision of law and except as provided in subsection 
 
 &emsp;(A) to any contract, professional license, or commercial license for a nonimmigrant whose visa for entry is related to such employment in the United States, or to a citizen of a freely associated state, if section 141 of the applicable compact of free association approved in Public Law 99–239 or 99–658 (or a successor provision) is in effect;
 
-&emsp;(B) with respect to benefits for an alien who as a work authorized nonimmigrant or as an alien lawfully admitted for permanent residence under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] qualified for such benefits and for whom the United States underreciprocal treaty agreements is required to pay benefits, as determined by the Attorney General, after consultation with the Secretary of State; or
+&emsp;(B) with respect to benefits for an alien who as a work authorized nonimmigrant or as an alien lawfully admitted for permanent residence under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] qualified for such benefits and for whom the United States under reciprocal treaty agreements is required to pay benefits, as determined by the Attorney General, after consultation with the Secretary of State; or
 
 &emsp;(C) to the issuance of a professional license to, or the renewal of a professional license by, a foreign national not physically present in the United States.
 
@@ -114,7 +114,7 @@ State Defined.—For purposes of this section, the term 'State' includes the Dis
 
 "(e)
 
-State Entitlement.—This section constitutes budget authority in advance of appropriations Acts and represents the obligation of the Federal Government toprovide for the payment to States of amounts provided under this section."
+State Entitlement.—This section constitutes budget authority in advance of appropriations Acts and represents the obligation of the Federal Government to provide for the payment to States of amounts provided under this section."
 
 #### Study and Report on Alien Student Eligibility for Postsecondary Federal Student Financial Assistance
 

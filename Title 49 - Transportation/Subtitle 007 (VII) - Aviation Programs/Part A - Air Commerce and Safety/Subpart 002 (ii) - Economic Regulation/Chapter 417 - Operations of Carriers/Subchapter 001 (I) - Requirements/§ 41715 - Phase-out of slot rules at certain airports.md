@@ -30,9 +30,13 @@ Applicability.—Paragraph (1) does not apply in any case in which the air carri
 
 (Added Pub. L. 106–181, title II, §231(b)(2), Apr. 5, 2000, 114 Stat. 108.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 41715 was renumbered section 41719 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

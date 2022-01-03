@@ -52,13 +52,15 @@ In this subpart:
 
 &emsp;&emsp;(E) Activities that support postsecondary and workforce readiness, which may include job training, internship opportunities, and career counseling.
 
-&emsp;&emsp;(F) Community-based support for students who have attended the schools in the area served by the pipeline, or students who aremembers of the community, facilitating their continued connection to the community and success in postsecondary education and the workforce.
+&emsp;&emsp;(F) Community-based support for students who have attended the schools in the area served by the pipeline, or students who are members of the community, facilitating their continued connection to the community and success in postsecondary education and the workforce.
 
 &emsp;&emsp;(G) Social, health, nutrition, and mental health services and supports.
 
 &emsp;&emsp;(H) Juvenile crime prevention and rehabilitation programs.
 
 (Pub. L. 89–10, title IV, §4622, as added Pub. L. 114–95, title IV, §4601, Dec. 10, 2015, 129 Stat. 2023.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

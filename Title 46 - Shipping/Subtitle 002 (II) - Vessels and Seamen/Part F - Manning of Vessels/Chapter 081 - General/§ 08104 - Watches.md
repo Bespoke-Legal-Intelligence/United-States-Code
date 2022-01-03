@@ -30,11 +30,11 @@
 
 &emsp;(4) performing fire, lifeboat, or other drills in port or at sea.
 
-(g)(1) On a towing vessel, an offshore supply vessel, or a barge to which this section applies, that is engaged on a voyage of less than 600 miles, the licensed individuals and crewmembers may be divided, when at sea, into at least 2 watches.
+(g)(1) On a towing vessel, an offshore supply vessel, or a barge to which this section applies,that is engaged on a voyage of less than 600 miles, the licensed individuals and crewmembers may be divided, when at sea, into at least 2 watches.
 
 (2) Paragraph (1) applies to an offshore supply vessel of at least 6,000 gross tons as measured under section 14302 of this title if the individuals engaged on the vessel are in compliance with hours of service requirements (including recording and recordkeeping of that service) as prescribed by the Secretary.
 
-(h) On a vessel to which section 8904 of this title applies, an individual licensed to operate a towing vessel may not work for more than 12hours in a consecutive 24-hour period except in an emergency.
+(h) On a vessel to which section 8904 of this title applies, an individual licensed to operate a towing vessel may not work for more than 12 hours in a consecutive 24-hour period except in an emergency.
 
 (i) A person violating subsection (a) or (b) of this section is liable to the United States Government for a civil penalty of $10,000.
 

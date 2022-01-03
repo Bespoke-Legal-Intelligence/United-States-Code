@@ -76,7 +76,7 @@ Pub. L. 100–220, title II, §2002, Dec. 29, 1987, 101 Stat. 1460, provided tha
 
 "(a)
 
-In General.—Except as provided in subsections (b) and (c), this title \[enacting sections 1912 to 1915 of this title, amending this section and sections 1902, 1903, 1905, and 1907 to 1909 of this title, and enacting provisions set out as notes under this section, section 2267 of this title, and section 6981 of Title 42, The Public Health and Welfare\] shall be effective on the date on which Annex V to the International Convention for the Prevention of Pollution from Ships, 1973, enters into force for the United States. \[Annex V entered into force for the United States Dec. 31, 1988.\]
+In General.—Except as provided in subsections (b) and (c), this title \[enacting sections 1912 to 1915 of this title, amending this section and sections 1902, 1903, 1905, and 1907 to 1909 of this title, and enacting provisions set out as notes under this section, section 2267 ofthis title, and section 6981 of Title 42, The Public Health and Welfare\] shall be effective on the date on which Annex V to the International Convention for the Prevention of Pollution from Ships, 1973, enters into force for the United States. \[Annex V entered into force for the United States Dec. 31, 1988.\]
 
 "(b)
 
@@ -222,7 +222,7 @@ Pub. L. 106–554, §1(a)(4) \[div. B, title XIV\], Dec. 21, 2000, 114 Stat. 276
 
 #### "SEC. 1407. CRUISE VESSEL EFFLUENT STANDARDS.
 
-"Pursuant to this title and the authority of the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\], as amended, the Administrator may promulgate effluent standards for treated sewage and graywater from cruise vessels operating in the waters of the Alexander Archipelago or the navigable waters of the United States within the State of Alaska or within the Kachemak Bay National Estuarine Research Reserve. Regulations implementing such standards shall take into account the best available scientific information on the environmental effects of the regulated discharges and the availability of new technologies for wastewater treatment. Until such time as the Administrator promulgates such effluent standards, treated sewage effluent discharges shall not have a fecal coliform bacterial count of greater than 200 per 100 milliliters nor suspended solids greater than 150 milligrams per liter.
+"Pursuant to this title and the authority of the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\], as amended, the Administrator may promulgate effluent standards for treated sewage and graywater from cruise vessels operating in the waters of the Alexander Archipelago or the navigable waters of the United States within the State of Alaska or within the Kachemak Bay National Estuarine Research Reserve. Regulations implementing such standards shall take into account the best available scientific information on the environmental effects of the regulated discharges and the availability of new technologies for wastewater treatment. Until such time as the Administrator promulgates such effluent standards, treatedsewage effluent discharges shall not have a fecal coliform bacterial count of greater than 200 per 100 milliliters nor suspended solids greater than 150 milligrams per liter.
 
 #### "SEC. 1408. REPORTS.
 
@@ -336,7 +336,7 @@ False statements.—Any person who knowingly makes any false statement, represen
 
 Awards.—
 
-&emsp;"(1) The Secretary, the Administrator, or the court, when assessing any fines or civil penalties, as the case may be, may pay from any fines or civil penalties collected under this section an amount not to exceed one-half of the penalty or fine collected, toany individual who furnishes information which leads to the payment of the penalty or fine. If several individuals provide such information, the amount shall be divided equitably among such individuals. No officer or employee of the United States, the State of Alaska or any federally recognized Tribe who furnishes information or renders service in the performance of his or her official duties shall be eligible for payment under this subsection.
+&emsp;"(1) The Secretary, the Administrator, or the court, when assessing any fines or civil penalties, as the case may be, may pay from any fines or civil penalties collected under this section an amount not to exceed one-half of the penalty or fine collected, to any individual who furnishes information which leads to the payment of the penalty or fine. If several individuals provide such information, the amount shall be divided equitably among such individuals. No officer or employee of the United States, the State of Alaska or any federally recognized Tribe who furnishes information or renders service in the performance of his or her official duties shall be eligible for payment under this subsection.
 
 &emsp;"(2) The Secretary, Administrator or the court, when assessing any fines or civil penalties, as the case may be, may pay, from any fines or civil penalties collected under this section, to the State of Alaska or to any federally recognized Tribe providing information or investigative assistance which leads to payment of the penalty or fine, an amount which reflects the level of information or investigative assistance provided. Should the State of Alaska or a federally recognized Tribe and an individual under paragraph (1) of this section be eligible for an award, the Secretary, the Administrator, or the court, as the case may be, shall divide the amount equitably.
 
@@ -372,7 +372,7 @@ Civil Actions.—The Administrator is authorized to commence a civil action for 
 
 &emsp;"(1) to impose additional liability or additional requirements; or
 
-&emsp;"(2) to impose, or determine the amount of a fine or penalty (whether criminal or civil in nature) for any violation of law; relating to the discharge of sewage (whether treated or untreated) or graywater in the waters of the Alexander Archipelago and the navigable waters of the United States within the State of Alaska or within the Kachemak Bay National Estuarine Research Reserve.
+&emsp;"(2) to impose, or determine the amount of a fine or penalty (whether criminal or civil in nature) for any violation of law; relating to the discharge of sewage\(whether treated or untreated) or graywater in the waters of the Alexander Archipelago and the navigable waters of the United States within the State of Alaska or within the Kachemak Bay National Estuarine Research Reserve.
 
 #### "SEC. 1412. REGULATIONS.
 
@@ -420,7 +420,7 @@ Sewage.—The term 'sewage' means human body wastes and the wastes from toilets 
 
 &emsp;"(9)
 
-Treated sewage.—The term 'treated sewage' means sewage meeting all applicable effluent limitation standards and processing requirements of the Federal Water Pollution Control Act \[33 U.S.C. 1251 etseq.\], as amended\[,\] and of this title, and regulations promulgated under either.
+Treated sewage.—The term 'treated sewage' means sewage meeting all applicable effluent limitation standards and processing requirements of the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\], as amended\[,\] and of this title, and regulations promulgated under either.
 
 &emsp;"(10)
 

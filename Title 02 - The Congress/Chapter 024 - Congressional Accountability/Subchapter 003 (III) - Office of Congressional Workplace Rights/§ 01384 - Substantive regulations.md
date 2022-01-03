@@ -118,5 +118,5 @@ Subchapter II, referred to in subsec. (a)(1), was in the original "title II", me
 
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–397 effective Dec. 21, 2018, and any reference to the Office of Compliance in any law, rule, regulation, or other official paper in effect as of such date to be considered to refer and apply to the Office of Congressional Workplace Rights, see section 308(d) of Pub. L. 115–397, set out as a note under section 1381 of this title.
+Amendment by Pub. L. 115–397 effective Dec. 21, 2018, and any reference to the Office of Compliance in anylaw, rule, regulation, or other official paper in effect as of such date to be considered to refer and apply to the Office of Congressional Workplace Rights, see section 308(d) of Pub. L. 115–397, set out as a note under section 1381 of this title.
 

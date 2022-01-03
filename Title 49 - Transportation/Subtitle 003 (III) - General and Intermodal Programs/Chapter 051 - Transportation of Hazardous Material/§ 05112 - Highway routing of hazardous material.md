@@ -104,7 +104,7 @@ Dispute Resolution.—(1) The Secretary shall prescribe regulations for resolvin
 
 (2) A State or Indian tribe involved in a dispute under this subsection may petition the Secretary to resolve the dispute. The Secretary shall resolve the dispute not later than one year after receiving the petition. The resolution shall provide the greatest level of highway safety without being an unreasonable burden on commerce and shall ensure compliance with standards prescribed under subsection (b) of this section.
 
-(3)(A) After a petition is filed under this subsection, a civil action about the subject matter of the dispute may be brought in a court only after the earlier of—
+(3)(A) After a petition is filed under this subsection, a civil action about the subject matterof the dispute may be brought in a court only after the earlier of—
 
 &emsp;(i) the day the Secretary issues a final decision; or
 
@@ -178,11 +178,15 @@ In subsection (e), the words "superseding or otherwise", "application of", "rela
 
 In subsection (f), the word "modify" is omitted as surplus and for consistency in the revised title. The words "issued by the Department of Transportation before November 16, 1990, and" are omitted as obsolete.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Subsec. (c). Pub. L. 112–141 designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 <b>2005</b>—Subsec. (a)(1). Pub. L. 109–59 substituted "Secretary" for "Secretary of Transportation" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 
@@ -190,5 +194,5 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 #### Study of Hazardous Materials Transportation by Motor Carriers Near Federal Prisons
 
-Pub. L. 103–311, title I, §121, Aug. 26, 1994, 108 Stat. 1681, directed Secretary of Transportation to submit to Congress, not later than 1 year after Aug. 26, 1994, report on results of study to determine safety considerations of transporting hazardous materials by motor carriers in close proximity to Federal prisons, particularly those housing maximum security prisoners, which was to include evaluation of ability of such facilitiesand designated local planning agencies to safely evacuate such prisoners in event of emergency and any special training, equipment, or personnel that would be required by such facility and designated local emergency planning agencies to carry out such evacuation.
+Pub. L. 103–311, title I, §121, Aug. 26, 1994, 108 Stat. 1681, directed Secretary of Transportation to submit to Congress, not later than 1 year after Aug. 26, 1994, report on results of study to determine safety considerations of transporting hazardous materials by motor carriers in close proximity to Federal prisons, particularly those housing maximum security prisoners, which was to include evaluation of ability of such facilities and designated local planning agencies to safely evacuate such prisoners in event of emergency and any special training, equipment, or personnel that would be required by such facility and designated local emergency planning agencies to carry out such evacuation.
 

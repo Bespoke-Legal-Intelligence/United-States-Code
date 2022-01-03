@@ -4,7 +4,7 @@ In this chapter:
 
 #### (1) Circular economy
 
-&emsp;The term "circular economy" means an economy that uses a systems-focused approachand involves industrial processes and economic activities that—
+&emsp;The term "circular economy" means an economy that uses a systems-focused approach and involves industrial processes and economic activities that—
 
 &emsp;&emsp;(A) are restorative or regenerative by design;
 

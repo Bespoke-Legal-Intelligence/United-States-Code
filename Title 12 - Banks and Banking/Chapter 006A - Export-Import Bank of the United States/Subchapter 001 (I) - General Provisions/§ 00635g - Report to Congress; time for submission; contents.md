@@ -34,7 +34,7 @@ The Bank shall estimate on the basis of an annual survey or tabulation the numbe
 
 #### (e) Outreach to certain small businesses
 
-The Bank shall include in its annual report to the Congress under subsection (a) of this sectiona description of outreach efforts made by the Bank to any socially and economically disadvantaged small business concerns (as defined in section 637(a)(4) of title 15), small business concerns (as defined in section 632(a) of title 15) owned by women, and small business concerns (as defined in section 632(a) of title 15) employing fewer than 100 employees.
+The Bank shall include in its annual report to the Congress under subsection (a) of this section a description of outreach efforts made by the Bank to any socially and economically disadvantaged small business concerns (as defined in section 637(a)(4) of title 15), small business concerns (as defined in section 632(a) of title 15) owned by women, and small business concerns (as defined in section 632(a) of title 15) employing fewer than 100 employees.
 
 #### (f) Additional reports
 
@@ -186,7 +186,7 @@ Subsec. (c). Pub. L. 98–181, §618(b)(2), added subsec. (c).
 
 Subsec. (d). Pub. L. 98–181, §623, added subsec. (d).
 
-<b>1978</b>—Subsec. (b). Pub. L. 95–630 inserted provision that in addition, the Bank include in the report a description of specific activities and programs undertaken by it to achieve the policy of section 3261 of title22, and section 2151q of title 22, as required by section 635(b)(1)(C) of this title.
+<b>1978</b>—Subsec. (b). Pub. L. 95–630 inserted provision that in addition, the Bank include in the report a description of specific activities and programs undertaken by it to achieve the policy of section 3261 of title 22, and section 2151q of title 22, as required by section 635(b)(1)(C) of this title.
 
 <b>1975</b>—Pub. L. 93–646 designated existing provisions as subsec. (a), substituted provisions calling for an annual report as of the close of business on the last day of each fiscal year, for provisions calling for a semiannual report as of the close of business on June 30 and Dec. 31 of each year, and added subsec. (b).
 

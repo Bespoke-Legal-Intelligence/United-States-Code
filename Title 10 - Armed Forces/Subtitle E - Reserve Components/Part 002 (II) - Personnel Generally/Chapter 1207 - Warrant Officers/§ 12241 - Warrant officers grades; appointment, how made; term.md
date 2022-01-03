@@ -1,6 +1,6 @@
 ### §12241. Warrant officers: grades; appointment, how made; term
 
-(a) The permanent reserve warrant officer grades in each armed force are those prescribedfor regular warrant officers by section 571(a) of this title.
+(a) The permanent reserve warrant officer grades in each armed force are those prescribed for regular warrant officers by section 571(a) of this title.
 
 (b) Appointments in permanent reserve warrant officer grades shall be made in the same manner as is prescribed for regular warrant officer grades by section 571(b) of this title.
 
@@ -54,6 +54,8 @@ In subsection (b), the words "W–4, W–3, and W–2" and "persons" are omitted
 
 In subsection (c), the words "After July 9, 1952" are omitted as executed. 50:948 (2d and last sentence) is omitted as executed.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Subsec. (b). Pub. L. 111–383 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "Appointments made in the permanent reserve grade of warrant officer, W–1, shall be made by warrant by the Secretary concerned. Appointments made in a permanent reserve grade of chief warrant officer shall be made by commission by the Secretary concerned."
@@ -63,6 +65,8 @@ In subsection (c), the words "After July 9, 1952" are omitted as executed. 50:94
 <b>1991</b>—Subsec. (a). Pub. L. 102–190 substituted "section 571(a)" for "section 555(a)".
 
 <b>1985</b>—Subsec. (b). Pub. L. 99–145 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "Reserve chief warrant officers of the Army and the Air Force shall be appointed in those grades, by warrant, by the Secretary concerned. Permanent reserve chief warrant officers of the Navy, Marine Corps, and Coast Guard shall be appointed in those grades, by commission, by the Secretary concerned. Permanent reserve warrant officers, W-1, shall be appointed in those grades, by warrant, by the Secretary concerned."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1991 Amendment
 

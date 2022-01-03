@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in this chapter, a paleontological resource may not be collected from Federal land without a permit issued under this chapter by the Secretary.
+&emsp;Except as provided in this chapter, a paleontological resource may not be collected fromFederal land without a permit issued under this chapter by the Secretary.
 
 #### (2) Casual collecting exception
 

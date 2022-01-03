@@ -76,9 +76,13 @@ For purposes of this section the term "adverse result" means—
 
 <i>For repeal of section by section 13 of Pub. L. 109–455, see Effective Date of Repeal note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Right to Financial Privacy Act, referred to in subsecs. (a) to (e), probably means the Right to Financial Privacy Act of 1978, Pub. L. 95–630, title XI, Nov. 10, 1978, 92 Stat. 3697, as amended, which is classified generally to chapter 35 (§3401 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of Title 12 and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of Repeal
 

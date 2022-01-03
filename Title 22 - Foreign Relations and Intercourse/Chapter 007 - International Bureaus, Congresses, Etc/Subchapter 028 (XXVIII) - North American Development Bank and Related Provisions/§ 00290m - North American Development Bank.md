@@ -18,7 +18,7 @@ The President is hereby authorized to accept membership for the United States in
 
 #### (2) Limitations on authorization of appropriations
 
-&emsp;For payment by the Secretary of the Treasury of the subscription of the United States for shares described in paragraph (1), there are authorized to be appropriated $1,500,000,000\($225,000,000 of which may be used for paid-in capital and $1,275,000,000 of which may be used for callable capital) without fiscal year limitation.
+&emsp;For payment by the Secretary of the Treasury of the subscription of the United States for shares described in paragraph (1), there are authorized to be appropriated $1,500,000,000 ($225,000,000 of which may be used for paid-in capital and $1,275,000,000 of which may be used for callable capital) without fiscal year limitation.
 
 #### (3) Funding; limitation on callable capital subscriptions
 

@@ -28,7 +28,7 @@ To qualify as a social impact partnership project under this division, a project
 
 &emsp;(10) Reducing incidences and adverse consequences of child abuse and neglect.
 
-&emsp;(11) Reducing the number of youth in foster care by increasing adoptions, permanent guardianship arrangements, reunifications, or placements with a fit and willing relative, or by avoiding placing children in foster care by ensuring they can be cared for safely in their own homes.
+&emsp;(11) Reducing the number of youth in foster care by increasing adoptions, permanentguardianship arrangements, reunifications, or placements with a fit and willing relative, or by avoiding placing children in foster care by ensuring they can be cared for safely in their own homes.
 
 &emsp;(12) Reducing the number of children and youth in foster care residing in group homes, child care institutions, agency-operated foster homes, or other non-family foster homes, unless it is determined that it is in the interest of the child's long-term health, safety, or psychological well-being to not be placed in a family foster home.
 

@@ -112,7 +112,7 @@ For purposes of this section—
 
 #### (i) Net capital gain
 
-&emsp;&emsp;&emsp;The term "net capital gain" has the meaning given such term by section 1222(11) (determined by treating the 1-yearperiod ending on October 31 of the calendar year as the company's taxable year).
+&emsp;&emsp;&emsp;The term "net capital gain" has the meaning given such term by section 1222(11) (determined by treating the 1-year period ending on October 31 of the calendar year as the company's taxable year).
 
 #### (ii) Net ordinary loss
 
@@ -198,6 +198,8 @@ This section shall not apply to any regulated investment company for any calenda
 
 (Added Pub. L. 99–514, title VI, §651(a), Oct. 22, 1986, 100 Stat. 2294; amended Pub. L. 100–203, title X, §10104(b)(1), Dec. 22, 1987, 101 Stat. 1330–387; Pub. L. 100–647, title I, §1006(l)(2), (5), (6), Nov. 10, 1988, 102 Stat. 3413, 3414; Pub. L. 101–239, title VII, §7204(a)(1), Dec. 19, 1989, 103 Stat. 2334; Pub. L. 105–34, title XI, §1122(c)(1), Aug. 5, 1997, 111 Stat. 976; Pub. L. 111–325, title IV, §§401(a), 402(a), 403(a), 404(a), Dec. 22, 2010, 124 Stat. 3552–3554; Pub. L. 113–295, div. A, title II, §§205(d), 220(s), Dec. 19, 2014, 128 Stat. 4026, 4036.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Subsec. (e)(6)(B). Pub. L. 113–295, §205(d)(1), inserted "or which determines income by reference to the value of an item on the last day of the taxable year" before period at end.
@@ -227,6 +229,8 @@ Subsec. (e)(5). Pub. L. 100–647, §1006(l)(5), added par. (5).
 Subsec. (f). Pub. L. 100–647, §1006(l)(6), added subsec. (f).
 
 <b>1987</b>—Subsec. (b)(1)(B). Pub. L. 100–203 substituted "98 percent" for "90 percent".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

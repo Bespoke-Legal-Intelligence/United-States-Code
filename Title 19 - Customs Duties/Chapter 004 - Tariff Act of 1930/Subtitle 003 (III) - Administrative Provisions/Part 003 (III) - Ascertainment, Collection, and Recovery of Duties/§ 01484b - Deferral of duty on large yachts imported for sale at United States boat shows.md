@@ -20,7 +20,7 @@ At the time of importation of any large yacht, if such large yacht is imported f
 
 #### (1) <sup>1</sup> Deposit of duty
 
-&emsp;If any large yacht (which has been imported for sale at a boat show in the United States with the deferral of duties as provided in this section) is sold within the 6-month period after importation—
+&emsp;If any large yacht (which has been imported for sale at a boat show in the United Stateswith the deferral of duties as provided in this section) is sold within the 6-month period after importation—
 
 &emsp;&emsp;(A) entry shall be completed and duty (calculated at the applicable rates provided for under subheading 8903.91.00 or 8903.92.00 of the Harmonized Tariff Schedule of the United States and based upon the value of the large yacht at the time of importation) shall be deposited with the Customs Service; and
 
@@ -46,9 +46,13 @@ The Secretary of the Treasury is authorized to make such rules and regulations a
 
 (June 17, 1930, ch. 497, title IV, §484b, as added Pub. L. 106–36, title II, §2406(a), June 25, 1999, 113 Stat. 170.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Harmonized Tariff Schedule of the United States, referred to in subsecs. (c)(2), (d)(1)(A), and (e)(1)(A), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

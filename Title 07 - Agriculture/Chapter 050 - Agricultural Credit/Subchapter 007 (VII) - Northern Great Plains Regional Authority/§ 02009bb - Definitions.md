@@ -30,6 +30,8 @@ In this subchapter:
 
 (Pub. L. 87–128, title III, §383A, as added Pub. L. 107–171, title VI, §6028, May 13, 2002, 116 Stat. 375; amended Pub. L. 110–234, title VI, §6026(a), May 22, 2008, 122 Stat. 1177; Pub. L. 110–246, §4(a), title VI, §6026(a), June 18, 2008, 122 Stat. 1664, 1939.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -37,6 +39,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 #### Amendments
 
 <b>2008</b>—Par. (4). Pub. L. 110–246, §6026(a), inserted "Missouri (other than counties included in the Delta Regional Authority)," after "Minnesota,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

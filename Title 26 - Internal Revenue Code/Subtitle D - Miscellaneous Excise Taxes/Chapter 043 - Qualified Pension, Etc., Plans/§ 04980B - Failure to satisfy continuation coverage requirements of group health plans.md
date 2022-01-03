@@ -76,7 +76,7 @@ There is hereby imposed a tax on the failure of a group health plan to meet the 
 
 &emsp;&emsp;&emsp;In the case of failures with respect to plans other than multiemployer plans, the tax imposed by subsection (a) for failures during the taxable year of the employer shall not exceed the amount equal to the lesser of—
 
-&emsp;&emsp;&emsp;&emsp;(I) 10 percent of the aggregate amount paid or incurred by the employer (or predecessor employer) during the preceding taxable year for group health plans, or
+&emsp;&emsp;&emsp;&emsp;(I) 10 percent of the aggregate amount paid or incurred by the employer (orpredecessor employer) during the preceding taxable year for group health plans, or
 
 &emsp;&emsp;&emsp;&emsp;(II) $500,000.
 
@@ -158,7 +158,7 @@ This section shall not apply to—
 
 #### (2) Continuation coverage
 
-&emsp;For purposes of paragraph (1), the term "continuation coverage" means coverage under the plan which meets the following requirements:
+&emsp;For purposes of paragraph (1), the term "continuation coverage" means coverageunder the plan which meets the following requirements:
 
 #### (A) Type of benefit coverage
 
@@ -442,6 +442,8 @@ For purposes of this section—
 
 (Added Pub. L. 100–647, title III, §3011(a), Nov. 10, 1988, 102 Stat. 3616; amended Pub. L. 101–239, title VI, §§6202(b)(3)(B), 6701(a)–(c), title VII, §§7862(c)(2)(B), (3)(C), (4)(B), (5)(A), 7891(d)(1)(B), (2)(A), Dec. 19, 1989, 103 Stat. 2233, 2294, 2295, 2432, 2433, 2446; Pub. L. 101–508, title XI, §11702(f), Nov. 5, 1990, 104 Stat. 1388–515; Pub. L. 103–66, title XIII, §13422(a), Aug. 10, 1993, 107 Stat. 566; Pub. L. 104–188, title I, §1704(g)(1)(A), (t)(21), Aug. 20, 1996, 110 Stat. 1880, 1888; Pub. L. 104–191, title III, §321(d)(1), title IV, §421(c), Aug. 21, 1996, 110 Stat. 2058, 2088; Pub. L. 107–210, div. A, title II, §203(e)(3), Aug. 6, 2002, 116 Stat. 971; Pub. L. 111–5, div. B, title I, §1899F(b), Feb. 17, 2009, 123 Stat. 429; Pub. L. 111–344, title I, §116(b), Dec. 29, 2010, 124 Stat. 3616; Pub. L. 112–40, title II, §243(a)(3), (4), Oct. 21, 2011, 125 Stat. 420; Pub. L. 115–141, div. U, title IV, §401(a)(235), (236), Mar. 23, 2018, 132 Stat. 1195.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Social Security Act, referred to in subsec. (f)(2)(B)(i)(IV), (VII), (VIII), (iv)(II), (v), (3)(D), (6)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II, XVI, and XVIII of the Social Security Act are classified generally to subchapters II (§401 et seq.), XVI (§1381 et seq.), and XVIII (§1395 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
@@ -486,7 +488,7 @@ Subsec. (g)(1)(A). Pub. L. 104–191, §421(c)(3), inserted at end "Such term sh
 
 Subsec. (g)(2). Pub. L. 104–191, §321(d)(1), inserted at end "Such term shall not include any plan substantially all of the coverage under which is for qualified long-term care services (as defined in section 7702B(c))."
 
-<b>1993</b>—Subsec. (f)(1). Pub. L. 103–66 inserted "the coverage of the costs of pediatric vaccines (as defined under section 2162 of the Public Health Service Act) is not reduced below the coverage provided by the plan as of May 1, 1993, and only if" after "only if".
+<b>1993</b>—Subsec. (f)(1). Pub. L. 103–66 inserted "the coverage of the costs of pediatric vaccines (as definedunder section 2162 of the Public Health Service Act) is not reduced below the coverage provided by the plan as of May 1, 1993, and only if" after "only if".
 
 <b>1990</b>—Subsec. (d)(1). Pub. L. 101–508 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "any failure of a group health plan to meet the requirements of subsection (f) if all employers maintaining such plan normally employed fewer than 20 employees on a typical business day during the preceding calendar year,".
 
@@ -515,6 +517,8 @@ Subsec. (f)(7). Pub. L. 101–239, §7862(c)(2)(B), substituted "the performance
 Subsec. (f)(8). Pub. L. 101–239, §7891(d)(2)(A), added par. (8).
 
 Subsec. (g)(2). Pub. L. 101–239, §6202(b)(3)(B), substituted "section 5000(b)(1)" for "section 162(i)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 
@@ -548,7 +552,7 @@ Pub. L. 103–66, title XIII, §13422(b), Aug. 10, 1993, 107 Stat. 566, provided
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 effective as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 11702(j) of Pub. L. 101–508, set out as a note under section 59 of this title.
+Amendment by Pub. L. 101–508 effective as if included in the provision of the Technical and MiscellaneousRevenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 11702(j) of Pub. L. 101–508, set out as a note under section 59 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -576,7 +580,257 @@ Section applicable to taxable years beginning after Dec. 31, 1988, but not appli
 
 Nothing in amendment by Pub. L. 107–210, other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating new mandate on any party regarding health insurance coverage, see section 203(f) of Pub. L. 107–210, set out as a Construction note under section 35 of this title.
 
+#### Preserving Health Benefits for Workers
+
+Pub. L. 117–2, title IX, §9501(a), Mar. 11, 2021, 135 Stat. 127, provided that:
+
+"(a)
+
+Premium Assistance for Cobra Continuation Coverage for Individuals and Their Families.—
+
+&emsp;"(1)
+
+Provision of premium assistance.—
+
+&emsp;&emsp;"(A)
+
+Reduction of premiums payable.—In the case of any premium for a period of coverage during the period beginning on the first day of the first month beginning after the date of the enactment of this Act \[Mar. 11, 2021\], and ending on September 30, 2021, for COBRA continuation coverage with respect to any assistance eligible individual described in paragraph (3), such individual shall be treated for purposes of any COBRA continuation provision as having paid in full the amount of such premium.
+
+&emsp;&emsp;"(B)
+
+Plan enrollment option.—
+
+&emsp;&emsp;&emsp;"(i)
+
+In general.—Solely for purposes of this subsection, the COBRA continuation provisions shall be applied such that any assistance eligible individual who is enrolled in a group health plan offered by a plan sponsor may, not later than 90 days after the date of notice of the plan enrollment option described in this subparagraph, elect to enroll in coverage under a plan offered by such plan sponsor that is different than coverage under the plan in which such individual was enrolled at the time, in the case of any assistance eligible individual described in paragraph (3), the qualifying event specified in section 603(2) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1163(2)\], section 4980B(f)(3)(B) of the Internal Revenue Code of 1986, or section 2203(2) of the Public Health Service Act \[42 U.S.C. 300bb–3(2)\], except for the voluntary termination of such individual's employment by such individual, occurred, and such coverage shall be treated as COBRA continuation coverage for purposes of the applicable COBRA continuation coverage provision.
+
+&emsp;&emsp;&emsp;"(ii)
+
+Requirements.—Any assistance eligible individual may elect to enroll in different coverage as described in clause (i) only if—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the employer involved has made a determination that such employer will permit such assistance eligible individual to enroll in different coverage as provided under this subparagraph;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the premium for such different coverage does not exceed the premium for coverage in which such individual was enrolled at the time such qualifying event occurred;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) the different coverage in which the individual elects to enroll is coverage that is also offered to similarly situated active employees of the employer at the time at which such election is made; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) the different coverage in which the individual elects to enroll is not—
+
+&emsp;&emsp;&emsp;(aa) coverage that provides only excepted benefits as defined in section 9832(c) of the Internal Revenue Code of 1986, section 733(c) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1191b(c)\], and section 2791(c) of the Public Health Service Act \[42 U.S.C. 300gg–91(c)\];
+
+&emsp;&emsp;&emsp;(bb) a qualified small employer health reimbursement arrangement (as defined in section 9831(d)(2) of the Internal Revenue Code of 1986); or
+
+&emsp;&emsp;&emsp;(cc) a flexible spending arrangement (as defined in section 106(c)(2) of the Internal Revenue Code of 1986).
+
+&emsp;"(2)
+
+Limitation of period of premium assistance.—
+
+&emsp;&emsp;"(A)
+
+Eligibility for additional coverage.—Paragraph (1)(A) shall not apply with respect to any assistance eligible individual described in paragraph (3) for months of coverage beginning on or after the earlier of—
+
+&emsp;&emsp;&emsp;"(i) the first date that such individual is eligible for coverage under any other group health plan (other than coverage consisting of only excepted benefits (as defined in section 9832(c) of the Internal Revenue Code of 1986, section 733(c) of the Employee Retirement Income Security Act of 1974, and section 2791(c) of the Public Health Service Act), coverage under a flexible spending arrangement (as defined in section 106(c)(2) of the Internal Revenue Code of 1986), coverage under a qualified small employer health reimbursement arrangement (as defined in section 9831(d)(2) ofthe Internal Revenue Code of 1986)), or eligible for benefits under the Medicare program under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\]; or
+
+&emsp;&emsp;&emsp;"(ii) the earlier of—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the date following the expiration of the maximum period of continuation coverage required under the applicable COBRA continuation coverage provision; or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the date following the expiration of the period of continuation coverage allowed under paragraph (4)(B)(ii).
+
+&emsp;&emsp;"(B)
+
+Notification requirement.—Any assistance eligible individual shall notify the group health plan with respect to which paragraph (1)(A) applies if such paragraph ceases to apply by reason of clause (i) of subparagraph (A) (as applicable). Such notice shall be provided to the group health plan in such time and manner as may be specified by the Secretary of Labor.
+
+&emsp;"(3)
+
+Assistance eligible individual.—For purposes of this section, the term 'assistance eligible individual' means, with respect to a period of coverage during the period beginning on the first day of the first month beginning after the date of the enactment of this Act \[Mar. 11, 2021\], and ending on September 30, 2021, any individual that is a qualified beneficiary who—
+
+&emsp;&emsp;"(A) is eligible for COBRA continuation coverage by reason of a qualifying event specified in section 603(2) of the Employee Retirement Income Security Act of 1974, section 4980B(f)(3)(B) of the Internal Revenue Code of 1986, or section 2203(2) of the Public Health Service Act, except for the voluntary termination of such individual's employment by such individual; and
+
+&emsp;&emsp;"(B) elects such coverage.
+
+&emsp;"(4)
+
+Extension of election period and effect on coverage.—
+
+&emsp;&emsp;"(A)
+
+In general.—For purposes of applying section 605(a) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1165(a)\], section 4980B(f)(5)(A) of the Internal Revenue Code of 1986, and section 2205(a) of the Public Health Service Act \[42 U.S.C. 300bb–5(a)\], in the case of—
+
+&emsp;&emsp;&emsp;"(i) an individual who does not have an election of COBRA continuation coverage in effect on the first day of the first month beginning after the date of the enactment of this Act but who would be an assistance eligible individual described in paragraph (3) if such election were so in effect; or
+
+&emsp;&emsp;&emsp;"(ii) an individual who elected COBRA continuation coverage and discontinued from such coverage before the first day of the first month beginning after the date of the enactment of this Act \[Mar. 11, 2021\],
+
+&nbsp;&nbsp;such individual may elect the COBRA continuation coverage under the COBRA continuation coverage provisions containing such provisions during the period beginning on the first day of the first month beginning after the date of the enactment of this Act and ending 60 days after the date on which the notification required under paragraph (5)(C) is provided to such individual.
+
+&emsp;&emsp;"(B)
+
+Commencement of cobra continuation coverage.—Any COBRA continuation coverage elected by a qualified beneficiary during an extended election period under subparagraph (A)—
+
+&emsp;&emsp;&emsp;"(i) shall commence (including for purposes of applying the treatment of premium payments under paragraph (1)(A) and any cost-sharing requirements for items and services under a group health plan) with the first period of coverage beginning on or after the first day of the first month beginning after the date of the enactment of this Act, and
+
+&emsp;&emsp;&emsp;"(ii) shall not extend beyond the period of COBRA continuation coverage that would have been required under the applicable COBRA continuation coverage provision if the coverage had been elected as required under such provision or had not been discontinued.
+
+&emsp;"(5)
+
+Notices to individuals.—
+
+&emsp;&emsp;"(A)
+
+General notice.—
+
+&emsp;&emsp;&emsp;"(i)
+
+In general.—In the case of notices provided under section 606(a)(4) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1166(4)), section 4980B(f)(6)(D) of the Internal Revenue Code of 1986, or section 2206(4) of the Public Health Service Act (42 U.S.C. 300bb–6(4)), with respect to individuals who, during the period described in paragraph (3), become entitled to elect COBRA continuation coverage, the requirements of such provisions shall not be treated as met unless such notices include an additional written notification to the recipient in clear and understandable language of—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the availability of premium assistance with respect to such coverage under this subsection; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the option to enroll in different coverage if the employer permits assistance eligible individuals described in paragraph (3) to elect enrollment in different coverage (as described in paragraph (1)(B)).
+
+&emsp;&emsp;&emsp;"(ii)
+
+Alternative notice.—In the case of COBRA continuation coverage to which the notice provision under such sections does not apply, the Secretary of Labor, in consultation with the Secretary of the Treasury and the Secretary of Health and Human Services, shall, in consultation with administrators of the group health plans (or other entities) that provide or administer the COBRA continuation coverage involved, provide rules requiring the provision of such notice.
+
+&emsp;&emsp;&emsp;"(iii)
+
+Form.—The requirement of the additional notification under this subparagraph may be met by amendment of existing notice forms or by inclusion of a separate document with the notice otherwise required.
+
+&emsp;&emsp;"(B)
+
+Specific requirements.—Each additional notification under subparagraph (A) shall include—
+
+&emsp;&emsp;&emsp;"(i) the forms necessary for establishing eligibility for premium assistance under this subsection;
+
+&emsp;&emsp;&emsp;"(ii) the name, address, and telephone number necessary to contact the plan administrator and any other person maintaining relevant information in connection with such premium assistance;
+
+&emsp;&emsp;&emsp;"(iii) a description of the extended election period provided for in paragraph (4)(A);
+
+&emsp;&emsp;&emsp;"(iv) a description of the obligation of the qualified beneficiary under paragraph (2)(B) and the penalty provided under section 6720C of the Internal Revenue Code of 1986 for failure to carry out the obligation;
+
+&emsp;&emsp;&emsp;"(v) a description, displayed in a prominent manner, of the qualified beneficiary's right to a subsidized premium and any conditions on entitlement to the subsidized premium; and
+
+&emsp;&emsp;&emsp;"(vi) a description of the option of the qualified beneficiary to enroll in different coverage if the employer permits such beneficiary to elect to enroll in such different coverage under paragraph (1)(B).
+
+&emsp;&emsp;"(C)
+
+Notice in connection with extended election periods.—In the case of any assistance eligible individual described in paragraph (3) (or any individual described in paragraph (4)(A)) who became entitled to elect COBRA continuation coverage before the first day of the first month beginning after the date of the enactment of this Act \[Mar. 11, 2021\], the administrator of the applicable group health plan (or other entity) shall provide (within 60 days after such first day of such first month) for the additional notification required to be provided under subparagraph (A) and failure to provide such notice shall be treated as a failure to meet the notice requirements under the applicable COBRA continuation provision.
+
+&emsp;&emsp;"(D)
+
+Model notices.—Not later than 30 days after the date of enactment of this Act, with respect to any assistance eligible individual described in paragraph (3), the Secretary of Labor, in consultation with the Secretary of the Treasury and the Secretary of Health and Human Services, shall prescribe models for the additional notification required under this paragraph.
+
+&emsp;"(6)
+
+Notice of expiration of period of premium assistance.—
+
+&emsp;&emsp;"(A)
+
+In general.—With respect to any assistance eligible individual, subject to subparagraph (B), the requirements of section 606(a)(4) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1166(4)), section 4980B(f)(6)(D) of the Internal Revenue Code of 1986, or section 2206(4) of the Public Health Service Act (42 U.S.C. 300bb–6(4)), shall not be treated as met unless the plan administrator of the individual, during the period specified under subparagraph (C), provides to such individual a written notice in clear and understandable language—
+
+&emsp;&emsp;&emsp;"(i) that the premium assistance for such individual will expire soon and the prominent identification of the date of such expiration; and
+
+&emsp;&emsp;&emsp;"(ii) that such individual may be eligible for coverage without any premium assistance through—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) COBRA continuation coverage; or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) coverage under a group health plan.
+
+&emsp;&emsp;"(B)
+
+Exception.—The requirement for the group health plan administrator to provide the written notice under subparagraph (A) shall be waived if the premium assistance for such individual expires pursuant to clause (i) of paragraph (2)(A).
+
+&emsp;&emsp;"(C)
+
+Period specified.—For purposes of subparagraph (A), the period specified in this subparagraph is, with respect to the date of expiration of premium assistance for any assistance eligible individual pursuant to a limitation requiring a notice under this paragraph, the period beginning on the day that is 45 days before the date of such expiration and ending on the day that is 15 days before the date of such expiration.
+
+&emsp;&emsp;"(D)
+
+Model notices.—Not later than 45 days after the date of enactment of this Act, with respect to any assistance eligible individual, the Secretary of Labor, in consultation with the Secretary of the Treasury and the Secretary of Health and Human Services, shall prescribe models for the notification required under this paragraph.
+
+&emsp;"(7)
+
+Regulations.—The Secretary of the Treasury and the Secretary of Labor may jointly prescribe such regulations or other guidance as may be necessary or appropriate to carry out the provisions of this subsection, including the prevention of fraud and abuse under this subsection, except that the Secretary of Labor and the Secretary of Health and Human Services may prescribe such regulations (including interim final regulations) or other guidance as may be necessary or appropriate to carry out the provisions of paragraphs (5), (6), and (8).
+
+&emsp;"(8)
+
+Outreach.—
+
+&emsp;&emsp;"(A)
+
+In general.—The Secretary of Labor, in consultation with the Secretary of the Treasury and the Secretary of Health and Human Services, shall provide outreach consisting of public education and enrollment assistance relating to premium assistance provided under this subsection. Such outreach shall target employers, group health plan administrators, public assistance programs, States, insurers, and other entities as determined appropriate by such Secretaries. Such outreach shall include an initial focus on those individuals electing continuation coverage who are referred to in paragraph (5)(C). Information on such premium assistance, including enrollment, shall also be made available on websites of the Departments of Labor, Treasury, and Health and Human Services.
+
+&emsp;&emsp;"(B)
+
+Enrollment under medicare.—The Secretary of Health and Human Services shall provide outreach consisting of public education. Such outreach shall target individuals who lose health insurance coverage. Such outreach shall include information regarding enrollment for Medicare benefits for purposes of preventing mistaken delays of such enrollment by such individuals, including lifetime penalties for failure of timely enrollment.
+
+&emsp;"(9)
+
+Definitions.—For purposes of this section:
+
+&emsp;&emsp;"(A)
+
+Administrator.—The term 'administrator' has the meaning given such term in section 3(16)(A) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1002(16)(A)\], and includes a COBRA administrator.
+
+&emsp;&emsp;"(B)
+
+Cobra continuation coverage.—The term 'COBRA continuation coverage' means continuation coverage provided pursuant to part 6 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1161 et seq.\] (other than under section 609 \[29 U.S.C. 1169\]), title XXII of the Public Health Service Act \[42 U.S.C. 300bb–1 et seq.\], or section 4980B of the Internal Revenue Code of 1986 (other than subsection (f)(1) of such section insofar as it relates to pediatric vaccines), or under a State program that provides comparable continuation coverage. Such term does not include coverage under a health flexible spending arrangement under a cafeteria plan within the meaning of section 125 of the Internal Revenue Code of 1986.
+
+&emsp;&emsp;"(C)
+
+Cobra continuation provision.—The term 'COBRA continuation provision' means the provisions of law described in subparagraph (B).
+
+&emsp;&emsp;"(D)
+
+Covered employee.—The term 'covered employee' has the meaning given such term in section 607(2) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1167(2)\].
+
+&emsp;&emsp;"(E)
+
+Qualified beneficiary.—The term 'qualified beneficiary' has the meaning given such term in section 607(3) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1167(3)\].
+
+&emsp;&emsp;"(F)
+
+Group health plan.—The term 'group health plan' has the meaning given such term in section 607(1) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 607(1)\].
+
+&emsp;&emsp;"(G)
+
+State.—The term 'State' includes the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+
+&emsp;&emsp;"(H)
+
+Period of coverage.—Any reference in this subsection to a period of coverage shall be treated as a reference to a monthly or shorter period of coverage with respect to which premiums are charged with respect to such coverage.
+
+&emsp;&emsp;"(I)
+
+Plan sponsor.—The term 'plan sponsor' has the meaning given such term in section 3(16)(B) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1002(16)(B)\].
+
+&emsp;&emsp;"(J)
+
+Premium.—The term 'premium' includes, with respect to COBRA continuation coverage, any administrative fee.
+
+&emsp;"(10)
+
+Implementation funding.—In addition to amounts otherwise made available, out of any funds in the Treasury not otherwise appropriated, there are appropriated to the Secretary of Labor for fiscal year 2021, $10,000,000, to remain available until expended, for the Employee Benefits Security Administration to carry out the provisions of this subtitle \[subtitle F (§9501) of title IX of Pub. L. 117–2; see Tables for classification\]."
+
+#### Special Rule in Case of Employee Payment That Is Not Required
+
+Pub. L. 117–2, title IX, §9501(b)(1)(D), Mar. 11, 2021, 135 Stat. 136, provided that:
+
+"(i)
+
+In general.—In the case of an assistance eligible individual who pays, with respect any period of coverage to which subsection (a)(1)(A) \[section 9501(a)(1)(A) of Pub. L. 117–2; see note above\] applies, any amount of the premium for such coverage that the individualwould have (but for this Act \[see Tables for classification\]) been required to pay, the person to whom such payment is payable shall reimburse such individual for the amount of such premium paid.
+
+"(ii)
+
+Credit of reimbursement.—A person to which clause (i) applies shall be allowed a credit in the manner provided under section 6432 of the Internal Revenue Code of 1986 for any payment made to the employee under such clause.
+
+"(iii)
+
+Payment of credits.—Any person to which clause (i) applies shall make the payment required under such clause to the individual not later than 60 days after the date on which such individual made the premium payment."
+
+\[For definition of "assistance eligible individual", period of coverage" and "premium" as used in section 9501(b)(1)(D) of Pub. L. 117–2, set out above, see section 9501(a)(3), (9) of Pub. L. 117–2, set out above.\]
+
 #### Notification of Changes in Continuation Coverage
 
-Pub. L. 104–191, title IV, §421(e), Aug. 21, 1996, 110 Stat. 2089, provided that: "Not later than November 1,1996, each group health plan (covered under title XXII of the Public Health Service Act \[42 U.S.C. 300bb–1 et seq.\], part 6 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1161 et seq.\], and section 4980B(f) of the Internal Revenue Code of 1986) shall notify each qualified beneficiary who has elected continuation coverage under such title, part or section of the amendments made by this section \[amending this section, sections 1162, 1166, and 1167 of Title 29, Labor, and sections 300bb–2, 300bb–6, and 300bb–8 of Title 42, The Public Health and Welfare\]."
+Pub. L. 104–191, title IV, §421(e), Aug. 21, 1996, 110 Stat. 2089, provided that: "Not later than November 1, 1996, each group health plan (covered under title XXII of the Public Health Service Act \[42 U.S.C. 300bb–1 et seq.\], part 6 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1161 et seq.\], and section 4980B(f) of the Internal Revenue Code of 1986) shall notify each qualified beneficiary who has elected continuation coverage under such title, part or section of the amendments made by this section \[amending this section, sections 1162, 1166, and 1167 of Title 29, Labor, and sections 300bb–2, 300bb–6, and 300bb–8 of Title 42, The Public Health and Welfare\]."
 

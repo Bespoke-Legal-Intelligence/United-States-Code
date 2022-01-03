@@ -6,7 +6,7 @@ Interagency Committee.—
 
 &emsp;(1)
 
-Establishment and purpose.—Not later than 30 days after the date of enactment ofthis section, the President shall establish an Interagency Committee to develop and ensure implementation of a coordinated environmental review and permitting process in order to enable pipeline operators to commence and complete all activities necessary to carry out pipeline repairs within any time periods specified by rule by the Secretary.
+Establishment and purpose.—Not later than 30 days after the date of enactment of this section, the President shall establish an Interagency Committee to develop and ensure implementation of a coordinated environmental review and permitting process in order to enable pipeline operators to commence and complete all activities necessary to carry out pipeline repairs within any time periods specified by rule by the Secretary.
 
 &emsp;(2)
 
@@ -76,13 +76,17 @@ Ombudsman.—The Secretary shall designate an ombudsman to assist in expediting 
 
 (f)
 
-State and Local Permitting Processes.—The Secretary shall encourage States and localgovernments to consolidate their respective permitting processes for pipeline repair projects subject to any time periods for repair specified by rule by the Secretary. The Secretary may request other relevant Federal agencies to provide technical assistance to States and local governments for the purpose of encouraging such consolidation.
+State and Local Permitting Processes.—The Secretary shall encourage States and local governments to consolidate their respective permitting processes for pipeline repair projects subject to any time periods for repair specified by rule by the Secretary. The Secretary may request other relevant Federal agencies to provide technical assistance to States and local governments for the purpose of encouraging such consolidation.
 
 (Added Pub. L. 107–355, §16(a), Dec. 17, 2002, 116 Stat. 3006.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 The date of enactment of this section, referred to in subsecs. (a)(1), (4) and (d)(1), is the date of enactment of Pub. L. 107–355, which was approved Dec. 17, 2002.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

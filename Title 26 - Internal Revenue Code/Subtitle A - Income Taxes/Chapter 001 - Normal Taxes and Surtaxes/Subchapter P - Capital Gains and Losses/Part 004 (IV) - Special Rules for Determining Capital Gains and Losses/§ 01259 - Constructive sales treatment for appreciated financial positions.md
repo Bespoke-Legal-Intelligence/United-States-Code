@@ -104,7 +104,7 @@ For purposes of this section—
 
 #### (1) Forward contract
 
-&emsp;The term "forward contract" means a contract to deliver a substantially fixed amount of property (including cash) for a substantially fixed price.
+&emsp;The term "forward contract" means a contract to deliver a substantially fixed amountof property (including cash) for a substantially fixed price.
 
 #### (2) Offsetting notional principal contract
 
@@ -142,6 +142,8 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 (Added Pub. L. 105–34, title X, §1001(a), Aug. 5, 1997, 111 Stat. 903; amended Pub. L. 105–206, title VI, §6010(a)(1), (2), July 22, 1998, 112 Stat. 812, 813; Pub. L. 108–311, title IV, §406(e), Oct. 4, 2004, 118 Stat. 1189.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Subsec. (c)(2). Pub. L. 108–311, §406(e)(1), substituted "A taxpayer shall not be treated as having made a constructive sale solely because the taxpayer enters into a contract" for "The term 'constructive sale' shall not include any contract".
@@ -165,6 +167,8 @@ Subsec. (c)(3)(B)(ii)(II). Pub. L. 108–311, §406(e)(6), inserted "on or" befo
 Subsec. (b)(2)(B), (C). Pub. L. 105–206, §6010(a)(1)(B), (C), added subpar. (B) and redesignated former subpar. (B) as (C).
 
 Subsec. (d)(1). Pub. L. 105–206, §6010(a)(2), inserted "(including cash)" after "property".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

@@ -14,7 +14,7 @@
 
 #### (B) Program requirements
 
-&emsp;&emsp;Whenever the Secretary determines and announces that for any consecutive 4-weekperiod, the Friday through Thursday average price quotation for the lowest-priced United States growth, as quoted for Middling (M) 13/32-inch cotton, delivered to a definable and significant international market, as determined by the Secretary, exceeds the prevailing world market price, there shall immediately be in effect a special import quota.
+&emsp;&emsp;Whenever the Secretary determines and announces that for any consecutive 4-week period, the Friday through Thursday average price quotation for the lowest-priced United States growth, as quoted for Middling (M) 13/32-inch cotton, delivered to a definable and significant international market, as determined by the Secretary, exceeds the prevailing world market price, there shall immediately be in effect a special import quota.
 
 #### (3) Quantity
 
@@ -54,7 +54,7 @@
 
 &emsp;&emsp;The term "demand" means—
 
-&emsp;&emsp;&emsp;(i) the average seasonally adjusted annual rate of domestic mill consumption of cotton during the most recent 3 months for which official data of the Department of Agriculture are available or, in the absence of sufficient data, as estimated by the Secretary; and
+&emsp;&emsp;&emsp;(i) the average seasonally adjusted annual rate of domestic mill consumption ofcotton during the most recent 3 months for which official data of the Department of Agriculture are available or, in the absence of sufficient data, as estimated by the Secretary; and
 
 &emsp;&emsp;&emsp;(ii) the larger of—
 
@@ -136,11 +136,13 @@
 
 (Pub. L. 113–79, title I, §1207, Feb. 7, 2014, 128 Stat. 682; Pub. L. 115–334, title I, §1203(b), Dec. 20, 2018, 132 Stat. 4510.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Harmonized Tariff Schedule, referred to in subsecs. (a)(6)(D) and (b)(2)(C)(iv), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
 
 #### Amendments
 
-<b>2018</b>—Subsec. (c). Pub. L. 115–334 substituted "Economic adjustment assistance for textile mills" for "Economic adjustment assistance to users of upland cotton" in heading.
+<b>2018</b>—Subsec. (c). Pub. L. 115–334 substituted "Economic adjustment assistance for textile mills" for"Economic adjustment assistance to users of upland cotton" in heading.
 

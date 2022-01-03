@@ -138,7 +138,7 @@ Matters to be included.—The study conducted under this subsection shall includ
 
 &emsp;&emsp;&emsp;"(vii) the extent of resource, training, and equipment differences between State and local law enforcement entities and the Coast Guard units engaged in enforcing Coast Guard-imposed security zones around vessels transiting to, through, or from United States ports or conducting security patrols in United States ports;
 
-&emsp;&emsp;"(C) recommendations for risk-based security measures to improve waterside security of vessels carrying, and waterfront facilities handling, especially hazardous cargo; and
+&emsp;&emsp;"(C) recommendations for risk-based security measures to improve waterside security of vesselscarrying, and waterfront facilities handling, especially hazardous cargo; and
 
 &emsp;&emsp;"(D) identification of security funding alternatives, including an analysis of the potential for cost-sharing by the public and private sectors as well as any challenges associated with such cost-sharing.
 
@@ -172,7 +172,7 @@ Especially hazardous cargo.—The term 'especially hazardous cargo' means anhydr
 
 &emsp;"(2)
 
-Area maritime security committee.—The term 'Area Maritime Security Committee' meanseach of those committees responsible for producing Area Maritime Transportation Security Plans under chapter 701 of title 46, United States Code.
+Area maritime security committee.—The term 'Area Maritime Security Committee' means each of those committees responsible for producing Area Maritime Transportation Security Plans under chapter 701 of title 46, United States Code.
 
 &emsp;"(3)
 

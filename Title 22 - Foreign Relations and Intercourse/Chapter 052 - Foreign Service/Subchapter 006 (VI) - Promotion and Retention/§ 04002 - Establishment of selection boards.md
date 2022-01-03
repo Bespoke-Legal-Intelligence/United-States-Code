@@ -36,5 +36,5 @@ No public members appointed pursuant to this section may be, at the time of thei
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–65 effective Jan. 1, 1996, except as otherwise provided, see section 24 of Pub. L. 104–65, set out as an Effective Date note under section 1601 of Title 2, The Congress.
+Amendment by Pub. L. 104–65 effective Jan. 1, 1996, except as otherwise provided, see section 24 of Pub. L.104–65, set out as an Effective Date note under section 1601 of Title 2, The Congress.
 

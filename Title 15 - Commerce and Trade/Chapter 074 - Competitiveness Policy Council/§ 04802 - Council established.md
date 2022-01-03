@@ -1,12 +1,16 @@
 ### §4802. Council established
 
-There is established the Competitiveness Policy Council (hereafter in this chapter referred to as the "Council"), an advisory committee under the provisions of the Federal Advisory Committee Act (5 U.S.C. App.).
+There is established the Competitiveness Policy Council (hereafter in this chapter referred toas the "Council"), an advisory committee under the provisions of the Federal Advisory Committee Act (5 U.S.C. App.).
 
 (Pub. L. 100–418, title V, §5203, Aug. 23, 1988, 102 Stat. 1456.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Advisory Councils
 

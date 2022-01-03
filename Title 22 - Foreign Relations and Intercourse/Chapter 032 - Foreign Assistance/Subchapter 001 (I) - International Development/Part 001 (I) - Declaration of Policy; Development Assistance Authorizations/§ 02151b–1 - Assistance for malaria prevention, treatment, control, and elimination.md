@@ -8,7 +8,7 @@
 
 #### (2) Consideration of interaction among epidemics
 
-&emsp;In providing assistance pursuant to paragraph (1), the Administrator should considerthe interaction among the epidemics of HIV/AIDS, malaria, and tuberculosis.
+&emsp;In providing assistance pursuant to paragraph (1), the Administrator should consider the interaction among the epidemics of HIV/AIDS, malaria, and tuberculosis.
 
 #### (3) Dissemination of information requirement
 

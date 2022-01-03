@@ -112,7 +112,7 @@
 
 #### (ii) Post-employment ban
 
-&emsp;&emsp;&emsp;Each individual described in clause (i) shall be subject to a ban disallowing compensation from the manufactured housingindustry during the period of, and during the 1-year following, the membership of the individual on the consensus committee.
+&emsp;&emsp;&emsp;Each individual described in clause (i) shall be subject to a ban disallowing compensation from the manufactured housing industry during the period of, and during the 1-year following, the membership of the individual on the consensus committee.
 
 #### (G) Meetings
 
@@ -230,7 +230,7 @@
 
 #### (1) Regulations
 
-&emsp;The Secretary may issue procedural and enforcement regulations and revisions to existing regulations as necessary to implement the provisions of this chapter. The consensus committee may submit to the Secretary proposed procedural and enforcement regulations and recommendations for the revision of such regulations.
+&emsp;The Secretary may issue procedural and enforcement regulations and revisions to existing regulations as necessary to implement the provisions of this chapter. The consensus committee may submit to the Secretary proposed procedural and enforcement regulations andrecommendations for the revision of such regulations.
 
 #### (2) Interpretative bulletins
 
@@ -288,7 +288,7 @@ Each order establishing a Federal manufactured home construction and safety stan
 
 #### (d) Supremacy of Federal standards
 
-Whenever a Federal manufactured home construction and safety standard established under this chapter is in effect, no State or political subdivision of a State shall have any authority either to establish, or to continue in effect, with respect to any manufactured home covered, any standard regarding the construction or safety applicable to the same aspect of performance of such manufactured home which is not identical to the Federal manufactured home construction and safety standard. Federal preemption under this subsection shall be broadly and liberally construed to ensure that disparate State or local requirements or standards do not affect the uniformity and comprehensiveness of the standards promulgated under this section nor the Federal superintendence of the manufactured housing industry as established by this chapter. Subject to section 5404 of this title, there is reserved to each State the right to establish standards for the stabilizing and support systems of manufactured homes sited within that State, and for the foundations on which manufactured homes sited within that State are installed, and the right to enforce compliance with such standards, except that such standards shall be consistent with the purposes of this chapter and shall be consistent with the design of the manufacturer.
+Whenever a Federal manufactured home construction and safety standard established under this chapter is in effect, no State or political subdivision of a State shall have any authority either to establish, or to continue in effect, with respect to any manufactured home covered, any standard regarding the construction or safety applicable to the same aspect of performance of such manufactured home which is not identical to the Federal manufactured home construction and safety standard. Federal preemption under this subsection shall be broadly and liberally construed to ensure that disparate State or local requirements or standards do not affect the uniformity and comprehensiveness of the standards promulgated under this section nor the Federal superintendence of the manufactured housing industry as established by this chapter. Subject to section 5404 of this title, there is reserved to each State the right to establish standards for the stabilizing and support systems of manufactured homes sited within that State, and for the foundations on whichmanufactured homes sited within that State are installed, and the right to enforce compliance with such standards, except that such standards shall be consistent with the purposes of this chapter and shall be consistent with the design of the manufacturer.
 
 #### (e) Considerations in establishing and interpreting standards and regulations
 
@@ -330,6 +330,8 @@ The Secretary shall develop a new standard for hardboard panel siding on manufac
 
 (Pub. L. 93–383, title VI, §604, Aug. 22, 1974, 88 Stat. 701; Pub. L. 95–128, title IX, §902(a), Oct. 12, 1977, 91 Stat. 1149; Pub. L. 96–399, title III, §308(c)(4), Oct. 8, 1980, 94 Stat. 1641; Pub. L. 98–479, title II, §204(l), Oct. 17, 1984, 98 Stat. 2233; Pub. L. 100–242, title V, §568, Feb. 5, 1988, 101 Stat. 1948; Pub. L. 102–550, title IX, §907, Oct. 28, 1992, 106 Stat. 3873; Pub. L. 106–569, title VI, §604, Dec. 27, 2000, 114 Stat. 2999.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The National Housing Act, referred to in subsec. (f)(3), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Title II of the National Housing Act is classified principally to subchapter II (§1707 et seq.) of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
@@ -368,6 +370,8 @@ Subsec. (j). Pub. L. 106–569, §604(6), (7), substituted "subsection (e)" for 
 
 <b>1977</b>—Subsec. (h). Pub. L. 95–128 added subsec. (h).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–569 effective Dec. 27, 2000, except that amendment has no effect on any order or interpretative bulletin issued under this chapter and published as a proposed rule pursuant to 5 U.S.C. 553 on or before Dec. 27, 2000, see section 612 of Pub. L. 106–569, set out as a note under section 5401 of this title.
@@ -378,5 +382,5 @@ Section effective upon the expiration of 180 days following Aug. 22, 1974, see s
 
 #### Exception to Federal Preemption for Thermal Insulation and Energy Efficiency Standards
 
-Pub. L. 102–486, title I, §104(c), Oct. 24, 1992, 106 Stat. 2792, provided that: "If the Secretary of Housing and Urban Development has not issued, within 1 year after the date of the enactment of this Act \[Oct. 24, 1992\], final regulations pursuant to section 604 of the National Manufactured Housing Construction and Safety Standards Act of 1974 (42 U.S.C. 5403) that establishthermal insulation and energy efficiency standards for manufactured housing that take effect before January 1, 1995, then States may establish thermal insulation and energy efficiency standards for manufactured housing if such standards are at least as stringent as thermal performance standards for manufactured housing contained in the Second Public Review Draft of BSR/ASHRAE 90.2P entitled 'Energy Efficient Design of Low-Rise Residential Buildings' and all public reviews of Independent Substantive Changes to such document that have been approved on or before the date of the enactment of this Act."
+Pub. L. 102–486, title I, §104(c), Oct. 24, 1992, 106 Stat. 2792, provided that: "If the Secretary of Housing and Urban Development has not issued, within 1 year after the date of the enactment of this Act \[Oct. 24, 1992\], final regulations pursuant to section 604 of the National Manufactured Housing Construction and Safety Standards Act of 1974 (42 U.S.C. 5403) that establish thermal insulation and energy efficiency standards for manufactured housing that take effect before January 1, 1995, then States may establish thermal insulation and energy efficiency standards for manufactured housing if such standards are at least as stringent as thermal performance standards for manufactured housing contained in the Second Public Review Draft of BSR/ASHRAE 90.2P entitled 'Energy Efficient Design of Low-Rise Residential Buildings' and all public reviews of Independent Substantive Changes to such document that have been approved on or before the date of the enactment of this Act."
 

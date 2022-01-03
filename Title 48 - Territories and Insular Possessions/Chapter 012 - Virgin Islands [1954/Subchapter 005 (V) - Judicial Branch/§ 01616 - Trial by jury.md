@@ -4,6 +4,8 @@ All criminal cases originating in the district court shall be tried by jury upon
 
 (July 22, 1954, ch. 558, §26, 68 Stat. 507; Pub. L. 85–851, §8, Aug. 28, 1958, 72 Stat. 1095.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1958</b>—Pub. L. 85–851 substituted requirement of jury trial upon demand by defendant or Government for prohibition against denial to any person on demand of either party.

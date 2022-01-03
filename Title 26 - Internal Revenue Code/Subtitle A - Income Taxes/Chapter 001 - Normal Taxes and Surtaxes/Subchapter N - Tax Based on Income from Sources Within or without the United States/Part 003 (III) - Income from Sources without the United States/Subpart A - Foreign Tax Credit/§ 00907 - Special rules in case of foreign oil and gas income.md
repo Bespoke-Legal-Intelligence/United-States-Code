@@ -140,7 +140,7 @@ For purposes of this section—
 
 #### (5) Oil and gas extraction taxes
 
-&emsp;The term "oil and gas extraction taxes" means any income, war profits, and excess profits tax paid or accrued (or deemed to have been paid under section 960) during the taxable year with respect to foreign oil and gas extraction income (determined without regard to paragraph (4)) or loss which would be taken into account for purposes of section 901 without regard to this section.
+&emsp;The term "oil and gas extraction taxes" means any income, war profits, and excessprofits tax paid or accrued (or deemed to have been paid under section 960) during the taxable year with respect to foreign oil and gas extraction income (determined without regard to paragraph (4)) or loss which would be taken into account for purposes of section 901 without regard to this section.
 
 #### (d) Disregard of certain posted prices, etc.
 
@@ -152,7 +152,7 @@ For purposes of this chapter, in determining the amount of taxable income in the
 
 #### (1) In general
 
-&emsp;If the amount of the foreign oil and gas taxes paid or accrued during any taxable year exceeds the limitation provided by subsection (a) for such taxable year (hereinafter in this subsection referred to as the "unused credit year"), such excess shall be deemed to be foreign oil and gas taxes paid or accrued in the first preceding taxable year and in any of the first 10 succeeding taxable years, in that orderand to the extent not deemed tax paid or accrued in a prior taxable year by reason of the limitation imposed by paragraph (2). Such amount deemed paid or accrued in any taxable year may be availed of only as a tax credit and not as a deduction and only if the taxpayer for such year chooses to have the benefits of this subpart as to taxes paid or accrued for that year to foreign countries or possessions.
+&emsp;If the amount of the foreign oil and gas taxes paid or accrued during any taxable year exceeds the limitation provided by subsection (a) for such taxable year (hereinafter in this subsection referred to as the "unused credit year"), such excess shall be deemed to be foreign oil and gas taxes paid or accrued in the first preceding taxable year and in any of the first 10 succeeding taxable years, in that order and to the extent not deemed tax paid or accrued in a prior taxable year by reason of the limitation imposed by paragraph (2). Such amount deemed paid or accrued in any taxable year may be availed of only as a tax credit and not as a deduction and only if the taxpayer for such year chooses to have the benefits of this subpart as to taxes paid or accrued for that year to foreign countries or possessions.
 
 #### (2) Limitation
 
@@ -190,6 +190,8 @@ For purposes of this chapter, in determining the amount of taxable income in the
 
 (Added Pub. L. 94–12, title VI, §601(a), Mar. 29, 1975, 89 Stat. 54; amended Pub. L. 94–455, title X, §§1031(b)(6), 1032(b), 1035(a), (b), (d)(1), (2), 1052(c)(4), Oct. 4, 1976, 90 Stat. 1623, 1626, 1630–1632, 1648; Pub. L. 95–600, title III, §301(b)(14), title VII, §701(u)(8)(A), (B), Nov. 6, 1978, 92 Stat. 2822, 2916; Pub. L. 97–248, title II, §211(a)–(c)(1), (d), Sept. 3, 1982, 96 Stat. 448–450; Pub. L. 100–647, title I, §1012(g)(6), Nov. 10, 1988, 102 Stat. 3501; Pub. L. 101–508, title XI, §11801(a)(32), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 103–66, title XIII, §13235(a)(1), Aug. 10, 1993, 107 Stat. 504; Pub. L. 104–188, title I, §1704(t)(36), Aug. 20, 1996, 110 Stat. 1889; Pub. L. 108–357, title IV, §417(b), Oct. 22, 2004, 118 Stat. 1512; Pub. L. 110–343, div. B, title IV, §402(a)–(c), Oct. 3, 2008, 122 Stat. 3852, 3854; Pub. L. 113–295, div. A, title II, §210(e), Dec. 19, 2014, 128 Stat. 4031; Pub. L. 115–97, title I, §14301(c)(24)–(27), Dec. 22, 2017, 131 Stat. 2223, 2224; Pub. L. 115–141, div. U, title IV, §401(a)(158), (159), Mar. 23, 2018, 132 Stat. 1191.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of the Energy Improvement and Extension Act of 2008, referred to in subsecs. (c)(4)(B)(ii)(II), (D)(iv) and (f)(4)(A), is the date of enactment of div. B of Pub. L. 110–343, which was approved Oct. 3, 2008.
@@ -216,7 +218,7 @@ Subsec. (c)(5). Pub. L. 115–97, §14301(c)(26), struck out "902 or" after "und
 
 Subsec. (f)(2)(B)(i). Pub. L. 115–97, §14301(c)(27), struck out "902 or" after "under section".
 
-<b>2014</b>—Subsec. (f)(4)(A). Pub. L. 113–295 substituted "this subsection, as in effect on the day before the dateof the enactment of the Energy Improvement and Extension Act of 2008, shall apply to unused oil and gas extraction taxes carried from such unused credit year to a taxable year beginning after December 31, 2008." for "this subsection shall be applied to any unused oil and gas extraction taxes carried from such unused credit year to a year beginning after December 31, 2008—
+<b>2014</b>—Subsec. (f)(4)(A). Pub. L. 113–295 substituted "this subsection, as in effect on the day before the date of the enactment of the Energy Improvement and Extension Act of 2008, shall apply to unused oil and gas extraction taxes carried from such unused credit year to a taxable year beginning after December 31, 2008." for "this subsection shall be applied to any unused oil and gas extraction taxes carried from such unused credit year to a year beginning after December 31, 2008—
 
 &emsp;"(i) by substituting 'oil and gas extraction taxes' for 'foreign oil and gas taxes' each place it appears in paragraphs (1), (2), and (3), and
 
@@ -272,7 +274,7 @@ Subsec. (f)(3)(A). Pub. L. 97–248, §211(d)(2)(B)(ii), substituted "section 90
 
 Subsec. (f)(3)(B). Pub. L. 97–248, §211(d)(2)(B)(iii), struck out "oil-related" after "determining the amount of".
 
-<b>1978</b>—Subsec. (a)(2). Pub. L. 95–600, §§301(b)(14), 701(u)(8)(A), designated existing provisions as subpar.\(A), inserted applicability to corporations and generally reworked applicable formula, and added subpar. (B).
+<b>1978</b>—Subsec. (a)(2). Pub. L. 95–600, §§301(b)(14), 701(u)(8)(A), designated existing provisions as subpar. (A), inserted applicability to corporations and generally reworked applicable formula, and added subpar. (B).
 
 Subsec. (b). Pub. L. 95–600, §701(u)(8)(B), substituted provisions relating to applicability of section 904 separately to foreign oil related income and other taxable income for provisions relating to applicability of section 904 to corporations and other taxpayers.
 
@@ -289,6 +291,8 @@ Subsec. (e)(2). Pub. L. 94–455, §1031(b)(6), substituted "(d) and (e) of sect
 Subsec. (f). Pub. L. 94–455, §§1032(b)(2), 1035(d)(1), added subsec. (f). Former subsec. (f), relating to recapture of foreign oil related loss, was struck out.
 
 Subsec. (g). Pub. L. 94–455, §§1032(b)(2), 1035(d)(1), 1052(c)(4), struck out subsec. (g) relating to Western Hemisphere trade corporations which are members of an affiliated group.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 
@@ -338,7 +342,7 @@ In general.—If, after applying old sections 907(b) and 904(f)(4) to a taxable 
 
 Definitions.—For purposes of this paragraph—
 
-&emsp;&emsp;"(i) The term 'separate basket foreign loss' means any foreign loss attributable to activities taken into account (or not taken into account) in determining foreign oil related income (as defined in old section 907(c)(2)).
+&emsp;&emsp;"(i) The term 'separate basket foreign loss' means any foreign loss attributable to activities takeninto account (or not taken into account) in determining foreign oil related income (as defined in old section 907(c)(2)).
 
 &emsp;&emsp;"(ii) An 'old' section is such section as in effect on the day before the date of the enactment of this Act \[Sept. 3, 1982\]."
 

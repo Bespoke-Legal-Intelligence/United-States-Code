@@ -36,6 +36,8 @@ The site of any hearings held under section 4609 or 4610 of this title shall be 
 
 (Pub. L. 98–590, §11A, as added Pub. L. 101–624, title XIX, §1986, Nov. 28, 1990, 104 Stat. 3908; amended Pub. L. 102–237, title VIII, §807(2), Dec. 13, 1991, 105 Stat. 1883.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Subsec. (b)(2). Pub. L. 102–237 struck out "section" after "4609 or".

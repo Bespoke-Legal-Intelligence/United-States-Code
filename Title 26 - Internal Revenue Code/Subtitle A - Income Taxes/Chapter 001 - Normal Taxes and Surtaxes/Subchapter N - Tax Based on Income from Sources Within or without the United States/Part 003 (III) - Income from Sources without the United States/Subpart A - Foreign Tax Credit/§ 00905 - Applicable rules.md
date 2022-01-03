@@ -48,13 +48,15 @@ The credits provided in this subpart shall be allowed only if the taxpayer estab
 
 #### (4) Bond requirements
 
-&emsp;In the case of any tax accrued but not paid, the Secretary, as a condition precedent to the allowance of the credit provided in this subpart, may require the taxpayer to give a bond,with sureties satisfactory to and approved by the Secretary, in such sum as the Secretary may require, conditioned on the payment by the taxpayer of any amount of tax found due on any such redetermination. Any such bond shall contain such further conditions as the Secretary may require.
+&emsp;In the case of any tax accrued but not paid, the Secretary, as a condition precedent to the allowance of the credit provided in this subpart, may require the taxpayer to give a bond, with sureties satisfactory to and approved by the Secretary, in such sum as the Secretary may require, conditioned on the payment by the taxpayer of any amount of tax found due on any such redetermination. Any such bond shall contain such further conditions as the Secretary may require.
 
 #### (5) Other special rules
 
 &emsp;In any redetermination under paragraph (1) by the Secretary of the amount of tax due from the taxpayer for the year or years affected by a refund, the amount of the taxes refunded for which credit has been allowed under this section shall be reduced by the amount of any tax described in section 901 imposed by the foreign country or possession of the United States with respect to such refund; but no credit under this subpart, or deduction under section 164, shall be allowed for any taxable year with respect to any such tax imposed on the refund. No interest shall be assessed or collected on any amount of tax due on any redetermination by the Secretary, resulting from a refund to the taxpayer, for any period before the receipt of such refund, except to the extent interest was paid by the foreign country or possession of the United States on such refund for such period.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 288; Pub. L. 85–866, title I, §103(b), Sept. 2, 1958, 72 Stat. 1675; Pub. L. 94–455, title XIX, §§1901(a)(114), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1784, 1834; Pub. L. 96–603, §2(c)(1), Dec. 28, 1980, 94 Stat. 3509; Pub. L. 97–248, title III, §343(a), Sept. 3, 1982, 96 Stat. 635; Pub. L. 105–34, title XI, §1102(a)(2), Aug. 5, 1997, 111 Stat. 964; Pub. L. 115–97, title I, §14301(c)(20), (21), Dec. 22, 2017, 131 Stat. 2223.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -72,11 +74,13 @@ Subsec. (c)(2)(B)(i). Pub. L. 115–97, §14301(c)(21), amended cl. (i) generall
 
 <b>1980</b>—Subsec. (c). Pub. L. 96–603 inserted provision that the preceding sentence not apply, with respect to any period after the refund or adjustment in the foreign taxes, if the taxpayer fails to notify the Secretary, on or before the date prescribed by regulations for giving such notice, unless it is shown that such failure is due to reasonable cause and not due to willful neglect.
 
-<b>1976</b>—Subsec. (b). Pub. L. 94–455, §§1901(a)(114), 1906(b)(13)(A), struck out provision allowing credits to be taken for tax on royalties paid, accrued and derived from sources within the United Kingdom of Britain and Northern Ireland and struck out "or his delegate" after "Secretary", in two places.
+<b>1976</b>—Subsec. (b). Pub. L. 94–455, §§1901(a)(114), 1906(b)(13)(A), struck out provision allowing credits to be taken for tax on royalties paid, accrued and derivedfrom sources within the United Kingdom of Britain and Northern Ireland and struck out "or his delegate" after "Secretary", in two places.
 
 Subsec. (c). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary" in eight places.
 
 <b>1958</b>—Subsec. (b). Pub. L. 85–866 inserted sentence deeming recipient of a royalty or other amount for use of copyright, patent, and other like property derived from sources within United Kingdom, to have paid or accrued taxes paid or accrued to United Kingdom with respect to royalty if recipient elects to include in its gross income the amount of such United Kingdom tax.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 
@@ -92,7 +96,7 @@ Pub. L. 97–248, title III, §343(b), Sept. 3, 1982, 96 Stat. 635, provided tha
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–603 applicable with respect to employer contributions or accruals for taxable yearsbeginning after Dec. 31, 1979, election to apply amendments retroactively with respect to foreign subsidiaries, allowance or prior deductions in case of certain funded branch plans, and time and manner for making elections, see section 2(e) of Pub. L. 96–603, set out as an Effective Date note under section 404A of this title.
+Amendment by Pub. L. 96–603 applicable with respect to employer contributions or accruals for taxable years beginning after Dec. 31, 1979, election to apply amendments retroactively with respect to foreign subsidiaries, allowance or prior deductions in case of certain funded branch plans, and time and manner for making elections, see section 2(e) of Pub. L. 96–603, set out as an Effective Date note under section 404A of this title.
 
 #### Effective Date of 1976 Amendment
 

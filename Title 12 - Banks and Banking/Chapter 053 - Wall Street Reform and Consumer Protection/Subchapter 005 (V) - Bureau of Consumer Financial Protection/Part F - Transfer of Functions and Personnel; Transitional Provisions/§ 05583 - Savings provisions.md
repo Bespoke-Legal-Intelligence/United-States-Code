@@ -76,7 +76,7 @@ Section 5581(b)(5) of this title does not affect the validity of any right, duty
 
 #### (2) Continuation of suits
 
-&emsp;No provision of this Act shall abate any proceeding commenced by or against the Directorof the Office of Thrift Supervision (or the Office of Thrift Supervision) with respect to any consumer financial protection function of the Director of the Office of Thrift Supervision transferred to the Bureau by this title <sup>1</sup> before the designated transfer date, except that the Bureau, subject to sections 5514, 5515, and 5516 of this title, shall be substituted for the Director (or the Office of Thrift Supervision) as a party to any such proceeding as of the designated transfer date.
+&emsp;No provision of this Act shall abate any proceeding commenced by or against the Director of the Office of Thrift Supervision (or the Office of Thrift Supervision) with respect to any consumer financial protection function of the Director of the Office of Thrift Supervision transferred to the Bureau by this title <sup>1</sup> before the designated transfer date, except that the Bureau, subject to sections 5514, 5515, and 5516 of this title, shall be substituted for the Director (or the Office of Thrift Supervision) as a party to any such proceeding as of the designated transfer date.
 
 #### (g) Department of Housing and Urban Development
 
@@ -114,7 +114,7 @@ Not later than the designated transfer date, the Bureau—
 
 #### (1) Proposed rules
 
-&emsp;Any proposed rule of a transferor agency which that agency, in performing consumer financial protection functions transferred by this title,<sup>1</sup> has proposed before the designated transfer date, but has not been published as a final rule before that date, shall be deemed to be a proposed rule of the Bureau.
+&emsp;Any proposed rule of a transferor agency which that agency, in performing consumer financial protection functions transferred by this title,<sup>1</sup> has proposed before the designatedtransfer date, but has not been published as a final rule before that date, shall be deemed to be a proposed rule of the Bureau.
 
 #### (2) Rules not yet effective
 

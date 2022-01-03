@@ -2,7 +2,9 @@
 
 The appropriate customs officer shall determine the domestic value, at the time and place of appraisement, of any vessel, vehicle, aircraft, merchandise, or baggage seized under the customs laws.
 
-(June 17, 1930, ch. 497, title IV, §606, 46 Stat. 754; Pub. L. 91–271, title III, §301(dd), June 2, 1970, 84 Stat. 291; Pub. L. 98–473, title II, §321, Oct. 12,1984, 98 Stat. 2056; Pub. L. 98–573, title II, §213(a)(3), Oct. 30, 1984, 98 Stat. 2984.)
+(June 17, 1930, ch. 497, title IV, §606, 46 Stat. 754; Pub. L. 91–271, title III, §301(dd), June 2, 1970, 84 Stat. 291; Pub. L. 98–473, title II, §321, Oct. 12, 1984, 98 Stat. 2056; Pub. L. 98–573, title II, §213(a)(3), Oct. 30, 1984, 98 Stat. 2984.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -15,6 +17,8 @@ Prior provisions for appraisement of property seized under the customs laws, or 
 <b>1984</b>—Pub. L. 98–573 and Pub. L. 98–473 inserted reference to aircraft.
 
 <b>1970</b>—Pub. L. 91–271 substituted "appropriate customs officer shall" for "collector shall require the appraiser to".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

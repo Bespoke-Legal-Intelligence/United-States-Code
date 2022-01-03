@@ -136,7 +136,7 @@ The amounts in the Fund from auctions of eligible frequencies are authorized to 
 
 #### (A) In general
 
-&emsp;&emsp;The Director of OMB may use amounts made available under paragraph (1) to make payments requested by Federal entities for research and development, engineering studies, economic analyses, activities with respect to systems, or other planning activities intended to improve the efficiency and effectiveness of the spectrum use of Federal entities in order to make available frequencies described in subparagraph (C) for reallocation for non-Federal use or shared Federal and non-Federal use, or a combination thereof, and for auction in accordance with such reallocation.
+&emsp;&emsp;The Director of OMB may use amounts made available under paragraph (1) to makepayments requested by Federal entities for research and development, engineering studies, economic analyses, activities with respect to systems, or other planning activities intended to improve the efficiency and effectiveness of the spectrum use of Federal entities in order to make available frequencies described in subparagraph (C) for reallocation for non-Federal use or shared Federal and non-Federal use, or a combination thereof, and for auction in accordance with such reallocation.
 
 #### (B) Systems that improve efficiency and effectiveness of Federal spectrum use
 

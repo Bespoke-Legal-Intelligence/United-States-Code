@@ -148,7 +148,7 @@ To be eligible to receive a grant under subsection (d) for national leveraging c
 
 &emsp;&emsp;(D) provide a well-defined plan for replicating, expanding, or supporting the initiatives funded;
 
-&emsp;&emsp;(E) can sustain the initiatives after the subgrant period concludes through reliable public revenues, earned income, or private sector funding;
+&emsp;&emsp;(E) can sustain the initiatives after the subgrant period concludes through reliablepublic revenues, earned income, or private sector funding;
 
 &emsp;&emsp;(F) have strong leadership and financial and management systems;
 
@@ -228,7 +228,7 @@ In selecting eligible entities to receive grants under subsection (d), the Corpo
 
 #### (2) Periods; amounts
 
-&emsp;The eligible entity shall make such subgrants for periods of not less than 3 and not more than 5 years, and may renew the subgrants for such periods, in amounts of not less than $100,000 per year.
+&emsp;The eligible entity shall make such subgrants for periods of not less than 3 and notmore than 5 years, and may renew the subgrants for such periods, in amounts of not less than $100,000 per year.
 
 #### (3) Applications
 
@@ -282,7 +282,7 @@ In selecting eligible entities to receive grants under subsection (d), the Corpo
 
 #### (1) In general
 
-&emsp;The Corporation may reserve not more than 5 percent of the funds appropriated for thissection for a fiscal year to support, directly or through contract with an independent entity, research and evaluation activities to evaluate the eligible entities and community organizations receiving grants under subsections (d) and (l) and the initiatives supported by the grants.
+&emsp;The Corporation may reserve not more than 5 percent of the funds appropriated for this section for a fiscal year to support, directly or through contract with an independent entity, research and evaluation activities to evaluate the eligible entities and community organizations receiving grants under subsections (d) and (l) and the initiatives supported by the grants.
 
 #### (2) Research and evaluation activities
 
@@ -290,7 +290,7 @@ In selecting eligible entities to receive grants under subsection (d), the Corpo
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The entity carrying out this subsection shall collect data and conduct or support research with respect to the eligible entities and community organizations receiving grants under subsections (d) and (l), and the initiatives supported by such eligible entities and community organizations, to determine the success of the program carried out under this section in replicating, expanding, and supporting initiatives, including—
+&emsp;&emsp;&emsp;The entity carrying out this subsection shall collect data and conduct or supportresearch with respect to the eligible entities and community organizations receiving grants under subsections (d) and (l), and the initiatives supported by such eligible entities and community organizations, to determine the success of the program carried out under this section in replicating, expanding, and supporting initiatives, including—
 
 &emsp;&emsp;&emsp;&emsp;(I) the success of the initiatives in improving measurable outcomes; and
 
@@ -324,6 +324,8 @@ In selecting eligible entities to receive grants under subsection (d), the Corpo
 
 (Pub. L. 101–610, title I, §198K, as added Pub. L. 111–13, title I, §1807, Apr. 21, 2009, 123 Stat. 1564.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 12653k, Pub. L. 101–610, title I, §195K, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2531, which set out other departments' responsibilities to the Corps, was renumbered section 162 of Pub. L. 101–610 and transferred to section 12622 of this title.
@@ -335,6 +337,8 @@ Section 12653l, Pub. L. 101–610, title I, §195L, as added Pub. L. 102–484, 
 Section 12653m, Pub. L. 101–610, title I, §195M, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2532, which provided for annual evaluations of Corps programs, was renumbered section 164 of Pub. L. 101–610 and transferred to section 12624 of this title.
 
 Section 12653n, Pub. L. 101–610, title I, §195N, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2532, which limited funding for Corps programs, was renumbered section 165 of Pub. L. 101–610 and transferred to section 12625 of this title, prior to repeal by Pub. L. 111–13, title I, §1515, Apr. 21, 2009, 123 Stat. 1528.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -44,9 +44,13 @@ For purposes of this section—
 
 (Added Pub. L. 97–248, title II, §269(a), Sept. 3, 1982, 96 Stat. 551; amended Pub. L. 104–188, title I, §1118(a), Aug. 20, 1996, 110 Stat. 1764.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (b)(2)(A). Pub. L. 104–188 added cl. (iii).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

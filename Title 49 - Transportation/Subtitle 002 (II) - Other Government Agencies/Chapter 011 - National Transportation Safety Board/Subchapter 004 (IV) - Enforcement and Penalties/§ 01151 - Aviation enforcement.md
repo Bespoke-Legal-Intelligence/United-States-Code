@@ -80,9 +80,13 @@ In subsection (b), before clause (1), the words "Attorney General" are substitut
 
 In subsection (c), the words "civil action" are substituted for "proceeding in court" for consistency with rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Pub. L. 106–181 inserted "1136(g)(2)," before "or 1155(a)" in subsecs. (a), (b)(1), and (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

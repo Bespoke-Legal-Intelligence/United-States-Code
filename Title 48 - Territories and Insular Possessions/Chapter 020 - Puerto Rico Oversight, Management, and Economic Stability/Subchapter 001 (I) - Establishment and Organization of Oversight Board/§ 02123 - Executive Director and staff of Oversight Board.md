@@ -14,13 +14,15 @@ The Executive Director and staff of the Oversight Board may be appointed and pai
 
 #### (d) Staff of Federal agencies
 
-Upon request of the Chair, the head of any Federal department or agency may detail, on a reimbursable or nonreimbursable basis, and in accordance with the Intergovernmental Personnel Act of 1970 (5 U.S.C. 3371–3375), any of the personnel of that department or agency to theOversight Board to assist it in carrying out its duties under this chapter.
+Upon request of the Chair, the head of any Federal department or agency may detail, on a reimbursable or nonreimbursable basis, and in accordance with the Intergovernmental Personnel Act of 1970 (5 U.S.C. 3371–3375), any of the personnel of that department or agency to the Oversight Board to assist it in carrying out its duties under this chapter.
 
 #### (e) Staff of territorial government
 
 Upon request of the Chair, the head of any department or agency of the covered territory may detail, on a reimbursable or nonreimbursable basis, any of the personnel of that department or agency to the Oversight Board to assist it in carrying out its duties under this chapter.
 
 (Pub. L. 114–187, title I, §103, June 30, 2016, 130 Stat. 557.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

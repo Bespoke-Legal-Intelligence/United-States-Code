@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary; scope of evaluation; persons conducting evaluation
 
-The Secretary shall measure and evaluate the impact of all programs authorized by this chapter, their effectiveness in achieving stated goals in general, and in relation to their cost, their impact on related programs, their effectiveness in targeting for services under this chapter unserved older individuals with greatest economic need (including low-income minority individuals and older individuals residing in rural areas) and unserved older individuals with greatest social need (including low-income minority individuals and older individuals residing in rural areas), and their structure and mechanisms for delivery of services, including, where appropriate, comparisons with appropriate control groups composed of persons who have not participated in such programs. Evaluations shall be conducted by persons not immediately involved in the administration of the program or project evaluated.
+The Secretary shall measure and evaluate the impact of all programs authorized by this chapter, their effectiveness in achieving stated goals in general, and in relation to their cost, their impact on related programs, their effectiveness in targeting for services under this chapterunserved older individuals with greatest economic need (including low-income minority individuals and older individuals residing in rural areas) and unserved older individuals with greatest social need (including low-income minority individuals and older individuals residing in rural areas), and their structure and mechanisms for delivery of services, including, where appropriate, comparisons with appropriate control groups composed of persons who have not participated in such programs. Evaluations shall be conducted by persons not immediately involved in the administration of the program or project evaluated.
 
 #### (b) Relationship of programs to health care expenditures
 
@@ -10,7 +10,7 @@ Not later than July 1, 2020, the Secretary shall provide, directly or through gr
 
 #### (c) General standards
 
-The Secretary may not make grants or contracts under subchapter IV of this chapter untilthe Secretary develops and publishes general standards to be used by the Secretary in evaluating the programs and projects assisted under such subchapter. Results of evaluations conducted pursuant to such standards shall be included in the reports required by section 3018 of this title.
+The Secretary may not make grants or contracts under subchapter IV of this chapter until the Secretary develops and publishes general standards to be used by the Secretary in evaluating the programs and projects assisted under such subchapter. Results of evaluations conducted pursuant to such standards shall be included in the reports required by section 3018 of this title.
 
 #### (d) Opinions of program and project participants; comparison of effectiveness of related programs; consultation with organizations concerned with older individuals
 
@@ -33,6 +33,8 @@ Such information as the Secretary may deem necessary for purposes of the evaluat
 From the total amount appropriated for each fiscal year to carry out subchapter III, the Secretary may use such sums as may be necessary, but not to exceed ½ of 1 percent of such amount, for purposes of conducting evaluations under this section, either directly or through grants or contracts. No part of such sums may be reprogrammed, transferred, or used for any other purpose. Funds expended under this subsection shall be justified and accounted for by the Secretary.
 
 (Pub. L. 89–73, title II, §206, formerly §207, as added Pub. L. 93–29, title II, §201(c), May 3, 1973, 87 Stat. 35; amended Pub. L. 95–478, title I, §102(g), Oct. 18, 1978, 92 Stat. 1515; renumbered §206 and amended Pub. L. 97–115, §2(e)(2), (h), Dec. 29, 1981, 95 Stat. 1596; Pub. L. 98–459, title II, §206, Oct. 9, 1984, 98 Stat. 1770; Pub. L. 100–175, title I, §106(c), Nov. 29, 1987, 101 Stat. 930; Pub. L. 102–375, title II, §207, Sept. 30, 1992, 106 Stat. 1213; Pub. L. 103–171, §§2(5), 3(a)(13), Dec. 2, 1993, 107 Stat. 1988, 1990; Pub. L. 106–501, title II, §203, Nov. 13, 2000, 114 Stat. 2234; Pub. L. 109–365, title II, §205, Oct. 17, 2006, 120 Stat. 2535; Pub. L. 116–131, title I, §127(b), Mar. 25, 2020, 134 Stat. 253.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -62,7 +64,7 @@ Subsec. (g)(2). Pub. L. 103–171, §§2(5)(B), 3(a)(13), substituted "Assistant
 
 Subsec. (g)(3). Pub. L. 103–171, §§2(5)(C), 3(a)(13), substituted "1995" for "1994" in introductory provisions and "Assistant Secretary" for "Commissioner" in subpar. (B).
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–375, §207(1), inserted "their effectiveness in targeting for services under thischapter unserved older individuals with greatest economic need (including low-income minority individuals) and unserved older individuals with greatest social need (including low-income minority individuals)," after "related programs,".
+<b>1992</b>—Subsec. (a). Pub. L. 102–375, §207(1), inserted "their effectiveness in targeting for services under this chapter unserved older individuals with greatest economic need (including low-income minority individuals) and unserved older individuals with greatest social need (including low-income minority individuals)," after "related programs,".
 
 Subsecs. (g), (h). Pub. L. 102–375, §207(2), added subsecs. (g) and (h) and struck out former subsec. (g) which read as follows: "The Secretary is authorized to use such sums as may be required, but not to exceed one-tenth of 1 percent of the funds appropriated under this chapter for each fiscal year, or $300,000 whichever is lower, to conduct program and project evaluations (directly, or by grants or contracts) as required by this subchapter. In the case of allotments from such an appropriation, the amount available for such allotments (and the amount deemed appropriated therefor) shall be reduced accordingly."
 
@@ -81,6 +83,8 @@ Subsec. (g). Pub. L. 98–459, §206, substituted "one-tenth of 1 percent" for "
 <b>1978</b>—Subsec. (c). Pub. L. 95–478, §102(g)(1), required the Secretary to conduct, where appropriate, evaluations which compare the effectiveness of related programs in achieving common objectives.
 
 Subsec. (d). Pub. L. 95–478, §102(g)(2), required publication of analyses of evaluations and substituted "full contents of which shall be transmitted to Congress and be accessible to the public" for "full contents of which shall be available to Congress and the public".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1987 Amendment
 

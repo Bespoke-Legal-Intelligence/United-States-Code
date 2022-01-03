@@ -10,6 +10,8 @@ At any time after the issuance of the proclamation authorized by subsection (a),
 
 (Pub. L. 89–283, title II, §201, Oct. 21, 1965, 79 Stat. 1016; Pub. L. 100–418, title I, §1214(i), Aug. 23, 1988, 102 Stat. 1157.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Harmonized Tariff Schedule of the United States, referred to in text, is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
@@ -22,9 +24,13 @@ The Agreement, referred to in subsec. (b), is the Agreement Concerning Automotiv
 
 <b>1988</b>—Subsecs. (a), (b). Pub. L. 100–418 substituted "Harmonized Tariff Schedule of the United States" for "Tariff Schedules of the United States".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Proc. No. 3682. Implementation of Agreement Concerning Automotive Products
 
@@ -66,7 +72,7 @@ WHEREAS sections 201 and 203 of the Automotive Products Trade Act of 1965 \[sect
 
 WHEREAS, by Proclamation No. 3682 of October 21, 1965 (30 F.R. 13683), the President pursuant to sections 201 and 203 \[sections 2011 and 2013 of this title\] proclaimed the modifications of the Tariff Schedules of the United States provided for in title IV of the Automotive Products Trade Act of 1965 \[amending section 1202 of this title\]; and
 
-WHEREAS I determine (a) under subsection (b) of section 201 \[subsection (b) of this section\] that the importation of the Canadian articles which are original motor-vehicle equipment and which are dutiable under TSUS items 688.04, 688.06, and 688.15 is actually or potentially of commercial significance and that duty-freetreatment of such Canadian articles is required to carry out the agreement of January 16, 1965, and (b) under section 203 \[section 2013 of this title\] that the earliest date, after January 17, 1965, as of which it is practicable to give retroactive effect to this proclamation is January 18, 1965:
+WHEREAS I determine (a) under subsection (b) of section 201 \[subsection (b) of this section\] that the importation of the Canadian articles which are original motor-vehicle equipment and which are dutiable under TSUS items 688.04, 688.06, and 688.15 is actually or potentially of commercial significance and that duty-free treatment of such Canadian articles is required to carry out the agreement of January 16, 1965, and (b) under section 203 \[section 2013 of this title\] that the earliest date, after January 17, 1965, as of which it is practicable to give retroactive effect to this proclamation is January 18, 1965:
 
 NOW, THEREFORE, I, LYNDON, B. JOHNSON, under the authority vested in me by the Constitution and the statutes, particularly sections 201(b) and 203 of the Automotive Products Trade Act of 1965 \[subsection (b) of this section and section 2013 of this title\] do proclaim that the Tariff Schedules of the United States are modified by inserting in proper numerical sequence new items 688.05, 688.07, and 688.16, each such item having the article description "If Canadian article and original motor-vehicle equipment (see headnote 2, part 6B, schedule 6) . . ." subordinate to the immediately preceding article description and having "Free" in rate of duty column numbered 1. Such modifications shall enter into force on the day following the date of this proclamation and shall be effective with respect to articles which are or have been entered for consumption, or for warehouse, on or after January 18, 1965.
 

@@ -150,6 +150,8 @@ The Secretary shall establish, in accordance with this section, a program to exp
 
 (Pub. L. 110–69, title V, §5005, Aug. 9, 2007, 121 Stat. 613; Pub. L. 111–358, title IX, §902(b), Jan. 4, 2011, 124 Stat. 4044.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Subsec. (b)(2)(J). Pub. L. 111–358, §902(b)(1), added subpar. (J).

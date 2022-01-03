@@ -26,7 +26,7 @@ The Secretary is directed to promulgate regulations exempting from any labeling 
 
 #### (c) Sales restrictions
 
-(1) No person may sell, purchase, or trade or offer to sell, purchase, or trade any drug sample. For purposes of this paragraph and subsection (d), the term "drug sample" means a unit of a drug, subject to subsection (b), which is not intended to be sold and is intended to promote the sale of the drug. Nothing in this paragraph shall subject an officer or executive of a drug manufacturer or distributor to criminal liability solely because of a sale, purchase, trade, or offer to sell, purchase, or trade in violation of this paragraph by other employees of the manufacturer or distributor.
+(1) No person may sell, purchase, or trade or offer to sell, purchase, or trade any drug sample. For purposes of this paragraph and subsection (d), the term "drug sample" means a unit of a drug, subject to subsection (b), which is not intended to be sold and is intended to promote thesale of the drug. Nothing in this paragraph shall subject an officer or executive of a drug manufacturer or distributor to criminal liability solely because of a sale, purchase, trade, or offer to sell, purchase, or trade in violation of this paragraph by other employees of the manufacturer or distributor.
 
 (2) No person may sell, purchase, or trade, offer to sell, purchase, or trade, or counterfeit any coupon. For purposes of this paragraph, the term "coupon" means a form which may be redeemed, at no cost or at a reduced cost, for a drug which is prescribed in accordance with subsection (b).
 
@@ -162,7 +162,7 @@ Costs.—
 
 &emsp;(A)
 
-Authorized fees of secretary.—If a State does not establish a licensing program for persons engaged in the wholesale distribution of a drug subject to subsection (b), the Secretary shall license a person engaged in wholesale distribution located in such State and may collect a reasonable fee in such amount necessary to reimburse the Secretary for costs associated with establishing and administering the licensure program and conducting periodic inspections under this section. The Secretary shall adjust fee rates as needed on an annual basis to generate only the amount of revenue needed to perform this service. Fees authorized under this paragraph shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriations Acts. Such fees are authorized to remain available until expended. Such sums as may be necessary may be transferred from the Food and Drug Administration salaries and expenses appropriation account without fiscal year limitation to such appropriation account for salaries and expenses with such fiscal year limitation.
+Authorized fees of secretary.—If a State does not establish a licensing program for persons engaged in the wholesale distribution of a drug subject to subsection (b), the Secretary shall license a person engaged in wholesale distribution located in such State and may collect a reasonable fee in such amount necessary to reimburse the Secretary for costs associated with establishing and administering the licensure program and conducting periodic inspections under this section. The Secretary shall adjust fee rates as needed on an annual basis to generate only the amount of revenue needed to perform this service. Fees authorized under this paragraph shall be collected and available for obligation only to the extent and in the amount providedin advance in appropriations Acts. Such fees are authorized to remain available until expended. Such sums as may be necessary may be transferred from the Food and Drug Administration salaries and expenses appropriation account without fiscal year limitation to such appropriation account for salaries and expenses with such fiscal year limitation.
 
 &emsp;(B)
 
@@ -236,7 +236,7 @@ State licensing fees.—Nothing in this chapter shall prohibit States from colle
 
 (5)
 
-Third-party logistics providers.—Notwithstanding paragraphs (1) through (4), each entity that meets the definition of a third-party logistics provider under section 360eee(22) of this title shall obtain a license as a third-party logistics provider as described in section 360eee–3(a) of this title and is not required to obtain a license as a wholesale distributor if the entity never assumes an ownership interest in the product it handles.
+Third-party logistics providers.—Notwithstanding paragraphs (1) through (4), each entity that meets the definition of a third-party logistics provider under section 360eee(22) of thistitle shall obtain a license as a third-party logistics provider as described in section 360eee–3(a) of this title and is not required to obtain a license as a wholesale distributor if the entity never assumes an ownership interest in the product it handles.
 
 (6)
 
@@ -354,7 +354,7 @@ Affiliate.—For purposes of this subsection, the term "affiliate" means a busin
 
 &emsp;(iv) for which the applicant submitting the application or request described in subparagraph (A) has not obtained a right of reference or use from the person by or for whom the investigations described in clause (iii) were conducted.
 
-(C) The following provisions shall apply with respect to an application or request described in subparagraph (A) to the same extent and in the same manner as if such application or request were an application described in section 355(b)(2) of this title that referenced the approved drug:
+(C) The following provisions shall apply with respect to an application or request described insubparagraph (A) to the same extent and in the same manner as if such application or request were an application described in section 355(b)(2) of this title that referenced the approved drug:
 
 &emsp;(i) Subparagraphs (A), (B), (C), and (D) of section 355(c)(3) of this title.
 
@@ -372,7 +372,7 @@ Affiliate.—For purposes of this subsection, the term "affiliate" means a busin
 
 (7) Nothing in this subsection shall prevent the Secretary from using any agency resources of the Food and Drug Administration necessary to ensure adequate review of the safety, effectiveness, or substantial equivalence of an article.
 
-(8)(A) Not later than 60 days after October 26, 2002, the Secretary shall establish within the Office of the Commissioner of Food and Drugs an office to ensure the prompt assignment of combination products to agency centers, the timelyand effective premarket review of such products, and consistent and appropriate postmarket regulation of like products subject to the same statutory requirements to the extent permitted by law. Additionally, the office shall, in determining whether a product is to be designated a combination product, consult with the component within the Office of the Commissioner of Food and Drugs that is responsible for such determinations. Such office (referred to in this paragraph as the "Office") shall have appropriate scientific and medical expertise, and shall be headed by a director.
+(8)(A) Not later than 60 days after October 26, 2002, the Secretary shall establish within the Office of the Commissioner of Food and Drugs an office to ensure the prompt assignment of combination products to agency centers, the timely and effective premarket review of such products, and consistent and appropriate postmarket regulation of like products subject to the same statutory requirements to the extent permitted by law. Additionally, the office shall, in determining whether a product is to be designated a combination product, consult with the component within the Office of the Commissioner of Food and Drugs that is responsible for such determinations. Such office (referred to in this paragraph as the "Office") shall have appropriate scientific and medical expertise, and shall be headed by a director.
 
 (B) In carrying out this subsection, the Office shall, for each combination product, promptly assign an agency center with primary jurisdiction in accordance with paragraph (1) for the premarket review of such product.
 
@@ -408,7 +408,7 @@ Affiliate.—For purposes of this subsection, the term "affiliate" means a busin
 
 (E)(i) Any dispute regarding the timeliness of the premarket review of a combination product may be presented to the Office for resolution, unless the dispute is clearly premature.
 
-(ii) During the review process, any dispute regarding the substance of the premarket review may be presented to the Commissioner of Food and Drugs after first being considered by the agency center with primary jurisdiction of the premarket review, under the scientific dispute resolution procedures for such center. The Commissioner of Food and Drugs shall consult with the Director of the Office in resolving the substantive dispute.
+(ii) During the review process, any dispute regarding the substance of the premarket reviewmay be presented to the Commissioner of Food and Drugs after first being considered by the agency center with primary jurisdiction of the premarket review, under the scientific dispute resolution procedures for such center. The Commissioner of Food and Drugs shall consult with the Director of the Office in resolving the substantive dispute.
 
 (F) The Secretary, acting through the Office, shall review each agreement, guidance, or practice of the Secretary that is specific to the assignment of combination products to agency centers and shall determine whether the agreement, guidance, or practice is consistent with the requirements of this subsection. In carrying out such review, the Secretary shall consult with stakeholders and the directors of the agency centers. After such consultation, the Secretary shall determine whether to continue in effect, modify, revise, or eliminate such agreement, guidance, or practice, and shall publish in the Federal Register a notice of the availability of such modified or revised agreement, guidance or practice. Nothing in this paragraph shall be construed as preventing the Secretary from following each agreement, guidance, or practice until continued, modified, revised, or eliminated.
 
@@ -580,7 +580,7 @@ Pub. L. 113–54, title II, §204(c), Nov. 27, 2013, 127 Stat. 636, provided tha
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–115 effective 90 days after Nov. 21, 1997, except as otherwise provided, see section501 of Pub. L. 105–115, set out as a note under section 321 of this title.
+Amendment by Pub. L. 105–115 effective 90 days after Nov. 21, 1997, except as otherwise provided, see section 501 of Pub. L. 105–115, set out as a note under section 321 of this title.
 
 #### Termination Date of 1992 Amendment
 
@@ -614,10 +614,6 @@ Amendment by Pub. L. 87–781 effective Oct. 10, 1962, see section 107 of Pub. L
 
 Amendment by act Oct. 26, 1951, effective six months after Oct. 26, 1951, see section 3 of act Oct. 26, 1951, set out as a note under section 333 of this title.
 
-#### Transfer of Functions
-
-For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under section 321 of this title.
-
 #### Effective Medication Guides
 
 Pub. L. 104–180, title VI, §601, Aug. 6, 1996, 110 Stat. 1593, provided that:
@@ -648,7 +644,7 @@ Plan.—The plan described in subsection (a) shall—
 
 "(d)
 
-Limitation on the Authority of the Secretary.—The Secretary of the Department of Health and Human Services shall have no authority to implement the proposed rule described in subsection (a), or to develop any similar regulation, policy statement, or other guideline specifying a uniform content or format for written information voluntarily provided to consumers about prescription drugs if, (1) not later than 120 days after the date of enactment of this Act \[Aug. 6, 1996\], the national organizations described in subsection (a) develop and submit to the Secretary for Health and Human Services a comprehensive, long-range action plan (as described in subsection (a)) which shall be acceptable to the Secretary of Health and Human Services; (2) the aforementioned plan is submitted to the Secretary of Health and Human Services for review and acceptance: <i>Provided</i>, That the Secretary shall give due consideration to the submitted plan and that any such acceptance shall not be arbitrarily withheld; and (3) the implementation of (a) a plan accepted by the Secretary commences within 30 days of the Secretary's acceptance of such plan, or (b) the plan submitted to the Secretary commences within 60 days of the submission of such plan if the Secretary fails to take any action on the plan within 30 days of the submission of the plan. The Secretary shall accept, reject or suggest modifications to the plan submitted within 30 days of its submission. The Secretary may confer with and assist private parties in the development of the plan described in subsections (a) and (b).
+Limitation on the Authority of the Secretary.—The Secretary of the Department of Health and Human Services shall have no authority to implement the proposed rule described in subsection (a), or to develop any similar regulation, policy statement, or other guideline specifying a uniform content or format for written information voluntarily provided to consumers about prescription drugs if, (1) not later than 120 days after the date of enactment of this Act \[Aug. 6, 1996\], the national organizations described in subsection (a) develop and submit to the Secretary for Health and Human Services a comprehensive, long-range action plan (as described in subsection (a)) which shall be acceptable to the Secretary of Health and Human Services; (2) the aforementioned plan is submitted to the Secretary of Health and Human Servicesfor review and acceptance: <i>Provided</i>, That the Secretary shall give due consideration to the submitted plan and that any such acceptance shall not be arbitrarily withheld; and (3) the implementation of (a) a plan accepted by the Secretary commences within 30 days of the Secretary's acceptance of such plan, or (b) the plan submitted to the Secretary commences within 60 days of the submission of such plan if the Secretary fails to take any action on the plan within 30 days of the submission of the plan. The Secretary shall accept, reject or suggest modifications to the plan submitted within 30 days of its submission. The Secretary may confer with and assist private parties in the development of the plan described in subsections (a) and (b).
 
 "(e)
 
@@ -673,6 +669,12 @@ Pub. L. 100–293, §2, Apr. 22, 1988, 102 Stat. 95, provided that: "The Congres
 &emsp;"(7) The bulk resale of below wholesale priced prescription drugs by health care entities, for ultimate sale at retail, helps fuel the diversion market and is an unfair form of competition to wholesalers and retailers that must pay otherwise prevailing market prices.
 
 &emsp;"(8) The effect of these several practices and conditions is to create an unacceptable risk that counterfeit, adulterated, misbranded, subpotent, or expired drugs will be sold to American consumers."
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under section 321 of this title.
 
 <i><sup>1</sup></i><i> So in original. No subpar. (B) has been enacted.</i>
 

@@ -28,6 +28,8 @@ Any loans made under this section shall not reduce or otherwise affect any grant
 
 (Pub. L. 93–288, title IV, §417, formerly §414(a), (b), May 22, 1974, 88 Stat. 158; renumbered §417, Pub. L. 100–707, title I, §106(j), Nov. 23, 1988, 102 Stat. 4705; Pub. L. 106–390, title II, §207, Oct. 30, 2000, 114 Stat. 1571; Pub. L. 109–347, title VI, §608, Oct. 13, 2006, 120 Stat. 1942.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (d), was in the original "this Act", meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
@@ -55,6 +57,12 @@ Subsec. (b). Pub. L. 106–390, §207(5), substituted "shall not exceed" for "an
 Subsec. (c)(2). Pub. L. 106–390, §207(6), added par. (2).
 
 Subsec. (d). Pub. L. 106–390, §207(4), redesignated subsec. (b) as (d) and inserted subsec. heading.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Cancellation of Repayments of Remaining Loan Balances
+
+Pub. L. 117–43, div. B, title VI, §1601(a), Sept. 30, 2021, 135 Stat. 365, provided that: "Repayments of the remaining balances of all loans, as of September 30, 2021, by the Federal Emergency Management Agency under section 417 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5184) are hereby cancelled."
 
 #### Community Emergency Drought Relief
 

@@ -44,7 +44,7 @@
 
 #### (c) Failure to timely consolidate orders
 
-If the Secretary fails to implement the consolidation required under subsection (a)(1) within the time period required under subsection\(b)(2)(B) (plus any additional period provided under subsection (b)(3)), the Secretary may not assess or collect assessments from milk producers or handlers under such section 608c of this title for marketing order administration and services provided under such section after the end of that period until the consolidation is completed. The Secretary may not reduce the level of services provided under the section on account of the prohibition against assessments, but shall rather cover the cost of marketing order administration and services through funds available for the Agricultural Marketing Service of the Department.
+If the Secretary fails to implement the consolidation required under subsection (a)(1) within the time period required under subsection (b)(2)(B) (plus any additional period provided under subsection (b)(3)), the Secretary may not assess or collect assessments from milk producers or handlers under such section 608c of this title for marketing order administration and services provided under such section after the end of that period until the consolidation is completed. The Secretary may not reduce the level of services provided under the section on account of the prohibition against assessments, but shall rather cover the cost of marketing order administration and services through funds available for the Agricultural Marketing Service of the Department.
 
 #### (d) Report regarding further reforms
 
@@ -64,9 +64,13 @@ If the Secretary fails to implement the consolidation required under subsection 
 
 (Pub. L. 104–127, title I, §143, Apr. 4, 1996, 110 Stat. 915; Pub. L. 113–79, title I, §1410(d), Feb. 7, 2014, 128 Stat. 693.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Subsec. (a)(2). Pub. L. 113–79 inserted at end "Subsection (b) does not apply to the authority of the Secretary under this subsection."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Use of Option 1A as Price Structure for Class I Milk Under Consolidated Federal Milk Marketing Orders
 
@@ -126,7 +130,7 @@ Effect of Court Order.—The actions authorized by subsections (b) and (c) are i
 
 "(e)
 
-Failure To Timely Complete Rulemaking.—If the Secretary of Agriculture fails to implement new Class III and Class IV milk pricing formulas within thetime period required under subsection (c) (plus any additional period provided under subsection (d)), the Secretary may not assess or collect assessments from milk producers or handlers under section 8c of the Agricultural Adjustment Act (7 U.S.C. 608c), reenacted with amendments by the Agricultural Marketing Agreement Act of 1937, for marketing order administration and services provided under such section after the end of that period until the pricing formulas are implemented. The Secretary may not reduce the level of services provided under that section on account of the prohibition against assessments, but shall rather cover the cost of marketing order administration and services through funds available for the Agricultural Marketing Service of the Department.
+Failure To Timely Complete Rulemaking.—If the Secretary of Agriculture fails to implement new Class III and Class IV milk pricing formulas within the time period required under subsection (c) (plus any additional period provided under subsection (d)), the Secretary may not assess or collect assessments from milk producers or handlers under section 8c of the Agricultural Adjustment Act (7 U.S.C. 608c), reenacted with amendments by the Agricultural Marketing Agreement Act of 1937, for marketing order administration and services provided under such section after the end of that period until the pricing formulas are implemented. The Secretary may not reduce the level of services provided under that section on account of the prohibition against assessments, but shall rather cover the cost of marketing order administration and services through funds available for the Agricultural Marketing Service of the Department.
 
 "(f)
 

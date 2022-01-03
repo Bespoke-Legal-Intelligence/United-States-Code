@@ -92,6 +92,8 @@ Not later than 120 days after November 29, 1987, the Commissioner, in consultati
 
 (Pub. L. 88–452, title VIII, §803A, as added Pub. L. 100–175, title V, §506(a), Nov. 29, 1987, 101 Stat. 976; amended Pub. L. 102–375, title VIII, §822(2), Sept. 30, 1992, 106 Stat. 1296; Pub. L. 103–171, §5(3), Dec. 2, 1993, 107 Stat. 1991; Pub. L. 105–361, §3, Nov. 10, 1998, 112 Stat. 3278.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Subsec. (a)(1). Pub. L. 105–361, §3(a)(1)(A), in introductory provisions, substituted "award a grant" for "award grants" and "use that grant to carry out" for "use such grants to establish and carry out".
@@ -149,6 +151,8 @@ Subsec. (g). Pub. L. 102–375, §822(2)(I), amended subsec. (g) generally. Prio
 &emsp;"(B) whether the demonstration project should be expanded to other groups eligible for assistance under this subchapter; and
 
 &emsp;"(C) whether the duration of the demonstration project should be extended."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

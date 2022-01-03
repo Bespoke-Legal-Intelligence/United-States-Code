@@ -48,7 +48,7 @@ Assistance provided under this section shall be used primarily to expand and str
 
 #### (F) Nonformal education
 
-&emsp;&emsp;The term "nonformal education" means organized educational activities outside the established formal system, whether operating separately or as an important featureof a broader activity, that are intended to provide students with measurable improvements in literacy, numeracy, and other basic skills development that prepare an individual to be an active, productive member of society and the workforce.
+&emsp;&emsp;The term "nonformal education" means organized educational activities outside the established formal system, whether operating separately or as an important feature of a broader activity, that are intended to provide students with measurable improvements in literacy, numeracy, and other basic skills development that prepare an individual to be an active, productive member of society and the workforce.
 
 #### (G) Partner country
 
@@ -128,7 +128,7 @@ Assistance provided under this section shall be used primarily to expand and str
 
 &emsp;&emsp;(B) such assistance can produce a substantial, measurable impact on children and educational systems; and
 
-&emsp;&emsp;(C) there is the greatest opportunity to reduce childhood and adolescence exposure to or engagement in violent extremism or extremist ideologies.
+&emsp;&emsp;(C) there is the greatest opportunity to reduce childhood and adolescence exposure toor engagement in violent extremism or extremist ideologies.
 
 (Pub. L. 87–195, pt. I, §105, as added Pub. L. 93–189, §2(3), Dec. 17, 1973, 87 Stat. 715; amended Pub. L. 93–559, §5, Dec. 30, 1974, 88 Stat. 1796; Pub. L. 94–161, title III, §305, Dec. 20, 1975, 89 Stat. 858; Pub. L. 95–88, title I, §104, Aug. 3, 1977, 91 Stat. 535; Pub. L. 95–424, title I, §105, Oct. 6, 1978, 92 Stat. 947; Pub. L. 96–53, title I, §§103, 122, Aug. 14, 1979, 93 Stat. 360, 366; Pub. L. 96–533, title III, §303, Dec. 16, 1980, 94 Stat. 3145; Pub. L. 97–113, title III, §303, Dec. 29, 1981, 95 Stat. 1532; Pub. L. 99–83, title III, §306, title XII, §1211(a)(1), Aug. 8, 1985, 99 Stat. 215, 279; Pub. L. 99–440, title II, §201(a), Oct. 2, 1986, 100 Stat. 1094; Pub. L. 99–631, §1(b)(1), Nov. 7, 1986, 100 Stat. 3519; Pub. L. 101–513, title V, §562(d)(1), Nov. 5, 1990, 104 Stat. 2031; Pub. L. 115–56, div. A, §3, Sept. 8, 2017, 131 Stat. 1130.)
 
@@ -300,7 +300,7 @@ Specific duties.—The Senior Coordinator shall—
 
 &emsp;&emsp;"(C) monitor, evaluate, and report on activities undertaken pursuant to the strategy required under section 4; and
 
-&emsp;&emsp;"(D) establish due diligence criteria for all recipients of funds provided by the United States to carryout activities under this Act and the amendments made by this Act.
+&emsp;&emsp;"(D) establish due diligence criteria for all recipients of funds provided by the United States to carry out activities under this Act and the amendments made by this Act.
 
 "(c)
 

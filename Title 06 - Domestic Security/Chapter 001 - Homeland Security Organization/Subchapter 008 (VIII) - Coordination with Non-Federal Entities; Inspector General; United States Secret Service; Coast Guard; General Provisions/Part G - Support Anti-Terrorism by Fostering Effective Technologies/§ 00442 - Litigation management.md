@@ -8,7 +8,7 @@
 
 #### (2) Jurisdiction
 
-&emsp;Such appropriate district court of the United States shall have original and exclusive jurisdiction over all actions for any claim for loss of property, personal injury, or death arising out of, relating to, or resulting from anact of terrorism when qualified anti-terrorism technologies have been deployed in defense against or response or recovery from such act and such claims result or may result in loss to the Seller.
+&emsp;Such appropriate district court of the United States shall have original and exclusive jurisdiction over all actions for any claim for loss of property, personal injury, or death arising out of, relating to, or resulting from an act of terrorism when qualified anti-terrorism technologies have been deployed in defense against or response or recovery from such act and such claims result or may result in loss to the Seller.
 
 #### (b) Special rules
 
@@ -26,7 +26,7 @@ In an action brought under this section for damages the following provisions app
 
 #### (B) Definition
 
-&emsp;&emsp;For purposes of subparagraph (A), the term "noneconomic damages" means damages for losses for physical and emotional pain, suffering, inconvenience, physical impairment, mental anguish, disfigurement, loss of enjoyment of life, loss of society and companionship, loss of consortium, hedonic damages, injury to reputation, and any other nonpecuniary losses.
+&emsp;&emsp;For purposes of subparagraph (A), the term "noneconomic damages" means damages for losses for physical and emotional pain, suffering, inconvenience, physical impairment,mental anguish, disfigurement, loss of enjoyment of life, loss of society and companionship, loss of consortium, hedonic damages, injury to reputation, and any other nonpecuniary losses.
 
 #### (c) Collateral sources
 

@@ -184,7 +184,7 @@ In this chapter:
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 113–150, Aug. 8, 2014, 126Stat. 1807, known as the Sean and David Goldman International Child Abduction Prevention and Return Act of 2014, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 113–150, Aug. 8, 2014, 126 Stat. 1807, known as the Sean and David Goldman International Child Abduction Prevention and Return Act of 2014, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -208,7 +208,7 @@ Findings.—Congress finds the following:
 
 &emsp;"(4) More than 1,000 outgoing international child abductions are reported every year to the Central Authority of the United States, which depends solely on proactive reporting of abduction cases.
 
-&emsp;"(5) Only about one-half of the children abducted from the United States to countries with which the United States enjoys reciprocal obligations under the Hague Abduction Convention are returned to the United States.
+&emsp;"(5) Only about one-half of the children abducted from the United States to countries with which theUnited States enjoys reciprocal obligations under the Hague Abduction Convention are returned to the United States.
 
 &emsp;"(6) The United States and other Convention countries have expressed their desire, through the Hague Abduction Convention, 'to protect children internationally from the harmful effects of their wrongful removal or retention and to establish procedures to ensure their prompt return to the State of their habitual residence, as well as to secure protection for rights of access.'
 

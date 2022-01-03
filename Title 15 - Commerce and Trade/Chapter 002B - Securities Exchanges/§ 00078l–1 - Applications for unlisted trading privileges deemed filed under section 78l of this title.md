@@ -4,6 +4,8 @@ Any application to continue unlisted trading privileges for any security heretof
 
 (May 27, 1936, ch. 462, §2, 49 Stat. 1377.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was not enacted as a part of the Securities Exchange Act of 1934 which comprises this chapter.

@@ -50,9 +50,13 @@ Special Allowance Defined.—In this section, the term "special allowance" means
 
 (Added Pub. L. 107–314, div. A, title VI, §651(a)(1), Dec. 2, 2002, 116 Stat. 2578.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Higher Education Act of 1965, referred to in subsecs. (c) and (f)(2)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Parts B, D, and E of title IV of the Act are classified to parts B (§1071 et seq.), D (§1087a et seq.), and E (§1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

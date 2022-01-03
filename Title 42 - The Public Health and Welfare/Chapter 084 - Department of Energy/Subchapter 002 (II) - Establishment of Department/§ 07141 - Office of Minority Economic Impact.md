@@ -6,7 +6,7 @@ There shall be established within the Department an Office of Minority Economic 
 
 #### (b) Advice to Secretary on effect of energy policies, regulations, and other actions of Department respecting minority participation in energy programs
 
-The Director shall have the duty and responsibility to advise the Secretary on the effect of energy policies, regulations, and other actionsof the Department and its components on minorities and minority business enterprises and on ways to insure that minorities are afforded an opportunity to participate fully in the energy programs of the Department.
+The Director shall have the duty and responsibility to advise the Secretary on the effect of energy policies, regulations, and other actions of the Department and its components on minorities and minority business enterprises and on ways to insure that minorities are afforded an opportunity to participate fully in the energy programs of the Department.
 
 #### (c) Research programs respecting effects of national energy programs, policies, and regulations of Department on minorities
 
@@ -53,6 +53,8 @@ As used in this section, the term—
 There is authorized to be appropriated to the Secretary to carry out the functions of the Office not to exceed $3,000,000 for fiscal year 1979, not to exceed $5,000,000 for fiscal year 1980, and not to exceed $6,000,000 for fiscal year 1981. Of the amounts so appropriated each fiscal year, not less than 50 percent shall be available for purposes of financial assistance under subsection (e).
 
 (Pub. L. 95–91, title II, §211, as added Pub. L. 95–619, title VI, §641, Nov. 9, 1978, 92 Stat. 3284; amended Pub. L. 114–157, §1(a), May 20, 2016, 130 Stat. 393.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

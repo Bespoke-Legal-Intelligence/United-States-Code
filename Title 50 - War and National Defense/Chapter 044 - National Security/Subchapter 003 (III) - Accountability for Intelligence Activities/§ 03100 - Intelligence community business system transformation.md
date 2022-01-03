@@ -22,7 +22,7 @@
 
 &emsp;(A) the amount in effect under such paragraph (1) for the preceding fiscal year (determined after application of this paragraph), plus
 
-&emsp;(B) such amount multiplied by the annual percentage increase in the consumer priceindex (all items; U.S. city average) as of September of the previous fiscal year.
+&emsp;(B) such amount multiplied by the annual percentage increase in the consumer price index (all items; U.S. city average) as of September of the previous fiscal year.
 
 #### (b) Enterprise architecture for intelligence community business systems
 
@@ -116,7 +116,7 @@ Not later than March 31 of each of the years 2011 through 2014, the Director of 
 
 &emsp;&emsp;(A) specific milestones and actual performance against specified performance measures, and any revision of such milestones and performance measures; and
 
-&emsp;&emsp;(B) specific actions on the intelligence community business system transformations submitted for certification under such subsection;
+&emsp;&emsp;(B) specific actions on the intelligence community business system transformationssubmitted for certification under such subsection;
 
 &emsp;(2) identify the number of intelligence community business system transformations that received a certification described in subsection (a)(2); and
 
@@ -144,6 +144,8 @@ In this section:
 
 (July 26, 1947, ch. 343, title V, §506D, as added Pub. L. 111–259, title III, §322(a)(1), Oct. 7, 2010, 124 Stat. 2669; amended Pub. L. 112–277, title III, §310(a)(3), Jan. 14, 2013, 126 Stat. 2475; Pub. L. 113–126, title III, §329(b)(3), July 7, 2014, 128 Stat. 1406.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 8083 of the Department of Defense Appropriations Act, 2005, referred to in subsec. (g), is section 8083 of Pub. L. 108–287, title VIII, Aug. 5, 2004, 118 Stat. 989, which is not classified to the Code.
@@ -159,6 +161,8 @@ Section was formerly classified to section 415a–6 of this title prior to edito
 <b>2014</b>—Subsec. (j). Pub. L. 113–126 substituted "2014" for "2015" in introductory provisions.
 
 <b>2013</b>—Subsec. (e). Pub. L. 112–277 struck out subsec. (e) which required inclusion of certain budget information in the budget materials submitted to Congress for each fiscal year after fiscal year 2011.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Implementation
 
@@ -182,7 +186,7 @@ Requirement for implementation plan.—In developing such an enterprise architec
 
 &emsp;&emsp;"(i) An acquisition strategy for new systems that are expected to be needed to complete such enterprise architecture, including specific time-phased milestones, performance metrics, and a statement of the financial and nonfinancial resource needs.
 
-&emsp;&emsp;"(ii) An identification of the intelligence community business systems in operation or planned as ofthe date that is 60 days after the enactment of this Act that will not be a part of such enterprise architecture, together with the schedule for the phased termination of the utilization of any such systems.
+&emsp;&emsp;"(ii) An identification of the intelligence community business systems in operation or planned as of the date that is 60 days after the enactment of this Act that will not be a part of such enterprise architecture, together with the schedule for the phased termination of the utilization of any such systems.
 
 &emsp;&emsp;"(iii) An identification of the intelligence community business systems in operation or planned as of such date, that will be a part of such enterprise architecture, together with a strategy for modifying such systems to ensure that such systems comply with such enterprise architecture.
 

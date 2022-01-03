@@ -22,9 +22,13 @@ R.S. 4640 (less 2d sentence).
 
 In subsection (b) the words "or orders" after "order" are omitted as surplusage. The words "a charge upon and" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7671 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

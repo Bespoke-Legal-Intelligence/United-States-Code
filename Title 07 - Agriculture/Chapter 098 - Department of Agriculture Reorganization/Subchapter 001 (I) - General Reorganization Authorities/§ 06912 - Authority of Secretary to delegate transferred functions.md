@@ -58,7 +58,9 @@ Notwithstanding any other provision of law, a person shall exhaust all administr
 
 &emsp;(3) an agency, office, officer, or employee of the Department.
 
-(Pub. L. 103–354, title II, §212, Oct. 13, 1994, 108 Stat. 3210; Pub. L. 110–234, title VII, §7511(c)(27), May 22, 2008, 122 Stat. 1270; Pub. L. 110–246, §4(a),title VII, §7511(c)(27), June 18, 2008, 122 Stat. 1664, 2031.)
+(Pub. L. 103–354, title II, §212, Oct. 13, 1994, 108 Stat. 3210; Pub. L. 110–234, title VII, §7511(c)(27), May 22, 2008, 122 Stat. 1270; Pub. L. 110–246, §4(a), title VII, §7511(c)(27), June 18, 2008, 122 Stat. 1664, 2031.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -73,6 +75,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 #### Amendments
 
 <b>2008</b>—Subsec. (a)(2)(A). Pub. L. 110–246, §7511(c)(27), substituted "6971(f)," for "6971(d),".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

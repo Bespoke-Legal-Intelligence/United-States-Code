@@ -12,11 +12,13 @@ Requirement.— A milestone decision authority may not approve entering a milest
 
 Regulations.—The regulations governing the content and submission of independent cost estimates required by section 3221 of this title shall require that the independent cost estimate of the full life-cycle cost of a program or subprogram include—
 
-&emsp;(1) all costs of development, procurement, military construction, operations and support, and trained manpower to operate, maintain,and support the program or subprogram upon full operational deployment, without regard to funding source or management control; and
+&emsp;(1) all costs of development, procurement, military construction, operations and support, and trained manpower to operate, maintain, and support the program or subprogram upon full operational deployment, without regard to funding source or management control; and
 
 &emsp;(2) an analysis to support decisionmaking that identifies and evaluates alternative courses of action that may reduce cost and risk, and result in more affordable programs and less costly systems.
 
 (Added and amended Pub. L. 116–283, div. A, title XVIII, §1812(a), (c), Jan. 1, 2021, 134 Stat. 4174, 4175.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -31,6 +33,8 @@ A prior section 3222, act Aug. 10, 1956, ch. 1041, 70A Stat. 176; Pub. L. 96–5
 <b>2021</b>—Subsec. (a). Pub. L. 116–283, §1812(c)(1), (2)(A), (D), redesignated subsec. (b) of section 2334 of this title as subsec. (a) of this section, substituted "Requirement" for "Independent Cost Estimate Required Before Approval" in heading, struck out par. (1) designation before "A milestone", and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively.
 
 Subsec. (b). Pub. L. 116–283, §1812(c)(2)(B)–(D), redesignated subsec. (a)(2) as (b), inserted heading, substituted "section 3221 of this title" for "subsection (a)" in introductory provisions, and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

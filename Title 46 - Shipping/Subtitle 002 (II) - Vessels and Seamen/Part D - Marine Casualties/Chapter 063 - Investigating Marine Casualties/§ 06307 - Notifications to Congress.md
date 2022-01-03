@@ -20,7 +20,7 @@ Historical and Revision Notes
 
 33:366
 
-Subsection (a) requires the Secretary to notify the Merchant Marine and Fisheries Committee and the Senate Commerce Committee in advance of any hearing concerning a major marine accident (as defined by regulation) where there has been a loss of life.
+Subsection (a) requires the Secretary to notify the Merchant Marine and Fisheries Committee and theSenate Commerce Committee in advance of any hearing concerning a major marine accident (as defined by regulation) where there has been a loss of life.
 
 Subsection (b) requires the Coast Guard to supply the Merchant Marine and Fisheries Committee and the Senate Commerce Committee with any requested marine casualty information, if its release is not specifically prohibited by law.
 

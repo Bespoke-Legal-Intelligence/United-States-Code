@@ -20,7 +20,7 @@ All grants awarded by the Attorney General under this subchapter shall be subjec
 
 #### (B) Audit
 
-&emsp;&emsp;Beginning in the first fiscal year beginning after July 22, 2016, and in each fiscal year thereafter, the Inspector General of the Department of Justice shall conduct audits of recipients of grants awarded by the Attorney General under this subchapter to prevent waste, fraud, and abuse of funds by grantees. The Inspector General shall determine the appropriate number of grantees to be audited each year.
+&emsp;&emsp;Beginning in the first fiscal year beginning after July 22, 2016, and in each fiscal year thereafter, the Inspector General of the Department of Justice shall conduct audits of recipients of grants awarded by the AttorneyGeneral under this subchapter to prevent waste, fraud, and abuse of funds by grantees. The Inspector General shall determine the appropriate number of grantees to be audited each year.
 
 #### (C) Mandatory exclusion
 
@@ -54,7 +54,7 @@ All grants awarded by the Attorney General under this subchapter shall be subjec
 
 #### (C) Disclosure
 
-&emsp;&emsp;Each nonprofit organization that receives a subaward or is party to a contract entered into under section 10701(b) of this title and uses the procedures prescribed in regulations to create a rebuttable presumption of reasonableness for the compensation of its officers, directors, trustees, and key employees, shall disclose, in the application for such contract or subaward, the process for determining such compensation, including the independent persons involved in reviewing and approving such compensation, the comparability data used, and contemporaneous substantiation of the deliberation and decision. Upon request, the Attorney General shall make the information disclosed underthis subparagraph available for public inspection.
+&emsp;&emsp;Each nonprofit organization that receives a subaward or is party to a contract entered into under section 10701(b) of this title and uses the procedures prescribed in regulations to create a rebuttable presumption of reasonableness for the compensation of its officers, directors, trustees, and key employees, shall disclose, in the application for such contract or subaward, the process for determining such compensation, including the independent persons involved in reviewing and approving such compensation, the comparability data used, and contemporaneous substantiation of the deliberation and decision. Upon request, the Attorney General shall make the information disclosed under this subparagraph available for public inspection.
 
 #### (3) Conference expenditures
 
@@ -94,7 +94,7 @@ All grants awarded by the Attorney General under this subchapter shall be subjec
 
 &emsp;If the Attorney General awards duplicate grants under this subchapter to the same applicant for the same purpose, the Attorney General shall submit to the applicable committees a report that includes—
 
-&emsp;&emsp;(A) a list of all duplicate grants awarded under this subchapter, including the total dollar amount of any duplicate grants awarded; and
+&emsp;&emsp;(A) a list of all duplicate grants awarded under this subchapter, including the totaldollar amount of any duplicate grants awarded; and
 
 &emsp;&emsp;(B) the reason the Attorney General awarded the duplicate grants.
 

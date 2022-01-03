@@ -4,6 +4,8 @@ For the purpose of stabilizing water supply and thereby rehabilitating farmers o
 
 (Aug. 11, 1939, ch. 717, §1, 53 Stat. 1418; Oct. 14, 1940, ch. 861, 54 Stat. 1119; Mar. 7, 1942, ch. 164, 56 Stat. 142; July 16, 1943, ch. 242, §1, 57 Stat. 566; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1943</b>—Act July 16, 1943, raised amount of expenditures for dams and reservoirs on any one project from $1,000,000 to $2,000,000.
@@ -12,11 +14,13 @@ For the purpose of stabilizing water supply and thereby rehabilitating farmers o
 
 <b>1940</b>—Act Oct. 14, 1940, reenacted section.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted "Title 10, Armed Forces" which in sections 3010 to 3013 continued military Department of the Army under administrative supervision of Secretary of the Army.
 
 #### Angostura Project
 
-Act Aug. 9, 1955, ch. 630, 69 Stat. 552, provided: "That the provisions of sections 41(g), 43, and 51 of the Bankhead-Jones Farm Tenant Act, as amended \[sections 1015(g), 1017, and 1025 of Title 7, Agriculture\], are hereby extended to apply on the obligations of settlers on the Angostura project in South Dakota developedunder the Act of August 11, 1939, as amended \[this section\]."
+Act Aug. 9, 1955, ch. 630, 69 Stat. 552, provided: "That the provisions of sections 41(g), 43, and 51 of the Bankhead-Jones Farm Tenant Act, as amended \[sections 1015(g), 1017, and 1025 of Title 7, Agriculture\], are hereby extended to apply on the obligations of settlers on the Angostura project in South Dakota developed under the Act of August 11, 1939, as amended \[this section\]."
 

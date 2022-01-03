@@ -24,7 +24,7 @@ Sections 17 and 21 of title 28, U.S.C., 1940 ed., were inconsistent insofar as t
 
 The provision of said section 17, that designation of a district judge to another circuit should be from an adjacent circuit if practicable, was omitted as an unnecessary restriction on the discretion of the Chief Justice.
 
-Section 19 of title 28, U.S.C., 1940 ed., is omitted as unnecessary. It authorized the Chief Justice of the United States to designate and assign any district judge to a district upon receiving a certificate from the clerk of the district that all circuit judges and the circuit justice were absent from the circuit, or were unable to appoint a substitute judge for the district,or where the district judge actually designated was disabled or neglected to hold court.
+Section 19 of title 28, U.S.C., 1940 ed., is omitted as unnecessary. It authorized the Chief Justice of the United States to designate and assign any districtjudge to a district upon receiving a certificate from the clerk of the district that all circuit judges and the circuit justice were absent from the circuit, or were unable to appoint a substitute judge for the district,or where the district judge actually designated was disabled or neglected to hold court.
 
 For omission of reference in said section 17 to senior Associate Justice, see reviser's note under section 291 of this title.
 
@@ -44,7 +44,7 @@ Many changes were made in phraseology.
 
 <b>1980</b>—Subsec. (e). Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade.
 
-<b>1978</b>—Subsecs. (b), (d). Pub. L. 95–598 directed the amendment of subsec. (b) by substituting "to hold adistrict court or a bankruptcy court" for "to hold a district court" and the amendment of subsec. (d) by substituting "in a bankruptcy court, district court, or court of appeals" for "either in a district court or court of appeals", which amendments did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+<b>1978</b>—Subsecs. (b), (d). Pub. L. 95–598 directed the amendment of subsec. (b) by substituting "to hold a district court or a bankruptcy court" for "to hold a district court" and the amendment of subsec. (d) by substituting "in a bankruptcy court, district court, or court of appeals" for "either in a district court or court of appeals", which amendments did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
 <b>1970</b>—Subsecs. (c) to (e). Pub. L. 91–358 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 

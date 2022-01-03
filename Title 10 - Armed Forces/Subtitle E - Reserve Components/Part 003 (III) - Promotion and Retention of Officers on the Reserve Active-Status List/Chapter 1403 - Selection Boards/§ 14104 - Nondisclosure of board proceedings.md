@@ -20,19 +20,23 @@ Applicability.—This section applies to all selection boards convened under sec
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2925; amended Pub. L. 109–364, div. A, title V, §547(b), Oct. 17, 2006, 120 Stat. 2216; Pub. L. 111–383, div. A, title V, §503(c), Jan. 7, 2011, 124 Stat. 4208.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 5898(e) of this title, prior to repeal by Pub. L. 103–337, §1629(b)(2).
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a). Pub. L. 111–383, §503(c)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "The proceedings of a selection board convened under section 14101 of this title may not be disclosed to any person not a member of the board."
+<b>2011</b>—Subsec. (a). Pub. L. 111–383, §503(c)(1), added subsec. (a) and struck out former subsec. (a). Prior toamendment, text read as follows: "The proceedings of a selection board convened under section 14101 of this title may not be disclosed to any person not a member of the board."
 
 Subsec. (b). Pub. L. 111–383, §503(c)(2), substituted "Notes, and Records" for "and Records" in heading.
 
 Subsec. (c). Pub. L. 111–383, §503(c)(3), added subsec. (c).
 
 <b>2006</b>—Pub. L. 109–364 amended section catchline and text generally. Prior to amendment, text read as follows: "Except as otherwise authorized or required by law, the proceedings of a selection board convened under section 14101 of this title may not be disclosed to any person not a member of the board."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

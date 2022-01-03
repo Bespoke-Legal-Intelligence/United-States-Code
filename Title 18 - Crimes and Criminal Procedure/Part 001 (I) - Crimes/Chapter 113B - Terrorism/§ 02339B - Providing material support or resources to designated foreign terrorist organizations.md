@@ -122,7 +122,7 @@ Taking of trial testimony.—
 
 &emsp;&emsp;(A)
 
-Objection.—During the examination of a witness in any civil proceeding brought by the United States under this subsection, the United States may object to any question or line of inquiry that may require the witness to disclose classified information not previously found to be admissible.
+Objection.—During the examination of a witness in any civil proceeding brought bythe United States under this subsection, the United States may object to any question or line of inquiry that may require the witness to disclose classified information not previously found to be admissible.
 
 &emsp;&emsp;(B)
 
@@ -180,7 +180,7 @@ Appeals during trial.—If an appeal is taken during trial, the trial court shal
 
 &emsp;&emsp;(C)
 
-Effect of ruling.—An interlocutory appeal and decision shall not affect the rightof the defendant, in a subsequent appeal from a final judgment, to claim as error reversal by the trial court on remand of a ruling appealed from during trial.
+Effect of ruling.—An interlocutory appeal and decision shall not affect the right of the defendant, in a subsequent appeal from a final judgment, to claim as error reversal by the trial court on remand of a ruling appealed from during trial.
 
 &emsp;(6)
 
@@ -214,7 +214,7 @@ Rule of Construction.—Nothing in this section shall be construed or applied so
 
 Exception.—No person may be prosecuted under this section in connection with the term "personnel", "training", or "expert advice or assistance" if the provision of that material support or resources to a foreign terrorist organization was approved by the Secretary of State with the concurrence of the Attorney General. The Secretary of State may not approve the provision of any material support that may be used to carry out terrorist activity (as defined in section 212(a)(3)(B)(iii) of the Immigration and Nationality Act).
 
-(Added Pub. L. 104–132, title III, §303(a), Apr. 24, 1996, 110 Stat. 1250; amended Pub. L. 107–56, title VIII, §810(d), Oct. 26, 2001, 115 Stat. 380; Pub. L. 108–458, title VI, §6603(c)–(f), Dec. 17, 2004, 118 Stat. 3762, 3763; Pub. L. 111–16, §3(6)–(8), May 7, 2009, 123 Stat. 1608; Pub. L. 114–23, title VII, §704, June 2, 2015, 129 Stat. 300.)
+(Added Pub. L. 104–132, title III, §303(a), Apr. 24, 1996, 110 Stat. 1250; amended Pub. L. 107–56, titleVIII, §810(d), Oct. 26, 2001, 115 Stat. 380; Pub. L. 108–458, title VI, §6603(c)–(f), Dec. 17, 2004, 118 Stat. 3762, 3763; Pub. L. 111–16, §3(6)–(8), May 7, 2009, 123 Stat. 1608; Pub. L. 114–23, title VII, §704, June 2, 2015, 129 Stat. 300.)
 
 #### References in Text
 

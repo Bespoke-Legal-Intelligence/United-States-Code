@@ -122,6 +122,8 @@ Regulations.—The Secretary of Defense, in consultation with the Secretary of V
 
 (Added Pub. L. 110–252, title V, §5006(b), June 30, 2008, 122 Stat. 2381; amended Pub. L. 111–383, div. A, title X, §1075(b)(55), Jan. 7, 2011, 124 Stat. 4372.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Subsec. (b)(1). Pub. L. 111–383, §1075(b)(55)(A), substituted "agreement to serve" for "agreement to service".

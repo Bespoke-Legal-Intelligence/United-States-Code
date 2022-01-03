@@ -24,7 +24,7 @@
 
 &emsp;(C) taking other actions to conceal work activity with an intent fraudulently to secure payment in a greater amount than is due or when no payment is authorized,
 
-> no benefit shall be payable to such individual under this subchapter with respect to a period of disability for any month before such conviction during which the individual rendered services during the period of trial work with respect to which the fraudulently concealed work activityoccurred, and amounts otherwise due under this subchapter as restitution, penalties, assessments, fines, or other repayments shall in all cases be in addition to any amounts for which such individual is liable as overpayments by reason of such concealment.
+> no benefit shall be payable to such individual under this subchapter with respect to a period of disability for any month before such conviction during which the individual rendered services during the period of trial work with respect to which the fraudulently concealed work activity occurred, and amounts otherwise due under this subchapter as restitution, penalties, assessments, fines, or other repayments shall in all cases be in addition to any amounts for which such individual is liable as overpayments by reason of such concealment.
 
 #### (d) Cost of rehabilitation services from trust funds
 
@@ -56,7 +56,9 @@
 
 In the case of any individual whose benefits under this subchapter are paid to a representative payee pursuant to section 405(j)(1)(B) of this title, the Commissioner of Social Security shall refer such individual to the appropriate State agency administering the State plan for substance abuse treatment services approved under subpart II of part B of title XIX of the Public Health Service Act (42 U.S.C. 300x–21 et seq.).
 
-(Aug. 14, 1935, ch. 531, title II, §222, as added Sept. 1, 1954, ch. 1206, title I, §106(g) 68 Stat. 1082; amended Aug. 1, 1956, ch. 836, title I, §103(b), 70 Stat. 817; Pub. L. 85–840, title II, §205(n), title III, §307(g), Aug. 28, 1958, 72 Stat. 1025, 1032; Pub. L. 86–778, title IV, §403(a), Sept. 13, 1960, 74 Stat. 968; Pub. L. 89–97, title III, §§306(c)(14), 308(d)(11), 336, July 30, 1965, 79 Stat. 373, 379, 408; Pub. L. 90–248, title I, §§104(d)(3), (4), 158(c)(5), Jan. 2, 1968, 81 Stat. 832, 869; Pub. L. 92–603, title I, §§107(b)(3), (4), 131, Oct. 30, 1972, 86 Stat. 1343, 1360; Pub. L. 96–265, title III, §303(a), June 9, 1980, 94 Stat. 451; Pub. L. 97–35, title XXII, §2209(a), Aug. 13, 1981, 95 Stat. 840; Pub. L. 98–21, title III, §309(l)–(n), Apr. 20, 1983, 97 Stat. 117; Pub. L. 98–369, div. B, title VI, §2663(a)(15), July 18, 1984, 98 Stat. 1165; Pub. L. 98–460, §11(a), Oct. 9, 1984, 98 Stat. 1805; Pub. L. 101–508, title V, §5112(a), Nov. 5, 1990, 104 Stat. 1388–273; Pub. L. 103–296,title I, §107(a)(4), title II, §201(a)(4)(B), Aug. 15, 1994, 108 Stat. 1478, 1499; Pub. L. 104–121, title I, §105(a)(3), Mar. 29, 1996, 110 Stat. 852; Pub. L. 106–170, title I, §101(b)(1)(B), (C), Dec. 17, 1999, 113 Stat. 1873; Pub. L. 108–203, title II, §208(a), Mar. 2, 2004, 118 Stat. 513; Pub. L. 114–74, title VIII, §813(d), Nov. 2, 2015, 129 Stat. 604.)
+(Aug. 14, 1935, ch. 531, title II, §222, as added Sept. 1, 1954, ch. 1206, title I, §106(g) 68 Stat. 1082; amended Aug. 1, 1956, ch. 836, title I, §103(b), 70 Stat. 817; Pub. L. 85–840, title II, §205(n), title III, §307(g), Aug. 28, 1958, 72 Stat. 1025, 1032; Pub. L. 86–778, title IV, §403(a), Sept. 13, 1960, 74 Stat. 968; Pub. L. 89–97, title III, §§306(c)(14), 308(d)(11), 336, July 30, 1965, 79 Stat. 373, 379, 408; Pub. L. 90–248, title I, §§104(d)(3), (4), 158(c)(5), Jan. 2, 1968, 81 Stat. 832, 869; Pub. L. 92–603, title I, §§107(b)(3), (4), 131, Oct. 30, 1972, 86 Stat. 1343, 1360; Pub. L. 96–265, title III, §303(a), June 9, 1980, 94 Stat. 451; Pub. L. 97–35, title XXII, §2209(a), Aug. 13, 1981, 95 Stat. 840; Pub. L. 98–21, title III, §309(l)–(n), Apr. 20, 1983, 97 Stat. 117; Pub. L. 98–369, div. B, title VI, §2663(a)(15), July 18, 1984, 98 Stat. 1165; Pub. L. 98–460, §11(a), Oct. 9, 1984, 98 Stat. 1805; Pub. L. 101–508, title V, §5112(a), Nov. 5, 1990, 104 Stat. 1388–273; Pub. L. 103–296, title I, §107(a)(4), title II, §201(a)(4)(B), Aug. 15, 1994, 108 Stat. 1478, 1499; Pub. L. 104–121, title I, §105(a)(3), Mar. 29, 1996, 110 Stat. 852; Pub. L. 106–170, title I, §101(b)(1)(B), (C), Dec. 17, 1999, 113 Stat. 1873; Pub. L. 108–203, title II, §208(a), Mar. 2, 2004, 118 Stat. 513; Pub. L. 114–74, title VIII, §813(d), Nov. 2, 2015, 129 Stat. 604.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -108,7 +110,7 @@ Subsec. (b)(2). Pub. L. 98–21, §309(m), inserted "or father's" after "mother'
 
 Subsec. (b)(3). Pub. L. 98–21, §309(n), inserted "divorced husband," after "husband,".
 
-<b>1981</b>—Subsec. (d). Pub. L. 97–35 substituted provisions authorizing the transfer of funds as may be necessary to enable the Secretary to reimburse the State for the reasonable and necessary costs of vocational rehabilitation, under a State plan approved under title I of the Rehabilitation Act of 1973, which results in performance of substantial gainful activity for a continuous period of nine months, with the determination that the vocational rehabilitation services contributed to the successful return to substantial gainful activity and the amount of costs to be reimbursed made by the Commissioner of Social Security for provisions authorizing the transfer of funds as may be necessary to enable the Secretary to pay the cost of vocational rehabilitation services, restricting the amount of such cost that may be expended in any one fiscal year, establishing specific criteria which a State plan must meet, and providing that the selection of individuals to receive services be made in conformance with criteria formulated by the Secretary.
+<b>1981</b>—Subsec. (d). Pub. L. 97–35 substituted provisions authorizing the transfer of funds as may be necessary to enable the Secretary to reimburse the State for the reasonable and necessary costs of vocational rehabilitation, under a State plan approved under title I of the Rehabilitation Act of 1973, which results in performance of substantial gainful activity for a continuous period of nine months, with the determination that the vocational rehabilitation services contributed to thesuccessful return to substantial gainful activity and the amount of costs to be reimbursed made by the Commissioner of Social Security for provisions authorizing the transfer of funds as may be necessary to enable the Secretary to pay the cost of vocational rehabilitation services, restricting the amount of such cost that may be expended in any one fiscal year, establishing specific criteria which a State plan must meet, and providing that the selection of individuals to receive services be made in conformance with criteria formulated by the Secretary.
 
 <b>1980</b>—Subsec. (c)(1). Pub. L. 96–265, §303(a)(1), inserted references to sections 402(e) and 402(f) of this title.
 
@@ -139,6 +141,8 @@ Subsec. (d). Pub. L. 89–97, §336, added subsec. (d).
 <b>1956</b>—Subsec. (a). Act Aug. 1, 1956, designated existing provisions as subsec. (a), authorized referral of disabled individuals who are entitled to child's insurance benefits, and substituted "rehabilitated into productive activity" for "restored to productive activity".
 
 Subsecs. (b), (c). Act Aug. 1, 1956, added subsecs. (b) and (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 
@@ -186,7 +190,7 @@ Amendment by Pub. L. 92–603 applicable with respect to monthly benefits under 
 
 #### Effective Date of 1968 Amendment
 
-Amendment by section 104(d)(3), (4) of Pub. L. 90–248 applicable with respect to monthly benefits under this subchapter for and after the month of February 1968, but only on the basis of applications for such benefits filed in or after January 1968, see section 104(e) of Pub. L. 90–248, set out as a note under section 402 of this title.
+Amendment by section 104(d)(3), (4) of Pub. L. 90–248 applicable with respect to monthly benefits under thissubchapter for and after the month of February 1968, but only on the basis of applications for such benefits filed in or after January 1968, see section 104(e) of Pub. L. 90–248, set out as a note under section 402 of this title.
 
 Amendment by section 158(c)(5) of Pub. L. 90–248 applicable with respect to applications for disability insurance benefits under section 423 of this title and to disability determinations under section 416(i) of this title, see section 158(e) of Pub. L. 90–248, set out as a note under section 423 of this title.
 
@@ -200,7 +204,7 @@ Pub. L. 86–778, title IV, §403(e), Sept. 13, 1960, 74 Stat. 969, provided tha
 
 "(1) The amendment made by subsection (a) \[amending this section\] shall be effective only with respect to months beginning after the month in which this Act is enacted \[September 1960\].
 
-"(2) The amendments made by subsections (b) and (d) \[amending sections 423 and 402 of this title\] shall apply only with respect to benefits under section 223(a) or 202(d) of the Social Security Act \[42 U.S.C. 423(a),402(d)\] for months after the month in which this Act is enacted in the case of individuals who, without regard to such amendments, would have been entitled to such benefits for the month in which this Act is enacted or for any succeeding month.
+"(2) The amendments made by subsections (b) and (d) \[amending sections 423 and 402 of this title\] shall apply only with respect to benefits under section 223(a) or 202(d) of the Social Security Act \[42 U.S.C. 423(a), 402(d)\] for months after the month in which this Act is enacted in the case of individuals who, without regard to such amendments, would have been entitled to such benefits for the month in which this Act is enacted or for any succeeding month.
 
 "(3) The amendment made by subsection (c) \[amending section 416 of this title\] shall apply only in the case of individuals who have a period of disability (as defined in section 216(i) of the Social Security Act \[42 U.S.C. 416(i)\]) beginning on or after the date of the enactment of this Act \[Sept. 13, 1960\], or beginning before such date and continuing, without regard to such amendment, beyond the end of the month in which this Act is enacted."
 

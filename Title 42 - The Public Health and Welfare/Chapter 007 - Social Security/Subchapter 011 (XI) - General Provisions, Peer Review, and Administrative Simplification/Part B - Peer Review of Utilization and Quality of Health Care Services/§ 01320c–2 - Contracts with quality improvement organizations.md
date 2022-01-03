@@ -8,7 +8,7 @@ The Secretary shall establish throughout the United States such local, State, re
 
 (1) The Secretary shall enter into contracts with one or more quality improvement organizations for each area established under subsection (a) if a qualified organization is available in such area and such organization and the Secretary have negotiated a proposed contract which the Secretary determines will be carried out by such organization in a manner consistent with the efficient and effective administration of this part. In entering into contracts with such qualified organizations, the Secretary shall, to the extent appropriate, seek to ensure that each of the functions described in section 1320c–3(a) of this title are carried out within an area established under subsection (a). If more than one such qualified organization will be operating in an area, the Secretary shall ensure that there is no duplication of the functions carried out by such organizations within the area.
 
-(2)(A) Prior to November 15, 1984, the Secretary shall not enter into a contract under this part with any entity which is, or is affiliated with (through management, ownership, or common control), an entity (other than a self-insured employer) which directly or indirectly makes payments to any practitioner or provider whose health care services are reviewed by suchentity or would be reviewed by such entity if it entered into a contract with the Secretary under this part. For purposes of this paragraph, an entity shall not be considered to be affiliated with another entity which makes payments (directly or indirectly) to any practitioner or provider, by reason of management, ownership, or common control, if the management, ownership, or common control consists only of members of the governing board being affiliated (through management, ownership, or common control) with a health maintenance organization or competitive medical plan which is an "eligible organization" as defined in section 1395mm(b) of this title.
+(2)(A) Prior to November 15, 1984, the Secretary shall not enter into a contract under this part with any entity which is, or is affiliated with (through management, ownership, or common control), an entity (other than a self-insured employer) which directly or indirectly makes payments to any practitioner or provider whose health care services are reviewed by such entity or would be reviewed by such entity if it entered into a contract with the Secretary under this part. For purposes of this paragraph, an entity shall not be considered to be affiliated with another entity which makes payments (directly or indirectly) to any practitioner or provider, by reason of management, ownership, or common control, if the management, ownership, or common control consists only of members of the governing board being affiliated (through management, ownership, or common control) with a health maintenance organization or competitive medical plan which is an "eligible organization" as defined in section 1395mm(b) of this title.
 
 (B) If, after November 14, 1984, the Secretary determines that there is no other entity available for an area with which the Secretary can enter into a contract under this part or the Secretary determines that there is a more qualified entity to perform one or more of the functions in section 1320c–3(a) of this title, the Secretary may then enter into a contract under this part with an entity described in subparagraph (A) for such area if such entity otherwise meets the requirements of this part.
 
@@ -52,13 +52,15 @@ The Secretary shall provide that fiscal intermediaries furnish to quality improv
 
 #### (h) Publication of new policy or procedure and general criteria and standards for evaluation; performance comparison report
 
-(1) The Secretary shall publish in the Federal Register any new policy or procedure adopted bythe Secretary that affects substantially the performance of contract obligations under this section not less than 30 days before the date on which such policy or procedure is to take effect. This paragraph shall not apply to the extent it is inconsistent with a statutory deadline.
+(1) The Secretary shall publish in the Federal Register any new policy or procedure adopted by the Secretary that affects substantially the performance of contract obligations under this section not less than 30 days before the date on which such policy or procedure is to take effect. This paragraph shall not apply to the extent it is inconsistent with a statutory deadline.
 
 (2) The Secretary shall publish in the Federal Register the general criteria and standards used for evaluating the efficient and effective performance of contract obligations under this section and shall provide opportunity for public comment with respect to such criteria and standards.
 
 (3) The Secretary shall regularly furnish each quality improvement organization with a contract under this section with a report that documents the performance of the organization in relation to the performance of other such organizations.
 
-(Aug. 14, 1935, ch. 531, title XI, §1153, as added Pub. L. 97–248, title I, §143, Sept. 3, 1982, 96 Stat. 382; amended Pub. L. 97–448, title III, §309(b)(2), Jan. 12, 1983, 96 Stat. 2408; Pub. L. 98–21, title VI, §602(a), Apr. 20, 1983, 97 Stat. 163; Pub. L. 98–369, div. B, title III, §§2334(a), (b), 2347(c), July 18, 1984, 98 Stat. 1090, 1097; Pub. L. 99–272, title IX, §§9402(b), 9404(a), 9406(a), Apr. 7, 1986, 100 Stat. 200, 201; Pub. L. 99–509, title IX, §9352(a)(1), Oct. 21, 1986, 100 Stat. 2044; Pub. L. 100–203, title IV, §§4091(a)(2)(A), (b)(1), (2), 4092(a), 4094(d)(1), Dec. 22, 1987, 101 Stat. 1330–134, 1330–135, 1330–137; Pub. L. 112–40, title II, §261(a)(2)(A), (C), (b), (c)(1), Oct. 21, 2011, 125 Stat. 423, 425.)
+(Aug. 14, 1935, ch. 531, title XI, §1153, as added Pub. L. 97–248, title I, §143, Sept. 3, 1982, 96 Stat.382; amended Pub. L. 97–448, title III, §309(b)(2), Jan. 12, 1983, 96 Stat. 2408; Pub. L. 98–21, title VI, §602(a), Apr. 20, 1983, 97 Stat. 163; Pub. L. 98–369, div. B, title III, §§2334(a), (b), 2347(c), July 18, 1984, 98 Stat. 1090, 1097; Pub. L. 99–272, title IX, §§9402(b), 9404(a), 9406(a), Apr. 7, 1986, 100 Stat. 200, 201; Pub. L. 99–509, title IX, §9352(a)(1), Oct. 21, 1986, 100 Stat. 2044; Pub. L. 100–203, title IV, §§4091(a)(2)(A), (b)(1), (2), 4092(a), 4094(d)(1), Dec. 22, 1987, 101 Stat. 1330–134, 1330–135, 1330–137; Pub. L. 112–40, title II, §261(a)(2)(A), (C), (b), (c)(1), Oct. 21, 2011, 125 Stat. 423, 425.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -128,7 +130,7 @@ Subsec. (d)(4). Pub. L. 99–272, §9406(a), added par. (4).
 
 Subsec. (g). Pub. L. 99–509 added subsec. (g).
 
-<b>1984</b>—Subsec. (b)(2)(A). Pub. L. 98–369, §2347(c)(1), substituted "Prior to November 15, 1984" for "During the first twelve months in which the Secretary is entering into contracts under this section".
+<b>1984</b>—Subsec. (b)(2)(A). Pub. L. 98–369, §2347(c)(1), substituted "Prior to November 15, 1984" for "During thefirst twelve months in which the Secretary is entering into contracts under this section".
 
 Pub. L. 98–369, §2334(b), inserted "(other than a self-insured employer)" and provision that for purposes of this paragraph an entity shall not be considered to be affiliated with another entity which makes payments (directly or indirectly) to any practitioner or provider, by reason of management, ownership, or common control, if the management, ownership, or common control consists only of one individual member of the governing board being affiliated (through management, ownership, or common control) with a health maintenance organization or competitive medical plan which is an "eligible organization" as defined in section 1395mm(b) of this title.
 
@@ -141,6 +143,8 @@ Subsec. (b)(3). Pub. L. 98–369, §2334(a), designated existing provisions as s
 <b>1983</b>—Subsec. (b)(2)(C). Pub. L. 98–21 added subpar. (C).
 
 Subsec. (d). Pub. L. 97–448 substituted reference to "subsection (c)(6)(B)" for "subsection (c)(5)(B)" and "subsection (c)(5)(C)" in pars. (1) and (2), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 

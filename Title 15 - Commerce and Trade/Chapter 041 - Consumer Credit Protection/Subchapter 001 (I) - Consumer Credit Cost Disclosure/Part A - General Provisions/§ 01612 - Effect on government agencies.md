@@ -14,15 +14,19 @@ A creditor participating in a credit program administered, insured, or guarantee
 
 #### (d) Applicability of State penalties to violations by participating creditor
 
-A creditor participating in a credit program administered, insured, or guaranteed by any department or agency of the United States shall not be held liable for a civil or criminal penalty under the laws of any State (other than laws determined under section 1610 of this title to be inconsistent with this subchapter) for any technical or procedural failure, such as a failure touse a specific form, to make information available at a specific place on an instrument, or to use a specific typeface, as required by State law, which is caused by the use of an instrument required to be used by such department or agency.
+A creditor participating in a credit program administered, insured, or guaranteed by any department or agency of the United States shall not be held liable for a civil or criminal penalty under the laws of any State (other than laws determined under section 1610 of this title to be inconsistent with this subchapter) for any technical or procedural failure, such as a failure to use a specific form, to make information available at a specific place on an instrument, or to use a specific typeface, as required by State law, which is caused by the use of an instrument required to be used by such department or agency.
 
 (Pub. L. 90–321, title I, §113, May 29, 1968, 82 Stat. 151; Pub. L. 96–221, title VI, §622(a), Mar. 31, 1980, 94 Stat. 184; Pub. L. 111–203, title X, §1100A(2), July 21, 2010, 124 Stat. 2107.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–203 substituted "Bureau" for "Board".
 
 <b>1980</b>—Pub. L. 96–221 amended section generally, designating existing provisions as subsec. (b) and adding subsecs. (a), (c), and (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

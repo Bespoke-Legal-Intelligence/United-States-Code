@@ -32,7 +32,7 @@ All persons liable for the tax under subsection (a) or (b), or under any similar
 
 #### (1) Liability for tax
 
-&emsp;Any person who withdraws distilled spirits from the bonded premises of a distilled spirits plant without payment of tax, as provided in section 5214(a)(4), (5), (6), (7), (8), (9), (10), or (13), shall be liable for the internal revenue tax on such distilled spirits, from the time of such withdrawal; and all persons liable for the tax on such distilled spirits under subsection (a) or (b), or under any similar prior provisions of internal revenue law, shall, at the time of such withdrawal, be relieved of any such liability on the distilled spirits so withdrawn if the person withdrawing such spirits and the person, or persons, liable for the tax under subsection (a) or (b), or under any similar prior provisions of internal revenue law, are independent of each other and neither has a proprietary interest, directly or indirectly, in the business of the other, and all persons liable for the tax under subsection (a) or (b), or under any similar prior provisions of internal revenue law, have divested themselves of all interest in the spirits so withdrawn.
+&emsp;Any person who withdraws distilled spirits from the bonded premises of a distilled spirits plant without payment of tax, as provided in section 5214(a)(4), (5), (6), (7), (8), (9), (10), or (13), shall be liable for the internal revenue tax on such distilled spirits, from the time ofsuch withdrawal; and all persons liable for the tax on such distilled spirits under subsection (a) or (b), or under any similar prior provisions of internal revenue law, shall, at the time of such withdrawal, be relieved of any such liability on the distilled spirits so withdrawn if the person withdrawing such spirits and the person, or persons, liable for the tax under subsection (a) or (b), or under any similar prior provisions of internal revenue law, are independent of each other and neither has a proprietary interest, directly or indirectly, in the business of the other, and all persons liable for the tax under subsection (a) or (b), or under any similar prior provisions of internal revenue law, have divested themselves of all interest in the spirits so withdrawn.
 
 #### (2) Relief from liability
 
@@ -53,6 +53,8 @@ All persons liable for the tax under subsection (a) or (b), or under any similar
 &emsp;&emsp;<b>(6) For provisions relating to transfer of tax liability for wine, see section 5043(a)(1)(A).</b>
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1318; amended Pub. L. 94–455, title XIX, §1905(a)(1), Oct. 4, 1976, 90 Stat. 1818; Pub. L. 95–176, §4(b), (d), Nov. 14, 1977, 91 Stat. 1366; Pub. L. 96–39, title VIII, §807(a)(3), July 26, 1979, 93 Stat. 280; Pub. L. 96–223, title II, §232(e)(2)(D), Apr. 2, 1980, 94 Stat. 280; Pub. L. 98–369, div. A, title IV, §455(b), July 18, 1984, 98 Stat. 823; Pub. L. 103–465, title I, §136(c)(2), Dec. 8, 1994, 108 Stat. 4841.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -88,6 +90,8 @@ Subsec. (e)(2). Pub. L. 95–176, §4(b), substituted "customs bonded warehouses
 
 <b>1976</b>—Subsec. (c)(2). Pub. L. 94–455 substituted "Such relief from liability shall be effective from the time of removal from the transferor's bonded premises, or from the time of divestment of interest, whichever is later." for "Such liability for the tax on distilled spirits shall continue until the distilled spirits are transferred or withdrawn from bonded premises as authorized by law, or until such liability for tax is relieved by reason of the provisions of section 5008(a). Nothing in this paragraph shall relieve any person from any liability imposed by subsection (a) or (b).".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–465 effective Jan. 1, 1995, see section 136(d) of Pub. L. 103–465, set out as a note under section 5001 of this title.
@@ -110,5 +114,5 @@ Amendment by Pub. L. 95–176 effective on first day of first calendar month beg
 
 #### Effective Date of 1976 Amendment
 
-Pub. L. 94–455, title XIX, §1905(d), Oct. 4, 1976, 90 Stat. 1824, provided that: "The amendments made by this section \[amending this section and sections 5007 to 5009, 5025, 5026, 5043, 5054, 5061, 5105, 5111, 5113, 5114, 5117, 5121, 5122, 5131, 5142, 5148, 5171, 5174, 5177, 5179, 5214, 5222, 5232 to 5234, 5272, 5314, 5362, 5368, 5392, 5505, 5551, 5601, 5662, 5685, 5701, 5703, 5704, 5712, 5723, 5751, 5752, 5762, and 5763 of this title and repealing sections 5104, 5144, 5315, 5676, and 5689 of this title\] shall take effect on the first day of the first month which begins more than 90 days after the date of the enactment of this Act \[Oct. 4, 1976\]."
+Pub. L. 94–455, title XIX, §1905(d), Oct. 4, 1976, 90 Stat. 1824, provided that: "The amendments made by thissection \[amending this section and sections 5007 to 5009, 5025, 5026, 5043, 5054, 5061, 5105, 5111, 5113, 5114, 5117, 5121, 5122, 5131, 5142, 5148, 5171, 5174, 5177, 5179, 5214, 5222, 5232 to 5234, 5272, 5314, 5362, 5368, 5392, 5505, 5551, 5601, 5662, 5685, 5701, 5703, 5704, 5712, 5723, 5751, 5752, 5762, and 5763 of this title and repealing sections 5104, 5144, 5315, 5676, and 5689 of this title\] shall take effect on the first day of the first month which begins more than 90 days after the date of the enactment of this Act \[Oct. 4, 1976\]."
 

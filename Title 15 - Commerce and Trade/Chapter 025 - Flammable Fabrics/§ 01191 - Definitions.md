@@ -22,7 +22,9 @@ As used in this chapter—
 
 (j) The term "Federal Trade Commission Act" means the Act of Congress entitled "An Act to create a Federal Trade Commission, to define its powers and duties, and for other purposes", approved September 26, 1914, as amended \[15 U.S.C. 41 et seq.\].
 
-(June 30, 1953, ch. 164, §2, 67 Stat. 111; Pub. L. 90–189, §1, Dec. 14, 1967, 81 Stat. 568; Pub. L. 110–314, title II, §204(c)(2)(A), Aug. 14, 2008, 122 Stat. 3042.)
+(June 30, 1953, ch. 164, §2, 67 Stat. 111; Pub. L. 90–189, §1, Dec. 14, 1967, 81 Stat. 568; Pub. L.110–314, title II, §204(c)(2)(A), Aug. 14, 2008, 122 Stat. 3042.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -43,6 +45,8 @@ Par. (e). Pub. L. 90–189, §1(5), (6), added par. (e) and redesignated former 
 Par. (f). Pub. L. 90–189, §1(4), (5), (7), redesignated par. (e) as (f), substituted "(except fiber, filament, or yarn for other than retail sale)" for "(other than fiber, filament, or yarn)" and "for use or which may reasonably be expected to be used, in any product as defined in subsection (h)" for "or sold for use in wearing apparel except that interlining fabrics when intended or sold for use in wearing apparel shall not be subject to this chapter", and struck out former par. (f) which defined "interlining".
 
 Pars. (g) to (j). Pub. L. 90–189, §1(5), (8), added pars. (g) and (h) and redesignated former pars. (g) and (h) as (i) and (j), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -66,7 +70,7 @@ Pub. L. 116–260, div. FF, title XXI, §2101, Dec. 27, 2020, 134 Stat. 3303, pr
 
 "(a)
 
-Short Title.—This title \[enacting this note\] may be cited as the 'COVID–19 Regulatory Relief and Work From Home Safety Act'.
+Short Title.—This title may be cited as the 'COVID–19 Regulatory Relief and Work From Home Safety Act'.
 
 "(b)
 

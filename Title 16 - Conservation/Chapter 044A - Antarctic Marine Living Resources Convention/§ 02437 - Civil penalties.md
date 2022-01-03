@@ -6,7 +6,7 @@ Any person who commits an act that is unlawful under section 2435 of this title 
 
 #### (b) Hearings
 
-Hearings for the assessment of civil penalties under subsection (a) shall be conducted in accordance with section 554 of title 5. For the purposes of conducting any such hearing, the Secretary of Commerce may issue subpoenas for the attendance and testimony of witnesses and the production of relevant papers, books, and documents, and may administer oaths. Witnesses summoned shall be paid the same fees and mileage that are paid to witnesses in the courts ofthe United States. In case of contumacy or refusal to obey a subpoena served upon any person pursuant to this subsection, the district court of the United States for any district in which such person is found, resides, or transacts business, upon application by the Attorney General of the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the Secretary of Commerce or to appear and produce documents before the Secretary of Commerce, or both, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
+Hearings for the assessment of civil penalties under subsection (a) shall be conducted in accordance with section 554 of title 5. For the purposes of conducting any such hearing, the Secretary of Commerce may issue subpoenas for the attendance and testimony of witnesses and the production of relevant papers, books, and documents, and may administer oaths. Witnesses summoned shall be paid the same fees and mileage that are paid to witnesses in the courts of the United States. In case of contumacy or refusal to obey a subpoena served upon any person pursuant to this subsection, the district court of the United States for any district in which such person is found, resides, or transacts business, upon application by the Attorney General of the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the Secretary of Commerce or to appear and produce documents before the Secretary of Commerce, or both, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
 
 #### (c) Review of civil penalty
 
@@ -21,6 +21,8 @@ The Attorney General of the United States may seek to recover in any appropriate
 The assessment of a civil penalty under subsection (a) for any act shall not be deemed to preclude the assessment of a civil penalty for such act under any other law.
 
 (Pub. L. 98–623, title III, §308, Nov. 8, 1984, 98 Stat. 3401; Pub. L. 114–81, title I, §101(a)(2), Nov. 5, 2015, 129 Stat. 653.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

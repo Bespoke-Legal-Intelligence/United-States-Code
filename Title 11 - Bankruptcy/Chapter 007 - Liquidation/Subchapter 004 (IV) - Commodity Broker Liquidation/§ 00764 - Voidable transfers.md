@@ -36,7 +36,7 @@ Subsection (c) insulates variation margin payments and other deposits from the a
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–353 substituted "any transfer by the debtor" for "any transfer".
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–222, §17(a), substituted "but" for "except", inserted "such property" after "trustee, and", and substituted "shall be" for "is" wherever appearing.
+<b>1982</b>—Subsec. (a). Pub. L. 97–222, §17(a), substituted "but" for "except", inserted "such property" after"trustee, and", and substituted "shall be" for "is" wherever appearing.
 
 Subsec. (b). Pub. L. 97–222, §17(b), substituted "order for relief" for "date of the filing of the petition".
 

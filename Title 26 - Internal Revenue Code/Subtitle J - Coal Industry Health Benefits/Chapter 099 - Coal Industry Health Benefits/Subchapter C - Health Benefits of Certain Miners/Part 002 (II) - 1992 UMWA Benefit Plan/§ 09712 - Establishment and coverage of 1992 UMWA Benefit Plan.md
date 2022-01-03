@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(A) but for the enactment of this chapter, would be eligible to receive benefits from the 1950 UMWA Benefit Plan or the 1974 UMWA Benefit Plan, based upon age and service earned as of February 1, 1993; or
 
-&emsp;&emsp;(B) with respect to whom coverage is required to be provided under section 9711, but who does not receive such coverage from the applicable last signatory operator or any related person,
+&emsp;&emsp;(B) with respect to whom coverage is required to be provided under section 9711, butwho does not receive such coverage from the applicable last signatory operator or any related person,
 
 > &emsp;and any individual who is eligible for benefits by reason of a relationship to an individual described in subparagraph (A) or (B). In no event shall the 1992 UMWA Benefit Plan provide health benefits coverage to any eligible beneficiary who is a coal industry retiree who retired from the coal industry after September 30, 1994, or any beneficiary of such individual.
 
@@ -70,7 +70,7 @@
 
 &emsp;&emsp;(B) obtaining a unit price discount in exchange for patient volume and preferred provider status with the amount of the potential discount varying by geographic region,
 
-&emsp;&emsp;(C) limiting benefit payments to physicians to the allowable charge under titleXVIII of the Social Security Act, while protecting beneficiaries from balance billing by providers,
+&emsp;&emsp;(C) limiting benefit payments to physicians to the allowable charge under title XVIII of the Social Security Act, while protecting beneficiaries from balance billing by providers,
 
 &emsp;&emsp;(D) utilizing, in the claims payment function "appropriateness of service" protocols under title XVIII of the Social Security Act if more stringent,
 
@@ -132,9 +132,11 @@
 
 (Added Pub. L. 102–486, title XIX, §19143(a), Oct. 24, 1992, 106 Stat. 3053; amended Pub. L. 109–432, div. C, title II, §§211(c), 212(b)(1)–(2)(B), Dec. 20, 2006, 120 Stat. 3023, 3025, 3026; Pub. L. 115–141, div. U, title IV, §401(a)(348), Mar. 23, 2018, 132 Stat. 1201.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Social Security Act, referred to in subsec. (c)(3)(C), (D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, asamended. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (c)(3)(C), (D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 
@@ -149,6 +151,8 @@ Subsec. (d)(2)(B). Pub. L. 109–432, §212(b)(2)(B)(i), substituted "backstop" 
 Subsec. (d)(3). Pub. L. 109–432, §212(b)(2)(B)(ii), substituted "paragraph (1)(A)" for "paragraph (1)(B)".
 
 Subsec. (d)(4). Pub. L. 109–432, §211(c), inserted at end "The provisions of section 9711(c)(2) shall apply to any last signatory operator described in such section (without regard to whether security is provided under such section, a payment is made under section 9704(j), or both) and if security meeting the requirements of section 9711(c)(3) is provided, the common parent described in section 9711(c)(2)(B) shall be exclusively responsible for any liability for premiums under this section which, but for this sentence, would be required to be paid by the last signatory operator or any related person."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

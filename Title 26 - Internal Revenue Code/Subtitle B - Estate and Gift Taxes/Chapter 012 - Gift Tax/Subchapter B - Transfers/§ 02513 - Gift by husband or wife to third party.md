@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;A gift made by one spouse to any person other than his spouse shall, for the purposes of this chapter, be considered as made one-half by him and one-half by his spouse, but only if at the time of the gift each spouse is a citizen or resident of the United States. This paragraph shall not apply with respect to a gift bya spouse of an interest in property if he creates in his spouse a general power of appointment, as defined in section 2514(c), over such interest. For purposes of this section, an individual shall be considered as the spouse of another individual only if he is married to such individual at the time of the gift and does not remarry during the remainder of the calendar year.
+&emsp;A gift made by one spouse to any person other than his spouse shall, for the purposes of this chapter, be considered as made one-half by him and one-half by his spouse, but only if at the time of the gift each spouse is a citizen or resident of the United States. This paragraph shall not apply with respect to a gift by a spouse of an interest in property if he creates in his spouse a general power of appointment, as defined in section 2514(c), over such interest. For purposes of this section, an individual shall be considered as the spouse of another individual only if he is married to such individual at the time of the gift and does not remarry during the remainder of the calendar year.
 
 #### (2) Consent of both spouses
 
@@ -38,6 +38,8 @@ If the consent required by subsection (a)(2) is signified with respect to a gift
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 406; Pub. L. 91–614, title I, §102(b)(2), Dec. 31, 1970, 84 Stat. 1840; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–34, title IV, §442(b)(2), Aug. 13, 1981, 95 Stat. 322.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1981</b>—Subsec. (a)(1), (2). Pub. L. 97–34, §442(b)(2)(A), substituted "calendar year" for "calendar quarter".
@@ -62,11 +64,13 @@ Subsec. (c)(1). Pub. L. 91–614, §102(b)(2)(D), substituted "15th day of the s
 
 Subsec. (d). Pub. L. 91–614, §102(b)(2)(A), (E), substituted "calendar quarter" for "calendar year" and "such calendar quarter" for "such year".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–34 applicable with respect to gifts made after Dec. 31, 1981, see section 442(e) of Pub. L. 97–34, set out as a note under section 2501 of this title.
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–614 applicable with respect to gifts made after Dec. 31, 1970, see section 102(e) of Pub. L. 91–614, set out as a note under section 2501 of this title.
+Amendment by Pub. L. 91–614 applicable with respect to gifts made after Dec. 31, 1970, see section 102(e) ofPub. L. 91–614, set out as a note under section 2501 of this title.
 

@@ -2,11 +2,11 @@
 
 #### (a) Original appointments to Regular and Ready Reserve Corps; limitation on appointment and call to active duty
 
-(1) Except as provided in subsections (b) and (e) of this section, original appointments to the Regular Corps may be made only in the warrant officer (W–1), chief warrant officer (W–2), chief warrant officer (W–3), chief warrant officer\(W–4), junior assistant, assistant, and senior assistant grades and original appointments to a grade above junior assistant shall be made only after passage of an examination, given in accordance with regulations of the President, in one or more of the several branches of medicine, dentistry, hygiene, sanitary engineering, pharmacy, psychology, nursing, or related scientific specialties in the field of public health.
+(1) Except as provided in subsections (b) and (e) of this section, original appointments to the Regular Corps may be made only in the warrant officer (W–1), chief warrant officer (W–2), chief warrant officer (W–3), chief warrant officer (W–4), junior assistant, assistant, and senior assistant grades and original appointments to a grade above junior assistant shall be made only after passage of an examination, given in accordance with regulations of the President, in one or more of the several branches of medicine, dentistry, hygiene, sanitary engineering, pharmacy, psychology, nursing, or related scientific specialties in the field of public health.
 
 (2) Original appointments to the Ready Reserve Corps may be made to any grade up to and including the director grade but only after passage of an examination given in accordance with regulations of the President. Reserve commissions shall be for an indefinite period and may be terminated at any time, as the President may direct.
 
-(3) No individual who has attained the age of forty-four shall be appointed to the Regular Corps, or called to active duty in the Ready Reserve Corps for a period in excess of one year, unless (A) he has had a number of years of active service (as defined in section 212(d) of this title) equal to the number of years by which his age exceeds forty-four, or (B) the Surgeon General determines that he possesses exceptional qualifications, not readily available elsewhere in the Commissioned Corps of the Public Health Service, for the performance of special duties with the Service, or (C) in the case of an officer of the Ready Reserve Corps, the Commissioned Corps of the Service has been declared by the President to be a military service.
+(3) No individual who has attained the age of forty-four shall be appointed to the Regular Corps, or called to active duty in the Ready Reserve Corps for a period in excess of one year, unless (A) he has had a number of years of activeservice (as defined in section 212(d) of this title) equal to the number of years by which his age exceeds forty-four, or (B) the Surgeon General determines that he possesses exceptional qualifications, not readily available elsewhere in the Commissioned Corps of the Public Health Service, for the performance of special duties with the Service, or (C) in the case of an officer of the Ready Reserve Corps, the Commissioned Corps of the Service has been declared by the President to be a military service.
 
 #### (b) Grade and number of original appointments
 
@@ -36,7 +36,7 @@ Commissions evidencing the appointment by the President of officers of the Regul
 
 #### (e) Reappointment; credit for service
 
-(1) A former officer of the Regular Corps may, if application for appointment is made withintwo years after the date of the termination of his prior commission in the Regular Corps, be reappointed to the Regular Corps without examination, except as the Surgeon General may otherwise prescribe, and without regard to the numerical limitations of subsection (b).
+(1) A former officer of the Regular Corps may, if application for appointment is made within two years after the date of the termination of his prior commission in the Regular Corps, be reappointed to the Regular Corps without examination, except as the Surgeon General may otherwise prescribe, and without regard to the numerical limitations of subsection (b).
 
 (2) Reappointments pursuant to this subsection may be made to the permanent grade held by the former officer at the time of the termination of his prior commission, or to the next higher grade if such officer meets the eligibility requirements prescribed by regulation for original appointment to such higher grade. For purposes of pay, promotion, and seniority in grade, such reappointed officer shall receive the credits for service to which he would be entitled if such appointment were an original appointment, but in no event less than the credits he held at the time his prior commission was terminated, except that if such officer is reappointed to the next higher grade he shall receive no credit for seniority in grade.
 
@@ -59,6 +59,8 @@ Persons who are not citizens may be employed as consultants pursuant to subsecti
 The appointment of any officer or employee of the Service made in accordance with the civil-service laws shall be made by the Secretary, and may be made effective as of the date on which such officer or employee enters upon duty.
 
 (July 1, 1944, ch. 373, title II, §207, formerly §208, 58 Stat. 685; July 3, 1946, ch. 538, §4, 60 Stat. 421; Aug. 13, 1946, ch. 958, §3, 60 Stat. 1049; renumbered §207 and amended Feb. 28, 1948, ch. 83, §5(a)–(d), 62 Stat. 40; Oct. 12, 1949, ch. 681, title V, §521(a), 63 Stat. 834; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Apr. 27, 1956, ch. 211, §3(a)–(c)(1), 70 Stat. 116; Pub. L. 86–415, §§2, 3, Apr. 8, 1960, 74 Stat. 32; Pub. L. 96–76, title III, §305, Sept. 29, 1979, 93 Stat. 585; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 97–35, title XXVII, §2765(c), Aug. 13, 1981, 95 Stat. 933; Pub. L. 97–414, §8(a), Jan. 4, 1983, 96 Stat. 2060; Pub. L. 116–136, div. A, title III, §3214(e)(1), (3), Mar. 27, 2020, 134 Stat. 373.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -112,6 +114,12 @@ Subsec. (h). Act Feb. 28, 1948, redesignated former subsec. (f) as (h).
 
 Subsec. (b)(2). Act Aug. 13, 1946, inserted "(A)" before "to assist", substituted "clause" for "paragraphs", and inserted cl. (B).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsecs. (c), (e)(3), and (i), and "Department of Health and Human Services" substituted for "Department of Health, Education, and Welfare" in subsec. (c), pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+
 #### Effective Date of 1979 Amendment
 
 Amendment by Pub. L. 96–76 effective Oct. 1, 1979, see section 314 of Pub. L. 96–76, set out as a note under section 206 of this title.
@@ -123,12 +131,6 @@ Pub. L. 86–415, §8(a), Apr. 8, 1960, 74 Stat. 36, provided that: "The amendme
 #### Effective Date of 1949 Amendment
 
 Amendment by act Oct. 12, 1949, effective Oct. 1, 1949, see section 533(a) of act Oct. 12, 1949, set out as a note under section 854a of Title 33, Navigation and Navigable Waters.
-
-#### Transfer of Functions
-
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
-
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20.
 
 #### Personal Services Contracting
 
@@ -161,6 +163,14 @@ Pub. L. 104–134, title I, §101(d) \[title II\], Apr. 26, 1996, 110 Stat. 1321
 #### Term of Reserve Commissions in Effect on April 27, 1956
 
 Act Apr. 27, 1956, ch. 211, §3(c)(2), 70 Stat. 117, provided that: "The enactment of paragraph (1) of this subsection \[amending this section\] shall not affect the term of the commission of any officer in the Reserve Corps in effect on the date of such enactment \[Apr. 27, 1956\] unless such officer consents in writing to the extension of his commission for an indefinite period, in which event his commission shall be so extended without the necessity of a new appointment."
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title.
+
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
 #### Delegation of Functions
 

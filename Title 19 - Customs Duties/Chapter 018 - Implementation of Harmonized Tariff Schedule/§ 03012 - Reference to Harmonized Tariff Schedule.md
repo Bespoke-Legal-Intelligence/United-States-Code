@@ -4,9 +4,13 @@ Any reference in any law to the "Tariff Schedules of the United States", "the Ta
 
 (Pub. L. 100–418, title I, §1212, Aug. 23, 1988, 102 Stat. 1155.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Harmonized Tariff Schedule, referred to in text, is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

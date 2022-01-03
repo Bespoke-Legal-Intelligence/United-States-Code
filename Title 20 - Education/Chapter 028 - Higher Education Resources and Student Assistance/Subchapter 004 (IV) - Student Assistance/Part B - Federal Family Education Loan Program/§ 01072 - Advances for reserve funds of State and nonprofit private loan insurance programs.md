@@ -24,7 +24,7 @@
 
 #### (3) Terms and conditions; repayment
 
-&emsp;Advances pursuant to this subsection shall be upon such terms and conditions (including conditions relating to the time or times of payment) consistent with the requirements of section 1078(b) of this title as the Secretary determines will best carry out the purpose of this section. Advances made by the Secretary under this subsection shall be repaid within such period as the Secretary may deem to be appropriate in each case in the light of the maturity and solvency of the reserve fund for which the advance was made.
+&emsp;Advances pursuant to this subsection shall be upon such terms and conditions (including conditions relating to the time or times of payment) consistent with the requirements of section 1078(b) of this title as the Secretarydetermines will best carry out the purpose of this section. Advances made by the Secretary under this subsection shall be repaid within such period as the Secretary may deem to be appropriate in each case in the light of the maturity and solvency of the reserve fund for which the advance was made.
 
 #### (b) Limitations on total advances
 
@@ -78,7 +78,7 @@
 
 &emsp;&emsp;(A) in the case of a State which is actively carrying on a program under an agreement pursuant to section 1078(b) of this title which was entered into before October 12, 1976, upon such date as such State may request, but not before October 1, 1977, and on the same day of each of the 2 succeeding calendar years after the date so requested; and
 
-&emsp;&emsp;(B) in the case of a State which enters into an agreement pursuant to section 1078(b) of this title on or after October 12, 1976, or which is not actively carrying on a program under an agreement pursuant to such section on such date, upon such date as such State may request, but not before October 1, 1977, and on the same day of each of the 4 succeeding calendar years after the date so requested of the advance.
+&emsp;&emsp;(B) in the case of a State which enters into an agreement pursuant to section 1078(b) of this title on or after October 12, 1976, or which is not actively carrying on a program under an agreement pursuant to such section on such date, upon such date as such State may request, but not before October 1,1977, and on the same day of each of the 4 succeeding calendar years after the date so requested of the advance.
 
 #### (6) Payment of advances where no State program
 
@@ -180,7 +180,7 @@ The Secretary shall, within 30 days after July 23, 1992, pay the full amount of 
 
 &emsp;The Secretary shall require each guaranty agency to return reserve funds under paragraph (1) based on the agency's required share of recalled reserve funds held by guaranty agencies as of September 30, 1996. For purposes of this paragraph, a guaranty agency's required share of recalled reserve funds shall be determined as follows:
 
-&emsp;&emsp;(A) The Secretary shall compute each guaranty agency's reserve ratio by dividing (i) the amount held in the agency's reserve funds as of September 30, 1996 (but reflectinglater accounting or auditing adjustments approved by the Secretary), by (ii) the original principal amount of all loans for which the agency has an outstanding insurance obligation as of such date, including amounts of outstanding loans transferred to the agency from another guaranty agency.
+&emsp;&emsp;(A) The Secretary shall compute each guaranty agency's reserve ratio by dividing (i) the amount held in the agency's reserve funds as of September 30, 1996 (but reflecting later accounting or auditing adjustments approved by the Secretary), by (ii) the original principal amount of all loans for which the agency has an outstanding insurance obligation as of such date, including amounts of outstanding loans transferred to the agency from another guaranty agency.
 
 &emsp;&emsp;(B) If the reserve ratio of any guaranty agency as computed under subparagraph (A) exceeds 2.0 percent, the agency's required share shall include so much of the amounts held in the agency's reserve funds as exceed a reserve ratio of 2.0 percent.
 
@@ -240,7 +240,7 @@ The Secretary shall, within 30 days after July 23, 1992, pay the full amount of 
 
 #### (B) Use of termination collections
 
-&emsp;&emsp;Any reserve funds directed by the Secretary to be returned to the Secretary under subsection (g)(1)(B) during such period that do not exceed a guaranty agency's required share of recalled reserve funds under paragraph (3)—
+&emsp;&emsp;Any reserve funds directed by the Secretary to be returned to the Secretary undersubsection (g)(1)(B) during such period that do not exceed a guaranty agency's required share of recalled reserve funds under paragraph (3)—
 
 &emsp;&emsp;&emsp;(i) shall be used to satisfy the agency's required share of recalled reserve funds; and
 
@@ -320,7 +320,7 @@ The Secretary shall, within 30 days after July 23, 1992, pay the full amount of 
 
 #### (4) Offset of required shares
 
-&emsp;If any guaranty agency returns to the Secretary any reserve funds in excess of theamount required under this subsection or subsection (h), the total amount required to be returned under paragraph (1) shall be reduced by the amount of such excess reserve funds returned.
+&emsp;If any guaranty agency returns to the Secretary any reserve funds in excess of the amount required under this subsection or subsection (h), the total amount required to be returned under paragraph (1) shall be reduced by the amount of such excess reserve funds returned.
 
 #### (5) Definition of reserve funds
 
@@ -331,6 +331,8 @@ The Secretary shall, within 30 days after July 23, 1992, pay the full amount of 
 &emsp;&emsp;(B) does not include buildings, equipment, or other nonliquid assets.
 
 (Pub. L. 89–329, title IV, §422, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1354; amended Pub. L. 100–203, title III, §§3001(a), 3002(a), Dec. 22, 1987, 101 Stat. 1330–36, 1330–38; Pub. L. 102–325, title IV, §§412, 416(p)(8), July 23, 1992, 106 Stat. 511, 527; Pub. L. 103–66, title IV, §§4041(a), (2)(A), 4042, Aug. 10, 1993, 107 Stat. 354, 357; Pub. L. 103–208, §2(c)(1), Dec. 20, 1993, 107 Stat. 2460; Pub. L. 105–33, title VI, §6101(a), Aug. 5, 1997, 111 Stat. 648; Pub. L. 105–244, title IV, §412, Oct. 7, 1998, 112 Stat. 1673.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -371,6 +373,8 @@ Subsecs. (e), (f). Pub. L. 102–325, §412(2), added subsecs. (e) and (f).
 <b>1987</b>—Subsec. (e). Pub. L. 100–203, §3002(a), struck out subsec. (e) which related to reduction of excess cash reserves.
 
 Pub. L. 100–203, §3001(a), added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

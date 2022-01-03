@@ -22,7 +22,7 @@ For purposes of this part, except as otherwise provided in this section, the ter
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of applying paragraph (1) with respect to any issue, the outstanding tax-exempt nonhospital bonds of any organization which is a test-period beneficiary with respect to such issue is the aggregate amount of tax-exempt bonds referred to in subparagraph (B)—
+&emsp;&emsp;For purposes of applying paragraph (1) with respect to any issue, the outstanding tax-exempt nonhospital bonds of any organization which is a test-period beneficiary with respect to such issue is the aggregateamount of tax-exempt bonds referred to in subparagraph (B)—
 
 &emsp;&emsp;&emsp;(i) which are allocated to such organization, and
 
@@ -122,7 +122,7 @@ For purposes of this section, the term "qualified hospital bond" means any bond 
 
 #### (B) Exception
 
-&emsp;&emsp;For purposes of subparagraph (A), clause (ii) of section 47(c)(1)(B) shall not apply, but the Secretary may extend the 24-month period in section 47(c)(1)(B)(i) where appropriate due to circumstances not within the control of the owner.
+&emsp;&emsp;For purposes of subparagraph (A), clause (ii) of section 47(c)(1)(B) shall not apply, butthe Secretary may extend the 24-month period in section 47(c)(1)(B)(i) where appropriate due to circumstances not within the control of the owner.
 
 #### (e) Election out
 
@@ -133,6 +133,8 @@ This section shall not apply to an issue if—
 &emsp;(2) such issue is an issue of exempt facility bonds, or qualified redevelopment bonds, to which section 146 applies.
 
 (Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2629; amended Pub. L. 100–647, title I, §1013(a)(6)–(8), title V, §5053(a), Nov. 10, 1988, 102 Stat. 3538, 3677; Pub. L. 101–239, title VII, §7815(f), Dec. 19, 1989, 103 Stat. 2419; Pub. L. 101–508, title XI, §11813(b)(7), Nov. 5, 1990, 104 Stat. 1388–551; Pub. L. 105–34, title II, §222, Aug. 5, 1997, 111 Stat. 818; Pub. L. 115–97, title I, §13402(b)(2), Dec. 22, 2017, 131 Stat. 2134.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -161,6 +163,8 @@ Subsec. (b)(2)(C)(i). Pub. L. 100–647, §1013(a)(7), substituted "subparagraph
 Subsec. (b)(4). Pub. L. 100–647, §1013(a)(8), substituted "subparagraphs (C), (D), and (E)" for "subparagraphs (C) and (D)".
 
 Subsecs. (d), (e). Pub. L. 100–647, §5053(a), added subsec. (d) and redesignated former subsec. (d) as (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 
@@ -214,5 +218,5 @@ Refundings.—The amendments made by this section shall not apply to any bond is
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items ofincome, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 

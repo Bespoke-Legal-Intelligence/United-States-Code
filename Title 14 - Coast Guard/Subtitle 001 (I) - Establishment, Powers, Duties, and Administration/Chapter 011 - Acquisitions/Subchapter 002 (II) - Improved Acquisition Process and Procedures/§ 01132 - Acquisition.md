@@ -24,7 +24,7 @@ Submission Required Before Proceeding.—Any Coast Guard Level 1 or Level 2 acqu
 
 &emsp;(3) The anticipated acquisition project or program baseline and acquisition unit cost for the capability or asset to be acquired under the project or program.
 
-&emsp;(4) A detailed schedule for the acquisition process showing when all capability and assetacquisitions are to be completed and when all acquired capabilities and assets are to be initially and fully deployed.
+&emsp;(4) A detailed schedule for the acquisition process showing when all capability and asset acquisitions are to be completed and when all acquired capabilities and assets are to be initially and fully deployed.
 
 (c)
 

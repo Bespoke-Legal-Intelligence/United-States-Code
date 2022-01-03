@@ -34,5 +34,35 @@ In this subchapter:
 
 &emsp;The term "obligation" means the loan or other debt obligation that is guaranteed under this section.
 
-(Pub. L. 109–58, title XVII, §1701, Aug. 8, 2005, 119 Stat. 1117.)
+#### (6) State
+
+&emsp;The term "State" has the meaning given the term in section 6802 of this title.
+
+#### (7) State energy financing institution
+
+#### (A) In general
+
+&emsp;&emsp;The term "State energy financing institution" means a quasi-independent entity or an entity within a State agency or financing authority established by a State—
+
+&emsp;&emsp;&emsp;(i) to provide financing support or credit enhancements, including loan guarantees and loan loss reserves, for eligible projects; and
+
+&emsp;&emsp;&emsp;(ii) to create liquid markets for eligible projects, including warehousing and securitization, or take other steps to reduce financial barriers to the deployment of existing and new eligible projects.
+
+#### (B) Inclusion
+
+&emsp;&emsp;The term "State energy financing institution" includes an entity or organization established to achieve the purposes described in clauses (i) and (ii) of subparagraph (A) by an Indian Tribal entity or an Alaska Native Corporation.
+
+(Pub. L. 109–58, title XVII, §1701, Aug. 8, 2005, 119 Stat. 1117; Pub. L. 117–58, div. D, title IV, §40401(c)(1), Nov. 15, 2021, 135 Stat. 1037.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2021</b>—Pars. (6), (7). Pub. L. 117–58 added pars. (6) and (7).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Wage Rate Requirements
+
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of this title.
 

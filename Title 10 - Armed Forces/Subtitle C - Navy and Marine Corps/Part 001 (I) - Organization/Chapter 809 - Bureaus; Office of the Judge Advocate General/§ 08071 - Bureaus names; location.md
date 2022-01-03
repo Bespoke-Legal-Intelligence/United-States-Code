@@ -24,6 +24,8 @@ R.S. 419 (less applicability to distribution of business among bureaus); July 19
 
 The bureaus are listed alphabetically for convenience. This listing has no effect on the precedence of the bureaus.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 8071, act Aug. 10, 1956, ch. 1041, 70A Stat. 495, provided for appointment of a female Air Force officer in temporary grade of colonel, prior to repeal by Pub. L. 90–130, §1(25), Nov. 8, 1967, 81 Stat. 382.
@@ -35,6 +37,8 @@ A prior section 8071, act Aug. 10, 1956, ch. 1041, 70A Stat. 495, provided for a
 <b>1966</b>—Pub. L. 89–718 struck out cls. (3) to (6) which related to the Bureau of Naval Weapons, the Bureau of Ships, the Bureau of Supplies and Accounts, and the Bureau of Yards and Docks, respectively.
 
 <b>1959</b>—Pub. L. 86–174 inserted reference to Bureau of Naval Weapons and struck out reference to Bureau of Aeronautics and Bureau of Ordnance.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

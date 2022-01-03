@@ -2,7 +2,7 @@
 
 #### (a) Priority
 
-In the processing of applications for assistance, priority and immediate consideration shall be given by the head of the appropriate Federal agency, during such period as the President shall prescribe, to applications from public bodies situated in areas affected by major disasters under the following Acts:
+In the processing of applications for assistance, priority and immediate consideration shall be given by the head of the appropriateFederal agency, during such period as the President shall prescribe, to applications from public bodies situated in areas affected by major disasters under the following Acts:
 
 &emsp;(1) The United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\] for the provision of low-income housing.
 
@@ -23,6 +23,8 @@ In the processing of applications for assistance, priority and immediate conside
 In the obligation of discretionary funds or funds which are not allocated among the States or political subdivisions of a State, the Secretary of Housing and Urban Development and the Secretary of Commerce shall give priority to applications for projects for major disaster areas.
 
 (Pub. L. 93–288, title III, §310, as added Pub. L. 100–707, title I, §105(g), Nov. 23, 1988, 102 Stat. 4691.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

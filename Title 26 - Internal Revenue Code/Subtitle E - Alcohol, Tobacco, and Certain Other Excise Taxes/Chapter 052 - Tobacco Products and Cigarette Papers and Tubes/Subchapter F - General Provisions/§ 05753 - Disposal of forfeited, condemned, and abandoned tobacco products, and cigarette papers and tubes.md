@@ -4,6 +4,8 @@ If it appears that any forfeited, condemned, or abandoned tobacco products, or c
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 716; Pub. L. 85–859, title II, §202, Sept. 2, 1958, 72 Stat. 1425; Pub. L. 89–44, title V, §502(b)(11), June 21, 1965, 79 Stat. 152; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary".
@@ -11,6 +13,8 @@ If it appears that any forfeited, condemned, or abandoned tobacco products, or c
 <b>1965</b>—Pub. L. 89–44 struck out references to tobacco materials wherever appearing in heading and text.
 
 <b>1958</b>—Pub. L. 85–859 substituted "tobacco products, cigarette papers and tubes" for "articles" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1965 Amendment
 

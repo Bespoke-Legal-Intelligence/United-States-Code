@@ -64,11 +64,13 @@ Penalties for Violations.—The regulations prescribed under subsection (a) shal
 
 &emsp;&emsp;(A) for the reimbursement of charges for unauthorized or erroneous purchases, in appropriate cases; and
 
-&emsp;&emsp;(B) for appropriate adverse personnel actions or other punishment to be imposed in cases in which employees of the Department of Defense violate such regulations or are negligent or engage in misuse, abuse, or fraud with respect to a purchase card, including removal in appropriate cases; and
+&emsp;&emsp;(B) for appropriate adverse personnel actions or other punishment to be imposed in cases in which employees of the Department of Defense violate such regulations or are negligent or engage in misuse, abuse, orfraud with respect to a purchase card, including removal in appropriate cases; and
 
 &emsp;(2) provide that a violation of such regulations by a person subject to chapter 47 of this title (the Uniform Code of Military Justice) is punishable as a violation of section 892 of this title (article 92 of the Uniform Code of Military Justice).
 
 (Added Pub. L. 106–65, div. A, title IX, §933(a)(1), Oct. 5, 1999, 113 Stat. 728, §2784; amended Pub. L. 107–314, div. A, title X, §1007(a), (b)(1), Dec. 2, 2002, 116 Stat. 2633, 2634; Pub. L. 110–417, \[div. A\], title X, §1003(a), Oct. 14, 2008, 122 Stat. 4582; Pub. L. 112–194, §2(b), Oct. 5, 2012, 126 Stat. 1447; renumbered §4754, Pub. L. 116–283, div. A, title XVIII, §1864(b), Jan. 1, 2021, 134 Stat. 4279.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -88,7 +90,65 @@ Another section 4781, added Pub. L. 115–31, div. N, title VI, §602(a), May 5,
 
 <b>2021</b>—Pub. L. 116–283 renumbered section 2784 of this title as this section.
 
+<b>2012</b>—Subsec. (b)(2) to (15). Pub. L. 112–194 added pars. (2), (11) to (13), and (15) and redesignated former pars. (2) to (7) and (8) as (3) to (8) and (14), respectively.
+
+<b>2008</b>—Subsec. (c)(1). Pub. L. 110–417 substituted "provide—" for "provide", added subpar. (A), and substituted "(B) for" for "for".
+
+<b>2002</b>—Pub. L. 107–314, §1007(b)(1)(A), substituted "purchase" for "credit" in section catchline.
+
+Subsec. (a). Pub. L. 107–314, §1007(a)(1), (b)(1)(B), (C), substituted "Purchase" for "Credit" in heading and "purchase" for "credit" in two places in text and struck out ", acting through the Under Secretary of Defense (Comptroller)," after "Secretary of Defense".
+
+Subsec. (b)(1) to (6). Pub. L. 107–314, §1007(b)(1)(C), substituted "purchase" for "credit" wherever appearing.
+
+Subsec. (b)(7) to (10). Pub. L. 107–314, §1007(a)(2), added pars. (7) to (10).
+
+Subsec. (c). Pub. L. 107–314, §1007(a)(2), added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2021 Amendment
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+#### Regulations
+
+Pub. L. 106–65, div. A, title IX, §933(b)(1), Oct. 5, 1999, 113 Stat. 730, provided that: "Regulations under section 2784 of title 10, United States Code \[now 10 U.S.C. 4754\], as added by subsection (a), shall be prescribed not later than 180 days after the date of the enactment of this Act \[Oct. 5, 1999\]."
+
+#### Crediting of Refunds
+
+Pub. L. 110–116, div. A, title VIII, §8067, Nov. 13, 2007, 121 Stat. 1329, provided that: "Beginning in the current fiscal year and hereafter, refunds attributable to the use of the Government travel card, refunds attributable to the use of the Government Purchase Card and refunds attributable to official Government travel arranged by Government Contracted Travel Management Centers may be credited to operation and maintenance, and research, development, test and evaluation accounts of the Department of Defense which are current when the refunds are received."
+
+#### Government Charge Card Accounts: Limitation on Number; Requirements for Issuance; Disciplinary Action for Misuse; Report
+
+Pub. L. 107–248, title VIII, §8149, Oct. 23, 2002, 116 Stat. 1572, as amended by Pub. L. 108–87, title VIII, §8144, Sept. 30, 2003, 117 Stat. 1108, provided that:
+
+"(a)
+
+Limitation on Number of Government Charge Card Accounts during Fiscal Year 2003.—The total number of accounts for government purchase charge cards and government travel charge cards for Department of Defense personnel during fiscal year 2003 may not exceed 1,500,000 accounts.
+
+"(b)
+
+Requirement for Creditworthiness for Issuance of Government Charge Card.—(1) The Secretary of Defense shall evaluate the creditworthiness of an individual before issuing the individual a government purchase charge card or government travel charge card.
+
+"(2) An individual may not be issued a government purchase charge card or government travel charge card if the individual is found not credit worthy as a result of the evaluation under paragraph (1).
+
+"(3) This subsection shall remain in effect for fiscal year 2004.
+
+"(c)
+
+Disciplinary Action for Misuse of Government Charge Card.—(1) The Secretary shall establish guidelines and procedures for disciplinary actions to be taken against Department personnel for improper, fraudulent, or abusive use of government purchase charge cards and government travel charge cards.
+
+"(2) The guidelines and procedures under this subsection shall include appropriate disciplinary actions for use of charge cards for purposes, and at establishments, that are inconsistent with the official business of the Department or with applicable standards of conduct.
+
+"(3) The disciplinary actions under this subsection may include—
+
+&emsp;"(A) the review of the security clearance of the individual involved; and
+
+&emsp;"(B) the modification or revocation of such security clearance in light of the review.
+
+"(4) The guidelines and procedures under this subsection shall apply uniformly among the Armed Forces and among the elements of the Department.
+
+"(d)
+
+Report.—Not later than June 30, 2003, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services of the Senate and the House of Representatives and Subcommitteeson Defense of the Committees on Appropriations of the Senate and the House of Representatives\] a report on the implementation of the requirements and limitations in this section, including the guidelines and procedures established under subsection (c)."
 

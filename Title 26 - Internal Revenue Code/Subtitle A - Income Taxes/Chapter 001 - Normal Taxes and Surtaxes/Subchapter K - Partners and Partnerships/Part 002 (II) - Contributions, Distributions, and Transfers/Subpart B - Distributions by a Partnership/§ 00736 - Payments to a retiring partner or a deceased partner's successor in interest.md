@@ -32,6 +32,8 @@ Payments made in liquidation of the interest of a retiring partner or a deceased
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 248; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title VII, §701(u)(13)(B), Nov. 6, 1978, 92 Stat. 2918; Pub. L. 103–66, title XIII, §13262(a), (b)(2)(B), Aug. 10, 1993, 107 Stat. 541.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1993</b>—Subsec. (b)(3). Pub. L. 103–66, §13262(a), added par. (3).
@@ -41,6 +43,8 @@ Subsec. (c). Pub. L. 103–66, §13262(b)(2)(B), struck out heading and text of 
 <b>1978</b>—Subsec. (c). Pub. L. 95–600 added subsec. (c).
 
 <b>1976</b>—Subsec. (b)(1). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1993 Amendment
 
@@ -56,5 +60,5 @@ Binding contract exception.—The amendments made by this section shall not appl
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–600 applicable to transfers beginning after Oct. 9, 1975, and to sales, exchanges,and distributions taking place after Oct. 9, 1975, see section 701(u)(13)(C) of Pub. L. 95–600, set out as a note under section 751 of this title.
+Amendment by Pub. L. 95–600 applicable to transfers beginning after Oct. 9, 1975, and to sales, exchanges, and distributions taking place after Oct. 9, 1975, see section 701(u)(13)(C) of Pub. L. 95–600, set out as a note under section 751 of this title.
 

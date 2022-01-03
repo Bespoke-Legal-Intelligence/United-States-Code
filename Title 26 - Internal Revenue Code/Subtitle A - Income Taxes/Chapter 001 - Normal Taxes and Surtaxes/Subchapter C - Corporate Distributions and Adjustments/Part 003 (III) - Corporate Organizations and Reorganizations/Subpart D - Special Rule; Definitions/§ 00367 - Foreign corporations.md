@@ -136,6 +136,8 @@ To the extent provided in regulations, if a United States person transfers prope
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 119; Pub. L. 91–681, §1(a), Jan. 12, 1971, 84 Stat. 2065; Pub. L. 94–455, title X, §1042(a), Oct. 4, 1976, 90 Stat. 1634; Pub. L. 97–248, title II, §213(d), Sept. 3, 1982, 96 Stat. 465; Pub. L. 98–369, div. A, title I, §131(a)–(c), July 18, 1984, 98 Stat. 662–664; Pub. L. 99–514, title VI, §631(d)(1), title XII, §1231(e)(2), title XVIII, §1810(g)(1), (4), Oct. 22, 1986, 100 Stat. 2272, 2563, 2828, 2829; Pub. L. 100–647, title I, §1006(e)(13)(A), Nov. 10, 1988, 102 Stat. 3402; Pub. L. 101–508, title XI, §11702(a)(1), Nov. 5, 1990, 104 Stat. 1388–514; Pub. L. 105–34, title XI, §1131(b)(2), (4), (5)(A), Aug. 5, 1997, 111 Stat. 979, 980; Pub. L. 106–170, title V, §532(c)(1)(C), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 108–357, title IV, §406(a), Oct. 22, 2004, 118 Stat. 1498; Pub. L. 115–97, title I, §§14102(e)(1), (2), 14221(b)(1), Dec. 22, 2017, 131 Stat. 2194, 2218; Pub. L. 115–141, div. U, title IV, §401(d)(1)(D)(viii)(I), (II), Mar. 23, 2018, 132 Stat. 1207.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Another section 1131(b) of Pub. L. 105–34 enacted section 684 of this title.
@@ -154,7 +156,7 @@ Subsec. (a)(5), (6). Pub. L. 115–97, §14102(e)(1), redesignated pars. (5) and
 
 Subsec. (d)(2)(D). Pub. L. 115–97, §14221(b)(1), added subpar. (D).
 
-<b>2004</b>—Subsec. (d)(2)(C). Pub. L. 108–357 inserted at end "For purposes of applying section 904(d), any suchamount shall be treated in the same manner as if such amount were a royalty."
+<b>2004</b>—Subsec. (d)(2)(C). Pub. L. 108–357 inserted at end "For purposes of applying section 904(d), any such amount shall be treated in the same manner as if such amount were a royalty."
 
 <b>1999</b>—Subsec. (a)(3)(B)(i). Pub. L. 106–170 substituted "section 1221(a)" for "section 1221".
 
@@ -170,7 +172,7 @@ Subsec. (f). Pub. L. 105–34, §1131(b)(2), added subsec. (f).
 
 <b>1986</b>—Subsec. (a)(1). Pub. L. 99–514, §1810(g)(4)(A), struck out "355," after "354,".
 
-Subsec. (d)(2)(A). Pub. L. 99–514, §1231(e)(2), inserted at end "The amounts taken into account under clause (ii) shall be commensurate with the income attributable to the intangible."
+Subsec. (d)(2)(A). Pub. L. 99–514, §1231(e)(2), inserted at end "The amounts taken into account under clause\(ii) shall be commensurate with the income attributable to the intangible."
 
 Subsec. (e). Pub. L. 99–514, §631(d)(1), amended subsec. (e) generally. Prior to amendment, subsec. (e), treatment of distributions described in section 336 or 355, read as follows: "In the case of any distribution described in section 336 or 355 (or so much of section 356 as relates to section 355) by a domestic corporation which is made to a person who is not a United States person, to the extent provided in regulations, gain shall be recognized under principles similar to the principles of this section."
 
@@ -195,6 +197,8 @@ Subsec. (b). Pub. L. 91–681 added subsec. (b).
 Subsec. (c). Pub. L. 91–681 designated as subsec. (c) provisions relating to distribution described in section 355 (or so much of section 356 as relates to section 355).
 
 Subsec. (d). Pub. L. 91–681 added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 
@@ -238,7 +242,7 @@ Special rule for transfer of intangibles.—
 
 &emsp;"(A)
 
-In general.—The amendments made by subsection (e) \[amending this section and section 482 of this title\] shall apply to taxable years beginning after December 31, 1986, but only with respect to transfers after November 16, 1985, or licenses granted after such date (or before such date with respect to property not in existence or owned by the taxpayer on such date). In the case of any transfer (or license) which is notto a foreign person, the preceding sentence shall be applied by substituting 'August 16, 1986' for 'November 16, 1985'.
+In general.—The amendments made by subsection (e) \[amending this section and section 482 of this title\] shall apply to taxable years beginning after December 31, 1986, but only with respect to transfers after November 16, 1985, or licenses granted after such date (or before such date with respect to property not in existence or owned by the taxpayer on such date). In the case of any transfer (or license) which is not to a foreign person, the preceding sentence shall be applied by substituting 'August 16, 1986' for 'November 16, 1985'.
 
 &emsp;"(B)
 
@@ -340,5 +344,5 @@ Pub. L. 100–647, title I, §1006(e)(13)(C), Nov. 10, 1988, 102 Stat. 3402, pro
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

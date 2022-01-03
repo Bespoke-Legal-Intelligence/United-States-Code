@@ -24,7 +24,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;&emsp;&emsp;(ii) biofuel derived from sugar and starch (other than ethanol derived from corn kernel starch);
 
-&emsp;&emsp;&emsp;(iii) biofuel derived from waste material, including crop residue, other vegetative waste material, animal waste, food waste, and yard waste;
+&emsp;&emsp;&emsp;(iii) biofuel derived from waste material, including crop residue, other vegetativewaste material, animal waste, food waste, and yard waste;
 
 &emsp;&emsp;&emsp;(iv) diesel-equivalent fuel derived from renewable biomass, including vegetable oil and animal fat;
 
@@ -128,7 +128,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) large-tree retention of subsection (f) of that section; or
 
-&emsp;&emsp;(B) any organic matter that is available on a renewable or recurring basis from non-Federal land or land belonging to an Indian or Indian tribe that is held in trust by the United States or subject to a restrictionagainst alienation imposed by the United States, including—
+&emsp;&emsp;(B) any organic matter that is available on a renewable or recurring basis from non-Federal land or land belonging to an Indian or Indian tribe that is held in trust by the United States or subject to a restriction against alienation imposed by the United States, including—
 
 &emsp;&emsp;&emsp;(i) renewable plant material, including—
 
@@ -158,7 +158,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;The term "renewable energy" means energy derived from—
 
-&emsp;&emsp;(A) a wind, solar, renewable biomass, ocean (including tidal, wave, current, and thermal), geothermal, or hydroelectric source; or
+&emsp;&emsp;(A) a wind, solar, renewable biomass, ocean (including tidal, wave, current, andthermal), geothermal, or hydroelectric source; or
 
 &emsp;&emsp;(B) hydrogen derived from renewable biomass or water using an energy source described in subparagraph (A).
 
@@ -185,6 +185,8 @@ Except as otherwise provided, in this chapter:
 &emsp;The term "Secretary" means the Secretary of Agriculture.
 
 (Pub. L. 107–171, title IX, §9001, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1303, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2064; amended Pub. L. 113–79, title IX, §9001, Feb. 7, 2014, 128 Stat. 926; Pub. L. 115–334, title IX, §9001, Dec. 20, 2018, 132 Stat. 4883.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -220,6 +222,8 @@ Par. (16). Pub. L. 113–79, §9001(4), added par. (16).
 
 Par. (17). Pub. L. 113–79, §9001(1), redesignated par. (14) as (17).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
@@ -231,6 +235,8 @@ Pub. L. 108–199, div. A, title VII, §778(a), Jan. 23, 2004, 118 Stat. 41, pro
 #### Biomass Research and Development
 
 Pub. L. 106–224, title III, June 20, 2000, 114 Stat. 428; as amended by Pub. L. 107–171, title IX, §9008, May 13, 2002, 116 Stat. 483; Pub. L. 108–148, title II, §201, Dec. 3, 2003, 117 Stat. 1901; Pub. L. 109–58, title IX, §941, Aug. 8, 2005, 119 Stat. 873, known as the Biomass Research and Development Act of 2000, and formerly set out as a note under this section, provided temporary authority for the Secretaries of Agriculture and Energy to promote biomass research and development. As amended by Pub. L. 109–58, the program became permanent, and title III of Pub. L. 106–224 was transferred to chapter 112 (§8601 et seq.) of this title. Subsequently, title III of Pub. L. 106–224 was repealed by Pub. L. 110–246, title IX, §9001(b), June 18, 2008, 122 Stat. 2095.
+
+#### <b>Executive Documents</b>
 
 #### Biofuels And Rural Economic Development
 

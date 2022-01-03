@@ -6,7 +6,7 @@ To determine whether covered merchandise is being entered into the customs terri
 
 &emsp;(1) shall exercise all existing authorities to collect information needed to make the determination; and
 
-&emsp;(2) may collect such additional information as is necessary to make the determination through such methods as the Commissionerconsiders appropriate, including by issuing questionnaires with respect to the entry or entries at issue to—
+&emsp;(2) may collect such additional information as is necessary to make the determination through such methods as the Commissioner considers appropriate, including by issuing questionnaires with respect to the entry or entries at issue to—
 
 &emsp;&emsp;(A) a person who filed an allegation with respect to the covered merchandise;
 
@@ -34,7 +34,7 @@ To determine whether covered merchandise is being entered into the customs terri
 
 #### (C) Application
 
-&emsp;&emsp;An inference described in subparagraph (A) may be used under that subparagraph with respect to a person described in clause (ii) or (iii) of subparagraph (B) without regard to whether another person involved in the same transaction or transactions under examination has provided the information sought by the Secretary, such as import or export documentation.
+&emsp;&emsp;An inference described in subparagraph (A) may be used under that subparagraph withrespect to a person described in clause (ii) or (iii) of subparagraph (B) without regard to whether another person involved in the same transaction or transactions under examination has provided the information sought by the Secretary, such as import or export documentation.
 
 #### (2) Adverse inference described
 

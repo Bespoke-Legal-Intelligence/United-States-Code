@@ -10,6 +10,8 @@ Any offense described in subsection (a) is a class A misdemeanor punishable by a
 
 (Pub. L. 104–43, title I, §109, Nov. 3, 1995, 109 Stat. 375.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective 120 days after Nov. 3, 1995, see section 111 of Pub. L. 104–43, set out as a note under section 5501 of this title.

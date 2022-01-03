@@ -86,7 +86,7 @@ The Federal Trade Commission, with the concurrence of the Assistant Attorney Gen
 
 #### (e) Additional information; waiting period extensions
 
-(1)(A) The Federal Trade Commission or the Assistant Attorney General may, prior to the expiration of the 30-day waiting period (or in the case of a cash tender offer, the 15-day waiting period) specified in subsection (b)(1) of this section, require the submission of additional information or documentary material relevant to the proposed acquisition, from a person required to file notification with respect to such acquisition under subsection (a) of this section prior to the expiration of the waiting period specified in subsection (b)(1) of this section, or from any officer, director, partner, agent, or employee of such person.
+(1)(A) The Federal Trade Commission or the Assistant Attorney General may, prior to the expiration of the 30-day waiting period (or in the case of a cash tender offer, the 15-day waiting period) specified in subsection (b)(1) of this section, require the submission of additional information or documentary material relevant to the proposed acquisition, from a person required tofile notification with respect to such acquisition under subsection (a) of this section prior to the expiration of the waiting period specified in subsection (b)(1) of this section, or from any officer, director, partner, agent, or employee of such person.
 
 (B)(i) The Assistant Attorney General and the Federal Trade Commission shall each designate a senior official who does not have direct responsibility for the review of any enforcement recommendation under this section concerning the transaction at issue, to hear any petition filed by such person to determine—
 
@@ -108,7 +108,7 @@ The Federal Trade Commission, with the concurrence of the Assistant Attorney Gen
 
 &emsp;(III) the effects of such reforms.
 
-(2) The Federal Trade Commission or the Assistant Attorney General, in its or his discretion, may extend the 30-day waiting period (or in the case of a cash tender offer, the 15-day waiting period) specified in subsection (b)(1) of this section for an additional period of not more than 30 days (or in the case of a cash tender offer, 10 days) after the date on which the Federal Trade Commission or the Assistant Attorney General, as the case may be, receives from any person to whom a request is made under paragraph (1), or in the case of tender offers, the acquiring person, (A) all the information and documentary material required to be submitted pursuant to such a request, or (B) if such request is not fully complied with, the information and documentary material submitted and a statement of the reasons for such noncompliance.Such additional period may be further extended only by the United States district court, upon an application by the Federal Trade Commission or the Assistant Attorney General pursuant to subsection (g)(2).
+(2) The Federal Trade Commission or the Assistant Attorney General, in its or his discretion, may extend the 30-day waiting period (or in the case of a cash tender offer, the 15-day waiting period) specified in subsection (b)(1) of this section for an additional period of not more than 30 days (or in the case of a cash tender offer, 10 days) after the date on which the Federal Trade Commission or the Assistant Attorney General, as the case may be, receives from any person to whom a request is made under paragraph (1), or in the case of tender offers, the acquiring person, (A) all the information and documentary material required to be submitted pursuant to such a request, or (B) if such request is not fully complied with, the information and documentary material submitted and a statement of the reasons for such noncompliance. Such additional period may be further extended only by the United States district court, upon an application by the Federal Trade Commission or the Assistant Attorney General pursuant to subsection (g)(2).
 
 #### (f) Preliminary injunctions; hearings
 
@@ -146,6 +146,8 @@ If the end of any period of time provided in this section falls on a Saturday, S
 
 (Oct. 15, 1914, ch. 323, §7A, as added Pub. L. 94–435, title II, §201, Sept. 30, 1976, 90 Stat. 1390; amended Pub. L. 98–620, title IV, §402(10)(A), Nov. 8, 1984, 98 Stat. 3358; Pub. L. 101–73, title XII, §1214, Aug. 9, 1989, 103 Stat. 529; Pub. L. 106–102, title I, §133(c), Nov. 12, 1999, 113 Stat. 1383; Pub. L. 106–553, §1(a)(2) \[title VI, §630(a), (c), (d)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–108, 2762A–110.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The antitrust laws, referred to in subsecs. (c), (d), are defined in section 12 of this title.
@@ -158,7 +160,7 @@ The Antitrust Civil Process Act, referred to in subsec. (i)(2), is Pub. L. 87–
 
 #### Codification
 
-December 21, 2000, referred to in subsec. (e)(1)(B), was in the original "the date of the enactment of this Act" which was translated as meaning the date of enactmentof Pub. L. 106–553, which enacted subsec. (e)(1)(B), to reflect the probable intent of Congress.
+December 21, 2000, referred to in subsec. (e)(1)(B), was in the original "the date of the enactment of this Act" which was translated as meaning the date of enactment of Pub. L. 106–553, which enacted subsec. (e)(1)(B), to reflect the probable intent of Congress.
 
 Subsection (j), which required the Federal Trade Commission, with the concurrence of the Assistant Attorney General, to report annually to Congress on the operation of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 172 of House Document No. 103–7.
 
@@ -193,6 +195,8 @@ Subsec. (c)(8). Pub. L. 106–102, §133(c)(2), inserted before semicolon at end
 Subsec. (c)(8). Pub. L. 101–73, §1214(2), struck out reference to section 1726 or 1730a(e) of title 12.
 
 <b>1984</b>—Subsec. (f)(2). Pub. L. 98–620 struck out designation "(A)" before "upon the filing", and struck out subpar. (B) which had provided that if the Federal Trade Commission or the Assistant Attorney General certified that he or it believed that the public interest required relief pendente lite pursuant to this subsection, the motion for a preliminary injunction had to be set down for hearing by the district judge so designated at the earliest practicable time, would take precedence over all matters except older matters of the same character and trials pursuant to section 3161 of title 18, and had to be in every way expedited.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

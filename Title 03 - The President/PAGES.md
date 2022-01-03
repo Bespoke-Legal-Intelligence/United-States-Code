@@ -1,6 +1,6 @@
 # Printed pages - Title 03 - The President
 
-GPO's 2020 edition (laws in effect as of 2021-01-13), from its printed page marks. The exact position of
+GPO's 2021 edition (laws in effect as of 2022-01-03), from its printed page marks. The exact position of
 every mark is in `_page-maps/USCODE-title3.json`. Page numbers belong to the printed edition and change
 from edition to edition; the section files hold the text only.
 
@@ -32,8 +32,8 @@ from edition to edition; the section files hold the text only.
 | [Chapter 002 - Office and Compensation of President](Chapter%20002%20-%20Office%20and%20Compensation%20of%20President/README.md) | 7–16 |
 | [&sect; 00101 - Commencement of term of office](Chapter%20002%20-%20Office%20and%20Compensation%20of%20President/%C2%A7%2000101%20-%20Commencement%20of%20term%20of%20office.md) | 16–17 |
 | [&sect; 00102 - Compensation of the President](Chapter%20002%20-%20Office%20and%20Compensation%20of%20President/%C2%A7%2000102%20-%20Compensation%20of%20the%20President.md) | 17–24 |
-| [&sect; 00103 - Traveling expenses](Chapter%20002%20-%20Office%20and%20Compensation%20of%20President/%C2%A7%2000103%20-%20Traveling%20expenses.md) | 24–25 |
-| [&sect; 00104 - Salary of the Vice President](Chapter%20002%20-%20Office%20and%20Compensation%20of%20President/%C2%A7%2000104%20-%20Salary%20of%20the%20Vice%20President.md) | 25–26 |
+| [&sect; 00103 - Traveling expenses](Chapter%20002%20-%20Office%20and%20Compensation%20of%20President/%C2%A7%2000103%20-%20Traveling%20expenses.md) | 24 |
+| [&sect; 00104 - Salary of the Vice President](Chapter%20002%20-%20Office%20and%20Compensation%20of%20President/%C2%A7%2000104%20-%20Salary%20of%20the%20Vice%20President.md) | 24–26 |
 | [&sect; 00105 - Assistance and services for the President](Chapter%20002%20-%20Office%20and%20Compensation%20of%20President/%C2%A7%2000105%20-%20Assistance%20and%20services%20for%20the%20President.md) | 26–27 |
 | [&sect; 00106 - Assistance and services for the Vice President](Chapter%20002%20-%20Office%20and%20Compensation%20of%20President/%C2%A7%2000106%20-%20Assistance%20and%20services%20for%20the%20Vice%20President.md) | 27–29 |
 | [&sect; 00107 - Domestic Policy Staff and Office of Administration; personnel](Chapter%20002%20-%20Office%20and%20Compensation%20of%20President/%C2%A7%2000107%20-%20Domestic%20Policy%20Staff%20and%20Office%20of%20Administration%3B%20personnel.md) | 29 |

@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment and Composition.—There is established the National Capital MemorialAdvisory Commission, which shall be composed of—
+Establishment and Composition.—There is established the National Capital Memorial Advisory Commission, which shall be composed of—
 
 &emsp;(1) the Director of the National Park Service;
 

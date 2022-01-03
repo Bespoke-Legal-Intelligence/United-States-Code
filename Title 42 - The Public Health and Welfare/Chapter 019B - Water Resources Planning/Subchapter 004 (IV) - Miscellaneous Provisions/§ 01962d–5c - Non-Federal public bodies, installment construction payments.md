@@ -10,6 +10,8 @@ Upon the request of affected non-Federal public bodies, the Secretary of the Arm
 
 (Pub. L. 93–251, title I, §40, Mar. 7, 1974, 88 Stat. 23.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 1974, and not as part of the Water Resources Planning Act which comprises this chapter.

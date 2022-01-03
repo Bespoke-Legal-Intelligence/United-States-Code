@@ -1,8 +1,10 @@
 ### §300<i>l</i>–1. Requirement regarding medicaid
 
-The Secretary may not make a grant under section 300k of this title for a program in a State unless the State plan under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] for the State includes the screening proceduresspecified in subparagraphs (A) and (B) of section 300m(a)(2) of this title as medical assistance provided under the plan.
+The Secretary may not make a grant under section 300k of this title for a program in a State unless the State plan under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] for the State includes the screening procedures specified in subparagraphs (A) and (B) of section 300m(a)(2) of this title as medical assistance provided under the plan.
 
 (July 1, 1944, ch. 373, title XV, §1502A, as added Pub. L. 102–531, title III, §307, Oct. 27, 1992, 106 Stat. 3495.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

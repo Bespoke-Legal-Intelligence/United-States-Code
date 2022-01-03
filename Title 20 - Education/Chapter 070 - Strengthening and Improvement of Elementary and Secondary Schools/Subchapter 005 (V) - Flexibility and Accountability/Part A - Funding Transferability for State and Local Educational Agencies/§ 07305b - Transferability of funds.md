@@ -100,9 +100,11 @@ A State or local educational agency may not transfer under this part to any othe
 
 #### (2) Consultation
 
-&emsp;Each State educational agency or local educational agency that transfers funds underthis section shall conduct consultations in accordance with section 7881 of this title, if such transfer transfers funds from a program that provides for the participation of students, teachers, or other educational personnel, from private schools.
+&emsp;Each State educational agency or local educational agency that transfers funds under this section shall conduct consultations in accordance with section 7881 of this title, if such transfer transfers funds from a program that provides for the participation of students, teachers, or other educational personnel, from private schools.
 
 (Pub. L. 89–10, title V, §5103, formerly title VI, §6123, as added Pub. L. 107–110, title VI, §601, Jan. 8, 2002, 115 Stat. 1876; renumbered title V, §5103, and amended Pub. L. 114–95, title V, §§5001(a)(1), 5002(3), (5), Dec. 10, 2015, 129 Stat. 2039, 2040.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -191,6 +193,8 @@ Subsec. (c). Pub. L. 114–95, §5002(5)(C), added subsec. (c) and struck out fo
 Subsec. (e)(1). Pub. L. 114–95, §5002(3), substituted "part" for "subpart".
 
 Subsec. (e)(2). Pub. L. 114–95, §5002(5)(D), made technical amendment to reference in original act which appears in text as reference to section 7881 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

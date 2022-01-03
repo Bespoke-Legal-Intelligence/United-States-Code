@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) may submit such annual revisions of the State plan to the Secretary as the eligible agency determines to be necessary; and
 
-&emsp;&emsp;(B) shall, after the second year of the 4-year period, conduct a review of activities assisted under this subchapter and submitany revisions of the State plan that the eligible agency determines necessary to the Secretary.
+&emsp;&emsp;(B) shall, after the second year of the 4-year period, conduct a review of activities assisted under this subchapter and submit any revisions of the State plan that the eligible agency determines necessary to the Secretary.
 
 #### (3) Hearing process
 
@@ -78,7 +78,7 @@
 
 The State plan shall include—
 
-&emsp;(1) a summary of State-supported workforce development activities (including education and training) in the State, including the degree to which the State's career and technical education programs and programs of study arealigned with and address the education and skill needs of the employers in the State identified by the State board;
+&emsp;(1) a summary of State-supported workforce development activities (including education and training) in the State, including the degree to which the State's career and technical education programs and programs of study are aligned with and address the education and skill needs of the employers in the State identified by the State board;
 
 &emsp;(2) the State's strategic vision and set of goals for preparing an educated and skilled workforce (including special populations) and for meeting the skilled workforce needs of employers, including in existing and emerging in-demand industry sectors and occupations as identified by the State, and how the State's career and technical education programs will help to meet these goals;
 
@@ -218,6 +218,8 @@ The State plan shall include—
 
 (Pub. L. 88–210, title I, §122, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 715; amended Pub. L. 113–128, title V, §512(e)(3), July 22, 2014, 128 Stat. 1706; Pub. L. 114–95, title IX, §9215(n)(6), Dec. 10, 2015, 129 Stat. 2169; Pub. L. 115–224, title I, §122, July 31, 2018, 132 Stat. 1600.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(3)(B), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title II of the Act is classified generally to subchapter II (§6601 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
@@ -253,6 +255,8 @@ Subsec. (c)(7)(A)(i). Pub. L. 114–95, §9215(n)(6)(B), substituted "a well-rou
 Subsec. (c)(20). Pub. L. 113–128, §512(e)(3)(B), substituted "the description and information specified in subparagraphs (B) and (C)(iii) of section 3112(b)(2), and, as appropriate, section 3113(b)(3)(A), and section 3151(c), of title 29 concerning the provision of services only for postsecondary students and school dropouts" for "the description and information specified in sections 2822(b)(8) and 2841(c) of title 29 concerning the provision of services only for postsecondary students and school dropouts".
 
 Subsec. (d)(2). Pub. L. 113–128, §512(e)(3)(C), substituted "combined plan" for "501 plan" in heading and "as part of the plan submitted under section 3113 of title 29" for "as part of the plan submitted under section 501 of Public Law 105–220" in text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

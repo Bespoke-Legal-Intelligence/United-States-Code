@@ -6,7 +6,7 @@ In General.—Each owner or operator of a gas or hazardous liquid pipeline facil
 
 (b)
 
-Modification of Existing Programs.—Not later than 12 months after the date of enactment of the Pipeline Safety Improvement Act of 2002, each owner or operator of a gas or hazardous liquid pipeline facility shall review its existing public education program for effectiveness and modify the program as necessary. The completed program shall include activities to advise affected municipalities, school districts, businesses, and residents of pipeline facility locations. The completed program shall be submitted to the Secretary or, in the case of an intrastate pipeline facility operator, the appropriate State agency, and shall be periodically reviewed by the Secretary or, in the case of an intrastate pipeline facility operator, the appropriate State agency.
+Modification of Existing Programs.—Not later than 12 months after the date of enactment of the Pipeline Safety Improvement Act of 2002, each owner or operator of a gas or hazardous liquid pipeline facility shall review its existing public education program for effectiveness and modify the program as necessary. The completed program shall include activities to advise affected municipalities, school districts, businesses, and residents of pipeline facility locations. The completed program shall be submitted to the Secretary or, in the case of an intrastate pipeline facility operator, the appropriate State agency, and shall be periodically reviewed by the Secretary or, in the case of anintrastate pipeline facility operator, the appropriate State agency.
 
 (c)
 
@@ -29,6 +29,8 @@ Historical and Revision Notes
 49 App.:1685(a).
 
 Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, §18(a); added Oct. 11, 1976, Pub. L. 94–477, §8, 90 Stat. 2075; Nov. 30, 1979, Pub. L. 96–129, §104(b), 93 Stat. 992; Oct. 24, 1992, Pub. L. 102–508, §115(a)(1), 106 Stat. 3296.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

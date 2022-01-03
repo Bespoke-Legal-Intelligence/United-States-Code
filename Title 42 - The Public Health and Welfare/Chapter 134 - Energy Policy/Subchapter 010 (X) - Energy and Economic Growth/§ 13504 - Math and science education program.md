@@ -64,13 +64,15 @@ For purposes of this section, the term "qualified entity" means a nonprofit corp
 
 #### (h) Authorization of appropriations
 
-There are authorized to be appropriated such sums as may be necessary, to be derived from section 13503(e) of this title and the Environmental Restoration and Waste Management program, to carry out the purposes of this section.
+There are authorized to be appropriated such sums as may be necessary, to be derived fromsection 13503(e) of this title and the Environmental Restoration and Waste Management program, to carry out the purposes of this section.
 
 (Pub. L. 102–486, title XXII, §2204, Oct. 24, 1992, 106 Stat. 3089.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-Sections 1070d through 1070d–1d of title 20, referred to in subsec. (a), and section 1070d of title 20, referred toin subsec. (b)(1), were repealed by Pub. L. 102–325, title IV, §402(a)(1), July 23, 1992, 106 Stat. 482.
+Sections 1070d through 1070d–1d of title 20, referred to in subsec. (a), and section 1070d of title 20, referred to in subsec. (b)(1), were repealed by Pub. L. 102–325, title IV, §402(a)(1), July 23, 1992, 106 Stat. 482.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

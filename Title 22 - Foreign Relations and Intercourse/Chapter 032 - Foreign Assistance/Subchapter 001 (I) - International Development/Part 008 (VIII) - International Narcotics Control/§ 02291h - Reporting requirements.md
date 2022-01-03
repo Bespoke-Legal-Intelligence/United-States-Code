@@ -26,7 +26,7 @@ Not later than March 1 of each year, the President shall transmit to the Speaker
 
 &emsp;(4) In addition, for each country identified pursuant to paragraph (3),<sup>1</sup> the following:
 
-&emsp;&emsp;(A) A description of the plans, programs, and timetables adopted by such country, including efforts to meet the objectives of theUnited Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances, and a discussion of the adequacy of the legal and law enforcement measures taken and the accomplishments achieved in accord with those plans.
+&emsp;&emsp;(A) A description of the plans, programs, and timetables adopted by such country, including efforts to meet the objectives of the United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances, and a discussion of the adequacy of the legal and law enforcement measures taken and the accomplishments achieved in accord with those plans.
 
 &emsp;&emsp;(B) Whether as a matter of government policy or practice, such country encourages or facilitates the illicit production or distribution of narcotic or psychotropic drugs or other controlled substances or the laundering of proceeds from illegal drug transactions; and whether any senior official of the government of such country engages in, encourages, or facilitates the illicit production or distribution of such drugs or substances, or the laundering of proceeds from illegal drug transactions.
 
@@ -72,7 +72,7 @@ Not later than March 1 of each year, the President shall transmit to the Speaker
 
 &emsp;&emsp;&emsp;(vi) enacted laws for the sharing of seized narcotics assets with other governments;
 
-&emsp;&emsp;&emsp;(vii) cooperated, when requested, with appropriate law enforcement agencies of other governments investigating financial crimes related to narcotics; and
+&emsp;&emsp;&emsp;(vii) cooperated, when requested, with appropriate law enforcement agencies ofother governments investigating financial crimes related to narcotics; and
 
 &emsp;&emsp;&emsp;(viii) addressed the problem on international transportation of illegal-source currency and monetary instruments.
 
@@ -80,7 +80,7 @@ Not later than March 1 of each year, the President shall transmit to the Speaker
 
 &emsp;(8)(A) A separate section that contains the following:
 
-&emsp;&emsp;(i) An identification of the five countries that exported the largest amount of pseudoephedrine, ephedrine, and phenylpropanolamine (including the salts, optical isomers, or salts of optical isomers of suchchemicals, and also including any products or substances containing such chemicals) during the preceding calendar year.
+&emsp;&emsp;(i) An identification of the five countries that exported the largest amount of pseudoephedrine, ephedrine, and phenylpropanolamine (including the salts, optical isomers, or salts of optical isomers of such chemicals, and also including any products or substances containing such chemicals) during the preceding calendar year.
 
 &emsp;&emsp;(ii) An identification of the five countries that imported the largest amount of the chemicals described in clause (i) during the preceding calendar year and have the highest rate of diversion of such chemicals for use in the illicit production of methamphetamine (either in that country or in another country).
 
@@ -99,6 +99,20 @@ Not later than March 1 of each year, the President shall transmit to the Speaker
 &emsp;&emsp;(i) the countries the governments of which have agreed to undertake measures to apply economic or other financial sanctions to foreign traffickers of illicit opioids and a description of those measures; and
 
 &emsp;&emsp;(ii) the countries the governments of which have not agreed to measures described in clause (i), and, with respect to those countries, other measures the Secretary of State recommends that the United States take to apply economic and other financial sanctions to foreign traffickers of illicit opioids.
+
+&emsp;(10) <sup>2</sup> A separate section that contains an identification of all United States Government-supported units funded by the Bureau of International Narcotics and Law Enforcement Affairs and any Bureau-funded operations by such units in which United States law enforcement personnel have been physically present.
+
+&emsp;(10) <sup>2</sup> A separate section that contains the following:
+
+&emsp;&emsp;(A) An identification of the countries, to the extent feasible, that are the most significant sources of illicit fentanyl and fentanyl analogues significantly affecting the United States during the preceding calendar year.
+
+&emsp;&emsp;(B) A description of the extent to which each country identified pursuant to subparagraph (A) has cooperated with the United States to prevent the articles or chemicals described in subparagraph (A) from being exported from such country to the United States.
+
+&emsp;&emsp;(C) A description of whether each country identified pursuant to subparagraph (A) has adopted and utilizes scheduling or other procedures for illicit drugs that are similar in effect to the procedures authorized under title II <sup>1</sup> of the Controlled Substances Act (21 U.S.C. 811 et seq.) for adding drugs and other substances to the controlled substances schedules;
+
+&emsp;&emsp;(D) A description of whether each country identified pursuant to subparagraph (A) is following steps to prosecute individuals involved in the illicit manufacture or distribution of controlled substance analogues (as defined in section 102(32) of the Controlled Substances Act (21 U.S.C. 802(32)) <sup>3</sup>; and
+
+&emsp;&emsp;(E) A description of whether each country identified pursuant to subparagraph (A) requires the registration of tableting machines and encapsulating machines or other measures similar in effect to the registration requirements set forth in part 1310 of title 21, Code of Federal Regulations, and has not made good faith efforts, in the opinion of the Secretary, to improve regulation of tableting machines and encapsulating machines.
 
 #### (b) Annual reports on assistance
 
@@ -122,7 +136,7 @@ Not later than March 1 of each year, the President shall transmit to the Speaker
 
 &emsp;&emsp;(C) list all transfers, which were made by the United States Government during the preceding fiscal year, to a foreign country for narcotics control purposes of any property seized by or otherwise forfeited to the United States Government in connection with narcotics-related activity, including an estimate of the fair market value and physical condition of each item of property transferred.
 
-(Pub. L. 87–195, pt. I, §489, as added Pub. L. 102–583, §5(a), Nov. 2, 1992, 106 Stat. 4917; amended Pub. L. 103–447, title I, §101(f)(1), Nov. 2, 1994, 108 Stat. 4692; Pub. L. 104–66, title I, §1112(c), Dec. 21, 1995, 109 Stat. 724; Pub. L. 109–177, title VII, §722(a), Mar. 9, 2006, 120 Stat. 268; Pub. L. 116–92, div. F, title LXXII, §7217(b), Dec. 20, 2019, 133 Stat. 2269.)
+(Pub. L. 87–195, pt. I, §489, as added Pub. L. 102–583, §5(a), Nov. 2, 1992, 106 Stat. 4917; amended Pub. L. 103–447, title I, §101(f)(1), Nov. 2, 1994, 108 Stat. 4692; Pub. L. 104–66, title I, §1112(c), Dec. 21, 1995, 109 Stat. 724; Pub. L. 109–177, title VII, §722(a), Mar. 9, 2006, 120 Stat. 268; Pub. L. 116–92, div. F, title LXXII, §7217(b), Dec. 20, 2019, 133 Stat. 2269; Pub. L. 117–81, div. E, title LI, §5102(b), div. F, title LXVI, §6610(c), Dec. 27, 2021, 135 Stat. 2344, 2447.)
 
 #### <b>Editorial Notes</b>
 
@@ -134,11 +148,17 @@ Paragraph (3), referred to in subsec. (a)(4) to (7), means par. (3) of subsec. (
 
 Section 7217(a) of the Fentanyl Sanctions Act, referred to in subsec. (a)(9)(A), is section 7217(a) of Pub. L. 116–92, div. F, title LXXII, 133 Stat. 2269, which is not classified to the Code.
 
+The Controlled Substances Act, referred to in subsec. (a)(10)(C), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. Title II of Pub. L. 91–513 does not itself contain a title II, but it does contain a part B, with provisions relating to controlled substance schedules, which is classified generally to part B (§811 et seq.) of subchapter I of chapter 13 of Title 21. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+
 #### Prior Provisions
 
 A prior section 2291h, Pub. L. 87–195, pt. I, §489, as added Pub. L. 100–690, title IV, §4507, Nov. 18, 1988, 102 Stat. 4286, related to permissible uses of aircraft and other equipment, prior to amendment by Pub. L. 102–583, §4(f)(2), Nov. 2, 1992, 106 Stat. 4917, which also transferred subsecs. (a) and (b) to section 2291c(b) and (c) of this title, respectively, and repealed the designation, heading, and subsecs. (c) and (d).
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(10). Pub. L. 117–81, §6610(c), added par. (10) relating to separate section that contains identification of the countries that are the most significant sources of illicit fentanyl and fentanyl analogues.
+
+Pub. L. 117–81, §5102(b), added par. (10) relating to separate section that contains an identification of all United States Government-supported units funded by the Bureau of International Narcotics and Law Enforcement Affairs.
 
 <b>2019</b>—Subsec. (a)(9). Pub. L. 116–92 added par. (9).
 
@@ -166,11 +186,15 @@ Subsec. (d). Pub. L. 103–447, §101(f)(1)(D), redesignated subsec. (d) as (c).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2021 Amendment
+
+Amendment by section 6610(c) of Pub. L. 117–81 effective 90 days after Dec. 27, 2021, see section 6610(e) of Pub. L. 117–81, set out as a note under section 2291 of this title.
+
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Plan To Address Diversion of Precursor Chemicals
 
@@ -187,4 +211,8 @@ Pub. L. 102–583, §6(a), Nov. 2, 1992, 106 Stat. 4932, provided that after Sep
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Two pars. (10) have been enacted.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
 

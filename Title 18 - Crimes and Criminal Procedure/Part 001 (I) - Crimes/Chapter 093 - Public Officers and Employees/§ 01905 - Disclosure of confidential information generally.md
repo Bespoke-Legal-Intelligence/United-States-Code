@@ -8,7 +8,7 @@ Whoever, being an officer or employee of the United States or of any department 
 
 Based on section 176b of title 15, U.S.C., 1940 ed., Commerce and Trade; section 216 of title 18, U.S.C., 1940 ed.; section 1335 of title 19, U.S.C., 1940 ed., Customs Duties (R.S. §3167; Aug. 27, 1894, ch. 349, §24, 28 Stat. 557; Feb. 26, 1926, ch. 27, §1115, 44 Stat. 117; June 17, 1930, ch. 497, title III, §335, 46 Stat. 701; Jan. 27, 1938, ch. 11, §2, 52 Stat. 8).
 
-Section consolidates section 176b of title 15, U.S.C., 1940 ed., Commerce and Trade; section 216 of title 18,U.S.C., 1940 ed., and section 1335 of title 19, U.S.C., 1940 ed., Customs Duties.
+Section consolidates section 176b of title 15, U.S.C., 1940 ed., Commerce and Trade; section 216 of title 18, U.S.C., 1940 ed., and section 1335 of title 19, U.S.C., 1940 ed., Customs Duties.
 
 Words "or of any department or agency thereof" and words "such department or agency" were inserted so as to eliminate any possible ambiguity as to scope of section. (See definition of "department" and "agency" in section 6 of this title.)
 

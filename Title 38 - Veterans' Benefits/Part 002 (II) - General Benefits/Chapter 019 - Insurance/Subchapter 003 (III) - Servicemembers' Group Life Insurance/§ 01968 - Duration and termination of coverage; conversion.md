@@ -4,7 +4,7 @@
 
 &emsp;(1) With respect to a member on active duty or active duty for training under a call or order to duty that does not specify a period of less than 31 days, insurance under this subchapter shall cease as follows:
 
-&emsp;&emsp;(A) 120 days after the separation or release from active duty or active duty for training, unless on the date of such separation or release the member is totally disabled, under criteria established by the Secretary, in which event the insurance shall cease on the earlier of the following dates (but in no event before the end of 120 days after such separation or release):
+&emsp;&emsp;(A) 120 days after the separation or release from active duty or active duty for training, unless on the date of such separation or release the member is totally disabled, under criteria established by the Secretary, in which event the insurance shall cease on the earlier of the following dates (but in noevent before the end of 120 days after such separation or release):
 
 &emsp;&emsp;&emsp;(i) The date on which the insured ceases to be totally disabled.
 
@@ -110,7 +110,7 @@ Subsec. (a)(1) to (3). Pub. L. 104–275, §402(c)(1)(B), (C), substituted a sem
 
 Subsec. (a)(4). Pub. L. 104–275, §402(c)(1)(D)(iv), struck out subpars. (B) and (C) which read as follows:
 
-"(B) unless on the date of such separation or release the member has completed at least twenty years of satisfactory service creditable for retirement purposes under chapter 1223 of title 10 (or under chapter 67 of that title as in effect before the effective date of the Reserve Officer Personnel Management Act) and would upon application be eligible for assignment to or is assigned to the Retired Reserve, in which event the insurance, unless converted to an individual policy under terms and conditions set forth in section 1977(e) of this title, shall, upon timely payment of premiums under terms prescribed by the Secretary directly to the administrative office established under section 1966(b) of this title, continue in force until receipt of the first increment of retirement pay by the member or the member's sixty-first birthday, whichever occurs earlier; or
+"(B) unless on the date of such separation or release the member has completed at least twenty years of satisfactory service creditable for retirement purposes under chapter 1223 of title 10 (or under chapter 67 of that title as in effect before the effective date of the Reserve Officer Personnel Management Act) and would upon application be eligible for assignment to or is assigned to the Retired Reserve, in which event the insurance, unless converted to an individual policy under terms and conditions set forth in section 1977(e) of thistitle, shall, upon timely payment of premiums under terms prescribed by the Secretary directly to the administrative office established under section 1966(b) of this title, continue in force until receipt of the first increment of retirement pay by the member or the member's sixty-first birthday, whichever occurs earlier; or
 
 "(C) unless on the date of such separation or release the member is transferred to the Retired Reserve of a uniformed service under the temporary special retirement authority provided in section 1331a of title 10, in which event the insurance, unless converted to an individual policy under terms and conditions set forth in section 1977(e) of this title, shall, upon timely payment of premiums under terms prescribed by the Secretary directly to the administrative office established under section 1966(b) of this title, continue in force until receipt of the first increment of retirement pay by the member or the member's sixty-first birthday, whichever occurs earlier."
 
@@ -128,7 +128,7 @@ Subsec. (a)(5), (6). Pub. L. 104–275, §402(c)(1)(E), struck out pars. (5) and
 
 Subsec. (b). Pub. L. 104–275, §403(a)(3), substituted "(2) Automatic conversion to Veterans' Group Life Insurance under paragraph (1)" for "Such automatic conversion".
 
-Pub.  L.  104–275,  §403(a)(2), substituted "would cease—" and subpars. (A) and (B) for "would cease, shall be automatically converted to Veterans' Group Life Insurance subject to (1) the timely payment of the initial premium under terms prescribed by the Secretary, and (2) the terms and conditions set forth in section 1977 of this title."
+Pub. L. 104–275, §403(a)(2), substituted "would cease—" and subpars. (A) and (B) for "would cease, shall be automatically converted to Veterans' Group Life Insurance subject to (1) the timely payment of the initial premium under terms prescribed by the Secretary, and (2) the terms and conditions set forth in section 1977 of this title."
 
 Pub. L. 104–275, §403(a)(1), inserted "(1)" after "(b)" at beginning of subsec.
 
@@ -162,7 +162,7 @@ Subsec. (b). Pub. L. 99–576, §701(38)(C), substituted "the" for "he" before "
 
 <b>1974</b>—Subsec. (a). Pub. L. 93–289, §5(a)(1)–(3), inserted in opening provisions "or while the member meets the qualifications set forth in section 765(5)(B) or (C) of this title,", substituted "one hundred and twenty days" for "ninety days" wherever appearing in pars. (2) and (3), and added pars. (4) and (5).
 
-Subsec. (b). Pub. L. 93–289, §5(a)(4), substituted provisions requiring policies of Servicemen's Group Life Insurance to contain a provision automatically converting such policy to Veterans' Group Life Insurance, for provisions which required such policies to contain a provision for conversion to an individual policy of insurance, and inserted sentences providing for the effective date of automatic conversion, prohibiting conversion of Servicemen's Group Life Insurance continued in force under section 768(a)(4)(B) or (5) of this title, andauthorizing conversion by a member whose insurance could be continued in force under section 768(a)(4)(B) of this title, but is not so continued.
+Subsec. (b). Pub. L. 93–289, §5(a)(4), substituted provisions requiring policies of Servicemen's Group Life Insurance to contain a provision automatically converting such policy to Veterans' Group Life Insurance, for provisions which required such policies to contain a provision for conversion to an individual policy of insurance, and inserted sentences providing for the effective date of automatic conversion, prohibiting conversion of Servicemen's Group Life Insurance continued in force under section 768(a)(4)(B) or (5) of this title, and authorizing conversion by a member whose insurance could be continued in force under section 768(a)(4)(B) of this title, but is not so continued.
 
 Subsec. (c). Pub. L. 93–289, §5(a)(5), repealed subsec. (c) which related to conversion by eligible insured persons to policies written by companies participating in the program established by this subchapter.
 

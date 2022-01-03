@@ -1,12 +1,16 @@
 ### §17202. Authorization of appropriations
 
-There are authorized to be appropriated to the Secretary to carry out the programs under thispart $170,000,000 for each of fiscal years 2021 through 2025.
+There are authorized to be appropriated to the Secretary to carry out the programs under this part $170,000,000 for each of fiscal years 2021 through 2025.
 
 (Pub. L. 110–140, title VI, §623, Dec. 19, 2007, 121 Stat. 1684; Pub. L. 116–260, div. Z, title III, §3002(j), Dec. 27, 2020, 134 Stat. 2495.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>2020</b>—Pub. L. 116–260 amended section generally. Prior to amendment, section related to authorization of appropriations for fiscal years 2008 to 2012.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

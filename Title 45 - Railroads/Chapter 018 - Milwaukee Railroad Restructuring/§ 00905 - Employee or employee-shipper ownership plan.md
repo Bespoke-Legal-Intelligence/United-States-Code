@@ -18,7 +18,7 @@
 
 &emsp;(E) the plan contains an assessment of all operating practices, and includes agreements by labor and management to make implementing changes designed to achieve labor productivity increases (which may include changes in work rules to increase productivity) consistent with safe operations and adequate service.
 
-> For purposes of the determinations under this paragraph, adequate financing shall include all sources of private funds, the probable value andpriority of valid claims against the estate, and Federal, State, or local funds available under programs (in existence as of January 1, 1980) which are or will be available to the proponent and which the proponent is likely to obtain.
+> For purposes of the determinations under this paragraph, adequate financing shall include all sources of private funds, the probable value and priority of valid claims against the estate, and Federal, State, or local funds available under programs (in existence as of January 1, 1980) which are or will be available to the proponent and which the proponent is likely to obtain.
 
 #### (b) Submission of findings to bankruptcy court
 

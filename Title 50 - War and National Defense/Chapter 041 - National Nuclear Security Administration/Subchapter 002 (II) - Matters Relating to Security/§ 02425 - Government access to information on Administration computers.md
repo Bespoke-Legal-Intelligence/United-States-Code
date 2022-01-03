@@ -2,7 +2,7 @@
 
 #### (a) Procedures required
 
-The Administrator shall establish procedures to govern access to information on Administration computers. Those procedures shall, at a minimum, provide that any individual who has access to information on an Administration computer shall be required as a condition of such access to provide to the Administrator written consent which permits access by an authorized investigative agency to any Administration computer used in the performance of theduties of such employee during the period of that individual's access to information on an Administration computer and for a period of three years thereafter.
+The Administrator shall establish procedures to govern access to information on Administration computers. Those procedures shall, at a minimum, provide that any individual who has access to information on an Administration computer shall be required as a condition of such access to provide to the Administrator written consent which permits access by an authorized investigative agency to any Administration computer used in the performance of the duties of such employee during the period of that individual's access to information on an Administration computer and for a period of three years thereafter.
 
 #### (b) Expectation of privacy in Administration computers
 
@@ -13,6 +13,8 @@ Notwithstanding any other provision of law (including any provision of law enact
 For purposes of this section, the term "authorized investigative agency" means an agency authorized by law or regulation to conduct a counterintelligence investigation or investigations of persons who are proposed for access to classified information to ascertain whether such persons satisfy the criteria for obtaining and retaining access to such information.
 
 (Pub. L. 106–65, div. C, title XXXII, §3235, Oct. 5, 1999, 113 Stat. 961; Pub. L. 113–66, div. C, title XXXI, §3145(c), Dec. 26, 2013, 127 Stat. 1071.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

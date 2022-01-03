@@ -2,7 +2,7 @@
 
 #### (a) Scope of evaluation
 
-Each State agency or local educational agency that conducts a program under subpart 1 or 2 of this part shall evaluate the program,disaggregating data on participation by gender, race, ethnicity, and age while protecting individual student privacy,,<sup>1</sup> not less than once every 3 years, to determine the program's impact on the ability of participants—
+Each State agency or local educational agency that conducts a program under subpart 1 or 2 of this part shall evaluate the program, disaggregating data on participation by gender, race, ethnicity, and age while protecting individual student privacy,,<sup>1</sup> not less than once every 3 years, to determine the program's impact on the ability of participants—
 
 &emsp;(1) to maintain and improve educational achievement and to graduate from high school in the number of years established by the State under either the four-year adjusted cohort graduation rate or the extended-year adjusted cohort graduation rate, if applicable;
 
@@ -32,6 +32,8 @@ Each State agency and local educational agency shall—
 
 (Pub. L. 89–10, title I, §1431, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1591; amended Pub. L. 114–95, title I, §1401(14), Dec. 10, 2015, 129 Stat. 1905.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 6471, Pub. L. 89–10, title I, §1431, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3600, related to program evaluations, prior to the general amendment of this subchapter by Pub. L. 107–110.
@@ -45,6 +47,8 @@ A prior section 1431 of Pub. L. 89–10 was classified to section 2831 of this t
 Subsec. (a)(1). Pub. L. 114–95, §1401(14)(C), inserted "and to graduate from high school in the number of years established by the State under either the four-year adjusted cohort graduation rate or the extended-year adjusted cohort graduation rate, if applicable" after "educational achievement".
 
 Subsec. (a)(3). Pub. L. 114–95, §1401(14)(D), inserted "or school operated or funded by the Bureau of Indian Education" after "local educational agency".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

@@ -14,6 +14,8 @@ No property may be acquired under this section without the consent of the owner 
 
 (Pub. L. 104–333, div. I, title X, §1006, Nov. 12, 1996, 110 Stat. 4208; Pub. L. 108–352, §17, Oct. 21, 2004, 118 Stat. 1398.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Subsec. (b). Pub. L. 108–352 substituted "subsection (a)" for "subsection (a)(1)".

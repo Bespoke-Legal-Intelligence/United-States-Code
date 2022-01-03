@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(A) being influenced in the performance of any official act;
 
-&emsp;&emsp;(B) being influenced to commit or aid in committing, or to collude in, or allow, any fraud, or make opportunity for the commission of any fraud, on the United States; or
+&emsp;&emsp;(B) being influenced to commit or aid in committing, or to collude in, or allow, anyfraud, or make opportunity for the commission of any fraud, on the United States; or
 
 &emsp;&emsp;(C) being induced to do or omit to do any act in violation of the official duty of such official or person;
 
@@ -154,7 +154,7 @@ Robert F. Kennedy,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Introduction
 
-Public Law 87–849, which came into force January 21, 1963, affected seven statutes which applied to officersand employees of the Government and were generally spoken of as the "conflict of interest" laws. These included six sections of the criminal code, 18 U.S.C. 216, 281, 283, 284, 434 and 1914, and a statute containing no penalties, section 190 of the Revised Statutes (5 U.S.C. 99). Public Law 87–849 (sometimes referred to hereinafter as "the Act") repealed section 190 and one of the criminal statutes, 18 U.S.C. 216, without replacing them.<sup>1</sup> In addition it repealed and supplanted the other five criminal statutes. It is the purpose of this memorandum to summarize the new law and to describe the principal differences between it and the legislation it has replaced.
+Public Law 87–849, which came into force January 21, 1963, affected seven statutes which applied to officers and employees of the Government and were generally spoken of as the "conflict of interest" laws. These included six sections of the criminal code, 18 U.S.C. 216, 281, 283, 284, 434 and 1914, and a statute containing no penalties, section 190 of the Revised Statutes (5 U.S.C. 99). Public Law 87–849 (sometimes referred to hereinafter as "the Act") repealed section 190 and one of the criminal statutes, 18 U.S.C. 216, without replacing them.<sup>1</sup> In addition it repealed and supplanted the other five criminal statutes. It is the purpose of this memorandum to summarize the new law and to describe the principal differences between it and the legislation it has replaced.
 
 The Act accomplished its revisions by enacting new sections 203, 205, 207, 208 and 209 of title 18 of the United States Code and providing that they supplant the above-mentioned sections 281, 283, 284, 434 and 1914 of title 18 respectively.<sup>2</sup> It will be convenient, therefore, after summarizing the principal provisions of the new sections, to examine each section separately, comparing it with its precursor before passing to the next. First of all, however, it is necessary to describe the background and provisions of the new 18 U.S.C. 202(a), which has no counterpart among the statutes formerly in effect.
 
@@ -202,7 +202,7 @@ As appears below, there are a number of exceptions to the prohibitions summarize
 
 United States Code
 
-<i>New 18 U.S.C. 203</i>. Subsection (a) of this section in general prohibits a Member of Congress and an officer or employee of the United States in any branch oragency of the Government from soliciting or receiving compensation for services rendered on behalf of another person before a Government department or agency in relation to any particular matter in which the United States is a party or has a direct and substantial interest. The subsection does not preclude compensation for services rendered on behalf of another in court.
+<i>New 18 U.S.C. 203</i>. Subsection (a) of this section in general prohibits a Member of Congress and an officer or employee of the United States in any branch or agency of the Government from soliciting or receiving compensation for services rendered on behalf of another person before a Government department or agency in relation to any particular matter in which the United States is a party or has a direct and substantial interest. The subsection does not preclude compensation for services rendered on behalf of another in court.
 
 Subsection (a) is essentially a rewrite of the repealed portion of 18 U.S.C. 281. However, subsections (b) and (c) have no counterparts in the previous statutes.
 
@@ -242,7 +242,7 @@ The proviso following subsections (a) and (b) authorizes an agency head, notwith
 
 Federal Register.
 
-Subsections (a) and (b) describe the activities they forbid as being in connection with "particularmatter\[s\] involving a specific party or parties" in which the former officer or employee had participated. The quoted language does not include general rulemaking, the formulation of general policy or standards, or other similar matters. Thus, past participation in or official responsibility for a matter of this kind on behalf of the Government does not disqualify a former employee from representing another person in a proceeding which is governed by the rule or other result of such matter.
+Subsections (a) and (b) describe the activities they forbid as being in connection with "particular matter\[s\] involving a specific party or parties" in which the former officer or employee had participated. The quoted language does not include general rulemaking, the formulation of general policy or standards, or other similar matters. Thus, past participation in or official responsibility for a matter of this kind on behalf of the Government does not disqualify a former employee from representing another person in a proceeding which is governed by the rule or other result of such matter.
 
 Subsection (a) bars permanently a greater variety of actions than subsection (b) bars temporarily. The conduct made unlawful by the former is <i>any action as agent or attorney</i>, while that made unlawful by the latter is a <i>personal appearance as agent or attorney</i>. However, neither subsection precludes postemployment activities which may fairly be characterized as no more than aiding or assisting another.<sup>8</sup> An individual who has left an agency to accept private employment may, for example, immediately perform technical work in his company's plant in relation to a contract for which he had official responsibility—or, for that matter, in relation to one he helped the agency negotiate. On the other hand, he is forbidden for a year, in the first case, to appear personally before the agency as the agent or attorney of his company in connection with a dispute over the terms of the contract. And he may at no time appear personally before the agency or otherwise act as agent or attorney for his company in such dispute if he helped negotiate the contract.
 
@@ -340,5 +340,5 @@ Set forth below are the citations to the legislative history of Public Law 87–
 
 <sup>7</sup> Neither section 203 nor section 205 prevents a special Government employee, during his period of affiliation with the Government, from representing another person before the Government in a particular matter only because it is within his official responsibility. Therefore the inclusion of a <i>former</i> special Government employee within the 1-year postemployment ban of subsection (b) may subject him to a temporary restraint from which he was free prior to the end of his Government service. However, since special Government employees usually do not have "official responsibility," as that term is defined in section 202(b), their inclusion within the 1-year ban will not have a widespread effect.
 
-<sup>8</sup> Subsection (a), as it first appeared in H.R. 8140, the bill which became Public Law 87–849, made it unlawfulfor a former officer or employee to act as agent or attorney for, <i>or aid or assist</i>, anyone in a matter in which he had participated. The House Judiciary Committee struck the underlined words, and the bill became law without them. It should be noted also that the repealed provisions of 18 U.S.C. 283 made the distinction between one's acting as agent or attorney for another and his aiding or assisting another.
+<sup>8</sup> Subsection (a), as it first appeared in H.R. 8140, the bill which became Public Law 87–849, made it unlawful for a former officer or employee to act as agent or attorney for, <i>or aid or assist</i>, anyone in a matter in which he had participated. The House Judiciary Committee struck the underlined words, and the bill became law without them. It should be noted also that the repealed provisions of 18 U.S.C. 283 made the distinction between one's acting as agent or attorney for another and his aiding or assisting another.
 

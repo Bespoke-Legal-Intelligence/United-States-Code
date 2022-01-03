@@ -106,7 +106,7 @@ There shall be allowed as a deduction for the taxable year an amount equal to—
 
 #### (I) Special election to exclude section 965 years
 
-&emsp;&emsp;&emsp;&emsp;If the 5-year carryback period under clause (i)(I) with respect to any net operating loss of a taxpayer includes 1 or more taxable years in which an amount is includible in gross income by reason of section 965(a), the taxpayer may, in lieu of the election otherwise available under paragraph (3), elect under such paragraph to exclude all such taxable years from such carryback period.
+&emsp;&emsp;&emsp;&emsp;If the 5-year carryback period under clause (i)(I) with respect to any net operating loss of a taxpayer includes 1 or more taxable years in which an amount is includible in gross income by reason of section 965(a), the taxpayer may, in lieu of the election otherwise available underparagraph (3), elect under such paragraph to exclude all such taxable years from such carryback period.
 
 #### (II) Time of elections
 
@@ -124,7 +124,7 @@ There shall be allowed as a deduction for the taxable year an amount equal to—
 
 #### (3) Election to waive carryback
 
-&emsp;Any taxpayer entitled to a carryback period under paragraph (1) may elect to relinquishthe entire carryback period with respect to a net operating loss for any taxable year. Such election shall be made in such manner as may be prescribed by the Secretary, and shall be made by the due date (including extensions of time) for filing the taxpayer's return for the taxable year of the net operating loss for which the election is to be in effect. Such election, once made for any taxable year, shall be irrevocable for such taxable year.
+&emsp;Any taxpayer entitled to a carryback period under paragraph (1) may elect to relinquish the entire carryback period with respect to a net operating loss for any taxable year. Such election shall be made in such manner as may be prescribed by the Secretary, and shall be made by the due date (including extensions of time) for filing the taxpayer's return for the taxable year of the net operating loss for which the election is to be in effect. Such election, once made for any taxable year, shall be irrevocable for such taxable year.
 
 #### (c) Net operating loss defined
 
@@ -211,6 +211,8 @@ In the case of an insurance company (as defined in section 816(a)) other than a 
 &emsp;&emsp;<b>(2) For special limitation on net operating loss carryovers in case of a corporate change of ownership, see section 382.</b>
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 63; Pub. L. 85–866, title I, §§14(a), (b), 64(b), title II, §203(a), (b), Sept. 2, 1958, 72 Stat. 1611, 1656, 1678; Pub. L. 87–710, §1, Sept. 27, 1962, 76 Stat. 648; Pub. L. 87–792, §7(f), Oct. 10, 1962, 76 Stat. 829; Pub. L. 87–794, title III, §317(b), Oct. 11, 1962, 76 Stat. 889; Pub. L. 88–272, title II, §§210(a), (b), 234(b)(5), Feb. 26, 1964, 78 Stat. 47, 48, 115; Pub. L. 90–225, §3(a), Dec. 27, 1967, 81 Stat. 732; Pub. L. 91–172, title IV, §431(b), Dec. 30, 1969, 83 Stat. 619; Pub. L. 91–677, §2(a)–(c), Jan. 12, 1971, 84 Stat. 2061; Pub. L. 94–455, title VIII, §806(a)–(c), title X, §1052(c)(3), title XVI, §1606(b), (c), title XIX, §§1901(a)(29), 1906(b)(13)(A), title XXI, §2126, Oct. 4, 1976, 90 Stat. 1598, 1648, 1755, 1756, 1769, 1834, 1920; Pub. L. 95–30, title I, §102(b)(2), May 23, 1977, 91 Stat. 137; Pub. L. 95–600, title III, §371(a), (b), title VI, §601(b)(1), title VII, §§701(d)(1), 703(p)(1), Nov. 6, 1978, 92 Stat. 2859, 2896, 2900, 2943; Pub. L. 96–222, title I, §§103(a)(15), 106(a)(1), (6), (7), Apr. 1, 1980, 94 Stat. 214, 221; Pub. L. 96–595, §1(a), Dec. 24, 1980, 94 Stat. 3464; Pub. L. 97–34, title II, §207(a), Aug. 13, 1981, 95 Stat. 225; Pub. L. 97–354, §5(a)(22), Oct. 19, 1982, 96 Stat. 1694; Pub. L. 97–362, title I, §102(a)–(c), Oct. 25, 1982, 96 Stat. 1727, 1728; Pub. L. 98–369, div. A, title I, §§91(d), 177(c), title IV, §491(d)(5), title VII, §722(a)(4), July 18, 1984, 98 Stat. 606, 710, 849, 973; Pub. L. 99–514, title I, §104(b)(4), title III, §301(b)(3), title IX, §§901(d)(4)(B), 903(a), (b), title XIII, §1303(b)(1), (2), title XVIII, §1899A(6), Oct. 22, 1986, 100 Stat. 2105, 2217, 2380, 2383, 2658, 2958; Pub. L. 100–647, title I, §§1003(a)(1), 1009(c), Nov. 10, 1988, 102 Stat. 3382, 3449; Pub. L. 101–239, title VII, §7211(a), (b), Dec. 19, 1989, 103 Stat. 2342, 2343; Pub. L. 101–508, title XI, §§11324(a), 11701(d), 11704(a)(2), 11811(a)–(b)(2)(A), (3), (4), Nov. 5, 1990, 104 Stat. 1388–465, 1388–507, 1388–518, 1388–530, 1388–532 to 1388–534; Pub. L. 103–66, title XIII, §13113(d)(1), Aug. 10, 1993, 107 Stat. 429; Pub. L. 104–188, title I, §§1702(h)(2), (16), 1704(t)(5), (30), Aug. 20, 1996, 110 Stat. 1873, 1874, 1887, 1889; Pub. L. 105–34, title X, §1082(a), (b), Aug. 5, 1997, 111 Stat. 950; Pub. L. 105–277, div. J, title II, §2013(a)–(c), title III, §3004(a), title IV, §§4003(h), 4004(a), Oct. 21, 1998, 112 Stat. 2681–902, 2681–905, 2681–910; Pub. L. 107–147, title I, §102(a), (b), title IV, §417(8), Mar. 9, 2002, 116 Stat. 25, 56; Pub. L. 108–311, title IV, §403(b)(1), Oct. 4, 2004, 118 Stat. 1187; Pub. L. 109–58, title XIII, §1311, Aug. 8, 2005, 119 Stat. 1009; Pub. L. 109–135, title IV, §§402(f), 403(a)(17), Dec. 21, 2005, 119 Stat. 2611, 2619; Pub. L. 110–343, div. C, title VII, §§706(a)(2)(D)(v), (vi), 708(a), (b), (d), Oct. 3, 2008, 122 Stat. 3922, 3924, 3925; Pub. L. 111–5, div. B, title I, §1211(a), (b), Feb. 17, 2009, 123 Stat. 335, 336; Pub. L. 111–92, §13(a), Nov. 6, 2009, 123 Stat. 2992; Pub. L. 113–295, div. A, title II, §§211(c)(1)(B), 221(a)(30)(A), (B), (41)(B), Dec. 19, 2014, 128 Stat. 4033, 4041, 4044; Pub. L. 115–97, title I, §§11011(d)(1), 13302(a)–(c)(2)(A), (d), 13305(b)(3), 14202(b)(1), Dec. 22, 2017, 131 Stat. 2071, 2121–2123, 2126, 2216; Pub. L. 115–141, div. T, §101(a)(2)(B), div. U, title IV, §401(a)(53), Mar. 23, 2018, 132 Stat. 1155, 1186; Pub. L. 116–136, div. A, title II, §2303(a)(1)–(2)(B), (b), (c)(2), Mar. 27, 2020, 134 Stat. 352, 353, 355.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -522,7 +524,7 @@ Subsec. (k). Pub. L. 97–362, §102(b), redesignated former subsec. (j) as (k).
 
 <b>1981</b>—Subsec. (b)(1)(B). Pub. L. 97–34, §207(a)(1), substituted "15 taxable years" for "7 taxable years".
 
-Subsec. (b)(1)(C). Pub. L. 97–34, §207(a)(2)(A), substituted "ending after December 31, 1955, and beforeJanuary 1, 1976, shall" for "ending after December 31, 1955, shall" and struck out provision that, for any taxable year ending after Dec. 31, 1975, the preceding sentence was to be applied by substituting "9 taxable years" for "7 taxable years".
+Subsec. (b)(1)(C). Pub. L. 97–34, §207(a)(2)(A), substituted "ending after December 31, 1955, and before January 1, 1976, shall" for "ending after December 31, 1955, shall" and struck out provision that, for any taxable year ending after Dec. 31, 1975, the preceding sentence was to be applied by substituting "9 taxable years" for "7 taxable years".
 
 Subsec. (b)(1)(E)(i)(II). Pub. L. 97–34, §207(a)(2)(B)(i), substituted "15" for "8".
 
@@ -644,6 +646,8 @@ Subsec. (g)(3), (4). Pub. L. 85–866, §14(b), added par. (3) and redesignated 
 
 Subsecs. (h) to (j). Pub. L. 85–866, §§64(b), 203(b), added subsecs. (h) and (i) and redesignated former subsec. (h) as (j).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2020 Amendment
 
 Pub. L. 116–136, div. A, title II, §2303(d), Mar. 27, 2020, 134 Stat. 355, provided that:
@@ -708,7 +712,7 @@ Carryovers and carrybacks.—The amendments made by subsections (b), (c), and (d
 
 Amendment by section 13305(b)(3) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, except as provided by transition rule, see section 13305(c) of Pub. L. 115–97, set out as a note under section 74 of this title.
 
-Pub. L. 115–97, title I, §14202(c), Dec. 22, 2017, 131 Stat. 2216, provided that: "The amendments made by this section \[enacting section 250 of this title and amending this section and sections 246 and 469 of this title\] shallapply to taxable years beginning after December 31, 2017."
+Pub. L. 115–97, title I, §14202(c), Dec. 22, 2017, 131 Stat. 2216, provided that: "The amendments made by this section \[enacting section 250 of this title and amending this section and sections 246 and 469 of this title\] shall apply to taxable years beginning after December 31, 2017."
 
 #### Effective Date of 2014 Amendment
 
@@ -758,7 +762,7 @@ Amendment by Pub. L. 108–311 effective as if included in the provisions of the
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–147, title I, §102(d), Mar. 9, 2002, 116 Stat. 26, provided that: "Except as provided in subsection (c) \[amending section 56 of this title and enacting provisions set out as a note under section 56 of this title\], the amendments made by this section \[amending this section and section 56 of this title\] shall apply to net operating losses for taxable years ending after December 31, 2000."
+Pub. L. 107–147, title I, §102(d), Mar. 9, 2002, 116 Stat. 26, provided that: "Except as provided in subsection (c) \[amending section 56 of this title and enacting provisions set out as a note under section 56 of this title\], the amendments made by this section \[amending this section and section 56 of this title\] shall apply to netoperating losses for taxable years ending after December 31, 2000."
 
 #### Effective Date of 1998 Amendment
 
@@ -794,7 +798,7 @@ In general.—Except as provided in paragraph (2), the amendment made by subsect
 
 Binding contract exception.—The amendment made by subsection (a) shall not apply to any acquisition pursuant to a written binding contract in effect on October 9, 1990, and at all times thereafter before such acquisition."
 
-Amendment by section 11701(d) of Pub. L. 101–508 effective, except as otherwise provided, as if included inthe provision of the Revenue Reconciliation Act of 1989, Pub. L. 101–239, title VII, to which such amendment relates, see section 11701(n) of Pub. L. 101–508, set out as a note under section 42 of this title.
+Amendment by section 11701(d) of Pub. L. 101–508 effective, except as otherwise provided, as if included in the provision of the Revenue Reconciliation Act of 1989, Pub. L. 101–239, title VII, to which such amendment relates, see section 11701(n) of Pub. L. 101–508, set out as a note under section 42 of this title.
 
 Pub. L. 101–508, title XI, §11811(c), Nov. 5, 1990, 104 Stat. 1388–534, provided that: "The amendments made by this section \[amending this section\] shall apply to net operating losses for taxable years beginning after December 31, 1990."
 
@@ -862,7 +866,7 @@ In general.—Except as otherwise provided in subparagraph (B), the adjusted bas
 
 &emsp;&emsp;"(i) for purposes of determining any loss, be equal to the lesser of the adjusted basis of such asset or the fair market value of such asset as of such date, and
 
-&emsp;&emsp;"(ii) for purposes of determining any gain, be equal to the higher of the adjusted basis of such asset or the fair market value of such asset as of such date.
+&emsp;&emsp;"(ii) for purposes of determining any gain, be equal to the higher of the adjusted basis of suchasset or the fair market value of such asset as of such date.
 
 &emsp;"(B)
 
@@ -1062,7 +1066,7 @@ Revocation of election to waive carryback.—The last sentence of section 172(b)
 
 Pub. L. 108–311, title IV, §403(b)(2), Oct. 4, 2004, 118 Stat. 1187, provided that: "In the case of a net operating loss for a taxable year ending during 2001 or 2002—
 
-&emsp;"(A) an application under section 6411(a) of the Internal Revenue Code of 1986 with respect to such lossshall not fail to be treated as timely filed if filed before November 1, 2002,
+&emsp;"(A) an application under section 6411(a) of the Internal Revenue Code of 1986 with respect to such loss shall not fail to be treated as timely filed if filed before November 1, 2002,
 
 &emsp;"(B) any election made under section 172(b)(3) of such Code may (notwithstanding such section) be revoked before November 1, 2002, and
 
@@ -1214,7 +1218,7 @@ Reduction in tax paid by railroad predecessors.—
 
 &emsp;&emsp;"(A)
 
-In general.—The Secretary of the Treasury or his delegate shall appropriately adjust the taxaccount of each railroad predecessor to reduce the net tax liability of such predecessor for taxable years beginning in the carryback period which is offset by reason of the application of this section.
+In general.—The Secretary of the Treasury or his delegate shall appropriately adjust the tax account of each railroad predecessor to reduce the net tax liability of such predecessor for taxable years beginning in the carryback period which is offset by reason of the application of this section.
 
 &emsp;&emsp;"(B)
 
@@ -1292,7 +1296,7 @@ In general.—The Secretary of the Treasury shall not make payment of any refund
 
 &emsp;"(2)
 
-No interest.—Notwithstanding any other provision of law, if the payment of any refund is delayed by reason of paragraph (1), no interest shall accrue with respect to such payment prior to the 45th day following the date of the enactment of Federal legislation described in paragraph (1).
+No interest.—Notwithstanding any other provision of law, if the payment of any refund is delayed by reason of paragraph (1), no interest shall accrue with respect to such payment prior to the 45th dayfollowing the date of the enactment of Federal legislation described in paragraph (1).
 
 &emsp;"(3)
 

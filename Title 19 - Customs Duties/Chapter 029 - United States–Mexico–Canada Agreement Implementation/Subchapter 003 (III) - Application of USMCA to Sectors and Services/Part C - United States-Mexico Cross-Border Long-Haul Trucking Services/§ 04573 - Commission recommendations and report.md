@@ -6,7 +6,7 @@ If the Commission makes an affirmative determination under section 4572 of this 
 
 #### (b) Limitation
 
-Only those members of the Commission who agreed to the affirmative determination under section 4572 of this title are eligible to vote onthe recommendation required to be made under subsection (a).
+Only those members of the Commission who agreed to the affirmative determination under section 4572 of this title are eligible to vote on the recommendation required to be made under subsection (a).
 
 #### (c) Report
 

@@ -8,7 +8,7 @@ In addition to mortgages insured under section 1750b of this title, the Secretar
 
 To be eligible for insurance under this section a mortgage shall meet the following conditions:
 
-&emsp;(1) The mortgaged property shall be held by a mortgagor approved by the Secretary. The Secretary may, in his discretion, require such mortgagor to be regulated or restricted as to rents or sales, charges, capital structure, rate of return, and methods of operation. The Secretary may make such contracts with, and acquire for not to exceed $100 stock or interest in any such mortgagor, as the Secretary may deem necessary to render effective such restriction or regulation. Such stock or interest shall be paid for out of the General Insurance Fund, and shall be redeemed by the mortgagor at par upon the termination of all obligations of the Secretary under the insurance.
+&emsp;(1) The mortgaged property shall be held by a mortgagor approved by the Secretary. The Secretary may, in his discretion, require such mortgagor to be regulated or restricted as to rents or sales, charges, capital structure, rate of return, and methods of operation. The Secretary may make such contracts with, and acquire for not to exceed $100 stock or interest in any such mortgagor, as the Secretary may deem necessary to render effective such restriction or regulation. Such stock or interest shall be paid for out of the General InsuranceFund, and shall be redeemed by the mortgagor at par upon the termination of all obligations of the Secretary under the insurance.
 
 &emsp;(2) The mortgage shall involve a principal obligation in an amount—
 

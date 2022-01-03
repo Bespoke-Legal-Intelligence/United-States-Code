@@ -1,5 +1,7 @@
 ### §§485 to 486j. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Sections 485 to 486, relating to Territory of Alaska, were omitted in view of admission of Alaska into the Union.

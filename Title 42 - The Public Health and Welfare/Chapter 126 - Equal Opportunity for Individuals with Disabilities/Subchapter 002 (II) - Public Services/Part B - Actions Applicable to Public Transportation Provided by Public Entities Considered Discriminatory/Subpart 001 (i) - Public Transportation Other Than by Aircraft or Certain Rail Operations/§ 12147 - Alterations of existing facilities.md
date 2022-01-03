@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-With respect to alterations of an existing facility or part thereof used in the provision of designated public transportation services that affect or could affect the usability of the facilityor part thereof, it shall be considered discrimination, for purposes of section 12132 of this title and section 794 of title 29, for a public entity to fail to make such alterations (or to ensure that the alterations are made) in such a manner that, to the maximum extent feasible, the altered portions of the facility are readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, upon the completion of such alterations. Where the public entity is undertaking an alteration that affects or could affect usability of or access to an area of the facility containing a primary function, the entity shall also make the alterations in such a manner that, to the maximum extent feasible, the path of travel to the altered area and the bathrooms, telephones, and drinking fountains serving the altered area, are readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, upon completion of such alterations, where such alterations to the path of travel or the bathrooms, telephones, and drinking fountains serving the altered area are not disproportionate to the overall alterations in terms of cost and scope (as determined under criteria established by the Attorney General).
+With respect to alterations of an existing facility or part thereof used in the provision of designated public transportation services that affect or could affect the usability of the facility or part thereof, it shall be considered discrimination, for purposes of section 12132 of this title and section 794 of title 29, for a public entity to fail to make such alterations (or to ensure that the alterations are made) in such a manner that, to the maximum extent feasible, the altered portions of the facility are readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, upon the completion of such alterations. Where the public entity is undertaking an alteration that affects or could affect usability of or access to an area of the facility containing a primary function, the entity shall also make the alterations in such a manner that, to the maximum extent feasible, the path of travel to the altered area and the bathrooms, telephones, and drinking fountains serving the altered area, are readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, upon completion of such alterations, where such alterations to the path of travel or the bathrooms, telephones, and drinking fountains serving the altered area are not disproportionate to the overall alterations in terms of cost and scope (as determined under criteria established by the Attorney General).
 
 #### (b) Special rule for stations
 
@@ -29,6 +29,8 @@ With respect to alterations of an existing facility or part thereof used in the 
 &emsp;&emsp;(B) that establishes milestones for achievement of the requirements of this subsection.
 
 (Pub. L. 101–336, title II, §227, July 26, 1990, 104 Stat. 343.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

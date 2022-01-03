@@ -36,7 +36,7 @@ It shall be the function of the Ombudsman—
 
 #### (2) Report to be submitted directly
 
-&emsp;Each report required under this subsection shall be provided directly to the committees described in paragraph (1) without any prior comment or amendment from the Secretary, Deputy Secretary, Director of the Bureau of Citizenship and Immigration Services, or any other officer or employee of the Department or the Office of Management and Budget.
+&emsp;Each report required under this subsection shall be provided directly to the committees described in paragraph (1) without any priorcomment or amendment from the Secretary, Deputy Secretary, Director of the Bureau of Citizenship and Immigration Services, or any other officer or employee of the Department or the Office of Management and Budget.
 
 #### (d) Other responsibilities
 

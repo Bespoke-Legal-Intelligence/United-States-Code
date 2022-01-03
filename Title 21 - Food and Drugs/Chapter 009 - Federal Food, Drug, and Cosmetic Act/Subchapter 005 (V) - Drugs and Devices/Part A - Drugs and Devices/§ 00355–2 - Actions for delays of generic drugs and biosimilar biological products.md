@@ -82,7 +82,7 @@ In this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) was made by certified or registered mail with return receipt requested;
 
-&emsp;&emsp;&emsp;&emsp;(III) specified an individual as the point of contact for the license holder to direct communications related to the sale of the covered product to the eligible product developer and a means for electronic and written communications with that individual; and
+&emsp;&emsp;&emsp;&emsp;(III) specified an individual as the point of contact for the license holder to direct communications related to thesale of the covered product to the eligible product developer and a means for electronic and written communications with that individual; and
 
 &emsp;&emsp;&emsp;&emsp;(IV) specified an address to which the covered product was to be shipped upon reaching an agreement to transfer the covered product; and
 

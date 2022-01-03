@@ -24,9 +24,11 @@ Not more than 5 percent of financial assistance provided to a State by the Secre
 
 #### (e) Authorization of appropriations
 
-For financial assistance under this section, there is authorized to be appropriated to theSecretary $12,000,000 for each of fiscal years 2021 through 2025.
+For financial assistance under this section, there is authorized to be appropriated to the Secretary $12,000,000 for each of fiscal years 2021 through 2025.
 
 (Pub. L. 108–16, §3, Apr. 23, 2003, 117 Stat. 621; Pub. L. 116–186, §1(2), Oct. 30, 2020, 134 Stat. 901.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

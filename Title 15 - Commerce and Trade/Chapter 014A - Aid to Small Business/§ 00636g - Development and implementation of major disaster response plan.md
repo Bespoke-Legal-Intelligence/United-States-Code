@@ -24,7 +24,7 @@ The report required under subsection (a)(2) shall include—
 
 &emsp;(6) recommendations, if any, on how the Administration can better coordinate its disaster response operations with the operations of other Federal, State, and local entities;
 
-&emsp;(7) any surge plan for the disaster loan program of the Administration in effect on or after August 29, 2005 (including surge plans for loss verification, loan processing, mailroom, customer service or call center operations, and a continuity of operations plan);
+&emsp;(7) any surge plan for the disaster loan program of the Administration in effect on orafter August 29, 2005 (including surge plans for loss verification, loan processing, mailroom, customer service or call center operations, and a continuity of operations plan);
 
 &emsp;(8) the number of full-time equivalent employees and job descriptions for the planning and disaster response staff of the Administration;
 
@@ -32,7 +32,7 @@ The report required under subsection (a)(2) shall include—
 
 &emsp;(10) information on the logistical support plans of the Administration (including equipment and staffing needs, and detailed information on how such plans will be scalable depending on the size and scope of the major disaster <sup>1</sup>;
 
-&emsp;(11) a description of the findings and recommendations of the Administrator, if any, based on a review of the response of the Administration to Hurricane Katrina of 2005,Hurricane Rita of 2005, and Hurricane Wilma of 2005; and
+&emsp;(11) a description of the findings and recommendations of the Administrator, if any, based on a review of the response of the Administration to Hurricane Katrina of 2005, Hurricane Rita of 2005, and Hurricane Wilma of 2005; and
 
 &emsp;(12) a plan for how the Administrator, in consultation with the Administrator of the Federal Emergency Management Agency, will coordinate the provision of accommodations and necessary resources for disaster assistance personnel to effectively perform their responsibilities in the aftermath of a major disaster.
 
@@ -48,6 +48,8 @@ The report required under subsection (a)(2) shall include—
 
 (Pub. L. 110–234, title XII, §12072, May 22, 2008, 122 Stat. 1411; Pub. L. 110–246, §4(a), title XII, §12072, June 18, 2008, 122 Stat. 1664, 2173.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this Act, referred to in subsec. (a), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
@@ -59,6 +61,8 @@ Section 657o of this title, as added by this Act, referred to in subsec. (c)(2),
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 Section was enacted as part of the Food, Conservation, and Energy Act of 2008, and also as part of the Small Business Disaster Response and Loan Improvements Act of 2008, and not as part of the Small Business Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

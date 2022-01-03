@@ -7,6 +7,8 @@
 | [1603\.](%C2%A7%2001603%20-%20Implementation%20of%20policies.md) | Implementation of policies. |
 | [1604\.](%C2%A7%2001604%20-%20Program%20administration.md) | Program administration. |
 | [1605\.](%C2%A7%2001605%20-%20Applicability%20to%20other%20statutory%20national%20mining%20and%20minerals%20policies.md) | Applicability to other statutory national mining and minerals policies. |
+| [1606\.](%C2%A7%2001606%20-%20Mineral%20security.md) | Mineral security. |
+| [1607\.](%C2%A7%2001607%20-%20Critical%20minerals%20supply%20chains%20and%20reliability.md) | Critical minerals supply chains and reliability. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -21,3 +23,4 @@
 - [&sect; 01604 - Program administration](%C2%A7%2001604%20-%20Program%20administration.md)
 - [&sect; 01605 - Applicability to other statutory national mining and minerals policies](%C2%A7%2001605%20-%20Applicability%20to%20other%20statutory%20national%20mining%20and%20minerals%20policies.md)
 - [&sect; 01606 - Mineral security](%C2%A7%2001606%20-%20Mineral%20security.md)
+- [&sect; 01607 - Critical minerals supply chains and reliability](%C2%A7%2001607%20-%20Critical%20minerals%20supply%20chains%20and%20reliability.md)

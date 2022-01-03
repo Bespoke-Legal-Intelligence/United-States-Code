@@ -30,7 +30,7 @@ Local Development Districts.—Local development districts certified by the Stat
 
 (d)
 
-Federal Responsibilities.—To the maximum extent practicable, federal departments, agencies, and instrumentalities undertaking or providing financial assistance for programs or projects in the region shall—
+Federal Responsibilities.—To the maximum extent practicable, federal departments,agencies, and instrumentalities undertaking or providing financial assistance for programs or projects in the region shall—
 
 &emsp;(1) take into account the policies, goals, and objectives the Commission and its member States establish pursuant to this subtitle;
 

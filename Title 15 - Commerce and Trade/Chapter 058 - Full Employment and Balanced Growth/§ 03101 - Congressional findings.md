@@ -22,7 +22,7 @@
 
 &emsp;(3) Attainment of these objectives should be facilitated by setting explicit short-term and medium-term economic goals, and by improved coordination among the President, the Congress, and the Board of Governors of the Federal Reserve System.
 
-&emsp;(4) Increasing job opportunities and full employment would greatly contribute to the elimination of discrimination based upon sex, age, race, color, religion, national origin, handicap, or other improper factors.
+&emsp;(4) Increasing job opportunities and full employment would greatly contribute to theelimination of discrimination based upon sex, age, race, color, religion, national origin, handicap, or other improper factors.
 
 (c) The Congress further finds that an effective policy to promote full employment and production, increased real income, balanced growth, a balanced Federal budget, adequate productivity growth, proper attention to national priorities, achievement of an improved trade balance, and reasonable price stability should (1) be based on the development of explicit economic goals and policies involving the President, the Congress, and the Board of Governors of the Federal Reserve System, with maximum reliance on the resources and ingenuity of the private sector of the economy, (2) include programs specifically designed to reduce high unemployment due to recessions, and to reduce structural unemployment within regional areas and among particular labor force groups, and (3) give proper attention to the role of increased exports and improvement in the international competitiveness of agriculture, business, and industry in providing productive employment opportunities and achieving an improved trade balance.
 
@@ -31,6 +31,8 @@
 (e) The Congress further finds that the United States is part of an interdependent world trading and monetary system and that attainment of the requirements specified in subsection (d) is dependent upon policies promoting a free and fair international trading system and a sound and stable international monetary system.
 
 (Pub. L. 95–523, §2, Oct. 27, 1978, 92 Stat. 1888.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

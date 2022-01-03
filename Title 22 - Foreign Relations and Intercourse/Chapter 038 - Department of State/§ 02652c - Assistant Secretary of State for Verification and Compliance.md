@@ -68,7 +68,7 @@ The Secretary of State shall designate one of the Assistant Secretaries of State
 
 &emsp;&emsp;(D) other reports being prepared by the Department of State as of November 29, 1999, relating to arms control, nonproliferation, or disarmament verification or compliance matters.
 
-(Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1112\], Nov. 29, 1999, 113 Stat. 1536, 1501A–486; Pub. L. 109–401, title I, §108, Dec. 18, 2006, 120 Stat. 2738.)
+(Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1112\], Nov. 29, 1999, 113 Stat. 1536, 1501A–486;Pub. L. 109–401, title I, §108, Dec. 18, 2006, 120 Stat. 2738.)
 
 #### <b>Editorial Notes</b>
 

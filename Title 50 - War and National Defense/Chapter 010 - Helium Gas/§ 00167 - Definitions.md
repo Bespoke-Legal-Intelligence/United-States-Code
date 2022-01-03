@@ -66,6 +66,8 @@ In this chapter:
 
 (Mar. 3, 1925, ch. 426, §2, as added Pub. L. 86–777, §2, Sept. 13, 1960, 74 Stat. 918; amended Pub. L. 113–40, §2, Oct. 2, 2013, 127 Stat. 534.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 2 of act Mar. 3, 1925, authorized Bureau of Mines to produce helium gas and was classified to section 163 of this title, prior to the general amendment of this chapter by Pub. L. 86–777.
@@ -73,6 +75,8 @@ A prior section 2 of act Mar. 3, 1925, authorized Bureau of Mines to produce hel
 #### Amendments
 
 <b>2013</b>—Pub. L. 113–40 amended section generally. Prior to amendment, section defined "Secretary", "person", "helium-bearing natural gas", and "helium-gas mixture".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1960 Amendment
 

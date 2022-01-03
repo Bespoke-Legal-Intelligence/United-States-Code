@@ -30,6 +30,8 @@ The Farm Credit Administration shall prescribe rules requiring the institutions 
 
 (Pub. L. 100–233, title V, §503, Jan. 6, 1988, 101 Stat. 1663; Pub. L. 100–399, title V, §502, Aug. 17, 1988, 102 Stat. 1005; Pub. L. 103–354, title II, §282(b), Oct. 13, 1994, 108 Stat. 3234.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (a)(1). Pub. L. 103–354, §282(b)(2), in introductory provisions inserted "or agency" after "each program" and struck out "that makes, guarantees, or insures agricultural loans" after "of the Secretary".
@@ -48,7 +50,9 @@ Subsec. (b)(1). Pub. L. 103–354, §282(b)(1), struck out "agricultural loan" b
 
 Subsec. (a)(2). Pub. L. 100–399, §502(b), substituted "section 5101 of this title" for "paragraph (1)".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of Title 12, Banks and Banking.
+Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L.100–399, set out as a note under section 2002 of Title 12, Banks and Banking.
 

@@ -88,7 +88,7 @@ Net Assessment of Nuclear Force Levels Required With Respect to Certain Proposal
 
 &emsp;(1)
 
-In general.—If, during any year beginning after December 31, 2011, the President makes a proposal described in paragraph (2)—
+In general.—If, during any year beginning after December 31, 2021, the President makes a proposal described in paragraph (2)—
 
 &emsp;&emsp;(A) the Commander of United States Strategic Command shall conduct a net assessment of the current and proposed nuclear forces of the United States and of other countries that possess nuclear weapons to determine whether the nuclear forces of the United States are anticipated to be capable of meeting the objectives of the United States with respect to nuclear deterrence, extended deterrence, assurance of allies, and defense;
 
@@ -102,7 +102,7 @@ Proposal described.—
 
 &emsp;&emsp;(A)
 
-In general.—Except as provided in subparagraph (B), a proposal described in this paragraph is a proposal to reduce the number of nuclear weapons in the active or inactive stockpiles of the United States to a level that is lower than the level on December 31, 2011.
+In general.—Except as provided in subparagraph (B), a proposal described in this paragraph is a proposal to reduce the number of nuclear weapons in the active or inactive stockpiles of the United States to a level that is lower than the level on December 31, 2021.
 
 &emsp;&emsp;(B)
 
@@ -110,11 +110,11 @@ Exceptions.—A proposal described in this paragraph does not include—
 
 &emsp;&emsp;&emsp;(i) reductions that are a direct result of activities associated with routine stockpile stewardship, including stockpile surveillance, logistics, or maintenance; or
 
-&emsp;&emsp;&emsp;(ii) nuclear weapons retired or awaiting dismantlement on December 31, 2011.
+&emsp;&emsp;&emsp;(ii) nuclear weapons retired or awaiting dismantlement on December 31, 2021.
 
 &emsp;(3)
 
-Termination.—The requirement in paragraph (1) shall terminate on December 31, 2017.
+Termination.—The requirement in paragraph (1) shall terminate on February 1, 2025.
 
 (d)
 
@@ -122,7 +122,7 @@ Prevention of Asymmetry in Reductions.—
 
 &emsp;(1)
 
-Certification.—During any year in which the President recommends to reduce the number of nuclear weapons in the active and inactive stockpiles of the United States by a number that is greater than a de minimis reduction, the President shall certify in writing to the congressional defense committees whether such reductions will cause the number of nuclear weapons in such stockpiles to be fewer than the high-confidence assessment of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 3003(4))) with respect to the number of nuclear weapons in the active and inactive stockpiles of the Russian Federation.
+Certification.—During any year in which the President recommends to reduce thenumber of nuclear weapons in the active and inactive stockpiles of the United States by a number that is greater than a de minimis reduction, the President shall certify in writing to the congressional defense committees whether such reductions will cause the number of nuclear weapons in such stockpiles to be fewer than the high-confidence assessment of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 3003(4))) with respect to the number of nuclear weapons in the active and inactive stockpiles of the Russian Federation.
 
 &emsp;(2)
 
@@ -140,7 +140,9 @@ Exception.—The notification in paragraph (2) shall not apply to—
 
 Additional views.—On the date on which the President transmits to the congressional defense committees a report by the Commander of the United States Strategic Command under paragraph (2), the President may transmit to such committees a report by the President with respect to whether the recommended reductions covered by the report of the Commander will impact the deterrence or extended deterrence capabilities of the United States.
 
-(Added and amended Pub. L. 112–239, div. A, title X, §§1033(b)(1), (2)(B), 1034, Jan. 2, 2013, 126 Stat. 1920–1922; Pub. L. 113–66, div. A, title X, §1091(a)(7), Dec. 26, 2013, 127 Stat. 875; Pub. L. 113–291, div. A, title X, §1071(c)(10), Dec. 19, 2014, 128 Stat. 3509; Pub. L. 115–91, div. A, title X, §1081(a)(19), Dec. 12, 2017, 131 Stat. 1595; Pub. L. 115–232, div. A, title X, §1081(a)(5), Aug. 13, 2018, 132 Stat. 1983.)
+(Added and amended Pub. L. 112–239, div. A, title X, §§1033(b)(1), (2)(B), 1034, Jan. 2, 2013, 126 Stat. 1920–1922; Pub. L. 113–66, div. A, title X, §1091(a)(7), Dec. 26, 2013, 127 Stat. 875; Pub. L. 113–291, div. A, title X, §1071(c)(10), Dec. 19, 2014, 128 Stat. 3509; Pub. L. 115–91, div. A, title X, §1081(a)(19), Dec. 12, 2017, 131 Stat. 1595; Pub. L. 115–232, div. A, title X, §1081(a)(5), Aug. 13, 2018, 132 Stat. 1983; Pub. L. 117–81, div. A, title XVI, §1632, Dec. 27, 2021, 135 Stat. 2090.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -151,6 +153,10 @@ Section 1251 of the National Defense Authorization Act for Fiscal Year 2010, ref
 The text of this section is based on Pub. L. 112–81, div. A, title X, §1045, Dec. 31, 2011, 125 Stat. 1577; Pub. L. 112–239, div. A, title X, §1076(a)(19), Jan. 2, 2013, 126 Stat. 1949. Section 1045 of Pub. L. 112–81, formerly classified to section 2523b of Title 50, War and National Defense, was transferred to this section by Pub. L. 112–239, §1033(b)(1)(A)–(C).
 
 #### Amendments
+
+<b>2021</b>—Subsec. (c)(1), (2)(A), (B)(ii). Pub. L. 117–81, §1632(1), substituted "December 31, 2021" for "December 31, 2011".
+
+Subsec. (c)(3). Pub. L. 117–81, §1632(2), substituted "February 1, 2025" for "December 31, 2017".
 
 <b>2018</b>—Subsec. (b)(2). Pub. L. 115–232 substituted "March 1 of each year" for "March 1, 2012, and annually thereafter" in introductory provisions.
 
@@ -165,6 +171,8 @@ Subsec. (a)(2). Pub. L. 112–239, §1033(b)(1)(D), amended par. (2) generally. 
 Subsec. (c)(1), (2)(A), (B)(ii). Pub. L. 113–66 substituted "December 31, 2011" for "the date of the enactment of this Act".
 
 Subsec. (d). Pub. L. 112–239, §1034, added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective date of 2013 Amendment
 
@@ -269,6 +277,8 @@ Definitions.—In this section:
 #### "Congressional Defense Committees" Defined
 
 Congressional defense committees has the meaning given that term in section 101(a)(16) of this title, see section 3 of Pub. L. 112–81, Dec. 31, 2011, 125 Stat. 1316. See also note under section 101 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Reporting Functions Specified in Section 1045 of the National Defense Authorization Act for Fiscal Year 2012, and Condition 9 of the Resolution of Advice and Consent to Ratification of the Treaty Between the United States of America and the Russian Federation on the Measures for the Further Reduction and Limitation of Strategic Offensive Arms (the "New START Treaty")
 

@@ -20,6 +20,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–364, div. A, title V, §507(a)(2)(C), Oct. 17, 2006, 120 Stat. 2180, struck out "while so serving" after "reserve grade" in item 12210.

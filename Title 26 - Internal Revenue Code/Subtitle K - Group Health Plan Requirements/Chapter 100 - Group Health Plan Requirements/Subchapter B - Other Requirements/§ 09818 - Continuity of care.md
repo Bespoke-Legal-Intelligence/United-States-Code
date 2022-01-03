@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) such contractual relationship is terminated (as defined in paragraph (b));
 
-&emsp;&emsp;(B) benefits provided under such plan with respect to such provider or facility are terminated because of a change in the terms ofthe participation of such provider or facility in such plan; or
+&emsp;&emsp;(B) benefits provided under such plan with respect to such provider or facility are terminated because of a change in the terms of the participation of such provider or facility in such plan; or
 
 &emsp;&emsp;(C) a contract between such group health plan and a health insurance issuer offering health insurance coverage in connection with such plan is terminated, resulting in a loss of benefits provided under such plan with respect to such provider or facility;
 
@@ -40,7 +40,7 @@ In this section:
 
 &emsp;&emsp;(B) is undergoing a course of institutional or inpatient care from the provider or facility;
 
-&emsp;&emsp;(C) is scheduled to undergo nonelective surgery from the provider or facility, including receipt of postoperative care from such provider or facility with respect to such a surgery;
+&emsp;&emsp;(C) is scheduled to undergo nonelective surgery from the provider or facility, including receipt of postoperative care from suchprovider or facility with respect to such a surgery;
 
 &emsp;&emsp;(D) is pregnant and undergoing a course of treatment for the pregnancy from the provider or facility; or
 
@@ -64,9 +64,13 @@ In this section:
 
 (Added Pub. L. 116–260, div. BB, title I, §113(b)(1), Dec. 27, 2020, 134 Stat. 2870.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1861(dd)(3)(A) of the Social Security Act, referred to in subsec. (b)(1)(E), is classified to section 1395x(dd)(3)(A) of Title 42, The Public Health and Welfare.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

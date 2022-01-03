@@ -40,7 +40,7 @@ For purpose of this subchapter—
 
 &emsp;(19) The term "otherwise subject to the jurisdiction of the United States" means subject to the jurisdiction of the United States by virtue of United States citizenship, United States vessel documentation or numbering, or as provided by international agreement to which the United States is a party.
 
-&emsp;(20)(A) The term "owner or operator" means (i) in the case of a vessel, any person owning, operating, or chartering by demise, such vessel, (ii) in the case of an onshore facility or an offshore facility, any person owning or operating such facility, and (iii) in the case of any facility, title or control of which was conveyed due to bankruptcy, foreclosure, tax delinquency, abandonment, or similar means to a unit of State or local government, any person who owned, operated, or otherwise controlled activities at such facility immediately beforehand. Such term does not include a person, who, without participating in the management of a vessel or facility, holds indicia of ownership primarily to protect his security interest in the vessel or facility.
+&emsp;(20)(A) The term "owner or operator" means (i) in the case of a vessel, any person owning, operating, or chartering by demise, such vessel, (ii) in the case of an onshore facility or an offshore facility, any person owning or operating such facility, and (iii) in the case of any facility, title or control of which was conveyeddue to bankruptcy, foreclosure, tax delinquency, abandonment, or similar means to a unit of State or local government, any person who owned, operated, or otherwise controlled activities at such facility immediately beforehand. Such term does not include a person, who, without participating in the management of a vessel or facility, holds indicia of ownership primarily to protect his security interest in the vessel or facility.
 
 &emsp;(B) In the case of a hazardous substance which has been accepted for transportation by a common or contract carrier and except as provided in section 9607(a)(3) or (4) of this title, (i) the term "owner or operator" shall mean such common carrier or other bona fide for hire carrier acting as an independent contractor during such transportation, (ii) the shipper of such hazardous substance shall not be considered to have caused or contributed to any release during such transportation which resulted solely from circumstances or conditions beyond his control.
 
@@ -222,7 +222,7 @@ Security interest.—The term "security interest" includes a right under a mortg
 
 &emsp;&emsp;(iii) The defendant acquired the facility by inheritance or bequest.
 
-> &emsp;In addition to establishing the foregoing, the defendant must establish that the defendant has satisfied the requirements of section 9607(b)(3)(a) and (b) of this title, provides full cooperation, assistance, and facility access to the persons that are authorized to conduct response actions at the facility (including the cooperation and access necessary for the installation, integrity, operation, and maintenance of any complete or partial response action at the facility), is in compliance with anyland use restrictions established or relied on in connection with the response action at a facility, and does not impede the effectiveness or integrity of any institutional control employed at the facility in connection with a response action.
+> &emsp;In addition to establishing the foregoing, the defendant must establish that the defendant has satisfied the requirements of section 9607(b)(3)(a) and (b) of this title, provides full cooperation, assistance, and facility access to the persons that are authorized to conduct response actions at the facility (including the cooperation and access necessary for the installation, integrity, operation, and maintenance of any complete or partial response action at the facility), is in compliance with any land use restrictions established or relied on in connection with the response action at a facility, and does not impede the effectiveness or integrity of any institutional control employed at the facility in connection with a response action.
 
 &emsp;(B)
 
@@ -258,7 +258,7 @@ Criteria.—In promulgating regulations that establish the standards and practic
 
 &emsp;&emsp;&emsp;(IV) Searches for recorded environmental cleanup liens against the facility that are filed under Federal, State, or local law.
 
-&emsp;&emsp;&emsp;(V) Reviews of Federal, State, and local government records, waste disposal records, underground storage tank records, and hazardous waste handling, generation, treatment, disposal, and spill records, concerning contamination at or near the facility.
+&emsp;&emsp;&emsp;(V) Reviews of Federal, State, and local government records, waste disposal records, underground storage tank records, and hazardous waste handling, generation,treatment, disposal, and spill records, concerning contamination at or near the facility.
 
 &emsp;&emsp;&emsp;(VI) Visual inspections of the facility and of adjoining properties.
 
@@ -402,7 +402,7 @@ In general.—The term "bona fide prospective purchaser" means, with respect to 
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb)(AA) The owner of the facility that is subject to the leasehold interest was a person described in clause (i) at the time the leasehold interest was acquired, but can no longer establish by a preponderance of the evidence each of the criteria described in clauses (i) through (viii) of subparagraph (B) due to circumstances unrelated to any action of the person who holds the leasehold interest; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(BB) the person who holds the leasehold interest establishes by a preponderance of the evidence each of the criteria described in clauses (i), (iii), (iv), (v), (vi), (vii), and (viii) of subparagraph (B).
+&emsp;&emsp;&emsp;&emsp;&emsp;(BB) the person who holds the leasehold interest establishes by a preponderance of the evidence each of the criteria described in clauses (i), (iii), (iv),\(v), (vi), (vii), and (viii) of subparagraph (B).
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(cc) The person who holds the leasehold interest establishes by a preponderance of the evidence each of the criteria described in clauses (i) through (viii) of subparagraph (B).
 
@@ -506,6 +506,8 @@ Exclusions.—The term "eligible response site" does not include—
 
 (Pub. L. 96–510, title I, §101, Dec. 11, 1980, 94 Stat. 2767; Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 99–499, title I, §§101, 114(b), 127(a), title V, §517(c)(2), Oct. 17, 1986, 100 Stat. 1615, 1652, 1692, 1774; Pub. L. 100–707, title I, §109(v), Nov. 23, 1988, 102 Stat. 4710; Pub. L. 103–429, §7(e)(1), Oct. 31, 1994, 108 Stat. 4390; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], title II, §2502(b), Sept. 30, 1996, 110 Stat. 3009, 3009–41, 3009–464; Pub. L. 104–287, §6(j)(1), Oct. 11, 1996, 110 Stat. 3399; Pub. L. 106–74, title IV, §427, Oct. 20, 1999, 113 Stat. 1095; Pub. L. 107–118, title II, §§211(a), 222(a), 223, 231(a), Jan. 11, 2002, 115 Stat. 2360, 2370, 2372, 2375; Pub. L. 115–141, div. N, §§2–5(a), Mar. 23, 2018, 132 Stat. 1052, 1053.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in pars. (5), (13), (20)(D), (G), (35)(C), (D), (39)(B)(iii), (D)(ii)(II)(bb), and (40)(A)(ii)(II), (B)(vii), was in the original "this Act", meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980. For complete classification of this Act to the Code, see Short Title note below and Tables.
@@ -520,7 +522,7 @@ The Atomic Energy Act of 1954, referred to in pars. (10) and (22), is act Aug. 1
 
 The Solid Waste Disposal Act, referred to in pars. (14), (39)(B)(iv), (vi)(I), (ix), and (41)(B)(i), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. Subtitles C and I of the Act are classified generally to subchapters III (§6921 et seq.) and IX (§6991 et seq.), respectively, of chapter 82 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
-The Alaska Native Claims Settlement Act, referred to in par. (20)(E), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat.688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (20)(E), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 The Farm Credit Act of 1971, referred to in par. (20)(H)(iv)(III), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, as amended, which is classified generally to chapter 23 (§2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 12 and Tables.
 
@@ -540,7 +542,7 @@ Par. (20)(G). Pub. L. 115–141, §3(1), (3), redesignated subpar. (F) as (G) an
 
 Par. (20)(H). Pub. L. 115–141, §3(1), (4), redesignated subpar. (G) as (H) and substituted "of title 12) or" for "of title 12 or" in cl. (i)(II).
 
-Par. (39)(D)(ii)(II)(bb). Pub. L. 115–141, §4, amended item (bb) generally. Prior to amendment, item (bb) read as follows: "is a site determined by the Administrator or the State, as appropriate, to be—
+Par. (39)(D)(ii)(II)(bb). Pub. L. 115–141, §4, amended item (bb) generally. Prior to amendment, item (bb)read as follows: "is a site determined by the Administrator or the State, as appropriate, to be—
 
 &emsp;"(AA) of relatively low risk, as compared with other petroleum-only sites in the State; and
 
@@ -628,6 +630,8 @@ Par. (38). Pub. L. 99–499, §127(a), added par. (38).
 
 <b>1980</b>—Pars. (8), (16). Pub. L. 96–561 substituted "Magnuson Fishery Conservation and Management Act" for "Fishery Conservation and Management Act of 1976".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1996 Amendment
 
 Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
@@ -674,14 +678,6 @@ Pub. L. 99–499, §1, Oct. 17, 1986, 100 Stat. 1613, provided that: "This Act \
 
 Pub. L. 96–510, §1, Dec. 11, 1980, 94 Stat. 2767, provided: "That this Act \[enacting this chapter, section 6911a of this title, and sections 4611, 4612, 4661, 4662, 4681, and 4682 of Title 26, Internal Revenue Code, amending section 6911 of this title, section 1364 of Title 33, Navigation and Navigable Waters, and section 11901 of Title 49, Transportation, and enacting provisions set out as notes under section 6911 of this title and sections 1 and 4611 of Title 26\] may be cited as the 'Comprehensive Environmental Response, Compensation, and Liability Act of 1980'."
 
-#### Transfer of Functions
-
-For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg. Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out as a note under section 5841 of this title.
-
-#### Territorial Sea and Contiguous Zone of United States
-
-For extension of territorial sea and contiguous zone of United States, see Proc. No. 5928 and Proc. No. 7219, respectively, set out as notes under section 1331 of Title 43, Public Lands.
-
 #### Definitions
 
 Pub. L. 99–499, §2, Oct. 17, 1986, 100 Stat. 1614, provided that: "As used in this Act \[see Short Title of 1986 Amendment note above\]—
@@ -691,6 +687,16 @@ Pub. L. 99–499, §2, Oct. 17, 1986, 100 Stat. 1614, provided that: "As used in
 &emsp;"(2)
 
 Administrator.—The term 'Administrator' means the Administrator of the Environmental Protection Agency."
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg. Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out as a note under section 5841 of this title.
+
+#### Territorial Sea and Contiguous Zone of United States
+
+For extension of territorial sea and contiguous zone of United States, see Proc. No. 5928 and Proc. No. 7219, respectively, set out as notes under section 1331 of Title 43, Public Lands.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "or".</i>
 

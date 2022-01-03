@@ -4,11 +4,15 @@ Whoever, with intent to injure the United States or with intent to secure an adv
 
 (Aug. 1, 1946, ch. 724, title I, §225, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 959; amended Pub. L. 91–161, §3(b), Dec. 24, 1969, 83 Stat. 444; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 106–65, div. C, title XXXI, §3148(b), Oct. 5, 1999, 113 Stat. 938.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1999</b>—Pub. L. 106–65 substituted "$100,000" for "$20,000".
 
 <b>1969</b>—Pub. L. 91–161 made death penalty inapplicable for willful violation, or attempted violation of this section with intent to injure the United States, or secure an advantage for any foreign nation.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1969 Amendment
 

@@ -28,6 +28,8 @@ Nothing in this section or section 301(f) of title 31 shall be considered to aff
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 915; Pub. L. 86–368, §1, Sept. 22, 1959, 73 Stat. 647; Pub. L. 88–426, title III, §305(39), Aug. 14, 1964, 78 Stat. 427; Pub. L. 94–455, title XIX, §1906(b)(13)(B), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–258, §§2(f)(1), 5(b), Sept. 13, 1982, 96 Stat. 1059, 1068, 1078; Pub. L. 107–296, title XI, §1112(k), Nov. 25, 2002, 116 Stat. 2277; Pub. L. 115–141, div. U, title IV, §401(a)(333), Mar. 23, 2018, 132 Stat. 1200.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Homeland Security Act of 2002, referred to in subsec. (a)(2)(B), is Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, which is classified principally to chapter 1 (§101 et seq.) of Title 6, Domestic Security. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Title 6 and Tables. The effective date of the Act is 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6.
@@ -42,11 +44,13 @@ The Homeland Security Act of 2002, referred to in subsec. (a)(2)(B), is Pub. L. 
 
 Subsec. (c). Pub. L. 97–258, §2(f)(1), inserted "or section 301(f) of title 31" after "Nothing in this section".
 
-<b>1976</b>—Subsec. (b). Pub. L. 94–455 substituted "Secretary of the Treasury" for "Secretary" in four places, in par. (1) after "prescribed by the", in par. (2) after "prescribed by the" and in third sentence thereof "The", and in par. (3) before "may appoint and fix".
+<b>1976</b>—Subsec. (b). Pub. L. 94–455 substituted "Secretary of the Treasury" for "Secretary" in four places, in par. (1) after "prescribed by the", in par. (2) after"prescribed by the" and in third sentence thereof "The", and in par. (3) before "may appoint and fix".
 
 <b>1964</b>—Subsec. (b)(2). Pub. L. 88–426 struck out provisions which prescribed compensation of Assistant General Counsel.
 
 <b>1959</b>—Pub. L. 86–368 provided for Presidential appointment and for compensation of Assistant General Counsel who shall be Chief Counsel for Internal Revenue Service.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 
@@ -75,10 +79,6 @@ Pub. L. 86–368, §4, Sept. 22, 1959, 73 Stat. 649, provided that the position 
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Bureau of Alcohol, Tobacco and Firearms, including the related functions of the Secretary of the Treasury, to the Department of Justice, see section 531(c) of Title 6, Domestic Security, and section 599A(c)(1) of Title 28, Judiciary and Judicial Procedure.
-
-#### Order of Succession
-
-For order of succession during any period when both Secretary and Deputy Secretary of the Treasury are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13246, Dec. 18, 2001, 66 F.R. 66270, listed in a table under section 3345 of Title 5, Government Organization and Employees.
 
 #### Notice From IRS Regarding Closure of Taxpayer Assistance Centers
 
@@ -218,7 +218,7 @@ Listed items.—The expenditure items listed in this subparagraph are as follows
 
 &emsp;&emsp;&emsp;"(iv) supplemental \[sic\] nutrition assistance program benefits and welfare programs.
 
-&emsp;&emsp;&emsp;"(v) Law enforcement, including the Federal Bureau of Investigation, law enforcement grantsto the States, and other Federal law enforcement personnel.
+&emsp;&emsp;&emsp;"(v) Law enforcement, including the Federal Bureau of Investigation, law enforcement grants to the States, and other Federal law enforcement personnel.
 
 &emsp;&emsp;&emsp;"(vi) Infrastructure, including roads, bridges, and mass transit.
 
@@ -286,7 +286,7 @@ Pub. L. 105–206, title I, §1001, July 22, 1998, 112 Stat. 689, provided that:
 
 In General.—The Commissioner of Internal Revenue shall develop and implement a plan to reorganize the Internal Revenue Service. The plan shall—
 
-&emsp;"(1) supersede any organization or reorganization of the Internal Revenue Service based on any statute or reorganization plan applicable on the effective date of this section;
+&emsp;"(1) supersede any organization or reorganization of the Internal Revenue Service based on any statute orreorganization plan applicable on the effective date of this section;
 
 &emsp;"(2) eliminate or substantially modify the existing organization of the Internal Revenue Service which is based on a national, regional, and district structure;
 
@@ -460,7 +460,7 @@ Report.—The Commissioner shall not later than March 1 of each year report the 
 
 #### National Commission on Restructuring Internal Revenue Service
 
-Pub. L. 104–52, title VI, §637, Nov. 19, 1995, 109 Stat. 509, as amended by Pub. L. 104–134, title II, §2904(a), Apr. 26, 1996, 110 Stat. 1321–333; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §643(a)–(e)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–365, provided that:
+Pub. L. 104–52, title VI, §637, Nov. 19, 1995, 109 Stat. 509, as amended by Pub. L. 104–134, title II, §2904(a),Apr. 26, 1996, 110 Stat. 1321–333; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §643(a)–(e)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–365, provided that:
 
 "(a)
 
@@ -699,6 +699,12 @@ Pub. L. 95–600, title V, §553, Nov. 6, 1978, 92 Stat. 2891, authorized the Se
 #### Study and Investigation of Internal Revenue Code Provisions Which Impede or Discourage Recycling of Solid Waste Materials; Presidential and Congressional Report
 
 Pub. L. 94–568, §4, Oct. 20, 1976, 90 Stat. 2698, provided that the Secretary of the Treasury, in cooperation with the Administrator of the Environmental Protection Agency, make a complete study of all provisions of the Internal Revenue Code of 1954 which impeded or discouraged the recycling of solid waste materials and to report to the President and Congress, not later than Apr. 20, 1977, his findings, together with specific legislative proposals designed to increase and encourage the recycling of solid waste materials and detailed revenue cost estimates.
+
+#### <b>Executive Documents</b>
+
+#### Order of Succession
+
+For order of succession during any period when both Secretary and Deputy Secretary of the Treasury are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13246, Dec. 18, 2001, 66 F.R. 66270, listed in a table under section 3345 of Title 5, Government Organization and Employees.
 
 #### Ex. Ord. No. 13051. Internal Revenue Service Management Board
 

@@ -54,7 +54,7 @@
 
 #### (iii) Minimum percentage
 
-&emsp;&emsp;&emsp;The local area shall not receive an allocation percentage for fiscal year 2016 or a subsequent fiscal year that is less than 90 percent of the average allocation percentage of the local area for the 2 preceding fiscal years. Amounts necessary for increasing such allocations to local areas to comply with the preceding sentence shall be obtained by ratably reducing the allocations to be made to other local areas under this subparagraph.
+&emsp;&emsp;&emsp;The local area shall not receive an allocation percentage for fiscal year 2016 or a subsequent fiscal year that is less than 90 percent of the average allocation percentage of the local area for the 2 preceding fiscal years. Amounts necessary for increasing such allocations to local areas tocomply with the preceding sentence shall be obtained by ratably reducing the allocations to be made to other local areas under this subparagraph.
 
 #### (iv) Definition
 

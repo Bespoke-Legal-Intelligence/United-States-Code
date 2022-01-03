@@ -56,7 +56,7 @@ The Director of the Institute shall act as the primary Federal official with res
 
 &emsp;&emsp;(C) ensure that the plan and budget establish objectives regarding such activities, describes the means for achieving the objectives, and designates the date by which the objectives are expected to be achieved;
 
-&emsp;&emsp;(D) ensure that, with respect to amounts appropriated for activities of the Institute,the plan and budget give priority in the expenditure of funds to conducting and supporting minority health disparities research;
+&emsp;&emsp;(D) ensure that, with respect to amounts appropriated for activities of the Institute, the plan and budget give priority in the expenditure of funds to conducting and supporting minority health disparities research;
 
 &emsp;&emsp;(E) ensure that all amounts appropriated for such activities are expended in accordance with the plan and budget;
 
@@ -128,9 +128,11 @@ In carrying out subsection (a), the Director of the Institute—
 
 #### (k) Intra-National Institutes of Health coordination
 
-The Director of the Institute, as the primary Federal official with responsibility for coordinating all research and activities conducted orsupported by the National Institutes of Health on minority health and health disparities, shall plan, coordinate, review, and evaluate research and other activities conducted or supported by the national research institutes and national centers. The Director of the Institute may foster partnerships between the national research institutes and national centers and may encourage the funding of collaborative research projects to achieve the goals of the National Institutes of Health that are related to minority health and health disparities.
+The Director of the Institute, as the primary Federal official with responsibility for coordinating all research and activities conducted or supported by the National Institutes of Health on minority health and health disparities, shall plan, coordinate, review, and evaluate research and other activities conducted or supported by the national research institutes and national centers. The Director of the Institute may foster partnerships between the national research institutes and national centers and may encourage the funding of collaborative research projects to achieve the goals of the National Institutes of Health that are related to minority health and health disparities.
 
 (July 1, 1944, ch. 373, title IV, §464z–3, formerly §485E, as added Pub. L. 106–525, title I, §101(a), Nov. 22, 2000, 114 Stat. 2497; amended Pub. L. 109–482, title I, §§103(b)(44), 104(b)(1)(N), Jan. 15, 2007, 120 Stat. 3688, 3693; renumbered §464z–3 and amended Pub. L. 111–148, title X, §10334(c)(1)(D), (2), Mar. 23, 2010, 124 Stat. 973; Pub. L. 112–74, div. F, title II, §221(d)(3), Dec. 23, 2011, 125 Stat. 1090; Pub. L. 114–255, div. A, title II, §2038(f), Dec. 13, 2016, 130 Stat. 1066.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -179,6 +181,8 @@ Subsecs. (i), (j). Pub. L. 111–148, §10334(c)(1)(D)(iii), substituted "Instit
 &emsp;"(4) contain such recommendations as the Director considers appropriate."
 
 Subsec. (l). Pub. L. 109–482, §103(b)(44), struck out heading and text of subsec. (l). Text read as follows: "For the purpose of carrying out this subpart, there are authorized to be appropriated $100,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 through 2005. Such authorization of appropriations is in addition to other authorizations of appropriations that are available for the conduct and support of minority health disparities research or other health disparities research by the agencies of the National Institutes of Health."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

@@ -22,6 +22,8 @@ In this section, the term "appropriate congressional committees" means—
 
 (Pub. L. 115–232, div. A, title XVII, §1763, Aug. 13, 2018, 132 Stat. 2231; Pub. L. 116–283, div. A, title X, §1081(d)(9), Jan. 1, 2021, 134 Stat. 3874.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Executive Order 12981, referred to in subsec. (c), is Ex. Ord. No. 12981, Dec. 5, 1995, 60 F.R. 62981, which is set out as a note under former section 4603 of this title.
@@ -30,9 +32,13 @@ Executive Order 12981, referred to in subsec. (c), is Ex. Ord. No. 12981, Dec. 5
 
 <b>2021</b>—Subsec. (c). Pub. L. 116–283 substituted "December 5, 1995" for "December 5, 1991".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2021 Amendment
 
 Pub. L. 116–283, div. A, title X, §1081(d), Jan. 1, 2021, 134 Stat. 3873, provided that the amendment made by section 1081(d)(9) is effective as of Aug. 13, 2018, and as if included in Pub. L. 115–232.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Authorities and Responsibilities Under Section 1763 of the National Defense Authorization Act for Fiscal Year 2019
 
@@ -40,7 +46,7 @@ Memorandum of President of the United States, Jan. 15, 2019, 84 F.R. 197, provid
 
 Memorandum for the Secretary of Commerce
 
-By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, including section 301 of title 3, United States Code, I hereby delegate to the Secretary of Commerce, in coordination with executive departments and agencies through the National Security Presidential Memorandum–4 \[50 U.S.C. 3021 note\] process, the functions and authorities vested in the President by section 1763 of the National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232) \[50 U.S.C. 4822\].
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, I hereby delegate to the Secretary of Commerce, in coordination with executive departments and agencies through the National Security Presidential Memorandum–4 \[50 U.S.C. 3021 note\] process, the functions and authorities vested in the President by section 1763 of the National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232) \[50 U.S.C. 4822\].
 
 The delegation of authorities and responsibilities in this memorandum shall apply to any provision of any future public law that are the same or substantially the same as the provision referenced in this memorandum.
 

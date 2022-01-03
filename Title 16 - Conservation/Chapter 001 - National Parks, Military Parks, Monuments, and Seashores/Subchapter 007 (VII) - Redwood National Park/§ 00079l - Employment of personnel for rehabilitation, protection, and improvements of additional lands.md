@@ -14,7 +14,7 @@ An affected employee shall be given full consideration for certain civilian jobs
 
 #### (d) Procedures applicable to Federal agencies for creating or filling job positions; applicants subject to preferential treatment; considerations for employment
 
-(1) Any Federal agency that is creating or filling a civilian Federal job that is within the scope of clause (2)(A) of this subsection, pursuant to contract, civil service merit system, or otherwise, that will be primarily located in Humboldt or Del Norte Counties, California, or other counties in California adjacent thereto, must provide notice in advance of the availability of that job and must provide qualified affected employee applicants for these positions with full consideration for these positions if thefurther conditions set forth in clause (2)(B) of this subsection are met. The notice required by this paragraph shall be as provided by applicable law and regulation through the offices of the Employment and Training Services located in Humboldt and Del Norte Counties, California, and through such other means as are likely to gain the attention of affected employees.
+(1) Any Federal agency that is creating or filling a civilian Federal job that is within the scope of clause (2)(A) of this subsection, pursuant to contract, civil service merit system, or otherwise, that will be primarily located in Humboldt or Del Norte Counties, California, or other counties in California adjacent thereto, must provide notice in advance of the availability of that job and must provide qualified affected employee applicants for these positions with full consideration for these positions if the further conditions set forth in clause (2)(B) of this subsection are met. The notice required by this paragraph shall be as provided by applicable law and regulation through the offices of the Employment and Training Services located in Humboldt and Del Norte Counties, California, and through such other means as are likely to gain the attention of affected employees.
 
 (2) Consideration for employment under this section shall be provided under the following conditions:
 
@@ -52,7 +52,7 @@ The Secretary is directed to seek and authorized to enter into agreements with a
 
 (3) The Secretary shall—
 
-&emsp;(A) seek the cooperation of the State of California and the county and local governmentswithin Humboldt and Del Norte Counties in the implementation of the provisions of this section and in the adoption of similar provisions for full consideration of affected employees with regard to State, county, and local jobs and activities; and
+&emsp;(A) seek the cooperation of the State of California and the county and local governments within Humboldt and Del Norte Counties in the implementation of the provisions of this section and in the adoption of similar provisions for full consideration of affected employees with regard to State, county, and local jobs and activities; and
 
 &emsp;(B) appoint, from among nominees proposed by certified or recognized unions representing employees, a person or persons who shall serve as the Secretary's liaison with employees and their union and as consultant to the Secretary with regard to the administration of those provisions of this Act for which the Secretary is responsible.
 
@@ -65,6 +65,8 @@ An employee, a group of employees, a certified or recognized union, or an author
 Nothing in this section shall be construed to affect any additional or alternative rights under a law, regulation, or contract (including, but not limited to, veteran preference and contracts between private employers and unions) in effect as of March 27, 1978, and the implementation of this section shall be carried out in accord with applicable civil service laws and regulations except as otherwise provided for in this section. Employees appointed to Federal jobs pursuant to this section shall have their compensation fixed at rates not to exceed that now or hereafter prescribed for the highest rate of grade 15 of the General Schedule under section 5332 of title 5.
 
 (Pub. L. 95–250, title I, §103, Mar. 27, 1978, 92 Stat. 167; Pub. L. 96–417, title VI, §602, Oct. 10, 1980, 94 Stat. 1744; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(b)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–417.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -81,6 +83,8 @@ Section was not enacted as part of Pub. L. 90–545, Oct. 2, 1968, 82 Stat. 931,
 Subsec. (b). Pub. L. 105–277, §101(f) \[title VIII, §405(b)(2)\], struck out after first sentence "In filling these positions, preference shall be given to affected employees (as defined in title II) for a period ending on September 30, 1984, notwithstanding applicable civil service laws and regulations."
 
 <b>1980</b>—Subsec. (h). Pub. L. 96–417 substituted provision for judicial review under section 2395 of title 19 for review under section 2322 of title 19 and provided for review in the appropriate court of appeals of the United States and for review of the judgment of the court of appeals by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

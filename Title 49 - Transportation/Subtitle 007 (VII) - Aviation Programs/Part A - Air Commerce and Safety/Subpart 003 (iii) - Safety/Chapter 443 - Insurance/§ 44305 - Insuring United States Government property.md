@@ -38,7 +38,9 @@ In this section, the words "a department, agency, or instrumentality" are substi
 
 In subsection (a)(1), the words "obtain insurance under this chapter" are substituted for "procure from the Secretary any of the insurance provided under this subchapter" to eliminate unnecessary words. The words "overseas air commerce" are omitted for the reasons given in the revision note for section 40101.
 
-In subsection (b), the words "or the head of a department, agency, or instrumentality designated by the President" are substituted for "and such other agencies as the President may prescribe" as being more precise and for consistency in the revised title. The words "when the Secretary of Defense or the designated head agrees" are substituted for "in consideration of" for clarity. The words "any designated head" are substituted for "the agreement of . . . such agency" and "such other agencies" for clarity and because of the restatement.
+In subsection (b), the words "or the head of a department, agency, or instrumentality designated by the President" are substituted for "and such other agencies as the President may prescribe" as being more precise and for consistency in the revised title. The words"when the Secretary of Defense or the designated head agrees" are substituted for "in consideration of" for clarity. The words "any designated head" are substituted for "the agreement of . . . such agency" and "such other agencies" for clarity and because of the restatement.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

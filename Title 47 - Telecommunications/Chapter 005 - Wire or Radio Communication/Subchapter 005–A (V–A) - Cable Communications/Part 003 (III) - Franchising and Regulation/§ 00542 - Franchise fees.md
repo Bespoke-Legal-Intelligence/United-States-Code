@@ -6,7 +6,7 @@ Subject to the limitation of subsection (b), any cable operator may be required 
 
 #### (b) Amount of fees per annum
 
-For any twelve-month period, the franchise fees paid by a cable operator with respect to any cable system shall not exceed 5 percent of such cable operator's gross revenues derived in such period from the operation of the cable system to provide cable services. For purposes of this section, the 12-month period shall be the 12-month period applicable under the franchise for accounting purposes. Nothing in this subsection shall prohibit a franchising authority and a cable operator from agreeing that franchise fees which lawfully could be collected for any such 12-month period shall be paid on a prepaid or deferred basis; except that the sum of the fees paid during the term of the franchise may not exceed the amount, including the time value of money, which would have lawfully been collected if such fees had been paid per annum.
+For any twelve-month period, the franchise fees paid by a cable operator with respect to anycable system shall not exceed 5 percent of such cable operator's gross revenues derived in such period from the operation of the cable system to provide cable services. For purposes of this section, the 12-month period shall be the 12-month period applicable under the franchise for accounting purposes. Nothing in this subsection shall prohibit a franchising authority and a cable operator from agreeing that franchise fees which lawfully could be collected for any such 12-month period shall be paid on a prepaid or deferred basis; except that the sum of the fees paid during the term of the franchise may not exceed the amount, including the time value of money, which would have lawfully been collected if such fees had been paid per annum.
 
 #### (c) Itemization of subscriber bills
 
@@ -64,7 +64,7 @@ Any Federal agency may not regulate the amount of the franchise fees paid by a c
 
 #### References in Text
 
-This chapter, referred to in subsec. (h)(1), was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934,which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+This chapter, referred to in subsec. (h)(1), was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
 #### Amendments
 

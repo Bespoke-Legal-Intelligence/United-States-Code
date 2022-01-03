@@ -2,11 +2,13 @@
 
 #### (a) Uniform requirements
 
-The Secretary shall develop and establish uniform recordkeeping, performance reporting, andauditing requirements for use by participating jurisdictions.
+The Secretary shall develop and establish uniform recordkeeping, performance reporting, and auditing requirements for use by participating jurisdictions.
 
 #### (b) Omitted
 
 (Pub. L. 101–625, title II, §284, Nov. 28, 1990, 104 Stat. 4126.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

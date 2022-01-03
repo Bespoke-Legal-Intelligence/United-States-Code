@@ -20,6 +20,8 @@ Historical and Revision Notes
 
 The words "Secretary of Defense" and "Defense Mapping Agency" are substituted for "Secretary of the Navy" and "United States Naval Oceanographic Office", respectively, for consistency with 10:2791. The words "Secretary of Commerce" are substituted for "Weather Bureau of the Department of Commerce" to reflect the transfer of functions from the Weather Bureau to the Secretary of Commerce under Reorganization Plan No. 2 of 1965 (eff. July 13, 1965, 79 Stat. 1318). The word "quickly" is substituted for "expeditiously" for consistency in title 10.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 452 was renumbered section 482 of this title.
@@ -29,6 +31,8 @@ A prior section 452 was renumbered section 482 of this title.
 <b>2003</b>—Pub. L. 108–136 substituted "National Geospatial-Intelligence Agency" for "National Imagery and Mapping Agency" wherever appearing.
 
 <b>1996</b>—Pub. L. 104–201 renumbered section 2793 of this title as this section and substituted "National Imagery and Mapping Agency" for "Defense Mapping Agency" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

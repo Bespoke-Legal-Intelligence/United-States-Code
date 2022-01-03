@@ -10,7 +10,7 @@ The purposes of this chapter are to—
 
 &emsp;(4) make restitution to those individuals of Japanese ancestry who were interned;
 
-&emsp;(5) make restitution to Aleut residents of the Pribilof Islands and the Aleutian Islandswest of Unimak Island, in settlement of United States obligations in equity and at law, for—
+&emsp;(5) make restitution to Aleut residents of the Pribilof Islands and the Aleutian Islands west of Unimak Island, in settlement of United States obligations in equity and at law, for—
 
 &emsp;&emsp;(A) injustices suffered and unreasonable hardships endured while those Aleut residents were under United States control during World War II;
 
@@ -25,6 +25,8 @@ The purposes of this chapter are to—
 &emsp;(7) make more credible and sincere any declaration of concern by the United States over violations of human rights committed by other nations.
 
 (Pub. L. 100–383, §1, Aug. 10, 1988, 102 Stat. 903.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

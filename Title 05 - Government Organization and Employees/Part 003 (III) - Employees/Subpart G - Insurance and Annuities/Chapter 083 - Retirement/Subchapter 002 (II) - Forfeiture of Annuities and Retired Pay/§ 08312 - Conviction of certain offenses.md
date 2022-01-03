@@ -96,7 +96,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### References in Text
 
-Pars. (2), (3) and (4) of subsec. (b) of section 10 of the Atomic Energy Act of 1946 (60 Stat. 766, 767), as in effect before August 30, 1954, referred to in subsec. (b)(1)(D), are covered by sections 2274, 2275 and 2276, respectively, of Title 42, The Public Health and Welfare.
+Pars. (2), (3) and (4) of subsec. (b) of section 10 of the Atomic Energy Act of 1946 (60 Stat. 766, 767), as in effect before August 30, 1954, referred to in subsec. (b)(1)(D),are covered by sections 2274, 2275 and 2276, respectively, of Title 42, The Public Health and Welfare.
 
 Subsecs. (a) and (b) of section 16 of the Atomic Energy Act of 1946 (60 Stat. 773), as in effect before August 30, 1954, referred to in subsec. (b)(1)(E), are covered by sections 2272 and 2273, respectively, of Title 42.
 

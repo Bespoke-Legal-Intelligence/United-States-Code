@@ -4,7 +4,7 @@
 
 #### (1) Individuals with income below 135 percent of poverty line
 
-&emsp;In the case of a subsidy eligible individual (as defined in paragraph (3)) who is determined to have income that is below 135 percent of the poverty line applicable to a family of the size involved and who meets the resources requirement described in paragraph (3)(D) or who is covered under this paragraph under paragraph\(3)(B)(i), the individual is entitled under this section to the following:
+&emsp;In the case of a subsidy eligible individual (as defined in paragraph (3)) who is determined to have income that is below 135 percent of the poverty line applicable to a family of the size involved and who meets the resources requirement described in paragraph (3)(D) or who is covered under this paragraph under paragraph (3)(B)(i), the individual is entitled under this section to the following:
 
 #### (A) Full premium subsidy
 
@@ -58,7 +58,7 @@
 
 #### (E) Reduction of cost-sharing above annual out-of-pocket threshold
 
-&emsp;&emsp;Subject to subsection (c), the substitution for the cost-sharing imposed under section 1395w–102(b)(4)(A) of this title of a copayment or coinsurance not to exceed the copayment or coinsurance amount specifiedunder section 1395w–102(b)(4)(A)(i)(I) of this title for the drug and year involved.
+&emsp;&emsp;Subject to subsection (c), the substitution for the cost-sharing imposed under section 1395w–102(b)(4)(A) of this title of a copayment or coinsurance not to exceed the copayment or coinsurance amount specified under section 1395w–102(b)(4)(A)(i)(I) of this title for the drug and year involved.
 
 #### (3) Determination of eligibility
 
@@ -196,7 +196,7 @@
 
 #### (5) Waiver of de minimis premiums
 
-&emsp;The Secretary shall, under procedures established by the Secretary, permit a prescription drug plan or an MA–PD plan to waive the monthly beneficiary premium for a subsidy eligible individual if the amount of such premium is de minimis. If such premium is waived under the plan, the Secretary shall not reassign subsidy eligible individuals enrolled in the plan to other plans based on the fact that the monthly beneficiary premium under the plan was greater than the low-income benchmark premium amount.
+&emsp;The Secretary shall, under procedures established by the Secretary, permit a prescriptiondrug plan or an MA–PD plan to waive the monthly beneficiary premium for a subsidy eligible individual if the amount of such premium is de minimis. If such premium is waived under the plan, the Secretary shall not reassign subsidy eligible individuals enrolled in the plan to other plans based on the fact that the monthly beneficiary premium under the plan was greater than the low-income benchmark premium amount.
 
 #### (b) Premium subsidy amount
 
@@ -262,7 +262,7 @@ Beginning not later than January 1, 2011, the Secretary shall, in the case of a 
 
 #### (1) In general
 
-&emsp;Beginning not later than January 1, 2024, the Secretary shall carry out a program to provide transitional coverage for covered part D drugs for LI NET eligible individuals in accordance with this subsection.
+&emsp;Beginning not later than January 1, 2024, the Secretary shall carry out a program to providetransitional coverage for covered part D drugs for LI NET eligible individuals in accordance with this subsection.
 
 #### (2) LI NET eligible individual defined
 
@@ -330,6 +330,8 @@ For special provisions under the medicaid program relating to medicare prescript
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1860D–14, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2107; amended Pub. L. 110–275, title I, §§114(a)(2), 116(a), 117(a), July 15, 2008, 122 Stat. 2506, 2507; Pub. L. 111–148, title III, §§3302(a), 3303(a), 3304(a), 3305, 3309, Mar. 23, 2010, 124 Stat. 468–470, 475; Pub. L. 111–152, title I, §1102(c)(4), Mar. 30, 2010, 124 Stat. 1045; Pub. L. 116–260, div. CC, title I, §118, Dec. 27, 2020, 134 Stat. 2950.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2020</b>—Subsecs. (e), (f). Pub. L. 116–260 added subsec. (e) and redesignated former subsec. (e) as (f).
@@ -359,6 +361,8 @@ Subsec. (a)(3)(C)(i). Pub. L. 110–275, §116(a)(1), inserted "and except that 
 Subsec. (a)(3)(D), (E)(i). Pub. L. 110–275, §116(a)(2), (3), inserted "subject to the life insurance policy exclusion provided under subparagraph (G)" after "program" in introductory provisions.
 
 Subsec. (a)(3)(G). Pub. L. 110–275, §116(a)(4), added subpar. (G).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

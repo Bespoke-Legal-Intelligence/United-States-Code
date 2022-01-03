@@ -26,6 +26,6 @@
 - [&sect; 01729A - Department of Veterans Affairs Medical Care Collections Fund](%C2%A7%2001729A%20-%20Department%20of%20Veterans%20Affairs%20Medical%20Care%20Collections%20Fund.md)
 - [&sect; 01729B - Consolidated patient accounting centers](%C2%A7%2001729B%20-%20Consolidated%20patient%20accounting%20centers.md)
 - [&sect; 01730 - Community residential care](%C2%A7%2001730%20-%20Community%20residential%20care.md)
-- [&sect; 01730A - Prohibition on collection of copayments from catastrophically disabled veterans](%C2%A7%2001730A%20-%20Prohibition%20on%20collection%20of%20copayments%20from%20catastrophically%20disabled%20veterans.md)
+- [&sect; 01730A - Prohibition on collection of copayments from certain veterans](%C2%A7%2001730A%20-%20Prohibition%20on%20collection%20of%20copayments%20from%20certain%20veterans.md)
 - [&sect; 01730B - Access to State prescription drug monitoring programs](%C2%A7%2001730B%20-%20Access%20to%20State%20prescription%20drug%20monitoring%20programs.md)
 - [&sect; 01730C - Licensure of health care professionals providing treatment via telemedicine](%C2%A7%2001730C%20-%20Licensure%20of%20health%20care%20professionals%20providing%20treatment%20via%20telemedicine.md)

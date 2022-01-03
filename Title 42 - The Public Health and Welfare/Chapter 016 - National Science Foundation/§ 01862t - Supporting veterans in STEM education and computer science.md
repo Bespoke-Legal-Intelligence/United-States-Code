@@ -56,11 +56,15 @@ The National Science Board shall provide in its annual report on indicators of t
 
 (Pub. L. 116–115, §3, Feb. 11, 2020, 134 Stat. 106.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is comprised of section 3 of Pub. L. 116–115. Subsec. (d) of section 3 of Pub. L. 116–115 amended section 1862n–1 of this title. Subsec. (e) of section 3 of Pub. L. 116–115 amended section 1862n–1a of this title. Subsecs. (f) and (g) of section 3 of Pub. L. 116–115 amended section 7404 of Title 15, Commerce and Trade.
 
 Section was enacted as part of the Supporting Veterans in STEM Careers Act, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

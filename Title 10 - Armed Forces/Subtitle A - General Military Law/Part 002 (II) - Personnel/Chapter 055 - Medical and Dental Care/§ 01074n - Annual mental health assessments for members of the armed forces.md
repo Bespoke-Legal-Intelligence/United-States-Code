@@ -32,9 +32,13 @@ Regulations.—The Secretary of Defense shall, in consultation with the other ad
 
 (Added Pub. L. 113–291, div. A, title VII, §701(a)(1), Dec. 19, 2014, 128 Stat. 3408; amended Pub. L. 115–91, div. A, title VII, §706(b), Dec. 12, 2017, 131 Stat. 1436.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Subsec. (a). Pub. L. 115–91 inserted "(and before separation from active duty pursuant to section 1145(a)(5)(A) of this title)" after "each calendar year" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Implementation of Regulations
 

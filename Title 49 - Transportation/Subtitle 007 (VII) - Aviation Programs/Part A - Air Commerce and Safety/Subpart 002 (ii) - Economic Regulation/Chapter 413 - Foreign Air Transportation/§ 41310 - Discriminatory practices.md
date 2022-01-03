@@ -150,6 +150,8 @@ In subsection (e)(1), before clause (A), the text of 49 App.:1159b(a) (1st, 2d s
 
 In subsection (e)(2), the words "faced by United States carriers in foreign air transportation", "as may be", and "required by this subsection" are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Subsec. (d)(1). Pub. L. 106–181, §741(b)(1)(A), (B), in first sentence of introductory provisions, substituted "air carrier, computer reservations system firm," for "air carrier" and "subsection (c) or (g)" for "subsection (c)".
@@ -161,6 +163,8 @@ Subsec. (e)(1). Pub. L. 106–181, §741(b)(2), inserted "or a computer reservat
 Subsec. (g). Pub. L. 106–181, §741(a), added subsec. (g).
 
 <b>1996</b>—Subsec. (f). Pub. L. 104–287 substituted "Transportation and Infrastructure" for "Public Works and Transportation".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

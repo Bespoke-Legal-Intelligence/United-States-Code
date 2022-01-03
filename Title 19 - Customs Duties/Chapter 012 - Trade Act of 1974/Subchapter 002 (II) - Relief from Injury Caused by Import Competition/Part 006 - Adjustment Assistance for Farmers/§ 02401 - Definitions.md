@@ -56,6 +56,8 @@ In this part:
 
 <i>For reversion, beginning on July 1, 2021, to provisions in effect on Jan. 1, 2014, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see Codification and Effective and Termination Dates of 2015 Revival notes below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 233 of Pub. L. 112–40, which provided for the Jan. 1, 2014, revival of this section as in effect on Feb. 13, 2011, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, and the provisions of this section, as in effect on Dec. 31, 2013, were temporarily revived, effective June 29, 2015, until July 1, 2021, by Pub. L. 114–27, §§402(b), (c), 406. See 2011 and 2015 Amendment notes, Effective and Termination Dates of 2011 Revival notes, and Effective and Termination Dates of 2015 Revival notes below.
@@ -81,6 +83,8 @@ Par. (7). Pub. L. 111–5, §§1881(3), 1893, temporarily added par. (7). See Co
 <b>2008</b>—Par. (2). Pub. L. 110–246, §1603(g)(6), as amended by Pub. L. 113–79, §1609(b)(1), inserted "(before the amendment made by section 1603(a) of the Food, Conservation, and Energy Act of 2008)" before period at end.
 
 <b>2006</b>—Par. (2). Pub. L. 109–280 substituted "1308(e)" for "1308(5)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective and Termination Dates of 2015 Revival
 

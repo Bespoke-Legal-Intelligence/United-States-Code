@@ -114,7 +114,7 @@ In sections 539m to 539m–12 of this title:
 
 #### (12) Settlement Agreement
 
-&emsp;The term "Settlement Agreement" means the Agreement of Compromise and Settlementdated April 4, 2000, among the United States, the Pueblo, and the Sandia Peak Tram Company.
+&emsp;The term "Settlement Agreement" means the Agreement of Compromise and Settlement dated April 4, 2000, among the United States, the Pueblo, and the Sandia Peak Tram Company.
 
 #### (13) Special use permit
 
@@ -169,6 +169,8 @@ In sections 539m to 539m–12 of this title:
 &emsp;&emsp;(B) the use, hunting, trapping, or gathering of plants, animals, wood, water, and other natural resources for a noncommercial purpose.
 
 (Pub. L. 108–7, div. F, title IV, §403, Feb. 20, 2003, 117 Stat. 280.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

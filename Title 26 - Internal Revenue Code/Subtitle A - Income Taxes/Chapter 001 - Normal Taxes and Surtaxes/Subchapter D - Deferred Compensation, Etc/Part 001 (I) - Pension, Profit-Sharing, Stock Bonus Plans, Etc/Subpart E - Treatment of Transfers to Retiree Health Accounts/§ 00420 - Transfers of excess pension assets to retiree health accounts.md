@@ -76,7 +76,7 @@ For purposes of this section—
 
 #### (2) Requirements relating to pension benefits accruing before transfer
 
-&emsp;The requirements of this paragraph are met if the plan provides that the accrued pensionbenefits of any participant or beneficiary under the plan become nonforfeitable in the same manner which would be required if the plan had terminated immediately before the qualified transfer (or in the case of a participant who separated during the 1-year period ending on the date of the transfer, immediately before such separation).
+&emsp;The requirements of this paragraph are met if the plan provides that the accrued pension benefits of any participant or beneficiary under the plan become nonforfeitable in the same manner which would be required if the plan had terminated immediately before the qualified transfer (or in the case of a participant who separated during the 1-year period ending on the date of the transfer, immediately before such separation).
 
 #### (3) Minimum cost requirements
 
@@ -340,7 +340,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term "collectively bargained retiree liabilities" means the present value, as ofthe beginning of a taxable year and determined in accordance with the applicable collective bargaining agreement, of all collectively bargained health benefits, and collectively bargained life insurance benefits, (including administrative expenses) for such taxable year and all subsequent taxable years during the collectively bargained cost maintenance period.
+&emsp;&emsp;&emsp;The term "collectively bargained retiree liabilities" means the present value, as of the beginning of a taxable year and determined in accordance with the applicable collective bargaining agreement, of all collectively bargained health benefits, and collectively bargained life insurance benefits, (including administrative expenses) for such taxable year and all subsequent taxable years during the collectively bargained cost maintenance period.
 
 #### (ii) Reduction for amounts previously set aside
 
@@ -392,7 +392,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of a plan with respect to which there is an excess described in paragraph (2)(B)(ii) as of the valuation date of the plan year in the last year of the original transfer period, paragraph (2)(B) shall apply for 5 years after the original transfer period in the same manner as during atransfer period by substituting the applicable percentage for "120 percent" in clause (i) thereof.
+&emsp;&emsp;&emsp;In the case of a plan with respect to which there is an excess described in paragraph (2)(B)(ii) as of the valuation date of the plan year in the last year of the original transfer period, paragraph (2)(B) shall apply for 5 years after the original transfer period in the same manner as during a transfer period by substituting the applicable percentage for "120 percent" in clause (i) thereof.
 
 #### (ii) Applicable percentage
 
@@ -420,7 +420,9 @@ For purposes of this section—
 
 For purposes of this section, section 430 shall be applied without regard to subsection (h)(2)(C)(iv) thereof.
 
-(Added Pub. L. 101–508, title XII, §12011(a), Nov. 5, 1990, 104 Stat. 1388–567; amended Pub. L. 103–465, title VII, §731(a)–(c)(3), Dec. 8, 1994, 108 Stat. 5003, 5004; Pub. L. 104–188, title I, §1704(a), (t)(32), Aug. 20, 1996, 110 Stat. 1878, 1889; Pub. L. 106–170, title V, §535(a)(1), (b), Dec. 17, 1999, 113 Stat. 1934; Pub. L. 108–218, title II, §204(a), Apr. 10, 2004, 118 Stat. 609; Pub. L. 108–357, title VII, §709(b)(1), (2), Oct. 22, 2004, 118 Stat. 1551, 1552; Pub. L. 109–280, title I, §114(d), title VIII, §§841(a), 842(a), Aug. 17, 2006, 120 Stat. 854, 1005, 1009; Pub. L. 110–28, title VI, §§6612(a), (b), 6613(a), May 25, 2007, 121 Stat. 181; Pub. L. 110–458, title I, §108(i)(1), (2), Dec. 23, 2008, 122 Stat. 5110; Pub. L. 112–141, div. D, title II, §§40211(a)(2)(D), 40241(a), 40242(a)–(c), (e)(1)–(13), (f), (g), July 6, 2012, 126 Stat. 847, 859, 860, 862, 863; Pub. L. 113–97, title II, §202(c)(7), Apr. 7, 2014, 128 Stat. 1137; Pub. L. 114–41, title II, §2007(a), July 31, 2015, 129 Stat. 459; Pub. L. 115–141, div. U, title IV, §401(a)(97), Mar. 23, 2018, 132 Stat. 1188; Pub. L. 116–260, div. N, title II, §285(a), Dec. 27, 2020, 134 Stat. 1988.)
+(Added Pub. L. 101–508, title XII, §12011(a), Nov. 5, 1990, 104 Stat. 1388–567; amended Pub. L.103–465, title VII, §731(a)–(c)(3), Dec. 8, 1994, 108 Stat. 5003, 5004; Pub. L. 104–188, title I, §1704(a), (t)(32), Aug. 20, 1996, 110 Stat. 1878, 1889; Pub. L. 106–170, title V, §535(a)(1), (b), Dec. 17, 1999, 113 Stat. 1934; Pub. L. 108–218, title II, §204(a), Apr. 10, 2004, 118 Stat. 609; Pub. L. 108–357, title VII, §709(b)(1), (2), Oct. 22, 2004, 118 Stat. 1551, 1552; Pub. L. 109–280, title I, §114(d), title VIII, §§841(a), 842(a), Aug. 17, 2006, 120 Stat. 854, 1005, 1009; Pub. L. 110–28, title VI, §§6612(a), (b), 6613(a), May 25, 2007, 121 Stat. 181; Pub. L. 110–458, title I, §108(i)(1), (2), Dec. 23, 2008, 122 Stat. 5110; Pub. L. 112–141, div. D, title II, §§40211(a)(2)(D), 40241(a), 40242(a)–(c), (e)(1)–(13), (f), (g), July 6, 2012, 126 Stat. 847, 859, 860, 862, 863; Pub. L. 113–97, title II, §202(c)(7), Apr. 7, 2014, 128 Stat. 1137; Pub. L. 114–41, title II, §2007(a), July 31, 2015, 129 Stat. 459; Pub. L. 115–141, div. U, title IV, §401(a)(97), Mar. 23, 2018, 132 Stat. 1188; Pub. L. 116–260, div. N, title II, §285(a), Dec. 27, 2020, 134 Stat. 1988.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -470,7 +472,7 @@ Subsec. (c)(1)(C). Pub. L. 112–141, §40242(e)(2), inserted ", or an applicab
 
 Subsec. (c)(2). Pub. L. 112–141, §40242(g)(4), struck out "(A) In general" before "The requirements of", realigned margins, and struck out heading and text of subpar. (B). Prior to amendment, text read as follows: "In the case of a qualified transfer described in subsection (b)(4), the requirements of this paragraph are met with respect to any participant who separated from service during the taxable year to which such transfer relates by recomputing such participant's benefits as if subparagraph (A) had applied immediately before such separation."
 
-Subsec. (c)(3)(A). Pub. L. 112–141, §40242(c)(1), inserted ", and each group-term life insurance plan under whichapplicable life insurance benefits are provided," after "health benefits are provided".
+Subsec. (c)(3)(A). Pub. L. 112–141, §40242(c)(1), inserted ", and each group-term life insurance plan under which applicable life insurance benefits are provided," after "health benefits are provided".
 
 Subsec. (c)(3)(B)(i). Pub. L. 112–141, §40242(c)(2)(A)(i), redesignated subcls. (I) and (II) as (II) and (III), respectively, and added subcl. (I).
 
@@ -556,7 +558,7 @@ Pub. L. 112–141, §40242(b)(3)(A), redesignated subpar. (D) as (E).
 
 Subsec. (g). Pub. L. 112–141, §40211(a)(2)(D), added subsec. (g).
 
-<b>2008</b>—Subsec. (c)(1)(A). Pub. L. 110–458, §108(i)(1), inserted last sentence "In the case of a qualified futuretransfer or collectively bargained transfer to which subsection (f) applies, any assets so transferred may also be used to pay liabilities described in subsection (f)(2)(C)."
+<b>2008</b>—Subsec. (c)(1)(A). Pub. L. 110–458, §108(i)(1), inserted last sentence "In the case of a qualified future transfer or collectively bargained transfer to which subsection (f) applies, any assets so transferred may also be used to pay liabilities described in subsection (f)(2)(C)."
 
 Subsec. (f)(2)(D)(i)(I). Pub. L. 110–458, §108(i)(2), struck out "such" after "average amount of".
 
@@ -584,7 +586,7 @@ Subsec. (e)(4). Pub. L. 109–280, §114(d)(2), amended heading and text of par.
 
 &emsp;"(A) any assets transferred in a plan year on or before the valuation date for such year (and any income allocable thereto) shall, for purposes of section 412, be treated as assets in the plan as of the valuation date for such year, and
 
-&emsp;"(B) the plan shall be treated as having a net experience loss under section 412(b)(2)(B)(iv) in an amount equal to the amount of such transfer (reduced by any amounts transferred back to the pension plan under subsection (c)(1)(B)) and for which amortization charges begin for the first plan year after the plan year in which such transfer occurs, except that such section shall be applied to such amount by substituting '10 plan years' for '5 plan years'."
+&emsp;"(B) the plan shall be treated as having a net experience loss under section 412(b)(2)(B)(iv) in an amountequal to the amount of such transfer (reduced by any amounts transferred back to the pension plan under subsection (c)(1)(B)) and for which amortization charges begin for the first plan year after the plan year in which such transfer occurs, except that such section shall be applied to such amount by substituting '10 plan years' for '5 plan years'."
 
 Subsec. (e)(5). Pub. L. 109–280, §842(a)(2), added par. (5).
 
@@ -615,6 +617,8 @@ Subsec. (c)(3). Pub. L. 103–465, §731(b), amended par. (3) generally, substit
 Subsec. (e)(1)(B). Pub. L. 103–465, §731(c)(2), reenacted subpar. (B) heading without change and amended text generally. Prior to amendment, text read as follows: "The amount determined under subparagraph (A) shall be reduced by any amount previously contributed to a health benefits account or welfare benefit fund (as defined in section 419(e)(1)) to pay for the qualified current retiree health liabilities. The portion of any reserves remaining as of the close of December 31, 1990, shall be allocated on a pro rata basis to qualified current retiree health liabilities."
 
 Subsec. (e)(1)(D). Pub. L. 103–465, §731(c)(3), substituted "and shall not be subject to the minimum benefit requirements of subsection (c)(3)" for "or in calculating applicable employer cost under subsection (c)(3)(B)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 

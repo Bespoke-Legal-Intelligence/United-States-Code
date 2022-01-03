@@ -24,5 +24,5 @@ Changes were made in phraseology.
 
 #### Change of Name
 
-"Director of the Government Publishing Office" substituted for "Public Printer" in text on authority ofsection 1301(d) of Pub. L. 113–235, set out as a note under section 301 of Title 44, Public Printing and Documents.
+"Director of the Government Publishing Office" substituted for "Public Printer" in text on authority of section 1301(d) of Pub. L. 113–235, set out as a note under section 301 of Title 44, Public Printing and Documents.
 

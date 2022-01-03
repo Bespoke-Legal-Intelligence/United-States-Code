@@ -56,7 +56,7 @@ Prohibition Against Use of MTFs and Enrollment Under TRICARE.—Covered benefici
 
 (f)
 
-Term of Enrollment in Project.—(1) Subject to paragraphs (2) and (3), the period of enrollment of an eligible beneficiary who enrolls in the demonstration project during the open enrollment period for the year 2000 shall be three years unless the beneficiary disenrolls before the termination of the project.
+Term of Enrollment in Project.—(1) Subject to paragraphs (2) and (3), the period of enrollment of an eligible beneficiary who enrollsin the demonstration project during the open enrollment period for the year 2000 shall be three years unless the beneficiary disenrolls before the termination of the project.
 
 (2) A beneficiary who elects to enroll in the project, and who subsequently discontinues enrollment in the project before the end of the period described in paragraph (1), shall not be eligible to reenroll in the project.
 
@@ -88,6 +88,8 @@ Application of Medigap Protections to Demonstration Project Enrollees.—(1) Sub
 
 (Added Pub. L. 105–261, div. A, title VII, §721(a)(1), Oct. 17, 1998, 112 Stat. 2061; amended Pub. L. 108–375, div. A, title X, §1084(d)(8), Oct. 28, 2004, 118 Stat. 2061; Pub. L. 112–239, div. A, title X, §1076(g)(1), Jan. 2, 2013, 126 Stat. 1955.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Social Security Act, referred to in subsecs. (b)(1)(A), (D)(i), and (j)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title XVIII of the Act is classified generally to Part A (§1395c et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. Section 1882 of the Act is classified to section 1395ss of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
@@ -99,6 +101,8 @@ Section 1896 of the Social Security Act, referred to in subsec. (c)(3), was clas
 <b>2013</b>—Subsecs. (j) to (l). Pub. L. 112–239 redesignated subsec. (l) as (j) and struck out former subsecs. (j) and (k) which required reports regarding the demonstration project by the Secretary of Defense and the Director of the Office of Personnel Management and by the Comptroller General.
 
 <b>2004</b>—Subsec. (e). Pub. L. 108–375 substituted "health" for "heath".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

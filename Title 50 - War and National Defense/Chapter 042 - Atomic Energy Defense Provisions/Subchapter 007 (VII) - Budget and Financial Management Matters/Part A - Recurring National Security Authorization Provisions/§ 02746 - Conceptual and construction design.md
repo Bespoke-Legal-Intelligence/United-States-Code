@@ -8,7 +8,7 @@
 
 #### (2) Requests for conceptual design funds
 
-&emsp;If the estimated cost of completing a conceptual design for a construction project exceeds $5,000,000, the Secretary shall submit to Congress a request for funds for the conceptual design before submitting a request for funds for the construction project.
+&emsp;If the estimated cost of completing a conceptual design for a construction project exceeds$5,000,000, the Secretary shall submit to Congress a request for funds for the conceptual design before submitting a request for funds for the construction project.
 
 #### (3) Exceptions
 
@@ -22,19 +22,23 @@
 
 #### (1) Authority
 
-&emsp;Within the amounts authorized by a DOE national security authorization, the Secretary may carry out construction design (including architectural and engineering services) in connection with any proposed construction project if the total estimated cost for such design does not exceed $2,000,000.
+&emsp;Within the amounts authorized by a DOE national security authorization, the Secretary may carry out construction design (including architectural and engineering services) in connection with any proposed construction project if the total estimated cost for such design does not exceed $5,000,000.
 
 #### (2) Limitation on availability of funds for certain projects
 
-&emsp;If the total estimated cost for construction design in connection with any construction project exceeds $2,000,000, funds for that design must be specifically authorized by law.
+&emsp;If the total estimated cost for construction design in connection with any construction project exceeds $5,000,000, funds for that design must be specifically authorized by law.
 
-(Pub. L. 107–314, div. D, title XLVII, §4706, formerly div. C, title XXXVI, §3625, Dec. 2, 2002, 116 Stat. 2759; renumbered div. D, title XLVII, §4706, and amended Pub. L. 108–136, div. C, title XXXI, §3141(j)(2)(A)–(C), (D)(ii), Nov. 24, 2003, 117 Stat. 1781; Pub. L. 113–66, div. C, title XXXI, §3120, Dec. 26, 2013, 127 Stat. 1059; Pub. L. 114–328, div. C, title XXXI, §3121, Dec. 23, 2016, 130 Stat. 2764.)
+(Pub. L. 107–314, div. D, title XLVII, §4706, formerly div. C, title XXXVI, §3625, Dec. 2, 2002, 116 Stat. 2759; renumbered div. D, title XLVII, §4706, and amended Pub. L. 108–136, div. C, title XXXI, §3141(j)(2)(A)–(C), (D)(ii), Nov. 24, 2003, 117 Stat. 1781; Pub. L. 113–66, div. C, title XXXI, §3120, Dec. 26, 2013, 127 Stat. 1059; Pub. L. 114–328, div. C, title XXXI, §3121, Dec. 23, 2016, 130 Stat. 2764; Pub. L. 117–81, div. C, title XXXI, §3115(c), Dec. 27, 2021, 135 Stat. 2227.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
 Section was formerly classified to section 7386e of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (b). Pub. L. 117–81 substituted "$5,000,000" for "$2,000,000" in two places.
 
 <b>2016</b>—Subsec. (a)(2). Pub. L. 114–328, §3121(a), substituted "$5,000,000" for "$3,000,000".
 

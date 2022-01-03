@@ -1,6 +1,6 @@
 ### §112. Presidential memorial certificate program
 
-(a) At the request of the President the Secretary may conduct a program for honoring the memory of deceased persons eligible for burial in a national cemetery by reason of any of paragraphs (1), (2), (3), or (7) of section 2402(a) of this title, by preparing and sending to eligible recipients a certificate bearing the signature of the President and expressing the country's grateful recognition of the deceased individual's service in the Armed Forces. The award of a certificate to one eligible recipient will not preclude authorization of another certificate if a request is received from some other eligible recipient.
+(a) At the request of the President the Secretary may conduct a program for honoring thememory of deceased persons eligible for burial in a national cemetery by reason of any of paragraphs (1), (2), (3), or (7) of section 2402(a) of this title, by preparing and sending to eligible recipients a certificate bearing the signature of the President and expressing the country's grateful recognition of the deceased individual's service in the Armed Forces. The award of a certificate to one eligible recipient will not preclude authorization of another certificate if a request is received from some other eligible recipient.
 
 (b) For the purpose of this section an "eligible recipient" means the next of kin, a relative or friend upon request, or an authorized service representative acting on behalf of such relative or friend.
 
@@ -28,5 +28,5 @@ Pub. L. 114–315, title III, §302(b), Dec. 16, 2016, 130 Stat. 1551, provided 
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–330, title II, §201(d), Dec. 6, 2002, 116 Stat. 2823, provided that: "The amendments made by thissection \[amending this section and sections 2301 and 2306 of this title\] shall apply with respect to deaths occurring on or after the date of the enactment of this Act \[Dec. 6, 2002\]."
+Pub. L. 107–330, title II, §201(d), Dec. 6, 2002, 116 Stat. 2823, provided that: "The amendments made by this section \[amending this section and sections 2301 and 2306 of this title\] shall apply with respect to deaths occurring on or after the date of the enactment of this Act \[Dec. 6, 2002\]."
 

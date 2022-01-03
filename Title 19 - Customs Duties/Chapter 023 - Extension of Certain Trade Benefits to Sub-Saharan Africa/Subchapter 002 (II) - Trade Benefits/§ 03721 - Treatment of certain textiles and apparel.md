@@ -22,7 +22,7 @@ Subject to subsection (c), the preferential treatment described in subsection (a
 
 #### (3) Apparel articles from regional fabric or yarns
 
-&emsp;Apparel articles wholly assembled in one or more beneficiary sub-Saharan African countries from fabric wholly formed in one or more beneficiary sub-Saharan African countries from yarns originating in the United States or one or more beneficiary sub-Saharan African countries or former beneficiary sub-Saharan African countries, or both (including fabrics not formed from yarns, if such fabrics are classified under heading 5602 or 5603 of the Harmonized Tariff Schedule of the United States and are wholly formed in one or more beneficiary sub-Saharan African countries), or from components knit-to-shape in one or more beneficiary sub-Saharan African countries from yarns originating in the United States or one or more beneficiary sub-Saharan African countries or former beneficiary sub-Saharan African countries, or both, or apparel articles wholly formed on seamless knitting machines in a beneficiary sub-Saharan African country from yarns originating in the United States or one or more beneficiary sub-Saharan African countries or former beneficiary sub-Saharan African countries, or both, whether or not the apparel articles are also made from any of the fabrics, fabric components formed, or components knit-to-shape described in paragraph (1) or (2) (unless the apparel articles are made exclusively from any of the fabrics, fabric components formed, or components knit-to-shape described in paragraph (1) or (2)), subject to the following:
+&emsp;Apparel articles wholly assembled in one or more beneficiary sub-Saharan African countries from fabric wholly formed in one or more beneficiary sub-Saharan African countries from yarns originating in the United States or one or more beneficiary sub-Saharan African countries or former beneficiary sub-SaharanAfrican countries, or both (including fabrics not formed from yarns, if such fabrics are classified under heading 5602 or 5603 of the Harmonized Tariff Schedule of the United States and are wholly formed in one or more beneficiary sub-Saharan African countries), or from components knit-to-shape in one or more beneficiary sub-Saharan African countries from yarns originating in the United States or one or more beneficiary sub-Saharan African countries or former beneficiary sub-Saharan African countries, or both, or apparel articles wholly formed on seamless knitting machines in a beneficiary sub-Saharan African country from yarns originating in the United States or one or more beneficiary sub-Saharan African countries or former beneficiary sub-Saharan African countries, or both, whether or not the apparel articles are also made from any of the fabrics, fabric components formed, or components knit-to-shape described in paragraph (1) or (2) (unless the apparel articles are made exclusively from any of the fabrics, fabric components formed, or components knit-to-shape described in paragraph (1) or (2)), subject to the following:
 
 #### (A) Limitations on benefits
 
@@ -46,7 +46,7 @@ Subject to subsection (c), the preferential treatment described in subsection (a
 
 #### (ii) Determination of damage or threat thereof
 
-&emsp;&emsp;&emsp;Whenever the Secretary of Commerce determines, based on the data described in clause (i), or pursuant to a written request made by an interested party, that there has been a surge in imports of an article described in this paragraph from a beneficiary sub-Saharan African country, the Secretary shall determine whether such article from such country is being imported in such increased quantities as to cause serious damage, or threat thereof, to the domestic industry producing a like or directly competitive article. If the Secretary's determination is affirmative, the President shall suspend the duty-freetreatment provided for such article under this paragraph. If the inquiry is initiated at the request of an interested party, the Secretary shall make the determination within 60 days after the date of the request.
+&emsp;&emsp;&emsp;Whenever the Secretary of Commerce determines, based on the data described in clause (i), or pursuant to a written request made by an interested party, that there has been a surge in imports of an article described in this paragraph from a beneficiary sub-Saharan African country, the Secretary shall determine whether such article from such country is being imported in such increased quantities as to cause serious damage, or threat thereof, to the domestic industry producing a like or directly competitive article. If the Secretary's determination is affirmative, the President shall suspend the duty-free treatment provided for such article under this paragraph. If the inquiry is initiated at the request of an interested party, the Secretary shall make the determination within 60 days after the date of the request.
 
 #### (iii) Factors to consider
 
@@ -110,7 +110,7 @@ Subject to subsection (c), the preferential treatment described in subsection (a
 
 #### (C) Removal of designation of fabrics or yarns not available in commercial quantities
 
-&emsp;&emsp;If the President determines that any fabric or yarn was determined to be eligible forpreferential treatment under subparagraph (A) on the basis of fraud, the President is authorized to remove that designation from that fabric or yarn with respect to articles entered after such removal.
+&emsp;&emsp;If the President determines that any fabric or yarn was determined to be eligible for preferential treatment under subparagraph (A) on the basis of fraud, the President is authorized to remove that designation from that fabric or yarn with respect to articles entered after such removal.
 
 #### (6) Handloomed, handmade, folklore articles and ethnic printed fabrics
 
@@ -200,7 +200,7 @@ The President shall eliminate the existing quotas on textile and apparel article
 
 #### (ii) Interlinings described
 
-&emsp;&emsp;&emsp;Interlinings eligible for the treatment described in clause (i) include only a chest type plate, a "hymo" piece, or "sleeve header", of woven or weft-inserted warp knit construction and of coarse animal hair or man-made filaments.
+&emsp;&emsp;&emsp;Interlinings eligible for the treatment described in clause (i) include only a chest type plate, a "hymo" piece, or "sleeve header", of woven or weft-inserted warpknit construction and of coarse animal hair or man-made filaments.
 
 #### (iii) Termination of treatment
 
@@ -262,7 +262,9 @@ In this section and section 3722 of this title:
 
 This section takes effect on October 1, 2000, and shall remain in effect through September 30, 2025.
 
-(Pub. L. 106–200, title I, §112, May 18, 2000, 114 Stat. 258; Pub. L. 107–210, div. C, title XXXI, §3108(a), Aug. 6, 2002, 116 Stat. 1038; Pub. L. 108–274, §7(b)–(f), July 13, 2004, 118 Stat. 824–826; Pub. L. 108–429, title II, §2004(k)(1), Dec. 3, 2004, 118 Stat. 2595; Pub. L. 109–432, div. D, title VI, §§6002–6004, Dec. 20, 2006, 120 Stat. 3190–3194; Pub.L. 110–436, §3(a), (d), Oct. 16, 2008, 122 Stat. 4980, 4981; Pub. L. 112–163, §1(a), Aug. 10, 2012, 126 Stat. 1274; Pub. L. 114–27, title I, §103(b), June 29, 2015, 129 Stat. 364; Pub. L. 116–260, div. O, title VI, §602(a)(1), Dec. 27, 2020, 134 Stat. 2152.)
+(Pub. L. 106–200, title I, §112, May 18, 2000, 114 Stat. 258; Pub. L. 107–210, div. C, title XXXI, §3108(a), Aug. 6, 2002, 116 Stat. 1038; Pub. L. 108–274, §7(b)–(f), July 13, 2004, 118 Stat. 824–826; Pub. L. 108–429, title II, §2004(k)(1), Dec. 3, 2004, 118 Stat. 2595; Pub. L. 109–432, div. D, title VI, §§6002–6004, Dec. 20, 2006, 120 Stat. 3190–3194; Pub. L. 110–436, §3(a), (d), Oct. 16, 2008, 122 Stat. 4980, 4981; Pub. L. 112–163, §1(a), Aug. 10, 2012, 126 Stat. 1274; Pub. L. 114–27, title I, §103(b), June 29, 2015, 129 Stat. 364; Pub. L. 116–260, div. O, title VI, §602(a)(1), Dec. 27, 2020, 134 Stat. 2152.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -372,6 +374,8 @@ Subsec. (b)(4)(B). Pub. L. 107–210, §3108(a)(4), substituted "21.5 microns" f
 
 Subsec. (b)(7). Pub. L. 107–210, §3108(a)(5), added par. (7).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2020 Amendment
 
 Amendment by Pub. L. 116–260 effective July 1, 2020, see section 602(g) of div. O of Pub. L. 116–260, set out as a note under section 2578b of this title.
@@ -394,10 +398,6 @@ Pub. L. 108–429, title II, §2004(k)(2), Dec. 3, 2004, 118 Stat. 2595, provide
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
-#### Delegation of Authority
-
-For delegation of certain authority of the President under this section to the Committee for the Implementation of Textile Agreements and the United States Trade Representative, see Ex. Ord. No. 13191, §§1–3, Jan. 17, 2001, 66 F.R. 7271, set out as a note under section 2703 of this title.
-
 #### Increase in Limitation on Certain Benefits
 
 Pub. L. 107–210, div. C, title XXXI, §3108(b), Aug. 6, 2002, 116 Stat. 1039, provided that: "The applicable percentage under clause (ii) of section 112(b)(3)(A) of the African Growth and Opportunity Act (19 U.S.C. 3721(b)(3)(A)) shall be increased—
@@ -407,6 +407,12 @@ Pub. L. 107–210, div. C, title XXXI, §3108(b), Aug. 6, 2002, 116 Stat. 1039, 
 &emsp;"(2) by equal increments in each succeeding 1-year period provided for in such clause, so that for the 1-year period beginning October 1, 2007, the applicable percentage is increased by 3.5 percent,
 
 > except that such increase shall not apply with respect to articles eligible under subparagraph (B) of section 112(b)(3) of that Act."
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Authority
+
+For delegation of certain authority of the President under this section to the Committee for the Implementation of Textile Agreements and the United States Trade Representative, see Ex. Ord. No. 13191, §§1–3, Jan. 17, 2001, 66 F.R. 7271, set out as a note under section 2703 of this title.
 
 #### Proc. No. 7350. To Implement the African Growth and Opportunity Act and To Designate Eritrea as a Beneficiary Developing Country for Purposes of the Generalized System of Preferences
 

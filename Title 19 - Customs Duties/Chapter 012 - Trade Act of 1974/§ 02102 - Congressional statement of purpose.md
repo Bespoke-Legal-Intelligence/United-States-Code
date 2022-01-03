@@ -16,13 +16,17 @@ The purposes of this chapter are, through trade agreements affording mutual bene
 
 (Pub. L. 93–618, §2, Jan. 3, 1975, 88 Stat. 1981.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Statement of Purposes of 1984 Amendment
 
-Pub. L. 98–573, title III, §302, Oct. 30, 1984, 98 Stat. 3000, provided that: "The purposes of this title \[seeShort Title of 1984 Amendment note set out under section 2101 of this title\] are—
+Pub. L. 98–573, title III, §302, Oct. 30, 1984, 98 Stat. 3000, provided that: "The purposes of this title \[see Short Title of 1984 Amendment note set out under section 2101 of this title\] are—
 
 &emsp;"(1) to foster the economic growth of, and full employment in, the United States by expanding competitive United States exports through the achievement of commercial opportunities in foreign markets substantially equivalent to those accorded by the United States;
 

@@ -16,7 +16,7 @@ In developing and operating partnership programs under subsection (a), the Commi
 
 &emsp;(4) coordinate with the Director of U.S. Immigration and Customs Enforcement, and other Federal agencies with authority to detain and release merchandise entering the United States—
 
-&emsp;&emsp;(A) to ensure coordination in the release of such merchandise through the Automated Commercial Environment, or its predecessor, and the International Trade DataSystem established under section 1411(d) of this title;
+&emsp;&emsp;(A) to ensure coordination in the release of such merchandise through the Automated Commercial Environment, or its predecessor, and the International Trade Data System established under section 1411(d) of this title;
 
 &emsp;&emsp;(B) to ensure that the partnership programs of those agencies are compatible with the partnership programs of U.S. Customs and Border Protection;
 
@@ -57,6 +57,8 @@ Not later than the date that is 180 days after February 24, 2016, and not later 
 &emsp;(9) summarizes the plans, targets, and goals of U.S. Customs and Border Protection with respect to such partnership programs for the 2 years following the submission of the report.
 
 (Pub. L. 114–125, title I, §101, Feb. 24, 2016, 130 Stat. 127.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

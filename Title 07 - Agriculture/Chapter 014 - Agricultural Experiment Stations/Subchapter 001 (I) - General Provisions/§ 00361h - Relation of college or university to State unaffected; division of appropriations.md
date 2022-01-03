@@ -4,6 +4,8 @@ Nothing in sections 361a to 361i of this title shall be construed to impair or m
 
 (Mar. 2, 1887, ch. 314, §8, 24 Stat. 441; Aug. 11, 1955, ch. 790, §1, 69 Stat. 674.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 378 of this title.

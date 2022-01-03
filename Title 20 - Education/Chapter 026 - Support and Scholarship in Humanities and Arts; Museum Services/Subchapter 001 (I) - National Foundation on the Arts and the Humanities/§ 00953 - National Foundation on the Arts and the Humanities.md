@@ -12,7 +12,9 @@ The purpose of the Foundation shall be to develop and promote a broadly conceive
 
 In the administration of this subchapter no department, agency, officer, or employee of the United States shall exercise any direction, supervision, or control over the policy determination, personnel, or curriculum, or the administration or operation of any school or other non-Federal agency, institution, organization, or association.
 
-(Pub. L. 89–209, §4, Sept. 29, 1965, 79 Stat. 846; renumbered title I, §4, and amended Pub. L. 98–306, §§2, 4, May 31, 1984, 98 Stat. 223; renumbered §4 and amended Pub. L. 99–194, title I, §§101(1), 104,Dec. 20, 1985, 99 Stat. 1332, 1333; Pub. L. 111–340, title II, §208(1), Dec. 22, 2010, 124 Stat. 3602.)
+(Pub. L. 89–209, §4, Sept. 29, 1965, 79 Stat. 846; renumbered title I, §4, and amended Pub. L. 98–306, §§2, 4, May 31, 1984, 98 Stat. 223; renumbered §4 and amended Pub. L. 99–194, title I, §§101(1), 104, Dec. 20, 1985, 99 Stat. 1332, 1333; Pub. L. 111–340, title II, §208(1), Dec. 22, 2010, 124 Stat. 3602.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

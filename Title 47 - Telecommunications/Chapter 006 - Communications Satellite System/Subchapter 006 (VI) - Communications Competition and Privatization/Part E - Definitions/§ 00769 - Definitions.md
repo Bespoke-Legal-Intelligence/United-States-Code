@@ -54,7 +54,7 @@ As used in this subchapter:
 
 #### (10) Space segment
 
-&emsp;The term "space segment" means the satellites, and the tracking, telemetry, command,control, monitoring and related facilities and equipment used to support the operation of satellites owned or leased by INTELSAT, Inmarsat, or a separated entity or successor entity.
+&emsp;The term "space segment" means the satellites, and the tracking, telemetry, command, control, monitoring and related facilities and equipment used to support the operation of satellites owned or leased by INTELSAT, Inmarsat, or a separated entity or successor entity.
 
 #### (11) Non-core services
 

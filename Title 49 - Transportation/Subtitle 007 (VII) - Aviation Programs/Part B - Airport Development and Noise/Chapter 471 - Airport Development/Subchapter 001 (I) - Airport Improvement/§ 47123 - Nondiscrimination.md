@@ -10,7 +10,7 @@ Indian Employment.—
 
 &emsp;(1)
 
-Tribal sponsor preference.—Consistent with section 703(i) of the Civil Rights Act of 1964 (42 U.S.C. 2000e–2(i)), nothing in this section shall preclude the preferential employment of Indians living on or near a reservation on a project or contract at—
+Tribal sponsor preference.—Consistent with section 703(i) of the Civil Rights Act of1964 (42 U.S.C. 2000e–2(i)), nothing in this section shall preclude the preferential employment of Indians living on or near a reservation on a project or contract at—
 
 &emsp;&emsp;(A) an airport sponsored by an Indian tribal government; or
 
@@ -47,6 +47,8 @@ Historical and Revision Notes
 Sept. 3, 1982, Pub. L. 97–248, §520, 96 Stat. 694.
 
 The words "as the Secretary deems" and "the purposes of" are omitted as surplus. The words "The regulations shall be similar to those in effect under" are substituted for "and may enforce this section, and any rules promulgated under this section, through agency and department provisions and rules which shall be similar to those established and in effect under" for clarity and to eliminate unnecessary words and because "rules" and "regulations" are synonymous. The words "The provisions of . . . and not in lieu of the provisions of" are omitted as surplus. The word "is" is substituted for "shall be considered to be" to eliminate unnecessary words.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

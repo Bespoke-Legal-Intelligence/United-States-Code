@@ -14,7 +14,7 @@ Support to Other Agencies.—The Secretary of Defense may provide support for th
 
 (b)
 
-Types of Support for Agencies of United States.—The purposes for which the Secretary may provide support under subsection (a) for other departments or agencies of the Federal Government or a State, local, or tribal law enforcement agencies, are the following:
+Types of Support for Agencies of United States.—The purposes for which the Secretarymay provide support under subsection (a) for other departments or agencies of the Federal Government or a State, local, or tribal law enforcement agencies, are the following:
 
 &emsp;(1) The maintenance and repair of equipment that has been made available to any department or agency of the Federal Government or to any State, local, or tribal government by the Department of Defense for the purposes of—
 
@@ -186,9 +186,11 @@ Definitions.—In this section:
 
 &emsp;(5) The term "tribal law enforcement agency" means the law enforcement agency of a tribal government.
 
-&emsp;(6) The term "transnational organized crime" means self-perpetuating associations of individuals who operate transnationally for the purpose of obtaining power, influence, monetary, or commercial gains, wholly or in part by illegal means, while protecting their activities through a pattern of corruption or violence or through a transnational organization structure and the exploitation of transnational commerce or communication mechanisms.
+&emsp;(6) The term "transnational organized crime" means self-perpetuating associationsof individuals who operate transnationally for the purpose of obtaining power, influence, monetary, or commercial gains, wholly or in part by illegal means, while protecting their activities through a pattern of corruption or violence or through a transnational organization structure and the exploitation of transnational commerce or communication mechanisms.
 
-(Added §384 and renumbered §284, Pub. L. 114–328, div. A, title X, §1011(a)(1), title XII, §1241(a)(2), Dec. 23, 2016, 130 Stat. 2381, 2497; amended Pub. L. 116–92, div. A, title XVII, §1731(a)(14), Dec. 20, 2019, 133 Stat. 1813; Pub. L.116–283, div. A, title X, §1011, Jan. 1, 2021, 134 Stat. 3839.)
+(Added §384 and renumbered §284, Pub. L. 114–328, div. A, title X, §1011(a)(1), title XII, §1241(a)(2), Dec. 23, 2016, 130 Stat. 2381, 2497; amended Pub. L. 116–92, div. A, title XVII, §1731(a)(14), Dec. 20, 2019, 133 Stat. 1813; Pub. L. 116–283, div. A, title X, §1011, Jan. 1, 2021, 134 Stat. 3839.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -217,6 +219,8 @@ Pub. L. 116–92, §1731(a)(14)(A), substituted "section 276" for "section 376".
 Subsec. (h)(1)(A)(vi)(VI). Pub. L. 116–92, §1731(a)(14)(D), struck out "section 1004 of the National Defense Authorization Act for Fiscal Year 1991 (10 U.S.C. 374 note) and" after "authorized by".
 
 <b>2016</b>—Pub. L. 114–328, §1241(a)(2), renumbered section 384 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Department of Defense Authority To Provide Assistance To Secure the Southern Land Border of the United States
 

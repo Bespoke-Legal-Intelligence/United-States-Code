@@ -56,7 +56,7 @@ Cooperation in implementation.—In developing and implementing reporting requir
 
 &emsp;&emsp;(ii)
 
-Use of banking agency reports.—A registered government securities broker or government securities dealer shall be in compliance with any recordkeeping or reporting requirement adopted pursuant to subparagraph (A) of this paragraph concerning an associated person that is subjectto examination by or reporting requirements of a Federal banking agency if such government securities broker or government securities dealer utilizes for such recordkeeping or reporting requirement copies of reports filed by the associated person with the Federal banking agency pursuant to section 161 of title 12, subchapter VIII of chapter 3 of title 12, section 1817(a) of title 12, section 1467a(b) of title 12, or section 1847 of title 12. The Secretary may, however, by rule adopted pursuant to subparagraph (A), require any registered government securities broker or government securities dealer filing such reports with the appropriate regulatory agency to obtain, maintain, or report supplemental information if the Secretary makes an explicit finding, based on information provided by the appropriate regulatory agency, that such supplemental information is necessary to inform the appropriate regulatory agency regarding potential risks to such government securities broker or government securities dealer. Prior to requiring any such supplemental information, the Secretary shall first request the Federal banking agency to expand its reporting requirements to include such information.
+Use of banking agency reports.—A registered government securities broker or government securities dealer shall be in compliance with any recordkeeping or reporting requirement adopted pursuant to subparagraph (A) of this paragraph concerning an associated person that is subject to examination by or reporting requirements of a Federal banking agency if such government securities broker or government securities dealer utilizes for such recordkeeping or reporting requirement copies of reports filed by the associated person with the Federal banking agency pursuant to section 161 of title 12, subchapter VIII of chapter 3 of title 12, section 1817(a) of title 12, section 1467a(b) of title 12, or section 1847 of title 12. The Secretary may, however, by rule adopted pursuant to subparagraph (A), require any registered government securities broker or government securities dealer filing such reports with the appropriate regulatory agency to obtain, maintain, or report supplemental information if the Secretary makes an explicit finding, based on information provided by the appropriate regulatory agency, that such supplemental information is necessary to inform the appropriate regulatory agency regarding potential risks to such government securities broker or government securities dealer. Prior to requiring any such supplemental information, the Secretary shall first request the Federal banking agency to expand its reporting requirements to include such information.
 
 &emsp;&emsp;(iii)
 
@@ -184,7 +184,7 @@ Exclusion for examination reports.—Nothing in this paragraph shall be construe
 
 &emsp;(F)
 
-Authority to limit disclosure of information.—Notwithstanding any other provision of law, the Commission and the appropriate regulatory agencies shall not be compelled to disclose any information required or obtained under this paragraph. Nothing in this paragraph shall authorize the Commission or any appropriate regulatory agency to withhold information from Congress, or prevent the Commission or any appropriate regulatory agency from complying with a request for informationfrom any other Federal department or agency requesting information for purposes within the scope of its jurisdiction, or from complying with an order of a court of the United States in an action brought by the United States, the Commission, or the appropriate regulatory agency. For purposes of section 552 of title 5, this subparagraph shall be considered a statute described in subsection (b)(3)(B) of such section 552.
+Authority to limit disclosure of information.—Notwithstanding any other provision of law, the Commission and the appropriate regulatory agencies shall not be compelled to disclose any information required or obtained under this paragraph. Nothing in this paragraph shall authorize the Commission or any appropriate regulatory agency to withhold information from Congress, or prevent the Commission or any appropriate regulatory agency from complying with a request for information from any other Federal department or agency requesting information for purposes within the scope of its jurisdiction, or from complying with an order of a court of the United States in an action brought by the United States, the Commission, or the appropriate regulatory agency. For purposes of section 552 of title 5, this subparagraph shall be considered a statute described in subsection (b)(3)(B) of such section 552.
 
 #### (e) Membership in national securities exchange; exemptions
 
@@ -200,7 +200,7 @@ Authority to limit disclosure of information.—Notwithstanding any other provis
 
 #### (2) Recordkeeping requirements
 
-&emsp;Rules under this subsection may require persons holding, maintaining, or controlling large positions in Treasury securities to make and keep for prescribed periods such records as the Secretary determines are necessary or appropriate to ensure that such persons can comply with reporting requirements under this subsection.
+&emsp;Rules under this subsection may require persons holding, maintaining, or controlling large positions in Treasury securities to make and keep for prescribed periods such records as theSecretary determines are necessary or appropriate to ensure that such persons can comply with reporting requirements under this subsection.
 
 #### (3) Aggregation rules
 
@@ -236,7 +236,7 @@ Authority to limit disclosure of information.—Notwithstanding any other provis
 
 (1) Nothing in this section except paragraph (2) of this subsection shall be construed to impair or limit the authority under any other provision of law of the Commission, the Secretary of the Treasury, the Board of Governors of the Federal Reserve System, the Comptroller of the Currency, the Federal Deposit Insurance Corporation, the Secretary of Housing and Urban Development, and the Government National Mortgage Association.
 
-(2) Notwithstanding any other provision of this chapter, the Commission shall not have anyauthority to make investigations of, require the filing of a statement by, or take any other action under this chapter against a government securities broker or government securities dealer, or any person associated with a government securities broker or government securities dealer, for any violation or threatened violation of the provisions of this section, other than subsection (d)(3) <sup>3</sup> or the rules or regulations thereunder, unless the Commission is the appropriate regulatory agency for such government securities broker or government securities dealer. Nothing in the preceding sentence shall be construed to limit the authority of the Commission with respect to violations or threatened violations of any provision of this chapter other than this section (except subsection (d)(3)), the rules or regulations under any such other provision, or investigations pursuant to section 78u(a)(2) of this title to assist a foreign securities authority.
+(2) Notwithstanding any other provision of this chapter, the Commission shall not have any authority to make investigations of, require the filing of a statement by, or take any other action under this chapter against a government securities broker or government securities dealer, or any person associated with a government securities broker or government securities dealer, for any violation or threatened violation of the provisions of this section, other than subsection (d)(3) <sup>3</sup> or the rules or regulations thereunder, unless the Commission is the appropriate regulatory agency for such government securities broker or government securities dealer. Nothing in the preceding sentence shall be construed to limit the authority of the Commission with respect to violations or threatened violations of any provision of this chapter other than this section (except subsection (d)(3)), the rules or regulations under any such other provision, or investigations pursuant to section 78u(a)(2) of this title to assist a foreign securities authority.
 
 #### (h) Emergency authority
 
@@ -244,11 +244,13 @@ The Secretary may, by order, take any action with respect to a matter or action 
 
 (June 6, 1934, ch. 404, title I, §15C, as added Pub. L. 99–571, title I, §101, Oct. 28, 1986, 100 Stat. 3208; amended Pub. L. 100–181, title VIII, §801(a), Dec. 4, 1987, 101 Stat. 1265; Pub. L. 101–73, title VII, §744(u)(3), Aug. 9, 1989, 103 Stat. 441; Pub. L. 101–432, §4(b), Oct. 16, 1990, 104 Stat. 970; Pub. L. 101–550, title II, §203(c), Nov. 15, 1990, 104 Stat. 2718; Pub. L. 103–202, title I, §§102–104, 106(a), 108, 109(b)(1), (c), Dec. 17, 1993, 107 Stat. 2345, 2346, 2349, 2351–2353; Pub. L. 105–353, title III, §301(b)(10), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 107–204, title VI, §604(c)(1)(B), July 30, 2002, 116 Stat. 796; Pub. L. 108–458, title VII, §7803(d), Dec. 17, 2004, 118 Stat. 3863; Pub. L. 111–203, title III, §376(3), title IX, §§929F(b), 985(b)(6), July 21, 2010, 124 Stat. 1569, 1854, 1934.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a)(3), (5), (b)(1), (2)(B), (4)(B), (d)(1), (f)(1), and (g)(2), was in the original "this title". See References in Text note set out under section 78a of this title.
 
-Subchapter VIII of chapter 3 of title 12, referred to in subsec. (b)(2)(C)(ii), was in the original "section 9 of the Federal Reserve Act", meaning section 9 of act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, which is classified generally to subchapter VIII (§321 et seq.) of chapter 3 of Title 12, Banks and Banking.
+Subchapter VIII of chapter 3 of title 12, referred to in subsec. (b)(2)(C)(ii), was in the original "section 9 of the Federal Reserve Act", meaning section 9 of act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, which is classifiedgenerally to subchapter VIII (§321 et seq.) of chapter 3 of Title 12, Banks and Banking.
 
 Section 3401(6) of title 12, referred to in subsec. (b)(2)(D)(i), was redesignated section 3401(7) of title 12 by Pub. L. 101–73, title IX, §941(1), Aug. 9, 1989, 103 Stat. 496.
 
@@ -316,6 +318,8 @@ Subsec. (f)(2). Pub. L. 101–550, §203(c)(2), substituted "the rules or regula
 
 <b>1987</b>—Subsec. (a)(1)(B)(i). Pub. L. 100–181 substituted "When such" for "When".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Amendment by sections 929F(b) and 985(b)(6) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
@@ -332,7 +336,7 @@ Pub. L. 99–571, title IV, §§401–403, Oct. 28, 1986, 100 Stat. 3224, 3225, 
 
 #### "SEC. 402. EFFECTIVE DATE AND REQUIREMENTS FOR REGULATIONS.
 
-"Notwithstanding section 401, the Secretary of the Treasury and each appropriate regulatory agency shall, within 120 days after the date of enactment of this Act \[Oct. 28, 1986\], publish for notice and public comment such regulations as are initially required to implement this Act, which regulations shall become effective as temporary regulations 210 days after the date of enactment of this Act and as final regulations not later than 270 days after the date of enactment of this Act.
+"Notwithstanding section 401, the Secretary of the Treasury and each appropriate regulatory agency shall, within 120 days after the date of enactment of this Act \[Oct. 28, 1986\], publish for notice and public comment such regulations as are initially required to implement this Act, which regulations shall become effective astemporary regulations 210 days after the date of enactment of this Act and as final regulations not later than 270 days after the date of enactment of this Act.
 
 #### "SEC. 403. REGISTRATION DATE.
 

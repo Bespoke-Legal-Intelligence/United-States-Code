@@ -16,7 +16,7 @@
 
 (3) Any participant who completes a period of service authorized by this subsection shall be retired at the end of the month in which such authorized service is completed.
 
-(Pub. L. 96–465, title I, §812, Oct. 17, 1980, 94 Stat. 2113; Pub. L. 101–513, title V, §587(b), Nov. 5, 1990, 104 Stat. 2056; Pub. L. 102–499, §4(c), Oct. 24, 1992, 106 Stat. 3265; Pub. L. 105–382, §3, Nov. 13, 1998, 112 Stat. 3408.)
+(Pub. L. 96–465, title I, §812, Oct. 17, 1980, 94 Stat. 2113; Pub. L. 101–513, title V, §587(b), Nov. 5, 1990, 104 Stat. 2056; Pub. L. 102–499, §4(c), Oct. 24, 1992,106 Stat. 3265; Pub. L. 105–382, §3, Nov. 13, 1998, 112 Stat. 3408.)
 
 #### <b>Editorial Notes</b>
 

@@ -46,7 +46,7 @@ Pub. L. 107–170, §2, May 7, 2002, 116 Stat. 133, provided that: "The amendmen
 
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–17, §2, June 26, 2001, 115 Stat. 151, provided that: "The amendments made by section 1 \[amendingthis section and sections 1202 to 1208 and 1221 to 1231 of this title and amending provisions set out as a note under this section\] shall take effect on June 1, 2001."
+Pub. L. 107–17, §2, June 26, 2001, 115 Stat. 151, provided that: "The amendments made by section 1 \[amending this section and sections 1202 to 1208 and 1221 to 1231 of this title and amending provisions set out as a note under this section\] shall take effect on June 1, 2001."
 
 Pub. L. 107–8, §2, May 11, 2001, 115 Stat. 10, provided that: "The amendments made by section 1 \[amending this section and sections 1202 to 1208 and 1221 to 1231 of this title and amending provisions set out as a note under this section\] shall take effect on July 1, 2000."
 

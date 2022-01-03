@@ -76,7 +76,7 @@ Forfeiture procedure.—The forfeiture of property under this section, including
 
 &emsp;(9) the term "telecommunications service" has the meaning given such term in section 3 of title I of the Communications Act of 1934 (47 U.S.C. 153);
 
-&emsp;(10) the term "facilities-based carrier" means an entity that owns communications transmission facilities, is responsible for theoperation and maintenance of those facilities, and holds an operating license issued by the Federal Communications Commission under the authority of title III of the Communications Act of 1934; and
+&emsp;(10) the term "facilities-based carrier" means an entity that owns communications transmission facilities, is responsible for the operation and maintenance of those facilities, and holds an operating license issued by the Federal Communications Commission under the authority of title III of the Communications Act of 1934; and
 
 &emsp;(11) the term "telecommunication identifying information" means electronic serial number or any other number or signal that identifies a specific telecommunications instrument or account, or a specific communication transmitted from a telecommunications instrument.
 
@@ -100,7 +100,7 @@ The Communications Act of 1934, referred to in subsec. (e)(10), is act June 19, 
 
 #### Amendments
 
-<b>2015</b>—Subsec. (h). Pub. L. 114–113 substituted "title if the offense involves an access device issued, owned, managed, or controlled by a financial institution, account issuer, credit card system member, or other entity organized under the laws of the United States, or any State, the District of Columbia, or other territory of the United States." for "title if—
+<b>2015</b>—Subsec. (h). Pub. L. 114–113 substituted "title if the offense involves an access device issued, owned,managed, or controlled by a financial institution, account issuer, credit card system member, or other entity organized under the laws of the United States, or any State, the District of Columbia, or other territory of the United States." for "title if—
 
 &emsp;"(1) the offense involves an access device issued, owned, managed, or controlled by a financial institution, account issuer, credit card system member, or other entity within the jurisdiction of the United States; and
 

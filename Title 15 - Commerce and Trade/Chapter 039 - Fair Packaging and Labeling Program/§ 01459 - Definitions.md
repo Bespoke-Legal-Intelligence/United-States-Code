@@ -32,11 +32,13 @@ For the purpose of this chapter—
 
 (Pub. L. 89–755, §10, Nov. 3, 1966, 80 Stat. 1301; Pub. L. 90–628, §2, Oct. 22, 1968, 82 Stat. 1320.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Food, Drug, and Cosmetic Act, referred to subsec. (a), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
-The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (a)(2), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
+The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (a)(2), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21,1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
 
 The Virus-Serum-Toxin Act, referred to in subsec. (a)(2), is the eighth paragraph under the heading "Bureau of Animal Industry" of act Mar. 4, 1913, ch. 145, 37 Stat. 832, as amended, which is classified generally to chapter 5 (§151 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 151 of Title 21 and Tables.
 
@@ -47,6 +49,8 @@ The Federal Seed Act, referred to in subsec. (a)(5), is act Aug. 9, 1939, ch. 61
 #### Amendments
 
 <b>1968</b>—Subsec. (b)(3). Pub. L. 90–628 struck out reference to the Act of August 31, 1916, and the Act of May 21, 1928.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1968 Amendment
 

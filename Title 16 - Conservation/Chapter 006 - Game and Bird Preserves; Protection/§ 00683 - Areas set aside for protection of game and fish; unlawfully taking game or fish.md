@@ -1,8 +1,10 @@
 ### §683. Areas set aside for protection of game and fish; unlawfully taking game or fish
 
-The President of the United States is authorized to designate such areas on any lands which have been, or which may hereafter be, purchased by the United States under the provisions of the Act of March first, nineteen hundred and eleven, and Acts supplementary thereto and amendatory thereof, as should, in his opinion, be set aside for the protection of game animals, birds, or fish; and, except under such rules and regulations as the Secretary of Agriculture may from time to time prescribe, it shall be unlawful for any person to hunt, catch, trap, willfully disturb or kill any kind of game animal, game or nongame bird, or fish, or take the eggs of any such bird on any lands so set aside, or in or on the waters thereof.
+The President of the United States is authorized to designate such areas on any lands which have been, or which may hereafter be, purchased by the United States under the provisions of the Act of March first, nineteen hundred and eleven, and Acts supplementary thereto and amendatory thereof, as should, in his opinion, be set aside for the protection of game animals, birds, or fish; and, except under such rules and regulations as the Secretary of Agriculture may from time to time prescribe, it shall be unlawful forany person to hunt, catch, trap, willfully disturb or kill any kind of game animal, game or nongame bird, or fish, or take the eggs of any such bird on any lands so set aside, or in or on the waters thereof.
 
 (Aug. 11, 1916, ch. 313, 39 Stat. 476; June 25, 1948, ch. 645, §10, 62 Stat. 860.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -12,9 +14,13 @@ Act of March first, nineteen hundred and eleven, referred to in text, was in the
 
 <b>1948</b>—Act June 25, 1948, struck out penal provisions (see section 41 of Title 18, Crimes and Criminal Procedure), and inserted provision relating to the unlawfulness in hunting, catching, etc. game animals, etc. under rules and regulations of Secretary of Agriculture.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1948 Amendment
 
 Section 20 of act June 25, 1948, provided that the amendment made by that act is effective Sept. 1, 1948.
+
+#### <b>Executive Documents</b>
 
 #### Presidential Designation
 

@@ -14,7 +14,7 @@ If the Secretary finds, after consideration of an application under subsection (
 
 &emsp;&emsp;(B) is expected to benefit the program under this subchapter by (i) eliminating excess bed capacity, (ii) discontinuing an underutilized service for which there are adequate alternative sources, or (iii) substituting for the underutilized service some other service which is needed in the area, and
 
-&emsp;&emsp;(C) is consistent with the findings of an appropriate health planning agency and withany applicable State program for reduction in the number of hospital beds in the State, and
+&emsp;&emsp;(C) is consistent with the findings of an appropriate health planning agency and with any applicable State program for reduction in the number of hospital beds in the State, and
 
 &emsp;(2) in the case of a complete closure of a hospital—
 
@@ -48,9 +48,13 @@ A hospital dissatisfied with a determination of the Secretary on its application
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1884, as added Pub. L. 97–35, title XXI, §2101(a)\[(1)\], Aug. 13, 1981, 95 Stat. 785; amended Pub. L. 97–248, title I, §128(a)(6), Sept. 3, 1982, 96 Stat. 366.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1982</b>—Subsec. (d). Pub. L. 97–248 redesignated second subsec. (c), relating to hearing to review determination, as subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1982 Amendment
 

@@ -48,7 +48,7 @@ Money in the Stabilization Fund shall be available upon requisition by the Board
 
 #### (3) Computation
 
-&emsp;Any assessment or premium charge for an insured credit union under this subsection shall be stated as a percentage of its insured shares, as represented on the previous call report of that insured credit union. The percentage shall be identical for each insured credit union. Any insured credit union that fails to make timely payment of the assessment or special premium is subject to the procedures and penalties described under subsections (d), (e), and (f) of section 1782 of this title.
+&emsp;Any assessment or premium charge for an insured credit union under this subsection shall be stated as a percentage of its insuredshares, as represented on the previous call report of that insured credit union. The percentage shall be identical for each insured credit union. Any insured credit union that fails to make timely payment of the assessment or special premium is subject to the procedures and penalties described under subsections (d), (e), and (f) of section 1782 of this title.
 
 #### (e) Distributions from Insurance Fund
 
@@ -64,7 +64,7 @@ The Board shall submit an annual report to Congress on the financial condition a
 
 #### (h) Closing of Stabilization Fund
 
-Within 90 days following the seventh anniversary of the initial Stabilization Fund advance,or earlier at the Board's discretion, the Board shall distribute any funds, property, or other assets remaining in the Stabilization Fund to the Insurance Fund and shall close the Stabilization Fund. If the Board extends the final repayment date as permitted under subsection (c)(3), the mandatory date for closing the Stabilization Fund shall be extended by the same number of days.
+Within 90 days following the seventh anniversary of the initial Stabilization Fund advance, or earlier at the Board's discretion, the Board shall distribute any funds, property, or other assets remaining in the Stabilization Fund to the Insurance Fund and shall close the Stabilization Fund. If the Board extends the final repayment date as permitted under subsection (c)(3), the mandatory date for closing the Stabilization Fund shall be extended by the same number of days.
 
 (June 26, 1934, ch. 750, title II, §217, as added Pub. L. 111–22, div. A, title II, §204(f)(1), May 20, 2009, 123 Stat. 1651; amended Pub. L. 111–382, §1, Jan. 4, 2011, 124 Stat. 4134.)
 

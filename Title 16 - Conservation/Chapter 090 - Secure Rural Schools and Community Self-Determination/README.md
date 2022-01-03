@@ -39,6 +39,7 @@
 | [7141\.](Subchapter%20003%20%28III%29%20-%20County%20Funds/%C2%A7%2007141%20-%20Definitions.md) | Definitions. |
 | [7142\.](Subchapter%20003%20%28III%29%20-%20County%20Funds/%C2%A7%2007142%20-%20Use.md) | Use. |
 | [7143\.](Subchapter%20003%20%28III%29%20-%20County%20Funds/%C2%A7%2007143%20-%20Certification.md) | Certification. |
+| [7143a.](Subchapter%20003%20%28III%29%20-%20County%20Funds/%C2%A7%2007143a%20-%20Amounts%20obligated%20but%20unspent%3B%20prohibition%20on%20use%20of%20funds.md) | Amounts obligated but unspent; prohibition on use of funds. |
 | [7144\.](Subchapter%20003%20%28III%29%20-%20County%20Funds/%C2%A7%2007144%20-%20Termination%20of%20authority.md) | Termination of authority. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

@@ -2,7 +2,7 @@
 
 #### (a) Trustee powers
 
-A trustee shall be vested with the same powers and title with respect to the debtor and theproperty of the debtor, including the same rights to avoid preferences, as a trustee in a case under title 11. In addition, a trustee may, with the approval of SIPC but without any need for court approval—
+A trustee shall be vested with the same powers and title with respect to the debtor and the property of the debtor, including the same rights to avoid preferences, as a trustee in a case under title 11. In addition, a trustee may, with the approval of SIPC but without any need for court approval—
 
 &emsp;(1) hire and fix the compensation of all personnel (including officers and employees of the debtor and of its examining authority) and other persons (including accountants) that are deemed by the trustee necessary for all or any purposes of the liquidation proceeding;
 
@@ -36,6 +36,8 @@ The trustee shall—
 
 (Pub. L. 91–598, §7, as added Pub. L. 95–283, §9, May 21, 1978, 92 Stat. 260; amended Pub. L. 95–598, title III, §308(i)–(k), Nov. 6, 1978, 92 Stat. 2675.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 7 of Pub. L. 91–598 was renumbered section 11 and is classified to section 78ggg of this title.
@@ -47,6 +49,8 @@ A prior section 7 of Pub. L. 91–598 was renumbered section 11 and is classifie
 Subsec. (b). Pub. L. 95–598, §308(j), substituted "trustee in a case under chapter 7 of title 11, including, if the debtor is a commodity broker, as defined under section 101 of such title, the duties specified in subchapter IV of such chapter 7," for "trustee in bankruptcy".
 
 Subsec. (c). Pub. L. 95–598, §308(k), substituted "required of a trustee in a case under chapter 7 of title 11" for "required by the Bankruptcy Act".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

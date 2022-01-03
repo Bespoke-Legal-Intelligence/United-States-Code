@@ -58,7 +58,7 @@ For purposes of this subchapter, the Director shall classify the enterprises acc
 
 &emsp;&emsp;(A) establish the capital classifications specified under paragraph (2) for the Federal Home Loan Banks;
 
-&emsp;&emsp;(B) establish criteria for each such capital classification based on the amount and types of capital held by a bank and the risk-based, minimum, and critical capital levels for thebanks and taking due consideration of the capital classifications established under subsection (a) for the enterprises, with such modifications as the Director determines to be appropriate to reflect the difference in operations between the banks and the enterprises; and
+&emsp;&emsp;(B) establish criteria for each such capital classification based on the amount and types of capital held by a bank and the risk-based, minimum, and critical capital levels for the banks and taking due consideration of the capital classifications established under subsection (a) for the enterprises, with such modifications as the Director determines to be appropriate to reflect the difference in operations between the banks and the enterprises; and
 
 &emsp;&emsp;(C) shall classify the Federal Home Loan Banks according to such capital classifications.
 
@@ -108,7 +108,7 @@ The Director shall determine the capital classification of the regulated entitie
 
 #### (2) Exception
 
-&emsp;Notwithstanding paragraph (1), the Director may permit a regulated entity, to the extent appropriate or applicable, to repurchase, redeem, retire, or otherwise acquire shares or ownership interests if the repurchase, redemption, retirement, or other acquisition—
+&emsp;Notwithstanding paragraph (1), the Director may permit a regulated entity, to the extentappropriate or applicable, to repurchase, redeem, retire, or otherwise acquire shares or ownership interests if the repurchase, redemption, retirement, or other acquisition—
 
 &emsp;&emsp;(A) is made in connection with the issuance of additional shares or obligations of the regulated entity in at least an equivalent amount; and
 

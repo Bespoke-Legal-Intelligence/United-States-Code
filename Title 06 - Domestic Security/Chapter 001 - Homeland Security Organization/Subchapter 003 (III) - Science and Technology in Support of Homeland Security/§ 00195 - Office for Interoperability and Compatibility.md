@@ -24,7 +24,7 @@ The Director of the Office for Interoperability and Compatibility shall—
 
 &emsp;(10) conduct pilot projects, in coordination with the Director for Emergency Communications,<sup>1</sup> to test and demonstrate technologies, including data and video, that enhance—
 
-&emsp;&emsp;(A) the ability of emergency response providers and relevant government officials tocontinue to communicate in the event of natural disasters, acts of terrorism, and other man-made disasters; and
+&emsp;&emsp;(A) the ability of emergency response providers and relevant government officials to continue to communicate in the event of natural disasters, acts of terrorism, and other man-made disasters; and
 
 &emsp;&emsp;(B) interoperable emergency communications capabilities.
 

@@ -22,11 +22,13 @@ Definitions.—In this section:
 
 &emsp;(2) The term "qualifying Persian Gulf symptom or illness" means, with respect to a member described in subsection (b), a symptom or illness—
 
-&emsp;&emsp;(A) that the member registered before September 1, 1997, in the Comprehensive Clinical Evaluation Program of the Department of Defense and that is presumed under section 721(d) of the National Defense Authorization Act for Fiscal Year 1995 (10 U.S.C. 1074 note) to be a result of service in the Southwest Asia theater of operations during the Persian Gulf Conflict; or
+&emsp;&emsp;(A) that the member registered before September 1, 1997, in the Comprehensive ClinicalEvaluation Program of the Department of Defense and that is presumed under section 721(d) of the National Defense Authorization Act for Fiscal Year 1995 (10 U.S.C. 1074 note) to be a result of service in the Southwest Asia theater of operations during the Persian Gulf Conflict; or
 
 &emsp;&emsp;(B) that the member registered before September 1, 1997, in the Persian Gulf War Veterans Health Registry maintained by the Department of Veterans Affairs pursuant to section 702 of the Persian Gulf War Veterans' Health Status Act (38 U.S.C. 527 note).
 
 (Added Pub. L. 105–85, div. A, title VII, §764(a), Nov. 18, 1997, 111 Stat. 1825.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

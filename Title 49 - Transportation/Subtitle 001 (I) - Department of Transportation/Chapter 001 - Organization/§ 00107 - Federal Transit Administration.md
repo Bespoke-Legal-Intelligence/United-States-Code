@@ -26,9 +26,13 @@ Reorg. Plan No. 2 of 1968, eff. July 1, 1968, §3, 82 Stat. 1369.
 
 In subsection (b), the words "and shall be compensated at the rate now or hereafter provided for Level III of the Executive Schedule Pay Rates (5 U.S.C. 5314)" are omitted as surplus because of 5:5314.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Pub. L. 102–240 substituted "Federal Transit Administration" for "Urban Mass Transportation Administration" in section catchline and subsec. (a).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

@@ -84,7 +84,7 @@
 
 #### (1) In general
 
-&emsp;The President shall carry out an import quota program that provides that wheneverthe Secretary determines and announces that the average price of the base quality of upland cotton, as determined by the Secretary, in the designated spot markets for a month exceeded 130 percent of the average price of such quality of cotton in the markets for the preceding 36 months, notwithstanding any other provision of law, there shall immediately be in effect a limited global import quota subject to the following conditions:
+&emsp;The President shall carry out an import quota program that provides that whenever the Secretary determines and announces that the average price of the base quality of upland cotton, as determined by the Secretary, in the designated spot markets for a month exceeded 130 percent of the average price of such quality of cotton in the markets for the preceding 36 months, notwithstanding any other provision of law, there shall immediately be in effect a limited global import quota subject to the following conditions:
 
 #### (A) Quantity
 
@@ -146,6 +146,8 @@
 
 (Pub. L. 104–127, title I, §136, Apr. 4, 1996, 110 Stat. 909; Pub. L. 105–86, title VII, §731, Nov. 18, 1997, 111 Stat. 2108; Pub. L. 105–277, div. A, §101(a) \[title VII, §762\], Oct. 21, 1998, 112 Stat. 2681, 2681–36; Pub. L. 106–78, title VIII, §806, Oct. 22, 1999, 113 Stat. 1179.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Harmonized Tariff Schedule, referred to in subsecs. (b)(5)(D) and (c)(1)(C)(iv), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
@@ -171,6 +173,8 @@ Subsec. (b)(7). Pub. L. 106–78, §806(b)(2), added par. (7).
 <b>1997</b>—Subsec. (a)(1). Pub. L. 105–86, §731(1), in introductory provisions substituted "During" for "Subject to paragraph (4), during" and in subpar. (B) substituted "134" for "130".
 
 Subsec. (a)(4), (5). Pub. L. 105–86, §731(2), (3) redesignated par. (5) as (4) and struck out heading and text of former par. (4). Text read as follows: "The Secretary shall not issue marketing certificates or cash payments under paragraph (1) if, for the immediately preceding consecutive 10-week period, the Friday through Thursday average price quotation for the lowest priced United States growth, as quoted for Middling (M) 13/32-inch cotton, delivered C.I.F. Northern Europe, adjusted for the value of any certificate issued under this subsection, exceeds the Northern Europe price by more than 1.25 cents per pound."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1997 Amendment
 

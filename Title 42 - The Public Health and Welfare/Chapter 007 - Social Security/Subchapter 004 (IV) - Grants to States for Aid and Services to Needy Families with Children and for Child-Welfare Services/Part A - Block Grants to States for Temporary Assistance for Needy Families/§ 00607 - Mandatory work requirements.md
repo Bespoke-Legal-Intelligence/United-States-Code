@@ -47,7 +47,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) the number of families receiving such assistance during the month that include an adult or a minor child head of household receiving such assistance; exceeds
 
-&emsp;&emsp;&emsp;&emsp;(II) the number of families receiving such assistance that are subject in such month to a penalty described in subsection (e)(1) but have not been subjectto such penalty for more than 3 months within the preceding 12-month period (whether or not consecutive).
+&emsp;&emsp;&emsp;&emsp;(II) the number of families receiving such assistance that are subject in such month to a penalty described in subsection (e)(1) but have not been subject to such penalty for more than 3 months within the preceding 12-month period (whether or not consecutive).
 
 #### (2) 2-parent families
 
@@ -182,7 +182,7 @@ As used in this section, the term "work activities" means—
 
 #### (2) Exception
 
-&emsp;Notwithstanding paragraph (1), a State may not reduce or terminate assistance under the State program funded under this part or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title) based on a refusal of an individual to engage in work required in accordance with this section if the individual isa single custodial parent caring for a child who has not attained 6 years of age, and the individual proves that the individual has a demonstrated inability (as determined by the State) to obtain needed child care, for 1 or more of the following reasons:
+&emsp;Notwithstanding paragraph (1), a State may not reduce or terminate assistance under the State program funded under this part or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title) based on a refusal of an individual to engage in work required in accordance with this section if the individual is a single custodial parent caring for a child who has not attained 6 years of age, and the individual proves that the individual has a demonstrated inability (as determined by the State) to obtain needed child care, for 1 or more of the following reasons:
 
 &emsp;&emsp;(A) Unavailability of appropriate child care within a reasonable distance from the individual's home or work site.
 
@@ -228,7 +228,7 @@ It is the sense of the Congress that the States should require noncustodial, non
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not later than June 30, 2006, the Secretary shall promulgate regulations to ensure consistent measurement of work participation rates under State programs funded under this part and State programs funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title), which shall include information with respect to—
+&emsp;&emsp;&emsp;Not later than June 30, 2006, the Secretary shall promulgate regulations to ensure consistent measurement of work participation rates under State programs funded under this part and State programsfunded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title), which shall include information with respect to—
 
 &emsp;&emsp;&emsp;&emsp;(I) determining whether an activity of a recipient of assistance may be treated as a work activity under subsection (d);
 
@@ -252,6 +252,8 @@ It is the sense of the Congress that the States should require noncustodial, non
 
 (Aug. 14, 1935, ch. 531, title IV, §407, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2129; amended Pub. L. 105–33, title V, §§5003(a), 5504, 5514(c), Aug. 5, 1997, 111 Stat. 594, 609, 620; Pub. L. 109–171, title VII, §7102(a), (b)(1), (c)(1), Feb. 8, 2006, 120 Stat. 136; Pub. L. 111–5, div. B, title II, §2101(b), (d)(2), Feb. 17, 2009, 123 Stat. 448, 449; Pub. L. 112–96, title IV, §4005(b), Feb. 22, 2012, 126 Stat. 198.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 607, act Aug. 14, 1935, ch. 531, title IV, §407, as added May 8, 1961, Pub. L. 87–31, §1, 75 Stat. 75; amended July 25, 1962, Pub. L. 87–543, title I, §§104(a)(3)(E), 131(a), 134, 76 Stat. 185, 193, 196; Oct. 13, 1964, Pub. L. 88–641, §2(b), 78 Stat. 1042; June 29, 1967, Pub. L. 90–36, §2, 81 Stat. 94; Jan. 2, 1968, Pub. L. 90–248, title II, §203(a), 81 Stat. 882; June 28, 1968, Pub. L. 90–364, title III, §302, 82 Stat. 273; Dec. 28, 1971, Pub. L. 92–223, §3(a)(10), (11), 85 Stat. 805; Oct. 20, 1976, Pub. L. 94–566, title V, §507(a), (b), (d), 90 Stat. 2688; Aug. 13, 1981, Pub. L. 97–35, title XXIII, §§2313(a), (c)(2), 2353(q), 95 Stat. 853, 854, 874; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(c)(4), (j)(3)(B)(ii), 98 Stat. 1166, 1171; Oct. 13, 1988, Pub. L. 100–485, title II, §202(b)(7)–(11), title IV, §401(a)(2)(B), (C), (b)(1), (3), (c), (h), 102 Stat. 2377, 2378, 2394–2396; Nov. 10, 1988, Pub. L. 100–647, title VIII, §8105(1)–(3), (5), 102 Stat. 3797; Dec. 19, 1989, Pub. L. 101–239, title X, §10403(a)(1)(A)(i), (2), 103 Stat. 2487, 2488; Nov. 5, 1990, Pub. L. 101–508, title V, §§5061(a), 5062(a), 104 Stat. 1388–231, 1388–232, related to dependent children of unemployed parents, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.
@@ -274,7 +276,7 @@ Subsec. (b)(3)(B). Pub. L. 109–171, §7102(a)(2), substituted "and the eligibi
 
 Subsecs. (c)(2)(A)(i), (e)(1), (2). Pub. L. 109–171, §7102(b)(1), inserted "or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title)" after "this part".
 
-Subsec. (i). Pub. L. 109–171, §7102(c)(1), amended heading and text generally. Prior to amendment, text read as follows: "During fiscal year 1999, the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate shall hold hearings and engage in other appropriate activities to review the implementation of this section by the States, and shall invite the Governors of the States to testify before them regarding such implementation. Based on such hearings, such Committees may introduce such legislation as may be appropriate to remedy any problems with the State programs operated pursuant to this section."
+Subsec. (i). Pub. L. 109–171, §7102(c)(1), amended heading and text generally. Prior to amendment, text read as follows: "During fiscal year 1999, the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate shall holdhearings and engage in other appropriate activities to review the implementation of this section by the States, and shall invite the Governors of the States to testify before them regarding such implementation. Based on such hearings, such Committees may introduce such legislation as may be appropriate to remedy any problems with the State programs operated pursuant to this section."
 
 <b>1997</b>—Pub. L. 105–33, §5514(c), made technical amendment to directory language of Pub. L. 104–193, §103(a)(1), which enacted this section.
 
@@ -301,6 +303,8 @@ Subsec. (c)(2)(C)(ii). Pub. L. 105–33, §5504(i), substituted "an average of a
 Subsec. (c)(2)(D). Pub. L. 105–33, §5003(a), amended heading and text of subpar. (D) generally. Prior to amendment, text read as follows: "For purposes of determining monthly participation rates under paragraphs (1)(B)(i) and (2)(B) of subsection (b) of this section, not more than 20 percent of individuals in all families and in 2-parent families may be determined to be engaged in work in the State for a month by reason of participation in vocational educational training or deemed to be engaged in work by reason of subparagraph (C) of this paragraph."
 
 Subsec. (e)(2). Pub. L. 105–33, §5504(j), substituted "engage in work required in accordance with this section" for "work" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

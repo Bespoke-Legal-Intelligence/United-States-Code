@@ -6,7 +6,7 @@
 
 &emsp;(2) order any Federal agency or employee to comply with any order or decision issued by the Board under the authority granted under paragraph (1) of this subsection and enforce compliance with any such order;
 
-&emsp;(3) conduct, from time to time, special studies relating to the civil service and to other merit systems in the executive branch, and report to the President and to the Congress as to whether the public interest in a civil service free of prohibited personnel practices is being adequately protected; and
+&emsp;(3) conduct, from time to time, special studies relating to the civil service and to othermerit systems in the executive branch, and report to the President and to the Congress as to whether the public interest in a civil service free of prohibited personnel practices is being adequately protected; and
 
 &emsp;(4) review, as provided in subsection (f), rules and regulations of the Office of Personnel Management.
 
@@ -34,7 +34,7 @@
 
 (B) The Board shall prescribe regulations under which any employee who is aggrieved by the failure of any other employee to comply with an order of the Board may petition the Board to exercise its authority under subparagraph (A).
 
-(3) In carrying out any study under subsection (a)(3), the Board shall make such inquiries asmay be necessary and, unless otherwise prohibited by law, shall have access to personnel records or information collected by the Office of Personnel Management and may require additional reports from other agencies as needed.
+(3) In carrying out any study under subsection (a)(3), the Board shall make such inquiries as may be necessary and, unless otherwise prohibited by law, shall have access to personnel records or information collected by the Office of Personnel Management and may require additional reports from other agencies as needed.
 
 (f)(1) At any time after the effective date of any rule or regulation issued by the Director of the Office of Personnel Management in carrying out functions under section 1103, the Board shall review any provision of such rule or regulation—
 
@@ -50,7 +50,7 @@
 
 &emsp;(B) invalidly implemented by any agency, if the Board determines that such provision, as it has been implemented by the agency through any personnel action taken by the agency or through any policy adopted by the agency in conformity with such provision, has required any employee to violate section 2302(b).
 
-(3) The Director of the Office of Personnel Management, and the head of any agency implementing any provision of any rule or regulation under review pursuant to this subsection, shall have the right to participate in such review.
+(3) The Director of the Office of Personnel Management, and the head of any agency implementing any provision of any rule or regulationunder review pursuant to this subsection, shall have the right to participate in such review.
 
 (4) The Board shall require any agency—
 

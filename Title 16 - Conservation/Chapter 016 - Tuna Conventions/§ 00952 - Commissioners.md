@@ -2,7 +2,7 @@
 
 #### (a) Commissioners
 
-The United States shall be represented on the Commission by four United States Commissioners. The President shall appoint individuals to serve on the Commission. The United States Commissioners shall be subject to supervision and removal by the Secretary of State, in consultation with the Secretary. In making the appointments, the President shall select United States Commissioners from among individuals who are knowledgeable or experienced concerning highly migratory fish stocks in the eastern tropical Pacific Ocean, one of whom shall be an officer or employee of the Department ofCommerce. Not more than two United States Commissioners may be appointed who reside in a State other than a State whose vessels maintain a substantial fishery in the area of the Convention.
+The United States shall be represented on the Commission by four United States Commissioners. The President shall appoint individuals to serve on the Commission. The United States Commissioners shall be subject to supervision and removal by the Secretary of State, in consultation with the Secretary. In making the appointments, the President shall select United States Commissioners from among individuals who are knowledgeable or experienced concerning highly migratory fish stocks in the eastern tropical Pacific Ocean, one of whom shall be an officer or employee of the Department of Commerce. Not more than two United States Commissioners may be appointed who reside ina State other than a State whose vessels maintain a substantial fishery in the area of the Convention.
 
 #### (b) Alternate Commissioners
 
@@ -26,6 +26,8 @@ The Secretary of State, in consultation with the Secretary, may designate from t
 
 (Sept. 7, 1950, ch. 907, §3, 64 Stat. 777; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; Pub. L. 102–523, §3(a)(1), Oct. 26, 1992, 106 Stat. 3433; Pub. L. 105–42, §7(a), Aug. 15, 1997, 111 Stat. 1137; Pub. L. 106–562, title III, §302, Dec. 23, 2000, 114 Stat. 2806; Pub. L. 114–81, title II, §204, Nov. 5, 2015, 129 Stat. 660.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Pub. L. 114–81 amended section generally. Prior to amendment, section related to number, appointment, and qualification of United States Commissioners.
@@ -35,6 +37,8 @@ The Secretary of State, in consultation with the Secretary, may designate from t
 <b>1997</b>—Subsec. (c). Pub. L. 105–42, which directed the general amendment of section 3(c) of the Tuna Convention Act, was executed by making the amendment to subsec. (c) of this section, to reflect the probable intent of Congress. Prior to amendment, subsec. (c) read as follows: "at least one shall be an officer of the Department of Commerce; and".
 
 <b>1992</b>—Par. (d). Pub. L. 102–523 added par. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1997 Amendment
 

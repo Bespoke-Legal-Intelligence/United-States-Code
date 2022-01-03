@@ -12,7 +12,7 @@ There is established in the Office on Violence Against Women a Deputy Director f
 
 &emsp;&emsp;(A) oversee and manage the administration of grants to and contracts with Indian tribes, tribal courts, tribal organizations, or tribal nonprofit organizations;
 
-&emsp;&emsp;(B) ensure that, if a grant under this Act or a contract pursuant to such a grant is made to an organization to perform services that benefit more than 1 Indian tribe, the approval of each Indian tribe to be benefitted shall be a prerequisite to the making of the grant or letting of the contract;
+&emsp;&emsp;(B) ensure that, if a grant under this Act or a contract pursuant to such a grant ismade to an organization to perform services that benefit more than 1 Indian tribe, the approval of each Indian tribe to be benefitted shall be a prerequisite to the making of the grant or letting of the contract;
 
 &emsp;&emsp;(C) coordinate development of Federal policy, protocols, and guidelines on matters relating to violence against Indian women;
 

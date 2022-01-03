@@ -4,9 +4,13 @@ For the purpose of establishing in the National Capital area a park for the perf
 
 (Pub. L. 89–671, §1, Oct. 15, 1966, 80 Stat. 950; Pub. L. 107–219, §1(a)(1), Aug. 21, 2002, 116 Stat. 1330.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Pub. L. 107–219 substituted "Wolf Trap National Park for the Performing Arts" for "Wolf Trap Farm Park".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

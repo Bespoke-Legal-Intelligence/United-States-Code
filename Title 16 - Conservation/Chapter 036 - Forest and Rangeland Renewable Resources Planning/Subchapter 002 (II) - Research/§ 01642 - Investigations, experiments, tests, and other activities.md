@@ -164,6 +164,8 @@ The Secretary is authorized to conduct, support, and cooperate in investigations
 
 (Pub. L. 95–307, §3, June 30, 1978, 92 Stat. 353; Pub. L. 96–294, title II, §254, June 30, 1980, 94 Stat. 707; Pub. L. 100–521, §3, Oct. 24, 1988, 102 Stat. 2601; Pub. L. 101–624, title XII, §1241(a), Nov. 28, 1990, 104 Stat. 3544; Pub. L. 105–185, title II, §253(b), (c), June 23, 1998, 112 Stat. 559; Pub. L. 105–277, div. A, §101(a) \[title VII, §753(a)\], Oct. 21, 1998, 112 Stat. 2681, 2681–32.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal revenue codes, referred to in subsec. (d)(2), are classified generally to Title 26, Internal Revenue Code.
@@ -194,6 +196,8 @@ Subsec. (d). Pub. L. 101–624, §1241(a)(3), added subsec. (d).
 
 Subsec. (a)(4). Pub. L. 96–294, §254(2), inserted applicability to producing and conserving energy.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–277 effective June 23, 1998, see section 101(a) \[title VII, §753(f)\] of Pub. L. 105–277, set out as a note under section 343 of Title 7, Agriculture.
@@ -208,7 +212,7 @@ Pub. L. 115–334, title VIII, §8632, Dec. 20, 2018, 132 Stat. 4871, provided t
 
 #### Revision of Strategic Plan for Forest Inventory and Analysis
 
-Pub. L. 113–79, title VIII, §8301, Feb. 7, 2014, 128 Stat. 922, which required Secretary of Agriculture to revise strategic plan for forest inventory and analysis to describe organization, procedures, and funding needed to achieve certain requirements, was repealed by Pub. L. 115–334, title VIII, §8501, Dec. 20, 2018, 132 Stat. 4847.
+Pub. L. 113–79, title VIII, §8301, Feb. 7, 2014, 128 Stat. 922, which required Secretary of Agriculture to revisestrategic plan for forest inventory and analysis to describe organization, procedures, and funding needed to achieve certain requirements, was repealed by Pub. L. 115–334, title VIII, §8501, Dec. 20, 2018, 132 Stat. 4847.
 
 #### Southern Forest Regeneration Program
 
@@ -216,7 +220,7 @@ Pub. L. 101–624, title XII, §1242, Nov. 28, 1990, 104 Stat. 3545, provided th
 
 "(a)
 
-Establishment.—The Secretary of Agriculture shall make a grant to a State for the establishment, within such State, of a center, to be known as the 'Southern Forest Regeneration Center' (hereafter referred to in this section as the 'Center'), to study forestregeneration problems and forest productivity in the southern region of the United States.
+Establishment.—The Secretary of Agriculture shall make a grant to a State for the establishment, within such State, of a center, to be known as the 'Southern Forest Regeneration Center' (hereafter referred to in this section as the 'Center'), to study forest regeneration problems and forest productivity in the southern region of the United States.
 
 "(b)
 

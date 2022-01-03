@@ -44,9 +44,13 @@ In subsection (b), the words "or representation" are omitted a surplus.
 
 This amends 49:44711(a)(2)(B), (5), and (7) and 46310(b) to correct erroneous cross-references.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (b). Pub. L. 103–429 inserted "any of sections" before "44702–44716".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

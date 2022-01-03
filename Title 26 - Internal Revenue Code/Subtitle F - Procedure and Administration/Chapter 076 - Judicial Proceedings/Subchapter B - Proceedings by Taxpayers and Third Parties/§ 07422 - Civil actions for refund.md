@@ -88,7 +88,9 @@ No action or proceeding may be brought in the United States Court of Federal Cla
 
 &emsp;&emsp;<b>(4) For payment by the Treasury of judgments against internal revenue officers or employees, upon certificate of probable cause, see section 2006 of Title 28 of the United States Code.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 876; Pub. L. 85–866, title I, §78, Sept. 2, 1958, 72 Stat. 1662; Pub. L. 89–713, §3(a), Nov. 2, 1966, 80 Stat. 1108; Pub. L. 91–172, title I, §101(i), (j)(56), Dec. 30, 1969, 83 Stat. 525, 532; Pub. L. 92–178, title III, §309(a), Dec. 10, 1971, 85 Stat. 525; Pub. L. 93–406, title II, §1016(a)(26), Sept. 2, 1974, 88 Stat. 931; Pub. L. 94–455, title XIII, §1307(d)(2)(F)(viii), title XVI, §1605(b)(11), title XIX, §1906(a)(44), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1728, 1755, 1830, 1834; Pub. L. 96–222, title I, §108(b)(1)(D)–(F), Apr. 1, 1980, 94 Stat. 226; Pub. L. 96–223, title I, §101(f)(1)(J), Apr. 2, 1980, 94 Stat. 252; Pub. L. 96–596, §2(c)(2), Dec. 24, 1980, 94 Stat. 3474; Pub. L. 97–164, title I, §151, Apr. 2, 1982, 96 Stat. 46; Pub. L. 97–248, title IV, §402(c)(11), Sept. 3, 1982, 96 Stat. 668; Pub. L. 98–369, div. A, title VII, §714(g)(1), (p)(2)(H), July 18, 1984, 98 Stat. 961, 965; Pub. L. 99–514, title XVIII, §1899A(58), Oct. 22, 1986, 100 Stat. 2961; Pub. L. 100–203, title X, §10712(c)(5), Dec. 22, 1987, 101 Stat. 1330–467; Pub. L. 100–418, title I, §1941(b)(2)(B)(x), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 104–168, title XIII, §1311(c)(4), July 30, 1996, 110 Stat. 1478; Pub. L. 105–206, title III, §3104(a), July 22, 1998, 112 Stat. 731; Pub. L. 114–74, title XI, §1101(f)(11), Nov. 2, 2015, 129 Stat. 638; Pub. L. 115–141, div. U, title IV, §401(a)(325)(A), Mar. 23, 2018, 132 Stat. 1199.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 876; Pub. L. 85–866, title I, §78, Sept. 2, 1958, 72 Stat. 1662; Pub. L. 89–713, §3(a), Nov. 2, 1966, 80 Stat. 1108; Pub. L. 91–172, title I, §101(i), (j)(56), Dec. 30, 1969, 83 Stat. 525, 532; Pub. L. 92–178, title III, §309(a), Dec. 10, 1971, 85 Stat. 525; Pub. L. 93–406, title II, §1016(a)(26), Sept. 2, 1974, 88 Stat. 931; Pub. L.94–455, title XIII, §1307(d)(2)(F)(viii), title XVI, §1605(b)(11), title XIX, §1906(a)(44), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1728, 1755, 1830, 1834; Pub. L. 96–222, title I, §108(b)(1)(D)–(F), Apr. 1, 1980, 94 Stat. 226; Pub. L. 96–223, title I, §101(f)(1)(J), Apr. 2, 1980, 94 Stat. 252; Pub. L. 96–596, §2(c)(2), Dec. 24, 1980, 94 Stat. 3474; Pub. L. 97–164, title I, §151, Apr. 2, 1982, 96 Stat. 46; Pub. L. 97–248, title IV, §402(c)(11), Sept. 3, 1982, 96 Stat. 668; Pub. L. 98–369, div. A, title VII, §714(g)(1), (p)(2)(H), July 18, 1984, 98 Stat. 961, 965; Pub. L. 99–514, title XVIII, §1899A(58), Oct. 22, 1986, 100 Stat. 2961; Pub. L. 100–203, title X, §10712(c)(5), Dec. 22, 1987, 101 Stat. 1330–467; Pub. L. 100–418, title I, §1941(b)(2)(B)(x), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 104–168, title XIII, §1311(c)(4), July 30, 1996, 110 Stat. 1478; Pub. L. 105–206, title III, §3104(a), July 22, 1998, 112 Stat. 731; Pub. L. 114–74, title XI, §1101(f)(11), Nov. 2, 2015, 129 Stat. 638; Pub. L. 115–141, div. U, title IV, §401(a)(325)(A), Mar. 23, 2018, 132 Stat. 1199.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -144,6 +146,8 @@ Subsecs. (g), (h). Pub. L. 91–172, §101(i), added subsec. (g) and redesignate
 
 <b>1958</b>—Subsec. (f)(2). Pub. L. 85–866 struck out "district" before "attorneys".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date note under section 6221 of this title.
@@ -158,7 +162,7 @@ Amendment by Pub. L. 104–168 applicable to excess benefit transactions occurri
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 applicable to crude oil removed from the premises on or after Aug. 23, 1988, see section 1941(c) of Pub. L. 100–418, set out as a note under section 164 of this title.
+Amendment by Pub. L. 100–418 applicable to crude oil removed from the premises on or after Aug. 23, 1988, seesection 1941(c) of Pub. L. 100–418, set out as a note under section 164 of this title.
 
 #### Effective Date of 1987 Amendment
 

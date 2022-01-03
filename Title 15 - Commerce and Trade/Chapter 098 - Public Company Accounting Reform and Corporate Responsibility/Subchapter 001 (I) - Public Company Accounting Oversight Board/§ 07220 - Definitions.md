@@ -36,7 +36,7 @@ For the purposes of this subchapter, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(ii) relevant to audit reports for particular issuers, brokers, or dealers, or dealt with in the quality control system of a particular registered public accounting firm; and
 
-&emsp;&emsp;(B) auditing standards, standards for attestation engagements, quality control policies and procedures, ethical and competencystandards, and independence standards (including rules implementing title II) that the Board or the Commission determines—
+&emsp;&emsp;(B) auditing standards, standards for attestation engagements, quality control policies and procedures, ethical and competency standards, and independence standards (including rules implementing title II) that the Board or the Commission determines—
 
 &emsp;&emsp;&emsp;(i) relate to the preparation or issuance of audit reports for issuers, brokers, or dealers; and
 
@@ -48,11 +48,15 @@ For the purposes of this subchapter, the following definitions shall apply:
 
 (Pub. L. 107–204, title I, §110, as added Pub. L. 111–203, title IX, §982(a)(1), July 21, 2010, 124 Stat. 1927.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 77s(b) of this title, as amended by this Act, referred to in par. (5)(A)(i), means section 77s(b) of this title, as amended by Pub. L. 107–204.
 
 Title II, referred to in par. (5)(B), means title II of Pub. L. 107–204, July 30, 2002, 116 Stat. 771, which enacted subchapter II of this chapter and amended sections 78c, 78j–1, 78l and 78q of this title. For complete classification of title II to the Code, see Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

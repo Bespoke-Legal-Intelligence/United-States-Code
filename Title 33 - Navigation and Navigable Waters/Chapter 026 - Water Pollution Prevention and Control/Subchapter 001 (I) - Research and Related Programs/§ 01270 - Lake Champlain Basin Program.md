@@ -162,7 +162,7 @@ Designation of Lake Champlain as a Priority Area Under the Environmental Quality
 
 &emsp;"(1)
 
-In general.—Notwithstanding any other provision of law, the Lake Champlain basin, as defined under section 120(h) of the Federal Water Pollution Control Act \[33 U.S.C. 1270(h)\], shall be designated by the Secretary of Agriculture as a priority area under the environmental quality incentives program established under subchapter A of chapter 4 of subtitle D of title XII of the Food Security Act of 1985 \[16 U.S.C. 3839aa et seq.\].
+In general.—Notwithstanding any other provision of law, the Lake Champlain basin, as defined under section 120(h) of the Federal Water Pollution Control Act \[33 U.S.C. 1270(h)\], shall be designated bythe Secretary of Agriculture as a priority area under the environmental quality incentives program established under subchapter A of chapter 4 of subtitle D of title XII of the Food Security Act of 1985 \[16 U.S.C. 3839aa et seq.\].
 
 &emsp;"(2)
 
@@ -178,7 +178,7 @@ Allocation of funds.—In allocating funds under this subsection, the Secretary 
 
 "(b)
 
-Cooperation of the United States Geological Survey of the Department of the Interior.—For the purpose of enhancing and expanding basic data collection and monitoring in operation in the Lake Champlain basin, as defined under section 120 of the FederalWater Pollution Control Act \[33 U.S.C. 1270\], the Secretary of the Interior, acting through the heads of water resources divisions of the New York and New England districts of the United States Geological Survey, shall—
+Cooperation of the United States Geological Survey of the Department of the Interior.—For the purpose of enhancing and expanding basic data collection and monitoring in operation in the Lake Champlain basin, as defined under section 120 of the Federal Water Pollution Control Act \[33 U.S.C. 1270\], the Secretary of the Interior, acting through the heads of water resources divisions of the New York and New England districts of the United States Geological Survey, shall—
 
 &emsp;"(1) in cooperation with appropriate universities and private research institutions, and the appropriate officials of the appropriate departments and agencies of the States of New York and Vermont, develop an integrated geographic information system of the Lake Champlain basin;
 

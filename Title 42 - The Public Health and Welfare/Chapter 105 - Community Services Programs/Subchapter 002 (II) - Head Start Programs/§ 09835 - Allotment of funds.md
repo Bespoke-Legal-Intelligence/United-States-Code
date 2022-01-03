@@ -4,7 +4,7 @@
 
 (1) Using the sums appropriated pursuant to section 9834 of this title for a fiscal year, the Secretary shall allocate such sums in accordance with paragraphs (2) through (5).
 
-(2)(A) The Secretary shall determine an amount for each fiscal year for each State that is equal to the amount received through base grants for the prior fiscal year by the Head Start agencies (including Early Head Start agencies) in the State that are not described in clause (ii) or (iii) of subparagraph (B).
+(2)(A) The Secretary shall determine an amount for each fiscal year for each State that is equal to the amount received through base grants for the prior fiscal year by the HeadStart agencies (including Early Head Start agencies) in the State that are not described in clause (ii) or (iii) of subparagraph (B).
 
 (B) The Secretary shall reserve for each fiscal year such sums as are necessary—
 
@@ -104,7 +104,7 @@
 
 &emsp;(i) a portion that is less than 10 percent may be reserved by the Secretary to provide funding to Head Start agencies (including Early Head Start agencies) that demonstrate the greatest need for additional funding for such activities, as determined by the Secretary; and
 
-&emsp;(ii) a portion that is not less than 90 percent shall be reserved by the Secretary to allot, to each Head Start agency (including each Early Head Start agency), an amount that bears the same ratio to such portion as the number of enrolled children served by the agency involved bears to the number of enrolled children served by all the Head Start agencies (including Early Head Start agencies), except that the Secretary shall account for the additional costs of serving children in Early Head Start programs and may consider whether an agency is providing a full-day program or whether an agency is providing a full-year program.
+&emsp;(ii) a portion that is not less than 90 percent shall be reserved by the Secretary to allot, to each Head Start agency (including each Early Head Start agency), an amount that bears thesame ratio to such portion as the number of enrolled children served by the agency involved bears to the number of enrolled children served by all the Head Start agencies (including Early Head Start agencies), except that the Secretary shall account for the additional costs of serving children in Early Head Start programs and may consider whether an agency is providing a full-day program or whether an agency is providing a full-year program.
 
 (D) The Secretary shall fund expansion of Head Start programs (including Early Head Start programs) using the amount reserved under subparagraph (A)(ii) or subparagraph (B)(i)(II), as appropriate, of which the Secretary shall—
 
@@ -158,7 +158,7 @@
 
 &emsp;(iii) Employing additional qualified classroom staff to reduce the child-to-teacher ratio in the classroom and additional qualified family service workers to reduce the family-to-staff ratio for those workers.
 
-&emsp;(iv) Ensuring that Head Start programs have qualified staff that promote the language skills and literacy growth of children and that provide children with a variety of skills that have been identified, through scientifically based reading research, as predictive of later reading achievement.
+&emsp;(iv) Ensuring that Head Start programs have qualified staff that promote the language skills and literacy growth of children and that provide children with a variety of skills thathave been identified, through scientifically based reading research, as predictive of later reading achievement.
 
 &emsp;(v) Increasing hours of program operation, including—
 
@@ -204,13 +204,13 @@ No programs shall be approved for assistance under this subchapter unless the Se
 
 #### (d) Enrollment of children with disabilities and provision of services
 
-(1) The Secretary shall establish policies and procedures to assure that, for fiscal year 2009 and thereafter, not less than 10 percent of the total number of children actually enrolled by each Head Start agency and each delegate agency will be children with disabilities who are determined to be eligible for special education and related services, or early intervention services, as appropriate, as determined under the Individuals with Disabilities Education Act (20 U.S.C.1400 et seq.), by the State or local agency providing services under section 619 or part C of the Individuals with Disabilities Education Act (20 U.S.C. 1419, 1431 et seq.).
+(1) The Secretary shall establish policies and procedures to assure that, for fiscal year 2009 and thereafter, not less than 10 percent of the total number of children actually enrolled by each Head Start agency and each delegate agency will be children with disabilities who are determined to be eligible for special education and related services, or early intervention services, as appropriate, as determined under the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.), by the State or local agency providing services under section 619 or part C of the Individuals with Disabilities Education Act (20 U.S.C. 1419, 1431 et seq.).
 
 (2) Such policies and procedures shall ensure the provision of early intervening services, such as educational and behavioral services and supports, to meet the needs of children with disabilities, prior to an eligibility determination under the Individuals with Disabilities Education Act.
 
 (3) Such policies and procedures shall require Head Start agencies to provide timely referral to and collaborate with the State or local agency providing services under section 619 or part C of the Individuals with Disabilities Education Act to ensure the provision of special education and related services and early intervention services, and the coordination of programmatic efforts, to meet the special needs of such children.
 
-(4) The Secretary shall establish policies and procedures to provide Head Start agencies with waivers of the requirements of paragraph (1) for not more than 3 years. Such policies and procedures shall require Head Start agencies, in order to receive such waivers, to provide evidence demonstrating that the Head Start agencies are making reasonable efforts on an annual basis to comply with the requirements of that paragraph.
+(4) The Secretary shall establish policies and procedures to provide Head Start agencies with waivers of the requirements of paragraph (1) for not more than 3 years. Such policies and procedures shall require Head Start agencies, in order to receive such waivers, to provide evidence demonstrating that the Head Start agencies aremaking reasonable efforts on an annual basis to comply with the requirements of that paragraph.
 
 (5) Nothing in this subsection shall be construed to limit or create a right to a free appropriate public education under the Individuals with Disabilities Education Act.
 
@@ -266,7 +266,7 @@ The Secretary shall adopt appropriate administrative measures to assure that the
 
 (3)(A) In the event that the amount appropriated to carry out the program under this subchapter for a fiscal year does not exceed the amount appropriated for the prior fiscal year, or is not sufficient to maintain services comparable to the services provided under this subchapter during the prior fiscal year, a Head Start agency may negotiate with the Secretary a reduced funded enrollment level without a reduction in the amount of the grant received by the agency under this subchapter, if such agency can reasonably demonstrate that such reduced funded enrollment level is necessary to maintain the quality of services.
 
-(B) In accordance with this paragraph, the Secretary shall set up a process for Head Start agencies to negotiate the reduced funded enrollment levels referred to in subparagraph (A) for the fiscal year involved.
+(B) In accordance with this paragraph, the Secretary shall set up a process for Head Startagencies to negotiate the reduced funded enrollment levels referred to in subparagraph (A) for the fiscal year involved.
 
 (C) In the event described in subparagraph (A), the Secretary shall be required to notify Head Start agencies of their ability to negotiate the reduced funded enrollment levels if such an agency can reasonably demonstrate that such reduced funded enrollment level is necessary to maintain the quality of services.
 
@@ -334,6 +334,8 @@ All curricula funded under this subchapter shall be based on scientifically vali
 
 (Pub. L. 97–35, title VI, §640, Aug. 13, 1981, 95 Stat. 499; Pub. L. 98–558, title I, §103, Oct. 30, 1984, 98 Stat. 2878; Pub. L. 99–425, title I, §102, Sept. 30, 1986, 100 Stat. 966; Pub. L. 101–476, title IX, §901(d), Oct. 30, 1990, 104 Stat. 1151; Pub. L. 101–501, title I, §§104(a), 105, 123(b), Nov. 3, 1990, 104 Stat. 1224, 1228, 1237; Pub. L. 102–119, §26(g), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–401, §2(a)–(d), (k)(1), Oct. 7, 1992, 106 Stat. 1956, 1958; Pub. L. 103–252, title I, §105, May 18, 1994, 108 Stat. 626; Pub. L. 104–193, title I, §110(t), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 105–285, title I, §106(a)–(d), Oct. 27, 1998, 112 Stat. 2705–2711; Pub. L. 108–446, title III, §305(l)(1), (2), Dec. 3, 2004, 118 Stat. 2806; Pub. L. 110–134, §6, Dec. 12, 2007, 121 Stat. 1367.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Individuals with Disabilities Education Act, referred to in subsec. (d), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20. Section 619 of the Act is classified to section 1419 of Title 20. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
@@ -368,7 +370,7 @@ Subsec. (g)(2)(G), (H). Pub. L. 110–134, §6(d)(2)(F), added subpars. (G) and 
 
 "(G) the extent to which the applicant proposes to foster partnerships with other service providers in a manner that will enhance the resource capacity of the applicant; and
 
-"(H) the extent to which the applicant, in providing services, plans to coordinate with the local educational agency serving the community involved and with schools in which children participating in a Head Start program operated by such agency will enroll following such program, regarding such services and the education services provided by such local educational agency."
+"(H) the extent to which the applicant, in providing services, plans to coordinate with the local educational agency serving the community involved and with schools in which children participating in a Head Startprogram operated by such agency will enroll following such program, regarding such services and the education services provided by such local educational agency."
 
 Subsec. (g)(3), (4). Pub. L. 110–134, §6(d)(1), (4), added par. (3) and struck out former pars. (3) and (4) which read as follows:
 
@@ -432,7 +434,7 @@ Subsec. (a)(4)(A). Pub. L. 105–285, §106(a)(3)(A), substituted "1998" for "19
 
 Subsec. (a)(4)(B). Pub. L. 105–285, §106(a)(3)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows:
 
-"(B)(i) 331/3 percent of any amount available after all allotments have been made under subparagraph (A) for such fiscal year shall be distributed on the basis of the relative number of children from birth through 18 years of age, on whose behalf payments are made under the State program of assistance funded under part A of title IV of the Social Security Act in each State as compared to all States; and
+"(B)(i) 331/3 percent of any amount available after all allotments have been made under subparagraph (A) for such fiscal year shall be distributed on the basis of therelative number of children from birth through 18 years of age, on whose behalf payments are made under the State program of assistance funded under part A of title IV of the Social Security Act in each State as compared to all States; and
 
 "(ii) 662/3 percent of such amount shall be distributed on the basis of the relative number of children from birth through 5 years of age living with families with incomes below the poverty line in each State as compared to all States."
 
@@ -567,6 +569,8 @@ Subsec. (h). Pub. L. 101–501, §123(b), added subsec. (h).
 <b>1986</b>—Subsec. (a)(2)(A). Pub. L. 99–425, in amending cl. (A) generally, designated existing subcl. (i) as all of cl. (A), substituted "1987" for "1982" and "1985" for "1981", and struck out subcl. (ii) relating to cost-of-living adjustments.
 
 <b>1984</b>—Subsec. (a)(2). Pub. L. 98–558 inserted "as described in section 9843 of this title, in an amount for each fiscal year which is not less than the amount expended for training and technical assistance activities under this clause for fiscal year 1982" in cl. (C), and inserted at end "The minimum reservation contained in clause (C) of this paragraph shall not apply in any fiscal year in which the appropriation for the program authorized by this subchapter is less than the amount appropriated for fiscal year 1984. No funds reserved under this paragraph may be combined with funds appropriated under any other Act if the purpose of combining funds is to make a single discretionary grant or a single discretionary payment, unless such funds appropriated under this subchapter are separately identified in such grant or payment and are used for the purposes of this subchapter."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

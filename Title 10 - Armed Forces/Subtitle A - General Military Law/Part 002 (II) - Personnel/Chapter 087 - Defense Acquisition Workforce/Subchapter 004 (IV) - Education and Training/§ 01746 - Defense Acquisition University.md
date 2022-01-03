@@ -30,15 +30,13 @@ Curriculum Development.—The President of the Defense Acquisition University sh
 
 (d)
 
-Cooperative Research and Development Agreements.—(1) In engaging in research and development projects pursuant to subsection (a) of section 2358 of this title by a contract, cooperative agreement, or grant pursuant to subsection (b)(1) of such section, the Secretary may enter into such contract or cooperative agreement or award such grant through the Defense Acquisition University.
+Cooperative Research and Development Agreements.—(1) In engaging in research and development projects pursuant to subsection (a) of section 4001 of this title by a contract, cooperative agreement, or grant pursuant to subsection (b)(1) of such section, the Secretary may enter into such contract or cooperative agreement or award such grant through the Defense Acquisition University.
 
 (2) The Defense Acquisition University shall be considered a Government-operated Federal laboratory for purposes of section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a).
 
 (Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1653; amended Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 104–106, div. A, title XV, §1503(a)(16), Feb. 10, 1996, 110 Stat. 512; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 111–383, div. A, title VIII, §877(c)(1), (2)(A), Jan. 7, 2011, 124 Stat. 4306; Pub. L. 114–328, div. A, title II, §214(b), Dec. 23, 2016, 130 Stat. 2048; Pub. L. 116–92, div. A, title VIII, §861(c), title IX, §902(23), Dec. 20, 2019, 133 Stat. 1516, 1545; Pub. L. 116–283, div. A, title X, §1081(a)(32), title XVIII, §1841(e)(1), Jan. 1, 2021, 134 Stat. 3872, 4244.)
 
-#### Amendment of Subsection (d)(1)
-
-<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1841(e)(1), Jan. 1, 2021, 134 Stat. 4151, 4244, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, subsection (d)(1) of this section is amended by striking "section 2358" and inserting "section 4001". See 2021 Amendment note below.</i>
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -63,6 +61,8 @@ Subsec. (c). Pub. L. 111–383, §877(c)(1), added subsec. (c).
 <b>1996</b>—Subsec. (a). Pub. L. 104–106 struck out "(1)" before "The Secretary of Defense" and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively.
 
 <b>1993</b>—Subsec. (a)(1). Pub. L. 103–160 substituted "Under Secretary of Defense for Acquisition and Technology" for "Under Secretary of Defense for Acquisition".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2021 Amendment
 
@@ -120,7 +120,7 @@ Pub. L. 115–91, div. A, title VIII, §891, Dec. 12, 2017, 131 Stat. 1509, prov
 
 "(a)
 
-In General.—Not later than 180 days after the date of the enactment of this Act \[Dec. 12, 2017\], the Secretary of Defense, in consultation with the President of the Defense Acquisition University, shall establish a training course at the Defense Acquisition University on agile or iterative development methods to provide training for personnel implementing and supporting the pilot programs required by sections 873 and 874 of this Act \[10 U.S.C. 2223a note, 10 U.S.C. 2302 note\].
+In General.—Not later than 180 days after the date of the enactment of this Act \[Dec. 12, 2017\], the Secretary of Defense, in consultation with the President of the Defense Acquisition University, shall establish a training course at the Defense Acquisition University on agile or iterative development methods to provide training for personnel implementing and supporting the pilot programs required by sections 873 and 874 of this Act \[10 U.S.C. 4571 note, 10 U.S.C. 3101 note prec.\].
 
 "(b)
 

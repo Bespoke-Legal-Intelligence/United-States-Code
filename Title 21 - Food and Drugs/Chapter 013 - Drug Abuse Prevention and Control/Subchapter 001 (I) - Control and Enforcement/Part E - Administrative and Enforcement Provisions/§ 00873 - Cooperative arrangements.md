@@ -54,7 +54,7 @@ When requested by the Attorney General, it shall be the duty of any agency or in
 
 (3) To carry out this subsection there is authorized to be appropriated $6,000,000 for fiscal year 1985 and $6,000,000 for fiscal year 1986.
 
-(Pub. L. 91–513, title II, §503, Oct. 27, 1970, 84 Stat. 1271; Pub. L. 96–359, §8(a) Sept. 26, 1980, 94 Stat. 1194; Pub. L. 98–473, title II, §517, Oct. 12, 1984, 98 Stat. 2074; Pub. L. 99–570, title I, §1868, Oct. 27, 1986, 100 Stat. 3207–55; Pub. L. 99–646, §85, Nov. 10, 1986, 100 Stat. 3620; Pub. L. 111–211, title II, §232(c), July 29, 2010, 124 Stat. 2278; Pub. L. 115–271, title III, §3273(b), Oct. 24, 2018, 132 Stat. 3953.)
+(Pub. L. 91–513, title II, §503, Oct. 27, 1970, 84 Stat. 1271; Pub. L. 96–359, §8(a) Sept. 26, 1980, 94 Stat. 1194; Pub. L. 98–473, title II, §517, Oct. 12, 1984, 98 Stat. 2074; Pub. L. 99–570, title I, §1868, Oct. 27, 1986, 100 Stat. 3207–55; Pub. L. 99–646, §85, Nov. 10, 1986, 100 Stat. 3620; Pub. L. 111–211, title II, §232(c), July 29, 2010, 124 Stat. 2278; Pub. L.115–271, title III, §3273(b), Oct. 24, 2018, 132 Stat. 3953.)
 
 #### <b>Editorial Notes</b>
 

@@ -124,7 +124,7 @@ In general.—A motor carrier of property whose routes, rates, classifications, 
 
 &emsp;&emsp;&emsp;(ii)
 
-Power of attorney.—The motor carrier of property shall issue a power of attorney to the publishing agent and, upon its acceptance, the agent shall issue a written certification to the motor carrier affirming its participation in the governing publication, and the certification shall be made available for public inspection.
+Power of attorney.—The motor carrier of property shall issue a power of attorney to the publishing agent and, upon its acceptance, the agent shall issue awritten certification to the motor carrier affirming its participation in the governing publication, and the certification shall be made available for public inspection.
 
 &emsp;(2)
 
@@ -145,6 +145,8 @@ Single Line Rate Defined.—In this section, the term "single line rate" means a
 #### Pub. L. 105–102
 
 This amends 49:13703(a)(2) to correct an erroneous cross-reference.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -175,6 +177,8 @@ Subsec. (e). Pub. L. 106–159, §227(c), designated existing provisions as par.
 <b>1996</b>—Subsec. (e). Pub. L. 104–287, §5(28)(A), substituted "December 31, 1995," for "the day before the effective date of this section" and "January 1, 1996" for "such effective date".
 
 Subsec. (f)(2). Pub. L. 104–287, §5(28)(B), substituted "December 31, 1995" for "the day before the effective date of this section".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

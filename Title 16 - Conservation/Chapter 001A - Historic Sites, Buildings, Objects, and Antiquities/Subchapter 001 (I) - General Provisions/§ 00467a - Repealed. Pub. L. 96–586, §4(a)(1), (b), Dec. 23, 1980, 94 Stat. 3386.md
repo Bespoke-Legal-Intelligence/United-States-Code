@@ -2,6 +2,8 @@
 
 Section, Pub. L. 92–527, §1, Oct. 21, 1972, 86 Stat. 1049, authorized the Secretary of the Interior to accept, maintain, develop, and administer the Mar-A-Lago National Historic Site described in the order of designation dated Jan. 16, 1969, as part of the national park system and directed the Secretary to enter into agreements and take such action as deemed necessary to provide for administration and use of the Mar-A-Lago National Historic Site as a temporary residence for visiting foreign dignitaries or heads of state or members of the executive branch of the United States Government, with any further use determined by the Secretary after conferring with the Mar-A-Lago National Historic Site Advisory Commission.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of Repeal
 
 For effective date of repeal, see Pub. L. 96–586, §4, Dec. 23, 1980, 94 Stat. 3386, set out as a note below.
@@ -16,5 +18,5 @@ Pub. L. 96–586, §4, Dec. 23, 1980, 94 Stat. 3386, provided that:
 
 "(b) The Secretary of the Interior shall, within one hundred and twenty days of the date of enactment of this Act \[Dec. 23, 1980\], take such measures, consistent with the terms and conditions of the deed of conveyance from Marjorie M. Post to the United States of America, dated December 18, 1972, as may be necessary to transfer the property described in the order of designation of the Mar-A-Lago National Historic Site to the Majorie \[sic\] Merriweather Post Foundation of the District of Columbia (a charitable foundation organized under the District of Columbia Nonprofit Corporation Act).
 
-"(c) The Secretary is authorized upon conveyance, to make appropriate adjustments in the funds availablefor the administration and management of the property, including but not limited to, return of unobligated donated funds to the trustees of the Marjorie Merriweather Post Foundation of the District of Columbia, and reprogram existing appropriations to related functions and activities of the National Park Service."
+"(c) The Secretary is authorized upon conveyance, to make appropriate adjustments in the funds available for the administration and management of the property, including but not limited to, return of unobligated donated funds to the trustees of the Marjorie Merriweather Post Foundation of the District of Columbia, and reprogram existing appropriations to related functions and activities of the National Park Service."
 

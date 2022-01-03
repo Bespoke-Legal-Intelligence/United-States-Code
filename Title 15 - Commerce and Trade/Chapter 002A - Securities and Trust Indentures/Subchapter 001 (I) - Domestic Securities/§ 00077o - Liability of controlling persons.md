@@ -10,11 +10,15 @@ For purposes of any action brought by the Commission under subparagraph (b) or (
 
 (May 27, 1933, ch. 38, title I, §15, 48 Stat. 84; June 6, 1934, ch. 404, title II, §208, 48 Stat. 908; Pub. L. 111–203, title IX, §929M(a), July 21, 2010, 124 Stat. 1861.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–203 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 <b>1934</b>—Act June 6, 1934, exempted from liability controlling persons having no knowledge or reasonable grounds for belief.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

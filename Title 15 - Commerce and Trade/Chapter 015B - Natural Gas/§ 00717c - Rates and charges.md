@@ -14,7 +14,7 @@ Under such rules and regulations as the Commission may prescribe, every natural-
 
 #### (d) Changes in rates and charges; notice to Commission
 
-Unless the Commission otherwise orders, no change shall be made by any natural-gas company in any such rate, charge, classification, or service, or in any rule, regulation, or contract relating thereto, except after thirty days' notice to the Commission and to the public. Such notice shall be given by filing with the Commission and keeping open for public inspection new schedules stating plainly the change or changes to be made in the schedule or schedules then in force and the time when the change or changes will go into effect. The Commission, for good cause shown, may allow changes to take effect without requiring the thirty days' notice herein provided for by an order specifying the changes so to be made and the time when they shall take effect and the manner in which they shall be filed and published.
+Unless the Commission otherwise orders, no change shall be made by any natural-gas company in any such rate, charge, classification, or service, or in any rule, regulation, or contract relating thereto, except after thirty days' notice to the Commission and to the public. Such notice shall be given by filing with the Commission and keeping open for public inspection new schedules stating plainly the change or changes to be made in the schedule or schedules then inforce and the time when the change or changes will go into effect. The Commission, for good cause shown, may allow changes to take effect without requiring the thirty days' notice herein provided for by an order specifying the changes so to be made and the time when they shall take effect and the manner in which they shall be filed and published.
 
 #### (e) Authority of Commission to hold hearings concerning new schedule of rates
 
@@ -34,6 +34,8 @@ Whenever any such new schedule is filed the Commission shall have authority, eit
 
 (June 21, 1938, ch. 556, §4, 52 Stat. 822; Pub. L. 87–454, May 21, 1962, 76 Stat. 72; Pub. L. 109–58, title III, §312, Aug. 8, 2005, 119 Stat. 688.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Natural Gas Policy Act of 1978, referred to in subsec. (f)(1), is Pub. L. 95–621, Nov. 9, 1978, 92 Stat. 3350, as amended, which is classified generally to chapter 60 (§3301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
@@ -43,6 +45,8 @@ The Natural Gas Policy Act of 1978, referred to in subsec. (f)(1), is Pub. L. 95
 <b>2005</b>—Subsec. (f). Pub. L. 109–58 added subsec. (f).
 
 <b>1962</b>—Subsec. (e). Pub. L. 87–454 inserted "or gas distributing company" after "State commission", and struck out proviso which denied authority to the Commission to suspend the rate, charge, classification, or service for the sale of natural gas for resale for industrial use only.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Advance Recovery of Expenses Incurred by Natural Gas Companies for Natural Gas Research, Development, and Demonstration Projects
 

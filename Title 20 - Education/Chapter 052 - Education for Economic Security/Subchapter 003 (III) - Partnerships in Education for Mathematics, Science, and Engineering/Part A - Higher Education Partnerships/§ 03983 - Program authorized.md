@@ -10,6 +10,8 @@ There are authorized to be appropriated $50,000,000 for each of the fiscal years
 
 (Pub. L. 98–377, title III, §304, Aug. 11, 1984, 98 Stat. 1284; Pub. L. 99–159, title II, §§231, 233, Nov. 22, 1985, 99 Stat. 900, 901; Pub. L. 100–297, title II, §2301, Apr. 28, 1988, 102 Stat. 319; Pub. L. 100–418, title VI, §6031(b)(2), Aug. 23, 1988, 102 Stat. 1483.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–418 substituted "part" for "subchapter" wherever appearing.
@@ -19,6 +21,8 @@ Subsec. (b). Pub. L. 100–297 substituted "1986 and 1987" for "1986, 1987, and 
 <b>1985</b>—Subsec. (a). Pub. L. 99–159, §231, substituted "Secretary" for "Foundation".
 
 Subsec. (b). Pub. L. 99–159, §233, amended subsec. (b) generally, substituting authorizations of $50,000,000 for each of the fiscal years 1986, 1987, and 1988, for authorizations of $30,000,000 for fiscal year 1984 and $60,000,000 for fiscal year 1985.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

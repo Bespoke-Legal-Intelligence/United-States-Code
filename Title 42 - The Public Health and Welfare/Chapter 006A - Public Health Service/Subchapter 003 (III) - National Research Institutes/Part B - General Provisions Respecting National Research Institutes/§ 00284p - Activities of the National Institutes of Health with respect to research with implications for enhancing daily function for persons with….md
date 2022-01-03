@@ -28,9 +28,13 @@ The Director may, as appropriate, provide for the coordination of information am
 
 (Pub. L. 111–11, title XIV, §14201, Mar. 30, 2009, 123 Stat. 1453.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Christopher and Dana Reeve Paralysis Act, and also as part of the Omnibus Public Land Management Act of 2009, and not as part of the Public Health Service Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definition of "Director"
 

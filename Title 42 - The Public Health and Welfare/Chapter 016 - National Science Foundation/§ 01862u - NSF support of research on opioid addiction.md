@@ -4,9 +4,13 @@ The Director of the National Science Foundation, in consultation with the Direct
 
 (Pub. L. 116–335, §2, Jan. 13, 2021, 134 Stat. 5117.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Expanding Findings for Federal Opioid Research and Treatment Act, also known as the EFFORT Act, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Findings
 

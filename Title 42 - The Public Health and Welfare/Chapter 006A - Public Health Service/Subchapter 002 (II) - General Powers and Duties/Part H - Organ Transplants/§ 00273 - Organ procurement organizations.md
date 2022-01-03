@@ -16,7 +16,7 @@
 
 &emsp;(C) has an agreement with the Secretary to be reimbursed under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] for the procurement of kidneys,
 
-&emsp;(D) notwithstanding any other provision of law, has met the other requirements of thissection and has been certified or recertified by the Secretary within the previous 4-year period as meeting the performance standards to be a qualified organ procurement organization through a process that either—
+&emsp;(D) notwithstanding any other provision of law, has met the other requirements of this section and has been certified or recertified by the Secretary within the previous 4-year period as meeting the performance standards to be a qualified organ procurement organization through a process that either—
 
 &emsp;&emsp;(i) granted certification or recertification within such 4-year period with such certification or recertification in effect as of January 1, 2000, and remaining in effect through the earlier of—
 
@@ -90,6 +90,8 @@ Pancreata procured by an organ procurement organization and used for islet cell 
 
 (July 1, 1944, ch. 373, title III, §371, as added Pub. L. 98–507, title II, §201, Oct. 19, 1984, 98 Stat. 2342; amended Pub. L. 100–607, title IV, §402(a), (c)(1), (2), (d), Nov. 4, 1988, 102 Stat. 3114, 3115; Pub. L. 101–616, title II, §§201(a)–(c)(1), (d), (e), 206(b), Nov. 16, 1990, 104 Stat. 3283, 3285; Pub. L. 106–505, title VII, §701(c), Nov. 13, 2000, 114 Stat. 2347; Pub. L. 106–554, §1(a)(1) \[title II, §219(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–29; Pub. L. 108–216, §9, Apr. 5, 2004, 118 Stat. 590; Pub. L. 108–362, §2, Oct. 25, 2004, 118 Stat. 1703; Pub. L. 113–51, §2(a)(2), (3), Nov. 21, 2013, 127 Stat. 579, 580.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Paragraph (2), referred to in subsec. (b)(1), meaning paragraph (2) of subsec. (b) of this section, was redesignated paragraph (3) by section 201(d)(1) of Pub. L. 101–616. See 1990 Amendment note below.
@@ -154,6 +156,8 @@ Subsec. (b)(2)(K). Pub. L. 100–607, §402(c)(1)(D), added subpar. (K).
 
 Subsec. (c). Pub. L. 100–607, §402(d), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "For grants under subsection (a) of this section there are authorized to be appropriated $5,000,000 for fiscal year 1985, $8,000,000 for fiscal year 1986, and $12,000,000 for fiscal year 1987."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1990 Amendment
 
 Pub. L. 101–616, title II, §207, Nov. 16, 1990, 104 Stat. 3286, provided that: "Except as otherwise provided in this title, the amendments made by this title \[enacting sections 274f and 274g of this title, amending this section and sections 274 and 274b to 274d of this title, and repealing provisions set out as a note below\] shall become effective on October 1, 1990, or on the date of the enactment of this Act \[Nov. 16, 1990\], whichever occurs later."
@@ -208,7 +212,7 @@ Pub. L. 98–507, title I, §§101–105, Oct. 19, 1984, 98 Stat. 2339–2342, d
 
 #### Bone Marrow Registry Demonstration and Study
 
-Pub. L. 98–507, title IV, §401, Oct. 19, 1984, 98 Stat. 3268, directed Secretary of Health and Human Services to hold a conference on the feasibility of establishing and the effectiveness of a national registry of voluntary bone marrow donors not later than 9 months after Oct. 19, 1984, and if the conference found that it was feasible to establish a national registry of voluntary donors of bone marrow and that such a registry was likely to be effective in matching donors with recipients, the Secretary was to establish a registry of voluntary donors of bone marrow not later than six months after the completion of the conference, and further directed the Secretary, acting through the Assistant Secretary for Health, to study the establishment and implementation of the registry to identify the issues presented by the establishment of such a registry, to evaluate participation of bone marrow donors, to assess the implementation of the informed consent and confidentiality requirements, and to determine if the establishment of a permanent bone marrow registry was needed and appropriate, and to report the results of the study to Congress not later than two years after the date the registry was established.
+Pub. L. 98–507, title IV, §401, Oct. 19, 1984, 98 Stat. 3268, directed Secretary of Health and Human Services to hold a conference on the feasibility of establishing and the effectiveness of a national registry of voluntary bone marrow donors not later than 9 monthsafter Oct. 19, 1984, and if the conference found that it was feasible to establish a national registry of voluntary donors of bone marrow and that such a registry was likely to be effective in matching donors with recipients, the Secretary was to establish a registry of voluntary donors of bone marrow not later than six months after the completion of the conference, and further directed the Secretary, acting through the Assistant Secretary for Health, to study the establishment and implementation of the registry to identify the issues presented by the establishment of such a registry, to evaluate participation of bone marrow donors, to assess the implementation of the informed consent and confidentiality requirements, and to determine if the establishment of a permanent bone marrow registry was needed and appropriate, and to report the results of the study to Congress not later than two years after the date the registry was established.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

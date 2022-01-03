@@ -6,7 +6,7 @@ Notwithstanding any other provision of law, Federal property located within the 
 
 #### (b) Exchange of property; cash equalization payments
 
-When acquiring lands by exchange, the Secretary may accept title to any non-Federal property within the boundaries of the seashore and convey to the grantor of such property anyfederally owned property in the State of North Carolina under his jurisdiction which he classifies as proper for exchange or other disposition. Failing to effectuate an exchange of properties of approximately equal fair market value, the Secretary may accept cash from or pay cash to the grantor in such an exchange in order to equalize the values of the properties exchanged.
+When acquiring lands by exchange, the Secretary may accept title to any non-Federal property within the boundaries of the seashore and convey to the grantor of such property any federally owned property in the State of North Carolina under his jurisdiction which he classifies as proper for exchange or other disposition. Failing to effectuate an exchange of properties of approximately equal fair market value, the Secretary may accept cash from or pay cash to the grantor in such an exchange in order to equalize the values of the properties exchanged.
 
 #### (c) Owner's reservation of right of use and occupancy for residential purposes for life or fixed term of years; exclusion of property necessary for public use and access; election of term
 
@@ -18,9 +18,11 @@ A right of use and occupancy reserved in lands that are donated or otherwise acq
 
 #### (e) Administrative site; landing dock and related approach or access facilities
 
-The Secretary of the Interior is authorized to purchase with donated or appropriated funds, or acquire by exchange, not to exceed one hundred acres of lands or interests in lands at or near Beaufort, North Carolina, as an administrative site, and for a landing dock and related facilities that may be used to provide a suitable approach or access to the seashore.
+The Secretary of the Interior is authorized to purchase with donated or appropriated funds, or acquire by exchange, not to exceed one hundred acres of lands or interests in lands at or nearBeaufort, North Carolina, as an administrative site, and for a landing dock and related facilities that may be used to provide a suitable approach or access to the seashore.
 
 (Pub. L. 89–366, §2, Mar. 10, 1966, 80 Stat. 34; Pub. L. 93–477, title IV, §406(2), Oct. 26, 1974, 88 Stat. 1448.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

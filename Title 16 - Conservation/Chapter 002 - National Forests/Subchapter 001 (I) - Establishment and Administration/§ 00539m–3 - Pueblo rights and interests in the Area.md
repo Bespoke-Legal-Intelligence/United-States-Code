@@ -46,6 +46,8 @@ Except as provided in subsection (a)(4), access to and use of the Area for all o
 
 (Pub. L. 108–7, div. F, title IV, §405, Feb. 20, 2003, 117 Stat. 283.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Wilderness Act, referred to in subsec. (a)(1)(A), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.

@@ -42,7 +42,7 @@ At the election of a qualified individual (made separately with respect to parag
 
 #### (C) Treatment of community income
 
-&emsp;&emsp;In applying subparagraph (A) with respect to amounts received from services performed by a husband or wife which are community income under community property laws applicable to such income, the aggregate amount which may be excludable from the gross income of such husband and wife under subsection (a)(1) for any taxable year shall equal the amount which would be so excludable if such amounts did not constitute community income.
+&emsp;&emsp;In applying subparagraph (A) with respect to amounts received from services performedby a husband or wife which are community income under community property laws applicable to such income, the aggregate amount which may be excludable from the gross income of such husband and wife under subsection (a)(1) for any taxable year shall equal the amount which would be so excludable if such amounts did not constitute community income.
 
 #### (D) Exclusion amount
 
@@ -134,7 +134,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The amount not allowable as a deduction for any taxable year under subparagraph (A) by reason of the limitation of subparagraph (B) shall be treated as a deduction allowable in computing adjusted gross income for the succeeding taxable year (and only for the succeeding taxable year) to the extent of the limitation of clause (ii) for such succeeding taxable year.
+&emsp;&emsp;&emsp;The amount not allowable as a deduction for any taxable year under subparagraph\(A) by reason of the limitation of subparagraph (B) shall be treated as a deduction allowable in computing adjusted gross income for the succeeding taxable year (and only for the succeeding taxable year) to the extent of the limitation of clause (ii) for such succeeding taxable year.
 
 #### (ii) Limitation
 
@@ -206,7 +206,7 @@ For purposes of this section—
 
 #### (6) Denial of double benefits
 
-&emsp;No deduction or exclusion from gross income under this subtitle or credit against the tax imposed by this chapter (including any credit or deduction for the amount of taxes paid or accrued to a foreign country or possession of the United States) shall be allowed to the extent such deduction, exclusion, or credit is properly allocable to or chargeable against amounts excluded from gross income under subsection (a).
+&emsp;No deduction or exclusion from gross income under this subtitle or credit against the tax imposed by this chapter (including any creditor deduction for the amount of taxes paid or accrued to a foreign country or possession of the United States) shall be allowed to the extent such deduction, exclusion, or credit is properly allocable to or chargeable against amounts excluded from gross income under subsection (a).
 
 #### (7) Aggregate benefit cannot exceed foreign earned income
 
@@ -278,7 +278,7 @@ For purposes of this section—
 
 #### (A) Regular tax
 
-&emsp;&emsp;In applying section 1(h) for purposes of determining the tax under paragraph (1)(A)(i) for any taxable year in which, without regard to this subsection, the taxpayer's net capital gain exceeds taxable income (hereafter in this subparagraph referred to as the capital gain excess)—
+&emsp;&emsp;In applying section 1(h) for purposes of determining the tax under paragraph (1)(A)(i) for any taxable year in which, without regard to this subsection, the taxpayer's netcapital gain exceeds taxable income (hereafter in this subparagraph referred to as the capital gain excess)—
 
 &emsp;&emsp;&emsp;(i) the taxpayer's net capital gain (determined without regard to section 1(h)(11)) shall be reduced (but not below zero) by such capital gain excess,
 
@@ -307,6 +307,8 @@ For purposes of this section—
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -435,6 +437,8 @@ Subsecs. (c), (d). Pub. L. 87–834 added subsec. (c) and redesignated former su
 
 <b>1958</b>—Subsec. (c). Pub. L. 85–866 added subsec. (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Pub. L. 115–123, div. D, title II, §41116(b), Feb. 9, 2018, 132 Stat. 162, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2017."
@@ -485,7 +489,7 @@ Pub. L. 97–34, title I, §115, Aug. 13, 1981, 95 Stat. 196, provided that: "Th
 
 Pub. L. 96–595, §4(d), Dec. 24, 1980, 94 Stat. 3467, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1978."
 
-Amendment by section 107(a)(3)(B) of Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in the provisions of the Revenue Act of 1978, Pub. L. 95–600, to which such amendment relates, see section 201 of Pub. L. 96–222, set out as a note under section 32 of this title.
+Amendment by section 107(a)(3)(B) of Pub. L. 96–222 effective, except as otherwise provided, as if it had beenincluded in the provisions of the Revenue Act of 1978, Pub. L. 95–600, to which such amendment relates, see section 201 of Pub. L. 96–222, set out as a note under section 32 of this title.
 
 Amendment by section 108(a)(1)(A), (C), (D) of Pub. L. 96–222 effective as if included in the Foreign Earned Income Act of 1978, Pub. L. 95–615, see section 108(a)(2)(A) of Pub. L. 96–222, set out as a note under section 3 of this title.
 
@@ -523,7 +527,7 @@ Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31
 
 #### Effective Date of 1976 Amendment
 
-Pub. L. 94–455, title X, §1011(d), Oct. 4, 1976, 90 Stat. 1611, as amended by Pub. L. 95–30, title III, §302, May 23, 1977, 91 Stat. 152; Pub. L. 95–615, §4(a), Nov. 8, 1978, 92 Stat. 3097, provided that: "The amendments made by this section \[amending this section and section 36 ofthis title\] shall apply to taxable years beginning after December 31, 1977."
+Pub. L. 94–455, title X, §1011(d), Oct. 4, 1976, 90 Stat. 1611, as amended by Pub. L. 95–30, title III, §302, May 23, 1977, 91 Stat. 152; Pub. L. 95–615, §4(a), Nov. 8, 1978, 92 Stat. 3097, provided that: "The amendments made by this section \[amending this section and section 36 of this title\] shall apply to taxable years beginning after December 31, 1977."
 
 Amendment by section 1901(a)(115) of Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
@@ -571,7 +575,7 @@ Pub. L. 95–615, title II, §208, Nov. 8, 1978, 92 Stat. 3108, as amended by Pu
 
 "(a)
 
-General Rule.—As soon as practicable after December 31, 1993, and as soon as practicable after the close of each fifth calendar year thereafter, the Secretary of the Treasury shall transmit a report to the Committee on Ways and Means of the House of Representatives and to the Committee on Finance of the Senate on the operation and effects of sections 911 and 912 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\].
+General Rule.—As soon as practicable after December 31, 1993, and as soon as practicable after the close of each fifth calendar year thereafter, the Secretary of the Treasury shall transmit a report to theCommittee on Ways and Means of the House of Representatives and to the Committee on Finance of the Senate on the operation and effects of sections 911 and 912 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\].
 
 "(b)
 

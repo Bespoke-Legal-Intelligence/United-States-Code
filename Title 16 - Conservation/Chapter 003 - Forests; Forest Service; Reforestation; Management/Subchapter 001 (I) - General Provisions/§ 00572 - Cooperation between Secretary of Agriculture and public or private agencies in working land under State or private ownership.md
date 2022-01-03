@@ -2,7 +2,7 @@
 
 #### (a) Payment of expenses by interested parties; work contemplated
 
-The Secretary of Agriculture is authorized, where the public interest justifies, to cooperate with or assist public and private agencies, organizations, institutions, and persons in performing work on land in State, county, municipal, or private ownership, situated within or near a national forest, for which the administering agency, owner, or other interested party deposits in one or more payments a sufficient sum to cover the total estimated cost of the work to be done for the benefit of the depositor, for administration, protection, improvement, reforestation, and such other kinds of work as the Forest Service is authorized to do on lands of the United States: <i>Provided</i>, That the United States shall not be liable to the depositor or land-owner for any damage incident to the performance of such work.
+The Secretary of Agriculture is authorized, where the public interest justifies, to cooperatewith or assist public and private agencies, organizations, institutions, and persons in performing work on land in State, county, municipal, or private ownership, situated within or near a national forest, for which the administering agency, owner, or other interested party deposits in one or more payments a sufficient sum to cover the total estimated cost of the work to be done for the benefit of the depositor, for administration, protection, improvement, reforestation, and such other kinds of work as the Forest Service is authorized to do on lands of the United States: <i>Provided</i>, That the United States shall not be liable to the depositor or land-owner for any damage incident to the performance of such work.
 
 #### (b) Cooperation where national forests or lands are used by permittees
 
@@ -14,9 +14,13 @@ Moneys deposited under this section shall be covered into the Treasury and shall
 
 (Mar. 3, 1925, ch. 457, §1, 43 Stat. 1132; Apr. 24, 1950, ch. 97, §5, 64 Stat. 83.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1950</b>—Act Apr. 24, 1950, amended section generally to broaden the authority to permit performance of various kinds of work by the Forest Service, at the expense of interested parties, on national forests and other related lands.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Appropriations
 

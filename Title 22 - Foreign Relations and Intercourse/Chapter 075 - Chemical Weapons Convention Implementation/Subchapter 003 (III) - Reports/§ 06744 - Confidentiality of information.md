@@ -12,7 +12,7 @@ Except as provided in subsection (b) or (c), any confidential business informati
 
 #### (2) Information for Congress
 
-&emsp;Information shall be made available to any committee or subcommittee of Congress withappropriate jurisdiction upon the written request of the chairman or ranking minority member of such committee or subcommittee, except that no such committee or subcommittee, and no member and no staff member of such committee or subcommittee, shall disclose such information or material except as otherwise required or authorized by law.
+&emsp;Information shall be made available to any committee or subcommittee of Congress with appropriate jurisdiction upon the written request of the chairman or ranking minority member of such committee or subcommittee, except that no such committee or subcommittee, and no member and no staff member of such committee or subcommittee, shall disclose such information or material except as otherwise required or authorized by law.
 
 #### (3) Information for enforcement actions
 

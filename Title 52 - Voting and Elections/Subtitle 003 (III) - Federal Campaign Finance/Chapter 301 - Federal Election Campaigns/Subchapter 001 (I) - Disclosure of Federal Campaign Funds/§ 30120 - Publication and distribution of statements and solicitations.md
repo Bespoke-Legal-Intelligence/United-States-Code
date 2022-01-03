@@ -30,7 +30,7 @@ Any printed communication described in subsection (a) shall—
 
 #### (A) By radio
 
-&emsp;&emsp;Any communication described in paragraph (1) or (2) of subsection (a) which is transmitted through radio shall include, in addition to the requirements of that paragraph, an audio statement by the candidate that identifies the candidate and states that the candidate has approved the communication.
+&emsp;&emsp;Any communication described in paragraph (1) or (2) of subsection (a) which istransmitted through radio shall include, in addition to the requirements of that paragraph, an audio statement by the candidate that identifies the candidate and states that the candidate has approved the communication.
 
 #### (B) By television
 

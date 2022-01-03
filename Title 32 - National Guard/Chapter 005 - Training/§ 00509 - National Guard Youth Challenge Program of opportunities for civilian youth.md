@@ -56,7 +56,7 @@ Authorized Benefits for Participants.—(1) To the extent provided in an agreeme
 
 &emsp;(I) Subject to paragraph (2), a temporary stipend upon the successful completion of the training, as characterized in accordance with procedures provided in the agreement.
 
-(2) In the case of a person selected for training in the Program who afterwards becomes a member of the Civilian Community Corps under subtitle E of title I of the National and Community Service Act of 1990 (42 U.S.C. 12611 et seq.), the person may not receive a temporary stipend under paragraph (1)(I) while the person is a member of that Corps. The person may receive the temporary stipend after completing servicein the Corps unless the person elects to receive benefits provided under subsection (f) or (g) of section 158 of such Act (42 U.S.C. 12618).
+(2) In the case of a person selected for training in the Program who afterwards becomes a member of the Civilian Community Corps under subtitle E of title I of the National and Community Service Act of 1990 (42 U.S.C. 12611 et seq.), the person may not receive a temporary stipend under paragraph (1)(I) while the person is a member of that Corps. The person may receive the temporary stipend after completing service in the Corps unless the person elects to receive benefits provided under subsection (f) or (g) of section 158 of such Act (42 U.S.C. 12618).
 
 (g)
 
@@ -68,7 +68,7 @@ Program Personnel.—(1) Personnel of the National Guard of a State in which the
 
 (h)
 
-Equipment and Facilities.—(1) Equipment and facilities of the National Guard, including military property of the United States issued to the National Guard, may be used in carrying out the Program.
+Equipment and Facilities.—(1) Equipment and facilities of the National Guard, including military property of the United States issued tothe National Guard, may be used in carrying out the Program.
 
 (2) Equipment and facilities of the Department of Defense may be used by the National Guard for purposes of carrying out the Program.
 
@@ -128,7 +128,7 @@ Regulations.—The Secretary of Defense shall prescribe regulations to carry out
 
 &emsp;(7) The procedures to be used by the Secretary when communicating with States about the Program.
 
-(Added Pub. L. 105–85, div. A, title X, §1076(a), Nov. 18, 1997, 111 Stat. 1911; amended Pub. L. 106–65, div. A, title V, §579, Oct. 5, 1999, 113 Stat. 631; Pub. L. 106–246, div. B, title I, §120, July 13, 2000, 114 Stat. 533; Pub. L. 106–398, §1 \[\[div. A\], title V, §577(a)–(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–140; Pub. L. 107–107, div. A, title V, §596(a), Dec. 28, 2001, 115 Stat. 1126; Pub. L. 107–314, div. A, title X, §1062(g)(1), Dec. 2, 2002, 116 Stat. 2651; Pub. L. 108–375, div. A, title V, §594(a), (b)(1), Oct. 28, 2004, 118 Stat. 1935, 1936; Pub. L. 110–417, \[div. A\], title V, §594(a), Oct. 14, 2008, 122 Stat.4475; Pub. L. 111–84, div. A, title V, §593(a), Oct. 28, 2009, 123 Stat. 2337; Pub. L. 115–232, div. A, title V, §519, Aug. 13, 2018, 132 Stat. 1754.)
+(Added Pub. L. 105–85, div. A, title X, §1076(a), Nov. 18, 1997, 111 Stat. 1911; amended Pub. L. 106–65, div. A, title V, §579, Oct. 5, 1999, 113 Stat. 631; Pub. L. 106–246, div. B, title I, §120, July 13, 2000, 114 Stat. 533; Pub. L. 106–398, §1 \[\[div. A\], title V, §577(a)–(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–140; Pub. L. 107–107, div. A, title V, §596(a), Dec. 28, 2001, 115 Stat. 1126; Pub. L. 107–314, div. A, title X, §1062(g)(1), Dec. 2, 2002, 116 Stat. 2651; Pub. L. 108–375, div. A, title V, §594(a), (b)(1), Oct. 28, 2004, 118 Stat. 1935, 1936; Pub. L. 110–417, \[div. A\], title V, §594(a), Oct. 14, 2008, 122 Stat. 4475; Pub. L. 111–84, div. A, title V, §593(a), Oct. 28, 2009, 123 Stat. 2337; Pub. L. 115–232, div. A, title V, §519, Aug. 13, 2018, 132 Stat. 1754.)
 
 #### <b>Editorial Notes</b>
 
@@ -220,5 +220,5 @@ Pub. L. 110–417, \[div. A\], title V, §594(b), Oct. 14, 2008, 122 Stat. 4475,
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–314, div. A, title X, §1062(g), Dec. 2, 2002, 116 Stat. 2651, provided that the amendment made bysection 1062(g)(1) of Pub. L. 107–314 is effective as of Oct. 30, 2000, and as if included in Pub. L. 106–398 as enacted.
+Pub. L. 107–314, div. A, title X, §1062(g), Dec. 2, 2002, 116 Stat. 2651, provided that the amendment made by section 1062(g)(1) of Pub. L. 107–314 is effective as of Oct. 30, 2000, and as if included in Pub. L. 106–398 as enacted.
 

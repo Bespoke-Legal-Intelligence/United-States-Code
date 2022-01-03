@@ -1,6 +1,6 @@
 ### §8764. Devices and trophies: transfer to other agencies
 
-(a) The Secretary of the Navy may, without reimbursement, transfer to the Secretary of the Treasury devices and trophies for the promotion of the sale of war bonds or victory bonds. The Secretary of the Treasury may sell or donate the devices and trophies for the promotion of the sale of such bonds.
+(a) The Secretary of the Navy may, without reimbursement, transfer to the Secretary of the Treasury devices and trophies for the promotion of the sale of war bonds or victory bonds. TheSecretary of the Treasury may sell or donate the devices and trophies for the promotion of the sale of such bonds.
 
 (b) The Secretary of the Navy may, without reimbursement, transfer to any agency of the United States devices and trophies for scientific, experimental, monumental, or display purposes.
 
@@ -22,9 +22,13 @@ Aug. 7, 1946, ch. 804, §4, 60 Stat. 898.
 
 The words "such \* \* \* as he may in his discretion determine" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7544 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

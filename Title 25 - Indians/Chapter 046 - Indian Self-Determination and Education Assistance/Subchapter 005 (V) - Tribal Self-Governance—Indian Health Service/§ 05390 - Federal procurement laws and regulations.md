@@ -1,6 +1,6 @@
 ### §5390. Federal procurement laws and regulations
 
-Regarding construction programs or projects, the Secretary and Indian tribes may negotiate for the inclusion of specific provisions of division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of title 41 and Federal acquisition regulations in any funding agreement entered into under this subchapter. Absent a negotiatedagreement, such provisions and regulatory requirements shall not apply.
+Regarding construction programs or projects, the Secretary and Indian tribes may negotiate for the inclusion of specific provisions of division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of title 41 and Federal acquisition regulations in any funding agreement entered into under this subchapter. Absent a negotiated agreement, such provisions and regulatory requirements shall not apply.
 
 (Pub. L. 93–638, title V, §510, as added Pub. L. 106–260, §4, Aug. 18, 2000, 114 Stat. 726.)
 

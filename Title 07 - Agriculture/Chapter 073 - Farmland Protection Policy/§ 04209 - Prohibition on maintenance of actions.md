@@ -4,9 +4,13 @@ This chapter shall not be deemed to provide a basis for any action, either legal
 
 (Pub. L. 97–98, title XV, §1548, Dec. 22, 1981, 95 Stat. 1344; Pub. L. 99–198, title XII, §1255(b), Dec. 23, 1985, 99 Stat. 1518.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1985</b>—Pub. L. 99–198 substituted "by any person" for "by any State, local unit of government, or any person" and inserted proviso.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

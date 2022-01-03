@@ -34,6 +34,8 @@ All information obtained under subsections (a) and (b) shall be kept confidentia
 
 (Pub. L. 99–198, title XVI, §1649, Dec. 23, 1985, 99 Stat. 1626; Pub. L. 103–189, §8(g), Dec. 14, 1993, 107 Stat. 2262.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1993</b>—Subsec. (a). Pub. L. 103–189, §8(g)(1), designated existing provisions as par. (1) and added par. (2).

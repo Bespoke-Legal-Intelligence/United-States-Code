@@ -18,7 +18,7 @@ In connection with this demonstration, the Secretary of Housing and Urban Develo
 
 &emsp;&emsp;(B) The public housing agency shall ensure the provision of at least 50 percent from sources other than under this section.
 
-&emsp;&emsp;(C) Notwithstanding any other provision of law, each frail elderly person shall pay 10percent of the costs of the supportive services that the person receives, except that a frail elderly person may not be required to pay an amount that exceeds 20 percent of the adjusted income (as the term is defined in section 1437a(b)(5) of this title) of such person and the Secretary shall provide for the waiver of the requirement to pay costs under this subparagraph for persons whose income is determined to be insufficient to provide for any payment.
+&emsp;&emsp;(C) Notwithstanding any other provision of law, each frail elderly person shall pay 10 percent of the costs of the supportive services that the person receives, except that a frail elderly person may not be required to pay an amount that exceeds 20 percent of the adjusted income (as the term is defined in section 1437a(b)(5) of this title) of such person and the Secretary shall provide for the waiver of the requirement to pay costs under this subparagraph for persons whose income is determined to be insufficient to provide for any payment.
 
 &emsp;&emsp;(D) To the extent that the limitation under subparagraph (C) regarding the percentage of income frail elderly persons may pay for services will result in collected amounts for any public housing agency of less than 10 percent of the cost of providing the services, 50 percent of such remaining costs shall be provided by the public housing agency and 50 percent of such remaining costs shall be provided by the Secretary from amounts appropriated under this section.
 
@@ -38,7 +38,7 @@ An application under this section shall be submitted by a public housing agency 
 
 &emsp;(2) a description of the size and characteristics of the population of frail elderly persons and of their housing and supportive services needs;
 
-&emsp;(3) a description of the proposed method of determining whether a person qualifies as a frail elderly person (specifying any additional eligibility requirements proposed by the agency), and of selecting frail elderly persons to participate;
+&emsp;(3) a description of the proposed method of determining whether a person qualifies as a frail elderly person (specifying any additionaleligibility requirements proposed by the agency), and of selecting frail elderly persons to participate;
 
 &emsp;(4) a statement that the public housing agency will create a professional assessment committee or will work with another entity which will assist the public housing agency in identifying and providing only services that each frail elderly person needs to remain living independently;
 
@@ -78,7 +78,7 @@ An application under this section shall be submitted by a public housing agency 
 
 #### (2) Consultation with HHS
 
-&emsp;In reviewing the applications, the Secretary shall consult with the Secretary of Health andHuman Services with respect to the supportive services aspects.
+&emsp;In reviewing the applications, the Secretary shall consult with the Secretary of Health and Human Services with respect to the supportive services aspects.
 
 #### (3) Funding limitations
 
@@ -175,6 +175,8 @@ There are authorized to be appropriated for the Secretary to carry out the respo
 Not later than the expiration of the 180-day period beginning on the date that funds authorized for the demonstrations under this section first become available for obligation, the Secretary shall by notice establish such requirements as may be necessary to carry out the demonstration programs authorized under this section.
 
 (Pub. L. 101–625, title VIII, §803, Nov. 28, 1990, 104 Stat. 4317; Pub. L. 102–550, title VI, §605, Oct. 28, 1992, 106 Stat. 3806.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

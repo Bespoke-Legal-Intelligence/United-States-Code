@@ -46,9 +46,13 @@ The Secretary shall provide for the management, coordination, evaluation, and mo
 
 (Pub. L. 115–334, title III, §3307, Dec. 20, 2018, 132 Stat. 4620.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Agriculture Improvement Act of 2018, and not as part of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definition of "Secretary"
 

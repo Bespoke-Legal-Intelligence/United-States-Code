@@ -22,7 +22,7 @@
 
 #### (b) Export label
 
-For purposes of this section, an article is labeled for export or contains an export label if itbears the mark, label, or notice required under section 5704(b).
+For purposes of this section, an article is labeled for export or contains an export label if it bears the mark, label, or notice required under section 5704(b).
 
 #### (c) Cross references
 
@@ -35,6 +35,8 @@ For purposes of this section, an article is labeled for export or contains an ex
 &emsp;&emsp;<b>(4) For forfeiture provisions related to violations of this section, see section 5761(c).</b>
 
 (Added Pub. L. 105–33, title IX, §9302(h)(1)(E)(i), Aug. 5, 1997, 111 Stat. 673; amended Pub. L. 106–476, title IV, §4002(a), Nov. 9, 2000, 114 Stat. 2176; Pub. L. 109–432, div. C, title IV, §401(f)(2)(B), Dec. 20, 2006, 120 Stat. 3050.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -51,6 +53,8 @@ In General.—Tobacco products and cigarette papers and tubes previously exporte
 Cross Reference.—
 
 &emsp;<b>"For penalty for the sale of tobacco products and cigarette papers and tubes in the United States which are labeled for export, see section 5761(c)."</b>
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

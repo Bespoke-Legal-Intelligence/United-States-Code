@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Any person that causes harm to, or interferes with, an animal used for the purposes of officialinspections by the Department of Agriculture or the Department of Homeland Security, may, after notice and opportunity for a hearing on the record, be assessed a civil penalty by the Secretary of Agriculture or the Secretary of Homeland Security not to exceed $10,000.
+Any person that causes harm to, or interferes with, an animal used for the purposes of official inspections by the Department of Agriculture or the Department of Homeland Security, may, after notice and opportunity for a hearing on the record, be assessed a civil penalty by the Secretary of Agriculture or the Secretary of Homeland Security not to exceed $10,000.
 
 #### (b) Factors in determining civil penalty
 
@@ -32,6 +32,8 @@ In this section and section 2279f of this title, the term "Secretary concerned" 
 
 (Pub. L. 106–224, title V, §501, June 20, 2000, 114 Stat. 455; Pub. L. 107–296, title IV, §421(h), Nov. 25, 2002, 116 Stat. 2184.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–296, §421(h)(1), inserted "or the Department of Homeland Security" after "Department of Agriculture" and "or the Secretary of Homeland Security" after "Secretary of Agriculture".
@@ -40,7 +42,9 @@ Subsecs. (b) to (d)(1). Pub. L. 107–296, §421(h)(2), substituted "Secretary c
 
 Subsec. (e). Pub. L. 107–296, §421(h)(3), added subsec. (e).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out asan Effective Date note under section 101 of Title 6, Domestic Security.
 

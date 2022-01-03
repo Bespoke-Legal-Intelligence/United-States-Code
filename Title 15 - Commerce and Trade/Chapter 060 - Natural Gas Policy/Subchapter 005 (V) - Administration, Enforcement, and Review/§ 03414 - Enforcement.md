@@ -48,7 +48,7 @@ It shall be unlawful for any person to violate any provision of this chapter or 
 
 #### (D) Statute of limitations
 
-&emsp;&emsp;No person shall be subject to any civil penalty under this paragraph with respect to any violation occurring more than 3 years before the date on which such person is provided notice of the proposed penalty under subparagraph (E). The preceding sentence shall not apply in any case in which an untrue statement of material fact was made to the Commission or a State or Federal agency by, or acquiesced to by, the violator with respect to the acts or omissions constituting such violation, or if there was omitted a material fact necessary in order to make any statement made by, or acquiesced to by, the violator with respect to such acts or omissions not misleading in light of circumstances under such statement was made.
+&emsp;&emsp;No person shall be subject to any civil penalty under this paragraph with respect to any violation occurring more than 3 years before the date on which such person is provided notice of the proposed penalty under subparagraph (E). The preceding sentence shall not apply in any case in which an untrue statement of material fact was made to the Commission or a State or Federal agency by, or acquiesced to by, the violator with respect to the acts or omissions constituting such violation, or if there was omitted a material fact necessary in order to make anystatement made by, or acquiesced to by, the violator with respect to such acts or omissions not misleading in light of circumstances under such statement was made.
 
 #### (E) Assessed by Commission
 
@@ -92,6 +92,8 @@ It shall be unlawful for any person to violate any provision of this chapter or 
 
 (Pub. L. 95–621, title V, §504, Nov. 9, 1978, 92 Stat. 3401; Pub. L. 101–60, §3(a)(4), (b)(6), July 26, 1989, 103 Stat. 158, 159; Pub. L. 109–58, title III, §314(a)(2), (b)(2), Aug. 8, 2005, 119 Stat. 690, 691.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Subsec. (b)(6)(A). Pub. L. 109–58, §314(b)(2), substituted "$1,000,000" for "$5,000" in cl. (i) and "$1,000,000" for "$25,000" in cl. (ii).
@@ -103,6 +105,8 @@ Subsec. (c)(2). Pub. L. 109–58, §314(a)(2)(B), substituted "$50,000 for each 
 <b>1989</b>—Subsec. (a). Pub. L. 101–60, §3(b)(6), struck out par. (2) designation and par. (1) making it unlawful to sell natural gas at a first sale price in excess of any applicable maximum lawful price under this chapter.
 
 Subsec. (b). Pub. L. 101–60, §3(a)(4), substituted "paragraph (2)" for "paragraphs (2) and (3)" in par. (1), struck out par. (3) which related to enforcement of incremental pricing, and substituted "paragraph (1) or (2)" for "paragraph (1), (2), or (3)" in par. (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1989 Amendment
 

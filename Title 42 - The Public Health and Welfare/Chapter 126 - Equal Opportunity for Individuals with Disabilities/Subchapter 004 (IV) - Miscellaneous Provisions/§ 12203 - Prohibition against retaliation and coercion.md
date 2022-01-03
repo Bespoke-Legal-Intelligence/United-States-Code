@@ -14,11 +14,9 @@ The remedies and procedures available under sections 12117, 12133, and 12188 of 
 
 (Pub. L. 101–336, title V, §503, July 26, 1990, 104 Stat. 370.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a) and (b), was in the original "this Act", meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
-
-#### Constitutionality
-
-For constitutionality of section 503 of Pub. L. 101–336, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 

@@ -20,7 +20,7 @@ Within 60 days after August 26, 1994, the Secretary of State and the Director of
 
 &emsp;(3) a senior career information management official from each of the Department of Commerce and the Defense Intelligence Agency; and
 
-&emsp;(4) a senior career information management official from each of 2 other Federal agenciesserved by the DTS, each of whom shall be appointed on a rotating basis by the Secretary of State and the Director of the DTS–PO for a 2-year term.
+&emsp;(4) a senior career information management official from each of 2 other Federal agencies served by the DTS, each of whom shall be appointed on a rotating basis by the Secretary of State and the Director of the DTS–PO for a 2-year term.
 
 #### (c) DTS consolidation pilot program
 

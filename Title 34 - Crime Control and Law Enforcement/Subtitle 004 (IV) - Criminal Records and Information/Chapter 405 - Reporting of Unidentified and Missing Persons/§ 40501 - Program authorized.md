@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) States and units of local government.
 
-&emsp;&emsp;(B) Accredited, publicly funded, Combined DNA Index System (commonly known as "CODIS") forensic laboratories, which demonstrate the grant funds will be used for DNA typing and uploading biological family DNA reference samples, including samples from foreign nationals, into CODIS, subjectto the protocols for inclusion of such forensic DNA profiles into CODIS, and the privacy protections required under section 40502(c) of this title.
+&emsp;&emsp;(B) Accredited, publicly funded, Combined DNA Index System (commonly known as "CODIS") forensic laboratories, which demonstrate the grant funds will be used for DNA typing and uploading biological family DNA reference samples, including samples from foreign nationals, into CODIS, subject to the protocols for inclusion of such forensic DNA profiles into CODIS, and the privacy protections required under section 40502(c) of this title.
 
 &emsp;&emsp;(C) Medical examiners offices.
 

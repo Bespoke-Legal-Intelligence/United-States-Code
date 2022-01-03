@@ -38,7 +38,7 @@ When used in this subchapter, unless the context otherwise requires, the followi
 
 &emsp;(17) The term "person associated with an investment adviser" means any partner, officer, or director of such investment adviser (or any person performing similar functions), or any person directly or indirectly controlling or controlled by such investment adviser, including any employee of such investment adviser, except that for the purposes of section 80b–3 of this title (other than subsection (f) thereof), persons associated with an investment adviser whose functions are clerical or ministerial shall not be included in the meaning of such term. The Commission may by rules and regulations classify, for the purposes of any portion of portions of this subchapter, persons, including employees controlled by an investment adviser.
 
-&emsp;(18) "Security" means any note, stock, treasury stock, security future, bond, debenture, evidence of indebtedness, certificate of interest or participation in any profit-sharing agreement, collateral-trust certificate, preorganization certificate or subscription, transferable share, investment contract, voting-trust certificate, certificate of deposit for a security, fractional undivided interest in oil, gas, or other mineral rights, any put, call, straddle, option, or privilege on any security (including a certificate of deposit) or on any group or index of securities (including any interest therein or based on the value thereof), or any put, call, straddle, option, or privilege entered into on a national securities exchange relating to foreign currency, or, in general, any interest or instrument commonly known as a "security", or any certificate of interest or participation in, temporary or interim certificate for, receipt for, guaranty of, or warrant or right to subscribe to or purchase any of the foregoing.
+&emsp;(18) "Security" means any note, stock, treasury stock, security future, bond, debenture, evidence of indebtedness, certificate of interest or participation in any profit-sharing agreement, collateral-trust certificate, preorganization certificate or subscription,transferable share, investment contract, voting-trust certificate, certificate of deposit for a security, fractional undivided interest in oil, gas, or other mineral rights, any put, call, straddle, option, or privilege on any security (including a certificate of deposit) or on any group or index of securities (including any interest therein or based on the value thereof), or any put, call, straddle, option, or privilege entered into on a national securities exchange relating to foreign currency, or, in general, any interest or instrument commonly known as a "security", or any certificate of interest or participation in, temporary or interim certificate for, receipt for, guaranty of, or warrant or right to subscribe to or purchase any of the foregoing.
 
 &emsp;(19) "State" means any State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, or any other possession of the United States.
 
@@ -102,7 +102,9 @@ No provision in this subchapter shall apply to, or be deemed to include, the Uni
 
 Whenever pursuant to this subchapter the Commission is engaged in rulemaking and is required to consider or determine whether an action is necessary or appropriate in the public interest, the Commission shall also consider, in addition to the protection of investors, whether the action will promote efficiency, competition, and capital formation.
 
-(Aug. 22, 1940, ch. 686, title II, §202, 54 Stat. 847; Pub. L. 86–70, §12(c), June 25, 1959, 73 Stat. 143;Pub. L. 86–624, §7(d), July 12, 1960, 74 Stat. 412; Pub. L. 86–750, §1, Sept. 13, 1960, 74 Stat. 885; Pub. L. 89–485, §13(j), July 1, 1966, 80 Stat. 243; Pub. L. 91–547, §23, Dec. 14, 1970, 84 Stat. 1430; Pub. L. 95–598, title III, §311, Nov. 6, 1978, 92 Stat. 2676; Pub. L. 96–477, title II, §201, Oct. 21, 1980, 94 Stat. 2289; Pub. L. 97–303, §6, Oct. 13, 1982, 96 Stat. 1410; Pub. L. 100–181, title VII, §701, Dec. 4, 1987, 101 Stat. 1263; Pub. L. 101–550, title II, §206(b), Nov. 15, 1990, 104 Stat. 2720; Pub. L. 104–290, title III, §303(c), Oct. 11, 1996, 110 Stat. 3438; Pub. L. 106–102, title II, §§217–219, 224, Nov. 12, 1999, 113 Stat. 1399, 1400, 1402; Pub. L. 106–554, §1(a)(5) \[title II, §209(a)(2), (4)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–435, 2763A–436; Pub. L. 109–291, §4(b)(3)(A), (B), Sept. 29, 2006, 120 Stat. 1337; Pub. L. 109–351, title IV, §401(b)(1), Oct. 13, 2006, 120 Stat. 1973; Pub. L. 111–203, title IV, §§402(a), 409(a), title VII, §770, title IX, §986(d), July 21, 2010, 124 Stat. 1570, 1575, 1801, 1936.)
+(Aug. 22, 1940, ch. 686, title II, §202, 54 Stat. 847; Pub. L. 86–70, §12(c), June 25, 1959, 73 Stat. 143; Pub. L. 86–624, §7(d), July 12, 1960, 74 Stat. 412; Pub. L. 86–750, §1, Sept. 13, 1960, 74 Stat. 885; Pub. L. 89–485, §13(j), July 1, 1966, 80 Stat. 243; Pub. L. 91–547, §23, Dec. 14, 1970, 84 Stat. 1430; Pub. L. 95–598, title III, §311, Nov. 6, 1978, 92 Stat. 2676; Pub. L. 96–477, title II, §201, Oct. 21, 1980, 94 Stat. 2289; Pub. L. 97–303, §6, Oct. 13, 1982, 96 Stat. 1410; Pub. L. 100–181, title VII, §701, Dec. 4, 1987, 101 Stat. 1263; Pub. L. 101–550, title II, §206(b), Nov. 15, 1990, 104 Stat. 2720; Pub. L. 104–290, title III, §303(c), Oct. 11, 1996, 110 Stat. 3438; Pub. L. 106–102, title II, §§217–219, 224, Nov. 12, 1999, 113 Stat. 1399, 1400, 1402; Pub. L. 106–554, §1(a)(5) \[title II, §209(a)(2), (4)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–435, 2763A–436; Pub. L. 109–291, §4(b)(3)(A), (B), Sept. 29, 2006, 120 Stat. 1337; Pub. L. 109–351, title IV, §401(b)(1), Oct. 13, 2006, 120 Stat. 1973; Pub. L. 111–203, title IV, §§402(a), 409(a), title VII, §770, title IX, §986(d), July 21, 2010, 124 Stat. 1570, 1575, 1801, 1936.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -180,6 +182,8 @@ Pub. L. 86–624 struck out reference to Hawaii.
 
 <b>1959</b>—Subsec. (a)(18). Pub. L. 86–70 struck out reference to Alaska.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Amendment by section 986(d) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
@@ -236,13 +240,15 @@ Antifraud Authority.—A family office that would not be a family office, but fo
 
 \[For definitions of "Commission" and "investment adviser" as used in section 409(b), (c) of Pub. L. 111–203, set out above, see section 5301 of Title 12, Banks and Banking, and section 402(b) of Pub. L. 111–203, set out below, respectively.\]
 
-#### Transfer of Functions
-
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
 #### Definitions
 
 Pub. L. 111–203, title IV, §402(b), July 21, 2010, 124 Stat. 1570, provided that: "As used in this title \[enacting sections 80b–18b and 80b–18c of this title, amending this section and sections 80b–3, 80b–3a, 80b–4, 80b–5, 80b–10, and 80b–11 of this title, and enacting provisions set out as notes under this section and sections 77b and 80b–20 of this title\], the terms 'investment adviser' and 'private fund' have the same meanings as in section 202 of the Investment Advisers Act of 1940 \[15 U.S.C. 80b–2\], as amended by this title."
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

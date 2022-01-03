@@ -32,9 +32,13 @@ In subsection (a) the word "perishing" is omitted as surplusage. The words "in v
 
 In subsection (c) the words "An appeal does not prevent" are substituted for the words "no appeal shall operate to prevent".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7665 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

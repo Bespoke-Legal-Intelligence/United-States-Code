@@ -56,7 +56,7 @@ For purposes of this section:
 
 #### (3) Consultation
 
-&emsp;Before issuing an order for emergency measures under paragraph (1), the Secretary shall,to the extent practicable in light of the nature of the grid security emergency and the urgency of the need for action, consult with appropriate governmental authorities in Canada and Mexico, entities described in paragraph (4), the Electricity Sub-sector Coordinating Council, the Commission, and other appropriate Federal agencies regarding implementation of such emergency measures.
+&emsp;Before issuing an order for emergency measures under paragraph (1), the Secretary shall, to the extent practicable in light of the nature of the grid security emergency and the urgency of the need for action, consult with appropriate governmental authorities in Canada and Mexico, entities described in paragraph (4), the Electricity Sub-sector Coordinating Council, the Commission, and other appropriate Federal agencies regarding implementation of such emergency measures.
 
 #### (4) Application
 
@@ -86,7 +86,7 @@ For purposes of this section:
 
 #### (B) Defense critical electric infrastructure
 
-&emsp;&emsp;To the extent the owner or operator of defense critical electric infrastructure is required to take emergency measures pursuant to an order issued under this subsection, the owners or operators of a critical defense facility or facilities designated by the Secretary pursuant to subsection (c) that rely upon such infrastructure shall bear the full incremental costs of the measures.
+&emsp;&emsp;To the extent the owner or operator of defense critical electric infrastructure is required to take emergency measures pursuant to an order issued under this subsection, the owners or operators of a critical defense facility or facilities designated by the Secretary pursuant to subsection (c) that relyupon such infrastructure shall bear the full incremental costs of the measures.
 
 #### (7) Temporary access to classified information
 
@@ -162,7 +162,7 @@ Not later than 180 days after December 4, 2015, the Secretary, in consultation w
 
 #### (9) Duration of designation
 
-&emsp;Information may not be designated as critical electric infrastructure information for longer than 5 years, unless specifically re-designated by the Commission or the Secretary, as appropriate.
+&emsp;Information may not be designated as critical electric infrastructure information forlonger than 5 years, unless specifically re-designated by the Commission or the Secretary, as appropriate.
 
 #### (10) Removal of designation
 
@@ -184,7 +184,7 @@ The Secretary shall facilitate and, to the extent practicable, expedite the acqu
 
 #### (2) Relation to section 824a(c) of this title
 
-&emsp;Except as provided in paragraph (4), an action or omission taken by an owner, operator, or user of critical electric infrastructure or of defense critical electric infrastructure to comply with an order for emergency measures issued under subsection (b)(1) shall be treatedas an action or omission taken to comply with an order issued under section 824a(c) of this title for purposes of such section.
+&emsp;Except as provided in paragraph (4), an action or omission taken by an owner, operator, or user of critical electric infrastructure or of defense critical electric infrastructure to comply with an order for emergency measures issued under subsection (b)(1) shall be treated as an action or omission taken to comply with an order issued under section 824a(c) of this title for purposes of such section.
 
 #### (3) Sharing or receipt of information
 

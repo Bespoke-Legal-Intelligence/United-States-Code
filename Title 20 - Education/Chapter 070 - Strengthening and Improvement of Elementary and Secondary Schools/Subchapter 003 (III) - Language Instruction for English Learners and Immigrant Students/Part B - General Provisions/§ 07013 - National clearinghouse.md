@@ -22,7 +22,9 @@ The Secretary shall establish and support the operation of a National Clearingho
 
 Nothing in this section shall authorize the Secretary to hire additional personnel to execute subsection (a).
 
-(Pub. L. 89–10, title III, §3202, formerly §3303, as added Pub. L. 107–110, title III, §301, Jan. 8, 2002,115 Stat. 1733; amended Pub. L. 107–279, title IV, §404(d)(5)(B), Nov. 5, 2002, 116 Stat. 1986; renumbered §3202 and amended Pub. L. 114–95, title III, §§3001(5)(C), 3004(b), Dec. 10, 2015, 129 Stat. 1953, 1965.)
+(Pub. L. 89–10, title III, §3202, formerly §3303, as added Pub. L. 107–110, title III, §301, Jan. 8, 2002, 115 Stat. 1733; amended Pub. L. 107–279, title IV, §404(d)(5)(B), Nov. 5, 2002, 116 Stat. 1986; renumbered §3202 and amended Pub. L. 114–95, title III, §§3001(5)(C), 3004(b), Dec. 10, 2015, 129 Stat. 1953, 1965.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -41,6 +43,8 @@ Subsec. (a)(4)(B). Pub. L. 114–95, §3004(b)(2)(B), substituted "English learn
 Subsec. (b). Pub. L. 114–95, §3004(b)(3), added subsec. (b).
 
 <b>2002</b>—Par. (1). Pub. L. 107–279 substituted "Institute of Education Sciences" for "Office of Educational Research and Improvement".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

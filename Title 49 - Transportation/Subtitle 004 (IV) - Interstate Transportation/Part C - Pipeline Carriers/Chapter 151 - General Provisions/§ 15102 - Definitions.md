@@ -32,9 +32,13 @@ United states.—The term "United States" means the States of the United States 
 
 (Added Pub. L. 104–88, title I, §106(a), Dec. 29, 1995, 109 Stat. 921.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 10102 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

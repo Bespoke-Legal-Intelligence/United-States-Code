@@ -70,7 +70,7 @@
 
 &emsp;&emsp;(F) the method or sources of data that are used under subsection (c) and section 6313(c)(1) of this title to determine the number of children from low-income families in participating school attendance areas who attend private schools;
 
-&emsp;&emsp;(G) how and when the agency will make decisions about the delivery of services tosuch children, including a thorough consideration and analysis of the views of the private school officials on the provision of services through a contract with potential third-party providers;
+&emsp;&emsp;(G) how and when the agency will make decisions about the delivery of services to such children, including a thorough consideration and analysis of the views of the private school officials on the provision of services through a contract with potential third-party providers;
 
 &emsp;&emsp;(H) how, if the agency disagrees with the views of the private school officials on the provision of services through a contract, the local educational agency will provide in writing to such private school officials an analysis of the reasons why the local educational agency has chosen not to use a contractor;
 
@@ -130,7 +130,7 @@
 
 &emsp;&emsp;(B) using the results of a survey that, to the extent possible, protects the identity of families of private school students, and allowing such survey results to be extrapolated if complete actual data are unavailable;
 
-&emsp;&emsp;(C) applying the low-income percentage of each participating public school attendancearea, determined pursuant to this section, to the number of private school children who reside in that school attendance area; or
+&emsp;&emsp;(C) applying the low-income percentage of each participating public school attendance area, determined pursuant to this section, to the number of private school children who reside in that school attendance area; or
 
 &emsp;&emsp;(D) using an equated measure of low income correlated with the measure of low income used to count public school children.
 
@@ -156,7 +156,7 @@
 
 #### (B) Requirement
 
-&emsp;&emsp;In the provision of such services, such employee, individual, association, agency, or organization shall be independent of such private school and of any religious organization, and such employment or contract shall be under the control and supervision of such public agency.
+&emsp;&emsp;In the provision of such services, such employee, individual, association, agency, ororganization shall be independent of such private school and of any religious organization, and such employment or contract shall be under the control and supervision of such public agency.
 
 #### (e) Standards for a bypass
 
@@ -169,6 +169,8 @@ If a local educational agency is prohibited by law from providing for the partic
 &emsp;(3) in making the determination under this subsection, consider one or more factors, including the quality, size, scope, and location of the program and the opportunity of eligible children to participate.
 
 (Pub. L. 89–10, title I, §1117, formerly §1120, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1508; renumbered §1117 and amended Pub. L. 114–95, title I, §§1000(3), 1011, Dec. 10, 2015, 129 Stat. 1814, 1871.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -200,7 +202,7 @@ Subsec. (b)(5). Pub. L. 114–95, §1011(2)(B), (D), redesignated par. (4) as (5
 
 Subsec. (b)(6). Pub. L. 114–95, §1011(2)(B), redesignated par. (5) as (6).
 
-Subsec. (b)(6)(A). Pub. L. 114–95, §1011(2)(E)(i), substituted "right to file a complaint with" for "right to complain to", inserted "asserting" after "State educational agency", struck out "or" before "did not give due consideration", and inserted ", or did not make adecision that treats the private school students equitably as required by this section" before period at end.
+Subsec. (b)(6)(A). Pub. L. 114–95, §1011(2)(E)(i), substituted "right to file a complaint with" for "right to complain to", inserted "asserting" after "State educational agency", struck out "or" before "did not give due consideration", and inserted ", or did not make a decision that treats the private school students equitably as required by this section" before period at end.
 
 Subsec. (b)(6)(B). Pub. L. 114–95, §1011(2)(E)(ii), substituted "wishes to file a complaint," for "wishes to complain,".
 
@@ -209,6 +211,8 @@ Subsec. (b)(6)(C). Pub. L. 114–95, §1011(2)(E)(iii), added subpar. (C).
 Subsec. (c)(2). Pub. L. 114–95, §1011(3), made technical amendment to reference in original act which appears in text as reference to section 7883 of this title.
 
 Subsec. (e)(2). Pub. L. 114–95, §1011(4), made technical amendment to reference in original act which appears in text as reference to sections 7883 and 7884 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;(ii) after the acquisition at least 60 percent of the stock (by vote or value) of the entity is held—
 
-&emsp;&emsp;&emsp;&emsp;(I) in the case of an acquisition with respect to a domestic corporation, by former shareholders of the domestic corporation by reason of holding stock in the domestic corporation, or
+&emsp;&emsp;&emsp;&emsp;(I) in the case of an acquisition with respect to a domestic corporation, byformer shareholders of the domestic corporation by reason of holding stock in the domestic corporation, or
 
 &emsp;&emsp;&emsp;&emsp;(II) in the case of an acquisition with respect to a domestic partnership, by former partners of the domestic partnership by reason of holding a capital or profits interest in the domestic partnership, and
 
@@ -110,7 +110,7 @@ For purposes of this section—
 
 #### (1) Credits not allowed against tax on inversion gain
 
-&emsp;Credits (other than the credit allowed by section 901) shall be allowed against the taximposed by this chapter on an expatriated entity for any taxable year described in subsection (a) only to the extent such tax exceeds the product of—
+&emsp;Credits (other than the credit allowed by section 901) shall be allowed against the tax imposed by this chapter on an expatriated entity for any taxable year described in subsection (a) only to the extent such tax exceeds the product of—
 
 &emsp;&emsp;(A) the amount of the inversion gain for the taxable year, and
 
@@ -164,11 +164,15 @@ The Secretary shall provide such regulations as are necessary to carry out this 
 
 (Added Pub. L. 108–357, title VIII, §801(a), Oct. 22, 2004, 118 Stat. 1562; amended Pub. L. 109–135, title IV, §403(u), Dec. 21, 2005, 119 Stat. 2628; Pub. L. 115–97, title I, §13001(b)(1)(C), Dec. 22, 2017, 131 Stat. 2096.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Subsec. (e)(1)(B). Pub. L. 115–97 substituted "section 11(b)" for "section 11(b)(1)".
 
 <b>2005</b>—Subsec. (a)(3). Pub. L. 109–135 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "Paragraph (1) shall not apply to any entity which is treated as a domestic corporation under subsection (b)."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 

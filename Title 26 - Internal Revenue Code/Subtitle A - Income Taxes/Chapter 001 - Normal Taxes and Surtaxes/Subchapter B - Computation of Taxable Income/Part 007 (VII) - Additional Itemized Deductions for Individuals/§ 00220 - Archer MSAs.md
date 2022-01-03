@@ -2,7 +2,7 @@
 
 #### (a) Deduction allowed
 
-In the case of an individual who is an eligible individual for any month during the taxable year, there shall be allowed as a deduction for the taxable year an amount equal to the aggregate amount paid in cash during such taxable year by such individual to an Archer MSA of such individual.
+In the case of an individual who is an eligible individual for any month during the taxable year, there shall be allowed as a deduction forthe taxable year an amount equal to the aggregate amount paid in cash during such taxable year by such individual to an Archer MSA of such individual.
 
 #### (b) Limitations
 
@@ -54,7 +54,7 @@ In the case of an individual who is an eligible individual for any month during 
 
 #### (7) Medicare eligible individuals
 
-&emsp;The limitation under this subsection for any month with respect to an individual shall bezero for the first month such individual is entitled to benefits under title XVIII of the Social Security Act and for each month thereafter.
+&emsp;The limitation under this subsection for any month with respect to an individual shall be zero for the first month such individual is entitled to benefits under title XVIII of the Social Security Act and for each month thereafter.
 
 #### (c) Definitions
 
@@ -190,7 +190,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) unless it is in cash, or
 
-&emsp;&emsp;&emsp;(ii) to the extent such contribution, when added to previous contributions to the trust for the calendar year, exceeds 75 percent of the highest annual limit deductible permitted under subsection (c)(2)(A)(ii) for such calendar year.
+&emsp;&emsp;&emsp;(ii) to the extent such contribution, when added to previous contributions to the trust for the calendar year, exceeds 75percent of the highest annual limit deductible permitted under subsection (c)(2)(A)(ii) for such calendar year.
 
 &emsp;&emsp;(B) The trustee is a bank (as defined in section 408(n)), an insurance company (as defined in section 816), or another person who demonstrates to the satisfaction of the Secretary that the manner in which such person will administer the trust will be consistent with the requirements of this section.
 
@@ -248,7 +248,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;An Archer MSA is exempt from taxation under this subtitle unless such account hasceased to be an Archer MSA. Notwithstanding the preceding sentence, any such account is subject to the taxes imposed by section 511 (relating to imposition of tax on unrelated business income of charitable, etc. organizations).
+&emsp;An Archer MSA is exempt from taxation under this subtitle unless such account has ceased to be an Archer MSA. Notwithstanding the preceding sentence, any such account is subject to the taxes imposed by section 511 (relating to imposition of tax on unrelated business income of charitable, etc. organizations).
 
 #### (2) Account terminations
 
@@ -324,7 +324,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If, by reason of the death of the account holder, any person acquires the accountholder's interest in an Archer MSA in a case to which subparagraph (A) does not apply—
+&emsp;&emsp;&emsp;If, by reason of the death of the account holder, any person acquires the account holder's interest in an Archer MSA in a case to which subparagraph (A) does not apply—
 
 &emsp;&emsp;&emsp;&emsp;(I) such account shall cease to be an Archer MSA as of the date of death, and
 
@@ -514,6 +514,8 @@ The Secretary may require the trustee of an Archer MSA to make such reports rega
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Social Security Act, referred to in subsecs. (b)(7) and (f)(4)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Section 1811 of the Act is classified to section 1395c of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
@@ -648,6 +650,8 @@ Subsec. (c)(3). Pub. L. 105–34, §1602(a)(2), redesignated subpars. (B) to (D)
 
 Subsec. (d)(2)(C). Pub. L. 105–34, §1602(a)(3), substituted "described in clauses (i) and (ii) of subsection (c)(1)(A)" for "an eligible individual".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2020 Amendment
 
 Pub. L. 116–136, div. A, title III, §3702(d)(1), Mar. 27, 2020, 134 Stat. 416, provided that: "The amendment made by subsections (a) and (b) \[amending this section and section 223 of this title\] shall apply to amounts paid after December 31, 2019."
@@ -696,7 +700,7 @@ Section applicable to taxable years beginning after Dec. 31, 1996, see section 3
 
 Pub. L. 109–432, div. A, title I, §117(c), Dec. 20, 2006, 120 Stat. 2942, provided that:
 
-"(1) The report required by section 220(j)(4) of the Internal Revenue Code of 1986 to be made on August 1, 2005, or August 1, 2006, as the case may be, shall be treated as timely if made before the close of the 90-day period beginning on the date of the enactment of this Act \[Dec. 20, 2006\].
+"(1) The report required by section 220(j)(4) of the Internal Revenue Code of 1986 to be made on August 1,2005, or August 1, 2006, as the case may be, shall be treated as timely if made before the close of the 90-day period beginning on the date of the enactment of this Act \[Dec. 20, 2006\].
 
 "(2) The determination and publication required by section 220(j)(5) of such Code with respect to calendar year 2005 or calendar year 2006, as the case may be, shall be treated as timely if made before the close of the 120-day period beginning on the date of the enactment of this Act. If the determination under the preceding sentence is that 2005 or 2006 is a cut-off year under section 220(i) of such Code, the cut-off date under such section 220(i) shall be the last day of such 120-day period."
 

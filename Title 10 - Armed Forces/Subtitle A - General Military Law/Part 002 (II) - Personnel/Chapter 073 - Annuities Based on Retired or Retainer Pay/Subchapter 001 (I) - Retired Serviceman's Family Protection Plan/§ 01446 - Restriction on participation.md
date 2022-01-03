@@ -12,11 +12,15 @@
 
 (Added Pub. L. 87–381, §6(1), Oct. 4, 1961, 75 Stat. 811; amended Pub. L. 90–485, §1(8), Aug. 13, 1968, 82 Stat. 754; Pub. L. 92–425, §1(2)(A), Sept. 21, 1972, 86 Stat. 706.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1972</b>—Pub. L. 92–425 substituted "subchapter" for "chapter" wherever appearing.
 
 <b>1968</b>—Subsec. (a)(2). Pub. L. 90–485 substituted "19" for "18".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1968 Amendment
 

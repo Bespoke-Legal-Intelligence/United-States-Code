@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) to the Secretary, $25,000,000 for each of fiscal years 2008 through 2021;
 
-&emsp;&emsp;(B) to the Secretary of the Interior (acting through the Director of the United StatesFish and Wildlife Service), $2,500,000 for each of fiscal years 2008 through 2021;
+&emsp;&emsp;(B) to the Secretary of the Interior (acting through the Director of the United States Fish and Wildlife Service), $2,500,000 for each of fiscal years 2008 through 2021;
 
 &emsp;&emsp;(C) to the Under Secretary for Oceans and Atmosphere of the Department of Commerce, $2,500,000 for each of fiscal years 2008 through 2021;
 

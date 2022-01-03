@@ -84,9 +84,9 @@ Sec. 3. <i>Definitions</i>. For purposes of this order:
 
 (c) the term "Chief Information Officer" or "CIO" means the individual within a covered agency as described in 40 U.S.C. 11315;
 
-(d) the term "component Chief Information Officer" or "component CIO" means an individual in a covered agency, other than the CIO referred to in subsection (c) of this section, who has the title Chief Information Officer, or who functions in the capacity of a CIO, and has IT management authorities over a component of the agency similar to those the CIO has over the entire agency;
+(d) the term "component Chief Information Officer" or "component CIO" means an individual in a covered agency, other than the CIO referred to in subsection (c)of this section, who has the title Chief Information Officer, or who functions in the capacity of a CIO, and has IT management authorities over a component of the agency similar to those the CIO has over the entire agency;
 
-(e) the term "IT position" means a position within the job family standard for the Information Technology Management Series, GS–2210, as defined by theOffice of Personnel Management (OPM) in the Handbook of Occupational Groups and Families and related guidance.
+(e) the term "IT position" means a position within the job family standard for the Information Technology Management Series, GS–2210, as defined by the Office of Personnel Management (OPM) in the Handbook of Occupational Groups and Families and related guidance.
 
 Sec. 4. <i>Emphasizing Chief Information Officer Duties and Responsibilities</i>. The head of each covered agency shall take all necessary and appropriate action to ensure that:
 

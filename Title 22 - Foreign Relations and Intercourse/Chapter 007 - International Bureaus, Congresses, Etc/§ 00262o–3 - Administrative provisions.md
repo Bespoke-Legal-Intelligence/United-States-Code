@@ -16,7 +16,7 @@ The Secretary of the Treasury should instruct the United States Executive Direct
 
 &emsp;(6) The institution shall establish a plan and schedule for conducting regular, independent audits of internal management controls and procedures for meeting operational objectives, complying with Bank policies, and preventing fraud, and making reports describing the scope and findings of such audits available to the public.
 
-&emsp;(7) The institution shall establish effective procedures for the receipt, retention, and treatment of: (A) complaints received by the Bank regarding fraud, accounting, mismanagement, internal accounting controls, orauditing matters; and (B) the confidential, anonymous submission by employees of the Bank of concerns regarding fraud, accounting, mismanagement, internal accounting controls, or auditing matters.
+&emsp;(7) The institution shall establish effective procedures for the receipt, retention, and treatment of: (A) complaints received by the Bank regarding fraud, accounting, mismanagement, internal accounting controls, or auditing matters; and (B) the confidential, anonymous submission by employees of the Bank of concerns regarding fraud, accounting, mismanagement, internal accounting controls, or auditing matters.
 
 #### (b) Report
 

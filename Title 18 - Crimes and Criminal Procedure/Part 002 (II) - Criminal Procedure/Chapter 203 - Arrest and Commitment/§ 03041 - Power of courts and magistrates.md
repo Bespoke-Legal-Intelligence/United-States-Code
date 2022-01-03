@@ -4,7 +4,7 @@ For any offense against the United States, the offender may, by any justice or j
 
 A United States judge or magistrate judge shall proceed under this section according to rules promulgated by the Supreme Court of the United States. Any state judge or magistrate acting hereunder may proceed according to the usual mode of procedure of his state but his acts and orders shall have no effect beyond determining, pursuant to the provisions of section 3142 of this title, whether to detain or conditionally release the prisoner prior to trial or to discharge him from arrest.
 
-(June 25, 1948, ch. 645, 62 Stat. 815; Pub. L. 89–465, §5(a), June 22, 1966, 80 Stat. 217; Pub. L. 90–578,title III, §301(a)(1), (3), Oct. 17, 1968, 82 Stat. 1115; Pub. L. 98–473, title II, §204(a), Oct. 12, 1984, 98 Stat. 1985; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
+(June 25, 1948, ch. 645, 62 Stat. 815; Pub. L. 89–465, §5(a), June 22, 1966, 80 Stat. 217; Pub. L. 90–578, title III, §301(a)(1), (3), Oct. 17, 1968, 82 Stat. 1115; Pub. L. 98–473, title II, §204(a), Oct. 12, 1984, 98 Stat. 1985; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 
 #### Historical and Revision Notes
 

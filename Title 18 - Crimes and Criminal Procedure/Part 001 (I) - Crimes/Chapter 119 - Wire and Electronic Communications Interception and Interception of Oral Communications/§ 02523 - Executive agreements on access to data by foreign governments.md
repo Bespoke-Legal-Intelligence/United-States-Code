@@ -62,7 +62,7 @@ Executive Agreement Requirements.—For purposes of this chapter, chapter 121, a
 
 &emsp;&emsp;&emsp;(iv) shall be based on requirements for a reasonable justification based on articulable and credible facts, particularity, legality, and severity regarding the conduct under investigation;
 
-&emsp;&emsp;&emsp;(v) shall be subject to review or oversight by a court, judge, magistrate, or other independent authority prior to, or inproceedings regarding, enforcement of the order; and
+&emsp;&emsp;&emsp;(v) shall be subject to review or oversight by a court, judge, magistrate, or other independent authority prior to, or in proceedings regarding, enforcement of the order; and
 
 &emsp;&emsp;&emsp;(vi) in the case of an order for the interception of wire or electronic communications, and any extensions thereof, shall require that the interception order—
 
@@ -88,7 +88,7 @@ Executive Agreement Requirements.—For purposes of this chapter, chapter 121, a
 
 (c)
 
-Limitation on Judicial Review.—A determination or certification made by the Attorney General under subsection (b) shall not be subject to judicial or administrative review.
+Limitation on Judicial Review.—A determination or certification made by the AttorneyGeneral under subsection (b) shall not be subject to judicial or administrative review.
 
 (d)
 
@@ -176,7 +176,7 @@ Rules relating to senate and house of representatives.—
 
 &emsp;&emsp;(A)
 
-Treatment of senate joint resolution in house.—In the House of Representatives, the following procedures shall apply to a joint resolution of disapproval received from the Senate (unless the House has already passed a joint resolution relating to the same proposed action):
+Treatment of senate joint resolution in house.—In the House of Representatives, the following procedures shall apply to a joint resolution of disapproval receivedfrom the Senate (unless the House has already passed a joint resolution relating to the same proposed action):
 
 &emsp;&emsp;&emsp;(i) The joint resolution shall be referred to the appropriate committees.
 

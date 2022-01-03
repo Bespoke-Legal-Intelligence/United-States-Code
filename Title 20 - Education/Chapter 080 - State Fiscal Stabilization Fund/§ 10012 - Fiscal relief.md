@@ -14,7 +14,7 @@ The Secretary shall not grant a waiver or modification under this section unless
 
 #### (d) Maintenance of effort
 
-Upon prior approval from the Secretary, a State or local educational agency that receives funds under this chapter may treat any portion of such funds that is used for elementary, secondary, or postsecondary education as non-Federal funds for the purpose of any requirement to maintain fiscal effort under any other program, including part C of the Individuals with Disabilities Education Act (20 U.S.C. 1431 et seq.), administered by the Secretary.
+Upon prior approval from the Secretary, a State or local educational agency that receives funds under this chapter may treat any portionof such funds that is used for elementary, secondary, or postsecondary education as non-Federal funds for the purpose of any requirement to maintain fiscal effort under any other program, including part C of the Individuals with Disabilities Education Act (20 U.S.C. 1431 et seq.), administered by the Secretary.
 
 #### (e) Subsequent level of effort
 
@@ -22,13 +22,15 @@ Notwithstanding (d),<sup>1</sup> the level of effort required by a State or loca
 
 (Pub. L. 111–5, div. A, title XIV, §14012, Feb. 17, 2009, 123 Stat. 285; Pub. L. 111–8, div. F, title V, §523(h), Mar. 11, 2009, 123 Stat. 806.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Individuals with Disabilities Education Act, referred to in subsec. (d), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
 #### Amendments
 
-<b>2009</b>—Subsec. (c). Pub. L. 111–8 amended subsec. (c) generally. Prior to amendment, text read as follows:"The Secretary shall not grant a waiver or modification under this section unless the Secretary determines that the State or local educational agency receiving such waiver or modification will not provide for elementary and secondary education, for the fiscal year under consideration, a smaller percentage of the total revenues available to the State or local educational agency than the amount provided for such purpose in the preceding fiscal year."
+<b>2009</b>—Subsec. (c). Pub. L. 111–8 amended subsec. (c) generally. Prior to amendment, text read as follows: "The Secretary shall not grant a waiver or modification under this section unless the Secretary determines that the State or local educational agency receiving such waiver or modification will not provide for elementary and secondary education, for the fiscal year under consideration, a smaller percentage of the total revenues available to the State or local educational agency than the amount provided for such purpose in the preceding fiscal year."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "subsection (d),".</i>
 

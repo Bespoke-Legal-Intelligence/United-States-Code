@@ -18,7 +18,7 @@
 
 (C) Such policies and strategies, to the extent practicable and except under such unusual circumstances as the Director may recognize, shall—
 
-&emsp;(i) insure that a refugee is not initially placed or resettled in an area highly impacted (as determined under regulations prescribed by the Director after consultation with such agencies and governments) by the presence ofrefugees or comparable populations unless the refugee has a spouse, parent, sibling, son, or daughter residing in that area,
+&emsp;(i) insure that a refugee is not initially placed or resettled in an area highly impacted (as determined under regulations prescribed by the Director after consultation with such agencies and governments) by the presence of refugees or comparable populations unless the refugee has a spouse, parent, sibling, son, or daughter residing in that area,
 
 &emsp;(ii) provide for a mechanism whereby representatives of local affiliates of voluntary agencies regularly (not less often than quarterly) meet with representatives of State and local governments to plan and coordinate in advance of their arrival the appropriate placement of refugees among the various States and localities, and
 
@@ -130,7 +130,7 @@
 
 &emsp;(C) To assure that refugees, known to the agency as having been identified pursuant to paragraph (4)(B) as having medical conditions affecting the public health and requiring treatment, report to the appropriate county or other health agency upon their resettlement in an area.
 
-&emsp;(D) To fulfill its responsibility to provide for the basic needs (including food, clothing, shelter, and transportation for job interviews and training) of each refugee resettled and to develop and implement a resettlement plan including the early employment of each refugeeresettled and to monitor the implementation of such plan.
+&emsp;(D) To fulfill its responsibility to provide for the basic needs (including food, clothing, shelter, and transportation for job interviews and training) of each refugee resettled and to develop and implement a resettlement plan including the early employment of each refugee resettled and to monitor the implementation of such plan.
 
 &emsp;(E) To transmit to the Federal agency administering paragraph (1) an annual report describing the following:
 
@@ -176,7 +176,7 @@
 
 (C) Any limitation which the Director establishes on the proportion of funds allocated to a State under this paragraph that the State may use for services other than those described in subsection (a)(1)(B)(ii) shall not apply if the Director receives a plan (established by or in consultation with local governments) and determines that the plan provides for the maximum appropriate provision of employment-related services for, and the maximum placement of, employable refugees consistent with performance standards established under section 106 of the Job Training Partnership Act.
 
-(2)(A) The Director is authorized to make grants to States for assistance to counties and similar areas in the States where, because of factors such as unusually large refugee populations (including secondary migration), high refugee concentrations, and high use of public assistance by refugees, there exists and can be demonstrated a specific need for supplementation of available resources for services to refugees.
+(2)(A) The Director is authorized to make grants to States for assistance to counties and similar areas in the States where, because of factors such as unusually large refugee populations (including secondary migration), high refugee concentrations, and high use of public assistance by refugees, there exists and can bedemonstrated a specific need for supplementation of available resources for services to refugees.
 
 (B) Grants shall be made available under this paragraph—
 
@@ -188,7 +188,7 @@
 
 (1) The Secretary of Education is authorized to make grants, and enter into contracts, for payments for projects to provide special educational services (including English language training) to refugee children in elementary and secondary schools where a demonstrated need has been shown.
 
-(2)(A) The Director is authorized to provide assistance, reimbursement to States, and grants to and contracts with public and private nonprofit agencies, for the provision of child welfare services, including foster care maintenance payments and services and health care, furnished toany refugee child (except as provided in subparagraph (B)) during the thirty-six month period beginning with the first month in which such refugee child is in the United States.
+(2)(A) The Director is authorized to provide assistance, reimbursement to States, and grants to and contracts with public and private nonprofit agencies, for the provision of child welfare services, including foster care maintenance payments and services and health care, furnished to any refugee child (except as provided in subparagraph (B)) during the thirty-six month period beginning with the first month in which such refugee child is in the United States.
 
 (B)(i) In the case of a refugee child who is unaccompanied by a parent or other close adult relative (as defined by the Director), the services described in subparagraph (A) may be furnished until the month after the child attains eighteen years of age (or such higher age as the State's child welfare services plan under part B of title IV of the Social Security Act \[42 U.S.C. 620 et seq.\] prescribes for the availability of such services to any other child in that State).
 
@@ -226,7 +226,7 @@
 
 (4) If a refugee is eligible for aid or assistance under a State program funded under part A of title IV or under title XIX of the Social Security Act \[42 U.S.C. 601 et seq., 1396 et seq.\], or for supplemental security income benefits (including State supplementary payments) under the program established under title XVI of that Act \[42 U.S.C. 1381 et seq.\], funds authorized under this subsection shall only be used for the non-Federal share of such aid or assistance, or for such supplementary payments, with respect to cash and medical assistance provided with respect to such refugee under this paragraph.
 
-(5) The Director is authorized to allow for the provision of medical assistance under paragraph (1) to any refugee, during the one-year period after entry, who does not qualify for assistance under a State plan approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] on account of any resources or income requirement of such plan, but only if the Director determines that—
+(5) The Director is authorized to allow for the provision of medical assistance under paragraph (1) to any refugee, during the one-year period after entry, who does not qualify for assistance under a State plan approved under title XIX ofthe Social Security Act \[42 U.S.C. 1396 et seq.\] on account of any resources or income requirement of such plan, but only if the Director determines that—
 
 &emsp;(A) this will (i) encourage economic self-sufficiency, or (ii) avoid a significant burden on State and local governments; and
 
@@ -280,7 +280,7 @@
 
 The Renegotiation Act of 1951, referred to in subsec. (b)(3), is act Mar. 23, 1951, ch. 15, 65 Stat. 7, which was classified principally to section 1211 et seq. of the former Appendix to Title 50, War and National Defense, prior to its omission from the Code.
 
-Section 106 of the Job Training Partnership Act, referred to in subsec. (c)(1)(C), which was classified to section 1516 of Title 29, Labor, was repealed by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to former section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, were deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and, effective July 1, 2000, were deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. The Workforce Investment Act of 1998 was repealed by Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to section 3361(a) of Title 29, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, effective July 1, 2015. For completeclassification of the Job Training Partnership Act and the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
+Section 106 of the Job Training Partnership Act, referred to in subsec. (c)(1)(C), which was classified to section 1516 of Title 29, Labor, was repealed by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to former section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, were deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and, effective July 1, 2000, were deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. The Workforce Investment Act of 1998 was repealed by Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to section 3361(a) of Title 29, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, effective July 1, 2015. For complete classification of the Job Training Partnership Act and the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
 The Social Security Act, referred to in subsecs. (d)(2)(B)(i) and (e)(4), (5), (7)(B), (D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Parts A and B of title IV of the Social Security Act are classified generally to part A (§601 et seq.) and part B (§620 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Titles XVI and XIX of the Social Security Act are classified generally to subchapters XVI (§1381 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
@@ -454,7 +454,7 @@ Maintaining Funding Level.—Subject to the availability of appropriations, the 
 
 "(b)
 
-Matching Grant Program.—The 'matching grant program' referred to in subsection (a) is the voluntary agency program which is known as the matching grant program and is funded under section 412(c) ofthe Immigration and Nationality Act \[8 U.S.C. 1522(c)\]."
+Matching Grant Program.—The 'matching grant program' referred to in subsection (a) is the voluntary agency program which is known as the matching grant program and is funded under section 412(c) of the Immigration and Nationality Act \[8 U.S.C. 1522(c)\]."
 
 #### Reimbursement to State and Local Public Agencies for Expenses Incurred for Providing Social Services to Applicants for Asylum
 
@@ -506,7 +506,7 @@ Pub. L. 96–422, Oct. 10, 1980, 94 Stat. 1799, as amended by Pub. L. 96–424, 
 
 "Sec. 102. (a) There are authorized to be appropriated for each of the fiscal years 1981, 1982, and 1983, but only in a lump sum for all programs under this Act, subject to allocation in accordance with subsection (b), such sums as may be necessary to make payments to which State educational agencies are entitled under this Act and payments for administration under section 104.
 
-"(b)(1) If the sums appropriated for any fiscal year to make payments to States under this Act are not sufficient to pay in full the sum of the amounts which State educational agencies are entitled to receive under titles II through IV for such year, the allocations to State educational agencies under each of such titles shall be ratably reduced by the same percentage to the extent necessary to bring the aggregate of such allocations within the limits of the amounts so appropriated.
+"(b)(1) If the sums appropriated for any fiscal year to make payments to States under this Act are not sufficient to pay in full the sum of the amounts which State educational agencies are entitled to receive under titles II through IV for such year, the allocations toState educational agencies under each of such titles shall be ratably reduced by the same percentage to the extent necessary to bring the aggregate of such allocations within the limits of the amounts so appropriated.
 
 "(2) In the event that funds become available for making payments under this Act for any period after allocations have been made under paragraph (1) of this subsection for such period, the amounts reduced under such paragraph shall be increased on the same basis as they were reduced.
 
@@ -676,7 +676,7 @@ Pub. L. 96–422, Oct. 10, 1980, 94 Stat. 1799, as amended by Pub. L. 96–424, 
 
 "(2) The amount of the grant to which a State educational agency is otherwise entitled for any fiscal year, as determined under paragraph (1), shall be reduced by the amounts made available for such fiscal year under any other Federal law for expenditure within the State for the same purposes as those for which funds are made available under this title, except that the reduction shall be made only to the extent that (A) such amounts are made available for such purposes specifically because of the refugee, parolee, or asylee status of the individuals to be served by such funds, and (B) such amounts are made available to provide assistance to individuals eligible for services under this title. The amount of the reduction required under this paragraph shall be determined by the Secretary in a manner consistent with subsection (c).
 
-"(3) For the purpose of this subsection, the term 'State' does not include Guam, American Samoa, theVirgin Islands, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands. The entitlements of such jurisdictions shall be determined in the manner specified in section 103, but for purposes of this title and section 105 any payments made under section 103 for the purposes set forth in section 402 shall be considered to be payments under this title.
+"(3) For the purpose of this subsection, the term 'State' does not include Guam, American Samoa, the Virgin Islands, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands. The entitlements of such jurisdictions shall be determined in the manner specified in section 103, but for purposes of this title and section 105 any payments made under section 103 for the purposes set forth in section 402 shall be considered to be payments under this title.
 
 "(c) Determinations by the Secretary under this title for any period with respect to the number of eligible participants and the amount of the reduction under subsection (b)(2) shall be made, whenever actual satisfactory data are not available, on the basis of estimates. No such determination shall operate because of an underestimate or overestimate to deprive any State educational agency of its entitlement to any payment (or the amount thereof) under this title to which such agency would be entitled had such determination been made on the basis of accurate data.
 
@@ -736,7 +736,7 @@ Pub. L. 96–422, Oct. 10, 1980, 94 Stat. 1799, as amended by Pub. L. 96–424, 
 
 "(e) As used in this section, the term 'Cuban and Haitian entrant' means—
 
-&emsp;"(1) any individual granted parole status as a Cuban/Haitian Entrant (Status Pending) or grantedany other special status subsequently established under the immigration laws for nationals of Cuba or Haiti, regardless of the status of the individual at the time assistance or services are provided; and
+&emsp;"(1) any individual granted parole status as a Cuban/Haitian Entrant (Status Pending) or granted any other special status subsequently established under the immigration laws for nationals of Cuba or Haiti, regardless of the status of the individual at the time assistance or services are provided; and
 
 &emsp;"(2) any other national of Cuba or Haiti—
 
@@ -798,35 +798,7 @@ The Secretary of Defense is authorized and directed to publish this determinatio
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Ex. Ord. No. 13888. Enhancing State and Local Involvement in Refugee Resettlement
+#### Executive Order No. 13888
 
-Ex. Ord. No. 13888, Sept. 26, 2019, 84 F.R. 52355, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
-
-Section 1. <i>Purpose</i>. In resettling refugees into American communities, it is the policy of the United States to cooperate and consult with State and local governments, to take into account the preferences of State governments, and to provide a pathway for refugees to become self-sufficient. These policies support each other. Close cooperation with State and local governments ensures that refugees are resettled in communities that are eager and equipped to support their successful integration into American society and the labor force.
-
-The Federal Government consults with State and local governments not only to identify the best environments for refugees, but also to be respectful of those communities that may not be able to accommodate refugee resettlement. State and local governments are best positioned to know the resources and capacities they may or may not have available to devote to sustainable resettlement, which maximizes the likelihood refugees placed in the area will become self-sufficient and free from long-term dependence on public assistance. Some States and localities, however, have viewed existing consultation as insufficient, and there is a need for closer coordination and a more clearly defined role for State and local governments in the refugee resettlement process. My Administration seeks to enhance these consultations.
-
-Section 6(d) of Executive Order 13780 of March 6, 2017 (Protecting the Nation from Foreign Terrorist Entry into the United States) \[8 U.S.C. 1182 note\], directed the Secretary of State to determine the extent to which, consistent with applicable law, State and local jurisdictions could have greater involvement in the process of determining the placement or resettlement of refugees in their jurisdictions, and to devise a proposal to promote such involvement.
-
-I have consulted with the Secretary of State and determined that, with limited exceptions, the FederalGovernment, as an exercise of its broad discretion concerning refugee placement accorded to it by the Constitution and the Immigration and Nationality Act, should resettle refugees only in those jurisdictions in which both the State and local governments have consented to receive refugees under the Department of State's Reception and Placement Program (Program).
-
-Sec. 2. <i>Consent of States and Localities to the Placement of Refugees</i>. (a) Within 90 days of the date of this order \[Sept. 26, 2019\], the Secretary of State and the Secretary of Health and Human Services shall develop and implement a process to determine whether the State and locality both consent, in writing, to the resettlement of refugees within the State and locality, before refugees are resettled within that State and locality under the Program. The Secretary of State shall publicly release any written consents of States and localities to resettlement of refugees.
-
-(b) Within 90 days of the date of this order, the Secretary of State and the Secretary of Health and Human Services shall develop and implement a process by which, consistent with 8 U.S.C. 1522(a)(2)(D), the State and the locality's consent to the resettlement of refugees under the Program is taken into account to the maximum extent consistent with law. In particular, that process shall provide that, if either a State or locality has not provided consent to receive refugees under the Program, then refugees should not be resettled within that State or locality unless the Secretary of State concludes, following consultation with the Secretary of Health and Human Services and the Secretary of Homeland Security, that failing to resettle refugees within that State or locality would be inconsistent with the policies and strategies established under 8 U.S.C. 1522(a)(2)(B) and (C) or other applicable law. If the Secretary of State intends to provide for the resettlement of refugees in a State or locality that has not provided consent, then the Secretary shall notify the President of such decision, along with the reasons for the decision, before proceeding.
-
-(c) Subsection (b) of this section shall not apply to the resettlement of a refugee's spouse or child following to join that refugee pursuant to 8 U.S.C. 1157(c)(2)(A).
-
-Sec. 3. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
-
-(i) the authority granted by law to an executive department or agency, or the head thereof; or
-
-(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
-
-(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
-
-(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-
-Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Ex. Ord. No. 13888, Sept. 26, 2019, 84 F.R. 52355, which related to State and locality written consent to the resettlement of refugees within the State and locality, was revoked by Ex. Ord. No. 14013, §2(a), Feb. 4, 2021, 86 F.R. 8840, set out in a note under section 1157 of this title.
 

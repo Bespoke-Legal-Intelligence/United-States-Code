@@ -4,7 +4,7 @@
 
 The following rivers and streams shall be subject to the same restrictions on the licensing, permitting, and exempting from licensing and the construction of water resource projects as provided for components of the National Wild and Scenic Rivers System pursuant to section 7(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1278(a)):
 
-&emsp;(1) any tributary river or stream to the Columbia River not designated in subsections <sup>1</sup>\(c) or (d) of this section or otherwise specified in this subsection which flows in whole or in part through a special management area, unless the construction of a water resources project would not have a direct and adverse effect on the scenic, cultural, recreation, and natural resources of the scenic area;
+&emsp;(1) any tributary river or stream to the Columbia River not designated in subsections <sup>1</sup> (c) or (d) of this section or otherwise specified in this subsection which flows in whole or in part through a special management area, unless the construction of a water resources project would not have a direct and adverse effect on the scenic, cultural, recreation, and natural resources of the scenic area;
 
 &emsp;(2) any river or river segment which flows in whole or in part through the scenic area and which is established pursuant to State law as a wild, scenic, or recreation river or which is under study pursuant to State law for the potential inclusion in any such State protected river system, unless such project or projects meet terms and conditions set by State agencies exercising administration over such river or river segment;
 
@@ -23,6 +23,8 @@ The following rivers and streams shall be subject to the same restrictions on th
 The provisions of subsection (a) shall not apply to those portions of tributary rivers or streams to the Columbia River which flow through or border on Indian reservations. Nothing in this section shall apply to or affect any segment of any river designated as a wild and scenic river under section 3 of the Wild and Scenic Rivers Act (16 U.S.C. 1274) or any river designated for study under section 5 of such Act (16 U.S.C. 1276).
 
 (Pub. L. 99–663, §13(a), (b), Nov. 17, 1986, 100 Stat. 4293, 4294; Pub. L. 111–11, title I, §1203(b), Mar. 30, 2009, 123 Stat. 1012.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

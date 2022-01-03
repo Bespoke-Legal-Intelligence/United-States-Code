@@ -4,6 +4,8 @@ If the discoverer dies before perfecting proof of discovery or fully complying w
 
 (R.S. §5572.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §5572 derived from act Apr. 2, 1872, ch. 81, §1, 17 Stat. 48.

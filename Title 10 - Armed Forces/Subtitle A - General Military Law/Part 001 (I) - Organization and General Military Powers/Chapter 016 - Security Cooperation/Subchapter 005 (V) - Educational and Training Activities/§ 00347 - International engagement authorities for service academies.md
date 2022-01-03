@@ -100,7 +100,7 @@ No pay and allowances.—A student from a military academy of a foreign country 
 
 &emsp;&emsp;(B)
 
-Subsistence, transportation, etc.—The Secretary of the military department concerned may provide a student from a foreign country under the exchange program, during the period of the exchange, with subsistence, transportation within the continental United States, clothing, health care, and other services to the same extent that the foreign country provides comparablesupport and services to the exchanged cadet or midshipman in that foreign country.
+Subsistence, transportation, etc.—The Secretary of the military department concerned may provide a student from a foreign country under the exchange program,during the period of the exchange, with subsistence, transportation within the continental United States, clothing, health care, and other services to the same extent that the foreign country provides comparable support and services to the exchanged cadet or midshipman in that foreign country.
 
 &emsp;&emsp;(C)
 
@@ -158,6 +158,8 @@ Service Academy Defined.—In this section, the term "Service Academy" means the
 
 (Added Pub. L. 114–328, div. A, title XII, §1248(a), Dec. 23, 2016, 130 Stat. 2522; amended Pub. L. 115–91, div. A, title X, §1081(a)(18), Dec. 12, 2017, 131 Stat. 1595; Pub. L. 115–232, div. A, title VIII, §809(a), title XII, §1204(c)(1)(D), Aug. 13, 2018, 132 Stat. 1840, 2017.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in sections 4344 to 4345a, 6957 to 6957b, and 9344 to 9345a, prior to repeal by Pub. L. 114–328.
@@ -177,6 +179,8 @@ Subsec. (a)(9). Pub. L. 115–232, §809(a), substituted "section 7446(d), 8458(
 Subsec. (b)(3)(B). Pub. L. 115–232, §1204(c)(1)(D)(ii), substituted "etc" for "etc." in heading.
 
 <b>2017</b>—Subsec. (a)(1)(A)(i), (iii). Pub. L. 115–91 inserted "section" after "Academy under".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

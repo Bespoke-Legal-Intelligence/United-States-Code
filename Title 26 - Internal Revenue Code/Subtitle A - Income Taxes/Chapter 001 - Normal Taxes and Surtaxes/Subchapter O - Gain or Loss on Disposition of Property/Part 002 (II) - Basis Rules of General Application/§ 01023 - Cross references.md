@@ -6,6 +6,8 @@
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 302, §1022; renumbered §1023, Pub. L. 88–272, title II, §225(j)(1), Feb. 26, 1964, 78 Stat. 92; renumbered §1024 and amended Pub. L. 94–455, title XIX, §1901(a)(127), title XX, §2005(a)(2), Oct. 4, 1976, 90 Stat. 1784, 1872; renumbered §1023, Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299; Pub. L. 96–589, §6(i)(4), Dec. 24, 1980, 94 Stat. 3410; Pub. L. 109–304, §17(e)(4), Oct. 6, 2006, 120 Stat. 1708.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1023, added Pub. L. 94–455, title XX, §2005(a)(2), Oct. 4, 1976, 90 Stat. 1872; amended Pub. L. 95–600, title V, §515(3), (4), title VII, §702(c)(2)–(4), (6)–(8), Nov. 6, 1978, 92 Stat. 2884, 2926–2928, related to carryover basis for certain property acquired from a decedent dying after Dec. 31, 1979, prior to repeal by Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299. The repeal was achieved by repealing section 2005(a)(2) of Pub. L. 94–455 and the amendment made thereby, which had enacted prior section 1023.
@@ -17,6 +19,8 @@ A prior section 1023, added Pub. L. 94–455, title XX, §2005(a)(2), Oct. 4, 19
 <b>1980</b>—Pub. L. 96–589 redesignated par. (3) as (2). Former par. (2), which provided reference to sections 670, 796, and 922 of Title 11, Bankruptcy, for basis of property in case of certain reorganizations and arrangements under the Bankruptcy Act, was struck out.
 
 <b>1976</b>—Par. (4). Pub. L. 94–455, §1901(a)(127), struck out par. (4) which referred to section 405 of the Defense Production Act of 1950 for rules applicable in case of payments in violation of that Act.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment and Revival of Prior Law
 
@@ -32,5 +36,5 @@ Amendment by section 1901(a)(127) of Pub. L. 94–455 applicable with respect to
 
 #### Repeals
 
-Pub. L. 94–455, §1901(a)(127), cited as a credit to this section, which renumbered this section as section 1024of this title, was repealed by Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299, resulting in the redesignation of this section as section 1023 of this title. See Effective Date of 1980 Amendments and Revival of Prior Law note set out above.
+Pub. L. 94–455, §1901(a)(127), cited as a credit to this section, which renumbered this section as section 1024 of this title, was repealed by Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299, resulting in the redesignation of this section as section 1023 of this title. See Effective Date of 1980 Amendments and Revival of Prior Law note set out above.
 

@@ -16,7 +16,7 @@ The Secretary may also cause to be disseminated information regarding food, drug
 
 <b>2009</b>—Subsec. (b). Pub. L. 111–31 inserted "tobacco products," after "devices,".
 
-#### <b>Statutory Notes and Related Subsidiaries</b>
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

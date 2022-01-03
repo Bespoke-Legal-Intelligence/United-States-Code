@@ -52,6 +52,8 @@ The dates for the submittal to the congressional intelligence committees of the 
 
 (July 26, 1947, ch. 343, title V, §507, as added Pub. L. 107–306, title VIII, §811(a)(1), Nov. 27, 2002, 116 Stat. 2418; amended Pub. L. 108–177, title III, §361(l), Dec. 13, 2003, 117 Stat. 2626; Pub. L. 111–259, title III, §349, title V, §501(b)(3), Oct. 7, 2010, 124 Stat. 2700, 2739; Pub. L. 112–277, title III, §§309(b)(2), 310(b)(1), Jan. 14, 2013, 126 Stat. 2474, 2475; Pub. L. 113–126, title III, §329(c)(3), July 7, 2014, 128 Stat. 1407; Pub. L. 114–113, div. M, title VII, §701(c)(2), (3), Dec. 18, 2015, 129 Stat. 2929; Pub. L. 116–92, div. E, title LIII, §5322(c), Dec. 20, 2019, 133 Stat. 2130.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 8H(g) of the Inspector General Act of 1978, referred to in subsec. (a)(1), is section 8H(g) of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -74,7 +76,7 @@ Section was formerly classified to section 415b of this title prior to editorial
 
 Subsec. (c)(1). Pub. L. 114–113, §701(c)(3), substituted "subsection (a)" for "subsection (a)(1)".
 
-<b>2014</b>—Subsec. (a). Pub. L. 113–126, §329(c)(3)(A), in introductory provisions, struck out par. (1) designation before "The date" and substituted "subsection (c)(1)" for "subsection (c)(1)(A)", redesignated subpars. (A) to (F) of former par. (1) as pars. (1) to (6), respectively, and struck out former par. (2) which read as follows: "The date for the submittal to the congressional intelligence committees of the annual report on the threat of attack on the United States from weapons of mass destruction required by section 3050(b) of this title shall be the date each year provided in subsection (c)(1)(B)."
+<b>2014</b>—Subsec. (a). Pub. L. 113–126, §329(c)(3)(A), in introductory provisions, struck out par. (1) designation before "The date" and substituted "subsection (c)(1)" for "subsection (c)(1)(A)", redesignated subpars. (A) to (F) of former par. (1) as pars. (1) to (6), respectively, and struck out former par. (2) which read as follows: "The date for the submittal to the congressional intelligencecommittees of the annual report on the threat of attack on the United States from weapons of mass destruction required by section 3050(b) of this title shall be the date each year provided in subsection (c)(1)(B)."
 
 Subsec. (c)(1). Pub. L. 113–126, §329(c)(3)(B), struck out subpar. (A) designation before "Except" and struck out subpar. (B) which read as follows: "Except as provided in subsection (d), the annual report listed in subsection (a)(2) shall be submitted not later than December 1."
 
@@ -167,6 +169,8 @@ Subsec. (b). Pub. L. 108–177, §361(l)(2), redesignated pars. (2), (3), (5), (
 "(1) The periodic reports on intelligence provided to the United Nations required by section 404g(b) of this title.
 
 "(4) The semiannual reports on the acquisition of technology relating to weapons of mass destruction and advanced conventional munitions required by section 2366(b) of this title."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

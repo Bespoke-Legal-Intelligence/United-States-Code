@@ -6,13 +6,13 @@
 
 #### (A) Establishment
 
-&emsp;&emsp;A State may establish a program under which an owner or operator of a community water system in the State, or a municipal or local government or political subdivision of a State, may submit a source water quality protection partnership petition to the State requesting that the State assist in the local development of a voluntary, incentive-based partnership, among the owner, operator, or government and other persons likely to be affected by the recommendations of the partnership, to—
+&emsp;&emsp;A State may establish a program under which an owner or operator of a community water system in the State, or a municipal or local government or political subdivision of a State (including a county that is designated by the State to act on behalf of an unincorporated area within that county, with the agreement of that unincorporated area), may submit a source water quality protection partnership petition to the State requesting that the State assist in the local development of a voluntary, incentive-based partnership, among the owner, operator, or government and other persons likely to be affected by the recommendations of the partnership, to—
 
 &emsp;&emsp;&emsp;(i) reduce the presence in drinking water of contaminants that may be addressed by a petition by considering the origins of the contaminants, including to the maximum extent practicable the specific activities that affect the drinking water supply of a community;
 
 &emsp;&emsp;&emsp;(ii) obtain financial or technical assistance necessary to facilitate establishment of a partnership, or to develop and implement recommendations of a partnership for the protection of source water to assist in the provision of drinking water that complies with national primary drinking water regulations with respect to contaminants addressed by a petition; and
 
-&emsp;&emsp;&emsp;(iii) develop recommendations regarding voluntary and incentive-based strategiesfor the long-term protection of the source water of community water systems.
+&emsp;&emsp;&emsp;(iii) develop recommendations regarding voluntary and incentive-based strategies for the long-term protection of the source water of community water systems.
 
 #### (B) Funding
 
@@ -54,7 +54,7 @@
 
 &emsp;&emsp;(D) specify the efforts made to establish the voluntary local partnership and obtain the participation of—
 
-&emsp;&emsp;&emsp;(i) the municipal or local government or other political subdivision of the State with jurisdiction over the source water area delineated under section 300j–13 of this title; and
+&emsp;&emsp;&emsp;(i) the municipal or local government or other political subdivision of the State (including a county that is designated by the State to act on behalf of an unincorporated area within that county) with jurisdiction over the source water area delineated under section 300j–13 of this title; and
 
 &emsp;&emsp;&emsp;(ii) each person in the source water area delineated under section 300j–13 of this title—
 
@@ -65,6 +65,10 @@
 &emsp;&emsp;(E) outline how the voluntary local partnership has or will, during development and implementation of recommendations of the voluntary local partnership, identify, recognize and take into account any voluntary or other activities already being undertaken by persons in the source water area delineated under section 300j–13 of this title under Federal or State law to reduce the likelihood that contaminants will occur in drinking water at levels of public health concern; and
 
 &emsp;&emsp;(F) specify the technical, financial, or other assistance that the voluntary local partnership requests of the State to develop the partnership or to implement recommendations of the partnership.
+
+#### (5) Savings provision
+
+&emsp;Unless otherwise provided within the agreement, an agreement between an unincorporated area and a county for the county to submit a petition under paragraph (1)(A) on behalf of the unincorporated area shall not authorize the county to act on behalf of the unincorporated area in any matter not within a program under this section.
 
 #### (b) Approval or disapproval of petitions
 
@@ -82,7 +86,7 @@
 
 &emsp;&emsp;&emsp;(ii) any necessary coordination that the State will perform of the program established under this section with programs implemented or planned by other States under this section; and
 
-&emsp;&emsp;&emsp;(iii) funds available (including funds available from a State revolving loan fundestablished under title VI of the Federal Water Pollution Control Act (33 U.S.C. 1381 et seq.)) or section 300j–12 of this title;
+&emsp;&emsp;&emsp;(iii) funds available (including funds available from a State revolving loan fund established under title VI of the Federal Water Pollution Control Act (33 U.S.C. 1381 et seq.)) or section 300j–12 of this title;
 
 &emsp;&emsp;(B) a description of technical or financial assistance pursuant to Federal and State programs that is available to assist in implementing recommendations of the partnership in the petition, including—
 
@@ -118,7 +122,7 @@
 
 #### (1) In general
 
-&emsp;The Administrator may make a grant to each State that establishes a program under this section that is approved under paragraph (2). The amount of each grant shall not exceed 50 percent of the cost of administering the program for the year in which the grant is available.
+&emsp;The Administrator may make a grant to each State that establishes a program under this section that is approved under paragraph\(2). The amount of each grant shall not exceed 50 percent of the cost of administering the program for the year in which the grant is available.
 
 #### (2) Approval
 
@@ -148,7 +152,7 @@
 
 #### (e) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section $5,000,000 for each of the fiscal years 2020 through 2021. Each State with a plan for a program approved under subsection (b) shall receive an equitable portion of the funds available for any fiscal year.
+There are authorized to be appropriated to carry out this section $5,000,000 for each of the fiscal years 2020 through 2026. Each State with a plan for a program approved under subsection (b) shall receive an equitable portion of the funds available for any fiscal year.
 
 #### (f) Statutory construction
 
@@ -160,15 +164,25 @@ Nothing in this section—
 
 &emsp;(2) precludes a community water system, municipal or local government, or political subdivision of a government from locally developing and carrying out a voluntary, incentive-based, source water quality protection partnership to address the origins of drinking water contaminants of public health concern.
 
-(July 1, 1944, ch. 373, title XIV, §1454, as added Pub. L. 104–182, title I, §133(a), Aug. 6, 1996, 110 Stat. 1675; amended Pub. L. 115–270, title II, §2016, Oct. 23, 2018, 132 Stat. 3856.)
+(July 1, 1944, ch. 373, title XIV, §1454, as added Pub. L. 104–182, title I, §133(a), Aug. 6, 1996, 110 Stat. 1675; amended Pub. L. 115–270, title II, §2016, Oct. 23, 2018, 132 Stat. 3856; Pub. L. 117–58, div. E, title I, §50103, Nov. 15, 2021, 135 Stat. 1137.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 The Federal Water Pollution Control Act, referred to in subsec. (b)(2)(A)(iii), (B)(i), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. Title VI of the Act is classified generally to subchapter VI (§1381 et seq.) of chapter 26 of Title 33. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
-The Food Security Act of 1985, referred to in subsec. (b)(2)(B)(iii), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354.Chapter 2 of subtitle D of title XII of the Act means chapter 2 of subtitle D of title XII of Pub. L. 99–198, as added by Pub. L. 101–624, title XIV, §1439, Nov. 28, 1990, 104 Stat. 3590, which was classified generally to part II (§3838 et seq.) of subchapter IV of chapter 58 of Title 16, Conservation, prior to repeal by Pub. L. 104–127, title III, §336(h), Apr. 4, 1996, 110 Stat. 1007. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of Title 7, Agriculture, and Tables.
+The Food Security Act of 1985, referred to in subsec. (b)(2)(B)(iii), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Chapter 2 of subtitle D of title XII of the Act means chapter 2 of subtitle D of title XII of Pub. L. 99–198, as added by Pub. L. 101–624, title XIV, §1439, Nov. 28, 1990, 104 Stat. 3590, which was classified generally to part II (§3838 et seq.) of subchapter IV of chapter 58 of Title 16, Conservation, prior to repeal by Pub. L. 104–127, title III, §336(h), Apr. 4, 1996, 110 Stat. 1007. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of Title 7, Agriculture, and Tables.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(1)(A). Pub. L. 117–58, §50103(1)(A), substituted "political subdivision of a State (including a county that is designated by the State to act on behalf of an unincorporated area within that county, with the agreement of that unincorporated area)," for "political subdivision of a State," in introductory provisions.
+
+Subsec. (a)(4)(D)(i). Pub. L. 117–58, §50103(1)(B), inserted "(including a county that is designated by the State to act on behalf of an unincorporated area within that county)" after "of the State".
+
+Subsec. (a)(5). Pub. L. 117–58, §50103(1)(C), added par. (5).
+
+Subsec. (e). Pub. L. 117–58, §50103(2), substituted "2026" for "2021".
 
 <b>2018</b>—Subsec. (e). Pub. L. 115–270 substituted "2020 through 2021" for "1997 through 2003".
 

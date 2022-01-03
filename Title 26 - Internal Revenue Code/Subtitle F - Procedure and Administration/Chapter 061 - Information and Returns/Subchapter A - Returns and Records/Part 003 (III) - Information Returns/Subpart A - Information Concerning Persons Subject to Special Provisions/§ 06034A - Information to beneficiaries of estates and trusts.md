@@ -74,6 +74,8 @@ Any person who holds an interest in an estate or trust as a nominee for another 
 
 (Added Pub. L. 98–369, div. A, title VII, §714(q)(1), July 18, 1984, 98 Stat. 965; amended Pub. L. 99–514, title XV, §1501(c)(15), title XVIII, §1875(d)(3)(A), Oct. 22, 1986, 100 Stat. 2740, 2896; Pub. L. 105–34, title X, §1027(a), Aug. 5, 1997, 111 Stat. 925.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1997</b>—Subsec. (c). Pub. L. 105–34 added subsec. (c).
@@ -83,6 +85,8 @@ Any person who holds an interest in an estate or trust as a nominee for another 
 Pub. L. 99–514, §1875(d)(3)(A)(i), (ii), designated existing provisions as subsec. (a), inserted heading "General rule", and substituted "each beneficiary (or nominee thereof)" for "each beneficiary" in text.
 
 Subsec. (b). Pub. L. 99–514, §1875(d)(3)(A)(iii), added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1997 Amendment
 

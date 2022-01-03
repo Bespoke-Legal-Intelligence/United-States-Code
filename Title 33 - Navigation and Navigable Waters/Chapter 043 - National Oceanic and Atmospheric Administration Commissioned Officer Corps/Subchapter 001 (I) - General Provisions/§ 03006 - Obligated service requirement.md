@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary may require an officer who fails to meet the service requirements prescribed under subsection (a)(1) to reimburse the Secretary in an amount that bears thesame ratio to the total costs of the training provided to that officer by the Secretary as the unserved portion of active duty bears to the total period of active duty the officer agreed to serve.
+&emsp;The Secretary may require an officer who fails to meet the service requirements prescribed under subsection (a)(1) to reimburse the Secretary in an amount that bears the same ratio to the total costs of the training provided to that officer by the Secretary as the unserved portion of active duty bears to the total period of active duty the officer agreed to serve.
 
 #### (2) Obligation as debt to United States
 

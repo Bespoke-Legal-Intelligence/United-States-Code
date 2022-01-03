@@ -76,7 +76,7 @@
 
 #### (d) General requirements regarding assistance
 
-(1) Assistance under this section shall be provided only upon application, which applicationshall contain such information as the Secretary of Agriculture shall prescribe.
+(1) Assistance under this section shall be provided only upon application, which application shall contain such information as the Secretary of Agriculture shall prescribe.
 
 (2) The Secretary of Agriculture may make any grant under this section in whole or in part to the local government or governments serving an area designated and approved under subsection (a), or to a council of local governments which includes one or more local governments serving such area (in lieu of making such grant solely to the State), if he has determined, after consultation with the Governor of the State, that to do so would be appropriate.
 
@@ -127,6 +127,8 @@ Federal agencies having responsibilities concerning the health and safety of any
 The authority of the Secretary of Agriculture and the authority of the Secretary of Energy under this section may not be transferred to any other Secretary or to any other Federal agency under chapter 9 of title 5 or under any other provision of law, other than under specific provisions of a law enacted after November 9, 1978. The preceding provisions of this subsection shall not preclude either Secretary from delegating any such authority to any officer, employee, or entity within such Secretary's department.
 
 (Pub. L. 95–620, title VI, §601, Nov. 9, 1978, 92 Stat. 3323.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

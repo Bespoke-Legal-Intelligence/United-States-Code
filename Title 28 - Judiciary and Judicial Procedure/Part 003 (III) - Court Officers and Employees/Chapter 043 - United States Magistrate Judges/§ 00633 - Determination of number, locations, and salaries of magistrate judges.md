@@ -18,7 +18,7 @@ Determination by the Conference.—Upon the completion of the initial surveys re
 
 Changes in Number, Locations, and Salaries.—Except as otherwise provided in this chapter, the conference may, from time to time, in the light of the recommendations of the Director, the district courts, and the councils, change the number, locations, and salaries of full-time and part-time magistrate judges, as the expeditious administration of justice may require.
 
-(June 25, 1948, ch. 646, 62 Stat. 916; Aug. 13, 1954, ch. 728, §1(a), (b), 68 Stat. 704; Pub. L. 85–276, §§1, 2, Sept. 2, 1957, 71 Stat. 600; Pub. L. 90–578, title I, §101, Oct. 17, 1968, 82 Stat. 1111; Pub. L. 96–82, §4, Oct. 10, 1979, 93 Stat. 645; Pub. L. 99–651, title II, §202(d), Nov. 14, 1986, 100 Stat. 3648; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
+(June 25, 1948, ch. 646, 62 Stat. 916; Aug. 13, 1954, ch. 728, §1(a), (b), 68 Stat. 704; Pub. L. 85–276, §§1,2, Sept. 2, 1957, 71 Stat. 600; Pub. L. 90–578, title I, §101, Oct. 17, 1968, 82 Stat. 1111; Pub. L. 96–82, §4, Oct. 10, 1979, 93 Stat. 645; Pub. L. 99–651, title II, §202(d), Nov. 14, 1986, 100 Stat. 3648; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 
 #### <b>Editorial Notes</b>
 
@@ -32,7 +32,7 @@ Date of the enactment of the Federal Magistrates Act, referred to in subsec. (a)
 
 <b>1979</b>—Subsec. (c). Pub. L. 96–82 struck out provision that determinations of the conference changing the number, locations, and salaries of full-time and part-time magistrates take effect sixty days after they are promulgated.
 
-<b>1968</b>—Pub. L. 90–578 substituted provisions for determination of number, locations, and salaries of magistrates, comprising subsecs. (a) to (c) of this section, relating to: surveys by the Director; determination by the conference; and changes in number, locations, and salaries", respectively, for prior provisions for fees and expenses of United States commissioners, prescribing in undesignated introductory provisions a $10,500 limitation for any one calendar year for certain enumerated services rendered, and in former subsec. (c) for actual and necessary office expenses, including compensation of a necessary clerical assistant, of United States commissioners performing full time duty in office andnot engaged in practice of law, now covered in sections 634 and 635 of this title.
+<b>1968</b>—Pub. L. 90–578 substituted provisions for determination of number, locations, and salaries of magistrates, comprising subsecs. (a) to (c) of this section, relating to: surveys by the Director; determination by the conference; and changes in number, locations, and salaries", respectively, for prior provisions for fees and expenses of United States commissioners, prescribing in undesignated introductory provisions a $10,500 limitation for any one calendar year for certain enumerated services rendered, and in former subsec. (c) for actual and necessary office expenses, including compensation of a necessary clerical assistant, of United States commissioners performing full time duty in office and not engaged in practice of law, now covered in sections 634 and 635 of this title.
 
 <b>1957</b>—Subsec. (a). Pub. L. 85–276, §1, placed in subsec. (a) provisions of former subsec. (b) relating to limitation of compensation of commissioners and, among other charges, increased fees and compensation of commissioners.
 

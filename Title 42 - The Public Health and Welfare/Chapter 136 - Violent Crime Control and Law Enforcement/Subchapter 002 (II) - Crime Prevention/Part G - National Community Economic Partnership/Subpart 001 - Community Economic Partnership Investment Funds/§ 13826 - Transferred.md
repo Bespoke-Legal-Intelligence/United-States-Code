@@ -1,5 +1,7 @@
 ### §13826. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 13826 was editorially reclassified as section 12186 of Title 34, Crime Control and Law Enforcement.

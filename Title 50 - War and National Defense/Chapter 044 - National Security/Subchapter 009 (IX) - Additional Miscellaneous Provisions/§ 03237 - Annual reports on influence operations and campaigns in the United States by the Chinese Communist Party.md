@@ -14,7 +14,7 @@ Each report under subsection (a) shall include the following:
 
 &emsp;(3) A description of the efforts by the United Front Work Department and subsidiary organizations of the United Front Work Department to target, coerce, and influence foreign populations, particularly those of ethnic Chinese descent.
 
-&emsp;(4) An assessment of attempts by the Chinese Embassy, consulates, and organizations affiliated with the Chinese Communist Party (including, at a minimum, the United Front Work Department) to influence the United States-based Chinese Student Scholar Associations.
+&emsp;(4) An assessment of attempts by the Chinese Embassy, consulates, and organizations affiliated with the Chinese Communist Party (including, at a minimum, the United Front Work Department) to influence the UnitedStates-based Chinese Student Scholar Associations.
 
 &emsp;(5) A description of the evolution of the role of the United Front Work Department under the leadership of the President of China.
 
@@ -36,6 +36,8 @@ Each report submitted under subsection (a) shall be submitted in unclassified fo
 
 (July 26, 1947, ch. 343, title XI, §1107, as added Pub. L. 116–92, div. E, title LV, §5511(a), Dec. 20, 2019, 133 Stat. 2146; amended Pub. L. 116–260, div. W, title VI, §605(a), (d)(1), Dec. 27, 2020, 134 Stat. 2386, 2387.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2020</b>—Pub. L. 116–260, §605(d)(1)(A), substituted "Chinese Communist Party" for "Communist Party of China" in section catchline.
@@ -43,6 +45,8 @@ Each report submitted under subsection (a) shall be submitted in unclassified fo
 Subsecs. (a), (b)(1). Pub. L. 116–260, §605(d)(1)(B), substituted "Chinese Communist Party" for "Communist Party of China".
 
 Subsec. (b)(8), (9). Pub. L. 116–260, §605(a), added par. (8) and redesignated former par. (8) as (9).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Initial Report
 

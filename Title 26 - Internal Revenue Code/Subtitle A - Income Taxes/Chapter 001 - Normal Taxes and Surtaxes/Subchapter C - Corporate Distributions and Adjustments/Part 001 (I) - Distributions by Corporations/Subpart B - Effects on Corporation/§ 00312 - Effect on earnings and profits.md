@@ -52,13 +52,13 @@ In making the adjustments to the earnings and profits of a corporation under sub
 
 &emsp;&emsp;(A) for the purpose of the computation of the earnings and profits of the corporation, shall (except as provided in subparagraph (B)) be determined by using as the adjusted basis the adjusted basis (under the law applicable to the year in which the sale or other disposition was made) for determining gain, except that no regard shall be had to the value of the property as of March 1, 1913; but
 
-&emsp;&emsp;(B) for purposes of the computation of the earnings and profits of the corporation for any period beginning after February 28, 1913, shall be determined by using as the adjusted basis the adjusted basis (under the law applicable to the year in which the sale or other disposition was made) for determining gain.
+&emsp;&emsp;(B) for purposes of the computation of the earnings and profits of the corporation for any period beginning after February 28, 1913, shall be determined by using as the adjustedbasis the adjusted basis (under the law applicable to the year in which the sale or other disposition was made) for determining gain.
 
 > &emsp;Gain or loss so realized shall increase or decrease the earnings and profits to, but not beyond, the extent to which such a realized gain or loss was recognized in computing taxable income under the law applicable to the year in which such sale or disposition was made. Where, in determining the adjusted basis used in computing such realized gain or loss, the adjustment to the basis differs from the adjustment proper for the purpose of determining earnings and profits, then the latter adjustment shall be used in determining the increase or decrease above provided. For purposes of this subsection, a loss with respect to which a deduction is disallowed under section 1091 (relating to wash sales of stock or securities), or the corresponding provision of prior law, shall not be deemed to be recognized.
 
 #### (2) Effect on earnings and profits of receipt of tax-free distributions
 
-&emsp;Where a corporation receives (after February 28, 1913) a distribution from a second corporation which (under the law applicable to the year in which the distribution was made) was not a taxable dividend to the shareholders of the second corporation, the amount of such distribution shall not increase the earningsand profits of the first corporation in the following cases:
+&emsp;Where a corporation receives (after February 28, 1913) a distribution from a second corporation which (under the law applicable to the year in which the distribution was made) was not a taxable dividend to the shareholders of the second corporation, the amount of such distribution shall not increase the earnings and profits of the first corporation in the following cases:
 
 &emsp;&emsp;(A) no such increase shall be made in respect of the part of such distribution which (under such law) is directly applied in reduction of the basis of the stock in respect of which the distribution was made; and
 
@@ -256,13 +256,15 @@ For purposes of subsection (a)(2), the terms "original issue discount" and "issu
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 95; Pub. L. 87–403, §3(a), Feb. 2, 1962, 76 Stat. 6; Pub. L. 87–834, §§13(f)(3), 14(b)(1), Oct. 16, 1962, 76 Stat. 1035, 1040; Pub. L. 88–272, title II, §231(b)(3), Feb. 26, 1964, 78 Stat. 105; Pub. L. 88–484, §1(b)(1), Aug. 22, 1964, 78 Stat. 597; Pub. L. 89–570, §1(b)(3), Sept. 12, 1966, 80 Stat. 762; Pub. L. 91–172, title II, §211(b)(3), title IV, §442(a), title IX, §905(b)(2), Dec. 30, 1969, 83 Stat. 570, 628, 714; Pub. L. 94–455, title II, §205(c)(1)(D), title XIX, §§1901(a)(43), (b)(32)(B)(i), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1535, 1771, 1800, 1834; Pub. L. 95–628, §3(c), Nov. 10, 1978, 92 Stat. 3627; Pub. L. 96–589, §5(f), Dec. 24, 1980, 94 Stat. 3406; Pub. L. 97–34, title II, §206(a), (b), Aug. 13, 1981, 95 Stat. 224; Pub. L. 97–248, title II, §§205(a)(3), 222(e)(3), title III, §310(b)(3), Sept. 3, 1982, 96 Stat. 429, 480, 597; Pub. L. 97–448, title III, §306(a)(6)(B), Jan. 12, 1983, 96 Stat. 2402; Pub. L. 98–369, div. A, title I, §§61(a)–(c)(1), 63(b), 111(e)(5), July 18, 1984, 98 Stat. 579–581, 583, 633; Pub. L. 99–121, title I, §103(b)(1)(C), Oct. 11, 1985, 99 Stat. 509; Pub. L. 99–514, title II, §§201(b), (d)(6), 241(b)(1), title VI, §631(e)(1), title VIII, §803(b)(3), title XVIII, §§1804(f)(1)(A)–(E), 1809(a)(2)(C)(ii), Oct. 22, 1986, 100 Stat. 2137, 2141, 2181, 2273, 2355, 2804, 2805, 2819; Pub. L. 100–647, title I, §§1002(a)(3), 1018(d)(4), (u)(4), Nov. 10, 1988, 102 Stat. 3353, 3578, 3590; Pub. L. 101–239, title VII, §§7611(f)(5)(A), 7811(m)(2), Dec. 19, 1989, 103 Stat. 2373, 2412; Pub. L. 101–508, title XI, §§11812(b)(5), 11813(b)(14), Nov. 5, 1990, 104 Stat. 1388–535, 1388–555; Pub. L. 105–34, title XVI, §1604(a)(2), Aug. 5, 1997, 111 Stat. 1097; Pub. L. 108–357, title III, §338(b)(3), title IV, §413(c)(4), (5), Oct. 22, 2004, 118 Stat. 1481, 1507; Pub. L. 109–58, title XIII, §§1323(b)(3), 1331(b)(5), Aug. 8, 2005, 119 Stat. 1015, 1024; Pub. L. 109–432, div. A, title IV, §404(b)(2), Dec. 20, 2006, 120 Stat. 2956; Pub. L. 113–295, div. A, title II, §221(a)(34)(F), (49), Dec. 19, 2014, 128 Stat. 4042, 4045.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 263A(f)(4)(B), referred to in subsec. (n)(1)(C), was redesignated section 263A(f)(5)(B) by Pub. L. 115–97, title I, §13801(a)(1), Dec. 22, 2017, 131 Stat. 2169.
 
 #### Amendments
 
-<b>2014</b>—Subsec. (d)(2), (3). Pub. L. 113–295, §221(a)(49), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: "In the case of a distribution of stock or securities, or property, to which section 115(h) of the Internal Revenue Code of 1939 (or the corresponding provision of prior law) applied, the effect on earnings and profits of such distribution shall be determined under such section 115(h), or the corresponding provision of prior law, as the case may be."
+<b>2014</b>—Subsec. (d)(2), (3). Pub. L. 113–295, §221(a)(49), redesignated par. (3) as (2) and struck out former par. (2)which read as follows: "In the case of a distribution of stock or securities, or property, to which section 115(h) of the Internal Revenue Code of 1939 (or the corresponding provision of prior law) applied, the effect on earnings and profits of such distribution shall be determined under such section 115(h), or the corresponding provision of prior law, as the case may be."
 
 Subsec. (k)(3)(B). Pub. L. 113–295, §221(a)(34)(F), struck out "179A," after "section 179," in heading and in two places in text.
 
@@ -278,7 +280,7 @@ Subsec. (k)(3)(B). Pub. L. 108–357, §338(b)(3), substituted "179A, or 179B" f
 
 Subsec. (m). Pub. L. 108–357, §413(c)(5), struck out ", a foreign investment company (within the meaning of section 1246(b)), or a foreign personal holding company (within the meaning of section 552)" before "and the issuance".
 
-<b>1997</b>—Subsec. (k)(3)(B). Pub. L. 105–34, in heading substituted "179 or 179A" for "179" and in text substituted "section 179 or 179A shall" for "section 179 shall" and"section 179 or 179A, as the case may be)" for "section 179)".
+<b>1997</b>—Subsec. (k)(3)(B). Pub. L. 105–34, in heading substituted "179 or 179A" for "179" and in text substituted "section 179 or 179A shall" for "section 179 shall" and "section 179 or 179A, as the case may be)" for "section 179)".
 
 <b>1990</b>—Subsec. (k)(2). Pub. L. 101–508, §11812(b)(5), substituted heading for one which read: "Exceptions" and amended text generally. Prior to amendment, text read as follows: "If for any taxable year beginning after June 30, 1972, a method of depreciation was used by the taxpayer which the Secretary has determined results in a reasonable allowance under section 167(a), and which is not—
 
@@ -338,7 +340,7 @@ Subsec. (j)(3). Pub. L. 98–369, §61(a)(2)(A), struck out par. (3) which provi
 
 Subsec. (k)(3)(A). Pub. L. 98–369, §111(e)(5), substituted "18-year real property and low-income housing" for "15-year real property" in three places.
 
-Pub. L. 98–369, §61(b), substituted "40 years" for "35 years" in table item relating to 15-year real property. Directory language that table be amended by substituting "40 years" for "35 years" in item relating to 15-year real property and 20-year real property, was executed by making the substitution in item relating to 15-year real property. The table contained no item relating to 20-year real property.
+Pub. L. 98–369, §61(b), substituted "40 years" for "35 years" in table item relating to 15-year real property.Directory language that table be amended by substituting "40 years" for "35 years" in item relating to 15-year real property and 20-year real property, was executed by making the substitution in item relating to 15-year real property. The table contained no item relating to 20-year real property.
 
 Subsec. (n). Pub. L. 98–369, §61(a)(1), added subsec. (n).
 
@@ -356,7 +358,7 @@ Subsec. (m). Pub. L. 97–248, §310(b)(3), added subsec. (m).
 
 <b>1980</b>—Subsec. (l). Pub. L. 96–589 added subsec. (l).
 
-<b>1978</b>—Subsec. (c)(3). Pub. L. 95–628 substituted "gain recognized to the corporation on the distribution" for "gain to the corporation recognized under subsection\(b), (c), or (d) of section 311, under section 341(f), or under section 617(d)(1), 1245(a), 1250(a), 1251(c), 1252(a), or 1254(a)".
+<b>1978</b>—Subsec. (c)(3). Pub. L. 95–628 substituted "gain recognized to the corporation on the distribution" for "gain to the corporation recognized under subsection (b), (c), or (d) of section 311, under section 341(f), or under section 617(d)(1), 1245(a), 1250(a), 1251(c), 1252(a), or 1254(a)".
 
 <b>1976</b>—Subsec. (c)(3). Pub. L. 94–455, §205(c)(1)(D), substituted "1252(a), or 1254(a)" for "or 1252(a)".
 
@@ -389,6 +391,8 @@ Pub. L. 88–272 inserted reference to section 1250(a).
 Subsec. (k). Pub. L. 87–403 added subsec. (k).
 
 Subsec. (l). Pub. L. 87–834, §14(b)(1), added subsec. (l).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 
@@ -522,7 +526,7 @@ Amendment by Pub. L. 95–628 applicable to distributions made after Nov. 10, 19
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 205(c)(1)(D) of Pub. L. 94–455 effective for taxable years ending after Dec. 31, 1975, seesection 205(e) of Pub. L. 94–455, set out as a note under section 1254 of this title.
+Amendment by section 205(c)(1)(D) of Pub. L. 94–455 effective for taxable years ending after Dec. 31, 1975, see section 205(e) of Pub. L. 94–455, set out as a note under section 1254 of this title.
 
 Amendment by section 1901(a)(43) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 

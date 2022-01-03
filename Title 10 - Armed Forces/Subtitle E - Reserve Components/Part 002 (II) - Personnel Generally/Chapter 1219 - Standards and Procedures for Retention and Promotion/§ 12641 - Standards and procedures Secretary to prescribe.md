@@ -42,9 +42,13 @@ June 29, 1948, ch. 708, §304 (less last sentence), 62 Stat. 1088.
 
 In subsection (a), the words "As soon as may be practicable after the effective date of sections 1036–1036i \[440h–440q\] of this title" are omitted as executed. The words "not inconsistent with said sections or any other Act" and "appropriate" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–337 renumbered section 1001 of this title as this section and substituted "Standards and procedures: Secretary to prescribe" for "Secretary to prescribe" as section catchline.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

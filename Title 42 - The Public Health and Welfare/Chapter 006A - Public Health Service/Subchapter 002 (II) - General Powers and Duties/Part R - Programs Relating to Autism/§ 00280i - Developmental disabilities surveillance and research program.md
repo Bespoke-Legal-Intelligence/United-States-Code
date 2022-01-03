@@ -18,7 +18,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall, subject to the availability of appropriations, award grants or cooperative agreements for the establishment or support of regional centers of excellence in autism spectrum disorder and other developmental disabilities epidemiology for the purpose of collecting and analyzing information on the number, incidence, correlates, and causes of autism spectrum disorder and other developmental disabilities for children and adults.
+&emsp;The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall, subject to the availability of appropriations, award grants or cooperative agreements for the establishment or supportof regional centers of excellence in autism spectrum disorder and other developmental disabilities epidemiology for the purpose of collecting and analyzing information on the number, incidence, correlates, and causes of autism spectrum disorder and other developmental disabilities for children and adults.
 
 #### (2) Requirements
 
@@ -56,6 +56,8 @@ This section shall not apply after September 30, 2024.
 
 (July 1, 1944, ch. 373, title III, §399AA, as added Pub. L. 109–416, §3(a), Dec. 19, 2006, 120 Stat. 2822; amended Pub. L. 112–32, §2(1), Sept. 30, 2011, 125 Stat. 361; Pub. L. 113–157, §3, Aug. 8, 2014, 128 Stat. 1831; Pub. L. 116–60, §3(a), Sept. 30, 2019, 133 Stat. 1111.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (a)(1). Pub. L. 116–60, §3(a)(1), substituted "adults with autism spectrum disorder" for "adults on autism spectrum disorder".
@@ -80,9 +82,7 @@ Subsec. (e). Pub. L. 113–157, §3(4), substituted "2019" for "2014".
 
 <b>2011</b>—Subsec. (e). Pub. L. 112–32 substituted "2014" for "2011".
 
-#### Termination of Trust Territory of the Pacific Islands
-
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### National Autism Spectrum Disorder Initiative
 
@@ -99,4 +99,10 @@ Duties.—The official designated under subsection (a) shall—
 &emsp;"(1) implement autism spectrum disorder activities, taking into account the strategic plan developed by the Interagency Autism Coordinating Committee under section 399CC(b) of the Public Health Service Act (42 U.S.C. 280i–2(b)); and
 
 &emsp;"(2) ensure that autism spectrum disorder activities of the Department of Health and Human Services and of other Federal departments and agencies are not unnecessarily duplicative."
+
+#### <b>Executive Documents</b>
+
+#### Termination of Trust Territory of the Pacific Islands
+
+For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 

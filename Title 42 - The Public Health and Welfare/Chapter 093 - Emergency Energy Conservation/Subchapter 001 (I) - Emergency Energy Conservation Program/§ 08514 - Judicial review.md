@@ -8,7 +8,7 @@
 
 &emsp;(B) any finding by the President under section 8513(b)(1)(A) of this title, relating to the achievement of the emergency energy conservation target of such State, or 8513(b)(2) of this title, relating to the achievement of the emergency energy conservation target of such State or the failure to carry out the assurances regarding implementation contained in an approved plan of such State; or
 
-&emsp;(C) any determination by the Secretary disapproving a State plan under section 8512(c) of this title, including any determination by the Secretary under section 8512(c)(1)(B) of this title that the plan is likely to impose an unreasonably disproportionate share of the burden of restrictions of energy use on any specific class of industry, business, or commercial enterprise, or any individual segment thereof.
+&emsp;(C) any determination by the Secretary disapproving a State plan under section 8512(c) of this title, including any determination by theSecretary under section 8512(c)(1)(B) of this title that the plan is likely to impose an unreasonably disproportionate share of the burden of restrictions of energy use on any specific class of industry, business, or commercial enterprise, or any individual segment thereof.
 
 > Such action shall be barred unless it is instituted within 30 calendar days after the date of publication of the establishment of a target referred to in subparagraph (A), the finding by the President referred to in subparagraph (B), or the determination by the Secretary referred to in subparagraph (C), as the case may be.
 
@@ -24,9 +24,13 @@ With respect to judicial review under subsection (a)(1)(A), the court shall not 
 
 (Pub. L. 96–102, title II, §214, Nov. 5, 1979, 93 Stat. 764; Pub. L. 98–620, title IV, §402(42), Nov. 8, 1984, 98 Stat. 3360.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Subsec. (b). Pub. L. 98–620 struck out subsec. (b) which required the court of appeals to advance on the docket and to expedite to the greatest possible extent the disposition of any matter certified under subsec. (a)(2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

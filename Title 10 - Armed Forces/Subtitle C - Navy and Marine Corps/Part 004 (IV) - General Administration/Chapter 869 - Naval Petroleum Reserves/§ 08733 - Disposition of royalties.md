@@ -24,6 +24,8 @@ In subsection (a) the words "or all" are omitted as surplusage. The words "under
 
 In subsection (b) the words "except as otherwise provided in this section" are omitted as surplusage. There is no exception within the chapter to the rule stated in subsection (b). The word "paid" is substituted for the words "which may accrue" for clarity. The words "under this chapter" are substituted for the words "under the provisions of this section or of sections \* \* \* on account of the petroleum products extracted therefrom" for brevity. The two terms are coextensive. The sections of 30 U.S.C. that are cited in 34 U.S.C. 524 (10th par.) comprise the entire Act of Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended. The application of that Act to the Navy is covered in §7427 of this title. The words "as miscellaneous receipts" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7433 of this title as this section.
@@ -35,6 +37,8 @@ Subsec. (b). Pub. L. 94–258, §201(15), struck out "and oil shale" after "petr
 <b>1962</b>—Subsec. (a). Pub. L. 87–796 substituted "or other substance" for "or other hydrocarbon substance".
 
 Subsec. (b). Pub. L. 87–796 substituted "All money accruing to the United States from lands in the naval petroleum and oil shale reserves" for "Money paid to the United States for petroleum products under this chapter".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

@@ -88,6 +88,8 @@ For purposes of this section, the term "Death Master File" means information on 
 
 (Pub. L. 113–67, div. A, title II, §203, Dec. 26, 2013, 127 Stat. 1177.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Internal Revenue Code of 1986, referred to in subsec. (b)(2)(B), is classified generally to Title 26, Internal Revenue Code.

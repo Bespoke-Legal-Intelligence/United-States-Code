@@ -6,7 +6,7 @@ There is established the United States Commission on Civil Rights (hereinafter i
 
 #### (b) Membership
 
-The Commission shall be composed of 8 members. Not more than 4 of the members shall atany one time be of the same political party. The initial membership of the Commission shall be the members of the United States Commission on Civil Rights on September 30, 1994. Thereafter vacancies in the membership of the Commission shall continue to be appointed as follows:
+The Commission shall be composed of 8 members. Not more than 4 of the members shall at any one time be of the same political party. The initial membership of the Commission shall be the members of the United States Commission on Civil Rights on September 30, 1994. Thereafter vacancies in the membership of the Commission shall continue to be appointed as follows:
 
 &emsp;(1) 4 members of the Commission shall be appointed by the President.
 
@@ -38,6 +38,8 @@ The President may remove a member of the Commission only for neglect of duty or 
 
 (Pub. L. 98–183, §2, Nov. 30, 1983, 97 Stat. 1301; Pub. L. 102–167, §5, Nov. 26, 1991, 105 Stat. 1101; Pub. L. 103–419, §2, Oct. 25, 1994, 108 Stat. 4338.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1975, Pub. L. 85–315, pt. I, §101, Sept. 9, 1957, 71 Stat. 634, related to establishment, membership, etc., of Commission on Civil Rights. See Codification note set out preceding this section.
@@ -47,6 +49,8 @@ A prior section 1975, Pub. L. 85–315, pt. I, §101, Sept. 9, 1957, 71 Stat. 63
 <b>1994</b>—Pub. L. 103–419 amended section generally, substituting provisions relating to establishment of United States Commission on Civil Rights for provisions relating to Commission on Civil Rights.
 
 <b>1991</b>—Subsec. (c). Pub. L. 102–167 substituted "Chairperson" for "Chairman" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 1994 Amendment
 
@@ -146,7 +150,7 @@ Vacancies.—The appointing authority of a member of the Commission shall either
 
 #### "SEC. 4. LEADERSHIP ELECTION.
 
-"At the first meeting of the Commission each year, the members shall elect a Chair and a Secretary. A vacancy in the Chair or Secretary shall be filled by vote of the remaining members. The Chair and Secretary are eligible for consecutive reappointment.
+"At the first meeting of the Commission each year, the members shall elect a Chair and a Secretary. A vacancy in the Chair or Secretary shall be filled by voteof the remaining members. The Chair and Secretary are eligible for consecutive reappointment.
 
 #### "SEC. 5. COMMISSION DUTIES AND POWERS.
 
@@ -198,7 +202,7 @@ Minutes.—Minutes shall be taken at each meeting by the Secretary, or in that i
 
 #### "SEC. 7. ANNUAL REPORT GUIDELINES.
 
-"The Commission shall make an annual report, beginning the year of the first Commission meeting. The report shall address the current conditions affecting Black men and boys and make recommendations to address these issues. The report shall be submitted to the President, the Congress, members of the President's Cabinet, and the chairs of the appropriate committeesof jurisdiction. The Commission shall make the report publicly available online on a centralized Federal website.
+"The Commission shall make an annual report, beginning the year of the first Commission meeting. The report shall address the current conditions affecting Black men and boys and make recommendations to address these issues. The report shall be submitted to the President, the Congress, members of the President's Cabinet, and the chairs of the appropriate committees of jurisdiction. The Commission shall make the report publicly available online on a centralized Federal website.
 
 #### "SEC. 8. COMMISSION COMPENSATION.
 

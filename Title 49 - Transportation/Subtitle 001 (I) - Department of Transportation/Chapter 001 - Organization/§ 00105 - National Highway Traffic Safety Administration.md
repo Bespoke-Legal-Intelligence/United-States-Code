@@ -2,7 +2,7 @@
 
 (a) The National Highway Traffic Safety Administration is an administration in the Department of Transportation.
 
-(b) The head of the Administration is the Administrator who is appointed by the President,by and with the advice and consent of the Senate. The Administration has a Deputy Administrator who is appointed by the Secretary of Transportation, with the approval of the President.
+(b) The head of the Administration is the Administrator who is appointed by the President, by and with the advice and consent of the Senate. The Administration has a Deputy Administrator who is appointed by the Secretary of Transportation, with the approval of the President.
 
 (c) The Administrator shall carry out—
 
@@ -40,9 +40,13 @@ In subsection (d), the words "Administration . . . authorized by this section"
 
 The text of section 201(d) of the Highway Safety Act of 1966 is omitted as executed.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (d). Pub. L. 103–272 substituted "chapter 301 of this title" for "the National Traffic and Motor Vehicle Safety Act of 1966 (15 U.S.C. 1381 et seq.)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Required Reporting of NHTSA Agenda
 

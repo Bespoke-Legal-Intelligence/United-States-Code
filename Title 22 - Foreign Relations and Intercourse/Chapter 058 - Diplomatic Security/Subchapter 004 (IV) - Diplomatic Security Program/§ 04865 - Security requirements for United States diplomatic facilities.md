@@ -24,7 +24,7 @@ The following security requirements shall apply with respect to United States di
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), the Secretary of State may waive subparagraph (A) if theSecretary, together with the head of each agency employing personnel that would not be located at the site, determine that security considerations permit and it is in the national interest of the United States.
+&emsp;&emsp;&emsp;Subject to clause (ii), the Secretary of State may waive subparagraph (A) if the Secretary, together with the head of each agency employing personnel that would not be located at the site, determine that security considerations permit and it is in the national interest of the United States.
 
 #### (ii) Chancery or consulate building
 
@@ -198,7 +198,7 @@ Reconciliation Required.—For each fiscal year, the Secretary of Defense shall 
 
 "(b)
 
-Annual Estimate of Overseas Presence.—Not later than February 1 of each year, the Secretary of Defense shall prepare an estimate of the total number ofDepartment of Defense overseas personnel subject to chief of mission authority pursuant to section 207 of the Foreign Service Act of 1980 (22 U.S.C. 3927) during the fiscal year that begins on October 1 of that year."
+Annual Estimate of Overseas Presence.—Not later than February 1 of each year, the Secretary of Defense shall prepare an estimate of the total number of Department of Defense overseas personnel subject to chief of mission authority pursuant to section 207 of the Foreign Service Act of 1980 (22 U.S.C. 3927) during the fiscal year that begins on October 1 of that year."
 
 #### Findings
 
@@ -300,7 +300,7 @@ Priority on use of funds.—
 
 &emsp;&emsp;"(A)
 
-In general.—Except as provided in subparagraph (B), funds authorized to be appropriated bysection 604 \[set out as a note above\] for a particular project may be used only for those facilities which are listed in the first four groups described in paragraph (1).
+In general.—Except as provided in subparagraph (B), funds authorized to be appropriated by section 604 \[set out as a note above\] for a particular project may be used only for those facilities which are listed in the first four groups described in paragraph (1).
 
 &emsp;&emsp;"(B)
 

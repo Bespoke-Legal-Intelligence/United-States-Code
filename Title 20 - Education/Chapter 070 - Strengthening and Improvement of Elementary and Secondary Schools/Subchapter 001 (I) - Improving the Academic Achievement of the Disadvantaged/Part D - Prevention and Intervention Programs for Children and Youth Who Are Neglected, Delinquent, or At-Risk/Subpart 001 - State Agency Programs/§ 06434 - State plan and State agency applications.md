@@ -76,7 +76,7 @@ Any State agency that desires to receive funds to carry out a program under this
 
 &emsp;(10) describes how appropriate professional development will be provided to teachers and other staff;
 
-&emsp;(11) designates an individual in each affected correctional facility or institution for neglected or delinquent children and youth to be responsible for issues relating to the transition of such children and youth between such facility or institution and locally operated programs;
+&emsp;(11) designates an individual in each affected correctional facility or institution for neglected or delinquent children and youth to beresponsible for issues relating to the transition of such children and youth between such facility or institution and locally operated programs;
 
 &emsp;(12) describes how the State agency will endeavor to coordinate with businesses for training and mentoring for participating children and youth;
 
@@ -105,6 +105,8 @@ Any State agency that desires to receive funds to carry out a program under this
 &emsp;&emsp;(B) deliver services and interventions designed to keep such youth in school that are evidence-based (to the extent a State determines that such evidence is reasonably available).
 
 (Pub. L. 89–10, title I, §1414, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1582; amended Pub. L. 114–95, title I, §1401(3), Dec. 10, 2015, 129 Stat. 1900.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -136,7 +138,7 @@ Subsec. (c)(7). Pub. L. 114–95, §1401(3)(B)(iii), made technical amendment to
 
 Subsec. (c)(8). Pub. L. 114–95, §1401(3)(B)(iv), substituted "the Workforce Innovation and Opportunity Act" for "Public Law 105–220" and "career" for "vocational".
 
-Subsec. (c)(9). Pub. L. 114–95, §1401(3)(B)(v), inserted "and after" after "prior to" and "in order to facilitate the transition of such children and youth between the correctional facility and the local educational agency or alternative education program" before semicolon at end.
+Subsec. (c)(9). Pub. L. 114–95, §1401(3)(B)(v), inserted "and after" after "prior to" and "in order to facilitate the transition of such children and youth between thecorrectional facility and the local educational agency or alternative education program" before semicolon at end.
 
 Subsec. (c)(11). Pub. L. 114–95, §1401(3)(B)(vi), substituted "transition of such children and youth between such facility or institution and locally operated programs" for "transition of children and youth from such facility or institution to locally operated programs".
 
@@ -145,6 +147,8 @@ Subsec. (c)(16). Pub. L. 114–95, §1401(3)(B)(vii), inserted "and attain a reg
 Subsec. (c)(17). Pub. L. 114–95, §1401(3)(B)(viii), inserted "certified or licensed" before "teachers".
 
 Subsec. (c)(20). Pub. L. 114–95, §1401(3)(B)(ix)–(xi), added par. (20).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

@@ -84,7 +84,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The term "deferred tax amount" means, with respect to any distribution or dispositionto which subsection (a) applies, an amount equal to the sum of—
+&emsp;The term "deferred tax amount" means, with respect to any distribution or disposition to which subsection (a) applies, an amount equal to the sum of—
 
 &emsp;&emsp;(A) the aggregate increases in taxes described in paragraph (2), plus
 
@@ -150,7 +150,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(III) such company is a controlled foreign corporation (as defined in section 957(a)),
 
-&emsp;&emsp;&nbsp;the taxpayer may elect to include in gross income as a dividend received on such first day an amount equal to the portion of the post-1986 earnings and profits of such company attributable (under regulations prescribed by the Secretary) to the stock in such company held by the taxpayer on such first day. The amount treated as a dividend under the preceding sentence shall be treated as an excess distribution and shall be allocated under subsection (a)(1)(A) only to days during periods taken into account in determining the post-1986 earnings and profits so attributable.
+&emsp;&emsp;&nbsp;the taxpayer may elect to include in gross income as a dividend received on such first day an amount equal to the portion of the post-1986 earnings and profits of such company attributable (under regulations prescribed by the Secretary) to the stock insuch company held by the taxpayer on such first day. The amount treated as a dividend under the preceding sentence shall be treated as an excess distribution and shall be allocated under subsection (a)(1)(A) only to days during periods taken into account in determining the post-1986 earnings and profits so attributable.
 
 #### (ii) Post-1986 earnings and profits
 
@@ -220,6 +220,8 @@ To the extent provided in regulations, in the case of any transfer of stock in a
 
 (Added Pub. L. 99–514, title XII, §1235(a), Oct. 22, 1986, 100 Stat. 2566; amended Pub. L. 100–647, title I, §1012(p)(1), (3), (6), (7), (9), (12)–(14), (28), (31), (33), title VI, §6127(b), Nov. 10, 1988, 102 Stat. 3515–3517, 3520, 3521, 3715; Pub. L. 105–34, title XI, §1122(b), Aug. 5, 1997, 111 Stat. 976; Pub. L. 105–206, title VI, §6011(c)(2), July 22, 1998, 112 Stat. 818; Pub. L. 107–16, title V, §542(e)(5)(B), June 7, 2001, 115 Stat. 85; Pub. L. 108–357, title IV, §413(c)(24), Oct. 22, 2004, 118 Stat. 1509; Pub. L. 111–147, title V, §521(b), Mar. 18, 2010, 124 Stat. 112; Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300; Pub. L. 115–97, title I, §14301(c)(34), Dec. 22, 2017, 131 Stat. 2224; Pub. L. 115–141, div. U, title IV, §401(a)(183), Mar. 23, 2018, 132 Stat. 1193.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of the American Jobs Creation Act of 2004, referred to in subsec. (e), is the date of enactment of Pub. L. 108–357, which was approved Oct. 22, 2004.
@@ -250,7 +252,7 @@ Subsec. (e). Pub. L. 108–357, §413(c)(24)(B), inserted "(as in effect on the 
 
 &emsp;"(2) such a reduction shall not apply in the case of a decedent who was a nonresident alien at all times during his holding period in the stock."
 
-<b>1998</b>—Subsec. (d)(1). Pub. L. 105–206 inserted at end "In the case of stock which is marked to market undersection 475 or any other provision of this chapter, this section shall not apply, except that rules similar to the rules of section 1296(j) shall apply."
+<b>1998</b>—Subsec. (d)(1). Pub. L. 105–206 inserted at end "In the case of stock which is marked to market under section 475 or any other provision of this chapter, this section shall not apply, except that rules similar to the rules of section 1296(j) shall apply."
 
 <b>1997</b>—Subsec. (a)(3)(A). Pub. L. 105–34, §1122(b)(3), amended heading and text of subpar. (A) generally. Prior to amendment, text read as follows: "The taxpayer's holding period shall be determined under section 1223; except that, for purposes of applying this section to an excess distribution, such holding period shall be treated as ending on the date of such distribution."
 
@@ -300,6 +302,8 @@ Subsec. (f). Pub. L. 100–647, §1012(p)(6)(A), amended subsec. (f) generally. 
 
 Subsec. (g). Pub. L. 100–647, §1012(p)(7)(B), added subsec. (g).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2017 Amendment
 
 Amendment by Pub. L. 115–97 applicable to taxable years of foreign corporations beginning after Dec. 31, 2017, and to taxable years of United States shareholders in which or with which such taxable years of foreign corporations end, see section 14301(d) of Pub. L. 115–97, set out as a note under section 78 of this title.
@@ -312,7 +316,7 @@ Pub. L. 111–147, title V, §521(c), Mar. 18, 2010, 124 Stat. 112, provided tha
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
+Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31,2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
 
 #### Effective Date of 2001 Amendment
 

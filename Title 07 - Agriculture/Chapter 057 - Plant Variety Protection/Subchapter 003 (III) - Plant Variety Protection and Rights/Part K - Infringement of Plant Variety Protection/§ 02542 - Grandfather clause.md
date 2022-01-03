@@ -1,12 +1,16 @@
 ### §2542. Grandfather clause
 
-Nothing in this chapter shall abridge the right of any person, or the successor in interest of theperson, to reproduce or sell a variety developed and produced by such person more than one year prior to the effective filing date of an adverse application for a certificate of plant variety protection.
+Nothing in this chapter shall abridge the right of any person, or the successor in interest of the person, to reproduce or sell a variety developed and produced by such person more than one year prior to the effective filing date of an adverse application for a certificate of plant variety protection.
 
 (Pub. L. 91–577, title III, §112, Dec. 24, 1970, 84 Stat. 1555; Pub. L. 103–349, §13(r), Oct. 6, 1994, 108 Stat. 3144.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–349 substituted "the successor in interest of the person" for "his successor in interest".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

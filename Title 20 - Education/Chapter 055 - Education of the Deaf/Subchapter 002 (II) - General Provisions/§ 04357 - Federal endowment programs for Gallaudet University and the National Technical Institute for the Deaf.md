@@ -14,7 +14,7 @@
 
 #### (c) Investments
 
-(1) Except as provided in subsection (e), the University and NTID, respectively, shall investthe Federal contribution of its Federal endowment fund corpus and income in instruments and securities offered through one or more cooperative service organizations of operating educational organizations under section 501(f) of title 26, or in low-risk instruments and securities in which a regulated insurance company may invest under the laws of the State in which the institution involved is located.
+(1) Except as provided in subsection (e), the University and NTID, respectively, shall invest the Federal contribution of its Federal endowment fund corpus and income in instruments and securities offered through one or more cooperative service organizations of operating educational organizations under section 501(f) of title 26, or in low-risk instruments and securities in which a regulated insurance company may invest under the laws of the State in which the institution involved is located.
 
 (2) In managing the investment of its Federal endowment fund, the University or NTID shall exercise the judgment and care, under the prevailing circumstances, that a person of prudence, discretion, and intelligence would exercise in the management of that person's own business affairs.
 
@@ -78,7 +78,9 @@ As used in this section:
 
 The provisions of this section shall take effect as if included in this chapter as enacted on August 4, 1986.
 
-(Pub. L. 99–371, title II, §207, as added Pub. L. 102–421, title I, §137(2), Oct. 16, 1992, 106 Stat.2159; amended Pub. L. 103–73, title II, §204(f), Aug. 11, 1993, 107 Stat. 735; Pub. L. 105–244, title IX, §919, Oct. 7, 1998, 112 Stat. 1831; Pub. L. 110–315, title IX, §909, Aug. 14, 2008, 122 Stat. 3453.)
+(Pub. L. 99–371, title II, §207, as added Pub. L. 102–421, title I, §137(2), Oct. 16, 1992, 106 Stat. 2159; amended Pub. L. 103–73, title II, §204(f), Aug. 11, 1993, 107 Stat. 735; Pub. L. 105–244, title IX, §919, Oct. 7, 1998, 112 Stat. 1831; Pub. L. 110–315, title IX, §909, Aug. 14, 2008, 122 Stat. 3453.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -105,6 +107,8 @@ Subsec. (h)(1), (2). Pub. L. 105–244, §919(4), substituted "1998 through 2003
 Subsec. (e). Pub. L. 103–73, §204(f)(2), substituted "such investment limitations or" for "such investment limitations and".
 
 Subsec. (i). Pub. L. 103–73, §204(f)(3), substituted "this chapter as enacted on August 4, 1986" for "the provisions of the Education of the Deaf Act of 1986".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

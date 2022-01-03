@@ -28,7 +28,7 @@ The Director of National Intelligence shall establish a Climate Security Advisor
 
 &emsp;&emsp;&emsp;(iv) the Office of Intelligence and Counterintelligence of the Department of Energy;
 
-&emsp;&emsp;&emsp;(v) the Office of the Under Secretary of Defense for Intelligence;<sup>1</sup> and
+&emsp;&emsp;&emsp;(v) the Office of the Under Secretary of Defense for Intelligence; <sup>1</sup> and
 
 &emsp;&emsp;&emsp;(vi) the Defense Intelligence Agency.
 
@@ -88,11 +88,11 @@ The Council shall carry out the following duties and responsibilities:
 
 Not later than January 31, 2021, and not less frequently than annually thereafter, the chair of the Council shall submit, on behalf of the Council, to the congressional intelligence committees a report describing the activities of the Council as described in subsection (c) during the year preceding the year during which the report is submitted.
 
-#### (e) <sup>1</sup> Sunset
+#### (e) <sup>2</sup> Sunset
 
 The Council shall terminate on the date that is 4 years after December 20, 2019.
 
-#### (e) <sup>1</sup> Definitions
+#### (e) <sup>2</sup> Definitions
 
 In this section:
 
@@ -124,11 +124,15 @@ In this section:
 
 (July 26, 1947, ch. 343, title I, §120, as added Pub. L. 116–92, div. E, title LIII, §5321(a), Dec. 20, 2019, 133 Stat. 2126; amended Pub. L. 116–260, div. W, title IV, §405(b), title VI, §618, Dec. 27, 2020, 134 Stat. 2380, 2400.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2020</b>—Subsec. (c)(4). Pub. L. 116–260, §405(b), substituted "intelligence indications" for "security indicators".
 
 Subsecs. (d), (e). Pub. L. 116–260, §618, added subsec. (d) and redesignated former subsec. (d) as (e) relating to sunset of Council.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -140,5 +144,5 @@ Pub. L. 116–92, div. E, title LIII, §5321(c), Dec. 20, 2019, 133 Stat. 2129, 
 
 <i><sup>1</sup></i><i> See Change of Name note below.</i>
 
-<i><sup>1</sup></i><i> So in original. Two subsecs. (e) have been enacted.</i>
+<i><sup>2</sup></i><i> So in original. Two subsecs. (e) have been enacted.</i>
 

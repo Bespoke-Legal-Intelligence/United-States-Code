@@ -86,7 +86,7 @@ An eligible entity may use not more than 2.5 percent of the funds received under
 
 #### (1) Financial record maintenance and audit
 
-&emsp;The financial records of each eligible entity receiving a grant under subsection (a) shall be maintained in accordance with generally accepted accounting principles and shall be subject to an annual audit by an independent public accountant.
+&emsp;The financial records of each eligible entity receiving a grant under subsection (a) shall bemaintained in accordance with generally accepted accounting principles and shall be subject to an annual audit by an independent public accountant.
 
 #### (2) Reports
 
@@ -190,7 +190,7 @@ No financial obligation of an eligible entity entered into pursuant to this sect
 
 #### (B) Evaluations; technical assistance; dissemination
 
-&emsp;&emsp;From the amount made available to a State through a grant under this subsectionfor a fiscal year, the State may reserve not more than 5 percent to carry out evaluations, to provide technical assistance, and to disseminate information.
+&emsp;&emsp;From the amount made available to a State through a grant under this subsection for a fiscal year, the State may reserve not more than 5 percent to carry out evaluations, to provide technical assistance, and to disseminate information.
 
 #### (C) Supplement, not supplant
 
@@ -222,6 +222,8 @@ No financial obligation of an eligible entity entered into pursuant to this sect
 
 (Pub. L. 89–10, title IV, §4304, as added Pub. L. 114–95, title IV, §4301(1), Dec. 10, 2015, 129 Stat. 2004.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The General Education Provisions Act, referred to in subsec. (j)(4), is title IV of Pub. L. 90–247, Jan. 2, 1968, 81 Stat. 814. Part D of the Act is classified generally to subchapter IV (§1234 et seq.) of chapter 31 of this title. For complete classification of this Act to the Code, see section 1221 of this title and Tables.
@@ -231,6 +233,8 @@ The General Education Provisions Act, referred to in subsec. (j)(4), is title IV
 A prior section 7221c, Pub. L. 89–10, title IV, §4304, formerly title V, §5204, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1792; renumbered title IV, §4304, Pub. L. 114–95, title IV, §4001(b)(2)(A), (B), (D)(iii), Dec. 10, 2015, 129 Stat. 1967, related to administration, prior to repeal by Pub. L. 114–95, §5, title IV, §4301(1), Dec. 10, 2015, 129 Stat. 1806, 1993, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
 
 A prior section 4304 of Pub. L. 89–10 was renumbered section 8574, and is classified to section 7974 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -42,6 +42,8 @@ The authority of the Secretary of Agriculture to carry out the pilot program sha
 
 (May 12, 1933, ch. 25, title I, §23, as added Pub. L. 106–113, div. B, §1000(a)(8) \[§3\], Nov. 29, 1999, 113 Stat. 1536, 1501A–519.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Another section 23 of act May 12, 1933 amended former section 781 of Title 12, Banks and Banking.

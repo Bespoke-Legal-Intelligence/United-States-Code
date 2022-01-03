@@ -12,7 +12,7 @@ Not later than October 31 each year, the Secretary shall submit to the Committee
 
 &emsp;&emsp;&emsp;(iii) to provide veterans each immunization on the recommended adult immunization schedule at the time such immunization is indicated on that schedule.
 
-&emsp;&emsp;(B) The means by which the Secretary addressed the specific preventive health services needs of particular groups of veterans (including veterans with service-connected disabilities, elderly veterans, low-incomeveterans, women veterans, institutionalized veterans, and veterans who are at risk for mental illness).
+&emsp;&emsp;(B) The means by which the Secretary addressed the specific preventive health services needs of particular groups of veterans (including veterans with service-connected disabilities, elderly veterans, low-income veterans, women veterans, institutionalized veterans, and veterans who are at risk for mental illness).
 
 &emsp;&emsp;(C) The manner in which the provision of such services was coordinated with the activities of the Medical and Prosthetic Research Service of the Department and the National Center for Preventive Health.
 

@@ -48,7 +48,7 @@
 
 &emsp;&emsp;&emsp;(i) collect from each enrollee in the plan (without regard to the enrollee's age, sex, or family status) a separate payment for each of the following:
 
-&emsp;&emsp;&emsp;&emsp;(I) an amount equal to the portion of the premium to be paid directly by the enrollee for coverage under the plan of services other than services described in paragraph (1)(B)(i) (after reduction for credits and cost-sharing reductions described in subparagraph (A)); and
+&emsp;&emsp;&emsp;&emsp;(I) an amount equal to the portion of the premium to be paid directly by theenrollee for coverage under the plan of services other than services described in paragraph (1)(B)(i) (after reduction for credits and cost-sharing reductions described in subparagraph (A)); and
 
 &emsp;&emsp;&emsp;&emsp;(II) an amount equal to the actuarial value of the coverage of services described in paragraph (1)(B)(i), and
 
@@ -138,6 +138,8 @@ Nothing in this Act shall be construed to relieve any health care provider from 
 
 (Pub. L. 111–148, title I, §1303, title X, §10104(c), Mar. 23, 2010, 124 Stat. 168, 896.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This title, referred to in subsec. (b)(1)(A), is title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 130, which enacted this chapter and enacted, amended, and transferred numerous other sections and notes in the Code. For complete classification of title I to the Code, see Tables.
@@ -149,6 +151,8 @@ The Civil Rights Act of 1964, referred to in subsec. (c)(3), is Pub. L. 88–352
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–148, §10104(c), amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) relating to special rules relating to coverage of abortion services, application of State and Federal laws regarding abortion, and application of emergency services laws.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13535. Ensuring Enforcement and Implementation of Abortion Restrictions in the Patient Protection and Affordable Care Act
 
@@ -172,7 +176,7 @@ Sec. 4. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 (b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
 
-(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees or agents, or any other person.
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against theUnited States, its departments, agencies, or entities, its officers, employees or agents, or any other person.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -10,7 +10,7 @@ A refund of any portion of an internal revenue tax shall be considered erroneous
 
 #### (2) Disallowance of claim and expiration of period for filing suit
 
-&emsp;In the case of a claim filed within the proper time and disallowed by the Secretary, if the credit or refund was made after the expiration of the period of limitation for filing suit, unless within such period suit was begun by the taxpayer.
+&emsp;In the case of a claim filed within the proper time and disallowed by the Secretary, if the credit or refund was made after the expirationof the period of limitation for filing suit, unless within such period suit was begun by the taxpayer.
 
 #### (3) Recovery of erroneous refunds
 
@@ -21,6 +21,8 @@ A refund of any portion of an internal revenue tax shall be considered erroneous
 Any credit against a liability in respect of any taxable year shall be void if any payment in respect of such liability would be considered an overpayment under section 6401(a).
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 812; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

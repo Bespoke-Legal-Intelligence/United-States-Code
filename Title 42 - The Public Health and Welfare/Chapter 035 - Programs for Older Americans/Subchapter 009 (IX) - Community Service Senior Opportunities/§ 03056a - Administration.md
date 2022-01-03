@@ -34,9 +34,11 @@
 
 &emsp;&emsp;&emsp;(ii) eligible individuals who are minority individuals;
 
-&emsp;&emsp;&emsp;(iii) eligible individuals who are limited English proficient; and
+&emsp;&emsp;&emsp;(iii) eligible individuals who are limited English proficient;
 
-&emsp;&emsp;&emsp;(iv) eligible individuals who are individuals with greatest social need;
+&emsp;&emsp;&emsp;(iv) eligible individuals who are individuals with greatest social need; and
+
+&emsp;&emsp;&emsp;(v) eligible individuals who have been incarcerated within the last 5 years or are under supervision following release from prison or jail within the last 5 years;
 
 &emsp;&emsp;(D) the current and projected employment opportunities in the State (such as by providing information available under section 49l–2 of title 29 by occupation), and the type of skills possessed by local eligible individuals;
 
@@ -100,7 +102,7 @@
 
 #### (3) Informational materials on age discrimination
 
-&emsp;The Secretary shall distribute to grantees under this subchapter, for distribution to program participants, and at no cost to grantees or participants, informational materials developed and supplied by the Equal Employment Opportunity Commission and other appropriate Federal agencies that the Secretarydetermines are designed to help participants identify age discrimination and to understand their rights under the Age Discrimination in Employment Act of 1967 (29 U.S.C. 621 et seq.).
+&emsp;The Secretary shall distribute to grantees under this subchapter, for distribution to program participants, and at no cost to grantees or participants, informational materials developed and supplied by the Equal Employment Opportunity Commission and other appropriate Federal agencies that the Secretary determines are designed to help participants identify age discrimination and to understand their rights under the Age Discrimination in Employment Act of 1967 (29 U.S.C. 621 et seq.).
 
 #### (c) Use of services, equipment, personnel, and facilities
 
@@ -144,19 +146,7 @@ The Secretary shall establish by rule and implement a process to evaluate, in ac
 
 (Pub. L. 89–73, title V, §503, as added Pub. L. 109–365, title V, §501, Oct. 17, 2006, 120 Stat. 2571; amended Pub. L. 113–128, title V, §512(w)(4), July 22, 2014, 128 Stat. 1715; Pub. L. 114–144, §6(b), Apr. 19, 2016, 130 Stat. 342; Pub. L. 116–131, title IV, §401(a)(1), Mar. 25, 2020, 134 Stat. 266.)
 
-#### Amendment of Subsection (a)(4)(C)
-
-<i>Pub. L. 116–131, title IV, §401(a)(1), (b), Mar. 25, 2020, 134 Stat. 266, 267, provided that, effective 1 year after Mar. 25, 2020, subsection (a)(4)(C) of this section is amended—</i>
-
-<i>(1) in clause (iii), by striking "and" at the end;</i>
-
-<i>(2) in clause (iv), by adding "and" at the end; and</i>
-
-<i>(3) by adding at the end the following:</i>
-
-&emsp;&emsp;&emsp;<i>"(v) eligible individuals who have been incarcerated within the last 5 years or are under supervision following release from prison or jail within the last 5 years;".</i>
-
-<i>See 2020 Amendment note below.</i>
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -172,7 +162,7 @@ The National and Community Service Act of 1990, referred to in subsec. (b)(2)(A)
 
 The Domestic Volunteer Service Act of 1973, referred to in subsec. (b)(2)(A), (B)(i), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, which is classified principally to chapter 66 (§4950 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 
-The Age Discrimination in Employment Act of 1967, referred to in subsec. (b)(3), is Pub. L. 90–202, Dec. 15,1967, 81 Stat. 602, which is classified generally to chapter 14 (§621 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 29 and Tables.
+The Age Discrimination in Employment Act of 1967, referred to in subsec. (b)(3), is Pub. L. 90–202, Dec. 15, 1967, 81 Stat. 602, which is classified generally to chapter 14 (§621 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 29 and Tables.
 
 #### Prior Provisions
 
@@ -201,6 +191,8 @@ Subsec. (b)(2)(B)(i). Pub. L. 114–144, §6(b)(2), substituted "Workforce Innov
 Subsec. (a)(4)(F). Pub. L. 113–128, §512(w)(4)(A)(ii), substituted "plans for facilitating the coordination of activities of grantees in the State under this subchapter with activities carried out in the State under title I of the Workforce Innovation and Opportunity Act" for "plans for facilitating the coordination of activities of grantees in the State under this subchapter with activities carried out in the State under title I of the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.)".
 
 Subsec. (b)(2)(A). Pub. L. 113–128, §512(w)(4)(B), substituted "with the program carried out under the Workforce Innovation and Opportunity Act" for "with the program carried out under the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 

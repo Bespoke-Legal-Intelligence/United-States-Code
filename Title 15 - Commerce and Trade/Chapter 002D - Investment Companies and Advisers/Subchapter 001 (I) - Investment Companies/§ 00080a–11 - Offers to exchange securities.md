@@ -2,7 +2,7 @@
 
 #### (a) Approval by Commission for exchanges of securities on basis other than relative net asset value
 
-It shall be unlawful for any registered open-end company or any principal underwriter forsuch a company to make or cause to be made an offer to the holder of a security of such company or of any other open-end investment company to exchange his security for a security in the same or another such company on any basis other than the relative net asset values of the respective securities to be exchanged, unless the terms of the offer have first been submitted to and approved by the Commission or are in accordance with such rules and regulations as the Commission may have prescribed in respect of such offers which are in effect at the time such offer is made. For the purposes of this section, (A) an offer by a principal underwriter means an offer communicated to holders of securities of a class or series but does not include an offer made by such principal underwriter to an individual investor in the course of a retail business conducted by such principal underwriter, and (B) the net asset value means the net asset value which is in effect for the purpose of determining the price at which the securities, or class or series of securities involved, are offered for sale to the public either (1) at the time of the receipt by the offeror of the acceptance of the offer or (2) at such later times as is specified in the offer.
+It shall be unlawful for any registered open-end company or any principal underwriter for such a company to make or cause to be made an offer to the holder of a security of such company or of any other open-end investment company to exchange his security for a security in the sameor another such company on any basis other than the relative net asset values of the respective securities to be exchanged, unless the terms of the offer have first been submitted to and approved by the Commission or are in accordance with such rules and regulations as the Commission may have prescribed in respect of such offers which are in effect at the time such offer is made. For the purposes of this section, (A) an offer by a principal underwriter means an offer communicated to holders of securities of a class or series but does not include an offer made by such principal underwriter to an individual investor in the course of a retail business conducted by such principal underwriter, and (B) the net asset value means the net asset value which is in effect for the purpose of determining the price at which the securities, or class or series of securities involved, are offered for sale to the public either (1) at the time of the receipt by the offeror of the acceptance of the offer or (2) at such later times as is specified in the offer.
 
 #### (b) Application of section to offers pursuant to plan of reorganization
 
@@ -14,13 +14,19 @@ The provisions of subsection (a) shall be applicable, irrespective of the basis 
 
 (Aug. 22, 1940, ch. 686, title I, §11, 54 Stat. 808; Pub. L. 91–547, §6, Dec. 14, 1970, 84 Stat. 1417.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1970</b>—Subsec. (b). Pub. L. 91–547 struck out item (1) designation of existing provisions and item (2) provision for nonapplication of this section to any offer made pursuant to the right of conversion, at the option of the holder, from one class or series into another class or series of securities issued by the same company upon such terms as are specified in the charter, certificate of incorporation, articles of association, by-laws, or trust indenture subject to which the securities to be converted were issued or are to be issued.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1970 Amendment
 
 Amendment by Pub. L. 91–547 effective Dec. 14, 1970, see section 30 of Pub. L. 91–547, set out as a note under section 80a–52 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

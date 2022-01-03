@@ -18,7 +18,7 @@
 
 #### (3) Timing of report
 
-&emsp;Beginning in 2003, the Secretary shall submit the biennial report required by this subsection not later than April 1 of every other year, and shall include in each such report the funding level, the status of ongoing evaluations, findings to date, and the nature of any technical assistance provided to States under subsection (d).
+&emsp;Beginning in 2003, the Secretary shall submit the biennial report required by this subsection not later than April 1 of every otheryear, and shall include in each such report the funding level, the status of ongoing evaluations, findings to date, and the nature of any technical assistance provided to States under subsection (d).
 
 #### (b) Coordination of evaluations
 
@@ -82,7 +82,7 @@ To the extent funds are available therefor, the Secretary shall provide technica
 
 &emsp;&emsp;In identifying 1 or more entities to conduct the evaluation of the family recovery and reunification program, the Secretary shall—
 
-&emsp;&emsp;&emsp;(i) determine that the area or areas in which the program will be conducted have sufficient substance use disorder treatment providers and other resources (other than those provided with funds made available to carry out the project) to successfully conduct the program;
+&emsp;&emsp;&emsp;(i) determine that the area or areas in which the program will be conducted havesufficient substance use disorder treatment providers and other resources (other than those provided with funds made available to carry out the project) to successfully conduct the program;
 
 &emsp;&emsp;&emsp;(ii) determine that the area or areas in which the program will be conducted have enough potential program participants, and will serve a sufficient number of parents or guardians and their children, so as to allow for the formation of a control group, evaluation results to be adequately powered, and preliminary results of the evaluation to be available within 4 years of the program's implementation;
 
@@ -114,7 +114,7 @@ To the extent funds are available therefor, the Secretary shall provide technica
 
 &emsp;&emsp;&emsp;(ii) consistent with previous studies of other recovery coaching programs that have been rigorously evaluated and shown to increase family reunification and protect children, measure outcomes for parents and guardians and their children over multiple time periods, including for a period of 5 years; and
 
-&emsp;&emsp;&emsp;(iii) include measurements of family stability and parent, guardian, and child safety for program participants and the program control group that are consistent with measurements of such factors for participants and control groups from previous studies of other recovery coaching programs so as to allow results of the impactstudy to be compared with the results of such prior studies, including with respect to comparisons between program participants and the program control group regarding—
+&emsp;&emsp;&emsp;(iii) include measurements of family stability and parent, guardian, and child safety for program participants and the program control group that are consistent with measurements of such factors for participants and control groups from previous studies of other recovery coaching programs so as to allow results of the impact study to be compared with the results of such prior studies, including with respect to comparisons between program participants and the program control group regarding—
 
 &emsp;&emsp;&emsp;&emsp;(I) safe family reunification;
 
@@ -166,6 +166,8 @@ To the extent funds are available therefor, the Secretary shall provide technica
 
 (Aug. 14, 1935, ch. 531, title IV, §435, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 654; amended Pub. L. 107–133, title I, §105, Jan. 17, 2002, 115 Stat. 2415; Pub. L. 109–288, §§4(c), 5(b)(3)(C), Sept. 28, 2006, 120 Stat. 1242, 1243; Pub. L. 115–271, title VIII, §8082(a), Oct. 24, 2018, 132 Stat. 4098.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 435 of act Aug. 14, 1935, was classified to section 635 of this title prior to repeal by Pub. L. 100–485.
@@ -185,6 +187,8 @@ Subsec. (a)(1). Pub. L. 107–133, §105(1), substituted "The Secretary shall ev
 Subsec. (a)(3). Pub. L. 107–133, §105(2), added par. (3).
 
 Subsecs. (c), (d). Pub. L. 107–133, §105(3), added subsecs. (c) and (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

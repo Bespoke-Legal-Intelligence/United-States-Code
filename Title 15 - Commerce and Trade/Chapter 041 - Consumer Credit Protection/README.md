@@ -156,6 +156,7 @@
 | [1681c.](Subchapter%20003%20%28III%29%20-%20Credit%20Reporting%20Agencies/%C2%A7%2001681c%20-%20Requirements%20relating%20to%20information%20contained%20in%20consumer%20reports.md) | Requirements relating to information contained in consumer reports. |
 | 1681c–1. | Identity theft prevention; fraud alerts and active duty alerts. |
 | 1681c–2. | Block of information resulting from identity theft. |
+| 1681c–3. | Adverse information in cases of trafficking. |
 | [1681d.](Subchapter%20003%20%28III%29%20-%20Credit%20Reporting%20Agencies/%C2%A7%2001681d%20-%20Disclosure%20of%20investigative%20consumer%20reports.md) | Disclosure of investigative consumer reports. |
 | [1681e.](Subchapter%20003%20%28III%29%20-%20Credit%20Reporting%20Agencies/%C2%A7%2001681e%20-%20Compliance%20procedures.md) | Compliance procedures. |
 | [1681f.](Subchapter%20003%20%28III%29%20-%20Credit%20Reporting%20Agencies/%C2%A7%2001681f%20-%20Disclosures%20to%20governmental%20agencies.md) | Disclosures to governmental agencies. |

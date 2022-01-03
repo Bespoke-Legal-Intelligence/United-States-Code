@@ -8,7 +8,7 @@
 
 &emsp;(B) each major system in the National Intelligence Program.
 
-(2)(A) A Future Year Intelligence Plan submitted under this subsection shall include theyear-by-year proposed funding for each center or system referred to in subparagraph (A) or (B) of paragraph (1), for the budget year for which the Plan is submitted and not less than the 4 subsequent fiscal years.
+(2)(A) A Future Year Intelligence Plan submitted under this subsection shall include the year-by-year proposed funding for each center or system referred to in subparagraph (A) or (B) of paragraph (1), for the budget year for which the Plan is submitted and not less than the 4 subsequent fiscal years.
 
 (B) A Future Year Intelligence Plan submitted under subparagraph (B) of paragraph (1) for a major system shall include—
 
@@ -18,7 +18,7 @@
 
 #### (b) Long-term Budget Projections
 
-(1) The Director of National Intelligence, with the concurrence of the Director of the Office of Management and Budget, shall provide to the congressional intelligence committees a Long-term Budget Projection for each element of the intelligence community funded under the National Intelligence Program acquiring a major system that includes the budget for such element for the 5-year period that begins on the day after the end of the last fiscal year for which year-by-year proposed funding is included in a Future Year Intelligence Plan for such major system in accordance with subsection (a)(2)(A).
+(1) The Director of National Intelligence, with the concurrence of the Director of the Office ofManagement and Budget, shall provide to the congressional intelligence committees a Long-term Budget Projection for each element of the intelligence community funded under the National Intelligence Program acquiring a major system that includes the budget for such element for the 5-year period that begins on the day after the end of the last fiscal year for which year-by-year proposed funding is included in a Future Year Intelligence Plan for such major system in accordance with subsection (a)(2)(A).
 
 (2) A Long-term Budget Projection submitted under paragraph (1) shall include—
 
@@ -70,9 +70,13 @@ In this section:
 
 (July 26, 1947, ch. 343, title V, §506G, as added Pub. L. 111–259, title III, §325(a), Oct. 7, 2010, 124 Stat. 2681.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 415a–9 of this title prior to editorial reclassification and renumbering as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Applicability Date
 
@@ -82,7 +86,7 @@ Pub. L. 111–259, title III, §325(b), Oct. 7, 2010, 124 Stat. 2683, provided t
 
 #### Future-Years Intelligence Program
 
-Pub. L. 115–245, div. A, title VIII, §8089, Sept. 28, 2018, 132 Stat. 3021, provided that: "The Director of National Intelligence shall submit to Congress each year, at or about the time that the President's budget is submitted to Congress that year under section 1105(a) of title 31, United States Code, a future-years intelligenceprogram (including associated annexes) reflecting the estimated expenditures and proposed appropriations included in that budget. Any such future-years intelligence program shall cover the fiscal year with respect to which the budget is submitted and at least the four succeeding fiscal years."
+Pub. L. 115–245, div. A, title VIII, §8089, Sept. 28, 2018, 132 Stat. 3021, provided that: "The Director of National Intelligence shall submit to Congress each year, at or about the time that the President's budget is submitted to Congress that year under section 1105(a) of title 31, United States Code, a future-years intelligence program (including associated annexes) reflecting the estimated expenditures and proposed appropriations included in that budget. Any such future-years intelligence program shall cover the fiscal year with respect to which the budget is submitted and at least the four succeeding fiscal years."
 
 Similar provisions were contained in the following appropriation acts:
 

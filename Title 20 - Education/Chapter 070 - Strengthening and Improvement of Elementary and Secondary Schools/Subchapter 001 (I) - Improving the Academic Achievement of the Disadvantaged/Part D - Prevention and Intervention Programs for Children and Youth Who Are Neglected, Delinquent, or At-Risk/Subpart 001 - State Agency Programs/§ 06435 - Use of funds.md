@@ -34,9 +34,11 @@
 
 #### (b) Supplement, not supplant
 
-A program under this subpart that supplements the number of hours of instruction students receive from State and local sources shallbe considered to comply with the supplement, not supplant requirement of section 6321 of this title (as applied to this part) without regard to the subject areas in which instruction is given during those hours.
+A program under this subpart that supplements the number of hours of instruction students receive from State and local sources shall be considered to comply with the supplement, not supplant requirement of section 6321 of this title (as applied to this part) without regard to the subject areas in which instruction is given during those hours.
 
 (Pub. L. 89–10, title I, §1415, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1585; amended Pub. L. 114–95, title I, §1401(4), Dec. 10, 2015, 129 Stat. 1902.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -59,6 +61,8 @@ Subsec. (a)(2)(C). Pub. L. 114–95, §1401(4)(A)(ii)(III), made technical amend
 Subsec. (a)(2)(D). Pub. L. 114–95, §1401(4)(A)(ii)(IV), struck out subpar. (D) which read as follows: "may include the costs of meeting the evaluation requirements of section 7941 of this title."
 
 Subsec. (b). Pub. L. 114–95, §1401(4)(B), made technical amendment to reference in original act which appears in text as reference to section 6321 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

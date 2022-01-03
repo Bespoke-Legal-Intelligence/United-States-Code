@@ -108,9 +108,11 @@ In awarding grants, contracts, or cooperative agreements under this subpart, the
 
 (Pub. L. 89–329, title VII, §762, as added Pub. L. 110–315, title VII, §709(2), Aug. 14, 2008, 122 Stat. 3362.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
-A prior section 1140b, Pub. L. 89–329, title VII, §763, as added Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1802, related to applications, prior to repeal by Pub. L. 110–315, title VII, §709(2), Aug. 14, 2008, 122 Stat. 3361.
+A prior section 1140b, Pub. L. 89–329, title VII, §763, as added Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112Stat. 1802, related to applications, prior to repeal by Pub. L. 110–315, title VII, §709(2), Aug. 14, 2008, 122 Stat. 3361.
 
 A prior section 762 of Pub. L. 89–329 was classified to section 1140a of this title, prior to repeal by Pub L. 110–315.
 

@@ -8,7 +8,7 @@ The Director shall establish a program of assistance to institutions of higher e
 
 &emsp;(2) include research directed toward addressing needs identified through the activities of the Computer System Security <sup>1</sup> and Privacy Advisory Board under section 278g–3(f) <sup>2</sup> of this title; and
 
-&emsp;(3) promote the development of a robust research community working at the leadingedge of knowledge in subject areas relevant to the security of computer systems by providing support for graduate students, post-doctoral researchers, and senior researchers.
+&emsp;(3) promote the development of a robust research community working at the leading edge of knowledge in subject areas relevant to the security of computer systems by providing support for graduate students, post-doctoral researchers, and senior researchers.
 
 #### (b) Fellowships
 
@@ -52,7 +52,7 @@ The Director shall establish a program of assistance to institutions of higher e
 
 #### (1) Management
 
-&emsp;The program established under subsection (a) shall be managed by individuals who shall have both expertise in research related to the security of computer systems and knowledge of the vulnerabilities of existing computer systems. The Director shall designate such individuals as program managers.
+&emsp;The program established under subsection (a) shall be managed by individuals who shallhave both expertise in research related to the security of computer systems and knowledge of the vulnerabilities of existing computer systems. The Director shall designate such individuals as program managers.
 
 #### (2) Managers may be employees
 
@@ -82,7 +82,7 @@ The Director shall establish a program of assistance to institutions of higher e
 
 #### (4) Reports
 
-&emsp;The Director shall report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Science annually on the use andresponsibility of individuals on assignment at the Institute under the Intergovernmental Personnel Act of 1970 \[42 U.S.C. 4701 et seq.\] who are performing duties under subsection (d).
+&emsp;The Director shall report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Science annually on the use and responsibility of individuals on assignment at the Institute under the Intergovernmental Personnel Act of 1970 \[42 U.S.C. 4701 et seq.\] who are performing duties under subsection (d).
 
 #### (e) Review of program
 
@@ -108,6 +108,8 @@ In this section:
 
 (Mar. 3, 1901, ch. 872, §22, as added Pub. L. 107–305, §8(a)(2), Nov. 27, 2002, 116 Stat. 2375.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 278g–3 of this title, referred to in subsecs. (a)(2) and (f)(1), was amended generally by Pub. L. 107–296, title X, §1003, Nov. 25, 2002, 116 Stat. 2269, and, as so amended, did not contain a subsec. (d) defining "computer system" or a subsec. (f). A later amendment by Pub. L. 113–274, title II, §204(1), Dec. 18, 2014, 128 Stat. 2980, redesignated subsec. (e) of section 278g–3 of this title, relating to definitions, as subsec. (f).
@@ -117,6 +119,8 @@ The Intergovernmental Personnel Act of 1970, referred to in subsec. (d)(2), (4),
 #### Prior Provisions
 
 A prior section 22 of act Mar. 3, 1901, ch. 872, was renumbered section 32 and is classified to section 278q of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

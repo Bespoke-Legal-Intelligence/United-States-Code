@@ -6,7 +6,7 @@ A petition for a certification of eligibility to apply for adjustment assistance
 
 #### (b) Public hearing
 
-If the petitioner, or any other person, organization, or group found by the Secretary to havea substantial interest in the proceedings, submits not later than 10 days after the date of the Secretary's publication under subsection (a) a request for a hearing, the Secretary shall provide for a public hearing and afford such interested persons an opportunity to be present, to produce evidence, and to be heard.
+If the petitioner, or any other person, organization, or group found by the Secretary to have a substantial interest in the proceedings, submits not later than 10 days after the date of the Secretary's publication under subsection (a) a request for a hearing, the Secretary shall provide for a public hearing and afford such interested persons an opportunity to be present, to produce evidence, and to be heard.
 
 #### (c) Certification
 
@@ -60,6 +60,8 @@ Upon receiving notice from the Secretary of Labor under section 2275 of this tit
 
 <i>For reversion, beginning on July 1, 2021, to provisions in effect on Jan. 1, 2014, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see Codification and Effective and Termination Dates of 2015 Revival notes below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 233 of Pub. L. 112–40, which provided for the Jan. 1, 2014, revival of this section as in effect on Feb. 13, 2011, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, and the provisions of this section, as in effect on Dec. 31, 2013, were temporarily revived, effective June 29, 2015, until July 1, 2021, by Pub. L. 114–27, §§402(b), (c), 406. See 2011 and 2015 Amendment notes, Effective and Termination Dates of 2011 Revival notes, and Effective and Termination Dates of 2015 Revival notes below.
@@ -68,7 +70,7 @@ Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination o
 
 #### Amendments
 
-<b>2015</b>—Pub. L. 114–27, §§402(b), (c), 406, temporarily revived the provisions of this section, as in effect on Dec.31, 2013. See Codification note above and 2011 Amendment and Effective and Termination Dates of 2015 Revival notes below.
+<b>2015</b>—Pub. L. 114–27, §§402(b), (c), 406, temporarily revived the provisions of this section, as in effect on Dec. 31, 2013. See Codification note above and 2011 Amendment and Effective and Termination Dates of 2015 Revival notes below.
 
 <b>2011</b>—Pub. L. 112–40, §§201(b), (c), 233, temporarily revived the provisions of this section, as in effect on Feb. 12, 2011. See Codification note above and 2009 Amendment and Effective and Termination Dates of 2011 Revival notes below.
 
@@ -111,6 +113,8 @@ Subsec. (c)(1)(C). Pub. L. 100–418, §1421(b)(2), directed the general amendme
 <b>1986</b>—Subsecs. (a), (c). Pub. L. 99–272, §13002(b)(1), inserted "(including any agricultural firm)" after "firm".
 
 Subsec. (c)(2). Pub. L. 99–272, §13002(b)(2), amended par. (2) generally, designating existing provisions as subpar. (A), substituting "of the firm have decreased absolutely, or" for "of such firm have decreased absolutely, and", and adding subpar. (B).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective and Termination Dates of 2015 Revival
 

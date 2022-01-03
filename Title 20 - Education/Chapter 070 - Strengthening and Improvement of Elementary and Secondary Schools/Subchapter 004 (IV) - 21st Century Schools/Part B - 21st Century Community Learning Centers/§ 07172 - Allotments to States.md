@@ -28,11 +28,11 @@ From the funds appropriated under section 7176 of this title for any fiscal year
 
 #### (2) State administration
 
-&emsp;A State educational agency may use not more than 2 percent of the amount madeavailable to the State under subsection (b) for—
+&emsp;A State educational agency may use not more than 2 percent of the amount made available to the State under subsection (b) for—
 
 &emsp;&emsp;(A) the administrative costs of carrying out its responsibilities under this part;
 
-&emsp;&emsp;(B) establishing and implementing a rigorous peer-review process for subgrant applications described in section 7174(b) of this title (including consultation with the Governor and other State agencies responsible for administering youth development programs and adult learning activities); and
+&emsp;&emsp;(B) establishing and implementing a rigorous peer-review process for subgrant applications described in section 7174(b) of thistitle (including consultation with the Governor and other State agencies responsible for administering youth development programs and adult learning activities); and
 
 &emsp;&emsp;(C) awarding of funds to eligible entities (in consultation with the Governor and other State agencies responsible for administering youth development programs and adult learning activities).
 
@@ -60,9 +60,13 @@ From the funds appropriated under section 7176 of this title for any fiscal year
 
 (Pub. L. 89–10, title IV, §4202, as added Pub. L. 107–110, title IV, §401, Jan. 8, 2002, 115 Stat. 1766; amended Pub. L. 114–95, title IV, §4201(a), Dec. 10, 2015, 129 Stat. 1984.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Pub. L. 114–95 amended section generally. Prior to amendment, section related to allotments to States.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

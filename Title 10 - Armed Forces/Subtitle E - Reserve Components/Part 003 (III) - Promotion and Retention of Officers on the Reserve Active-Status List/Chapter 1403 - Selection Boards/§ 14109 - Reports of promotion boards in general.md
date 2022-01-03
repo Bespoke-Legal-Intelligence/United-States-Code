@@ -28,6 +28,8 @@ Report of Officers Recommended for Higher Placement on Promotion List.—A promo
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2928; amended Pub. L. 116–92, div. A, title V, §510(b), Dec. 20, 2019, 133 Stat. 1347.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in subsecs. (a) and (b) of this section were contained in section 5897 of this title, prior to repeal by Pub. L. 103–337, §1629(b)(2).
@@ -35,6 +37,8 @@ Provisions similar to those in subsecs. (a) and (b) of this section were contain
 #### Amendments
 
 <b>2019</b>—Subsec. (d). Pub. L. 116–92 added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

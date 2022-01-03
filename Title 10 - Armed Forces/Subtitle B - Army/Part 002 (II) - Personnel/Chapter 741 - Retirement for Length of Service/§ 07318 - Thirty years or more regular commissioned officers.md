@@ -20,6 +20,8 @@ R.S. 1243; Dec. 16, 1930, ch. 14, §1 (as applicable to R.S. 1243), 46 Stat. 102
 
 The word "commissioned" is inserted, since the retirement of warrant officers for length of service is covered by section 1293 of this title. The word "regular" is inserted, since 10:943 is applicable historically only to officers of the Regular Army. The words "and placed on the retired list" are omitted as surplusage. The words "computed under section 3926 of this title" are inserted for clarity.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior sections 7318 and 7319 were renumbered sections 8688 and 8689 of this title, respectively.
@@ -30,11 +32,15 @@ Prior sections 7318 and 7319 were renumbered sections 8688 and 8689 of this titl
 
 Pub. L. 115–232, §808(b)(12), renumbered section 3918 of this title as this section.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
+#### <b>Executive Documents</b>
+
 #### Delegation of Functions
 
-Functions of the President under this section to approve the request of a regular commissioned officer of the Army to retire after at least 30 years of service delegated to the Secretary of Defense to perform, without approval, ratification, or other action of the President, and with authority for the Secretary to redelegate, see Ex. Ord. No. 12396, §§1(f), 3, Dec. 9, 1982, 47 F.R. 55897, 55898, set out as a note under section 301 of Title 3, The President.
+Functions of the President under this section to approve the request of a regular commissioned officer of the Army to retire after at least 30 years of service delegated to the Secretary of Defense to perform, without approval, ratification, or other action of the President, and with authority for the Secretary to redelegate, see Ex. Ord. No. 12396, §§1(f), 3, Dec. 9, 1982, 47 F.R. 55897,55898, set out as a note under section 301 of Title 3, The President.
 

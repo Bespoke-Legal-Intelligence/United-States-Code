@@ -70,7 +70,7 @@ The Secretary may enter into agreements with any State for the administration an
 
 &emsp;(ii) the Federal share may be increased to 90 percent whenever two or more States having a common interest in one or more endangered or threatened species, the conservation of which may be enhanced by cooperation of such States, enter jointly into an agreement with the Secretary.
 
-> The Secretary may, in his discretion, and under such rules and regulations as he may prescribe, advance funds to the State for financing the United States pro rata share agreed upon in the cooperative agreement. For the purposes of this section, the non-Federal share may, in the discretion of the Secretary, be in the form of money or real property, the value of which will be determined by the Secretary, whose decision shall be final.
+> The Secretary may, in his discretion, and under such rules and regulations as he may prescribe, advance funds to the State for financing the United States pro rata share agreed upon in the cooperative agreement. For the purposes of thissection, the non-Federal share may, in the discretion of the Secretary, be in the form of money or real property, the value of which will be determined by the Secretary, whose decision shall be final.
 
 #### (e) Review of State programs
 
@@ -106,6 +106,8 @@ The Secretary is authorized to promulgate such regulations as may be appropriate
 
 (Pub. L. 93–205, §6, Dec. 28, 1973, 87 Stat. 889; Pub. L. 95–212, Dec. 19, 1977, 91 Stat. 1493; Pub. L. 95–632, §10, Nov. 10, 1978, 92 Stat. 3762; Pub. L. 96–246, May 23, 1980, 94 Stat. 348; Pub. L. 97–304, §§3, 8(b), Oct. 13, 1982, 96 Stat. 1416, 1426; Pub. L. 100–478, title I, §1005, Oct. 7, 1988, 102 Stat. 2307.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act" or "This Act", meaning Pub. L. 93–205, Dec. 28, 1973, 81 Stat. 884, known as the Endangered Species Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
@@ -126,7 +128,7 @@ The Sport Fishing Restoration Account established under section 1016 of the Act 
 
 &emsp;"(E) the relative urgency to initiate a program to restore and protect an endangered species or threatened species in terms of survival of the species.
 
-> So much of any appropriated funds allocated for obligation to any State for any fiscal year as remains unobligated at the close thereof is authorized to be made available to that State until the close of the succeeding fiscal year. Any amount allocated to any State whichis unobligated at the end of the period during which it is available for expenditure is authorized to be made available for expenditure by the Secretary in conducting programs under this section."
+> So much of any appropriated funds allocated for obligation to any State for any fiscal year as remains unobligated at the close thereof is authorized to be made available to that State until the close of the succeeding fiscal year. Any amount allocated to any State which is unobligated at the end of the period during which it is available for expenditure is authorized to be made available for expenditure by the Secretary in conducting programs under this section."
 
 Subsec. (i). Pub. L. 100–478, §1005(b), added subsec. (i).
 
@@ -143,6 +145,8 @@ Subsec. (i). Pub. L. 97–304, §8(b), struck out subsec. (i) which authorized a
 <b>1977</b>—Subsec. (c). Pub. L. 95–212, §1(1), inserted provisions that States in which the State fish and wildlife agencies do not possess the broad authority to conserve all resident species of fish and wildlife which the Secretary determines to be threatened or endangered may nevertheless qualify for cooperative agreement funds if they satisfy all other requirements and have plans to devote immediate attention to those species most urgently in need of conservation programs.
 
 Subsec. (i). Pub. L. 95–212, §1(2), substituted provisions authorizing appropriations of $10,000,000 to cover the period ending Sept. 30, 1977, and $16,000,000 to cover the period beginning Oct. 1, 1977, and ending Sept. 30, 1981, for provisions authorizing appropriations of not to exceed $10,000,000 through the fiscal year ending June 30, 1977.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Cooperative Agreements With States Unaffected by 1981 Amendment of Marine Mammal Protection Act
 

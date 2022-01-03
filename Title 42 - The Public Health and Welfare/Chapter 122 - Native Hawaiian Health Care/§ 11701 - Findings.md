@@ -2,7 +2,7 @@
 
 The Congress finds that:
 
-&emsp;(1) Native Hawaiians comprise a distinct and unique indigenous people with a historical continuity to the original inhabitants of the Hawaiian archipelago whose society was organized as a Nation prior to the arrival of the first nonindigenous people in 1778.
+&emsp;(1) Native Hawaiians comprise a distinct and unique indigenous people with a historical continuity to the original inhabitants of theHawaiian archipelago whose society was organized as a Nation prior to the arrival of the first nonindigenous people in 1778.
 
 &emsp;(2) The Native Hawaiian people are determined to preserve, develop and transmit to future generations their ancestral territory, and their cultural identity in accordance with their own spiritual and traditional beliefs, customs, practices, language, and social institutions.
 
@@ -36,7 +36,7 @@ The Congress finds that:
 
 &emsp;(15) Under the Act entitled "An Act to provide for the admission of the State of Hawaii into the Union", approved March 18, 1959 (73 Stat. 4), the United States transferred responsibility for the administration of the Hawaiian Home Lands to the State of Hawaii but reaffirmed the trust relationship which existed between the United States and the Hawaiian people by retaining the exclusive power to enforce the trust, including the power to approve land exchanges, and legislative amendments affecting the rights of beneficiaries under such Act.
 
-&emsp;(16) Under the Act entitled "An Act to provide for the admission of the State of Hawaii into the Union", approved March 18, 1959 (73 Stat. 4), the United States transferred responsibility for administration over portions of the ceded public lands trust not retained by the United States to the State of Hawaii but reaffirmed the trust relationship which existed between the United States and the Hawaiian people by retaining the legal responsibility of the State for the betterment of the conditions of Native Hawaiians under section 5(f) of the Act entitled "An Act to provide for the admission of the State of Hawaii into the Union", approved March 18, 1959 (73 Stat. 4, 6).
+&emsp;(16) Under the Act entitled "An Act to provide for the admission of the State of Hawaii into the Union", approved March 18, 1959 (73 Stat. 4), the United States transferred responsibility for administration over portions of the ceded public lands trust not retained by the United States to the State of Hawaii but reaffirmed the trust relationship which existedbetween the United States and the Hawaiian people by retaining the legal responsibility of the State for the betterment of the conditions of Native Hawaiians under section 5(f) of the Act entitled "An Act to provide for the admission of the State of Hawaii into the Union", approved March 18, 1959 (73 Stat. 4, 6).
 
 &emsp;(17) The authority of the Congress under the United States Constitution to legislate in matters affecting the aboriginal or indigenous peoples of the United States includes the authority to legislate in matters affecting the native peoples of Alaska and Hawaii.
 
@@ -51,6 +51,8 @@ The Congress finds that:
 &emsp;(22) Despite such services, the unmet health needs of the Native Hawaiian people are severe and the health status of Native Hawaiians continues to be far below that of the general population of the United States.
 
 (Pub. L. 100–579, §2, Oct. 31, 1988, 102 Stat. 2916; Pub. L. 100–690, title II, §2302, Nov. 18, 1988, 102 Stat. 4223; Pub. L. 102–396, title IX, §9168, Oct. 6, 1992, 106 Stat. 1948.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -103,6 +105,8 @@ Pub. L. 100–579 and Pub. L. 100–690 enacted identical sections. The text of 
 #### Amendments
 
 <b>1992</b>—Pub. L. 102–396 amended section generally substituting pars. (1) to (22) for former pars. (1) to (3) which set forth findings of Congress.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

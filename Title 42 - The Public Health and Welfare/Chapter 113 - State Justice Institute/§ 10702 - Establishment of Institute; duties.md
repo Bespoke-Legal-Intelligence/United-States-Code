@@ -2,7 +2,7 @@
 
 #### (a) Establishment; purpose; incorporation; powers
 
-There is established a private nonprofit corporation which shall be known as the State Justice Institute. The purpose of the Institute shall be to further the development and adoption of improved judicial administration in State courts in the United States. The Institute maybe incorporated in any State pursuant to section 10703(a)(6) of this title. To the extent consistent with the provisions of this chapter, the Institute may exercise the powers conferred upon a nonprofit corporation by the laws of the State in which it is incorporated.
+There is established a private nonprofit corporation which shall be known as the State Justice Institute. The purpose of the Institute shall be to further the development and adoption of improved judicial administration in State courts in the United States. The Institute may be incorporated in any State pursuant to section 10703(a)(6) of this title. To the extent consistent with the provisions of this chapter, the Institute may exercise the powers conferred upon a nonprofit corporation by the laws of the State in which it is incorporated.
 
 #### (b) Duties
 
@@ -40,6 +40,8 @@ The Institute shall afford notice and reasonable opportunity for comment to inte
 
 (Pub. L. 98–620, title II, §203, Nov. 8, 1984, 98 Stat. 3336; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–690, title VII, §7321(b)(1), Nov. 18, 1988, 102 Stat. 4466; Pub. L. 100–702, title VI, §601, Nov. 19, 1988, 102 Stat. 4652; Pub. L. 102–528, §3(1), Oct. 27, 1992, 106 Stat. 3462.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a), (b)(1)(C), and (f), was in the original "this title", meaning title II of Pub. L. 98–620, Nov. 8, 1984, 98 Stat. 3336, known as the State Justice Institute Act of 1984, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 10701 of this title and Tables.
@@ -48,9 +50,11 @@ This chapter, referred to in subsecs. (a), (b)(1)(C), and (f), was in the origin
 
 <b>1992</b>—Subsec. (f). Pub. L. 102–528 struck out at end "The publication of a substantive rule shall not be made less than thirty days before the effective date of such rule, except as otherwise provided by the Institute for good cause found and published with the rule."
 
-<b>1988</b>—Subsec. (f). Pub. L. 100–690 and Pub. L. 100–702 made substantially identical amendments, striking out ", at least thirty days prior to their effective date," after "Federal Register" and inserting sentence at end relating to publication of a substantive rule.
+<b>1988</b>—Subsec. (f). Pub. L. 100–690 and Pub. L. 100–702 made substantially identical amendments, striking out", at least thirty days prior to their effective date," after "Federal Register" and inserting sentence at end relating to publication of a substantive rule.
 
 <b>1986</b>—Subsec. (e). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954" wherever appearing, which for purposes of codification was translated as "title 26" thus requiring no change in text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

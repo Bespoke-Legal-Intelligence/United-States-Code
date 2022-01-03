@@ -4,11 +4,15 @@ Except as otherwise provided by law, the Joint Committee shall have power to app
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 926; Pub. L. 94–455, title XIX, §1907(a)(2), Oct. 4, 1976, 90 Stat. 1835.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Pub. L. 94–455 substituted "compensation of the Chief of Staff of the Joint Committee" for "compensation of a clerk" after "appoint and fix the".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1907(c) of Pub. L. 94–455, set out as a note under section 8001 of this title.
+Amendment by Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct.4, 1976, see section 1907(c) of Pub. L. 94–455, set out as a note under section 8001 of this title.
 

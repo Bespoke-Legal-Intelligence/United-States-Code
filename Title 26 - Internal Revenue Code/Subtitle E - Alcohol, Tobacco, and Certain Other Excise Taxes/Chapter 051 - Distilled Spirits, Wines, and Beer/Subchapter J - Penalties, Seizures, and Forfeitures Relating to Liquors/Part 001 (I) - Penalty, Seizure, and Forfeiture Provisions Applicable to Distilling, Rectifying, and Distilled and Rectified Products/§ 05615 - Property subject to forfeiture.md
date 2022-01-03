@@ -60,9 +60,11 @@ The following property shall be forfeited to the United States:
 
 #### (7) Creation of fictitious proof
 
-&emsp;All distilled spirits on which the tax has not been paid or determined as provided by law towhich any ingredient or substance has been added for the purpose of creating fictitious proof.
+&emsp;All distilled spirits on which the tax has not been paid or determined as provided by law to which any ingredient or substance has been added for the purpose of creating fictitious proof.
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1405; amended Pub. L. 96–39, title VIII, §807(a)(56), July 26, 1979, 93 Stat. 289; Pub. L. 98–369, div. A, title IV, §451(b)(2), July 18, 1984, 98 Stat. 819.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -84,7 +86,7 @@ Provisions similar to those comprising this section were contained in prior sect
 
 The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 683 to 690, 692, 693, 695.
 
-A prior section 5616, act Aug. 16, 1954, ch. 736, 68A Stat. 686, related to penalty for obstructing or refusing to admit officer to distillery premises, prior to the general revision of this chapter by Pub. L. 85–859. See section 5687 of this title.
+A prior section 5616, act Aug. 16, 1954, ch. 736, 68A Stat. 686, related to penalty for obstructing or refusingto admit officer to distillery premises, prior to the general revision of this chapter by Pub. L. 85–859. See section 5687 of this title.
 
 A prior section 5617, act Aug. 16, 1954, ch. 736, 68A Stat. 686, related to penalty for failure to keep distillery accessible, prior to the general revision of this chapter by Pub. L. 85–859. See section 5687 of this title.
 
@@ -136,7 +138,7 @@ A prior section 5640, act Aug. 16, 1954, ch. 736, 68A Stat. 691, related to forf
 
 A prior section 5641, act Aug. 16, 1954, ch. 736, 68A Stat. 692, related to penalty and forfeiture relating to containers of distilled spirits, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5606, 5613, 7301, 7302, and 7321 to 7323 of this title.
 
-A prior section 5642, act Aug. 16, 1954, ch. 736, 68A Stat. 692, related to penalties for transporting, possessing, etc., distilled spirits in unstamped containers or counterfeiting of stamps, etc., prior to the generalrevision of this chapter by Pub. L. 85–859. See section 5604 of this title.
+A prior section 5642, act Aug. 16, 1954, ch. 736, 68A Stat. 692, related to penalties for transporting, possessing, etc., distilled spirits in unstamped containers or counterfeiting of stamps, etc., prior to the general revision of this chapter by Pub. L. 85–859. See section 5604 of this title.
 
 A prior section 5643, act Aug. 16, 1954, ch. 736, 68A Stat. 692, related to penalty and forfeiture for reuse of stamps or bottles, tampering and unlawful removal, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5601, 5604, 5613, 5615, 5687, 7301 and 7302 of this title.
 
@@ -159,6 +161,8 @@ A prior section 5650, act Aug. 16, 1954, ch. 736, 68A Stat. 695, related to pena
 <b>1984</b>—Par. (2). Pub. L. 98–369 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "Any still, boiler, or other vessel to be used for the purpose of distilling which is removed without notice having been given as required by section 5105(a) or which is set up without permit first having been obtained as required by such section; and".
 
 <b>1979</b>—Par. (5). Pub. L. 96–39 substituted "distilled spirits plant" for "distillery, bonded warehouse, or rectifying or bottling establishment" in three places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

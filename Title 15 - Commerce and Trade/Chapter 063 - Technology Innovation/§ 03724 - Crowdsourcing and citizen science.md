@@ -54,7 +54,7 @@ In this section:
 
 #### (2) Voluntary services
 
-&emsp;Notwithstanding section 1342 of title 31, the head of a Federal science agency may accept,subject to regulations issued by the Director of the Office of Personnel Management, in coordination with the Director of the Office of Science and Technology Policy, services from participants under this section if such services—
+&emsp;Notwithstanding section 1342 of title 31, the head of a Federal science agency may accept, subject to regulations issued by the Director of the Office of Personnel Management, in coordination with the Director of the Office of Science and Technology Policy, services from participants under this section if such services—
 
 &emsp;&emsp;(A) are performed voluntarily as a part of a crowdsourcing or citizen science project authorized under paragraph (1);
 
@@ -202,6 +202,8 @@ Nothing in this section may be construed—
 
 (Pub. L. 114–329, title IV, §402, Jan. 6, 2017, 130 Stat. 3019.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The America COMPETES Reauthorization Act of 2010, referred to in subsec. (b)(1), is Pub. L. 111–358, Jan. 4, 2011, 124 Stat. 3982, also known as the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Reauthorization Act of 2010. For complete classification of this Act to the Code, see Short Title of 2011 Amendment note set out under section 1861 of Title 42, The Public Health and Welfare, and Tables.
@@ -209,6 +211,8 @@ The America COMPETES Reauthorization Act of 2010, referred to in subsec. (b)(1),
 #### Codification
 
 Section was enacted as part of the American Innovation and Competitiveness Act, and not as part of the Stevenson-Wydler Technology Innovation Act of 1980 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

@@ -34,7 +34,7 @@ The Secretary of Defense may not initiate destruction of the chemical munitions 
 
 (3)(A) Facilities constructed to carry out this section may not be used for a purpose other than the destruction of the stockpile of lethal chemical agents and munitions that exists on November 8, 1985.
 
-(B) The prohibition in subparagraph (A) shall not apply with respect to items designated by the Secretary of Defense as lethal chemical agents, munitions, or related materials after November 8, 1985, if the State in which a destruction facility is located issues the appropriate permit or permits for the destruction of such items at the facility.
+(B) The prohibition in subparagraph (A) shall not apply with respect to items designated by the Secretary of Defense as lethal chemical agents, munitions, or related materials afterNovember 8, 1985, if the State in which a destruction facility is located issues the appropriate permit or permits for the destruction of such items at the facility.
 
 #### (e) Grants and cooperative agreements
 
@@ -200,7 +200,7 @@ The Secretary of Defense shall conduct an ongoing comprehensive program of—
 
 (C) An incentives clause in a contract under this section shall specify the target incentive ranges of costs for completion of destruction operations and facility closure activities, respectively, as jointly agreed upon by the contracting officer and the contractor concerned. An incentives clause shall require a proportionate reduction in the maximum incentive payment amounts in the event that the contractor exceeds an agreed-upon target cost if such excess costs are the responsibility of the contractor.
 
-(D) The amount of the incentive payment earned by a contractor for a chemical demilitarization facility under an incentives clause under this subsection shall be based upon a determination by the Secretary on how early in the target incentive range specified in such clause destruction operations or facility closure activities, as the case may be, are completed.
+(D) The amount of the incentive payment earned by a contractor for a chemical demilitarization facility under an incentives clause under this subsection shall be based upon a determination by the Secretary on how early in the target incentive range specified in suchclause destruction operations or facility closure activities, as the case may be, are completed.
 
 (E) The provisions of any incentives clause under this subsection shall be consistent with the obligation of the Secretary of Defense under subsection (d)(1)(A), to provide for maximum protection for the environment, the general public, and the personnel who are involved in the destruction of the lethal chemical agents and munitions.
 
@@ -222,7 +222,7 @@ In determining the technologies to supplement the neutralization destruction of 
 
 In this section:
 
-&emsp;(1) The term "chemical agent and munition" means an agent or munition that, through its chemical properties, produces lethal or otherdamaging effects on human beings, except that such term does not include riot control agents, chemical herbicides, smoke and other obscuration materials.
+&emsp;(1) The term "chemical agent and munition" means an agent or munition that, through its chemical properties, produces lethal or other damaging effects on human beings, except that such term does not include riot control agents, chemical herbicides, smoke and other obscuration materials.
 
 &emsp;(2) The term "Chemical Weapons Convention" means the Convention on the Prohibition of Development, Production, Stockpiling and Use of Chemical Weapons and on Their Destruction, with annexes, done at Paris, January 13, 1993, and entered into force April 29, 1997 (T. Doc. 103–21).
 
@@ -235,6 +235,8 @@ In this section:
 &emsp;&emsp;(B) the dismantling or other disposal of such munitions or agents so as to make them useless for military purposes and harmless to human beings under normal circumstances.
 
 (Pub. L. 99–145, title XIV, §1412, Nov. 8, 1985, 99 Stat. 747; Pub. L. 100–456, div. A, title I, §118, Sept. 29, 1988, 102 Stat. 1934; Pub. L. 101–510, div. A, title I, §§171, 172, Nov. 5, 1990, 104 Stat. 1507; Pub. L. 102–190, div. A, title I, §151, Dec. 5, 1991, 105 Stat. 1313; Pub. L. 102–484, div. A, title I, §§171, 179, Oct. 23, 1992, 106 Stat. 2341, 2347; Pub. L. 103–160, div. A, title I, §107(c), Nov. 30, 1993, 107 Stat. 1564; Pub. L. 103–337, div. A, title I, §142, Oct. 5, 1994, 108 Stat. 2689; Pub. L. 104–106, div. A, title I, §153(b), (c), title XV, §1502(c)(6), Feb. 10, 1996, 110 Stat. 216, 508; Pub. L. 104–201, div. A, title X, §1074(d)(2), Sept. 23, 1996, 110 Stat. 2661; Pub. L. 105–85, div. A, title X, §1041(d), Nov. 18, 1997, 111 Stat. 1885; Pub. L. 105–261, div. A, title I, §141, Oct. 17, 1998, 112 Stat. 1942; Pub. L. 106–65, div. A, title I, §141(b), title X, §1067(11), Oct. 5, 1999, 113 Stat. 537, 775; Pub. L. 107–107, div. A, title X, §1048(i)(4), Dec. 28, 2001, 115 Stat. 1229; Pub. L. 108–375, div. A, title IX, §931, Oct. 28, 2004, 118 Stat. 2031; Pub. L. 109–163, div. A, title IX, §921(a), Jan. 6, 2006, 119 Stat. 3410; Pub. L. 110–181, div. A, title IX, §§923, 924, Jan. 28, 2008, 122 Stat. 284; Pub. L. 111–383, div. A, title XIV, §1421(a), Jan. 7, 2011, 124 Stat. 4412; Pub. L. 112–239, div. A, title XIV, §1421(a), Jan. 2, 2013, 126 Stat. 2049; Pub. L. 114–92, div. A, title XIV, §1411, Nov. 25, 2015, 129 Stat. 1083; Pub. L. 115–232, div. A, title XIV, §1424, Aug. 13, 2018, 132 Stat. 2094; Pub. L. 116–92, div. A, title IX, §902(91), Dec. 20, 2019, 133 Stat. 1554.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -272,7 +274,7 @@ Subsecs. (o), (p). Pub. L. 112–239, §1421(a)(3), (4), added subsec. (o) and r
 
 <b>2011</b>—Pub. L. 111–383, §1421(a), which directed the general amendment of section 1412 of the "National Defense Authorization Act, 1986 (50 U.S.C. 1521)", was executed by making the amendment to this section, which is section 1412 of the Department of Defense Authorization Act, 1986, to reflect the probable intent of Congress. Prior to amendment, section related to destruction of existing stockpile of lethal chemical agents and munitions by Dec. 31, 2004.
 
-<b>2008</b>—Subsec. (c)(5)(B). Pub. L. 110–181, §924, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "No assistance may be provided underthis paragraph after the completion of the destruction of the United States' stockpile of lethal chemical agents and munitions."
+<b>2008</b>—Subsec. (c)(5)(B). Pub. L. 110–181, §924, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "No assistance may be provided under this paragraph after the completion of the destruction of the United States' stockpile of lethal chemical agents and munitions."
 
 Subsec. (e)(3). Pub. L. 110–181, §923, inserted "and" at end of subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: "training in chemical warfare defense operations; and".
 
@@ -358,7 +360,7 @@ Subsec. (g)(3), (4). Pub. L. 102–484, §179(3)(D), redesignated par. (4) as (3
 
 <b>1991</b>—Subsec. (b)(5). Pub. L. 102–190, §151(a), substituted "July 31, 1999" for "April 30, 1997".
 
-Subsec. (c)(3). Pub. L. 102–190, §151(b), inserted at end "Additionally, the Secretary may provide funds through cooperative agreements with State and local governments for the purpose of assisting them in processing and approving permits and licenses necessary for the construction and operation of facilities to carry outthis section. The Secretary shall ensure that funds provided through such a cooperative agreement are used only for the purpose set forth in the preceding sentence."
+Subsec. (c)(3). Pub. L. 102–190, §151(b), inserted at end "Additionally, the Secretary may provide funds through cooperative agreements with State and local governments for the purpose of assisting them in processing and approving permits and licenses necessary for the construction and operation of facilities to carry out this section. The Secretary shall ensure that funds provided through such a cooperative agreement are used only for the purpose set forth in the preceding sentence."
 
 <b>1990</b>—Subsec. (a)(1). Pub. L. 101–510, §171(b), substituted "November 8, 1985" for "the date of the enactment of this Act".
 
@@ -375,6 +377,8 @@ Subsec. (b)(3)(B). Pub. L. 100–456, §118(a)(2), substituted "not later than t
 Subsec. (b)(4), (5). Pub. L. 100–456, §118(a)(3), added pars. (4) and (5).
 
 Subsec. (k). Pub. L. 100–456, §118(b), amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: "The provisions of this section shall take effect on October 1, 1985."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 
@@ -470,7 +474,7 @@ Pub. L. 104–106, div. A, title I, §152, Feb. 10, 1996, 110 Stat. 214, as amen
 
 #### Chemical Demilitarization Citizens Advisory Commissions
 
-Pub. L. 102–484, div. A, title I, §172, Oct. 23, 1992, 106 Stat. 2341, as amended by Pub. L. 104–106, div. A, title I, §153(a), Feb. 10, 1996, 110 Stat. 215; Pub. L. 104–201, div. A, title X, §1073(d), Sept. 23, 1996, 110 Stat. 2658; Pub. L. 110–181, div. A, title IX, §921, Jan. 28, 2008, 122 Stat. 282; Pub. L. 110–417, \[div. A\], title IX, §921, Oct. 14, 2008, 122 Stat. 4573; Pub. L. 111–84, div. A, title X, §1073(c)(8), Oct. 28, 2009, 123 Stat. 2475, which directed the Secretary of the Army to establish a Chemical Demilitarization Citizens' Advisory Commission in each State in which there existed a low-volume chemical weapons storage site in order to receive citizen and State concerns regarding the program for the disposal of lethal chemical agents and munitions, and provided for termination of each such commission after completion of closure activities or upon request of the State's Governor, was repealed by Pub. L. 111–383, div. A, title XIV, §1421(b)(2), Jan. 7, 2011, 124 Stat. 4420.
+Pub. L. 102–484, div. A, title I, §172, Oct. 23, 1992, 106 Stat. 2341, as amended by Pub. L. 104–106, div. A, title I, §153(a), Feb. 10, 1996, 110 Stat. 215; Pub. L. 104–201, div. A, title X, §1073(d), Sept. 23, 1996, 110 Stat. 2658; Pub. L. 110–181, div. A, title IX, §921, Jan. 28, 2008, 122 Stat. 282; Pub. L. 110–417, \[div. A\], title IX, §921, Oct. 14, 2008, 122 Stat. 4573; Pub. L. 111–84, div. A, title X, §1073(c)(8), Oct. 28, 2009, 123 Stat. 2475, which directed the Secretary of the Army to establish a Chemical Demilitarization Citizens' Advisory Commission in each State in which there existed a low-volume chemical weapons storagesite in order to receive citizen and State concerns regarding the program for the disposal of lethal chemical agents and munitions, and provided for termination of each such commission after completion of closure activities or upon request of the State's Governor, was repealed by Pub. L. 111–383, div. A, title XIV, §1421(b)(2), Jan. 7, 2011, 124 Stat. 4420.
 
 #### Alternative Disposal Process for Low-Volume Sites; Revised Disposal Concept Plan
 

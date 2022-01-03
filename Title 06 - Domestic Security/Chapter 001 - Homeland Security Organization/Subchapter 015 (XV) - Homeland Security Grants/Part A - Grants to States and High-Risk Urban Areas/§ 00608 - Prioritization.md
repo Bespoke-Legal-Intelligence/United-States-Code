@@ -12,7 +12,7 @@ In allocating funds among States and high-risk urban areas applying for grants u
 
 &emsp;&emsp;(C) its history of threats, including whether it has been the target of a prior act of terrorism;
 
-&emsp;&emsp;(D) its degree of threat, vulnerability, and consequences related to critical infrastructure (for all critical infrastructure sectors) or key resources identified by the Administrator or the State homeland security plan, including threats, vulnerabilities, and consequences related to critical infrastructure or key resources in nearby jurisdictions;
+&emsp;&emsp;(D) its degree of threat, vulnerability, and consequences related to critical infrastructure (for all critical infrastructure sectors) or key resources identified by the Administrator or the State homeland security plan,including threats, vulnerabilities, and consequences related to critical infrastructure or key resources in nearby jurisdictions;
 
 &emsp;&emsp;(E) the most current threat assessments available to the Department;
 

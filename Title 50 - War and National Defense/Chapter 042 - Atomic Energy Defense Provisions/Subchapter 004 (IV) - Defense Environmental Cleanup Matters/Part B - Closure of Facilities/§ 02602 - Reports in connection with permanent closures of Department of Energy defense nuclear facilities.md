@@ -16,6 +16,8 @@ Upon the permanent cessation of production operations at a Department of Energy 
 
 (Pub. L. 107–314, div. D, title XLIV, §4422, formerly Pub. L. 101–189, div. C, title XXXI, §3156, Nov. 29, 1989, 103 Stat. 1683; renumbered Pub. L. 107–314, div. D, title XLIV, §4422, and amended Pub. L. 108–136, div. C, title XXXI, §3141(g)(12), Nov. 24, 2003, 117 Stat. 1766; Pub. L. 113–66, div. C, title XXXI, §3146(a)(2)(E), (e)(11), Dec. 26, 2013, 127 Stat. 1073, 1077.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 7274b of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
@@ -33,6 +35,8 @@ Pub. L. 113–66, §3146(a)(2)(E), struck out "(as defined in section 2286g of t
 Subsec. (b)(2). Pub. L. 113–66, §3146(e)(11)(B), substituted "defense environmental cleanup activities" for "environmental restoration and other remediation and cleanup efforts".
 
 <b>2003</b>—Pub. L. 108–136, §3141(g)(12)(D), made technical amendment to section catchline.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Defense Site Acceleration Completion
 
@@ -70,7 +74,7 @@ Monitoring by Nuclear Regulatory Commission.—(1) The Commission shall, in coor
 
 &emsp;"(B) The Committee on Armed Services, the Committee on Energy and Natural Resources, the Committee on Environment and Public Works, and the Committee on Appropriations of the Senate.
 
-"(3) For fiscal year 2005, the Secretary shall, from amounts available for defense site acceleration completion, reimburse the Commission for all expenses, including salaries, that the Commission incurs as a result of performance under subsection (a) and this subsection for fiscal year 2005. The Department of Energy and the Commission may enter into an interagency agreement that specifies the method of reimbursement. Amounts received by the Commission for performance under subsection (a) and this subsection may be retained and used for salaries and expenses associated with those activities, notwithstanding section 3302 of title 31, United States Code, and shall remain available until expended.
+"(3) For fiscal year 2005, the Secretary shall, from amounts available for defense site acceleration completion, reimburse the Commission for all expenses, including salaries, that the Commission incurs as a result of performance under subsection (a) and this subsection for fiscal year 2005. The Department of Energy and the Commission may enter into an interagency agreement that specifies the method of reimbursement. Amounts received by the Commission for performance under subsection (a) and this subsection may be retained andused for salaries and expenses associated with those activities, notwithstanding section 3302 of title 31, United States Code, and shall remain available until expended.
 
 "(4) For fiscal years after 2005, the Commission shall include in the budget justification materials submitted to Congress in support of the Commission budget for that fiscal year (as submitted with the budget of the President under section 1105(a) of title 31, United States Code) the amounts required, not offset by revenues, for performance under subsection (a) and this subsection.
 

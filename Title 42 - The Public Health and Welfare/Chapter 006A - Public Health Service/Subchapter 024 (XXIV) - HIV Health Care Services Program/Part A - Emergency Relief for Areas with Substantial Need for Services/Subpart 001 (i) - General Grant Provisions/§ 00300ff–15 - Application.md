@@ -12,7 +12,7 @@ To be eligible to receive a grant under section 300ff–11 of this title, an eli
 
 &emsp;(2) that the eligible area has an HIV health services planning council and has entered into intergovernmental agreements pursuant to section 300ff–12 of this title, and has developed or will develop the comprehensive plan in accordance with section 300ff–12(b)(3)(B) <sup>1</sup> of this title;
 
-&emsp;(3) that entities within the eligible area that receive funds under a grant under this subpart will maintain appropriate relationships with entities in the eligible area served that constitute key points of access to the health care system for individuals with HIV/AIDS (including emergency rooms, substance abuse treatment programs, detoxification centers, adult and juvenile detention facilities, sexually transmitted disease clinics, HIV counseling and testing sites, mental health programs, and homeless shelters), and other entities under section <sup>2</sup> 300ff–14(b)(3) <sup>1</sup> and 300ff–52(a) of this title, for the purpose of facilitating early intervention for individuals newly diagnosed with HIV/AIDS and individuals knowledgeable of their HIV status but not in care;
+&emsp;(3) that entities within the eligible area that receive funds under a grant under this subpart will maintain appropriate relationships with entities in the eligible area served that constitute key points of access to the health care system for individuals with HIV/AIDS (including emergency rooms, substance abuse treatment programs, detoxification centers, adult and juvenile detention facilities, sexually transmitted disease clinics, HIV counseling and testing sites, mental health programs, and homeless shelters), and other entities under section <sup>2</sup> 300ff–14(b)(3) <sup>1</sup> and 300ff–52(a) of this title, for the purpose of facilitating early intervention for individuals newly diagnosedwith HIV/AIDS and individuals knowledgeable of their HIV status but not in care;
 
 &emsp;(4) that the chief elected official of the eligible area will satisfy all requirements under section 300ff–14(c) of this title;
 
@@ -80,7 +80,7 @@ An eligible area that desires to receive a grant under section 300ff–13(b) of 
 
 #### (3) Distribution by Secretary
 
-&emsp;Not later than 45 days after receiving an application that meets the requirements of subsection (a) from an eligible area, the Secretary shall distribute to such eligible area the amounts awarded under the grant for which the application was submitted.
+&emsp;Not later than 45 days after receiving an application that meets the requirements of subsection (a) from an eligible area, the Secretary shall distribute to such eligible area theamounts awarded under the grant for which the application was submitted.
 
 #### (4) Redistribution
 
@@ -100,7 +100,7 @@ An eligible area that desires to receive a grant under section 300ff–13(b) of 
 
 &emsp;&emsp;&emsp;(ii) will impose the charge according to a schedule of charges that is made available to the public;
 
-&emsp;&emsp;(C) in the case of individuals with an income greater than 100 percent of the officialpoverty line and not exceeding 200 percent of such poverty line, the provider will not, for any calendar year, impose charges in an amount exceeding 5 percent of the annual gross income of the individual involved;
+&emsp;&emsp;(C) in the case of individuals with an income greater than 100 percent of the official poverty line and not exceeding 200 percent of such poverty line, the provider will not, for any calendar year, impose charges in an amount exceeding 5 percent of the annual gross income of the individual involved;
 
 &emsp;&emsp;(D) in the case of individuals with an income greater than 200 percent of the official poverty line and not exceeding 300 percent of such poverty line, the provider will not, for any calendar year, impose charges in an amount exceeding 7 percent of the annual gross income of the individual involved; and
 
@@ -123,6 +123,8 @@ An eligible area that desires to receive a grant under section 300ff–13(b) of 
 &emsp;The requirements established in paragraphs (1) through (3) shall be waived in accordance with section 300ff–14(d)(2) <sup>1</sup> of this title.
 
 (July 1, 1944, ch. 373, title XXVI, §2605, as added Pub. L. 101–381, title I, §101(3), Aug. 18, 1990, 104 Stat. 582; amended Pub. L. 104–146, §§3(b)(5), 6(c)(2), May 20, 1996, 110 Stat. 1352, 1368; Pub. L. 106–345, title I, §122, title V, §503(a)(1), Oct. 20, 2000, 114 Stat. 1329, 1354; Pub. L. 109–415, title I, §§106(c), 107(b), title VII, §§702(3), 703, Dec. 19, 2006, 120 Stat. 2781, 2783, 2820; Pub. L. 111–87, §§2(a)(1), (3)(A), 6(c), Oct. 30, 2009, 123 Stat. 2885, 2892.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -181,6 +183,8 @@ Subsec. (c)(1). Pub. L. 104–146, §6(c)(2), which directed substitution of "se
 Subsec. (d). Pub. L. 104–146, §3(b)(5)(C), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
 Subsec. (e). Pub. L. 104–146, §3(b)(5)(C), redesignated subsec. (d) as (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment; Revival of Section
 

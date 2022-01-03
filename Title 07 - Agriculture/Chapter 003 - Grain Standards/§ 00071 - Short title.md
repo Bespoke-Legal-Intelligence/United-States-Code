@@ -4,6 +4,8 @@ This chapter may be cited as the "United States Grain Standards Act".
 
 (Aug. 11, 1916, ch. 313, pt. B, §1, 39 Stat. 482; Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 761.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 This chapter constitutes part B of "An act making appropriations for the Department of Agriculture for the fiscal year ending June 30, 1917, and for other purposes," approved Aug. 11, 1916. Part A of act of Aug. 11, 1916, containing the "United States Cotton Futures Act," was repealed by section 4 of act Feb. 10, 1939, ch. 2, 53 Stat. 1. Part C of that act contained the "United States Warehouse Act," and is incorporated, as amended, as section 241 et seq. of this title.
@@ -13,6 +15,8 @@ Section is comprised of part of section 1 of part B of act Aug. 11, 1916. Other 
 #### Amendments
 
 <b>1968</b>—Pub. L. 90–487 substituted "may be cited as" for "shall be known by the short title of".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1968 Amendment
 
@@ -28,7 +32,7 @@ Pub. L. 114–54, §1(a), Sept. 30, 2015, 129 Stat. 513, provided that: "This Ac
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–472, §1(a), Nov. 9, 2000, 114 Stat. 2058, provided that: "This Act \[enacting sections 228d, 241 to 256, 918a, and 1726b of this title and section 1012 of Title 16, Conservation, amending sections 15b, 77, 79, 79a, 79b, 79d, 84, 87b, 87h, 87j, 229, 1622, 1736a, 1926, 2009d, 5101, 5102, and 5106 of this title and sections 1766 and 1786 of Title 42, The Public Health and Welfare, repealing section 87e-1 of this title, enacting provisions set out as notes under sections 79, 181, 241, and 1314e of this title and section 1786 of Title 42, amending provisions set out as notes under sections 74, 612c, and 1421 of this title, and repealing provisions set out as notes under sections 75a, 76, and 79 of this title\] may be cited as the 'Grain Standards and Warehouse Improvement Act of 2000'."
+Pub. L. 106–472, §1(a), Nov. 9, 2000, 114 Stat. 2058, provided that: "This Act \[enacting sections 228d, 241 to 256, 918a, and 1726b of this title and section 1012 of Title 16, Conservation, amending sections 15b, 77, 79, 79a, 79b, 79d, 84, 87b, 87h, 87j, 229, 1622, 1736a, 1926, 2009d, 5101, 5102, and 5106 of this title and sections 1766 and 1786 of Title 42, The Public Health and Welfare, repealing section 87e-1 of this title, enacting provisions set out as notes under sections 79, 181, 241, and 1314e of this title and section 1786 of Title 42, amending provisions set out as notes under sections 74, 612c, and 1421 of this title,and repealing provisions set out as notes under sections 75a, 76, and 79 of this title\] may be cited as the 'Grain Standards and Warehouse Improvement Act of 2000'."
 
 #### Short Title of 1993 Amendment
 

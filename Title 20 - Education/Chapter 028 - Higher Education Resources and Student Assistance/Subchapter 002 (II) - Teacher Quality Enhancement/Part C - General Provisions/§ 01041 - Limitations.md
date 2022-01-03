@@ -18,6 +18,8 @@ Nothing in this subchapter shall be construed to alter or otherwise affect the r
 
 (Pub. L. 89–329, title II, §261, as added Pub. L. 110–315, title II, §201(3), Aug. 14, 2008, 122 Stat. 3166.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1041, Pub. L. 89–329, title II, §221, as added Pub. L. 107–110, title X, §1051(3), Jan. 8, 2002, 115 Stat. 2080, set out purpose and program authority for teacher preparation programs to enable teachers to use advanced technology in the classroom, prior to repeal by Pub. L. 110–315, title II, §201(3), Aug. 14, 2008, 122 Stat. 3154.
@@ -34,7 +36,7 @@ Another prior section 1042, Pub. L. 89–329, title II, §232, as added Pub. L. 
 
 Another prior section 1042, Pub. L. 89–329, title II, §232, as added Pub. L. 94–482, title I, §107, Oct. 12, 1976, 90 Stat. 2090; amended Pub. L. 96–49, §3(b), Aug. 13, 1979, 93 Stat. 351, which authorized appropriations through fiscal year 1980, was omitted in the general amendment of this subchapter by Pub. L. 96–374.
 
-Another prior section 1042, Pub. L. 89–329, title II, §232, as added Pub. L. 92–318, title I, §115(a), June 23, 1972, 86 Stat. 241, which required an evaluation and report to Congressional committees by the Librarian of the Congress, was omitted in the general amendment offormer part C of this subchapter by Pub. L. 94–482, title I, §107, Oct. 12, 1976, 90 Stat. 2090.
+Another prior section 1042, Pub. L. 89–329, title II, §232, as added Pub. L. 92–318, title I, §115(a), June 23, 1972, 86 Stat. 241, which required an evaluation and report to Congressional committees by the Librarian of the Congress, was omitted in the general amendment of former part C of this subchapter by Pub. L. 94–482, title I, §107, Oct. 12, 1976, 90 Stat. 2090.
 
 A prior section 1043, Pub. L. 89–329, title II, §223, as added Pub. L. 107–110, title X, §1051(3), Jan. 8, 2002, 115 Stat. 2082, related to use of funds, prior to repeal by Pub. L. 110–315, title II, §201(3), Aug. 14, 2008, 122 Stat. 3154.
 

@@ -12,7 +12,9 @@ All property subject to a lien held by the United States or the title to which i
 
 (Pub. L. 87–128, title III, §334, Aug. 8, 1961, 75 Stat. 315.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This chapter, referred to in text, was in the original "this title", meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title IIIto the Code, see Short Title note set out under section 1921 of this title and Tables.
+This chapter, referred to in text, was in the original "this title", meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
 

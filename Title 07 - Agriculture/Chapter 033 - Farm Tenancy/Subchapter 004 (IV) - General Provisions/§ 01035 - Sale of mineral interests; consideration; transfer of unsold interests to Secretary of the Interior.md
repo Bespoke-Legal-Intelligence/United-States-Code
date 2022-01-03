@@ -4,6 +4,8 @@ In areas where the Secretary determines after consultation with the Department o
 
 (Sept. 6, 1950, ch. 897, §3, 64 Stat. 769.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was not enacted as part of the Bankhead-Jones Farm Tenant Act which constitutes a major part of this chapter.

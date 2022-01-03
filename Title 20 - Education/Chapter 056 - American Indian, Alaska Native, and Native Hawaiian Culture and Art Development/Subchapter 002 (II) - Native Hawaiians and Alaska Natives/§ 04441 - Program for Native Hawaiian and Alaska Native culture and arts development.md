@@ -44,9 +44,13 @@ Grants made under subsection (a) shall, to the extent deemed possible by the Sec
 
 (Pub. L. 99–498, title XV, §1521, Oct. 17, 1986, 100 Stat. 1610; Pub. L. 103–239, title VII, §722(2), May 4, 1994, 108 Stat. 606.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–239 amended section generally, substituting provisions relating to development program for Native Hawaiian and Alaska Native culture and arts for provisions relating to development program for Native Hawaiian culture and arts.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

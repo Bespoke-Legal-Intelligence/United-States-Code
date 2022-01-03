@@ -58,13 +58,15 @@ Rules similar to the rules of paragraphs (5) and (6) of section 637(m) of this t
 
 #### (i) Provision of data
 
-Upon the request of the Administrator, the head of any Federal department or agency shall promptly provide to the Administrator such information as the Administrator determines to be necessary to carry out subsection (b) or to be able to certify the status of the concern as a small business concern owned and controlled by veterans under section 657f–1 of this title.
+Upon the request of the Administrator, the head of any Federal department or agency shall promptly provide to the Administrator such information as the Administrator determines tobe necessary to carry out subsection (b) or to be able to certify the status of the concern as a small business concern owned and controlled by veterans under section 657f–1 of this title.
 
 (Pub. L. 85–536, §2\[36\], as added Pub. L. 108–183, title III, §308, Dec. 16, 2003, 117 Stat. 2662; amended Pub. L. 116–283, div. A, title VIII, §§862(b)(2), (d)(1), 864(3), Jan. 1, 2021, 134 Stat. 3778, 3779, 3785.)
 
 #### Amendment of Section
 
 <i>Pub. L. 116–283, div. A, title VIII, §862(b)(2), Jan. 1, 2021, 134 Stat. 3778, provided that, effective on the transfer date (2 years after Jan. 1, 2021), this section is amended by transferring subsection (f) of section 8127 of Title 38, Veterans' Benefits, to subsection (f) of this section. See 2021 Amendment note and Effective Date of 2021 Amendment note below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -100,9 +102,11 @@ Pub. L. 116–283, §862(d)(1)(A), redesignated subsec. (d) as par. (3) of subse
 
 Subsec. (i). Pub. L. 116–283, §862(d)(1)(F), added subsec. (i).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2021 Amendment
 
-Pub. L. 116–283, div. A, title VIII, §862(b)(2), Jan. 1, 2021, 134 Stat. 3778, provided that the amendment made by section 862(b)(2) of Pub. L. 116–283 is effective on the transfer date (2 years after Jan. 1, 2021, see section 862(a) of Pub. L. 116–283, set out below).
+Pub. L. 116–283, div. A, title VIII, §862(b)(2), Jan. 1, 2021, 134 Stat. 3778, provided that the amendment made by section 862(b)(2) is effective on the transfer date (2 years after Jan. 1, 2021, see section 862(a) of Pub. L. 116–283, set out below).
 
 #### Transfer of Verification of Small Business Concerns Owned and Controlled by Veterans or Service-Disabled Veterans to the Small Business Administration
 

@@ -12,7 +12,9 @@ No amounts authorized to be appropriated or otherwise made available for the Dep
 
 &emsp;&emsp;(B) for each requirement so identified, the reasons why such requirement cannot be met through full use of the H–canyon facility and a description of the alternative capability for fissile materials disposition that is needed to meet such requirement.
 
-(Pub. L. 107–314, div. D, title XLIV, §4454, formerly Pub. L. 106–398, §1 \[div. C, title XXXI, §3137(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–460; renumbered Pub. L. 107–314, div. D, title XLIV, §4454, and amended Pub. L. 108–136, div. C, titleXXXI, §§3115(b), 3141(g)(24), Nov. 24, 2003, 117 Stat. 1745, 1770; Pub. L. 113–291, div. C, title XXXI, §3142(i), Dec. 19, 2014, 128 Stat. 3900.)
+(Pub. L. 107–314, div. D, title XLIV, §4454, formerly Pub. L. 106–398, §1 \[div. C, title XXXI, §3137(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–460; renumbered Pub. L. 107–314, div. D, title XLIV, §4454, and amended Pub. L. 108–136, div. C, title XXXI, §§3115(b), 3141(g)(24), Nov. 24, 2003, 117 Stat. 1745, 1770; Pub. L. 113–291, div. C, title XXXI, §3142(i), Dec. 19, 2014, 128 Stat. 3900.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -26,5 +28,5 @@ The Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001, ref
 
 Pub. L. 108–136, §3115(b)(2), substituted "a report setting forth—" and pars. (1) to (3) for "the following:" and former pars. (1) to (3) which contained somewhat similar provisions.
 
-Pub. L. 108–136, §3115(b)(1), in introductory provisions, substituted "submits to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, and the Defense Nuclear Facilities Safety Board," for "and the Defense Nuclear Facilities Safety Board jointly submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives".
+Pub. L. 108–136, §3115(b)(1), in introductory provisions, substituted "submits to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, and the Defense Nuclear Facilities Safety Board," for "and the Defense Nuclear Facilities Safety Board jointly submit to theCommittee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives".
 

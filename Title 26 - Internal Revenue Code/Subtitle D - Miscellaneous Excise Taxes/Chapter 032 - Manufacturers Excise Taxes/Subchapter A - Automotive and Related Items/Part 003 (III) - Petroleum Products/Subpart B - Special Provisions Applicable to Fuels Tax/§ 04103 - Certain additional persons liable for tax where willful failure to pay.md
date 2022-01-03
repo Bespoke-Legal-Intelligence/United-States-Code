@@ -10,11 +10,15 @@ In any case in which there is a willful failure to pay the tax imposed by sectio
 
 (Added Pub. L. 101–508, title XI, §11212(c), Nov. 5, 1990, 104 Stat. 1388–431; amended Pub. L. 103–66, title XIII, §13242(d)(1), Aug. 10, 1993, 107 Stat. 522; Pub. L. 108–357, title VIII, §853(d)(2)(F), Oct. 22, 2004, 118 Stat. 1613.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Pub. L. 108–357 substituted "or 4081" for ", 4081, or 4091" in introductory provisions.
 
 <b>1993</b>—Pub. L. 103–66 substituted "4041(a)(1), 4081," for "4081" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

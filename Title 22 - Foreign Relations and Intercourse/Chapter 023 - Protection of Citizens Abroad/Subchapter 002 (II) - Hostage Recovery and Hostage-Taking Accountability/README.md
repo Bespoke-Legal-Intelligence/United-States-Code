@@ -54,7 +54,7 @@ Sec. 3. <i>Establishment of the Hostage Response Group</i>. (a) There shall be a
 
 (c) The HRG, in support of the Deputies Committee chaired by the Assistant to the President for Homeland Security and Counterterrorism, and consistent with the process outlined in Presidential Policy Directive 1 or any successor, shall:
 
-(i) identify and recommend hostage recovery options and strategies to the President through the NationalSecurity Council, as consistent with Presidential Policy Directive 30 of June 24, 2015 (U.S. Nationals Taken Hostage Abroad and Personnel Recovery Efforts);
+(i) identify and recommend hostage recovery options and strategies to the President through the National Security Council, as consistent with Presidential Policy Directive 30 of June 24, 2015 (U.S. Nationals Taken Hostage Abroad and Personnel Recovery Efforts);
 
 (ii) coordinate the development and implementation of U.S. hostage recovery policies, strategies, and procedures, consistent with the policies set forth in Presidential Policy Directive 30;
 

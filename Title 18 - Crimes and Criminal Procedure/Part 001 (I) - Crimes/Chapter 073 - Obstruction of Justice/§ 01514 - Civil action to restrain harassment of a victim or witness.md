@@ -58,7 +58,7 @@
 
 #### Amendments
 
-<b>2012</b>—Subsec. (b)(1). Pub. L. 112–206, §3(a)(1)(A), inserted "or its own motion," after "attorney for theGovernment," and inserted "or investigation" after "Federal criminal case" in two places.
+<b>2012</b>—Subsec. (b)(1). Pub. L. 112–206, §3(a)(1)(A), inserted "or its own motion," after "attorney for the Government," and inserted "or investigation" after "Federal criminal case" in two places.
 
 Subsec. (b)(2), (3). Pub. L. 112–206, §3(a)(1)(B), (C), added par. (2) and redesignated former par. (2) as (3). Former par. (3) redesignated (4).
 

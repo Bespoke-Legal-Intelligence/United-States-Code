@@ -10,7 +10,7 @@ Advanced Budget Authority.—Loan guarantees under this section may not be commi
 
 (c)
 
-Program Administration.—(1) The Secretary may enter into an agreement with any of the officials named in paragraph (2) under which that official may, for the purposes of this section—
+Program Administration.—(1) The Secretary may enter into an agreement with any ofthe officials named in paragraph (2) under which that official may, for the purposes of this section—
 
 &emsp;(A) process applications for loan guarantees;
 
@@ -46,9 +46,13 @@ Transfer of Funds.—The Secretary may transfer to an official providing service
 
 (Added Pub. L. 106–398, §1 \[\[div. A\], title III, §344(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–70, §4555; renumbered §7555, Pub. L. 115–232, div. A, title VIII, §808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4555 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

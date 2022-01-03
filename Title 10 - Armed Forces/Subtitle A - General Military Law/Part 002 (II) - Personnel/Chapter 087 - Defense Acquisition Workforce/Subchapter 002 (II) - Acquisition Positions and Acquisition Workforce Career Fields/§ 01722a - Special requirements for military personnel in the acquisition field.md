@@ -2,7 +2,7 @@
 
 (a)
 
-Requirement for Policy and Guidance Regarding Military Personnel in Acquisition.—The Secretary of Defense shall require the Secretary of each military department (with respect to such military department), in collaboration with the Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force,,<sup>1</sup> the Commandant of the Marine Corps, and the Chief of Space Operations (with respect to the Army, Navy, Air Force, Marine Corps, and Space Force, respectively), and the Under Secretary of Defense for Acquisition and Sustainment (with respect to the Office of the Secretary of Defense, the unified combatant commands, the Defense Agencies, and the Defense Field Activities) to establish policies and issue guidance to ensure the proper development, assignment, and employment of members of the armed forces in the acquisition field to achieve the objectives of this section as specified in subsection (b).
+Requirement for Policy and Guidance Regarding Military Personnel in Acquisition.—The Secretary of Defense shall require the Secretary of each military department (with respect to such military department), in collaboration with the Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force, the Commandant of the Marine Corps, and the Chief of Space Operations (with respect to the Army, Navy, Air Force, Marine Corps, and Space Force, respectively), and the Under Secretary of Defense for Acquisition and Sustainment (with respect to the Office of the Secretary of Defense, the unified combatant commands, the Defense Agencies, and the Defense Field Activities) to establish policies and issue guidance to ensure the proper development, assignment, and employment of members of the armed forces in the acquisition field to achieve the objectives of this section as specified in subsection (b).
 
 (b)
 
@@ -40,11 +40,15 @@ Relationship to Limitation on Preference for Military Personnel.—Any designati
 
 Report.—Not later than January 1 of each year, the Secretary of each military department shall submit to the Under Secretary of Defense for Acquisition and Sustainment a report describing how the Secretary fulfilled the objectives of this section in the preceding calendar year. The report shall include information on the reservation of acquisition billets for general officers and flag officers within the department concerned.
 
-(Added Pub. L. 110–417, \[div. A\], title VIII, §834(a)(1), Oct. 14, 2008, 122 Stat. 4535; amended Pub. L. 114–92, div. A, title VIII, §842, Nov. 25, 2015, 129 Stat. 914; Pub. L. 116–92, div. A, title IX, §902(16), Dec. 20, 2019, 133 Stat. 1544; Pub. L. 116–283, div. A, title IX, §924(b)(27), Jan. 1, 2021, 134 Stat. 3825.)
+(Added Pub. L. 110–417, \[div. A\], title VIII, §834(a)(1), Oct. 14, 2008, 122 Stat. 4535; amended Pub. L. 114–92, div. A, title VIII, §842, Nov. 25, 2015, 129 Stat. 914; Pub. L. 116–92, div. A, title IX, §902(16), Dec. 20, 2019, 133 Stat. 1544; Pub. L. 116–283, div. A, title IX, §924(b)(27), Jan. 1, 2021, 134 Stat. 3825; Pub. L. 117–81, div. A, title X, §1081(a)(23), Dec. 27, 2021, 135 Stat. 1920.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
-<b>2021</b>—Subsec. (a). Pub. L. 116–283, §924(b)(27)(B), which directed substitution of "the Under Secretary of Defense for Acquisition and Sustainment" for "the Under Secretary of Defense for Acquisition, Technology, and Logistics", could not be executed because of the intervening amendment by Pub. L. 116–92. See 2019 Amendment note below.
+<b>2021</b>—Subsec. (a). Pub. L. 117–81 substituted single comma for double commas after "the Chief of Staff of the Air Force".
+
+Pub. L. 116–283, §924(b)(27)(B), which directed substitution of "the Under Secretary of Defense for Acquisition and Sustainment" for "the Under Secretary of Defense for Acquisition, Technology, and Logistics", could not be executed because of the intervening amendment by Pub. L. 116–92. See 2019 Amendment note below.
 
 Pub. L. 116–283, §924(b)(27)(A), substituted ", the Commandant of the Marine Corps, and the Chief of Space Operations (with respect to the Army, Navy, Air Force, Marine Corps, and Space Force, respectively)" for "and the Commandant of the Marine Corps (with respect to the Army, Navy, Air Force, and Marine Corps, respectively)".
 
@@ -55,6 +59,4 @@ Pub. L. 116–283, §924(b)(27)(A), substituted ", the Commandant of the Marine
 Subsec. (b)(1). Pub. L. 114–92, §842(b)(2), inserted "single-track" before "career path".
 
 Subsec. (b)(2) to (4). Pub. L. 114–92, §842(b)(1), (3), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
-
-<i><sup>1</sup></i><i> So in original.</i>
 

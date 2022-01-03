@@ -2,7 +2,7 @@
 
 (a)
 
-Annual Review and Approval Required.—The Appalachian Regional Commission annually shall review and approve, in accordance with section 14302 of this title, state and regional development plans and strategy statements, and any multistate subregional plans which may be developed.
+Annual Review and Approval Required.—The Appalachian Regional Commission annually shall review and approve, in accordance withsection 14302 of this title, state and regional development plans and strategy statements, and any multistate subregional plans which may be developed.
 
 (b)
 

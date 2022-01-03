@@ -102,13 +102,15 @@ For purposes of this section, the term "Indian tribe" means an Indian tribe or t
 
 #### (f) Authorization of appropriations
 
-For the purpose of carrying out this section, there are authorized to be appropriated suchsums as may be necessary for each of the fiscal years 2001 through 2005.
+For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.
 
 (July 1, 1944, ch. 373, title III, §317M, as added Pub. L. 106–310, div. A, title XVI, §1602, Oct. 17, 2000, 114 Stat. 1148; amended Pub. L. 111–148, title IV, §4102(b), (c), Mar. 23, 2010, 124 Stat. 551, 552.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-Section 5304 of title 25, referred to in subsec. (e), has been amended, and subsecs. (b) and (c) of section 5304 no longer define the terms "Indian tribe" and "tribal organization". However, such terms are defined elsewhere in that section.
+Section 5304 of title 25, referred to in subsec. (e), has been amended, and subsecs. (b) and (c) of section 5304 nolonger define the terms "Indian tribe" and "tribal organization". However, such terms are defined elsewhere in that section.
 
 #### Amendments
 

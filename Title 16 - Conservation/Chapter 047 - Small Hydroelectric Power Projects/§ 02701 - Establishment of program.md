@@ -4,11 +4,15 @@ The Secretary shall establish a program in accordance with this chapter to encou
 
 (Pub. L. 95–617, title IV, §401, Nov. 9, 1978, 92 Stat. 3154.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Secretary, referred to in text, means the Secretary of Energy, see section 2602(14) of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Promulgation of Implementing Rules and Regulations
 
-Pub. L. 96–294, title IV, §408(d), June 30, 1980, 94 Stat. 718, provided that: "The Secretary shall take such action as may be necessary to assure the establishment, as soon as possible after the date of the enactment of this Act \[June 30, 1980\] (and in any event within six months after such date in the case of the amendmentsmade by subsections (a) and (c) of this section and in the case of the loan program under section 403 of the Public Utility Regulatory Policies Act of 1978) \[amending section 2708 of the title, and section 2703 of this title respectively\], of such rules and regulations as may be necessary to fully implement his responsibilities under title IV of the Public Utility Regulatory Policies Act of 1978 \[this subchapter\] and the amendments thereto made by this section \[amending sections 2705 and 2708 of this title\]".
+Pub. L. 96–294, title IV, §408(d), June 30, 1980, 94 Stat. 718, provided that: "The Secretary shall take such action as may be necessary to assure the establishment, as soon as possible after the date of the enactment of this Act \[June 30, 1980\] (and in any event within six months after such date in the case of the amendments made by subsections (a) and (c) of this section and in the case of the loan program under section 403 of the Public Utility Regulatory Policies Act of 1978) \[amending section 2708 of the title, and section 2703 of this title respectively\], of such rules and regulations as may be necessary to fully implement his responsibilities under title IV of the Public Utility Regulatory Policies Act of 1978 \[this subchapter\] and the amendments thereto made by this section \[amending sections 2705 and 2708 of this title\]".
 

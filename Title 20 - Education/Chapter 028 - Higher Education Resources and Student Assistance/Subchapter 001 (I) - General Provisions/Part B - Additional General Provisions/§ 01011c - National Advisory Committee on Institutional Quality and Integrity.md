@@ -14,7 +14,7 @@ There is established in the Department a National Advisory Committee on Institut
 
 &emsp;&emsp;(B) six members shall be appointed by the Speaker of the House of Representatives, three of whom shall be appointed on the recommendation of the majority leader of the House of Representatives, and three of whom shall be appointed on the recommendation of the minority leader of the House of Representatives; and
 
-&emsp;&emsp;(C) six members shall be appointed by the President pro tempore of the Senate, three of whom shall be appointed on the recommendation of the majority leader of the Senate, and three of whom shall be appointed on the recommendation of the minority leader of the Senate.
+&emsp;&emsp;(C) six members shall be appointed by the President pro tempore of the Senate, threeof whom shall be appointed on the recommendation of the majority leader of the Senate, and three of whom shall be appointed on the recommendation of the minority leader of the Senate.
 
 #### (2) Qualifications
 
@@ -116,7 +116,7 @@ The Committee shall—
 
 #### (2) Report
 
-&emsp;Not later than the last day of each fiscal year, the Committee shall make available an annual report to the Secretary, the authorizing committees, and the public. The annual report shall contain—
+&emsp;Not later than the last day of each fiscal year, the Committee shall make available anannual report to the Secretary, the authorizing committees, and the public. The annual report shall contain—
 
 &emsp;&emsp;(A) a detailed summary of the agenda and activities of, and the findings and recommendations made by, the Committee during the fiscal year preceding the fiscal year in which the report is made;
 
@@ -131,6 +131,8 @@ The Committee shall—
 The Committee shall terminate on September 30, 2021.
 
 (Pub. L. 89–329, title I, §114, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1592; amended Pub. L. 110–315, title I, §106(a), Aug. 14, 2008, 122 Stat. 3090; Pub. L. 113–174, §1, Sept. 26, 2014, 128 Stat. 1900; Pub. L. 114–113, div. H, title III, §309, Dec. 18, 2015, 129 Stat. 2638; Pub. L. 115–31, div. H, title III, §308, May 5, 2017, 131 Stat. 552; Pub. L. 115–141, div. H, title III, §308, Mar. 23, 2018, 132 Stat. 750; Pub. L. 115–245, div. B, title III, §306, Sept. 28, 2018, 132 Stat. 3105; Pub. L. 116–94, div. A, title III, §305, Dec. 20, 2019, 133 Stat. 2595; Pub. L. 116–260, div. H, title III, §305, Dec. 27, 2020, 134 Stat. 1608.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -160,6 +162,8 @@ Pub. L. 115–141 substituted "2018" for "2017".
 
 <b>2008</b>—Pub. L. 110–315 amended section generally, revising provisions relating to the National Advisory Committee on Institutional Quality and Integrity and extending its termination date from Sept. 30, 2004, to September 30, 2014.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
 Pub. L. 110–315, title I, §106(c), Aug. 14, 2008, 122 Stat. 3093, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 2009."
@@ -170,7 +174,7 @@ Pub. L. 110–315, title I, §106(b), Aug. 14, 2008, 122 Stat. 3093, provided th
 
 &emsp;"(1) the term of each member appointed to the National Advisory Committee on Institutional Quality and Integrity before the date of enactment of this Act shall expire on the date of enactment of this Act;
 
-&emsp;"(2) no new members shall be appointed to the National Advisory Committee on Institutional Qualityand Integrity during the period beginning on the date of enactment of this Act and ending on January 31, 2009; and
+&emsp;"(2) no new members shall be appointed to the National Advisory Committee on Institutional Quality and Integrity during the period beginning on the date of enactment of this Act and ending on January 31, 2009; and
 
 &emsp;"(3) no meeting of the National Advisory Committee on Institutional Quality and Integrity shall be convened during such period."
 

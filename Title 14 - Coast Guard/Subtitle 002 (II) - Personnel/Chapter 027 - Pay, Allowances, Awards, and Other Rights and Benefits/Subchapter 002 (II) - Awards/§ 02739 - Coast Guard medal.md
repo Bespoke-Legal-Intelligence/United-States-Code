@@ -6,7 +6,7 @@ The President may present, but not in the name of Congress, a medal to be known 
 
 #### Historical and Revision Notes
 
-This section establishes a new medal to be known as the Coast Guard Medal, which is intended to be a parallel award to the Navy and Marine Corps Medal of the Navy, to be awarded under the same circumstances as that medal is awarded to personnel of the Navy (see title 34, U.S.C., 1946 ed., §356b). 81st Congress, House Report No. 557.
+This section establishes a new medal to be known as the Coast Guard Medal, which is intended to be a parallel award to the Navy and Marine Corps Medal of the Navy, to be awarded under the same circumstances as that medal is awarded to personnel of the Navy (seetitle 34, U.S.C., 1946 ed., §356b). 81st Congress, House Report No. 557.
 
 #### <b>Editorial Notes</b>
 

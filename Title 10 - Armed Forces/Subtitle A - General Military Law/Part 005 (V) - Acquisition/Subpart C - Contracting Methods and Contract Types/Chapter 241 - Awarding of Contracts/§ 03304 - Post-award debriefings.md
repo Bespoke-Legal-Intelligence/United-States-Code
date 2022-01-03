@@ -2,7 +2,7 @@
 
 (a)
 
-Request for Debriefing.—When a contract is awarded by the head of an agency on the basis of competitive proposals, an unsuccessful offeror, upon written request received by the agency within 3 days after the date on which the unsuccessful offeror receives the notification of the contract award, shall be debriefed and furnished the basis for the selection decision and contract award.
+Request for Debriefing.—When a contract is awarded by the head of an agency on thebasis of competitive proposals, an unsuccessful offeror, upon written request received by the agency within 3 days after the date on which the unsuccessful offeror receives the notification of the contract award, shall be debriefed and furnished the basis for the selection decision and contract award.
 
 (b)
 
@@ -50,6 +50,8 @@ Summary to Be Included in File.—The contracting officer shall include a summar
 
 (Added and amended Pub. L. 116–283, div. A, title XVIII, §1816(c)(2)(D), (6), Jan. 1, 2021, 134 Stat. 4182, 4183.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 The text of subsec. (b)(5) of section 2305 of this title, which was transferred to this section, redesignated as subsecs. (a) to (f), and amended by Pub. L. 116–283, §1816(c)(1), (2)(D), (6)(A)–(J), was based on Pub. L. 103–355, title I, §1014(2), Oct. 13, 1994, 108 Stat. 3256; Pub. L. 104–106, div. D, title XLI, §4104(a)(1), Feb. 10, 1996, 110 Stat. 644; Pub. L. 115–91, div. A, title VIII, §818(b), Dec. 12, 2017, 131 Stat. 1463; Pub. L. 115–232, div. A, title VIII, §836(c)(3), Aug. 13, 2018, 132 Stat. 1864.
@@ -80,9 +82,23 @@ Subsec. (f). Pub. L. 116–283, §1816(c)(6)(B), (J), redesignated subpar. (F) o
 
 Subsec. (g). Pub. L. 116–283, §1816(c)(6)(K), added subsec. (g) identical to subsec. (f) of section 3305 of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
+
+#### Enhanced Post-Award Debriefing Rights; Release of Contract Award Information
+
+Pub. L. 115–91, div. A, title VIII, §818(a), Dec. 12, 2017, 131 Stat. 1463, provided that: "Not later than 180 days after the date of the enactment of this Act \[Dec. 12, 2017\], the Secretary of Defense shall revise the Department of Defense Supplement to the Federal Acquisition Regulation to require that all required post-award debriefings, while protecting the confidential and proprietary information of other offerors, include, at a minimum, the following:
+
+&emsp;"(1) In the case of a contract award in excess of $100,000,000, a requirement for disclosure of the agency's written source selection award determination, redacted to protect the confidential and proprietary information of other offerors for the contract award, and, in the case of a contract award in excess of $10,000,000 and not in excess of $100,000,000 with a small business or nontraditional contractor, an option for the small business or nontraditional contractor to request such disclosure.
+
+&emsp;"(2) A requirement for a written or oral debriefing for all contract awards and task or delivery orders valued at $10,000,000 or higher.
+
+&emsp;"(3) Provisions ensuring that both unsuccessful and winning offerors are entitled to the disclosure described in paragraph (1) and the debriefing described in paragraph (2).
+
+&emsp;"(4) Robust procedures, consistent with section 2305(b)(5)(D) of title 10, United States Code \[now 10 U.S.C. 3304(d)\], and provisions implementing that section in the Federal Acquisition Regulation, to protect the confidential and proprietary information of other offerors."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "under this section".</i>
 

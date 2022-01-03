@@ -44,7 +44,7 @@ Amendment by Pub. L. 101–649 applicable to individuals entering United States 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–525 effective as if included in enactment of Immigration Reform and Control Actof 1986, Pub. L. 99–603, see section 2(s) of Pub. L. 100–525, set out as a note under section 1101 of this title.
+Amendment by Pub. L. 100–525 effective as if included in enactment of Immigration Reform and Control Act of 1986, Pub. L. 99–603, see section 2(s) of Pub. L. 100–525, set out as a note under section 1101 of this title.
 
 #### Effective Date of 1965 Amendment
 

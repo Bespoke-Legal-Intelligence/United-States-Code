@@ -74,6 +74,8 @@ July 30, 1956, ch. 789, §4(a), 70 Stat. 729.
 
 The words "Subject to section 946(a) of this title" are omitted, since that section is restated in subsection (a) of the revised section and is applicable to all reserve appointments. 50:941(b) (last 2 sentences) is omitted as covered by sections 510 and 591 of this title.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Immigration and Nationality Act, referred to in subsec. (b)(1), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
@@ -90,7 +92,7 @@ Subsecs. (c) to (e). Pub. L. 104–106, §1501(a)(5)(B), made technical correcti
 
 <b>1994</b>—Pub. L. 103–337, §1662(c)(2), renumbered section 591 of this title as this section.
 
-Subsecs. (c) to (e). Pub. L. 103–337, §1631(b), as amended by Pub. L. 104–106, §1501(a)(5)(B), redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out former subsec. (c) which read as follows: "Women may be appointed as Reserves of the armed forces for service in the Army Reserve, Naval Reserve, Air Force Reserve, Marine Corps Reserve, and Coast Guard Reserve. Women who are otherwise qualified may be appointed as Reserves of the armed forces with a view to serving in the Army National Guard of the United States or the Air National Guard of the United States. Women are appointed in grades corresponding to the grades authorized for female officers of the regular component of the armed force concerned. Any female former officer of an armed force may, if otherwise qualified, be appointed as a Reserve of that armed force in the highest grade in which she previously served satisfactorily on active duty (other than for training)."
+Subsecs. (c) to (e). Pub. L. 103–337, §1631(b), as amended by Pub. L. 104–106, §1501(a)(5)(B), redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out former subsec. (c) which read as follows: "Women may be appointed as Reserves of the armed forces for service in the Army Reserve, Naval Reserve, Air Force Reserve, Marine Corps Reserve, and Coast Guard Reserve. Women who are otherwise qualified may be appointed as Reserves of the armed forces with a view to serving in the Army National Guard of the United States or the Air National Guard of the United States. Women are appointed in grades corresponding to the grades authorized for female officers of the regular component of the armed force concerned. Any femaleformer officer of an armed force may, if otherwise qualified, be appointed as a Reserve of that armed force in the highest grade in which she previously served satisfactorily on active duty (other than for training)."
 
 <b>1987</b>—Subsec. (e). Pub. L. 100–180 added subsec. (e).
 
@@ -103,6 +105,8 @@ Subsecs. (c) to (e). Pub. L. 103–337, §1631(b), as amended by Pub. L. 104–1
 <b>1963</b>—Subsec. (b) (1). Pub. L. 88–236 substituted "he is a citizen of the United States or has been lawfully admitted to the United States for permanent residence under chapter 12 of title 8" for "he is, or has made a declaration of intention to become, a citizen of the United States or of a possession thereof".
 
 <b>1958</b>—Subsec. (c). Pub. L. 85–861 permitted appointment of women as Reserves of armed forces with a view to serving as nurses or medical specialists in Army National Guard of the United States or Air National Guard of the United States.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 
@@ -134,5 +138,5 @@ Pub. L. 101–510, div. A, title V, §524, Nov. 5, 1990, 104 Stat. 1562, directe
 
 #### Deadline for Regulations Implementing Subsection (e) of This Section
 
-Pub. L. 100–180, div. A, title VII, §718(b), Dec. 4, 1987, 101 Stat. 1115, provided that: "The Secretary concernedshall prescribe regulations implementing subsection (e) of section 591 \[now 12201(d)\] of title 10, United States Code, as added by subsection (a), not later than 90 days after the date of the enactment of this Act \[Dec. 4, 1987\]."
+Pub. L. 100–180, div. A, title VII, §718(b), Dec. 4, 1987, 101 Stat. 1115, provided that: "The Secretary concerned shall prescribe regulations implementing subsection (e) of section 591 \[now 12201(d)\] of title 10, United States Code, as added by subsection (a), not later than 90 days after the date of the enactment of this Act \[Dec. 4, 1987\]."
 

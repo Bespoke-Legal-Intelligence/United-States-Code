@@ -1,6 +1,6 @@
 ### §6861. National professional development project
 
-The Secretary shall use funds made available under section 6821(c)(1)(C) of this title to awardgrants on a competitive basis, for a period of not more than 5 years, to institutions of higher education or public or private entities with relevant experience and capacity (in consortia with State educational agencies or local educational agencies) to provide for professional development activities that will improve classroom instruction for English learners and assist educational personnel working with English learners to meet high professional standards, including standards for certification and licensure as teachers who work in language instruction educational programs or serve English learners. Grants awarded under this section may be used—
+The Secretary shall use funds made available under section 6821(c)(1)(C) of this title to award grants on a competitive basis, for a period of not more than 5 years, to institutions of higher education or public or private entities with relevant experience and capacity (in consortia with State educational agencies or local educational agencies) to provide for professional development activities that will improve classroom instruction for English learners and assist educational personnel working with English learners to meet high professional standards, including standards for certification and licensure as teachers who work in language instruction educational programs or serve English learners. Grants awarded under this section may be used—
 
 &emsp;(1) for effective preservice or inservice professional development programs that will improve the qualifications and skills of educational personnel involved in the education of English learners, including personnel who are not certified or licensed and educational paraprofessionals, and for other activities to increase teacher and school leader effectiveness in meeting the needs of English learners;
 
@@ -16,6 +16,8 @@ The Secretary shall use funds made available under section 6821(c)(1)(C) of this
 
 (Pub. L. 89–10, title III, §3131, as added Pub. L. 107–110, title III, §301, Jan. 8, 2002, 115 Stat. 1706; amended Pub. L. 114–95, title III, §3003(m), Dec. 10, 2015, 129 Stat. 1964.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 6861, Pub. L. 89–10, title III, §3141, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3649, related to regional technical support and professional development, prior to the general amendment of this subchapter by Pub. L. 107–110.
@@ -25,6 +27,8 @@ A prior section 3131 of Pub. L. 89–10 was classified to section 6841 of this t
 #### Amendments
 
 <b>2015</b>—Pub. L. 114–95 amended section generally. Prior to amendment, section related to grants to be used for preservice professional development programs, for development of curricula, and for financial assistance for certain language teachers.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

@@ -66,7 +66,7 @@
 
 &emsp;(3) the larger of $300,000, or 3 percent of such total Federal expenditures for all programs, in the case of a non-Federal entity for which such total expenditures for all programs equal or exceed $300,000 but are less than or equal to $100,000,000.
 
-(c) When the total expenditures of a non-Federal entity's major programs are less than 50 percent of the non-Federal entity's total expenditures of all Federal awards (or such lower percentage as specified by the Director), the auditor shall select and test additional programs as major programs as necessary to achieve audit coverage of at least 50 percent of Federal expenditures by the non-Federal entity (or such lower percentage as specified by the Director), in accordance with guidance issued by the Director.
+(c) When the total expenditures of a non-Federal entity's major programs are less than 50percent of the non-Federal entity's total expenditures of all Federal awards (or such lower percentage as specified by the Director), the auditor shall select and test additional programs as major programs as necessary to achieve audit coverage of at least 50 percent of Federal expenditures by the non-Federal entity (or such lower percentage as specified by the Director), in accordance with guidance issued by the Director.
 
 (d) Loan or loan guarantee programs, as specified by the Director, shall not be subject to the application of subsection (b).
 
@@ -95,10 +95,6 @@ Pub. L. 104–156, §1(a), July 5, 1996, 110 Stat. 1396, provided that: "This Ac
 #### Short Title of 1984 Amendment
 
 Pub. L. 98–502, §1(a), Oct. 19, 1984, 98 Stat. 2327, provided that: "This Act \[enacting this chapter and provisions set out as notes under this section\] may be cited as the 'Single Audit Act of 1984'."
-
-#### Termination of Trust Territory of the Pacific Islands
-
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
 #### Transitional Application
 
@@ -131,6 +127,12 @@ Pub. L. 98–502, §1(b), Oct. 19, 1984, 98 Stat. 2327, provided that: "It is th
 #### Tennessee Valley Authority Audits Unaffected by Single Audit Requirements
 
 Pub. L. 98–502, §2(b), Oct. 19, 1984, 98 Stat. 2334, provided that: "The provisions of this Act \[enacting this chapter and provisions set out as notes under this section\] shall not diminish or otherwise affect the authority of the Tennessee Valley Authority to conduct its own audits of any matter involving funds disbursed by the Tennessee Valley Authority."
+
+#### <b>Executive Documents</b>
+
+#### Termination of Trust Territory of the Pacific Islands
+
+For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

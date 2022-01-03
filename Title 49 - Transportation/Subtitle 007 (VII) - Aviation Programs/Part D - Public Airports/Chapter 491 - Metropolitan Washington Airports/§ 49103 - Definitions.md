@@ -40,6 +40,8 @@ In this section, the text of section 6004(1) and (5) of the Metropolitan Washing
 
 In clause (1), the words "an organization within the Federal Aviation Administration" are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Act of September 7, 1950, ch. 905, 64 Stat. 770, referred to in par. (4), was classified to subchapter II (§2421 et seq.) of chapter 33 of former Title 49, Transportation, and was omitted from the Code when subtitles II, III, and V to X of Title 49, Transportation, were enacted by Pub. L. 103–272, July 5, 1994, 108 Stat. 745.
@@ -53,6 +55,8 @@ A prior section 49103 was renumbered section 50103 of this title.
 #### Amendments
 
 <b>1998</b>—Pars. (3), (5). Pub. L. 105–154 substituted "Ronald Reagan Washington National Airport" for "Washington National Airport".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

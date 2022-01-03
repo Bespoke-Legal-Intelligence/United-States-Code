@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—The Secretary of the department in which the Coast Guard is operating may establish and maintain a Junior Reserve Officers' Training Corps, organized into units, at public and private secondary educational institutions.
+Establishment.—The Secretary of the department in which the Coast Guard is operating may establish and maintain a Junior ReserveOfficers' Training Corps, organized into units, at public and private secondary educational institutions.
 
 (b)
 

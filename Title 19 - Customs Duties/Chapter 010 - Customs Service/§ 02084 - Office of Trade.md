@@ -28,7 +28,7 @@ The Office of Trade shall—
 
 &emsp;(8) direct the administration of customs revenue functions as otherwise provided by law or delegated by the Commissioner of U.S. Customs and Border Protection; and
 
-&emsp;(9) prepare an annual report to be submitted to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives not later than June 1, 2016, and March 1 of each calendar year thereafter that includes—
+&emsp;(9) prepare an annual report to be submitted to the Committee on Finance of the Senateand the Committee on Ways and Means of the House of Representatives not later than June 1, 2016, and March 1 of each calendar year thereafter that includes—
 
 &emsp;&emsp;(A) a summary of the changes to customs policies and regulations adopted by U.S. Customs and Border Protection during the preceding calendar year; and
 
@@ -52,7 +52,7 @@ The Office of Trade shall—
 
 #### (D) Office of International Trade defined
 
-&emsp;&emsp;In this paragraph, the term "Office of International Trade" means the Office ofInternational Trade established by section 2072 of this title and as in effect on the day before February 24, 2016.
+&emsp;&emsp;In this paragraph, the term "Office of International Trade" means the Office of International Trade established by section 2072 of this title and as in effect on the day before February 24, 2016.
 
 #### (2) Other transfers
 
@@ -70,9 +70,13 @@ In this section, the terms "customs and trade laws of the United States", "trade
 
 (Mar. 3, 1927, ch. 348, §4, as added Pub. L. 114–125, title VIII, §802(h)(1), Feb. 24, 2016, 130 Stat. 213.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 4 of act March 3, 1927, was classified to section 281c of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378. Subsection (a) of section 4 was transferred to section 163 of Title 21, Food and Drugs, prior to the omission of section 163 from the Code on the authority of Reorg. Plan No. 1 of 1968, eff. Apr. 8, 1968, 33 F.R. 5611, 82 Stat. 1367, set out in the Appendix to Title 5.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Continuation in Office
 

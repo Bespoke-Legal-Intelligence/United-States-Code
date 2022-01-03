@@ -118,7 +118,7 @@ Covered air transportation.—The term "covered air transportation" means schedu
 
 Tarmac delay.—The term "tarmac delay" means the period during which passengers are on board an aircraft on the tarmac—
 
-&emsp;&emsp;(A) awaiting takeoff after the aircraft doors have been closed or after passengers have been boarded if the passengers have not been advised they are free to deplane; or
+&emsp;&emsp;(A) awaiting takeoff after the aircraft doors have been closed or after passengershave been boarded if the passengers have not been advised they are free to deplane; or
 
 &emsp;&emsp;(B) awaiting deplaning after the aircraft has landed.
 
@@ -132,6 +132,8 @@ Excessive tarmac delay.—The term "excessive tarmac delay" means a tarmac delay
 
 (Added Pub. L. 112–95, title IV, §415(a), Feb. 14, 2012, 126 Stat. 93; amended Pub. L. 114–190, title II, §2308(a), (b), July 15, 2016, 130 Stat. 648.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this section, referred to in subsec. (a), is the date of enactment of Pub. L. 112–95, which was approved Feb. 14, 2012.
@@ -143,6 +145,8 @@ The date of enactment of this section, referred to in subsec. (a), is the date o
 Subsec. (b)(3)(D). Pub. L. 114–190, §2308(a)(1), (3), redesignated subpar. (C) as (D) and substituted "subparagraphs (A), (B), and (C)" for "subparagraphs (A) and (B)" in introductory provisions.
 
 Subsec. (i)(4). Pub. L. 114–190, §2308(b), amended par. (4) generally. Prior to amendment, text read as follows: "The term 'excessive tarmac delay' means a tarmac delay that lasts for a length of time, as determined by the Secretary."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -54,7 +54,7 @@ The President is not required to provide import relief under this section if the
 
 When import relief under this section is terminated with respect to an article—
 
-&emsp;(1) the rate of duty on that article after such termination and on or before December 31 of the year in which such termination occurs shall be the rate that, according to the Schedule of the United States to Annex 3.3 of the Agreement would have been in effect 1 year after the provision of relief under subsection (a); and
+&emsp;(1) the rate of duty on that article after such termination and on or before December 31 ofthe year in which such termination occurs shall be the rate that, according to the Schedule of the United States to Annex 3.3 of the Agreement would have been in effect 1 year after the provision of relief under subsection (a); and
 
 &emsp;(2) the rate of duty for that article after December 31 of the year in which termination occurs shall be, at the discretion of the President, either—
 
@@ -76,9 +76,13 @@ No import relief may be provided under this section on—
 
 <i>For termination of section by section 107(d) of Pub. L. 109–53, see Effective and Termination Dates note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Trade Act of 1974, referred to in subsec. (f)(1), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Chapter 1 of title II of the Act is classified generally to part 1 (§2251 et seq.) of subchapter II of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective and Termination Dates
 

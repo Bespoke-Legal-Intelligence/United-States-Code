@@ -50,7 +50,7 @@ A State may, subject to subsection (f), use amounts provided under a grant award
 
 &emsp;&emsp;&emsp;(i) assurances that service needs will be addressed through the coordination and expansion of existing programs before new programs are created;
 
-&emsp;&emsp;&emsp;(ii) assurances that, in metropolitan areas, the geographic area to be served by the consortium corresponds to the geographic boundaries of local health and support services delivery systems to the extent practicable;
+&emsp;&emsp;&emsp;(ii) assurances that, in metropolitan areas, the geographic area to be served bythe consortium corresponds to the geographic boundaries of local health and support services delivery systems to the extent practicable;
 
 &emsp;&emsp;&emsp;(iii) assurances that, in the case of services for individuals residing in rural areas, the applicant consortium shall deliver case management services that link available community support services to appropriate specialized medical services; and
 
@@ -86,7 +86,7 @@ A State may, subject to subsection (f), use amounts provided under a grant award
 
 #### (d) "Family centered care" defined
 
-As used in section 300ff–21 of this title, the term "family centered care" means the systemof services described in this section that is targeted specifically to the special needs of infants, children, women, and families. Family centered care shall be based on a partnership between parents, professionals, and the community designed to ensure an integrated, coordinated, culturally sensitive, and community-based continuum of care for children, women, and families with HIV/AIDS.
+As used in section 300ff–21 of this title, the term "family centered care" means the system of services described in this section that is targeted specifically to the special needs of infants, children, women, and families. Family centered care shall be based on a partnership between parents, professionals, and the community designed to ensure an integrated, coordinated, culturally sensitive, and community-based continuum of care for children, women, and families with HIV/AIDS.
 
 #### (e) Priority
 
@@ -101,6 +101,8 @@ In providing assistance under subsection (a), the State shall, among applicants 
 For purposes of the requirement of section 300ff–22(b)(1) of this title, expenditures of grants under section 300ff–21 of this title for or through consortia under this section are deemed to be support services, not core medical services. The preceding sentence may not be construed as having any legal effect on the provisions of subsection (a) that relate to authorized expenditures of the grant.
 
 (July 1, 1944, ch. 373, title XXVI, §2613, as added Pub. L. 101–381, title II, §201, Aug. 18, 1990, 104 Stat. 586; amended Pub. L. 104–146, §3(c)(2), May 20, 1996, 110 Stat. 1354; Pub. L. 106–345, title II, §203, Oct. 20, 2000, 114 Stat. 1331; Pub. L. 109–415, title II, §§201(b), 204(a), title VII, §§702(3), 703, Dec. 19, 2006, 120 Stat. 2787, 2796, 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -141,6 +143,8 @@ Subsec. (a)(2)(A). Pub. L. 104–146, §3(c)(2)(A)(ii), inserted "substance abus
 Subsec. (c)(1)(C). Pub. L. 104–146, §3(c)(2)(B)(i), inserted "and youth centered" after "family centered".
 
 Subsec. (c)(2)(C). Pub. L. 104–146, §3(c)(2)(B)(ii), added subpar. (C).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment; Revival of Section
 

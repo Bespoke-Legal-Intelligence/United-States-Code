@@ -40,7 +40,7 @@ Section 11332 of title 40, referred to in par. (8)(B), was repealed by Pub. L. 1
 
 #### Prior Provisions
 
-A prior section 3501, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2812; amended Pub. L. 99–500, §101(m)\[title VIII, §811\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–335, and Pub. L. 99–591, §101(m) \[title VIII, §811\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–335, related to purposes of this chapter prior to the general amendment of this chapter by Pub. L. 104–13.
+A prior section 3501, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2812; amended Pub. L. 99–500, §101(m) \[title VIII, §811\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–335, and Pub. L. 99–591, §101(m) \[title VIII, §811\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–335, related to purposes of this chapter prior to the general amendment of this chapter by Pub. L. 104–13.
 
 Another prior section 3501, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1302, related to information for Federal agencies, prior to the general amendment of this chapter by Pub. L. 96–511.
 
@@ -128,7 +128,7 @@ Requirements for New Websites and Digital Services.—Not later than 180 days af
 
 "(b)
 
-Requirements for Existing Executive Agency Websites and Digital Services.—Not later than 1 year after the date of enactment of this Act, the head of each executive agency that maintains a website or digital service that is made available to the public shall—
+Requirements for Existing Executive Agency Websites and Digital Services.—Not later than 1 yearafter the date of enactment of this Act, the head of each executive agency that maintains a website or digital service that is made available to the public shall—
 
 &emsp;"(1) review each website or digital service; and
 
@@ -160,7 +160,7 @@ Compliance With United States Website Standards.—Any website of an executive a
 
 "(a)
 
-Non-Digital Services.—Not later than 180 days after the date of enactment of this Act \[Dec. 20, 2018\],the Director shall issue guidance to the head of each executive agency that establishes a process for the executive agency to—
+Non-Digital Services.—Not later than 180 days after the date of enactment of this Act \[Dec. 20, 2018\], the Director shall issue guidance to the head of each executive agency that establishes a process for the executive agency to—
 
 &emsp;"(1) identify public non-digital, paper-based, or in-person Government services; and
 
@@ -262,7 +262,7 @@ In General.—The head of each agency shall be responsible for—
 
 Performance Integration.—
 
-&emsp;"(1) Agencies shall develop performance measures that demonstrate how electronic government enablesprogress toward agency objectives, strategic goals, and statutory mandates.
+&emsp;"(1) Agencies shall develop performance measures that demonstrate how electronic government enables progress toward agency objectives, strategic goals, and statutory mandates.
 
 &emsp;"(2) In measuring performance under this section, agencies shall rely on existing data collections to the extent practicable.
 
@@ -358,7 +358,7 @@ Authority for Electronic Signatures.—The Administrator of General Services sha
 
 "(d)
 
-Authorization of Appropriations.—There are authorized to be appropriated to the General Services Administration, to ensure the development and operation of a Federal bridge certification authority for digital signature compatibility, and for other activities consistent with this section, $8,000,000 or such sums as are necessary in fiscal year 2003, and such sums as are necessary for each fiscal year thereafter.
+Authorization of Appropriations.—There are authorized to be appropriated to the General Services Administration, to ensure the development and operation of a Federal bridge certification authority for digital signature compatibility, and for other activitiesconsistent with this section, $8,000,000 or such sums as are necessary in fiscal year 2003, and such sums as are necessary for each fiscal year thereafter.
 
 #### "SEC. 204. FEDERAL INTERNET PORTAL.
 
@@ -1068,7 +1068,7 @@ Exchange program defined.—For purposes of this subsection, the term 'exchange 
 
 &emsp;"(2)
 
-Reporting requirement.—Not later than 1 year after the date of the enactment of this Act \[Dec. 17, 2002\], the Office of Personnel Management shall prepare and submit to the Committee on Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives and the Committee onGovernmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate a report identifying all existing exchange programs.
+Reporting requirement.—Not later than 1 year after the date of the enactment of this Act \[Dec. 17, 2002\], the Office of Personnel Management shall prepare and submit to the Committee on Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives and the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate a report identifying all existing exchange programs.
 
 &emsp;"(3)
 
@@ -1670,7 +1670,7 @@ Accordingly, I direct the following:
 
 (4) Agencies shall also work with the Steering Committee to develop new content for BusinessUSA that synthesizes information available across agencies to better serve small businesses and exporters. Among other things, agencies shall work together to aggregate on the BusinessUSA platform statistical, demographic, and other raw Government datasets of particular interest to small businesses and exporters, making Government data more easily accessible and spurring innovative uses of the data through business-oriented web or mobile applications.
 
-(5) Agencies shall integrate BusinessUSA, including ready access to the BusinessUSA website, into their current websites, call centers, and field offices to ensure that small businesses and exporters have access to the wide range of Government programs and services at each entry point into the Federal Government. During the year following the date of this memorandum, agencies shall work with GSA and the Office of Management and Budget to enhance the centralized call center for responding to public questions about Federal programs and services (1–800–FED–INFO) to add expertise with Government programs and services for small businesses and exporters.
+(5) Agencies shall integrate BusinessUSA, including ready access to the BusinessUSA website, into their current websites, call centers, and field offices to ensure that small businesses and exporters have access to the wide range of Government programs and services at each entry point into the Federal Government. During the year following the date of this memorandum, agencies shall work with GSA and the Office of Management and Budget to enhance the centralized call center forresponding to public questions about Federal programs and services (1–800–FED–INFO) to add expertise with Government programs and services for small businesses and exporters.
 
 (6) (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
 

@@ -4,6 +4,8 @@ This chapter may be cited as the "Commodity Exchange Act."
 
 (Sept. 21, 1922, ch. 369, §1, 42 Stat. 998; June 15, 1936, ch. 545, §1, 49 Stat. 1491.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 This chapter superseded act Aug. 24, 1921, ch. 86, 42 Stat. 187, known as "The Future Trading Act," which act was declared unconstitutional, at least in part, in <i>Hill v. Wallace</i>, Ill. 1922, 42 S.Ct. 453, 259 U.S. 44, 66 L.Ed. 822. Section 3 of that act was found unconstitutional as imposing a penalty in <i>Trusler v. Crooks</i>, Mo. 1926, 46 S.Ct. 165, 269 U.S. 475, 70 L.Ed. 365.
@@ -11,6 +13,8 @@ This chapter superseded act Aug. 24, 1921, ch. 86, 42 Stat. 187, known as "The F
 #### Amendments
 
 <b>1936</b>—Act June 15, 1936, substituted "Commodity Exchange Act" for "The Grain Futures Act".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1936 Amendment
 
@@ -58,7 +62,7 @@ Pub. L. 93–463, §1, Oct. 23, 1974, 88 Stat. 1389, provided: "That this Act \[
 
 #### Savings Provisions for 2000 Amendment
 
-Pub. L. 106–554, §1(a)(5) \[title III, §304\], Dec. 21, 2000, 114 Stat. 2763, 2763A–457, provided that: "Nothing in this Act \[see Short Title of 2000 Amendment note above\] or the amendments made by this Act shall be construed as finding or implying that any swap agreement is or is not a security for any purpose under the securities laws. Nothing in this Act or the amendments made by this Act shall be construed as finding or implying that any swap agreement is or is not a futures contract or commodity option for any purpose under the Commodity Exchange Act \[7 U.S.C. 1 et seq.\]."
+Pub. L. 106–554, §1(a)(5) \[title III, §304\], Dec. 21, 2000, 114 Stat. 2763, 2763A–457, provided that: "Nothing in this Act \[see Short Title of 2000 Amendment note above\] or the amendments made by this Act shall be construed as finding or implying that any swap agreement is or is not a security for any purpose under the securitieslaws. Nothing in this Act or the amendments made by this Act shall be construed as finding or implying that any swap agreement is or is not a futures contract or commodity option for any purpose under the Commodity Exchange Act \[7 U.S.C. 1 et seq.\]."
 
 #### Construction of 2000 Amendment
 

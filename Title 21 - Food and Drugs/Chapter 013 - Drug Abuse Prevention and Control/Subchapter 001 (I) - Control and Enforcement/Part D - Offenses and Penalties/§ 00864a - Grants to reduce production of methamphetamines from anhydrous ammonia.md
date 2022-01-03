@@ -24,7 +24,7 @@ In this section:
 
 #### (b) Grant authority
 
-The Secretary may make a grant to an eligible entity to enable the eligible entity to obtainand add to an anhydrous ammonia fertilizer nurse tank a physical lock or a substance to reduce the amount of methamphetamine that can be produced from any anhydrous ammonia removed from the nurse tank.
+The Secretary may make a grant to an eligible entity to enable the eligible entity to obtain and add to an anhydrous ammonia fertilizer nurse tank a physical lock or a substance to reduce the amount of methamphetamine that can be produced from any anhydrous ammonia removed from the nurse tank.
 
 #### (c) Grant amount
 

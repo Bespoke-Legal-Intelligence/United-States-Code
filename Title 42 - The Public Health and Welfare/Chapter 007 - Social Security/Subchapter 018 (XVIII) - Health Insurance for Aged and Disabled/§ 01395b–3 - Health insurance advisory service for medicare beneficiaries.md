@@ -66,6 +66,8 @@ The Secretary shall include, in an annual report transmitted to the Congress, a 
 
 (Pub. L. 101–508, title IV, §4359, Nov. 5, 1990, 104 Stat. 1388–137; Pub. L. 108–173, title IX, §900(e)(6)(G), Dec. 8, 2003, 117 Stat. 2374.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Omnibus Budget Reconciliation Act of 1990, and not as part of the Social Security Act which comprises this chapter.
@@ -73,6 +75,8 @@ Section was enacted as part of the Omnibus Budget Reconciliation Act of 1990, an
 #### Amendments
 
 <b>2003</b>—Subsec. (d). Pub. L. 108–173 substituted "Centers for Medicare \& Medicaid Services" for "Health Care Financing Administration".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### State Health Insurance Assistance Program Reporting Requirements
 
@@ -84,7 +88,7 @@ Pub. L. 115–123, div. E, title II, §50207(b), Feb. 9, 2018, 132 Stat. 187, pr
 
 #### Medicare Enrollment Assistance
 
-Pub. L. 110–275, title I, §119, July 15, 2008, 122 Stat. 2508, as amended by Pub. L. 111–148, title III, §3306, Mar. 23, 2010, 124 Stat. 470; Pub. L. 112–240, title VI, §610, Jan. 2, 2013, 126 Stat. 2351; Pub. L. 113–67, div. B, title I, §1110, Dec. 26, 2013, 127 Stat. 1198; Pub. L. 113–93, title I, §110, Apr. 1, 2014, 128 Stat. 1043; Pub. L. 114–10, title II, §208, Apr. 16, 2015, 129 Stat. 145; Pub. L. 115–123, div. E, title II, §50207(a), Feb. 9, 2018, 132 Stat. 186; Pub. L. 116–59, div. B, title IV, §1402, Sept. 27, 2019, 133 Stat. 1106; Pub. L. 116–69, div. B, title IV, §1402, Nov. 21, 2019, 133 Stat. 1138; Pub. L. 116–94, div. N, title I, §103, Dec. 20, 2019, 133 Stat. 3096; Pub. L. 116–136, div. A, title III, §3803(a), Mar. 27, 2020, 134 Stat. 428; Pub. L. 116–159, div. C, title II, §2203, Oct. 1, 2020, 134 Stat. 730; Pub. L. 116–215, div. B, title I, §1102, Dec. 11, 2020, 134 Stat. 1042; Pub. L. 116–260, div. CC, title I, §103, Dec. 27, 2020, 134 Stat. 2942, provided that:
+Pub. L. 110–275, title I, §119, July 15, 2008, 122 Stat. 2508, as amended by Pub. L. 111–148, title III, §3306, Mar. 23, 2010, 124 Stat. 470; Pub. L. 112–240, title VI, §610, Jan. 2, 2013, 126 Stat. 2351; Pub. L. 113–67, div. B, title I, §1110, Dec. 26, 2013, 127 Stat. 1198; Pub. L. 113–93, title I, §110, Apr. 1, 2014, 128 Stat. 1043; Pub. L. 114–10, title II, §208, Apr. 16, 2015, 129 Stat. 145; Pub. L. 115–123, div. E,title II, §50207(a), Feb. 9, 2018, 132 Stat. 186; Pub. L. 116–59, div. B, title IV, §1402, Sept. 27, 2019, 133 Stat. 1106; Pub. L. 116–69, div. B, title IV, §1402, Nov. 21, 2019, 133 Stat. 1138; Pub. L. 116–94, div. N, title I, §103, Dec. 20, 2019, 133 Stat. 3096; Pub. L. 116–136, div. A, title III, §3803(a), Mar. 27, 2020, 134 Stat. 428; Pub. L. 116–159, div. C, title II, §2203, Oct. 1, 2020, 134 Stat. 730; Pub. L. 116–215, div. B, title I, §1102, Dec. 11, 2020, 134 Stat. 1042; Pub. L. 116–260, div. CC, title I, §103, Dec. 27, 2020, 134 Stat. 2942, provided that:
 
 "(a)
 
@@ -312,7 +316,7 @@ Reprogramming Funds From Medicare, Medicaid, and SCHIP Extension Act of 2007.—
 
 "(f)
 
-Medicare Savings Program Defined.—For purposes of this section, the term 'Medicare Savings Program' means the program of medical assistance forpayment of the cost of medicare cost-sharing under the Medicaid program pursuant to sections 1902(a)(10)(E) and 1933 of the Social Security Act (42 U.S.C. 1396a(a)(10)(E), 1396u–3).
+Medicare Savings Program Defined.—For purposes of this section, the term 'Medicare Savings Program' means the program of medical assistance for payment of the cost of medicare cost-sharing under the Medicaid program pursuant to sections 1902(a)(10)(E) and 1933 of the Social Security Act (42 U.S.C. 1396a(a)(10)(E), 1396u–3).
 
 "(g)
 

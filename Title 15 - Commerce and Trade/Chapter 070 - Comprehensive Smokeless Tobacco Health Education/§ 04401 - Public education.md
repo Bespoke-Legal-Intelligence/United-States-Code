@@ -26,6 +26,8 @@ The Secretary of Health and Human Services may provide technical assistance and 
 
 (Pub. L. 99–252, §2, Feb. 27, 1986, 100 Stat. 30.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Pub. L. 99–252, §11, Feb. 27, 1986, 100 Stat. 35, provided that:

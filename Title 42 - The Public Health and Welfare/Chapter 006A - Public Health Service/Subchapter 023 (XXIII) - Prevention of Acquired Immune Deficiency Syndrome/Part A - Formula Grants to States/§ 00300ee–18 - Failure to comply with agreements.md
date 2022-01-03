@@ -36,6 +36,8 @@ The Secretary shall promptly respond to any complaint of a substantial or seriou
 
 (July 1, 1944, ch. 373, title XXV, formerly title XV, §2508, as added Pub. L. 100–607, title II, §221, Nov. 4, 1988, 102 Stat. 3099; amended Pub. L. 100–690, title II, §2619(f) \[(g)\], Nov. 18, 1988, 102 Stat. 4243; renumbered title XXV, Pub. L. 101–93, §5(e)(1), Aug. 16, 1989, 103 Stat. 612.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 2508 of act July 1, 1944, was successively renumbered by subsequent acts, see section 238g of this title.
@@ -48,7 +50,9 @@ Subsec. (b). Pub. L. 100–690, §2619(f)(2) \[(g)(2)\], inserted "of payments" 
 
 Subsecs. (d), (e)(1). Pub. L. 100–690, §2619(f)(3), (4) \[(g)(3), (4)\], substituted "300ee–13 of this title" for "300ee–17 of this title".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–690 effective immediately after enactment of Pub. L. 100–607, which was approved Nov. 4, 1988, see section 2600 of Pub. L. 100–690, set out as a note under section 242m of this title.
+Amendment by Pub. L. 100–690 effective immediately after enactment of Pub. L. 100–607, which was approvedNov. 4, 1988, see section 2600 of Pub. L. 100–690, set out as a note under section 242m of this title.
 

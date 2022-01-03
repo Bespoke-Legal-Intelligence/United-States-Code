@@ -22,7 +22,7 @@ The bureau referred to in text is known as the Office of the Comptroller of the 
 
 Section is comprised of subsec. (b), third sentence, of section 209 of act Mar. 4, 1923. For classification to this title of other provisions of section 209, see Tables.
 
-#### <b>Statutory Notes and Related Subsidiaries</b>
+#### <b>Executive Documents</b>
 
 #### Exception as to Transfer of Functions
 

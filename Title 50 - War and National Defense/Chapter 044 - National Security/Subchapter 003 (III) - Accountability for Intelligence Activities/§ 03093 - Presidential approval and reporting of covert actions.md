@@ -18,7 +18,7 @@ The President may not authorize the conduct of a covert action by departments, a
 
 To the extent consistent with due regard for the protection from unauthorized disclosure of classified information relating to sensitive intelligence sources and methods or other exceptionally sensitive matters, the Director of National Intelligence and the heads of all departments, agencies, and entities of the United States Government involved in a covert action—
 
-&emsp;(1) shall keep the congressional intelligence committees fully and currently informed of all covert actions which are the responsibility of,are engaged in by, or are carried out for or on behalf of, any department, agency, or entity of the United States Government, including significant failures; and
+&emsp;(1) shall keep the congressional intelligence committees fully and currently informed of all covert actions which are the responsibility of, are engaged in by, or are carried out for or on behalf of, any department, agency, or entity of the United States Government, including significant failures; and
 
 &emsp;(2) shall furnish to the congressional intelligence committees any information or material concerning covert actions (including the legal basis under which the covert action is being or was conducted) which is in the possession, custody, or control of any department, agency, or entity of the United States Government and which is requested by either of the congressional intelligence committees in order to carry out its authorized responsibilities.
 
@@ -38,7 +38,7 @@ To the extent consistent with due regard for the protection from unauthorized di
 
 &emsp;(i) all members of the congressional intelligence committees are provided access to the finding or notification; or
 
-&emsp;(ii) a statement of reasons that it is essential to continue to limit access to such finding or such notification to meet extraordinary circumstances affecting vital interests of the United States is submitted to the Members of Congress specified in paragraph (2).
+&emsp;(ii) a statement of reasons that it is essential to continue to limit access to such findingor such notification to meet extraordinary circumstances affecting vital interests of the United States is submitted to the Members of Congress specified in paragraph (2).
 
 #### (d) Changes in previously approved actions
 
@@ -92,6 +92,8 @@ For each type of activity undertaken as part of a covert action, the President s
 
 (July 26, 1947, ch. 343, title V, §503, as added Pub. L. 102–88, title VI, §602(a)(2), Aug. 14, 1991, 105 Stat. 442; amended Pub. L. 107–306, title III, §353(b)(3)(C), (8), Nov. 27, 2002, 116 Stat. 2402; Pub. L. 108–458, title I, §1071(a)(1)(Y), Dec. 17, 2004, 118 Stat. 3689; Pub. L. 111–259, title III, §331(c), Oct. 7, 2010, 124 Stat. 2685; Pub. L. 113–126, title III, §308, July 7, 2014, 128 Stat. 1397; Pub. L. 116–92, div. E, title LXVII, §6742(b)(12), Dec. 20, 2019, 133 Stat. 2240.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 413b of this title prior to editorial reclassification and renumbering as this section.
@@ -129,6 +131,8 @@ Subsec. (g). Pub. L. 111–259, §331(c)(4), added subsec. (g).
 Subsec. (c)(4). Pub. L. 107–306, §353(b)(8), substituted "congressional intelligence committee" for "intelligence committee".
 
 Subsec. (d). Pub. L. 107–306, §353(b)(3)(C), substituted "congressional intelligence committees" for "intelligence committees".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

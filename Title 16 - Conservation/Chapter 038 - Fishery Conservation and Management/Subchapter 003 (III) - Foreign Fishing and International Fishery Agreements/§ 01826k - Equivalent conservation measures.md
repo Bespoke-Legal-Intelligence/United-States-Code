@@ -12,7 +12,7 @@ The Secretary shall identify, and list in the report under section 1826h of this
 
 &emsp;&emsp;&emsp;(ii) beyond the exclusive economic zone of the United States that result in bycatch of a protected living marine resource shared by the United States;
 
-&emsp;&emsp;(B) the relevant international organization for the conservation and protection of suchresources or the relevant international or regional fishery organization has failed to implement effective measures to end or reduce such bycatch, or the nation is not a party to, or does not maintain cooperating status with, such organization; and
+&emsp;&emsp;(B) the relevant international organization for the conservation and protection of such resources or the relevant international or regional fishery organization has failed to implement effective measures to end or reduce such bycatch, or the nation is not a party to, or does not maintain cooperating status with, such organization; and
 
 &emsp;&emsp;(C) the nation has not adopted a regulatory program governing such fishing practices designed to end or reduce such bycatch that is comparable to that of the United States, taking into account different conditions; and
 
@@ -90,6 +90,8 @@ There are authorized to be appropriated to the Secretary for fiscal years 2007 t
 
 (Pub. L. 104–43, title VI, §610, as added Pub. L. 109–479, title IV, §403(a), Jan. 12, 2007, 120 Stat. 3630; amended Pub. L. 111–348, title I, §102(c)(1), Jan. 4, 2011, 124 Stat. 3669; Pub. L. 114–81, title I, §101(d), (f), (g)(3), (i)(5), Nov. 5, 2015, 129 Stat. 654, 655; Pub. L. 114–327, title IV, §401(d), Dec. 16, 2016, 130 Stat. 1995.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsec. (b)(1), probably means title VI of Pub. L. 104–43, Nov. 3, 1995, 109 Stat. 391, known as the High Seas Driftnet Fishing Moratorium Protection Act, which is classified generally to sections 1826d to 1826k of this title. For complete classification of title VI to the Code, see Short Title of 1995 Amendment note set out under section 1801 of this title and Tables.
@@ -100,7 +102,7 @@ The Marine Mammal Protection Act, referred to in subsec. (e)(1), probably means 
 
 The Endangered Species Act, referred to in subsec. (e)(1), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified principally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
-The Shark Finning Prohibition Act, referred to in subsec. (e)(1), is Pub. L. 106–557, Dec. 21, 2000, 114 Stat. 2772, which is set out as a note under section 1822 of this title. For complete classification of this Act to the Code, see Tables.
+The Shark Finning Prohibition Act, referred to in subsec. (e)(1), is Pub. L. 106–557, Dec. 21, 2000, 114 Stat. 2772, which is set out as a note under section 1822 ofthis title. For complete classification of this Act to the Code, see Tables.
 
 The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (e)(2), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
@@ -125,6 +127,8 @@ Subsec. (c)(5). Pub. L. 114–81, §101(f), struck out "that has not been certif
 <b>2011</b>—Subsec. (a). Pub. L. 111–348, §102(c)(1)(A), struck out ", a nation if" after "section 1826h of this title" in introductory provisions.
 
 Pub. L. 111–348, §102(c)(1)(B)–(G), redesignated pars. (1) to (3) as subpars. (A) to (C), respectively, realigned margins, inserted "(1) a nation if—" before subpar. (A), as so redesignated, redesignated former subpars. (A) and (B) of par. (1) as cls. (i) and (ii) of subpar. (A), respectively, realigned margins, and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Construction
 

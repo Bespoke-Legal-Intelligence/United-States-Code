@@ -80,7 +80,7 @@
 
 #### (A) Requests for variances
 
-&emsp;&emsp;A State or foreign country from which food is imported into the United States may in writing request a variance from the Secretary. Such request shall describe the variance requested and present information demonstrating that the variance does not increase the likelihood that the food for which the variance is requested will be adulterated under section 342 of this title, and that the variance provides the same level of public health protection as the requirements of the regulations adopted under subsection (b). The Secretary shall review such requests in a reasonable timeframe.
+&emsp;&emsp;A State or foreign country from which food is imported into the United States mayin writing request a variance from the Secretary. Such request shall describe the variance requested and present information demonstrating that the variance does not increase the likelihood that the food for which the variance is requested will be adulterated under section 342 of this title, and that the variance provides the same level of public health protection as the requirements of the regulations adopted under subsection (b). The Secretary shall review such requests in a reasonable timeframe.
 
 #### (B) Approval of variances
 
@@ -144,7 +144,7 @@ The Secretary may coordinate with the Secretary of Agriculture and, as appropria
 
 #### (A) In general
 
-&emsp;&emsp;In the event of an active investigation of a foodborne illness outbreak that is directly linked to a farm subject to an exemption under this subsection, or if the Secretary determines that it is necessary to protect the public health and prevent or mitigate a foodborne illness outbreak based on conduct or conditions associated with a farm that are material to the safety of the food produced or harvested at such farm, the Secretary may withdraw the exemption provided to such farm under this subsection.
+&emsp;&emsp;In the event of an active investigation of a foodborne illness outbreak that is directly linked to a farm subject to an exemption under this subsection, or if the Secretary determines that it is necessary to protect the public health and prevent or mitigate afoodborne illness outbreak based on conduct or conditions associated with a farm that are material to the safety of the food produced or harvested at such farm, the Secretary may withdraw the exemption provided to such farm under this subsection.
 
 #### (B) Rule of construction
 

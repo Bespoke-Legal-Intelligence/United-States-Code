@@ -42,7 +42,7 @@ The Administrator shall encourage waste treatment management which combines "ope
 
 &emsp;(B) as appropriate, the works proposed for grant assistance will take into account and allow to the extent practicable the application of technology at a later date which will provide for the reclaiming or recycling of water or otherwise eliminate the discharge of pollutants.
 
-(3) The Administrator shall not approve any grant after July 1, 1973, for treatment works under this section unless the applicant shows to the satisfaction of the Administrator that each sewer collection system discharging into such treatment works is not subject to excessive infiltration.
+(3) The Administrator shall not approve any grant after July 1, 1973, for treatment works under this section unless the applicant shows to the satisfaction of the Administrator that eachsewer collection system discharging into such treatment works is not subject to excessive infiltration.
 
 (4) The Administrator is authorized to make grants to applicants for treatment works grants under this section for such sewer system evaluation studies as may be necessary to carry out the requirements of paragraph (3) of this subsection. Such grants shall be made in accordance with rules and regulations promulgated by the Administrator. Initial rules and regulations shall be promulgated under this paragraph not later than 120 days after October 18, 1972.
 
@@ -76,7 +76,7 @@ No grant made after November 15, 1981, for a publicly owned treatment works, oth
 
 (1) After December 29, 1981, Federal grants shall not be made for the purpose of providing assistance solely for facility plans, or plans, specifications, and estimates for any proposed project for the construction of treatment works. In the event that the proposed project receives a grant under this section for construction, the Administrator shall make an allowance in such grant for non-Federal funds expended during the facility planning and advanced engineering and design phase at the prevailing Federal share under section 1282(a) of this title, based on the percentage of total project costs which the Administrator determines is the general experience for such projects.
 
-(2)(A) Each State shall use a portion of the funds allotted to such State each fiscal year, but not to exceed 10 per centum of such funds, to advance to potential grant applicants under this subchapter the costs of facility planning or the preparation of plans, specifications, and estimates.
+(2)(A) Each State shall use a portion of the funds allotted to such State each fiscal year, butnot to exceed 10 per centum of such funds, to advance to potential grant applicants under this subchapter the costs of facility planning or the preparation of plans, specifications, and estimates.
 
 (B) Such an advance shall be limited to the allowance for such costs which the Administrator establishes under paragraph (1) of this subsection, and shall be provided only to a potential grant applicant which is a small community and which in the judgment of the State would otherwise be unable to prepare a request for a grant for construction costs under this section.
 
@@ -94,7 +94,7 @@ No grant made after November 15, 1981, for a publicly owned treatment works, oth
 
 (1) On and after October 1, 1984, upon the request of the Governor of an affected State, the Administrator is authorized to use funds available to such State under section 1285 of this title to address water quality problems due to the impacts of discharges from combined storm water and sanitary sewer overflows, which are not otherwise eligible under this subsection, where correction of such discharges is a major priority for such State.
 
-(2) Beginning fiscal year 1983, the Administrator shall have available $200,000,000 per fiscal year in addition to those funds authorized insection 1287 of this title to be utilized to address water quality problems of marine bays and estuaries subject to lower levels of water quality due to the impacts of discharges from combined storm water and sanitary sewer overflows from adjacent urban complexes, not otherwise eligible under this subsection. Such sums may be used as deemed appropriate by the Administrator as provided in paragraphs (1) and (2) of this subsection, upon the request of and demonstration of water quality benefits by the Governor of an affected State.
+(2) Beginning fiscal year 1983, the Administrator shall have available $200,000,000 per fiscal year in addition to those funds authorized in section 1287 of this title to be utilized to address water quality problems of marine bays and estuaries subject to lower levels of water quality due to the impacts of discharges from combined storm water and sanitary sewer overflows from adjacent urban complexes, not otherwise eligible under this subsection. Such sums may be used as deemed appropriate by the Administrator as provided in paragraphs (1) and (2) of this subsection, upon the request of and demonstration of water quality benefits by the Governor of an affected State.
 
 #### (o) Capital financing plan
 
@@ -132,7 +132,7 @@ Subsec. (n). Pub. L. 97–117, §5, added subsec. (n).
 
 Subsec. (o). Pub. L. 97–117, §6, added subsec. (o).
 
-<b>1980</b>—Subsec. (h). Pub. L. 96–483, §2(d), struck out text following par. (3), relating to payment to the United States by commercial users of that portion of the cost of construction applicable to treatment of commercial wastes to the extent attributable to the Federal share of the cost of construction.
+<b>1980</b>—Subsec. (h). Pub. L. 96–483, §2(d), struck out text following par. (3), relating to payment to the United States by commercial users of that portion of the cost of construction applicable to treatment of commercialwastes to the extent attributable to the Federal share of the cost of construction.
 
 Subsec. (k). Pub. L. 96–483, §3, added subsec. (k).
 
@@ -244,7 +244,7 @@ Pub. L. 102–139, title III, Oct. 28, 1991, 105 Stat. 762.
 
 Pub. L. 101–507, title III, Nov. 5, 1990, 104 Stat. 1372.
 
-Pub. L. 104–134, title I, §101(e) \[title III\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–299; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided in part: "That beginning in fiscal year 1996 and each fiscal year thereafter, and notwithstanding any other provision of law, the Administrator is authorized to make grants annually from funds appropriated under this heading \["
+Pub. L. 104–134, title I, §101(e) \[title III\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–299; renumbered title I, Pub. L.104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided in part: "That beginning in fiscal year 1996 and each fiscal year thereafter, and notwithstanding any other provision of law, the Administrator is authorized to make grants annually from funds appropriated under this heading \["
 
 Environmental Protection Agency" and "
 
@@ -264,7 +264,7 @@ Pub. L. 92–500, §12, Oct. 18, 1972, 86 Stat. 899, as amended by Pub. L. 97–
 
 "(a) \[Short Title\] This section may be cited as the Environmental Financing Act of 1972.
 
-"(b) \[Establishment\] There is hereby created a body corporate to be known as the Environmental FinancingAuthority, which shall have succession until dissolved by Act of Congress. The Authority shall be subject to the general supervision and direction of the Secretary of the Treasury. The Authority shall be an instrumentality of the United States Government and shall maintain such offices as may be necessary or appropriate in the conduct of its business.
+"(b) \[Establishment\] There is hereby created a body corporate to be known as the Environmental Financing Authority, which shall have succession until dissolved by Act of Congress. The Authority shall be subject to the general supervision and direction of the Secretary of the Treasury. The Authority shall be an instrumentality of the United States Government and shall maintain such offices as may be necessary or appropriate in the conduct of its business.
 
 "(c) \[Congressional Declaration of Purpose\] The purpose of this section is to assure that inability to borrow necessary funds on reasonable terms does not prevent any State or local public body from carrying out any project for construction of waste treatment works determined eligible for assistance pursuant to subsection (e) of this section.
 

@@ -1,5 +1,7 @@
 ### §1971. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 1971 was editorially reclassified as section 10101 of Title 52, Voting and Elections.

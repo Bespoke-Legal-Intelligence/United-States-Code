@@ -16,13 +16,13 @@ The administering authority shall provide information to the public upon request
 
 #### (2) Request by interested party regarding prohibited subsidy
 
-&emsp;An interested party may request that the administering authority determine if there is reason to believe that merchandise produced in a WTO member country is benefiting from a subsidy which is prohibited under Article 3 of the Subsidies Agreement. The request shall contain such information as the administering authority may require to support the allegations contained in the request. If the administering authority, after analyzing the request and other information reasonably available to the administering authority, determines that there is reason to believe that such merchandise is benefiting from a subsidy which is prohibited under Article 3 of the Subsidies Agreement, the administering authority shall so notify the Trade Representative, and shall include supporting information with the notification.
+&emsp;An interested party may request that the administering authority determine if there is reason to believe that merchandise producedin a WTO member country is benefiting from a subsidy which is prohibited under Article 3 of the Subsidies Agreement. The request shall contain such information as the administering authority may require to support the allegations contained in the request. If the administering authority, after analyzing the request and other information reasonably available to the administering authority, determines that there is reason to believe that such merchandise is benefiting from a subsidy which is prohibited under Article 3 of the Subsidies Agreement, the administering authority shall so notify the Trade Representative, and shall include supporting information with the notification.
 
 #### (c) Subsidies actionable under Agreement
 
 #### (1) In general
 
-&emsp;If the administering authority determines pursuant to title VII of the Tariff Act of 1930\[19 U.S.C. 1671 et seq.\] that a class or kind of merchandise is benefiting from a subsidy described in Article 6.1 of the Subsidies Agreement, the administering authority shall notify the Trade Representative, and shall provide the Trade Representative with the information upon which the administering authority based its determination.
+&emsp;If the administering authority determines pursuant to title VII of the Tariff Act of 1930 \[19 U.S.C. 1671 et seq.\] that a class or kind of merchandise is benefiting from a subsidy described in Article 6.1 of the Subsidies Agreement, the administering authority shall notify the Trade Representative, and shall provide the Trade Representative with the information upon which the administering authority based its determination.
 
 #### (2) Request by interested party regarding adverse effects
 
@@ -88,7 +88,7 @@ On the basis of the notification and information provided by the administering a
 
 #### (F) Noncompliance with Committee recommendation
 
-&emsp;&emsp;In the event that the Subsidies Committee makes a recommendation under Article 9.4 of the Subsidies Agreement and the WTO member country with respect to which such recommendation is made does not comply with such recommendation within 6 months after the date of the recommendation, the Trade Representative shall make a determination under section 304(a)(1) of the Trade Act of 1974 (19 U.S.C. 2414(a)(1)) regarding what action to take under section 301(a) of that Act \[19 U.S.C. 2411(a)\].
+&emsp;&emsp;In the event that the Subsidies Committee makes a recommendation under Article 9.4 of the Subsidies Agreement and the WTO member country with respect to which such recommendation is made does not comply with such recommendation within 6 months after the date of the recommendation, theTrade Representative shall make a determination under section 304(a)(1) of the Trade Act of 1974 (19 U.S.C. 2414(a)(1)) regarding what action to take under section 301(a) of that Act \[19 U.S.C. 2411(a)\].
 
 #### (f) Notification, consultation, and publication
 
@@ -98,7 +98,7 @@ On the basis of the notification and information provided by the administering a
 
 #### (2) Publication in the Federal Register
 
-&emsp;The administering authority shall publish regularly in the Federal Register a summarynotice of any information submitted or report made pursuant to Article 8.3 or 8.4 of the Subsidies Agreement regarding notified subsidy programs.
+&emsp;The administering authority shall publish regularly in the Federal Register a summary notice of any information submitted or report made pursuant to Article 8.3 or 8.4 of the Subsidies Agreement regarding notified subsidy programs.
 
 #### (3) Consultations with Congress and private sector
 
@@ -174,9 +174,11 @@ Notwithstanding any other provision of law, the administering authority may prov
 
 (Pub. L. 103–465, title II, §281, Dec. 8, 1994, 108 Stat. 4922; Pub. L. 104–295, §20(b)(13), Oct. 11, 1996, 110 Stat. 3527.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Tariff Act of 1930, referred to in subsecs. (b)(1), (c)(1), and (e)(2)(B), is act June 17, 1930, ch. 497, 46 Stat. 590, as amended. Title VII of the Act is classified generally to subtitle IV (§1671 et seq.) of chapter 4 of this title. Subtitles A and C of title VII of the Act are classified generally to parts I (§1671 et seq.) and III (§1675 et seq.), respectively, of subtitle IV of chapter 4 of this title. For complete classification of this Act to the Code, see section 1654 of this title and Tables.
+The Tariff Act of 1930, referred to in subsecs. (b)(1), (c)(1), and (e)(2)(B), is act June 17, 1930, ch. 497, 46 Stat.590, as amended. Title VII of the Act is classified generally to subtitle IV (§1671 et seq.) of chapter 4 of this title. Subtitles A and C of title VII of the Act are classified generally to parts I (§1671 et seq.) and III (§1675 et seq.), respectively, of subtitle IV of chapter 4 of this title. For complete classification of this Act to the Code, see section 1654 of this title and Tables.
 
 The Trade Act of 1974, referred to in subsec. (d), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Title III of the Act is classified principally to subchapter III (§2411 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
 
@@ -187,6 +189,8 @@ This subchapter, referred to in subsec. (i), was in the original "this part", me
 #### Amendments
 
 <b>1996</b>—Subsec. (h)(4). Pub. L. 104–295 struck out "(A)," after "1677(9)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

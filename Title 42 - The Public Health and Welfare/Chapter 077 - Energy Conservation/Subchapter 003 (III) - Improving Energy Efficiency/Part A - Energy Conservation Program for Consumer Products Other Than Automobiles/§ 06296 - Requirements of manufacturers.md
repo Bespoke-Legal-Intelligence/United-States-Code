@@ -36,9 +36,11 @@ Each manufacturer shall use labels reflecting the range data required to be disc
 
 (2) The Secretary shall exercise authority under this section in a manner designed to minimize unnecessary burdens on manufacturers of covered products.
 
-(3) The provisions of section 796(d) of title 15 shall apply with respect to information obtained under this subsection to the same extent and in the same manner as they apply with respect toenergy information obtained under section 796 of title 15.
+(3) The provisions of section 796(d) of title 15 shall apply with respect to information obtained under this subsection to the same extent and in the same manner as they apply with respect to energy information obtained under section 796 of title 15.
 
 (Pub. L. 94–163, title III, §326, Dec. 22, 1975, 89 Stat. 926; Pub. L. 95–619, title IV, §425(d), title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3265, 3288; Pub. L. 100–12, §§6, 11(a)(2), (b)(3), Mar. 17, 1987, 101 Stat. 117, 125; Pub. L. 102–486, title I, §123(g), Oct. 24, 1992, 106 Stat. 2829.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

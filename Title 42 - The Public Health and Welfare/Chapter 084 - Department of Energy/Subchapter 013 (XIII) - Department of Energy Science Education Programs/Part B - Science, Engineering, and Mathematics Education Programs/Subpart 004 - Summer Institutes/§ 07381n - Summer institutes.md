@@ -128,6 +128,8 @@ There are authorized to be appropriated to carry out this section—
 
 (Pub. L. 101–510, div. C, title XXXI, §3185, as added Pub. L. 110–69, title V, §5003(d)(3), Aug. 9, 2007, 121 Stat. 609; amended Pub. L. 111–358, title IX, §901(b), Jan. 4, 2011, 124 Stat. 4044.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Subsec. (f)(4). Pub. L. 111–358 added par. (4).

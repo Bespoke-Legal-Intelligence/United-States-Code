@@ -86,6 +86,8 @@ In subsection (e), the first 37 words are substituted for 5:150j (33 words after
 
 In subsection (f), the words "Soldiers' Home" are inserted, since, as provided in section 4713 of this title, the Home is now the place where the mentioned articles are sent.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4712 of this title as this section.
@@ -119,6 +121,8 @@ Subsec. (f). Pub. L. 101–510, §1533(a)(6)(B), struck out "for transmission to
 <b>1980</b>—Subsecs. (a)(2), (f). Pub. L. 96–513 substituted "United States Soldiers' and Airmen's Home" for "Soldiers' Home".
 
 <b>1966</b>—Subsec. (a). Pub. L. 89–718 substituted "military law" for "the court-martial jurisdiction of the Army or the Air Force".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

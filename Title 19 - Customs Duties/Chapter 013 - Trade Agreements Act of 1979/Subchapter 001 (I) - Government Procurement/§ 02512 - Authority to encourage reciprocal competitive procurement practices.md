@@ -70,13 +70,15 @@ Notwithstanding subsection (a), but in furtherance of the objective of encouragi
 
 (Pub. L. 96–39, title III, §302, July 26, 1979, 93 Stat. 236; Pub. L. 103–182, title III, §381(b), Dec. 8, 1993, 107 Stat. 2129; Pub. L. 103–465, title III, §343(a), (b), Dec. 8, 1994, 108 Stat. 4954, 4955.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 In subsec. (c)(2)(B), "chapter 83 of title 41" substituted for "title III of the Act of March 3, 1933 (41 U.S.C. 10a et seq.), commonly referred to as the Buy American Act" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–465, §343(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: "With respect to procurement covered by the Agreement, the President, in order to encourage additional countries to become parties to the Agreement and to provide appropriate reciprocal competitive government procurement opportunities to United States products and suppliers of such products—
+<b>1994</b>—Subsec. (a). Pub. L. 103–465, §343(a), amended heading and text of subsec. (a) generally. Prior toamendment, text read as follows: "With respect to procurement covered by the Agreement, the President, in order to encourage additional countries to become parties to the Agreement and to provide appropriate reciprocal competitive government procurement opportunities to United States products and suppliers of such products—
 
 &emsp;"(1) shall prohibit the procurement, after the date on which any waiver under section 2511(a) of this title first takes effect, of products (A) which are products of a foreign country or instrumentality which is not designated pursuant to section 2511(b) of this title, and (B) which are products covered under the Agreement for procurement by the United States; and
 
@@ -88,11 +90,13 @@ Subsec. (b)(1). Pub. L. 103–465, §343(b)(1), amended par. (1) generally. Prio
 
 <b>1993</b>—Subsec. (a)(1). Pub. L. 103–182 substituted "are products covered under the Agreement for procurement by the United States" for "would otherwise be eligible products".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 1994 Amendment
 
@@ -109,6 +113,8 @@ Section 342(g).—The amendments made by section 342(g) \[amending provisions se
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States (Jan. 1, 1994), see section 381(e) of Pub. L. 103–182, formerly set out as a note under section 2511 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

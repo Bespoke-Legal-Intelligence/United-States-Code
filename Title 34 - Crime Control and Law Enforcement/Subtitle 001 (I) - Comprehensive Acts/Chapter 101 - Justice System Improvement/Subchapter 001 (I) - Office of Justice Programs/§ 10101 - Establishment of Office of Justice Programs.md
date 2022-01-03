@@ -32,6 +32,16 @@ Pub. L. 98–473, title II, §609AA, Oct. 12, 1984, 98 Stat. 2107, provided that
 
 "(2) Section 609Z \[repealing section 204 of Pub. L. 98–411, which had amended sections 10281, 10282, and 10284 of this title and enacted provisions set out as a note under section 10281 of this title\] shall take effect on October 1, 1984."
 
+#### Short Title of 2021 Amendment
+
+Pub. L. 117–61, §1, Nov. 18, 2021, 135 Stat. 1474, provided that: "This Act \[amending sections 10225, 10281, 10284, 10285, 10288, and 10306 of this title, and enacting and amending provisions set out as notes under section 10281 of this title\] may be cited as the 'Protecting America's First Responders Act of 2021'."
+
+Pub. L. 117–60, §1, Nov. 18, 2021, 135 Stat. 1470, provided that: "This Act \[enacting chapter 509 of this title\] may be cited as the 'Confidentiality Opportunities for Peer Support Counseling Act' or the 'COPS Counseling Act'."
+
+Pub. L. 117–27, §1, July 22, 2021, 135 Stat. 301, provided that: "This Act \[amending sections 20101 to 20103 of this title\] may be cited as the 'VOCA Fix to Sustain the Crime Victims Fund Act of 2021'."
+
+Pub. L. 117–13, §1, May 20, 2021, 135 Stat. 265, provided that: "This Act \[enacting section 30507 of this title, amending section 249 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under section 30501 of this title\] may be cited as the 'COVID–19 Hate Crimes Act'."
+
 #### Short Title of 2020 Amendment
 
 Pub. L. 116–281, §1, Dec. 31, 2020, 134 Stat. 3381, provided that: "This Act \[enacting subchapter XLI of this chapter\] may be cited as the 'Crisis Stabilization and Community Reentry Act of 2020'."
@@ -48,7 +58,7 @@ Pub. L. 116–143, §1, June 16, 2020, 134 Stat. 644, provided that: "This Act \
 
 Pub. L. 116–104, §1, Dec. 30, 2019, 133 Stat. 3272, provided that: "This Act \[amending sections 40701, 40722, and 40723 of this title\] may be cited as the 'Debbie Smith Reauthorization Act of 2019'."
 
-Pub. L. 116–69, div. B, title VII, §1701(a), Nov. 21, 2019, 133 Stat. 1140, provided that: "This section \[amending section 20144 of this title and enacting provisions set out as notes under section 20144 of this title\] may be cited as the 'United States Victims of State Sponsored Terrorism Fund Clarification Act'."
+Pub. L. 116–69, div. B, title VII, §1701(a), Nov. 21, 2019, 133 Stat. 1140, provided that: "This section \[amendingsection 20144 of this title and enacting provisions set out as notes under section 20144 of this title\] may be cited as the 'United States Victims of State Sponsored Terrorism Fund Clarification Act'."
 
 Pub. L. 116–32, §1, July 25, 2019, 133 Stat. 1036, provided that: "This Act \[amending sections 10261 and 10491 to 10493 of this title\] may be cited as the 'Supporting and Treating Officers In Crisis Act of 2019'."
 
@@ -102,7 +112,7 @@ Pub. L. 115–50, §1, Aug. 18, 2017, 131 Stat. 1001, provided that: "This Act \
 
 Pub. L. 115–37, §1, June 2, 2017, 131 Stat. 854, provided that: "This Act \[amending section 10381 of this title\] may be cited as the 'American Law Enforcement Heroes Act of 2017'."
 
-Pub. L. 115–36, §1, June 2, 2017, 131 Stat. 849, provided that: "This Act \[enacting section 10288 of this title, amending sections 10282, 10285, and 10302 of this title, and enacting provisions set out as a note under section 10282 of this title\] may be cited as the 'Public Safety Officers' Benefits Improvement Act of 2017'."
+Pub. L. 115–36, §1, June 2, 2017, 131 Stat. 849, provided that: "This Act \[enacting section 10288 of this title,amending sections 10282, 10285, and 10302 of this title, and enacting provisions set out as a note under section 10282 of this title\] may be cited as the 'Public Safety Officers' Benefits Improvement Act of 2017'."
 
 #### Short Title of 2016 Act
 
@@ -172,7 +182,7 @@ Pub. L. 110–401, §1(a), Oct. 13, 2008, 122 Stat. 4229, provided that: "This A
 
 Pub. L. 110–400, §1, Oct. 13, 2008, 122 Stat. 4224, provided that: "This Act \[enacting sections 20916 and 20917 of this title, amending section 20981 of this title, and enacting provisions set out as a note under section 20981 of this title\] may be cited as the 'Keeping the Internet Devoid of Sexual Predators Act of 2008' or the 'KIDS Act of 2008'."
 
-Pub. L. 110–378, §1, Oct. 8, 2008, 122 Stat. 4068, provided that: "This Act \[enacting sections 11245 and 11278 of this title and amending sections 11201, 11211, 11212, 11222, 11243, 11261, 11279, and 11280 of this title\] may be cited as the 'Reconnecting Homeless Youth Act of 2008'."
+Pub. L. 110–378, §1, Oct. 8, 2008, 122 Stat. 4068, provided that: "This Act \[enacting sections 11245 and 11278 of this title and amending sections 11201, 11211, 11212, 11222, 11243, 11261, 11279, and 11280 of this title\] may becited as the 'Reconnecting Homeless Youth Act of 2008'."
 
 Pub. L. 110–360, §1, Oct. 8, 2008, 122 Stat. 4008, provided that: "This Act \[amending sections 40701, 40722, and 40723 of this title\] may be cited as the 'Debbie Smith Reauthorization Act of 2008'."
 
@@ -182,7 +192,7 @@ Pub. L. 110–315, title IX, §951, Aug. 14, 2008, 122 Stat. 3470, provided that
 
 Pub. L. 110–298, §1, July 31, 2008, 122 Stat. 2985, provided that: "This Act \[enacting chapter 503 of this title\] may be cited as the 'Law Enforcement Congressional Badge of Bravery Act of 2008'."
 
-Pub. L. 110–296, §1, July 30, 2008, 122 Stat. 2974, and Pub. L. 110–408, §1, Oct. 13, 2008, 122 Stat. 4301, providedthat: "This Act \[amending provisions set out as a note under section 40102 of this title\] may be cited as the 'Criminal History Background Checks Pilot Extension Act of 2008'."
+Pub. L. 110–296, §1, July 30, 2008, 122 Stat. 2974, and Pub. L. 110–408, §1, Oct. 13, 2008, 122 Stat. 4301, provided that: "This Act \[amending provisions set out as a note under section 40102 of this title\] may be cited as the 'Criminal History Background Checks Pilot Extension Act of 2008'."
 
 Pub. L. 110–240, §1, June 3, 2008, 122 Stat. 1560, provided that: "This Act \[amending sections 11291, 11293, and 11297 of this title and repealing section 5776a of Title 42, The Public Health and Welfare\] may be cited as the 'Protecting Our Children Comes First Act of 2007'."
 
@@ -312,7 +322,7 @@ Pub. L. 103–322, title IV, §40301, Sept. 13, 1994, 108 Stat. 1941, provided t
 
 Pub. L. 103–322, title IV, §40401, Sept. 13, 1994, 108 Stat. 1942, provided that: "This subtitle \[subtitle D (§§40401–40422) of title IV of Pub. L. 103–322, enacting part D (§12371 et seq.) of subchapter III of chapter 121 of this title\] may be cited as the 'Equal Justice for Women in the Courts Act of 1994'."
 
-Pub. L. 103–322, title XX, §200101, Sept. 13, 1994, 108 Stat. 2049, provided that: "This subtitle \[subtitle A (§§200101–200113) of title XX of Pub. L. 103–322, enacting part A (§12551 et seq.) of subchapter VII of chapter 121 of this title\] may be cited as the 'Police Corps Act'."
+Pub. L. 103–322, title XX, §200101, Sept. 13, 1994, 108 Stat. 2049, provided that: "This subtitle \[subtitle A\(§§200101–200113) of title XX of Pub. L. 103–322, enacting part A (§12551 et seq.) of subchapter VII of chapter 121 of this title\] may be cited as the 'Police Corps Act'."
 
 Pub. L. 103–322, title XX, §200201, Sept. 13, 1994, 108 Stat. 2057, provided that: "This subtitle \[subtitle B (§§200201–200210) of title XX of Pub. L. 103–322, enacting part B (§12571 et seq.) of subchapter VII of chapter 121 of this title\] may be cited as the 'Law Enforcement Scholarships and Recruitment Act'."
 
@@ -392,7 +402,7 @@ Pub. L. 91–644, §1, Jan. 2, 1971, 84 Stat. 1880, provided: "That this Act \[s
 
 #### Short Title of 1968 Act
 
-Pub. L. 90–351, §1, June 19, 1968, 82 Stat. 197, provided: "That this Act \[see Tables for classification\] may be cited as the 'Omnibus Crime Control and Safe Streets Act of 1968'."
+Pub. L. 90–351, §1, June 19, 1968, 82 Stat. 197, provided: "That this Act \[see Tables for classification\] may becited as the 'Omnibus Crime Control and Safe Streets Act of 1968'."
 
 Pub. L. 90–351, title I, §3030, as added by Pub. L. 115–76, §3(a), Nov. 2, 2017, 131 Stat. 1247, provided that: "This part \[part MM (§§3030–3036) of title I of Pub. L. 90–351, enacting subchapter XXXIX of chapter 101 of this title\] may be cited as the 'National White Collar Crime Control Act of 2017'."
 

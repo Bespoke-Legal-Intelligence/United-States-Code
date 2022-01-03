@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) whose spouse died during either of his two taxable years immediately preceding the taxable year, and
 
-&emsp;&emsp;(B) who maintains as his home a household which constitutes for the taxable year the principal place of abode (as a member of such household) of a dependent (i) who (within the meaning of section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) is a son, stepson, daughter, or stepdaughter of the taxpayer, and (ii) with respect to whom the taxpayer is entitled to a deduction for the taxable year under section 151.
+&emsp;&emsp;(B) who maintains as his home a household which constitutes for the taxable year theprincipal place of abode (as a member of such household) of a dependent (i) who (within the meaning of section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) is a son, stepson, daughter, or stepdaughter of the taxpayer, and (ii) with respect to whom the taxpayer is entitled to a deduction for the taxable year under section 151.
 
 > &emsp;For purposes of this paragraph, an individual shall be considered as maintaining a household only if over half of the cost of maintaining the household during the taxable year is furnished by such individual.
 
@@ -22,7 +22,7 @@
 
 #### (3) Special rule where deceased spouse was in missing status
 
-&emsp;If an individual was in a missing status (within the meaning of section 6013(f)(3)) as aresult of service in a combat zone (as determined for purposes of section 112) and if such individual remains in such status until the date referred to in subparagraph (A) or (B), then, for purposes of paragraph (1)(A), the date on which such individual died shall be treated as the earlier of the date determined under subparagraph (A) or the date determined under subparagraph (B):
+&emsp;If an individual was in a missing status (within the meaning of section 6013(f)(3)) as a result of service in a combat zone (as determined for purposes of section 112) and if such individual remains in such status until the date referred to in subparagraph (A) or (B), then, for purposes of paragraph (1)(A), the date on which such individual died shall be treated as the earlier of the date determined under subparagraph (A) or the date determined under subparagraph (B):
 
 &emsp;&emsp;(A) the date on which the determination is made under section 556 of title 37 of the United States Code or under section 5566 of title 5 of such Code (whichever is applicable) that such individual died while in such missing status, or
 
@@ -82,7 +82,9 @@ In the case of a nonresident alien individual, the taxes imposed by sections 1 a
 
 &emsp;&emsp;<b>For definition of taxable income, see section 63.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 8; Pub. L. 88–272, title I, §112(b), Feb. 26, 1964, 78 Stat. 24; Pub. L. 91–172, title VIII, §803(b), Dec. 30, 1969, 83 Stat. 682; Pub. L. 93–597, §3(b), Jan. 2, 1975, 88 Stat. 1951; Pub. L. 94–455, title XIX, §1901(a)(1), (b)(9), Oct. 4, 1976, 90 Stat. 1764, 1795; Pub. L. 94–569, §3(a), Oct. 20, 1976, 90 Stat. 2699; Pub. L. 97–448, title III, §307(a), Jan. 12, 1983, 96 Stat. 2407; Pub. L. 98–369, div. A, title IV, §423(c)(2), July 18, 1984, 98 Stat. 801; Pub. L. 99–514, title XIII, §1301(j)(10), title XVII, §1708(a)(1), Oct. 22, 1986, 100 Stat. 2658, 2782; Pub. L. 100–647, title I, §1007(g)(13)(A), Nov. 10, 1988, 102 Stat. 3436; Pub. L. 108–311, title II, §§202, 207(1), Oct. 4, 2004, 118 Stat. 1175, 1177; Pub. L. 109–135, title IV, §412(a), Dec. 21, 2005, 119 Stat. 2636.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 8; Pub. L. 88–272, title I, §112(b), Feb. 26, 1964, 78 Stat. 24; Pub. L. 91–172, title VIII, §803(b), Dec. 30, 1969, 83 Stat. 682; Pub. L. 93–597, §3(b), Jan. 2, 1975, 88 Stat. 1951; Pub. L. 94–455, title XIX, §1901(a)(1), (b)(9), Oct. 4, 1976, 90 Stat. 1764, 1795; Pub. L. 94–569, §3(a), Oct. 20, 1976, 90 Stat. 2699; Pub. L. 97–448, title III, §307(a), Jan. 12, 1983, 96 Stat. 2407; Pub. L. 98–369, div. A, title IV, §423(c)(2), July 18, 1984, 98 Stat. 801; Pub. L. 99–514, title XIII, §1301(j)(10), title XVII, §1708(a)(1), Oct. 22, 1986, 100 Stat.2658, 2782; Pub. L. 100–647, title I, §1007(g)(13)(A), Nov. 10, 1988, 102 Stat. 3436; Pub. L. 108–311, title II, §§202, 207(1), Oct. 4, 2004, 118 Stat. 1175, 1177; Pub. L. 109–135, title IV, §412(a), Dec. 21, 2005, 119 Stat. 2636.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -135,6 +137,8 @@ Subsec. (d). Pub. L. 91–172 redesignated as subsec. (d) provisions of former s
 Subsec. (e). Pub. L. 91–172 redesignated as subsec. (e) provisions of former section 1(e).
 
 <b>1964</b>—Subsec. (a). Pub. L. 88–272 inserted reference to section 141.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

@@ -4,9 +4,13 @@ The Abraham Lincoln National Park, in the State of Kentucky, authorized by secti
 
 (Aug. 11, 1939, ch. 686, 53 Stat. 1405.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Portion of act Aug. 11, 1939, relating to Fort McHenry National Monument and Historic Shrine is set out as section 440a of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

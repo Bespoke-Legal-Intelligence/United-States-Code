@@ -4,7 +4,7 @@
 
 The Secretary of State shall impose the visa restrictions described in subsection (c) on any foreign person who the Secretary determines—
 
-&emsp;(1) is a current or former senior official of the Maduro regime, or any foreign person acting on behalf of such regime, who is knowingly responsible for, complicit in, responsible for ordering, controlling, or otherwise directing,or participating in (directly or indirectly) any activity in or in relation to Venezuela, on or after January 23, 2019, that significantly undermines or threatens the integrity of—
+&emsp;(1) is a current or former senior official of the Maduro regime, or any foreign person acting on behalf of such regime, who is knowingly responsible for, complicit in, responsible for ordering, controlling, or otherwise directing, or participating in (directly or indirectly) any activity in or in relation to Venezuela, on or after January 23, 2019, that significantly undermines or threatens the integrity of—
 
 &emsp;&emsp;(A) the democratically-elected National Assembly of Venezuela; or
 

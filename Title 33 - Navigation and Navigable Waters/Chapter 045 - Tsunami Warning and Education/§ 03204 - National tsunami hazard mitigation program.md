@@ -10,7 +10,7 @@ In conducting the program under this section, the Administrator shall establish 
 
 &emsp;(1) recommend how funds appropriated for carrying out the program under this section will be allocated;
 
-&emsp;(2) ensure that areas described in section 3203(c) of this title in the United States and its territories can have the opportunity to participate in the program;
+&emsp;(2) ensure that areas described in section 3203(c) of this title in the United States and itsterritories can have the opportunity to participate in the program;
 
 &emsp;(3) provide recommendations to the National Weather Service on how to improve the TsunamiReady program, particularly on ways to make communities more tsunami resilient through the use of inundation maps and other mitigation practices; and
 
@@ -88,7 +88,7 @@ In addition to activities conducted under subsection (c), the program conducted 
 
 &emsp;&emsp;(A) access to data and products derived from observing and detection systems; and
 
-&emsp;&emsp;(B) development and maintenance of new integrated data products to support risk management, risk assessment, and resilience programs.
+&emsp;&emsp;(B) development and maintenance of new integrated data products to support riskmanagement, risk assessment, and resilience programs.
 
 &emsp;(6) Risk notification systems that coordinate with and build upon existing systems and actively engage decisionmakers, State, local, tribal, and territorial governments and agencies, business communities, nongovernmental organizations, and the media.
 

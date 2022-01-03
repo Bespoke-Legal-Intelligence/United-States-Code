@@ -48,7 +48,7 @@ Each participant shall be deemed to consent and agree to such deductions from ba
 
 #### (1) Accrual of interest
 
-&emsp;Amounts deducted and withheld from the basic pay of a participant under this section for pay periods after the first day of the first pay period beginning after the day on which the participant completes 35 years of creditable service computed under sections 2081 and 2082 of this title (excluding service credit for unused sick leave under section 2031(a)(2) of this title) shall accrue interest. Such interest shall accrue at the rate of 3 percent a year through December 31, 1984, and thereafter at the rate computed under section 8334(e) of title 5, and shall be compounded annually from the date on which the amount is so deducted and withheld until the date of the participant's retirement or death.
+&emsp;Amounts deducted and withheld from the basic pay of a participant under this section for pay periods after the first day of the first pay period beginning after the day on whichthe participant completes 35 years of creditable service computed under sections 2081 and 2082 of this title (excluding service credit for unused sick leave under section 2031(a)(2) of this title) shall accrue interest. Such interest shall accrue at the rate of 3 percent a year through December 31, 1984, and thereafter at the rate computed under section 8334(e) of title 5, and shall be compounded annually from the date on which the amount is so deducted and withheld until the date of the participant's retirement or death.
 
 #### (2) Use of amounts withheld after 35 years of service
 
@@ -90,9 +90,11 @@ Each participant shall be deemed to consent and agree to such deductions from ba
 
 (Pub. L. 88–643, title II, §211, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3202; amended Pub. L. 103–178, title II, §202(a)(3), Dec. 3, 1993, 107 Stat. 2026; Pub. L. 112–96, title V, §5003, Feb. 22, 2012, 126 Stat. 200.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Social Security Act, referred to in subsec. (d)(1)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classificationof this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (d)(1)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Prior Provisions
 
@@ -103,6 +105,8 @@ A prior section 211 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1045;
 <b>2012</b>—Subsec. (a). Pub. L. 112–96 added pars. (1) to (3), redesignated former par. (3) as (4), and struck out former pars. (1) and (2) which related to participant's contributions and agency contributions, respectively.
 
 <b>1993</b>—Subsec. (c)(2)(B). Pub. L. 103–178 substituted "prior notification of a current spouse, if any, unless the participant establishes to the satisfaction of the Director, in accordance with regulations which the Director may prescribe, that the participant does not know, and has taken all reasonable steps to determine, the whereabouts of the current spouse" for "the requirement under section 2071(b)(4) of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1993 Amendment
 

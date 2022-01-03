@@ -10,7 +10,7 @@
 
 As part of the annual application required by subsection (a), the chief executive officer of each State shall—
 
-&emsp;(1) certify that the State agrees to use the funds allotted to it under section 9872 of this title in accordance with the requirements of this subchapter; and
+&emsp;(1) certify that the State agrees to use the funds allotted to it under section 9872 of thistitle in accordance with the requirements of this subchapter; and
 
 &emsp;(2) certify that the State agrees that Federal funds made available under section 9873 of this title for any period will be so used as to supplement and increase the level of State, local, and other non-Federal funds that would in the absence of such Federal funds be made available for the programs and activities for which funds are provided under that section and will in no event supplant such State, local, and other non-Federal funds.
 
@@ -18,7 +18,7 @@ As part of the annual application required by subsection (a), the chief executiv
 
 #### (c) Description; intended use of payments; comments; revision
 
-(1) The chief executive officer of a State shall, as part of the application required by subsection\(a), also prepare and furnish the Secretary (in accordance with such form as the Secretary shall provide) with a description of the intended use of the payments the State will receive under section 9873 of this title, including information on the programs and activities to be supported. The description shall be made public within the State in such manner as to facilitate comment from any person (including any Federal or other public agency) during development of the description and after its transmittal. The description shall be revised (consistent with this section) until September 30, 1991, as may be necessary to reflect substantial changes in the programs and activities assisted by the State under this subchapter, and any revision shall be subject to the requirements of the preceding sentence.
+(1) The chief executive officer of a State shall, as part of the application required by subsection (a), also prepare and furnish the Secretary (in accordance with such form as the Secretary shall provide) with a description of the intended use of the payments the State will receive under section 9873 of this title, including information on the programs and activities to be supported. The description shall be made public within the State in such manner as to facilitate comment from any person (including any Federal or other public agency) during development of the description and after its transmittal. The description shall be revised (consistent with this section) until September 30, 1991, as may be necessary to reflect substantial changes in the programs and activities assisted by the State under this subchapter, and any revision shall be subject to the requirements of the preceding sentence.
 
 (2) The chief executive officer of each State shall include in such a description of—
 
@@ -36,6 +36,8 @@ Except where inconsistent with the provisions of this subchapter, the provisions
 
 (Pub. L. 97–35, title VI, §670E, as added Pub. L. 98–558, title I, §109, Oct. 30, 1984, 98 Stat. 2882; amended Pub. L. 101–501, title III, §§304, 305(b), Nov. 3, 1990, 104 Stat. 1249, 1250.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Public Health Service Act, referred to in subsec. (d), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Part A of title XIX of the Public Health Service Act is classified generally to part A (§300w et seq.) of subchapter XVII of chapter 6A of this title. Section 1906(a) of the Act, which is classified to section 300w–5(a) of this title, was amended generally by Pub. L. 102–531, title I, §104(a), Oct. 27, 1992, 106 Stat. 3473, and, as so amended, consists of pars. (1) to (4) rather than pars. (1) to (5). For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
@@ -45,6 +47,8 @@ The Public Health Service Act, referred to in subsec. (d), is act July 1, 1944, 
 <b>1990</b>—Subsec. (c). Pub. L. 101–501, §305(b), which directed that "until September 30, 1987," be struck out, could not be executed, because of the intervening amendment by Pub. L. 101–501, §304, see below.
 
 Pub. L. 101–501, §304, designated existing provisions as par. (1), substituted "September 30, 1991" for "September 30, 1987", and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

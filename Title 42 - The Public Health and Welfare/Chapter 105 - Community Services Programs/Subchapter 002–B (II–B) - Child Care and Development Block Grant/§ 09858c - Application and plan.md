@@ -52,7 +52,7 @@ The State plan contained in the application under subsection (a) shall be design
 
 #### (E) Consumer and provider education information
 
-&emsp;&emsp;The plan shall include a certification that the State will collect and disseminate\(which dissemination may be done, except as otherwise specified in this subparagraph, through resource and referral organizations or other means as determined by the State) to parents of eligible children, the general public, and, where applicable, providers—
+&emsp;&emsp;The plan shall include a certification that the State will collect and disseminate (which dissemination may be done, except as otherwise specified in this subparagraph, through resource and referral organizations or other means as determined by the State) to parents of eligible children, the general public, and, where applicable, providers—
 
 &emsp;&emsp;&emsp;(i) information about the availability of the full diversity of child care services that will promote informed child care choices and that concerns—
 
@@ -90,7 +90,7 @@ The State plan contained in the application under subsection (a) shall be design
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The plan shall describe the training and professional development requirements that are in effect within the State designed to enable child care providers to promote the social, emotional, physical, and cognitive development of children and to improve the knowledge and skills of thechild care workforce. Such requirements shall be applicable to child care providers that provide services for which assistance is provided in accordance with this subchapter.
+&emsp;&emsp;&emsp;The plan shall describe the training and professional development requirements that are in effect within the State designed to enable child care providers to promote the social, emotional, physical, and cognitive development of children and to improve the knowledge and skills of the child care workforce. Such requirements shall be applicable to child care providers that provide services for which assistance is provided in accordance with this subchapter.
 
 #### (ii) Requirements
 
@@ -120,7 +120,7 @@ The State plan contained in the application under subsection (a) shall be design
 
 #### (iv) Construction
 
-&emsp;&emsp;&emsp;The Secretary shall not require an individual or entity that provides child care services for which assistance is provided in accordance with this subchapter to acquire a credential to provide such services. Nothing in this section shall be construed to prohibit a State from requiring a credential.
+&emsp;&emsp;&emsp;The Secretary shall not require an individual or entity that provides child care services for which assistance is provided in accordance with this subchapter to acquirea credential to provide such services. Nothing in this section shall be construed to prohibit a State from requiring a credential.
 
 #### (H) Child-to-provider ratio standards
 
@@ -216,7 +216,7 @@ The State plan contained in the application under subsection (a) shall be design
 
 #### (I) 12-month period
 
-&emsp;&emsp;&emsp;&emsp;The plan shall demonstrate that each child who receives assistance under this subchapter in the State will be considered to meet all eligibility requirementsfor such assistance and will receive such assistance, for not less than 12 months before the State or designated local entity redetermines the eligibility of the child under this subchapter, regardless of a temporary change in the ongoing status of the child's parent as working or attending a job training or educational program or a change in family income for the child's family, if that family income does not exceed 85 percent of the State median income for a family of the same size.
+&emsp;&emsp;&emsp;&emsp;The plan shall demonstrate that each child who receives assistance under this subchapter in the State will be considered to meet all eligibility requirements for such assistance and will receive such assistance, for not less than 12 months before the State or designated local entity redetermines the eligibility of the child under this subchapter, regardless of a temporary change in the ongoing status of the child's parent as working or attending a job training or educational program or a change in family income for the child's family, if that family income does not exceed 85 percent of the State median income for a family of the same size.
 
 #### (II) Fluctuations in earnings
 
@@ -330,7 +330,7 @@ The State plan contained in the application under subsection (a) shall be design
 
 &emsp;&emsp;&emsp;The components of the disaster plan, for such an emergency or disaster, shall include—
 
-&emsp;&emsp;&emsp;&emsp;(I) evacuation, relocation, shelter-in-place, and lock-down procedures, andprocedures for communication and reunification with families, continuity of operations, and accommodation of infants and toddlers, children with disabilities, and children with chronic medical conditions;
+&emsp;&emsp;&emsp;&emsp;(I) evacuation, relocation, shelter-in-place, and lock-down procedures, and procedures for communication and reunification with families, continuity of operations, and accommodation of infants and toddlers, children with disabilities, and children with chronic medical conditions;
 
 &emsp;&emsp;&emsp;&emsp;(II) guidelines for the continuation of child care services in the period following the emergency or disaster, which may include the provision of emergency and temporary child care services, and temporary operating standards for child care providers during that period; and
 
@@ -356,7 +356,7 @@ The State plan contained in the application under subsection (a) shall be design
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Not later than September 30 of the first full fiscal year after November 19, 2014, and September 30 of each fiscal year thereafter, the Secretary (acting through the Assistant Secretary for Children and Families of the Department of Health and Human Services) shall prepare a report that contains a determination about whether each State uses amounts provided to such State for the fiscal year involved under this subchapter in accordance with the priority for services described in clause (i).
+&emsp;&emsp;&emsp;&emsp;Not later than September 30 of the first full fiscal year after November 19, 2014, and September 30 of each fiscal year thereafter, the Secretary (actingthrough the Assistant Secretary for Children and Families of the Department of Health and Human Services) shall prepare a report that contains a determination about whether each State uses amounts provided to such State for the fiscal year involved under this subchapter in accordance with the priority for services described in clause (i).
 
 #### (II) Penalty for noncompliance
 
@@ -382,7 +382,7 @@ The State plan contained in the application under subsection (a) shall be design
 
 &emsp;&emsp;&emsp;&emsp;The local or regional child care resource and referral organizations supported as described in subclause (I) shall—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) provide parents in the State with consumer education information referred to in paragraph (2)(E) (exceptas otherwise provided in that paragraph), concerning the full range of child care options (including faith-based and community-based child care providers), analyzed by provider, including child care provided during nontraditional hours and through emergency child care centers, in their political subdivisions or regions;
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) provide parents in the State with consumer education information referred to in paragraph (2)(E) (except as otherwise provided in that paragraph), concerning the full range of child care options (including faith-based and community-based child care providers), analyzed by provider, including child care provided during nontraditional hours and through emergency child care centers, in their political subdivisions or regions;
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) to the extent practicable, work directly with families who receive assistance under this subchapter to offer the families support and assistance, using information described in item (aa), to make an informed decision about which child care providers they will use, in an effort to ensure that the families are enrolling their children in the most appropriate child care setting to suit their needs and one that is of high quality (as determined by the State);
 
@@ -400,7 +400,7 @@ The State plan contained in the application under subsection (a) shall be design
 
 #### (D) Assistance for certain families
 
-&emsp;&emsp;A State shall ensure that a substantial portion of the amounts available (after the State has complied with the requirement of section 418(b)(2) of the Social Security Act \[42 U.S.C. 618(b)(2)\] with respect to each of the fiscal years 2015 through 2020 <sup>8</sup> to the State to carry out activities under this subchapter in each fiscal year is used to provide assistance to low-income working families including or in addition to families with children described in clause (i), (ii), (iii), or (iv) of paragraph (2)(M).
+&emsp;&emsp;A State shall ensure that a substantial portion of the amounts available (after the State has complied with the requirement of section 418(b)(2) of the Social Security Act \[42 U.S.C. 618(b)(2)\] with respect to each ofthe fiscal years 2015 through 2020 <sup>8</sup> to the State to carry out activities under this subchapter in each fiscal year is used to provide assistance to low-income working families including or in addition to families with children described in clause (i), (ii), (iii), or (iv) of paragraph (2)(M).
 
 #### (E) Direct services
 
@@ -460,7 +460,9 @@ The State plan contained in the application under subsection (a) shall be design
 
 The Secretary shall approve an application that satisfies the requirements of this section.
 
-(Pub. L. 97–35, title VI, §658E, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–237; amended Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 104–193, title VI, §605, Aug. 22, 1996, 110 Stat. 2281; Pub. L. 105–33, title V, §5602(1), Aug. 5, 1997, 111 Stat. 645; Pub. L. 113–186, §5(a), (b), Nov. 19, 2014, 128 Stat. 1972; Pub. L. 114–95, title IX, §9215(p)(1), Dec. 10, 2015, 129 Stat. 2170.)
+(Pub. L. 97–35, title VI, §658E, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–237; amended Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 104–193, title VI, §605, Aug. 22, 1996, 110 Stat. 2281; Pub. L. 105–33,title V, §5602(1), Aug. 5, 1997, 111 Stat. 645; Pub. L. 113–186, §5(a), (b), Nov. 19, 2014, 128 Stat. 1972; Pub. L. 114–95, title IX, §9215(p)(1), Dec. 10, 2015, 129 Stat. 2170.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -528,7 +530,7 @@ Subsec. (c)(2)(E). Pub. L. 104–193, §605(2)(A)(v), amended heading and text o
 
 Subsec. (c)(2)(F), (G). Pub. L. 104–193, §605(2)(A)(vi), (vii), substituted "Certify" for "Provide assurances".
 
-Subsec. (c)(2)(H). Pub. L. 104–193, §605(2)(A)(viii), added subpar. (H) and struck out heading and text of former subpar. (H). Text read as follows: "Provide assurances that if the State reduces the level of standards applicable to child care services provided in the State on November 5, 1990, the State shall inform the Secretary of the rationale for such reduction in the annual report of the State described in section 9858i of this title."
+Subsec. (c)(2)(H). Pub. L. 104–193, §605(2)(A)(viii), added subpar. (H) and struck out heading and text offormer subpar. (H). Text read as follows: "Provide assurances that if the State reduces the level of standards applicable to child care services provided in the State on November 5, 1990, the State shall inform the Secretary of the rationale for such reduction in the annual report of the State described in section 9858i of this title."
 
 Subsec. (c)(2)(I). Pub. L. 104–193, §605(2)(A)(viii), struck out heading and text of subpar. (I). Text read as follows: "Provide assurances that not later than 18 months after the date of the submission of the application under this section, the State will complete a full review of the law applicable to, and the licensing and regulatory requirements and policies of, each licensing agency that regulates child care services and programs in the State unless the State has reviewed such law, requirements, and policies in the 3-year period ending on November 5, 1990."
 
@@ -547,6 +549,8 @@ Subsec. (c)(3)(D). Pub. L. 104–193, §605(2)(B)(iv), added subpar. (D).
 Subsec. (c)(4)(A). Pub. L. 104–193, §605(2)(C), substituted "State plan shall certify" for "State plan shall provide assurances", inserted "and shall provide a summary of the facts relied on by the State to determine that such rates are sufficient to ensure such access" after "Federal or State programs", and struck out at end "Such payment rates shall take into account the variations in the costs of providing child care in different settings and to children of different age groups, and the additional costs of providing child care for children with special needs."
 
 <b>1992</b>—Pub. L. 102–401 and Pub. L. 102–586 made identical technical corrections to directory language of Pub. L. 101–508, §5082(2), which added this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

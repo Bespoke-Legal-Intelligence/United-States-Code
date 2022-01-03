@@ -2,7 +2,7 @@
 
 #### (a) Priority for control of pollution
 
-The Congress recognizes the severe pollution problems affecting Poland and Hungary and the serious health problems which ensue from such pollution. The Congress therefore directs that a high priority be given in the implementation of assistance to Poland and Hungary to the control of pollution and the restoration of the natural resource base on which a sustainable, healthy economy depends.
+The Congress recognizes the severe pollution problems affecting Poland and Hungary and the serious health problems which ensue from such pollution. The Congress therefore directs that a high priority be given in the implementation ofassistance to Poland and Hungary to the control of pollution and the restoration of the natural resource base on which a sustainable, healthy economy depends.
 
 #### (b) EPA activities generally
 
@@ -32,7 +32,7 @@ To enable the Environmental Protection Agency to carry out subsections (b), (c),
 
 #### (2) Equipment assessment
 
-&emsp;The Secretary of Energy shall cooperate with Polish officials and experts and companies within the United States to assess and develop the capability within Poland to manufacture or modify boilers, furnaces, smelters, or other equipment that will enable industrialfacilities within Poland to use fossil fuels cleanly. The Secretary may vest title in any property acquired under this paragraph in an entity other than the United States.
+&emsp;The Secretary of Energy shall cooperate with Polish officials and experts and companies within the United States to assess and develop the capability within Poland to manufacture or modify boilers, furnaces, smelters, or other equipment that will enable industrial facilities within Poland to use fossil fuels cleanly. The Secretary may vest title in any property acquired under this paragraph in an entity other than the United States.
 
 #### (3) Authorization of appropriations
 

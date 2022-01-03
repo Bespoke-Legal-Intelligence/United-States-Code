@@ -6,11 +6,13 @@
 
 (c) The Secretary of the Army may, notwithstanding the provisions of subchapter V of chapter 55 of title 5 or section 6101 of such title, prescribe for persons employed under this section the following:
 
-&emsp;(1) The work schedule, including hours of work and tours of duty, set forth with such specificity and other characteristics as the Secretary determines appropriate.
+&emsp;(1) The work schedule, including hours of work and tours of duty, set forth with suchspecificity and other characteristics as the Secretary determines appropriate.
 
 &emsp;(2) Any premium pay or compensatory time off for hours of work or tours of duty in excess of the regularly scheduled hours or tours of duty.
 
 (Added Pub. L. 103–160, div. A, title V, §533(a)(1), Nov. 30, 1993, 107 Stat. 1658, §4338; amended Pub. L. 106–65, div. A, title XI, §1107(a), Oct. 5, 1999, 113 Stat. 778; renumbered §7438, Pub. L. 115–232, div. A, title VIII, §808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -22,7 +24,9 @@ Prior sections 7438 and 7439 were renumbered sections 8738 and 8739 of this titl
 
 <b>1999</b>—Subsec. (c). Pub. L. 106–65 added subsec. (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 

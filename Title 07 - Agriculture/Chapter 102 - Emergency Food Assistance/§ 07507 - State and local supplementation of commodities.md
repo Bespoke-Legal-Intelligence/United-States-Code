@@ -6,7 +6,7 @@ The Secretary shall establish procedures under which State and local agencies, c
 
 #### (b) Use of funds and facilities
 
-States and emergency feeding organizations may use the funds appropriated under this chapter and equipment, structures, vehicles, and all other facilities involved in the storage, handling, or distribution of commodities made available under this chapter, and the personnel, both paid or volunteer, involved in such storage, handling, or distribution, to store, handle or distribute commodities donated for the use of emergency feeding organizations under subsection (a).
+States and emergency feeding organizations may use the funds appropriated under this chapter and equipment, structures, vehicles, and all other facilities involved in the storage, handling, or distribution of commodities made available under this chapter, and the personnel, both paid or volunteer, involved in such storage,handling, or distribution, to store, handle or distribute commodities donated for the use of emergency feeding organizations under subsection (a).
 
 #### (c) Volunteer workers
 
@@ -80,7 +80,7 @@ The Secretary shall issue guidance outlining best practices to minimize the food
 
 #### (C) Qualified direct donor
 
-&emsp;&emsp;The term "qualified direct donor" means a retail food store, wholesaler, agriculturalproducer, restaurant, caterer, school food authority, or institution of higher education.
+&emsp;&emsp;The term "qualified direct donor" means a retail food store, wholesaler, agricultural producer, restaurant, caterer, school food authority, or institution of higher education.
 
 #### (2) Guidance
 
@@ -94,11 +94,15 @@ The Secretary shall issue guidance outlining best practices to minimize the food
 
 (Pub. L. 98–8, title II, §203D, as added Pub. L. 100–435, title I, §102, Sept. 19, 1988, 102 Stat. 1647; amended Pub. L. 115–334, title IV, §§4018(b), (c), 4104, Dec. 20, 2018, 132 Stat. 4648, 4649, 4655.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsecs. (d), (e). Pub. L. 115–334, §4018(b), (c), added subsecs. (d) and (e).
 
 Subsec. (f). Pub. L. 115–334, §4104, added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

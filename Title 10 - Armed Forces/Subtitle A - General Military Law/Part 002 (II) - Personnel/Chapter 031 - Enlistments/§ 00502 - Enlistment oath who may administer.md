@@ -4,7 +4,7 @@
 
 Enlistment Oath.—Each person enlisting in an armed force shall take the following oath:
 
-&emsp;"I, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, do solemnly swear (or affirm) that I will support and defend the Constitution of the United States against all enemies, foreign and domestic; that I will bear true faith and allegiance to the same; and that I will obey the orders of the President of the United States and the orders of the officers appointed over me, according to regulations and the Uniform Code of Military Justice. So help me God."
+&emsp;"I, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, do solemnly swear (or affirm) that I will support and defend the Constitution of the United States against all enemies, foreign and domestic; that I will beartrue faith and allegiance to the same; and that I will obey the orders of the President of the United States and the orders of the officers appointed over me, according to regulations and the Uniform Code of Military Justice. So help me God."
 
 (b)
 
@@ -28,6 +28,8 @@ May 5, 1950, ch. 169, §8, 64 Stat. 146.
 
 The words "or affirmation" are omitted as covered by the definition of the word "oath" in section 1 of title 1. The words "of any armed force" are inserted in the last sentence, since they are necessarily implied by their use in the source statute.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Uniform Code of Military Justice, referred to in the oath, is classified to chapter 47 (§801 et seq.) of this title.
@@ -39,6 +41,8 @@ The Uniform Code of Military Justice, referred to in the oath, is classified to 
 <b>1989</b>—Pub. L. 101–189 struck out "or affirmation" after "This oath".
 
 <b>1962</b>—Pub. L. 87–751 substituted "support and defend the Constitution of the United States against all enemies, foreign and domestic; that I will bear true faith and allegiance to the same" for "bear true faith and allegiance to the United States of America; that I will serve them honestly and faithfully against all their enemies whomsoever" and inserted "So help me God" in the oath, and "or affirmation" in text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1962 Amendment
 

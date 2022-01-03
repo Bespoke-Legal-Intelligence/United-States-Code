@@ -8,9 +8,13 @@
 
 (Added Pub. L. 85–263, §1(1), Sept. 2, 1957, 71 Stat. 589, §4594; renumbered §7594, Pub. L. 115–232, div. A, title VIII, §808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4594 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

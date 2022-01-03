@@ -12,6 +12,8 @@ None of the funds authorized to be appropriated by this Act or any other Act may
 
 (Pub. L. 91–121, title IV, §409(b), Nov. 19, 1969, 83 Stat. 209; Pub. L. 91–441, title V, §506(b)(1), Oct. 7, 1970, 84 Stat. 912; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in provision preceding par. (1), means Pub. L. 91–121, Nov. 19, 1969, 83 Stat. 204, as amended. Provisions authorizing the appropriation of funds are not classified to the Code. For complete classification of this Act to the Code, see Tables.
@@ -19,6 +21,8 @@ This Act, referred to in provision preceding par. (1), means Pub. L. 91–121, N
 #### Amendments
 
 <b>1970</b>—Pub. L. 91–441 inserted reference to the disposal of lethal chemical or biological warfare agents in the United States.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -30,7 +34,7 @@ Pub. L. 109–163, div. A, title XII, §1232, Jan. 6, 2006, 119 Stat. 3468, prov
 
 "(a)
 
-Restatement of Policy.—It is the policy of the United States that riot control agents are not chemical weapons and that the President may authorize their use as legitimate, legal, and non-lethal alternatives to the use of force that, as provided in Executive Order No. 11850 (40 Fed. Reg. 16187) \[set out below\] and consistent with the resolution of ratification of the Chemical Weapons Convention, may be employed by members of the Armed Forces in war in defensive military modes to save lives, including the illustrative purposes cited in Executive Order No. 11850.
+Restatement of Policy.—It is the policy of the United States that riot control agents are not chemical weapons and that the President may authorize their use as legitimate, legal, and non-lethal alternatives to the use of force that, as provided in Executive Order No. 11850 (40 Fed. Reg. 16187) \[set out below\] and consistent with the resolution of ratification of the Chemical Weapons Convention, may be employed by members of the Armed Forces in war in defensive militarymodes to save lives, including the illustrative purposes cited in Executive Order No. 11850.
 
 "(b)
 
@@ -74,7 +78,9 @@ Resolution of ratification of the chemical weapons convention.—The term 'resol
 
 #### Chemical Munitions Transportation From Okinawa to the United States
 
-Pub. L. 91–672, §13, Jan. 12, 1971, 84 Stat. 2055, provided that: "No funds authorized or appropriated pursuant to this or any other law may be used to transport chemical munitions from the Island of Okinawa to the United States. Such funds as are necessary for the detoxification or destruction of the above described chemical munitions are hereby authorized and shall be used for the detoxification or destruction of chemical munitions only outside the United States. For purposes of this section, the term 'United States' means the several States and the District of Columbia."
+Pub. L. 91–672, §13, Jan. 12, 1971, 84 Stat. 2055, directed that no authorized funds could be used to transport chemical munitions from Okinawa to the United States, but could be used for detoxification or destruction of these munitions only outside the United States.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 11850. Renunciation of Certain Uses in War of Chemical Herbicides and Riot Control Agents
 

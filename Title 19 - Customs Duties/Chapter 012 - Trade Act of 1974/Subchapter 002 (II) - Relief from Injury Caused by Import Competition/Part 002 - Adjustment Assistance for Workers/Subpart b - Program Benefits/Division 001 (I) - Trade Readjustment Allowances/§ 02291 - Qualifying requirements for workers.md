@@ -12,7 +12,7 @@ Payment of a trade readjustment allowance shall be made to an adversely affected
 
 &emsp;&emsp;(C) before the termination date (if any) determined pursuant to section 2273(d) of this title.
 
-&emsp;(2) Such worker had, in the 52-week period ending with the week in which such total or partial separation occurred, at least 26 weeks of employment at wages of $30 or more a week in adversely affected employment with a single firm, or, if data with respect to weeks ofemployment with a firm are not available, equivalent amounts of employment computed under regulations prescribed by the Secretary. For the purposes of this paragraph, any week in which such worker—
+&emsp;(2) Such worker had, in the 52-week period ending with the week in which such total or partial separation occurred, at least 26 weeks of employment at wages of $30 or more a week in adversely affected employment with a single firm, or, if data with respect to weeks of employment with a firm are not available, equivalent amounts of employment computed under regulations prescribed by the Secretary. For the purposes of this paragraph, any week in which such worker—
 
 &emsp;&emsp;(A) is on employer-authorized leave for purposes of vacation, sickness, injury, maternity, or inactive duty or active duty military service for training,
 
@@ -124,6 +124,8 @@ If—
 
 <i>For reversion, beginning on July 1, 2021, to provisions in effect on Jan. 1, 2014, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see Codification and Effective and Termination Dates of 2015 Revival notes below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsec. (a)(4), is title II of Pub. L. 91–373, Aug. 10, 1970, 84 Stat. 708, which is classified generally as a note under section 3304 of Title 26, Internal Revenue Code. Section 202(a)(3) of such Act, referred to in subsec. (a)(4), is set out in the note under section 3304 of Title 26. For complete classification of this Act to the Code, see Tables.
@@ -212,7 +214,7 @@ Subsec. (c). Pub. L. 107–210, §115(a), inserted heading and amended text gene
 
 Subsec. (b). Pub. L. 100–418, §1423(a)(2), amended subsec. (b) generally, substituting provisions relating to withholding of trade readjustment allowance pending beginning or resumption of participation in training program, and period of applicability, for provisions relating to mandatory training or job-search.
 
-Subsec. (c). Pub. L. 100–418, §1423(a)(3), amended subsec. (c) generally, substituting provisions relating to approval of training programs, written certifications,revocation of certification, and annual report, for provisions relating to withholding of trade readjustment allowance pending beginning or resumption of participation in job search program.
+Subsec. (c). Pub. L. 100–418, §1423(a)(3), amended subsec. (c) generally, substituting provisions relating to approval of training programs, written certifications, revocation of certification, and annual report, for provisions relating to withholding of trade readjustment allowance pending beginning or resumption of participation in job search program.
 
 <b>1986</b>—Subsec. (a)(2). Pub. L. 99–272, §13003(b), substituted provisions restricting to no more than 7 the number of weeks to be treated as weeks of employment under this sentence for provisions designated as clauses (i) to (iii), limiting the weeks that may be treated as weeks of employment to 3, 7, and 7, respectively, under certain conditions.
 
@@ -221,6 +223,8 @@ Subsec. (a)(5). Pub. L. 99–272, §13003(a)(1), added par. (5).
 Subsec. (c). Pub. L. 99–272, §13003(a)(2), added subsec. (c).
 
 <b>1981</b>—Pub. L. 97–35 designated existing provisions as subsec. (a), substituted provisions respecting applicability of date upon which petition was filed for provisions respecting applicability of date specified in certification under section 2273(a) of this title, substantially revised and reorganized conditions by, among other changes, adding pars. (3) and (4), and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective and Termination Dates of 2015 Revival
 
@@ -304,7 +308,7 @@ Pub. L. 97–35, title XXV, §2514, Aug. 13, 1981, 95 Stat. 889, as amended by P
 
 &emsp;&emsp;"(B) the number of weeks preceding such first week that are deductible under section 232(d) (as in effect before the amendments made by section 2504) \[section 2392(d) of this title\];
 
-> &emsp;except that the amount of trade readjustment allowances payable to an adversely affected worker under this paragraph shall be subject to adjustment on a week-to-week basis as may be required by section 232(b) \[section 2392(b) of this title\]."
+> &emsp;except that the amount of trade readjustment allowances payable to an adversely affected worker under this paragraph shall be subject to adjustment on aweek-to-week basis as may be required by section 232(b) \[section 2392(b) of this title\]."
 
 #### Termination Date
 

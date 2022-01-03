@@ -10,7 +10,7 @@ In this section, the term "costs", when used with respect to review and decision
 
 &emsp;&emsp;(B) persons and organizations under contract with the Administrator engage in the review of the applications, and corresponding risk and benefits information and assessments; and
 
-&emsp;&emsp;(C) advisory committees and other accredited persons or organizations, on the request of the Administrator, engage in the peer review of risk or benefits information associated with covered pesticide applications;
+&emsp;&emsp;(C) advisory committees and other accredited persons or organizations, on the requestof the Administrator, engage in the peer review of risk or benefits information associated with covered pesticide applications;
 
 &emsp;(2) costs of management of information, and the acquisition, maintenance, and repair of computer and telecommunication resources (including software), used to support review of pesticide applications, associated tolerances, and corresponding risk and benefits information and analyses; and
 
@@ -26,7 +26,7 @@ In this section, the term "costs", when used with respect to review and decision
 
 #### (A) In general
 
-&emsp;&emsp;An application for the registration of a pesticide covered by this subchapter that isreceived by the Administrator on or after the effective date of the Pesticide Registration Improvement Act of 2003 or for any other action covered by a table specified in paragraph (3) shall be subject to a registration service fee under this section.
+&emsp;&emsp;An application for the registration of a pesticide covered by this subchapter that is received by the Administrator on or after the effective date of the Pesticide Registration Improvement Act of 2003 or for any other action covered by a table specified in paragraph (3) shall be subject to a registration service fee under this section.
 
 #### (B) Existing applications
 
@@ -1364,6 +1364,8 @@ Nothing in this section affects any other duties, obligations, or authorities es
 
 (June 25, 1947, ch. 125, §33, as added Pub. L. 108–199, div. G, title V, §501(f)(2), Jan. 23, 2004, 118 Stat. 422; amended Pub. L. 110–94, §5, Oct. 9, 2007, 121 Stat. 1002; Pub. L. 110–193, §1(a), Mar. 6, 2008, 122 Stat. 649; Pub. L. 112–177, §2(a)(2)(B), (b), Sept. 28, 2012, 126 Stat. 1328, 1330; Pub. L. 116–8, §§5, 6, Mar. 8, 2019, 133 Stat. 487, 491.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The effective date of the Pesticide Registration Improvement Act of 2003, and the effective date of this section, referred to in text, is the effective date of section 501 of Pub. L. 108–199, which is the date that is 60 days after Jan. 23, 2004, unless otherwise provided, see section 501(h) of Pub. L. 108–199, set out as an Effective Date of 2004 Amendment note under section 136a of this title.
@@ -1372,7 +1374,7 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b)(2)(B)(ii), 
 
 Section 2 of Public Law 89–106, referred to in subsec. (b)(7)(E)(i), was formerly classified to secton 450i of this title prior to editorial reclassification and renumbering as section 3157 of this title.
 
-The effective date of the Pesticide Registration Improvement Extension Act of 2018, referred to in subsecs.\(e) and (f)(1), means the effective date of Pub. L. 116–8, which was approved Mar. 8, 2019.
+The effective date of the Pesticide Registration Improvement Extension Act of 2018, referred to in subsecs. (e) and (f)(1), means the effective date of Pub. L. 116–8, which was approved Mar. 8, 2019.
 
 The Chief Financial Officers Act of 1990, referred to in subsec. (h)(1)(A), is Pub. L. 101–576, Nov. 15, 1990, 104 Stat. 2838. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 501 of Title 31, Money and Finance, and Tables.
 
@@ -1587,6 +1589,8 @@ Subsec. (m)(2)(A). Pub. L. 110–94, §5(i)(2)(A), substituted "2013" for "2009"
 Subsec. (m)(2)(B), (C). Pub. L. 110–94, §5(i)(2)(B), substituted "2014" for "2010" in headings and text.
 
 Subsec. (m)(2)(D). Pub. L. 110–94, §5(i)(2)(C), substituted "2012" for "2008" in two places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

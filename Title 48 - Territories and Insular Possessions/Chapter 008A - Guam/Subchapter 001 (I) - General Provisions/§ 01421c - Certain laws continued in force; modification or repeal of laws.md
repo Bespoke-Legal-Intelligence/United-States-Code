@@ -6,9 +6,13 @@
 
 (Aug. 1, 1950, ch. 512, §25, 64 Stat. 390; Pub. L. 90–497, §7, Sept. 11, 1968, 82 Stat. 847.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1968</b>—Subsec. (b). Pub. L. 90–497 repealed subsec. (b) which prohibited the application to Guam of laws of the United States not specifically made applicable to Guam and established a commission to determine which laws were applicable to Guam and which were not.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1968 Amendment
 

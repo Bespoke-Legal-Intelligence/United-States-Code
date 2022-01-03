@@ -40,7 +40,7 @@ Manner and Scheduling of Hearings for Cases on a Docket That May Include a Heari
 
 (2)(A) Upon notification of a Board hearing at the Board's principal location as described in subparagraph (A) of paragraph (1), the appellant may alternatively request a hearing as described in subparagraph (B) of such paragraph or subparagraph (C) of this paragraph. If so requested, the Board shall grant such request.
 
-(B) Upon notification of a Board hearing by picture and voice transmission as described in subparagraph (B) of paragraph (1), the appellant may alternatively request a hearing as described in subparagraph (A) of such paragraph or subparagraph (C) of this paragraph. If so requested, the Board shall grant such request.
+(B) Upon notification of a Board hearing by picture and voice transmission as described insubparagraph (B) of paragraph (1), the appellant may alternatively request a hearing as described in subparagraph (A) of such paragraph or subparagraph (C) of this paragraph. If so requested, the Board shall grant such request.
 
 (C)(i) Upon notification of a Board hearing under subparagraph (A) or (B) of paragraph (1), the appellant may alternatively request a hearing by picture and voice transmission—
 

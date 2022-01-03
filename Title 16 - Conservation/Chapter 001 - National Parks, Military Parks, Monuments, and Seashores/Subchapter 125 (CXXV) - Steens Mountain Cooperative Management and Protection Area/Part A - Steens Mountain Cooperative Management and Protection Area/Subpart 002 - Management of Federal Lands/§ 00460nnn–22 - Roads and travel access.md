@@ -20,7 +20,7 @@ The management plan shall include, as an integral part, a comprehensive transpor
 
 &emsp;&emsp;(A) is needed for administrative purposes or to respond to an emergency; or
 
-&emsp;&emsp;(B) is appropriate for the construction or maintenance of agricultural facilities, fish and wildlife management, or ecological restoration projects, except in areas designated as wilderness or managed under the provisions of section 1782(c) of title 43.
+&emsp;&emsp;(B) is appropriate for the construction or maintenance of agricultural facilities, fishand wildlife management, or ecological restoration projects, except in areas designated as wilderness or managed under the provisions of section 1782(c) of title 43.
 
 #### (c) Road closures
 
@@ -47,6 +47,8 @@ Any determination to permanently close an existing road in the Cooperative Manag
 &emsp;Nothing in this subchapter shall have the effect of terminating any valid existing right-of-way on Federal lands included in the Cooperative Management and Protection Area.
 
 (Pub. L. 106–399, title I, §112, Oct. 30, 2000, 114 Stat. 1660.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

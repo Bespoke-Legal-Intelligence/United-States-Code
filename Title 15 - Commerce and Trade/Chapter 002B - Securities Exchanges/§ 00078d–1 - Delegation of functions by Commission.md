@@ -2,7 +2,7 @@
 
 #### (a) Authorization; functions delegable; eligible persons; application of other laws
 
-In addition to its existing authority, the Securities and Exchange Commission shall have the authority to delegate, by published order or rule, any of its functions to a division of the Commission, an individual Commissioner, an administrative law judge, or an employee or employee board, including functions with respect to hearing, determining, ordering, certifying, reporting, or otherwise acting as to any work, business, or matter. Nothing in this section shall be deemed to supersede the provisions of section 556(b) of title 5, or to authorize the delegation of the function of rulemaking as defined in subchapter II of chapter 5 of title 5, with reference to general rules as distinguished from rules of particular applicability, or of the making of any rule pursuant to section 78s(c) of this title.
+In addition to its existing authority, the Securities and Exchange Commission shall have the authority to delegate, by published order or rule, any of its functions to a division of the Commission, an individual Commissioner, an administrative law judge, or an employee or employee board, including functions with respect to hearing, determining, ordering, certifying, reporting, or otherwise acting as to any work,business, or matter. Nothing in this section shall be deemed to supersede the provisions of section 556(b) of title 5, or to authorize the delegation of the function of rulemaking as defined in subchapter II of chapter 5 of title 5, with reference to general rules as distinguished from rules of particular applicability, or of the making of any rule pursuant to section 78s(c) of this title.
 
 #### (b) Right of review; procedure
 
@@ -13,6 +13,8 @@ With respect to the delegation of any of its functions, as provided in subsectio
 If the right to exercise such review is declined, or if no such review is sought within the time stated in the rules promulgated by the Commission, then the action of any such division of the Commission, individual Commissioner, administrative law judge, employee, or employee board, shall, for all purposes, including appeal or review thereof, be deemed the action of the Commission.
 
 (June 6, 1934, ch. 404, title I, §4A, as added Pub. L. 100–181, title III, §308(a), Dec. 4, 1987, 101 Stat. 1254.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

@@ -56,7 +56,7 @@ Not later than 1 year after March 25, 2020, and every 5 years thereafter, the As
 
 &emsp;&emsp;(C) any other issue determined relevant by the Assistant Secretary; and
 
-&emsp;(2) make available, including on the website of the Administration and pursuant to section 3012(a)(34) of this title, best practices described in paragraph (1), to carry out the programs under this section and section 3057k–11 of this title.
+&emsp;(2) make available, including on the website of the Administration and pursuant to section 3012(a)(34) of this title, best practices describedin paragraph (1), to carry out the programs under this section and section 3057k–11 of this title.
 
 #### (f) Quality standards and mechanisms and accountability
 
@@ -130,6 +130,8 @@ Not later than 1 year after March 25, 2020, the Assistant Secretary, in consulta
 
 (Pub. L. 89–73, title III, §373, as added Pub. L. 106–501, title III, §316(2), Nov. 13, 2000, 114 Stat. 2254; amended Pub. L. 109–365, title III, §321, Oct. 17, 2006, 120 Stat. 2551; Pub. L. 114–144, §4(l), (m), Apr. 19, 2016, 130 Stat. 341; Pub. L. 116–131, title II, §§217(b), 218(a), Mar. 25, 2020, 134 Stat. 260, 262.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The RAISE Family Caregivers Act, referred to in subsec. (j), is Pub. L. 115–119, Jan. 22, 2018, 132 Stat. 23, also known as the Recognize, Assist, Include, Support, and Engage Family Caregivers Act of 2017, which is set out as a note under section 3030s of this title.
@@ -175,6 +177,8 @@ Subsec. (e)(3). Pub. L. 109–365, §321(4), inserted at end "The reports shall 
 Subsec. (f)(1)(A). Pub. L. 109–365, §321(5), substituted "2007, 2008, 2009, 2010, and 2011" for "2001 through 2005".
 
 Subsec. (g)(2)(C). Pub. L. 109–365, §321(6), inserted "of a child who is not more than 18 years of age" before period at end.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Monitoring the Impact of the Elimination of the Cap on Funds for Older Relative Caregivers
 

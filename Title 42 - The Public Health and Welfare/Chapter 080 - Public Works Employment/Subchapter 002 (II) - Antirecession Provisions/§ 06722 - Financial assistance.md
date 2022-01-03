@@ -14,7 +14,7 @@ Subject to the provisions of subsections (c) and (d), there are authorized to be
 
 #### (c) Aggregate authorization
 
-In no case shall the aggregate amount authorized to be appropriated under the provisions ofsubsection (b) for the five successive calendar quarters beginning with the calendar quarter which begins July 1, 1977, exceed $2,250,000,000.
+In no case shall the aggregate amount authorized to be appropriated under the provisions of subsection (b) for the five successive calendar quarters beginning with the calendar quarter which begins July 1, 1977, exceed $2,250,000,000.
 
 #### (d) Termination
 
@@ -25,6 +25,8 @@ No amount is authorized to be appropriated under the provisions of subsection (b
 &emsp;(2) the rate of national unemployment for the last month of the most recent calendar quarter which ended three months before the beginning of such calendar quarter did not exceed 6 percent.
 
 (Pub. L. 94–369, title II, §202, July 22, 1976, 90 Stat. 1002; Pub. L. 94–447, title II, §201(1), Oct. 1, 1976, 90 Stat. 1498; Pub. L. 95–30, title VI, §602, May 23, 1977, 91 Stat. 164.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

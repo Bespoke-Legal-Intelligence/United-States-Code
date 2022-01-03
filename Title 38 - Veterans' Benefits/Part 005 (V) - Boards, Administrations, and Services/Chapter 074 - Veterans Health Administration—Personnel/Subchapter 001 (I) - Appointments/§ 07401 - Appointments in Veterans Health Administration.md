@@ -62,6 +62,68 @@ Par. (3). Pub. L. 108–170, §301(a)(1)(B), added par. (3) and struck out forme
 
 Amendment by section 302(a) of Pub. L. 108–170 effective at end of 180-day period beginning on Dec. 6, 2003, see section 302(h) of Pub. L. 108–170, set out as a note under section 7316 of this title.
 
+#### Emergency Department of Veterans Affairs Employee Leave Fund
+
+Pub. L. 117–2, title VIII, §8008, Mar. 11, 2021, 135 Stat. 116, provided that:
+
+"(a)
+
+Establishment; Appropriation.—There is established in the Treasury the Emergency Department of Veterans Affairs Employee Leave Fund (in this section referred to as the 'Fund'), to be administered by the Secretary of Veterans Affairs, for the purposes set forth in subsection (b). In addition to amounts otherwise available, there is appropriated for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $80,000,000, which shall be deposited into the Fund and remain available through September 20, 2022.
+
+"(b)
+
+Purpose.—Amounts in the Fund shall be available for payment to the Department of Veterans Affairs for the use of paid leave by any covered employee who is unable to work because the employee—
+
+&emsp;"(1) is subject to a Federal, State, or local quarantine or isolation order related to COVID–19;
+
+&emsp;"(2) has been advised by a health care provider to self-quarantine due to concerns related to COVID–19;
+
+&emsp;"(3) is caring for an individual who is subject to such an order or has been so advised;
+
+&emsp;"(4) is experiencing symptoms of COVID–19 and seeking a medical diagnosis;
+
+&emsp;"(5) is caring for a son or daughter of such employee if the school or place of care of the son or daughter has been closed, if the school of such son ordaughter requires or makes optional a virtual learning instruction model or requires or makes optional a hybrid of in-person and virtual learning instruction models, or the child care provider of such son or daughter is unavailable, due to COVID–19 precautions;
+
+&emsp;"(6) is experiencing any other substantially similar condition;
+
+&emsp;"(7) is caring for a family member with a mental or physical disability or who is 55 years of age or older and incapable of self-care, without regard to whether another individual other than the employee is available to care for such family member, if the place of care for such family member is closed or the direct care provider is unavailable due to COVID–19; or
+
+&emsp;"(8) is obtaining immunization related to COVID–19 or to recover from any injury, disability, illness, or condition related to such immunization.
+
+"(c)
+
+Limitations.—
+
+&emsp;"(1)
+
+Period of availability.—Paid leave under this section may only be provided to and used by a covered employee during the period beginning on the date of enactment of this Act \[Mar. 11, 2021\] and ending on September 30, 2021.
+
+&emsp;"(2)
+
+Total hours; amount.—Paid leave under this section—
+
+&emsp;&emsp;"(A) shall be provided to a covered employee in an amount not to exceed 600 hours of paid leave for each full-time employee, and in the case of a part-time employee, employee on an uncommon tour of duty, or employee with a seasonal work schedule, in an amount not to exceed the proportional equivalent of 600 hours to the extent amounts in the Fund remain available for reimbursement;
+
+&emsp;&emsp;"(B) shall be paid at the same hourly rate as other leave payments; and
+
+&emsp;&emsp;"(C) may not be provided to a covered employee if the leave would result in payments greater than $2,800 in aggregate for any biweekly pay period for a full-time employee, or a proportionally equivalent biweekly limit for a part-time employee.
+
+&emsp;"(3)
+
+Relationship to other leave.—Paid leave under this section—
+
+&emsp;&emsp;"(A) is in addition to any other leave provided to a covered employee; and
+
+&emsp;&emsp;"(B) may not be used by a covered employee concurrently with any other paid leave.
+
+&emsp;"(4)
+
+Calculation of retirement benefit.—Any paid leave provided to a covered employee under this section shall reduce the total service used to calculate any Federal civilian retirement benefit.
+
+"(d)
+
+Covered Employee Defined.—In this section, the term 'covered employee' means an employee of the Department of Veterans Affairs appointed under chapter 74 of title 38, United States Code."
+
 #### Department of Veterans Affairs Pilot Program for Clinical Observation by Undergraduate Students
 
 Pub. L. 116–315, title III, §3010, Jan. 5, 2021, 134 Stat. 4997, provided that:
@@ -126,7 +188,7 @@ Priority.—In making such selection, the Secretary shall give priority to each 
 
 &emsp;&emsp;"(B) First generation college students (as defined in section 402A(h)(3) of the Higher Education Act of 1965 (20 U.S.C. 1067q(a))).
 
-&emsp;&emsp;"(C) Students who have been referred by minority-serving institutions (as defined in section 371(a)of the Higher Education Act of 1965 (20 U.S.C. 1067q(a))).
+&emsp;&emsp;"(C) Students who have been referred by minority-serving institutions (as defined in section 371(a) of the Higher Education Act of 1965 (20 U.S.C. 1067q(a))).
 
 &emsp;&emsp;"(D) Veterans (as defined in section 101 of title 38, United States Code).
 
@@ -186,9 +248,49 @@ No Additional Funds Authorized.—No additional funds are authorized to be appro
 
 Pub. L. 116–171, title V, §501(b), Oct. 17, 2020, 134 Stat. 815, provided that: "Not later than one year after the date of the enactment of this Act \[Oct. 17, 2020\], the Secretary of Veterans Affairs, in consultation with the Office of Personnel Management, shall develop an occupational series for licensed professional mental health counselors and marriage and family therapists of the Department of Veterans Affairs."
 
-#### Encouragement of Transition of Military Medical Professionals Into Employment With Veterans Health Administration
+#### Identification and Referral of Members of the Armed Forces With a Health Care Occupation for Potential Employment With the Department of Veterans Affairs During Separation From the Armed Forces
 
-Pub. L. 115–46, title II, §207, Aug. 12, 2017, 131 Stat. 964, provided that: "The Secretary of Veterans Affairs shall establish a program to encourage an individual who serves in the Armed Forces with a military occupational specialty relating to the provision of health care to seek employment with the Veterans Health Administration when the individual has been discharged or released from service in the Armed Forces or is contemplating separating from such service."
+Pub. L. 115–46, title II, §207, Aug. 12, 2017, 131 Stat. 964, as amended by Pub. L. 117–67, §2, Nov. 30, 2021, 135 Stat. 1491, provided that:
+
+"(a)
+
+In General.—The Secretary of Veterans Affairs, in consultation with the Secretary of Defense, shall establish a program to identify and refer members of the Armed Forces with a health care occupation for employment with the Department of Veterans Affairs during the separation of such members from the Armed Forces.
+
+"(b)
+
+Referral of Interested Individuals.—
+
+&emsp;"(1)
+
+In general.—If a member of the Armed Forces identified under subsection (a) expresses an interest in working in a health care occupation within the Department of Veterans Affairs, the Secretary of Veterans Affairs shall refer the member to a recruiter of the Department for consideration of open positions in the specialty and geography of interest to the member.
+
+&emsp;"(2)
+
+Timing.—Any referral of a member of the Armed Forces conducted under paragraph (1) shall be made not earlier than one year before the separation of the member from the Armed Forces.
+
+"(c)
+
+Rule of Construction.—Any identification of a member of the Armed Forces under subsection (a) or referral of such member under subsection (b) shall not be construed as a guarantee of employment of such member with the Department of Veterans Affairs.
+
+"(d)
+
+Reports.—Not later than each of one year and two years after the date of the enactment of the Hire Veteran Health Heroes Act of 2021 \[Nov. 30, 2021\], the Secretary of Veterans Affairs shall submit to the appropriate committees of Congress a report on the program established under subsection (a).
+
+"(e)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Appropriate committees of congress.—The term 'appropriate committees of Congress' means—
+
+&emsp;&emsp;"(A) the Committee on Armed Services and the Committee on Veterans' Affairs of the Senate; and
+
+&emsp;&emsp;"(B) the Committee on Armed Services and the Committee on Veterans' Affairs of the House of Representatives.
+
+&emsp;"(2)
+
+Health care occupation.—The term 'health care occupation' means an occupation for which an individual may be appointed for employment with the Department of Veterans Affairs under section 7401 of title 38, United States Code."
 
 #### Training for Human Resources Professionals of Veterans Health Administration on Recruitment and Retention
 
@@ -224,7 +326,7 @@ Pub. L. 115–46, title II, §210, Aug. 12, 2017, 131 Stat. 965, provided that:
 
 "(a)
 
-Plan.—Not later than 120 days after the date of the enactment of this Act \[Aug. 12, 2017\], the Secretary of Veterans Affairs shall develop and implement a plan to hire highly qualified directors for each medical center of the Department of Veterans Affairs that lacks a permanent director as of the date of the plan.
+Plan.—Not later than 120 days after the date of the enactment of this Act \[Aug. 12, 2017\], the Secretary of Veterans Affairs shall develop and implement a planto hire highly qualified directors for each medical center of the Department of Veterans Affairs that lacks a permanent director as of the date of the plan.
 
 "(b)
 

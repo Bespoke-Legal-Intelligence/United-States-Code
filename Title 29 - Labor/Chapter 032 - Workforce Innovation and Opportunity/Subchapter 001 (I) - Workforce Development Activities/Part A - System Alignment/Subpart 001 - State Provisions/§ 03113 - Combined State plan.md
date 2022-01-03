@@ -84,7 +84,7 @@ In this section, the term "appropriate Secretary" means—
 
 &emsp;(1) with respect to the portion of a combined plan relating to any of the core programs (including a description, and an assurance concerning that program, specified in subsection (b)(3)), the Secretary of Labor and the Secretary of Education; and
 
-&emsp;(2) with respect to the portion of a combined plan relating to a program or activity described in subsection (a)(2) (including a description, and an assurance concerning that program or activity, specified in subsection (b)(3)), the head of the Federal agency who exercises plan or application approval authority for the program or activity under the Federal law authorizing the program or activity, or, if there are no planning or application requirements for such program or activity, exercises administrative authority over the program or activity under that Federal law.
+&emsp;(2) with respect to the portion of a combined plan relating to a program or activity described in subsection (a)(2) (including a description, and an assurance concerning that program or activity, specified in subsection (b)(3)), the head of the Federal agency who exercises plan or application approval authority for the program or activity under the Federal law authorizing the program or activity, or, if there are no planning or application requirements for such program or activity, exercisesadministrative authority over the program or activity under that Federal law.
 
 (Pub. L. 113–128, title I, §103, July 22, 2014, 128 Stat. 1450.)
 
@@ -94,7 +94,7 @@ In this section, the term "appropriate Secretary" means—
 
 The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsecs. (a)(2)(A) and (c)(4), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
 
-The Social Security Act, referred to in subsec. (a)(2)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to partA (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (a)(2)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Trade Act of 1974, referred to in subsec. (a)(2)(E), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 2 of title II of the Act is classified generally to part 2 (§2271 et seq.) of subchapter II of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 2101 of Title 19 and Tables.
 

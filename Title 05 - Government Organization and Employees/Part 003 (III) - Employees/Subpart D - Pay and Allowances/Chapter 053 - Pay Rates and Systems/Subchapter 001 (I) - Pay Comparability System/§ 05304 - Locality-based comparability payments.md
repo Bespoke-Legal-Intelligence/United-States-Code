@@ -82,7 +82,7 @@
 
 (2) The pay agent shall—
 
-&emsp;(A) provide for meetings with the Council and give thorough consideration to the views and recommendations of the Council and theindividual views and recommendations, if any, of the members of the Council regarding—
+&emsp;(A) provide for meetings with the Council and give thorough consideration to the views and recommendations of the Council and the individual views and recommendations, if any, of the members of the Council regarding—
 
 &emsp;&emsp;(i) the establishment or modification of pay localities;
 
@@ -106,7 +106,7 @@
 
 (B) Judicial review of any regulation under this subsection shall be limited to whether or not it was promulgated in accordance with the requirements referred to in subparagraph (A).
 
-(g)(1) Except as provided in paragraph (2), comparability payments may not be paid at a rate which, when added to the rate of basic pay otherwise payable to the employee involved, would cause the total to exceed the rate of basic pay payable for level IV of the Executive Schedule.
+(g)(1) Except as provided in paragraph (2), comparability payments may not be paid at a rate which, when added to the rate of basic payotherwise payable to the employee involved, would cause the total to exceed the rate of basic pay payable for level IV of the Executive Schedule.
 
 (2) The applicable maximum under this subsection shall be level III of the Executive Schedule for—
 
@@ -148,7 +148,7 @@
 
 (B) A request by an agency head or exercise of authority by the President under subparagraph (A) shall cover—
 
-&emsp;(i) with respect to the positions under subparagraphs (A) through (C) of paragraph (1),all positions described in the subparagraph or subparagraphs involved (excluding any under clause (i), (ii), (iii), (iv), (v), (vi), or (vii) of such paragraph); and
+&emsp;(i) with respect to the positions under subparagraphs (A) through (C) of paragraph (1), all positions described in the subparagraph or subparagraphs involved (excluding any under clause (i), (ii), (iii), (iv), (v), (vi), or (vii) of such paragraph); and
 
 &emsp;(ii) with respect to positions under paragraph (1)(D), such positions as may be considered appropriate (excluding any under clause (i), (ii), (iii), (iv), (v), (vi), or (vii) of paragraph (1)).
 
@@ -166,7 +166,7 @@
 
 (i) The Office of Personnel Management may prescribe regulations, consistent with the provisions of this section, governing the payment of comparability payments to employees.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 459; Pub. L. 91–375, §6(c)(11), Aug. 12, 1970, 84 Stat. 776; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–465, title II, §2314(c)(3), Oct. 17, 1980, 94 Stat. 2168; Pub. L. 101–509, title V, §529 \[title I, §101(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1431; Pub. L. 102–378, §2(26), Oct. 2, 1992, 106 Stat. 1348; Pub. L. 108–136, div. A, title XI, §1125(a)(1), Nov. 24, 2003, 117 Stat. 1638; Pub. L. 108–411, title III, §302(a)(1), Oct. 30, 2004, 118 Stat. 2318; Pub. L. 110–372, §2(a), Oct. 8, 2008, 122 Stat. 4043; Pub. L. 111–84, div. A, title XIX, §1912(a), Oct. 28, 2009, 123 Stat. 2619.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 459; Pub. L. 91–375, §6(c)(11), Aug. 12, 1970, 84 Stat. 776; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–465, title II, §2314(c)(3), Oct. 17, 1980, 94 Stat. 2168; Pub. L. 101–509, title V, §529 \[title I, §101(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1431; Pub. L. 102–378, §2(26), Oct. 2, 1992, 106Stat. 1348; Pub. L. 108–136, div. A, title XI, §1125(a)(1), Nov. 24, 2003, 117 Stat. 1638; Pub. L. 108–411, title III, §302(a)(1), Oct. 30, 2004, 118 Stat. 2318; Pub. L. 110–372, §2(a), Oct. 8, 2008, 122 Stat. 4043; Pub. L. 111–84, div. A, title XIX, §1912(a), Oct. 28, 2009, 123 Stat. 2619.)
 
 Historical and Revision Notes
 
@@ -272,7 +272,7 @@ Subsec. (h)(1)(iii). Pub. L. 102–378, §2(26)(E)(i)(II)–(IV), added cl. (iii
 
 Subsec. (h)(2)(C). Pub. L. 102–378, §2(26)(E)(ii), added subpar. (C).
 
-Subsec. (h)(3)(B). Pub. L. 102–378, §2(26)(E)(iii), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "shall be payable, within the locality involved, for the entirety of each calendar year for which authority is granted by the President;".
+Subsec. (h)(3)(B). Pub. L. 102–378, §2(26)(E)(iii), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "shall be payable, withinthe locality involved, for the entirety of each calendar year for which authority is granted by the President;".
 
 <b>1990</b>—Pub. L. 101–509 amended section generally, substituting provisions relating to locality-based comparability payments for provisions making functions, duties, and regulations of agencies and Office of Personnel Management with respect to this subchapter subject to Presidential policies and regulations.
 
@@ -322,7 +322,7 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor byBoard of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
+Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 
 #### Non-Foreign Area Retirement Equity Assurance
 
@@ -590,7 +590,7 @@ In General.—The Director of the Office of Personnel Management shall prescribe
 
 "(b)
 
-Other Pay Systems.—With the concurrence of the Director of the Office of Personnel Management, the administrator of a pay system not administered by the Office of Personnel Management shall prescribe regulations to carry out this subtitle with respect to employees in such pay system, consistent with the regulations prescribed by the Office under subsection (a). With respect to employees not entitled to locality-based comparability payments under section 5304 of title 5, United States Code, regulations prescribed under this subsection may provide for special payments or adjustments for employees who were eligible to receive a cost-of-living allowance under section 5941 of that title on the date before the date of enactment of this Act \[Oct. 28, 2009\].
+Other Pay Systems.—With the concurrence of the Director of the Office of Personnel Management, the administrator of a pay system not administered by the Office of Personnel Management shall prescribe regulations to carry out this subtitle with respect to employees in such pay system, consistent with the regulations prescribed by the Office under subsection (a).With respect to employees not entitled to locality-based comparability payments under section 5304 of title 5, United States Code, regulations prescribed under this subsection may provide for special payments or adjustments for employees who were eligible to receive a cost-of-living allowance under section 5941 of that title on the date before the date of enactment of this Act \[Oct. 28, 2009\].
 
 #### "SEC. 1919. EFFECTIVE DATES.
 
@@ -658,7 +658,7 @@ Pub. L. 106–554, §1(a)(3) \[title VI, §637\], Dec. 21, 2000, 114 Stat. 2763,
 
 "(2) The report shall include a detailed accounting of any concerns the pay agent may have regarding the current methodology, the specific projects the pay agent has directed any of those agencies to undertake in order to address those concerns, and a time line for the anticipated completion of those projects and for implementation of the revised methodology.
 
-"(3) The report shall also include recommendations as to how those ongoing efforts might be expedited, including any additional resources which, in the opinion of the pay agent, are needed in order to expedite completion of the activities described in the preceding provisions of this subsection, and the reasons why those additional resources are needed."
+"(3) The report shall also include recommendations as to how those ongoing efforts might be expedited, including any additional resources which, in the opinionof the pay agent, are needed in order to expedite completion of the activities described in the preceding provisions of this subsection, and the reasons why those additional resources are needed."
 
 #### Freeze of Current Rate for Locality-based Comparability Adjustments
 

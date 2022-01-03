@@ -50,7 +50,7 @@ Actions When Airports Not Maintaining and Carrying Out Effective Security Measur
 
 &emsp;(B) each air carrier and foreign air carrier providing transportation between the United States and the airport shall provide written notice of the decision, on or with the ticket, to each passenger buying a ticket for transportation between the United States and the airport;
 
-&emsp;(C) notwithstanding section 40105(b) of this title, the Secretary of Transportation, after consulting with the appropriate aeronautic authorities of the foreign country concernedand each air carrier serving the airport and with the approval of the Secretary of State, may withhold, revoke, or prescribe conditions on the operating authority of an air carrier or foreign air carrier that uses that airport to provide foreign air transportation; and
+&emsp;(C) notwithstanding section 40105(b) of this title, the Secretary of Transportation, after consulting with the appropriate aeronautic authorities of the foreign country concerned and each air carrier serving the airport and with the approval of the Secretary of State, may withhold, revoke, or prescribe conditions on the operating authority of an air carrier or foreign air carrier that uses that airport to provide foreign air transportation; and
 
 &emsp;(D) the President may prohibit an air carrier or foreign air carrier from providing transportation between the United States and any other foreign airport that is served by aircraft flying to or from the airport with respect to which a decision is made under this section.
 
@@ -158,9 +158,13 @@ In subsection (e), before clause (1), the word "provide" is substituted for "eng
 
 In subsection (f), the words "issued under authority vested in" are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a)(2)(B). Pub. L. 115–254 inserted ", including the screening and vetting of airport workers" after "security measures".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Last Point of Departure Airports; Security Directives
 

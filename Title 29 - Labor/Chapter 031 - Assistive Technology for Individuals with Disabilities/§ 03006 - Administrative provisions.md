@@ -32,7 +32,7 @@
 
 #### (2) Provision of information
 
-&emsp;To assist the Secretary in carrying out the responsibilities of the Secretary under this section, the Secretary may require States toprovide relevant information, including the information required under subsection (d).
+&emsp;To assist the Secretary in carrying out the responsibilities of the Secretary under this section, the Secretary may require States to provide relevant information, including the information required under subsection (d).
 
 #### (c) Corrective action and sanctions
 
@@ -58,7 +58,7 @@
 
 #### (4) Secretarial action
 
-&emsp;As part of the annual report required under subsection (d), the Secretary shall describe each such action taken under paragraph (1) or (2) and the outcomes of each such action.
+&emsp;As part of the annual report required under subsection (d), the Secretary shall describeeach such action taken under paragraph (1) or (2) and the outcomes of each such action.
 
 #### (5) Public notification
 

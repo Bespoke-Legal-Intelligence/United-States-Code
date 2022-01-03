@@ -56,7 +56,7 @@ For purposes of section 401(a)(29), a defined benefit plan which is a single-emp
 
 #### (1) Funding percentage less than 60 percent
 
-&emsp;A defined benefit plan which is a single-employer plan shall provide that, in any case inwhich the plan's adjusted funding target attainment percentage for a plan year is less than 60 percent, the plan may not pay any prohibited payment after the valuation date for the plan year.
+&emsp;A defined benefit plan which is a single-employer plan shall provide that, in any case in which the plan's adjusted funding target attainment percentage for a plan year is less than 60 percent, the plan may not pay any prohibited payment after the valuation date for the plan year.
 
 #### (2) Bankruptcy
 
@@ -188,11 +188,11 @@ For purposes of applying this title—
 
 #### (1) Operation of plan after period
 
-&emsp;Unless the plan provides otherwise, payments and accruals will resume effective as of the day following the close of the period forwhich any limitation of payment or accrual of benefits under subsection (d) or (e) applies.
+&emsp;Unless the plan provides otherwise, payments and accruals will resume effective as of the day following the close of the period for which any limitation of payment or accrual of benefits under subsection (d) or (e) applies.
 
 #### (2) Treatment of affected benefits
 
-&emsp;Nothing in this subsection shall be construed as affecting the plan's treatment of benefits which would have been paid or accrued but for this section.
+&emsp;Nothing in this subsection shall be construed as affecting the plan's treatment ofbenefits which would have been paid or accrued but for this section.
 
 #### (j) Terms relating to funding target attainment percentage
 
@@ -219,6 +219,8 @@ In the case of a plan which has designated a valuation date other than the first
 For purposes of this section, the term "single-employer plan" means a plan which is not a multiemployer plan.
 
 (Added Pub. L. 109–280, title I, §113(a)(1)(B), Aug. 17, 2006, 120 Stat. 847; amended Pub. L. 110–458, title I, §101(c)(2), Dec. 23, 2008, 122 Stat. 5097; Pub. L. 111–192, title II, §203(a)(2), June 25, 2010, 124 Stat. 1300; Pub. L. 113–97, title II, §202(c)(3)(B), Apr. 7, 2014, 128 Stat. 1136; Pub. L. 113–159, title II, §2003(c)(1), Aug. 8, 2014, 128 Stat. 1850; Pub. L. 113–295, div. A, title II, §221(a)(57)(E)(i), (F)(i), (G)(i), Dec. 19, 2014, 128 Stat. 4046.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -255,6 +257,8 @@ Subsec. (j)(3)(A). Pub. L. 110–458, §101(c)(2)(E)(i), struck out "without reg
 Subsec. (j)(3)(C). Pub. L. 110–458, §101(c)(2)(E)(ii), substituted "without regard to the reduction in the value of assets under section 430(f)(4)" for "without regard to this paragraph" and inserted "beginning" before "after" in two places.
 
 Subsecs. (k) to (m). Pub. L. 110–458, §101(c)(2)(F), added subsecs. (k) and (l) and redesignated former subsec. (k) as (m).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

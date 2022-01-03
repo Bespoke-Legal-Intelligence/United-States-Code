@@ -2,7 +2,7 @@
 
 #### (a) Compliance with chapter 83 of title 41
 
-No funds authorized to be appropriated under this Act or any amendment made by this Act may be expended by an entity unless the entity,in expending the funds, complies with chapter 83 of title 41.
+No funds authorized to be appropriated under this Act or any amendment made by this Act may be expended by an entity unless the entity, in expending the funds, complies with chapter 83 of title 41.
 
 #### (b) Debarment of persons convicted of fraudulent use of "Made in America" labels
 
@@ -12,9 +12,11 @@ No funds authorized to be appropriated under this Act or any amendment made by t
 
 #### (2) Definition of debar
 
-&emsp;In this subsection, the term "debar" has the meaning given the term in section 2393(c) of title 10.
+&emsp;In this subsection, the term "debar" has the meaning given the term in section 4654(c) of title 10.
 
-(Pub. L. 106–390, title III, §306, Oct. 30, 2000, 114 Stat. 1574; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
+(Pub. L. 106–390, title III, §306, Oct. 30, 2000, 114 Stat. 1574; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 117–81, div. A, title XVII, §1702(j)(4), Dec. 27, 2021, 135 Stat. 2159.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -28,9 +30,15 @@ In subsec. (a), "chapter 83 of title 41" substituted for references to the Buy A
 
 Section was enacted as part of the Disaster Mitigation Act of 2000, and not as part of the Robert T. Stafford Disaster Relief and Emergency Assistance Act which comprises this chapter.
 
+#### Amendments
+
+<b>2021</b>—Subsec. (b)(2). Pub. L. 117–81 substituted "section 4654(c)" for "section 2393(c)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
-"Administrator of the Federal Emergency Management Agency" and "Administrator" substituted for "Director of the Federal Emergency Management Agency" and "Director", respectively, in subsec. (b)(1) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
+"Administrator of the Federal Emergency Management Agency" and "Administrator" substituted for"Director of the Federal Emergency Management Agency" and "Director", respectively, in subsec. (b)(1) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
 
 #### Transfer of Functions
 

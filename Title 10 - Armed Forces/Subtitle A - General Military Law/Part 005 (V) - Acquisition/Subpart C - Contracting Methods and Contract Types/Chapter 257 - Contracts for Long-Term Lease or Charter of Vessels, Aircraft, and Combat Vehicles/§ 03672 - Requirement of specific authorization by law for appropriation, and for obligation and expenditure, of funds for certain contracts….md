@@ -14,7 +14,7 @@ Limitation.—Funds may not be appropriated for any fiscal year to or for any ar
 
 Matter to Be Submitted to Congress.—(1) Whenever a request is submitted to Congress for the authorization of the long-term lease or charter of aircraft, naval vessels, or combat vehicles or for the authorization of a lease or charter of aircraft, naval vessels, or combat vehicles which provides for a substantial termination liability on the part of the United States, the Secretary of Defense shall submit with that request an analysis of the cost to the United States (including lost tax revenues) of any such lease or charter arrangement compared with the cost to the United States of direct procurement of the aircraft, naval vessels, or combat vehicles by the United States.
 
-(2) Any such analysis shall be reviewed and evaluated by the Director of the Office of Management and Budget and the Secretary of the Treasury within 30 days after the date on which the request and analysis are submitted to Congress. The Director and Secretary shall conduct such review and evaluation on the basis of the guidelines issued pursuant to section 3676 of this title and shall report to Congress in writing on the results of their review and evaluation at the earliest practicable date, but in no event morethan 45 days after the date on which the request and analysis are submitted to the Congress.
+(2) Any such analysis shall be reviewed and evaluated by the Director of the Office of Management and Budget and the Secretary of the Treasury within 30 days after the date on which the request and analysis are submitted to Congress. The Director and Secretary shall conduct such review and evaluation on the basis of the guidelines issued pursuant to section 3676 of this title and shall report to Congress in writing on the results of their review and evaluation at the earliest practicable date, but in no event more than 45 days after the date on which the request and analysis are submitted to the Congress.
 
 (3) Whenever a request is submitted to Congress for the authorization of funds for the Department of Defense for the long-term lease or charter of aircraft, naval vessels, or combat vehicles authorized under this chapter, the Secretary of Defense—
 
@@ -23,6 +23,8 @@ Matter to Be Submitted to Congress.—(1) Whenever a request is submitted to Con
 &emsp;(B) shall reflect such portion in the appropriate procurement account in the request.
 
 (Added and amended Pub. L. 116–283, div. A, title XVIII, §1825(a), (d), (e), Jan. 1, 2021, 134 Stat. 4206, 4207.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -35,6 +37,8 @@ The text of subsec. (e) of section 2401 of this title, which was transferred to 
 <b>2021</b>—Subsec. (a). Pub. L. 116–283, §1825(d), after transfer of par. (2) of section 2401(c) of this title to section 3673 of this title, redesignated remainder of subsec. (c) of section 2401 of this title as subsec. (a) of this section, inserted heading, struck out par. (1) designation before "Funds may not", and redesignated subpars. (A) and (B) of such former par. (1) as pars. (1) and (2), respectively.
 
 Subsec. (b). Pub. L. 116–283, §1825(e), redesignated subsec. (e) of section 2401 of this title as subsec. (b) of this section, inserted heading, and substituted "section 3676 of this title" for "subsection (g)" in par. (2) and "this chapter" for "this section" in introductory provisions of par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

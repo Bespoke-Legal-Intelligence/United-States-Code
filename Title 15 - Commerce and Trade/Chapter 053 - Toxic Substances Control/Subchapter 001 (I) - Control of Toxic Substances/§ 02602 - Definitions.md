@@ -78,9 +78,11 @@ As used in this chapter:
 
 (Pub. L. 94–469, title I, §3, Oct. 11, 1976, 90 Stat. 2004; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989; Pub. L. 100–418, title I, §1214(e)(1), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 114–92, div. A, title III, §315, Nov. 25, 2015, 129 Stat. 791; Pub. L. 114–182, title I, §§3, 19(c), June 22, 2016, 130 Stat. 448, 505.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in par. (2)(B)(ii), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21,1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
+The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in par. (2)(B)(ii), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
 
 The Atomic Energy Act of 1954, referred to in par. (2)(B)(iv), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, and amended, which is classified principally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
@@ -115,6 +117,8 @@ Pars. (16), (17). Pub. L. 114–182, §3(1), redesignated pars. (13) and (14) as
 <b>1988</b>—Par. (7). Pub. L. 100–418 substituted "general note 2 of the Harmonized Tariff Schedule of the United States" for "general headnote 2 of the Tariff Schedules of the United States".
 
 <b>1986</b>—Par. (2)(B)(v). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

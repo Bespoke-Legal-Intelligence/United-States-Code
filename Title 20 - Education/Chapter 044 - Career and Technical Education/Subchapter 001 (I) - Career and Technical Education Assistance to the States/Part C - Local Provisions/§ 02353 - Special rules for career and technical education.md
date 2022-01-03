@@ -12,7 +12,7 @@
 
 #### (2) Minimal amount
 
-&emsp;For purposes of this section, the term "minimal amount" means not more than 15 percentof the total amount made available for distribution under section 2322(a)(1) of this title.
+&emsp;For purposes of this section, the term "minimal amount" means not more than 15 percent of the total amount made available for distribution under section 2322(a)(1) of this title.
 
 #### (b) Redistribution
 
@@ -40,6 +40,8 @@ For purposes of this section, the eligible agency shall provide funds to charter
 
 (Pub. L. 88–210, title I, §133, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 731; amended Pub. L. 115–224, title I, §132, July 31, 2018, 132 Stat. 1612.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 2353, Pub. L. 88–210, title I, §133, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3113, related to special rules for vocational and technical education, prior to the general amendment of this chapter by Pub. L. 109–270.
@@ -47,6 +49,8 @@ A prior section 2353, Pub. L. 88–210, title I, §133, as added Pub. L. 105–3
 #### Amendments
 
 <b>2018</b>—Subsecs. (c), (d). Pub. L. 115–224 inserted "or programs of study" after "career and technical education programs" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

@@ -36,7 +36,7 @@ Denial of appeal.—If a final judgment on the appeal under paragraph (1) is not
 
 Exception.—This section shall not apply to any class action that solely involves—
 
-&emsp;(1) a claim concerning a covered security as defined under section 16(f)(3) of the Securities Act of 1933 (15 U.S.C. 78p(f)(3) <sup>1</sup>) and section28(f)(5)(E) of the Securities Exchange Act of 1934 (15 U.S.C. 78bb(f)(5)(E));
+&emsp;(1) a claim concerning a covered security as defined under section 16(f)(3) of the Securities Act of 1933 (15 U.S.C. 78p(f)(3) <sup>1</sup>) and section 28(f)(5)(E) of the Securities Exchange Act of 1934 (15 U.S.C. 78bb(f)(5)(E));
 
 &emsp;(2) a claim that relates to the internal affairs or governance of a corporation or other form of business enterprise and arises under or by virtue of the laws of the State in which such corporation or business enterprise is incorporated or organized; or
 

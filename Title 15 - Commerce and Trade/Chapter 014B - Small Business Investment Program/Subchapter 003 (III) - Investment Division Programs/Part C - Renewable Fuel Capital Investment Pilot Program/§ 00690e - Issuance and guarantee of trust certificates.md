@@ -62,7 +62,7 @@ The Administrator shall not collect a fee for any guarantee of a trust certifica
 
 #### (4) Electronic registration
 
-&emsp;Nothing in this subsection may be construed to prohibit the use of a book-entry or otherelectronic form of registration for trust certificates issued under this section.
+&emsp;Nothing in this subsection may be construed to prohibit the use of a book-entry or other electronic form of registration for trust certificates issued under this section.
 
 (Pub. L. 85–699, title III, §386, as added Pub. L. 110–140, title XII, §1207, Dec. 19, 2007, 121 Stat. 1779.)
 

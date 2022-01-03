@@ -24,6 +24,8 @@ To implement subsection (a) and section 242k of this title, the Secretary may, i
 
 (July 1, 1944, ch. 373, title III, §304, as added July 28, 1955, ch. 417, §3, 69 Stat. 382; amended Aug. 2, 1956, ch. 871, title V, §502, 70 Stat. 930; Pub. L. 90–174, §3(a), Dec. 5, 1967, 81 Stat. 534; Pub. L. 91–296, title IV, §401(b)(1)(A), June 30, 1970, 84 Stat. 352; Pub. L. 91–515, title II, §§201(a)–(c), 202, 203, Oct. 30, 1970, 84 Stat. 1301–1303; Pub. L. 93–45, title I, §102, June 18, 1973, 87 Stat. 91; Pub. L. 93–353, title I, §103, July 23, 1974, 88 Stat. 362; Pub. L. 95–623, §§3, 7, Nov. 9, 1978, 92 Stat. 3443, 3451; Pub. L. 96–32, §5(a)–(c), July 10, 1979, 93 Stat. 82; Pub. L. 97–35, title IX, §918, Aug. 13, 1981, 95 Stat. 565; Pub. L. 98–551, §5(c), Oct. 30, 1984, 98 Stat. 2819; Pub. L. 101–239, title VI, §6103(e)(1), Dec. 19, 1989, 103 Stat. 2205; Pub. L. 103–183, title V, §501(b), Dec. 14, 1993, 107 Stat. 2237; Pub. L. 106–129, §2(b)(2), Dec. 6, 1999, 113 Stat. 1670; Pub. L. 107–206, title I, §804(c), Aug. 2, 2002, 116 Stat. 874.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 242c and 242n of this title, referred to in subsec. (b)(3), were repealed by Pub. L. 101–239, title VI, §6103(d)(1), Dec. 19, 1989, 103 Stat. 2205.
@@ -42,7 +44,7 @@ In subsec. (b)(4), "section 8141 of title 40" substituted for "the Act of March 
 
 <b>1989</b>—Subsec. (a). Pub. L. 101–239, §6103(e)(1)(B), substituted "the Agency for Health Care Policy and Research" for "the National Center for Health Services Research and Health Care Technology Assessment" and "in section 242k of this title and in subchapter VII" for "in sections 242c, 242k, and 242n of this title".
 
-Pub. L. 101–239, §6103(e)(1)(A), redesignated par. (3) as entire subsec. (a) and struck out pars. (1) and (2) which required Secretary to conduct and support research, demonstrations, evaluations, and statistical and epidemiological activities for purpose of improving health services in the United States, and which specified types of activities Secretary was to emphasize in carrying out par. (1).
+Pub. L. 101–239, §6103(e)(1)(A), redesignated par. (3) as entire subsec. (a) and struck out pars. (1) and (2) whichrequired Secretary to conduct and support research, demonstrations, evaluations, and statistical and epidemiological activities for purpose of improving health services in the United States, and which specified types of activities Secretary was to emphasize in carrying out par. (1).
 
 Subsec. (b). Pub. L. 101–239, §6103(e)(1)(C), substituted "subsection (a) and section 242k of this title" for "subsection (a)".
 
@@ -96,9 +98,15 @@ Subsecs. (c), (d). Pub. L. 91–515, §§201(a)(3)(A), (c), 202(1), redesignated
 
 Pub. L. 91–296 struck out provisions authorizing use of appropriated funds for evaluation of program authorized by this section. See section 229b of this title.
 
-<b>1967</b>—Pub. L. 90–174 substituted provisions of subsecs. (a) to (d) for research and demonstrations relating to health facilities (incorporated from former section 291n of this title) for provisions of former subsecs. (a) to (d) for mental health study including grants for special projects, conditions thereof, and definition of "organization", authorization of appropriations, terms of grant, availability of amounts otherwise appropriated and noninterference with research and study programs of the National Institute of Mental Health, and acceptance of additional financial support.
+<b>1967</b>—Pub. L. 90–174 substituted provisions of subsecs. (a) to (d) for research and demonstrations relating tohealth facilities (incorporated from former section 291n of this title) for provisions of former subsecs. (a) to (d) for mental health study including grants for special projects, conditions thereof, and definition of "organization", authorization of appropriations, terms of grant, availability of amounts otherwise appropriated and noninterference with research and study programs of the National Institute of Mental Health, and acceptance of additional financial support.
 
 <b>1956</b>—Act Aug. 2, 1956, changed heading of section 304 of act July 1, 1944 from "Grants for special projects in mental health" to "Mental health study grants". Section heading has been changed for purposes of codification.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+"Secretary of Health and Human Services" substituted in text for "Secretary of Health, Education, and Welfare" pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
 #### Effective Date of 1970 Amendments
 
@@ -109,10 +117,6 @@ Pub. L. 91–296, title IV, §401(b)(1), June 30, 1970, 84 Stat. 352, provided t
 #### Effective Date of 1956 Amendment
 
 Amendment of section by act Aug. 2, 1956, effective July 1, 1956, see section 503 of act Aug. 2, 1956.
-
-#### Transfer of Functions
-
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
 
 #### Commission on Systemic Interoperability
 
@@ -133,6 +137,12 @@ Joint Res. July 28, 1955, ch. 417, §2, 69 Stat. 382, provided a Congressional s
 #### Children's Emotional Illness Study; Program Grants; Conditions; Definitions; Appropriations; Terms of Grant
 
 Pub. L. 89–97, title II, §231, July 30, 1965, 79 Stat. 360, as amended by Pub. L. 90–248, title III, §305, Jan. 2, 1968, 81 Stat. 929, authorized the Secretary of Health, Education, and Welfare upon the recommendation of the National Advisory Mental Health Council and after securing the advice of experts in pediatrics and child welfare, to make grants to organizations on certain conditions for carrying out a program of research into and study of resources, methods, and practices for diagnosing or preventing emotional illness in children and of treating, caring for, and rehabilitating children with emotional illnesses, defined "organization", and authorized appropriations for the making of such grants for fiscal years ending June 30, 1966, and June 30, 1967, with such research and study to be completed not later than three years from the date it was inaugurated.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

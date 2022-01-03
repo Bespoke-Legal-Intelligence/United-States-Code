@@ -4,6 +4,8 @@ During any marketing year for which a marketing quota is in effect for wheat, be
 
 (Feb. 16, 1938, ch. 30, title III, §379b, as added Pub. L. 87–703, title III, §324(2), Sept. 27, 1962, 76 Stat. 626; amended Pub. L. 88–297, title II, §202(10), (11), Apr. 11, 1964, 78 Stat. 179, 180; Pub. L. 89–321, title V, §§502, 503, Nov. 3, 1965, 79 Stat. 1202; Pub. L. 90–559, §1(1), Oct. 11, 1968, 82 Stat. 996; Pub. L. 91–524, title IV, §402(a), (b)(B), (C), Nov. 30, 1970, 84 Stat. 1362, as renumbered and amended Pub. L. 93–86, §1(9), Aug. 10, 1973, 87 Stat. 225.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1973</b>—Subsec. (c)(1). Pub. L. 91–524, §402(b)(B)(i)–(vi), as added by Pub. L. 93–86, temporarily substituted "payments authorized by section 1445a(c) of this title" for "certificates on wheat", "wheat allotment" for "domestic wheat allotment", "thirteen and three-tenths million" for "13.3 million", "1971 crop; plus, if required by the Secretary, (ii) the acreage" for "1971 crop or 15 million acres in the case of the 1972 or 1973 crop, plus (ii) the acreage", "The Secretary is authorized for the 1974 through 1977 crops to limit" for "The Secretary is authorized for the 1971, 1972, and 1973 crops to limit", "such percentage of the acreage allotment" for "such percentage of the domestic wheat allotment as he determines necessary to provide an orderly transition to the program provided for under this section", "The Secretary shall permit producers to plant and graze on set-aside acreage sweet sorghum, and the Secretary may permit, subject to such terms and conditions as he may prescribe, all or any of the set-aside acreage to be devoted to hay and" for "Grazing shall not be permitted during any of the five principal months of the normal growing season as determined by the county committee established pursuant to section 590h(b) of Title 16 and subject to this limitation (1) the Secretary shall permit producers to plant and graze on the set-aside acreage sweet sorghum, and (2) the Secretary may permit, subject to such terms and conditions as he may prescribe, all or any of the set-aside acreage to be devoted to", and "flaxseed, triticale, oats, rye, or other commodity" for "flaxseed, or other commodity". See Effective and Termination Dates of 1973 Amendment note below.
@@ -34,6 +36,8 @@ Pub. L. 89–321, §503, substituted "projected farm yield" for "normal wheat fo
 
 Pub. L. 88–297, §202(11), substituted "food products for consumption in the United States" for "human consumption in the United States, as food, food products, and beverages, composed wholly or partly of wheat" in second sentence.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective and Termination Dates of 1973 Amendment
 
 Pub. L. 91–524, title IV, §402(b)(B), as added by Pub. L. 93–86, §1(9), Aug. 10, 1973, 87 Stat. 226, provided that subsec. (c) of this section, as amended by section 402(a), (b)(B) of Pub. L. 91–524, is effective with respect to the 1974 through 1977 crops of wheat.
@@ -46,7 +50,7 @@ Pub. L. 91–524, title IV, §402(a), formerly §402, Nov. 30, 1970, 84 Stat. 13
 
 #### Effective and Termination Dates of 1965 Amendment
 
-Pub. L. 89–321, title V, §502, Nov. 3, 1965, 79 Stat. 1202, as amended by Pub. L. 90–559, §1(1), Oct. 11, 1968, 82Stat. 996, provided that the amendment made by section 502 of Pub. L. 89–321 is effective only with respect to the crops of wheat planted for harvest in calendar years 1966 through 1970, and marketing years for such crops.
+Pub. L. 89–321, title V, §502, Nov. 3, 1965, 79 Stat. 1202, as amended by Pub. L. 90–559, §1(1), Oct. 11, 1968, 82 Stat. 996, provided that the amendment made by section 502 of Pub. L. 89–321 is effective only with respect to the crops of wheat planted for harvest in calendar years 1966 through 1970, and marketing years for such crops.
 
 Pub. L. 89–321, title V, §503, Nov. 3, 1965, 79 Stat. 1202, provided that the amendment made by section 503 of Pub. L. 89–321 is effective beginning with the 1970 crop.
 

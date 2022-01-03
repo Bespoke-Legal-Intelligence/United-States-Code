@@ -78,7 +78,7 @@ Section 1. <i>Purpose</i>. As Americans, we believe that all persons are created
 
 Law enforcement officers provide the essential protection that all Americans require to raise their families and lead productive lives. The relationship between our fellow citizens and law enforcement officers is an important element in their ability to provide that protection. By working directly with their communities, law enforcement officers can help foster a safe environment where we all can prosper.
 
-Unfortunately, there have been instances in which some officers have misused their authority, challenging the trust of the American people, with tragic consequences for individual victims, their communities, and our Nation. All Americans are entitled to live with the confidence that the law enforcement officers and agencies in their communities will live up to our Nation's founding ideals and will protect the rights of all persons. Particularly in African-American communities, we must redouble our efforts as a Nation to swiftly address instances of misconduct.
+Unfortunately, there have been instances in which some officers have misused their authority, challengingthe trust of the American people, with tragic consequences for individual victims, their communities, and our Nation. All Americans are entitled to live with the confidence that the law enforcement officers and agencies in their communities will live up to our Nation's founding ideals and will protect the rights of all persons. Particularly in African-American communities, we must redouble our efforts as a Nation to swiftly address instances of misconduct.
 
 The Constitution declares in its preamble that one of its primary purposes was to establish Justice. Generations of Americans have marched, fought, bled, and died to safeguard the promise of our founding document and protect our shared inalienable rights. Federal, State, local, tribal, and territorial leaders must act in furtherance of that legacy.
 
@@ -96,7 +96,7 @@ Sec. 2. <i>Certification and Credentialing</i>. (a) State and local law enforcem
 
 Sec. 3. <i>Information Sharing</i>. (a) The Attorney General shall create a database to coordinate the sharing of information between and among Federal, State, local, tribal, and territorial law enforcement agencies concerning instances of excessive use of force related to law enforcement matters, accounting for applicable privacy and due process rights.
 
-(b) The database described in subsection (a) of this section shall include a mechanism to track, as permissible, terminations or de-certifications of law enforcement officers, criminal convictions of law enforcement officers for on-duty conduct, and civil judgments against law enforcement officers for improper use of force. The database described in subsection (a) of this section shall account for instances where a law enforcement officer resigns or retires while under active investigation related to the use of force. The Attorney General shall take appropriate steps to ensure that the information in the database consists only of instances inwhich law enforcement officers were afforded fair process.
+(b) The database described in subsection (a) of this section shall include a mechanism to track, as permissible, terminations or de-certifications of law enforcement officers, criminal convictions of law enforcement officers for on-duty conduct, and civil judgments against law enforcement officers for improper use of force. The database described in subsection (a) of this section shall account for instances where a law enforcement officer resigns or retires while under active investigation related to the use of force. The Attorney General shall take appropriate steps to ensure that the information in the database consists only of instances in which law enforcement officers were afforded fair process.
 
 (c) The Attorney General shall regularly and periodically make available to the public aggregated and anonymized data from the database described in subsection (a) of this section, as consistent with applicable law.
 
@@ -114,7 +114,7 @@ Sec. 5. <i>Legislation and Grant Programs</i>. (a) The Attorney General, in cons
 
 (b) The legislation described in subsection (a) of this section shall include recommendations to enhance current grant programs to improve law enforcement practices and build community engagement, including through:
 
-(i) assisting State and local law enforcement agencies with implementing the credentialing process described in section 2 of this order, the reporting described in section 3 of this order, and the co-responder and community-support models described in section 4 of this order;
+(i) assisting State and local law enforcement agencies with implementing the credentialing process describedin section 2 of this order, the reporting described in section 3 of this order, and the co-responder and community-support models described in section 4 of this order;
 
 (ii) training and technical assistance required to adopt and implement improved use-of-force policies and procedures, including scenario-driven de-escalation techniques;
 
@@ -145,3 +145,4 @@ Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [Chapter 503 - Law Enforcement Congressional Badge of Bravery](Chapter%20503%20-%20Law%20Enforcement%20Congressional%20Badge%20of%20Bravery/README.md)
 - [Chapter 505 - National Blue Alert](Chapter%20505%20-%20National%20Blue%20Alert/README.md)
 - [Chapter 507 - Law Enforcement Suicide Data Collection](Chapter%20507%20-%20Law%20Enforcement%20Suicide%20Data%20Collection/README.md)
+- [Chapter 509 - Confidentiality Opportunities for Peer Support Counseling](Chapter%20509%20-%20Confidentiality%20Opportunities%20for%20Peer%20Support%20Counseling/README.md)

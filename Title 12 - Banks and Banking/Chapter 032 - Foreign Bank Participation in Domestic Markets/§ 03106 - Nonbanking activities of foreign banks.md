@@ -48,7 +48,7 @@ For definition of "this chapter", referred to in subsec. (c), see References in 
 
 <b>1987</b>—Subsec. (c). Pub. L. 100–86 designated existing provisions as par. (1) and added par. (2).
 
-<b>1982</b>—Subsec. (c). Pub. L. 97–320, §704, inserted "or on the date of the establishment of a branch in a State anapplication for which was filed on or before July 26, 1978" after "September 17, 1978,".
+<b>1982</b>—Subsec. (c). Pub. L. 97–320, §704, inserted "or on the date of the establishment of a branch in a State an application for which was filed on or before July 26, 1978" after "September 17, 1978,".
 
 Pub. L. 97–320, §705(a), substituted provision that the term "domestically-controlled affiliate covered in 1978" shall mean an affiliate organized under the laws of the United States or any State thereof if no foreign bank or group of foreign banks acting in concert owns or controls, directly or indirectly, 45 per centum or more of its voting shares, and no more than 20 per centum of the number of directors as established from time to time to constitute the whole board of directors and 20 per centum of the executive officers of such affiliate are persons affiliated with any such foreign bank, for provision that it meant any affiliate the majority of whose voting shares was owned by a company or group of companies organized under the laws of the United States or any State thereof, if it had been under continuous domestic majority-controlling ownership since July 26, 1978, and if a foreign bank or group of foreign banks did not own or control, directly or indirectly, 25 per centum or more of its voting shares, and defined "persons affiliated with any such foreign bank".
 

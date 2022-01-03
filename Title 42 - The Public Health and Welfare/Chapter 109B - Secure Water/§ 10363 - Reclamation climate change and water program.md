@@ -58,7 +58,7 @@ In carrying out the program described in subsection (a), the Secretary shall—
 
 &emsp;&emsp;(E) groundwater and surface water storage needs; and
 
-&emsp;(5) in consultation with the Director, the Administrator, the Secretary of Agriculture (acting through the Chief of the Natural Resources Conservation Service), and applicable State water resource agencies, develop a monitoringplan to acquire and maintain water resources data—
+&emsp;(5) in consultation with the Director, the Administrator, the Secretary of Agriculture (acting through the Chief of the Natural Resources Conservation Service), and applicable State water resource agencies, develop a monitoring plan to acquire and maintain water resources data—
 
 &emsp;&emsp;(A) to strengthen the understanding of water supply trends; and
 
@@ -117,6 +117,8 @@ Nothing in this section amends or otherwise affects any existing authority under
 There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2009 through 2023, to remain available until expended.
 
 (Pub. L. 111–11, title IX, §9503, Mar. 30, 2009, 123 Stat. 1332.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

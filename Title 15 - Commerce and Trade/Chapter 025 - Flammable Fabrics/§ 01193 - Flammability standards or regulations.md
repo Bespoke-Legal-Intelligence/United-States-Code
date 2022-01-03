@@ -2,7 +2,7 @@
 
 #### (a) Proceedings by Commission for determination
 
-Whenever the Commission finds on the basis of the investigations or research conducted pursuant to section 1201 of this title that a new or amended flammability standard or other regulation, including labeling, for a fabric, related material, or product may be needed to protect the public against unreasonable risk of the occurrence of fire leading to death or personal injury, or significant property damage, it shall institute proceedings for the determination of an appropriate flammability standard (including conditions and manner of testing) or other regulation or amendment thereto for such fabric, related material, or product.
+Whenever the Commission finds on the basis of the investigations or research conducted pursuant to section 1201 of this title that a new or amended flammability standard or other regulation, including labeling, for a fabric, related material, or product may be needed to protect the public against unreasonable risk of the occurrence of fire leading to death or personal injury,or significant property damage, it shall institute proceedings for the determination of an appropriate flammability standard (including conditions and manner of testing) or other regulation or amendment thereto for such fabric, related material, or product.
 
 #### (b) Necessary findings; effective date; exemptions
 
@@ -18,7 +18,7 @@ Standards, regulations, and amendments to standards and regulations under this s
 
 #### (e) Judicial review; additional information before Commission; applicability of sections 701 to 706 of title 5; finality of judgment; survival of action
 
-(1) Any person who will be adversely affected by any such standard or regulation or amendment thereto when it is effective may at any time prior to the sixtieth day after such standard or regulation or amendment thereto is issued file a petition with the United States court of appeals for the circuit wherein such person resides or has his principal place of business, for a judicial review thereof. A copy of the petition shall be forthwith transmitted by the clerk of the court to the Commission or otherofficer designated by him <sup>1</sup> for that purpose. The Commission thereupon shall file in the court the record of the proceedings on which the Commission based the standard or regulation, as provided in section 2112 of title 28.
+(1) Any person who will be adversely affected by any such standard or regulation or amendment thereto when it is effective may at any time prior to the sixtieth day after such standard or regulation or amendment thereto is issued file a petition with the United States court of appeals for the circuit wherein such person resides or has his principal place of business, for a judicial review thereof. A copy of the petition shall be forthwith transmitted by the clerk of the court to the Commission or other officer designated by him <sup>1</sup> for that purpose. The Commission thereupon shall file in the court the record of the proceedings on which the Commission based the standard or regulation, as provided in section 2112 of title 28.
 
 (2) If the petitioner applies to the court for leave to adduce additional evidence, and shows to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for the failure to adduce such evidence in the proceeding before the Commission, the court may order such additional evidence (and evidence in rebuttal thereof) to be taken before the Commission, and to be adduced upon the hearing, in such manner and upon such terms and conditions as to the court may seem proper. The Commission may modify its findings, or make new findings, by reason of the additional evidence so taken, and it shall file such modified or new findings, and its recommendations, if any, for the modification or setting aside of its original standard or regulation or amendment thereto, with the return of such additional evidence.
 
@@ -72,7 +72,7 @@ A proceeding for the promulgation of a regulation under this section for a fabri
 
 #### (i) Publication of proposed rule by Commission; preliminary regulatory analysis; contents; transmission of notice by Commission to Committees
 
-No regulation may be proposed by the Commission under this section unless the Commission publishes in the Federal Register the text of the proposed rule, including any alternatives, which the Commission proposes to promulgate, together with a preliminary regulatory analysis containing—
+No regulation may be proposed by the Commission under this section unless the Commission publishes in the Federal Register the text of the proposed rule, including any alternatives,which the Commission proposes to promulgate, together with a preliminary regulatory analysis containing—
 
 &emsp;(1) a preliminary description of the potential benefits and potential costs of the proposed regulation, including any benefits or costs that cannot be quantified in monetary terms, and an identification of those likely to receive the benefits and bear the costs;
 
@@ -108,7 +108,7 @@ No regulation may be proposed by the Commission under this section unless the Co
 
 &emsp;(C) that the regulation imposes the least burdensome requirement which prevents or adequately reduces the risk of injury for which the regulation is being promulgated.
 
-(3)(A) Any regulatory analysis prepared under subsection (i) or paragraph (1) shall not be subject to independent judicial review, except that when an action for judicial review of a regulation is instituted, the contents of any such regulatory analysis shall constitute part of thewhole rulemaking record of agency action in connection with such review.
+(3)(A) Any regulatory analysis prepared under subsection (i) or paragraph (1) shall not be subject to independent judicial review, except that when an action for judicial review of a regulation is instituted, the contents of any such regulatory analysis shall constitute part of the whole rulemaking record of agency action in connection with such review.
 
 (B) The provisions of subparagraph (A) shall not be construed to alter the substantive or procedural standards otherwise applicable to judicial review of any action by the Commission.
 
@@ -117,6 +117,8 @@ No regulation may be proposed by the Commission under this section unless the Co
 The Commission shall grant, in whole or in part, or deny any petition under section 553(e) of title 5 requesting the Commission to initiate a rulemaking, within a reasonable time after the date on which such petition is filed. The Commission shall state the reasons for granting or denying such petition. The Commission may not deny any such petition on the basis of a voluntary standard unless the voluntary standard is in existence at the time of the denial of the petition, the Commission has determined that the voluntary standard is likely to result in the elimination or adequate reduction of the risk of injury identified in the petition, and it is likely that there will be substantial compliance with the standard.
 
 (June 30, 1953, ch. 164, §4, 67 Stat. 112; Aug. 23, 1954, ch. 833, 68 Stat. 770; Pub. L. 90–189, §3, Dec. 14, 1967, 81 Stat. 569; Pub. L. 94–284, §20(a), May 11, 1976, 90 Stat. 515; Pub. L. 97–35, title XII, §1203(b)(2), Aug. 13, 1981, 95 Stat. 711; Pub. L. 101–608, title I, §§107(c), 108(c), 110(c), Nov. 16, 1990, 104 Stat. 3112–3114; Pub. L. 110–314, title II, §204(c)(1), (2)(B)–(E), Aug. 14, 2008, 122 Stat. 3042.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -155,6 +157,8 @@ Subsec. (e)(3). Pub. L. 94–284, §20(a)(2), provided that the court not affirm
 <b>1967</b>—Pub. L. 90–189 revised section generally to achieve greater flexibility in the promulgation of flammability standards by substituting provisions authorizing the Secretary of Commerce to issue standards of flammability or regulations (including labeling) for fabrics, related materials or products after observing certain specified procedural requirements for provisions which prescribed certain fixed standards of flammability which could be updated only by legislation.
 
 <b>1954</b>—Subsec. (c). Act Aug. 23, 1954, added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

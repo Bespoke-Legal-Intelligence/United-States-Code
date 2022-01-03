@@ -2,7 +2,7 @@
 
 #### (a) Authority to enter into contracts
 
-Without regard to sections 1341, 1342, and 1349–1351 and subchapter II of chapter 15 of title 31, the Commission is authorized to enter intocontracts for such periods of time as the Commission may deem necessary or desirable, for the purpose of making available fission products from Commission reactors, with or without charge for commercial application.
+Without regard to sections 1341, 1342, and 1349–1351 and subchapter II of chapter 15 of title 31, the Commission is authorized to enter into contracts for such periods of time as the Commission may deem necessary or desirable, for the purpose of making available fission products from Commission reactors, with or without charge for commercial application.
 
 #### (b) Cancellation
 
@@ -13,6 +13,8 @@ Any contract entered into by the Commission pursuant to this section shall be su
 Before the Commission enters into any arrangement or amendment thereto under the authority of this section, the basis for the proposed arrangement or amendment thereto which the Commission proposes to execute (with necessary background and explanatory data) shall be submitted to the Energy Committees (as defined by section 2014 of this title), and a period of forty-five days shall elapse while Congress is in session in computing such forty-five days, there shall be excluded the days on which either House is not in session because of adjournment of more than three days: <i>Provided, however</i>, That the Energy Committees, after having received the basis for the proposed arrangement or amendment thereto, may by resolution in writing waive the conditions of, or all or any portion of, such forty-five-day period.
 
 (Pub. L. 88–332, §107, June 30, 1964, 78 Stat. 230; Pub. L. 103–437, §15(h), Nov. 2, 1994, 108 Stat. 4593.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -27,6 +29,8 @@ Section was not enacted as part of the Atomic Energy Act of 1954 which comprises
 #### Amendments
 
 <b>1994</b>—Subsec. (c). Pub. L. 103–437 substituted "Energy Committees (as defined by section 2014 of this title)" for "Joint Committee" after "submitted to the" and "Energy Committees" for "Joint Committee" after "That the".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

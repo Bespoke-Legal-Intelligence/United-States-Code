@@ -22,9 +22,13 @@ As used in this chapter, unless the context otherwise requires—
 
 (Pub. L. 96–362, §3, Sept. 26, 1980, 94 Stat. 1199; Pub. L. 99–198, title XVII, §1733, Dec. 23, 1985, 99 Stat. 1641.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1985</b>—Pars. (8), (9). Pub. L. 99–198 added par. (8) and redesignated former par. (8) as (9).
+
+#### <b>Executive Documents</b>
 
 #### Termination of Trust Territory of the Pacific Islands
 

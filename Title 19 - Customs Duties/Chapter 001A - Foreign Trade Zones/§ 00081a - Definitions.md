@@ -22,11 +22,15 @@ When used in this chapter—
 
 (June 18, 1934, ch. 590, §1, 48 Stat. 998; Pub. L. 104–201, div. A, title IX, §910, Sept. 23, 1996, 110 Stat. 2621.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (b). Pub. L. 104–201, §910(1), substituted "and the Secretary of the Treasury" for "the Secretary of the Treasury, and the Secretary of War".
 
 Subsec. (c). Pub. L. 104–201, §910(2), struck out "Alaska, Hawaii," after "Columbia,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

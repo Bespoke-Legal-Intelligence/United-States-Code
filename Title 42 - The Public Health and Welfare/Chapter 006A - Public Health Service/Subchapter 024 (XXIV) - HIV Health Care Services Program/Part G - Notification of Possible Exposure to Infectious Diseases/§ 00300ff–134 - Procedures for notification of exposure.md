@@ -2,7 +2,7 @@
 
 #### (a) Contents of notification to officer
 
-In making a notification required under section 300ff–132 of this title or section300ff–133(d)(2) of this title, a medical facility shall provide—
+In making a notification required under section 300ff–132 of this title or section 300ff–133(d)(2) of this title, a medical facility shall provide—
 
 &emsp;(1) the name of the infectious disease involved; and
 
@@ -17,6 +17,8 @@ If a notification under section 300ff–132 of this title or section 300ff–133
 &emsp;(2) such designated officer shall, not later than 10 days after being informed by the medical facility that the notification has been sent, inform such medical facility whether the designated officer has received the notification.
 
 (July 1, 1944, ch. 373, title XXVI, §2695C, as added Pub. L. 111–87, §13, Oct. 30, 2009, 123 Stat. 2901.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

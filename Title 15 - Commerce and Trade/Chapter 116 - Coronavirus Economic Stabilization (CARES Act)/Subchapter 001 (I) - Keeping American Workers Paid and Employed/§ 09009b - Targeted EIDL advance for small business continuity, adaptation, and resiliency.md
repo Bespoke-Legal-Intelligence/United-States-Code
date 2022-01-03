@@ -118,6 +118,8 @@ There are authorized to be appropriated to the Administrator $20,000,000,000 to 
 
 (Pub. L. 116–260, div. N, title III, §331, Dec. 27, 2020, 134 Stat. 2043.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 332 of this Act, referred to in subsec. (a)(3), is section 332 of div. N of Pub. L. 116–260.
@@ -126,9 +128,25 @@ Section 332 of this Act, referred to in subsec. (a)(3), is section 332 of div. N
 
 Section was enacted as part of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act, and not as part of the CARES Act which in part comprises this chapter.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Section effective on Dec. 27, 2020, and applicable to loans and grants made on or after Dec. 27, 2020, see section 348 of div. N of Pub. L. 116–260, set out as an Effective Date of 2020 Amendment note under section 636 of this title.
+Section effective on Dec. 27, 2020, and applicable to loans and grants made on or after Dec. 27, 2020, see section 348 of Pub. L. 116–260, set out as an Effective Date of 2020 Amendment note under section 636 of this title.
+
+#### Tax Treatment of Targeted EIDL Advances
+
+Pub. L. 117–2, title IX, §9672, Mar. 11, 2021, 135 Stat. 184, provided that: "For purposes of the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\]—
+
+&emsp;"(1) amounts received from the Administrator of the Small Business Administration in the form of a targeted EIDL advance under section 331 of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act (title III of division N of Public Law 116–260) \[15 U.S.C. 9009b\] shall not be included in the gross income of the person that receives such amounts,
+
+&emsp;"(2) no deduction shall be denied, no tax attribute shall be reduced, and no basis increase shall be denied, by reason of the exclusion from gross income provided by paragraph (1), and
+
+&emsp;"(3) in the case of a partnership or S corporation that receives such amounts—
+
+&emsp;&emsp;"(A) any amount excluded from income by reason of paragraph (1) shall be treated as tax exempt income for purposes of sections 705 and 1366 of the Internal Revenue Code of 1986 \[26 U.S.C. 705, 1366\], and
+
+&emsp;&emsp;"(B) the Secretary of the Treasury (or the Secretary's delegate) shall prescribe rules for determining a partner's distributive share of any amount described in subparagraph (A) for purposes of section 705 of the Internal Revenue Code of 1986."
 
 #### Clarification of Tax Treatment of Certain Loan Forgiveness and Other Business Financial Assistance
 
@@ -136,5 +154,5 @@ Funding under this section not included in gross income of recipient, see sectio
 
 #### Definitions
 
-"Administration" and "Administrator" mean the Small Business Administration and Administrator ofthe Small Business Administration, see section 302 of div. N of Pub. L. 116–260, set out as a note under section 9001 of this title.
+"Administration" and "Administrator" mean the Small Business Administration and Administrator of the Small Business Administration, see section 302 of div. N of Pub. L. 116–260, set out as a note under section 9001 of this title.
 

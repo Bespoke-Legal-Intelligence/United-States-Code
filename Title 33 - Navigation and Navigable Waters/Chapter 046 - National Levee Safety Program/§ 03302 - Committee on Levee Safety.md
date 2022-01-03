@@ -18,7 +18,7 @@ Nonvoting members.—The following 2 nonvoting members:
 
 &emsp;(2) The following 14 voting members appointed by the Secretary:
 
-&emsp;&emsp;(A) Eight representatives of State levee safety agencies, one from each of the eight civil works divisions of the Corps of Engineers.
+&emsp;&emsp;(A) Eight representatives of State levee safety agencies, one from each of the eightcivil works divisions of the Corps of Engineers.
 
 &emsp;&emsp;(B) Two representatives of the private sector who have expertise in levee safety.
 

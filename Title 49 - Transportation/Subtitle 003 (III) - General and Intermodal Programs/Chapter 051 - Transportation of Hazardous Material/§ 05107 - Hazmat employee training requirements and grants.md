@@ -146,6 +146,8 @@ In subsection (e), the words "and education" are omitted as being included in "t
 
 In subsection (f)(1), the words "(relating to coordination of Federal information policy)" are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (i). Pub. L. 114–94 added subsec. (i).
@@ -177,6 +179,8 @@ Subsec. (h). Pub. L. 109–59, §7108(2), redesignated subsec. (g) as (h).
 Subsec. (e). Pub. L. 103–311, §119(c)(1), (2), in first sentence substituted "The Secretary shall, subject to the availability of funds under section 5127(c)(3), make grants for training instructors to train hazmat employees under this section." for "In consultation with the Secretaries of Transportation and Labor and the Administrator, the Director of the National Institute of Environmental Health Sciences may make grants to train hazmat employees under this section." and in second sentence inserted "hazmat employee" after "nonprofit".
 
 Subsec. (g). Pub. L. 103–311, §119(c)(3), added subsec. (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

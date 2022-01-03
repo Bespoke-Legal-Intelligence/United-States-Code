@@ -46,7 +46,7 @@
 
 #### (i) Provision of, or assistance in locating, adult-supervised living arrangement
 
-&emsp;&emsp;&emsp;In the case of an individual who is described in clause (ii), the State agency referred to in section 602(a)(4) of this titleshall provide, or assist the individual in locating, a second chance home, maternity home, or other appropriate adult-supervised supportive living arrangement, taking into consideration the needs and concerns of the individual, unless the State agency determines that the individual's current living arrangement is appropriate, and thereafter shall require that the individual and the minor child referred to in subparagraph (A)(ii)(II) reside in such living arrangement as a condition of the continued receipt of assistance under the State program funded under this part attributable to funds provided by the Federal Government (or in an alternative appropriate arrangement, should circumstances change and the current arrangement cease to be appropriate).
+&emsp;&emsp;&emsp;In the case of an individual who is described in clause (ii), the State agency referred to in section 602(a)(4) of this title shall provide, or assist the individual in locating, a second chance home, maternity home, or other appropriate adult-supervised supportive living arrangement, taking into consideration the needs and concerns of the individual, unless the State agency determines that the individual's current living arrangement is appropriate, and thereafter shall require that the individual and the minor child referred to in subparagraph (A)(ii)(II) reside in such living arrangement as a condition of the continued receipt of assistance under the State program funded under this part attributable to funds provided by the Federal Government (or in an alternative appropriate arrangement, should circumstances change and the current arrangement cease to be appropriate).
 
 #### (ii) Individual described
 
@@ -174,7 +174,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A State to which a grant is made under section 603 of this title shall not use any part of the grant to provide assistance for a minor child who has been, or is expected by a parent (or other caretaker relative) of the child to be, absent from the home for a period of 45 consecutive days or, at the option of the State, such period of not less than 30 and not more than 180 consecutive days as the State may provide for in the State plansubmitted pursuant to section 602 of this title.
+&emsp;&emsp;A State to which a grant is made under section 603 of this title shall not use any part of the grant to provide assistance for a minor child who has been, or is expected by a parent (or other caretaker relative) of the child to be, absent from the home for a period of 45 consecutive days or, at the option of the State, such period of not less than 30 and not more than 180 consecutive days as the State may provide for in the State plan submitted pursuant to section 602 of this title.
 
 #### (B) State authority to establish good cause exceptions
 
@@ -308,7 +308,7 @@ The following rules shall apply if a State elects to take the income or resource
 
 &emsp;&emsp;&emsp;(ii) the cash needs standard established by the State for purposes of determining eligibility for assistance under the State program funded under this part for a family of the same size and composition as the sponsor and any other individuals living in the same household as the sponsor who are claimed by the sponsor as dependents for purposes of determining the sponsor's Federal personal income tax liability but whose needs are not taken into account in determining whether the sponsor's family has met the cash needs standard;
 
-&emsp;&emsp;&emsp;(iii) any amounts paid by the sponsor or any such spouse to individuals not livingin the household who are claimed by the sponsor as dependents for purposes of determining the sponsor's Federal personal income tax liability; and
+&emsp;&emsp;&emsp;(iii) any amounts paid by the sponsor or any such spouse to individuals not living in the household who are claimed by the sponsor as dependents for purposes of determining the sponsor's Federal personal income tax liability; and
 
 &emsp;&emsp;&emsp;(iv) any payments of alimony or child support with respect to individuals not living in the household.
 
@@ -362,6 +362,8 @@ Each State to which a grant is made under section 603 of this title shall, at le
 
 (Aug. 14, 1935, ch. 531, title IV, §408, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2134; amended Pub. L. 105–33, title V, §§5001(d), (h)(1), 5505, 5514(c), 5532(b)(2), 5581(a), Aug. 5, 1997, 111 Stat. 591, 593, 610, 620, 626, 642; Pub. L. 109–171, title VII, §7301(a), Feb. 8, 2006, 120 Stat. 141; Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(V), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 112–96, title IV, §4004(a), Feb. 22, 2012, 126 Stat. 197.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Part D, referred to in subsec. (a)(2), (11)(B), is classified to section 651 et seq. of this title.
@@ -374,7 +376,7 @@ For effective date of this part, referred to in subsec. (b)(2)(B)(i), see Effect
 
 The Age Discrimination Act of 1975, referred to in subsec. (d)(1), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, which is classified generally to chapter 76 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (d)(3), is Pub. L. 101–336, July 26, 1990, 104Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (d)(3), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
 
 The Civil Rights Act of 1964, referred to in subsec. (d)(4), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
@@ -410,7 +412,7 @@ Subsec. (a)(1). Pub. L. 105–33, §5505(a), amended heading and text of par. (1
 
 &emsp;"(B) if the family includes an adult who has received assistance under any State program funded under this part attributable to funds provided by the Federal Government, for 60 months (whether or not consecutive) after the date the State program funded under this part commences (unless an exception described in subparagraph (B), (C), or (D) of paragraph (7) applies)."
 
-Subsec. (a)(3). Pub. L. 105–33, §5505(b), substituted "ceases to receive assistance under" for "leaves" in introductory provisions and cl. (ii) of subpar. (A) and in subpar. (B) and substituted "after such date" for "after the date the family leaves the program" in introductory provisions of subpar. (A).
+Subsec. (a)(3). Pub. L. 105–33, §5505(b), substituted "ceases to receive assistance under" for "leaves" in introductory provisions and cl. (ii) of subpar. (A) and in subpar. (B) and substituted "after such date" for "afterthe date the family leaves the program" in introductory provisions of subpar. (A).
 
 Subsec. (a)(3)(A). Pub. L. 105–33, §5532(b)(2), redesignated cls. (i) and (ii) as subcls. (I) and (II), respectively, of cl. (i) and added a new cl. (ii).
 
@@ -436,6 +438,8 @@ Subsec. (f). Pub. B. 105–33, §5505(e), added subsec. (f).
 
 Subsec. (g). Pub. L. 105–33, §5581(a), added subsec. (g).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
@@ -456,7 +460,7 @@ State option to accelerate effective date.—Notwithstanding paragraph (1), a St
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–33, title V, §5001(h)(2), Aug. 5, 1997, 111 Stat. 593, provided that: "The amendments made byparagraph (1) \[amending this section\] shall take effect as if included in the enactment of section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\]."
+Pub. L. 105–33, title V, §5001(h)(2), Aug. 5, 1997, 111 Stat. 593, provided that: "The amendments made by paragraph (1) \[amending this section\] shall take effect as if included in the enactment of section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\]."
 
 Amendment by section 5505 of Pub. L. 105–33 effective as if included in section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, at the time such section 103(a) became law, see section 5518(a) of Pub. L. 105–33, set out as a note under section 602 of this title.
 

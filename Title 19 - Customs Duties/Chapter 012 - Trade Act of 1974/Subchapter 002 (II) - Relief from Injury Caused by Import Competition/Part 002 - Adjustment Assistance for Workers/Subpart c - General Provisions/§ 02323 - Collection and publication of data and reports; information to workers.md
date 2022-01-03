@@ -58,7 +58,7 @@ The system required under subsection (a) shall include collection of and reporti
 
 &emsp;(B) A summary of the data on workers in the annual reports required under section 2311(j) of this title classified by the age, pre-program educational level, and post-program credential attainment of the workers.
 
-&emsp;(C) The median earnings of workers described in section 2311(j)(2)(A)(i)(III) of this title during the second calendar quarter after exit from the program, expressed as a percentage of the median earnings of such workers before the calendar quarter in which such workers began receiving benefits under this part.
+&emsp;(C) The median earnings of workers described in section 2311(j)(2)(A)(i)(III) of thistitle during the second calendar quarter after exit from the program, expressed as a percentage of the median earnings of such workers before the calendar quarter in which such workers began receiving benefits under this part.
 
 &emsp;(D) The sectors in which workers are employed after receiving benefits under this part.
 
@@ -72,7 +72,7 @@ The system required under subsection (a) shall include collection of and reporti
 
 &emsp;(B) The total amount of the payments to the States to carry out sections 2295 through 2298 of this title used for training, in the aggregate and for each State.
 
-&emsp;(C) The total amount of payments to the States to carry out sections 2295 through 2298of this title used for the costs of administration, in the aggregate and for each State.
+&emsp;(C) The total amount of payments to the States to carry out sections 2295 through 2298 of this title used for the costs of administration, in the aggregate and for each State.
 
 &emsp;(D) The total amount of payments to the States to carry out sections 2295 through 2298 of this title used for job search and relocation allowances, in the aggregate and for each State.
 
@@ -114,6 +114,8 @@ Not later than February 15 of each year, the Secretary shall submit to the Commi
 
 <i>For termination of section beginning on July 1, 2021, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see Codification and Effective and Termination Dates notes below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 233 of Pub. L. 112–40, which provided for Jan. 1, 2014, termination of section, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, and this section, as added by Pub. L. 112–40 and as in effect on Dec. 31, 2013, was temporarily revived, effective June 29, 2015, until July 1, 2021, by Pub. L. 114–27, §§402(b), (c), 406. See Effective and Termination Dates notes below.
@@ -138,7 +140,7 @@ Subsec. (b)(4)(A), (B). Pub. L. 114–27, §§404(b)(1)(B)(i), 406, temporarily 
 
 Subsec. (b)(4)(C). Pub. L. 114–27, §§404(b)(1)(B)(ii), 406, temporarily added subpar. (C) and struck out former subpar. (C) which read as follows: "The average earnings of workers described in section 2311(j)(2)(A)(i) of this title in the second, third, and fourth calendar quarters following the calendar quarter in which such workers cease receiving benefits under this part, expressed as a percentage of the average earnings of such workers in the 3 calendar quarters before the calendar quarter in which such workers began receiving benefits under this part." See Codification note above and Effective and Termination Dates note below.
 
-Subsec. (e)(1)(B) to (D). Pub. L. 114–27, §§404(b)(2)(A), 406, temporarily added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively. See Codification note above and Effective and Termination Dates note below.
+Subsec. (e)(1)(B) to (D). Pub. L. 114–27, §§404(b)(2)(A), 406, temporarily added subpar. (B) and redesignatedformer subpars. (B) and (C) as (C) and (D), respectively. See Codification note above and Effective and Termination Dates note below.
 
 Subsec. (e)(2). Pub. L. 114–27, §§404(b)(2)(B), 406, temporarily substituted "an annual" for "a quarterly". See Codification note above and Effective and Termination Dates note below.
 
@@ -161,6 +163,8 @@ Subsec. (b)(4)(B) to (D). Pub. L. 112–40, §§216(b)(1)(C), 233, temporarily a
 Subsec. (b)(6). Pub. L. 112–40, §§216(b)(1)(D), 233, temporarily added par. (6). See Codification note above and Effective and Termination Dates note below.
 
 Subsec. (d). Pub. L. 112–40, §§216(b)(3), 233, temporarily substituted "February 15" for "December 15" in introductory provisions. See Codification note above and Effective and Termination Dates note below.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective and Termination Dates
 

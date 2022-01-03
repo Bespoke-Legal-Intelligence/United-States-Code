@@ -18,9 +18,11 @@ Whenever the Secretary finds that a State, or an entity that has received a paym
 
 #### (c) Authority of Attorney General; civil actions
 
-When a matter is referred to the Attorney General pursuant to subsection (b)(1), or whenever he has reason to believe that the entity is engaged in a pattern or practice in violation of a provision of law referred to in subsection (a)(1) or in violation of subsection (a)(2), the Attorney General may bring a civil action in any appropriate district court of the United States for such relief as may be appropriate, including injunctive relief.
+When a matter is referred to the Attorney General pursuant to subsection (b)(1), or whenever he has reason to believe that the entity isengaged in a pattern or practice in violation of a provision of law referred to in subsection (a)(1) or in violation of subsection (a)(2), the Attorney General may bring a civil action in any appropriate district court of the United States for such relief as may be appropriate, including injunctive relief.
 
 (Aug. 14, 1935, ch. 531, title V, §508, as added Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 825; amended Pub. L. 101–239, title VI, §6502(b), Dec. 19, 1989, 103 Stat. 2276.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -39,6 +41,8 @@ Provisions similar to those comprising former section 708 were contained in sect
 #### Amendments
 
 <b>1989</b>—Subsec. (b). Pub. L. 101–239 substituted "702(c) of this title" for "702(b) of this title" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1989 Amendment
 

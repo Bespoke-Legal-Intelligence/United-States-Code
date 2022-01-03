@@ -12,7 +12,7 @@ General Authority and Limitations.—The Secretary of Transportation may comprom
 
 (b)
 
-Certification by Commission.—(1) A manufacturer liable for a civil penalty under section 32912(b) of this title may apply to the Commission for a certification that a reduction in the penalty is necessary to prevent a substantial lessening of competition in the segment of the motor vehicle industry subject to the standard that was violated. The Commission shall make the certification when it finds that reduction is necessary to prevent the lessening. The Commission shall state in the certification the maximum amount by which the penalty may be reduced.
+Certification by Commission.—(1) A manufacturer liable for a civil penalty under section 32912(b) of this title may apply to the Commission for a certification that a reduction in the penalty is necessary to prevent a substantial lessening of competition in the segment of the motor vehicle industry subject to the standard that was violated. The Commission shall make the certification when it finds that reduction isnecessary to prevent the lessening. The Commission shall state in the certification the maximum amount by which the penalty may be reduced.
 
 (2) An application under this subsection must be made not later than 30 days after the Secretary decides that the manufacturer has violated section 32911(b) of this title. To the maximum extent practicable, the Commission shall make a decision on an application by the 90th day after the application is filed. A proceeding under this subsection may not delay the manufacturer's liability for the penalty for more than 90 days after the application is filed.
 
@@ -52,6 +52,8 @@ In subsection (b)(3), the words "When a civil penalty is collected in a civil ac
 
 This amends 49:32913(b)(1) to clarify the restatement of 15:2008(b)(4) and (5) by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1073).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (b). Pub. L. 104–287 made technical amendment to directory language of Pub. L. 103–429, §6(41). See 1994 Amendment notes below.
@@ -59,6 +61,8 @@ This amends 49:32913(b)(1) to clarify the restatement of 15:2008(b)(4) and (5) b
 <b>1994</b>—Subsec. (b). Pub. L. 103–429, §6(41)(A), as amended by Pub. L. 104–287, substituted "Certification" for "Penalty Reduction" in heading.
 
 Subsec. (b)(1). Pub. L. 103–429, §6(41)(B), as amended by Pub. L. 104–287, substituted "a reduction in the penalty is necessary" for "the penalty should be reduced".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

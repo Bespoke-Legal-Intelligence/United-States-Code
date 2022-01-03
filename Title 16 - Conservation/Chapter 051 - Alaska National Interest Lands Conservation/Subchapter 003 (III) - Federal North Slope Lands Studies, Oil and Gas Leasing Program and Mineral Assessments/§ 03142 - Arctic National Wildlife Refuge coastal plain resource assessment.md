@@ -26,7 +26,7 @@ The Secretary, in consultation with the Governor of the State, Native Village an
 
 &emsp;(E) analyze the potential effects of such activities on the culture and lifestyle (including subsistence) of affected Native and other people.
 
-> Within eighteen months after December 2, 1980, the Secretary shall publish the results of thestudy as of that date and shall thereafter publish such revisions thereto as are appropriate as new information is obtained.
+> Within eighteen months after December 2, 1980, the Secretary shall publish the results of the study as of that date and shall thereafter publish such revisions thereto as are appropriate as new information is obtained.
 
 #### (d) Guidelines
 
@@ -68,7 +68,7 @@ If at any time while exploratory activity is being carried out under an explorat
 
 #### (g) Civil penalties
 
-(1) Any person who is found by the Secretary, after notice and an opportunity for a hearing in accordance with section 554 of title 5, to have violated any provision of a plan approved under subsection (e) or any term or condition of a permit issued under subsection (f), or to have committed any act prohibited under subsection (d) shall be liable to the United States for a civil penalty. The amount of the civil penalty shall not exceed $10,000 for each violation. Each day of a continuing violation shall constitute a separate offense. The amount of such civil penaltyshall be assessed by the Secretary by written notice. In determining the amount of such penalty, the Secretary shall take into account the nature, circumstances, extent, and gravity of the prohibited act committed, and, with respect to the violator, the history of any prior offenses, his demonstrated good faith in attempting to achieve timely compliance after being cited for the violation, and such other matters as justice may require.
+(1) Any person who is found by the Secretary, after notice and an opportunity for a hearing in accordance with section 554 of title 5, to have violated any provision of a plan approved under subsection (e) or any term or condition of a permit issued under subsection (f), or to have committed any act prohibited under subsection (d) shall be liable to the United States for a civil penalty. The amount of the civil penalty shall not exceed $10,000 for each violation. Each day of a continuing violation shall constitute a separate offense. The amount of such civil penalty shall be assessed by the Secretary by written notice. In determining the amount of such penalty, the Secretary shall take into account the nature, circumstances, extent, and gravity of the prohibited act committed, and, with respect to the violator, the history of any prior offenses, his demonstrated good faith in attempting to achieve timely compliance after being cited for the violation, and such other matters as justice may require.
 
 (2) Any person against whom a civil penalty is assessed under paragraph (1) may obtain review thereof in the appropriate district court of the United States by filing a notice of appeal in such court within thirty days from the date of such order and by simultaneously sending a copy of such notice by certified mail to the Secretary. The Secretary shall promptly file in such court a certified copy of the record upon which such violation was found or such penalty imposed, as provided in section 2112 of title 28. The findings and order of the Secretary shall be set aside by such court if they are not found to be supported by substantial evidence, as provided in section 706(2)(E) of title 5.
 
@@ -98,7 +98,9 @@ Until otherwise provided for in law enacted after December 2, 1980, all public l
 
 (Pub. L. 96–487, title X §1002, Dec. 2, 1980, 94 Stat. 2449; Pub. L. 97–394, title I, §110, Dec. 30, 1982, 96 Stat. 1982.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>1982</b>—Subsec. (e)(2)(C). Pub. L. 97–394 inserted proviso that the Secretary prohibit by regulation any person who obtains access to such data and information from the Secretary or from any person other than a permittee from participation in any lease sale which includes the areas from which the information was obtained and from any commercial use of the information, and that Secretary require that any permittee make available such data to any person at fair cost.
+<b>1982</b>—Subsec. (e)(2)(C). Pub. L. 97–394 inserted proviso that the Secretary prohibit by regulation any personwho obtains access to such data and information from the Secretary or from any person other than a permittee from participation in any lease sale which includes the areas from which the information was obtained and from any commercial use of the information, and that Secretary require that any permittee make available such data to any person at fair cost.
 

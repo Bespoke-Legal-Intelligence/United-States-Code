@@ -46,7 +46,7 @@ The certification described in subsection (a) shall be signed by a supervisory o
 
 #### (C) Notice
 
-&emsp;&emsp;Any recipient that discloses to a person described in subparagraph (A) informationotherwise subject to a nondisclosure requirement shall inform the person of the applicable nondisclosure requirement.
+&emsp;&emsp;Any recipient that discloses to a person described in subparagraph (A) information otherwise subject to a nondisclosure requirement shall inform the person of the applicable nondisclosure requirement.
 
 #### (D) Identification of disclosure recipients
 
@@ -78,6 +78,8 @@ Notwithstanding any other provision of this subchapter, any consumer reporting a
 
 (Pub. L. 90–321, title VI, §627, formerly §626, as added Pub. L. 107–56, title III, §358(g)(1)(B), Oct. 26, 2001, 115 Stat. 327; renumbered §627 and amended Pub. L. 108–159, title II, §214(a)(1), (c)(3), Dec. 4, 2003, 117 Stat. 1980, 1983; Pub. L. 108–458, title VI, §6203(l), Dec. 17, 2004, 118 Stat. 3747; Pub. L. 109–177, title I, §§116(c), 118(b), Mar. 9, 2006, 120 Stat. 214, 217; Pub. L. 109–178, §4(c)(2), Mar. 9, 2006, 120 Stat. 280; Pub. L. 114–23, title V, §§501(d), 502(d), 503(d), June 2, 2015, 129 Stat. 282, 286, 290.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (a). Pub. L. 114–23, §501(d), substituted "analysis and that includes a term that specifically identifies a consumer or account to be used as the basis for the production of such information." for "analysis."
@@ -95,6 +97,8 @@ Subsec. (f). Pub. L. 109–177, §118(b), added subsec. (f).
 <b>2004</b>—Subsec. (e). Pub. L. 108–458 substituted "government agency" for "governmental agency".
 
 <b>2003</b>—Subsec. (d). Pub. L. 108–159, §214(c)(3), made technical amendment to reference in original act which appears in text as reference to section 1681u of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

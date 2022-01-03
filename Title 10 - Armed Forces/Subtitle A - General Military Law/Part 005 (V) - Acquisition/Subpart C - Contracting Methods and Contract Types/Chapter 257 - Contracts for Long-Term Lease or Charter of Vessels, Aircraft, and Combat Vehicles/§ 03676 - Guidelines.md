@@ -1,8 +1,10 @@
 ### §3676. Guidelines
 
-The Director of the Office of Management and Budget and the Secretary of the Treasury shalljointly issue guidelines for determining under what circumstances the Department of Defense may use lease or charter arrangements for aircraft, naval vessels, and combat vehicles rather than directly procuring such aircraft, vessels, and combat vehicles.
+The Director of the Office of Management and Budget and the Secretary of the Treasury shall jointly issue guidelines for determining under what circumstances the Department of Defense may use lease or charter arrangements for aircraft, naval vessels, and combat vehicles rather than directly procuring such aircraft, vessels, and combat vehicles.
 
 (Added and amended Pub. L. 116–283, div. A, title XVIII, §1825(a), (h), Jan. 1, 2021, 134 Stat. 4206, 4208.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -11,6 +13,8 @@ The text of subsec. (g) of section 2401 of this title, which was transferred to 
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283, §1825(h), transferred subsec. (g) of section 2401 of this title to this section and struck out subsec. (g) designation at beginning.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

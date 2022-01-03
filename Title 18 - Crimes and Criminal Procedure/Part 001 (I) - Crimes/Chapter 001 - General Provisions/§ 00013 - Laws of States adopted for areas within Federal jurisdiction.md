@@ -12,7 +12,7 @@
 
 (B) For the purposes of subparagraph (A), the term "minor" means a person less than 18 years of age.
 
-(c) Whenever any waters of the territorial sea of the United States lie outside the territory ofany State, Commonwealth, territory, possession, or district, such waters (including the airspace above and the seabed and subsoil below, and artificial islands and fixed structures erected thereon) shall be deemed, for purposes of subsection (a), to lie within the area of the State, Commonwealth, territory, possession, or district that it would lie within if the boundaries of such State, Commonwealth, territory, possession, or district were extended seaward to the outer limit of the territorial sea of the United States.
+(c) Whenever any waters of the territorial sea of the United States lie outside the territory of any State, Commonwealth, territory, possession, or district, such waters (including the airspace above and the seabed and subsoil below, and artificial islands and fixed structures erected thereon) shall be deemed, for purposes of subsection (a), to lie within the area of the State, Commonwealth, territory, possession, or district that it would lie within if the boundaries of such State, Commonwealth, territory, possession, or district were extended seaward to the outer limit of the territorial sea of the United States.
 
 (June 25, 1948, ch. 645, 62 Stat. 686; Pub. L. 100–690, title VI, §6477(a), Nov. 18, 1988, 102 Stat. 4381; Pub. L. 103–322, title X, §100002, Sept. 13, 1994, 108 Stat. 1996; Pub. L. 104–132, title IX, §901(b), Apr. 24, 1996, 110 Stat. 1317; Pub. L. 104–294, title VI, §604(b)(32), Oct. 11, 1996, 110 Stat. 3508.)
 

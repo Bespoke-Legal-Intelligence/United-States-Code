@@ -40,7 +40,7 @@ In this chapter:
 
 #### (8) Means of conveyance
 
-&emsp;The term "means of conveyance" means any personal property used for or intended for usefor the movement of any other personal property.
+&emsp;The term "means of conveyance" means any personal property used for or intended for use for the movement of any other personal property.
 
 #### (9) Move and related terms
 
@@ -112,7 +112,7 @@ In this chapter:
 
 #### (18) Systems approach
 
-&emsp;For the purposes of section 7712(e) of this title, the term "systems approach" means a defined set of phytosanitary procedures, at least two of which have an independent effect in mitigating pest risk associated with the movement of commodities.
+&emsp;For the purposes of section 7712(e) of this title, the term "systems approach" means a defined set of phytosanitary procedures, at least two of which have an independent effectin mitigating pest risk associated with the movement of commodities.
 
 #### (19) This chapter
 
@@ -123,6 +123,8 @@ In this chapter:
 &emsp;The term "United States" means all of the States.
 
 (Pub. L. 106–224, title IV, §403, June 20, 2000, 114 Stat. 438.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

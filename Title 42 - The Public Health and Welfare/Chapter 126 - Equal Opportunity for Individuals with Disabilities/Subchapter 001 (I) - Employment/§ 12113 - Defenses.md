@@ -48,13 +48,17 @@ Notwithstanding section 12102(4)(E)(ii) of this title, a covered entity shall no
 
 (Pub. L. 101–336, title I, §103, July 26, 1990, 104 Stat. 333; Pub. L. 110–325, §5(b), Sept. 25, 2008, 122 Stat. 3557.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (e)(3), was in the original "this Act", meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification ofthis Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
+This chapter, referred to in subsecs. (a) and (e)(3), was in the original "this Act", meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
 
 #### Amendments
 
 <b>2008</b>—Subsecs. (c) to (e). Pub. L. 110–325 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

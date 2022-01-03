@@ -4,17 +4,23 @@ The Public Health Service in the Department of Health and Human Services shall b
 
 (July 1, 1944, ch. 373, title II, §201, 58 Stat. 683; 1953 Reorg. Plan No. 1, §§5, 8 eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 103–43, title XX, §2008(f), June 10, 1993, 107 Stat. 212.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1993</b>—Pub. L. 103–43 substituted "Health and Human Services" for "Health, Education, and Welfare" and "Assistant Secretary for Health" for "Surgeon General".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+"Secretary of Health and Human Services" and "Department of Health and Human Services" substituted in text for "Secretary of Health, Education, and Welfare" and "Department of Health, Education, and Welfare", respectively, pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+
+#### <b>Executive Documents</b>
+
 #### Transfer of Functions
 
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
-
-#### International Health Administration
-
-Ex. Ord. No. 10399, Sept. 27, 1952, 17 F.R. 8648, designated Surgeon General to perform certain duties under International Sanitary Regulations of World Health Organization.
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
 #### <b>REORGANIZATION PLAN NO. 3 OF 1966</b>
 
@@ -32,7 +38,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### Sec. 2. Performance of Transferred Functions
 
-The Secretary may from time to time make such provisions as he shall deem appropriate authorizing the performance of any of the functions transferred to him by the provisions of this reorganization plan by any officer, employee, or agency of the Public Health Service or of the Department of Health, Education, and Welfare.
+The Secretary may from time to time make such provisions as he shall deem appropriate authorizing theperformance of any of the functions transferred to him by the provisions of this reorganization plan by any officer, employee, or agency of the Public Health Service or of the Department of Health, Education, and Welfare.
 
 #### Sec. 3. Abolitions
 
@@ -160,9 +166,13 @@ Lyndon B. Johnson.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 The White House, April 25, 1966.
 
+#### International Health Administration
+
+Ex. Ord. No. 10399, Sept. 27, 1952, 17 F.R. 8648, designated Surgeon General to perform certain duties under International Sanitary Regulations of World Health Organization.
+
 #### Executive Order No. 10506
 
-Ex. Ord. No. 10506, Dec. 10, 1953, 18 F.R. 8219, which delegated certain functions of the President relating tothe Public Health Service, was superseded by Ex. Ord. No. 11140, Jan. 30, 1964, 29 F.R. 1637, set out below.
+Ex. Ord. No. 10506, Dec. 10, 1953, 18 F.R. 8219, which delegated certain functions of the President relating to the Public Health Service, was superseded by Ex. Ord. No. 11140, Jan. 30, 1964, 29 F.R. 1637, set out below.
 
 #### Ex. Ord. No. 11140. Delegation of Functions
 
@@ -196,7 +206,7 @@ Sec. 5. All actions heretofore taken by appropriate authority with respect to th
 
 Sec. 6. As used in this order, the term "functions" embraces duties, powers, responsibilities, authority, or discretion, and the term "perform" may be construed to mean "exercise".
 
-Sec. 7. (a) Executive Order No. 10506 of December 10, 1953, entitled "Delegating Certain Functions of the President under the Public Health Service Act," is hereby superseded.
+Sec. 7. (a) Executive Order No. 10506 of December 10, 1953, entitled "Delegating Certain Functions of thePresident under the Public Health Service Act," is hereby superseded.
 
 (b) Executive Orders Nos. 9993 of August 31, 1948, 10031 of January 26, 1949, 10280 of August 16, 1951, 10354 of May 26, 1952, and 10497 of October 27, 1953, which prescribed regulations relating to commissioned officers and employees of the Public Health Service, are hereby revoked. Nothing in this subsection shall be deemed to alter or otherwise affect the regulations prescribed by the Surgeon General (42 CFR Parts 21 and 22) to replace the regulations prescribed by the orders described in the preceding sentence.
 

@@ -12,7 +12,7 @@
 
 &emsp;(5) six persons designated by the President.
 
-(b) The persons designated by the President serve for three years each except that any member whose term of office has expired shall continue to serve until his successor is appointed. The President shall designate two persons each year to succeed the members whose terms expire that year.
+(b) The persons designated by the President serve for three years each except that any member whose term of office has expired shall continue to serve until his successor is appointed by the President. The President shall designate two persons each year to succeed the members whose terms expire that year.
 
 (c) If a member of the Board dies or resigns, a successor shall be designated for the unexpired portion of the term by the official who designated the member.
 
@@ -26,7 +26,15 @@
 
 (h) While performing his duties, each member of the Board and each adviser shall be reimbursed under Government travel regulations for his travel expenses.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 245, §4355; Pub. L. 96–579, §13(a), Dec. 23, 1980, 94 Stat. 3369; Pub. L. 104–106, div. A, title X, §1061(e)(2), title XV, §1502(a)(12), Feb. 10, 1996, 110 Stat. 443, 503; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; renumbered §7455, Pub. L. 115–232, div. A, title VIII, §808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
+(i)(1) A majority of the members of the Board may call an official meeting of the Board once per year.
+
+(2) A member may attend such meeting—
+
+&emsp;(A) in person, at the Academy; or
+
+&emsp;(B) remotely, at the election of such member.
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 245, §4355; Pub. L. 96–579, §13(a), Dec. 23, 1980, 94 Stat. 3369; Pub. L. 104–106, div. A, title X, §1061(e)(2), title XV, §1502(a)(12), Feb. 10, 1996, 110 Stat. 443, 503; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; renumbered §7455, Pub. L. 115–232, div. A, title VIII, §808(c)(1), Aug. 13, 2018, 132 Stat. 1839; Pub. L. 117–81, div. A, title V, §§554(a), 555(a), Dec. 27, 2021, 135 Stat. 1738.)
 
 Historical and Revision Notes
 
@@ -84,7 +92,13 @@ In subsection (g), the words "as it may deem necessary or advisable effectuate t
 
 In subsection (h), the words "called for consultation by the Board in connection with the business of the Board" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Subsec. (b). Pub. L. 117–81, §554(a), substituted "is appointed by the President" for "is appointed".
+
+Subsec. (i). Pub. L. 117–81, §555(a), added subsec. (i).
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4355 of this title as this section.
 
@@ -95,6 +109,8 @@ In subsection (h), the words "called for consultation by the Board in connection
 Subsec. (h). Pub. L. 104–106, §1061(e)(2), struck out "is entitled to not more than $5 a day and" after "each adviser".
 
 <b>1980</b>—Subsec. (b). Pub. L. 96–579 required member whose term of office had expired to continue service until appointment of a successor.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

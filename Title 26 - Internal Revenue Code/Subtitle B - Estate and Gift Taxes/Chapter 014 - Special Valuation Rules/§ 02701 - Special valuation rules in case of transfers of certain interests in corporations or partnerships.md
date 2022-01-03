@@ -132,7 +132,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term "liquidation, put, call, or conversion right" does not include any right which must be exercised at a specific time and at a specific amount.
+&emsp;&emsp;&emsp;The term "liquidation, put, call, or conversion right" does not include any rightwhich must be exercised at a specific time and at a specific amount.
 
 #### (ii) Treatment of certain rights
 
@@ -330,6 +330,8 @@ For purposes of this section—
 
 (Added Pub. L. 101–508, title XI, §11602(a), Nov. 5, 1990, 104 Stat. 1388–491; amended Pub. L. 104–188, title I, §1702(f)(1)–(3)(B), (4)–(5)(B), (6)–(10), Aug. 20, 1996, 110 Stat. 1870–1872.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (a)(3)(B). Pub. L. 104–188, §1702(f)(1)(B), inserted "certain" before "qualified" in heading.
@@ -371,6 +373,8 @@ Subsec. (e)(5)(A). Pub. L. 104–188, §1702(f)(8)(A), substituted "such transac
 Subsec. (e)(5)(B). Pub. L. 104–188, §1702(f)(8)(B), substituted "such transaction" for "the transfer".
 
 Subsec. (e)(6). Pub. L. 104–188, §1702(f)(10), inserted "or to reflect the application of subsection (d)" before period at end.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

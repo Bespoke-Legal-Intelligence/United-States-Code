@@ -70,7 +70,7 @@
 
 &emsp;&emsp;&emsp;(iii) has minimal life safety risk; or
 
-&emsp;&emsp;(C) if the project study does not include an environmental impact statement and is a project study pursued under section 701s of this title, section 701g of this title, section 701r of this title, section 577(a) of this title, section 426g of this title, section 426i of this title, section 603a of this title, section 2309a of this title, or section 2330 of this title.
+&emsp;&emsp;(C) if the project study does not include an environmental impact statement and is aproject study pursued under section 701s of this title, section 701g of this title, section 701r of this title, section 577(a) of this title, section 426g of this title, section 426i of this title, section 603a of this title, section 2309a of this title, or section 2330 of this title.
 
 #### (6) Determination of total cost
 
@@ -148,7 +148,7 @@ A panel of experts established for a peer review for a project study under this 
 
 &emsp;(4) provide timely written and oral comments to the Chief of Engineers throughout the development of the project study, as requested; and
 
-&emsp;(5) submit to the Chief of Engineers a final report containing the panel's economic, engineering, and environmental analysis of the project study, including the panel's assessment of the adequacy and acceptability of the economic, engineering, and environmental methods, models, and analyses used by the Chief of Engineers, to accompany the publication of the report of the Chief of Engineers for the project.
+&emsp;(5) submit to the Chief of Engineers a final report containing the panel's economic, engineering, and environmental analysis of the project study, including the panel's assessment of the adequacy and acceptability of the economic, engineering, and environmental methods, models, and analyses used by theChief of Engineers, to accompany the publication of the report of the Chief of Engineers for the project.
 
 #### (e) Duration of project study peer reviews
 

@@ -28,7 +28,7 @@
 
 #### (4) Report
 
-&emsp;The President shall report annually to Congress on the implementation of this subsection. Such report shall provide statistical and other information about the incidence of crimes in the Marshall Islands which have animpact upon United States jurisdictions, and propose measures which the United States and the Marshall Islands should take in order better to prevent and prosecute violations of the laws of the United States and the Marshall Islands. The reports required under section 2291(e) <sup>1</sup> of title 22 shall include relevant information concerning the Marshall Islands.
+&emsp;The President shall report annually to Congress on the implementation of this subsection. Such report shall provide statistical and other information about the incidence of crimes in the Marshall Islands which have an impact upon United States jurisdictions, and propose measures which the United States and the Marshall Islands should take in order better to prevent and prosecute violations of the laws of the United States and the Marshall Islands. The reports required under section 2291(e) <sup>1</sup> of title 22 shall include relevant information concerning the Marshall Islands.
 
 #### (b) Economic development plans review process
 
@@ -92,7 +92,7 @@ In approving the Compact, the Congress understands and intends that the peoples 
 
 #### (g) Espousal provisions
 
-(1) It is the intention of the Congress of the United States that the provisions of section 177 of the Compact of Free Association and the Agreement between the Government of the United States and the Government of the Marshall Islands for the Implementation of Section 177 of the Compact (hereafter in this subsection referred to as the "Section 177 Agreement") constitute a full and final settlement of all claims described in Articles X and XI of the Section 177 Agreement, and that any such claims be terminated and barred except insofar as provided for in the Section 177 Agreement.
+(1) It is the intention of the Congress of the United States that the provisions of section 177 of the Compact of Free Association and the Agreement between the Government of the United States and the Government of the Marshall Islands for the Implementation of Section177 of the Compact (hereafter in this subsection referred to as the "Section 177 Agreement") constitute a full and final settlement of all claims described in Articles X and XI of the Section 177 Agreement, and that any such claims be terminated and barred except insofar as provided for in the Section 177 Agreement.
 
 (2) In furtherance of the intention of Congress as stated in paragraph (1) of this subsection, the Section 177 Agreement is hereby ratified and approved. It is the explicit understanding and intent of Congress that the jurisdictional limitations set forth in Article XII of such Agreement are enacted solely and exclusively to accomplish the objective of Article X of such Agreement and only as a clarification of the effect of Article X, and are not to be construed or implemented separately from Article X.
 
@@ -132,7 +132,7 @@ In approving the Compact, the Congress understands and intends that the peoples 
 
 #### (k) Enjebi Community Trust Fund
 
-Notwithstanding any other provision of law, the Secretary of the Treasury shall establish on the books of the Treasury of the United Statesa fund having the status specified in Article V of the subsidiary agreement for the implementation of Section 177 of the Compact, to be known as the "Enjebi Community Trust Fund" (hereafter in this subsection referred to as the "Fund"), and shall credit to the Fund the amount of $7,500,000. Such amount, which shall be ex gratia, shall be in addition to and not charged against any other funds provided for in the Compact and its subsidiary agreements, this joint resolution, or any other Act. Upon receipt by the President of the United States of the agreement described in this subsection, the Secretary of the Treasury, upon request of the Government of the Marshall Islands, shall transfer the Fund to the Government of the Marshall Islands, provided that the Government of the Marshall Islands agrees as follows:
+Notwithstanding any other provision of law, the Secretary of the Treasury shall establish on the books of the Treasury of the United States a fund having the status specified in Article V of the subsidiary agreement for the implementation of Section 177 of the Compact, to be known as the "Enjebi Community Trust Fund" (hereafter in this subsection referred to as the "Fund"), and shall credit to the Fund the amount of $7,500,000. Such amount, which shall be ex gratia, shall be in addition to and not charged against any other funds provided for in the Compact and its subsidiary agreements, this joint resolution, or any other Act. Upon receipt by the President of the United States of the agreement described in this subsection, the Secretary of the Treasury, upon request of the Government of the Marshall Islands, shall transfer the Fund to the Government of the Marshall Islands, provided that the Government of the Marshall Islands agrees as follows:
 
 #### (1) Enjebi trust agreement
 
@@ -216,9 +216,11 @@ In accordance with section 233 of the Compact, the President of the United State
 
 #### (6) Cooperation by Marshall Islands
 
-&emsp;The Government of the Marshall Islands will cooperate fully with the Comptroller General of the United States in the conduct of such audits as the Comptroller General determines necessary to enable the Comptroller General to fully discharge his responsibilities under this joint resolution.
+&emsp;The Government of the Marshall Islands will cooperate fully with the Comptroller Generalof the United States in the conduct of such audits as the Comptroller General determines necessary to enable the Comptroller General to fully discharge his responsibilities under this joint resolution.
 
 (Pub. L. 99–239, title I, §103, Jan. 14, 1986, 99 Stat. 1778; Pub. L. 100–446, title I, §115, Sept. 27, 1988, 102 Stat. 1802; Pub. L. 102–247, title III, §304, Feb. 24, 1992, 106 Stat. 39; Pub. L. 105–209, §2, July 29, 1998, 112 Stat. 880.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -248,6 +250,8 @@ Subsec. (h)(2)(B). Pub. L. 105–209, §2(2), inserted at end "The President sha
 
 <b>1988</b>—Subsec. (h)(2). Pub. L. 100–446, in introductory provisions, inserted "or by a grant to the Government of the Republic of the Marshall Islands which may further contract only with a United States firm or a Republic of the Marshall Islands firm, the owners, officers and majority of the employees of which are citizens of the United States or the Republic of the Marshall Islands" after "United States firm" and, in subpar. (B), inserted ", Rongelap, Utrik," after "Bikini".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which reports required under subsecs. (a)(4), (e)(5), and (m)(4) of this section are listed, respectively, as the 2nd item on page 38, the 16th item on page 115, and the 12th item on page 37), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
@@ -276,7 +280,7 @@ Pub. L. 95–134, title I, §106, as added by Pub. L. 96–205, title I, §102, 
 
 &emsp;"(3) an education and information program to enable the people of such atolls to more fully understand nuclear radiation and its effects;
 
-"(b)(1) The Secretary shall submit the plan to the Congress no later than January 1, 1981, together with his recommendations, if any, for further legislation. The plan shall set forth the specific agencies responsible for implementing the various elements of the plan. With respect to general health care the Secretary shall consider, and shall include in his recommendations, the feasibility of using the Public Health Service. After consultation with the Chairman of the National Academy of Sciences, the Secretary of Energy, the Secretary of Defense, and the Secretary of Health and Human Services, the Secretary shall establish a scientific advisory committee to review and evaluate the implementation of the plan and to make such recommendations for its improvement as such committee deems advisable.
+"(b)(1) The Secretary shall submit the plan to the Congress no later than January 1, 1981, together with his recommendations, if any, for further legislation.The plan shall set forth the specific agencies responsible for implementing the various elements of the plan. With respect to general health care the Secretary shall consider, and shall include in his recommendations, the feasibility of using the Public Health Service. After consultation with the Chairman of the National Academy of Sciences, the Secretary of Energy, the Secretary of Defense, and the Secretary of Health and Human Services, the Secretary shall establish a scientific advisory committee to review and evaluate the implementation of the plan and to make such recommendations for its improvement as such committee deems advisable.
 
 "(2) At the request of the Secretary, any Federal agency shall provide such information, personnel, facilities, logistical support, or other assistance as the Secretary deems necessary to carry out the functions of this program; the costs of all such assistance shall be reimbursed to the provider thereof out of the sums appropriated pursuant to this section.
 

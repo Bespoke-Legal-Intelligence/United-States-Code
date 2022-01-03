@@ -22,13 +22,17 @@ The Secretary may stop and inspect, without a warrant, any person or means of co
 
 #### (2) Application and issuance of a warrant
 
-&emsp;Upon proper oath or affirmation showing probable cause to believe that there is on certain premises any plant, plant product, biological control organism, plant pest, noxious weed, article, facility, or means of conveyance regulated under this chapter, a United States judge, a judge of a court of record in the United States, or a United States magistrate judge may, within the judge's or magistrate's <sup>1</sup> jurisdiction, issue a warrant for the entry upon the premises to conduct any investigation or make any inspection or seizure under this chapter. The warrant may be applied forand executed by the Secretary or any United States Marshal.
+&emsp;Upon proper oath or affirmation showing probable cause to believe that there is on certain premises any plant, plant product, biological control organism, plant pest, noxious weed, article, facility, or means of conveyance regulated under this chapter, a United States judge, a judge of a court of record in the United States, or a United States magistrate judge may, within the judge's or magistrate's <sup>1</sup> jurisdiction, issue a warrant for the entry upon the premises to conduct any investigation or make any inspection or seizure under this chapter. The warrant may be applied for and executed by the Secretary or any United States Marshal.
 
 (Pub. L. 106–224, title IV, §421, June 20, 2000, 114 Stat. 448.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 This chapter, referred to in subsecs. (b)(1), (2) and (c), was in the original "this title", meaning title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, known as the Plant Protection Act, which is classified principally to this chapter. For complete classification of title IV to the Code, see Short Title note set out under section 7701 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

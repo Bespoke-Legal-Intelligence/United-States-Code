@@ -50,7 +50,7 @@ Upon enrollment in the Peace Corps, every volunteer shall take the oath prescrib
 
 #### (l) Counseling programs for returned volunteers
 
-In order to assure that the skills and experience which former volunteers have derived from their training and their service abroad are best utilized in the national interest, the President may, in cooperation with agencies of the United States, private employers, educational institutions and other entities of the United States, undertake programs under which volunteers would be counseled with respect to opportunities for further education and employment.
+In order to assure that the skills and experience which former volunteers have derived from their training and their service abroad are best utilized in the national interest, the President may, in cooperation with agencies of the United States, private employers, educational institutions and other entities of the United States, undertake programs under which volunteerswould be counseled with respect to opportunities for further education and employment.
 
 #### (m) Legal expenses of defendant in judicial or administrative proceedings
 
@@ -100,7 +100,7 @@ The costs of packing and unpacking, transporting to and from a place of storage,
 
 (5) For the purposes of undertaking a review under this section, an officer or employee of the United States or a member of the Armed Forces may be detailed to the Inspector General of the Peace Corps from another department of the United States Government on a nonreimbursable basis, as jointly agreed to by the Inspector General and the detailing department, for a period not to exceed 1 year. This paragraph may not be construed to limit or modify any other source of authority for reimbursable or nonreimbursable details. A nonreimbursable detail made under this section may not be considered an augmentation of the appropriations of the Peace Corps.
 
-(6) Upon request, the Peace Corps may make available necessary funds to the Inspector General of the Peace Corps for reviews conducted by the Inspector General under this section. The request shall be limited to costs relating to hiring, procuring, or otherwise obtaining medical-related experts or expert services, and associated travel.
+(6) Upon request, the Peace Corps may make available necessary funds to the Inspector General of the Peace Corps for reviews conducted by the Inspector General under this section. The request shall be limited to costs relating to hiring,procuring, or otherwise obtaining medical-related experts or expert services, and associated travel.
 
 (7) The undertaking of a review under this section may not be considered a transfer of program operating responsibilities to the Inspector General of the Peace Corps.
 
@@ -118,7 +118,7 @@ The Assisted Suicide Funding Restriction Act of 1997, referred to in subsec. (e)
 
 The Foreign Service Act of 1980, referred to in subsec. (g)(1), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
-The Federal Tort Claims Act, referred to in subsec. (i), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal TortClaims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
+The Federal Tort Claims Act, referred to in subsec. (i), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
 
 Subsection (l) of this section, referred to in subsec. (n)(4), was redesignated as subsec. (m) by Pub. L. 115–256, title I, §101(a)(1)(B), Oct. 9, 2018, 132 Stat. 3651.
 
@@ -200,7 +200,7 @@ Subsec. (h). Pub. L. 89–134, §2(d), extended check cashing and currency excha
 
 <b>1963</b>—Subsec. (b). Pub. L. 88–200, §2(a), inserted provision for transfer of supplies and equipment.
 
-Subsec. (c). Pub. L. 88–200, §2(b), substituted "a readjustment allowance" for "termination payments" infirst sentence, the second sentence reading "The readjustment allowance of each volunteer shall be payable on his return to the United States: <i>Provided, however</i>, That, under such circumstances as the President may determine, the accrued readjustment allowance, or any part thereof, may be paid to the volunteer, members of his family or others, during the period of his service, or prior to his return to the United States" for "The termination payment of each volunteer shall be payable at the termination of his service, or may be paid during the course of his service to the volunteer, to members of his family or to others, under such circumstances as the President may determine" and "readjustment allowance" for "termination payment" in third sentence.
+Subsec. (c). Pub. L. 88–200, §2(b), substituted "a readjustment allowance" for "termination payments" in first sentence, the second sentence reading "The readjustment allowance of each volunteer shall be payable on his return to the United States: <i>Provided, however</i>, That, under such circumstances as the President may determine, the accrued readjustment allowance, or any part thereof, may be paid to the volunteer, members of his family or others, during the period of his service, or prior to his return to the United States" for "The termination payment of each volunteer shall be payable at the termination of his service, or may be paid during the course of his service to the volunteer, to members of his family or to others, under such circumstances as the President may determine" and "readjustment allowance" for "termination payment" in third sentence.
 
 Subsec. (f)(2). Pub. L. 88–200, §2(c), substituted "readjustment allowances" for "termination payments."
 
@@ -256,7 +256,7 @@ Pub. L. 102–565, §3, Oct. 28, 1992, 106 Stat. 4266, provided that:
 
 "(a)
 
-In General.—The Director of the Peace Corps shall contract with an eligible organization or organizations to conduct before January 1, 1997, a total of three evaluations of the health-care needs of the Peace Corps volunteers and the adequacy of the system through which the Peace Corps provides health-care services in meeting those needs.
+In General.—The Director of the Peace Corps shall contract with an eligible organization or organizations to conduct before January 1, 1997, a total ofthree evaluations of the health-care needs of the Peace Corps volunteers and the adequacy of the system through which the Peace Corps provides health-care services in meeting those needs.
 
 "(b)
 

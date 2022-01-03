@@ -1,5 +1,7 @@
 ### §5732. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 5732 was editorially reclassified as section 11277 of Title 34, Crime Control and Law Enforcement.

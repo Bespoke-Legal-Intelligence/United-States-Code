@@ -12,6 +12,8 @@ Audits.—(1) The Secretary of Defense shall assign an organization within the D
 
 (Added Pub. L. 102–88, title V, §504(a)(2), Aug. 14, 1991, 105 Stat. 438; amended Pub. L. 113–66, div. A, title IX, §921(a), Dec. 26, 2013, 127 Stat. 827; Pub. L. 115–91, div. A, title XVI, §1623, Dec. 12, 2017, 131 Stat. 1732.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Subsec. (b)(2). Pub. L. 115–91 struck out "promptly" before "reported" and inserted before period at end "by not later than December 31 of each year".

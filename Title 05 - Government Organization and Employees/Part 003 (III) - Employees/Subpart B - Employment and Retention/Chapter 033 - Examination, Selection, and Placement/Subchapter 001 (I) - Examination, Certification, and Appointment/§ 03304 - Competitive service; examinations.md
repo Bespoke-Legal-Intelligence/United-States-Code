@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(A) public notice has been given; and
 
-&emsp;&emsp;(B) the Office of Personnel Management has determined that there exists a severe shortage of candidates (or, with respect to the Department of Veterans Affairs, that there exists a severe shortage of highly qualified candidates) or that there is a critical hiring need.
+&emsp;&emsp;(B) the Office of Personnel Management has determined that there exists a severe shortage of candidates (or, with respect tothe Department of Veterans Affairs, that there exists a severe shortage of highly qualified candidates) or that there is a critical hiring need.
 
 > The Office shall prescribe, by regulation, criteria for identifying such positions and may delegate authority to make determinations under such criteria.
 
@@ -96,7 +96,7 @@ In subsection (a), the authority of the President to prescribe rules is added on
 
 In subsection (b), the words "That after the expiration of six months from the passage of this act" are omitted as executed. The words "in the competitive service" are substituted for "in either of the said classes now existing, or that may be arranged hereunder pursuant to said rules" because of the definition of "competitive service" in section 2102. In the second sentence, the words "the provisions of this title governing the competitive service" are substituted for "this act".
 
-In subsection (c), the provisions of former section 631b(b) and (c) are combined and restated for clarity. The words "From and after the effective date of this Act" and "From and after the date of approval of this Act" are omitted as executed. The words "competitive service" are substituted for "classified civil service" in view of the definition of "competitive service" in section 2102. The words "or as a clerical employee of the Senate or House of Representatives" are omitted as included in the reference to "an individual . . . in the legislative branch in a position in which he was paid by the Secretary of the Senate or the Clerk of the House of Representatives". The words "and nothing in this Act shall be construed to impair any right of retransfer provided for under civil service laws or regulations made thereunder" are omitted as unnecessary.
+In subsection (c), the provisions of former section 631b(b) and (c) are combined and restated for clarity. The words "From and after the effective date of thisAct" and "From and after the date of approval of this Act" are omitted as executed. The words "competitive service" are substituted for "classified civil service" in view of the definition of "competitive service" in section 2102. The words "or as a clerical employee of the Senate or House of Representatives" are omitted as included in the reference to "an individual . . . in the legislative branch in a position in which he was paid by the Secretary of the Senate or the Clerk of the House of Representatives". The words "and nothing in this Act shall be construed to impair any right of retransfer provided for under civil service laws or regulations made thereunder" are omitted as unnecessary.
 
 In subsection (d), the word "Employees" is substituted for "collector, postmaster, and other officers of the United States".
 
@@ -158,7 +158,7 @@ Pub. L. 106–117, title V, §511(d)(2), Nov. 30, 1999, 113 Stat. 1576, provided
 
 #### Effective Date of 1995 Amendment
 
-Pub. L. 104–65, §16(c), Dec. 19, 1995, 109 Stat. 703, provided that: "The repeal and amendment made by this section \[amending this section\] shall take effect 2 yearsafter the date of the enactment of this Act \[Dec. 19, 1995\]."
+Pub. L. 104–65, §16(c), Dec. 19, 1995, 109 Stat. 703, provided that: "The repeal and amendment made by this section \[amending this section\] shall take effect 2 years after the date of the enactment of this Act \[Dec. 19, 1995\]."
 
 Pub. L. 104–65, §17(b), Dec. 19, 1995, 109 Stat. 703, provided that: "The amendment made by this section \[amending this section\] shall take effect 2 years after the date of the enactment of this Act \[Dec. 19, 1995\], except the Office of Personnel Management shall—
 

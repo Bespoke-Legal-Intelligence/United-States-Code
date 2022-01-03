@@ -40,7 +40,7 @@
 
 (1) It is the intent of the Congress that—
 
-&emsp;(A) the Secretary and the Administrator of the Economic Regulatory Administrationshall, to the greatest extent possible and within the time frames specified on September 12, 1986, by such Administrator to the Committee on Energy and Commerce of the House of Representatives, commence civil enforcement actions with respect to all cases known by such Administrator as of October 21, 1986, and designated by such Administrator as "prelitigation cases", unless such an action is found not to be warranted;
+&emsp;(A) the Secretary and the Administrator of the Economic Regulatory Administration shall, to the greatest extent possible and within the time frames specified on September 12, 1986, by such Administrator to the Committee on Energy and Commerce of the House of Representatives, commence civil enforcement actions with respect to all cases known by such Administrator as of October 21, 1986, and designated by such Administrator as "prelitigation cases", unless such an action is found not to be warranted;
 
 &emsp;(B) the Secretary and such Administrator not delay civil enforcement actions so as to cause the limitation in subsection (a)(1) to apply to any such case;
 
@@ -56,7 +56,7 @@ Notwithstanding any other provision of law, the Secretary shall not initiate, af
 
 #### (e) Limitation on review
 
-Any review of a final agency action determined under section 7193 or 7194 of title 42 may not be initiated in any court by any person subject to such action after—
+Any review of a final agency action determined under section 7193 or 7194 of title 42 maynot be initiated in any court by any person subject to such action after—
 
 &emsp;(1) 60 days after the effective date of that action; or
 
@@ -86,6 +86,8 @@ Any review of a final agency action determined under section 7193 or 7194 of tit
 
 (Pub. L. 99–509, title III, §3005, Oct. 21, 1986, 100 Stat. 1884.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (a)(3), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, as amended, which was classified generally to chapter 16A (§751 et seq.) of this title, was omitted from the Code pursuant to section 760g of this title, which provided for the expiration of the President's authority under that chapter on Sept. 30, 1981.
@@ -93,6 +95,8 @@ The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (a)(3), i
 The Economic Stabilization Act of 1970, referred to in subsec. (a)(3), is title II of Pub. L. 91–379, Aug. 15, 1970, 84 Stat. 799, as amended, formerly set out as an Economic Stabilization Provisions note under section 1904 of Title 12, Banks and Banking.
 
 This chapter, referred to in subsec. (b)(3), was in the original "this Act", which was translated as meaning this subtitle, which enacted this chapter, to reflect the probable intent of Congress.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

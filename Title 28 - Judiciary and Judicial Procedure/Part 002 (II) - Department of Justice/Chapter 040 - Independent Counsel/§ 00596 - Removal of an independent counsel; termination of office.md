@@ -14,7 +14,7 @@ Report to division of the court and congress.—If an independent counsel is rem
 
 &emsp;(3)
 
-Judicial review of removal.—An independent counsel removed from office may obtain judicial review of the removal in a civil action commenced in the United States District Court for the District of Columbia. A member of the division of the court may not hear or determine any such civil action or any appeal of a decision in any such civil action.The independent counsel may be reinstated or granted other appropriate relief by order of the court.
+Judicial review of removal.—An independent counsel removed from office may obtain judicial review of the removal in a civil action commenced in the United States District Court for the District of Columbia. A member of the division of the court may not hear or determine any such civil action or any appeal of a decision in any such civil action. The independent counsel may be reinstated or granted other appropriate relief by order of the court.
 
 (b)
 
@@ -76,7 +76,7 @@ Committee on Government Operations of House of Representatives treated as referr
 
 #### Effective Date of 1994 Amendment; Transition Provisions
 
-Amendment by Pub. L. 103–270 applicable with respect to independent counsels appointed before, on, orafter June 30, 1994, with transition provisions directing that determinations by the division of the court contained in last sentence of subsec. (b)(2) of this section shall, for the office of an independent counsel appointed before June 30, 1994, be required no later than 1 year after June 30, 1994, and at end of each succeeding 1-year period, and transition provisions relating to reporting requirements established or modified by Pub. L. 103–270, see section 7(a), (f), (g) of Pub. L. 103–270, set out as a note under section 591 of this title.
+Amendment by Pub. L. 103–270 applicable with respect to independent counsels appointed before, on, or after June 30, 1994, with transition provisions directing that determinations by the division of the court contained in last sentence of subsec. (b)(2) of this section shall, for the office of an independent counsel appointed before June 30, 1994, be required no later than 1 year after June 30, 1994, and at end of each succeeding 1-year period, and transition provisions relating to reporting requirements established or modified by Pub. L. 103–270, see section 7(a), (f), (g) of Pub. L. 103–270, set out as a note under section 591 of this title.
 
 #### Effective Date of 1987 Amendment
 

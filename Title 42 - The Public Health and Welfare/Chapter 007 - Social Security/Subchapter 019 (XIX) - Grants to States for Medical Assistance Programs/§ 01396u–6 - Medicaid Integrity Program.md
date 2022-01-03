@@ -56,7 +56,7 @@ Activities described in this subsection are as follows:
 
 &emsp;&emsp;&emsp;(iii) at any other time considered appropriate by the Secretary.
 
-&emsp;&emsp;(C) Procedures under which a contract under this section may be renewed withoutregard to any provision of law requiring competition if the contractor has met or exceeded the performance requirements established in the current contract.
+&emsp;&emsp;(C) Procedures under which a contract under this section may be renewed without regard to any provision of law requiring competition if the contractor has met or exceeded the performance requirements established in the current contract.
 
 > &emsp;The Secretary may enter into such contracts without regard to final rules having been promulgated.
 
@@ -98,7 +98,7 @@ Activities described in this subsection are as follows:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary may use amounts appropriated pursuant to paragraph (1) to pay for transportation and the travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business, of individuals described in subsection (b)(4) who attend education, training, or consultative activities conducted under the authority of that subsection.
+&emsp;&emsp;&emsp;The Secretary may use amounts appropriated pursuant to paragraph (1) to pay for transportation and the travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business, of individuals described in subsection (b)(4) who attendeducation, training, or consultative activities conducted under the authority of that subsection.
 
 #### (ii) Public disclosure
 
@@ -125,6 +125,8 @@ Activities described in this subsection are as follows:
 &emsp;&emsp;(B) the effectiveness of the use of such funds.
 
 (Aug. 14, 1935, ch. 531, title XIX, §1936, as added Pub. L. 109–171, title VI, §6034(a)(2), Feb. 8, 2006, 120 Stat. 74; amended Pub. L. 110–379, §5(a)(1), (b)(1), Oct. 8, 2008, 122 Stat. 4078; Pub. L. 111–148, title VI, §6402(j)(2), Mar. 23, 2010, 124 Stat. 762; Pub. L. 111–152, title I, §1303(b), Mar. 30, 2010, 124 Stat. 1058; Pub. L. 114–115, §6, Dec. 28, 2015, 129 Stat. 3133.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -155,6 +157,8 @@ Subsec. (e)(4), (5). Pub. L. 111–148, §6402(j)(2)(B), added par. (4) and rede
 Subsec. (e)(2). Pub. L. 110–379, §5(a)(1)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "Amounts appropriated pursuant to paragraph (1) shall remain available until expended."
 
 Subsec. (e)(2)(B)(ii). Pub. L. 110–379, §5(b)(1), added cl. (ii).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

@@ -14,7 +14,7 @@ After notice and opportunity for public hearing, the Secretary shall prepare a m
 
 #### (d) Withdrawal of lands from mining and mineral leasing
 
-Subject to valid existing rights, Federal lands and interests therein, within the park, are withdrawn from disposition under the public lands laws and from entry or appropriation under the mining laws of the United States, from the operation of the mineral leasing laws of the United States, and from operation of the GeothermalSteam Act of 1970, as amended \[30 U.S.C. 1001 et seq.\].
+Subject to valid existing rights, Federal lands and interests therein, within the park, are withdrawn from disposition under the public lands laws and from entry or appropriation under the mining laws of the United States, from the operation of the mineral leasing laws of the United States, and from operation of the Geothermal Steam Act of 1970, as amended \[30 U.S.C. 1001 et seq.\].
 
 #### (e) Grazing
 
@@ -50,6 +50,8 @@ In order to encourage unified and cost-effective interpretation of the Great Bas
 
 (Pub. L. 99–565, §3, Oct. 27, 1986, 100 Stat. 3182; Pub. L. 104–134, title I, §101(c) \[title III, §319\], Apr. 26, 1996, 110 Stat. 1321–156, 1321–203; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Act entitled "An Act to establish a National Park Service, and for other purposes," approved August 26, 1916 (39 Stat. 535; 16 U.S.C. 1–4), referred to in subsec. (a), means act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under section 100101 of Title 54, National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
@@ -61,6 +63,8 @@ The Geothermal Steam Act of 1970, as amended, referred to in subsec. (d), is Pub
 <b>1996</b>—Subsec. (e). Pub. L. 104–134, §101(c) \[title III, §319(1)\], substituted "may permit" for "shall permit" in first sentence.
 
 Subsec. (f). Pub. L. 104–134, §101(c) \[title III, §319(2)\], designated existing provisions as par. (1), inserted heading, substituted "grazing permits and grazing leases" for "grazing permits", and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

@@ -22,7 +22,7 @@ General.—(1) The National Transportation Safety Board shall investigate or hav
 
 &emsp;&emsp;(iii) the investigation of the accident would carry out this chapter.
 
-(2)(A) Subject to the requirements of this paragraph, an investigation by the Board under paragraph (1)(A)–(D) or (F) of this subsection has priority over any investigation by another department, agency, or instrumentality of the United States Government. The Board shall provide for appropriate participation by other departments, agencies, or instrumentalities in the investigation. However, those departments, agencies, or instrumentalities may not participate in the decision of the Board about the probable cause of the accident.
+(2)(A) Subject to the requirements of this paragraph, an investigation by the Board underparagraph (1)(A)–(D) or (F) of this subsection has priority over any investigation by another department, agency, or instrumentality of the United States Government. The Board shall provide for appropriate participation by other departments, agencies, or instrumentalities in the investigation. However, those departments, agencies, or instrumentalities may not participate in the decision of the Board about the probable cause of the accident.
 
 (B) If the Attorney General, in consultation with the Chairman of the Board, determines and notifies the Board that circumstances reasonably indicate that the accident may have been caused by an intentional criminal act, the Board shall relinquish investigative priority to the Federal Bureau of Investigation. The relinquishment of investigative priority by the Board shall not otherwise affect the authority of the Board to continue its investigation under this section.
 
@@ -140,6 +140,8 @@ In subsection (c), the text of 49 App.:1441(f) is omitted as superseded by 49 Ap
 
 In subsection (d), the words "in writing" in 49 App.:1903(a)(2) are omitted as surplus. The words "by it" are added for clarity. The text of 49 App.:1441(a)(4) is omitted as superseded by 49 App.:1903(a)(1)(A) and (2).
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Presidential Proclamation No. 5928, referred to in subsec. (a)(1)(E), is set out as a note under section 1331 of Title 43, Public Lands.
@@ -163,6 +165,8 @@ Subsec. (d). Pub. L. 106–424, §7, substituted "1134(a), (b), (d), and (f)" fo
 <b>1994</b>—Subsec. (a)(1)(A). Pub. L. 103–411, §3(c)(1), inserted before semicolon at end "or an aircraft accident involving a public aircraft as defined by section 40102(a)(37) of this title other than an aircraft operated by the Armed Forces or by an intelligence agency of the United States".
 
 Subsecs. (d), (e). Pub. L. 103–411, §3(c)(2), added subsec. (d) and redesignated former subsec. (d) as (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

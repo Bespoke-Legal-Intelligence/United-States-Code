@@ -64,7 +64,7 @@
 
 &emsp;&emsp;(C) include within health insurance plan networks those essential community providers, where available, that serve predominately low-income, medically-underserved individuals, such as health care providers defined in section 340B(a)(4) of the Public Health Service Act \[42 U.S.C. 256b(a)(4)\] and providers described in section 1927(c)(1)(D)(i)(IV) of the Social Security Act \[42 U.S.C. 1396r–8(c)(1)(D)(i)(IV)\] as set forth by section 221 of Public Law 111–8, except that nothing in this subparagraph shall be construed to require any health plan to provide coverage for any specific medical procedure;
 
-&emsp;&emsp;(D)(i) be accredited with respect to local performance on clinical quality measures such as the Healthcare Effectiveness Data and Information Set, patient experience ratings on a standardized Consumer Assessment of Healthcare Providers and Systems survey, as well as consumer access, utilization management, quality assurance, provider credentialing, complaints and appeals, network adequacy and access, and patient information programs by any entity recognized by the Secretary for the accreditation of health insurance issuers or plans (so long as any such entity has transparent and rigorous methodological and scoring criteria); or
+&emsp;&emsp;(D)(i) be accredited with respect to local performance on clinical quality measures such as the Healthcare Effectiveness Data and Information Set, patient experience ratings on a standardized Consumer Assessment of Healthcare Providers and Systems survey, as well as consumer access, utilization management, quality assurance, provider credentialing, complaints and appeals, network adequacy and access, and patient information programs by any entity recognized by the Secretary for the accreditation of health insurance issuers or plans (so long asany such entity has transparent and rigorous methodological and scoring criteria); or
 
 &emsp;&emsp;(ii) receive such accreditation within a period established by an Exchange for such accreditation that is applicable to all qualified health plans;
 
@@ -128,7 +128,7 @@
 
 &emsp;&emsp;&emsp;(i) resides in a State with an Exchange described in subparagraph (A);
 
-&emsp;&emsp;&emsp;(ii) is enrolled in a qualified health plan during such plan year and does not enroll in a qualified health plan for plan year 2021 during the annual open enrollment period for such plan year 2021; and
+&emsp;&emsp;&emsp;(ii) is enrolled in a qualified health plan during such plan year and does not enroll in a qualified health plan for plan year 2021during the annual open enrollment period for such plan year 2021; and
 
 &emsp;&emsp;&emsp;(iii) does not elect to disenroll under a qualified health plan for plan year 2021 during such annual open enrollment period.
 
@@ -192,7 +192,7 @@
 
 &emsp;&emsp;(F) in accordance with section 18083 of this title, inform individuals of eligibility requirements for the medicaid program under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], the CHIP program under title XXI of such Act \[42 U.S.C. 1397aa et seq.\], or any applicable State or local public program and if through screening of the application by the Exchange, the Exchange determines that such individuals are eligible for any such program, enroll such individuals in such program;
 
-&emsp;&emsp;(G) establish and make available by electronic means a calculator to determine theactual cost of coverage after the application of any premium tax credit under section 36B of title 26 and any cost-sharing reduction under section 18071 of this title;
+&emsp;&emsp;(G) establish and make available by electronic means a calculator to determine the actual cost of coverage after the application of any premium tax credit under section 36B of title 26 and any cost-sharing reduction under section 18071 of this title;
 
 &emsp;&emsp;(H) subject to section 18081 of this title, grant a certification attesting that, for purposes of the individual responsibility penalty under section 5000A of title 26, an individual is exempt from the individual requirement or from the penalty imposed by such section because—
 
@@ -290,7 +290,7 @@
 
 #### (B) Use of plain language
 
-&emsp;&emsp;The information required to be submitted under subparagraph (A) shall be provided in plain language. The term "plain language" means language that the intended audience, including individuals with limited English proficiency, can readily understand and use because that language is concise, well-organized, and follows other best practices of plain language writing. The Secretary and the Secretary of Labor shall jointly develop and issue guidance on best practices of plain language writing.
+&emsp;&emsp;The information required to be submitted under subparagraph (A) shall be provided in plain language. The term "plain language" means language that the intended audience, including individuals with limited English proficiency, can readily understand and use because that language is concise, well-organized, and follows other best practices of plain language writing. The Secretary and the Secretary of Labor shall jointly developand issue guidance on best practices of plain language writing.
 
 #### (C) Cost sharing transparency
 
@@ -436,7 +436,7 @@
 
 #### (6) Funding
 
-&emsp;Grants under this subsection shall be made from the operational funds of the Exchangeand not Federal funds received by the State to establish the Exchange.
+&emsp;Grants under this subsection shall be made from the operational funds of the Exchange and not Federal funds received by the State to establish the Exchange.
 
 #### (j) Applicability of mental health parity
 
@@ -448,9 +448,11 @@ An Exchange may not establish rules that conflict with or prevent the applicatio
 
 (Pub. L. 111–148, title I, §1311, title X, §§10104(e)–(h), 10203(a), Mar. 23, 2010, 124 Stat. 173, 900, 901, 927; Pub. L. 116–94, div. N, title I, §608, Dec. 20, 2019, 133 Stat. 3130.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-Subtitles A and C, referred to in subsec. (a)(4)(A)(i)(II), are subtitles A (§§1001–1004) and C (§§1201–1255), respectively, of title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 130, 154. Subtitle A enacted sections 300gg–11 to 300gg–19, 300gg–93, and 300gg–94 of this title, transferred sections 300gg–4 to 300gg–7 and 300gg–13 of this title to sections 300gg–25 to 300gg–28 and 300gg–9 of this title, respectively, amended sections 300gg–11, 300gg–12, and 300gg–21 to 300gg–23 of this title, and enacted provisions set out as a note under section 300gg–11 of this title. Subtitle C enacted subchapter II of this chapter and sections 300gg to 300gg–2 and 300gg–4 to 300gg–7 of this title, transferred section 300gg of this title to section 300gg–3 of this title, amended sections 300gg–1 and 300gg–4 of this title, and enacted provisions set out as a note under section 300gg of this title. For complete classification of subtitles A and C to the Code, see Tables.
+Subtitles A and C, referred to in subsec. (a)(4)(A)(i)(II), are subtitles A (§§1001–1004) and C (§§1201–1255), respectively, of title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 130, 154. Subtitle A enacted sections 300gg–11 to 300gg–19, 300gg–93, and 300gg–94 of this title, transferred sections 300gg–4 to 300gg–7 and 300gg–13 of this title to sections 300gg–25 to 300gg–28 and 300gg–9 of this title, respectively, amended sections 300gg–11, 300gg–12, and 300gg–21 to 300gg–23 of this title, and enacted provisions set out as a note under section 300gg–11 of this title. Subtitle C enacted subchapter II of this chapter and sections 300gg to 300gg–2 and 300gg–4 to 300gg–7 of this title, transferred section 300gg of this title to section 300gg–3 of this title, amended sections 300gg–1 and 300gg–4 of this title, and enacted provisions set out as a note under section 300gg of this title. Forcomplete classification of subtitles A and C to the Code, see Tables.
 
 This title, referred to in subsecs. (b)(1) and (e)(3)(A)(viii), is title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 130, which enacted this chapter and enacted, amended, and transferred numerous other sections and notes in the Code. For complete classification of title I to the Code, see Tables.
 
@@ -481,6 +483,20 @@ Subsec. (e)(3). Pub. L. 111–148, §10104(f)(2), added par. (3).
 Subsec. (g)(1)(E). Pub. L. 111–148, §10104(g), added subpar. (E).
 
 Subsec. (i)(2)(B). Pub. L. 111–148, §10104(h), substituted "resource partners of the Small Business Administration" for "small business development centers".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Establishing a Grant Program for Exchange Modernization
+
+Pub. L. 117–2, title II, §2801, Mar. 11, 2021, 135 Stat. 49, provided that:
+
+"(a)
+
+In General.—Out of funds appropriated under subsection (b), the Secretary of Health and Human Services (in this subtitle \[subtitle I (§2801) of title II of Pub. L. 117–2\] referred to as the 'Secretary') shall award grants to each American Health Benefits Exchange established under section 1311(b) of the Patient Protection and Affordable Care Act (42 U.S.C. 18031(b)) (other than an Exchange established by the Secretary under section 1321(c) of such Act (42 U.S.C. 18041(c))) that submits to the Secretary an application at such time and in such manner, and containing such information, as specified by the Secretary, for purposes of enabling such Exchange to modernize or update any system, program, or technology utilized by such Exchange to ensure such Exchange is compliant with all applicable requirements.
+
+"(b)
+
+Funding.—In addition to amounts otherwise available, there is appropriated, for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $20,000,000, to remain available until September 30, 2022, for carrying out this section."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

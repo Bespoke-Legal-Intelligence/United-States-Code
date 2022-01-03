@@ -10,7 +10,7 @@ The Secretary shall—
 
 &emsp;(1) identify and assess the impacts of specific presentation, placement, and other strategies for structuring choices on selection and consumption of healthful foods in a variety of settings, consistent with the most recent version of the Dietary Guidelines for Americans published under section 5341 of this title;
 
-&emsp;(2) demonstrate and rigorously evaluate behavioral economics-related interventions that hold promise to improve diets and promote health, including through demonstrationprojects that may include evaluation of the use of portion size, labeling, convenience, and other strategies to encourage healthy choices; and
+&emsp;(2) demonstrate and rigorously evaluate behavioral economics-related interventions that hold promise to improve diets and promote health, including through demonstration projects that may include evaluation of the use of portion size, labeling, convenience, and other strategies to encourage healthy choices; and
 
 &emsp;(3) encourage adoption of the most effective strategies through outreach and technical assistance.
 
@@ -24,7 +24,7 @@ In carrying out the program under subsection (a), the Secretary may—
 
 #### (d) Application
 
-To be eligible to enter into a contract or cooperative agreement or receive a grant under this section, a State or public or private agency or organization shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+To be eligible to enter into a contract or cooperative agreement or receive a grant under thissection, a State or public or private agency or organization shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
 
 #### (e) Coordination
 
@@ -52,9 +52,13 @@ Not later than 90 days after the end of each fiscal year, the Secretary shall su
 
 (Pub. L. 111–296, title II, §244, Dec. 13, 2010, 124 Stat. 3239.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Healthy, Hunger-Free Kids Act of 2010, and not as part of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

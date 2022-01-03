@@ -2,7 +2,7 @@
 
 (a) The Board may begin a proceeding to approve and authorize a transaction referred to in section 11323 of this title on application of the person seeking that authority. When an application is filed with the Board, the Board shall notify the chief executive officer of each State in which property of the rail carriers involved in the proposed transaction is located and shall notify those rail carriers. The Board shall hold a public hearing unless the Board determines that a public hearing is not necessary in the public interest.
 
-(b) In a proceeding under this section which involves the merger or control of at least two Class I railroads, as defined by the Board, the Board shall consider at least—
+(b) In a proceeding under this section which involves the merger or control of at least twoClass I railroads, as defined by the Board, the Board shall consider at least—
 
 &emsp;(1) the effect of the proposed transaction on the adequacy of transportation to the public;
 
@@ -26,7 +26,7 @@
 
 (e) No transaction described in section 11326(b) may have the effect of avoiding a collective bargaining agreement or shifting work from a rail carrier with a collective bargaining agreement to a rail carrier without a collective bargaining agreement.
 
-(f)(1) To the extent provided in this subsection, a proceeding under this subchapter relating to a transaction involving at least oneClass I rail carrier shall not be considered an adjudication required by statute to be determined on the record after opportunity for an agency hearing, for the purposes of subchapter II of chapter 5 of title 5, United States Code.
+(f)(1) To the extent provided in this subsection, a proceeding under this subchapter relating to a transaction involving at least one Class I rail carrier shall not be considered an adjudication required by statute to be determined on the record after opportunity for an agency hearing, for the purposes of subchapter II of chapter 5 of title 5, United States Code.
 
 (2) Ex parte communications, as defined in section 551(14) of title 5, United States Code, shall be permitted in proceedings described in paragraph (1) of this subsection, subject to the requirements of paragraph (3) of this subsection.
 
@@ -38,9 +38,13 @@
 
 (Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 839.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 11344 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

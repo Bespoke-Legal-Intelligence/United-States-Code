@@ -66,13 +66,15 @@ After one year from the effective date of this subchapter no contract or agreeme
 
 #### (j) Rules and regulations prohibiting fraudulent, deceptive or manipulative courses of conduct
 
-It shall be unlawful for any affiliated person of or principal underwriter for a registered investment company or any affiliated person of an investment adviser of or principal underwriter for a registered investment company, to engage in any act, practice, or course of business in connection with the purchase or sale, directly or indirectly, by such person of any security held or to be acquired by such registered investment company in contravention of such rules and regulations as the Commission may adopt to define, and prescribe means reasonably necessary to prevent, such acts, practices, or courses of business as are fraudulent, deceptive or manipulative. Such rules and regulations may include requirements for the adoption of codes of ethics by registered investment companies and investment advisers of, and principal underwriters for, such investment companies establishing such standards as are reasonably necessary to prevent such acts, practices, or courses of business.
+It shall be unlawful for any affiliated person of or principal underwriter for a registered investment company or any affiliated person of an investment adviser of or principal underwriter for a registered investment company, to engage inany act, practice, or course of business in connection with the purchase or sale, directly or indirectly, by such person of any security held or to be acquired by such registered investment company in contravention of such rules and regulations as the Commission may adopt to define, and prescribe means reasonably necessary to prevent, such acts, practices, or courses of business as are fraudulent, deceptive or manipulative. Such rules and regulations may include requirements for the adoption of codes of ethics by registered investment companies and investment advisers of, and principal underwriters for, such investment companies establishing such standards as are reasonably necessary to prevent such acts, practices, or courses of business.
 
 (Aug. 22, 1940, ch. 686, title I, §17, 54 Stat. 815; Pub. L. 91–547, §9, Dec. 14, 1970, 84 Stat. 1420; Pub. L. 100–181, title VI, §612, Dec. 4, 1987, 101 Stat. 1261; Pub. L. 106–102, title II, §§211(a), 212, Nov. 12, 1999, 113 Stat. 1396; Pub. L. 111–203, title IX, §985(d)(4), July 21, 2010, 124 Stat. 1934.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Securities Exchange Act of 1934, referred to in subsec. (f)(1)(B), (2), is act June 6, 1934, ch. 404, 48 Stat.881, which is classified principally to chapter 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (f)(1)(B), (2), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
 
 For the effective date of this subchapter, referred to in subsecs. (h) and (i), see section 80a–52 of this title.
 
@@ -96,6 +98,8 @@ Subsec. (g). Pub. L. 91–547, §9(b), substituted "officer or employee" for "of
 
 Subsec. (j). Pub. L. 91–547, §9(c), added subsec. (j).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
@@ -107,6 +111,8 @@ Amendment by Pub. L. 106–102 effective 18 months after Nov. 12, 1999, see sect
 #### Effective Date of 1970 Amendment
 
 Amendment by Pub. L. 91–547 effective Dec. 14, 1970, except that amendment by section 9(a) of Pub. L. 91–547 effective on expiration of one year after Dec. 14, 1970, see section 30 (introductory text and par. (1)) of Pub. L. 91–547, set out as a note under section 80a–52 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

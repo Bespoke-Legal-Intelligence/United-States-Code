@@ -10,31 +10,7 @@
 
 (e) A claim arising from the liability of a debtor for fuel use tax assessed consistent with the requirements of section 31705 of title 49 may be filed by the base jurisdiction designated pursuant to the International Fuel Tax Agreement (as defined in section 31701 of title 49) and, if so filed, shall be allowed as a single claim.
 
-(f)(1) In this subsection—
-
-&emsp;(A) the term "CARES forbearance claim" means a supplemental claim for the amount of a Federally backed mortgage loan or a Federally backed multifamily mortgage loan that was not received by an eligible creditor during the forbearance period of a loan granted forbearance under section 4022 or 4023 of the CARES Act (15 U.S.C. 9056, 9057);
-
-&emsp;(B) the term "eligible creditor" means a servicer (as defined in section 6(i) of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2605(i)) <sup>1</sup> with a claim for a Federally backed mortgage loan or a Federally backed multifamily mortgage loan of the debtor that is provided for by a plan under section 1322(b)(5);
-
-&emsp;(C) the term "Federally backed mortgage loan" has the meaning given the term in section 4022(a) of the CARES Act (15 U.S.C. 9056(a)); and
-
-&emsp;(D) the term "Federally backed multifamily mortgage loan" has the meaning given the term in section 4023(f) of the CARES Act (15 U.S.C. 9057(f)).
-
-(2)(A) Only an eligible creditor may file a supplemental proof of claim for a CARES forbearance claim.
-
-(B) If an underlying mortgage loan obligation has been modified or deferred by an agreement of the debtor and an eligible creditor of the mortgage loan in connection with a mortgage forbearance granted under section 4022 or 4023 of the CARES Act (15 U.S.C. 9056, 9057) in order to cure mortgage payments forborne under the forbearance, the proof of claim filed under subparagraph (A) shall include—
-
-&emsp;(i) the relevant terms of the modification or deferral;
-
-&emsp;(ii) for a modification or deferral that is in writing, a copy of the modification or deferral; and
-
-&emsp;(iii) a description of the payments to be deferred until the date on which the mortgage loan matures.
-
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2578; Pub. L. 98–353, title III, §444, July 10, 1984, 98 Stat. 373; Pub. L. 109–8, title VII, §702, Apr. 20, 2005, 119 Stat. 125; Pub. L. 116–260, div. FF, title X, §1001(d)(1), (3)(A), Dec. 27, 2020, 134 Stat. 3217, 3218.)
-
-#### Amendment of Subsection (f)
-
-<i>Pub. L. 116–260, div. FF, title X, §1001(d)(3), Dec. 27, 2020, 134 Stat. 3218, provided that, ef</i><i>fective on the date that is 1 year after Dec. 27, 2020, this section is amended by striking subsection (f). See 2020 Amendment note below.</i>
 
 #### Historical and Revision Notes
 
@@ -56,7 +32,7 @@ This subsection is permissive only, and does not require filing of a proof of cl
 
 The Rules of Bankruptcy Procedure will set the time limits, the form, and the procedure for filing, which will determine whether claims are timely or tardily filed. The rules governing time limits for filing proofs of claims will continue to apply under section 405(d) of the bill. These provide a 6-month-bar date for the filing of tax claims.
 
-Subsection (b) permits a codebtor, surety, or guarantor to file a proof of claim on behalf of the creditor to which he is liable if the creditor does not timely file a proof of claim.
+Subsection (b) permits a codebtor, surety, or guarantor to file a proof of claim on behalf of the creditorto which he is liable if the creditor does not timely file a proof of claim.
 
 In liquidation and individual repayment plan cases, the trustee or the debtor may file a proof of claim under subsection (c) if the creditor does not timely file. The purpose of this subsection is mainly to protect the debtor if the creditor's claim is nondischargeable. If the creditor does not file, there would be no distribution on the claim, and the debtor would have a greater debt to repay after the case is closed than if the claim were paid in part or in full in the case or under the plan.
 
@@ -93,6 +69,4 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 #### Child Support Creditors or Their Representatives; Appearance Before Court
 
 Pub. L. 103–394, title III, §304(g), Oct. 22, 1994, 108 Stat. 4134, provided that: "Child support creditors or their representatives shall be permitted to appear and intervene without charge, and without meeting any special local court rule requirement for attorney appearances, in any bankruptcy case or proceeding in any bankruptcy court or district court of the United States if such creditors or representatives file a form in such court that contains information detailing the child support debt, its status, and other characteristics."
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by another closing parenthesis.</i>
 

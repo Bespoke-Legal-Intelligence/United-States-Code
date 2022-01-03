@@ -68,7 +68,7 @@ If the Secretary finds, after giving the applicant notice and an opportunity for
 
 A conditional approval under this section is effective for a 1-year period and is thereafter renewable by the Secretary annually for up to 4 additional 1-year terms. A conditional approval shall be in effect for no more than 5 years from the date of approval under subsection (b)(1) or (c) of this section unless extended as provided for in subsection (h) of this section. The following shall also apply:
 
-&emsp;(1) No later than 90 days from the end of the 1-year period for which the original or renewed conditional approval is effective, the applicant may submit a request to renew a conditional approval for an additional 1-year term.
+&emsp;(1) No later than 90 days from the end of the 1-year period for which the original or renewedconditional approval is effective, the applicant may submit a request to renew a conditional approval for an additional 1-year term.
 
 &emsp;(2) A conditional approval shall be deemed renewed at the end of the 1-year period, or at the end of a 90-day extension that the Secretary may, at the Secretary's discretion, grant by letter in order to complete review of the renewal request, unless the Secretary determines before the expiration of the 1-year period or the 90-day extension that—
 

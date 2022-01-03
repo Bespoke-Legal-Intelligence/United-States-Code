@@ -1,6 +1,6 @@
 ### §2610. Evidentiary requirements
 
-Notwithstanding the provisions of section 1615 of this title, in any forfeiture proceedingbrought under this chapter in which the material or article, as the case may be, is claimed by any person, the United States shall establish—
+Notwithstanding the provisions of section 1615 of this title, in any forfeiture proceeding brought under this chapter in which the material or article, as the case may be, is claimed by any person, the United States shall establish—
 
 &emsp;(1) in the case of any material subject to the provisions of section 2606 of this title, that the material has been listed by the Secretary in accordance with section 2604 of this title; and
 
@@ -12,9 +12,13 @@ Notwithstanding the provisions of section 1615 of this title, in any forfeiture 
 
 (Pub. L. 97–446, title III, §311, Jan. 12, 1983, 96 Stat. 2361.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For the effective date of this chapter, referred to in par. (2)(B), see section 315 of Pub. L. 97–446, set out as an Effective Date note under section 2601 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

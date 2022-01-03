@@ -6,7 +6,7 @@ It shall be unlawful for any person knowingly or intentionally—
 
 &emsp;(1) who is a registrant to distribute a controlled substance classified in schedule I or II, in the course of his legitimate business, except pursuant to an order or an order form as required by section 828 of this title;
 
-&emsp;(2) to use in the course of the manufacture, distribution, or dispensing of a controlled substance, or to use for the purpose of acquiring or obtaining a controlled substance, a registration number which is fictitious, revoked, suspended, expired, or issued to another person;
+&emsp;(2) to use in the course of the manufacture, distribution, or dispensing of a controlled substance, or to use for the purpose of acquiringor obtaining a controlled substance, a registration number which is fictitious, revoked, suspended, expired, or issued to another person;
 
 &emsp;(3) to acquire or obtain possession of a controlled substance by misrepresentation, fraud, forgery, deception, or subterfuge;
 
@@ -94,7 +94,7 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (f)(4), are set 
 
 <b>2002</b>—Subsec. (d). Pub. L. 107–273 substituted "under title 18, or both;" for "of not more than $30,000, or both;" in two places and "under title 18, or both." for "of not more than $60,000, or both." in two places.
 
-<b>1996</b>—Subsec. (d). Pub. L. 104–237, §203(a), inserted par. (1) designation, substituted "Except as provided inparagraph (2), any person" for "Any person", and added par. (2).
+<b>1996</b>—Subsec. (d). Pub. L. 104–237, §203(a), inserted par. (1) designation, substituted "Except as provided in paragraph (2), any person" for "Any person", and added par. (2).
 
 Subsec. (e). Pub. L. 104–237, §206(b)(1), inserted "manufacture, exportation," after "distribution," and struck out "regulated" after "engaging in any".
 

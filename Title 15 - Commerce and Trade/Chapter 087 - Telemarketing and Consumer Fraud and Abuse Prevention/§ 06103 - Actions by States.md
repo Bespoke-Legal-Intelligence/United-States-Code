@@ -14,7 +14,7 @@ For purposes of bringing any civil action under subsection (a), nothing in this 
 
 #### (d) Actions by Commission or the Bureau of Consumer Financial Protection
 
-Whenever a civil action has been instituted by or on behalf of the Commission or the Bureau of Consumer Financial Protection for violation of any rule prescribed under section 6102 of this title, no State may, during the pendency of such action instituted by or on behalf of the Commission or the Bureau of Consumer Financial Protection, institute a civil action under subsection\(a) or (f)(2) against any defendant named in the complaint in such action for violation of any rule as alleged in such complaint.
+Whenever a civil action has been instituted by or on behalf of the Commission or the Bureau of Consumer Financial Protection for violation of any rule prescribed under section 6102 of this title, no State may, during the pendency of such action instituted by or on behalf of the Commission or the Bureau of Consumer Financial Protection, institute a civil action under subsection (a) or (f)(2) against any defendant named in the complaint in such action for violation of any rule as alleged in such complaint.
 
 #### (e) Venue; service of process
 
@@ -28,6 +28,8 @@ Any civil action brought under subsection (a) in a district court of the United 
 
 (Pub. L. 103–297, §4, Aug. 16, 1994, 108 Stat. 1548; Pub. L. 111–203, title X, §1100C(b), July 21, 2010, 124 Stat. 2111.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (c), was in the original "this Act", meaning Pub. L. 103–297, Aug. 16, 1994, 108 Stat. 1545, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
@@ -35,6 +37,8 @@ This chapter, referred to in subsec. (c), was in the original "this Act", meanin
 #### Amendments
 
 <b>2010</b>—Subsec. (d). Pub. L. 111–203 inserted "or the Bureau of Consumer Financial Protection" after "Commission" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

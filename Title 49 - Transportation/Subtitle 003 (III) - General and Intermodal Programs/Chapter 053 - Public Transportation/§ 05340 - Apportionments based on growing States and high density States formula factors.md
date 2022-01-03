@@ -66,6 +66,12 @@ Apportionments among urbanized areas in each state.—The Secretary shall apport
 
 (Added Pub. L. 109–59, title III, §3038(a), Aug. 10, 2005, 119 Stat. 1636; amended Pub. L. 114–94, div. A, title III, §3030(f), Dec. 4, 2015, 129 Stat. 1497.)
 
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+Section 5338, referred to in subsec. (b), was amended generally by Pub. L. 117–58, div. C, §30017, Nov. 15, 2021, 135 Stat. 912. As amended, section 5338(a)(2)(N), which was probably intended instead of the reference in the original to "section 5338(b)(2)(N)", no longer relates to allocations of funds to carry out this section, but such provision can be found elsewhere in section 5338.
+
 #### Amendments
 
 <b>2015</b>—Subsec. (b). Pub. L. 114–94 added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: "Of the amounts made available for each fiscal year under section 5338(b)(2)(M), the Secretary shall apportion—
@@ -74,9 +80,11 @@ Apportionments among urbanized areas in each state.—The Secretary shall apport
 
 &emsp;"(2) 50 percent to States and urbanized areas in accordance with subsection (d)."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
 
-<i><sup>1</sup></i><i> So in original. Probably should be "section 5338(a)(2)(N)".</i>
+<i><sup>1</sup></i><i> So in original. Probably should have been "section 5338(a)(2)(N)" in original. See References in Text note below.</i>
 

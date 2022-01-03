@@ -58,7 +58,7 @@ Memorandum of President of the United States, June 20, 1994, 59 F.R. 33413, prov
 
 Memorandum for the Secretary of the Treasury
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 570 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1994 (Public Law 103–87) (the "Act") \[enacting 12 U.S.C. 635i–8\], section 14 of the Export-Import Bank Act of 1945 (12 U.S.C. 635—635i–8) \[probably means 12 U.S.C. 635i–8\], and section 301 of title 3 of the United States Code, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 570 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1994 (Public Law 103–87) (the "Act") \[enacting 12 U.S.C. 635i–8\], section 14 of the Export-Import Bank Act of 1945 (12 U.S.C. 635—635i–8) \[probablymeans 12 U.S.C. 635i–8\], and section 301 of title 3 of the United States Code, it is hereby ordered as follows:
 
 &emsp;1\. There are delegated to the Secretary of the Treasury, in consultation with the Secretary of State and the Secretary of Defense, the functions, authorities, and duties conferred upon the President by section 570(a) of the Act \[107 Stat. 970\].
 

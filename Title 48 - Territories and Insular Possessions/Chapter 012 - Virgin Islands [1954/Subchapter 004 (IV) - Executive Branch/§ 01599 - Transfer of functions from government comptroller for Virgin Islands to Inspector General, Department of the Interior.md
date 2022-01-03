@@ -10,13 +10,15 @@ The following functions, powers, and duties heretofore vested in the government 
 
 #### (b) Scope of authority transferred
 
-The authority granted in paragraph (a) shall extend to all activities of the government of the Virgin Islands, and shall be in addition to the authority conferred upon the Inspector General by the Inspector General Act of 1978 (92 Stat. 1101), as amended.
+The authority granted in paragraph (a) shall extend to all activities of the government of theVirgin Islands, and shall be in addition to the authority conferred upon the Inspector General by the Inspector General Act of 1978 (92 Stat. 1101), as amended.
 
 #### (c) Transfer of personnel, assets, etc., of office of government comptroller for Virgin Islands to Office of Inspector General, Department of the Interior
 
-In order to carry out the provisions of this section, the personnel, assets, liabilities, contracts,property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available or to be made available, of the office of the government comptroller for the Virgin Islands related to its audit function are hereby transferred to the Office of Inspector General, Department of the Interior.
+In order to carry out the provisions of this section, the personnel, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available or to be made available, of the office of the government comptroller for the Virgin Islands related to its audit function are hereby transferred to the Office of Inspector General, Department of the Interior.
 
 (July 22, 1954, ch. 558, §17, as added Pub. L. 97–357, title III, §309(b), Oct. 19, 1982, 96 Stat. 1710.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

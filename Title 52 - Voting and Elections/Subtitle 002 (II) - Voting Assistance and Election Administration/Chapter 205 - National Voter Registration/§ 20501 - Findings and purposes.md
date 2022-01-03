@@ -52,5 +52,5 @@ Pub. L. 103–31, §13, May 20, 1993, 107 Stat. 89, provided that: "This Act \[s
 
 Pub. L. 104–132, title IX, §902, Apr. 24, 1996, 110 Stat. 1317, provided that: "Notwithstanding any other provision of law, a Federal, State, or local government agency may not use a voter registration card (or other related document) that evidences registration for an election for Federal office, as evidence to prove United States citizenship."
 
-Similar provisions were contained in section 117 of H.R. 2076, One Hundred Fourth Congress, as passed by the House of Representatives on Dec. 6, 1995, and as enacted into law by Pub. L. 104–91, title I, §101(a), Jan. 6, 1996, 110 Stat. 11, as amended by Pub. L. 104–99, title II, §211, Jan. 26, 1996, 110 Stat. 37.
+Similar provisions were contained in section 117 of H.R. 2076, One Hundred Fourth Congress, as passed bythe House of Representatives on Dec. 6, 1995, and as enacted into law by Pub. L. 104–91, title I, §101(a), Jan. 6, 1996, 110 Stat. 11, as amended by Pub. L. 104–99, title II, §211, Jan. 26, 1996, 110 Stat. 37.
 

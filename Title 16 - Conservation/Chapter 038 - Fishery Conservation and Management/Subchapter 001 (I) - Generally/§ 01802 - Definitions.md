@@ -10,7 +10,7 @@ As used in this chapter, unless the context otherwise requires—
 
 &emsp;(4) The term "commercial fishing" means fishing in which the fish harvested, either in whole or in part, are intended to enter commerce or enter commerce through sale, barter or trade.
 
-&emsp;(5) The term "conservation and management" refers to all of the rules, regulations, conditions, methods, and other measures (A) which are required to rebuild, restore, ormaintain, and which are useful in rebuilding, restoring, or maintaining, any fishery resource and the marine environment; and (B) which are designed to assure that—
+&emsp;(5) The term "conservation and management" refers to all of the rules, regulations, conditions, methods, and other measures (A) which are required to rebuild, restore, or maintain, and which are useful in rebuilding, restoring, or maintaining, any fishery resource and the marine environment; and (B) which are designed to assure that—
 
 &emsp;&emsp;(i) a supply of food and other products may be taken, and that recreational benefits may be obtained, on a continuing basis;
 
@@ -136,7 +136,7 @@ Sponges
 
 > &emsp;Such term does not include any scientific research activity which is conducted by a scientific research vessel.
 
-&emsp;(17) The term "fishing community" means a community which is substantially dependenton or substantially engaged in the harvest or processing of fishery resources to meet social and economic needs, and includes fishing vessel owners, operators, and crew and United States fish processors that are based in such community.
+&emsp;(17) The term "fishing community" means a community which is substantially dependent on or substantially engaged in the harvest or processing of fishery resources to meet social and economic needs, and includes fishing vessel owners, operators, and crew and United States fish processors that are based in such community.
 
 &emsp;(18) The term "fishing vessel" means any vessel, boat, ship, or other craft which is used for, equipped to be used for, or of a type which is normally used for—
 
@@ -192,7 +192,7 @@ Sponges
 
 &emsp;(34) The terms "overfishing" and "overfished" mean a rate or level of fishing mortality that jeopardizes the capacity of a fishery to produce the maximum sustainable yield on a continuing basis.
 
-&emsp;(35) The term "Pacific Insular Area" means American Samoa, Guam, the Northern Mariana Islands, Baker Island, Howland Island,Jarvis Island, Johnston Atoll, Kingman Reef, Midway Island, Wake Island, or Palmyra Atoll, as applicable, and includes all islands and reefs appurtenant to such island, reef, or atoll.
+&emsp;(35) The term "Pacific Insular Area" means American Samoa, Guam, the Northern Mariana Islands, Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Island, Wake Island, or Palmyra Atoll, as applicable, and includes all islands and reefs appurtenant to such island, reef, or atoll.
 
 &emsp;(36) The term "person" means any individual (whether or not a citizen or national of the United States), any corporation, partnership, association, or other entity (whether or not organized or existing under the laws of any State), and any Federal, State, local, or foreign government or any entity of any such government.
 
@@ -244,6 +244,8 @@ Sponges
 
 (Pub. L. 94–265, §3, Apr. 13, 1976, 90 Stat. 333; Pub. L. 95–354, §3, Aug. 28, 1978, 92 Stat. 519; Pub. L. 97–453, §15(a), Jan. 12, 1983, 96 Stat. 2492; Pub. L. 99–659, title I, §§101(a), 112, Nov. 14, 1986, 100 Stat. 3706, 3715; Pub. L. 100–239, §2, Jan. 11, 1988, 101 Stat. 1778; Pub. L. 101–627, title I, §102(a), title X, §1001(c), Nov. 28, 1990, 104 Stat. 4438, 4468; Pub. L. 102–251, title III, §301(b), Mar. 9, 1992, 106 Stat. 62; Pub. L. 104–297, title I, §102, Oct. 11, 1996, 110 Stat. 3561; Pub. L. 109–479, §3(b), (c), Jan. 12, 2007, 120 Stat. 3577, 3578; Pub. L. 115–232, div. C, title XXXV, §3541(b)(2), Aug. 13, 2018, 132 Stat. 2323.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
@@ -260,7 +262,7 @@ Pub. L. 102–251, §301(b), which directed amendment of this section by adding 
 
 <b>2018</b>—Par. (3). Pub. L. 115–232 substituted "section 2101(30)" for "section 2101(21a)".
 
-<b>2007</b>—Pub. L. 109–479 added pars. (13A) defining "regional fishery association", (20A) defining "import",\(23A) defining "limited access privilege", (23B) defining "limited access system", and (27A) defining "observer information" and redesignated pars. (1) to (45) as (1) to (50), respectively.
+<b>2007</b>—Pub. L. 109–479 added pars. (13A) defining "regional fishery association", (20A) defining "import", (23A) defining "limited access privilege", (23B) defining "limited access system", and (27A) defining "observer information" and redesignated pars. (1) to (45) as (1) to (50), respectively.
 
 <b>1996</b>—Pars. (2) to (6). Pub. L. 104–297, §102(1), added pars. (2) to (4) and redesignated former pars. (2) and (3) as (5) and (6), respectively. Former pars. (4) to (6) redesignated (7) to (9), respectively.
 
@@ -490,6 +492,8 @@ Pars. (6) to (8). Pub. L. 99–659, §101(a), added par. (6), redesignated forme
 
 <b>1978</b>—Pars. (25) to (27). Pub. L. 95–354 added pars. (25) and (26) and redesignated former par. (25) as (27).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 "Pacific States Marine Fisheries Commission" substituted for "Pacific Marine Fisheries Commission" in par. (28) pursuant to section 1001(c) of Pub. L. 101–627, set out below.
@@ -517,6 +521,8 @@ Amendment Described.—The amendments referred to in subsection (a) are the amen
 "(c)
 
 References.—Any reference in a law, map, regulation, document, paper, or other record of the United States to the Pacific Marine Fisheries Commission constituted by the compact is deemed to be a reference to the 'Pacific States Marine Fisheries Commission'."
+
+#### <b>Executive Documents</b>
 
 #### Territorial Sea of United States
 

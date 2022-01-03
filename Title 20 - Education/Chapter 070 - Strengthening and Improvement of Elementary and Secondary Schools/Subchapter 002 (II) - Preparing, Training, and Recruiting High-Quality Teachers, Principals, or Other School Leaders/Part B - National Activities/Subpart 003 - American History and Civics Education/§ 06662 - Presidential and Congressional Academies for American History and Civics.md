@@ -94,13 +94,17 @@ Grants awarded to eligible entities under subsection (a) shall be for a term of 
 
 (Pub. L. 89–10, title II, §2232, as added Pub. L. 114–95, title II, §2002, Dec. 10, 2015, 129 Stat. 1945.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
-A prior section 6662, Pub. L. 89–10, title II, §2202, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1644, related to grants for mathematics and science partnerships, prior to repeal by Pub. L. 114–95, §5, title II, §2002, Dec. 10, 2015, 129 Stat. 1806, 1913, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
+A prior section 6662, Pub. L. 89–10, title II, §2202, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115Stat. 1644, related to grants for mathematics and science partnerships, prior to repeal by Pub. L. 114–95, §5, title II, §2002, Dec. 10, 2015, 129 Stat. 1806, 1913, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
 
 A prior section 2202 of Pub. L. 89–10 was classified to section 6642 of this title, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 Another prior section 2202 of Pub. L. 89–10 was classified to section 3012 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

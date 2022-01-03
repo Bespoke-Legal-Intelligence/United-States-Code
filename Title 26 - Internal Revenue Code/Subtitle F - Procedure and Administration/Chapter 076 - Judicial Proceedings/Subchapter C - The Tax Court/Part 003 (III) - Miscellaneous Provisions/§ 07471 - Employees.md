@@ -22,7 +22,7 @@
 
 #### (4) Pay
 
-&emsp;The Tax Court may fix and adjust the compensation for the clerk and other employees ofthe Tax Court without regard to the provisions of chapter 51, subchapter III of chapter 53, or section 5373 of title 5, United States Code. To the maximum extent feasible, the Tax Court shall compensate employees at rates consistent with those for employees holding comparable positions in courts established under Article III of the Constitution of the United States.
+&emsp;The Tax Court may fix and adjust the compensation for the clerk and other employees of the Tax Court without regard to the provisions of chapter 51, subchapter III of chapter 53, or section 5373 of title 5, United States Code. To the maximum extent feasible, the Tax Court shall compensate employees at rates consistent with those for employees holding comparable positions in courts established under Article III of the Constitution of the United States.
 
 #### (5) Programs
 
@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(B) appeal an adverse action to the Merit Systems Protection Board under chapter 75 of title 5, United States Code,
 
-&emsp;&emsp;(C) appeal a prohibited personnel practice described under section 2302(b) of title 5, United States Code, to the Merit Systems Protection Board under chapter 77 of that title,
+&emsp;&emsp;(C) appeal a prohibited personnel practice described under section 2302(b) of title 5,United States Code, to the Merit Systems Protection Board under chapter 77 of that title,
 
 &emsp;&emsp;(D) make an allegation of a prohibited personnel practice described under section 2302(b) of title 5, United States Code, with the Office of Special Counsel under chapter 12 of that title for action in accordance with that chapter, or
 
@@ -80,6 +80,8 @@ The employees of the Tax Court shall receive their necessary traveling expenses,
 
 (Aug. 6, 1954, ch. 736, 68A Stat. 888; Pub. L. 91–172, title IX, §960(g), Dec. 30, 1969, 83 Stat. 734; Pub. L. 94–455, title XIX, §1906(a)(47), Oct. 4, 1976, 90 Stat. 1831; Pub. L. 98–369, div. A, title IV, §464(d), July 18, 1984, 98 Stat. 825; Pub. L. 99–514, title XV, §1556(b)(2), Oct. 22, 1986, 100 Stat. 2755; Pub. L. 111–366, §1(a), Jan. 4, 2011, 124 Stat. 4063.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The effective date of this subsection, referred to in subsec. (a)(2)(B), (8), probably means the effective date of section 1(a) of Pub. L. 111–366, which amended subsec. (a) generally. See Effective Date of 2011 Amendment note below.
@@ -98,9 +100,11 @@ Subsec. (b). Pub. L. 94–455, §1906(a)(47)(B), substituted "as provided in cha
 
 <b>1969</b>—Subsec. (c). Pub. L. 91–172 inserted reference to the compensation of commissioners.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2011 Amendment
 
-Pub. L. 111–366, §1(b), Jan. 4, 2011, 124 Stat. 4065, provided that: "The amendments made by this section \[amending this section\] shall take effect on the datethe United States Tax Court adopts a personnel management system \[adopted effective Oct. 9, 2011\] after the date of the enactment of this Act \[Jan. 4, 2011\]."
+Pub. L. 111–366, §1(b), Jan. 4, 2011, 124 Stat. 4065, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date the United States Tax Court adopts a personnel management system \[adopted effective Oct. 9, 2011\] after the date of the enactment of this Act \[Jan. 4, 2011\]."
 
 #### Effective Date of 1986 Amendment
 

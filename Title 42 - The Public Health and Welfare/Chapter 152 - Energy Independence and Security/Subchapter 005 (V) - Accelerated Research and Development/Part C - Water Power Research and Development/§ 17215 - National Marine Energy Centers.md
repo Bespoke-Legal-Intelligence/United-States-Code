@@ -4,7 +4,7 @@
 
 The Secretary shall award grants, each such grant up to $10,000,000 per year, to institutions of higher education (or consortia thereof) for—
 
-&emsp;(1) the continuation and expansion of the research, development, demonstration, testing, and commercial application activities at the National Marine Energy Centers (referred to in this section as "Centers") established as of January 1, 2020; and
+&emsp;(1) the continuation and expansion of the research, development, demonstration, testing, and commercial application activities at the National Marine Energy Centers (referred toin this section as "Centers") established as of January 1, 2020; and
 
 &emsp;(2) the establishment of new National Marine Energy Centers.
 
@@ -45,6 +45,8 @@ To the extent practicable, the Centers shall coordinate their activities with th
 To the extent otherwise authorized by law, the Secretary may terminate funding for a Center described in paragraph (a) if such Center is under-performing.
 
 (Pub. L. 110–140, title VI, §636, as added Pub. L. 116–260, div. Z, title III, §3001(a), Dec. 27, 2020, 134 Stat. 2484.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

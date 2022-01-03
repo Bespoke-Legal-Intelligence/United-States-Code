@@ -10,6 +10,8 @@ The Secretary of the Treasury and the Commission shall jointly prescribe regulat
 
 (Pub. L. 86–613, §10, July 12, 1960, 74 Stat. 378; Pub. L. 110–314, title II, §204(b)(4)(B), (E), Aug. 14, 2008, 122 Stat. 3041, 3042.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–314, §204(b)(4)(B), substituted "Commission" for "Secretary".

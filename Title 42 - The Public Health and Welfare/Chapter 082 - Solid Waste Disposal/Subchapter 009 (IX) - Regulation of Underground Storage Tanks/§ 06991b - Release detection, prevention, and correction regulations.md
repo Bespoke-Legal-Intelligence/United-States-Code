@@ -12,7 +12,7 @@ In promulgating regulations under this section, the Administrator may distinguis
 
 The regulations promulgated pursuant to this section shall include, but need not be limited to, the following requirements respecting all underground storage tanks—
 
-&emsp;(1) requirements for maintaining a leak detection system, an inventory control system together with tank testing, or a comparable system or method designed to identify releases in a manner consistent with the protection of human health and the environment;
+&emsp;(1) requirements for maintaining a leak detection system, an inventory control system together with tank testing, or a comparablesystem or method designed to identify releases in a manner consistent with the protection of human health and the environment;
 
 &emsp;(2) requirements for maintaining records of any monitoring or leak detection system or inventory control system or tank testing or comparable system;
 
@@ -108,7 +108,7 @@ The Administrator shall, not later than three months prior to the effective date
 
 &emsp;&emsp;(B) A situation exists which requires prompt action by the Administrator (or the State) under this paragraph to protect human health and the environment.
 
-&emsp;&emsp;(C) Corrective action costs at a facility exceed the amount of coverage required by the Administrator pursuant to the provisions of subsections (c) and (d)(5) of this section and, considering the class or category of underground storage tank from which the release occurred, expenditures from the Trust Fund are necessary to assure an effective corrective action.
+&emsp;&emsp;(C) Corrective action costs at a facility exceed the amount of coverage required by the Administrator pursuant to the provisions ofsubsections (c) and (d)(5) of this section and, considering the class or category of underground storage tank from which the release occurred, expenditures from the Trust Fund are necessary to assure an effective corrective action.
 
 &emsp;&emsp;(D) The owner or operator of the tank has failed or refused to comply with an order of the Administrator under this subsection or section 6991e of this title or with the order of a State under this subsection to comply with the corrective action regulations.
 
@@ -160,7 +160,7 @@ The Administrator shall, not later than three months prior to the effective date
 
 #### (iii) Information
 
-&emsp;&emsp;&emsp;An owner or operator requesting consideration under this subparagraph shall promptly provide the Administrator (or the State pursuant to paragraph (7)) with all relevant information needed to determine the ability of the owner or operator to pay corrective action costs.
+&emsp;&emsp;&emsp;An owner or operator requesting consideration under this subparagraph shall promptly provide the Administrator (or the State pursuant to paragraph (7)) withall relevant information needed to determine the ability of the owner or operator to pay corrective action costs.
 
 #### (iv) Alternative payment methods
 
@@ -210,7 +210,7 @@ The Administrator shall, not later than three months prior to the effective date
 
 #### (11) Facilities without financial responsibility
 
-&emsp;At any facility where the owner or operator has failed to maintain evidence of financial responsibility in amounts at least equal to the amounts established by subsection (d)(5)(A) of this section (or a lesser amount if such amount is applicable to such facility as a result of subsection (d)(5)(B) of this section) for whatever reason the Administrator shall expend no monies from the Trust Fund to clean up releases at such facility pursuant to the provisions of paragraph (1) or (2) of this subsection. At such facilities the Administrator shall use the authorities provided in subparagraph (A) of paragraph (1) and paragraph (4) of this subsection and section 6991e of this title to order corrective action to clean up such releases. States acting pursuant to paragraph (7) of this subsection shall use the authorities provided in subparagraph (A) of paragraph (1) and paragraph (4) of this subsection to order corrective action to clean up such releases. Notwithstanding the provisions of this paragraph, the Administrator may use monies from the fund to take the corrective actions authorized by paragraph (5) of this subsection to protect human health at such facilities andshall seek full recovery of the costs of all such actions pursuant to the provisions of paragraph (6)(A) of this subsection and without consideration of the factors in paragraph (6)(B) of this subsection. Nothing in this paragraph shall prevent the Administrator (or a State pursuant to paragraph (7) of this subsection) from taking corrective action at a facility where there is no solvent owner or operator or where immediate action is necessary to respond to an imminent and substantial endangerment of human health or the environment.
+&emsp;At any facility where the owner or operator has failed to maintain evidence of financial responsibility in amounts at least equal to the amounts established by subsection (d)(5)(A) of this section (or a lesser amount if such amount is applicable to such facility as a result of subsection (d)(5)(B) of this section) for whatever reason the Administrator shall expend no monies from the Trust Fund to clean up releases at such facility pursuant to the provisions of paragraph (1) or (2) of this subsection. At such facilities the Administratorshall use the authorities provided in subparagraph (A) of paragraph (1) and paragraph (4) of this subsection and section 6991e of this title to order corrective action to clean up such releases. States acting pursuant to paragraph (7) of this subsection shall use the authorities provided in subparagraph (A) of paragraph (1) and paragraph (4) of this subsection to order corrective action to clean up such releases. Notwithstanding the provisions of this paragraph, the Administrator may use monies from the fund to take the corrective actions authorized by paragraph (5) of this subsection to protect human health at such facilities and shall seek full recovery of the costs of all such actions pursuant to the provisions of paragraph (6)(A) of this subsection and without consideration of the factors in paragraph (6)(B) of this subsection. Nothing in this paragraph shall prevent the Administrator (or a State pursuant to paragraph (7) of this subsection) from taking corrective action at a facility where there is no solvent owner or operator or where immediate action is necessary to respond to an imminent and substantial endangerment of human health or the environment.
 
 #### (12) Remediation of oxygenated fuel contamination
 
@@ -300,6 +300,8 @@ The Administrator shall require each State that receives funding under this subc
 
 (Pub. L. 89–272, title II, §9003, as added Pub. L. 98–616, title VI, §601(a), Nov. 8, 1984, 98 Stat. 3279; amended Pub. L. 99–499, title II, §205(c), (d), Oct. 17, 1986, 100 Stat. 1697, 1698; Pub. L. 104–208, div. A, title II, §2503, Sept. 30, 1996, 110 Stat. 3009–468; Pub. L. 109–58, title XV, §§1522(c), 1525, 1526(b), 1530(a), 1532(b)(1), (2), 1533(2), Aug. 8, 2005, 119 Stat. 1093, 1096, 1097, 1102, 1105; Pub. L. 109–168, §1(a)(2), Jan. 10, 2006, 119 Stat. 3580.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Bankruptcy Code, referred to in subsec. (d)(2), probably means a reference to Title 11, Bankruptcy.
@@ -338,11 +340,13 @@ Pub. L. 109–58, §1526(b), added subsec. (i) relating to government-owned tank
 
 Subsec. (d)(1). Pub. L. 99–499, §205(c)(3), which directed that par. (1) be amended by "striking out 'or' after 'credit,' and by striking out the period at the end thereof and inserting in lieu thereof the following: 'or any other method satisfactory to the Administrator.' ", was executed by striking the period and making insertion at end of first sentence, rather than at end of par. (1), as the probable intent of Congress, because an earlier version of the amending legislation had provided that such amendment be made to first sentence.
 
-Pub. L. 99–499, §205(c)(2), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: "As he deems necessary or desirable, the Administrator shall promulgate regulations containing requirements for maintaining evidence of financial responsibility as he deems necessary and desirable for taking corrective action and compensating third parties for bodily injury and property damage caused by sudden and nonsudden accidental releases arising from operating an underground storage tank."
+Pub. L. 99–499, §205(c)(2), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: "As he deems necessary or desirable, the Administrator shall promulgate regulations containing requirements for maintaining evidence of financial responsibility as he deems necessary and desirable for taking corrective action and compensating third parties for bodily injury and property damage caused by sudden and nonsuddenaccidental releases arising from operating an underground storage tank."
 
 Subsec. (d)(2) to (5). Pub. L. 99–499, §205(c)(2), (4), added par. (5) and redesignated pars. (3) to (5) as (2) to (4), respectively. Former par. (2) redesignated (1).
 
 Subsec. (h). Pub. L. 99–499, §205(d), added subsec. (h).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2005 Amendment
 
@@ -350,7 +354,7 @@ Pub. L. 109–58, title XV, §1530(b), Aug. 8, 2005, 119 Stat. 1104, provided th
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–208, div. A, title II, §2505, Sept. 30, 1996, 110 Stat. 3009–468, provided that: "The amendments madeby this subtitle \[subtitle E (§§2501–2505) of title II of div. A of Pub. L. 104–208, amending this section and sections 9601 and 9607 of this title\] shall be applicable with respect to any claim that has not been finally adjudicated as of the date of enactment of this Act \[Sept. 30, 1996\]."
+Pub. L. 104–208, div. A, title II, §2505, Sept. 30, 1996, 110 Stat. 3009–468, provided that: "The amendments made by this subtitle \[subtitle E (§§2501–2505) of title II of div. A of Pub. L. 104–208, amending this section and sections 9601 and 9607 of this title\] shall be applicable with respect to any claim that has not been finally adjudicated as of the date of enactment of this Act \[Sept. 30, 1996\]."
 
 #### Regulations
 

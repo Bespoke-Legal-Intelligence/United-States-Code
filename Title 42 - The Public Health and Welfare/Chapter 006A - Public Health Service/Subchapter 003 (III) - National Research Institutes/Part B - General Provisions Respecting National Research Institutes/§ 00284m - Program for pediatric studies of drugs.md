@@ -28,7 +28,7 @@ The Secretary, acting through the National Institutes of Health, shall award fun
 
 #### (1) Submission of proposed pediatric study request
 
-&emsp;The Director of the National Institutes of Health shall, as appropriate, submit proposed pediatric study requests for consideration by the Commissioner of Food and Drugs for pediatric studies of a specific pediatric indication identified under subsection (a). Such a proposed pediatric study request shall be made in a manner equivalent to a written requestmade under subsection (b) or (c) of section 505A of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355a\], or section 262(m) of this title, including with respect to the information provided on the pediatric studies to be conducted pursuant to the request. The Director of the National Institutes of Health may submit a proposed pediatric study request for a drug for which—
+&emsp;The Director of the National Institutes of Health shall, as appropriate, submit proposed pediatric study requests for consideration by the Commissioner of Food and Drugs for pediatric studies of a specific pediatric indication identified under subsection (a). Such a proposed pediatric study request shall be made in a manner equivalent to a written request made under subsection (b) or (c) of section 505A of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355a\], or section 262(m) of this title, including with respect to the information provided on the pediatric studies to be conducted pursuant to the request. The Director of the National Institutes of Health may submit a proposed pediatric study request for a drug for which—
 
 &emsp;&emsp;(A)(i) there is an approved application under section 505(j) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355(j)\] or section 262(k) of this title; or
 
@@ -132,6 +132,8 @@ The Secretary, acting through the National Institutes of Health, shall award fun
 
 (July 1, 1944, ch. 373, title IV, §409I, as added Pub. L. 107–109, §3(3), Jan. 4, 2002, 115 Stat. 1408; amended Pub. L. 108–155, §3(b)(6), Dec. 3, 2003, 117 Stat. 1942; Pub. L. 109–482, title I, §103(b)(14), Jan. 15, 2007, 120 Stat. 3687; Pub. L. 110–85, title V, §502(b), Sept. 27, 2007, 121 Stat. 886; Pub. L. 111–148, title VII, §7002(g)(2)(A), Mar. 23, 2010, 124 Stat. 820; Pub. L. 112–144, title V, §§507(d), 509(d), July 9, 2012, 126 Stat. 1045, 1049; Pub. L. 113–5, title III, §307(b), Mar. 13, 2013, 127 Stat. 192; Pub. L. 115–52, title V, §501, Aug. 18, 2017, 131 Stat. 1036.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(10), (11), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
@@ -172,7 +174,7 @@ Subsec. (c)(1)(A)(i). Pub. L. 112–144, §509(d)(1)(B), inserted "or section 26
 
 Subsec. (c)(1)(B). Pub. L. 112–144, §509(d)(1)(C), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "there is no patent protection or market exclusivity protection for at least one form of the drug under the Federal Food, Drug, and Cosmetic Act; and".
 
-Subsec. (c)(2). Pub. L. 112–144, §509(d)(2), struck out "for drugs lacking exclusivity" after "applications" in heading, and in text struck out "under section 505 of the Federal Food, Drug, and Cosmetic Act" after "for the drug" and substituted "505A of the Federal Food, Drug, and Cosmetic Act or section 262(m) of this title" for "505A of such Act".
+Subsec. (c)(2). Pub. L. 112–144, §509(d)(2), struck out "for drugs lacking exclusivity" after "applications" inheading, and in text struck out "under section 505 of the Federal Food, Drug, and Cosmetic Act" after "for the drug" and substituted "505A of the Federal Food, Drug, and Cosmetic Act or section 262(m) of this title" for "505A of such Act".
 
 Subsec. (e)(1). Pub. L. 112–144, §507(d), substituted "to carry out this section, $25,000,000 for each of fiscal years 2013 through 2017." for "to carry out this section—
 
@@ -187,6 +189,8 @@ Subsec. (e)(1). Pub. L. 112–144, §507(d), substituted "to carry out this sect
 Subsec. (d). Pub. L. 109–482 struck out subsec. (d) which related to authorization and availability of appropriations.
 
 <b>2003</b>—Subsec. (c)(8), (9), (11). Pub. L. 108–155 struck out "Advisory Subcommittee of the Anti-Infective Drugs" before "Advisory Committee" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

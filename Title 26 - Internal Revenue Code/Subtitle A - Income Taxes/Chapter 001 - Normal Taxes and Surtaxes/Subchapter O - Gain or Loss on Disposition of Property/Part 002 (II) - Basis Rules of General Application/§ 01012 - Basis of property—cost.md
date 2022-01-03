@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The basis of property shall be the cost of such property, except as otherwise provided in thissubchapter and subchapters C (relating to corporate distributions and adjustments), K (relating to partners and partnerships), and P (relating to capital gains and losses).
+The basis of property shall be the cost of such property, except as otherwise provided in this subchapter and subchapters C (relating to corporate distributions and adjustments), K (relating to partners and partnerships), and P (relating to capital gains and losses).
 
 #### (b) Special rule for apportioned real estate taxes
 
@@ -18,7 +18,7 @@ The cost of real property shall not include any amount in respect of real proper
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), any stock for which an average basis method is permissible under this section which is acquired before January 1, 2012, shall be treated as a separate account from any such stock acquired on or after such date.
+&emsp;&emsp;Except as provided in subparagraph (B), any stock for which an average basis methodis permissible under this section which is acquired before January 1, 2012, shall be treated as a separate account from any such stock acquired on or after such date.
 
 #### (B) Election for treatment as single account
 
@@ -68,6 +68,8 @@ The cost of real property shall not include any amount in respect of real proper
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 296; Pub. L. 110–343, div. B, title IV, §403(b), Oct. 3, 2008, 122 Stat. 3857; Pub. L. 113–295, div. A, title II, §§210(f)(1)–(3), 220(n), Dec. 19, 2014, 128 Stat. 4031, 4032, 4036.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Subsec. (c)(2). Pub. L. 113–295, §210(f)(1)(A), substituted "regulated investment companies" for "funds" in heading.
@@ -83,6 +85,8 @@ Subsec. (d)(1). Pub. L. 113–295, §210(f)(2), substituted "December 31, 2011" 
 Subsec. (d)(3). Pub. L. 113–295, §210(f)(3), amended par. (3) generally. Prior to amendment, text read as follows: "Rules similar to the rules of subsection (c)(2) shall apply for purposes of this subsection."
 
 <b>2008</b>—Pub. L. 110–343 designated first sentence as subsec. (a) and second sentence as subsec. (b), inserted headings, and added subsecs. (c) and (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

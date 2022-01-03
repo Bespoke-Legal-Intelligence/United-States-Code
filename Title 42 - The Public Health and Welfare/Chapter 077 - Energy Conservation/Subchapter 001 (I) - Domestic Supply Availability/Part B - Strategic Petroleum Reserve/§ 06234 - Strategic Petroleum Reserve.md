@@ -18,6 +18,8 @@ The Secretary, in accordance with this part, shall exercise authority over the d
 
 (Pub. L. 94–163, title I, §154, Dec. 22, 1975, 89 Stat. 882; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 102–486, title XIV, §1402, Oct. 24, 1992, 106 Stat. 2994; Pub. L. 105–177, §1(6), June 1, 1998, 112 Stat. 106; Pub. L. 106–469, title I, §103(7), Nov. 9, 2000, 114 Stat. 2030.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Subsec. (a). Pub. L. 106–469, §103(7)(A), amended subsec. (a) generally. Prior to amendment, subsec. (a) provided for the creation of a Strategic Petroleum Reserve of up to 1 billion barrels of petroleum products and required that the Reserve contain not less than 150 million barrels of petroleum products by the end of the 3-year period beginning on Dec. 22, 1975, and that the President take actions to enlarge the Reserve to 1,000,000,000 barrels as rapidly as possible beginning Oct. 24, 1992.
@@ -31,6 +33,8 @@ Subsecs. (c) to (e). Pub. L. 106–469, §103(7)(C), struck out subsecs. (c) to 
 <b>1992</b>—Subsec. (a). Pub. L. 102–486 designated existing provisions as par. (1) and added par. (2).
 
 <b>1978</b>—Subsecs. (b), (d). Pub. L. 95–619 substituted "Secretary" and "Secretary's" for "Administrator" and "Administrator's", respectively, meaning Administrator of the Federal Energy Administration, wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Strategic Petroleum Reserve Drawdown Plan
 

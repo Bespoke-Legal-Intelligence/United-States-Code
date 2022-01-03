@@ -6,7 +6,7 @@ Smoking Prohibition in Interstate and Intrastate Air Transportation.—An indivi
 
 &emsp;(1) in an aircraft in scheduled passenger interstate or intrastate air transportation; or
 
-&emsp;(2) in an aircraft in nonscheduled passenger interstate or intrastate air transportation, if aflight attendant is a required crewmember on the aircraft (as determined by the Administrator of the Federal Aviation Administration).
+&emsp;(2) in an aircraft in nonscheduled passenger interstate or intrastate air transportation, if a flight attendant is a required crewmember on the aircraft (as determined by the Administrator of the Federal Aviation Administration).
 
 (b)
 
@@ -70,6 +70,8 @@ Nov. 21, 1989, Pub. L. 101–164, §335 (related to effective date), 103 Stat. 1
 
 In subsection (a), before clause (1), the words "On and after the date of expiration of the 4-month period following December 22, 1987" are omitted as executed. The words "of an aircraft" are added for clarity. The text of 49 App.:1374 (note) is omitted as executed.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsecs. (d), (e). Pub. L. 115–254 added subsec. (d) and redesignated former subsec. (d) as (e).
@@ -105,6 +107,8 @@ General.—An individual may not smoke in the passenger cabin or lavatory of an 
 "(b)
 
 Regulations.—The Secretary of Transportation shall prescribe regulations necessary to carry out this section."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

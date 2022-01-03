@@ -44,7 +44,7 @@ The Secretary shall—
 
 &emsp;&emsp;(D) support projects, conduct research, and disseminate information relating to preventive medicine, health promotion, and physical fitness and sports medicine.
 
-> The Secretary shall appoint a Director for the Office of Disease Prevention and Health Promotion established pursuant to paragraph (11) of this subsection. The Secretary shall administer this subchapter in cooperation with health care providers, educators, voluntary organizations, businesses, and State and local health agencies in order to encourage the dissemination of health information and health promotion activities.
+> The Secretary shall appoint a Director for the Office of Disease Prevention and Health Promotion established pursuant to paragraph (11) of this subsection. The Secretary shall administer this subchapter in cooperation with health careproviders, educators, voluntary organizations, businesses, and State and local health agencies in order to encourage the dissemination of health information and health promotion activities.
 
 #### (b) Authorization of appropriations
 
@@ -55,6 +55,8 @@ For the purpose of carrying out this section and sections 300u–1 through 300u�
 No grant may be made or contract entered into under this subchapter unless an application therefor has been submitted to and approved by the Secretary. Such an application shall be submitted in such form and manner and contain such information as the Secretary may prescribe. Contracts may be entered into under this subchapter without regard to section 3324(a) and (b) of title 31 and section 6101 of title 41.
 
 (July 1, 1944, ch. 373, title XVII, §1701, as added Pub. L. 94–317, title I, §102, June 23, 1976, 90 Stat. 695; amended Pub. L. 96–32, §7(n), July 10, 1979, 93 Stat. 85; Pub. L. 96–76, title II, §209, Sept. 29, 1979, 93 Stat. 584; Pub. L. 98–551, §2(a), Oct. 30, 1984, 98 Stat. 2815; Pub. L. 100–607, title III, §312(a)(1), (b)(1), (c), Nov. 4, 1988, 102 Stat. 3113, 3114; Pub. L. 102–168, title I, §101, Nov. 26, 1991, 105 Stat. 1102; Pub. L. 102–531, title III, §311(b)(1), Oct. 27, 1992, 106 Stat. 3503; Pub. L. 105–392, title IV, §414, Nov. 13, 1998, 112 Stat. 3590.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -86,7 +88,9 @@ Subsec. (b). Pub. L. 98–551, §2(a)(2), substituted "To carry out this subchap
 
 <b>1979</b>—Subsec. (b). Pub. L. 96–76 inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1980, Sept. 30, 1981, and Sept. 30, 1982.
 
-Pub. L. 96–32 inserted "(other than grants and contracts under sections 300u–6, 300u–7, and 300u–8 of thistitle)" after "grants and contracts under this subchapter".
+Pub. L. 96–32 inserted "(other than grants and contracts under sections 300u–6, 300u–7, and 300u–8 of this title)" after "grants and contracts under this subchapter".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 
@@ -96,13 +100,15 @@ For short title of title I of Pub. L. 94–317, which enacted this subchapter as
 
 Section 312(b)(2) of Pub. L. 100–607 required Secretary of Health and Human Services, not later than 18 months after Nov. 4, 1988, to complete development of model programs required in section 1701(a)(7)(A) of the Public Health Service Act (subsec. (a)(7)(A) of this section).
 
+#### <b>Executive Documents</b>
+
 #### Executive Order No. 12345
 
 Ex. Ord. No. 12345, Feb. 2, 1982, 47 F.R. 5189, as amended by Ex. Ord. No. 12539, Dec. 3, 1985, 50 F.R. 49829; Ex. Ord. No. 12694, Oct. 11, 1989, 54 F.R. 42285; Ex. Ord. No. 12709, Apr. 4, 1990, 55 F.R. 13097; Ex. Ord. No. 13138, §8, Sept. 30, 1999, 64 F.R. 53881, which provided for the Secretary of Health and Human Services to develop and coordinate a national program for physical fitness and sports, continued the President's Council on Physical Fitness and Sports, and provided for termination of the Council on Dec. 31, 1982, was revoked by Ex. Ord. No. 13265, §5(c), June 6, 2002, 67 F.R. 39842, set out below, prior to amendment by Ex. Ord. No. 13545, June 22, 2010, 75 F.R. 37283.
 
 #### Ex. Ord. No. 13265. President's Council on Sports, Fitness, and Nutrition
 
-Ex. Ord. No. 13265, June 6, 2002, 67 F.R. 39841, as amended by Ex. Ord. No. 13545, June 22, 2010, 75 F.R. 37283; Ex. Ord. No. 13824, Feb. 26, 2018, 83 F.R. 8923, provided:
+Ex. Ord. No. 13265, June 6, 2002, 67 F.R. 39841, as amended by Ex. Ord. No. 13545, June 22, 2010, 75 F.R.37283; Ex. Ord. No. 13824, Feb. 26, 2018, 83 F.R. 8923; Ex. Ord. No. 14048, §7, Sept. 30, 2021, 86 F.R. 55467, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and to expand the executive branch's program for physical fitness and sports and establish the President's Council on Sports, Fitness, and Nutrition (the "Council"), it is hereby ordered as follows:
 
@@ -110,15 +116,19 @@ Section 1. <i>Purpose.</i> My Administration recognizes the benefits of youth sp
 
 Good health, including physical activity and proper nutrition, supports Americans', particularly children's, well-being, growth, and development. Participating in sports allows children to experience the connection between effort and success, and it enhances their academic, economic, and social prospects. Many of America's leaders attribute their lifetime achievements to lessons learned through sports participation and athletic activity. Additionally, youth sports help working parents and guardians by providing their children opportunities to engage in productive, positive activities outside of school. Unfortunately, during the past decade youth participation in team sports has declined. As of 2016, only 37 percent of children played team sports on a regular basis, down from 45 percent in 2008. Particularly troubling is that sports participation disproportionately lags among young girls and children who are from economically distressed areas.
 
-Sec. 2. <i>Policy</i>. (a) The Secretary of Health and Human Services (Secretary), in carrying out the Secretary's responsibilities for public health and human services, shall develop a national strategy to expand children's participation in youth sports, encourage regular physical activity, including active play, and promote good nutrition for all Americans. This national strategy shall focus on children and youth in communities with below-average sports participation and communities with limited access to athletic facilities or recreational areas. Through this national strategy, the Secretary shall seek to:
+Sec. 2. <i>Policy</i>. (a) The Secretary of Health and Human Services (Secretary), in carrying out the Secretary's responsibilities for public health and human services, shall continue to promulgate a national strategy (the National Youth Sports Strategy) to expand children's participation in youth sports, encourage regular physical activity, including active play, and promote good nutrition for all Americans. This national strategy shall focus on children and youth in communities with below-average sports participation and communities with limited access to athletic facilities or recreational areas. Through this national strategy, the Secretary shall seek to:
 
 (i) increase awareness of the benefits of participation in sports and regular physical activity, as well as the importance of good nutrition;
 
 (ii) promote private and public sector strategies to increase participation in sports, encourage regular physical activity, and improve nutrition;
 
-(iii) develop metrics that gauge youth sports participation and physical activity to inform efforts that will improve participation in sports and regular physical activity among young Americans; and
+(iii) develop metrics that gauge youth sports participation and physical activity to inform efforts that will improve participation in sports and regular physical activity among young Americans;
 
-(iv) establish a national and local strategy to recruit volunteers who will encourage and support youth participation in sports and regular physical activity, through coaching, mentoring, teaching, or administering athletic and nutritional programs.
+(iv) establish a national and local strategy to recruit volunteers who will encourage and support youth participation in sports and regular physical activity, through coaching, mentoring, teaching, or administering athletic and nutritional programs;
+
+(v) expand national awareness of the importance of mental health as it pertains to physical fitness and nutrition; and
+
+(vi) share information about the positive effects of physical activity on mental health, particularly as it relates to children and adolescents, to combat the negative mental health impacts of the coronavirus disease 2019 (COVID–19) pandemic.
 
 Sec. 3. <i>The President's Council on Sports, Fitness, and Nutrition</i>. (a) There is hereby established the President's Council on Sports, Fitness, and Nutrition (Council).
 
@@ -129,6 +139,8 @@ Sec. 4. <i>Functions of the Council</i>. (a) The Council shall advise the Presid
 (b) The Council shall recommend to the Secretary actions to expand opportunities at the national, State, and local levels for participation in sports and engagement in physical fitness and activity.
 
 (c) The Council's performance of these functions shall take into account the Department of Health and Human Services' Physical Activity Guidelines for Americans, including consideration for youth with disabilities.
+
+(d) The Council members shall function as liaisons and spokespersons on behalf of the Council to relevant State, local, and private entities, and share information about the work of the Council in order to advise the Secretary regarding opportunities to extend and improve physical activity, fitness, sports, and nutrition programs and services at the State, local, and national levels.
 
 Sec. 5. <i>Administration</i>. (a) Each executive department and agency shall, to the extent permitted by law and subject to the availability of funds, furnish such information and assistance to the Secretary and the Council as they may request.
 
@@ -164,9 +176,11 @@ Sec. 6. <i>General Provisions</i>. (a) Insofar as the Federal Advisory Committee
 
 #### Extension of Term of President's Council on Fitness, Sports, and Nutrition
 
-Term of President's Council on Fitness, Sports, and Nutrition (renamed President's Council on Sports, Fitness, and Nutrition) extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President's Council on Fitness, Sports, and Nutrition (renamed President's Council on Sports, Fitness, and Nutrition) extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Previous extensions of term of President's Council on Fitness, Sports, and Nutrition, formerly President's Council on Physical Fitness and Sports, were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, extended term until Sept. 30, 2021.
 
 Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, extended term until Sept. 30, 2019.
 
@@ -304,7 +318,7 @@ Ex. Ord. No. 13410, Aug. 22, 2006, 71 F.R. 51089, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States, and in order to promote federally led efforts to implement more transparent and high-quality health care, it is hereby ordered as follows:
 
-Section 1. <i>Purpose</i>. It is the purpose of this order to ensure that health care programs administered or sponsored by the Federal Government promote quality and efficient delivery of health care through the use of health information technology, transparency regarding health care quality and price, and better incentives for program beneficiaries, enrollees, and providers. It is the further purpose of this order to make relevant information available to these beneficiaries, enrollees, and providers in a readily useable manner and in collaboration with similar initiatives in the private sector and non-Federal public sector. Consistent with the purpose of improving the quality and efficiency of health care, the actions and steps taken by Federal Government agencies should not incur additional costs for the Federal Government.
+Section 1. <i>Purpose</i>. It is the purpose of this order to ensure that health care programs administered or sponsored by the Federal Government promote quality and efficient delivery of health care through the use of health information technology, transparency regarding health care quality and price, and better incentives for program beneficiaries, enrollees, and providers. It is the further purpose of this order to make relevant information available to these beneficiaries, enrollees, and providers in a readily useable manner and in collaboration with similar initiatives in the private sector and non-Federal public sector. Consistent with the purpose of improving the quality and efficiency of healthcare, the actions and steps taken by Federal Government agencies should not incur additional costs for the Federal Government.
 
 Sec. 2. <i>Definitions</i>. For purposes of this order:
 

@@ -28,6 +28,8 @@ If the petitioner, or any other person found by the Secretary to have a substant
 
 <i>For reversion, beginning on July 1, 2021, to provisions in effect on Jan. 1, 2014, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see Codification and Effective and Termination Dates of 2015 Revival notes below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 233 of Pub. L. 112–40, which provided for the Jan. 1, 2014, revival of this section as in effect on Feb. 13, 2011, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, and the provisions of this section, as in effect on Dec. 31, 2013, were temporarily revived, effective June 29, 2015, until July 1, 2021, by Pub. L. 114–27, §§402(b), (c), 406. See 2011 and 2015 Amendment notes, Effective and Termination Dates of 2011 Revival notes, and Effective and Termination Dates of 2015 Revival notes below.
@@ -63,6 +65,8 @@ Subsec. (a)(3). Pub. L. 111–5, §§1801(e)(1)(C), 1893, temporarily inserted "
 <b>1993</b>—Subsec. (a). Pub. L. 103–182 substituted "assistance under this subpart" for "assistance under this part".
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–272 inserted "(including workers in any agricultural firm or subdivision of an agricultural firm)" after "group of workers".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective and Termination Dates of 2015 Revival
 
@@ -100,7 +104,7 @@ In General.—Except as otherwise provided in this subtitle \[subtitle I (§§18
 
 Certifications Made Before Effective Date.—Notwithstanding subsection (a)—
 
-&emsp;"(1) a worker shall continue to receive (or be eligible to receive) trade adjustment assistance and other benefits under subchapter B of chapter 2 of title II of the Trade Act of 1974 \[subpart B of this part\], as in effect on the day before the effective date described insubsection (a)(1), for any week for which the worker meets the eligibility requirements of such chapter 2 as in effect on the day before such effective date, if the worker—
+&emsp;"(1) a worker shall continue to receive (or be eligible to receive) trade adjustment assistance and other benefits under subchapter B of chapter 2 of title II of the Trade Act of 1974 \[subpart B of this part\], as in effect on the day before the effective date described in subsection (a)(1), for any week for which the worker meets the eligibility requirements of such chapter 2 as in effect on the day before such effective date, if the worker—
 
 &emsp;&emsp;"(A) is certified as eligible for trade adjustment assistance benefits under such chapter 2 pursuant to a petition filed under section 221 of the Trade Act of 1974 \[19 U.S.C. 2271\] on or before such effective date; and
 
@@ -182,7 +186,7 @@ Petitions filed before january 1, 2014.—A worker certified as eligible to appl
 
 &emsp;"(3)
 
-Qualifying separations with respect to petitions filed within 90 days of date of enactment.—Section 223(b) of the Trade Act of 1974 \[19 U.S.C. 2273(b)\], as in effect on the date of the enactment of this Act, shall be applied and administered by substituting 'before January 1, 2014' for 'more than one year before the date of the petition on which such certification was granted' for purposes of determining whether a worker is eligible to apply for adjustment assistance pursuant to a petition filed under section 221 of the Trade Act of 1974 on or afterthe date of the enactment of this Act and on or before the date that is 90 days after such date of enactment.
+Qualifying separations with respect to petitions filed within 90 days of date of enactment.—Section 223(b) of the Trade Act of 1974 \[19 U.S.C. 2273(b)\], as in effect on the date of the enactment of this Act, shall be applied and administered by substituting 'before January 1, 2014' for 'more than one year before the date of the petition on which such certification was granted' for purposes of determining whether a worker is eligible to apply for adjustment assistance pursuant to a petition filed under section 221 of the Trade Act of 1974 on or after the date of the enactment of this Act and on or before the date that is 90 days after such date of enactment.
 
 "(b)
 
@@ -288,7 +292,7 @@ Petitions filed before february 13, 2011.—A worker certified as eligible to ap
 
 &emsp;&emsp;"(A) on or after May 18, 2009, and on or before February 12, 2011, shall continue to be eligible to apply for and receive benefits under the provisions of chapter 2 of title II of such Act \[this part\], as in effect on February 12, 2011; or
 
-&emsp;&emsp;"(B) before May 18, 2009, shall continue to be eligible to apply for and receive benefits under theprovisions of chapter 2 of title II of such Act, as in effect on May 17, 2009.
+&emsp;&emsp;"(B) before May 18, 2009, shall continue to be eligible to apply for and receive benefits under the provisions of chapter 2 of title II of such Act, as in effect on May 17, 2009.
 
 &emsp;"(3)
 
@@ -336,7 +340,7 @@ Firm described.—A firm described in this subparagraph is a firm that the Secre
 
 #### Determination of Increases of Imports for Certain Fishermen
 
-Pub. L. 111–5, div. B, title I, §1886, Feb. 17, 2009, 123 Stat. 419, provided that: "For purposes of chapters 2 and 6 \[this part and part 6 of this subchapter\] of title II of the Trade Act of 1974 (19 U.S.C. 2251 et seq.), in the case of an agricultural commodity producer that—
+Pub. L. 111–5, div. B, title I, §1886, Feb. 17, 2009, 123 Stat. 419, provided that: "For purposes of chapters 2and 6 \[this part and part 6 of this subchapter\] of title II of the Trade Act of 1974 (19 U.S.C. 2251 et seq.), in the case of an agricultural commodity producer that—
 
 &emsp;"(1) is a fisherman or aquaculture producer, and
 

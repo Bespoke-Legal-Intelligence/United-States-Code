@@ -32,7 +32,7 @@ For purposes of this subchapter:
 
 #### (7) Authorizing committees
 
-&emsp;The term "authorizing committees" means the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate.
+&emsp;The term "authorizing committees" means the Committee on Education and Labor of theHouse of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate.
 
 #### (8) Carry out
 
@@ -252,7 +252,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(B) that—
 
-&emsp;&emsp;&emsp;(i) is integrated into and enhances the academic curriculum of the students, orthe educational components of the community service program in which the participants are enrolled; and
+&emsp;&emsp;&emsp;(i) is integrated into and enhances the academic curriculum of the students, or the educational components of the community service program in which the participants are enrolled; and
 
 &emsp;&emsp;&emsp;(ii) provides structured time for the students or participants to reflect on the service experience.
 
@@ -293,6 +293,8 @@ For purposes of this subchapter:
 &emsp;The term "veteran" has the meaning given the term in section 101 of title 38.
 
 (Pub. L. 101–610, title I, §101, Nov. 16, 1990, 104 Stat. 3129; Pub. L. 102–10, §3, Mar. 12, 1991, 105 Stat. 29; Pub. L. 102–384, §3, Oct. 5, 1992, 106 Stat. 1455; Pub. L. 103–82, title I, §111(a), Sept. 21, 1993, 107 Stat. 857; Pub. L. 103–382, title III, §394(h)(1), Oct. 20, 1994, 108 Stat. 4028; Pub. L. 105–220, title IV, §414(g), Aug. 7, 1998, 112 Stat. 1242; Pub. L. 105–244, title I, §102(a)(13)(K), Oct. 7, 1998, 112 Stat. 1621; Pub. L. 107–110, title X, §1076(ff), Jan. 8, 2002, 115 Stat. 2093; Pub. L. 108–446, title III, §305(m), Dec. 3, 2004, 118 Stat. 2806; Pub. L. 111–13, title I, §1102, Apr. 21, 2009, 123 Stat. 1464; Pub. L. 114–95, title IX, §9215(bbb)(1), Dec. 10, 2015, 129 Stat. 2184.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -369,6 +371,8 @@ Par. (24). Pub. L. 102–10, §3(2), (6), redesignated par. (23) as (24) and in 
 Pars. (25) to (29). Pub. L. 102–10, §3(2), redesignated pars. (24) to (28) as (25) to (29), respectively. Former par. (29) redesignated (30).
 
 Par. (30). Pub. L. 102–10, §3(2), (7), redesignated par. (29) as (30) and inserted "corps" after "youth service".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

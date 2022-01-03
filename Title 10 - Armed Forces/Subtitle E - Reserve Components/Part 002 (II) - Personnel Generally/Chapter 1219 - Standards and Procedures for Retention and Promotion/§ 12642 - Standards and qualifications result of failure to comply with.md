@@ -50,6 +50,8 @@ Sept. 3, 1954, ch. 1257, §§102(1) (as applicable to §202(b)), 102(4), 202(b),
 
 In subsection (a), the word "minimum" is omitted as surplusage. The last sentence is substituted for the words "(not to exceed fifty)".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (c). Pub. L. 109–163 struck out "and Territories" after "States".
@@ -61,6 +63,8 @@ Subsec. (a). Pub. L. 103–337, §1675(d)(1)(A), substituted "12732(a)(2)" for "
 Subsec. (b). Pub. L. 103–337, §1675(d)(1)(B), substituted "12645" for "1005".
 
 <b>1988</b>—Subsec. (c). Pub. L. 100–456 struck out "the Canal Zone," after "Puerto Rico,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

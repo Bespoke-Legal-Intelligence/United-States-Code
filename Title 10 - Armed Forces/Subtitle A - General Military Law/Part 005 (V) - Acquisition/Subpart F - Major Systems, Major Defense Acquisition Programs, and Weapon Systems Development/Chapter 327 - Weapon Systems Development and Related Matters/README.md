@@ -7,6 +7,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior chapter 327 "RESEARCH AND DEVELOPMENT CENTERS AND FACILITIES", consisting of reserved section 4401, was repealed by Pub. L. 116–283, div. A, title XVIII, §1841(a)(1)(A), Jan. 1, 2021, 134 Stat. 4242.

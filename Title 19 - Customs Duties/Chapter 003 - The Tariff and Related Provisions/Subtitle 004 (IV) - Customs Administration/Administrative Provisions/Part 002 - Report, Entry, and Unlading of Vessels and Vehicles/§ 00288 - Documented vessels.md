@@ -2,7 +2,9 @@
 
 Documented vessels with a registry endorsement, engaged in foreign trade on the Great Lakes or their tributary or connecting waters in trade with Canada, shall not thereby become liable to the payment of entry and clearance fees.
 
-(R.S. §2793; Sept. 25, 1941, ch. 423, 55 Stat. 733; Pub. L. 103–182, title VI, §686(a)(1), Dec. 8, 1993,107 Stat. 2220; Pub. L. 104–324, title XI, §1115(b)(4), Oct. 19, 1996, 110 Stat. 3972; Pub. L. 109–304, §14(a), Oct. 6, 2006, 120 Stat. 1702.)
+(R.S. §2793; Sept. 25, 1941, ch. 423, 55 Stat. 733; Pub. L. 103–182, title VI, §686(a)(1), Dec. 8, 1993, 107 Stat. 2220; Pub. L. 104–324, title XI, §1115(b)(4), Oct. 19, 1996, 110 Stat. 3972; Pub. L. 109–304, §14(a), Oct. 6, 2006, 120 Stat. 1702.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

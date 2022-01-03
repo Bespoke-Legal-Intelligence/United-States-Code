@@ -56,7 +56,7 @@ A State, unit of local government, or Indian tribe may, in using a grant under t
 
 #### (2) Waiver
 
-&emsp;The Attorney General may waive the requirement of paragraph (1) with respect to a program if, in the opinion of the AttorneyGeneral, the program is not of sufficient size to justify a full program assessment.
+&emsp;The Attorney General may waive the requirement of paragraph (1) with respect to a program if, in the opinion of the Attorney General, the program is not of sufficient size to justify a full program assessment.
 
 #### (d) Administrative costs
 

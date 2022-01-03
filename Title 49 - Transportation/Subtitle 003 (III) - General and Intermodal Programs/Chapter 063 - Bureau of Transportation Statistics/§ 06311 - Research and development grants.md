@@ -14,9 +14,13 @@ The Secretary may make grants to, or enter into cooperative agreements or contra
 
 (Added Pub. L. 112–141, div. E, title II, §52011(a), July 6, 2012, 126 Stat. 894.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Executive Order 12906, referred to in par. (5), is Ex. Ord. No. 12906, Apr. 11, 1994, 59 F.R. 17671, which is set out as a note under section 1457 of Title 43, Public Lands.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

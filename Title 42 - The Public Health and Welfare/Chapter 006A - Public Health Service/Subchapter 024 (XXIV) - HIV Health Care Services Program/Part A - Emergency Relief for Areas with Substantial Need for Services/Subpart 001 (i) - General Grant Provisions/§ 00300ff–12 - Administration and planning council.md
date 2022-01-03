@@ -106,7 +106,7 @@
 
 &emsp;&emsp;(D) develop a comprehensive plan for the organization and delivery of health and support services described in section 300ff–14 of this title that—
 
-&emsp;&emsp;&emsp;(i) includes a strategy for identifying individuals who know their HIV status and are not receiving such services and for informing the individuals of and enabling the individuals to utilize the services, giving particular attention to eliminatingdisparities in access and services among affected subpopulations and historically underserved communities, and including discrete goals, a timetable, and an appropriate allocation of funds;
+&emsp;&emsp;&emsp;(i) includes a strategy for identifying individuals who know their HIV status and are not receiving such services and for informing the individuals of and enabling the individuals to utilize the services, giving particular attention to eliminating disparities in access and services among affected subpopulations and historically underserved communities, and including discrete goals, a timetable, and an appropriate allocation of funds;
 
 &emsp;&emsp;&emsp;(ii) includes a strategy to coordinate the provision of such services with programs for HIV prevention (including outreach and early intervention) and for the prevention and treatment of substance abuse (including programs that provide comprehensive treatment services for such abuse);
 
@@ -142,7 +142,7 @@
 
 #### (6) Grievance procedures
 
-&emsp;A planning council under paragraph (1) shall develop procedures for addressing grievances with respect to funding under this subpart, including procedures for submitting grievances that cannot be resolved to binding arbitration. Such procedures shall be described in the by-laws of the planning council and be consistent with the requirements of subsection (c).
+&emsp;A planning council under paragraph (1) shall develop procedures for addressing grievanceswith respect to funding under this subpart, including procedures for submitting grievances that cannot be resolved to binding arbitration. Such procedures shall be described in the by-laws of the planning council and be consistent with the requirements of subsection (c).
 
 #### (7) Public deliberations
 
@@ -189,6 +189,8 @@ Promptly after the date of the submission of the report required in section 501(
 The Secretary shall provide to each chief elected official receiving a grant under section 300ff–11(a) of this title guidelines and materials for training members of the planning council under paragraph (1) regarding the duties of the council.
 
 (July 1, 1944, ch. 373, title XXVI, §2602, as added Pub. L. 101–381, title I, §101(3), Aug. 18, 1990, 104 Stat. 577; amended Pub. L. 102–531, title III, §312(d)(26), Oct. 27, 1992, 106 Stat. 3505; Pub. L. 104–146, §3(b)(1), May 20, 1996, 110 Stat. 1347; Pub. L. 106–345, title I, §§101–102(c), 103, Oct. 20, 2000, 114 Stat. 1320–1323; Pub. L. 109–415, title I, §§106(b), 107(b), title VII, §§702(3), 703, Dec. 19, 2006, 120 Stat. 2780, 2783, 2820; Pub. L. 111–87, §§2(a)(1), (3)(A), 6(a), Oct. 30, 2009, 123 Stat. 2885, 2891.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -313,6 +315,8 @@ Subsec. (b)(5), (6). Pub. L. 104–146, §3(b)(1)(F), added pars. (5) and (6).
 Subsec. (c). Pub. L. 104–146, §3(b)(1)(F), added subsec. (c).
 
 <b>1992</b>—Subsec. (a)(1). Pub. L. 102–531 substituted "Centers for Disease Control and Prevention" for "Centers for Disease Control".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment; Revival of Section
 

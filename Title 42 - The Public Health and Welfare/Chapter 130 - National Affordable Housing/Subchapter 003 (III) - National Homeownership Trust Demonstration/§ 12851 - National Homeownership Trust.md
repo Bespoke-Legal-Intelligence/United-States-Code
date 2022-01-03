@@ -42,6 +42,8 @@ Members of the Board of Directors shall receive no additional compensation by re
 
 (Pub. L. 101–625, title III, §302, Nov. 28, 1990, 104 Stat. 4129.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title
 
 For short title of this subchapter as the "National Homeownership Trust Act", see Short Title note set out under section 12701 of this title.

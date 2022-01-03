@@ -104,7 +104,7 @@ Any Task Force member who is an officer or employee of the United States, the St
 
 #### (1) Travel expenses
 
-&emsp;While away from their homes or regular places of business in the performance of services for the Task Force, Task Force members shall be allowed travel expenses, including a per diem allowance in lieu of subsistence, inthe same manner as persons employed intermittently in the Government service are allowed travel expenses under section 5703 of title 5. Any Task Force member who is an employee of an agency or governmental unit and is eligible for travel expenses from that agency or unit for performing services for the Task Force is not eligible for travel expenses under this paragraph.
+&emsp;While away from their homes or regular places of business in the performance of services for the Task Force, Task Force members shall be allowed travel expenses, including a per diem allowance in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed travel expenses under section 5703 of title 5. Any Task Force member who is an employee of an agency or governmental unit andis eligible for travel expenses from that agency or unit for performing services for the Task Force is not eligible for travel expenses under this paragraph.
 
 #### (2) Limitation on spending authority
 
@@ -120,6 +120,8 @@ At such time as the program is expanded to include portions of the Klamath River
 
 (Pub. L. 99–552, §4, Oct. 27, 1986, 100 Stat. 3084; Pub. L. 100–580, §12(a), Oct. 31, 1988, 102 Stat. 2935; Pub. L. 100–653, title VI, §§601, 602(b), 603(1), Nov. 14, 1988, 102 Stat. 3829, 3830; Pub. L. 102–570, §2, Oct. 29, 1992, 106 Stat. 4490.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Subsec. (j). Pub. L. 102–570 added subsec. (j).
@@ -133,6 +135,8 @@ Subsec. (f)(1). Pub. L. 100–653, §602(b), substituted "Procedures" for "Decis
 Subsec. (h). Pub. L. 100–653, §603(1), substituted ", the State of California, or the State of Oregon" for "or the State of California".
 
 Subsec. (i). Pub. L. 100–653, §601, substituted "Expenses" for "Limitation on spending authority" in heading and amended text generally, designating existing provisions as par. (2) and adding par. (1).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Special Rule
 

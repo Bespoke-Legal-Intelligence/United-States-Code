@@ -6,7 +6,7 @@ Except as may otherwise be provided in this joint resolution, all United States 
 
 #### (b) Relations with Federated States of Micronesia and Marshall Islands
 
-(1) The United States representatives to the Federated States of Micronesia and the Republic of the Marshall Islands pursuant to Article V of title I of the Compact shall be appointed by the President with the advice and consent of the Senate, and shall be under the supervision of the Secretary of State, who shall have responsibility for government to government relations between the United States and the Government with respect to whom they are appointed, consistent with the authority of the Secretary of the Interior as set forth in this section.
+(1) The United States representatives to the Federated States of Micronesia and the Republic of the Marshall Islands pursuant to Article V of title I of the Compact shall be appointed by the President with the advice and consent of the Senate, and shall be under the supervision of the Secretary of State, who shall have responsibility for government to government relationsbetween the United States and the Government with respect to whom they are appointed, consistent with the authority of the Secretary of the Interior as set forth in this section.
 
 (2) Except for programs or services provided by or through other federal agencies or officials to the Federated States of Micronesia or the Republic of the Marshall Islands, or for which residents thereof are eligible pursuant to the Compact or any other provision of this joint resolution, appropriations made pursuant to the Compact or any other provision of this joint resolution may be made only to the Secretary of the Interior. The Secretary of the Interior shall coordinate and monitor any programs or activities, including such activities for which funding is made directly to such other agencies, provided to the Federated States of Micronesia or the Republic of the Marshall Islands by agencies of the Government of the United States and related economic development planning pursuant to the Compact or pursuant to any other authorization except for the provisions of sections 161(e), 313, and 351 of the Compact and the authorization of the President to agree to an effective date pursuant to this resolution. Funds appropriated to the Secretary of the Interior pursuant to this paragraph shall not be allocated to other Departments or agencies, except that the Secretary of the Interior shall be able to reimburse Departments or agencies for purposes authorized by this joint resolution.
 
@@ -50,7 +50,7 @@ The authorization provided by the Act of June 30, 1954, as amended (68 Stat. 330
 
 #### (e) Survivability
 
-In furtherance of the provisions of Title Four, Article V, sections 452 and 453 of the Compact, any provisions of the Compact which remain effective after the termination of the Compact by the act of any party thereto and which are affected in any manner by provisions of this part shall remain subject to such provisions.
+In furtherance of the provisions of Title Four, Article V, sections 452 and 453 of the Compact,any provisions of the Compact which remain effective after the termination of the Compact by the act of any party thereto and which are affected in any manner by provisions of this part shall remain subject to such provisions.
 
 #### (f) Registration for agents of Governments of Federated States of Micronesia and Marshall Islands
 
@@ -100,7 +100,7 @@ In furtherance of the provisions of Title Four, Article V, sections 452 and 453 
 
 #### (3) Section 219 determination
 
-&emsp;The determination by the Government of the United States under section 219 of the Compact shall be as provided in appropriation Acts.
+&emsp;The determination by the Government of the United States under section 219 of theCompact shall be as provided in appropriation Acts.
 
 #### (4) Tort claims
 
@@ -142,7 +142,7 @@ Neither the Government of the Federated States of Micronesia nor the Government 
 
 #### (k) Use of DOD medical facilities
 
-Following approval of the Compact, the Secretary of Defense shall make available the medical facilities of the Department of Defense for use by citizens of the Federated States of Micronesia and the Marshall Islands who are properly referred to such facilities by government authorities responsible for provision of medical services in the Federated States of Micronesia and the Marshall Islands. The Secretary of Defense is hereby authorized to cooperate with such authorities in order to permit use of such medical facilities for persons properly referred by such authorities. The Secretary of Health and Human Services is hereby authorized and directed to continue to make the services of the National Health Service Corps available to the residents of the Federated States of Micronesia and the Marshall Islands to the same extent and for so long as such services are authorized to be provided to persons residing in any other areas within or outside the United States.
+Following approval of the Compact, the Secretary of Defense shall make available the medical facilities of the Department of Defense for use by citizens of the Federated States of Micronesia and the Marshall Islands who are properly referred to such facilities by government authorities responsible for provision of medical services in the Federated States of Micronesia and the Marshall Islands. The Secretary of Defense is hereby authorized to cooperate with such authorities in order to permit use of such medical facilities for persons properly referred by such authorities. The Secretary of Health and Human Services is hereby authorized and directed to continue to make the services of the National Health Service Corps available to the residents of the Federated States of Micronesia and the Marshall Islands to the same extent and for so long as such services are authorized to beprovided to persons residing in any other areas within or outside the United States.
 
 #### (l) Technical assistance
 
@@ -162,7 +162,7 @@ There are authorized to be appropriated for grants to the Government of the Fede
 
 #### (p) Trust funds
 
-The responsibilities of the United States with regard to implementation of section 235 of theCompact shall be discharged by the Secretary of the Interior, who shall consult with the Government of the Marshall Islands and the designated beneficiaries of the funds held in trust by the High Commissioner of the Trust Territory of the Pacific Islands.
+The responsibilities of the United States with regard to implementation of section 235 of the Compact shall be discharged by the Secretary of the Interior, who shall consult with the Government of the Marshall Islands and the designated beneficiaries of the funds held in trust by the High Commissioner of the Trust Territory of the Pacific Islands.
 
 #### (q) Omitted
 
@@ -171,6 +171,8 @@ The responsibilities of the United States with regard to implementation of secti
 Any person in the Federated States of Micronesia or the Marshall Islands shall be liable for user fees, if any, for services provided in the Federated States of Micronesia or the Marshall Islands by the Government of the United States to the same extent as any person in the United States would be liable for fees, if any, for such services in the United States.
 
 (Pub. L. 99–239, title I, §105, Jan. 14, 1986, 99 Stat. 1791; Pub. L. 99–396, §20(a), Aug. 27, 1986, 100 Stat. 844; Pub. L. 99–658, title I, §104(c), Nov. 14, 1986, 100 Stat. 3676; Pub. L. 100–369, §9, July 18, 1988, 102 Stat. 837; Pub. L. 102–486, title XXVII, §2704, Oct. 24, 1992, 106 Stat. 3120; Pub. L. 113–287, §5(o)(1), Dec. 19, 2014, 128 Stat. 3272.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -214,17 +216,21 @@ Section was formerly set out as a note under section 1681 of this title.
 
 Subsec. (c)(2). Pub. L. 99–658 substituted "infrastructure, except that, for purposes of an orderly reduction of United States programs and services in the Federated States of Micronesia, the Marshall Islands, and Palau, United States programs or services not specifically authorized by the Compact of Free Association or by other provisions of law may continue but, unless reimbursed by the respective freely associated state, not in excess of the following amounts:" and subpars. (1) to (3) for "infrastructure."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security,and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Termination of Trust Territory of the Pacific Islands
-
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of this title.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Federated States of Micronesia and Marshall Islands; Programs and Services Provided on Nonreimbursable Basis
 
 Pub. L. 99–396, §20(b), Aug. 27, 1986, 100 Stat. 844, provided that: "The programs and services specified in section 105(h)(1), sections \[sic\] 105(i)(1) and (2), section 111(a) \[48 U.S.C. 1905(h)(1), (i)(1), (2), 1911(a)\], the services of the National Health Service Corps pursuant to section 105(k), and the Technical Assistance and National Historic Preservation Act \[probably means the National Historic Preservation Act, see 54 U.S.C. 300101 et seq.\] grants pursuant to section 105(l), of Public Law 99–239 shall be provided on a nonreimbursable basis."
+
+#### <b>Executive Documents</b>
+
+#### Termination of Trust Territory of the Pacific Islands
+
+For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

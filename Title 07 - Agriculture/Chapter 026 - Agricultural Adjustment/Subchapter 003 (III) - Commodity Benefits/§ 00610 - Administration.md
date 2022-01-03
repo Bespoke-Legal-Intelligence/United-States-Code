@@ -32,7 +32,7 @@ The provisions of this chapter shall be applicable to the United States and its 
 
 #### (g) Officers; dealing or speculating in agricultural products; penalties
 
-No person shall, while acting in any official capacity in the administration of this chapter, speculate, directly or indirectly, in any agricultural commodity or product thereof to which this chapter applies, or in contracts relating thereto, or in the stock or membership interest of any association or corporation engaged in handling, processing, or disposing of any such commodity or product. Any person violating this subsection shall upon conviction thereof be fined not more than $10,000 or imprisoned not more than two years, or both.
+No person shall, while acting in any official capacity in the administration of this chapter,speculate, directly or indirectly, in any agricultural commodity or product thereof to which this chapter applies, or in contracts relating thereto, or in the stock or membership interest of any association or corporation engaged in handling, processing, or disposing of any such commodity or product. Any person violating this subsection shall upon conviction thereof be fined not more than $10,000 or imprisoned not more than two years, or both.
 
 #### (h) Adoption of Federal Trade Commission Act; hearings; report of violations to Attorney General
 
@@ -48,6 +48,8 @@ The term "interstate or foreign commerce" means commerce between any State, Terr
 
 (May 12, 1933, ch. 25, title I, §10, 48 Stat. 37; June 16, 1933, ch. 98, title VIII, §86, 48 Stat. 273; May 9, 1934, ch. 263, §7, 48 Stat. 675; Aug. 24, 1935, ch. 641, §§16–18, 49 Stat. 767; Aug. 26, 1935, ch. 685, 49 Stat. 801; June 22, 1936, ch. 690, §601(a), 49 Stat. 1739; June 3, 1937, ch. 296, §§1, 2(g)–(i), 50 Stat. 246, 248; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7817, 60 Stat. 1352; Aug. 1, 1947, ch. 425, §3, 61 Stat. 709; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 8 of title II of the Act entitled "An Act to maintain the credit of the United States Government,", referred to in subsec. (a), means act Mar. 20, 1933, ch. 3, title II, §8, 48 Stat. 15, which is not classified to the Code.
@@ -62,7 +64,7 @@ Provisions of subsec. (a), which authorized appointment of officers and employee
 
 The salary limitation was superseded by the Classification Act of 1949.
 
-References to the Philippine Islands in subsec. (f) of this section were omitted from the Code as obsolete in view of the independence of the Philippine Islands, proclaimed by the President of the United States in Proc. No. 2695, which is set out as a note under section 1394 of Title 22, Foreign Relations and Intercourse.
+References to the Philippine Islands in subsec. (f) of this section were omitted from the Code as obsolete inview of the independence of the Philippine Islands, proclaimed by the President of the United States in Proc. No. 2695, which is set out as a note under section 1394 of Title 22, Foreign Relations and Intercourse.
 
 #### Amendments
 
@@ -92,9 +94,21 @@ Subsec. (i). Act Aug. 24, 1935, §18, added subsec. (i).
 
 <b>1933</b>—Subsec. (a). Act June 16, 1933, inserted "<i>And provided further</i>, That the State Administrator appointed to administer this chapter in each State shall be appointed by the President, by and with the advice and consent of the Senate" at end of first sentence.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Repeals
 
 Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, §8, 80 Stat. 632, 655.
+
+#### Validity of Section Affirmed
+
+Act June 3, 1937, §1, affirmed, validated, and reenacted without change the provisions of subsecs. (a), (b) (2), (c), and (f) to (i) of this section, except for the amendments to subsecs. (c) and (f) by section 2 of the act. See note set out under section 601 of this title.
+
+#### Appropriations for Refunds and Payments of Processing and Related Taxes and Limitations Thereon
+
+Acts June 25, 1938, ch. 681, 52 Stat. 1150; May 6, 1939, ch. 115, §1, 53 Stat. 661, 662; Feb. 12, 1940, ch. 28, §1, 54 Stat. 36; Mar. 25, 1940, ch. 71, title I, 54 Stat. 61; May 31, 1941, ch. 156, title I, §1, 55 Stat. 218; Mar. 10, 1942, ch. 178, title I, §1, 56 Stat. 156; June 30, 1943, ch. 179, title I, 57 Stat. 257; Apr. 22, 1944, ch. 175, title I, §1, 58 Stat. 201; Apr. 24, 1945, ch. 92, title I, 59 Stat. 62; July 20, 1946, ch. 588, title I, 60 Stat. 574.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 
@@ -103,14 +117,6 @@ Functions of all officers, agencies, and employees of Department of Agriculture 
 Executive and administrative functions of Federal Trade Commission, with certain reservations, transferred to Chairman of Commission by 1950 Reorg. Plan No. 8, §1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out in the Appendix to Title 5, Government Organization and Employees.
 
 1946 Reorg. Plan No. 3, §501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100, set out in the Appendix to Title 5, transferred functions of Agricultural Adjustment Administration to Secretary of Agriculture. In his letter to Congress, the President stated that purpose of this transfer was to permit Secretary of Agriculture to continue consolidation already effected in Production and Marketing Administration. By temporary Executive Orders 9069 and 9577, and Ex. Ord. No. 9280, Dec. 5, 1942, 7 F.R. 10, 179, and Ex. Ord. No. 9322, Mar. 26, 1943, 8 F.R. 3807, as amended by Ex. Ord. No. 9334, Apr. 19, 1943, 8 F.R. 5423, the Agricultural Adjustment Administration had been successively consolidated into Agricultural Conservation and Adjustment Administration, Food Production Administration, and War Food Administration, which was terminated and its functions transferred to Secretary of Agriculture by said Ex. Ord. 9577. Secretary of Agriculture consolidated functions of Agricultural Adjustment Administration into Production and Marketing Administration by Memorandum 1118, Aug. 18, 1945.
-
-#### Validity of Section Affirmed
-
-Act June 3, 1937, §1, affirmed, validated, and reenacted without change the provisions of subsecs. (a), (b) (2), (c), and (f) to (i) of this section, except for the amendments to subsecs. (c) and (f) by section 2 of the act. See note set out under section 601 of this title.
-
-#### Appropriations for Refunds and Payments of Processing and Related Taxes and Limitations Thereon
-
-Acts June 25, 1938, ch. 681, 52 Stat. 1150; May 6, 1939, ch. 115, §1, 53 Stat. 661, 662; Feb. 12, 1940, ch. 28, §1, 54 Stat. 36; Mar. 25, 1940, ch. 71, title I, 54 Stat. 61; May 31, 1941, ch. 156, title I, §1, 55 Stat. 218; Mar. 10, 1942, ch. 178, title I, §1, 56 Stat. 156; June 30, 1943, ch. 179, titleI, 57 Stat. 257; Apr. 22, 1944, ch. 175, title I, §1, 58 Stat. 201; Apr. 24, 1945, ch. 92, title I, 59 Stat. 62; July 20, 1946, ch. 588, title I, 60 Stat. 574.
 
 #### Ex. Ord. No. 10199. Regulations Without Approval of President
 

@@ -6,7 +6,7 @@ Not later than January 1, 2010, the Secretary shall establish a national HIV/AID
 
 #### (b) Annual report
 
-Not later than January 1, 2011, and annually thereafter, the Secretary, acting through theDirector of the Centers for Disease Control and Prevention, shall submit to Congress a report describing, with regard to the preceding 12-month reporting period—
+Not later than January 1, 2011, and annually thereafter, the Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall submit to Congress a report describing, with regard to the preceding 12-month reporting period—
 
 &emsp;(1) whether the testing goal described in subsection (a) has been met;
 
@@ -52,11 +52,15 @@ In pursuing the National HIV/AIDS testing goal, the Secretary, where appropriate
 
 (July 1, 1944, ch. 373, title XXVI, §2688, as added Pub. L. 111–87, §12(2), Oct. 30, 2009, 123 Stat. 2896.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 2688 of act July 1, 1944, was renumbered section 2689 and is classified to section 300ff–88 of this title.
 
 Another prior section 2688 of act July 1, 1944, was classified to section 300ff–88 of this title prior to the general amendment of this part by Pub. L. 109–415.
+
+#### <b>Editorial Notes</b>
 
 #### Effective Date
 

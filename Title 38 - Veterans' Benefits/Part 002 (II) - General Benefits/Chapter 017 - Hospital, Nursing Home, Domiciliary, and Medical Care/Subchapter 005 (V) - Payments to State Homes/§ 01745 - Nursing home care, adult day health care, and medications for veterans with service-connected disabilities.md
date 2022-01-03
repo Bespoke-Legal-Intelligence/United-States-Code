@@ -46,7 +46,7 @@
 
 (c) Any State home that requests payment or reimbursement for services provided to a veteran under this section shall provide to the Secretary such information as the Secretary considers necessary to identify each individual veteran eligible for payment under such section.
 
-(d)(1) The Secretary shall enter into an agreement with each State home for payment by the Secretary for medical supervision model adult day health care provided to a veteran described in subsection (a)(1) on whose behalf the Statehome is not in receipt of payment for nursing home care from the Secretary.
+(d)(1) The Secretary shall enter into an agreement with each State home for payment by the Secretary for medical supervision model adult day health care provided to a veteran described in subsection (a)(1) on whose behalf the State home is not in receipt of payment for nursing home care from the Secretary.
 
 (2)(A) Payment under each agreement between the Secretary and a State home under paragraph (1) for each veteran who receives medical supervision model adult day health care under such agreement shall be made at a rate established through regulations prescribed by the Secretary to adequately reimburse the State home for the care provided by the State home, including necessary transportation expenses.
 
@@ -58,7 +58,7 @@
 
 (4) In this subsection, the term "medical supervision model adult day health care" means adult day health care that includes the coordination of physician services, dental services, nursing services, the administration of drugs, and such other requirements as determined appropriate by the Secretary.
 
-(Added and amended Pub. L. 109–461, title II, §211(a)(1), (2), (b)(1), Dec. 22, 2006, 120 Stat. 3418, 3419; Pub. L. 112–154, title I, §105(a), Aug. 6, 2012, 126 Stat. 1170; Pub. L. 115–159, §2(a), Mar. 27, 2018, 132 Stat. 1244; Pub. L. 115–182, title I, §103(a), June 6, 2018, 132 Stat. 1408; Pub. L. 115–251, title II, §211(a)(9), Sept. 29, 2018, 132 Stat. 3175.)
+(Added and amended Pub. L. 109–461, title II, §211(a)(1), (2), (b)(1), Dec. 22, 2006, 120 Stat. 3418, 3419; Pub. L. 112–154, title I, §105(a), Aug. 6, 2012,126 Stat. 1170; Pub. L. 115–159, §2(a), Mar. 27, 2018, 132 Stat. 1244; Pub. L. 115–182, title I, §103(a), June 6, 2018, 132 Stat. 1408; Pub. L. 115–251, title II, §211(a)(9), Sept. 29, 2018, 132 Stat. 3175.)
 
 #### <b>Editorial Notes</b>
 

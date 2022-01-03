@@ -1,5 +1,7 @@
 ### §§691 to 718. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Sections 691 to 718, relating to Territory of Hawaii, were omitted in view of admission of Hawaii into the Union.
@@ -60,7 +62,7 @@ Section 715, acts July 9, 1921, ch. 42, title II, §221, 42 Stat. 114; Aug. 1, 1
 
 Section 715a, act July 9, 1921, ch. 42 title II, §224, as added July 26, 1935, ch. 420, §2, 49 Stat. 505, authorized Secretary of the Interior to designate a sanitation and reclamation expert.
 
-Section 716, act July 9, 1921, ch. 42, title II, §223, 42 Stat. 115, reserved right in Congress, to alter, amend, or repeal provisions of sections 691 to 704 and 705 to 716 of this title.
+Section 716, act July 9, 1921, ch. 42, title II, §223, 42 Stat. 115, reserved right in Congress, to alter, amend,or repeal provisions of sections 691 to 704 and 705 to 716 of this title.
 
 Section 717, act July 9, 1921, ch. 42, §401, 42 Stat. 121, related to acts repealed.
 

@@ -68,9 +68,13 @@ Savings Clause.—Nothing in this section may be construed as requiring a railro
 
 (Added Pub. L. 114–94, div. A, title XI, §11411(a), Dec. 4, 2015, 129 Stat. 1686.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of the Passenger Rail Reform and Investment Act of 2015, referred to in subsec. (a), is the date of enactment of title XI of div. A of Pub. L. 114–94, which was approved Dec. 4, 2015.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

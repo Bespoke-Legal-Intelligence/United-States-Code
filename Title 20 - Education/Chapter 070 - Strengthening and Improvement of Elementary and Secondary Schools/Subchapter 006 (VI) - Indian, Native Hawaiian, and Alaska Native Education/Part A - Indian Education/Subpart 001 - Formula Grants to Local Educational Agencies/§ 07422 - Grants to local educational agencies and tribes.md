@@ -10,7 +10,7 @@ The Secretary may make grants, from allocations made under section 7423 of this 
 
 &emsp;(3) Indian organizations, as provided under subsection (c)(1);
 
-&emsp;(4) consortia of 2 or more local educational agencies, Indian tribes, Indian organizations, or Indian community-based organizations, if each local educational agency participating in such a consortium, if applicable—
+&emsp;(4) consortia of 2 or more local educational agencies, Indian tribes, Indian organizations,or Indian community-based organizations, if each local educational agency participating in such a consortium, if applicable—
 
 &emsp;&emsp;(A) provides an assurance that the eligible Indian children served by such local educational agency will receive the services of the programs funded under this subpart; and
 
@@ -44,7 +44,7 @@ The Secretary may make grants, from allocations made under section 7423 of this 
 
 #### (1) In general
 
-&emsp;If a local educational agency that is otherwise eligible for a grant under this subpart does not establish a committee under section7424(c)(4) of this title for such grant, an Indian tribe, an Indian organization, or a consortium of such entities, that represents more than one-half of the eligible Indian children who are served by such local educational agency may apply for such grant.
+&emsp;If a local educational agency that is otherwise eligible for a grant under this subpart does not establish a committee under section 7424(c)(4) of this title for such grant, an Indian tribe, an Indian organization, or a consortium of such entities, that represents more than one-half of the eligible Indian children who are served by such local educational agency may apply for such grant.
 
 #### (2) Special rule
 
@@ -84,6 +84,8 @@ The Secretary may make grants, from allocations made under section 7423 of this 
 
 (Pub. L. 89–10, title VI, §6112, formerly title VII, §7112, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1908; renumbered title VI, §6112, and amended Pub. L. 114–95, title VI, §§6001(a), (b)(1), (2), 6002(d), Dec. 10, 2015, 129 Stat. 2046, 2048.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 7422, Pub. L. 89–10, title VII, §7112, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3719, related to program development and implementation grants, prior to the general amendment of former subchapter VII of this chapter by Pub. L. 107–110.
@@ -101,6 +103,8 @@ Pub. L. 114–95, §6001(b)(2), made technical amendment to reference in origina
 Subsec. (b)(2), (3). Pub. L. 114–95, §6002(d)(2)(B), (C), added par. (2) and redesignated former par. (2) as (3).
 
 Subsecs. (c), (d). Pub. L. 114–95, §6002(d)(3), added subsecs. (c) and (d) and struck out former subsec. (c) which allowed certain Indian tribes to apply for grants.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

@@ -76,25 +76,27 @@ The following sections of this chapter shall apply to States under this subchapt
 
 &emsp;(I) Section 1396a(e)(14) of this title (relating to income determined using modified adjusted gross income and household income).
 
-&emsp;(J) Section 1396a(bb) of this title (relating to payment for services provided by Federally-qualified health centers and rural health clinics).
+&emsp;(J) Paragraphs (5) and (16) of section 1396a(e) of this title (relating to the State option to provide medical assistance consisting of full benefits during pregnancy and throughout the 12-month postpartum period under subchapter XIX),<sup>1</sup> if the State provides child health assistance for targeted low-income children who are pregnant or to targeted low-income pregnant women and the State has elected to apply such paragraph (16) with respect to pregnant women under subchapter XIX, the provision of assistance under the State child health plan or waiver for targeted low-income children or targeted low-income pregnant women during pregnancy and the 12-month postpartum period shall be required and not at the option of the State and shall include coverage of all items or services provided to a targeted low-income child or targeted low-income pregnant woman (as applicable) under the State child health plan or waiver).<sup>1</sup>
 
-&emsp;(K) Section 1396a(ff) of this title (relating to disregard of certain property for purposes of making eligibility determinations).
+&emsp;(K) Section 1396a(bb) of this title (relating to payment for services provided by Federally-qualified health centers and rural health clinics).
 
-&emsp;(L) Paragraphs (2), (16), and (17) of section 1396b(i) of this title (relating to limitations on payment).
+&emsp;(L) Section 1396a(ff) of this title (relating to disregard of certain property for purposes of making eligibility determinations).
 
-&emsp;(M) Section 1396b(m)(3) of this title (relating to limitation on payment with respect to managed care).
+&emsp;(M) Paragraphs (2), (16), and (17) of section 1396b(i) of this title (relating to limitations on payment).
 
-&emsp;(N) Paragraph (4) of section 1396b(v) of this title (relating to optional coverage of categories of lawfully residing immigrant children or pregnant women), but only if the State has elected to apply such paragraph with respect to such category of children or pregnant women under subchapter XIX.
+&emsp;(N) Section 1396b(m)(3) of this title (relating to limitation on payment with respect to managed care).
 
-&emsp;(O) Section 1396b(w) of this title (relating to limitations on provider taxes and donations).
+&emsp;(O) Paragraph (4) of section 1396b(v) of this title (relating to optional coverage of categories of lawfully residing immigrant children or pregnant women), but only if the State has elected to apply such paragraph with respect to such category of children or pregnant women under subchapter XIX.
 
-&emsp;(P) Section 1396r–1a of this title (relating to presumptive eligibility for children).
+&emsp;(P) Section 1396b(w) of this title (relating to limitations on provider taxes and donations).
 
-&emsp;(Q) Subsections (a)(2)(C) (relating to Indian enrollment), (d)(5) (relating to contract requirement for managed care entities), (d)(6) (relating to enrollment of providers participating with a managed care entity), and (h) (relating to special rules with respect to Indian enrollees, Indian health care providers, and Indian managed care entities) of section 1396u–2 of this title.
+&emsp;(Q) Section 1396r–1a of this title (relating to presumptive eligibility for children).
 
-&emsp;(R) Section 1396w–2 of this title (relating to authorization to receive data directly relevant to eligibility determinations).
+&emsp;(R) Subsections (a)(2)(C) (relating to Indian enrollment), (d)(5) (relating to contract requirement for managed care entities), (d)(6) (relating to enrollment of providers participating with a managed care entity), and (h) (relating to special rules with respect to Indian enrollees, Indian health care providers, and Indian managed care entities) of section 1396u–2 of this title.
 
-&emsp;(S) Section 1396w–3(b) of this title (relating to coordination with State Exchanges and the State Medicaid agency).
+&emsp;(S) Section 1396w–2 of this title (relating to authorization to receive data directly relevant to eligibility determinations).
+
+&emsp;(T) Section 1396w–3(b) of this title (relating to coordination with State Exchanges and the State Medicaid agency).
 
 #### (2) Subchapter XI provisions
 
@@ -134,13 +136,21 @@ Notwithstanding subsection (e)(2)(A) and section 1315(a) of this title:
 
 &emsp;&emsp;(B) that is funded exclusively through non-Federal funds, including funds received by the State in the form of premiums for the purchase of such coverage.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2107, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 565; amended Pub. L. 106–554, §1(a)(6) \[title VIII, §803\], Dec. 21, 2000, 114 Stat. 2763, 2763A–582; Pub. L. 109–171, title VI, §6102(a), Feb. 8, 2006, 120 Stat. 131; Pub. L. 111–3, title I, §112(a)(2)(A), title II, §§203(a)(2), (d)(2), 214(b), title V, §§501(d)(2), 503(a)(1), Feb. 4, 2009, 123 Stat. 33, 46, 49, 57, 87, 89; Pub. L. 111–5, div. B, title V, §5006(b)(2), (d)(2), (e)(2)(B), Feb. 17, 2009, 123 Stat. 506, 510; Pub. L. 111–148, title II, §2101(d)(2), (e), title VI, §6401(c), Mar. 23, 2010, 124 Stat. 287, 753; Pub. L. 111–152, title I, §1004(b)(2)(B), Mar. 30, 2010, 124 Stat. 1034; Pub. L. 111–309, title II, §205(f)(2), Dec. 15, 2010, 124 Stat. 3291; Pub. L. 114–255, div. A, title V, §5005(c)(1), Dec. 13, 2016, 130 Stat. 1194; Pub. L. 115–120, div. C, §3002(g)(1), Jan. 22, 2018, 132 Stat. 35; Pub. L. 115–123, div. E, title XII, §53102(d)(1), Feb. 9, 2018, 132 Stat. 299.)
+(Aug. 14, 1935, ch. 531, title XXI, §2107, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 565; amended Pub. L. 106–554, §1(a)(6) \[title VIII, §803\], Dec. 21, 2000, 114 Stat. 2763, 2763A–582; Pub. L. 109–171, title VI, §6102(a), Feb. 8, 2006, 120 Stat. 131; Pub. L. 111–3, title I, §112(a)(2)(A), title II, §§203(a)(2), (d)(2), 214(b), title V, §§501(d)(2), 503(a)(1), Feb. 4, 2009, 123 Stat. 33, 46, 49, 57, 87, 89; Pub. L. 111–5, div. B, title V, §5006(b)(2), (d)(2), (e)(2)(B), Feb. 17, 2009, 123 Stat. 506, 510; Pub. L. 111–148, title II, §2101(d)(2), (e), title VI, §6401(c), Mar. 23, 2010, 124 Stat. 287, 753; Pub. L. 111–152, title I, §1004(b)(2)(B), Mar. 30, 2010, 124 Stat. 1034; Pub. L. 111–309, title II, §205(f)(2), Dec. 15, 2010, 124 Stat. 3291; Pub. L. 114–255, div. A, title V,§5005(c)(1), Dec. 13, 2016, 130 Stat. 1194; Pub. L. 115–120, div. C, §3002(g)(1), Jan. 22, 2018, 132 Stat. 35; Pub. L. 115–123, div. E, title XII, §53102(d)(1), Feb. 9, 2018, 132 Stat. 299; Pub. L. 117–2, title IX, §9822(a)(1), Mar. 11, 2021, 135 Stat. 220.)
+
+#### Applicability of Amendment
+
+<i>Amendment of section by Pub. L. 117–2 applicable with respect to State elections made under section 1396a(e)(16) of this title during the 5-year period beginning on the 1st day of the 1st fiscal year quarter that begins one year after Mar. 11, 2021. See 2021 Amendment note below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
 Amendment by section 501(d)(2) of Pub. L. 111–3 executed after amendment by section 214(b) of Pub. L. 111–3 to reflect the probable intent of Congress, notwithstanding section 501(d)(3) of Pub. L. 111–3, set out as an Effective Date of 2009 Amendment note under section 1396a of this title.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (e)(1)(J) to (T). Pub. L. 117–2 added subpar. (J) and redesignated former subpars. (J) to (S) as (K) to (T), respectively.
 
 <b>2018</b>—Subsec. (e)(1)(B) to (S). Pub. L. 115–123 added subpar. (B) and redesignated former subpars. (B) to (R) as (C) to (S), respectively.
 
@@ -264,6 +274,12 @@ Subsec. (f)(2). Pub. L. 111–3, §112(a)(2)(A)(iv), added par. (2).
 
 <b>2000</b>—Subsec. (e)(1)(D). Pub. L. 106–554 added subpar. (D).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Pub. L. 117–2, title IX, §9822(b), Mar. 11, 2021, 135 Stat. 221, provided that: "The amendments made by subsection (a) \[amending this section\], shall apply with respect to State elections made under paragraph (16) of section 1902(e) of the Social Security Act (42 U.S.C. 1396a(e)), as added by section 9812(a) of subtitle J of this title \[subtitle J (§§9811–9819) of title IX of Pub. L. 117–2\], during the 5-year period beginning on the 1st day of the 1st fiscal year quarter that begins one year after the date of the enactment of this Act \[Mar. 11, 2021\]."
+
 #### Effective Date of 2009 Amendment
 
 Amendment by Pub. L. 111–5 effective July 1, 2009, see section 5006(f) of Pub. L. 111–5, set out as a note under section 1396a of this title.
@@ -292,5 +308,7 @@ Pub. L. 109–171, title VI, §6102(c), Feb. 8, 2006, 120 Stat. 131, as amended 
 
 &emsp;"(2) imply congressional approval of any waiver, experimental, pilot, or demonstration project affecting funds made available under the State children's health insurance program under title XXI of the Social Security Act (42 U.S.C. 1397aa et. seq.) or any amendment to such a waiver or project that has been approved as of such date of enactment; or
 
-&emsp;"(3) apply to any waiver, experimental, pilot, or demonstration project that would allow funds made available under title XXI of the Social Security Act (42 U.S.C. 1397aa et seq.) to be used to provide child health assistance or other health benefits coverage toa nonpregnant childless adult that is approved before the date of enactment of this Act or to any extension, renewal, or amendment of such a waiver or project that is approved on or after such date of enactment."
+&emsp;"(3) apply to any waiver, experimental, pilot, or demonstration project that would allow funds made available under title XXI of the Social Security Act (42 U.S.C. 1397aa et seq.) to be used to provide child health assistance or other health benefits coverage to a nonpregnant childless adult that is approved before the date of enactment of this Act or to any extension, renewal, or amendment of such a waiver or project that is approved on or after such date of enactment."
+
+<i><sup>1</sup></i><i> So in original. There are two closing parentheses for the opening parenthesis preceding "relating".</i>
 

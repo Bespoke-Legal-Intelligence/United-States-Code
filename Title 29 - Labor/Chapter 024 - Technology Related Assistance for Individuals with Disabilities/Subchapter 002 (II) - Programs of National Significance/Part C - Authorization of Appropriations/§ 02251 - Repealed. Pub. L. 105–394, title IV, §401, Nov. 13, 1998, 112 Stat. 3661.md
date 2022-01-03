@@ -10,7 +10,7 @@ Section 2252, Pub. L. 100–407, title II, §222, Aug. 19, 1988, 102 Stat. 1063;
 
 Section 2253, Pub. L. 100–407, title II, §223, Aug. 19, 1988, 102 Stat. 1063, related to establishment by Secretary of Labor of program priorities implementing technologically-related assistance.
 
-Section 2261, Pub. L. 100–407, title II, §231, Aug. 19, 1988, 102 Stat. 1063; Pub. L. 102–569, title IX, §913(3), Oct. 29, 1992, 106 Stat. 4487, which comprised part D of this subchapter, authorized demonstration and innovation projects relating to technology-related assistance.
+Section 2261, Pub. L. 100–407, title II, §231, Aug. 19, 1988, 102 Stat. 1063; Pub. L. 102–569, title IX, §913(3), Oct.29, 1992, 106 Stat. 4487, which comprised part D of this subchapter, authorized demonstration and innovation projects relating to technology-related assistance.
 
 Section 2271, Pub. L. 100–407, title II, §241, Aug. 19, 1988, 102 Stat. 1064, which comprised part E of this subchapter, authorized appropriations to carry out this subchapter, prior to repeal by Pub. L. 103–382, title III, §366, Oct. 20, 1994, 108 Stat. 3975, effective as if included in Pub. L. 103–218.
 

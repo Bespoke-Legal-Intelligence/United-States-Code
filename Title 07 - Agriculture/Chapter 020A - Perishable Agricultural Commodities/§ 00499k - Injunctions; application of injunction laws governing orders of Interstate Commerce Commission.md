@@ -4,9 +4,13 @@ For the purposes of this chapter the provisions of all laws relating to the susp
 
 (June 10, 1930, ch. 436, §11, 46 Stat. 535.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 561 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 

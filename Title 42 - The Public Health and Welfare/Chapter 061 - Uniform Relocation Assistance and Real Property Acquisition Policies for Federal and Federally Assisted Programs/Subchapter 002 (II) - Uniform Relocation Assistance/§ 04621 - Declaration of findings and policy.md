@@ -28,9 +28,11 @@ It is the intent of Congress that—
 
 &emsp;(3) the improvement of housing conditions of economically disadvantaged persons under this subchapter shall be undertaken, to the maximum extent feasible, in coordination with existing Federal, State, and local governmental programs for accomplishing such goals; and
 
-&emsp;(4) the policies and procedures of this chapter will be administered in a manner which is consistent with fair housing requirements andwhich assures all persons their rights under title VIII of the Act of April 11, 1968 (Public Law 90–284), commonly known as the Civil Rights Act of 1968 \[42 U.S.C. 3601 et seq.\], and title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\].
+&emsp;(4) the policies and procedures of this chapter will be administered in a manner which is consistent with fair housing requirements and which assures all persons their rights under title VIII of the Act of April 11, 1968 (Public Law 90–284), commonly known as the Civil Rights Act of 1968 \[42 U.S.C. 3601 et seq.\], and title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\].
 
 (Pub. L. 91–646, title II, §201, Jan. 2, 1971, 84 Stat. 1895; Pub. L. 100–17, title IV, §404, Apr. 2, 1987, 101 Stat. 248.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -46,9 +48,11 @@ The Civil Rights Act of 1964, referred to in subsec. (c)(4), is Pub. L. 88–352
 
 <b>1987</b>—Pub. L. 100–17 substituted "Declaration of findings and policy" for "Declaration of policy" in section catchline and amended text generally. Prior to amendment, text read as follows: "The purpose of this subchapter is to establish a uniform policy for the fair and equitable treatment of persons displaced as a result of Federal and federally assisted programs in order that such persons shall not suffer disproportionate injuries as a result of programs designed for the benefit of the public as a whole."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–17 effective on effective date provided in regulations promulgated under section 4633 of this title (as amended by section 412 of Pub. L. 100–17), but not later than 2 years after Apr. 2, 1987, see section 418 of Pub. L. 100–17, set out as a note under section 4601 of this title.
+Amendment by Pub. L. 100–17 effective on effective date provided in regulations promulgated under section 4633 of this title (as amended by section 412 of Pub. L. 100–17), but not later than 2 years after Apr. 2, 1987, seesection 418 of Pub. L. 100–17, set out as a note under section 4601 of this title.
 
 #### Savings Provision
 

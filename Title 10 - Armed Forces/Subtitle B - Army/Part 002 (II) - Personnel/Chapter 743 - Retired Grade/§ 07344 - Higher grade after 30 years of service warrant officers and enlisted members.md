@@ -52,6 +52,8 @@ Act
 
 May 31, 1956, ch. 348, §1, 70 Stat. 222.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 7344, act Aug. 10, 1956, ch. 1041, 70A Stat. 454, related to suspension of naval aircraft construction in case of treaty for limitation of naval armament, prior to repeal by Pub. L. 103–160, div. A, title VIII, §824(a)(9), Nov. 30, 1993, 107 Stat. 1708.
@@ -65,6 +67,8 @@ A prior section 7344, act Aug. 10, 1956, ch. 1041, 70A Stat. 454, related to sus
 <b>1984</b>—Pub. L. 98–525 substituted "highest grade" for "highest temporary grade".
 
 <b>1958</b>—Pub. L. 85–861 struck out ", after September 8, 1940 and before July 1, 1946" after "Secretary of the Army".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

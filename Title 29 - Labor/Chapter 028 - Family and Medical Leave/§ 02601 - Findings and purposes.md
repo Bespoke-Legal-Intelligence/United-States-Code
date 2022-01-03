@@ -26,7 +26,7 @@ It is the purpose of this Act—
 
 &emsp;(3) to accomplish the purposes described in paragraphs (1) and (2) in a manner that accommodates the legitimate interests of employers;
 
-&emsp;(4) to accomplish the purposes described in paragraphs (1) and (2) in a manner that, consistent with the Equal Protection Clause ofthe Fourteenth Amendment, minimizes the potential for employment discrimination on the basis of sex by ensuring generally that leave is available for eligible medical reasons (including maternity-related disability) and for compelling family reasons, on a gender-neutral basis; and
+&emsp;(4) to accomplish the purposes described in paragraphs (1) and (2) in a manner that, consistent with the Equal Protection Clause of the Fourteenth Amendment, minimizes the potential for employment discrimination on the basis of sex by ensuring generally that leave is available for eligible medical reasons (including maternity-related disability) and for compelling family reasons, on a gender-neutral basis; and
 
 &emsp;(5) to promote the goal of equal employment opportunity for women and men, pursuant to such clause.
 
@@ -68,7 +68,7 @@ Collective bargaining agreements.—In the case of a collective bargaining agree
 
 Pub. L. 116–127, §1, Mar. 18, 2020, 134 Stat. 178, provided that: "This Act \[see Tables for classification\] may be cited as the 'Families First Coronavirus Response Act'."
 
-Pub. L. 116–127, div. C, §3101, Mar. 18, 2020, 134 Stat. 189, provided that: "This Act \[div. C of Pub. L. 116–127, enacting section 2620 of this title, amending section 2612 of this title, and enacting provisions set out as notes under section 2620 of this title\] may be cited as \[the\] 'Emergency Family and Medical Leave Expansion Act'."
+Pub. L. 116–127, div. C, §3101, Mar. 18, 2020, 134 Stat. 189, provided that: "This Act \[div. C of Pub. L. 116–127, enacting section 2620 of this title, amending section2612 of this title, and enacting provisions set out as notes under section 2620 of this title\] may be cited as \[the\] 'Emergency Family and Medical Leave Expansion Act'."
 
 #### Short Title of 2009 Amendment
 
@@ -206,7 +206,7 @@ Investigations and Collection of Data.—The Secretary of Labor or his designee 
 
 "(a)
 
-Employers.—An employer signatory to a multiemployer collective bargaining agreement may, consistent with its bargaining obligations and its collective bargaining agreement, fulfill its obligations under this Act by making contributions to a multiemployer fund, plan, or program based on the hours of paid sick time each of its employees is entitled to under this Act while working under the multiemployer collective bargaining agreement, provided that the fund, plan, or program enables employees to secure pay from such fund, plan, or program based on hours they have worked under the multiemployer collective bargaining agreement and for the uses specified under section 5102(a).
+Employers.—An employer signatory to a multiemployer collective bargaining agreement may, consistent with its bargaining obligations and its collective bargaining agreement, fulfill its obligations underthis Act by making contributions to a multiemployer fund, plan, or program based on the hours of paid sick time each of its employees is entitled to under this Act while working under the multiemployer collective bargaining agreement, provided that the fund, plan, or program enables employees to secure pay from such fund, plan, or program based on hours they have worked under the multiemployer collective bargaining agreement and for the uses specified under section 5102(a).
 
 "(b)
 

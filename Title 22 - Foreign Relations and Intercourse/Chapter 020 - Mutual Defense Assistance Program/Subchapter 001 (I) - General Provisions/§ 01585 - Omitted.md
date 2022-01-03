@@ -4,5 +4,5 @@
 
 #### Codification
 
-Section was enacted as a part of the Supplemental Appropriation Act, 1951, act Sept. 27, 1950, ch. 1052, ch.X, §100, 64 Stat. 1063, and was not repeated in subsequent appropriation acts.
+Section was enacted as a part of the Supplemental Appropriation Act, 1951, act Sept. 27, 1950, ch. 1052, ch. X, §100, 64 Stat. 1063, and was not repeated in subsequent appropriation acts.
 

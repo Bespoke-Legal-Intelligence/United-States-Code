@@ -4,11 +4,15 @@ The basis of an interest in a partnership acquired by a contribution of property
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 245; Pub. L. 94–455, title XXI, §2131(c), Oct. 4, 1976, 90 Stat. 1924; Pub. L. 98–369, div. A, title VII, §722(f)(1), July 18, 1984, 98 Stat. 974.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Pub. L. 98–369 inserted "under section 721(b)" after "gain recognized".
 
 <b>1976</b>—Pub. L. 94–455 inserted "increased by the amount (if any) of gain recognized to the contributing partner at such time" after "at the time of the contribution".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

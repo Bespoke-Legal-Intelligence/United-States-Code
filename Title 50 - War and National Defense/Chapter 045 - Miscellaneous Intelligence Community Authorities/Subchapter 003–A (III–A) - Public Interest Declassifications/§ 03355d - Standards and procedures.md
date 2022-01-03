@@ -42,6 +42,8 @@ In response to a specific congressional request for declassification review desc
 
 (Pub. L. 106–567, title VII, §706, Dec. 27, 2000, 114 Stat. 2861; Pub. L. 108–458, title I, §1102(e), Dec. 17, 2004, 118 Stat. 3700; Pub. L. 110–53, title VI, §602(1), Aug. 3, 2007, 121 Stat. 335.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Executive Order 12958, referred to in subsecs. (c) and (d), which was formerly set out as a note under section 3161 of this title, was revoked by Ex. Ord. No. 13526, §6.2(g), Dec. 29, 2009, 75 F.R. 731.
@@ -55,6 +57,8 @@ Section was formerly set out in a note under section 3161 of this title.
 <b>2007</b>—Subsecs. (b)(2), (e)(2)(B). Pub. L. 110–53 substituted "Director of National Intelligence" for "Director of Central Intelligence".
 
 <b>2004</b>—Subsec. (f). Pub. L. 108–458 added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

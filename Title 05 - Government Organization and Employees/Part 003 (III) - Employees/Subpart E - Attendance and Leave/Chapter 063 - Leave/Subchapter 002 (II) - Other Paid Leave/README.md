@@ -17,3 +17,4 @@
 - [&sect; 06329a - Administrative leave](%C2%A7%2006329a%20-%20Administrative%20leave.md)
 - [&sect; 06329b - Investigative leave and notice leave](%C2%A7%2006329b%20-%20Investigative%20leave%20and%20notice%20leave.md)
 - [&sect; 06329c - Weather and safety leave](%C2%A7%2006329c%20-%20Weather%20and%20safety%20leave.md)
+- [&sect; 06329d - Parental bereavement leave](%C2%A7%2006329d%20-%20Parental%20bereavement%20leave.md)

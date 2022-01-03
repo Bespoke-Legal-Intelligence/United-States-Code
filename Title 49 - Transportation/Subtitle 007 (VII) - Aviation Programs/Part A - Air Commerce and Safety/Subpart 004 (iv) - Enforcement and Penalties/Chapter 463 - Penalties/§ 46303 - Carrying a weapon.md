@@ -16,7 +16,7 @@ Nonapplication.—This section does not apply to—
 
 &emsp;(1) a law enforcement officer of a State or political subdivision of a State, or an officer or employee of the Government, authorized to carry arms in an official capacity; or
 
-&emsp;(2) another individual the Administrator of the Federal Aviation Administration or theSecretary of Homeland Security by regulation authorizes to carry arms in an official capacity.
+&emsp;(2) another individual the Administrator of the Federal Aviation Administration or the Secretary of Homeland Security by regulation authorizes to carry arms in an official capacity.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1234; Pub. L. 107–71, title I, §140(d)(5), Nov. 19, 2001, 115 Stat. 642; Pub. L. 108–458, title IV, §4027(c), Dec. 17, 2004, 118 Stat. 3727.)
 
@@ -59,6 +59,8 @@ In subsection (b)(1), the words "imposed under" are substituted for "provided fo
 In subsection (b)(2), the words "imposed or compromised" are substituted for "The amount of such penalty when finally determined or fixed by order of the Board, or the amount agreed upon in compromise" to eliminate unnecessary words.
 
 In subsection (c)(1), the words "State or political subdivision of a State" are substituted for "municipal or State government" for consistency in the revised title and with other titles of the United States Code. The words "or required" are omitted as surplus.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

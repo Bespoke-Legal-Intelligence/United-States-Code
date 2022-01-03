@@ -8,7 +8,7 @@
 
 #### (2) Guidance for marine mammal tissue collection, preparation, and archiving
 
-&emsp;The Secretary shall, in consultation with individuals with knowledge and expertise in marine science, marine mammal science, marine mammal veterinary and husbandry practices, and marine conservation, issue guidance, afteran opportunity for public review and comment, for marine mammal tissue collection, preparation, archiving, and quality control procedures, regarding—
+&emsp;The Secretary shall, in consultation with individuals with knowledge and expertise in marine science, marine mammal science, marine mammal veterinary and husbandry practices, and marine conservation, issue guidance, after an opportunity for public review and comment, for marine mammal tissue collection, preparation, archiving, and quality control procedures, regarding—
 
 &emsp;&emsp;(A) appropriate and uniform methods and standards for those activities to provide confidence in marine mammal tissue samples used for research; and
 

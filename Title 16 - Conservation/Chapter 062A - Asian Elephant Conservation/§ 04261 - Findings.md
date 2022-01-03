@@ -4,7 +4,7 @@ The Congress finds the following:
 
 &emsp;(1) Asian elephant populations in nations within the range of Asian elephants have continued to decline to the point that the long-term survival of the species in the wild is in serious jeopardy.
 
-&emsp;(2) The Asian elephant is listed as an endangered species under section 1533 of this titleand under appendix I of the Convention on International Trade of Endangered Species of Wild Fauna and Flora.
+&emsp;(2) The Asian elephant is listed as an endangered species under section 1533 of this title and under appendix I of the Convention on International Trade of Endangered Species of Wild Fauna and Flora.
 
 &emsp;(3) Because the challenges facing the conservation of Asian elephants are so great, resources to date have not been sufficient to cope with the continued loss of habitat and the consequent diminution of Asian elephant populations.
 
@@ -15,6 +15,8 @@ The Congress finds the following:
 &emsp;(6) To reduce, remove, or otherwise effectively address these threats to the long-term viability of populations of Asian elephants in the wild will require the joint commitment and effort of nations within the range of Asian elephants, the United States and other countries, and the private sector.
 
 (Pub. L. 105–96, §2, Nov. 19, 1997, 111 Stat. 2150.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2007 Amendment
 

@@ -30,7 +30,7 @@ In this chapter:
 
 #### (6) Good
 
-&emsp;The term "good" has the meaning given that term in section 4618 <sup>1</sup> of title 50 (as continued in effect pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)).
+&emsp;The term "good" has the meaning given that term in section 4618 <sup>1</sup> of title 50 (as continuedin effect pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)).
 
 #### (7) Iranian financial institution
 
@@ -116,7 +116,7 @@ I hereby delegate functions and authorities vested in the President by the Iran 
 
 • Section 1244(i) to the Secretary of State, in consultation with the Secretary of the Treasury;
 
-• Section 1245(a)(1)(A) \[22 U.S.C. 8804(a)(1)(A)\] to the Secretary of the Treasury, in consultation with the Secretaries of State and Commerce and the United States Trade Representative, and with the Secretary of Homeland Security, the President of the Export-Import Bank of the United States, and the Chairman of the Board of Governors of the Federal Reserve System and other agencies as appropriate, and, once applicable sanctions outlined in section 6(a) of ISA are selected pursuant to section 1245(a)(1)(A), authority to implement such sanctions is delegated to the relevant agency heads commensurate with any delegation of such authorities and consistent with any relevant Executive Orders implementing ISA;
+• Section 1245(a)(1)(A) \[22 U.S.C. 8804(a)(1)(A)\] to the Secretary of the Treasury, in consultation with the Secretaries of State and Commerce and the UnitedStates Trade Representative, and with the Secretary of Homeland Security, the President of the Export-Import Bank of the United States, and the Chairman of the Board of Governors of the Federal Reserve System and other agencies as appropriate, and, once applicable sanctions outlined in section 6(a) of ISA are selected pursuant to section 1245(a)(1)(A), authority to implement such sanctions is delegated to the relevant agency heads commensurate with any delegation of such authorities and consistent with any relevant Executive Orders implementing ISA;
 
 • Sections \[sic\] 1245(a)(1)(B) and (C) to the Secretary of State, in consultation with the Secretaries of the Treasury and Commerce and the United States Trade Representative, and with the Secretary of Homeland Security, the President of the Export-Import Bank of the United States, and the Chairman of the Board of Governors of the Federal Reserve System and other agencies as appropriate, and, once applicable sanctions outlined in section 6(a) of ISA are selected pursuant to section 1245(a)(1)(B) or (C), authority to implement such sanctions is delegated to the relevant agency heads commensurate with any delegation of such authorities and consistent with any relevant Executive Orders implementing ISA;
 
@@ -144,7 +144,7 @@ I hereby delegate functions and authorities vested in the President by the Iran 
 
 • Section 1247(f) to the Secretary of State, in consultation with the Secretary of the Treasury;
 
-• Section 1248(b)(1) \[22 U.S.C. 8807(b)(1)\] to the Secretary of the Treasury, in consultation with the Secretary of State, with respect to the requirement to impose applicable sanctions pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) (IEEPA) described in section 105(c) of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (Public Law 111–195) (22 U.S.C. 8501 etseq.) (CISADA), and with respect to the requirement to include the sanctioned persons on the list of specially designated nationals and blocked persons maintained by the Office of Foreign Assets Control of the Department of the Treasury;
+• Section 1248(b)(1) \[22 U.S.C. 8807(b)(1)\] to the Secretary of the Treasury, in consultation with the Secretary of State, with respect to the requirement to impose applicable sanctions pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) (IEEPA) described in section 105(c) of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (Public Law 111–195) (22 U.S.C. 8501 et seq.) (CISADA), and with respect to the requirement to include the sanctioned persons on the list of specially designated nationals and blocked persons maintained by the Office of Foreign Assets Control of the Department of the Treasury;
 
 • Section 1248(b)(1) to the Secretary of State, with respect to the requirement to impose visa sanctions described in section 105(c) of CISADA;
 

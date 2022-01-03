@@ -4,6 +4,8 @@ All articles coming into the United States from the Virgin Islands shall be subj
 
 (July 22, 1954, ch. 558, §28(d), 68 Stat. 509; Sept. 1, 1954, ch. 1213, title IV, §402(a), 68 Stat. 1140; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1301a of title 19, referred to in text, was repealed by Pub. L. 87–456, title III, §301(a), May 24, 1962, 76 Stat. 75. See General Headnote 3(a) under section 1202 of Title 19, Customs Duties.
@@ -18,9 +20,11 @@ Section constitutes subsec. (d) of section 28 of act July 22, 1954. Subsecs. (a)
 
 <b>1954</b>—Act Sept. 1, 1954, subjected the Virgin Islands to the general provision for importations from insular possessions contained in section 1301a of Title 19, Customs Duties.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1954 Amendment
 
-Amendment by act Sept. 1, 1954, effective on and after the thirtieth day following Sept. 1, 1954, see section 601of act Sept. 1, 1954, set out as a note under section 1421e of this title.
+Amendment by act Sept. 1, 1954, effective on and after the thirtieth day following Sept. 1, 1954, see section 601 of act Sept. 1, 1954, set out as a note under section 1421e of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -22,9 +22,13 @@ A program may not receive assistance under the national service laws for the sol
 
 (Pub. L. 101–610, title I, §174, Nov. 16, 1990, 104 Stat. 3160; Pub. L. 111–13, title I, §1603, Apr. 21, 2009, 123 Stat. 1529.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2009</b>—Subsec. (d). Pub. L. 111–13 added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

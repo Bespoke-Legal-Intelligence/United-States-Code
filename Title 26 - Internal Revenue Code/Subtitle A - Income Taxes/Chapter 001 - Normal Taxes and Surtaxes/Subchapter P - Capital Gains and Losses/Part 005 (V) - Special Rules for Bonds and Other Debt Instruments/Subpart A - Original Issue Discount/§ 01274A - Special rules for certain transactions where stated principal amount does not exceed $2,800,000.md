@@ -80,6 +80,8 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 <i>For inflation adjustment of certain items in this section, see Revenue Rulings listed in a table below and Revenue Procedures listed in a table under section 1 of this title.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of the Revenue Reconciliation Act of 1990, referred to in subsec. (b), is the date of enactment of Pub. L. 101–508, which was approved Nov. 5, 1990.
@@ -105,6 +107,8 @@ Inflation adjustment.—For purposes of subparagraph (A), the inflation adjustme
 <b>1996</b>—Subsec. (c)(1)(B). Pub. L. 104–188 substituted "instrument" for "instument".
 
 <b>1990</b>—Subsec. (b). Pub. L. 101–508 inserted ", as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990" after "section 48(b)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 

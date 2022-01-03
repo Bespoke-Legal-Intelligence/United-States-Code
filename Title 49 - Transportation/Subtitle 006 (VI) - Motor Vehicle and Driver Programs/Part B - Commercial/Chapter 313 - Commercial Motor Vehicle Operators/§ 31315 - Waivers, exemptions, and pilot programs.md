@@ -18,7 +18,7 @@ Exemptions.—
 
 &emsp;(1)
 
-In general.—Upon receipt of a request pursuant to this subsection, the Secretary of Transportation may grant to a person or classof persons an exemption from a regulation prescribed under this chapter or section 31136 if the Secretary finds such exemption would likely achieve a level of safety that is equivalent to, or greater than, the level that would be achieved absent such exemption.
+In general.—Upon receipt of a request pursuant to this subsection, the Secretary of Transportation may grant to a person or class of persons an exemption from a regulation prescribed under this chapter or section 31136 if the Secretary finds such exemption would likely achieve a level of safety that is equivalent to, or greater than, the level that would be achieved absent such exemption.
 
 &emsp;(2)
 
@@ -88,7 +88,7 @@ In general.—The Secretary may conduct pilot programs to evaluate alternatives 
 
 &emsp;(2)
 
-Program elements.—In proposing a pilot program and before granting exemptions for purposes of a pilot program, the Secretary shall require, as a condition of approval of the project, that the safety measures in the project are designed to achieve a level of safety that is equivalent to, or greater than, the level of safety that would otherwise beachieved through compliance with the regulations prescribed under this chapter or section 31136. The Secretary shall include, at a minimum, the following elements in each pilot program plan:
+Program elements.—In proposing a pilot program and before granting exemptions for purposes of a pilot program, the Secretary shall require, as a condition of approval of the project, that the safety measures in the project are designed to achieve a level of safety that is equivalent to, or greater than, the level of safety that would otherwise be achieved through compliance with the regulations prescribed under this chapter or section 31136. The Secretary shall include, at a minimum, the following elements in each pilot program plan:
 
 &emsp;&emsp;(A) A scheduled life of each pilot program of not more than 3 years.
 
@@ -172,6 +172,8 @@ Oct. 27, 1986, Pub. L. 99–570, §12013, 100 Stat. 3207–186.
 
 The words "Notwithstanding any other provision of this chapter" are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this section, referred to in subsec. (b)(5), probably means the date of enactment of Pub. L. 105–178, which amended this section generally and was approved June 9, 1998.
@@ -202,6 +204,8 @@ Subsecs. (e), (f). Pub. L. 112–141, §32913(d), added subsecs. (e) and (f).
 
 <b>1998</b>—Pub. L. 105–178 amended section catchline and text generally. Prior to amendment, text read as follows: "After notice and an opportunity for comment, the Secretary of Transportation may waive any part of this chapter or a regulation prescribed under this chapter as it applies to a class of individuals or commercial motor vehicles if the Secretary decides the waiver is not contrary to the public interest and does not diminish the safe operation of commercial motor vehicles. A waiver under this section shall be published in the Federal Register with reasons for the waiver."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
@@ -209,6 +213,258 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 #### Effective Date of 2012 Amendment
 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
+
+#### Apprenticeship Pilot Program
+
+Pub. L. 117–58, div. B, title III, §23022, Nov. 15, 2021, 135 Stat. 778, provided that:
+
+"(a)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Apprentice.—The term 'apprentice' means an individual who—
+
+&emsp;&emsp;"(A) is under the age of 21; and
+
+&emsp;&emsp;"(B) holds a commercial driver's license.
+
+&emsp;"(2)
+
+Commercial driver's license.—The term 'commercial driver's license' has the meaning given the term in section 31301 of title 49, United States Code.
+
+&emsp;"(3)
+
+Commercial motor vehicle.—The term 'commercial motor vehicle' has the meaning given the term in section 390.5 of title 49, Code of Federal Regulations (as in effect on the date of enactment of this Act \[Nov. 15, 2021\]).
+
+&emsp;"(4)
+
+Driving time.—The term 'driving time' has the meaning given the term in section 395.2 of title 49, Code of Federal Regulations (as in effect on the date of enactment of this Act).
+
+&emsp;"(5)
+
+Experienced driver.—The term 'experienced driver' means an individual who—
+
+&emsp;&emsp;"(A) is not younger than 26 years of age;
+
+&emsp;&emsp;"(B) has held a commercial driver's license for the 2-year period ending on the date on which the individual serves as an experienced driver under subsection (b)(2)(C)(ii);
+
+&emsp;&emsp;"(C) during the 2-year period ending on the date on which the individual serves as an experienced driver under subsection (b)(2)(C)(ii), has had no—
+
+&emsp;&emsp;&emsp;"(i) preventable accidents reportable to the Department \[of Transportation\]; or
+
+&emsp;&emsp;&emsp;"(ii) pointed moving violations; and
+
+&emsp;&emsp;"(D) has a minimum of 5 years of experience driving a commercial motor vehicle in interstate commerce.
+
+&emsp;"(6)
+
+On-duty time.—The term 'on-duty time' has the meaning given the term in section 395.2 of title 49, Code of Federal Regulations (as in effect on the date of enactment of this Act).
+
+&emsp;"(7)
+
+Pointed moving violation.—The term 'pointed moving violation' means a violation that results in points being added to the license of a driver, or a similar comparable violation, as determined by the Secretary \[of Transportation\].
+
+"(b)
+
+Pilot Program.—
+
+&emsp;"(1)
+
+In general.—Not later than 60 days after the date of enactment of this Act \[Nov. 15, 2021\], the Secretary shall establish, in accordance with section 31315(c) of title 49, United States Code, a pilot program allowing employers to establish the apprenticeship programs described in paragraph (2).
+
+&emsp;"(2)
+
+Description of apprenticeship program.—An apprenticeship program referred to in paragraph (1) is a program that consists of the following requirements:
+
+&emsp;&emsp;"(A) 120
+
+\-hour probationary period.—
+
+&emsp;&emsp;&emsp;"(i)
+
+In general.—The apprentice shall complete 120 hours of on-duty time, of which not less than 80 hours shall be driving time in a commercial motor vehicle.
+
+&emsp;&emsp;&emsp;"(ii)
+
+Performance benchmarks.—To complete the 120-hour probationary period under clause (i), the employer of an apprentice shall determine that the apprentice is competent in each of the following areas:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) Interstate, city traffic, rural 2-lane, and evening driving.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) Safety awareness.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) Speed and space management.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) Lane control.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(V) Mirror scanning.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(VI) Right and left turns.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(VII) Logging and complying with rules relating to hours of service.
+
+&emsp;&emsp;"(B) 280
+
+\-hour probationary period.—
+
+&emsp;&emsp;&emsp;"(i)
+
+In general.—After completing the 120-hour probationary period under subparagraph (A), an apprentice shall complete 280 hours of on-duty time, of which not less than 160 hours shall be driving time in a commercial motor vehicle.
+
+&emsp;&emsp;&emsp;"(ii)
+
+Performance benchmarks.—To complete the 280-hour probationary period under clause (i), the employer of an apprentice shall determine that the apprentice is competent in each of the following areas:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) Backing and maneuvering in close quarters.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) Pretrip inspections.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) Fueling procedures.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) Weighing loads, weight distribution, and sliding tandems.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(V) Coupling and uncoupling procedures.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(VI) Trip planning, truck routes, map reading, navigation, and permits.
+
+&emsp;&emsp;"(C)
+
+Restrictions for probationary periods.—During the 120-hour probationary period under subparagraph (A) and the 280-hour probationary period under subparagraph (B)—
+
+&emsp;&emsp;&emsp;"(i) an apprentice may only drive a commercial motor vehicle that has—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) an automatic manual or automatic transmission;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) an active braking collision mitigation system;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) a forward-facing video event capture system; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) a governed speed of 65 miles per hour—
+
+&emsp;&emsp;&emsp;"(aa) at the pedal; and
+
+&emsp;&emsp;&emsp;"(bb) under adaptive cruise control; and
+
+&emsp;&emsp;&emsp;"(ii) an apprentice shall be accompanied in the passenger seat of the commercial motor vehicle by an experienced driver.
+
+&emsp;&emsp;"(D)
+
+Records retention.—The employer of an apprentice shall maintain records, in a manner required by the Secretary, relating to the satisfaction of the performance benchmarks described in subparagraphs (A)(ii) and (B)(ii) by the apprentice.
+
+&emsp;&emsp;"(E)
+
+Reportable incidents.—If an apprentice is involved in a preventable accident reportable to the Department or a pointed moving violation while driving a commercial motor vehicle as part of anapprenticeship program described in this paragraph, the apprentice shall undergo remediation and additional training until the apprentice can demonstrate, to the satisfaction of the employer, competence in each of the performance benchmarks described in subparagraphs (A)(ii) and (B)(ii).
+
+&emsp;&emsp;"(F)
+
+Completion of program.—An apprentice shall be considered to have completed an apprenticeship program on the date on which the apprentice completes the 280-hour probationary period under subparagraph (B).
+
+&emsp;&emsp;"(G)
+
+Minimum requirements.—
+
+&emsp;&emsp;&emsp;"(i)
+
+In general.—Nothing in this section prevents an employer from imposing any additional requirement on an apprentice participating in an apprenticeship program established under this section.
+
+&emsp;&emsp;&emsp;"(ii)
+
+Technologies.—Nothing in this section prevents an employer from requiring or installing in a commercial motor vehicle any technology in addition to the technologies described in subparagraph (C)(i).
+
+&emsp;"(3)
+
+Apprentices.—An apprentice may—
+
+&emsp;&emsp;"(A) drive a commercial motor vehicle in interstate commerce while participating in the 120-hour probationary period under paragraph (2)(A) or the 280-hour probationary period under paragraph (2)(B) pursuant to an apprenticeship program established by an employer in accordance with this section; and
+
+&emsp;&emsp;"(B) drive a commercial motor vehicle in interstate commerce after the apprentice completes an apprenticeship program described in paragraph (2), unless the Secretary determines there exists a safety concern.
+
+&emsp;"(4)
+
+Limitation.—The Secretary may not allow more than 3,000 apprentices at any 1 time to participate in the pilot program established under paragraph (1).
+
+"(c)
+
+Termination.—Effective beginning on the date that is 3 years after the date of establishment of the pilot program under subsection (b)(1)—
+
+&emsp;"(1) the pilot program shall terminate; and
+
+&emsp;"(2) any driver under the age of 21 who has completed an apprenticeship program described in subsection (b)(2) may drive a commercial motor vehicle in interstate commerce, unless the Secretary determines there exists a safety concern.
+
+"(d)
+
+No Effect on License Requirement.—Nothing in this section exempts an apprentice from any requirement to hold a commercial driver's license in order to operate a commercial motor vehicle.
+
+"(e)
+
+Data Collection.—The Secretary shall collect and analyze—
+
+&emsp;"(1) data relating to any incident in which an apprentice participating in the pilot program established under subsection (b)(1) is involved;
+
+&emsp;"(2) data relating to any incident in which a driver under the age of 21 operating a commercial motor vehicle in intrastate commerce is involved; and
+
+&emsp;"(3) such other data relating to the safety of apprentices aged 18 to 20 years operating in interstate commerce as the Secretary determines to be necessary.
+
+"(f)
+
+Limitation.—A driver under the age of 21 participating in the pilot program under this section may not—
+
+&emsp;"(1) transport—
+
+&emsp;&emsp;"(A) a passenger; or
+
+&emsp;&emsp;"(B) hazardous cargo; or
+
+&emsp;"(2) operate a commercial motor vehicle—
+
+&emsp;&emsp;"(A) in special configuration; or
+
+&emsp;&emsp;"(B) with a gross vehicle weight rating of more than 80,000 pounds.
+
+"(g)
+
+Report to Congress.—Not later than 120 days after the date of conclusion of the pilot program under subsection (b), the Secretary shall submit to Congress a report including—
+
+&emsp;"(1) the findings and conclusions resulting from the pilot program, including with respect to technologies or training provided by commercial motor carriers for apprentices as part of the pilot program to successfully improve safety;
+
+&emsp;"(2) an analysis of the safety record of apprentices participating in the pilot program, as compared to other commercial motor vehicle drivers;
+
+&emsp;"(3) the number of drivers that discontinued participation in the apprenticeship program before completion;
+
+&emsp;"(4) a comparison of the safety records of participating drivers before, during, and after the probationary periods under subparagraphs (A) and (B) of subsection (b)(2);
+
+&emsp;"(5) a comparison, for each participating driver, of average on-duty time, driving time, and time spent away from home terminal before, during, and after the probationary periods referred to in paragraph (4); and
+
+&emsp;"(6) a recommendation, based on the data collected, regarding whether the level of safety achieved by the pilot program is equivalent to, or greater than, the level of safety for equivalent commercial motor vehicle drivers aged 21 years or older.
+
+"(h)
+
+Rule of Construction.—Nothing in this section affects the authority of the Secretary under section 31315 of title 49, United States Code, with respect to the pilot program established under subsection (b)(1), including the authority to revoke participation in, and terminate, the pilot program under paragraphs (3) and (4) of subsection (c) of that section.
+
+"(i)
+
+Driver Compensation Study.—
+
+&emsp;"(1)
+
+In general.—Not later than 1 year after the date of enactment of this Act \[Nov. 15, 2021\], the Secretary, acting through the Administrator of the Federal Motor Carrier Safety Administration, shall offer to enter into a contract with the Transportation Research Board under which the Transportation Research Board shall conduct a study of the impacts of various methods of driver compensation on safety and driver retention, including—
+
+&emsp;&emsp;"(A) hourly pay;
+
+&emsp;&emsp;"(B) payment for detention time; and
+
+&emsp;&emsp;"(C) other payment methods used in the industry as of the date on which the study is conducted.
+
+&emsp;"(2)
+
+Consultation.—In conducting the study under paragraph (1), the Transportation Research Board shall consult with—
+
+&emsp;&emsp;"(A) labor organizations representing commercial motor vehicle drivers;
+
+&emsp;&emsp;"(B) representatives of the motor carrier industry, including owner-operators; and
+
+&emsp;&emsp;"(C) such other stakeholders as the Transportation Research Board determines to be relevant."
 
 #### Administrative Exemptions
 

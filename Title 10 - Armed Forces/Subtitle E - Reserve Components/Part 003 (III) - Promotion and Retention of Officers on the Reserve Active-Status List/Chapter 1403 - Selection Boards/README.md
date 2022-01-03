@@ -17,6 +17,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–364, div. A, title V, §547(d)(2), Oct. 17, 2006, 120 Stat. 2216, substituted "Nondisclosure" for "Confidentiality" in item 14104.

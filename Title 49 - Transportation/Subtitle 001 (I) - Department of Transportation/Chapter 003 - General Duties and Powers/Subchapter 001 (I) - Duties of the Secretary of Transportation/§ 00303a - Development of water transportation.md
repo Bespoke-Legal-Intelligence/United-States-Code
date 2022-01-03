@@ -64,6 +64,8 @@ In subsection (c)(3), the words "appropriate" and "suitable" are omitted as surp
 
 In subsection (c)(6), the words "province and", "from time to time", and "useful statistics, data, and" are omitted as surplus.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Arctic Shipping Federal Advisory Committee
 
 Pub. L. 116–283, div. G, title LVXXXIV \[LXXXIV\], §8426, Jan. 1, 2021, 134 Stat. 4730, provided that:
@@ -96,7 +98,7 @@ Establishment of advisory committee.—
 
 &emsp;&emsp;"(A)
 
-In general.—The Secretary of Transportation, in coordination with the Secretary of State, the Secretary of Defense acting through the Secretary of the Army and the Secretary of the Navy, the Secretary of Commerce, and the Secretary of the Department in which the Coast Guard is operating, shall establish an Arctic Shipping Federal Advisory Committee in the Department of Transportation to advise the Secretary of Transportation and the Secretary of the Department in which the Coast Guard is operating on matters related to Arctic maritime transportation, including Arctic seaway development.
+In general.—The Secretary of Transportation, in coordination with the Secretary of State,the Secretary of Defense acting through the Secretary of the Army and the Secretary of the Navy, the Secretary of Commerce, and the Secretary of the Department in which the Coast Guard is operating, shall establish an Arctic Shipping Federal Advisory Committee in the Department of Transportation to advise the Secretary of Transportation and the Secretary of the Department in which the Coast Guard is operating on matters related to Arctic maritime transportation, including Arctic seaway development.
 
 &emsp;&emsp;"(B)
 

@@ -2,7 +2,7 @@
 
 #### (a) Exceptions from repayment requirement
 
-A member bank shall not be required to repay any deposit made at a foreign branch of the bank if the branch cannot repay the deposit due to—
+A member bank shall not be required to repay any deposit made at a foreign branch of thebank if the branch cannot repay the deposit due to—
 
 &emsp;(1) an act of war, insurrection, or civil strife; or
 

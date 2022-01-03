@@ -12,9 +12,13 @@ The Secretary shall administer the program established under section 8272 of thi
 
 (Pub. L. 95–619, title V, §566, Nov. 9, 1978, 92 Stat. 3281; Pub. L. 96–294, title IV, §407(3), (4), June 30, 1980, 94 Stat. 717, 718.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1980</b>—Pub. L. 96–294 inserted provisions relating to inapplicability of section 553 of title 5 and substituted "requirements" for "rules and regulations" in par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Reporting Requirements
 

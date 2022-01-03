@@ -8,7 +8,7 @@
 
 #### (2) Expanded boundaries
 
-&emsp;Effective on October 30, 1998, the boundary of the park shall include the area consisting of approximately 3,140 acres and known as the "Lost Spring Canyon Addition", as depicted on the map entitled "Boundary Map, ArchesNational Park, Lost Spring Canyon Addition", numbered 138/60,000–B, and dated April 1997.
+&emsp;Effective on October 30, 1998, the boundary of the park shall include the area consisting of approximately 3,140 acres and known as the "Lost Spring Canyon Addition", as depicted on the map entitled "Boundary Map, Arches National Park, Lost Spring Canyon Addition", numbered 138/60,000–B, and dated April 1997.
 
 #### (3) Maps
 
@@ -16,13 +16,17 @@
 
 #### (b) Abolition of Arches National Monument; funds of monument available for park; administration of lands excluded from monument
 
-The Arches National Monument is hereby abolished, and any funds available for purposes of the monument shall be available for purposes of the park. Federal lands, waters, and interests therein excluded from the monument by this subchapter shall be administered by the Secretary of the Interior (hereinafter referred to as the "Secretary") in accordance with the laws applicable to the public lands of the United States.
+The Arches National Monument is hereby abolished, and any funds available for purposesof the monument shall be available for purposes of the park. Federal lands, waters, and interests therein excluded from the monument by this subchapter shall be administered by the Secretary of the Interior (hereinafter referred to as the "Secretary") in accordance with the laws applicable to the public lands of the United States.
 
 (Pub. L. 92–155, §1, Nov. 12, 1971, 85 Stat. 422; Pub. L. 105–329, §2(a), Oct. 30, 1998, 112 Stat. 3060.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>1998</b>—Pub. L. 105–329 inserted section designation and catchline and in subsec. (a) inserted subsec. heading, inserted par. (1) designation and heading before first sentence, added par. (2), inserted par. (3) designation and heading before second sentence and substituted "The maps described in paragraphs (1) and (2)" for "Such map".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 1998 Amendment
 

@@ -34,7 +34,7 @@
 
 (e) In a civil action brought under subsection (b)(1) of this section—
 
-&emsp;(1) the court may appoint a receiver and authorize the receiver to operate the mortgagedvessel and shall retain in rem jurisdiction over the vessel even if the receiver operates the vessel outside the district in which the court is located; and
+&emsp;(1) the court may appoint a receiver and authorize the receiver to operate the mortgaged vessel and shall retain in rem jurisdiction over the vessel even if the receiver operates the vessel outside the district in which the court is located; and
 
 &emsp;(2) when directed by the court, a United States marshal may take possession of a mortgaged vessel even if the vessel is in the possession or under the control of a person claiming a possessory common law lien.
 

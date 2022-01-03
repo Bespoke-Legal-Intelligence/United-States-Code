@@ -64,13 +64,15 @@ The Director shall be the chief executive officer of the Center. Subject to the 
 
 (Pub. L. 94–201, §4, Jan. 2, 1976, 89 Stat. 1130; Pub. L. 95–259, §2, Apr. 17, 1978, 92 Stat. 196; Pub. L. 105–275, title III, §312(b)(1), Oct. 21, 1998, 112 Stat. 2458; Pub. L. 116–94, div. P, title XIV, §1402, Dec. 20, 2019, 133 Stat. 3206.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (b)(1)(D). Pub. L. 116–94, §1402(1)(A), substituted "nine" for "seven" in introductory provisions.
 
 Subsec. (b)(1)(D)(viii), (ix). Pub. L. 116–94, §1402(1)(B)–(D), added cls. (viii) and (ix).
 
-Subsec. (f). Pub. L. 116–94, §1402(2), substituted "The rate of basic pay of the Director shall be fixed in accordance with section 5376(b) of title 5." for "The basic pay of the Director shall be at an annual rate that is not less than an amount equal to 120 percent of the minimum rate of basic pay payable for GS–15 of the General Schedule nor more than an amount equal to the pay payable under level IV of the Executive Schedule under section 5315 of title 5."
+Subsec. (f). Pub. L. 116–94, §1402(2), substituted "The rate of basic pay of the Director shall be fixed in accordance with section 5376(b) of title 5." for "The basic pay of the Director shall be at an annual rate that is not less than an amount equal to 120 percent of the minimum rate of basic pay payable for GS–15 of theGeneral Schedule nor more than an amount equal to the pay payable under level IV of the Executive Schedule under section 5315 of title 5."
 
 <b>1998</b>—Subsec. (b). Pub. L. 105–275, §312(b)(1)(A), added subsec. (b) and struck out former subsec. (b) which read as follows: "The Center shall be under the direction of a Board of Trustees. The Board shall be composed as follows—
 
@@ -101,6 +103,8 @@ Subsec. (f). Pub. L. 105–275, §312(b)(1)(D), added subsec. (f) and struck out
 Subsec. (g). Pub. L. 105–275, §312(b)(1)(E), struck out "(1)" before "The Director" and struck out par. (2) which read as follows: "The Deputy Director shall perform such functions as the Director, with the approval of the Librarian, may prescribe, and shall serve as Acting Director during the absence or disability of the Director or in the event of a vacancy in the office of the Director."
 
 <b>1978</b>—Subsec. (c). Pub. L. 95–259 inserted provision limiting time of service of members appointed by the President to the time they are officials of Federal departments and agencies concerned with some aspect of American folklife traditions and arts.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Board of Trustees, Transition Period
 

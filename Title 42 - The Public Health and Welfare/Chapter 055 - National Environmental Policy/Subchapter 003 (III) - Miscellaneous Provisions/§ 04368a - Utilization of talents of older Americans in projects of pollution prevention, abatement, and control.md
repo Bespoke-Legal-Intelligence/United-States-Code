@@ -20,9 +20,11 @@ Grants or agreements awarded under this section shall be subject to prior approp
 
 (Pub. L. 98–313, §2, June 12, 1984, 98 Stat. 235; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(35), (f)(27)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–426, 2681–434; Pub. L. 113–128, title V, §512(j), July 22, 2014, 128 Stat. 1709.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Older Americans Act of 1965, referred to in subsec. (a), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218. Title V of the Act, known as the "Community Service Senior Opportunities Act", is classified generally to subchapter IX (§3056 et seq.) of chapter 35 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
+The Older Americans Act of 1965, referred to in subsec. (a), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218. Title V of the Act, known as the "Community Service Senior Opportunities Act", is classified generally to subchapter IX (§3056 et seq.) of chapter 35 of this title. Forcomplete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
 The Workforce Innovation and Opportunity Act, referred to in subsec. (a), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Subsection D of title I of the Act is classified generally to part D (§3221 et seq.) of subchapter I of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
@@ -38,9 +40,11 @@ Section was enacted as part of the Environmental Programs Assistance Act of 1984
 
 Pub. L. 105–277, §101(f) \[title VIII, §405(d)(35)\], substituted "and title IV of the Job Training Partnership Act or subtitle D of title I of the Workforce Investment Act of 1998" for "and title IV of the Job Training Partnership Act" in second sentence.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014\(July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 
 #### Effective Date of 1998 Amendment
 

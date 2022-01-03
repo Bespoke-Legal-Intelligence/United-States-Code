@@ -10,7 +10,7 @@
 
 &emsp;(4) if an officer of the Regular Army, all active service performed as an officer of the Philippine Constabulary.
 
-(b) For the purpose of determining whether a commissioned officer of the Regular Army inthe Medical Corps may be retired under section 7311, 7318, or 7324 of this title, his years of service are computed by adding to his service under subsection (a) all service performed as a contract surgeon, acting assistant surgeon, or contract physician, under a contract to serve full time and to take and change station as ordered.
+(b) For the purpose of determining whether a commissioned officer of the Regular Army in the Medical Corps may be retired under section 7311, 7318, or 7324 of this title, his years of service are computed by adding to his service under subsection (a) all service performed as a contract surgeon, acting assistant surgeon, or contract physician, under a contract to serve full time and to take and change station as ordered.
 
 (c) For the purpose of determining whether a commissioned officer of the Regular Army in the Dental Corps may be retired under section 7311, 7318, or 7324 of this title, his years of service are computed by adding to his service under subsection (a) all service as a contract dental surgeon or acting dental surgeon.
 
@@ -88,6 +88,8 @@ In subsection (b), the words "as a member of the Medical Reserve Corps", in 10:9
 
 Subsection (c) is substituted for 10:953a (less 1st sentence).
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 3683 of this title, referred to in subsecs. (a)(3) and (d), was repealed (subject to a savings clause) by Pub. L. 99–145, title XIII, §1301(b)(1)(A), (C), Nov. 8, 1985, 99 Stat. 735.
@@ -105,6 +107,8 @@ Subsec. (d). Pub. L. 115–232, §809(a), substituted "section 7311" for "sectio
 <b>1996</b>—Subsec. (e). Pub. L. 104–106 added subsec. (e).
 
 <b>1959</b>—Subsec. (d). Pub. L. 86–197 added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

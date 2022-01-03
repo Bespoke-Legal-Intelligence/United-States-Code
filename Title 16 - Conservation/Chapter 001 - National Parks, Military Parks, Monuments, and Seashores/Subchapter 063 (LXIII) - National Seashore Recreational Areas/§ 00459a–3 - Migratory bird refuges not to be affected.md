@@ -4,9 +4,13 @@ Notwithstanding any other provisions of sections 459 to 459a–3 of this title, 
 
 (Aug. 17, 1937, ch. 687, §5, 50 Stat. 670; June 29, 1940, ch. 459, §1, 54 Stat. 702.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Words "national seashore recreational area" substituted in text for "national seashore" pursuant to act June 29, 1940.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

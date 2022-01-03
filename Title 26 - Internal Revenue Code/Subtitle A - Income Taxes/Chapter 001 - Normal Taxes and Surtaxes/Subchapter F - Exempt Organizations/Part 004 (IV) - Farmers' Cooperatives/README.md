@@ -7,6 +7,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1969</b>—Pub. L. 91–172, title I, §101(a), Dec. 30, 1969, 83 Stat. 492, substituted "PART IV" for "PART III" as part designation.

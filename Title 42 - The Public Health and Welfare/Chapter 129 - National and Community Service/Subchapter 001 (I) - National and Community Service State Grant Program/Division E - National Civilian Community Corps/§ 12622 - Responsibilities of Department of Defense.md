@@ -22,7 +22,7 @@
 
 #### (3) Contribution for retired member's pay
 
-&emsp;If a listed individual receiving retired or retainer pay is appointed to a position in the cadre and the rate of pay for that individual is established at the amount equal to the difference between the active duty pay and allowances which that individual would receive if ordered to active duty and the amount of the individual's retired or retainer pay, the Secretary of Defense shall pay, by transfer to the Corporation from amounts available for pay of active duty members of the Armed Forces, the amount equal to 50 percent of that individual's rate of pay for service in the cadre.
+&emsp;If a listed individual receiving retired or retainer pay is appointed to a position in thecadre and the rate of pay for that individual is established at the amount equal to the difference between the active duty pay and allowances which that individual would receive if ordered to active duty and the amount of the individual's retired or retainer pay, the Secretary of Defense shall pay, by transfer to the Corporation from amounts available for pay of active duty members of the Armed Forces, the amount equal to 50 percent of that individual's rate of pay for service in the cadre.
 
 #### (c) Facilities
 
@@ -33,6 +33,8 @@ Upon the establishment of the Program, the Secretary of Defense shall identify m
 The Secretary of Defense may permit Armed Forces recruiters to inform potential applicants for the Corps regarding service in the Corps as an alternative to service in the Armed Forces.
 
 (Pub. L. 101–610, title I, §162, formerly §195K, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2531; renumbered §162 and amended Pub. L. 103–82, title I, §104(b), (e)(2)(G), title IV, §402(b)(2), Sept. 21, 1993, 107 Stat. 840, 847, 919; Pub. L. 103–304, §3(b)(5)(C), Aug. 23, 1994, 108 Stat. 1567; Pub. L. 111–13, title I, §1512, Apr. 21, 2009, 123 Stat. 1526; Pub. L. 115–232, div. A, title V, §553(b)(4), Aug. 13, 2018, 132 Stat. 1772.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -79,6 +81,8 @@ Subsec. (c). Pub. L. 111–13, §1512(b)(6), substituted "this subsection" for "
 <b>1993</b>—Subsec. (a)(2)(A). Pub. L. 103–82, §104(e)(2)(G), substituted "section 12611(3)" for "section 12653(3)".
 
 Subsec. (a)(2)(C). Pub. L. 103–82, §402(b)(2), substituted "Corporation" for "Commission on National and Community Service".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

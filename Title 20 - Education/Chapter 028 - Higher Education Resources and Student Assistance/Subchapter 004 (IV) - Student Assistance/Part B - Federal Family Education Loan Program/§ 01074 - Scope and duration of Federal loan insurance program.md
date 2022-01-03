@@ -6,9 +6,11 @@ The total principal amount of new loans made and installments paid pursuant to l
 
 #### (b) Apportionment of amounts
 
-The Secretary may, if he or she finds it necessary to do so in order to assure an equitable distribution of the benefits of this part, assign, within the maximum amounts specified in subsection (a), Federal loan insurance quotas applicable to eligible lenders, or to States or areas, and may from time to time reassign unused portions of these quotas.
+The Secretary may, if he or she finds it necessary to do so in order to assure an equitable distribution of the benefits of this part, assign, within the maximum amounts specified in subsection (a), Federal loan insurance quotas applicable to eligible lenders, or to States or areas,and may from time to time reassign unused portions of these quotas.
 
 (Pub. L. 89–329, title IV, §424, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1358; amended Pub. L. 102–325, title IV, §411(b)(1), July 23, 1992, 106 Stat. 510; Pub. L. 105–33, title VI, §6104(1), Aug. 5, 1997, 111 Stat. 652; Pub. L. 105–244, title IV, §414, Oct. 7, 1998, 112 Stat. 1679; Pub. L. 109–171, title VIII, §8004(b)(1), Feb. 8, 2006, 120 Stat. 158; Pub. L. 110–315, title IV, §421, Aug. 14, 2008, 122 Stat. 3227; Pub. L. 111–152, title II, §2202, Mar. 30, 2010, 124 Stat. 1074.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -27,6 +29,8 @@ A prior section 1074, Pub. L. 89–329, title IV, §424, Nov. 8, 1965, 79 Stat. 
 <b>1997</b>—Subsec. (a). Pub. L. 105–33 substituted "October 1, 2002" for "October 1, 1998" and "September 30, 2006" for "September 30, 2002".
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–325 substituted "October 1, 1998" for "October 1, 1992" and "September 30, 2002" for "September 30, 1997".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

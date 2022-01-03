@@ -8,7 +8,7 @@
 
 &emsp;(B) such an agency or organization shall have the capacity to protect and advocate the rights of individuals with mental illness.
 
-(2) In carrying out paragraph (1), an eligible system should consider entering into contracts with organizations including, in particular, groups run by individuals who have received or are receiving mental health services, or the family members of such individuals, which,<sup>1</sup> provideprotection or advocacy services to individuals with mental illness.
+(2) In carrying out paragraph (1), an eligible system should consider entering into contracts with organizations including, in particular, groups run by individuals who have received or are receiving mental health services, or the family members of such individuals, which,<sup>1</sup> provide protection or advocacy services to individuals with mental illness.
 
 #### (b) Obligation of allotments; technical assistance and training
 
@@ -25,6 +25,8 @@ An eligible system may use its allotment under this subchapter to provide repres
 The definition of "individual with a mental illness" contained in section 10802(4)(B)(iii) <sup>2</sup> of this title shall apply, and thus an eligible system may use its allotment under this subchapter to provide representation to such individuals, only if the total allotment under this subchapter for any fiscal year is $30,000,000 or more, and in such case, an eligible system must give priority to representing persons with mental illness as defined in subparagraphs (A) and (B)(i) of section 10802(4) of this title.
 
 (Pub. L. 99–319, title I, §104, May 23, 1986, 100 Stat. 479; Pub. L. 100–509, §7(a), (b)(1), Oct. 20, 1988, 102 Stat. 2544; Pub. L. 102–173, §§5, 10(2), Nov. 27, 1991, 105 Stat. 1217, 1219; Pub. L. 106–310, div. B, title XXXII, §3206(c), Oct. 17, 2000, 114 Stat. 1194.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

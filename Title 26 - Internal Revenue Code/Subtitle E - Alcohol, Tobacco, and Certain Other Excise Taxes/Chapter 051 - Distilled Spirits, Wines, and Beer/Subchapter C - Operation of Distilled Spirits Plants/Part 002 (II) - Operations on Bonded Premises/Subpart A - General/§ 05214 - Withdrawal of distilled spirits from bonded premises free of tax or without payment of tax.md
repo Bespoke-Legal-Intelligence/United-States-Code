@@ -66,6 +66,8 @@ Distilled spirits on which the internal revenue tax has not been paid or determi
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1362; amended Pub. L. 91–172, title I, §101(j)(29), Dec. 30, 1969, 83 Stat. 529; Pub. L. 94–455, title XIX, §§1905(c)(2), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1823, 1834; Pub. L. 95–176, §§3(a), (d), 4(a), Nov. 14, 1977, 91 Stat. 1365; Pub. L. 96–39, title VIII, §807(a)(28), July 26, 1979, 93 Stat. 285; Pub. L. 96–223, title II, §232(e)(2)(B), Apr. 2, 1980, 94 Stat. 280; Pub. L. 98–369, div. A, title IV, §455(a), July 18, 1984, 98 Stat. 823; Pub. L. 116–136, div. A, title II, §2308(a), Mar. 27, 2020, 134 Stat. 359.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 5214, act Aug. 16, 1954, ch. 736, 68A Stat. 639, related to regulation of traffic in containers of distilled spirits, prior to the general revision of this chapter by Pub. L. 85–859. See section 5301(a), (c), (d) of this title.
@@ -115,6 +117,8 @@ Subsec. (b)(7). Pub. L. 95–176, §3(d), added par. (7).
 
 <b>1969</b>—Subsec. (a)(3)(A). Pub. L. 91–172 substituted "section 170(b)(1)(A)(ii)" for "section 503(b)(2)".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2020 Amendment
 
 Pub. L. 116–136, div. A, title II, §2308(b), Mar. 27, 2020, 134 Stat. 359, provided that: "The amendments made by this section \[amending this section\] shall apply to distilled spirits removed after December 31, 2019."
@@ -125,7 +129,7 @@ Amendment by Pub. L. 98–369 effective July 18, 1984, see section 456(c) of Pub
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–223 effective on first day of first calendar month beginning more than 60 days after Apr. 2, 1980, see section 232(h)(3) of Pub. L. 96–223, setout as an Effective Date note under section 5181 of this title.
+Amendment by Pub. L. 96–223 effective on first day of first calendar month beginning more than 60 days after Apr. 2, 1980, see section 232(h)(3) of Pub. L. 96–223, set out as an Effective Date note under section 5181 of this title.
 
 #### Effective Date of 1979 Amendment
 

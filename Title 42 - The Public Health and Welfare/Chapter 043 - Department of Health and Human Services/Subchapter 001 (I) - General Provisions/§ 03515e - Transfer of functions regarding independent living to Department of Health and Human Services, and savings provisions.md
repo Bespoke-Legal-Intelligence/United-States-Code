@@ -34,7 +34,7 @@ Except where otherwise expressly prohibited by law or otherwise provided by this
 
 #### (f) Rules
 
-The Administrator of the Administration for Community Living is authorized to prescribe, in accordance with the provisions of chapters 5 and 6 of title 5, such rules and regulations as that Administrator determines necessary or appropriate to administer and manage the functions described in subsection (b) of that Administration.
+The Administrator of the Administration for Community Living is authorized to prescribe, inaccordance with the provisions of chapters 5 and 6 of title 5, such rules and regulations as that Administrator determines necessary or appropriate to administer and manage the functions described in subsection (b) of that Administration.
 
 #### (g) Transfer and allocations of appropriations and personnel
 
@@ -42,7 +42,7 @@ Except as otherwise provided in this section, the personnel employed in connecti
 
 #### (h) Incidental transfers
 
-The Director of the Office of Management and Budget, at such time or times as the Director shall provide, is authorized to make such determinations as may be necessary with regard to the functions transferred by subsection (b), and to make such additional incidental dispositions of personnel, assets, liabilities, grants, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds held, used, arising from, available to, or to be made available in connection with such functions, as may be necessary tocarry out the provisions of this section. The Director of the Office of Management and Budget shall provide for the termination of the affairs of all entities terminated by this section and for such further measures and dispositions as may be necessary to effectuate the purposes of this section, with respect to such functions.
+The Director of the Office of Management and Budget, at such time or times as the Director shall provide, is authorized to make such determinations as may be necessary with regard to the functions transferred by subsection (b), and to make such additional incidental dispositions of personnel, assets, liabilities, grants, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds held, used, arising from, available to, or to be made available in connection with such functions, as may be necessary to carry out the provisions of this section. The Director of the Office of Management and Budget shall provide for the termination of the affairs of all entities terminated by this section and for such further measures and dispositions as may be necessary to effectuate the purposes of this section, with respect to such functions.
 
 #### (i) Savings provisions
 
@@ -82,7 +82,7 @@ A reference in any other Federal law, Executive order, rule, regulation, or dele
 
 &emsp;(1) the Commissioner of the Rehabilitation Services Administration (with regard to functions transferred under subsection (b)), shall be deemed to refer to the Administrator of the Administration for Community Living; and
 
-&emsp;(2) the Rehabilitation Services Administration (with regard to functions transferred under subsection (b)), shall be deemed to refer to the Administration for Community Living.
+&emsp;(2) the Rehabilitation Services Administration (with regard to functions transferredunder subsection (b)), shall be deemed to refer to the Administration for Community Living.
 
 #### (l) Transition
 
@@ -133,6 +133,8 @@ The Administrator of the Administration for Community Living is authorized to ut
 &emsp;&emsp;&emsp;(ii) shall apply to the NIDILRR and the Director of the NIDILRR in the same manner and to the same extent as those subsections apply to the Administration for Community Living and the Administrator of that Administration.
 
 (Pub. L. 113–128, title IV, §491, July 22, 2014, 128 Stat. 1695.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

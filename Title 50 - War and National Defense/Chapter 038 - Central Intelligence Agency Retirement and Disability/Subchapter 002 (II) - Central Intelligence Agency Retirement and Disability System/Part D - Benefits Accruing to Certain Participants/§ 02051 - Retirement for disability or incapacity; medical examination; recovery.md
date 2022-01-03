@@ -42,7 +42,7 @@
 
 #### (2) Annual reexaminations until age 60
 
-&emsp;Unless the disability is permanent, like examinations shall be made annually until the annuitant becomes age 60. If the Director determines on the basis of the advice of one or more duly qualified physicians or surgeonsconducting such examinations that an annuitant has recovered to the extent that the annuitant can return to duty, the annuitant may apply for reinstatement or reappointment in the Agency within one year from the date the annuitant's recovery is determined.
+&emsp;Unless the disability is permanent, like examinations shall be made annually until the annuitant becomes age 60. If the Director determines on the basis of the advice of one or more duly qualified physicians or surgeons conducting such examinations that an annuitant has recovered to the extent that the annuitant can return to duty, the annuitant may apply for reinstatement or reappointment in the Agency within one year from the date the annuitant's recovery is determined.
 
 #### (3) Reinstatement
 
@@ -50,7 +50,7 @@
 
 #### (4) Termination of disability annuity
 
-&emsp;Payment of the annuity shall continue until a date one year after the date of examination showing recovery or until the date of reinstatement or reappointment in the Agency, whichever is earlier.
+&emsp;Payment of the annuity shall continue until a date one year after the date of examinationshowing recovery or until the date of reinstatement or reappointment in the Agency, whichever is earlier.
 
 #### (5) Payment of fees
 
@@ -112,9 +112,11 @@
 
 #### (3) Prorating deduction
 
-&emsp;If the Secretary finds that the financial circumstances of an individual entitled to an annuity under this subchapter warrant deferred refunding, deductions from the annuity may be prorated against and paid from accruing payments in such manner as the Secretary determines appropriate.
+&emsp;If the Secretary finds that the financial circumstances of an individual entitled to an annuity under this subchapter warrant deferredrefunding, deductions from the annuity may be prorated against and paid from accruing payments in such manner as the Secretary determines appropriate.
 
 (Pub. L. 88–643, title II, §231, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3220; amended Pub. L. 103–178, title II, §202(a)(8), Dec. 3, 1993, 107 Stat. 2026.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -127,6 +129,8 @@ A prior section 231 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1046;
 #### Amendments
 
 <b>1993</b>—Subsec. (d)(2). Pub. L. 103–178 substituted "2071(a) of this title" for "2071(b) of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1993 Amendment
 

@@ -42,7 +42,7 @@ From the total amount appropriated under section 7122 of this title for a fiscal
 
 &emsp;&emsp;(A) A description of how the State educational agency will use funds received under this subpart for State-level activities.
 
-&emsp;&emsp;(B) A description of how the State educational agency will ensure that awards made to local educational agencies under this subpart are in amounts that are consistent with section 7115(a)(2) of this title.
+&emsp;&emsp;(B) A description of how the State educational agency will ensure that awards made to local educational agencies underthis subpart are in amounts that are consistent with section 7115(a)(2) of this title.
 
 &emsp;&emsp;(C) Assurances that the State educational agency will—
 
@@ -54,6 +54,8 @@ From the total amount appropriated under section 7122 of this title for a fiscal
 
 (Pub. L. 89–10, title IV, §4103, as added Pub. L. 114–95, title IV, §4101, Dec. 10, 2015, 129 Stat. 1970.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 7113, Pub. L. 89–10, title IV, §4113, as added Pub. L. 107–110, title IV, §401, Jan. 8, 2002, 115 Stat. 1739, related to State application to receive allotment, prior to the general amendment of this subpart by Pub. L. 114–95.
@@ -61,6 +63,8 @@ A prior section 7113, Pub. L. 89–10, title IV, §4113, as added Pub. L. 107–
 Another prior section 7113, Pub. L. 89–10, title IV, §4113, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3677, related to State and local educational agency programs, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 A prior section 4103 of Pub. L. 89–10 was classified to section 3063 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

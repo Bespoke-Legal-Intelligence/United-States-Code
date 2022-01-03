@@ -10,6 +10,8 @@ Notwithstanding any provision of law to the contrary, no fee or charge shall be 
 
 (Pub. L. 87–750, §3, Oct. 5, 1962, 76 Stat. 747; Pub. L. 95–348, §7(b)(4), Aug. 18, 1978, 92 Stat. 495.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1978</b>—Pub. L. 95–348 designated existing provisions as subsec. (a) and added subsec. (b).

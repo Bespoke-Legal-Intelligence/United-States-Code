@@ -20,7 +20,7 @@
 
 #### (4) No right or obligation
 
-&emsp;Nothing in this section shall be construed to create a legal right for a consultation on any matter or require the Secretary to meet with any particular expert or stakeholder. Nothing in this section shall be construed to alter agreed upon goals and procedures identified in the letters described in section 101(b) of the Prescription Drug User Fee Amendments of 2012. Nothing in this section is intended to increase the number of review cycles as in effect before July 9, 2012.
+&emsp;Nothing in this section shall be construed to create a legal right for a consultation on any matter or require the Secretary to meet with any particular expert or stakeholder. Nothingin this section shall be construed to alter agreed upon goals and procedures identified in the letters described in section 101(b) of the Prescription Drug User Fee Amendments of 2012. Nothing in this section is intended to increase the number of review cycles as in effect before July 9, 2012.
 
 #### (5) Financial interest
 
@@ -80,7 +80,7 @@ Pub. L. 114–255, div. A, title III, §3002, Dec. 13, 2016, 130 Stat. 1084, pro
 
 "(a)
 
-Publication of Guidance Documents.—Not later than 180 days after the date of enactment of this Act\[Dec. 13, 2016\], the Secretary of Health and Human Services (referred to in this section as the 'Secretary'), acting through the Commissioner of Food and Drugs, shall develop a plan to issue draft and final versions of one or more guidance documents, over a period of 5 years, regarding the collection of patient experience data, and the use of such data and related information in drug development. Not later than 18 months after the date of enactment of this Act, the Secretary shall issue a draft version of at least one such guidance document. Not later than 18 months after the public comment period on the draft guidance ends, the Secretary shall issue a revised draft guidance or final guidance.
+Publication of Guidance Documents.—Not later than 180 days after the date of enactment of this Act \[Dec. 13, 2016\], the Secretary of Health and Human Services (referred to in this section as the 'Secretary'), acting through the Commissioner of Food and Drugs, shall develop a plan to issue draft and final versions of one or more guidance documents, over a period of 5 years, regarding the collection of patient experience data, and the use of such data and related information in drug development. Not later than 18 months after the date of enactment of this Act, the Secretary shall issue a draft version of at least one such guidance document. Not later than 18 months after the public comment period on the draft guidance ends, the Secretary shall issue a revised draft guidance or final guidance.
 
 "(b)
 

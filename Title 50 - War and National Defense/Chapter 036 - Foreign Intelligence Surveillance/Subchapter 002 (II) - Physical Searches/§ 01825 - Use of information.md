@@ -2,7 +2,7 @@
 
 #### (a) Compliance with minimization procedures; lawful purposes
 
-Information acquired from a physical search conducted pursuant to this subchapter concerning any United States person may be used and disclosed by Federal officers and employees without the consent of the United States person only in accordance with the minimization procedures required by this subchapter. No information acquired from a physical search pursuant to this subchapter may be used or disclosed by Federal officers or employees except for lawful purposes.
+Information acquired from a physical search conducted pursuant to this subchapter concerning any United States person may be used and disclosed by Federal officers and employeeswithout the consent of the United States person only in accordance with the minimization procedures required by this subchapter. No information acquired from a physical search pursuant to this subchapter may be used or disclosed by Federal officers or employees except for lawful purposes.
 
 #### (b) Notice of search and identification of property seized, altered, or reproduced
 
@@ -36,7 +36,7 @@ Whenever a court or other authority is notified pursuant to subsection (d) or (e
 
 #### (h) Suppression of evidence; denial of motion
 
-If the United States district court pursuant to subsection (g) determines that the physical search was not lawfully authorized or conducted, it shall, in accordance with the requirements of law, suppress the evidence which was unlawfully obtained or derived from the physical search of the aggrieved person or otherwise grant the motion of the aggrieved person. If the court determines that the physical search was lawfully authorized or conducted, it shall deny the motion of the aggrieved person except to the extent that due process requires discovery or disclosure.
+If the United States district court pursuant to subsection (g) determines that the physical search was not lawfully authorized or conducted, it shall, in accordance with the requirements of law, suppress the evidence which was unlawfully obtained or derived from the physical search of the aggrieved person or otherwise grant the motion of the aggrieved person. If the court determines that the physical search was lawfully authorized or conducted, it shall deny the motion of the aggrieved person except to theextent that due process requires discovery or disclosure.
 
 #### (i) Finality of orders
 
@@ -68,6 +68,8 @@ Orders granting motions or requests under subsection (h), decisions under this s
 
 (Pub. L. 95–511, title III, §305, as added Pub. L. 103–359, title VIII, §807(a)(3), Oct. 14, 1994, 108 Stat. 3449; amended Pub. L. 107–56, title V, §504(b), Oct. 26, 2001, 115 Stat. 364; Pub. L. 107–296, title VIII, §899, Nov. 25, 2002, 116 Stat. 2258; Pub. L. 110–261, title I, §§107(c)(2), 110(b)(2), July 10, 2008, 122 Stat. 2464, 2466.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
@@ -83,6 +85,8 @@ Subsec. (k)(2). Pub. L. 110–261, §107(c)(2), substituted "1823(a)(6)" for "18
 <b>2002</b>—Subsec. (k)(1). Pub. L. 107–296, in introductory provision, inserted "or law enforcement personnel of a State or political subdivision of a State (including the chief executive officer of that State or political subdivision who has the authority to appoint or direct the chief law enforcement officer of that State or political subdivision)" after "law enforcement officers".
 
 <b>2001</b>—Subsec. (k). Pub. L. 107–56 added subsec. (k).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

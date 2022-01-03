@@ -4,7 +4,7 @@
 
 For purposes of this section, the term "emergency condition" means, with respect to any archaeological or ethnological material of any State Party, that such material is—
 
-&emsp;(1) a newly discovered type of material which is of importance for the understanding of the history of mankind and is in jeopardy from pillage, dismantling, dispersal, or fragmentation;
+&emsp;(1) a newly discovered type of material which is of importance for the understandingof the history of mankind and is in jeopardy from pillage, dismantling, dispersal, or fragmentation;
 
 &emsp;(2) identifiable as coming from any site recognized to be of high cultural significance if such site is in jeopardy from pillage, dismantling, dispersal, or fragmentation which is, or threatens to be, of crisis proportions; or
 
@@ -28,13 +28,19 @@ Subject to subsection (c), if the President determines that an emergency conditi
 
 (Pub. L. 97–446, title III, §304, Jan. 12, 1983, 96 Stat. 2354.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 2602 of this title, referred to in subsec. (c)(4), was in the original "section 203", and was translated as section 2602 of this title, which is section 303 of Pub. L. 97–446, as the probable intent of Congress.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective on the 90th day after Jan. 12, 1983, or on any date which the President shall prescribe and publish in the Federal Register, with exceptions, see section 315 of Pub. L. 97–446, set out as a note under section 2601 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

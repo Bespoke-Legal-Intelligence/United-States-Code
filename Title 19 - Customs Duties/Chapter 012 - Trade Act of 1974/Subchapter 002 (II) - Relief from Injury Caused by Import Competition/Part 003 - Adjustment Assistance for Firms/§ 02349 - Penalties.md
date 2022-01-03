@@ -4,7 +4,7 @@ Any person who—
 
 &emsp;(1) makes a false statement of a material fact knowing it to be false, or knowingly fails to disclose a material fact, or willfully overvalues any security, for the purpose of influencing in any way a determination under this part, or for the purpose of obtaining money, property, or anything of value under this part, or
 
-&emsp;(2) makes a false statement of a material fact knowing it to be false, or knowingly fails to disclose a material fact, when providing information to the Secretary during an investigation of a petition under this part,
+&emsp;(2) makes a false statement of a material fact knowing it to be false, or knowingly failsto disclose a material fact, when providing information to the Secretary during an investigation of a petition under this part,
 
 > shall be imprisoned for not more than 2 years, or fined under title 18, or both.
 
@@ -13,6 +13,8 @@ Any person who—
 #### Reversion to Provisions in Effect on January 1, 2014
 
 <i>For reversion, beginning on July 1, 2021, to provisions in effect on Jan. 1, 2014, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see Codification and Effective and Termination Dates of 2015 Revival notes below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -30,7 +32,9 @@ A prior section 257 of Pub. L. 93–618 was classified to section 2347 of this t
 
 <b>2011</b>—Pub. L. 112–40, §§201(b), (c), 233, temporarily revived the provisions of this section, as in effect on Feb. 12, 2011. See Codification note above and 2009 Amendment and Effective and Termination Dates of 2011 Revival notes below.
 
-<b>2009</b>—Pub. L. 111–5, §§1865, 1893, temporarily amended section generally. Prior to amendment, text read as follows: "Whoever makes a false statement of a material fact knowing it to be false, or knowingly fails to disclose a material fact, or whoever willfully overvalues any security, for the purpose of influencing in any way a determination under this part, or for thepurpose of obtaining money, property, or anything of value under this part, shall be fined not more than $5,000 or imprisoned for not more than 2 years, or both." See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+<b>2009</b>—Pub. L. 111–5, §§1865, 1893, temporarily amended section generally. Prior to amendment, text read as follows: "Whoever makes a false statement of a material fact knowing it to be false, or knowingly fails to disclose a material fact, or whoever willfully overvalues any security, for the purpose of influencing in any way a determination under this part, or for the purpose of obtaining money, property, or anything of value under this part, shall be fined not more than $5,000 or imprisoned for not more than 2 years, or both." See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective and Termination Dates of 2015 Revival
 

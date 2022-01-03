@@ -8,9 +8,13 @@ The Secretary shall support the development of a geothermal energy workforce thr
 
 (Pub. L. 110–140, title VI, §619, Dec. 19, 2007, 121 Stat. 1683; Pub. L. 116–260, div. Z, title III, §3002(h)(1), Dec. 27, 2020, 134 Stat. 2495.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2020</b>—Pub. L. 116–260 amended section generally. Prior to amendment, section read as follows: "The Secretary shall expand the Department of Energy's GeoPowering the West program to extend its geothermal technology transfer activities throughout the entire United States. The program shall be renamed 'GeoPowering America'. The program shall continue to be based in the Department of Energy office in Golden, Colorado."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

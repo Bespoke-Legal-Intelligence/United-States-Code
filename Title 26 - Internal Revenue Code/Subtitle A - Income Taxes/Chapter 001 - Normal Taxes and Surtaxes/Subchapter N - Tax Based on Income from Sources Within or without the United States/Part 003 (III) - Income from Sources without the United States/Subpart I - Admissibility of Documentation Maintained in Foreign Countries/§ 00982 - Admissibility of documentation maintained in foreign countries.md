@@ -50,7 +50,7 @@ For purposes of this section—
 
 #### (1) Foreign-based documentation
 
-&emsp;The term "foreign-based documentation" means any documentation which is outsidethe United States and which may be relevant or material to the tax treatment of the examined item.
+&emsp;The term "foreign-based documentation" means any documentation which is outside the United States and which may be relevant or material to the tax treatment of the examined item.
 
 #### (2) Documentation
 
@@ -66,9 +66,13 @@ If any person takes any action as provided in subsection (c)(2), the running of 
 
 (Added Pub. L. 97–248, title III, §337(a), Sept. 3, 1982, 96 Stat. 629; amended Pub. L. 98–369, div. A, title VII, §714(k), July 18, 1984, 98 Stat. 963.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Subsec. (d)(3), (4). Pub. L. 98–369 redesignated par. (4) as (3) and struck out former par. (3) which provided that an item was to be treated as foreign connected if directly or indirectly from a source outside the United States, or the item (in whole or in part) purported to arise outside the United States, or was otherwise dependent on transactions occurring outside the United States.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

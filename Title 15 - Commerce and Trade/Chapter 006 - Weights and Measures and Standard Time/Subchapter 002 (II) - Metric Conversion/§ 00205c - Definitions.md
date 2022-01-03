@@ -38,6 +38,8 @@ As used in this subchapter, the term—
 
 (Pub. L. 94–168, §4, Dec. 23, 1975, 89 Stat. 1007; Pub. L. 104–289, §3, Oct. 11, 1996, 110 Stat. 3411.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 In par. (5), "section 107 of title 41" substituted for "section 403(6) of title 41, United States Code" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
@@ -49,6 +51,8 @@ In par. (9), "section 3301(a) of title 40" substituted for "section 13 of the Pu
 #### Amendments
 
 <b>1996</b>—Pars. (5) to (9). Pub. L. 104–289 added pars. (5) to (9).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment; Savings Provision
 

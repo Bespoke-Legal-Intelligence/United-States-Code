@@ -16,7 +16,7 @@
 
 &emsp;&emsp;&emsp;(i) apply the applicable lifetime limit both to the medical and surgical benefits to which it otherwise would apply and to mental health and substance use disorder benefits and not distinguish in the application of such limit between such medical and surgical benefits and mental health and substance use disorder benefits; or
 
-&emsp;&emsp;&emsp;(ii) not include any aggregate lifetime limit on mental health or substance usedisorder benefits that is less than the applicable lifetime limit.
+&emsp;&emsp;&emsp;(ii) not include any aggregate lifetime limit on mental health or substance use disorder benefits that is less than the applicable lifetime limit.
 
 #### (C) Rule in case of different limits
 
@@ -98,7 +98,7 @@
 
 #### (iii) Access to additional information regarding compliance
 
-&emsp;&emsp;&emsp;In developing and issuing the compliance program guidance document required under this paragraph, the Secretaries specified in subparagraph (A)—
+&emsp;&emsp;&emsp;In developing and issuing the compliance program guidance document requiredunder this paragraph, the Secretaries specified in subparagraph (A)—
 
 &emsp;&emsp;&emsp;&emsp;(I) shall enter into interagency agreements with the Inspector General of the Department of Health and Human Services, the Inspector General of the Department of Labor, and the Inspector General of the Department of the Treasury to share findings of compliance and noncompliance with this section, section 2726 of the Public Health Service Act, or section 712 of the Employee Retirement Income Security Act of 1974, as applicable; and
 
@@ -122,7 +122,7 @@
 
 #### (i) Guidance for plans
 
-&emsp;&emsp;&emsp;The guidance issued under this paragraph shall include clarifying information and illustrative examples of methods thatgroup health plans may use for disclosing information to ensure compliance with the requirements under this section, section 2726 of the Public Health Service Act, or section 712 of the Employee Retirement Income Security Act of 1974, as applicable, (and any regulations promulgated pursuant to such sections, as applicable).
+&emsp;&emsp;&emsp;The guidance issued under this paragraph shall include clarifying information and illustrative examples of methods that group health plans may use for disclosing information to ensure compliance with the requirements under this section, section 2726 of the Public Health Service Act, or section 712 of the Employee Retirement Income Security Act of 1974, as applicable, (and any regulations promulgated pursuant to such sections, as applicable).
 
 #### (ii) Documents for participants, beneficiaries, contracting providers, or authorized representatives
 
@@ -138,7 +138,7 @@
 
 &emsp;&emsp;The guidance issued under this paragraph shall include clarifying information and illustrative examples of methods, processes, strategies, evidentiary standards, and other factors that group health plans may use regarding the development and application of nonquantitative treatment limitations to ensure compliance with this section, section 2726 of the Public Health Service Act, or section 712 of the Employee Retirement Income Security Act of 1974, as applicable, (and any regulations promulgated pursuant to such respective section), including—
 
-&emsp;&emsp;&emsp;(i) examples of methods of determining appropriate types of nonquantitative treatment limitations with respect to both medical and surgical benefits and mental health and substance use disorder benefits, including nonquantitative treatment limitations pertaining to—
+&emsp;&emsp;&emsp;(i) examples of methods of determining appropriate types of nonquantitative treatment limitations with respect to bothmedical and surgical benefits and mental health and substance use disorder benefits, including nonquantitative treatment limitations pertaining to—
 
 &emsp;&emsp;&emsp;&emsp;(I) medical management standards based on medical necessity or appropriateness, or whether a treatment is experimental or investigative;
 
@@ -174,7 +174,7 @@
 
 #### (A) Nonquantitative treatment limitation (NQTL) requirements
 
-&emsp;&emsp;In the case of a group health plan that provides both medical and surgical benefits andmental health or substance use disorder benefits and that imposes nonquantitative treatment limitations (referred to in this section as "NQTLs") on mental health or substance use disorder benefits, such plan shall perform and document comparative analyses of the design and application of NQTLs and, beginning 45 days after the date of enactment of the Consolidated Appropriations Act, 2021, make available to the Secretary, upon request, the comparative analyses and the following information:
+&emsp;&emsp;In the case of a group health plan that provides both medical and surgical benefits and mental health or substance use disorder benefits and that imposes nonquantitative treatment limitations (referred to in this section as "NQTLs") on mental health or substance use disorder benefits, such plan shall perform and document comparative analyses of the design and application of NQTLs and, beginning 45 days after the date of enactment of the Consolidated Appropriations Act, 2021, make available to the Secretary, upon request, the comparative analyses and the following information:
 
 &emsp;&emsp;&emsp;(i) The specific plan terms or other relevant terms regarding the NQTLs and a description of all mental health or substance use disorder and medical or surgical benefits to which each such term applies in each respective benefits classification.
 
@@ -194,7 +194,7 @@
 
 #### (ii) Additional information
 
-&emsp;&emsp;&emsp;In instances in which the Secretary has concluded that the group health plan has not submitted sufficient information for the Secretary to review the comparative analyses described in subparagraph (A), as requested under clause (i), the Secretary shall specify to the plan the information the plan must submit to be responsive to the request under clause (i) for the Secretary to review the comparative analyses described in subparagraph (A) for compliance with this section. Nothing in this paragraph shall require the Secretary to conclude that a group health plan is in compliance with this section solely based upon the inspection of the comparative analyses described in subparagraph (A), as requested under clause (i).
+&emsp;&emsp;&emsp;In instances in which the Secretary has concluded that the group health plan hasnot submitted sufficient information for the Secretary to review the comparative analyses described in subparagraph (A), as requested under clause (i), the Secretary shall specify to the plan the information the plan must submit to be responsive to the request under clause (i) for the Secretary to review the comparative analyses described in subparagraph (A) for compliance with this section. Nothing in this paragraph shall require the Secretary to conclude that a group health plan is in compliance with this section solely based upon the inspection of the comparative analyses described in subparagraph (A), as requested under clause (i).
 
 #### (iii) Required action
 
@@ -278,7 +278,7 @@ Nothing in this section shall be construed—
 
 #### (D) 6-month determinations
 
-&emsp;&emsp;If a group health plan seeks an exemption under this paragraph, determinations undersubparagraph (A) shall be made after such plan has complied with this section for the first 6 months of the plan year involved.
+&emsp;&emsp;If a group health plan seeks an exemption under this paragraph, determinations under subparagraph (A) shall be made after such plan has complied with this section for the first 6 months of the plan year involved.
 
 #### (E) Notification
 
@@ -337,6 +337,8 @@ For purposes of this section:
 &emsp;The term "substance use disorder benefits" means benefits with respect to services for substance use disorders, as defined under the terms of the plan and in accordance with applicable Federal and State law.
 
 (Added Pub. L. 105–34, title XV, §1531(a)(4), Aug. 5, 1997, 111 Stat. 1083; amended Pub. L. 107–116, title VII, §701(c), Jan. 10, 2002, 115 Stat. 2228; Pub. L. 107–147, title VI, §610(a), Mar. 9, 2002, 116 Stat. 60; Pub. L. 108–311, title III, §302(a), Oct. 4, 2004, 118 Stat. 1178; Pub. L. 109–151, §1(c), Dec. 30, 2005, 119 Stat. 2886; Pub. L. 109–432, div. A, title I, §115(a), Dec. 20, 2006, 120 Stat. 2941; Pub. L. 110–245, title IV, §401(a), June 17, 2008, 122 Stat. 1649; Pub. L. 110–343, div. C, title V, §512(c), (g)(3)(A), Oct. 3, 2008, 122 Stat. 3888, 3892; Pub. L. 115–141, div. U, title IV, §401(a)(349), Mar. 23, 2018, 132 Stat. 1201; Pub. L. 116–260, div. BB, title II, §203(a)(3), Dec. 27, 2020, 134 Stat. 2910.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -397,6 +399,8 @@ Subsec. (f)(3), (4). Pub. L. 110–245 added pars. (3) and (4) and struck out fo
 <b>2002</b>—Subsec. (f). Pub. L. 107–147 amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: "This section shall not apply to benefits for services furnished on or after December 31, 2002."
 
 Subsec. (f). Pub. L. 107–116 substituted "December 31, 2002" for "September 30, 2001".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

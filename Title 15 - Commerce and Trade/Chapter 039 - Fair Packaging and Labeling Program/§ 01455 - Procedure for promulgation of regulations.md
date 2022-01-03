@@ -18,9 +18,13 @@ No regulation adopted under this chapter shall preclude the continued use of ret
 
 (Pub. L. 89–755, §6, Nov. 3, 1966, 80 Stat. 1299; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The effective date of this Act, referred to in subsec. (d), refers to the effective date of Pub. L. 89–755 which enacted this chapter to take effect July 1, 1967. See Effective Date note set out under section 1451 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

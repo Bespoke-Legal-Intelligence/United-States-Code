@@ -44,7 +44,7 @@ In order to improve the adequacy of information available to consumers, prevent 
 
 &emsp;(i) making available such terms in an accessible digital format on the Internet website of the manufacturer of the consumer product in a clear and conspicuous manner; and
 
-&emsp;(ii) providing to the consumer (or prospective consumer) information with respect to how to obtain and review such terms by indicating on the product or product packaging or in the product manual—
+&emsp;(ii) providing to the consumer (or prospective consumer) information with respect tohow to obtain and review such terms by indicating on the product or product packaging or in the product manual—
 
 &emsp;&emsp;(I) the Internet website of the manufacturer where such terms can be obtained and reviewed; and
 
@@ -54,7 +54,7 @@ In order to improve the adequacy of information available to consumers, prevent 
 
 #### (c) Prohibition on conditions for written or implied warranty; waiver by Commission
 
-No warrantor of a consumer product may condition his written or implied warranty of such product on the consumer's using, in connectionwith such product, any article or service (other than article or service provided without charge under the terms of the warranty) which is identified by brand, trade, or corporate name; except that the prohibition of this subsection may be waived by the Commission if—
+No warrantor of a consumer product may condition his written or implied warranty of such product on the consumer's using, in connection with such product, any article or service (other than article or service provided without charge under the terms of the warranty) which is identified by brand, trade, or corporate name; except that the prohibition of this subsection may be waived by the Commission if—
 
 &emsp;(1) the warrantor satisfies the Commission that the warranted product will function properly only if the article or service so identified is used in connection with the warranted product, and
 
@@ -72,9 +72,13 @@ The provisions of this section apply only to warranties which pertain to consume
 
 (Pub. L. 93–637, title I, §102, Jan. 4, 1975, 88 Stat. 2185; Pub. L. 114–51, §3(a), Sept. 24, 2015, 129 Stat. 494.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (b)(4). Pub. L. 114–51 added par. (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Findings
 

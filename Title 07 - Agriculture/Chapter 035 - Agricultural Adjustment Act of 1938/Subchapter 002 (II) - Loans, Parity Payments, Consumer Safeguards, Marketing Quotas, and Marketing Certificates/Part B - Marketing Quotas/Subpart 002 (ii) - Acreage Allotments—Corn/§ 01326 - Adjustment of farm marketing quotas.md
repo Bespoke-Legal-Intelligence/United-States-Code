@@ -8,9 +8,13 @@
 
 (Feb. 16, 1938, ch. 30, title III, §326, 52 Stat. 51.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1324 of this title, referred to in subsec. (b), was repealed by act Aug. 28, 1954, ch. 1041, title III, §304, 68 Stat. 902.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Inapplicability of Section
 

@@ -42,7 +42,7 @@ The purposes of any management conference convened with respect to an estuary un
 
 &emsp;(6) monitor the effectiveness of actions taken pursuant to the plan; and
 
-&emsp;(7) review all Federal financial assistance programs and Federal development projects in accordance with the requirements of Executive Order 12372, as in effect on September 17, 1983, to determine whether such assistance program or project would be consistent with and further the purposes and objectives of the plan prepared under this section.
+&emsp;(7) review all Federal financial assistance programs and Federal development projects in accordance with the requirements of Executive Order 12372, as in effect on September 17, 1983, to determine whether such assistance program or project would be consistent withand further the purposes and objectives of the plan prepared under this section.
 
 > For purposes of paragraph (7), such programs and projects shall not be limited to the assistance programs and development projects subject to Executive Order 12372, but may include any programs listed in the most recent Catalog of Federal Domestic Assistance which may have an effect on the purposes and objectives of the plan developed under this section.
 
@@ -184,7 +184,7 @@ Any person (including a State, interstate, or regional agency or entity) that re
 
 #### (k) Definitions
 
-For purposes of this section, the terms "estuary" and "estuarine zone" have the meanings such terms have in section 1254(n)(4) of thistitle, except that the term "estuarine zone" shall also include associated aquatic ecosystems and those portions of tributaries draining into the estuary up to the historic height of migration of anadromous fish or the historic head of tidal influence, whichever is higher.
+For purposes of this section, the terms "estuary" and "estuarine zone" have the meanings such terms have in section 1254(n)(4) of this title, except that the term "estuarine zone" shall also include associated aquatic ecosystems and those portions of tributaries draining into the estuary up to the historic height of migration of anadromous fish or the historic head of tidal influence, whichever is higher.
 
 (June 30, 1948, ch. 758, title III, §320, as added Pub. L. 100–4, title III, §317(b), Feb. 4, 1987, 101 Stat. 61; amended Pub. L. 100–202, §101(f) \[title II, 201\], Dec. 22, 1987, 101 Stat. 1329–187, 1329–197; Pub. L. 100–653, title X, §1004, Nov. 14, 1988, 102 Stat. 3836; Pub. L. 100–688, title II, §2001, Nov. 18, 1988, 102 Stat. 4151; Pub. L. 105–362, title V, §501(a)(2), Nov. 10, 1998, 112 Stat. 3283; Pub. L. 106–457, title III, §§301—303, Nov. 7, 2000, 114 Stat. 1972; Pub. L. 107–303, title III, §302(b)(1), Nov. 27, 2002, 116 Stat. 2361; Pub. L. 108–399, §1, Oct. 30, 2004, 118 Stat. 2253; Pub. L. 114–162, §§1, 2, May 20, 2016, 130 Stat. 409; Pub. L. 116–337, §§2–6, Jan. 13, 2021, 134 Stat. 5120, 5121.)
 

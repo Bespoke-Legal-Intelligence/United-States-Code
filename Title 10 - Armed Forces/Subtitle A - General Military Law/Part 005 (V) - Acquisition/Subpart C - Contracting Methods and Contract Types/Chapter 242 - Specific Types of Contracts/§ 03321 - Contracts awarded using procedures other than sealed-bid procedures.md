@@ -30,6 +30,8 @@ Inapplicability to Certain Contracts.—This subsection does not apply—
 
 (Added and amended Pub. L. 116–283, div. A, title XVIII, §1817(a), (b), (d), Jan. 1, 2021, 134 Stat. 4186.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 The text of subsec. (a) of section 2306 of this title, which was transferred to this section and amended by Pub. L. 116–283, §1817(b), (d)(1), was based on act Aug. 10, 1956, ch. 1041, 70A Stat. 130; Pub. L. 87–653, §1(d), Sept. 10, 1962, 76 Stat. 528; Pub. L. 98–369, div. B, title VII, §2724(a), July 18, 1984, 98 Stat. 1192; Pub. L. 99–145, title XIII, §1303(a)(15), Nov. 8, 1985, 99 Stat. 739.
@@ -38,7 +40,7 @@ The text of subsec. (b) of section 2306 of this title, which was transferred to 
 
 #### Amendments
 
-<b>2021</b>—Subsec. (a). Pub. L. 116–283, §1817(b), (d)(1), transferred subsec. (a) of section 2306 of this title to this section, inserted heading before second sentence, and substituted "section 3322(a) of this title" for "thepreceding sentence", "provisions of this chapter" for "provisions of this section", and "under chapter 137 legacy provisions" for "under this chapter". Former first sentence of subsec. (a) designated section 3322(a) of this title.
+<b>2021</b>—Subsec. (a). Pub. L. 116–283, §1817(b), (d)(1), transferred subsec. (a) of section 2306 of this title to this section, inserted heading before second sentence, and substituted "section 3322(a) of this title" for "the preceding sentence", "provisions of this chapter" for "provisions of this section", and "under chapter 137 legacy provisions" for "under this chapter". Former first sentence of subsec. (a) designated section 3322(a) of this title.
 
 Subsec. (b). Pub. L. 116–283, §1817(b), (d)(2), transferred subsec. (b) of section 2306 of this title to this section, inserted heading, and designated first, second, and third sentences as pars. (1) to (3), respectively.
 
@@ -47,6 +49,8 @@ Subsec. (b)(1). Pub. L. 116–283, §1817(d)(2)(A)–(C), inserted heading and s
 Subsec. (b)(2). Pub. L. 116–283, §1817(d)(2)(E), inserted heading, inserted dash after "the United States" and subpar. (A) designation before "may annul", substituted "liability; or" for "liability or", and inserted subpar. (B) designation before "may deduct".
 
 Subsec. (b)(3). Pub. L. 116–283, §1817(d)(2)(F), inserted heading, inserted dash after "does not apply" and subpar. (A) designation before "to a contract that is", substituted "threshold; or" for "threshold or", and inserted subpar. (B) designation before "to a contract for the acquisition".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

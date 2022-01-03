@@ -190,6 +190,8 @@ In subsection (d), the words "The Airports Authority shall be subject to a confl
 
 In subsection (g), the words "Committee on Transportation and Infrastructure" are substituted for "Committee on Public Works and Transportation" because of the amendment of clause 1(q) of Rule X of the Rules of the House of Representatives by section 202(a) of H. Res. 6, approved January 4, 1995.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 49108 of this title, referred to in subsec. (a)(1)(B), was repealed by Pub. L. 112–95, title I, §150, Feb. 14, 2012, 126 Stat. 32.
@@ -215,6 +217,8 @@ Subsec. (c)(7). Pub. L. 112–55, §191(d), substituted "Ten votes" for "Eight v
 <b>1998</b>—Subsec. (b)(1)(F). Pub. L. 105–225, §7(c)(1)(A), substituted "1986" for "1996".
 
 Subsec. (c)(3). Pub. L. 105–225, §7(c)(1)(B), substituted "to the board" for "by the board".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

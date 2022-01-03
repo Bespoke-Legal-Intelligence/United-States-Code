@@ -26,11 +26,13 @@ For the purposes of this section, the term "additional funds" does not include f
 
 (Pub. L. 88–210, title II, §221, formerly title III, §321, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 745; amended Pub. L. 113–128, title V, §512(e)(7), July 22, 2014, 128 Stat. 1707; renumbered title II, §221, Pub. L. 115–224, title II, §201(a)(5), (7), July 31, 2018, 132 Stat. 1621.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Workforce Innovation and Opportunity Act, referred to in subsec. (b)(1), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Chapters 2 and 3 of subtitle B of title I of the Act are classified generally to subparts 2 (§3161 et seq.) and 3 (§3171 et seq.), respectively, of part B of subchapter I of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
-The Wagner-Peyser Act, referred to in subsec. (b)(2), is act June 6, 1933, ch. 49, 48 Stat. 113, as amended, which is classified generally to chapter 4B (§49 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 49 of Title 29 and Tables.
+The Wagner-Peyser Act, referred to in subsec. (b)(2), is act June 6, 1933, ch. 49, 48 Stat. 113, as amended, which is classified generally to chapter 4B (§49 et seq.)of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 49 of Title 29 and Tables.
 
 #### Prior Provisions
 
@@ -43,6 +45,8 @@ Another prior section 2411, Pub. L. 88–210, title IV, §411, as added Pub. L. 
 #### Amendments
 
 <b>2014</b>—Subsec. (b)(1). Pub. L. 113–128 substituted "Chapters 2 and 3 of subtitle B of title I of the Workforce Innovation and Opportunity Act" for "Chapters 4 and 5 of subtitle B of title I of Public Law 105–220".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

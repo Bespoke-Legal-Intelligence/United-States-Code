@@ -91,7 +91,7 @@
 
 #### Amendments
 
-<b>2021</b>—Pub. L. 116–283, div. F, title LXIII, §§6306(b)(1), 6307(b), 6313(b), 6314(c), title LXIV, §6403(b)(3), Jan. 1,2021, 134 Stat. 4589, 4590, 4597, 4603, 4623, added items 5323 and 5333 to 5336 and struck out former item 5323 "Rewards for informants" and item 5328 "Whistleblower protections". Former item 5323 and item 5328 were struck out, and item 5323 was added, to the analysis for this chapter to reflect the probable intent of Congress, notwithstanding directory language striking out and adding those items to the analysis for subchapter II of this chapter.
+<b>2021</b>—Pub. L. 116–283, div. F, title LXIII, §§6306(b)(1), 6307(b), 6313(b), 6314(c), title LXIV, §6403(b)(3), Jan. 1, 2021, 134 Stat. 4589, 4590, 4597, 4603, 4623, added items 5323 and 5333 to 5336 and struck out former item 5323 "Rewards for informants" and item 5328 "Whistleblower protections". Former item 5323 and item 5328 were struck out, and item 5323 was added, to the analysis for this chapter to reflect the probable intent of Congress, notwithstanding directory language striking out and adding those items to the analysis for subchapter II of this chapter.
 
 <b>2017</b>—Pub. L. 115–44, title II, §275(b), Aug. 2, 2017, 131 Stat. 938, struck out "coin and currency" before "transactions" in item 5326.
 

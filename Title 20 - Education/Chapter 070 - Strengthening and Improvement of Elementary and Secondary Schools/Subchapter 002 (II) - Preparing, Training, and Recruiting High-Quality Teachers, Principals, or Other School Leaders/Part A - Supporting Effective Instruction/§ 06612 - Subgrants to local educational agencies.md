@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) an amount that bears the same relationship to 20 percent of such funds for such fiscal year as the number of individuals aged 5 through 17 in the geographic area served by the agency, as determined by the Secretary on the basis of the most recent satisfactory data, bears to the number of those individuals in the geographic areas served by all eligible local educational agencies in the State, as so determined; and
 
-&emsp;&emsp;(B) an amount that bears the same relationship to 80 percent of the funds for such fiscal year as the number of individuals aged 5 through 17 from families with incomes below the poverty line in the geographic area served by the agency, as determined by the Secretary on the basis of the most recent satisfactory data, bears to the number of those individuals in the geographic areasserved by all the eligible local educational agencies in the State, as so determined.
+&emsp;&emsp;(B) an amount that bears the same relationship to 80 percent of the funds for such fiscal year as the number of individuals aged 5 through 17 from families with incomes below the poverty line in the geographic area served by the agency, as determined by the Secretary on the basis of the most recent satisfactory data, bears to the number of those individuals in the geographic areas served by all the eligible local educational agencies in the State, as so determined.
 
 #### (3) Rule of construction
 
@@ -56,6 +56,8 @@
 
 (Pub. L. 89–10, title II, §2102, as added Pub. L. 114–95, title II, §2002, Dec. 10, 2015, 129 Stat. 1925.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 6612, Pub. L. 89–10, title II, §2112, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1623, related to State applications, prior to repeal by Pub. L. 114–95, §5, title II, §2002, Dec. 10, 2015, 129 Stat. 1806, 1913, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
@@ -65,6 +67,8 @@ A prior section 2102 of Pub. L. 89–10 was classified to section 6602 of this t
 Another prior section 2102 of Pub. L. 89–10 was classified to section 6622 of this title, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 Another prior section 2102 of Pub. L. 89–10 was classified to section 3002 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

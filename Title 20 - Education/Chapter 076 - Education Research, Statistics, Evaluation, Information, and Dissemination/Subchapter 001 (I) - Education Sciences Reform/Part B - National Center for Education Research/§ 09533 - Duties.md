@@ -42,7 +42,7 @@ The Research Center shall—
 
 &emsp;&emsp;(D) field-based research on how teachers implement technology and Internet-based resources in the classroom, including an understanding <sup>1</sup> how these resources are being accessed, put to use, and the effectiveness of such resources; and
 
-&emsp;(11) carry out research that is rigorous, peer-reviewed, and large scale to determine which methods of mathematics and science teaching are most effective, cost efficient, and able to be applied, duplicated, and scaled up for use in elementary and secondary classrooms, including in low-performing schools, to improve the teaching of, and student achievement in, mathematics and science as required under the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.).
+&emsp;(11) carry out research that is rigorous, peer-reviewed, and large scale to determine whichmethods of mathematics and science teaching are most effective, cost efficient, and able to be applied, duplicated, and scaled up for use in elementary and secondary classrooms, including in low-performing schools, to improve the teaching of, and student achievement in, mathematics and science as required under the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.).
 
 #### (b) Eligibility
 
@@ -105,6 +105,8 @@ Research carried out under subsection (a) through contracts, grants, or cooperat
 &emsp;To the extent feasible, research conducted under this subsection shall be disaggregated by age, race, gender, and socioeconomic background.
 
 (Pub. L. 107–279, title I, §133, Nov. 5, 2002, 116 Stat. 1954.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

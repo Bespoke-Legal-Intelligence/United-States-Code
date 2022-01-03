@@ -26,7 +26,7 @@ The entity that transfers ownership interests in, or shares representing, units 
 
 #### (C) Promissory note required
 
-&emsp;&emsp;The homeowner shall execute a promissory note equal to the difference between the market value and the purchase price, payable to the public housing agency or otherentity designated in the homeownership plan, together with a mortgage securing the obligation of the note.
+&emsp;&emsp;The homeowner shall execute a promissory note equal to the difference between the market value and the purchase price, payable to the public housing agency or other entity designated in the homeownership plan, together with a mortgage securing the obligation of the note.
 
 #### (2) 6 years or less
 
@@ -76,9 +76,11 @@ Recipients shall transfer ownership of the property to tenants within a specifie
 
 #### (i) Certain entities not eligible
 
-Any entity that assumes, as determined by the Secretary, a mortgage covering eligible property in connection with the acquisition of the property from an owner under this section mustcomply with any low-income affordability restrictions for the remaining term of the mortgage. This requirement shall only apply to an entity, such as a cooperative association, that, as determined by the Secretary, intends to own the housing on a permanent basis.
+Any entity that assumes, as determined by the Secretary, a mortgage covering eligible property in connection with the acquisition of the property from an owner under this section must comply with any low-income affordability restrictions for the remaining term of the mortgage. This requirement shall only apply to an entity, such as a cooperative association, that, as determined by the Secretary, intends to own the housing on a permanent basis.
 
 (Pub. L. 101–625, title IV, §425, Nov. 28, 1990, 104 Stat. 4168.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

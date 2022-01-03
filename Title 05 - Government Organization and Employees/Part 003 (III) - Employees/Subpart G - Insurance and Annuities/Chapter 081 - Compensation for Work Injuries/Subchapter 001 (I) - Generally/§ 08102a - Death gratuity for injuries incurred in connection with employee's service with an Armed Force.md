@@ -56,7 +56,7 @@ Eligible Survivors.—
 
 &emsp;&emsp;&emsp;(iv) to whose support the decedent had been judicially ordered to contribute.
 
-&emsp;(3) Subparagraphs (C) and (D) of paragraph (1), so far as they apply to parents and persons in loco parentis, include fathers and mothersthrough adoption, and persons who stood in loco parentis to the decedent for a period of not less than one year at any time before the decedent became an employee. However, only one father and one mother, or their counterparts in loco parentis, may be recognized in any case, and preference shall be given to those who exercised a parental relationship on the date, or most nearly before the date, on which the decedent became an employee.
+&emsp;(3) Subparagraphs (C) and (D) of paragraph (1), so far as they apply to parents and persons in loco parentis, include fathers and mothers through adoption, and persons who stood in loco parentis to the decedent for a period of not less than one year at any time before the decedent became an employee. However, only one father and one mother, or their counterparts in loco parentis, may be recognized in any case, and preference shall be given to those who exercised a parental relationship on the date, or most nearly before the date, on which the decedent became an employee.
 
 &emsp;(4) A person covered by this section may designate another person to receive an amount payable under this section. The designation shall indicate the percentage of the amount, to be specified only in 10 percent increments, that the designated person may receive. The balance of the amount of the death gratuity shall be paid to or for the living survivors of the person concerned in accordance with subparagraphs (A) through (E) of paragraph (1).
 

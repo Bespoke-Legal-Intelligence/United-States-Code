@@ -22,6 +22,8 @@ Sept. 3, 1954, ch. 1257, §§102(1) (as applicable to §212), 212, 68 Stat. 1149
 
 The words "this title" are substituted for the words "this chapter", since the provisions of this title requiring transfer from an active status are based on the source statute for this section (the Reserve Officer Personnel Act of 1954).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 substituted "chapters 843, 1407, and 1409" for "chapters 573, 1407, and 1409".
@@ -33,6 +35,8 @@ The words "this title" are substituted for the words "this chapter", since the p
 Pub. L. 103–337, §1662(h)(2), renumbered section 1007 of this title as this section.
 
 <b>1960</b>—Pub. L. 86–559 inserted "or serving as United States property and fiscal officers" in section catchline, and inserted provisions in text authorizing retention of reserve commissioned officers who are property and fiscal officers, appointed, designated, or detailed under section 708 of title 32.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

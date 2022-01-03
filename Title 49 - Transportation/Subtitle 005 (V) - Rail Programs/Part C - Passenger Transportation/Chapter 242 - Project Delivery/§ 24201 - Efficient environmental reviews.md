@@ -18,7 +18,7 @@ Discretion.—The Secretary may choose not to incorporate into agency regulation
 
 &emsp;(4)
 
-Applicability.—Subsection (l) of section 139 of title 23 shall apply to railroad projects described in paragraph (1), except that the limitation on claims of 150 days shall be 2 years.
+Applicability.—Subsection (l) of section 139 of title 23 shall apply to railroad projectsdescribed in paragraph (1), except that the limitation on claims of 150 days shall be 2 years.
 
 (b)
 
@@ -46,6 +46,8 @@ Protections for Existing Agreements and NEPA.—Nothing in subtitle E of the Pas
 
 (Added Pub. L. 114–94, div. A, title XI, §11503(a), Dec. 4, 2015, 129 Stat. 1691.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The National Environmental Policy Act of 1969, referred to in subsecs. (a)(1) and (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
@@ -55,6 +57,8 @@ The date of enactment of the Passenger Rail Reform and Investment Act of 2015, r
 Subtitle E of the Passenger Rail Reform and Investment Act of 2015, referred to in subsec. (e), is subtitle E (§§11501–11504) of title XI of div. A of Pub. L. 114–94, known as the Track, Railroad, and Infrastructure Network Act and also as the TRAIN Act, which enacted this section and section 24202 of this title, amended section 303 of this title and section 138 of Title 23, Highways, and enacted provisions set out as a note under section 4370m of Title 42, The Public Health and Welfare. For complete classification of this subtitle to the Code, see Short Title of 2015 Amendment note set out under section 20101 of this title and Tables.
 
 The date of enactment of such subtitle, referred to in subsec. (e), is the date of enactment of subtitle E of title XI of div. A of Pub. L. 114–94, which was approved Dec. 4, 2015.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

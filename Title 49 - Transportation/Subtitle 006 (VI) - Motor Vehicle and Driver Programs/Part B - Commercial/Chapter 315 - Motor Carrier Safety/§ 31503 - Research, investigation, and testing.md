@@ -46,11 +46,15 @@ In subsection (a), the words "subject to subchapter II of chapter 105 of this ti
 
 In subsection (b), the words "In carrying out this chapter" are substituted for "For the purpose of carrying out the provisions pertaining to safety" to eliminate unnecessary words. The words "department . . . or instrumentality" are added for consistency. The word "reimburse" is substituted for "transfer . . . such funds" for consistency. The words "as may be necessary and available to make this provision effective" are omitted as unnecessary because of the restatement.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1995</b>—Subsec. (a). Pub. L. 104–88 substituted "subchapter I of chapter 135" for "subchapter II of chapter 105".
 
 <b>1994</b>—Pub. L. 103–272 renumbered section 3103 of this title as this section and amended it generally, restating it without substantive change.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1995 Amendment
 

@@ -74,7 +74,7 @@ An application submitted to the Administrator by any applicant for a demonstrati
 
 &emsp;(G) Consideration of the establishment of a State institution to facilitate and assist funding a development transfer credit system.
 
-&emsp;(H) A program for State and local implementation of the plan described in this subsection in a manner that will insure the continued, uniform, consistent protection of the critical protection area in accord with the purposes of this section.
+&emsp;(H) A program for State and local implementation of the plan described in this subsection in a manner that will insure the continued, uniform, consistent protection of the criticalprotection area in accord with the purposes of this section.
 
 &emsp;(I) Pollution abatement measures, if appropriate.
 
@@ -88,7 +88,7 @@ During the development of a comprehensive management plan under this section, th
 
 #### (i) Approval or disapproval
 
-Within 120 days after receipt of an application under this section, the Administrator shall approve or disapprove the application. The approval or disapproval shall be based on a determination that the critical protection area satisfies the criteria established under subsection (d) and that a demonstration program for the area would provide protection for ground water quality consistent with the objectives stated in subsection (f). The Administrator shall provide tothe Governor a written explanation of the reasons for the disapproval of any such application. Any petitioner may modify and resubmit any application which is not approved. Upon approval of an application, the Administrator may enter into a cooperative agreement with the applicant to establish a demonstration program under this section.
+Within 120 days after receipt of an application under this section, the Administrator shall approve or disapprove the application. The approval or disapproval shall be based on a determination that the critical protection area satisfies the criteria established under subsection (d) and that a demonstration program for the area would provide protection for ground water quality consistent with the objectives stated in subsection (f). The Administrator shall provide to the Governor a written explanation of the reasons for the disapproval of any such application. Any petitioner may modify and resubmit any application which is not approved. Upon approval of an application, the Administrator may enter into a cooperative agreement with the applicant to establish a demonstration program under this section.
 
 #### (j) Grants and reimbursement
 
@@ -121,6 +121,8 @@ There are authorized to be appropriated to carry out this section not more than 
 
 (July 1, 1944, ch. 373, title XIV, §1427, as added and amended Pub. L. 99–339, title II, §203, title III, §301(f), June 19, 1986, 100 Stat. 657, 664; Pub. L. 104–66, title II, §2021(g), Dec. 21, 1995, 109 Stat. 727; Pub. L. 104–182, title I, §120(a), title V, §501(b)(2), (f)(3), Aug. 6, 1996, 110 Stat. 1650, 1691.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Clean Water Act, referred to in subsec. (k), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, also known as the Federal Water Pollution Control Act, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
@@ -139,7 +141,7 @@ Subsec. (k). Pub. L. 104–182, §501(b)(2), substituted "this section" for "thi
 
 Subsec. (m). Pub. L. 104–182, §120(a)(2), inserted table item relating to fiscal years 1992 through 2003.
 
-<b>1995</b>—Subsecs. (l) to (n). Pub. L. 104–66 redesignated subsecs. (m) and (n) as (l) and (m), respectively, and struck out heading and text of former subsec. (l). Text read as follows: "Not later than December 31, 1989, each State shall submit to the Administrator a report assessing the impact of the program on ground water quality and identifying those measures found to be effective in protecting ground water resources. No later than September 30, 1990, the Administrator shall submit to Congress a report summarizing the State reports, and assessing the accomplishments of the sole source aquifer demonstration program including an identification of protection methods found to be most effective and recommendations for their application to protect ground water resources from contamination whenever necessary."
+<b>1995</b>—Subsecs. (l) to (n). Pub. L. 104–66 redesignated subsecs. (m) and (n) as (l) and (m), respectively, and struck out heading and text of former subsec. (l). Text read as follows: "Not later than December 31, 1989, each State shall submit to the Administrator a report assessing the impact of the program on ground water quality and identifying those measures found to be effective in protecting ground water resources. No laterthan September 30, 1990, the Administrator shall submit to Congress a report summarizing the State reports, and assessing the accomplishments of the sole source aquifer demonstration program including an identification of protection methods found to be most effective and recommendations for their application to protect ground water resources from contamination whenever necessary."
 
 <b>1986</b>—Subsec. (n). Pub. L. 99–339 added subsec. (n).
 

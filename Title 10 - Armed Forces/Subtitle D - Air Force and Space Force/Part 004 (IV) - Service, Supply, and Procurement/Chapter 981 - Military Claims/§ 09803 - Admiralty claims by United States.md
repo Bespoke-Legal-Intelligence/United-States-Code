@@ -52,6 +52,8 @@ In subsection (a), the words "consider, ascertain, adjust, determine" are omitte
 
 In subsection (b), the words "of the United States as miscellaneous receipts" and "to deliver" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1989</b>—Subsec. (c). Pub. L. 101–189 substituted "$100,000" for "$10,000".

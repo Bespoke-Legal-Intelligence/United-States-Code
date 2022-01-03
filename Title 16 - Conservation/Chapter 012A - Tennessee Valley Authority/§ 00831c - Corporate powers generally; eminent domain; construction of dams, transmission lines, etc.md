@@ -28,7 +28,7 @@ The Board shall select a treasurer and as many assistant treasurers as it deems 
 
 &emsp;(a) to convey by deed, lease, or otherwise, any real property in the possession of or under the control of the Corporation to any person or persons, for the purpose of recreation or use as a summer residence, or for the operation on such premises of pleasure resorts for boating, fishing, bathing, or any similar purpose;
 
-&emsp;(b) to convey by deed, lease, or otherwise, the possession and control of any such real property to any corporation, partnership, person, or persons for the purpose of erecting thereon docks and buildings for shipping purposes or the manufacture or storage thereon of products for the purpose of trading or shipping in transportation: <i>Provided</i>, That no transferauthorized herein in (b) shall be made without the approval of Congress: <i>And provided further</i>, That said corporation, without further action of Congress, shall have power to convey by deed, lease, or otherwise, to the Ingalls Shipbuilding Corporation, a tract or tracts of land at or near Decatur, Alabama, and to the Commercial Barge Lines, Inc., a tract or tracts of land at or near Guntersville, Alabama;
+&emsp;(b) to convey by deed, lease, or otherwise, the possession and control of any such real property to any corporation, partnership, person, or persons for the purpose of erecting thereon docks and buildings for shipping purposes or the manufacture or storage thereon of products for the purpose of trading or shipping in transportation: <i>Provided</i>, That no transfer authorized herein in (b) shall be made without the approval of Congress: <i>And provided further</i>, That said corporation, without further action of Congress, shall have power to convey by deed, lease, or otherwise, to the Ingalls Shipbuilding Corporation, a tract or tracts of land at or near Decatur, Alabama, and to the Commercial Barge Lines, Inc., a tract or tracts of land at or near Guntersville, Alabama;
 
 &emsp;(c) to transfer any part of the possession and control of the real estate now in possession of and under the control of said Corporation to any other department, agency, or instrumentality of the United States: <i>Provided, however</i>, That no land shall be conveyed, leased, or transferred, upon which there is located any permanent dam, hydroelectric power plant, or munitions plant heretofore or hereafter built by or for the United States or for the Authority, except that this prohibition shall not apply to the transfer of Nitrate Plant Numbered 1, at Muscle Shoals, Alabama, or to Waco Quarry: <i>And provided further</i>, That no transfer authorized herein in (a) or (c) except leases for terms of less than twenty years, shall be made without the approval of the President of the United States, if the property to be conveyed exceeds $500 in value; and
 
@@ -37,6 +37,8 @@ The Board shall select a treasurer and as many assistant treasurers as it deems 
 (l) Shall have power to advise and cooperate in the readjustment of the population displaced by the construction of dams, the acquisition of reservoir areas, the protection of watersheds, the acquisition of rights-of-way, and other necessary acquisitions of land, in order to effectuate the purposes of the chapter; and may cooperate with Federal, State, and local agencies to that end.
 
 (May 18, 1933, ch. 32, §4, 48 Stat. 60; Aug. 31, 1935, ch. 836, §§1–3, 13, 49 Stat. 1075, 1076, 1080; July 18, 1941, ch. 309, 55 Stat. 599; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Pub. L. 92–310, title II, §225(b), June 6, 1972, 86 Stat. 206; Pub. L. 108–447, div. C, title VI, §603(a)(2), Dec. 8, 2004, 118 Stat. 2966.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -60,6 +62,8 @@ Subsec. (k). Act Aug. 31, 1935, §3, added subsec. (k).
 
 Subsec. (l). Act Aug. 31, 1935, §13, added subsec. (l).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted "Title 10, Armed Forces" which in sections 3010 to 3013 continued military Department of the Army under administrative supervision of Secretary of the Army.
@@ -72,7 +76,9 @@ Amendment by Pub. L. 108–447 effective on the later of the date on which at le
 
 Pub. L. 113–121, title VI, §6005(h), June 10, 2014, 128 Stat. 1360, provided that: "Notwithstanding any other provision of law, the Tennessee Valley Authority shall, without monetary consideration, grant releases from real estate restrictions established pursuant to section 4(k)(b) of the Tennessee Valley Authority Act of 1933 (16 U.S.C. 831c(k)(b)) with respect to tracts of land identified in section 4(k)(b) of that Act, subject to the condition that such releases shall be granted in a manner consistent with applicable Tennessee Valley Authority policies."
 
+#### <b>Executive Documents</b>
+
 #### Delegation of Functions
 
-Authority of President under subsec. (k) of this section to approve transfers under subsecs. (a) and (c) of this section, other than leases for terms of less than 20 years and conveyances of property having a value not in excess of $500, delegated to Administrator of General Services, see section 1(16) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
+Authority of President under subsec. (k) of this section to approve transfers under subsecs. (a) and (c) ofthis section, other than leases for terms of less than 20 years and conveyances of property having a value not in excess of $500, delegated to Administrator of General Services, see section 1(16) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
 

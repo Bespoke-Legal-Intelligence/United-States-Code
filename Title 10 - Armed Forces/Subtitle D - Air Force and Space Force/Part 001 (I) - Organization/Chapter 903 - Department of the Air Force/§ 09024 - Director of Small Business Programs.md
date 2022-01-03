@@ -16,6 +16,8 @@ Duties and Powers.—(1) The Director of Small Business Programs shall, subject 
 
 (Added Pub. L. 109–163, div. A, title IX, §904(e)(1), Jan. 6, 2006, 119 Stat. 3401, §8024; renumbered §9024, Pub. L. 115–232, div. A, title VIII, §806(c), Aug. 13, 2018, 132 Stat. 1833.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior sections 9025 and 9027 were renumbered sections 9375 and 9377 of this title, respectively.
@@ -23,6 +25,8 @@ Prior sections 9025 and 9027 were renumbered sections 9375 and 9377 of this titl
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 8024 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

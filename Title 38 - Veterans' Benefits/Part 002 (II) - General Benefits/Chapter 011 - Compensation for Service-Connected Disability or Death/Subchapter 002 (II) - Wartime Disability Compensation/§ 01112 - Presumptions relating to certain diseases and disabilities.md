@@ -204,7 +204,7 @@ Subsec. (c)(1). Pub. L. 102–86, §105(1), amended subsec. (c)(1) of this secti
 
 Pub. L. 102–83, §5(c)(1), substituted "1110" for "310" and "1113" for "313".
 
-Subsec. (c)(3). Pub. L. 102–86, §104(a), amended subsec. (c)(3) of this section as in effect before the redesignations made by Pub. L. 102–83, §5, by striking out before period at end ", except that such period shall be the 30-year period beginning on that date in the case of leukemia (other than chronic lymphocytic leukemia)".
+Subsec. (c)(3). Pub. L. 102–86, §104(a), amended subsec. (c)(3) of this section as in effect before the redesignations made by Pub. L. 102–83, §5, by striking out beforeperiod at end ", except that such period shall be the 30-year period beginning on that date in the case of leukemia (other than chronic lymphocytic leukemia)".
 
 Subsec. (c)(4)(A). Pub. L. 102–86, §105(2), amended subsec. (c)(4)(A) of this section as in effect before the redesignations made by Pub. L. 102–83, §5, by inserting "(i)" after "means" and adding cl. (ii).
 
@@ -250,7 +250,7 @@ Pub. L. 102–86, title I, §104(b), Aug. 14, 1991, 105 Stat. 415, provided that
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–321, §2(b), May 20, 1988, 102 Stat. 486, provided that: "Subsection (c) of section 312 \[now 1112\] oftitle 38, United States Code, as added by subsection (a), shall take effect on May 1, 1988."
+Pub. L. 100–321, §2(b), May 20, 1988, 102 Stat. 486, provided that: "Subsection (c) of section 312 \[now 1112\] of title 38, United States Code, as added by subsection (a), shall take effect on May 1, 1988."
 
 #### Effective Date of 1986 Amendment
 

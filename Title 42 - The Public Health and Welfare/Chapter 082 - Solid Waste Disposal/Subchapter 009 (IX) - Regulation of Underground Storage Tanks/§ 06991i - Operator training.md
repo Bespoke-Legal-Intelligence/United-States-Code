@@ -50,7 +50,7 @@
 
 #### (3) Financial incentive
 
-&emsp;The Administrator may award to a State that develops and implements requirements described in paragraph (1), in addition to any funds that the State is entitled to receiveunder this subchapter, not more than $200,000, to be used to carry out the requirements.
+&emsp;The Administrator may award to a State that develops and implements requirements described in paragraph (1), in addition to any funds that the State is entitled to receive under this subchapter, not more than $200,000, to be used to carry out the requirements.
 
 #### (c) Training
 
@@ -65,6 +65,8 @@ All persons that are subject to the operator training requirements of subsection
 &emsp;&emsp;(B) a requirement or standard of a State program approved under section 6991c of this title.
 
 (Pub. L. 89–272, title II, §9010, as added Pub. L. 98–616, title VI, §601(a), Nov. 8, 1984, 98 Stat. 3287; amended Pub. L. 109–58, title XV, §1524(a), Aug. 8, 2005, 119 Stat. 1095.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

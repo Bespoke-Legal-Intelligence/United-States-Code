@@ -24,7 +24,7 @@ It shall be an unlawful employment practice for a labor organization—
 
 #### (d) Training programs
 
-It shall be an unlawful employment practice for any employer, labor organization, or joint labor-management committee controlling apprenticeship or other training or retraining, including on-the-job training programs to discriminate against any individual because of his race, color, religion, sex, or national origin in admission to, or employment in, any program established to provide apprenticeship or other training.
+It shall be an unlawful employment practice for any employer, labor organization, or joint labor-management committee controlling apprenticeship or other training or retraining, including on-the-job training programs to discriminate against any individual because of his race, color, religion, sex, or national origin in admission to, or employment in, any programestablished to provide apprenticeship or other training.
 
 #### (e) Businesses or enterprises with personnel qualified on basis of religion, sex, or national origin; educational institutions with personnel of particular religion
 
@@ -104,9 +104,11 @@ Except as otherwise provided in this subchapter, an unlawful employment practice
 
 &emsp;(D) authorize or permit the denial to any person of the due process of law required by the Constitution.
 
-(3) Any action not precluded under this subsection that challenges an employment consent judgment or order described in paragraph (1) shall be brought in the court, and if possible before the judge, that entered such judgment or order. Nothing in this subsection shall preclude a transfer of such action pursuant to section 1404 of title 28.
+(3) Any action not precluded under this subsection that challenges an employment consentjudgment or order described in paragraph (1) shall be brought in the court, and if possible before the judge, that entered such judgment or order. Nothing in this subsection shall preclude a transfer of such action pursuant to section 1404 of title 28.
 
 (Pub. L. 88–352, title VII, §703, July 2, 1964, 78 Stat. 255; Pub. L. 92–261, §8(a), (b), Mar. 24, 1972, 86 Stat. 109; Pub. L. 102–166, title I, §§105(a), 106, 107(a), 108, Nov. 21, 1991, 105 Stat. 1074–1076.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -129,6 +131,8 @@ Subsec. (n). Pub. L. 102–166, §108, added subsec. (n).
 <b>1972</b>—Subsec. (a)(2). Pub. L. 92–261, §8(a), inserted "or applicants for employment" after "his employees".
 
 Subsec. (c)(2). Pub. L. 92–261, §8(b), inserted "or applicants for membership" after "membership".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1991 Amendment
 

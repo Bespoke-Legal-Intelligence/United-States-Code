@@ -20,7 +20,7 @@ As used in this subchapter—
 
 #### (4) Permitting authority
 
-&emsp;The term "permitting authority" means the Administrator or the air pollution controlagency authorized by the Administrator to carry out a permit program under this subchapter.
+&emsp;The term "permitting authority" means the Administrator or the air pollution control agency authorized by the Administrator to carry out a permit program under this subchapter.
 
 (July 14, 1955, ch. 360, title V, §501, as added Pub. L. 101–549, title V, §501, Nov. 15, 1990, 104 Stat. 2635.)
 

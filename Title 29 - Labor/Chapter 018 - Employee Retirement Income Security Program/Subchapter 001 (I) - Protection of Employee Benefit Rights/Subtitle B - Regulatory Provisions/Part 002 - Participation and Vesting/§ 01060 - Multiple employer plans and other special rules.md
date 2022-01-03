@@ -79,7 +79,7 @@ For purposes of sections 1052, 1053, and 1054 of this title, under regulations p
 
 #### (iv) Years of service
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, years of service shall be determined under the rules of paragraphs (1), (2), and (3) of section 1053(b) of this title, except that the plan may not disregard any year of service because of a participant making, or failing to make, any elective deferral with respectto the qualified cash or deferred arrangement to which subparagraph (C) applies.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, years of service shall be determined under the rules of paragraphs (1), (2), and (3) of section 1053(b) of this title, except that the plan may not disregard any year of service because of a participant making, or failing to make, any elective deferral with respect to the qualified cash or deferred arrangement to which subparagraph (C) applies.
 
 #### (C) Contribution requirements
 
@@ -113,7 +113,7 @@ For purposes of sections 1052, 1053, and 1054 of this title, under regulations p
 
 #### (E) Uniform provision of contributions and benefits
 
-&emsp;&emsp;In the case of a defined benefit plan or applicable individual account plan forming part of an eligible combined plan, the requirements of this subparagraph are met if all contributions and benefits under each such plan, and all rights and features under each such plan, must be provided uniformly to all participants.
+&emsp;&emsp;In the case of a defined benefit plan or applicable individual account plan formingpart of an eligible combined plan, the requirements of this subparagraph are met if all contributions and benefits under each such plan, and all rights and features under each such plan, must be provided uniformly to all participants.
 
 #### (F) Requirements must be met without taking into account social security and similar contributions and benefits or other plans
 
@@ -155,7 +155,7 @@ For purposes of sections 1052, 1053, and 1054 of this title, under regulations p
 
 &emsp;&emsp;&emsp;The requirements of this clause are met if each employee to whom subparagraph (A)(i) applies—
 
-&emsp;&emsp;&emsp;&emsp;(I) receives a notice explaining the employee's right under the arrangement to elect not to have elective contributions made on the employee's behalf or tohave the contributions made at a different rate, and
+&emsp;&emsp;&emsp;&emsp;(I) receives a notice explaining the employee's right under the arrangement to elect not to have elective contributions made on the employee's behalf or to have the contributions made at a different rate, and
 
 &emsp;&emsp;&emsp;&emsp;(II) has a reasonable period of time after receipt of such notice and before the first elective contribution is made to make such election.
 
@@ -289,7 +289,7 @@ Pub. L. 113–97, title I, §103(d), Apr. 7, 2014, 128 Stat. 1120, provided that
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under section 72 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section112 of Pub. L. 110–458, set out as a note under section 72 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 2006 Amendment
 

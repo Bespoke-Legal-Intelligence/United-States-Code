@@ -58,7 +58,7 @@ Regulations under subsection (a) shall—
 
 &emsp;(5) require the Administrator to provide a hearing on the record (within the meaning of subchapter II of chapter 5 of title 5) and to make a decision on such petition (including findings of fact and conclusions of law) not later than ninety days after the receipt of any petition under paragraph (4)(B), unless the State agrees to provide a hearing which is substantially similar to such a hearing on the record and to make a decision on such petition (including such findings and conclusions) within such ninety-day period;
 
-&emsp;(6)(A) authorize the Administrator on his own initiative to review the decision of the State under paragraph (5) and disapprove it if it is not in accordance with the requirements of this section, and (B) require the Administrator to do so not later than sixty days after receipt of a petition under this subparagraph, notice, and public hearing and a showing by such petitioner that the State decision under paragraph (5) is not in accordance with the requirements of this section;
+&emsp;(6)(A) authorize the Administrator on his own initiative to review the decision of the State under paragraph (5) and disapprove it if it is not in accordance with the requirements of this section, and (B) require the Administrator to do so not later than sixty days afterreceipt of a petition under this subparagraph, notice, and public hearing and a showing by such petitioner that the State decision under paragraph (5) is not in accordance with the requirements of this section;
 
 &emsp;(7) require payment, in accordance with subsection (d), of the penalty by each person to whom notice of noncompliance is given under paragraph (3) with respect to each noncomplying source for which such notice is given unless there has been a final determination granting a petition under paragraph (4)(B) with respect to such source;
 
@@ -102,7 +102,7 @@ If the owner or operator of any stationary source to whom a notice is issued und
 
 > and ending on the date on which such source comes into (or for the purpose of establishing the schedule of payments, is estimated to come into) compliance with such requirement.
 
-(4) Upon making a determination that a source with respect to which a penalty has been paid under this section is in compliance and is maintaining compliance with the applicable requirement, the State (or the Administrator as the case may be) shall review the actual expenditures made by the owner or operator of such source for the purpose of attaining and maintaining compliance, and shall within 180 days after such source comes into compliance—
+(4) Upon making a determination that a source with respect to which a penalty has been paid under this section is in compliance and is maintaining compliance with the applicable requirement, the State (or the Administrator as the case may be) shall review the actual expenditures made by the owner or operator of suchsource for the purpose of attaining and maintaining compliance, and shall within 180 days after such source comes into compliance—
 
 &emsp;(A) provide reimbursement with interest (to be paid by the State or Secretary of the Treasury, as the case may be) at appropriate prevailing rates (as determined by the Secretary of the Treasury) for any overpayment by such person, or
 
@@ -123,6 +123,8 @@ Any orders, payments, sanctions, or other requirements under this section shall 
 In the case of any emission limitation or other requirement approved or promulgated by the Administrator under this chapter after August 7, 1977, which is more stringent than the emission limitation or requirement for the source in effect prior to such approval or promulgation, if any, or where there was no emission limitation or requirement approved or promulgated before August 7, 1977, the date for imposition of the non-compliance penalty under this section, shall be either July 1, 1979, or the date on which the source is required to be in full compliance with such emission limitation or requirement, whichever is later, but in no event later than three years after the approval or promulgation of such emission limitation or requirement.
 
 (July 14, 1955, ch. 360, title I, §120, as added Pub. L. 95–95, title I, §118, Aug. 7, 1977, 91 Stat. 714; amended Pub. L. 95–190, §14(a)(28)–(38), Nov. 16, 1977, 91 Stat. 1401; Pub. L. 101–549, title VII, §710(a), Nov. 15, 1990, 104 Stat. 2684.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -149,6 +151,8 @@ Subsec. (b)(8). Pub. L. 95–190, §14(a)(32), substituted "(4)" for "(6)".
 Subsec. (d)(2)(A). Pub. L. 95–190, §14(a)(37), inserted provisions relating to inclusion of the economic value of a delay in compliance, and substituted "such a delay" for "a delay in compliance beyond July 1, 1979,".
 
 Subsec. (e). Pub. L. 95–190, §14(a)(38), substituted "subsection, shall" for "subsection shall".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

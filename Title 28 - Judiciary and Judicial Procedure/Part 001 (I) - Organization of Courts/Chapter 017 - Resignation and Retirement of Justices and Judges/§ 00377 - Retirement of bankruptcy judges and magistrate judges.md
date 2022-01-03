@@ -6,7 +6,7 @@ Retirement Based on Years of Service.—A bankruptcy judge or magistrate judge t
 
 (b)
 
-Retirement Upon Failure of Reappointment.—A bankruptcy judge or magistrate judge to whom this section applies, who is not reappointed following the expiration of the term of office of such judge or magistrate judge, and who retires upon the completion of the term shall, subject to subsection (f), be entitled to receive, upon attaining the age of 65 years and during the remainder of such bankruptcy judge'sor magistrate judge's lifetime, an annuity equal to that portion of the salary being received at the time the judge or magistrate judge leaves office which the aggregate number of years of service, not to exceed 14, bears to 14, if—
+Retirement Upon Failure of Reappointment.—A bankruptcy judge or magistrate judge to whom this section applies, who is not reappointed following the expiration of the term of office of such judge or magistrate judge, and who retires upon the completion of the term shall, subject to subsection (f), be entitled to receive, upon attaining the age of 65 years and during the remainder of such bankruptcy judge's or magistrate judge's lifetime, an annuity equal to that portion of the salary being received at the time the judge or magistrate judge leaves office which the aggregate number of years of service, not to exceed 14, bears to 14, if—
 
 &emsp;(1) such judge or magistrate judge has served at least 1 full term as a bankruptcy judge or magistrate judge, and
 
@@ -132,7 +132,7 @@ Recall not permitted.—Any bankruptcy judge or magistrate judge who retires und
 
 &emsp;(3)
 
-Accepting other employment.—Any bankruptcy judge or magistrate judge who retires under this section and thereafter accepts compensation for civil office or employment under the United States Government (other than for the performance of functions as abankruptcy judge or magistrate judge under section 155(b), 375, or 636(h) of this title) shall forfeit all rights to an annuity under this section for the period for which such compensation is received. For purposes of this paragraph, the term "compensation" includes retired pay or salary received in retired status.
+Accepting other employment.—Any bankruptcy judge or magistrate judge who retires under this section and thereafter accepts compensation for civil office or employment under the United States Government (other than for the performance of functions as a bankruptcy judge or magistrate judge under section 155(b), 375, or 636(h) of this title) shall forfeit all rights to an annuity under this section for the period for which such compensation is received. For purposes of this paragraph, the term "compensation" includes retired pay or salary received in retired status.
 
 (n)
 
@@ -176,7 +176,7 @@ Spouses and former spouses.—(A) Payment of the lump-sum credit under paragraph
 
 &emsp;&emsp;&emsp;(II) payment of the lump-sum credit or other payment would extinguish entitlement of the bankruptcy judge's or magistrate judge's spouse or former spouse to any portion of an annuity under subsection (i).
 
-&emsp;(B) Notification of a spouse or former spouse under this paragraph shall be made in accordance with such requirements as the Director of the Administrative Office of the United States Courts shall by regulation prescribe. The Director may provide under such regulations that subparagraph (A)(i) may be waived with respect to a spouse or former spouse if the bankruptcy judge or magistrate judge establishes to the satisfaction of the Director that the whereabouts of such spouse or former spouse cannot be determined.
+&emsp;(B) Notification of a spouse or former spouse under this paragraph shall be made in accordance with such requirements as the Director of the Administrative Office of the United States Courts shall by regulation prescribe. The Director may provide under such regulations that subparagraph (A)(i) may be waived with respect to a spouse or former spouse if the bankruptcy judge or magistrate judge establishes to the satisfaction of the Director thatthe whereabouts of such spouse or former spouse cannot be determined.
 
 &emsp;(C) The Director shall prescribe regulations under which this paragraph shall be applied in any case in which the Director receives two or more orders or decrees described in subparagraph (A).
 
@@ -206,7 +206,7 @@ Establishment.—There is established in the Treasury a fund which shall be know
 
 &emsp;(2)
 
-Investment of fund.—The Secretary of the Treasury shall invest, in interest bearing securities of the United States, such currentlyavailable portions of the Judicial Officers' Retirement Fund as are not immediately required for payments from the Fund. The income derived from these investments constitutes a part of the Fund.
+Investment of fund.—The Secretary of the Treasury shall invest, in interest bearing securities of the United States, such currently available portions of the Judicial Officers' Retirement Fund as are not immediately required for payments from the Fund. The income derived from these investments constitutes a part of the Fund.
 
 &emsp;(3)
 

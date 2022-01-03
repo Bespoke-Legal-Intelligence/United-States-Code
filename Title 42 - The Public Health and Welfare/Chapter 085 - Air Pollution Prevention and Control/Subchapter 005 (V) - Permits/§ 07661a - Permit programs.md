@@ -16,7 +16,7 @@ The Administrator shall promulgate within 12 months after November 15, 1990, reg
 
 &emsp;&emsp;(i) reviewing and acting upon any application for such a permit,
 
-&emsp;&emsp;(ii) if the owner or operator receives a permit for such source, whether before or after November 15, 1990, implementing and enforcing the terms and conditions of any such permit (not including any court costs or other costs associated with any enforcement action),
+&emsp;&emsp;(ii) if the owner or operator receives a permit for such source, whether before or afterNovember 15, 1990, implementing and enforcing the terms and conditions of any such permit (not including any court costs or other costs associated with any enforcement action),
 
 &emsp;&emsp;(iii) emissions and ambient monitoring,
 
@@ -64,7 +64,7 @@ The Administrator shall promulgate within 12 months after November 15, 1990, reg
 
 &emsp;&emsp;(F) assure that no permit will be issued if the Administrator objects to its issuance in a timely manner under this subchapter.
 
-&emsp;(6) Adequate, streamlined, and reasonable procedures for expeditiously determining when applications are complete, for processing such applications, for public notice, including offering an opportunity for public comment and a hearing, and for expeditious review of permit actions, including applications, renewals, or revisions, and including an opportunity for judicial review in State court of the final permit action by the applicant, any person who participated in the public comment process, and any other person who could obtain judicial review of that action under applicable law.
+&emsp;(6) Adequate, streamlined, and reasonable procedures for expeditiously determining when applications are complete, for processing such applications, for public notice, including offering an opportunity for public comment and a hearing, and for expeditious review of permit actions, including applications, renewals, or revisions, and including an opportunity for judicial review in State court of the final permitaction by the applicant, any person who participated in the public comment process, and any other person who could obtain judicial review of that action under applicable law.
 
 &emsp;(7) To ensure against unreasonable delay by the permitting authority, adequate authority and procedures to provide that a failure of such permitting authority to act on a permit application or permit renewal application (in accordance with the time periods specified in section 7661b of this title or, as appropriate, subchapter IV–A) shall be treated as a final permit action solely for purposes of obtaining judicial review in State court of an action brought by any person referred to in paragraph (6) to require that action be taken by the permitting authority on such application without additional delay.
 
@@ -118,7 +118,7 @@ The effective date of a permit program, or partial or interim program, approved 
 
 (1) Whenever the Administrator makes a determination that a permitting authority is not adequately administering and enforcing a program, or portion thereof, in accordance with the requirements of this subchapter, the Administrator shall provide notice to the State and may, prior to the expiration of the 18-month period referred to in paragraph (2), in the Administrator's discretion, apply any of the sanctions specified in section 7509(b) of this title.
 
-(2) Whenever the Administrator makes a determination that a permitting authority is not adequately administering and enforcing a program, or portion thereof, in accordance with the requirements of this subchapter, 18 months after the date of the notice under paragraph (1), the Administrator shall apply the sanctions undersection 7509(b) of this title in the same manner and subject to the same deadlines and other conditions as are applicable in the case of a determination, disapproval, or finding under section 7509(a) of this title.
+(2) Whenever the Administrator makes a determination that a permitting authority is not adequately administering and enforcing a program, or portion thereof, in accordance with the requirements of this subchapter, 18 months after the date of the notice under paragraph (1), the Administrator shall apply the sanctions under section 7509(b) of this title in the same manner and subject to the same deadlines and other conditions as are applicable in the case of a determination, disapproval, or finding under section 7509(a) of this title.
 
 (3) The sanctions under section 7509(b)(2) of this title shall not apply pursuant to this subsection in any area unless the failure to adequately enforce and administer the program relates to an air pollutant for which such area has been designated a nonattainment area.
 

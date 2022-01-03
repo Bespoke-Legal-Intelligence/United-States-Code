@@ -136,7 +136,7 @@ Relationship to Existing Authority.—Nothing in this section shall be construed
 
 #### Identification, Consolidation, and Elimination of Duplicative Government Programs
 
-Pub. L. 111–139, title II, §21, Feb. 12, 2010, 124 Stat. 29, provided that: "The Comptroller General of the Government Accountability Office shall conduct routineinvestigations to identify programs, agencies, offices, and initiatives with duplicative goals and activities within Departments and governmentwide and report annually to Congress on the findings, including the cost of such duplication and with recommendations for consolidation and elimination to reduce duplication identifying specific rescissions."
+Pub. L. 111–139, title II, §21, Feb. 12, 2010, 124 Stat. 29, provided that: "The Comptroller General of the Government Accountability Office shall conduct routine investigations to identify programs, agencies, offices, and initiatives with duplicative goals and activities within Departments and governmentwide and report annually to Congress on the findings, including the cost of such duplication and with recommendations for consolidation and elimination to reduce duplication identifying specific rescissions."
 
 #### Report on Tobacco Settlement Agreement
 

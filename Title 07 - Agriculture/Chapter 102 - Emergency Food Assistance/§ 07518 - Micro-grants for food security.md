@@ -114,7 +114,7 @@ The Secretary shall distribute funds to the agricultural department or agency of
 
 #### (C) Project period
 
-&emsp;&emsp;Funds received by an eligible entity that is awarded a subgrant under this section shall remain available for expenditure not later than 3 years after the date the funds are received.
+&emsp;&emsp;Funds received by an eligible entity that is awarded a subgrant under this sectionshall remain available for expenditure not later than 3 years after the date the funds are received.
 
 #### (2) Priority
 
@@ -122,7 +122,7 @@ The Secretary shall distribute funds to the agricultural department or agency of
 
 &emsp;&emsp;(A) has not previously received a subgrant under this section; or
 
-&emsp;&emsp;(B) is located in a community or region in that eligible State with the highest degreeof food insecurity, as determined by the agricultural department or agency of the eligible State.
+&emsp;&emsp;(B) is located in a community or region in that eligible State with the highest degree of food insecurity, as determined by the agricultural department or agency of the eligible State.
 
 #### (3) Projects
 
@@ -200,6 +200,8 @@ The Secretary shall distribute funds to the agricultural department or agency of
 
 (Pub. L. 115–334, title IV, §4206, Dec. 20, 2018, 132 Stat. 4663.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Head Start Act, referred to in subsec. (b)(1)(A)(iv)(I), is subchapter B (§635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
@@ -209,6 +211,8 @@ The Food Security Act of 1985, referred to in subsec. (e)(4)(D), is Pub. L. 99�
 #### Codification
 
 Section was enacted as part of the Agriculture Improvement Act of 2018, and not as part of the Emergency Food Assistance Act of 1983 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definition of "Secretary"
 

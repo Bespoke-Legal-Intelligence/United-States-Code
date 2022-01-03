@@ -16,9 +16,11 @@
 
 (July 1, 1944, ch. 373, title III, §392, as added Pub. L. 99–649, §3, Nov. 10, 1986, 100 Stat. 3634; amended Pub. L. 101–558, §2(b), Nov. 15, 1990, 104 Stat. 2772; Pub. L. 102–531, title III, §§301, 312(d)(4), Oct. 27, 1992, 106 Stat. 3482, 3504; Pub. L. 103–183, title II, §203(a)(2), (b)(1), Dec. 14, 1993, 107 Stat. 2232.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Occupational Safety and Health Act of 1970, referred to in subsec. (b)(3), is Pub. L. 91–596, Dec. 29, 1970,84 Stat. 1590, as amended, which is classified principally to chapter 15 (§651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
+The Occupational Safety and Health Act of 1970, referred to in subsec. (b)(3), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
 
 #### Codification
 
@@ -42,7 +44,7 @@ Subsec. (b)(2). Pub. L. 103–183, §203(b)(1), substituted "to promote activiti
 
 Subsec. (b)(1). Pub. L. 102–531, §301(1), struck out "and" after semicolon at end.
 
-Subsec. (b)(2). Pub. L. 102–531, §301(2), inserted sentence requiring Secretary to disseminate information on injury control to the public, including through elementary and secondary schools and substituted "; and" for period at end.
+Subsec. (b)(2). Pub. L. 102–531, §301(2), inserted sentence requiring Secretary to disseminate informationon injury control to the public, including through elementary and secondary schools and substituted "; and" for period at end.
 
 Subsec. (b)(3). Pub. L. 102–531, §301(3), added par. (3).
 

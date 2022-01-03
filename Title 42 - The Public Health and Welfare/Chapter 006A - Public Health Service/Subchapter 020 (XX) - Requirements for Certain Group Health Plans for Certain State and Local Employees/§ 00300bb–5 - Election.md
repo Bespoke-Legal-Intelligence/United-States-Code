@@ -26,7 +26,7 @@ For purposes of this subchapter—
 
 #### (1) In general
 
-&emsp;In the case of a nonelecting TAA-eligible individual and notwithstanding subsection (a), such individual may elect continuation coverage under this subchapter during the 60-day period that begins on the first day of the month in which the individual becomes a TAA-eligible individual, but only if such election is made not later than 6 months after the date of the TAA-related loss of coverage.
+&emsp;In the case of a nonelecting TAA-eligible individual and notwithstanding subsection (a),such individual may elect continuation coverage under this subchapter during the 60-day period that begins on the first day of the month in which the individual becomes a TAA-eligible individual, but only if such election is made not later than 6 months after the date of the TAA-related loss of coverage.
 
 #### (2) Commencement of coverage; no reach-back
 
@@ -72,6 +72,8 @@ For purposes of this subchapter—
 
 (July 1, 1944, ch. 373, title XXII, §2205, as added Pub. L. 99–272, title X, §10003(a), Apr. 7, 1986, 100 Stat. 235; amended Pub. L. 99–514, title XVIII, §1895(d)(5)(C), Oct. 22, 1986, 100 Stat. 2939; Pub. L. 107–210, div. A, title II, §203(e)(2), Aug. 6, 2002, 116 Stat. 970.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 2701, referred to in subsec. (b)(3), is a reference to section 2701 of act July 1, 1944. Section 2701, which was classified to section 300gg of this title, was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and was transferred to section 300gg–3 of this title. A new section 2701 of act July 1, 1944, related to fair health insurance premiums, was added, effective for plan years beginning on or after Jan. 1, 2014, and amended, by Pub. L. 111–148, title I, §1201(4), title X, §10103(a), Mar. 23, 2010, 124 Stat. 155, 892, and is classified to section 300gg of this title.
@@ -80,7 +82,9 @@ Section 2701, referred to in subsec. (b)(3), is a reference to section 2701 of a
 
 <b>2002</b>—Pub. L. 107–210 designated existing provisions as subsec. (a), inserted subsec. heading, and added subsec. (b).
 
-<b>1986</b>—Par. (2). Pub. L. 99–514 inserted "of continuation coverage" after "any election" and inserted at end "If there is a choice among types of coverage under the plan, each qualified beneficiary is entitled to make a separate selection among such types of coverage.".
+<b>1986</b>—Par. (2). Pub. L. 99–514 inserted "of continuation coverage" after "any election" and inserted at end "If there is a choice among types of coverage under the plan, each qualified beneficiary is entitled to make a separate selection among such types of coverage."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 
@@ -88,7 +92,7 @@ Amendment by Pub. L. 107–210 applicable to petitions for certification filed u
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in enactment of the Consolidated Omnibus Budget Reconciliation Act of 1985,Pub. L. 99–272, see section 1895(e) of Pub. L. 99–514, set out as a note under section 162 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in enactment of the Consolidated Omnibus Budget Reconciliation Act of 1985, Pub. L. 99–272, see section 1895(e) of Pub. L. 99–514, set out as a note under section 162 of Title 26, Internal Revenue Code.
 
 #### Construction of 2002 Amendment
 

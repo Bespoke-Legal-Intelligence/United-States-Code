@@ -32,9 +32,11 @@ In this section, the term "national dairy policy" means the dairy policy of the 
 
 (Pub. L. 107–171, title I, §1507, May 13, 2002, 116 Stat. 210.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-H.R. 1827, referred to in subsec. (c)(2), which would have granted consent to the Northeast Interstate Dairy Compact, the Southern Dairy Compact, the Pacific Northwest Dairy Compact, and the Intermountain Dairy Compact, was not enacted into law during the 107th Congress.
+H.R. 1827, referred to in subsec. (c)(2), which would have granted consent to the Northeast Interstate DairyCompact, the Southern Dairy Compact, the Pacific Northwest Dairy Compact, and the Intermountain Dairy Compact, was not enacted into law during the 107th Congress.
 
 S. 1157, referred to in subsec. (c)(2), which would have granted consent to the Northeast Interstate Dairy Compact, the Southern Dairy Compact, the Pacific Northwest Dairy Compact, and the Intermountain Dairy Compact, was not enacted into law during the 107th Congress.
 

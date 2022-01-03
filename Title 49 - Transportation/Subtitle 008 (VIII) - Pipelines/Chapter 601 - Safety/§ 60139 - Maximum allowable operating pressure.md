@@ -70,6 +70,8 @@ High-consequence Area Defined.—In this section, the term "high-consequence are
 
 (Added Pub. L. 112–90, §23(a), Jan. 3, 2012, 125 Stat. 1918.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this section, referred to in subsecs. (a)(1), (b)(1), and (d)(1), is the date of enactment of Pub. L. 112–90, which was approved Jan. 3, 2012.

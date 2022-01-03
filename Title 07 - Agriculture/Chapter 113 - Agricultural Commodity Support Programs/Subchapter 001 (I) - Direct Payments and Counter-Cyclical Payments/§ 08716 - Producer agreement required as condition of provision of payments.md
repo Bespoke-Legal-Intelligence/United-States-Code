@@ -4,7 +4,7 @@
 
 #### (1) Requirements
 
-&emsp;Before the producers on a farm may receive direct payments, counter-cyclical payments, or average crop revenue election payments with respect to the farm, the producers shall agree, during the crop year for which the payments are made and in exchange for the payments—
+&emsp;Before the producers on a farm may receive direct payments, counter-cyclical payments, or average crop revenue election payments with respect to the farm, the producers shallagree, during the crop year for which the payments are made and in exchange for the payments—
 
 &emsp;&emsp;(A) to comply with applicable conservation requirements under subtitle B of title XII of the Food Security Act of 1985 (16 U.S.C. 3811 et seq.);
 
@@ -78,9 +78,11 @@ The Secretary shall provide for the sharing of direct payments, counter-cyclical
 
 (Pub. L. 110–234, title I, §1106, May 22, 2008, 122 Stat. 949; Pub. L. 110–246, §4(a), title I, §1106, June 18, 2008, 122 Stat. 1664, 1677; Pub. L. 110–398, §1(b)(1), Oct. 13, 2008, 122 Stat. 4213.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Food Security Act of 1985, referred to in subsec. (a)(1)(A), (B), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat.1354. Subtitles B and C of title XII of the Act are classified generally to subchapters II (§3811 et seq.) and III (§3821 et seq.), respectively, of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
+The Food Security Act of 1985, referred to in subsec. (a)(1)(A), (B), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subtitles B and C of title XII of the Act are classified generally to subchapters II (§3811 et seq.) and III (§3821 et seq.), respectively, of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
 Section 8715 of this title, referred to in subsec. (c)(2), was repealed by Pub. L. 113–79, title I, §1103(a), Feb. 7, 2014, 128 Stat. 658.
 
@@ -91,6 +93,8 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 #### Amendments
 
 <b>2008</b>—Subsec. (f). Pub. L. 110–398 added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

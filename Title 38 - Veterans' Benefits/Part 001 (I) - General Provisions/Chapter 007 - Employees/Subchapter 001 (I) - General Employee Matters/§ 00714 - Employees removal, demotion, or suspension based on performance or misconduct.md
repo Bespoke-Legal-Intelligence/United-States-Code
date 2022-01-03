@@ -58,7 +58,7 @@ Expedited Review.—(1) Upon receipt of an appeal under subsection (c)(4)(A), th
 
 (B) Any decision by such Court shall be in compliance with section 7462(f)(2) of this title.
 
-(6) The Merit Systems Protection Board may not stay any removal or demotion under thissection, except as provided in section 1214(b) of title 5.
+(6) The Merit Systems Protection Board may not stay any removal or demotion under this section, except as provided in section 1214(b) of title 5.
 
 (7) During the period beginning on the date on which a covered individual appeals a removal from the civil service under subsection (c) and ending on the date that the United States Court of Appeals for the Federal Circuit issues a final decision on such appeal, such covered individual may not receive any pay, awards, bonuses, incentives, allowances, differentials, student loan repayments, special payments, or benefits related to the employment of the individual by the Department.
 
@@ -102,7 +102,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(D) a political appointee.
 
-&emsp;(2) The term "suspend" means the placing of an employee, for disciplinary reasons, in a temporary status without duties and pay for a period in excess of 14 days.
+&emsp;(2) The term "suspend" means the placing of an employee, for disciplinary reasons, in atemporary status without duties and pay for a period in excess of 14 days.
 
 &emsp;(3) The term "grade" has the meaning given such term in section 7511(a) of title 5.
 

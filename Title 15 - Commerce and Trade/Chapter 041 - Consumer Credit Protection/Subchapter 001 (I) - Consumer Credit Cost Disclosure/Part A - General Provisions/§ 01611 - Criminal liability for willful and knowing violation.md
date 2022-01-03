@@ -12,9 +12,13 @@ Whoever willfully and knowingly
 
 (Pub. L. 90–321, title I, §112, May 29, 1968, 82 Stat. 151; Pub. L. 111–203, title X, §1100A(2), July 21, 2010, 124 Stat. 2107.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Par. (2). Pub. L. 111–203 substituted "Bureau" for "Board".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

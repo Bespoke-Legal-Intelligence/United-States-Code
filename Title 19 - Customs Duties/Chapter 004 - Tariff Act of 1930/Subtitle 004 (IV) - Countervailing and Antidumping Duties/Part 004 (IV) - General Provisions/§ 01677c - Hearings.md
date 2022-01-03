@@ -8,7 +8,7 @@
 
 #### (2) Exception
 
-&emsp;If investigations are initiated under part I and part II of this subtitle regarding the same merchandise from the same country within 6 months of each other (but before a final determination is made in either investigation), the holding of a hearing by the Commission in the course of one of the investigations shall be treated as compliance with paragraph (1) for both investigations, unless the Commission considers that special circumstances require that a hearing be held in the course of each of the investigations. During any investigation regarding which the holding of a hearing is waived under this paragraph, the Commission shall allow any party to submit such additional written comment as it considers relevant.
+&emsp;If investigations are initiated under part I and part II of this subtitle regarding the samemerchandise from the same country within 6 months of each other (but before a final determination is made in either investigation), the holding of a hearing by the Commission in the course of one of the investigations shall be treated as compliance with paragraph (1) for both investigations, unless the Commission considers that special circumstances require that a hearing be held in the course of each of the investigations. During any investigation regarding which the holding of a hearing is waived under this paragraph, the Commission shall allow any party to submit such additional written comment as it considers relevant.
 
 #### (b) Procedures
 
@@ -16,9 +16,13 @@ Any hearing required or permitted under this subtitle shall be conducted after n
 
 (June 17, 1930, ch. 497, title VII, §774, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 186; amended Pub. L. 98–573, title VI, §616, Oct. 30, 1984, 98 Stat. 3037.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–573 designated existing provisions as par. (1), inserted "Except as provided in paragraph (2),", and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

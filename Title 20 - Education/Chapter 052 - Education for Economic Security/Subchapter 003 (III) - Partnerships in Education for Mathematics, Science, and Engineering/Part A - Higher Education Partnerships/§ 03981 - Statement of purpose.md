@@ -10,9 +10,13 @@ It is the purpose of this part to supplement State and local resources to—
 
 (Pub. L. 98–377, title III, §302, Aug. 11, 1984, 98 Stat. 1283; Pub. L. 100–418, title VI, §6031(b)(2), Aug. 23, 1988, 102 Stat. 1483.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–418 substituted "part" for "subchapter" in introductory text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

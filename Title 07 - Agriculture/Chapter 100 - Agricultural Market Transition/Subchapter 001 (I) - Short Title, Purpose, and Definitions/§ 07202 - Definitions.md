@@ -68,6 +68,8 @@ In this chapter:
 
 (Pub. L. 104–127, title I, §102, Apr. 4, 1996, 110 Stat. 897.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For definition of "this chapter", referred to in text, see note set out under section 7201 of this title.

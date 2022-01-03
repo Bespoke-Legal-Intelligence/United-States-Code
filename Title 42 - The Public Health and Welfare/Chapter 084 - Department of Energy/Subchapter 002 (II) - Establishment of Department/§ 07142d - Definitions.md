@@ -12,6 +12,8 @@ For purposes of sections 7142a to 7142d of this title:
 
 (Pub. L. 106–554, §1(a)(4) \[div. B, title IV, §404\], Dec. 21, 2000, 114 Stat. 2763, 2763A–268.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 7142a to 7142d of this title, referred to in text, was in the original "this Act", and was translated as reading "this title", meaning §1(a)(4) \[div. B, title IV\] of Pub. L. 106–554, which enacted sections 7142a to 7142d of this title, to reflect the probable intent of Congress.

@@ -1,6 +1,6 @@
 ### §3321. Disbursing authority in the executive branch
 
-(a) Except as provided in this section or another law, only officers and employees of the Department of the Treasury designated by the Secretary of the Treasury as disbursing officialsmay disburse public money available for expenditure by an executive agency.
+(a) Except as provided in this section or another law, only officers and employees of the Department of the Treasury designated by the Secretary of the Treasury as disbursing officials may disburse public money available for expenditure by an executive agency.
 
 (b) For economy and efficiency, the Secretary may delegate the authority to disburse public money to officers and employees of other executive agencies.
 
@@ -98,7 +98,7 @@ Strategic sourcing.—The term 'strategic sourcing' means analyzing and modifyin
 
 "(a)
 
-Strategy.—Not later than 180 days after the date of the enactment of this Act \[Dec. 12, 2017\], the Director of the Office of Management and Budget, in consultation with the Administrator for General Services, shall develop a strategy to expand the use of data analytics in managing government purchase and travelcharge card programs. These analytics may employ existing General Services Administration capabilities, and may be in conjunction with agencies' capabilities, for the purpose of—
+Strategy.—Not later than 180 days after the date of the enactment of this Act \[Dec. 12, 2017\], the Director of the Office of Management and Budget, in consultation with the Administrator for General Services, shall develop a strategy to expand the use of data analytics in managing government purchase and travel charge card programs. These analytics may employ existing General Services Administration capabilities, and may be in conjunction with agencies' capabilities, for the purpose of—
 
 &emsp;"(1) identifying examples or patterns of questionable transactions and developing enhanced tools and methods for agency use in—
 
@@ -176,7 +176,7 @@ Pub. L. 114–186, June 30, 2016, 130 Stat. 546, known as the "Fraud Reduction a
 
 #### Improper Payments Elimination and Recovery Improvement
 
-Pub. L. 112–248, Jan. 10, 2013, 126 Stat. 2390, as amended by Pub. L. 113–67, div. A, title II, §204(c), Dec. 26, 2013, 127 Stat. 1181; Pub. L. 114–109, §§2–4, Dec. 18, 2015, 129 Stat. 2225–2227, known as the "Improper Payments Elimination and Recovery Improvement Act of 2012", which set out to improve identification, prevention,and recovery of improper payments, including through the establishment of the Do Not Pay Initiative, was repealed by Pub. L. 116–117, §3(a)(3), Mar. 2, 2020, 134 Stat. 133.
+Pub. L. 112–248, Jan. 10, 2013, 126 Stat. 2390, as amended by Pub. L. 113–67, div. A, title II, §204(c), Dec. 26, 2013, 127 Stat. 1181; Pub. L. 114–109, §§2–4, Dec. 18, 2015, 129 Stat. 2225–2227, known as the "Improper Payments Elimination and Recovery Improvement Act of 2012", which set out to improve identification, prevention, and recovery of improper payments, including through the establishment of the Do Not Pay Initiative, was repealed by Pub. L. 116–117, §3(a)(3), Mar. 2, 2020, 134 Stat. 133.
 
 #### Determinations of Agency Readiness for Opinion on Internal Control
 

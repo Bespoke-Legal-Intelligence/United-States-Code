@@ -58,7 +58,7 @@ The purposes of the Foundation shall be—
 
 &emsp;The Foundation shall—
 
-&emsp;&emsp;(A) award grants to, or enter into contracts, memoranda of understanding, or cooperative agreements with, scientists and entities, which may include agricultural research agencies in the Department, university consortia, public-private partnerships, institutions of higher education, nonprofitorganizations, and industry, to efficiently and effectively advance the goals and priorities of the Foundation;
+&emsp;&emsp;(A) award grants to, or enter into contracts, memoranda of understanding, or cooperative agreements with, scientists and entities, which may include agricultural research agencies in the Department, university consortia, public-private partnerships, institutions of higher education, nonprofit organizations, and industry, to efficiently and effectively advance the goals and priorities of the Foundation;
 
 &emsp;&emsp;(B) in consultation with the Secretary—
 
@@ -358,7 +358,7 @@ The purposes of the Foundation shall be—
 
 #### (B) Financial conflicts of interest
 
-&emsp;&emsp;Any individual who is an officer, employee, or member of the Board is prohibitedfrom any participation in deliberations by the Foundation of a matter that would directly or predictably affect any financial interest of—
+&emsp;&emsp;Any individual who is an officer, employee, or member of the Board is prohibited from any participation in deliberations by the Foundation of a matter that would directly or predictably affect any financial interest of—
 
 &emsp;&emsp;&emsp;(i) the individual;
 
@@ -407,6 +407,8 @@ The purposes of the Foundation shall be—
 &emsp;The Executive Director shall ensure that any funds received under paragraph (1) are held in separate accounts from funds received from nongovernmental entities as described in subsection (f)(2)(A)(iii).
 
 (Pub. L. 113–79, title VII, §7601, Feb. 7, 2014, 128 Stat. 904; Pub. L. 115–334, title VII, §7603, Dec. 20, 2018, 132 Stat. 4826.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

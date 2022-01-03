@@ -48,7 +48,7 @@ Subsec. (c)(1). Pub. L. 94–424 substituted provisions authorizing appropriatio
 
 #### Change of Name
 
-Reference to Veterans Health Services and Research Administration (or to Department of Medicine and Surgery of the Veterans' Administration) deemed to refer to Veterans Health Administration pursuant to section2 of Pub. L. 102–40, set out as a Renaming of Veterans Health Services and Research Administration note under section 301 of this title.
+Reference to Veterans Health Services and Research Administration (or to Department of Medicine and Surgery of the Veterans' Administration) deemed to refer to Veterans Health Administration pursuant to section 2 of Pub. L. 102–40, set out as a Renaming of Veterans Health Services and Research Administration note under section 301 of this title.
 
 Reference to Department of Medicine and Surgery deemed to refer to Veterans Health Services and Research Administration of the Department of Veterans Affairs, pursuant to section 10 of Pub. L. 100–527, set out as a Department of Veterans Affairs Act note under section 301 of this title.
 

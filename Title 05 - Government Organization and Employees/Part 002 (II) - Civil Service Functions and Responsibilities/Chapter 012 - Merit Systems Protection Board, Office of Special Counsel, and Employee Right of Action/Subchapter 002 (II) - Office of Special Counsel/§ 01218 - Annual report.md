@@ -2,7 +2,7 @@
 
 The Special Counsel shall submit to Congress, on an annual basis, a report regarding the activities of the Special Counsel, which shall include, for the year preceding the submission of the report—
 
-&emsp;(1) the number, types, and disposition of allegations of prohibited personnel practicesfiled with the Special Counsel and the costs of resolving such allegations;
+&emsp;(1) the number, types, and disposition of allegations of prohibited personnel practices filed with the Special Counsel and the costs of resolving such allegations;
 
 &emsp;(2) the number of investigations conducted by the Special Counsel;
 

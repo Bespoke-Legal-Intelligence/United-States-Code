@@ -8,6 +8,8 @@ The purposes of sections 12705a to 12705d of this title are—
 
 (Pub. L. 102–550, title XII, §1202, Oct. 28, 1992, 106 Stat. 3938.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 12705a to 12705d of this title, referred to in text, were in the original "this title", meaning title XII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3938, known as the Removal of Regulatory Barriers to Affordable Housing Act of 1992, which enacted sections 12705a to 12705d of this title, amended sections 5306 and 12705 of this title, and enacted provisions set out as a note below.
@@ -16,6 +18,8 @@ Sections 12705a to 12705d of this title, referred to in text, were in the origin
 
 Section was enacted as part of the Removal of Regulatory Barriers to Affordable Housing Act of 1992, and also as part of the Housing and Community Development Act of 1992, and not as part of the Cranston-Gonzalez National Affordable Housing Act which comprises this chapter.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title
 
 Pub. L. 102–550, title XII, §1201, Oct. 28, 1992, 106 Stat. 3938, provided that: "This title \[enacting this section and sections 12705b to 12705d of this title, amending sections 5306 and 12705 of this title, and enacting provisions set out as a note below\] may be cited as the 'Removal of Regulatory Barriers to Affordable Housing Act of 1992'."
@@ -23,6 +27,8 @@ Pub. L. 102–550, title XII, §1201, Oct. 28, 1992, 106 Stat. 3938, provided th
 #### Report by Secretary
 
 Pub. L. 102–550, title XII, §1207, Oct. 28, 1992, 106 Stat. 3941, provided that not later than 2 years after Oct. 28, 1992, the Secretary of Housing and Urban Development submit a report to Congress describing any successful State and local strategies for removal of barriers to affordable housing, assessing impact of identified regulatory barriers on housing patterns of minorities, and describing any strategies developed or implemented by Department of Housing and Urban Development for reducing barriers to affordable housing imposed by Federal Government, prior to repeal by Pub. L. 105–362, title VII, §701(b), Nov. 10, 1998, 112 Stat. 3287.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13878. Establishing a White House Council on Eliminating Regulatory Barriers to Affordable Housing
 
@@ -34,7 +40,7 @@ Section 1. <i>Purpose</i>. For many Americans, access to affordable housing is b
 
 Driving the rise in housing costs is a lack of housing supply to meet demand. Federal, State, local, and tribal governments impose a multitude of regulatory barriers—laws, regulations, and administrative practices—that hinder the development of housing. These regulatory barriers include: overly restrictive zoning and growth management controls; rent controls; cumbersome building and rehabilitation codes; excessive energy and water efficiency mandates; unreasonable maximum-density allowances; historic preservation requirements; overly burdensome wetland or environmental regulations; outdated manufactured-housing regulations and restrictions; undue parking requirements; cumbersome and time-consuming permitting and review procedures; tax policies that discourage investment or reinvestment; overly complex labor requirements; and inordinate impact or developer fees. These regulatory barriers increase the costs associated with development, and, as a result, drive down the supply of affordable housing. They are the leading factor in the growth of housing prices across metropolitan areas in the United States. Many of the markets with the most severe shortages in affordable housing contend with the most restrictive State and local regulatory barriers to development.
 
-These regulatory barriers impede our Nation's economic growth. Hardworking American families struggle to live in markets where there is an insufficient supply of housing—even in markets generating a significant number of jobs. One recent study suggests that certain regulatory restrictions on housing supply have forced workers to live far away from high-productivity areas with the best available jobs, creating a geographic misallocation of labor between cities that may have decreased the annual economic growth rate in the United States by 36 percent between 1964 and 2009.
+These regulatory barriers impede our Nation's economic growth. Hardworking American families struggle to live in markets where there is an insufficient supply of housing—even in markets generating a significant number of jobs. One recent study suggests that certain regulatory restrictions on housing supply have forced workers to live far away from high-productivity areas with the best available jobs, creating a geographic misallocation of labor between cities that mayhave decreased the annual economic growth rate in the United States by 36 percent between 1964 and 2009.
 
 Low- and middle-income Americans are often hit the hardest by regulatory barriers to housing development. High housing costs place strains on household budgets, limit educational opportunities, impair workforce mobility, slow job creation, and increase financial risks. Furthermore, studies have consistently identified high housing prices as a primary determinant of homelessness, and research has directly linked more stringent housing market regulation to higher homelessness rates.
 
@@ -80,7 +86,7 @@ Sec. 4. <i>Mission and Functions of the Council</i>. The Council shall work acro
 
 (ii) identify practices and strategies that most successfully reduce and remove burdensome Federal, State, local, and tribal laws, regulations, and administrative practices that artificially raise the costs of housing development, while highlighting actors that successfully implement such practices and strategies;
 
-(b) evaluate and quantify the effect that various Federal, State, local, and tribal regulatory barriers haveon affordable housing development, and the economy in general, and identify ways to improve the data available to the public and private researchers who evaluate such effects, without violating privacy laws or creating unnecessary burdens;
+(b) evaluate and quantify the effect that various Federal, State, local, and tribal regulatory barriers have on affordable housing development, and the economy in general, and identify ways to improve the data available to the public and private researchers who evaluate such effects, without violating privacy laws or creating unnecessary burdens;
 
 (c) identify and assess the actions each agency can take under existing authorities to minimize Federal regulatory barriers that unnecessarily raise the costs of housing development;
 

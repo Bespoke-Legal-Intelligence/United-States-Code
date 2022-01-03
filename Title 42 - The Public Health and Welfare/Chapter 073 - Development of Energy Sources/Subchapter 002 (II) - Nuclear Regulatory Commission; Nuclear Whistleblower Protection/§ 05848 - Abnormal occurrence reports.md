@@ -14,6 +14,8 @@ The Commission shall submit to the Congress an annual report listing for the pre
 
 (Pub. L. 93–438, title II, §208, Oct. 11, 1974, 88 Stat. 1248; Pub. L. 104–66, title II, §2171, Dec. 21, 1995, 109 Stat. 731.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Atomic Energy Act of 1954, referred to in text, is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
@@ -24,17 +26,21 @@ This chapter, referred to in text, was in the original "this Act", meaning Pub. 
 
 <b>1995</b>—Pub. L. 104–66 substituted "an annual report listing for the previous fiscal year" for "each quarter a report listing for that period" in first sentence.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 9th item on page 186 identifies a reporting provision which, as subsequently amended, is contained in this section), see section 3003 of Pub. L. 104–66, set out as a note under section 1113 of Title 31, Money and Finance.
 
-#### Transfer of Functions
-
-For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg. Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out as a note under section 5841 of this title.
-
 #### President's Commission on the Accident at Three Mile Island; Subpena Power
 
 Pub. L. 96–12, May 23, 1979, 93 Stat. 26, which authorized the President's Commission on the Accident at Three Mile Island, as established by Ex. Ord. No. 12130, Apr. 11, 1979, 44 F.R. 22027, formerly set out below, to issue subpenas requiring the attendance and testimony of witnesses and the produce of any evidence from the Nuclear Regulatory Commission or any person which related to the accident at Three Mile Island, and to issue orders for the inspection of the Three Mile Island nuclear power plant, with refusal to obey a subpena or inspection order punishable by contempt of court.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg. Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out as a note under section 5841 of this title.
 
 #### Executive Order No. 12130
 
@@ -42,5 +48,5 @@ Ex. Ord. No. 12130, Apr. 11, 1979, 44 F.R. 22027, which established the Presiden
 
 #### Executive Order No. 12202
 
-Ex. Ord. No. 12202, Mar. 18, 1980, 45 F.R. 17939, as amended by Ex. Ord. No. 12240, Sept. 26, 1980, 45 F.R. 64545, which established the Nuclear Safety Oversight Committee and provided for its membership, functions,etc., was revoked by Ex. Ord. No. 12379, §22, Aug. 17, 1982, 47 F.R. 36100 and Ex. Ord. No. 12399, §4(c), Dec. 31, 1982, 48 F.R. 380, formerly set out as notes under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12202, Mar. 18, 1980, 45 F.R. 17939, as amended by Ex. Ord. No. 12240, Sept. 26, 1980, 45 F.R. 64545, which established the Nuclear Safety Oversight Committee and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, §22, Aug. 17, 1982, 47 F.R. 36100 and Ex. Ord. No. 12399, §4(c), Dec. 31, 1982, 48 F.R. 380, formerly set out as notes under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 

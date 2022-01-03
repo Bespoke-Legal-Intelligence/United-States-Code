@@ -14,6 +14,8 @@
 
 (Added Pub. L. 98–525, title VII, §705(a)(1), Oct. 19, 1984, 98 Stat. 2567, §2136; amended Pub. L. 101–189, div. A, title VI, §§642(c), 645(a)(1), Nov. 29, 1989, 103 Stat. 1457, 1458; Pub. L. 101–237, title IV, §§405(d)(3), 422(b)(1), Dec. 18, 1989, 103 Stat. 2081, 2089; Pub. L. 101–510, div. A, title XIV, §1484(j)(3), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 102–16, §10(b), Mar. 22, 1991, 105 Stat. 56; Pub. L. 102–568, title III, §§313(a)(6), 319, 320(a)(3), Oct. 29, 1992, 106 Stat. 4333, 4335, 4336; renumbered §16136, Pub. L. 103–337, div. A, title XVI, §1663(b)(2), Oct. 5, 1994, 108 Stat. 3006; Pub. L. 103–446, title VI, §601(c), Nov. 2, 1994, 108 Stat. 4670; Pub. L. 105–368, title II, §204(b), Nov. 11, 1998, 112 Stat. 3327; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–296 substituted "Secretary of Homeland Security" for "Secretary of Transportation".
@@ -42,6 +44,8 @@ Pub. L. 101–189, §642(c), amended first sentence generally and substituted "a
 
 Subsec. (c). Pub. L. 101–237, §422(b)(1), added subsec. (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
@@ -60,7 +64,7 @@ Pub. L. 101–237, title IV, §405(e), Dec. 18, 1989, 103 Stat. 2082, provided t
 
 Amendment by section 422(b)(1) of Pub. L. 101–237 effective Sept. 30, 1990, see section 422(d) of Pub. L. 101–237, set out as a note under section 16131 of this title.
 
-Amendment by section 642(c) of Pub. L. 101–189 applicable with respect to any person who after Sept. 30,1990, meets the requirements set forth in section 2132(a)(1)(A) or (B) \[16132(a)(1)(A), (B)\] of this title, see section 642(d) of Pub. L. 101–189, set out as a note under section 16131 of this title.
+Amendment by section 642(c) of Pub. L. 101–189 applicable with respect to any person who after Sept. 30, 1990, meets the requirements set forth in section 2132(a)(1)(A) or (B) \[16132(a)(1)(A), (B)\] of this title, see section 642(d) of Pub. L. 101–189, set out as a note under section 16131 of this title.
 
 #### Effective Date
 

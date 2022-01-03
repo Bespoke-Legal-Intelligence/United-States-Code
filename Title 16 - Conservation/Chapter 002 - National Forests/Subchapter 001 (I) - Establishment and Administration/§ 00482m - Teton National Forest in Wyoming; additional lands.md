@@ -1,6 +1,6 @@
 ### §482m. Teton National Forest in Wyoming; additional lands
 
-The following-described lands of the Jackson Hole National Monument are made a part of the Teton National Forest and shall be administered hereafter in accordance with the laws applicable to said forest:
+The following-described lands of the Jackson Hole National Monument are made a part of theTeton National Forest and shall be administered hereafter in accordance with the laws applicable to said forest:
 
 sixth principal meridian
 
@@ -8,9 +8,13 @@ Township 45 north, range 113 west: Section 21, lot 5; section 22, lots 2 and 6; 
 
 (Sept. 14, 1950, ch. 950, §3, 64 Stat. 850.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Jackson Hole National Monument, referred to in text, was created in Wyoming by Presidential Proc. No. 2578, Mar. 15, 1943, 57 Stat. 731. For provisions transferring other lands of such former national monument, see sections 406d–1 and 673b of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Revocation of Temporary Withdrawals of Public Lands
 

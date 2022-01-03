@@ -118,7 +118,7 @@ Before establishing any new recreation fee area, the Secretary shall provide opp
 
 #### (7) Chairperson
 
-&emsp;The chairperson of a Recreation Resource Advisory Committee shall be selected by the majority vote of the members of the Committee.
+&emsp;The chairperson of a Recreation Resource Advisory Committee shall be selected by themajority vote of the members of the Committee.
 
 #### (8) Quorum
 
@@ -158,11 +158,15 @@ Before establishing any new recreation fee area, the Secretary shall provide opp
 
 (Pub. L. 108–447, div. J, title VIII, §804, Dec. 8, 2004, 118 Stat. 3382.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a), (b), (d)(1)(B), and (e)(2), was in the original "this Act", and was translated as reading "this title", meaning title VIII of div. J of Pub. L. 108–447, Dec. 8, 2004, 118 Stat. 3377, known as the Federal Lands Recreation Enhancement Act, to reflect the probable intent of Congress. For complete classification of title VIII to the Code, see Short Title note set out under section 6801 of this title and Tables.
 
 The Federal Advisory Committee Act, referred to in subsec. (d)(12), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

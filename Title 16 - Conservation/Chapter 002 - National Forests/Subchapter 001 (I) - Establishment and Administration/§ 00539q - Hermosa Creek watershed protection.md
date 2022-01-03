@@ -28,7 +28,7 @@ In this section:
 
 #### (1) Designation
 
-&emsp;Subject to valid existing rights, certain Federal land in the San Juan National Forestcomprising approximately 70,650 acres, as generally depicted on the map entitled "Proposed Hermosa Creek Special Management Area and Proposed Hermosa Creek Wilderness Area" and dated November 12, 2014, is designated as the "Hermosa Creek Special Management Area".
+&emsp;Subject to valid existing rights, certain Federal land in the San Juan National Forest comprising approximately 70,650 acres, as generally depicted on the map entitled "Proposed Hermosa Creek Special Management Area and Proposed Hermosa Creek Wilderness Area" and dated November 12, 2014, is designated as the "Hermosa Creek Special Management Area".
 
 #### (2) Purpose
 
@@ -80,7 +80,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(I) New permanent or temporary road construction or the renovation of existing nonsystem roads, except as allowed under the final rule entitled "Special Areas; Roadless Area Conservation; Applicability to the National Forests in Colorado" (77 Fed. Reg. 39576 (July 3, 2012)).
 
-&emsp;&emsp;&emsp;&emsp;(II) Projects undertaken for the purpose of harvesting commercial timber (other than activities relating to the harvest of merchantable products that are byproducts of activities conducted for ecological restoration or to further the purposes described in this section).
+&emsp;&emsp;&emsp;&emsp;(II) Projects undertaken for the purpose of harvesting commercial timber (other than activities relating to the harvest of merchantable products thatare byproducts of activities conducted for ecological restoration or to further the purposes described in this section).
 
 #### (4) State and Federal water management
 
@@ -343,6 +343,8 @@ In this section:
 &emsp;&emsp;&emsp;(ii) any military flight training route over a wilderness area described in subparagraph (A).
 
 (Pub. L. 113–291, div. B, title XXX, §3062, Dec. 19, 2014, 128 Stat. 3821.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

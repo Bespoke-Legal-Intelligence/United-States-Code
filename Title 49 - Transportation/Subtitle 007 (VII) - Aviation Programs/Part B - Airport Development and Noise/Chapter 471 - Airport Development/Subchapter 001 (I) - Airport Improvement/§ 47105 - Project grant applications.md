@@ -44,7 +44,7 @@ Pavement standards.—
 
 &emsp;&emsp;(A)
 
-Technical assistance.—At the request of a State, the Secretary shall, not later than 30 days after the date of the request, provide technical assistance to the State in developing standards, acceptable to the Secretary under subparagraph (B), for pavement on nonprimary public-use airports in the State.
+Technical assistance.—At the request of a State, the Secretary shall, not laterthan 30 days after the date of the request, provide technical assistance to the State in developing standards, acceptable to the Secretary under subparagraph (B), for pavement on nonprimary public-use airports in the State.
 
 &emsp;&emsp;(B)
 
@@ -131,6 +131,8 @@ In subsection (c), the words "from time to time" are eliminated as unnecessary.
 In subsection (d), the words "in connection with any project" are omitted as surplus. The words "that the sponsor will comply with this subchapter in carrying out the project" are substituted for "that such sponsor will comply with all of the statutory and administrative requirements imposed on such sponsor under this chapter in connection with such project" to eliminate unnecessary words. The words "or discharge" are omitted as included in "affect". The words "including, but not limited to, the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), section 303 of title 49, title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000b) \[42 U.S.C. 2000d et seq.\], title VIII of the Act of April 11, 1968 (42 U.S.C. 3601 et seq.), and the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 (42 U.S.C. 4601 et seq.)" are omitted as included in "another law of the United States".
 
 In subsection (e), the words "of an airport for which" are substituted for "to which" for clarity.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

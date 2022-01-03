@@ -10,5 +10,5 @@ Section 385c, act June 19, 1956, ch. 407, title VIII, §804, as added Mar. 15, 1
 
 Section 385d, act June 19, 1956, ch. 407, title VIII, §805, as added Mar. 15, 1990, Pub. L. 101–254, §23(a), 104 Stat. 109, provided for selection of family learning centers via competitive process, required equitable distribution of grants among States and between urban and rural communities under this subchapter, and established maximum amount per grant for any fiscal year.
 
-Section 385e, act June 19, 1956, ch. 407, title VIII, §806, as added Mar. 15, 1990, Pub. L. 101–254, §23(a), 104 Stat. 109; amended Oct. 20, 1994, Pub. L. 103–382, title III, §375(b), 108 Stat. 3979, authorized appropriations to carry out this part.
+Section 385e, act June 19, 1956, ch. 407, title VIII, §806, as added Mar. 15, 1990, Pub. L. 101–254, §23(a), 104 Stat.109; amended Oct. 20, 1994, Pub. L. 103–382, title III, §375(b), 108 Stat. 3979, authorized appropriations to carry out this part.
 

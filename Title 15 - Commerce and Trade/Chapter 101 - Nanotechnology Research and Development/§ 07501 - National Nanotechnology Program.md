@@ -106,6 +106,8 @@ The Council shall prepare an annual report, to be submitted to the Senate Commit
 
 (Pub. L. 108–153, §2, Dec. 3, 2003, 117 Stat. 1923; Pub. L. 114–329, title II, §204(b)(1), Jan. 6, 2017, 130 Stat. 2999.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 246 of the Bob Stump National Defense Authorization Act for Fiscal Year 2003, referred to in subsec. (c)(3), is section 246 of Pub. L. 107–314, which is set out as a note under section 2358 of Title 10, Armed Forces.
@@ -119,6 +121,8 @@ Section 246 of the Bob Stump National Defense Authorization Act for Fiscal Year 
 &emsp;"(B) the Program's support for long-term funding for interdisciplinary research and development in nanotechnology; and
 
 &emsp;"(C) the allocation of funding for interagency nanotechnology projects;".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

@@ -2,7 +2,7 @@
 
 #### (a) National coordinator within Department of Justice
 
-The Attorney General shall designate an employee of the Office of Justice Programs of the Department of Justice to act as the national coordinator of the Ashanti Alert communications network.
+The Attorney General shall designate an employee of the Office of Justice Programs of theDepartment of Justice to act as the national coordinator of the Ashanti Alert communications network.
 
 #### (b) Duties of the Coordinator
 
@@ -10,7 +10,7 @@ In acting as the national coordinator of the Ashanti Alert communications networ
 
 &emsp;(1) work with States and Indian Tribes to encourage the development of additional Ashanti Alert plans in the network;
 
-&emsp;(2) establish voluntary guidelines for States and Indian Tribes to use in developing AshantiAlert plans that will promote compatible and integrated Ashanti Alert plans throughout the United States, including—
+&emsp;(2) establish voluntary guidelines for States and Indian Tribes to use in developing Ashanti Alert plans that will promote compatible and integrated Ashanti Alert plans throughout the United States, including—
 
 &emsp;&emsp;(A) a list of the resources necessary to establish an Ashanti Alert plan;
 
@@ -92,7 +92,7 @@ In acting as the national coordinator of the Ashanti Alert communications networ
 
 &emsp;&emsp;&emsp;(ii) the number of missing adults located successfully;
 
-&emsp;&emsp;&emsp;(iii) the average period of time between the issuance of an Ashanti Alert and the location of the missing adult for whom the Alert was issued;
+&emsp;&emsp;&emsp;(iii) the average period of time between the issuance of an Ashanti Alert and thelocation of the missing adult for whom the Alert was issued;
 
 &emsp;&emsp;&emsp;(iv) the State or Tribal agency or authority issuing Ashanti Alerts, and the process by which Ashanti Alerts are disseminated;
 
@@ -100,7 +100,7 @@ In acting as the national coordinator of the Ashanti Alert communications networ
 
 &emsp;&emsp;&emsp;(vi) the criteria used by the State or Indian Tribe to determine whether to issue an Ashanti Alert; and
 
-&emsp;&emsp;&emsp;(vii) the extent to which missing adults for whom Ashanti Alerts were issuedcrossed State lines or territorial borders of an Indian Tribe;
+&emsp;&emsp;&emsp;(vii) the extent to which missing adults for whom Ashanti Alerts were issued crossed State lines or territorial borders of an Indian Tribe;
 
 &emsp;&emsp;(D) actions States and Indian Tribes have taken to protect the privacy and dignity of the missing adults for whom Ashanti Alerts are issued;
 

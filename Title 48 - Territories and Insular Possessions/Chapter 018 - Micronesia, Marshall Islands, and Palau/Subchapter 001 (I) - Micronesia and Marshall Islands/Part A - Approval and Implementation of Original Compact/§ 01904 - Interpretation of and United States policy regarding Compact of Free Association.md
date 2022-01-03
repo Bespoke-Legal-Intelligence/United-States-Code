@@ -2,7 +2,7 @@
 
 #### (a) Human rights
 
-In approving the Compact, the Congress notes the conclusion in the Statement of Intent of theReport of The Future Political Status Commission of the Congress of Micronesia in July, 1969, that "our recommendation of a free associated state is indissolubly linked to our desire for such a democratic, representative, constitutional government" and notes that such desire and intention are reaffirmed and embodied in the Constitutions of the Federated States of Micronesia and the Marshall Islands. The Congress also notes and specifically endorses the preamble to the Compact, which affirms that the governments of the parties to the Compact are founded upon respect for human rights and fundamental freedoms for all. The Secretary of State shall include in the annual reports on the status of internationally recognized human rights in foreign countries, which are submitted to the Congress pursuant to sections 116 and 502B of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151n, 2304\], a full and complete report regarding the status of internationally recognized human rights in the Federated States of Micronesia and the Marshall Islands.
+In approving the Compact, the Congress notes the conclusion in the Statement of Intent of the Report of The Future Political Status Commission of the Congress of Micronesia in July, 1969, that "our recommendation of a free associated state is indissolubly linked to our desire for such a democratic, representative, constitutional government" and notes that such desire and intention are reaffirmed and embodied in the Constitutions of the Federated States of Micronesia and the Marshall Islands. The Congress also notes and specifically endorses the preamble to the Compact, which affirms that the governments of the parties to the Compact are founded upon respect for human rights and fundamental freedoms for all. The Secretary of State shall include in the annual reports on the status of internationally recognized human rights in foreign countries, which are submitted to the Congress pursuant to sections 116 and 502B of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151n, 2304\], a full and complete report regarding the status of internationally recognized human rights in the Federated States of Micronesia and the Marshall Islands.
 
 #### (b) Immigration
 
@@ -60,7 +60,7 @@ In clarification of Title One, Article II, section 121(b)(1) of the Compact:
 
 &emsp;(5)(A) It is the policy of the United States of America—
 
-&emsp;&emsp;(i) to negotiate and conclude with the governments of the Central, Western, and South Pacific Ocean, including the Federated States of Micronesia and the Marshall Islands, a regional licensing agreement setting forth agreed terms of access for United States tuna vessels fishing in the region; and
+&emsp;&emsp;(i) to negotiate and conclude with the governments of the Central, Western, and SouthPacific Ocean, including the Federated States of Micronesia and the Marshall Islands, a regional licensing agreement setting forth agreed terms of access for United States tuna vessels fishing in the region; and
 
 &emsp;&emsp;(ii) that such an agreement should overcome existing jurisdictional differences and provide for a mutually beneficial relationship between the United States and the Pacific Island States that will promote the development of the tuna and other latent fisheries resources of the Central, Western, and South Pacific Ocean and the economic development of the region.
 
@@ -84,13 +84,15 @@ The Congress hereby reaffirms the United States position that the United States 
 
 (Pub. L. 99–239, title I, §104, Jan. 14, 1986, 99 Stat. 1788; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 106–504, §2, Nov. 13, 2000, 114 Stat. 2311.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Compact, referred to in text, is the Compact of Free Association between the Government of the United States and the Governments of the Marshall Islands and the Federated States of Micronesia, which is contained in section 201 of Pub. L. 99–239, as amended, set out as a note under section 1901 of this title.
 
 This joint resolution and this Act, referred to in subsec. (f)(1) to (3), is Pub. L. 99–239, Jan. 14, 1986, 99 Stat. 1770, as amended, known as the Compact of Free Association Act of 1985, which is classified principally to this part and chapter 19 (§2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (f)(3), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which isclassified principally to chapter 38 (§1801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 16 and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (f)(3), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 16 and Tables.
 
 The Fishermen's Protective Act of 1967, referred to in subsec. (f)(3), is act Aug. 27, 1954, ch. 1018, 68 Stat. 883, as amended, which is classified generally to chapter 25 (§1971 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 1971 of Title 22 and Tables.
 
@@ -107,6 +109,8 @@ Section was formerly set out as a note under section 1681 of this title.
 <b>2000</b>—Subsec. (e)(2). Pub. L. 106–504 substituted "Governor of any of the United States territories or commonwealths or the State of Hawaii may report to the Secretary of the Interior by February 1 of each year with respect to the impacts of the compacts of free association on the Governor's respective jurisdiction. The Secretary of the Interior shall review and forward any such reports to the Congress with the comments of the Administration. The Secretary of the Interior shall, either directly or, subject to available technical assistance funds, through a grant to the affected jurisdiction, provide for a census of Micronesians at intervals no greater than 5 years from each decennial United States census using generally acceptable statistical methodologies for each of the impact jurisdictions where the Governor requests such assistance, except that the total expenditures to carry out this sentence may not exceed $300,000 in any year." for "President shall report to the Congress with respect to the impact of the Compact on the United States territories and commonwealths and on the State of Hawaii.".
 
 <b>1996</b>—Subsec. (f)(3), (4)(B). Pub. L. 104–208 substituted "Magnuson-Stevens Fishery" for "Magnuson Fishery".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

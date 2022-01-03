@@ -6,11 +6,11 @@ In addition to the functions required by Executive Order 13648 (78 Fed. Reg. 406
 
 &emsp;(1) collaborate, to the greatest extent practicable, with the national wildlife services, or other relevant bodies of each focus country to prepare, not later than 90 days after the date of submission of the report required under section 7621(a) of this title, a United States mission assessment of the threats to wildlife in that focus country and an assessment of the capacity of that country to address wildlife trafficking;
 
-&emsp;(2) collaborate, to the greatest extent practicable, with relevant ministries, national wildlife services, or other relevant bodies of each focus country to prepare, not later than 180 days after preparation of the assessment referred to in paragraph (1), a United States mission strategic plan that includes recommendations for addressing wildlife trafficking, taking into account any regional or national strategies for addressing wildlife trafficking in a focus country developed before the preparation of such assessment;
+&emsp;(2) collaborate, to the greatest extent practicable, with relevant ministries, national wildlife services, or other relevant bodies ofeach focus country to prepare, not later than 180 days after preparation of the assessment referred to in paragraph (1), a United States mission strategic plan that includes recommendations for addressing wildlife trafficking, taking into account any regional or national strategies for addressing wildlife trafficking in a focus country developed before the preparation of such assessment;
 
 &emsp;(3) coordinate efforts among United States Federal agencies and non-Federal partners, including missions, domestic and international organizations, the private sector, and other global partners, to implement the strategic plans required by paragraph (2) in each focus country;
 
-&emsp;(4) not less frequently than annually, consult and coordinate with stakeholders qualified to provide advice, assistance, and information regarding effective support for anti-poaching activities, coordination of regional law enforcement efforts, development of and support for effective legal enforcement mechanisms, and development of strategies to reduce illicit trade and reduce consumer demand for illegally traded wildlife and wildlife products,and other relevant topics under this chapter; and
+&emsp;(4) not less frequently than annually, consult and coordinate with stakeholders qualified to provide advice, assistance, and information regarding effective support for anti-poaching activities, coordination of regional law enforcement efforts, development of and support for effective legal enforcement mechanisms, and development of strategies to reduce illicit trade and reduce consumer demand for illegally traded wildlife and wildlife products, and other relevant topics under this chapter; and
 
 &emsp;(5) coordinate or carry out other functions as are necessary to implement this chapter.
 
@@ -49,6 +49,8 @@ One year after October 7, 2016, and annually thereafter, the Task Force shall su
 The statutory authorization for the Task Force provided by this chapter shall terminate 5 years after October 7, 2016, or such earlier date that the President terminates the Task Force by rescinding, superseding, or otherwise modifying relevant portions of Executive Order 13648.
 
 (Pub. L. 114–231, title III, §301, Oct. 7, 2016, 130 Stat. 952.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

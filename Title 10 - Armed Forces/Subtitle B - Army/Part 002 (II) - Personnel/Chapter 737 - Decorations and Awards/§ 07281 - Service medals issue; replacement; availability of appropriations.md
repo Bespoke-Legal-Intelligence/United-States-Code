@@ -46,9 +46,13 @@ In subsection (b), the words "member of the Army or the Air Force" are substitut
 
 In subsection (c), the last 16 words are substituted for 10:1415c (last 16 words).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 3751 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

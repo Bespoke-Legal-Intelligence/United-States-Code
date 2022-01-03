@@ -20,9 +20,11 @@ June 7, 1956, ch. 374, §301(d), 70 Stat. 253.
 
 The words "other than that of the member or former member concerned" are substituted for the words "that is not the service of which he is a member or retired member, or that is not the service of the member or retired member upon whom he is dependent". The word "medical" before the word "facility" is omitted to make clear that the provision also relates to dental care. The words "pursuant to the provisions of this chapter" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
-A prior section 1085, act Aug. 10, 1956, ch. 1041, 70A Stat. 87, related to prevention of fraud, coercion, andundue influence, to free discussion, and to acts done in good faith, prior to repeal by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
+A prior section 1085, act Aug. 10, 1956, ch. 1041, 70A Stat. 87, related to prevention of fraud, coercion, and undue influence, to free discussion, and to acts done in good faith, prior to repeal by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 #### Amendments
 
@@ -36,6 +38,8 @@ A prior section 1085, act Aug. 10, 1956, ch. 1041, 70A Stat. 87, related to prev
 
 <b>1965</b>—Pub. L. 89–264 substituted "executive department" for "uniformed service" in section catchline, and provisions requiring reimbursement if a member or former member of an armed force under the jurisdiction of a military department, or his dependent receives care in a facility under the jurisdiction of Secretary of Health, Education, and Welfare, or if a member or former member of a uniformed service not under the jurisdiction of a military department, or his dependent, receives care in a facility of an armed force under the jurisdiction of a military department, for provisions which required reimbursement if a person received care in a facility of a uniformed service other than that of the member or former member concerned.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
@@ -43,6 +47,8 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 #### Transfer of Funds Necessary To Provide Medical Care
 
 Pub. L. 114–120, title II, §217, Feb. 8, 2016, 130 Stat. 46, related to transfer of funds from the Secretary of Homeland Security to the Secretary of Defense in lieu of reimbursement required under section 1085 of title 10, prior to repeal by Pub. L. 114–328, div. A, title VII, §722(c), Dec. 23, 2016, 130 Stat. 2229.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

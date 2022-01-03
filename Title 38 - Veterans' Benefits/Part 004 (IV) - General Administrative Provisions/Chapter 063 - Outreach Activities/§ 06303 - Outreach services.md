@@ -40,6 +40,40 @@ Provisions similar to those in this section were contained in section 7722 of th
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Fact Sheets
+
+Pub. L. 117–62, §2, Nov. 22, 2021, 135 Stat. 1482, provided that:
+
+"(a)
+
+Languages.—The Secretary of Veterans Affairs shall make available versions of all fact sheets of the Department of Veterans Affairs in—
+
+&emsp;"(1) English;
+
+&emsp;"(2) Spanish;
+
+&emsp;"(3) Tagalog; and
+
+&emsp;"(4) each of the 10 most commonly spoken languages, other than English, in the United States that are not otherwise covered by paragraphs (2) and (3).
+
+"(b)
+
+Website.—The Secretary of Veterans Affairs shall establish and maintain a publicly available website of the Department of Veterans Affairs that contains links to all fact sheets of the Veterans Benefits Administration, Veterans Health Administration, and of the National Cemetery Administration. The website shall be accessible by a clearly labeled hyperlink on the homepage of the Department.
+
+"(c)
+
+Report.—Not later than 180 days after the date of the enactment of this Act \[Nov. 22, 2021\], the Secretary of Veterans Affairs shall submit a report to Congress regarding fact sheets described in subsection (a) and details of the Language Access Plan of the Department of Veteran\[s\] Affairs. The report shall include the following:
+
+&emsp;"(1) What the Secretary determines constitutes a fact sheet of the Department for purposes of this Act \[enacting this note and provisions set out as a note under section 101 of this title\].
+
+&emsp;"(2) How such fact sheets are utilized and distributed other than on and through the website of the Department.
+
+&emsp;"(3) How such Language Access Plan is communicated to veterans, family members of veterans, and caregivers.
+
+&emsp;"(4) The roles and responsibilities of patient advocates in the coordination of care for veterans with limited English proficiency, family members of such veterans, and caregivers.
+
+&emsp;"(5) Other demographic information that the Secretary determines appropriate regarding veterans with limited English proficiency."
+
 #### Continuation of Women's Health Transition Training Program of Department of Veterans Affairs
 
 Pub. L. 116–315, title III, §3005(a), Jan. 5, 2021, 134 Stat. 4993, provided that: "The Secretary of Veterans Affairs shall carry out the Women's Health Transition Training program of the Department of Veterans Affairs (in this section \[remainder of section 3005 of Pub. L. 116–315 not classified to the Code\] referred to as the 'Program') until at least one year after the date of the enactment of this Act \[Jan. 5, 2021\]."
@@ -394,7 +428,7 @@ Report by secretary of veterans affairs.—
 
 &emsp;&emsp;"(A)
 
-In general.—Not later than 1 year after the date of the enactment of this Act \[Sept. 17, 2018\], the Secretary of Veterans Affairs shall submit to Congress a report on the implementation of thissection and its effect on the Veterans Justice Outreach Program.
+In general.—Not later than 1 year after the date of the enactment of this Act \[Sept. 17, 2018\], the Secretary of Veterans Affairs shall submit to Congress a report on the implementation of this section and its effect on the Veterans Justice Outreach Program.
 
 &emsp;&emsp;"(B)
 
@@ -470,7 +504,7 @@ Program.—The Secretary of Veterans Affairs shall conduct an extensive outreach
 
 "(b)
 
-Features of Program.—In carrying out the program under subsection (a), the Secretary shall seek to work at the local level with employers, State agencies, community health centers located in rural areas, rural health clinics, and critical access hospitals located in rural areas, and units of the National Guard and other reserve components based in rural areas, in order to increase the awareness of veterans and their families of the availability of health care provided by the Secretary and the means by which those veterans can achieve access to the health-care services provided by the Department of Veterans Affairs."
+Features of Program.—In carrying out the program under subsection (a), the Secretary shall seek to work at the local level with employers, State agencies, community health centers located in rural areas, rural health clinics, and critical access hospitals located inrural areas, and units of the National Guard and other reserve components based in rural areas, in order to increase the awareness of veterans and their families of the availability of health care provided by the Secretary and the means by which those veterans can achieve access to the health-care services provided by the Department of Veterans Affairs."
 
 #### Information To Assist Veterans Receiving Education Benefits
 
@@ -500,7 +534,7 @@ Pub. L. 100–687, div. B, title XII, §1204, Nov. 18, 1988, 102 Stat. 4125, as 
 
 "(a)
 
-Ongoing Outreach Program.—(1) The Secretary of Veterans Affairs shall conduct an active, continuousoutreach program for furnishing to veterans of active military, naval, or air service who served in the Republic of Vietnam during the Vietnam era information relating to—
+Ongoing Outreach Program.—(1) The Secretary of Veterans Affairs shall conduct an active, continuous outreach program for furnishing to veterans of active military, naval, or air service who served in the Republic of Vietnam during the Vietnam era information relating to—
 
 &emsp;"(A) the health risks (if any) resulting from exposure during that service to dioxin or any other toxic agent in herbicides used in support of United States and allied military operations in the Republic of Vietnam during the Vietnam era; and
 

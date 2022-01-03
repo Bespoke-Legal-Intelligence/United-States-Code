@@ -62,6 +62,8 @@ Adjustments.—The Administrator shall adjust a fee established under subsection
 
 (Added Pub. L. 112–95, title I, §122(a), Feb. 14, 2012, 126 Stat. 19; amended Pub. L. 115–254, div. B, title II, §244, Oct. 5, 2018, 132 Stat. 3260.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–254, §244(1), substituted "Subject to subsection (c)" for "Subject to subsection (b)" in introductory provisions.

@@ -22,6 +22,8 @@ Jan. 6, 1951, ch. 1213, subch. VII, §704, 64 Stat. 1235.
 
 5:171v (words of 1st sentence after semicolon).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Pub. L. 112–81, §1111(2), inserted "each" after "may" in first sentence.

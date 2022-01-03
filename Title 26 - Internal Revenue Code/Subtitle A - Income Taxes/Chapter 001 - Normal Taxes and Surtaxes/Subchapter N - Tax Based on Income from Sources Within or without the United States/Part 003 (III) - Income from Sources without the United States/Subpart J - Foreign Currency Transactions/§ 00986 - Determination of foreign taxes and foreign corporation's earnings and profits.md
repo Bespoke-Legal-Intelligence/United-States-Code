@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of determining the amount of the foreign tax credit, in the case of a taxpayer who takes foreign income taxes into account when accrued, the amount of anyforeign income taxes (and any adjustment thereto) shall be translated into dollars by using the average exchange rate for the taxable year to which such taxes relate.
+&emsp;&emsp;For purposes of determining the amount of the foreign tax credit, in the case of a taxpayer who takes foreign income taxes into account when accrued, the amount of any foreign income taxes (and any adjustment thereto) shall be translated into dollars by using the average exchange rate for the taxable year to which such taxes relate.
 
 #### (B) Exception for certain taxes
 
@@ -82,6 +82,8 @@ For purposes of determining the tax under this subtitle—
 
 (Added Pub. L. 99–514, title XII, §1261(a), Oct. 22, 1986, 100 Stat. 2586; amended Pub. L. 100–647, title I, §1012(v)(1)(A), Nov. 10, 1988, 102 Stat. 3528; Pub. L. 105–34, title XI, §1102(a)(1), (b)(1), Aug. 5, 1997, 111 Stat. 963, 965; Pub. L. 108–357, title IV, §408(a), (b), Oct. 22, 2004, 118 Stat. 1499.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Subsec. (a)(1)(D). Pub. L. 108–357, §408(a), added subpar. (D). Former subpar. (D) redesignated (E).
@@ -119,6 +121,8 @@ Foreign income taxes.—For purposes of paragraph (1), 'foreign income taxes' me
 Subsec. (a)(3), (4). Pub. L. 105–34, §1102(b)(1), added par. (3) and redesignated former par. (3) as (4).
 
 <b>1988</b>—Pub. L. 100–647 substituted "foreign taxes and foreign corporation's earnings and profits" for "foreign corporation's earnings and profits and foreign taxes" in heading, and revised and restructured the provisions of subsecs. (a) and (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

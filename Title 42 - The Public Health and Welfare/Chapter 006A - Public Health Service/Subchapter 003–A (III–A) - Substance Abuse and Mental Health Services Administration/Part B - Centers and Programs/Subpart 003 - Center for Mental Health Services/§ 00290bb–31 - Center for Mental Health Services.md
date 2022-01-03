@@ -16,7 +16,7 @@ The Director of the Center shall—
 
 &emsp;(2) encourage and assist local entities and State agencies to achieve the goals and priorities described in paragraph (1);
 
-&emsp;(3) collaborate with the Director of the National Institute of Mental Health and the Chief Medical Officer, appointed under section290aa(g) of this title, to ensure that, as appropriate, programs related to the prevention and treatment of mental illness and the promotion of mental health and recovery support are carried out in a manner that reflects the best available science and evidence-based practices, including culturally and linguistically appropriate services, as appropriate;
+&emsp;(3) collaborate with the Director of the National Institute of Mental Health and the Chief Medical Officer, appointed under section 290aa(g) of this title, to ensure that, as appropriate, programs related to the prevention and treatment of mental illness and the promotion of mental health and recovery support are carried out in a manner that reflects the best available science and evidence-based practices, including culturally and linguistically appropriate services, as appropriate;
 
 &emsp;(4) collaborate with the Department of Education and the Department of Justice to develop programs to assist local communities in addressing violence among children and adolescents;
 
@@ -34,7 +34,7 @@ The Director of the Center shall—
 
 &emsp;(11) conduct services-related assessments, including evaluations of the organization and financing of care, self-help and consumer-run programs, mental health economics, mental health service systems, rural mental health and tele-mental health, and improve the capacity of State to conduct evaluations of publicly funded mental health programs;
 
-&emsp;(12) disseminate mental health information, including evidence-based practices, to States, political subdivisions, educational agencies and institutions, treatment and prevention service providers, and the general public, including information concerning the practical application of research supported by the National Institute of Mental Health that is applicable to improving the delivery of services;
+&emsp;(12) disseminate mental health information, including evidence-based practices, to States,political subdivisions, educational agencies and institutions, treatment and prevention service providers, and the general public, including information concerning the practical application of research supported by the National Institute of Mental Health that is applicable to improving the delivery of services;
 
 &emsp;(13) provide technical assistance to public and private entities that are providers of mental health services;
 
@@ -51,6 +51,8 @@ The Director of the Center shall—
 In carrying out the duties established in subsection (b), the Director may make grants to and enter into contracts and cooperative agreements with public and nonprofit private entities.
 
 (July 1, 1944, ch. 373, title V, §520, as added Pub. L. 102–321, title I, §115(a), July 10, 1992, 106 Stat. 346; amended Pub. L. 106–310, div. B, title XXXI, §3112(c), Oct. 17, 2000, 114 Stat. 1188; Pub. L. 114–255, div. B, title VI, §6007(a), Dec. 13, 2016, 130 Stat. 1212.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -102,13 +104,17 @@ Pub. L. 106–310, §3112(c)(1), redesignated par. (8) as (9). Former par. (9) r
 
 Subsec. (b)(10) to (15). Pub. L. 106–310, §3112(c)(1), redesignated pars. (9) to (14) as (10) to (15), respectively.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective Oct. 1, 1992, with provision for programs providing financial assistance, see section 801(c), (d) of Pub. L. 102–321, set out as an Effective Date of 1992 Amendment note under section 236 of this title.
 
 #### Mental Health Services for Individuals in Correctional Facilities
 
-Section 703 of Pub. L. 102–321 directed Secretary of Health and Human Services, acting through Director of Center for Mental Health Services, not later than July 10, 1992, to prepare and submit to Congress a report concerning most effective methods for providing mental health services to individuals who come into contact with the criminal justice system, including those individuals incarcerated in correctional facilities (including local jails and detention facilities), and the obstacles to providing such services, with such study to be carried out in consultation with the National Institute of Mental Health, the Department of Justice, and other appropriate public and private entities.
+Section 703 of Pub. L. 102–321 directed Secretary of Health and Human Services, acting through Director ofCenter for Mental Health Services, not later than July 10, 1992, to prepare and submit to Congress a report concerning most effective methods for providing mental health services to individuals who come into contact with the criminal justice system, including those individuals incarcerated in correctional facilities (including local jails and detention facilities), and the obstacles to providing such services, with such study to be carried out in consultation with the National Institute of Mental Health, the Department of Justice, and other appropriate public and private entities.
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 13263
 

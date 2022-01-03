@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(F) possess the ability to follow leads that indicate a crime will be committed rather than initiate an investigation after a crime is committed;
 
-&emsp;(3) the term "unscheduled duty" means hours of duty a criminal investigator works,or is determined to be available for work, that are not—
+&emsp;(3) the term "unscheduled duty" means hours of duty a criminal investigator works, or is determined to be available for work, that are not—
 
 &emsp;&emsp;(A) part of the 40 hours in the basic work week of the investigator; or
 
@@ -96,7 +96,7 @@
 
 &emsp;(A) any reference in such subsection to "basic pay" shall be considered to include amounts designated as "salary";
 
-&emsp;(B) paragraph (2)(A) of such subsection shall be considered to include (in addition to theprovisions of law specified therein) sections 609(b)(1), 805, 806, and 856 of the Foreign Service Act of 1980; and
+&emsp;(B) paragraph (2)(A) of such subsection shall be considered to include (in addition to the provisions of law specified therein) sections 609(b)(1), 805, 806, and 856 of the Foreign Service Act of 1980; and
 
 &emsp;(C) paragraph (2)(B) of such subsection shall be applied by substituting for "Office of Personnel Management" the following: "Office of Personnel Management or the Secretary of State (to the extent that matters exclusively within the jurisdiction of the Secretary are concerned)".
 

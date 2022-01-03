@@ -4,7 +4,7 @@
 
 The Secretary may participate with other countries in cooperative endeavors in—
 
-&emsp;(1) biomedical research, health care technology, and the health services research and statistical analysis authorized under section 242k of this title and subchapter VII; and
+&emsp;(1) biomedical research, health care technology, and the health services research andstatistical analysis authorized under section 242k of this title and subchapter VII; and
 
 &emsp;(2) biomedical research, health care services, health care research, or other related activities in furtherance of the activities, objectives or goals authorized under the Tom Lantos and Henry J. Hyde United States Global Leadership Against HIV/AIDS, Tuberculosis, and Malaria Reauthorization Act of 2008.
 
@@ -41,6 +41,8 @@ The Secretary may provide to personnel appointed or assigned by the Secretary to
 In carrying out immunization programs and other programs in developing countries for the prevention, treatment, and control of infectious diseases, including HIV/AIDS, tuberculosis, and malaria, the Director of the Centers for Disease Control and Prevention, in coordination with the Coordinator of United States Government Activities to Combat HIV/AIDS Globally, the National Institutes of Health, national and local government, and other organizations, such as the World Health Organization and the United Nations Children's Fund, shall develop and implement effective strategies to improve injection safety, including eliminating unnecessary injections, promoting sterile injection practices and technologies, strengthening the procedures for proper needle and syringe disposal, and improving the education and information provided to the public and to health professionals.
 
 (July 1, 1944, ch. 373, title III, §307, formerly §308, as added Pub. L. 86–610, §3, July 12, 1960, 74 Stat. 364; renumbered §307 and amended Pub. L. 93–353, title I, §106, July 23, 1974, 88 Stat. 367; Pub. L. 97–35, title IX, §921, Aug. 13, 1981, 95 Stat. 566; Pub. L. 101–239, title VI, §6103(e)(3), Dec. 19, 1989, 103 Stat. 2206; Pub. L. 102–531, title III, §310, Oct. 27, 1992, 106 Stat. 3503; Pub. L. 103–183, title VII, §702, Dec. 14, 1993, 107 Stat. 2239; Pub. L. 108–25, title III, §306, May 27, 2003, 117 Stat. 739; Pub. L. 110–293, title II, §205, July 30, 2008, 122 Stat. 2943.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -83,6 +85,8 @@ Subsec. (c). Pub. L. 110–293, §205(3), substituted "1980" for "1990" and inse
 Subsec. (b). Pub. L. 97–35, §921(b), in par. (5) inserted reference to health care technology, and in par. (6) inserted reference to health care technology activities.
 
 <b>1974</b>—Pub. L. 93–353 amended section generally.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### International Health Study
 

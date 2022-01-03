@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(A) shall be—
 
-&emsp;&emsp;&emsp;(i) as realistic as practicable, based on current risk assessments, including credible and emerging threats, vulnerabilities, and consequences, and designed to stress the national preparedness system;
+&emsp;&emsp;&emsp;(i) as realistic as practicable, based on current risk assessments, including credible and emerging threats, vulnerabilities,and consequences, and designed to stress the national preparedness system;
 
 &emsp;&emsp;&emsp;(ii) designed, as practicable, to simulate the partial or complete incapacitation of a State, local, or tribal government;
 

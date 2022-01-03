@@ -4,7 +4,7 @@
 
 In General.—Not later than 1 year after the date of enactment of this section, the Secretary of Transportation shall—
 
-&emsp;(1) begin development of new tools and improvement of existing tools to support an outcome-oriented, performance-based approach toevaluate proposed freight-related and other transportation projects, including—
+&emsp;(1) begin development of new tools and improvement of existing tools to support an outcome-oriented, performance-based approach to evaluate proposed freight-related and other transportation projects, including—
 
 &emsp;&emsp;(A) methodologies for systematic analysis of benefits and costs on a national or regional basis;
 
@@ -26,9 +26,13 @@ Consultation.—The Secretary shall consult with Federal, State, and other stake
 
 (Added Pub. L. 114–94, div. A, title VIII, §8001(a), Dec. 4, 2015, 129 Stat. 1611.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this section, referred to in subsec. (a), is the date of enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

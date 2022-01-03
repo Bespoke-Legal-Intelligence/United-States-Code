@@ -36,7 +36,7 @@
 
 &emsp;(2) provide to the Federal agency that makes or authorizes the payments information necessary for the recipient to receive electronic funds transfer payments through each institution or agent designated under paragraph (1).
 
-(h) The crediting of the amount of a payment to the appropriate account on the books of a financial institution or other authorized payment agent designated by a payment recipient under this section shall constitute a full acquittance to the United States for the amount of the payment.
+(h) The crediting of the amount of a payment to the appropriate account on the books of a financial institution or other authorized paymentagent designated by a payment recipient under this section shall constitute a full acquittance to the United States for the amount of the payment.
 
 (i)(1) The Secretary of the Treasury may prescribe regulations that the Secretary considers necessary to carry out this section.
 

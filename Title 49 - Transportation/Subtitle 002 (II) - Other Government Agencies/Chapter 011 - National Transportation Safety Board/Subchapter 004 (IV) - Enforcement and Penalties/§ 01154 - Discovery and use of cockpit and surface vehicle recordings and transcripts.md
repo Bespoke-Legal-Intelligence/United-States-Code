@@ -96,6 +96,8 @@ In subsection (a)(2)(B), the words "prepared by or under the direction of the Bo
 
 In subsection (b), the words "civil action" are substituted for "suit or action" in 49 App.:1441(e) and 1903(c) for consistency with the Federal Rules of Civil Procedure (28 App. U.S.C.).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–254, §1104(b)(1), substituted "In General" for "Transcripts and Recordings" in heading.

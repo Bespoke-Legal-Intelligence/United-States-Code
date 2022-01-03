@@ -30,7 +30,7 @@ In the case of income derived from the sale of inventory property—
 
 #### (2) Gain in excess of depreciation
 
-&emsp;Gain (in excess of the depreciation adjustments) from the sale of depreciable personal property shall be sourced as if such property were inventory property.
+&emsp;Gain (in excess of the depreciation adjustments) from the sale of depreciable personalproperty shall be sourced as if such property were inventory property.
 
 #### (3) United States depreciation adjustments
 
@@ -64,7 +64,7 @@ In the case of income derived from the sale of inventory property—
 
 #### (C) Depreciation deductions
 
-&emsp;&emsp;The term "depreciation deductions" means any deductions for depreciation oramortization or any other deduction allowable under any provision of this chapter which treats an otherwise capital expenditure as a deductible expense.
+&emsp;&emsp;The term "depreciation deductions" means any deductions for depreciation or amortization or any other deduction allowable under any provision of this chapter which treats an otherwise capital expenditure as a deductible expense.
 
 #### (d) Exception for intangibles
 
@@ -158,7 +158,7 @@ For purposes of this section—
 
 #### (2) Special rules for United States citizens and resident aliens
 
-&emsp;For purposes of this section, a United States citizen or resident alien shall not be treated asa nonresident with respect to any sale of personal property unless an income tax equal to at least 10 percent of the gain derived from such sale is actually paid to a foreign country with respect to that gain.
+&emsp;For purposes of this section, a United States citizen or resident alien shall not be treated as a nonresident with respect to any sale of personal property unless an income tax equal to at least 10 percent of the gain derived from such sale is actually paid to a foreign country with respect to that gain.
 
 #### (3) Special rule for certain stock sales by residents of Puerto Rico
 
@@ -228,7 +228,7 @@ For purposes of this section—
 
 #### (j) Regulations
 
-The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purpose of this section, including regulations—
+The Secretary shall prescribe such regulations as may be necessary or appropriate to carry outthe purpose of this section, including regulations—
 
 &emsp;(1) relating to the treatment of losses from sales of personal property,
 
@@ -244,6 +244,8 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 (Added Pub. L. 99–514, title XII, §1211(a), Oct. 22, 1986, 100 Stat. 2533; amended Pub. L. 100–647, title I, §1012(d)(1)–(6), (8), (9), (11), (12), Nov. 10, 1988, 102 Stat. 3497–3499; Pub. L. 101–508, title XI, §11813(b)(18), Nov. 5, 1990, 104 Stat. 1388–555; Pub. L. 103–66, title XIII, §13239(c), Aug. 10, 1993, 107 Stat. 509; Pub. L. 104–188, title I, §1704(f)(4)(A), Aug. 20, 1996, 110 Stat. 1880; Pub. L. 106–170, title V, §532(c)(1)(E), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 115–97, title I, §14301(c)(6), Dec. 22, 2017, 131 Stat. 2222; Pub. L. 115–141, div. U, title IV, §401(d)(1)(D)(xi), Mar. 23, 2018, 132 Stat. 1208.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (j)(3). Pub. L. 115–141 substituted "and 933" for ", 933, and 936".
@@ -254,7 +256,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 <b>1996</b>—Subsec. (b)(2). Pub. L. 104–188 substituted "863" for "863(b)".
 
-<b>1993</b>—Subsec. (b). Pub. L. 103–66 inserted at end "Notwithstanding the preceding sentence, any income from the sale of any unprocessed timber which is a softwood and was cut from an area in the United States shall besourced in the United States and the rules of sections 862(a)(6) and 863(b) shall not apply to any such income. For purposes of the preceding sentence, the term 'unprocessed timber' means any log, cant, or similar form of timber."
+<b>1993</b>—Subsec. (b). Pub. L. 103–66 inserted at end "Notwithstanding the preceding sentence, any income from the sale of any unprocessed timber which is a softwood and was cut from an area in the United States shall be sourced in the United States and the rules of sections 862(a)(6) and 863(b) shall not apply to any such income. For purposes of the preceding sentence, the term 'unprocessed timber' means any log, cant, or similar form of timber."
 
 <b>1990</b>—Subsec. (c)(3)(B). Pub. L. 101–508 substituted "section 168(g)(4)" for "section 48(a)(2)(B)".
 
@@ -301,6 +303,8 @@ Subsec. (j). Pub. L. 100–647, §1012(d)(8), redesignated former subsec. (i) as
 Subsec. (j)(3). Pub. L. 100–647, §1012(d)(6)(B), added par. (3) to subsec. (i) prior to redesignation as subsec. (j).
 
 Subsec. (k). Pub. L. 100–647, §1012(d)(8), redesignated former subsec. (j) as (k).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 

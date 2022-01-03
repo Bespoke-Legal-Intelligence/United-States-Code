@@ -12,7 +12,7 @@ Each program agency shall, through the programs and activities administered unde
 
 #### (1) Requirement
 
-&emsp;Each program agency shall use not less than 10 percent of the assistance made available to such agency under this division in each fiscalyear to provide pre-service and in-service training and educational materials and services for participants in such a program. Program participants shall be provided with information concerning the benefits to the community that result from the activities undertaken by such participants.
+&emsp;Each program agency shall use not less than 10 percent of the assistance made available to such agency under this division in each fiscal year to provide pre-service and in-service training and educational materials and services for participants in such a program. Program participants shall be provided with information concerning the benefits to the community that result from the activities undertaken by such participants.
 
 #### (2) Agreements for academic study
 
@@ -53,6 +53,8 @@ Each program agency shall, through the programs and activities administered unde
 &emsp;&emsp;(B) may arrange to receive academic credit in recognition of the education and skills obtained from service satisfactorily completed.
 
 (Pub. L. 101–610, title I, §199G, formerly §127, Nov. 16, 1990, 104 Stat. 3145; renumbered §199G, Pub. L. 103–82, title I, §101(a), Sept. 21, 1993, 107 Stat. 788.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

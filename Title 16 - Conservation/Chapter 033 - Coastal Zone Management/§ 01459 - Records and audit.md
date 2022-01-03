@@ -2,7 +2,7 @@
 
 #### (a) Maintenance of records by recipients of grants or financial assistance
 
-Each recipient of a grant under this chapter or of financial assistance under section 1456a ofthis title, as in effect before November 5, 1990, shall keep such records as the Secretary shall prescribe, including records which fully disclose the amount and disposition of the funds received under the grant and of the proceeds of such assistance, the total cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
+Each recipient of a grant under this chapter or of financial assistance under section 1456a of this title, as in effect before November 5, 1990, shall keep such records as the Secretary shall prescribe, including records which fully disclose the amount and disposition of the funds received under the grant and of the proceeds of such assistance, the total cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
 
 #### (b) Access by Secretary and Comptroller General to records, books, etc., of recipients of grants or financial assistance for audit and examination
 
@@ -19,6 +19,8 @@ The Secretary and the Comptroller General of the United States, or any of their 
 > have access for purposes of audit and examination to any record, book, document, and paper which belongs to or is used or controlled by, any recipient of the grant funds or any person who entered into any transaction relating to such financial assistance and which is pertinent for purposes of determining if the grant funds or the proceeds of such financial assistance are being, or were, used in accordance with the provisions of this chapter.
 
 (Pub. L. 89–454, title III, §313, formerly §310, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1287; renumbered §313 and amended Pub. L. 94–370, §§7, 11, July 26, 1976, 90 Stat. 1019, 1030; Pub. L. 102–587, title II, §2205(b)(19), Nov. 4, 1992, 106 Stat. 5052.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

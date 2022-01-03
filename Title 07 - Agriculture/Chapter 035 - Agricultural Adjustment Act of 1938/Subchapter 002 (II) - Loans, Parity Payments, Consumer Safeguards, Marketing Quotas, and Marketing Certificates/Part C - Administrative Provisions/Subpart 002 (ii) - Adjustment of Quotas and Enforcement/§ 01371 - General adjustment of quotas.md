@@ -6,13 +6,15 @@ If at any time the Secretary has reason to believe that in the case of cotton,<s
 
 #### (b) Adjustment because of emergency or export demand
 
-If the Secretary has reason to believe that, because of a national emergency or because of a material increase in export demand, any national marketing quota or acreage allotment for cotton,<sup>1</sup> or rice should be increased or terminated, he shall cause an immediate investigation to be made to determine whether the increase or termination is necessary to meet such emergency or increase in export demand. If, on the basis of such investigation, the Secretary finds that such increase or termination is necessary, he shall immediately proclaim such finding (and if he finds an increase is necessary, the amount of the increase found by him to be necessary) and thereupon such quota or allotmentshall be increased, or shall terminate, as the case may be.
+If the Secretary has reason to believe that, because of a national emergency or because of a material increase in export demand, any national marketing quota or acreage allotment for cotton,<sup>1</sup> or rice should be increased or terminated, he shall cause an immediate investigation to be made to determine whether the increase or termination is necessary to meet such emergency or increase in export demand. If, on the basis of such investigation, the Secretary finds that such increase or termination is necessary, he shall immediately proclaim such finding (and if he finds an increase is necessary, the amount of the increase found by him to be necessary) and thereupon such quota or allotment shall be increased, or shall terminate, as the case may be.
 
 #### (c) Increase of farm quota on increase of national quota
 
 In case any national marketing quota or acreage allotment for any commodity is increased under this section, each farm marketing quota or acreage allotment for the commodity shall be increased in the same ratio.
 
 (Feb. 16, 1938, ch. 30, title III, §371, 52 Stat. 64; Apr. 3, 1941, ch. 39, §5, 55 Stat. 92; Aug. 28, 1954, ch. 1041, title III, §312, 68 Stat. 904; Pub. L. 87–703, title III, §321, Sept. 27, 1962, 76 Stat. 626; Pub. L. 107–171, title I, §1309(h)(2), May 13, 2002, 116 Stat. 182; Pub. L. 108–357, title VI, §611(i), Oct. 22, 2004, 118 Stat. 1522.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -35,6 +37,8 @@ Subsec. (c). Act Aug. 28, 1954, §312(b), inserted "or acreage allotment" after 
 Subsec. (d). Act Aug. 28, 1954, §312(c), repealed subsec. (d) which related to the adjustment of corn storage regulations on change in marketing quotas.
 
 <b>1941</b>—Subsecs. (a), (b). Act Apr. 3, 1941, inserted "peanuts," after "rice,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

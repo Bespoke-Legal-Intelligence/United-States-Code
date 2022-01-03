@@ -24,7 +24,7 @@ The Administrator of FEMA and the Comptroller General of the United States, or a
 
 #### (d) Inventions and discoveries
 
-All property rights with respect to inventions and discoveries, which are made in the course of or under contract with any government agency pursuant to this chapter, shall be subject to the basic policies set forth in the President's Statement of Government Patent Policy issued August 23, 1971, or such revisions of that statement of the policy as may subsequently be promulgated and published in the Federal Register.
+All property rights with respect to inventions and discoveries, which are made in the course ofor under contract with any government agency pursuant to this chapter, shall be subject to the basic policies set forth in the President's Statement of Government Patent Policy issued August 23, 1971, or such revisions of that statement of the policy as may subsequently be promulgated and published in the Federal Register.
 
 #### (e) Coordination
 
@@ -41,6 +41,8 @@ All property rights with respect to inventions and discoveries, which are made i
 &emsp;The Administrator shall provide liaison at an appropriate organizational level to assure coordination of the activities of the Administrator related to emergency medical services provided by fire service-based systems with Federal, State, and local government agencies and departments and nongovernmental organizations so concerned, as well as those entities concerned with emergency medical services generally.
 
 (Pub. L. 93–498, §21, Oct. 29, 1974, 88 Stat. 1548; Pub. L. 96–121, §2, Nov. 16, 1979, 93 Stat. 863; Pub. L. 106–503, title I, §110(a)(2)(B)(ix), Nov. 13, 2000, 114 Stat. 2302; Pub. L. 110–376, §9(a), Oct. 8, 2008, 122 Stat. 4061; Pub. L. 112–239, div. A, title XVIII, §1802(b)(1), Jan. 2, 2013, 126 Stat. 2100.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -62,13 +64,13 @@ In subsec. (b)(2), "section 1342 of title 31" substituted for "section 3679 of t
 
 <b>1979</b>—Subsec. (b)(4). Pub. L. 96–121 substituted "the daily equivalent of the maximum annual rate of basic pay then in effect for grade GS–15 of the General Schedule (5 U.S.C. 5332(a))" for "$100 a day".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transfer of Functions
 
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-Functions of National Fire Prevention and Control Administration \[now United States Fire Administration\] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under section 2202 of this title.
 
 #### Enhancement of Science and Mathematics Programs
 
@@ -109,6 +111,12 @@ In general.—Not later than 1 year after the date of enactment of this Act \[No
 &emsp;&emsp;"(B)
 
 Contents of report.—The report prepared by the Administrator under this paragraph shall describe any donations of educationally useful Federal equipment to schools made during the period covered by the report."
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Functions of National Fire Prevention and Control Administration \[now United States Fire Administration\] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under section 2202 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

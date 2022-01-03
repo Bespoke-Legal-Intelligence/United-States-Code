@@ -22,7 +22,7 @@
 
 &emsp;(4) A person—
 
-&emsp;&emsp;(A) who has been convicted of a Federal or State crime causing the person to be a tier III sex offender for purposes of the Sex Offender Registration and Notification Act (42 U.S.C. 16901 et seq.); <sup>1</sup>
+&emsp;&emsp;(A) who has been convicted of a Federal or State crime causing the person to be a tierIII sex offender for purposes of the Sex Offender Registration and Notification Act (42 U.S.C. 16901 et seq.); <sup>1</sup>
 
 &emsp;&emsp;(B) who, for such crime, is sentenced to a minimum of life imprisonment; and
 
@@ -52,7 +52,7 @@
 
 (ii) A notice of disagreement filed with the Secretary of Defense under subparagraph (A) shall be decided in accordance with such regulations as the Secretary of Defense shall prescribe for purposes of this subsection.
 
-(4) When the decision of the appropriate Federal official to disinter the remains or remove a memorial headstone or marker of the deceasedperson becomes final either by failure to appeal the decision in accordance with paragraph (3)(A) or by final disposition of the appeal pursuant to paragraph (3)(B), the appropriate Federal official may take any of the following actions:
+(4) When the decision of the appropriate Federal official to disinter the remains or remove a memorial headstone or marker of the deceased person becomes final either by failure to appeal the decision in accordance with paragraph (3)(A) or by final disposition of the appeal pursuant to paragraph (3)(B), the appropriate Federal official may take any of the following actions:
 
 &emsp;(A) Disinter the remains of the person from the cemetery in the National Cemetery Administration or in Arlington National Cemetery and provide for the reburial or other appropriate disposition of the disinterred remains in a place other than a cemetery in the National Cemetery Administration or in Arlington National Cemetery.
 
@@ -130,7 +130,7 @@ Amendment by Pub. L. 109–163 applicable with respect to funerals and burials t
 
 #### Effective Date
 
-Pub. L. 105–116, §1(c), Nov. 21, 1997, 111 Stat. 2382, provided that: "Section 2411 of title 38, United States Code, as added by subsection (a), shall apply with respect to applications for interment or memorializationmade on or after the date of the enactment of this Act \[Nov. 21, 1997\]."
+Pub. L. 105–116, §1(c), Nov. 21, 1997, 111 Stat. 2382, provided that: "Section 2411 of title 38, United States Code, as added by subsection (a), shall apply with respect to applications for interment or memorialization made on or after the date of the enactment of this Act \[Nov. 21, 1997\]."
 
 #### Regulations
 

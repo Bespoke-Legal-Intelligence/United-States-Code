@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(A) Such water rights shall be appropriated, adjudicated, changed, and administered pursuant to the procedural requirements and priority system of the laws of the State of Colorado.
 
-&emsp;&emsp;(B) The purposes and other substantive characteristics of such water rights shall be established pursuant to State law, exceptthat the Secretary is specifically authorized to appropriate water under this subchapter exclusively for the purpose of maintaining ground water levels, surface water levels, and stream flows on, across, and under the national park and national preserve, in order to accomplish the purposes of the national park and the national preserve and to protect park resources and park uses.
+&emsp;&emsp;(B) The purposes and other substantive characteristics of such water rights shall be established pursuant to State law, except that the Secretary is specifically authorized to appropriate water under this subchapter exclusively for the purpose of maintaining ground water levels, surface water levels, and stream flows on, across, and under the national park and national preserve, in order to accomplish the purposes of the national park and the national preserve and to protect park resources and park uses.
 
 &emsp;&emsp;(C) Such water rights shall be established and used without interfering with—
 
@@ -42,7 +42,7 @@ To the extent that a water right is established or acquired by the United States
 
 #### (d) National Monument water rights
 
-To the extent that a water right has been established or acquired by the United States for the Great Sand Dunes National Monument, the water right shall—
+To the extent that a water right has been established or acquired by the United States forthe Great Sand Dunes National Monument, the water right shall—
 
 &emsp;(1) be considered to be of equal use and value for the national park; and
 
@@ -81,6 +81,8 @@ Use.—Except as provided in the memorandum of water service agreement and the w
 The Secretary is authorized to sell the water resources and related appurtenances and fixtures as the Secretary deems necessary to obtain the termination of obligations specified in the memorandum of water service agreement and the water service agreement between the Cabeza de Vaca Land and Cattle Company, LLC and the Baca Grande Water and Sanitation District, dated August 28, 1997. Prior to the sale, the Secretary shall determine that the sale is not detrimental to the protection of the resources of Great Sand Dunes National Monument, Great Sand Dunes National Park, and Great Sand Dunes National Preserve, and the Baca National Wildlife Refuge, and that appropriate measures to provide for such protection are included in the sale.
 
 (Pub. L. 106–530, §9, Nov. 22, 2000, 114 Stat. 2533.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

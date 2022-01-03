@@ -4,7 +4,7 @@ Section 1134, Pub. L. 92–255, title II, §224, Mar. 21, 1972, 86 Stat. 71, pro
 
 Section 1135, Pub. L. 92–255, title II, §225, Mar. 21, 1972, 86 Stat. 72, provided for establishment of a single non-Federal share requirement.
 
-Section 1136, Pub. L. 92–255, title II, §226, Mar. 21, 1972, 86 Stat. 72, provided for Director to make drug prevention function recommendations to President and to consult with responsible agencies with respect to drug prevention functions.
+Section 1136, Pub. L. 92–255, title II, §226, Mar. 21, 1972, 86 Stat. 72, provided for Director to make drugprevention function recommendations to President and to consult with responsible agencies with respect to drug prevention functions.
 
 Section 1137, Pub. L. 92–255, title II, §227, Mar. 21, 1972, 86 Stat. 72, provided for resolution of agency conflicts with regard to drug prevention functions.
 

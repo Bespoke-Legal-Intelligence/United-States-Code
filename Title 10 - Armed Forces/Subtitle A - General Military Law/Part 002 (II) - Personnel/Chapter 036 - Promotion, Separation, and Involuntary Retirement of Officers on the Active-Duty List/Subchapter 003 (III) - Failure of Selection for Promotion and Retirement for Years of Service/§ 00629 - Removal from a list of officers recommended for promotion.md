@@ -2,7 +2,7 @@
 
 (a)
 
-Removal by President.—The President may remove the name of any officer from a listof officers recommended for promotion by a selection board convened under this chapter.
+Removal by President.—The President may remove the name of any officer from a list of officers recommended for promotion by a selection board convened under this chapter.
 
 (b)
 
@@ -18,7 +18,7 @@ Months.—(1) If an officer whose name is on a list of officers approved for pro
 
 (3) Paragraph (1) does not apply when the military department concerned is not able to obtain and provide to the Senate the information the Senate requires to give its advice and consent to the appointment concerned because that information is under the control of a department or agency of the Federal Government other than the Department of Defense.
 
-(4) In this subsection, the term "promotion eligibility period" means, with respect to an officer whose name is on a list of officers approved for promotion under section 624(a) of this title to a grade for which appointment is required by section 624(c) of this title to be made by and with the advice and consent of the Senate, the period beginning on the date on which the list is so approved and ending on the first day of the eighteenth month following the month during which the list is so approved.
+(4) In this subsection, the term "promotion eligibility period" means, with respect to an officer whose name is on a list of officers approved for promotion under section 624(a) of this title to a grade for which appointment is required bysection 624(c) of this title to be made by and with the advice and consent of the Senate, the period beginning on the date on which the list is so approved and ending on the first day of the eighteenth month following the month during which the list is so approved.
 
 (d)
 
@@ -31,6 +31,8 @@ Continued Eligibility for Promotion.—(1) An officer whose name is removed from
 (2) If such an officer who is in a grade below the grade of colonel or, in the case of the Navy, captain is not recommended for promotion by the next selection board convened for his grade and competitive category, or if his name is again removed from the list of officers recommended for promotion, or if the Senate again does not give its advice and consent to his promotion, he shall be considered for all purposes to have twice failed of selection for promotion.
 
 (Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2860; amended Pub. L. 109–364, div. A, title V, §515(a), Oct. 17, 2006, 120 Stat. 2185; Pub. L. 110–181, div. A, title X, §1063(a)(2), Jan. 28, 2008, 122 Stat. 321; Pub. L. 111–383, div. A, title V, §504(a), Jan. 7, 2011, 124 Stat. 4208; Pub. L. 114–328, div. A, title V, §504, Dec. 23, 2016, 130 Stat. 2107; Pub. L. 115–91, div. A, title V, §502, Dec. 12, 2017, 131 Stat. 1373.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -52,6 +54,8 @@ Subsec. (d). Pub. L. 109–364, §515(a)(2)(A), (4)(B), redesignated subsec. (c)
 
 Subsec. (d)(1). Pub. L. 109–364, §515(a)(3), substituted "(b), or (c)" for "or (b)".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2006 Amendment
 
 Pub. L. 109–364, div. A, title V, §515(c), Oct. 17, 2006, 120 Stat. 2187, provided that: "The amendments made by this section \[amending this section and section 14310 of this title\] shall apply to any promotion list approved by the President after January 1, 2007."
@@ -59,6 +63,8 @@ Pub. L. 109–364, div. A, title V, §515(c), Oct. 17, 2006, 120 Stat. 2187, pro
 #### Effective Date
 
 Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

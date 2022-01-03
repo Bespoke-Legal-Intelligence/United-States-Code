@@ -80,7 +80,7 @@ Any employee of the Federal Government may be detailed to the Board, with the ag
 
 #### (g) Security
 
-(1) The members and staff of the Board shall, as a condition of appointment to or employment with the Board, hold appropriate security clearances for access to the classified records and materials to be reviewed by the Board or its staff, and shall follow the guidance and practices on security under applicable Executive orders and Presidential or agency directives.
+(1) The members and staff of the Board shall, as a condition of appointment to or employment with the Board, hold appropriate security clearances for access to the classified records and materials to be reviewed by the Board or itsstaff, and shall follow the guidance and practices on security under applicable Executive orders and Presidential or agency directives.
 
 (2) The head of an agency shall, as a condition of granting access to a member of the Board, the Executive Secretary of the Board, or a member of the staff of the Board to classified records or materials of the agency under this subchapter, require the member, the Executive Secretary, or the member of the staff, as the case may be, to—
 
@@ -119,6 +119,8 @@ The Information Security Oversight Office may support the activities of the Boar
 The provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the activities of the Board under this subchapter. However, the records of the Board shall be governed by the provisions of the Federal Records Act of 1950.
 
 (Pub. L. 106–567, title VII, §703, Dec. 27, 2000, 114 Stat. 2856; Pub. L. 108–458, title I, §1102(a), (b), Dec. 17, 2004, 118 Stat. 3699; Pub. L. 111–259, title III, §365, Oct. 7, 2010, 124 Stat. 2702; Pub. L. 112–235, §2(a), (b), Dec. 28, 2012, 126 Stat. 1626; Pub. L. 116–92, div. E, title LXVII, §6741(a), Dec. 20, 2019, 133 Stat. 2239.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

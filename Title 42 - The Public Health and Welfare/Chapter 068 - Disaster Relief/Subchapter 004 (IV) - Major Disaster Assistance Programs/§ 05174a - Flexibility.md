@@ -72,11 +72,15 @@
 
 (Pub. L. 115–254, div. D, §1216, Oct. 5, 2018, 132 Stat. 3449.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Disaster Recovery Reform Act of 2018 and as part of the FAA Reauthorization Act of 2018, and not as part of the Robert T. Stafford Disaster Relief and Emergency Assistance Act which comprises this chapter.
 
 Section is comprised of section 1216 of Pub. L. 115–254. Subsec. (c)(1) of section 1216 of Pub. L. 115–254 amended section 5205 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

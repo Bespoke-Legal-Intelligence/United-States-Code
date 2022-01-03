@@ -30,7 +30,7 @@ Any fishery management plan which is prepared by any Council, or by the Secretar
 
 &emsp;(7) describe and identify essential fish habitat for the fishery based on the guidelines established by the Secretary under section 1855(b)(1)(A) of this title, minimize to the extent practicable adverse effects on such habitat caused by fishing, and identify other actions to encourage the conservation and enhancement of such habitat;
 
-&emsp;(8) in the case of a fishery management plan that, after January 1, 1991, is submitted to the Secretary for review under section 1854(a) of this title (including any plan for which an amendment is submitted to the Secretary for such review) or is prepared by the Secretary, assess and specify the nature and extent of scientific data which is needed for effective implementation of the plan;
+&emsp;(8) in the case of a fishery management plan that, after January 1, 1991, is submitted to theSecretary for review under section 1854(a) of this title (including any plan for which an amendment is submitted to the Secretary for such review) or is prepared by the Secretary, assess and specify the nature and extent of scientific data which is needed for effective implementation of the plan;
 
 &emsp;(9) include a fishery impact statement for the plan or amendment (in the case of a plan or amendment thereto submitted to or prepared by the Secretary after October 1, 1990) which shall assess, specify, and analyze the likely effects, if any, including the cumulative conservation, economic, and social impacts, of the conservation and management measures on, and possible mitigation measures for—
 
@@ -62,7 +62,7 @@ Any fishery management plan which is prepared by any Council, or by the Secretar
 
 &emsp;(1) require a permit to be obtained from, and fees to be paid to, the Secretary, with respect to—
 
-&emsp;&emsp;(A) any fishing vessel of the United States fishing, or wishing to fish, in the exclusiveeconomic zone or for anadromous species or Continental Shelf fishery resources beyond such zone;
+&emsp;&emsp;(A) any fishing vessel of the United States fishing, or wishing to fish, in the exclusive economic zone or for anadromous species or Continental Shelf fishery resources beyond such zone;
 
 &emsp;&emsp;(B) the operator of any such vessel; or
 
@@ -86,7 +86,7 @@ Any fishery management plan which is prepared by any Council, or by the Secretar
 
 &emsp;&emsp;(A) catch of fish (based on area, species, size, number, weight, sex, bycatch, total biomass, or other factors);
 
-&emsp;&emsp;(B) sale of fish caught during commercial, recreational, or charter fishing, consistent with any applicable Federal and State safety and quality requirements; and
+&emsp;&emsp;(B) sale of fish caught during commercial, recreational, or charter fishing, consistentwith any applicable Federal and State safety and quality requirements; and
 
 &emsp;&emsp;(C) transshipment or transportation of fish or fish products under permits issued pursuant to section 1824 of this title;
 
@@ -137,6 +137,8 @@ Proposed regulations which the Council deems necessary or appropriate for the pu
 #### Amendment of Subsection (b)(1)(A)
 
 <i>Pub. L. 102–251, title III, §§301(g), 308, Mar. 9, 1992, 106 Stat. 64, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (b)(1)(A) is amended by inserting "or special areas," after "exclusive economic zone" and "or areas" after "such zone".</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -237,6 +239,8 @@ Subsec. (e). Pub. L. 97–453, §6(3), added subsec. (e).
 <b>1978</b>—Subsec. (a)(4)(C). Pub. L. 95–354, §5(2), added subpar. (C).
 
 Subsec. (a)(5). Pub. L. 95–354, §5(3), inserted provisions relating to estimated processing capacity of, and the actual processing utilized by, United States fish processors.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment; Applicability
 

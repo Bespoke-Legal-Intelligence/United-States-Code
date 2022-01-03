@@ -118,6 +118,8 @@ This amends the catchline for 49:40118(d) to make a clarifying amendment.
 
 This amends 49:40118(f)(1) to make a clarifying amendment.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Paragraphs (9) and (10) of section 103 of the Trafficking Victims Protection Act of 2000, referred to in subsec. (g)(1), were redesignated pars. (11) and (12), respectively, of section 103 of that Act by Pub. L. 115–427, §2(1), Jan. 9, 2019, 132 Stat. 5503, and are classified to section 7102(11) and (12) of Title 22, Foreign Relations and Intercourse.
@@ -144,13 +146,15 @@ Pub. L. 105–277, §1225(h), struck out ", or the Director of the Arms Control
 
 Subsec. (d). Pub. L. 104–287, §5(68)(A), substituted "
 
-Certain Transportation by Air Outside the United States" for "
+Certain Transportation by Air Outside the UnitedStates" for "
 
 Transportation by Foreign Air Carriers" in heading.
 
 Subsec. (f). Pub. L. 104–287, §5(68)(B), inserted heading.
 
 <b>1994</b>—Subsec. (f). Pub. L. 103–355 added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2019 Amendment
 
@@ -162,7 +166,7 @@ Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings prov
 
 #### Effective Date of 1994 Amendment
 
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 2302 of Title 10, Armed Forces.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 8752 of Title 10, Armed Forces.
 
 #### Effective Date of 2003 Amendment
 

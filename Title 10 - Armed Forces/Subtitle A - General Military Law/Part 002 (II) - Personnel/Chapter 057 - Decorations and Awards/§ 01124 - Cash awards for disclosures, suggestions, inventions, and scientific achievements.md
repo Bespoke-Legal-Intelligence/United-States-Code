@@ -22,6 +22,8 @@
 
 (Added Pub. L. 89–198, §1(1), Sept. 22, 1965, 79 Stat. 830; amended Pub. L. 89–718, §10, Nov. 2, 1966, 80 Stat. 1117; Pub. L. 90–623, §2(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 96–470, title I, §112(c), Oct. 19, 1980, 94 Stat. 2240; Pub. L. 96–513, title V, §511(40), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 96–527, title VII, §772, Dec. 15, 1980, 94 Stat. 3093; Pub. L. 99–145, title XII, §1225(a)(1), (2)(A), Nov. 8, 1985, 99 Stat. 730; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Another section 1124 was renumbered 1126 of this title.
@@ -34,13 +36,15 @@ Another section 1124 was renumbered 1126 of this title.
 
 <b>1980</b>—Subsec. (c). Pub. L. 96–527 authorized payment of awards to retired members of the armed forces, required the basis for awards to have been made when in an active reserve status, and required the member to be ineligible for incentive award under chapter 45 of title 5.
 
-Subsec. (g). Pub. L. 96–470 struck out provision requiring the Secretary of Defense and the Secretary ofTransportation to annually report to the President, for transmittal to Congress, on progress of the awards program.
+Subsec. (g). Pub. L. 96–470 struck out provision requiring the Secretary of Defense and the Secretary of Transportation to annually report to the President, for transmittal to Congress, on progress of the awards program.
 
 Subsec. (h). Pub. L. 96–513 substituted "National Oceanic and Atmospheric Administration" for "Environmental Science Services Administration".
 
 <b>1968</b>—Subsecs. (a), (b), (g). Pub. L. 90–623 substituted "Secretary of Transportation" for "Secretary of the Treasury".
 
 <b>1966</b>—Subsec. (g). Pub. L. 89–718 substituted "progress report" for "program report".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 
@@ -57,6 +61,8 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 #### Effective Date of 1968 Amendment
 
 Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on Oct. 22, 1968, see section 6 of Pub. L. 90–623, set out as a note under section 5334 of Title 5, Government Organization and Employees.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

@@ -6,7 +6,7 @@ The Administrator, in coordination with the States, may provide technical assist
 
 #### (1) Watershed management of wet weather discharges
 
-&emsp;The management of municipal combined sewer overflows, sanitary sewer overflows, andstormwater discharges, on an integrated watershed or subwatershed basis for the purpose of demonstrating the effectiveness of a unified wet weather approach.
+&emsp;The management of municipal combined sewer overflows, sanitary sewer overflows, and stormwater discharges, on an integrated watershed or subwatershed basis for the purpose of demonstrating the effectiveness of a unified wet weather approach.
 
 #### (2) Stormwater best management practices
 

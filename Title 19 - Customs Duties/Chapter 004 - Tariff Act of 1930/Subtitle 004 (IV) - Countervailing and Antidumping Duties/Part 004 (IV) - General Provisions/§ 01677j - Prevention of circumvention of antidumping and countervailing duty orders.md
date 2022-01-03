@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(B) whether the manufacturer or exporter of the parts or components is affiliated with the person who assembles or completes the merchandise sold in the United States from the parts or components produced in the foreign country with respect to which the order or finding described in paragraph (1) applies, and
 
-&emsp;&emsp;(C) whether imports into the United States of the parts or components produced in such foreign country have increased after the initiation of the investigation which resulted in the issuance of such order or finding.
+&emsp;&emsp;(C) whether imports into the United States of the parts or components produced in suchforeign country have increased after the initiation of the investigation which resulted in the issuance of such order or finding.
 
 #### (b) Merchandise completed or assembled in other foreign countries
 
@@ -94,7 +94,7 @@
 
 &emsp;&emsp;(A) the pattern of trade, including sourcing patterns,
 
-&emsp;&emsp;(B) whether the manufacturer or exporter of the merchandise described in paragraph (1)(B) is affiliated with the person who uses the merchandise described in paragraph\(1)(B) to assemble or complete in the foreign country the merchandise that is subsequently imported into the United States, and
+&emsp;&emsp;(B) whether the manufacturer or exporter of the merchandise described in paragraph (1)(B) is affiliated with the person who uses the merchandise described in paragraph (1)(B) to assemble or complete in the foreign country the merchandise that is subsequently imported into the United States, and
 
 &emsp;&emsp;(C) whether imports into the foreign country of the merchandise described in paragraph (1)(B) have increased after the initiation of the investigation which resulted in the issuance of such order or finding.
 
@@ -172,6 +172,8 @@ The administering authority shall, to the maximum extent practicable, make the d
 
 (June 17, 1930, ch. 497, title VII, §781, as added Pub. L. 100–418, title I, §1321(a), Aug. 23, 1988, 102 Stat. 1192; amended Pub. L. 103–465, title II, §230, Dec. 8, 1994, 108 Stat. 4891.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Antidumping Act, 1921, referred to in subsecs. (a)(1)(A)(ii), (b)(1)(A)(ii), and (c)(1)(C), is act May 27, 1921, ch. 14, title II, 42 Stat. 11, as amended, which was classified generally to sections 160 to 171 of this title, and was repealed by Pub. L. 96–39, title I, §106(a), July 26, 1979, 93 Stat. 193.
@@ -183,6 +185,8 @@ Section 1303 of this title, referred to in subsecs. (a)(1)(A)(iii), (b)(1)(A)(ii
 <b>1994</b>—Subsecs. (a), (b). Pub. L. 103–465, §230(a), amended subsecs. (a) and (b) generally, to include provisions relating to whether process of assembly or completion of merchandise in United States or foreign countries is minor or insignificant.
 
 Subsec. (f). Pub. L. 103–465, §230(b), added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

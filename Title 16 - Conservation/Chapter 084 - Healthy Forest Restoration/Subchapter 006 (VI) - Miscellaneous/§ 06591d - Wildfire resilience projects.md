@@ -110,9 +110,11 @@ The Secretary shall conduct public notice and scoping for any project or action 
 
 (Pub. L. 108–148, title VI, §605, as added Pub. L. 115–141, div. O, title II, §202, Mar. 23, 2018, 132 Stat. 1062.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-Section 6511(2) of this title, referred to in subsec. (a), was in the original "the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6511(2))" and was translated as referring to section 101(2) of that Act, which is classifiedto section 6511(2) of this title and defines "authorized hazardous fuel reduction project".
+Section 6511(2) of this title, referred to in subsec. (a), was in the original "the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6511(2))" and was translated as referring to section 101(2) of that Act, which is classified to section 6511(2) of this title and defines "authorized hazardous fuel reduction project".
 
 Public Law 91–190, referred to in subsec. (a)(2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, known as the National Environmental Policy Act of 1969, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 

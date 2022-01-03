@@ -40,9 +40,13 @@ In subsection (a) the word "naval" is omitted as surplusage.
 
 In subsection (b) the words "except the authority to prescribe regulations" are omitted, since 34 U.S.C. 606 contains no authority for the Secretary of the Navy to prescribe regulations for the administration of that section.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7214 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

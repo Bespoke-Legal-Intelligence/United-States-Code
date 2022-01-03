@@ -28,7 +28,7 @@ Section was classified to section 162–1 of former Title 40, prior to the enact
 
 #### Prior Provisions
 
-Act Aug. 15, 1876, ch. 287, 19 Stat. 147, transferred duties relative to the Capitol theretofore performed byCommissioner of Public Buildings and Grounds to Architect of the Capitol.
+Act Aug. 15, 1876, ch. 287, 19 Stat. 147, transferred duties relative to the Capitol theretofore performed by Commissioner of Public Buildings and Grounds to Architect of the Capitol.
 
 Act Mar. 2, 1867, ch. 167, §2, 14 Stat. 466, abolished office of Commissioner of Public Buildings and Grounds referred to in section 1811 of this title, and transferred the duties of that office to the Chief of Engineers of the Army.
 
@@ -70,7 +70,7 @@ Study by comptroller general.—Not later than November 1, 2002, the Comptroller
 
 "(2)
 
-Plan by architect in response.—After the Comptroller General submits the study conducted under paragraph (1) to the Committees referred to in such paragraph, the Architect of the Capitol shall develop and submit to such Committees a management improvement plan which addresses the study and which indicates how the personnel for whom the Architect fixes the rate of basic pay under the amendment made by subsection (c)(1) \[amending section 1849 of this title\] will support such plan."
+Plan by architect in response.—After the Comptroller General submits the study conducted under paragraph (1) to the Committees referred to in such paragraph, the Architect of the Capitol shall develop and submit to such Committees a management improvement plan which addresses the study and whichindicates how the personnel for whom the Architect fixes the rate of basic pay under the amendment made by subsection (c)(1) \[amending section 1849 of this title\] will support such plan."
 
 #### Accounting and Financial Management System
 

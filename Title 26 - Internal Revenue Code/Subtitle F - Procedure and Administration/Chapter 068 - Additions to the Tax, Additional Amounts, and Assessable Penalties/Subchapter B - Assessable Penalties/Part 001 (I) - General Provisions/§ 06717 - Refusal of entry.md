@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In addition to any other penalty provided by law, any person who refuses to admit entry orrefuses to permit any other action by the Secretary authorized by section 4083(d)(1) shall pay a penalty of $1,000 for such refusal.
+In addition to any other penalty provided by law, any person who refuses to admit entry or refuses to permit any other action by the Secretary authorized by section 4083(d)(1) shall pay a penalty of $1,000 for such refusal.
 
 #### (b) Joint and several liability
 
@@ -19,6 +19,8 @@ In addition to any other penalty provided by law, any person who refuses to admi
 No penalty shall be imposed under this section with respect to any failure if it is shown that such failure is due to reasonable cause.
 
 (Added Pub. L. 108–357, title VIII, §859(a), Oct. 22, 2004, 118 Stat. 1617.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

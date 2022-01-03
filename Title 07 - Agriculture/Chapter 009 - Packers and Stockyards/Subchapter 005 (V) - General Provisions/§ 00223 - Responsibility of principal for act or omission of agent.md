@@ -4,6 +4,8 @@ When construing and enforcing the provisions of this chapter, the act, omission,
 
 (Aug. 15, 1921, ch. 64, title IV, §403, 42 Stat. 168; Aug. 15, 1921, ch. 64, title V, §503, as added Aug. 14, 1935, ch. 532, 49 Stat. 649; amended Pub. L. 100–173, §6, Nov. 23, 1987, 101 Stat. 918; Pub. L. 107–171, title X, §10502(b)(2)(C), May 13, 2002, 116 Stat. 510.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Pub. L. 107–171 inserted "any swine contractor, and" after "packer," in two places.
@@ -11,6 +13,8 @@ When construing and enforcing the provisions of this chapter, the act, omission,
 <b>1987</b>—Pub. L. 100–173 substituted ", any live poultry dealer," for "or any live poultry dealer or handler," in two places.
 
 <b>1935</b>—Act Aug. 15, 1921, title V, §503, as added Aug. 14, 1935, inserted "or any live poultry dealer or handler" after "packer" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1987 Amendment
 

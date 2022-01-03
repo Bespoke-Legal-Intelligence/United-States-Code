@@ -58,6 +58,8 @@ Fees.—The Administrator of the Transportation Security Administration shall es
 
 (Added Pub. L. 107–71, title I, §105(a), Nov. 19, 2001, 115 Stat. 606; amended Pub. L. 108–458, title IV, §4018, Dec. 17, 2004, 118 Stat. 3721; Pub. L. 115–254, div. K, title I, §§1959(c)(5), (d)(1), 1991(d)(15), Oct. 5, 2018, 132 Stat. 3599, 3635.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–254, §1991(d)(15)(A)(i), substituted "Administrator of the Transportation Security Administration" for "Under Secretary of Transportation for Security" in introductory provisions.
@@ -77,6 +79,8 @@ Subsec. (c)(3). Pub. L. 115–254, §1991(d)(15)(B)(ii), which directed amendmen
 Subsec. (d). Pub. L. 115–254, §1959(c)(5)(B), redesignated subsec. (d) as (c).
 
 <b>2004</b>—Subsec. (d). Pub. L. 108–458 added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Federal Air Marshal Service Updates
 
@@ -120,7 +124,7 @@ No written agreements.—The Administrator shall submit to the appropriate commi
 
 "(b)
 
-Mission Scheduling Automation.—The Administrator shall endeavor to acquire automated capabilitiesor technologies for scheduling Federal air marshal service missions based on current risk modeling.
+Mission Scheduling Automation.—The Administrator shall endeavor to acquire automated capabilities or technologies for scheduling Federal air marshal service missions based on current risk modeling.
 
 "(c)
 

@@ -8,15 +8,17 @@ There are authorized to be appropriated to the Department of Agriculture not to 
 
 If in any year the amount appropriated under this part is insufficient to meet the requirements for adjustment assistance payable under this part, the amount of assistance payable under this part shall be reduced proportionately.
 
-(Pub. L. 93–618, title II, §298, as added Pub. L. 107–210, div. A, title I, §141(a), Aug. 6, 2002, 116 Stat. 952; amended Pub. L. 110–89, §1(c), Sept. 28, 2007, 121 Stat. 982; Pub. L. 111–5, div. B, title I, §1887, Feb. 17, 2009, 123 Stat. 420; Pub. L. 111–344, title I, §101(c)(12), Dec. 29, 2010, 124 Stat. 3614; Pub. L. 112–40, title II, §§201(b), (c), 223(b), Oct. 21, 2011, 125 Stat. 403, 413; Pub. L. 114–27, title IV, §§402(b), (c), 403(d)(3), June 29, 2015, 129 Stat. 374.)
+(Pub. L. 93–618, title II, §298, as added Pub. L. 107–210, div. A, title I, §141(a), Aug. 6, 2002, 116Stat. 952; amended Pub. L. 110–89, §1(c), Sept. 28, 2007, 121 Stat. 982; Pub. L. 111–5, div. B, title I, §1887, Feb. 17, 2009, 123 Stat. 420; Pub. L. 111–344, title I, §101(c)(12), Dec. 29, 2010, 124 Stat. 3614; Pub. L. 112–40, title II, §§201(b), (c), 223(b), Oct. 21, 2011, 125 Stat. 403, 413; Pub. L. 114–27, title IV, §§402(b), (c), 403(d)(3), June 29, 2015, 129 Stat. 374.)
 
 #### Reversion to Provisions in Effect on January 1, 2014
 
 <i>For reversion, beginning on July 1, 2021, to provisions in effect on Jan. 1, 2014, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see Codification and Effective and Termination Dates of 2015 Revival notes below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
-Section 233 of Pub. L. 112–40, which provided for the Jan. 1, 2014, revival of this section as in effect on Feb. 13, 2011, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, and the provisions of this section, as in effect on Dec. 31, 2013, were temporarily revived, effective June 29, 2015, until July 1, 2021, by Pub. L. 114–27, §§402(b), (c), 406. See 2011 and 2015Amendment notes, Effective and Termination Dates of 2011 Revival notes, and Effective and Termination Dates of 2015 Revival notes below.
+Section 233 of Pub. L. 112–40, which provided for the Jan. 1, 2014, revival of this section as in effect on Feb. 13, 2011, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, and the provisions of this section, as in effect on Dec. 31, 2013, were temporarily revived, effective June 29, 2015, until July 1, 2021, by Pub. L. 114–27, §§402(b), (c), 406. See 2011 and 2015 Amendment notes, Effective and Termination Dates of 2011 Revival notes, and Effective and Termination Dates of 2015 Revival notes below.
 
 Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of amendment by Pub. L. 111–5, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and the provisions of this section, as amended by Pub. L. 111–5 and Pub. L. 111–344 and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by Pub. L. 112–40, §§201(b), (c), 233. See 2009, 2010, and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, Effective Date of 2010 Amendment note, and Effective and Termination Dates of 2011 Revival notes below.
 
@@ -35,6 +37,8 @@ Subsec. (a). Pub. L. 112–40, §§223(b), 233, temporarily struck out "and ther
 <b>2009</b>—Subsec. (a). Pub. L. 111–5, §§1887, 1893, temporarily substituted "fiscal years 2009 and 2010, and $22,500,000 for the period beginning October 1, 2010, and ending December 31, 2010, to carry out the purposes of this part, including administrative costs, and salaries and expenses of employees of the Department of Agriculture." for "fiscal years 2003 through 2007 to carry out the purposes of this part, and there are authorized to be appropriated and there are appropriated to the Department of Agriculture to carry out this part $9,000,000 for the 3-month period beginning on October 1, 2007." See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
 <b>2007</b>—Subsec. (a). Pub. L. 110–89 inserted before period at end ", and there are authorized to be appropriated and there are appropriated to the Department of Agriculture to carry out this part $9,000,000 for the 3-month period beginning on October 1, 2007".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective and Termination Dates of 2015 Revival
 

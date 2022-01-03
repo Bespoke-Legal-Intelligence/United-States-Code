@@ -17,11 +17,15 @@
 | [24908\.](%C2%A7%2024908%20-%20Transfer%20taxes%20and%20levies%20and%20recording%20charges.md) | Transfer taxes and levies and recording charges. |
 | [24909\.](%C2%A7%2024909%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [24910\.](%C2%A7%2024910%20-%20Rail%20cooperative%20research%20program.md) | Rail cooperative research program. |
-| [24911\.](%C2%A7%2024911%20-%20Federal-State%20partnership%20for%20state%20of%20good%20repair.md) | Federal-State partnership for state of good repair. |
+| [24911\.](%C2%A7%2024911%20-%20Federal-State%20partnership%20for%20intercity%20passenger%20rail.md) | Federal-State partnership for intercity passenger rail. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Pub. L. 117–58, div. B, title II, §22307(b), Nov. 15, 2021, 135 Stat. 730, substituted "Federal-State partnership for intercity passenger rail" for "Federal-State partnership for state of good repair" in item 24911.
 
 <b>2015</b>—Pub. L. 114–94, div. A, title XI, §§11302(b), 11305(d)(2), 11306(b)(2), Dec. 4, 2015, 129 Stat. 1651, 1658, 1660, added items 24904 and 24911, redesignated former item 24904 as 24903, and substituted "Northeast Corridor Commission" for "Northeast Corridor Infrastructure and Operations Advisory Commission; Safety Committee" in item 24905.
 
@@ -46,4 +50,4 @@
 - [&sect; 24908 - Transfer taxes and levies and recording charges](%C2%A7%2024908%20-%20Transfer%20taxes%20and%20levies%20and%20recording%20charges.md)
 - [&sect; 24909 - Authorization of appropriations](%C2%A7%2024909%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 24910 - Rail cooperative research program](%C2%A7%2024910%20-%20Rail%20cooperative%20research%20program.md)
-- [&sect; 24911 - Federal-State partnership for state of good repair](%C2%A7%2024911%20-%20Federal-State%20partnership%20for%20state%20of%20good%20repair.md)
+- [&sect; 24911 - Federal-State partnership for intercity passenger rail](%C2%A7%2024911%20-%20Federal-State%20partnership%20for%20intercity%20passenger%20rail.md)

@@ -12,7 +12,7 @@ The Congress makes the following findings:
 
 &emsp;(5) Events in the former Soviet Union and Eastern Europe have dramatically reduced Cuba's external support and threaten Cuba's food and oil supplies.
 
-&emsp;(6) The fall of communism in the former Soviet Union and Eastern Europe, the now universal recognition in Latin America and the Caribbean that Cuba provides a failed model of government and development, and the evident inability of Cuba's economy to survive current trends, provide the United States and the international democratic community with an unprecedented opportunity to promote a peaceful transition to democracy in Cuba.
+&emsp;(6) The fall of communism in the former Soviet Union and Eastern Europe, the now universal recognition in Latin America and theCaribbean that Cuba provides a failed model of government and development, and the evident inability of Cuba's economy to survive current trends, provide the United States and the international democratic community with an unprecedented opportunity to promote a peaceful transition to democracy in Cuba.
 
 &emsp;(7) However, Castro's intransigence increases the likelihood that there could be a collapse of the Cuban economy, social upheaval, or widespread suffering. The recently concluded Cuban Communist Party Congress has underscored Castro's unwillingness to respond positively to increasing pressures for reform either from within the party or without.
 

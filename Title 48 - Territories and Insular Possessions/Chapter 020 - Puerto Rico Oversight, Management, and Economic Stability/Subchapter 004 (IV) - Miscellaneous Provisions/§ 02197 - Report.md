@@ -1,6 +1,6 @@
 ### §2197. Report
 
-Not later than 18 months after June 30, 2016, the Comptroller General shall submit a reportto the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate describing—
+Not later than 18 months after June 30, 2016, the Comptroller General shall submit a report to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate describing—
 
 &emsp;(1) the conditions which led to the level of debt, which should be analyzed, per capita and based upon overall economic activity;
 

@@ -16,9 +16,13 @@ Deputy Chief of Staff.—Not later than March 1, 2016, the Chief of Staff shall 
 
 (Added Pub. L. 114–92, div. A, title XVI, §1652(a)(1), Nov. 25, 2015, 129 Stat. 1121, §8040; renumbered §9040, Pub. L. 115–232, div. A, title VIII, §806(c), Aug. 13, 2018, 132 Stat. 1833.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 8040 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

@@ -64,7 +64,7 @@
 
 #### (1) Monitoring
 
-&emsp;The President, with the assistance of appropriate Federal agencies, shall monitor any use under this part of a herbicide for aerial eradication in order to determine the impact of such use on the environment and on the health of individuals.
+&emsp;The President, with the assistance of appropriate Federal agencies, shall monitor any useunder this part of a herbicide for aerial eradication in order to determine the impact of such use on the environment and on the health of individuals.
 
 #### (2) Annual reports
 
@@ -84,13 +84,15 @@ For purposes of this part and other provisions of this chapter relating specific
 
 &emsp;&emsp;(B) the effective organization, staffing, equipping, funding, and activation of those governmental authorities responsible for narcotics control;
 
-&emsp;(2) the term "major illicit drug producing country" means a country in which—
+&emsp;(2) the term "major illicit drug producing country" means a country—
 
-&emsp;&emsp;(A) 1,000 hectares or more of illicit opium poppy is cultivated or harvested during a year;
+&emsp;&emsp;(A) in which 1,000 hectares or more of illicit opium poppy is cultivated or harvested during a year;
 
-&emsp;&emsp;(B) 1,000 hectares or more of illicit coca is cultivated or harvested during a year; or
+&emsp;&emsp;(B) in which 1,000 hectares or more of illicit coca is cultivated or harvested during a year;
 
-&emsp;&emsp;(C) 5,000 hectares or more of illicit cannabis is cultivated or harvested during a year, unless the President determines that such illicit cannabis production does not significantly affect the United States;
+&emsp;&emsp;(C) in which 5,000 hectares or more of illicit cannabis is cultivated or harvested during a year, unless the President determines that such illicit cannabis production does not significantly affect the United States; or
+
+&emsp;&emsp;(D) that is a significant source of illicit synthetic opioids significantly affecting the United States;
 
 &emsp;(3) the term "narcotic and psychotropic drugs and other controlled substances" has the same meaning as is given by any applicable international narcotics control agreement or domestic law of the country or countries concerned;
 
@@ -110,9 +112,15 @@ For purposes of this part and other provisions of this chapter relating specific
 
 &emsp;&emsp;(B) sales, or financing on any terms, under the Arms Export Control Act \[22 U.S.C. 2751 et seq.\];
 
-&emsp;&emsp;(C) the provision of agricultural commodities, other than food, under the Food for Peace Act \[7 U.S.C. 1691 et seq.\]; and
+&emsp;&emsp;(C) the provision of agricultural commodities, other than food, under the Food for Peace Act \[7 U.S.C. 1691 et seq.\];
 
 &emsp;&emsp;(D) financing under the Export-Import Bank Act of 1945 \[12 U.S.C. 635 et seq.\];
+
+&emsp;&emsp;(E) assistance that furthers the objectives set forth in paragraphs (1) through (4) of section 2151n–2(b) of this title;
+
+&emsp;&emsp;(F) assistance to combat trafficking authorized under the Victims of Trafficking and Violence Protection Act of 2000 (22 U.S.C. 7101 et seq.)) <sup>2</sup>; and
+
+&emsp;&emsp;(G) global health assistance authorized under sections 2151b through 2151b–4 of this title.
 
 &emsp;(5) the term "major drug-transit country" means a country—
 
@@ -126,7 +134,7 @@ For purposes of this part and other provisions of this chapter relating specific
 
 &emsp;(8) the term "appropriate congressional committees" means the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
 
-(Pub. L. 87–195, pt. I, §481, as added Pub. L. 92–352, title V, §503, July 13, 1972, 86 Stat. 496;amended Pub. L. 93–189, §11(a), Dec. 17, 1973, 87 Stat. 719; Pub. L. 94–329, title V, §504(b), June 30, 1976, 90 Stat. 764; Pub. L. 95–384, §§3, 4, Sept. 26, 1978, 92 Stat. 730; Pub. L. 96–92, §3(b), Oct. 29, 1979, 93 Stat. 702; Pub. L. 97–113, title V, §502(a)(1), (b), title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1538, 1539, 1560; Pub. L. 98–164, title X, §1003, Nov. 22, 1983, 97 Stat. 1053; Pub. L. 99–83, title VI, §§604–606, 618, Aug. 8, 1985, 99 Stat. 228, 229, 233; Pub. L. 99–570, title II, §§2005, 2008, 2009, 2017, Oct. 27, 1986, 100 Stat. 3207–61, 3207–64, 3207–68; Pub. L. 100–202, §101(e) \[title V, §585(a)\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–184; Pub. L. 100–204, title VIII, §805, Dec. 22, 1987, 101 Stat. 1397; Pub. L. 100–461, title V, §578(e)(2), (g)(1), (3), (h), (i), Oct. 1, 1988, 102 Stat. 2268–47, 2268–48; Pub. L. 100–690, title IV, §4202(b), 4401–4403, 4405(a), 4407(a), (b)(1), 4502, 4802(b), Nov. 18, 1988, 102 Stat. 4267, 4275–4277, 4281, 4285, 4294; Pub. L. 101–231, §§15, 17(a)–(f), Dec. 13, 1989, 103 Stat. 1963–1965; Pub. L. 102–550, title XV, §1519, Oct. 28, 1992, 106 Stat. 4060; Pub. L. 102–583, §§4(a)–(d), 5(b), 6(b)(1)–(3), 11(a), Nov. 2, 1992, 106 Stat. 4914, 4915, 4931, 4932, 4934; Pub. L. 103–447, title I, §101(a), (b), Nov. 2, 1994, 108 Stat. 4691; Pub. L. 104–164, title I, §131(a), July 21, 1996, 110 Stat. 1429; Pub. L. 105–20, §2(b), June 27, 1997, 111 Stat. 234; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Q), June 18, 2008, 122 Stat. 1820; Pub. L. 115–254, div. F, title VI, §1470(j)(3), Oct. 5, 2018, 132 Stat. 3517.)
+(Pub. L. 87–195, pt. I, §481, as added Pub. L. 92–352, title V, §503, July 13, 1972, 86 Stat. 496; amended Pub. L. 93–189, §11(a), Dec. 17, 1973, 87 Stat. 719; Pub. L. 94–329, title V, §504(b), June 30, 1976, 90 Stat. 764; Pub. L. 95–384, §§3, 4, Sept. 26, 1978, 92 Stat. 730; Pub. L. 96–92, §3(b), Oct. 29, 1979, 93 Stat. 702; Pub. L. 97–113, title V, §502(a)(1), (b), title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1538, 1539, 1560; Pub. L. 98–164, title X, §1003, Nov. 22, 1983, 97 Stat. 1053; Pub. L. 99–83,title VI, §§604–606, 618, Aug. 8, 1985, 99 Stat. 228, 229, 233; Pub. L. 99–570, title II, §§2005, 2008, 2009, 2017, Oct. 27, 1986, 100 Stat. 3207–61, 3207–64, 3207–68; Pub. L. 100–202, §101(e) \[title V, §585(a)\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–184; Pub. L. 100–204, title VIII, §805, Dec. 22, 1987, 101 Stat. 1397; Pub. L. 100–461, title V, §578(e)(2), (g)(1), (3), (h), (i), Oct. 1, 1988, 102 Stat. 2268–47, 2268–48; Pub. L. 100–690, title IV, §4202(b), 4401–4403, 4405(a), 4407(a), (b)(1), 4502, 4802(b), Nov. 18, 1988, 102 Stat. 4267, 4275–4277, 4281, 4285, 4294; Pub. L. 101–231, §§15, 17(a)–(f), Dec. 13, 1989, 103 Stat. 1963–1965; Pub. L. 102–550, title XV, §1519, Oct. 28, 1992, 106 Stat. 4060; Pub. L. 102–583, §§4(a)–(d), 5(b), 6(b)(1)–(3), 11(a), Nov. 2, 1992, 106 Stat. 4914, 4915, 4931, 4932, 4934; Pub. L. 103–447, title I, §101(a), (b), Nov. 2, 1994, 108 Stat. 4691; Pub. L. 104–164, title I, §131(a), July 21, 1996, 110 Stat. 1429; Pub. L. 105–20, §2(b), June 27, 1997, 111 Stat. 234; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Q), June 18, 2008, 122 Stat. 1820; Pub. L. 115–254, div. F, title VI, §1470(j)(3), Oct. 5, 2018, 132 Stat. 3517; Pub. L. 117–81, div. F, title LXVI, §6610(b), Dec. 27, 2021, 135 Stat. 2447.)
 
 #### <b>Editorial Notes</b>
 
@@ -144,11 +152,21 @@ The Food for Peace Act, referred to in subsec. (e)(4)(C), is act July 10, 1954, 
 
 The Export-Import Bank Act of 1945, referred to in subsec. (e)(4)(D), is act July 31, 1945, ch. 341, 59 Stat. 526, as amended, which is classified generally to subchapter I (§635 et seq.) of chapter 6A of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 635 of Title 12 and Tables.
 
+The Victims of Trafficking and Violence Protection Act of 2000, referred to in subsec. (e)(4)(F), is Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1464. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
+
 #### Prior Provisions
 
 A prior section 481 of Pub. L. 87–195, pt. I, as added Pub. L. 92–226, pt. I, §109, Feb. 7, 1972, 86 Stat. 24, contained similar subject matter, prior to repeal by section 503 of Pub. L. 92–352.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (e)(2). Pub. L. 117–81, §6610(b)(1)(A), struck out "in which" before dash at end of introductory provisions.
+
+Subsec. (e)(2)(A) to (C). Pub. L. 117–81, §6610(b)(1)(B), (C)(i), (D)(i), inserted "in which" at beginning of subpars. (A) to (C).
+
+Subsec. (e)(2)(D). Pub. L. 117–81, §6610(b)(1)(C)(ii), (D)(ii), (E), added subpar. (D).
+
+Subsec. (e)(4)(E) to (G). Pub. L. 117–81, §6610(b)(2), added subpars. (E) to (G).
 
 <b>2018</b>—Subsec. (e)(4)(A). Pub. L. 115–254 substituted "(and any support under subchapter II of chapter 103 of this title, relating to the United States International Development Finance Corporation)" for "(including programs under subpart IV of part II of this subchapter, relating to the Overseas Private Investment Corporation)" in introductory provisions.
 
@@ -178,11 +196,11 @@ Subsec. (a)(1). Pub. L. 102–583, §4(a), added par. (1) and struck out former 
 
 &emsp;"(C) the international community should provide assistance, where appropriate, to those producer and transit countries which require assistance in discharging these primary obligations;
 
-&emsp;"(D) international narcotics control programs should include, as a priority, the progressive elimination of the illicit cultivation of the crops from which narcotic and psychotropic drugs are derived, and should also include the suppression of the illicit manufacture of and traffic in narcotic and psychotropic drugs;
+&emsp;"(D) international narcotics control programs should include, as a priority, the progressive elimination of the illicit cultivation of the crops from which narcotic and psychotropic drugs are derived, and should also include the suppression of the illicitmanufacture of and traffic in narcotic and psychotropic drugs;
 
 &emsp;"(E) the objective of the United States in dealing with the problem of international money laundering should be to ensure that countries adopt comprehensive domestic measures against money laundering and cooperative with each other in narcotics money laundering investigations, prosecutions, and related forfeiture actions; and
 
-&emsp;"(F) effective international cooperation is necessary to control the illicit cultivation, production,and smuggling of, trafficking in, and abuse of narcotic and psychotropic drugs."
+&emsp;"(F) effective international cooperation is necessary to control the illicit cultivation, production, and smuggling of, trafficking in, and abuse of narcotic and psychotropic drugs."
 
 Subsec. (a)(1)(D) to (F). Pub. L. 102–550, §1519(a), struck out "and" at end of subpar. (D), added subpar. (E), and redesignated former subpar. (E) as (F).
 
@@ -252,7 +270,7 @@ Subsec. (i)(4). Pub. L. 102–583, §5(b), amended par. (4) generally. Prior to 
 
 Subsec. (i)(5). Pub. L. 102–550, §1519(c), inserted "or" at end of subpar. (A), substituted a period for "or" at end of subpar. (B), and struck out subpar. (C) which read as follows: "through which significant sums of drug-related profits or monies are laundered with the knowledge or complicity of the government."
 
-Subsecs. (j), (k). Pub. L. 102–583, §6(b)(2), struck out subsec. (j) relating to actions by international bodiesand subsec. (k) relating to procedures for determining major drug-transit countries.
+Subsecs. (j), (k). Pub. L. 102–583, §6(b)(2), struck out subsec. (j) relating to actions by international bodies and subsec. (k) relating to procedures for determining major drug-transit countries.
 
 <b>1989</b>—Subsec. (a)(1). Pub. L. 101–231, §17(a), struck out at end "This cooperation should include the development and transmittal of plans by each signatory country to the Single Convention on Narcotic Drugs, 1961, in which illicit narcotics and psychotropic crop cultivation exists, which would advise the International Narcotics Control Board, the United Nations Commission on Narcotic Drugs, and the international community of the strategy, programs, and timetable such country has established for the progressive elimination of that cultivation."
 
@@ -306,7 +324,7 @@ Subsec. (h)(6)(B). Pub. L. 100–690, §4407(a), (b)(1)(B)(i), (ii), redesignate
 
 Subsec. (h)(6)(B)(ii). Pub. L. 100–690, §4407(b)(1)(B)(iii), which directed substitution of "resolutions" for "resolution" was executed by making the substitution the first place it appears, thus correcting grammatical error, as the probable intent of Congress.
 
-Subsec. (i)(4)(vi). Pub. L. 100–690, §4802(b), made technical amendment to reference to section 2151b(c)(2) of this title to correct reference to corresponding section of original act.
+Subsec. (i)(4)(vi). Pub. L. 100–690, §4802(b), made technical amendment to reference to section 2151b(c)(2) ofthis title to correct reference to corresponding section of original act.
 
 Subsec. (i)(4)(vii). Pub. L. 100–690, §4403, substituted "2151x(b)(2) of this title (but any such assistance shall be subject to the prior notification procedures applicable to reprogrammings pursuant to section 2394–1 of this title)," for "2151x of this title;".
 
@@ -370,7 +388,7 @@ Subsecs. (f) to (j). Pub. L. 98–164, §1003(b), added subsecs. (f) to (j).
 
 <b>1981</b>—Subsec. (c)(2). Pub. L. 97–113, §734(a)(1), struck out par. (2) which provided for a Presidential study of multilateral narcotics control activities and transmission of this study to the Speaker of the House and the President of the Senate no later than June 30, 1977.
 
-Subsec. (d). Pub. L. 97–113, §502(a)(1), substituted provisions requiring the Secretary of State to inform the Secretary of Health and Human Services of any use of herbicides to eradicate marihuana in a program receiving assistance under this part, directing the Secretary of Health and Human Services to monitor the impact on the health of persons using such marihuana and if he determines their exposure to the herbicide harms their health, report to Congress such determination with any recommendations, urging the President to use not less than $100,000 to develop a substance that clearly and readily warns potential marihuana users that the marihuana has been sprayed with paraquat or other herbicide harmful to the health of the persons using it, and directing the Secretary of Agriculture, if such a substance is developed, to use such substance in conjunction with the spraying of paraquat or other herbicide for provisions prohibiting the use of funds under this part for spraying a herbicide to eradicate marihuana if that practice is likely to seriously harm the health of users of the sprayed marihuana, except if the substance is used with a substance that will clearly and readily warn potential users of the sprayed marihuana of the use of herbicide, and requiring the Secretary of State to submit a report to Congress not later than January 1 of each year detailing efforts taken to ensure compliance with this subsection.
+Subsec. (d). Pub. L. 97–113, §502(a)(1), substituted provisions requiring the Secretary of State to inform the Secretary of Health and Human Services of any use of herbicides to eradicate marihuana in a program receiving assistance under this part, directing the Secretary of Health and Human Services to monitor the impact on the health of persons using such marihuana and if he determines their exposure to the herbicide harms their health, report to Congress such determination with any recommendations, urging the President to use not less than $100,000 to develop a substance that clearly and readily warns potential marihuana users that the marihuana has been sprayed with paraquat or other herbicide harmful to the health of the persons using it, and directing the Secretary of Agriculture, if such a substance is developed, to use such substance in conjunction with the spraying of paraquat or other herbicide for provisions prohibiting the use of funds under this part for spraying a herbicide to eradicate marihuana if that practice is likely to seriously harm the health of users of the sprayed marihuana, except if the substance is used with a substance that will clearly and readily warn potential users of the sprayed marihuana of the use of herbicide, and requiring the Secretary of State to submit a report to Congress not later than January1 of each year detailing efforts taken to ensure compliance with this subsection.
 
 Subsec. (e). Pub. L. 97–113, §502(b), added subsec. (e).
 
@@ -385,6 +403,10 @@ Subsec. (d). Pub. L. 95–384, §4, added subsec. (d).
 <b>1973</b>—Pub. L. 93–189 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Pub. L. 117–81, div. F, title LXVI, §6610(e), Dec. 27, 2021, 135 Stat. 2450, provided that: "The amendments made by this section \[amending sections 2291, 2291h, and 2291j–1 of this title and enacting provisions set out as a note under section 2151 of this title\] shall take effect on the date that is 90 days after the date of the enactment of this Act \[Dec. 27, 2021\]."
 
 #### Effective Date of 2018 Amendment
 
@@ -604,7 +626,7 @@ Pub. L. 107–68, title I, §103, Nov. 12, 2001, 115 Stat. 568, provided that:
 
 "(b) This section shall apply to pay periods beginning on or after October 1, 2001."
 
-Pub. L. 99–93, title VIII, §814, Aug. 16, 1985, 99 Stat. 455, as amended by Pub. L. 99–151, title III, §306, Nov. 13, 1985, 99 Stat. 808; Pub. L. 100–202, §101(i) \[title I, §5\], Dec. 22, 1987, 101 Stat. 1329–290, 1329–294; Pub. L. 102–392, title III, §323, Oct. 6, 1992, 106 Stat. 1726; Pub. L. 105–119, title VI, §625, Nov. 26, 1997, 111 Stat. 2522; Pub. L. 106–57, title I, §7, Sept. 29, 1999, 113 Stat. 412; Pub. L. 107–228, div. A, title VI, §684, Sept. 30, 2002, 116 Stat. 1411, provided that:
+Pub. L. 99–93, title VIII, §814, Aug. 16, 1985, 99 Stat. 455, as amended by Pub. L. 99–151, title III, §306, Nov. 13, 1985, 99 Stat. 808; Pub. L. 100–202, §101(i) \[title I, §5\], Dec. 22, 1987, 101 Stat. 1329–290, 1329–294; Pub. L. 102–392,title III, §323, Oct. 6, 1992, 106 Stat. 1726; Pub. L. 105–119, title VI, §625, Nov. 26, 1997, 111 Stat. 2522; Pub. L. 106–57, title I, §7, Sept. 29, 1999, 113 Stat. 412; Pub. L. 107–228, div. A, title VI, §684, Sept. 30, 2002, 116 Stat. 1411, provided that:
 
 "(a)
 
@@ -729,4 +751,6 @@ The Secretary of State is authorized and directed to publish this memorandum in 
 George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original.</i>
 

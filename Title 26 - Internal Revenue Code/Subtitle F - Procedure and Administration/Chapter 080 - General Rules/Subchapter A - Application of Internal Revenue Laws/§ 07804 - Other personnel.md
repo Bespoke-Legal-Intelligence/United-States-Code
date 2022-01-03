@@ -24,7 +24,9 @@ If any officer or employee of the Treasury Department acting in connection with 
 
 The Commissioner may not hire any individual previously employed by the Commissioner who was removed for misconduct under this subchapter or chapter 43 or chapter 75 of title 5, United States Code, or whose employment was terminated under section 1203 of the Internal Revenue Service Restructuring and Reform Act of 1998 (26 U.S.C. 7804 note).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 916; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–206, title I, §1104(a), July 22, 1998, 112 Stat. 710; Pub. L. 116–25, title III, §3001(a), July 1, 2019, 133 Stat. 1014.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 916; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–206, title I, §1104(a), July22, 1998, 112 Stat. 710; Pub. L. 116–25, title III, §3001(a), July 1, 2019, 133 Stat. 1014.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -37,6 +39,8 @@ Section 1203 of the Internal Revenue Service Restructuring and Reform Act of 199
 <b>1998</b>—Pub. L. 105–206 amended section catchline and text generally, substituting present provisions for provisions which had declared: in subsec. (a), that provisions of Reorganization Plans No. 26 of 1950 and No. 1 of 1952 should apply to all functions vested by this title, or by any act amending this title in any officer, employee, or agency of the Department; and in subsec. (b), that nothing in such Reorganization Plans should be considered to impair existing rights and remedies, that for the purpose of any action to recover tax all statutes, rules, and regulations referring to collector of internal revenue, principal officer for internal revenue district, or Secretary, should be deemed to refer to officer whose acts gave rise to such action, and that venue of any such action should be the same as under existing law.
 
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2019 Amendment
 
@@ -242,7 +246,7 @@ Taxpayer Service.—The Internal Revenue Service shall use the fair and equitabl
 
 "(c)
 
-Certification.—Each appropriate supervisor shall certify quarterly by letter to the Commissioner of Internal Revenue whether or not tax enforcement results are being used in a manner prohibited by subsection (a).
+Certification.—Each appropriate supervisor shall certify quarterly by letter to the Commissioner ofInternal Revenue whether or not tax enforcement results are being used in a manner prohibited by subsection (a).
 
 "(d)
 
@@ -308,7 +312,7 @@ Other assistance.—In addition to any other forms of technical assistance provi
 
 Powers of the Secretary.—In carrying out his responsibilities under this section, the Secretary is authorized—
 
-&emsp;"(1) to provide assistance to organizations which demonstrate, to the satisfaction of the Secretary, that their volunteers are adequately trained andcompetent to render effective tax counseling to the elderly;
+&emsp;"(1) to provide assistance to organizations which demonstrate, to the satisfaction of the Secretary, that their volunteers are adequately trained and competent to render effective tax counseling to the elderly;
 
 &emsp;"(2) to provide for the training of such volunteers, and to assist in such training, to insure that such volunteers are qualified to provide tax counseling assistance to elderly individuals;
 

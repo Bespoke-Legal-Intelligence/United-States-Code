@@ -10,7 +10,7 @@ The Secretary shall publish a notice in the Federal Register soliciting nominati
 
 #### (c) Composition
 
-In establishing the board under subsection (a), the Secretary shall appoint members from thegeneral public who are individuals knowledgeable in child abuse and neglect prevention, intervention, treatment, or research, and with due consideration to representation of ethnic or racial minorities and diverse geographic areas, and who represent—
+In establishing the board under subsection (a), the Secretary shall appoint members from the general public who are individuals knowledgeable in child abuse and neglect prevention, intervention, treatment, or research, and with due consideration to representation of ethnic or racial minorities and diverse geographic areas, and who represent—
 
 &emsp;(1) law (including the judiciary);
 
@@ -60,6 +60,8 @@ Not later than 1 year after the establishment of the board under subsection (a),
 
 (Pub. L. 93–247, title I, §102, formerly §3, Jan. 31, 1974, 88 Stat. 5; Pub. L. 95–266, title I, §102, Apr. 24, 1978, 92 Stat. 206; Pub. L. 98–457, title I, §§102, 121, Oct. 9, 1984, 98 Stat. 1750, 1752; Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 103; renumbered title I, §102, and amended Pub. L. 101–126, §3(a)(1), (2), (b)(1), Oct. 25, 1989, 103 Stat. 764; Pub. L. 102–295, title I, §111, May 28, 1992, 106 Stat. 190; Pub. L. 104–235, title I, §102, Oct. 3, 1996, 110 Stat. 3065; Pub. L. 111–320, title I, §111, Dec. 20, 2010, 124 Stat. 3460.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (c)(4). Pub. L. 111–320, §111(1)(A), substituted "health care providers (including pediatricians)" for "medicine (including pediatrics)".
@@ -90,6 +92,8 @@ Cl. (3). Pub. L. 98–457, §121(2), (3), added cl. (3).
 
 <b>1978</b>—Pub. L. 95–266 inserted "or exploitation" after "sexual abuse" and ", or the age specified by the child protection law of the State in question," after "eighteen".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1989 Amendment
 
 Pub. L. 101–126, §8, Oct. 25, 1989, 103 Stat. 769, provided that: "This Act and the amendments made by this Act \[see Short Title of 1989 Amendment note set out under section 5101 of this title\] shall take effect October 1, 1989, or upon the date of the enactment of this Act \[Oct. 25, 1989\], whichever occurs later."
@@ -106,7 +110,7 @@ Pub. L. 98–457, title I, §128, Oct. 9, 1984, 98 Stat. 1755, provided that:
 
 #### Termination of Advisory Boards
 
-Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of its establishment, unless,in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the end of such period, or in the case of a board established by the Congress, its duration is otherwise provided by law, see sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of its establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the end of such period, or in the case of a board established by the Congress, its duration is otherwise provided by law, see sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Limitations on Use of Appropriated Funds
 

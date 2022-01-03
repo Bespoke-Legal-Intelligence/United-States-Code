@@ -68,7 +68,7 @@ The Secretary may make grants as provided in this section to applicants whose ap
 
 #### (2) Endowment trust for supportive services
 
-&emsp;In using grant amounts under this section made available in fiscal year 2000 or thereafter for supportive services under paragraph (1)(L), a public housing agency may deposit such amounts in an endowment trust to provide supportive services over such period of time as the agency determines. Such amounts shall be provided to the agency by the Secretary in a lump sum when requested by the agency, shall be invested in a wise and prudent manner, and shall be used (together with any interest thereon earned) only for eligible uses pursuant to paragraph (1)(L). A public housing agency may use amounts in an endowment trust under this paragraph in conjunction with other amounts donated or otherwise made available to the trust for similar purposes.
+&emsp;In using grant amounts under this section made available in fiscal year 2000 or thereafter for supportive services under paragraph (1)(L), a public housing agency may deposit such amounts in an endowment trust to provide supportive services over such period of time as the agency determines. Such amounts shall be provided to the agency by the Secretary in a lump sum when requested by the agency, shallbe invested in a wise and prudent manner, and shall be used (together with any interest thereon earned) only for eligible uses pursuant to paragraph (1)(L). A public housing agency may use amounts in an endowment trust under this paragraph in conjunction with other amounts donated or otherwise made available to the trust for similar purposes.
 
 #### (e) Application and selection
 
@@ -256,7 +256,7 @@ The Secretary shall submit to the Congress an annual report setting forth—
 
 #### (A) Application
 
-&emsp;&emsp;Pursuant to subsection (e)(1), the Secretary shall provide for smaller communitiesto apply for grants under this subsection, except that the Secretary may establish such separate or additional criteria for applications for such grants as may be appropriate to carry out this subsection.
+&emsp;&emsp;Pursuant to subsection (e)(1), the Secretary shall provide for smaller communities to apply for grants under this subsection, except that the Secretary may establish such separate or additional criteria for applications for such grants as may be appropriate to carry out this subsection.
 
 #### (B) Selection criteria
 
@@ -301,6 +301,8 @@ The Secretary shall submit to the Congress an annual report setting forth—
 No assistance may be provided under this section after September 30, 2017.
 
 (Sept. 1, 1937, ch. 896, title I, §24, as added Pub. L. 102–550, title I, §120, Oct. 28, 1992, 106 Stat. 3695; amended Pub. L. 104–99, title IV, §402(d)(6)(A)(vi), Jan. 26, 1996, 110 Stat. 43; Pub. L. 104–330, title V, §501(b)(9), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title V, §535(a), Oct. 21, 1998, 112 Stat. 2581; Pub. L. 106–377, §1(a)(1) \[title II, §214(b)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–27; Pub. L. 108–7, div. K, title II, §215, Feb. 20, 2003, 117 Stat. 504; Pub. L. 108–186, title IV, §§402(a), (b), (d), (e), 403, Dec. 16, 2003, 117 Stat. 2693, 2694; Pub. L. 109–289, div. B, title II, §21045, as added Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 54; Pub. L. 110–161, div. K, title II, §224, Dec. 26, 2007, 121 Stat. 2437; Pub. L. 111–8, div. I, title II, §223, Mar. 11, 2009, 123 Stat. 976; Pub. L. 111–117, div. A, title II, §222, Dec. 16, 2009, 123 Stat. 3101; Pub. L. 112–55, div. C, title II, §222, Nov. 18, 2011, 125 Stat. 699; Pub. L. 113–76, div. L, title II, §234, Jan. 17, 2014, 128 Stat. 634; Pub. L. 113–235, div. K, title II, §229, Dec. 16, 2014, 128 Stat. 2756; Pub. L. 114–113, div. L, title II, §228, Dec. 18, 2015, 129 Stat. 2895; Pub. L. 115–31, div. K, title II, §226, May 5, 2017, 131 Stat. 787.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -391,6 +393,8 @@ Long-term viability.—" before "The Secretary may waive" and par. (2) which rea
 Selection of tenants.—For projects revitalized under this section, a public housing agency may select tenants pursuant to a local system of preferences, in lieu of selecting tenants pursuant to the preferences specified under section 1437d(c)(4)(A)(i) of this title. Such local system shall be established in writing and shall respond to local housing needs and priorities as determined by the public housing agency. The public housing agency shall hold 1 or more public hearings to obtain the views of low-income tenants and other interested parties on the housing needs and priorities of the agency's jurisdiction." See Effective and Termination Dates of 1996 Amendments note below.
 
 Subsec. (h)(3). Pub. L. 104–330 struck out ", except that it does not include any Indian housing authority" after "section 1437a(b) of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

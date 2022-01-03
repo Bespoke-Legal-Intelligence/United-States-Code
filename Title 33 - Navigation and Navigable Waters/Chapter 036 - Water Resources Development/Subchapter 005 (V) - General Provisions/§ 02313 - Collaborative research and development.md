@@ -24,7 +24,7 @@ The research, development, or utilization of any technology pursuant to an agree
 
 #### (e) Authorization of appropriations
 
-To carry out the purposes of this section, there is authorized to be appropriated to the Secretary of the Army civil works funds $3,000,000 for fiscal year 1989, $4,000,000 for fiscal year 1990, $5,000,000 for fiscal year 1991, and $6,000,000 for each fiscal year thereafter.
+To carry out the purposes of this section, there is authorized to be appropriated to theSecretary of the Army civil works funds $3,000,000 for fiscal year 1989, $4,000,000 for fiscal year 1990, $5,000,000 for fiscal year 1991, and $6,000,000 for each fiscal year thereafter.
 
 #### (f) Funding from other Federal sources
 
@@ -70,7 +70,7 @@ Research and Development.—The Secretary is authorized, in cooperation with the
 
 "(b)
 
-Collaboration.—The Secretary is authorized to collaborate with non-Federal entities (including Stateand local governments, colleges and universities, and corporations, partnerships, sole proprietorships, and trade associations which are incorporated or established under laws of a State or the District of Columbia) in carrying out research and development on magnetic levitation technology.
+Collaboration.—The Secretary is authorized to collaborate with non-Federal entities (including State and local governments, colleges and universities, and corporations, partnerships, sole proprietorships, and trade associations which are incorporated or established under laws of a State or the District of Columbia) in carrying out research and development on magnetic levitation technology.
 
 "(c)
 

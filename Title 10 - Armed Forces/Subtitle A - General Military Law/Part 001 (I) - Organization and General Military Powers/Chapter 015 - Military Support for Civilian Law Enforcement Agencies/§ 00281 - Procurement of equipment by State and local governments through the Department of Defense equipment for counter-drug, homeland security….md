@@ -10,7 +10,7 @@ Procedures.—(1) The Secretary of Defense shall establish procedures in accorda
 
 &emsp;&emsp;(ii) Advance payment for such equipment, in an amount determined by the Secretary based on estimated or actual costs of the equipment and administrative costs incurred by the Department.
 
-&emsp;(B) A State may include in a request submitted under subparagraph (A) only the typeof equipment listed in the catalog produced under subsection (c).
+&emsp;(B) A State may include in a request submitted under subparagraph (A) only the type of equipment listed in the catalog produced under subsection (c).
 
 &emsp;(C) A request for equipment shall consist of an enumeration of the equipment that is desired by the State and units of local government within the State. The Governor of a State may establish such procedures as the Governor considers appropriate for administering and coordinating requests for equipment from units of local government within the State.
 
@@ -38,6 +38,8 @@ Definitions.—In this section:
 
 (Added Pub. L. 103–160, div. A, title XI, §1122(a)(1), Nov. 30, 1993, 107 Stat. 1754, §381; amended Pub. L. 110–417, \[div. A\], title VIII, §885(a), (b)(1), Oct. 14, 2008, 122 Stat. 4560, 4561; renumbered §281, Pub. L. 114–328, div. A, title XII, §1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 281, added Pub. L. 86–559, §1(2)(C), June 30, 1960, 74 Stat. 264; amended Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059, provided that certain references in this title to the adjutant general or assistant adjutant general of the National Guard of a jurisdiction be applied to another officer of the National Guard performing the duties of that office, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§1661(a)(2)(A), 1691, Oct. 5, 1994, 108 Stat. 2979, 3026, effective Dec. 1, 1994. See section 10214 of this title.
@@ -54,11 +56,15 @@ Subsec. (c). Pub. L. 110–417, §885(a)(2), struck out "law enforcement" before
 
 Subsec. (d)(2), (3). Pub. L. 110–417, §885(a)(3), in par. (2) inserted "or emergency response" after "law enforcement" in two places and in par. (3) struck out "law enforcement" before "equipment suitable" and inserted ", homeland security, and emergency response" after "counter-drug" and "and, in the case of equipment for homeland security activities, may not include any equipment that is not found on the Authorized Equipment List published by the Department of Homeland Security" before period at end.
 
-#### Termination of Trust Territory of the Pacific Islands
-
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Deadline for Establishing Procedures
 
 Pub. L. 103–160, div. A, title XI, §1122(b), Nov. 30, 1993, 107 Stat. 1755, directed the Secretary of Defense to establish procedures under subsec. (a) of this section not later than six months after Nov. 30, 1993.
+
+#### <b>Executive Documents</b>
+
+#### Termination of Trust Territory of the Pacific Islands
+
+For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 

@@ -34,7 +34,7 @@ If any of the Federal mandates in the bill or joint resolution are Federal inter
 
 #### (e) Preemption clarification and information
 
-When a committee of authorization of the Senate or the House of Representatives reports a bill or joint resolution of public character, the committee report accompanying the bill or joint resolution shall contain, if relevant to the bill or joint resolution, an explicit statement on the extent to which the bill or joint resolution is intended to preempt any State, local, or tribal law, and, if so, an explanation of the effect of such preemption.
+When a committee of authorization of the Senate or the House of Representatives reports a bill or joint resolution of public character, the committee report accompanying the bill or joint resolution shall contain, if relevant to the bill or joint resolution, an explicit statement on the extent to which the bill or joint resolution is intended to preempt any State, local, or triballaw, and, if so, an explanation of the effect of such preemption.
 
 #### (f) Publication of statement from Director
 

@@ -1,6 +1,6 @@
 ### §8721. Jurisdiction and control
 
-(a) The Secretary shall take possession of all properties inside the naval petroleum reserves that are or may become subject to the control ofand use by the United States for national defense purposes, except as otherwise provided in this chapter.
+(a) The Secretary shall take possession of all properties inside the naval petroleum reserves that are or may become subject to the control of and use by the United States for national defense purposes, except as otherwise provided in this chapter.
 
 (b) The Secretary has exclusive jurisdiction and control over those lands inside Naval Petroleum Reserves Numbered 1 and 2 that are covered by leases granted under sections 181–184, 185–188, 189–194, 201, 202–209, 211–214, 223, 224–226, 226d, 226e, 227–229a, 241, 251, and 261–263 of title 30, and shall administer those leases.
 
@@ -34,6 +34,8 @@ Feb. 25, 1928, ch. 104, 45 Stat. 148.
 
 In subsection (b) the reference to the transfer of jurisdiction and administration is omitted as executed.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 194 of title 30, referred to in subsec. (b), was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 644.
@@ -57,6 +59,8 @@ A prior section 8721, acts Aug. 10, 1956, ch. 1041, 70A Stat. 538; Sept. 2, 1958
 <b>1976</b>—Subsec. (a). Pub. L. 94–258 struck out "of the Navy" after "Secretary", "and oil shale" after "naval petroleum", and substituted "for national defense purposes" for "for naval purposes", and "this chapter" for "section 7438 hereof".
 
 <b>1962</b>—Subsec. (a). Pub. L. 87–796 empowered the Secretary to take possession of all properties inside the oil shale reserves, and inserted the exception clause.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

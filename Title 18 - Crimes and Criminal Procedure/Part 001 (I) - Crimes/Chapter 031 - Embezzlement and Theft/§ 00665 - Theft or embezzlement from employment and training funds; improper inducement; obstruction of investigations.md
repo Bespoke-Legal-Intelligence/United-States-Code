@@ -12,7 +12,7 @@
 
 #### References in Text
 
-The Workforce Innovation and Opportunity Act, referred to in text, is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
+The Workforce Innovation and Opportunity Act, referred to in text, is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally tosubchapter I (§3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
 The Workforce Investment Act of 1998, referred to in text, is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Title I of the Act was classified principally to former chapter 30 (former §2801 et seq.) of Title 29, Labor. Pursuant to section 3361(a) of Title 29, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, effective July 1, 2015. For complete classification of this Act to the Code, see Tables.
 
@@ -24,7 +24,7 @@ Section 711(a) of Pub. L. 93–203, cited as a credit to this section, was omitt
 
 <b>2014</b>—Subsec. (a). Pub. L. 113–128, §512(ee)(1), substituted "Whoever, being an officer, director, agent, or employee of, or connected in any capacity with any agency or organization receiving financial assistance or any funds under title I of the Workforce Innovation and Opportunity Act or title I of the Workforce Investment Act of 1998" for "Whoever, being an officer, director, agent, or employee of, or connected in any capacity with any agency or organization receiving financial assistance or any funds under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998".
 
-Subsec. (b). Pub. L. 113–128, §512(ee)(2), substituted "a contract of employment in connection with a financialassistance agreement or contract under title I of the Workforce Innovation and Opportunity Act or title I of the Workforce Investment Act of 1998" for "a contract of employment in connection with a financial assistance agreement or contract under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998".
+Subsec. (b). Pub. L. 113–128, §512(ee)(2), substituted "a contract of employment in connection with a financial assistance agreement or contract under title I of the Workforce Innovation and Opportunity Act or title I of the Workforce Investment Act of 1998" for "a contract of employment in connection with a financial assistance agreement or contract under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998".
 
 Subsec. (c). Pub. L. 113–128, §512(ee)(3), substituted "Whoever willfully obstructs or impedes or willfully endeavors to obstruct or impede, an investigation or inquiry under title I of the Workforce Innovation and Opportunity Act or title I of the Workforce Investment Act of 1998," for "Whoever willfully obstructs or impedes or willfully endeavors to obstruct or impede, an investigation or inquiry under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998,".
 

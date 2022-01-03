@@ -68,7 +68,7 @@
 
 &emsp;&emsp;&emsp;(i) an agency or organization that is responsible for licensing or certifying long-term care services in the State; or
 
-&emsp;&emsp;&emsp;(ii) an association (or an affiliate of such an association) of long-term care facilities, or of any other residential facilities for older individuals.
+&emsp;&emsp;&emsp;(ii) an association (or an affiliate of such an association) of long-term care facilities,or of any other residential facilities for older individuals.
 
 #### (5) Designation of local Ombudsman entities and representatives
 
@@ -228,7 +228,7 @@ In planning and operating the program, the State agency shall consider the views
 
 &emsp;&emsp;&emsp;(v) does not have management responsibility for, or operate under the supervision of an individual with management responsibility for, adult protective services; and
 
-&emsp;&emsp;&emsp;(vi) does not serve as a guardian or in another fiduciary capacity for residents of long-term care facilities in an official capacity (as opposed to serving as a guardian or fiduciary for a family member, in a personal capacity).
+&emsp;&emsp;&emsp;(vi) does not serve as a guardian or in another fiduciary capacity for residents oflong-term care facilities in an official capacity (as opposed to serving as a guardian or fiduciary for a family member, in a personal capacity).
 
 #### (2) Organizational conflict of interest
 
@@ -312,7 +312,7 @@ The State agency shall require the Office to—
 
 &emsp;&emsp;(F) providing policy, regulatory, and legislative recommendations to solve identified problems, to resolve the complaints, to improve the quality of care and life of residents, to protect the health, safety, welfare, and rights of residents, and to remove the barriers;
 
-&emsp;(2) analyze, comment on, and monitor the development and implementation of Federal,State, and local laws, regulations, and other government policies and actions that pertain to long-term care facilities and services, and to the health, safety, welfare, and rights of residents, in the State, and recommend any changes in such laws, regulations, and policies as the Office determines to be appropriate;
+&emsp;(2) analyze, comment on, and monitor the development and implementation of Federal, State, and local laws, regulations, and other government policies and actions that pertain to long-term care facilities and services, and to the health, safety, welfare, and rights of residents, in the State, and recommend any changes in such laws, regulations, and policies as the Office determines to be appropriate;
 
 &emsp;(3)(A) provide such information as the Office determines to be necessary to public and private agencies, legislators, and other persons, regarding—
 
@@ -371,6 +371,8 @@ The State shall—
 &emsp;(3) provide for appropriate sanctions with respect to the interference, retaliation, and reprisals.
 
 (Pub. L. 89–73, title VII, §712, as added Pub. L. 102–375, title VII, §702, Sept. 30, 1992, 106 Stat. 1276; amended Pub. L. 103–171, §3(a)(9), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 106–402, title IV, §401(b)(9)(D), Oct. 30, 2000, 114 Stat. 1739; Pub. L. 106–501, title VII, §704, title VIII, §801(e)(2), Nov. 13, 2000, 114 Stat. 2289, 2293; Pub. L. 114–144, §8(c), Apr. 19, 2016, 130 Stat. 347; Pub. L. 116–131, title VI, §602, Mar. 25, 2020, 134 Stat. 268.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -457,6 +459,8 @@ Subsec. (h)(8), (9). Pub. L. 106–501, §704(2)(B)–(D), added par. (8) and re
 Subsec. (h)(4)(A). Pub. L. 103–171, §3(a)(9)(A), substituted "Director of the Office of Long-Term Care Ombudsman Programs" for "Associate Commissioner for Ombudsman Programs".
 
 Subsec. (j)(1). Pub. L. 103–171, §3(a)(9)(B), substituted "Assistant Secretary" for "Commissioner".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

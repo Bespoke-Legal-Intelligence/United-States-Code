@@ -18,7 +18,7 @@ The Secretary is authorized and directed to assist and cooperate with other Fede
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–363, §3(c), July 17, 1984, 98 Stat. 436, provided that: "The amendments made by subsections (a) and (b) \[amending this section and section 402 of this title\] shall apply to fiscal years beginning after the date of enactment of this Act \[July 17, 1984\]."
+Pub. L. 98–363, §3(c), July 17, 1984, 98 Stat. 436, provided that: "The amendments made by subsections (a)and (b) \[amending this section and section 402 of this title\] shall apply to fiscal years beginning after the date of enactment of this Act \[July 17, 1984\]."
 
 #### Short Title of 1991 Amendment
 
@@ -55,6 +55,18 @@ Pub. L. 91–605, title II, §201, Dec. 31, 1970, 84 Stat. 1739, provided that: 
 #### Short Title
 
 Pub. L. 89–564, title II, §208, Sept. 9, 1966, 80 Stat. 737, provided that: "This Act \[enacting this chapter, amending sections 105 and 307 of this title, repealing sections 135 and 313 of this title, and enacting provisions set out as notes under this section and sections 303, 307, 402, and 403 of this title\] may be cited as the 'Highway Safety Act of 1966'."
+
+#### Transportation Management Plans
+
+Pub. L. 117–58, div. A, title I, §11303, Nov. 15, 2021, 135 Stat. 530, provided that:
+
+"(a)
+
+In General.—The Secretary \[of Transportation\] shall amend section 630.1010(c) of title 23, Code of Federal Regulations, to ensure that only a project described in that subsection with a lane closure for 3 or more consecutive days shall be considered to be a significant project for purposes of that section.
+
+"(b)
+
+Non-Interstate Projects.—Notwithstanding any other provision of law, a State shall not be required to develop or implement a transportation management plan (as described in section 630.1012 of title 23, Code of Federal Regulations (or successor regulations)) for a highway project not on the Interstate System if the project requires not more than 3 consecutive days of lane closures."
 
 #### Highway Safety Grants Emergency Authority
 
@@ -214,13 +226,15 @@ Contract authority.—Funds authorized by this subsection shall be available for
 
 #### Prohibition on Other Uses
 
-Pub. L. 114–94, div. A, title IV, §4001(b), Dec. 4, 2015, 129 Stat. 1498, provided that: "Except as otherwise provided in chapter 4 of title 23, United States Code, and chapter 303 of title 49, United States Code, the amounts made available from the Highway Trust Fund (other than the Mass Transit Account) for a program under such chapters—
+Pub. L. 117–58, div. B, title IV, §24101(b), Nov. 15, 2021, 135 Stat. 784, provided that: "Except as otherwise provided in chapter 4 of title 23, and chapter 303 of title 49, United States Code, the amounts made available under subsection (a) \[of section 24101 of Pub. L. 117–58, 135 Stat. 784\] or any other provision of law from the Highway Trust Fund (other than the Mass Transit Account) for a program under those chapters—
 
-&emsp;"(1) shall only be used to carry out such program; and
+&emsp;"(1) shall only be used to carry out that program; and
 
-&emsp;"(2) may not be used by States or local governments for construction purposes."
+&emsp;"(2) may not be used by a State or local government for construction purposes."
 
 Similar provisions were contained in the following prior acts:
+
+Pub. L. 114–94, div. A, title IV, §4001(b), Dec. 4, 2015, 129 Stat. 1498.
 
 Pub. L. 112–141, div. C, title I, §31101(b), July 6, 2012, 126 Stat. 733.
 
@@ -253,6 +267,8 @@ Equipment.—Equipment developed under the study shall be directed toward, but n
 Safety applications.—In conducting the study, the Secretary shall determine whether the technology described in this subsection has other appropriate safety applications."
 
 #### Work Zone Safety Program
+
+Pub. L. 117–58, div. A, title I, §11302, Nov. 15, 2021, 135 Stat. 530, provided that: "The Secretary \[of Transportation\] shall amend section 630.1008(e) of title 23, Code of Federal Regulations, to ensure that the work zone process review under that subsection is required not more frequently than once every 5 years."
 
 Pub. L. 109–59, title I, §1410, Aug. 10, 2005, 119 Stat. 1233, provided that:
 
@@ -310,7 +326,7 @@ Pub. L. 97–424, title II, §207, Jan. 6, 1983, 96 Stat. 2139, provided that: "
 
 #### National Driver Registration
 
-Pub. L. 97–364, title II, §§201–211, Oct. 25, 1982, 96 Stat. 1740–1748, as amended by Pub. L. 100–223, title III, §305, Dec. 30, 1987, 101 Stat. 1525; Pub. L. 100–342, §4(b), June 22, 1988, 102 Stat. 626; Pub. L. 101–380, title IV, §4105(a), Aug. 18, 1990, 104 Stat. 512; Pub. L. 102–240, title II, §2007, Dec. 18, 1991, 105 Stat. 2080, directed Secretary of Transportation to establish and maintain a National Driver Register to assist States in exchange of information on motor vehicle driving records of individuals and provided for reports by State officials, accessibility of Register information, a pilot test program, criminal penalties, an advisory committee, and a report to Congress by the Secretary, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and Pub. L. 103–429, §8(10), Oct. 31, 1994, 108 Stat. 4390, and was restated in part in chapter 303 of Title 49, Transportation.
+Pub. L. 97–364, title II, §§201–211, Oct. 25, 1982, 96 Stat. 1740–1748, as amended by Pub. L. 100–223, title III, §305, Dec. 30, 1987, 101 Stat. 1525; Pub. L. 100–342, §4(b), June 22, 1988, 102 Stat. 626; Pub. L. 101–380, title IV, §4105(a), Aug. 18, 1990, 104 Stat. 512; Pub. L. 102–240, title II, §2007, Dec. 18, 1991, 105 Stat. 2080, directed Secretary ofTransportation to establish and maintain a National Driver Register to assist States in exchange of information on motor vehicle driving records of individuals and provided for reports by State officials, accessibility of Register information, a pilot test program, criminal penalties, an advisory committee, and a report to Congress by the Secretary, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and Pub. L. 103–429, §8(10), Oct. 31, 1994, 108 Stat. 4390, and was restated in part in chapter 303 of Title 49, Transportation.
 
 #### Pilot Projects for Highway Safety Education and Information
 
@@ -356,7 +372,7 @@ Pub. L. 93–87, title II, §214, Aug. 13, 1973, 87 Stat. 289, authorized the ap
 
 #### Highway Safety Needs Study
 
-Pub. L. 93–87, title II, §225, Aug. 13, 1973, 87 Stat. 292, mandated a study by the Secretary of Transportation of highway safety needs of the States, including those of Puerto Rico, the District of Columbia, Guam, American Samoa, the Virgin Islands and other territories, in order to evaluate continuing safety programs and furnish Congress with information necessary for authorization of appropriations for continuing safety programs, the results of such study, estimates and recommendations to be submitted to Congress not later than Jan. 10, 1976.
+Pub. L. 93–87, title II, §225, Aug. 13, 1973, 87 Stat. 292, mandated a study by the Secretary of Transportationof highway safety needs of the States, including those of Puerto Rico, the District of Columbia, Guam, American Samoa, the Virgin Islands and other territories, in order to evaluate continuing safety programs and furnish Congress with information necessary for authorization of appropriations for continuing safety programs, the results of such study, estimates and recommendations to be submitted to Congress not later than Jan. 10, 1976.
 
 #### National Highway Traffic Safety Administration; Creation; Appointment of Administrator and Deputy Administrator; Duties; Retroactive Effect
 
@@ -370,7 +386,7 @@ Pub. L. 91–605, title II, §202(b), Dec. 31, 1970, 84 Stat. 1740, permitted Pr
 
 Pub. L. 89–564, title II, §202, Sept. 9, 1966, 80 Stat. 736, as amended by Pub. L. 93–87, title II, §224, Aug. 13, 1973, 87 Stat. 292, provided that:
 
-"(a) The Secretary shall prepare and submit to the President for transmittal to the Congress on July 1 of each year a comprehensive report on the administration of the Highway Safety Act of 1966 (including chapter 4 of title 23 of the United States Code) for the preceding calendar year. Such report should include butnot be restricted to (1) a thorough statistical compilation of the accidents and injuries occurring in such year; (2) a list of all safety standards issued or in effect in such year; (3) the scope of observance of applicable Federal standards; (4) a statement of enforcement actions including judicial decisions, settlements, or pending litigation during the year; (5) a summary of all current research grants and contracts together with a description of the problems to be considered by such grants and contracts; (6) an analysis and evaluation of completed research activities and technological progress achieved during such year together with the relevant policy recommendations flowing therefrom: (7) the effectiveness of State highway safety program (including local highway safety programs) and (8) the extent to which technical information was being disseminated to the scientific community and consumer-oriented material was made available to the motoring public.
+"(a) The Secretary shall prepare and submit to the President for transmittal to the Congress on July 1 of each year a comprehensive report on the administration of the Highway Safety Act of 1966 (including chapter 4 of title 23 of the United States Code) for the preceding calendar year. Such report should include but not be restricted to (1) a thorough statistical compilation of the accidents and injuries occurring in such year; (2) a list of all safety standards issued or in effect in such year; (3) the scope of observance of applicable Federal standards; (4) a statement of enforcement actions including judicial decisions, settlements, or pending litigation during the year; (5) a summary of all current research grants and contracts together with a description of the problems to be considered by such grants and contracts; (6) an analysis and evaluation of completed research activities and technological progress achieved during such year together with the relevant policy recommendations flowing therefrom: (7) the effectiveness of State highway safety program (including local highway safety programs) and (8) the extent to which technical information was being disseminated to the scientific community and consumer-oriented material was made available to the motoring public.
 
 "(b) The annual report shall also contain such recommendations for additional legislation as the Secretary deems necessary to promote cooperation among the several States in the improvement of highway safety and to strengthen the national highway safety program."
 

@@ -4,6 +4,8 @@ No civil action may be brought against the United States on the basis of the con
 
 (Added Pub. L. 103–337, div. A, title X, §1074(b), Oct. 5, 1994, 108 Stat. 2861, §2798; renumbered §456 and amended Pub. L. 104–201, div. A, title XI, §1112(b), Sept. 23, 1996, 110 Stat. 2682; Pub. L. 108–136, div. A, title IX, §921(d)(2)(A), Nov. 24, 2003, 117 Stat. 1568; Pub. L. 116–283, div. A, title XVI, §1621(e), Jan. 1, 2021, 134 Stat. 4053.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283 added text of section and struck out former text which read as follows:
@@ -19,6 +21,8 @@ Navigational Aids Covered.—Subsection (a) applies with respect to a navigation
 <b>2003</b>—Pub. L. 108–136 substituted "National Geospatial-Intelligence Agency" for "National Imagery and Mapping Agency" wherever appearing.
 
 <b>1996</b>—Pub. L. 104–201 renumbered section 2798 of this title as this section and substituted "National Imagery and Mapping Agency" for "Defense Mapping Agency" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

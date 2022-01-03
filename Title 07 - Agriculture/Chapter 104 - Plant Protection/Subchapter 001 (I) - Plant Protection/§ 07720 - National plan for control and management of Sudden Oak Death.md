@@ -28,6 +28,8 @@ There is authorized to be appropriated to the Secretary such sums as may be nece
 
 (Pub. L. 108–488, §1, Dec. 23, 2004, 118 Stat. 3964.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was not enacted as part of the Plant Protection Act which comprises this chapter.

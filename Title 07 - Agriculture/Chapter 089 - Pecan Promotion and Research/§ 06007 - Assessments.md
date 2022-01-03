@@ -30,7 +30,7 @@ No more than one assessment may be assessed under subsection (a) on a grower (as
 
 #### (B) Grower-shellers
 
-&emsp;&emsp;Each first handler who is a grower-sheller and who is required to remit an assessment under paragraph (1) shall remit such assessment to the Board, to the extent practicable, in payments of one-third of the total annual amount of such assessment due to the Board on January 31, March 31, and May 10, or such dates as may be recommended bythe Board and approved by the Secretary, during the fiscal year that the pecans being assessed were harvested.
+&emsp;&emsp;Each first handler who is a grower-sheller and who is required to remit an assessment under paragraph (1) shall remit such assessment to the Board, to the extent practicable, in payments of one-third of the total annual amount of such assessment due to the Board on January 31, March 31, and May 10, or such dates as may be recommended by the Board and approved by the Secretary, during the fiscal year that the pecans being assessed were harvested.
 
 #### (C) Importers
 

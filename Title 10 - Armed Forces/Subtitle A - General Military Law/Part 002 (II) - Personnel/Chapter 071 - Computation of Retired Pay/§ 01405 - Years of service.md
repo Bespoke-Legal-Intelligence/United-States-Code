@@ -20,7 +20,7 @@ Fractional Years of Service.—In determining a member's years of service under 
 
 (c)
 
-Exclusion of Time Required To Be Made Up or Excluded.—(1) Time required to be made up by an enlisted member of the Army, Air Force, or Space Force under section 972(a) of this title, or required to be made up by an enlisted member of the Navy, Marine Corps, or Coast Guard under that section with respect to a period of time after October 5, 1994, may not be counted in determining years of service under subsection (a).
+Exclusion of Time Required To Be Made Up or Excluded.—(1) Time required to be made up by an enlisted member of the Army, Air Force, or Space Force under section 972(a) of this title, or required to be made up by an enlisted member of the Navy, Marine Corps, orCoast Guard under that section with respect to a period of time after October 5, 1994, may not be counted in determining years of service under subsection (a).
 
 (2) Section 972(b) of this title excludes from computation of an officer's years of service for purposes of this section any time identified with respect to that officer under that section.
 
@@ -50,7 +50,9 @@ The change corrects a typographical error.
 
 #### 1982 Act
 
-This amends 10:1405 to correct an inadvertent error in the codification of title 10 in 1956 relating to retirement pay of warrant officers advanced on the retired list. Under provisions of law first enacted in 1948 through the codification of title 10 in 1956 and until 1965, warrant officers advanced on the retired list received credit for inactive service in the computation of retirement pay. The Comptroller General in 1965 (B–156576) held ineffect that computation of such retirement pay was governed by the wording of new title 10 that based the computation on years of active service only even though this had the result of making a substantive change. The Armed Services Committee of the House of Representatives concurs that an error was made in the codification of title 10 and has indicated that corrective legislative action is properly a responsibility of the House Judiciary Committee. See, also, the amendments to 10:3992 and 8992 made by sections 1(40) and 1(52), respectively.
+This amends 10:1405 to correct an inadvertent error in the codification of title 10 in 1956 relating to retirement pay of warrant officers advanced on the retired list. Under provisions of law first enacted in 1948 through the codification of title 10 in 1956 and until 1965, warrant officers advanced on the retired list received credit for inactive service in the computation of retirement pay. The Comptroller General in 1965 (B–156576) held in effect that computation of such retirement pay was governed by the wording of new title 10 that based the computation on years of active service only even though this had the result of making a substantive change. The Armed Services Committee of the House of Representatives concurs that an error was made in the codification of title 10 and has indicated that corrective legislative action is properly a responsibility of the House Judiciary Committee. See, also, the amendments to 10:3992 and 8992 made by sections 1(40) and 1(52), respectively.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -78,6 +80,8 @@ Pub. L. 87–649 substituted "section 205(a)(7) and (8) of title 37" for "sectio
 
 <b>1958</b>—Pub. L. 85–861 inserted references to sections 6323(e) and 6391(h) of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–106 effective Feb. 10, 1996, and applicable to any period of time covered by section 972 of this title that occurs after that date, see section 561(e) of Pub. L. 104–106, set out as a note under section 972 of this title.
@@ -104,7 +108,7 @@ Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 
 
 #### Effective Date
 
-Section effective June 1, 1958, see section 9 of Pub. L. 85–422.
+Section effective June 1, 1958, see section 9 of Pub. L. 85–422, May 20, 1958, 72 Stat. 130.
 
 #### Transfer of Functions
 

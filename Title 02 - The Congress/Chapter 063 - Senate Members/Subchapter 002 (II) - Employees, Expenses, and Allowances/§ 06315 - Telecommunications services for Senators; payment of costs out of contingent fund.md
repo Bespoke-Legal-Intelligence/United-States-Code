@@ -2,7 +2,7 @@
 
 The Sergeant at Arms and Doorkeeper of the Senate shall furnish each Senator local and long-distance telecommunications services in Washington, District of Columbia, and in such Senator's State in accordance with regulations prescribed by the Senate Committee on Rules and Administration; and the costs of such service shall be paid out of the contingent fund of the Senate from moneys made available to him for that purpose.
 
-(Pub. L. 98–181, title I, §1205(a), Nov. 30, 1983, 97 Stat. 1290; Pub. L. 99–65, §1(b), July 12, 1985, 99 Stat. 163; Pub. L. 99–439, Oct. 2, 1986, 100 Stat. 1085.)
+(Pub. L. 98–181, title I, §1205(a), Nov. 30, 1983, 97 Stat. 1290; Pub. L. 99–65, §1(b), July 12, 1985, 99Stat. 163; Pub. L. 99–439, Oct. 2, 1986, 100 Stat. 1085.)
 
 #### <b>Editorial Notes</b>
 

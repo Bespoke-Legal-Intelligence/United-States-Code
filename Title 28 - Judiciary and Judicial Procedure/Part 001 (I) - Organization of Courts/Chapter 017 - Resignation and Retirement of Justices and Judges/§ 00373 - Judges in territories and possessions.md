@@ -45,7 +45,7 @@
 
 #### Historical and Revision Notes
 
-Based on section 634b and 634c of title 48, U.S.C., 1940 ed., Territories and Insular Possessions. \[title 28,U.S.C., 1940 ed., §§375g, 375g note, 375h\] (May 31, 1938, ch. 301, §§1, 2, 52 Stat. 591; Apr. 16, 1946, ch. 139, §§1, 2, 3, 60 Stat. 90, 91).
+Based on section 634b and 634c of title 48, U.S.C., 1940 ed., Territories and Insular Possessions. \[title 28, U.S.C., 1940 ed., §§375g, 375g note, 375h\] (May 31, 1938, ch. 301, §§1, 2, 52 Stat. 591; Apr. 16, 1946, ch. 139, §§1, 2, 3, 60 Stat. 90, 91).
 
 Section consolidates sections 634b and 634c of title 48, U.S.C., 1940 ed., as amended and transferred to title 28, U.S.C., 1940 ed., as sections 375g and 375h thereof, with changes of phraseology necessary to effect consolidation.
 

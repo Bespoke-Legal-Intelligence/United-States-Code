@@ -4,9 +4,9 @@
 
 In General.—Government rights in the design of a vessel, boat, or craft, and its components, including the hull, decks, superstructure, and all shipboard equipment and systems, shall be determined solely as follows:
 
-&emsp;(1) In the case of a vessel, boat, craft, or component procured through a contract, in accordance with the provisions of section 2320 of this title.
+&emsp;(1) In the case of a vessel, boat, craft, or component procured through a contract, in accordance with the provisions of subchapter I of chapter 275 of this title.
 
-&emsp;(2) In the case of a vessel, boat, craft, or component procured through an instrument not governed by section 2320 of this title, by the terms of the instrument (other than a contract) under which the design for such vessel, boat, craft, or component, as applicable, was developed for the Government.
+&emsp;(2) In the case of a vessel, boat, craft, or component procured through an instrument not governed by subchapter I of chapter 275 of this title, by the terms of the instrument (other than a contract) under which the design for such vessel, boat, craft, or component, as applicable, was developed for the Government.
 
 (b)
 
@@ -14,19 +14,19 @@ Construction of Superseding Authorities.—This section may be modified or super
 
 (Added Pub. L. 110–417, \[div. A\], title VIII, §825(a), Oct. 14, 2008, 122 Stat. 4534, §7317; renumbered §8687, Pub. L. 115–232, div. A, title VIII, §807(d)(2), Aug. 13, 2018, 132 Stat. 1836; amended Pub. L. 116–283, div. A, title XVIII, §1833(p), Jan. 1, 2021, 134 Stat. 4234.)
 
-#### Amendment of Subsection (a)
-
-<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1833(p), Jan. 1, 2021, 134 Stat. 4151, 4234, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, subsection (a) of this section is amended by striking "section 2320" each place it appears and inserting "subchapter I of chapter 275". See 2021 Amendment note below.</i>
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
-A prior section 8687, acts Aug. 10, 1956, ch. 1041, 70A Stat. 536; Sept. 2, 1958, Pub. L. 85–861, §1(188), 72 Stat.1534; Sept. 7, 1962, Pub. L. 87–649, §6(d), 76 Stat. 494, related to compensation for members of Air Force other than Regular Air Force prior to repeal by Pub. L. 99–661, div. A, title VI, §604(f)(1)(A), Nov. 14, 1986, 100 Stat. 3877.
+A prior section 8687, acts Aug. 10, 1956, ch. 1041, 70A Stat. 536; Sept. 2, 1958, Pub. L. 85–861, §1(188), 72 Stat. 1534; Sept. 7, 1962, Pub. L. 87–649, §6(d), 76 Stat. 494, related to compensation for members of Air Force other than Regular Air Force prior to repeal by Pub. L. 99–661, div. A, title VI, §604(f)(1)(A), Nov. 14, 1986, 100 Stat. 3877.
 
 #### Amendments
 
 <b>2021</b>—Subsec. (a). Pub. L. 116–283 substituted "subchapter I of chapter 275" for "section 2320" in pars. (1) and (2).
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7317 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2021 Amendment
 

@@ -82,7 +82,7 @@ Amendment by section 113(e) of Pub. L. 116–94 applicable with respect to fisca
 
 #### Effective Date of 2018 Amendment
 
-Pub. L. 115–244, div. B, title I, §119(b), Sept. 21, 2018, 132 Stat. 2931, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to fiscal year 2019 and each succeeding fiscal year."
+Pub. L. 115–244, div. B, title I, §119(b), Sept. 21, 2018, 132 Stat. 2931, provided that: "The amendment made bysubsection (a) \[amending this section\] shall apply with respect to fiscal year 2019 and each succeeding fiscal year."
 
 #### Effective Date of 2014 Amendment
 

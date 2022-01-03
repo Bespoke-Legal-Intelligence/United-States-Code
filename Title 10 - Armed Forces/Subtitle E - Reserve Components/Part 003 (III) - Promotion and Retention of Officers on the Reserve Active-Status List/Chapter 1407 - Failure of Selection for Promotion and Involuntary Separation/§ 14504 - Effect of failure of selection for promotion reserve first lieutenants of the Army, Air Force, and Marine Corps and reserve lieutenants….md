@@ -14,9 +14,13 @@ Officers in Grade of First Lieutenant or Lieutenant (Junior Grade) Found Not Ful
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2950; amended Pub. L. 107–107, div. A, title V, §505(b)(2), Dec. 28, 2001, 115 Stat. 1087.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2001</b>—Subsec. (c). Pub. L. 107–107 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -32,9 +32,11 @@ If the pesticide or device is condemned it shall, after entry of the decree, be 
 
 #### (d) Court costs, etc.
 
-When a decree of condemnation is entered against the pesticide or device, court costs and fees, storage, and other proper expenses shall be awarded against the person, if any, intervening as claimant of the pesticide or device.
+When a decree of condemnation is entered against the pesticide or device, court costs andfees, storage, and other proper expenses shall be awarded against the person, if any, intervening as claimant of the pesticide or device.
 
 (June 25, 1947, ch. 125, §13, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 991; amended Pub. L. 100–532, title VIII, §801(h), Oct. 25, 1988, 102 Stat. 2682.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -45,6 +47,8 @@ A prior section 13 of act June 25, 1947, was classified to section 135k of this 
 <b>1988</b>—Subsec. (b). Pub. L. 100–532, §801(h)(1), directed that sentence beginning "In the case of" be moved from par. (3) and become a full measure sentence after par. (3).
 
 Subsec. (c). Pub. L. 100–532, §801(h)(2), substituted "sold. On" for "sold: <i>Provided</i>, That upon".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

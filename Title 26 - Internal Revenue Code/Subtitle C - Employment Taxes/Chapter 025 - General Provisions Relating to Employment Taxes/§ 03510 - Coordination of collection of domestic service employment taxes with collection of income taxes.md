@@ -50,7 +50,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### (1) In general
 
-&emsp;The Secretary is hereby authorized to enter into an agreement with any State to collect, as the agent of such State, such State's unemployment taxes imposed on remuneration paid for domestic service in a private home of theemployer. Any taxes to be collected by the Secretary pursuant to such an agreement shall be treated as domestic service employment taxes for purposes of this section.
+&emsp;The Secretary is hereby authorized to enter into an agreement with any State to collect, as the agent of such State, such State's unemployment taxes imposed on remuneration paid for domestic service in a private home of the employer. Any taxes to be collected by the Secretary pursuant to such an agreement shall be treated as domestic service employment taxes for purposes of this section.
 
 #### (2) Transfers to State account
 
@@ -66,6 +66,8 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 (Added Pub. L. 103–387, §2(b)(1), Oct. 22, 1994, 108 Stat. 4073; amended Pub. L. 113–295, div. A, title II, §221(a)(102), Dec. 19, 2014, 128 Stat. 4052.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 3510, added Pub. L. 98–21, title I, §123(b)(1), Apr. 20, 1983, 97 Stat. 88, provided a credit for increased social security employee taxes and railroad retirement tier 1 employee taxes imposed during 1984, prior to repeal by Pub. L. 101–508, title XI, §11801(a)(42), Nov. 5, 1990, 104 Stat. 1388–521.
@@ -73,6 +75,8 @@ A prior section 3510, added Pub. L. 98–21, title I, §123(b)(1), Apr. 20, 1983
 #### Amendments
 
 <b>2014</b>—Subsec. (b)(4). Pub. L. 113–295 struck out par. (4). Text read as follows: "In the case of any taxable year beginning before January 1, 1998, no addition to tax shall be made under section 6654 with respect to any underpayment to the extent such underpayment was created or increased by this section."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

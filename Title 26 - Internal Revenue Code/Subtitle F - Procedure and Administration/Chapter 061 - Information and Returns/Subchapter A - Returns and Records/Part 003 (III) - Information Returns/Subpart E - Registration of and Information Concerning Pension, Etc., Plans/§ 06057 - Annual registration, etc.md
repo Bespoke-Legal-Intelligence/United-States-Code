@@ -76,6 +76,8 @@ Each plan administrator required to file a registration statement under subsecti
 
 (Added Pub. L. 93–406, title II, §1031(a), Sept. 2, 1974, 88 Stat. 943; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. B. title VI, §2663(j)(5)(D), July 18, 1984, 98 Stat. 1171; Pub. L. 98–397, title II, §206, Aug. 23, 1984, 98 Stat. 1449; Pub. L. 99–514, title XV, §1501(d)(1)(F), Oct. 22, 1986, 100 Stat. 2740; Pub. L. 103–296, title I, §108(h)(5), Aug. 15, 1994, 108 Stat. 1487.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 203 of part 2 of subtitle B of title I of the Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(1), is classified to section 1053 of Title 29, Labor. Section 3004 of such Act, referred to in subsec. (g), is classified to section 1204 of Title 29.
@@ -94,9 +96,11 @@ Subsec. (f). Pub. L. 98–369 substituted "Secretary of Health and Human Service
 
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a noteunder section 401 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1986 Amendment
 

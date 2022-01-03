@@ -30,7 +30,7 @@ For purposes of this subtitle, the term "dividend" means any distribution of pro
 
 &emsp;&emsp;&emsp;(i) only to the extent of the amounts distributed to distributees other than corporate shareholders, and
 
-&emsp;&emsp;&emsp;(ii) only to the extent that the corporation designates such amounts as a dividenddistribution and duly notifies such distributees of such designation, under regulations prescribed by the Secretary, but
+&emsp;&emsp;&emsp;(ii) only to the extent that the corporation designates such amounts as a dividend distribution and duly notifies such distributees of such designation, under regulations prescribed by the Secretary, but
 
 &emsp;&emsp;&emsp;(iii) not in excess of the sum of such distributees' allocable share of the undistributed personal holding company income for such year, computed without regard to this subparagraph or section 562(b).
 
@@ -43,6 +43,8 @@ For purposes of this subtitle, the term "dividend" means any distribution of pro
 &emsp;In the case of a regulated investment company that has a taxable year other than a calendar year, if the distributions by the company with respect to any class of stock of such company for the taxable year exceed the company's current and accumulated earnings and profits which may be used for the payment of dividends on such class of stock, the company's current earnings and profits shall, for purposes of subsection (a), be allocated first to distributions with respect to such class of stock made during the portion of the taxable year which precedes January 1.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 98; Mar. 13, 1956, ch. 83, §5(1), 70 Stat. 49; Pub. L. 88–272, title II, §225(f)(1), Feb. 26, 1964, 78 Stat. 87; Pub. L. 94–455, title XVI, §1601(d), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1746, 1834; Pub. L. 95–600, title III, §362(d)(1), Nov. 6, 1978, 92 Stat. 2851; Pub. L. 111–325, title III, §305(a), Dec. 22, 2010, 124 Stat. 3549.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -57,6 +59,8 @@ Subsec. (b)(3). Pub. L. 94–455, §1601(d), added par. (3).
 <b>1964</b>—Subsec. (b)(2). Pub. L. 88–272 inserted definition of "distribution of property".
 
 <b>1956</b>—Subsec. (b)(1). Act Mar. 13, 1956, substituted "subchapter L" for "sections 803(e), 821(a)(2), and 832(c)(11)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 
@@ -86,5 +90,5 @@ Pub. L. 88–272, title II, §225(l), Feb. 26, 1964, 78 Stat. 94, provided that:
 
 #### Effective Date of 1956 Amendment
 
-Act Mar. 13, 1956, ch. 83, §6, 70 Stat. 49, provided that: "The amendments made by this Act \[amending this section and sections 501, 594, 801 to 805, 811 to 813, 816 to 818, 821, 822, 832, 841, 842, 843, 891, 1201, 1504, and 4371 of this title\] shall apply only to taxable years beginning after December 31, 1954."
+Act Mar. 13, 1956, ch. 83, §6, 70 Stat. 49, provided that: "The amendments made by this Act \[amending this section and sections 501, 594, 801 to 805, 811 to 813, 816 to818, 821, 822, 832, 841, 842, 843, 891, 1201, 1504, and 4371 of this title\] shall apply only to taxable years beginning after December 31, 1954."
 

@@ -12,7 +12,7 @@ The purpose of the Center shall be to conduct research on, and develop improved 
 
 &emsp;(2) technologies and procedures for increasing road, bridge, rail, and related transportation infrastructure and residential, commercial, and industrial infrastructure safety, reliability, and integrity in the Arctic region;
 
-&emsp;(3) new materials and improving the performance and energy efficiency of existing materials for the construction of roads, bridges,rail, and related transportation infrastructure and residential, commercial, and industrial infrastructure in the Arctic region; and
+&emsp;(3) new materials and improving the performance and energy efficiency of existing materials for the construction of roads, bridges, rail, and related transportation infrastructure and residential, commercial, and industrial infrastructure in the Arctic region; and
 
 &emsp;(4) recommendations for new local, regional, and State permitting and building codes to ensure transportation and building safety and efficient energy use when constructing, using, and occupying such infrastructure in the Arctic region.
 

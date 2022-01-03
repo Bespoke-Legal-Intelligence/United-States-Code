@@ -30,7 +30,7 @@ Duration of orders; rulemaking.—Any order by which a special measure described
 
 Process for selecting special measures.—In selecting which special measure or measures to take under this subsection, the Secretary of the Treasury—
 
-&emsp;&emsp;(A) shall consult with the Chairman of the Board of Governors of the Federal Reserve System, any other appropriate Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act) <sup>1</sup> the Secretary of State, the Securities and Exchange Commission, the Commodity Futures Trading Commission, the National Credit Union Administration Board, and in the sole discretion of the Secretary, such other agencies and interested parties as the Secretary may find to be appropriate; and
+&emsp;&emsp;(A) shall consult with the Chairman of the Board of Governors of the Federal ReserveSystem, any other appropriate Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act) <sup>1</sup> the Secretary of State, the Securities and Exchange Commission, the Commodity Futures Trading Commission, the National Credit Union Administration Board, and in the sole discretion of the Secretary, such other agencies and interested parties as the Secretary may find to be appropriate; and
 
 &emsp;&emsp;(B) shall consider—
 
@@ -84,7 +84,7 @@ Information relating to certain payable-through accounts.—If the Secretary fin
 
 &emsp;(4)
 
-Information relating to certain correspondent accounts.—If the Secretary finds a jurisdiction outside of the United States, 1 or more financial institutions operating outside of the United States, or 1 or more classes of transactions within, or involving, a jurisdiction outside of the United States to be of primary money laundering concern, the Secretary may require any domestic financial institution or domestic financial agency that opens or maintains a correspondent account in the United States for a foreign financial institution involving any such jurisdiction or any such financial institution operating outside of the United States, or a correspondent account through which any such transaction may be conducted, as a condition of opening or maintaining such account—
+Information relating to certain correspondent accounts.—If the Secretary finds a jurisdiction outside of the United States, 1or more financial institutions operating outside of the United States, or 1 or more classes of transactions within, or involving, a jurisdiction outside of the United States to be of primary money laundering concern, the Secretary may require any domestic financial institution or domestic financial agency that opens or maintains a correspondent account in the United States for a foreign financial institution involving any such jurisdiction or any such financial institution operating outside of the United States, or a correspondent account through which any such transaction may be conducted, as a condition of opening or maintaining such account—
 
 &emsp;&emsp;(A) to identify each customer (and representative of such customer) of any such financial institution who is permitted to use, or whose transactions are routed through, such correspondent account; and
 
@@ -100,7 +100,7 @@ Consultations and Information To Be Considered in Finding Jurisdictions, Institu
 
 &emsp;(1)
 
-In general.—In making a finding that reasonable grounds exist for concluding that a jurisdiction outside of the United States, 1 or more financial institutions operating outside of the United States, 1 or more classes oftransactions within, or involving, a jurisdiction outside of the United States, or 1 or more types of accounts is of primary money laundering concern so as to authorize the Secretary of the Treasury to take 1 or more of the special measures described in subsection (b), the Secretary shall consult with the Secretary of State and the Attorney General.
+In general.—In making a finding that reasonable grounds exist for concluding that a jurisdiction outside of the United States, 1 or more financial institutions operating outside of the United States, 1 or more classes of transactions within, or involving, a jurisdiction outside of the United States, or 1 or more types of accounts is of primary money laundering concern so as to authorize the Secretary of the Treasury to take 1 or more of the special measures described in subsection (b), the Secretary shall consult with the Secretary of State and the Attorney General.
 
 &emsp;(2)
 
@@ -136,7 +136,7 @@ Institutional factors.—In the case of a decision to apply 1 or more of the spe
 
 (d)
 
-Notification of Special Measures Invoked by the Secretary.—Not later than 10 days after the date of any action taken by the Secretary of the Treasury under subsection (a)(1), the Secretary shall notify, in writing, the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate of any such action.
+Notification of Special Measures Invoked by the Secretary.—Not later than 10 days after the date of any action taken by the Secretary of the Treasury under subsection\(a)(1), the Secretary shall notify, in writing, the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate of any such action.
 
 (e)
 
@@ -168,7 +168,7 @@ Definitions applicable to institutions other than banks.—With respect to any f
 
 &emsp;(3)
 
-Regulatory definition of beneficial ownership.—The Secretary shall promulgate regulations defining beneficial ownership of an account for purposes of this section and subsections (i) and (j) of section 5318. Such regulations shall address issues related to an individual's authority to fund, direct, or manage the account (including, without limitation, the power to direct payments into or out of the account), and an individual's material interest in the income or corpus of the account, and shall ensure that the identification of individuals under this section or subsection (i) or (j)of section 5318 does not extend to any individual whose beneficial interest in the income or corpus of the account is immaterial.
+Regulatory definition of beneficial ownership.—The Secretary shall promulgate regulations defining beneficial ownership of an account for purposes of this section and subsections (i) and (j) of section 5318. Such regulations shall address issues related to an individual's authority to fund, direct, or manage the account (including, without limitation, the power to direct payments into or out of the account), and an individual's material interest in the income or corpus of the account, and shall ensure that the identification of individuals under this section or subsection (i) or (j) of section 5318 does not extend to any individual whose beneficial interest in the income or corpus of the account is immaterial.
 
 &emsp;(4)
 
@@ -214,11 +214,11 @@ Subsec. (e)(3). Pub. L. 108–458, §6203(f)(4), inserted "or subsection (i) or 
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–458 effective as if included in Pub. L. 107–56, as of the date of enactment of such Act, and no amendment made by Pub. L. 107–56 that is inconsistent with such amendment to be deemed to have taken effect, see section 6205 of Pub. L. 108–458, set out as a note under section 1828 of Title 12, Banks and Banking.
+Amendment by Pub. L. 108–458 effective as if included in Pub. L. 107–56, as of the date of enactment of suchAct, and no amendment made by Pub. L. 107–56 that is inconsistent with such amendment to be deemed to have taken effect, see section 6205 of Pub. L. 108–458, set out as a note under section 1828 of Title 12, Banks and Banking.
 
 #### Determination With Respect to Primary Money Laundering Concern of Russian Illicit Finance
 
-Pub. L. 116–283, div. H, title XCVII, §9714(a), Jan. 1, 2021, 134 Stat. 4838, provided that:
+Pub. L. 116–283, div. H, title XCVII, §9714(a)–(e), Jan. 1, 2021, 134 Stat. 4838, as amended by Pub. L. 117–81, div. F, title LXI, §6106(b)(2), Dec. 27, 2021, 135 Stat. 2387, provided that:
 
 "(a)
 
@@ -226,7 +226,25 @@ Determination.—If the Secretary of the Treasury determines that reasonable gro
 
 &emsp;"(1) require domestic financial institutions and domestic financial agencies to take 1 or more of the special measures described in section 5318A(b) of title 31, United States Code; or
 
-&emsp;"(2) prohibit, or impose conditions upon, certain transmittals of funds (to be defined by the Secretary) by any domestic financial institution or domestic financial agency, if such transmittal of funds involves any such institution, class of transaction, or type of account."
+&emsp;"(2) prohibit, or impose conditions upon, certain transmittals of funds (to be defined by the Secretary) by any domestic financial institution or domestic financial agency, if such transmittal of funds involves any such institution, class of transaction, or type of account.
+
+"(b)
+
+Classified Information.—In any judicial review of a finding of the existence of a primary money laundering concern, or of the requirement for 1 or more special measures with respect to a primary money laundering concern made under this section, if the designation or imposition, or both, were based on classified information (as defined in section 1(a) of the Classified Information Procedures Act (18 U.S.C. App.), such information may be submitted by the Secretary to the reviewing court ex parte and in camera. This subsection does not confer or imply any right to judicial review of any finding made or any requirement imposed under this section.
+
+"(c)
+
+Availability of Information.—The exemptions from, and prohibitions on, search and disclosure provided in section 5319 of title 31, United States Code, shall apply to any report or record of report filed pursuant to a requirement imposed under subsection (a) of this section. For purposes of section 552 of title 5, United States Code, this subsection shall be considered a statute described in subsection (b)(3)(B) of that section.
+
+"(d)
+
+Penalties.—The penalties provided for in sections 5321 and 5322 of title 31, United States Code, that apply to violations of special measures imposed under section 5318A of title 31, United States Code, shall apply to violations of any order, regulation, special measure, or other requirement imposed under subsection (a) of this section, in the same manner and to the same extent as described in sections 5321 and 5322.
+
+"(e)
+
+Injunctions.—The Secretary of the Treasury may bring a civil action to enjoin a violation of any order, regulation, special measure, or other requirement imposed under subsection (a) of this section in the same manner and to the same extent as described in section 5320 of title 31, United States Code."
+
+\[Section 9714 of Pub. L. 116–283 consists of subsecs. (a) to (g). Subsecs. (a) to (e) are set out above. Subsecs. (f) and (g), formerly (b) and (c), are not classified to the Code.\]
 
 #### "Federal Functional Regulator" Includes Commodity Futures Trading Commission
 

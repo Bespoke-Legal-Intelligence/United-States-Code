@@ -30,7 +30,7 @@ Pub. L. 100–574, §4, Oct. 31, 1988, 102 Stat. 2894, provided that:
 
 "(a)
 
-In General.—This Act and the amendments made by this Act \[enacting this section and sections 1716B and 1716C of Title 18, Crimes and Criminal Procedure\] shall become effective on the earlier of—
+In General.—This Act and the amendments made by this Act \[enacting this section and sections1716B and 1716C of Title 18, Crimes and Criminal Procedure\] shall become effective on the earlier of—
 
 &emsp;"(1) the 366th day after the date of the enactment of this Act \[Oct. 31, 1988\]; or
 
@@ -38,7 +38,7 @@ In General.—This Act and the amendments made by this Act \[enacting this secti
 
 "(b)
 
-Regulations.—Nothing in this section shall prevent the United States Postal Service from taking anyaction which may be necessary to prepare and issue, as soon as possible after the date of the enactment of this Act, any rules and regulations which the Postal Service is required to prescribe under any of the amendments made by this Act."
+Regulations.—Nothing in this section shall prevent the United States Postal Service from taking any action which may be necessary to prepare and issue, as soon as possible after the date of the enactment of this Act, any rules and regulations which the Postal Service is required to prescribe under any of the amendments made by this Act."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

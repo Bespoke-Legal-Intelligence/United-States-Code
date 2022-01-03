@@ -6,7 +6,7 @@ Generally.—A defendant or defendants desiring to remove any civil action from 
 
 (b)
 
-Requirements; Generally.—(1) The notice of removal of a civil action or proceeding shall be filed within 30 days after the receipt by the defendant, through service or otherwise, of a copy of the initial pleading setting forth theclaim for relief upon which such action or proceeding is based, or within 30 days after the service of summons upon the defendant if such initial pleading has then been filed in court and is not required to be served on the defendant, whichever period is shorter.
+Requirements; Generally.—(1) The notice of removal of a civil action or proceeding shall be filed within 30 days after the receipt by the defendant, through service or otherwise, of a copy of the initial pleading setting forth the claim for relief upon which such action or proceeding is based, or within 30 days after the service of summons upon the defendant if such initial pleading has then been filed in court and is not required to be served on the defendant, whichever period is shorter.
 
 (2)(A) When a civil action is removed solely under section 1441(a), all defendants who have been properly joined and served must join in or consent to the removal of the action.
 
@@ -116,7 +116,7 @@ Subsec. (c). Pub. L. 112–63, §103(b)(3)(C), added subsec. (c) and struck out 
 
 Subsec. (d). Pub. L. 112–63, §103(b)(4)(A), inserted heading.
 
-Subsecs. (e), (f). Pub. L. 112–63, §103(b)(4)(C), (D), redesignated subsec. (f) as (e), inserted heading, and struck out former subsec. (e) which read as follows: "If the defendant or defendants are in actual custody on process issued by the State court, the district court shall issue its writ of habeas corpus, and the marshal shall thereupon take such defendant or defendants into his custody and deliver a copy of the writ to the clerk of such State court."
+Subsecs. (e), (f). Pub. L. 112–63, §103(b)(4)(C), (D), redesignated subsec. (f) as (e), inserted heading, and struck out former subsec. (e) which read as follows: "Ifthe defendant or defendants are in actual custody on process issued by the State court, the district court shall issue its writ of habeas corpus, and the marshal shall thereupon take such defendant or defendants into his custody and deliver a copy of the writ to the clerk of such State court."
 
 Subsec. (g). Pub. L. 112–63, §104, substituted "subsection (b) of this section and paragraph (1) of section 1455(b)" for "subsections (b) and (c)".
 

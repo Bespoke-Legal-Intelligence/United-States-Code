@@ -32,7 +32,7 @@ As used in this section—
 
 &emsp;(2) the term "intern" means, with respect to a Member of the House of Representatives, an individual who serves in the office of the Member for not more than 120 days in a 12-month period and whose service is primarily for the educational experience of the individual;
 
-&emsp;(3) the term "part-time employee" means, with respect to a Member of the House of Representatives, an individual who is employed by the Member and whose normally assignedwork schedule is not more than the equivalent of 15 full working days per month;
+&emsp;(3) the term "part-time employee" means, with respect to a Member of the House of Representatives, an individual who is employed by the Member and whose normally assigned work schedule is not more than the equivalent of 15 full working days per month;
 
 &emsp;(4) the term "temporary employee" means, with respect to a Member of the House of Representatives, an individual who is employed for a specific purpose or task and who is employed for not more than 90 days in a 12-month period, except that the term of such employment may be extended with the written approval of the Committee on House Oversight; and
 

@@ -20,7 +20,7 @@ Treatment of Other Benefits.—A benefit may not be paid under this section for 
 
 Limitations.—(1) Not more than $2,000 may be paid under this section to a member of the Coast Guard, or to two such members who are spouses of each other, for expenses incurred in the adoption of a child.
 
-(2) Not more than $5,000 may be paid under this section to a member of the Coast Guard, or to two such members who are spouses of each other, for adoptions by such member (or members) in any calendar year.
+(2) Not more than $5,000 may be paid under this section to a member of the Coast Guard, or to two such members who are spouses of eachother, for adoptions by such member (or members) in any calendar year.
 
 (f)
 
@@ -54,7 +54,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(C) Any other source authorized by a State to provide adoption placement if the adoption is supervised by a court under State or local law.
 
-(Added Pub. L. 102–190, div. A, title VI, §651(b)(1), Dec. 5, 1991, 105 Stat. 1386, §514; amended Pub. L. 102–484, div. A, title X, §1054(g), Oct. 23, 1992, 106 Stat. 2503; Pub. L. 104–201, div. A, title VI,§652(b), Sept. 23, 1996, 110 Stat. 2582; renumbered §541, Pub. L. 113–281, title II, §214(b)(1)(A), Dec. 18, 2014, 128 Stat. 3033; renumbered §2903, Pub. L. 115–282, title I, §117(b), Dec. 4, 2018, 132 Stat. 4230; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8505(a)(48), Jan. 1, 2021, 134 Stat. 4750.)
+(Added Pub. L. 102–190, div. A, title VI, §651(b)(1), Dec. 5, 1991, 105 Stat. 1386, §514; amended Pub. L. 102–484, div. A, title X, §1054(g), Oct. 23, 1992, 106 Stat. 2503; Pub. L. 104–201, div. A, title VI, §652(b), Sept. 23, 1996, 110 Stat. 2582; renumbered §541, Pub. L. 113–281, title II, §214(b)(1)(A), Dec. 18, 2014, 128 Stat. 3033; renumbered §2903, Pub. L. 115–282, title I, §117(b), Dec. 4, 2018, 132 Stat. 4230; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8505(a)(48), Jan. 1, 2021, 134 Stat. 4750.)
 
 #### <b>Editorial Notes</b>
 

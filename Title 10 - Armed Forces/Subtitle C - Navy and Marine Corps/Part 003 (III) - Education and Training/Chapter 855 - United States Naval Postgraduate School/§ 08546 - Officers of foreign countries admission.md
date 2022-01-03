@@ -26,6 +26,8 @@ In subsection (b) the words "rules and" are omitted. The words "United States na
 
 In subsection (c) the words "to any office or position" are omitted as surplusage. The words "or Marine Corps" are inserted, as the word "Navy" in this context has been interpreted to include officers of the Marine Corps.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 8546, act Aug. 10, 1956, ch. 1041, 70A Stat. 528, required medical officers and contract surgeons to attend families of members of Air Force, prior to repeal by Pub. L. 85–861, §36B(26), Sept. 2, 1958, 72 Stat. 1571.
@@ -33,6 +35,8 @@ A prior section 8546, act Aug. 10, 1956, ch. 1041, 70A Stat. 528, required medic
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7046 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

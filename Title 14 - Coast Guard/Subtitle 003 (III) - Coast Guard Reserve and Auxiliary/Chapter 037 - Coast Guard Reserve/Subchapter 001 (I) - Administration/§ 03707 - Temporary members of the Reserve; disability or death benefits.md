@@ -4,7 +4,7 @@
 
 (b) This section does not apply if the workmen's compensation law of a State, a territory, or another jurisdiction provides coverage because of a concurrent employment status of the temporary member. When the temporary member or a dependent is entitled to a benefit under this section and also to a concurrent benefit from the United States on account of the same disability or death, the temporary member or dependent, as appropriate, shall elect which benefit to receive.
 
-(c) If a claim is filed under this section with the Secretary of Labor for benefits because of an alleged injury or death, the Secretary of Labor shall notify the Commandant who shall direct an investigation into the facts surrounding the alleged injury or death. The Commandant shall then certify to the Secretary of Labor whether or not the injured or deceased individual was a temporary member of the Reserve, the individual's military status, and whether or not the injury or death was incurred incident to military service.
+(c) If a claim is filed under this section with the Secretary of Labor for benefits because of analleged injury or death, the Secretary of Labor shall notify the Commandant who shall direct an investigation into the facts surrounding the alleged injury or death. The Commandant shall then certify to the Secretary of Labor whether or not the injured or deceased individual was a temporary member of the Reserve, the individual's military status, and whether or not the injury or death was incurred incident to military service.
 
 (d) A temporary member of the Reserve, who incurs a physical disability or contracts sickness or disease while performing a duty to which the member has been assigned by competent authority, is entitled to the same hospital treatment afforded a member of the Regular Coast Guard.
 
@@ -20,7 +20,7 @@
 
 &emsp;(2) payments may not be made under subsection (a)(5) of that section; and
 
-&emsp;(3) the Secretary of Labor shall inform the Commissioner of Social Security whenever a claim is filed and eligibility for compensation is established under subsection (a)(2) or (a)(3) of section 8133 of title 5. The Commissioner of Social Security shall then certify to the Secretary of Labor whether or not the member concerned was fully or currently insured undertitle II of the Social Security Act at the time of the member's death.
+&emsp;(3) the Secretary of Labor shall inform the Commissioner of Social Security whenever a claim is filed and eligibility for compensation is established under subsection (a)(2) or (a)(3) of section 8133 of title 5. The Commissioner of Social Security shall then certify to the Secretary of Labor whether or not the member concerned was fully or currently insured under title II of the Social Security Act at the time of the member's death.
 
 (Added Pub. L. 96–322, §1, Aug. 4, 1980, 94 Stat. 1004, §707; amended Pub. L. 97–136, §8(a), Dec. 29, 1981, 95 Stat. 1706; Pub. L. 97–295, §2(21), Oct. 12, 1982, 96 Stat. 1303; Pub. L. 103–296, title I, §108(g), Aug. 15, 1994, 108 Stat. 1487; renumbered §3707, Pub. L. 115–282, title I, §118(b), Dec. 4, 2018, 132 Stat. 4233; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8505(a)(51), Jan. 1, 2021, 134 Stat. 4750.)
 

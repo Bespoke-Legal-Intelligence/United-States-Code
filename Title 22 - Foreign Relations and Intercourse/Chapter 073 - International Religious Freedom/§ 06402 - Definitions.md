@@ -16,7 +16,7 @@ In this chapter:
 
 &emsp;&emsp;(A) the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives; and
 
-&emsp;&emsp;(B) in the case of any determination made with respect to the taking of President <sup>1</sup> action under paragraphs (9) through (15) of section 6445(a) of this title, the term includes the committees described in subparagraph (A) and, where appropriate, the Committee on Banking and Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate.
+&emsp;&emsp;(B) in the case of any determination made with respect to the taking of President <sup>1</sup> action under paragraphs (9) through (15) of section 6445(a) of this title, the term includes the committees described in subparagraph (A) and, where appropriate, the Committee on Banking and Financial Services of theHouse of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate.
 
 #### (4) Commensurate action
 

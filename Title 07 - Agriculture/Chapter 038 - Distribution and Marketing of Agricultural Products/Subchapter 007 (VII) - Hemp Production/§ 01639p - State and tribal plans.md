@@ -28,7 +28,7 @@
 
 &emsp;&emsp;&emsp;(vi) a procedure for submitting the information described in section 1639q(d)(2) of this title, as applicable, to the Secretary not more than 30 days after the date on which the information is received; and
 
-&emsp;&emsp;&emsp;(vii) a certification that the State or Indian tribe has the resources and personnelto carry out the practices and procedures described in clauses (i) through (vi); and
+&emsp;&emsp;&emsp;(vii) a certification that the State or Indian tribe has the resources and personnel to carry out the practices and procedures described in clauses (i) through (vi); and
 
 &emsp;&emsp;(B) may include any other practice or procedure established by a State or Indian tribe, as applicable, to the extent that the practice or procedure is consistent with this subchapter.
 
@@ -44,7 +44,7 @@
 
 #### (B) References in plans
 
-&emsp;&emsp;A State or Tribal plan referred to in paragraph (1) may include a reference to a law of the State or Indian tribe regulating the production of hemp, to the extent that law is consistent with this subchapter.
+&emsp;&emsp;A State or Tribal plan referred to in paragraph (1) may include a reference to a law ofthe State or Indian tribe regulating the production of hemp, to the extent that law is consistent with this subchapter.
 
 #### (b) Approval
 
@@ -120,7 +120,7 @@ The Secretary may provide technical assistance to a State or Indian tribe in the
 
 #### (A) In general
 
-&emsp;&emsp;If the State department of agriculture or Tribal government in a State or the territory of an Indian tribe for which a State orTribal plan is approved under subsection (b), as applicable, determines that a hemp producer in the State or territory has violated the State or Tribal plan with a culpable mental state greater than negligence—
+&emsp;&emsp;If the State department of agriculture or Tribal government in a State or the territory of an Indian tribe for which a State or Tribal plan is approved under subsection (b), as applicable, determines that a hemp producer in the State or territory has violated the State or Tribal plan with a culpable mental state greater than negligence—
 
 &emsp;&emsp;&emsp;(i) the State department of agriculture or Tribal government, as applicable, shall immediately report the hemp producer to—
 
@@ -134,7 +134,7 @@ The Secretary may provide technical assistance to a State or Indian tribe in the
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), any person convicted of a felony relating to a controlled substance under State or Federal law before, on, or after December 20, 2018, shall be ineligible, during the 10-year period following the date of the conviction—
+&emsp;&emsp;&emsp;Except as provided in clause (ii), any person convicted of a felony relating to acontrolled substance under State or Federal law before, on, or after December 20, 2018, shall be ineligible, during the 10-year period following the date of the conviction—
 
 &emsp;&emsp;&emsp;&emsp;(I) to participate in the program established under this section or section 1639q of this title; and
 

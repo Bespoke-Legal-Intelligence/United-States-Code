@@ -4,6 +4,8 @@ Nothing in this chapter authorizes the Foundation to perform any function the ex
 
 (Pub. L. 98–244, §11, as added Pub. L. 106–408, title II, §208, Nov. 1, 2000, 114 Stat. 1781; amended Pub. L. 113–287, §5(d)(35), Dec. 19, 2014, 128 Stat. 3267; Pub. L. 116–188, title I, §107(d), Oct. 30, 2020, 134 Stat. 920.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2020</b>—Pub. L. 116–188 inserted "exclusive" before "authority".

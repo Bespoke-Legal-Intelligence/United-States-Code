@@ -34,11 +34,15 @@ In this chapter:
 
 (Sept. 7, 1950, ch. 907, §2, 64 Stat. 777; Pub. L. 87–814, §1, Oct. 15, 1962, 76 Stat. 923; Pub. L. 114–81, title II, §203, Nov. 5, 2015, 129 Stat. 660.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Pub. L. 114–81 amended section generally. Prior to amendment, section defined terms for this chapter.
 
 <b>1962</b>—Subsec. (e). Pub. L. 87–814 substituted definition of "United States" for definition of "enforcement agency".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

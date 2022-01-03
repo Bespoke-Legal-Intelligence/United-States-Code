@@ -118,11 +118,13 @@ Notification of waiver status.—When informing an applicant that a grant under 
 
 &emsp;&emsp;&emsp;(ii) subparagraphs (B) and (C) of section 300ff–52(a)(1) of this title shall ensure the availability of early intervention services through a system of linkages to community-based primary care providers, and to establish mechanisms for the referrals described in paragraph (1)(C), and for follow-up concerning such referrals.
 
-(July 1, 1944, ch. 373, title XXVI, §2651, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 606; amended Pub. L. 101–557, title IV, §401(b)(2), Nov. 15, 1990, 104 Stat. 2771; Pub. L. 104–146, §§3(d)(1), 12(c)(7), May 20, 1996, 110 Stat. 1357, 1374; Pub. L. 109–415, title III, §301(a), titleVII, §703, Dec. 19, 2006, 120 Stat. 2803, 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
+(July 1, 1944, ch. 373, title XXVI, §2651, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 606; amended Pub. L. 101–557, title IV, §401(b)(2), Nov. 15, 1990, 104 Stat. 2771; Pub. L. 104–146, §§3(d)(1), 12(c)(7), May 20, 1996, 110 Stat. 1357, 1374; Pub. L. 109–415, title III, §301(a), title VII, §703, Dec. 19, 2006, 120 Stat. 2803, 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
-<b>2009</b>—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+<b>2009</b>—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect onSept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
 <b>2006</b>—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
 
@@ -137,6 +139,8 @@ Subsec. (b)(4). Pub. L. 104–146, §3(d)(1)(B), designated existing provisions 
 Subsec. (c). Pub. L. 104–146, §12(c)(7)(B), substituted "exists" for "exist".
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–557 substituted "section 300ff–52(a)" for "section 300ff–52(a)(1)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment; Revival of Section
 

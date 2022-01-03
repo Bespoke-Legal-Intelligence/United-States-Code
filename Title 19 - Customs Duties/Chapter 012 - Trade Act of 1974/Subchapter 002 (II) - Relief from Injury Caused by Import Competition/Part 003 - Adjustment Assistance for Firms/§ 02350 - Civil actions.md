@@ -2,11 +2,13 @@
 
 In providing technical assistance under this part the Secretary may sue and be sued in any court of record of a State having general jurisdiction or in any United States district court, and jurisdiction is conferred upon such district court to determine such controversies without regard to the amount in controversy; but no attachment, injunction, garnishment, or other similar process, mesne or final, shall be issued against him or his property. Nothing in this section shall be construed to except the activities pursuant to section 2343 of this title from the application of sections 516, 547, and 2679 of title 28.
 
-(Pub. L. 93–618, title II, §258, formerly §260, Jan. 3, 1975, 88 Stat. 2034; renumbered §258 and amended Pub. L. 111–5, div. B, title I, §1864(a)(2), (c)(2), Feb. 17, 2009, 123 Stat. 397, 398; Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403; Pub. L. 114–27, title IV, §402(b), (c), June 29, 2015, 129 Stat. 374.)
+(Pub. L. 93–618, title II, §258, formerly §260, Jan. 3, 1975, 88 Stat. 2034; renumbered §258 and amended Pub. L. 111–5, div. B, title I, §1864(a)(2), (c)(2), Feb. 17, 2009, 123 Stat. 397, 398; Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat.403; Pub. L. 114–27, title IV, §402(b), (c), June 29, 2015, 129 Stat. 374.)
 
 #### Reversion to Provisions in Effect on January 1, 2014
 
 <i>For reversion, beginning on July 1, 2021, to provisions in effect on Jan. 1, 2014, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see Codification and Effective and Termination Dates of 2015 Revival notes below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -28,6 +30,8 @@ A prior section 258 of Pub. L. 93–618 was temporarily renumbered section 256 a
 
 Pub. L. 111–5, §§1864(c)(2)(A), 1893, in first sentence, temporarily struck out "and financial" before "assistance". See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective and Termination Dates of 2015 Revival
 
 For revival and applicability, beginning on June 29, 2015, of the provisions of this section as in effect on Dec. 31, 2013, see section 402(b), (c) of Pub. L. 114–27, set out as a note preceding section 2271 of this title.
@@ -36,7 +40,7 @@ For reversion, beginning on July 1, 2021, to the provisions of this section as i
 
 #### Effective and Termination Dates of 2011 Revival
 
-For revival and applicability, beginning on Oct. 21, 2011, of the provisions of this section as in effect onFeb. 12, 2011, see section 201(b), (c) of Pub. L. 112–40, set out as a note preceding section 2271 of this title.
+For revival and applicability, beginning on Oct. 21, 2011, of the provisions of this section as in effect on Feb. 12, 2011, see section 201(b), (c) of Pub. L. 112–40, set out as a note preceding section 2271 of this title.
 
 Section 233 of Pub. L. 112–40, formerly set out as a note preceding section 2271 of this title, which provided for the reversion, beginning on Jan. 1, 2014, of the provisions of this section to those in effect on Feb. 13, 2011, subject to certain exceptions, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, effective June 29, 2015. See Codification note above.
 

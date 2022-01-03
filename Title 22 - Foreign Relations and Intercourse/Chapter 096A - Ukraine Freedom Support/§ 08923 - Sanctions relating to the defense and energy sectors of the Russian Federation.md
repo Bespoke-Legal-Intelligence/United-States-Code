@@ -66,7 +66,7 @@ The sanctions the President may impose with respect to a foreign person under su
 
 #### (2) Procurement sanction
 
-&emsp;The President may prohibit the head of any executive agency (as defined in section 133 of title 41) from entering into any contract for the procurement of any goods or services from the foreign person.
+&emsp;The President may prohibit the head of any executive agency (as defined in section 133 oftitle 41) from entering into any contract for the procurement of any goods or services from the foreign person.
 
 #### (3) Arms export prohibition
 
@@ -120,7 +120,7 @@ The sanctions the President may impose with respect to a foreign person under su
 
 #### (B) Good defined
 
-&emsp;&emsp;In this paragraph, the term "good" has the meaning given that term in section 16 of theExport Administration Act of 1979 (50 U.S.C. App. 2415) <sup>1</sup> (as continued in effect pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)).
+&emsp;&emsp;In this paragraph, the term "good" has the meaning given that term in section 16 of the Export Administration Act of 1979 (50 U.S.C. App. 2415) <sup>1</sup> (as continued in effect pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)).
 
 #### (2) Additional exceptions
 
@@ -204,7 +204,7 @@ The sanctions the President may impose with respect to a foreign person under su
 
 &emsp;&emsp;&emsp;(i) the foreign person is not engaging in the activity that was the basis for the sanctions or has taken significant verifiable steps toward stopping the activity; and
 
-&emsp;&emsp;&emsp;(ii) the President has received reliable assurances that the foreign person will notknowingly engage in activity subject to sanctions under subsection (a)(2) in the future.
+&emsp;&emsp;&emsp;(ii) the President has received reliable assurances that the foreign person will not knowingly engage in activity subject to sanctions under subsection (a)(2) in the future.
 
 #### (h) Implementation; penalties
 
@@ -220,7 +220,7 @@ The sanctions the President may impose with respect to a foreign person under su
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), this section, and sanctions imposed under this section, shall terminate on the date on which the President submits to the appropriate congressional committees a certification that the Government of the Russian Federation has ceased ordering, controlling, or otherwise directing, supporting, or financing, significant acts intended to undermine the peace, security, stability, sovereignty, or territorial integrity of Ukraine, including through an agreement between the appropriate parties.
+&emsp;Except as provided in paragraph (2), this section, and sanctions imposed under this section, shall terminate on the date on which the President submits to the appropriate congressional committees a certification that the Government of the Russian Federation has ceased ordering, controlling, or otherwise directing, supporting, or financing, significantacts intended to undermine the peace, security, stability, sovereignty, or territorial integrity of Ukraine, including through an agreement between the appropriate parties.
 
 #### (2) Applicability with respect to Syria
 

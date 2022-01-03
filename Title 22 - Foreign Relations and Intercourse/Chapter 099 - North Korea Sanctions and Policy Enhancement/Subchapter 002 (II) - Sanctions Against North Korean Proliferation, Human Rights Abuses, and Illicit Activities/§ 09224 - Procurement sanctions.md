@@ -30,7 +30,7 @@ Except as provided in this section, the head of an executive agency may not proc
 
 #### (3) Applicable procedures
 
-&emsp;Any debarment or suspension under paragraph (2)(B) shall be subject to the procedures that apply to debarment and suspension under subpart 9.4 of the Federal Acquisition Regulation.
+&emsp;Any debarment or suspension under paragraph (2)(B) shall be subject to the proceduresthat apply to debarment and suspension under subpart 9.4 of the Federal Acquisition Regulation.
 
 #### (d) Clarification regarding certain products
 

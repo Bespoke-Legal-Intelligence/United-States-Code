@@ -4,13 +4,17 @@ A State shall not take into consideration payments under this chapter (other tha
 
 (Pub. L. 89–10, title VIII, §8522, formerly title IX, §9522, as added Pub. L. 107–110, title IX, §901, Jan. 8, 2002, 115 Stat. 1980; renumbered title VIII, §8522, and amended Pub. L. 114–95, title VIII, §§8001(a)(6), 8020, Dec. 10, 2015, 129 Stat. 2088, 2089, 2112.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
-A prior section 7902, Pub. L. 89–10, title IX, §9202, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3794, set forth findings, prior to the general amendment of former subchapter IX of this chapter by Pub. L. 107–110.
+A prior section 7902, Pub. L. 89–10, title IX, §9202, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat.3794, set forth findings, prior to the general amendment of former subchapter IX of this chapter by Pub. L. 107–110.
 
 #### Amendments
 
 <b>2015</b>—Pub. L. 114–95, §8020, substituted "subchapter VII" for "subchapter VIII".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

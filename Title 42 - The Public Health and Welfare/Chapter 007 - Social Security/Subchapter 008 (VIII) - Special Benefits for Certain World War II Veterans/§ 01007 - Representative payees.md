@@ -8,7 +8,7 @@ If the Commissioner of Social Security determines that the interest of any quali
 
 (1) Any determination under subsection (a) to pay the benefits of a qualified individual to a representative payee shall be made on the basis of—
 
-&emsp;(A) an investigation by the Commissioner of Social Security of the person to serve as representative payee, which shall be conducted in advance of the determination and shall, to the extent practicable, include a face-to-face interview with the person (or, in the case of an organization, a representative of the organization); and
+&emsp;(A) an investigation by the Commissioner of Social Security of the person to serve as representative payee, which shall be conducted in advance of the determination and shall, to the extent practicable, include a face-to-faceinterview with the person (or, in the case of an organization, a representative of the organization); and
 
 &emsp;(B) adequate evidence that the arrangement is in the interest of the qualified individual.
 
@@ -152,7 +152,7 @@ The Commissioner of Social Security shall establish and maintain lists which sha
 
 #### (3) Payment of retroactive benefits
 
-&emsp;Payment of any benefits which are deferred or suspended pending the selection of a representative payee shall be made to the qualified individual or the representative payee asa single sum or over such period of time as the Commissioner of Social Security determines is in the best interest of the qualified individual.
+&emsp;Payment of any benefits which are deferred or suspended pending the selection of a representative payee shall be made to the qualified individual or the representative payee as a single sum or over such period of time as the Commissioner of Social Security determines is in the best interest of the qualified individual.
 
 #### (f) Hearing
 
@@ -208,7 +208,7 @@ Any qualified individual who is dissatisfied with a determination by the Commiss
 
 #### (i) Restitution
 
-In any case where the negligent failure of the Commissioner of Social Security to investigate or monitor a representative payee results in misuse of benefits by the representative payee, the Commissioner of Social Security shall make payment to the qualified individual or the individual's alternative representative payee of anamount equal to the misused benefits. In any case in which a representative payee that—
+In any case where the negligent failure of the Commissioner of Social Security to investigateor monitor a representative payee results in misuse of benefits by the representative payee, the Commissioner of Social Security shall make payment to the qualified individual or the individual's alternative representative payee of an amount equal to the misused benefits. In any case in which a representative payee that—
 
 &emsp;(A) is not an individual; or
 
@@ -262,6 +262,8 @@ For purposes of this subchapter, misuse of benefits by a representative payee oc
 
 (Aug. 14, 1935, ch. 531, title VIII, §807, as added Pub. L. 106–169, title II, §251(a), Dec. 14, 1999, 113 Stat. 1846; amended Pub. L. 108–203, title I, §§101(b), 102(b)(2), 103(b), 105(b), 106(b), Mar. 2, 2004, 118 Stat. 495, 499, 501, 504, 506; Pub. L. 115–165, title I, §102(b), title II, §§202(b), 203(b), Apr. 13, 2018, 132 Stat. 1260, 1268, 1272.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Internal Revenue Code of 1986, referred to in subsec. (b)(2)(B), (3), is classified generally to Title 26, Internal Revenue Code.
@@ -301,6 +303,8 @@ Subsec. (j). Pub. L. 108–203, §101(b)(2), added subsec. (j).
 Subsec. (k). Pub. L. 108–203, §102(b)(2), added subsec. (k).
 
 Subsec. (l). Pub. L. 108–203, §105(b), added subsec. (l).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

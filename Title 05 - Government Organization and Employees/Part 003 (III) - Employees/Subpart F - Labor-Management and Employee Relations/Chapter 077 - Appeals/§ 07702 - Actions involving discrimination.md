@@ -28,7 +28,7 @@
 
 (3) Any decision of the Board under paragraph (1) of this subsection shall be a judicially reviewable action as of—
 
-&emsp;(A) the date of issuance of the decision if the employee or applicant does not file a petitionwith the Equal Employment Opportunity Commission under subsection (b)(1) of this section, or
+&emsp;(A) the date of issuance of the decision if the employee or applicant does not file a petition with the Equal Employment Opportunity Commission under subsection (b)(1) of this section, or
 
 &emsp;(B) the date the Commission determines not to consider the decision under subsection (b)(2) of this section.
 
@@ -52,7 +52,7 @@
 
 (B) If the Commission issues any decision under paragraph (3)(B) of this subsection, the Commission shall immediately refer the matter to the Board.
 
-(c) Within 30 days after receipt by the Board of the decision of the Commission under subsection (b)(5)(B) of this section, the Board shall consider the decision and—
+(c) Within 30 days after receipt by the Board of the decision of the Commission under subsection\(b)(5)(B) of this section, the Board shall consider the decision and—
 
 &emsp;(1) concur and adopt in whole the decision of the Commission; or
 

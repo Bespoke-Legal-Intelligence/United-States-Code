@@ -46,6 +46,8 @@ As used in this section—
 
 (Pub. L. 96–510, title III, §309, as added Pub. L. 99–499, title II, §203(a), Oct. 17, 1986, 100 Stat. 1695.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Pub. L. 99–499, title II, §203(b), Oct. 17, 1986, 100 Stat. 1696, provided that: "The amendment made by subsection (a) of this section \[enacting this section\] shall take effect with respect to actions brought after December 11, 1980."

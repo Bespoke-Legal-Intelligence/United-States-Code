@@ -30,6 +30,8 @@ Except as provided in section 4104–1 of this title, any appellant aggrieved by
 
 (Pub. L. 90–448, title XIII, §1363, as added Pub. L. 93–234, title I, §110, Dec. 31, 1973, 87 Stat. 980; amended Pub. L. 95–128, title VII, §704(c), Oct. 12, 1977, 91 Stat. 1146; Pub. L. 98–181, title I \[title IV, §451(d)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 112–141, div. F, title II, §§100217, 100218(b), 100238(b)(1), (2), 100246, July 6, 2012, 126 Stat. 930, 932, 958, 967; Pub. L. 113–89, §18(a), Mar. 21, 2014, 128 Stat. 1027.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (g), was in the original a reference to "this title" meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
@@ -62,9 +64,11 @@ Pub. L. 112–141, §100218(b)(2), substituted "Except as provided in section 41
 
 <b>1977</b>—Subsecs. (f), (g). Pub. L. 95–128 added subsec. (f) and redesignated former subsec. (f) as (g).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transfer of Functions
 
-For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities ofthe Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

@@ -24,7 +24,7 @@
 
 #### (3) Excluded systems
 
-&emsp;The Director of the National Institute of Standards and Technology may exclude from the application of paragraph (1) any information technology hardware or software system or security tool for which such Director determines that the development of a standard, reference material, or checklist is inappropriate because of the infrequency of use of the system, the obsolescence of the system, or the lack of utility or impracticability of developing a standard, reference material, or checklist for the system.
+&emsp;The Director of the National Institute of Standards and Technology may exclude fromthe application of paragraph (1) any information technology hardware or software system or security tool for which such Director determines that the development of a standard, reference material, or checklist is inappropriate because of the infrequency of use of the system, the obsolescence of the system, or the lack of utility or impracticability of developing a standard, reference material, or checklist for the system.
 
 #### (4) Dissemination of standards and related materials
 
@@ -46,7 +46,7 @@
 
 #### (1) In general
 
-&emsp;In developing the agencywide information security program required by section 3554(b) oftitle 44, an agency that deploys a computer hardware or software system for which the Director of the National Institute of Standards and Technology has developed a checklist under subsection (c) of this section—
+&emsp;In developing the agencywide information security program required by section 3554(b) of title 44, an agency that deploys a computer hardware or software system for which the Director of the National Institute of Standards and Technology has developed a checklist under subsection (c) of this section—
 
 &emsp;&emsp;(A) shall include in that program an explanation of how the agency has considered such checklist in deploying that system; and
 
@@ -57,6 +57,8 @@
 &emsp;Paragraph (1) does not apply to any computer hardware or software system for which the National Institute of Standards and Technology does not have responsibility under section 278g–3(a)(3) of this title.
 
 (Pub. L. 107–305, §8, Nov. 27, 2002, 116 Stat. 2375; Pub. L. 113–274, title II, §203, Dec. 18, 2014, 128 Stat. 2979; Pub. L. 113–283, §2(e)(2), Dec. 18, 2014, 128 Stat. 3086.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

@@ -14,9 +14,13 @@ In order to expand the utilization of evidence-based prevention and health promo
 
 (July 1, 1944, ch. 373, title III, §399MM, as added and amended Pub. L. 111–148, title IV, §4303, title X, §10404, Mar. 23, 2010, 124 Stat. 583, 975.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Par. (2). Pub. L. 111–148, §10404, substituted "and ensuring" for "by ensuring".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Grants for Small Businesses To Provide Comprehensive Workplace Wellness Programs
 
@@ -68,5 +72,5 @@ Application.—An eligible employer desiring to participate in the grant program
 
 "(e)
 
-Authorization of Appropriation.—For purposes of carrying out the grant program under this section, there is authorized to be appropriated $200,000,000 for the period of fiscal years 2011 through 2015. Amounts appropriated pursuant to this subsection shall remain available until expended."
+Authorization of Appropriation.—For purposes of carrying out the grant program under this section, there is authorized to be appropriated $200,000,000 for the period of fiscal years 2011 through 2015. Amountsappropriated pursuant to this subsection shall remain available until expended."
 

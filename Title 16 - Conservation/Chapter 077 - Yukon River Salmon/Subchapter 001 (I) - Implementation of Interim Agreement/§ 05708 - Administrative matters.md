@@ -2,7 +2,7 @@
 
 #### (a) Compensation of Panel members
 
-Panel members and alternate Panel members who are not State or Federal employees shall receive compensation at the daily rate of GS–15 of the General Schedule when engaged in the actual performance of duties.
+Panel members and alternate Panel members who are not State or Federal employees shall receive compensation at the daily rate of GS–15 ofthe General Schedule when engaged in the actual performance of duties.
 
 #### (b) Travel and other expenses
 
@@ -13,6 +13,8 @@ Travel and other necessary expenses shall be paid for all Panel members, alterna
 Except for officials of the United States Government, individuals described in subsection (b) shall not be considered to be Federal employees while engaged in the actual performance of duties, except for the purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 71 <sup>1</sup> of title 28.
 
 (Pub. L. 104–43, title VII, §709, Nov. 3, 1995, 109 Stat. 395.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

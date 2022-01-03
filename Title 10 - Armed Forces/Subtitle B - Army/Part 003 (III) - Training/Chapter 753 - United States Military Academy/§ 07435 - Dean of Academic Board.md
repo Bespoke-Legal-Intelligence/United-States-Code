@@ -34,6 +34,8 @@ In subsection (b), the word "grade" is substituted for the word "rank". The word
 
 The word "regular" is deleted \[in sections 4335 and 4336\] to make clear that a Dean or professor of the United States Military Academy holds only the office of "Dean" or "professor" and not the office of "brigadier general" or "colonel", as the case may be, even though he is entitled to the pay and allowances of that grade.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 7435 was renumbered section 8735 of this title.
@@ -53,6 +55,8 @@ A prior section 7435 was renumbered section 8735 of this title.
 Subsec. (c). Pub. L. 99–661, §508(a)(2), added subsec. (c).
 
 <b>1958</b>—Subsec. (b). Pub. L. 85–861 substituted "the grade of brigadier general" for "the regular grade of brigadier general".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

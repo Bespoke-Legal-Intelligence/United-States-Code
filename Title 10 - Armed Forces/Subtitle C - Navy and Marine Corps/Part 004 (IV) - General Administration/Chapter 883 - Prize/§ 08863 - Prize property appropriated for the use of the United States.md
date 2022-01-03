@@ -2,7 +2,7 @@
 
 (a) Any officer or agency designated by the President may appropriate for the use of the United States any captured vessel, arms, munitions, or other material taken as prize. The department or agency for whose use the prize property is appropriated shall deposit the value of the property with the Treasurer of the United States or with the public depositary nearest to the court in which the proceedings are to be had, subject to the orders of the court.
 
-(b) Whenever any captured vessel, arms, munitions, or other material taken as prize is appropriated for the use of the United States before that property comes into the custody of the prize court, it shall be surveyed, appraised, and inventoried by persons as competent and impartial as can be obtained, and the survey, appraisal, and inventory sent to the court in which the proceedings are to be had. If the property isappropriated after it comes into the custody of the court, sufficient notice shall be given to enable the court to have the property appraised for the protection of the rights of the claimants.
+(b) Whenever any captured vessel, arms, munitions, or other material taken as prize is appropriated for the use of the United States before that property comes into the custody of the prize court, it shall be surveyed, appraised, and inventoried by persons as competent and impartial as can be obtained, and the survey, appraisal, and inventory sent to the court in which the proceedings are to be had. If the property is appropriated after it comes into the custody of the court, sufficient notice shall be given to enable the court to have the property appraised for the protection of the rights of the claimants.
 
 (c) Notwithstanding subsections (a) and (b), in any case where prize property is appropriated for the use of the United States, a prize court may adjudicate the cause on the basis of an inventory and survey and an appropriate undertaking by the United States to respond for the value of the property, without either an appraisal or a deposit of the value of the prize with the Treasurer of the United States or a public depositary.
 
@@ -34,9 +34,13 @@ The proviso added to R.S. 4624 (34 U.S.C. 1140) by the 1945 amendment is identic
 
 34 U.S.C. 1140 and the revised section reflect the Act of March 3, 1899, ch. 413, §13, 30 Stat. 1007, which repealed laws authorizing distribution of prize proceeds to captors, and the Act of May 29, 1920, ch. 214, 41 Stat. 654, which requires substitution of "Treasurer of the United States or public depositary" for "assistant treasurer".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7663 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

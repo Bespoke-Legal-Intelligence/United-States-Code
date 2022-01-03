@@ -4,7 +4,7 @@
 
 The Secretary, under such regulations as the Secretary may establish, shall not provide financial assistance for any community economic development program under this part unless the Secretary determines that—
 
-&emsp;(1) such community development corporation is responsible to residents of the area served (A) through a governing body not lessthan 50 percent of the members of which are area residents; and (B) in accordance with such other guidelines as may be established by the Secretary, except that the composition of the governing bodies of organizations owned or controlled by the community development corporation need not be subject to such residency requirement;
+&emsp;(1) such community development corporation is responsible to residents of the area served (A) through a governing body not less than 50 percent of the members of which are area residents; and (B) in accordance with such other guidelines as may be established by the Secretary, except that the composition of the governing bodies of organizations owned or controlled by the community development corporation need not be subject to such residency requirement;
 
 &emsp;(2) the program will be appropriately coordinated with local planning under this subchapter with housing and community development programs, with employment and training programs, and with other relevant planning for physical and human resources in the areas served;
 
@@ -28,7 +28,7 @@ The Secretary, under such regulations as the Secretary may establish, shall not 
 
 &emsp;(12) the program will, to the maximum extent feasible, contribute to the occupational development or upward mobility of individual participants;
 
-&emsp;(13) preference will be given to low-income or economically disadvantaged residents of the areas served in filling jobs and training opportunities; and
+&emsp;(13) preference will be given to low-income or economically disadvantaged residents ofthe areas served in filling jobs and training opportunities; and
 
 &emsp;(14) training programs carried out in connection with projects financed under this part shall be designed wherever feasible to provide those persons who successfully complete such training with skills which are also in demand in communities, neighborhoods, or rural areas other than those for which programs are established under this part.
 

@@ -2,7 +2,7 @@
 
 #### (a) Approval
 
-A plan submitted by a State pursuant to section 6611(d), 7113(c), 7173, or 7842 of this title shall be approved by the Secretary unless the Secretary makes a written determination (which shall include the supporting information and rationale supporting such determination), prior to the expiration of the 120-day period beginning on the date on which the Secretary received the plan, that the plan is not in compliance with section 6611(d), 7113(c), or 7173 of this title, or part C, respectively.
+A plan submitted by a State pursuant to section 6611(d), 7113(c), 7173, or 7842 of this title shall be approved by the Secretary unless the Secretary makes a written determination (which shall include the supporting information and rationale supporting such determination),prior to the expiration of the 120-day period beginning on the date on which the Secretary received the plan, that the plan is not in compliance with section 6611(d), 7113(c), or 7173 of this title, or part C, respectively.
 
 #### (b) Disapproval process
 
@@ -44,9 +44,13 @@ Notwithstanding any other requirements of this part, the Secretary shall ensure 
 
 (Pub. L. 89–10, title VIII, §8451, as added Pub. L. 114–95, title VIII, §8014, Dec. 10, 2015, 129 Stat. 2107.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 7871, Pub. L. 89–10, title IX, §9151, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3792, established the National Advisory Council on Indian Education, prior to the general amendment of former subchapter IX of this chapter by Pub. L. 107–110.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

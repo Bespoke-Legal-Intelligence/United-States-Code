@@ -1,6 +1,6 @@
 ### §1322. Certifications with respect to social security entitlement
 
-(a) Determinations required by section 1312(a) of this title (other than a determination required by section 1312(a)(2) of this title) as to whether any survivor described in section 1312(a)(3) of this title of a deceased individual would be entitled to benefits under section 202 of the Social Security Act (42 U.S.C. 402) for any month and as to the amount of the benefits which would be paid for such month, if the deceased veteran had been a fully and currentlyinsured individual at the time of such veteran's death, shall be made by the Commissioner of Social Security, and shall be certified by the Commissioner to the Secretary upon request of the Secretary.
+(a) Determinations required by section 1312(a) of this title (other than a determination required by section 1312(a)(2) of this title) as to whether any survivor described in section 1312(a)(3) of this title of a deceased individual would be entitled to benefits under section 202 of the Social Security Act (42 U.S.C. 402) for any month and as to the amount of the benefits which would be paid for such month, if the deceased veteran had been a fully and currently insured individual at the time of such veteran's death, shall be made by the Commissioner of Social Security, and shall be certified by the Commissioner to the Secretary upon request of the Secretary.
 
 (b) The Secretary shall pay to the Commissioner of Social Security an amount equal to the costs which will be incurred in making determinations and certifications under subsection (a). Such payments shall be made with respect to the costs incurred during such period (but not shorter than a calendar quarter) as the Secretary and the Commissioner may prescribe, with the amount of such payments to be made on the basis of estimates made by the Commissioner after consultation with the Secretary. The amount payable for any period shall be increased or reduced to compensate for any underpayment or overpayment, as the case may be, of the costs incurred in any preceding period.
 
@@ -28,7 +28,7 @@ Subsec. (c). Pub. L. 102–83, §5(c)(1), substituted "1312(a)" for "412(a)".
 
 Pub. L. 102–83, §4(b)(1), (2)(E), substituted "Secretary" for "Administrator".
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–295, §4(12), (95)(A), substituted "section 202 of the Social Security Act (42 U.S.C. 402)" for "section 402 of title 42", and "Health and Human Services" for "Health, Education, and Welfare".
+<b>1982</b>—Subsec. (a). Pub. L. 97–295, §4(12), (95)(A), substituted "section 202 of the Social Security Act (42U.S.C. 402)" for "section 402 of title 42", and "Health and Human Services" for "Health, Education, and Welfare".
 
 Subsec. (b). Pub. L. 97–295, §4(95)(A), substituted "Health and Human Services" for "Health, Education, and Welfare".
 

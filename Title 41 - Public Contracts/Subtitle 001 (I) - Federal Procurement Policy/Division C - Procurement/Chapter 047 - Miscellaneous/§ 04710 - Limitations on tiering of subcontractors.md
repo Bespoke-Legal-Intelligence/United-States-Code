@@ -22,7 +22,7 @@ Rule of Construction.—Nothing in this section shall be construed as limiting t
 
 (e)
 
-Applicability.—The Department of Defense shall continue to be subject to guidance on limitations on tiering of subcontractors issued by the Department of Defense pursuant to section 852 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364, 10 U.S.C. 2324 note).
+Applicability.—The Department of Defense shall continue to be subject to guidance on limitations on tiering of subcontractors issued by the Department of Defense pursuant to section 852 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364, 10 U.S.C. 2324 note).<sup>1</sup>
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3800.)
 
@@ -43,4 +43,12 @@ Historical and Revision Notes
 Pub. L. 110–417, \[div. A\], title VIII, §866, Oct. 14, 2008, 122 Stat. 4551.
 
 In subsection (b), the words "Not later than one year after the date of the enactment of this Act" are omitted because of section 6(f) of the bill. The word "shall" is substituted for the words "shall be amended" to reflect the permanence of the provision.
+
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+Section 852 of the John Warner National Defense Authorization Act for Fiscal Year 2007, referred to in subsec. (e), is section 852 of Pub. L. 109–364, which was formerly set out as a note under section 2324 of Title 10, Armed Forces, prior to transfer and is now set out as a note preceding section 3761 of Title 10.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

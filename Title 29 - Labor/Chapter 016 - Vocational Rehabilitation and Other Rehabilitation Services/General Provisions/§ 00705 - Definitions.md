@@ -56,7 +56,7 @@ For the purposes of this chapter:
 
 &emsp;&emsp;&emsp;&emsp;(II) such information as can be provided by the individual and, where appropriate, by the family of the individual;
 
-&emsp;&emsp;&emsp;(iii) may include, to the degree needed to make such a determination, an assessment of the personality, interests, interpersonal skills, intelligence and related functional capacities, educational achievements, work experience, vocational aptitudes, personal and social adjustments, and employment opportunities of the individual, and the medical, psychiatric, psychological, and other pertinent vocational, educational, cultural, social, recreational, and environmental factors, that affect the employment and rehabilitation needs of the individual;
+&emsp;&emsp;&emsp;(iii) may include, to the degree needed to make such a determination, an assessment of the personality, interests, interpersonal skills, intelligence and related functional capacities, educational achievements, work experience, vocational aptitudes, personal and social adjustments, and employment opportunities of the individual, and the medical, psychiatric, psychological, and other pertinent vocational, educational, cultural, social, recreational,and environmental factors, that affect the employment and rehabilitation needs of the individual;
 
 &emsp;&emsp;&emsp;(iv) may include, to the degree needed, an appraisal of the patterns of work behavior of the individual and services needed for the individual to acquire occupational skills, and to develop work attitudes, work habits, work tolerance, and social and behavior patterns necessary for successful job performance, including the utilization of work in real job situations to assess and develop the capacities of the individual to perform adequately in a work environment; and
 
@@ -140,7 +140,7 @@ For the purposes of this chapter:
 
 &emsp;&emsp;&emsp;(ii) is eligible for the level of benefits provided to other employees;
 
-&emsp;&emsp;(B) that is at a location where the employee interacts with other persons who are not individuals with disabilities (not including supervisory personnel or individuals who are providing services to such employee) to the same extent that individuals who are not individuals with disabilities and who are in comparable positions interact with other persons; and
+&emsp;&emsp;(B) that is at a location where the employee interacts with other persons who are not individuals with disabilities (not including supervisory personnel or individuals who are providing services to such employee) tothe same extent that individuals who are not individuals with disabilities and who are in comparable positions interact with other persons; and
 
 &emsp;&emsp;(C) that, as appropriate, presents opportunities for advancement that are similar to those for other employees who are not individuals with disabilities and who have similar positions.
 
@@ -222,7 +222,7 @@ For the purposes of this chapter:
 
 #### (12) Establishment of a community rehabilitation program
 
-&emsp;The term "establishment of a community rehabilitation program" includes the acquisition, expansion, remodeling, or alteration of existing buildings necessary to adapt them to community rehabilitation program purposes or to increase their effectiveness for such purposes (subject, however, to such limitations as the Secretary of Education may determine, in accordance with regulations the Secretary of Education shall prescribe, in order to preventimpairment of the objectives of, or duplication of, other Federal laws providing Federal assistance in the construction of facilities for community rehabilitation programs), and may include such additional equipment and staffing as the Commissioner considers appropriate.
+&emsp;The term "establishment of a community rehabilitation program" includes the acquisition, expansion, remodeling, or alteration of existing buildings necessary to adapt them to community rehabilitation program purposes or to increase their effectiveness for such purposes (subject, however, to such limitations as the Secretary of Education may determine, in accordance with regulations the Secretary of Education shall prescribe, in order to prevent impairment of the objectives of, or duplication of, other Federal laws providing Federal assistance in the construction of facilities for community rehabilitation programs), and may include such additional equipment and staffing as the Commissioner considers appropriate.
 
 #### (13) Extended services
 
@@ -456,7 +456,7 @@ For the purposes of this chapter:
 
 #### (22) Individual's representative; applicant's representative
 
-&emsp;The terms "individual's representative" and "applicant's representative" mean a parent, a family member, a guardian, an advocate, or an authorized representative of an individual or applicant, respectively.
+&emsp;The terms "individual's representative" and "applicant's representative" mean a parent, afamily member, a guardian, an advocate, or an authorized representative of an individual or applicant, respectively.
 
 #### (23) Institution of higher education
 
@@ -616,7 +616,7 @@ The Controlled Substances Act, referred to in par. (10)(B), is title II of Pub. 
 
 The Alaska Native Claims Settlement Act, referred to in par. (19)(B), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-The Individuals with Disabilities Education Act, referred to in par. (37)(A)(i)(II)(bb), (ii)(I), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. Part B of the Act is classified generally to subchapter II (§1411 et seq.) of chapter 33 of Title 20. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in par. (37)(A)(i)(II)(bb), (ii)(I), is title VI ofPub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. Part B of the Act is classified generally to subchapter II (§1411 et seq.) of chapter 33 of Title 20. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
 The Workforce Innovation and Opportunity Act, referred to in par. (41), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§3101 et seq.) of this title, repealed chapter 30 (§2801 et seq.) of this title and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
@@ -722,7 +722,7 @@ Par. (3). Pub. L. 105–394, §402(a)(1), which directed the amendment of sectio
 
 Par. (4). Pub. L. 105–394, §402(a)(2), which directed the amendment of section 6 of the Rehabilitation Act of 1973 by substituting "3002" for "2202(3)", was executed to this section, which is section 7 of that act, to reflect the probable intent of Congress and the renumbering of section 6 as 7 by Pub. L. 105–277, §101(f) \[title VIII, §402(a)(1)\].
 
-Par. (7). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(1)(B)\], struck out heading and text of par. (7). Text read as follows: "The term 'criminal act' means any crime, including an act, omission, or possession under the laws of the United States or a State or unit of general local government, which poses a substantial threat of personal injury, notwithstanding that by reason of age, insanity, or intoxication or otherwise the person engaging in the act, omission, or possession was legally incapable of committing a crime."
+Par. (7). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(1)(B)\], struck out heading and text of par. (7). Text read as follows: "The term 'criminal act' meansany crime, including an act, omission, or possession under the laws of the United States or a State or unit of general local government, which poses a substantial threat of personal injury, notwithstanding that by reason of age, insanity, or intoxication or otherwise the person engaging in the act, omission, or possession was legally incapable of committing a crime."
 
 Par. (16)(A)(iii). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(1)(C)\], substituted "eligible individual" for "client".
 

@@ -10,9 +10,11 @@ The orbiter vehicles made available under subsection (a) shall be displayed and 
 
 #### (c) Authorization of appropriations
 
-There are authorized to be appropriated to NASA such sums as may be necessary to carryout this section. The amounts authorized to be appropriated by this subsection shall be in addition to any amounts authorized to be appropriated by title I, and may be requested by the President as supplemental requirements, if needed, in the appropriate fiscal years.
+There are authorized to be appropriated to NASA such sums as may be necessary to carry out this section. The amounts authorized to be appropriated by this subsection shall be in addition to any amounts authorized to be appropriated by title I, and may be requested by the President as supplemental requirements, if needed, in the appropriate fiscal years.
 
 (Pub. L. 111–267, title VI, §603, Oct. 11, 2010, 124 Stat. 2829.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

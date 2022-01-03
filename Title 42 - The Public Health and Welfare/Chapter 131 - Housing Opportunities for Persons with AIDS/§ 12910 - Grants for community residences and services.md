@@ -34,7 +34,7 @@ The Secretary of Housing and Urban Development may make grants to States and met
 
 #### (D) Section 1437f assistance
 
-&emsp;&emsp;Assistance made available under section 8 of the United States Housing Act of 1937 (42 U.S.C. 1437f) may be used in conjunction with a community residence under this subsection for tenant-based assistance.
+&emsp;&emsp;Assistance made available under section 8 of the United States Housing Act of 1937 (42U.S.C. 1437f) may be used in conjunction with a community residence under this subsection for tenant-based assistance.
 
 #### (2) Services
 
@@ -100,9 +100,11 @@ Any amounts received from a grant under this section may be used only as follows
 
 (Pub. L. 101–625, title VIII, §861, Nov. 28, 1990, 104 Stat. 4382; Pub. L. 102–550, title VI, §606(i), (j)(8)–(10), (11)(E), Oct. 28, 1992, 106 Stat. 3810, 3811; Pub. L. 105–276, title V, §550(b), Oct. 21, 1998, 112 Stat. 2609.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The United States Housing Act of 1937, referred to in subsec. (b)(1)(B)(i), is act Sept. 1, 1937, ch. 896, as revisedgenerally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, and amended, which is classified generally to chapter 8 (§1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of this title and Tables.
+The United States Housing Act of 1937, referred to in subsec. (b)(1)(B)(i), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, and amended, which is classified generally to chapter 8 (§1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of this title and Tables.
 
 #### Amendments
 
@@ -114,7 +116,7 @@ Subsec. (b)(1)(A). Pub. L. 102–550, §606(j)(11)(E)(i), substituted "eligible 
 
 Subsec. (b)(1)(A)(iv). Pub. L. 102–550, §606(j)(9), (11)(E)(i), substituted "eligible persons" for "individuals with acquired immunodeficiency syndrome or related diseases" and "such eligible persons" for "such individuals".
 
-Subsec. (b)(2). Pub. L. 102–550, §606(j)(11)(E)(i), which directed the substitution of "eligible persons" for "individuals with acquired immunodeficiency syndrome or related diseases" wherever appearing in subsec. (b), was executed by making the substitution for "individuals with acquired immunodeficiency syndrome and related diseases" in par. (2) to reflect the probable intent of Congress.
+Subsec. (b)(2). Pub. L. 102–550, §606(j)(11)(E)(i), which directed the substitution of "eligible persons" for "individuals with acquired immunodeficiency syndrome or related diseases" wherever appearing in subsec. (b), was executed by making the substitution for "individualswith acquired immunodeficiency syndrome and related diseases" in par. (2) to reflect the probable intent of Congress.
 
 Subsec. (c)(1)(C). Pub. L. 102–550, §606(i)(1), inserted before period at end ", and expenses relating to community outreach and educational activities regarding acquired immunodeficiency syndrome and related diseases provided for individuals residing in proximity of eligible persons assisted under this chapter".
 
@@ -125,6 +127,8 @@ Subsec. (d). Pub. L. 102–550, §606(j)(11)(E)(ii), which directed the substitu
 Subsec. (d)(1)(A). Pub. L. 102–550, §606(j)(10)(A), substituted "eligible persons" for "individuals".
 
 Subsec. (d)(1)(D). Pub. L. 102–550, §606(j)(10)(B), inserted "with acquired immunodeficiency syndrome or related diseases" after "any individual".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

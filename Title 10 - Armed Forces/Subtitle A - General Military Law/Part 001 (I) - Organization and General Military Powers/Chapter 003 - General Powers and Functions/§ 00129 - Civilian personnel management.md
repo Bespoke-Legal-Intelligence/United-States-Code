@@ -1,6 +1,6 @@
 ### §129. Civilian personnel management
 
-(a) The civilian personnel of the Department of Defense shall be managed each fiscal year primarily on the basis of and consistent with (1) the total force management policies and procedures established under section 129a of this title, (2) the workload required to carry out the functions and activities of the department, and (3) the funds made available to the department for such fiscal year. The management of such personnel in any fiscal year shall not be subject solely to any constraint or limitation in terms of man years, end strength, full-time equivalent positions, or maximum number of employees. The Secretary of Defense and the Secretaries of the military departments may not be required to make a reduction in the number of full-time equivalent positions in the Department of Defense except in accordance with the requirements of this section and section 129a of this title.
+(a) The civilian personnel of the Department of Defense shall be managed each fiscal year solely on the basis of and consistent with (1) the total force management policies and procedures established under section 129a of this title, (2) the workload required to carry out the functions and activities of the department, and (3) the funds made available to the department for such fiscal year. The management of such personnel in any fiscal year shall not be subject to any constraint or limitation in terms of man years, end strength, full-time equivalent positions, or maximum number of employees. The Secretary of Defense and the Secretaries of the military departments may not be required to make a reduction in the number of full-time equivalent positions in the Department of Defense except in accordance with the requirements of this section and section 129a of this title.
 
 (b) With respect to each budget activity within an appropriation for a fiscal year for operations and maintenance, the Secretary of Defense shall ensure that there are employed during that fiscal year employees in the number and with the combination of skills and qualifications that are necessary to carry out the functions within that budget activity as determined under the total force management policies and procedures established under section 129a of this title.
 
@@ -14,13 +14,17 @@
 
 &emsp;(A) An assessment of the projected size and associated cost of such civilian workforce in the current year and for each year in the future-years defense program.
 
-&emsp;(B) If the projected size and associated cost of such civilian workforce has changed fromthe previous year's projected size and associated cost, an explanation of the reasons for the increase or decrease from the previous projection, including an explanation of any efforts to reduce the overall costs of the total force of military, civilian, and contract workforces.
+&emsp;(B) If the projected size and associated cost of such civilian workforce has changed from the previous year's projected size and associated cost, an explanation of the reasons for the increase or decrease from the previous projection, including an explanation of any efforts to reduce the overall costs of the total force of military, civilian, and contract workforces.
 
 &emsp;(C) In the case of a transfer of functions between military, civilian, and contractor workforces, an explanation of the reasons for the transfer and the steps that have been taken to control the overall cost of the function to the Department.
 
-(Added Pub. L. 97–86, title IX, §904(a), Dec. 1, 1981, 95 Stat. 1114, §140b; renumbered §129, Pub. L. 99–433, title I, §101(a)(3), Oct. 1, 1986, 100 Stat. 994; amended Pub. L. 99–661, div. A, title V, §533, Nov. 14, 1986, 100 Stat. 3873; Pub. L. 102–190, div. A, title III, §312(b), Dec. 5, 1991, 105 Stat. 1335; Pub. L. 104–106, div. A, title X, §1031, Feb. 10, 1996, 110 Stat. 428; Pub. L. 104–201, div. A, title X, §1074(a)(1), title XVI, §1603, Sept. 23, 1996, 110 Stat. 2658, 2735; Pub. L. 105–85, div. A, title XI, §1101, Nov. 18, 1997, 111 Stat. 1922; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 112–81, div. A, title IX, §932, Dec. 31, 2011, 125 Stat. 1543; Pub. L. 114–328, div. A, title XI, §1101(a), (b)(1), Dec. 23, 2016, 130 Stat. 2443; Pub. L. 116–92, div. A, title XI, §1103, Dec. 20, 2019, 133 Stat. 1596.)
+(Added Pub. L. 97–86, title IX, §904(a), Dec. 1, 1981, 95 Stat. 1114, §140b; renumbered §129, Pub. L. 99–433, title I, §101(a)(3), Oct. 1, 1986, 100 Stat. 994; amended Pub. L. 99–661, div. A, title V, §533, Nov. 14, 1986, 100 Stat. 3873; Pub. L. 102–190, div. A, title III, §312(b), Dec. 5, 1991, 105 Stat. 1335; Pub. L. 104–106, div. A, title X, §1031, Feb. 10, 1996, 110 Stat. 428; Pub. L. 104–201, div. A, title X, §1074(a)(1), title XVI, §1603, Sept. 23, 1996, 110 Stat. 2658, 2735; Pub. L. 105–85, div. A, title XI, §1101, Nov. 18, 1997, 111 Stat. 1922; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 112–81, div. A, title IX, §932, Dec. 31, 2011, 125 Stat. 1543; Pub. L. 114–328, div. A, title XI, §1101(a), (b)(1), Dec. 23, 2016, 130 Stat. 2443; Pub. L. 116–92, div. A, title XI, §1103, Dec. 20, 2019, 133 Stat. 1596; Pub. L. 117–81, div. A, title XI, §1102, Dec. 27, 2021, 135 Stat. 1949.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a). Pub. L. 117–81, in first sentence, substituted "solely" for "primarily" and, in second sentence, struck out "solely" after "shall not be subject".
 
 <b>2019</b>—Subsec. (a). Pub. L. 116–92, §1103(1), in first sentence, substituted "each fiscal year primarily" for "each fiscal year", and in second sentence, substituted "The management of such personnel in any fiscal year shall not be subject solely to any" for "Any" and struck out "shall be developed on the basis of those factors and shall be subject to adjustment solely for reasons of changed circumstances" after "number of employees".
 
@@ -52,7 +56,7 @@ Subsecs. (d) to (f). Pub. L. 114–328, §1101(a)(2), (3), redesignated subsec. 
 
 <b>2011</b>—Subsec. (a). Pub. L. 112–81, §932(1), inserted "the total force management policies and procedures established under section 129a of this title, (2)" after "(1)" and substituted "department, and (3)" for "department and (2)".
 
-Subsec. (d). Pub. L. 112–81, §932(2), substituted "within that budget activity as determined under the total force management policies and procedures established under section 129a of this title." for "within that budget activity for which funds are provided for that fiscal year."
+Subsec. (d). Pub. L. 112–81, §932(2), substituted "within that budget activity as determined under the totalforce management policies and procedures established under section 129a of this title." for "within that budget activity for which funds are provided for that fiscal year."
 
 Subsec. (e). Pub. L. 112–81, §932(3), struck out at end "With respect to the MRTFB structure, the term 'funds made available' includes both direct appropriated funds and funds provided by MRTFB customers."
 

@@ -46,7 +46,7 @@
 
 &emsp;&emsp;&emsp;(i) both the Federal Reserve System Retirement Plan and the Federal Reserve System Thrift Plan, under the same terms on which such participation is offered to employees of the Board of Governors who participate in such plans and under the terms and conditions specified under section 5584(i)(1)(C) of this title; or
 
-&emsp;&emsp;&emsp;(ii) the Civil Service Retirement System under chapter 83 of title 5 or the Federal Employees Retirement System under chapter 84 of title 5, if previously covered under one of those Federal employee retirement systems.
+&emsp;&emsp;&emsp;(ii) the Civil Service Retirement System under chapter 83 of title 5 or the Federal Employees Retirement System underchapter 84 of title 5, if previously covered under one of those Federal employee retirement systems.
 
 #### (B) Election period
 
@@ -118,11 +118,11 @@
 
 #### (C) Reports to the Congress
 
-&emsp;&emsp;The Director shall present an annual report to Congress not later than March 31 of each year on the complaints received by the Bureau in the prior year regarding consumer financial products and services. Such report shall include information and analysis about complaint numbers, complaint types, and, where applicable, information about resolution of complaints.
+&emsp;&emsp;The Director shall present an annual report to Congress not later than March 31 of each year on the complaints received by the Bureau in the prior year regarding consumer financial products and services. Such report shall include information and analysis about complaint numbers, complaint types, and,where applicable, information about resolution of complaints.
 
 #### (D) Data sharing required
 
-&emsp;&emsp;To facilitate preparation of the reports required under subparagraph (C), supervision and enforcement activities, and monitoring of the market for consumer financial products and services, the Bureau shall share consumer complaint information with prudential regulators, the Federal Trade Commission, other Federal agencies, and State agencies, subject to the standards applicable to Federal agencies for protection of the confidentiality of personally identifiable information and for data security and integrity. The prudential regulators, the Federal Trade Commission, and other Federal agencies shall share data relating to consumer complaints regarding consumer financial products and services with the Bureau, subject to the standards applicable to Federal agencies for protection of confidentiality ofpersonally identifiable information and for data security and integrity.
+&emsp;&emsp;To facilitate preparation of the reports required under subparagraph (C), supervision and enforcement activities, and monitoring of the market for consumer financial products and services, the Bureau shall share consumer complaint information with prudential regulators, the Federal Trade Commission, other Federal agencies, and State agencies, subject to the standards applicable to Federal agencies for protection of the confidentiality of personally identifiable information and for data security and integrity. The prudential regulators, the Federal Trade Commission, and other Federal agencies shall share data relating to consumer complaints regarding consumer financial products and services with the Bureau, subject to the standards applicable to Federal agencies for protection of confidentiality of personally identifiable information and for data security and integrity.
 
 #### (c) Office of Fair Lending and Equal Opportunity
 
@@ -220,7 +220,7 @@
 
 #### (B) Report
 
-&emsp;&emsp;Not later than 1 year after July 21, 2010, the Comptroller General of the UnitedStates shall submit a report on the results of the study conducted under this paragraph to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives.
+&emsp;&emsp;Not later than 1 year after July 21, 2010, the Comptroller General of the United States shall submit a report on the results of the study conducted under this paragraph to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives.
 
 #### (e) Office of Service Member Affairs
 
@@ -298,7 +298,7 @@ The Office of Fair Lending and Equal Opportunity, the Office of Financial Educat
 
 #### (h) Application of FACA
 
-Notwithstanding any provision of the Federal Advisory Committee Act (5 U.S.C. App.), suchAct shall apply to each advisory committee of the Bureau and each subcommittee of such an advisory committee.
+Notwithstanding any provision of the Federal Advisory Committee Act (5 U.S.C. App.), such Act shall apply to each advisory committee of the Bureau and each subcommittee of such an advisory committee.
 
 (Pub. L. 111–203, title X, §1013, July 21, 2010, 124 Stat. 1966; Pub. L. 114–113, div. O, title VII, §704, Dec. 18, 2015, 129 Stat. 3025.)
 

@@ -2,7 +2,7 @@
 
 #### (a) Purchase and lease of new vehicles
 
-It shall be considered discrimination for purposes of section 12132 of this title and section 794 of title 29 for a public entity which operates afixed route system to purchase or lease a new bus, a new rapid rail vehicle, a new light rail vehicle, or any other new vehicle to be used on such system, if the solicitation for such purchase or lease is made after the 30th day following July 26, 1990, and if such bus, rail vehicle, or other vehicle is not readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs.
+It shall be considered discrimination for purposes of section 12132 of this title and section 794 of title 29 for a public entity which operates a fixed route system to purchase or lease a new bus, a new rapid rail vehicle, a new light rail vehicle, or any other new vehicle to be used on such system, if the solicitation for such purchase or lease is made after the 30th day following July 26, 1990, and if such bus, rail vehicle, or other vehicle is not readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs.
 
 #### (b) Purchase and lease of used vehicles
 
@@ -31,6 +31,8 @@ Subject to subsection (c)(1), it shall be considered discrimination for purposes
 &emsp;&emsp;For purposes of this paragraph and section 12148(b) of this title, a vehicle of historic character shall be defined by the regulations issued by the Secretary to carry out this subsection.
 
 (Pub. L. 101–336, title II, §222, July 26, 1990, 104 Stat. 339.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

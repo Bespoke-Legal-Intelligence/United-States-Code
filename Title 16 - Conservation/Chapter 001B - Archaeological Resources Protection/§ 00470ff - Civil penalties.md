@@ -24,7 +24,7 @@
 
 &emsp;(B) after a court in an action brought under paragraph (1) has entered a final judgment upholding the assessment of a civil penalty,
 
-> the Federal land managers may request the Attorney General to institute a civil action in a district court of the United States for any district in which such person is found, resides, or transacts business to collect the penalty and such court shall have jurisdiction to hear and decide any such action. In such action, the validity and amount of such penalty shall not be subject to review.
+> the Federal land managers may request the Attorney General to institute a civil action in a district court of the United States for any district in which such person is found, resides, or transacts business to collect the penalty and such court shall have jurisdiction to hear anddecide any such action. In such action, the validity and amount of such penalty shall not be subject to review.
 
 #### (c) Hearings
 

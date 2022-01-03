@@ -7,6 +7,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Pub. L. 114–94, div. A, title XI, §§11503(a), 11504(b), Dec. 4, 2015, 129 Stat. 1691, 1693, added chapter 242 and items 24201 and 24202.

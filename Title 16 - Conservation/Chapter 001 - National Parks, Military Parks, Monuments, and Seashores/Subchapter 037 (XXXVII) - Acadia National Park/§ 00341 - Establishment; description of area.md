@@ -4,11 +4,15 @@ The tracts of land, easements, and other real estate known before February 26, 1
 
 (Feb. 26, 1919, ch. 45, §1, 40 Stat. 1178; Jan. 19, 1929, ch. 77, §2, 45 Stat. 1083.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 The words "known before February 26, 1919," were substituted in text for "heretofore known".
 
 Recitation in this section as originally enacted of the fact that Sieur de Monts National Monument was established under act June 8, 1906, by Presidential proclamation of July 8, 1916, was omitted as historically obsolete.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -64,7 +68,7 @@ Technical and limited revisions.—Subject to section 102(k), notwithstanding an
 
 &emsp;&emsp;&emsp;"(i) any such boundary revision shall not be a part of a more-comprehensive boundary revision; and
 
-&emsp;&emsp;&emsp;"(ii) all such boundary revisions, considered collectively with any technical boundary revisions made pursuant to subparagraph (A), do not increase the size of the Park by more than a totalof 100 acres, as compared to the size of the Park on the date of enactment of this paragraph.
+&emsp;&emsp;&emsp;"(ii) all such boundary revisions, considered collectively with any technical boundary revisions made pursuant to subparagraph (A), do not increase the size of the Park by more than a total of 100 acres, as compared to the size of the Park on the date of enactment of this paragraph.
 
 #### "SEC. 102. LANDS WITHIN BOUNDARIES.
 
@@ -92,7 +96,7 @@ Technical and limited revisions.—Subject to section 102(k), notwithstanding an
 
 "(2) Any such right retained pursuant to this subsection shall be subject to such terms and conditions as the Secretary may prescribe and may be terminated by the Secretary upon his determination and after reasonable notice to the owner thereof that such property is being used for any purpose which is incompatible with the administration of the Park or with the preservation of the resources therein. Such right shall terminate by operation of law upon notification to the owner by the Secretary and tendering to the owner the amount equal to the fair market value of that portion which remains unexpired.
 
-"(d)(1) In exercising his authority to acquire lands by exchange pursuant to this title, the Secretary may accept title to non-Federal property located within the boundary of the Park and may convey to the grantor of such property any federally owned property under the jurisdiction of the Secretary which lies outside said boundary and depicted on the map. Properties so exchanged shall be approximately equal in value, as determined by the Secretary, except that the Secretary may accept cash from or pay cash to the grantor in such an exchange in order to equalize the value of the properties exchanged.
+"(d)(1) In exercising his authority to acquire lands by exchange pursuant to this title, the Secretary may accept title to non-Federal property located within the boundary of the Park and may convey to the grantor of such property any federally owned property under the jurisdiction of the Secretary which lies outside said boundary and depicted on the map. Properties so exchanged shall be approximately equal in value, as determined by the Secretary, except that the Secretary may accept cash from or pay cash to the grantor insuch an exchange in order to equalize the value of the properties exchanged.
 
 "(2) Federally owned property under jurisdiction of the Secretary referred to in paragraph (1) of this subsection shall be conveyed to the towns in which the property is located without encumbrance and without monetary consideration, except that no town shall be eligible to receive such lands unless lands within the Park boundary and owned by the town have been conveyed to the Secretary.
 
@@ -158,7 +162,7 @@ Requirements.—Before revising the boundaries of the Park pursuant to this sect
 
 &emsp;"(3) obtain from each property owner the land or interest in land of which is proposed to be acquired for, or lost from, the Park written consent for the proposed boundary revision; and
 
-&emsp;"(4) submit to the Acadia National Park Advisory Commission established by section 103(a), the Committee on Natural Resources of the House of Representatives, the Committee on Energy and Natural Resources of the Senate, and the Maine Congressional Delegation a written notice of the proposed boundary revision.
+&emsp;"(4) submit to the Acadia National Park Advisory Commission established by section 103(a), the Committee on Natural Resources of the House of Representatives, the Committee on Energy and Natural Resources of the Senate, and the Maine CongressionalDelegation a written notice of the proposed boundary revision.
 
 "(l)
 
@@ -202,7 +206,7 @@ Limitation.—The Secretary may not use the authority provided by section 100506
 
 #### "SEC. 106. AUTHORIZATION OF APPROPRIATIONS.
 
-"(a) Effective October 1, 1986, there are authorized to be appropriated such sums as may be necessary tocarry out the provisions of this title, but not to exceed $9,100,000 for acquisition of lands and interests therein.
+"(a) Effective October 1, 1986, there are authorized to be appropriated such sums as may be necessary to carry out the provisions of this title, but not to exceed $9,100,000 for acquisition of lands and interests therein.
 
 "(b) For the purposes of paragraph 7(a)(3) of the Land and Water Conservation Fund Act of 1965, as amended (\[former\] 16 U.S.C. 460l–9) \[now 54 U.S.C. 200306(a)(4)\], the statutory ceiling provided in subsection (a) shall be deemed to have been enacted prior to the convening of the Ninety-fifth Congress \[Jan. 4, 1977\].
 

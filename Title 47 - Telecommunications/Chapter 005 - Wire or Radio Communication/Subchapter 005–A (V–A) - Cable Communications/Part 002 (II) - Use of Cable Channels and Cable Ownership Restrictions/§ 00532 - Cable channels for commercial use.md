@@ -10,7 +10,7 @@ The purpose of this section is to promote competition in the delivery of diverse
 
 &emsp;(A) An operator of any cable system with 36 or more (but not more than 54) activated channels shall designate 10 percent of such channels which are not otherwise required for use (or the use of which is not prohibited) by Federal law or regulation.
 
-&emsp;(B) An operator of any cable system with 55 or more (but not more than 100) activated channels shall designate 15 percent of such channels which are not otherwise required for use (or the use of which is not prohibited) by Federal law or regulation.
+&emsp;(B) An operator of any cable system with 55 or more (but not more than 100) activated channels shall designate 15 percent of such channels which are not otherwise required foruse (or the use of which is not prohibited) by Federal law or regulation.
 
 &emsp;(C) An operator of any cable system with more than 100 activated channels shall designate 15 percent of all such channels.
 
@@ -48,11 +48,11 @@ The purpose of this section is to promote competition in the delivery of diverse
 
 #### (d) Right of action in district court; relief; factors not to be considered by court
 
-Any person aggrieved by the failure or refusal of a cable operator to make channel capacity available for use pursuant to this section may bring an action in the district court of the United States for the judicial district in which the cable system is located to compel that such capacity be made available. If the court finds that the channel capacity sought by such person has not been made available in accordance with this section, or finds that the price, terms, or conditions established by the cable operator are unreasonable, the court may order such system to make available to such person the channel capacity sought, and further determine the appropriate price, terms, or conditions for suchuse consistent with subsection (c), and may award actual damages if it deems such relief appropriate. In any such action, the court shall not consider any price, term, or condition established between an operator and an affiliate for comparable services.
+Any person aggrieved by the failure or refusal of a cable operator to make channel capacity available for use pursuant to this section may bring an action in the district court of the United States for the judicial district in which the cable system is located to compel that such capacity be made available. If the court finds that the channel capacity sought by such person has not been made available in accordance with this section, or finds that the price, terms, or conditions established by the cable operator are unreasonable, the court may order such system to make available to such person the channel capacity sought, and further determine the appropriate price, terms, or conditions for such use consistent with subsection (c), and may award actual damages if it deems such relief appropriate. In any such action, the court shall not consider any price, term, or condition established between an operator and an affiliate for comparable services.
 
 #### (e) Petition to Commission; relief
 
-(1) Any person aggrieved by the failure or refusal of a cable operator to make channel capacity available pursuant to this section may petition the Commission for relief under this subsection upon a showing of prior adjudicated violations of this section. Records of previous adjudications resulting in a court determination that the operator has violated this section shall be considered as sufficient for the showing necessary under this subsection. If the Commission finds that the channel capacity sought by such person has not been made available in accordance with this section, or that the price, terms, or conditions established by such system are unreasonable under subsection (c), the Commission shall, by rule or order, require such operator to make available such channel capacity under price, terms, and conditions consistent with subsection (c).
+(1) Any person aggrieved by the failure or refusal of a cable operator to make channel capacity available pursuant to this section may petition the Commission for relief under this subsection upon a showing of prior adjudicated violations of this section. Records of previous adjudications resulting in a court determination that the operator has violated this section shall be considered as sufficient for the showing necessary under this subsection. If the Commissionfinds that the channel capacity sought by such person has not been made available in accordance with this section, or that the price, terms, or conditions established by such system are unreasonable under subsection (c), the Commission shall, by rule or order, require such operator to make available such channel capacity under price, terms, and conditions consistent with subsection (c).
 
 (2) In any case in which the Commission finds that the prior adjudicated violations of this section constitute a pattern or practice of violations by an operator, the Commission may also establish any further rule or order necessary to assure that the operator provides the diversity of information sources required by this section.
 
@@ -98,7 +98,7 @@ Any cable service offered pursuant to this section shall not be provided, or sha
 
 #### Constitutionality
 
-For information regarding constitutionality of certain provisions of section 612 of act June 19, 1934, as added by section 10(b) of Pub. L. 102–385, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For information regarding constitutionality of certain provisions of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
 
 #### Amendments
 

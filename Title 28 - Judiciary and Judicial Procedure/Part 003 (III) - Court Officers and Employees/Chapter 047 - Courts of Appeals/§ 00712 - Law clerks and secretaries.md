@@ -1,6 +1,6 @@
 ### §712. Law clerks and secretaries
 
-Circuit judges may appoint necessary law clerks and secretaries. A law clerk appointedunder this section shall be exempt from the provisions of subchapter I of chapter 63 of title 5, unless specifically included by the appointing judge or by local rule of court.
+Circuit judges may appoint necessary law clerks and secretaries. A law clerk appointed under this section shall be exempt from the provisions of subchapter I of chapter 63 of title 5, unless specifically included by the appointing judge or by local rule of court.
 
 (June 25, 1948, ch. 646, 62 Stat. 920; Pub. L. 100–702, title X, §1003(a)(3), Nov. 19, 1988, 102 Stat. 4665.)
 

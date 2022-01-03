@@ -38,6 +38,8 @@ R.S. 1254.
 
 The applicability of the rule stated in the revised section to situations not expressly covered by the laws named in the source credits above is necessarily implied from laws providing for retirement in higher grade in those situations.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior sections 9341 and 9341a were renumbered sections 9441 and 9441a of this title, respectively.
@@ -56,13 +58,15 @@ Subsec. (b). Pub. L. 116–283, §508(b)(4)(B), inserted "or a Regular or Reserv
 
 <b>1980</b>—Pub. L. 96–513 added subsec. (a), designated existing provisions as subsec. (b), and inserted "not covered by subsection (a)" after "a Regular or Reserve of the Air Force".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–398 applicable to Reserve commissioned officers who are promoted to a higher grade as a result of selection for promotion by a board convened under chapter 36 or 1403 of this title, or having been found qualified for Federal recognition in a higher grade under chapter 3 of Title 32, National Guard, after Oct. 1, 1996, see section 1 \[\[div. A\], title V, §506(c)\] of Pub. L. 106–398, set out as a note under section 7341 of this title.
+Amendment by Pub. L. 106–398 applicable to Reserve commissioned officers who are promoted to a higher grade as a result of selection for promotion by a board convened under chapter 36 or 1403 of this title, or having been found qualified for Federal recognition in a higher grade under chapter 3 of Title 32, National Guard, after Oct. 1, 1996, see section 1 \[\[div. A\], title V,§506(c)\] of Pub. L. 106–398, set out as a note under section 7341 of this title.
 
 #### Effective Date of 1994 Amendment
 

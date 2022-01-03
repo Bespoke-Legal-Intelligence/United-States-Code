@@ -18,9 +18,13 @@ If the Secretary determines that any reinsurance contract has a significant tax 
 
 (Added Pub. L. 98–369, div. A, title II, §212(a), July 18, 1984, 98 Stat. 757; amended Pub. L. 108–357, title VIII, §803(a), Oct. 22, 2004, 118 Stat. 1569.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Subsec. (a). Pub. L. 108–357 substituted "amount, source, or character" for "source and character" in concluding provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

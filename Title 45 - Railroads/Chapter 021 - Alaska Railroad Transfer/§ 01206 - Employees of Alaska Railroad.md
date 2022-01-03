@@ -66,5 +66,5 @@ Subsec. (e). Pub. L. 103–226, §10(b), added subsec. (e) and struck out former
 
 #### Administrative Provision
 
-Pub. L. 100–238, title I, §136(b), Jan. 8, 1988, 101 Stat. 1767, provided that within 180 days after Jan. 8, 1988, the Director of the Office of Personnel Management was tonotify any person described under the provisions of subsec. (e)(2)(A) of this section for the purpose of the election of a life insurance policy or the enrollment in a health benefits plan pursuant to the provisions of subsec. (e)(1) of this section.
+Pub. L. 100–238, title I, §136(b), Jan. 8, 1988, 101 Stat. 1767, provided that: "Within 180 days after the date of enactment of this section \[Jan. 8, 1988\], the Director of the Office of Personnel Management shall notify any person described under the provisions of section 607(e)(2)(A) of such Act \[45 U.S.C. 1206(e)(2)(A)\], for the purpose of the election of a life insurance policy or the enrollment in a health benefits plan pursuant to the provisions of section 607(e)(1) of the Alaska RailroadTransfer Act of 1982 \[45 U.S.C. 1206(e)(1)\] (as amended by subsection (a) of this section)."
 

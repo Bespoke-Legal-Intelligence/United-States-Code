@@ -6,7 +6,7 @@ Except as otherwise provided in this section, title 5 shall not apply to the Ins
 
 #### (b) Appointment and compensation
 
-(1) The President of the Institute, with the approval of the Board, shall have the authority toappoint, fix the compensation of (including health and retirement benefits), and prescribe the duties of, such officers and employees as the President of the Institute deems necessary for the efficient administration of the Institute.
+(1) The President of the Institute, with the approval of the Board, shall have the authority to appoint, fix the compensation of (including health and retirement benefits), and prescribe the duties of, such officers and employees as the President of the Institute deems necessary for the efficient administration of the Institute.
 
 (2) The President of the Institute shall fix the basic compensation for officers and employees of the Institute at rates comparable to the rates in effect under the General Schedule for individuals with comparable qualifications and positions, to whom chapter 51 of title 5 applies. If the Board determines that such action is necessary for purposes of recruitment or retention of officers or employees necessary to the functions of the Institute, the Board is authorized, by formal action, to establish a rate of, or a range for, basic compensation that is comparable to the rate of compensation paid to officers or employees having similar duties and responsibilities in other institutions of higher education.
 
@@ -68,9 +68,9 @@ Individuals who elect to remain civil service employees shall be transferred in 
 
 #### (g) Termination of civil service positions
 
-(1) On June 30, 1989, any position at the Institute which is occupied by an individual in the civil service shall terminate. During such period, such individual may make an irrevocable election to be covered under the provisions of this section, except that any such individual who is subject to subchapter III of chapter 83 of title 5 may elect to continue to be subject to such subchapter, and any such individual who is subject to chapter 84 of such title may elect to continue to be subject to such chapter.
+(1) On June 30, 1989, any position at the Institute which is occupied by an individual in thecivil service shall terminate. During such period, such individual may make an irrevocable election to be covered under the provisions of this section, except that any such individual who is subject to subchapter III of chapter 83 of title 5 may elect to continue to be subject to such subchapter, and any such individual who is subject to chapter 84 of such title may elect to continue to be subject to such chapter.
 
-(2) Any individual who makes an election under paragraph (1) to continue to be subject to subchapter III of chapter 83 of title 5 or chapter 84 of such title shall, so long as continually employed by the Institute without a break in service subject to such subchapter or such chapter 84, as the case may be, continue to be treated as an employee subject to such subchapter or such chapter 84, as the case may be. Employment by the Institute without a break of continuity inservice shall be considered to be employment by the United States Government for the purpose of such subchapter or such chapter 84, as the case may be. The Institute shall be responsible for making the contributions required to be made by an employing agency under such subchapter or such chapter 84, as the case may be.
+(2) Any individual who makes an election under paragraph (1) to continue to be subject to subchapter III of chapter 83 of title 5 or chapter 84 of such title shall, so long as continually employed by the Institute without a break in service subject to such subchapter or such chapter 84, as the case may be, continue to be treated as an employee subject to such subchapter or such chapter 84, as the case may be. Employment by the Institute without a break of continuity in service shall be considered to be employment by the United States Government for the purpose of such subchapter or such chapter 84, as the case may be. The Institute shall be responsible for making the contributions required to be made by an employing agency under such subchapter or such chapter 84, as the case may be.
 
 #### (h) Collective bargaining
 
@@ -81,6 +81,8 @@ The Institute shall be considered an agency for the purpose of chapter 71 of tit
 Employees of the Institute shall receive compensation for work injuries and illnesses in accordance with chapter 81 of title 5.
 
 (Pub. L. 99–498, title XV, §1509, Oct. 17, 1986, 100 Stat. 1604; Pub. L. 100–297, title V, §5406(a), Apr. 28, 1988, 102 Stat. 417; Pub. L. 102–325, title XIII, §1331(c), July 23, 1992, 106 Stat. 806; Pub. L. 103–382, title III, §386(a), Oct. 20, 1994, 108 Stat. 4020.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -97,6 +99,8 @@ The General Schedule, referred to in subsec. (b)(2), is set out under section 53
 <b>1992</b>—Subsec. (b)(2). Pub. L. 102–325 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The President of the Institute shall fix the basic compensation for officers and employees of the Institute at rates comparable to the rates in effect under the General Schedule for individuals with comparable qualifications, and holding comparable positions, to whom chapter 51 of title 5 applies."
 
 <b>1988</b>—Subsec. (g)(1). Pub. L. 100–297 substituted "On June 30, 1989" for "At the end of the 2-year period beginning on the date referred to in section 4421(f) of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

@@ -116,6 +116,8 @@ In subsection (c)(2), before clause (A), the word "prescribed" is substituted fo
 
 In subsection (d), the words "by which", "the requirements of", and "or relieved of the obligation to meet any requirements imposed under" are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Ports and Waterways Safety Act of 1972, referred to in subsec. (d)(1)(C), is Pub. L. 92–340, July 10, 1972, 86 Stat. 424, which was renamed the Ports and Waterways Safety Act by Pub. L. 95–474, §2, Oct. 17, 1978, 92 Stat. 1471, and was classified generally to chapter 25 (§1221 et seq.) of Title 33, Navigation and Navigable Waters, prior to repeal by Pub. L. 115–282, title IV, §402(e), Dec. 4, 2018, 132 Stat. 4264. See Transitional and Savings Provisions note preceding section 101 of Title 46, Shipping, and chapter 700 (§70001 et seq.) of Title 46.
@@ -148,9 +150,11 @@ Subsec. (e). Pub. L. 109–59, §7115(g), substituted "a special permit" for "an
 
 <b>1994</b>—Subsecs. (c) to (e). Pub. L. 103–311 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
-Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a noteunder section 5313 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2012 Amendment
 

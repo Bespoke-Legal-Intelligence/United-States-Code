@@ -18,13 +18,15 @@ Obligation of Federal Share.—The Secretary, on the request of a State and exec
 
 (c)
 
-Inclusion in Transportation Improvement Program.—The Secretary may approve an application for a project under this section only if the project is included in the transportation improvement program of the State developed under section 135(f).
+Inclusion in Transportation Improvement Program.—The Secretary may approve an application for a project under this section only if the project is included in the transportation improvement program of the State developed under section 135(g).
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 896; Pub. L. 90–495, §25(a), (b), Aug. 23, 1968, 82 Stat. 828, 829; Pub. L. 93–643, §111, Jan. 4, 1975, 88 Stat. 2285; Pub. L. 96–106, §4, Nov. 9, 1979, 93 Stat. 797; Pub. L. 97–424, title I, §113, Jan. 6, 1983, 96 Stat. 2106; Pub. L. 100–17, title I, §113(a)–(d)(1), Apr. 2, 1987, 101 Stat. 149, 150; Pub. L. 102–302, §103, June 22, 1992, 106 Stat. 252; Pub. L. 104–59, title III, §308, Nov. 28, 1995, 109 Stat. 582; Pub. L. 105–178, title I, §§1103(l)(3)(A), 1106(c)(1)(A), 1226(a), title V, §5119(d), June 9, 1998, 112 Stat. 126, 136, 452; Pub. L. 105–206, title IX, §9003(a), July 22, 1998, 112 Stat. 837; Pub. L. 109–59, title I, §1501(a), Aug. 10, 2005, 119 Stat. 1235; Pub. L. 110–244, title I, §101(j), June 6, 2008, 122 Stat. 1574.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 896; Pub. L. 90–495, §25(a), (b), Aug. 23, 1968, 82 Stat. 828, 829; Pub. L. 93–643, §111, Jan. 4, 1975, 88 Stat. 2285; Pub. L. 96–106, §4, Nov. 9, 1979, 93 Stat. 797; Pub. L. 97–424, title I, §113, Jan. 6, 1983, 96 Stat. 2106; Pub. L. 100–17, title I, §113(a)–(d)(1), Apr. 2, 1987, 101 Stat. 149, 150; Pub. L. 102–302, §103, June 22, 1992, 106 Stat. 252; Pub. L. 104–59, title III, §308, Nov. 28, 1995, 109 Stat. 582; Pub. L. 105–178, title I, §§1103(l)(3)(A), 1106(c)(1)(A), 1226(a), title V, §5119(d), June 9, 1998, 112 Stat. 126, 136, 452; Pub. L. 105–206, title IX, §9003(a), July 22, 1998, 112 Stat. 837; Pub. L. 109–59, title I, §1501(a), Aug. 10, 2005, 119 Stat. 1235; Pub. L. 110–244, title I, §101(j), June 6, 2008, 122 Stat. 1574; Pub. L. 117–58, div. A, title I, §11525(e), Nov. 15, 2021, 135 Stat. 607.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (c). Pub. L. 117–58 substituted "section 135(g)" for "section 135(f)".
 
 <b>2008</b>—Subsecs. (c), (d). Pub. L. 110–244 redesignated subsec. (d) as (c).
 
@@ -36,7 +38,7 @@ Subsecs. (c), (d). Pub. L. 109–59, §1501(a)(1), redesignated subsec. (c) as (
 
 Subsec. (a)(1)(A)(i). Pub. L. 105–178, §§1106(c)(1)(A)(ii), 5119(d), struck out "103(e)(4)(H)," after "under section" and substituted "or 505" for "or 307".
 
-Subsec. (b). Pub. L. 105–178, §1226(a)(1), as added by Pub. L. 105–206, §9003(a), struck out designation and heading of par. (1), redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, realigned margins, and struck out former pars. (2) and (3), which related to bond interest for projects under construction on Jan. 1, 1983, and directed that Federal share of cost of construction would include amount of bond interest but not in excess of estimated costs over actual costs.
+Subsec. (b). Pub. L. 105–178, §1226(a)(1), as added by Pub. L. 105–206, §9003(a), struck out designation and heading of par. (1), redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, realigned margins, andstruck out former pars. (2) and (3), which related to bond interest for projects under construction on Jan. 1, 1983, and directed that Federal share of cost of construction would include amount of bond interest but not in excess of estimated costs over actual costs.
 
 Subsec. (b)(1). Pub. L. 105–178, §1103(l)(3)(A), substituted "104(b)(4)" for "104(b)(5)".
 
@@ -100,7 +102,7 @@ Subsec. (c). Pub. L. 100–17, §113(d)(1)(E), (F), inserted heading and substit
 
 Subsec. (d). Pub. L. 100–17, §113(c), added subsec. (d).
 
-<b>1983</b>—Subsec. (a). Pub. L. 97–424, §113(c), designated existing provisions as pars. (1) and (2) and designated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1); in par. (1) as so redesignated, substituted "When a State has obligated all funds appropriated or allocated to it under section 103(e)(4), 104, or 144 of this title, other than "interstate funds, and proceeds to construct any highway substitute, Federal-aid system, or bridge project, respectively, other than an Interstate project funded under section 104(b)(5) of this title, without the aid of Federal funds in accordance with all procedures and all requirements applicable to such a project, except insofar as such procedures and requirements limit a State to the construction of projects with the aid of Federal funds previously apportioned to it, the Secretary, upon application by such State and his approval of such application, is authorized to pay to such State the Federal share of the costs of construction of such project when additional funds are apportioned to such State under section 103(e)(4), 104, or 144, respectively, of this title if—", for "When a State has obligated all funds for any of the Federal-aid systems, other than the Interstate System, apportioned to it under section 104 of this title, and proceeds to construct any project without the aid of Federal funds, including one or more parts of any project, on any of the Federal-aid systems in such State, other than the Interstate System, as any of those systems may be designated at that time, in accordance with all procedures and all requirements applicable to projects on any such system, except insofar as such procedures and requirements limit a State to the construction of projects with the aid of Federal funds previously apportioned to it, the Secretary, upon application by such State and his approval of such application, is authorized to pay to such State the Federal share of the costs of construction of such project when additional funds are apportioned to such State under section 104 of this title if—"; in subpar. (A) thereof struck out "on the Federal-aid system involved" after "other projects"; and in par. (2) as so designated inserted "for section 103(e)(4), 104, or 144 of this title, as the case may be," after "unless authorization", and made a new sentence of existing provisions, beginning with "No application".
+<b>1983</b>—Subsec. (a). Pub. L. 97–424, §113(c), designated existing provisions as pars. (1) and (2) and designated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1); in par. (1) as so redesignated, substituted "When a State has obligated all funds appropriated or allocated to it under section 103(e)(4), 104, or 144 of this title, other than "interstate funds, and proceeds to construct any highway substitute, Federal-aid system, or bridge project, respectively, other than an Interstate project funded under section 104(b)(5) of this title, without the aid of Federal funds in accordance with all procedures and all requirements applicable tosuch a project, except insofar as such procedures and requirements limit a State to the construction of projects with the aid of Federal funds previously apportioned to it, the Secretary, upon application by such State and his approval of such application, is authorized to pay to such State the Federal share of the costs of construction of such project when additional funds are apportioned to such State under section 103(e)(4), 104, or 144, respectively, of this title if—", for "When a State has obligated all funds for any of the Federal-aid systems, other than the Interstate System, apportioned to it under section 104 of this title, and proceeds to construct any project without the aid of Federal funds, including one or more parts of any project, on any of the Federal-aid systems in such State, other than the Interstate System, as any of those systems may be designated at that time, in accordance with all procedures and all requirements applicable to projects on any such system, except insofar as such procedures and requirements limit a State to the construction of projects with the aid of Federal funds previously apportioned to it, the Secretary, upon application by such State and his approval of such application, is authorized to pay to such State the Federal share of the costs of construction of such project when additional funds are apportioned to such State under section 104 of this title if—"; in subpar. (A) thereof struck out "on the Federal-aid system involved" after "other projects"; and in par. (2) as so designated inserted "for section 103(e)(4), 104, or 144 of this title, as the case may be," after "unless authorization", and made a new sentence of existing provisions, beginning with "No application".
 
 Subsec. (b)(2). Pub. L. 97–424, §113(a), substituted "1983" for "1978" wherever appearing.
 
@@ -114,11 +116,15 @@ Subsec. (c). Pub. L. 97–424, §113(d), substituted "section 103(e)(4), 104, or
 
 Subsecs. (b), (c). Pub. L. 93–643, §111(b), added subsec. (b) and redesignated former subsec. (b) as (c).
 
-<b>1968</b>—Subsec. (a). Pub. L. 90–495, §25(a), extended advance construction authority to all the Federal-aidhighway systems rather than just the Interstate System but provided that anticipation of future apportionments by States should only be permitted for those years for which authorizations have been established by law.
+<b>1968</b>—Subsec. (a). Pub. L. 90–495, §25(a), extended advance construction authority to all the Federal-aid highway systems rather than just the Interstate System but provided that anticipation of future apportionments by States should only be permitted for those years for which authorizations have been established by law.
 
 Subsec. (b). Pub. L. 90–495, §25(b), struck out reference to subsec. (b)(5) of section 104 of this title.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as a note under section 101 of this title.
 
 #### Effective Date of 1998 Amendment
 

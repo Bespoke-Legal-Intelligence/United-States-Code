@@ -22,7 +22,7 @@ Subject to subsections (c), (d), and (e), revenues collected by each Federal lan
 
 #### (B) Reduction
 
-&emsp;&emsp;The Secretary may reduce the percentage allocation otherwise applicable under subparagraph (A) to a unit or area of a Federal land management agency, but not below 60 percent, for a fiscal year if the Secretary determines that the revenues collected at theunit or area exceed the reasonable needs of the unit or area for which expenditures may be made for that fiscal year.
+&emsp;&emsp;The Secretary may reduce the percentage allocation otherwise applicable under subparagraph (A) to a unit or area of a Federal land management agency, but not below 60 percent, for a fiscal year if the Secretary determines that the revenues collected at the unit or area exceed the reasonable needs of the unit or area for which expenditures may be made for that fiscal year.
 
 #### (2) Agency-wide distribution of funds
 
@@ -30,7 +30,7 @@ Subject to subsections (c), (d), and (e), revenues collected by each Federal lan
 
 #### (3) Other amounts
 
-&emsp;Other amounts collected at other locations, including recreation fees collected by other entities or for a reservation service, shall remain available, without further appropriation, until expended in accordance with guidelines established by the Secretary.
+&emsp;Other amounts collected at other locations, including recreation fees collected by other entities or for a reservation service, shall remain available, without further appropriation,until expended in accordance with guidelines established by the Secretary.
 
 #### (d) Distribution of National Parks and Federal Recreational Lands Pass revenues
 
@@ -41,6 +41,8 @@ Revenues collected from the sale of the National Parks and Federal Recreational 
 Revenues collected from the sale of a regional multientity pass authorized under section 6804(d) of this title shall be deposited in each participating Federal land management agency's special account in accordance with the terms of the region multientity pass agreement for the regional multientity pass.
 
 (Pub. L. 108–447, div. J, title VIII, §807, Dec. 8, 2004, 118 Stat. 3388.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

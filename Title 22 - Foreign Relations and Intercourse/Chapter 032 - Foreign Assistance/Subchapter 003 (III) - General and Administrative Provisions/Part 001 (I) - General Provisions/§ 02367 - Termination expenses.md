@@ -6,7 +6,7 @@ Funds made available under this chapter and the Arms Export Control Act \[22 U.S
 
 #### (b) Liability to contractors
 
-For the purpose of making an equitable settlement of termination claims under extraordinary contractual relief standards, the President is authorized to adopt as a contract or other obligation of the United States Government, and assume (in whole or in part) any liabilities arising thereunder, any contract with a United States or third-country contractor that had been funded with assistance under such chapter or Act prior to the termination of assistance.
+For the purpose of making an equitable settlement of termination claims under extraordinarycontractual relief standards, the President is authorized to adopt as a contract or other obligation of the United States Government, and assume (in whole or in part) any liabilities arising thereunder, any contract with a United States or third-country contractor that had been funded with assistance under such chapter or Act prior to the termination of assistance.
 
 #### (c) Termination expenses
 
@@ -28,7 +28,7 @@ Unless specifically made inapplicable by another provision of law, the provision
 
 This chapter and such chapter, referred to in subsecs. (a), (b), and (d), were in the original references to this Act and such Act, respectively, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-The Arms Export Control Act and such Act, referred to in subsecs. (a) and (b), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For completeclassification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+The Arms Export Control Act and such Act, referred to in subsecs. (a) and (b), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 #### Amendments
 

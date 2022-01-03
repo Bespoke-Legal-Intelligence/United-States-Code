@@ -6,7 +6,7 @@ It is the purpose of this section to identify and provide guidelines for regiona
 
 #### (b) Guidelines
 
-The Assistant Secretary for Preparedness and Response, in consultation with the Director of the Centers for Disease Control and Prevention, the Administrator of the Centers for Medicare \& Medicaid Services, the Administrator of the Health Resources and Services Administration, the Commissioner of Food and Drugs, the Assistant Secretary for Mental Health and Substance Use, the Assistant Secretary of Labor for Occupational Safety and Health, the Secretary of Veterans Affairs, the heads of such other Federal agencies as the Secretary determines to be appropriate, and State, local, Tribal, and territorial public health officials, shall, not later than 2 years after June 24, 2019—
+The Assistant Secretary for Preparedness and Response, in consultation with the Director ofthe Centers for Disease Control and Prevention, the Administrator of the Centers for Medicare \& Medicaid Services, the Administrator of the Health Resources and Services Administration, the Commissioner of Food and Drugs, the Assistant Secretary for Mental Health and Substance Use, the Assistant Secretary of Labor for Occupational Safety and Health, the Secretary of Veterans Affairs, the heads of such other Federal agencies as the Secretary determines to be appropriate, and State, local, Tribal, and territorial public health officials, shall, not later than 2 years after June 24, 2019—
 
 &emsp;(1) identify and develop a set of guidelines relating to practices and protocols for all-hazards public health emergency preparedness and response for hospitals and health care facilities to provide appropriate patient care during, in advance of, or immediately following, a public health emergency, resulting from one or more chemical, biological, radiological, or nuclear agents, including emerging infectious diseases (which may include existing practices, such as trauma care and medical surge capacity and capabilities), with respect to—
 
@@ -48,7 +48,7 @@ The Assistant Secretary for Preparedness and Response, in consultation with the 
 
 #### (1) In general
 
-&emsp;The Assistant Secretary for Preparedness and Response may establish a demonstration project pursuant to the development and implementation of guidelines under subsection (b) to award grants to improve medical surge capacity for all hazards, build and integrate regional medical response capabilities, improve specialty care expertise for all-hazards response, and coordinate medical preparedness and response across State, local, Tribal, territorial, and regional jurisdictions.
+&emsp;The Assistant Secretary for Preparedness and Response may establish a demonstration project pursuant to the development and implementation of guidelines under subsection (b) to award grants to improve medical surgecapacity for all hazards, build and integrate regional medical response capabilities, improve specialty care expertise for all-hazards response, and coordinate medical preparedness and response across State, local, Tribal, territorial, and regional jurisdictions.
 
 #### (2) Sunset
 
@@ -56,7 +56,9 @@ The Assistant Secretary for Preparedness and Response, in consultation with the 
 
 (July 1, 1944, ch. 373, title III, §319C–3, as added Pub. L. 116–22, title II, §203(a), June 24, 2019, 133 Stat. 911.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Pandemic and All-Hazards Preparedness and Advancing Innovation Act of 2019, referred to in subsec.\(b)(3), is Pub. L. 116–22, June 24, 2019, 133 Stat. 905. For complete classfication of this Act to the Code, see Short Title of 2019 Amendment note set out under section 201 of this title and Tables.
+The Pandemic and All-Hazards Preparedness and Advancing Innovation Act of 2019, referred to in subsec. (b)(3), is Pub. L. 116–22, June 24, 2019, 133 Stat. 905. For complete classfication of this Act to the Code, see Short Title of 2019 Amendment note set out under section 201 of this title and Tables.
 

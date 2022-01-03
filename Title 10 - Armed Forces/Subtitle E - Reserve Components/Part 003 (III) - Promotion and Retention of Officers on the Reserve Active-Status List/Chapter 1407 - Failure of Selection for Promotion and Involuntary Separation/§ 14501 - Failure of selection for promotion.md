@@ -20,11 +20,15 @@ Officers Twice Failed of Selection.—An officer shall be considered for all pur
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2946; amended Pub. L. 104–106, div. A, title XV, §1501(b)(28), Feb. 10, 1996, 110 Stat. 498; Pub. L. 109–163, div. A, title V, §515(b)(1)(TT), Jan. 6, 2006, 119 Stat. 3234.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–163 substituted "Navy Reserve" for "Naval Reserve".
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–106 inserted heading.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

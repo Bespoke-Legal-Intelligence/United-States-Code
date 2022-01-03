@@ -30,7 +30,7 @@ The requirements of this section shall apply to—
 
 #### (1) Rights and protections
 
-&emsp;The rights and protections against discrimination in the provision of public services and accommodations established by sections 201 through 230, 302, 303, and 309 of the Americans with Disabilities Act of 1990 (42 U.S.C. 12131–12150, 12182, 12183, and 12189) shall apply to the entities listed in subsection (a).
+&emsp;The rights and protections against discrimination in the provision of public services andaccommodations established by sections 201 through 230, 302, 303, and 309 of the Americans with Disabilities Act of 1990 (42 U.S.C. 12131–12150, 12182, 12183, and 12189) shall apply to the entities listed in subsection (a).
 
 #### (2) Definitions
 
@@ -92,7 +92,7 @@ The remedy for a violation of subsection (b) shall be such remedy as would be ap
 
 #### (3) Initial period for study and corrective action
 
-&emsp;The period from January 23, 1995, until December 31, 1996, shall be available to the Office of the Architect of the Capitol and other entities subject to this section to identify any violations of subsection (b), to determine the costs of compliance, and to take any necessary corrective action to abate any violations. The Office shall assist the Office of the Architect of the Capitol and other entities listed in subsection (a) by arranging for inspections and other technical assistance at their request. Prior to July 1, 1996, the General Counsel shall conduct a thorough inspection under paragraph (1) and shall submit the report under paragraph (2) for the One Hundred Fourth Congress.
+&emsp;The period from January 23, 1995, until December 31, 1996, shall be available to the Office of the Architect of the Capitol and other entities subject to this section to identify any violations of subsection (b), to determine thecosts of compliance, and to take any necessary corrective action to abate any violations. The Office shall assist the Office of the Architect of the Capitol and other entities listed in subsection (a) by arranging for inspections and other technical assistance at their request. Prior to July 1, 1996, the General Counsel shall conduct a thorough inspection under paragraph (1) and shall submit the report under paragraph (2) for the One Hundred Fourth Congress.
 
 #### (4) Detailed personnel
 
@@ -174,7 +174,7 @@ Subsec. (a)(7). Pub. L. 110–279 substituted "the Botanic Garden" for "the Sena
 
 Pub. L. 115–397, title III, §303(c), Dec. 21, 2018, 132 Stat. 5322, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect as if such amendments were included in the enactment of section 153 of the Legislative Branch Appropriations Act, 2018 (Public Law 115–141), and shall apply as specified in section 153(c) of such Act \[set out as a note under section 1301 of this title\]."
 
-Amendment by section 308(b)(8) of Pub. L. 115–397 effective Dec. 21, 2018, and any reference to the Office of Compliance in any law, rule, regulation, or other official paper in effect as of such date to be considered to refer and apply to the Office of Congressional Workplace Rights, see section 308(d) of Pub. L. 115–397, set out as a note under section 1381 of this title.
+Amendment by section 308(b)(8) of Pub. L. 115–397 effective Dec. 21, 2018, and any reference to the Office ofCompliance in any law, rule, regulation, or other official paper in effect as of such date to be considered to refer and apply to the Office of Congressional Workplace Rights, see section 308(d) of Pub. L. 115–397, set out as a note under section 1381 of this title.
 
 Except as otherwise provided, amendment by Pub. L. 115–397 effective upon expiration of the 180-day period beginning on Dec. 21, 2018, with provisions for effect on pending proceedings, see section 401 of Pub. L. 115–397, set out as a note under section 1301 of this title.
 

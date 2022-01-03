@@ -15,6 +15,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2007</b>—Pub. L. 110–28, title VIII, §8246(a)(2)(I)(ii), May 25, 2007, 121 Stat. 202, substituted "tax return preparers" for "income tax return preparers" in item 7407.

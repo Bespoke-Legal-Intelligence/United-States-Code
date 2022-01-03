@@ -66,7 +66,7 @@ All loans made under this section shall be disbursed in accordance with the requ
 
 &emsp;&emsp;&emsp;(II) if the parent borrower is also a student, the day after the date such parent borrower ceases to carry at least one-half such a workload; and
 
-&emsp;&emsp;(ii) in the case of a graduate or professional student borrower, during the 6-month period beginning on the day after the date such student ceases to carry at least one-half the normal full-time academic workload (as determined by the institution).
+&emsp;&emsp;(ii) in the case of a graduate or professional student borrower, during the 6-monthperiod beginning on the day after the date such student ceases to carry at least one-half the normal full-time academic workload (as determined by the institution).
 
 #### (2) Capitalization of interest
 
@@ -134,7 +134,7 @@ A parent who wishes to borrow funds under this section shall be subject to verif
 
 &emsp;(2) social security number in the same manner as social security numbers are verified for students under section 1091(p) of this title.
 
-(Pub. L. 89–329, title IV, §428B, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1386; amended Pub. L. 100–50, §10(o), (p)(2), (q), (r)(1), June 3, 1987, 101 Stat. 343, 344; Pub. L. 102–325, title IV, §418, July 23, 1992, 106 Stat. 531; Pub. L. 103–66, title IV, §4109(a), Aug. 10, 1993, 107 Stat. 369; Pub. L. 105–178, title VIII, §8301(a)(2), June 9, 1998, 112 Stat. 497; Pub. L. 105–244, title IV, §§416(a)(2), 419, Oct. 7, 1998, 112 Stat. 1680, 1694; Pub. L. 109–171, title VIII, §§8005(c), 8014(g), Feb. 8, 2006, 120 Stat. 158, 171; Pub. L. 110–227, §§3(a), 4, May 7, 2008, 122 Stat. 742, 743; Pub. L. 110–315, title IV, §424(a), Aug. 14, 2008, 122 Stat. 3232; Pub. L. 111–39, title IV, §402(f)(2), July 1, 2009, 123 Stat. 1943; Pub. L. 111–152, title II, §2205, Mar. 30, 2010, 124 Stat. 1075; Pub. L. 116–260, div. FF, title VII, §§702(n)(1)(B), 704(1), Dec. 27, 2020, 134 Stat. 3186, 3199.)
+(Pub. L. 89–329, title IV, §428B, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat.1386; amended Pub. L. 100–50, §10(o), (p)(2), (q), (r)(1), June 3, 1987, 101 Stat. 343, 344; Pub. L. 102–325, title IV, §418, July 23, 1992, 106 Stat. 531; Pub. L. 103–66, title IV, §4109(a), Aug. 10, 1993, 107 Stat. 369; Pub. L. 105–178, title VIII, §8301(a)(2), June 9, 1998, 112 Stat. 497; Pub. L. 105–244, title IV, §§416(a)(2), 419, Oct. 7, 1998, 112 Stat. 1680, 1694; Pub. L. 109–171, title VIII, §§8005(c), 8014(g), Feb. 8, 2006, 120 Stat. 158, 171; Pub. L. 110–227, §§3(a), 4, May 7, 2008, 122 Stat. 742, 743; Pub. L. 110–315, title IV, §424(a), Aug. 14, 2008, 122 Stat. 3232; Pub. L. 111–39, title IV, §402(f)(2), July 1, 2009, 123 Stat. 1943; Pub. L. 111–152, title II, §2205, Mar. 30, 2010, 124 Stat. 1075; Pub. L. 116–260, div. FF, title VII, §§702(n)(1)(B), 704(1), Dec. 27, 2020, 134 Stat. 3186, 3199.)
 
 #### Amendment of Section
 
@@ -144,9 +144,11 @@ A parent who wishes to borrow funds under this section shall be subject to verif
 
 <i>See 2020 Amendment notes below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
-A prior section 1078–2, Pub. L. 89–329, title IV, §428B, as added Pub. L. 96–374, title IV, §419, Oct. 3, 1980, 94Stat. 1424; amended Pub. L. 97–35, title V, §§532(b)(3), 534(a)(2), (c)(1), (2), Aug. 13, 1981, 95 Stat. 452, 454; Pub. L. 98–79, §12, Aug. 15, 1983, 97 Stat. 484, related to auxiliary loans to assist students, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1078–2, Pub. L. 89–329, title IV, §428B, as added Pub. L. 96–374, title IV, §419, Oct. 3, 1980, 94 Stat. 1424; amended Pub. L. 97–35, title V, §§532(b)(3), 534(a)(2), (c)(1), (2), Aug. 13, 1981, 95 Stat. 452, 454; Pub. L. 98–79, §12, Aug. 15, 1983, 97 Stat. 484, related to auxiliary loans to assist students, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 
@@ -229,6 +231,8 @@ Subsec. (d)(1). Pub. L. 100–50, §10(r)(1)(A), inserted "at any time" after "e
 Subsec. (d)(2). Pub. L. 100–50, §10(r)(1)(B), inserted "under this section before July 1, 1987, or" before "under this section" and substituted "to reissue a loan or loans" for "to reissue a loan" and "reissuing such loan or loans" for "reissuing such loan".
 
 Subsec. (d)(5). Pub. L. 100–50, §10(r)(1)(C), substituted "October 1, 1987" for "January 1, 1987" and, in subpar. (B), inserted "and of the practical consequences of such options in terms of interest rates and monthly and total payments for a set of loan examples" before semicolon at end.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 

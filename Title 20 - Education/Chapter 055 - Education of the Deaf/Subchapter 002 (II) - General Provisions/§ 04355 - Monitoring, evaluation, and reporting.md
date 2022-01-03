@@ -14,6 +14,8 @@ There are authorized to be appropriated such sums as may be necessary for each o
 
 (Pub. L. 99–371, title II, §205, formerly title IV, §405, Aug. 4, 1986, 100 Stat. 790; renumbered title II, §205, and amended Pub. L. 102–421, title I, §§101(b)(5), (6), 135(a), Oct. 16, 1992, 106 Stat. 2151, 2158; Pub. L. 103–73, title II, §204(d), Aug. 11, 1993, 107 Stat. 735; Pub. L. 105–244, title IX, §918, Oct. 7, 1998, 112 Stat. 1831; Pub. L. 110–315, title IX, §907, Aug. 14, 2008, 122 Stat. 3453.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–315, §907(1), struck out "preparatory," before "undergraduate".
@@ -27,6 +29,8 @@ Subsec. (c). Pub. L. 110–315, §907(3), substituted "fiscal years 2009 through
 <b>1993</b>—Subsec. (a). Pub. L. 103–73 substituted "individuals who are deaf or hard of hearing" for "individuals who are deaf" and struck out "the provisions of" after "pursuant to".
 
 <b>1992</b>—Pub. L. 102–421, §135(a), amended section generally. Prior to amendment, section read as follows: "The Secretary shall conduct monitoring and evaluation activities of the education programs and activities and the administrative operations of Gallaudet University and of the National Technical Institute for the Deaf. In carrying out the responsibilities described in this section, the Secretary is authorized to employ such consultants as may be necessary pursuant to the provisions of section 3109 of title 5."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

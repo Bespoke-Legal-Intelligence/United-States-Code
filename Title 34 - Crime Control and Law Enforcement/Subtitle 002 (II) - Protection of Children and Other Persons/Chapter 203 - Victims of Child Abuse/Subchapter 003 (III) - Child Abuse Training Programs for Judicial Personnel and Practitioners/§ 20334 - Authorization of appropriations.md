@@ -18,7 +18,7 @@ No funds are authorized to be appropriated for a fiscal year to carry out this s
 
 #### References in Text
 
-The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subsec. (c), is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109. Title II of the Act was classified principally to subchapter II (§5611 et seq.) of chapter 72 of Title 42, The Public Health and Welfare, prior to editorial reclassification as subchapter II (§11111 et seq.) of chapter 111 of this title. For complete classification of this Act to the Code, see Tables.
+The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subsec. (c), is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109. Title II of the Act was classified principally to subchapter II (§5611 et seq.) of chapter 72 of Title 42, The Public Health and Welfare, priorto editorial reclassification as subchapter II (§11111 et seq.) of chapter 111 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 

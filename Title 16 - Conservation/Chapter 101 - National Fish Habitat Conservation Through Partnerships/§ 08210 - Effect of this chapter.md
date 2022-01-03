@@ -64,9 +64,11 @@ Nothing in this chapter affects the authority, jurisdiction, or responsibility o
 
 #### (3) Clean Water Act
 
-&emsp;Nothing in this chapter affects any provision of the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.), including any definition in that Act.
+&emsp;Nothing in this chapter affects any provision of the Federal Water Pollution Control Act (33U.S.C. 1251 et seq.), including any definition in that Act.
 
 (Pub. L. 116–188, title II, §210, Oct. 30, 2020, 134 Stat. 936.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -34,6 +34,8 @@ Definition.—For purposes of this section, the term "directly affected covered 
 
 (Added Pub. L. 103–440, title II, §203(a), Nov. 2, 1994, 108 Stat. 4619; amended Pub. L. 110–432, div. A, title I, §110, Oct. 16, 2008, 122 Stat. 4867.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of the Rail Safety Improvement Act of 2008, referred to in subsec. (a), is the date of enactment of div. A of Pub. L. 110–432, which was approved Oct. 16, 2008.

@@ -12,7 +12,7 @@
 
 #### (3) Existing DOE project management expertise
 
-&emsp;The Secretary may utilize capabilities for review of construction projects for advancedscientific facilities within the Office of Science to track the progress of the Project.
+&emsp;The Secretary may utilize capabilities for review of construction projects for advanced scientific facilities within the Office of Science to track the progress of the Project.
 
 #### (b) Laboratory management
 

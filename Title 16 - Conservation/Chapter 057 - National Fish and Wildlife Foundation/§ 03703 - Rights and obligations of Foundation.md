@@ -56,7 +56,7 @@ The Foundation shall have an official seal selected by the Board which shall be 
 
 #### (B) Encumbered real property
 
-&emsp;&emsp;A gift, devise, or bequest may be accepted by the Foundation even though the gift, devise, or bequest is encumbered, restricted, orsubject to beneficial interests of private persons if any current or future interest in the gift, devise, or bequest is for the benefit of the Foundation.
+&emsp;&emsp;A gift, devise, or bequest may be accepted by the Foundation even though the gift, devise, or bequest is encumbered, restricted, or subject to beneficial interests of private persons if any current or future interest in the gift, devise, or bequest is for the benefit of the Foundation.
 
 #### (3) Savings clause
 
@@ -64,7 +64,7 @@ The Foundation shall have an official seal selected by the Board which shall be 
 
 #### (d) Certain lands, waters, and interests not subject to condemnation
 
-No lands or waters, or interests therein, that are owned by the Foundation and are determined by the Director of the United States Fish and Wildlife Service or the Migratory Bird Conservation Commission, as the case may be, to be valuable for purposes of fish and wildlife conservation or management shall be subject to condemnation by any State or political subdivision, or any agent or instrumentality thereof.
+No lands or waters, or interests therein, that are owned by the Foundation and are determined by the Director of the United States Fishand Wildlife Service or the Migratory Bird Conservation Commission, as the case may be, to be valuable for purposes of fish and wildlife conservation or management shall be subject to condemnation by any State or political subdivision, or any agent or instrumentality thereof.
 
 #### (e) Acquisition, management, and disposal of real property
 
@@ -108,19 +108,21 @@ The Foundation shall not make a grant of Federal funds in an amount greater than
 
 (Pub. L. 98–244, §4, Mar. 26, 1984, 98 Stat. 108; Pub. L. 100–240, §§1(b), 2(a), (b)(1), Jan. 11, 1988, 101 Stat. 1785, 1786; Pub. L. 105–277, div. A, §101(b) \[title IX, §903\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–120; Pub. L. 106–408, title II, §§203(c)(1), 204(a)–(c), (e)–(g), 206, Nov. 1, 2000, 114 Stat. 1779, 1780; Pub. L. 109–363, title II, §203, Oct. 17, 2006, 120 Stat. 2075; Pub. L. 116–188, title I, §107(b), Oct. 30, 2020, 134 Stat. 918.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsec. (c)(2)(A), is Pub. L. 116–188, Oct. 30, 2020, 134 Stat. 905, known as the America's Conservation Enhancement Act. For complete classification of this Act to the Code, see Short Title note set out under section 8201 of this title and Tables.
 
 #### Amendments
 
-<b>2020</b>—Subsec. (c). Pub. L. 116–188, §107(b)(1)(A), (B), (G), designated introductory provisions as par. (1), inserted heading, substituted "To carry out the purposes described in" for "To carry out its purposes under", redesignated former pars. (1) to (11) as subpars. (A) to (K), respectively, of par. (1), realigned margins, and struck out concluding provisions which read as follows: "For purposes of this chapter, an interest in real property shall be treated as including, among other things, easements or other rights for preservation, conservation,protection, or enhancement by and for the public of natural, scenic, historic, scientific, educational, inspirational, or recreational resources. A gift, devise, or bequest may be accepted by the Foundation even though it is encumbered, restricted, or subject to beneficial interests of private persons if any current or future interest therein is for the benefit of the Foundation."
+<b>2020</b>—Subsec. (c). Pub. L. 116–188, §107(b)(1)(A), (B), (G), designated introductory provisions as par. (1), inserted heading, substituted "To carry out the purposes described in" for "To carry out its purposes under", redesignated former pars. (1) to (11) as subpars. (A) to (K), respectively, of par. (1), realigned margins, and struck out concluding provisions which read as follows: "For purposes of this chapter, an interest in real property shall be treated as including, among other things, easements or other rights for preservation, conservation, protection, or enhancement by and for the public of natural, scenic, historic, scientific, educational, inspirational, or recreational resources. A gift, devise, or bequest may be accepted by the Foundation even though it is encumbered, restricted, or subject to beneficial interests of private persons if any current or future interest therein is for the benefit of the Foundation."
 
 Subsec. (c)(1)(D). Pub. L. 116–188, §107(b)(1)(C), substituted "at 1 or more financial institutions that are members of the Federal Deposit Insurance Corporation or the Securities Investment Protection Corporation" for "that are insured by an agency or instrumentality of the United States".
 
 Subsec. (c)(1)(E). Pub. L. 116–188, §107(b)(1)(D), substituted "subparagraph (C) or (D)" for "paragraph (3) or (4)".
 
-Subsec. (c)(1)(K), (L). Pub. L. 116–188, §107(b)(1)(E), (F), added subpars. (K) and (L) and struck out former subpar. (K) which read as follows: "to do any and all acts necessary and proper to carry out the purposes of the Foundation."
+Subsec. (c)(1)(K), (L). Pub. L. 116–188, §107(b)(1)(E), (F), added subpars. (K) and (L) and struck out formersubpar. (K) which read as follows: "to do any and all acts necessary and proper to carry out the purposes of the Foundation."
 
 Subsec. (c)(2), (3). Pub. L. 116–188, §107(b)(1)(G), added pars. (2) and (3).
 
@@ -159,6 +161,8 @@ Subsec. (i). Pub. L. 106–408, §206, added subsec. (i).
 Subsec. (c)(2). Pub. L. 100–240, §2(b), inserted ", subject to subsection (e)" after "therein".
 
 Subsec. (e). Pub. L. 100–240, §2(a), added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Congressional Findings—National Whale Conservation
 

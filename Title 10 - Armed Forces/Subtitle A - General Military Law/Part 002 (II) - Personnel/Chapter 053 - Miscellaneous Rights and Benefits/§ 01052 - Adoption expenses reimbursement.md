@@ -62,13 +62,15 @@ Definitions.—In this section:
 
 (Added Pub. L. 102–190, div. A, title VI, §651(a)(1), Dec. 5, 1991, 105 Stat. 1385; amended Pub. L. 102–484, div. A, title X, §1052(12), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 104–201, div. A, title VI, §652(a), Sept. 23, 1996, 110 Stat. 2582; Pub. L. 106–398, §1 \[\[div. A\], title V, §579(c)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–141; Pub. L. 108–375, div. A, title VI, §661, Oct. 28, 2004, 118 Stat. 1974; Pub. L. 109–163, div. A, title V, §592(a), Jan. 6, 2006, 119 Stat. 3280.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1052 was renumbered section 1063 of this title and subsequently repealed.
 
 #### Amendments
 
-<b>2006</b>—Subsec. (g)(1). Pub. L. 109–163 inserted "or other source authorized to place children for adoption under State or local law" after "qualified adoption agency" in introductory provisions.
+<b>2006</b>—Subsec. (g)(1). Pub. L. 109–163 inserted "or other source authorized to place children for adoption underState or local law" after "qualified adoption agency" in introductory provisions.
 
 <b>2004</b>—Subsec. (g)(3)(D). Pub. L. 108–375 added subpar. (D).
 
@@ -80,9 +82,11 @@ Subsec. (g)(3). Pub. L. 104–201, §652(a)(2), added par. (3).
 
 <b>1992</b>—Subsec. (b). Pub. L. 102–484 inserted close parenthesis before period at end.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Pub. L. 102–190, div. A, title VI, §651(c), Dec. 5, 1991, 105 Stat. 1387, provided that: "The amendments madeby subsections (a) and (b) \[enacting this section and section 514 of Title 14, Coast Guard\] shall take effect on the date of the enactment of this Act \[Dec. 5, 1991\] and shall apply to adoptions completed on or after that date."
+Pub. L. 102–190, div. A, title VI, §651(c), Dec. 5, 1991, 105 Stat. 1387, provided that: "The amendments made by subsections (a) and (b) \[enacting this section and section 514 of Title 14, Coast Guard\] shall take effect on the date of the enactment of this Act \[Dec. 5, 1991\] and shall apply to adoptions completed on or after that date."
 
 #### Reimbursement for Adoptions Completed During Period Between Test and Permanent Program
 

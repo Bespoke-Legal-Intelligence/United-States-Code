@@ -6,11 +6,11 @@ If, after an examination under section 1446 of this title, an application for na
 
 #### (b) Request for hearing before district court
 
-If there is a failure to make a determination under section 1446 of this title before the end of the 120-day period after the date on which the examination is conducted under such section, the applicant may apply to the United States district court for the district in which the applicant resides for a hearing on the matter. Such court has jurisdiction over the matter and may either determine the matter or remand the matter, with appropriate instructions, to the Service to determine the matter.
+If there is a failure to make a determination under section 1446 of this title before the end ofthe 120-day period after the date on which the examination is conducted under such section, the applicant may apply to the United States district court for the district in which the applicant resides for a hearing on the matter. Such court has jurisdiction over the matter and may either determine the matter or remand the matter, with appropriate instructions, to the Service to determine the matter.
 
 #### (c) Appearance of Attorney General
 
-The Attorney General shall have the right to appear before any immigration officer in any naturalization proceedings for the purpose of cross-examining the applicant and the witnesses produced in support of the application concerning any matter touching or in any way affectingthe applicant's right to admission to citizenship, and shall have the right to call witnesses, including the applicant, produce evidence, and be heard in opposition to, or in favor of the granting of any application in naturalization proceedings.
+The Attorney General shall have the right to appear before any immigration officer in any naturalization proceedings for the purpose of cross-examining the applicant and the witnesses produced in support of the application concerning any matter touching or in any way affecting the applicant's right to admission to citizenship, and shall have the right to call witnesses, including the applicant, produce evidence, and be heard in opposition to, or in favor of the granting of any application in naturalization proceedings.
 
 #### (d) Subpena of witnesses
 

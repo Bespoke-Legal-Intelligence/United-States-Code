@@ -18,7 +18,7 @@ The provisions of subsection (a) shall not apply to the imposition of a net inco
 
 #### (c) Sales or solicitation of orders for sales by independent contractors
 
-For purposes of subsection (a), a person shall not be considered to have engaged in businessactivities within a State during any taxable year merely by reason of sales in such State, or the solicitation of orders for sales in such State, of tangible personal property on behalf of such person by one or more independent contractors, or by reason of the maintenance, of an office in such State by one or more independent contractors whose activities on behalf of such person in such State consist solely of making sales, or soliciting orders for sales, or tangible personal property.
+For purposes of subsection (a), a person shall not be considered to have engaged in business activities within a State during any taxable year merely by reason of sales in such State, or the solicitation of orders for sales in such State, of tangible personal property on behalf of such person by one or more independent contractors, or by reason of the maintenance, of an office in such State by one or more independent contractors whose activities on behalf of such person in such State consist solely of making sales, or soliciting orders for sales, or tangible personal property.
 
 #### (d) Definitions
 
@@ -29,6 +29,8 @@ For purposes of this section—
 &emsp;(2) the term "representative" does not include an independent contractor.
 
 (Pub. L. 86–272, title I, §101, Sept. 14, 1959, 73 Stat. 555.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Study and Report by Congressional Committees of State Taxation From Interstate Commerce
 

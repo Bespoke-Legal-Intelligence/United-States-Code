@@ -20,6 +20,8 @@ Aug. 2, 1956, ch. 876, 70 Stat. 933.
 
 Clause (2)(A) is omitted as unnecessary since the revised section applies to the armed forces, and the revised section is made applicable to the other uniformed services by sections 3 and 4 of the act enacting this revised section. Clause (2)(B) is omitted as covered by section 101(8) of this title and sections 3 and 4 of the act enacting this revised section.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1966</b>—Pub. L. 89–718 substituted "8301" for "47a".

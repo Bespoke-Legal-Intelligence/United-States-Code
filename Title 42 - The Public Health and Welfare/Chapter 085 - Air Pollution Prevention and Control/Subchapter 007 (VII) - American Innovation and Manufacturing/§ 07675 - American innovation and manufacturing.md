@@ -402,7 +402,7 @@ In this section:
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;For each essential use application receiving an allocation of allowances under clause (i) or (iv), the Administrator shall review the availability of substitutes, including any quantities of the regulated substance available from reclaiming or prior production, not less frequently than once every 5 years.
+&emsp;&emsp;&emsp;&emsp;For each essential use application receiving an allocation of allowancesunder clause (i) or (iv), the Administrator shall review the availability of substitutes, including any quantities of the regulated substance available from reclaiming or prior production, not less frequently than once every 5 years.
 
 #### (II) Extension
 
@@ -488,7 +488,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(III) overall economic costs and environmental impacts, as compared to historical trends; and
 
-&emsp;&emsp;&emsp;&emsp;(IV) the remaining phase-down period for regulated substances under the final rule issued under subsection (e)(3), if applicable.
+&emsp;&emsp;&emsp;&emsp;(IV) the remaining phase-down period for regulated substances under the finalrule issued under subsection (e)(3), if applicable.
 
 #### (iii) Regulations
 
@@ -568,7 +568,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;In carrying out this section, the Administrator shall consider the use of authority available to the Administrator under this section to increase opportunities for the reclaiming of regulated substances used as refrigerants.
+&emsp;&emsp;In carrying out this section, the Administrator shall consider the use of authorityavailable to the Administrator under this section to increase opportunities for the reclaiming of regulated substances used as refrigerants.
 
 #### (B) Recovery
 
@@ -759,6 +759,8 @@ In this section:
 &emsp;&emsp;&emsp;The period for which the limitation under clause (i) applies shall not exceed 5 years from the date on which the period described in subparagraph (A) ends.
 
 (Pub. L. 116–260, div. S, §103, Dec. 27, 2020, 134 Stat. 2255.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -4,9 +4,13 @@ The Assistant Secretary may make grants to public and nonprofit private organiza
 
 (Pub. L. 89–73, title VI, §623, as added Pub. L. 100–175, title I, §171, Nov. 29, 1987, 101 Stat. 962; amended Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1993</b>—Pub. L. 103–171 substituted "Assistant Secretary" for "Commissioner".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

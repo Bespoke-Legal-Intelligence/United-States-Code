@@ -30,7 +30,7 @@
 
 &emsp;Nothing contained in sections 2021b to 2021j of this title or any compact may be construed to confer any new authority on any compact commission or State—
 
-&emsp;&emsp;(A) to regulate the packaging, generation, treatment, storage, disposal, or transportation of low-level radioactive waste in a manner incompatible with the regulations ofthe Nuclear Regulatory Commission or inconsistent with the regulations of the Department of Transportation;
+&emsp;&emsp;(A) to regulate the packaging, generation, treatment, storage, disposal, or transportation of low-level radioactive waste in a manner incompatible with the regulations of the Nuclear Regulatory Commission or inconsistent with the regulations of the Department of Transportation;
 
 &emsp;&emsp;(B) to regulate health, safety, or environmental hazards from source material, byproduct material, or special nuclear material;
 
@@ -42,7 +42,7 @@
 
 #### (4) Federal authority
 
-&emsp;Except as expressly provided in sections 2021b to 2021j of this title, nothing contained in sections 2021b to 2021j of this title or any compact may be construed to limit the applicability of any Federal law or to diminish or otherwise impair the jurisdiction of any Federal agency, or to alter, amend, or otherwise affect any Federal law governing the judicial review of any action taken pursuant to any compact.
+&emsp;Except as expressly provided in sections 2021b to 2021j of this title, nothing containedin sections 2021b to 2021j of this title or any compact may be construed to limit the applicability of any Federal law or to diminish or otherwise impair the jurisdiction of any Federal agency, or to alter, amend, or otherwise affect any Federal law governing the judicial review of any action taken pursuant to any compact.
 
 #### (5) State authority preserved
 
@@ -62,6 +62,8 @@ Each compact shall provide that every 5 years after the compact has taken effect
 
 (Pub. L. 96–573, §4, as added Pub. L. 99–240, title I, §102, Jan. 15, 1986, 99 Stat. 1845.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Low-Level Radioactive Waste Policy Act, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
@@ -69,6 +71,8 @@ Section was enacted as part of the Low-Level Radioactive Waste Policy Act, and n
 #### Prior Provisions
 
 A prior section 2021d, Pub. L. 96–573, §4, Dec. 22, 1980, 94 Stat. 3348, related to policy of Federal Government concerning low-level radioactive waste disposal, implementation of that policy, and a report to Congress and the States to assist in carrying out the policy, prior to repeal by Pub. L. 99–240, §102.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Texas Low-Level Radioactive Waste Disposal Compact Consent Act
 

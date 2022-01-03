@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A local educational agency may receive funds under a covered program for any fiscal year onlyif the State educational agency finds that either the combined fiscal effort per student or the aggregate expenditures of the agency and the State with respect to the provision of free public education by the agency for the preceding fiscal year was not less than 90 percent of the combined fiscal effort or aggregate expenditures for the second preceding fiscal year, subject to the requirements of subsection (b).
+A local educational agency may receive funds under a covered program for any fiscal year only if the State educational agency finds that either the combined fiscal effort per student or the aggregate expenditures of the agency and the State with respect to the provision of free public education by the agency for the preceding fiscal year was not less than 90 percent of the combined fiscal effort or aggregate expenditures for the second preceding fiscal year, subject to the requirements of subsection (b).
 
 #### (b) Reduction in case of failure to meet
 
@@ -24,6 +24,8 @@ The Secretary may waive the requirements of this section if the Secretary determ
 
 (Pub. L. 89–10, title VIII, §8521, formerly title IX, §9521, as added Pub. L. 107–110, title IX, §901, Jan. 8, 2002, 115 Stat. 1980; renumbered title VIII, §8521, and amended Pub. L. 114–95, title VIII, §§8001(a)(6), 8019, Dec. 10, 2015, 129 Stat. 2088, 2089, 2112.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 7901, Pub. L. 89–10, title IX, §9201, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3794, set forth short title of the Native Hawaiian Education Act, prior to the general amendment of former subchapter IX of this chapter by Pub. L. 107–110.
@@ -35,6 +37,8 @@ A prior section 7901, Pub. L. 89–10, title IX, §9201, as added Pub. L. 103–
 Subsec. (b)(1). Pub. L. 114–95, §8019(2), inserted before period at end ", if such local educational agency has also failed to meet such requirement (as determined using the measure most favorable to the local agency) for 1 or more of the 5 immediately preceding fiscal years".
 
 Subsec. (c)(1). Pub. L. 114–95, §8019(3), inserted "or a change in the organizational structure of the local educational agency" after "such as a natural disaster".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

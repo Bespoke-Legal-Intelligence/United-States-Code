@@ -22,6 +22,8 @@ Oct. 12, 1949, ch. 681, §§402(d) (last proviso, as applicable to retired grade
 
 The applicability of the rule stated in 37:279 to all members whose retired pay is computed under 37:272(d) (last proviso) is based on an opinion of the Judge Advocate General of the Army (JAGA 1953/3305, 24 Apr. 1953).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1980</b>—Pub. L. 96–342 inserted reference to section 1402a(d) of this title.

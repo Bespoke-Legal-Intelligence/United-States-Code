@@ -12,7 +12,7 @@ Not later than 270 days after July 21, 2010, the Commission shall issue rules fo
 
 The prohibitions of subsection (a) shall not apply to—
 
-&emsp;(1) risk-mitigating hedging activities in connection with positions or holdings arising out of the underwriting, placement, initial purchase, or sponsorship of an asset-backed security, provided that such activities are designed to reduce the specific risks to the underwriter, placement agent, initial purchaser, or sponsor associated with positions or holdings arising out of such underwriting, placement, initial purchase, or sponsorship; or
+&emsp;(1) risk-mitigating hedging activities in connection with positions or holdings arising outof the underwriting, placement, initial purchase, or sponsorship of an asset-backed security, provided that such activities are designed to reduce the specific risks to the underwriter, placement agent, initial purchaser, or sponsor associated with positions or holdings arising out of such underwriting, placement, initial purchase, or sponsorship; or
 
 &emsp;(2) purchases or sales of asset-backed securities made pursuant to and consistent with—
 
@@ -25,6 +25,8 @@ The prohibitions of subsection (a) shall not apply to—
 This subsection <sup>1</sup> shall not otherwise limit the application of section 78o–11 of this title.
 
 (May 27, 1933, ch. 38, title I, §27B, as added Pub. L. 111–203, title VI, §621(a), July 21, 2010, 124 Stat. 1631.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

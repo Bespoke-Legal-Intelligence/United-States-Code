@@ -4,6 +4,8 @@ The Secretary, when authorized in an appropriation Act, in any fiscal year, may 
 
 (Pub. L. 95–91, title VI, §659, Aug. 4, 1977, 91 Stat. 604.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Costs of Defined Benefit Pension Plans for Contractor Employees
 
 Pub. L. 111–85, title III, §308, Oct. 28, 2009, 123 Stat. 2872, provided that:
@@ -12,7 +14,7 @@ Pub. L. 111–85, title III, §308, Oct. 28, 2009, 123 Stat. 2872, provided that
 
 "(b) Where the Secretary recovers the costs of defined benefit pension plans for contractor employees through charges for the indirect costs of research and activities at facilities of the Department of Energy, if the indirect costs attributable to defined benefit pension plan costs in a fiscal year are more than charges in fiscal year 2008, the Secretary shall carry out a transfer of funds under this section.
 
-"(c) In carrying out a transfer under this section, the Secretary shall use each appropriation made available to the Department in that fiscal year as a source for the transfer, and shall reduce each appropriation by an equal percentage, except that appropriations for which the Secretary determines there exists a need for additional funds for pension plan costs in that fiscal year, as well as appropriations made available for the Power Marketing Administrations, the title XVII \[probably means title XVII of Pub. L. 109–58 (42 U.S.C. 16511 et seq.)\] loan guarantee program, and the Federal EnergyRegulatory Commission, shall not be subject to this requirement.
+"(c) In carrying out a transfer under this section, the Secretary shall use each appropriation made available to the Department in that fiscal year as a source for the transfer, and shall reduce each appropriation by an equal percentage, except that appropriations for which the Secretary determines there exists a need for additional funds for pension plan costs in that fiscal year, as well as appropriations made available for the Power Marketing Administrations, the title XVII \[probably means title XVII of Pub. L. 109–58 (42 U.S.C. 16511 et seq.)\] loan guarantee program, and the Federal Energy Regulatory Commission, shall not be subject to this requirement.
 
 "(d) Each January, the Secretary shall report to the Committees on Appropriations of the House of Representatives and the Senate on the state of defined benefit pension plan liabilities in the Department for the preceding year.
 

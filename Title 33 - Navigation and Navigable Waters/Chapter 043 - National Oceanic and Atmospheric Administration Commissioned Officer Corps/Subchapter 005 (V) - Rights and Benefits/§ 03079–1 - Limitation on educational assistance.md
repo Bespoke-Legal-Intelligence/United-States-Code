@@ -6,7 +6,7 @@ Each fiscal year, beginning with the fiscal year in which this Act is enacted, t
 
 &emsp;(1) the total amount the Secretary would pay in that fiscal year to officer candidates under section 203(f)(1) of title 37 (as added by section 305(d)), if such section entitled officer candidates to pay at monthly rates equal to the basic pay of a commissioned officer in the pay grade O–1 with less than 2 years of service, exceeds
 
-&emsp;(2) the total amount the Secretary actually pays in that fiscal year to officer candidates under section 203(f)(1) of such title (as so added).
+&emsp;(2) the total amount the Secretary actually pays in that fiscal year to officer candidates under section 203(f)(1) of such title.
 
 #### (b) Officer candidate defined
 
@@ -20,7 +20,7 @@ In this section, the term "officer candidate" has the meaning given the term in 
 
 The fiscal year in which this Act is enacted, referred to in subsec. (a), means the fiscal year in which Pub. L. 116–259, which added this section, was enacted. Pub. L. 116–259 was approved Dec. 23, 2020.
 
-Sections 201(a), 202(a), 203(a), and 305(c) and (d), referred to in text, mean those respective sections of Pub. L. 116–259.
+Sections 201(a), 202(a), 203(a), and 305 (c) and (d), referred to in text, mean those respective sections of Pub. L. 116–259.
 
 #### Codification
 

@@ -1,8 +1,0 @@
-### SUBCHAPTER I—CONTRACTORS PERFORMING PRIVATE SECURITY FUNCTIONS IN AREAS OF COMBAT OPERATIONS OR OTHER SIGNIFICANT MILITARY OPERATIONS
-
-| Sec. |  |
-| :--- | ---: |
-| 4541\. | \[Reserved\]. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-

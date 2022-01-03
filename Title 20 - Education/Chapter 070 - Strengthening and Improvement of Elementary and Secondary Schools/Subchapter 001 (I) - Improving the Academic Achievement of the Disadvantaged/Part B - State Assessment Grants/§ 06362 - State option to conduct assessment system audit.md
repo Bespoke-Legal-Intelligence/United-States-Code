@@ -90,7 +90,7 @@ A State desiring to receive a grant under this section shall submit an applicati
 
 &emsp;&emsp;&emsp;(viii) other information as appropriate; and
 
-&emsp;&emsp;(D) a plan, based on the information gathered as a result of the activities described in subparagraphs (A), (B), and (C), to improve and streamline the State assessment system, including activities such as—
+&emsp;&emsp;(D) a plan, based on the information gathered as a result of the activities described insubparagraphs (A), (B), and (C), to improve and streamline the State assessment system, including activities such as—
 
 &emsp;&emsp;&emsp;(i) eliminating any unnecessary assessments, which may include paying the cost associated with terminating procurement contracts;
 
@@ -142,6 +142,8 @@ In this section:
 
 (Pub. L. 89–10, title I, §1202, as added Pub. L. 114–95, title I, §1201, Dec. 10, 2015, 129 Stat. 1881.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 6362, Pub. L. 89–10, title I, §1202, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1535; amended Pub. L. 108–7, div. G, title III, §305, Feb. 20, 2003, 117 Stat. 333, authorized formula grants to State educational agencies, prior to the general amendment of this part by Pub. L. 114–95.
@@ -149,6 +151,8 @@ A prior section 6362, Pub. L. 89–10, title I, §1202, as added Pub. L. 107–1
 Another prior section 6362, Pub. L. 89–10, title I, §1202, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3578; amended Pub. L. 105–220, title II, §251(b)(2)(A), Aug. 7, 1998, 112 Stat. 1079; Pub. L. 105–277, div. A, §101(f) \[title VIII, §§201, 202\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–407, 2681–408; Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §§1604(c)–(e), 1606(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–329, 2763A–330, 2763A–334, authorized Even Start program, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 A prior section 1202 of Pub. L. 89–10 was classified to section 2782 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

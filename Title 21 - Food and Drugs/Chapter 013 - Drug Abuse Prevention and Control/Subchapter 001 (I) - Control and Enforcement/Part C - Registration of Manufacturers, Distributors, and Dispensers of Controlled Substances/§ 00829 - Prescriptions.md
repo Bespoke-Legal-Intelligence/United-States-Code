@@ -70,7 +70,7 @@ Whenever it appears to the Attorney General that a drug not considered to be a p
 
 #### (B) Emergency situations
 
-&emsp;&emsp;In emergency situations, as described in subsection (a), the remaining portions of a partially filled prescription for a controlled substance in schedule II—
+&emsp;&emsp;In emergency situations, as described in subsection (a), the remaining portions of apartially filled prescription for a controlled substance in schedule II—
 
 &emsp;&emsp;&emsp;(i) may be filled; and
 

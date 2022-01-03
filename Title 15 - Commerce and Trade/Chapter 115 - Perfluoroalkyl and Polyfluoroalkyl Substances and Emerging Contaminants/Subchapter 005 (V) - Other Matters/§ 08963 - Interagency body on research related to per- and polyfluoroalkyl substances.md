@@ -50,7 +50,7 @@ The interagency working group shall include a representative of each of—
 
 #### (c) Co-chairs
 
-The Interagency working group shall be co-chaired by the Director of the Office of Science and Technology Policy and, on a biannual rotating basis, a representative from a member agency, as selected by the Director of the Office of Science and Technology Policy.
+The Interagency working group shall be co-chaired by the Director of the Office of Scienceand Technology Policy and, on a biannual rotating basis, a representative from a member agency, as selected by the Director of the Office of Science and Technology Policy.
 
 #### (d) Responsibilities of the working group
 
@@ -112,9 +112,13 @@ In this section:
 
 (Pub. L. 116–283, div. A, title III, §332, Jan. 1, 2021, 134 Stat. 3529.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, and not as part of the PFAS Act of 2019 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Guaranteeing Equipment Safety for Firefighters
 

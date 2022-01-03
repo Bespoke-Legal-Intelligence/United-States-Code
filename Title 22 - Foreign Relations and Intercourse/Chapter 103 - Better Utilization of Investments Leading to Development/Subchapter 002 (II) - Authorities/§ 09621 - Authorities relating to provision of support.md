@@ -98,7 +98,7 @@ The Corporation may administer and manage special projects and programs in suppo
 
 #### (2) Private character of funds
 
-&emsp;Nothing in this section shall be construed to make an enterprise fund an agency or establishment of the United States Government, or to make the officers, employees, or members of the Board of Directors of an enterprise fund officers or employees of the United States for purposes of title 5.
+&emsp;Nothing in this section shall be construed to make an enterprise fund an agency or establishment of the United States Government, orto make the officers, employees, or members of the Board of Directors of an enterprise fund officers or employees of the United States for purposes of title 5.
 
 #### (3) Purposes for which support may be provided
 

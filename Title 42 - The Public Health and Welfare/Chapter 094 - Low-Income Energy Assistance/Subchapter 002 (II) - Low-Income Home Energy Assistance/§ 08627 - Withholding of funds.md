@@ -20,15 +20,19 @@ Pursuant to an investigation conducted under subsection (b) of this section, a S
 
 #### (d) Request for information not readily available
 
-In conducting any investigation under subsection (b), the Secretary may not request anyinformation not readily available to such State or require that any information be compiled, collected, or transmitted in any new form not already available.
+In conducting any investigation under subsection (b), the Secretary may not request any information not readily available to such State or require that any information be compiled, collected, or transmitted in any new form not already available.
 
 (Pub. L. 97–35, title XXVI, §2608, Aug. 13, 1981, 95 Stat. 901; Pub. L. 98–558, title VI, §608, Oct. 30, 1984, 98 Stat. 2893; Pub. L. 101–501, title VII, §708, Nov. 3, 1990, 104 Stat. 1261.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>1990</b>—Subsec. (a)(2). Pub. L. 101–501 substituted "in writing in no more than 60 days to matters raised in" for "in an expeditious and speedy manner to".
 
 <b>1984</b>—Subsec. (b)(2). Pub. L. 98–558 substituted "the Secretary" for "he" before "shall conduct".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

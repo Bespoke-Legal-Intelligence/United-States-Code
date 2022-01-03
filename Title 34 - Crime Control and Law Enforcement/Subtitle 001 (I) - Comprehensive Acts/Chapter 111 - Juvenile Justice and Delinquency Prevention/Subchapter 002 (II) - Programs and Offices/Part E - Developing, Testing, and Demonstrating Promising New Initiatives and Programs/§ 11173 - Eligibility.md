@@ -12,5 +12,5 @@ Section was formerly classified to section 5667 of Title 42, The Public Health a
 
 #### Prior Provisions
 
-A prior section 263 of Pub. L. 93–415 was set out as notes under section 5601 of Title 42, The Public Health and Welfare, prior to repeal and editorial reclassification of section 5601 of Title 42 as section 11101 of thistitle. See Effective Date of 1977 Amendment note and Effective Date note under section 11101 of this title.
+A prior section 263 of Pub. L. 93–415 was set out as notes under section 5601 of Title 42, The Public Health and Welfare, prior to repeal and editorial reclassification of section 5601 of Title 42 as section 11101 of this title. See Effective Date of 1977 Amendment note and Effective Date note under section 11101 of this title.
 

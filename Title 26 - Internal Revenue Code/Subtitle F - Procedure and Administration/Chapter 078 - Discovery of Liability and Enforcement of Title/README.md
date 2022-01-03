@@ -14,6 +14,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 Pub. L. 94–455, title XIX, §1906(b)(13), Oct. 4, 1976, 90 Stat. 1834, struck out subchapter C relating to supervision of operations of certain manufacturers.

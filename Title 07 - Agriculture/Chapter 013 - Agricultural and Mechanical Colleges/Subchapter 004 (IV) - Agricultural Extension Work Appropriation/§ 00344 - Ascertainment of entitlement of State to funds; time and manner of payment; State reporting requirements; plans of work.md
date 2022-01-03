@@ -6,7 +6,7 @@ On or about the first day of October in each year after June 26, 1953, the Secre
 
 #### (b) Time and manner of payment; related reports
 
-The amount to which a State is entitled shall be paid in equal quarterly payments in or about July, October, January, and April of each year to the treasurer or other officer of the State duly authorized by the laws of the State to receive the same, and such officer shall be required to report to the Secretary of Agricultureon or about the first day of April of each year, a detailed statement of the amount so received during the previous fiscal year and its disbursement, on forms prescribed by the Secretary of Agriculture.
+The amount to which a State is entitled shall be paid in equal quarterly payments in or about July, October, January, and April of each year to the treasurer or other officer of the State duly authorized by the laws of the State to receive the same, and such officer shall be required to report to the Secretary of Agriculture on or about the first day of April of each year, a detailed statement of the amount so received during the previous fiscal year and its disbursement, on forms prescribed by the Secretary of Agriculture.
 
 #### (c) Requirements related to plan of work
 
@@ -36,6 +36,8 @@ To the maximum extent practicable, the Secretary shall consider a plan of work s
 
 (May 8, 1914, ch. 79, §4, 38 Stat. 374; June 26, 1953, ch. 157, §1, 67 Stat. 85; Pub. L. 87–749, §1(f), Oct. 5, 1962, 76 Stat. 745; Pub. L. 94–273, §15, Apr. 21, 1976, 90 Stat. 379; Pub. L. 101–624, title XVI, §1617, Nov. 28, 1990, 104 Stat. 3732; Pub. L. 105–185, title II, §202(a), June 23, 1998, 112 Stat. 531; Pub. L. 115–334, title VII, §7612(a)(2), Dec. 20, 2018, 132 Stat. 4831.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (c). Pub. L. 115–334 added pars. (1) to (4) and struck out former pars. (1) to (5) which read as follows:
@@ -59,6 +61,8 @@ To the maximum extent practicable, the Secretary shall consider a plan of work s
 <b>1962</b>—Pub. L. 87–749 substituted "quarterly payments in or about July, October, January, and April" for "semiannual payments on the first day of January and July", and struck out ", Territory or possession" wherever appearing.
 
 <b>1953</b>—Act June 26, 1953, among other changes, inserted first two sentences, inserted references to "Territory, or possession" after references to "State," in sentence commencing "Such sums", and in such sentence, struck out reference to payment by the Secretary of the Treasury upon warrant of the Secretary of Agriculture, and substituted "January" for "September" with respect to submission of annual detailed statements.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

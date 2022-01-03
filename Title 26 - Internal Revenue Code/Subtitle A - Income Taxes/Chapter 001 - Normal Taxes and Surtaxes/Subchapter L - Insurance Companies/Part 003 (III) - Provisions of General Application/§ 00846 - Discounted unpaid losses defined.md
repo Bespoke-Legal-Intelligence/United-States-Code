@@ -4,7 +4,7 @@
 
 #### (1) Separately computed for each accident year
 
-&emsp;The amount of the discounted unpaid losses as of the end of any taxable year shall be the sum of the discounted unpaid losses (as of such time) separately computed under this section with respect to unpaid losses in each line of business attributable to each accident year.
+&emsp;The amount of the discounted unpaid losses as of the end of any taxable year shall be the sum of the discounted unpaid losses (as of such time) separately computed under this sectionwith respect to unpaid losses in each line of business attributable to each accident year.
 
 #### (2) Method of discounting
 
@@ -54,7 +54,7 @@ For purposes of this section—
 
 #### (2) Determination of annual rate
 
-&emsp;The annual rate determined by the Secretary under this paragraph for any calendaryear shall be a rate determined on the basis of the corporate bond yield curve (as defined in section 430(h)(2)(D)(i), determined by substituting "60-month period" for "24-month period" therein).
+&emsp;The annual rate determined by the Secretary under this paragraph for any calendar year shall be a rate determined on the basis of the corporate bond yield curve (as defined in section 430(h)(2)(D)(i), determined by substituting "60-month period" for "24-month period" therein).
 
 #### (d) Loss payment pattern
 
@@ -100,7 +100,7 @@ For purposes of this section—
 
 #### (II) Computation of extension
 
-&emsp;&emsp;&emsp;&emsp;The amount of losses which would have been treated as paid in the 10th year after the accident year shall be treated as paid in such 10th year and each subsequent year in an amount equal to the amount of the average of the losses treated as paid in the 7th, 8th, and 9th years after the accident year (or, if lesser, the portion of the unpaid losses not theretofore taken into account). To the extent such unpaid losses have not been treated as paid before the 24th year after the accident year, they shall be treated as paid in such 24th year.
+&emsp;&emsp;&emsp;&emsp;The amount of losses which would have been treated as paid in the 10th yearafter the accident year shall be treated as paid in such 10th year and each subsequent year in an amount equal to the amount of the average of the losses treated as paid in the 7th, 8th, and 9th years after the accident year (or, if lesser, the portion of the unpaid losses not theretofore taken into account). To the extent such unpaid losses have not been treated as paid before the 24th year after the accident year, they shall be treated as paid in such 24th year.
 
 #### (4) Determination year
 
@@ -148,6 +148,8 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 (Added Pub. L. 99–514, title X, §1023(c), Oct. 22, 1986, 100 Stat. 2399; amended Pub. L. 100–647, title I, §1010(e)(1), (2), Nov. 10, 1988, 102 Stat. 3453; Pub. L. 101–508, title XI, §11305(b), Nov. 5, 1990, 104 Stat. 1388–451; Pub. L. 115–97, title I, §§13517(b)(3), 13523(a)–(c), Dec. 22, 2017, 131 Stat. 2147, 2152.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Subsec. (c)(2). Pub. L. 115–97, §13523(a), amended par. (2) generally. Prior to amendment, text read as follows:
@@ -178,9 +180,11 @@ Subsec. (g). Pub. L. 115–97, §13523(c), redesignated subsec. (g) as (f).
 
 Subsec. (g)(3). Pub. L. 100–647, §1010(e)(2), added par. (3).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2017 Amendment
 
-Amendment by section 13517(b)(3) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, with transition rule and transition relief, see section 13517(c) of Pub. L. 115–97, set out as a note under section 807 of this title.
+Amendment by section 13517(b)(3) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017,with transition rule and transition relief, see section 13517(c) of Pub. L. 115–97, set out as a note under section 807 of this title.
 
 Pub. L. 115–97, title I, §13523(d), Dec. 22, 2017, 131 Stat. 2152, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2017."
 

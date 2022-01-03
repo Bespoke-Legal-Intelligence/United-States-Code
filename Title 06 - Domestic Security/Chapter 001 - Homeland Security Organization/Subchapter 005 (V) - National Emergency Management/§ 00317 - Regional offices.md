@@ -18,7 +18,7 @@ There are in the Agency 10 regional offices, as identified by the Administrator.
 
 #### (B) Considerations
 
-&emsp;&emsp;In selecting a Regional Administrator for a Regional Office, the Administrator shallconsider the familiarity of an individual with the geographical area and demographic characteristics of the population served by such Regional Office.
+&emsp;&emsp;In selecting a Regional Administrator for a Regional Office, the Administrator shall consider the familiarity of an individual with the geographical area and demographic characteristics of the population served by such Regional Office.
 
 #### (c) Responsibilities
 
@@ -132,7 +132,7 @@ There are in the Agency 10 regional offices, as identified by the Administrator.
 
 &emsp;If the Administrator determines that statutory authority is inadequate for the preparedness and deployment of individuals in strike teams under this subsection, the Administrator shall report to Congress regarding the additional statutory authorities that the Administrator determines are necessary.
 
-(Pub. L. 107–296, title V, §507, as added Pub. L. 109–295, title VI, §611(13), Oct. 4, 2006, 120 Stat. 1401; amended Pub. L. 110–53, title IV, §404, Aug. 3, 2007, 121 Stat. 303.)
+(Pub. L. 107–296, title V, §507, as added Pub. L. 109–295, title VI, §611(13), Oct. 4, 2006, 120 Stat.1401; amended Pub. L. 110–53, title IV, §404, Aug. 3, 2007, 121 Stat. 303.)
 
 #### <b>Editorial Notes</b>
 

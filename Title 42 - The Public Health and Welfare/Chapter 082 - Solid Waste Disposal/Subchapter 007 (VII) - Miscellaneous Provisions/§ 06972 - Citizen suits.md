@@ -52,7 +52,7 @@ Except as provided in subsection (b) or (c) of this section, any person may comm
 
 > In the case of an administrative order referred to in clause (iv), actions under subsection (a)(1)(B) are prohibited only as to the scope and duration of the administrative order referred to in clause (iv).
 
-(C) No action may be commenced under subsection (a)(1)(B) of this section if the State, in order to restrain or abate acts or conditions which may have contributed or are contributing to the activities which may present the alleged endangerment—
+(C) No action may be commenced under subsection (a)(1)(B) of this section if the State, inorder to restrain or abate acts or conditions which may have contributed or are contributing to the activities which may present the alleged endangerment—
 
 &emsp;(i) has commenced and is diligently prosecuting an action under subsection (a)(1)(B);
 
@@ -88,6 +88,8 @@ A transporter shall not be deemed to have contributed or to be contributing to t
 
 (Pub. L. 89–272, title II, §7002, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2825; amended Pub. L. 95–609, §7(p), Nov. 8, 1978, 92 Stat. 3083; Pub. L. 98–616, title IV, §401, Nov. 8, 1984, 98 Stat. 3268.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 That Act, referred to in subsec. (b)(2)(B)(iii), (C)(iii), means Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to chapter 103 (§9601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
@@ -111,6 +113,8 @@ Subsec. (g). Pub. L. 98–616, §401(c), added subsec. (g).
 <b>1978</b>—Subsec. (c). Pub. L. 95–609, §7(p)(1), substituted "subchapter III" for "section 212 of this Act."
 
 Subsec. (e). Pub. L. 95–609, §7(p)(2), substituted "require" for "requiring".
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

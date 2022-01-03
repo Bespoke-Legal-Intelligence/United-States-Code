@@ -62,6 +62,8 @@ For purposes of this chapter—
 
 (Pub. L. 97–446, title III, §302, Jan. 12, 1983, 96 Stat. 2351.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1483 of this title, referred to in par. (4), was repealed by Pub. L. 97–446, title II, §201(c), Jan. 12, 1983, 96 Stat. 2349. Prior to repeal, section 1483 read: "For the purposes of this subtitle—
@@ -73,6 +75,8 @@ Section 1483 of this title, referred to in par. (4), was repealed by Pub. L. 97�
 #### Codification
 
 Section 2605 of this title, referred to in par. (3), was in original "section 206" and was translated as section 2605 of this title, which is section 306 of Pub. L. 97–446, as the probable intent of Congress.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -196,7 +200,7 @@ Conditions.—The conditions referred to in paragraph (1) are the following:
 
 &emsp;"(3)
 
-Action.—If the President grants a waiver under this subsection, the specified archaeological or ethnological material of Syria that is the subject of such waiver shall be placed in the temporary custody of the United States Government or in the temporary custody of a cultural or educational institution within the United States for the purpose of protection, restoration, conservation, study, or exhibition, without profit.
+Action.—If the President grants a waiver under this subsection, the specified archaeological or ethnological material of Syria that is the subject of such waiver shall be placed in the temporary custody of the United States Government or in the temporary custody of a cultural or educational institution within the United States for the purpose of protection,restoration, conservation, study, or exhibition, without profit.
 
 &emsp;"(4)
 
@@ -237,6 +241,8 @@ Archaeological or ethnological material of syria.—The term 'archaeological or 
 &emsp;&emsp;"(E) actions undertaken to promote the legitimate commercial and non-commercial exchange and movement of cultural property; and
 
 &emsp;"(3) actions undertaken in fulfillment of international agreements on cultural property protection, including the Convention for the Protection of Cultural Property in the Event of Armed Conflict, done at The Hague May 14, 1954."
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions and Authorities Under the Protect and Preserve International Cultural Property Act
 

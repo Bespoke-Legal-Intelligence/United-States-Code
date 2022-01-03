@@ -28,7 +28,7 @@ Financial obligation.—The term "financial obligation" means any note, bond, de
 
 &emsp;(7)
 
-Lender.—The term "lender" means any non-Federal qualified institutional buyer (as defined by section 230.144A(a) of title 17, Code of Federal Regulations (or any successor regulation) known as Rule 144A(a) of the Security and Exchange Commission and issued under the Security Act of 1933 (15 U.S.C. 77a et seq.)), including—
+Lender.—The term "lender" means any non-Federal qualified institutional buyer (as defined by section 230.144A(a) of title 17, Code of Federal Regulations (or any successor regulation) known as Rule 144A(a) of the Securityand Exchange Commission and issued under the Security Act of 1933 (15 U.S.C. 77a et seq.)), including—
 
 &emsp;&emsp;(A) a qualified retirement plan (as defined in section 4974(c) of the Internal Revenue Code of 1986) that is a qualified institutional buyer; and
 
@@ -74,6 +74,8 @@ Underserved market.—The term "underserved market" means a passenger air transp
 
 (Added Pub. L. 106–181, title II, §210(a), Apr. 5, 2000, 114 Stat. 96; amended Pub. L. 108–176, title II, §225(b)(5), Dec. 12, 2003, 117 Stat. 2529.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Credit Reform Act of 1990, referred to in par. (3), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, as amended, which is classified generally to subchapter III (§661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
@@ -85,6 +87,8 @@ Sections 414(d) and 4974(c) of the Internal Revenue Code of 1986, referred to in
 #### Amendments
 
 <b>2003</b>—Pars. (11) to (16). Pub. L. 108–176 redesignated pars. (12), (13), (14), and (16) as (11), (12), (13), and (14), respectively, and struck out former pars. (11) and (15), which defined "nonhub airport" and "small hub airport", respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

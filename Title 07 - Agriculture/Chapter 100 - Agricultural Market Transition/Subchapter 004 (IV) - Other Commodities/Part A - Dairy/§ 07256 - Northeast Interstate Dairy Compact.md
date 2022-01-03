@@ -20,7 +20,7 @@ Congress hereby consents to the Northeast Interstate Dairy Compact entered into 
 
 #### (5) Compensation of Commodity Credit Corporation
 
-&emsp;Before the end of each fiscal year that a Compact price regulation is in effect, theNortheast Interstate Dairy Compact Commission shall compensate the Commodity Credit Corporation for the cost of any purchases of milk and milk products by the Corporation that result from the projected rate of increase in milk production for the fiscal year within the Compact region in excess of the projected national average rate of the increase in milk production, as determined by the Secretary.
+&emsp;Before the end of each fiscal year that a Compact price regulation is in effect, the Northeast Interstate Dairy Compact Commission shall compensate the Commodity Credit Corporation for the cost of any purchases of milk and milk products by the Corporation that result from the projected rate of increase in milk production for the fiscal year within the Compact region in excess of the projected national average rate of the increase in milk production, as determined by the Secretary.
 
 #### (6) Milk marketing order Administrator
 
@@ -31,6 +31,8 @@ Congress hereby consents to the Northeast Interstate Dairy Compact entered into 
 &emsp;The Northeast Interstate Dairy Compact Commission shall not prohibit or in any way limit the marketing in the Compact region of any milk or milk product produced in any other production area in the United States. The Compact Commission shall respect and abide by the ongoing procedures between Federal milk marketing orders with respect to the sharing of proceeds from sales within the Compact region of bulk milk, packaged milk, or producer milk originating from outside of the Compact region. The Compact Commission shall not use compensatory payments under section 10(6) of the Compact as a barrier to the entry of milk into the Compact region or for any other purpose. Establishment of a Compact over-order price, in itself, shall not be considered a compensatory payment or a limitation or prohibition on the marketing of milk.
 
 (Pub. L. 104–127, title I, §147, Apr. 4, 1996, 110 Stat. 919; Pub. L. 106–113, div. B, §1000(a)(8) \[§4\], Nov. 29, 1999, 113 Stat. 1536, 1501A–520.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

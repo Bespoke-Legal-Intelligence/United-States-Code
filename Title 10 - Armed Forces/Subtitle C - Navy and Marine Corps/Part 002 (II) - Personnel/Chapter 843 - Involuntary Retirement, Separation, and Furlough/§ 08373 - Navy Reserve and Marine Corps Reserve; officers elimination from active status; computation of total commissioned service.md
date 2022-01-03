@@ -16,7 +16,7 @@
 
 (2) Notwithstanding the first sentence of paragraph (1), the Secretary may defer the retirement or discharge of such number of officers serving in the grade of lieutenant commander as are necessary to maintain the authorized officer strength of the Ready Reserve, but the duration of such deferment for any individual officer may not be in excess of five years.
 
-(3) Notwithstanding paragraph (1), the Secretary may defer the retirement or discharge under this subsection of an officer serving in the permanent grade of lieutenant commander or commander in the Navy Reserve or in the permanent grade of major or lieutenant colonel in the Marine Corps Reserve for a period of time which does not exceed the amount of service in an active status which was credited to the officer at the time of his original appointment or thereafter under any provision of law, if the officer can complete at least 20 years of service as computed under section 12732 of this title during the period of such deferment.
+(3) Notwithstanding paragraph (1), the Secretary may defer the retirement or discharge under this subsection of an officer serving in the permanent grade of lieutenant commander or commander in the Navy Reserve or in the permanent grade of major or lieutenant colonel inthe Marine Corps Reserve for a period of time which does not exceed the amount of service in an active status which was credited to the officer at the time of his original appointment or thereafter under any provision of law, if the officer can complete at least 20 years of service as computed under section 12732 of this title during the period of such deferment.
 
 (4) Notwithstanding paragraph (1), the Secretary may defer the retirement or discharge under this subsection of such number of officers serving in the permanent grade of commander in the Medical Corps, Chaplain Corps, or Dental Corps in the Navy Reserve as are necessary to provide for mobilization requirements.
 
@@ -67,6 +67,8 @@ In subsection (a), the words "who is considered as having twice failed of select
 Subsection (e) is added to avoid conflict with 50:1311(d) and (e), codified in sections 6397 and 6403 of this title. 50:1311(d) and (e) contain special provisions for "women officers" and officers in the Nurse Corps, respectively, so that officers in these categories must be excepted from this section. Women officers appointed under the act of June 24, 1952, ch. 457 (66 Stat. 155; 34 U.S.C. 21e) (codified in section 5581 of this title), are not "women officers" within the meaning of 50:1311(d), however, but are required to be promoted, retired, or eliminated from active status as if they were men. (See the revision note on section 5665 of this title.) The application of this section to these officers is therefore made explicit.
 
 Both men and women are eligible for appointment as reserve officers in the Nurse Corps and are subject to the special provisions relating to that corps.
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -130,13 +132,15 @@ Subsec. (f). Pub. L. 96–513, §337(a)(4), added subsec. (f).
 
 <b>1960</b>—Subsec. (c). Pub. L. 86–559 empowered the Secretary to defer the retirement or discharge of officers serving in the grade of lieutenant commander in the Ready Reserve, in the permanent grade of lieutenant commander or above in the Naval Reserve, in the permanent grade of major or above in the Marine Corps Reserve, and in the permanent grade of captain or commander in the Medical Corps, Chaplain Corps, or Dental Corps in the Naval Reserve.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–106, div. A, title XV, §1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made bythat section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
+Pub. L. 104–106, div. A, title XV, §1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
 
 #### Effective Date of 1994 Amendment
 

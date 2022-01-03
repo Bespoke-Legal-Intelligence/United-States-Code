@@ -204,7 +204,7 @@ The Secretary shall by regulation provide for the limitation of a contractor's l
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall enter into contracts with eligible entities or otherwise for the purpose of ensuring that, beginning with2006, the Medicare-Medicaid Data Match Program (commonly referred to as the "Medi-Medi Program") is conducted with respect to the program established under this subchapter and State Medicaid programs under subchapter XIX for the purpose of—
+&emsp;&emsp;The Secretary shall enter into contracts with eligible entities or otherwise for the purpose of ensuring that, beginning with 2006, the Medicare-Medicaid Data Match Program (commonly referred to as the "Medi-Medi Program") is conducted with respect to the program established under this subchapter and State Medicaid programs under subchapter XIX for the purpose of—
 
 &emsp;&emsp;&emsp;(i) identifying program vulnerabilities in the program established under this subchapter and the Medicaid program established under subchapter XIX through the use of computer algorithms to review claims data to look for payment anomalies (including billing or billing patterns identified with respect to provider, service, time, or patient that appear to be suspect or otherwise implausible);
 
@@ -274,7 +274,7 @@ The Secretary shall by regulation provide for the limitation of a contractor's l
 
 #### (B) Ineligibility of certain contractors
 
-&emsp;&emsp;The Secretary may not enter into a contract under paragraph (1) with a recoveryaudit contractor to the extent the contractor is a fiscal intermediary under section 1395h of this title, a carrier under section 1395u of this title, or a medicare administrative contractor under section 1395kk–1 of this title.
+&emsp;&emsp;The Secretary may not enter into a contract under paragraph (1) with a recovery audit contractor to the extent the contractor is a fiscal intermediary under section 1395h of this title, a carrier under section 1395u of this title, or a medicare administrative contractor under section 1395kk–1 of this title.
 
 #### (C) Preference for entities with demonstrated proficiency
 
@@ -332,7 +332,7 @@ The Secretary shall by regulation provide for the limitation of a contractor's l
 
 #### (1) Access to information
 
-&emsp;Under contracts entered into under this section with Medicare drug integrity contractors (including any successor entity to a Medicare drug integrity contractor), the Secretary shall authorize such contractors to directly accept prescription and necessary medical records from entities such as pharmacies, prescription drug plans, MA–PD plans, and physicians with respect to an individual in order for such contractors to provide information relevant to the determination of whether such individual is an at-risk beneficiary for prescription drugabuse, as defined in section 1395w–104(c)(5)(C) of this title.
+&emsp;Under contracts entered into under this section with Medicare drug integrity contractors (including any successor entity to a Medicare drug integrity contractor), the Secretary shall authorize such contractors to directly accept prescription and necessary medical records from entities such as pharmacies, prescription drug plans, MA–PD plans, and physicians with respect to an individual in order for such contractors to provide information relevant to the determination of whether such individual is an at-risk beneficiary for prescription drug abuse, as defined in section 1395w–104(c)(5)(C) of this title.
 
 #### (2) Requirement for acknowledgment of referrals
 
@@ -353,6 +353,8 @@ The Secretary shall by regulation provide for the limitation of a contractor's l
 &emsp;&emsp;Information may only be disclosed by a MEDIC under subparagraph (A) if the disclosure of such information is permitted under the Federal regulations (concerning the privacy of individually identifiable health information) promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. 1320d–2 note).
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1893, as added Pub. L. 104–191, title II, §202(a), Aug. 21, 1996, 110 Stat. 1996; amended Pub. L. 108–173, title VII, §736(c)(7), title IX, §935(a), Dec. 8, 2003, 117 Stat. 2356, 2407; Pub. L. 109–171, title VI, §6034(d)(1), Feb. 8, 2006, 120 Stat. 77; Pub. L. 109–432, div. B, title III, §302(a), Dec. 20, 2006, 120 Stat. 2991; Pub. L. 111–148, title VI, §§6402(j)(1), 6411(b), Mar. 23, 2010, 124 Stat. 762, 775; Pub. L. 114–10, title V, §§505(b), 510, Apr. 16, 2015, 129 Stat. 167, 170; Pub. L. 114–115, §9(b), Dec. 28, 2015, 129 Stat. 3135; Pub. L. 114–198, title VII, §704(c)(1), July 22, 2016, 130 Stat. 749.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -407,6 +409,8 @@ Subsec. (h). Pub. L. 109–432 added subsec. (h).
 <b>2003</b>—Subsec. (a). Pub. L. 108–173, §736(c)(7), substituted "medicare program" for "Medicare program".
 
 Subsec. (f). Pub. L. 108–173, §935(a), added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2016 Amendment
 

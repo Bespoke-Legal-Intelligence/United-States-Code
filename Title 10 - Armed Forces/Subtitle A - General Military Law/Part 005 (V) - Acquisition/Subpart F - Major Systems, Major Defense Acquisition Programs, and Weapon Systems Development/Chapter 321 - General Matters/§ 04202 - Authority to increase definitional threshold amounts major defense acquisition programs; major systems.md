@@ -38,6 +38,8 @@ Notification to Congressional Committees.—An adjustment under subsection (a) o
 
 (Added and amended Pub. L. 116–283, div. A, title XVIII, §1846(b), (d), (e), Jan. 1, 2021, 134 Stat. 4248, 4249.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 The text of subsecs. (b) and (c) of section 2430 of this title, which was transferred to this section, redesignated as pars. (1) and (2) of subsec. (a), respectively, and amended by Pub. L. 116–283, §1846(d)(1), (2)(A), was based on Pub. L. 102–484, div. A, title VIII, §817(b)(3), Oct. 23, 1992, 106 Stat. 2455; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 111–23, title II, §206(b)(2), May 22, 2009, 123 Stat. 1728; Pub. L. 113–291, div. A, title X, §1071(f)(18), Dec. 19, 2014, 128 Stat. 3511; Pub. L. 115–91, div. A, title X, §1081(a)(38), Dec. 12, 2017, 131 Stat. 1596.
@@ -48,7 +50,7 @@ The text of subsec. (c) of section 2302d of this title, which was transferred to
 
 <b>2021</b>—Subsec. (a). Pub. L. 116–283, §1846(d)(2)(A), (B), inserted subsec. heading and par. (1) designation and heading before "The Secretary" and substituted "in section 4201(a)(2) of this title" for "in subsection (a)(1)(B)".
 
-Pub. L. 116–283, §1846(d)(1), transferred subsecs. (b) and (c) of section 2430 of this title to this section, redesignated subsec. (b) and subsec. (c) and its pars. (1) to (4) as subsec. (a) and subsec. (a)(2) and its subpars. (A) to (D), respectively, realigned margin of subsec. (a)(2), andstruck out second sentence of subsec. (a)(1) as redesignated which read as follows: "An adjustment under this subsection shall be effective after the Secretary transmits a written notification of the adjustment to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives."
+Pub. L. 116–283, §1846(d)(1), transferred subsecs. (b) and (c) of section 2430 of this title to this section, redesignated subsec. (b) and subsec. (c) and its pars. (1) to (4) as subsec. (a) and subsec. (a)(2) and its subpars. (A) to (D), respectively, realigned margin of subsec. (a)(2), and struck out second sentence of subsec. (a)(1) as redesignated which read as follows: "An adjustment under this subsection shall be effective after the Secretary transmits a written notification of the adjustment to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives."
 
 Subsec. (a)(2). Pub. L. 116–283, §1846(d)(2)(C)(i), (ii), inserted par. heading before "For purposes of" and substituted "section 4201(a)(2) of this title" for "subsection (a)(1)(B)".
 
@@ -65,6 +67,8 @@ Pub. L. 116–283, §1846(e)(1), transferred subsec. (c) of section 2302d of thi
 Subsec. (c). Pub. L. 116–283, §1846(e)(3), inserted heading and substituted "under subsection (a) or (b)" for "under this subsection" in text.
 
 Pub. L. 116–283, §1846(e)(1)(B), redesignated par. (3) of subsec. (b) as subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

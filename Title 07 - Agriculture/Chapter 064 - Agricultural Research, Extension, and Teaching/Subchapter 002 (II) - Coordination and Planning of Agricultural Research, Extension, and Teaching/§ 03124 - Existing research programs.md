@@ -4,6 +4,8 @@ It is the intent of Congress in enacting this chapter to augment, coordinate, an
 
 (Pub. L. 95–113, title XIV, §1409, Sept. 29, 1977, 91 Stat. 989; Pub. L. 97–98, title XIV, §1409, Dec. 22, 1981, 95 Stat. 1301.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For definition of "this chapter", referred to in text, see note set out under section 3102 of this title.
@@ -11,6 +13,8 @@ For definition of "this chapter", referred to in text, see note set out under se
 #### Amendments
 
 <b>1981</b>—Pub. L. 97–98 substituted "Secretary of Health and Human Services" for "Secretary of Health, Education, and Welfare" in two places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1981 Amendment
 

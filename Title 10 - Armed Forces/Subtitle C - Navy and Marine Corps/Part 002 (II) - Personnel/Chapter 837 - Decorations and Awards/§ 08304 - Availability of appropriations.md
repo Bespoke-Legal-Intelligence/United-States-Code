@@ -20,6 +20,8 @@ Feb. 4, 1919, ch. 14, §6 (less proviso), 40 Stat. 1056; renumbered §8 and amen
 
 The words "the appropriations for the pay of the Navy or the Marine Corps, as appropriate", are substituted for the words "the appropriation 'Pay, subsistence, and transportation of naval personnel' ", to identify by a general description, rather than by the specific appropriation title, the appropriation authorized to be used. Specific appropriation titles vary from one appropriation act to the next. The permanent authority contained in 34 U.S.C. 359 for the Secretary of the Navy to use appropriations available for the pay of the Navy and the Marine Corps is not affected by a change in the titles of those appropriations nor is it affected by a specific authorization in an appropriation act to use, during the life of the act, a different type of appropriation.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 8304, act Aug. 10, 1956, ch. 1041, 70A Stat. 515, related to promotion of Air Force nurses or women medical specialists to grades of first lieutenant, captain, major, lieutenant colonel, or colonel, prior to repeal by Pub. L. 85–155, title IV, §401(1), Aug. 21, 1957, 71 Stat. 390.
@@ -27,6 +29,8 @@ A prior section 8304, act Aug. 10, 1956, ch. 1041, 70A Stat. 515, related to pro
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 6254 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

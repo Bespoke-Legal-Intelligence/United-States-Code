@@ -2,7 +2,7 @@
 
 #### (a) Certification of eligibility
 
-As soon as possible after the date on which a petition is filed under section 2271 of this title,but in any event not later than 40 days after that date, the Secretary shall determine whether the petitioning group meets the requirements of section 2272 of this title and shall issue a certification of eligibility to apply for assistance under this subpart covering workers in any group which meets such requirements. Each certification shall specify the date on which the total or partial separation began or threatened to begin.
+As soon as possible after the date on which a petition is filed under section 2271 of this title, but in any event not later than 40 days after that date, the Secretary shall determine whether the petitioning group meets the requirements of section 2272 of this title and shall issue a certification of eligibility to apply for assistance under this subpart covering workers in any group which meets such requirements. Each certification shall specify the date on which the total or partial separation began or threatened to begin.
 
 #### (b) Workers covered by certification
 
@@ -26,11 +26,13 @@ Whenever the Secretary determines, with respect to any certification of eligibil
 
 &emsp;Not less than 90 days before issuing a final rule with respect to the standards required under paragraph (1), the Secretary shall consult with the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives with respect to such rule.
 
-(Pub. L. 93–618, title II, §223, Jan. 3, 1975, 88 Stat. 2019; Pub. L. 103–182, title V, §503(a), Dec. 8, 1993, 107 Stat. 2151; Pub. L. 107–210, div. A, title I, §112(b), Aug. 6, 2002, 116 Stat. 937; Pub. L. 111–5, div. B, title I, §§1803, 1858(a), Feb. 17, 2009, 123 Stat. 372, 395; Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403; Pub. L. 114–27, title IV, §402(b), (c), June 29, 2015, 129 Stat. 374.)
+(Pub. L. 93–618, title II, §223, Jan. 3, 1975, 88 Stat. 2019; Pub. L. 103–182, title V, §503(a), Dec. 8, 1993, 107 Stat. 2151; Pub. L. 107–210, div. A, title I, §112(b), Aug. 6, 2002, 116 Stat. 937; Pub. L. 111–5, div. B, title I, §§1803, 1858(a), Feb. 17, 2009, 123Stat. 372, 395; Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403; Pub. L. 114–27, title IV, §402(b), (c), June 29, 2015, 129 Stat. 374.)
 
 #### Reversion to Provisions in Effect on January 1, 2014
 
 <i>For reversion, beginning on July 1, 2021, to provisions in effect on Jan. 1, 2014, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see Codification and Effective and Termination Dates of 2015 Revival notes below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -61,6 +63,8 @@ Subsec. (e). Pub. L. 111–5, §§1803(4), 1893, temporarily added subsec. (e). 
 <b>2002</b>—Subsec. (a). Pub. L. 107–210 substituted "40 days" for "60 days".
 
 <b>1993</b>—Subsec. (a). Pub. L. 103–182 substituted "assistance under this subpart" for "assistance under this part".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective and Termination Dates of 2015 Revival
 

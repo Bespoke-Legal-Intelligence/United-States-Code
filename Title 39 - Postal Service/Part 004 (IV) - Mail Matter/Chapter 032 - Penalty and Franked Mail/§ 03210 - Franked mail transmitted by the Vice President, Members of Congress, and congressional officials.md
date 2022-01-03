@@ -90,7 +90,7 @@
 
 (5) The Senate Committee on Rules and Administration and the House Communications Standards Commission shall prescribe for their respective Houses rules and regulations governing any franked mail which is mailed under this subsection and shall by regulation limit the number of such mailings allowed under this subsection.
 
-(6)(A) Any Member of, or Member-elect to, the House of Representatives entitled to make any mailing as franked mail under this subsection shall, before making any mailing, submit a sample or description of the mail matter involved to the House Communications Standards Commission for an advisory opinion as to whether the proposed mailing is in compliance with the provisions of this subsection.
+(6)(A) Any Member of, or Member-elect to, the House of Representatives entitled to make anymailing as franked mail under this subsection shall, before making any mailing, submit a sample or description of the mail matter involved to the House Communications Standards Commission for an advisory opinion as to whether the proposed mailing is in compliance with the provisions of this subsection.
 
 (B) The Senate Select Committee on Ethics may require any Member of, or Member-elect to, the Senate entitled to make any mailings as franked mail under this subsection to submit a sample or description of the mail matter to the Committee for an advisory opinion as to whether the proposed mailing is in compliance with the provisions of this subsection.
 
@@ -218,7 +218,7 @@ Pub. L. 116–136, div. B, title IX, §19006(b), Mar. 27, 2020, 134 Stat. 579, p
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–197, title I, §102(b), Sept. 16, 1996, 110 Stat. 2401, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1996, and shall apply with respect to any mailing postmarked on or after that date."
+Pub. L. 104–197, title I, §102(b), Sept. 16, 1996, 110 Stat. 2401, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect onOctober 1, 1996, and shall apply with respect to any mailing postmarked on or after that date."
 
 #### Effective Date of 1992 Amendment
 
@@ -230,7 +230,7 @@ Amendment by section 311(h)(1) of Pub. L. 101–520 applicable with respect to s
 
 #### Effective Date of 1981 Amendment
 
-Pub. L. 97–69, §3(b), Oct. 26, 1981, 95 Stat. 1042, provided that: "This section \[amending this section\] shallbecome effective 120 days after the date of enactment of this Act \[Oct. 26, 1981\]."
+Pub. L. 97–69, §3(b), Oct. 26, 1981, 95 Stat. 1042, provided that: "This section \[amending this section\] shall become effective 120 days after the date of enactment of this Act \[Oct. 26, 1981\]."
 
 #### Effective Date of 1978 Amendment
 

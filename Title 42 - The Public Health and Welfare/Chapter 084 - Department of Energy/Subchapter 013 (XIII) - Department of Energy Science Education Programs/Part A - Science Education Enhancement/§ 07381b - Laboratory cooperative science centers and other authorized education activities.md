@@ -36,7 +36,7 @@ The Secretary is authorized to:
 
 &emsp;(16) Support summer internships at Department research and development facilities, for mathematics teachers and science teachers who teach in grades from kindergarten through grade 12.
 
-&emsp;(17) Sponsor and assist in educational and training activities identified as critical skills needs for future workforce development at Department research and development facilities.
+&emsp;(17) Sponsor and assist in educational and training activities identified as critical skillsneeds for future workforce development at Department research and development facilities.
 
 #### (b) Use of facilities
 
@@ -48,6 +48,8 @@ The Secretary is authorized to accept non-Federal funds to finance education act
 
 (Pub. L. 101–510, div. C, title XXXI, §3165, Nov. 5, 1990, 104 Stat. 1841; Pub. L. 102–25, title VII, §704(d), Apr. 6, 1991, 105 Stat. 120; Pub. L. 109–58, title XI, §1102(b), Aug. 8, 2005, 119 Stat. 938.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Subsec. (a)(14) to (17). Pub. L. 109–58, which directed amendment of this section by adding pars. (14) to (17) at the end, was executed by making the addition at the end of subsec. (a), to reflect the probable intent of Congress.
@@ -55,6 +57,8 @@ The Secretary is authorized to accept non-Federal funds to finance education act
 <b>1991</b>—Subsec. (a). Pub. L. 102–25, §704(d)(1), redesignated subpars. (J) to (M) as pars. (10) to (13), respectively.
 
 Subsec. (b). Pub. L. 102–25, §704(d)(2), inserted "such" before "education activities" in second sentence.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1991 Amendment
 

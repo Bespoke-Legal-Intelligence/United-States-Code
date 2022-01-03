@@ -20,7 +20,7 @@ Diseases.—A disease specified in this subsection is—
 
 (c)
 
-Herbicide Agent.—For purposes of this section, the term "herbicide agent" has the meaning given such term in section 1821(d) of this title.
+Herbicide Agent.—For purposes of this section, the term "herbicide agent" has themeaning given such term in section 1821(d) of this title.
 
 (Added Pub. L. 116–23, §3(a), June 25, 2019, 133 Stat. 969.)
 

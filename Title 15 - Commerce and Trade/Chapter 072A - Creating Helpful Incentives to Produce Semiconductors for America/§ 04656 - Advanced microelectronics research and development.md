@@ -78,7 +78,7 @@
 
 #### (1) Establishment
 
-&emsp;The Secretary of Commerce, in consultation with the Secretary of Defense, the Secretary of Energy, and the Secretary of Homeland Security, shall establish an advisory committee to be composed of not fewer than 12 members, including representatives of industry, federal laboratories, and academic institutions, who are qualified to provide advice to the United States Government on matters relating to microelectronics research, development, manufacturing, and policy.
+&emsp;The Secretary of Commerce, in consultation with the Secretary of Defense, the Secretary of Energy, and the Secretary of Homeland Security, shall establish an advisory committee to be composed of not fewer than 12 members, including representatives of industry, federal laboratories, and academic institutions, whoare qualified to provide advice to the United States Government on matters relating to microelectronics research, development, manufacturing, and policy.
 
 #### (2) Duties
 
@@ -94,7 +94,7 @@
 
 #### (3) FACA exemption
 
-&emsp;Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply tothe advisory committee established under this subsection.
+&emsp;Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the advisory committee established under this subsection.
 
 #### (c) National semiconductor technology center
 
@@ -144,9 +144,11 @@ Subject to the availability of appropriations for such purpose, the Director of 
 
 #### (g) Domestic production requirements
 
-The head of any executive agency receiving funding under this section shall develop policies to require domestic production, to the extent possible, for any intellectual property resulting from microelectronics research and development conducted as a result of such funding and domestic control requirements to protect any such intellectual property from foreign adversaries.
+The head of any executive agency receiving funding under this section shall develop policies to require domestic production, to the extent possible, for any intellectual property resultingfrom microelectronics research and development conducted as a result of such funding and domestic control requirements to protect any such intellectual property from foreign adversaries.
 
 (Pub. L. 116–283, div. H, title XCIX, §9906, Jan. 1, 2021, 134 Stat. 4856.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

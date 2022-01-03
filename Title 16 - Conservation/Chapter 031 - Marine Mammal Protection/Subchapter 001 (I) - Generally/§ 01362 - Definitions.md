@@ -124,6 +124,8 @@ For the purposes of this chapter—
 
 (Pub. L. 92–522, §3, Oct. 21, 1972, 86 Stat. 1028; Pub. L. 93–205, §13(e)(1), Dec. 28, 1973, 87 Stat. 903; Pub. L. 94–265, title IV, §404(a), Apr. 13, 1976, 90 Stat. 360; Pub. L. 97–58, §1(a), (b)(2), Oct. 9, 1981, 95 Stat. 979; Pub. L. 102–251, title III, §304, Mar. 9, 1992, 106 Stat. 65; Pub. L. 102–523, §2(c), Oct. 26, 1992, 106 Stat. 3432; Pub. L. 102–582, title IV, §401(a), Nov. 2, 1992, 106 Stat. 4909; Pub. L. 102–587, title III, §3004(b), Nov. 4, 1992, 106 Stat. 5067; Pub. L. 103–238, §§12, 16(a), 24(a)(2), Apr. 30, 1994, 108 Stat. 557, 559, 565; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–297, title IV, §405(b)(2), (3), Oct. 11, 1996, 110 Stat. 3621; Pub. L. 105–42, §3, Aug. 15, 1997, 111 Stat. 1123; Pub. L. 106–555, title II, §202(b), Dec. 21, 2000, 114 Stat. 2768; Pub. L. 108–136, div. A, title III, §319(a), Nov. 24, 2003, 117 Stat. 1433.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Endangered Species Act of 1973, referred to in pars. (1)(C) and (19)(B), (C), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
@@ -172,7 +174,7 @@ Pub. L. 102–251, §304, which directed the general amendment of par. (15) by r
 
 Pars. (16), (17). Pub. L. 102–523 added pars. (16) and (17).
 
-<b>1981</b>—Par. (1). Pub. L. 97–58, §1(b)(2)(A), substituted a single management standard, that is, the maintenance of species at their optimum sustainable population, for the former management standard which had included the decline of a species or population stock that had declined to a significant degree over a period of years, the decline of a species or population stock which, if continued or resumed, would place the species or stock within the provisions of the Endangered Species Act of 1973, and a species or population stock that was below the optimum carrying capacity for the species or stock within its environment.
+<b>1981</b>—Par. (1). Pub. L. 97–58, §1(b)(2)(A), substituted a single management standard, that is, the maintenance of species at their optimum sustainable population, for the former management standard which had included the decline of a species or population stock that had declined to a significant degree over a period of years, the decline of a species or population stock which, if continued or resumed, would place the species or stock within the provisions of the Endangered Species Act of 1973, and a species or population stock that was belowthe optimum carrying capacity for the species or stock within its environment.
 
 Par. (2). Pub. L. 97–58, §1(b)(2)(B), substituted "their optimum sustainable population" for "the optimum carrying capacity of their habitat".
 
@@ -187,6 +189,8 @@ Pars. (14), (15). Pub. L. 97–58, §1(b)(2)(C), redesignated pars. (14) and (15
 <b>1976</b>—Par. (15)(B). Pub. L. 94–265 substituted "the waters included within a zone, contiguous to the territorial sea of the United States, of which the inner boundary is a line coterminous with the seaward boundary of each coastal State, and the outer boundary is a line drawn in such a manner that each point on it is 200 nautical miles from the baseline from which the territorial sea is measured" for "the fisheries zone established pursuant to the Act of October 14, 1966".
 
 <b>1973</b>—Par. (1)(B). Pub. L. 93–205 substituted "Endangered Species Act of 1973" for "Endangered Species Conservation Act of 1969".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1997 Amendment
 
@@ -248,10 +252,6 @@ Pub. L. 103–238, §24(a)(1), Apr. 30, 1994, 108 Stat. 565, provided that: "The
 
 &emsp;"(B) shall not be considered to have been made by that section to section 3(11) of that Act (16 U.S.C. 1362(11))."
 
-#### Termination of Trust Territory of the Pacific Islands
-
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
 #### Termination of United States District Court for the District of the Canal Zone
 
 For termination of the United States District Court for the District of the Canal Zone at end of the "transition period", being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
@@ -259,6 +259,12 @@ For termination of the United States District Court for the District of the Cana
 #### Termination of Advisory Committees
 
 Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### <b>Executive Documents</b>
+
+#### Termination of Trust Territory of the Pacific Islands
+
+For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
 #### Territorial Sea and Contiguous Zone of United States
 

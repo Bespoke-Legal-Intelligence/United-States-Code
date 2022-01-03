@@ -28,7 +28,7 @@ General.—In this subchapter—
 
 (b)
 
-Limitation on Authority To Decide a Place Not an Eligible Place.—The Secretary may not decide that a place described in subsection (a)(1) of this section is not an eligible place on any basis that is not specifically stated in this subchapter.
+Limitation on Authority To Decide a Place Not an Eligible Place.—The Secretarymay not decide that a place described in subsection (a)(1) of this section is not an eligible place on any basis that is not specifically stated in this subchapter.
 
 (c)
 
@@ -94,6 +94,8 @@ In subsection (a)(2), the words "described in section 41732 of this title" are a
 
 In subsection (a)(3)–(5), the word "boardings" is substituted for "enplanements" for clarity and consistency in the revised title.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 419 of the Federal Aviation Act of 1958, referred to in subsec. (a)(1)(A)(i), is section 419 of Pub. L. 85–726, which was classified to section 1389 of former Title 49, Transportation, and was repealed and reenacted as this subchapter by Pub. L. 103–272, §§1(e), 7(b), July 5, 1994, 108 Stat. 1143, 1379.
@@ -124,6 +126,8 @@ Subsecs. (c), (d). Pub. L. 112–27, §6(c), added subsecs. (c) and (d).
 
 <b>2000</b>—Subsec. (a)(1). Pub. L. 106–181 redesignated subpars. (A), (B), and (C) as cls. (i), (ii), and (iii), respectively, of subpar (A) and added subpar. (B).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2003 Amendment
 
 Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
@@ -150,7 +154,7 @@ Pub. L. 108–176, title IV, §409, Dec. 12, 2003, 117 Stat. 2547, as amended by
 
 "(a)
 
-Request for Secretarial Review.—An eligible place (as defined in section 41731 of title 49, United States Code) with respect to which the Secretary has, in the 2-year period ending on the date of enactment of this Act \[Dec. 12, 2003\], eliminated (or tentatively eliminated) compensation for essential air service to such place, or terminated (or tentatively terminated) the compensation eligibility of such place for essential air service, under section 332 of the Department ofTransportation and Related Agencies Appropriations Act, 2000 \[Pub. L. 106–69\] (49 U.S.C. 41731 note), section 205 of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century \[Pub. L. 106–181\] (49 U.S.C. 41731 note), or any prior law of similar effect based on the highway mileage of such place from the nearest hub airport (as defined in section 40102 of such title), may request the Secretary to review such action.
+Request for Secretarial Review.—An eligible place (as defined in section 41731 of title 49, United States Code) with respect to which the Secretary has, in the 2-year period ending on the date of enactment of this Act \[Dec. 12, 2003\], eliminated (or tentatively eliminated) compensation for essential air service to such place, or terminated (or tentatively terminated) the compensation eligibility of such place for essential air service, under section 332 of the Department of Transportation and Related Agencies Appropriations Act, 2000 \[Pub. L. 106–69\] (49 U.S.C. 41731 note), section 205 of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century \[Pub. L. 106–181\] (49 U.S.C. 41731 note), or any prior law of similar effect based on the highway mileage of such place from the nearest hub airport (as defined in section 40102 of such title), may request the Secretary to review such action.
 
 "(b)
 

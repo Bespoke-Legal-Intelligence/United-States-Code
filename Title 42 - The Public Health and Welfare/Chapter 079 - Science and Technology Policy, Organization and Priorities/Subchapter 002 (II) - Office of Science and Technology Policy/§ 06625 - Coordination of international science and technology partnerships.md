@@ -42,13 +42,17 @@ The body established under subsection (b) shall terminate on the date that is 10
 
 #### (h) Additional reports to Congress
 
-The Director of the Office of Science and Technology Policy shall submit, not later than 60 days after January 6, 2017, and annually thereafter, to the Committee on Commerce, Science, and Transportation and the Committee on Foreign Relations of the Senate and the Committee on Science, Space, and Technology and the Committee on Foreign Affairs of the House of Representatives a report that lists and describes the details of all foreign travel by Office of Science and Technology Policy staff and detailees.
+The Director of the Office of Science and Technology Policy shall submit, not later than 60days after January 6, 2017, and annually thereafter, to the Committee on Commerce, Science, and Transportation and the Committee on Foreign Relations of the Senate and the Committee on Science, Space, and Technology and the Committee on Foreign Affairs of the House of Representatives a report that lists and describes the details of all foreign travel by Office of Science and Technology Policy staff and detailees.
 
 (Pub. L. 114–329, title II, §208, Jan. 6, 2017, 130 Stat. 3002.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
 Section was enacted as the International Science and Technology Cooperation Act of 2016 and also as part of the American Innovation and Competitiveness Act, and not as part of the National Science and Technology Policy, Organization, and Priorities Act of 1976 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definition
 

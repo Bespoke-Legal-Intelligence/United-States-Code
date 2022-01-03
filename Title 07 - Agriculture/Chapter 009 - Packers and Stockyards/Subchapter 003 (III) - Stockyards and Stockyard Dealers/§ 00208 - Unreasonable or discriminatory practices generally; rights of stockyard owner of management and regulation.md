@@ -6,6 +6,8 @@
 
 (Aug. 15, 1921, ch. 64, title III, §307, 42 Stat. 165; Pub. L. 90–446, §1(d), July 31, 1968, 82 Stat. 475.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1968</b>—Pub. L. 90–446 designated existing provisions as subsec. (a) and added subsec. (b).

@@ -10,7 +10,7 @@ For purposes of this section—
 
 &emsp;(3) The term "fund" means the Fishing Vessel and Gear Damage Compensation Fund established under subsection (f).
 
-&emsp;(4) The term "resulting economic loss" means the gross income, as estimated by theSecretary, that a fishing vessel owner or operator who is eligible for compensation under this section for damage to, loss of, or destruction of, a fishing vessel or the fishing gear used with such vessel will lose by reason of not being able to engage in fishing, or having to reduce his fishing effort, during the period before the vessel or gear, or both, are repaired or replaced and available for use.
+&emsp;(4) The term "resulting economic loss" means the gross income, as estimated by the Secretary, that a fishing vessel owner or operator who is eligible for compensation under this section for damage to, loss of, or destruction of, a fishing vessel or the fishing gear used with such vessel will lose by reason of not being able to engage in fishing, or having to reduce his fishing effort, during the period before the vessel or gear, or both, are repaired or replaced and available for use.
 
 #### (b) Causes of loss or destruction
 
@@ -94,7 +94,7 @@ In addition to any fee imposed under section 204(b)(10) of the Magnuson-Stevens 
 
 Any person who willfully makes any false or misleading statement or representation for the purpose of obtaining compensation under this section is guilty of a criminal offense and, upon conviction thereof, shall be punished by a fine of not more than $25,000, or by imprisonment for not more than one year, or both.
 
-(Aug. 27, 1954, ch. 1018, §10, as added Pub. L. 95–194, §2, Nov. 18, 1977, 91 Stat. 1413; amended Pub. L. 95–376, §3(a), Sept. 18, 1978, 92 Stat. 715; Pub. L. 96–289, §4(b), June 28, 1980, 94 Stat. 606; Pub. L. 96–561, title II, §§238(b), 241, Dec. 22, 1980, 94 Stat. 3300, 3301; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
+(Aug. 27, 1954, ch. 1018, §10, as added Pub. L. 95–194, §2, Nov. 18, 1977, 91 Stat. 1413; amendedPub. L. 95–376, §3(a), Sept. 18, 1978, 92 Stat. 715; Pub. L. 96–289, §4(b), June 28, 1980, 94 Stat. 606; Pub. L. 96–561, title II, §§238(b), 241, Dec. 22, 1980, 94 Stat. 3300, 3301; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
 
 #### <b>Editorial Notes</b>
 

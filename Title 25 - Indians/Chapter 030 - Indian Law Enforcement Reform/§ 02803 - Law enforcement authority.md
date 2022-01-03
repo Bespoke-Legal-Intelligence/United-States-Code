@@ -16,7 +16,7 @@ The Secretary may charge employees of the Bureau with law enforcement responsibi
 
 &emsp;&emsp;(B) the offense is a felony and the employee has probable cause to believe that the person to be arrested has committed, or is committing, the felony;
 
-&emsp;&emsp;(C) the offense is a misdemeanor crime of domestic violence, dating violence, stalking, or violation of a protection order and has, as an element, the use or attempted use of physical force, or the threatened use of a deadly weapon, committed by a current or former spouse, parent, or guardian of the victim, by a person with whom the victim shares a child in common, by a person who is cohabitating with or has cohabited with the victim as a spouse, parent, or guardian, or by a person similarly situated to a spouse, parent or guardian of the victim, and the employee has probable cause to believe that the person to be arrested has committed, or is committing the crime; or
+&emsp;&emsp;(C) the offense is a misdemeanor crime of domestic violence, dating violence, stalking, or violation of a protection order and has, asan element, the use or attempted use of physical force, or the threatened use of a deadly weapon, committed by a current or former spouse, parent, or guardian of the victim, by a person with whom the victim shares a child in common, by a person who is cohabitating with or has cohabited with the victim as a spouse, parent, or guardian, or by a person similarly situated to a spouse, parent or guardian of the victim, and the employee has probable cause to believe that the person to be arrested has committed, or is committing the crime; or
 
 &emsp;&emsp;(D)(i) the offense involves—
 

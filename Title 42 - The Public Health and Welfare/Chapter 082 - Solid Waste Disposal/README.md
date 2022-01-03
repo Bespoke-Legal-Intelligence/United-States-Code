@@ -111,6 +111,8 @@
 | [6966\.](Subchapter%20006%20%28VI%29%20-%20Federal%20Responsibilities/%C2%A7%2006966%20-%20Increased%20use%20of%20recovered%20mineral%20component%20in%20federally%20funded%20projects%20involving%20procurement%20of%20cement%20or%20concrete.md) | Increased use of recovered mineral component in federally funded projects involving procurement of cement or concrete. |
 | [6966a.](Subchapter%20006%20%28VI%29%20-%20Federal%20Responsibilities/%C2%A7%2006966a%20-%20Increased%20use%20of%20recovered%20mineral%20component%20in%20federally%20funded%20projects%20involving%20procurement%20of%20cement%20or%20concrete.md) | Increased use of recovered mineral component in federally funded projects involving procurement of cement or concrete. |
 | [6966b.](Subchapter%20006%20%28VI%29%20-%20Federal%20Responsibilities/%C2%A7%2006966b%20-%20Use%20of%20granular%20mine%20tailings.md) | Use of granular mine tailings. |
+| [6966c.](Subchapter%20006%20%28VI%29%20-%20Federal%20Responsibilities/%C2%A7%2006966c%20-%20Best%20practices%20for%20battery%20recycling%20and%20labeling%20guidelines.md) | Best practices for battery recycling and labeling guidelines. |
+| [6966d.](Subchapter%20006%20%28VI%29%20-%20Federal%20Responsibilities/%C2%A7%2006966d%20-%20Consumer%20recycling%20education%20and%20outreach%20grant%20program%3B%20Federal%20procurement.md) | Consumer recycling education and outreach grant program; Federal procurement. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

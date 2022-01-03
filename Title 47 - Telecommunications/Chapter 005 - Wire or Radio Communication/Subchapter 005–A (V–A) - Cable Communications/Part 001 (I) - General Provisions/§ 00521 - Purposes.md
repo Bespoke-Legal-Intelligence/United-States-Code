@@ -64,7 +64,7 @@ Findings.—The Congress finds and declares the following:
 
 &emsp;"(11) Broadcast television stations continue to be an important source of local news and public affairs programming and other local broadcast services critical to an informed electorate.
 
-&emsp;"(12) Broadcast television programming is supported by revenues generated from advertising broadcast over stations. Such programming is otherwise free to those who own television sets and do not require cable transmission to receive broadcast signals. There is a substantial governmental interest in promoting the continued availability of such free television programming, especially for viewers who areunable to afford other means of receiving programming.
+&emsp;"(12) Broadcast television programming is supported by revenues generated from advertising broadcast over stations. Such programming is otherwise free to those who own television sets and do not require cable transmission to receive broadcast signals. There is a substantial governmental interest in promoting the continued availability of such free television programming, especially for viewers who are unable to afford other means of receiving programming.
 
 &emsp;"(13) As a result of the growth of cable television, there has been a marked shift in market share from broadcast television to cable television services.
 

@@ -34,6 +34,8 @@ There shall be an Office of Indian Education (referred to in this section as "th
 
 (Pub. L. 96–88, title II, §215, as added Pub. L. 103–382, title III, §372(2), Oct. 20, 1994, 108 Stat. 3977; amended Pub. L. 114–95, title IX, §9215(v), Dec. 10, 2015, 129 Stat. 2171.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(2)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Part A of title VI of the Act is classified generally to part A (§7401 et seq.) of subchapter VI of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
@@ -47,6 +49,8 @@ Provisions similar to those in this section were contained in section 2641 of Ti
 #### Amendments
 
 <b>2015</b>—Subsec. (b)(2)(A). Pub. L. 114–95 substituted "be responsible for administering part A of title VI of the Elementary and Secondary Education Act of 1965" for "be responsible for administering this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

@@ -10,7 +10,7 @@ Self-incrimination Prohibited.—No person shall be required to testify against 
 
 (c)
 
-Other Statements of the Accused.—A statement of the accused may be admitted inevidence in a military commission under this chapter only if the military judge finds—
+Other Statements of the Accused.—A statement of the accused may be admitted in evidence in a military commission under this chapter only if the military judge finds—
 
 &emsp;(1) that the totality of the circumstances renders the statement reliable and possessing sufficient probative value; and
 
@@ -31,6 +31,8 @@ Determination of Voluntariness.—In determining for purposes of subsection (c)(
 &emsp;(3) The lapse of time, change of place, or change in identity of the questioners between the statement sought to be admitted and any prior questioning of the accused.
 
 (Added by Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2580.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

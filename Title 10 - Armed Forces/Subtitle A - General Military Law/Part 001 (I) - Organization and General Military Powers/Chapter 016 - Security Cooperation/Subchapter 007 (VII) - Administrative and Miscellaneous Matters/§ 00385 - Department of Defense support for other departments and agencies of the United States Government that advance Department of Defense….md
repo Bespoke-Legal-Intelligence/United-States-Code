@@ -38,6 +38,8 @@ Notice and Wait.—If a determination is made to transfer funds in connection wi
 
 (Added Pub. L. 114–328, div. A, title XII, §1241(m), Dec. 23, 2016, 130 Stat. 2511; amended Pub. L. 115–232, div. A, title XII, §1204(c)(1)(E), Aug. 13, 2018, 132 Stat. 2017.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (d)(1)(B). Pub. L. 115–232 substituted "including" for "include".

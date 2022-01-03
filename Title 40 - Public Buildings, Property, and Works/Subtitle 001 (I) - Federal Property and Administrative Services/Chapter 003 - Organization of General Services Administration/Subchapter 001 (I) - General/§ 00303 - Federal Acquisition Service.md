@@ -44,7 +44,7 @@ In subsection (a)(1), the text of 40:752(a) (2d, last sentences) is omitted as e
 
 Subsection (a)(2) is substituted for 40:752(c) to eliminate obsolete language.
 
-In subsection (b), the text of 40:753(a) (related to Public Roads) is omitted because the Bureau of Public Roads was transferred to the Department of Commerce under section 1 of Reorganization Plan No. 7 of 1949 (eff.Aug. 20, 1949, 63 Stat. 1070), and subsequently transferred to the Department of Transportation under the Department of Transportation Act (Public Law 89–670, 80 Stat. 931). The text of 40:753(a) (last sentence related to Federal Works Agency transfers) and (b) is omitted as executed.
+In subsection (b), the text of 40:753(a) (related to Public Roads) is omitted because the Bureau of PublicRoads was transferred to the Department of Commerce under section 1 of Reorganization Plan No. 7 of 1949 (eff. Aug. 20, 1949, 63 Stat. 1070), and subsequently transferred to the Department of Transportation under the Department of Transportation Act (Public Law 89–670, 80 Stat. 931). The text of 40:753(a) (last sentence related to Federal Works Agency transfers) and (b) is omitted as executed.
 
 #### <b>Editorial Notes</b>
 

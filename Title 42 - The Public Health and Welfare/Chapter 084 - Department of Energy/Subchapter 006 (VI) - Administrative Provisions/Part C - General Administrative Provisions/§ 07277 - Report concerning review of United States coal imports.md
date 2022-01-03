@@ -26,9 +26,13 @@ Information and data required for the purpose of this section shall be subject t
 
 (Pub. L. 99–58, title II, §202, July 2, 1985, 99 Stat. 107.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Energy Policy and Conservation Amendments Act of 1985, and also as part of the National Coal Imports Reporting Act of 1985, and not as part of the Department of Energy Organization Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 
@@ -74,5 +78,5 @@ Contents.—The report required by this section shall—
 
 &emsp;"(9) identify specifically the participation of all United States corporations involved in mining and exporting coal from foreign nations; and
 
-&emsp;"(10) identify the policies governing coal imports of all coal-importing industrialized nations (including the United States, Japan, and European nations) by considering such factors as import duties or tariffs,import quotas, and other governmental restrictions or trade policies impacting coal imports."
+&emsp;"(10) identify the policies governing coal imports of all coal-importing industrialized nations (including the United States, Japan, and European nations) by considering such factors as import duties or tariffs, import quotas, and other governmental restrictions or trade policies impacting coal imports."
 

@@ -2,7 +2,7 @@
 
 (a)(1) From amounts made available under section 9835(a)(2)(B)(vi) of this title, the Secretary shall award the collaboration grants described in paragraphs (2), (3), and (4).
 
-(2)(A) The Secretary shall award, upon submission of a written request, a collaboration grant to each State and to each national administrative office serving Indian Head Start programs and migrant or seasonal Head Start programs to facilitate collaboration among Head Start agencies (including Early Head Start agencies) and entities that carry out activities designed tobenefit low-income children from birth to school entry, and their families. The national administrative offices shall use the funds made available through the grants to carry out the authorities and responsibilities described in subparagraph (B) and paragraphs (3) and (4), as appropriate.
+(2)(A) The Secretary shall award, upon submission of a written request, a collaboration grant to each State and to each national administrative office serving Indian Head Start programs and migrant or seasonal Head Start programs to facilitate collaboration among Head Start agencies (including Early Head Start agencies) andentities that carry out activities designed to benefit low-income children from birth to school entry, and their families. The national administrative offices shall use the funds made available through the grants to carry out the authorities and responsibilities described in subparagraph (B) and paragraphs (3) and (4), as appropriate.
 
 (B) Grants described in subparagraph (A) shall be used to—
 
@@ -52,7 +52,7 @@
 
 &emsp;(E) promote partnerships between Head Start agencies, schools, law enforcement, relevant community-based organizations, and substance abuse and mental health treatment agencies to strengthen family and community environments and to reduce the impact on child development of substance abuse, child abuse, domestic violence, and other high-risk behaviors that compromise healthy development;
 
-&emsp;(F) promote partnerships between Head Start agencies and other organizations inorder to enhance Head Start program quality, including partnerships to promote inclusion of more books in Head Start classrooms;
+&emsp;(F) promote partnerships between Head Start agencies and other organizations in order to enhance Head Start program quality, including partnerships to promote inclusion of more books in Head Start classrooms;
 
 &emsp;(G) identify other resources and organizations (both public and private) for the provision of in-kind services to Head Start agencies in the State; and
 
@@ -110,7 +110,7 @@
 
 (2)(A) The Secretary shall use the portion reserved under section 9835(a)(4)(A)(iii) of this title to award, on a competitive basis, one-time startup grants of not less than $500,000 to eligible States to enable such States to pay for the Federal share of developing and implementing a plan pursuant to the responsibilities included under paragraph (1)(D)(i). A State that receives funds under this paragraph shall use such funds to facilitate the development or enhancement of high-quality systems of early childhood education and care designed to improve school preparedness through one or more of the following activities—
 
-&emsp;(i) promoting school preparedness of children from birth through school entry, including activities to encourage families and caregivers to engage in highly interactive, developmentally and age-appropriate activities to improve children's early social, emotional, and cognitive development, support the transition of young children to school, and foster parental and family involvement in the early education of young children;
+&emsp;(i) promoting school preparedness of children from birth through school entry, including activities to encourage families and caregivers to engage in highly interactive, developmentally and age-appropriate activities to improve children's early social, emotional,and cognitive development, support the transition of young children to school, and foster parental and family involvement in the early education of young children;
 
 &emsp;(ii) supporting professional development, recruitment, and retention initiatives for early childhood educators;
 
@@ -147,6 +147,8 @@
 (F) Nothing in this subsection shall be construed to provide the State Advisory Council with authority to modify, supersede, or negate the requirements of this subchapter.
 
 (Pub. L. 97–35, title VI, §642B, as added and amended Pub. L. 110–134, §11, Dec. 12, 2007, 121 Stat. 1408.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

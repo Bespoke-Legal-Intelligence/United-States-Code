@@ -18,7 +18,9 @@ The Secretary may issue and have outstanding at any one time notes and other obl
 
 (3) Any amount of budget authority (and contract authority) that becomes available during any fiscal year as a result of the forgiveness of any loan, note, or obligation under this subsection shall be rescinded.
 
-(Sept. 1, 1937, ch. 896, title I, §4, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 656; amended Pub. L. 97–35, title III, §322(c), Aug. 13, 1981, 95 Stat. 402; Pub. L. 98–479, title II, §203(b)(1), Oct. 17, 1984, 98 Stat. 2229; Pub. L. 99–272, title III, §3004, Apr. 7, 1986, 100 Stat. 102; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 101–625, title V, §572(2), Nov. 28, 1990, 104 Stat. 4236.)
+(Sept. 1, 1937, ch. 896, title I, §4, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 656; amended Pub. L. 97–35, title III, §322(c), Aug. 13, 1981, 95 Stat. 402; Pub. L. 98–479, title II,§203(b)(1), Oct. 17, 1984, 98 Stat. 2229; Pub. L. 99–272, title III, §3004, Apr. 7, 1986, 100 Stat. 102; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 101–625, title V, §572(2), Nov. 28, 1990, 104 Stat. 4236.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -33,6 +35,8 @@ A prior section 4 of act Sept. 1, 1937, ch. 896, 50 Stat. 889, as amended, provi
 <b>1984</b>—Subsec. (b). Pub. L. 98–479 substituted "chapter 31 of title 31" for "the Second Liberty Bond Act, as amended" and "such chapter" for "such Act".
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–35 substituted reference to lower income for reference to low-income in two places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1981 Amendment
 

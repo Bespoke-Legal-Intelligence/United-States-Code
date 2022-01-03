@@ -2,11 +2,13 @@
 
 (a) Subject to standards, policies, and procedures prescribed by the Secretary of Defense, the Secretary of each military department shall prescribe such regulations as the Secretary considers necessary to carry out provisions of law relating to the reserve components under the Secretary's jurisdiction.
 
-(b) The Secretary of Homeland Security, with the concurrence of the Secretary of the Navy, shall prescribe such regulations as the Secretary considers necessary to carry out all provisions of law relating to the reserve components insofar as they relate to the Coast Guard, except when the Coast Guard is operating as a service in the Navy.
+(b) The Secretary of Homeland Security, with the concurrence of the Secretary of the Navy, shall prescribe such regulations as the Secretary considers necessary to carry out all provisions of law relating to the reserve components insofar as they relate to the Coast Guard, exceptwhen the Coast Guard is operating as a service in the Navy.
 
 (c) So far as practicable, regulations for all reserve components shall be uniform.
 
 (Added Pub. L. 103–337, div. A, title XVI, §1661(a)(1), Oct. 5, 1994, 108 Stat. 2976; amended Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -15,6 +17,8 @@ Provisions similar to those in this section were contained in section 280 of thi
 #### Amendments
 
 <b>2002</b>—Subsec. (b). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

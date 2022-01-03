@@ -38,7 +38,7 @@ For purposes of this section—
 
 #### (3) Contributions which may be returned to employer
 
-&emsp;In determining the amount of nondeductible contributions for any taxable year, there shallnot be taken into account any contribution for such taxable year which is distributed to the employer in a distribution described in section 4980(c)(2)(B)(ii) if such distribution is made on or before the last day on which a contribution may be made for such taxable year under section 404(a)(6).
+&emsp;In determining the amount of nondeductible contributions for any taxable year, there shall not be taken into account any contribution for such taxable year which is distributed to the employer in a distribution described in section 4980(c)(2)(B)(ii) if such distribution is made on or before the last day on which a contribution may be made for such taxable year under section 404(a)(6).
 
 #### (4) Special rule for self-employed individuals
 
@@ -94,7 +94,9 @@ For purposes of this section—
 
 &emsp;In the case of a plan which provides contributions or benefits for employees some or all of whom are self-employed individuals within the meaning of section 401(c)(1), the term "employer" means the person treated as the employer under section 401(c)(4).
 
-(Added Pub. L. 99–514, title XI, §1131(c)(1), Oct. 22, 1986, 100 Stat. 2477; amended Pub. L. 100–647, title I, §1011A(e)(1), (2), title II, §2005(a)(1), Nov. 10, 1988, 102 Stat. 3477, 3610; Pub. L. 103–465, title VII, §755(a), Dec. 8, 1994, 108 Stat. 5023; Pub. L. 104–188, title I, §1421(b)(9)(D), Aug. 20, 1996, 110 Stat. 1798; Pub. L. 105–34, title XV, §1507(a), Aug. 5, 1997, 111 Stat. 1067; Pub. L. 107–16, title VI, §§616(b)(2)(B), 637(a), (b), 652(b), 653(a), June 7, 2001, 115 Stat. 103, 118, 130; Pub. L. 108–311, title IV, §§404(c), 408(b)(9), Oct. 4, 2004, 118 Stat. 1188, 1193; Pub. L. 109–280, title I, §114(e)(5), title VIII, §803(c), Aug. 17, 2006, 120 Stat. 855, 996.)
+(Added Pub. L. 99–514, title XI, §1131(c)(1), Oct. 22, 1986, 100 Stat. 2477; amended Pub. L. 100–647, title I, §1011A(e)(1), (2), title II, §2005(a)(1), Nov. 10, 1988, 102 Stat. 3477, 3610; Pub. L. 103–465, title VII, §755(a), Dec. 8, 1994, 108 Stat. 5023; Pub. L. 104–188, title I, §1421(b)(9)(D), Aug. 20, 1996, 110 Stat. 1798; Pub. L. 105–34, title XV, §1507(a), Aug. 5, 1997, 111 Stat. 1067; Pub. L. 107–16, title VI, §§616(b)(2)(B), 637(a), (b), 652(b), 653(a), June 7, 2001, 115 Stat. 103, 118, 130; Pub. L. 108–311, titleIV, §§404(c), 408(b)(9), Oct. 4, 2004, 118 Stat. 1188, 1193; Pub. L. 109–280, title I, §114(e)(5), title VIII, §803(c), Aug. 17, 2006, 120 Stat. 855, 996.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -167,6 +169,8 @@ Subsec. (d)(1). Pub. L. 100–647, §1011A(e)(2), amended par. (1) generally. Pr
 &emsp;"(B) an annuity plan described in section 403(a), and
 
 &emsp;"(C) any simplified employee pension (within the meaning of section 408(k))."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

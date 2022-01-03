@@ -16,7 +16,7 @@ The Secretary shall provide payment for obligations incurred by the Secretary un
 
 #### (1) In general
 
-&emsp;In making cost sharing payments to an owner or operator under a contract entered into under this subpart, the Secretary shall pay 50 percent of the cost of establishing water quality and conservation measures and practices required under each contract for which the Secretary determines that cost sharing is appropriate and in the public interest.
+&emsp;In making cost sharing payments to an owner or operator under a contract enteredinto under this subpart, the Secretary shall pay 50 percent of the cost of establishing water quality and conservation measures and practices required under each contract for which the Secretary determines that cost sharing is appropriate and in the public interest.
 
 #### (2) Limitations
 
@@ -54,7 +54,7 @@ The Secretary shall provide payment for obligations incurred by the Secretary un
 
 #### (1) In general
 
-&emsp;In determining the amount of annual rental payments to be paid to owners and operatorsfor converting highly erodible cropland or other eligible lands normally devoted to the production of an agricultural commodity to less intensive use, the Secretary shall consider—
+&emsp;In determining the amount of annual rental payments to be paid to owners and operators for converting highly erodible cropland or other eligible lands normally devoted to the production of an agricultural commodity to less intensive use, the Secretary shall consider—
 
 &emsp;&emsp;(A) the amount necessary to encourage owners or operators of highly erodible cropland or other eligible lands to participate in the program established by this subpart;
 
@@ -90,7 +90,7 @@ The Secretary shall provide payment for obligations incurred by the Secretary un
 
 #### (A) Evaluation of offers
 
-&emsp;&emsp;In determining the acceptability of contract offers, the Secretary may take into consideration the extent to which enrollment of the land that is the subject of the contract offer would improve soil resources, water quality, or wildlife habitat or provide other environmental benefits.
+&emsp;&emsp;In determining the acceptability of contract offers, the Secretary may take intoconsideration the extent to which enrollment of the land that is the subject of the contract offer would improve soil resources, water quality, or wildlife habitat or provide other environmental benefits.
 
 #### (B) Establishment of different criteria in various States and regions
 
@@ -166,7 +166,7 @@ If an owner or operator that is entitled to a payment under a contract entered i
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the total amount of rental payments received by a person or legal entity, directly or indirectly, under this subpart for any fiscal year may not exceed $50,000.
+&emsp;Except as provided in paragraph (2), the total amount of rental payments received by aperson or legal entity, directly or indirectly, under this subpart for any fiscal year may not exceed $50,000.
 
 #### (2) Wellhead protection
 
@@ -177,6 +177,8 @@ If an owner or operator that is entitled to a payment under a contract entered i
 In addition to any payment under this subpart, an owner or operator may receive cost share assistance, rental payments, or tax benefits from a State or subdivision thereof for enrolling land in the conservation reserve program.
 
 (Pub. L. 99–198, title XII, §1234, as added Pub. L. 107–171, title II, §2101(a), May 13, 2002, 116 Stat. 245; amended Pub. L. 110–234, title II, §§2109, 2110(a), (b)(1), (c), May 22, 2008, 122 Stat. 1034, 1035; Pub. L. 110–246, §4(a), title II, §§2109, 2110(a), (b)(1), (c), June 18, 2008, 122 Stat. 1664, 1762, 1763; Pub. L. 113–79, title II, §2005, Feb. 7, 2014, 128 Stat. 718; Pub. L. 115–334, title II, §2207, Dec. 20, 2018, 132 Stat. 4546.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -287,6 +289,8 @@ Subsec. (f)(1). Pub. L. 110–246, §2110(c)(1), substituted "received by a pers
 Subsec. (f)(2). Pub. L. 110–246, §2110(c)(2), struck out par. (2) which related to promulgation of regulations defining the term "person" as used in subsec. (f) and providing terms and conditions determined necessary to ensure a fair and reasonable application of the subsec. (f) limitation.
 
 Subsec. (f)(4)(A). Pub. L. 110–246, §2110(c)(3), substituted "any person or legal entity" for "any person".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

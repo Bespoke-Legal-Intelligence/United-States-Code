@@ -6,13 +6,15 @@ During the period commencing at 2 o'clock antemeridian on the second Sunday of M
 
 #### (b) State laws superseded
 
-It is hereby declared that it is the express intent of Congress by this section to supersede anyand all laws of the States or political subdivisions thereof insofar as they may now or hereafter provide for advances in time or changeover dates different from those specified in this section.
+It is hereby declared that it is the express intent of Congress by this section to supersede any and all laws of the States or political subdivisions thereof insofar as they may now or hereafter provide for advances in time or changeover dates different from those specified in this section.
 
 #### (c) Violations; enforcement
 
 For any violation of the provisions of this section the Secretary of Transportation or his duly authorized agent may apply to the district court of the United States for the district in which such violation occurs for the enforcement of this section; and such court shall have jurisdiction to enforce obedience thereto by writ of injunction or by other process, mandatory or otherwise, restraining against further violations of this section and enjoining obedience thereto.
 
 (Pub. L. 89–387, §3, Apr. 13, 1966, 80 Stat. 107; Pub. L. 92–267, Mar. 30, 1972, 86 Stat. 116; Pub. L. 97–449, §2(c), Jan. 12, 1983, 96 Stat. 2439; Pub. L. 99–359, §2(b), July 8, 1986, 100 Stat. 764; Pub. L. 109–58, title I, §110(a), Aug. 8, 2005, 119 Stat. 615.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -23,6 +25,8 @@ For any violation of the provisions of this section the Secretary of Transportat
 <b>1983</b>—Subsec. (c). Pub. L. 97–449 substituted "Secretary of Transportation or his" for "Interstate Commerce Commission or its".
 
 <b>1972</b>—Subsec. (a). Pub. L. 92–267 authorized any State with parts thereof lying in more than one time zone to exempt by law that part of such State lying within any time zone from provisions of this subsection providing for advancement of time.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2005 Amendment
 
@@ -54,7 +58,7 @@ Pub. L. 99–359, §2(a), July 8, 1986, 100 Stat. 764, provided that: "The Congr
 
 &emsp;"(3) that daylight saving time over an expanded period could serve as an incentive for further energy conservation by individuals, companies, and the various governmental entities at all levels of government, and that such energy conservation efforts could lead to greatly expanded energy savings; and
 
-&emsp;"(4) that the use of daylight saving time over an expanded period could have other beneficial effects on the public interest, including the reduction of crime, improved traffic safety, more daylight outdoor playtime for the children and youth of our Nation, greater utilization of parks and recreation areas, expanded economic opportunity through extension of daylight hours to peak shopping hours and through extension of domestic office hours to periods of greater overlap with the European Economic Community."
+&emsp;"(4) that the use of daylight saving time over an expanded period could have other beneficial effects onthe public interest, including the reduction of crime, improved traffic safety, more daylight outdoor playtime for the children and youth of our Nation, greater utilization of parks and recreation areas, expanded economic opportunity through extension of daylight hours to peak shopping hours and through extension of domestic office hours to periods of greater overlap with the European Economic Community."
 
 #### Effectiveness of State Exemption in Effect on July 8, 1986
 
@@ -79,6 +83,8 @@ Pub. L. 99–359, §2(d), July 8, 1986, 100 Stat. 764, provided that:
 #### Emergency Daylight Saving Time Energy Conservation
 
 Pub. L. 93–182, Dec. 15, 1973, 87 Stat. 707, as amended by Pub. L. 93–434, Oct. 5, 1974, 88 Stat. 1209, enacted the Emergency Daylight Saving Time Energy Conservation Act of 1973, which extended daylight saving time. The act was effective at 2 a.m. on the fourth Sunday which occurred after Dec. 15, 1973 and terminated at 2 a.m. on the last Sunday of April 1975.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 11751. Exemptions From Daylight Saving Time and Realignments of Time Zone Limits
 

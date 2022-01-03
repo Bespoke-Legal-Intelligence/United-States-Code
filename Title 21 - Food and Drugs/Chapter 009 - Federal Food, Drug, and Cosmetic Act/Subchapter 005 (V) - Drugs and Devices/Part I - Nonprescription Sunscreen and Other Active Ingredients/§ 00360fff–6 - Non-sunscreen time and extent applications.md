@@ -10,7 +10,7 @@
 
 #### (B) Request requirements
 
-&emsp;&emsp;A request for a framework for review of an application made under subparagraph (A)shall be made within 180 calendar days of November 26, 2014, and shall include the preference of such sponsor as to whether such application is reviewed by the Secretary in accordance with—
+&emsp;&emsp;A request for a framework for review of an application made under subparagraph (A) shall be made within 180 calendar days of November 26, 2014, and shall include the preference of such sponsor as to whether such application is reviewed by the Secretary in accordance with—
 
 &emsp;&emsp;&emsp;(i) the processes and procedures set forth for pending requests under section 360fff–3(b) of this title, except that specific timelines shall be determined in accordance with other applicable requirements under this section;
 
@@ -36,7 +36,7 @@
 
 #### (A) Election
 
-&emsp;&emsp;Not later than 60 calendar days after the Secretary provides a framework to a sponsor under paragraph (2), such sponsor may provide an election to the Secretary regarding the processes and procedures for review under clause (i), (ii), (iii), or (iv) of paragraph (1)(B). If such sponsor makes such election, the Secretary shall review the application that is the subject of such election pursuant to the processes and procedures elected by such sponsor and the applicable timelines in calendar days set forth under such framework, which the Secretary shall confirm in writing to the sponsor not later than the date upon which the Secretary provides a report under paragraph (4). If such sponsor does not make such election, such application shall be reviewed by the Secretary in accordance with the timelines of the applicable regulations when such regulations are finalized under subsection (b).
+&emsp;&emsp;Not later than 60 calendar days after the Secretary provides a framework to a sponsor under paragraph (2), such sponsor may provide an election to the Secretary regarding the processes and procedures for review under clause (i), (ii), (iii), or (iv) of paragraph (1)(B). If such sponsor makes such election, the Secretary shall review the application that is the subject of such election pursuant to the processes and procedures elected by such sponsor and the applicable timelines in calendar days set forth undersuch framework, which the Secretary shall confirm in writing to the sponsor not later than the date upon which the Secretary provides a report under paragraph (4). If such sponsor does not make such election, such application shall be reviewed by the Secretary in accordance with the timelines of the applicable regulations when such regulations are finalized under subsection (b).
 
 #### (B) Different processes and procedures
 
@@ -98,7 +98,7 @@
 
 #### (4) Restrictions
 
-&emsp;Notwithstanding any other provision of law, the Secretary shall promulgate regulations implementing this section only as described in paragraphs (1), (2), and (3).
+&emsp;Notwithstanding any other provision of law, the Secretary shall promulgate regulationsimplementing this section only as described in paragraphs (1), (2), and (3).
 
 #### (5) Final regulations
 

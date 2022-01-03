@@ -52,7 +52,7 @@ Quarterly reports.—The Board shall post a quarterly report of formal and infor
 
 &emsp;(3)
 
-Written consent.—The quarterly report may identify a complainant that submitted an informal complaint only upon the written consent of the complainant.
+Written consent.—The quarterly report may identify a complainant that submitted aninformal complaint only upon the written consent of the complainant.
 
 &emsp;(4)
 
@@ -60,11 +60,15 @@ Website posting.—Each quarterly report shall be posted on the Board's public w
 
 (Added Pub. L. 104–88, title II, §201(a), Dec. 29, 1995, 109 Stat. 934, §704; renumbered §1304 and amended Pub. L. 114–110, §§3(a)(3), 6, Dec. 18, 2015, 129 Stat. 2228, 2231.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Pub. L. 114–110, §6, substituted "Reports" for "Annual report" in section catchline, designated existing provisions as subsec. (a) and inserted heading, substituted "on its activities, including each instance in which the Board has initiated an investigation on its own initiative under this chapter or subtitle IV." for "on its activities.", and added subsecs. (b) and (c).
 
 Pub. L. 114–110, §3(a)(3), renumbered section 704 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Quarterly Reports
 

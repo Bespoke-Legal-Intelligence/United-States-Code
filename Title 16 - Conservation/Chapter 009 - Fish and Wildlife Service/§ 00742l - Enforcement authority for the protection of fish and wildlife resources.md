@@ -52,7 +52,7 @@ Notwithstanding any other provision of law, the Secretary of the Interior and th
 
 &emsp;&emsp;&emsp;(iv) sale or other disposal of the items in accordance with applicable law, including auctioneer commissions and related expenses;
 
-&emsp;&emsp;&emsp;(v) payment of any valid liens or other encumbrances on the items and payment for other measures required to clear title to the items; and
+&emsp;&emsp;&emsp;(v) payment of any valid liens or other encumbrances on the items and paymentfor other measures required to clear title to the items; and
 
 &emsp;&emsp;&emsp;(vi) in the case of the Secretary of the Interior only, processing and shipping of eagles and other migratory birds, and parts of migratory birds, for Native American religious purposes.
 
@@ -74,6 +74,8 @@ With respect to any undercover or other enforcement operation which is necessary
 
 (Pub. L. 95–616, §3 (less (e)–(j)), Nov. 8, 1978, 92 Stat. 3110; Pub. L. 97–396, §7, Dec. 31, 1982, 96 Stat. 2006; Pub. L. 105–328, §3, Oct. 30, 1998, 112 Stat. 3058.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This section, referred to in subsec. (d), means section 3 of Pub. L. 95–616, which in addition to enacting this section, enacted section 712 of this title and amended sections 460k–3, 668dd, 690e, 706, and 718f of this title and sections 1114 and 3112 of Title 18, Crimes and Criminal Procedure.
@@ -87,6 +89,8 @@ Section is comprised of subsecs. (a) to (d) and (k) of section 3 of Pub. L. 95�
 <b>1998</b>—Subsec. (c). Pub. L. 105–328 designated existing provisions as par. (1) and inserted heading, substituted "Subject to paragraph (2), notwithstanding" for "Notwithstanding", and added pars. (2) and (3).
 
 <b>1982</b>—Subsec. (k). Pub. L. 97–396 added subsec. (k).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Congressional Findings and Purposes
 

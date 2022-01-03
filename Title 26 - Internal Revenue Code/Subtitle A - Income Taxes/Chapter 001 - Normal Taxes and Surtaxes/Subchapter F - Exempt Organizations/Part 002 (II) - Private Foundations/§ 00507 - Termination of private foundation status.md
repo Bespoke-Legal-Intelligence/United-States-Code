@@ -56,7 +56,7 @@ There is hereby imposed on each organization which is referred to in subsection 
 
 #### (A) Definition
 
-&emsp;&emsp;For purposes of paragraph (1), the term "substantial contributor" means any person who contributed or bequeathed an aggregate amount of more than $5,000 to the private foundation, if such amount is more than 2 percent of the total contributions and bequests received by the foundation before the close of the taxable year of the foundation in which the contribution or bequest is received by the foundation from such person. In the case of a trust, the term "substantialcontributor" also means the creator of the trust.
+&emsp;&emsp;For purposes of paragraph (1), the term "substantial contributor" means any person who contributed or bequeathed an aggregate amount of more than $5,000 to the private foundation, if such amount is more than 2 percent of the total contributions and bequests received by the foundation before the close of the taxable year of the foundation in which the contribution or bequest is received by the foundation from such person. In the case of a trust, the term "substantial contributor" also means the creator of the trust.
 
 #### (B) Special rules
 
@@ -110,11 +110,15 @@ The Secretary may abate the unpaid portion of the assessment of any tax imposed 
 
 (Added Pub. L. 91–172, title I, §101(a), Dec. 30, 1969, 83 Stat. 492; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title III, §313(a), July 18, 1984, 98 Stat. 786.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Subsec. (d)(2)(C). Pub. L. 98–369 added subpar. (C).
 
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

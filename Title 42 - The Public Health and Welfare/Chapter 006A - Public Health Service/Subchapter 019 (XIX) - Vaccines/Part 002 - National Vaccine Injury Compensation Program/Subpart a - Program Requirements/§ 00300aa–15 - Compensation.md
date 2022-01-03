@@ -32,7 +32,7 @@ Compensation awarded under the Program to a petitioner under section 300aa–11 
 
 #### (b) Vaccines administered before effective date
 
-Compensation awarded under the Program to a petitioner under section 300aa–11 of this title for a vaccine-related injury or death associated with the administration of a vaccine before October 1, 1988, may include the compensation described in paragraphs (1)(A) and (2) of subsection (a) and may also include an amount, not to exceed a combined total of $30,000, for—
+Compensation awarded under the Program to a petitioner under section 300aa–11 of this titlefor a vaccine-related injury or death associated with the administration of a vaccine before October 1, 1988, may include the compensation described in paragraphs (1)(A) and (2) of subsection (a) and may also include an amount, not to exceed a combined total of $30,000, for—
 
 &emsp;(1) lost earnings (as provided in paragraph (3) of subsection (a)),
 
@@ -82,7 +82,7 @@ Compensation awarded under the Program may not include the following:
 
 #### (g) Program not primarily liable
 
-Payment of compensation under the Program shall not be made for any item or service to the extent that payment has been made, or can reasonably be expected to be made, with respect to such item or service (1) under any State compensation program, under an insurance policy, or under any Federal or State health benefits program (other than under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\]), or (2) by an entity which provides health services on a prepaid basis.
+Payment of compensation under the Program shall not be made for any item or service to theextent that payment has been made, or can reasonably be expected to be made, with respect to such item or service (1) under any State compensation program, under an insurance policy, or under any Federal or State health benefits program (other than under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\]), or (2) by an entity which provides health services on a prepaid basis.
 
 #### (h) Liability of health insurance carriers, prepaid health plans, and benefit providers
 
@@ -98,13 +98,15 @@ No policy of health insurance may make payment of benefits under the policy seco
 
 (1) Payment of compensation under the Program to a petitioner for a vaccine-related injury or death associated with the administration of a vaccine before October 1, 1988, shall be made by the Secretary from appropriations under subsection (j).
 
-(2) Payment of compensation under the Program to a petitioner for a vaccine-related injury or death associated with the administration of avaccine on or after October 1, 1988, shall be made from the Vaccine Injury Compensation Trust Fund established under section 9510 of title 26.
+(2) Payment of compensation under the Program to a petitioner for a vaccine-related injury or death associated with the administration of a vaccine on or after October 1, 1988, shall be made from the Vaccine Injury Compensation Trust Fund established under section 9510 of title 26.
 
 #### (j) Authorization
 
 For the payment of compensation under the Program to a petitioner for a vaccine-related injury or death associated with the administration of a vaccine before October 1, 1988, there are authorized to be appropriated to the Department of Health and Human Services $80,000,000 for fiscal year 1989, $80,000,000 for fiscal year 1990, $80,000,000 for fiscal year 1991, $80,000,000 for fiscal year 1992, $110,000,000 for fiscal year 1993, and $110,000,000 for each succeeding fiscal year in which a payment of compensation is required under subsection (f)(4)(B). Amounts appropriated under this subsection shall remain available until expended.
 
 (July 1, 1944, ch. 373, title XXI, §2115, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3767; amended Pub. L. 100–203, title IV, §§4302(b), 4303(a)–(d)(1), (e), (g), 4307(5), (6), Dec. 22, 1987, 101 Stat. 1330–221 to 1330–223, 1330–225; Pub. L. 100–360, title IV, §411(o)(1), July 1, 1988, 102 Stat. 808; Pub. L. 101–239, title VI, §6601(c)(8), (l), Dec. 19, 1989, 103 Stat. 2286, 2290; Pub. L. 101–502, §5(d), Nov. 3, 1990, 104 Stat. 1287; Pub. L. 102–168, title II, §201(e), (f), Nov. 26, 1991, 105 Stat. 1103; Pub. L. 102–531, title III, §314, Oct. 27, 1992, 106 Stat. 3508; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–66, title XIII, §13632(b), Aug. 10, 1993, 107 Stat. 646.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -195,6 +197,8 @@ Subsec. (f)(2). Pub. L. 100–203, §4307(6), substituted "United States Claims 
 Subsecs. (g), (h). Pub. L. 100–203, §4303(g), redesignated a second subsec. (f), relating to the Program not being liable, as (g) and redesignated former subsec. (g) as (h).
 
 Subsecs. (i), (j). Pub. L. 100–203, §4303(a), (b), added subsecs. (i) and (j).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

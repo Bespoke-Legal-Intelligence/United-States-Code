@@ -7,6 +7,8 @@ Subpart C—Insolvent Plans
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Pub. L. 113–235, div. O, title I, §108(b)(3)(B), (C), Dec. 16, 2014, 128 Stat. 2789, substituted "Insolvent Plans" for "Special Rules for Multiemployer Plans" in subpart heading and struck out items 418 "Reorganization status", 418A "Notice of reorganization and funding requirements", 418B "Minimum contribution requirement", 418C "Overburden credit against minimum contribution requirement", and 418D "Adjustments in accrued benefits".

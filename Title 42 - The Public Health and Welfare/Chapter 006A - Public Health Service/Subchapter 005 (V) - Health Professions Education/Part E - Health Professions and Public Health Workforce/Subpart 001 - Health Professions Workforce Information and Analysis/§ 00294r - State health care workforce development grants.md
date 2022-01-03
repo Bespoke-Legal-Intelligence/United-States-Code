@@ -22,7 +22,7 @@ The Health Resources and Services Administration of the Department of Health and
 
 #### (2) Eligibility
 
-&emsp;To be eligible to receive a planning grant, an entity shall be an eligible partnership. An eligible partnership shall be a State workforce investment board, if it includes or modifies the members to include at least one representative from each of the following: health care employer, labor organization, a public 2-year institution of higher education, a public 4-year institution of higher education, the recognized State federation of labor, the State public secondary education agency, the State P–16 or P–20 Council if such a council exists, and a philanthropic organization that is actively engaged in providing learning, mentoring, and work opportunities to recruit, educate, and train individuals for, and retain individuals in, careers in health care and related industries.
+&emsp;To be eligible to receive a planning grant, an entity shall be an eligible partnership. An eligible partnership shall be a State workforce investment board, if it includes or modifies the members to include at least one representative from each of the following: health care employer, labor organization, a public 2-year institution of higher education, a public 4-year institution of higher education, the recognizedState federation of labor, the State public secondary education agency, the State P–16 or P–20 Council if such a council exists, and a philanthropic organization that is actively engaged in providing learning, mentoring, and work opportunities to recruit, educate, and train individuals for, and retain individuals in, careers in health care and related industries.
 
 #### (3) Fiscal and administrative agent
 
@@ -160,13 +160,15 @@ The Health Resources and Services Administration of the Department of Health and
 
 #### (1) Planning grants
 
-&emsp;There are authorized to be appropriated to award planning grants under subsection (c) $8,000,000 for fiscal year 2010, and such sums as may be necessary for each subsequent fiscal year.
+&emsp;There are authorized to be appropriated to award planning grants under subsection (c)$8,000,000 for fiscal year 2010, and such sums as may be necessary for each subsequent fiscal year.
 
 #### (2) Implementation grants
 
 &emsp;There are authorized to be appropriated to award implementation grants under subsection (d), $150,000,000 for fiscal year 2010, and such sums as may be necessary for each subsequent fiscal year.
 
 (Pub. L. 111–148, title V, §5102, Mar. 23, 2010, 124 Stat. 599.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -203,6 +205,8 @@ Section 294aa, act July 1, 1944, ch. 373, title VII, §759, as added Oct. 12, 19
 Section 294bb, act July 1, 1944, ch. 373, title VII, §760, as added Nov. 6, 1990, Pub. L. 101–527, §6, 104 Stat. 2323, related to grants and other assistance for students from disadvantaged backgrounds. See section 293a of this title.
 
 Section 294cc, act July 1, 1944, ch. 373, title VII, §761, as added Nov. 6, 1990, Pub. L. 101–527, §6, 104 Stat. 2325, related to a loan repayment program regarding service on faculties of certain health professions schools. See section 293b of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

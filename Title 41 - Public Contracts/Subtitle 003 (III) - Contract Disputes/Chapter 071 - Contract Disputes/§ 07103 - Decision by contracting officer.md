@@ -66,7 +66,7 @@ No authority to settle.—This section does not authorize an agency head to sett
 
 &emsp;(2)
 
-Liability of contractor.—If a contractor is unable to support any part of the contractor's claim and it is determined thatthe inability is attributable to a misrepresentation of fact or fraud by the contractor, then the contractor is liable to the Federal Government for an amount equal to the unsupported part of the claim plus all of the Federal Government's costs attributable to reviewing the unsupported part of the claim. Liability under this paragraph shall be determined within 6 years of the commission of the misrepresentation of fact or fraud.
+Liability of contractor.—If a contractor is unable to support any part of the contractor's claim and it is determined that the inability is attributable to a misrepresentation of fact or fraud by the contractor, then the contractor is liable to the Federal Government for an amount equal to the unsupported part of the claim plus all of the Federal Government's costs attributable to reviewing the unsupported part of the claim. Liability under this paragraph shall be determined within 6 years of the commission of the misrepresentation of fact or fraud.
 
 (d)
 
@@ -114,7 +114,7 @@ Alternative Means of Dispute Resolution.—
 
 &emsp;(1)
 
-In general.—Notwithstanding any other provision of this chapter, a contractor and a contracting officer may use any alternative means of dispute resolution under subchapter IV of chapter 5 of title 5, or other mutually agreeable procedures, for resolving claims. All provisions of subchapter IV of chapter 5 of title 5 apply to alternative means of dispute resolution under this subsection.
+In general.—Notwithstanding any other provision of this chapter, a contractor and a contracting officer may use any alternative means of dispute resolution under subchapter IV of chapter 5 of title 5, or other mutuallyagreeable procedures, for resolving claims. All provisions of subchapter IV of chapter 5 of title 5 apply to alternative means of dispute resolution under this subsection.
 
 &emsp;(2)
 

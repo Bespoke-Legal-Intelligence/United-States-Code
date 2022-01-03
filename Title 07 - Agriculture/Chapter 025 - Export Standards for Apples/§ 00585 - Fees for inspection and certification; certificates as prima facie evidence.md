@@ -4,9 +4,13 @@ For inspecting and certifying the grade, quality, and/or condition of apples, th
 
 (June 10, 1933, ch. 59, §5, 48 Stat. 124; Pub. L. 106–96, §1(c)(1), Nov. 12, 1999, 113 Stat. 1321.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1999</b>—Pub. L. 106–96 struck out "and/or pears" after "of apples".
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

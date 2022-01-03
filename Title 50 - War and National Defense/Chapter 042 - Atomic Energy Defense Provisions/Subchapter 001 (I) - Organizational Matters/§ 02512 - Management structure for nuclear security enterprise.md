@@ -26,9 +26,11 @@ The Administrator shall establish a management structure for the nuclear securit
 
 &emsp;(B) relating to any other matter in accordance with paragraph (1).
 
-(4) Not later than 60 days after the date on which any recommendation under paragraph (3) is received, the Administrator or the Secretary, as the case may be, shall respond to the Council with respect to whether such recommendationwill be implemented and the reasoning for implementing or not implementing such recommendation.
+(4) Not later than 60 days after the date on which any recommendation under paragraph (3) is received, the Administrator or the Secretary, as the case may be, shall respond to the Council with respect to whether such recommendation will be implemented and the reasoning for implementing or not implementing such recommendation.
 
 (Pub. L. 107–314, div. D, title XLI, §4102, formerly Pub. L. 104–201, div. C, title XXXI, §3140, Sept. 23, 1996, 110 Stat. 2833; renumbered Pub. L. 107–314, div. D, title XLI, §4102, and amended Pub. L. 108–136, div. C, title XXXI, §3141(d)(3), Nov. 24, 2003, 117 Stat. 1757; Pub. L. 112–239, div. C, title XXXI, §3113(a), Jan. 2, 2013, 126 Stat. 2169; Pub. L. 113–291, div. C, title XXXI, §3142(b), Dec. 19, 2014, 128 Stat. 3900.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -50,9 +52,11 @@ Subsec. (b)(3)(B). Pub. L. 113–291, §3142(b)(3), inserted "relating to" befor
 
 <b>2003</b>—Subsec. (d)(2). Pub. L. 108–136, §3141(d)(3)(D), substituted "January 21, 1997," for "120 days after the date of the enactment of this Act,".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Monitoring of Industrial Base for Nuclear Weapons Components, Subsystems, and Materials
 
-Pub. L. 116–283, div. C, title XXXI, §3113, Jan. 1, 2021, 134 Stat. 4378, provided that:
+Pub. L. 116–283, div. C, title XXXI, §3113, Jan. 1, 2021, 134 Stat. 4378, as amended by Pub. L. 117–81, div. C, title XXXI, §3135, Dec. 27, 2021, 135 Stat. 2231, provided that:
 
 "(a)
 
@@ -92,7 +96,21 @@ Initial briefing.—Not later than April 1, 2021, the Administrator shall provid
 
 &emsp;"(2)
 
-Subsequent briefings.—Not later than April 1, 2022, and annually thereafter through 2024, the Administrator shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing on activities carried out under this section that includes an assessment of the progress made by the official designated under subsection (a) in conducting the monitoring required by that subsection."
+Subsequent briefings.—Not later than April 1, 2022, and annually thereafter through 2024, the Administrator shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing on activities carried out under this section that includes an assessment of the progress made by the official designated under subsection (a) in conducting the monitoring required by that subsection.
+
+"(e)
+
+Reports.—The Administrator, acting through the official designated under subsection (a), shall submit to the Committees on Armed Services of the Senate and the House of Representatives, contemporaneously with each briefing required by subsection (d)(2), a report—
+
+&emsp;"(1) identifying actual or potential risks to or specific gaps in any element of the industrial base that supports the nuclear weapons components, subsystems, or materials of the National Nuclear Security Administration;
+
+&emsp;"(2) describing the actions the Administration is taking to further assess, characterize, and prioritize such risks and gaps;
+
+&emsp;"(3) describing mitigating actions, if any, the Administration has underway or planned to mitigate any such risks or gaps;
+
+&emsp;"(4) setting forth the anticipated timelines and resources needed for such mitigating actions; and
+
+&emsp;"(5) describing the nature of any coordination with or burden sharing by other departments or agencies of the Federal Government or the private sector to address such risks and gaps."
 
 #### Common Financial Reporting System for the Nuclear Security Enterprise
 
@@ -130,7 +148,7 @@ Report.—Each report under this subsection shall include the following:
 
 &emsp;&emsp;"(B) A summary of planned activities in connection with the implementation of a common financial reporting system for the nuclear security enterprise in the year in which such report is submitted.
 
-&emsp;&emsp;"(C) A description of any anticipated modifications to the schedule for implementing a commonfinancial reporting system for the nuclear security enterprise, including an update on possible risks, challenges, and costs related to such implementation.
+&emsp;&emsp;"(C) A description of any anticipated modifications to the schedule for implementing a common financial reporting system for the nuclear security enterprise, including an update on possible risks, challenges, and costs related to such implementation.
 
 &emsp;"(3)
 

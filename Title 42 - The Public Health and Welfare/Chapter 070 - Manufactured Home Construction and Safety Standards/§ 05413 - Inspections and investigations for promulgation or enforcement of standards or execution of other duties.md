@@ -38,7 +38,7 @@ Each manufacturer of manufactured homes shall submit the building plans for ever
 
 #### (f) Records, reports and information from manufacturers, distributors and retailers of manufactured homes; inspection and examination of relevant books, papers, records and documents by designated person
 
-Each manufacturer, distributor, and retailer of manufactured homes shall establish and maintain such records, make such reports, and provide such information as the Secretary mayreasonably require to enable him to determine whether such manufacturer, distributor, or retailer has acted or is acting in compliance with this chapter and Federal manufactured home construction and safety standards prescribed pursuant to this chapter and shall, upon request of a person duly designated by the Secretary, permit such person to inspect appropriate books, papers, records, and documents relevant to determining whether such manufacturer, distributor, or retailer has acted or is acting in compliance with this chapter and manufactured home construction and safety standards prescribed pursuant to this chapter.
+Each manufacturer, distributor, and retailer of manufactured homes shall establish and maintain such records, make such reports, and provide such information as the Secretary may reasonably require to enable him to determine whether such manufacturer, distributor, or retailer has acted or is acting in compliance with this chapter and Federal manufactured home construction and safety standards prescribed pursuant to this chapter and shall, upon request of a person duly designated by the Secretary, permit such person to inspect appropriate books, papers, records, and documents relevant to determining whether such manufacturer, distributor, or retailer has acted or is acting in compliance with this chapter and manufactured home construction and safety standards prescribed pursuant to this chapter.
 
 #### (g) Performance and technical data from manufacturer; persons required to receive notification of data
 
@@ -46,13 +46,15 @@ Each manufacturer of manufactured homes shall provide to the Secretary such perf
 
 &emsp;(1) each prospective purchaser of a manufactured home before its first sale for purposes other than resale, at each location where any such manufacturer's manufactured homes are offered for sale by a person with whom such manufacturer has a contractual, proprietary, or other legal relationship and in a manner determined by the Secretary to be appropriate, which may include, but is not limited to, printed matter (A) available for retention by such prospective purchaser, and (B) sent by mail to such prospective purchaser upon his request; and
 
-&emsp;(2) the first person who purchases a manufactured home for purposes other than resale, at the time of such purchase or in printed matter placed in the manufactured home.
+&emsp;(2) the first person who purchases a manufactured home for purposes other than resale,at the time of such purchase or in printed matter placed in the manufactured home.
 
 #### (h) Disclosure of confidential information and trade secrets
 
 All information reported to or otherwise obtained by the Secretary or his representative pursuant to subsection (b), (c), (f), or (g) which contains or relates to a trade secret, or which, if disclosed, would put the person furnishing such information at a substantial competitive disadvantage, shall be considered confidential, except that such information may be disclosed to other officers or employees concerned with carrying out this chapter or when relevant in any proceeding under this chapter. Nothing in this section shall authorize the withholding of information by the Secretary or any officer or employee under his control from the duly authorized committees of the Congress.
 
 (Pub. L. 93–383, title VI, §614, Aug. 22, 1974, 88 Stat. 707; Pub. L. 96–399, title III, §308(c)(4), Oct. 8, 1980, 94 Stat. 1641; Pub. L. 97–35, title III, §339B(c), Aug. 13, 1981, 95 Stat. 417; Pub. L. 106–569, title VI, §603(b)(2), Dec. 27, 2000, 114 Stat. 2999.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -63,6 +65,8 @@ References to "mobile homes", wherever appearing in text, changed to "manufactur
 <b>2000</b>—Subsec. (f). Pub. L. 106–569 substituted "retailer" for "dealer" wherever appearing.
 
 <b>1980</b>—Subsecs. (a), (c)(5), (f), (g). Pub. L. 96–399 substituted "manufactured home" for "mobile home" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

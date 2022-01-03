@@ -24,6 +24,8 @@ As used in this subchapter—
 
 (Pub. L. 89–754, title II, §208, Nov. 3, 1966, 80 Stat. 1265; Pub. L. 90–448, title VI, §602(e), Aug. 1, 1968, 82 Stat. 532; Pub. L. 91–258, title I, §52(b)(3), May 21, 1970, 84 Stat. 235; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; Pub. L. 102–240, title III, §3003(b), Dec. 18, 1991, 105 Stat. 2088; Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(a)(6)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312; Pub. L. 113–287, §5(k)(2), Dec. 19, 2014, 128 Stat. 3269.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 702 of the Housing and Urban Development Act of 1965 \[42 U.S.C. 3102\], referred to in par. (2), was omitted from the Code pursuant to section 5316 of this title which terminated the authority to make grants or loans under that section after Jan. 1, 1975.
@@ -32,7 +34,7 @@ Section 8 of the Federal Water Pollution Control Act, referred to in par. (2), w
 
 Section 12 of the Federal Airport Act, referred to in par. (2), is section 12 of act May 13, 1946, ch. 251, 60 Stat. 177, which was classified to section 1111 of former Title 49, Transportation, prior to repeal by Pub. L. 91–258, title I, §52(a), May 21, 1970, 84 Stat. 235.
 
-Section 19 of the Airport and Airway Development Act of 1970, referred to in par. (2), is section 19 of Pub. L. 91–258, title I, May 21, 1970, 84 Stat. 230, which was classified to section 1719 of former Title 49, prior to repeal by Pub. L. 97–248, title V, §523(a), Sept. 3, 1982, 96 Stat. 695.
+Section 19 of the Airport and Airway Development Act of 1970, referred to in par. (2), is section 19 of Pub.L. 91–258, title I, May 21, 1970, 84 Stat. 230, which was classified to section 1719 of former Title 49, prior to repeal by Pub. L. 97–248, title V, §523(a), Sept. 3, 1982, 96 Stat. 695.
 
 The Housing Act of 1961, referred to in par. (2), is Pub. L. 87–70, June 30, 1961, 75 Stat. 149. Title VII of the Housing Act of 1961 which was classified generally to chapter 8C (§1500 et seq.) of this title, was omitted pursuant to section 5316 of this title which terminated the authority to make grants or loans under such title VII after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 12, Banks and Banking, and Tables.
 
@@ -59,6 +61,8 @@ In par. (2), "section 5309 of title 49" substituted for "section 3 of the Federa
 Par. (2). Pub. L. 90–448, §602(e)(1), substituted "Areawide development project" for "Metropolitan development project".
 
 Par. (7). Pub. L. 90–448, §602(e)(2), substituted "official State, metropolitan, regional, or district agency" for "official State or metropolitan or regional agency", and "in the case of areas" for "in the case of metropolitan areas".
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

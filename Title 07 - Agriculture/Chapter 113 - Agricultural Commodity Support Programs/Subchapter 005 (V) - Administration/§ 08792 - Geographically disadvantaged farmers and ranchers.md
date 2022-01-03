@@ -48,6 +48,8 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 (Pub. L. 110–234, title I, §1621, May 22, 2008, 122 Stat. 1024; Pub. L. 110–246, §4(a), title I, §1621, June 18, 2008, 122 Stat. 1664, 1752; Pub. L. 113–79, title I, §1606, Feb. 7, 2014, 128 Stat. 708.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
@@ -55,6 +57,8 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 #### Amendments
 
 <b>2014</b>—Subsec. (d). Pub. L. 113–79 substituted "fiscal year 2009 and each succeeding fiscal year" for "each of fiscal years 2009 through 2012".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

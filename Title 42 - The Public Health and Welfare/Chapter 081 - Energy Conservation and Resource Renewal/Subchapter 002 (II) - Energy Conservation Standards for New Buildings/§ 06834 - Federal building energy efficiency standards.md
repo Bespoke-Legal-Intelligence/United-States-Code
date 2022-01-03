@@ -52,7 +52,7 @@
 
 &emsp;&emsp;(III) Sustainable design principles shall be applied to the siting, design, and construction of such buildings. Not later than 90 days after December 19, 2007, the Secretary, after reviewing the findings of the Federal Director under section 17092(h) of this title, in consultation with the Administrator of General Services, and in consultation with the Secretary of Defense for considerations relating to those facilities under the custody and control of the Department of Defense, shall identify a certification system and level for green buildings that the Secretary determines to be the most likely to encourage a comprehensive and environmentally-sound approach to certification of green buildings. The identification of the certification system and level shall be based on a review of the Federal Director's findings under section 17092(h) of this title and the criteria specified in clause (iii), shall identify the highest level the Secretary determines is appropriate above the minimum level required for certification under the system selected, and shall achieve results at least comparable to the system used by and highest level referenced by the General Services Administration as of December 19, 2007. Within 90 days of the completion of each study required by clause (iv), the Secretary, in consultation with the Administrator of General Services, and in consultation with the Secretary of Defense for considerations relating to those facilities under the custody and control of the Department of Defense, shall review and update the certification system and level, taking into account the conclusions of such study.
 
-&emsp;(ii) In establishing criteria for identifying major renovations that are subject to the requirements of this subparagraph, the Secretary shall take into account the scope, degree, and types of renovations that are likely to provide significant opportunities for substantial improvements in energy efficiency.
+&emsp;(ii) In establishing criteria for identifying major renovations that are subject to the requirements of this subparagraph, the Secretary shall take into account the scope, degree, and types of renovations that are likelyto provide significant opportunities for substantial improvements in energy efficiency.
 
 &emsp;(iii) In identifying the green building certification system and level, the Secretary shall take into consideration—
 
@@ -94,6 +94,8 @@ Interim energy performance standards for new Federal buildings issued by the Sec
 
 (Pub. L. 94–385, title III, §305, as added Pub. L. 102–486, title I, §101(a)(2), Oct. 24, 1992, 106 Stat. 2784; amended Pub. L. 109–58, title I, §109, Aug. 8, 2005, 119 Stat. 614; Pub. L. 110–140, title IV, §433(a), title V, §523, Dec. 19, 2007, 121 Stat. 1612, 1662.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Subsec. (b) of this section, which required the Secretary to identify and describe, in the annual report required under section 6837 of this title, the basis for any substantive difference between the Federal building energy standards established under this section and the appropriate voluntary building energy code, was omitted because of termination of the annual report. See Codification note set out under section 6837 of this title.
@@ -112,6 +114,8 @@ Subsec. (a)(3)(D). Pub. L. 110–140, §433(a), added subpar. (D).
 
 Subsec. (a)(3). Pub. L. 109–58, §109(2), added par. (3).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2007 Amendment
 
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
@@ -122,7 +126,7 @@ Pub. L. 110–140, title IV, §433(c), (d), Dec. 19, 2007, 121 Stat. 1614, provi
 
 "(c)
 
-Revision of Federal Acquisition Regulation.—Not later than 2 years after the date of the enactment of this Act \[Dec. 19, 2007\], the Federal Acquisition Regulation shall be revised to require Federal officers and employees to comply with this section \[amending this section and section 6832 of this title\] and the amendments made by this section in the acquisition, construction, or major renovation of any facility. The members of the Federal Acquisition Regulatory Council (established under section 25 of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 421) \[see 41 U.S.C. 1302\]) shall consult with the Federal Director and the Commercial Director before promulgating regulations to carry out this subsection.
+Revision of Federal Acquisition Regulation.—Not later than 2 years after the date of the enactment of this Act \[Dec. 19, 2007\], the Federal Acquisition Regulation shall be revised to require Federal officers andemployees to comply with this section \[amending this section and section 6832 of this title\] and the amendments made by this section in the acquisition, construction, or major renovation of any facility. The members of the Federal Acquisition Regulatory Council (established under section 25 of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 421) \[see 41 U.S.C. 1302\]) shall consult with the Federal Director and the Commercial Director before promulgating regulations to carry out this subsection.
 
 "(d)
 

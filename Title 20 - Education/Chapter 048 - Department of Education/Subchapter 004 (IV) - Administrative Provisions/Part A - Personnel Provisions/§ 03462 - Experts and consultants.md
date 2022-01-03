@@ -16,9 +16,13 @@ The Secretary may as provided in appropriation Acts obtain the services of exper
 
 (Pub. L. 96–88, title IV, §402, Oct. 17, 1979, 93 Stat. 682; Pub. L. 103–227, title IX, §981, Mar. 31, 1994, 108 Stat. 263.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–227 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

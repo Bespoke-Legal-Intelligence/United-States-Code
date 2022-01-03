@@ -26,7 +26,7 @@ A qualified prescription drug monitoring program described in this subsection is
 
 &emsp;(2) The program facilitates the integration of information described in paragraph (1) into the workflow of a covered provider, which may include the electronic system the covered provider uses to prescribe controlled substances.
 
-> A qualified prescription drug monitoring program described in this subsection, with respect to a State, may have in place, in accordance with applicable State and Federal law, a data-sharing agreement with the State Medicaid program that allows the medical director and pharmacy director of such program (and any designee of such a director who reports directly to such director) to access the information described in paragraph (1) in an electronic format. The State Medicaid program under this subchapter may facilitate reasonable and limited access, as determined by the State and ensuring documented beneficiary protections regarding the use of such data, to such qualified prescription drug monitoring program for the medicaldirector or pharmacy director of any managed care entity (as defined under section 1396u–2(a)(1)(B) of this title) that has a contract with the State under section 1396b(m) of this title or under section 1396d(t)(3) of this title, or the medical director or pharmacy director of any entity that has a contract to manage the pharmaceutical benefit with respect to individuals enrolled in the State plan (or under a waiver of the State plan). All applicable State and Federal security and privacy laws shall apply to the directors or designees of such directors of any State Medicaid program or entity accessing a qualified prescription drug monitoring program under this section.
+> A qualified prescription drug monitoring program described in this subsection, with respect to a State, may have in place, in accordance with applicable State and Federal law, a data-sharing agreement with the State Medicaid program that allows the medical director and pharmacy director of such program (and any designee of such a director who reports directly to such director) to access the information described in paragraph (1) in an electronic format. The State Medicaid program under this subchapter may facilitate reasonable and limited access, as determined by the State and ensuring documented beneficiary protections regarding the use of such data, to such qualified prescription drug monitoring program for the medical director or pharmacy director of any managed care entity (as defined under section 1396u–2(a)(1)(B) of this title) that has a contract with the State under section 1396b(m) of this title or under section 1396d(t)(3) of this title, or the medical director or pharmacy director of any entity that has a contract to manage the pharmaceutical benefit with respect to individuals enrolled in the State plan (or under a waiver of the State plan). All applicable State and Federal security and privacy laws shall apply to the directors or designees of such directors of any State Medicaid program or entity accessing a qualified prescription drug monitoring program under this section.
 
 #### (c) Application of privacy rules clarification
 
@@ -72,7 +72,7 @@ In order to ensure reasonable access to health care, the Secretary shall waive t
 
 #### (2) Condition
 
-&emsp;The condition described in this paragraph, with respect to a State, is that the State (in this paragraph referred to as the "administering State") has in place agreements with all States that are contiguous to such administering State that, when combined, enable covered providers in all such contiguous States to access, through the prescription drug monitoring program, the information that is described in subsection (b)(1) of covered individuals of such administering State andthat covered providers in such administering State are able to access through such program.
+&emsp;The condition described in this paragraph, with respect to a State, is that the State (in this paragraph referred to as the "administering State") has in place agreements with all States that are contiguous to such administering State that, when combined, enable covered providers in all such contiguous States to access, through the prescription drug monitoring program, the information that is described in subsection (b)(1) of covered individuals of such administering State and that covered providers in such administering State are able to access through such program.
 
 #### (g) Rule of construction
 
@@ -118,9 +118,13 @@ In this section:
 
 (Aug. 14, 1935, ch. 531, title XIX, §1944, as added Pub. L. 115–271, title V, §5042(a), Oct. 24, 2018, 132 Stat. 3967.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 264(c) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (c), is section 264(c) of Pub. L. 104–191, title II, Aug. 21, 1996, 110 Stat. 2033, which is set out as a note under section 1320d–2 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Guidance
 

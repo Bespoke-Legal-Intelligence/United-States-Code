@@ -108,7 +108,7 @@ Pub. L. 99–576, title II, §223(b), Oct. 28, 1986, 100 Stat. 3261, provided th
 
 "(B) After the date of the enactment of this Act, if a collective bargaining agreement described in subparagraph (A) is modified, extended, or renewed, such subparagraph shall no longer, as of the date of the modification, extension, or renewal, apply to such agreement.
 
-"(C) In the case of a collective bargaining agreement which on such date of enactment is in effect but has noprovision which specifies a termination date, the authorities and requirements in section 5009 \[now 8109\] of title 38, United States Code, as amended by subsection (a)(1) of this section, to establish and collect parking fees shall take effect on January 1, 1988.
+"(C) In the case of a collective bargaining agreement which on such date of enactment is in effect but has no provision which specifies a termination date, the authorities and requirements in section 5009 \[now 8109\] of title 38, United States Code, as amended by subsection (a)(1) of this section, to establish and collect parking fees shall take effect on January 1, 1988.
 
 "(3) Section 5009 \[now 8109\] of title 38, United States Code, as amended by subsection (a)(1) of this section, shall not apply to the expenditure of funds appropriated for a fiscal year prior to fiscal year 1987 for the construction, alteration, or acquisition (including site acquisition) of a parking facility at a Veterans' Administration \[now Department of Veterans Affairs\] medical facility."
 

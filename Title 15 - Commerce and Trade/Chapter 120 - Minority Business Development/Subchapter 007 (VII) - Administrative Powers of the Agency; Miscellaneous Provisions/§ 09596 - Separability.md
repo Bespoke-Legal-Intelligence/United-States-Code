@@ -1,0 +1,24 @@
+### §9596. Separability
+
+If a provision of this chapter, or the application of a provision of this chapter to any person or circumstance, is held by a court of competent jurisdiction to be invalid, that judgment—
+
+&emsp;(1) shall not affect, impair, or invalidate—
+
+&emsp;&emsp;(A) any other provision of this chapter; or
+
+&emsp;&emsp;(B) the application of this chapter to any other person or circumstance; and
+
+&emsp;(2) shall be confined in its operation to—
+
+&emsp;&emsp;(A) the provision of this chapter with respect to which the judgment is rendered; or
+
+&emsp;&emsp;(B) the application of the provision of this chapter to each person or circumstance directly involved in the controversy in which the judgment is rendered.
+
+(Pub. L. 117–58, div. K, title VII, §100706, Nov. 15, 2021, 135 Stat. 1467.)
+
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+This chapter, referred to in text, was in the original "this division", meaning div. K of Pub. L. 117–58, Nov. 15, 2021, 135 Stat. 1445, which is classified principally to this chapter. For complete classification of division K to the Code, see Short Title note set out under section 9501 of this title and Tables.
+

@@ -4,6 +4,8 @@ The tax imposed by this chapter shall be paid, on the basis of a return, by any 
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 522; Pub. L. 85–859, title I, §141(a), Sept. 2, 1958, 72 Stat. 1301; Pub. L. 89–44, title VIII, §804(a)(1), (2), June 21, 1965, 79 Stat. 160; Pub. L. 94–455, title XIX, §1904(a)(12), Oct. 4, 1976, 90 Stat. 1813.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 For provisions of prior sections 4375, 4381 to 4384, see Prior Provisions note preceding section 4371 of this title.
@@ -15,6 +17,8 @@ For provisions of prior sections 4375, 4381 to 4384, see Prior Provisions note p
 <b>1965</b>—Pub. L. 89–44 substituted "Payment of tax" for "Affixing of stamps" in section catchline, and inserted sentence authorizing Secretary or his delegate to provide by regulation for payment on basis of a return of tax imposed by section 4371.
 
 <b>1958</b>—Pub. L. 85–859 reenacted section without change.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

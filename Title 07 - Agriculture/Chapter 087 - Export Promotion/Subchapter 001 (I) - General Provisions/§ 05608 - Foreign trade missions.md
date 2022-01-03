@@ -46,9 +46,13 @@
 
 (Pub. L. 115–334, title III, §3312, Dec. 20, 2018, 132 Stat. 4623.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Agriculture Improvement Act of 2018, and not as part of the Agricultural Trade Act of 1978 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definition of "Secretary"
 

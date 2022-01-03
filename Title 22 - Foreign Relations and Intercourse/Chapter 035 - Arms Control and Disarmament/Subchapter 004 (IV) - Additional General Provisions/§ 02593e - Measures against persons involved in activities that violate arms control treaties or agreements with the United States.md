@@ -40,7 +40,7 @@ Except as provided in subsections (d), (e), and (f), the President shall impose 
 
 #### (2) Exception for major routes of supply
 
-&emsp;The requirement to impose measures under paragraph (1) shall not apply with respect to any contract for the procurement of goods or services along a major route of supply to a zone of active combat or major contingency operation.
+&emsp;The requirement to impose measures under paragraph (1) shall not apply with respect to any contract for the procurement of goods orservices along a major route of supply to a zone of active combat or major contingency operation.
 
 #### (3) Requirement to revise regulations
 
@@ -58,7 +58,7 @@ Except as provided in subsections (d), (e), and (f), the President shall impose 
 
 &emsp;&emsp;&emsp;(i) the head of that executive agency shall terminate a contract with such person or debar or suspend such person from eligibility for Federal contracts for a period of not less than 2 years;
 
-&emsp;&emsp;&emsp;(ii) any such debarment or suspension shall be subject to the procedures that apply to debarment and suspension under the Federal Acquisition Regulation undersubpart 9.4 of part 9 of title 48, Code of Federal Regulations; and
+&emsp;&emsp;&emsp;(ii) any such debarment or suspension shall be subject to the procedures that apply to debarment and suspension under the Federal Acquisition Regulation under subpart 9.4 of part 9 of title 48, Code of Federal Regulations; and
 
 &emsp;&emsp;&emsp;(iii) the Administrator of General Services shall include on the List of Parties Excluded from Federal Procurement and Nonprocurement Programs maintained by the Administrator under part 9 of the Federal Acquisition Regulation each person that is debarred, suspended, or proposed for debarment or suspension by the head of an executive agency on the basis of a determination of a false certification under subparagraph (B).
 
@@ -110,7 +110,7 @@ The President may waive the application of measures on a case-by-case basis unde
 
 #### (3) Report
 
-&emsp;Not later than 60 days after the submittal to Congress of the report identifying a person pursuant to subsection (a)(1), the President shall submit to the appropriate congressional committees a report on the status of consultations, if any, with the government concerned under this subsection, and the basis for any determination under paragraph (1).
+&emsp;Not later than 60 days after the submittal to Congress of the report identifying a personpursuant to subsection (a)(1), the President shall submit to the appropriate congressional committees a report on the status of consultations, if any, with the government concerned under this subsection, and the basis for any determination under paragraph (1).
 
 #### (g) Termination
 

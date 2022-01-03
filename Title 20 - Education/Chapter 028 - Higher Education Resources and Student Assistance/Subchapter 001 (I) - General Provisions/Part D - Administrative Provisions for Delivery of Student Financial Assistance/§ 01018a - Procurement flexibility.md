@@ -102,7 +102,7 @@ Whenever the PBO anticipates that commercial products or commercial services wil
 
 #### (1) In general
 
-&emsp;The PBO may satisfy the requirements of the PBO for a system incrementally by carrying out successive procurements of modules of the system. In doing so, the PBO may use procedures authorized under this subsection to procure any such module after the first module.
+&emsp;The PBO may satisfy the requirements of the PBO for a system incrementally by carrying out successive procurements of modules of the system. In doing so, the PBO may use procedures authorized under this subsection toprocure any such module after the first module.
 
 #### (2) Utility requirement
 
@@ -128,7 +128,7 @@ Whenever the PBO anticipates that commercial products or commercial services wil
 
 #### (A) Single-source basis
 
-&emsp;&emsp;Award of the contract on a single-source basis to a contractor who was awarded a contract for a module previously procured for the system under competitive proceduresor procedures authorized under subparagraph (B).
+&emsp;&emsp;Award of the contract on a single-source basis to a contractor who was awarded a contract for a module previously procured for the system under competitive procedures or procedures authorized under subparagraph (B).
 
 #### (B) Adequate competition
 
@@ -188,7 +188,7 @@ Whenever the PBO anticipates that commercial products or commercial services wil
 
 #### (1) Issuance by PBO
 
-&emsp;The Chief Operating Officer of the PBO, in consultation with the Administrator for Federal Procurement Policy, shall issue guidance for the use by PBO personnel of the authority provided in this section.
+&emsp;The Chief Operating Officer of the PBO, in consultation with the Administrator for Federal Procurement Policy, shall issue guidancefor the use by PBO personnel of the authority provided in this section.
 
 #### (2) Guidance from OFPP
 
@@ -236,6 +236,8 @@ In this section:
 
 (Pub. L. 89–329, title I, §142, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1611; amended Pub. L. 110–315, title I, §118, Aug. 14, 2008, 122 Stat. 3116; Pub. L. 115–232, div. A, title VIII, §836(g)(2), Aug. 13, 2018, 132 Stat. 1872.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 In subsec. (d)(2)(A), "section 1708 of title 41" substituted for "section 18 of the Office of Federal Procurement Policy Act (41 U.S.C. 416)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
@@ -258,7 +260,7 @@ A prior section 1018a, Pub. L. 89–329, title I, §142, as added Pub. L. 100–
 
 Subsec. (f). Pub. L. 115–232, §836(g)(2)(B)(i), substituted "products and services" for "items" in heading.
 
-Subsec. (f)(2). Pub. L. 115–232, §836(g)(2)(B)(ii), (iii), substituted "products and services" for "items" in heading and "a commercial product or a commercial service" for "a commercial item" in text.
+Subsec. (f)(2). Pub. L. 115–232, §836(g)(2)(B)(ii), (iii), substituted "products and services" for "items" inheading and "a commercial product or a commercial service" for "a commercial item" in text.
 
 Subsec. (h). Pub. L. 115–232, §836(g)(2)(C)(i), substituted "services" for "items" in heading.
 
@@ -289,6 +291,8 @@ Subsec. (g)(7). Pub. L. 110–315, §118(4)(B), substituted "single-source" for 
 Subsec. (h)(2)(A). Pub. L. 110–315, §118(5), substituted "single-source" for "sole-source".
 
 Subsec. (l)(3). Pub. L. 110–315, §118(6), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: "The term 'sole-source basis', with respect to an award of a contract, means that the contract is awarded to a source after soliciting an offer or offers from, and negotiating with, only that source."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

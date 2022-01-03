@@ -10,7 +10,7 @@ In this section:
 
 #### (2) Reportable food
 
-&emsp;The term "reportable food" means an article of food (other than infant formula) for which there is a reasonable probability that the useof, or exposure to, such article of food will cause serious adverse health consequences or death to humans or animals.
+&emsp;The term "reportable food" means an article of food (other than infant formula) for which there is a reasonable probability that the use of, or exposure to, such article of food will cause serious adverse health consequences or death to humans or animals.
 
 #### (b) Establishment
 
@@ -74,7 +74,7 @@ In this section:
 
 #### (6) Response to report submitted by a responsible party
 
-&emsp;After consultation with the responsible party that submitted a report under paragraph (1), the Secretary may require such responsible party to perform, as soon as practicable, but in no case later than a time specified by the Secretary, 1 or more of the following:
+&emsp;After consultation with the responsible party that submitted a report under paragraph\(1), the Secretary may require such responsible party to perform, as soon as practicable, but in no case later than a time specified by the Secretary, 1 or more of the following:
 
 &emsp;&emsp;(A) Amend the report submitted by the responsible party under paragraph (1) to include the data element described in subsection (e)(9).
 
@@ -250,7 +250,7 @@ Pub. L. 110–85, title X, §1005(e), Sept. 27, 2007, 121 Stat. 969, provided th
 
 #### Construction of 2011 Amendment
 
-Nothing in amendment by Pub. L. 111–353 to be construed to apply to certain alcohol-related facilities, to alter jurisdiction and authorities established under certain other Acts, or in a manner inconsistent with international agreements to which the United States is a party, see sections 2206, 2251, and 2252 of this title.
+Nothing in amendment by Pub. L. 111–353 to be construed to apply to certain alcohol-related facilities, toalter jurisdiction and authorities established under certain other Acts, or in a manner inconsistent with international agreements to which the United States is a party, see sections 2206, 2251, and 2252 of this title.
 
 #### Findings
 
@@ -266,7 +266,7 @@ Pub. L. 110–85, title X, §1005(a), Sept. 27, 2007, 121 Stat. 964, provided th
 
 #### Guidance
 
-Pub. L. 110–85, title X, §1005(f), Sept. 27, 2007, 121 Stat. 969, provided that: "Not later than 9 months after the date of the enactment of this Act \[Sept. 27, 2007\], the Secretary \[of Health and Human Services\] shall issue a guidance to industry about submitting reports to the electronic portal established under section 417 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 350f\]\(as added by this section) and providing notifications to other persons in the supply chain of an article of food under such section 417."
+Pub. L. 110–85, title X, §1005(f), Sept. 27, 2007, 121 Stat. 969, provided that: "Not later than 9 months after the date of the enactment of this Act \[Sept. 27, 2007\], the Secretary \[of Health and Human Services\] shall issue a guidance to industry about submitting reports to the electronic portal established under section 417 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 350f\] (as added by this section) and providing notifications to other persons in the supply chain of an article of food under such section 417."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

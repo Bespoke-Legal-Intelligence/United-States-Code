@@ -36,9 +36,13 @@ The decision of the Office in any hearing under this section shall become final 
 
 (Pub. L. 90–247, title IV, §455, as added Pub. L. 95–561, title XII, §1232, Nov. 1, 1978, 92 Stat. 2350; amended Pub. L. 100–297, title III, §3501(a), Apr. 28, 1988, 102 Stat. 354.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–297 amended section generally, substituting provisions relating to withholding for provisions relating to judicial review. See section 1234g of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

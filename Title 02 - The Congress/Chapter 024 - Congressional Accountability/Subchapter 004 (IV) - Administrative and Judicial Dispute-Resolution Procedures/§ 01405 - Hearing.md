@@ -16,7 +16,7 @@
 
 #### (b) Dismissal
 
-A hearing officer may dismiss any claim that the hearing officer finds to be frivolous or that fails to state a claim upon which relief may be granted.
+A hearing officer may dismiss any claim that the hearing officer finds to be frivolous or thatfails to state a claim upon which relief may be granted.
 
 #### (c) Hearing officer
 

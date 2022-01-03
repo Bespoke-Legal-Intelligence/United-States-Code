@@ -2,13 +2,15 @@
 
 #### (a) Analysis of goals
 
-To aid in determining the short-term and medium-term goals for employment, production, real income, and prices, analysis shall be presented in the Economic Report with respect to major aspects of the appropriate composition or structure of each goal, and as to the appropriate apportionment of total national production among its major components (private investment, consumer expenditures, and public outlays) as affected by relative income flows and other factors, in order to promote balanced growth and a balanced Federal budget, reduce cyclical disturbances, and achieve the other purposes of this chapter and the Full Employmentand Balanced Growth Act of 1978 \[15 U.S.C. 3101 et seq.\].
+To aid in determining the short-term and medium-term goals for employment, production, real income, and prices, analysis shall be presented in the Economic Report with respect to major aspects of the appropriate composition or structure of each goal, and as to the appropriate apportionment of total national production among its major components (private investment, consumer expenditures, and public outlays) as affected by relative income flows and other factors, in order to promote balanced growth and a balanced Federal budget, reduce cyclical disturbances, and achieve the other purposes of this chapter and the Full Employment and Balanced Growth Act of 1978 \[15 U.S.C. 3101 et seq.\].
 
 #### (b) Means to achieve goals
 
 In choosing means to achieve the goal for the reduction of unemployment and choosing means to achieve the goal of reasonable price stability, those means which are mutually reinforcing shall be used to the extent practicable.
 
 (Feb. 20, 1946, ch. 33, §5, as added Pub. L. 95–523, title I, §105, Oct. 27, 1978, 92 Stat. 1895.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

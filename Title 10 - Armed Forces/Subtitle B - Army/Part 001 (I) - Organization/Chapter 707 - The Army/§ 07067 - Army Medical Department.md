@@ -54,6 +54,8 @@ Act
 
 Aug. 9, 1955, ch. 654, §3(a), 69 Stat. 579.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 3067 of this title as this section.
@@ -61,6 +63,8 @@ Aug. 9, 1955, ch. 654, §3(a), 69 Stat. 579.
 <b>1968</b>—Pub. L. 90–329 substituted "Army Medical Department" for "Army Medical Service".
 
 <b>1958</b>—Pub. L. 85–861 substituted "Army Medical Specialist Corps" for "Women's Medical Specialist Corps" in cl. (8).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

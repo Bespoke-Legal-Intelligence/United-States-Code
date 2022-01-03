@@ -56,7 +56,7 @@
 
 #### (3) Active investigations
 
-&emsp;The semiannual enforcement consultations required by paragraph (1) shall address acts, policies, or practices that the Trade Representative is actively investigating with respect to obligations under the WTO Agreements or any other trade agreement to which the United States is a party, including—
+&emsp;The semiannual enforcement consultations required by paragraph (1) shall address acts,policies, or practices that the Trade Representative is actively investigating with respect to obligations under the WTO Agreements or any other trade agreement to which the United States is a party, including—
 
 &emsp;&emsp;(A) strategies for addressing concerns raised by such acts, policies, or practices;
 
@@ -128,11 +128,15 @@ In this section:
 
 (Pub. L. 93–618, title III, §310, as added Pub. L. 100–418, title I, §1302(a), Aug. 23, 1988, 102 Stat. 1176; amended Pub. L. 103–465, title III, §314(f), Dec. 8, 1994, 108 Stat. 4941; Pub. L. 114–125, title VI, §601(a), Feb. 24, 2016, 130 Stat. 180.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Pub. L. 114–125 amended section generally. Prior to amendment, section related to identification of trade expansion priorities.
 
 <b>1994</b>—Pub. L. 103–465 amended section generally, changing dates and criteria for submission of certain reports and revising and restructuring provisions relating to identification of trade liberalization priorities, initiation of investigations, and agreements for elimination of barriers.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 12901. Identification of Trade Expansion Priorities
 
@@ -156,7 +160,7 @@ Section 1. <i>Identification</i>. (a) Within 6 months of the submission of the N
 
 Sec. 2. <i>Initiation of Investigation</i>. Within 21 days of the submission of the report required by paragraph (a) of section 1, the Trade Representative shall initiate under section 302(b)(1) of the Act (19 U.S.C. 2412(b)(1)) investigations under title III, chapter 1, of the Act \[19 U.S.C. 2411 et seq.\] with respect to all of the priority foreign country practices identified.
 
-Sec. 3. <i>Agreements for the Elimination of Barriers</i>. In the consultations with a foreign country that the Trade Representative is required to request under section 303(a) of the Act (19 U.S.C. 2413(a)) with respect to an investigation initiated by reason of section 2 of this order, the Trade Representative shall seek to negotiate an agreement that provides for the elimination of the practices that are the subject of the investigation asquickly as possible or, if that is not feasible, provides for compensatory trade benefits. The Trade Representative shall monitor any agreement entered into under this section pursuant to the provisions of section 306 of the Act (19 U.S.C. 2416).
+Sec. 3. <i>Agreements for the Elimination of Barriers</i>. In the consultations with a foreign country that the Trade Representative is required to request under section 303(a) of the Act (19 U.S.C. 2413(a)) with respect to an investigation initiated by reason of section 2 of this order, the Trade Representative shall seek to negotiate an agreement that provides for the elimination of the practices that are the subject of the investigation as quickly as possible or, if that is not feasible, provides for compensatory trade benefits. The Trade Representative shall monitor any agreement entered into under this section pursuant to the provisions of section 306 of the Act (19 U.S.C. 2416).
 
 Sec. 4. <i>Reports</i>. The Trade Representative shall include in the semiannual report required by section 309 of the Act (19 U.S.C. 2419) a report on the status of any investigation initiated pursuant to section 2 of this order and, where appropriate, the extent to which such investigations have led to increased opportunities for the export of products and services of the United States.
 
@@ -188,7 +192,7 @@ Section 1. <i>Identification and Annual Report</i>. (a) Within 30 days of the su
 
 Sec. 2. <i>Resolution</i>. Upon submission of the report required by paragraph (a) of section 1 of this part, the Trade Representative shall, with respect to any priority foreign country practice identified therein, engage the country concerned for the purpose of seeking a satisfactory resolution, for example, by obtaining compliance with a trade agreement or the elimination of the practice as quickly as possible, or, if this is not feasible, by providing for compensatory trade benefits.
 
-Sec. 3. <i>Initiation of Investigations</i>. Within 90 days of the submission of the report required by paragraph (a) of section 1 of this part, the Trade Representative shall initiate under section 302(b)(1) of the Act (19 U.S.C. 2412(b)(1)) investigations with respect to all of the priority foreign country practices identified, unless during the 90-day period the Trade Representative determines that a satisfactory resolution of the matter to be investigated has been achieved.
+Sec. 3. <i>Initiation of Investigations</i>. Within 90 days of the submission of the report required by paragraph (a) of section 1 of this part, the Trade Representative shallinitiate under section 302(b)(1) of the Act (19 U.S.C. 2412(b)(1)) investigations with respect to all of the priority foreign country practices identified, unless during the 90-day period the Trade Representative determines that a satisfactory resolution of the matter to be investigated has been achieved.
 
 #### Part II: Identification of Discriminatory Government Procurement Practices
 

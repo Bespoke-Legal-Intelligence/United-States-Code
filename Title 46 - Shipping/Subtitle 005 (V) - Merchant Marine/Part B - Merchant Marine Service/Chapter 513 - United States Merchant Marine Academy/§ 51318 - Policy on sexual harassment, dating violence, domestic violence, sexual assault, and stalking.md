@@ -16,7 +16,7 @@ Matters to be specified in policy.—The policy on sexual harassment, dating vio
 
 &emsp;&emsp;(B) procedures for documenting, tracking, and maintaining the data required to conduct the annual assessments to determine the effectiveness of the policies, procedures, and training program of the Academy with respect to sexual harassment, dating violence, domestic violence, sexual assault, and stalking involving cadets or other Academy personnel, as required by subsection (c);
 
-&emsp;&emsp;(C) procedures that a cadet or other Academy personnel should follow in the case of an occurrence of sexual harassment, dating violence, domestic violence, sexual assault, or stalking, including—
+&emsp;&emsp;(C) procedures that a cadet or other Academy personnel should follow in the case of an occurrence of sexual harassment, datingviolence, domestic violence, sexual assault, or stalking, including—
 
 &emsp;&emsp;&emsp;(i) specifying the person or persons to whom an alleged occurrence of sexual harassment, dating violence, domestic violence, sexual assault, or stalking should be reported by the victim and the options for confidential reporting;
 
@@ -196,7 +196,7 @@ Biennial survey.—For each assessment of the Academy under paragraph (1) during
 
 &emsp;(3)
 
-Focus groups for years when survey not required.—In any year in which the Secretary is not required to conduct the survey described in paragraph (2), the Secretary shall conduct focus groups at the Academy for the purposes of ascertaining information relating to sexual assault and sexual harassment issues at the Academy.
+Focus groups for years when survey not required.—In any year in which the Secretary is not required to conduct the surveydescribed in paragraph (2), the Secretary shall conduct focus groups at the Academy for the purposes of ascertaining information relating to sexual assault and sexual harassment issues at the Academy.
 
 (d)
 

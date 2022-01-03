@@ -4,7 +4,7 @@ Section 2994, Pub. L. 88–452, title VIII, §831, as added Pub. L. 90–222, ti
 
 Section 2994a, Pub. L. 88–452, title VIII, §832, as added Pub. L. 90–222, title I, §110, Dec. 23, 1967, 81 Stat. 725, related to participation of older persons.
 
-Section 2994b, Pub. L. 88–452, title VIII, §833, as added Pub. L. 90–222, title I, §110, Dec. 23, 1967, 81 Stat. 726; amended Pub. L. 90–623, §5(b), Oct. 22, 1968, 82 Stat. 1315; Pub. L. 91–177, title I, §112(b), Dec. 30, 1969, 83 Stat. 832; Pub. L. 92–424, §3(d)(3), Sept. 19, 1972, 86 Stat. 689, related to application of Federal law.
+Section 2994b, Pub. L. 88–452, title VIII, §833, as added Pub. L. 90–222, title I, §110, Dec. 23, 1967, 81 Stat. 726;amended Pub. L. 90–623, §5(b), Oct. 22, 1968, 82 Stat. 1315; Pub. L. 91–177, title I, §112(b), Dec. 30, 1969, 83 Stat. 832; Pub. L. 92–424, §3(d)(3), Sept. 19, 1972, 86 Stat. 689, related to application of Federal law.
 
 Section 2994c, Pub. L. 88–452, title VIII, §834, as added Pub. L. 90–222, title I, §110, Dec. 23, 1967, 81 Stat. 726, related to special limitations.
 

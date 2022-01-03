@@ -20,6 +20,8 @@ June 7, 1956, ch. 374, §304, 70 Stat. 254.
 
 The words "the General Accounting Office" are substituted for the words "any accounting officer of the Government" for clarity. The words "All" and "for all purposes" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1084, act Aug. 10, 1956, ch. 1041, 70A Stat. 87, related to administration of former sections 1071 to 1086 of this title, prior to repeal by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
@@ -33,6 +35,8 @@ A prior section 1084, act Aug. 10, 1956, ch. 1041, 70A Stat. 87, related to admi
 <b>1980</b>—Pub. L. 96–513 substituted "Secretary of Health and Human Services" for "Secretary of Health, Education, and Welfare", and "this chapter" for "sections 1071–1087 of this title".
 
 <b>1966</b>—Pub. L. 89–614 substituted "1087" for "1085".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

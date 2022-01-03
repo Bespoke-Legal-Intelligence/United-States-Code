@@ -4,9 +4,13 @@ No department, agency, or instrumentality of the United States which uses animal
 
 (Pub. L. 89–544, §8, Aug. 24, 1966, 80 Stat. 351; Pub. L. 91–579, §9, Dec. 24, 1970, 84 Stat. 1562.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1970</b>—Pub. L. 91–579 inserted reference to instrumentalities of the United States which use animals for exhibition and added operators of auction sales subject to section 2142 of this title and licensed exhibitors to the enumeration of persons from whom United States Government facilities may acquire dogs or cats.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1970 Amendment
 

@@ -1,5 +1,7 @@
 ### §§1801 to 1819. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 The Atomic Energy Act of 1946, which was formerly classified to sections 1801 to 1819 of this title, was act Aug. 1, 1946, ch. 724, 60 Stat. 755. Act Aug. 1, 1946, was renamed the Atomic Energy Act of 1954 and completely amended by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, and is classified principally to chapter 23 (§2011 et seq.) of this title. Provisions enacted in the Aug. 30, 1954, amendment largely corresponded to and expanded upon the provisions in the original Atomic Energy Act of 1946, as described below.
@@ -18,7 +20,7 @@ Section 1806, act Aug. 1, 1946, ch. 724, §6, 60 Stat. 763, related to military 
 
 Section 1807, act Aug. 1, 1946, ch. 724, §7, 60 Stat. 764, related to license requirements for utilization of atomic energy, reports to Congress, and issuance of licenses. For corresponding provisions from the Aug. 30, 1954, amendment, see sections 2131 to 2140 of this title.
 
-Section 1808, act Aug. 1, 1946, ch. 724, §8, 60 Stat. 765, related to force and effect of international agreements. For corresponding provisions from the Aug. 30, 1954, amendment, see sections 2151 to 2154 of this title.
+Section 1808, act Aug. 1, 1946, ch. 724, §8, 60 Stat. 765, related to force and effect of international agreements.For corresponding provisions from the Aug. 30, 1954, amendment, see sections 2151 to 2154 of this title.
 
 Section 1809, act Aug. 1, 1946, ch. 724, §9, 60 Stat. 765, related to property of Commission and its exempt status from taxation. For corresponding provisions from the Aug. 30, 1954, amendment, see sections 2015 and 2208 of this title.
 

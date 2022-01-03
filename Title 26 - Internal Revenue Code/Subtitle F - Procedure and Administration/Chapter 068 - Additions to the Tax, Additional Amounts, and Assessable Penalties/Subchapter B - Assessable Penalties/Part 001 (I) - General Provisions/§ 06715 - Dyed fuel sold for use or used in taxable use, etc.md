@@ -42,7 +42,7 @@ For purposes of this section—
 
 #### (d) Joint and several liability of certain officers and employees
 
-If a penalty is imposed under this section on any business entity, each officer, employee, oragent of such entity who willfully participated in any act giving rise to such penalty shall be jointly and severally liable with such entity for such penalty.
+If a penalty is imposed under this section on any business entity, each officer, employee, or agent of such entity who willfully participated in any act giving rise to such penalty shall be jointly and severally liable with such entity for such penalty.
 
 #### (e) No administrative appeal for third and subsequent violations
 
@@ -53,6 +53,8 @@ In the case of any person who is found to be subject to the penalty under this s
 &emsp;(2) mathematical calculation of the amount of the penalty.
 
 (Added Pub. L. 103–66, title XIII, §13242(b)(1), Aug. 10, 1993, 107 Stat. 520, §6714; renumbered §6715, Pub. L. 104–188, title I, §1703(n)(9)(A), Aug. 20, 1996, 110 Stat. 1877; amended Pub. L. 105–34, title X, §1032(e)(11), Aug. 5, 1997, 111 Stat. 935; Pub. L. 108–357, title VIII, §§855(a), 856(a), (b), Oct. 22, 2004, 118 Stat. 1616, 1617.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -73,6 +75,8 @@ Subsec. (e). Pub. L. 108–357, §855(a), added subsec. (e).
 <b>1997</b>—Subsec. (c)(1). Pub. L. 105–34 inserted "or kerosene" after "diesel fuel".
 
 <b>1996</b>—Pub. L. 104–188 renumbered section 6714 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

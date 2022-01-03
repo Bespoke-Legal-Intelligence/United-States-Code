@@ -4,6 +4,8 @@ After opportunity for hearing the Secretary is authorized to refuse the issuance
 
 (June 10, 1933, ch. 59, §6, 48 Stat. 124; Pub. L. 106–96, §1(c)(1), Nov. 12, 1999, 113 Stat. 1321.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1999</b>—Pub. L. 106–96 struck out "and/or pears" after "any apples".

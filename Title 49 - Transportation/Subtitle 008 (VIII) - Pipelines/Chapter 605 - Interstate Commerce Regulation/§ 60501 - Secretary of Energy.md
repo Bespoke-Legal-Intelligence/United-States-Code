@@ -28,6 +28,8 @@ Oct. 17, 1978, Pub. L. 95–473, §4(c)(1)(A), (2) (related to §306 of Departme
 
 The words "duties and powers . . . that were vested . . . in" are coextensive with, and substituted for, "transferred . . . such functions set forth in the Interstate Commerce Act and vested by law in" for clarity and to eliminate unnecessary words. The words "on October 1, 1977" are added to reflect the effective date of the transfer of the duties and powers to the Secretary of Energy.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 
 Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 1302 of this title, and section 101 of Pub. L. 104–88, set out as a note under section 1301 of this title. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 1301 of this title.

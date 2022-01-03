@@ -12,7 +12,7 @@
 
 &emsp;(2) an accounting or disbursing official, absent a special appropriation to pay the account or charge, may not allow or pay an account or charge related to that group.
 
-(b) Appropriations of an executive agency are available for the expenses of an interagency group conducting activities of interest common to executive agencies when the group includes a representative of the agency. The representatives receive no additional pay because of membership in the group. An officer or employee of an executive agency not a representative of the group may not receive additional pay for providing services for the group.
+(b) Appropriations of an executive agency are available for the expenses of an interagencygroup conducting activities of interest common to executive agencies when the group includes a representative of the agency. The representatives receive no additional pay because of membership in the group. An officer or employee of an executive agency not a representative of the group may not receive additional pay for providing services for the group.
 
 (c) Subject to section 1347 of this title, this section does not apply to—
 

@@ -24,7 +24,7 @@ The purposes for which the Secretary may take any action described in paragraph 
 
 &emsp;&emsp;(B) except as otherwise provided by the Secretary, is provided to the taxpayer not later than 45 days before the beginning of such period.
 
-> &emsp;Nothing in the preceding sentence shall prevent the issuance of notices to the same taxpayer with respect to the same tax liability with periods specified therein that, in the aggregate, exceed 1 year. A notice shall not be issued under this paragraph unless there is an intent at the time such notice is issued to contact persons other than the taxpayer during the period specified in such notice. The preceding sentence shall not prevent the issuance of a notice if the requirement of such sentence is met on the basis of the assumption that the information sought to be obtained by such contact will not be obtained by other means before such contact.
+> &emsp;Nothing in the preceding sentence shall prevent the issuance of notices to the same taxpayer with respect to the same tax liability with periods specified therein that, in the aggregate, exceed 1 year. A notice shall not be issued under this paragraph unless there is anintent at the time such notice is issued to contact persons other than the taxpayer during the period specified in such notice. The preceding sentence shall not prevent the issuance of a notice if the requirement of such sentence is met on the basis of the assumption that the information sought to be obtained by such contact will not be obtained by other means before such contact.
 
 #### (2) Notice of specific contacts
 
@@ -88,6 +88,8 @@ The Secretary shall not, under the authority of section 6103(n), provide any boo
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 901; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title III, §333(a), Sept. 3, 1982, 96 Stat. 622; Pub. L. 105–206, title III, §§3412, 3417(a), July 22, 1998, 112 Stat. 751, 757; Pub. L. 116–25, title I, §§1206(a), 1208(a), July 1, 2019, 133 Stat. 990, 991.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (c)(1). Pub. L. 116–25, §1206(a), amended par. (1) generally. Prior to amendment, text read as follows: "An officer or employee of the Internal Revenue Service may not contact any person other than the taxpayer with respect to the determination or collection of the tax liability of such taxpayer without providing reasonable notice in advance to the taxpayer that contacts with persons other than the taxpayer may be made."
@@ -105,6 +107,8 @@ Subsec. (e). Pub. L. 105–206, §3417(a), redesignated subsec. (d) as (e).
 <b>1982</b>—Pub. L. 97–248 redesignated existing provisions as subsec. (a), added subsec. (a) heading, and added subsecs. (b) and (c).
 
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2019 Amendment
 

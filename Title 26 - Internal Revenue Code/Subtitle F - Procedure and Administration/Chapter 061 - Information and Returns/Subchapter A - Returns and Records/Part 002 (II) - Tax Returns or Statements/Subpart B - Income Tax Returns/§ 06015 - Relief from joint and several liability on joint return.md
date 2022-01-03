@@ -126,7 +126,7 @@ For purposes of subsection (c)—
 
 #### (C) Exception for fraud
 
-&emsp;&emsp;The Secretary may provide for an allocation of any item in a manner not prescribedby subparagraph (A) if the Secretary establishes that such allocation is appropriate due to fraud of one or both individuals.
+&emsp;&emsp;The Secretary may provide for an allocation of any item in a manner not prescribed by subparagraph (A) if the Secretary establishes that such allocation is appropriate due to fraud of one or both individuals.
 
 #### (4) Limitations on separate returns disregarded
 
@@ -190,7 +190,7 @@ For purposes of subsection (c)—
 
 #### (6) Suspension of running of period for filing petition in title 11 cases
 
-&emsp;In the case of a person who is prohibited by reason of a case under title 11, United States Code, from filing a petition under paragraph (1)(A) with respect to a final determination of relief under this section, the running of the period prescribed by such paragraph for filing such a petition with respect to such final determination shall be suspended for the period during which the person is so prohibited fromfiling such a petition, and for 60 days thereafter.
+&emsp;In the case of a person who is prohibited by reason of a case under title 11, United States Code, from filing a petition under paragraph (1)(A) with respect to a final determination of relief under this section, the running of the period prescribed by such paragraph for filing such a petition with respect to such final determination shall be suspended for the period during which the person is so prohibited from filing such a petition, and for 60 days thereafter.
 
 #### (7) Standard and scope of review
 
@@ -243,6 +243,8 @@ The Secretary shall prescribe such regulations as are necessary to carry out the
 &emsp;(2) regulations providing the opportunity for an individual to have notice of, and an opportunity to participate in, any administrative proceeding with respect to an election made under subsection (b) or (c) or a request for equitable relief made under subsection (f) by the other individual filing the joint return.
 
 (Added Pub. L. 105–206, title III, §3201(a), July 22, 1998, 112 Stat. 734; amended Pub. L. 105–277, div. J, title IV, §4002(c)(2), Oct. 21, 1998, 112 Stat. 2681–906; Pub. L. 106–554, §1(a)(7) \[title III, §313(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–640; Pub. L. 109–432, div. C, title IV, §408(a), (b), Dec. 20, 2006, 120 Stat. 3061, 3062; Pub. L. 114–113, div. Q, title IV, §424(a)(1), Dec. 18, 2015, 129 Stat. 3124; Pub. L. 116–25, title I, §§1001(b)(1)(A), 1203(a), July 1, 2019, 133 Stat. 985, 988.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -297,6 +299,8 @@ Subsec. (e)(5). Pub. L. 106–554, §1(a)(7) \[title III, §313(a)(3)(D)(i)\], a
 Subsecs. (g), (h). Pub. L. 106–554, §1(a)(7) \[title III, §313(a)(2)(A)\], added subsec. (g) and redesignated former subsec. (g) as (h).
 
 <b>1998</b>—Subsec. (e)(3)(A). Pub. L. 105–277 substituted "of subsection (b) or (f)" for "of this section".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2019 Amendment
 

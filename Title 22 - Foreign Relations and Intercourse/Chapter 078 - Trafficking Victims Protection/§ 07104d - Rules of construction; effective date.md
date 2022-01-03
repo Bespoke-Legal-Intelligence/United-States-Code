@@ -12,9 +12,9 @@ Nothing in this title shall be construed as diminishing or otherwise modifying t
 
 #### (1) Contracting requirements
 
-&emsp;(A) Not later than 270 days after January 2, 2013, the Federal Acquisition Regulation shallbe amended to carry out the requirements of sections 1702, 1703, and 1704(c), and the second sentence of section 1704(a)(1), of this title.
+&emsp;(A) Not later than 270 days after January 2, 2013, the Federal Acquisition Regulation shall be amended to carry out the requirements of sections 1702, 1703, and 1704(c), and the second sentence of section 1704(a)(1), of this title.
 
-&emsp;(B) The requirements of sections 1702, 1703, and 1704(c), and the second sentence of section 1704(a)(1), of this title, shall apply to grants, contracts, and cooperative agreements entered into on or after the date that is 270 days after January 2, 2013, and to task and delivery orders awarded on or after such date pursuant to contracts entered before, on, or after such date.
+&emsp;(B) The requirements of sections 1702, 1703, and 1704(c), and the second sentence of section1704(a)(1), of this title, shall apply to grants, contracts, and cooperative agreements entered into on or after the date that is 270 days after January 2, 2013, and to task and delivery orders awarded on or after such date pursuant to contracts entered before, on, or after such date.
 
 #### (2) Investigative and procedural requirements
 

@@ -28,7 +28,7 @@ In the case of an assessment of any tax imposed by chapter 1 attributable in who
 
 &emsp;In the case of any assessment of interest on—
 
-&emsp;&emsp;(A) any deficiency attributable in whole or in part to any unreasonable error or delay by an officer or employee of the Internal Revenue Service (acting in his official capacity) in performing a ministerial or managerial act, or
+&emsp;&emsp;(A) any deficiency attributable in whole or in part to any unreasonable error or delay by an officer or employee of the InternalRevenue Service (acting in his official capacity) in performing a ministerial or managerial act, or
 
 &emsp;&emsp;(B) any payment of any tax described in section 6212(a) to the extent that any unreasonable error or delay in such payment is attributable to such an officer or employee being erroneous or dilatory in performing a ministerial or managerial act,
 
@@ -74,7 +74,7 @@ In the case of an assessment of any tax imposed by chapter 1 attributable in who
 
 &emsp;&emsp;This paragraph shall be applied separately with respect to each item or adjustment.
 
-> &emsp;If, after the return for a taxable year is filed, the taxpayer provides to the Secretary 1 or more signed written documents showing thatthe taxpayer owes an additional amount of tax for the taxable year, clause (i) shall be applied by substituting the date the last of the documents was provided for the date on which the return is filed.
+> &emsp;If, after the return for a taxable year is filed, the taxpayer provides to the Secretary 1 or more signed written documents showing that the taxpayer owes an additional amount of tax for the taxable year, clause (i) shall be applied by substituting the date the last of the documents was provided for the date on which the return is filed.
 
 #### (2) Exceptions
 
@@ -134,6 +134,8 @@ In the case of an assessment of any tax imposed by chapter 1 attributable in who
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 792; Pub. L. 94–455, title XII, §1212(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1712, 1834; Pub. L. 96–589, §6(b)(2), Dec. 24, 1980, 94 Stat. 3407; Pub. L. 99–514, title XV, §1563(a), Oct. 22, 1986, 100 Stat. 2762; Pub. L. 100–647, title I, §1015(n), title VI, §6229(a), Nov. 10, 1988, 102 Stat. 3572, 3733; Pub. L. 104–168, title III, §§301(a), (b), 302(a), title VII, §701(c)(3), July 30, 1996, 110 Stat. 1457, 1464; Pub. L. 105–206, title III, §§3305(a), 3309(a), July 22, 1998, 112 Stat. 743, 745; Pub. L. 105–277, div. J, title IV, §4003(e)(2), Oct. 21, 1998, 112 Stat. 2681–909; Pub. L. 107–134, title I, §112(d)(1), Jan. 23, 2002, 115 Stat. 2434; Pub. L. 108–357, title VIII, §903(a)–(c), Oct. 22, 2004, 118 Stat. 1652; Pub. L. 109–135, title III, §303(b)(1), Dec. 21, 2005, 119 Stat. 2609; Pub. L. 110–28, title VIII, §8242(a), May 25, 2007, 121 Stat. 200; Pub. L. 113–295, div. A, title II, §221(a)(111), Dec. 19, 2014, 128 Stat. 4054; Pub. L. 114–113, div. Q, title IV, §421(a), Dec. 18, 2015, 129 Stat. 3123; Pub. L. 115–141, div. U, title IV, §401(a)(288), Mar. 23, 2018, 132 Stat. 1198.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (g)(2)(E). Pub. L. 115–141 substituted "section 6664(d)(3)(A)" for "section 6664(d)(2)(A)".
@@ -160,7 +162,7 @@ Subsec. (g)(2)(F). Pub. L. 108–357, §903(c), redesignated subpar. (E) as (F).
 
 Subsec. (g)(3)(A). Pub. L. 108–357, §903(a), substituted "18-month period" for "1-year period (18-month period in the case of taxable years beginning before January 1, 2004)".
 
-<b>2002</b>—Subsecs. (h), (i). Pub. L. 107–134 added subsec. (i), redesignated former subsec. (i) as (h), and struckout former subsec. (h), which had authorized abatement of interest on underpayments by taxpayers in Presidentially declared disaster areas and defined the term "Presidentially declared disaster area" for purposes of this provision.
+<b>2002</b>—Subsecs. (h), (i). Pub. L. 107–134 added subsec. (i), redesignated former subsec. (i) as (h), and struck out former subsec. (h), which had authorized abatement of interest on underpayments by taxpayers in Presidentially declared disaster areas and defined the term "Presidentially declared disaster area" for purposes of this provision.
 
 <b>1998</b>—Subsec. (g). Pub. L. 105–206, §3305(a), added subsec. (g). Former subsec. (g) redesignated (h).
 
@@ -192,6 +194,8 @@ Subsec. (f). Pub. L. 100–647, §6229(a), added subsec. (f).
 
 Subsec. (d). Pub. L. 94–455, §1212(a), added subsec. (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
 Pub. L. 114–113, div. Q, title IV, §421(b), Dec. 18, 2015, 129 Stat. 3123, provided that: "The amendments made by this section \[amending this section\] shall apply to claims for abatement of interest filed with the Secretary of the Treasury after the date of the enactment of this Act \[Dec. 18, 2015\]."
@@ -206,7 +210,7 @@ Pub. L. 110–28, title VIII, §8242(b), May 25, 2007, 121 Stat. 200, provided t
 
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–135, title III, §303(b)(2), Dec. 21, 2005, 119 Stat. 2609, provided that: "The amendment made by this subsection \[amending this section\] shall apply to documents provided on or after the date of the enactment of this Act \[Dec. 21, 2005\]."
+Pub. L. 109–135, title III, §303(b)(2), Dec. 21, 2005, 119 Stat. 2609, provided that: "The amendment made bythis subsection \[amending this section\] shall apply to documents provided on or after the date of the enactment of this Act \[Dec. 21, 2005\]."
 
 #### Effective Date of 2004 Amendment
 
@@ -308,7 +312,7 @@ In general.—The amendment made by subsection (a) \[amending this section\] sha
 
 "(2)
 
-Statute of limitations.—If refund or credit of any amount resulting from the application of the amendment made by subsection (a) is prevented at any time before the close of the date which is 1 year after the date of the enactment of this Act \[Oct. 22, 1986\] by the operation of any law or rule of law (including res judicata), refund or credit of such amount (to the extent attributable to the application of the amendment made by subsection (a)) may, nevertheless, be made or allowed if claim therefore \[sic\] is filed before the close of such 1-year period."
+Statute of limitations.—If refund or credit of any amount resulting from the application of the amendment made by subsection (a) is prevented at any time before the close of the date which is 1 year after the date of the enactment of this Act \[Oct. 22, 1986\] by the operation of any law or rule of law (including res judicata), refund or credit of such amount (to the extent attributable to the application of the amendmentmade by subsection (a)) may, nevertheless, be made or allowed if claim therefore \[sic\] is filed before the close of such 1-year period."
 
 #### Effective Date of 1980 Amendment
 

@@ -156,7 +156,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;For purposes of this subparagraph, the term "qualified fund" means any partnership if—
 
-&emsp;&emsp;&emsp;&emsp;(I) at all times during the taxable year (and during each preceding taxable year to which an election under subclause (V) applied), such partnership has at least 20 partners and no single partner owns more than 20 percent of the interests in the capital or profits of the partnership,
+&emsp;&emsp;&emsp;&emsp;(I) at all times during the taxable year (and during each preceding taxable year to which an election under subclause (V) applied), such partnership has at least 20partners and no single partner owns more than 20 percent of the interests in the capital or profits of the partnership,
 
 &emsp;&emsp;&emsp;&emsp;(II) the principal activity of such partnership for such taxable year (and each such preceding taxable year) consists of buying and selling options, futures, or forwards with respect to commodities,
 
@@ -280,6 +280,8 @@ For purposes of this section—
 
 (Added Pub. L. 99–514, title XII, §1261(a), Oct. 22, 1986, 100 Stat. 2587; amended Pub. L. 100–647, title I, §1012(v)(2)(A), (3), (4), (6)–(8), title VI, §6130(a), (b), Nov. 10, 1988, 102 Stat. 3529, 3530, 3717; Pub. L. 101–239, title VII, §7811(i)(7), Dec. 19, 1989, 103 Stat. 2410; Pub. L. 103–66, title XIII, §13223(b)(1), Aug. 10, 1993, 107 Stat. 484; Pub. L. 105–34, title XI, §1104(a), Aug. 5, 1997, 111 Stat. 967; Pub. L. 106–170, title V, §532(b)(3), Dec. 17, 1999, 113 Stat. 1930.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1999</b>—Subsec. (d)(2)(A)(i), (ii). Pub. L. 106–170 substituted "to manage" for "to reduce".
@@ -315,6 +317,8 @@ Subsec. (c)(3). Pub. L. 100–647, §1012(v)(3)(D), amended par. (3) generally. 
 Subsec. (c)(5). Pub. L. 100–647, §1012(v)(2)(A), added par. (5).
 
 Subsec. (d)(1). Pub. L. 100–647, §1012(v)(4), substituted "this subtitle" for "this section".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1999 Amendment
 

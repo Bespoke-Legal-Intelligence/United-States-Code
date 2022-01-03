@@ -16,7 +16,7 @@
 
 &emsp;(2) The estimated number of officers that will be serving on active duty in each grade on the last day of the current fiscal year and the estimated numbers of officers that will be needed on active duty on the last day of each of the next five fiscal years.
 
-&emsp;(3) An estimate and analysis for the current fiscal year and for each of the next five fiscal years of gains to and losses from the number of members on active duty in each officer grade, including a tabulation of—
+&emsp;(3) An estimate and analysis for the current fiscal year and for each of the next five fiscalyears of gains to and losses from the number of members on active duty in each officer grade, including a tabulation of—
 
 &emsp;&emsp;(A) retirements displayed by year of active commissioned service;
 
@@ -68,6 +68,8 @@
 
 (Added Pub. L. 101–510, div. A, title XIV, §1483(a), Nov. 5, 1990, 104 Stat. 1711; amended Pub. L. 102–190, div. A, title X, §1061(a)(1), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 104–106, div. A, title V, §513(e), title X, §1061(d), Feb. 10, 1996, 110 Stat. 307, 442; Pub. L. 105–85, div. A, title V, §522(i)(2), Nov. 18, 1997, 111 Stat. 1736; Pub. L. 105–261, div. A, title IV, §403, Oct. 17, 1998, 112 Stat. 1996; Pub. L. 111–84, div. A, title XI, §1109(b)(1)–(2)(B)(i), Oct. 28, 2009, 123 Stat. 2492, 2493; Pub. L. 112–81, div. A, title IX, §934, Dec. 31, 2011, 125 Stat. 1544; Pub. L. 112–239, div. A, title V, §519(b), Jan. 2, 2013, 126 Stat. 1721; Pub. L. 115–91, div. A, title X, §1051(a)(2), Dec. 12, 2017, 131 Stat. 1560; Pub. L. 115–232, div. A, title V, §591, Aug. 13, 2018, 132 Stat. 1788; Pub. L. 116–92, div. A, title XVII, §1701(a)–(c)(1), Dec. 20, 2019, 133 Stat. 1794, 1795; Pub. L. 116–283, div. A, title V, §551(a)(4), Jan. 1, 2021, 134 Stat. 3629.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1111(b)(2) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009, referred to in subsec. (f)(4), is section 1111(b)(2) of Pub. L. 110–417, which is set out as a note under section 143 of this title.
@@ -82,7 +84,7 @@ Provisions similar to those in this section were contained in section 115(b)(1)(
 
 <b>2019</b>—Pub. L. 116–92, §1701(c)(1), substituted "Annual defense manpower profile report and related reports" for "Annual defense manpower requirements report" in section catchline.
 
-Subsec. (a). Pub. L. 116–92, §1701(a)(1)(A), in introductory provisions, substituted "Not later than April 1 each year, the Secretary of Defense shall submit to Congress a defense manpower profile report." for "The Secretary of Defense shall submit to Congress an annual defense manpower requirements report. The report, which shall be in writing, shall be submitted each year on the date on which the President submits to Congress the budget for the next fiscal year under section 1105 of title 31."
+Subsec. (a). Pub. L. 116–92, §1701(a)(1)(A), in introductory provisions, substituted "Not later than April 1each year, the Secretary of Defense shall submit to Congress a defense manpower profile report." for "The Secretary of Defense shall submit to Congress an annual defense manpower requirements report. The report, which shall be in writing, shall be submitted each year on the date on which the President submits to Congress the budget for the next fiscal year under section 1105 of title 31."
 
 Subsec. (a)(3). Pub. L. 116–92, §1701(a)(1)(B)–(D), struck out par. (3) which read as follows: "the projected number of contractor personnel full-time equivalents required to provide contract services (as that term is defined in section 235 of this title) for each component of the Department of Defense for the next fiscal year and the contractor personnel full-time equivalents that provided contract services for each component of the Department of Defense for the prior fiscal year as reported in the inventory of contracts for services required by section 2330a(c) of this title."
 
@@ -152,7 +154,7 @@ Subsec. (d). Pub. L. 104–106, §1061(d)(3), redesignated subsec. (e) as (d) an
 
 &emsp;"(D) Officers other than those specified in subparagraphs (A), (B), and (C) serving in a temporary grade.
 
-"(5) An analysis of the number of officers and enlisted members serving on active duty for training as of thelast day of the preceding fiscal year under orders specifying an aggregate period in excess of 180 days and an estimate for the current fiscal year of the number that will be ordered to such duty, tabulated by—
+"(5) An analysis of the number of officers and enlisted members serving on active duty for training as of the last day of the preceding fiscal year under orders specifying an aggregate period in excess of 180 days and an estimate for the current fiscal year of the number that will be ordered to such duty, tabulated by—
 
 &emsp;"(A) recruit and specialized training;
 
@@ -179,6 +181,8 @@ Subsec. (g). Pub. L. 104–106, §1061(d)(5), redesignated subsec. (g) as (e).
 Subsec. (h). Pub. L. 104–106, §513(e), added subsec. (h).
 
 <b>1991</b>—Subsec. (d)(3). Pub. L. 102–190 inserted "provide" before "a comprehensive".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Centralized Database of Information on Military Technician Positions
 

@@ -48,7 +48,7 @@ After the establishment of the Operating Fund, the guaranty agency shall deposit
 
 #### (C) Enrollment and repayment status management
 
-&emsp;&emsp;The term "enrollment and repayment status management" means activities of aguaranty agency that are directly related to ascertaining the student's enrollment status, including prompt notification to the lender of such status, an audit of the note or written agreement to determine if the provisions of that note or agreement are consistent with the records of the guaranty agency as to the principal amount of the loan guaranteed, and an examination of the note or agreement to assure that the repayment provisions are consistent with the provisions of this part.
+&emsp;&emsp;The term "enrollment and repayment status management" means activities of a guaranty agency that are directly related to ascertaining the student's enrollment status, including prompt notification to the lender of such status, an audit of the note or written agreement to determine if the provisions of that note or agreement are consistent with the records of the guaranty agency as to the principal amount of the loan guaranteed, and an examination of the note or agreement to assure that the repayment provisions are consistent with the provisions of this part.
 
 #### (e) Ownership and regulation of Operating Fund
 
@@ -70,9 +70,13 @@ After the establishment of the Operating Fund, the guaranty agency shall deposit
 
 (Pub. L. 89–329, title IV, §422B, as added Pub. L. 105–244, title IV, §413(b), Oct. 7, 1998, 112 Stat. 1677.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1078(c)(6)(B) of this title, referred to in subsec. (c)(5), was redesignated section 1078(c)(6)(A)(ii) of this title by Pub. L. 109–171, title VIII, §8014(d)(3)(A), (B), Feb. 8, 2006, 120 Stat. 170.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

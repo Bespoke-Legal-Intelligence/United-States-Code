@@ -46,6 +46,8 @@ In this subchapter:
 
 (Pub. L. 114–125, title IV, §402, Feb. 24, 2016, 130 Stat. 155.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This subchapter, referred to in text, was in the original "this title", meaning title IV of Pub. L. 114–125, Feb. 24, 2016, 130 Stat. 155, which is classified principally to this subchapter. For complete classification of title IV to the Code, see section 401 of Pub. L. 114–125, set out as a Short Title note under section 4301 of this title and Tables.

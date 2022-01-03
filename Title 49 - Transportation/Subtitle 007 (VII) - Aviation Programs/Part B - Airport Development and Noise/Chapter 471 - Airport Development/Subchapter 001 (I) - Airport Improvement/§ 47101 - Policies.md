@@ -14,7 +14,7 @@ General.—It is the policy of the United States—
 
 &emsp;(5) to encourage the development of intermodal connections on airport property between aeronautical and other transportation modes and systems to serve air transportation passengers and cargo efficiently and effectively and promote economic development;
 
-&emsp;(6) that airport development projects under this subchapter provide for the protection and enhancement of natural resources and the quality of the environment of the United States;
+&emsp;(6) that airport development projects under this subchapter provide for the protection and enhancement of natural resources and thequality of the environment of the United States;
 
 &emsp;(7) that airport construction and improvement projects that increase the capacity of facilities to accommodate passenger and cargo traffic be undertaken to the maximum feasible extent so that safety and efficiency increase and delays decrease;
 
@@ -56,11 +56,11 @@ National Transportation Policy.—(1) It is a goal of the United States to devel
 
 (c)
 
-Capacity Expansion and Noise Abatement.—It is in the public interest to recognize the effects of airport capacity expansion projects on aircraft noise. Efforts to increase capacity through any means can have an impact on surrounding communities. Noncompatible land uses around airports must be reduced andefforts to mitigate noise must be given a high priority.
+Capacity Expansion and Noise Abatement.—It is in the public interest to recognize the effects of airport capacity expansion projects on aircraft noise. Efforts to increase capacity through any means can have an impact on surrounding communities. Noncompatible land uses around airports must be reduced and efforts to mitigate noise must be given a high priority.
 
 (d)
 
-Consistency With Air Commerce and Safety Policies.—Each airport and airway program should be carried out consistently with section 40101(a), (b), (d), and (f) of this title to foster competition, prevent unfair methods of competition in air transportation, maintain essential air transportation, and prevent unjust and discriminatory practices, including as the practices may be applied between categories and classes of aircraft.
+Consistency With Air Commerce and Safety Policies.—Each airport and airway program should be carried out consistently with section 40101(a), (b), (d), and (f) of this title to foster competition, prevent unfair methods of competition in air transportation, maintain essential air transportation, and prevent unjustand discriminatory practices, including as the practices may be applied between categories and classes of aircraft.
 
 (e)
 
@@ -266,6 +266,8 @@ In subsection (g), the words "formulated" and "due" are omitted as surplus. The 
 
 This amends 49:47101(a)(12) to translate a cross-reference to the Airport and Airway Improvement Act of 1982 (Public Law 97–248, 96 Stat. 671) to the corresponding cross-reference of title 49, United States Code.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Subsec. (g)(2)(C), (D). Pub. L. 112–95 added subpar. (C) and redesignated former subpar. (C) as (D).
@@ -289,6 +291,8 @@ Subsec. (a)(12). Pub. L. 103–429 substituted "subchapter" for "Act".
 Pub. L. 103–305, §110, added par. (12).
 
 Subsec. (a)(13). Pub. L. 103–305, §110, added par. (13).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 
@@ -410,27 +414,5 @@ Pub. L. 104–264, title XII, §1203, Oct. 9, 1996, 110 Stat. 3280, provided tha
 
 #### Study on Innovative Financing
 
-Pub. L. 103–305, title V, §520, Aug. 23, 1994, 108 Stat. 1601, provided that:
-
-"(a)
-
-Study.—The Secretary shall conduct a study on innovative approaches for using Federal funds to finance airport development as a means of supplementing financing available under the Airport Improvement Program.
-
-"(b)
-
-Matters To Be Considered.—In conducting the study under subsection (a), the Secretary shall consider, at a minimum, the following:
-
-&emsp;"(1) Mechanisms that will produce greater investments in airport development per dollar of Federal expenditure.
-
-&emsp;"(2) Approaches that would permit entering into agreements with non-Federal entities, such as airport sponsors, for the loan of Federal funds, guarantee of loan repayment, or purchase of insurance or other forms of enhancement for borrower debt, including the use of unobligated Airport Improvement Program contract authority and unobligated balances in the Airport and Airway Trust Fund.
-
-&emsp;"(3) Means to lower the cost of financing airport development.
-
-"(c)
-
-Consultation.—In considering innovative financing pursuant to this section, the Secretary may consult with airport owners and operators and public and private sector experts.
-
-"(d)
-
-Report to Congress.—Not later than 12 months after the date of the enactment of this Act \[Aug. 23, 1994\], the Secretary shall transmit to Congress a report on the results of the study conducted under subsection (a)."
+Pub. L. 103–305, title V, §520, Aug. 23, 1994, 108 Stat. 1601, required the Secretary to conduct a study on innovative approaches for using Federal funds to finance airport development as a means of supplementing financing available under the Airport Improvement Program and set out matters for the Secretary to consider and persons to consult, and provided that the Secretary would transmit to Congress a report on the results of the study not later than 12 months after Aug. 23, 1994.
 

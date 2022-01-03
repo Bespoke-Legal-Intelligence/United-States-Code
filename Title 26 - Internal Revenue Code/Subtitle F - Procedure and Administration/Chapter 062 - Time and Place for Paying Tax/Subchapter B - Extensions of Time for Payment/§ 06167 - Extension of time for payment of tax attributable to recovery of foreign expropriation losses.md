@@ -50,7 +50,7 @@ For purposes of this section, the tax attributable to a recovery of a foreign ex
 
 &emsp;(1) the additional tax imposed by section 1351(d)(1) on such recovery, and
 
-&emsp;(2) the amount by which the tax imposed under subtitle A is increased by reason of thegain on such recovery which under section 1351(e) is considered as gain on the involuntary conversion of property.
+&emsp;(2) the amount by which the tax imposed under subtitle A is increased by reason of the gain on such recovery which under section 1351(e) is considered as gain on the involuntary conversion of property.
 
 #### (g) Failure to pay installment
 
@@ -64,6 +64,8 @@ If any installment under this section is not paid on or before the date fixed fo
 
 (Added Pub. L. 89–384, §1(d), Apr. 8, 1966, 80 Stat. 102; amended Pub. L. 93–625, §7(d)(2), (3), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–455, title XIX, §§1902(b)(2)(B), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1806, 1834; Pub. L. 114–41, title II, §2006(a)(2)(D), July 31, 2015, 129 Stat. 457.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsecs. (a), (c). Pub. L. 114–41 substituted "fourth month" for "third month" in concluding provisions.
@@ -75,6 +77,8 @@ Subsec. (h). Pub. L. 94–455, §§1902(b)(2)(B), 1906(b)(13)(A), substituted "s
 <b>1975</b>—Subsec. (e). Pub. L. 93–625, §7(d)(2), struck out provision that in applying section 6601(j) (relating to the application of the 4-percent interest rate in the case of recoveries of foreign expropriation losses to which this section applies) in the case of a deficiency, the entire amount which was prorated to installments under this section shall be treated as an amount of tax the payment of which was extended under this section.
 
 Subsec. (h). Pub. L. 93–625, §7(d)(3), struck out par. (1) providing a cross reference for payment of interest at 4 percent per annum for period of an extension under section 6601(j) of this title, and redesignated pars. (2) and (3) as (1) and (2), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

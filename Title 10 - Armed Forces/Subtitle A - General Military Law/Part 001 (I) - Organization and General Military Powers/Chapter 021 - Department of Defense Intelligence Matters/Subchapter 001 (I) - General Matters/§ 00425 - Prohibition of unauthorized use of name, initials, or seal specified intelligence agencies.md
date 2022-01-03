@@ -18,7 +18,9 @@ Prohibition.—Except with the written permission of both the Secretary of Defen
 
 Authority To Enjoin Violations.—Whenever it appears to the Attorney General that any person is engaged or is about to engage in an act or practice which constitutes or will constitute conduct prohibited by subsection (a), the Attorney General may initiate a civil proceeding in a district court of the United States to enjoin such act or practice. Such court shall proceed as soon as practicable to the hearing and determination of such action and may, at any time before final determination, enter such restraining orders or prohibitions, or take such other actions as is warranted, to prevent injury to the United States or to any person or class of persons for whose protection the action is brought.
 
-(Added and amended Pub. L. 105–107, title V, §503(a), (b), Nov. 20, 1997, 111 Stat. 2262; Pub. L. 108–136, div. A, title IX, §921(d)(6), Nov. 24, 2003, 117 Stat. 1569; Pub. L. 110–181, div. A, title IX,§931(a)(6), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, \[div. A\], title IX, §932(a)(6), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, §1073(c)(10), Oct. 28, 2009, 123 Stat. 2475.)
+(Added and amended Pub. L. 105–107, title V, §503(a), (b), Nov. 20, 1997, 111 Stat. 2262; Pub. L. 108–136, div. A, title IX, §921(d)(6), Nov. 24, 2003, 117 Stat. 1569; Pub. L. 110–181, div. A, title IX, §931(a)(6), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, \[div. A\], title IX, §932(a)(6), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, §1073(c)(10), Oct. 28, 2009, 123 Stat. 2475.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -37,6 +39,8 @@ A prior section 425, added Pub. L. 103–178, title V, §503(a)(1), Dec. 3, 1993
 <b>2003</b>—Subsec. (a)(5). Pub. L. 108–136 added par. (5).
 
 <b>1997</b>—Subsec. (b). Pub. L. 105–107, §503(b), renumbered section 202(b) of this title as subsec. (b) of this section and inserted heading.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

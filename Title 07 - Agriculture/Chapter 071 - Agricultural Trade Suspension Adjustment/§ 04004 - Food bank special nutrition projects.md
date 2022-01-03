@@ -32,11 +32,13 @@ There is authorized to be appropriated such sums as may be necessary to carry ou
 
 (Pub. L. 96–494, title II, §211, Dec. 3, 1980, 94 Stat. 2577; Pub. L. 97–98, title XI, §1114(b), Dec. 22, 1981, 95 Stat. 1269; Pub. L. 106–78, title VII, §752(b)(4), Oct. 22, 1999, 113 Stat. 1169.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Richard B. Russell National School Lunch Act, referred to in subsec. (a), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
-The Child Nutrition Act of 1966, referred to in subsec. (a), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
+The Child Nutrition Act of 1966, referred to in subsec. (a), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, asamended, which is classified generally to chapter 13A (§1771 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
 
 #### Amendments
 
@@ -48,6 +50,8 @@ Subsec. (d). Pub. L. 97–98, §1114(b)(2), (3), substituted "to Congress a prog
 
 Subsecs. (f), (g). Pub. L. 97–98, §1114(b)(4), (5), added subsec. (f), redesignated former subsec. (f) as (g), and substituted "such sums as may be necessary to carry out this section" for "to carry out this section $356,000".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under section 4301 of this title.
@@ -58,5 +62,5 @@ Section effective Dec. 3, 1980, see section 213 of Pub. L. 96–494, set out as 
 
 #### Community Services Administration
 
-Community Services Administration, which was established by section 601 of Economic Opportunity Actof 1964, as amended (42 U.S.C. 2941), terminated when Economic Opportunity Act of 1964, Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended, was repealed, except for titles VIII and X, effective Oct. 1, 1981, by section 683(a) of Pub. L. 97–35, title VI, Aug. 13, 1981, 95 Stat. 519, which is classified to 42 U.S.C. 9912(a). An Office of Community Services, headed by a Director, was established in the Department of Health and Human Services by section 676 of Pub. L. 97–35, which is classified to 42 U.S.C. 9905.
+Community Services Administration, which was established by section 601 of Economic Opportunity Act of 1964, as amended (42 U.S.C. 2941), terminated when Economic Opportunity Act of 1964, Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended, was repealed, except for titles VIII and X, effective Oct. 1, 1981, by section 683(a) of Pub. L. 97–35, title VI, Aug. 13, 1981, 95 Stat. 519, which is classified to 42 U.S.C. 9912(a). An Office of Community Services, headed by a Director, was established in the Department of Health and Human Services by section 676 of Pub. L. 97–35, which is classified to 42 U.S.C. 9905.
 

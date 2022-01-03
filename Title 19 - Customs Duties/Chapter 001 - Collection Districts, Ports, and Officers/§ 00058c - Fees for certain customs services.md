@@ -2,7 +2,7 @@
 
 #### (a) Schedule of fees
 
-In addition to any other fee authorized by law, the Secretary of the Treasury shall charge andcollect the following fees (subject to adjustment under subsection (l)) for the provision of customs services in connection with the following:
+In addition to any other fee authorized by law, the Secretary of the Treasury shall charge and collect the following fees (subject to adjustment under subsection (l)) for the provision of customs services in connection with the following:
 
 &emsp;(1) For the arrival of a commercial vessel of 100 net tons or more, $397.
 
@@ -288,7 +288,7 @@ For purposes of this section—
 
 &emsp;(B) the fee charged under subsection (a)(5) is not collected at the time such document or ticket is issued;
 
-> the person providing transportation to such passenger shall collect such fee at the time such passenger departs from the customs territory of the United States and shall provide such passenger a receipt for the payment of such fee.
+> the person providing transportation to such passenger shall collect such fee at the time such passenger departs from the customs territory ofthe United States and shall provide such passenger a receipt for the payment of such fee.
 
 (3) The person who collects fees under paragraph (1) or (2) shall remit those fees to the Secretary of the Treasury at any time before the date that is 31 days after the close of the calendar quarter in which the fees are collected.
 
@@ -356,7 +356,7 @@ For purposes of this section—
 
 &emsp;(C) in connection with—
 
-&emsp;&emsp;(i) the activation or operation (including Customs Service supervision) of any foreign trade zone or subzone established under the Act of June 18, 1934 (commonly known as the Foreign Trade Zones Act, 19 U.S.C. 81a et seq.), or
+&emsp;&emsp;(i) the activation or operation (including Customs Service supervision) of any foreigntrade zone or subzone established under the Act of June 18, 1934 (commonly known as the Foreign Trade Zones Act, 19 U.S.C. 81a et seq.), or
 
 &emsp;&emsp;(ii) the designation or operation (including Customs Service supervision) of any bonded warehouse under section 1555 of this title.
 
@@ -370,7 +370,7 @@ For purposes of this section—
 
 (2) Except as otherwise provided in this subsection, all funds in the Customs User Fee Account shall be available, to the extent provided for in appropriations Acts, to pay the costs (other than costs for which direct reimbursement under paragraph (3) is required) incurred by the United States Customs Service in conducting customs revenue functions as defined in section 215 of title 6 (other than functions performed by the Office of International Affairs referred to in section 215(8) of title 6), and for automation (including the Automation Commercial Environment computer system), and for no other purpose. To the extent that funds in the Customs User Fee Account are insufficient to pay the costs of such customs revenue functions, customs duties in an amount equal to the amount of such insufficiency shall be available, to the extent provided for in appropriations Acts, to pay the costs of such customs revenue functions in the amount of such insufficiency, and shall be available for no other purpose. The provisions of the first and second sentences of this paragraph specifying the purposes for which amounts in the Customs User Fee Account may be made available shall not be superseded except by a provision of law which specifically modifies or supersedes such provisions. So long as there is a surplus of funds in the Customs User Fee Account, the Secretary of the Treasury may not reduce personnel staffing levels for providing commercial clearance and preclearance services.
 
-(3)(A) The Secretary of the Treasury, in accordance with section 1524 of this title and subject to subparagraph (B), shall directly reimburse, from the fees collected under subsection (a) (other than the fees under subsection (a)(9)and (10) and the excess fees determined by the Secretary under paragraph (4)), each appropriation for the amount paid out of that appropriation for the costs incurred by the Secretary—
+(3)(A) The Secretary of the Treasury, in accordance with section 1524 of this title and subject to subparagraph (B), shall directly reimburse, from the fees collected under subsection (a) (other than the fees under subsection (a)(9) and (10) and the excess fees determined by the Secretary under paragraph (4)), each appropriation for the amount paid out of that appropriation for the costs incurred by the Secretary—
 
 &emsp;(i) in—
 
@@ -442,9 +442,9 @@ Except with respect to customs services for which fees are imposed under subsect
 
 (2) Fees may be charged under subsection (a)(5) only with respect to customs services rendered in regard to arriving passengers using transportation for which documents or tickets were issued after the date that is 90 days after April 7, 1986.
 
-(3)(A) Fees may not be charged under paragraphs (9) and (10) of subsection (a) after October 21, 2029.
+(3)(A) Fees may not be charged under paragraphs (9) and (10) of subsection (a) after September 30, 2031.
 
-(B)(i) Subject to clause (ii), Fees <sup>3</sup> may not be charged under paragraphs (1) through (8) of subsection (a) after October 21, 2029.
+(B)(i) Subject to clause (ii), Fees <sup>3</sup> may not be charged under paragraphs (1) through (8) of subsection (a) after September 30, 2031.
 
 (ii) In fiscal year 2006 and in each succeeding fiscal year for which fees under paragraphs (1) through (8) of subsection (a) are authorized—
 
@@ -464,7 +464,7 @@ The Commissioner of U.S. Customs and Border Protection shall establish an adviso
 
 #### (1) In general
 
-&emsp;The Secretary of the Treasury shall adjust the fees established under subsection (a), andthe limitations on such fees under paragraphs (2), (3), (5), (6), (8), and (9) of subsection (b), on April 1, 2016, and at the beginning of each fiscal year thereafter, to reflect the percentage (if any) of the increase in the average of the Consumer Price Index for the preceding 12-month period compared to the Consumer Price Index for fiscal year 2014.
+&emsp;The Secretary of the Treasury shall adjust the fees established under subsection (a), and the limitations on such fees under paragraphs (2), (3), (5), (6), (8), and (9) of subsection (b), on April 1, 2016, and at the beginning of each fiscal year thereafter, to reflect the percentage (if any) of the increase in the average of the Consumer Price Index for the preceding 12-month period compared to the Consumer Price Index for fiscal year 2014.
 
 #### (2) Special rules for calculation of adjustment
 
@@ -478,7 +478,7 @@ The Commissioner of U.S. Customs and Border Protection shall establish an adviso
 
 &emsp;For purposes of this subsection, the term "Consumer Price Index" means the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor.
 
-(Pub. L. 99–272, title XIII, §13031, Apr. 7, 1986, 100 Stat. 308; Pub. L. 99–509, title VIII, §8101, Oct. 21, 1986, 100 Stat. 1965; Pub. L. 99–514, §2, title XVIII, §1893(a)–(c)(1), (d), (e), Oct. 22, 1986, 100 Stat. 2095, 2927–2930; Pub. L. 100–203, title IX, §9501(a), Dec. 22, 1987, 101 Stat. 1330–377; Pub. L. 100–418, title I, §1214(g), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 100–449, title II, §203, Sept. 28, 1988, 102 Stat. 1861; Pub. L. 100–647, title IX, §9001(a)(13), Nov. 10, 1988, 102 Stat. 3807; Pub. L. 101–207, §3(c)(1), (f)(2), Dec. 7, 1989, 103 Stat. 1834, 1835; Pub. L. 101–382, title I, §§111(a)–(e), 139(c), Aug. 20, 1990, 104 Stat. 635–639, 654; Pub. L. 101–508, title X, §10001(a), (b), (e), (f), Nov. 5, 1990, 104 Stat. 1388–385 to 1388–387; Pub. L. 103–66, title XIII, §§13801, 13813, Aug. 10, 1993, 107 Stat. 667, 671; Pub. L. 103–182, title II, §204, title V, §521(a), title VI, §682, Dec. 8, 1993, 107 Stat. 2092, 2160, 2218; Pub. L. 103–465, title VI, §§611(a), 612(a), Dec. 8, 1994, 108 Stat. 4991, 4992; Pub. L. 104–295, §§4(a), 6, 21(a)(1), 38(a)–(c), Oct. 11, 1996, 110 Stat. 3516, 3517, 3529, 3539, 3540; Pub. L. 105–150, §1(a), Dec. 16, 1997, 111 Stat. 2685; Pub. L. 106–36, title I, §1001(b)(1), title II, §2418(a)–(d), June 25, 1999, 113 Stat. 131, 176, 177; Pub. L. 106–476, title I, §1457, Nov. 9, 2000, 114 Stat. 2170; Pub. L. 107–210, div. A, title III, §337(a), Aug. 6, 2002, 116 Stat. 978; Pub. L. 107–296, title IV, §419(a), Nov. 25, 2002, 116 Stat. 2181; Pub. L. 108–77, title II, §204, Sept. 3, 2003, 117 Stat. 930; Pub. L. 108–78, title II, §203, Sept. 3, 2003, 117 Stat. 961; Pub. L. 108–89, title III, §301, Oct. 1, 2003, 117 Stat. 1134; Pub. L. 108–121, title II, §201, Nov. 11, 2003, 117 Stat. 1343; Pub. L. 108–286, title II, §204, Aug. 3, 2004, 118 Stat. 939; Pub. L. 108–357, title VIII, §892(a), (b), (c)(2), (d), Oct. 22, 2004, 118 Stat. 1644–1646; Pub. L. 108–429, title II, §2004(f), Dec. 3, 2004, 118 Stat. 2593; Pub. L. 109–53, title II, §204, Aug. 2, 2005, 119 Stat. 483; Pub. L. 109–169, title II, §203, Jan. 11, 2006, 119 Stat. 3591; Pub. L. 109–280, title XIV, §1635(f)(5), Aug. 17, 2006, 120 Stat. 1171; Pub. L. 109–283, title II, §203, Sept. 26, 2006, 120 Stat. 1201; Pub. L. 110–42, §3, June 30, 2007, 121 Stat. 236; Pub. L. 110–52, §2, Aug. 1, 2007, 121 Stat. 264; Pub. L. 110–89, §2(b), Sept. 28, 2007, 121 Stat. 982; Pub. L. 110–138, title II, §204, title VI, §601, Dec. 14, 2007, 121 Stat. 1475, 1489; Pub. L. 110–191, §3, Feb. 29, 2008, 122 Stat. 646; Pub. L. 110–234, title XV, §15201(a), (b), May 22, 2008, 122 Stat. 1500; Pub. L. 110–246, §4(a), title XV, §15201(a), (b), June 18, 2008, 122 Stat. 1664, 2262; Pub. L. 110–287, §2, July 29, 2008, 122 Stat. 2649; Pub. L. 110–436, §5(a), Oct. 16, 2008, 122 Stat. 4981; Pub. L. 111–42, title I, §103, July 28, 2009, 123 Stat. 1963; Pub. L. 111–124, §3, Dec. 28, 2009, 123 Stat. 3484; Pub. L. 111–171, §11, May 24, 2010, 124 Stat. 1207; Pub. L. 111–210, §2, July 27, 2010, 124 Stat. 2256; Pub. L. 111–227, title IV, §4001(a), (b)(1), Aug. 11, 2010, 124 Stat. 2480; Pub. L. 111–291, title VIII, §821, Dec. 8, 2010, 124 Stat. 3163; Pub. L. 111–344, title III, §301, Dec. 29, 2010, 124 Stat. 3617; Pub. L. 112–41, title II, §203, title V, §504, Oct. 21, 2011, 125 Stat. 447, 460; Pub. L. 112–42, title II, §204, title VI, §§601(a), 602, Oct. 21, 2011, 125 Stat. 483, 495, 496; Pub. L. 112–43, title II, §204, title V, §501, Oct. 21, 2011, 125 Stat. 518, 530; Pub. L. 112–163, §5, Aug. 10, 2012, 126 Stat. 1277; Pub. L. 113–67, div. A, title VII, §701, Dec. 26, 2013, 127 Stat. 1189; Pub. L. 113–159, title II, §2004, Aug. 8, 2014, 128 Stat. 1851; Pub. L. 113–188, title X, §1001(c), Nov. 26, 2014, 128 Stat. 2022; Pub. L. 114–27, title VIII, §§801(a), 802(a), June 29, 2015, 129 Stat. 414; Pub. L. 114–94, div. C, title XXXII, §32201(a), (c), Dec. 4, 2015, 129 Stat. 1738; Pub. L. 114–125, title I, §106(a), title VIII, §802(d)(2), title IX, §§908, 920(a), Feb. 24, 2016, 130 Stat. 133, 210, 235, 280; Pub. L. 115–31, div. M, title I, §105(a), May 5, 2017, 131 Stat. 804; Pub. L. 115–123, div. C, title II, §30201(a), Feb. 9, 2018, 132 Stat. 126; Pub. L. 115–141, div. M, title V, §503, Mar. 23, 2018, 132 Stat. 1051; Pub. L. 115–239, §1665, Sept. 13, 2018, 132 Stat. 2887; Pub. L. 115–264, §2, Oct. 11, 2018, 132 Stat. 3676; Pub. L. 115–271, title VIII, §8002(a), (b), Oct. 24, 2018, 132 Stat. 4073, 4074; Pub. L. 116–37, title IV, §401(a), Aug. 2, 2019, 133 Stat. 1058; Pub. L. 116–113, title II, §203(a), Jan. 29, 2020, 134 Stat. 43; Pub. L. 116–164, §3(a), Oct. 10, 2020, 134 Stat. 758.)
+(Pub. L. 99–272, title XIII, §13031, Apr. 7, 1986, 100 Stat. 308; Pub. L. 99–509, title VIII, §8101, Oct. 21, 1986, 100 Stat. 1965; Pub. L. 99–514, §2, title XVIII, §1893(a)–(c)(1), (d), (e), Oct. 22, 1986, 100 Stat. 2095, 2927–2930; Pub. L. 100–203, title IX, §9501(a), Dec. 22, 1987, 101 Stat. 1330–377; Pub. L. 100–418, title I, §1214(g), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 100–449, title II, §203, Sept. 28, 1988, 102 Stat. 1861; Pub. L. 100–647, title IX, §9001(a)(13), Nov. 10, 1988, 102 Stat. 3807; Pub. L. 101–207, §3(c)(1), (f)(2), Dec. 7, 1989, 103 Stat. 1834, 1835; Pub. L. 101–382, title I, §§111(a)–(e), 139(c), Aug. 20, 1990, 104 Stat. 635–639, 654; Pub. L. 101–508, title X, §10001(a), (b), (e), (f), Nov. 5, 1990, 104 Stat. 1388–385 to 1388–387; Pub. L. 103–66, title XIII, §§13801, 13813, Aug. 10, 1993, 107 Stat. 667, 671; Pub. L. 103–182, title II, §204, title V, §521(a), title VI, §682, Dec. 8, 1993, 107 Stat. 2092, 2160, 2218; Pub. L. 103–465, title VI, §§611(a), 612(a), Dec. 8, 1994, 108 Stat. 4991, 4992; Pub. L. 104–295, §§4(a), 6, 21(a)(1), 38(a)–(c), Oct. 11, 1996, 110 Stat. 3516, 3517, 3529, 3539, 3540; Pub. L. 105–150, §1(a), Dec. 16, 1997, 111 Stat. 2685; Pub. L. 106–36, title I, §1001(b)(1), title II, §2418(a)–(d), June 25, 1999, 113 Stat. 131, 176, 177; Pub. L. 106–476, title I, §1457, Nov. 9, 2000, 114 Stat. 2170; Pub. L. 107–210, div. A, title III, §337(a), Aug. 6, 2002, 116 Stat. 978; Pub. L. 107–296, title IV, §419(a), Nov. 25, 2002, 116 Stat. 2181; Pub. L. 108–77, title II, §204, Sept. 3, 2003, 117 Stat. 930; Pub. L. 108–78, title II, §203, Sept. 3, 2003, 117 Stat. 961; Pub. L. 108–89, title III, §301, Oct. 1, 2003, 117 Stat. 1134; Pub. L. 108–121, title II, §201, Nov. 11, 2003, 117 Stat. 1343; Pub. L. 108–286, title II, §204, Aug. 3, 2004, 118 Stat. 939; Pub. L. 108–357, title VIII, §892(a), (b), (c)(2), (d), Oct. 22, 2004, 118 Stat. 1644–1646; Pub. L. 108–429, title II, §2004(f), Dec. 3, 2004, 118 Stat. 2593; Pub. L. 109–53, title II, §204, Aug. 2, 2005, 119 Stat. 483; Pub. L. 109–169, title II, §203, Jan. 11, 2006, 119 Stat. 3591; Pub. L. 109–280, title XIV, §1635(f)(5), Aug. 17, 2006, 120 Stat. 1171; Pub. L. 109–283, title II, §203, Sept. 26, 2006, 120 Stat. 1201; Pub. L. 110–42, §3, June 30, 2007, 121 Stat. 236; Pub. L. 110–52, §2, Aug. 1, 2007, 121 Stat. 264; Pub. L. 110–89, §2(b), Sept. 28, 2007, 121 Stat. 982; Pub. L. 110–138, title II, §204, title VI, §601, Dec. 14, 2007, 121 Stat. 1475, 1489; Pub. L. 110–191, §3, Feb. 29, 2008, 122 Stat. 646; Pub. L. 110–234, title XV, §15201(a), (b), May 22, 2008, 122 Stat. 1500; Pub. L. 110–246, §4(a), title XV, §15201(a), (b), June 18, 2008, 122 Stat. 1664, 2262; Pub. L. 110–287, §2, July 29, 2008, 122 Stat. 2649; Pub. L. 110–436, §5(a), Oct. 16, 2008, 122 Stat. 4981; Pub. L. 111–42, title I, §103, July 28, 2009, 123 Stat. 1963; Pub. L. 111–124, §3, Dec. 28, 2009, 123 Stat. 3484; Pub. L. 111–171, §11, May 24, 2010, 124 Stat. 1207; Pub. L. 111–210,§2, July 27, 2010, 124 Stat. 2256; Pub. L. 111–227, title IV, §4001(a), (b)(1), Aug. 11, 2010, 124 Stat. 2480; Pub. L. 111–291, title VIII, §821, Dec. 8, 2010, 124 Stat. 3163; Pub. L. 111–344, title III, §301, Dec. 29, 2010, 124 Stat. 3617; Pub. L. 112–41, title II, §203, title V, §504, Oct. 21, 2011, 125 Stat. 447, 460; Pub. L. 112–42, title II, §204, title VI, §§601(a), 602, Oct. 21, 2011, 125 Stat. 483, 495, 496; Pub. L. 112–43, title II, §204, title V, §501, Oct. 21, 2011, 125 Stat. 518, 530; Pub. L. 112–163, §5, Aug. 10, 2012, 126 Stat. 1277; Pub. L. 113–67, div. A, title VII, §701, Dec. 26, 2013, 127 Stat. 1189; Pub. L. 113–159, title II, §2004, Aug. 8, 2014, 128 Stat. 1851; Pub. L. 113–188, title X, §1001(c), Nov. 26, 2014, 128 Stat. 2022; Pub. L. 114–27, title VIII, §§801(a), 802(a), June 29, 2015, 129 Stat. 414; Pub. L. 114–94, div. C, title XXXII, §32201(a), (c), Dec. 4, 2015, 129 Stat. 1738; Pub. L. 114–125, title I, §106(a), title VIII, §802(d)(2), title IX, §§908, 920(a), Feb. 24, 2016, 130 Stat. 133, 210, 235, 280; Pub. L. 115–31, div. M, title I, §105(a), May 5, 2017, 131 Stat. 804; Pub. L. 115–123, div. C, title II, §30201(a), Feb. 9, 2018, 132 Stat. 126; Pub. L. 115–141, div. M, title V, §503, Mar. 23, 2018, 132 Stat. 1051; Pub. L. 115–239, §1665, Sept. 13, 2018, 132 Stat. 2887; Pub. L. 115–264, §2, Oct. 11, 2018, 132 Stat. 3676; Pub. L. 115–271, title VIII, §8002(a), (b), Oct. 24, 2018, 132 Stat. 4073, 4074; Pub. L. 116–37, title IV, §401(a), Aug. 2, 2019, 133 Stat. 1058; Pub. L. 116–113, title II, §203(a), Jan. 29, 2020, 134 Stat. 43; Pub. L. 116–164, §3(a), Oct. 10, 2020, 134 Stat. 758; Pub. L. 117–2, title IX, §9912(a), Mar. 11, 2021, 135 Stat. 238; Pub. L. 117–58, div. H, title III, §80301(a), Nov. 15, 2021, 135 Stat. 1330.)
 
 #### Amendment of Section
 
@@ -503,6 +503,8 @@ The Commissioner of U.S. Customs and Border Protection shall establish an adviso
 <i>For termination of amendment by section 107(c) of Pub. L. 108–77, see Effective and Termination Dates of 2003 Amendment note below.</i>
 
 <i>For termination of amendment by section 501(c) of Pub. L. 100–449, see Effective and Termination Dates of 1988 Amendment note below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -549,6 +551,14 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Section is comprised of section 13031 of Pub. L. 99–272. Subsec. (h) of section 13031 of Pub. L. 99–272 amended section 545(i) of Title 45, Railroads, and repealed section 1741(e) of former Title 49, Transportation.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (j)(3)(A). Pub. L. 117–58, §80301(a)(1), substituted "September 30, 2031" for "September 30, 2030".
+
+Pub. L. 117–2, §9912(a)(1), substituted "September 30, 2030" for "October 21, 2029".
+
+Subsec. (j)(3)(B)(i). Pub. L. 117–58, §80301(a)(2), substituted "September 30, 2031" for "September 30, 2030".
+
+Pub. L. 117–2, §9912(a)(2), substituted "September 30, 2030" for "October 21, 2029".
 
 <b>2020</b>—Subsec. (b)(10)(B). Pub. L. 116–113 added subpar. (B) and struck out former subpar. (B) which read as follows: "For goods qualifying under the rules of origin set out in section 3332 of this title, the fee under subsection (a)(9) or (10)—
 
@@ -1088,6 +1098,8 @@ Pub. L. 99–514, §2, substituted "Internal Revenue Code of 1986" for "Internal
 
 Subsec. (j)(1), (3). Pub. L. 99–509, §8101(e), substituted "otherwise provided in this subsection" for "provided in paragraph (2)" in par. (1) and added par. (3).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 "Commissioner of U.S. Customs and Border Protection" substituted for "Commissioner of Customs" in subsec. (k) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under section 211 of Title 6, Domestic Security.
@@ -1136,7 +1148,7 @@ Amendment by Pub. L. 112–41 effective Oct. 21, 2011, and applicable with respe
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–227, title IV, §4001(b)(2), Aug. 11, 2010, 124 Stat. 2480, provided that: "The amendment made byparagraph (1) \[amending this section\] shall take effect as if included in the enactment of the Haiti Economic Lift Program Act of 2010 \[Pub. L. 111–171\]."
+Pub. L. 111–227, title IV, §4001(b)(2), Aug. 11, 2010, 124 Stat. 2480, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in the enactment of the Haiti Economic Lift Program Act of 2010 \[Pub. L. 111–171\]."
 
 Pub. L. 111–210, §5, July 27, 2010, 124 Stat. 2257, provided that: "This joint resolution \[amending this section and enacting provisions set out as notes under section 6655 of Title 26, Internal Revenue Code, and section 1701 of Title 50, War and National Defense\] and the amendments made by this joint resolution shall take effect on the date of the enactment of this joint resolution \[July 27, 2010\] or July 26, 2010, whichever occurs earlier."
 
@@ -1160,7 +1172,7 @@ Pub. L. 110–52, §5, Aug. 1, 2007, 121 Stat. 265, provided that: "This joint r
 
 Amendment by Pub. L. 109–283 effective on the date on which the United States-Oman Free Trade Agreement enters into force (Jan. 1, 2009) and to cease to be effective on the date on which the Agreement terminates, see section 107(a), (c) of Pub. L. 109–283, set out in a note under section 3805 of this title.
 
-Pub. L. 109–280, title XIV, §1641, Aug. 17, 2006, 120 Stat. 1172, provided that: "Except as otherwise provided in this title \[amending this section and sections 1466, 1484, 1514, 1520, 1557, 1559, 1562, 1629, 2155, 2317, 2401, 3807, and 4034 of this title, enacting provisions set out as notes under sections 1466, 1654, and 1675 of this title, and amending provisions set out as a note under section 7101 of Title 7, Agriculture\], the amendments made by this title shall apply with respect to goods entered, or withdrawn from warehouse for consumption, on or after the 15th day after the date of the enactment of this Act \[Aug. 17, 2006\]."
+Pub. L. 109–280, title XIV, §1641, Aug. 17, 2006, 120 Stat. 1172, provided that: "Except as otherwise provided in this title \[amending this section and sections 1466, 1484, 1514, 1520, 1557, 1559, 1562, 1629, 2155, 2317, 2401, 3807, and 4034 of this title, enacting provisions set out as notes under sections 1466, 1654, and 1675 of this title, and amending provisions set out as a note under section 7101 of Title 7, Agriculture\], the amendments made by this title shall apply with respect to goods entered, or withdrawn from warehouse for consumption, on orafter the 15th day after the date of the enactment of this Act \[Aug. 17, 2006\]."
 
 Amendment by Pub. L. 109–169 effective on the date on which the United States-Bahrain Free Trade Agreement enters into force (Aug. 1, 2006) and to cease to be effective on the date on which the Agreement terminates, see section 106(a), (c) of Pub. L. 109–169, set out in a note under section 3805 of this title.
 

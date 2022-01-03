@@ -12,7 +12,7 @@ Northeast Corridor Commission.—
 
 &emsp;&emsp;(C) 1 member from each of the States (including the District of Columbia) that constitute the Northeast Corridor as defined in section 24102, designated by, and serving at the pleasure of, the chief executive officer thereof; and
 
-&emsp;&emsp;(D) non-voting representatives of freight and commuter railroad carriers using the Northeast Corridor selected by the Secretary.
+&emsp;&emsp;(D) non-voting representatives of freight and commuter railroad carriers authorities using the Northeast Corridor selected by the Secretary.
 
 &emsp;(2) The Secretary shall ensure that the membership belonging to any of the groups enumerated under paragraph (1) shall not constitute a majority of the Commission's memberships.
 
@@ -68,13 +68,15 @@ Recommendations.—The Commission shall develop recommendations based on the sta
 
 Submission of statement of goals, recommendations, and performance reports.—The Commission shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives—
 
-&emsp;&emsp;(A) any updates made to the statement of goals developed under paragraph (1) notlater than 60 days after such updates are made; and
+&emsp;&emsp;(A) any updates made to the statement of goals developed under paragraph (1) not later than 60 days after such updates are made; and
 
 &emsp;&emsp;(B) annual performance reports and recommendations for improvements, as appropriate, issued not later than March 31 of each year, for the prior fiscal year, which summarize—
 
-&emsp;&emsp;&emsp;(i) the operations and performance of commuter, intercity, and freight rail transportation along the Northeast Corridor; and
+&emsp;&emsp;&emsp;(i) the operations and performance of commuter, intercity, and freight rail transportation, including ridership trends, along the Northeast Corridor;
 
-&emsp;&emsp;&emsp;(ii) the delivery of the capital investment plan described in section 24904.
+&emsp;&emsp;&emsp;(ii) the delivery of the first year of the capital investment plan described in section 24904; and
+
+&emsp;&emsp;&emsp;(iii) progress in assessing and eliminating the state-of-good-repair backlog.
 
 (c)
 
@@ -82,9 +84,9 @@ Allocation of Costs.—
 
 &emsp;(1)
 
-Development of policy.—The Commission shall—
+Policy.—The Commission shall—
 
-&emsp;&emsp;(A) develop a standardized policy for determining and allocating costs, revenues, and compensation for Northeast Corridor commuter rail passenger transportation, as defined in section 24102 of this title, on the Northeast Corridor main line between Boston, Massachusetts, and Washington, District of Columbia, and the Northeast Corridor branch lines connecting to Harrisburg, Pennsylvania, Springfield, Massachusetts, and Spuyten Duyvil, New York, that use Amtrak facilities or services or that provide such facilities or services to Amtrak that ensures that—
+&emsp;&emsp;(A) develop and maintain the standardized policy first approved on September 17, 2015, and update, as appropriate, for determining and allocating costs, revenues, and compensation for Northeast Corridor commuter rail passenger transportation, as defined in section 24102 of this title, on the Northeast Corridor main line between Boston, Massachusetts, and Washington, District of Columbia, and the Northeast Corridor branch lines connecting to Harrisburg, Pennsylvania, Springfield, Massachusetts, and Spuyten Duyvil, New York, that use Amtrak facilities or services or that provide such facilities or services to Amtrak that ensures that—
 
 &emsp;&emsp;&emsp;(i) there is no cross-subsidization of commuter rail passenger, intercity rail passenger, or freight rail transportation;
 
@@ -92,17 +94,29 @@ Development of policy.—The Commission shall—
 
 &emsp;&emsp;&emsp;(iii) all financial contributions made by an operator of a service that benefit an infrastructure owner other than the operator are considered, including but not limited to, any capital infrastructure investments and in-kind services;
 
-&emsp;&emsp;(B) develop a proposed timetable for implementing the policy;
+&emsp;&emsp;(B) develop timetables for implementing and maintaining the policy;
 
-&emsp;&emsp;(C) submit the policy and the timetable developed under subparagraph (B) to the Surface Transportation Board, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives;
+&emsp;&emsp;(C) submit updates to the policy and timetables developed under subparagraph (B) to the Surface Transportation Board, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives;
 
-&emsp;&emsp;(D) not later than October 1, 2015, adopt and implement the policy in accordance with the timetable; and
+&emsp;&emsp;(D) support the efforts of the members of the Commission to implement the policy in accordance with the timetables developed pursuant to subparagraph (B); <sup>1</sup>
 
 &emsp;&emsp;(E) with the consent of a majority of its members, petition the Surface Transportation Board to appoint a mediator to assist the Commission members through nonbinding mediation to reach an agreement under this section.
 
 &emsp;(2)
 
-Implementation.—Amtrak and public authorities providing commuter rail passenger transportation on the Northeast Corridor shall implement new agreements for usage of facilities or services based on the policy developed under paragraph (1) in accordance with the timetable established therein. If the entities fail to implement such new agreements in accordance with paragraph (1)(D) or fail to comply with the policy thereafter, the Surface Transportation Board shall determine the appropriate compensation for such usage in accordance with the procedures and procedural schedule applicable to a proceeding under section 24903(c), after taking into consideration the policy developed under paragraph (1)(A), as applicable. The Surface Transportation Board shall enforce its determination on the party or parties involved.
+Implementation.—
+
+&emsp;&emsp;(A)
+
+In general.—In accordance with the timetables developed pursuant to paragraph (1)(B), Amtrak and commuter authorities on the Northeast Corridor shall implement the policy developed under paragraph (1) in their agreements for usage of facilities or services.
+
+&emsp;&emsp;(B)
+
+Effect of failure to implement or comply with policy.—If the entities referred to in subparagraph (A) fail to implement the policy in accordance with paragraph (1)(D) or fail to comply with the policy thereafter, the Surface Transportation Board shall—
+
+&emsp;&emsp;&emsp;(i) determine the appropriate compensation in accordance with the procedures and procedural schedule applicable to a proceeding under section 24903(c), after taking into consideration the policy developed under paragraph (1); and
+
+&emsp;&emsp;&emsp;(ii) enforce its determination on the party or parties involved.
 
 &emsp;(3)
 
@@ -110,11 +124,11 @@ Revisions.—The Commission may make necessary revisions to the policy developed
 
 &emsp;(4)
 
-Request for dispute resolution.—If a dispute arises with the implementation of, or compliance with, the policy developed under paragraph (1), the Commission, Amtrak, or public authorities providing commuter rail passenger transportation on the Northeast Corridor may request that the Surface Transportation Board conduct dispute resolution. The Surface Transportation Board shall establish procedures for resolution of disputes brought before it under this paragraph, which may include the provision of professional mediation services.
+Request for dispute resolution.—If a dispute arises with the implementation of, or compliance with, the policy developed under paragraph (1), the Commission, Amtrak, or commuter authorities on the Northeast Corridor may request that the Surface Transportation Board conduct dispute resolution. The Surface Transportation Board shall establish procedures for resolution of disputes brought before it under this paragraph, which may include the provision of professional mediation services.
 
 (d)
 
-Authorization of Appropriations.—There are authorized to be appropriated to the Secretary for the use of the Commission and the Northeast Corridor Safety Committee such sums as may be necessary to carry out this section during fiscal years 2016 through 2020, in addition to any amounts withheld under section 11101(g) of the Passenger Rail Reform and Investment Act of 2015.
+Authorization of Appropriations.—There are authorized to be appropriated to the Secretary for the use of the Commission and theNortheast Corridor Safety Committee such sums as may be necessary to carry out this section during fiscal years 2022 through 2026, in addition to any amounts withheld under section 22101(e) of the Passenger Rail Expansion and Rail Safety Act of 2021.
 
 (e)
 
@@ -142,7 +156,7 @@ In general.—The Secretary shall establish a Northeast Corridor Safety Committe
 
 Sunset.—The Committee established under this subsection ceases to exist on the date that the Secretary determines positive train control, as required by section 20157, is fully implemented along the Northeast Corridor.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 935; Pub. L. 110–432, div. B, title II, §212(a), Oct. 16, 2008, 122 Stat. 4921; Pub. L. 114–94, div. A, title XI, §11305(a)–(d)(1), Dec. 4, 2015, 129 Stat. 1656,1657; Pub. L. 115–420, §§4(a), 6(a), Jan. 3, 2019, 132 Stat. 5444, 5445.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 935; Pub. L. 110–432, div. B, title II, §212(a), Oct. 16, 2008, 122 Stat. 4921; Pub. L. 114–94, div. A, title XI, §11305(a)–(d)(1), Dec. 4, 2015, 129 Stat. 1656, 1657; Pub. L. 115–420, §§4(a), 6(a), Jan. 3, 2019, 132 Stat. 5444, 5445; Pub. L. 117–58, div. B, title II, §22302, Nov. 15, 2021, 135 Stat. 716.)
 
 Historical and Revision Notes
 
@@ -184,17 +198,43 @@ In subsection (b)(1), the words "Within 30 days after the date of enactment of t
 
 In subsection (b)(3), the words "each Congress" are substituted for "the 103rd Congress, and biennially thereafter" to eliminate unnecessary words. The words "pursuant to the provisions of this section" are omitted as unnecessary.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsec. (a)(1), is the date of enactment of div. B of Pub. L. 110–432, which was approved Oct. 16, 2008.
 
 Section 203 of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsec. (c)(3), is set out as a note under section 24101 of this title.
 
-Section 11101(g) of the Passenger Rail Reform and Investment Act of 2015, referred to in subsec. (d), is section 11101(g) of title XI of div. A of Pub. L. 114–94, Dec. 4, 2015, 129 Stat. 1623, which is not classified to the Code.
+Section 22101(e) of the Passenger Rail Expansion and Rail Safety Act of 2021, referred to in subsec. (d), is section 22101(e) of title II of div. B of Pub. L. 117–58, Nov. 15, 2021, 135 Stat. 694, which is not classified to the Code.
 
 #### Amendments
 
-<b>2019</b>—Subsec. (e)(2). Pub. L. 115–420, §6(a), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "The Secretary shall consult with the Committee about safety and security improvements on the Northeast Corridor main line. The Committee shall meet at least two times per year to consider safety and security matters on the main line and meet annually with the Commission on the topic of Northeast Corridor safety and security."
+<b>2021</b>—Subsec. (a)(1)(D). Pub. L. 117–58, §22302(1), inserted "authorities" after "carriers".
+
+Subsec. (b)(3)(B)(i). Pub. L. 117–58, §22302(2)(A)(i), inserted ", including ridership trends," after "transportation".
+
+Subsec. (b)(3)(B)(ii). Pub. L. 117–58, §22302(2)(B)(i), inserted "first year of the" after "the delivery of the".
+
+Subsec. (b)(3)(B)(iii). Pub. L. 117–58, §22302(2)(A)(ii), (B)(ii), (C), added cl. (iii).
+
+Subsec. (c)(1). Pub. L. 117–58, §22302(3)(A)(i), substituted "Policy" for "Development of policy" in heading.
+
+Subsec. (c)(1)(A). Pub. L. 117–58, §22302(3)(A)(ii), substituted "develop and maintain the standardized policy first approved on September 17, 2015, and update, as appropriate," for "develop a standardized policy".
+
+Subsec. (c)(1)(B). Pub. L. 117–58, §22302(3)(A)(iii), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "develop a proposed timetable for implementing the policy;".
+
+Subsec. (c)(1)(C). Pub. L. 117–58, §22302(3)(A)(iv), substituted "updates to the policy and timetables" for "the policy and the timetable".
+
+Subsec. (c)(1)(D). Pub. L. 117–58, §22302(3)(A)(v), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: "not later than October 1, 2015, adopt and implement the policy in accordance with the timetable; and".
+
+Subsec. (c)(2). Pub. L. 117–58, §22302(3)(B), amended par. (2) generally. Prior to amendment, text read as follows: "Amtrak and public authorities providing commuter rail passenger transportation on the Northeast Corridor shall implement new agreements for usage of facilities or services based on the policy developed under paragraph (1) in accordance with the timetable established therein. If the entities fail to implement such new agreements in accordance with paragraph (1)(D) or fail to comply with the policy thereafter, the Surface Transportation Board shall determine the appropriate compensation for such usage in accordance with the procedures and procedural schedule applicable to a proceeding under section 24903(c), after taking into consideration the policy developed under paragraph (1)(A), as applicable. The Surface Transportation Board shall enforce its determination on the party or parties involved."
+
+Subsec. (c)(4). Pub. L. 117–58, §22302(3)(C), substituted "commuter authorities" for "public authorities providing commuter rail passenger transportation".
+
+Subsec. (d). Pub. L. 117–58, §22302(4), substituted "2022 through 2026" for "2016 through 2020" and "section 22101(e) of the Passenger Rail Expansion and Rail Safety Act of 2021" for "section 11101(g) of the Passenger Rail Reform and Investment Act of 2015".
+
+<b>2019</b>—Subsec. (e)(2). Pub. L. 115–420, §6(a), added par. (2) and struck out former par. (2). Prior to amendment,text read as follows: "The Secretary shall consult with the Committee about safety and security improvements on the Northeast Corridor main line. The Committee shall meet at least two times per year to consider safety and security matters on the main line and meet annually with the Commission on the topic of Northeast Corridor safety and security."
 
 Subsec. (e)(3). Pub. L. 115–420, §4(a), struck out par. (3). Text read as follows: "At the beginning of the first session of each Congress, the Secretary shall submit a report to the Commission and to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the status of efforts to improve safety and security on the Northeast Corridor main line. The report shall include the safety and security recommendations of the Committee and the comments of the Secretary on those recommendations."
 
@@ -238,7 +278,7 @@ Subsec. (c)(4). Pub. L. 114–94, §11305(c)(5), added par. (4).
 
 Subsec. (d). Pub. L. 114–94, §11305(d)(1)(E), substituted "to the Secretary for the use of the Commission and the Northeast Corridor Safety Committee" for "to the Commission" and "to carry out this section during fiscal years 2016 through 2020, in addition to any amounts withheld under section 11101(g) of the Passenger Rail Reform and Investment Act of 2015" for "for the period encompassing fiscal years 2009 through 2013 to carry out this section".
 
-Pub. L. 114–94, §11305(d)(1)(C), (D), redesignated subsec. (e) as (d) and struck out former subsec. (d) whichrelated to transmission of statement of goals and recommendations.
+Pub. L. 114–94, §11305(d)(1)(C), (D), redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to transmission of statement of goals and recommendations.
 
 Subsec. (e). Pub. L. 114–94, §11305(d)(1)(D), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
@@ -248,7 +288,11 @@ Subsec. (f). Pub. L. 114–94, §11305(d)(1)(D), redesignated subsec. (f) as (e)
 
 <b>2008</b>—Pub. L. 110–432 amended section generally. Prior to amendment, section related to Northeast Corridor Coordination Board and Northeast Corridor Safety Committee.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "and".</i>
 

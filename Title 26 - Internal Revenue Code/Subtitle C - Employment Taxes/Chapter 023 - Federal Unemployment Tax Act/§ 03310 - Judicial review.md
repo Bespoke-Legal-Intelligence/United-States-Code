@@ -20,6 +20,8 @@ The court shall have jurisdiction to affirm the action of the Secretary of Labor
 
 (Added Pub. L. 91–373, title I, §131(b)(1), Aug. 10, 1970, 84 Stat. 703; amended Pub. L. 94–455, title XIX, §1906(b)(13)(F), (H), Oct. 4, 1976, 90 Stat. 1835; Pub. L. 98–620, title IV, §402(28)(A), Nov. 8, 1984, 98 Stat. 3359.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Subsec. (e). Pub. L. 98–620 struck out subsec. (e) which had provided that any judicial proceedings under this section were entitled to, and upon request of the Secretary of Labor or of the State would receive, a preference and would be heard and determined as expeditiously as possible.
@@ -28,7 +30,9 @@ The court shall have jurisdiction to affirm the action of the Secretary of Labor
 
 Subsec. (e). Pub. L. 94–455, §1906(b)(13)(H), substituted "of the Secretary of Labor" for "of the Secretary".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620, set out as an Effective Date note under section 1657 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620,set out as an Effective Date note under section 1657 of Title 28, Judiciary and Judicial Procedure.
 

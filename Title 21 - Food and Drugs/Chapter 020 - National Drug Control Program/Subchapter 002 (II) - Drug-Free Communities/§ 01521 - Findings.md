@@ -28,7 +28,7 @@ Congress finds the following:
 
 #### Reauthorization of the Drug-Free Communities Program and Revival of Anti-Drug Abuse Act of 1988
 
-Pub. L. 115–271, title VIII, §8203(a)(1), (2), Oct. 24, 2018, 132 Stat. 4110, 4111, as amended by Pub. L. 116–74, §2(c)(1)(A)(i)(II), Nov. 27, 2019, 133 Stat. 1157, provided that:
+Pub. L. 115–271, title VIII, §8203(a)(1), (2), Oct. 24, 2018, 132 Stat. 4110, 4111, as amended by Pub. L. 116–74,§2(c)(1)(A)(i)(II), Nov. 27, 2019, 133 Stat. 1157, provided that:
 
 "(1)
 
@@ -86,7 +86,7 @@ Pub. L. 107–82, §1(a), Dec. 14, 2001, 115 Stat. 814, provided that: "Congress
 
 &emsp;&emsp;&emsp;"(v) ecstasy abuse and trafficking is expanding, no longer confined to the 'rave' scene;
 
-&emsp;&emsp;&emsp;"(vi) the sale and use of club drugs has grown from nightclubs and raves to high schools, the streets, neighborhoods, open venues, and younger ages;
+&emsp;&emsp;&emsp;"(vi) the sale and use of club drugs has grown from nightclubs and raves to high schools, thestreets, neighborhoods, open venues, and younger ages;
 
 &emsp;&emsp;&emsp;"(vii) ecstasy users often are unknowingly purchasing adulterated tablets or some other substance sold as MDMA; and
 
@@ -138,7 +138,7 @@ In General.—Beginning in fiscal year 2020, the Director shall make a competiti
 
 "(b)
 
-Eligible Organizations.—An organization eligible for the grant under subsection (a) is any nationalnonprofit organization that represents, provides technical assistance and training to, and has special expertise and broad, national-level experience in community antidrug coalitions under this subchapter \[sic, probably means chapter 2 of the National Narcotics Leadership Act of 1988 (21 U.S.C. 1521 et seq.)\].
+Eligible Organizations.—An organization eligible for the grant under subsection (a) is any national nonprofit organization that represents, provides technical assistance and training to, and has special expertise and broad, national-level experience in community antidrug coalitions under this subchapter \[sic, probably means chapter 2 of the National Narcotics Leadership Act of 1988 (21 U.S.C. 1521 et seq.)\].
 
 "(c)
 

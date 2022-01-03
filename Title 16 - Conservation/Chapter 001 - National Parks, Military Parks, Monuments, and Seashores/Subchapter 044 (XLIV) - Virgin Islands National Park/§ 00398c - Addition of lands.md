@@ -22,7 +22,7 @@ From the initial point A, distances in nautical miles, along direct courses betw
 
 &emsp;1\.04 miles to point H, latitude 18 degrees 21 minutes 10 seconds, longitude 64 degrees 40 minutes 40 seconds in Haulover Bay;
 
-&emsp;Southwestward approximately 0.22 mile to point I, a bound post on the shore of Haulover Bay marking a corner of the Virgin Islands National Park boundary as shown on drawing numbered NP–VI–7000 entitled "Acquisition Area Virgin Islands National Park", approved November 15, 1956, by the acting Secretary of the Interior in accordance with sections 398and 398a of this title, being also the southeasterly corner of estate Haulover 5a and 5c east end quarter as delineated on the municipality of Saint Thomas and Saint John drawing PW file numbered 9–24–T51 dated October 26, 1950;
+&emsp;Southwestward approximately 0.22 mile to point I, a bound post on the shore of Haulover Bay marking a corner of the Virgin Islands National Park boundary as shown on drawing numbered NP–VI–7000 entitled "Acquisition Area Virgin Islands National Park", approved November 15, 1956, by the acting Secretary of the Interior in accordance with sections 398 and 398a of this title, being also the southeasterly corner of estate Haulover 5a and 5c east end quarter as delineated on the municipality of Saint Thomas and Saint John drawing PW file numbered 9–24–T51 dated October 26, 1950;
 
 &emsp;Thence running generally westward along the Virgin Islands National Park northerly boundary as it follows the northerly shore of the island of Saint John as shown on the said drawing numbered NP–VI–7000 and on drawing numbered NP–VI–7003 entitled "Land Ownership Cruz Bay Creek" depicting the boundary adjustment affected by the said order of designation to point A, the point of beginning.
 
@@ -30,7 +30,7 @@ The area described contains approximately 4,100 acres.
 
 South Offshore Area
 
-Beginning at the hereinafter lettered point L, a concrete bound post on the short of Drunk Bay marking a northeasterly corner in the Virgin Islands National Park boundary as shown on the said drawing numbered NP–VI–7000, being also the northeasterly corner of parcel numbered 1, estate Concordia (A), as delineated on the Leo R. Sibilly, civil engineer, drawing file numbered C9–13–T55.
+Beginning at the hereinafter lettered point L, a concrete bound post on the short of Drunk Bay marking a northeasterly corner in the Virgin Islands National Park boundary as shown on the said drawing numbered NP–VI–7000, being also the northeasterly corner of parcel numbered 1,estate Concordia (A), as delineated on the Leo R. Sibilly, civil engineer, drawing file numbered C9–13–T55.
 
 From the initial point L, distances in nautical miles, along direct courses between the hereinafter lettered points at geographic positions (latitudes north, longitudes west):
 
@@ -59,6 +59,8 @@ The area known as Hassel Island in Saint Thomas Harbor consisting of approximate
 Lands, submerged lands, and waters added to the Virgin Islands National Park pursuant to sections 398c to 398f of this title shall be subject to administration by the Secretary of the Interior in accordance with the provisions of the Act of August 25, 1916 (39 Stat. 535; 16 U.S.C. 1–4),<sup>1</sup> as amended and supplemented.
 
 (Pub. L. 87–750, §1, Oct. 5, 1962, 76 Stat. 746; Pub. L. 95–348, §7(a), Aug. 18, 1978, 92 Stat. 493.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -54,9 +54,13 @@ Activities supported by grants under this section may include—
 
 (Pub. L. 107–368, §17, Dec. 19, 2002, 116 Stat. 3060.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the National Science Foundation Authorization Act of 2002, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

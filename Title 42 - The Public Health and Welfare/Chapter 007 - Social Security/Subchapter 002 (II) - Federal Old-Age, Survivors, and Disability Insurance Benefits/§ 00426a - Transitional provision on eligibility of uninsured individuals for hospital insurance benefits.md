@@ -14,7 +14,7 @@ Anyone who—
 
 &emsp;(5) has filed an application under this section in such manner and in accordance with such other requirements as may be prescribed in regulations of the Secretary,
 
-> shall (subject to the limitations in this section) be deemed, solely for purposes of section 426 ofthis title, to be entitled to monthly insurance benefits under such section 402 for each month, beginning with the first month in which he meets the requirements of this subsection and ending with the month in which he dies, or, if earlier, the month before the month in which he becomes (or upon filing application for monthly insurance benefits under section 402 of this title would become) entitled to hospital insurance benefits under section 426 of this title or becomes certifiable as a qualified railroad retirement beneficiary. An individual who would have met the preceding requirements of this subsection in any month had he filed application under paragraph (5) hereof before the end of such month shall be deemed to have met such requirements in such month if he files such application before the end of the twelfth month following such month. No application under this section which is filed by an individual more than 3 months before the first month in which he meets the requirements of paragraphs (1), (2), (3), and (4) shall be accepted as an application for purposes of this section.
+> shall (subject to the limitations in this section) be deemed, solely for purposes of section 426 of this title, to be entitled to monthly insurance benefits under such section 402 for each month, beginning with the first month in which he meets the requirements of this subsection and ending with the month in which he dies, or, if earlier, the month before the month in which he becomes (or upon filing application for monthly insurance benefits under section 402 of this title would become) entitled to hospital insurance benefits under section 426 of this title or becomes certifiable as a qualified railroad retirement beneficiary. An individual who would have met the preceding requirements of this subsection in any month had he filed application under paragraph (5) hereof before the end of such month shall be deemed to have met such requirements in such month if he files such application before the end of the twelfth month following such month. No application under this section which is filed by an individual more than 3 months before the first month in which he meets the requirements of paragraphs (1), (2), (3), and (4) shall be accepted as an application for purposes of this section.
 
 #### (b) Persons ineligible
 
@@ -34,7 +34,7 @@ The provisions of subsection (a) shall not apply to any individual who—
 
 #### (c) Authorization of appropriations
 
-There are authorized to be appropriated to the Federal Hospital Insurance Trust Fund (established by section 1395i of this title) from time to time such sums as the Secretary deems necessary for any fiscal year, on account of—
+There are authorized to be appropriated to the Federal Hospital Insurance Trust Fund (established by section 1395i of this title) from time totime such sums as the Secretary deems necessary for any fiscal year, on account of—
 
 &emsp;(1) payments made or to be made during such fiscal year from such Trust Fund under part A of subchapter XVIII of this chapter with respect to individuals who are entitled to hospital insurance benefits under section 426 of this title solely by reason of this section,
 
@@ -45,6 +45,8 @@ There are authorized to be appropriated to the Federal Hospital Insurance Trust 
 > in order to place such Trust Fund in the same position at the end of such fiscal year in which it would have been if the preceding subsections of this section had not been enacted.
 
 (Pub. L. 89–97, title I, §103, July 30, 1965, 79 Stat. 333; Pub. L. 90–248, title I, §139, title IV, §403(h), Jan. 2, 1968, 81 Stat. 854, 932.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

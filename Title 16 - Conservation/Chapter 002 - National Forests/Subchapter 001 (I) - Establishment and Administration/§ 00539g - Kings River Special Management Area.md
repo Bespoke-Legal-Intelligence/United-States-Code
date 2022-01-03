@@ -6,7 +6,7 @@ In order to provide for public outdoor recreation use and enjoyment of certain a
 
 #### (b) Area included
 
-The special management area shall consist of the lands, waters, and interests therein within the area generally depicted on the map entitled "Boundary Map, Kings River Special Management Area", dated April 1987. The map shall be on file and available for public inspection in the offices of the National Forest Service, Department of Agriculture. The Secretary of Agriculture may from time to time make minor revisions of the boundary of the special management area.
+The special management area shall consist of the lands, waters, and interests therein within the area generally depicted on the map entitled "Boundary Map, Kings River Special Management Area", dated April 1987. The map shall be on file and available for public inspection in theoffices of the National Forest Service, Department of Agriculture. The Secretary of Agriculture may from time to time make minor revisions of the boundary of the special management area.
 
 #### (c) Administration
 
@@ -33,6 +33,8 @@ If any State or privately owned land or any valid mining claim or other valid oc
 In recognition of the dispute that exists over whether a dam project should be constructed in the segment of the Main Stem of the Kings River from the point at elevation 1,595 feet above mean sea level downstream to the point at elevation 990 feet above mean sea level, Congress declares its intention at this time not to designate that segment of the Kings River as a component of the Wild and Scenic Rivers System. Notwithstanding any other provision of law, no Federal lands may be used for the construction of any dam or diversion within the boundaries of the special management area without specific authority of the Congress. In order to protect the natural, cultural, recreational, fishery, and wildlife values of the river segment referred to in this subsection, that segment shall be subject to the provisions of section 1278(a) of this title, in the same manner as if it were designated. Nothing in this Act shall preclude the Kings River Conservation District from conducting studies as it may deem appropriate.
 
 (Pub. L. 100–150, §2, Nov. 3, 1987, 101 Stat. 881.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

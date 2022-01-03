@@ -1,6 +1,6 @@
 ### §3717. Marine safety information system
 
-(a) The Secretary shall establish a marine safety information system that shall contain information about each vessel to which this chapter applies that operates on the navigable waters of the United States, or that transfers oil or hazardous material in a port or place under the jurisdiction of the United States. In acquiring this information, the Secretary shall make full use of publicly available information. The Secretary may by regulation require the vessel to provide information that the Secretary considers necessary to carry out this subsection, including—
+(a) The Secretary shall establish a marine safety information system that shall contain information about each vessel to which this chapter applies that operates on the navigable waters of the United States, or that transfers oil or hazardous material in a port or place under the jurisdiction of the United States. In acquiring this information, the Secretary shall make full use of publicly available information. The Secretary may by regulation require the vessel toprovide information that the Secretary considers necessary to carry out this subsection, including—
 
 &emsp;(1) the name of each person with an ownership interest in the vessel;
 

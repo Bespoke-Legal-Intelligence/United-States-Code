@@ -52,6 +52,8 @@ Clause (1) is inserted for clarity, since a member who had over 20 years of serv
 
 The last sentence of the revised section, relating to transfer to the inactive status list, is inserted for clarity because of section 1209 of this title.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2001</b>—Par. (2)(B)(iii). Pub. L. 107–107, §513(b), struck out ", if the place is outside reasonable commuting distance from the member's residence" before semicolon at end.
@@ -77,6 +79,8 @@ Pars. (2) to (5). Pub. L. 105–85, §513(c)(2), added par. (2) and redesignated
 <b>1989</b>—Par. (4). Pub. L. 101–189 substituted "Department of Veterans Affairs" for "Veterans' Administration".
 
 <b>1986</b>—Pub. L. 99–661 struck out "; disability from injury" after "30 days or less" in section catchline and "resulting from an injury" after "because of physical disability" in provisions preceding par. (1).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

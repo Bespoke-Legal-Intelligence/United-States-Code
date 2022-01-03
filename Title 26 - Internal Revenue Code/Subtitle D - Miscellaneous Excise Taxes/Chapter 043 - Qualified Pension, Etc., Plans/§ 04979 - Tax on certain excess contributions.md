@@ -48,6 +48,8 @@ For purposes of this section, the term "plan" means—
 
 (Added Pub. L. 99–514, title XI, §1117(b)(1), Oct. 22, 1986, 100 Stat. 2461; amended Pub. L. 100–647, title I, §1011(l)(8)–(11), Nov. 10, 1988, 102 Stat. 3470, 3471; Pub. L. 109–280, title IX, §902(e)(1)–(3)(A), Aug. 17, 2006, 120 Stat. 1038.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (f). Pub. L. 109–280, §902(e)(1)(B), substituted "specified period after" for "2½ months of" in heading.
@@ -71,6 +73,8 @@ Subsec. (c). Pub. L. 100–647, §1011(l)(9), struck out "403(b)," and substitut
 Subsec. (d). Pub. L. 100–647, §1011(l)(10), inserted sentence at end relating to determination of excess aggregate contributions under certain annuity contracts.
 
 Subsec. (f)(2). Pub. L. 100–647, §1011(l)(11), substituted "Year of inclusion" for "Included in prior year" as heading, and amended text generally. Prior to amendment, text read as follows: "Any amount distributed as provided in paragraph (1) shall be treated as received and earned by the recipient in his taxable year for which such contribution was made."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

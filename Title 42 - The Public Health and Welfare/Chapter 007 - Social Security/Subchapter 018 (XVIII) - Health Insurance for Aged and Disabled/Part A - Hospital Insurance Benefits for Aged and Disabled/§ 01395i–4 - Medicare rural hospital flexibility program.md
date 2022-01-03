@@ -58,7 +58,7 @@ A State may establish a medicare rural hospital flexibility program described in
 
 &emsp;&emsp;&emsp;&emsp;(I) the facility need not meet hospital standards relating to the number of hours during a day, or days during a week, in which the facility must be open and fully staffed, except insofar as the facility is required to make available emergency care services as determined under clause (ii) and must have nursing services available on a 24-hour basis, but need not otherwise staff the facility except when an inpatient is present;
 
-&emsp;&emsp;&emsp;&emsp;(II) the facility may provide any services otherwise required to be provided by a full-time, on site dietitian, pharmacist,laboratory technician, medical technologist, and radiological technologist on a part-time, off site basis under arrangements as defined in section 1395x(w)(1) of this title; and
+&emsp;&emsp;&emsp;&emsp;(II) the facility may provide any services otherwise required to be provided by a full-time, on site dietitian, pharmacist, laboratory technician, medical technologist, and radiological technologist on a part-time, off site basis under arrangements as defined in section 1395x(w)(1) of this title; and
 
 &emsp;&emsp;&emsp;&emsp;(III) the inpatient care described in clause (iii) may be provided by a physician assistant, nurse practitioner, or clinical nurse specialist subject to the oversight of a physician who need not be present in the facility; and
 
@@ -208,7 +208,7 @@ Nothing in this section shall be construed to prohibit a State from designating 
 
 #### (E) Use of funds
 
-&emsp;&emsp;A hospital receiving a grant under this paragraph may use the funds for the purchase of computer software and hardware, the education and training of hospital staff on computer information systems, to offset costs related to the implementation of prospective payment systems and to participate in delivery system reforms under the provisions of and amendments made by the Patient Protection and Affordable Care Act, such as value-based purchasing programs, accountable care organizations under section 1395jjj of this title, the National pilot program on payment bundling under section 1395cc–4 of this title, and other delivery system reform programs determined appropriate by the Secretary.
+&emsp;&emsp;A hospital receiving a grant under this paragraph may use the funds for the purchase of computer software and hardware, the education and training of hospital staffon computer information systems, to offset costs related to the implementation of prospective payment systems and to participate in delivery system reforms under the provisions of and amendments made by the Patient Protection and Affordable Care Act, such as value-based purchasing programs, accountable care organizations under section 1395jjj of this title, the National pilot program on payment bundling under section 1395cc–4 of this title, and other delivery system reform programs determined appropriate by the Secretary.
 
 #### (F) Reports
 
@@ -224,7 +224,7 @@ Nothing in this section shall be construed to prohibit a State from designating 
 
 #### (II) Final report
 
-&emsp;&emsp;&emsp;&emsp;The Secretary shall submit a final report to such committees not later than180 days after the completion of all of the projects for which a grant is made under this section.
+&emsp;&emsp;&emsp;&emsp;The Secretary shall submit a final report to such committees not later than 180 days after the completion of all of the projects for which a grant is made under this section.
 
 #### (4) Additional requirements with respect to FLEX grants
 
@@ -328,7 +328,7 @@ Nothing in this section shall be construed to prohibit a State from designating 
 
 #### (3) State authority to waive 35-mile rule
 
-&emsp;In the case of a facility that was designated as a critical access hospital before January 1, 2006, and was certified by the State as being a necessary provider of health care services to residents in the area under subsection (c)(2)(B)(i)(II), as in effect before such date, the authority under such subsection with respect to any redesignation of such facility shall continue to apply notwithstanding the amendment made by section 405(h)(1) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003.
+&emsp;In the case of a facility that was designated as a critical access hospital before January 1, 2006, and was certified by the State as being a necessary provider of health care services to residents in the area under subsection (c)(2)(B)(i)(II), as in effect before such date,the authority under such subsection with respect to any redesignation of such facility shall continue to apply notwithstanding the amendment made by section 405(h)(1) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003.
 
 #### (i) Waiver of conflicting part A provisions
 
@@ -338,7 +338,9 @@ The Secretary is authorized to waive such provisions of this part and part E as 
 
 There are authorized to be appropriated from the Federal Hospital Insurance Trust Fund for making grants to all States under subsection (g), $25,000,000 in each of the fiscal years 1998 through 2002, for making grants to all States under paragraphs (1) and (2) of subsection (g), $35,000,000 in each of fiscal years 2005 through 2008, for making grants to all States under paragraphs (1) and (2) of subsection (g), $55,000,000 in each of fiscal years 2009 and 2010, for making grants to all States under paragraph (6) of subsection (g), $50,000,000 in each of fiscal years 2009 and 2010, to remain available until expended and for making grants to all States under subsection (g), such sums as may be necessary in each of fiscal years 2011 and 2012, to remain available until expended.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1820, as added Pub. L. 101–239, title VI, §6003(g)(1)(A), Dec. 19, 1989, 103 Stat. 2145; amended Pub. L. 101–508, title IV, §4008(d)(1)–(3), (m)(2)(B), Nov. 5, 1990, 104 Stat. 1388–44, 1388–45, 1388–53; Pub. L. 103–432, title I, §102(a)(1), (2), (b)(1)(A), (2), (c), (f), (h), Oct. 31, 1994, 108 Stat. 4401–4404; Pub. L. 105–33,title IV, §§4002(f)(1), 4201(a), Aug. 5, 1997, 111 Stat. 329, 369; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(a), title IV, §§401(b)(2), 403(a)(1), (b), (c), 409\], Nov. 29, 1999, 113 Stat. 1536, 1501A–365, 1501A–369, 1501A–370, 1501A–375; Pub. L. 108–173, title I, §101(e)(1), title IV, §405(e)(1), (2), (f), (g)(1), (h), Dec. 8, 2003, 117 Stat. 2150, 2267–2269; Pub. L. 110–275, title I, §121, July 15, 2008, 122 Stat. 2511; Pub. L. 111–148, title III, §3129(a), (b), Mar. 23, 2010, 124 Stat. 426.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1820, as added Pub. L. 101–239, title VI, §6003(g)(1)(A), Dec. 19, 1989, 103 Stat. 2145; amended Pub. L. 101–508, title IV, §4008(d)(1)–(3), (m)(2)(B), Nov. 5, 1990, 104 Stat. 1388–44, 1388–45, 1388–53; Pub. L. 103–432, title I, §102(a)(1), (2), (b)(1)(A), (2), (c), (f), (h), Oct. 31, 1994, 108 Stat. 4401–4404; Pub. L. 105–33, title IV, §§4002(f)(1), 4201(a), Aug. 5, 1997, 111 Stat. 329, 369; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(a), title IV, §§401(b)(2), 403(a)(1), (b), (c), 409\], Nov. 29, 1999, 113 Stat. 1536, 1501A–365, 1501A–369, 1501A–370, 1501A–375; Pub. L. 108–173, title I, §101(e)(1), title IV, §405(e)(1), (2), (f), (g)(1), (h), Dec. 8, 2003, 117 Stat. 2150, 2267–2269; Pub. L. 110–275, title I, §121, July 15, 2008, 122 Stat. 2511; Pub. L. 111–148, title III, §3129(a), (b), Mar. 23, 2010, 124 Stat. 426.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -410,7 +412,7 @@ Subsec. (j). Pub. L. 105–33, §4002(f)(1), substituted "part D" for "part C".
 
 Subsec. (e)(1). Pub. L. 103–432, §102(b)(1)(A)(i), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: "is located in a rural area (as defined in section 1395ww(d)(2)(D) of this title);".
 
-Subsec. (e)(1)(A). Pub. L. 103–432, §102(b)(1)(A)(ii), substituted "except in the case of a hospital located in an urban area, is located" for "is located" in introductory provisions, substituted "or (ii)" for ", (ii)", and struckout "or (iii) is located in an urban area that meets the criteria for classification as a regional referral center under such section," after "section 1395ww(d)(5)(C) of this title,".
+Subsec. (e)(1)(A). Pub. L. 103–432, §102(b)(1)(A)(ii), substituted "except in the case of a hospital located in an urban area, is located" for "is located" in introductory provisions, substituted "or (ii)" for ", (ii)", and struck out "or (iii) is located in an urban area that meets the criteria for classification as a regional referral center under such section," after "section 1395ww(d)(5)(C) of this title,".
 
 Subsec. (e)(2) to (6). Pub. L. 103–432, §102(b)(1)(A)(i), redesignated pars. (2) to (6) as (1) to (5), respectively.
 
@@ -445,6 +447,8 @@ Subsec. (g)(1)(A)(ii). Pub. L. 101–508, §4008(m)(2)(B)(ii), substituted "regi
 Subsec. (i)(2)(C). Pub. L. 101–508, §4008(d)(1), inserted at end "In designating facilities as rural primary care hospitals under this subparagraph, the Secretary shall give preference to facilities not meeting the requirements of clause (i) of subparagraph (A) that have entered into an agreement described in subsection (g)(2) of this section with a rural health network located in a State receiving a grant under subsection (a)(1) of this section."
 
 Subsec. (j). Pub. L. 101–508, §4008(m)(2)(B)(iii), inserted "and part C of this subchapter" after "this part".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

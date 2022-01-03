@@ -58,7 +58,7 @@ A grant awarded under this subpart shall be for a period of not more than 5 year
 
 #### (e) Priority
 
-In awarding grants under this section, the Secretary shall give priority to State educationalagencies that will use the grant funds for evidence-based activities, defined for the purpose of this subsection as activities meeting the requirements of section 7801(21)(A)(i) of this title.
+In awarding grants under this section, the Secretary shall give priority to State educational agencies that will use the grant funds for evidence-based activities, defined for the purpose of this subsection as activities meeting the requirements of section 7801(21)(A)(i) of this title.
 
 #### (f) State activities
 
@@ -90,9 +90,13 @@ In awarding grants under this section, the Secretary shall give priority to Stat
 
 (Pub. L. 89–10, title II, §2222, as added Pub. L. 114–95, title II, §2002, Dec. 10, 2015, 129 Stat. 1938.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 6642, Pub. L. 89–10, title II, §2202, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3621, related to allocation of funds for State and local professional development activities, prior to its omission in the general amendment of this subchapter by Pub. L. 107–110.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

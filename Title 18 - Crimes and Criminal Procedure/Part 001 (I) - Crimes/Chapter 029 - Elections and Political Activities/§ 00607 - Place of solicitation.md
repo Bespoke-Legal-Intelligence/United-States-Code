@@ -22,7 +22,7 @@ Based on title 18, U.S.C., 1940 ed., §§211, 212 (Mar. 4, 1909, ch. 321, §§12
 
 This section consolidates sections 211 and 212 of title 18, U.S.C., 1940 ed.
 
-This section was expanded to embrace all officers or persons acting on behalf of any independent agencies or Government-owned or controlled corporations by inserting words "or any department or agency thereof."\(See definitive section 6, and reviser's note under section 201 of this title.)
+This section was expanded to embrace all officers or persons acting on behalf of any independent agencies or Government-owned or controlled corporations by inserting words "or any department or agency thereof." (See definitive section 6, and reviser's note under section 201 of this title.)
 
 Changes were made in phraseology.
 

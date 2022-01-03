@@ -48,7 +48,7 @@ The Management Area shall consist of the public land in Imperial County, Califor
 
 #### (2) Effect
 
-&emsp;The map and legal description submitted under paragraph (1) shall have the same forceand effect as if included in this section, except that the Secretary may correct any errors in the map and legal description.
+&emsp;The map and legal description submitted under paragraph (1) shall have the same force and effect as if included in this section, except that the Secretary may correct any errors in the map and legal description.
 
 #### (3) Availability
 
@@ -164,13 +164,17 @@ The Management Area shall consist of the public land in Imperial County, Califor
 
 #### (9) Military use
 
-&emsp;The Secretary may authorize use of the non-wilderness portion of the Management Area bythe Secretary of the Navy for Naval Special Warfare Tactical Training, including long-range small unit training and navigation, vehicle concealment, and vehicle sustainment training, consistent with this section and other applicable laws.
+&emsp;The Secretary may authorize use of the non-wilderness portion of the Management Area by the Secretary of the Navy for Naval Special Warfare Tactical Training, including long-range small unit training and navigation, vehicle concealment, and vehicle sustainment training, consistent with this section and other applicable laws.
 
 (Pub. L. 103–433, title I, §109, as added Pub. L. 116–9, title I, §1421, Mar. 12, 2019, 133 Stat. 696.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 The Federal Land Policy and Management Act of 1976, referred to in subsec. (f)(1)(B)(ii), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

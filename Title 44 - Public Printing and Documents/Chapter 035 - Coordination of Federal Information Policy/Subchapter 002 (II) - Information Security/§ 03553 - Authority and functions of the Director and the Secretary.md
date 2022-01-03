@@ -86,7 +86,7 @@ Department of Defense and Intelligence Community Systems.—(1) The authorities 
 
 (2) The systems described in this paragraph are systems that are operated by the Department of Defense, a contractor of the Department of Defense, or another entity on behalf of the Department of Defense that processes any information the unauthorized access, use, disclosure, disruption, modification, or destruction of which would have a debilitating impact on the mission of the Department of Defense.
 
-(3) The systems described in this paragraph are systems that are operated by an element of the intelligence community, a contractor of anelement of the intelligence community, or another entity on behalf of an element of the intelligence community that processes any information the unauthorized access, use, disclosure, disruption, modification, or destruction of which would have a debilitating impact on the mission of an element of the intelligence community.
+(3) The systems described in this paragraph are systems that are operated by an element of the intelligence community, a contractor of an element of the intelligence community, or another entity on behalf of an element of the intelligence community that processes any information the unauthorized access, use, disclosure, disruption, modification, or destruction of which would have a debilitating impact on the mission of an element of the intelligence community.
 
 (f)
 
@@ -164,7 +164,7 @@ Imminent threats.—
 
 &emsp;&emsp;(A)
 
-In general.—Notwithstanding section 3554, the Secretary may authorize the use under this subsection of the intrusion detection and prevention capabilities established under section 230(b)(1) <sup>1</sup> of the Homeland Security Act of 2002 for the purpose of ensuring the security of agency information systems, if—
+In general.—Notwithstanding section 3554, the Secretary may authorize the use under this subsection of the intrusion detection and prevention capabilities established under section 230(b)(1) <sup>1</sup> of the Homeland Security Act of 2002 for the purpose of ensuringthe security of agency information systems, if—
 
 &emsp;&emsp;&emsp;(i) the Secretary determines there is an imminent threat to agency information systems;
 
@@ -264,7 +264,7 @@ Subsecs. (h) to (j). Pub. L. 114–113, §229(a), added subsecs. (h) to (j).
 
 #### Change of Name
 
-Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives byHouse Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2018 Amendment
 

@@ -2,7 +2,7 @@
 
 Section 2901, Pub. L. 88–452, title IV, §401, as added Pub. L. 95–568, §9, Nov. 2, 1978, 92 Stat. 2429, set forth statement of purpose for program assistance.
 
-A prior section 2901, Pub. L. 88–452, title IV, §401, as added Pub. L. 93–644, §7, Jan. 4, 1975, 88 Stat. 2298;amended Pub. L. 94–341, §2(a)(16), July 6, 1976, 90 Stat. 804, related to establishment of Comprehensive Health Services Program, prior to the general revision of this subchapter by Pub. L. 95–568.
+A prior section 2901, Pub. L. 88–452, title IV, §401, as added Pub. L. 93–644, §7, Jan. 4, 1975, 88 Stat. 2298; amended Pub. L. 94–341, §2(a)(16), July 6, 1976, 90 Stat. 804, related to establishment of Comprehensive Health Services Program, prior to the general revision of this subchapter by Pub. L. 95–568.
 
 Another prior section 2901, Pub. L. 88–452, title IV, §401, Aug. 20, 1964, 78 Stat. 526; Pub. L. 90–222, title I, §106(a), Dec. 23, 1967, 81 Stat. 710, set forth Congressional statement of purpose of this subchapter as establishment, preservation, and strengthening of small business concerns and improvement of managerial skills employed in such enterprises, prior to repeal by Pub. L. 93–386, §2(b), Aug. 23, 1974, 88 Stat. 745. See section 636 of Title 15, Commerce and Trade.
 
@@ -27,6 +27,8 @@ A prior section 2905, Pub. L. 88–452, title IV, §403, formerly §405, Aug. 20
 Section 2906, Pub. L. 88–452, title IV, §406, as added Pub. L. 95–568, §9, Nov. 2, 1978, 92 Stat. 2430, related to authorization of appropriations.
 
 A prior section 2906, Pub. L. 88–452, title IV, §404, formerly §406, Aug. 20, 1964, 78 Stat. 527; renumbered §404 and amended Pub. L. 89–794, title IV, §§401, 406, Nov. 8, 1966, 80 Stat. 1465; Pub. L. 90–222, title I, §106(d), (3), Dec. 23, 1967, 81 Stat. 711, required Administrator to distribute financial assistance to insure that at least 50 per centum of amounts loaned or guaranteed are allotted to small business concerns located in designated urban areas, prior to repeal by Pub. L. 93–386, §2(b), Aug. 23, 1974, 88 Stat. 745.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of Repeal
 

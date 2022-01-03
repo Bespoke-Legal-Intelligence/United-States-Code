@@ -6,7 +6,7 @@ There is established a Human Smuggling and Trafficking Center (referred to in th
 
 #### (b) Operation
 
-The Secretary of State, the Secretary of Homeland Security, and the Attorney General shall operate the Center in accordance with the Memorandum of Understanding entitled, "Human Smuggling and Trafficking Center (HSTC), Charter".
+The Secretary of State, the Secretary of Homeland Security, and the Attorney Generalshall operate the Center in accordance with the Memorandum of Understanding entitled, "Human Smuggling and Trafficking Center (HSTC), Charter".
 
 #### (c) Functions
 
@@ -104,7 +104,7 @@ The Secretary of Homeland Security shall nominate an official of the Government 
 
 #### (f) Administrative support and funding
 
-The Secretary of Homeland Security shall provide to the Center the administrative support and funding required for its maintenance, including funding for personnel, leasing of office space, supplies, equipment, technology, training, and travel expenses necessary for the Center to carry out its functions.
+The Secretary of Homeland Security shall provide to the Center the administrative supportand funding required for its maintenance, including funding for personnel, leasing of office space, supplies, equipment, technology, training, and travel expenses necessary for the Center to carry out its functions.
 
 #### (g) Report
 
@@ -144,7 +144,7 @@ As part of its mission to combat terrorist travel, the Center shall work to supp
 
 #### (i) Coordination with the Office of Intelligence and Analysis
 
-The Office of Intelligence and Analysis, in coordination with the Center, shall submit to relevant State, local, and tribal law enforcementagencies periodic reports regarding terrorist threats related to human smuggling, human trafficking, and terrorist travel.
+The Office of Intelligence and Analysis, in coordination with the Center, shall submit to relevant State, local, and tribal law enforcement agencies periodic reports regarding terrorist threats related to human smuggling, human trafficking, and terrorist travel.
 
 (Pub. L. 108–458, title VII, §7202, Dec. 17, 2004, 118 Stat. 3813; Pub. L. 110–53, title VII, §721(a)–(c), Aug. 3, 2007, 121 Stat. 346–348.)
 

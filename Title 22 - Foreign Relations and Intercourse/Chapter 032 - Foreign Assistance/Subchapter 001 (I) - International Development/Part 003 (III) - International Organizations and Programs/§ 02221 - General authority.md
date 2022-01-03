@@ -64,7 +64,7 @@ Subsec. (g). Pub. L. 95–424 added subsec. (g).
 
 <b>1973</b>—Subsec. (e). Pub. L. 93–189 added subsec. (e).
 
-<b>1969</b>—Subsec. (c). Pub. L. 91–175 omitted provisions dealing with Israel and Arab governments taking steps toward repatriation of refugees and the extent and success of the United Nations and Arab governments to rectify refugees relief rolls, as criteria for the President to use in determining whether to furnish assistance for such refugees through contributions to theUnited Nations, omitted provisions dealing with amount of contribution for the fiscal year 1967, and expanded prohibition against the inclusion of members of other guerrilla type organizations or refugees engaged in any act of terrorism.
+<b>1969</b>—Subsec. (c). Pub. L. 91–175 omitted provisions dealing with Israel and Arab governments taking steps toward repatriation of refugees and the extent and success of the United Nations and Arab governments to rectify refugees relief rolls, as criteria for the President to use in determining whether to furnish assistance for such refugees through contributions to the United Nations, omitted provisions dealing with amount of contribution for the fiscal year 1967, and expanded prohibition against the inclusion of members of other guerrilla type organizations or refugees engaged in any act of terrorism.
 
 <b>1967</b>—Subsec. (d). Pub. L. 90–137 added subsec. (d).
 

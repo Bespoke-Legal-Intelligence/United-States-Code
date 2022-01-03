@@ -20,7 +20,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (5) Mortgagor
 
-&emsp;The term "mortgagor" means the obligor, grantor, or trustee named in the mortgage agreement and, unless the context otherwise indicates, includes the current owner of record of the security property whether or not such owner is personally liable on the mortgage debt.
+&emsp;The term "mortgagor" means the obligor, grantor, or trustee named in the mortgageagreement and, unless the context otherwise indicates, includes the current owner of record of the security property whether or not such owner is personally liable on the mortgage debt.
 
 #### (6) Owner
 
@@ -80,7 +80,7 @@ The National Housing Act, referred to in par. (10)(A), is act June 27, 1934, ch.
 
 Section is based on section 803 of title VIII of S. 2281, One Hundred Third Congress, as reported July 13, 1994, which was enacted into law by Pub. L. 103–327.
 
-#### <b>Statutory Notes and Related Subsidiaries</b>
+#### <b>Executive Documents</b>
 
 #### Termination of Trust Territory of the Pacific Islands
 

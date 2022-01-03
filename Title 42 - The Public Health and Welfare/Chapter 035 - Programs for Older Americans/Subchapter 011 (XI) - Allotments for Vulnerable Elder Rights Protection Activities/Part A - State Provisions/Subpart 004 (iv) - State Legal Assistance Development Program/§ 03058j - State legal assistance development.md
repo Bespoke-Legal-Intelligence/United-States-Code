@@ -10,11 +10,13 @@ A State agency shall provide the services of an individual who shall be known as
 
 &emsp;(4) State capacity to promote financial management services to older individuals at risk of conservatorship;
 
-&emsp;(5) State capacity to assist older individuals in understanding their rights, exercising choices, benefiting from services and opportunities authorized by law, and maintaining therights of older individuals at risk of guardianship; and
+&emsp;(5) State capacity to assist older individuals in understanding their rights, exercising choices, benefiting from services and opportunities authorized by law, and maintaining the rights of older individuals at risk of guardianship; and
 
 &emsp;(6) State capacity to improve the quality and quantity of legal services provided to older individuals.
 
 (Pub. L. 89–73, title VII, §731, as added Pub. L. 106–501, title VII, §706, Nov. 13, 2000, 114 Stat. 2291.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

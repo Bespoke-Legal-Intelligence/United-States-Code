@@ -6,7 +6,7 @@ The State director of cooperative extension programs (hereinafter in this subcha
 
 #### (b) Encouragement by State director, etc., of cooperation between county and State extension staffs and appropriate Federal and State agencies and organizations
 
-The State director and the administrative heads of extension for eligible colleges and universities in each State shall encourage close cooperation between extension staffs at the county and State levels, and State and Federal research organizations dealing with renewable resources, State and Federal agencies that manage forests and rangelands and their associated renewable resources, State and Federal agencies that have responsibilities associated with the processing or use of renewable resources, and other agencies or organizations the State director and administrative heads of extension deem appropriate.
+The State director and the administrative heads of extension for eligible colleges and universities in each State shall encourage close cooperation between extension staffs at the county and State levels, and State and Federal research organizations dealing with renewable resources, State and Federal agencies that manage forests and rangelands and their associated renewable resources, State and Federal agencies that have responsibilities associated with the processing or use of renewable resources, andother agencies or organizations the State director and administrative heads of extension deem appropriate.
 
 #### (c) Administration and coordination of program by State director; exception
 
@@ -18,9 +18,11 @@ In meeting the provisions of this section, each State director and administrativ
 
 #### (e) "State" defined
 
-For the purposes of this subchapter, the term "State" means any one of the fifty States, theCommonwealth of Puerto Rico, Guam, the District of Columbia, and the Virgin Islands of the United States.
+For the purposes of this subchapter, the term "State" means any one of the fifty States, the Commonwealth of Puerto Rico, Guam, the District of Columbia, and the Virgin Islands of the United States.
 
 (Pub. L. 95–306, §4, June 30, 1978, 92 Stat. 350; Pub. L. 104–127, title VIII, §802(b)(3), Apr. 4, 1996, 110 Stat. 1159.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

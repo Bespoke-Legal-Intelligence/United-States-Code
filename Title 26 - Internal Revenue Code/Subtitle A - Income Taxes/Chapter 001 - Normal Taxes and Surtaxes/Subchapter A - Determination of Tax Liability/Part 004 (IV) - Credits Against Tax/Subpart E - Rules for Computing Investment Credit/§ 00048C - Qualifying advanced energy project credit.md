@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For purposes of section 46, the qualifying advanced energy project credit for any taxableyear is an amount equal to 30 percent of the qualified investment for such taxable year with respect to any qualifying advanced energy project of the taxpayer.
+For purposes of section 46, the qualifying advanced energy project credit for any taxable year is an amount equal to 30 percent of the qualified investment for such taxable year with respect to any qualifying advanced energy project of the taxpayer.
 
 #### (b) Qualified investment
 
@@ -58,7 +58,7 @@ For purposes of section 46, the qualifying advanced energy project credit for an
 
 &emsp;&emsp;&emsp;(i) tangible personal property, or
 
-&emsp;&emsp;&emsp;(ii) other tangible property (not including a building or its structural components), but only if such property is used as an integral part of the qualified investment credit facility, and
+&emsp;&emsp;&emsp;(ii) other tangible property (not including a building or its structural components), but only if such property is used asan integral part of the qualified investment credit facility, and
 
 &emsp;&emsp;(C) with respect to which depreciation (or amortization in lieu of depreciation) is allowable.
 
@@ -134,6 +134,8 @@ A credit shall not be allowed under this section for any qualified investment fo
 
 (Added Pub. L. 111–5, div. B, title I, §1302(b), Feb. 17, 2009, 123 Stat. 345; amended Pub. L. 113–295, div. A, title II, §§209(g), 221(a)(2)(C), Dec. 19, 2014, 128 Stat. 4029, 4037.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Subsections (c)(4) and (d) of section 46 (as in effect on the day before the enactment of the Revenue Reconciliation Act of 1990), referred to in subsec. (b)(2), means section 46(c)(4) and (d) as in effect before enactment of Pub. L. 101–508, which amended section 46 generally.
@@ -146,9 +148,11 @@ The date of enactment of this section, referred to in subsec. (d)(1)(A), (4)(A),
 
 Subsec. (c)(1)(A)(i)(VI). Pub. L. 113–295, §221(a)(2)(C), struck out ", qualified plug-in electric vehicles (as defined by section 30(d))," before "or components".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2014 Amendment
 
-Amendment by section 209(g) of Pub. L. 113–295 effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009, Pub. L. 111–5, div. B, title I, to which such amendment relates, see section 209(k) of Pub. L. 113–295, set out as a note under section 24 of this title.
+Amendment by section 209(g) of Pub. L. 113–295 effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009, Pub. L. 111–5, div. B, title I, to which such amendment relates,see section 209(k) of Pub. L. 113–295, set out as a note under section 24 of this title.
 
 Amendment by section 221(a)(2)(C) of Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 

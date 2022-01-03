@@ -8,6 +8,8 @@ The State agency shall give priority, in carrying out this part, to areas of the
 
 (Pub. L. 89–73, title III, §362, as added Pub. L. 100–175, title I, §143(c), Nov. 29, 1987, 101 Stat. 948; amended Pub. L. 102–375, title I, §102(b)(10)(G), Sept. 30, 1992, 106 Stat. 1202.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior sections 3030o to 3030r were repealed by Pub. L. 106–501, title III, §§315, 316(1), Nov. 13, 2000, 114 Stat. 2253.
@@ -26,7 +28,9 @@ Section 3030r, Pub. L. 89–73, title III, §383, as added Pub. L. 102–375, ti
 
 <b>1992</b>—Pub. L. 102–375 substituted "area agencies on aging" for "area agencies" in section catchline.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Section effective Oct. 1, 1987, except not applicable with respect to any area plan submitted under section 3026(a) of this title or any State plan submitted under section 3027(a) of this title and approved for any fiscalyear beginning before Nov. 29, 1987, see section 701(a), (b) of Pub. L. 100–175, set out as an Effective Date of 1987 Amendment note under section 3001 of this title.
+Section effective Oct. 1, 1987, except not applicable with respect to any area plan submitted under section 3026(a) of this title or any State plan submitted under section 3027(a) of this title and approved for any fiscal year beginning before Nov. 29, 1987, see section 701(a), (b) of Pub. L. 100–175, set out as an Effective Date of 1987 Amendment note under section 3001 of this title.
 

@@ -126,7 +126,7 @@ The Secretary, in consultation with the Governors of the Pacific Insular Areas a
 
 #### (4) Allocation of funds
 
-&emsp;The Secretary shall include in each joint enforcement agreement an allocation of funds to assist in management of the agreement. The allocation shall be fairly distributed among all eligible States participating in cooperative enforcement agreements under this subsection, based upon consideration of Federal marine enforcement needs, the specific marine conservation enforcement needs of each participating eligible State, and the capacity of the State to undertake the marine enforcement mission and assist with enforcement needs. The agreement may provide for amounts to be withheld by the Secretary for the cost of any technical or other assistance provided to the State by the Secretary under the agreement.
+&emsp;The Secretary shall include in each joint enforcement agreement an allocation of funds to assist in management of the agreement. The allocation shall be fairly distributed among all eligible States participating in cooperative enforcement agreements under this subsection, based upon consideration of Federal marineenforcement needs, the specific marine conservation enforcement needs of each participating eligible State, and the capacity of the State to undertake the marine enforcement mission and assist with enforcement needs. The agreement may provide for amounts to be withheld by the Secretary for the cost of any technical or other assistance provided to the State by the Secretary under the agreement.
 
 #### (i) Improved data sharing
 
@@ -159,6 +159,8 @@ For purposes of this section—
 #### Amendment of Subsection (b)(2)
 
 <i>Pub. L. 102–251, title III, §§301(i), 308, Mar. 9, 1992, 106 Stat. 64, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (b)(2) is amended by inserting "and special areas," after "exclusive economic zone".</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -218,6 +220,8 @@ Subsec. (b)(2). Pub. L. 97–453, §13(4), added par. (2).
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–470 substituted "annually on June 30" for "semiannually" and inserted "during the preceding calendar year" after "with the provisions of this chapter".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–251 effective on date on which Agreement between United States and Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until date on which Agreement enters into force for United States, see section 308 of Pub. L. 102–251, set out as a note under section 773 of this title.
@@ -240,7 +244,7 @@ Sec. 110. There is established in the Treasury a non-interest bearing fund to be
 
 "
 
-Sec. 111. There is established in the Treasury a non-interest bearing fund to be known as the 'Sanctuaries Enforcement Asset Forfeiture Fund', which shall consist of all sums received as fines, penalties, and forfeitures of property for violations of any provisions of 16 U.S.C. chapter 38, which are currently deposited in the Operations, Research, and Facilities account: <i>Provided</i>, That all unobligated balances that have been collected pursuant to 16 U.S.C. 1437 shall be transferred from the Operations, Research, and Facilities account into theSanctuaries Enforcement Asset Forfeiture Fund and shall remain available until expended."
+Sec. 111. There is established in the Treasury a non-interest bearing fund to be known as the 'Sanctuaries Enforcement Asset Forfeiture Fund', which shall consist of all sums received as fines, penalties, and forfeitures of property for violations of any provisions of 16 U.S.C. chapter 38, which are currently deposited in the Operations, Research, and Facilities account: <i>Provided</i>, That all unobligated balances that have been collected pursuant to 16 U.S.C. 1437 shall be transferred from the Operations, Research, and Facilities account into the Sanctuaries Enforcement Asset Forfeiture Fund and shall remain available until expended."
 
 #### Action Against Vessels and Vessel Owners Engaged in Illegal, Unreported, or Unregulated Fishing
 
@@ -250,7 +254,7 @@ Pub. L. 110–161, div. B, title I, §113, Dec. 26, 2007, 121 Stat. 1896, provid
 
 &emsp;"(1) develop, maintain, and make public a list of vessels and vessel owners engaged in illegal, unreported, or unregulated fishing, including vessels or vessel owners identified by an international fishery management organization, whether or not the United States is a party to the agreement establishing such organization; and
 
-&emsp;"(2) take appropriate action against listed vessels and vessel owners, including action against fish, fish parts, or fish products from such vessels, in accordance with applicable United States law and consistent with applicable international law, including principles, rights, and obligations established in applicable international fishery management and trade agreements.
+&emsp;"(2) take appropriate action against listed vessels and vessel owners, including action against fish, fishparts, or fish products from such vessels, in accordance with applicable United States law and consistent with applicable international law, including principles, rights, and obligations established in applicable international fishery management and trade agreements.
 
 "(b) Action taken by the Secretary under subsection (a)(2) that include measures to restrict use of or access to ports or port services shall apply to all ports of the United States and its territories.
 

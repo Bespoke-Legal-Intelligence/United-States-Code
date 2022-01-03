@@ -46,6 +46,8 @@ A funding agreement for a grant under section 300x–21 of this title is that, i
 
 <i>Pub. L. 106–310, div. B, title XXXIII, §3303(f)(2), Oct. 17, 2000, 114 Stat. 1211, provided that, effective upon publication of regulations developed in accordance with section 300x–32(e)(1) of this title, subsection (c) of this section \[now subsection (b)\] is amended by striking out paragraph (2) and redesignating paragraph (3) as paragraph (2).</i>
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1922 of act July 1, 1944, was classified to section 300x–9a of this title prior to repeal by Pub. L. 102–321.
@@ -63,6 +65,8 @@ Another prior section 1922 of act July 1, 1944, was classified to section 300y�
 Subsec. (b). Pub. L. 106–310, §3303(a)(2), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a).
 
 Subsec. (c). Pub. L. 106–310, §3303(a)(2), redesignated subsec. (c) as (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

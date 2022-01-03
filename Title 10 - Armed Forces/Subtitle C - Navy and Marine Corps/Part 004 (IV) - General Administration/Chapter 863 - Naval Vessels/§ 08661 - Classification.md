@@ -18,9 +18,13 @@ Historical and Revision Notes
 
 Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31 Stat. 1133.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7291 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 
@@ -64,59 +68,7 @@ Advance Procurement.—With respect to a naval vessel for which amounts are auth
 
 #### Assessments Required Prior to Start of Construction on First Ship of a Shipbuilding Program
 
-Pub. L. 110–181, div. A, title I, §124, Jan. 28, 2008, 122 Stat. 28, provided that:
-
-"(a)
-
-In General.—Concurrent with approving the start of construction of the first ship for any major shipbuilding program, the Secretary of the Navy shall—
-
-&emsp;"(1) submit a report to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] on the results of any production readiness review; and
-
-&emsp;"(2) certify to the congressional defense committees that the findings of any such review support commencement of construction.
-
-"(b)
-
-Report.—The report required by subsection (a)(1) shall include, at a minimum, an assessment of each of the following:
-
-&emsp;"(1) The maturity of the ship's design, as measured by stability of the ship contract specifications and the degree of completion of detail design and production design drawings.
-
-&emsp;"(2) The maturity of developmental command and control systems, weapon and sensor systems, and hull, mechanical and electrical systems.
-
-&emsp;"(3) The readiness of the shipyard facilities and workforce to begin construction.
-
-&emsp;"(4) The Navy's estimated cost at completion and the adequacy of the budget to support the estimate.
-
-&emsp;"(5) The Navy's estimated delivery date and description of any variance to the contract delivery date.
-
-&emsp;"(6) The extent to which adequate processes and metrics are in place to measure and manage program risks.
-
-"(c)
-
-Applicability.—This section applies to each major shipbuilding program beginning after the date of the enactment of this Act \[Jan. 28, 2008\].
-
-"(d)
-
-Definitions.—For the purposes of subsection (a):
-
-&emsp;"(1)
-
-Start of construction.—The term 'start of construction' means the beginning of fabrication of the hull and superstructure of the ship.
-
-&emsp;"(2)
-
-First ship.—The term 'first ship' applies to a ship if—
-
-&emsp;&emsp;"(A) the ship is the first ship to be constructed under that shipbuilding program; or
-
-&emsp;&emsp;"(B) the shipyard at which the ship is to be constructed has not previously started construction on a ship under that shipbuilding program.
-
-&emsp;"(3)
-
-Major shipbuilding program.—The term 'major shipbuilding program' means a program for the construction of combatant and support vessels required for the naval vessel force, as reported within the annual naval vessel construction plan required by section 231 of title 10, United States Code.
-
-&emsp;"(4)
-
-Production readiness review.—The term 'production readiness review' means a formal examination of a program prior to the start of construction to determine if the design is ready for production, production engineering problems have been resolved, and the producer has accomplished adequate planning for the production phase."
+Pub. L. 110–181, div. A, title I, §124, Jan. 28, 2008, 122 Stat. 28, required assessment of certain factors prior to start of construction on first ship of a shipbuilding program, prior to repeal by Pub. L. 117–81, div. A, title X, §1013(c), Dec. 27, 2021, 135 Stat. 1893. See section 8669c of this title.
 
 #### Fast Sealift Program
 
@@ -192,7 +144,7 @@ Applicability.—Subsection (a) shall apply only with respect to appropriations 
 
 #### Repair of Vessels in Foreign Shipyards
 
-Pub. L. 99–500, §101(c) \[title IX, §9101\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–118, and Pub. L. 99–591, §101(c) \[title IX, §9101\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–118, provided that: "No naval vessel or any vessel owned and operated by the Department of Defense homeported in the United States may be overhauled, repaired, or maintained in a foreign owned and operated shipyard located outside of the United States, except for voyage repairs."
+Pub. L. 99–500, §101(c) \[title IX, §9101\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–118, and Pub. L. 99–591, §101(c) \[title IX, §9101\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–118,provided that: "No naval vessel or any vessel owned and operated by the Department of Defense homeported in the United States may be overhauled, repaired, or maintained in a foreign owned and operated shipyard located outside of the United States, except for voyage repairs."
 
 #### Encouragement of Construction in United States Shipyards of Combatant Vessels for United States Allies
 

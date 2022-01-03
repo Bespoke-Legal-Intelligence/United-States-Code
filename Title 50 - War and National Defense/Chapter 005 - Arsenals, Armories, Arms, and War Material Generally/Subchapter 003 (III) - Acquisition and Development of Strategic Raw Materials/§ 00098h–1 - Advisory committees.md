@@ -26,6 +26,8 @@ Each member of an advisory committee established under subsection (a) while serv
 
 (June 7, 1939, ch. 190, §10, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 323; amended Pub. L. 102–484, div. C, title XXXIII, §3314, Oct. 23, 1992, 106 Stat. 2654.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 10 of act June 7, 1939, ch. 190, §10, was renumbered section 13 and is classified to section 98h–4 of this title.
@@ -35,6 +37,8 @@ Provisions similar to those in this section were contained in former section 98a
 #### Amendments
 
 <b>1992</b>—Subsec. (c). Pub. L. 102–484 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 
@@ -63,6 +67,8 @@ Membership.—The committee shall consist of members who have expertise regardin
 &emsp;"(2) representatives of mining, processing, and fabricating industries and consumers that would be affected by the acquisition of materials for the stockpile or the disposal of materials from the stockpile; and
 
 &emsp;"(3) other interested persons or representatives of interested organizations."
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

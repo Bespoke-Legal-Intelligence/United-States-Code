@@ -20,6 +20,8 @@ R.S. 1511.
 
 The words "United States" are inserted before the words "Naval Academy" to state the full title. The word "established" is omitted as executed. The words "in the State of" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 8451, act Aug. 10, 1956, ch. 1041, 70A Stat. 524, provided that an officer who is promoted to a temporary grade is considered to have accepted his promotion on date of order announcing it, unless he expressly declines promotion, prior to repeal by Pub. L. 96–513, title II, §207, Dec. 12, 1980, 94 Stat. 2884, effective Sept. 15, 1981.
@@ -27,6 +29,8 @@ A prior section 8451, act Aug. 10, 1956, ch. 1041, 70A Stat. 524, provided that 
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 6951 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

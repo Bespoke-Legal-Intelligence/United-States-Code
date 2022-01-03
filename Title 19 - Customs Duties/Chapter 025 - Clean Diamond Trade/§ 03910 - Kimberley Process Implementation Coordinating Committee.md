@@ -14,9 +14,13 @@ The President shall establish a Kimberley Process Implementation Coordinating Co
 
 (Pub. L. 108–19, §11, Apr. 25, 2003, 117 Stat. 635.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 For effective date of this section, see section 15 of Pub. L. 108–19, set out as a note under section 3901 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

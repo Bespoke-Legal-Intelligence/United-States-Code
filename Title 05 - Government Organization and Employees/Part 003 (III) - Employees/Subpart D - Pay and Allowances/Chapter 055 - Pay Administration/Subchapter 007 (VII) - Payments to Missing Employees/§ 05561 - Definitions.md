@@ -10,7 +10,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(B) who is a resident at or in the vicinity of his place of employment in a territory or possession of the United States or in a foreign country and who was not living there solely as a result of his employment;
 
-> &emsp;is an employee for the purpose of this subchapter only on a determination by the headof the agency concerned that this status is the proximate result of employment by the agency;
+> &emsp;is an employee for the purpose of this subchapter only on a determination by the head of the agency concerned that this status is the proximate result of employment by the agency;
 
 &emsp;(3) "dependent" means—
 
@@ -146,11 +146,11 @@ Pub. L. 104–106, div. A, title V, §569(e), Feb. 10, 1996, 110 Stat. 352, dire
 
 #### Benefits for United States Hostages in Iraq and Kuwait and United States Hostages Captured in Lebanon
 
-Pub. L. 101–513, title V, §599C, Nov. 5, 1990, 104 Stat. 2064, as amended by Pub. L. 102–138, title III, §302(a),Oct. 28, 1991, 105 Stat. 707; Pub. L. 102–499, §5(a), Oct. 24, 1992, 106 Stat. 3266, provided for payment of benefits during fiscal year 1991 and thereafter for United States hostages in Iraq and Kuwait and United States hostages captured in Lebanon.
+Pub. L. 101–513, title V, §599C, Nov. 5, 1990, 104 Stat. 2064, as amended by Pub. L. 102–138, title III, §302(a), Oct. 28, 1991, 105 Stat. 707; Pub. L. 102–499, §5(a), Oct. 24, 1992, 106 Stat. 3266, provided for payment of benefits during fiscal year 1991 and thereafter for United States hostages in Iraq and Kuwait and United States hostages captured in Lebanon.
 
 #### Hostage Relief
 
-Pub. L. 96–449, Oct. 14, 1980, 94 Stat. 1967, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, known as the "Hostage Relief Act of 1980", provided for benefits for United States civil service and uniformed service personnel who were placed in a captive status during a hostage period beginning on Nov. 4, 1979, due to the seizure of the United States Embassy in Iran.
+Pub. L. 96–449, Oct. 14, 1980, 94 Stat. 1967, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, known asthe "Hostage Relief Act of 1980", provided for benefits for United States civil service and uniformed service personnel who were placed in a captive status during a hostage period beginning on Nov. 4, 1979, due to the seizure of the United States Embassy in Iran.
 
 #### <b>Executive Documents</b>
 

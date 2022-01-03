@@ -194,7 +194,7 @@ Notwithstanding any other provision of this Act, amounts totaling not more than 
 
 &emsp;&emsp;&emsp;&emsp;(I) the increased limit shall be 6 times the applicable limit; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the limit under subsection (a)(3) shall not apply with respect to any contribution made with respect to a candidate if such contribution is made under the increased limit of subparagraph (A) during a period in which the candidate may accept such a contribution; and
+&emsp;&emsp;&emsp;&emsp;(II) the limit under subsection (a)(3) shall not apply with respect to any contribution made with respect to a candidate if such contribution is made underthe increased limit of subparagraph (A) during a period in which the candidate may accept such a contribution; and
 
 &emsp;&emsp;&emsp;(iii) 10 times the threshold amount—
 
@@ -262,7 +262,7 @@ Any candidate who incurs personal loans made after the effective date of the Bip
 
 This Act, referred to in subsecs. (a)(5) and (h), means the Federal Election Campaign Act of 1971, as defined by section 30101 of this title.
 
-For effective date of the Bipartisan Campaign Reform Act of 2002, referred to in subsec. (j), see section 402 of Pub. L. 107–155, set out as an Effective Date of 2002 Amendment; Regulations note under section 30101 of this title.
+For effective date of the Bipartisan Campaign Reform Act of 2002, referred to in subsec. (j), see section 402 ofPub. L. 107–155, set out as an Effective Date of 2002 Amendment; Regulations note under section 30101 of this title.
 
 #### Codification
 
@@ -270,7 +270,7 @@ Section was formerly classified to section 441a of Title 2, The Congress, prior 
 
 #### Constitutionality
 
-For information regarding constitutionality of certain provisions of section 315 of Pub. L. 92–225, as added by section 112(2) of Pub. L. 94–283 and amended by section 213 of Pub. L. 107–155, and information regarding constitutionality of certain provisions of section 307(b) of Pub. L. 107–155, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For information regarding constitutionality of certain provisions of this section, formerly classified to section 441a of Title 2, The Congress, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
 
 #### Prior Provisions
 

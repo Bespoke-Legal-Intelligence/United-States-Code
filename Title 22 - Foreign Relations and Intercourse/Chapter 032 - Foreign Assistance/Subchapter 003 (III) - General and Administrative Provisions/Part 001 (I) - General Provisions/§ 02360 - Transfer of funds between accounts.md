@@ -44,7 +44,7 @@ Pub. L. 89–371 authorized transfer of $1,400,000 for administrative expenses f
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–623, §10(b), Nov. 21, 1990, 104 Stat. 3356, provided that: "The amendments made by subsection (a) \[amending this section\] apply with respect to funds made available for fiscal year 1991 or any fiscal year thereafter."
+Pub. L. 101–623, §10(b), Nov. 21, 1990, 104 Stat. 3356, provided that: "The amendments made by subsection\(a) \[amending this section\] apply with respect to funds made available for fiscal year 1991 or any fiscal year thereafter."
 
 #### <b>Executive Documents</b>
 

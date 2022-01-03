@@ -2,9 +2,13 @@
 
 Section, Pub. L. 93–618, title II, §250, as added Pub. L. 103–182, title V, §502, Dec. 8, 1993, 107 Stat. 2149; amended Pub. L. 105–277, div. J, title I, §1012(b), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–113, div. B, §1000(a)(5) \[title VII, §702(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–319, established a NAFTA transitional adjustment assistance program.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 250 of Pub. L. 93–618, title II, Jan. 3, 1975, 88 Stat. 2029, provided for judicial review for workers or groups aggrieved by a final determination by the Secretary under section 2273 of this title, and was classified to section 2322 of this title, prior to repeal by Pub. L. 96–417.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of Repeal
 
@@ -16,5 +20,5 @@ In general.—The amendments made by this section \[amending sections 2275 and 2
 
 "(2)
 
-Workers certified as eligible before effective date.—Notwithstanding subsection (a), a worker receiving benefits under chapter 2 of title II of the Trade Act of 1974 shall continue to receive (or be eligible to receive) benefits and services under chapter 2 of title II of the Trade Act of 1974, as in effect on the day before the amendments made by this section take effect under subsection (a), for any week for which the worker meets the eligibility requirements of such chapter 2 as in effect on such date."
+Workers certified as eligible before effective date.—Notwithstanding subsection (a), a worker receiving benefits under chapter 2 of title II of the Trade Act of 1974 shall continue to receive (or be eligible to receive) benefits and services under chapter 2 of title II of the Trade Act of 1974, as in effect on the daybefore the amendments made by this section take effect under subsection (a), for any week for which the worker meets the eligibility requirements of such chapter 2 as in effect on such date."
 

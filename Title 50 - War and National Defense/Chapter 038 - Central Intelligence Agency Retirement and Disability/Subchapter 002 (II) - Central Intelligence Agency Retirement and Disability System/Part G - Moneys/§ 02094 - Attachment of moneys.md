@@ -32,9 +32,11 @@ An individual entitled to an annuity from the fund may make allotments or assign
 
 (Pub. L. 88–643, title II, §264, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3237; amended Pub. L. 103–178, title II, §202(a)(12), Dec. 3, 1993, 107 Stat. 2027.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
-A prior section 264 of Pub. L. 88–643, as added Pub. L. 94–522, title II, §212, Oct. 17, 1976, 90 Stat. 2471, related to recovery of payments and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496. See section 2095 of this title.
+A prior section 264 of Pub. L. 88–643, as added Pub. L. 94–522, title II, §212, Oct. 17, 1976, 90 Stat. 2471, related to recovery of payments and was set out as a noteunder section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496. See section 2095 of this title.
 
 #### Amendments
 
@@ -43,6 +45,8 @@ A prior section 264 of Pub. L. 88–643, as added Pub. L. 94–522, title II, §
 Subsec. (b)(3). Pub. L. 103–178, §202(a)(12)(B), substituted ", and the amount of any such payment;" for "and to any payment of a return of contributions under section 2054(a) of this title; and".
 
 Subsec. (b)(4). Pub. L. 103–178, §202(a)(12)(C), struck out par. (4) which read as follows: "any right of the former spouse of a participant or former participant to a lump-sum payment or additional annuity payable from a voluntary contribution account under section 2121 of this title;".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1993 Amendment
 

@@ -20,7 +20,7 @@ For purposes of this section, the term "compensable injury" means—
 
 #### (c) Compensatory amount
 
-For purposes of this section, the term "compensatory amount" means the amount received or accrued during the taxable year as damages as a result of an award in, or in settlement of, a civil action for recovery for a compensable injury, reduced by any amounts paid or incurred in the taxable year in securing such award or settlement.
+For purposes of this section, the term "compensatory amount" means the amount received or accrued during the taxable year as damagesas a result of an award in, or in settlement of, a civil action for recovery for a compensable injury, reduced by any amounts paid or incurred in the taxable year in securing such award or settlement.
 
 #### (d) Unrecovered losses
 
@@ -64,9 +64,13 @@ If for the taxable year in which a compensatory amount is received or accrued an
 
 (Added Pub. L. 91–172, title IX, §904(a), Dec. 30, 1969, 83 Stat. 711.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 4 of the Clayton Act, referred to in subsec. (b)(3), is classified to section 15 of Title 15.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

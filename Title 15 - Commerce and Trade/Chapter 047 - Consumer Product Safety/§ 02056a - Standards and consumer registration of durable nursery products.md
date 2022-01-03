@@ -106,7 +106,7 @@ This section may be cited as the "Danny Keysar Child Product Safety Notification
 
 #### (4) Study
 
-&emsp;The Commission shall conduct a study at such time as it considers appropriate on the effectiveness of the consumer registration forms required by this section in facilitating product recalls and whether such registration forms should be required for other children's products. Not later than 4 years after August 14, 2008, the Commission shall report its findings to the appropriate Congressional committees.
+&emsp;The Commission shall conduct a study at such time as it considers appropriate on the effectiveness of the consumer registration forms required by this section in facilitating product recalls and whether such registration forms should be required for other children'sproducts. Not later than 4 years after August 14, 2008, the Commission shall report its findings to the appropriate Congressional committees.
 
 #### (e) Use of alternative recall notification technology
 
@@ -160,6 +160,8 @@ As used in this section, the term "durable infant or toddler product"—
 
 (Pub. L. 110–314, title I, §104, Aug. 14, 2008, 122 Stat. 3028; Pub. L. 112–28, §3, Aug. 12, 2011, 125 Stat. 279.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 2060(g) of this title, as added by section 236 of this Act, referred to in subsec. (b)(3), is section 2060(g) of this title, as added by section 236 of Pub. L. 110–314.
@@ -177,6 +179,8 @@ Section was enacted as part of the Consumer Product Safety Improvement Act of 20
 <b>2011</b>—Subsec. (b)(4). Pub. L. 112–28, §3(a), added par. (4).
 
 Subsec. (c)(3), (4). Pub. L. 112–28, §3(b), added par. (3) and redesignated former par. (3) as (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

@@ -18,7 +18,7 @@ In carrying out the demonstration program required by this section, the Secretar
 
 &emsp;(3) take into account and evaluate any other financial assistance which may be available for the installation or implementation of energy conservation and renewable-resource energy measures;
 
-&emsp;(4) make use of such State and local instrumentalities or other public or private entities as may be appropriate in carrying out the purposes of this section in coordination with the provisions of part C of title III of the EnergyPolicy and Conservation Act \[42 U.S.C. 6321 et seq.\];
+&emsp;(4) make use of such State and local instrumentalities or other public or private entities as may be appropriate in carrying out the purposes of this section in coordination with the provisions of part C of title III of the Energy Policy and Conservation Act \[42 U.S.C. 6321 et seq.\];
 
 &emsp;(5) consider, with respect to various forms of assistance and procedures for their application, (A) the extent to which energy conservation measures and renewable-resource energy measures are encouraged which would otherwise not have been undertaken, (B) the minimum amount of Federal subsidy necessary to achieve the objectives of a national program, (C) the costs of administering the assistance, (D) the extent to which the assistance may be encumbered by delays, redtape, and uncertainty as to its availability with respect to any particular applicant, (E) the factors which may prevent the assistance from being available in certain areas or for certain classes of persons, and (F) the extent to which fraudulent practices can be prevented; and
 
@@ -60,13 +60,13 @@ As used in this section:
 
 &emsp;(2) The term "approved", with respect to an energy conservation measure or a renewable-resource energy measure, means any such measure which is included on a list of such measures which is published by the Administrator of the Federal Energy Administration pursuant to section 365(e)(1) of the Energy Policy and Conservation Act \[42 U.S.C. 6325(e)(1)\]. The Administrator may, by rule, require that an energy audit be conducted as a condition of obtaining assistance under this section for a renewable-resource energy measure.
 
-&emsp;(3) The terms "energy audit", "energy conservation measure", and "renewable-resource energy measure" have the meanings prescribed for such terms in section 366 of the Energy Policy and Conservation Act \[42 U.S.C. 6326\].
+&emsp;(3) The terms "energy audit", "energy conservation measure", and "renewable-resource energy measure" have the meanings given the terms in section 361(c) of the Energy Policy and Conservation Act \[42 U.S.C. 6321(c)\].
 
 #### (j) Authorization of appropriations
 
 There is authorized to be appropriated, for purposes of this section, not to exceed $200,000,000. Any amount appropriated pursuant to this subsection shall remain available until expended.
 
-(Pub. L. 91–609, title V, §509, as added Pub. L. 94–385, title IV, §441, Aug. 14, 1976, 90 Stat. 1162; amended Pub. L. 95–91, title VII, §709(d), Aug. 4, 1977, 91 Stat. 608.)
+(Pub. L. 91–609, title V, §509, as added Pub. L. 94–385, title IV, §441, Aug. 14, 1976, 90 Stat. 1162; amended Pub. L. 95–91, title VII, §709(d), Aug. 4, 1977, 91 Stat. 608; Pub. L. 117–58, div. D, title I, §40108(c)(1), Nov. 15, 2021, 135 Stat. 944.)
 
 #### <b>Editorial Notes</b>
 
@@ -79,6 +79,8 @@ The Energy Policy and Conservation Act, referred to in subsecs. (c)(4) and (f), 
 Section was enacted as part of the Housing and Urban Development Act of 1970, and not as part of the National Housing Act which comprises this chapter.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (i)(3). Pub. L. 117–58 substituted "given the terms in section 361(c) of the Energy Policy and Conservation Act" for "prescribed for such terms in section 366 of the Energy Policy and Conservation Act".
 
 <b>1977</b>—Subsecs. (c)(6), (e). Pub. L. 95–91 inserted ", the Secretary of Housing and Urban Development," after "the Administrator".
 

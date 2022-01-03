@@ -10,7 +10,7 @@ The Institute shall conduct research and carry out educational and demonstration
 
 &emsp;(1) identify and develop the best available techniques, equipment, and materials for dealing with oil spills in the arctic and subarctic marine environment; and
 
-&emsp;(2) complement Federal and State damage assessment efforts and determine, document, assess, and understand the long-range effects of Arctic or Subarctic oil spills on the natural resources of Prince William Sound and its adjacent waters (as generally depicted on the map entitled "EXXON VALDEZ oil spill dated March 1990"), and the environment, the economy, and the lifestyle and well-being of the people who are dependent on them, except that the Institute shall not conduct studies ormake recommendations on any matter which is not directly related to Arctic or Subarctic oil spills or the effects thereof.
+&emsp;(2) complement Federal and State damage assessment efforts and determine, document, assess, and understand the long-range effects of Arctic or Subarctic oil spills on the natural resources of Prince William Sound and its adjacent waters (as generally depicted on the map entitled "EXXON VALDEZ oil spill dated March 1990"), and the environment, the economy, and the lifestyle and well-being of the people who are dependent on them, except that the Institute shall not conduct studies or make recommendations on any matter which is not directly related to Arctic or Subarctic oil spills or the effects thereof.
 
 #### (c) Advisory board
 
@@ -74,7 +74,7 @@ Employees of the Institute shall not, by reason of such employment, be considere
 
 #### (i) Termination
 
-The authorization in section 2736(b) of this title providing funding for the Institute shall terminate 1 year after the date on which theSecretary, in consultation with the Secretary of the Interior, determines that oil and gas exploration, development, and production in the State of Alaska have ceased.
+The authorization in section 2736(b) of this title providing funding for the Institute shall terminate 1 year after the date on which the Secretary, in consultation with the Secretary of the Interior, determines that oil and gas exploration, development, and production in the State of Alaska have ceased.
 
 #### (j) Use of funds
 
@@ -116,7 +116,7 @@ Subsec. (c)(1)(B). Pub. L. 104–324, §1102(a)(6), (8), added subpar. (B) and s
 
 > all of whom shall be Federal employees."
 
-Subsec. (c)(1)(C). Pub. L. 104–324, §1102(a)(6), (8), added subpar. (C) and struck out former subpar. (C) which read as follows: "4 representatives appointed by the Secretary of Commerce from among residents of communities in Alaska that were affected by the EXXON VALDEZ oil spill who are knowledgeable about fisheries, other local industries, the marine environment, wildlife, public health, safety, or education. At least 2 of the representatives shall be appointed from among residents of communities located in Prince William Sound. The Secretary shall appoint residents to serve terms of 2 years each, from a list of 8 qualified individuals to be submitted by the Governor of the State of Alaska based on recommendations made by the governing body of each affected community. Each affected community may submit the names of 2 qualified individuals for the Governor's consideration. No more than 5 of the 8 qualified persons recommended by the Governor shall be members of the same political party."
+Subsec. (c)(1)(C). Pub. L. 104–324, §1102(a)(6), (8), added subpar. (C) and struck out former subpar. (C) which read as follows: "4 representatives appointed by the Secretary of Commerce from among residents of communities in Alaska that were affected by the EXXON VALDEZ oil spill who are knowledgeable about fisheries, other local industries, the marine environment, wildlife, public health, safety, or education. At least 2of the representatives shall be appointed from among residents of communities located in Prince William Sound. The Secretary shall appoint residents to serve terms of 2 years each, from a list of 8 qualified individuals to be submitted by the Governor of the State of Alaska based on recommendations made by the governing body of each affected community. Each affected community may submit the names of 2 qualified individuals for the Governor's consideration. No more than 5 of the 8 qualified persons recommended by the Governor shall be members of the same political party."
 
 Subsec. (c)(1)(D). Pub. L. 104–324, §1102(a)(6), (8), added subpar. (D) and struck out former subpar. (D) which read as follows: "3 Alaska Natives who represent Native entities affected by the EXXON VALDEZ oil spill, at least one of whom represents an entity located in Prince William Sound, to serve terms of 2 years each from a list of 6 qualified individuals submitted by the Alaska Federation of Natives."
 

@@ -20,9 +20,13 @@ The membership of the task force shall include representatives of—
 
 (Pub. L. 93–288, title II, §204, as added Pub. L. 106–390, title I, §103, Oct. 30, 2000, 114 Stat. 1557; amended Pub. L. 111–351, §3(c)(2), Jan. 4, 2011, 124 Stat. 3864.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Subsec. (b). Pub. L. 111–351 substituted "Administrator" for "Director".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

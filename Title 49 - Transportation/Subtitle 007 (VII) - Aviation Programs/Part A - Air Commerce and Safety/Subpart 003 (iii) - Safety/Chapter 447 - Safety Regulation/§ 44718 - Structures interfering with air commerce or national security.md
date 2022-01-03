@@ -82,7 +82,7 @@ National Security Finding.—As part of an aeronautical study conducted under su
 
 (g)
 
-Special Rule for Identified Geographic Areas.—In the case of a proposed structure to be located within a geographic area identified under section 183a(d)(2)(B) of title 10, the Secretary of Transportation may not issue a determination pursuant to this section until the Secretary of Defense issues a finding under section 183a(e) of title 10, the Secretary of Defense advises the Secretary of Transportation that no finding under section 183a(e) of title 10 will be forthcoming, or 180 days have lapsed since theproject was filed with the Secretary of Transportation pursuant to this section, whichever occurs first.
+Special Rule for Identified Geographic Areas.—In the case of a proposed structure to be located within a geographic area identified under section 183a(d)(2)(B) of title 10, the Secretary of Transportation may not issue a determination pursuant to this section until the Secretary of Defense issues a finding under section 183a(e) of title 10, the Secretary of Defense advises the Secretary of Transportation that no finding under section 183a(e) of title 10 will be forthcoming, or 180 days have lapsed since the project was filed with the Secretary of Transportation pursuant to this section, whichever occurs first.
 
 (h)
 
@@ -126,6 +126,8 @@ In subsection (a), before clause (1), the words "(hereinafter in this section re
 
 In subsection (b)(1), before clause (A), the word "thoroughly" is omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this subsection, referred to in subsec. (d), probably means the date of enactment of Pub. L. 106–181, which amended subsec. (d) generally, and which was approved Apr. 5, 2000.
@@ -168,13 +170,15 @@ Subsecs. (f), (g). Pub. L. 114–328, §341(a)(3), added subsecs. (f) and (g).
 
 <b>1996</b>—Subsec. (d). Pub. L. 104–264 added subsec. (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
 
 #### Effective Date of 1996 Amendment
 
-Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal yearsbeginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
 #### Rulemaking
 
@@ -306,7 +310,7 @@ Exclusion and Waiver Authorities.—As part of a rulemaking conducted pursuant t
 
 &emsp;"(2) shall establish a process to waive specific covered towers from the marking requirements under this section as required under the rulemaking if the Administrator later determines such tower or towers do not pose a hazard to aviation safety;
 
-&emsp;"(3) shall consider, in establishing exclusions and granting waivers under this subsection, factors that may sufficiently mitigate risks to aviation safety, such as the length of time the tower has been in existence or alternative marking methods or technologies that maintains a tower's level of conspicuousness to a degree which adequately maintains the safety of the airspace; and
+&emsp;"(3) shall consider, in establishing exclusions and granting waivers under this subsection, factors thatmay sufficiently mitigate risks to aviation safety, such as the length of time the tower has been in existence or alternative marking methods or technologies that maintains a tower's level of conspicuousness to a degree which adequately maintains the safety of the airspace; and
 
 &emsp;"(4) shall consider excluding towers located in a State that has enacted tower marking requirements according to the Federal Aviation Administration's recommended guidance for the voluntary marking of meteorological evaluation towers erected in remote and rural areas that are less than 200 feet above ground level to enhance the conspicuity of the towers for low level agricultural operations in the vicinity of those towers.
 

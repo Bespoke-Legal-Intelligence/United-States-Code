@@ -60,7 +60,7 @@ For purposes of this section, the term "eligible individual" means any individua
 
 #### (B) Delivery of payments
 
-&emsp;&emsp;Notwithstanding any other provision of law, the Secretary may certify and disburserefunds payable under this subsection electronically to any account to which the payee authorized, on or after January 1, 2018, the delivery of a refund of taxes under this title or of a Federal payment (as defined in section 3332 of title 31, United States Code).
+&emsp;&emsp;Notwithstanding any other provision of law, the Secretary may certify and disburse refunds payable under this subsection electronically to any account to which the payee authorized, on or after January 1, 2018, the delivery of a refund of taxes under this title or of a Federal payment (as defined in section 3332 of title 31, United States Code).
 
 #### (C) Waiver of certain rules
 
@@ -164,6 +164,8 @@ The Secretary shall prescribe such regulations or other guidance as may be neces
 
 (Added Pub. L. 116–136, div. A, title II, §2201(a), Mar. 27, 2020, 134 Stat. 335; amended Pub. L. 116–260, div. N, title II, §273(a), Dec. 27, 2020, 134 Stat. 1976.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Social Security Act, referred to in subsec. (f)(6)(B)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II and XVI of the Act are classified generally to subchapters II (§401 et seq.) and XVI (§1381 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
@@ -188,9 +190,11 @@ Subsec. (f)(6), (7). Pub. L. 116–260, §273(a)(2)(C), added par. (6) and redes
 
 Subsec. (g). Pub. L. 116–260, §273(a)(3), added subsec. (g) and struck out former subsec. (g) which set forth general provisions relating to identification number requirement, defined "valid identification number", and set forth provisions relating to special rule for members of the Armed Forces and mathematical or clerical error authority.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2020 Amendment
 
-Pub. L. 116–260, div. N, title II, §273(c), Dec. 27, 2020, 134 Stat. 1978, provided that: "The amendments made by this section \[amending this section and provisions set out as a note under this section\] shall take effect as if included in section 2201 of the CARES Act \[Pub. L. 116–136, enacting this section, amending sections 6211 and 6213 of this title and section 1324 of Title 31, Money and Finance, and enacting provisions set out as notes under this section\]."
+Pub. L. 116–260, div. N, title II, §273(c), Dec. 27, 2020, 134 Stat. 1978, provided that: "The amendments madeby this section \[amending this section and provisions set out as a note under this section\] shall take effect as if included in section 2201 of the CARES Act \[Pub. L. 116–136, enacting this section, amending sections 6211 and 6213 of this title and section 1324 of Title 31, Money and Finance, and enacting provisions set out as notes under this section\]."
 
 #### Treatment of Possessions
 
@@ -294,7 +298,7 @@ In general.—The credit allowed by subsection (a) shall be treated as allowed b
 
 &emsp;&emsp;"(B)
 
-Appropriations.—For purposes of section 1324(b)(2) of title 31, United States Code, the credit allowed by subsection (a) shall be treated in the same manner \[as\] a refund from the credit allowed under \[former\] section 36A of the Internal Revenue Code of 1986 (as added by this Act).
+Appropriations.—For purposes of section 1324(b)(2) of title 31, United States Code, the credit allowed by subsection (a) shall be treated in the same manner \[as\] a refund from the credit allowedunder \[former\] section 36A of the Internal Revenue Code of 1986 (as added by this Act).
 
 &emsp;"(2)
 
@@ -326,7 +330,7 @@ Possession of the united states.—For purposes of this subsection, the term 'po
 
 &emsp;&emsp;"(B)
 
-Mirror code tax system.—For purposes of this subsection, the term 'mirror code tax system' means, with respect to any possession of the United States, the income tax system of such possession ifthe income tax liability of the residents of such possession under such system is determined by reference to the income tax laws of the United States as if such possession were the United States.
+Mirror code tax system.—For purposes of this subsection, the term 'mirror code tax system' means, with respect to any possession of the United States, the income tax system of such possession if the income tax liability of the residents of such possession under such system is determined by reference to the income tax laws of the United States as if such possession were the United States.
 
 &emsp;&emsp;"(C)
 

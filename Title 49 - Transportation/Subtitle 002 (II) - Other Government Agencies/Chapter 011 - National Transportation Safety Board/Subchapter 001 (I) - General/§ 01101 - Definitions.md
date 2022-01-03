@@ -22,11 +22,15 @@ A number of the source provisions of the chapter are taken from 49 App.:ch. 20. 
 
 This section is included to ensure that the identical definitions that are relevant are used without repeating them. The source provisions for the definitions are found in the revision note for section 40102(a) of the revised title.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 substituted "Section 2101(23)" for "Section 2101(17a)".
 
 <b>2000</b>—Pub. L. 106–424 amended section catchline and text generally. Prior to amendment, text read as follows: "Section 40102(a) of this title applies to this chapter."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2015 Amendment
 
@@ -46,7 +50,7 @@ Pub. L. 106–424, §1(a), Nov. 1, 2000, 114 Stat. 1883, provided that: "This Ac
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–291, title I, §101, Oct. 11, 1996, 110 Stat. 3452, provided that: "This title \[amending sections 1114,1115, and 1118 of this title\] may be cited as the 'National Transportation Safety Board Amendments of 1996'."
+Pub. L. 104–291, title I, §101, Oct. 11, 1996, 110 Stat. 3452, provided that: "This title \[amending sections 1114, 1115, and 1118 of this title\] may be cited as the 'National Transportation Safety Board Amendments of 1996'."
 
 #### Definitions of Terms in Div. C of Pub. L. 115–254
 

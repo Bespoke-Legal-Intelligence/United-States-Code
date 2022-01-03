@@ -42,6 +42,8 @@ The Secretary of the Treasury is authorized to include in such rules and regulat
 
 (June 17, 1930, ch. 497, title IV, §498, 46 Stat. 728; Aug. 8, 1953, ch. 397, §16(d), (e), 67 Stat. 517; Pub. L. 96–609, title II, §202, Dec. 28, 1980, 94 Stat. 3561; Pub. L. 98–573, title II, §206, Oct. 30, 1984, 98 Stat. 2975; Pub. L. 100–418, title I, §1214(h)(5), Aug. 23, 1988, 102 Stat. 1157; Pub. L. 103–182, title VI, §662, Dec. 8, 1993, 107 Stat. 2214.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1465 of this title, referred to in subsec. (a)(10), was repealed by Pub. L. 103–182, title VI, §690(b)(7), Dec. 8, 1993, 107 Stat. 2223.
@@ -52,7 +54,7 @@ Section 1201 of this title, referred to in subsec. (a)(12), which comprised the 
 
 Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §498, 42 Stat. 964. That section was superseded by section 498 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-Provision for an entry, separate from that of other merchandise, of wearing apparel, personal baggage, and tools and implements of a mechanical trade, was made by R.S. §2799, which also prescribed the contents of such entry, and of the accompanying oath. R.S. §2800 provided for a bond when the person making entry was not the owner. R.S. §2801 provided for a landing permit, and for an examination of baggage when deemed properby the collector and naval officer, and for entry of articles not exempt from duty. All of these sections were repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
+Provision for an entry, separate from that of other merchandise, of wearing apparel, personal baggage, and tools and implements of a mechanical trade, was made by R.S. §2799, which also prescribed the contents of such entry, and of the accompanying oath. R.S. §2800 provided for a bond when the person making entry was not the owner. R.S. §2801 provided for a landing permit, and for an examination of baggage when deemed proper by the collector and naval officer, and for entry of articles not exempt from duty. All of these sections were repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
 #### Amendments
 
@@ -83,6 +85,8 @@ Subsec. (a)(2). Pub. L. 103–182, §662(2), substituted "such amounts as the Se
 <b>1953</b>—Subsec. (a)(1). Act Aug. 8, 1953, §16(d), increased valuation figure with respect to informal entries from $100 to $250, and inserted provisions with respect to possible variation for different classes or kinds of merchandise and different classes of transactions.
 
 Subsec. (a)(11). Act Aug. 8, 1953, §16(e), substituted "paragraph 1631 of section 1201 of this title" for "sections 472 to 574 of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

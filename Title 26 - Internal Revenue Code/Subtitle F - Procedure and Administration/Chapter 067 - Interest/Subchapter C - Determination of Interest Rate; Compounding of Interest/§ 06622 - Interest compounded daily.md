@@ -10,6 +10,8 @@ Subsection (a) shall not apply for purposes of computing the amount of any addit
 
 (Added Pub. L. 97–248, title III, §344(a), Sept. 3, 1982, 96 Stat. 635.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Pub. L. 97–248, title III, §344(c), Sept. 3, 1982, 96 Stat. 636, provided that: "The amendments made by this section \[enacting this section and amending section 6601 of this title\] shall apply to interest accruing after December 31, 1982."

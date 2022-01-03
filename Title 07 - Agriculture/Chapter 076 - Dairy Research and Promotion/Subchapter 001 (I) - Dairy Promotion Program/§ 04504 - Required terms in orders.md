@@ -46,7 +46,7 @@ Additional members; nominations.—The members appointed under this paragraph—
 
 &emsp;(10) Board members shall serve without compensation, but shall be reimbursed for their reasonable expenses incurred in performing their duties as members of the Board including a per diem allowance as recommended by the Board and approved by the Secretary.
 
-(c) The order shall define the powers and duties of the Board that shall include only the powers enumerated in this section. These shall include, in addition to the powers set forth elsewhere in this section, the powers to (1) receive and evaluate, or on its own initiative develop, and budget for plans or projects to promote the use of fluid milk and dairy products as well as projects for research and nutrition education and to make recommendations to the Secretary regarding such proposals, (2) administer theorder in accordance with its terms and provisions, (3) make rules and regulations to effectuate the terms and provisions of the order, (4) receive, investigate, and report to the Secretary complaints of violations of the order, and (5) recommend to the Secretary amendments to the order. The Board shall solicit, among others, research proposals that would increase the use of fluid milk and dairy products by the military and by persons in developing nations, and that would demonstrate the feasibility of converting surplus nonfat dry milk to casein for domestic and export use.
+(c) The order shall define the powers and duties of the Board that shall include only the powers enumerated in this section. These shall include, in addition to the powers set forth elsewhere in this section, the powers to (1) receive and evaluate, or on its own initiative develop, and budget for plans or projects to promote the use of fluid milk and dairy products as well as projects for research and nutrition education and to make recommendations to the Secretary regarding such proposals, (2) administer the order in accordance with its terms and provisions, (3) make rules and regulations to effectuate the terms and provisions of the order, (4) receive, investigate, and report to the Secretary complaints of violations of the order, and (5) recommend to the Secretary amendments to the order. The Board shall solicit, among others, research proposals that would increase the use of fluid milk and dairy products by the military and by persons in developing nations, and that would demonstrate the feasibility of converting surplus nonfat dry milk to casein for domestic and export use.
 
 (d) The order shall provide that the Board shall develop and submit to the Secretary for approval any promotion, research, or nutrition education plan or project and that any such plan or project must be approved by the Secretary before becoming effective.
 
@@ -114,7 +114,7 @@ Expiration.—Refunds under subparagraph (A) shall expire 1 year after the date 
 
 (h) The order shall require the Board to (1) maintain such books and records (which shall be available to the Secretary for inspection and audit) as the Secretary may prescribe, (2) prepare and submit to the Secretary, from time to time, such reports as the Secretary may prescribe, and (3) account for the receipt and disbursement of all funds entrusted to it.
 
-(i) The order shall provide that the Board, with the approval of the Secretary, may invest, pending disbursement under a plan or project, funds collected through assessments authorizedunder this subchapter only in obligations of the United States or any agency thereof, in general obligations of any State or any political subdivision thereof, in any interest-bearing account or certificate of deposit of a bank that is a member of the Federal Reserve System, or in obligations fully guaranteed as to principal and interest by the United States.
+(i) The order shall provide that the Board, with the approval of the Secretary, may invest, pending disbursement under a plan or project, funds collected through assessments authorized under this subchapter only in obligations of the United States or any agency thereof, in general obligations of any State or any political subdivision thereof, in any interest-bearing account or certificate of deposit of a bank that is a member of the Federal Reserve System, or in obligations fully guaranteed as to principal and interest by the United States.
 
 (j) The order shall prohibit any funds collected by the Board under the order from being used in any manner for the purpose of influencing governmental policy or action except as provided by subsection (c)(5).
 
@@ -123,6 +123,8 @@ Expiration.—Refunds under subparagraph (A) shall expire 1 year after the date 
 (l) The order shall provide terms and conditions, not inconsistent with the provisions of this subchapter, as necessary to effectuate the provisions of the order.
 
 (Pub. L. 98–180, title I, §113, Nov. 29, 1983, 97 Stat. 1137; Pub. L. 104–127, title I, §152, Apr. 4, 1996, 110 Stat. 922; Pub. L. 107–171, title I, §1505(b)–(e), May 13, 2002, 116 Stat. 208, 209; Pub. L. 110–234, title I, §1507(a), (d)–(f), May 22, 2008, 122 Stat. 997; Pub. L. 110–246, §4(a), title I, §1507(a), (d)–(f), June 18, 2008, 122 Stat. 1664, 1725; Pub. L. 113–79, title I, §1426, Feb. 7, 2014, 128 Stat. 695; Pub. L. 115–334, title I, §1402(c), Dec. 20, 2018, 132 Stat. 4518.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -156,7 +158,9 @@ Subsec. (k). Pub. L. 107–171, §1505(e), substituted "importer of imported dai
 
 <b>1996</b>—Subsec. (e). Pub. L. 104–127 inserted at end "For each of fiscal years 1997 through 2001, the Board's budget may provide for the expenditure of revenues available to the Board to develop international markets for, and to promote within such markets, the consumption of dairy products produced in the United States from milk produced in the United States."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 

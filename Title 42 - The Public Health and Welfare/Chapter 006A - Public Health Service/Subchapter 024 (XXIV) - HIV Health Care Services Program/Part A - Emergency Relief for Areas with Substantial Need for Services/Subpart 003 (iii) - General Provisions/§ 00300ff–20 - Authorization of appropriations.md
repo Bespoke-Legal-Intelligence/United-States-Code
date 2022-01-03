@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For the purpose of carrying out this part, there are authorized to be appropriated $604,000,000 for fiscal year 2007, $626,300,000 for fiscal year 2008, $649,500,000 for fiscal year 2009, $681,975,000 for fiscal year 2010, $716,074,000 for fiscal year 2011, $751,877,000 for fiscal year 2012, and $789,471,000 for fiscal year 2013. Amounts appropriated under the preceding sentence for a fiscal year are available for obligation by the Secretary until the end of the second succeeding fiscal year.
+For the purpose of carrying out this part, there are authorized to be appropriated$604,000,000 for fiscal year 2007, $626,300,000 for fiscal year 2008, $649,500,000 for fiscal year 2009, $681,975,000 for fiscal year 2010, $716,074,000 for fiscal year 2011, $751,877,000 for fiscal year 2012, and $789,471,000 for fiscal year 2013. Amounts appropriated under the preceding sentence for a fiscal year are available for obligation by the Secretary until the end of the second succeeding fiscal year.
 
 #### (b) Reservation of amounts
 
@@ -32,7 +32,7 @@ Notwithstanding subsection (b):
 
 &emsp;&emsp;(ii)(I) if the metropolitan area qualifies for such first subsequent fiscal year as a transitional area under 300ff–19 <sup>1</sup> of this title, the amount reserved under paragraph (1)(B) or (2)(B) of subsection (b) for such fiscal year is deemed to be increased by an amount equal to the amount of the reduction under subparagraph (A) for such year; or
 
-&emsp;&emsp;(II) if the metropolitan area does not qualify for such first subsequent fiscal year as atransitional area under 300ff–19 <sup>1</sup> of this title, an amount equal to the amount of such reduction is, notwithstanding subsection (a), transferred and made available for grants pursuant to section 300ff–28(a)(1) of this title, in addition to amounts available for such grants under section 300ff–31b of this title; and
+&emsp;&emsp;(II) if the metropolitan area does not qualify for such first subsequent fiscal year as a transitional area under 300ff–19 <sup>1</sup> of this title, an amount equal to the amount of such reduction is, notwithstanding subsection (a), transferred and made available for grants pursuant to section 300ff–28(a)(1) of this title, in addition to amounts available for such grants under section 300ff–31b of this title; and
 
 &emsp;&emsp;(B) if a transfer under subparagraph (A)(ii)(II) is made with respect to the metropolitan area for such first subsequent fiscal year, then—
 
@@ -64,7 +64,7 @@ Notwithstanding subsection (b):
 
 &emsp;(3) If a metropolitan area is a transitional area under section 300ff–19 of this title for a fiscal year, but for a subsequent fiscal year qualifies as an eligible area under subpart I—
 
-&emsp;&emsp;(A) the amount reserved under subsection (b)(2)(B) of this section for the first such subsequent fiscal year of becoming an eligible area is deemed to be reduced by an amount equal to the amount of the grant that, pursuant to section 300ff–13(a) of this title, was made under section 300ff–19(d)(2)(A) of this title for the metropolitan area for the preceding fiscal year; and
+&emsp;&emsp;(A) the amount reserved under subsection (b)(2)(B) of this section for the first suchsubsequent fiscal year of becoming an eligible area is deemed to be reduced by an amount equal to the amount of the grant that, pursuant to section 300ff–13(a) of this title, was made under section 300ff–19(d)(2)(A) of this title for the metropolitan area for the preceding fiscal year; and
 
 &emsp;&emsp;(B) the amount reserved under subsection (b)(2)(A) for such fiscal year is deemed to be increased by an amount equal to the amount of the reduction under subparagraph (A) for such year.
 
@@ -82,7 +82,9 @@ With respect to paragraphs (1)(B)(i) and (2)(A)(ii) of subsection (c), the Secre
 
 Paragraphs (1) and (2) of subsection (c) apply with respect to each series of fiscal years during which a metropolitan area is an eligible area under subpart I or a transitional area under section 300ff–19 of this title for a fiscal year and then for a subsequent fiscal year ceases to be such an area by reason of section 300ff–11(b) or 300ff–19(c)(2) of this title, respectively, rather than applying to a single such series. Paragraph (3) of subsection (c) applies with respect to each series of fiscal years during which a metropolitan area is a transitional area under section 300ff–19 of this title for a fiscal year and then for a subsequent fiscal year becomes an eligible area under subpart I, rather than applying to a single such series.
 
-(July 1, 1944, ch. 373, title XXVI, §2610, as added and amended Pub. L. 109–415, title I, §108, title VII, §703, Dec. 19, 2006, 120 Stat. 2783, 2820; Pub.L. 111–87, §§2(a)(1), (3)(A), (b), 4(b), Oct. 30, 2009, 123 Stat. 2885, 2889.)
+(July 1, 1944, ch. 373, title XXVI, §2610, as added and amended Pub. L. 109–415, title I, §108, title VII, §703, Dec. 19, 2006, 120 Stat. 2783, 2820; Pub. L. 111–87, §§2(a)(1), (3)(A), (b), 4(b), Oct. 30, 2009, 123 Stat. 2885, 2889.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -93,6 +95,8 @@ Subsec. (a). Pub. L. 111–87, §2(b), substituted "$649,500,000 for fiscal year
 Subsec. (c)(2)(B). Pub. L. 111–87, §4(b), designated existing provisions as cl. (i), inserted "subject to clause (ii)," before "an amount equal to the amount", and added cl. (ii).
 
 <b>2006</b>—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment; Revival of Section
 

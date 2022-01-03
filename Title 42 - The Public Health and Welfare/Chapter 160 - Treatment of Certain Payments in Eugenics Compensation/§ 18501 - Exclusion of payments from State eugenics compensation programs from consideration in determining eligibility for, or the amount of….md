@@ -12,7 +12,7 @@ For purposes of this section:
 
 &emsp;The term "Federal public benefit" means—
 
-&emsp;&emsp;(A) any grant, contract, loan, professional license, or commercial license provided by an agency of the United States or by appropriated funds of the United States; and
+&emsp;&emsp;(A) any grant, contract, loan, professional license, or commercial license provided byan agency of the United States or by appropriated funds of the United States; and
 
 &emsp;&emsp;(B) any retirement, welfare, health, disability, public or assisted housing, postsecondary education, food assistance, unemployment benefit, or any other similar benefit for which payments or assistance are provided to an individual, household, or family eligibility unit by an agency of the United States or by appropriated funds of the United States.
 
@@ -21,6 +21,8 @@ For purposes of this section:
 &emsp;The term "State eugenics compensation program" means a program established by State law that is intended to compensate individuals who were sterilized under the authority of the State.
 
 (Pub. L. 114–241, §2, Oct. 7, 2016, 130 Stat. 976.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

@@ -18,11 +18,13 @@ In promulgating regulations under this section, the Secretary shall use the auth
 
 (Pub. L. 99–198, title XII, §1246, as added Pub. L. 113–79, title II, §2608, Feb. 7, 2014, 128 Stat. 761.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a) and (b), was in the original "this title", meaning title XII of Pub. L. 99–198, which enacted this chapter and former section 2005a of this title and amended sections 590g, 2004, 2005, 2006, and 2009 of this title, sections 4207 and 4209 of Title 7, Agriculture, and provisions set out as a note under section 1981 of Title 7.
 
 #### Prior Provisions
 
-A prior section 3846, Pub. L. 99–198, title XII, §1246, as added Pub. L. 101–624, title XIV, §1444, Nov. 28, 1990, 104 Stat. 3602, directed Secretary to report to Congress on erodible land and wetland conservation program, prior to repeal by Pub. L. 104–66, title I, §1011(a), Dec. 21, 1995, 109 Stat. 709.
+A prior section 3846, Pub. L. 99–198, title XII, §1246, as added Pub. L. 101–624, title XIV, §1444, Nov. 28, 1990, 104Stat. 3602, directed Secretary to report to Congress on erodible land and wetland conservation program, prior to repeal by Pub. L. 104–66, title I, §1011(a), Dec. 21, 1995, 109 Stat. 709.
 

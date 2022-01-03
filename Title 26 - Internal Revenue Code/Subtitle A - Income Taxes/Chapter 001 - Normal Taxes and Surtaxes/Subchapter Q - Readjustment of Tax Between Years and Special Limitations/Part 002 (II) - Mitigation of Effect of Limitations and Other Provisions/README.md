@@ -6,9 +6,11 @@
 | [1312\.](%C2%A7%2001312%20-%20Circumstances%20of%20adjustment.md) | Circumstances of adjustment. |
 | [1313\.](%C2%A7%2001313%20-%20Definitions.md) | Definitions. |
 | [1314\.](%C2%A7%2001314%20-%20Amount%20and%20method%20of%20adjustment.md) | Amount and method of adjustment. |
-| \[1315. | Repealed.\] |
+| \[1315. | Repealed.\]<br> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

@@ -108,7 +108,7 @@ Housing Stipend.—The Secretary shall pay to each eligible veteran (not includi
 
 &emsp;&emsp;"(A) 1.0; or
 
-&emsp;&emsp;"(B) the number of course hours borne by the individual in pursuit of the program of education involved, divided by the minimum number of course hours required for full-time pursuit of such program of education, rounded to the nearest multiple of 10.
+&emsp;&emsp;"(B) the number of course hours borne by the individual in pursuit of the program of education involved, divided by the minimum number of coursehours required for full-time pursuit of such program of education, rounded to the nearest multiple of 10.
 
 "(e)
 

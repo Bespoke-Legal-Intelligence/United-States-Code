@@ -24,9 +24,13 @@ The words "for establishing" are omitted as executed and unnecessary.
 
 The last sentence of §4 of the Act of December 28, 1945, ch. 604, 59 Stat. 667, was a repealing clause and savings provision. It is omitted from this section.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 6029 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

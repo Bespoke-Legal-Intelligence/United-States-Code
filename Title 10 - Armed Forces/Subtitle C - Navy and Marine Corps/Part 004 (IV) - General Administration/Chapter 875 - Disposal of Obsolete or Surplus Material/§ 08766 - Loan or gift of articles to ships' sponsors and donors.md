@@ -24,11 +24,15 @@ Aug. 7, 1946, ch. 804, §3 (less applicability to §2), 60 Stat. 898.
 
 The words "the sponsor" are substituted for the words "any individual who sponsored" for brevity. The word "ship" and the word "person" are omitted as surplusage. The words "the loans or gifts described in this section shall be made" are omitted as unnecessary, and the words "under regulations prescribed by him" are substituted for the words "subject to such rules and regulations as may be prescribed by the Secretary of the Navy" for brevity.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232, §807(d)(8), renumbered section 7546 of this title as this section.
 
 Par. (2). Pub. L. 115–232, §809(a), substituted "section 8765" for "section 7545".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

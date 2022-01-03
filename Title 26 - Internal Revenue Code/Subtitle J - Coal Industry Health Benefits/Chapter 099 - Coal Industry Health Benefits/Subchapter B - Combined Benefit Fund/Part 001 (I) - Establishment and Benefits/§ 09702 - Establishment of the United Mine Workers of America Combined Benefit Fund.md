@@ -8,7 +8,7 @@
 
 #### (2) Merger of retiree benefit plans
 
-&emsp;As of February 1, 1993, the settlors of the 1950 UMWA Benefit Plan and the 1974 UMWA Benefit Plan shall cause such plans to be merged into the Combined Fund, and such merger shall not be treated as an employer withdrawal for purposes of any 1988 coal wage agreement.
+&emsp;As of February 1, 1993, the settlors of the 1950 UMWA Benefit Plan and the 1974 UMWA Benefit Plan shall cause such plans to bemerged into the Combined Fund, and such merger shall not be treated as an employer withdrawal for purposes of any 1988 coal wage agreement.
 
 #### (3) Treatment of plan
 
@@ -49,6 +49,8 @@
 The first plan year of the Combined Fund shall begin February 1, 1993, and end September 30, 1993. Each succeeding plan year shall begin on October 1 of each calendar year.
 
 (Added Pub. L. 102–486, title XIX, §19143(a), Oct. 24, 1992, 106 Stat. 3040; amended Pub. L. 109–432, div. C, title II, §213(a), Dec. 20, 2006, 120 Stat. 3027.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

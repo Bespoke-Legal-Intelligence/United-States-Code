@@ -6,7 +6,7 @@
 
 (c) This section does not change any term of service under an appointment, enlistment, or agreement, including an agreement made before or at the time when the member entered upon a program authorized by an armed force.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 25, §595; Pub. L. 96–513, title V, §511(17), Dec. 12, 1980, 94 Stat. 2921; renumbered §12208, Pub. L. 103–337, div. A, title XVI, §1662(c)(2), Oct. 5, 1994, 108 Stat. 2990; Pub. L. 114–328, div. A, title X, §1081(b)(1)(A)(ix), Dec. 23, 2016, 130 Stat. 2418.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 25, §595; Pub. L. 96–513, title V, §511(17), Dec. 12, 1980, 94 Stat.2921; renumbered §12208, Pub. L. 103–337, div. A, title XVI, §1662(c)(2), Oct. 5, 1994, 108 Stat. 2990; Pub. L. 114–328, div. A, title X, §1081(b)(1)(A)(ix), Dec. 23, 2016, 130 Stat. 2418.)
 
 Historical and Revision Notes
 
@@ -40,6 +40,8 @@ In subsection (b), the word "rest" is substituted for the words "remaining perio
 
 In subsection (c), the words "This section does not" are substituted for the words "Nothing in this section shall be construed". The word "change" is substituted for the words "reduce, limit, or modify". The words "which any person may undertake to perform" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Military Selective Service Act, referred to in subsec. (a), is title I of act June 24, 1948, ch. 625, 62 Stat. 604, which is classified principally to chapter 49 (§3801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see References in Text note set out under section 3801 of Title 50 and Tables.
@@ -51,6 +53,8 @@ The Military Selective Service Act, referred to in subsec. (a), is title I of ac
 <b>1994</b>—Pub. L. 103–337 renumbered section 595 of this title as this section.
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted "the Military Selective Service Act (50 U.S.C. App. 451 et seq.)" for "sections 451–473 of title 50, appendix" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

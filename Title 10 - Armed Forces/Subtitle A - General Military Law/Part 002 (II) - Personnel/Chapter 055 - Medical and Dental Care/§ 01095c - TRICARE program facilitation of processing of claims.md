@@ -42,6 +42,8 @@ Correspondence to Medicare Claims Information Requirements.—The Secretary of D
 
 (Added Pub. L. 106–65, div. A, title VII, §713(a)(1), Oct. 5, 1999, 113 Stat. 688; amended Pub. L. 107–107, div. A, title VII, §708(b), Dec. 28, 2001, 115 Stat. 1164; Pub. L. 107–314, div. A, title VII, §711(a), Dec. 2, 2002, 116 Stat. 2588.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
@@ -50,9 +52,11 @@ The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 5
 
 <b>2002</b>—Subsec. (d). Pub. L. 107–314 added subsec. (d).
 
-<b>2001</b>—Subsec. (b)(1). Pub. L. 107–107, §708(b)(1), substituted "Except as provided in paragraph (3), the Secretary" for "The Secretary" and struck out "contract.In such case the contractor may begin to provide managed care support pursuant to the contract as soon as practicable after the award of the" before "contract, but in no case".
+<b>2001</b>—Subsec. (b)(1). Pub. L. 107–107, §708(b)(1), substituted "Except as provided in paragraph (3), the Secretary" for "The Secretary" and struck out "contract. In such case the contractor may begin to provide managed care support pursuant to the contract as soon as practicable after the award of the" before "contract, but in no case".
 
 Subsec. (b)(3). Pub. L. 107–107, §708(b)(2), added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -4,7 +4,7 @@
 
 #### (1) Requirement
 
-&emsp;Not later than September 30 of each year, the Secretary of Agriculture shall submit tothe Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, a report on conferences sponsored or held by the Department of Agriculture or attended by employees of the Department of Agriculture.
+&emsp;Not later than September 30 of each year, the Secretary of Agriculture shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, a report on conferences sponsored or held by the Department of Agriculture or attended by employees of the Department of Agriculture.
 
 #### (2) Contents
 
@@ -52,6 +52,8 @@ In this section, the term "conference"—
 
 (Pub. L. 110–234, title XIV, §14208, May 22, 2008, 122 Stat. 1462; Pub. L. 110–246, §4(a), title XIV, §14208, June 18, 2008, 122 Stat. 1664, 2224; Pub. L. 115–334, title XII, §12611, Dec. 20, 2018, 132 Stat. 5013.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
@@ -59,6 +61,8 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 #### Amendments
 
 <b>2018</b>—Subsec. (a)(3)(A). Pub. L. 115–334, which directed amendment of section 14209(a)(3)(A) of the Food, Conservation, and Energy Act of 2008 by substituting "$50,000" for "$10,000", was executed by making the substitution in subsec. (a)(3)(A) of this section, which is section 14208 of the Food, Conservation, and Energy Act of 2008, to reflect the probable intent of Congress.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

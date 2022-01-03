@@ -18,7 +18,7 @@ It is the sense of the Congress that—
 
 #### (b) Responding to the COVID–19 outbreak
 
-During the transitional period, and notwithstanding any other provision of law, the Secretary of the Treasury may instruct the United States Executive Director at each internationalfinancial institution to use the voice and vote of the United States to support loans or other utilization of the funds of the respective institution for Sudan for the purpose of addressing basic human needs, responding to the COVID–19 outbreak and its impact on the country's economic stability, or promoting democracy, governance, or public financial management in Sudan.
+During the transitional period, and notwithstanding any other provision of law, the Secretary of the Treasury may instruct the United States Executive Director at each international financial institution to use the voice and vote of the United States to support loans or other utilization of the funds of the respective institution for Sudan for the purpose of addressing basic human needs, responding to the COVID–19 outbreak and its impact on the country's economic stability, or promoting democracy, governance, or public financial management in Sudan.
 
 #### (c) Debt relief
 
@@ -26,7 +26,7 @@ Upon the removal of Sudan from the State Sponsors of Terrorism List, and once th
 
 #### (d) Reporting requirement
 
-Not later than 3 months after January 1, 2021, and not less frequently than once every 6 months thereafter during the transitional period, the Secretary of the Treasury, in consultation with the Secretary of State, shall report to the appropriate congressional committees regarding the extent to which the transitional government of Sudan has taken demonstrable steps to strengthen governance and improve fiscal transparency, including—
+Not later than 3 months after January 1, 2021, and not less frequently than once every 6 months thereafter during the transitional period, the Secretary of the Treasury, in consultation with the Secretary of State, shall report to the appropriate congressional committees regarding the extent to which the transitional government of Sudan has taken demonstrablesteps to strengthen governance and improve fiscal transparency, including—
 
 &emsp;(1) establishing civilian control over the finances and assets of the Sudanese security and intelligence services;
 

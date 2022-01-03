@@ -20,6 +20,8 @@ In this Act:
 
 (Pub. L. 106–25, §3, Apr. 29, 1999, 113 Stat. 42; Pub. L. 107–110, title X, §1076(o), Jan. 8, 2002, 115 Stat. 2092; Pub. L. 114–95, title IX, §9207(a), Dec. 10, 2015, 129 Stat. 2141.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in text, is Pub. L. 106–25, Apr. 29, 1999, 113 Stat. 41, known as the Education Flexibility Partnership Act of 1999, which enacted sections 5891a and 5891b of this title, amended section 1415 of this title, and enacted provisions set out as notes under sections 1415 and 5891a of this title. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 5801 of this title and Tables.
@@ -34,9 +36,11 @@ Section was enacted as part of the Education Flexibility Partnership Act of 1999
 
 <b>2002</b>—Par. (1). Pub. L. 107–110 substituted "7801" for "8801".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
-Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub.L. 114–95, set out as a note under section 6301 of this title.
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
 
 #### Effective Date of 2002 Amendment
 

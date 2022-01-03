@@ -10,7 +10,7 @@ There is established for and within the Northern Mariana Islands a court of reco
 
 (2) The Chief Judge of the Ninth Judicial Circuit of the United States may assign justices of the High Court of the Trust Territory of the Pacific Islands or judges of courts of record of the Northern Mariana Islands who are licensed attorneys in good standing or a circuit or district judge of the ninth circuit, including a judge of the District Court of Guam who is appointed by the President or a recalled senior judge of the District Court of Guam or of the District Court of the Northern Mariana Islands, or the Chief Justice of the United States may assign any other United States circuit or district judge with the consent of the judge so assigned and of the chief judge of his circuit to serve temporarily as a judge in the District Court for the Northern Mariana Islands whenever such an assignment is necessary for the proper dispatch of the business of the court. Such judges shall have all the powers of a judge of the District Court for the Northern Mariana Islands, including the power to appoint any person to a statutory position, or to designate a depository of funds or a newspaper for publication of legal notices.
 
-(3) The President shall appoint, by and with the advice and consent of the Senate, a United States attorney and United States marshal for the Northern Mariana Islands to whose offices the provisions of chapters 35 and 37 of title 28, respectively, shall apply.
+(3) The President shall appoint, by and with the advice and consent of the Senate, a UnitedStates attorney and United States marshal for the Northern Mariana Islands to whose offices the provisions of chapters 35 and 37 of title 28, respectively, shall apply.
 
 (4) If the President appoints a judge for the District Court for the Northern Mariana Islands or a United States attorney or a United States marshal for the Northern Mariana Islands who at that time is serving in the same capacity in another district, the appointment shall, without prejudice to a subsequent appointment, be for the unexpired term of such judge or officer.
 
@@ -19,6 +19,8 @@ There is established for and within the Northern Mariana Islands a court of reco
 Where appropriate, and except as otherwise provided in articles IV and V of the Covenant approved by the Act of March 24, 1976 (90 Stat. 263), the provisions of part II of title 18 and of titles <sup>1</sup> 28, the rules of practice and procedure heretofore or hereafter promulgated and made effective by the Congress or the Supreme Court of the United States pursuant to titles 11, 18, and 28 shall apply to the District Court for the Northern Mariana Islands and appeals therefrom; except that the terms "Attorney for the government" and "United States attorney", as used in the Federal Rules of Criminal Procedure, shall, when applicable to cases arising under the laws of the Northern Mariana Islands, include the Attorney General of the Northern Mariana Islands or such other person or persons as may be authorized by the laws of the Northern Mariana Islands to act therein.
 
 (Pub. L. 95–157, §1, Nov. 8, 1977, 91 Stat. 1265; Pub. L. 98–454, title IX, §901, Oct. 5, 1984, 98 Stat. 1744.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -40,6 +42,8 @@ Subsec. (b)(2). Pub. L. 98–454, §901(b), inserted "or a recalled senior judge
 
 Subsec. (c). Pub. L. 98–454, §901(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "The provisions of chapters 43 and 49 of title 28, and the rules heretofore or hereafter promulgated and made effective by the Congress or the Supreme Court of the United States pursuant to titles 11, 18, and 28 shall apply to the District Court for the Northern Mariana Islands and appeals therefrom where appropriate, except as otherwise provided in articles IV and V of the covenant provided by the Act of March 24, 1976 (90 Stat. 263). The terms 'attorney for the government' and 'United States attorney' as used in the Federal Rules of Criminal Procedure (rule 54(c)) shall, when applicable to cases arising under the laws of the Northern Mariana Islands, include the attorney general of the Northern Mariana Islands or any other person or persons as may be authorized by the laws of the Northern Marianas to act therein."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–454 effective on ninetieth day following Oct. 5, 1984, see section 1005 of Pub. L. 98–454, set out as a note under section 1424 of this title.
@@ -48,13 +52,15 @@ Amendment by Pub. L. 98–454 effective on ninetieth day following Oct. 5, 1984,
 
 For effective date of this section, see section 1825 of this title and Effective Date of Constitution note thereunder.
 
-#### Termination of Trust Territory of the Pacific Islands
-
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of this title.
-
 #### Extension of Term of District Judges
 
 Extension of term of district court judges to ten years applicable to judges holding office on Oct. 5, 1984, see section 1004 of Pub. L. 98–454, set out as a note under section 1424b of this title.
+
+#### <b>Executive Documents</b>
+
+#### Termination of Trust Territory of the Pacific Islands
+
+For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

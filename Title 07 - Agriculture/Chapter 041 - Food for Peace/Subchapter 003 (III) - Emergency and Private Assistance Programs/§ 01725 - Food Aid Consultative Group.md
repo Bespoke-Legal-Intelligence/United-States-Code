@@ -32,7 +32,7 @@ The Administrator shall be the chairperson of the Group.
 
 #### (1) Consultation in advance of issuance of implementation regulations, handbooks, and guidelines
 
-&emsp;Not later than 30 days before a proposed regulation, handbook, or guideline implementingthis subchapter, or a proposed significant revision to a regulation, handbook, or guideline implementing this subchapter, becomes final, the Administrator shall provide the proposal to the Group for review and comment. The Administrator shall consult and, when appropriate (but at least twice per year), meet with the Group regarding such proposed regulations, handbooks, guidelines, or revisions thereto prior to the issuance of such.
+&emsp;Not later than 30 days before a proposed regulation, handbook, or guideline implementing this subchapter, or a proposed significant revision to a regulation, handbook, or guideline implementing this subchapter, becomes final, the Administrator shall provide the proposal to the Group for review and comment. The Administrator shall consult and, when appropriate (but at least twice per year), meet with the Group regarding such proposed regulations, handbooks, guidelines, or revisions thereto prior to the issuance of such.
 
 #### (2) Consultation regarding food aid quality efforts
 
@@ -47,6 +47,8 @@ The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Group.
 The Group shall terminate on December 31, 2023.
 
 (July 10, 1954, ch. 469, title II, §205, as added Pub. L. 89–808, §2(C), Nov. 11, 1966, 80 Stat. 1535; amended Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3639; Pub. L. 104–127, title II, §210, Apr. 4, 1996, 110 Stat. 955; Pub. L. 107–171, title III, §3005, May 13, 2002, 116 Stat. 282; Pub. L. 110–246, title III, §3011, June 18, 2008, 122 Stat. 1824; Pub. L. 113–79, title III, §3005, Feb. 7, 2014, 128 Stat. 774; Pub. L. 115–334, title III, §3105, title XII, §12405(c), Dec. 20, 2018, 132 Stat. 4604, 4975.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -83,6 +85,8 @@ Subsec. (d). Pub. L. 104–127, §210(3), inserted "(but at least twice per year
 Subsec. (f). Pub. L. 104–127, §210(4), substituted "2002" for "1995".
 
 <b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions declaring sense of Congress that President should encourage advanced nations to increase contributions for combating hunger, particularly through expansion of international food and agricultural assistance programs, and that United States should work for expansion of United Nations World food program.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

@@ -86,9 +86,13 @@ For purposes of this section—
 
 (Added Pub. L. 101–508, title XI, §11602(a), Nov. 5, 1990, 104 Stat. 1388–498; amended Pub. L. 104–188, title I, §1702(f)(3)(C), Aug. 20, 1996, 110 Stat. 1871.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (c)(3). Pub. L. 104–188 substituted "section 2701(e)(3)" for "section 2701(e)(3)(A)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

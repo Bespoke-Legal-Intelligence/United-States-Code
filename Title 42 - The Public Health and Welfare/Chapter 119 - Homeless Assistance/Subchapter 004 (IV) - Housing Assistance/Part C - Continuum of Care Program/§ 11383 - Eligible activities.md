@@ -82,13 +82,15 @@ The Secretary may allow reasonable costs associated with staff training to be in
 
 #### (f) Eligibility for permanent housing
 
-Any project that receives assistance under subsection (a) and that provides project-based orsponsor-based permanent housing for homeless individuals or families with a disability, including projects that meet the requirements of subsection (a) and subsection (d)(2)(A) of section 11386b of this title may also serve individuals who had previously met the requirements for such project prior to moving into a different permanent housing project.
+Any project that receives assistance under subsection (a) and that provides project-based or sponsor-based permanent housing for homeless individuals or families with a disability, including projects that meet the requirements of subsection (a) and subsection (d)(2)(A) of section 11386b of this title may also serve individuals who had previously met the requirements for such project prior to moving into a different permanent housing project.
 
 #### (g) Administration of rental assistance
 
 Provision of permanent housing rental assistance shall be administered by a State, unit of general local government, private nonprofit organization, or public housing agency.
 
 (Pub. L. 100–77, title IV, §423, as added Pub. L. 111–22, div. B, title III, §1302, May 20, 2009, 123 Stat. 1684; amended Pub. L. 114–94, div. G, title LXXIX, §79001, Dec. 4, 2015, 129 Stat. 1792.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -103,6 +105,8 @@ Another prior section 11383, Pub. L. 100–77, title IV, §423, July 22, 1987, 1
 #### Amendments
 
 <b>2015</b>—Subsec. (g). Pub. L. 114–94 inserted "private nonprofit organization," after "unit of general local government,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

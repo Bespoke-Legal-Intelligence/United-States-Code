@@ -238,11 +238,13 @@ For purposes of this section, the term "customized training" means training that
 
 &emsp;Notwithstanding paragraph (1), a worker participating in part-time training approved under subsection (a) may not receive a trade readjustment allowance under section 2291 of this title.
 
-(Pub. L. 93–618, title II, §236, Jan. 3, 1975, 88 Stat. 2023; Pub. L. 97–35, title XXV, §2506(2), Aug. 13,1981, 95 Stat. 885; Pub. L. 99–272, title XIII, §13004(a), Apr. 7, 1986, 100 Stat. 301; Pub. L. 100–418, title I, §1424(a)–(c), Aug. 23, 1988, 102 Stat. 1248, 1249; Pub. L. 100–647, title IX, §9001(a)(20), Nov. 10, 1988, 102 Stat. 3808; Pub. L. 103–66, title XIII, §13803(b), Aug. 10, 1993, 107 Stat. 668; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(14)(A), (f)(11)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431; Pub. L. 107–210, div. A, title I, §§117, 118, Aug. 6, 2002, 116 Stat. 941; Pub. L. 109–270, §2(b)(2), Aug. 12, 2006, 120 Stat. 746; Pub. L. 111–5, div. B, title I, §§1828(a)–(c), 1829(a), (c), 1830(a)(1), (b), 1831, 1832, Feb. 17, 2009, 123 Stat. 381–386; Pub. L. 111–344, title I, §101(c)(1), Dec. 29, 2010, 124 Stat. 3613; Pub. L. 112–40, title II, §§201(b), (c), 214(a), (f), Oct. 21, 2011, 125 Stat. 403, 405, 406; Pub. L. 113–128, title V, §512(hh)(3), July 22, 2014, 128 Stat. 1720; Pub. L. 114–27, title IV, §§402(b), (c), 403(b), June 29, 2015, 129 Stat. 374.)
+(Pub. L. 93–618, title II, §236, Jan. 3, 1975, 88 Stat. 2023; Pub. L. 97–35, title XXV, §2506(2), Aug. 13, 1981, 95 Stat. 885; Pub. L. 99–272, title XIII, §13004(a), Apr. 7, 1986, 100 Stat. 301; Pub. L. 100–418, title I, §1424(a)–(c), Aug. 23, 1988, 102 Stat. 1248, 1249; Pub. L. 100–647, title IX, §9001(a)(20), Nov. 10, 1988, 102 Stat. 3808; Pub. L. 103–66, title XIII, §13803(b), Aug. 10, 1993, 107 Stat. 668; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(14)(A), (f)(11)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431; Pub. L. 107–210, div. A, title I, §§117, 118, Aug. 6, 2002, 116 Stat. 941; Pub. L. 109–270, §2(b)(2), Aug. 12, 2006, 120 Stat. 746; Pub. L. 111–5, div. B, title I, §§1828(a)–(c), 1829(a), (c), 1830(a)(1), (b), 1831, 1832, Feb. 17, 2009, 123 Stat. 381–386; Pub. L. 111–344, title I, §101(c)(1), Dec. 29, 2010, 124 Stat. 3613; Pub. L. 112–40, title II, §§201(b), (c), 214(a), (f), Oct. 21, 2011, 125 Stat. 403, 405, 406; Pub. L. 113–128, title V, §512(hh)(3), July 22, 2014, 128 Stat. 1720; Pub. L. 114–27, title IV, §§402(b), (c), 403(b), June 29, 2015, 129 Stat. 374.)
 
 #### Reversion to Provisions in Effect on January 1, 2014
 
 <i>For reversion, beginning on July 1, 2021, to provisions in effect on Jan. 1, 2014, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see Codification and Effective and Termination Dates of 2015 Revival notes below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -288,7 +290,7 @@ Subsec. (a)(2)(A). Pub. L. 112–40, §§214(a)(2), 233, temporarily substituted
 
 Subsec. (a)(2)(B)(i), (ii), (C)(i). Pub. L. 112–40, §§214(a)(1), 233, temporarily inserted "and sections 2295, 2297, and 2298 of this title" after "to carry out this section". See Codification note above and Effective and Termination Dates of 2011 Revival note below.
 
-Subsec. (a)(2)(C)(ii)(V). Pub. L. 112–40, §§214(a)(3), 233, temporarily substituted "to carry out this section andsections 2295, 2297, and 2298 of this title" for "relating to the provision of training under this section". See Codification note above and Effective and Termination Dates of 2011 Revival note below.
+Subsec. (a)(2)(C)(ii)(V). Pub. L. 112–40, §§214(a)(3), 233, temporarily substituted "to carry out this section and sections 2295, 2297, and 2298 of this title" for "relating to the provision of training under this section". See Codification note above and Effective and Termination Dates of 2011 Revival note below.
 
 Subsec. (a)(2)(E). Pub. L. 112–40, §§214(a)(4), 233, temporarily substituted "necessary to carry out this section and sections 2295, 2297, and 2298 of this title" for "necessary to pay the costs of training approved under this section". See Codification note above and Effective and Termination Dates of 2011 Revival note below.
 
@@ -304,7 +306,7 @@ In general.—Not later than 1 year after February 17, 2009, the Secretary shall
 
 "(2)
 
-Consultations.—The Secretary shall consult with the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives not less than 90 days before issuing any regulation pursuant to paragraph (1)."
+Consultations.—The Secretary shall consult with the Committee on Finance of the Senate and theCommittee on Ways and Means of the House of Representatives not less than 90 days before issuing any regulation pursuant to paragraph (1)."
 
 > See Codification note above and Effective and Termination Dates of 2011 Revival note below.
 
@@ -352,7 +354,7 @@ Subsec. (b)(2). Pub. L. 111–5, §§1829(c)(2), 1893, which directed the tempor
 
 Subsec. (c). Pub. L. 111–5, §§1831(a), 1893, temporarily inserted subsec. heading, added pars. (1) to (4), redesignated existing provisions as par. (5), and in par. (5), temporarily inserted par. heading, substituted "The Secretary may pay the costs of on-the-job training," for "The Secretary shall pay the costs of any on-the-job training of an adversely affected worker that is approved under subsection (a)(1) of this section in equal monthly installments, but the Secretary may pay such costs,", redesignated former pars. (1) to (10) as subpars. (A) to (J), respectively, in subpar. (I) substituted "subparagraphs (A), (B), (C), (D), (E), and (F)" for "paragraphs (1), (2), (3), (4), (5), and (6)", and in subpar. (J) substituted "subparagraph (H)" for "paragraph (8)". See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (d). Pub. L. 111–5, §§1832, 1893, temporarily amended subsec. (d) generally. Prior to amendment, text read as follows: "A worker may not be determined to be ineligible or disqualified for unemployment insurance or program benefits under this subpart because the individual is in training approved under subsection (a) of this section, because of leaving work which is not suitable employment to enter such training, or because of the application to any such week in training of provisions of State law or Federal unemployment insurance law relating to availability for work, active search for work, or refusal to accept work. The Secretary shall submit to the Congress a quarterly report regarding the amount of funds expended during the quarter concerned to provide training under subsection\(a) of this section and the anticipated demand for such funds for any remaining quarters in the fiscal year concerned." See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (d). Pub. L. 111–5, §§1832, 1893, temporarily amended subsec. (d) generally. Prior to amendment, text read as follows: "A worker may not be determined to be ineligible or disqualified for unemployment insurance or program benefits under this subpart because the individual is in training approved under subsection (a) of this section, because of leaving work which is not suitable employment to enter such training, or because of the application to any such week in training of provisions of State law or Federal unemployment insurance law relating to availability for work, active search for work, or refusal to accept work. The Secretary shall submit to the Congress a quarterly report regarding the amount of funds expended during the quarter concerned to provide training under subsection (a) of this section and the anticipated demand for such funds for any remaining quarters in the fiscal year concerned." See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
 Subsecs. (g), (h). Pub. L. 111–5, §§1828(c), 1830(b), 1893, temporarily added subsecs. (g) and (h). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
@@ -420,6 +422,8 @@ Subsecs. (e), (f). Pub. L. 99–272, §13004(a)(5), redesignated pars. (2) and (
 
 Subsec. (b). Pub. L. 97–35 substituted provisions limiting the maximum amount of travel expenses on the basis of amounts paid under Federal travel regulations for provisions establishing specific maximum amounts for subsistence and transportation expenses.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective and Termination Dates of 2015 Revival
 
 For revival and applicability, beginning on June 29, 2015, of the provisions of this section as in effect on Dec. 31, 2013, see section 402(b), (c) of Pub. L. 114–27, set out as a note preceding section 2271 of this title.
@@ -442,7 +446,7 @@ Amendment by Pub. L. 111–344 effective Jan. 1, 2011, see section 101(d) of Pub
 
 #### Effective and Termination Dates of 2009 Amendment
 
-Pub. L. 111–5, div. B, title I, §1828(d), Feb. 17, 2009, 123 Stat. 382, provided that: "This section \[amending thissection\] and the amendments made by this section shall take effect upon the expiration of the 90-day period beginning on the date of the enactment of this Act \[Feb. 17, 2009\], except that—
+Pub. L. 111–5, div. B, title I, §1828(d), Feb. 17, 2009, 123 Stat. 382, provided that: "This section \[amending this section\] and the amendments made by this section shall take effect upon the expiration of the 90-day period beginning on the date of the enactment of this Act \[Feb. 17, 2009\], except that—
 
 &emsp;"(1) subparagraph (A) of section 236(a)(2) of the Trade Act of 1974 \[19 U.S.C. 2296(a)(2)(A)\], as amended by subsection (a) of this section, shall take effect on the date of the enactment of this Act; and
 
@@ -454,7 +458,7 @@ Section 1893 of Pub. L. 111–5, formerly set out as a Termination Date of 2009 
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–210 applicable to petitions for certification filed under this part or part 3 of this subchapter on or after the date that is 90 days after Aug. 6, 2002, except as otherwise provided, see section 151 of Pub. L. 107–210, set out as a note preceding section 2271 of this title.
+Amendment by Pub. L. 107–210 applicable to petitions for certification filed under this part or part 3 of thissubchapter on or after the date that is 90 days after Aug. 6, 2002, except as otherwise provided, see section 151 of Pub. L. 107–210, set out as a note preceding section 2271 of this title.
 
 #### Effective Date of 1998 Amendment
 

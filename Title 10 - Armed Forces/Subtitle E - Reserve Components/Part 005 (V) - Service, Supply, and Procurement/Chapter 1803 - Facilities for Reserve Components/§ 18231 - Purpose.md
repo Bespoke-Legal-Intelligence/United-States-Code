@@ -30,6 +30,8 @@ In clause (1), the words "units of" are omitted as surplusage.
 
 In clause (4), the words "United States" are substituted for the words "Federal Government".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–337 renumbered section 2231 of this title as this section.

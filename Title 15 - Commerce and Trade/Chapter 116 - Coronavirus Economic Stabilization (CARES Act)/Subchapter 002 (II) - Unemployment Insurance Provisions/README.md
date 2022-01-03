@@ -18,3 +18,4 @@
 - [&sect; 09031 - Funding for the DOL Office of Inspector General for oversight of unemployment provisions](%C2%A7%2009031%20-%20Funding%20for%20the%20DOL%20Office%20of%20Inspector%20General%20for%20oversight%20of%20unemployment%20provisions.md)
 - [&sect; 09032 - Implementation](%C2%A7%2009032%20-%20Implementation.md)
 - [&sect; 09033 - Return to work reporting](%C2%A7%2009033%20-%20Return%20to%20work%20reporting.md)
+- [&sect; 09034 - Funding for fraud prevention, equitable access, and timely payment to eligible workers](%C2%A7%2009034%20-%20Funding%20for%20fraud%20prevention%2C%20equitable%20access%2C%20and%20timely%20payment%20to%20eligible%20workers.md)

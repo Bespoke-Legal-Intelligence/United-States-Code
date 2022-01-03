@@ -30,7 +30,7 @@ Section 533(a) of the Coast Guard Authorization Act of 2016, referred to in subs
 
 #### Amendments
 
-<b>2021</b>—Subsec. (a). Pub. L. 116–283, §8216(1), substituted "later of the date of the conveyance of the propertiesdirected under section 533(a) of the Coast Guard Authorization Act of 2016 (Public Law 114–120) or the date" for "date".
+<b>2021</b>—Subsec. (a). Pub. L. 116–283, §8216(1), substituted "later of the date of the conveyance of the properties directed under section 533(a) of the Coast Guard Authorization Act of 2016 (Public Law 114–120) or the date" for "date".
 
 Subsec. (c)(2). Pub. L. 116–283, §8216(2), added par. (2) and struck out former par. (2) which related to availability of proceeds.
 

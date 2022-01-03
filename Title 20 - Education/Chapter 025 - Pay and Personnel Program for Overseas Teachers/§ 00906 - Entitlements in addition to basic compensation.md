@@ -14,6 +14,8 @@ The cost-of-living allowances and additional compensation provided under subsect
 
 (Pub. L. 86–91, §8, July 17, 1959, 73 Stat. 216; Pub. L. 96–465, title II, §2206(d), Oct. 17, 1980, 94 Stat. 2162.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 In subsec. (a)(2), "section 5941 of title 5" substituted for "section 207 of the Independent Offices Appropriation Act, 1949 (5 U.S.C. 118h)" on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
@@ -24,9 +26,13 @@ Section was formerly classified to section 2356 of Title 5 prior to the general 
 
 <b>1980</b>—Subsec. (a)(1). Pub. L. 96–465 substituted reference to section 5924 of title 5 for reference to section 1131(2) of title 22.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of Title 22, Foreign Relations and Intercourse.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 
@@ -34,7 +40,7 @@ Functions vested in President by subsec. (a) of this section concerning authorit
 
 Functions of President under subsec. (a) of this section delegated to Director of Bureau of the Budget, now Director of Office of Management and Budget, see section 1(10) of Ex. Ord. No. 11230, June 28, 1965, 30 F.R. 8447, set out as a note under section 301 of Title 3, The President.
 
-Secretary of State empowered to prescribe regulations relating to quarters and quarters allowance, see section 4(a) of Ex. Ord. No. 10903, Jan. 11, 1961, 26 F.R. 217, set out as a note under section 5921 of Title 5, Government Organization and Employees.
+Secretary of State empowered to prescribe regulations relating to quarters and quarters allowance, see section 4(a) of Ex. Ord. No. 10903, Jan. 11, 1961, 26 F.R.217, set out as a note under section 5921 of Title 5, Government Organization and Employees.
 
 #### Regulations Applicable to Payment of Additional Compensation
 

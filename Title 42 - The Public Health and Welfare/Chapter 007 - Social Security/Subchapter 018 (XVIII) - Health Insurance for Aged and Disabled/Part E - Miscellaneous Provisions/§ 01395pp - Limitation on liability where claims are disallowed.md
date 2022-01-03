@@ -24,7 +24,7 @@ In any case arising under subsection (b) (but without regard to whether payments
 
 #### (e) Payment where beneficiary not at fault
 
-Where payment for inpatient hospital services or extended care services may not be made under part A of this subchapter on behalf of an individual entitled to benefits under such part solely because of an unintentional, inadvertent, or erroneous action with respect to the transfer of such individual from a hospital or skilled nursing facility that meets the requirements of section 1395x(e) or (j) of this title by such a provider of services acting in good faith in accordance with the advice of a utilization review committee, quality improvement organization, or fiscal intermediary, or on the basis of a clearly erroneous administrative decision by a provider of services, the Secretary shall take such action with respect to the payment of such benefits as he determines may be necessary to correct the effects of such unintentional, inadvertent, or erroneous action.
+Where payment for inpatient hospital services or extended care services may not be made under part A of this subchapter on behalf of an individual entitled to benefits under such part solely because of an unintentional, inadvertent, or erroneous action with respect to the transfer of such individual from a hospital or skilled nursing facility that meets the requirements of section 1395x(e) or (j) of this title by such a provider of services acting in good faith in accordance with the advice of a utilization review committee, quality improvement organization, orfiscal intermediary, or on the basis of a clearly erroneous administrative decision by a provider of services, the Secretary shall take such action with respect to the payment of such benefits as he determines may be necessary to correct the effects of such unintentional, inadvertent, or erroneous action.
 
 #### (f) Presumption with respect to coverage denial; rebuttal; requirements; "fiscal intermediary" defined
 
@@ -80,6 +80,8 @@ The provisions of this section shall apply with respect to a denial of a payment
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1879, as added Pub. L. 92–603, title II, §213(a), Oct. 30, 1972, 86 Stat. 1384; amended Pub. L. 96–499, title IX, §956(a), Dec. 5, 1980, 94 Stat. 2648; Pub. L. 97–248, title I, §§145, 148(e), Sept. 3, 1982, 96 Stat. 393, 394; Pub. L. 99–509, title IX, §§9305(g)(1), 9341(a)(3), Oct. 21, 1986, 100 Stat. 1991, 2038; Pub. L. 100–203, title IV, §4096(b), Dec. 22, 1987, 101 Stat. 1330–139; Pub. L. 101–239, title VI, §6214(a), (b), Dec. 19, 1989, 103 Stat. 2252; Pub. L. 103–432, title I, §133(b), Oct. 31, 1994, 108 Stat. 4421; Pub. L. 105–33, title IV, §4447, Aug. 5, 1997, 111 Stat. 424; Pub. L. 112–40, title II, §261(a)(3)(A), (B), Oct. 21, 2011, 125 Stat. 423; Pub. L. 113–185, §3(b), Oct. 6, 2014, 128 Stat. 1969.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Subsec. (i). Pub. L. 113–185 added subsec. (i).
@@ -113,6 +115,8 @@ Subsecs. (f), (g). Pub. L. 99–509, §9305(g)(1)(E), added subsecs. (f) and (g)
 Subsec. (e). Pub. L. 97–248, §148(e), substituted "quality control and peer review organization" for "professional standards review organization".
 
 <b>1980</b>—Subsec. (e). Pub. L. 96–499 added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 

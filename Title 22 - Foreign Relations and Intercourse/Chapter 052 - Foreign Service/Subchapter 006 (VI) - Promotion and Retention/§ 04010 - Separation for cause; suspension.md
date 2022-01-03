@@ -24,7 +24,7 @@ Any participant in the Foreign Service Retirement and Disability System who is s
 
 #### (c) Suspension
 
-(1) In order to promote the efficiency of the Service, the Secretary may suspend a member of the Service when—
+(1) In order to promote the efficiency of the Service, the Secretary may indefinitely suspend without duties a member of the Service when—
 
 &emsp;(A) the member's security clearance is suspended; or
 
@@ -48,21 +48,27 @@ Any participant in the Foreign Service Retirement and Disability System who is s
 
 &emsp;(B) the Board may not exercise the authority provided under section 4136(8) of this title.
 
-(5) In this subsection:
+(5) For each member of the Service suspended under paragraph (1)(A) whose security clearance remains suspended for more than one calendar year, not later than 30 days after the end of such calendar year, the Secretary of State shall report to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate in writing regarding the specific reasons relating to the duration of each such suspension.
 
-&emsp;(A) The term "reasonable time" means—
+(6) Any member of the Service suspended under paragraph (1)(B) may be suspended without pay only after a final written decision is provided to such member pursuant to paragraph (2).
 
-&emsp;&emsp;(i) with respect to a member of the Service assigned to duty in the United States, 15 days after receiving notice of the proposed suspension; and
+(7) In this subsection, the term "reasonable time" means—
 
-&emsp;&emsp;(ii) with respect to a member of the Service assigned to duty outside the United States, 30 days after receiving notice of the proposed suspension.
+&emsp;(A) with respect to a member of the Service assigned to duty in the United States, 15 days after receiving notice of the proposed suspension; and
 
-&emsp;(B) The terms "suspend" and "suspension" mean placing a member of the Foreign Service in a temporary status without duties.
+&emsp;(B) with respect to a member of the Service assigned to duty outside the United States, 30 days after receiving notice of the proposed suspension.
 
-(Pub. L. 96–465, title I, §610, Oct. 17, 1980, 94 Stat. 2098; Pub. L. 100–204, title I, §181(d), Dec. 22, 1987, 101 Stat. 1364; Pub. L. 101–167, title V, §586(b), Nov. 21, 1989, 103 Stat. 1252; Pub. L. 101–246, title I, §143, Feb. 16, 1990, 104 Stat. 36; Pub. L. 102–138, title I, §143(a), Oct. 28, 1991, 105 Stat. 668; Pub. L. 103–415, §1(h)(2), Oct. 25, 1994, 108 Stat. 4300; Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2313, Oct. 21, 1998, 112 Stat. 2681–827; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §328\], Nov. 29, 1999, 113 Stat. 1536, 1501A–438; Pub. L. 107–228, div. A, title III, §314(a), Sept. 30, 2002, 116 Stat. 1378; Pub. L. 114–323, title IV, §415(a), Dec. 16, 2016, 130 Stat. 1933.)
+(Pub. L. 96–465, title I, §610, Oct. 17, 1980, 94 Stat. 2098; Pub. L. 100–204, title I, §181(d), Dec. 22, 1987, 101 Stat. 1364; Pub. L. 101–167, title V, §586(b), Nov. 21, 1989, 103 Stat. 1252; Pub. L. 101–246, title I, §143, Feb. 16, 1990, 104 Stat. 36; Pub. L. 102–138, title I, §143(a), Oct. 28, 1991, 105 Stat. 668; Pub. L. 103–415, §1(h)(2), Oct. 25, 1994, 108 Stat. 4300; Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2313, Oct. 21, 1998, 112 Stat. 2681–827; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §328\], Nov. 29, 1999, 113 Stat. 1536, 1501A–438; Pub. L. 107–228, div. A, title III, §314(a), Sept. 30, 2002, 116 Stat. 1378; Pub. L. 114–323, title IV, §415(a), Dec. 16, 2016, 130 Stat. 1933; Pub. L. 117–81, div. E, title LIII, §5317, Dec. 27, 2021, 135 Stat. 2367.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (c)(1). Pub. L. 117–81, §5317(1), substituted "indefinitely suspend without duties" for "suspend" in introductory provisions.
+
+Subsec. (c)(5), (6). Pub. L. 117–81, §5317(3), added pars. (5) and (6). Former par. (5) redesignated (7).
+
+Subsec. (c)(7). Pub. L. 117–81, §5317(2), (4), redesignated par. (5) as (7), struck out subpar. (A) designation before "The term", substituted "this subsection, the term" for "this subsection: The term", redesignated cls. (i) and (ii) as subpars. (A) and (B), realigned margins, and struck out former subpar. (B) which read as follows: "The terms 'suspend' and 'suspension' mean placing a member of the Foreign Service in a temporary status without duties."
 
 <b>2016</b>—Pub. L. 114–323, §415(a)(1), substituted "Separation for cause; suspension" for "Separation for cause" in section catchline.
 
@@ -84,7 +90,7 @@ Subsec. (a)(4)(A). Pub. L. 102–138, §143(a)(2), substituted "suspension" for 
 
 Subsec. (a)(5). Pub. L. 102–138, §143(a)(3), substituted "the conviction requirements of subsection (a)(3) of this section have been fulfilled" for "there exists reasonable cause to believe a crime has been committed for which a sentence of imprisonment may be imposed".
 
-<b>1990</b>—Subsec. (a)(2). Pub. L. 101–246 inserted before period at end of first sentence "or, notwithstanding section 4136(8) of this title, unless the member has beenconvicted of a crime related to the cause for separation, subject to reinstatement with back pay (for any period during which separation for cause had not been established by such a hearing) if such conviction is reversed on appeal" and inserted sentence at end that section 4140 of this title apply to proceedings under this paragraph.
+<b>1990</b>—Subsec. (a)(2). Pub. L. 101–246 inserted before period at end of first sentence "or, notwithstanding section 4136(8) of this title, unless the member has been convicted of a crime related to the cause for separation, subject to reinstatement with back pay (for any period during which separation for cause had not been established by such a hearing) if such conviction is reversed on appeal" and inserted sentence at end that section 4140 of this title apply to proceedings under this paragraph.
 
 <b>1989</b>—Subsec. (a)(3) to (5). Pub. L. 101–167 added pars. (3) to (5).
 

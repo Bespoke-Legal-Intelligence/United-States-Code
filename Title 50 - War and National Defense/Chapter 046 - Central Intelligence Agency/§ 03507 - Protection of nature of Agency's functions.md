@@ -4,9 +4,11 @@ In the interests of the security of the foreign intelligence activities of the U
 
 (June 20, 1949, ch. 227, §6, formerly §7, 63 Stat. 211; renumbered §6, Pub. L. 85–507, §21(b)(2), July 7, 1958, 72 Stat. 337; amended Pub. L. 103–178, title V, §501(2), Dec. 3, 1993, 107 Stat. 2038; Pub. L. 105–272, title IV, §403(a)(2), Oct. 20, 1998, 112 Stat. 2404; Pub. L. 108–177, title III, §377(b)(2), Dec. 13, 2003, 117 Stat. 2630; Pub. L. 108–458, title I, §§1071(b)(1)(A), 1072(b), Dec. 17, 2004, 118 Stat. 3690, 3692; Pub. L. 111–259, title VIII, §806(a)(3), Oct. 7, 2010, 124 Stat. 2748.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-Act of August 28, 1935, referred to in text, which provided for the yearly publication of the Official Register of the United States, was repealed by Pub. L. 86–626, title I, §101, July 12, 1960, 74 Stat. 427.
+Act of August 28, 1935, referred to in text, which provided for the yearly publication of the Official Registerof the United States, was repealed by Pub. L. 86–626, title I, §101, July 12, 1960, 74 Stat. 427.
 
 Section 607 of the Act of June 30, 1945, as amended, referred to in text, was repealed by act Sept. 12, 1950, ch. 946, title III, §301(85), 64 Stat. 843.
 
@@ -31,6 +33,8 @@ Pub. L. 108–458, §1071(b)(1)(A), substituted "Director of National Intelligen
 <b>1998</b>—Pub. L. 105–272 substituted "403–3(c)(6)" for "403–3(c)(5)".
 
 <b>1993</b>—Pub. L. 103–178 substituted "section 403–3(c)(5) of this title" for "the proviso of section 403(d)(3) of this title" and "Office of Management and Budget" for "Bureau of the Budget".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

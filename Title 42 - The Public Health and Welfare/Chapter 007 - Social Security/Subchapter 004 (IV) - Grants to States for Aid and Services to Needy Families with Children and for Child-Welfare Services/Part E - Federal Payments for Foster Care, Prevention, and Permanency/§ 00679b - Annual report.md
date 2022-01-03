@@ -46,6 +46,8 @@ The Secretary shall consult with States and organizations with an interest in ch
 
 (Aug. 14, 1935, ch. 531, title IV, §479A, as added Pub. L. 105–89, title II, §203(a), Nov. 19, 1997, 111 Stat. 2126; amended Pub. L. 109–288, §7(c)(2), Sept. 28, 2006, 120 Stat. 1249; Pub. L. 112–34, title I, §106(d), Sept. 30, 2011, 125 Stat. 377; Pub. L. 113–183, title I, §115, Sept. 29, 2014, 128 Stat. 1930; Pub. L. 115–123, div. E, title VII, §50744, Feb. 9, 2018, 132 Stat. 260.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a)(7)(A). Pub. L. 115–123 added cls. (i) and (ii) and struck out former cls. (i) to (vi) which read as follows:
@@ -68,6 +70,8 @@ The Secretary shall consult with States and organizations with an interest in ch
 
 <b>2006</b>—Par. (6). Pub. L. 109–288 added par. (6).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–123 effective as if enacted on Jan. 1, 2018, subject to transition rule and State waiver provisions, see section 50746 of Pub. L. 115–123, set out as a note under section 622 of this title.
@@ -78,7 +82,7 @@ Amendment by Pub. L. 112–34 effective Oct. 1, 2011, and applicable to payments
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–288 effective Oct. 1, 2006, and applicable to payments under this part and part B of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 12(a), (b) of Pub. L. 109–288, set out as a note under section 621 of this title.
+Amendment by Pub. L. 109–288 effective Oct. 1, 2006, and applicable to payments under this part and part Bof this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 12(a), (b) of Pub. L. 109–288, set out as a note under section 621 of this title.
 
 #### Effective Date
 

@@ -18,7 +18,7 @@ The Institute is authorized to—
 
 #### (d) Authority of Director
 
-Upon his own initiative, or upon the request of the Secretary or the Secretary of Health and Human Services, the Director is authorized (1) to conduct such research and experimental programs as he determines are necessary for the development of criteria for new and improved occupational safety and health standards, and (2) after consideration of the results of such research and experimental programs make recommendations concerning new or improved occupational safety and health standards. Any occupational safety and health standard recommended pursuant to this section shall immediately be forwarded to the Secretary of Labor, and to the Secretary of Health and Human Services.
+Upon his own initiative, or upon the request of the Secretary or the Secretary of Health andHuman Services, the Director is authorized (1) to conduct such research and experimental programs as he determines are necessary for the development of criteria for new and improved occupational safety and health standards, and (2) after consideration of the results of such research and experimental programs make recommendations concerning new or improved occupational safety and health standards. Any occupational safety and health standard recommended pursuant to this section shall immediately be forwarded to the Secretary of Labor, and to the Secretary of Health and Human Services.
 
 #### (e) Additional authority of Director
 
@@ -66,7 +66,7 @@ The Director shall submit to the Secretary of Health and Human Services, to the 
 
 #### (2) Evaluation of programs
 
-&emsp;The Institute shall conduct periodic and comprehensive assessments of the efficacy of the worker and supervisor training programs developed and offered by those receiving grants under this section. The Director shall prepare reports on the results of these assessments addressed to the Administrator of the Environmental Protection Agency to include recommendations as may be appropriate forthe revision of these programs. The sum of $500,000 is authorized to be appropriated to the Institute for each of the fiscal years 1994 through 1997 to carry out this paragraph.
+&emsp;The Institute shall conduct periodic and comprehensive assessments of the efficacy of the worker and supervisor training programs developed and offered by those receiving grants under this section. The Director shall prepare reports on the results of these assessments addressed to the Administrator of the Environmental Protection Agency to include recommendations as may be appropriate for the revision of these programs. The sum of $500,000 is authorized to be appropriated to the Institute for each of the fiscal years 1994 through 1997 to carry out this paragraph.
 
 #### (h) Office of Mine Safety and Health
 

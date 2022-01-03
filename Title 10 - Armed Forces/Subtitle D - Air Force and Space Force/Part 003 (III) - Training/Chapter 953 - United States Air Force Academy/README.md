@@ -13,6 +13,7 @@
 | [9441\.](%C2%A7%2009441%20-%20Faculty%20and%20other%20officers%20leaves%20of%20absence.md) | Faculty and other officers: leaves of absence. |
 | [9441a.](%C2%A7%2009441a%20-%20Cadets%20appointment%20by%20the%20President.md) | Cadets: appointment by the President. |
 | [9442\.](%C2%A7%2009442%20-%20Cadets%20appointment%3B%20numbers%2C%20territorial%20distribution.md) | Cadets: appointment; numbers, territorial distribution. |
+| [9442a.](%C2%A7%2009442a%20-%20Cadets%20nomination%20in%20event%20of%20death%2C%20resignation%2C%20or%20expulsion%20from%20office%20of%20Member%20of%20Congress%20otherwise%20authorized%20to%20nominate.md) | Cadets: nomination in event of death, resignation, or expulsion from office of Member of Congress otherwise authorized to nominate. |
 | [9443\.](%C2%A7%2009443%20-%20Cadets%20appointment%3B%20to%20bring%20to%20full%20strength.md) | Cadets: appointment; to bring to full strength. |
 | [9446\.](%C2%A7%2009446%20-%20Cadets%20requirements%20for%20admission.md) | Cadets: requirements for admission. |
 | [9447\.](%C2%A7%2009447%20-%20Cadets%3B%20nominees%20effect%20of%20redistricting%20of%20States.md) | Cadets; nominees: effect of redistricting of States. |
@@ -33,11 +34,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior chapter 953, consisting of sections 9831 to 9842, related to accountability and responsibility, prior to renumbering as chapter 983 of this title.
 
 #### Amendments
+
+<b>2021</b>—Pub. L. 117–81, div. A, title V, §553(c)(2), Dec. 27, 2021, 135 Stat. 1738, added item 9442a.
 
 <b>2018</b>—Pub. L. 115–232, div. A, title VIII, §806(d)(2), (e)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 903 of this title as this chapter and items 9331 to 9336, 9338 to 9343, and 9346 to 9362 as 9431 to 9436, 9438 to 9443, and 9446 to 9462, respectively.
 
@@ -91,6 +96,7 @@ Pub. L. 108–375, div. A, title V, §544(c)(2), Oct. 28, 2004, 118 Stat. 1907, 
 - [&sect; 09441 - Faculty and other officers leaves of absence](%C2%A7%2009441%20-%20Faculty%20and%20other%20officers%20leaves%20of%20absence.md)
 - [&sect; 09441a - Cadets appointment by the President](%C2%A7%2009441a%20-%20Cadets%20appointment%20by%20the%20President.md)
 - [&sect; 09442 - Cadets appointment; numbers, territorial distribution](%C2%A7%2009442%20-%20Cadets%20appointment%3B%20numbers%2C%20territorial%20distribution.md)
+- [&sect; 09442a - Cadets nomination in event of death, resignation, or expulsion from office of Member of Congress otherwise authorized to nominate](%C2%A7%2009442a%20-%20Cadets%20nomination%20in%20event%20of%20death%2C%20resignation%2C%20or%20expulsion%20from%20office%20of%20Member%20of%20Congress%20otherwise%20authorized%20to%20nominate.md)
 - [&sect; 09443 - Cadets appointment; to bring to full strength](%C2%A7%2009443%20-%20Cadets%20appointment%3B%20to%20bring%20to%20full%20strength.md)
 - [&sect; 09446 - Cadets requirements for admission](%C2%A7%2009446%20-%20Cadets%20requirements%20for%20admission.md)
 - [&sect; 09447 - Cadets; nominees effect of redistricting of States](%C2%A7%2009447%20-%20Cadets%3B%20nominees%20effect%20of%20redistricting%20of%20States.md)

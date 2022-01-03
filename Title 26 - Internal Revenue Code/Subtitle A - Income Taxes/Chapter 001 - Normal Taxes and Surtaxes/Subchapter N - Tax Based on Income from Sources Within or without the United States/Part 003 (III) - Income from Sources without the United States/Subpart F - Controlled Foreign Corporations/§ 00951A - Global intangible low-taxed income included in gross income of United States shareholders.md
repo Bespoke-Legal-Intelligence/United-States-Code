@@ -34,7 +34,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) the aggregate of such shareholder's pro rata share of the tested income of each controlled foreign corporation with respect to which such shareholder is a United States shareholder for such taxable year of such United States shareholder (determined for each taxable year of such controlled foreign corporation which ends in or with such taxable year of such United States shareholder), over
 
-&emsp;&emsp;(B) the aggregate of such shareholder's pro rata share of the tested loss of each controlled foreign corporation with respect to which such shareholder is a United States shareholder for such taxable year of such United States shareholder (determined for each taxable year of such controlled foreign corporation which ends in or with such taxable year of such United States shareholder).
+&emsp;&emsp;(B) the aggregate of such shareholder's pro rata share of the tested loss of each controlled foreign corporation with respect to which such shareholder is a United States shareholder for such taxable year of suchUnited States shareholder (determined for each taxable year of such controlled foreign corporation which ends in or with such taxable year of such United States shareholder).
 
 #### (2) Tested income; tested loss
 
@@ -100,7 +100,7 @@ For purposes of this section—
 
 #### (3) <sup>1</sup> Partnership property
 
-&emsp;For purposes of this subsection, if a controlled foreign corporation holds an interest in a partnership at the close of such taxable year of the controlled foreign corporation, suchcontrolled foreign corporation shall take into account under paragraph (1) the controlled foreign corporation's distributive share of the aggregate of the partnership's adjusted bases (determined as of such date in the hands of the partnership) in tangible property held by such partnership to the extent such property—
+&emsp;For purposes of this subsection, if a controlled foreign corporation holds an interest in a partnership at the close of such taxable year of the controlled foreign corporation, such controlled foreign corporation shall take into account under paragraph (1) the controlled foreign corporation's distributive share of the aggregate of the partnership's adjusted bases (determined as of such date in the hands of the partnership) in tangible property held by such partnership to the extent such property—
 
 &emsp;&emsp;(A) is used in the trade or business of the partnership,
 
@@ -160,9 +160,13 @@ For purposes of this section—
 
 (Added Pub. L. 115–97, title I, §14201(a), Dec. 22, 2017, 131 Stat. 2208.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this section, referred to in subsec. (d)(3), is the date of the enactment of Pub. L. 115–97, which was approved Dec. 22, 2017.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

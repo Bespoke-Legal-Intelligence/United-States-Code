@@ -24,7 +24,7 @@ As used in this chapter—
 
 #### (3) State
 
-&emsp;&emsp;The term "State" means any State of the United States, the District of Columbia, any territory of the United States, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Virgin Islands, and the Northern Mariana Islands.
+&emsp;&emsp;The term "State" means any State of the United States, the District of Columbia, anyterritory of the United States, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Virgin Islands, and the Northern Mariana Islands.
 
 #### (b) Definition of savings associations and related terms
 
@@ -132,7 +132,7 @@ As used in this chapter—
 
 &emsp;The term "deposit" means—
 
-&emsp;&emsp;(1) the unpaid balance of money or its equivalent received or held by a bank or savings association in the usual course of business and for which it has given or is obligated to give credit, either conditionally or unconditionally, to a commercial, checking, savings, time, or thrift account, or which is evidenced by its certificate of deposit, thriftcertificate, investment certificate, certificate of indebtedness, or other similar name, or a check or draft drawn against a deposit account and certified by the bank or savings association, or a letter of credit or a traveler's check on which the bank or savings association is primarily liable: <i>Provided</i>, That, without limiting the generality of the term "money or its equivalent", any such account or instrument must be regarded as evidencing the receipt of the equivalent of money when credited or issued in exchange for checks or drafts or for a promissory note upon which the person obtaining any such credit or instrument is primarily or secondarily liable, or for a charge against a deposit account, or in settlement of checks, drafts, or other instruments forwarded to such bank or savings association for collection.
+&emsp;&emsp;(1) the unpaid balance of money or its equivalent received or held by a bank or savings association in the usual course of business and for which it has given or is obligated to give credit, either conditionally or unconditionally, to a commercial, checking, savings, time, or thrift account, or which is evidenced by its certificate of deposit, thrift certificate, investment certificate, certificate of indebtedness, or other similar name, or a check or draft drawn against a deposit account and certified by the bank or savings association, or a letter of credit or a traveler's check on which the bank or savings association is primarily liable: <i>Provided</i>, That, without limiting the generality of the term "money or its equivalent", any such account or instrument must be regarded as evidencing the receipt of the equivalent of money when credited or issued in exchange for checks or drafts or for a promissory note upon which the person obtaining any such credit or instrument is primarily or secondarily liable, or for a charge against a deposit account, or in settlement of checks, drafts, or other instruments forwarded to such bank or savings association for collection.
 
 &emsp;&emsp;(2) trust funds as defined in this chapter received or held by such bank or savings association, whether held in the trust department or held or deposited in any other department of such bank or savings association.
 
@@ -268,7 +268,7 @@ Preferred deposits.—The term "preferred deposits" means deposits of any public
 
 &emsp;The term "institution-affiliated party" means—
 
-&emsp;&emsp;(1) any director, officer, employee, or controlling stockholder (other than a bankholding company or savings and loan holding company) of, or agent for, an insured depository institution;
+&emsp;&emsp;(1) any director, officer, employee, or controlling stockholder (other than a bank holding company or savings and loan holding company) of, or agent for, an insured depository institution;
 
 &emsp;&emsp;(2) any other person who has filed or is required to file a change-in-control notice with the appropriate Federal banking agency under section 1817(j) of this title;
 
@@ -666,13 +666,15 @@ Pub. L. 91–609, title IX, §908, Dec. 31, 1970, 84 Stat. 1811, repealed sectio
 
 Amendment by Pub. L. 86–671 effective Jan. 1, 1961, see section 7 of Pub. L. 86–671, set out as a note under section 1817 of this title.
 
-#### Termination of Trust Territory of the Pacific Islands
-
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
 #### Conditions Governing Employment of Personnel Not Repealed, Modified, or Affected
 
 Pub. L. 89–695, title II, §206, Oct. 16, 1966, 80 Stat. 1055, provided that: "Nothing contained in this title \[amending this section and sections 1817 to 1820 of this title and repealing section 77 of this title\] shall be construed to repeal, modify, or affect the provisions of section 19 of the Federal Deposit Insurance Act (12 U.S.C. 1829)."
+
+#### <b>Executive Documents</b>
+
+#### Termination of Trust Territory of the Pacific Islands
+
+For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by "and".</i>
 

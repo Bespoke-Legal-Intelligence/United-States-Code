@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(A) the Attorney General has made a reasonable good faith effort to consult with the Governor or chief executive officer and attorney general or chief legal officer of the appropriate State or political subdivision and the director of the institution, or their designees, regarding financial, technical, or other assistance which may be available from the United States and which the Attorney General believes may assist in the correction of such conditions and pattern or practice of resistance;
 
-&emsp;&emsp;(B) the Attorney General has encouraged the appropriate officials to correct the alleged conditions and pattern or practice of resistance through informal methods of conference, conciliation and persuasion, including, to the extent feasible, discussion of the possible costs and fiscal impacts of alternative minimum corrective measures, and it is the Attorney General's opinion that reasonable efforts at voluntary correction have not succeeded; and
+&emsp;&emsp;(B) the Attorney General has encouraged the appropriate officials to correct the alleged conditions and pattern or practice of resistance through informal methods of conference, conciliation and persuasion, including, to the extent feasible, discussion of the possible costs and fiscal impacts of alternative minimum corrective measures, and itis the Attorney General's opinion that reasonable efforts at voluntary correction have not succeeded; and
 
 &emsp;&emsp;(C) the Attorney General is satisfied that the appropriate officials have had a reasonable time to take appropriate action to correct such conditions and pattern or practice, taking into consideration the time required to remodel or make necessary changes in physical facilities or relocate residents, reasonable legal or procedural requirements, the urgency of the need to correct such conditions, and other circumstances involved in correcting such conditions; and
 
@@ -23,6 +23,8 @@
 (b) The Attorney General shall personally sign any certification made pursuant to this section.
 
 (Pub. L. 96–247, §4, May 23, 1980, 94 Stat. 350; Pub. L. 97–256, title II, §201(a), Sept. 8, 1982, 96 Stat. 816; Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §803(b)\], Apr. 26, 1996, 110 Stat. 1321, 1321–71; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

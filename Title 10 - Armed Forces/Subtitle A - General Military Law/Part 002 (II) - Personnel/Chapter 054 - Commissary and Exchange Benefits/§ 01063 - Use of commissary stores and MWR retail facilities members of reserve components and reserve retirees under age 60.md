@@ -14,7 +14,7 @@ Reserve Retirees Under Age 60.—A member or former member of a reserve componen
 
 (d)
 
-Dependents.—(1) Dependents of a member who is permitted under subsection (a) or (b) touse commissary stores and MWR retail facilities shall be permitted to use stores and such facilities on the same basis as dependents of members on active duty.
+Dependents.—(1) Dependents of a member who is permitted under subsection (a) or (b) to use commissary stores and MWR retail facilities shall be permitted to use stores and such facilities on the same basis as dependents of members on active duty.
 
 (2) Dependents of a member who is permitted under subsection (c) to use commissary stores and MWR retail facilities shall be permitted to use stores and such facilities on the same basis as dependents of members of the armed forces entitled to retired pay under any other provision of law.
 
@@ -23,6 +23,8 @@ Dependents.—(1) Dependents of a member who is permitted under subsection (a) o
 MWR Retail Facility Defined.—In this section, the term "MWR retail facilities" means exchange stores and other revenue-generating facilities operated by nonappropriated fund activities of the Department of Defense for the morale, welfare, and recreation of members of the armed forces.
 
 (Added Pub. L. 101–510, div. A, title III, §321(c), Nov. 5, 1990, 104 Stat. 1528, §1065; amended Pub. L. 104–106, div. A, title III, §342(a), Feb. 10, 1996, 110 Stat. 265; renumbered §1063 and amended Pub. L. 108–136, div. A, title VI, §651(a), (b)(4), (5), Nov. 24, 2003, 117 Stat. 1521, 1522.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -45,6 +47,8 @@ Unrestricted Use Required.—Members of the Selected Reserve in good standing (a
 "(b)
 
 Eligibility to Use Authorized.—Subject to such regulations as the Secretary of Defense may prescribe, members of the Ready Reserve (other than members of the Selected Reserve) may be permitted to use the facilities referred to in subsection (a) on the same basis as members serving on active duty."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

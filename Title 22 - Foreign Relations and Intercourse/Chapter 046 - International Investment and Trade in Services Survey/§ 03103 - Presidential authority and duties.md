@@ -8,7 +8,7 @@ The President shall, to the extent he deems necessary and feasible—
 
 &emsp;(2) conduct such studies and surveys as may be necessary to prepare reports in a timely manner on specific aspects of international investment and trade in services which may have significant implications for the economic welfare and national security of the United States;
 
-&emsp;(3) study the adequacy of information, disclosure, and reporting requirements and procedures relating to international investment and trade in services; recommend necessary improvements in information recording, collection, and retrieval and in statistical analysis and presentation; and report periodically to the Committees on Finance <sup>1</sup> Foreign Relations <sup>1</sup> and Commerce of the Senate and theCommittees on Ways and Means, Energy and Commerce, and Foreign Affairs of the House of Representatives on national and international developments with respect to laws and regulations affecting international investment and trade in services;
+&emsp;(3) study the adequacy of information, disclosure, and reporting requirements and procedures relating to international investment and trade in services; recommend necessary improvements in information recording, collection, and retrieval and in statistical analysis and presentation; and report periodically to the Committees on Finance <sup>1</sup> Foreign Relations <sup>1</sup> and Commerce of the Senate and the Committees on Ways and Means, Energy and Commerce, and Foreign Affairs of the House of Representatives on national and internationaldevelopments with respect to laws and regulations affecting international investment and trade in services;
 
 &emsp;(4) conduct (not more frequently than once every five years and in addition to any other surveys conducted pursuant to paragraphs (1) and (2)) benchmark surveys with respect to trade in services between unaffiliated United States persons and foreign persons; and
 
@@ -44,7 +44,7 @@ The Secretary of Commerce shall prepare a report on the estimated cost of monito
 
 #### (f) Reporting, recordkeeping, and documentation
 
-Activities shall be conducted so that information obtained pursuant to this chapter shall be timely and useful in the development of policy with respect to international investment and trade in services. Reporting and recordkeepingrequirements imposed under this chapter shall be designed in order to minimize costs to the extent feasible, consistent with effective enforcement and the compilation of information required by this chapter. Reporting, recordkeeping, and documentation requirements shall be periodically reviewed and revised in the light of developments in the field of information technology.
+Activities shall be conducted so that information obtained pursuant to this chapter shall be timely and useful in the development of policy with respect to international investment and trade in services. Reporting and recordkeeping requirements imposed under this chapter shall be designed in order to minimize costs to the extent feasible, consistent with effective enforcement and the compilation of information required by this chapter. Reporting, recordkeeping, and documentation requirements shall be periodically reviewed and revised in the light of developments in the field of information technology.
 
 #### (g) Costs for collecting information
 

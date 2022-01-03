@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(ii) the public entity will enter into an agreement with an organization under which the organization will provide the service, and the organization has entered into such a participation agreement and is qualified to receive such payments.
 
-&emsp;(B)(i) In the case of an organization making an agreement under subparagraph (A)(ii) regarding the provision of services under subsection (a), the requirement established in such subparagraph regarding a participation agreement shall be waived by the Secretary if the organization does not, in providing health or mental health services, impose a charge or accept reimbursement available from any third-party payor, including reimbursement under any insurance policy or under any Federal or State health benefits program.
+&emsp;(B)(i) In the case of an organization making an agreement under subparagraph (A)(ii) regarding the provision of services under subsection (a), the requirement established in such subparagraph regarding a participation agreement shall be waived by the Secretary if the organization does not, in providing health or mental health services, impose a charge or accept reimbursement available from anythird-party payor, including reimbursement under any insurance policy or under any Federal or State health benefits program.
 
 &emsp;(ii) A determination by the Secretary of whether an organization referred to in clause (i) meets the criteria for a waiver under such clause shall be made without regard to whether the organization accepts voluntary donations regarding the provision of services to the public.
 
@@ -70,11 +70,13 @@
 
 (July 1, 1944, ch. 373, title V, §561, as added Pub. L. 102–321, title I, §119, July 10, 1992, 106 Stat. 349; amended Pub. L. 103–43, title XX, §2017(1), June 10, 1993, 107 Stat. 218; Pub. L. 106–310, div. B, title XXXI, §3105(a), Oct. 17, 2000, 114 Stat. 1175; Pub. L. 114–255, div. B, title X, §10001(a), Dec. 13, 2016, 130 Stat. 1262.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Subsections (b) and (c) of section 5304 of title 25, referred to in subsec. (a)(2), do not contain definitions of the terms "Indian tribe" and "tribal organization". However, such terms are defined elsewhere in that section.
 
-The Social Security Act, referred to in subsec. (b)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, asamended. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (b)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Prior Provisions
 
@@ -89,6 +91,8 @@ A prior section 290ff, act July 1, 1944, ch. 373, title V, §561, as added Nov. 
 <b>1993</b>—Subsec. (a)(2). Pub. L. 103–43, §2017(1)(A), substituted "this part" for "this subpart".
 
 Subsec. (b)(1)(B), (C). Pub. L. 103–43, §2017(1)(B), substituted "is such a grantee" for "is receiving such payments".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

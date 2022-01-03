@@ -60,9 +60,11 @@ Amounts.—Any amounts received by the Library as payment for library products a
 
 (Added Pub. L. 112–141, div. E, title II, §52011(a), July 6, 2012, 126 Stat. 890; amended Pub. L. 113–76, div. L, title I, Jan. 17, 2014, 128 Stat. 574.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
-"Office of the Assistant Secretary for Research and Technology of the Department of Transportation's" substituted for "Research and Innovative Technology Administration's" in subsec. (c)(3) on authority of title I of div. L of Pub. L. 113–76, set out in part as a Transfer of Duties and Powers note under former section 112 of this title.
+"Office of the Assistant Secretary for Research and Technology of the Department of Transportation's"substituted for "Research and Innovative Technology Administration's" in subsec. (c)(3) on authority of title I of div. L of Pub. L. 113–76, set out in part as a Transfer of Duties and Powers note under former section 112 of this title.
 
 #### Effective Date
 

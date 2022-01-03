@@ -112,6 +112,8 @@ In subsection (d), the words "who are required to attend a United States distric
 
 This amends 49:30141(c)(4)(A) and 30165(a) to correct erroneous cross-references.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (a)(1). Pub. L. 114–94, §24110(a)(1), substituted "$21,000" for "$5,000" and "$105,000,000" for "$35,000,000".
@@ -135,6 +137,8 @@ Subsec. (c). Pub. L. 112–141, §31203(a)(2), amended subsec. (c) generally. Pr
 <b>2000</b>—Subsec. (a). Pub. L. 106–414 amended heading and text generally. Prior to amendment, text read as follows: "A person that violates any of sections 30112, 30115, 30117–30122, 30123(d), 30125(c), 30127, 30141–30147, or 30166 of this title or a regulation prescribed under any of those sections is liable to the United States Government for a civil penalty of not more than $1,000 for each violation. A separate violation occurs for each motor vehicle or item of motor vehicle equipment and for each failure or refusal to allow or perform an act required by any of those sections. The maximum penalty under this subsection for a related series of violations is $800,000."
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–429 substituted "any of sections 30112" for "section 30112" and inserted "any of" before "those sections" in two places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 
@@ -160,5 +164,5 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 
 #### Civil Penalty Criteria
 
-Pub. L. 112–141, div. C, title I, §31203(b), July 6, 2012, 126 Stat. 758, provided that: "Not later than 1 year after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\], the Secretary \[of Transportation\] shall issue a final rule, in accordance with the procedures of section 553 of title 5, United States Code, which provides an interpretation of the penalty factorsdescribed in section 30165(c) of title 49, United States Code."
+Pub. L. 112–141, div. C, title I, §31203(b), July 6, 2012, 126 Stat. 758, provided that: "Not later than 1 year after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\], the Secretary \[of Transportation\] shall issue a final rule, in accordance with the procedures of section 553 of title 5, United States Code, which provides an interpretation of the penalty factors described in section 30165(c) of title 49, United States Code."
 

@@ -108,7 +108,7 @@ The Secretary shall disapprove an application submitted under subsection (a) if 
 
 #### (d) Replacement units
 
-Notwithstanding any other provision of law, replacement public housing units for public housing units demolished in accordance with this section may be built on the original public housing location or in the same neighborhood as the original public housing location if the number of the replacement public housing units is significantly fewer than the number of units demolished.
+Notwithstanding any other provision of law, replacement public housing units for public housing units demolished in accordance with this section may be built on the original public housing location or in the same neighborhood as the original public housing location if the number of the replacement public housing units issignificantly fewer than the number of units demolished.
 
 #### (e) Consolidation of occupancy within or among buildings
 
@@ -127,6 +127,8 @@ The Uniform Relocation and Real Property Acquisition Policies Act of 1970 \[42 U
 Of the amounts appropriated for tenant-based assistance under section 1437f of this title in any fiscal year, the Secretary may use such sums as are necessary for relocation and replacement housing for dwelling units that are demolished and disposed of from the public housing inventory (in addition to other amounts that may be available for such purposes).
 
 (Sept. 1, 1937, ch. 896, title I, §18, as added Pub. L. 98–181, title I \[title II, §214(a)\], Nov. 30, 1983, 97 Stat. 1184; amended Pub. L. 100–242, title I, §§112(b)(9), 121, 170(f), Feb. 5, 1988, 101 Stat. 1824, 1837, 1867; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 101–625, title IV, §412, title V, §§512(a), 513(b), (c), 572, Nov. 28, 1990, 104 Stat. 4159, 4194–4196, 4236; Pub. L. 102–550, title I, §§111(b)(2), 116(a)–(c), Oct. 28, 1992, 106 Stat. 3688, 3693, 3694; Pub. L. 104–19, title I, §1002(a), July 27, 1995, 109 Stat. 235; Pub. L. 104–134, title I, §101(e) \[title II, §201(b)(2)\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–278; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–276, title V, §531(a), Oct. 21, 1998, 112 Stat. 2570.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -162,7 +164,7 @@ Subsec. (b)(1). Pub. L. 102–550, §116(a), inserted "of the project or portion
 
 Subsec. (b)(3). Pub. L. 102–550, §116(b)(5), inserted at end "except that, in any 5-year period, a public housing agency may demolish not more than the lesser of 5 dwelling units or 5 percent of the total dwelling units owned and operated by the public housing agency, without providing an additional dwelling unit for each such public housing dwelling unit to be demolished, but only if the space occupied by the demolished unit is used for meeting the service or other needs of public housing residents."
 
-Subsec. (b)(3)(A)(ii). Pub. L. 102–550, §116(b)(1)(A), inserted before semicolon at end "to the extent available; or if such assistance is not available, in the case of an application proposing demolition or disposition of 200 or more units, the use of available project-based assistance under section 1437f of this title having a term of not less than 5 years".
+Subsec. (b)(3)(A)(ii). Pub. L. 102–550, §116(b)(1)(A), inserted before semicolon at end "to the extent available;or if such assistance is not available, in the case of an application proposing demolition or disposition of 200 or more units, the use of available project-based assistance under section 1437f of this title having a term of not less than 5 years".
 
 Subsec. (b)(3)(A)(iii). Pub. L. 102–550, §116(b)(1)(B), inserted before semicolon at end "to the extent available; or if such assistance is not available, in the case of an application proposing demolition or disposition of 200 or more units, the use of available project-based assistance under other Federal programs having a term of not less than 5 years".
 
@@ -205,6 +207,8 @@ Subsec. (c). Pub. L. 100–242, §121(c), designated existing provisions as par.
 Pub. L. 100–242, §112(b)(9), substituted "contributions authorized under section 1437c" for "annual contributions authorized under section 1437c(c)".
 
 Subsec. (d). Pub. L. 100–242, §121(d), added subsec. (d) and struck out former subsec. (d) which read as follows: "The provisions of this section shall not apply to the conveyance of units in a public housing project for the purpose of providing homeownership opportunities for lower income families capable of assuming the responsibilities of homeownership."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

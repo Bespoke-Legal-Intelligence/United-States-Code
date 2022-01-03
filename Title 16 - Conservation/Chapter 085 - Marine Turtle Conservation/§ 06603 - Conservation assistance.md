@@ -34,7 +34,7 @@ Subject to the availability of funds and in consultation with other Federal offi
 
 &emsp;&emsp;(E) an estimate of the funds and time required to complete the project;
 
-&emsp;&emsp;(F) evidence of support for the project by appropriate governmental entities of the countries in which the project will be conducted, if the Secretary determines that such support is required for the success of the project;
+&emsp;&emsp;(F) evidence of support for the project by appropriate governmental entities of thecountries in which the project will be conducted, if the Secretary determines that such support is required for the success of the project;
 
 &emsp;&emsp;(G) information regarding the source and amount of matching funding available for the project; and
 
@@ -76,13 +76,15 @@ In determining whether to approve project proposals under this section, the Secr
 
 #### (1) In general
 
-&emsp;Each person that receives assistance under this section for a project shall submit to theSecretary periodic reports (at such intervals as the Secretary may require) that include all information that the Secretary, after consultation with other government officials, determines is necessary to evaluate the progress and success of the project for the purposes of ensuring positive results, assessing problems, and fostering improvements.
+&emsp;Each person that receives assistance under this section for a project shall submit to the Secretary periodic reports (at such intervals as the Secretary may require) that include all information that the Secretary, after consultation with other government officials, determines is necessary to evaluate the progress and success of the project for the purposes of ensuring positive results, assessing problems, and fostering improvements.
 
 #### (2) Availability to the public
 
 &emsp;Reports under paragraph (1), and any other documents relating to projects for which financial assistance is provided under this chapter, shall be made available to the public.
 
 (Pub. L. 108–266, §4, July 2, 2004, 118 Stat. 793; Pub. L. 116–9, title VII, §7001(c)(3)(C), Mar. 12, 2019, 133 Stat. 787.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

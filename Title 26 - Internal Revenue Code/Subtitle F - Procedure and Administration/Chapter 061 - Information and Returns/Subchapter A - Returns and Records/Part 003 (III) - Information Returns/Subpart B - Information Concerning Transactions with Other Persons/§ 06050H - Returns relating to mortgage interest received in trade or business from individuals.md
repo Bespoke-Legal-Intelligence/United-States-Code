@@ -68,7 +68,7 @@ Except to the extent provided in regulations prescribed by the Secretary, in the
 
 #### (g) Special rules for cooperative housing corporations
 
-For purposes of subsection (a), an amount received by a cooperative housing corporation from a tenant-stockholder shall be deemed to be interest received on a mortgage in the course of a trade or business engaged in by such corporation, to the extent of the tenant-stockholder'sproportionate share of interest described in section 216(a)(2). Terms used in the preceding sentence shall have the same meanings as when used in section 216.
+For purposes of subsection (a), an amount received by a cooperative housing corporation from a tenant-stockholder shall be deemed to be interest received on a mortgage in the course of a trade or business engaged in by such corporation, to the extent of the tenant-stockholder's proportionate share of interest described in section 216(a)(2). Terms used in the preceding sentence shall have the same meanings as when used in section 216.
 
 #### (h) Returns relating to mortgage insurance premiums
 
@@ -93,6 +93,8 @@ For purposes of subsection (a), an amount received by a cooperative housing corp
 &emsp;&emsp;&emsp;(ii) private mortgage insurance (as defined by section 2 of the Homeowners Protection Act of 1998 (12 U.S.C. 4901), as in effect on the date of the enactment of this subsection).
 
 (Added Pub. L. 98–369, div. A, title I, §145(a), July 18, 1984, 98 Stat. 684; amended Pub. L. 99–514, title XV, §1501(c)(11), title XVIII, §1811(a)(1), Oct. 22, 1986, 100 Stat. 2739, 2832; Pub. L. 101–239, title VII, §7646(a), (b), Dec. 19, 1989, 103 Stat. 2382; Pub. L. 104–168, title XII, §1201(a)(8), July 30, 1996, 110 Stat. 1469; Pub. L. 104–188, title I, §1704(t)(23), Aug. 20, 1996, 110 Stat. 1888; Pub. L. 109–432, div. A, title IV, §419(c), Dec. 20, 2006, 120 Stat. 2968; Pub. L. 114–41, title II, §2003(a), (b), July 31, 2015, 129 Stat. 454; Pub. L. 115–141, div. U, title IV, §401(a)(2)(C), (263), Mar. 23, 2018, 132 Stat. 1184, 1196.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -122,6 +124,8 @@ Subsec. (d)(2). Pub. L. 102–239, §7646(b)(2), inserted "(other than points)" 
 
 Subsec. (g). Pub. L. 99–514, §1811(a)(1), added subsec. (g).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
 Pub. L. 114–41, title II, §2003(c), July 31, 2015, 129 Stat. 454, provided that: "The amendments made by this section \[amending this section\] shall apply to returns required to be made, and statements required to be furnished, after December 31, 2016."
@@ -150,7 +154,7 @@ Pub. L. 98–369, div. A, title I, §145(d), July 18, 1984, 98 Stat. 685, as ame
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting thissection and amending sections 6652 and 6678 of this title\] shall apply to amounts received after December 31, 1984.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting this section and amending sections 6652 and 6678 of this title\] shall apply to amounts received after December 31, 1984.
 
 "(2)
 

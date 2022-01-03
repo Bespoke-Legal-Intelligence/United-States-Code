@@ -6,7 +6,7 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Covered judicial or administrative action.—The term "covered judicial or administrative action" means any judicial or administrative action brought by the Secretary of the Treasury (referred to in this section as the"Secretary") or the Attorney General under this subchapter or subchapter III that results in monetary sanctions exceeding $1,000,000.
+Covered judicial or administrative action.—The term "covered judicial or administrative action" means any judicial or administrative action brought by the Secretary of the Treasury (referred to in this section as the "Secretary") or the Attorney General under this subchapter or subchapter III that results in monetary sanctions exceeding $1,000,000.
 
 &emsp;(2)
 
@@ -42,7 +42,7 @@ Whistleblower.—
 
 &emsp;&emsp;(A)
 
-In general.—The term "whistleblower" means any individual who provides, or 2 or more individuals acting jointly who provide, information relating to a violation of this subchapter or subchapter III to the employer of the individual or individuals, including as part of the job duties of the individual or individuals, or to the Secretary or the Attorney General.
+In general.—The term "whistleblower" means any individual who provides, or 2 or more individuals acting jointly who provide, information relating to a violation of this subchapter or subchapter III to theemployer of the individual or individuals, including as part of the job duties of the individual or individuals, or to the Secretary or the Attorney General.
 
 &emsp;&emsp;(B)
 

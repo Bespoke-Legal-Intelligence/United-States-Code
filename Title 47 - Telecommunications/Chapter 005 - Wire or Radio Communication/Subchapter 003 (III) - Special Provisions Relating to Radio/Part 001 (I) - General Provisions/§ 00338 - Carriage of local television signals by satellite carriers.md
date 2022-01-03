@@ -46,7 +46,7 @@
 
 #### (1) Commercial stations
 
-&emsp;Notwithstanding subsection (a)(1), a satellite carrier shall not be required to carry upon request the signal of any local commercial television broadcast station that substantially duplicates the signal of another local commercial television broadcast station which is secondarily transmitted by the satellite carrier within the same local market, or to carry upon request the signals of more than one local commercial television broadcast stationin a single local market that is affiliated with a particular television network unless such stations are licensed to communities in different States.
+&emsp;Notwithstanding subsection (a)(1), a satellite carrier shall not be required to carry upon request the signal of any local commercial television broadcast station that substantially duplicates the signal of another local commercial television broadcast station which is secondarily transmitted by the satellite carrier within the same local market, or to carry upon request the signals of more than one local commercial television broadcast station in a single local market that is affiliated with a particular television network unless such stations are licensed to communities in different States.
 
 #### (2) Noncommercial stations
 
@@ -94,7 +94,7 @@ A satellite carrier shall not accept or request monetary payment or other valuab
 
 &emsp;&emsp;&emsp;(i) offering to substitute the local network signal for the duplicating distant network signal; and
 
-&emsp;&emsp;&emsp;(ii) informing the subscriber that, if the subscriber fails to respond in 60 days, the subscriber will lose the distant network signal but will be permitted to subscribe to the local network signal; and
+&emsp;&emsp;&emsp;(ii) informing the subscriber that, if the subscriber fails to respond in 60 days, thesubscriber will lose the distant network signal but will be permitted to subscribe to the local network signal; and
 
 &emsp;&emsp;(B) if the subscriber—
 
@@ -174,7 +174,7 @@ A satellite carrier shall not accept or request monetary payment or other valuab
 
 #### (A) Consent to disclosure
 
-&emsp;&emsp;Except as provided in subparagraph (B), a satellite carrier shall not disclose personally identifiable information concerning any subscriber without the prior written or electronic consent of the subscriber concerned and shall take such actions as are necessary to prevent unauthorized access to such information by a person other than the subscriber or satellite carrier.
+&emsp;&emsp;Except as provided in subparagraph (B), a satellite carrier shall not disclose personally identifiable information concerning any subscriber without the prior written or electronic consent of the subscriber concernedand shall take such actions as are necessary to prevent unauthorized access to such information by a person other than the subscriber or satellite carrier.
 
 #### (B) Exceptions
 
@@ -182,7 +182,7 @@ A satellite carrier shall not accept or request monetary payment or other valuab
 
 &emsp;&emsp;&emsp;(i) necessary to render, or conduct a legitimate business activity related to, a satellite service or other service provided by the satellite carrier to the subscriber;
 
-&emsp;&emsp;&emsp;(ii) subject to paragraph (9), made pursuant to a court order authorizing such disclosure, if the subscriber is notified of suchorder by the person to whom the order is directed;
+&emsp;&emsp;&emsp;(ii) subject to paragraph (9), made pursuant to a court order authorizing such disclosure, if the subscriber is notified of such order by the person to whom the order is directed;
 
 &emsp;&emsp;&emsp;(iii) a disclosure of the names and addresses of subscribers to any satellite service or other service, if—
 
@@ -336,11 +336,11 @@ As used in this section:
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(2), was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+This chapter, referred to in subsec. (a)(2), was in the original "this Act", meaning act June 19, 1934, ch. 652,48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
 Section 119(a)(14) of title 17, referred to in subsec. (a)(3), was redesignated as section 119(a)(13) of title 17 by Pub. L. 111–175, title I, §102(h)(1)(B), May 27, 2010, 124 Stat. 1224. However, provision relating to signals of low power television station was section 119(a)(15) of title 17, which was repealed by section 102(h)(1)(C) of Pub. L. 111–175.
 
-The date of enactment of the Satellite Television Extension and Localism Act of 2010, referred to in subsecs.\(a)(5) and (k)(2)(B), is the date of enactment of Pub. L. 111–175, which shall be deemed to refer to Feb. 27, 2010, see section 307(a) of Pub. L. 111–175, set out as an Effective Date of 2010 Amendment note under section 111 of Title 17, Copyrights.
+The date of enactment of the Satellite Television Extension and Localism Act of 2010, referred to in subsecs. (a)(5) and (k)(2)(B), is the date of enactment of Pub. L. 111–175, which shall be deemed to refer to Feb. 27, 2010, see section 307(a) of Pub. L. 111–175, set out as an Effective Date of 2010 Amendment note under section 111 of Title 17, Copyrights.
 
 For the effective date of this subsection, referred to in subsec. (i)(1), as 60 days after Dec. 8, 2004, see section 206(b) of Pub. L. 108–447, set out as an Effective Date of 2004 Amendment note below.
 
@@ -456,7 +456,7 @@ Pub. L. 111–175, title II, §205, May 27, 2010, 124 Stat. 1250, provided that:
 
 "(a)
 
-In General.—During the period beginning on the date of the enactment of this Act \[deemed to refer to Feb. 27, 2010, see section 307(a) of Pub. L. 111–175, set out as an Effective Date of 2010 Amendment note under section 111 of Title 17, Copyrights\] and ending on the date on which the Federal Communications Commission adopts rules pursuant to the amendments to the Communications Act of 1934 made by section 203 and section 204 of this title \[amending this section and sections 339 and 340 of this title\], the Federal Communications Commission shall follow its rules and regulationspromulgated pursuant to sections 338, 339, and 340 of the Communications Act of 1934 \[47 U.S.C. 338 to 340\] as in effect on the day before the date of the enactment of this Act.
+In General.—During the period beginning on the date of the enactment of this Act \[deemed to refer to Feb. 27, 2010, see section 307(a) of Pub. L. 111–175, set out as an Effective Date of 2010 Amendment note under section 111 of Title 17, Copyrights\] and ending on the date on which the Federal Communications Commission adopts rules pursuant to the amendments to the Communications Act of 1934 made by section 203 and section 204 of this title \[amending this section and sections 339 and 340 of this title\], the Federal Communications Commission shall follow its rules and regulations promulgated pursuant to sections 338, 339, and 340 of the Communications Act of 1934 \[47 U.S.C. 338 to 340\] as in effect on the day before the date of the enactment of this Act.
 
 "(b)
 

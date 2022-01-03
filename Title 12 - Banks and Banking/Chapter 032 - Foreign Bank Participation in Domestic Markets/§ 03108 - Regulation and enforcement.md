@@ -36,7 +36,7 @@ The Comptroller, the Board, and the Federal Deposit Insurance Corporation, are a
 
 #### (A) In general
 
-&emsp;&emsp;In the case of contumacy of any person issued a subpoena under this subsection or a refusal by such person to comply with such subpoena, the Board, Comptroller of the Currency, or Federal Deposit Insurance Corporation, or any other party to proceedingsin connection with which subpoena was issued may invoke the aid of—
+&emsp;&emsp;In the case of contumacy of any person issued a subpoena under this subsection or a refusal by such person to comply with such subpoena, the Board, Comptroller of the Currency, or Federal Deposit Insurance Corporation, or any other party to proceedings in connection with which subpoena was issued may invoke the aid of—
 
 &emsp;&emsp;&emsp;(i) the United States District Court for the District of Columbia, or
 

@@ -20,13 +20,13 @@
 
 &emsp;&emsp;(A) under which, not less frequently than once every 90 days, such plan or such issuer (as applicable) verifies and updates the provider directory information included on the database described in paragraph (4) of such plan or issuer of each health care provider and health care facility included in such database;
 
-&emsp;&emsp;(B) that establishes a procedure for the removal of such a provider or facility with respect to which such plan or issuer has been unable to verify such information during a period specified by the plan or issuer; and
+&emsp;&emsp;(B) that establishes a procedure for the removal of such a provider or facility with respect to which such plan or issuer has beenunable to verify such information during a period specified by the plan or issuer; and
 
 &emsp;&emsp;(C) that provides for the update of such database within 2 business days of such plan or issuer receiving from such a provider or facility information pursuant to section 300gg–139 of this title.
 
 #### (3) Response protocol
 
-&emsp;The response protocol described in this paragraph is, in the case of an individual enrolled under a group health plan or group or individual health insurance coverage offered by a health insurance issuer who requests information through a telephone call or electronic,web-based, or Internet-based means on whether a health care provider or health care facility has a contractual relationship to furnish items and services under such plan or such coverage, a protocol under which such plan or such issuer (as applicable), in the case such request is made through a telephone call—
+&emsp;The response protocol described in this paragraph is, in the case of an individual enrolled under a group health plan or group or individual health insurance coverage offered by a health insurance issuer who requests information through a telephone call or electronic, web-based, or Internet-based means on whether a health care provider or health care facility has a contractual relationship to furnish items and services under such plan or such coverage, a protocol under which such plan or such issuer (as applicable), in the case such request is made through a telephone call—
 
 &emsp;&emsp;(A) responds to such individual as soon as practicable and in no case later than 1 business day after such call is received, through a written electronic or print (as requested by such individual) communication; and
 

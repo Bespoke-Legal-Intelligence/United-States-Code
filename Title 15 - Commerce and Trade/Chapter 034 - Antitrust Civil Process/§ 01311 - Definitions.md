@@ -22,13 +22,15 @@ For the purposes of this chapter—
 
 &emsp;(h) The term "custodian" means the custodian or any deputy custodian designated under section 1313(a) of this title;
 
-&emsp;(i) The term "product of discovery" includes without limitation the original or duplicate ofany deposition, interrogatory, document, thing, result of the inspection of land or other property, examination, or admission obtained by any method of discovery in any judicial litigation or in any administrative litigation of an adversarial nature; any digest, analysis, selection, compilation, or any derivation thereof; and any index or manner of access thereto; and
+&emsp;(i) The term "product of discovery" includes without limitation the original or duplicate of any deposition, interrogatory, document, thing, result of the inspection of land or other property, examination, or admission obtained by any method of discovery in any judicial litigation or in any administrative litigation of an adversarial nature; any digest, analysis, selection, compilation, or any derivation thereof; and any index or manner of access thereto; and
 
 &emsp;(j) The term "agent" includes any person retained by the Department of Justice in connection with the enforcement of the antitrust laws.
 
 &emsp;(k) The term "foreign antitrust laws" has the meaning given such term in section 12 of the International Antitrust Enforcement Assistance Act of 1994 \[15 U.S.C. 6211\].
 
 (Pub. L. 87–664, §2, Sept. 19, 1962, 76 Stat. 548; Pub. L. 94–435, title I, §101, Sept. 30, 1976, 90 Stat. 1383; Pub. L. 96–349, §§2(a), 7(a)(1), Sept. 12, 1980, 94 Stat. 1154, 1158; Pub. L. 103–438, §3(e)(1)(A), Nov. 2, 1994, 108 Stat. 4598.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -57,6 +59,8 @@ Subsec. (c). Pub. L. 94–435, §101(2), inserted "or in any activities in prepa
 Subsec. (f). Pub. L. 94–435, §101(3), included "any natural person" and "any person acting under color or authority of State law" in definition of "person".
 
 Subsec. (h). Pub. L. 94–435, §101(4), substituted "the custodian" for "the antitrust document custodian".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

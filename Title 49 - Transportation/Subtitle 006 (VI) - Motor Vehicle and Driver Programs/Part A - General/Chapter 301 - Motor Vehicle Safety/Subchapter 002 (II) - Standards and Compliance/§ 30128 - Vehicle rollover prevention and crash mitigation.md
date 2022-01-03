@@ -18,7 +18,7 @@ In general.—The Secretary shall also initiate a rulemaking proceeding to estab
 
 &emsp;(2)
 
-Door locks and door retention.—The Secretary shall complete the rulemaking proceeding initiated to upgrade Federal Motor Vehicle Safety Standard No. 206, relating to door locks and door retention, no later than 30 months after the date of enactment of this section.
+Door locks and door retention.—The Secretary shall complete the rulemaking proceeding initiated to upgrade Federal Motor Vehicle Safety Standard No. 206, relating todoor locks and door retention, no later than 30 months after the date of enactment of this section.
 
 (d)
 
@@ -33,6 +33,8 @@ Deadlines.—If the Secretary determines that the deadline for a final rule unde
 &emsp;(2) establish a new deadline.
 
 (Added Pub. L. 109–59, title X, §10301(a), Aug. 10, 2005, 119 Stat. 1939.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

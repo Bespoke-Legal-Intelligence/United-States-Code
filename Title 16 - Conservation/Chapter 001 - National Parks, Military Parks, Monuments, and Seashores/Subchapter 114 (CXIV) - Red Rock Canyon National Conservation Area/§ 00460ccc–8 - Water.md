@@ -14,13 +14,15 @@ The Secretary shall take all steps necessary to protect the water rights reserve
 
 #### (d) Effect on previously secured rights
 
-The Federal water rights reserved by this subchapter shall be in addition to any water rightswhich may have been previously secured by the United States for purposes other than for the conservation area.
+The Federal water rights reserved by this subchapter shall be in addition to any water rights which may have been previously secured by the United States for purposes other than for the conservation area.
 
 #### (e) Scope and construction of rights
 
-The Federal water rights reserved by this subchapter are specific to the conservation area designated by this subchapter. Nothing in this subchapter shall be construed as establishing a precedent with regard to any future designations, nor shall it constitute an interpretation of any other Act or any designation.
+The Federal water rights reserved by this subchapter are specific to the conservation area designated by this subchapter. Nothing in thissubchapter shall be construed as establishing a precedent with regard to any future designations, nor shall it constitute an interpretation of any other Act or any designation.
 
 (Pub. L. 101–621, §10, Nov. 16, 1990, 104 Stat. 3345; Pub. L. 103–450, §2(c), Nov. 2, 1994, 108 Stat. 4766.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 #### (a) Regulations for prompt adjustment
 
-The Council shall prescribe regulations providing for prompt adjustment of valid claims for losses which are covered by an agreement made pursuant to section 974 of this title, including provision for arbitration of issues relating to the dollar value of damages involving less than total loss or destruction of such covered objects.
+The Council shall prescribe regulations providing for prompt adjustment of valid claims forlosses which are covered by an agreement made pursuant to section 974 of this title, including provision for arbitration of issues relating to the dollar value of damages involving less than total loss or destruction of such covered objects.
 
 #### (b) Certification
 

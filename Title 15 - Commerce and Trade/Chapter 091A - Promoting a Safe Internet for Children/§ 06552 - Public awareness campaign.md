@@ -1,6 +1,6 @@
 ### §6552. Public awareness campaign
 
-The Federal Trade Commission shall carry out a nationwide program to increase public awareness and provide education regarding strategies to promote the safe use of the Internet by children. The program shall utilize existing resources and efforts of the Federal Government, State and local governments, nonprofit organizations, private technology and financial companies, Internet service providers, World Wide Web-based resources, and other appropriate entities, that includes—
+The Federal Trade Commission shall carry out a nationwide program to increase public awareness and provide education regarding strategies to promote the safe use of the Internet by children. The program shall utilize existing resources and efforts of the Federal Government,State and local governments, nonprofit organizations, private technology and financial companies, Internet service providers, World Wide Web-based resources, and other appropriate entities, that includes—
 
 &emsp;(1) identifying, promoting, and encouraging best practices for Internet safety;
 

@@ -38,6 +38,8 @@ In subsection (a) the words "wherein a claim is made" are omitted as surplusage.
 
 In subsection (b) the words "service in" are substituted for the words "part of" to conform to the terminology used in 14 U.S.C. 3.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7721 of this title as this section.
@@ -49,6 +51,8 @@ In subsection (b) the words "service in" are substituted for the words "part of"
 <b>1987</b>—Subsec. (b). Pub. L. 100–26 inserted ", the term" after "In this chapter".
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted "the Act of March 3, 1925 (commonly referred to as the 'Public Vessels Act') (46 U.S.C. 781–790)" for "sections 781–790 of title 46".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

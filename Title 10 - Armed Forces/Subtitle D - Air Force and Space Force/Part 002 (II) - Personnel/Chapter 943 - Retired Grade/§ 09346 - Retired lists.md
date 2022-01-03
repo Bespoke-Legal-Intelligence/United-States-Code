@@ -74,6 +74,8 @@ Act
 
 July 24, 1956, ch. 677, §2(f), (g), 70 Stat. 623.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior sections 9346 to 9356 were renumbered sections 9446 to 9456 of this title, respectively.
@@ -99,6 +101,8 @@ Subsec. (d). Pub. L. 116–283, §923(c)(21)(C)(i), inserted "or the Regular Spa
 <b>1987</b>—Subsec. (b)(2). Pub. L. 100–180 struck out "Regular" before "Air Force".
 
 <b>1958</b>—Pub. L. 85–861 struck out provisions in subsecs. (a) and (b) which required annual publication in official Air Force Register of the retired list.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

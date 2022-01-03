@@ -44,9 +44,11 @@ Of the funds made available for the program under subsection (a), the Secretary 
 
 #### (3) Third-party providers
 
-&emsp;The Secretary shall develop and implement strategies to encourage third-party technical service providers to provide technical assistance to eligible partners pursuant to a partnership agreement.
+&emsp;The Secretary shall develop and implement strategies to encourage third-party technicalservice providers to provide technical assistance to eligible partners pursuant to a partnership agreement.
 
 (Pub. L. 99–198, title XII, §1271D, as added Pub. L. 113–79, title II, §2401, Feb. 7, 2014, 128 Stat. 749; amended Pub. L. 115–334, title II, §2705, Dec. 20, 2018, 132 Stat. 4598.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

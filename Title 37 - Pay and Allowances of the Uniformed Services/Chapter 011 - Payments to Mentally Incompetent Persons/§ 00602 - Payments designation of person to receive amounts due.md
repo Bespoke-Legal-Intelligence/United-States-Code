@@ -6,7 +6,7 @@
 
 &emsp;(2) an individual to whom the member has granted authority to manage such funds pursuant to a valid and legally executed durable power of attorney; or
 
-&emsp;(3) any person designated by the Secretary concerned, or by any officer to whom he delegates his authority under this section, withoutthe appointment in judicial proceedings of a committee, guardian, or other legal representative.
+&emsp;(3) any person designated by the Secretary concerned, or by any officer to whom he delegates his authority under this section, without the appointment in judicial proceedings of a committee, guardian, or other legal representative.
 
 (b) An individual may not be designated under subsection (a)(3) to receive payments unless a board consisting of at least three qualified medical officers or physicians, one of whom is specially qualified in the treatment of mental disorders, determines that the member is mentally incapable of managing the member's affairs. Any such board shall be appointed from available medical officers or physicians under his jurisdiction by the head of whichever of the following is providing medical treatment for the member, or by a person designated by that head—
 
@@ -68,7 +68,7 @@ June 21, 1950, ch. 342, §§2, 3 (less 1st 28 words), 64 Stat. 249; Aug. 7, 1959
 
 37:353 (less 1st 28 words).
 
-In subsection (a), the words "or persons" and "or officers" are omitted, since, under section 1 of title 1, "words importing the singular include and apply to several persons, parties, or things". The words "to whom he delegates his authority under this section" are substituted for the words "as the respective Secretaries may designate for such purposes" to obviate confusion between persons "designated to receive payments and those who perform the Secretary's functions under the section. The words "the necessity of" are omitted as surplusage.
+In subsection (a), the words "or persons" and "or officers" are omitted, since, under section 1 of title 1,"words importing the singular include and apply to several persons, parties, or things". The words "to whom he delegates his authority under this section" are substituted for the words "as the respective Secretaries may designate for such purposes" to obviate confusion between persons "designated to receive payments and those who perform the Secretary's functions under the section. The words "the necessity of" are omitted as surplusage.
 
 In subsection (c), the words "or persons" are omitted for the reasons given in the preceding paragraph. The words "discharges the obligation" are substituted for the words "shall constitute a complete discharge".
 

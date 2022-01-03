@@ -42,7 +42,7 @@
 
 &emsp;&emsp;&emsp;(iii) describe how the heads of the applicable agencies and departments will focus on innovative, transformational technologies with the potential to enhance the security, reliability, resilience, and trustworthiness of the digital infrastructure, and to protect consumer privacy;
 
-&emsp;&emsp;&emsp;(iv) describe how the heads of the applicable agencies and departments will foster the rapid transfer of research and development results into new cybersecurity technologies and applications for the timely benefit of society and the national interest, including through the disseminationof best practices and other outreach activities;
+&emsp;&emsp;&emsp;(iv) describe how the heads of the applicable agencies and departments will foster the rapid transfer of research and development results into new cybersecurity technologies and applications for the timely benefit of society and the national interest, including through the dissemination of best practices and other outreach activities;
 
 &emsp;&emsp;&emsp;(v) describe how the heads of the applicable agencies and departments will establish and maintain a national research infrastructure for creating, testing, and evaluating the next generation of secure networking and information technology systems; and
 
@@ -141,6 +141,8 @@ In accordance with the responsibilities under section 5511 of this title, the Di
 The head of each agency and department identified under section 5511(a)(3)(B) <sup>1</sup> of this title, through existing programs and activities, shall support research that will lead to the development of a scientific foundation for the field of cybersecurity, including research that increases understanding of the underlying principles of securing complex networked systems, enables repeatable experimentation, and creates quantifiable security metrics.
 
 (Pub. L. 113–274, title II, §201, Dec. 18, 2014, 128 Stat. 2974; Pub. L. 114–329, title I, §105(t), Jan. 6, 2017, 130 Stat. 2985; Pub. L. 116–283, div. H, title XCIV, §9407(b), Jan. 1, 2021, 134 Stat. 4814.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

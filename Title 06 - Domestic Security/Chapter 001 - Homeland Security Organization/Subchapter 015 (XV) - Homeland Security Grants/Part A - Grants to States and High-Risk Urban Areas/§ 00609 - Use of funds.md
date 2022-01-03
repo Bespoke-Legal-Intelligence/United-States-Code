@@ -28,7 +28,7 @@ The Administrator shall permit the recipient of a grant under section 604 or 605
 
 &emsp;(12) paying expenses directly related to administration of the grant, except that such expenses may not exceed 3 percent of the amount of the grant;
 
-&emsp;(13) any activity permitted under the Fiscal Year 2007 Program Guidance of the Department for the State Homeland Security Grant Program, the Urban Area Security Initiative\(including activities permitted under the full-time counterterrorism staffing pilot), or the Law Enforcement Terrorism Prevention Program;
+&emsp;(13) any activity permitted under the Fiscal Year 2007 Program Guidance of the Department for the State Homeland Security Grant Program, the Urban Area Security Initiative (including activities permitted under the full-time counterterrorism staffing pilot), or the Law Enforcement Terrorism Prevention Program;
 
 &emsp;(14) migrating any online service (as defined in section 3 of the DOTGOV Online Trust in Government Act of 2020) <sup>1</sup> to the .gov internet domain; and
 
@@ -40,7 +40,7 @@ The Administrator shall permit the recipient of a grant under section 604 or 605
 
 &emsp;Funds provided under section 604 or 605 of this title may not be used—
 
-&emsp;&emsp;(A) to supplant State or local funds, except that nothing in this paragraph shall prohibit the use of grant funds provided to a State or high-risk urban area for otherwise permissible uses under subsection (a) on the basis that a State or high-risk urban area has previously used State or local funds to support the same or similar uses; or
+&emsp;&emsp;(A) to supplant State or local funds, except that nothing in this paragraph shall prohibit the use of grant funds provided to a State or high-risk urban area for otherwise permissible uses under subsection (a) on the basisthat a State or high-risk urban area has previously used State or local funds to support the same or similar uses; or
 
 &emsp;&emsp;(B) for any State or local government cost-sharing contribution.
 

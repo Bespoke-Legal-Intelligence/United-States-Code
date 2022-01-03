@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(ii) memoranda stating the substance of all such oral communications; and
 
-&emsp;&emsp;(iii) all written responses, and memoranda stating the substance of all oral responses, to the materials described in clauses (i) and (ii) of this subparagraph;
+&emsp;&emsp;(iii) all written responses, and memoranda stating the substance of all oral responses,to the materials described in clauses (i) and (ii) of this subparagraph;
 
 &emsp;(D) upon receipt of a communication knowingly made or knowingly caused to be made by a party in violation of this subsection, the agency, administrative law judge, or other employee presiding at the hearing may, to the extent consistent with the interests of justice and the policy of the underlying statutes, require the party to show cause why his claim or interest in the proceeding should not be dismissed, denied, disregarded, or otherwise adversely affected on account of such violation; and
 

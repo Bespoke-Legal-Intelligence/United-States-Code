@@ -38,7 +38,7 @@ Filing Complaints and Procedures.—(1) An employee alleging discharge, discipli
 
 &emsp;(ii) reinstate the complainant to the former position with the same pay and terms and privileges of employment; and
 
-&emsp;(iii) pay compensatory damages, including backpay with interest and compensation for any special damages sustained as a result of the discrimination, including litigation costs, expert witness fees, and reasonable attorney fees.
+&emsp;(iii) pay compensatory damages, including backpay with interest and compensation forany special damages sustained as a result of the discrimination, including litigation costs, expert witness fees, and reasonable attorney fees.
 
 (B) If the Secretary of Labor issues an order under subparagraph (A) of this paragraph and the complainant requests, the Secretary of Labor may assess against the person against whom the order is issued the costs (including attorney fees) reasonably incurred by the complainant in bringing the complaint. The Secretary of Labor shall determine the costs that reasonably were incurred.
 
@@ -68,7 +68,7 @@ Rights Retained by Employee.—Nothing in this section shall be deemed to dimini
 
 Disclosure of Identity.—
 
-&emsp;(1) Except as provided in paragraph (2) of this subsection, or with the written consent of the employee, the Secretary of Transportation or the Secretary of Homeland Security maynot disclose the name of an employee who has provided information about an alleged violation of this part, or a regulation prescribed or order issued under any of those provisions.
+&emsp;(1) Except as provided in paragraph (2) of this subsection, or with the written consent of the employee, the Secretary of Transportation or the Secretary of Homeland Security may not disclose the name of an employee who has provided information about an alleged violation of this part, or a regulation prescribed or order issued under any of those provisions.
 
 &emsp;(2) The Secretary of Transportation or the Secretary of Homeland Security shall disclose to the Attorney General the name of an employee described in paragraph (1) of this subsection if the matter is referred to the Attorney General for enforcement. The Secretary making such disclosure shall provide reasonable advance notice to the affected employee if disclosure of that person's identity or identifying information is to occur.
 
@@ -128,7 +128,7 @@ Jan. 6, 1983, Pub. L. 97–424, §405(a)–(d), 96 Stat. 2157.
 
 Jan. 6, 1983, Pub. L. 97–424, §405(e), 96 Stat. 2158; Nov. 8, 1984, Pub. L. 98–620, §402(51), 98 Stat. 3361.
 
-In subsection (a)(1), before clause (A), the words "in any manner" are omitted as surplus. The word "conditions" is omitted as included in "terms". In clauses (A) and (B), the word "rule" is omitted as being synonymous with "regulation". In clause (A), the word "begun" is substituted for "instituted or caused to be instituted" for consistency in the revised title and to eliminate unnecessary words. In clause (B), the words before subclause (i) are substituted for "for refusing to operate a vehicle when" and "or because of" for clarity and consistency. In subclause (ii), the words "vehicle's unsafe condition" are substituted for "unsafe condition of such equipment" for consistency.
+In subsection (a)(1), before clause (A), the words "in any manner" are omitted as surplus. The word "conditions" is omitted as included in "terms". In clauses (A) and (B), the word "rule" is omitted as being synonymous with "regulation". In clause (A), the word "begun" is substituted for "instituted or caused to be instituted" for consistency in the revised title and toeliminate unnecessary words. In clause (B), the words before subclause (i) are substituted for "for refusing to operate a vehicle when" and "or because of" for clarity and consistency. In subclause (ii), the words "vehicle's unsafe condition" are substituted for "unsafe condition of such equipment" for consistency.
 
 Subsection (a)(2) is substituted for 49 App.:2305(b) (2d, last sentences) for clarity and to eliminate unnecessary words.
 
@@ -146,13 +146,17 @@ In subsection (c), the words "or aggrieved" and "with respect to which the order
 
 In subsection (d), the text of 49 App.:2305(e) (last sentence) is omitted as unnecessary.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2007</b>—Pub. L. 110–53 amended text of section generally. Prior to amendment, section related to, in subsec. (a), prohibition against discharge or discipline of, or discrimination against, an employee regarding pay, terms, or privileges of employment for certain actions, in subsec. (b), procedures for filing of complaint, in subsec. (c), judicial review and venue, and, in subsec. (d), civil action to enforce an order.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Employee Protections
 
-Pub. L. 105–178, title IV, §4023, June 9, 1998, 112 Stat. 415, provided that: "Not later than 2 years after the date of enactment of this Act \[June 9, 1998\], the Secretary \[of Transportation\], in conjunction with the Secretary of Labor, shall report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on the effectiveness of existing statutory employee protections provided for under section 31105 of title 49, United States Code. The report shall include recommendations to address any statutory changes necessary to strengthen the enforcement of such employee protection provisions."
+Pub. L. 105–178, title IV, §4023, June 9, 1998, 112 Stat. 415, provided that, not later than 2 years after June 9, 1998, the Secretary of Transportation, in conjunction with the Secretary of Labor, was to report to Congress on the effectiveness of existing statutory employee protections under this section, with recommendations to address any statutory changes necessary to strengthen the enforcement of these provisions.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "subsection (b)(1),".</i>
 

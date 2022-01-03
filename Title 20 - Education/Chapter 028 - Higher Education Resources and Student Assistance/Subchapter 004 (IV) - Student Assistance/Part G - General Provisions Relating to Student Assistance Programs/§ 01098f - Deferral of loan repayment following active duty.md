@@ -2,7 +2,7 @@
 
 #### (a) Deferral of loan repayment following active duty
 
-In addition to any deferral of repayment of a loan made under this subchapter pursuant to section 1078(b)(1)(M)(iii), 1087e(f)(2)(C), or 1087dd(c)(2)(A)(iii) of this title, a borrower of a loan under this subchapter who is a member of the National Guard or other reserve component of the Armed Forces of the United States, or a member of such Armed Forces in a retired status, is called or ordered to active duty, and is enrolled, or was enrolled within six months prior to the activation, in a program of instruction at an eligible institution, shall be eligible for a deferment during the 13 months following the conclusion of such service, except that a deferment under this subsection shall expire upon the borrower's return to enrolled student status.
+In addition to any deferral of repayment of a loan made under this subchapter pursuant tosection 1078(b)(1)(M)(iii), 1087e(f)(2)(C), or 1087dd(c)(2)(A)(iii) of this title, a borrower of a loan under this subchapter who is a member of the National Guard or other reserve component of the Armed Forces of the United States, or a member of such Armed Forces in a retired status, is called or ordered to active duty, and is enrolled, or was enrolled within six months prior to the activation, in a program of instruction at an eligible institution, shall be eligible for a deferment during the 13 months following the conclusion of such service, except that a deferment under this subsection shall expire upon the borrower's return to enrolled student status.
 
 #### (b) Active duty
 
@@ -13,6 +13,8 @@ Notwithstanding section 1088(d) of this title, in this section, the term "active
 &emsp;(2) includes, in the case of members of the National Guard, active State duty.
 
 (Pub. L. 89–329, title IV, §493D, as added Pub. L. 110–84, title II, §204, Sept. 27, 2007, 121 Stat. 795.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

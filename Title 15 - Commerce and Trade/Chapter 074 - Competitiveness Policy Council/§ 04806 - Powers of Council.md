@@ -26,7 +26,7 @@ The Council may use the United States mails in the same manner and under the sam
 
 #### (f) Administrative and support services
 
-The Administrator of General Services shall provide to the Council, on a reimbursable basis, such administrative and support services as the Council may request.
+The Administrator of General Services shall provide to the Council, on a reimbursable basis,such administrative and support services as the Council may request.
 
 #### (g) Subcouncils
 
@@ -58,6 +58,8 @@ The provisions of subsections (e) and (f) of section 10,<sup>1</sup> of the Fede
 
 (Pub. L. 100–418, title V, §5207, Aug. 23, 1988, 102 Stat. 1459; Pub. L. 101–382, title I, §133(c), Aug. 20, 1990, 104 Stat. 649.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsecs. (g)(6) and (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -67,6 +69,8 @@ The Federal Advisory Committee Act, referred to in subsecs. (g)(6) and (h), is P
 <b>1990</b>—Subsec. (c). Pub. L. 101–382 redesignated subsec. (d) as (c), and substituted "120" for "60".
 
 Subsecs. (d) to (i). Pub. L. 101–382, §133(c)(1), redesignated subsecs. (e) to (i) as (d) to (h), respectively. Former subsec. (d) redesignated (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

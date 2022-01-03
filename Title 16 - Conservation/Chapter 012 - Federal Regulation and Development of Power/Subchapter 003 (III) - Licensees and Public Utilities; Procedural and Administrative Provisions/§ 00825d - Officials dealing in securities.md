@@ -60,6 +60,8 @@ It shall be unlawful for any officer or director of any public utility to receiv
 
 (June 10, 1920, ch. 285, pt. III, §305, as added Aug. 26, 1935, ch. 687, title II, §213, 49 Stat. 856; amended Pub. L. 95–617, title II, §211(a), Nov. 9, 1978, 92 Stat. 3147; Pub. L. 106–102, title VII, §737, Nov. 12, 1999, 113 Stat. 1479.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Public Utility Holding Company Act of 1935, referred to in subsec. (c)(3)(B), is title I of act Aug. 26, 1935, ch. 687, 49 Stat. 803, as amended, which was classified generally to chapter 2C (§79 et seq.) of Title 15, Commerce and Trade, prior to repeal by Pub. L. 109–58, title XII, §1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
@@ -70,9 +72,11 @@ The Public Utility Holding Company Act of 1935, referred to in subsec. (c)(3)(B)
 
 <b>1978</b>—Subsec. (c). Pub. L. 95–617 added subsec. (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–617, title II, §211(b), Nov. 9, 1978, 92 Stat. 3147, provided that: "No person shall be required to file a statement under section 305(c)(1) of the FederalPower Act \[subsec. (c)(1) of this section\] before April 30 of the second calendar year which begins after the date of the enactment of this Act \[Nov. 9, 1978\] and no public utility shall be required to publish a list under section 305(c)(2) of such Act \[subsec. (c)(2) of this section\] before January 31 of such second calendar year."
+Pub. L. 95–617, title II, §211(b), Nov. 9, 1978, 92 Stat. 3147, provided that: "No person shall be required to file a statement under section 305(c)(1) of the Federal Power Act \[subsec. (c)(1) of this section\] before April 30 of the second calendar year which begins after the date of the enactment of this Act \[Nov. 9, 1978\] and no public utility shall be required to publish a list under section 305(c)(2) of such Act \[subsec. (c)(2) of this section\] before January 31 of such second calendar year."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

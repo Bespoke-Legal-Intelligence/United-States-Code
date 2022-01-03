@@ -142,7 +142,7 @@ For purposes of this section—
 
 #### (C) Bonds used to provide construction financing
 
-&emsp;&emsp;In the case of an issue described in subparagraph (A) any portion of which is usedto make or finance loans for construction expenditures (within the meaning of subsection (f)(4)(C)(iv))—
+&emsp;&emsp;In the case of an issue described in subparagraph (A) any portion of which is used to make or finance loans for construction expenditures (within the meaning of subsection (f)(4)(C)(iv))—
 
 &emsp;&emsp;&emsp;(i) rules similar to the rules of subsection (f)(4)(C)(v) shall apply, and
 
@@ -214,7 +214,7 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 &emsp;&emsp;&emsp;An issue shall, for purposes of this subsection, be treated as meeting the requirements of paragraph (2) if—
 
-&emsp;&emsp;&emsp;&emsp;(I) the gross proceeds of such issue are expended for the governmental purposesfor which the issue was issued no later than the day which is 6 months after the date of issuance of the issue, and
+&emsp;&emsp;&emsp;&emsp;(I) the gross proceeds of such issue are expended for the governmental purposes for which the issue was issued no later than the day which is 6 months after the date of issuance of the issue, and
 
 &emsp;&emsp;&emsp;&emsp;(II) the requirements of paragraph (2) are met with respect to amounts not required to be spent as provided in subclause (I) (other than earnings on amounts in any bona fide debt service fund).
 
@@ -352,7 +352,7 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 &emsp;&emsp;&emsp;&emsp;(IV) the issuer makes an election under this clause before the close of the initial temporary period and not later than 90 days after the date the construction is substantially completed,
 
-&emsp;&emsp;&nbsp;then clauses (vii) and (viii) shall be applied to the available construction proceeds soidentified as if the initial temporary period ended as of the date the election is made.
+&emsp;&emsp;&nbsp;then clauses (vii) and (viii) shall be applied to the available construction proceeds so identified as if the initial temporary period ended as of the date the election is made.
 
 #### (x) Failure to pay penalties
 
@@ -382,7 +382,7 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Except as provided in this clause, clause (vii)(II), and the last sentence of clause (x), this subparagraph shall not apply to any refunding bond and no proceeds of a refunded bond shall be treated for purposes of this subparagraph as proceeds of a refunding bond.
+&emsp;&emsp;&emsp;&emsp;Except as provided in this clause, clause (vii)(II), and the last sentence ofclause (x), this subparagraph shall not apply to any refunding bond and no proceeds of a refunded bond shall be treated for purposes of this subparagraph as proceeds of a refunding bond.
 
 #### (II) Determination of construction portion of issue
 
@@ -452,7 +452,7 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 &emsp;&emsp;&emsp;&emsp;(III) the average maturity date of the refunding bonds issued as part of such issue is not later than the average maturity date of the bonds to be refunded by such issue, and
 
-&emsp;&emsp;&emsp;&emsp;(IV) no refunding bond has a maturity date which is later than the date which is 30 years after the date the original bond was issued.
+&emsp;&emsp;&emsp;&emsp;(IV) no refunding bond has a maturity date which is later than the date whichis 30 years after the date the original bond was issued.
 
 &emsp;&emsp;&nbsp;Subclause (III) shall not apply if the average maturity of the issue of which the original bond was a part (and of the issue of which the bonds to be refunded are a part) is 3 years or less. For purposes of this clause, average maturity shall be determined in accordance with section 147(b)(2)(A).
 
@@ -524,11 +524,13 @@ For purposes of this section, the yield on an issue shall be determined on the b
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
-(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2641; amended Pub. L. 100–647, title I, §1013(a)(14)–(16)(A), (17)(A), (B), (18), (19), (43)(A), (B), title IV, §4005(d)(2), title V, §5053(b), title VI, §§6177(a), (b), 6181(a), (b), 6183(a), Nov. 10, 1988, 102 Stat. 3539, 3540, 3542, 3545, 3646, 3678, 3726, 3727, 3729; Pub. L. 101–239, title VII, §§7652(a)–(d), 7814(c)(2), 7816(r), (t), Dec. 19, 1989, 103 Stat. 2385–2387, 2413, 2423; Pub. L. 101–508, title XI, §11701(j)(1)–(6), Nov. 5, 1990, 104 Stat. 1388–508 to 1388–513; Pub. L. 105–34, title II, §223(a), title XIV, §§1441–1444, Aug. 5, 1997, 111 Stat. 818, 1053, 1054; Pub. L. 107–16, title IV, §421(a), June 7, 2001, 115 Stat. 64; Pub. L. 109–58, title XIII, §1327(a), Aug. 8, 2005, 119 Stat. 1017; Pub. L. 109–222, title V, §508(c), May 17, 2006, 120 Stat. 362; Pub. L. 115–97, title I, §13532(b)(2), Dec. 22, 2017, 131 Stat. 2154.)
+(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2641; amended Pub. L. 100–647, title I, §1013(a)(14)–(16)(A), (17)(A), (B), (18), (19), (43)(A), (B), title IV, §4005(d)(2), title V, §5053(b), title VI, §§6177(a), (b), 6181(a), (b), 6183(a), Nov. 10, 1988, 102 Stat. 3539, 3540, 3542, 3545, 3646, 3678, 3726, 3727, 3729; Pub. L. 101–239, title VII, §§7652(a)–(d), 7814(c)(2), 7816(r), (t), Dec. 19, 1989, 103 Stat. 2385–2387, 2413, 2423; Pub. L. 101–508, title XI, §11701(j)(1)–(6), Nov. 5, 1990, 104 Stat. 1388–508 to 1388–513; Pub. L. 105–34, title II, §223(a), title XIV, §§1441–1444, Aug. 5, 1997, 111 Stat. 818, 1053, 1054; Pub. L. 107–16, title IV, §421(a), June 7, 2001, 115 Stat. 64; Pub. L. 109–58, title XIII, §1327(a), Aug. 8, 2005, 119 Stat. 1017;Pub. L. 109–222, title V, §508(c), May 17, 2006, 120 Stat. 362; Pub. L. 115–97, title I, §13532(b)(2), Dec. 22, 2017, 131 Stat. 2154.)
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -602,7 +604,7 @@ Subsec. (f)(4)(A). Pub. L. 100–647, §6181(a), (b), struck out "unless the iss
 
 Subsec. (f)(4)(B)(iii)(I). Pub. L. 100–647, §1013(a)(16)(A), substituted "proceeds" for "aggregate face amount".
 
-Subsec. (f)(4)(B)(iii)(III). Pub. L. 100–647, §6177(a), substituted "the earlier of the date 6 months after such date of issuance." for "the earliest of the maturity date of the issue, the date 6 months after such date of issuance,".
+Subsec. (f)(4)(B)(iii)(III). Pub. L. 100–647, §6177(a), substituted "the earlier of the date 6 months after suchdate of issuance." for "the earliest of the maturity date of the issue, the date 6 months after such date of issuance,".
 
 Subsec. (f)(4)(C). Pub. L. 100–647, §1013(a)(17)(A), in heading substituted "governmental units issuing $5,000,000 or less of bonds" for "small governmental units", designated existing provision as cl. (i), inserted heading "In general", redesignated existing cls. (i) to (iv) as subcls. (I) to (IV) and realigned their margins, struck out last sentence providing that cl. (iv) not take into account any bond which is not outstanding at the time of a later issue or which is redeemed, other than in an advance refunding, from the net proceeds of the later issue, and added cls. (ii) to (vi).
 
@@ -613,6 +615,8 @@ Subsec. (f)(4)(C)(ii). Pub. L. 100–647, §6183(a), added subcl. (II) and redes
 Subsec. (f)(4)(D)(i). Pub. L. 100–647, §1013(a)(18), inserted "for a program" before "described in section 144(b)(1)(A)" in introductory text, substituted "such program" for "such a program" in subcl. (I), and inserted at end "Amounts designated as interest on student loans shall not be taken into account in determining whether the issuer is reimbursed for such costs. Except as otherwise hereafter provided in regulations prescribed by the Secretary, costs described in subclause (I) paid from amounts earned as described in the first sentence of this clause may also be taken into account in determining the yield on the student loans under a program described in section 144(b)(1)(A)."
 
 Subsec. (f)(7)(B). Pub. L. 100–647, §1013(a)(19), substituted "not due" for "due to reasonable cause and not".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 
@@ -644,7 +648,7 @@ Pub. L. 101–508, title XI, §11701(j)(8), Nov. 5, 1990, 104 Stat. 1388–513, 
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–239, title VII, §7652(e), Dec. 19, 1989, 103 Stat. 2387, provided that: "The amendments made bythis section \[amending this section\] shall apply to bonds issued after the date of the enactment of this Act \[Dec. 19, 1989\]."
+Pub. L. 101–239, title VII, §7652(e), Dec. 19, 1989, 103 Stat. 2387, provided that: "The amendments made by this section \[amending this section\] shall apply to bonds issued after the date of the enactment of this Act \[Dec. 19, 1989\]."
 
 Amendment by sections 7814(c)(2) and 7816(r), (t) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
@@ -680,7 +684,7 @@ Election for outstanding bonds.—Any issue of bonds other than private activity
 
 "(3)
 
-Definition of private activity bond.—For purposes of this section and the last sentence of section 148(f)(4)(A) of the 1986 Code (as added by subsection (b)), the term 'private activity bond' shall include any qualified 501(c)(3) bond (as defined under section 145 of the 1986 Code)."
+Definition of private activity bond.—For purposes of this section and the last sentence of section 148(f)(4)(A) of the 1986 Code (as added by subsection (b)),the term 'private activity bond' shall include any qualified 501(c)(3) bond (as defined under section 145 of the 1986 Code)."
 
 Pub. L. 100–647, title VI, §6183(b), Nov. 10, 1988, 102 Stat. 3730, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to bonds issued after December 31, 1988."
 

@@ -154,6 +154,8 @@ As used in this section:
 
 (Pub. L. 90–247, title IV, §429, as added Pub. L. 103–382, title II, §238, Oct. 20, 1994, 108 Stat. 3918; amended Pub. L. 105–244, title I, §102(a)(6)(C), Oct. 7, 1998, 112 Stat. 1618; Pub. L. 114–95, title IX, §9215(mm)(3), Dec. 10, 2015, 129 Stat. 2176.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 429 of Pub. L. 90–247 was classified to section 1231f of this title prior to repeal by Pub. L. 103–382.
@@ -163,6 +165,8 @@ A prior section 429 of Pub. L. 90–247 was classified to section 1231f of this 
 <b>2015</b>—Subsec. (d)(2)(B)(i). Pub. L. 114–95 substituted "an elementary or secondary school (as defined by the terms 'elementary school' and 'secondary school' in section 7801 of this title)" for "an elementary or secondary school as defined by the Elementary and Secondary Education Act of 1965".
 
 <b>1998</b>—Subsec. (d)(2)(B)(ii). Pub. L. 105–244 substituted "section 1001" for "section 1141(a)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

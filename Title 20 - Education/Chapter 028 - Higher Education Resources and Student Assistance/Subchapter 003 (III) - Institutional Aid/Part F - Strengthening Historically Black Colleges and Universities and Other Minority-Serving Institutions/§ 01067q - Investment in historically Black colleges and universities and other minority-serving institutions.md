@@ -24,7 +24,7 @@ An institution of higher education is eligible to receive funds from the amounts
 
 #### (A) Provision of funds
 
-&emsp;&emsp;There shall be available to the Secretary to carry out this section, from funds in theTreasury not otherwise appropriated, $255,000,000 for fiscal year 2020 and each fiscal year thereafter.
+&emsp;&emsp;There shall be available to the Secretary to carry out this section, from funds in the Treasury not otherwise appropriated, $255,000,000 for fiscal year 2020 and each fiscal year thereafter.
 
 #### (B) Availability
 
@@ -96,7 +96,7 @@ An institution of higher education is eligible to receive funds from the amounts
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(ee) the purchase of library books, periodicals, microfilm, and other educational materials;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(ff) funds and administrative management, and acquisition of equipmentfor use in strengthening funds management;
+&emsp;&emsp;&emsp;&emsp;&emsp;(ff) funds and administrative management, and acquisition of equipment for use in strengthening funds management;
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(gg) the joint use of facilities such as laboratories and libraries; and
 
@@ -108,7 +108,7 @@ An institution of higher education is eligible to receive funds from the amounts
 
 #### (1) Asian American
 
-&emsp;The term "Asian American" has the meaning given the term "Asian" in the Office of Management and Budget's Standards for Maintaining, Collecting, and Presenting Federal Data on Race and Ethnicity as published on October 30, 1997 (62 Fed. Reg. 58789).
+&emsp;The term "Asian American" has the meaning given the term "Asian" in the Office of Management and Budget's Standards forMaintaining, Collecting, and Presenting Federal Data on Race and Ethnicity as published on October 30, 1997 (62 Fed. Reg. 58789).
 
 #### (2) Asian American and Native American Pacific Islander-serving institution
 
@@ -180,7 +180,7 @@ An institution of higher education is eligible to receive funds from the amounts
 
 &emsp;&emsp;&emsp;(iv) of which not less than 50 percent of the undergraduate students are enrolled in an educational program leading to a bachelor's or associate's degree that the institution is licensed to award by the State in which the institution is located;
 
-&emsp;&emsp;(D) is legally authorized to provide, and provides within the State, an educational program for which the institution of higher education awards a bachelor's degree, or in the case of a junior or community college, an associate's degree;
+&emsp;&emsp;(D) is legally authorized to provide, and provides within the State, an educational program for which the institution of highereducation awards a bachelor's degree, or in the case of a junior or community college, an associate's degree;
 
 &emsp;&emsp;(E) is accredited by a nationally recognized accrediting agency or association determined by the Secretary to be a reliable authority as to the quality of training offered, or is, according to such an agency or association, making reasonable progress toward accreditation; and
 
@@ -193,6 +193,8 @@ An institution of higher education is eligible to receive funds from the amounts
 &emsp;&emsp;&emsp;(iii) an annual authorization of appropriations under the Act of March 2, 1867 (14 Stat. 438; 20 U.S.C. 123).
 
 (Pub. L. 89–329, title III, §371, formerly title IV, §499A, as added Pub. L. 110–84, title VIII, §802, Sept. 27, 2007, 121 Stat. 817; renumbered title III, §371, and amended Pub. L. 110–315, title III, §316(a)(3), (b), (c), Aug. 14, 2008, 122 Stat. 3185; Pub. L. 111–39, title III, §301(7), July 1, 2009, 123 Stat. 1937; Pub. L. 111–152, title II, §2103, Mar. 30, 2010, 124 Stat. 1074; Pub. L. 116–91, §2, Dec. 19, 2019, 133 Stat. 1189.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -219,6 +221,8 @@ Subsec. (c)(9)(F). Pub. L. 111–39, §301(7)(C)(ii), amended subpar. (F) genera
 Subsec. (b)(2)(C)(i). Pub. L. 110–315, §316(b)(1), substituted "this subchapter" for "subchapter III" in two places.
 
 Subsec. (c)(9)(F). Pub. L. 110–315, §316(b)(2), substituted "this subchapter" for "subchapter III".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

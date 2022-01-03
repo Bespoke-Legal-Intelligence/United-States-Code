@@ -16,7 +16,7 @@ Nothing in this chapter shall create or preclude a right of any religious organi
 
 Nothing in this chapter shall—
 
-&emsp;(1) authorize a government to regulate or affect, directly or indirectly, the activities or policies of a person other than a governmentas a condition of receiving funding or other assistance; or
+&emsp;(1) authorize a government to regulate or affect, directly or indirectly, the activities or policies of a person other than a government as a condition of receiving funding or other assistance; or
 
 &emsp;(2) restrict any authority that may exist under other law to so regulate or affect, except as provided in this chapter.
 
@@ -38,9 +38,11 @@ Nothing in this chapter shall be construed to preempt State law, or repeal Feder
 
 #### (i) Severability
 
-If any provision of this chapter or of an amendment made by this chapter, or any application of such provision to any person or circumstance, is held to be unconstitutional, the remainder of this chapter, the amendments made by this chapter, and the application of the provision to any other person or circumstance shall not be affected.
+If any provision of this chapter or of an amendment made by this chapter, or any application of such provision to any person or circumstance, is held to be unconstitutional, the remainder of this chapter, the amendments made by this chapter, and the application of theprovision to any other person or circumstance shall not be affected.
 
 (Pub. L. 106–274, §5, Sept. 22, 2000, 114 Stat. 805.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

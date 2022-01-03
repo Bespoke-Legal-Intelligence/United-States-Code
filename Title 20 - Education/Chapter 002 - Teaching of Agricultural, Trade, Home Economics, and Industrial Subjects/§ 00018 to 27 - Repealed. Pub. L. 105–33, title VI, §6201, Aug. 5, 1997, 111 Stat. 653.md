@@ -8,7 +8,7 @@ Section 20, acts Feb. 23, 1917, ch. 114, §10, 39 Stat. 934; Ex. Ord. No. 6166, 
 
 Section 21, acts Feb. 23, 1917, ch. 114, §11, 39 Stat. 934; Ex. Ord. No. 6166, §15, June 10, 1933; 1939 Reorg. Plan No. I, §§201, 204, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Oct. 17, 1979, Pub. L. 96–88, title III, §301, title V, §507, 93 Stat. 677, 692, related to State use of appropriations for salaries of teachers of trade, home economics, and industrial subjects under an approved plan of supervision for the State.
 
-Section 22, acts Feb. 23, 1917, ch. 114, §12, 39 Stat. 935; Ex. Ord. No. 6166, §15, June 10, 1933; 1939 Reorg. Plan No. I, §§201, 204, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Oct. 17, 1979, Pub. L. 96–88, title III,§301, title V, §507, 93 Stat. 677, 692, related to additional requirements for State plan of supervision in order for State to use appropriations under this chapter.
+Section 22, acts Feb. 23, 1917, ch. 114, §12, 39 Stat. 935; Ex. Ord. No. 6166, §15, June 10, 1933; 1939 Reorg. Plan No. I, §§201, 204, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Oct. 17, 1979, Pub. L. 96–88, title III, §301, title V, §507, 93 Stat. 677, 692, related to additional requirements for State plan of supervision in order for State to use appropriations under this chapter.
 
 Section 23, act Feb. 23, 1917, ch. 114, §13, 39 Stat. 935, related to State custodians of funds appropriated under this chapter.
 

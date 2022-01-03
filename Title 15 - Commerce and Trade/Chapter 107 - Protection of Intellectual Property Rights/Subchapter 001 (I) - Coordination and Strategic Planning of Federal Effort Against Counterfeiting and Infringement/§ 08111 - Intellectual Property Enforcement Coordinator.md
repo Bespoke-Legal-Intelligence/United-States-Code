@@ -62,9 +62,13 @@ The President shall appoint, by and with the advice and consent of the Senate, a
 
 (Pub. L. 110–403, title III, §301, Oct. 13, 2008, 122 Stat. 4264.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This subchapter, referred to in subsec. (a), was in the original "this title", meaning title III of Pub. L. 110–403, Oct. 13, 2008, 122 Stat. 4264, which is classified principally to this subchapter. For complete classification of title III to the Code, see Tables.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13565. Establishment of the Intellectual Property Enforcement Advisory Committees
 
@@ -132,7 +136,7 @@ Pursuant to the PRO IP Act (15 U.S.C. 8111), the Coordinator shall also invite t
 
 (c) <i>Mission and Functions</i>.
 
-(i) Consistent with the authorities assigned to the Coordinator and the Enforcement Advisory Committee, and other applicable law, the Enforcement Advisory Committee shall develop each Joint Strategic Plan as provided for in title III of the PRO IP Act. In the development and implementation of the Joint Strategic Plan, the heads of the departments and agencies identified in section 2(b) of this order shall share with the Coordinator and the other members of the Enforcement Advisory Committee relevant department or agency information, to the extent permitted by law, including requirements relating to confidentiality and privacy, and to the extent that such sharing of information is consistent with law enforcement protocols for handling such information. Such information shall include:
+(i) Consistent with the authorities assigned to the Coordinator and the Enforcement Advisory Committee,and other applicable law, the Enforcement Advisory Committee shall develop each Joint Strategic Plan as provided for in title III of the PRO IP Act. In the development and implementation of the Joint Strategic Plan, the heads of the departments and agencies identified in section 2(b) of this order shall share with the Coordinator and the other members of the Enforcement Advisory Committee relevant department or agency information, to the extent permitted by law, including requirements relating to confidentiality and privacy, and to the extent that such sharing of information is consistent with law enforcement protocols for handling such information. Such information shall include:
 
 &emsp;(A) plans for addressing the Joint Strategic Plan;
 

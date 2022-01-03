@@ -6,7 +6,7 @@
 
 (c)(1) An individual's period of entitlement to educational assistance under this chapter shall be charged only with respect to the amount of tutorial assistance paid to the individual under this section in excess of $600.
 
-(2) An individual's period of entitlement to educational assistance under this chapter shall be charged at the rate of one month for each amount of assistance paid to the individual under this section in excess of $600 that is equal to the amount of the monthly educational assistance allowance which the individual is otherwise eligible to receive for full-time pursuit of an institutional course under this chapter.
+(2) An individual's period of entitlement to educational assistance under this chapter shallbe charged at the rate of one month for each amount of assistance paid to the individual under this section in excess of $600 that is equal to the amount of the monthly educational assistance allowance which the individual is otherwise eligible to receive for full-time pursuit of an institutional course under this chapter.
 
 (Added Pub. L. 100–689, title I, §107(a)(1), Nov. 18, 1988, 102 Stat. 4167, §1419; renumbered §3019 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
 

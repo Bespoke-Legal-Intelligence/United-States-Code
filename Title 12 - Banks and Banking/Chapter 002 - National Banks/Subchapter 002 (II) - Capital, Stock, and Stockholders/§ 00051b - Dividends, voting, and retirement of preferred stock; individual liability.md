@@ -14,7 +14,7 @@
 
 <b>1933</b>—Subsec. (a). Act June 15, 1933, struck out former subsec. (a) and inserted a new subsec. (a) which incorporated all former provisions and inserted "Notwithstanding any other provision of law, whether relating to restriction upon the payment of dividends upon capital stock or otherwise" and "and conversion rights," in first sentence.
 
-#### <b>Statutory Notes and Related Subsidiaries</b>
+#### <b>Executive Documents</b>
 
 #### Exception as to Transfer of Functions
 

@@ -4,11 +4,13 @@
 
 &emsp;(1) in order to provide the flood insurance coverage authorized under subchapter I; and
 
-&emsp;(2) for the purpose of assuming, including as reinsurance of coverage provided by the flood insurance program, on such terms and conditions as may be agreed upon, such financial responsibility as will enable such companies and other insurers, with the Federal financial and other assistance available under this chapter, to assume a reasonable proportion of responsibility for the adjustment and payment of claims for losses under the flood insurance program.
+&emsp;(2) for the purpose of assuming, including as reinsurance of coverage provided by the floodinsurance program, on such terms and conditions as may be agreed upon, such financial responsibility as will enable such companies and other insurers, with the Federal financial and other assistance available under this chapter, to assume a reasonable proportion of responsibility for the adjustment and payment of claims for losses under the flood insurance program.
 
 (b) In order to promote the effective administration of the flood insurance program under this part, and to assure that the objectives of this chapter are furthered, the Administrator is authorized to prescribe appropriate requirements for insurance companies and other insurers participating in such pool including, but not limited to, minimum requirements for capital or surplus or assets.
 
 (Pub. L. 90–448, title XIII, §1331, Aug. 1, 1968, 82 Stat. 582; Pub. L. 98–181, title I \[title IV, §451(d)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 112–141, div. F, title II, §§100232(d)(1), 100238(b)(1), July 6, 2012, 126 Stat. 954, 958.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -23,6 +25,8 @@ Subsec. (a)(2). Pub. L. 112–141, §100232(d)(1), inserted ", including as rei
 Subsec. (b). Pub. L. 112–141, §100238(b)(1), substituted "Administrator" for "Director".
 
 <b>1983</b>—Pub. L. 98–181 substituted "Director" for "Secretary" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

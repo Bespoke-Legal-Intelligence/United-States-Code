@@ -20,7 +20,7 @@ All surplus chimpanzees owned by the Federal Government shall be accepted into t
 
 #### (2) Chimpanzees accepted into system
 
-&emsp;With respect to chimpanzees that are accepted into the sanctuary system, standards under paragraph (1) shall include the following:
+&emsp;With respect to chimpanzees that are accepted into the sanctuary system, standardsunder paragraph (1) shall include the following:
 
 &emsp;&emsp;(A) A prohibition that the chimpanzees may not be used for research, except as authorized under paragraph (3).
 
@@ -148,7 +148,7 @@ All surplus chimpanzees owned by the Federal Government shall be accepted into t
 
 #### (5) Establishment of contract entity
 
-&emsp;If the Secretary determines that an entity meeting the requirements of paragraph (2) does not exist, not later than 60 days after December 20, 2000, the Secretary shall, for purposes of paragraph (1), make a grant for the establishment of such an entity, including paying the cost of incorporating the entity under the law of one of the States.
+&emsp;If the Secretary determines that an entity meeting the requirements of paragraph (2)does not exist, not later than 60 days after December 20, 2000, the Secretary shall, for purposes of paragraph (1), make a grant for the establishment of such an entity, including paying the cost of incorporating the entity under the law of one of the States.
 
 #### (f) Definitions
 
@@ -202,6 +202,8 @@ For purposes of this section:
 
 (July 1, 1944, ch. 373, title IV, §404K, formerly §481C, as added Pub. L. 106–551, §2, Dec. 20, 2000, 114 Stat. 2752; amended Pub. L. 110–170, §2(a), Dec. 26, 2007, 121 Stat. 2465; renumbered §404K and amended Pub. L. 112–74, div. F, title II, §221(b)(3), Dec. 23, 2011, 125 Stat. 1088; Pub. L. 113–55, title III, §302(a), (c), Nov. 27, 2013, 127 Stat. 646, 647.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Animal Welfare Act, referred to in subsecs. (d)(2)(D), (3)(B) and (e)(3)(A)(ix), is Pub. L. 89–544, Aug. 24, 1966, 80 Stat. 350, as amended, which is classified generally to chapter 54 (§2131 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2131 of Title 7 and Tables.
@@ -220,7 +222,7 @@ November 27, 2013, referred to in subsec. (g)(3), was in the original "the date 
 
 Subsec. (g)(2). Pub. L. 113–55, §302(a)(4), substituted "With respect to amounts authorized to be appropriated by paragraph (1)" for "With respect to amounts reserved under paragraph (1)" and "Secretary in consultation with the board of directors" for "board of directors".
 
-Pub. L. 113–55, §302(a)(2), (3), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: "Funds may not be reserved for a fiscal year under paragraph (1) unless the amount appropriated under this chapter for such year equals or exceeds the amount appropriated under this chapter for fiscal year 1999."
+Pub. L. 113–55, §302(a)(2), (3), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment,text of par. (2) read as follows: "Funds may not be reserved for a fiscal year under paragraph (1) unless the amount appropriated under this chapter for such year equals or exceeds the amount appropriated under this chapter for fiscal year 1999."
 
 Subsec. (g)(3). Pub. L. 113–55, §302(c), added par. (3). Former par. (3) redesignated (2).
 
@@ -237,6 +239,8 @@ Subsec. (d)(3)(A). Pub. L. 110–170, §2(a)(2)(A), substituted "except that the
 > and struck out cl. (ii) which related to findings necessary before a chimpanzee may be used in research.
 
 Subsec. (d)(3)(B), (C). Pub. L. 110–170, §2(a)(2)(B)–(D), redesignated subpar. (C) as (B), substituted "under subparagraph (A)" for "under subparagraphs (A) and (B)", and struck out former subpar. (B) which related to approval of research design.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Report to Congress Regarding Number of Chimpanzees and Funding for Care of Chimpanzees
 

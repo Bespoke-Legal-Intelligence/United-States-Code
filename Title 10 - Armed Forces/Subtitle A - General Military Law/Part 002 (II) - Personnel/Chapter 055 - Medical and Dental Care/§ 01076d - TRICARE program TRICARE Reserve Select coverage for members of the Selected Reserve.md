@@ -2,7 +2,7 @@
 
 (a)
 
-Eligibility.—(1) Except as provided in paragraph (2), a member of the Selected Reserve of the Ready Reserve of a reserve component of the armed forces is eligible for health benefits under TRICARE Reserve Select as provided in this section.
+Eligibility.—(1) Except as provided in paragraph (2), a member of the Selected Reserve of the Ready Reserve of a reserve component ofthe armed forces is eligible for health benefits under TRICARE Reserve Select as provided in this section.
 
 (2) During the period preceding January 1, 2030, paragraph (1) does not apply to a member who is enrolled, or is eligible to enroll, in a health benefits plan under chapter 89 of title 5.
 
@@ -10,7 +10,7 @@ Eligibility.—(1) Except as provided in paragraph (2), a member of the Selected
 
 Termination of Eligibility Upon Termination of Service.—(1) Except as provided in paragraph (2), eligibility for TRICARE Reserve Select coverage of a member under this section shall terminate upon the termination of the member's service in the Selected Reserve.
 
-(2) During the period beginning on the date of the enactment of this paragraph and ending December 31, 2018, eligibility for a member under this section who is involuntarily separated from the Selected Reserve under other than adverse conditions, as characterized by the Secretaryconcerned, shall terminate 180 days after the date on which the member is separated.
+(2) During the period beginning on the date of the enactment of this paragraph and ending December 31, 2018, eligibility for a member under this section who is involuntarily separated from the Selected Reserve under other than adverse conditions, as characterized by the Secretary concerned, shall terminate 180 days after the date on which the member is separated.
 
 (c)
 
@@ -48,6 +48,8 @@ Definitions.—In this section:
 
 (Added Pub. L. 108–375, div. A, title VII, §701(a)(1), Oct. 28, 2004, 118 Stat. 1980; amended Pub. L. 109–163, div. A, title VII, §701(a)–(f)(1), Jan. 6, 2006, 119 Stat. 3339, 3340; Pub. L. 109–364, div. A, title VII, §§704(c), 706(a)–(c), Oct. 17, 2006, 120 Stat. 2280, 2282; Pub. L. 110–181, div. A, title VII, §701(c), Jan. 28, 2008, 122 Stat. 188; Pub. L. 110–417, \[div. A\], title VII, §704(a), Oct. 14, 2008, 122 Stat. 4498; Pub. L. 111–84, div. A, title X, §1073(a)(11), Oct. 28, 2009, 123 Stat. 2473; Pub. L. 112–239, div. A, title VII, §701(a), Jan. 2, 2013, 126 Stat. 1798; Pub. L. 114–328, div. A, title VII, §701(j)(1)(B), Dec. 23, 2016, 130 Stat. 2192; Pub. L. 115–91, div. A, title VII, §701(a), Dec. 12, 2017, 131 Stat. 1432; Pub. L. 116–92, div. A, title VII, §701, title XVII, §1731(a)(24), Dec. 20, 2019, 133 Stat. 1436, 1813.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this paragraph, referred to in subsec. (b)(2), probably means the date of enactment of Pub. L. 112–239, which was approved Jan. 2, 2013.
@@ -74,7 +76,7 @@ Subsec. (f)(2). Pub. L. 114–328, §701(j)(1)(B)(ii), added par. (2) and struck
 
 Pub. L. 110–181 substituted "September 30, 2008" for "September 30, 2007".
 
-<b>2006</b>—Pub. L. 109–364, §706(c)(2), substituted "TRICARE standard coverage for members of the Selected Reserve" for "coverage for members of reservecomponents who commit to continued service in the Selected Reserve after release from active duty in support of a contingency operation" in section catchline.
+<b>2006</b>—Pub. L. 109–364, §706(c)(2), substituted "TRICARE standard coverage for members of the Selected Reserve" for "coverage for members of reserve components who commit to continued service in the Selected Reserve after release from active duty in support of a contingency operation" in section catchline.
 
 Pub. L. 109–163, §701(f)(1), substituted "active duty in support of a contingency operation" for "active duty" in section catchline.
 
@@ -107,6 +109,8 @@ Subsec. (f)(3). Pub. L. 109–364, §706(c)(1)(C), struck out par. (3) which rea
 Pub. L. 109–163, §701(a)(3), added par. (3).
 
 Subsec. (g). Pub. L. 109–364, §706(c)(1)(B), redesignated subsec. (g) as (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2016 Amendment
 
@@ -286,7 +290,7 @@ Contracting.—
 
 In general.—In contracting for health benefits plans under paragraph (4), the Director may contract with qualified carriers in a manner similar to the manner in which the Director contracts with carriers under section 8902 of title 5, United States Code, including that—
 
-&emsp;&emsp;&emsp;"(i) a contract under this subsection shall be for a uniform term of not less than one year, but may be made automatically renewable from term to term in the absence of notice of termination by either party;
+&emsp;&emsp;&emsp;"(i) a contract under this subsection shall be for a uniform term of not less than one year, but maybe made automatically renewable from term to term in the absence of notice of termination by either party;
 
 &emsp;&emsp;&emsp;"(ii) a contract under this subsection shall contain a detailed statement of benefits offered and shall include such maximums, limitations, exclusions, and other definitions of benefits determined by the Director in accordance with paragraph (5);
 
@@ -400,7 +404,7 @@ Pub. L. 110–417, \[div. A\], title VII, §704(b), Oct. 14, 2008, 122 Stat. 449
 
 Pub. L. 108–375, div. A, title VII, §701(b), Oct. 28, 2004, 118 Stat. 1981, provided that:
 
-"(1) The Secretary of Defense shall implement section 1076d of title 10, United States Code, not later than 180 days after the date of the enactment of this Act \[Oct. 28, 2004\].
+"(1) The Secretary of Defense shall implement section 1076d of title 10, United States Code, not later than180 days after the date of the enactment of this Act \[Oct. 28, 2004\].
 
 "(2)(A) A member of a reserve component of the Armed Forces who performed active-duty service described in subsection (a) of section 1076d of title 10, United States Code, for a period beginning on or after September 11, 2001, and was released from that active-duty service before the date of the enactment of this Act, or is released from that active-duty service on or within 180 days after the date of the enactment of this Act, may, for the purpose of paragraph (2) of such subsection, enter into an agreement described in such paragraph not later than one year after the date of the enactment of this Act. TRICARE Standard coverage (under such section 1076d) of a member who enters into such an agreement under this paragraph shall begin on the later of—
 

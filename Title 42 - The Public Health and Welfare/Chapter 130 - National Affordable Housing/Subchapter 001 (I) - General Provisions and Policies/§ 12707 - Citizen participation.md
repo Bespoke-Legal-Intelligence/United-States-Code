@@ -18,7 +18,7 @@ Before submitting any performance report or substantial amendment to a housing s
 
 #### (c) Consideration of comments
 
-A participating jurisdiction shall consider any comments or views of citizens in preparing afinal housing strategy, amendment to a housing strategy or performance report for submission. A summary of such comments or views shall be attached when a housing strategy, amendment to a housing strategy or performance report is submitted. The submitted housing strategy, amendment, or report shall be made available to the public.
+A participating jurisdiction shall consider any comments or views of citizens in preparing a final housing strategy, amendment to a housing strategy or performance report for submission. A summary of such comments or views shall be attached when a housing strategy, amendment to a housing strategy or performance report is submitted. The submitted housing strategy, amendment, or report shall be made available to the public.
 
 #### (d) Regulations
 

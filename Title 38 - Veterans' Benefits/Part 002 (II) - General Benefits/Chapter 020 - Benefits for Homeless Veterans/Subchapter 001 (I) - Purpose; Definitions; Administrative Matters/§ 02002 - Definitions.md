@@ -10,7 +10,7 @@ In General.—In this chapter:
 
 (b)
 
-Veteran Defined.—(1) Notwithstanding section 101(2) of this title and except as provided in paragraph (2), for purposes of sections 2011, 2012, 2013, 2044, and 2061 of this title, the term"veteran" means a person who served in the active military, naval, air, or space service, regardless of length of service, and who was discharged or released therefrom.
+Veteran Defined.—(1) Notwithstanding section 101(2) of this title and except as provided in paragraph (2), for purposes of sections 2011, 2012, 2013, 2044, and 2061 of this title, the term "veteran" means a person who served in the active military, naval, air, or space service, regardless of length of service, and who was discharged or released therefrom.
 
 (2) For purposes of paragraph (1), the term "veteran" excludes a person who—
 

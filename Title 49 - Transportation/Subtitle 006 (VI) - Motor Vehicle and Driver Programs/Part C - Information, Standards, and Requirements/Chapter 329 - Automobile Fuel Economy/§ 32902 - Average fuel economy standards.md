@@ -10,7 +10,7 @@ Standards for Automobiles and Certain Other Vehicles.—
 
 &emsp;(1)
 
-In general.—The Secretary of Transportation, after consultation with the Secretaryof Energy and the Administrator of the Environmental Protection Agency, shall prescribe separate average fuel economy standards for—
+In general.—The Secretary of Transportation, after consultation with the Secretary of Energy and the Administrator of the Environmental Protection Agency, shall prescribe separate average fuel economy standards for—
 
 &emsp;&emsp;(A) passenger automobiles manufactured by manufacturers in each model year beginning with model year 2011 in accordance with this subsection;
 
@@ -48,7 +48,7 @@ Minimum standard.—In addition to any standard prescribed pursuant to paragraph
 
 &emsp;&emsp;(A) 27.5 miles per gallon; or
 
-&emsp;&emsp;(B) 92 percent of the average fuel economy projected by the Secretary for the combined domestic and non-domestic passenger automobile fleets manufactured for sale in the United States by all manufacturers in the model year, which projection shall be published in the Federal Register when the standard for that model year is promulgated in accordance with this section.
+&emsp;&emsp;(B) 92 percent of the average fuel economy projected by the Secretary for the combined domestic and non-domestic passenger automobile fleets manufactured for sale in theUnited States by all manufacturers in the model year, which projection shall be published in the Federal Register when the standard for that model year is promulgated in accordance with this section.
 
 (c)
 
@@ -224,7 +224,7 @@ In subsection (c)(1), the words "Subject to paragraph (2) of this subsection" ar
 
 In subsection (c)(2), the words "If an amendment increases the standard . . . or decreases the standard" are substituted for "except that any amendment that has the effect of increasing . . . a standard . . ., or of decreasing . . . a standard" to eliminate unnecessary words. The words "For purposes of considering any modification which is submitted to the Congress under paragraph (4)" are omitted as surplus. The words "are deemed to be" are substituted for "shall be lengthened to" for clarity and consistency.
 
-In subsection (d)(1), before clause (A), the words "Except as provided in paragraph (3) of this subsection" are added because of the restatement. The words "in the model year 2 years before" are substituted for "in the second model year preceding" for clarity. The words "The Secretary may exempt a manufacturer only if the Secretary" are substituted for "Such exemption may only be granted if the Secretary" and "The Secretary may not issue exemptions with respect to a model year unless he" to eliminate unnecessary words. The words "each such standard shall be set at a level which" are omitted as surplus.
+In subsection (d)(1), before clause (A), the words "Except as provided in paragraph (3) of this subsection" are added because of the restatement. The words "in the model year 2 years before" are substituted for "in the second model year preceding" for clarity. The words"The Secretary may exempt a manufacturer only if the Secretary" are substituted for "Such exemption may only be granted if the Secretary" and "The Secretary may not issue exemptions with respect to a model year unless he" to eliminate unnecessary words. The words "each such standard shall be set at a level which" are omitted as surplus.
 
 In subsection (d)(3), before clause (A), the words "Notwithstanding paragraph (1) of this subsection" are substituted for "Notwithstanding any provision of law authorizing exemptions from energy conservation requirements for manufacturers of fewer than 10,000 motor vehicles" to eliminate unnecessary words. In clause (B), the word "compliance" is substituted for "conformity" for consistency with chapter 301 of the revised title. The words "prescribed under chapter 301 of this title" are substituted for "Federal" for consistency in the revised title.
 
@@ -242,6 +242,8 @@ In subsection (j), the reference to 15:2002(d) and the words "or any modificatio
 
 In subsection (j)(1), the words "to prescribe or amend" are substituted for "to establish, reduce, or amend" to eliminate unnecessary words. The words "adverse impact" are substituted for "level" for clarity and consistency. The words "those comments" are substituted for "unaccommodated comments" for clarity.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 108 of the Ten-in-Ten Fuel Economy Act, referred to in subsec. (k)(1), is section 108 of Pub. L. 110–140, title I, Dec. 19, 2007, 121 Stat. 1505, which is not classified to the Code.
@@ -257,6 +259,8 @@ Subsec. (c). Pub. L. 110–140, §102(a)(3), substituted "The Secretary" for "(1
 Subsec. (h)(3). Pub. L. 110–140, §104(b)(1), added par. (3).
 
 Subsec. (k). Pub. L. 110–140, §102(b), added subsec. (k).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 
@@ -290,13 +294,15 @@ Report.—The Academy shall submit the report to the Secretary, the Committee on
 
 Quinquennial Updates.—After submitting the initial report, the Academy shall update the report at 5 year intervals thereafter through 2025."
 
+#### <b>Executive Documents</b>
+
 #### The Energy Independence and Security Act of 2007
 
 Memorandum of President of the United States, Jan. 26, 2009, 74 F.R. 4907, provided:
 
 Memorandum for the Secretary of Transportation \[and\] the Administrator of the National Highway Traffic Safety Administration
 
-In 2007, the Congress passed the Energy Independence and Security Act (EISA). This law mandates that, as part of the Nation's efforts to achieve energy independence, the Secretary of Transportation prescribe annual fuel economy increases for automobiles, beginning with model year 2011, resulting in a combined fuel economy fleet average of at least 35 miles per gallon by model year 2020. On May 2, 2008, the National Highway Traffic Safety Administration (NHTSA) published a Notice of Proposed Rulemaking entitled <i>Average Fuel Economy Standards, Passenger Cars and Light Trucks; Model Years 2011–2015, 73 Fed. Reg.</i> 24352. In the notice and comment period, the NHTSA received numerous comments, some of them contending that certain aspects of the proposed rule, including appendices providing for preemption of State laws, were inconsistent with provisions of EISA and the Supreme Court's decision in <i>Massachusetts v. Environmental Protection Agency</i>, 549 U.S. 497 (2007).
+In 2007, the Congress passed the Energy Independence and Security Act (EISA). This law mandates that, as part of the Nation's efforts to achieve energy independence, the Secretary of Transportation prescribe annualfuel economy increases for automobiles, beginning with model year 2011, resulting in a combined fuel economy fleet average of at least 35 miles per gallon by model year 2020. On May 2, 2008, the National Highway Traffic Safety Administration (NHTSA) published a Notice of Proposed Rulemaking entitled <i>Average Fuel Economy Standards, Passenger Cars and Light Trucks; Model Years 2011–2015, 73 Fed. Reg.</i> 24352. In the notice and comment period, the NHTSA received numerous comments, some of them contending that certain aspects of the proposed rule, including appendices providing for preemption of State laws, were inconsistent with provisions of EISA and the Supreme Court's decision in <i>Massachusetts v. Environmental Protection Agency</i>, 549 U.S. 497 (2007).
 
 Federal law requires that the final rule regarding fuel economy standards be adopted at least 18 months before the beginning of the model year (49 U.S.C. 32902(g)(2)). In order for the model year 2011 standards to meet this requirement, the NHTSA must publish the final rule in the Federal Register by March 30, 2009. To date, the NHTSA has not published a final rule.
 
@@ -324,7 +330,7 @@ America has the opportunity to lead the world in the development of a new genera
 
 Section 1. <i>Medium- and Heavy-Duty Trucks.</i>
 
-While the Federal Government and many States have now created a harmonized framework for addressing the fuel economy of and greenhouse gas emissions from cars and light-duty trucks, medium- and heavy-duty trucks and buses continue to be a major source of fossil fuel consumption and greenhouse gas pollution. I therefore request that the Administrators of the EPA and the NHTSA immediately begin work on a joint rulemaking under the Clean Air Act (CAA) and the EnergyIndependence and Security Act of 2007 (EISA) to establish fuel efficiency and greenhouse gas emissions standards for commercial medium- and heavy-duty vehicles beginning with model year 2014, with the aim of issuing a final rule by July 30, 2011. As part of this rule development process, I request that the Administrators of the EPA and the NHTSA:
+While the Federal Government and many States have now created a harmonized framework for addressing the fuel economy of and greenhouse gas emissions from cars and light-duty trucks, medium- and heavy-duty trucks and buses continue to be a major source of fossil fuel consumption and greenhouse gas pollution. I therefore request that the Administrators of the EPA and the NHTSA immediately begin work on a joint rulemaking under the Clean Air Act (CAA) and the Energy Independence and Security Act of 2007 (EISA) to establish fuel efficiency and greenhouse gas emissions standards for commercial medium- and heavy-duty vehicles beginning with model year 2014, with the aim of issuing a final rule by July 30, 2011. As part of this rule development process, I request that the Administrators of the EPA and the NHTSA:
 
 (a) Propose and take comment on strategies, including those designed to increase the use of existing technologies, to achieve substantial annual progress in reducing transportation sector emissions and fossil fuel consumption consistent with my Administration's overall energy and climate security goals. These strategies should consider whether particular segments of the diverse heavy-duty vehicle sector present special opportunities to reduce greenhouse gas emissions and increase fuel economy. For example, preliminary estimates indicate that large tractor trailers, representing half of all greenhouse gas emissions from this sector, can reduce greenhouse gas emissions by as much as 20 percent and increase their fuel efficiency by as much as 25 percent with the use of existing technologies;
 
@@ -336,7 +342,7 @@ Sec. 2. <i>Passenger Cars and Light-Duty Trucks.</i>
 
 Building on the earlier joint rulemaking, and in order to provide greater certainty and incentives for long-term innovation by automobile and light-duty vehicle manufacturers, I request that the Administrators of the EPA and the NHTSA develop, through notice and comment rulemaking, a coordinated national program under the CAA and the EISA to improve fuel efficiency and to reduce greenhouse gas emissions of passenger cars and light-duty trucks of model years 2017–2025. The national program should seek to produce joint Federal standards that are harmonized with applicable State standards, with the goal of ensuring that automobile manufacturers will be able to build a single, light-duty national fleet. The program should also seek to achieve substantial annual progress in reducing transportation sector greenhouse gas emissions and fossil fuel consumption, consistent with my Administration's overall energy and climate security goals, through the increased domestic production and use of existing, advanced, and emerging technologies, and should strengthen the industry and enhance job creation in the United States. As part of implementing the national program, I request that the Administrators of the EPA and the NHTSA:
 
-(a) Work with the State of California to develop by September 1, 2010, a technical assessment to inform the rulemaking process, reflecting input from an array of stakeholders on relevant factors, including viable technologies, costs, benefits, lead time to develop and deploy new and emerging technologies, incentives and other flexibilities to encourage development and deployment of new and emerging technologies, impacts on jobs and the automotive manufacturing base in the United States, and infrastructure for advanced vehicle technologies; and
+(a) Work with the State of California to develop by September 1, 2010, a technical assessment to inform the rulemaking process, reflecting input from an array of stakeholders on relevant factors, including viable technologies, costs, benefits, lead time to develop and deploy new and emerging technologies, incentives and other flexibilities to encourage development and deployment of new and emerging technologies, impacts on jobs and the automotive manufacturing base in theUnited States, and infrastructure for advanced vehicle technologies; and
 
 (b) Take all measures consistent with law to issue by September 30, 2010, a Notice of Intent to Issue a Proposed Rule that announces plans for setting stringent fuel economy and greenhouse gas emissions standards for light-duty vehicles of model year 2017 and beyond, including plans for initiating joint rulemaking and gathering any additional information needed to support regulatory action. The Notice should describe the key elements of the program that the EPA and the NHTSA intend jointly to propose, under their respective statutory authorities, including potential standards that could be practicably implemented nationally for the 2017–2025 model years and a schedule for setting those standards as expeditiously as possible, consistent with providing sufficient lead time to vehicle manufacturers.
 

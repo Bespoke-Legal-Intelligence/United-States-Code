@@ -18,7 +18,7 @@ Beginning at a triangle on set stone, said mark being the Government survey tria
 
 7\. Thence along Government land and following along rim of the crater and crest of wall of Kaupo Gap to a four inch by four inch redwood post, the direct azimuth and distance being three hundred and fifty-six degrees forty-one minutes ten thousand eight hundred and sixty-seven and nine-tenths feet.
 
-8\. Eighty-six degrees one minute thirty seconds six thousand seven hundred and seventy-seven and four-tenths feet along grant 3457, lot 1, to A. V. Marciel, and the remaining portion of the land of Nuu (R. P. 8049, L. C. A. 6239 Apana 2 to Kalaimoku), passing over a cross on stone at Kauhaokamoa at three thousand four hundred and forty-one and eight-tenths feet and passing over an iron pipe on the west edge of the Koolau Gap at five thousand eight hundred and seventy-four feet.
+8\. Eighty-six degrees one minute thirty seconds six thousand seven hundred and seventy-seven and four-tenths feet along grant 3457, lot 1, to A. V. Marciel, and the remaining portion of the land of Nuu (R. P. 8049, L. C. A. 6239 Apana 2 to Kalaimoku), passing over a cross on stone at Kauhaokamoa at three thousand four hundred and forty-one and eight-tenths feet and passing over an iron pipe on the west edge of theKoolau Gap at five thousand eight hundred and seventy-four feet.
 
 9\. One hundred and thirty-eight degrees forty-two minutes thirty seconds nine thousand five hundred and seventy-four and two-tenths feet along the remaining portion of said land of Nuu to a cross on rock, the true azimuth and distance to Government survey triangulation station Haleakala 2 being one hundred and seventy-nine degrees thirteen minutes fifteen seconds nine hundred and forty-three and two-tenths feet.
 
@@ -26,7 +26,7 @@ Beginning at a triangle on set stone, said mark being the Government survey tria
 
 11\. Ninety degrees twenty-three minutes thirty seconds twelve thousand two hundred and forty-nine and three-tenths feet along the remaining portion of the lands of Nakula and Kahikinui to a concrete monument marked Number 15.
 
-12\. One hundred and seventeen degrees fifty-two minutes thirty seconds five thousand two hundred and nine and two-tenths feet along the remaining portion of the land of Kahikinui to a concrete monument marked Number 16, the true azimuth and distance from said monument toGovernment survey triangulation station Kolekole, being ninety-eight degrees thirty minutes one thousand five hundred and forty-three and five-tenths feet.
+12\. One hundred and seventeen degrees fifty-two minutes thirty seconds five thousand two hundred and nine and two-tenths feet along the remaining portion of the land of Kahikinui to a concrete monument marked Number 16, the true azimuth and distance from said monument to Government survey triangulation station Kolekole, being ninety-eight degrees thirty minutes one thousand five hundred and forty-three and five-tenths feet.
 
 13\. One hundred and twenty-seven degrees thirty-eight minutes two thousand one hundred and seventy-five and six-tenths feet along same and the land of Papaanui to a concrete monument marked Number 17, the true azimuth and distance from said monument to a concrete monument marked Number 25, which marks the south corner of the land of Kealahou 3 and 4 being forty degrees ten minutes thirty seconds four hundred and sixty-six and two-tenths feet.
 
@@ -37,6 +37,8 @@ Beginning at a triangle on set stone, said mark being the Government survey tria
 16\. One hundred and ninety-nine degrees twenty-three minutes ten thousand seven hundred and twenty-six feet along the remaining portion of the land of Kalialinui to the point of beginning, passing over a concrete monument marked Number 22 at a distance of six thousand four hundred thirty-six and seven-tenths feet; including portions of the lands of Kealahou 3 and 4, Pulehunui, Kalialinui, Kaupo, Nuu, Nakula, Kahikinui and Papaanui, Island of Maui, and containing seventeen thousand one hundred and thirty acres, more or less; and all of those lands lying within the boundary above described are included in and made a part of the Hawaii National Park subject to all laws and regulations pertaining to said park.
 
 (Feb. 12, 1927, ch. 111, §1, 44 Stat. 1087.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Haleakalā National Park
 

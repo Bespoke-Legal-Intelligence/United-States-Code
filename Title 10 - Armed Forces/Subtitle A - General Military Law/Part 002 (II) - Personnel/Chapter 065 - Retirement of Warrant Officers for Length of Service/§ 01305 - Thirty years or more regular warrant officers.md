@@ -66,13 +66,15 @@ In subsection (b), the words "The Secretary concerned may defer" are substituted
 
 In subsection (c), the words "the Secretary concerned may defer the retirement" are substituted for the words "in the discretion of the Secretary \* \* \* be continued on active service". The words "but not later than" are substituted for the words "but not beyond that date which is".
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 511 of the Career Compensation Act of 1949, referred to in subsec. (a)(1), is section 511 of act Oct. 12, 1949, ch. 681, which was formerly set out as a note under section 580 of this title.
 
 #### Amendments
 
-<b>2013</b>—Subsec. (a)(1). Pub. L. 112–239, §504(1), substituted "Subject to paragraphs (2) and (3), a regular warrant officer" for "A regular warrant officer (otherthan a regular Army warrant officer)" and "date on which the officer" for "date on which he".
+<b>2013</b>—Subsec. (a)(1). Pub. L. 112–239, §504(1), substituted "Subject to paragraphs (2) and (3), a regular warrant officer" for "A regular warrant officer (other than a regular Army warrant officer)" and "date on which the officer" for "date on which he".
 
 Subsec. (a)(3). Pub. L. 112–239, §504(2), added par. (3).
 
@@ -89,6 +91,8 @@ Subsec. (a)(3). Pub. L. 112–239, §504(2), added par. (3).
 <b>1966</b>—Subsec. (a). Pub. L. 89–718 substituted "8301" for "47a".
 
 <b>1962</b>—Subsec. (a). Pub. L. 87–649 substituted "section 511 of the Career Compensation Act of 1949, as amended (70 Stat. 114)" for "section 311 of title 37."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1991 Amendment
 

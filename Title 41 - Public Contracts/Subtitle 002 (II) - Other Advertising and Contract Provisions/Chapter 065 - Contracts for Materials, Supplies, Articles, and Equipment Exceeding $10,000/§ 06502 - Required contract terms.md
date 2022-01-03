@@ -16,7 +16,7 @@ Ineligible employees.—No individual under 16 years of age and no incarcerated 
 
 &emsp;(4)
 
-Standards of places and working conditions where contract performed.—No partof the contract will be performed, and no materials, supplies, articles, or equipment will be manufactured or fabricated under the contract, in plants, factories, buildings, or surroundings, or under working conditions, that are unsanitary, hazardous, or dangerous to the health and safety of employees engaged in the performance of the contract. Compliance with the safety, sanitary, and factory inspection laws of the State in which the work or part of the work is to be performed is prima facie evidence of compliance with this paragraph.
+Standards of places and working conditions where contract performed.—No part of the contract will be performed, and no materials, supplies, articles, or equipment will be manufactured or fabricated under the contract, in plants, factories, buildings, or surroundings, or under working conditions, that are unsanitary, hazardous, or dangerous to the health and safety of employees engaged in the performance of the contract. Compliance with the safety, sanitary, and factory inspection laws of the State in which the work or part of the work is to be performed is prima facie evidence of compliance with this paragraph.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3807.)
 

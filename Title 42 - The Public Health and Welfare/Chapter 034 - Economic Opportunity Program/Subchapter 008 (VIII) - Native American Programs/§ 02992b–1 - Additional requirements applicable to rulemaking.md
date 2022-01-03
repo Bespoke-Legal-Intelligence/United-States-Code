@@ -18,7 +18,7 @@ Notwithstanding subsection (a) of section 553 of title 5, and except as otherwis
 
 &emsp;(B) applicable exclusively to any program, project, or activity authorized by, or carried out under, this subchapter.
 
-(3) The first 2 sentences of section 553(b) of title 5 shall apply with respect to any rule (other than an interpretative rule, a generalstatement of policy, or a rule of agency organization, procedure, or practice) that is—
+(3) The first 2 sentences of section 553(b) of title 5 shall apply with respect to any rule (other than an interpretative rule, a general statement of policy, or a rule of agency organization, procedure, or practice) that is—
 
 &emsp;(A) proposed under this subchapter; or
 
@@ -50,9 +50,13 @@ Whenever an agency publishes in the Federal Register a rule (including an interp
 
 (Pub. L. 88–452, title VIII, §814, as added Pub. L. 100–175, title V, §503(a), Nov. 29, 1987, 101 Stat. 974.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 814 of Pub. L. 88–452 was renumbered section 816 and is classified to section 2992d of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

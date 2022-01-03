@@ -24,9 +24,13 @@ Witnesses summoned by a subpoena under this subchapter shall be entitled to the 
 
 (Pub. L. 90–284, title VIII, §811, as added Pub. L. 100–430, §8(2), Sept. 13, 1988, 102 Stat. 1628.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 3611, Pub. L. 90–284, title VIII, §811, Apr. 11, 1968, 82 Stat. 87, related to evidence, prior to repeal by Pub. L. 100–430, §8(2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

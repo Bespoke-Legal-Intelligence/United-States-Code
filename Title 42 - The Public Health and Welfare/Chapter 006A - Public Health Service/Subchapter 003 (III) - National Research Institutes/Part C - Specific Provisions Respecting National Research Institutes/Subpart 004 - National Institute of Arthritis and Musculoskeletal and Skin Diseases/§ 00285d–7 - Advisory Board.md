@@ -50,7 +50,7 @@ The Advisory Board shall—
 
 &emsp;(2) for the purpose of assuring the most effective use and organization of resources respecting arthritis, musculoskeletal diseases and skin diseases, advise and make recommendations to the Congress, the Secretary, the Director of NIH, the Director of the Institute, and the heads of other appropriate Federal agencies for the implementation and revision of such plan; and
 
-&emsp;(3) maintain liaison with other advisory bodies for Federal agencies involved in the implementation of such plan, the interagency coordinating committees for such diseases established under section 285d–4 of this title, andwith key non-Federal entities involved in activities affecting the control of such diseases.
+&emsp;(3) maintain liaison with other advisory bodies for Federal agencies involved in the implementation of such plan, the interagency coordinating committees for such diseases established under section 285d–4 of this title, and with key non-Federal entities involved in activities affecting the control of such diseases.
 
 #### (i) Subcommittees; establishment and membership
 
@@ -61,6 +61,8 @@ In carrying out its functions, the Advisory Board may establish subcommittees, c
 The National Arthritis Advisory Board in existence on November 20, 1985, shall terminate upon the appointment of a successor Board under subsection (a). The Secretary shall make appointments to the Advisory Board established under subsection (a) before the expiration of 90 days after November 20, 1985. The member of the Board in existence on November 20, 1985, may be appointed, in accordance with subsections (b) and (d), to the Advisory Board established under subsection (a).
 
 (July 1, 1944, ch. 373, title IV, §442, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 852; amended Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 102–531, title III, §312(d)(7), Oct. 27, 1992, 106 Stat. 3504; Pub. L. 103–43, title VII, §701(d), title XX, §2008(b)(7), June 10, 1993, 107 Stat. 162, 211; Pub. L. 109–482, title I, §104(b)(1)(I), Jan. 15, 2007, 120 Stat. 3693.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -75,6 +77,8 @@ Subsec. (j)(5). Pub. L. 103–43, §701(d)(3), added par. (5).
 <b>1992</b>—Subsec. (b)(2)(A). Pub. L. 102–531 substituted "Centers for Disease Control and Prevention" for "Centers for Disease Control".
 
 Pub. L. 102–405 substituted "Under Secretary for Health" for "Chief Medical Director".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

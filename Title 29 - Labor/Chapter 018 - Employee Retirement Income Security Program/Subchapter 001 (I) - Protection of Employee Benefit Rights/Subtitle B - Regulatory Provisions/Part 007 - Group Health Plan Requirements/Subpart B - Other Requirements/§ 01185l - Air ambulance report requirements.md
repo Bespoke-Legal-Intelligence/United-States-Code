@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Each group health plan and health insurance issuer offering group health insurance coverage shall submit to the Secretary, jointly with theSecretary of Health and Human Services and the Secretary of the Treasury—
+Each group health plan and health insurance issuer offering group health insurance coverage shall submit to the Secretary, jointly with the Secretary of Health and Human Services and the Secretary of the Treasury—
 
 &emsp;(1) not later than the date that is 90 days after the last day of the first calendar year beginning on or after the date on which a final rule is promulgated pursuant to the rulemaking described in section 106(d) of the No Surprises Act, the information described in subsection (b) with respect to such plan year; and
 

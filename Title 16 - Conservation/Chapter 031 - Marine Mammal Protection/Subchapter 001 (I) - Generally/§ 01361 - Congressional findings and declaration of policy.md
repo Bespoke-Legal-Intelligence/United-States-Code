@@ -22,6 +22,8 @@ The Congress finds that—
 
 (Pub. L. 92–522, §2, Oct. 21, 1972, 86 Stat. 1027; Pub. L. 97–58, §1(b)(1), Oct. 9, 1981, 95 Stat. 979; Pub. L. 103–238, §3, Apr. 30, 1994, 108 Stat. 532.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Par. (2). Pub. L. 103–238, §3(1), inserted "essential habitats, including" after "made to protect".
@@ -29,6 +31,8 @@ The Congress finds that—
 Par. (5). Pub. L. 103–238, §3(2), inserted "and their habitats" before "is therefore necessary" in concluding provisions.
 
 <b>1981</b>—Par. (6). Pub. L. 97–58 substituted "carrying capacity" for "optimum carrying capacity".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -50,11 +54,11 @@ Pub. L. 106–555, title II, §201, Dec. 21, 2000, 114 Stat. 2767, provided that
 
 #### Short Title of 1997 Amendment
 
-Pub. L. 105–42, §1(a), Aug. 15, 1997, 111 Stat. 1122, provided that: "This Act \[enacting sections 962, 1412, 1413, 1414a to 1416 of this title, amending sections 952, 953, 1362, 1371, 1374, 1378, 1380, 1385, 1411, and 1417 of this title, repealing sections 1412 to 1416 and 1418 of this title, and enacting provisions set out as notes under this section and section 1362 of this title\] may be cited as the 'International Dolphin Conservation Program Act'."
+Pub. L. 105–42, §1(a), Aug. 15, 1997, 111 Stat. 1122, provided that: "This Act \[enacting sections 962, 1412, 1413,1414a to 1416 of this title, amending sections 952, 953, 1362, 1371, 1374, 1378, 1380, 1385, 1411, and 1417 of this title, repealing sections 1412 to 1416 and 1418 of this title, and enacting provisions set out as notes under this section and section 1362 of this title\] may be cited as the 'International Dolphin Conservation Program Act'."
 
 #### Short Title of 1994 Amendment
 
-Pub. L. 103–238, §1, Apr. 30, 1994, 108 Stat. 532, provided that: "This Act \[enacting sections 1386 to 1389 of this title, amending this section and sections 1362, 1371, 1372,1374, 1375, 1379, 1380, 1382 to 1384, 1407, 1421 to 1421h, and 4107 of this title, repealing sections 1384 and 1407 of this title, and enacting provisions set out as notes under this section and sections 1362, 1374, 1538, and 1539 of this title\] may be cited as the 'Marine Mammal Protection Act Amendments of 1994'."
+Pub. L. 103–238, §1, Apr. 30, 1994, 108 Stat. 532, provided that: "This Act \[enacting sections 1386 to 1389 of this title, amending this section and sections 1362, 1371, 1372, 1374, 1375, 1379, 1380, 1382 to 1384, 1407, 1421 to 1421h, and 4107 of this title, repealing sections 1384 and 1407 of this title, and enacting provisions set out as notes under this section and sections 1362, 1374, 1538, and 1539 of this title\] may be cited as the 'Marine Mammal Protection Act Amendments of 1994'."
 
 #### Short Title of 1992 Amendments
 
@@ -118,7 +122,7 @@ Pub. L. 102–567, title III, §306, Oct. 29, 1992, 106 Stat. 4284, directed Sec
 
 #### Study on Mortality of Atlantic Dolphin
 
-Pub. L. 100–711, §7, Nov. 23, 1988, 102 Stat. 4771, directed Secretary of Commerce to conduct a study regarding east coast epidemic during 1987 and 1988 which caused substantial mortality within North Atlantic coastal population of Atlantic bottle-nosed dolphin, such study to examine (1) cause or causes of epidemic, (2) effect of epidemic on coastal and offshore populations of Atlantic bottle-nosed dolphin, (3) extent to which pollution may have contributed to epidemic, (4) whether other species and populations of marine mammals were affected by those factors which contributed to epidemic, and (5) any other matters pertaining to causes and effects of epidemic, with Secretary to submit on or before Jan. 1, 1989, to Committee on Commerce, Science, and Transportation of the Senate and Committee on Merchant Marine and Fisheries of the House of Representatives a plan for conducting the study.
+Pub. L. 100–711, §7, Nov. 23, 1988, 102 Stat. 4771, directed Secretary of Commerce to conduct a study regarding east coast epidemic during 1987 and 1988 which caused substantial mortality within North Atlantic coastal population of Atlantic bottle-nosed dolphin, such study to examine (1) cause or causes of epidemic, (2) effect of epidemic on coastal and offshore populations of Atlantic bottle-nosed dolphin, (3) extent to which pollution may have contributed to epidemic, (4) whether other species and populations of marine mammals were affected by those factors which contributedto epidemic, and (5) any other matters pertaining to causes and effects of epidemic, with Secretary to submit on or before Jan. 1, 1989, to Committee on Commerce, Science, and Transportation of the Senate and Committee on Merchant Marine and Fisheries of the House of Representatives a plan for conducting the study.
 
 #### International Discussion To Advance Understanding of Cetacean Life
 

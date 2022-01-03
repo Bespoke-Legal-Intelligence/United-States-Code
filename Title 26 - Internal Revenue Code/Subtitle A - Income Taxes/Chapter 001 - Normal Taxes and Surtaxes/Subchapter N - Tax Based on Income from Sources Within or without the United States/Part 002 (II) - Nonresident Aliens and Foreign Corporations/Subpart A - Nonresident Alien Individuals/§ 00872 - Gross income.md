@@ -48,7 +48,9 @@ The following items shall not be included in gross income of a nonresident alien
 
 &emsp;To the extent provided in regulations, a possession of the United States shall be treated as a foreign country for purposes of this subsection.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 280; Pub. L. 87–256, §110(c), Sept. 21, 1961, 75 Stat. 536; Pub. L. 89–809, title I, §103(b), Nov. 13, 1966, 80 Stat. 1550; Pub. L. 99–514, title XII, §1212(c)(1), (2), Oct. 22, 1986, 100 Stat. 2538; Pub. L. 100–647, title I, §1012(e)(2)(B), (5), (s)(2)(A), Nov. 10, 1988, 102 Stat. 3500, 3527; Pub. L. 101–239, title VII, §7811(i)(8)(C), Dec. 19, 1989, 103 Stat. 2411; Pub. L. 103–296, title III, §320(a)(2), Aug. 15, 1994, 108 Stat. 1535; Pub. L. 108–357, title IV, §419(a), Oct. 22, 2004, 118 Stat. 1513.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 280; Pub. L. 87–256, §110(c), Sept. 21, 1961, 75 Stat. 536; Pub. L. 89–809, title I, §103(b), Nov. 13, 1966, 80 Stat. 1550; Pub. L. 99–514, title XII, §1212(c)(1), (2), Oct. 22, 1986, 100 Stat. 2538; Pub. L. 100–647, title I, §1012(e)(2)(B), (5), (s)(2)(A), Nov. 10, 1988, 102 Stat. 3500, 3527; Pub. L. 101–239, title VII, §7811(i)(8)(C), Dec. 19, 1989, 103 Stat. 2411; Pub. L.103–296, title III, §320(a)(2), Aug. 15, 1994, 108 Stat. 1535; Pub. L. 108–357, title IV, §419(a), Oct. 22, 2004, 118 Stat. 1513.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -80,9 +82,11 @@ Subsec. (b)(4). Pub. L. 89–809, §102(b)(3), added par. (4).
 
 <b>1961</b>—Subsec. (b)(3). Pub. L. 87–256 added par. (3).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–357, title IV, §419(c), Oct. 22, 2004, 118 Stat. 1513, provided that: "The amendments made by thissection \[amending this section and section 883 of this title\] shall apply to wagers made after the date of the enactment of this Act \[Oct. 22, 2004\]."
+Pub. L. 108–357, title IV, §419(c), Oct. 22, 2004, 118 Stat. 1513, provided that: "The amendments made by this section \[amending this section and section 883 of this title\] shall apply to wagers made after the date of the enactment of this Act \[Oct. 22, 2004\]."
 
 #### Effective Date of 1994 Amendment
 
@@ -108,11 +112,13 @@ Amendment by Pub. L. 89–809 applicable with respect to taxable years beginning
 
 Amendment by Pub. L. 87–256 applicable to taxable years beginning after Dec. 31, 1961, see section 110(h)(1) of Pub. L. 87–256, set out as a note under section 117 of this title.
 
-#### Termination of Trust Territory of the Pacific Islands
-
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
 For nonapplication of amendment by section 1212(c)(1), (2) of Pub. L. 99–514 to the extent application of such amendment would be contrary to any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(3), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
+
+#### <b>Executive Documents</b>
+
+#### Termination of Trust Territory of the Pacific Islands
+
+For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 

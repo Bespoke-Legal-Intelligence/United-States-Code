@@ -62,7 +62,7 @@ For purposes of this section—
 
 &emsp;&emsp;(C) exterior doors, and
 
-&emsp;&emsp;(D) any metal roof or asphalt roof installed on a dwelling unit, but only if suchroof has appropriate pigmented coatings or cooling granules which are specifically and primarily designed to reduce the heat gain of such dwelling unit.
+&emsp;&emsp;(D) any metal roof or asphalt roof installed on a dwelling unit, but only if such roof has appropriate pigmented coatings or cooling granules which are specifically and primarily designed to reduce the heat gain of such dwelling unit.
 
 #### (4) Manufactured homes included
 
@@ -154,7 +154,7 @@ For purposes of this section—
 
 #### (f) Basis adjustments
 
-For purposes of this subtitle, if a credit is allowed under this section for any expenditurewith respect to any property, the increase in the basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so allowed.
+For purposes of this subtitle, if a credit is allowed under this section for any expenditure with respect to any property, the increase in the basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so allowed.
 
 #### (g) Termination
 
@@ -165,6 +165,8 @@ This section shall not apply with respect to any property placed in service—
 &emsp;(2) after December 31, 2021.
 
 (Added Pub. L. 109–58, title XIII, §1333(a), Aug. 8, 2005, 119 Stat. 1026; amended Pub. L. 109–135, title IV, §412(b), Dec. 21, 2005, 119 Stat. 2636; Pub. L. 110–172, §11(a)(2), Dec. 29, 2007, 121 Stat. 2484; Pub. L. 110–343, div. B, title III, §302(a)–(e), Oct. 3, 2008, 122 Stat. 3844, 3845; Pub. L. 111–5, div. B, title I, §§1103(b)(2)(A), 1121(a)–(e), Feb. 17, 2009, 123 Stat. 320, 322–324; Pub. L. 111–312, title VII, §710(a), (b), Dec. 17, 2010, 124 Stat. 3314; Pub. L. 112–240, title IV, §401(a), Jan. 2, 2013, 126 Stat. 2337; Pub. L. 113–295, div. A, title I, §151(a), Dec. 19, 2014, 128 Stat. 4021; Pub. L. 114–113, div. Q, title I, §181(a), (b), Dec. 18, 2015, 129 Stat. 3072; Pub. L. 115–123, div. D, title I, §40401(a), Feb. 9, 2018, 132 Stat. 148; Pub. L. 115–141, div. U, title IV, §401(a)(4)–(6), Mar. 23, 2018, 132 Stat. 1184; Pub. L. 116–94, div. Q, title I, §123(a), (b), Dec. 20, 2019, 133 Stat. 3231; Pub. L. 116–260, div. EE, title I, §§141(a), 148(b)(3), Dec. 27, 2020, 134 Stat. 3054, 3055.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -288,9 +290,11 @@ Subsec. (g). Pub. L. 110–343, §302(a), substituted "placed in service—" for
 
 <b>2005</b>—Subsec. (b)(2). Pub. L. 109–135 substituted "subsection (c)(2)(B)" for "subsection (c)(3)(B)".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2020 Amendment
 
-Pub. L. 116–260, div. EE, title I, §141(b), Dec. 27, 2020, 134 Stat. 3054, provided that: "The amendment made by this section \[amending this section\] shall apply to property placed in service after December 31, 2020."
+Pub. L. 116–260, div. EE, title I, §141(b), Dec. 27, 2020, 134 Stat. 3054, provided that: "The amendment made bythis section \[amending this section\] shall apply to property placed in service after December 31, 2020."
 
 Pub. L. 116–260, div. EE, title I, §148(c)(2), Dec. 27, 2020, 134 Stat. 3056, provided that: "The amendments made by subsection (b) \[amending this section and section 25D of this title\] shall apply to expenditures paid or incurred in taxable years beginning after December 31, 2020."
 

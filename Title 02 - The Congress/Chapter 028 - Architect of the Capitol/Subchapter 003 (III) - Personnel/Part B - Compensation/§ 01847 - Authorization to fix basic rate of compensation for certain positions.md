@@ -12,7 +12,7 @@ On and after August 21, 1959, the Architect of the Capitol is authorized, withou
 
 Section was classified to section 166b–3 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
 
-"Chapter 51 and subchapter III of chapter 53 of title 5" substituted for "the Classification Act of 1949, as amended" in text on authority of Pub. L. 89–554, §7(b),Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+"Chapter 51 and subchapter III of chapter 53 of title 5" substituted for "the Classification Act of 1949, as amended" in text on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
 

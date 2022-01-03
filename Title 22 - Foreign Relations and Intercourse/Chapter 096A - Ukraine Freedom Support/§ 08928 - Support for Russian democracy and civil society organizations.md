@@ -34,5 +34,5 @@ Any assistance provided pursuant to this section shall be conducted in as transp
 
 #### Delegation of Functions
 
-Functions of President under subsec. (c) of this section delegated to Secretary of State by Memorandum of President of the United States, Feb. 19, 2015, 80 F.R. 12071, set out as a note under section 8925 of this title.
+Functions of President under subsec. (c) of this section delegated to Secretary of State by Memorandumof President of the United States, Feb. 19, 2015, 80 F.R. 12071, set out as a note under section 8925 of this title.
 

@@ -1,5 +1,7 @@
 ### §14043e–2. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 14043e–2 was editorially reclassified as section 12473 of Title 34, Crime Control and Law Enforcement.

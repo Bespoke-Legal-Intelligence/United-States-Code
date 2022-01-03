@@ -18,11 +18,15 @@ Historical and Revision Notes
 
 May 5, 1950, ch. 169, §7(a), 64 Stat. 145.
 
-The word "officers" is substituted for the word "officer" since the cited subsection of the Act of May 5, 1950, was intended to reenact the substance of Article 21 of the Articles for the Government of the Navy (R.S. 1624; 34 U.S.C. 1200), in which the word "officers" wasused. The words "regularly" and "by competent authority" are omitted as surplusage.
+The word "officers" is substituted for the word "officer" since the cited subsection of the Act of May 5, 1950, was intended to reenact the substance of Article 21 of the Articles for the Government of the Navy (R.S. 1624; 34 U.S.C. 1200), in which the word "officers" was used. The words "regularly" and "by competent authority" are omitted as surplusage.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 5951 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

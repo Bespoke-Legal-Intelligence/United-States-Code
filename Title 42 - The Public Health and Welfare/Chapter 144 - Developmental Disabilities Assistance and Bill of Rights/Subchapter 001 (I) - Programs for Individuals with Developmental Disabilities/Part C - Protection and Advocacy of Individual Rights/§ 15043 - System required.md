@@ -10,7 +10,7 @@ In order for a State to receive an allotment under part B or this part—
 
 &emsp;&emsp;(A) have the authority to—
 
-&emsp;&emsp;&emsp;(i) pursue legal, administrative, and other appropriate remedies or approaches to ensure the protection of, and advocacy for, the rights of such individuals within the State who are or who may be eligible for treatment, services, or habilitation, orwho are being considered for a change in living arrangements, with particular attention to members of ethnic and racial minority groups; and
+&emsp;&emsp;&emsp;(i) pursue legal, administrative, and other appropriate remedies or approaches to ensure the protection of, and advocacy for, the rights of such individuals within the State who are or who may be eligible for treatment, services, or habilitation, or who are being considered for a change in living arrangements, with particular attention to members of ethnic and racial minority groups; and
 
 &emsp;&emsp;&emsp;(ii) provide information on and referral to programs and services addressing the needs of individuals with developmental disabilities;
 
@@ -64,7 +64,7 @@ In order for a State to receive an allotment under part B or this part—
 
 &emsp;&emsp;&emsp;(II) in any case of death of an individual with a developmental disability;
 
-&emsp;&emsp;(K) hire and maintain sufficient numbers and types of staff (qualified by training and experience) to carry out such system's functions, except that the State involved shall not apply hiring freezes, reductions in force, prohibitions on travel, or other policies to the staff of the system, to the extent thatsuch policies would impact the staff or functions of the system funded with Federal funds or would prevent the system from carrying out the functions of the system under this part;
+&emsp;&emsp;(K) hire and maintain sufficient numbers and types of staff (qualified by training and experience) to carry out such system's functions, except that the State involved shall not apply hiring freezes, reductions in force, prohibitions on travel, or other policies to the staff of the system, to the extent that such policies would impact the staff or functions of the system funded with Federal funds or would prevent the system from carrying out the functions of the system under this part;
 
 &emsp;&emsp;(L) have the authority to educate policymakers; and
 
@@ -101,6 +101,8 @@ In this section, the term "record" includes—
 &emsp;(3) a discharge planning record.
 
 (Pub. L. 106–402, title I, §143, Oct. 30, 2000, 114 Stat. 1714; Pub. L. 108–364, §3(a)(3), Oct. 25, 2004, 118 Stat. 1736.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

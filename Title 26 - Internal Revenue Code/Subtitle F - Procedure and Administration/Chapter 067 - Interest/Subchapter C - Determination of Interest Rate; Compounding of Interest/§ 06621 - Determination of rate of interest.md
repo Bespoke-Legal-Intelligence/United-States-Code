@@ -32,7 +32,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the Federal short-term rate determined under paragraph (1) for any month shall apply during the first calendar quarter beginning after such month.
+&emsp;&emsp;Except as provided in subparagraph (B), the Federal short-term rate determined under paragraph (1) for any month shallapply during the first calendar quarter beginning after such month.
 
 #### (B) Special rule for individual estimated tax
 
@@ -98,6 +98,8 @@ To the extent that, for any period, interest is payable under subchapter A and a
 
 (Added Pub. L. 93–625, §7(a)(1), Jan. 3, 1975, 88 Stat. 2114; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–167, §4(b), Dec. 29, 1979, 93 Stat. 1275; Pub. L. 97–34, title VII, §711(a)–(c), Aug. 13, 1981, 95 Stat. 340; Pub. L. 97–248, title III, §345(a), Sept. 3, 1982, 96 Stat. 636; Pub. L. 98–369, div. A, title I, §144(a), July 18, 1984, 98 Stat. 682; Pub. L. 99–514, title XV, §§1511(a), (c)(1), 1535(a), Oct. 22, 1986, 100 Stat. 2744, 2750; Pub. L. 100–647, title I, §1015(d), Nov. 10, 1988, 102 Stat. 3569; Pub. L. 101–239, title VII, §7721(b), Dec. 19, 1989, 103 Stat. 2399; Pub. L. 101–508, title XI, §11341(a), Nov. 5, 1990, 104 Stat. 1388–470; Pub. L. 103–465, title VII, §713(a), Dec. 8, 1994, 108 Stat. 5001; Pub. L. 104–188, title I, §1702(c)(6), (7), Aug. 20, 1996, 110 Stat. 1870; Pub. L. 105–34, title XIV, §1463(a), title XVI, §1604(b)(1), Aug. 5, 1997, 111 Stat. 1057, 1097; Pub. L. 105–206, title III, §§3301(a), 3302(a), July 22, 1998, 112 Stat. 741; Pub. L. 116–25, title I, §1001(b)(1)(E), July 1, 2019, 133 Stat. 985.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (c)(2)(A)(i). Pub. L. 116–25 substituted "Internal Revenue Service Independent Office of Appeals" for "Internal Revenue Service Office of Appeals".
@@ -150,6 +152,8 @@ Subsec. (c). Pub. L. 97–34, §711(b), struck out "90 percent of" before "the a
 
 <b>1976</b>—Subsecs. (a), (b). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1998 Amendment
 
 Amendment by section 3301(a) of Pub. L. 105–206 applicable to interest for periods beginning after July 22, 1998, and, subject to applicable statutes of limitation, to interest for periods beginning before July 22, 1998, if taxpayer reasonably identifies and establishes periods of overpayments and underpayments for which zero rate applies, and not later than Dec. 31, 1999, requests application of subsec. (d) of this section to such periods, see section 3301(c) of Pub. L. 105–206, set out as a note under section 6601 of this title.
@@ -180,7 +184,7 @@ Amendment by Pub. L. 101–239 applicable to returns the due date for which (det
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -190,7 +194,7 @@ Pub. L. 99–514, title XV, §1535(b), Oct. 22, 1986, 100 Stat. 2750, provided t
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–369, div. A, title I, §144(c), July 18, 1984, 98 Stat. 684, provided that: "The amendments made bythis section \[amending this section and section 6214 of this title\] shall apply with respect to interest accruing after December 31, 1984."
+Pub. L. 98–369, div. A, title I, §144(c), July 18, 1984, 98 Stat. 684, provided that: "The amendments made by this section \[amending this section and section 6214 of this title\] shall apply with respect to interest accruing after December 31, 1984."
 
 #### Effective Date of 1982 Amendment
 

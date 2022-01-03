@@ -120,7 +120,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 Pub. L. 99–500, §101(b) \[title VI, §608\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–74, and Pub. L. 99–591, §101(b) \[title VI, §608\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–74, as amended by Pub. L. 100–41, May 15, 1987, 101 Stat. 309; Pub. L. 100–99, Aug. 18, 1987, 101 Stat. 716; Pub. L. 100–334, §3(a), June 16, 1988, 102 Stat. 613, provided that:
 
-"(a)(1) Subject to paragraphs (2), (3), (4), and (5), and notwithstanding title 11 of the United States Code, the trustee shall pay benefits to retired former employees under a plan, fund, or program maintained or established by the debtor prior to filing a petition (through the purchase of insurance or otherwise) for the purpose of providing medical, surgical, or hospital care benefits, or benefits in the event of sickness, accident, disability, or death.
+"(a)(1) Subject to paragraphs (2), (3), (4), and (5), and notwithstanding title 11 of the United States Code, the trustee shall pay benefits to retired former employees under a plan, fund, or program maintained or established by the debtor prior to filing a petition (through the purchase of insurance or otherwise) for the purposeof providing medical, surgical, or hospital care benefits, or benefits in the event of sickness, accident, disability, or death.
 
 "(2) The level of benefits required to be paid by this subsection may be modified prior to confirmation of a plan under section 1129 of such title if—
 

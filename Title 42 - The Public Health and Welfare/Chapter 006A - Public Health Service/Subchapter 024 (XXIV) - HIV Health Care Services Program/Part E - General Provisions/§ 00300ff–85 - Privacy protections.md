@@ -6,9 +6,11 @@ The Secretary shall ensure that any information submitted to, or collected by, t
 
 #### (b) Definition
 
-In this section, the term "personally identifiable information" has the meaning given such term under the regulations promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996.
+In this section, the term "personally identifiable information" has the meaning given suchterm under the regulations promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996.
 
 (July 1, 1944, ch. 373, title XXVI, §2685, as added and amended Pub. L. 109–415, title V, §501, title VII, §703, Dec. 19, 2006, 120 Stat. 2814, 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -23,6 +25,8 @@ A prior section 300ff–85, act July 1, 1944, ch. 373, title XXVI, §2685, as ad
 <b>2009</b>—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
 <b>2006</b>—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment; Revival of Section
 

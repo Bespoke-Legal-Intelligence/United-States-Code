@@ -41,6 +41,8 @@ Subpart A—Information Concerning Persons Subject to Special Provisions
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2020</b>—Pub. L. 116–260, div. EE, title I, §107(d)(2), Dec. 27, 2020, 134 Stat. 3048, added item 6038E.
@@ -98,6 +100,8 @@ Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299, repealed Pub. 
 <b>1960</b>—Pub. L. 86–780, §6(b)(1), Sept. 14, 1960, 74 Stat. 1015, added item 6038 and redesignated former item 6038 as 6039.
 
 <b>1958</b>—Pub. L. 85–866, title I, §64(d)(4), Sept. 2, 1958, 72 Stat. 1657, added item 6037 and redesignated former item 6037 as 6038.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Authority To Waive Certain Information Reporting Requirements
 

@@ -22,9 +22,11 @@ Guidelines for the model program may require that the property—
 
 (Pub. L. 101–625, title II, §254, Nov. 28, 1990, 104 Stat. 4121.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-Section 1452b of this title, referred to in subsec. (c), was repealed by Pub. L. 101–625, title II, §289(b)(1), Nov. 28, 1990, 104 Stat. 4128, which is classified to section 12839(b)(1) of this title.
+Section 1452b of this title, referred to in subsec. (c), was repealed by Pub. L. 101–625, title II, §289(b)(1), Nov.28, 1990, 104 Stat. 4128, which is classified to section 12839(b)(1) of this title.
 
 <i><sup>1</sup></i><i> So in original. The words "the property" probably should not appear.</i>
 

@@ -16,7 +16,7 @@
 
 #### (b) Venue; jurisdiction of district court
 
-An action brought under subsection (a) of this section may be brought only in a United States district court for the judicial district in which the lease site or the leasing activity complained of is located. Such district court shall have jurisdiction, without regard to the amount in controversy or the citizenship of the parties, to require compliance or order payment in any such action.
+An action brought under subsection (a) of this section may be brought only in a United States district court for the judicial district in whichthe lease site or the leasing activity complained of is located. Such district court shall have jurisdiction, without regard to the amount in controversy or the citizenship of the parties, to require compliance or order payment in any such action.
 
 #### (c) Recovery of civil penalty by State; deposit of rent, royalty, or interest recovery in Treasury of the United States
 

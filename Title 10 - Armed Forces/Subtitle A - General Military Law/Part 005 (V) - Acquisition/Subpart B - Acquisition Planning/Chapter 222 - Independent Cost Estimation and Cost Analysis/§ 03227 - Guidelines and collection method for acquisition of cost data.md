@@ -14,6 +14,8 @@ Limitation on Waiver Authority.—The requirement under subsection (a) may be wa
 
 (Added and amended Pub. L. 116–283, div. A, title XVIII, §1812(a), (h), Jan. 1, 2021, 134 Stat. 4174, 4177.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 The text of subsec. (g) of section 2334 of this title, which was transferred to this section and amended by Pub. L. 116–283, §1812(h), was based on Pub. L. 114–328, div. A, title VIII, §842(a)(7), Dec. 23, 2016, 130 Stat. 2289; Pub. L. 116–92, div. A, title IX, §902(53), Dec. 20, 2019, 133 Stat. 1549.
@@ -34,7 +36,9 @@ Subsec. (b). Pub. L. 116–283, §1812(h)(2)(B), redesignated subsec. (a)(2) as 
 
 Subsec. (c). Pub. L. 116–283, §1812(h)(2)(C), redesignated subsec. (a)(3) as (c), inserted heading, and substituted "subsection (a)" for "paragraph (1)".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an EffectiveDate of 2021 Amendment note preceding section 3001 of this title.
+Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 

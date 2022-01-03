@@ -196,11 +196,13 @@ In subsection (b), the words "crossed by transportation activities or facilities
 
 In subsection (c), before clause (1), the words "After August 23, 1968" after "Secretary" are omitted as executed. The word "transportation" is inserted before "program" for clarity. In clause (2), the words "or project" are added for consistency.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 204 of title 23, referred to in subsec. (c), was repealed and a new section 204 enacted by Pub. L. 112–141, div. A, title I, §1119(a), July 6, 2012, 126 Stat. 473, 489.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (e)(1)(A), (2)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (e)(1)(A), (2)(A), is Pub. L. 91–190,Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 The date of enactment of this subsection, referred to in subsec. (e)(1)(B), is the date of enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
 
@@ -223,6 +225,8 @@ Subsec. (h). Pub. L. 114–94, §11502(b)(2), added subsec. (h).
 Subsec. (d). Pub. L. 109–59, §6009(a)(2)(B), added subsec. (d).
 
 <b>1987</b>—Subsec. (c). Pub. L. 100–17 inserted "(other than any project for a park road or parkway under section 204 of title 23)" after "program or project".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

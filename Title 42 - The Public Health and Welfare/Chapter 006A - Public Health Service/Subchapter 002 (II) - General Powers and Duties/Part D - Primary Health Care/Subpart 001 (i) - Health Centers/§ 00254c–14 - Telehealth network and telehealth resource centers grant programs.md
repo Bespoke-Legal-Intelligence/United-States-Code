@@ -134,7 +134,7 @@ To be eligible to receive a grant under subsection (d), an eligible entity, in c
 
 #### (B) Services
 
-&emsp;&emsp;The eligible entity proposes to use Federal funds made available through such a grant to develop plans for, or to establish, telehealth networks that provide mental health care, public health services, long-term care, home care, preventive care, case management services, or prenatal care for high-risk pregnancies.
+&emsp;&emsp;The eligible entity proposes to use Federal funds made available through such a grantto develop plans for, or to establish, telehealth networks that provide mental health care, public health services, long-term care, home care, preventive care, case management services, or prenatal care for high-risk pregnancies.
 
 #### (C) Coordination
 
@@ -196,7 +196,7 @@ To be eligible to receive a grant under subsection (d), an eligible entity, in c
 
 #### (1) Telehealth network program
 
-&emsp;The recipient of a grant under subsection (d)(1) may use funds received through suchgrant for salaries, equipment, and operating or other costs, including the cost of—
+&emsp;The recipient of a grant under subsection (d)(1) may use funds received through such grant for salaries, equipment, and operating or other costs, including the cost of—
 
 &emsp;&emsp;(A) developing and delivering clinical telehealth services that enhance access to community-based health care services in rural areas, frontier communities, or medically underserved areas, or for medically underserved populations;
 
@@ -286,6 +286,8 @@ There are authorized to be appropriated to carry out this section $29,000,000 fo
 
 (July 1, 1944, ch. 373, title III, §330I, as added Pub. L. 107–251, title II, §212, Oct. 26, 2002, 116 Stat. 1632; amended Pub. L. 108–163, §2(c), Dec. 6, 2003, 117 Stat. 2021; Pub. L. 113–55, title I, §103(a), Nov. 27, 2013, 127 Stat. 642; Pub. L. 116–136, div. A, title III, §3212, Mar. 27, 2020, 134 Stat. 368.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2020</b>—Subsec. (d)(1). Pub. L. 116–136, §3212(1)(A)(i), substituted "evidence-based projects that utilize telehealth technologies through telehealth networks" for "projects to demonstrate how telehealth technologies can be used through telehealth networks" in introductory provisions.
@@ -306,7 +308,7 @@ Subsec. (f)(3)(I). Pub. L. 116–136, §3212(3)(C), inserted "and substance use 
 
 Subsec. (g)(2). Pub. L. 116–136, §3212(4), substituted "and improve" for "or improve".
 
-Subsec. (h). Pub. L. 116–136, §3212(5), (6), redesignated subsec. (i) as (h) and struck out former subsec. (h). Prior to amendment, text of subsec. (h) read as follows: "The Secretary shall establish the terms and conditions of each grant program described in subsection (b) and the maximum amount of a grant to be awarded to an individual recipient for each fiscal year under this section. The Secretary shall publish, in a publication of the Health Resources and Services Administration, notice of the application requirements for each grant program described in subsection (b) for each fiscal year."
+Subsec. (h). Pub. L. 116–136, §3212(5), (6), redesignated subsec. (i) as (h) and struck out former subsec. (h). Prior to amendment, text of subsec. (h) read as follows: "The Secretary shall establish the terms and conditions of each grant program described in subsection (b)and the maximum amount of a grant to be awarded to an individual recipient for each fiscal year under this section. The Secretary shall publish, in a publication of the Health Resources and Services Administration, notice of the application requirements for each grant program described in subsection (b) for each fiscal year."
 
 Subsec. (h)(1)(B). Pub. L. 116–136, §3212(7)(A)(i), substituted "mental health care, public health services, long-term care, home care, preventive care" for "mental health, public health, long-term care, home care, preventive".
 
@@ -357,6 +359,8 @@ Subsec. (s). Pub. L. 116–136, §3212(12), redesignated subsec. (s) as (q).
 <b>2003</b>—Subsec. (a)(4). Pub. L. 108–163, §2(c)(1), substituted "section 295p(6)" for "section 295p".
 
 Subsec. (c)(1). Pub. L. 108–163, §2(c)(2), substituted "Health Resources and Services Administration" for "Health and Resources and Services Administration".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

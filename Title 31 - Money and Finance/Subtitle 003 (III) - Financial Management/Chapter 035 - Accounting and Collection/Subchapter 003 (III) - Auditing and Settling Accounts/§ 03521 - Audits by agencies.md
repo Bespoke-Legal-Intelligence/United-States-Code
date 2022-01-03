@@ -22,7 +22,7 @@
 
 &emsp;(2) in any other case, by an independent external auditor, as determined by the head of the agency.
 
-(f) For each audited financial statement required under subsection (a) of section 3515 of this title, the person who audits the statement for purpose of subsection (e) of this section shall submit a report on the audit to the head of the agency and the Controller of the Office of Federal Financial Management. A report under this subsection shall be prepared in accordance withgenerally accepted government auditing standards.
+(f) For each audited financial statement required under subsection (a) of section 3515 of this title, the person who audits the statement for purpose of subsection (e) of this section shall submit a report on the audit to the head of the agency and the Controller of the Office of Federal Financial Management. A report under this subsection shall be prepared in accordance with generally accepted government auditing standards.
 
 (g) The Comptroller General of the United States—
 
@@ -104,7 +104,7 @@ In subsection (c), the words "made by him" are omitted as surplus. The words "he
 
 #### References in Text
 
-The Inspector General Act of 1978, referred to in subsec. (e)(1), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101,as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in subsec. (e)(1), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 

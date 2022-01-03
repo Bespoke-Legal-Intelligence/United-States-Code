@@ -1,5 +1,7 @@
 ### §§1500 to 1500b. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Sections were omitted pursuant to section 5316 of this title which terminated the authority to make grants or loans under this chapter after Jan. 1, 1975.

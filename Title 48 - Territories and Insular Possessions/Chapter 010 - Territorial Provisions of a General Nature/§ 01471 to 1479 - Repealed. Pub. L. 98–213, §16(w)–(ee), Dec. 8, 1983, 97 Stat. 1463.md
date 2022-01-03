@@ -14,7 +14,7 @@ Section 1476, act Mar. 4, 1898, ch. 35, 30 Stat. 252, authorized issuance of bon
 
 Section 1477, act June 6, 1900, ch. 820, 31 Stat. 683, authorized issuance of bonds by chartered municipal corporations for erection of city buildings, free of certain debt limitations.
 
-Section 1478, act July 30, 1886, ch. 818, §6, 24 Stat. 171, prohibited construction of any provision to abridge power of Congress from annulling any law of a Territorial legislature, or modifying any existing law of Congress requiring that laws of any Territory be submitted to Congress.
+Section 1478, act July 30, 1886, ch. 818, §6, 24 Stat. 171, prohibited construction of any provision to abridge power of Congress from annulling any law of a Territorial legislature, or modifying any existing law ofCongress requiring that laws of any Territory be submitted to Congress.
 
 Section 1479, act July 30, 1886, ch. 818, §7, 24 Stat. 171, declared null and void any acts passed by any Territorial legislature after July 30, 1886, in conflict with specific sections of this title.
 

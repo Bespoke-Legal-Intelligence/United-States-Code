@@ -4,7 +4,7 @@
 
 #### (1) Establishment of strategic framework
 
-&emsp;The Secretary shall establish and implement an overall strategic framework to carry out the public reporting of performance information, as described in section 280j–2 of this title. Such strategic framework may include methods and related timelines for implementing nationally consistent data collection, data aggregation, and analysis methods.
+&emsp;The Secretary shall establish and implement an overall strategic framework to carry outthe public reporting of performance information, as described in section 280j–2 of this title. Such strategic framework may include methods and related timelines for implementing nationally consistent data collection, data aggregation, and analysis methods.
 
 #### (2) Collection and aggregation of data
 
@@ -51,6 +51,8 @@ The Secretary may not award a grant or contract under this section to an entity 
 To carry out this section, there are authorized to be appropriated such sums as may be necessary for fiscal years 2010 through 2014.
 
 (July 1, 1944, ch. 373, title III, §399II, as added and amended Pub. L. 111–148, title III, §3015, title X, §10305, Mar. 23, 2010, 124 Stat. 387, 938.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

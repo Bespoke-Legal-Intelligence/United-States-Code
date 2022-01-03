@@ -84,9 +84,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(cc) Employing more than 500 employees as of February 29, 2020, determined on a full-time equivalent basis in accordance with subparagraph (C).
 
-&emsp;&emsp;&emsp;(III) The live venue operator or promoter, theatrical producer, or live performing arts organization operator, the relevant museum operator, the motion picture theatre operator, or the talent representative has not received, on or after December 27, 2020, a loan guaranteed under paragraph (36) or (37) of section 636(a) of this title, as amended and added by this division.
-
-&emsp;&emsp;&emsp;(IV) For purposes of applying the characteristics described in subclauses (I), (II), and (III) to an entity owned by a State or a political subdivision of a State, the relevant entity—
+&emsp;&emsp;&emsp;(III) For purposes of applying the characteristics described in subclauses (I) and (II) to an entity owned by a State or a political subdivision of a State, the relevant entity—
 
 &emsp;&emsp;&emsp;&emsp;(aa) shall be the live venue operator or promoter, theatrical producer, or live performing arts organization operator, the relevant museum operator, the motion picture theatre operator, or the talent representative; and
 
@@ -202,7 +200,7 @@ In this section:
 
 &emsp;&emsp;(A) means an agent or manager that—
 
-&emsp;&emsp;&emsp;(i) as not less than 70 percent of the operations of the agent or manager, is engaged in representing or managing artists and entertainers;
+&emsp;&emsp;&emsp;(i) as not less than 70 percent of the operations of the agent or manager, is engagedin representing or managing artists and entertainers;
 
 &emsp;&emsp;&emsp;(ii) books or represents musicians, comedians, actors, or similar performing artists primarily at live events in venues or at festivals; and
 
@@ -282,7 +280,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), the Administrator may make a supplemental grant in accordance with this section to an eligible person or entity that receives a grant under paragraph (2) if, as of April 1, 2021, the revenues of the eligible person or entity for the most recent calendar quarter are not more than 30 percent of the revenues of the eligible person or entity for the corresponding calendar quarter during 2019 due to the COVID–19 pandemic.
+&emsp;&emsp;Subject to subparagraph (B), the Administrator may make a supplemental grant in accordance with this section to an eligible person or entity that receives a grant underparagraph (2) if, as of April 1, 2021, the revenues of the eligible person or entity for the most recent calendar quarter are not more than 30 percent of the revenues of the eligible person or entity for the corresponding calendar quarter during 2019 due to the COVID–19 pandemic.
 
 #### (B) Processing timely initial grant applications first
 
@@ -298,7 +296,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;A grant under subsection (b)(2) shall be in the amount equal to the lesser of—
+&emsp;&emsp;Subject to subparagraphs (B) and (C), a grant under subsection (b)(2) shall be in the amount equal to the lesser of—
 
 &emsp;&emsp;&emsp;(i)(I) for an eligible person or entity that was in operation on January 1, 2019, the amount equal to 45 percent of the gross earned revenue of the eligible person or entity during 2019; or
 
@@ -313,6 +311,20 @@ In this section:
 #### (B) Application to relevant museum operators
 
 &emsp;&emsp;A relevant museum operator may not receive grants under subsection (b)(2) in a total amount that is more than $10,000,000 with respect to all relevant museums operated by the relevant museum operator.
+
+#### (C) Reduction for recipients of new PPP loans
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The otherwise applicable amount of a grant under subsection (b)(2) to an eligible person or entity shall be reduced by the total amount of loans guaranteed under paragraph (36) or (37) of section 636(a) of this title that are received on or after December 27, 2020 by the eligible person or entity.
+
+#### (ii) Application to governmental entities
+
+&emsp;&emsp;&emsp;For purposes of applying clause (i) to an eligible person or entity owned by a State or a political subdivision of a State, the relevant entity—
+
+&emsp;&emsp;&emsp;&emsp;(I) shall be the eligible person or entity; and
+
+&emsp;&emsp;&emsp;&emsp;(II) shall not include entities of the State or political subdivision other than the eligible person or entity.
 
 #### (2) Supplemental grants
 
@@ -450,13 +462,13 @@ The Administrator shall increase oversight of eligible persons and entities rece
 
 &emsp;&emsp;(E) any substantial changes made to the oversight and audit plan submitted under paragraph (1).
 
-(Pub. L. 116–260, div. N, title III, §324, Dec. 27, 2020, 134 Stat. 2022.)
+(Pub. L. 116–260, div. N, title III, §324, Dec. 27, 2020, 134 Stat. 2022; Pub. L. 117–2, title V, §5005(b), Mar. 11, 2021, 135 Stat. 92.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(1)(A)(vi)(I)(bb), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
-
-Paragraph (36) or (37) of section 636(a) of this title, as amended and added by this division, referred to in subsec. (a)(1)(A)(vi)(III), is par. (36) of section 636(a) of this title, as amended, or par. (37) of section 636(a) of this title, as added, by div. N of Pub. L. 116–260.
 
 Subparagraph (A) of section 636(a)(36) of this title, as amended by this Act, referred to in subsec. (a)(8), probably means subpar. (A) of section 636(a)(36) of this title, as amended by title III of div. N of Pub. L. 116–260.
 
@@ -470,9 +482,19 @@ Section 636m(a) of this title, as redesignated, transferred, and amended by this
 
 Section was enacted as part of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act, and not as part of the CARES Act which in part comprises this chapter.
 
+#### Amendments
+
+<b>2021</b>—Subsec. (a)(1)(A)(vi)(III), (IV). Pub. L. 117–2, §5005(b)(1), redesignated subcl. (IV) as (III), substituted "subclauses (I) and (II)" for "subclauses (I), (II), and (III)", and struck out former subcl. (III) which read as follows: "The live venue operator or promoter, theatrical producer, or live performing arts organization operator, the relevant museum operator, the motion picture theatre operator, or the talent representative has not received, on or after December 27, 2020, a loan guaranteed under paragraph (36) or (37) of section 636(a) of this title, as amended and added by this division."
+
+Subsec. (c)(1)(A). Pub. L. 117–2, §5005(b)(2)(A), substituted "Subject to subparagraphs (B) and (C), a grant" for "A grant" in introductory provisions.
+
+Subsec. (c)(1)(C). Pub. L. 117–2, §5005(b)(2)(B), added subpar. (C).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Section effective on Dec. 27, 2020, and applicable to loans and grants made on or after Dec. 27, 2020, see section 348 of div. N of Pub. L. 116–260, set out as an Effective Date of 2020 Amendment note under section 636 of this title.
+Section effective on Dec. 27, 2020, and applicable to loans and grants made on or after Dec. 27, 2020, see section 348 of Pub. L. 116–260, set out as an Effective Date of 2020 Amendment note under section 636 of this title.
 
 #### Clarification of Tax Treatment of Certain Loan Forgiveness and Other Business Financial Assistance
 

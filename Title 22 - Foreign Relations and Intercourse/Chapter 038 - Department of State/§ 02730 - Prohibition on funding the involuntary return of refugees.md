@@ -28,7 +28,7 @@ In this section:
 
 #### (2) To effect the involuntary return
 
-&emsp;The term "to effect the involuntary return" means to require, by means of physical forceor circumstances amounting to a threat thereof, a person to return to a country against the person's will, regardless of whether the person is physically present in the United States and regardless of whether the United States acts directly or through an agent.
+&emsp;The term "to effect the involuntary return" means to require, by means of physical force or circumstances amounting to a threat thereof, a person to return to a country against the person's will, regardless of whether the person is physically present in the United States and regardless of whether the United States acts directly or through an agent.
 
 (Aug. 1, 1956, ch. 841, title I, §58, as added Pub. L. 107–228, div. A, title II, §241, Sept. 30, 2002, 116 Stat. 1373.)
 

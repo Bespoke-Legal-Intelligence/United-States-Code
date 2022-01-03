@@ -104,6 +104,8 @@ For purposes of this subchapter—
 
 (Added Pub. L. 98–369, div. A, title II, §211(a), July 18, 1984, 98 Stat. 732; amended Pub. L. 99–514, title XVIII, §1821(b), (c), Oct. 22, 1986, 100 Stat. 2838; Pub. L. 108–218, title II, §205(b)(3), Apr. 10, 2004, 118 Stat. 610; Pub. L. 115–97, title I, §13517(b)(1), Dec. 22, 2017, 131 Stat. 2147.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of the Tax Reform Act of 1984, referred to in subsec. (f)(4), is the date of enactment of Pub. L. 98–369, div. A, which was approved July 18, 1984.
@@ -125,6 +127,8 @@ Reduction in case of mutual companies.—In the case of a mutual life insurance 
 <b>1986</b>—Subsec. (d)(1)(B). Pub. L. 99–514, §1821(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "determined at a rate in excess of the prevailing State assumed interest rate for such contract."
 
 Subsec. (f). Pub. L. 99–514, §1821(c), added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 

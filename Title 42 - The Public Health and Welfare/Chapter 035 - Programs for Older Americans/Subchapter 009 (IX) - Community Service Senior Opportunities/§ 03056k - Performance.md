@@ -20,7 +20,7 @@
 
 #### (i) First 2 years
 
-&emsp;&emsp;&emsp;Each grantee shall reach agreement with the Secretary on levels of performance for each measure described in subparagraph (A)(i),<sup>1</sup> for each of the first 2 program years covered by the grant agreement. In reaching the agreement, the grantee andthe Secretary shall take into account the expected levels proposed by the grantee and the factors described in subparagraph (D). The levels agreed to shall be considered to be the expected levels of performance for the grantee for such program years.
+&emsp;&emsp;&emsp;Each grantee shall reach agreement with the Secretary on levels of performance for each measure described in subparagraph (A)(i),<sup>1</sup> for each of the first 2 program years covered by the grant agreement. In reaching the agreement, the grantee and the Secretary shall take into account the expected levels proposed by the grantee and the factors described in subparagraph (D). The levels agreed to shall be considered to be the expected levels of performance for the grantee for such program years.
 
 #### (ii) Third and fourth year
 
@@ -134,7 +134,9 @@ The Secretary shall annually evaluate, and publish and make available for public
 
 Effective on January 1, 2018, the Secretary may not publish a notice announcing a grant competition under this subchapter, or solicit proposals for grants, until the day on which the Secretary implements the core measures of performance.
 
-(Pub. L. 89–73, title V, §513, as added Pub. L. 109–365, title V, §501, Oct. 17, 2006, 120 Stat. 2580; amended Pub. L. 114–144, §6(d), Apr. 19, 2016, 130 Stat. 343.)
+(Pub. L. 89–73, title V, §513, as added Pub. L. 109–365, title V, §501, Oct. 17, 2006, 120 Stat. 2580;amended Pub. L. 114–144, §6(d), Apr. 19, 2016, 130 Stat. 343.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

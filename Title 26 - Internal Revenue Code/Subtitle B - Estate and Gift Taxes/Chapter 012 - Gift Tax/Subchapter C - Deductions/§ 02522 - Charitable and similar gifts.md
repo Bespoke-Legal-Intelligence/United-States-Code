@@ -118,6 +118,8 @@ A deduction shall be allowed under subsection (a) in respect of any transfer of 
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 410; Pub. L. 85–866, title I, §30(d), Sept. 2, 1958, 72 Stat. 1631; Pub. L. 91–172, title II, §201(d)(3), (4)(C), (D), Dec. 30, 1969, 83 Stat. 561, 562; Pub. L. 91–614, title I, §102(c)(2), Dec. 31, 1970, 84 Stat. 1841; Pub. L. 94–455, title XII, §§1307(d)(1)(B)(iv), (v), 1313(b)(3), title XIX, §1902(a)(11), (12)(D), title XXI, §2124(e)(3), Oct. 4, 1976, 90 Stat. 1727, 1730, 1805, 1806, 1920; Pub. L. 97–34, title IV, §§423(b), 442(c), Aug. 13, 1981, 95 Stat. 317, 322; Pub. L. 97–248, title II, §286(b)(3), Sept. 3, 1982, 96 Stat. 570; Pub. L. 97–473, title II, §202(b)(7), Jan. 14, 1983, 96 Stat. 2610; Pub. L. 98–369, div. A, title X, §§1022(c), 1032(b)(3), July 18, 1984, 98 Stat. 1028, 1034; Pub. L. 99–514, title XIV, §1422(b), Oct. 22, 1986, 100 Stat. 2717; Pub. L. 100–203, title X, §10711(a)(5), (6), Dec. 22, 1987, 101 Stat. 1330–464; Pub. L. 109–280, title XII, §§1218(c), 1234(c), Aug. 17, 2006, 120 Stat. 1082, 1101; Pub. L. 110–172, §§3(d)(2), 11(a)(16), Dec. 29, 2007, 121 Stat. 2474, 2485; Pub. L. 115–141, div. U, title IV, §401(a)(204), Mar. 23, 2018, 132 Stat. 1194.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Sections 1218(c) and 1234(c) of Pub. L. 109–280, which directed the amendment of section 2522 without specifying the act to be amended, were executed to this section, which is section 2522 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
@@ -192,6 +194,8 @@ Subsec. (c). Pub. L. 91–172, §201(d)(3), substituted substantive provisions f
 
 <b>1958</b>—Subsec. (c). Pub. L. 85–866 substituted "503" for "504".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2007 Amendment
 
 Amendment by section 3(d)(2) of Pub. L. 110–172 effective as if included in the provisions of the Pension Protection Act of 2006, Pub. L. 109–280, to which such amendment relates, see section 3(j) of Pub. L. 110–172, set out as a note under section 170 of this title.
@@ -212,7 +216,7 @@ Amendment by Pub. L. 99–514 applicable to transfers and contributions made aft
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 1022(c) of Pub. L. 98–369 applicable to reformations after Dec. 31, 1978, but inapplicable to any reformation to which section 2055(e)(3) of this title as in effect before July 18, 1984, applies, see section 1022(e)(1) of Pub. L. 98–369, set out as a note under section 2055 of this title.
+Amendment by section 1022(c) of Pub. L. 98–369 applicable to reformations after Dec. 31, 1978, but inapplicable to any reformation to which section 2055(e)(3) of this title as in effect before July 18, 1984, applies, seesection 1022(e)(1) of Pub. L. 98–369, set out as a note under section 2055 of this title.
 
 Amendment by section 1032(b)(3) of Pub. L. 98–369 applicable to taxable years beginning after July 18, 1984, see section 1032(c) of Pub. L. 98–369, set out as a note under section 170 of this title.
 

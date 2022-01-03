@@ -20,9 +20,7 @@ No registered closed-end company shall purchase any securities of any class of w
 
 (Aug. 22, 1940, ch. 686, title I, §23, 54 Stat. 825.)
 
-#### Transfer of Functions
-
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Parity for Closed-End Companies Regarding Offering and Proxy Rules
 
@@ -49,4 +47,10 @@ No effect on rule 482.—Nothing in this section or the amendments made by this 
 References.—Any reference in this section to a section of title 17, Code of Federal Regulations, or to any form or schedule means such rule, section, form, or schedule, or any successor to any such rule, section, form, or schedule."
 
 \[For definition of "company" as used in section 509 of Pub. L. 115–174, set out above, see section 2 of Pub. L. 115–174, set out as a Definitions note under section 5365 of Title 12, Banks and Banking.\]
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 

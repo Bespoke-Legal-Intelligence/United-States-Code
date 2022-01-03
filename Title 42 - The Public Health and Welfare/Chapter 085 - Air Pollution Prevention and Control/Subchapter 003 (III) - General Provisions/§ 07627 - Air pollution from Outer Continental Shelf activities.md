@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 12 months after November 15, 1990, following consultation with the Secretary of the Interior and the Commandant of the United States Coast Guard, the Administrator, by rule, shall establish requirements to control air pollution from Outer Continental Shelf sources located offshore of the States along the Pacific, Arctic and Atlantic Coasts (other than Outer Continental Shelf sources located offshore of the North Slope Borough of the State of Alaska), and along the United States Gulf Coast off the State of Florida eastward of longitude 87 degrees and 30 minutes ("OCS sources") to attain and maintain Federal and State ambient air quality standards and to comply with the provisions of part C of subchapter I. For such sources located within 25 miles of the seaward boundary of such States, such requirements shall be the same as would be applicable if the source were located in the corresponding onshore area, and shall include, but not be limited to, State and local requirements for emission controls, emission limitations, offsets, permitting, monitoring, testing, and reporting. New OCS sources shall comply with such requirements on the date of promulgation and existing OCS sources shall comply on the date 24 months thereafter. The Administrator shall update such requirements as necessary to maintain consistency with onshore regulations and this chapter. The authority of this subsection shall supersede section 5(a)(8) of the Outer Continental Shelf Lands Act \[43 U.S.C. 1334(a)(8)\] but shall not repeal or modify any other Federal, State, or local authorities with respect to air quality. Each requirement established under this section shall be treated, for purposes of sections 7413, 7414, 7416, 7420, and 7604 of this title, as a standard under section 7411 of this title and a violation of any such requirement shall be considered a violation of section 7411(e) of this title.
+&emsp;Not later than 12 months after November 15, 1990, following consultation with the Secretary of the Interior and the Commandant of the United States Coast Guard, the Administrator, by rule, shall establish requirements to control air pollution from Outer ContinentalShelf sources located offshore of the States along the Pacific, Arctic and Atlantic Coasts (other than Outer Continental Shelf sources located offshore of the North Slope Borough of the State of Alaska), and along the United States Gulf Coast off the State of Florida eastward of longitude 87 degrees and 30 minutes ("OCS sources") to attain and maintain Federal and State ambient air quality standards and to comply with the provisions of part C of subchapter I. For such sources located within 25 miles of the seaward boundary of such States, such requirements shall be the same as would be applicable if the source were located in the corresponding onshore area, and shall include, but not be limited to, State and local requirements for emission controls, emission limitations, offsets, permitting, monitoring, testing, and reporting. New OCS sources shall comply with such requirements on the date of promulgation and existing OCS sources shall comply on the date 24 months thereafter. The Administrator shall update such requirements as necessary to maintain consistency with onshore regulations and this chapter. The authority of this subsection shall supersede section 5(a)(8) of the Outer Continental Shelf Lands Act \[43 U.S.C. 1334(a)(8)\] but shall not repeal or modify any other Federal, State, or local authorities with respect to air quality. Each requirement established under this section shall be treated, for purposes of sections 7413, 7414, 7416, 7420, and 7604 of this title, as a standard under section 7411 of this title and a violation of any such requirement shall be considered a violation of section 7411(e) of this title.
 
 #### (2) Exemptions
 
@@ -44,7 +44,7 @@
 
 #### (b) Requirements for other offshore areas
 
-For portions of the United States Outer Continental Shelf that are adjacent to the States not covered by subsection (a) which are Texas, Louisiana, Mississippi, and Alabama or are adjacent to the North Slope Borough of the State of Alaska, the Secretary shall consult with the Administrator to assure coordination of air pollution control regulation for Outer Continental Shelf emissions and emissions in adjacent onshore areas. Concurrently with this obligation, the Secretary shall complete within 3 years of November 15, 1990, a research study examining the impacts of emissions from Outer Continental Shelf activities in such areas that fail to meet the national ambient air quality standards for either ozone or nitrogen dioxide. Based on the results of this study, the Secretary shall consult with the Administrator and determine if any additional actions are necessary. There are authorized to be appropriated such sums as may be necessary to provide funding for the study required under this section.
+For portions of the United States Outer Continental Shelf that are adjacent to the States not covered by subsection (a) which are Texas, Louisiana, Mississippi, and Alabama or are adjacent to the North Slope Borough of the State of Alaska, the Secretary shall consult with the Administrator to assure coordination of air pollution control regulation for Outer Continental Shelf emissions and emissions in adjacent onshore areas. Concurrently with this obligation, theSecretary shall complete within 3 years of November 15, 1990, a research study examining the impacts of emissions from Outer Continental Shelf activities in such areas that fail to meet the national ambient air quality standards for either ozone or nitrogen dioxide. Based on the results of this study, the Secretary shall consult with the Administrator and determine if any additional actions are necessary. There are authorized to be appropriated such sums as may be necessary to provide funding for the study required under this section.
 
 #### (c) Coastal waters
 
@@ -54,15 +54,19 @@ For portions of the United States Outer Continental Shelf that are adjacent to t
 
 (July 14, 1955, ch. 360, title III, §328, as added Pub. L. 101–549, title VIII, §801, Nov. 15, 1990, 104 Stat. 2685; amended Pub. L. 112–74, div. E, title IV, §432(b), (c), Dec. 23, 2011, 125 Stat. 1048, 1049.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Outer Continental Shelf Lands Act, referred to in subsec. (a)(4)(C)(ii), is act Aug. 7, 1953, ch. 345, 67 Stat.462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
+The Outer Continental Shelf Lands Act, referred to in subsec. (a)(4)(C)(ii), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
 
 #### Amendments
 
 <b>2011</b>—Subsec. (a)(1). Pub. L. 112–74, §432(b), inserted "(other than Outer Continental Shelf sources located offshore of the North Slope Borough of the State of Alaska)" after "Outer Continental Shelf sources located offshore of the States along the Pacific, Arctic and Atlantic Coasts" and "and this chapter" after "regulations".
 
 Subsec. (b). Pub. L. 112–74, §432(c), struck out "Gulf Coast" after "United States" and inserted "or are adjacent to the North Slope Borough of the State of Alaska" after "Alabama".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

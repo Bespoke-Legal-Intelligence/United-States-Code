@@ -1,10 +1,14 @@
 ### §1100. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act Aug. 8, 1947, ch. 519, §1, 61 Stat. 922, provided that this chapter may be cited as the Sugar Act of 1948, and expired on Dec. 31, 1974.
 
 A prior section, act Sept. 1, 1937, ch. 898, §1, 50 Stat. 903, provided that this chapter may be cited as the Sugar Act of 1937, and expired on Dec. 31, 1947.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination Date
 

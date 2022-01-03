@@ -218,7 +218,7 @@ Provision for education and training.—Education and training of Government, St
 
 &emsp;&emsp;(A) by the Secretary at no cost to the States and local governments for subjects that are a Government program responsibility; or
 
-&emsp;&emsp;(B) when the education and training are paid under paragraph (4), by the State, with the approval of the Secretary, through grants and contracts with public and private agencies, other institutions, individuals, and the institute.
+&emsp;&emsp;(B) when the education and training are paid under paragraph (4), by the State, withthe approval of the Secretary, through grants and contracts with public and private agencies, other institutions, individuals, and the institute.
 
 &emsp;(4)
 
@@ -260,6 +260,8 @@ In subsection (a)(3), the words "conditions, requirements, and provisions" are o
 
 In subsection (a)(4)(C), the word "section" in the source provision is translated as if it were "paragraph" to reflect the apparent intent of Congress.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Americans with Disabilities Act of 1990, referred to in subsec. (a)(2)(A), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
@@ -295,6 +297,8 @@ Subsec. (c). Pub. L. 109–59, §3016(b), added subsec. (c).
 <b>1998</b>—Subsec. (a)(1). Pub. L. 105–178, §3029(b)(6), substituted "subsections (d) and (h)(7) of section 5338" for "section 5338(g)(4)".
 
 Subsec. (a)(2). Pub. L. 105–178, §3016, substituted "$3,000,000" for "$2,000,000".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

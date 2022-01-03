@@ -56,6 +56,8 @@ In the case of any experiment or demonstration project under subsection (a), the
 
 (Pub. L. 90–248, title IV, §402(a), (b), Jan. 2, 1968, 81 Stat. 930, 931; Pub. L. 92–603, title II, §§222(b), 278(b)(2), Oct. 30, 1972, 86 Stat. 1391, 1453; Pub. L. 95–142, §17(d), Oct. 25, 1977, 91 Stat. 1202; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 97–35, title XXI, §2193(d), Aug. 13, 1981, 95 Stat. 828; Pub. L. 97–248, title I, §147, Sept. 3, 1982, 96 Stat. 394; Pub. L. 98–369, div. B, title III, §2331(b), July 18, 1984, 98 Stat. 1088.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 222(a) of the Social Security Amendments of 1972, referred to in subsec. (a)(1)(A), is section 222(a) of Pub. L. 92–603, Oct. 30, 1972, 86 Stat. 1329, which is set out as a note below.
@@ -86,9 +88,11 @@ Subsec. (b). Pub. L. 97–35, §2193(d)(3), substituted reference to subchapter 
 
 Subsec. (b). Pub. L. 92–603, §222(b)(2), inserted references to demonstration projects and inserted ", or to reimbursement or payment only for such services or items as may be specified in the experiment".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
-"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsec. (a)(1) pursuant to section 509(b) Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+"Secretary of Health and Human Services" substituted in text for "Secretary of Health, Education, and Welfare" pursuant to section 509(b) Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
 #### Effective Date of 1984 Amendment
 
@@ -218,7 +222,7 @@ Waiver Authority.—The Secretary may waive such requirements of titles XI and X
 
 "(f)
 
-Funding.—For purposes of carrying out this section, the Secretary of Health and Human Services shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1817 of the Social Security Act (42 U.S.C. 1395i) and the Federal Supplementary Medical Insurance Trust Fund under section 1841 of such Act (42 U.S.C. 1395t), in such proportion as the Secretary determines appropriate, of $500,000,000, to the Centers for Medicare \& Medicaid Services Program Management Account for the period of fiscal years 2011through 2015. Amounts transferred under the preceding sentence shall remain available until expended."
+Funding.—For purposes of carrying out this section, the Secretary of Health and Human Services shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1817 of the Social Security Act (42 U.S.C. 1395i) and the Federal Supplementary Medical Insurance Trust Fund under section 1841 of such Act (42 U.S.C. 1395t), in such proportion as the Secretary determines appropriate, of $500,000,000, to the Centers for Medicare \& Medicaid Services Program Management Account for the period of fiscal years 2011 through 2015. Amounts transferred under the preceding sentence shall remain available until expended."
 
 #### Pilot Testing Pay-for-Performance Programs for Certain Medicare Providers
 
@@ -634,7 +638,7 @@ Contents of report.—Each report under paragraph (1) shall include the followin
 
 "(d)
 
-Waiver Authority.—The Secretary shall waive compliance with the requirements of title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] to such extent and for such period as the Secretary determines is necessary to conduct demonstration projects.
+Waiver Authority.—The Secretary shall waive compliance with the requirements of title XVIII of theSocial Security Act \[42 U.S.C. 1395 et seq.\] to such extent and for such period as the Secretary determines is necessary to conduct demonstration projects.
 
 "(e)
 
@@ -706,7 +710,7 @@ In general.—The Secretary of Health and Human Services (in this section referr
 
 &emsp;"(2)
 
-Target individual defined.—In this section, the term 'target individual' means an individual that has a chronic illness, as defined and identified by theSecretary, and is enrolled under the fee-for-service program under parts A and B of title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.; 1395j et seq.).
+Target individual defined.—In this section, the term 'target individual' means an individual that has a chronic illness, as defined and identified by the Secretary, and is enrolled under the fee-for-service program under parts A and B of title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.; 1395j et seq.).
 
 "(b)
 
@@ -878,7 +882,7 @@ In general.—Subject to paragraph (3), payment for such services shall be made 
 
 Costs that may be included.—The costs described in this subparagraph are the permissible costs (as recognized by the Secretary) for the following:
 
-&emsp;&emsp;&emsp;"(i) The acquisition of telemedicine equipment for use in patients' homes or at sites providing health care to patients located in medically underserved areas.
+&emsp;&emsp;&emsp;"(i) The acquisition of telemedicine equipment for use in patients' homes or at sites providinghealth care to patients located in medically underserved areas.
 
 &emsp;&emsp;&emsp;"(ii) Curriculum development and training of health professionals in medical informatics and telemedicine.
 
@@ -946,7 +950,7 @@ Consideration of applications.—The Secretary of Health and Human Services (in 
 
 &emsp;"(2)
 
-Approval of certain applications.—The Secretary shall approve not more than 10 applications toconduct projects which appear likely to contribute significantly to the achievement of the purpose of this section.
+Approval of certain applications.—The Secretary shall approve not more than 10 applications to conduct projects which appear likely to contribute significantly to the achievement of the purpose of this section.
 
 &emsp;"(3)
 
@@ -1094,7 +1098,7 @@ Pub. L. 98–21, title VI, §603(b), Apr. 20, 1983, 97 Stat. 167, provided that:
 
 "(1) Except as provided in paragraph (2), the amendments made by this title \[amending sections 1320a–1, 1320c–2, 1395f, 1395i–2, 1395n, 1395r, 1395v, 1395w, 1395x, 1395y, 1395cc, 1395mm, 1395oo, 1395rr, 1395ww, and 1395xx of this title, enacting provisions set out as notes under this section and sections 1395r, 1395x, 1395y, 1395cc, and 1395ww of this title, and amending provisions set out as a note under section 1395x of this title\] shall not affect the authority of the Secretary to develop, carry out, or continue experiments and demonstration projects.
 
-"(2) The Secretary shall provide that, upon the request of a State which has a demonstration project, for payment of hospitals under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] approved under section 402(a) of the Social Security Amendments of 1967 \[42 U.S.C. 1395b–1(a)\] or section 222(a) of the Social Security Amendments of 1972 \[set out as a note below\], which (A) is in effect as of March 1, 1983, and (B) was entered into after August 1982 (or upon the request of another party to demonstration project agreement), the terms of the demonstration agreement shall be modified so that the demonstration project is not required to maintain the rate of increase in medicare hospital costs in that State below the national rate of increase in medicare hospital costs."
+"(2) The Secretary shall provide that, upon the request of a State which has a demonstration project, forpayment of hospitals under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] approved under section 402(a) of the Social Security Amendments of 1967 \[42 U.S.C. 1395b–1(a)\] or section 222(a) of the Social Security Amendments of 1972 \[set out as a note below\], which (A) is in effect as of March 1, 1983, and (B) was entered into after August 1982 (or upon the request of another party to demonstration project agreement), the terms of the demonstration agreement shall be modified so that the demonstration project is not required to maintain the rate of increase in medicare hospital costs in that State below the national rate of increase in medicare hospital costs."
 
 #### Alternative Care Demonstration Projects in Hospitals Short of Skilled Nursing Facilities
 
@@ -1130,7 +1134,7 @@ Pub. L. 94–182, title I, §107, Dec. 31, 1975, 89 Stat. 1053, provided that: "
 
 &emsp;"(1) the applicant for such grant is a State or an agency thereof,
 
-&emsp;"(2) such participant is an individual practice association which has been in existence for at least 3 years prior to the date of enactment of this section \[Dec. 31, 1975\] and which has in effect a contract with such State (or an agency thereof), entered into prior to the date on which the grant is approved by the Secretary, under which such association will, for a period which begins before and ends after the date such grant is so approved, provide health care services for individuals entitled to care and services under the State plan of such State which is approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\],
+&emsp;"(2) such participant is an individual practice association which has been in existence for at least 3 years prior to the date of enactment of this section \[Dec. 31, 1975\] and which has in effect a contract with such State (or an agency thereof), entered into prior to the date on which the grant is approved by the Secretary, under which such association will, for a period which begins before and ends after the date such grant is so approved, provide health care services for individuals entitled to care and servicesunder the State plan of such State which is approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\],
 
 &emsp;"(3) the purpose of the inclusion of the project of such association is to test the utility of a particular rate-setting methodology, designed to be employed in prepaid health plans, in an individual practice association operation, and
 
@@ -1146,7 +1150,7 @@ Pub. L. 92–603, title II, §222(a), Oct. 30, 1972, 86 Stat. 1390, as amended b
 
 "(3) In the case of any experiment or demonstration project under paragraph (1), the Secretary may waive compliance with the requirements of titles XVIII and XIX of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq.\] insofar as such requirements relate to methods of payment for services provided; and costs incurred in such experiment or project in excess of those which would otherwise be reimbursed or paid under such titles \[subchapters\] may be reimbursed or paid to the extent that such waiver applies to them (with such excess being borne by the Secretary). No experiment or demonstration project shall be developed or carried out under paragraph (1) until the Secretary obtains the advice and recommendations of specialists who are competent to evaluate the proposed experiment or project as to the soundness of its objectives, the possibilities of securing productive results, the adequacy of resources to conduct it, and its relationship to other similar experiments or projects already completed or in process; and no such experiment or project shall be actually placed in operation unless at least 30 days prior thereto a written report, prepared for purposes of notification and information only, containing a full and complete description thereof has been transmitted to the Committee on Ways and Means of the House of Representatives and to the Committee on Finance of the Senate.
 
-"(4) Grants, payments under contracts, and other expenditures made for experiments and demonstration projects under this subsection shall be made in appropriate part from the Federal Hospital Insurance Trust Fund (established by section 1817 of the Social Security Act \[42 U.S.C. 1395i\]) and the Federal Supplementary Medical Insurance Trust Fund (established by section1841 of the Social Security Act \[42 U.S.C. 1395t\]) and from funds appropriated under title XIX of such Act \[42 U.S.C. 1396 et seq.\]. Grants and payments under contracts may be made either in advance or by way of reimbursement, as may be determined by the Secretary, and shall be made in such installments and on such conditions as the Secretary finds necessary to carry out the purpose of this subsection. With respect to any such grant, payment, or other expenditure, the amount to be paid from each of such trust funds (and from funds appropriated under such title XIX) shall be determined by the Secretary, giving due regard to the purposes of the experiment or project involved.
+"(4) Grants, payments under contracts, and other expenditures made for experiments and demonstration projects under this subsection shall be made in appropriate part from the Federal Hospital Insurance Trust Fund (established by section 1817 of the Social Security Act \[42 U.S.C. 1395i\]) and the Federal Supplementary Medical Insurance Trust Fund (established by section 1841 of the Social Security Act \[42 U.S.C. 1395t\]) and from funds appropriated under title XIX of such Act \[42 U.S.C. 1396 et seq.\]. Grants and payments under contracts may be made either in advance or by way of reimbursement, as may be determined by the Secretary, and shall be made in such installments and on such conditions as the Secretary finds necessary to carry out the purpose of this subsection. With respect to any such grant, payment, or other expenditure, the amount to be paid from each of such trust funds (and from funds appropriated under such title XIX) shall be determined by the Secretary, giving due regard to the purposes of the experiment or project involved.
 
 "(5) The Secretary shall submit to the Congress no later than July 1, 1974, a full report on the experiments and demonstration projects carried out under this subsection and on the experience of other programs with respect to prospective reimbursement together with any related data and materials which he may consider appropriate. Such report shall include detailed recommendations with respect to the specific methods which could be used in the full implementation of a system of prospective payment to providers of services under the programs involved."
 

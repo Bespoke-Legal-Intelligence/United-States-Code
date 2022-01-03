@@ -14,6 +14,8 @@ Covered Member Defined.—In this section, the term "covered member" means a mem
 
 (Added Pub. L. 115–91, div. A, title VII, §703(a)(1), Dec. 12, 2017, 131 Stat. 1435.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Pub. L. 115–91, div. A, title VII, §703(b), Dec. 12, 2017, 131 Stat. 1435, provided that: "The amendments made by subsection (a) \[enacting this section\] shall take effect 90 days after the date of the enactment of this Act \[Dec. 12, 2017\]."

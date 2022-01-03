@@ -12,6 +12,8 @@ The value of the gross estate shall include the value of all property—
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 387; Pub. L. 94–455, title XIX, §1906(b)(13) (A), Oct. 4, 1976, 90 Stat. 1834.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary".

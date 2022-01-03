@@ -2,13 +2,15 @@
 
 #### (a) General prohibition
 
-Notwithstanding any other provision of Federal law and except as provided in subsection (b), no funds provided under this chapter to the Secretary or to the recipient of any award may be used to develop, incentivize, pilot test, field test, implement, administer, or distribute any federally sponsored national test in reading, mathematics, or any other subject, unless specifically and explicitly authorized by law, including any assessment or testing materials aligned to the Common Core State Standards developed under the Common Core State Standards Initiative or any other academic standards common to a significant number of States.
+Notwithstanding any other provision of Federal law and except as provided in subsection (b), no funds provided under this chapter to the Secretary or to the recipient of any award may be used to develop, incentivize, pilot test, field test, implement, administer, or distribute any federally sponsored national test in reading, mathematics, or any other subject, unless specifically and explicitly authorized by law, including any assessment or testing materialsaligned to the Common Core State Standards developed under the Common Core State Standards Initiative or any other academic standards common to a significant number of States.
 
 #### (b) Exceptions
 
 Subsection (a) shall not apply to international comparative assessments developed under the authority of section 9543(a)(6) of this title and administered to only a representative sample of pupils in the United States and in foreign nations.
 
 (Pub. L. 89–10, title VIII, §8529, formerly title IX, §9529, as added Pub. L. 107–110, title IX, §901, Jan. 8, 2002, 115 Stat. 1984; amended Pub. L. 107–279, title IV, §404(d)(9), Nov. 5, 2002, 116 Stat. 1986; renumbered title VIII, §8529, and amended Pub. L. 114–95, title VIII, §§8001(a)(6), 8026, Dec. 10, 2015, 129 Stat. 2088, 2089, 2115.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -19,6 +21,8 @@ A prior section 7909, Pub. L. 89–10, title IX, §9209, as added Pub. L. 103–
 <b>2015</b>—Pub. L. 114–95, §8026, amended section generally. Prior to amendment, section consisted of subsecs. (a) and (b) relating to general prohibition on federally sponsored testing and exceptions, respectively.
 
 <b>2002</b>—Subsec. (b). Pub. L. 107–279 substituted "section 9543(a)(5) of this title" for "section 9003(a)(6) of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

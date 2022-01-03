@@ -25,14 +25,19 @@
 | :--- | ---: |
 | [24317\.](%C2%A7%2024317%20-%20Accounts.md) | Accounts. |
 | [24318\.](%C2%A7%2024318%20-%20Costs%20and%20revenues.md) | Costs and revenues. |
-| [24319\.](%C2%A7%2024319%20-%20Grant%20process.md) | Grant process. |
-| [24320\.](%C2%A7%2024320%20-%20Amtrak%205-year%20business%20line%20and%20asset%20plans.md) | Amtrak 5-year business line and asset plans. |
-| [24321\.](%C2%A7%2024321%20-%20Food%20and%20beverage%20reform.md) | Food and beverage reform. |
+| [24319\.](%C2%A7%2024319%20-%20Grant%20process%20and%20reporting.md) | Grant process and reporting. |
+| [24320\.](%C2%A7%2024320%20-%20Amtrak%205-year%20service%20line%20and%20asset%20line%20plans.md) | Amtrak 5-year service line and asset line plans. |
+| [24321\.](%C2%A7%2024321%20-%20Food%20and%20beverage%20service.md) | Food and beverage service. |
 | [24322\.](%C2%A7%2024322%20-%20Rolling%20stock%20purchases.md) | Rolling stock purchases. |
+| [24323\.](%C2%A7%2024323%20-%20Prohibition%20on%20smoking%20on%20Amtrak%20trains.md) | Prohibition on smoking on Amtrak trains. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Pub. L. 117–58, div. B, title II, §§22206(c)(2), 22207(b), 22208(b)(2), 22209(b), Nov. 15, 2021, 135 Stat. 703, 706–708, substituted "Grant process and reporting" for "Grant process" in item 24319, "Amtrak 5-year service line and asset line plans" for "Amtrak 5-year business line and asset plans" in item 24320, and "Food and beverage service" for "Food and beverage reform" in item 24321 and added item 24323.
 
 <b>2015</b>—Pub. L. 114–94, div. A, title XI, §§11201(b), 11202(b), 11203(c), 11207(b), 11208(b), 11316(m), Dec. 4, 2015, 129 Stat. 1627, 1630, 1634, 1639, 1640, 1678, substituted "Plans to address the needs of families of passengers involved in rail passenger accidents" for "Plan to assist families of passengers involved in rail passenger accidents" in item 24316 and added items 24317 to 24322.
 
@@ -65,7 +70,8 @@
 - [&sect; 24316 - Plans to address needs of families of passengers involved in rail passenger accidents](%C2%A7%2024316%20-%20Plans%20to%20address%20needs%20of%20families%20of%20passengers%20involved%20in%20rail%20passenger%20accidents.md)
 - [&sect; 24317 - Accounts](%C2%A7%2024317%20-%20Accounts.md)
 - [&sect; 24318 - Costs and revenues](%C2%A7%2024318%20-%20Costs%20and%20revenues.md)
-- [&sect; 24319 - Grant process](%C2%A7%2024319%20-%20Grant%20process.md)
-- [&sect; 24320 - Amtrak 5-year business line and asset plans](%C2%A7%2024320%20-%20Amtrak%205-year%20business%20line%20and%20asset%20plans.md)
-- [&sect; 24321 - Food and beverage reform](%C2%A7%2024321%20-%20Food%20and%20beverage%20reform.md)
+- [&sect; 24319 - Grant process and reporting](%C2%A7%2024319%20-%20Grant%20process%20and%20reporting.md)
+- [&sect; 24320 - Amtrak 5-year service line and asset line plans](%C2%A7%2024320%20-%20Amtrak%205-year%20service%20line%20and%20asset%20line%20plans.md)
+- [&sect; 24321 - Food and beverage service](%C2%A7%2024321%20-%20Food%20and%20beverage%20service.md)
 - [&sect; 24322 - Rolling stock purchases](%C2%A7%2024322%20-%20Rolling%20stock%20purchases.md)
+- [&sect; 24323 - Prohibition on smoking on Amtrak trains](%C2%A7%2024323%20-%20Prohibition%20on%20smoking%20on%20Amtrak%20trains.md)

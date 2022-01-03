@@ -66,7 +66,7 @@ The Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in pa
 
 #### Codification
 
-Section is comprised of the second par. and par. (3) of section 13 of act Dec. 23, 1913. Act Mar. 4, 1923, split the second par. of section 13, as amended in 1916 (39 Stat. 752), into two pars., the first of which constitutes the first par. of this section and the second of which constitutes section 344 of this title. Act July 21, 1932, addedthe second par. of this section which was designated to follow the second par. of section 13. Pub. L. 111–203, §1101(a)(1), designated the second par. as par. (3). For classification to this title of other pars. of section 13, see Codification note set out under section 342 of this title.
+Section is comprised of the second par. and par. (3) of section 13 of act Dec. 23, 1913. Act Mar. 4, 1923, split the second par. of section 13, as amended in 1916 (39 Stat. 752), into two pars., the first of which constitutes the first par. of this section and the second of which constitutes section 344 of this title. Act July 21, 1932, added the second par. of this section which was designated to follow the second par. of section 13. Pub. L. 111–203, §1101(a)(1), designated the second par. as par. (3). For classification to this title of other pars. of section 13, see Codification note set out under section 342 of this title.
 
 #### Amendments
 

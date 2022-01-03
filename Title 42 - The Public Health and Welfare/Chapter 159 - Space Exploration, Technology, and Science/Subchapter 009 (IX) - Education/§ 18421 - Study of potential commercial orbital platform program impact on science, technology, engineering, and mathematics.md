@@ -6,11 +6,13 @@ A fundamental and unique capability of NASA is in stimulating science, technolog
 
 &emsp;(2) assess the potential impacts on science, technology, engineering, and mathematics education of a program that would facilitate the development of scientific and educational payloads involving United States students and educators and the flights of those payloads on commercially available orbital platforms, when available and operational, with the goal of providing frequent and regular payload launches;
 
-&emsp;(3) identify NASA expertise, such as NASA science, engineering, payload development, and payload operations, that could be made available to facilitate a science, technology,engineering, and mathematics program using commercial orbital platforms; and
+&emsp;(3) identify NASA expertise, such as NASA science, engineering, payload development, and payload operations, that could be made available to facilitate a science, technology, engineering, and mathematics program using commercial orbital platforms; and
 
 &emsp;(4) identify the issues that would need to be addressed before NASA could properly assess the merits and feasibility of the program described in paragraph (2).
 
 (Pub. L. 111–267, title X, §1003, Oct. 11, 2010, 124 Stat. 2838; Pub. L. 111–358, title II, §205(a), Jan. 4, 2011, 124 Stat. 3995.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -21,6 +23,8 @@ A fundamental and unique capability of NASA is in stimulating science, technolog
 &emsp;"(2) contract with providers of commercial orbital platform services for their use by the STEM-Commercial Orbital Platform program, preceded by the issuance of a request for proposal, not later than 90 days after October 11, 2010, to enter into at least one funded, competitively-awarded contract for commercial orbital platform services and make awards within 180 days after such date; and
 
 &emsp;"(3) engage with United States students and educators and make available NASA's science, engineering, payload development, and payload operations expertise to student teams selected to participate in the STEM-Commercial Orbital Platform program."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 

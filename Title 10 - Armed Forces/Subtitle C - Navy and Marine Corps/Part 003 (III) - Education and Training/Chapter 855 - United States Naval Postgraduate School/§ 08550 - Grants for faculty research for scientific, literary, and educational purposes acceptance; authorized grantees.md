@@ -26,6 +26,8 @@ Regulations.—The Secretary shall prescribe regulations for the administration 
 
 (Added Pub. L. 109–163, div. A, title V, §522(c)(1), Jan. 6, 2006, 119 Stat. 3241, §7050; renumbered §8550, Pub. L. 115–232, div. A, title VIII, §807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 8571, acts Aug. 10, 1956, ch. 1041, 70A Stat. 528; Sept. 2, 1958, Pub. L. 85–861, §§1(183), 33(a)(41), 72 Stat. 1533, 1566; June 30, 1960, Pub. L. 86–559, §1(64), 74 Stat. 278, provided that commissioned officers of Air Force on active duty in same grade rank themselves according to date of rank and specified procedures for determining date of rank, prior to repeal by Pub. L. 96–513, title II, §211, Dec. 12, 1980, 94 Stat. 2885, effective Sept. 15, 1981. See section 741 of this title.
@@ -53,6 +55,8 @@ A prior section 8580, Aug. 10, 1956, ch. 1041, 70A Stat. 531, provided that Secr
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7050 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

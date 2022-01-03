@@ -16,7 +16,7 @@
 
 #### (b) Inapplicability of carriers and other service providers
 
-For purposes of subsection (a), a person shall not be considered to make any communicationfor commercial purposes to the extent that such person is—
+For purposes of subsection (a), a person shall not be considered to make any communication for commercial purposes to the extent that such person is—
 
 &emsp;(1) a telecommunications carrier engaged in the provision of a telecommunications service;
 
@@ -92,7 +92,7 @@ For purposes of this subsection,<sup>1</sup> the following definitions shall app
 
 #### (5) Internet information location tool
 
-&emsp;The term "Internet information location tool" means a service that refers or linksusers to an online location on the World Wide Web. Such term includes directories, indices, references, pointers, and hypertext links.
+&emsp;The term "Internet information location tool" means a service that refers or links users to an online location on the World Wide Web. Such term includes directories, indices, references, pointers, and hypertext links.
 
 #### (6) Material that is harmful to minors
 

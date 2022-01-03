@@ -4,9 +4,13 @@ Members of the National Guard called into Federal service are, from the time whe
 
 (Added Pub. L. 103–337, div. A, title XVI, §1662(f)(1), Oct. 5, 1994, 108 Stat. 2993.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in sections 3499 and 8499 of this title, prior to repeal by Pub. L. 103–337, §1662(f)(2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

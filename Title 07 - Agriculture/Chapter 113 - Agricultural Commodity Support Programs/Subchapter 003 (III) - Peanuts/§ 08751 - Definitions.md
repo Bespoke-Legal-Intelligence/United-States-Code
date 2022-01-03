@@ -72,6 +72,8 @@ In this subchapter:
 
 (Pub. L. 110–234, title I, §1301, May 22, 2008, 122 Stat. 966; Pub. L. 110–246, §4(a), title I, §1301, June 18, 2008, 122 Stat. 1664, 1695.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 8754 of this title, referred to in pars. (2) and (4), was repealed by Pub. L. 113–79, title I, §1102(a), Feb. 7, 2014, 128 Stat. 658.
@@ -81,6 +83,8 @@ Section 8753 of this title, referred to in par. (3), was repealed by Pub. L. 113
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

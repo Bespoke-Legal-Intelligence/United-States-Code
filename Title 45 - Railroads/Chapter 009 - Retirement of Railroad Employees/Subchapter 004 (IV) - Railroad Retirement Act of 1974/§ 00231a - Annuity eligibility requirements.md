@@ -142,10 +142,6 @@ The Social Security Act, referred to in subsecs. (c)(4), (d)(1)(iv), (f)(1), (2)
 
 Paragraph (3) of section 202(e) of the Social Security Act \[42 U.S.C. 402(e)(3)\], referred to in subsec. (d)(1)(v), was repealed, and paragraph (4) of section 202(e) of that Act was redesignated as paragraph (3) of section 202(e) and was further amended, by Pub. L. 98–21, title I, §131(a)(1)–(3)(A), Apr. 20, 1983, 97 Stat. 92.
 
-#### Constitutionality
-
-For information regarding constitutionality of certain provisions of section 2 of act Aug. 29, 1935, as added by section 5 of act Oct. 30, 1951, ch. 632, 65 Stat. 684, and restated by section 101 of Pub. L. 93–445, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
-
 #### Amendments
 
 <b>2007</b>—Subsec. (e)(4). Pub. L. 109–478, §2(a)(3), substituted "If the total amount of such individual's earnings during such year (exclusive of earnings for services as described in subdivision (3) and after deduction of disability related work expenses) is in excess of the annual allowable earnings amount, the number of months in such year with respect to which an annuity is not payable by reason of the first and third sentences shall not exceed the number of months derived by dividing the amount by which such annual earnings exceed the annual allowable earnings amount by the monthly allowable earning amount determined under this section. If the computation under the preceding sentence results in a remainder greater than or equal to one-half, the number of months for which an annuity is not payable as determined under the preceding sentence shall be increased by one. The annual allowable earnings amount shall be computed by totaling the amount of monthly allowable earnings as determined under the first sentence of this subdivision for each month in the calender year. If the amount of the individual's annuity has changed during the calendar year, any payment of annuities which become payable solely by reason of the limitations in the preceding three sentences shall be made first with respect to the month or months for which the annuity is larger. For purposes of this subdivision, 'the monthly allowable earnings' shall be $700, except that for each year after 2007, 'the monthly allowable earnings' amount shall be the larger of the amount for the previous year or the amount calculated by multiplying $700 by the ratio of the national average wage index for the year 2 calender years before the year for which the amount is being calculated to the national average wage index for the year 2005. The amount so computed will be rounded to the next higher multiple of $10 where such amount is a multiple of $5 but not of $10 and to the nearest multiple of $10 in any other case." for "If the total amount of such individual's earnings during such year (exclusive of earnings for services described in subdivision (3)) is in excess of $4,800 (after deduction of disability related work expenses), the number of months in such year with respect to which an annuity is not payable by reason of such first and third sentences shall not exceed one month for each $400 of such excess, treating the last $200 or more of such excess as $400; and if the amount of the annuity has changed during such year, any payments of annuities which become payable solely by reason of the limitations contained in this sentence shall be made first with respect to the month or months for which the annuity is larger."
@@ -164,13 +160,13 @@ Subsec. (d)(1). Pub. L. 107–90, §103(c), inserted "(or five years of service,
 
 Subsec. (i). Pub. L. 107–90, §103(d), added subsec. (i).
 
-<b>1988</b>—Subsec. (e)(1). Pub. L. 100–647, §7302(a)(1), struck out "any person, whether or not" after "compensated service to" and "(but with the right to engage in other employment to the extent not prohibited by subdivision (3) or (4) of this subsection or by subsection (f) of this section). As used in this subsection, the term 'compensated service' shall not include any service as an elected public official of the United States, a State, orany political subdivision of a State" after "section 231(a) of this title".
+<b>1988</b>—Subsec. (e)(1). Pub. L. 100–647, §7302(a)(1), struck out "any person, whether or not" after "compensated service to" and "(but with the right to engage in other employment to the extent not prohibited by subdivision (3) or (4) of this subsection or by subsection (f) of this section). As used in this subsection, the term 'compensated service' shall not include any service as an elected public official of the United States, a State, or any political subdivision of a State" after "section 231(a) of this title".
 
 Subsec. (e)(2). Pub. L. 100–647, §7302(a)(2), struck out "and of the person, or persons, by whom he was last employed" after "service of an employer".
 
 Subsec. (e)(3). Pub. L. 100–647, §7302(a)(3), struck out "or to the last person, or persons, by whom he was employed prior to the date on which the annuity under subsection (a)(1) of this section began to accrue" after "service to an employer".
 
-Subsec. (e)(4). Pub. L. 100–647, §7303(a), substituted "$400 in earnings (after deduction of disability related work expenses)" for "$200 in earnings", "$4,800 (after deduction of disability related work expenses)" for "$2,400" in two places, "each $400" for "each $200", "$200" for "$100", and "as $400" for "as $200".
+Subsec. (e)(4). Pub. L. 100–647, §7303(a), substituted "$400 in earnings (after deduction of disability relatedwork expenses)" for "$200 in earnings", "$4,800 (after deduction of disability related work expenses)" for "$2,400" in two places, "each $400" for "each $200", "$200" for "$100", and "as $400" for "as $200".
 
 Subsec. (f)(6). Pub. L. 100–647, §7302(b), added par. (6).
 
@@ -230,7 +226,7 @@ Pub. L. 109–478, §2(b), Jan. 12, 2007, 120 Stat. 3574, provided that: "The am
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–280, title X, §1002(b), Aug. 17, 2006, 120 Stat. 1053, provided that: "The amendments made bythis section \[amending this section\] shall take effect 1 year after the date of the enactment of this Act \[Aug. 17, 2006\]."
+Pub. L. 109–280, title X, §1002(b), Aug. 17, 2006, 120 Stat. 1053, provided that: "The amendments made by this section \[amending this section\] shall take effect 1 year after the date of the enactment of this Act \[Aug. 17, 2006\]."
 
 #### Effective Date of 2001 Amendment
 

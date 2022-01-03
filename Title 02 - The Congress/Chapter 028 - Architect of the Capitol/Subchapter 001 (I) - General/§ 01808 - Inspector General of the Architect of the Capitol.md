@@ -78,7 +78,7 @@ There is an Office of Inspector General within the Office of the Architect of th
 
 #### (A) In general
 
-&emsp;&emsp;The Inspector General, in carrying out this section, is authorized, without the supervision or approval of any other employee, office, or other entity within the Office of the Architect of the Capitol, to select, appoint, and employ such officers and employees (including consultants) as may be necessary for carrying out the functions, powers, and duties of the Office of Inspector General subject to the provisions of law governing selections, appointments, and employment in the Office of the Architect of the Capitol.
+&emsp;&emsp;The Inspector General, in carrying out this section, is authorized, without the supervision or approval of any other employee, office, or other entity within the Office of the Architect of the Capitol, to select, appoint,and employ such officers and employees (including consultants) as may be necessary for carrying out the functions, powers, and duties of the Office of Inspector General subject to the provisions of law governing selections, appointments, and employment in the Office of the Architect of the Capitol.
 
 #### (B) Security and suitability
 
@@ -116,7 +116,7 @@ There is an Office of Inspector General within the Office of the Architect of th
 
 #### (II) Additional requirements
 
-&emsp;&emsp;&emsp;&emsp;After providing notice to the appropriate committees of Congress, the Inspector General may add requirementsto the certification required under subclause (I), as determined appropriate by the Inspector General.
+&emsp;&emsp;&emsp;&emsp;After providing notice to the appropriate committees of Congress, the Inspector General may add requirements to the certification required under subclause (I), as determined appropriate by the Inspector General.
 
 #### (ii) Maintenance of requirements
 
@@ -148,7 +148,7 @@ There is an Office of Inspector General within the Office of the Architect of th
 
 #### (ii) Suspension of authority
 
-&emsp;&emsp;&emsp;The authority granted under this paragraph (including any grant of authority to an individual under subparagraph (A), without regard to whether the individual is in compliance with subparagraph (B)) may be suspended by the Inspector General if the Office of Inspector General fails to comply with the reporting and review requirements under clause (i) of this subparagraph or subparagraph (D). Any suspension of authority under this clause shall be reported to the appropriate committees of Congress.
+&emsp;&emsp;&emsp;The authority granted under this paragraph (including any grant of authority toan individual under subparagraph (A), without regard to whether the individual is in compliance with subparagraph (B)) may be suspended by the Inspector General if the Office of Inspector General fails to comply with the reporting and review requirements under clause (i) of this subparagraph or subparagraph (D). Any suspension of authority under this clause shall be reported to the appropriate committees of Congress.
 
 #### (D) Peer review
 

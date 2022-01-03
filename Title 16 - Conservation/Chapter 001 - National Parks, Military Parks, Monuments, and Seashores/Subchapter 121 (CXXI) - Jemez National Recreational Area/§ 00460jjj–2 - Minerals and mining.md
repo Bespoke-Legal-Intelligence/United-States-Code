@@ -16,13 +16,15 @@ No mining activity involving any surface disturbance of lands or waters within s
 
 #### (d) Mining claim validity review
 
-The Secretary of Agriculture shall undertake and complete within 3 years after October 12, 1993, an expedited program to examine all unpatented mining claims, including those for which a patent application has been filed, within the recreation area. Upon determination by the Secretary of Agriculture that the elements of a contest are present, the Secretary of the Interior shall immediately determine the validity of such claims. If a claim is determined to be invalid, the Secretary shall promptly declare the claim to be null and void.
+The Secretary of Agriculture shall undertake and complete within 3 years after October 12, 1993, an expedited program to examine all unpatented mining claims, including those forwhich a patent application has been filed, within the recreation area. Upon determination by the Secretary of Agriculture that the elements of a contest are present, the Secretary of the Interior shall immediately determine the validity of such claims. If a claim is determined to be invalid, the Secretary shall promptly declare the claim to be null and void.
 
 #### (e) Public purposes
 
 The Secretary may utilize mineral materials from within the recreation area for public purposes such as maintenance and construction of roads, trails, and facilities as long as such use is compatible with the purposes of the recreation area.
 
 (Pub. L. 103–104, §3, Oct. 12, 1993, 107 Stat. 1028.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

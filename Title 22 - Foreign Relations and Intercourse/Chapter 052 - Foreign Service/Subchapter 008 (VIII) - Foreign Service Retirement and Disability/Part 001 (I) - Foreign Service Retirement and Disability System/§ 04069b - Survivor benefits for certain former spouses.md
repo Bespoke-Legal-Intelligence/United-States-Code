@@ -10,7 +10,7 @@ Any individual who was a former spouse of a participant or former participant on
 
 #### (b) Election by former spouse
 
-If an election has been made with respect to such former spouse under section 4159 or 4046(f)of this title, then the survivor annuity under subsection (a) of such former spouse shall be equal to the full amount of the participant's or former participant's annuity referred to in subsection (a) less the amount of such election.
+If an election has been made with respect to such former spouse under section 4159 or 4046(f) of this title, then the survivor annuity under subsection (a) of such former spouse shall be equal to the full amount of the participant's or former participant's annuity referred to in subsection (a) less the amount of such election.
 
 #### (c) Disqualification
 
@@ -50,7 +50,7 @@ The Secretary shall—
 
 #### (f) Effect of section on annuity
 
-Nothing in this section shall be construed to impair, reduce, or otherwise affect the annuity or the entitlement to an annuity of a participant or former participant under this subchapter.
+Nothing in this section shall be construed to impair, reduce, or otherwise affect the annuityor the entitlement to an annuity of a participant or former participant under this subchapter.
 
 #### (g) Former spouses of United States Information Agency and Agency for International Development employees
 

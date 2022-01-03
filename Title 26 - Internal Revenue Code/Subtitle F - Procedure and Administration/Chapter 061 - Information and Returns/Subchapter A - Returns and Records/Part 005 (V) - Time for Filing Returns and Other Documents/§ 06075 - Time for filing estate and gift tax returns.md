@@ -18,7 +18,9 @@ Returns made under section 6018(a) (relating to estate taxes) shall be filed wit
 
 &emsp;Notwithstanding paragraphs (1) and (2), the time for filing the return made under section 6019 for the calendar year which includes the date of death of the donor shall not be later than the time (including extensions) for filing the return made under section 6018 (relating to estate tax returns) with respect to such donor.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 751; Pub. L. 91–614, title I, §§101(b), 102(d)(4), Dec. 31, 1970, 84 Stat. 1836, 1842; Pub. L. 94–455, title XX, §2008(b), Oct. 4, 1976, 90 Stat. 1892; Pub. L. 96–167, §8(a)–(c), Dec. 29, 1979, 93 Stat. 1277, 1278; Pub. L. 97–34, title IV, §442(d)(3), Aug. 13, 1981, 95 Stat. 322;Pub. L. 107–16, title V, §542(b)(3), June 7, 2001, 115 Stat. 83; Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 751; Pub. L. 91–614, title I, §§101(b), 102(d)(4), Dec. 31, 1970, 84 Stat. 1836, 1842; Pub. L. 94–455, title XX, §2008(b), Oct. 4, 1976, 90 Stat. 1892; Pub. L. 96–167, §8(a)–(c), Dec. 29, 1979, 93 Stat. 1277, 1278; Pub. L. 97–34, title IV, §442(d)(3), Aug. 13, 1981, 95 Stat. 322; Pub. L. 107–16, title V, §542(b)(3), June 7, 2001, 115 Stat. 83; Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -41,6 +43,8 @@ Subsec. (b)(3), (4). Pub. L. 96–167, §8(b), added par. (3) and redesignated f
 <b>1970</b>—Subsec. (a). Pub. L. 91–614, §101(b), substituted "9 months" for "15 months".
 
 Subsec. (b). Pub. L. 91–614, §102(d)(4), substituted "the 15th day of the second month following the close of the calendar quarter" for "the 15th day of April following the close of the calendar year".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

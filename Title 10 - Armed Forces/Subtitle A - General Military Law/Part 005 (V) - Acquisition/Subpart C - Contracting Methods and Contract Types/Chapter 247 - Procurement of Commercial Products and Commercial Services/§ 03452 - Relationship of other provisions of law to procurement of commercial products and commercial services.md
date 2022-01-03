@@ -4,7 +4,7 @@
 
 Applicability of Government-wide Statutes.—(1) No contract for the procurement of a commercial product or commercial service entered into by the head of an agency shall be subject to any law properly listed in the Federal Acquisition Regulation pursuant to section 1906(b) of title 41.
 
-(2) No subcontract under a contract for the procurement of a commercial product or commercial service entered into by the head of an agency shall be subject to any law properly listed in the Federal Acquisition Regulation pursuant to section 1906(c) of title 41.
+(2) No subcontract under a contract for the procurement of a commercial product or commercial service entered into by the head of anagency shall be subject to any law properly listed in the Federal Acquisition Regulation pursuant to section 1906(c) of title 41.
 
 (3) No contract for the procurement of a commercially available off-the-shelf item entered into by the head of an agency shall be subject to any law properly listed in the Federal Acquisition Regulation pursuant to section 1907 of title 41.
 
@@ -38,9 +38,11 @@ Covered Provision of Law or Contract Clause Requirement.—A provision of law or
 
 &emsp;(2) requires that certain articles be bought from American sources pursuant to section 4862 of this title, or requires that strategic materials critical to national security be bought from American sources pursuant to section 4863 of this title; or
 
-&emsp;(3) specifically refers to this section and provides that, notwithstanding this section, it shall be applicable to contracts for the procurement of commercial products and commercial services.
+&emsp;(3) specifically refers to this section and provides that, notwithstanding this section, itshall be applicable to contracts for the procurement of commercial products and commercial services.
 
-(Added Pub. L. 103–355, title VIII, §8102, Oct. 13, 1994, 108 Stat. 3390, §2375; amended Pub. L. 105–85, div. A, title X, §1073(a)(51), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 107–107, div. A, title X, §1048(a)(18), Dec. 28, 2001, 115 Stat. 1223; Pub. L. 111–350, §5(b)(21), Jan. 4, 2011, 124 Stat. 3844; Pub. L. 114–328, div. A, title VIII, §874(a), Dec. 23, 2016, 130 Stat. 2308; Pub. L. 115–232, div. A, title VIII, §§836(d)(1), (8)(B), 837(a), Aug. 13, 2018, 132 Stat. 1866, 1868, 1875; Pub. L. 116–92, div. A, title IX, §902(57), Dec. 20, 2019, 133 Stat. 1549; renumbered §3452 and amended Pub. L. 116–283, div. A, title XVIII, §1821(a)(2), (b)(2), Jan. 1, 2021, 134 Stat. 4195.)
+(Added Pub. L. 103–355, title VIII, §8102, Oct. 13, 1994, 108 Stat. 3390, §2375; amended Pub. L. 105–85, div. A, title X, §1073(a)(51), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 107–107, div. A, title X, §1048(a)(18), Dec. 28, 2001, 115 Stat. 1223; Pub. L. 111–350, §5(b)(21), Jan. 4, 2011, 124 Stat. 3844; Pub. L. 114–328, div. A, title VIII, §874(a), Dec. 23, 2016, 130 Stat. 2308; Pub. L. 115–232, div. A, title VIII, §§836(d)(1), (8)(B), 837(a), Aug. 13, 2018, 132 Stat. 1866, 1868, 1875; Pub. L. 116–92, div. A, title IX, §902(57), Dec. 20, 2019, 133 Stat. 1549; renumbered §3452 and amended Pub. L. 116–283, div. A, title XVIII, §§1821(a)(2), (b)(2), 1870(c)(6)(A), Jan. 1, 2021, 134 Stat. 4195, 4285.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -50,9 +52,87 @@ A prior section 3452, added Pub. L. 85–861, §1(81)(E), Sept. 2, 1958, 72 Stat
 
 <b>2021</b>—Pub. L. 116–283, §1821(a)(2), renumbered section 2375 of this title as this section.
 
-Subsec. (e)(2). Pub. L. 116–283, §1821(b)(2), substituted "section 4862" for "section 2533a" and "section 4863" for "section 2533b".
+Subsec. (e)(2). Pub. L. 116–283, §§1821(b)(2), 1870(c)(6)(A), made identical amendments, substituting "section 4862" for "section 2533a" and "section 4863" for "section 2533b". Section 1870(c)(6)(A) amended former section 2375 while section 1821(b)(2) amended this section. See Amendment note above.
+
+<b>2019</b>—Subsecs. (b)(2), (c)(2), (d)(2), (e). Pub. L. 116–92 substituted "Under Secretary of Defense for Acquisition and Sustainment" for "Under Secretary of Defense for Acquisition, Technology, and Logistics".
+
+<b>2018</b>—Pub. L. 115–232, §836(d)(8)(B), substituted "Relationship of other provisions of law to procurement of commercial products and commercial services" for "Relationship of commercial item provisions to other provisions of law" in section catchline.
+
+Subsec. (a)(1), (2). Pub. L. 115–232, §836(d)(1)(A), substituted "commercial product or commercial service" for "commercial item".
+
+Subsec. (b). Pub. L. 115–232, §836(d)(1)(B), in heading, substituted "Commercial Products and Commercial Services" for "Commercial Items" and, in text, substituted "commercial products and commercial services" for "commercial items" wherever appearing.
+
+Subsec. (b)(2). Pub. L. 115–232, §837(a), substituted "October 13, 1994" for "January 1, 2015".
+
+Subsec. (c). Pub. L. 115–232, §836(d)(1)(B), in heading, substituted "Commercial Products and Commercial Services" for "Commercial Items" and, in text, substituted "commercial products and commercial services" for "commercial items" wherever appearing.
+
+Subsec. (e)(3). Pub. L. 115–232, §836(d)(1)(C), substituted "commercial products and commercial services" for "commercial items".
+
+<b>2016</b>—Pub. L. 114–328 amended section generally. Prior to amendment, text read as follows:
+
+"(a)
+
+Applicability of Title.—Unless otherwise specifically provided, nothing in this chapter shall be construed as providing that any other provision of this title relating to procurement is inapplicable to the procurement of commercial items.
+
+"(b)
+
+List of Laws Inapplicable to Contracts for the Acquisition of Commercial Items.—No contract for the procurement of a commercial item entered into by the head of an agency shall be subject to any law properly listed in the Federal Acquisition Regulation (pursuant to section 1906 of title 41).
+
+"(c)
+
+Cross Reference to Exception to Cost or Pricing Data Requirements for Commercial Items.—For a provision relating to an exception for requirements for cost or pricing data for contracts for the procurement of commercial items, see section 2306a(b) of this title."
+
+<b>2011</b>—Subsec. (b). Pub. L. 111–350 substituted "section 1906 of title 41" for "section 34 of the Office of Federal Procurement Policy Act (41 U.S.C. 430)".
+
+<b>2001</b>—Subsec. (b). Pub. L. 107–107 inserted "(41 U.S.C. 430)" after "section 34 of the Office of Federal Procurement Policy Act".
+
+<b>1997</b>—Subsec. (c). Pub. L. 105–85 substituted "a provision relating to an exception" for "provisions relating to exceptions" and "section 2306a(b)" for "section 2306a(d)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2021 Amendment
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+#### Effective Date of 2018 Amendment
+
+Amendment by section 836(d)(1), (8)(B) of Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
+
+#### Effective Date
+
+For effective date and applicability of chapter, see section 10001 of Pub. L. 103–355 set out as an Effective Date of 1994 Amendment note under section 8752 of this title.
+
+#### Changes to Defense Federal Acquisition Regulation Supplement
+
+Pub. L. 114–328, div. A, title VIII, §874(b), Dec. 23, 2016, 130 Stat. 2310, as amended by Pub. L. 116–92, div. A, title IX, §902(58), Dec. 20, 2019, 133 Stat. 1549, provided that:
+
+"(1)
+
+In general.—To the maximum extent practicable, the Under Secretary of Defense for Acquisition and Sustainment shall ensure that—
+
+&emsp;"(A) the Defense Federal Acquisition Regulation Supplement does not require the inclusion of contract clauses in contracts for the procurement of commercial items or contracts for the procurement of commercially available off-the-shelf items, unless such clauses are—
+
+&emsp;&emsp;"(i) required to implement provisions of law or executive orders applicable to such contracts; or
+
+&emsp;&emsp;"(ii) determined to be consistent with standard commercial practice; and
+
+&emsp;"(B) the flow-down of contract clauses to subcontracts under contracts for the procurement of commercial items or commercially available off-the-shelf items is prohibited unless such flow-down is required to implement provisions of law or executive orders applicable to such subcontracts.
+
+"(2)
+
+Subcontracts.—In this subsection, the term 'subcontract' includes a transfer of commercial items between divisions, subsidiaries, or affiliates of a contractor or subcontractor. The term does not include agreements entered into by a contractor for the supply of commodities that are intended for use in the performance of multiple contracts with the Department of Defense and other parties and are not identifiable to any particular contract."
+
+#### Provisions Not Affected by Title VIII of Pub. L. 103–355
+
+Pub. L. 103–355, title VIII, §8304, Oct. 13, 1994, 108 Stat. 3398, as amended by Pub. L. 115–232, div. A, title VIII,§812(a)(2)(C)(iii), Aug. 13, 2018, 132 Stat. 1847, provided that: "Nothing in this title \[see Tables for classification\] shall be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under—
+
+&emsp;"(1) section 7102 of the Federal Acquisition Streamlining Act of 1994 \[Pub. L. 103–355, 15 U.S.C. 644 note\];
+
+&emsp;"(2) the Brooks Automatic Data Processing Act (section 111 of the Federal Property and Administrative Services Act of 1949 (\[former\] 40 U.S.C. 759));
+
+&emsp;"(3) Brooks Architect-Engineers Act (title IX of the Federal Property and Administrative Services Act of 1949 (\[former\] 40 U.S.C. 541 et seq.) \[now 40 U.S.C. 1101–1104\]);
+
+&emsp;"(4) subsections (a) and (d) of section 8 of the Small Business Act (15 U.S.C. 637(a) and (d)); or
+
+&emsp;"(5) the Javits-Wagner-O'Day Act (\[former\] 41 U.S.C. 46–48c) \[now 41 U.S.C. 8501 et seq.\]."
 

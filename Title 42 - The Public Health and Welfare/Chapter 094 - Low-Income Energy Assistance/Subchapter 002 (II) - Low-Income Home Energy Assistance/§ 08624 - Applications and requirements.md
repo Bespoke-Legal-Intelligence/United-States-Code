@@ -70,7 +70,7 @@ As part of the annual application required by subsection (a), the chief executiv
 
 &emsp;&emsp;(A) the State may use for planning and administering the use of funds under this subchapter an amount not to exceed 10 percent of the funds payable to such State under this subchapter for a fiscal year; and
 
-&emsp;&emsp;(B) the State will pay from non-Federal sources the remaining costs of planning and administering the program assisted under this subchapter and will not use Federal funds for such remaining costs (except for the costs of the activities described in paragraph (16));
+&emsp;&emsp;(B) the State will pay from non-Federal sources the remaining costs of planning and administering the program assisted under this subchapter and will not use Federal funds for such remaining costs (except forthe costs of the activities described in paragraph (16));
 
 &emsp;(10) provide that such fiscal control and fund accounting procedures will be established as may be necessary to assure the proper disbursal of and accounting for Federal funds paid to the State under this subchapter, including procedures for monitoring the assistance provided under this subchapter, and provide that the State will comply with the provisions of chapter 75 of title 31 (commonly known as the "Single Audit Act");
 
@@ -92,7 +92,7 @@ Not later than 18 months after May 18, 1994, the Secretary shall develop model p
 
 #### (c) State plan; revision; public inspection
 
-(1) As part of the annual application required in subsection (a), the chief executive officer ofeach State shall prepare and furnish to the Secretary, in such format as the Secretary may require, a plan which—
+(1) As part of the annual application required in subsection (a), the chief executive officer of each State shall prepare and furnish to the Secretary, in such format as the Secretary may require, a plan which—
 
 &emsp;(A) describes the eligibility requirements to be used by the State for each type of assistance to be provided under this subchapter, including criteria for designating an emergency under section 8623(c) of this title;
 
@@ -118,7 +118,7 @@ Not later than 18 months after May 18, 1994, the Secretary shall develop model p
 
 > The chief executive officer may revise any plan prepared under this paragraph and shall furnish the revised plan to the Secretary.
 
-(2) Each plan prepared under paragraph (1) and each substantial revision thereof shall be made available for public inspection within the State involved in such a manner as will facilitate timely and meaningful review of, and comment upon, such plan or substantial revision.
+(2) Each plan prepared under paragraph (1) and each substantial revision thereof shall be made available for public inspection within the Stateinvolved in such a manner as will facilitate timely and meaningful review of, and comment upon, such plan or substantial revision.
 
 (3) Not later than April 1 of each fiscal year the Secretary shall make available to the States a model State plan format that may be used, at the option of each State, to prepare the plan required under paragraph (1) for the next fiscal year.
 
@@ -172,7 +172,7 @@ In verifying income eligibility for purposes of subsection (b)(2)(B), the State 
 
 > may be used by the State for low-cost residential weatherization or other energy-related home repair for low-income households, particularly those low-income households with the lowest incomes that pay a high proportion of household income for home energy.
 
-(2)(A) If a State receives a waiver granted under subparagraph (B) for a fiscal year, the State may use not more than the greater of 25 percent of—
+(2)(A) If a State receives a waiver granted under subparagraph (B) for a fiscal year, theState may use not more than the greater of 25 percent of—
 
 &emsp;(i) the funds allotted to a State under this subchapter for such fiscal year; or
 
@@ -198,7 +198,9 @@ In verifying income eligibility for purposes of subsection (b)(2)(B), the State 
 
 (3) Any certification for such tax credits shall be made by the State, but such State may use Federal data available to such State with respect to recipients of supplemental security income benefits if timely delivery of benefits to households described in subsection (b) and suppliers will not be impeded by the use of such data.
 
-(Pub. L. 97–35, title XXVI, §2605, Aug. 13, 1981, 95 Stat. 896; Pub. L. 98–558, title VI, §605, Oct. 30, 1984, 98 Stat. 2891; Pub. L. 99–425, title V, §504, Sept. 30, 1986, 100 Stat. 974; Pub. L. 101–501, title VII, §§704, 705, Nov. 3, 1990, 104 Stat. 1259; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–252, title III, §§305–309, 311(a)(1), (b), (c)(4), (5), May 18, 1994, 108 Stat. 659–662; Pub. L. 104–66, title I, §1072(c), Dec. 21, 1995, 109 Stat. 721; Pub. L. 104–193, title I, §110(p), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 105–285, title III, §306, Oct. 27, 1998,112 Stat. 2758; Pub. L. 110–234, title IV, §4002(b)(1)(B), (E), (2)(EE), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (E), (2)(EE), June 18, 2008, 122 Stat. 1664, 1857, 1859; Pub. L. 113–79, title IV, §4006(b), Feb. 7, 2014, 128 Stat. 787.)
+(Pub. L. 97–35, title XXVI, §2605, Aug. 13, 1981, 95 Stat. 896; Pub. L. 98–558, title VI, §605, Oct. 30, 1984, 98 Stat. 2891; Pub. L. 99–425, title V, §504, Sept. 30, 1986, 100 Stat. 974; Pub. L. 101–501, title VII, §§704, 705, Nov. 3, 1990, 104 Stat. 1259; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–252, title III, §§305–309, 311(a)(1), (b), (c)(4), (5), May 18, 1994, 108 Stat. 659–662; Pub. L. 104–66, title I, §1072(c), Dec. 21, 1995, 109 Stat. 721; Pub. L. 104–193, title I, §110(p), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 105–285, title III, §306, Oct. 27, 1998, 112 Stat. 2758; Pub. L. 110–234, title IV, §4002(b)(1)(B), (E), (2)(EE), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (E), (2)(EE), June 18, 2008, 122 Stat. 1664, 1857, 1859; Pub. L. 113–79, title IV, §4006(b), Feb. 7, 2014, 128 Stat. 787.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -335,6 +337,8 @@ Subsec. (e). Pub. L. 98–558, §605(d), in amending subsec. (e) generally, inse
 Subsec. (f). Pub. L. 98–558, §605(e), inserted "unless enacted in express limitation of this paragraph".
 
 Subsec. (h). Pub. L. 98–558, §605(f), inserted "(but not less frequently than every three years)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

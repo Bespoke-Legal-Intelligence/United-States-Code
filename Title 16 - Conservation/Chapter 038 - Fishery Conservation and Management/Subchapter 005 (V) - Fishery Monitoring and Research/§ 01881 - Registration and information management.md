@@ -66,7 +66,7 @@ Within one year after October 11, 1996, the Secretary shall publish in the Feder
 
 #### (f) Congressional transmittal
 
-Within 60 days after the end of the comment period and after consideration of comments received under subsection (e), the Secretary shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Resources of the House of Representatives a recommended proposal for implementation of a national fishing vessel registration system that includes—
+Within 60 days after the end of the comment period and after consideration of comments received under subsection (e), the Secretary shall transmit to the Committee on Commerce,Science, and Transportation of the Senate and the Committee on Resources of the House of Representatives a recommended proposal for implementation of a national fishing vessel registration system that includes—
 
 &emsp;(1) any modifications made after comment and consultation;
 
@@ -186,6 +186,8 @@ The Secretary shall—
 
 (Pub. L. 94–265, title IV, §401, as added Pub. L. 104–297, title II, §202, Oct. 11, 1996, 110 Stat. 3605; amended Pub. L. 109–479, title II, §201, Jan. 12, 2007, 120 Stat. 3611; Pub. L. 115–405, §202, Dec. 31, 2018, 132 Stat. 5359.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a)(1), (d) and (h)(2)(B), was in the original "this Act", meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
@@ -203,6 +205,8 @@ A prior section 1881, Pub. L. 94–265, title IV, §401, Apr. 13, 1976, 90 Stat.
 Subsec. (h). Pub. L. 115–405, §202(2), added subsec. (h).
 
 <b>2007</b>—Subsec. (g). Pub. L. 109–479 added subsec. (g) and struck out former subsec. (g) which required a report to Congress.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

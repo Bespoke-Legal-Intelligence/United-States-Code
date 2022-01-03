@@ -270,6 +270,8 @@ The Secretary shall, from time to time, set dates before which institutions must
 
 <i>See 2020 Amendment notes below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1087aa of this title, referred to in subsecs. (a)(1) and (b)(1), (2)(A)(i), was amended by Pub. L. 114–105, §2(a)(1)(B), Dec. 18, 2015, 129 Stat. 2219, which struck out subsec. (b) authorizing appropriations and added a new subsec. (b) authorizing institutions of higher education to make loans.
@@ -450,6 +452,8 @@ Subsec. (e). Pub. L. 100–50, §13(c), struck out "; cash on hand" after "coll
 
 Subsec. (f). Pub. L. 100–50, §13(d), substituted "subsection (g) of this section" for "paragraph (2)".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2020 Amendment
 
 Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
@@ -474,7 +478,7 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 
 #### Effective Date
 
-Section applicable with respect to academic year 1988-1989 and succeeding academic years, see section 405(b) of Pub. L. 99–498, as amended, set out as a note under section 1087dd of this title.
+Section applicable with respect to academic year 1988-1989 and succeeding academic years, see section405(b) of Pub. L. 99–498, as amended, set out as a note under section 1087dd of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

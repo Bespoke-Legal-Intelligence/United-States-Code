@@ -32,6 +32,8 @@ Oct., 31, 1992, Pub. L. 102–581, §119(a)–(c), 106 Stat. 4883.
 
 The words "vocational technical educational institution" are used throughout this section for consistency in this section.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Promoting Aviation Regulations for Technical Training
 
 Pub. L. 116–260, div. V, title I, §135, Dec. 27, 2020, 134 Stat. 2356, provided that:

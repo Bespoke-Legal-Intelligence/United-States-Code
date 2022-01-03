@@ -54,7 +54,7 @@ In this section:
 
 #### (8) Research tool
 
-&emsp;The term "research tool" means a device, technology, biological material (including a cell line or an antibody), reagent, animal model, computer system, computer software, or analytical technique that is developed to assist in the discovery, development, or manufacture of qualified countermeasures or qualified pandemic or epidemic products.
+&emsp;The term "research tool" means a device, technology, biological material (including a cell line or an antibody), reagent, animalmodel, computer system, computer software, or analytical technique that is developed to assist in the discovery, development, or manufacture of qualified countermeasures or qualified pandemic or epidemic products.
 
 #### (9) Program manager
 
@@ -308,7 +308,7 @@ In this section:
 
 #### (E) Foreign nationals eligible
 
-&emsp;&emsp;The Secretary may under this section award contracts, grants, and cooperative agreements to, and may enter into other transactions with, highly qualified foreign national persons outside the United States, alone or in collaboration with American participants, when such transactions may inure to the benefit of the American people.
+&emsp;&emsp;The Secretary may under this section award contracts, grants, and cooperative agreements to, and may enter into other transactions with, highly qualified foreign national persons outside the United States,alone or in collaboration with American participants, when such transactions may inure to the benefit of the American people.
 
 #### (F) Establishment of research centers
 
@@ -424,6 +424,8 @@ In this section:
 
 (July 1, 1944, ch. 373, title III, §319L, as added Pub. L. 109–417, title IV, §401, Dec. 19, 2006, 120 Stat. 2865; amended Pub. L. 113–5, title IV, §402(a)–(d), (f), Mar. 13, 2013, 127 Stat. 194, 195; Pub. L. 114–255, div. A, title III, §§3082(b), 3084, Dec. 13, 2016, 130 Stat. 1141; Pub. L. 116–22, title III, §303(b), title IV, §404(a), title V, §504(b), title VI, §§601, 602, title VII, §701(d), (e)(2)(B), (f), June 24, 2019, 133 Stat. 935, 948, 951–953, 961; Pub. L. 116–136, div. A, title III, §3301, Mar. 27, 2020, 134 Stat. 383.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (a)(6)(A)(ii), (B)(i) and (c)(2)(C), (4)(B)(iii), (C)(i), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
@@ -487,6 +489,8 @@ Subsec. (d)(2). Pub. L. 113–5, §402(c), amended par. (2) generally. Prior to 
 Subsec. (e)(1)(C). Pub. L. 113–5, §402(d), substituted "12 years" for "7 years".
 
 Subsec. (f). Pub. L. 113–5, §402(f), added subsec. (f).
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13887. Modernizing Influenza Vaccines in the United States to Promote National Security and Public Health
 

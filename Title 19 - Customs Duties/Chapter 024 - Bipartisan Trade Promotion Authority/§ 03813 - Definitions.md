@@ -84,6 +84,8 @@ In this chapter:
 
 (Pub. L. 107–210, div. B, title XXI, §2113, Aug. 6, 2002, 116 Stat. 1021; Pub. L. 108–429, title II, §2004(a)(19), Dec. 3, 2004, 118 Stat. 2591.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Pars. (2), (3). Pub. L. 108–429 redesignated second par. (2), relating to Agreement on Subsidies and Countervailing Measures, as (3), substituted "3511(d)(12)" for "3511(d)(13)", and in par. (2) relating to Agreement on Safeguards, substituted "3511(d)(13)" for "3511(d)(12)".

@@ -4,9 +4,13 @@ The President shall submit to the Congress, not later than 1 year after May 18, 
 
 (Pub. L. 106–200, title I, §106, May 18, 2000, 114 Stat. 256.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this title", meaning title I of Pub. L. 106–200, May 18, 2000, 114 Stat. 252, which enacted this chapter and sections 2466a and 2466b of this title and amended section 2463 of this title and former section 2193 and section 2293 of Title 22, Foreign Relations and Intercourse. For complete classification of title I to the Code, see Short Title note set out under section 3701 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Reports on Implementation and Potential Trade Agreements
 
@@ -53,6 +57,8 @@ Termination.—The reporting requirements of this section shall cease to have an
 \[Functions of President under section 110(a) of Pub. L. 114–27, set out above, assigned to United States Trade Representative, in consultation with Secretary of State, see Ex. Ord. No. 13720, §1(d), Feb. 26, 2016, 81 F.R. 11089, set out as a note under section 2466a of this title.\]
 
 \[For definitions of "beneficiary sub-Saharan African country" and "sub-Saharan African country" as used in section 110 of Pub. L. 114–27, set out above, see section 112 of Pub. L. 114–27, set out as a note under section 3701 of this title.\]
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

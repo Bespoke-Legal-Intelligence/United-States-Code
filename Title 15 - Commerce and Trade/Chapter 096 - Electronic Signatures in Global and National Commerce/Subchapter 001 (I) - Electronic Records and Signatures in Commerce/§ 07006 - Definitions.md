@@ -60,6 +60,8 @@ For purposes of this subchapter:
 
 (Pub. L. 106–229, title I, §106, June 30, 2000, 114 Stat. 472.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective Oct. 1, 2000, with exceptions relating to record retention and certain loans, see section 107 of Pub. L. 106–229, set out as a note under section 7001 of this title.

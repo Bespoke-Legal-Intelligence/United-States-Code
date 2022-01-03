@@ -50,11 +50,11 @@ The Federal share of a grant received under this section may not exceed 90 perce
 
 #### (3) Minimum amount
 
-&emsp;Unless all eligible applications submitted by any State or unit of local government within such State for a grant under this section have been funded, such State, together with grantees within the State (other than Indian tribes), shall be allocated in each fiscal year under this section not less than 0.75 percent of the total amount appropriated in the fiscal year for grants pursuant to this section, except that the United States Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands each shall be allocated 0.25 percent.
+&emsp;Unless all eligible applications submitted by any State or unit of local government withinsuch State for a grant under this section have been funded, such State, together with grantees within the State (other than Indian tribes), shall be allocated in each fiscal year under this section not less than 0.75 percent of the total amount appropriated in the fiscal year for grants pursuant to this section, except that the United States Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands each shall be allocated 0.25 percent.
 
 #### (f) Grants to Indian tribes
 
-Notwithstanding any other provision of this section, the Attorney General may use amountsmade available under this section to make grants to Indian tribes for use in accordance with this section.
+Notwithstanding any other provision of this section, the Attorney General may use amounts made available under this section to make grants to Indian tribes for use in accordance with this section.
 
 (Pub. L. 106–572, §2, Dec. 28, 2000, 114 Stat. 3058; Pub. L. 110–403, title IV, §401(a), Oct. 13, 2008, 122 Stat. 4271.)
 

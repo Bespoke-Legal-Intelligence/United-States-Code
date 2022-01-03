@@ -8,11 +8,15 @@
 
 (Pub. L. 91–577, title II, §91, Dec. 24, 1970, 84 Stat. 1552; Pub. L. 96–574, §17, Dec. 22, 1980, 94 Stat. 3351; Pub. L. 103–349, §13(o), Oct. 6, 1994, 108 Stat. 3144.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (c). Pub. L. 103–349 substituted "the Secretary" for "he".
 
 <b>1980</b>—Subsec. (b). Pub. L. 96–574 substituted "description" for "specification".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

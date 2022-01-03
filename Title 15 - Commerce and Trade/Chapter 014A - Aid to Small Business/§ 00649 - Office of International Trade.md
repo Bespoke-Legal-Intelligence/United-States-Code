@@ -16,7 +16,7 @@
 
 #### (b) Trade distribution network
 
-The Associate Administrator, working in close cooperation with the Secretary of Commerce, the United States Trade Representative, the Secretary of Agriculture, the Secretary of State, the President of the Export-Import Bank of the United States, the Board of Directors ofthe United States International Development Finance Corporation, the Director of the United States Trade and Development Agency, and other relevant Federal agencies, small business development centers engaged in export promotion efforts, Export Assistance Centers, regional and district offices of the Administration, the small business community, and relevant State and local export promotion programs, shall—
+The Associate Administrator, working in close cooperation with the Secretary of Commerce, the United States Trade Representative, the Secretary of Agriculture, the Secretary of State, the President of the Export-Import Bank of the United States, the Board of Directors of the United States International Development Finance Corporation, the Director of the United States Trade and Development Agency, and other relevant Federal agencies, small business development centers engaged in export promotion efforts, Export Assistance Centers, regional and district offices of the Administration, the small business community, and relevant State and local export promotion programs, shall—
 
 &emsp;(1) maintain a distribution network, using regional and district offices of the Administration, the small business development center network, networks of women's business centers, the Service Corps of Retired Executives authorized by section 637(b)(1) of this title, and Export Assistance Centers, for programs relating to—
 
@@ -114,7 +114,7 @@ The Associate Administrator shall promote sales opportunities for small business
 
 &emsp;(11) carry out a nationwide marketing effort using technology, online resources, training, and other strategies to promote exporting as a business development opportunity for small business concerns;
 
-&emsp;(12) disseminate information to the small business community through regional and district offices of the Administration, the small business development center network, Export Assistance Centers, the network of women's business centers, chapters of the Service Corps of Retired Executives authorized by section 637(b)(1) of this title, State and local export promotion programs, and partners in the private sector regarding exporting trends, market-specific growth, industry trends, and prospects for exporting; and
+&emsp;(12) disseminate information to the small business community through regional and district offices of the Administration, the small business development center network, Export Assistance Centers, the network of women's business centers, chapters of the Service Corpsof Retired Executives authorized by section 637(b)(1) of this title, State and local export promotion programs, and partners in the private sector regarding exporting trends, market-specific growth, industry trends, and prospects for exporting; and
 
 &emsp;(13) establish and carry out training programs for the staff of the regional and district offices of the Administration and resource partners of the Administration on export promotion and providing assistance relating to exports.
 
@@ -140,7 +140,7 @@ The Associate Administrator shall promote sales opportunities for small business
 
 &emsp;&emsp;&emsp;(iv) promote greater participation by private financial institutions, particularly those institutions already participating in loan programs under this chapter, in export finance; and
 
-&emsp;&emsp;&emsp;(v) provide for the participation of appropriate Administration personnel intraining programs conducted by the Export-Import Bank.
+&emsp;&emsp;&emsp;(v) provide for the participation of appropriate Administration personnel in training programs conducted by the Export-Import Bank.
 
 #### (e) Trade remedies
 
@@ -494,7 +494,9 @@ In this section—
 
 &emsp;(4) the term "Office" means the Office of International Trade established under subsection (a)(1).
 
-(Pub. L. 85–536, §2\[22\], as added Pub. L. 96–481, title I, §113(a), Oct. 21, 1980, 94 Stat. 2323; amended Pub. L. 100–418, title VIII, §8003, Aug. 23, 1988, 102 Stat. 1554; Pub. L. 111–240, title I, §§1203(a),\(c), 1204(a), 1205(a), Sept. 27, 2010, 124 Stat. 2521, 2522, 2527; Pub. L. 114–125, title V, §503, Feb. 24, 2016, 130 Stat. 174; Pub. L. 115–254, div. F, title VI, §1470(c), Oct. 5, 2018, 132 Stat. 3516.)
+(Pub. L. 85–536, §2\[22\], as added Pub. L. 96–481, title I, §113(a), Oct. 21, 1980, 94 Stat. 2323; amended Pub. L. 100–418, title VIII, §8003, Aug. 23, 1988, 102 Stat. 1554; Pub. L. 111–240, title I, §§1203(a), (c), 1204(a), 1205(a), Sept. 27, 2010, 124 Stat. 2521, 2522, 2527; Pub. L. 114–125, title V, §503, Feb. 24, 2016, 130 Stat. 174; Pub. L. 115–254, div. F, title VI, §1470(c), Oct. 5, 2018, 132 Stat. 3516.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -611,6 +613,8 @@ Subsecs. (i), (j). Pub. L. 111–240, §1204(a)(7), added subsecs. (i) and (j).
 Subsecs. (k), (l). Pub. L. 111–240, §1205(a), added subsecs. (k) and (l).
 
 <b>1988</b>—Subsecs. (b) to (g). Pub. L. 100–418 added subsec. (b), redesignated former subsec. (b) as (c) and added pars. (1) to (5) and redesignated former pars. (1) to (3) as (6) to (8), respectively, and added subsecs. (d) to (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

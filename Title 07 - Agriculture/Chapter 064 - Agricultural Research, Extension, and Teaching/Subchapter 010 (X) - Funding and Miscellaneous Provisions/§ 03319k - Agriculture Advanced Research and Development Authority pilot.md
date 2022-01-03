@@ -156,7 +156,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;In carrying out the pilot program under this section, the Secretary shall have the authority to enter into other transactions in the same manner and subject to the same terms and conditions as transactions that the Secretary of Defense may enter into under section 2371 of title 10.
+&emsp;&emsp;In carrying out the pilot program under this section, the Secretary shall have the authority to enter into other transactions in the same manner and subject to the same terms and conditions as transactions that the Secretary of Defense may enter into under section 4021 of title 10.
 
 #### (B) Scope
 
@@ -186,7 +186,7 @@ In this section:
 
 &emsp;&emsp;&emsp;The following information shall be exempt from disclosure under section 552 of title 5 and withheld from the public:
 
-&emsp;&emsp;&emsp;&emsp;(I) Specific technical data or scientific information that is created or obtained under this section that reveals significant and not otherwise publicly known vulnerabilities of existing agriculture and food defenses against biological, chemical, nuclear, or radiological threats.
+&emsp;&emsp;&emsp;&emsp;(I) Specific technical data or scientific information that is created or obtained under this section that reveals significant and not otherwise publicly known vulnerabilities of existing agriculture and food defenses against biological,chemical, nuclear, or radiological threats.
 
 &emsp;&emsp;&emsp;&emsp;(II) Trade secrets or commercial or financial information that is privileged or confidential (within the meaning of section 552(b)(4) of title 5) and obtained in the conduct of research or as a result of activities under this section from a non-Federal party participating in a contract, grant, cooperative agreement, or other transaction under this section.
 
@@ -196,7 +196,7 @@ In this section:
 
 #### (8) Milestone-based payments allowed
 
-&emsp;In awarding contracts and grants and entering into cooperative agreements or othertransactions under paragraph (4)(E), the Secretary may—
+&emsp;In awarding contracts and grants and entering into cooperative agreements or other transactions under paragraph (4)(E), the Secretary may—
 
 &emsp;&emsp;(A) use milestone-based awards and payments; and
 
@@ -264,7 +264,7 @@ In this section:
 
 &emsp;&emsp;(A) for the purpose of carrying out this section; and
 
-&emsp;&emsp;(B) in the same manner and subject to the same terms and conditions as are applicable to the Secretary of Defense under section 2371 of title 10.
+&emsp;&emsp;(B) in the same manner and subject to the same terms and conditions as are applicable to the Secretary of Defense under section 4021 of title 10.
 
 #### (2) Deposits into fund
 
@@ -298,11 +298,17 @@ In this section:
 
 &emsp;&emsp;(B) grants awarded or contracts, cooperative agreements, or other transactions entered into before the end of the 5-year period referred to in such clause.<sup>1</sup>
 
-(Pub. L. 95–113, title XIV, §1473H, as added Pub. L. 115–334, title VII, §7132, Dec. 20, 2018, 132 Stat. 4796.)
+(Pub. L. 95–113, title XIV, §1473H, as added Pub. L. 115–334, title VII, §7132, Dec. 20, 2018, 132 Stat. 4796; Pub. L. 117–81, div. A, title XVII, §1702(l)(1), Dec. 27, 2021, 135 Stat. 2160.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 This chapter, referred to in subsec. (b)(6)(B), was in the original "this Act", and was translated as reading "this title", meaning title XIV of Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 981, known as the National Agricultural Research, Extension, and Teaching Policy Act of 1977, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title XIV to the Code, see References in Text note set out under section 3102 of this title and Tables.
+
+#### Amendments
+
+<b>2021</b>—Subsec. (b)(6)(A), (d)(1)(B). Pub. L. 117–81 which directed amendment of section 1473H of the National Agriculture Advanced Research, Extension, and Teaching Policy Act of 1977 by substituting "section 4021" for "section 2371" in subsecs. (b)(6)(A) and (d)(1)(B) was executed to this section, to reflect the probable intent of Congress.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "such paragraph.".</i>
 

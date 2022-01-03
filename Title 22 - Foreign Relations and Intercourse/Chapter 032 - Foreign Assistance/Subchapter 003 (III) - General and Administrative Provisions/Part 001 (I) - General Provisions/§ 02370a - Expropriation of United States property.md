@@ -64,7 +64,7 @@ The President may waive the prohibitions in subsections (a) and (b) for a countr
 
 #### (h) "United States person" defined
 
-For the purpose of this section, the term "United States person" means a United States citizen or corporation, partnership, or association at least 50 percent beneficially owned by United States citizens.
+For the purpose of this section, the term "United States person" means a United Statescitizen or corporation, partnership, or association at least 50 percent beneficially owned by United States citizens.
 
 #### (i) Certain claims for expropriation by the Government of Nicaragua
 

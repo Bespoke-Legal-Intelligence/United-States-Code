@@ -76,7 +76,7 @@ The Secretary shall carry out a national study or studies to examine—
 
 &emsp;(2) the validity and reliability of alternate assessment instruments and procedures;
 
-&emsp;(3) the alignment of alternate assessments and alternative achievement standards to State academic content standards in reading, mathematics, and science; and
+&emsp;(3) the alignment of alternate assessments and alternative achievement standards toState academic content standards in reading, mathematics, and science; and
 
 &emsp;(4) the use and effectiveness of alternate assessments in appropriately measuring student progress and outcomes specific to individualized instructional need.
 
@@ -129,6 +129,8 @@ In carrying out this section, the Secretary may support objective studies, evalu
 The Secretary shall study, and report to Congress regarding, the extent to which States adopt policies described in section 1435(c)(1) of this title and on the effects of those policies.
 
 (Pub. L. 91–230, title VI, §664, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2783.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

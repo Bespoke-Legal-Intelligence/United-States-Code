@@ -30,7 +30,7 @@ References in any law to credits extended under this section shall be deemed to 
 
 #### (f) Audit of certain private firms
 
-For each fiscal year, the Secretary of Defense, as requested by the Director of the Defense Security Assistance Agency, shall conduct audits on a nonreimbursable basis of private firms thathave entered into contracts with foreign governments under which defense articles, defense services, or design and construction services are to be procured by such firms for such governments from financing under this section.
+For each fiscal year, the Secretary of Defense, as requested by the Director of the Defense Security Assistance Agency, shall conduct audits on a nonreimbursable basis of private firms that have entered into contracts with foreign governments under which defense articles, defense services, or design and construction services are to be procured by such firms for such governments from financing under this section.
 
 #### (g) Notification requirements with respect to cash flow financing
 

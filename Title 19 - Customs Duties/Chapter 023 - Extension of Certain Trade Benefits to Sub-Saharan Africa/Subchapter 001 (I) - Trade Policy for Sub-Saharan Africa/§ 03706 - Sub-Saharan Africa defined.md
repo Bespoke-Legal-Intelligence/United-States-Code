@@ -102,6 +102,8 @@ For purposes of this chapter, the terms "sub-Saharan Africa", "sub-Saharan Afric
 
 (Pub. L. 106–200, title I, §107, May 18, 2000, 114 Stat. 256; Pub. L. 112–163, §1(b), Aug. 10, 2012, 126 Stat. 1274.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Pub. L. 112–163 inserted item relating to the Republic of South Sudan.

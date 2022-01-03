@@ -38,7 +38,7 @@ The Secretary shall submit to the Congress on October 1, 1993, and biennially th
 
 &emsp;The Secretary and each program entity shall in securing and maintaining any record of individually identifiable personal data (hereinafter in this subsection referred to as "personal data") for purposes of this section—
 
-&emsp;&emsp;(A) inform any individual who is asked to supply personal data whether he is legally required, or may refuse, to supply such data and inform him of any specific consequences, known to the Secretary or program entity, as the case may be, of providing or not providing such data;
+&emsp;&emsp;(A) inform any individual who is asked to supply personal data whether he is legally required, or may refuse, to supply such data and inform him of any specific consequences, known to the Secretary or program entity,as the case may be, of providing or not providing such data;
 
 &emsp;&emsp;(B) upon request, inform any individual if he is the subject of personal data secured or maintained by the Secretary or program entity, as the case may be, and make the data available to him in a form comprehensible to him;
 
@@ -76,6 +76,8 @@ The Secretary shall provide technical assistance to the States and political sub
 
 (July 1, 1944, ch. 373, title VII, §792, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2058; amended Pub. L. 105–392, title I, §106(b), Nov. 13, 1998, 112 Stat. 3559.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 792 of act July 1, 1944, was classified to section 295h–1b of this title prior to the general amendment of this subchapter by Pub. L. 102–408.
@@ -85,6 +87,8 @@ Another prior section 792 of act July 1, 1944, was classified to section 295h–
 #### Amendments
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–392 inserted "professional counselors," after "clinical psychologists,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Study Regarding Shortages of Licensed Pharmacists
 
@@ -104,7 +108,7 @@ Pub. L. 102–408, title III, §301, Oct. 13, 1992, 106 Stat. 2080, as amended b
 
 #### Commission on Allied Health
 
-Pub. L. 102–408, title III, §302, Oct. 13, 1992, 106 Stat. 2082, provided for establishment of a National Commission on Allied Health, charged with (1) making recommendations to the Secretary of Health and Human Services and Congress with respect to nationwide supply and distribution of allied health personnel, current and future shortages of personnel, priority research needs within allied health professions, Federal policies relating to personnel and research as well as undergraduate and graduate financing, concerted efforts on part of allied health facilities and educational institutions to address such matters, and needs with respect to nationwide data bases concerning supply and distribution of allied health personnel, and (2) encouraging entities providing allied health education to voluntarily achieve recommendations of Commission, and further provided for composition of Commission, date certain for appointments to Commission, resources for Commission activities, an interim progress report due not later than Oct. 1, 1993, a final report due not later than Apr. 1, 1994, and termination of Commission 60 days after submission of final report.
+Pub. L. 102–408, title III, §302, Oct. 13, 1992, 106 Stat. 2082, provided for establishment of a National Commission on Allied Health, charged with (1) making recommendations to the Secretary of Health and HumanServices and Congress with respect to nationwide supply and distribution of allied health personnel, current and future shortages of personnel, priority research needs within allied health professions, Federal policies relating to personnel and research as well as undergraduate and graduate financing, concerted efforts on part of allied health facilities and educational institutions to address such matters, and needs with respect to nationwide data bases concerning supply and distribution of allied health personnel, and (2) encouraging entities providing allied health education to voluntarily achieve recommendations of Commission, and further provided for composition of Commission, date certain for appointments to Commission, resources for Commission activities, an interim progress report due not later than Oct. 1, 1993, a final report due not later than Apr. 1, 1994, and termination of Commission 60 days after submission of final report.
 
 #### Study Regarding Shortage of Clinical Laboratory Technologists for Medically Underserved and Rural Communities
 

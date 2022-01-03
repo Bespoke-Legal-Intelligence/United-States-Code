@@ -112,7 +112,7 @@ The Secretary shall take necessary steps to ensure that all studies, reports, pr
 
 #### (3) Designs and techniques
 
-&emsp;The Secretary shall ensure that the research uses rigorous methodological designs and techniques (based on the recommendations of the expert panel), including longitudinal designs, control groups, nationally recognized standardized measures, and random selection and assignment, as appropriate. The Secretary may provide that the research shall be conducted as a single comprehensive assessment or as a group of coordinated assessments designed to provide, when taken together, a national analysis of the impact of Head Start programs.
+&emsp;The Secretary shall ensure that the research uses rigorous methodological designs andtechniques (based on the recommendations of the expert panel), including longitudinal designs, control groups, nationally recognized standardized measures, and random selection and assignment, as appropriate. The Secretary may provide that the research shall be conducted as a single comprehensive assessment or as a group of coordinated assessments designed to provide, when taken together, a national analysis of the impact of Head Start programs.
 
 #### (4) Programs
 
@@ -324,7 +324,7 @@ The Secretary shall—
 
 #### (1) Purpose
 
-&emsp;The purpose of this subsection is to evaluate the emergency preparedness of the Head Startprograms, including Early Head Start programs, and make recommendations for how Head Start shall enhance its readiness to respond to an emergency.
+&emsp;The purpose of this subsection is to evaluate the emergency preparedness of the Head Start programs, including Early Head Start programs, and make recommendations for how Head Start shall enhance its readiness to respond to an emergency.
 
 #### (2) Study
 
@@ -343,6 +343,8 @@ The Secretary shall—
 &emsp;&emsp;(D) an evaluation of procedures for Head Start agencies and the Secretary to coordinate with appropriate Federal, State, and local emergency management agencies in the event of a large scale emergency and recommendations to improve such procedures.
 
 (Pub. L. 97–35, title VI, §649, Aug. 13, 1981, 95 Stat. 505; Pub. L. 98–558, title I, §107, Oct. 30, 1984, 98 Stat. 2880; Pub. L. 101–501, title I, §117(a), Nov. 3, 1990, 104 Stat. 1233; Pub. L. 103–252, title I, §116, May 18, 1994, 108 Stat. 646; Pub. L. 105–244, title I, §102(a)(13)(G), Oct. 7, 1998, 112 Stat. 1621; Pub. L. 105–285, title I, §116, Oct. 27, 1998, 112 Stat. 2723; Pub. L. 110–134, §20, Dec. 12, 2007, 121 Stat. 1435.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -370,7 +372,7 @@ Subsec. (d)(9). Pub. L. 110–134, §20(2)(B), (D), redesignated par. (8) as (9)
 
 &emsp;"(A) may include the use of a data set that existed prior to the initiation of the study; and
 
-&emsp;"(B) shall compare the educational achievement, social adaptation, and health status of the participating children and the eligible nonparticipating children; and"
+&emsp;"(B) shall compare the educational achievement, social adaptation, and health status of the participating children and the eligible nonparticipating children; and".
 
 Subsec. (d)(10). Pub. L. 110–134, §20(2)(B), added par. (10) and struck out former par. (10) which provided for using the Survey of Income and Program Participation to conduct certain analyses, the National Longitudinal Survey of Youth to examine certain outcomes, and the Survey of Program Dynamics to begin certain annual reporting.
 
@@ -405,6 +407,8 @@ Subsecs. (g), (h). Pub. L. 105–285, §116(2), added subsecs. (g) and (h).
 Subsecs. (d) to (f). Pub. L. 101–501, §117(a)(2), added subsecs. (d) to (f).
 
 <b>1984</b>—Subsec. (c). Pub. L. 98–558 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

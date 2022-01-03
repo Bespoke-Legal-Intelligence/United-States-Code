@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(C) chargeable to capital account but not chargeable to property of a character which is subject to the allowance under section 167 (relating to allowance for depreciation, etc.) or section 611 (relating to allowance for depletion),
 
-> &emsp;may be treated as deferred expenses. In computing taxable income, such deferred expensesshall be allowed as a deduction ratably over such period of not less than 60 months as may be selected by the taxpayer (beginning with the month in which the taxpayer first realizes benefits from such expenditures). Such deferred expenses are expenditures properly chargeable to capital account for purposes of section 1016(a)(1) (relating to adjustments to basis of property).
+> &emsp;may be treated as deferred expenses. In computing taxable income, such deferred expenses shall be allowed as a deduction ratably over such period of not less than 60 months as may be selected by the taxpayer (beginning with the month in which the taxpayer first realizes benefits from such expenditures). Such deferred expenses are expenditures properly chargeable to capital account for purposes of section 1016(a)(1) (relating to adjustments to basis of property).
 
 #### (2) Time for and scope of election
 
@@ -96,9 +96,11 @@ This section shall apply to a research or experimental expenditure only to the e
 
 #### <i>(d) Treatment upon disposition, retirement, or abandonment</i>
 
-<i>If any property with respect to which specified research or experimental expenditures are paid or in</i><i>curred is disposed, retired, or abandoned during the period during which such expenditures are allowed as an amortization deduction under this section, no deduction shall be allowed with respect to such expenditures on account of such disposition, retirement, or abandonment and such amortization deduction shall continue with respect to such expenditures.</i>
+<i>If any property with respect to which specified research or experimental expenditures are paid or incurred is disposed, retired, or abandoned during the period during which such expenditures are allowed as an amortization deduction under this section, no deduction shall be allowed with respect to such expenditures on account of such disposition, retirement, or abandonment and such amortization deduction shall continue with respect to such expenditures.</i>
 
 <i>See 2017 Amendment note below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -125,6 +127,8 @@ Subsec. (b)(2). Pub. L. 113–295, §221(a)(32), struck out "beginning after Dec
 Subsec. (a)(2)(A)(i). Pub. L. 94–455, §1901(a)(30), substituted "August 16, 1954" for "the date on which this title is enacted" after "ends after".
 
 Subsecs. (a)(3), (b)(1), (2). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment; Applicability of Change in Method of Accounting
 

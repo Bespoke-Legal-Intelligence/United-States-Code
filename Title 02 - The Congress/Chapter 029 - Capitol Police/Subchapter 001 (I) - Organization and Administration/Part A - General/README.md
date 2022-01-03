@@ -6,6 +6,8 @@ Part A—General
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 01901 - Establishment; officer appointments](%C2%A7%2001901%20-%20Establishment%3B%20officer%20appointments.md)
+- [&sect; 01901a - Capitol Police Board](%C2%A7%2001901a%20-%20Capitol%20Police%20Board.md)
+- [&sect; 01901b - Joint oversight hearings](%C2%A7%2001901b%20-%20Joint%20oversight%20hearings.md)
 - [&sect; 01902 - Compensation of Chief](%C2%A7%2001902%20-%20Compensation%20of%20Chief.md)
 - [&sect; 01903 - Chief Administrative Officer](%C2%A7%2001903%20-%20Chief%20Administrative%20Officer.md)
 - [&sect; 01904 - Certifying officers](%C2%A7%2001904%20-%20Certifying%20officers.md)

@@ -26,7 +26,7 @@ For any forest development road that is to be constructed or paid for by a purch
 
 #### (f) Treatment of road value
 
-For any forest development road that is constructed or paid for by a purchaser of national forest timber or other forest products, the estimated cost of the road construction, including subsequent design changes, shall be considered to be money received for purposes of the payments required to be made under section 500 of this title. To the extent that the appraised value of road construction determined under this subsection reflects funds contributed by the Secretary of Agriculture to build the road to a higher standard pursuant to subsection (e), the Secretary shall modify the appraisal of the road construction to exclude the effect of the Federal funds.
+For any forest development road that is constructed or paid for by a purchaser of national forest timber or other forest products, the estimated cost of the road construction, including subsequent design changes, shall be considered to be money received for purposes of the payments required to be made under section 500 ofthis title. To the extent that the appraised value of road construction determined under this subsection reflects funds contributed by the Secretary of Agriculture to build the road to a higher standard pursuant to subsection (e), the Secretary shall modify the appraisal of the road construction to exclude the effect of the Federal funds.
 
 #### (g) Effective date
 
@@ -43,6 +43,8 @@ For any forest development road that is constructed or paid for by a purchaser o
 (2) Notwithstanding paragraph (1), any sale of national forest timber or other forest products for which notice of sale is provided before the effective date of this section, and any effective purchaser road credit earned pursuant to a contract resulting from such a notice of sale or otherwise earned before that effective date shall remain in effect, and shall continue to be subject to section 535 of this title and section 472a(i) of this title, and rules issued thereunder, as in effect on the day before October 21, 1998.
 
 (Pub. L. 105–277, div. A, §101(e) \[title III, §329\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–292.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

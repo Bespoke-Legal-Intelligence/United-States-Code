@@ -4,7 +4,7 @@
 
 Number of Members.—(1) Except as provided in paragraph (2), a military commission under this chapter shall have at least five primary members and as many alternate members as the convening authority shall detail. Alternate members shall be designated in the order in which they will replace an excused primary member.
 
-(2) In a case in which the accused before a military commission under this chapter may be sentenced to a penalty of death, the militarycommission shall have the number of primary members prescribed by section 949m(c) of this title.
+(2) In a case in which the accused before a military commission under this chapter may be sentenced to a penalty of death, the military commission shall have the number of primary members prescribed by section 949m(c) of this title.
 
 (b)
 
@@ -33,6 +33,8 @@ Excuse of Members.—No primary or alternate member of a military commission und
 Absent and Additional Members.—Whenever the number of primary members of a military commission under this chapter is reduced below the number of primary members required by subsection (a) and there are no remaining alternate members to replace the excused primary members, the trial may not proceed unless the convening authority details new members sufficient to provide not less than such number. The trial may proceed with the new members present after the recorded evidence previously introduced before the members has been read to the military commission in the presence of the military judge, the accused (except as provided in section 949d of this title), and counsel for both sides. An alternate member who was present for the introduction of all evidence shall not be considered to be a new or additional member.
 
 (Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2579; amended Pub. L. 113–66, div. A, title X, §1031(a), Dec. 26, 2013, 127 Stat. 849.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

@@ -18,15 +18,19 @@ For purposes of this part:
 
 (July 1, 1944, ch. 373, title XXI, §2133, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3778; amended Pub. L. 107–296, title XVII, §§1714–1716, Nov. 25, 2002, 116 Stat. 2320, 2321; Pub. L. 108–7, div. L, §102(a), Feb. 20, 2003, 117 Stat. 528.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2003</b>—Pars. (3), (5), (7). Pub. L. 108–7 repealed Pub. L. 107–296, §§1714–1717, and provided that this chapter shall be applied as if the sections repealed had never been enacted. See 2002 Amendment notes below.
 
-<b>2002</b>—Par. (3). Pub. L. 107–296, §1714, which directed amendment of first sentence by substituting "any vaccine set forth in the Vaccine Injury table, includingany component or ingredient of any such vaccine" for "under its label any vaccine set forth in the Vaccine Injury Table" and of second sentence by inserting "including any component or ingredient of any such vaccine" before period at end, was repealed by Pub. L. 108–7.
+<b>2002</b>—Par. (3). Pub. L. 107–296, §1714, which directed amendment of first sentence by substituting "any vaccine set forth in the Vaccine Injury table, including any component or ingredient of any such vaccine" for "under its label any vaccine set forth in the Vaccine Injury Table" and of second sentence by inserting "including any component or ingredient of any such vaccine" before period at end, was repealed by Pub. L. 108–7.
 
 Par. (5). Pub. L. 107–296, §1715, which directed insertion of "For purposes of the preceding sentence, an adulterant or contaminant shall not include any component or ingredient listed in a vaccine's product license application or product label." at end, was repealed by Pub. L. 108–7.
 
 Par. (7). Pub. L. 107–296, §1716, which directed addition of par. (7), was repealed by Pub. L. 108–7, §102(a). Par. (7) read as follows: "The term 'vaccine' means any preparation or suspension, including but not limited to a preparation or suspension containing an attenuated or inactive microorganism or subunit thereof or toxin, developed or administered to produce or enhance the body's immune response to a disease or diseases and includes all components and ingredients listed in the vaccines's product license application and product label."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

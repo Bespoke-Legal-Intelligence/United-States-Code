@@ -48,9 +48,9 @@ Every individual who—
 
 &emsp;(D) As of a date, determined under regulations of the Secretary, for nonpayment of premiums.
 
-> The regulations under subparagraph (D) may provide a grace period of not longer than 90 days, which may be extended to not to exceed 180 days in any case where the Secretary determines that there was good cause for failure to pay the overdue premiums within such 90-day period. Termination of coverage under this section shall result in simultaneous termination of any coverage affected under any other part of this subchapter.
+> The regulations under subparagraph (D) may provide a grace period of not longer than 90 days, which may be extended to not to exceed 180 days in any case where the Secretary determines that there was good cause for failure to pay the overdue premiums within such 90-dayperiod. Termination of coverage under this section shall result in simultaneous termination of any coverage affected under any other part of this subchapter.
 
-(3) The provisions of subsections (h), (i), and (m) of section 1395p of this title apply to enrollment and nonenrollment under this section in the same manner as they apply to enrollmentand nonenrollment and special enrollment periods under section 1395i–2 of this title.
+(3) The provisions of subsections (h), (i), and (m) of section 1395p of this title apply to enrollment and nonenrollment under this section in the same manner as they apply to enrollment and nonenrollment and special enrollment periods under section 1395i–2 of this title.
 
 #### (d) Payment of premiums
 
@@ -64,6 +64,8 @@ Every individual who—
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1818A, as added Pub. L. 101–239, title VI, §6012(a)(2), Dec. 19, 1989, 103 Stat. 2161; amended Pub. L. 101–508, title IV, §4008(m)(3)(C), Nov. 5, 1990, 104 Stat. 1388–54; Pub. L. 116–260, div. CC, title I, §120(a)(2)(C)(i), Dec. 27, 2020, 134 Stat. 2954.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2020</b>—Subsec. (c)(3). Pub. L. 116–260 substituted "subsections (h), (i), and (m) of section 1395p of this title" for "subsections (h) and (i) of section 1395p of this title".
@@ -71,6 +73,8 @@ Every individual who—
 <b>1990</b>—Subsec. (d)(1)(A). Pub. L. 101–508, §4008(m)(3)(C)(i), inserted "for enrollment under this section" after "Premiums".
 
 Subsec. (d)(1)(C). Pub. L. 101–508, §4008(m)(3)(C)(ii), struck out subpar. (C) which read as follows: "For purposes of applying section 1395r(g) of this title and section 59B(f)(1)(B)(i) of the Internal Revenue Code of 1986, any reference to section 1395i–2 of this title shall be deemed to include a reference to this section."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

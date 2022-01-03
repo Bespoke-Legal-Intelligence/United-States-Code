@@ -4,9 +4,13 @@ The Secretary of Transportation shall require, beginning after the last day of t
 
 (Added Pub. L. 108–176, title VIII, §810(a), Dec. 12, 2003, 117 Stat. 2590.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this section, referred to in text, is the date of enactment of Pub. L. 108–176, which was approved Dec. 12, 2003.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

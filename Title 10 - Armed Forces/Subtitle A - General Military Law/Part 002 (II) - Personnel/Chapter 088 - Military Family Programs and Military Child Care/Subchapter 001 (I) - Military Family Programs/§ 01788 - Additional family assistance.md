@@ -8,11 +8,15 @@ Authority.—The Secretary of Defense may provide for the families of members of
 
 Primary Purpose of Assistance.—The assistance authorized by this section should be directed primarily toward providing needed family support, including child care, education, and other youth services, for children of members of the armed forces who are deployed, assigned to duty, or ordered to active duty in connection with a contingency operation.
 
-(Added Pub. L. 107–314, div. A, title VI, §652(a)(1), Dec. 2, 2002, 116 Stat. 2581; amended Pub. L.111–383, div. A, title X, §1075(b)(25), Jan. 7, 2011, 124 Stat. 4370.)
+(Added Pub. L. 107–314, div. A, title VI, §652(a)(1), Dec. 2, 2002, 116 Stat. 2581; amended Pub. L. 111–383, div. A, title X, §1075(b)(25), Jan. 7, 2011, 124 Stat. 4370.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>2011</b>—Subsec. (b). Pub. L. 111–383 substituted "armed forces" for "Armed Forces".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -176,7 +180,7 @@ Reports.—
 
 &emsp;"(1)
 
-Initial report.—Not later than 180 days after the date of the enactment of this Act \[Aug. 13, 2018\],the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the pilot program under this section. The report shall include a comprehensive description of the assessments under subsection (d), as well as the following:
+Initial report.—Not later than 180 days after the date of the enactment of this Act \[Aug. 13, 2018\], the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the pilot program under this section. The report shall include a comprehensive description of the assessments under subsection (d), as well as the following:
 
 &emsp;&emsp;"(A) Which installations the Secretary selected for the pilot program under subsection (a)(2).
 
@@ -222,7 +226,7 @@ Definitions.—In this section:
 
 #### Family Support Programs for Immediate Family Members of Members of the Armed Forces Assigned to Special Operations Forces
 
-Pub. L. 113–66, div. A, title V, §554, Dec. 26, 2013, 127 Stat. 765, as amended by Pub. L. 114–92, div. A, title V, §574, Nov. 25, 2015, 129 Stat. 831; Pub. L. 115–91, div. A, title X, §1081(e), Dec. 12, 2017, 131 Stat. 1601, related to pilot programs for family members of members of the Armed Forces assigned to special operations forces, prior to repeal by Pub. L. 115–91, div. A, title V, §555(f), Dec. 12, 2017, 131 Stat. 1403. See section 1788a of this title.
+Pub. L. 113–66, div. A, title V, §554, Dec. 26, 2013, 127 Stat. 765, as amended by Pub. L. 114–92, div. A, title V, §574, Nov. 25, 2015, 129 Stat. 831; Pub. L. 115–91, div. A, title X, §1081(e), Dec. 12, 2017, 131 Stat. 1601, related topilot programs for family members of members of the Armed Forces assigned to special operations forces, prior to repeal by Pub. L. 115–91, div. A, title V, §555(f), Dec. 12, 2017, 131 Stat. 1403. See section 1788a of this title.
 
 \[Pub. L. 115–91, div. A, title X, §1081(e), Dec. 12, 2017, 131 Stat. 1601, provided that the amendment made by section 1081(e) (amending section 574 of Pub. L. 114–92, which amended section 554 of Pub. L. 113–66, formerly set out above) is effective Nov. 25, 2015, and as if included in Pub. L. 114–92 as enacted.\]
 

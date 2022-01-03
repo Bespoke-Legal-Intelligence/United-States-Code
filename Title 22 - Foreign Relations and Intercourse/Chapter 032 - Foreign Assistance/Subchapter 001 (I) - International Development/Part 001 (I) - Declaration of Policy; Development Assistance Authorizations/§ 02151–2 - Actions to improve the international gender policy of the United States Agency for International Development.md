@@ -8,7 +8,7 @@ In this section, the term "gender analysis"—
 
 &emsp;&emsp;(A) differences in the status of women and men and their differential access to and control over assets, resources, education, opportunities, and services;
 
-&emsp;&emsp;(B) the influence of gender roles, structural barriers, and norms on the division of time between paid employment, unpaid work (including the subsistence production and care for family members), and volunteer activities;
+&emsp;&emsp;(B) the influence of gender roles, structural barriers, and norms on the division oftime between paid employment, unpaid work (including the subsistence production and care for family members), and volunteer activities;
 
 &emsp;&emsp;(C) the influence of gender roles, structural barriers, and norms on leadership roles and decision making; constraints, opportunities, and entry points for narrowing gender gaps and empowering women; and
 

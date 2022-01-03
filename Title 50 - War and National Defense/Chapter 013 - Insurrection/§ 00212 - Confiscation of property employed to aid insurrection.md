@@ -4,6 +4,8 @@ Whenever during any insurrection against the Government of the United States, af
 
 (R.S. §5308.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §5308 derived from act Aug. 6, 1861, ch. 60, §1, 12 Stat. 319.

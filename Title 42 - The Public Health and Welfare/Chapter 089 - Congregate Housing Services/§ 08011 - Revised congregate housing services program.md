@@ -88,7 +88,7 @@ For each State, Indian tribe, unit of general local government, and nonprofit ho
 
 &emsp;&emsp;&emsp;&emsp;(II) if approved under such section, accept benefits as payment from individuals to whom such meal services are provided; and
 
-&emsp;&emsp;&emsp;(ii) shall request, and use to provide such meal services, agricultural commodities made available without charge by the Secretary of Agriculture.
+&emsp;&emsp;&emsp;(ii) shall request, and use to provide such meal services, agricultural commoditiesmade available without charge by the Secretary of Agriculture.
 
 #### (B) Preference for nutrition providers
 
@@ -126,7 +126,7 @@ For each State, Indian tribe, unit of general local government, and nonprofit ho
 
 #### (4) Service coordinator
 
-&emsp;Assistance under this section may be provided with respect to the employment of oneor more individuals (hereinafter referred to as "service coordinator") who may be responsible for—
+&emsp;Assistance under this section may be provided with respect to the employment of one or more individuals (hereinafter referred to as "service coordinator") who may be responsible for—
 
 &emsp;&emsp;(A) working with the professional assessment committee established under subsection (f) <sup>2</sup> on an ongoing basis to assess the service needs of eligible residents;
 
@@ -152,7 +152,7 @@ For each State, Indian tribe, unit of general local government, and nonprofit ho
 
 #### (A) Eligible project residents
 
-&emsp;&emsp;The owner of each eligible housing project shall establish fees for meals and other services provided under a congregate services program to eligible project residents, which shall be sufficient to provide 10 percent of the costs of the services provided. The Secretary concerned shall provide for the waiver of fees under this paragraph for individuals whose incomes are insufficient to provide for any payment. The fees for meals shall be in the following amounts:
+&emsp;&emsp;The owner of each eligible housing project shall establish fees for meals and other services provided under a congregate services program to eligible project residents, which shall be sufficient to provide 10 percent ofthe costs of the services provided. The Secretary concerned shall provide for the waiver of fees under this paragraph for individuals whose incomes are insufficient to provide for any payment. The fees for meals shall be in the following amounts:
 
 #### (i) Full meal services
 
@@ -372,7 +372,7 @@ For purposes of this section:
 
 &emsp;(15) The term "professional assessment committee" means a committee established under subsection (e)(3)(B).
 
-&emsp;(16) The term "qualifying supportive services" means new or significantly expanded services that the Secretary deems essential to enable eligible residents to live independently and avoid unnecessary institutionalization. Such services may include but not be limited to (A) meal service adequate to meet nutritional need; (B) housekeeping aid; (C) personal assistance (which may include, but is not limited to, aid given to eligible residents in grooming, dressing, and other activities which maintain personal appearance and hygiene); (D) transportation services; (E) health-related services; and (F) personal emergency response systems; the owner may provide the qualifying services directly to eligible residents or may, by contract or lease, provide such services through other appropriate agencies or providers.
+&emsp;(16) The term "qualifying supportive services" means new or significantly expanded services that the Secretary deems essential to enable eligible residents to live independently and avoid unnecessary institutionalization.Such services may include but not be limited to (A) meal service adequate to meet nutritional need; (B) housekeeping aid; (C) personal assistance (which may include, but is not limited to, aid given to eligible residents in grooming, dressing, and other activities which maintain personal appearance and hygiene); (D) transportation services; (E) health-related services; and (F) personal emergency response systems; the owner may provide the qualifying services directly to eligible residents or may, by contract or lease, provide such services through other appropriate agencies or providers.
 
 &emsp;(17) The term "Secretary concerned" means—
 
@@ -402,7 +402,7 @@ For purposes of this section:
 
 &emsp;&emsp;(A) describing the activities being carried out with assistance under this section and the population being served by such activities;
 
-&emsp;&emsp;(B) evaluating the effectiveness of the program of providing assistance for congregateservices under this section, and a comparison of the effectiveness of the program under this section with the HOPE for Elderly Independence Program under section 8012 of this title; and
+&emsp;&emsp;(B) evaluating the effectiveness of the program of providing assistance for congregate services under this section, and a comparison of the effectiveness of the program under this section with the HOPE for Elderly Independence Program under section 8012 of this title; and
 
 &emsp;&emsp;(C) containing any other information that the Secretary concerned considers helpful to the Congress in evaluating the effectiveness of this section.
 
@@ -433,6 +433,8 @@ The Secretary of Housing and Urban Development and the Secretary of Agriculture 
 The Secretary may reserve not more than 5 percent of the amounts made available in each fiscal year to supplement grants awarded to owners under this section when, in the determination of the Secretary, such supplemental adjustments are required to maintain adequate levels of services to eligible residents.
 
 (Pub. L. 101–625, title VIII, §802, Nov. 28, 1990, 104 Stat. 4304; Pub. L. 102–550, title VI, §§604(a), (b), 672, Oct. 28, 1992, 106 Stat. 3805, 3826; Pub. L. 110–234, title IV, §§4002(b)(1)(B), (N), (2)(LL), 4115(c)(1)(A)(i), (B)(vi), (2)(I), May 22, 2008, 122 Stat. 1096, 1098, 1109, 1110; Pub. L. 110–246, §4(a), title IV, §§4002(b)(1)(B), (N), (2)(LL), 4115(c)(1)(A)(i), (B)(vi), (2)(I), June 18, 2008, 122 Stat. 1664, 1857–1859, 1870, 1871.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -474,6 +476,8 @@ Subsec. (i)(1)(B)(i). Pub. L. 102–550, §604(b), substituted "6-year" for "3-y
 
 Subsec. (n)(1). Pub. L. 102–550, §604(a), in introductory provisions, substituted provisions authorizing appropriations for fiscal years 1993 and 1994 for provisions authorizing appropriations of $25,000,000 for fiscal year 1991 and $26,100,000 for fiscal year 1992.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
@@ -503,6 +507,8 @@ Final regulations.—Not later than the expiration of the 90-day period beginnin
 "(3)
 
 Failure under 1990 act.—This subsection may not be construed to authorize any failure to comply with the requirements of section 802(m) of the Cranston-Gonzalez National Affordable Housing Act."
+
+#### <b>Executive Documents</b>
 
 #### Termination of Trust Territory of the Pacific Islands
 

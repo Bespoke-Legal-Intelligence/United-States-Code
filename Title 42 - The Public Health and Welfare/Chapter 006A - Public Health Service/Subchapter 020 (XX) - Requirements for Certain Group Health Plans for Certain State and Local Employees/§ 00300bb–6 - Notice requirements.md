@@ -2,7 +2,7 @@
 
 In accordance with regulations prescribed by the Secretary—
 
-&emsp;(1) the group health plan shall provide, at the time of commencement of coverage under the plan, written notice to each covered employee and spouse of the employee (if any) of the rights provided under this subsection,<sup>1</sup>
+&emsp;(1) the group health plan shall provide, at the time of commencement of coverage underthe plan, written notice to each covered employee and spouse of the employee (if any) of the rights provided under this subsection,<sup>1</sup>
 
 &emsp;(2) the employer of an employee under a plan must notify the plan administrator of a qualifying event described in paragraph (1), (2), or (4) of section 300bb–3 of this title within 30 days of the date of the qualifying event,
 
@@ -20,6 +20,8 @@ In accordance with regulations prescribed by the Secretary—
 
 (July 1, 1944, ch. 373, title XXII, §2206, as added Pub. L. 99–272, title X, §10003(a), Apr. 7, 1986, 100 Stat. 235; amended Pub. L. 99–514, title XVIII, §1895(d)(6)(C), Oct. 22, 1986, 100 Stat. 2939; Pub. L. 100–203, title IV, §4009(j)(8), Dec. 22, 1987, 101 Stat. 1330–59; Pub. L. 101–239, title VI, §6702(c), Dec. 19, 1989, 103 Stat. 2295; Pub. L. 104–191, title IV, §421(a)(2), Aug. 21, 1996, 110 Stat. 2088.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Social Security Act, referred to in par. (3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II and XVI of the Social Security Act are classified generally to subchapters II (§401 et seq.) and XVI (§1381 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
@@ -33,6 +35,8 @@ The Social Security Act, referred to in par. (3), is act Aug. 14, 1935, ch. 531,
 <b>1987</b>—Par. (3). Pub. L. 100–203 amended directory language of Pub. L. 99–514, see 1986 Amendment note below.
 
 <b>1986</b>—Par. (3). Pub. L. 99–514, as amended by Pub. L. 100–203, inserted "within 60 days after the date of the qualifying event".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 
@@ -52,7 +56,7 @@ Amendment by Pub. L. 99–514 applicable only with respect to qualifying events 
 
 #### Notification to Covered Employees
 
-Pub. L. 99–272, title X, §10003(c), Apr. 7, 1986, 100 Stat. 236, provided that: "At the time that the amendmentsmade by this section \[enacting this subchapter\] apply to a group health plan (covered under section 2201 of the Public Health Service Act \[42 U.S.C. 300bb–1\]), the plan shall notify each covered employee, and spouse of the employee (if any), who is covered under the plan at that time of the continuation coverage required under title XXII of such Act \[42 U.S.C. 300bb–1 et seq.\]. The notice furnished under this subsection is in lieu of notice that may otherwise be required under section 2206(1) of such Act \[42 U.S.C. 300bb–6(1)\] with respect to such individuals."
+Pub. L. 99–272, title X, §10003(c), Apr. 7, 1986, 100 Stat. 236, provided that: "At the time that the amendments made by this section \[enacting this subchapter\] apply to a group health plan (covered under section 2201 of the Public Health Service Act \[42 U.S.C. 300bb–1\]), the plan shall notify each covered employee, and spouse of the employee (if any), who is covered under the plan at that time of the continuation coverage required under title XXII of such Act \[42 U.S.C. 300bb–1 et seq.\]. The notice furnished under this subsection is in lieu of notice that may otherwise be required under section 2206(1) of such Act \[42 U.S.C. 300bb–6(1)\] with respect to such individuals."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "subchapter".</i>
 

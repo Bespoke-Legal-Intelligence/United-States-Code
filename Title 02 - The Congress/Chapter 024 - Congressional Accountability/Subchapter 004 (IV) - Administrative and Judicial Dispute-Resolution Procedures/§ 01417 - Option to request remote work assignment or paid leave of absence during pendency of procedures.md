@@ -8,7 +8,7 @@
 
 #### (2) Exception for work assignments required to be carried out onsite
 
-&emsp;If, in the determination of the covered employee's employing office, a covered employee who makes a request under this subsection cannot carry out the employee's responsibilities from a remote location or such relocation would not have the effect described in paragraph (1), the employing office may during thependency of the procedures described in paragraph (1)—
+&emsp;If, in the determination of the covered employee's employing office, a covered employee who makes a request under this subsection cannot carry out the employee's responsibilities from a remote location or such relocation would not have the effect described in paragraph (1), the employing office may during the pendency of the procedures described in paragraph (1)—
 
 &emsp;&emsp;(A) grant a paid leave of absence to the covered employee;
 

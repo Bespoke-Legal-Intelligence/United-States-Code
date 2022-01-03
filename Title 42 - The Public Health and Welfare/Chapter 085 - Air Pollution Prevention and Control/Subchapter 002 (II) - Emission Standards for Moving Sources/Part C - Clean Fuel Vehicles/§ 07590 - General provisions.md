@@ -6,7 +6,7 @@ If any State adopts enforceable provisions in an implementation plan applicable 
 
 #### (b) No production mandate
 
-The Administrator shall have no authority under this part to mandate the production of clean-fuel vehicles except as provided in theCalifornia pilot test program or to specify as applicable the models, lines, or types of, or marketing or price practices, policies, or strategies for, vehicles subject to this part. Nothing in this part shall be construed to give the Administrator authority to mandate marketing or pricing practices, policies, or strategies for fuels.
+The Administrator shall have no authority under this part to mandate the production of clean-fuel vehicles except as provided in the California pilot test program or to specify as applicable the models, lines, or types of, or marketing or price practices, policies, or strategies for, vehicles subject to this part. Nothing in this part shall be construed to give the Administrator authority to mandate marketing or pricing practices, policies, or strategies for fuels.
 
 #### (c) Tank and fuel system safety
 
@@ -17,6 +17,8 @@ The Secretary of Transportation shall, in accordance with chapter 301 of title 4
 The Administrator shall coordinate with the Secretaries of the Department of Energy and the Department of Transportation in carrying out the Administrator's duties under this part.
 
 (July 14, 1955, ch. 360, title II, §250, as added Pub. L. 101–549, title II, §229(a), Nov. 15, 1990, 104 Stat. 2528.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

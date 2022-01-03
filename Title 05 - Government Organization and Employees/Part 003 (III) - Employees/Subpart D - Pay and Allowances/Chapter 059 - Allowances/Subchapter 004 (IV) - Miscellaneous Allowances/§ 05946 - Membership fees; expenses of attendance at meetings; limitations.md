@@ -26,7 +26,7 @@ June 26, 1912, ch. 182, §8, 37 Stat. 184.
 
 Mar. 4, 1913, ch. 145 (3d full par. on p. 854), 37 Stat. 854.
 
-The words "or by sections 4109 and 4110 of this title" are added on authority of former sections 2309 and 2318(b), which are carried into sections 4109 and 4110, respectively.
+The words "or by sections 4109 and 4110 of this title" are added on authority of former sections 2309 and2318(b), which are carried into sections 4109 and 4110, respectively.
 
 In the last sentence, the words "This section does not" are substituted for "That nothing contained in the Act making appropriations to provide for the expenses of the Government of the District of Columbia for the fiscal year ending June thirtieth, nineteen hundred and thirteen, and for other purposes, approved June twenty-sixth, nineteen hundred and twelve, shall be so construed as to" appearing in the Act of Mar. 4, 1913, 37 Stat. 854.
 

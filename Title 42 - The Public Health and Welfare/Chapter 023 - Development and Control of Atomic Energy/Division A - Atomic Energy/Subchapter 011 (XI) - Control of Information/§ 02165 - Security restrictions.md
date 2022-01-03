@@ -34,13 +34,15 @@ In the event an investigation made pursuant to subsections (a) and (b) of this s
 
 #### (g) Investigation standards
 
-The Commission shall establish standards and specifications in writing as to the scope and extent of investigations, the reports of which will be utilized by the Commission in making the determination, pursuant to subsections (a), (b), and (c) of this section, that permitting a person access to restricted data will not endanger the common defense and security. Such standards and specifications shall be based on the location and class or kind of work to be done, and shall, among other considerations, take into account the degree of importance to the common defense and security of the restricted data to which access will be permitted.
+The Commission shall establish standards and specifications in writing as to the scope and extent of investigations, the reports of which will be utilized by the Commission in making the determination, pursuant to subsections (a), (b), and (c) of this section, that permitting a personaccess to restricted data will not endanger the common defense and security. Such standards and specifications shall be based on the location and class or kind of work to be done, and shall, among other considerations, take into account the degree of importance to the common defense and security of the restricted data to which access will be permitted.
 
 #### (h) War time clearance
 
 Whenever the Congress declares that a state of war exists, or in the event of a national disaster due to enemy attack, the Commission is authorized during the state of war or period of national disaster due to enemy attack to employ individuals and to permit individuals access to Restricted Data pending the investigation report, and determination required by subsection (b), to the extent that and so long as the Commission finds that such action is required to prevent impairment of its activities in furtherance of the common defense and security.
 
 (Aug. 1, 1946, ch. 724, title I, §145, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 942; amended Pub. L. 85–681, §5, Aug. 19, 1958, 72 Stat. 633; Pub. L. 87–206, §6, Sept. 6, 1961, 75 Stat. 476; Pub. L. 87–615, §10, Aug. 29, 1962, 76 Stat. 411; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 106–65, div. C, title XXXI, §3144(a), Oct. 5, 1999, 113 Stat. 934; Pub. L. 108–136, div. C, title XXXI, §3131, Nov. 24, 2003, 117 Stat. 1749.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -66,6 +68,8 @@ Subsecs. (g), (h). Pub. L. 87–206 redesignated former subsec. (f) as (g) and a
 
 <b>1958</b>—Subsec. (g). Pub. L. 85–681 added subsec. (g).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Implementation of Subsection (e)(2)
 
 Pub. L. 106–65, div. C, title XXXI, §3144(b), (c), Oct. 5, 1999, 113 Stat. 934, provided that:
@@ -89,6 +93,8 @@ Report.—(1) Not later than six months after the date of the enactment of this 
 &emsp;"(A) The Committee on Armed Services and the Select Committee on Intelligence of the Senate.
 
 &emsp;"(B) The Committee on Armed Services and the Permanent Select Committee on Intelligence of the House of Representatives."
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

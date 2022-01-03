@@ -44,7 +44,9 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(C) qualifies as a nonprofit organization under section 501(c) of title 26.
 
-(Pub. L. 101–624, title XVI, §1619, Nov. 28, 1990, 104 Stat. 3733; Pub. L. 102–237, title IV, §407(2),Dec. 13, 1991, 105 Stat. 1864; Pub. L. 104–127, title VIII, §860(c)(1), Apr. 4, 1996, 110 Stat. 1173; Pub. L. 110–234, title VII, §7101(b)(5), May 22, 2008, 122 Stat. 1213; Pub. L. 110–246, §4(a), title VII, §7101(b)(5), June 18, 2008, 122 Stat. 1664, 1975.)
+(Pub. L. 101–624, title XVI, §1619, Nov. 28, 1990, 104 Stat. 3733; Pub. L. 102–237, title IV, §407(2), Dec. 13, 1991, 105 Stat. 1864; Pub. L. 104–127, title VIII, §860(c)(1), Apr. 4, 1996, 110 Stat. 1173; Pub. L. 110–234, title VII, §7101(b)(5), May 22, 2008, 122 Stat. 1213; Pub. L. 110–246, §4(a), title VII, §7101(b)(5), June 18, 2008, 122 Stat. 1664, 1975.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -66,6 +68,8 @@ Subsec. (b)(8). Pub. L. 110–246, §7101(b)(5)(C), substituted "section 3103" f
 
 <b>1991</b>—Subsec. (b)(8). Pub. L. 102–237 substituted "Mariana Islands" for "Marianas Islands".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
@@ -73,6 +77,8 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 #### Short Title of 1976 Amendment
 
 Pub. L. 94–214, §1, Feb. 16, 1976, 90 Stat. 181, provided that: "This Act \[see Tables for classification\] may be cited as the 'Rice Production Act of 1975'."
+
+#### <b>Executive Documents</b>
 
 #### Termination of Trust Territory of the Pacific Islands
 

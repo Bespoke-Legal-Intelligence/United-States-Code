@@ -14,7 +14,7 @@ The Secretary shall establish in the Department of Education an Office of Admini
 
 #### (b) Appointment
 
-The administrative law judges (hereinafter "judges") of the Office shall be appointed by theSecretary in accordance with section 3105 of title 5.
+The administrative law judges (hereinafter "judges") of the Office shall be appointed by the Secretary in accordance with section 3105 of title 5.
 
 #### (c) Employment requirements; chief judge
 
@@ -58,6 +58,8 @@ The Secretary shall employ, assign, or transfer sufficient professional personne
 
 (Pub. L. 90–247, title IV, §451, as added Pub. L. 95–561, title XII, §1232, Nov. 1, 1978, 92 Stat. 2346; amended Pub. L. 100–297, title III, §3501(a), Apr. 28, 1988, 102 Stat. 349.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Rules of Evidence, referred to in subsec. (h), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
@@ -65,6 +67,8 @@ The Federal Rules of Evidence, referred to in subsec. (h), are set out in the Ap
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–297 amended section generally, substituting provisions relating to Office of Administrative Law Judges for provisions relating to Education Appeal Board.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

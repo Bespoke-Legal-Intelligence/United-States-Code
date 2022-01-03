@@ -28,7 +28,7 @@
 
 #### (b) Schedule for plan submissions
 
-At the time the Administrator promulgates the designation of an area as nonattainment with respect to a national ambient air quality standard under section 7407(d) of this title, the Administrator shall establish a schedule according to which the State containing such area shall submit a plan or plan revision (including the plan items) meeting the applicable requirements of subsection (c) and section 7410(a)(2) of this title. Such schedule shall at a minimum, include a date or dates, extending no later than 3 years from the date of the nonattainment designation, for the submission of a plan or plan revision (including the plan items) meeting the applicable requirements of subsection (c) and section 7410(a)(2) of this title.
+At the time the Administrator promulgates the designation of an area as nonattainmentwith respect to a national ambient air quality standard under section 7407(d) of this title, the Administrator shall establish a schedule according to which the State containing such area shall submit a plan or plan revision (including the plan items) meeting the applicable requirements of subsection (c) and section 7410(a)(2) of this title. Such schedule shall at a minimum, include a date or dates, extending no later than 3 years from the date of the nonattainment designation, for the submission of a plan or plan revision (including the plan items) meeting the applicable requirements of subsection (c) and section 7410(a)(2) of this title.
 
 #### (c) Nonattainment plan provisions
 
@@ -78,7 +78,9 @@ Any plan revision for a nonattainment area which is required to be submitted in 
 
 If the Administrator relaxes a national primary ambient air quality standard after November 15, 1990, the Administrator shall, within 12 months after the relaxation, promulgate requirements applicable to all areas which have not attained that standard as of the date of such relaxation. Such requirements shall provide for controls which are not less stringent than the controls applicable to areas designated nonattainment before such relaxation.
 
-(July 14, 1955, ch. 360, title I, §172, as added Pub. L. 95–95, title I, §129(b), Aug. 7, 1977, 91 Stat. 746; amended Pub. L. 95–190, §14(a)(55), (56), Nov. 16, 1977, 91 Stat. 1402; Pub. L. 101–549, title I, §102(b), Nov. 15, 1990, 104 Stat. 2412.)
+(July 14, 1955, ch. 360, title I, §172, as added Pub. L. 95–95, title I, §129(b), Aug. 7, 1977, 91 Stat. 746;amended Pub. L. 95–190, §14(a)(55), (56), Nov. 16, 1977, 91 Stat. 1402; Pub. L. 101–549, title I, §102(b), Nov. 15, 1990, 104 Stat. 2412.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -87,6 +89,8 @@ If the Administrator relaxes a national primary ambient air quality standard aft
 <b>1977</b>—Subsec. (b)(4). Pub. L. 95–190, §14(a)(55), substituted "subsection (a)" for "paragraph (1)".
 
 Subsec. (c). Pub. L. 95–190, §14(a)(56), substituted "December 31" for "July 1".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Nonattainment Areas
 
@@ -112,5 +116,5 @@ Pub. L. 95–95, title I, §129(a), Aug. 7, 1977, 91 Stat. 745, as amended by Pu
 
 #### State Implementation Plan Revision
 
-Pub. L. 95–95, title I, §129(c), Aug. 7, 1977, 91 Stat. 750, as amended by Pub. L. 95–190, §14(b)(4), Nov. 16, 1977, 91 Stat. 1405, provided that: "Notwithstanding the requirements of section 406(d)(2) \[set out as an Effective Date of 1977 Amendment note under section 7401 of this title\] (relating to date required for submission of certain implementation plan revisions), for purposes ofsection 110(a)(2) of the Clean Air Act \[section 7410(a)(2) of this title\] each State in which there is any nonattainment area (as defined in part D of title I of the Clean Air Act) \[this part\] shall adopt and submit an implementation plan revision which meets the requirements of section 110(a)(2)(I) \[section 7410(a)(2)(I) of this title\] and part D of title I of the Clean Air Act \[this part\] not later than January 1, 1979. In the case of any State for which a plan revision adopted and submitted before such date has made the demonstration required under section 172(a)(2) of the Clean Air Act \[subsec. (a)(2) of this section\] (respecting impossibility of attainment before 1983), such State shall adopt and submit to the Administrator a plan revision before July 1, 1982, which meets the requirements of section 172(b) and (c) of such Act \[subsecs. (b) and (c) of this section\]."
+Pub. L. 95–95, title I, §129(c), Aug. 7, 1977, 91 Stat. 750, as amended by Pub. L. 95–190, §14(b)(4), Nov. 16, 1977, 91 Stat. 1405, provided that: "Notwithstanding the requirements of section 406(d)(2) \[set out as an Effective Date of 1977 Amendment note under section 7401 of this title\] (relating to date required for submission of certain implementation plan revisions), for purposes of section 110(a)(2) of the Clean Air Act \[section 7410(a)(2) of this title\] each State in which there is any nonattainment area (as defined in part D of title I of the Clean Air Act) \[this part\] shall adopt and submit an implementation plan revision which meets the requirements of section 110(a)(2)(I) \[section 7410(a)(2)(I) of this title\] and part D of title I of the Clean Air Act \[this part\] not later than January 1, 1979. In the case of any State for which a plan revision adopted and submitted before such date has made the demonstration required under section 172(a)(2) of the Clean Air Act \[subsec. (a)(2) of this section\] (respecting impossibility of attainment before 1983), such State shall adopt and submit to the Administrator a plan revision before July 1, 1982, which meets the requirements of section 172(b) and (c) of such Act \[subsecs. (b) and (c) of this section\]."
 

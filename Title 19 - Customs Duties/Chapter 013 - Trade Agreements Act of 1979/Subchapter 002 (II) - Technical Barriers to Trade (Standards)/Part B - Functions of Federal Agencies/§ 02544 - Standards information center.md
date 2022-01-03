@@ -8,7 +8,7 @@ The Secretary of Commerce shall maintain within the Department of Commerce a sta
 
 The standards information center shall—
 
-&emsp;(1) serve as the central national collection facility for information relating to (A) standards, technical regulations, conformity assessment procedures, and standards-related activities, whether such standards, technical regulations, conformity assessment procedures, or activities are public or private, domestic or foreign, or international, regional, national, or local and (B) the membership and participation of Federal, State, or local governmentbodies or private bodies in the United States in international and regional standardizing bodies and conformity assessment systems, as well as in bilateral and multilateral arrangements concerning standards-related activities;
+&emsp;(1) serve as the central national collection facility for information relating to (A) standards, technical regulations, conformity assessment procedures, and standards-related activities, whether such standards, technical regulations, conformity assessment procedures, or activities are public or private, domestic or foreign, or international, regional, national, or local and (B) the membership and participation of Federal, State, or local government bodies or private bodies in the United States in international and regional standardizing bodies and conformity assessment systems, as well as in bilateral and multilateral arrangements concerning standards-related activities;
 
 &emsp;(2) make available to the public at such reasonable fee as the Secretary shall prescribe, copies of information required to be collected under paragraph (1) other than information to which paragraph (3) applies;
 
@@ -32,13 +32,15 @@ The standards information center shall—
 
 &emsp;&emsp;(C) the determination of the levels of protection that a Federal agency or an agency of a State or local government considers appropriate; and
 
-&emsp;&emsp;(D) the membership and participation of the Federal Government and State and local governments in international and regional sanitary and phytosanitary organizations and systems, and in bilateral and multilateral arrangements regarding sanitary and phytosanitary measures, and the provisions of those systems and arrangements.
+&emsp;&emsp;(D) the membership and participation of the Federal Government and State and local governments in international and regional sanitary and phytosanitary organizations and systems, and in bilateral and multilateral arrangements regarding sanitary andphytosanitary measures, and the provisions of those systems and arrangements.
 
 #### (2) Definitions
 
 &emsp;The definitions in section 2575b of this title apply for purposes of this subsection.
 
 (Pub. L. 96–39, title IV, §414, July 26, 1979, 93 Stat. 245; Pub. L. 103–465, title III, §351(d), title IV, §431(a), Dec. 8, 1994, 108 Stat. 4956, 4966; Pub. L. 104–295, §20(c)(15), Oct. 11, 1996, 110 Stat. 3529.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -47,6 +49,8 @@ The standards information center shall—
 <b>1994</b>—Subsec. (b)(1). Pub. L. 103–465, §351(d), inserted "(A)" after "relating to", substituted "technical regulations, conformity assessment procedures," for "certification systems" and "such standards, technical regulations, conformity assessment procedures," for "such standards, systems", and inserted "and" and cl. (B) before semicolon at end.
 
 Subsec. (c). Pub. L. 103–465, §431(a), added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

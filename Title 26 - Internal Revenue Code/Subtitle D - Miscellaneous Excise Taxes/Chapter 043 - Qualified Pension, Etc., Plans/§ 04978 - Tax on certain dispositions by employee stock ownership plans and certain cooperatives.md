@@ -18,7 +18,7 @@ If, during the 3-year period after the date on which the employee stock ownershi
 
 #### (2) Limitation
 
-&emsp;The amount realized taken into account under paragraph (1) shall not exceed that portion allocable to qualified securities acquired in the sale to which section 1042 applied or acquired in the qualified gratuitous transfer to which section 664(g) applied determined as if such securities were disposed of—
+&emsp;The amount realized taken into account under paragraph (1) shall not exceed that portion allocable to qualified securities acquiredin the sale to which section 1042 applied or acquired in the qualified gratuitous transfer to which section 664(g) applied determined as if such securities were disposed of—
 
 &emsp;&emsp;(A) first from qualified securities to which section 1042 applied or to which section 664(g) applied acquired during the 3-year period ending on the date of the disposition, beginning with the securities first so acquired, and
 
@@ -92,6 +92,8 @@ For purposes of this section—
 
 (Added Pub. L. 98–369, div. A, title V, §545(a), July 18, 1984, 98 Stat. 894; amended Pub. L. 99–514, title XVIII, §1854(e), Oct. 22, 1986, 100 Stat. 2880; Pub., L. 100–203, title X, §10413(b)(1), Dec. 22, 1987, 101 Stat. 1330–438; Pub. L. 100–647, title I, §1011B(j)(4), Nov. 10, 1988, 102 Stat. 3492; Pub. L. 101–239, title VII, §7304(a)(2)(C)(ii), Dec. 19, 1989, 103 Stat. 2353; Pub. L. 104–188, title I, §1602(b)(4), Aug. 20, 1996, 110 Stat. 1834; Pub. L. 105–34, title XV, §1530(c)(11)–(14), Aug. 5, 1997, 111 Stat. 1079; Pub. L. 108–311, title IV, §408(a)(23), Oct. 4, 2004, 118 Stat. 1192.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Subsec. (a)(2). Pub. L. 108–311 substituted "(60 percent" for "60 percent".
@@ -140,9 +142,11 @@ Subsec. (e)(2). Pub. L. 99–514, §1854(e)(5), substituted "section 1042(c)(1)"
 
 Subsec. (e)(3). Pub. L. 99–514, §1854(e)(6), substituted "section 1042(c)(2)" for "section 1042(b)(1)".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to transfers made by trusts to, or for the use of, an employee stock ownership plan after Aug. 5, 1997, see section 1530(d) ofPub. L. 105–34, set out as a note under section 401 of this title.
+Amendment by Pub. L. 105–34 applicable to transfers made by trusts to, or for the use of, an employee stock ownership plan after Aug. 5, 1997, see section 1530(d) of Pub. L. 105–34, set out as a note under section 401 of this title.
 
 #### Effective Date of 1996 Amendment
 

@@ -38,11 +38,15 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 (July 1, 1944, ch. 373, title III, §317Q, as added Pub. L. 107–84, §4, Dec. 18, 2001, 115 Stat. 828; amended Pub. L. 110–361, §3, Oct. 8, 2008, 122 Stat. 4010; Pub. L. 113–166, §3, Sept. 26, 2014, 128 Stat. 1880.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Subsec. (b). Pub. L. 113–166 inserted "and, to the extent possible, ensure that data be representative of all affected populations and shared in a timely manner" after "surveillance program".
 
 <b>2008</b>—Subsecs. (d) to (f). Pub. L. 110–361 added subsecs. (d) and (e) and redesignated former subsec. (d) as (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Findings
 
@@ -60,7 +64,7 @@ Pub. L. 107–84, §2, Dec. 18, 2001, 115 Stat. 823, provided that: "Congress ma
 
 &emsp;"(6) Other forms of muscular dystrophy affecting children and adults include Becker, limb girdle, congenital, facioscapulohumeral, myotonic, oculopharyngeal, distal, and Emery-Dreifuss muscular dystrophies.
 
-&emsp;"(7) Myotonic muscular dystrophy (also known as Steinert's disease and dystrophia myotonica) is the second most prominent form of muscular dystrophy and the type most commonly found in adults. Unlike any of the other muscular dystrophies, the muscle weakness is accompanied by myotonia (delayed relaxation of muscles after contraction) and by a variety of abnormalities in addition to those of muscle.
+&emsp;"(7) Myotonic muscular dystrophy (also known as Steinert's disease and dystrophia myotonica) is the second most prominent form of muscular dystrophy and the type most commonly found in adults. Unlikeany of the other muscular dystrophies, the muscle weakness is accompanied by myotonia (delayed relaxation of muscles after contraction) and by a variety of abnormalities in addition to those of muscle.
 
 &emsp;"(8) Facioscapulohumeral muscular dystrophy (referred to in this section as 'FSHD') is a neuromuscular disorder that is inherited genetically and has an estimated frequency of 1 in 20,000. FSHD, affecting between 15,000 to 40,000 persons, causes a progressive and sever \[sic\] loss of skeletal muscle gradually bringing weakness and reduced mobility. Many persons with FSHD become severely physically disabled and spend many decades in a wheelchair.
 

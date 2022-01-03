@@ -8,7 +8,7 @@ In carrying out this subchapter on behalf of the President, the Secretary, in co
 
 &emsp;(2) establish and maintain a list of foreign persons and end-uses that are determined to be a threat to the national security and foreign policy of the United States pursuant to the policy set forth in section 4811(2)(A) of this title;
 
-&emsp;(3) prohibit unauthorized exports, reexports, and in-country transfers of controlled items, including to foreign persons in the United States or outside the United States;
+&emsp;(3) prohibit unauthorized exports, reexports, and in-country transfers of controlled items,including to foreign persons in the United States or outside the United States;
 
 &emsp;(4) restrict exports, reexports, and in-country transfers of any controlled items to any foreign person or end-use listed under paragraph (2);
 
@@ -76,7 +76,7 @@ The authority under this subchapter may not be used to regulate or prohibit unde
 
 &emsp;&emsp;&emsp;(iii) the reasons why the proposed export, reexport, or in-country transfer is in the national interest of the United States;
 
-&emsp;&emsp;&emsp;(iv) an analysis of the impact of the proposed export, reexport, or in-country transfer on the military capabilities of the foreign country, person, or entity to which such transfer would be made;
+&emsp;&emsp;&emsp;(iv) an analysis of the impact of the proposed export, reexport, or in-country transfer on the military capabilities of theforeign country, person, or entity to which such transfer would be made;
 
 &emsp;&emsp;&emsp;(v) an analysis of the manner in which the proposed export, reexport, or in-country transfer would affect the relative military strengths of countries in the region to which the items that are the subject of such export, reexport, or in-country transfer would be delivered and whether other countries in the region have comparable kinds and amounts of items; and
 
@@ -137,6 +137,8 @@ The Secretary may inform United States persons, either individually by specific 
 The Secretary shall deny an application to engage in any activity described in subsection (d) if the activity would make a material contribution to any of the items described in subsection (d)(2).
 
 (Pub. L. 115–232, div. A, title XVII, §1754, Aug. 13, 2018, 132 Stat. 2212.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

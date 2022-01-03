@@ -52,9 +52,13 @@ For purposes of this part, the term "life insurance gross income" means the sum 
 
 (Added Pub. L. 98–369, div. A, title II, §211(a), July 18, 1984, 98 Stat. 721.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 803, acts Aug. 16, 1954, ch. 736, 68A Stat. 256; Mar. 13, 1956, ch. 83, §2, 70 Stat. 39, related to income and deductions in the case of life insurance companies, prior to the general revision of this part by Pub. L. 86–69, §2(a), June 25, 1959, 73 Stat. 112.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

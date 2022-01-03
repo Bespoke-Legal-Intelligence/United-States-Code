@@ -134,6 +134,8 @@ Except in the case of an individual to whom subsection (g) applies, this section
 
 (Added Pub. L. 88–272, title II, §213(a)(1), Feb. 26, 1964, 78 Stat. 50; amended Pub. L. 91–172, title II, §231(a), Dec. 30, 1969, 83 Stat. 577; Pub. L. 94–455, title V, §506 (a)–(c), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1568, 1834; Pub. L. 95–615, title II, §204, Nov. 8, 1978, 92 Stat. 3106; Pub. L. 103–66, title XIII, §13213(a)(1)–(2)(D), (b), Aug. 10, 1993, 107 Stat. 473, 474; Pub. L. 115–97, title I, §11049(a), Dec. 22, 2017, 131 Stat. 2088.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 217 was renumbered section 224 of this title.
@@ -186,6 +188,8 @@ Subsecs. (g), (h). Pub. L. 94–455, §§506(c), 1906(b)(13)(A), added subsec. (
 
 <b>1969</b>—Pub. L. 91–172 substantially reenacted existing provisions and extended the coverage to self-employed persons working at the new location for 78 weeks, made it a requirement that the new principal place of work be located 50 miles from the former residence, and redefined the deduction to include costs of house-hunting trips, temporary living expenses prior to locating a new home, and expenses of selling an old home or buying a new one.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2017 Amendment
 
 Pub. L. 115–97, title I, §11049(b), Dec. 22, 2017, 131 Stat. 2089, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2017."
@@ -218,7 +222,7 @@ Section applicable to expenses incurred after Dec. 31, 1963, in taxable years en
 
 Pub. L. 93–490, §2, Oct. 26, 1974, 88 Stat. 1466, authorized the Secretary of the Treasury, applicable with respect to taxable years ending before January 1, 1976, to:
 
-&emsp;(1) enter into an agreement with the Secretary concerned under which the Secretary concerned would not be required to withhold tax on, or to report, moving expense reimbursements made to members of the armed forces;
+&emsp;(1) enter into an agreement with the Secretary concerned under which the Secretary concerned wouldnot be required to withhold tax on, or to report, moving expense reimbursements made to members of the armed forces;
 
 &emsp;(2) permit any taxpayer who was a member of the armed forces not to include in adjusted gross income the amount of any reimbursement in kind of moving expenses made by the Secretary concerned; and
 

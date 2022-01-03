@@ -22,11 +22,11 @@
 
 #### (A) In general
 
-&emsp;&emsp;An advisory committee that meets the requirements of this section, a resource advisory committee established before December 20, 2021, or an advisory committee determined by the Secretary concerned before December 20, 2021, to meet the requirements of this section may be deemed by the Secretary concerned to be a resource advisory committee for the purposes of this subchapter.
+&emsp;&emsp;An advisory committee that meets the requirements of this section, a resource advisory committee established before December 20, 2023, or an advisory committee determined by the Secretary concerned before December 20, 2023, to meet the requirements of this section may be deemed by the Secretary concerned to be a resource advisory committee for the purposes of this subchapter.
 
 #### (B) Charter
 
-&emsp;&emsp;A charter for a committee described in subparagraph (A) that was filed on or before December 20, 2021, shall be considered to be filed for purposes of this chapter.
+&emsp;&emsp;A charter for a committee described in subparagraph (A) that was filed on or before December 20, 2023, shall be considered to be filed for purposes of this chapter.
 
 #### (C) Bureau of land management advisory committees
 
@@ -180,39 +180,87 @@ A resource advisory committee shall—
 
 #### (2) Meetings
 
-&emsp;All meetings of a resource advisory committee shall be announced at least 1 week in advance in a local newspaper of record and shall be open to the public.
+&emsp;All meetings of a resource advisory committee shall be announced at least 1 week inadvance in a local newspaper of record and shall be open to the public.
 
 #### (3) Records
 
 &emsp;A resource advisory committee shall maintain records of the meetings of the committee and make the records available for public inspection.
 
-#### (g) Regional appointment pilot program
+#### (g) Resource advisory committee appointment pilot programs
 
-#### (1) Definition of applicable designee
+#### (1) Definitions
 
-&emsp;In this subsection, the term "applicable designee" means the applicable regional forester.
+&emsp;In this subsection:
 
-#### (2) Pilot program
+#### (A) Applicable designee
 
-&emsp;The Secretary concerned shall carry out a pilot program (referred to in this subsection as the "pilot program") to allow an applicable designee to appoint members of resource advisory committees.
+&emsp;&emsp;The term "applicable designee" means the applicable regional forester.
 
-#### (3) Geographic limitation
+#### (B) National pilot program
 
-&emsp;The pilot program shall only apply to resource advisory committees chartered in—
+&emsp;&emsp;The term "national pilot program" means the national pilot program established under paragraph (4)(A).
 
-&emsp;&emsp;(A) the State of Montana; and
+#### (C) Regional pilot program
 
-&emsp;&emsp;(B) the State of Arizona.
+&emsp;&emsp;The term "regional pilot program" means the regional pilot program established under paragraph (3)(A).
 
-#### (4) Responsibilities of applicable designee
+#### (2) Establishment of pilot programs
 
-#### (A) Review
+&emsp;In accordance with paragraphs (3) and (4), the Secretary concerned shall carry out 2 pilot programs to appoint members of resource advisory committees.
 
-&emsp;&emsp;Before appointing a member of a resource advisory committee under the pilot program, an applicable designee shall conduct the review and analysis that would otherwise be conducted for an appointment to a resource advisory committee if the pilot program was not in effect, including any review and analysis with respect to civil rights and budgetary requirements.
+#### (3) Regional pilot program
 
-#### (B) Savings clause
+#### (A) In general
 
-&emsp;&emsp;Nothing in this subsection relieves an applicable designee from any requirement developed by the Secretary concerned for making an appointment to a resource advisory committee that is in effect on December 20, 2018, including any requirement for advertising a vacancy.
+&emsp;&emsp;The Secretary concerned shall carry out a regional pilot program to allow an applicable designee to appoint members of resource advisory committees.
+
+#### (B) Geographic limitation
+
+&emsp;&emsp;The regional pilot program shall only apply to resource advisory committees chartered in—
+
+&emsp;&emsp;&emsp;(i) the State of Montana; and
+
+&emsp;&emsp;&emsp;(ii) the State of Arizona.
+
+#### (C) Responsibilities of applicable designee
+
+#### (i) Review
+
+&emsp;&emsp;&emsp;Before appointing a member of a resource advisory committee under the regional pilot program, an applicable designee shall conduct the review and analysis that would otherwise be conducted for an appointment to a resource advisory committee if the regional pilot program was not in effect, including any review and analysis with respect to civil rights and budgetary requirements.
+
+#### (ii) Savings clause
+
+&emsp;&emsp;&emsp;Nothing in this paragraph relieves an applicable designee from any requirement developed by the Secretary concerned for making an appointment to a resource advisory committee that is in effect on December 20, 2018, including any requirement for advertising a vacancy.
+
+#### (4) National pilot program
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary concerned shall carry out a national pilot program to allow the Chief of the Forest Service or the Director of the Bureau of Land Management, as applicable, to submit to the Secretary concerned nominations of individuals for appointment as members of resource advisory committees.
+
+#### (B) Appointment
+
+&emsp;&emsp;Under the national pilot program, subject to subparagraph (C), not later than 30 days after the date on which a nomination is transmitted to the Secretary concerned under subparagraph (A), the Secretary concerned shall—
+
+&emsp;&emsp;&emsp;(i) appoint the nominee to the applicable resource advisory committee; or
+
+&emsp;&emsp;&emsp;(ii) reject the nomination.
+
+#### (C) Automatic appointment
+
+&emsp;&emsp;If the Secretary concerned does not act on a nomination in accordance with subparagraph (B) by the date described in that subparagraph, the nominee shall be deemed appointed to the applicable resource advisory committee.
+
+#### (D) Geographic limitation
+
+&emsp;&emsp;The national pilot program shall apply to a resource advisory committee chartered in any State other than—
+
+&emsp;&emsp;&emsp;(i) the State of Montana; or
+
+&emsp;&emsp;&emsp;(ii) the State of Arizona.
+
+#### (E) Savings clause
+
+&emsp;&emsp;Nothing in this paragraph relieves the Secretary concerned from any requirement relating to an appointment to a resource advisory committee, including any requirement with respect to civil rights or advertising a vacancy.
 
 #### (5) Termination of effectiveness
 
@@ -220,17 +268,19 @@ A resource advisory committee shall—
 
 #### (6) Report to Congress
 
-&emsp;Not later than the date that is 180 days after the date described in paragraph (5), the Secretary concerned shall submit to Congress a report that includes—
+&emsp;Not later 180 days after the date described in paragraph (5), the Secretary concerned shall submit to Congress a report that includes—
 
-&emsp;&emsp;(A) with respect to appointments made under the pilot program compared to appointments to resource advisory committees not made under the pilot program, a description of the extent to which—
+&emsp;&emsp;(A) with respect to appointments made under the regional pilot program compared to appointments made under the national pilot program, a description of the extent to which—
 
 &emsp;&emsp;&emsp;(i) appointments were faster or slower; and
 
-&emsp;&emsp;&emsp;(ii) the requirements described in paragraph (4) differ; and
+&emsp;&emsp;&emsp;(ii) the requirements described in paragraph (3)(C)(i) differ; and
 
-&emsp;&emsp;(B) a recommendation with respect to whether Congress should terminate, continue, modify, or expand the pilot program.
+&emsp;&emsp;(B) a recommendation with respect to whether Congress should terminate, continue, modify, or expand the pilot programs.
 
-(Pub. L. 106–393, title II, §205, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3905; amended Pub. L. 112–141, div. F, title I, §100101(a)(7), July 6, 2012, 126 Stat. 906; Pub. L. 113–40, §10(a)(2)(C), Oct. 2, 2013, 127 Stat. 545;Pub. L. 115–141, div. O, title IV, §401(b)(2), Mar. 23, 2018, 132 Stat. 1079; Pub. L. 115–334, title VIII, §8702, Dec. 20, 2018, 132 Stat. 4875; Pub. L. 116–94, div. I, title III, §301(b)(1), Dec. 20, 2019, 133 Stat. 3021.)
+(Pub. L. 106–393, title II, §205, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3905; amended Pub. L. 112–141, div. F, title I, §100101(a)(7), July 6, 2012, 126 Stat. 906; Pub. L. 113–40, §10(a)(2)(C), Oct. 2, 2013, 127 Stat. 545; Pub. L. 115–141, div. O, title IV, §401(b)(2), Mar. 23, 2018, 132 Stat. 1079; Pub. L. 115–334, title VIII, §8702, Dec. 20, 2018, 132 Stat. 4875; Pub. L. 116–94, div. I, title III, §301(b)(1), Dec. 20, 2019, 133 Stat. 3021; Pub. L. 117–58, div. D, title XII, §41202(c), (d)(1), Nov. 15, 2021, 135 Stat. 1132, 1134.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -245,6 +295,10 @@ October 3, 2008, referred to in subsec. (c)(3), was in the original "the date of
 A prior section 205 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(4)(A), (B). Pub. L. 117–58, §41202(d)(1), substituted "December 20, 2023" for "December 20, 2021" wherever appearing.
+
+Subsec. (g). Pub. L. 117–58, §41202(c), added subsec. (g) and struck out former subsec. (g) which related to the regional appointment pilot program.
 
 <b>2019</b>—Subsec. (a)(4)(A), (B). Pub. L. 116–94 substituted "December 20, 2021" for "September 29, 2018" wherever appearing.
 
@@ -261,6 +315,12 @@ Subsec. (g). Pub. L. 115–334, §8702(2), added subsec. (g).
 <b>2013</b>—Subsec. (a)(4)(A), (B). Pub. L. 113–40 substituted "2012" for "2011" wherever appearing.
 
 <b>2012</b>—Subsec. (a)(4)(A), (B). Pub. L. 112–141 substituted "2011" for "2006" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Wage Rate Requirements
+
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of Title 42, The Public Health and Welfare.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

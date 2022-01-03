@@ -22,7 +22,7 @@ As used in this chapter—
 
 (e) "Defense information" includes any document, writing, sketch, photograph, plan, model, specification, design, prototype, or other recorded or oral information relating to any defense article or defense service, but shall not include Restricted Data as defined by the Atomic Energy Act of 1954, as amended \[42 U.S.C. 2011 et seq.\], and data removed from the Restricted Data category under section 142d of that Act \[42 U.S.C. 2162(d)\].
 
-(f) "Defense service" includes any service, test, inspection, repair, publication, or technicalor other assistance or defense information used for the purposes of furnishing military assistance, but does not include military educational and training activities under part V of subchapter II of this chapter.
+(f) "Defense service" includes any service, test, inspection, repair, publication, or technical or other assistance or defense information used for the purposes of furnishing military assistance, but does not include military educational and training activities under part V of subchapter II of this chapter.
 
 (g) "Excess defense articles" means the quantity of defense articles (other than construction equipment, including tractors, scrapers, loaders, graders, bulldozers, dump trucks, generators, and compressors) owned by the United States Government, and not procured in anticipation of military assistance or sales requirements, or pursuant to a military assistance or sales order, which is in excess of the Approved Force Acquisition Objective and Approved Force Retention Stock of all Department of Defense Components at the time such articles are dropped from inventory by the supplying agency for delivery to countries or international organizations under this chapter.
 
@@ -62,7 +62,7 @@ As used in this chapter—
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 The Atomic Energy Act of 1954, as amended, referred to in subsecs. (d) and (e), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
@@ -138,5 +138,5 @@ Amendment by Pub. L. 90–629 effective on July 1, 1968, see section 41 of Pub. 
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

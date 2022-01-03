@@ -56,7 +56,7 @@ In addition to any other fee authorized by law, the Attorney General shall charg
 
 #### (g) Provision of immigration inspection and preinspection services
 
-Notwithstanding section 1353b of this title, or any other provision of law, the immigration services required to be provided to passengers upon arrival in the United States on scheduled airline flights shall be adequately provided when needed and at no cost (other than the fees imposed under subsection (d)) to airlines and airline passengers at:
+Notwithstanding section 1353b of this title, or any other provision of law, the immigration services required to be provided to passengersupon arrival in the United States on scheduled airline flights shall be adequately provided when needed and at no cost (other than the fees imposed under subsection (d)) to airlines and airline passengers at:
 
 &emsp;(1) immigration serviced airports, and
 
@@ -64,7 +64,7 @@ Notwithstanding section 1353b of this title, or any other provision of law, the 
 
 #### (h) Disposition of receipts
 
-(1)(A) There is established in the general fund of the Treasury a separate account which shall be known as the "Immigration User Fee Account". Notwithstanding any other section of this subchapter, there shall be deposited as offsetting receipts into the Immigration User FeeAccount all fees collected under subsection (d) of this section, to remain available until expended..<sup>1</sup> At the end of each 2-year period, beginning with the creation of this account, the Attorney General, following a public rulemaking with opportunity for notice and comment, shall submit a report to the Congress concerning the status of the account, including any balances therein, and recommend any adjustment in the prescribed fee that may be required to ensure that the receipts collected from the fee charged for the succeeding two years equal, as closely as possible, the cost of providing these services.
+(1)(A) There is established in the general fund of the Treasury a separate account which shall be known as the "Immigration User Fee Account". Notwithstanding any other section of this subchapter, there shall be deposited as offsetting receipts into the Immigration User Fee Account all fees collected under subsection (d) of this section, to remain available until expended..<sup>1</sup> At the end of each 2-year period, beginning with the creation of this account, the Attorney General, following a public rulemaking with opportunity for notice and comment, shall submit a report to the Congress concerning the status of the account, including any balances therein, and recommend any adjustment in the prescribed fee that may be required to ensure that the receipts collected from the fee charged for the succeeding two years equal, as closely as possible, the cost of providing these services.
 
 (B) Notwithstanding any other provisions of law, all civil fines or penalties collected pursuant to sections 1253(c), 1321, and 1323 of this title and all liquidated damages and expenses collected pursuant to this chapter shall be deposited in the Immigration User Fee Account.
 
@@ -96,11 +96,11 @@ The Attorney General may prescribe such rules and regulations as may be necessar
 
 #### (k) Advisory committee
 
-In accordance with the provisions of the Federal Advisory Committee Act, the Attorney General shall establish an advisory committee, whose membership shall consist of representatives from the airline and other transportation industries who may be subject to any fee or charge authorized by law or proposed by the Immigration and Naturalization Service for the purpose of covering expenses incurred by the Immigration and Naturalization Service. The advisory committee shall meet on a periodic basis and shall advise the Attorney General on issues related to the performance of the inspectional services of the Immigration and Naturalization Service. This advice shall include, but not be limited to, such issues as the time periods during which such services should be performed, the proper number and deployment of inspection officers, the level of fees, and the appropriateness of any proposed fee. The Attorney General shall give substantial consideration to the views of the advisory committee in the exercise of his duties.
+In accordance with the provisions of the Federal Advisory Committee Act, the Attorney General shall establish an advisory committee, whose membership shall consist of representatives from the airline and other transportation industries who may be subject to any fee or charge authorized by law or proposed by the Immigration and Naturalization Service for the purpose of covering expenses incurred by the Immigration and Naturalization Service. The advisory committee shall meet on a periodic basis and shall advise the Attorney General on issues related to the performance of the inspectional services of the Immigration and Naturalization Service. This advice shall include, but not belimited to, such issues as the time periods during which such services should be performed, the proper number and deployment of inspection officers, the level of fees, and the appropriateness of any proposed fee. The Attorney General shall give substantial consideration to the views of the advisory committee in the exercise of his duties.
 
 #### (l) Report to Congress
 
-In addition to the reporting requirements established pursuant to subsection (h), the Attorney General shall prepare and submit annually to the Congress, not later than March 31st of each year, a statement of the financial condition of the "Immigration User Fee Account" including beginning account balance, revenues,withdrawals and their purpose, ending balance, projections for the ensuing fiscal year and a full and complete workload analysis showing on a port by port basis the current and projected need for inspectors. The statement shall indicate the success rate of the Immigration and Naturalization Service in meeting the forty-five minute inspection standard and shall provide detailed statistics regarding the number of passengers inspected within the standard, progress that is being made to expand the utilization of United States citizen by-pass, the number of passengers for whom the standard is not met and the length of their delay, locational breakdown of these statistics and the steps being taken to correct any nonconformity.
+In addition to the reporting requirements established pursuant to subsection (h), the Attorney General shall prepare and submit annually to the Congress, not later than March 31st of each year, a statement of the financial condition of the "Immigration User Fee Account" including beginning account balance, revenues, withdrawals and their purpose, ending balance, projections for the ensuing fiscal year and a full and complete workload analysis showing on a port by port basis the current and projected need for inspectors. The statement shall indicate the success rate of the Immigration and Naturalization Service in meeting the forty-five minute inspection standard and shall provide detailed statistics regarding the number of passengers inspected within the standard, progress that is being made to expand the utilization of United States citizen by-pass, the number of passengers for whom the standard is not met and the length of their delay, locational breakdown of these statistics and the steps being taken to correct any nonconformity.
 
 #### (m) Immigration Examinations Fee Account
 
@@ -192,7 +192,7 @@ The provisions set forth in subsections (m), (n), and (o) of this section apply 
 
 #### (5) Use of fees for duties relating to petitions
 
-&emsp;5 percent of the amounts deposited into the H–1B Nonimmigrant Petitioner Account shall remain available to the Secretary of Homeland Security until expended to carry out duties under paragraphs (1) and (9) of section 1184(c) of this title related to petitions made for nonimmigrants described in section 1101(a)(15)(H)(i)(b) of this title, under paragraph (1)(C) or (D) of section 1154 <sup>5</sup> of this titlerelated to petitions for immigrants described in section 1153(b) of this title.
+&emsp;5 percent of the amounts deposited into the H–1B Nonimmigrant Petitioner Account shall remain available to the Secretary of Homeland Security until expended to carry out duties under paragraphs (1) and (9) of section 1184(c) of this title related to petitions made for nonimmigrants described in section 1101(a)(15)(H)(i)(b) of this title, under paragraph (1)(C) or (D) of section 1154 <sup>5</sup> of this title related to petitions for immigrants described in section 1153(b) of this title.
 
 #### (6) Use of fees for application processing and enforcement
 
@@ -264,7 +264,7 @@ The provisions set forth in subsections (m), (n), and (o) of this section apply 
 
 #### (1) In general
 
-&emsp;There is established in the general fund of the Treasury a separate account, which shall be known as the "Fraud Prevention and Detection Account". Notwithstanding any other provision of law, there shall be deposited as offsetting receipts into the account all feescollected under paragraph (12) or (13) of section 1184(c) of this title.
+&emsp;There is established in the general fund of the Treasury a separate account, which shall be known as the "Fraud Prevention and Detection Account". Notwithstanding any other provision of law, there shall be deposited as offsetting receipts into the account all fees collected under paragraph (12) or (13) of section 1184(c) of this title.
 
 #### (2) Use of fees to combat fraud
 
@@ -300,7 +300,7 @@ The provisions set forth in subsections (m), (n), and (o) of this section apply 
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a), (h)(1)(B), and (r)(2), was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally tothis chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+This chapter, referred to in subsecs. (a), (h)(1)(B), and (r)(2), was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 Subchapter C of chapter 33 of title 26, referred to in subsec. (f)(3), is classified to section 4261 et seq. of Title 26, Internal Revenue Code.
 
@@ -358,11 +358,11 @@ Subsec. (s)(6). Pub. L. 108–447, §427(5), substituted "Beginning with fiscal 
 
 Subsec. (v). Pub. L. 108–447, §426(b), added subsec. (v).
 
-<b>2003</b>—Subsec. (e)(3). Pub. L. 108–7, §108, added par. (3) and struck out former par. (3) which read as follows: "The Attorney General shall charge and collect $3 per individual for the immigration inspection or pre-inspection of each commercial vessel passenger whose journey originated in the United States or in any place set forth in paragraph (1): <i>Provided</i>, That this requirement shall not apply to immigration inspection at designated ports of entry of passengers arriving by the following vessels, when operating on a regular schedule: Great Lakes international ferries, or Great Lakes Vessels on the Great Lakes and connecting waterways."
+<b>2003</b>—Subsec. (e)(3). Pub. L. 108–7, §108, added par. (3) and struck out former par. (3) which read as follows: "The Attorney General shall charge and collect $3 perindividual for the immigration inspection or pre-inspection of each commercial vessel passenger whose journey originated in the United States or in any place set forth in paragraph (1): <i>Provided</i>, That this requirement shall not apply to immigration inspection at designated ports of entry of passengers arriving by the following vessels, when operating on a regular schedule: Great Lakes international ferries, or Great Lakes Vessels on the Great Lakes and connecting waterways."
 
 Subsec. (m). Pub. L. 108–7, §107, repealed Pub. L. 107–296, §457. See 2002 Amendment note below.
 
-Subsec. (s)(1). Pub. L. 108–77, §§107(c), 402(d)(2), temporarily substituted "paragraphs (9) and (11) of section1184(c) of this title" for "section 1184(c)(9) of this title". See Effective and Termination Dates of 2003 Amendment note below.
+Subsec. (s)(1). Pub. L. 108–77, §§107(c), 402(d)(2), temporarily substituted "paragraphs (9) and (11) of section 1184(c) of this title" for "section 1184(c)(9) of this title". See Effective and Termination Dates of 2003 Amendment note below.
 
 <b>2002</b>—Subsec. (e)(3). Pub. L. 107–206 substituted "shall" for "is authorized to" and "requirement" for "authorization".
 
@@ -432,7 +432,7 @@ Subsec. (h)(2)(A). Pub. L. 104–208, §124(a)(1)(B), inserted concluding provis
 
 Subsec. (h)(2)(A)(iv). Pub. L. 104–208, §671(e)(6)(A), struck out "and" at end.
 
-Pub. L. 104–208, §124(a)(1)(A), inserted ", including training of, and technical assistance to, commercial airline personnel regarding such detection" after "United States".
+Pub. L. 104–208, §124(a)(1)(A), inserted ", including training of, and technical assistance to, commercialairline personnel regarding such detection" after "United States".
 
 Subsec. (h)(2)(A)(v). Pub. L. 104–208, §671(e)(6)(B)–(E), struck out colon after "services for", substituted "and for any alien" for "; and any alien", adjusted margins, and substituted "entry; and" for "entry." at end.
 
@@ -602,13 +602,13 @@ Pub. L. 102–232, title III, §309(a)(3), Dec. 12, 1991, 105 Stat. 1758, as ame
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–515, title II, §210(b), Nov. 5, 1990, 104 Stat. 2120, provided that: "The amendment made by subsection (a)(1) of this section \[amending this section\] shall apply to fees charged only with respect to immigration inspection or preinspection services rendered in regard to arriving passengers using transportation for which documents or tickets were issued after November 30, 1990."
+Pub. L. 101–515, title II, §210(b), Nov. 5, 1990, 104 Stat. 2120, provided that: "The amendment made by subsection (a)(1) of this section \[amending this section\]shall apply to fees charged only with respect to immigration inspection or preinspection services rendered in regard to arriving passengers using transportation for which documents or tickets were issued after November 30, 1990."
 
 #### Effective Date of 1988 Amendment
 
 Amendment by section 4(a)(1), (2)(A) of Pub. L. 100–525 effective as if included in enactment of Department of Justice Appropriation Act, 1987 (as contained in section 101(b) of Pub. L. 99–500), see section 4(c) of Pub. L. 100–525, set out as a note under section 1222 of this title.
 
-Amendment by section 8(f) of Pub. L. 100–525 effective as if included in the enactment of the Immigration andNationality Act Amendments of 1986, Pub. L. 99–653, see section 309(b)(15) of Pub. L. 102–232, set out as an Effective and Termination Dates of 1988 Amendments note under section 1101 of this title.
+Amendment by section 8(f) of Pub. L. 100–525 effective as if included in the enactment of the Immigration and Nationality Act Amendments of 1986, Pub. L. 99–653, see section 309(b)(15) of Pub. L. 102–232, set out as an Effective and Termination Dates of 1988 Amendments note under section 1101 of this title.
 
 #### Effective Date of 1986 Amendments
 
@@ -676,7 +676,7 @@ Pub. L. 105–277, div. C, title IV, §414(e), as added by Pub. L. 106–313, ti
 
 #### Deposit of Receipts From Increased Charge for Immigrant Visas Caused by Processing Fingerprints
 
-Pub. L. 103–317, title V, Aug. 26, 1994, 108 Stat. 1760, provided in part: "That hereafter all receipts received from an increase in the charge for Immigrant Visas in effect on September 30, 1994, caused by processing an applicant's fingerprints, shall be deposited in this account as an offsetting collection and shall remain available until expended."
+Pub. L. 103–317, title V, Aug. 26, 1994, 108 Stat. 1760, provided in part: "That hereafter all receipts received from an increase in the charge for Immigrant Visas in effect on September 30, 1994, caused by processing anapplicant's fingerprints, shall be deposited in this account as an offsetting collection and shall remain available until expended."
 
 #### Extension of Land Border Fee Pilot Project
 
@@ -684,7 +684,7 @@ Pub. L. 104–208, div. A, §101(a) \[title I\], Sept. 30, 1996, 110 Stat. 3009,
 
 Similar provisions were contained in the following prior appropriations act:
 
-Pub. L. 103–121, title I, Oct. 27, 1993, 107 Stat. 1161, as amended by Pub. L. 103–317, title I, §111, Aug. 26, 1994,108 Stat. 1736, and repealed by Pub. L. 104–208, div. C, title I, §122(b), Sept. 30, 1996, 110 Stat. 3009–560.
+Pub. L. 103–121, title I, Oct. 27, 1993, 107 Stat. 1161, as amended by Pub. L. 103–317, title I, §111, Aug. 26, 1994, 108 Stat. 1736, and repealed by Pub. L. 104–208, div. C, title I, §122(b), Sept. 30, 1996, 110 Stat. 3009–560.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

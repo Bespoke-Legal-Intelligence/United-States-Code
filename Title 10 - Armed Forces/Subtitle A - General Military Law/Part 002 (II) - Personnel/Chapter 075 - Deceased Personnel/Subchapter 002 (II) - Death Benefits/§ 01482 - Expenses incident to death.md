@@ -50,7 +50,7 @@
 
 (e)
 
-Presentation of Flag of the United States.—(1) In the case of a decedent covered by section 1481 of this title, the Secretary concerned may pay the necessary expenses for thepresentation of a flag of the United States to the following persons:
+Presentation of Flag of the United States.—(1) In the case of a decedent covered by section 1481 of this title, the Secretary concerned may pay the necessary expenses for the presentation of a flag of the United States to the following persons:
 
 &emsp;(A) The person designated under subsection (c) to direct disposition of the remains of the decedent.
 
@@ -76,7 +76,7 @@ Presentation of Flag of the United States.—(1) In the case of a decedent cover
 
 &emsp;(B) The term "child" has the meaning prescribed by section 1477(d) of this title.
 
-(f) The payment of expenses incident to the recovery, care, and disposition of a decedent covered by section 1481(a)(9) of this title is limited to the payment of expenses described in paragraphs (1) through (5) of subsection (a) and air transportation of the remains from a location outside the United States to a point of entry in the United States. Such air transportation may be provided without reimbursement on a space-available basis in military or military-chartered aircraft. The Secretary concerned may pay any other expenses relating to the remains of such a decedent that are authorized to be paid under this section only on a reimbursable basis. Amounts reimbursed to the Secretary concerned under this subsection shall be credited to appropriations available, at the time of reimbursement, for the payment of such expenses.
+(f) The payment of expenses incident to the recovery, care, and disposition of a decedent covered by section 1481(a)(9) of this title is limitedto the payment of expenses described in paragraphs (1) through (5) of subsection (a) and air transportation of the remains from a location outside the United States to a point of entry in the United States. Such air transportation may be provided without reimbursement on a space-available basis in military or military-chartered aircraft. The Secretary concerned may pay any other expenses relating to the remains of such a decedent that are authorized to be paid under this section only on a reimbursable basis. Amounts reimbursed to the Secretary concerned under this subsection shall be credited to appropriations available, at the time of reimbursement, for the payment of such expenses.
 
 (g)(1) The payment of expenses incident to the recovery, care, and disposition of the remains of a decedent covered by section 1481(a)(10) of this title is limited to those expenses that, as determined under regulations prescribed by the Secretary of Defense, would not have been incurred but for the retention of those remains for purposes of a forensic pathology investigation by the Armed Forces Medical Examiner under section 1471 of this title.
 
@@ -124,7 +124,7 @@ Historical and Revision Notes
 
 July 15, 1954, ch. 507, §§2 (less 1st 25 words, as applicable to armed forces), 3 (1st 16 words, as applicable to armed forces), 11 (as applicable to armed forces), 12 (as applicable to armed forces), 68 Stat. 478, 480, 481.
 
-In subsection (a), the list of payable expenses has been rearranged to produce a generally chronologicalresult. The words "person designated" are substituted for the words "person recognized as the person."
+In subsection (a), the list of payable expenses has been rearranged to produce a generally chronological result. The words "person designated" are substituted for the words "person recognized as the person."
 
 In subsection (a)(4), the words "articles of" are omitted as surplusage.
 
@@ -135,6 +135,8 @@ In subsection (a)(10), the words "other than honorable" are omitted, since a per
 In subsection (b), the words "If an individual pays" are substituted for the words "In any case where expenses \* \* \* are borne by individuals". The second sentence of 5:2161 is omitted as executed. The last sentence is substituted for the last sentence of 5:2161.
 
 In subsection (c), 5:2162 (1st sentence) is omitted since the Secretary has inherent authority to issue regulations appropriate to exercising his statutory functions. The introductory language is substituted for 5:2162 (1st 22 words of 2d sentence). The words "ascertained and" are omitted as surplusage.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -189,6 +191,8 @@ Subsec. (e). Pub. L. 101–189, §§652(a)(3), 1622(c)(4), substituted "the date
 Subsec. (e). Pub. L. 91–487 added subsec. (e).
 
 <b>1958</b>—Subsec. (d). Pub. L. 85–716 added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

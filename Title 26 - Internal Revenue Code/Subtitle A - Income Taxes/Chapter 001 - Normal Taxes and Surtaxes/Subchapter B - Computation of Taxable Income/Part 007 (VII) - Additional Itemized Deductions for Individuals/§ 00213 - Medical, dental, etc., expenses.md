@@ -68,7 +68,7 @@ Special rule in the case of child of divorced parents, etc.—Any child to whom 
 
 &emsp;&emsp;(C) no amount shall be treated as paid for such insurance if the amount specified in the contract (or furnished to the policyholder by the insurance company in a separate statement) as the charge for such insurance is unreasonably large in relation to the total charges under the contract.
 
-&emsp;(7) Subject to the limitations of paragraph (6), premiums paid during the taxable year by a taxpayer before he attains the age of 65 for insurance covering medical care (within the meaning of subparagraphs (A), (B), and (C) of paragraph (1)) for the taxpayer, his spouse, or a dependent after the taxpayer attains the age of 65 shall be treated as expenses paid during the taxable year for insurance which constitutes medical care if premiums for such insurance are payable (on a level payment basis) under the contract for a period of 10 years or more or until the year in which the taxpayer attains the age of 65 (but in no case for a period of less than 5 years).
+&emsp;(7) Subject to the limitations of paragraph (6), premiums paid during the taxable year by a taxpayer before he attains the age of 65 for insurance covering medical care (within the meaning of subparagraphs (A), (B), and (C) of paragraph (1)) for the taxpayer, his spouse, or a dependent after the taxpayer attains the ageof 65 shall be treated as expenses paid during the taxable year for insurance which constitutes medical care if premiums for such insurance are payable (on a level payment basis) under the contract for a period of 10 years or more or until the year in which the taxpayer attains the age of 65 (but in no case for a period of less than 5 years).
 
 &emsp;(8) The determination of whether an individual is married at any time during the taxable year shall be made in accordance with the provisions of section 6013(d) (relating to determination of status as husband and wife).
 
@@ -139,6 +139,8 @@ Any expense allowed as a credit under section 21 shall not be treated as an expe
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -277,6 +279,8 @@ Subsec. (g). Pub. L. 87–863, §1(b), substituted "$20,000" for "$15,000" in th
 Subsec. (d)(2)(A). Pub. L. 85–866, §16, struck out "claimed or" before "allowed".
 
 Subsec. (g). Pub. L. 85–866, §17(A), added subsec. (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 

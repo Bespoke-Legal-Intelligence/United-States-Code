@@ -18,7 +18,7 @@
 
 > shall insure compliance with such guidelines and the purposes of this chapter in conducting such activity.
 
-(3) Each Executive agency which permits the use of Federal property for purposes of disposal of solid waste shall insure compliance with such guidelines and the purposes of this chapter in the disposal of such waste.
+(3) Each Executive agency which permits the use of Federal property for purposes of disposalof solid waste shall insure compliance with such guidelines and the purposes of this chapter in the disposal of such waste.
 
 (4) The President or the Committee on House Oversight of the House of Representatives and the Committee on Rules and Administration of the Senate with regard to any unit of the legislative branch of the Federal Government shall prescribe regulations to carry out this subsection.
 
@@ -27,6 +27,8 @@
 Each Executive agency which issues any license or permit for disposal of solid waste shall, prior to the issuance of such license or permit, consult with the Administrator to insure compliance with guidelines recommended under section 6907 of this title and the purposes of this chapter.
 
 (Pub. L. 89–272, title II, §6004, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2823; amended Pub. L. 95–609, §7(o), Nov. 8, 1978, 92 Stat. 3083; Pub. L. 96–482, §23, Oct. 21, 1980, 94 Stat. 2347; Pub. L. 104–186, title II, §222(2), Aug. 20, 1996, 110 Stat. 1751.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -46,9 +48,13 @@ Subsec. (a)(4). Pub. L. 96–482, §23(3), required House Committee on House Adm
 
 Subsec. (b). Pub. L. 95–609, §7(o)(3), substituted "Administrator" for "Secretary".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

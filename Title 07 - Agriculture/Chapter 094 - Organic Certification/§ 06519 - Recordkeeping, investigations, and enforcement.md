@@ -40,7 +40,7 @@
 
 #### (5) Confidentiality
 
-&emsp;Except as provided in section 6506(a)(9) of this title, or as otherwise directed by the Secretary or the Attorney General for enforcement purposes, no officer, employee, or agent of the United States shall make available to the public any information, statistic, or document obtained from, or made available by, any person under this chapter, other than in a manner that ensures that confidentiality is preserved regarding—
+&emsp;Except as provided in section 6506(a)(9) of this title, or as otherwise directed by the Secretary or the Attorney General for enforcement purposes, no officer, employee, or agent of the United States shall make available to the public any information, statistic, or document obtained from, or made available by, any person under this chapter, other than in amanner that ensures that confidentiality is preserved regarding—
 
 &emsp;&emsp;(A) the identity of all relevant persons (including parties to a contract); and
 
@@ -72,7 +72,7 @@
 
 #### (3) Information sharing during active investigation
 
-&emsp;In carrying out this chapter, all parties to an active investigation (including certifyingagents, State organic certification programs, and the national organic program) shall share confidential business information with Federal Government officers and employees involved in the investigation as necessary to fully investigate and enforce potential violations of this chapter.
+&emsp;In carrying out this chapter, all parties to an active investigation (including certifying agents, State organic certification programs, and the national organic program) shall share confidential business information with Federal Government officers and employees involved in the investigation as necessary to fully investigate and enforce potential violations of this chapter.
 
 #### (c) Violations of chapter
 
@@ -134,9 +134,11 @@
 
 (Pub. L. 101–624, title XXI, §2120, Nov. 28, 1990, 104 Stat. 3949; Pub. L. 102–237, title X, §1001(8), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 113–79, title X, §10005(c), Feb. 7, 2014, 128 Stat. 944; Pub. L. 115–334, title X, §10104(g), Dec. 20, 2018, 132 Stat. 4901.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Federal Meat Inspection Act, referred to in subsec. (c)(6)(A)(i), is titles I to V of act Mar. 4, 1907, ch. 2907, as added Pub. L. 90–201, Dec. 15, 1967, 81 Stat. 584, and Pub. L. 110–246, title XI, §11015(a), June 18, 2008, 122 Stat. 2124, which are classified generally to subchapters I to IV–A (§601 et seq.) of chapter 12 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 21 and Tables.
+The Federal Meat Inspection Act, referred to in subsec. (c)(6)(A)(i), is titles I to V of act Mar. 4, 1907, ch.2907, as added Pub. L. 90–201, Dec. 15, 1967, 81 Stat. 584, and Pub. L. 110–246, title XI, §11015(a), June 18, 2008, 122 Stat. 2124, which are classified generally to subchapters I to IV–A (§601 et seq.) of chapter 12 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 21 and Tables.
 
 The Poultry Products Inspection Act, referred to in subsec. (c)(6)(A)(ii), is Pub. L. 85–172, Aug. 28, 1957, 71 Stat. 441, which is classified generally to chapter 10 (§451 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 451 of Title 21 and Tables.
 

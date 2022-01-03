@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) awarding fellowships to graduate students who—
 
-&emsp;&emsp;&emsp;(i) are United States citizens to enable such students to pursue education as part of a graduate degree program of a United States institution of higher education in the disciplines of foreign languages, area studies, counterproliferation studies, and other international fields relating to the national security interests of the United States that are critical areas of those disciplines (as determined under section 1903(d)(4)(B) of this title) and in which deficiencies exist (as identified in the assessments undertaken pursuant to section 1906(d) of this title); and
+&emsp;&emsp;&emsp;(i) are United States citizens to enable such students to pursue education as partof a graduate degree program of a United States institution of higher education in the disciplines of foreign languages, area studies, counterproliferation studies, and other international fields relating to the national security interests of the United States that are critical areas of those disciplines (as determined under section 1903(d)(4)(B) of this title) and in which deficiencies exist (as identified in the assessments undertaken pursuant to section 1906(d) of this title); and
 
 &emsp;&emsp;&emsp;(ii) pursuant to subsection (b)(2)(B), enter into an agreement to work in a national security position or work in the field of education in the area of study for which the fellowship was awarded;
 
@@ -108,7 +108,7 @@ No person who receives a grant, scholarship, or fellowship or any other type of 
 
 &emsp;&emsp;(A) appoint or retain a person provided scholarship or fellowship assistance under the program in a position in the Department of Defense on an interim basis during the period of the person's pursuit of a degree under the program and for a period not to exceed two years after completion of the degree, but only if, in the case of the period after completion of the degree, there is an active investigation to provide security clearance to the person for an appropriate permanent position in the Department of Defense under subsection (b)(2); and
 
-&emsp;&emsp;(B) if there is no appropriate permanent position available for the person after the end of the periods described in subparagraph (A), separate the person from employment with the Department without regard to any other provision of law, in which event the service agreement of the person under subsection (b) shall terminate.
+&emsp;&emsp;(B) if there is no appropriate permanent position available for the person after the end of the periods described in subparagraph (A), separate the person from employment with the Department without regard to any other provision of law, in which event theservice agreement of the person under subsection (b) shall terminate.
 
 #### (2) Treatment of certain service
 
@@ -120,7 +120,7 @@ No person who receives a grant, scholarship, or fellowship or any other type of 
 
 (2) Except as the Secretary determines necessary, an award recipient who receives instruction at the Center shall be subject to the same regulations with respect to attendance, discipline, discharge, and dismissal as apply to other persons attending the Center.
 
-(3) In this subsection, the term "award recipient" means an undergraduate student who has been awarded a scholarship under subsection (a)(1)(A) or a graduate student who has beenawarded a fellowship under subsection (a)(1)(B) who—
+(3) In this subsection, the term "award recipient" means an undergraduate student who has been awarded a scholarship under subsection (a)(1)(A) or a graduate student who has been awarded a fellowship under subsection (a)(1)(B) who—
 
 &emsp;(A) is in good standing;
 
@@ -198,6 +198,8 @@ No person who receives a grant, scholarship, or fellowship or any other type of 
 
 (Pub. L. 102–183, title VIII, §802, Dec. 4, 1991, 105 Stat. 1271; Pub. L. 102–496, title IV, §404(b), (c), Oct. 24, 1992, 106 Stat. 3185; Pub. L. 103–178, title III, §311(b)(2), (d), Dec. 3, 1993, 107 Stat. 2037; Pub. L. 104–201, div. A, title X, §1078(b)–(d), (f)(2), Sept. 23, 1996, 110 Stat. 2664–2666; Pub. L. 105–272, title III, §305(a)(2), Oct. 20, 1998, 112 Stat. 2400; Pub. L. 107–296, title XIII, §1332(b), Nov. 25, 2002, 116 Stat. 2300; Pub. L. 107–306, title III, §§332, 333(a)(1)–(3), Nov. 27, 2002, 116 Stat. 2395, 2396; Pub. L. 108–136, div. A, title IX, §925(a), Nov. 24, 2003, 117 Stat. 1578; Pub. L. 108–487, title VI, §§601(b), 602(a)(1), 603(a)(1), (2), Dec. 23, 2004, 118 Stat. 3952–3954; Pub. L. 109–364, div. A, title IX, §945(a), (b), Oct. 17, 2006, 120 Stat. 2367; Pub. L. 110–181, div. A, title IX, §953, Jan. 28, 2008, 122 Stat. 292; Pub. L. 111–84, div. A, title XI, §1101, Oct. 28, 2009, 123 Stat. 2484; Pub. L. 112–239, div. A, title IX, §956, Jan. 2, 2013, 126 Stat. 1899; Pub. L. 115–91, div. A, title XVI, §1625, Dec. 12, 2017, 131 Stat. 1733.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 In subsec. (a)(4), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes (41 U.S.C. 5)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
@@ -230,7 +232,7 @@ Subsecs. (h) to (j). Pub. L. 109–364, §945(b), added subsec. (h) and redesign
 
 <b>2004</b>—Subsec. (a)(1)(E). Pub. L. 108–487, §603(a)(1), added subpar. (E).
 
-Subsec. (a)(2). Pub. L. 108–487, §603(a)(2), which directed the amendment of the matter following par. (2) by inserting in the first sentence "or for the scholarship program under paragraph (1)(E)" after "under paragraph (1)(D) for the National Flagship Language Initiative described in subsection (i)" and by inserting at end "For the authorization of appropriations for thescholarship program under paragraph (1)(E), see section 1912 of this title.", was executed to the concluding provisions of par. (2) to reflect the probable intent of Congress.
+Subsec. (a)(2). Pub. L. 108–487, §603(a)(2), which directed the amendment of the matter following par. (2) by inserting in the first sentence "or for the scholarship program under paragraph (1)(E)" after "under paragraph (1)(D) for the National Flagship Language Initiative described in subsection (i)" and by inserting at end "For the authorization of appropriations for the scholarship program under paragraph (1)(E), see section 1912 of this title.", was executed to the concluding provisions of par. (2) to reflect the probable intent of Congress.
 
 Pub. L. 108–487, §601(b), in introductory provisions, inserted "or from a transfer under section 1910(c) of this title" after "National Security Education Trust Fund".
 
@@ -280,9 +282,11 @@ Subsec. (a)(4). Pub. L. 102–496, §404(b)(3), inserted at end "In addition, th
 
 Subsecs. (e), (f). Pub. L. 102–496, §404(c), redesignated subsec. (f) as (e) and struck out former subsec. (e) which read as follows: "The Secretary shall administer the program through the Defense Intelligence College."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–487, title VI, §602(a)(2), Dec. 23, 2004, 118 Stat. 3953, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to training under section 802(i) \[now 802(j)\] of the David L. Boren National Security Act of 1991 \[50 U.S.C. 1902(i), now 1902(j)\] that begins on or after the date that is 90 days after the date of the enactment of this Act \[Dec. 23, 2004\]."
+Pub. L. 108–487, title VI, §602(a)(2), Dec. 23, 2004, 118 Stat. 3953, provided that: "The amendment made byparagraph (1) \[amending this section\] shall apply to training under section 802(i) \[now 802(j)\] of the David L. Boren National Security Act of 1991 \[50 U.S.C. 1902(i), now 1902(j)\] that begins on or after the date that is 90 days after the date of the enactment of this Act \[Dec. 23, 2004\]."
 
 Amendment by Pub. L. 108–487 effective Dec. 23, 2004, except as otherwise provided, see section 801 of Pub. L. 108–487, set out as a note under section 2656f of Title 22, Foreign Relations and Intercourse.
 

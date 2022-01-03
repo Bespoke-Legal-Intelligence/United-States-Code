@@ -22,13 +22,15 @@ In this subtitle, the following definitions shall apply:
 
 #### (5) Write Your Own
 
-&emsp;The term "Write Your Own" means the cooperative undertaking between the insurance industry and the Federal Insurance Administration which allows participating property and casualty insurance companies to write and service standard flood insurance policies.
+&emsp;The term "Write Your Own" means the cooperative undertaking between the insuranceindustry and the Federal Insurance Administration which allows participating property and casualty insurance companies to write and service standard flood insurance policies.
 
 #### (b) Common terminology
 
 Except as otherwise provided in this subtitle, any terms used in this subtitle shall have the meaning given to such terms under section 1370 of the National Flood Insurance Act of 1968 (42 U.S.C. 4121).
 
 (Pub. L. 112–141, div. F, title II, §100202, July 6, 2012, 126 Stat. 916.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

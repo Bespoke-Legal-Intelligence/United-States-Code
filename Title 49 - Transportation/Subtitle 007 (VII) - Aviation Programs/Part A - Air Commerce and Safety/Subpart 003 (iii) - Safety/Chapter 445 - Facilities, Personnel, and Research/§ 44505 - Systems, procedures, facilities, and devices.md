@@ -10,7 +10,7 @@ General Requirements.—(1) The Administrator of the Federal Aviation Administra
 
 (2) The Administrator may make contracts to carry out this subsection without regard to section 3324(a) and (b) of title 31.
 
-(3) When a substantial question exists under paragraph (1) of this subsection about whether a matter is of primary concern to the armed forces, the Administrator shall decide whether the Administrator or the Secretary of the appropriate military department has responsibility. The Administrator shall be given technical information related to each research and development project of the armed forces that potentially applies to, or potentially conflicts with, the common system to ensure that potential application to the common system is considered properly and that potential conflicts with the system are eliminated.
+(3) When a substantial question exists under paragraph (1) of this subsection about whether a matter is of primary concern to the armed forces, the Administrator shall decide whetherthe Administrator or the Secretary of the appropriate military department has responsibility. The Administrator shall be given technical information related to each research and development project of the armed forces that potentially applies to, or potentially conflicts with, the common system to ensure that potential application to the common system is considered properly and that potential conflicts with the system are eliminated.
 
 (b)
 
@@ -130,6 +130,8 @@ In subsection (a)(1) and (3), the words "the armed forces" are substituted for "
 
 In subsection (a)(3), the words "military department" are substituted for "military agency" because of the definition of "military department" in 10:101. The words "the needs of" and "to the maximum extent necessary" are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of the FAA Modernization and Reform Act of 2012, referred to in subsec. (d), is the date of enactment of Pub. L. 112–95, which was approved Feb. 14, 2012.
@@ -141,6 +143,8 @@ The date of enactment of the FAA Modernization and Reform Act of 2012, referred 
 Subsecs. (d), (e). Pub. L. 112–95, §905, added subsec. (d) and redesignated former subsec. (d) as (e).
 
 <b>1994</b>—Subsec. (d). Pub. L. 103–305 added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Research and Deployment of Certain Airfield Pavement Technologies
 
@@ -222,7 +226,7 @@ Study.—The Administrator \[of the Federal Aviation Administration\] shall cond
 
 "(b)
 
-Contracting.—The Administrator may carry out the study by entering into a contract with a university of higher education with expertise necessary to carry out the study.
+Contracting.—The Administrator may carry out the study by entering into a contract with a universityof higher education with expertise necessary to carry out the study.
 
 "(c)
 
@@ -294,7 +298,7 @@ Project sponsor.—The term 'project sponsor' means a public-use airport or a jo
 
 "(g)
 
-Transfers of Equipment.—Notwithstanding any other provision of law, project sponsors may transfer,without consideration, to the Federal Aviation Administration, facilities, equipment, and automation tools, the purchase of which was assisted by a grant made under this section. The Administration shall accept such facilities, equipment, and automation tools, which shall thereafter be operated and maintained by the Administration in accordance with criteria of the Administration.
+Transfers of Equipment.—Notwithstanding any other provision of law, project sponsors may transfer, without consideration, to the Federal Aviation Administration, facilities, equipment, and automation tools, the purchase of which was assisted by a grant made under this section. The Administration shall accept such facilities, equipment, and automation tools, which shall thereafter be operated and maintained by the Administration in accordance with criteria of the Administration.
 
 "(h)
 
@@ -338,7 +342,7 @@ In General.—The Administrator \[of the Federal Aviation Administration\] may c
 
 "(b)
 
-Authority To Make Grants.—The Administrator may carry out the study by making a grant to, or entering into a cooperative agreement with, a nonprofit organization for the conduct of all or a part of the study.
+Authority To Make Grants.—The Administrator may carry out the study by making a grant to,or entering into a cooperative agreement with, a nonprofit organization for the conduct of all or a part of the study.
 
 "(c)
 

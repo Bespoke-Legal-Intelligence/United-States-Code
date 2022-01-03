@@ -148,6 +148,8 @@ The Secretary shall establish a single loan rate in each county for each kind of
 
 (Pub. L. 113–79, title I, §1202, Feb. 7, 2014, 128 Stat. 675; Pub. L. 115–123, div. F, §60101(a)(9), Feb. 9, 2018, 132 Stat. 310; Pub. L. 115–334, title I, §1202(a), Dec. 20, 2018, 132 Stat. 4509.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–334, §1202(a)(1), substituted "2014 through 2018 crop years" for "In general" in heading.
@@ -159,6 +161,8 @@ Subsec. (c). Pub. L. 115–334, §1202(a)(2), (4), redesignated subsec. (b) as (
 Pub. L. 115–123 added subsec. (c).
 
 Subsec. (d). Pub. L. 115–334, §1202(a)(2), redesignated subsec. (c) as (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

@@ -18,13 +18,15 @@ Subpart E—General Provisions
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior subpart E, comprising sections 5061 to 5065, related to general provisions, prior to the general revision of this chapter by Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1313.
 
 #### Amendments
 
-<b>2020</b>—Pub. L. 116–260, div. EE, title I, §108(b), Dec. 27, 2020, 134 Stat. 3049, added items 5067 and 5068 and struck out former item 5067 "Cross reference".
+<b>2020</b>—Pub. L. 116–260, div. EE, title I, §108(b), Dec. 27, 2020, 134 Stat. 3049, added item 5067 and redesignated former item 5067 as 5068.
 
 <b>1978</b>—Pub. L. 95–423, §1(b), Oct. 6, 1978, 92 Stat. 936, substituted "Losses resulting from disaster, vandalism, or malicious mischief" for "Losses caused by disaster" in item 5064.
 

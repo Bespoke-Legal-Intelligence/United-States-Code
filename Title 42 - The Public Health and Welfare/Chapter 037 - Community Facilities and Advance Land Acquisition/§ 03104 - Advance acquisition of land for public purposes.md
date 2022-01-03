@@ -10,7 +10,7 @@ The amount of any grant made under this section shall not exceed the aggregate a
 
 #### (c) Utilization of land for public purpose within reasonable period of time
 
-No grant shall be made under this section unless the Secretary determines that the land will be utilized for a public purpose within a reasonable period of time and that such utilization will contribute to economy, efficiency, and the comprehensively planned development of the area. The Secretary shall in all cases require that land acquired with the assistance of a grant under this section be utilized for a public purpose within five years after the date on which a contract to make such grant is entered into, unless the Secretary determines that due to unusual circumstances a longer period of time is necessary and in the public interest.
+No grant shall be made under this section unless the Secretary determines that the land will be utilized for a public purpose within a reasonable period of time and that such utilization will contribute to economy, efficiency, and the comprehensively planned development of the area.The Secretary shall in all cases require that land acquired with the assistance of a grant under this section be utilized for a public purpose within five years after the date on which a contract to make such grant is entered into, unless the Secretary determines that due to unusual circumstances a longer period of time is necessary and in the public interest.
 
 #### (d) Diversion of land; repayment; interim use
 
@@ -18,9 +18,11 @@ No land acquired with assistance under this section shall, without approval of t
 
 #### (e) Eligibility for other Federal loans or grant programs
 
-Notwithstanding any other provision of law, no project for which land is acquired with assistance under this section shall, solely as a result of such advance acquisition, be considered ineligible for the purpose of any other Federal loanor grant program, and the amount of the purchase price paid for the land by the recipient of a grant under this section may be considered an eligible cost for the purpose of such other Federal loan or grant program.
+Notwithstanding any other provision of law, no project for which land is acquired with assistance under this section shall, solely as a result of such advance acquisition, be considered ineligible for the purpose of any other Federal loan or grant program, and the amount of the purchase price paid for the land by the recipient of a grant under this section may be considered an eligible cost for the purpose of such other Federal loan or grant program.
 
 (Pub. L. 89–117, title VII, §704, Aug. 10, 1965, 79 Stat. 491; Pub. L. 90–19, §22(b), May 25, 1967, 81 Stat. 26; Pub. L. 90–448, title VI, §603(b), Aug. 1, 1968, 82 Stat. 533; Pub. L. 96–470, title I, §107(c), Oct. 19, 1980, 94 Stat. 2238.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

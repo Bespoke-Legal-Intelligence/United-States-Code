@@ -10,7 +10,7 @@ In this section, the term "State" means—
 
 #### (b) In general
 
-If a State seeks reimbursement for amounts expended for resources and services provided toanother State for the management and suppression of a wildfire, the Secretary, subject to subsections (c) and (d)—
+If a State seeks reimbursement for amounts expended for resources and services provided to another State for the management and suppression of a wildfire, the Secretary, subject to subsections (c) and (d)—
 
 &emsp;(1) may accept the reimbursement amounts from the other State; and
 
@@ -30,11 +30,15 @@ Any acceptance of funds or reimbursements made by the Secretary before February 
 
 (Pub. L. 113–79, title VIII, §8304, Feb. 7, 2014, 128 Stat. 924.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Agricultural Act of 2014, and not as part of act May 27, 1955, which comprises this subchapter.
 
 Section is comprised of section 8304 of Pub. L. 113–79. Subsec. (f) of section 8304 of Pub. L. 113–79 amended section 1856d of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definition of "Secretary"
 

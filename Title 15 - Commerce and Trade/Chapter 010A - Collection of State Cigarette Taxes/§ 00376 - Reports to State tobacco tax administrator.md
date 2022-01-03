@@ -2,7 +2,7 @@
 
 #### (a) Contents
 
-Any person who sells, transfers, or ships for profit cigarettes or smokeless tobacco in interstate commerce, whereby such cigarettes or smokeless tobacco are shipped into a State, locality, or Indian country of an Indian tribe taxing the sale or use of cigarettes or smokeless tobacco, or who advertises or offers cigarettes or smokeless tobacco for such a sale, transfer, or shipment, shall—
+Any person who sells, transfers, or ships for profit cigarettes or smokeless tobacco in interstate commerce, whereby such cigarettes orsmokeless tobacco are shipped into a State, locality, or Indian country of an Indian tribe taxing the sale or use of cigarettes or smokeless tobacco, or who advertises or offers cigarettes or smokeless tobacco for such a sale, transfer, or shipment, shall—
 
 &emsp;(1) first file with the Attorney General of the United States and with the tobacco tax administrators of the State and place into which such shipment is made or in which such advertisement or offer is disseminated a statement setting forth his name and trade name (if any), and the address of his principal place of business and of any other place of business, as well as telephone numbers for each place of business, a principal electronic mail address, any website addresses, and the name, address, and telephone number of an agent in the State authorized to accept service on behalf of the person;
 
@@ -12,13 +12,15 @@ Any person who sells, transfers, or ships for profit cigarettes or smokeless tob
 
 #### (b) Presumptive evidence
 
-The fact that any person ships or delivers for shipment any cigarettes or smokeless tobaccoshall, if such shipment is into a State in which such person has filed a statement with the tobacco tax administrator under subsection (a)(1) of this section, be presumptive evidence that such cigarettes or smokeless tobacco were sold, or transferred for profit, by such person.
+The fact that any person ships or delivers for shipment any cigarettes or smokeless tobacco shall, if such shipment is into a State in which such person has filed a statement with the tobacco tax administrator under subsection (a)(1) of this section, be presumptive evidence that such cigarettes or smokeless tobacco were sold, or transferred for profit, by such person.
 
 #### (c) Use of information
 
 A tobacco tax administrator or chief law enforcement officer who receives a memorandum or invoice under paragraph (2) or (3) of subsection (a) shall use the memorandum or invoice solely for the purposes of the enforcement of this chapter and the collection of any taxes owed on related sales of cigarettes and smokeless tobacco, and shall keep confidential any personal information in the memorandum or invoice except as required for such purposes.
 
 (Oct. 19, 1949, ch. 699, §2, 63 Stat. 884; Aug. 15, 1953, ch. 512, title II, §201(a), 67 Stat. 617; Aug. 9, 1955, ch. 695, §1, 69 Stat. 627; Pub. L. 111–154, §2(b), Mar. 31, 2010, 124 Stat. 1090.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -38,6 +40,8 @@ Subsec. (c). Pub. L. 111–154, §2(b)(4), added subsec. (c).
 
 <b>1953</b>—Act Aug. 15, 1953, required that the memorandum or copy of invoice be filed with, rather than forwarded to, the tobacco tax administrator.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–154 effective on the date that is 90 days after March 31, 2010, see section 6 of Pub. L. 111–154, set out as a note under section 375 of this title.
@@ -52,5 +56,5 @@ Act Aug. 9, 1955, ch. 695, §2, 69 Stat. 628, provided that:
 
 #### Effective Date of 1953 Amendment
 
-Act Aug. 15, 1953, ch. 512, title II, §201(b), 67 Stat. 617, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply only in respect of memoranda or copies of invoices covering shipments made during the calendar month in which this Act is enacted \[August 1953\] and subsequent calendar months."
+Act Aug. 15, 1953, ch. 512, title II, §201(b), 67 Stat. 617, provided that: "The amendment made by subsection (a)\[amending this section\] shall apply only in respect of memoranda or copies of invoices covering shipments made during the calendar month in which this Act is enacted \[August 1953\] and subsequent calendar months."
 

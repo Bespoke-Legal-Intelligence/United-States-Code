@@ -4,13 +4,19 @@ The Commission is authorized to cooperate with any nation by distributing source
 
 (Aug. 1, 1946, ch. 724, title I, §64, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 933; amended Pub. L. 95–242, title III, §301(b), Mar. 10, 1978, 92 Stat. 125; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1978</b>—Pub. L. 95–242 provided that the authority to distribute source material under this section other than under an export license granted by the Nuclear Regulatory Commission shall in no case extend to quantities of source material in excess of three metric tons per year per recipient.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–242 effective Mar. 10, 1978, except as otherwise provided and regardless of any requirement for the promulgation of implementing regulations, see section 603(c) of Pub. L. 95–242, set out as an Effective Date note under section 3201 of Title 22, Foreign Relations and Intercourse.
+
+#### <b>Executive Documents</b>
 
 #### Performance of Functions Pending Development of Procedures
 

@@ -14,7 +14,7 @@ The House amendment deletes section 1163 of the Senate amendment in order to cov
 
 #### senate report no. 95–989
 
-\[Section 1166 (enacted as section 1163)\] Requires the court to appoint a trustee in every case. Since the trustee may employ whatever help he needs, multipletrusteeships are unnecessary and add to the cost of administration. The present requirement of section 77(c)(1) \[section 205(c)(1) of former title 11\] that the trustee be approved by the Interstate Commerce Commission is unnecessary, since the trustee will be selected either from the panel established under section 606(f) of title 28, or someone certified by the Director of the Administrative Office of the United States Courts as qualified to become a member of that panel.
+\[Section 1166 (enacted as section 1163)\] Requires the court to appoint a trustee in every case. Since the trustee may employ whatever help he needs, multiple trusteeships are unnecessary and add to the cost of administration. The present requirement of section 77(c)(1) \[section 205(c)(1) of former title 11\] that the trustee be approved by the Interstate Commerce Commission is unnecessary, since the trustee will be selected either from the panel established under section 606(f) of title 28, or someone certified by the Director of the Administrative Office of the United States Courts as qualified to become a member of that panel.
 
 #### house report no. 95–595
 

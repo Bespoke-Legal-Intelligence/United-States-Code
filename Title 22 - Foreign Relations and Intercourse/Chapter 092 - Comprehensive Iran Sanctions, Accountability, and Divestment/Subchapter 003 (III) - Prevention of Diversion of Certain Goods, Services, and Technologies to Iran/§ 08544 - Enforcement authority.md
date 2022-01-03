@@ -1,6 +1,6 @@
 ### §8544. Enforcement authority
 
-The Secretary of Commerce may designate any employee of the Office of Export Enforcement of the Department of Commerce to conduct activities specified in clauses (i), (ii), and\(iii) of section 12(a)(3)(B) of the Export Administration Act of 1979 (50 U.S.C. App. 2411(a)(3)(B)) <sup>1</sup> when the employee is carrying out activities to enforce—
+The Secretary of Commerce may designate any employee of the Office of Export Enforcement of the Department of Commerce to conduct activities specified in clauses (i), (ii), and (iii) of section 12(a)(3)(B) of the Export Administration Act of 1979 (50 U.S.C. App. 2411(a)(3)(B)) <sup>1</sup> when the employee is carrying out activities to enforce—
 
 &emsp;(1) the provisions of the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) <sup>1</sup> (as in effect pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.));
 

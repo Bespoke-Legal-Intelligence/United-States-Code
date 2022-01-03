@@ -4,6 +4,8 @@ All property which may have been acquired in Puerto Rico by the United States un
 
 (Mar. 2, 1917, ch. 145, §7, 39 Stat. 954; May 17, 1932, ch. 190, 47 Stat. 158; Pub. L. 96–205, title VI, §606(b), Mar. 12, 1980, 94 Stat. 91.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is comprised of that part of section 7 of act Mar. 2, 1917, preceding the proviso clause. The remainder of section 7 is classified to section 748 of this title.
@@ -15,6 +17,8 @@ Provisions similar to those in this section were contained in act Apr. 12, 1900,
 #### Amendments
 
 <b>1980</b>—Pub. L. 96–205 inserted provisions defining "control".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

@@ -4,9 +4,13 @@ The Congress finds and declares that the Communist Party of the United States, a
 
 (Aug. 24, 1954, ch. 886, §2, 68 Stat. 775.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Communist Control Act of 1954, and not as part of the Internal Security Act of 1950 which comprises subchapters I to III of this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

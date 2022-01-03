@@ -14,7 +14,7 @@ For the purposes of this chapter—
 
 (c) "Qualified institution" means (1) an institution of higher learning with a program leading to a degree in science, engineering, or business administration which is accredited by a nationally recognized accrediting agency or association to be listed by the Secretary of Education, or such an institution which is listed separately after evaluation by the Secretary of Education pursuant to this subsection; or (2) a State agency or a private, nonprofit institution which meets criteria of competence established by the Secretary of Commerce and published in the Federal Register. For the purpose of this subsection the Secretary of Education shall publish a list of nationally recognized accrediting agencies or associations which he determines to be reliable authority as to the quality of science, engineering, or business education or training offered. When the Secretary of Education determines that there is no nationally recognized accrediting agency or association qualified to accredit such programs he shall publish a list of institutions he finds qualified after prior evaluation by an advisory committee, composed of persons he determines to be specially qualified to evaluate the training provided under such programs.
 
-(d) "Participating institution" means each qualified institution in a State, which participates in the administration or execution of the State technical services program as provided by this chapter.
+(d) "Participating institution" means each qualified institution in a State, which participates in the administration or execution of theState technical services program as provided by this chapter.
 
 (e) "Secretary" means the Secretary of Commerce.
 
@@ -24,13 +24,21 @@ For the purposes of this chapter—
 
 (Pub. L. 89–182, §2, Sept. 14, 1965, 79 Stat. 679; Pub. L. 89–771, Nov. 6, 1966, 80 Stat. 1322; Pub. L. 96–88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1966</b>—Subsec. (f). Pub. L. 89–771 included Guam within definition of "State".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transfer of Functions
 
 "Secretary of Education" substituted for "United States Commissioner of Education" and "Commissioner" in subsec. (c) pursuant to sections 301(a)(1) and 507 of Pub. L. 96–88, which are classified to sections 3441(a)(1) and 3507 of Title 20, Education, and which transferred all functions of Commissioner of Education to Secretary of Education.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
 
 Except as otherwise provided in Reorg. Plan No. 3 of 1967, eff. Aug. 11, 1967 (in part), 32 F.R. 11669, 81 Stat. 948, functions of Board of Commissioners of District of Columbia transferred to Commissioner of District of Columbia by section 401 of Reorg. Plan No. 3 of 1967. Office of Commissioner of District of Columbia, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, §711, Dec. 24, 1973, 87 Stat. 818, and replaced by office of Mayor of District of Columbia by section 421 of Pub. L. 93–198.
 

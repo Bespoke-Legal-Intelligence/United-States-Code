@@ -12,7 +12,7 @@
 
 > Any party to such venture, acting on such venture's behalf, may file additional disclosure notifications pursuant to this section as are appropriate to extend the protections of section 4303 of this title. In order to maintain the protections of section 4303 of this title, such venture shall, not later than 90 days after a change in its membership, file simultaneously with the Attorney General and the Commission a written notification disclosing such change.
 
-(2) A standards development organization may, not later than 90 days after commencing a standards development activity engaged in for the purpose of developing or promulgating a <sup>1</sup> voluntary consensus standards or not later than 90 days after June 22, 2004, whichever is later, file simultaneously with the Attorney General and the Commission, a written notification disclosing—
+(2) A standards development organization may, not later than 90 days after commencing a standards development activity engaged in for the purpose of developing or promulgating a <sup>1</sup> voluntary consensus standards or not later than 90 days after June 22, 2004, whichever is later,file simultaneously with the Attorney General and the Commission, a written notification disclosing—
 
 &emsp;(A) the name and principal place of business of the standards development organization, and
 
@@ -40,7 +40,7 @@ Except with respect to the information published pursuant to subsection (b)—
 
 &emsp;(2) all other information obtained by the Attorney General or the Commission in the course of any investigation, administrative proceeding, or case, with respect to a potential violation of the antitrust laws by the joint venture, or the standards development activity, with respect to which such notification was filed,
 
-> shall be exempt from disclosure under section 552 of title 5, and shall not be made publiclyavailable by any agency of the United States to which such section applies except in a judicial or administrative proceeding in which such information and material is subject to any protective order.
+> shall be exempt from disclosure under section 552 of title 5, and shall not be made publicly available by any agency of the United States to which such section applies except in a judicial or administrative proceeding in which such information and material is subject to any protective order.
 
 #### (e) Withdrawal of notification
 
@@ -57,6 +57,8 @@ Any action taken or not taken by the Attorney General or the Commission with res
 (2) No action by the Attorney General or the Commission taken pursuant to this section shall be admissible into evidence in any such proceeding for the purpose of supporting or answering any claim under the antitrust laws or under any State law similar to the antitrust laws.
 
 (Pub. L. 98–462, §6, Oct. 11, 1984, 98 Stat. 1818; Pub. L. 103–42, §3(f), June 10, 1993, 107 Stat. 119; Pub. L. 108–237, title I, §107, June 22, 2004, 118 Stat. 664.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -75,6 +77,8 @@ Subsec. (g)(1). Pub. L. 108–237, §107(5), inserted "or standards development 
 Subsec. (a). Pub. L. 103–42, §3(f)(2), (3), substituted "joint venture" for "joint research and development venture" and "October 11, 1984" for "the date of the enactment of this Act" and added par. (3).
 
 Subsecs. (d)(2), (e). Pub. L. 103–42, §3(f)(3), substituted "joint venture" for "joint research and development venture".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Reports on Joint Ventures and United States Competitiveness
 

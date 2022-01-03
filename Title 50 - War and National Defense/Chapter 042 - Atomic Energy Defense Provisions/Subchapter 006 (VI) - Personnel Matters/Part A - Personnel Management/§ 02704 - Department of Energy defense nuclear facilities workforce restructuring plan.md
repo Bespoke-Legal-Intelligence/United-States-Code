@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Upon determination that a change in the workforce at a defense nuclear facility is necessary, the Secretary of Energy shall develop a plan for restructuring the workforce for the defense nuclear facility that takes into account—
+Upon determination that a change in the workforce at a defense nuclear facility is necessary, the Secretary of Energy shall develop aplan for restructuring the workforce for the defense nuclear facility that takes into account—
 
 &emsp;(1) the reconfiguration of the defense nuclear facility; and
 
@@ -72,7 +72,9 @@ In this section, the term "Department of Energy defense nuclear facility" means�
 
 &emsp;&emsp;(C) was operated for national security purposes.
 
-(Pub. L. 107–314, div. D, title XLVI, §4604, formerly Pub. L. 102–484, div. C, title XXXI, §3161, Oct. 23, 1992, 106 Stat. 2644; Pub. L. 103–337, div. A, title X, §1070(c)(2), Oct. 5, 1994, 108 Stat. 2857; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(7)(A), (f)(6)(A)\], Oct. 21, 1998, 112 Stat.2681–337, 2681–419, 2681–430; Pub. L. 107–107, div. A, title X, §1048(h)(1), Dec. 28, 2001, 115 Stat. 1229; renumbered Pub. L. 107–314, div. D, title XLVI, §4604, and amended Pub. L. 108–136, div. C, title XXXI, §3141(i)(5), Nov. 24, 2003, 117 Stat. 1777; Pub. L. 112–239, div. C, title XXXI, §§3131(q)(1), (bb)(1)(A), (C), 3134(b)(1), Jan. 2, 2013, 126 Stat. 2183, 2185, 2193; Pub. L. 113–66, div. C, title XXXI, §3146(g)(4), Dec. 26, 2013, 127 Stat. 1079; Pub. L. 113–128, title V, §512(d), July 22, 2014, 128 Stat. 1706; Pub. L. 113–291, div. C, title XXXI, §3142(o), Dec. 19, 2014, 128 Stat. 3901.)
+(Pub. L. 107–314, div. D, title XLVI, §4604, formerly Pub. L. 102–484, div. C, title XXXI, §3161, Oct. 23, 1992, 106 Stat. 2644; Pub. L. 103–337, div. A, title X, §1070(c)(2), Oct. 5, 1994, 108 Stat. 2857; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(7)(A), (f)(6)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430; Pub. L. 107–107, div. A, title X, §1048(h)(1), Dec. 28, 2001, 115 Stat. 1229; renumbered Pub. L. 107–314, div. D, title XLVI, §4604, and amended Pub. L. 108–136, div. C, title XXXI, §3141(i)(5), Nov. 24, 2003, 117 Stat. 1777; Pub. L. 112–239, div. C, title XXXI, §§3131(q)(1), (bb)(1)(A), (C), 3134(b)(1), Jan. 2, 2013, 126 Stat. 2183, 2185, 2193; Pub. L. 113–66, div. C, title XXXI, §3146(g)(4), Dec. 26, 2013, 127 Stat. 1079; Pub. L. 113–128, title V, §512(d), July 22, 2014, 128 Stat. 1706; Pub. L. 113–291, div. C, title XXXI, §3142(o), Dec. 19, 2014, 128 Stat. 3901.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -136,13 +138,15 @@ Subsec. (c)(6)(B). Pub. L. 103–337, §1070(c)(2)(C), substituted "division D" 
 
 Subsec. (d). Pub. L. 103–337, §1070(c)(2)(A), substituted "workforce" for "work force".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2014 Amendment
 
 Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 
 #### Effective Date of 1998 Amendment
 
-Amendment by section 101(f) \[title VIII, §405(d)(7)(A)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(6)(A)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
+Amendment by section 101(f) \[title VIII, §405(d)(7)(A)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendmentby section 101(f) \[title VIII, §405(f)(6)(A)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1994 Amendment
 

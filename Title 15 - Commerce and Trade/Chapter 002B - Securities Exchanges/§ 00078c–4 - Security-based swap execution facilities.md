@@ -184,7 +184,7 @@ A national securities exchange shall, to the extent that the exchange also opera
 
 &emsp;&emsp;&emsp;(ii) review compliance with the core principles in this subsection;
 
-&emsp;&emsp;&emsp;(iii) in consultation with the board of the facility, a body performing a function similar to that of a board, or the senior officer of the facility, resolve any conflicts of interest that may arise;
+&emsp;&emsp;&emsp;(iii) in consultation with the board of the facility, a body performing a functionsimilar to that of a board, or the senior officer of the facility, resolve any conflicts of interest that may arise;
 
 &emsp;&emsp;&emsp;(iv) be responsible for establishing and administering the policies and procedures required to be established pursuant to this section;
 
@@ -232,9 +232,13 @@ The Commission shall prescribe rules governing the regulation of security-based 
 
 (June 6, 1934, ch. 404, title I, §3D, as added Pub. L. 111–203, title VII, §763(c), July 21, 2010, 124 Stat. 1769.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This chapter, referred to in subsec. (d)(9)(A)(ii), (10), (14)(B)(v), (C)(i)(I), was in the original "this title". SeeReferences in Text note set out under section 78a of this title.
+This chapter, referred to in subsec. (d)(9)(A)(ii), (10), (14)(B)(v), (C)(i)(I), was in the original "this title". See References in Text note set out under section 78a of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

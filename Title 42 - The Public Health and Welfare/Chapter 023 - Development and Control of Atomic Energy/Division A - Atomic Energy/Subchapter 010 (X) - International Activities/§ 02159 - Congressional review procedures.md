@@ -6,7 +6,7 @@ Not later than forty-five days of continuous session of Congress after the date 
 
 #### (b) Consideration of resolution by respective Houses of Congress
 
-When the relevant committee or committees have reported such a resolution (or have been discharged from further consideration of such a resolution pursuant to subsection (a)) or when a resolution has been introduced and placed on the appropriate calendar pursuant to subsection (a), as the case may be, it is at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) for any Member of the respective House to move to proceed to the consideration of the resolution. Themotion is highly privileged and is not debatable. The motion shall not be subject to amendment, or to a motion to postpone, or to a motion to proceed to the consideration of other business. A motion to reconsider the vote by which the motion is agreed to or disagreed to shall not be in order. If a motion to proceed to the consideration of the resolution is agreed to, the resolution shall remain the unfinished business of the respective House until disposed of.
+When the relevant committee or committees have reported such a resolution (or have been discharged from further consideration of such a resolution pursuant to subsection (a)) or when a resolution has been introduced and placed on the appropriate calendar pursuant to subsection (a), as the case may be, it is at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) for any Member of the respective House to move to proceed to the consideration of the resolution. The motion is highly privileged and is not debatable. The motion shall not be subject to amendment, or to a motion to postpone, or to a motion to proceed to the consideration of other business. A motion to reconsider the vote by which the motion is agreed to or disagreed to shall not be in order. If a motion to proceed to the consideration of the resolution is agreed to, the resolution shall remain the unfinished business of the respective House until disposed of.
 
 #### (c) Debate
 
@@ -22,7 +22,7 @@ Appeals from the decisions of the Chair relating to the application of the rules
 
 #### (f) Resolution
 
-For the purposes of subsections (a) through (e) of this section, the term "resolution" means a concurrent resolution of the Congress, the matter after the resolving clause of which is as follows: "That the Congress (does or does not) favor the        transmitted to the Congress by the President on    ,        .", the blank spaces therein to be appropriately filled, and the affirmative or negative phrase within the parenthetical to be appropriately selected.
+For the purposes of subsections (a) through (e) of this section, the term "resolution" means aconcurrent resolution of the Congress, the matter after the resolving clause of which is as follows: "That the Congress (does or does not) favor the        transmitted to the Congress by the President on    ,        .", the blank spaces therein to be appropriately filled, and the affirmative or negative phrase within the parenthetical to be appropriately selected.
 
 #### (g) Continuity of Congressional sessions; computation of time
 
@@ -58,7 +58,7 @@ This section is enacted by Congress—
 
 > with the date of the transmission of the proposed agreement for cooperation inserted in the blank, and the affirmative or negative phrase within the parenthetical appropriately selected.
 
-(2) On the day on which a proposed agreement for cooperation is submitted to the House of Representatives and the Senate under section 2153(d) of this title, a joint resolution with respect to such agreement for cooperation shall be introduced (by request) in the House by the chairman of the Committee on Foreign Affairs, for himself and the ranking minority member of the Committee, or by Members of the House designated by the chairman and ranking minority member; and shall be introduced (by request) inthe Senate by the majority leader of the Senate, for himself and the minority leader of the Senate, or by Members of the Senate designated by the majority leader and minority leader of the Senate. If either House is not in session on the day on which such an agreement for cooperation is submitted, the joint resolution shall be introduced in that House, as provided in the preceding sentence, on the first day thereafter on which that House is in session.
+(2) On the day on which a proposed agreement for cooperation is submitted to the House of Representatives and the Senate under section 2153(d) of this title, a joint resolution with respect to such agreement for cooperation shall be introduced (by request) in the House by the chairman of the Committee on Foreign Affairs, for himself and the ranking minority member of the Committee, or by Members of the House designated by the chairman and ranking minority member; and shall be introduced (by request) in the Senate by the majority leader of the Senate, for himself and the minority leader of the Senate, or by Members of the Senate designated by the majority leader and minority leader of the Senate. If either House is not in session on the day on which such an agreement for cooperation is submitted, the joint resolution shall be introduced in that House, as provided in the preceding sentence, on the first day thereafter on which that House is in session.
 
 (3) All joint resolutions introduced in the House of Representatives shall be referred to the appropriate committee or committees, and all joint resolutions introduced in the Senate shall be referred to the Committee on Foreign Relations and in addition, in the case of a proposed agreement for cooperation arranged pursuant to section 2121(c), 2164(b), or 2164(c) of this title, the Committee on Armed Services.
 
@@ -73,6 +73,8 @@ This section is enacted by Congress—
 &emsp;(B) the vote on final passage shall be on the joint resolution of the other House.
 
 (Aug. 1, 1946, ch. 724, title I, §130, as added Pub. L. 95–242, title III, §308, Mar. 10, 1978, 92 Stat. 139; amended Pub. L. 99–64, title III, §301(c), July 12, 1985, 99 Stat. 160; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 103–437, §15(f)(5), Nov. 2, 1994, 108 Stat. 4592; Pub. L. 110–369, title II, §205, Oct. 8, 2008, 122 Stat. 4033.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -93,6 +95,8 @@ Subsec. (i)(4). Pub. L. 110–369, §205(2), inserted "(or in the case of a join
 Subsec. (g). Pub. L. 99–64, §301(c)(2), designated existing provisions of subsec. (g) as par. (1), substituted "Except as provided in paragraph (2), for" for "For", redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
 
 Subsec. (i). Pub. L. 99–64, §301(c)(2)(B), added subsec. (i).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1985 Amendment
 

@@ -292,7 +292,9 @@ For purposes of this subchapter:
 
 &emsp;The term "victim services" means services that assist domestic violence, dating violence, sexual assault, or stalking victims, including services offered by rape crisis centers and domestic violence shelters, and other organizations, with a documented history of effective work concerning domestic violence, dating violence, sexual assault, or stalking.
 
-(Pub. L. 100–77, title IV, §401, as added Pub. L. 111–22, div. B, title I, §1101(3), May 20, 2009, 123 Stat. 1669;amended Pub. L. 116–260, div. Q, title I, §102(a)(1), Dec. 27, 2020, 134 Stat. 2165.)
+(Pub. L. 100–77, title IV, §401, as added Pub. L. 111–22, div. B, title I, §1101(3), May 20, 2009, 123Stat. 1669; amended Pub. L. 116–260, div. Q, title I, §102(a)(1), Dec. 27, 2020, 134 Stat. 2165.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -310,13 +312,11 @@ Par. (11). Pub. L. 116–260, §102(a)(1)(E), added par. (11). Former par. (11) 
 
 Pars. (12) to (35). Pub. L. 116–260, §102(a)(1)(A), redesignated pars. (10) to (33) as (12) to (35), respectively.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective on the earlier of 18 months after May 20, 2009, or 3 months after publication of certain final regulations by Secretary of Housing and Urban Development, see section 1503 of Pub. L. 111–22, set out as an Effective Date of 2009 Amendment note under section 11302 of this title.
-
-#### Termination of Trust Territory of the Pacific Islands
-
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
 #### HEARTH Act Technical Corrections
 
@@ -333,6 +333,12 @@ Pub. L. 112–141, div. F, title II, §100261, July 6, 2012, 126 Stat. 978, prov
 #### Definitions
 
 For provisions relating to definitions of "State" and "local government" as used in this section, see section 100261 of Pub. L. 112–141, set out as a HEARTH Act Technical Corrections note above.
+
+#### <b>Executive Documents</b>
+
+#### Termination of Trust Territory of the Pacific Islands
+
+For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "of this".</i>
 

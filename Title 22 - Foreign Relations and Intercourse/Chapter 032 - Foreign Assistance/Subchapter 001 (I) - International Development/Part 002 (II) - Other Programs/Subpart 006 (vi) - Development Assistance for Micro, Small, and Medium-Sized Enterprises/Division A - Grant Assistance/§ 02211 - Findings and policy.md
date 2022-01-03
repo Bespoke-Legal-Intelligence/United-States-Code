@@ -2,7 +2,7 @@
 
 Congress finds and declares the following:
 
-&emsp;(1) Access to financial services and the development of micro, small, and medium-sized enterprises are vital factors in the stable growth of developing countries, in the development of free, open, and equitable international economic systems, and in the economic empowerment of the poor, especially women.
+&emsp;(1) Access to financial services and the development of micro, small, and medium-sizedenterprises are vital factors in the stable growth of developing countries, in the development of free, open, and equitable international economic systems, and in the economic empowerment of the poor, especially women.
 
 &emsp;(2) It is therefore in the best interest of the United States to facilitate access to financial services and assist the development of micro, small, and medium-sized enterprises in developing countries, particularly enterprises owned, managed, and controlled by women.
 
@@ -60,7 +60,7 @@ Pub. L. 108–484, §2, Dec. 23, 2004, 118 Stat. 3922, provided that: "Congress 
 
 &emsp;"(5)(A) The Comptroller General's report recommends that the Administrator of the United States Agency for International Development review the Agency's 'microenterprise results reporting' system with the goal of ensuring that its annual reporting is complete and accurate.
 
-&emsp;"(B) Specifically, the Administrator should review and reconsider the methodologies used for the collection, analysis, and reporting of data on annual spending targets, outreach to the very poor, sustainability of microfinance institutions, and the contribution of Agency's funding to the institutions it supports."
+&emsp;"(B) Specifically, the Administrator should review and reconsider the methodologies used for the collection, analysis, and reporting of data on annual spending targets, outreach to the very poor, sustainabilityof microfinance institutions, and the contribution of Agency's funding to the institutions it supports."
 
 #### Sense of Congress
 

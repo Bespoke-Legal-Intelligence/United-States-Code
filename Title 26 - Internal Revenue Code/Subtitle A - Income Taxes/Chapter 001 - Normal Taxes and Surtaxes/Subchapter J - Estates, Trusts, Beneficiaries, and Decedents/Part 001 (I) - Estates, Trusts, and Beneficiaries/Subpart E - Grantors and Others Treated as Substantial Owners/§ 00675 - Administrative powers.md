@@ -4,7 +4,7 @@ The grantor shall be treated as the owner of any portion of a trust in respect o
 
 #### (1) Power to deal for less than adequate and full consideration
 
-&emsp;A power exercisable by the grantor or a nonadverse party, or both, without the approval or consent of any adverse party enables the grantor or any person to purchase, exchange,or otherwise deal with or dispose of the corpus or the income therefrom for less than an adequate consideration in money or money's worth.
+&emsp;A power exercisable by the grantor or a nonadverse party, or both, without the approval or consent of any adverse party enables the grantor or any person to purchase, exchange, or otherwise deal with or dispose of the corpus or the income therefrom for less than an adequate consideration in money or money's worth.
 
 #### (2) Power to borrow without adequate interest or security
 
@@ -20,11 +20,15 @@ The grantor shall be treated as the owner of any portion of a trust in respect o
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 229; Pub. L. 100–647, title I, §1014(a)(2), Nov. 10, 1988, 102 Stat. 3559.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Par. (3). Pub. L. 100–647 inserted at end "For periods during which an individual is the spouse of the grantor (within the meaning of section 672(e)(2)), any reference in this paragraph to the grantor shall be treated as including a reference to such individual."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 

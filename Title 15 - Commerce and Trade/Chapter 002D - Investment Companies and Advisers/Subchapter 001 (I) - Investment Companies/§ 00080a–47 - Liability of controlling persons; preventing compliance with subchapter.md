@@ -14,9 +14,13 @@ It shall be unlawful for any person without just cause to hinder, delay, or obst
 
 (Aug. 22, 1940, ch. 686, title I, §48, 54 Stat. 846; Pub. L. 111–203, title IX, §929M(b), July 21, 2010, 124 Stat. 1861.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsecs. (b), (c). Pub. L. 111–203 added subsec. (b) and redesignated former subsec. (b) as (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

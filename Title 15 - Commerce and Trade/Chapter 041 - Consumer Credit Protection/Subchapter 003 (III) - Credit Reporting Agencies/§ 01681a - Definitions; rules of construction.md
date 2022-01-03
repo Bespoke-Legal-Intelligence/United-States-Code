@@ -208,7 +208,7 @@ Fraud alert; active duty alert.—The terms "fraud alert" and "active duty alert
 
 &emsp;(3)
 
-Identity theft.—The term "identity theft" means a fraud committed using the identifying information of another person, subject to such further definition as the Bureau may prescribe, by regulation.
+Identity theft.—The term "identity theft" means a fraud committed using the identifying information of another person,subject to such further definition as the Bureau may prescribe, by regulation.
 
 &emsp;(4)
 
@@ -340,6 +340,8 @@ Veteran's Medical Debt.—The term "veteran's medical debt"—
 
 (Pub. L. 90–321, title VI, §603, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1128; amended Pub. L. 102–537, §2(b), Oct. 27, 1992, 106 Stat. 3531; Pub. L. 104–208, div. A, title II, §2402, Sept. 30, 1996, 110 Stat. 3009–426; Pub. L. 105–347, §6(1)–(3), Nov. 2, 1998, 112 Stat. 3211; Pub. L. 108–159, title I, §111, title II, §214(c)(1), title IV, §411(b), (c), title VI, §611, Dec. 4, 2003, 117 Stat. 1954, 1983, 2001, 2010; Pub. L. 111–203, title X, §1088(a)(1), (2)(A), (C), (3), July 21, 2010, 124 Stat. 2086, 2087; Pub. L. 115–174, title III, §302(b)(1), May 24, 2018, 132 Stat. 1333.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Subsection (x) of this section, referred to in subsec. (d)(2)(D), was redesignated subsection (y) of this section by Pub. L. 111–203, title X, §1088(a)(1), July 21, 2010, 124 Stat. 2086.
@@ -396,6 +398,8 @@ Subsec. (p). Pub. L. 104–208, §2402(g), added subsec. (p).
 
 <b>1992</b>—Subsec. (j). Pub. L. 102–537 added subsec. (j).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Pub. L. 115–174, title III, §302(e), May 24, 2018, 132 Stat. 1335, provided that: "The amendments made by this section \[amending this section and sections 1681c, 1681c–1, 1681i, and 1681t of this title and enacting provisions set out as a note under section 1681c of this title\] shall take effect on the date that is 1 year after the date of enactment of this Act \[May 24, 2018\]."
@@ -416,7 +420,7 @@ Pub. L. 108–159, title IV, §411(d), Dec. 4, 2003, 117 Stat. 2002, provided th
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–347, §7, Nov. 2, 1998, 112 Stat. 3211, provided that: "The amendments made by this Act \[amending this section and sections 1681b, 1681c, 1681g, 1681i, 1681k, and 1681s of this title\] shall be deemed to have the same effective date \[see section 2420 of Pub. L. 104–208, set out as a note below\] as the amendmentsmade by section 2403 of the Consumer Credit Reporting Reform Act of 1996 (Public Law 104–208; 110 Stat. 3009–1257 \[3009–430\]) \[amending section 1681b of this title\]."
+Pub. L. 105–347, §7, Nov. 2, 1998, 112 Stat. 3211, provided that: "The amendments made by this Act\[amending this section and sections 1681b, 1681c, 1681g, 1681i, 1681k, and 1681s of this title\] shall be deemed to have the same effective date \[see section 2420 of Pub. L. 104–208, set out as a note below\] as the amendments made by section 2403 of the Consumer Credit Reporting Reform Act of 1996 (Public Law 104–208; 110 Stat. 3009–1257 \[3009–430\]) \[amending section 1681b of this title\]."
 
 #### Effective Date of 1996 Amendment
 

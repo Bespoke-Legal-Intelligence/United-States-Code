@@ -14,7 +14,9 @@ There may be seized and forfeited to the United States the following:
 
 &emsp;All property to which any false or fraudulent instrument involved in the offense described in section 7207 relates.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 868; Pub. L. 85–881, §1(c), Sept. 2, 1958, 72 Stat. 1704; Pub. L. 93–490, §3(b)(5), Oct. 26, 1974, 88 Stat. 1467; Pub. L. 94–455, title XIX, §1904(b)(8)(G), (9)(D), Oct. 4, 1976, 90 Stat. 1816.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 868; Pub. L. 85–881, §1(c), Sept. 2, 1958, 72 Stat. 1704; Pub. L.93–490, §3(b)(5), Oct. 26, 1974, 88 Stat. 1467; Pub. L. 94–455, title XIX, §1904(b)(8)(G), (9)(D), Oct. 4, 1976, 90 Stat. 1816.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -35,6 +37,8 @@ Pars. (7), (8). Pub. L. 94–455, §1904(b)(9)(D), redesignated pars. (7) and (8
 Par. (5). Pub. L. 93–490 substituted provisions relating to packages of oleomargarine subject to tax under subchapter F of chapter 38 of this title for provisions relating to oleomargarine or filled cheese subject to tax under subchapter F of chapter 38 or part II of subchapter C of chapter 39 of this title.
 
 <b>1958</b>—Pub. L. 85–881 repealed par. (2) which related to oleomargarine or filled cheese adjudged to contain deleterious ingredients.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

@@ -26,9 +26,13 @@ Aug. 29, 1916, ch. 417 (1st par. under "Hospital Corps", less 1st sentence, and 
 
 The words "in his discretion" and "of the enlisted personnel" are omitted as surplusage. The words "Navy and the Marine Corps" are substituted for the words "naval service".
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 8213, act Aug. 10, 1956, ch. 1041, 70A Stat. 501, prescribed authorized strength of Regular Air Force in warrant officers on active list, prior to repeal by Pub. L. 96–513, title II, §202, Dec. 12, 1980, 94 Stat. 2878, effective Sept. 15, 1981.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Amendments
 

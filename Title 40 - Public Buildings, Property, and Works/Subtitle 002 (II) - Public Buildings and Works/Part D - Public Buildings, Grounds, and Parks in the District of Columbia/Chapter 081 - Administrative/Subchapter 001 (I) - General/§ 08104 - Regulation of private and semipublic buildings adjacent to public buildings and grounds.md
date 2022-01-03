@@ -10,7 +10,7 @@ Submission of Application to Commission of Fine Arts.—The Mayor of the Distric
 
 (c)
 
-Report to Mayor.—The Commission shall report promptly its recommendations to the Mayor, including any changes the Commission decides are necessary to prevent reasonably avoidable impairment of the public values belonging to the public building or park. If theCommission fails to report its approval or disapproval of a plan within 30 days, the report is deemed approved and a permit may be issued.
+Report to Mayor.—The Commission shall report promptly its recommendations to the Mayor, including any changes the Commission decides are necessary to prevent reasonably avoidable impairment of the public values belonging to the public building or park. If the Commission fails to report its approval or disapproval of a plan within 30 days, the report is deemed approved and a permit may be issued.
 
 (d)
 

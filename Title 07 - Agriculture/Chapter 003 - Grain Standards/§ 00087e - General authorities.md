@@ -6,7 +6,7 @@ The Secretary is authorized to conduct such investigations; hold such hearings; 
 
 #### (b) Investigation of reports or complaints of discrepancies and abuses in official inspection or weighing of grain
 
-The Secretary is authorized to investigate reports or complaints of discrepancies and abuses in the official inspection and weighing of grain under this chapter. The Secretary shall prescribe by regulation procedures for (1) promptly investigating (A) complaints of foreign grain purchasers regarding the official inspection or official weighing of grain shipped from the United States, (B) the cancellation of contracts for the export sale of grain required to be inspected or weighed under this chapter, and (C) any complaint regarding the operation or administration of this chapter or any officialtransaction with which this chapter is concerned; and (2) taking appropriate action on the basis of the findings of any investigation of such complaints.
+The Secretary is authorized to investigate reports or complaints of discrepancies and abuses in the official inspection and weighing of grain under this chapter. The Secretary shall prescribe by regulation procedures for (1) promptly investigating (A) complaints of foreign grain purchasers regarding the official inspection or official weighing of grain shipped from the United States, (B) the cancellation of contracts for the export sale of grain required to be inspected or weighed under this chapter, and (C) any complaint regarding the operation or administration of this chapter or any official transaction with which this chapter is concerned; and (2) taking appropriate action on the basis of the findings of any investigation of such complaints.
 
 #### (c) Monitoring of United States grain upon its entry into foreign nations
 
@@ -62,6 +62,8 @@ The Secretary may extend appropriate courtesies to official representatives of f
 
 (Aug. 11, 1916, ch. 313, pt. B, §16, as added Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 768; amended Pub. L. 94–582, §18, Oct. 21, 1976, 90 Stat. 2884; Pub. L. 95–113, title XVI, §§1604(k), 1606(i), Sept. 29, 1977, 91 Stat. 1029, 1030; Pub. L. 102–237, title X, §1007(2), Dec. 13, 1991, 105 Stat. 1897; Pub. L. 103–156, §9, Nov. 24, 1993, 107 Stat. 1527; Pub. L. 103–354, title II, §293(a)(7), Oct. 13, 1994, 108 Stat. 3237.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsecs. (a) to (c), (e) to (i), (k). Pub. L. 103–354 substituted "Secretary" for "Administrator" wherever appearing.
@@ -81,6 +83,8 @@ Subsec. (f). Pub. L. 95–113, §1604(k)(2), struck out "additional" before "ins
 <b>1976</b>—Subsec. (a). Pub. L. 94–582 substituted authorizations of "Administrator" for authorizations of "Secretary", "official agency" for "official inspection agency", and "other person" for "any person" respecting reporting requirement, required reports from State agencies delegated authority under this chapter and from licensees, inserted items (1) to (3) relating to conditions for official inspection, authorized issuance of instructions, and struck out reference to section 86 of this title, including proceedings for refusal of official inspection service not required by section 77 of this title, as not being subject to administrative procedure provisions.
 
 Subsecs. (b) to (f). Pub. L. 94–582 added subsecs. (b) to (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1977 Amendment
 

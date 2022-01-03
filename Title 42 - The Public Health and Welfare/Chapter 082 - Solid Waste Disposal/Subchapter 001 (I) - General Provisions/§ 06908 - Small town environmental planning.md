@@ -14,7 +14,7 @@ The Administrator of the Environmental Protection Agency (hereafter referred to 
 
 &emsp;(B) identify means to improve the working relationship between the Environmental Protection Agency (hereafter referred to as the Agency) and small towns;
 
-&emsp;(C) review proposed regulations for the protection of the environmental and public health and suggest revisions that could improve the ability of small towns to comply with such regulations;
+&emsp;(C) review proposed regulations for the protection of the environmental and public healthand suggest revisions that could improve the ability of small towns to comply with such regulations;
 
 &emsp;(D) identify means to promote regionalization of environmental treatment systems and infrastructure serving small towns to improve the economic condition of such systems and infrastructure; and
 
@@ -59,6 +59,8 @@ For purposes of this section, the term "small town" means an incorporated or uni
 There is authorized to be appropriated the sum of $500,000 to implement this section.
 
 (Pub. L. 102–386, title I, §109, Oct. 6, 1992, 106 Stat. 1515.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

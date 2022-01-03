@@ -28,7 +28,7 @@ A voluntary separation incentive payment made under this section—
 
 #### (1) Plan required for making payments
 
-&emsp;No voluntary separation incentive payment may be paid under this section with respect to an office unless the head of the office submits a plan described in paragraph (2) to each applicable committee described in paragraph (3), and each applicable committee approves the plan.
+&emsp;No voluntary separation incentive payment may be paid under this section with respect toan office unless the head of the office submits a plan described in paragraph (2) to each applicable committee described in paragraph (3), and each applicable committee approves the plan.
 
 #### (2) Contents of plan
 
@@ -90,7 +90,7 @@ A voluntary separation incentive payment made under this section—
 
 #### (2) Waiver for individuals possessing unique abilities
 
-&emsp;(A) If the employment is with an Executive agency (as defined by section 105 of title 5, but excluding the Government Accountability Office), the Director of the Office of PersonnelManagement may, at the request of the head of the agency, waive the repayment required under this subsection if the individual involved possesses unique abilities and is the only qualified applicant available for the position.
+&emsp;(A) If the employment is with an Executive agency (as defined by section 105 of title 5, but excluding the Government Accountability Office), the Director of the Office of Personnel Management may, at the request of the head of the agency, waive the repayment required under this subsection if the individual involved possesses unique abilities and is the only qualified applicant available for the position.
 
 &emsp;(B) If the employment is with an entity in the legislative branch, the head of the entity or the appointing official may waive the repayment required under this subsection if the individual involved possesses unique abilities and is the only qualified applicant available for the position.
 
@@ -102,7 +102,7 @@ A voluntary separation incentive payment made under this section—
 
 #### (g) Effective date
 
-This section shall take effect on December 8, 2004, and shall apply with respect to the portion of fiscal year 2005 occurring on and after December 8, 2004, and to each succeeding fiscal year.
+This section shall take effect on December 8, 2004, and shall apply with respect to the portionof fiscal year 2005 occurring on and after December 8, 2004, and to each succeeding fiscal year.
 
 (Pub. L. 108–447, div. G, title II, §210, Dec. 8, 2004, 118 Stat. 3194; Pub. L. 112–74, div. G, title I, §1401(a), Dec. 23, 2011, 125 Stat. 1134.)
 

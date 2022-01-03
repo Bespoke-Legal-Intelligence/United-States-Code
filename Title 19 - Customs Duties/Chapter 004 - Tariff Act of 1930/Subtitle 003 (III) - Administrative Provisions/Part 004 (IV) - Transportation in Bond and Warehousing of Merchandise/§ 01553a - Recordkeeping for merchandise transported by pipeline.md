@@ -4,9 +4,13 @@ Merchandise in Customs <sup>1</sup> custody that is transported by pipeline may
 
 (June 17, 1930, ch. 497, title IV, §553A, as added Pub. L. 103–182, title VI, §664, Dec. 8, 1993, 107 Stat. 2215.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Another section 553A of act June 17, 1930, is classified to section 1553–1 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

@@ -166,13 +166,13 @@
 
 |  |  |
 | :--- | ---: |
-| [6321\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20B%20-%20State%20Energy%20Conservation%20Plans/%C2%A7%2006321%20-%20Congressional%20findings%20and%20declaration%20of%20purpose.md) | Congressional findings and declaration of purpose. |
+| [6321\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20B%20-%20State%20Energy%20Conservation%20Plans/%C2%A7%2006321%20-%20Findings%3B%20purpose%3B%20definitions.md) | Findings; purpose; definitions. |
 | [6322\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20B%20-%20State%20Energy%20Conservation%20Plans/%C2%A7%2006322%20-%20State%20energy%20conservation%20plans.md) | State energy conservation plans. |
 | [6323\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20B%20-%20State%20Energy%20Conservation%20Plans/%C2%A7%2006323%20-%20Federal%20assistance%20to%20States.md) | Federal assistance to States. |
 | [6323a.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20B%20-%20State%20Energy%20Conservation%20Plans/%C2%A7%2006323a%20-%20Matching%20State%20contributions.md) | Matching State contributions. |
 | [6324\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20B%20-%20State%20Energy%20Conservation%20Plans/%C2%A7%2006324%20-%20State%20energy%20efficiency%20goals.md) | State energy efficiency goals. |
 | [6325\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20B%20-%20State%20Energy%20Conservation%20Plans/%C2%A7%2006325%20-%20General%20provisions.md) | General provisions. |
-| [6326\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20B%20-%20State%20Energy%20Conservation%20Plans/%C2%A7%2006326%20-%20Definitions.md) | Definitions. |
+| [6326\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20B%20-%20State%20Energy%20Conservation%20Plans/%C2%A7%2006326%20-%20State%20energy%20security%20plans.md) | State energy security plans. |
 | [6327\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20B%20-%20State%20Energy%20Conservation%20Plans/%C2%A7%2006327%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93440%2C%20%C2%A74%28c%29%281%29%2C%20Oct.%2018%2C%201990%2C%20104%20Stat.%201009.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -186,7 +186,8 @@
 | [6343\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20C%20-%20Industrial%20Energy%20Efficiency/%C2%A7%2006343%20-%20Waste%20energy%20recovery%20incentive%20grant%20program.md) | Waste energy recovery incentive grant program. |
 | [6344\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20C%20-%20Industrial%20Energy%20Efficiency/%C2%A7%2006344%20-%20Additional%20incentives%20for%20recovery%2C%20use%2C%20and%20prevention%20of%20industrial%20waste%20energy.md) | Additional incentives for recovery, use, and prevention of industrial waste energy. |
 | [6345\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20C%20-%20Industrial%20Energy%20Efficiency/%C2%A7%2006345%20-%20CHP%20Technical%20Assistance%20Partnership%20Program.md) | CHP Technical Assistance Partnership Program. |
-| 6346, 6347. Repealed or Omitted. |  |
+| [6346\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20C%20-%20Industrial%20Energy%20Efficiency/%C2%A7%2006346%20-%20Sustainable%20manufacturing%20initiative.md) | Sustainable manufacturing initiative. |
+| 6347\. Omitted. |  |
 | [6348\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20C%20-%20Industrial%20Energy%20Efficiency/%C2%A7%2006348%20-%20Energy%20efficiency%20in%20industrial%20facilities.md) | Energy efficiency in industrial facilities. |
 | [6349\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20C%20-%20Industrial%20Energy%20Efficiency/%C2%A7%2006349%20-%20Process-oriented%20industrial%20energy%20efficiency.md) | Process-oriented industrial energy efficiency. |
 | [6350\.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20C%20-%20Industrial%20Energy%20Efficiency/%C2%A7%2006350%20-%20Industrial%20insulation%20and%20audit%20guidelines.md) | Industrial insulation and audit guidelines. |

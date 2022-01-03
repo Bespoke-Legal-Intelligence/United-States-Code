@@ -76,7 +76,7 @@ For the purpose of this subchapter, other than subpart 2 of part A, and except a
 
 #### <i>(a) In general</i>
 
-<i>For the purpose of this chapter, the term "student aid index" means, with respect to a student, an index that reflects an evaluation of a student's approximate financial resources to contribute toward the student's postsecondary education for the academic year, as determined in accordance with this part.</i>
+<i>For the purpose of this chapter, the term "student aid index" means, with respect to a student, an index that reflects an evaluation of a student's approximate financial resources to contribute toward the student's postsecondary education for the aca</i><i>demic year, as determined in accordance with this part.</i>
 
 #### <i>(b) Special rule for students eligible for the total maximum Pell Grant</i>
 
@@ -87,6 +87,8 @@ For the purpose of this subchapter, other than subpart 2 of part A, and except a
 <i>Notwithstanding subsection (b), for an applicant (or, as applicable, an applicant and spouse, or an applicant's parents) who is not required to file a Federal tax return for the second preceding tax year, the Secretary shall for the purposes of this subchapter consider the student aid index as equal to − $1,500 for the applicant.</i>
 
 <i>See 2020 Amendment note below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -109,6 +111,8 @@ Subsec. (b)(4), (5). Pub. L. 115–141, §317(3), added pars. (4) and (5).
 <b>1998</b>—Pub. L. 105–244 substituted "subpart 2" for "subpart 4".
 
 <b>1992</b>—Pub. L. 102–325 amended section generally. Prior to amendment, section read as follows: "For the purpose of this subchapter, except subparts 1 and 3 of part A, the term 'family contribution' with respect to any student means the amount which the student and his or her family may be reasonably expected to contribute toward his or her postsecondary education for the academic year for which the determination is made, as determined in accordance with this part."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 

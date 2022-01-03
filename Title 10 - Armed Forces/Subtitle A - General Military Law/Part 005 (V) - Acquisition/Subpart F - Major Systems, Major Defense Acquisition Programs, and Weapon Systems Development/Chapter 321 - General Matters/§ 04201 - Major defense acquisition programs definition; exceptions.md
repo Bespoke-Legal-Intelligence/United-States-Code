@@ -16,11 +16,19 @@ Definition.—Except as provided under subsection (b), in this part, the term "m
 
 Exceptions.—In this part, the term "major defense acquisition program" does not include the following:
 
-&emsp;(1) An acquisition program or project that is carried out using the rapid fielding or rapid prototyping acquisition pathway under section 804 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 2302 note).
+&emsp;(1) An acquisition program or project that is carried out using the rapid fielding or rapid prototyping acquisition pathway under section 804 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 2302 note).<sup>1</sup>
 
-&emsp;(2) An acquisition program for a defense business system (as defined in section 2222(i)(1) of this title) carried out using the acquisition guidance issued pursuant to section 883(e) of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 2223a note).
+&emsp;(2) An acquisition program for a defense business system (as defined in section 2222(i)(1) of this title) carried out using the acquisition guidance issued pursuant to section 883(e) of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 2223a note).<sup>1</sup>
 
 (Added and amended Pub. L. 116–283, div. A, title XVIII, §1846(b), (c), Jan. 1, 2021, 134 Stat. 4248.)
+
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+Section 804 of the National Defense Authorization Act for Fiscal Year 2016, referred to in subsec. (b)(1), is section 804 of Pub. L. 114–92, which is set out as a note preceding section 3201 of this title.
+
+Section 883(e) of the National Defense Authorization Act for Fiscal Year 2016, referred to in subsec. (b)(2), is section 883(e) of Pub. L. 114–92, which is set out as a note preceding section 4571 of this title.
 
 #### Codification
 
@@ -34,7 +42,11 @@ Subsec. (a)(2). Pub. L. 116–283, §1846(c)(2), substituted "to require—" for
 
 Subsec. (b). Pub. L. 116–283, §1846(c)(3), in introductory provisions, substituted "include the following:" for "include—", in par. (1), substituted "An" for "an" and period at end for "; or" and in par. (2), substituted "An" for "an".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

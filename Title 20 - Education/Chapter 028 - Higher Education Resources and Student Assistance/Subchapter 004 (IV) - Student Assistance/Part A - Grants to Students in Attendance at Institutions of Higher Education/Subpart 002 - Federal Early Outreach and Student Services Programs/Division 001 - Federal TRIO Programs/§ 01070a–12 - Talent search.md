@@ -52,7 +52,7 @@ Any project assisted under this section may provide services such as—
 
 &emsp;(6) mentoring programs involving elementary or secondary school teachers or counselors, faculty members at institutions of higher education, students, or any combination of such persons; and
 
-&emsp;(7) programs and activities as described in subsection (b) or paragraphs (1) through (6) of this subsection that are specially designed for students who are limited English proficient, students from groups that are traditionally underrepresented in postsecondary education,students with disabilities, students who are homeless children and youths (as such term is defined in section 11434a of title 42), students who are in foster care or are aging out of the foster care system, or other disconnected students.
+&emsp;(7) programs and activities as described in subsection (b) or paragraphs (1) through (6) of this subsection that are specially designed for students who are limited English proficient, students from groups that are traditionally underrepresented in postsecondary education, students with disabilities, students who are homeless children and youths (as such term is defined in section 11434a of title 42), students who are in foster care or are aging out of the foster care system, or other disconnected students.
 
 #### (d) Requirements for approval of applications
 
@@ -67,6 +67,8 @@ In approving applications for projects under this section for any fiscal year th
 &emsp;(4) require an assurance that the project will be located in a setting accessible to the persons proposed to be served by the project.
 
 (Pub. L. 89–329, title IV, §402B, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 486; amended Pub. L. 105–244, title IV, §402(b), Oct. 7, 1998, 112 Stat. 1654; Pub. L. 110–315, title IV, §403(b), Aug. 14, 2008, 122 Stat. 3198.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -85,6 +87,8 @@ Subsec. (b)(5). Pub. L. 105–244, §402(b)(2), inserted before semicolon ", or
 Subsec. (b)(8). Pub. L. 105–244, §402(b)(3), substituted "families" for "parents".
 
 Subsec. (b)(9). Pub. L. 105–244, §402(b)(4), inserted "or counselors" after "teachers".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

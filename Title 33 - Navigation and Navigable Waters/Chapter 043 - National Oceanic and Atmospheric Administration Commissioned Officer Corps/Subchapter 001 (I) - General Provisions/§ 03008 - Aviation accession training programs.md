@@ -20,7 +20,7 @@ In this section:
 
 #### (1) Establishment authorized
 
-&emsp;The Administrator, under regulations prescribed by the Secretary, shall establish and maintain one or more aviation accession training programs for the commissioned officer corps of the Administration at institutions described in paragraph (2).
+&emsp;The Administrator, under regulations prescribed by the Secretary, shall establish andmaintain one or more aviation accession training programs for the commissioned officer corps of the Administration at institutions described in paragraph (2).
 
 #### (2) Institutions described
 
@@ -46,7 +46,7 @@ In this section:
 
 &emsp;The program may not be established or maintained at an institution unless—
 
-&emsp;&emsp;(A) the senior commissioned officer or employee of the commissioned officer corps of the Administration who is assigned as an advisor to the program at that institution isgiven the academic rank of adjunct professor; and
+&emsp;&emsp;(A) the senior commissioned officer or employee of the commissioned officer corps of the Administration who is assigned as an advisor to the program at that institution is given the academic rank of adjunct professor; and
 
 &emsp;&emsp;(B) the institution fulfills the terms of its agreement with the Administrator.
 

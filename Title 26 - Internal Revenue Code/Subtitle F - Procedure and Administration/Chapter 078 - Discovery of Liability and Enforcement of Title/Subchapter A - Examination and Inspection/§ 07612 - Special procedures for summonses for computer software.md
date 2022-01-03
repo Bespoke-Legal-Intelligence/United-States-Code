@@ -76,7 +76,7 @@ For purposes of this title—
 
 &emsp;&emsp;(F) the software may not be decompiled or disassembled;
 
-&emsp;&emsp;(G) the Secretary shall provide to the taxpayer and the owner of any interest in such software, as the case may be, a written agreement, between the Secretary and any person who is not an officer or employee ofthe United States and who will analyze or otherwise have access to such software, which provides that such person agrees not to—
+&emsp;&emsp;(G) the Secretary shall provide to the taxpayer and the owner of any interest in such software, as the case may be, a written agreement, between the Secretary and any person who is not an officer or employee of the United States and who will analyze or otherwise have access to such software, which provides that such person agrees not to—
 
 &emsp;&emsp;&emsp;(i) disclose such software to any person other than persons to whom such information could be disclosed for tax administration purposes under section 6103; or
 
@@ -126,6 +126,8 @@ For purposes of this section—
 
 (Added Pub. L. 105–206, title III, §3413(a), July 22, 1998, 112 Stat. 751; amended Pub. L. 116–25, title I, §1001(b)(1)(J), July 1, 2019, 133 Stat. 985.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 7612 was renumbered section 7613 of this title.
@@ -133,6 +135,8 @@ A prior section 7612 was renumbered section 7613 of this title.
 #### Amendments
 
 <b>2019</b>—Subsec. (c)(2)(A). Pub. L. 116–25 substituted "Internal Revenue Service Independent Office of Appeals" for "Internal Revenue Service Office of Appeals".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

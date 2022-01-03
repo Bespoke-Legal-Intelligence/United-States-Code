@@ -28,7 +28,7 @@ This Act, referred to in subsec. (a)(7), is Pub. L. 89–454, June 17, 1966, 80 
 
 #### Amendments
 
-<b>1966</b>—Subsec. (a)(4). Pub. L. 89–688 substituted "this title" for "this Act", which, for purposes of codification has been changed to "this subchapter".
+<b>1966</b>—Subsec. (a). Pub. L. 89–688, in par. (4), substituted "this title" for "this Act", which, for purposes of codification has been changed to "this subchapter".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

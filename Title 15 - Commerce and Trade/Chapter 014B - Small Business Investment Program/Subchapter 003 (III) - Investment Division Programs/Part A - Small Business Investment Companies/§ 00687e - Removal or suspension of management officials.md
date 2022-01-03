@@ -152,11 +152,13 @@ Copies of each notice required to be served on a management official under this 
 
 (Pub. L. 85–699, title III, §313, as added Pub. L. 89–779, §7, Nov. 6, 1966, 80 Stat. 1360; amended Pub. L. 107–100, §5, Dec. 21, 2001, 115 Stat. 967.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For definition of "this chapter", referred to in subsec. (b)(1)(A)(i)(I), (II), see References in Text note set out under section 661 of this title.
 
 #### Amendments
 
-<b>2001</b>—Pub. L. 107–100 amended section catchline and text generally. Prior to amendment, text related to removal and suspension of directors and officers of licensees, with regard to written notice of intention to remove and grounds for removal; suspension pending completion of administrative proceedings; a hearing upon notice of intention to remove a director or officer and issuance of an order of removal; a stay of suspension and/or prohibition by a United States district court; suspension of directors and officers charged with felonies involving dishonesty or breach of trust; and procedural aspects of hearings provided for in this section.
+<b>2001</b>—Pub. L. 107–100 amended section catchline and text generally. Prior to amendment, text related to removal and suspension of directors and officers of licensees, with regard to written notice of intention to remove and grounds for removal; suspension pendingcompletion of administrative proceedings; a hearing upon notice of intention to remove a director or officer and issuance of an order of removal; a stay of suspension and/or prohibition by a United States district court; suspension of directors and officers charged with felonies involving dishonesty or breach of trust; and procedural aspects of hearings provided for in this section.
 

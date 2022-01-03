@@ -4,6 +4,8 @@ No consular officer of the United States shall grant a certificate for merchandi
 
 (R.S. §2861.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §2861 derived from act Feb. 22, 1873, ch. 184, §3, 17 Stat. 474.

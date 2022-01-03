@@ -32,7 +32,7 @@ Notification.—
 
 &emsp;(1)
 
-In general.—Not later than 15 days before exercising the authority in this section to make funds available to initiate support of an approved military operation or changing the scope or funding level of any support for such an operation by $1,000,000 or an amount equal to 20 percent of such funding level (whichever is less), or not later than 48 hours after exercising such authority if the Secretary determines that extraordinary circumstances that impact the national security of the United States exist, the Secretary shall notify the congressional defense committees of the use of such authority with respect to that operation. Any such notification shall be in writing.
+In general.—Not later than 15 days before exercising the authority in this section to make funds available to initiate support of anapproved military operation or changing the scope or funding level of any support for such an operation by $1,000,000 or an amount equal to 20 percent of such funding level (whichever is less), or not later than 48 hours after exercising such authority if the Secretary determines that extraordinary circumstances that impact the national security of the United States exist, the Secretary shall notify the congressional defense committees of the use of such authority with respect to that operation. Any such notification shall be in writing.
 
 &emsp;(2)
 
@@ -112,7 +112,7 @@ Elements.—Each report required by this subsection shall include, for the perio
 
 &emsp;&emsp;(B) A description of the support or facilitation provided by such foreign forces, irregular forces, groups, or individuals to United States special operations forces.
 
-&emsp;&emsp;(C) The type of recipients that were provided support under this section, identified by authorized category (foreign forces, irregular forces, groups, or individuals).
+&emsp;&emsp;(C) The type of recipients that were provided support under this section, identifiedby authorized category (foreign forces, irregular forces, groups, or individuals).
 
 &emsp;&emsp;(D) The total amount obligated for support under this section, including budget details.
 
@@ -125,6 +125,8 @@ Elements.—Each report required by this subsection shall include, for the perio
 &emsp;&emsp;(H) A value assessment of the support provided under this section, including a summary of significant activities undertaken by foreign forces, irregular forces, groups, or individuals to support operations by United States special operations forces to combat terrorism.
 
 (Added Pub. L. 114–328, div. A, title XII, §1203(a)(1), Dec. 23, 2016, 130 Stat. 2474; amended Pub. L. 115–91, div. A, title X, §1031, Dec. 12, 2017, 131 Stat. 1550; Pub. L. 116–92, div. A, title X, §1041, Dec. 20, 2019, 133 Stat. 1585; Pub. L. 116–283, div. A, title X, §§1051, 1081(a)(7), Jan. 1, 2021, 134 Stat. 3847, 3871.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -157,4 +159,14 @@ Subsec. (d)(2)(E), (F). Pub. L. 116–92, §1041(2)(D), added subpars. (E) and (
 Subsec. (h)(1). Pub. L. 115–91, §1031(b)(1), substituted "120 days after the last day of each fiscal year" for "March 1 each year".
 
 Subsec. (h)(2). Pub. L. 115–91, §1031(b)(2), substituted "six months after the date of the submittal of the report most recently submitted under paragraph (1)" for "September 1 each year" and inserted "under this paragraph" after "in which the report".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Chief of Mission Concurrence
+
+Pub. L. 117–81, div. E, title LVII, §5703, Dec. 27, 2021, 135 Stat. 2382, provided that: "In the course of a chief of mission providing concurrence to the exercise of the authority pursuant to section 127e of title 10, United States Code, or section 1202 of the National Defense Authorization Act for Fiscal Year 2018 \[Pub. L. 115–91; 131 Stat. 1639\]—
+
+&emsp;"(1) each relevant chief of mission shall inform and consult in a timely manner with relevant individuals at relevant missions or bureaus of the Department of State; and
+
+&emsp;"(2) the Secretary of State shall take such steps as may be necessary to ensure that such relevant individuals have the security clearances necessary and access to relevant compartmented and special programs to so consult in a timely manner with respect to such concurrence."
 

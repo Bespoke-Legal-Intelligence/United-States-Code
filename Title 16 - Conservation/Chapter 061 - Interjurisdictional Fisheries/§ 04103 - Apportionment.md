@@ -42,9 +42,13 @@ Any part of an apportionment for any fiscal year to any State—
 
 (Pub. L. 99–659, title III, §304, Nov. 14, 1986, 100 Stat. 3733; Pub. L. 101–627, title V, §501, Nov. 28, 1990, 104 Stat. 4462.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Subsec. (c)(3)(B). Pub. L. 101–627 inserted "which are managed under an interstate fishery management plan" before semicolon at end.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -216,6 +216,8 @@ For application and review requirements affecting the eligibility of certain ind
 
 (Aug. 14, 1935, ch. 531, title XVI, §1611, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1466; amended Pub. L. 93–66, title II, §210(a), (b), July 9, 1973, 87 Stat. 154; Pub. L. 93–233, §§4(b)(1), (2), 18(d), (e), Dec. 31, 1973, 87 Stat. 953, 968; Pub. L. 93–368, §6(a), Aug. 7, 1974, 88 Stat. 421; Pub. L. 94–566, title V, §§502, 505(a), Oct. 20, 1976, 90 Stat. 2685, 2686; Pub. L. 96–265, title III, §303(c)(2), June 9, 1980, 94 Stat. 453; Pub. L. 97–35, title XXIII, §2341(a), Aug. 13, 1981, 95 Stat. 865; Pub. L. 97–248, title I, §§181(a), 183(a), Sept. 3, 1982, 96 Stat. 404, 405; Pub. L. 98–21, title IV, §403(a), Apr. 20, 1983, 97 Stat. 140; Pub. L. 98–369, div. B, title VI, §§2611(a)–(c), 2663(g)(1), (2), July 18, 1984, 98 Stat. 1130, 1168; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–643, §§3(a), 4(c)(3), (d)(1), 9(a), Nov. 10, 1986, 100 Stat. 3574, 3577, 3579; Pub. L. 100–203, title IX, §§9106(a), 9107, 9113(a), 9115(a), 9119(a), Dec. 22, 1987, 101 Stat. 1330–301, 1330–302, 1330–304, 1330–308; Pub. L. 100–360, title III, §303(c)(2), July 1, 1988, 102 Stat. 762; Pub. L. 101–239, title VIII, §§8009(a), 8010(b), Dec. 19, 1989, 103 Stat. 2463, 2464; Pub. L. 103–66, title XIII, §13735(a), Aug. 10, 1993, 107 Stat. 662; Pub. L. 103–296, title I, §107(a)(4), title II, §§201(b)(3)(A), (B)(i), 204(a), Aug. 15, 1994, 108 Stat. 1478, 1502, 1504, 1508; Pub. L. 104–121, title I, §105(b)(4)(A), Mar. 29, 1996, 110 Stat. 854; Pub. L. 104–193, title I, §108(j), title II, §§201(a), 202(a), (b), 203(a)(1), 204(a), 214(a), Aug. 22, 1996, 110 Stat. 2169, 2185–2187, 2195; Pub. L. 105–33, title V, §§5521, 5522(c), Aug. 5, 1997, 111 Stat. 621, 623; Pub. L. 106–169, title II, §§204, 207(c), 212, Dec. 14, 1999, 113 Stat. 1833, 1838, 1843; Pub. L. 106–170, title IV, §402(a)(3), (c)(1)–(3), Dec. 17, 1999, 113 Stat. 1908, 1909; Pub. L. 108–203, title II, §203(b), title IV, §§433(a), (b), 436(a), Mar. 2, 2004, 118 Stat. 510, 539–541; Pub. L. 113–67, div. A, title II, §204(a)(2), (b)(2), Dec. 26, 2013, 127 Stat. 1179, 1180; Pub. L. 115–123, div. E, title XII, §53118(a), Feb. 9, 2018, 132 Stat. 307.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 501(a) of Public Law 96–422, referred to in subsec. (c)(5), is section 501(a) of Pub. L. 96–422, which is set out as a note under section 1522 of Title 8, Aliens and Nationality.
@@ -308,7 +310,7 @@ Subsec. (e)(3). Pub. L. 105–33, §5522(c)(4), substituted "same medical treatm
 
 Subsec. (e)(6). Pub. L. 105–33, §5521(a), inserted "and section 1306(c) of this title" after "of 1986".
 
-<b>1996</b>—Subsec. (c)(5)(A). Pub. L. 104–193, §108(j), amended subpar. (A) generally. Prior to amendment, subpar.\(A) read as follows: "a State plan approved under part A of subchapter IV of this chapter (relating to aid to families with dependent children),".
+<b>1996</b>—Subsec. (c)(5)(A). Pub. L. 104–193, §108(j), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "a State plan approved under part A of subchapter IV of this chapter (relating to aid to families with dependent children),".
 
 Subsec. (c)(7)(A), (B). Pub. L. 104–193, §204(a), amended subpars. (A) and (B) generally. Prior to amendment, subpars. (A) and (B) read as follows:
 
@@ -400,7 +402,7 @@ Subsec. (e)(1)(D). Pub. L. 98–21, §403(a)(2), added subpar. (D).
 
 Subsec. (c)(2). Pub. L. 97–248, §181(a), in par. (2) redesignated existing provisions as provisions preceding subpar. (A) and subpar. (A), and added subpar. (B).
 
-Subsec. (c)(3) to (6). Pub. L. 97–248, §§181(a), 183(a)(2), (3), struck out par. (3) providing that an applicationshall be effective as of the first day of the month in which it is filed, added par. (3) providing that an application shall be effective on the later of the date it is filed or the date such individual first becomes eligible for such benefits with respect to such application and redesignated such par. (3) as (5), redesignated par. (4) as (6), and added pars. (3) and (4).
+Subsec. (c)(3) to (6). Pub. L. 97–248, §§181(a), 183(a)(2), (3), struck out par. (3) providing that an application shall be effective as of the first day of the month in which it is filed, added par. (3) providing that an application shall be effective on the later of the date it is filed or the date such individual first becomes eligible for such benefits with respect to such application and redesignated such par. (3) as (5), redesignated par. (4) as (6), and added pars. (3) and (4).
 
 <b>1981</b>—Subsec. (c). Pub. L. 97–35 substituted provision that eligibility and benefit amount generally be determined on a one-month retrospective basis, with for the first month of eligibility, the month in which the application is filed, eligibility and benefit amount both determined on a prospective basis for provision that eligibility and benefit amount be determined on a quarterly prospective basis and inserted provision authorizing the Secretary to grant waivers.
 
@@ -433,6 +435,8 @@ Pub. L. 93–66, §210(b), substituted "$2,520" for "$2,340".
 Subsec. (g). Pub. L. 93–233, §18(d), incorporated existing provisions in text designated as cl. (1), added cls. (2) and (3), and substituted final December "1973" for "1972".
 
 Subsec. (h). Pub. L. 93–233, §18(e), incorporated existing text in provisions designated as cls. (1) and (2), added cls. (3) and (4), redesignated former cls. (1) and (2) as items (A) and (B), and in item (A) inserted "under which he or they received such aid or assistance for December 1973".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 
@@ -472,7 +476,7 @@ Pub. L. 104–193, title II, §204(d), Aug. 22, 1996, 110 Stat. 2188, provided t
 
 "(1)
 
-In general.—The amendments made by this section \[amending this section and sections 1382c and 1383 of this title\] shall apply to applications for benefits under title XVI of the Social Security Act \[42 U.S.C. 1381 et seq.\] filed on or after the date of the enactment of this Act \[Aug. 22, 1996\], without regard to whether regulations have been issued to implement such amendments.
+In general.—The amendments made by this section \[amending this section and sections 1382c and 1383 of this title\] shall apply to applications for benefitsunder title XVI of the Social Security Act \[42 U.S.C. 1381 et seq.\] filed on or after the date of the enactment of this Act \[Aug. 22, 1996\], without regard to whether regulations have been issued to implement such amendments.
 
 "(2)
 
@@ -624,7 +628,7 @@ Pub. L. 106–169, title II, §261, Dec. 14, 1999, 113 Stat. 1856, required a st
 
 #### Study of Other Potential Improvements in Collection of Information Respecting Public Inmates
 
-Pub. L. 104–193, title II, §203(b), Aug. 22, 1996, 110 Stat. 2187, required a study on various improvements in thefurnishing of information to the Commissioner by courts and prisons and a report to be submitted no later than 1 year after Aug. 22, 1996.
+Pub. L. 104–193, title II, §203(b), Aug. 22, 1996, 110 Stat. 2187, required a study on various improvements in the furnishing of information to the Commissioner by courts and prisons and a report to be submitted no later than 1 year after Aug. 22, 1996.
 
 #### Additional Report to Congress
 
@@ -672,11 +676,11 @@ Pub. L. 98–21, title IV, §405, Apr. 20, 1983, 97 Stat. 140, provided that: "P
 
 #### Assistance Paid Under Certain Housing Acts Not Considered in Determining Eligibility for Benefits Under This Subchapter; Effective Date
 
-Pub. L. 94–375, §2(h), Aug. 3, 1976, 90 Stat. 1068, provided that: "Notwithstanding any other provision of law, the value of any assistance paid with respect to a dwelling unit under the United States Housing Act of 1937 \[section 1437 et seq. of this title\], the National Housing Act \[section 1701 et seq. of Title 12, Banks and Banking\], section 101 of the Housing and Urban Development Act of 1965 \[section 1701s of Title 12 and sections 1451 and 1465 of this title\], or title V of the Housing Act of 1949 \[section 1471 et seq. of this title\] may not be considered as income or a resource for the purpose of determining the eligibility of, or the amount of the benefits payable to, any person living in such unit for assistance under title XVI of the Social Security Act \[42 U.S.C. 1381 et seq.\]. This subsection shall become effective on October 1, 1976."
+Pub. L. 94–375, §2(h), Aug. 3, 1976, 90 Stat. 1068, provided that: "Notwithstanding any other provision of law, the value of any assistance paid with respect to a dwelling unit under the United States Housing Act of 1937 \[section 1437 et seq. of this title\], the National Housing Act \[section 1701 et seq. of Title 12, Banks and Banking\], section 101 of the Housing and Urban Development Act of 1965 \[section 1701s of Title 12 and sections 1451 and 1465 of this title\], or title V of the Housing Act of 1949 \[section 1471 et seq. of this title\] may not be considered as income or a resource for the purpose of determining the eligibility of, or the amount ofthe benefits payable to, any person living in such unit for assistance under title XVI of the Social Security Act \[42 U.S.C. 1381 et seq.\]. This subsection shall become effective on October 1, 1976."
 
 #### Special $50 Payment Under Tax Reduction Act of 1975
 
-Special payment of $50 as soon as practicable after Mar. 29, 1975, by the Secretary of the Treasury to eachindividual who, for the month of March, 1975, was entitled to a benefit under the supplemental security income benefits program established by this subchapter, see section 702 of Pub. L. 94–12, set out as a note under section 402 of this title.
+Special payment of $50 as soon as practicable after Mar. 29, 1975, by the Secretary of the Treasury to each individual who, for the month of March, 1975, was entitled to a benefit under the supplemental security income benefits program established by this subchapter, see section 702 of Pub. L. 94–12, set out as a note under section 402 of this title.
 
 #### Adjustment of Individual's Monthly Supplemental Security Income Payments; Regulations; Limitations
 
@@ -740,7 +744,7 @@ Pub. L. 93–66, title II, §212, July 9, 1973, 87 Stat. 155, as amended by Pub.
 
 &emsp;"(A) is an aged, blind, or disabled individual (within the meaning of section 1614(a) of the Social Security Act \[42 U.S.C. 1382c(a)\], as enacted by section 301 of the Social Security Amendments of 1972), and
 
-&emsp;"(B) for the month of December 1973 was a recipient of (and was eligible to receive) aid or assistance (in the form of money payments) under a State plan ofsuch State (approved under title I, X, XIV, or XVI, of the Social Security Act \[42 U.S.C. 301 et seq., 1201 et seq., 1351 et seq., 1381 et seq.\])
+&emsp;"(B) for the month of December 1973 was a recipient of (and was eligible to receive) aid or assistance (in the form of money payments) under a State plan of such State (approved under title I, X, XIV, or XVI, of the Social Security Act \[42 U.S.C. 301 et seq., 1201 et seq., 1351 et seq., 1381 et seq.\])
 
 > shall be entitled to receive, from the State, the supplementary payment described in paragraph (3) for each month, beginning with January 1974, and ending with whichever of the following first occurs:
 
@@ -780,7 +784,7 @@ Pub. L. 93–66, title II, §212, July 9, 1973, 87 Stat. 155, as amended by Pub.
 
 "(b)(1) Any State having an agreement with the Commissioner of Social Security under subsection (a) may enter into an administration agreement with the Commissioner of Social Security whereby the Commissioner of Social Security will, on behalf of such State, make the supplementary payments required under the agreement entered into under subsection (a).
 
-"(2) Any such administration agreement between the Commissioner of Social Security and a State entered into under this subsection shall provide that the State will (A) certify to the Commissioner of Social Security the names of each individual who, for December 1973, was a recipient of aid or assistance (in the form of money payments) under a plan of such State approved under title I, X, XIV, or XVI of the Social Security Act \[42 U.S.C. 301 et seq., 1201 et seq., 1351 et seq., 1381 et seq.\], together with the amount of such assistance payable to each such individual and the amount of such individual's December 1973 income (as defined in subsection (a)(3)(B)), and (B) provide the Commissioner of Social Security with such additional data at such times as the Commissioner of Social Security may reasonably require in order properly, economically, and efficiently to carry out such administration agreement.
+"(2) Any such administration agreement between the Commissioner of Social Security and a State entered into under this subsection shall provide that the State will (A) certify to the Commissioner of Social Securitythe names of each individual who, for December 1973, was a recipient of aid or assistance (in the form of money payments) under a plan of such State approved under title I, X, XIV, or XVI of the Social Security Act \[42 U.S.C. 301 et seq., 1201 et seq., 1351 et seq., 1381 et seq.\], together with the amount of such assistance payable to each such individual and the amount of such individual's December 1973 income (as defined in subsection (a)(3)(B)), and (B) provide the Commissioner of Social Security with such additional data at such times as the Commissioner of Social Security may reasonably require in order properly, economically, and efficiently to carry out such administration agreement.
 
 "(3)(A) Any State which has entered into an administration agreement under this subsection shall, in accordance with subparagraph (E), pay to the Commissioner of Social Security an amount equal to the expenditures made by the Commissioner of Social Security as supplementary payments to individuals entitled thereto under the agreement entered into with such State under subsection (a), plus an administration fee assessed in accordance with subparagraph (B) and any additional services fee charged in accordance with subparagraph (C).
 
@@ -848,7 +852,7 @@ Pub. L. 93–66, title II, §212, July 9, 1973, 87 Stat. 155, as amended by Pub.
 
 &emsp;"(2) supplementary benefits are payable, to individuals described in subsection (a)(2)(A) and (B) at a level and under terms and conditions which meet the minimum requirements specified in subsection (a).
 
-"(e) Except as the Commissioner of Social Security may by regulations otherwise provide, the provisions of title XVI of the Social Security Act \[42 U.S.C. 1381 et seq.\] (as enacted by section 301 of the Social Security Amendments of 1972), including the provisions of part B of such title \[42 U.S.C. 1383 et seq.\], relating to the terms and conditions under which the benefits authorized by such title \[42 U.S.C. 1381 et seq.\] are payable shall, where not inconsistent with the purposes of this section, be applicable to the payments made under an agreement under subsection (b) of this section; and the authority conferred upon the Commissioner of Social Security by such title \[42 U.S.C. 1381 et seq.\] may, where appropriate, be exercised by him in the administration of this section.
+"(e) Except as the Commissioner of Social Security may by regulations otherwise provide, the provisions of title XVI of the Social Security Act \[42 U.S.C. 1381 et seq.\] (as enacted by section 301 of the Social Security Amendments of 1972), including the provisions of part B of such title \[42 U.S.C. 1383 et seq.\], relating to the terms and conditions under which the benefits authorized by such title \[42 U.S.C. 1381 et seq.\] are payableshall, where not inconsistent with the purposes of this section, be applicable to the payments made under an agreement under subsection (b) of this section; and the authority conferred upon the Commissioner of Social Security by such title \[42 U.S.C. 1381 et seq.\] may, where appropriate, be exercised by him in the administration of this section.
 
 "(f) The provisions of subsection (a)(1) shall not be applicable in the case of any State—
 
@@ -906,7 +910,7 @@ A State plan for aid to the aged, blind, or disabled, must—
 
 &emsp;(14) provide that the State agency shall, in determining need for aid to the aged, blind, or disabled, take into consideration any other income and resources of an individual claiming such aid, as well as any expenses reasonably attributable to the earning of any such income; except that, in making such determination with respect to any individual—
 
-&emsp;&emsp;(A) if such individual is blind, the State agency (i) shall disregard the first $85 per month of earned income plus one-half of earned income in excess of $85 per month, and (ii) shall, for a period not in excess of 12 months, and may, for a period not in excess of 36 months, disregard such additional amounts of other income and resources, in the case of any such individual who has a plan for achieving self-supportapproved by the State agency, as may be necessary for the fulfillment of such plan,
+&emsp;&emsp;(A) if such individual is blind, the State agency (i) shall disregard the first $85 per month of earned income plus one-half of earned income in excess of $85 per month, and (ii) shall, for a period not in excess of 12 months, and may, for a period not in excess of 36 months, disregard such additional amounts of other income and resources, in the case of any such individual who has a plan for achieving self-support approved by the State agency, as may be necessary for the fulfillment of such plan,
 
 &emsp;&emsp;(B) if such individual is not blind but is permanently and totally disabled, (i) of the first $80 per month of earned income, the State agency may disregard not more than the first $20 thereof plus one-half of the remainder, and (ii) the State agency may, for a period not in excess of 36 months, disregard such additional amounts of other income and resources, in the case of any such individual who has a plan for achieving self-support approved by the State agency, as may be necessary for the fulfillment of such plan, but only with respect to the part or parts of such period during substantially all of which he is actually undergoing vocational rehabilitation,
 

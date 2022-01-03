@@ -18,9 +18,13 @@ As used in this chapter, unless otherwise provided or indicated by the context�
 
 (Pub. L. 96–88, title I, §104, Oct. 17, 1979, 93 Stat. 671; Pub. L. 101–509, title V, §529 \[title I, §112(a)(3)(A)\], Nov. 5, 1990, 104 Stat. 1427, 1454.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Par. (3). Pub. L. 101–509 substituted "Deputy Secretary" for "Under Secretary" in two places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment; Continued Service by Incumbents
 
@@ -39,6 +43,8 @@ Pub. L. 101–509, title V, §529 \[title I, §112(e)\], Nov. 5, 1990, 104 Stat.
 #### Construction of References
 
 Pub. L. 101–509, title V, §529 \[title I, §112(c)\], Nov. 5, 1990, 104 Stat. 1427, 1454, provided that: "Any reference in any statute, reorganization plan, regulation, executive order, or any document issued pursuant thereto in force on the date this section takes effect \[see Effective Date of 1990 Amendment; Continued Service by Incumbents note above\] to the Under Secretary of Health and Human Services, the Under Secretary of the Interior, the Under Secretary of Education, or the Under Secretary of Housing and Urban Development shall be deemed to be a reference to the Deputy Secretary of Health and Human Services, the Deputy Secretary of the Interior, the Deputy Secretary of Education, or the Deputy Secretary of Housing and Urban Development, respectively."
+
+#### <b>Executive Documents</b>
 
 #### Termination of Trust Territory of the Pacific Islands
 

@@ -38,11 +38,11 @@ Unless otherwise directed by the President, the Director of National Intelligenc
 
 (4) The Director of National Intelligence shall ensure the effective execution of the annual budget for intelligence and intelligence-related activities.
 
-(5)(A) The Director of National Intelligence shall be responsible for managing appropriations for the National Intelligence Program by directing the allotment or allocation of such appropriations through the heads of the departments containing agencies or organizations within the intelligence community and the Director of the Central Intelligence Agency, with prior notice (including the provision of appropriate supporting information) to the head of the department containing an agency or organization receiving any such allocation or allotment or the Director of the Central Intelligence Agency.
+(5)(A) The Director of National Intelligence shall be responsible for managing appropriations for the National Intelligence Program by directing the allotment or allocation of such appropriations through the heads of the departmentscontaining agencies or organizations within the intelligence community and the Director of the Central Intelligence Agency, with prior notice (including the provision of appropriate supporting information) to the head of the department containing an agency or organization receiving any such allocation or allotment or the Director of the Central Intelligence Agency.
 
 (B) Notwithstanding any other provision of law, pursuant to relevant appropriations Acts for the National Intelligence Program, the Director of the Office of Management and Budget shall exercise the authority of the Director of the Office of Management and Budget to apportion funds, at the exclusive direction of the Director of National Intelligence, for allocation to the elements of the intelligence community through the relevant host executive departments and the Central Intelligence Agency. Department comptrollers or appropriate budget execution officers shall allot, allocate, reprogram, or transfer funds appropriated for the National Intelligence Program in an expeditious manner.
 
-(C) The Director of National Intelligence shall monitor the implementation and execution of the National Intelligence Program by the heads of the elements of the intelligence community that manage programs and activities that arepart of the National Intelligence Program, which may include audits and evaluations.
+(C) The Director of National Intelligence shall monitor the implementation and execution of the National Intelligence Program by the heads of the elements of the intelligence community that manage programs and activities that are part of the National Intelligence Program, which may include audits and evaluations.
 
 (6) Apportionment and allotment of funds under this subsection shall be subject to chapter 13 and section 1517 of title 31 and the Congressional Budget and Impoundment Control Act of 1974 (2 U.S.C. 621 et seq.).
 
@@ -152,7 +152,7 @@ Unless otherwise directed by the President, the Director of National Intelligenc
 
 &emsp;(B) both the Office of the Director of National Intelligence and any analytic centers determined to be necessary should be fully and properly supported with appropriate levels of personnel resources and that the President's yearly budget requests adequately support those needs; and
 
-&emsp;(C) the President should utilize all legal and administrative discretion to ensure that the Director of National Intelligence and all other elements of the intelligence community have the necessary resources and procedures to respond promptly and effectively to emerging and unforeseen national security challenges.
+&emsp;(C) the President should utilize all legal and administrative discretion to ensure that the Director of National Intelligence and all other elements of the intelligence community havethe necessary resources and procedures to respond promptly and effectively to emerging and unforeseen national security challenges.
 
 #### (f) Tasking and other authorities
 
@@ -330,7 +330,7 @@ Under the direction of the President and in a manner consistent with section 392
 
 &emsp;(ii) shall be implemented in a manner that exempts employees of an office of inspector general from a rotation that may impact the independence of such office.
 
-(4)(A) Except as provided in subparagraph (B) and subparagraph (D), this subsection shall not apply with respect to personnel of the elements of the intelligence community who are members of the uniformed services.
+(4)(A) Except as provided in subparagraph (B) and subparagraph (D), this subsection shall notapply with respect to personnel of the elements of the intelligence community who are members of the uniformed services.
 
 (B) Mechanisms that establish requirements for education and training pursuant to paragraph (3)(B)(iii) may apply with respect to members of the uniformed services who are assigned to an element of the intelligence community funded through the National Intelligence Program, but such mechanisms shall not be inconsistent with personnel policies and education and training requirements otherwise applicable to members of the uniformed services.
 
@@ -382,7 +382,7 @@ Under the direction of the President and in a manner consistent with section 392
 
 (C) A request and authorization to exercise an authority referred to in subparagraph (A) may be made with respect to an individual acquisition or with respect to a specific class of acquisitions described in the request and authorization referred to in subparagraph (B).
 
-(D)(i) A request from a head of an element of the intelligence community located within one of the departments described in clause (ii) to exercise an authority referred to in subparagraph (A) shall be submitted to the Director of National Intelligence in accordance with any procedures established by the head of such department.
+(D)(i) A request from a head of an element of the intelligence community located within oneof the departments described in clause (ii) to exercise an authority referred to in subparagraph (A) shall be submitted to the Director of National Intelligence in accordance with any procedures established by the head of such department.
 
 (ii) The departments described in this clause are the Department of Defense, the Department of Energy, the Department of Homeland Security, the Department of Justice, the Department of State, and the Department of the Treasury.
 
@@ -496,7 +496,7 @@ The Director of National Intelligence, in consultation with the head of each dep
 
 &emsp;(1) ensure that—
 
-&emsp;&emsp;(A) any contractor to an element of the intelligence community with access to a classified network or classified information develops and operates a security plan that is consistent with standards established by theDirector of National Intelligence for intelligence community networks; and
+&emsp;&emsp;(A) any contractor to an element of the intelligence community with access to a classified network or classified information develops and operates a security plan that is consistent with standards established by the Director of National Intelligence for intelligence community networks; and
 
 &emsp;&emsp;(B) each contract awarded by an element of the intelligence community includes provisions requiring the contractor comply with such plan and such standards;
 
@@ -530,6 +530,8 @@ The Director of National Intelligence, in consultation with the head of each dep
 
 (July 26, 1947, ch. 343, title I, §102A, as added Pub. L. 108–458, title I, §1011(a), Dec. 17, 2004, 118 Stat. 3644; amended Pub. L. 111–258, §5(a), Oct. 7, 2010, 124 Stat. 2650; Pub. L. 111–259, title III, §§303, 304, 306, 307, 326, title IV, §§401, 402(a), title VIII, §804(2), Oct. 7, 2010, 124 Stat. 2658, 2659, 2661, 2662, 2683, 2708, 2747; Pub. L. 112–87, title III, §§304, 305, 311(d), Jan. 3, 2012, 125 Stat. 1880, 1881, 1886; Pub. L. 113–126, title III, §329(b)(2), title V, §§501, 502(a), July 7, 2014, 128 Stat. 1406, 1411, 1412; Pub. L. 114–113, div. M, title I, §105(a), title VII, §701(c)(1), Dec. 18, 2015, 129 Stat. 2912, 2929; Pub. L. 115–31, div. N, title III, §§303(a), 309(b), title IV, §§401(c), 402, May 5, 2017, 131 Stat. 810, 815, 818, 820; Pub. L. 116–92, div. E, title LIII, §5305, title LXVII, §6742(b)(1), Dec. 20, 2019, 133 Stat. 2122, 2239.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Congressional Budget and Impoundment Control Act of 1974, referred to in subsec. (c)(6), is Pub. L. 93–344, July 12, 1974, 88 Stat. 297. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2, The Congress, and Tables.
@@ -552,7 +554,7 @@ In subsec. (q)(4)(B), "section 109 of title 41" substituted for "section 4(9) of
 
 #### Prior Provisions
 
-A prior section 102A of act July 26, 1947, ch. 343, title I, as added Pub. L. 104–293, title VIII, §805(b), Oct. 11,1996, 110 Stat. 3479, provided there is a Central Intelligence Agency and described its function prior to repeal by Pub. L. 108–458, title I, §§1011(a), 1097(a), Dec. 17, 2004, 118 Stat. 3643, 3698, effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided. See section 3035 of this title.
+A prior section 102A of act July 26, 1947, ch. 343, title I, as added Pub. L. 104–293, title VIII, §805(b), Oct. 11, 1996, 110 Stat. 3479, provided there is a Central Intelligence Agency and described its function prior to repeal by Pub. L. 108–458, title I, §§1011(a), 1097(a), Dec. 17, 2004, 118 Stat. 3643, 3698, effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided. See section 3035 of this title.
 
 Another prior section 102a of act July 26, 1947, ch. 343, title I, as added Pub. L. 98–215, title IV, §403, Dec. 9, 1983, 97 Stat. 1477, related to appointment of Director of the Intelligence Community Staff prior to repeal by Pub. L. 102–496, title VII, §705(a)(1), Oct. 24, 1992, 106 Stat. 3190.
 
@@ -616,6 +618,8 @@ Subsec. (n)(4). Pub. L. 111–259, §326, added par. (4).
 
 Subsecs. (s) to (u). Pub. L. 111–259, §§303, 304, 307, added subsecs. (s) to (u).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
 Pub. L. 114–113, div. M, title I, §105(b), Dec. 18, 2015, 129 Stat. 2912, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to an appointment under section 102A(v) of the National Security Act of 1947 (50 U.S.C. 3024(v)) made on or after the date of the enactment of the Intelligence Authorization Act for Fiscal Year 2012 (Public Law 112–87) \[Jan. 3, 2012\] and to any proceeding pending on or filed after the date of the enactment of this section \[Dec. 18, 2015\] that relates to such an appointment."
@@ -626,7 +630,7 @@ Pub. L. 113–126, title V, §502(b), July 7, 2014, 128 Stat. 1412, provided tha
 
 #### Effective Date
 
-For Determination by President that section take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of this title.
+For Determination by President that section take effect on Apr. 21, 2005, see Memorandum of President ofthe United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of this title.
 
 Section effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 3001 of this title.
 
@@ -748,7 +752,7 @@ Director of national intelligence.—The Director of National Intelligence shall
 
 &emsp;&emsp;"(D) Acting as an arbiter among elements of the intelligence community related to any disagreements arising out of the implementation of such environment.
 
-&emsp;&emsp;"(E) Delegating responsibilities to the elements of the intelligence community and carrying out such other responsibilities as are necessary for the effective implementation of such environment.
+&emsp;&emsp;"(E) Delegating responsibilities to the elements of the intelligence community and carrying outsuch other responsibilities as are necessary for the effective implementation of such environment.
 
 &emsp;"(2)
 
@@ -1072,7 +1076,7 @@ Pub. L. 108–458, title I, §1017, Dec. 17, 2004, 118 Stat. 3670, provided that
 
 "(a)
 
-In General.—Not later than 180 days after the effective date of this Act \[probably means the effective date of title I of Pub. L. 108–458, see Effective Date of 2004 Amendment; Transition Provisions note set out under section 3001 of this title\], the Director of National Intelligence shall establish a process and assign an individual or entity the responsibility for ensuring that, as appropriate, elements of the intelligence community conduct alternative analysis (commonly referred to as 'red-team analysis') of the information and conclusions in intelligence products.
+In General.—Not later than 180 days after the effective date of this Act \[probably means the effective date of title I of Pub. L. 108–458, see Effective Date of2004 Amendment; Transition Provisions note set out under section 3001 of this title\], the Director of National Intelligence shall establish a process and assign an individual or entity the responsibility for ensuring that, as appropriate, elements of the intelligence community conduct alternative analysis (commonly referred to as 'red-team analysis') of the information and conclusions in intelligence products.
 
 "(b)
 
@@ -1100,7 +1104,7 @@ In General.—The Director of National Intelligence shall establish a formal rel
 
 "(b)
 
-Purpose.—The purpose of the relationship under subsection (a) shall be to permit the intelligence community to take full advantage of the capabilities of theNational Infrastructure Simulation and Analysis Center, particularly vulnerability and consequence analysis, for real time response to reported threats and long term planning for projected threats."
+Purpose.—The purpose of the relationship under subsection (a) shall be to permit the intelligence community to take full advantage of the capabilities of the National Infrastructure Simulation and Analysis Center, particularly vulnerability and consequence analysis, for real time response to reported threats and long term planning for projected threats."
 
 #### Pilot Program on Analysis of Signals and Other Intelligence by Intelligence Analysts of Various Elements of the Intelligence Community
 
@@ -1175,6 +1179,8 @@ Pub. L. 104–293, §807(c), Oct. 11, 1996, 110 Stat. 3480, provided that: "Not 
 Pub. L. 104–293, title VIII, §807(d), Oct. 11, 1996, 110 Stat. 3481, provided that: "Not later than January 1, 1999, the Director of Central Intelligence and the Secretary of Defense shall develop and implement a database to provide timely and accurate information on the amounts, purposes, and status of the resources, including periodic budget execution updates, for all national, defense-wide, and tactical intelligence activities."
 
 \[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of this title.\]
+
+#### <b>Executive Documents</b>
 
 #### Establishment of the Cyber Threat Intelligence Integration Center
 

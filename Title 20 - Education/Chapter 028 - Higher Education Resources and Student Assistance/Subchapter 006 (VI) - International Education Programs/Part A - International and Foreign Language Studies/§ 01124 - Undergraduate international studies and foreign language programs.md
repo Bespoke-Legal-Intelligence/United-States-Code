@@ -62,7 +62,7 @@
 
 &emsp;&emsp;(A) may be provided in cash from the private sector corporations or foundations in an amount equal to one-third of the total cost of the programs assisted under this section; or
 
-&emsp;&emsp;(B) may be provided as an in-cash or in-kind contribution from institutional andnoninstitutional funds, including State and private sector corporation or foundation contributions, equal to one-half of the total cost of the programs assisted under this section.
+&emsp;&emsp;(B) may be provided as an in-cash or in-kind contribution from institutional and noninstitutional funds, including State and private sector corporation or foundation contributions, equal to one-half of the total cost of the programs assisted under this section.
 
 #### (4) Special rule
 
@@ -118,6 +118,8 @@ The Secretary may also award grants to public and private nonprofit agencies and
 
 (Pub. L. 89–329, title VI, §604, as added Pub. L. 105–244, title VI, §601, Oct. 7, 1998, 112 Stat. 1778; amended Pub. L. 110–315, title VI, §§604, 610(a), Aug. 14, 2008, 122 Stat. 3336, 3338; Pub. L. 111–39, title VI, §601(a)(1), July 1, 2009, 123 Stat. 1953.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1124, Pub. L. 89–329, title VI, §604, as added Pub. L. 96–374, title VI, §601(a), Oct. 3, 1980, 94 Stat. 1466; amended Pub. L. 99–498, title VI, §604, Oct. 17, 1986, 100 Stat. 1516; Pub. L. 102–325, title VI, §601, July 23, 1992, 106 Stat. 722, authorized grants for undergraduate international studies and foreign language programs, prior to the general amendment of this part by Pub. L. 105–244.
@@ -147,6 +149,8 @@ Subsec. (a)(6). Pub. L. 110–315, §604(4), inserted "reflect the purposes of t
 Subsec. (a)(7)(E) to (G). Pub. L. 110–315, §604(5), added subpars. (E) to (G).
 
 Subsec. (c). Pub. L. 110–315, §604(6), designated existing provisions as par. (1), inserted heading, substituted "20 percent" for "10 percent", and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

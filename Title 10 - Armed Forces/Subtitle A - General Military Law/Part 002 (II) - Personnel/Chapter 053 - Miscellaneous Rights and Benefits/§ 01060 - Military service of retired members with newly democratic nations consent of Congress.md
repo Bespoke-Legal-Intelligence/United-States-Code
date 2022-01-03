@@ -32,6 +32,8 @@ Civil Employment by Foreign Governments.—For a provision of law providing the 
 
 (Added Pub. L. 103–160, div. A, title XIV, §1433(b)(1), Nov. 30, 1993, 107 Stat. 1834, §1058; renumbered §1060, Pub. L. 103–337, div. A, title X, §1070(a)(6)(A), Oct. 5, 1994, 108 Stat. 2855; amended Pub. L. 104–106, div. A, title XV, §1502(a)(13), Feb. 10, 1996, 110 Stat. 503; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1031(a)(9), Nov. 24, 2003, 117 Stat. 1597.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2003</b>—Subsec. (d). Pub. L. 108–136 struck out heading and text of subsec. (d). Text read as follows: "The Secretary concerned and the Secretary of State shall notify the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on Armed Services and the Committee on International Relations of the House of Representatives of each approval under subsection (b) and each determination under subsection (c)."
@@ -42,13 +44,15 @@ Civil Employment by Foreign Governments.—For a provision of law providing the 
 
 <b>1994</b>—Pub. L. 103–337 renumbered section 1058 of this title as this section.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Pub. L. 103–160, div. A, title XIV, §1433(d), Nov. 30, 1993, 107 Stat. 1835, provided that this section was to take effect as of Jan. 1, 1993, prior to repeal by Pub. L. 103–236, title I, §182(b), Apr. 30, 1994, 108 Stat. 418.
 
 #### Restoration of Withheld Benefits
 
-Pub. L. 103–236, title I, §182(a), Apr. 30, 1994, 108 Stat. 418, as amended by Pub. L. 103–337, div. A, title X, §1070(d)(7), Oct. 5, 1994, 108 Stat. 2858; Pub. L. 103–415, §1(j), Oct. 25, 1994, 108 Stat. 4301, provided that: "With respect to any person for which the Secretary of State and the Secretary concerned within the Department of Defense have approved the employment or the holding of a position pursuant to the provisions of section 1060 of title 10, United States Code, before April 30, 1994, the consents, approvals and determinations under that section shall be deemed to be effective as of January 1, 1993."
+Pub. L. 103–236, title I, §182(a), Apr. 30, 1994, 108 Stat. 418, as amended by Pub. L. 103–337, div. A, title X, §1070(d)(7), Oct. 5, 1994, 108 Stat. 2858; Pub. L. 103–415, §1(j), Oct. 25, 1994, 108 Stat. 4301, provided that: "With respect to any person for which the Secretary of State and the Secretary concerned within the Department of Defense have approved the employment or the holdingof a position pursuant to the provisions of section 1060 of title 10, United States Code, before April 30, 1994, the consents, approvals and determinations under that section shall be deemed to be effective as of January 1, 1993."
 
 #### Congressional Findings
 

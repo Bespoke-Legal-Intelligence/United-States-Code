@@ -10,6 +10,8 @@ The provisions of section 218c <sup>1</sup> of title 29 (relating to non-discri
 
 (July 1, 1944, ch. 373, title XXVII, §2706, as added Pub. L. 111–148, title I, §1201(4), Mar. 23, 2010, 124 Stat. 160.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 218c of title 29, referred to in subsec. (b), was in the original "section 1558 of the Patient Protection and Affordable Care Act", meaning section 1558 of Pub. L. 111–148, and was translated as meaning section 18C of act June 25, 1938, ch. 676, which was added by section 1558 of Pub. L. 111–148, to reflect the probable intent of Congress.
@@ -22,13 +24,15 @@ A prior section 2706 of act July 1, 1944, was renumbered section 2727 and is cla
 
 Another prior section 2706 of act July 1, 1944, was successively renumbered by subsequent acts and transferred, see section 238e of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective for plan years beginning on or after Jan. 1, 2014, see section 1255 of Pub. L. 111–148, set out as a note under section 300gg of this title.
 
 #### Implementing Protections Against Provider Discrimination
 
-Pub. L. 116–260, div. BB, title I, §108, Dec. 27, 2020, 134 Stat. 2859, provided that: "Not later than January 1,2022, the Secretary of Health and Human Services, the Secretary of Labor, and the Secretary of the Treasury shall issue a proposed rule implementing the protections of section 2706(a) of the Public Health Service Act (42 U.S.C. 300gg–5(a)). The Secretaries shall accept and consider public comments on any proposed rule issued pursuant to this subsection for a period of 60 days after the date of such issuance. Not later than 6 months after the date of the conclusion of the comment period, the Secretaries shall issue a final rule implementing the protections of section 2706(a) of the Public Health Service Act (42 U.S.C. 300gg–5(a))."
+Pub. L. 116–260, div. BB, title I, §108, Dec. 27, 2020, 134 Stat. 2859, provided that: "Not later than January 1, 2022, the Secretary of Health and Human Services, the Secretary of Labor, and the Secretary of the Treasury shall issue a proposed rule implementing the protections of section 2706(a) of the Public Health Service Act (42 U.S.C. 300gg–5(a)). The Secretaries shall accept andconsider public comments on any proposed rule issued pursuant to this subsection for a period of 60 days after the date of such issuance. Not later than 6 months after the date of the conclusion of the comment period, the Secretaries shall issue a final rule implementing the protections of section 2706(a) of the Public Health Service Act (42 U.S.C. 300gg–5(a))."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

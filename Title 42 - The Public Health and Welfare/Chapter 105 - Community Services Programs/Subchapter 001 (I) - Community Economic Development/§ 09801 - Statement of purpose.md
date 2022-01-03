@@ -4,9 +4,11 @@ The purpose of this subchapter is to encourage the development of special progra
 
 (Pub. L. 97–35, title VI, §612, Aug. 13, 1981, 95 Stat. 489.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title of 2014 Amendment
 
-Pub. L. 113–186, §1, Nov. 19, 2014, 128 Stat. 1971, provided that: "This Act \[enacting sections 9858f and 9858r of this title and amending sections 9858, 9858b to 9858e, 9858g, 9858i, 9858j, and 9858m to 9858o of this title andprovisions set out as notes under this section and section 9858 of this title\] may be cited as the 'Child Care and Development Block Grant Act of 2014'."
+Pub. L. 113–186, §1, Nov. 19, 2014, 128 Stat. 1971, provided that: "This Act \[enacting sections 9858f and 9858r of this title and amending sections 9858, 9858b to 9858e, 9858g, 9858i, 9858j, and 9858m to 9858o of this title and provisions set out as notes under this section and section 9858 of this title\] may be cited as the 'Child Care and Development Block Grant Act of 2014'."
 
 #### Short Title of 2007 Amendment
 
@@ -36,7 +38,7 @@ Pub. L. 102–401, §1, Oct. 7, 1992, 106 Stat. 1956, provided that: "This Act \
 
 Pub. L. 101–501, §1(a), Nov. 3, 1990, 104 Stat. 1222, provided that: "This Act \[see Tables for classification\] may be cited as the 'Augustus F. Hawkins Human Services Reauthorization Act of 1990'."
 
-Pub. L. 101–501, title I, §101, Nov. 3, 1990, 104 Stat. 1224, provided that: "This subtitle \[subtitle A (§§101–123) of title I of Pub. L. 101–501, enacting sections 9835a and 9846a of this title and amending sections 9831, 9832, 9834, 9835, 9836 to 9841, 9843 to 9846, 9847, and 9848 of this title\] may be cited as the 'Head Start Expansion and Quality Improvement Act'."
+Pub. L. 101–501, title I, §101, Nov. 3, 1990, 104 Stat. 1224, provided that: "This subtitle \[subtitle A (§§101–123) of title I of Pub. L. 101–501, enacting sections 9835a and 9846a of this title and amending sections 9831, 9832, 9834, 9835, 9836 to 9841, 9843 to 9846, 9847, and 9848 ofthis title\] may be cited as the 'Head Start Expansion and Quality Improvement Act'."
 
 Pub. L. 101–501, title I, §131, Nov. 3, 1990, 104 Stat. 1238, provided that subtitle B (§§131–140) of title I of Pub. L. 101–501, enacting subchapter II–A of this chapter and amending section 9834 of this title, could be cited as the "Head Start Transition Project Act", prior to repeal by Pub. L. 105–285, title I, §119, Oct. 27, 1998, 112 Stat. 2728.
 
@@ -64,7 +66,7 @@ Pub. L. 97–35, title VI, §635, Aug. 13, 1981, 95 Stat. 499, provided that: "T
 
 Pub. L. 97–35, title VI, subtitle A, ch. 8, subch. C, §658A(a), as added by Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236, and amended by Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 104–193, title VI, §602(2), Aug. 22, 1996, 110 Stat. 2279; Pub. L. 113–186, §2, Nov. 19, 2014, 128 Stat. 1971, which provided that subchapter II–B of this chapter could be cited as the "Child Care and Development Block Grant Act of 1990" and was formerly set out as a note under this section, was transferred to section 9857(a) of this title.
 
-Pub. L. 97–35, title VI, subtitle A, ch. 8, subch. D, §661, formerly subch. C, §661, Aug. 13, 1981, 95 Stat. 508, as renumbered by Pub. L. 101–508, title V, §5082(1), Nov. 5, 1990, 104 Stat. 1388–236, and amended by Pub. L. 102–401,§3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036, provided that former subchapter III of this chapter could be cited as the "Follow Through Act", prior to repeal by Pub. L. 103–382, title III, §391(w), Oct. 20, 1994, 108 Stat. 4025.
+Pub. L. 97–35, title VI, subtitle A, ch. 8, subch. D, §661, formerly subch. C, §661, Aug. 13, 1981, 95 Stat. 508, as renumbered by Pub. L. 101–508, title V, §5082(1), Nov. 5, 1990, 104 Stat. 1388–236, and amended by Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036, provided that former subchapter III of this chapter could be cited as the "Follow Through Act", prior to repeal by Pub. L. 103–382, title III, §391(w), Oct. 20, 1994, 108 Stat. 4025.
 
 Pub. L. 97–35, title VI, subtitle A, ch. 8, subch. E, §670H, formerly subch. D, §670H, as added by Pub. L. 99–425, title III, §304, Sept. 30, 1986, 100 Stat. 968, renumbered by Pub. L. 101–508, title V, §5082(1), Nov. 5, 1990, 104 Stat. 1388–236, and amended by Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036, provided that: "This subchapter \[subchapter E (§§670A–670H), formerly subchapter D, of chapter 8 of subtitle A of title VI of Pub. L. 97–35, enacting subchapter IV of this chapter\] may be cited as the 'State Dependent Care Development Grants Act'."
 

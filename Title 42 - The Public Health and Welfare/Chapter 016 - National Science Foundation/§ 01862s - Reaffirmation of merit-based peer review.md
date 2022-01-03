@@ -26,9 +26,13 @@ If after January 6, 2017, a change is made to the merit-review process, the Dire
 
 (Pub. L. 114–329, title I, §101, Jan. 6, 2017, 130 Stat. 2970.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the American Innovation and Competitiveness Act, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

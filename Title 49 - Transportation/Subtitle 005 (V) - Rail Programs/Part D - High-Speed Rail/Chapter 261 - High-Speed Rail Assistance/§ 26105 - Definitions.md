@@ -22,6 +22,8 @@ For purposes of this chapter—
 
 (Added Pub. L. 103–440, title I, §103(a)(2), Nov. 2, 1994, 108 Stat. 4618; amended Pub. L. 105–178, title VII, §7201(b), June 9, 1998, 112 Stat. 470; Pub. L. 109–59, title IX, §9001(c), Aug. 10, 2005, 119 Stat. 1919.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Par. (1). Pub. L. 109–59 substituted ", cooperative agreements, and other transactions" for "and cooperative agreements".

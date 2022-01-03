@@ -34,7 +34,7 @@ A security may be registered on a national securities exchange by the issuer fil
 
 &emsp;&emsp;(L) any further financial statements which the Commission may deem necessary or appropriate for the protection of investors.
 
-&emsp;(2) Such copies of articles of incorporation, bylaws, trust indentures, or correspondingdocuments by whatever name known, underwriting arrangements, and other similar documents of, and voting trust agreements with respect to, the issuer and any person directly or indirectly controlling or controlled by, or under direct or indirect common control with, the issuer as the Commission may require as necessary or appropriate for the proper protection of investors and to insure fair dealing in the security.
+&emsp;(2) Such copies of articles of incorporation, bylaws, trust indentures, or corresponding documents by whatever name known, underwriting arrangements, and other similar documents of, and voting trust agreements with respect to, the issuer and any person directly or indirectly controlling or controlled by, or under direct or indirect common control with, the issuer as the Commission may require as necessary or appropriate for the proper protection of investors and to insure fair dealing in the security.
 
 &emsp;(3) Such copies of material contracts, referred to in paragraph (1)(I) above, as the Commission may require as necessary or appropriate for the proper protection of investors and to insure fair dealing in the security.
 
@@ -102,11 +102,11 @@ Notwithstanding the foregoing provisions of this section, the Commission may by 
 
 (3) Notwithstanding paragraph (2), the Commission shall by rules and regulations suspend unlisted trading privileges in whole or in part for any or all classes of securities for a period not exceeding twelve months, if it deems such suspension necessary or appropriate in the public interest or for the protection of investors or to prevent evasion of the purposes of this chapter.
 
-(4) On the application of the issuer of any security for which unlisted trading privileges on any exchange have been continued or extended pursuant to this subsection, or of any broker or dealer who makes or creates a market for such security, or of any other person having a bona fide interest in the question of termination or suspension of such unlisted trading privileges, or on its own motion, the Commission shall by order terminate, or suspend for a period not exceeding twelve months, such unlisted trading privileges for such security if the Commission finds, after appropriate notice and opportunity for hearing, that such termination or suspension is necessary or appropriate in the public interest or for the protection of investors.
+(4) On the application of the issuer of any security for which unlisted trading privileges on any exchange have been continued or extended pursuant to this subsection, or of any broker or dealer who makes or creates a market for such security, or of any other person having a bona fide interest in the question of termination orsuspension of such unlisted trading privileges, or on its own motion, the Commission shall by order terminate, or suspend for a period not exceeding twelve months, such unlisted trading privileges for such security if the Commission finds, after appropriate notice and opportunity for hearing, that such termination or suspension is necessary or appropriate in the public interest or for the protection of investors.
 
 (5) In any proceeding under this subsection in which appropriate notice and opportunity for hearing are required, notice of not less than ten days to the applicant in such proceeding, to the issuer of the security involved, to the exchange which is seeking to continue or extend or has continued or extended unlisted trading privileges for such security, and to the exchange, if any, on which such security is listed and registered, shall be deemed adequate notice, and any broker or dealer who makes or creates a market for such security, and any other person having a bona fide interest in such proceeding, shall upon application be entitled to be heard.
 
-(6) Any security for which unlisted trading privileges are continued or extended pursuant tothis subsection shall be deemed to be registered on a national securities exchange within the meaning of this chapter. The powers and duties of the Commission under this chapter shall be applicable to the rules of an exchange in respect of any such security. The Commission may, by such rules and regulations as it deems necessary or appropriate in the public interest or for the protection of investors, either unconditionally or upon specified terms and conditions, or for stated periods, exempt such securities from the operation of any provision of section 78m, 78n, or 78p of this title.
+(6) Any security for which unlisted trading privileges are continued or extended pursuant to this subsection shall be deemed to be registered on a national securities exchange within the meaning of this chapter. The powers and duties of the Commission under this chapter shall be applicable to the rules of an exchange in respect of any such security. The Commission may, by such rules and regulations as it deems necessary or appropriate in the public interest or for the protection of investors, either unconditionally or upon specified terms and conditions, or for stated periods, exempt such securities from the operation of any provision of section 78m, 78n, or 78p of this title.
 
 #### (g) Registration of securities by issuer; exemptions
 
@@ -144,7 +144,7 @@ Notwithstanding the foregoing provisions of this section, the Commission may by 
 
 &emsp;&emsp;(iii) After July 1, 1966, the purchase and sales of securities issued by such insurance company by beneficial owners, directors, or officers of such company are subject to regulation (including reporting) by its domiciliary State substantially in the manner provided in section 78p of this title.
 
-&emsp;(H) any interest or participation in any collective trust funds maintained by a bank or in a separate account maintained by an insurance company which interest or participation is issued in connection with (i) a stock-bonus, pension, or profit-sharing plan which meets the requirements for qualification under section 401 of title 26, (ii) an annuity plan whichmeets the requirements for deduction of the employer's contribution under section 404(a)(2) of title 26, or (iii) a church plan, company, or account that is excluded from the definition of an investment company under section 80a–3(c)(14) of this title.
+&emsp;(H) any interest or participation in any collective trust funds maintained by a bank or in a separate account maintained by an insurance company which interest or participation is issued in connection with (i) a stock-bonus, pension, or profit-sharing plan which meets the requirements for qualification under section 401 of title 26, (ii) an annuity plan which meets the requirements for deduction of the employer's contribution under section 404(a)(2) of title 26, or (iii) a church plan, company, or account that is excluded from the definition of an investment company under section 80a–3(c)(14) of this title.
 
 (3) The Commission may by rules or regulations or, on its own motion, after notice and opportunity for hearing, by order, exempt from this subsection any security of a foreign issuer, including any certificate of deposit for such a security, if the Commission finds that such exemption is in the public interest and is consistent with the protection of investors.
 
@@ -162,7 +162,7 @@ The Commission may by rules and regulations, or upon application of an intereste
 
 #### (i) Securities issued by banks
 
-In respect of any securities issued by banks and savings associations the deposits of which are insured in accordance with the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\], the powers, functions, and duties vested in the Commission to administer and enforce this section and sections 78j–1(m), 78m, 78n(a), 78n(c), 78n(d), 78n(f), and 78p of this title, and sections 7241, 7242, 7243, 7244, 7261(b), 7262, 7264, and 7265 of this title, (1) with respect to national banks and Federal savings associations, the accounts of which are insured by the Federal Deposit Insurance Corporation <sup>3</sup> are vested in the Comptroller of the Currency, (2) with respect to all other member banks of the Federal Reserve System are vested in the Board of Governors of the Federal Reserve System, and (3) with respect to all other insured banks and State savings associations, the accounts of which are insured by the Federal Deposit Insurance Corporation, are vested in the Federal Deposit Insurance Corporation. The Comptroller of the Currency, the Board of Governors of the Federal Reserve System, and the Federal Deposit Insurance Corporation shall have the power to make such rules and regulations as may be necessary for the execution of the functions vested in them as provided in this subsection. In carrying out their responsibilities under this subsection, the agencies named in the first sentence of this subsection shall issue substantially similar regulations to regulations and rules issued by the Commission under this section and sections 78j–1(m), 78m, 78n(a), 78n(c), 78n(d), 78n(f), and 78p of this title, and sections 7241, 7242, 7243, 7244, 7261(b), 7262, 7264, and 7265 of this title, unless they find that implementation of substantially similar regulations with respect to insured banks and insured institutions are not necessary or appropriate in the public interest or for protection of investors, and publish such findings, and the detailed reasons therefor, in the Federal Register. Such regulations of the above-named agencies, or the reasons for failure to publish such substantially similar regulations to those of the Commission, shall be published in the Federal Register within 120 days of October 28, 1974, and, thereafter, within 60 daysof any changes made by the Commission in its relevant regulations and rules.
+In respect of any securities issued by banks and savings associations the deposits of which are insured in accordance with the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\], the powers, functions, and duties vested in the Commission to administer and enforce this section and sections 78j–1(m), 78m, 78n(a), 78n(c), 78n(d), 78n(f), and 78p of this title, and sections 7241, 7242, 7243, 7244, 7261(b), 7262, 7264, and 7265 of this title, (1) with respect to national banks and Federal savings associations, the accounts of which are insured by the Federal Deposit Insurance Corporation <sup>3</sup> are vested in the Comptroller of the Currency, (2) with respect to all other member banks of the Federal Reserve System are vested in the Board of Governors of the Federal Reserve System, and (3) with respect to all other insured banks and State savings associations, the accounts of which are insured by the Federal Deposit Insurance Corporation, are vested in the Federal Deposit Insurance Corporation. TheComptroller of the Currency, the Board of Governors of the Federal Reserve System, and the Federal Deposit Insurance Corporation shall have the power to make such rules and regulations as may be necessary for the execution of the functions vested in them as provided in this subsection. In carrying out their responsibilities under this subsection, the agencies named in the first sentence of this subsection shall issue substantially similar regulations to regulations and rules issued by the Commission under this section and sections 78j–1(m), 78m, 78n(a), 78n(c), 78n(d), 78n(f), and 78p of this title, and sections 7241, 7242, 7243, 7244, 7261(b), 7262, 7264, and 7265 of this title, unless they find that implementation of substantially similar regulations with respect to insured banks and insured institutions are not necessary or appropriate in the public interest or for protection of investors, and publish such findings, and the detailed reasons therefor, in the Federal Register. Such regulations of the above-named agencies, or the reasons for failure to publish such substantially similar regulations to those of the Commission, shall be published in the Federal Register within 120 days of October 28, 1974, and, thereafter, within 60 days of any changes made by the Commission in its relevant regulations and rules.
 
 #### (j) Denial, suspension, or revocation of registration; notice and hearing
 
@@ -226,7 +226,7 @@ The Commission is authorized, by order, as it deems necessary or appropriate for
 
 #### (5) Limitations on review of orders
 
-&emsp;An order of the Commission pursuant to this subsection shall be subject to review only as provided in section 78y(a) of this title. Review shall be based on an examination of all the information before the Commission at the time such order was issued. The reviewing court shall not enter a stay, writ of mandamus, orsimilar relief unless the court finds, after notice and hearing before a panel of the court, that the Commission's action is arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law.
+&emsp;An order of the Commission pursuant to this subsection shall be subject to review only as provided in section 78y(a) of this title. Review shall be based on an examination of all the information before the Commission at the time such order was issued. The reviewing court shall not enter a stay, writ of mandamus, or similar relief unless the court finds, after notice and hearing before a panel of the court, that the Commission's action is arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law.
 
 #### (6) Consultation
 
@@ -254,6 +254,8 @@ It shall be unlawful for an issuer, any class of whose securities is registered 
 
 (June 6, 1934, ch. 404, title I, §12, 48 Stat. 892; May 27, 1936, ch. 462, §1, 49 Stat. 1375; Aug. 10, 1954, ch. 667, title II, §202, 68 Stat. 686; Pub. L. 88–467, §3, Aug. 20, 1964, 78 Stat. 565; Pub. L. 90–439, §1, July 29, 1968, 82 Stat. 454; Pub. L. 91–547, §28(c), Dec. 14, 1970, 84 Stat. 1435; Pub. L. 93–495, title I, §105(b), Oct. 28, 1974, 88 Stat. 1503; Pub. L. 94–29, §§8, 9, June 4, 1975, 89 Stat. 117, 118; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–181, title III, §314, Dec. 4, 1987, 101 Stat. 1256; Pub. L. 101–73, title VII, §744(u)(2), Aug. 9, 1989, 103 Stat. 441; Pub. L. 101–432, §2, Oct. 16, 1990, 104 Stat. 963; Pub. L. 103–389, §2, Oct. 22, 1994, 108 Stat. 4081; Pub. L. 104–62, §4(d), Dec. 8, 1995, 109 Stat. 685; Pub. L. 106–554, §1(a)(5) \[title II, §§206(e), 208(b)(1), (2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–431, 2763A–435; Pub. L. 107–204, §3(b)(4), title II, §205(c)(1), July 30, 2002, 116 Stat. 749, 774; Pub. L. 108–359, §1(c)(2), Oct. 25, 2004, 118 Stat. 1666; Pub. L. 108–386, §8(f)(4), Oct. 30, 2004, 118 Stat. 2232; Pub. L. 108–458, title VII, §7803(b), (c), Dec. 17, 2004, 118 Stat. 3861, 3862; Pub. L. 111–203, title III, §376(2), title IX, §986(a)(2), July 21, 2010, 124 Stat. 1569, 1935; Pub. L. 112–106, title III, §303(a), title V, §§501, 502, title VI, §601(a), Apr. 5, 2012, 126 Stat. 321, 325, 326; Pub. L. 114–94, div. G, title LXXXV, §85001(1), Dec. 4, 2015, 129 Stat. 1797.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a), (f), and (j), was in the original "this title". See References in Text note set out under section 78a of this title.
@@ -266,7 +268,7 @@ The Agricultural Marketing Act, approved June 15, 1929, as amended, referred to 
 
 Section 4(6) of the Securities Act of 1933, referred to in subsec. (g)(6), was redesignated section 4(a)(6) of that Act by Pub. L. 112–106, title II, §201(b)(1), (c)(1), Apr. 5, 2012, 126 Stat. 314, and is classified to section 77d(a)(6) of this title.
 
-The Federal Deposit Insurance Act, referred to in subsec. (i), is act Sept. 21, 1950, ch. 967, §2, 64 Stat. 873, which is classified generally to chapter 16 (§1811 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of Title 12 and Tables.
+The Federal Deposit Insurance Act, referred to in subsec. (i), is act Sept. 21, 1950, ch. 967, §2, 64 Stat. 873,which is classified generally to chapter 16 (§1811 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of Title 12 and Tables.
 
 #### Amendments
 
@@ -326,13 +328,13 @@ Subsec. (f)(3). Pub. L. 103–389, §2(b), substituted "Notwithstanding paragrap
 
 <b>1990</b>—Subsec. (k). Pub. L. 101–432 amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: "If in its opinion the public interest and the protection of investors so require, the Commission is authorized summarily to suspend trading in any security (other than an exempted security) for a period not exceeding ten days, or with the approval of the President, summarily to suspend all trading on any national securities exchange or otherwise, in securities other than exempted securities, for a period not exceeding ninety days. No member of a national securities exchange, broker, or dealer shall make use of the mails or any means or instrumentality of interstate commerce to effect any transaction in, or to induce the purchase or sale of, any security in which trading is so suspended."
 
-<b>1989</b>—Subsec. (i). Pub. L. 101–73, in first sentence, inserted "and savings associations" after "securities issued by banks", struck out "or institutions the accounts of which are insured by the Federal Savings and Loan Insurance Corporation" before ", the powers, functions, and duties", inserted new cl. (4) and struck out former cl. (4) which read "with respect to institutions the accounts of which are insured by the Federal Savings and Loan Insurance Corporation are vested in the Federal Home Loan Bank Board", and, in second sentence, substituted "Office of Thrift Supervision" for "Federal Home Loan Bank Board".
+<b>1989</b>—Subsec. (i). Pub. L. 101–73, in first sentence, inserted "and savings associations" after "securities issued by banks", struck out "or institutions the accounts of which are insured by the Federal Savings and Loan Insurance Corporation" before ", the powers,functions, and duties", inserted new cl. (4) and struck out former cl. (4) which read "with respect to institutions the accounts of which are insured by the Federal Savings and Loan Insurance Corporation are vested in the Federal Home Loan Bank Board", and, in second sentence, substituted "Office of Thrift Supervision" for "Federal Home Loan Bank Board".
 
 <b>1987</b>—Subsec. (m). Pub. L. 100–181 struck out subsec. (m) which read as follows: "The Commission is authorized and directed to make a study and investigation of the practice of recording the ownership of securities in the records of the issuer in other than the name of the beneficial owner of such securities to determine (1) whether such practice is consistent with the purposes of this chapter, with particular reference to subsection (g) of this section and sections 78m, 78n, 78o(d), 78p, and 78q–1 of this title, and (2) whether steps can be taken to facilitate communications between issuers and the beneficial owners of their securities while at the same time retaining the benefits of such practice. The Commission shall report to the Congress its preliminary findings within six months after June 4, 1975, and its final conclusions and recommendations within one year of such date."
 
 <b>1986</b>—Subsec. (g)(2)(H). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
-<b>1975</b>—Subsec. (f)(1). Pub. L. 94–29, §8(1), added subpar. (C) and in provisions following subpar. (C), substituted "is based" for "was originally based" and "remainslisted and registered on a national securities exchange" for "shall remain listed and registered on any other national securities exchange".
+<b>1975</b>—Subsec. (f)(1). Pub. L. 94–29, §8(1), added subpar. (C) and in provisions following subpar. (C), substituted "is based" for "was originally based" and "remains listed and registered on a national securities exchange" for "shall remain listed and registered on any other national securities exchange".
 
 Subsec. (f)(2). Pub. L. 94–29, §8(1), substituted "after notice and opportunity for hearing" for "after appropriate notice and opportunity for hearing" and "consistent with the maintenance of fair and orderly markets and the protection of investors" for "necessary or appropriate in the public interest or for the protection of investors" in existing provisions and added the enumeration of matters to be taken into account by the Commission in considering an application for the extension of unlisted trading privileges to a security not listed and registered on a national securities exchange.
 
@@ -366,6 +368,8 @@ Subsecs. (g) to (i). Pub. L. 88–467, §3(c)–(e), added subsecs. (g) to (i).
 
 <b>1936</b>—Subsec. (f). Act May 27, 1936, amended first par. and added subsequent pars.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Amendment by section 986(a)(2) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
@@ -378,7 +382,7 @@ Amendment by Pub. L. 108–386 effective Oct. 30, 2004, and, except as otherwise
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–62 applicable as defense to any claim in administrative and judicial actions pending on or commenced after Dec. 8, 1995, that any person, security, interest, or participation of type described in Pub. L. 104–62 is subject to the Securities Act of 1933, the Securities Exchange Act of 1934, the Investment Company Act of 1940, the Investment Advisers Act of 1940, or any State statute or regulation preempted as provided in section 80a–3a of this title, except as specifically provided in such statutes, see section 7 of Pub. L. 104–62, set out as a note under section 77c of this title.
+Amendment by Pub. L. 104–62 applicable as defense to any claim in administrative and judicial actions pending on or commenced after Dec. 8, 1995, that any person, security, interest, or participation of type described inPub. L. 104–62 is subject to the Securities Act of 1933, the Securities Exchange Act of 1934, the Investment Company Act of 1940, the Investment Advisers Act of 1940, or any State statute or regulation preempted as provided in section 80a–3a of this title, except as specifically provided in such statutes, see section 7 of Pub. L. 104–62, set out as a note under section 77c of this title.
 
 #### Effective Date of 1975 Amendment
 
@@ -395,10 +399,6 @@ Amendment by section 3(a), (c) of Pub. L. 88–467 effective July 1, 1964, and a
 #### Effective Date of 1954 Amendment
 
 Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note under section 77b of this title.
-
-#### Transfer of Functions
-
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman ofsuch Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 #### Rulemaking
 
@@ -427,6 +427,12 @@ In general.—The Commission shall amend section 229.402 of title 17, Code of Fe
 Total compensation.—For purposes of this subsection, the total compensation of an employee of an issuer shall be determined in accordance with section 229.402(c)(2)(x) of title 17, Code of Federal Regulations, as in effect on the day before the date of enactment of this Act \[July 21, 2010\]."
 
 \[For definitions of "Commission" and "issuer" as used in section 953(b) of Pub. L. 111–203, set out above, see section 5301 of Title 12, Banks and Banking.\]
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

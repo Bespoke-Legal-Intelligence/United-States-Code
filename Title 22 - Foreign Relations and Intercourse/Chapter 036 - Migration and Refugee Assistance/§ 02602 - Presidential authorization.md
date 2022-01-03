@@ -6,7 +6,7 @@ In carrying out the purpose of this chapter, the President is authorized—
 
 &emsp;(1) to make loans, advances, and grants to, make and perform agreements and contracts with, or enter into other transactions with, any individual, corporation, or other body of persons, government or government agency, whether within or without the United States, and international and intergovernmental organizations;
 
-&emsp;(2) to accept and use money, funds, property, and services of any kind made available by gift, devise, bequest, grant, or otherwise for such purposes.
+&emsp;(2) to accept and use money, funds, property, and services of any kind made available bygift, devise, bequest, grant, or otherwise for such purposes.
 
 #### (b) Performance of functions without regard to specified provisions of law
 

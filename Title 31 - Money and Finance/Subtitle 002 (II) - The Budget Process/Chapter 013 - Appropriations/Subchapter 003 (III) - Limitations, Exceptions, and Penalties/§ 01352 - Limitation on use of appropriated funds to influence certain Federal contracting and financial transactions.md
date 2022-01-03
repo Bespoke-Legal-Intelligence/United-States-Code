@@ -44,7 +44,7 @@
 
 (2)(A) Any person who fails to file or amend a declaration required to be filed or amended under subsection (b) of this section shall be subject to a civil penalty of not less than $10,000 and not more than $100,000 for each such failure.
 
-(B) A filing of a declaration of a declaration amendment on or after the date on which an administrative action for the imposition of a civil penalty under this subsection is commenced does not prevent the imposition of such civil penalty for a failure occurring before that date. For the purposes of this subparagraph, an administrative action is commenced with respectto a failure when an investigating official determines in writing to commence an investigation of an allegation of such failure.
+(B) A filing of a declaration of a declaration amendment on or after the date on which an administrative action for the imposition of a civil penalty under this subsection is commenced does not prevent the imposition of such civil penalty for a failure occurring before that date. For the purposes of this subparagraph, an administrative action is commenced with respect to a failure when an investigating official determines in writing to commence an investigation of an allegation of such failure.
 
 (3) Sections 3803 (except for subsection (c)), 3804, 3805, 3806, 3807, 3808, and 3812 of this title shall be applied, consistent with the requirements of this section, to the imposition and collection of civil penalties under this subsection.
 
@@ -198,7 +198,7 @@ Subsec. (h)(7). Pub. L. 103–272, §4(f)(1)(F)(iii), inserted periods after "ag
 
 #### Effective Date of 1996 Amendment
 
-For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 2302 of Title 10, Armed Forces.
+For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 2220 of Title 10, Armed Forces.
 
 #### Effective Date of 1995 Amendment
 

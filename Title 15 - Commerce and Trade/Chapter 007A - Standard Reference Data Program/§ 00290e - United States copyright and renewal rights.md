@@ -6,6 +6,8 @@
 
 (Pub. L. 90–396, §6, July 11, 1968, 82 Stat. 340; Pub. L. 94–553, §105(f), Oct. 19, 1976, 90 Stat. 2599; Pub. L. 107–273, div. C, title III, §13211(b), Nov. 2, 2002, 116 Stat. 1910.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–273, §13211(b)(2), substituted "Notwithstanding the limitations under section 105 of title 17," for "Notwithstanding the limitations contained in section 105 of title 17,".
@@ -13,6 +15,8 @@
 Pub. L. 107–273, §13211(b)(1), made technical amendment to directory language of Pub. L. 94–553. See 1976 Amendment note below.
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–553, as amended by Pub. L. 107–273, §13211(b)(1), substituted "section 105 of title 17" for "section 8 of title 17".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

@@ -6,7 +6,7 @@ Section 2292i, Pub. L. 87–195, pt. I, §495C, as added Pub. L. 94–329, title
 
 Section 2292j, Pub. L. 87–195, pt. I, §495D, as added Pub. L. 95–21, Apr. 18, 1977, 91 Stat. 48; amended Pub. L. 97–113, title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1560, authorized relief and rehabilitation assistance for Romania.
 
-Section 2292k, Pub. L. 87–195, pt. I, §495E, formerly §495D, as added Pub. L. 95–88, title I, §121, Aug. 3, 1977, 91 Stat. 541; renumbered §495E, Pub. L. 95–424, title I,§119(1), Oct. 6, 1978, 92 Stat. 953, requested use of funds for relief, rehabilitation, and reconstruction assistance for Turkey.
+Section 2292k, Pub. L. 87–195, pt. I, §495E, formerly §495D, as added Pub. L. 95–88, title I, §121, Aug. 3, 1977, 91 Stat. 541; renumbered §495E, Pub. L. 95–424, title I, §119(1), Oct. 6, 1978, 92 Stat. 953, requested use of funds for relief, rehabilitation, and reconstruction assistance for Turkey.
 
 Section 2292l, Pub. L. 87–195, pt. I, §495F, as added Pub. L. 95–424, title I, §119(2), Oct. 6, 1978, 92 Stat. 953; amended Pub. L. 96–53, title I, §116, Aug. 14, 1979, 93 Stat. 365; Pub. L. 96–533, title IV, §405, Dec. 16, 1980, 94 Stat. 3150, authorized rehabilitation and resettlement assistance for Africa.
 

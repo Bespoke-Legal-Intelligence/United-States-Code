@@ -2,7 +2,7 @@
 
 #### (a) Enforcement by Federal Trade Commission
 
-Except as otherwise specifically provided herein, this subchapter shall be enforced by the Federal Trade Commission under rules, regulations, and procedure provided for in the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\].
+Except as otherwise specifically provided herein, this subchapter shall be enforced by the Federal Trade Commission under rules, regulations,and procedure provided for in the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\].
 
 #### (b) Terms of Federal Trade Commission Act incorporated into this subchapter
 
@@ -17,6 +17,8 @@ The Commission is authorized and directed to make such rules and regulations, in
 The Commission is authorized to cause inspections, analyses, tests, and examinations to be made of any product subject to this subchapter.
 
 (Pub. L. 85–897, §7, Sept. 2, 1958, 72 Stat. 1721.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -40,7 +40,7 @@ For purposes of this part, a worker shall be treated as participating in trainin
 
 #### (f) Payment of trade readjustment allowances to complete training
 
-Notwithstanding any other provision of this section, in order to assist an adversely affected worker to complete training approved for the worker under section 2296 of this title that leads to the completion of a degree or industry-recognized credential, payments may be made as trade readjustment allowances for not more than 13 weeks within such period of eligibility as the Secretary may prescribe to account for a break in training or for justifiable cause thatfollows the last week for which the worker is otherwise entitled to a trade readjustment allowance under this part if—
+Notwithstanding any other provision of this section, in order to assist an adversely affected worker to complete training approved for the worker under section 2296 of this title that leads to the completion of a degree or industry-recognized credential, payments may be made as trade readjustment allowances for not more than 13 weeks within such period of eligibility as the Secretary may prescribe to account for a break in training or for justifiable cause that follows the last week for which the worker is otherwise entitled to a trade readjustment allowance under this part if—
 
 &emsp;(1) payment of the trade readjustment allowance for not more than 13 weeks is necessary for the worker to complete the training;
 
@@ -82,6 +82,8 @@ If the Secretary determines that there is justifiable cause, the Secretary may e
 
 <i>For reversion, beginning on July 1, 2021, to provisions in effect on Jan. 1, 2014, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see Codification and Effective and Termination Dates of 2015 Revival notes below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (c), was in the original "this Act", meaning Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, which is classified principally to this chapter. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
@@ -110,7 +112,7 @@ Subsec. (f). Pub. L. 112–40, §§213(2), 233, temporarily amended subsec. (f) 
 
 Subsec. (a)(3). Pub. L. 111–5, §§1823(2), 1893, in introductory provisions, temporarily substituted "a training program approved for the worker" for "training approved for him" and "78 additional weeks in the 91-week" for "52 additional weeks in the 52-week", and, in concluding provisions, temporarily substituted "91-week" for "52-week". See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsecs. (b) to (e). Pub. L. 111–5, §§1821(c)(2), 1893, temporarily redesignated subsecs. (c) to (f) as (b) to (e), respectively, and struck out former subsec. (b) which read as follows: "A trade readjustment allowance may not be paid for an additional week specified in subsection (a)(3) of this section if the adversely affected worker who would receive such allowance did not make a bona fide application to a training program approved by the Secretary under section 2296 of this title within 210 days after the date of the worker's first certification of eligibility to apply for adjustment assistance issued by the Secretary, or, if later, within 210 days after the date of the worker's total or partial separation referred to in section 2291(a)(1) of this title." See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+Subsecs. (b) to (e). Pub. L. 111–5, §§1821(c)(2), 1893, temporarily redesignated subsecs. (c) to (f) as (b) to (e), respectively, and struck out former subsec. (b) which read as follows: "A trade readjustment allowance may not be paid for an additional week specified in subsection (a)(3) of this section if the adversely affected worker who would receive such allowance did not make a bona fide application to a training program approved by the Secretary under section 2296 of this title within 210 days after the date of the worker's first certification of eligibility to apply for adjustment assistance issued by the Secretary, or, if later, within 210 days after the date of the worker's total or partial separation referred to in section 2291(a)(1) of this title." SeeCodification note above and Effective and Termination Dates of 2009 Amendment note below.
 
 Subsec. (f). Pub. L. 111–5, §§1821(c)(2)(B), 1829(b)(2), 1893, temporarily redesignated subsec. (g) as (f) and inserted "prerequisite education or" after "includes a program of". Former subsec. (f) temporarily redesignated (e). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
@@ -152,6 +154,8 @@ Subsec. (b). Pub. L. 97–35 substituted provisions relating to payment for an a
 
 Subsecs. (c), (d). Pub. L. 97–35 added subsecs. (c) and (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective and Termination Dates of 2015 Revival
 
 For revival and applicability, beginning on June 29, 2015, of the provisions of this section as in effect on Dec. 31, 2013, see section 402(b), (c) of Pub. L. 114–27, set out as a note preceding section 2271 of this title.
@@ -180,7 +184,7 @@ Amendment by section 1423(c)(2) of Pub. L. 100–418 effective on date that is 9
 
 #### Effective Date of 1981 Amendment and Transition Provisions
 
-Amendment by Pub. L. 97–35 applicable to allowances payable for weeks of unemployment which begin after Sept. 30, 1981, with transition provisions applicable, and with the amendment of subsec. (d) of this section applicable, except as otherwise provided, to laws for certification purposes under section 3304(c) of title 26 on Oct. 31, of any taxable year after 1981, see section 2514 of Pub. L. 97–35, set out as a note under section 2291 of this title.
+Amendment by Pub. L. 97–35 applicable to allowances payable for weeks of unemployment which begin after Sept. 30, 1981, with transition provisions applicable, andwith the amendment of subsec. (d) of this section applicable, except as otherwise provided, to laws for certification purposes under section 3304(c) of title 26 on Oct. 31, of any taxable year after 1981, see section 2514 of Pub. L. 97–35, set out as a note under section 2291 of this title.
 
 #### Termination Date
 

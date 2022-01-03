@@ -76,7 +76,7 @@ Joint force development activities.—In matters relating to joint force develop
 
 &emsp;&emsp;(E) formulating policies for gathering, developing, and disseminating joint lessons learned for the armed forces; and
 
-&emsp;&emsp;(F) advising the Secretary on development of joint command, control, communications, and cybercapability, including integration and interoperability of such capability, through requirements, integrated architectures, data standards, and assessments.
+&emsp;&emsp;(F) advising the Secretary on development of joint command, control, communications,and cybercapability, including integration and interoperability of such capability, through requirements, integrated architectures, data standards, and assessments.
 
 &emsp;(7)
 
@@ -144,6 +144,8 @@ Risk assessment.—(A) The Chairman shall prepare each year an assessment of the
 
 &emsp;&emsp;(vi) Identify and assess the critical deficiencies and strengths in force capabilities (including manpower, logistics, intelligence, and mobility support) identified during the preparation and review of the contingency plans of each unified combatant command, and identify and assess the effect of such deficiencies and strengths for the National Military Strategy (or update).
 
+&emsp;&emsp;(vii) Identify and assess risk resulting from, or likely to result from, current orprojected effects on military installation resilience.
+
 &emsp;(3)
 
 Submittal of national military strategy and risk assessment to congress.—(A) Not later than February 15 of each even-numbered year, the Chairman shall, through the Secretary of Defense, submit to the Committees on Armed Services of the Senate and the House of Representatives the National Military Strategy or update, if any, prepared under paragraph (1) in such year.
@@ -176,9 +178,13 @@ Annual Report on Combatant Command Requirements.—(1) Not later than 25 days af
 
 &emsp;(D) A description of the funding proposed in the President's budget for the next fiscal year, and for the subsequent fiscal years covered by the most recent future-years defense program, to address each deficiency in readiness identified during the joint readiness review conducted under section 117 of this title for the first quarter of the current fiscal year.
 
-(Added Pub. L. 99–433, title II, §201, Oct. 1, 1986, 100 Stat. 1007; amended Pub. L. 106–65, div. A, title X, §1033, Oct. 5, 1999, 113 Stat. 751; Pub. L. 106–398, §1 \[\[div. A\], title IX, §905\], Oct. 30, 2000, 114 Stat. 1654, 1654A–226; Pub. L. 107–107, div. A, title IX, §921(b), Dec. 28, 2001, 115 Stat. 1198; Pub. L. 107–314, div. A, title X, §1062(a)(1), Dec. 2, 2002, 116 Stat. 2649; Pub. L. 108–136, div. A, title IX, §903, title X, §1043(b)(2), Nov. 24, 2003, 117 Stat. 1558, 1610; Pub. L. 112–81, div. A, title VIII, §820(b), title IX, §941, Dec. 31, 2011, 125 Stat. 1501, 1548; Pub. L. 112–239, div. A, title VIII, §845(b), title IX, §§951(a), 952, Jan. 2, 2013, 126 Stat. 1848, 1891, 1892; Pub. L. 113–66, div. A, title IX, §905, Dec. 26, 2013, 127 Stat. 817; Pub. L. 113–291, div. A, title X, §1071(c)(2), (g)(3), Dec. 19, 2014, 128 Stat. 3508, 3511; Pub. L. 114–92, div. A, title IX, §901, title X, §1081(a)(3), Nov. 25, 2015, 129 Stat. 956, 1000; Pub. L. 114–328, div. A, title IX, §§921(c), 943, title X, §1064(c), Dec. 23, 2016, 130 Stat. 2351, 2369, 2409; Pub. L. 115–91, div. A, title X, §1081(a)(8), (d)(10), Dec. 12, 2017, 131 Stat. 1594, 1600; Pub. L. 115–232, div. A, title IX, §§912, 913, Aug. 13, 2018, 132 Stat. 1923.)
+(Added Pub. L. 99–433, title II, §201, Oct. 1, 1986, 100 Stat. 1007; amended Pub. L. 106–65, div. A, title X, §1033, Oct. 5, 1999, 113 Stat. 751; Pub. L. 106–398, §1 \[\[div. A\], title IX, §905\], Oct. 30, 2000, 114 Stat. 1654, 1654A–226; Pub. L. 107–107, div. A, title IX, §921(b), Dec. 28, 2001, 115 Stat. 1198; Pub. L. 107–314, div. A, title X, §1062(a)(1), Dec. 2, 2002, 116 Stat. 2649; Pub. L. 108–136, div. A, title IX, §903, title X, §1043(b)(2), Nov. 24, 2003, 117 Stat. 1558, 1610; Pub. L. 112–81, div. A, title VIII, §820(b), title IX, §941, Dec. 31, 2011, 125 Stat. 1501, 1548; Pub. L. 112–239, div. A, title VIII, §845(b), title IX, §§951(a), 952, Jan. 2, 2013, 126 Stat. 1848, 1891, 1892; Pub. L. 113–66, div. A, title IX, §905, Dec. 26, 2013, 127 Stat. 817; Pub. L. 113–291, div. A, title X, §1071(c)(2), (g)(3), Dec. 19, 2014, 128 Stat. 3508, 3511; Pub. L. 114–92, div. A, title IX, §901, title X, §1081(a)(3), Nov. 25, 2015, 129 Stat. 956, 1000; Pub. L. 114–328, div. A, title IX, §§921(c), 943, title X, §1064(c), Dec. 23, 2016, 130 Stat. 2351, 2369, 2409; Pub. L. 115–91, div. A, title X, §1081(a)(8), (d)(10), Dec. 12, 2017, 131 Stat. 1594, 1600; Pub. L. 115–232, div. A, title IX, §§912, 913, Aug. 13, 2018, 132 Stat. 1923; Pub. L. 117–81, div. A, title III, §311(c), Dec. 27, 2021, 135 Stat. 1626.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (b)(2)(B)(vii). Pub. L. 117–81 added cl. (vii).
 
 <b>2018</b>—Subsec. (a)(6)(D). Pub. L. 115–232, §912, amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: "formulating policies for concept development and experimentation for the joint employment of the armed forces;".
 
@@ -290,6 +296,8 @@ Subsec. (d)(1)(C), (D). Pub. L. 106–398, §1 \[\[div. A\], title IX, §905(a)\
 
 <b>1999</b>—Subsecs. (c), (d). Pub. L. 106–65 added subsecs. (c) and (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2017 Amendment
 
 Pub. L. 115–91, div. A, title X, §1081(d), Dec. 12, 2017, 131 Stat. 1599, provided that the amendment made by section 1081(d)(10) is effective as of Dec. 23, 2016, and as if included in Pub. L. 114–328 as enacted.
@@ -328,7 +336,7 @@ Pub. L. 103–160, div. A, title III, §376, Nov. 30, 1993, 107 Stat. 1637, prov
 
 #### Report of Chairman of Joint Chiefs of Staff on Roles and Missions of Armed Forces
 
-Pub. L. 102–484, div. A, title IX, §901, Oct. 23, 1992, 106 Stat. 2469, provided for the Secretary of Defense to transmit to Congress a copy of the first report relating to the roles and missions of the Armed Forces that was submitted by the Chairman of the Joint Chiefs of Staff under subsec. (b) of this section after Jan. 1, 1992, anddirected the Chairman to include in the report comments and recommendations.
+Pub. L. 102–484, div. A, title IX, §901, Oct. 23, 1992, 106 Stat. 2469, provided for the Secretary of Defense to transmit to Congress a copy of the first report relating to the roles and missions of the Armed Forces that was submitted by the Chairman of the Joint Chiefs of Staff under subsec. (b) of this section after Jan. 1, 1992, and directed the Chairman to include in the report comments and recommendations.
 
 #### Transition Provisions
 

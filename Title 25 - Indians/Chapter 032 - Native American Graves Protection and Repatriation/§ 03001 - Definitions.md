@@ -4,7 +4,7 @@ For purposes of this chapter, the term—
 
 &emsp;(1) "burial site" means any natural or prepared physical location, whether originally below, on, or above the surface of the earth, into which as a part of the death rite or ceremony of a culture, individual human remains are deposited.
 
-&emsp;(2) "cultural affiliation" means that there is a relationship of shared group identity which can be reasonably traced historically orprehistorically between a present day Indian tribe or Native Hawaiian organization and an identifiable earlier group.
+&emsp;(2) "cultural affiliation" means that there is a relationship of shared group identity which can be reasonably traced historically or prehistorically between a present day Indian tribe or Native Hawaiian organization and an identifiable earlier group.
 
 &emsp;(3) "cultural items" means human remains and—
 

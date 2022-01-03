@@ -6,13 +6,13 @@ At the time that the President submits to Congress the budget for a fiscal year 
 
 #### (b) Amounts appropriated each fiscal year
 
-Not later than 30 days after the end of each fiscal year, the Director of National Intelligence shall disclose to the public the aggregate amount of funds appropriated by Congress for the National Intelligence Program for such fiscal year.
+Not later than 30 days after the end of each fiscal year, the Director of National Intelligenceshall disclose to the public the aggregate amount of funds appropriated by Congress for the National Intelligence Program for such fiscal year.
 
 #### (c) Waiver
 
 #### (1) In general
 
-&emsp;The President may waive or postpone the disclosure required by subsection (a) or (b) fora fiscal year by submitting to the Select Committee on Intelligence of the Senate and Permanent Select Committee on Intelligence of the House of Representatives—
+&emsp;The President may waive or postpone the disclosure required by subsection (a) or (b) for a fiscal year by submitting to the Select Committee on Intelligence of the Senate and Permanent Select Committee on Intelligence of the House of Representatives—
 
 &emsp;&emsp;(A) a statement, in unclassified form, that the disclosure required in subsection (a) or (b) for that fiscal year would damage national security; and
 
@@ -32,6 +32,8 @@ As used in this section, the term "National Intelligence Program" has the meanin
 
 (Pub. L. 110–53, title VI, §601, Aug. 3, 2007, 121 Stat. 335; Pub. L. 111–259, title III, §364, Oct. 7, 2010, 124 Stat. 2702.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 415c of this title prior to editorial reclassification and renumbering as this section.
@@ -39,6 +41,8 @@ Section was formerly classified to section 415c of this title prior to editorial
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–259 amended section generally. Prior to amendment, section related to availability to public of certain intelligence funding information.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Increased Transparency Regarding Counterterrorism Budget of the United States
 

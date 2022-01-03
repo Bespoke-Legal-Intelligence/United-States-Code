@@ -22,11 +22,15 @@ The debtor shall be assessed and pay any and all costs associated with collectio
 
 (June 17, 1930, ch. 497, title IV, §631, as added Pub. L. 103–182, title VI, §671, Dec. 8, 1993, 107 Stat. 2217; amended Pub. L. 104–295, §3(a)(9), Oct. 11, 1996, 110 Stat. 3516; Pub. L. 106–36, title I, §1001(b)(5)(A), June 25, 1999, 113 Stat. 132.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1999</b>—Subsec. (c). Pub. L. 106–36 amended directory language of Pub. L. 104–295. See 1996 Amendment note below.
 
 <b>1996</b>—Subsec. (c). Pub. L. 104–295, as amended by Pub. L. 106–36, added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

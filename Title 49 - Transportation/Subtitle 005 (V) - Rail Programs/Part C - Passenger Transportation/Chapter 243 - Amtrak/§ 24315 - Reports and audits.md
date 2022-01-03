@@ -18,9 +18,11 @@ Amtrak Annual Operations Report.—Not later than February 15 of each year, Amtr
 
 &emsp;&emsp;(F) the United States Government subsidy;
 
-&emsp;&emsp;(G) the subsidy not provided by the United States Government; and
+&emsp;&emsp;(G) the subsidy not provided by the United States Government;
 
-&emsp;&emsp;(H) on-time performance;
+&emsp;&emsp;(H) on-time performance; and
+
+&emsp;&emsp;(I) any change made to a route's or service's frequency or station stops;
 
 &emsp;(2) provides relevant information about a decision to pay an officer of Amtrak more than the rate for level I of the Executive Schedule under section 5312 of title 5; and
 
@@ -34,9 +36,11 @@ Amtrak Annual Operations Report.—Not later than February 15 of each year, Amtr
 
 Amtrak General and Legislative Annual Report.—(1) Not later than February 15 of each year, Amtrak shall submit to the President and Congress a complete report of its operations, activities, and accomplishments, including a statement of revenues and expenditures for the prior fiscal year. The report—
 
-&emsp;(A) shall include a discussion and accounting of Amtrak's success in meeting the goal of section 24902(b) <sup>1</sup> of this title; and
+&emsp;(A) shall include a discussion and accounting of Amtrak's success in meeting the goal described in section 24902(a);
 
-&emsp;(B) may include recommendations for legislation, including the amount of financial assistance needed for operations and capital improvements, the method of computing the assistance, and the sources of the assistance.
+&emsp;(B) may include recommendations for legislation, including the amount of financial assistance needed for operations and capital improvements, the method of computing the assistance, and the sources of the assistance; and
+
+&emsp;(C) shall incorporate the category described in section 24319(c)(2)(C).
 
 (2) Amtrak may submit reports to the President and Congress at other times Amtrak considers desirable.
 
@@ -64,7 +68,7 @@ Comptroller General's Report to Congress.—The Comptroller General shall submit
 
 Access to Records and Accounts.—A State shall have access to Amtrak's records, accounts, and other necessary documents used to determine the amount of any payment to Amtrak required of the State.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 918; Pub. L. 105–134, title II, §206, Dec. 2, 1997, 111 Stat. 2584.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 918; Pub. L. 105–134, title II, §206, Dec. 2, 1997, 111 Stat. 2584; Pub. L. 117–58, div. B, title II, §§22204(a), 22206(c)(1), Nov. 15, 2021, 135 Stat. 699, 702.)
 
 Historical and Revision Notes
 
@@ -132,7 +136,7 @@ In subsection (a)(2), the words "to . . . compensation" and "prescribed" are o
 
 In subsection (b)(1), before clause (A), the words "(beginning with 1973)" are omitted as executed. The word "complete" is substituted for "comprehensive and detailed" to eliminate unnecessary words. The words "under this chapter" are omitted as surplus. The word "revenues" is substituted for "receipts" for consistency. In clause (B), the words "may include recommendations for legislation" are substituted for "At the time of its annual report, the Corporation shall submit such legislative recommendations as it deems desirable", the words "the method of computing the assistance" are substituted for "the manner and form in which the amount of such assistance should be computed", and the words "of the assistance" are substituted for "from which such assistance should be derived", to eliminate unnecessary words.
 
-In subsection (c), the words "(beginning with 1974)" are omitted as executed. The word "prepare" is substituted for "transmit to the President and to the Congress by March 15 of each year" for clarity because the report is now part of the annual report under 49:308(a). The words "Beginning in 1976" are omitted as executed. The word "Secretary" is substituted for "Departmentof Transportation" because of 49:102(b). The words "submits under section 308(a) of this title" are substituted for "to the Congress" for clarity.
+In subsection (c), the words "(beginning with 1974)" are omitted as executed. The word "prepare" is substituted for "transmit to the President and to the Congress by March 15 of each year" for clarity because the report is now part of the annual report under 49:308(a). The words "Beginning in 1976" are omitted as executed. The word "Secretary" is substituted for "Department of Transportation" because of 49:102(b). The words "submits under section 308(a) of this title" are substituted for "to the Congress" for clarity.
 
 In subsection (d), the words "independent licensed public accountants certified or licensed by a regulatory authority of a State or other political subdivision of the United States" are omitted as obsolete because only certified public accountants are used for the audit. Only noncertified public accountants licensed before December 30, 1970, who were already conducting audits were allowed to continue. The words "or places" are omitted because of 1:1. The words "financial statements" are substituted for "accounts" because audits are performed on financial statements, not accounts. The words "independent" and "annual" are omitted as surplus. The text of 45:644(1)(B) (last sentence) is omitted as surplus because those requirements are included in "generally accepted auditing standards".
 
@@ -142,13 +146,19 @@ In subsection (f), the words "if required" are substituted for "To the extent .�
 
 In subsection (g), the word "giving" is substituted for "The report to the Congress shall contain such" to eliminate unnecessary words. The words "as the Comptroller General may deem", "as he may deem advisable", "program, expenditure or other", "observed in the course of the audit", and "or made" are omitted as surplus.
 
-#### References in Text
-
-Section 24902(b) of this title, referred to in subsec. (b)(1)(A), was redesignated section 24902(a) and section 24902(e) was redesignated section 24902(b) by Pub. L. 105–134, title IV, §405(b)(1)(A), Dec. 2, 1997, 111 Stat. 2586.
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
+<b>2021</b>—Subsec. (a)(1)(I). Pub. L. 117–58, §22204(a), added subpar. (I).
+
+Subsec. (b)(1)(A). Pub. L. 117–58, §22206(c)(1)(A), substituted "the goal described in section 24902(a);" for "the goal of section 24902(b) of this title; and".
+
+Subsec. (b)(1)(C). Pub. L. 117–58, §22206(c)(1)(B), (C), added subpar. (C).
+
 <b>1997</b>—Subsec. (h). Pub. L. 105–134 added subsec. (h).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Reporting Requirements
 
@@ -160,7 +170,7 @@ Pub. L. 108–447, div. H, title I, Dec. 8, 2004, 118 Stat. 3221, provided in pa
 
 #### Reports on Operating Losses
 
-Pub. L. 108–7, div. I, title III, §350, Feb. 20, 2003, 117 Stat. 419, provided that: "On February 15, 2003, and on each year thereafter, the National Railroad Passenger Corporation shall submit to the appropriate Congressional Committees a report detailing the per passenger operating loss on each rail line."
+Pub. L. 108–7, div. I, title III, §350, Feb. 20, 2003, 117 Stat. 419, provided that: "On February 15, 2003, and on each year thereafter, the National Railroad PassengerCorporation shall submit to the appropriate Congressional Committees a report detailing the per passenger operating loss on each rail line."
 
 #### Amtrak To Notify Congress of Lobbying Relationships
 
@@ -173,6 +183,4 @@ Pub. L. 105–134, title IV, §414, Dec. 2, 1997, 111 Stat. 2589, provided that:
 &emsp;"(3) the amount and nature of Amtrak's financial obligation under the contract.
 
 > This section applies only to contracts, renewals or extensions of contracts, or arrangements entered into after the date of the enactment of this Act \[Dec. 2, 1997\]."
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

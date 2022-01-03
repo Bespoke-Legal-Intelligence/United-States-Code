@@ -54,9 +54,9 @@ In order to qualify for assistance under this subchapter, the development compan
 
 (1) A project meets the objective set forth in subsection (d)(1) if the project creates or retains one job for every $65,000 guaranteed by the Administration, except that the amount is $100,000 in the case of a project of a small manufacturer.
 
-(2) Paragraph (1) does not apply to a project for which eligibility is based on the objectives set forth in paragraph (2) or (3) of subsection (d), if the development company's portfolio of outstanding debentures creates or retains one jobfor every $65,000 guaranteed by the Administration.
+(2) Paragraph (1) does not apply to a project for which eligibility is based on the objectives set forth in paragraph (2) or (3) of subsection (d), if the development company's portfolio of outstanding debentures creates or retains one job for every $65,000 guaranteed by the Administration.
 
-(3) For projects in Alaska, Hawaii, State-designated enterprise zones, empowerment zones and enterprise communities, labor surplus areas, as determined by the Secretary of Labor, and for other areas designated by the Administrator, the development company's portfolio may average not more than $75,000 per job created or retained.
+(3) For projects in Alaska, Hawaii, State-designated enterprise zones, empowerment zones and enterprise communities, labor surplus areas,as determined by the Secretary of Labor, and for other areas designated by the Administrator, the development company's portfolio may average not more than $75,000 per job created or retained.
 
 (4) Loans for projects of small manufacturers shall be excluded from calculations under paragraph (2) or (3).
 
@@ -69,6 +69,8 @@ In order to qualify for assistance under this subchapter, the development compan
 &emsp;(B) all of the production facilities of which are located in the United States.
 
 (Pub. L. 85–699, title V, §501, Aug. 21, 1958, 72 Stat. 696; Pub. L. 100–590, title I, §115(a), (b)(1), Nov. 3, 1988, 102 Stat. 2997; Pub. L. 101–574, title II, §214(a), (b), Nov. 15, 1990, 104 Stat. 2821; Pub. L. 106–50, title IV, §405, Aug. 17, 1999, 113 Stat. 246; Pub. L. 106–554, §1(a)(9) \[title III, §302\], Dec. 21, 2000, 114 Stat. 2763, 2763A–684; Pub. L. 108–447, div. K, title I, §105, Dec. 8, 2004, 118 Stat. 3444; Pub. L. 110–140, title XII, §1204(a), Dec. 19, 2007, 121 Stat. 1772; Pub. L. 111–5, div. A, title V, §504(b), Feb. 17, 2009, 123 Stat. 156; Pub. L. 111–240, title I, §1132, Sept. 27, 2010, 124 Stat. 2514.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -95,6 +97,8 @@ Subsec. (d)(3)(I) to (K). Pub. L. 110–140, §1204(a)(1)–(3), added subpars. 
 Subsec. (d). Pub. L. 101–574, §214(b), added subsec. (d).
 
 <b>1988</b>—Pub. L. 100–590 inserted "State development companies" as section catchline, added subsec. (a), and redesignated former subsecs. (a) and (b) as (b) and (c), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

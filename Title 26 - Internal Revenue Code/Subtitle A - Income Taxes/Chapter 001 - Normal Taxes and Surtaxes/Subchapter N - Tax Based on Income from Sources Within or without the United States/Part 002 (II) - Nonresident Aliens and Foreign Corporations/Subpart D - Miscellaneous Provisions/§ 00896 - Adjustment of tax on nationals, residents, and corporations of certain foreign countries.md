@@ -10,7 +10,7 @@ Whenever the President finds that—
 
 &emsp;(3) it is in the public interest to apply pre-1967 tax provisions in accordance with the provisions of this subsection to residents or corporations of such foreign country,
 
-> the President shall proclaim that the tax on such similar income derived from sources within the United States by residents or corporations of such foreign country shall, for taxable yearsbeginning after such proclamation, be determined under this subtitle without regard to amendments made to this subchapter and chapter 3 on or after the date of enactment of this section.
+> the President shall proclaim that the tax on such similar income derived from sources within the United States by residents or corporations of such foreign country shall, for taxable years beginning after such proclamation, be determined under this subtitle without regard to amendments made to this subchapter and chapter 3 on or after the date of enactment of this section.
 
 #### (b) Imposition of discriminatory taxes by foreign country
 
@@ -44,6 +44,8 @@ The Secretary shall prescribe such regulations as he deems necessary or appropri
 
 (Added Pub. L. 89–809, title I, §105(b), Nov. 13, 1966, 80 Stat. 1563; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this section, referred to in the provisions following subsec. (a)(3), is the date of enactment of Pub. L. 89–809, which was approved Nov. 13, 1966.
@@ -51,6 +53,8 @@ The date of enactment of this section, referred to in the provisions following s
 #### Amendments
 
 <b>1976</b>—Subsec. (e). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

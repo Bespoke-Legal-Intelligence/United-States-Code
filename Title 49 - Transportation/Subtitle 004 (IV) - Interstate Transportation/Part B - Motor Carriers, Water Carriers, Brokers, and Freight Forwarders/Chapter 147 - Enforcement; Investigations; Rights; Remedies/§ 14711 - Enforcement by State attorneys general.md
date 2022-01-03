@@ -74,11 +74,15 @@ Enforcement of State Law.—Nothing contained in this section shall prohibit an 
 
 (Added Pub. L. 109–59, title IV, §4206(b)(1), Aug. 10, 2005, 119 Stat. 1755; amended Pub. L. 109–115, div. A, title I, §173(c), (d), Nov. 30, 2005, 119 Stat. 2426.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Subsec. (b)(1). Pub. L. 109–115, §173(c), (e), temporarily inserted at end "The State may initiate a civil action under subsection (a) if it is reviewable under subsection (b)(2)." See Termination Date of 2005 Amendment note below.
 
 Subsec. (b)(4). Pub. L. 109–115, §173(d), (e), temporarily inserted "that is subject to review under subsection (b)(2)" before "if the Secretary". See Termination Date of 2005 Amendment note below.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination Date of 2005 Amendment
 

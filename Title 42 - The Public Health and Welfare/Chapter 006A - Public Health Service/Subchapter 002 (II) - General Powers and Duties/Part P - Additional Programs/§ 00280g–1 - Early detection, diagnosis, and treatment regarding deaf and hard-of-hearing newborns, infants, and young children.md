@@ -30,7 +30,7 @@ The Secretary, acting through the Administrator of the Health Resources and Serv
 
 &emsp;&emsp;&emsp;(iii) to ensure quality monitoring of hearing screening, evaluation, and intervention programs and systems for newborns, infants, and young children; and
 
-&emsp;&emsp;&emsp;(iv) to support newborn, infant, and young child hearing screening, evaluation,and intervention programs, and information systems.
+&emsp;&emsp;&emsp;(iv) to support newborn, infant, and young child hearing screening, evaluation, and intervention programs, and information systems.
 
 #### (B) Use of awards
 
@@ -144,11 +144,13 @@ For purposes of this section:
 
 (July 1, 1944, ch. 373, title III, §399M, as added Pub. L. 106–310, div. A, title VII, §702, Oct. 17, 2000, 114 Stat. 1121; amended Pub. L. 111–337, §2, Dec. 22, 2010, 124 Stat. 3588; Pub. L. 115–71, §2, Oct. 18, 2017, 131 Stat. 1218.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Individuals with Disabilities Education Act, referred to in subsecs. (a)(1)(A), (3), (c)(1)(B), and (e)(1)(C)(i), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
-The Social Security Act, referred to in subsec. (c)(1)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles V, XIX, and XXI of the Act are classified generally to subchapters V (§701 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (c)(1)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles V, XIX, and XXI of the Act are classified generally tosubchapters V (§701 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Amendments
 
@@ -160,7 +162,7 @@ Pub. L. 115–71, §2(b)(1), substituted "newborn, infant, and young child" for 
 
 Subsec. (a)(1). Pub. L. 115–71, §2(b)(3), in first sentence, substituted "newborns, infants, and young children (referred to in this section as 'children')" for "newborns and infants" and "medical, and communication (or language acquisition) interventions (including family support), for children identified as deaf or hard-of-hearing, consistent with the following:" for "and medical interventions for children identified with hearing loss."; designated second sentence as subpar. (A) and substituted ", and delivery of," for "and delivery of", "by organizations such as schools and agencies (including community, consumer, and family-based agencies), in health care settings (including medical homes for children), and in programs mandated" for "by schools and agencies, including community, consumer, and parent-based agencies and organizations and other programs mandated", and "hard-of-hearing children." for "hard of hearing newborns, infants, toddlers, and children."; struck out third sentence which read "Programs and systems under this paragraph shall establish and foster family-to-family support mechanisms that are critical in the first months after a child is identified with hearing loss."; and added subpars. (B) and (C).
 
-Subsec. (a)(2). Pub. L. 115–71, §2(b)(4), substituted "To continue to provide technical support to States, through one or more technical resource centers, to assist in further developing and enhancing State early hearing detection and intervention programs." for "Tocollect data on statewide newborn and infant hearing screening, evaluation and intervention programs and systems that can be used for applied research, program evaluation and policy development."
+Subsec. (a)(2). Pub. L. 115–71, §2(b)(4), substituted "To continue to provide technical support to States, through one or more technical resource centers, to assist in further developing and enhancing State early hearing detection and intervention programs." for "To collect data on statewide newborn and infant hearing screening, evaluation and intervention programs and systems that can be used for applied research, program evaluation and policy development."
 
 Subsec. (a)(3). Pub. L. 115–71, §2(b)(5), added par. (3) and struck out former par. (3) which read as follows: "Other activities may include developing efficient models to ensure that newborns and infants who are identified with a hearing loss through screening receive follow-up by a qualified health care provider, and State agencies shall be encouraged to adopt models that effectively increase the rate of occurrence of such follow-up."
 
@@ -212,7 +214,7 @@ Subsec. (f)(2). Pub. L. 115–71, §2(g)(2), substituted "$10,800,000 for fiscal
 
 Subsec. (a). Pub. L. 111–337, §2(2)(A), substituted "screening, evaluation, diagnosis, and intervention programs and systems, and to assist in the recruitment, retention, education, and training of qualified personnel and health care providers," for "screening, evaluation and intervention programs and systems" in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 111–337, §2(2)(B), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "To develop and monitor the efficacy of state-wide newborn and infant hearing screening, evaluation and intervention programs and systems. Early intervention includes referral to schools and agencies, including community, consumer, and parent-based agencies and organizations and other programs mandated by part C of the Individuals with Disabilities Education Act, which offer programs specifically designed to meetthe unique language and communication needs of deaf and hard of hearing newborns, infants, toddlers, and children."
+Subsec. (a)(1). Pub. L. 111–337, §2(2)(B), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "To develop and monitor the efficacy of state-wide newborn and infant hearing screening, evaluation and intervention programs and systems. Early intervention includes referral to schools and agencies, including community, consumer, and parent-based agencies and organizations and other programs mandated by part C of the Individuals with Disabilities Education Act, which offer programs specifically designed to meet the unique language and communication needs of deaf and hard of hearing newborns, infants, toddlers, and children."
 
 Subsec. (a)(3). Pub. L. 111–337, §2(2)(C), added par. (3).
 
@@ -225,6 +227,8 @@ Subsec. (e)(3). Pub. L. 111–337, §2(5)(A), substituted "ensuring that familie
 Subsec. (e)(6). Pub. L. 111–337, §2(5)(B), struck out ", after rescreening," after "infants who".
 
 Subsec. (f). Pub. L. 111–337, §2(6), substituted "fiscal years 2011 through 2015" for "fiscal year 2002" in pars. (1) to (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### James T. Walsh Universal Newborn Hearing Screening Program
 

@@ -17,6 +17,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1997</b>—Pub. L. 105–33, title IX, §9302(g)(3)(C), (h)(2)(D), Aug. 5, 1997, 111 Stat. 673, 674, amended chapter heading generally, substituting "TOBACCO PRODUCTS" for "CIGARS, CIGARETTES, SMOKELESS TOBACCO, PIPE TOBACCO,", and inserted "and importers" after "manufacturers" in item for subchapter B.

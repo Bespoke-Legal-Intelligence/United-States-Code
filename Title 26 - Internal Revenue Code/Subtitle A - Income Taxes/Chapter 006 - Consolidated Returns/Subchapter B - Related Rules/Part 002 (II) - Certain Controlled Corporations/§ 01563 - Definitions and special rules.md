@@ -84,7 +84,7 @@ For purposes of this part, the term "controlled group of corporations" means any
 
 #### (A) Parent-subsidiary controlled group
 
-&emsp;&emsp;For purposes of subsection (a)(1), if a corporation (referred to in this paragraph as "parent corporation") owns (within the meaning of subsections (d)(1) and (e)(4)), 50 percent or more of the total combined voting power of all classes of stock entitled to vote or 50 percent or more of the total value of shares of all classes of stock in another corporation (referred to in this paragraph as"subsidiary corporation"), the following stock of the subsidiary corporation shall be treated as excluded stock—
+&emsp;&emsp;For purposes of subsection (a)(1), if a corporation (referred to in this paragraph as "parent corporation") owns (within the meaning of subsections (d)(1) and (e)(4)), 50 percent or more of the total combined voting power of all classes of stock entitled to vote or 50 percent or more of the total value of shares of all classes of stock in another corporation (referred to in this paragraph as "subsidiary corporation"), the following stock of the subsidiary corporation shall be treated as excluded stock—
 
 &emsp;&emsp;&emsp;(i) stock in the subsidiary corporation held by a trust which is part of a plan of deferred compensation for the benefit of the employees of the parent corporation or the subsidiary corporation,
 
@@ -238,6 +238,8 @@ For purposes of this part, the term "controlled group of corporations" means any
 
 (Added Pub. L. 88–272, title II, §235(a), Feb. 26, 1964, 78 Stat. 120; amended Pub. L. 91–172, title IV, §401(c), (d), Dec. 30, 1969, 83 Stat. 602; Pub. L. 91–373, title I, §102(b), Aug. 10, 1970, 84 Stat. 696; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title II, §211(b)(22), July 18, 1984, 98 Stat. 757; Pub. L. 99–514, title X, §1024(c)(17), Oct. 22, 1986, 100 Stat. 2408; Pub. L. 100–647, title I, §1018(s)(3)(A), Nov. 10, 1988, 102 Stat. 3587; Pub. L. 108–357, title VIII, §900(a), (b), Oct. 22, 2004, 118 Stat. 1650.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Subsec. (a)(2). Pub. L. 108–357, §900(a), substituted "possessing" for "possessing—", struck out "(B)" before "more than 50 percent of the total combined voting power", and struck out subpar. (A) which read as follows: "at least 80 percent of the total combined voting power of all classes of stock entitled to vote or at least 80 percent of the total value of shares of all classes of the stock of each corporation, and".
@@ -260,6 +262,8 @@ Subsec. (c)(2)(A)(iv). Pub. L. 91–172, §401(d)(1), added cl. (iv).
 
 Subsec. (c)(2)(B). Pub. L. 91–172, §401(d)(2), substituted "5 or fewer persons who are individuals, estates, or trusts (referred to in this subparagraph as 'common owners') own" for "a person who is an individual, estate, or trust (referred to in this paragraph as 'common owner') owns" and in cl. (ii), substituted "any of such common owners", "any of the common owners" for "such common owner" and "the common owner", respectively and added cl. (iii).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2004 Amendment
 
 Pub. L. 108–357, title VIII, §900(c), Oct. 22, 2004, 118 Stat. 1650, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Oct. 22, 2004\]."
@@ -270,7 +274,7 @@ Pub. L. 100–647, title I, §1018(s)(3)(B), Nov. 10, 1988, 102 Stat. 3587, prov
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1024(e) ofPub. L. 99–514, set out as a note under section 831 of this title.
+Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1024(e) of Pub. L. 99–514, set out as a note under section 831 of this title.
 
 #### Effective Date of 1984 Amendment
 

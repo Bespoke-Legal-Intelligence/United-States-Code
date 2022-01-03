@@ -20,7 +20,7 @@
 
 (d) The members from the employee organizations serve at the pleasure of the Director of the Office of Personnel Management.
 
-(e) The Committee shall study the prevailing rate system and other matters pertinent to the establishment of prevailing rates under this subchapter and, from time to time, advise the Office of Personnel Management thereon. Conclusions and recommendations of the Committee shall be formulated by majority vote. The Chairman of the Committee may vote only to break a tie vote of the Committee.
+(e) The Committee shall study the prevailing rate system and other matters pertinent to theestablishment of prevailing rates under this subchapter and, from time to time, advise the Office of Personnel Management thereon. Conclusions and recommendations of the Committee shall be formulated by majority vote. The Chairman of the Committee may vote only to break a tie vote of the Committee.
 
 (f) The Committee shall meet at the call of the Chairman. However, a special meeting shall be called by the Chairman if 5 members make a written request to the Chairman to call a special meeting to consider matters within the purview of the Committee.
 
@@ -56,5 +56,5 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 #### Effective Date
 
-Section effective on first day of first applicable pay period beginning on or after 90th day after Aug. 19, 1972,see section 15(a) of Pub. L. 92–392, set out as a note under section 5341 of this title.
+Section effective on first day of first applicable pay period beginning on or after 90th day after Aug. 19, 1972, see section 15(a) of Pub. L. 92–392, set out as a note under section 5341 of this title.
 

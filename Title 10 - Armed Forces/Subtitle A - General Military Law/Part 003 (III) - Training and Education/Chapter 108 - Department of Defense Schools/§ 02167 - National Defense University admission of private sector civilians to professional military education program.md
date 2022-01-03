@@ -10,7 +10,7 @@ Eligible Private Sector Employees.—For purposes of this section, an eligible p
 
 (c)
 
-Annual Certification by Secretary of Defense.—Private sector employees may receive instruction at the National Defense University during any academic year only if, beforethe start of that academic year, the Secretary of Defense determines, and certifies to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, that providing instruction to private sector employees under this section during that year will further national security interests of the United States.
+Annual Certification by Secretary of Defense.—Private sector employees may receive instruction at the National Defense University during any academic year only if, before the start of that academic year, the Secretary of Defense determines, and certifies to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, that providing instruction to private sector employees under this section during that year will further national security interests of the United States.
 
 (d)
 
@@ -36,13 +36,17 @@ Standards of Conduct.—While receiving instruction at the National Defense Univ
 
 Use of Funds.—Amounts received by the National Defense University for instruction of students enrolled under this section shall be retained by the university to defray the costs of such instruction. The source, and the disposition, of such funds shall be specifically identified in records of the university.
 
-(Added Pub. L. 107–107, div. A, title V, §528(a)(1), Dec. 28, 2001, 115 Stat. 1102; amended Pub. L. 111–84, div. A, title V, §526, Oct. 28, 2009, 123 Stat. 2288; Pub. L. 111–383, div. A, title V, §592, Jan. 7, 2011, 124 Stat. 4232.)
+(Added Pub. L. 107–107, div. A, title V, §528(a)(1), Dec. 28, 2001, 115 Stat. 1102; amended Pub. L.111–84, div. A, title V, §526, Oct. 28, 2009, 123 Stat. 2288; Pub. L. 111–383, div. A, title V, §592, Jan. 7, 2011, 124 Stat. 4232.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>2011</b>—Subsec. (a). Pub. L. 111–383 substituted "35 full-time student positions" for "20 full-time student positions".
 
 <b>2009</b>—Subsec. (a). Pub. L. 111–84 substituted "20" for "10".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

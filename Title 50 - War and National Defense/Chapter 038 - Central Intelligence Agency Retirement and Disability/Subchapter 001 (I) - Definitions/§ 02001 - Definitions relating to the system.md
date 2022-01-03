@@ -54,6 +54,8 @@ When used in this chapter:
 
 (Pub. L. 88–643, title I, §101, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3197; amended Pub. L. 103–178, title II, §202(a)(1), Dec. 3, 1993, 107 Stat. 2025; Pub. L. 108–458, title I, §1071(c), Dec. 17, 2004, 118 Stat. 3691.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 101 of Pub. L. 88–643, title I, Oct. 13, 1964, 78 Stat. 1043, provided a short title for Pub. L. 88–643 as the "Central Intelligence Agency Retirement Act of 1964 for Certain Employees" and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
@@ -63,6 +65,8 @@ A prior section 101 of Pub. L. 88–643, title I, Oct. 13, 1964, 78 Stat. 1043, 
 <b>2004</b>—Par. (2). Pub. L. 108–458 added par. (2) and struck out heading and text of former par. (2). Text read as follows: "The term 'Director' means the Director of Central Intelligence."
 
 <b>1993</b>—Par. (7). Pub. L. 103–178 substituted "basic pay and amounts deposited" for "basic pay, amounts deposited" and struck out ", and interest determined under section 2121 of this title" after "section 2082(h) of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 
@@ -84,7 +88,7 @@ Pub. L. 102–183, title III, §302(d), Dec. 4, 1991, 105 Stat. 1263, provided t
 
 Pub. L. 102–183, title III, §303(b), Dec. 4, 1991, 105 Stat. 1264, provided that: "(1) The amendments made by subsection (a) \[amending section 221(p)–(r) of Pub. L. 88–643\] shall take effect on the first day of the fourth month beginning after the date of the enactment of this Act \[Dec. 4, 1991\].
 
-"(2)(A) The amendment made by subsection (a)(2) \[enacting section 221(q) of Pub. L. 88–643\] shall apply with respect to participants and former participants regardless of whether they retire before, on, or after the effective date specified in paragraph (1), except that paragraph (1)(A) of section 221(q) of the Central IntelligenceAgency Retirement Act of 1964 for Certain Employees (as added by subsection (a)(2)) shall apply only with respect to participants who retire on or after that effective date.
+"(2)(A) The amendment made by subsection (a)(2) \[enacting section 221(q) of Pub. L. 88–643\] shall apply with respect to participants and former participants regardless of whether they retire before, on, or after the effective date specified in paragraph (1), except that paragraph (1)(A) of section 221(q) of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees (as added by subsection (a)(2)) shall apply only with respect to participants who retire on or after that effective date.
 
 "(B) In applying the provisions of paragraph (1)(B) of section 221(q) of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees (as added by subsection (a)(2)) to a participant or former participant who retires before the effective date specified in paragraph (1)—
 
@@ -214,11 +218,13 @@ Pub. L. 94–522, title II, §214, Oct. 17, 1976, 90 Stat. 2472, provided that:
 
 #### Temporary Retirement Contributions and Procedures for Certain Participants
 
-For temporary provisions providing modified contributions and procedures for officers and employeesparticipating in the Central Intelligence Agency Retirement and Disability System who are also required to pay employment taxes relating to benefits under title II of the Social Security Act, 42 U.S.C. 401 et seq., until they are covered by a new Government retirement system or Jan. 1, 1986, whichever is earlier, see title II of Pub. L. 98–168, set out as a note under section 8331 of Title 5, Government Organization and Employees.
+For temporary provisions providing modified contributions and procedures for officers and employees participating in the Central Intelligence Agency Retirement and Disability System who are also required to pay employment taxes relating to benefits under title II of the Social Security Act, 42 U.S.C. 401 et seq., until they are covered by a new Government retirement system or Jan. 1, 1986, whichever is earlier, see title II of Pub. L. 98–168, set out as a note under section 8331 of Title 5, Government Organization and Employees.
 
 #### Contingent Once-a-Year Adjustment in Annuities
 
 For provisions which directed the President, subject to certain conditions, to provide for a single cost-of-living adjustment in the annuities paid under the Central Intelligence Agency Retirement Act of 1964 for Certain Employees \[Pub. L. 88–643\] during the period Sept. 1, 1980, to Aug. 31, 1981, and which further directed that, subject to the enactment of specified legislation providing for the adjustment of annuities paid under section 8331 et seq. of Title 5, Government Organization and Employees, the President exercise the authority vested in him under section 292 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees \[Pub. L. 88–643\] to provide for cost-of-living adjustments in the annuities paid under that Act on an identical basis, see Pub. L. 96–342, title VIII, §812(a)(3), (4), (b)(3), (4), (c), Sept. 8, 1980, 94 Stat. 1098, set out as a note under section 1401a of Title 10, Armed Forces.
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 11950
 
@@ -250,7 +256,7 @@ Ex. Ord. No. 12443, Sept. 27, 1983, 48 F.R. 44751, conformed Central Intelligenc
 
 #### Executive Order No. 12485
 
-Ex. Ord. No. 12485, July 13, 1984, 49 F.R. 28827, conformed Central Intelligence Agency Retirement and Disability System and Civil Service Retirement and Disability System with regard to prior service credit.
+Ex. Ord. No. 12485, July 13, 1984, 49 F.R. 28827, conformed Central Intelligence Agency Retirement andDisability System and Civil Service Retirement and Disability System with regard to prior service credit.
 
 #### Executive Order No. 12684
 

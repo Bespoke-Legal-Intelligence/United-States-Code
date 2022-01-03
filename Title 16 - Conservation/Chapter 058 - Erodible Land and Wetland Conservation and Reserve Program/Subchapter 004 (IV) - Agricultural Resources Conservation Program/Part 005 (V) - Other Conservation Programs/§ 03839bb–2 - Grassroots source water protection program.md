@@ -20,6 +20,8 @@ The Secretary shall establish a national grassroots water protection program to 
 
 (Pub. L. 99–198, title XII, §1240O, as added Pub. L. 107–171, title II, §2502(a), May 13, 2002, 116 Stat. 267; amended Pub. L. 110–234, title II, §2603, May 22, 2008, 122 Stat. 1068; Pub. L. 110–246, §4(a), title II, §2603, June 18, 2008, 122 Stat. 1664, 1796; Pub. L. 113–79, title II, §2502, Feb. 7, 2014, 128 Stat. 751; Pub. L. 115–334, title II, §2405, Dec. 20, 2018, 132 Stat. 4573.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -33,6 +35,8 @@ Subsec. (b)(3). Pub. L. 115–334, §2405(b), added par. (3).
 <b>2014</b>—Subsec. (b). Pub. L. 113–79 amended subsec. (b) generally. Prior to amendment, text read as follows: "There is authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2008 through 2012."
 
 <b>2008</b>—Subsec. (b). Pub. L. 110–246, §2603, substituted "$20,000,000 for each of fiscal years 2008 through 2012" for "$5,000,000 for each of fiscal years 2002 through 2007".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

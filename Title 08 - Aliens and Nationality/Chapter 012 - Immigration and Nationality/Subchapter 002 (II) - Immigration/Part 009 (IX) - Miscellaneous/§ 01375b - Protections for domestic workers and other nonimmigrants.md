@@ -70,7 +70,7 @@ The information pamphlet and video developed under subsection (a) shall include 
 
 #### (3) Deadline for pamphlet development and distribution
 
-&emsp;Not later than 180 days after December 23, 2008, the Secretary of State shall distribute and make available the information pamphlet developed under subsection (a) in all the languages referred to in subsection (c).
+&emsp;Not later than 180 days after December 23, 2008, the Secretary of State shall distributeand make available the information pamphlet developed under subsection (a) in all the languages referred to in subsection (c).
 
 #### (4) Deadline for video development and distribution
 

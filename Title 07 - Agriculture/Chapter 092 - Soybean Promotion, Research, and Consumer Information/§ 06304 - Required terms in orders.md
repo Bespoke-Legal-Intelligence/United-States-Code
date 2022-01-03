@@ -44,7 +44,7 @@ Any order issued under this chapter shall contain the terms and conditions speci
 
 #### (F) Adjustment of levels of production
 
-&emsp;&emsp;At the end of each 3 year period beginning with the 3 year period starting on the effective date of the order, the Board may recommend to the Secretary, to the extent it determines appropriate, changes in the levels of production used in subparagraphs (A), (B), and (C) to determine per-unit representation on the Board. The Secretary may amend the order to make such changes in levels of production used to determine per-unit representation. Any such amendment tothe order shall not be subject to a referendum of producers. A unit may not, as a result of any modification under this subparagraph, lose Board seats to which it is entitled at the time the order is initially issued unless its average annual production, as determined under subparagraph (D), declines below the levels required for representation, as specified in subparagraphs (A), (B), and (C).
+&emsp;&emsp;At the end of each 3 year period beginning with the 3 year period starting on the effective date of the order, the Board may recommend to the Secretary, to the extent it determines appropriate, changes in the levels of production used in subparagraphs (A), (B), and (C) to determine per-unit representation on the Board. The Secretary may amend the order to make such changes in levels of production used to determine per-unit representation. Any such amendment to the order shall not be subject to a referendum of producers. A unit may not, as a result of any modification under this subparagraph, lose Board seats to which it is entitled at the time the order is initially issued unless its average annual production, as determined under subparagraph (D), declines below the levels required for representation, as specified in subparagraphs (A), (B), and (C).
 
 #### (3) Nominations
 
@@ -124,7 +124,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 &emsp;(8) to recommend to the Secretary amendments to the order;
 
-&emsp;(9) to provide the Secretary with prior notice of meetings of the Board and meetings of committees of the Board to permit the Secretary, or a designated representative, to attend such meetings; and
+&emsp;(9) to provide the Secretary with prior notice of meetings of the Board and meetings ofcommittees of the Board to permit the Secretary, or a designated representative, to attend such meetings; and
 
 &emsp;(10) to provide not less than annually a report to producers accounting for funds and describing programs implemented, and such reports shall be made available to the public on request.
 
@@ -280,7 +280,7 @@ The order shall define the powers and duties that the Board may assign to the Co
 
 #### (1) Authority
 
-&emsp;To ensure coordination and efficient use of funds, the order shall provide that the Board may enter into contracts or agreements forthe implementation and carrying out of the activities authorized by this chapter with national, nonprofit, producer-governed organizations that represent producers of soybeans, and for the payment thereof with funds received by the Board under the order.
+&emsp;To ensure coordination and efficient use of funds, the order shall provide that the Board may enter into contracts or agreements for the implementation and carrying out of the activities authorized by this chapter with national, nonprofit, producer-governed organizations that represent producers of soybeans, and for the payment thereof with funds received by the Board under the order.
 
 #### (2) Coordination
 
@@ -358,7 +358,7 @@ The order shall require the Board to—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The order shall provide that, during the period prior to the approval of the continuation of the initial order in the referendum provided for in section 6305(a) of this title, as determined by the Secretary, each producer shall have the right to demand and receive from the Board a refund of any assessment collected from such producer if—
+&emsp;&emsp;&emsp;The order shall provide that, during the period prior to the approval of the continuation of the initial order in the referendum provided for in section 6305(a) ofthis title, as determined by the Secretary, each producer shall have the right to demand and receive from the Board a refund of any assessment collected from such producer if—
 
 &emsp;&emsp;&emsp;&emsp;(I) such producer is responsible for paying the assessment; and
 
@@ -414,7 +414,7 @@ The order shall require the Board to—
 
 #### (vi) Continuation or cessation of refunds
 
-&emsp;&emsp;&emsp;If the Secretary determines, in the referendum conducted under clause (iv), that continuation of the payment of refunds is favored by a majority of the producers voting in such referendum, the qualified State soybean board and, where no qualified State soybean board exists, the Board shall continue to make refunds available to producers as provided for in clause (ii) for each 1-year period that follows until such time as soybean producers approve an amendment to the order to eliminate such refunds. Such refunds shall be payable at the end of each such 1-year period from escrowed funds, as provided in clause (vii). If the Secretary determines in the referendum that continuation of such refunds is not favored by a majority of producers voting in the referendum, the right to such refunds shall cease immediately.
+&emsp;&emsp;&emsp;If the Secretary determines, in the referendum conducted under clause (iv), that continuation of the payment of refunds is favored by a majority of the producers voting in such referendum, the qualified State soybean board and, where no qualified State soybean board exists, the Boardshall continue to make refunds available to producers as provided for in clause (ii) for each 1-year period that follows until such time as soybean producers approve an amendment to the order to eliminate such refunds. Such refunds shall be payable at the end of each such 1-year period from escrowed funds, as provided in clause (vii). If the Secretary determines in the referendum that continuation of such refunds is not favored by a majority of producers voting in the referendum, the right to such refunds shall cease immediately.
 
 #### (vii) Escrow accounts
 
@@ -466,13 +466,13 @@ The order shall require the Board to—
 
 #### (m) Credit for certain costs to States
 
-The order shall provide that the Board may provide a credit to each qualified State soybean board of an amount not to exceed one-half ofany fees paid to State governmental agencies or first purchasers for collection of the assessments if the payment of such fees by the qualified State soybean board is required by State law enacted prior to November 28, 1990, except that the Board may not provide a credit to any qualified State soybean board of an amount that exceeds 2.5 percent of the amount of assessments collected and remitted to the Board under subsection (l).
+The order shall provide that the Board may provide a credit to each qualified State soybean board of an amount not to exceed one-half of any fees paid to State governmental agencies or first purchasers for collection of the assessments if the payment of such fees by the qualified State soybean board is required by State law enacted prior to November 28, 1990, except that the Board may not provide a credit to any qualified State soybean board of an amount that exceeds 2.5 percent of the amount of assessments collected and remitted to the Board under subsection (l).
 
 #### (n) Minimum level of assessments to States
 
 #### (1) Pre-referendum period
 
-&emsp;The order shall contain provisions to ensure that, during the period prior to the conduct of the referendum provided for in section 6305(a) of this title, each qualified State soybean board receives annually an amount of funds equal to the average amount that the State board collected from assessments during each of the State board's fiscal years 1984 through 1988 (excluding the year in which such collections were the highest and the year in which such collections were the lowest), as determined by the Secretary and subject to paragraph (3).
+&emsp;The order shall contain provisions to ensure that, during the period prior to the conduct of the referendum provided for in section 6305(a) of this title, each qualified State soybeanboard receives annually an amount of funds equal to the average amount that the State board collected from assessments during each of the State board's fiscal years 1984 through 1988 (excluding the year in which such collections were the highest and the year in which such collections were the lowest), as determined by the Secretary and subject to paragraph (3).
 
 #### (2) Post-referendum period
 
@@ -546,7 +546,7 @@ The order shall provide that the Board may provide a credit to each qualified St
 
 #### (A) In general
 
-&emsp;&emsp;Except as otherwise provided in this chapter, commercial or financial informationthat is obtained under paragraph (1) or (2) and that is privileged or confidential shall be kept confidential by all officers and employees of the Department, members of the Board, and agents of the Board.
+&emsp;&emsp;Except as otherwise provided in this chapter, commercial or financial information that is obtained under paragraph (1) or (2) and that is privileged or confidential shall be kept confidential by all officers and employees of the Department, members of the Board, and agents of the Board.
 
 #### (B) Permitted uses
 
@@ -575,6 +575,8 @@ The order shall provide that the Board may provide a credit to each qualified St
 The order shall provide terms and conditions, not inconsistent with the provisions of this chapter, as necessary to effectuate the provisions of the order, including provisions for the assessment of a penalty for each late payment of assessments under subsection (l).
 
 (Pub. L. 101–624, title XIX, §1969, Nov. 28, 1990, 104 Stat. 3884; Pub. L. 102–237, title VIII, §806(1), Dec. 13, 1991, 105 Stat. 1883.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

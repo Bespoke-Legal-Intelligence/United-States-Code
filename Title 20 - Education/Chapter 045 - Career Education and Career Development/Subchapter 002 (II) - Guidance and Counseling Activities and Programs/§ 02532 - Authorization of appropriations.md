@@ -18,6 +18,8 @@ There are authorized to be appropriated $20,000,000 for each of the fiscal years
 
 (Pub. L. 94–482, title III, §342, Oct. 12, 1976, 90 Stat. 2224; Pub. L. 95–561, title XIII, §1351, Nov. 1, 1978, 92 Stat. 2364; Pub. L. 96–88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Title IV of the Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(2), which was formerly classified to subchapter I (§1801 et seq.) of chapter 40 of this title, was amended generally by Pub. L. 95–561, title IV, §401, Nov. 1, 1978, 92 Stat. 2229, and reclassified to subchapter IV (§3081 et seq.) of chapter 47 of this title prior to its repeal by Pub. L. 97–35, title V, §587(a)(1), Aug. 13, 1981, 95 Stat. 480. Section 401(a) and part B of title IV of the Elementary and Secondary Education Act of 1965 were classified to section 3081(a) and sections 3101 and 3102, respectively, of this title prior to their repeal by section 587(a)(1) of Pub. L. 97–35.
@@ -25,6 +27,8 @@ Title IV of the Elementary and Secondary Education Act of 1965, referred to in s
 #### Amendments
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–561 substituted "fiscal years 1978 through 1983" for "fiscal years 1978 and 1979".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 
@@ -37,6 +41,8 @@ Section effective 30 days after Oct. 12, 1976, except either as specifically oth
 #### Transfer of Functions
 
 "Secretary of Education" substituted for "Commissioner" in subsec. (b)(1) and (3) pursuant to sections 301(a)(1) and 507 of Pub. L. 96–88, which are classified to sections 3441(a)(1) and 3507 of this title and which transferred functions of Commissioner of Education to Secretary of Education.
+
+#### <b>Executive Documents</b>
 
 #### Termination of Trust Territory of the Pacific Islands
 

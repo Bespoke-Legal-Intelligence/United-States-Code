@@ -20,7 +20,7 @@ Act Aug. 11, 1955, ch. 786, 69 Stat. 666, as amended by Pub. L. 115–399, §4(1
 
 #### Restriction on Alienation of Certain Lands; Approval of Conveyance; Jurisdiction of Oklahoma State Courts; Tax Exemption
 
-Pub. L. 115–399, §5, Dec. 31, 2018, 132 Stat. 5333, provided that: "Nothing in this Act \[see Short Title of 2018 Amendment note set out under section 331 of this title\], or the amendments made by this Act, shall be construed to revise or extend the restricted status of any lands under the Act of August 4, 1947 (61 Stat. 731, chapter 458) \[see below\] that lost restricted status under such Act before the date of enactment of this Act \[Dec. 31, 2018\]."
+Pub. L. 115–399, §5, Dec. 31, 2018, 132 Stat. 5333, provided that: "Nothing in this Act \[see Short Title of 2018 Amendment note set out under section 331 of this title\], or the amendments made by this Act, shall be construed to revise or extend the restricted status of anylands under the Act of August 4, 1947 (61 Stat. 731, chapter 458) \[see below\] that lost restricted status under such Act before the date of enactment of this Act \[Dec. 31, 2018\]."
 
 Act Aug. 4, 1947, ch. 458, 61 Stat. 731, as amended by act Aug. 12, 1953, ch. 409, §2, 67 Stat. 558; Pub. L. 115–399, §§2, 3, 4(2), Dec. 31, 2018, 132 Stat. 5331–5333, provided that certain restrictions on alienation of land were extended until an Act of Congress determined otherwise, including interests in estates of decedent Indians who died before Dec. 31, 2018; clarified the laws relating to the approval of conveyances of restricted lands; defined the jurisdiction of Oklahoma State courts over certain classes of Indian litigation; set out the procedure governing the removal of cases to the Federal courts and authorized appeals from orders of remand; preserved the right to seek removal of restrictions; preserved land transactions entered into before Dec. 31, 2018; and limited the tax-exempt acreage of restricted Indian lands.
 
@@ -34,7 +34,7 @@ Act Jan. 27, 1933, ch. 23, 47 Stat. 777, as amended by act Aug. 4, 1947, ch. 458
 
 #### Removal of Restrictions From Part of Allotted Lands; Leases; Taxation; Appointment of Local Agents
 
-Act May 27, 1908, ch. 199, 35 Stat. 312, as amended by act Apr. 12, 1926, ch. 115, §1, 44 Stat. 239, provided in part for the removal of restrictions from part of the lands of allottees; authorized leases of allotted lands; made unrestricted lands subject to taxation; voided alienation or incumbrance of restricted lands; and authorized appointment of local agents to investigate estates of minors and to advise and represent allottees. \[For information regarding constitutionality of certain provisions of act May 27, 1908, formerly set out above, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.\]
+Act May 27, 1908, ch. 199, 35 Stat. 312, as amended by act Apr. 12, 1926, ch. 115, §1, 44 Stat. 239, provided in part for the removal of restrictions from part of the lands of allottees; authorized leases of allotted lands; made unrestricted lands subject to taxation; voided alienation or incumbrance of restricted lands; and authorized appointment of local agents to investigate estates of minors and to advise and represent allottees.
 
 #### Final Disposition of Affairs of the Five Civilized Tribes
 

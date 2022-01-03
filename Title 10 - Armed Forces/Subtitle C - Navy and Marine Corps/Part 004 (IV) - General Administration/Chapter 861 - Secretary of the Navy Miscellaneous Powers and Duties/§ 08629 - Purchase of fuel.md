@@ -20,9 +20,13 @@ R.S. 3728.
 
 The first sentence is omitted as covered by §2 of the Act of Mar. 3, 1933, ch. 212 (41 U.S.C. 10a). The words "for the Navy, or for naval stations and yards" are omitted, since R.S. 3728 has been interpreted as authorizing the Armed Services Petroleum Purchasing Agency to negotiate contracts for the purchase of fuel, not only when acting as a procuring activity for the Navy, but also when filling the consolidated fuel requirements of the armed forces. The word "may" is substituted for the words "shall have the power to" for uniformity. The words "discriminate and" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7229 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

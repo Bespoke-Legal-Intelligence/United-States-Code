@@ -102,7 +102,7 @@ Applicability.—This subsection shall apply only with respect to—
 
 &emsp;(B) an area that was designated as a nonattainment area but that was later redesignated by the Administrator as an attainment area and that is required to develop a maintenance plan under section 7505a of this title with respect to the specific pollutant for which the area was designated nonattainment.
 
-(6) Notwithstanding paragraph 5,<sup>2</sup> this subsection shall not apply with respect to an area designated nonattainment under section 7407(d)(1) of this title until 1 year after that area is first designated nonattainment for a specific national ambient air quality standard. This paragraph only applies with respect to the national ambient air quality standard for which an area is newly designated nonattainment and does not affect the area's requirements with respect to all other national ambient air quality standards for which the area is designated nonattainment or has been redesignated from nonattainment to attainment with a maintenance plan pursuant to section 7505a <sup>1</sup> of this title (including any pre-existing national ambient airquality standard for a pollutant for which a new or revised standard has been issued).
+(6) Notwithstanding paragraph 5,<sup>2</sup> this subsection shall not apply with respect to an area designated nonattainment under section 7407(d)(1) of this title until 1 year after that area is first designated nonattainment for a specific national ambient air quality standard. This paragraph only applies with respect to the national ambient air quality standard for which an area is newly designated nonattainment and does not affect the area's requirements with respect to all other national ambient air quality standards for which the area is designated nonattainment or has been redesignated from nonattainment to attainment with a maintenance plan pursuant to section 7505a <sup>1</sup> of this title (including any pre-existing national ambient air quality standard for a pollutant for which a new or revised standard has been issued).
 
 (7)
 
@@ -200,9 +200,11 @@ Lapse.—In this subsection, the term "lapse" means that the conformity determin
 
 #### (d) Priority of achieving and maintaining national primary ambient air quality standards
 
-Each department, agency, or instrumentality of the Federal Government having authority to conduct or support any program with air-quality related transportation consequences shall give priority in the exercise of such authority, consistent with statutory requirements for allocation among States or other jurisdictions, to the implementation of those portions of plans prepared under this section to achieve and maintain the national primary ambient air-quality standard. This paragraph extends to, but is not limited to, authority exercised under chapter 53 of title 49, title 23, and the Housing and Urban Development Act.
+Each department, agency, or instrumentality of the Federal Government having authority toconduct or support any program with air-quality related transportation consequences shall give priority in the exercise of such authority, consistent with statutory requirements for allocation among States or other jurisdictions, to the implementation of those portions of plans prepared under this section to achieve and maintain the national primary ambient air-quality standard. This paragraph extends to, but is not limited to, authority exercised under chapter 53 of title 49, title 23, and the Housing and Urban Development Act.
 
 (July 14, 1955, ch. 360, title I, §176, as added Pub. L. 95–95, title I, §129(b), Aug. 7, 1977, 91 Stat. 749; amended Pub. L. 95–190, §14(a)(59), Nov. 16, 1977, 91 Stat. 1403; Pub. L. 101–549, title I, §§101(f), 110(4), Nov. 15, 1990, 104 Stat. 2409, 2470; Pub. L. 104–59, title III, §305(b), Nov. 28, 1995, 109 Stat. 580; Pub. L. 104–260, §1, Oct. 9, 1996, 110 Stat. 3175; Pub. L. 106–377, §1(a)(1) \[title III\], Oct. 27, 2000, 114 Stat. 1441, 1441A–44; Pub. L. 109–59, title VI, §6011(a)–(f), Aug. 10, 2005, 119 Stat. 1878–1881.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -236,9 +238,11 @@ Subsec. (c)(7) to (10). Pub. L. 109–59, §6011(c)–(e), added pars. (7) to (1
 
 <b>1990</b>—Subsecs. (a), (b). Pub. L. 101–549, §110(4), struck out subsec. (a) which related to approval of projects or award of grants, and subsec. (b) which related to implementation of approved or promulgated plans.
 
-Subsec. (c). Pub. L. 101–549, §101(f), designated existing provisions as par. (1), struck out "(1)", "(2)", "(3)",and "(4)" before "engage in", "support in", "license or", and "approve, any", respectively, substituted "conform to an implementation plan after it" for "conform to a plan after it", "conform to an implementation plan approved" for "conform to a plan approved", and "conformity to such an implementation plan shall" for "conformity to such a plan shall", inserted "Conformity to an implementation plan means—" followed immediately by subpars. (A) and (B) and closing provisions relating to determination of conformity being based on recent estimates of emissions and the determination of such estimates, and added pars. (2) to (4).
+Subsec. (c). Pub. L. 101–549, §101(f), designated existing provisions as par. (1), struck out "(1)", "(2)", "(3)", and "(4)" before "engage in", "support in", "license or", and "approve, any", respectively, substituted "conform to an implementation plan after it" for "conform to a plan after it", "conform to an implementation plan approved" for "conform to a plan approved", and "conformity to such an implementation plan shall" for "conformity to such a plan shall", inserted "Conformity to an implementation plan means—" followed immediately by subpars. (A) and (B) and closing provisions relating to determination of conformity being based on recent estimates of emissions and the determination of such estimates, and added pars. (2) to (4).
 
 <b>1977</b>—Subsec. (a)(1). Pub. L. 95–190 inserted "national" before "primary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Regulations
 

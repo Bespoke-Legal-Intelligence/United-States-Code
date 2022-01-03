@@ -38,7 +38,7 @@
 
 &emsp;From the amounts appropriated under section 9858 of this title for each fiscal year remaining after reservations under subsection (a), the Secretary shall allot to each State an amount equal to the sum of—
 
-&emsp;&emsp;(A) an amount that bears the same ratio to 50 percent of such remainder as the productof the young child factor of the State and the allotment percentage of the State bears to the sum of the corresponding products for all States; and
+&emsp;&emsp;(A) an amount that bears the same ratio to 50 percent of such remainder as the product of the young child factor of the State and the allotment percentage of the State bears to the sum of the corresponding products for all States; and
 
 &emsp;&emsp;(B) an amount that bears the same ratio to 50 percent of such remainder as the product of the school lunch factor of the State and the allotment percentage of the State bears to the sum of the corresponding products for all States.
 
@@ -54,7 +54,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The allotment percentage for a State is determined by dividing the per capita income of all individuals in the United States, by the per capita income of all individuals in the State.
+&emsp;&emsp;The allotment percentage for a State is determined by dividing the per capita incomeof all individuals in the United States, by the per capita income of all individuals in the State.
 
 #### (B) Limitations
 
@@ -120,7 +120,7 @@
 
 #### (A) Request for use of funds
 
-&emsp;&emsp;An Indian tribe or tribal organization may submit to the Secretary a request to useamounts provided under this subsection for construction or renovation purposes.
+&emsp;&emsp;An Indian tribe or tribal organization may submit to the Secretary a request to use amounts provided under this subsection for construction or renovation purposes.
 
 #### (B) Determination
 
@@ -130,7 +130,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), the Secretary may not permit an Indian tribe or tribal organization to use amounts provided under this subsection for construction or renovation if the use will result in a decrease in the level of child care services provided by the Indian tribe or tribal organization as compared to the level of child care services provided by the Indian tribe or tribal organization in the fiscal year preceding the year for which the determination under subparagraph (B) is being made.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), the Secretary may not permit an Indian tribe or tribal organization to use amounts provided under this subsection for construction or renovation if the use will result in a decrease in the level of child care services provided by the Indian tribe or tribalorganization as compared to the level of child care services provided by the Indian tribe or tribal organization in the fiscal year preceding the year for which the determination under subparagraph (B) is being made.
 
 #### (ii) Waiver
 
@@ -182,6 +182,8 @@ For the purposes of this section, the term "State" includes only the 50 States, 
 
 (Pub. L. 97–35, title VI, §658O, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–246; amended Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 104–193, title VI, §613, Aug. 22, 1996, 110 Stat. 2286; Pub. L. 105–33, title V, §5602(4), Aug. 5, 1997, 111 Stat. 646; Pub. L. 106–78, title VII, §752(b)(17), Oct. 22, 1999, 113 Stat. 1170; Pub. L. 113–186, §9, Nov. 19, 2014, 128 Stat. 1998.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Richard B. Russell National School Lunch Act, referred to in subsec. (b)(3), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of this title and Tables.
@@ -194,7 +196,7 @@ Subsec. (a)(3) to (5). Pub. L. 113–186, §9(1)(B), added pars. (3) to (5).
 
 Subsec. (c)(2)(D). Pub. L. 113–186, §9(2)(A), added subpar. (D).
 
-Subsec. (c)(6)(C). Pub. L. 113–186, §9(2)(B), added subpar. (C) and struck out former subpar. (C). Prior toamendment, text read as follows: "The Secretary may not permit an Indian tribe or tribal organization to use amounts provided under this subsection for construction or renovation if such use will result in a decrease in the level of child care services provided by the tribe or organization as compared to the level of such services provided by the tribe or organization in the fiscal year preceding the year for which the determination under subparagraph (B) is being made."
+Subsec. (c)(6)(C). Pub. L. 113–186, §9(2)(B), added subpar. (C) and struck out former subpar. (C). Prior to amendment, text read as follows: "The Secretary may not permit an Indian tribe or tribal organization to use amounts provided under this subsection for construction or renovation if such use will result in a decrease in the level of child care services provided by the tribe or organization as compared to the level of such services provided by the tribe or organization in the fiscal year preceding the year for which the determination under subparagraph (B) is being made."
 
 <b>1999</b>—Subsec. (b)(3). Pub. L. 106–78 substituted "Richard B. Russell National School Lunch Act" for "National School Lunch Act".
 
@@ -211,6 +213,8 @@ Subsec. (c)(6). Pub. L. 104–193, §613(2)(B), added par. (6).
 Subsec. (e)(4). Pub. L. 104–193, §613(3), added par. (4).
 
 <b>1992</b>—Pub. L. 102–401 and Pub. L. 102–586 made identical technical corrections to directory language of Pub. L. 101–508, §5082(2), which added this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1997 Amendment
 

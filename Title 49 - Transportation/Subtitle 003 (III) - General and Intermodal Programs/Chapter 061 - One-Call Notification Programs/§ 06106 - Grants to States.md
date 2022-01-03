@@ -28,6 +28,8 @@ Funding for One-Call Notification Systems.—A State may provide funds received 
 
 (Added Pub. L. 105–178, title VII, §7302(a), June 9, 1998, 112 Stat. 482.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this chapter, referred to in subsec. (b), is the date of enactment of Pub. L. 105–178, which was approved June 9, 1998.

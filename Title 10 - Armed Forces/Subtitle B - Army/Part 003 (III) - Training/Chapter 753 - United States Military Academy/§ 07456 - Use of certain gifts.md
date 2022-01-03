@@ -2,7 +2,7 @@
 
 Under regulations prescribed by the Secretary of the Army, the Superintendent of the Academy may (without regard to section 2601 of this title) accept, hold, administer, invest, and spend any gift, devise, or bequest of personal property of a value of $20,000 or less made to the United States on the condition that such gift, devise, or bequest be used for the benefit of the Academy or any entity thereof. The Secretary may pay or authorize the payment of all reasonable and necessary expenses in connection with the conveyance or transfer of a gift, devise, or bequest under this section.
 
-(Added Pub. L. 97–295, §1(41)(A), Oct. 12, 1982, 96 Stat. 1297, §4356; renumbered §7456, Pub. L. 115–232, div. A, title VIII, §808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
+(Added Pub. L. 97–295, §1(41)(A), Oct. 12, 1982, 96 Stat. 1297, §4356; renumbered §7456, Pub. L.115–232, div. A, title VIII, §808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
 
 Historical and Revision Notes
 
@@ -20,9 +20,13 @@ Sept. 8, 1982, Pub. L. 97–252, §1133(a), 96 Stat. 761.
 
 The word "Academy" is substituted for "United States Military Academy" for consistency in title 10.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4356 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

@@ -34,7 +34,7 @@
 
 #### (b) Proceeds
 
-The Secretary shall require, as a condition of any purchase under subsection (a), that the funds paid by the Secretary to any eligible lender under this section be used—
+The Secretary shall require, as a condition of any purchase under subsection (a), that thefunds paid by the Secretary to any eligible lender under this section be used—
 
 &emsp;(1) to ensure continued participation of such lender in the Federal student loan programs authorized under part B of this subchapter; and
 
@@ -100,9 +100,11 @@ The Secretary's authority to purchase loans under this section shall expire on J
 
 (Pub. L. 89–329, title IV, §459A, as added Pub. L. 110–227, §7(b), May 7, 2008, 122 Stat. 746; amended Pub. L. 110–315, title IV, §453, Aug. 14, 2008, 122 Stat. 3263; Pub. L. 110–350, §1, Oct. 7, 2008, 122 Stat. 3947; Pub. L. 111–39, title IV, §404(a), July 1, 2009, 123 Stat. 1945.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>2009</b>—Subsec. (a)(2). Pub. L. 111–39, §404(a)(1)(A), substituted "purchase of loans under paragraph (1)" for "purchase of loans under this section" in introductory provisions.
+<b>2009</b>—Subsec. (a)(2). Pub. L. 111–39, §404(a)(1)(A), substituted "purchase of loans under paragraph (1)" for"purchase of loans under this section" in introductory provisions.
 
 Subsec. (a)(3). Pub. L. 111–39, §404(a)(1)(B), added par. (3).
 
@@ -121,6 +123,8 @@ Subsec. (e)(3). Pub. L. 110–350, §1(2)(C), substituted "2009, 2010, and 2011"
 Subsec. (f). Pub. L. 110–350, §1(1), substituted "July 1, 2010" for "July 1, 2009".
 
 Pub. L. 110–315, §453(1), redesignated subsec. (d) as (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

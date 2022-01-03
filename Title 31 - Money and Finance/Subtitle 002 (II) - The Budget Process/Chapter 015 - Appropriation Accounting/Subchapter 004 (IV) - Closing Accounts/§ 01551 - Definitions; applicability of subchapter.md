@@ -100,7 +100,7 @@ Obligations and adjustment of obligations.—(A) After cancellation of unobligat
 
 "(8)
 
-Obligations and adjustments of obligations for expired but not closed accounts.—(A) Subject to subparagraphs (B), (C), and (D), in the case of an appropriation account for a fiscal year before fiscal year 1992 for which the period of availability for obligation has expired but which has not been closed under the provisions of section 1552(a) of title 31, United States Code, or paragraph (4) of this section, an obligation and an adjustment of an obligation may be charged to any current appropriation account of the Department of Defense that is available for the same purpose as the expired account if—
+Obligations and adjustments of obligations for expired but not closed accounts.—(A) Subject to subparagraphs (B), (C), and (D), in the case of an appropriation account for a fiscal year before fiscal year 1992 for which the period of availability for obligation has expired but which has not been closed under the provisions of section 1552(a) of title 31, United States Code,or paragraph (4) of this section, an obligation and an adjustment of an obligation may be charged to any current appropriation account of the Department of Defense that is available for the same purpose as the expired account if—
 
 &emsp;"(i) the obligation would have been properly chargeable (except as to amount) to the expired account before the end of the period of availability of that account; and
 
@@ -124,5 +124,5 @@ Certifications.—No obligation or adjustment of an obligation may be charged pu
 
 "(E)
 
-Alternative to certification.—If the Secretary of Defense is unable to make the certificationsreferred to in subparagraph (D) within 60 days after the date of the enactment of this subparagraph \[Oct. 23, 1992\], the Secretary shall submit to the Congress a report stating that the Secretary is unable to make such certifications and setting forth the actions that the Secretary will take in order to enable the Secretary to make such certifications after the end of that period."
+Alternative to certification.—If the Secretary of Defense is unable to make the certifications referred to in subparagraph (D) within 60 days after the date of the enactment of this subparagraph \[Oct. 23, 1992\], the Secretary shall submit to the Congress a report stating that the Secretary is unable to make such certifications and setting forth the actions that the Secretary will take in order to enable the Secretary to make such certifications after the end of that period."
 

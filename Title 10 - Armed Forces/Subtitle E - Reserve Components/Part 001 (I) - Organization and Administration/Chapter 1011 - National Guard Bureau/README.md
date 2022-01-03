@@ -13,6 +13,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Pub. L. 115–91, div. A, title III, §333(b)(2), Dec. 12, 2017, 131 Stat. 1356, added item 10504 and struck out former item 10504 "Chief of National Guard Bureau: annual report".

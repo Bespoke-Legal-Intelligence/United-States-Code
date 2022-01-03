@@ -6,7 +6,7 @@
 
 (3) The Secretary may, without regard to the application to this chapter of so much of the provisions of section 3471 of this title as prohibit the enrollment of an eligible veteran in a program of education in which the veteran is "already qualified", and pursuant to such regulations as the Secretary shall prescribe, approve the enrollment of such individual in refresher courses (including courses which will permit such individual to update knowledge and skills or be instructed in the technological advances which have occurred in the individual's field of employment during and since the period of such veteran's active military service), deficiency courses, or other preparatory or special education or training courses necessary to enable the individual to pursue an approved program of education.
 
-(b) Regulations prescribed by the Secretary of Defense under this chapter shall be uniform forthe Armed Forces under the jurisdiction of the Secretary of a military department.
+(b) Regulations prescribed by the Secretary of Defense under this chapter shall be uniform for the Armed Forces under the jurisdiction of the Secretary of a military department.
 
 (c) Payment of educational assistance allowance in the case of an eligible individual pursuing a program of education under this chapter on less than a half-time basis shall be made in a lump-sum amount for the entire quarter, semester, or term not later than the last day of the month immediately following the month in which certification is received from the educational institution that such individual has enrolled in and is pursuing a program at such institution. Such lump-sum payment shall be computed at the rate determined under section 3032(b) of this title.
 
@@ -20,7 +20,7 @@
 
 (e)(1) In the case of a member of the Armed Forces who participates in basic educational assistance under this chapter, the Secretary shall furnish the information described in paragraph (2) to each such member. The Secretary shall furnish such information as soon as practicable after the basic pay of the member has been reduced by $1,200 in accordance with section 3011(b) or 3012(c) of this title and at such additional times as the Secretary determines appropriate.
 
-(2) The information referred to in paragraph (1) is information with respect to the benefits, limitations, procedures, eligibility requirements (including time-in-service requirements), and other important aspects of the basic educational assistance program under this chapter, including application forms for such basic educational assistance under section 5102 of this title.
+(2) The information referred to in paragraph (1) is information with respect to the benefits,limitations, procedures, eligibility requirements (including time-in-service requirements), and other important aspects of the basic educational assistance program under this chapter, including application forms for such basic educational assistance under section 5102 of this title.
 
 (3) The Secretary shall furnish the forms described in paragraph (2) and other educational materials to educational institutions, training establishments, and military education personnel, as the Secretary determines appropriate.
 

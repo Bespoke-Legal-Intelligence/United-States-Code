@@ -24,7 +24,7 @@ Powers.—While engaged in the performance of official duties, an officer or age
 
 &emsp;&emsp;(D) serve warrants and subpoenas issued under the authority of the United States;
 
-&emsp;&emsp;(E) conduct investigations, on and off the property in question, of offenses that may have been committed against property owned or occupied by the Federal Government or persons on the property; and
+&emsp;&emsp;(E) conduct investigations, on and off the property in question, of offenses that mayhave been committed against property owned or occupied by the Federal Government or persons on the property; and
 
 &emsp;&emsp;(F) carry out such other activities for the promotion of homeland security as the Secretary may prescribe.
 
@@ -154,7 +154,7 @@ Powers.—Special police appointed under this section have the same powers as sh
 
 "(c)
 
-Detail.—On the application of the head of a department or agency of the Government having property of the Government under its administration and control, the Administrator or an official of the Administration authorized by the Administrator may detail special police for the protection of the property and, if the Administrator considers it desirable, may extend to the property the applicability of regulations and enforce them as provided in this section.
+Detail.—On the application of the head of a department or agency of the Government having property of the Government under its administration and control, the Administrator or an official of the Administration authorized by the Administrator may detail special police for the protection of the property and, if the Administrator considers it desirable, may extend tothe property the applicability of regulations and enforce them as provided in this section.
 
 "(d)
 
@@ -162,7 +162,7 @@ Use of Other Law Enforcement Agencies.—When it is considered economical and in
 
 "(e)
 
-Nonuniformed Special Police.—The Administrator, or an official of the Administration authorized by the Administrator, may empower officials or employees of the Administration authorized to perform investigative functions to act as nonuniformed special police to protect property under the charge and control of the Administration and to carry firearms, whether on federal property or in travel status. When on real property under the charge and control of the Administration, officials or employees empowered to act as nonuniformed special police have the power to enforce federal laws for the protection of individuals and property and to enforce regulations for that purpose that the Administrator or an official of the Administration authorized by the Administrator prescribes and publishes. The special police may make arrests withoutwarrant for any offense committed on the property if the police have reasonable grounds to believe the offense constitutes a felony under the laws of the United States and that the individual to be arrested is guilty of that offense.
+Nonuniformed Special Police.—The Administrator, or an official of the Administration authorized by the Administrator, may empower officials or employees of the Administration authorized to perform investigative functions to act as nonuniformed special police to protect property under the charge and control of the Administration and to carry firearms, whether on federal property or in travel status. When on real property under the charge and control of the Administration, officials or employees empowered to act as nonuniformed special police have the power to enforce federal laws for the protection of individuals and property and to enforce regulations for that purpose that the Administrator or an official of the Administration authorized by the Administrator prescribes and publishes. The special police may make arrests without warrant for any offense committed on the property if the police have reasonable grounds to believe the offense constitutes a felony under the laws of the United States and that the individual to be arrested is guilty of that offense.
 
 "(f)
 

@@ -4,13 +4,17 @@ There is established in the Department of the Treasury an entity to be known as 
 
 (July 10, 1954, ch. 469, title VI, §601, as added Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3658.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Subchapter effective Jan. 1, 1991, see section 1513 of Pub. L. 101–624, set out as an Effective Date of 1990 Amendment note under section 1691 of this title.
 
+#### <b>Executive Documents</b>
+
 #### Executive Order No. 12757
 
-Ex. Ord. No. 12757, Mar. 19, 1991, 56 F.R. 12107, as amended by Ex. Ord. No. 12823, Dec. 3, 1992, 57 F.R.57645; Ex. Ord. No. 13028, Dec. 3, 1996, 61 F.R. 64589; Ex. Ord. No. 13131, July 22, 1999, 64 F.R. 40733, which related to implementation of the Enterprise for the Americas Initiative and the Tropical Forest Conservation Act of 1998, was revoked by Ex. Ord. No. 13345, §6(a), July 8, 2004, 69 F.R. 41903, set out below.
+Ex. Ord. No. 12757, Mar. 19, 1991, 56 F.R. 12107, as amended by Ex. Ord. No. 12823, Dec. 3, 1992, 57 F.R. 57645; Ex. Ord. No. 13028, Dec. 3, 1996, 61 F.R. 64589; Ex. Ord. No. 13131, July 22, 1999, 64 F.R. 40733, which related to implementation of the Enterprise for the Americas Initiative and the Tropical Forest Conservation Act of 1998, was revoked by Ex. Ord. No. 13345, §6(a), July 8, 2004, 69 F.R. 41903, set out below.
 
 #### Ex. Ord. No. 13345. Assigning Foreign Affairs Functions and Implementing the Enterprise for the Americas Initiative and the Tropical Forest Conservation Act
 
@@ -46,7 +50,7 @@ Sec. 2. <i>Functions to be Performed by the Secretary of State</i>. (a) The Secr
 
 (2) \[former\] section 813(b) of the Foreign Assistance Act (22 U.S.C. 2431k).
 
-Sec. 3. <i>Recommendation by USAID</i>. The Administrator of USAID shall make recommendations with respect to 803(5)(B) of the Foreign Assistance Act (22 U.S.C. 2431a(5)(B)\[)\], in cooperation with the Secretary of Agriculture and the Secretary of State.
+Sec. 3. <i>Recommendation by USAID</i>. The Administrator of USAID shall make recommendations with respect to803(5)(B) of the Foreign Assistance Act (22 U.S.C. 2431a(5)(B)\[)\], in cooperation with the Secretary of Agriculture and the Secretary of State.
 
 Sec. 4. <i>Government Appointees to the Enterprise for the Americas Board</i>. (a) Pursuant to section 610(b)(1)(A) of the ATDA Act (7 U.S.C. 1738i(b)(1)(A)\[)\] and section 811(b)(1)(A) and (b)(2) of the Foreign Assistance Act (22 U.S.C. 2431i(b)(1)(A) and (b)(2)), the following officers or employees of the United States are hereby designated to serve as representatives on the Enterprise for the Americas Board:
 

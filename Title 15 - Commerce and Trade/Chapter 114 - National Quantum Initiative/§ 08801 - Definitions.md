@@ -32,11 +32,23 @@ In this chapter:
 
 &emsp;The term "quantum information science" means the use of the laws of quantum physics for the storage, transmission, manipulation, computing, or measurement of information.
 
-#### (7) Subcommittee
+#### (7) Subcommittee on Economic and Security Implications
 
-&emsp;The term "Subcommittee" means the Subcommittee on Quantum Information Science of the National Science and Technology Council established under section 8813(a) of this title.
+&emsp;The term "Subcommittee on Economic and Security Implications" means the Subcommittee on the Economic and Security Implications of Quantum Information Science established under section 8814a(a) of this title.
 
-(Pub. L. 115–368, §2, Dec. 21, 2018, 132 Stat. 5092.)
+#### (8) Subcommittee on Quantum Information Science
+
+&emsp;The term "Subcommittee on Quantum Information Science" means the Subcommittee on Quantum Information Science of the National Science and Technology Council established under section 8813(a) of this title.
+
+(Pub. L. 115–368, §2, Dec. 21, 2018, 132 Stat. 5092; Pub. L. 117–81, div. F, title LXVI, §6606(c)(1), Dec. 27, 2021, 135 Stat. 2443.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2021</b>—Pars. (7), (8). Pub. L. 117–81 added pars. (7) and (8) and struck out former par. (7), which defined "Subcommittee".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

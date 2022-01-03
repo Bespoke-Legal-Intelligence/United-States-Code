@@ -114,7 +114,7 @@ Subsec. (b). Pub. L. 97–292, §2(b), substituted "exchange of records and info
 
 #### Regulations
 
-Pub. L. 103–322, title IV, §40601(b), Sept. 13, 1994, 108 Stat. 1951, provided that: "The Attorney General may make rules to carry out the subsection added to section 534 of title 28, United States Code, by subsection (a), after consultation with the officials charged with managing the National Crime Information Center and the Criminal Justice Information Services Advisory Policy Board."
+Pub. L. 103–322, title IV, §40601(b), Sept. 13, 1994, 108 Stat. 1951, provided that: "The Attorney General maymake rules to carry out the subsection added to section 534 of title 28, United States Code, by subsection (a), after consultation with the officials charged with managing the National Crime Information Center and the Criminal Justice Information Services Advisory Policy Board."
 
 #### Improving Department of Justice Data Collection on Mental Illness Involved in Crime
 
@@ -184,7 +184,7 @@ Pub. L. 101–647, title VI, subtitle B, Nov. 29, 1990, 104 Stat. 4823, provided
 
 #### "SEC. 614. REPORT.
 
-"By February 1 of each fiscal year for which funds for NCIC 2000 are requested, the Director of the FederalBureau of Investigation shall submit a report to the Committees on the Judiciary of the Senate and House of Representatives that details the progress that has been made in implementing NCIC 2000 and a complete justification for the funds requested in the following fiscal year for NCIC 2000."
+"By February 1 of each fiscal year for which funds for NCIC 2000 are requested, the Director of the Federal Bureau of Investigation shall submit a report to the Committees on the Judiciary of the Senate and House of Representatives that details the progress that has been made in implementing NCIC 2000 and a complete justification for the funds requested in the following fiscal year for NCIC 2000."
 
 #### FBI Fees To Process Fingerprint Identification Records and Name Checks
 
@@ -192,7 +192,7 @@ Pub. L. 101–515, title II, Nov. 5, 1990, 104 Stat. 2112, as amended by section
 
 #### Hate Crime Statistics
 
-Pub. L. 101–275, Apr. 23, 1990, 104 Stat. 140, as amended by Pub. L. 103–322, title XXXII, §320926, Sept. 13, 1994, 108 Stat. 2131; Pub. L. 104–155, §7, July 3, 1996, 110 Stat. 1394; Pub. L. 111–84, div. E, §4708, Oct. 28, 2009, 123 Stat. 2841, known as the Hate Crimes Statistics Act, consisting of sections 1 and 2, was editorially reclassified to Title 34, Crime Control and Law Enforcement. Section 1 was editorially reclassified as section 41305 of Title 34. Section 2 was editorially reclassified as a note under section 41305 of Title 34.
+Pub. L. 101–275, Apr. 23, 1990, 104 Stat. 140, as amended by Pub. L. 103–322, title XXXII, §320926, Sept. 13, 1994, 108 Stat. 2131; Pub. L. 104–155, §7, July 3, 1996, 110 Stat.1394; Pub. L. 111–84, div. E, §4708, Oct. 28, 2009, 123 Stat. 2841, known as the Hate Crimes Statistics Act, consisting of sections 1 and 2, was editorially reclassified to Title 34, Crime Control and Law Enforcement. Section 1 was editorially reclassified as section 41305 of Title 34. Section 2 was editorially reclassified as a note under section 41305 of Title 34.
 
 #### Uniform Federal Crime Reporting Act of 1988
 

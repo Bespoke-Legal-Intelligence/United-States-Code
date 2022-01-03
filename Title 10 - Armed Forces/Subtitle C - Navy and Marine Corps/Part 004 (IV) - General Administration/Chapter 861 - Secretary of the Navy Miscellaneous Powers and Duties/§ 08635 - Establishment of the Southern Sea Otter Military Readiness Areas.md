@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—The Secretary of the Navy shall establish areas, to be known as"Southern Sea Otter Military Readiness Areas", for national defense purposes. Such areas shall include each of the following:
+Establishment.—The Secretary of the Navy shall establish areas, to be known as "Southern Sea Otter Military Readiness Areas", for national defense purposes. Such areas shall include each of the following:
 
 &emsp;(1) The area that includes Naval Base Ventura County, San Nicolas Island, and Begg Rock and the adjacent and surrounding waters within the following coordinates:
 
@@ -90,7 +90,9 @@ Military readiness activity.—The term "military readiness activity" has the me
 
 Optimum sustainable population.—The term "optimum sustainable population" means, with respect to any population stock, the number of animals that will result in the maximum productivity of the population or the species, keeping in mind the carrying capacity of the habitat and the health of the ecosystem of which they form a constituent element.
 
-(Added Pub. L. 114–92, div. A, title III, §312(a), Nov. 25, 2015, 129 Stat. 787, §7235; amended Pub. L. 115–91, div. A, title X, §1081(a)(50), Dec. 12, 2017, 131 Stat. 1597; renumbered §8635, Pub. L. 115–232, div. A, title VIII, §807(d)(1), Aug. 13, 2018, 132 Stat. 1836.)
+(Added Pub. L. 114–92, div. A, title III, §312(a), Nov. 25, 2015, 129 Stat. 787, §7235; amended Pub.L. 115–91, div. A, title X, §1081(a)(50), Dec. 12, 2017, 131 Stat. 1597; renumbered §8635, Pub. L. 115–232, div. A, title VIII, §807(d)(1), Aug. 13, 2018, 132 Stat. 1836.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -111,6 +113,8 @@ A prior section 8639 was renumbered section 9239 of this title.
 <b>2018</b>—Pub. L. 115–232 renumbered section 7235 of this title as this section.
 
 <b>2017</b>—Subsec. (e)(2). Pub. L. 115–91 substituted "November 25, 2017," for "24 months after the date of the enactment of this section".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

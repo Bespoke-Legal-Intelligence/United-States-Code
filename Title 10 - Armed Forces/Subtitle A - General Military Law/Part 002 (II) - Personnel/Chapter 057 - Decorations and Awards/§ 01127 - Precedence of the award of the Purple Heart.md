@@ -4,6 +4,8 @@ In prescribing regulations establishing the order of precedence of awards and de
 
 (Added Pub. L. 98–525, title V, §553(a), Oct. 19, 1984, 98 Stat. 2532; amended Pub. L. 99–145, title V, §533, Nov. 8, 1985, 99 Stat. 634.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1985</b>—Pub. L. 99–145 substituted "the bronze star" for "the lowest position accorded any award or decoration for valor".

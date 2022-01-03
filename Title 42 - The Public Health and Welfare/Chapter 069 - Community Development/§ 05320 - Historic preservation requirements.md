@@ -8,7 +8,7 @@ With respect to applications for assistance under section 5318 <sup>1</sup> of 
 
 In prescribing and implementing such regulations with respect to applications submitted under section 5318 of this title which identify any property pursuant to subsection (c)(4)(B) of such section, the Secretary of the Interior shall provide at least that—
 
-&emsp;(1) the appropriate State historic preservation officer (as determined in accordance with regulations prescribed by the Secretary of the Interior) shall, not later than 45 days after receiving information from the applicant relating to the identification of properties which will be affected by the project for which the application is made and which may meet the criteria established by the Secretary of the Interior for inclusion on the National Register of Historic Places (together with documentation relating to such inclusion), submit his or her comments, together with such other information considered necessary by the officer, to the applicant concerning such properties; and
+&emsp;(1) the appropriate State historic preservation officer (as determined in accordance with regulations prescribed by the Secretary of the Interior) shall, not later than 45 days after receiving information from the applicant relating to the identification of properties whichwill be affected by the project for which the application is made and which may meet the criteria established by the Secretary of the Interior for inclusion on the National Register of Historic Places (together with documentation relating to such inclusion), submit his or her comments, together with such other information considered necessary by the officer, to the applicant concerning such properties; and
 
 &emsp;(2) the Secretary of the Interior shall, not later than 45 days after receiving from the applicant the information described in paragraph (1) and the comments submitted to the applicant in accordance with paragraph (1), make a determination as to whether any of the properties affected by the project for which the application is made is eligible for inclusion on the National Register of Historic Places.
 
@@ -16,7 +16,9 @@ In prescribing and implementing such regulations with respect to applications su
 
 The Advisory Council on Historic Preservation shall prescribe regulations providing for expeditious action by the Council in making its comments under section 306108 of title 54 in the case of properties which are included on, or eligible for inclusion on, the National Register of Historic Places and which are affected by a project for which an application is made under section 5318 of this title.
 
-(Pub. L. 93–383, title I, §121, as added Pub. L. 96–399, title I, §110(c), Oct. 8, 1980, 94 Stat. 1620; amended Pub. L. 97–35, title III, §308(b), Aug. 13,1981, 95 Stat. 396; Pub. L. 113–287, §5(k)(4), Dec. 19, 2014, 128 Stat. 3270.)
+(Pub. L. 93–383, title I, §121, as added Pub. L. 96–399, title I, §110(c), Oct. 8, 1980, 94 Stat. 1620; amended Pub. L. 97–35, title III, §308(b), Aug. 13, 1981, 95 Stat. 396; Pub. L. 113–287, §5(k)(4), Dec. 19, 2014, 128 Stat. 3270.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -33,6 +35,8 @@ Section 5318 of this title, referred to in subsec. (a), probably should be a ref
 Subsec. (c). Pub. L. 113–287, §5(k)(4)(B), substituted "section 306108 of title 54" for "section 106 of the Act referred to in subsection (a)(1)".
 
 <b>1981</b>—Subsec. (b). Pub. L. 97–35 substituted "subsection (c)(4)(B)" for "subsection (c)(7)(B)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1981 Amendment
 

@@ -162,9 +162,11 @@ Subsection (b) is substituted for 49 App.:1608(b)(2) for clarity. The text of 49
 
 This amends the catchline for 49:5325(d) to make a clarifying amendment.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Federal Public Transportation Act of 2015, referred to in subsec. (h), is title III of Pub. L. 114–94, Dec. 4, 2015, 129 Stat. 1446. For complete classification of thisAct to the Code, see Short Title of 2015 Amendment note set out under section 5101 of this title and Tables.
+The Federal Public Transportation Act of 2015, referred to in subsec. (h), is title III of Pub. L. 114–94, Dec. 4, 2015, 129 Stat. 1446. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note set out under section 5101 of this title and Tables.
 
 #### Amendments
 
@@ -216,6 +218,8 @@ Architectural, Engineering, and Design Contracts" for "
 
 Management, Architectural, and Engineering Contracts" in heading.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
@@ -226,7 +230,7 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 #### Effective Date of 1998 Amendment
 
-Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated asincluded in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
 
 #### Effective Date of 1996 Amendment
 

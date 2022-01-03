@@ -24,7 +24,7 @@ Functions.—The functions of the Office include the following:
 
 &emsp;(3) To monitor and identify deficiencies in standards of care for the provision of health care for women veterans by the Department, to provide technical assistance to medical facilities of the Department to address and remedy deficiencies, and to perform oversight of implementation of such standards of care.
 
-&emsp;(4) To monitor and identify deficiencies in standards of care for the provision of health care for women veterans provided through the community pursuant to this title and to provide recommendations to the appropriate office to address and remedy any deficiencies.
+&emsp;(4) To monitor and identify deficiencies in standards of care for the provision of healthcare for women veterans provided through the community pursuant to this title and to provide recommendations to the appropriate office to address and remedy any deficiencies.
 
 &emsp;(5) To oversee distribution of resources and information related to health programming for women veterans under this title.
 
@@ -44,7 +44,7 @@ Recommendations.—(1) If the Under Secretary for Health determines not to imple
 
 &emsp;(A) The reasoning of the Under Secretary for Health in making the determination.
 
-&emsp;(B) An alternative, if one is selected, to the recommendation that the Under Secretary forHealth will carry out to fulfill the health care needs of women veterans.
+&emsp;(B) An alternative, if one is selected, to the recommendation that the Under Secretary for Health will carry out to fulfill the health care needs of women veterans.
 
 (d)
 

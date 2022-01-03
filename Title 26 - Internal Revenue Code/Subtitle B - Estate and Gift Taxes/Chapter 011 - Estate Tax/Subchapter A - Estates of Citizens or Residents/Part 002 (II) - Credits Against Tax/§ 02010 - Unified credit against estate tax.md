@@ -58,7 +58,7 @@ The amount of the credit allowable under subsection (a) shall be reduced by an a
 
 #### (A) Election required
 
-&emsp;&emsp;A deceased spousal unused exclusion amount may not be taken into account by a surviving spouse under paragraph (2) unless the executor of the estate of the deceased spouse files an estate tax return on which such amount is computed and makes an election on such return that such amount may be so taken into account. Such election, once made, shall be irrevocable. No election may be made under this subparagraph if such return is filed after the time prescribed by law (including extensions) for filing such return.
+&emsp;&emsp;A deceased spousal unused exclusion amount may not be taken into account by a surviving spouse under paragraph (2) unless the executor of the estate of the deceased spouse files an estate tax return on which such amount is computed and makes an election on such return that such amount may be so taken into account. Such election, once made, shall be irrevocable. Noelection may be made under this subparagraph if such return is filed after the time prescribed by law (including extensions) for filing such return.
 
 #### (B) Examination of prior returns after expiration of period of limitations with respect to deceased spousal unused exclusion amount
 
@@ -77,6 +77,8 @@ The amount of the credit allowed by subsection (a) shall not exceed the amount o
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -121,6 +123,8 @@ Subsecs. (c), (d). Pub. L. 105–34, §501(a)(1)(B), added subsec. (c) and redes
 <b>1981</b>—Subsec. (a). Pub. L. 97–34, §401(a)(1), substituted "$192,800" for "$47,000".
 
 Subsec. (b). Pub. L. 97–34, §401(a)(2)(A), struck out "$47,000" before "credit" from heading and in text substituted in subsec. (a) substitutions for "$192,800" amounts of "$62,800", "$79,300", "$96,300", "$121,800", and "$155,800" in the case of decedents dying in 1982, 1983, 1984, 1985, and 1986, respectively, for subsec. (a) substitutions for "$47,000" amounts of "$30,000", "$34,000", "$38,000", and "$42,500" in the case of decedents dying in 1977, 1978, 1979, and 1980, respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 

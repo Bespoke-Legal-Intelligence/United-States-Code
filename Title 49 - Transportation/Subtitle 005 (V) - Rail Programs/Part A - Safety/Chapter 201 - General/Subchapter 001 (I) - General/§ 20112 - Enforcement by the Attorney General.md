@@ -72,6 +72,8 @@ In subsection (b)(1), the text of 45:439(c) (words before 1st comma) is omitted 
 
 In subsection (b)(2), the words "compliance order issued under section 20111(b) of this title" are substituted for "order, or directive" because the latter words are interpreted as referring to "orders directing compliance" in 45:437(a) (2d sentence), restated in section 20111(b).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (a)(1). Pub. L. 110–432, §309(1), inserted "this part, except for section 20109 of this title, or" after "enforce,".

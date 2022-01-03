@@ -102,7 +102,7 @@ In general.—The Administrator of the Maritime Administration shall administer 
 
 &emsp;(2)
 
-Regulations.—Regulations to implement this subsection shall conform to the extent practicable with the regulations establishing the form of citizenship affidavit set forth in part 355 of title 46, Code of Federal Regulations, as in effect on September 25, 1997, except that the form of the statement shall be written in a manner to allow the owner of the vessel to satisfy any annual renewal requirements for a certificate of documentation for the vessel and to comply with this subsection and subsections (c) and (d), and shall not be required to be notarized.
+Regulations.—Regulations to implement this subsection shall conform to the extentpracticable with the regulations establishing the form of citizenship affidavit set forth in part 355 of title 46, Code of Federal Regulations, as in effect on September 25, 1997, except that the form of the statement shall be written in a manner to allow the owner of the vessel to satisfy any annual renewal requirements for a certificate of documentation for the vessel and to comply with this subsection and subsections (c) and (d), and shall not be required to be notarized.
 
 &emsp;(3)
 
@@ -230,7 +230,7 @@ A prior section 12113, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 588, originally 
 
 <b>2012</b>—Subsec. (d)(2)(B). Pub. L. 112–213, §307(1), substituted "Secretary that—" for "Secretary that", inserted cl. (i) designation before "the regional" and "and" after "authority;", and added cl. (ii).
 
-Subsec. (d)(2)(C). Pub. L. 112–213, §307(2), amended subpar. (C) generally. Prior to amendment, subpar. (C)read as follows: "the vessel is either a rebuilt vessel or a replacement vessel under section 208(g) of the American Fisheries Act (title II of division C of Public Law 105–277; 112 Stat. 2681–627) and is eligible for a fishery endorsement under this section; or".
+Subsec. (d)(2)(C). Pub. L. 112–213, §307(2), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "the vessel is either a rebuilt vessel or a replacement vessel under section 208(g) of the American Fisheries Act (title II of division C of Public Law 105–277; 112 Stat. 2681–627) and is eligible for a fishery endorsement under this section; or".
 
 <b>2010</b>—Subsec. (d)(2)(A)(i). Pub. L. 111–281, §602(a)(1), inserted "and" at the end.
 

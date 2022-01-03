@@ -1,5 +1,7 @@
 ### §3735. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 3735 was editorially reclassified as section 10134 of Title 34, Crime Control and Law Enforcement.

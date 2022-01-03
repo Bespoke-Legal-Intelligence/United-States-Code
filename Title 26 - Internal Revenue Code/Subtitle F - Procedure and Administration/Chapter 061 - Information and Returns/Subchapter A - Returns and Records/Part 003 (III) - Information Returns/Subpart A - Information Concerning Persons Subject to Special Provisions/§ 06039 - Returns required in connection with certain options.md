@@ -40,6 +40,8 @@ For purposes of this section—
 
 (Added Pub. L. 88–272, title II, §221(b)(1), Feb. 26, 1964, 78 Stat. 73; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–167, §7(a), Dec. 29, 1979, 93 Stat. 1276; Pub. L. 97–34, title II, §251(b)(5), Aug. 13, 1981, 95 Stat. 259; Pub. L. 101–508, title XI, §11801(c)(9)(J), Nov. 5, 1990, 104 Stat. 1388–526; Pub. L. 105–206, title VI, §6023(20), July 22, 1998, 112 Stat. 825; Pub. L. 109–432, div. A, title IV, §403(a), (b), (c)(3), (4), Dec. 20, 2006, 120 Stat. 2954, 2955; Pub. L. 115–141, div. U, title IV, §401(a)(259), Mar. 23, 2018, 132 Stat. 1196.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 6039 was renumbered section 6040 of this title.
@@ -86,13 +88,15 @@ Subsec. (d). Pub. L. 96–167 redesignated subsec. (d) as (c).
 
 <b>1976</b>—Subsecs. (a), (b). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2006 Amendment
 
 Pub. L. 109–432, div. A, title IV, §403(d), Dec. 20, 2006, 120 Stat. 2955, provided that: "The amendments made by this section \[amending this section and section 6724 of this title\] shall apply to calendar years beginning after the date of the enactment of this Act \[Dec. 20, 2006\]."
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–34 applicable with respect to options granted on or after Jan. 1, 1976, and exercised on or after Jan. 1, 1981, or outstanding on Jan. 1, 1981, or granted on or after Jan. 1, 1976, and outstanding Aug. 13, 1981, see section 251(c) of Pub. L. 97–34, set out as an Effective Date note under section 422 of this title.
+Amendment by Pub. L. 97–34 applicable with respect to options granted on or after Jan. 1, 1976, and exercisedon or after Jan. 1, 1981, or outstanding on Jan. 1, 1981, or granted on or after Jan. 1, 1976, and outstanding Aug. 13, 1981, see section 251(c) of Pub. L. 97–34, set out as an Effective Date note under section 422 of this title.
 
 #### Effective Date of 1979 Amendment
 

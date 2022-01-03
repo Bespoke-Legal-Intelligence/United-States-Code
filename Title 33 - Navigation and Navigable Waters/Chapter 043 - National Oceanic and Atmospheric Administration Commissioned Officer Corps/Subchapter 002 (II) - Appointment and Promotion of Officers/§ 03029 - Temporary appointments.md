@@ -6,7 +6,7 @@ Temporary appointments in the grade of ensign, lieutenant junior grade, or lieut
 
 #### (b) Termination
 
-A temporary appointment to a position under subsection (a) shall terminate upon approval of a permanent appointment for such position made by the President.
+A temporary appointment to a position under subsection (a) shall terminate upon approval ofa permanent appointment for such position made by the President.
 
 #### (c) Order of precedence
 
@@ -40,5 +40,5 @@ Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applic
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Secretary of Commerce by section 1(b)–(d) of Ex. Ord. No. 11023, May 28, 1962, 27 F.R. 5131, as amended,set out as a note under section 301 of Title 3, The President.
+Functions of President under this section delegated to Secretary of Commerce by section 1(b)–(d) of Ex. Ord. No. 11023, May 28, 1962, 27 F.R. 5131, as amended, set out as a note under section 301 of Title 3, The President.
 

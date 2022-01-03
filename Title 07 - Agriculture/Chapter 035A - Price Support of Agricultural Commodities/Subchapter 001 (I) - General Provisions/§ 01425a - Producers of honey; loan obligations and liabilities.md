@@ -18,6 +18,8 @@ The Commodity Credit Corporation may issue such regulations as the Corporation d
 
 (Oct. 31, 1949, ch. 792, title IV, §405A, as added Pub. L. 100–460, title VI, §634(b), Oct. 1, 1988, 102 Stat. 2263; amended Pub. L. 101–624, title X, §1002, title XI, §1161(d), Nov. 28, 1990, 104 Stat. 3490, 3521.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1446h of this title, referred to in subsec. (a), was repealed by Pub. L. 104–127, title I, §171(b)(2)(H), Apr. 4, 1996, 110 Stat. 938.
@@ -30,13 +32,15 @@ Pub. L. 101–624, §1002(1), substituted "person for such crop of honey under s
 
 Subsec. (d). Pub. L. 101–624, §1002(2), inserted provisions requiring that the regulations issued pursuant to this subsection provide for the attribution of the value of collateral forfeited on loans described in subsec. (a).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–624 effective beginning with 1991 crop of an agricultural commodity, with provision for prior crops, see section 1171 of Pub. L. 101–624, set out as a note under section 1421 of this title.
 
 #### Inapplicability of Section
 
-Section inapplicable to 2014 through 2018 crops of covered commodities, cotton, and sugar and inapplicableto milk during period beginning Feb. 7, 2014, through Dec. 31, 2018, see section 9092(b)(10) of this title.
+Section inapplicable to 2014 through 2018 crops of covered commodities, cotton, and sugar and inapplicable to milk during period beginning Feb. 7, 2014, through Dec. 31, 2018, see section 9092(b)(10) of this title.
 
 Section inapplicable to 2008 through 2012 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning June 18, 2008, through Dec. 31, 2012, see section 8782(b)(10) of this title.
 

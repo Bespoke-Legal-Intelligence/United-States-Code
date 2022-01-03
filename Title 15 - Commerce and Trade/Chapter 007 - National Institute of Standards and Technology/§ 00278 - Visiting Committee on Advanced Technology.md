@@ -26,7 +26,7 @@ The persons appointed as members of the Committee—
 
 #### (d) Meetings; quorum; notice
 
-The Committee shall meet at least twice each year at the call of the Chairman or whenever one-third of the members so request in writing. A majority of the members of the Committee not having a conflict of interest in the matterbeing considered by the Committee shall constitute a quorum. Each member shall be given appropriate notice, whenever possible, not less than 15 days prior to any meeting, of the call of such meeting.
+The Committee shall meet at least twice each year at the call of the Chairman or whenever one-third of the members so request in writing. A majority of the members of the Committee not having a conflict of interest in the matter being considered by the Committee shall constitute a quorum. Each member shall be given appropriate notice, whenever possible, not less than 15 days prior to any meeting, of the call of such meeting.
 
 #### (e) Appointment by Committee of executive and other committees
 
@@ -48,6 +48,8 @@ The Committee may, with the concurrence of a majority of its members, permit the
 
 (Mar. 3, 1901, ch. 872, §10, 31 Stat. 1450; Pub. L. 100–418, title V, §§5115(a)(1), 5131(b), Aug. 23, 1988, 102 Stat. 1433, 1441; Pub. L. 104–113, §8(1), Mar. 7, 1996, 110 Stat. 779; Pub. L. 110–69, title III, §§3005, 3006, Aug. 9, 2007, 121 Stat. 590; Pub. L. 114–329, title II, §§204(a)(1)(B)(ii), 205(a)(2)(C), title IV, §404, Jan. 6, 2017, 130 Stat. 2998, 3001, 3023.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Subsec. (a). Pub. L. 114–329, §404(1), substituted "not fewer than 9 members appointed by the Director, a majority of whom" for "15 members appointed by the Director, at least 10 of whom" and "National Institute of Standards and Technology" for "National Bureau of Standards".
@@ -65,6 +67,8 @@ Subsec. (h)(1). Pub. L. 110–69, §3005, substituted "not later than 30 days af
 <b>1988</b>—Pub. L. 100–418, §5131(b), amended section generally, substituting provisions of subsecs. (a) to (h) relating to Visiting Committee on Advanced Technology for provisions of former single undesignated paragraph which related to a visiting committee which was to visit bureau at least once a year and report to Secretary of Commerce upon efficiency of its scientific work and condition of its equipment.
 
 Pub. L. 100–418, §5115(a)(1), substituted "Institute" for "bureau".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

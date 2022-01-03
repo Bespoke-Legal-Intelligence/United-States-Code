@@ -116,13 +116,17 @@ For purposes of this section:
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1860D–22, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2125; amended Pub. L. 111–152, title I, §1101(b)(4), Mar. 30, 2010, 124 Stat. 1039.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Internal Revenue Code of 1986, referred to in subsec. (c)(3)(C), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(2)(A). Pub. L. 111–152 inserted before period at end ", not taking into account the value of any discount or coverage provided during the gap in prescription drug coverage that occurs between the initial coverage limit under section 1395w–102(b)(3) of this title during the year and the out-of-pocket threshold specified in section 1395w–102(b)(4)(B) of this title".
+<b>2010</b>—Subsec. (a)(2)(A). Pub. L. 111–152 inserted before period at end ", not taking into account the value ofany discount or coverage provided during the gap in prescription drug coverage that occurs between the initial coverage limit under section 1395w–102(b)(3) of this title during the year and the out-of-pocket threshold specified in section 1395w–102(b)(4)(B) of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Study on Employment-Based Retiree Health Coverage
 

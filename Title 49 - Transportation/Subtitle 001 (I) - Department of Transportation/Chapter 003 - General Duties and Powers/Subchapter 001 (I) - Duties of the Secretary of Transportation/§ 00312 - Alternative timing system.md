@@ -52,7 +52,7 @@ Implementation Plan.—
 
 &emsp;(1)
 
-Plan required.—Not later than 180 days after the date of enactment of the National Timing Resilience and Security Act of 2018, the Secretary of Transportation shall submit to the Committee on Commerce, Science, andTransportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report setting forth the following:
+Plan required.—Not later than 180 days after the date of enactment of the National Timing Resilience and Security Act of 2018, the Secretary of Transportation shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report setting forth the following:
 
 &emsp;&emsp;(A) A plan to develop, construct, and operate the system required by subsection (a).
 
@@ -124,6 +124,8 @@ Definition.—In this subsection the term "entity" means a non-Federal entity wi
 
 (Added Pub. L. 115–282, title V, §514(b), Dec. 4, 2018, 132 Stat. 4276; amended Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8507(d)(2), Jan. 1, 2021, 134 Stat. 4754.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of the National Timing Resilience and Security Act of 2018, referred to in subsecs. (b)(1) and (c)(1), (2), is the date of enactment of section 514 of Pub. L. 115–282, which was approved Dec. 4, 2018.
@@ -137,6 +139,8 @@ Section 1618 of the National Defense Authorization Act for Fiscal Year 2017, ref
 #### Effective Date of 2021 Amendment
 
 Section 8507(d) of div. G of Pub. L. 116–283 effective as if included in Pub. L. 115–282, see section 8507(d)(7) of Pub. L. 116–283, set out as a note under section 1226 of Title 33, Navigation and Navigable Waters.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

@@ -2,9 +2,13 @@
 
 Section, Pub. L. 107–171, title I, §1605, May 13, 2002, 116 Stat. 216, related to Commission on the Application of Payment Limitations for Agriculture.
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 repealed this section. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of Repeal
 

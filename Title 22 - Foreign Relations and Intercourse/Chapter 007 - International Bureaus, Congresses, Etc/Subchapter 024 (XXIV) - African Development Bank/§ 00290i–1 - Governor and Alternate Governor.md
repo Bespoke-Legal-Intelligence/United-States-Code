@@ -20,7 +20,7 @@ No person shall be entitled to receive any salary or other compensation from the
 
 The Governor, or in the Governor's absence the Alternate Governor, on the instructions of the President, shall cast the votes of the United States for the Director to represent the United States in the Bank.
 
-(Pub. L. 97–35, title XIII, §1333, Aug. 13, 1981, 95 Stat. 741; Pub. L. 101–513, title V, §562(b)(3), Nov. 5, 1990, 104 Stat. 2034; Pub. L. 112–166, §2(z)(1), Aug. 10, 2012, 126 Stat. 1289.)
+(Pub. L. 97–35, title XIII, §1333, Aug. 13, 1981, 95 Stat. 741; Pub. L. 101–513, title V, §562(b)(3), Nov.5, 1990, 104 Stat. 2034; Pub. L. 112–166, §2(z)(1), Aug. 10, 2012, 126 Stat. 1289.)
 
 #### <b>Editorial Notes</b>
 
@@ -34,7 +34,7 @@ The Governor, or in the Governor's absence the Alternate Governor, on the instru
 
 #### Effective Date of 2012 Amendment
 
-Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nominationpending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
+Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
 
 #### <b>Executive Documents</b>
 

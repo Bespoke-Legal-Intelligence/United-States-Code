@@ -24,7 +24,7 @@ Authority of Combatant Commander.—(1) In addition to the authority prescribed 
 
 &emsp;(i) Developing strategy, doctrine, and tactics.
 
-&emsp;(ii) Preparing and submitting to the Secretary of Defense program recommendationsand budget proposals for cyber operations forces and for other forces assigned to the cyber command.
+&emsp;(ii) Preparing and submitting to the Secretary of Defense program recommendations and budget proposals for cyber operations forces and for other forces assigned to the cyber command.
 
 &emsp;(iii) Exercising authority, direction, and control over the expenditure of funds—
 
@@ -64,6 +64,8 @@ Intelligence and Special Activities.—This section does not constitute authorit
 
 (Added Pub. L. 114–328, div. A, title IX, §923(a), Dec. 23, 2016, 130 Stat. 2357; amended Pub. L. 115–91, div. A, title X, §1081(a)(12), title XVI, §1635, Dec. 12, 2017, 131 Stat. 1595, 1741; Pub. L. 116–283, div. A, title XVII, §1701(1), Jan. 1, 2021, 134 Stat. 4079.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The National Security Act of 1947, referred to in subsec. (e), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
@@ -81,6 +83,84 @@ Subsec. (e). Pub. L. 115–91, §1635(2), redesignated subsec. (f) as (e). Forme
 Subsec. (e)(2)(A)(iii)(II). Pub. L. 115–91, §1081(a)(12), substituted "Fiscal Year 2016" for "Fiscal Year 2014".
 
 Subsec. (f). Pub. L. 115–91, §1635(2), redesignated subsec. (f) as (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Assignment of Certain Budget Control Responsibilities to Commander of United States Cyber Command
+
+Pub. L. 117–81, div. A, title XV, §1507, Dec. 27, 2021, 135 Stat. 2030, provided that:
+
+"(a)
+
+Assignment of Responsibilities.—
+
+&emsp;"(1)
+
+In general.—The Commander of United States Cyber Command shall, subject to the authority, direction, and control of the Principal Cyber Advisor of the Department of Defense, be responsible for directly controlling and managing the planning, programming, budgeting, and execution of resources to train, equip, operate, and sustain the Cyber Mission Forces.
+
+&emsp;"(2)
+
+Effective date and applicability.—Paragraph (1) shall take effect on the date of the enactment of this Act \[Dec. 27, 2021\] and apply—
+
+&emsp;&emsp;"(A) on January 1, 2022, for controlling and managing budget execution; and
+
+&emsp;&emsp;"(B) beginning with fiscal year 2024 and each fiscal year thereafter for directly controlling and managing the planning, programming, budgeting, and execution of resources.
+
+"(b)
+
+Elements.—
+
+&emsp;"(1)
+
+In general.—The responsibilities assigned to the Commander of United States Cyber Command pursuant to subsection (a)(1) shall include the following:
+
+&emsp;&emsp;"(A) Preparation of a program objective memorandum and budget estimate submission for the resources required to train, equip, operate, and sustain the Cyber Mission Forces.
+
+&emsp;&emsp;"(B) Preparation of budget materials pertaining to United States Cyber Command for inclusion in the budget justification materials that are submitted to Congress in support of the Department of Defense budget for a fiscal year (as submitted with the budget of the President for a fiscal year under section 1105(a) of title 31, United States Code) that is separate from any other military service or component of the Department.
+
+&emsp;"(2)
+
+Responsibilities not delegated.—The responsibilities assigned to the Commander of United States Cyber Command pursuant to subsection (a)(1) shall not include the following:
+
+&emsp;&emsp;"(A) Military pay and allowances.
+
+&emsp;&emsp;"(B) Funding for facility support that is provided by the military services.
+
+"(c)
+
+Implementation Plan.—
+
+&emsp;"(1)
+
+In general.—Not later than the date that is 30 days after the date of the enactment of this Act, the Comptroller General of the Department of Defense and the Commander of United States Cyber Command, in coordination with Chief Information Officer of the Department, the Principal Cyber Advisor, the Under Secretary of Defense for Acquisition and Sustainment, Cost Assessment and Program Evaluation, and the Secretaries of the military departments, shall jointly develop an implementation plan for the transition of responsibilities assigned to the Commander of United States Cyber Command pursuant to subsection (a)(1).
+
+&emsp;"(2)
+
+Elements.—The implementation plan developed under paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) A budgetary review to identify appropriate resources for transfer to the Commander of United States Cyber Command for carrying out responsibilities assigned pursuant to subsection (a)(1).
+
+&emsp;&emsp;"(B) Definitions of appropriate roles and responsibilities.
+
+&emsp;&emsp;"(C) Specification of all program elements and sub-elements, and the training, equipment, Joint Cyber Warfighting Architecture capabilities, other enabling capabilities and infrastructure, intelligence support, operations, and sustainment investments in each such program element and sub-element for which the Commander of United States Cyber Command is responsible.
+
+&emsp;&emsp;"(D) Specification of all program elements and sub-elements, and the training, equipment, Joint Cyber Warfighting Architecture capabilities, other enabling capabilities and infrastructure, intelligence support, operations, and sustainment investments in each such program element and sub-element relevant to or that support the Cyber Mission Force for which the Secretaries of the military departments are responsible.
+
+&emsp;&emsp;"(E) Required levels of civilian and military staffing within United States Cyber Command to carry out subsection (a)(1), and an estimate of when such levels of staffing will be achieved.
+
+"(d)
+
+Briefing.—
+
+&emsp;"(1)
+
+In general.—Not later than the earlier of the date on which the implementation plan under subsection (c) is developed or the date that is 90 days after the date of the enactment of this Act, the Secretary of Defense shall provide the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on the implementation plan.
+
+&emsp;"(2)
+
+Elements.—The briefing required by paragraph (1) shall address any recommendations for when and how the Secretary of Defense should delegate to the Commander of United States Cyber Command budget authority for the Cyber Operations Forces (as such term is defined in the memorandum issued by the Secretary of Defense on December 12, 2019, relating to the definition of 'Department of Defense Cyberspace Operations Forces (DoD COF)'), after successful implementation of the responsibilities described in subsection (a) relating to the Cyber Mission Forces."
+
+#### <b>Executive Documents</b>
 
 #### Elevation of U.S. Cyber Command to a Unified Combatant Command
 

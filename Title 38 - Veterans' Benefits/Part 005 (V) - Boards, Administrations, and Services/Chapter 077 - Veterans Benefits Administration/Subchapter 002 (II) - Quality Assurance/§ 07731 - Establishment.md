@@ -4,7 +4,7 @@
 
 (b) The Secretary shall ensure that any quality assurance entity established and operated under subsection (a) is established and operated so as to meet generally applicable governmental standards for independence and internal controls for the performance of quality reviews of Government performance and results.
 
-(c)(1) The Secretary shall enter into a contract with an independent third-party entity to conduct, during the three-year period beginning onthe date of the enactment of the Veterans' Benefits Improvement Act of 2008, an assessment of the quality assurance program carried out under subsection (a).
+(c)(1) The Secretary shall enter into a contract with an independent third-party entity to conduct, during the three-year period beginning on the date of the enactment of the Veterans' Benefits Improvement Act of 2008, an assessment of the quality assurance program carried out under subsection (a).
 
 (2) The assessment conducted under paragraph (1) shall evaluate the following:
 

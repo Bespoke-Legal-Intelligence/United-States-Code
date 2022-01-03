@@ -10,7 +10,7 @@
 
 (3) Notwithstanding any other provision of law, in any case in which special sessions are conducted pursuant to this section, the district court may summon jurors—
 
-&emsp;(A) in civil proceedings, from any part of the district in which the court ordinarily conducts business or the district in which it is holding a special session; and
+&emsp;(A) in civil proceedings, from any part of the district in which the court ordinarily conductsbusiness or the district in which it is holding a special session; and
 
 &emsp;(B) in criminal trials, from any part of the district in which the crime has been committed and, if the defendant so consents, from any district in which the court is conducting business pursuant to this section.
 
@@ -34,7 +34,7 @@
 
 (5) If a district court issues an order exercising its authority under paragraph (1), the court shall direct the United States marshal of the district where the court is meeting to furnish transportation and subsistence to the same extent as that provided in sections 4282 and 4285 of title 18.
 
-(June 25, 1948, ch. 646, 62 Stat. 897; Pub. L. 88–139, §1, Oct. 16, 1963, 77 Stat. 248; Pub. L. 109–63, §2(b),Sept. 9, 2005, 119 Stat. 1994; Pub. L. 109–162, title XI, §1198(a), Jan. 5, 2006, 119 Stat. 3132.)
+(June 25, 1948, ch. 646, 62 Stat. 897; Pub. L. 88–139, §1, Oct. 16, 1963, 77 Stat. 248; Pub. L. 109–63, §2(b), Sept. 9, 2005, 119 Stat. 1994; Pub. L. 109–162, title XI, §1198(a), Jan. 5, 2006, 119 Stat. 3132.)
 
 #### Historical and Revision Notes
 

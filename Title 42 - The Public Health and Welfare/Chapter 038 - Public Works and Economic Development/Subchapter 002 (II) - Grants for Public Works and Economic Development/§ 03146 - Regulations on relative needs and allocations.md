@@ -22,9 +22,13 @@ In promulgating rules, regulations, and procedures for assistance under this sub
 
 (Pub. L. 89–136, title II, §206, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3604; amended Pub. L. 108–373, title II, §204, Oct. 27, 2004, 118 Stat. 1761.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Pars. (3), (4). Pub. L. 108–373 added pars. (3) and (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

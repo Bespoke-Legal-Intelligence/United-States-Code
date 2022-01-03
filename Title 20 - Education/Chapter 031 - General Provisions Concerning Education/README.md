@@ -139,6 +139,8 @@ Planning and Evaluation of Federal Education Activities
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 91–230, title IV, §401(a)(1), Apr. 13, 1970, 84 Stat. 164, substituted as chapter heading "GENERAL PROVISIONS CONCERNING EDUCATION" for "LEADTIME AND PLANNING AND EVALUATION IN ELEMENTARY AND SECONDARY EDUCATION PROGRAMS".

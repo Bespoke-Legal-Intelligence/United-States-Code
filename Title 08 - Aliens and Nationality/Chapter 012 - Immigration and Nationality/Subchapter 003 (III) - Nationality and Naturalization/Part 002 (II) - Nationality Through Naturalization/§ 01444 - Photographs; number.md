@@ -14,7 +14,7 @@
 
 &emsp;(5) a certificate of naturalization or of citizenship, in lieu of one lost, mutilated, or destroyed;
 
-&emsp;(6) a new certificate of citizenship in the new name of any naturalized citizen who, subsequent to naturalization, has had his namechanged by order of a court of competent jurisdiction or by marriage; and
+&emsp;(6) a new certificate of citizenship in the new name of any naturalized citizen who, subsequent to naturalization, has had his name changed by order of a court of competent jurisdiction or by marriage; and
 
 &emsp;(7) a declaration of intention.
 

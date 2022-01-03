@@ -26,6 +26,8 @@ Except as otherwise provided therein, the amount of need of any student for fina
 
 <i>See 2020 Amendment note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2020</b>—Pub. L. 116–260 amended section generally. Prior to amendment, text read as follows: "Except as otherwise provided therein, the amount of need of any student for financial assistance under this subchapter (except subparts 1 or 2 of part A of this subchapter) is equal to—
@@ -39,6 +41,8 @@ Except as otherwise provided therein, the amount of need of any student for fina
 <b>1998</b>—Pub. L. 105–244 substituted "or 2" for "or 4" in introductory provisions.
 
 <b>1992</b>—Pub. L. 102–325 amended section generally. Prior to amendment, section read as follows: "Except as otherwise provided therein, the amount of need of any student for financial assistance under this subchapter (except subparts 1 and 3 of part A of this subchapter) is equal to the cost of attendance of such student minus the expected family contribution for such student."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 
@@ -106,7 +110,7 @@ Required Subjects of Study.—In performing the study, the Advisory Committee sh
 
 &emsp;"(7) whether a widely disseminated printed form, or the use of an Internet or other electronic means, can be developed to notify individuals of an estimation of their approximate eligibility for grant, work-study, and loan assistance upon completion and verification of the simplified application form;
 
-&emsp;"(8) whether information provided on other Federal forms (such as the form applying for supplemental security income under title XVI of the Social Security Act \[42 U.S.C. 1381 et seq.\], the form for applying for food stamps under the Food Stamp Act of 1977 \[now the Food and Nutrition Act of 2008, 7 U.S.C. 2011 et seq.\], and the schedule for applying for the earned income tax credit under section 32 of the Internal Revenue Code of 1986 \[26 U.S.C. 32\]) that are designed to determine eligibility for various Federal need-based assistance programs could be used to qualify potential students for the simplified needs test; and
+&emsp;"(8) whether information provided on other Federal forms (such as the form applying for supplemental security income under title XVI of the Social Security Act \[42 U.S.C. 1381 et seq.\], the form for applying for food stamps under the Food Stamp Act of 1977 \[now the Food and Nutrition Act of 2008, 7 U.S.C. 2011 etseq.\], and the schedule for applying for the earned income tax credit under section 32 of the Internal Revenue Code of 1986 \[26 U.S.C. 32\]) that are designed to determine eligibility for various Federal need-based assistance programs could be used to qualify potential students for the simplified needs test; and
 
 &emsp;"(9) whether any proposed changes to data elements collected, in addition to those used to calculate expected family contribution, or any proposed changes to the form's design or the process of applying for aid, may have adverse effects on program costs, integrity, delivery, or distribution of awards, as well as, application development or application processing.
 

@@ -62,7 +62,7 @@ Competitions and challenges under subsection (a)(1)(A) shall be designed to iden
 
 #### (e) Topics
 
-In selecting topics for competitions and challenges under subsection (a)(1), the Secretary of Commerce, Director of the National Science Foundation, and Secretary of Homeland Security—
+In selecting topics for competitions and challenges under subsection (a)(1), the Secretary of Commerce, Director of the National ScienceFoundation, and Secretary of Homeland Security—
 
 &emsp;(1) shall consult widely both within and outside the Federal Government; and
 
@@ -73,6 +73,8 @@ In selecting topics for competitions and challenges under subsection (a)(1), the
 The Director of the Office of Personnel Management may support, as appropriate, internships or other work experience in the Federal Government to the winners of the competitions and challenges under this section.
 
 (Pub. L. 113–274, title III, §301, Dec. 18, 2014, 128 Stat. 2981.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

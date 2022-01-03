@@ -10,7 +10,7 @@
 
 (e) No graduate of the Academy may be appointed or detailed to serve at the Academy as a professor or instructor, or as an assistant to a professor or instructor, within two years after his graduation.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 238, §4333; Pub. L. 85–600, §1(9), Aug. 6, 1958, 72 Stat. 522; Pub. L.95–551, §2, Oct. 30, 1978, 92 Stat. 2069; Pub. L. 96–513, title V, §502(24), Dec. 12, 1980, 94 Stat. 2910; renumbered §7433, Pub. L. 115–232, div. A, title VIII, §808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 238, §4333; Pub. L. 85–600, §1(9), Aug. 6, 1958, 72 Stat. 522; Pub. L. 95–551, §2, Oct. 30, 1978, 92 Stat. 2069; Pub. L. 96–513, title V, §502(24), Dec. 12, 1980, 94 Stat. 2910; renumbered §7433, Pub. L. 115–232, div. A, title VIII, §808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
 
 Historical and Revision Notes
 
@@ -54,6 +54,8 @@ In subsection (b), the words "by and with the advice and consent of the Senate" 
 
 In subsection (c), the word "appointed" is substituted for the word "assigned".
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 7433 was renumbered section 8733 of this title.
@@ -67,6 +69,8 @@ A prior section 7433 was renumbered section 8733 of this title.
 <b>1978</b>—Subsecs. (c), (d). Pub. L. 95–551 substituted "director of admissions" for "registrar" wherever appearing.
 
 <b>1958</b>—Subsecs. (c) to (e). Pub. L. 85–600 added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

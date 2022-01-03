@@ -32,7 +32,7 @@
 
 #### (C) Relation to authority for grants
 
-&emsp;&emsp;The Secretary may not make any grant under paragraph (1) before the date on whichthe guidelines under subparagraph (B) are developed.
+&emsp;&emsp;The Secretary may not make any grant under paragraph (1) before the date on which the guidelines under subparagraph (B) are developed.
 
 #### (3) Use of grant
 

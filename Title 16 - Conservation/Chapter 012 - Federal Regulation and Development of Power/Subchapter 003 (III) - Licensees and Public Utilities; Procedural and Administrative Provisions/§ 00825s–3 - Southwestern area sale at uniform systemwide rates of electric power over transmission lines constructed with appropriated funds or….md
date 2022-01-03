@@ -4,9 +4,13 @@ Power and energy marketed by the Southwestern Power Administration pursuant to s
 
 (Pub. L. 95–456, §1, Oct. 13, 1978, 92 Stat. 1230.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was not enacted as part of the Federal Power Act which generally comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

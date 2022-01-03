@@ -18,9 +18,11 @@ The Coordinating Committee shall be composed of the directors of each of the nat
 
 #### (d) Chairman; meetings
 
-The Coordinating Committee shall be chaired by the Director of NIH (or the designee of theDirector). The Committee shall meet at the call of the chair, but not less often than four times a year.
+The Coordinating Committee shall be chaired by the Director of NIH (or the designee of the Director). The Committee shall meet at the call of the chair, but not less often than four times a year.
 
 (July 1, 1944, ch. 373, title IV, §464E, as added Pub. L. 100–553, §2(4), Oct. 28, 1988, 102 Stat. 2774, and Pub. L. 100–690, title II, §2613(a)(1), Nov. 18, 1988, 102 Stat. 4237; amended Pub. L. 100–690, title II, §2613(b)(2), Nov. 18, 1988, 102 Stat. 4238; Pub. L. 103–43, title XX, §2008(b)(9), June 10, 1993, 107 Stat. 211; Pub. L. 109–482, title I, §104(b)(1)(K), Jan. 15, 2007, 120 Stat. 3693.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -33,6 +35,8 @@ Pub. L. 100–553 and section 2613(a)(1) of Pub. L. 100–690 contained identica
 <b>1993</b>—Subsecs. (d), (e). Pub. L. 103–43 inserted "Coordinating" before "Committee" in first sentence of subsec. (d) and before first reference to "Committee" in subsec. (e).
 
 <b>1988</b>—Pub. L. 100–690, §2613(b)(2), amended this section to read as if the amendments made by Pub. L. 100–690, §2613(a)(1), which enacted this section, had not been enacted. See Codification note above.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

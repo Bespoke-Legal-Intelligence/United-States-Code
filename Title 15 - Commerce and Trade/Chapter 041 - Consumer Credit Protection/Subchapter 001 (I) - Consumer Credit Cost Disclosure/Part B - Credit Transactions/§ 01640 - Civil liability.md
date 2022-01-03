@@ -2,11 +2,11 @@
 
 #### (a) Individual or class action for damages; amount of award; factors determining amount of award
 
-Except as otherwise provided in this section, any creditor who fails to comply with any requirement imposed under this part, including any requirement under section 1635 of this title,subsection (f) or (g) of section 1641 of this title, or part D or E of this subchapter with respect to any person is liable to such person in an amount equal to the sum of—
+Except as otherwise provided in this section, any creditor who fails to comply with any requirement imposed under this part, including any requirement under section 1635 of this title, subsection (f) or (g) of section 1641 of this title, or part D or E of this subchapter with respect to any person is liable to such person in an amount equal to the sum of—
 
 &emsp;(1) any actual damage sustained by such person as a result of the failure;
 
-&emsp;(2)(A)(i) in the case of an individual action twice the amount of any finance charge in connection with the transaction, (ii) in the case of an individual action relating to a consumer lease under part E of this subchapter, 25 per centum of the total amount of monthly payments under the lease, except that the liability under this subparagraph shall not be less than $200 nor greater than $2,000, (iii) in the case of an individual action relating to an open end consumer credit plan that is not secured by real property or a dwelling, twice the amount of any finance charge in connection with the transaction, with a minimum of $500 and a maximum of $5,000, or such higher amount as may be appropriate in the case of an established pattern or practice of such failures; <sup>1</sup> or (iv) in the case of an individual action relating to a credit transaction not under an open end credit plan that is secured by real property or a dwelling, not less than $400 or greater than $4,000; or
+&emsp;(2)(A)(i) in the case of an individual action twice the amount of any finance charge in connection with the transaction, (ii) in the case of an individual action relating to a consumer lease under part E of this subchapter, 25 per centum of the total amount of monthly payments under the lease, except that the liability under this subparagraph shall not be less than $200 nor greater than $2,000, (iii) in the case of an individual action relating to an open end consumer credit plan that is not secured by real property or a dwelling, twice theamount of any finance charge in connection with the transaction, with a minimum of $500 and a maximum of $5,000, or such higher amount as may be appropriate in the case of an established pattern or practice of such failures; <sup>1</sup> or (iv) in the case of an individual action relating to a credit transaction not under an open end credit plan that is secured by real property or a dwelling, not less than $400 or greater than $4,000; or
 
 &emsp;(B) in the case of a class action, such amount as the court may allow, except that as to each member of the class no minimum recovery shall be applicable, and the total recovery under this subparagraph in any class action or series of class actions arising out of the same failure to comply by the same creditor shall not be more than the lesser of $1,000,000 or 1 per centum of the net worth of the creditor;
 
@@ -30,7 +30,7 @@ When there are multiple obligors in a consumer credit transaction or consumer le
 
 #### (e) Jurisdiction of courts; limitations on actions; State attorney general enforcement
 
-Except as provided in the subsequent sentence, any action under this section may be brought in any United States district court, or in any other court of competent jurisdiction, within one year from the date of the occurrence of the violation or, in the case of a violation involving a private education loan (as that term is defined in section 1650(a) of this title), 1 year from the date on which the first regular payment of principal is due under the loan. Any action under this section with respect to any violation of section 1639, 1639b, or 1639c of this title may be brought in any United States district court, or in any other court of competent jurisdiction, before the end of the 3-year period beginning on the date of the occurrence of the violation. This subsection does not bar a person from asserting a violation of this subchapter in an action to collect the debt which was brought more than one year from the date of the occurrence of the violation as a matter of defense by recoupment or set-off in such action, except as otherwise provided by State law. An action to enforce a violation of section 1639, 1639b, 1639c, 1639d, 1639e, 1639f, 1639g, or 1639h of this title may also be brought by the appropriate State attorney general in any appropriate United States district court, or any other court of competent jurisdiction, not later than 3 years after the date on which the violation occurs. The State attorney general shall provide prior written notice of any such civil action to the Federal agency responsible for enforcement under section 1607 of this title and shall provide the agency with a copy of the complaint. If prior notice is not feasible, the State attorney general shall provide notice to such agency immediately upon instituting the action. The Federal agency may—
+Except as provided in the subsequent sentence, any action under this section may be brought in any United States district court, or in any othercourt of competent jurisdiction, within one year from the date of the occurrence of the violation or, in the case of a violation involving a private education loan (as that term is defined in section 1650(a) of this title), 1 year from the date on which the first regular payment of principal is due under the loan. Any action under this section with respect to any violation of section 1639, 1639b, or 1639c of this title may be brought in any United States district court, or in any other court of competent jurisdiction, before the end of the 3-year period beginning on the date of the occurrence of the violation. This subsection does not bar a person from asserting a violation of this subchapter in an action to collect the debt which was brought more than one year from the date of the occurrence of the violation as a matter of defense by recoupment or set-off in such action, except as otherwise provided by State law. An action to enforce a violation of section 1639, 1639b, 1639c, 1639d, 1639e, 1639f, 1639g, or 1639h of this title may also be brought by the appropriate State attorney general in any appropriate United States district court, or any other court of competent jurisdiction, not later than 3 years after the date on which the violation occurs. The State attorney general shall provide prior written notice of any such civil action to the Federal agency responsible for enforcement under section 1607 of this title and shall provide the agency with a copy of the complaint. If prior notice is not feasible, the State attorney general shall provide notice to such agency immediately upon instituting the action. The Federal agency may—
 
 &emsp;(1) intervene in the action;
 
@@ -107,6 +107,8 @@ A private educational lender (as that term is defined in section 1650(a) of this
 In addition to any other remedy available by law or contract, no creditor or assignee shall be liable to an obligor under this section, if such obligor, or co-obligor has been convicted of obtaining by actual fraud such residential mortgage loan.
 
 (Pub. L. 90–321, title I, §130, May 29, 1968, 82 Stat. 157; Pub. L. 93–495, title IV, §§406, 407, 408(a)–(d), Oct. 28, 1974, 88 Stat. 1518; Pub. L. 94–222, §3(b), Feb. 27, 1976, 90 Stat. 197; Pub. L. 94–240, §4, Mar. 23, 1976, 90 Stat. 260; Pub. L. 96–221, title VI, §615, Mar. 31, 1980, 94 Stat. 180; Pub. L. 100–583, §3, Nov. 3, 1988, 102 Stat. 2966; Pub. L. 103–325, title I, §153(a), (b), Sept. 23, 1994, 108 Stat. 2195; Pub. L. 104–12, §2, May 18, 1995, 109 Stat. 161; Pub. L. 104–29, §6, Sept. 30, 1995, 109 Stat. 274; Pub. L. 110–289, div. B, title V, §2502(b), July 30, 2008, 122 Stat. 2857; Pub. L. 110–315, title X, §1012(a), Aug. 14, 2008, 122 Stat. 3482; Pub. L. 111–22, div. A, title IV, §404(b), May 20, 2009, 123 Stat. 1658; Pub. L. 111–24, title I, §107, title II, §201(b), May 22, 2009, 123 Stat. 1743, 1745; Pub. L. 111–203, title X, §1100A(2), title XIV, §§1413, 1416, 1417, 1422, July 21, 2010, 124 Stat. 2107, 2148, 2153, 2157.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -208,6 +210,8 @@ Subsec. (g). Pub. L. 93–495, §407, added subsec. (g).
 
 Subsec. (h). Pub. L. 93–495, §408(d), added subsec. (h).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Amendment by section 1100A(2) of Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
@@ -228,7 +232,7 @@ Amendment by Pub. L. 96–221 effective on expiration of two years and six month
 
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94–240 effective on expiration of one year after Mar. 23, 1976, see section 6 of Pub. L. 94–240, set out as an Effective Date note under section 1667 of this title.
+Amendment by Pub. L. 94–240 effective on expiration of one year after Mar. 23, 1976, see section 6 of Pub. L.94–240, set out as an Effective Date note under section 1667 of this title.
 
 #### Effective Date of 1974 Amendment
 

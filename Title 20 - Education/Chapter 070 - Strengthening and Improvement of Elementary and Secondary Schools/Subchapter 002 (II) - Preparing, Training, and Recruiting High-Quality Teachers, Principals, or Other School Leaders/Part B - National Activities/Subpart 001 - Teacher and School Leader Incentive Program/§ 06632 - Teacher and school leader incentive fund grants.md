@@ -32,7 +32,7 @@ An eligible entity desiring a grant under this subpart shall submit an applicati
 
 &emsp;(5) a description of the local educational agencies or schools to be served under the grant, including such student academic achievement, demographic, and socioeconomic information as the Secretary may request;
 
-&emsp;(6) a description of the effectiveness of teachers, principals, or other school leaders in the local educational agency and the schoolsto be served under the grant and the extent to which the system will increase the effectiveness of teachers, principals, or other school leaders in such schools;
+&emsp;(6) a description of the effectiveness of teachers, principals, or other school leaders in the local educational agency and the schools to be served under the grant and the extent to which the system will increase the effectiveness of teachers, principals, or other school leaders in such schools;
 
 &emsp;(7) a description of how the eligible entity will use grant funds under this subpart in each year of the grant, including a timeline for implementation of such activities;
 
@@ -120,6 +120,8 @@ Grant funds provided under this subpart shall be used to supplement, not supplan
 
 (Pub. L. 89–10, title II, §2212, as added Pub. L. 114–95, title II, §2002, Dec. 10, 2015, 129 Stat. 1932.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This subpart, as amended by the Every Student Succeeds Act, referred to in subsec. (b)(3), probably means this subpart as enacted by Pub. L. 114–95, title II, §2002, Dec. 10, 2015, 129 Stat. 1931.
@@ -127,6 +129,8 @@ This subpart, as amended by the Every Student Succeeds Act, referred to in subse
 #### Prior Provisions
 
 A prior section 6632, Pub. L. 89–10, title II, §2132, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1633, related to subgrants to eligible partnerships, prior to repeal by Pub. L. 114–95, §5, title II, §2002, Dec. 10, 2015, 129 Stat. 1806, 1913, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

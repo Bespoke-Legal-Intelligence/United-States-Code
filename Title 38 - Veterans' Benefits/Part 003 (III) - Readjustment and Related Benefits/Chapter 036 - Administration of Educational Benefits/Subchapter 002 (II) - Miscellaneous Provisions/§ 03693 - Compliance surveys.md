@@ -18,7 +18,7 @@
 
 (c) In this section, the terms "educational institution" and "training establishment" have the meanings given such terms in section 3452 of this title.
 
-(Added Pub. L. 94–502, title V, §511(1), Oct. 15, 1976, 90 Stat. 2401, §1793; amended Pub. L. 100–322, title III, §322, May 20, 1988, 102 Stat. 535; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3693, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 114–315, title IV, §411, Dec. 16, 2016, 130 Stat. 1561.)
+(Added Pub. L. 94–502, title V, §511(1), Oct. 15, 1976, 90 Stat. 2401, §1793; amended Pub. L.100–322, title III, §322, May 20, 1988, 102 Stat. 535; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3693, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 114–315, title IV, §411, Dec. 16, 2016, 130 Stat. 1561.)
 
 #### <b>Editorial Notes</b>
 

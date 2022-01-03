@@ -28,7 +28,9 @@ The Secretary may not use the funds of the Commodity Credit Corporation to provi
 
 There is authorized to be appropriated to the Secretary such sums as may be necessary to carry out this section.
 
-(Pub. L. 107–171, title X, §10104, May 13, 2002, 116 Stat. 488; Pub. L. 108–447, div. A, title VII, §785(b)(2), Dec. 8, 2004, 118 Stat. 2850; Pub. L. 109–97, title VII, §784(b)(3), Nov. 10, 2005, 119 Stat. 2162.)
+(Pub. L. 107–171, title X, §10104, May 13, 2002, 116 Stat. 488; Pub. L. 108–447, div. A, title VII,§785(b)(2), Dec. 8, 2004, 118 Stat. 2850; Pub. L. 109–97, title VII, §784(b)(3), Nov. 10, 2005, 119 Stat. 2162.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -40,7 +42,9 @@ Section was enacted as part of the Farm Security and Rural Investment Act of 200
 
 <b>2004</b>—Pub. L. 108–447 added subsec. (a) and redesignated former subsecs. (a) to (d) as (b) to (e), respectively.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–97 applicable to losses resulting from a disaster that occurs on or after July 28, 2005, and inapplicable to losses resulting from a disaster that occurs before such date, see section 784(c) ofPub. L. 109–97, set out as a note under section 1471 of this title.
+Amendment by Pub. L. 109–97 applicable to losses resulting from a disaster that occurs on or after July 28, 2005, and inapplicable to losses resulting from a disaster that occurs before such date, see section 784(c) of Pub. L. 109–97, set out as a note under section 1471 of this title.
 

@@ -16,6 +16,8 @@
 
 (Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2861; amended Pub. L. 98–525, title V, §525(c), Oct. 19, 1984, 98 Stat. 2525; Pub. L. 107–107, div. A, title V, §505(a)(2), (d)(3), (4)(B), Dec. 28, 2001, 115 Stat. 1086, 1088; Pub. L. 108–136, div. A, title V, §505(b), Nov. 24, 2003, 117 Stat. 1457; Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840; Pub. L. 116–283, div. A, title IX, §924(b)(3)(I), Jan. 1, 2021, 134 Stat. 3821.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Subsecs. (a), (d). Pub. L. 116–283 substituted "Marine Corps, or Space Force" for "or Marine Corps" in introductory provisions in subsec. (a) and in subsec. (d).
@@ -26,11 +28,13 @@
 
 <b>2001</b>—Pub. L. 107–107, §505(d)(4)(B), struck out "regular" before "first lieutenants" in section catchline.
 
-Subsec. (a). Pub. L. 107–107, §505(d)(3), in introductory provisions, substituted "Army, Air Force, or MarineCorps on the active-duty list" for "Regular Army, Regular Air Force, or Regular Marine Corps" and "Navy on the active-duty list" for "Regular Navy" and struck out "regular" before "grade" wherever appearing.
+Subsec. (a). Pub. L. 107–107, §505(d)(3), in introductory provisions, substituted "Army, Air Force, or Marine Corps on the active-duty list" for "Regular Army, Regular Air Force, or Regular Marine Corps" and "Navy on the active-duty list" for "Regular Navy" and struck out "regular" before "grade" wherever appearing.
 
 Subsec. (d). Pub. L. 107–107, §505(a)(2), added subsec. (d).
 
 <b>1984</b>—Subsec. (c). Pub. L. 98–525 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

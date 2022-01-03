@@ -4,6 +4,8 @@ For the purpose of including in one national park, for public benefit and enjoym
 
 (Sept. 14, 1950, ch. 950, §1, 64 Stat. 849.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in text, is act Sept. 14, 1950, ch. 950, 64 Stat. 849, which enacted this section, sections 406d–2 to 406d–5, 431a, 451a, 482m, 673b, and 673c of this title, and provisions set out as notes below. Section 1 of the Act was partially repealed and restated as sections 104907 and 320301(d) of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 7, Dec. 19, 2014, 128 Stat. 3094, 3272. For complete classification of this Act to the Code, see Tables.
@@ -15,6 +17,8 @@ Provisions relating to the "present Grand Teton National Park", referred to in t
 #### Codification
 
 Section comprises all of section 1 of act Sept. 14, 1950, except the final sentence thereof. The final sentence repealed sections 406 to 406d of this title which established, and related to, the former "Grand Teton National Park of Wyoming". It also contained a proviso, which was classified to sections 431a and 451a of this title and was repealed and restated as sections 104907 and 320301(d) of Title 54, National Park Service and Related Programs, by Pub. L. 113–287. See References in Text note above.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Grand Teton National Park Extension
 
@@ -132,7 +136,7 @@ Pub. L. 108–32, June 17, 2003, 117 Stat. 779, provided that:
 
 #### "SEC. 3. ACQUISITION OF STATE LANDS.
 
-"(a) The Secretary is authorized to acquire approximately 1,406 acres of State lands within the exterior boundaries of Grand Teton National Park, as generally depicted on the map referenced in section 2(4), by any one or a combination of the following—
+"(a) The Secretary is authorized to acquire approximately 1,406 acres of State lands within the exteriorboundaries of Grand Teton National Park, as generally depicted on the map referenced in section 2(4), by any one or a combination of the following—
 
 &emsp;"(1) donation;
 
@@ -166,7 +170,7 @@ Appraisal Costs.—The Secretary and the State of Wyoming shall each pay one-hal
 
 #### Construction of Alternate Highway
 
-Act Aug. 9, 1955, ch. 635, 69 Stat. 555, provided: "That in order to facilitate public use and enjoyment of theGrand Teton National Park and to make possible an appropriate relocation and use of highways through the park, the Secretary of the Interior is authorized to construct within the park, upon a location to be agreed upon between the Secretary and the Governor of Wyoming, a highway which shall replace the present U.S. Highway 89, also numbered U.S. 187 and U.S. 26. Upon completion of the said highway, the Secretary is authorized to enter into an agreement with the State of Wyoming, upon such terms and conditions as he deems in the interest of the United States, for the conveyance of the highway to the State in exchange for State and county roads in the park area."
+Act Aug. 9, 1955, ch. 635, 69 Stat. 555, provided: "That in order to facilitate public use and enjoyment of the Grand Teton National Park and to make possible an appropriate relocation and use of highways through the park, the Secretary of the Interior is authorized to construct within the park, upon a location to be agreed upon between the Secretary and the Governor of Wyoming, a highway which shall replace the present U.S. Highway 89, also numbered U.S. 187 and U.S. 26. Upon completion of the said highway, the Secretary is authorized to enter into an agreement with the State of Wyoming, upon such terms and conditions as he deems in the interest of the United States, for the conveyance of the highway to the State in exchange for State and county roads in the park area."
 
 #### Availability of Unexpended Appropriated Funds
 

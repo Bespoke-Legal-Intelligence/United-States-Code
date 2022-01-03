@@ -12,7 +12,7 @@
 
 (b) Amounts under this section shall be payable with respect to each pay period (which would otherwise apply if the employee's civilian employment had not been interrupted)—
 
-&emsp;(1) during which such employee is entitled to re-employment rights under chapter 43 of title 38 with respect to the position from which such employee is absent (as referred to in subsection (a)); and
+&emsp;(1) during which such employee is entitled to re-employment rights under chapter 43 of title38 with respect to the position from which such employee is absent (as referred to in subsection (a)); and
 
 &emsp;(2) for which such employee does not otherwise receive basic pay (including by taking any annual, military, or other paid leave) to which such employee is entitled by virtue of such employee's civilian employment with the Government.
 

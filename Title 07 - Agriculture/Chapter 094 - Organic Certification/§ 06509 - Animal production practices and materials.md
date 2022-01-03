@@ -44,7 +44,7 @@ For a farm to be certified under this chapter as an organic farm with respect to
 
 #### (1) Poultry
 
-&emsp;With the exception of day old poultry, all poultry from which meat or eggs will be sold or labeled as organically produced shall be raised and handled in accordance with this chapter prior to and during the period in which such meat or eggs are sold.
+&emsp;With the exception of day old poultry, all poultry from which meat or eggs will be soldor labeled as organically produced shall be raised and handled in accordance with this chapter prior to and during the period in which such meat or eggs are sold.
 
 #### (2) Dairy livestock
 
@@ -54,7 +54,7 @@ For a farm to be certified under this chapter as an organic farm with respect to
 
 #### (B) Transition guideline
 
-&emsp;&emsp;Crops and forage from land included in the organic system plan of a dairy farm that isin the third year of organic management may be consumed by the dairy animals of the farm during the 12-month period immediately prior to the sale of organic milk and milk products.
+&emsp;&emsp;Crops and forage from land included in the organic system plan of a dairy farm that is in the third year of organic management may be consumed by the dairy animals of the farm during the 12-month period immediately prior to the sale of organic milk and milk products.
 
 #### (f) Livestock identification
 
@@ -76,6 +76,8 @@ The Secretary shall hold public hearings and shall develop detailed regulations,
 
 (Pub. L. 101–624, title XXI, §2110, Nov. 28, 1990, 104 Stat. 3940; Pub. L. 102–237, title X, §1001(2), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 109–97, title VII, §797(c), Nov. 10, 2005, 119 Stat. 2165.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Subsec. (e)(2). Pub. L. 109–97 designated existing provisions as subpar. (A), inserted heading, substituted "Except as provided in subparagraph (B), a dairy" for "A dairy", and added subpar. (B).
@@ -83,6 +85,8 @@ The Secretary shall hold public hearings and shall develop detailed regulations,
 <b>1991</b>—Subsec. (d)(1)(B). Pub. L. 102–237, §1001(2)(A), substituted "parasiticides" for "paraciticides".
 
 Subsecs. (g), (h). Pub. L. 102–237, §1001(2)(B), redesignated subsec. (h) as (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Regulations
 

@@ -14,6 +14,8 @@ Any person who—
 
 <i>For reversion, beginning on July 1, 2021, to provisions in effect on Jan. 1, 2014, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see Codification and Effective and Termination Dates of 2015 Revival notes below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 233 of Pub. L. 112–40, which provided for the Jan. 1, 2014, revival of this section as in effect on Feb. 13, 2011, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, and the provisions of this section, as in effect on Dec. 31, 2013, were temporarily revived, effective June 29, 2015, until July 1, 2021, by Pub. L. 114–27, §§402(b), (c), 406. See 2011 and 2015 Amendment notes, Effective and Termination Dates of 2011 Revival notes, and Effective and Termination Dates of 2015 Revival notes below.
@@ -27,6 +29,8 @@ Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination o
 <b>2011</b>—Pub. L. 112–40, §§201(b), (c), 233, temporarily revived the provisions of this section, as in effect on Feb. 12, 2011. See Codification note above and 2009 Amendment and Effective and Termination Dates of 2011 Revival notes below.
 
 <b>2009</b>—Pub. L. 111–5, §§1801(d), 1893, temporarily amended section generally. Prior to amendment, text read as follows: "Whoever makes a false statement of a material fact knowing it to be false, or knowingly fails to disclose a material fact, for the purpose of obtaining or increasing for himself or for any other person any payment authorized to be furnished under this part or pursuant to an agreement under section 2311 of this title shall be fined not more than $1,000 or imprisoned for not more than one year, or both." See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective and Termination Dates of 2015 Revival
 
@@ -48,5 +52,5 @@ Section 1893 of Pub. L. 111–5, formerly set out as a Termination Date of 2009 
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after June 30, 2021, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be providedunder this section after June 30, 2021, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 

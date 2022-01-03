@@ -94,7 +94,7 @@ Pub. L. 99–554, title III, Oct. 27, 1986, 100 Stat. 3118, as amended by Pub. L
 
 "(a)
 
-Area for Which Appointed.—Notwithstanding any paragraph of section 581(a) of title 28, United States Code, as in effect before the effective date of this Act, a United States trustee serving in such office on the effective date of this Act shall serve the remaining term of such office as United States trustee for the region specified in a paragraph of such section, as amended by this Act, that includes the site at whichthe primary official station of the United States trustee is located immediately before the effective date of this Act.
+Area for Which Appointed.—Notwithstanding any paragraph of section 581(a) of title 28, United States Code, as in effect before the effective date of this Act, a United States trustee serving in such office on the effective date of this Act shall serve the remaining term of such office as United States trustee for the region specified in a paragraph of such section, as amended by this Act, that includes the site at which the primary official station of the United States trustee is located immediately before the effective date of this Act.
 
 "(b)
 
@@ -294,7 +294,7 @@ Judicial districts for the states of alabama and north carolina.—(A) Notwithst
 
 &emsp;"(I) In any judicial district in the State of Alabama or the State of North Carolina that has not made the election described in subparagraph (A), any person who is appointed under regulations issued by the Judicial Conference of the United States to administer estates in cases under title 11 of the United States Code may—
 
-&emsp;&emsp;"(i) establish, maintain, and supervise a panel of private trustees that are eligible and available to serve as trustees in cases under title 11, United States Code, and
+&emsp;&emsp;"(i) establish, maintain, and supervise a panel of private trustees that are eligible and available toserve as trustees in cases under title 11, United States Code, and
 
 &emsp;&emsp;"(ii) supervise the administration of cases and trustees in cases under chapters 7, 11, 12, and 13 of title 11, United States Code,
 
@@ -400,7 +400,7 @@ Conforming Amendment.—Section 408 of the Act of November 6, 1978 (Public Law 9
 
 "(a)
 
-Trustees in Bankruptcy Cases Under Chapter 7.—It is the sense of the Congress that individuals who are serving before the effective date of this Act, as trustees in cases under chapter 7 of title 11, United States Code, should be considered by United States trustees for appointment under section 586(a)(1) of title 28, United States Code, to the panels of private trustees that are established as a result of the amendments made by this Act \[see Short Title of 1986 Amendment note below\].
+Trustees in Bankruptcy Cases Under Chapter 7.—It is the sense of the Congress that individuals who are serving before the effective date of this Act, astrustees in cases under chapter 7 of title 11, United States Code, should be considered by United States trustees for appointment under section 586(a)(1) of title 28, United States Code, to the panels of private trustees that are established as a result of the amendments made by this Act \[see Short Title of 1986 Amendment note below\].
 
 "(b)
 
@@ -492,7 +492,7 @@ Availability to Certain Governmental Entities.—Unlimited access to information
 
 Fees for Other Users.—(1) The entity which is awarded a contract to provide the electronic case management system demonstrated under this project may, under guidelines established by the Director of the Executive Office for the United States Trustees in the provisions of such contract, collect reasonable fees from assets of the estate of the debtor in bankruptcy for providing notices and services to the court and trustees under the demonstration project.
 
-"(2) Access to information maintained in electronic case files pursuant to the demonstration project may be provided to persons other than those specified in subsection (f), but such access shall be limited to viewing such information only. A reasonable charge for such access may be collected by the entity which is awarded a contract under this section, in accordance with the guidelines established by the Director of the Executive Office for the United States Trustees in such contract. A reasonable portion of any charge so collected may be required by the Director to be remitted to the Executive Office for United States Trustees and deposited in the United States Trustee System Fund established in section 589a of title 28, United States Code.
+"(2) Access to information maintained in electronic case files pursuant to the demonstration project maybe provided to persons other than those specified in subsection (f), but such access shall be limited to viewing such information only. A reasonable charge for such access may be collected by the entity which is awarded a contract under this section, in accordance with the guidelines established by the Director of the Executive Office for the United States Trustees in such contract. A reasonable portion of any charge so collected may be required by the Director to be remitted to the Executive Office for United States Trustees and deposited in the United States Trustee System Fund established in section 589a of title 28, United States Code.
 
 "(h)
 
@@ -508,7 +508,7 @@ Chapter effective Oct. 1, 1979, see section 402(c) of Pub. L. 95–598, set out 
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–554, §1, Oct. 27, 1986, 100 Stat. 3088, provided: "That this Act \[enacting section 589a of thistitle and section 307 and chapter 12 of Title 11, Bankruptcy, amending this section, sections 49, 96, 152, 156, 157, 526, 582, 584 to 587, 604, 1334, and 1930 of this title, sections 101 to 103, 105, 108, 109, 303, 321, 322, 324, 326, 327, 329, 330, 341, 343, 345 to 348, 362 to 365, 502, 503, 521 to 524, 546 to 549, 554, 557, 701, 703 to 707, 724, 726 to 728, 743, 1102, 1104 to 1106, 1112, 1121, 1129, 1163, 1202, 1302, 1306, 1307, and 1324 to 1326 of Title 11, Bankruptcy Form No. 1, repealing chapters 11 and 12 of Title 11, enacting provisions set out as notes under this section and section 589 of this title, amending provisions set out as notes preceding this section and under section 152 of this title, and repealing provisions set out as a note preceding this section\] may be cited as the 'Bankruptcy Judges, United States Trustees, and Family Farmer Bankruptcy Act of 1986'."
+Pub. L. 99–554, §1, Oct. 27, 1986, 100 Stat. 3088, provided: "That this Act \[enacting section 589a of this title and section 307 and chapter 12 of Title 11, Bankruptcy, amending this section, sections 49, 96, 152, 156, 157, 526, 582, 584 to 587, 604, 1334, and 1930 of this title, sections 101 to 103, 105, 108, 109, 303, 321, 322, 324, 326, 327, 329, 330, 341, 343, 345 to 348, 362 to 365, 502, 503, 521 to 524, 546 to 549, 554, 557, 701, 703 to 707, 724, 726 to 728, 743, 1102, 1104 to 1106, 1112, 1121, 1129, 1163, 1202, 1302, 1306, 1307, and 1324 to 1326 of Title 11, Bankruptcy Form No. 1, repealing chapters 11 and 12 of Title 11, enacting provisions set out as notes under this section and section 589 of this title, amending provisions set out as notes preceding this section and under section 152 of this title, and repealing provisions set out as a note preceding this section\] may be cited as the 'Bankruptcy Judges, United States Trustees, and Family Farmer Bankruptcy Act of 1986'."
 
 #### Bankruptcy Crimes
 

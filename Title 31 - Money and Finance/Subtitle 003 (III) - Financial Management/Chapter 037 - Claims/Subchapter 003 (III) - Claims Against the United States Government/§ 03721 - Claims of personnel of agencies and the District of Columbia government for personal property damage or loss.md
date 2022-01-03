@@ -20,7 +20,7 @@
 
 (c) On paying a claim under this section, the Government is subrogated for the amount of the payment to a right or claim that the claimant may have against a foreign country for the damage or loss for which the Government made the payment.
 
-(d) The Mayor of the District of Columbia may settle and pay a claim against the District ofColumbia government made by an officer or employee of the District of Columbia government to the same extent the head of an agency may settle and pay a claim under this section.
+(d) The Mayor of the District of Columbia may settle and pay a claim against the District of Columbia government made by an officer or employee of the District of Columbia government to the same extent the head of an agency may settle and pay a claim under this section.
 
 (e) A claim may not be allowed under this section if the personal property damage or loss occurred at quarters occupied by the claimant in a State or the District of Columbia that were not assigned or provided in kind by the United States Government or the District of Columbia government.
 

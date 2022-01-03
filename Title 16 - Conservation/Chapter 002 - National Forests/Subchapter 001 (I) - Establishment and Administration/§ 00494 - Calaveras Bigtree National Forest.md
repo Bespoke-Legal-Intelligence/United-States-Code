@@ -1,8 +1,10 @@
 ### §494. Calaveras Bigtree National Forest
 
-The Secretary of Agriculture, to secure and protect for all time the big trees scientifically known as Sequoia washingtoniana, is empowered, in his discretion, to obtain for the United States the complete title to any or all of the following-described lands in the State of California: In township 4 north, range 15 east, Mount Diablo meridian, the northeast quarter of section 1; in township 4 north, range 16 east, Mount Diablo meridian, the north half of section 6; in township 5 north, range 15 east, Mount Diablo meridian, the southwest quarter of section 14, south half of section 15, north half of section 22, northwest quarter of section 23, and southeast quarter of section 36, and in township 5 north, range 16 east, Mount Diablo meridian, the west half of section 28, the east half and southwest quarter of section 29, the southeast quarter of section 30, all of sections 31, 32, and the northwest quarter of section 33. And such area or areas, as fast as complete title is acquired, shall be permanently held by the United States and shall be known as the Calaveras Bigtree National Forest and shall be administered, andprotected, by the Secretary of Agriculture from the funds appropriated for the administration of National Forest land to prolong the existence, growth, and promote the reproduction of said big trees. The owners of land acquired hereunder shall convey to the United States full title to any of the above-described areas approved for said national forest by the Secretary of Agriculture, the completeness of such title to be determined by the Secretary of the Interior in each case, and shall be reimbursed therefor only in one or both of the following ways: (1) They may be given the right to file with the Secretary of the Interior, within sixty days after such conveyance, selections of surveyed, unappropriated, nonmineral public lands or of nonmineral national forest lands, and if the lands so selected shall be found subject to selection and of the actual value in lands and stumpage substantially equal to that of the lands and stumpage conveyed they may be patented to said owners in lieu of the conveyed lands. In any case where any part of the lands selected is national forest land, the approval of the Secretary of Agriculture shall first be secured with respect to such part, or (2) the Secretary of Agriculture may grant to any such conveying owner the right to cut from national forest land an amount of timber and wood substantially equal to the amount of timber and wood on the land acquired by the United States under the provisions of this section.
+The Secretary of Agriculture, to secure and protect for all time the big trees scientifically known as Sequoia washingtoniana, is empowered, in his discretion, to obtain for the United States the complete title to any or all of the following-described lands in the State of California: In township 4 north, range 15 east, Mount Diablo meridian, the northeast quarter of section 1; in township 4 north, range 16 east, Mount Diablo meridian, the north half of section 6; in township 5 north, range 15 east, Mount Diablo meridian, the southwest quarter of section 14, south half of section 15, north half of section 22, northwest quarter of section 23, and southeast quarter of section 36, and in township 5 north, range 16 east, Mount Diablo meridian, the west half of section 28, the east half and southwest quarter of section 29, the southeast quarter of section 30, all of sections 31, 32, and the northwest quarter of section 33. And such area or areas, as fast as complete title is acquired, shall be permanently held by the United States and shall be known as the Calaveras Bigtree National Forest and shall be administered, and protected, by the Secretary of Agriculture from the funds appropriated for the administration of National Forest land to prolong the existence, growth, and promote the reproduction of said big trees. The owners of land acquired hereunder shall convey to the United States full title to any of the above-described areas approved for said national forest by the Secretary of Agriculture, the completeness of such title to be determined by the Secretary of the Interior in each case, and shall be reimbursed therefor only in one or both of the following ways: (1) They may be given the right to file with the Secretary of the Interior, within sixty days after such conveyance, selections of surveyed, unappropriated, nonmineral public lands or of nonmineral national forest lands, and if the lands so selected shall be found subject to selection and of the actual value in lands and stumpage substantially equal to that of the lands and stumpage conveyed they may be patented to said owners in lieu of the conveyed lands. In any case where any part of the lands selected is national forest land, the approval of the Secretary of Agriculture shall first be secured with respect to such part, or (2) the Secretary of Agriculture may grant to any such conveying owner the right to cut from national forest land an amount of timber and wood substantially equal to the amount of timber and wood on the land acquired by the United States under the provisions of this section.
 
 (Feb. 18, 1909, ch. 143, 35 Stat. 626; May 7, 1912, ch. 105, §1, 37 Stat. 108.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -11,6 +13,8 @@ A proviso of the section as originally enacted "That nothing contained in this A
 #### Amendments
 
 <b>1912</b>—Act May 7, 1912, changed provisions of original act as to modes of reimbursement of owners of lands taken.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Lands in Calaveras Big Trees National Forest to State of California
 
@@ -22,7 +26,7 @@ Pub. L. 101–436, Oct. 17, 1990, 104 Stat. 993, provided that:
 
 Findings.—The Congress finds and declares that—
 
-&emsp;"(1) in order to protect certain outstanding examples of ponderosa pine, sugar pine, and giant sequoia trees located in the North and South Calaveras Groves, on the western slope of the Sierra Nevada Mountains, the State of California has established the Calaveras Big Trees State Park;
+&emsp;"(1) in order to protect certain outstanding examples of ponderosa pine, sugar pine, and giant sequoiatrees located in the North and South Calaveras Groves, on the western slope of the Sierra Nevada Mountains, the State of California has established the Calaveras Big Trees State Park;
 
 &emsp;"(2) for similar purposes, the United States has designated certain adjacent Federal lands, amounting to approximately 379 acres, as the Calaveras Big Trees National Forest; and
 
@@ -56,7 +60,7 @@ Conditions of Conveyance.—Conveyance of the lands and interests described in s
 
 &emsp;"(5) The Secretary, acting through the Forest Service, shall be afforded by appropriate officials of the State of California reasonable opportunities to collect seeds from trees located on such lands for scientific or silvicultural purposes.
 
-&emsp;"(6) The Secretary, upon prior notification to the State of California, shall be entitled at any time to enter upon such lands for the purpose of monitoring the management of such lands and the compliance ofthe State of California with the provisions of this subsection.
+&emsp;"(6) The Secretary, upon prior notification to the State of California, shall be entitled at any time to enter upon such lands for the purpose of monitoring the management of such lands and the compliance of the State of California with the provisions of this subsection.
 
 &emsp;"(7) The conveyance shall be subject to the following reservations or exceptions:
 

@@ -50,7 +50,7 @@
 
 #### (2) Penalty claim
 
-&emsp;After considering representations, if any, made by the person concerned pursuant to the notice issued under paragraph (1), the Customs Service shall determine whether any violation of subsection (a), as alleged in the notice, has occurred. If the Customs Service determines that there was no violation, the Customs Service shall promptly issue a written statement of the determination to the person to whom the notice was sent. If the Customs Service determines that there was a violation, Customs shall issue a written penalty claim to such person. The written penalty claim shall specify all changes in the information provided under clauses (i) through (vii) of paragraph (1)(A). Such person shall have a reasonable opportunity under section 1618 of this title to make representations, both oral and written, seeking remission or mitigation of the monetary penalty. At the conclusion of any proceeding under section 1618 of this title, the Customs Service shall provide to the person concerned a written statement which sets forth the final determination, and the findings of fact and conclusions of law on which such determination is based.
+&emsp;After considering representations, if any, made by the person concerned pursuant to the notice issued under paragraph (1), the Customs Service shall determine whether any violation of subsection (a), as alleged in the notice, hasoccurred. If the Customs Service determines that there was no violation, the Customs Service shall promptly issue a written statement of the determination to the person to whom the notice was sent. If the Customs Service determines that there was a violation, Customs shall issue a written penalty claim to such person. The written penalty claim shall specify all changes in the information provided under clauses (i) through (vii) of paragraph (1)(A). Such person shall have a reasonable opportunity under section 1618 of this title to make representations, both oral and written, seeking remission or mitigation of the monetary penalty. At the conclusion of any proceeding under section 1618 of this title, the Customs Service shall provide to the person concerned a written statement which sets forth the final determination, and the findings of fact and conclusions of law on which such determination is based.
 
 #### (c) Maximum penalties
 
@@ -112,7 +112,7 @@ Notwithstanding section 1514 of this title, if the United States has been depriv
 
 &emsp;A party may be certified as a participant in the drawback compliance program after meeting the general requirements established under the program or after negotiating an alternative program suited to the needs of the party and the Customs Service. Certification requirements shall take into account the size and nature of the party's drawback program and the volume of claims. In order to be certified, the participant must be able to demonstrate that it—
 
-&emsp;&emsp;(A) understands the legal requirements for filing claims, including the nature of the records required to be maintained and produced and the time periods involved;
+&emsp;&emsp;(A) understands the legal requirements for filing claims, including the nature of therecords required to be maintained and produced and the time periods involved;
 
 &emsp;&emsp;(B) has in place procedures to explain the Customs Service requirements to those employees that are involved in the preparation of claims, and the maintenance and production of required records;
 
@@ -184,9 +184,13 @@ Notwithstanding any other provision of law, in any proceeding commenced by the U
 
 (June 17, 1930, ch. 497, title IV, §593A, as added Pub. L. 103–182, title VI, §622(a), Dec. 8, 1993, 107 Stat. 2181; amended Pub. L. 108–429, title I, §1563(f), Dec. 3, 2004, 118 Stat. 2587.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Subsec. (h). Pub. L. 108–429 substituted "subsections (c) and (g)" for "subsection (g)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 
@@ -194,7 +198,7 @@ Amendment by Pub. L. 108–429 effective Dec. 3, 2004, and applicable to drawbac
 
 #### Effective Date
 
-Pub. L. 103–182, title VI, §622(b), Dec. 8, 1993, 107 Stat. 2186, which provided that the enactment of this section would apply to drawback claims filed on and after the nationwide operational implementation of an automated drawback selectivity program by the Customs Service, was repealed by Pub. L. 116–113, title VI, §601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
+Pub. L. 103–182, title VI, §622(b), Dec. 8, 1993, 107 Stat. 2186, which provided that the enactment of this sectionwould apply to drawback claims filed on and after the nationwide operational implementation of an automated drawback selectivity program by the Customs Service, was repealed by Pub. L. 116–113, title VI, §601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
 
 #### Transfer of Functions
 

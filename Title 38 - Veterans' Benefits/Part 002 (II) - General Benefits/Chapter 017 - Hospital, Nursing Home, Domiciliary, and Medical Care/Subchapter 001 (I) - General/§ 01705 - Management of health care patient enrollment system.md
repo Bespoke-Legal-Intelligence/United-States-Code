@@ -28,7 +28,7 @@
 
 (c)(1) The Secretary may not provide hospital care or medical services to a veteran under paragraph (2) or (3) of section 1710(a) of this title unless the veteran enrolls in the system of patient enrollment established by the Secretary under subsection (a).
 
-(2) The Secretary shall provide hospital care and medical services under section 1710(a)(1) ofthis title, and under subparagraph (B) of section 1710(a)(2) of this title, for the 12-month period following such veteran's discharge or release from service, to any veteran referred to in such sections for a disability specified in the applicable subparagraph of such section, notwithstanding the failure of the veteran to enroll in the system of patient enrollment referred to in subsection (a) of this section.
+(2) The Secretary shall provide hospital care and medical services under section 1710(a)(1) of this title, and under subparagraph (B) of section 1710(a)(2) of this title, for the 12-month period following such veteran's discharge or release from service, to any veteran referred to in such sections for a disability specified in the applicable subparagraph of such section, notwithstanding the failure of the veteran to enroll in the system of patient enrollment referred to in subsection (a) of this section.
 
 (Added Pub. L. 104–262, title I, §104(a)(1), Oct. 9, 1996, 110 Stat. 3182; amended Pub. L. 106–117, title I, §112(2), Nov. 30, 1999, 113 Stat. 1556; Pub. L. 107–135, title II, §202(a), Jan. 23, 2002, 115 Stat. 2457; Pub. L. 107–330, title III, §308(g)(4), Dec. 6, 2002, 116 Stat. 2828; Pub. L. 111–163, title V, §512, May 5, 2010, 124 Stat. 1164; Pub. L. 114–315, title VI, §603(a)(1), Dec. 16, 2016, 130 Stat. 1570; Pub. L. 115–232, div. A, title VIII, §809(n)(1)(A), Aug. 13, 2018, 132 Stat. 1843.)
 
@@ -106,7 +106,7 @@ Matters To Be Included.—The report under subsection (b) shall include detailed
 
 &emsp;"(4) The numbers and characteristics of, and the type and extent of health care furnished to, veterans enrolled for care (shown in total and separately by facility).
 
-&emsp;"(5) The numbers and characteristics of, and the type and extent of health care furnished to, veterans not enrolled for care (shown separately by referenceto each class of eligibility, both in total and separately by facility).
+&emsp;"(5) The numbers and characteristics of, and the type and extent of health care furnished to, veterans not enrolled for care (shown separately by reference to each class of eligibility, both in total and separately by facility).
 
 &emsp;"(6) The specific fiscal impact (shown in total and by geographic health-care delivery areas) of changes in delivery patterns instituted under the amendments made by this title \[enacting this section and section 1706 of this title and amending sections 1525, 1701, 1703, 1710, 1712, 1712A, 1717, 1718, 1720, 1722, 1729, 2104, 5317, 8110, and 8111A of this title\]."
 

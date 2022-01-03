@@ -270,6 +270,8 @@ In the case of a transfer of property to which this section applies or a cancell
 
 (Added Pub. L. 91–172, title III, §321(a), Dec. 30, 1969, 83 Stat. 588; amended Pub. L. 94–455, title XIX, §§1901(a)(15), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1765, 1834; Pub. L. 97–34, title II, §252(a), Aug. 13, 1981, 95 Stat. 260; Pub. L. 97–448, title I, §102(k)(1), Jan. 12, 1983, 96 Stat. 2374; Pub. L. 98–369, div. A, title II, §223(c), July 18, 1984, 98 Stat. 775; Pub. L. 99–514, title XVIII, §1827(e), Oct. 22, 1986, 100 Stat. 2851; Pub. L. 101–508, title XI, §11801(a)(5), Nov. 5, 1990, 104 Stat. 1388–520; Pub. L. 108–357, title VIII, §906(b), Oct. 22, 2004, 118 Stat. 1654; Pub. L. 115–97, title I, §13603(a), Dec. 22, 2017, 131 Stat. 2159.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Securities Exchange Act of 1934, referred to in subsecs. (c)(3) and (i)(3)(B)(iv), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. Section 16(b) of the Act is classified to section 78p(b) of Title 15. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
@@ -303,6 +305,8 @@ The Securities Exchange Act of 1934, referred to in subsecs. (c)(3) and (i)(3)(B
 <b>1976</b>—Subsec. (b)(2). Pub. L. 94–455, §1901(a)(15), struck out "(or, if later, 30 days after the date of the enactment of the Tax Reform Act of 1969)" after "after the date of such transfer", and §1906(b)(13)(A), "or his delegate" after "Secretary" wherever appearing.
 
 Subsec. (d)(1), (2)(B). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 

@@ -326,7 +326,7 @@ For purposes of determining whether to provide assistance for a project under th
 
 #### (2) Recurring revenue
 
-&emsp;The Secretary shall consider the existing recurring revenues of the entity at the time of application in determining an adequate level of credit support.
+&emsp;The Secretary shall consider the existing recurring revenues of the entity at the time ofapplication in determining an adequate level of credit support.
 
 #### (h) Adequacy of security
 
@@ -418,6 +418,8 @@ No grant, or loan, or loan guarantee may be made under this section after Septem
 
 (May 20, 1936, ch. 432, title VI, §601, as added Pub. L. 107–171, title VI, §6103(a), May 13, 2002, 116 Stat. 415; amended Pub. L. 108–199, div. A, title VII, §772, Jan. 23, 2004, 118 Stat. 40; Pub. L. 110–234, title VI, §6110(a), May 22, 2008, 122 Stat. 1199; Pub. L. 110–246, §4(a), title VI, §6110(a), June 18, 2008, 122 Stat. 1664, 1960; Pub. L. 113–79, title VI, §6104(a), Feb. 7, 2014, 128 Stat. 851; Pub. L. 115–334, title VI, §§6201, 6301(b), Dec. 20, 2018, 132 Stat. 4729, 4748.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 The authorities provided by each provision of, and each amendment made by, Pub. L. 110–246, as in effect on Sept. 30, 2012, to continue, and the Secretary of Agriculture to carry out the authorities, until the later of Sept. 30, 2013, or the date specified in the provision of, or amendment made by, Pub. L. 110–246, see section 701(a) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of this title.
@@ -496,7 +498,7 @@ Subsec. (d)(2)(B). Pub. L. 113–79, §6104(a)(2)(B)(ii), struck out "25" before
 
 Subsec. (d)(2)(C). Pub. L. 113–79, §6104(a)(2)(B)(iii)(I), struck out "3 or more" before "incumbent" in heading.
 
-Subsec. (d)(2)(C)(i). Pub. L. 113–79, §6104(a)(2)(B)(iii)(II), added cl. (i) and struck out former cl.(i). Prior to amendment, text read as follows: "Except as provided in clause (ii), subparagraph (A)(ii) shall not apply to an incumbent service provider that is upgrading broadband service to the existing territory of the incumbent service provider."
+Subsec. (d)(2)(C)(i). Pub. L. 113–79, §6104(a)(2)(B)(iii)(II), added cl. (i) and struck out former cl.(i). Prior to amendment, text read as follows: "Except as provided in clause (ii), subparagraph (A)(ii)shall not apply to an incumbent service provider that is upgrading broadband service to the existing territory of the incumbent service provider."
 
 Subsec. (d)(3)(B)(iii). Pub. L. 113–79, §6104(a)(2)(C), added cl. (iii).
 
@@ -521,6 +523,8 @@ Subsecs. (k)(1), (l). Pub. L. 113–79, §6104(a)(6), substituted "2018" for "20
 &emsp;"(A) has not more than 20,000 inhabitants, based on the most recent available population statistics of the Bureau of the Census; and
 
 &emsp;"(B) is not located in an area designated as a standard metropolitan statistical area."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

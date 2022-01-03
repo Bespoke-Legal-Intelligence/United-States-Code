@@ -48,9 +48,13 @@ In this title:
 
 (Pub. L. 116–92, div. E, title LXVI, §6601, Dec. 20, 2019, 133 Stat. 2209.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This title, referred to in text, means title LXVI of div. E of Pub. L. 116–92, which enacted this section andsections 3162a and 3352a to 3352f of this title and amended sections 3033, 3104, 3163, and 3164 of this title. For complete classification of title LXVI to the Code, see Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

@@ -8,6 +8,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1964</b>—Pub. L. 88–272, title II, §224(b), Feb. 26, 1964, 78 Stat. 79, added item 483.

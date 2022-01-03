@@ -4,11 +4,13 @@ If any provision of this Act or the application thereof to any person or circums
 
 (Pub. L. 90–258, §27, Feb. 19, 1968, 82 Stat. 34.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in text, is Pub. L. 90–258, Feb. 19, 1968, 82 Stat. 26. For complete classification of this Act to the Code, see Tables.
 
-Effective date of this Act, referred to in text, as one hundred and twenty days after Feb. 19, 1968, see section28 of Pub. L. 90–258, set out as an Effective Date of 1968 Amendment note under section 2 of this title.
+Effective date of this Act, referred to in text, as one hundred and twenty days after Feb. 19, 1968, see section 28 of Pub. L. 90–258, set out as an Effective Date of 1968 Amendment note under section 2 of this title.
 
 #### Codification
 

@@ -36,7 +36,7 @@ The Secretary of Health and Human Services, the Secretary of Defense, the Secret
 
 &emsp;&emsp;(D) update the assessment under subparagraph (A) biennially, as appropriate, and provide the findings of such updated assessments to the Federal officials described in subsection (d)(1) and the appropriate congressional committees; and
 
-&emsp;&emsp;(E) conduct briefings for the appropriate congressional committees as needed anytime an assessment under this paragraph is updated.
+&emsp;&emsp;(E) conduct briefings for the appropriate congressional committees as needed any time an assessment under this paragraph is updated.
 
 #### (2) Classification and format
 

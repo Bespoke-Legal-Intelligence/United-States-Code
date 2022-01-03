@@ -4,7 +4,9 @@ The Secretary of Agriculture is authorized, under such rules and regulations and
 
 (Mar. 4, 1917, ch. 179, 39 Stat. 1157; May 31, 1920, ch. 217, 41 Stat. 718.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
-Section was formerly classified to section 554 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 554 of Title 5 prior to the general revision and enactment of Title5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 

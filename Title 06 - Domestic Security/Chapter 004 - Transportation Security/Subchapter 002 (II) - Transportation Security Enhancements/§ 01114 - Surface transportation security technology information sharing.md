@@ -8,7 +8,7 @@
 
 #### (2) Designation of qualified antiterrorism technologies
 
-&emsp;The Secretary shall include in such information provided in paragraph (1) whether the technology is designated as a qualified antiterrorism technology under the Support Anti-terrorism by Fostering Effective TechnologiesAct of 2002 (Public Law 107–296) \[6 U.S.C. 441 et seq.\], as appropriate.
+&emsp;The Secretary shall include in such information provided in paragraph (1) whether the technology is designated as a qualified antiterrorism technology under the Support Anti-terrorism by Fostering Effective Technologies Act of 2002 (Public Law 107–296) \[6 U.S.C. 441 et seq.\], as appropriate.
 
 #### (b) Purpose
 

@@ -56,7 +56,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;Any person who violates any provision of this section or any regulation issued under this section may, in addition to any other civil or criminal penalty that may be imposed under title 18 or any other provision of law, be assessed a civil penalty by the designated authority of not more than—
+&emsp;&emsp;Any person who violates any provision of this section or any regulation issued under this section may, in addition to any othercivil or criminal penalty that may be imposed under title 18 or any other provision of law, be assessed a civil penalty by the designated authority of not more than—
 
 &emsp;&emsp;&emsp;(i) $10,000 for each separate knowing and intentional violation;
 
@@ -66,7 +66,7 @@ In this section:
 
 #### (B) Debarment
 
-&emsp;&emsp;The designated authority may prohibit a person from importing, exporting, transporting, distributing, manufacturing, or selling any fur product in the United States, ifthe designated authority finds that the person has engaged in a pattern or practice of actions that has resulted in a final administrative determination with respect to the assessment of civil penalties for knowing and intentional or grossly negligent violations of any provision of this section or any regulation issued under this section.
+&emsp;&emsp;The designated authority may prohibit a person from importing, exporting, transporting, distributing, manufacturing, or selling any fur product in the United States, if the designated authority finds that the person has engaged in a pattern or practice of actions that has resulted in a final administrative determination with respect to the assessment of civil penalties for knowing and intentional or grossly negligent violations of any provision of this section or any regulation issued under this section.
 
 #### (C) Factors in assessing penalties
 
@@ -110,17 +110,21 @@ The designated authorities shall, at least once each year, publish in the Federa
 
 (June 17, 1930, ch. 497, title III, §308, as added Pub. L. 106–476, title I, §1443(a), Nov. 9, 2000, 114 Stat. 2164; amended Pub. L. 113–188, title X, §1001(a), Nov. 26, 2014, 128 Stat. 2022.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Harmonized Tariff Schedule of the United States, referred to in subsec. (a)(8), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
 #### Prior Provisions
 
-A prior section 1308, acts June 17, 1930, ch. 497, title III, §308, 46 Stat. 690; June 25, 1938, ch. 679, §4, 52 Stat. 1079; Aug. 8, 1953, ch. 397, §10(a)(1), (b) to (f), 67 Stat. 512; Aug. 28, 1954, ch. 1045, §1, 68 Stat. 914; Aug. 28, 1957, Pub. L. 85–211, §3, 71 Stat. 487; Apr. 16, 1958, Pub. L. 85–379, 72 Stat. 88; May 16, 1958, Pub. L. 85–414, §1, 72 Stat. 118, prescribed articles for temporary free importation under bond for exportation, prior to repeal by Pub. L. 87–456, title III, §301(a), title V, §501(a), May 24, 1962, 76 Stat. 75, 78, effective with respect to articles entered, or withdrawn from warehouse, for consumption on or after Aug. 31, 1963.
+A prior section 1308, acts June 17, 1930, ch. 497, title III, §308, 46 Stat. 690; June 25, 1938, ch. 679, §4, 52 Stat. 1079; Aug. 8, 1953, ch. 397, §10(a)(1), (b) to (f), 67 Stat. 512; Aug. 28, 1954, ch. 1045, §1, 68 Stat. 914; Aug. 28, 1957, Pub. L. 85–211, §3, 71 Stat. 487; Apr. 16, 1958, Pub. L. 85–379, 72 Stat. 88; May 16, 1958, Pub. L. 85–414, §1, 72 Stat. 118,prescribed articles for temporary free importation under bond for exportation, prior to repeal by Pub. L. 87–456, title III, §301(a), title V, §501(a), May 24, 1962, 76 Stat. 75, 78, effective with respect to articles entered, or withdrawn from warehouse, for consumption on or after Aug. 31, 1963.
 
 #### Amendments
 
 <b>2014</b>—Subsec. (e). Pub. L. 113–188 struck out subsec. (e) which related to submissions of a plan for enforcement and annual reports on enforcement efforts.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -128,7 +132,7 @@ Pub. L. 106–476, title I, §1443(c), Nov. 9, 2000, 114 Stat. 2167, provided th
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of theDepartment of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 #### Findings and Purposes
 

@@ -72,6 +72,8 @@ Each recipient of assistance for a project under this chapter shall submit to th
 
 (Pub. L. 106–247, §5, July 20, 2000, 114 Stat. 594; Pub. L. 109–363, title III, §302(d), (e), Oct. 17, 2006, 120 Stat. 2076.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (c)(2). Pub. L. 109–363, §302(d), inserted "Canada," after "United States,".

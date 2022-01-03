@@ -1,6 +1,6 @@
 ### §41101. Funds for exchange of identification records
 
-The funds provided for Salaries and Expenses, Federal Bureau of Investigation, may be used hereafter, in addition to those uses authorized thereunder, for the exchange of identification records with officials or federally chartered or insured banking institutions to promote or maintain the security of those institutions, and, if authorized by State statute and approved by the Attorney General, to officials of State and local governments for purposes of employment and licensing, any such exchange to be made only for the official use of any such official and subject to the same restriction with respect to dissemination as that provided for under the aforementioned appropriation.
+The funds provided for Salaries and Expenses, Federal Bureau of Investigation, may be usedhereafter, in addition to those uses authorized thereunder, for the exchange of identification records with officials or federally chartered or insured banking institutions to promote or maintain the security of those institutions, and, if authorized by State statute and approved by the Attorney General, to officials of State and local governments for purposes of employment and licensing, any such exchange to be made only for the official use of any such official and subject to the same restriction with respect to dissemination as that provided for under the aforementioned appropriation.
 
 (Pub. L. 92–544, title II, Oct. 25, 1972, 86 Stat. 1115.)
 

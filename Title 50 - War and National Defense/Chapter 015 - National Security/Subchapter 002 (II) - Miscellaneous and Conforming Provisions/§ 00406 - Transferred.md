@@ -1,5 +1,7 @@
 ### §406. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 406, comprising act June 24, 1948, ch. 632, 62 Stat. 648, was editorially reclassified as a note under section 3073 of this title.

@@ -20,6 +20,8 @@ Foreign Terrorist Organization Defined.—In this section, the term "foreign ter
 
 (Added Pub. L. 113–291, div. A, title V, §571(a)(1)(A), Dec. 19, 2014, 128 Stat. 3387.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Retroactive Effective Date and Application
 
 Pub. L. 113–291, div. A, title V, §571(a)(2), Dec. 19, 2014, 128 Stat. 3387, provided that:

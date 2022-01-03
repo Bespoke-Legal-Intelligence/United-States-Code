@@ -40,6 +40,8 @@ For fiscal year 1989, the report required in subsection (d) shall, not less than
 
 (July 1, 1944, ch. 373, title XXIII, §2302, as added Pub. L. 100–607, title II, §201(4), Nov. 4, 1988, 102 Stat. 3063.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 300cc of this title, referred to in subsec. (d), was repealed by Pub. L. 109–482, title I, §104(b)(2)(C), Jan. 15, 2007, 120 Stat. 3693.
@@ -47,6 +49,8 @@ Section 300cc of this title, referred to in subsec. (d), was repealed by Pub. L.
 #### Prior Provisions
 
 A prior section 300cc–1, act July 1, 1944, §2302, was successively renumbered by subsequent acts and transferred, see section 238a of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -116,6 +120,8 @@ Implementation.—Not later than 12 months after the date of the enactment of th
 
 Authorization of appropriations.—For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1994 through 1996."
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 12963. Presidential Advisory Council on HIV/AIDS
 
 Ex. Ord. No. 12963, June 14, 1995, 60 F.R. 31905, as amended by Ex. Ord. No. 13009, June 14, 1996, 61 F.R. 39799 \[30799\], provided:
@@ -126,9 +132,9 @@ Section 1. <i>Establishment</i>. (a) The Secretary of Health and Human Services 
 
 (b) The Secretary shall designate a Chairperson from among the members of the Advisory Council.
 
-Sec. 2. <i>Functions</i>. The Advisory Council shall provide advice, information, and recommendations to the Secretary regarding programs and policies intended to (a) promote effective prevention of HIV disease, (b) advance research on HIV and AIDS, and (c) promote quality services to persons living with HIV disease andAIDS. The functions of the Advisory Council shall be solely advisory in nature. The Secretary shall provide the President with copies of all written reports provided to the Secretary by the Advisory Council.
+Sec. 2. <i>Functions</i>. The Advisory Council shall provide advice, information, and recommendations to the Secretary regarding programs and policies intended to (a) promote effective prevention of HIV disease, (b) advance research on HIV and AIDS, and (c) promote quality services to persons living with HIV disease and AIDS. The functions of the Advisory Council shall be solely advisory in nature. The Secretary shall provide the President with copies of all written reports provided to the Secretary by the Advisory Council.
 
-Sec. 3. <i>Administration</i>. (a) The heads of executive departments and agencies shall, to the extent permitted by law, provide the Advisory Council with such information as it may require for purposes of carrying out its functions.
+Sec. 3. <i>Administration</i>. (a) The heads of executive departments and agencies shall, to the extent permittedby law, provide the Advisory Council with such information as it may require for purposes of carrying out its functions.
 
 (b) Any members of the Advisory Council that receive compensation shall be compensated in accordance with Federal law. Committee members may be allowed travel expenses, including per diem in lieu of subsistence, to the extent permitted by law for persons serving intermittently in the Government service (5 U.S.C. section 5701–5707).
 
@@ -142,9 +148,11 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of Presidential Advisory Council on HIV/AIDS
 
-Term of Presidential Advisory Council on HIV/AIDS extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Presidential Advisory Council on HIV/AIDS extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
-Previous extension of term of Presidential Advisory Council on HIV/AIDS was contained in the following prior Executive Order:
+Previous extensions of term of Presidential Advisory Council on HIV/AIDS were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743 extended term until Sept. 30, 2021.
 
 Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, extended term until Sept. 30, 2019.
 
@@ -172,7 +180,7 @@ Sec. 2. <i>Establishment of the HIV Care Continuum Initiative</i>. There is esta
 
 Sec. 3. <i>Establishment of the HIV Care Continuum Working Group</i>. There is established the HIV Care Continuum Working Group (Working Group) to support the Initiative. The Working Group shall coordinate Federal efforts to improve outcomes nationally across the HIV care continuum.
 
-(a) <i>Membership</i>. The Working Group shall be co-chaired by the Director of the Office of National AIDS Policy and the Secretary of Health and Human Servicesor designee (Co-Chairs). In addition to the Co-Chairs, the Working Group shall consist of representatives from:
+(a) <i>Membership</i>. The Working Group shall be co-chaired by the Director of the Office of National AIDS Policy and the Secretary of Health and Human Services or designee (Co-Chairs). In addition to the Co-Chairs, the Working Group shall consist of representatives from:
 
 (i) the Department of Justice;
 
@@ -310,7 +318,7 @@ Sec. 6. <i>National HIV/AIDS Strategy Federal Interagency Working Group</i>. The
 
 (vii) integrate the Working Group on the Intersection of HIV/AIDS, Violence Against Women and Girls, and Gender-related Health Disparities into the implementation of the Updated Strategy.
 
-(e) <i>Reporting</i>.
+(e) <i>Reporting.</i>
 
 (i) Within 100 days of the date of this order, the Federal Interagency Working Group shall provide recommendations to the President on actions that agencies should take to implement the Updated Strategy through 2020.
 
@@ -334,7 +342,7 @@ Memorandum of President of the United States, July 13, 2010, 75 F.R. 41687, prov
 
 Memorandum for the Heads of Executive Departments and Agencies
 
-As we approach 30 years from the onset of the HIV/AIDS epidemic in the United States, new actions are needed to prevent HIV infection and better serve peopleliving with HIV. The actions we take now will build upon a legacy of global leadership, national commitment, and sustained efforts on the part of Americans from all parts of the country and all walks of life to end the HIV epidemic in the United States and around the world. I am committed to renewing national leadership to fight HIV/AIDS here at home, as we continue our efforts to fight HIV/AIDS around the world. My Administration has engaged in an extensive process to engage Americans and listen to their ideas for improving our national response to HIV/AIDS.
+As we approach 30 years from the onset of the HIV/AIDS epidemic in the United States, new actions are needed to prevent HIV infection and better serve people living with HIV. The actions we take now will build upon a legacy of global leadership, national commitment, and sustained efforts on the part of Americansfrom all parts of the country and all walks of life to end the HIV epidemic in the United States and around the world. I am committed to renewing national leadership to fight HIV/AIDS here at home, as we continue our efforts to fight HIV/AIDS around the world. My Administration has engaged in an extensive process to engage Americans and listen to their ideas for improving our national response to HIV/AIDS.
 
 Today I am releasing a National HIV/AIDS Strategy for the United States (Strategy) and a National HIV/AIDS Strategy Federal Implementation Plan (Federal Implementation Plan), which identifies specific actions to be taken by Federal agencies to implement the Strategy's goals. While agencies already undertake many actions to address HIV/AIDS, successful implementation of the Strategy will require new levels of coordination, collaboration, and accountability. This will require the Federal Government to work in new ways across agency lines, as well as in enhanced and innovative partnerships with State, tribal, and local governments. Government cooperation at all levels, moreover, is not enough. Success will require the commitment of all parts of society, including businesses, faith communities, philanthropic organizations, scientific and medical communities, educational institutions, people living with HIV, and others. It is also necessary to sustain public commitment to ending the epidemic, and this calls for regular communications between governments at all levels to identify the challenges we face and report the progress we are making. To these ends, I hereby direct the following:
 

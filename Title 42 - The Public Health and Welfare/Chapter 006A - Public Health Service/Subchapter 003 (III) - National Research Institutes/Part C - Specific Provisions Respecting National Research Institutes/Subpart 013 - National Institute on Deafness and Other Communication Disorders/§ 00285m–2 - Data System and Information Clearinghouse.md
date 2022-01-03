@@ -1,10 +1,12 @@
 ### §285m–2. Data System and Information Clearinghouse
 
-(a) The Director of the Institute shall establish a National Deafness and Other Communication Disorders Data System for the collection, storage, analysis, retrieval, and dissemination of data derived from patient populations withdisorders of hearing or other communication processes, including where possible, data involving general populations for the purpose of identifying individuals at risk of developing such disorders.
+(a) The Director of the Institute shall establish a National Deafness and Other Communication Disorders Data System for the collection, storage, analysis, retrieval, and dissemination of data derived from patient populations with disorders of hearing or other communication processes, including where possible, data involving general populations for the purpose of identifying individuals at risk of developing such disorders.
 
 (b) The Director of the Institute shall establish a National Deafness and Other Communication Disorders Information Clearinghouse to facilitate and enhance, through the effective dissemination of information, knowledge and understanding of disorders of hearing and other communication processes by health professionals, patients, industry, and the public.
 
 (July 1, 1944, ch. 373, title IV, §464B, as added Pub. L. 100–553, §2(4), Oct. 28, 1988, 102 Stat. 2770, and Pub. L. 100–607, title I, §101(4), Nov. 4, 1988, 102 Stat. 3050; amended Pub. L. 100–690, title II, §2613(b)(2), Nov. 18, 1988, 102 Stat. 4238.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -13,6 +15,8 @@ Pub. L. 100–553 and Pub. L. 100–607 contained identical provisions enacting 
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–690 amended this section to read as if the amendments made by Pub. L. 100–607, which enacted this section, had not been enacted. See Codification note above.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

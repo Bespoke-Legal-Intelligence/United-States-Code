@@ -29,13 +29,15 @@
 | [876a.](%C2%A7%2000876a%20-%20Art.%2076a.%20Leave%20required%20to%20be%20taken%20pending%20review%20of%20certain%20court-martial%20convictions.md) | 76a. | Leave required to be taken pending review of certain court-martial convictions. |
 | [876b.](%C2%A7%2000876b%20-%20Art.%2076b.%20Lack%20of%20mental%20capacity%20or%20mental%20responsibility%20commitment%20of%20accused%20for%20examination%20and%20treatment.md) | 76b. | Lack of mental capacity or mental responsibility: commitment of accused for examination and treatment. |
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, made technical amendment to Pub. L. 114–328, §5541(6)(A) to (C). See 2016 Amendment notes below.
 
 <b>2016</b>—Pub. L. 114–328, div. E, title LXIII, §5541(6)(D), Dec. 23, 2016, 130 Stat. 2967, struck out item 871 "Art. 71. Execution of sentence; suspension of sentence".
 
-Pub. L. 114–328, div. E, title LXIII, §5541(6)(B), (C), Dec. 23, 2016, 130 Stat. 2967, as amended by Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, substituted "Judge advocate review of finding of guilty in summary court-martial" for "Review by a judge advocate" in item 864, "Transmittal and review of records" for "Disposition of records" in item 865, "Courts of Criminal Appeals" for "Review by Court of Criminal Appeals" in item 866, and "Review byJudge Advocate General" for "Review in the office of the Judge Advocate General" in item 869.
+Pub. L. 114–328, div. E, title LXIII, §5541(6)(B), (C), Dec. 23, 2016, 130 Stat. 2967, as amended by Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, substituted "Judge advocate review of finding of guilty in summary court-martial" for "Review by a judge advocate" in item 864, "Transmittal and review of records" for "Disposition of records" in item 865, "Courts of Criminal Appeals" for "Review by Court of Criminal Appeals" in item 866, and "Review by Judge Advocate General" for "Review in the office of the Judge Advocate General" in item 869.
 
 Pub. L. 114–328, div. E, title LXIII, §5541(6)(A), Dec. 23, 2016, 130 Stat. 2966, as amended by Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, added items 860a to 860c and substituted "Post-trial processing in general and special courts-martial" for "Action by the convening authority" in item 860.
 

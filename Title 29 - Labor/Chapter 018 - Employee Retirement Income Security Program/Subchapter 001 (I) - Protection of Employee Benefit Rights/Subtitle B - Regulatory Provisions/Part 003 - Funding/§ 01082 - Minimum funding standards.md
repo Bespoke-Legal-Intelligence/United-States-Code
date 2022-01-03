@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) in the case of a money purchase plan which is a single-employer plan, the employer makes contributions to or under the plan for the plan year which are required under the terms of the plan,
 
-&emsp;&emsp;(C) in the case of a multiemployer plan, the employers make contributions to or under the plan for any plan year which, in the aggregate, are sufficient to ensure that the plan does not have an accumulated funding deficiency under section 1084 of this title as of the end of the plan year, and
+&emsp;&emsp;(C) in the case of a multiemployer plan, the employers make contributions to or under the plan for any plan year which, inthe aggregate, are sufficient to ensure that the plan does not have an accumulated funding deficiency under section 1084 of this title as of the end of the plan year, and
 
 &emsp;&emsp;(D) in the case of a CSEC plan, the employers make contributions to or under the plan for any plan year which, in the aggregate, are sufficient to ensure that the plan does not have an accumulated funding deficiency under section 1085a of this title as of the end of the plan year.
 
@@ -50,7 +50,7 @@
 
 &emsp;&emsp;If a waiver is granted under subparagraph (A) for any plan year—
 
-&emsp;&emsp;&emsp;(i) in the case of a single-employer plan (other than a CSEC plan), the minimumrequired contribution under section 1083 of this title for the plan year shall be reduced by the amount of the waived funding deficiency and such amount shall be amortized as required under section 1083(e) of this title,
+&emsp;&emsp;&emsp;(i) in the case of a single-employer plan (other than a CSEC plan), the minimum required contribution under section 1083 of this title for the plan year shall be reduced by the amount of the waived funding deficiency and such amount shall be amortized as required under section 1083(e) of this title,
 
 &emsp;&emsp;&emsp;(ii) in the case of a multiemployer plan, the funding standard account shall be credited under section 1084(b)(3)(C) of this title with the amount of the waived funding deficiency and such amount shall be amortized as required under section 1084(b)(2)(C) of this title, and
 
@@ -86,7 +86,7 @@
 
 #### (ii) Special rules
 
-&emsp;&emsp;&emsp;Any security provided under clause (i) may be perfected and enforced only by the Pension Benefit Guaranty Corporation, or at the direction of the Corporation, by a contributing sponsor (within the meaning of section 1301(a)(13) of this title), or a member of such sponsor's controlled group (within the meaning of section 1301(a)(14) of this title).
+&emsp;&emsp;&emsp;Any security provided under clause (i) may be perfected and enforced only by thePension Benefit Guaranty Corporation, or at the direction of the Corporation, by a contributing sponsor (within the meaning of section 1301(a)(13) of this title), or a member of such sponsor's controlled group (within the meaning of section 1301(a)(14) of this title).
 
 #### (B) Consultation with the Pension Benefit Guaranty Corporation
 
@@ -156,7 +156,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary of the Treasury shall, before granting a waiver under this subsection, require each applicant to provide evidence satisfactory to such Secretary that the applicant has provided notice of the filing of the application for such waiver to each affected party (as defined in section 1301(a)(21) of this title). Such notice shall include a description of the extent to which the plan is funded for benefits which are guaranteed under subchapter III and for benefit liabilities.
+&emsp;&emsp;The Secretary of the Treasury shall, before granting a waiver under this subsection, require each applicant to provide evidence satisfactory to such Secretary that the applicant has provided notice of the filing of the application for such waiver to each affected party (as defined in section 1301(a)(21) of this title). Such notice shall include a description of the extent to which the plan is funded for benefits which are guaranteedunder subchapter III and for benefit liabilities.
 
 #### (B) Consideration of relevant information
 

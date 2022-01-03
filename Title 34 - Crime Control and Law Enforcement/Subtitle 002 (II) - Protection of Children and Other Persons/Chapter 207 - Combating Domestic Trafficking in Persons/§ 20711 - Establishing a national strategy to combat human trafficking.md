@@ -10,7 +10,7 @@ The National Strategy shall include the following:
 
 &emsp;(1) Integrated Federal, State, local, and tribal efforts to investigate and prosecute human trafficking cases, including—
 
-&emsp;&emsp;(A) the development by each United States attorney, in consultation with State, local, and tribal government agencies, of a district-specific strategic plan to coordinate the identification of victims and the investigation and prosecution of human trafficking crimes;
+&emsp;&emsp;(A) the development by each United States attorney, in consultation with State, local, and tribal government agencies, of a district-specific strategic plan to coordinatethe identification of victims and the investigation and prosecution of human trafficking crimes;
 
 &emsp;&emsp;(B) the participation in any Federal, State, local, or tribal human trafficking task force operating in the district of the United States attorney; and
 

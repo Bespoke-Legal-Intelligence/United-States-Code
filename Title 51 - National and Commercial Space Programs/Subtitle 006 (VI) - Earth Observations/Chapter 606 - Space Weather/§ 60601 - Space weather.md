@@ -88,7 +88,7 @@ In general.—
 
 &emsp;&emsp;(A)
 
-Establishment.—Not later than 180 days after the date of the enactment of the PROSWIFT Act, the Administrator of the National Oceanic and Atmospheric Administration, in consultation with other relevant Federal agencies, shall establish a space weather advisory group (in this chapter referred to as the "advisory group") for the purposes of receiving advice from the academic community, the commercial space weather sector, and space weather end users that informs the interests and work of the interagency working group.
+Establishment.—Not later than 180 days after the date of the enactment of the PROSWIFT Act, the Administrator of the National Oceanic and Atmospheric Administration, in consultation with other relevantFederal agencies, shall establish a space weather advisory group (in this chapter referred to as the "advisory group") for the purposes of receiving advice from the academic community, the commercial space weather sector, and space weather end users that informs the interests and work of the interagency working group.
 
 &emsp;&emsp;(B)
 
@@ -184,13 +184,13 @@ Federal advisory committee act.—Section 14 of the Federal Advisory Committee A
 
 The date of enactment of the PROSWIFT Act, referred to in subsecs. (c) and (d)(1)(A), is the date of enactment of Pub. L. 116–181, which was approved Oct. 21, 2020.
 
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (d)(4), is section 14 of Pub. L.92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 14 of the Federal Advisory Committee Act, referred to in subsec. (d)(4), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Space Weather Policy
 
-Pub. L. 116–181, §2(a), Oct. 21, 2020, 134 Stat. 882, provided that: "It shall be the policy of the United States to prepare and protect against the social and economic impacts of space weather phenomena by supporting actions to improve space weather forecasts and predictions including: sustaining and enhancing critical observations, identifying research needs and promoting opportunities for research-to-operations and operations-to-research collaborations both within and outside of the Federal Government, advancing space weather models, engaging with all sectors of the space weather community, including academia, the commercial sector, and international partners, and understanding the needs of space weather end users."
+Pub. L. 116–181, §2(a), Oct. 21, 2020, 134 Stat. 882, provided that: "It shall be the policy of the United States to prepare and protect against the social and economic impacts of space weather phenomena by supporting actions to improve space weather forecasts and predictions including: sustaining and enhancing criticalobservations, identifying research needs and promoting opportunities for research-to-operations and operations-to-research collaborations both within and outside of the Federal Government, advancing space weather models, engaging with all sectors of the space weather community, including academia, the commercial sector, and international partners, and understanding the needs of space weather end users."
 
 #### <b>Executive Documents</b>
 

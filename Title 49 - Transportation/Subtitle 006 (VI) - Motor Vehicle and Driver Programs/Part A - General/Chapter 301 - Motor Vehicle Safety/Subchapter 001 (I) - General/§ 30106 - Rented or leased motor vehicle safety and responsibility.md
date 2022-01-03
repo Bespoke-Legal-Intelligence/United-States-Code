@@ -44,6 +44,8 @@ Person.—The term "person" means any individual, corporation, company, limited 
 
 (Added Pub. L. 109–59, title X, §10208(a), Aug. 10, 2005, 119 Stat. 1935.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this section, referred to in subsec. (c), is the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005.

@@ -26,7 +26,7 @@ Market disruption.—The introduction or continued offering of the product will 
 
 &emsp;(3)
 
-Correct categorization.—The Postal Service identifies the product, for the purpose of a test under this section, as either market-dominant or competitive, consistent with the criteria under section 3642(b)(1). Costs and revenues attributable to a product identified as competitive shall be included in any determination under section 3633(3) <sup>1</sup> (relating to provisions applicable to competitive products collectively). Any test that solely affects products currently classified as competitive, or which provides services ancillary to only competitive products, shall be presumed to be in the competitive product category without regard to whether a similar ancillary product exists for market-dominant products.
+Correct categorization.—The Postal Service identifies the product, for the purpose of a test under this section, as either market-dominant or competitive, consistent with the criteria under section 3642(b)(1). Costs and revenues attributable to a product identified as competitive shall be included in any determination under section 3633(3) <sup>1</sup> (relating toprovisions applicable to competitive products collectively). Any test that solely affects products currently classified as competitive, or which provides services ancillary to only competitive products, shall be presumed to be in the competitive product category without regard to whether a similar ancillary product exists for market-dominant products.
 
 (c)
 
@@ -122,7 +122,7 @@ Section effective Jan. 20, 1971, pursuant to Resolution No. 71–10 of the Board
 
 #### Rate Change Request Made on September 18, 1975, or Under Docket Number R76–1
 
-Pub. L. 94–421, §6(b)(1), Sept. 24, 1976, 90 Stat. 1307, provided that: "The amendment made by subsection (a)of this section \[amending this section\] shall not apply to any action or proceeding with respect to the recommended decision of the Postal Rate Commission \[now Postal Regulatory Commission\] relating to proposed changes in rates of postage and in fees for postal services requested on September 18, 1975, by the United States Postal Service in a request which bears, or which at any time has been included under, Postal Rate Commission Docket Number R76–1."
+Pub. L. 94–421, §6(b)(1), Sept. 24, 1976, 90 Stat. 1307, provided that: "The amendment made by subsection (a) of this section \[amending this section\] shall not apply to any action or proceeding with respect to the recommended decision of the Postal Rate Commission \[now Postal Regulatory Commission\] relating to proposed changes in rates of postage and in fees for postal services requested on September 18, 1975, by the United States Postal Service in a request which bears, or which at any time has been included under, Postal Rate Commission Docket Number R76–1."
 
 #### Applicability of Former Provisions of Section to Rate Change Request Made on September 18, 1975, Under Docket Number R76–1
 

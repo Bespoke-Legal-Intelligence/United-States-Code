@@ -36,7 +36,7 @@
 
 &emsp;(7) in each of such small business cases—
 
-&emsp;&emsp;(A) conduct an initial debtor interview as soon as practicable after the date of the order for relief but before the first meeting scheduled under section 341(a) of title 11, at which time the United States trustee shall—
+&emsp;&emsp;(A) conduct an initial debtor interview as soon as practicable after the date of the order for relief but before the first meetingscheduled under section 341(a) of title 11, at which time the United States trustee shall—
 
 &emsp;&emsp;&emsp;(i) begin to investigate the debtor's viability;
 
@@ -54,7 +54,7 @@
 
 &emsp;(8) in any case in which the United States trustee finds material grounds for any relief under section 1112 of title 11, apply promptly after making that finding to the court for relief.
 
-(b) If the number of cases under subchapter V of chapter 11 or chapter 12 or 13 of title 11 commenced in a particular region so warrants, the United States trustee for such region may, subject to the approval of the Attorney General, appoint one or more individuals to serve as standing trustee, or designate one or more assistantUnited States trustees to serve in cases under such chapter. The United States trustee for such region shall supervise any such individual appointed as standing trustee in the performance of the duties of standing trustee.
+(b) If the number of cases under subchapter V of chapter 11 or chapter 12 or 13 of title 11 commenced in a particular region so warrants, the United States trustee for such region may, subject to the approval of the Attorney General, appoint one or more individuals to serve as standing trustee, or designate one or more assistant United States trustees to serve in cases under such chapter. The United States trustee for such region shall supervise any such individual appointed as standing trustee in the performance of the duties of standing trustee.
 
 (c) Each United States trustee shall be under the general supervision of the Attorney General, who shall provide general coordination and assistance to the United States trustees.
 
@@ -90,7 +90,7 @@
 
 &emsp;&emsp;(i) such individual's actual compensation for such cases, as adjusted under subparagraph (A) of paragraph (1); plus
 
-&emsp;&emsp;(ii) the actual, necessary expenses incurred by such individual as standing trustee in such cases. Subject to the approval of the Attorney General, any or all of the interest earned from the deposit of payments under plans by such individual may be utilized to pay actual, necessary expenses without regard to the percentage limitation contained in subparagraph (d)(1)(B) of this section.
+&emsp;&emsp;(ii) the actual, necessary expenses incurred by such individual as standing trustee in such cases. Subject to the approval of theAttorney General, any or all of the interest earned from the deposit of payments under plans by such individual may be utilized to pay actual, necessary expenses without regard to the percentage limitation contained in subparagraph (d)(1)(B) of this section.
 
 (3) After first exhausting all available administrative remedies, an individual appointed under subsection (b) may obtain judicial review of final agency action to deny a claim of actual, necessary expenses under this subsection by commencing an action in the district court of the United States for the district where the individual resides. The decision of the agency shall be affirmed by the district court unless it is unreasonable and without cause based upon the administrative record before the agency.
 
@@ -162,7 +162,7 @@ Subsec. (f). Pub. L. 109–8, §603(b)(2), added subsec. (f).
 
 Subsec. (a)(3). Pub. L. 99–554, §113(a)(2), substituted "title 11 by, whenever the United States trustee considers it to be appropriate—" for "title 11;" and added subpars. (A) to (H).
 
-Subsec. (a)(5). Pub. L. 99–554, §113(a)(3), inserted "and this title, and such duties consistent with title 11 and this title as the Attorney General may prescribe" after "title 11".
+Subsec. (a)(5). Pub. L. 99–554, §113(a)(3), inserted "and this title, and such duties consistent with title 11 andthis title as the Attorney General may prescribe" after "title 11".
 
 Subsec. (b). Pub. L. 99–554, §113(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "If the number of cases under chapter 13 of title 11 commenced in a particular judicial district so warrant, the United States trustee for such district may, subject to the approval of the Attorney General, appoint one or more individuals to serve as standing trustee, or designate one or more assistant United States trustee, in cases under such chapter. The United States trustee for such district shall supervise any such individual appointed as standing trustee in the performance of the duties of standing trustee."
 

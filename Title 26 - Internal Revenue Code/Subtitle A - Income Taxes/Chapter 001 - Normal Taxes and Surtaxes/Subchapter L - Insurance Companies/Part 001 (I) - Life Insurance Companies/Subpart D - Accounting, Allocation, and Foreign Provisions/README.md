@@ -15,6 +15,8 @@ Subpart D—Accounting, Allocation, and Foreign Provisions
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Pub. L. 115–97, title I, §13514(a), Dec. 22, 2017, 131 Stat. 2143, struck out item 815 "Distributions to shareholders from pre-1984 policyholders surplus account".

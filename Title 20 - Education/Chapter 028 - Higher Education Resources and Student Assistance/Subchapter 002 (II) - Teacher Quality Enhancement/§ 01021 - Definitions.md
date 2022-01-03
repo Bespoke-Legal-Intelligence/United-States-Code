@@ -106,7 +106,7 @@ In this subchapter:
 
 &emsp;&emsp;The term "high-need school" means a school that, based on the most recent data available, meets one or both of the following:
 
-&emsp;&emsp;&emsp;(i) The school is in the highest quartile of schools in a ranking of all schools served by a local educational agency, ranked in descending order by percentage of students from low-income families enrolled in such schools, as determined by the local educational agency based on one of the following measures of poverty:
+&emsp;&emsp;&emsp;(i) The school is in the highest quartile of schools in a ranking of all schoolsserved by a local educational agency, ranked in descending order by percentage of students from low-income families enrolled in such schools, as determined by the local educational agency based on one of the following measures of poverty:
 
 &emsp;&emsp;&emsp;&emsp;(I) The percentage of students aged 5 through 17 in poverty counted in the most recent census data approved by the Secretary.
 
@@ -326,6 +326,8 @@ In this subchapter:
 
 (Pub. L. 89–329, title II, §200 as added Pub. L. 110–315, title II, §201(1), Aug. 14, 2008, 122 Stat. 3126; amended Pub. L. 111–39, title II, §201(1), July 1, 2009, 123 Stat. 1936; Pub. L. 114–95, title IX, §§9214(c)(1), 9215(oo)(2), Dec. 10, 2015, 129 Stat. 2161, 2178.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 6368 of this title as such section was in effect on the day before December 10, 2015, referred to in par. (7), means section 6368 of this title prior to being omitted in the general amendment of part B of subchapter I of chapter 70 of this title by Pub. L. 114–95, title I, §1201, Dec. 10, 2015, 129 Stat. 1879.
@@ -342,7 +344,7 @@ A prior section 1021, Pub. L. 89–329, title II, §201, as added Pub. L. 105–
 
 Another prior section 1021, Pub. L. 89–329, title II, §201, as added Pub. L. 96–374, title II, §201, Oct. 3, 1980, 94 Stat. 1383; amended Pub. L. 99–498, title II, §201(b), (c), Oct. 17, 1986, 100 Stat. 1287; Pub. L. 100–418, title VI, §6241, Aug. 23, 1988, 102 Stat. 1520; Pub. L. 102–325, title II, §201, July 23, 1992, 106 Stat. 467, related to congressional statement of purpose and authorization of appropriations, prior to repeal by Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §708(b)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312.
 
-Another prior section 1021, Pub. L. 89–329, title II, §201, as added Pub. L. 92–318, title I, §111(b)(1), June 23, 1972, 86 Stat. 238; amended Pub. L. 94–482, title I, §106, Oct. 12, 1976, 90 Stat. 2089; Pub. L. 96–49, §3(a), Aug. 13, 1979, 93 Stat. 351, provided for college library programs, prior to the general amendment of this subchapter by Pub. L. 96–374.
+Another prior section 1021, Pub. L. 89–329, title II, §201, as added Pub. L. 92–318, title I, §111(b)(1), June 23, 1972, 86 Stat. 238; amended Pub. L. 94–482, title I, §106,Oct. 12, 1976, 90 Stat. 2089; Pub. L. 96–49, §3(a), Aug. 13, 1979, 93 Stat. 351, provided for college library programs, prior to the general amendment of this subchapter by Pub. L. 96–374.
 
 Another prior section 1021, Pub. L. 89–329, title II, §201, Nov. 8, 1965, 79 Stat. 1224; Pub. L. 90–575, title II, §211, Oct. 16, 1968, 82 Stat. 1036; Pub. L. 92–318, title I, §111(a)(1), June 23, 1972, 86 Stat. 238, authorized appropriations of $50,000,000 for each fiscal year ending June 30, 1966, 1967, and 1968, and $25,000,000; $75,000,000; $90,000,000; and $18,000,000 for fiscal years ending June 30, 1969, 1970, 1971, and 1972, for library resources grants, prior to repeal by Pub. L. 92–318, title I, §111(b)(1), June 23, 1972, 86 Stat. 238.
 
@@ -375,6 +377,8 @@ Par. (19). Pub. L. 114–95, §9215(oo)(2)(I), made technical amendment to refer
 Par. (22)(D)(i). Pub. L. 114–95, §9214(c)(1)(C), substituted ", with respect to special education teachers, meets the qualifications described in section 1412(a)(14)(C) of this title" for "becomes highly qualified".
 
 <b>2009</b>—Par. (22)(D). Pub. L. 111–39 added subpar. (D) and struck out former subpar (D) which read as follows: "prior to completion of the program, earns a master's degree, attains full State teacher certification or licensure, and becomes highly qualified."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

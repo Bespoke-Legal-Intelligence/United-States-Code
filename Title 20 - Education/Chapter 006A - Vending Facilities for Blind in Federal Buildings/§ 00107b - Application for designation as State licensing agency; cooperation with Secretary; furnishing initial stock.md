@@ -12,15 +12,17 @@ A State agency for the blind or other State agency desiring to be designated as 
 
 &emsp;(5) to issue such regulations, consistent with the provisions of this chapter, as may be necessary for the operation of this program;
 
-&emsp;(6) to provide to any blind licensee dissatisfied with any action arising from the operation or administration of the vending facility program an opportunity for a fair hearing, and to agree to submit the grievances of any blind licensee not otherwise resolved by such hearing to arbitration as provided in section 107d–1 of this title.
+&emsp;(6) to provide to any blind licensee dissatisfied with any action arising from the operation or administration of the vending facility program an opportunity for a fair hearing, and to agree to submit the grievances of any blindlicensee not otherwise resolved by such hearing to arbitration as provided in section 107d–1 of this title.
 
 (June 20, 1936, ch. 638, §3, 49 Stat. 1560; 1946 Reorg. Plan No. 2, §6, eff. July 16, 1946, 11 F.R 7873, 60 Stat. 1095; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Aug. 3, 1954, ch. 655, §4(e), 68 Stat. 664; Pub. L. 93–516, title II, §204, Dec. 7, 1974, 88 Stat. 1625; Pub. L. 93–651, title II, §204, Nov. 21, 1974, 89 Stat. 2–10.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
 The content of Pub. L. 93–516, including provisions of section 204 thereof which amended this section, were originally contained in H.R. 14225, 93rd Congress, Second Session, which was pocket-vetoed during the 31-day intrasession adjournment of the 93rd Congress for the Congressional elections in November, 1974. See 1974 Amendment note below.
 
-Pursuant to an order of the United States District Court for the District of Columbia (<i>Kennedy v. Jones</i>,D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this section should be deemed to have been amended by Pub. L. 93–651, title II, §204, Nov. 21, 1974, 89 Stat. 2–10, in exactly the same manner as it was amended by Pub. L. 93–516.
+Pursuant to an order of the United States District Court for the District of Columbia (<i>Kennedy v. Jones</i>, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 14225 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this section should be deemed to have been amended by Pub. L. 93–651, title II, §204, Nov. 21, 1974, 89 Stat. 2–10, in exactly the same manner as it was amended by Pub. L. 93–516.
 
 #### Amendments
 
@@ -33,6 +35,8 @@ Par. (3). Pub. L. 93–516, §204(a)(2), (b), (c), in provisions preceding subpa
 Par. (6). Pub. L. 93–516, §204(a)(3), substituted "vending facility program an opportunity for a fair hearing, and to agree to submit the grievances of any blind licensee not otherwise resolved by such hearing to arbitration as provided in section 107d–1 of this title" for "vending stand program an opportunity for a fair hearing". An identical amendment was made by Pub. L. 93–651. See Codification note above.
 
 <b>1954</b>—Act Aug. 3, 1954, amended section generally and, among other changes, added pars. (3) to (6).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1954 Amendment
 

@@ -26,6 +26,8 @@ July 31, 1935, ch. 422, §5 (1st 101 words); restated June 13, 1940, ch. 344, §
 
 The words "a regular or reserve commissioned officer of the Air Force" are substituted for the words "any officer on the active list of the \* \* \* Regular Air Force \* \* \* or any officer of the reserve components of the \* \* \* Air Force of the United States". The words "Philippine Scouts" are omitted as obsolete. The words "has at least 20" are substituted for the words "shall have completed not less than twenty". The words "upon his request" are substituted for the words "upon his own application". The words "service computed under section 8926 of this title" are substituted for the words "active Federal service in the armed forces of the United States", since that revised section makes explicit the service covered.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Subsec. (a). Pub. L. 116–283 inserted "or the Space Force" after "officer of the Air Force".
@@ -51,6 +53,8 @@ Pub. L. 109–163 designated existing provisions as par. (1), substituted "durin
 <b>1993</b>—Subsec. (b). Pub. L. 103–160 substituted "nine-year period" for "five-year period".
 
 <b>1990</b>—Pub. L. 101–510 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

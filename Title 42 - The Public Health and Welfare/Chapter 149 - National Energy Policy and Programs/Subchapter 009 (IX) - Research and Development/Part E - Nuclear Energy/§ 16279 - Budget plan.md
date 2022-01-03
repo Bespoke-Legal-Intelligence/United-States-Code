@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than 1 year after September 28, 2018, the Secretary shall submit to the Committee onEnergy and Natural Resources of the Senate and the Committee on Science, Space, and Technology of the House of Representatives 2 alternative 10-year budget plans for civilian nuclear energy research and development by the Secretary, as described in subsections (b) through (d).
+Not later than 1 year after September 28, 2018, the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Science, Space, and Technology of the House of Representatives 2 alternative 10-year budget plans for civilian nuclear energy research and development by the Secretary, as described in subsections (b) through (d).
 
 #### (b) Budget plan alternative 1
 
@@ -29,6 +29,8 @@ Each alternative budget plan submitted under subsection (a) shall include—
 Not less frequently than once every 2 years, the Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate updated 10-year budget plans which shall identify, and provide a justification for, any major deviation from a previous budget plan submitted under this section.
 
 (Pub. L. 109–58, title IX, §959, as added Pub. L. 115–248, §2(i), Sept. 28, 2018, 132 Stat. 3160; amended Pub. L. 116–260, div. Z, title II, §2005, 134 Stat. 2470.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

@@ -50,3 +50,4 @@
 - [&sect; 00146 - Report of Indians present and receiving food](%C2%A7%2000146%20-%20Report%20of%20Indians%20present%20and%20receiving%20food.md)
 - [&sect; 00147 - Appropriations for specified buildings; use for transportation of materials](%C2%A7%2000147%20-%20Appropriations%20for%20specified%20buildings%3B%20use%20for%20transportation%20of%20materials.md)
 - [&sect; 00148 - Appropriations for supplies; transfer to Indian Service supply fund; expenditure](%C2%A7%2000148%20-%20Appropriations%20for%20supplies%3B%20transfer%20to%20Indian%20Service%20supply%20fund%3B%20expenditure.md)
+- [&sect; 00149 - Indian Water Rights Settlement Completion Fund](%C2%A7%2000149%20-%20Indian%20Water%20Rights%20Settlement%20Completion%20Fund.md)

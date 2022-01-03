@@ -66,7 +66,7 @@ For purposes of this section—
 
 #### (2) Mining
 
-&emsp;The term "mining" includes not merely the extraction of the ores or minerals from the ground but also the treatment processes considered as mining described in paragraph (4) (and the treatment processes necessary or incidental thereto), and so much of the transportation of ores or minerals (whether or not by common carrier) from the point of extraction from the ground to the plants or mills in which such treatment processes are applied thereto as is not in excess of 50 miles unless the Secretary finds that the physical and other requirements are such that the ore or mineral must be transported a greater distance to such plants or mills.
+&emsp;The term "mining" includes not merely the extraction of the ores or minerals from the ground but also the treatment processes considered as mining described in paragraph (4) (and the treatment processes necessary or incidental thereto), and so much of the transportation of ores or minerals (whether or not by common carrier) from the point of extraction from the ground to the plants or mills in which such treatment processes are appliedthereto as is not in excess of 50 miles unless the Secretary finds that the physical and other requirements are such that the ore or mineral must be transported a greater distance to such plants or mills.
 
 #### (3) Extraction of the ores or minerals from the ground
 
@@ -114,13 +114,15 @@ Except as provided in section 613A, in the case of any oil or gas well, the allo
 
 #### (2) Geothermal deposit defined
 
-&emsp;For purposes of paragraph (1), the term "geothermal deposit" means a geothermal reservoir consisting of natural heat which is stored in rocks or in an aqueous liquid or vapor (whether or not under pressure). Such adeposit shall in no case be treated as a gas well for purposes of this section or section 613A, and this section shall not apply to a geothermal deposit which is located outside the United States or its possessions.
+&emsp;For purposes of paragraph (1), the term "geothermal deposit" means a geothermal reservoir consisting of natural heat which is stored in rocks or in an aqueous liquid or vapor (whether or not under pressure). Such a deposit shall in no case be treated as a gas well for purposes of this section or section 613A, and this section shall not apply to a geothermal deposit which is located outside the United States or its possessions.
 
 #### (3) Percentage depletion not to include lease bonuses, etc.
 
 &emsp;In the case of any geothermal deposit, the term "gross income from the property" shall, for purposes of this section, not include any amount described in section 613A(d)(5).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 208; Pub. L. 85–866, title I, §36(a), Sept. 2, 1958, 72 Stat. 1633; Pub. L. 86–564, title III, §302(a), (b), June 30, 1960, 74 Stat. 291, 292; Pub. L. 87–834, §13(e), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 88–571, §6(a), Sept. 2, 1964, 78 Stat. 860; Pub. L. 89–809, title II, §§207(a), 208(a), 209(a), (b), Nov. 13, 1966, 80 Stat. 1579, 1580; Pub. L. 91–172, title V, §§501(a), 502(a), Dec. 30, 1969, 83 Stat. 629, 630; Pub. L. 93–499, §2(a), Oct. 29, 1974, 88 Stat. 1550; Pub. L. 94–12, title V, §501(b)(1), (2), Mar. 29, 1975, 89 Stat. 53; Pub. L. 94–455, title XIX, §§1901(b)(3)(K), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1793, 1834; Pub. L. 95–618, title IV, §403(a)(1), (2)(A), Nov. 9, 1978, 92 Stat. 3203; Pub. L. 99–514, title IV, §412(a)(2), Oct. 22, 1986, 100 Stat. 2227; Pub. L. 101–508, title XI, §§11522(a), 11815(b)(1), (2), Nov. 5, 1990, 104 Stat. 1388–486, 1388–557, 1388–558; Pub. L. 104–188, title I, §1704(t)(34), Aug. 20, 1996, 110 Stat. 1889; Pub. L. 108–357, title I, §102(d)(6), Oct. 22, 2004, 118 Stat. 1429; Pub. L. 109–135, title IV, §412(gg), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 115–97, title I, §§11011(d)(3), 13305(b)(4), Dec. 22, 2017, 131 Stat. 2071, 2126; Pub. L. 115–141, div. T, §101(a)(2)(D), Mar. 23, 2018, 132 Stat. 1155.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 208; Pub. L. 85–866, title I, §36(a), Sept. 2, 1958, 72 Stat. 1633; Pub. L. 86–564, title III, §302(a), (b), June 30, 1960, 74 Stat. 291, 292; Pub. L. 87–834, §13(e), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 88–571, §6(a), Sept. 2, 1964, 78 Stat. 860; Pub. L. 89–809, title II, §§207(a), 208(a), 209(a), (b), Nov. 13, 1966, 80 Stat. 1579, 1580; Pub. L. 91–172, title V, §§501(a), 502(a), Dec. 30, 1969, 83 Stat. 629, 630; Pub. L. 93–499, §2(a), Oct. 29, 1974, 88 Stat. 1550; Pub. L. 94–12, title V, §501(b)(1), (2), Mar. 29, 1975, 89 Stat. 53; Pub. L. 94–455, title XIX, §§1901(b)(3)(K), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1793, 1834; Pub. L. 95–618, title IV, §403(a)(1), (2)(A), Nov. 9, 1978, 92 Stat. 3203; Pub. L. 99–514, title IV, §412(a)(2), Oct. 22,1986, 100 Stat. 2227; Pub. L. 101–508, title XI, §§11522(a), 11815(b)(1), (2), Nov. 5, 1990, 104 Stat. 1388–486, 1388–557, 1388–558; Pub. L. 104–188, title I, §1704(t)(34), Aug. 20, 1996, 110 Stat. 1889; Pub. L. 108–357, title I, §102(d)(6), Oct. 22, 2004, 118 Stat. 1429; Pub. L. 109–135, title IV, §412(gg), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 115–97, title I, §§11011(d)(3), 13305(b)(4), Dec. 22, 2017, 131 Stat. 2071, 2126; Pub. L. 115–141, div. T, §101(a)(2)(D), Mar. 23, 2018, 132 Stat. 1155.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -182,7 +184,7 @@ Subsec. (c)(4)(G). Pub. L. 89–809, §209(b), substituted "paragraph (5) or (6)
 
 <b>1962</b>—Subsec. (a). Pub. L. 87–834 inserted provisions requiring the allowable deductions taken into account with respect to expenses of mining in computing the taxable income from the property to be decreased by an amount equal to so much of any gain which is treated under section 1245 as gain from the sale or exchange of property which is neither a capital asset nor property described in section 1231, and is properly allocable to the property.
 
-<b>1960</b>—Subsec. (b)(3). Pub. L. 86–564, §302(a)(1), limited the 15 percent allowance for ball clay, bentonite, china clay, and sagger clay to cases where paragraph (5)(B) does not apply, and authorized a 15 percent allowance,if paragraph (5)(B) does not apply, for clay used or sold for use for purposes dependent on its refractory properties.
+<b>1960</b>—Subsec. (b)(3). Pub. L. 86–564, §302(a)(1), limited the 15 percent allowance for ball clay, bentonite, china clay, and sagger clay to cases where paragraph (5)(B) does not apply, and authorized a 15 percent allowance, if paragraph (5)(B) does not apply, for clay used or sold for use for purposes dependent on its refractory properties.
 
 Subsec. (b)(5). Pub. L. 86–564, §302(a)(2), substituted provisions authorizing a 5 percent allowance for clay used, or sold for use, in the manufacture of building or paving brick, drainage and roofing tile, sewer pipe, flower pots, and kindred products for provisions which authorized a 5 percent allowance for brick and tile clay.
 
@@ -190,11 +192,13 @@ Subsec. (b)(6). Pub. L. 86–564, §302(a)(3), struck out provisions which autho
 
 Subsec. (c)(2). Pub. L. 86–564, §302(b)(1), substituted "the treatment processes considered as mining described in paragraph (4) (and the treatment processes necessary or incidental thereto)" for "the ordinary treatment processes normally applied by mine owners or operators in order to obtain the commercially marketable mineral product or products", and "such treatment processes" for "the ordinary treatment processes".
 
-Subsec. (c)(4). Pub. L. 86–564, §302(b)(2), substituted "The following treatment processes where applied by the mine owner or operator shall be considered as mining to the extent they are applied to the ore or mineral in respect of which he is entitled to a deduction for depletion under section 611" for "The term 'ordinary treatment processes' includes the following" in opening provisions, included cleaning in subpar. (B), substituted "ores or minerals which" for "minerals which" and included substantially equivalent processes in subpar. (C), included uranium and minerals which are not customarily sold in the form of the crude mineral product and substituted "from the ore or the mineral or minerals from other material from the mine or other natural deposit" for "from the ore, including the furnacing of quicksilver ores" in subpar. (D), included the furnacing of quicksilver ores in subpar. (E), and added subpars. (F) to (H).
+Subsec. (c)(4). Pub. L. 86–564, §302(b)(2), substituted "The following treatment processes where applied by the mine owner or operator shall be considered as mining to the extent they are applied to the ore or mineral in respect of which he is entitled to a deduction for depletion under section 611" for "The term 'ordinarytreatment processes' includes the following" in opening provisions, included cleaning in subpar. (B), substituted "ores or minerals which" for "minerals which" and included substantially equivalent processes in subpar. (C), included uranium and minerals which are not customarily sold in the form of the crude mineral product and substituted "from the ore or the mineral or minerals from other material from the mine or other natural deposit" for "from the ore, including the furnacing of quicksilver ores" in subpar. (D), included the furnacing of quicksilver ores in subpar. (E), and added subpars. (F) to (H).
 
 Subsec. (c)(5). Pub. L. 86–564, §302(b)(2), added par. (5).
 
 <b>1958</b>—Subsec. (d). Pub. L. 85–866 added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

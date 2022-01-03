@@ -8,7 +8,7 @@ There is hereby established the Marine Mammal Commission (hereafter referred to 
 
 (1) Effective September 1, 1982, the Commission shall be composed of three members who shall be appointed by the President, by and with the advice and consent of the Senate. The President shall make his selection from a list of individuals knowledgeable in the fields of marine ecology and resource management, and who are not in a position to profit from the taking of marine mammals. Such list shall be submitted to him by the Chairman of the Council on Environmental Quality and unanimously agreed to by that Chairman, the Secretary of the Smithsonian Institution, the Director of the National Science Foundation and the Chairman of the National Academy of Sciences. No member of the Commission may, during his period of service on the Commission, hold any other position as an officer or employee of the United States except as a retired officer or retired civilian employee of the United States.
 
-(2) The term of office for each member shall be three years; except that of the members initially appointed to the Commission, the term of one member shall be for one year, the term of one member shall be for two years, and the term of one member shall be for three years. No member is eligible for reappointment; except thatany member appointed to fill a vacancy occurring before the expiration of the term for which his predecessor was appointed (A) shall be appointed for the remainder of such term, and (B) is eligible for reappointment for one full term. A member may serve after the expiration of his term until his successor has taken office.
+(2) The term of office for each member shall be three years; except that of the members initially appointed to the Commission, the term of one member shall be for one year, the term of one member shall be for two years, and the term of one member shall be for three years. No member is eligible for reappointment; except that any member appointed to fill a vacancy occurring before the expiration of the term for which his predecessor was appointed (A) shall be appointed for the remainder of such term, and (B) is eligible for reappointment for one full term. A member may serve after the expiration of his term until his successor has taken office.
 
 #### (c) Chairman
 
@@ -24,11 +24,15 @@ The Commission shall have an Executive Director, who shall be appointed (without
 
 (Pub. L. 92–522, title II, §201, Oct. 21, 1972, 86 Stat. 1043; Pub. L. 97–389, title II, §202, Dec. 29, 1982, 96 Stat. 1951; Pub. L. 98–364, title I, §103(a), July 17, 1984, 98 Stat. 441.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>1984</b>—Subsec. (b)(1). Pub. L. 98–364 substituted "The President shall make his selection from a list of individuals knowledgeable in the fields of marine ecology and resource management, and who are not in a position to profit from the taking of marine mammals. Such list shall be submitted to him by the Chairman of the Council on Environmental Quality and unanimously agreed to by that Chairman, the Secretary of the Smithsonian Institution, the Director of the National Science Foundation and the Chairman of the National Academy of Sciences" for "The President shall make his selection from a list, submitted to him by the Chairman of the Council on Environmental Quality, the Secretary of the Smithsonian Institution, the Director of the National Science Foundation, and the Chairman of the National Academy of Sciences, of individuals knowledgeable in the fields of marine ecology and resource management, and who are not in a position to profit from the taking of marine mammals".
+<b>1984</b>—Subsec. (b)(1). Pub. L. 98–364 substituted "The President shall make his selection from a list of individuals knowledgeable in the fields of marine ecology and resource management, and who are not in a position to profit from the taking of marine mammals. Such list shall be submitted to him by the Chairman of the Council on Environmental Quality and unanimously agreed to by that Chairman, the Secretary ofthe Smithsonian Institution, the Director of the National Science Foundation and the Chairman of the National Academy of Sciences" for "The President shall make his selection from a list, submitted to him by the Chairman of the Council on Environmental Quality, the Secretary of the Smithsonian Institution, the Director of the National Science Foundation, and the Chairman of the National Academy of Sciences, of individuals knowledgeable in the fields of marine ecology and resource management, and who are not in a position to profit from the taking of marine mammals".
 
 <b>1982</b>—Subsec. (b)(1). Pub. L. 97–389 inserted requirement that, effective Sept. 1, 1982, the three members of the Commission be appointed by and with the advice and consent of the Senate.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

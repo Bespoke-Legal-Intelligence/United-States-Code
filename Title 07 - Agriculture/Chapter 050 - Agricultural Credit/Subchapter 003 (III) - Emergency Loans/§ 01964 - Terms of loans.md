@@ -12,7 +12,7 @@ The Secretary may not make a loan under this subchapter to a borrower who has su
 
 Loans under this subchapter shall be at rates of interest as follows:
 
-&emsp;(1) For loans or portions of loans up to the amount of the applicant's actual loss caused by the disaster, as limited under subsection (a)(1) of this section, the interest shall be at rates prescribed by the Secretary, but not in excess of 8 percent per annum; and
+&emsp;(1) For loans or portions of loans up to the amount of the applicant's actual loss causedby the disaster, as limited under subsection (a)(1) of this section, the interest shall be at rates prescribed by the Secretary, but not in excess of 8 percent per annum; and
 
 &emsp;(2) For loans or portions of loans in excess of the amount of the applicant's actual loss caused by the disaster, as limited under subsection (a)(1) of this section, (A) the interest for insured loans shall be at rates prevailing in the private market for similar loans, as determined by the Secretary, and (B) the interest for guaranteed loans shall be at rates agreed on by the borrower and lender, but not in excess of such rates as may be determined by the Secretary.
 
@@ -42,11 +42,13 @@ Any political subdivision of a State with a population of less than ten thousand
 
 (Pub. L. 87–128, title III, §324, Aug. 8, 1961, 75 Stat. 311; Pub. L. 93–24, §4, Apr. 20, 1973, 87 Stat. 25; Pub. L. 94–68, §5, Aug. 5, 1975, 89 Stat. 381; Pub. L. 95–89, title IV, §406, Aug. 4, 1977, 91 Stat. 561; Pub. L. 95–334, title I, §119, Aug. 4, 1978, 92 Stat. 427; Pub. L. 96–302, title I, §120(b), July 2, 1980, 94 Stat. 841; Pub. L. 96–438, §3(a), (b)(1), Oct. 13, 1980, 94 Stat. 1872, 1873; Pub. L. 97–35, title I, §162(a), Aug. 13, 1981, 95 Stat. 378; Pub. L. 98–258, title VI, §602(b), Apr. 10, 1984, 98 Stat. 138; Pub. L. 99–198, title XIII, §1308(b)(3), (c), Dec. 23, 1985, 99 Stat. 1523; Pub. L. 100–707, title I, §109(c)(2), Nov. 23, 1988, 102 Stat. 4708; Pub. L. 104–127, title VI, §§624, 625, Apr. 4, 1996, 110 Stat. 1091; Pub. L. 105–277, div. A, §101(a) \[title VIII, §802\], Oct. 21, 1998, 112 Stat. 2681, 2681–38.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (d) and (e), was in the original "this title", meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (d), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (d), is Pub.L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 The Community Emergency Drought Relief Act of 1977, referred to in subsec. (e), is Pub. L. 95–31, May 23, 1977, 91 Stat. 169. Title I of the Community Emergency Drought Relief Act of 1977 is set out as a note under section 5184 of Title 42. For complete classification of this Act to the Code, see Tables.
 
@@ -88,6 +90,8 @@ Subsecs. (b), (c). Pub. L. 95–89 added subsecs. (b) and (c).
 
 <b>1973</b>—Pub. L. 93–24 substituted "5" for "3" per centum.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1996 Amendment
 
 Amendment by section 624 of Pub. L. 104–127 effective Apr. 4, 1996, and amendment by section 625 of Pub. L. 104–127 effective 90 days after Apr. 4, 1996, see section 663(a), (b) of Pub. L. 104–127, set out as a note under section 1922 of this title.
@@ -102,7 +106,7 @@ Section 162(b) of Pub. L. 97–35 provided that: "The amendments made by this se
 
 #### Effective Date of 1980 Amendments
 
-Amendment by section 3(b)(1) of Pub. L. 96–438 effective with respect to loans approved after Oct. 13, 1980, except for certain subsequent emergency loans, see section 3(d) of Pub. L. 96–438, set out as a note under section 1961 of this title.
+Amendment by section 3(b)(1) of Pub. L. 96–438 effective with respect to loans approved after Oct. 13, 1980,except for certain subsequent emergency loans, see section 3(d) of Pub. L. 96–438, set out as a note under section 1961 of this title.
 
 Amendment by Pub. L. 96–302 effective Oct. 1, 1980, see section 507 of Pub. L. 96–302, set out as a note under section 631 of Title 15, Commerce and Trade.
 

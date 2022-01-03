@@ -50,7 +50,7 @@ Each State personnel development plan under subsection (a)(2) shall—
 
 &emsp;(7) describe how the State educational agency will recruit and retain teachers who meet the qualifications described in section 1412(a)(14)(C) of this title and other qualified personnel in geographic areas of greatest need;
 
-&emsp;(8) describe the steps the State educational agency will take to ensure that poor and minority children are not taught at higher ratesby teachers who do not meet the qualifications described in section 1412(a)(14)(C) of this title; and
+&emsp;(8) describe the steps the State educational agency will take to ensure that poor and minority children are not taught at higher rates by teachers who do not meet the qualifications described in section 1412(a)(14)(C) of this title; and
 
 &emsp;(9) describe how the State educational agency will assess, on a regular basis, the extent to which the strategies implemented under this part have been effective in meeting the performance goals described in section 1412(a)(15) of this title.
 
@@ -80,6 +80,8 @@ Each State educational agency that receives a grant under this part shall submit
 
 (Pub. L. 91–230, title VI, §653, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2768; amended Pub. L. 114–95, title IX, §§9214(d)(3), 9215(ss)(7), Dec. 10, 2015, 129 Stat. 2165, 2183.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2)(C), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
@@ -101,6 +103,8 @@ Another prior section 1453, Pub. L. 91–230, title VI, §653, Apr. 13, 1970, 84
 Subsec. (b)(7). Pub. L. 114–95, §9214(d)(3)(A), substituted "teachers who meet the qualifications described in section 1412(a)(14)(C) of this title" for "highly qualified teachers".
 
 Subsec. (b)(8). Pub. L. 114–95, §9214(d)(3)(B), substituted "teachers who do not meet the qualifications described in section 1412(a)(14)(C) of this title" for "teachers who are not highly qualified".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

@@ -20,9 +20,13 @@ July 2, 1940, ch. 508, §4(b), 54 Stat. 714.
 
 The words "Notwithstanding the provisions of any other law" are omitted as surplusage. The word "producing" is substituted for the words "who are engaged in the manufacture or production". The last sentence is substituted for 5:189a (last 34 words).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4025 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

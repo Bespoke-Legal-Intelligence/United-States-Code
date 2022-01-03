@@ -160,7 +160,7 @@ The provisions of this section shall terminate on the date that is 30 days after
 
 #### References in Text
 
-The International Emergency Economic Powers Act, referred to in subsecs. (c) and (d)(1), is title II of Pub.L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsecs. (c) and (d)(1), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 #### Codification
 
@@ -198,7 +198,7 @@ Pub. L. 112–158, title V, §504(b), Aug. 10, 2012, 126 Stat. 1262, provided th
 
 #### Delegation of Functions
 
-Ex. Ord. No. 13599, Feb. 5, 2012, 77 F.R. 6659, which is listed in a table under section 1701 of Title 50, War and National Defense, provided in section 10 that the Secretary of the Treasury, in consultation with the Secretary of State, is authorized to exercise the functions and authorities conferred upon the President by subsecs. (d)(1)(A) and (g)(1) of this section and to redelegate such functions and authorities consistent with applicable law; and provided in section 11 that the Secretary of State, in consultation with the Secretary of the Treasury, the Secretary of Energy, and the Director of National Intelligence, is authorized to exercise the functions and authorities conferred upon the President by subsec. (d)(4)(D) of this section and that the Secretary of State, in consultation with the Secretary of the Treasury, is authorized to exercise the functions and authorities conferred upon the President by subsecs. (e)(1), (2) and (g)(1) of this section and to redelegate all such functions and authorities consistent with applicable law.
+Ex. Ord. No. 13599, Feb. 5, 2012, 77 F.R. 6659, which is listed in a table under section 1701 of Title 50, War and National Defense, provided in section 10 that the Secretary of the Treasury, in consultation with the Secretary of State, is authorized to exercise the functions and authorities conferred upon the President by subsecs. (d)(1)(A) and (g)(1) of this section and to redelegate such functions and authorities consistent with applicable law; and provided in section 11 that the Secretary of State, in consultation with the Secretary ofthe Treasury, the Secretary of Energy, and the Director of National Intelligence, is authorized to exercise the functions and authorities conferred upon the President by subsec. (d)(4)(D) of this section and that the Secretary of State, in consultation with the Secretary of the Treasury, is authorized to exercise the functions and authorities conferred upon the President by subsecs. (e)(1), (2) and (g)(1) of this section and to redelegate all such functions and authorities consistent with applicable law.
 
 Memorandum of President of the United States, Jan. 20, 2014, 79 F.R.6453, provided:
 
@@ -215,6 +215,12 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 #### Presidential Determinations Relating to Petroleum or Petroleum Products from Iran
 
 The following Presidential Determinations related to the existence of sufficient supplies of petroleum and petroleum products from countries other than Iran pursuant to subsec. (d)(4)(B) and (C) of this section:
+
+Determination of President of the United States, No. 2022–04, Nov. 12, 2021, 86 F.R. 64795.
+
+Determination of President of the United States, No. 2021–07, May 19, 2021, 86 F.R. 28235.
+
+Determination of President of the United States, No. 2021–03, Jan. 14, 2021, 86 F.R. 7789.
 
 Determination of President of the United States, No. 2020–06, June 5, 2020, 85 F.R. 36995.
 

@@ -24,12 +24,16 @@
 | [51320\.](%C2%A7%2051320%20-%20Acceptance%20of%20guarantees%20with%20gifts%20for%20major%20projects.md) | Acceptance of guarantees with gifts for major projects. |
 | [51321\.](%C2%A7%2051321%20-%20Grants%20for%20scientific%20and%20educational%20research.md) | Grants for scientific and educational research. |
 | [51322\.](%C2%A7%2051322%20-%20Protection%20of%20cadets%20from%20sexual%20assault%20onboard%20vessels.md) | Protection of cadets from sexual assault onboard vessels. |
+| [51323\.](%C2%A7%2051323%20-%20United%20States%20Merchant%20Marine%20Academy%20Advisory%20Council.md) | United States Merchant Marine Academy Advisory Council. |
+| [51324\.](%C2%A7%2051324%20-%20Unfilled%20vacancies.md) | Unfilled vacancies. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Pub. L. 117–81, div. C, title XXXV, §3501(c)(2), Dec. 27, 2021, 135 Stat. 2238, added items 51323 and 51324.
 
 <b>2017</b>—Pub. L. 115–91, div. C. title XXXV, §§3510(b), 3512(b), 3514(d)(2), 3516(b), Dec. 12, 2017, 131 Stat. 1918, 1919, 1923, 1928, added items 51318 and 51320 to 51322 and struck out former item 51318 "Policy on sexual harassment and sexual assault".
 
@@ -70,3 +74,5 @@ Pub. L. 110–181, div. C, title XXXV, §3523(a)(1), Jan. 28, 2008, 122 Stat. 59
 - [&sect; 51320 - Acceptance of guarantees with gifts for major projects](%C2%A7%2051320%20-%20Acceptance%20of%20guarantees%20with%20gifts%20for%20major%20projects.md)
 - [&sect; 51321 - Grants for scientific and educational research](%C2%A7%2051321%20-%20Grants%20for%20scientific%20and%20educational%20research.md)
 - [&sect; 51322 - Protection of cadets from sexual assault onboard vessels](%C2%A7%2051322%20-%20Protection%20of%20cadets%20from%20sexual%20assault%20onboard%20vessels.md)
+- [&sect; 51323 - United States Merchant Marine Academy Advisory Council](%C2%A7%2051323%20-%20United%20States%20Merchant%20Marine%20Academy%20Advisory%20Council.md)
+- [&sect; 51324 - Unfilled vacancies](%C2%A7%2051324%20-%20Unfilled%20vacancies.md)

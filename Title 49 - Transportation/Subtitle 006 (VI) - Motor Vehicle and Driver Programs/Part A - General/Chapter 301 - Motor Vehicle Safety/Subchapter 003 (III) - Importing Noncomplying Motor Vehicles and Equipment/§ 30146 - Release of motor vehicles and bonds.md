@@ -28,7 +28,7 @@ Evidence of Compliance.—(1) The Secretary of Transportation may require that t
 
 (d)
 
-Challenging the Certification.—A motor vehicle or bond may not be released under subsection (a) of this section if the Secretary of Transportation, not later than 30 days after receiving a certification under subsection (a)(1) of this section, gives written notice that the Secretary believes or has reason to believe that the certification is false or contains a mispresentation.<sup>1</sup> The vehicle and bond may be released only after the Secretary is satisfiedwith the certification and any modification of the certification.
+Challenging the Certification.—A motor vehicle or bond may not be released under subsection (a) of this section if the Secretary of Transportation, not later than 30 days after receiving a certification under subsection (a)(1) of this section, gives written notice that the Secretary believes or has reason to believe that the certification is false or contains a mispresentation.<sup>1</sup> The vehicle and bond may be released only after the Secretary is satisfied with the certification and any modification of the certification.
 
 (e)
 

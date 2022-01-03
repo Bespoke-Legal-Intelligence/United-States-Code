@@ -64,7 +64,7 @@ The head of a covered agency may exercise the authority provided in subsection (
 
 &emsp;(3) notifying the Director of National Intelligence that there is a significant supply chain risk to the covered system concerned, unless the head of the covered agency making the determination is the Director of National Intelligence; and
 
-&emsp;(4) providing a notice, which may be in classified form, of the determination made under paragraph (2) to the congressional intelligence committees that includes a summary of the basis for the determination, including a discussion of less intrusive measures that were considered and why they were not reasonably available to reduce supply chain risk.
+&emsp;(4) providing a notice, which may be in classified form, of the determination made under paragraph (2) to the congressional intelligencecommittees that includes a summary of the basis for the determination, including a discussion of less intrusive measures that were considered and why they were not reasonably available to reduce supply chain risk.
 
 #### (d) Delegation
 
@@ -80,6 +80,8 @@ The requirements of this section shall take effect on the date that is 180 days 
 
 (Pub. L. 112–87, title III, §309, Jan. 3, 2012, 125 Stat. 1883; Pub. L. 116–92, div. E, title LXIII, §6309, Dec. 20, 2019, 133 Stat. 2190.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 3542(b) of title 44, referred to in subsec. (a)(5), was repealed by Pub. L. 113–283, §2(a), Dec. 18, 2014, 128 Stat. 3073. See section 3552(b) of Title 44, Public Printing and Documents.
@@ -91,6 +93,8 @@ Section was formerly set out as a note under section 3329 of this title.
 #### Amendments
 
 <b>2019</b>—Subsec. (g). Pub. L. 116–92 struck out subsec. (g). Prior to amendment, text read as follows: "The authority provided in this section shall expire on the date that section 806 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 (Public Law 111–383; 10 U.S.C. 2304 note) expires."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

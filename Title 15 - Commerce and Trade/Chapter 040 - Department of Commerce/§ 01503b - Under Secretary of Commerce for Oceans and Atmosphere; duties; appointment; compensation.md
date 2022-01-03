@@ -4,9 +4,13 @@ There shall be in the Department of Commerce an Under Secretary of Commerce for 
 
 (Pub. L. 99–659, title IV, §407(a), Nov. 14, 1986, 100 Stat. 3739.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Reorganization Plan No. 4 of 1970, referred to in text, is set out under section 1511 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Service by Incumbent Administrator and Deputy Administrator of the National Oceanic and Atmospheric Administration
 

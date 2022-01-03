@@ -30,6 +30,8 @@ Mar. 4, 1909, ch. 319, §47, 35 Stat. 1075; June 28, 1950, ch. 383, §402(i), 64
 
 50:64 (proviso) and 50:68 (proviso) are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4684 of this title as this section.
@@ -37,6 +39,8 @@ Mar. 4, 1909, ch. 319, §47, 35 Stat. 1075; June 28, 1950, ch. 383, §402(i), 64
 <b>2002</b>—Pub. L. 107–217 substituted "section 121 of title 40" for "section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486)" in introductory provisions.
 
 <b>1980</b>—Pub. L. 96–513 substituted "section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486)" for "section 486 of title 40".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

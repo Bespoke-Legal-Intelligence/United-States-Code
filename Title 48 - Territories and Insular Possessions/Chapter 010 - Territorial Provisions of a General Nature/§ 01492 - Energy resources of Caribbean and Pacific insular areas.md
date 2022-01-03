@@ -52,7 +52,7 @@ The Secretary of Energy or any administrative official who may succeed him, with
 
 &emsp;(C) drafting long-term energy transmission line plans for such insular areas with the objective that the maximum percentage feasible of electric power transmission and distribution lines in each insular area be protected from damage caused by hurricanes and typhoons.
 
-(2) In carrying out this subsection, the Secretary of Energy shall identify and evaluate the strategies or projects with the greatest potential for reducing the dependence on imported fossil fuels as used for the generation of electricity, including strategies and projects for—
+(2) In carrying out this subsection, the Secretary of Energy shall identify and evaluate the strategies or projects with the greatest potential for reducing the dependence on importedfossil fuels as used for the generation of electricity, including strategies and projects for—
 
 &emsp;(A) improved supply-side efficiency of centralized electrical generation, transmission, and distribution systems;
 
@@ -176,9 +176,11 @@ Authorization of appropriations.—There are authorized to be appropriated to ca
 
 &emsp;(A) the term "insular area" means American Samoa, the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, the Federated States of Micronesia, Guam, the Republic of the Marshall Islands, the Republic of Palau, and the Virgin Islands; and
 
-&emsp;(B) the term "1982 Territorial Energy Assessment" means the comprehensive energy planprepared by the Secretary of Energy pursuant to subsection (c).
+&emsp;(B) the term "1982 Territorial Energy Assessment" means the comprehensive energy plan prepared by the Secretary of Energy pursuant to subsection (c).
 
 (Pub. L. 96–597, title VI, §604, Dec. 24, 1980, 94 Stat. 3480; Pub. L. 98–213, §7, Dec. 8, 1983, 97 Stat. 1460; Pub. L. 102–486, title XXVII, §2701, Oct. 24, 1992, 106 Stat. 3118; Pub. L. 109–58, title II, §251, Aug. 8, 2005, 119 Stat. 679.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -195,6 +197,8 @@ Subsec. (g)(4). Pub. L. 109–58, §251(4), amended par. (4) generally. Prior to
 <b>1992</b>—Subsec. (g). Pub. L. 102–486 added subsec. (g).
 
 <b>1983</b>—Subsec. (d). Pub. L. 98–213 inserted "and may implement any projects or programs contained in recommendations of the plan".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

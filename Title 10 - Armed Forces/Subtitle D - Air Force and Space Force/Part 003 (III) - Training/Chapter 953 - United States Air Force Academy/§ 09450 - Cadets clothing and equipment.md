@@ -1,6 +1,6 @@
 ### §9450. Cadets: clothing and equipment
 
-(a) The Secretary of the Air Force may prescribe the amount to be credited to a cadet, upon original admission to the Academy, for the cost of his initial issue of clothing and equipment. That amount shall be deducted from his pay. If a cadet is discharged before graduationwhile owing the United States for pay advanced for the purchase of required clothing and equipment, he shall turn in so much of his clothing and equipment of a distinctive military nature as is necessary to repay the amount advanced. If the value of the clothing and equipment turned in does not cover the amount owed, the indebtedness shall be canceled.
+(a) The Secretary of the Air Force may prescribe the amount to be credited to a cadet, upon original admission to the Academy, for the cost of his initial issue of clothing and equipment. That amount shall be deducted from his pay. If a cadet is discharged before graduation while owing the United States for pay advanced for the purchase of required clothing and equipment, he shall turn in so much of his clothing and equipment of a distinctive military nature as is necessary to repay the amount advanced. If the value of the clothing and equipment turned in does not cover the amount owed, the indebtedness shall be canceled.
 
 (b) Under such regulations as the Secretary may prescribe, uniforms and equipment shall be furnished to a cadet at the Academy upon his request.
 
@@ -32,9 +32,13 @@ In subsection (a), the words "while owing the United States for pay advanced for
 
 In subsection (b), the word "accouterments" is omitted as surplusage. The words "by the Government" and "such restrictions and" are omitted as surplusage. The words "at cost" are omitted to reflect Title IV of the National Security Act of 1947, as amended (63 Stat. 585), which authorized the Secretary of Defense to prescribe regulations governing the use and sale of certain inventories at cost, including applicable administrative expenses. (See opinion of the Assistant General Counsel (Fiscal Matters) of the Office of the Secretary of Defense, January 4, 1955.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 9350 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

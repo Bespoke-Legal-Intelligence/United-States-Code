@@ -12,7 +12,7 @@ Authority To Withhold From Disclosure.—The head of a Federal agency, or other 
 
 (b)
 
-Access Determination.—When the head of a Federal agency or other public official determines that information should be withheld from the public pursuant to subsection (a), the Secretary, in consultation with the Federal agency head or official, shall determine who may have access to the information for the purpose of carrying out this division.
+Access Determination.—When the head of a Federal agency or other public official determines that information should be withheld from the public pursuant to subsection (a), the Secretary, in consultation with the Federal agency head or official, shall determine who may haveaccess to the information for the purpose of carrying out this division.
 
 (c)
 

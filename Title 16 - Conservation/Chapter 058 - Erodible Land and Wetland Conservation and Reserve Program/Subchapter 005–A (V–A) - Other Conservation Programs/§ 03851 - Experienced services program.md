@@ -2,7 +2,7 @@
 
 #### (a) Establishment and purpose
 
-The Secretary shall establish an experienced services program (referred to in this section as the "program") for the purpose of utilizing thetalents of individuals who are age 55 or older, but who are not employees of the Department of Agriculture or a State agriculture department, to provide—
+The Secretary shall establish an experienced services program (referred to in this section as the "program") for the purpose of utilizing the talents of individuals who are age 55 or older, but who are not employees of the Department of Agriculture or a State agriculture department, to provide—
 
 &emsp;(1) technical services in support of the conservation-related programs and authorities carried out by the Secretary, including conservation planning assistance, technical consultation, and assistance with design and implementation of conservation practices; and
 
@@ -46,7 +46,7 @@ The Secretary shall establish an experienced services program (referred to in th
 
 #### (3) Research, education, and economics services
 
-&emsp;With respect to services referred to in subsection (a)(2), the Secretary may carry out the program under the mission area referred to in such subsection to the extent that funds are specifically appropriated to provide such services under such mission area.
+&emsp;With respect to services referred to in subsection (a)(2), the Secretary may carry out theprogram under the mission area referred to in such subsection to the extent that funds are specifically appropriated to provide such services under such mission area.
 
 #### (d) Liability
 
@@ -57,6 +57,8 @@ An individual providing technical, professional, or administrative services, as 
 &emsp;(2) is acting within the scope of the agreement.
 
 (Pub. L. 99–198, title XII, §1252, as added Pub. L. 110–234, title II, §2710, May 22, 2008, 122 Stat. 1082, and Pub. L. 110–246, §4(a), title II, §2710, June 18, 2008, 122 Stat. 1664, 1810; amended Pub. L. 113–79, title II, §2504, Feb. 7, 2014, 128 Stat. 752; Pub. L. 115–334, title VII, §7611, Dec. 20, 2018, 132 Stat. 4830.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -103,6 +105,8 @@ Pub. L. 115–334, §7611(3), struck out "ACES" before "program" in introductory
 &emsp;"(C) The grassland reserve program.
 
 &emsp;"(D) The conservation stewardship program."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

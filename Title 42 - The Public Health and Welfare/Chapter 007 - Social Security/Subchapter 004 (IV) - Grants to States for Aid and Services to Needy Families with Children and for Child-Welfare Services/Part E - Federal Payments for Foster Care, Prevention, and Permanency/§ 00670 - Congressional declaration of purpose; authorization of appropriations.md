@@ -4,15 +4,19 @@ For the purpose of enabling each State to provide, in appropriate cases, foster 
 
 (Aug. 14, 1935, ch. 531, title IV, §470, as added Pub. L. 96–272, title I, §101(a)(1), June 17, 1980, 94 Stat. 501; amended Pub. L. 99–272, title XII, §12307(d), Apr. 7, 1986, 100 Stat. 297; Pub. L. 99–514, title XVII, §1711(c)(1), Oct. 22, 1986, 100 Stat. 2784; Pub. L. 104–193, title I, §108(d)(1), Aug. 22, 1996, 110 Stat. 2166; Pub. L. 115–123, div. E, title VII, §50733(b), Feb. 9, 2018, 132 Stat. 252.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>2018</b>—Pub. L. 115–123 substituted "June 1, 1995), adoption assistance for children with special needs, kinshipguardianship assistance, and prevention services or programs specified in section 671(e)(1) of this title, there are authorized to be appropriated for each fiscal year such sums" for "June 1, 1995) and adoption assistance for children with special needs, there are authorized to be appropriated for each fiscal year (commencing with the fiscal year which begins October 1, 1980) such sums".
+<b>2018</b>—Pub. L. 115–123 substituted "June 1, 1995), adoption assistance for children with special needs, kinship guardianship assistance, and prevention services or programs specified in section 671(e)(1) of this title, there are authorized to be appropriated for each fiscal year such sums" for "June 1, 1995) and adoption assistance for children with special needs, there are authorized to be appropriated for each fiscal year (commencing with the fiscal year which begins October 1, 1980) such sums".
 
 <b>1996</b>—Pub. L. 104–193 substituted "would have been eligible" for "would be eligible" and inserted "(as such plan was in effect on June 1, 1995)" after "part A".
 
 <b>1986</b>—Pub. L. 99–514 substituted "foster care and transitional independent living programs for children who otherwise would be eligible for assistance under the State's plan approved under part A and adoption assistance for children with special needs" for "foster care, adoption assistance, and transitional independent living programs for children who otherwise would be eligible for assistance under the State's plan approved under part A (or, in the case of adoption assistance, would be eligible for benefits under subchapter XVI of this chapter)".
 
 Pub. L. 99–272 substituted "foster care, adoption assistance, and transitional independent living programs" for "foster care and adoption assistance".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 
@@ -378,6 +382,8 @@ Pub. L. 100–505, Oct. 18, 1988, 102 Stat. 2533, as amended by Pub. L. 102–23
 
 Pub. L. 96–272, title I, §101(b), June 17, 1980, 94 Stat. 513, directed the Secretary of Health, Education, and Welfare to conduct a study of programs of foster care and adoption assistance established under part IV–E of the Social Security Act (42 U.S.C. 670 et seq.) and submit to Congress, not later than Oct. 1, 1983, a full and complete report thereon, together with his recommendations as to (A) whether such part IV–E should be continued, and if so, (B) the changes (if any) which should be made in such part IV–E.
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 13930. Strengthening the Child Welfare System for America's Children
 
 Ex. Ord. No. 13930, June 24, 2020, 85 F.R. 38741, provided:
@@ -386,7 +392,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Purpose</i>. Every child deserves a family. Our States and communities have both a legal obligation, and the privilege, to care for our Nation's most vulnerable children.
 
-The best foster care system is one that is not needed in the first place. My Administration has been focused on prevention strategies that keep children safe while strengthening families so that children do not enter foster care unnecessarily. Last year, and for only the second time since 2011, the number of children in the foster care system declined, and for the third year in a row, the number of children entering foster care has declined.
+The best foster care system is one that is not needed in the first place. My Administration has been focused on prevention strategies that keep children safe while strengthening families so that children do not enter foster care unnecessarily. Last year, and for only the second time since 2011, the number of children in the foster care system declined, and for the third year in arow, the number of children entering foster care has declined.
 
 But challenges remain. Too many young people who are in our foster care system wait years before finding the permanency of family. More than 400,000 children are currently in foster care. Of those, more than 124,000 children are waiting for adoption, with nearly 6 out of 10 (58.4 percent) having already become legally eligible for adoption.
 
@@ -434,7 +440,7 @@ Sec. 3. <i>Improving Access to Adequate Resources for Caregivers and Youth</i>. 
 
 (a) Expanding educational options. To the extent practicable, the Secretary shall use all existing technical assistance resources to promote dissemination and State implementation of the National Training and Development Curriculum, including, when appropriate, in non-classroom environments.
 
-(b) Increasing the availability of trauma-informed training. The Secretary shall provide an enhanced, web-based, learning-management platform to house the information generated by the National Adoption Competency Mental Health Training Initiative. Access to this web-based training material will be provided free of charge for all child welfare and mental health practitioners.
+(b) Increasing the availability of trauma-informed training. The Secretary shall provide an enhanced, web-based, learning-management platform to house the information generated by the National Adoption Competency Mental Health Training Initiative. Access tothis web-based training material will be provided free of charge for all child welfare and mental health practitioners.
 
 (c) Supporting guardianship. The Secretary shall provide information to States regarding the importance and availability of funds to increase guardianship through the title IV–E Guardianship Assistance Program (42 U.S.C. 673), which provides Federal reimbursement for payments to guardians and for associated administrative costs. This information shall include which States have already opted into the program.
 

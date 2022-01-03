@@ -6,9 +6,13 @@ It is the further policy of the Congress that certain persons addicted to narcot
 
 (Pub. L. 89–793, §2, Nov. 8, 1966, 80 Stat. 1438.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was not enacted as part of the Narcotic Addict Rehabilitation Act of 1966, which is classified to subchapters II and III of this chapter, chapter 314 (section 4251 et seq.) of Title 18, Crimes and Criminal Procedure, and chapter 175 (section 2901 et seq.) of Title 28, Judiciary and Judicial Procedure.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -24,13 +28,15 @@ Pub. L. 89–793, §1, Nov. 8, 1966, 80 Stat. 1438, provided: "That titles I, II
 
 #### Separability
 
-Pub. L. 89–793, title VI, §604, Nov. 8, 1966, 80 Stat. 1450, provided that: "If any provision of this Act \[enacting this chapter, chapter 314 (§4251 et seq.) of Title 18,Crimes and Criminal Procedure, and chapter 175 (§2901 et seq.) of Title 28, Judiciary and Judicial Procedure, amending section 257 of this title and section 7237 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under this section and section 4202 of Title 18\] or the application thereof to any person or circumstance is held invalid, the remainder of the Act and the application of such provision to other persons not similarly situated or to other circumstances shall not be affected thereby."
+Pub. L. 89–793, title VI, §604, Nov. 8, 1966, 80 Stat. 1450, provided that: "If any provision of this Act \[enacting this chapter, chapter 314 (§4251 et seq.) of Title 18, Crimes and Criminal Procedure, and chapter 175 (§2901 et seq.) of Title 28, Judiciary and Judicial Procedure, amending section 257 of this title and section 7237 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under this section and section 4202 of Title 18\] or the application thereof to any person or circumstance is held invalid, the remainder of the Act and the application of such provision to other persons not similarly situated or to other circumstances shall not be affected thereby."
 
 #### Authorization of Appropriations
 
 Pub. L. 89–793, title VI, §607, Nov. 8, 1966, 80 Stat. 1450, provided that: "There are authorized to be appropriated such sums as are necessary to carry out the provisions of this Act \[enacting this chapter, chapter 314 (§4251 et seq.) of Title 18, Crimes and Criminal Procedure, and chapter 175 (§2901 et seq.) of Title 28, Judiciary and Judicial Procedure, amending section 257 of this title and section 7237 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under this section and section 4202 of Title 18\]."
 
+#### <b>Executive Documents</b>
+
 #### Reorganization Plan No. 3 of 1966
 
-Pub. L. 89–793, title VI, §606, Nov. 8, 1966, 80 Stat. 1450, provided that: "The provisions of this Act \[enacting this chapter, chapter 314 (§4251 et seq.) of Title 18, Crimes and Criminal Procedure, and chapter 175 (§2901 et seq.) of Title 28, Judiciary and Judicial Procedure, amending section 257 of this title and section 7237 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under this section and section 4202 of Title 18\] shall be subject to the provisions of Reorganization Plan No. 3 of 1966 \[set out as a note under section 202 of this title\]."
+Pub. L. 89–793, title VI, §606, Nov. 8, 1966, 80 Stat. 1450, provided that: "The provisions of this Act \[enactingthis chapter, chapter 314 (§4251 et seq.) of Title 18, Crimes and Criminal Procedure, and chapter 175 (§2901 et seq.) of Title 28, Judiciary and Judicial Procedure, amending section 257 of this title and section 7237 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under this section and section 4202 of Title 18\] shall be subject to the provisions of Reorganization Plan No. 3 of 1966 \[set out as a note under section 202 of this title\]."
 

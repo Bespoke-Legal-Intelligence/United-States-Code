@@ -96,7 +96,7 @@ Agricultural commodities and other assistance provided under this subchapter sha
 
 &emsp;&emsp;(C) to test prototypes;
 
-&emsp;&emsp;(D) to adopt new specifications or improve existing specifications for micronutrient fortified food aid products, based on the latestdevelopments in food and nutrition science, and in coordination with other international partners;
+&emsp;&emsp;(D) to adopt new specifications or improve existing specifications for micronutrient fortified food aid products, based on the latest developments in food and nutrition science, and in coordination with other international partners;
 
 &emsp;&emsp;(E) to develop new program guidance to facilitate improved matching of products to purposes having nutritional intent, in coordination with other international partners;
 
@@ -119,6 +119,8 @@ Agricultural commodities and other assistance provided under this subchapter sha
 &emsp;Of the funds made available under section 1726a(f) of this title,<sup>1</sup> for fiscal years 2014 through 2023, not more than $4,500,000 may be used to carry out this subsection.
 
 (July 10, 1954, ch. 469, title II, §202, 68 Stat. 458; Pub. L. 86–472, ch. VI, §601(a)(1), May 14, 1960, 74 Stat. 140; Pub. L. 88–205, pt. IV, §403(d), Dec. 16, 1963, 77 Stat. 390; Pub. L. 89–808, §2(C), Nov. 11, 1966, 80 Stat. 1534; Pub. L. 95–88, title II, §§207, 208(a), Aug. 3, 1977, 91 Stat. 547; Pub. L. 96–53, title I, §121, title II, §202, Aug. 14, 1979, 93 Stat. 366, 368; Pub. L. 99–83, title X, §§1003, 1004(a), 1005, Aug. 8, 1985, 99 Stat. 270, 271; Pub. L. 100–202, §11, Dec. 22, 1987, 101 Stat. 1329–448; Pub. L. 101–508, title I, §1204(b)(1), Nov. 5, 1990, 104 Stat. 1388–11; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3636; Pub. L. 104–127, title II, §207(a), Apr. 4, 1996, 110 Stat. 953; Pub. L. 107–171, title III, §3002, May 13, 2002, 116 Stat. 280; Pub. L. 110–246, title III, §3008, June 18, 2008, 122 Stat. 1823; Pub. L. 113–79, title III, §§3002, 3003, Feb. 7, 2014, 128 Stat. 773; Pub. L. 115–334, title III, §§3101, 3102, Dec. 20, 2018, 132 Stat. 4603, 4604.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -144,7 +146,7 @@ Subsec. (h)(1). Pub. L. 113–79, §3003(1), added par. (1) and struck out forme
 
 Subsec. (h)(3). Pub. L. 113–79, §3003(2), substituted "fiscal years 2014 through 2018" for "fiscal years 2009 through 2011".
 
-<b>2008</b>—Subsec. (b)(2). Pub. L. 110–246, §3008(1), substituted "may not use as a sole rationale for denying a request for funds" for "may not deny a request for funds" in introductory provisions.
+<b>2008</b>—Subsec. (b)(2). Pub. L. 110–246, §3008(1), substituted "may not use as a sole rationale for denying arequest for funds" for "may not deny a request for funds" in introductory provisions.
 
 Subsec. (e)(1). Pub. L. 110–246, §3008(2)(A), substituted "not less than 7.5 percent nor more than 13 percent" for "not less than 5 percent nor more than 10 percent" in introductory provisions.
 
@@ -199,6 +201,8 @@ Subsec. (b). Pub. L. 95–88, §207(3), added subsec. (b).
 <b>1963</b>—Pub. L. 88–205 substituted "economic and community development" for "economic developments".
 
 <b>1960</b>—Pub. L. 86–472 substituted "In order to facilitate the utilization of surplus agricultural commodities in meeting the requirements of needy peoples, and in order to promote economic development in underdeveloped areas in addition to that which can be accomplished under sections 1701 to 1704 and 1705 to 1709 of this title, the" for "The".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

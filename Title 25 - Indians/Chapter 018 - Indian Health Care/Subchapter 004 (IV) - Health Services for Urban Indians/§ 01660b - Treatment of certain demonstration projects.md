@@ -8,7 +8,7 @@ Notwithstanding any other provision of law, the Tulsa Clinic and Oklahoma City C
 
 &emsp;(3) continue to meet the requirements and definitions of an urban Indian organization in this chapter, and shall not be subject to the provisions of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).<sup>1</sup>
 
-(Pub. L. 94–437, title V, §512, as added Pub. L. 102–573, title V, §503, Oct. 29, 1992, 106 Stat. 4569;amended Pub. L. 105–256, §4(b), Oct. 14, 1998, 112 Stat. 1897; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title V, §512, as added Pub. L. 102–573, title V, §503, Oct. 29, 1992, 106 Stat. 4569; amended Pub. L. 105–256, §4(b), Oct. 14, 1998, 112 Stat. 1897; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 #### <b>Editorial Notes</b>
 

@@ -22,7 +22,7 @@ For purposes of this section, the term "leveraged resources" means the benefits 
 
 (1) Distribution of amounts made available under this section shall be based on a formula developed by the Secretary that is designed to take into account the success in leveraging existing appropriations in the preceding fiscal year as measured under subsection (d). Such formula shall take into account the size of the allocation of the State under this subchapter and the ratio of leveraged resources to such allocation.
 
-(2) A State may expend funds allocated under this subchapter as are necessary, not to exceed 0.08 percent of such allocation or $35,000 each fiscal year, whichever is greater, to identify, develop, and demonstrate leveraging programs. Funds allocated under this section shall only be used for increasing or maintaining benefits to households.
+(2) A State may expend funds allocated under this subchapter as are necessary, not to exceed 0.08 percent of such allocation or $35,000 each fiscal year, whichever is greater, to identify, develop, and demonstrate leveraging programs. Funds allocated under this section shall only beused for increasing or maintaining benefits to households.
 
 #### (d) Dollar value of leveraged resources
 
@@ -38,11 +38,15 @@ The Secretary shall determine the share of each State of the amounts made availa
 
 (Pub. L. 97–35, title XXVI, §2607A, as added Pub. L. 101–501, title VII, §707(a), Nov. 3, 1990, 104 Stat. 1260; amended Pub. L. 103–252, title III, §311(a)(2), (c)(6), May 18, 1994, 108 Stat. 661, 662.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (c)(2). Pub. L. 103–252, §311(c)(6), substituted "0.08 percent" for ".0008 percent".
 
 Subsec. (e). Pub. L. 103–252, §311(a)(2), substituted "2 months after the close of the fiscal year during which the State provided leveraged resources to eligible households, as described in subsection (b) of this section" for "July 31, of each year".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

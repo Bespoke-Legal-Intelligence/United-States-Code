@@ -64,7 +64,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For the purposes of this section, the term "qualified masters degree program" means a masters degree program that provides a program of instruction in mathematics, engineering, the physical or natural sciences, computer science, information technology, nursing, allied health, or other scientific disciplines in which African Americans areunderrepresented and has students enrolled in such program of instruction at the time of application for a grant under this section.
+&emsp;&emsp;For the purposes of this section, the term "qualified masters degree program" means a masters degree program that provides a program of instruction in mathematics, engineering, the physical or natural sciences, computer science, information technology, nursing, allied health, or other scientific disciplines in which African Americans are underrepresented and has students enrolled in such program of instruction at the time of application for a grant under this section.
 
 #### (B) Enrollment exception
 
@@ -152,6 +152,8 @@ Notwithstanding paragraphs (2) and (3) of subsection (f), no eligible institutio
 
 (Pub. L. 89–329, title VII, §723, as added Pub. L. 110–315, title VII, §706(b), Aug. 14, 2008, 122 Stat. 3349; amended Pub. L. 111–39, title VII, §701(2), July 1, 2009, 123 Stat. 1954.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1136a, Pub. L. 89–329, title XI, §1102, as added Pub. L. 102–325, title XI, §1101, July 23, 1992, 106 Stat. 785, stated purpose of and authorized program for urban community service assistance, prior to repeal by Pub. L. 105–244, §3, title VII, §702, Oct. 7, 1998, 112 Stat. 1585, 1803, effective Oct. 1, 1998.
@@ -167,6 +169,8 @@ A prior section 723 of Pub. L. 89–329 was renumbered section 343, and is class
 #### Amendments
 
 <b>2009</b>—Subsec. (b)(1)(P). Pub. L. 111–39 substituted "State" for "Sate".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

@@ -20,9 +20,13 @@ Mar. 23, 1910, ch. 115 (proviso under "United States Service Schools"), 36 Stat.
 
 The words "The provisions of section 1144 of this title, authorizing leaves of absence to certain officers of the Military Academy \* \* \* are hereby, extended to include" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4306 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

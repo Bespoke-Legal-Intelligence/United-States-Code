@@ -10,7 +10,7 @@
 
 (B) Such timeline may vary among different regulations based on differences in the complexity of the regulation, the number and scope of comments received, and other relevant factors, but shall not be longer than 3 years except under exceptional circumstances. If the Secretary intends to vary such timeline with respect to the publication of a final regulation, the Secretary shall cause to have published in the Federal Register notice of the different timeline by not later than the timeline previously established with respect to such regulation. Such notice shall include a brief explanation of the justification for such variation.
 
-(C) In the case of interim final regulations, upon the expiration of the regular timeline established under this paragraph for the publication of a final regulation after opportunity for public comment, the interim final regulationshall not continue in effect unless the Secretary publishes (at the end of the regular timeline and, if applicable, at the end of each succeeding 1-year period) a notice of continuation of the regulation that includes an explanation of why the regular timeline (and any subsequent 1-year extension) was not complied with. If such a notice is published, the regular timeline (or such timeline as previously extended under this paragraph) for publication of the final regulation shall be treated as having been extended for 1 additional year.
+(C) In the case of interim final regulations, upon the expiration of the regular timeline established under this paragraph for the publication of a final regulation after opportunity for public comment, the interim final regulation shall not continue in effect unless the Secretary publishes (at the end of the regular timeline and, if applicable, at the end of each succeeding 1-year period) a notice of continuation of the regulation that includes an explanation of why the regular timeline (and any subsequent 1-year extension) was not complied with. If such a notice is published, the regular timeline (or such timeline as previously extended under this paragraph) for publication of the final regulation shall be treated as having been extended for 1 additional year.
 
 (D) The Secretary shall annually submit to Congress a report that describes the instances in which the Secretary failed to publish a final regulation within the applicable regular timeline under this paragraph and that provides an explanation for such failures.
 
@@ -62,7 +62,7 @@
 
 &emsp;(iii) the guidance was in error;
 
-> the provider of services or supplier shall not be subject to any penalty or interest under thissubchapter or the provisions of subchapter XI insofar as they relate to this subchapter (including interest under a repayment plan under section 1395ddd of this title or otherwise) relating to the provision of such items or service or such claim if the provider of services or supplier reasonably relied on such guidance.
+> the provider of services or supplier shall not be subject to any penalty or interest under this subchapter or the provisions of subchapter XI insofar as they relate to this subchapter (including interest under a repayment plan under section 1395ddd of this title or otherwise) relating to the provision of such items or service or such claim if the provider of services or supplier reasonably relied on such guidance.
 
 (B) Subparagraph (A) shall not be construed as preventing the recoupment or repayment (without any additional penalty) relating to an overpayment insofar as the overpayment was solely the result of a clerical or technical operational error.
 
@@ -79,6 +79,8 @@
 (3) A report under paragraph (1) shall include a description of efforts by the Secretary to reduce such inconsistency or conflicts, and recommendations for legislation or administrative action that the Secretary determines appropriate to further reduce such inconsistency or conflicts.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1871, as added Pub. L. 89–97, title I, §102(a) July 30, 1965, 79 Stat. 331; amended Pub. L. 99–509, title IX, §9321(e)(1), Oct. 21, 1986, 100 Stat. 2017; Pub. L. 100–203, title IV, §4035(b), (c), Dec. 22, 1987, 101 Stat. 1330–78; Pub. L. 108–173, title IX, §§902(a)(1), (b)(1), 903(a)(1), (b)(1), (c)(1), 904(b), Dec. 8, 2003, 117 Stat. 2375–2377.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -99,6 +101,8 @@ Subsec. (f). Pub. L. 108–173, §904(b), added subsec. (f).
 Subsec. (c). Pub. L. 100–203, §4035(c), added subsec. (c).
 
 <b>1986</b>—Pub. L. 99–509 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

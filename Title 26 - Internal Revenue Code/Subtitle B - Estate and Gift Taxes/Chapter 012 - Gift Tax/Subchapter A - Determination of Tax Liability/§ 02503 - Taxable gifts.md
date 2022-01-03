@@ -16,7 +16,7 @@ The term "taxable gifts" means the total amount of gifts made during the calenda
 
 &emsp;&emsp;(A) $10,000, multiplied by
 
-&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting "calendar year 1997" for "calendar year 2016" in subparagraph (A)(ii) thereof.
+&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for such calendaryear by substituting "calendar year 1997" for "calendar year 2016" in subparagraph (A)(ii) thereof.
 
 > &emsp;If any amount as adjusted under the preceding sentence is not a multiple of $1,000, such amount shall be rounded to the next lowest multiple of $1,000.
 
@@ -80,6 +80,8 @@ If any individual waives, before the death of a participant, any survivor benefi
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Subsec. (b)(2)(B). Pub. L. 115–97 substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
@@ -108,7 +110,9 @@ Subsec. (e). Pub. L. 97–34, §441(b), added subsec. (e).
 
 <b>1970</b>—Subsec. (a). Pub. L. 91–614, §102(a)(3)(A), divided definition of "taxable gifts" into gifts made after Dec. 31, 1970, where taxable gifts are based on the total amount of gifts made during the calendar quarter, less the applicable deductions, and gifts made before Jan. 1, 1971, where taxable gifts are based on the total amount of gifts made during the calendar year, less the applicable deductions.
 
-Subsec. (b). Pub. L. 91–614, §102(a)(3)(B), substituted provisions with regard to computing taxable gifts for the calendar quarter, in the case of gifts made to any persons by the donor during the calendar year 1971 and subsequent calendar years, $3,000 of such gifts to suchperson less the aggregate of the amounts of such gifts to such person during all preceding calendar quarters of the calendar year shall not be included in the total amount of gifts made during such quarter for provisions requiring in the case of gifts made to any person by the donor during the calendar year 1955 and subsequent calendar years, the first $3,000 of such gifts to such person shall not be included in the total amount of gifts made during such year.
+Subsec. (b). Pub. L. 91–614, §102(a)(3)(B), substituted provisions with regard to computing taxable gifts for the calendar quarter, in the case of gifts made to any persons by the donor during the calendar year 1971 and subsequent calendar years, $3,000 of such gifts to such person less the aggregate of the amounts of such gifts to such person during all preceding calendar quarters of the calendar year shall not be included in the total amount of gifts made during such quarter for provisions requiring in the case of gifts made to any person by the donor during the calendar year 1955 and subsequent calendar years, the first $3,000 of such gifts to such person shall not be included in the total amount of gifts made during such year.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 

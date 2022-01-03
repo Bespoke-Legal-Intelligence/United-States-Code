@@ -50,6 +50,8 @@ In subsection (c), the words "armed force concerned" are substituted for the wor
 
 In subsection (d), the words "under the jurisdiction of that Secretary" are inserted for clarity. The words "general or special" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Immigration and Nationality Act, referred to in subsec. (b)(1), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
@@ -72,6 +74,8 @@ Subsecs. (c), (d). Pub. L. 103–337, §1631(a), as amended by Pub. L. 104–106
 
 <b>1963</b>—Subsec. (b)(1). Pub. L. 88–236 substituted "he is a citizen of the United States or has been lawfully admitted to the United States for permanent residence under chapter 12 of title 8" for "he is, or has made a declaration of intention to become, a citizen of the United States or of a possession thereof".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of this title.
@@ -90,5 +94,5 @@ Amendment by Pub. L. 90–623 intended to restate without substantive change the
 
 #### Treatment of Single Parents Enlisting in Reserve Components of the Armed Forces
 
-Pub. L. 99–661, div. A, title V, §523, Nov. 14, 1986, 100 Stat. 3871, as amended by Pub. L. 100–180, div. A, title V, §503, Dec. 4, 1987, 101 Stat. 1085; Pub. L. 101–189, div. A, title V, §504, Nov. 29, 1989, 103 Stat. 1437, which provided that, in determining under section 510 \[now 12102\] of title 10 whether a person who is applying to enlist in a reserve component of the Armed Forces upon discharge or release from active duty is qualified for enlistment as a Reserve of an Armed Force, the Secretary concerned may not disqualify the person because the person is a single parent if the person is otherwise qualified for enlistment, the person became a single parent while serving on active duty, and the person's status as a single parent was not a factor in the person's discharge or release from active duty, with provision that the requirements imposed with respect to parenthood not be more stringent than those imposed on a member who becomes a single parent during the term of the member's enlistment, and with provision defining "single parent" as a person who is not married and who has custody of a child under the age of 18 pursuant to a court order, expired on Sept. 30, 1991.
+Pub. L. 99–661, div. A, title V, §523, Nov. 14, 1986, 100 Stat. 3871, as amended by Pub. L. 100–180, div. A, title V, §503, Dec. 4, 1987, 101 Stat. 1085; Pub. L. 101–189, div. A, title V, §504, Nov. 29, 1989, 103 Stat. 1437, which provided that, in determining under section 510 \[now 12102\] of title 10 whether a person who is applying to enlist in a reserve component of the Armed Forces upon discharge or release from active duty is qualified for enlistment as a Reserve of an Armed Force, the Secretary concerned may not disqualify the person because the person is a single parent if the person is otherwise qualified for enlistment, the person became a single parent while serving on active duty, and the person's status as a single parent was not a factor in the person's discharge or release from active duty, with provision that the requirements imposed with respect to parenthood not be more stringent than those imposed on a member who becomes a single parent during the term of the member's enlistment, and with provision defining "single parent" as a person who is not marriedand who has custody of a child under the age of 18 pursuant to a court order, expired on Sept. 30, 1991.
 

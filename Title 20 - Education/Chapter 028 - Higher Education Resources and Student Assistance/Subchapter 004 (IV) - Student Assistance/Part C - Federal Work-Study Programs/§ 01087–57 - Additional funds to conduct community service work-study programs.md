@@ -30,6 +30,8 @@ Each institution participating under this part may use up to 10 percent of the f
 
 (Pub. L. 89–329, title IV, §447, as added Pub. L. 99–498, title IV, §403(a), Oct. 17, 1986, 100 Stat. 1436; amended Pub. L. 102–325, title IV, §446(a), (b), July 23, 1992, 106 Stat. 567; Pub. L. 110–315, title IV, §446, Aug. 14, 2008, 122 Stat. 3260.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The National and Community Service Act of 1990, referred to in subsec. (a)(3), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to chapter 129 (§12501 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
@@ -49,6 +51,8 @@ Provisions similar to this section were contained in section 1087–58 of this t
 <b>2008</b>—Pub. L. 110–315 redesignated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 <b>1992</b>—Pub. L. 102–325 amended section catchline generally, struck out subsecs. (a) and (b) which related to purpose and definitions, respectively, struck out subsec. (c) designation and heading before "Each institution participating", substituted "up to 10 percent of the funds made available under section 1096(a) of this title and attributable to the amount of the institution's expenditures under this part" for "funds made available under the last sentence of section 1096(a) of this title", and inserted ", and programs assisted under the National and Community Service Act of 1990" after "nonprofit agencies".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

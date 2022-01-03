@@ -14,9 +14,11 @@ The purposes of this chapter are—
 
 &emsp;(6) to assist focus countries in implementation of national wildlife anti-trafficking and poaching laws; and
 
-&emsp;(7) to ensure that United States assistance to prevent and suppress illicit wildlife trafficking is carefully planned and coordinated, and that it is systematically and rationally prioritized on the basis of detailed analysis of the nature and severity of threats to wildlife and the willingness and ability of foreign partners to cooperate effectively toward these ends.
+&emsp;(7) to ensure that United States assistance to prevent and suppress illicit wildlife trafficking is carefully planned and coordinated, and that it is systematically and rationallyprioritized on the basis of detailed analysis of the nature and severity of threats to wildlife and the willingness and ability of foreign partners to cooperate effectively toward these ends.
 
 (Pub. L. 114–231, title I, §101, Oct. 7, 2016, 130 Stat. 951.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

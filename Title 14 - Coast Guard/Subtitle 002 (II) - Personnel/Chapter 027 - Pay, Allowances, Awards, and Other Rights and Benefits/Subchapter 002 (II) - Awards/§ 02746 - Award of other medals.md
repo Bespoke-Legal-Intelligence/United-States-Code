@@ -6,7 +6,7 @@ Coast Guard personnel, notwithstanding the provisions of this chapter, may be aw
 
 #### Historical and Revision Notes
 
-This section insures that the preceding sections are not intended to prevent Coast Guard military personnel from receiving other medals, the legion of merit, for example. 81st Congress, House Report No. 557.
+This section insures that the preceding sections are not intended to prevent Coast Guard military personnelfrom receiving other medals, the legion of merit, for example. 81st Congress, House Report No. 557.
 
 #### <b>Editorial Notes</b>
 

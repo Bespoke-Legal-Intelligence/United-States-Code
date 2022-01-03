@@ -16,7 +16,7 @@ The indenture trustee shall give to the indenture security holders, in the manne
 
 #### (c) Duties of the trustee in case of default
 
-The indenture trustee shall exercise in case of default (as such term is defined in such indenture) such of the rights and powers vested in itby such indenture, and to use the same degree of care and skill in their exercise, as a prudent man would exercise or use under the circumstances in the conduct of his own affairs.
+The indenture trustee shall exercise in case of default (as such term is defined in such indenture) such of the rights and powers vested in it by such indenture, and to use the same degree of care and skill in their exercise, as a prudent man would exercise or use under the circumstances in the conduct of his own affairs.
 
 #### (d) Responsibility of the trustee
 
@@ -33,6 +33,8 @@ The indenture to be qualified shall not contain any provisions relieving the ind
 The indenture to be qualified shall automatically be deemed (unless it is expressly provided therein that any such provision is excluded) to contain provisions to the effect that all parties thereto, including the indenture security holders, agree that the court may in its discretion require, in any suit for the enforcement of any right or remedy under such indenture, or in any suit against the trustee for any action taken or omitted by it as trustee, the filing by any party litigant in such suit of an undertaking to pay the costs of such suit, and that such court may in its discretion assess reasonable costs, including reasonable attorney's fees, against any party litigant in such suit, having due regard to the merits and good faith of the claims or defenses made by such party litigant: <i>Provided</i>, That the provisions of this subsection shall not apply to any suit instituted by such trustee, to any suit instituted by any indenture security holder, or group of indenture security holders, holding in the aggregate more than 10 per centum in principal amount of the indenture securities outstanding, or to any suit instituted by any indenture security holder for the enforcement of the payment of the principal of or interest on any indenture security, on or after the respective due dates expressed in such indenture security.
 
 (May 27, 1933, ch. 38, title III, §315, as added Aug. 3, 1939, ch. 411, 53 Stat. 1171; amended Pub. L. 101–550, title IV, §414, Nov. 15, 1990, 104 Stat. 2730.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

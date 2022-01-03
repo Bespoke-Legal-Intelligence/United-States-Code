@@ -208,6 +208,8 @@ The Secretary may award grants to, and enter into contracts with, entities that 
 
 (Pub. L. 93–247, title I, §104, formerly §6, Jan. 31, 1974, 88 Stat. 7; Pub. L. 95–266, title I, §105, Apr. 24, 1978, 92 Stat. 207; Pub. L. 98–457, title I, §105, Oct. 9, 1984, 98 Stat. 1751; Pub. L. 99–401, title I, §104, Aug. 27, 1986, 100 Stat. 906; Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 106; renumbered title I, §105, and amended Pub. L. 101–126, §3(a)(1), (2), (b)(3), Oct. 25, 1989, 103 Stat. 764, 765; Pub. L. 102–295, title I, §§112, 141(5), May 28, 1992, 106 Stat. 190, 200; renumbered §104 and amended Pub. L. 104–235, title I, §§105, 113(a)(1)(A), Oct. 3, 1996, 110 Stat. 3067, 3079; Pub. L. 108–36, title I, §112, June 25, 2003, 117 Stat. 803; Pub. L. 111–320, title I, §113, Dec. 20, 2010, 124 Stat. 3462.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 104 of Pub. L. 93–247 was renumbered section 103 and is classified to section 5104 of this title.
@@ -300,7 +302,7 @@ Subsec. (b). Pub. L. 104–235, §105(b), (c), redesignated subsec. (c) as (b)(1
 
 Subsec. (c). Pub. L. 104–235, §105(d), redesignated subsec. (d) as (c) and in par. (2) struck out at end "The Secretary shall review each such grant at least annually, utilizing peer review mechanisms to assure the quality and progress of research conducted under such grant." Former subsec. (c) redesignated (b).
 
-Subsec. (d). Pub. L. 104–235, §105(e), redesignated subsec. (e) as (d), in par. (1)(A) substituted ", in consultation with experts in the field and other federal agencies, establish a formal, rigorous, and meritorious" for "establish a formal", struck out "and contracts" after "for grants", and inserted at end "The purpose of this process is to enhance the quality and usefulness of research in the field of child abuse and neglect.", in par. (1)(B) substituted "Administration on Children and Families" for "Office of Human Development" and inserted at end "The Secretary shall ensure that the peer review panel utilizes scientifically valid review criteria and scoring guidelines for review committees.", in par. (2) struck out ", contract, or other financial assistance" after "grant" in introductory provisions and inserted "The Secretary shall award grants under this section on the basis of competitive review." as concluding provisions, and in par. (3)(B) substituted "paragraph (2)(B)" for "subsection (e)(2)(B) of this section" in two places. Former subsec. (d) redesignated (c).
+Subsec. (d). Pub. L. 104–235, §105(e), redesignated subsec. (e) as (d), in par. (1)(A) substituted ", in consultation with experts in the field and other federal agencies, establish a formal, rigorous, and meritorious" for "establish a formal", struck out "and contracts" after "for grants", and inserted at end "The purpose of this process is to enhance the quality and usefulness of research in the field of child abuse and neglect.", in par. (1)(B) substituted "Administration on Children and Families" for "Office of Human Development" and inserted at end "The Secretary shall ensure that the peerreview panel utilizes scientifically valid review criteria and scoring guidelines for review committees.", in par. (2) struck out ", contract, or other financial assistance" after "grant" in introductory provisions and inserted "The Secretary shall award grants under this section on the basis of competitive review." as concluding provisions, and in par. (3)(B) substituted "paragraph (2)(B)" for "subsection (e)(2)(B) of this section" in two places. Former subsec. (d) redesignated (c).
 
 Subsec. (e). Pub. L. 104–235, §105(e)(1), redesignated subsec. (e) as (d).
 
@@ -346,6 +348,8 @@ Subsec. (b). Pub. L. 95–266, §105(3), substituted provisions relating to revi
 
 Subsec. (c). Pub. L. 95–266, §105(3), substituted provisions setting forth compensation and travel expense allowance authorizations for members of the Board, for provisions authorizing use of appropriated funds for required report.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Child Abuse and Disability
 
 Pub. L. 100–294, title I, §102, Apr. 25, 1988, 102 Stat. 118, directed Director of National Center on Child Abuse and Neglect to conduct a study of incidence of child abuse among children with handicaps, including children in out-of-home placements, the relationship between child abuse and children's handicapping conditions, and incidence of children who have developed handicapping conditions as a result of child abuse or neglect, and not later than 2 years after Apr. 25, 1988, to report to appropriate committees of Congress with respect to the study, such report to include information and data gathered, an analysis of such information and data, and recommendations on how to prevent abuse of disabled children.
@@ -360,7 +364,7 @@ Pub. L. 100–294, title I, §104, Apr. 25, 1988, 102 Stat. 118, directed Direct
 
 #### High Risk Study
 
-Pub. L. 100–294, title I, §105, Apr. 25, 1988, 102 Stat. 118, directed the Director of National Center on Child Abuse and Neglect to conduct a study to identify groupswhich have been historically underserved or unserved by programs relating to child abuse and neglect, and to report incidence of child abuse and neglect among children who are members of such groups, and not later than 2 years after Apr. 25, 1988, to report to appropriate committees of Congress with respect to the study, such report to include information and data gathered, an analysis of such information and data, and recommendations on how to better meet needs of underserved or unserved groups.
+Pub. L. 100–294, title I, §105, Apr. 25, 1988, 102 Stat. 118, directed the Director of National Center on Child Abuse and Neglect to conduct a study to identify groups which have been historically underserved or unserved by programs relating to child abuse and neglect, and to report incidence of child abuse and neglect among children who are members of such groups, and not later than 2 years after Apr. 25, 1988, to report to appropriate committees of Congress with respect to the study, such report to include information and data gathered, an analysis of such information and data, and recommendations on how to better meet needs of underserved or unserved groups.
 
 <i><sup>1</sup></i><i> So in original. Probably should refer to clauses (i) through (xi).</i>
 

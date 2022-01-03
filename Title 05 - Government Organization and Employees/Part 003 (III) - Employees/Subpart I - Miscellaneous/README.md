@@ -12,3 +12,4 @@
 - [Chapter 099 - Department of Defense Personnel Authorities](Chapter%20099%20-%20Department%20of%20Defense%20Personnel%20Authorities/README.md)
 - [Chapter 101 - Federal Emergency Management Agency Personnel](Chapter%20101%20-%20Federal%20Emergency%20Management%20Agency%20Personnel/README.md)
 - [Chapter 102 - United States Secret Service Uniformed Division Personnel](Chapter%20102%20-%20United%20States%20Secret%20Service%20Uniformed%20Division%20Personnel/README.md)
+- [Chapter 103 - Department of State](Chapter%20103%20-%20Department%20of%20State/README.md)

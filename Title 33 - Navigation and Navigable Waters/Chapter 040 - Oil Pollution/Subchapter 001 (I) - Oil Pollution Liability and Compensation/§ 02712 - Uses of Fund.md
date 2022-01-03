@@ -28,7 +28,13 @@ The Fund shall be available to the President for—
 
 #### (b) Defense to liability for Fund
 
-The Fund shall not be available to pay any claim for removal costs or damages to a particular claimant, to the extent that the incident, removal costs, or damages are caused by the gross negligence or willful misconduct of that claimant.
+#### (1) In general
+
+&emsp;The Fund shall not be available to pay any claim for removal costs or damages to a particular claimant, to the extent that the incident, removal costs, or damages are caused by the gross negligence or willful misconduct of that claimant.
+
+#### (2) Subrogated rights
+
+&emsp;Except for a guarantor claim pursuant to a defense under section 2716(f)(1) of this title, Fund compensation of any claim by an insurer or other indemnifier of a responsible party or injured third party is subject to the subrogated rights of that responsible party or injured third party to such compensation.
 
 #### (c) Obligation of Fund by Federal officials
 
@@ -150,29 +156,11 @@ In any case in which the President has paid an amount from the Fund for any remo
 
 (Pub. L. 101–380, title I, §1012, Aug. 18, 1990, 104 Stat. 498; Pub. L. 108–293, title VII, §708(b), Aug. 9, 2004, 118 Stat. 1077; Pub. L. 111–281, title VII, §708, Oct. 15, 2010, 124 Stat. 2984; Pub. L. 115–282, title VIII, §816, Dec. 4, 2018, 132 Stat. 4305; Pub. L. 116–283, div. G, title LVXXXIII \[LXXXIII\], §§8302(a), 8303(b), title LVXXXV \[LXXXV\], §8513(c), Jan. 1, 2021, 134 Stat. 4692, 4761.)
 
-#### Amendment of Subsection (b)
-
-<i>Pub. L. 116–283, div. G, title LVXXXIII \[LXXXIII\], §8302, Jan. 1, 2021, 134 Stat. 4692, provided that, effective 180 days after Jan. 1, 2021, subsection (b) of this section is amended—</i>
-
-<i>(1) by striking "The" and inserting the following:</i>
-
-#### <i>"(1) In general</i>
-
-&emsp;<i>The"; and</i>
-
-<i>(2) by adding at the end the following:</i>
-
-#### <i>"(2) Subrogated rights</i>
-
-&emsp;<i>"Except for a guarantor claim pursuant to a defense under section 2716(f)(1) of this title, Fund compensation of any claim by an insurer or other indemnifier of a responsible party or injured third party is subject to the subrogated rights of that responsible party or injured third party to such compensation."</i>
-
-<i>See 2021 Amendment note below.</i>
-
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-This Act, referred to in subsecs. (a)(5) and (f), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. Sections 1004(d)(2) and 1006(e) are classified to sections 2704(d)(2) and 2706(e), respectively, of this title. Section 4107 amended former section 1223 of this title and enacted provisions formerly set out as a note under section 1223 of this title. Sections 4110 and 4111 enacted provisions set out as a note and formerly set out as a note under section 3703 of Title 46, Shipping. Section 4112 is not classified to the Code. Section 4117 enacted provisions set out as a note under section1295 of the former Appendix to Title 46. Section 5006 is classified to section 2736 of this title. Section 8103 enacted provisions formerly set out as a note under section 1651 of Title 43, Public Lands. Title VII is classified to subchapter IV of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+This Act, referred to in subsecs. (a)(5) and (f), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. Sections 1004(d)(2) and 1006(e) are classified to sections 2704(d)(2) and 2706(e), respectively, of this title. Section 4107 amended former section 1223 of this title and enacted provisions formerly set out as a note under section 1223 of this title. Sections 4110 and 4111 enacted provisions set out as a note and formerly set out as a note under section 3703 of Title 46, Shipping. Section 4112 is not classified to the Code. Section 4117 enacted provisions set out as a note under section 1295 of the former Appendix to Title 46. Section 5006 is classified to section 2736 of this title. Section 8103 enacted provisions formerly set out as a note under section 1651 of Title 43, Public Lands. Title VII is classified to subchapter IV of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
 #### Amendments
 

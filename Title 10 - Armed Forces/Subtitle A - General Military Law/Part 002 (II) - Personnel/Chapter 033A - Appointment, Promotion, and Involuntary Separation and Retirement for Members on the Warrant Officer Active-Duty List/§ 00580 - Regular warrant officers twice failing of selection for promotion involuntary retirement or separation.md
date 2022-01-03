@@ -1,10 +1,10 @@
 ### §580. Regular warrant officers twice failing of selection for promotion: involuntary retirement or separation
 
-(a)(1) Unless retired or separated sooner under some other provision of law, a regular chief warrant officer who has twice failed of selection for promotion to the next higher regular warrantofficer grade shall be retired under paragraph (2) or (3) or separated from active duty under paragraph (4).
+(a)(1) Unless retired or separated sooner under some other provision of law, a regular chief warrant officer who has twice failed of selection for promotion to the next higher regular warrant officer grade shall be retired under paragraph (2) or (3) or separated from active duty under paragraph (4).
 
 (2) If a warrant officer described in paragraph (1) has more than 20 years of creditable active service on (A) the date on which the Secretary concerned approves the report of the board under section 576(e) of this title, or (B) the date on which his name was removed from the recommended list under section 579 of this title, whichever applies, the warrant officer shall be retired. The date of such retirement shall be not later than the first day of the seventh calendar month beginning after the applicable date under the preceding sentence, except as provided by section 8301 of title 5. A warrant officer retired under this paragraph shall receive retired pay computed under section 1401 of this title.
 
-(3) If a warrant officer described in paragraph (1) has at least 18 but not more than 20 years of creditable active service on (A) the date on which the Secretary concerned approves the report of the board under section 576(e) of this title, or (B) the date on which his name was removed from the recommended list under section 579 of this title, whichever applies, the warrant officer shall be retired not later than the date determined under the next sentence unless he is selected for promotion to the next higher regular warrant officer grade before that date. The date of the retirement of a warrant officer under the preceding sentence shall be on a date specified by the Secretary concerned, but not later than the first day of the seventh calendar month beginning after the date upon which he completes 20 years of active service, except as provided by section 8301 of title 5. A warrant officer retired under this paragraph shall receive retired pay computed under section 1401 of this title.
+(3) If a warrant officer described in paragraph (1) has at least 18 but not more than 20 years of creditable active service on (A) the date onwhich the Secretary concerned approves the report of the board under section 576(e) of this title, or (B) the date on which his name was removed from the recommended list under section 579 of this title, whichever applies, the warrant officer shall be retired not later than the date determined under the next sentence unless he is selected for promotion to the next higher regular warrant officer grade before that date. The date of the retirement of a warrant officer under the preceding sentence shall be on a date specified by the Secretary concerned, but not later than the first day of the seventh calendar month beginning after the date upon which he completes 20 years of active service, except as provided by section 8301 of title 5. A warrant officer retired under this paragraph shall receive retired pay computed under section 1401 of this title.
 
 (4)(A) If a warrant officer described in paragraph (1) has less than 18 years of creditable active service on (i) the date on which the Secretary concerned approves the report of the board under section 576(e) of this title, or (ii) the date on which his name was removed from the recommended list under section 579 of this title, whichever applies, the warrant officer shall be separated (except as provided in subparagraph (C)). The date of such separation shall be not later than the first day of the seventh calendar month beginning after the applicable date under the preceding sentence.
 
@@ -54,6 +54,8 @@
 
 (Added Pub. L. 102–190, div. A, title XI, §1112(a), Dec. 5, 1991, 105 Stat. 1498; amended Pub. L. 103–160, div. A, title V, §505(a), Nov. 30, 1993, 107 Stat. 1645; Pub. L. 103–337, div. A, title V, §541(b)(5), Oct. 5, 1994, 108 Stat. 2765; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–364, div. A, title V, §505(a), (b), Oct. 17, 2006, 120 Stat. 2179; Pub. L. 111–383, div. A, title V, §541, Jan. 7, 2011, 124 Stat. 4218.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 286a of title 14, referred to in subsec. (a)(4)(B), was redesignated section 2147 of title 14 by Pub. L. 115–282, title I, §112(b), Dec. 4, 2018, 132 Stat. 4216, and references to section 286a of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
@@ -81,6 +83,8 @@ Subsec. (e)(6). Pub. L. 103–337, §541(b)(5)(B), inserted "and the Secretary o
 <b>1993</b>—Subsec. (a)(4)(A). Pub. L. 103–160, §505(a)(1), inserted "(except as provided in subparagraph (C))" after "shall be separated".
 
 Subsec. (a)(4)(C). Pub. L. 103–160, §505(a)(2), added subpar. (C).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

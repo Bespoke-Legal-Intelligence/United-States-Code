@@ -6,7 +6,7 @@ Authority.—
 
 &emsp;(1)
 
-Cost accounting standards board.—The Cost Accounting Standards Board has exclusive authority to prescribe, amend, and rescind cost accounting standards, and interpretations of the standards, designed to achieveuniformity and consistency in the cost accounting standards governing measurement, assignment, and allocation of costs to contracts with the Federal Government.
+Cost accounting standards board.—The Cost Accounting Standards Board has exclusive authority to prescribe, amend, and rescind cost accounting standards, and interpretations of the standards, designed to achieve uniformity and consistency in the cost accounting standards governing measurement, assignment, and allocation of costs to contracts with the Federal Government.
 
 &emsp;(2)
 
@@ -26,7 +26,7 @@ Definition.—In this paragraph, the term "subcontract" includes a transfer of c
 
 &emsp;&emsp;(B)
 
-When standards are to be used.—Cost accounting standards prescribed under this chapter are mandatory for use by all executive agencies and by contractors and subcontractors in estimating, accumulating, and reporting costs in connection with the pricing and administration of, and settlement of disputes concerning, all negotiated prime contract and subcontract procurements with the Federal Government in excess of the amount set forth in section 2306a(a)(1)(A)(i) of title 10 as the amount is adjusted in accordance with applicable requirements of law.
+When standards are to be used.—Cost accounting standards prescribed under this chapter are mandatory for use by all executive agencies and by contractors and subcontractors in estimating, accumulating, and reporting costs in connection with the pricing and administration of, and settlement of disputes concerning, all negotiated prime contract and subcontract procurements with the Federal Government in excess of the amount set forth in section 3702(a)(1)(A) of title 10 as the amount is adjusted in accordance with applicable requirements of law.
 
 &emsp;&emsp;(C)
 
@@ -122,7 +122,7 @@ Implementing Regulations.—The Board shall prescribe regulations for the implem
 
 Nonapplicability of Certain Sections of Title 5.—Functions exercised under this chapter are not subject to sections 551, 553 to 559, and 701 to 706 of title 5.
 
-(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3696; Pub. L. 114–328, div. A, title VIII, §820(a)(2), Dec. 23, 2016, 130 Stat. 2274; Pub. L. 115–232, div. A, title VIII, §836(b)(1), Aug. 13, 2018, 132 Stat. 1860.)
+(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3696; Pub. L. 114–328, div. A, title VIII, §820(a)(2), Dec. 23, 2016, 130 Stat. 2274; Pub. L. 115–232, div. A, title VIII, §836(b)(1), Aug. 13, 2018, 132 Stat. 1860; Pub. L. 117–81, div. A, title XVII, §1702(h)(3), Dec. 27, 2021, 135 Stat. 2158.)
 
 Historical and Revision Notes
 
@@ -183,6 +183,8 @@ In subsection (b)(3)(A)(ii), the words "as in effect on or after the effective d
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (b)(1)(B). Pub. L. 117–81 substituted "section 3702(a)(1)(A)" for "section 2306a(a)(1)(A)(i)".
 
 <b>2018</b>—Subsec. (b)(1)(A). Pub. L. 115–232, §836(b)(1)(A), substituted "commercial products or commercial services" for "commercial items".
 

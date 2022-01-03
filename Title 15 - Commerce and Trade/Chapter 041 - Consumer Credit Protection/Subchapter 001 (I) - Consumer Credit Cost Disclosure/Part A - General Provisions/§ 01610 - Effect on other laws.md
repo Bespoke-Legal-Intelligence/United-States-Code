@@ -4,7 +4,7 @@
 
 (1) Except as provided in subsection (e), this part and parts B and C, do not annul, alter, or affect the laws of any State relating to the disclosure of information in connection with credit transactions, except to the extent that those laws are inconsistent with the provisions of this subchapter, and then only to the extent of the inconsistency. Upon its own motion or upon the request of any creditor, State, or other interested party which is submitted in accordance with procedures prescribed in regulations of the Bureau, the Bureau shall determine whether any such inconsistency exists. If the Bureau determines that a State-required disclosure is inconsistent, creditors located in that State may not make disclosures using the inconsistent term or form, and shall incur no liability under the law of that State for failure to use such term or form, notwithstanding that such determination is subsequently amended, rescinded, or determined by judicial or other authority to be invalid for any reason.
 
-(2) Upon its own motion or upon the request of any creditor, State, or other interested party which is submitted in accordance with procedures prescribed in regulations of the Bureau, the Bureau shall determine whether any disclosure required under the law of any State is substantially the same in meaning as a disclosure required under this subchapter. If the Bureau determines that a State-required disclosure is substantially the same in meaning as a disclosure required by this subchapter, then creditors located in that State may make such disclosure in compliance with such State law in lieu of the disclosure required by this subchapter, except that the annual percentage rate and finance charge shall be disclosed as required by section 1632 of this title, and such State-required disclosure may not be made in lieu of the disclosures applicable to certain mortgages under section 1639 of this title.
+(2) Upon its own motion or upon the request of any creditor, State, or other interested party which is submitted in accordance with procedures prescribed in regulations of the Bureau, the Bureau shall determine whether any disclosure required under the law of any State is substantially the same in meaning as a disclosure required under this subchapter. If the Bureau determines that a State-required disclosure is substantially the same in meaning as a disclosure required by this subchapter, then creditors located in that State may make such disclosure in compliance with such State law in lieu of the disclosure required by this subchapter, except that the annual percentage rate and finance charge shall be disclosed as required by section 1632 of this title, and such State-required disclosure may not be made in lieu of the disclosuresapplicable to certain mortgages under section 1639 of this title.
 
 #### (b) State credit charge statutes
 
@@ -23,6 +23,8 @@ Except as specified in sections 1635, 1640, and 1666e of this title, this subcha
 The provisions of subsection (c) of section 1632 of this title and subsections (c), (d), (e), and (f) of section 1637 of this title shall supersede any provision of the law of any State relating to the disclosure of information in any credit or charge card application or solicitation which is subject to the requirements of section 1637(c) of this title or any renewal notice which is subject to the requirements of section 1637(d) of this title, except that any State may employ or establish State laws for the purpose of enforcing the requirements of such sections.
 
 (Pub. L. 90–321, title I, §111, May 29, 1968, 82 Stat. 151; Pub. L. 93–495, title III, §307(b), Oct. 28, 1974, 88 Stat. 1516; Pub. L. 96–221, title VI, §609, Mar. 31, 1980, 94 Stat. 173; Pub. L. 100–583, §4, Nov. 3, 1988, 102 Stat. 2967; Pub. L. 103–325, title I, §152(e)(2)(B), (C), Sept. 23, 1994, 108 Stat. 2194; Pub. L. 111–203, title X, §1100A(2), July 21, 2010, 124 Stat. 2107.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -43,6 +45,8 @@ Subsec. (e). Pub. L. 100–583, §4(2), added subsec. (e).
 <b>1980</b>—Subsec. (a). Pub. L. 96–221 designated existing provisions as par. (1), substituted provisions respecting the effect of this part and parts B and C of this subchapter, and procedures applicable for determination, for provisions respecting the effect of this subchapter, and added par. (2).
 
 <b>1974</b>—Subsec. (d). Pub. L. 93–495 inserted reference to section 1666e of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

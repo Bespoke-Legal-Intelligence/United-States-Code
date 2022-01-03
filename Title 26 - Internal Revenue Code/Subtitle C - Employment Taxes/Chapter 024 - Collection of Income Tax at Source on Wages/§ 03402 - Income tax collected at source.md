@@ -56,7 +56,7 @@ If the remuneration paid by an employer to an employee for services performed du
 
 &emsp;&emsp;(B) if the employee is married, whether the employee's spouse is entitled to an allowance, or would be so entitled if such spouse were an employee receiving wages, under subparagraph (A) or (D), but only if such spouse does not have in effect a withholding allowance certificate claiming such allowance;
 
-&emsp;&emsp;(C) the number of individuals with respect to whom, on the basis of facts existing at the beginning of such day, there may reasonably be expected to be allowable a credit under section 24(a) for the taxable year under subtitle A in respect of which amounts deducted and withheld under this chapter in the calendar year in which such day falls are allowed as a credit;
+&emsp;&emsp;(C) the number of individuals with respect to whom, on the basis of facts existing at the beginning of such day, there may reasonably be expected to be allowable a credit under section 24 (determined after application of subsection (j) thereof) for the taxable year under subtitle A in respect of which amounts deducted and withheld under this chapter in the calendar year in which such day falls are allowed as a credit;
 
 &emsp;&emsp;(D) any additional amounts to which the employee elects to take into account under subsection (m), but only if the employee's spouse does not have in effect a withholding allowance certificate making such an election;
 
@@ -280,7 +280,7 @@ Notwithstanding any other provision of this section, an employer shall not be re
 
 #### (5) Special rule for sick pay paid pursuant to certain collective-bargaining agreements
 
-&emsp;In the case of any sick pay paid pursuant to a collective-bargaining agreement between employee representatives and one or more employers which contains a provision specifying that this paragraph is to apply to sick paypaid pursuant to such agreement and contains a provision for determining the amount to be deducted and withheld from each payment of such sick pay—
+&emsp;In the case of any sick pay paid pursuant to a collective-bargaining agreement between employee representatives and one or more employers which contains a provision specifying that this paragraph is to apply to sick pay paid pursuant to such agreement and contains a provision for determining the amount to be deducted and withheld from each payment of such sick pay—
 
 &emsp;&emsp;(A) the requirement of paragraph (1)(C) that a request for withholding be in effect shall not apply, and
 
@@ -322,7 +322,7 @@ Notwithstanding any other provision of this section, an employer shall not be re
 
 #### (2) Voluntary withholding on unemployment benefits
 
-&emsp;If, at the time a payment of unemployment compensation (as defined in section 85(b)) is made to any person, a request by such person is in effect that such payment be subject to withholding under this chapter, then for purposes of this chapter and so much of subtitle F as relates to this chapter, such payment shall be treated as if it were a payment of wages by an employer to an employee. The amount to be deducted and withheld under this chapter from any payment to which any request under this paragraph applies shall be an amount equal to 10 percent of such payment.
+&emsp;If, at the time a payment of unemployment compensation (as defined in section 85(b)) is made to any person, a request by such person is in effect that such payment be subject to withholding under this chapter, then for purposes of this chapter and so much of subtitleF as relates to this chapter, such payment shall be treated as if it were a payment of wages by an employer to an employee. The amount to be deducted and withheld under this chapter from any payment to which any request under this paragraph applies shall be an amount equal to 10 percent of such payment.
 
 #### (3) Authority for other voluntary withholding
 
@@ -448,7 +448,9 @@ In the case of any qualified stock (as defined in section 83(i)(2)) with respect
 
 &emsp;(2) such stock shall be treated for purposes of section 3501(b) in the same manner as a non-cash fringe benefit.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 457; Aug. 9, 1955, ch. 666, §2, 69 Stat. 605; Pub. L. 87–256, §110(g)(2), Sept. 21, 1961, 75 Stat. 537; Pub. L. 88–272, title III, §302(a), (b), Feb. 26, 1964, 78 Stat. 140; Pub. L. 89–97, title III, §313(d)(3)–(5), July 30, 1965, 79 Stat. 384; Pub. L. 89–212, §2(c), Sept. 29, 1965, 79 Stat. 859; Pub. L. 89–368, title I, §101(a)–(e)(3), Mar. 15, 1966, 80 Stat. 38–61; Pub. L. 90–364, title I, §102(c), June 28, 1968, 82 Stat. 256; Pub. L. 91–36, §2(a), June 30, 1969, 83 Stat. 42; Pub. L. 91–53, §6(a), Aug. 7, 1969, 83 Stat. 96; Pub. L. 91–172, title VIII, §805(a)–(e), (f)(1), (g), Dec. 30, 1969, 83 Stat. 686, 704–708; Pub. L. 92–178, title II, §208(a), (b)(1), (c)–(h)(1), Dec. 10, 1971, 85 Stat. 512–517; Pub. L. 94–12, title II, §§202(b), 205, Mar. 29, 1975, 89 Stat. 29, 32; Pub. L. 94–164, §§2(b)(2), 5(a)(1), Dec. 23, 1975, 89 Stat. 971, 975; Pub. L. 94–331, §3(a)(1), June 30, 1976, 90 Stat. 782; Pub. L. 94–396, §2(a)(1), Sept. 3, 1976, 90 Stat. 1201; Pub. L. 94–414, §3(a)(1), Sept. 17, 1976, 90 Stat. 1273; Pub. L. 94–455, title IV, §401(d), title V, §§502(b), 504(c)(3), title XII, §1207(d), title XIX, §§1903(a)(17), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1557, 1559, 1566, 1705, 1810, 1834; Pub. L. 95–30, title I, §105, title IV, §405(a), May 23, 1977, 91 Stat. 140, 156; Pub. L. 95–600, title I, §§101(e), 102(c), title VI, §601(b)(2), Nov. 6, 1978, 92 Stat. 2770, 2771, 2896; Pub. L. 96–601, §4(a)–(d), Dec. 24, 1980, 94 Stat. 3496, 3497; Pub. L. 97–34, title I, §101(e), Aug. 13, 1981, 95 Stat. 184; Pub. L. 97–248, title III, §§317(a), 334(d), Sept. 3, 1982, 96 Stat. 607, 627; Pub. L. 98–67, title I, §104(d)(3), Aug. 5, 1983, 97 Stat. 380; Pub. L. 99–44, §3, May 24, 1985, 99 Stat. 77; Pub. L. 99–514, title I, §104(b)(15), title XIII, §§1301(j)(8), 1303(b)(4), title XV, §1581(b), Oct. 22, 1986, 100 Stat. 2106, 2658, 2766; Pub. L. 100–203, title X, §10302(a), Dec. 22, 1987, 101 Stat. 1330–429; Pub. L. 100–647, title I, §1003(a)(2), Nov. 10, 1988, 102 Stat. 3382; Pub. L. 101–508, title XI, §11801(a)(41), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 102–318, title V, §522(b)(2)(D), July 3, 1992, 106 Stat. 314; Pub. L. 102–486, title XIX, §§1934(a), 1942(a), Oct. 24, 1992, 106 Stat. 3031, 3036; Pub. L. 103–465, title VII, §§701(a), 702(a), Dec. 8, 1994, 108 Stat. 4995, 4996; Pub. L. 107–16, title I, §101(c)(6)–(9), June 7, 2001, 115 Stat. 43, 44; Pub. L. 109–222, title V, §511(a), May 17, 2006, 120 Stat. 364; Pub. L. 112–56, title I, §102(a), Nov. 21, 2011, 125 Stat. 712; Pub. L. 115–97, title I, §§11011(b)(4), 11041(c)(1), (2)(B)–(E), 11051(b)(2)(B), 13603(b)(2), Dec. 22, 2017, 131 Stat. 2070, 2082–2084, 2089, 2163.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 457; Aug. 9, 1955, ch. 666, §2, 69 Stat. 605; Pub. L. 87–256, §110(g)(2), Sept. 21, 1961, 75 Stat. 537; Pub. L. 88–272, title III, §302(a), (b), Feb. 26, 1964, 78 Stat. 140; Pub. L. 89–97, title III, §313(d)(3)–(5), July 30, 1965, 79 Stat. 384; Pub. L. 89–212, §2(c), Sept. 29, 1965, 79 Stat. 859; Pub. L. 89–368, title I, §101(a)–(e)(3), Mar. 15, 1966, 80 Stat. 38–61; Pub. L. 90–364, title I, §102(c), June 28, 1968, 82 Stat. 256; Pub. L. 91–36, §2(a), June 30, 1969, 83 Stat. 42; Pub. L. 91–53, §6(a), Aug. 7, 1969, 83 Stat. 96; Pub. L. 91–172, title VIII, §805(a)–(e), (f)(1), (g), Dec. 30, 1969, 83 Stat. 686, 704–708; Pub. L. 92–178, title II, §208(a), (b)(1), (c)–(h)(1), Dec. 10, 1971, 85 Stat. 512–517; Pub. L. 94–12, title II, §§202(b), 205, Mar. 29, 1975, 89 Stat. 29, 32; Pub. L. 94–164, §§2(b)(2), 5(a)(1), Dec. 23, 1975, 89 Stat. 971, 975; Pub. L. 94–331, §3(a)(1), June 30, 1976, 90 Stat. 782; Pub. L. 94–396, §2(a)(1), Sept. 3, 1976, 90 Stat. 1201; Pub. L. 94–414, §3(a)(1), Sept. 17, 1976, 90 Stat. 1273; Pub. L. 94–455, title IV, §401(d), title V, §§502(b), 504(c)(3), title XII, §1207(d), title XIX, §§1903(a)(17), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1557, 1559, 1566, 1705, 1810, 1834; Pub. L. 95–30, title I, §105, title IV, §405(a), May 23, 1977, 91 Stat. 140, 156; Pub. L. 95–600, title I, §§101(e), 102(c), title VI, §601(b)(2), Nov. 6, 1978, 92 Stat. 2770, 2771, 2896; Pub. L. 96–601, §4(a)–(d), Dec. 24, 1980, 94 Stat. 3496, 3497; Pub. L. 97–34, title I, §101(e), Aug. 13, 1981, 95 Stat. 184; Pub. L. 97–248, title III, §§317(a), 334(d), Sept. 3, 1982, 96 Stat. 607, 627; Pub. L. 98–67, title I, §104(d)(3), Aug. 5, 1983, 97 Stat. 380; Pub. L. 99–44, §3, May 24, 1985, 99 Stat. 77; Pub. L. 99–514, title I, §104(b)(15), title XIII, §§1301(j)(8), 1303(b)(4), title XV, §1581(b), Oct. 22, 1986, 100 Stat. 2106, 2658, 2766; Pub. L. 100–203, title X, §10302(a), Dec. 22, 1987, 101 Stat. 1330–429; Pub. L. 100–647, title I, §1003(a)(2), Nov. 10, 1988, 102 Stat. 3382; Pub. L. 101–508, title XI, §11801(a)(41), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 102–318, title V, §522(b)(2)(D), July 3, 1992, 106 Stat. 314; Pub. L. 102–486, title XIX, §§1934(a), 1942(a), Oct. 24, 1992, 106 Stat. 3031, 3036; Pub. L. 103–465, title VII, §§701(a), 702(a), Dec. 8, 1994, 108 Stat. 4995, 4996; Pub. L. 107–16, title I, §101(c)(6)–(9), June 7, 2001, 115 Stat. 43, 44; Pub. L. 109–222, title V, §511(a), May 17, 2006, 120 Stat. 364; Pub. L. 112–56, title I, §102(a), Nov. 21, 2011, 125 Stat. 712; Pub. L. 115–97, title I, §§11011(b)(4), 11041(c)(1), (2)(B)–(E), 11051(b)(2)(B), 13603(b)(2), Dec. 22, 2017, 131 Stat. 2070, 2082–2084, 2089, 2163; Pub. L. 117–2, title IX, §9611(b)(3), Mar. 11, 2021, 135 Stat. 149.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -467,6 +469,8 @@ Section 4 of the Indian Gaming Regulatory Act, referred to in subsec. (r)(4), is
 The date of the enactment of this subsection, referred to in subsec. (r)(4), is the date of enactment of Pub. L. 103–465, which was approved Dec. 8, 1994.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (f)(1)(C). Pub. L. 117–2 substituted "section 24 (determined after application of subsection (j) thereof)" for "section 24(a)".
 
 <b>2017</b>—Subsec. (a)(2). Pub. L. 115–97, §11041(c)(1), substituted "means the amount by which the wages exceed the taxpayer's withholding allowance, prorated to the payroll period." for "means the amount by which the wages exceed the number of withholding exemptions claimed multiplied by the amount of one such exemption. The amount of each withholding exemption shall be equal to the amount of one personal exemption provided in section 151(b), prorated to the payroll period. The maximum number of withholding exemptions permitted shall be calculated in accordance with regulations prescribed by the Secretary under this section, taking into account any reduction in withholding to which an employee is entitled under this section."
 
@@ -570,7 +574,7 @@ Subsec. (r). Pub. L. 99–514, §1303(b)(4), struck out subsec. (r) which provid
 
 Subsec. (s). Pub. L. 97–248, §317(a), added subsec. (s).
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–34, §101(e)(1), revised subsec. (a) generally to provide for a 5-percent reduction in income tax withholding rates on Oct. 1, 1981, a further10-percent reduction on July 1, 1982, and a final 10-percent reduction on July 1, 1983.
+<b>1981</b>—Subsec. (a). Pub. L. 97–34, §101(e)(1), revised subsec. (a) generally to provide for a 5-percent reduction in income tax withholding rates on Oct. 1, 1981, a further 10-percent reduction on July 1, 1982, and a final 10-percent reduction on July 1, 1983.
 
 Subsec. (b)(1). Pub. L. 97–34, §101(e)(2)(A), redesignated par. (2) as (1). Former par. (1), which set out a table for determining amount of one withholding exemption for each of the various payroll periods, was struck out.
 
@@ -744,6 +748,12 @@ Subsec. (c)(1). Pub. L. 88–272, §302(b), substituted new tables reflecting lo
 
 Subsec. (j). Act Aug. 9, 1955, §2(b), added subsec. (j).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 117–2 applicable to taxable years beginning after Dec. 31, 2020, see section 9611(c)(1) of Pub. L. 117–2, set out as a note under section 24 of this title.
+
 #### Effective Date of 2017 Amendment
 
 Amendment by section 11011(b)(4) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11011(e) of Pub. L. 115–97, set out as a note under section 62 of this title.
@@ -870,7 +880,7 @@ Pub. L. 91–36, §2(b), June 30, 1969, 83 Stat. 42, provided that: "The amendme
 
 Pub. L. 89–368, title I, §101(e)(6), Mar. 15, 1966, 80 Stat. 62, provided that: "The amendments made by paragraphs (1) and (2) of this subsection \[amending this section\] shall apply only with respect to remuneration paid after December 31, 1966, but only with respect to withholding exemptions based on estimation years beginning after such date."
 
-Pub. L. 89–368, title I, §101(g), Mar. 15, 1966, 80 Stat. 62, provided that: "The amendments made by this section\(other than subsection (e) \[amending this section\]) shall apply only with respect to remuneration paid after April 30, 1966."
+Pub. L. 89–368, title I, §101(g), Mar. 15, 1966, 80 Stat. 62, provided that: "The amendments made by this section (other than subsection (e) \[amending this section\]) shall apply only with respect to remuneration paid after April 30, 1966."
 
 #### Effective Date of 1965 Amendments
 

@@ -16,7 +16,7 @@ In carrying out a program described in subsection (a), an entity receiving assis
 
 &emsp;(4) provide services to parents to support their role as parents (including parenting skills training and training in basic child development) and services to help the families move toward self-sufficiency (including educational and employment services, as appropriate);
 
-&emsp;(5) coordinate services with services provided by programs in the State (including home-based services) and programs in the community (including programs for infantsand toddlers with disabilities and programs for homeless infants and toddlers) to ensure a comprehensive array of services (such as health and mental health services and family support services);
+&emsp;(5) coordinate services with services provided by programs in the State (including home-based services) and programs in the community (including programs for infants and toddlers with disabilities and programs for homeless infants and toddlers) to ensure a comprehensive array of services (such as health and mental health services and family support services);
 
 &emsp;(6) ensure that children with documented behavioral problems, including problems involving behavior related to prior or existing trauma, receive appropriate screening and referral;
 
@@ -136,7 +136,9 @@ The Secretary shall—
 
 &emsp;&emsp;(G) the relationship of health and well-being of pregnant women to prenatal and early child development.
 
-(Pub. L. 97–35, title VI, §645A, as added Pub. L. 103–252, title I, §112(a), May 18, 1994, 108 Stat. 638; amended Pub. L. 105–285, title I, §113, Oct. 27, 1998, 112 Stat. 2719; Pub. L. 110–134, §15, Dec. 12, 2007, 121 Stat. 1418.)
+(Pub. L. 97–35, title VI, §645A, as added Pub. L. 103–252, title I, §112(a), May 18, 1994, 108 Stat. 638; amended Pub. L. 105–285, title I, §113, Oct. 27,1998, 112 Stat. 2719; Pub. L. 110–134, §15, Dec. 12, 2007, 121 Stat. 1418.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -207,6 +209,8 @@ Pub. L. 105–285, §113(6), (7), redesignated subsec. (f) as (e) and struck out
 Subsecs. (f), (g). Pub. L. 105–285, §113(7), (10), added subsec. (g) and redesignated former subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
 Subsec. (h). Pub. L. 105–285, §113(9), struck out heading and text of subsec. (h) which related to Secretarial responsibilities.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

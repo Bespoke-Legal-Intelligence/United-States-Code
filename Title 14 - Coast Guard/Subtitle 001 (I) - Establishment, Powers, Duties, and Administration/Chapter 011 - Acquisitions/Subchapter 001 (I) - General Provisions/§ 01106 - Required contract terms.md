@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Commandant shall ensure that a contract awarded or a delivery order or task order issued for an acquisition of a capability or an asset with an expected service life of10 or more years and with a total acquisition cost that is equal to or exceeds $10,000,000—
+In General.—The Commandant shall ensure that a contract awarded or a delivery order or task order issued for an acquisition of a capability or an asset with an expected service life of 10 or more years and with a total acquisition cost that is equal to or exceeds $10,000,000—
 
 &emsp;(1) provides that all certifications for an end-state capability or asset under such contract, delivery order, or task order, respectively, will be conducted by the Commandant or an independent third party, and that self-certification by a contractor or subcontractor is not allowed;
 

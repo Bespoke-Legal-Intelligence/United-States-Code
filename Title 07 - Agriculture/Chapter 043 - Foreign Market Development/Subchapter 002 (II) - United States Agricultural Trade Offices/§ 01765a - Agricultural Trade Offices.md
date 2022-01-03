@@ -6,7 +6,7 @@ For the purpose of developing, maintaining, and expanding international markets 
 
 #### (b) Administration
 
-each <sup>1</sup> United States Agricultural Trade Office shall be directed and administered by an Agricultural Trade Officer who by reason of training, experience, and attainments is qualified to carry out the purposes of this subchapter. Such Officershall be appointed by the Secretary of Agriculture.
+each <sup>1</sup> United States Agricultural Trade Office shall be directed and administered by an Agricultural Trade Officer who by reason of training, experience, and attainments is qualified to carry out the purposes of this subchapter. Such Officer shall be appointed by the Secretary of Agriculture.
 
 #### (c) Appointment and compensation of officers
 
@@ -34,9 +34,13 @@ Upon the request of the Secretary of Agriculture, the Secretary of State shall r
 
 (Aug. 28, 1954, ch. 1041, title VI, §605A, as added Pub. L. 95–501, title IV, §401(1), Oct. 21, 1978, 92 Stat. 1688; amended Pub. L. 96–465, title II, §2206(b)(1), Oct. 17, 1980, 94 Stat. 2162.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1980</b>—Subsec. (h). Pub. L. 96–465 substituted "members of the Foreign Service" for "Foreign Service Personnel".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

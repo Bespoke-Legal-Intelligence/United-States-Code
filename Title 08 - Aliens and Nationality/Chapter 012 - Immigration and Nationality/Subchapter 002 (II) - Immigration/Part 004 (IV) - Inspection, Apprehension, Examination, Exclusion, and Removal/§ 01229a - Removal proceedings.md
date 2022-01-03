@@ -8,7 +8,7 @@
 
 #### (2) Charges
 
-&emsp;An alien placed in proceedings under this section may be charged with any applicableground of inadmissibility under section 1182(a) of this title or any applicable ground of deportability under section 1227(a) of this title.
+&emsp;An alien placed in proceedings under this section may be charged with any applicable ground of inadmissibility under section 1182(a) of this title or any applicable ground of deportability under section 1227(a) of this title.
 
 #### (3) Exclusive procedures
 
@@ -224,7 +224,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(IV) if the alien is physically present in the United States at the time of filing the motion.
 
-&emsp;&emsp;&nbsp;The filing of a motion to reopen under this clause shall only stay the removal of a qualified alien (as defined in section 1641(c)(1)(B) of this title <sup>2</sup> pending the final disposition of the motion, including exhaustion of all appeals if the motion establishes that the alien is a qualified alien.
+&emsp;&emsp;&nbsp;The filing of a motion to reopen under this clause shall only stay the removal of a qualified alien (as defined in section1641(c)(1)(B) of this title <sup>2</sup> pending the final disposition of the motion, including exhaustion of all appeals if the motion establishes that the alien is a qualified alien.
 
 #### (d) Stipulated removal
 
@@ -294,7 +294,7 @@ Pub. L. 106–386, div. B, title V, §1506(c)(1)(B), Oct. 28, 2000, 114 Stat. 15
 
 Section effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
 
-Subsec. (c)(3)(B), (C) of this section applicable to proving convictions entered before, on, or after Sept.30, 1996, see section 322(c) of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
+Subsec. (c)(3)(B), (C) of this section applicable to proving convictions entered before, on, or after Sept. 30, 1996, see section 322(c) of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

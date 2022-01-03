@@ -18,7 +18,7 @@
 
 #### (3) Exclusion of property
 
-&emsp;At the request of the authorized representative of the Tennessee Valley Authority, the Secretary may exclude movable property from transfer based on a showing by the Tennessee Valley Authority that the property is vital tothe mission of the Tennessee Valley Authority and cannot be replaced in a cost-effective manner, if the Secretary determines that the property is not needed for management of the Recreation Area.
+&emsp;At the request of the authorized representative of the Tennessee Valley Authority, the Secretary may exclude movable property from transfer based on a showing by the Tennessee Valley Authority that the property is vital to the mission of the Tennessee Valley Authority and cannot be replaced in a cost-effective manner, if the Secretary determines that the property is not needed for management of the Recreation Area.
 
 #### (b) Designation
 
@@ -43,6 +43,8 @@ The Tennessee Valley Authority shall, to the maximum extent practicable, use cur
 &emsp;All net proceeds from the disposal of any property shall be deposited into the Fund established by section 460lll–31 of this title.
 
 (Pub. L. 105–277, div. A, §101(e) \[title V, §545\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–319.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

@@ -18,6 +18,8 @@ Name of Program.—The programs authorized under this chapter shall be known as 
 
 (Added Pub. L. 106–398, §1 \[\[div. A\], title IX, §922(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–233; amended Pub. L. 115–91, div. A, title XVI, §1649(a), (d)(1)(B), Dec. 12, 2017, 131 Stat. 1752.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Subsec. (a). Pub. L. 115–91, §1649(d)(1)(B)(i), substituted "the cyber requirements of the Department of Defense" for "Department of Defense information assurance requirements".
@@ -25,6 +27,8 @@ Name of Program.—The programs authorized under this chapter shall be known as 
 Subsec. (b)(1). Pub. L. 115–91, §1649(d)(1)(B)(ii), substituted "cyber disciplines" for "information assurance".
 
 Subsec. (c). Pub. L. 115–91, §1649(a), added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -88,5 +92,5 @@ Report to Congress.—Not later than September 30, 2021, the Secretary of Defens
 
 #### Report
 
-Pub. L. 106–398, §1 \[\[div. A\], title IX, §922(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–236, directed the Secretary ofDefense to submit to committees of Congress a plan for implementing the programs under this chapter not later than Apr. 1, 2001.
+Pub. L. 106–398, §1 \[\[div. A\], title IX, §922(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–236, directed the Secretary of Defense to submit to committees of Congress a plan for implementing the programs under this chapter not later than Apr. 1, 2001.
 

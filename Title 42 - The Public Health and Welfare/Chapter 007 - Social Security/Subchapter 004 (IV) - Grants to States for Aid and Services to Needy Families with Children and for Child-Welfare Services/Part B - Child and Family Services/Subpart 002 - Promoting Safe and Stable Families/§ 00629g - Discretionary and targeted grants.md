@@ -128,7 +128,7 @@ The rules of subsections (b) and (c) of section 629d of this title shall apply i
 
 #### (D) Limitation on payment for a fiscal year
 
-&emsp;&emsp;No payment shall be made under subparagraph (A) or (C) for a fiscal year until theSecretary determines that the eligible partnership has made sufficient progress in meeting the goals of the grant and that the members of the eligible partnership are coordinating to a reasonable degree with the other members of the eligible partnership.
+&emsp;&emsp;No payment shall be made under subparagraph (A) or (C) for a fiscal year until the Secretary determines that the eligible partnership has made sufficient progress in meeting the goals of the grant and that the members of the eligible partnership are coordinating to a reasonable degree with the other members of the eligible partnership.
 
 #### (4) Application requirements
 
@@ -228,7 +228,7 @@ The rules of subsections (b) and (c) of section 629d of this title shall apply i
 
 #### (i) Semiannual reports
 
-&emsp;&emsp;&emsp;Not later than September 30 of each fiscal year in which a recipient of a grant under this subsection is paid funds under the grant, and every 6 months thereafter, the grant recipient shall submit to the Secretary a report on the services provided and activities carried out during the reporting period, progress made in achieving the goals of the program, the number of children, adults, and families receiving services, and such additional information as the Secretary determines is necessary. The report due not later than September 30 of the last such fiscal year shall include, at a minimum, data on each of the performance indicators included in the evaluation of the regional partnership.
+&emsp;&emsp;&emsp;Not later than September 30 of each fiscal year in which a recipient of a grant under this subsection is paid funds under the grant, and every 6 months thereafter, the grant recipient shall submit to the Secretary a report on the services providedand activities carried out during the reporting period, progress made in achieving the goals of the program, the number of children, adults, and families receiving services, and such additional information as the Secretary determines is necessary. The report due not later than September 30 of the last such fiscal year shall include, at a minimum, data on each of the performance indicators included in the evaluation of the regional partnership.
 
 #### (ii) Incorporation of information related to performance indicators
 
@@ -296,7 +296,7 @@ The rules of subsections (b) and (c) of section 629d of this title shall apply i
 
 #### (6) Data integration
 
-&emsp;The Secretary, in consultation with the Secretariat for the Interstate Compact on the Placement of Children and the States, shall assess how the electronic interstate case-processing system developed pursuant to paragraph (4) could be used to better serve and protect children that come to the attention of the child welfare system, by—
+&emsp;The Secretary, in consultation with the Secretariat for the Interstate Compact on the Placement of Children and the States, shallassess how the electronic interstate case-processing system developed pursuant to paragraph (4) could be used to better serve and protect children that come to the attention of the child welfare system, by—
 
 &emsp;&emsp;(A) connecting the system with other data systems (such as systems operated by State law enforcement and judicial agencies, systems operated by the Federal Bureau of Investigation for the purposes of the Innocence Lost National Initiative, and other systems);
 
@@ -305,6 +305,8 @@ The rules of subsections (b) and (c) of section 629d of this title shall apply i
 &emsp;&emsp;(C) improving the ability of States to quickly comply with background check requirements of section 671(a)(20) of this title, including checks of child abuse and neglect registries as required by section 671(a)(20)(B) of this title.
 
 (Aug. 14, 1935, ch. 531, title IV, §437, as added Pub. L. 107–133, title I, §106(b), Jan. 17, 2002, 115 Stat. 2417; amended Pub. L. 109–288, §§3(b), 4(b)(2), 5(a)(2), (b)(2), 6(f)(5), Sept. 28, 2006, 120 Stat. 1234, 1238, 1242, 1243, 1247; Pub. L. 110–234, title IV, §4002(b)(1)(D), (2)(V), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(D), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 112–34, title I, §§102(a)(2), 103(c)(1), (2), Sept. 30, 2011, 125 Stat. 371, 373; Pub. L. 115–123, div. E, title VII, §§50722(c), (d), 50723, 50752(b)(2), Feb. 9, 2018, 132 Stat. 246–248, 263.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -428,6 +430,8 @@ Subsec. (e). Pub. L. 109–288, §4(b)(2)(B)(ii), substituted "subsection (a)" f
 
 Subsec. (f). Pub. L. 109–288, §4(b)(2)(A), added subsec. (f).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by sections 50722(c), (d) and 50723 of Pub. L. 115–123 effective Oct. 1, 2018, subject to transition rules for required State legislation or tribal action, see section 50734 of Pub. L. 115–123, set out as a note under section 622 of this title.
@@ -444,7 +448,7 @@ Amendment by section 4002(b)(1)(D), (2)(V) of Pub. L. 110–246 effective Oct. 1
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–288 effective Oct. 1, 2006, and applicable to payments under this part and part Eof this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 12(a), (b) of Pub. L. 109–288, set out as a note under section 621 of this title.
+Amendment by Pub. L. 109–288 effective Oct. 1, 2006, and applicable to payments under this part and part E of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 12(a), (b) of Pub. L. 109–288, set out as a note under section 621 of this title.
 
 #### Effective Date
 

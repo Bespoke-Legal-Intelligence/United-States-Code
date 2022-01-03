@@ -32,7 +32,7 @@ In connection with examinations under this section, the Director shall have the 
 
 #### (1) Applicability
 
-&emsp;This section shall apply with respect to any position of examiner, accountant, economist, and specialist in financial markets and in technology at the Agency, with respect to supervision and regulation of the regulated entities, that is in the competitive service.
+&emsp;This section shall apply with respect to any position of examiner, accountant, economist,and specialist in financial markets and in technology at the Agency, with respect to supervision and regulation of the regulated entities, that is in the competitive service.
 
 #### (2) Appointment authority
 

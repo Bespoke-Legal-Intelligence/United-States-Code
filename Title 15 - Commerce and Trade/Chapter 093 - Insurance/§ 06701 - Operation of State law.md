@@ -6,7 +6,7 @@ The Act entitled "An Act to express the intent of Congress with reference to the
 
 #### (b) Mandatory insurance licensing requirements
 
-No person shall engage in the business of insurance in a State as principal or agent unlesssuch person is licensed as required by the appropriate insurance regulator of such State in accordance with the relevant State insurance law, subject to subsections (c), (d), and (e).
+No person shall engage in the business of insurance in a State as principal or agent unless such person is licensed as required by the appropriate insurance regulator of such State in accordance with the relevant State insurance law, subject to subsections (c), (d), and (e).
 
 #### (c) Affiliations
 
@@ -28,7 +28,7 @@ No person shall engage in the business of insurance in a State as principal or a
 
 &emsp;&emsp;(B) any State from requiring any person that is acquiring control of an insurer domiciled in that State to maintain or restore the capital requirements of that insurer to the level required under the capital regulations of general applicability in that State to avoid the requirement of preparing and filing with the insurance regulatory authority of that State a plan to increase the capital of the insurer, except that any determination by the State insurance regulatory authority with respect to such requirement shall be made not later than 60 days after the date of notification under subparagraph (A); or
 
-&emsp;&emsp;(C) any State from restricting a change in the ownership of stock in an insurer, or a company formed for the purpose of controlling such insurer, after the conversion of the insurer from mutual to stock form so long as such restriction does not have the effect of discriminating, intentionally or unintentionally, against a depository institution or an affiliate thereof, or against any other person based upon an association of such person with a depository institution.
+&emsp;&emsp;(C) any State from restricting a change in the ownership of stock in an insurer, or a company formed for the purpose of controlling such insurer, after the conversion of the insurer from mutual to stock form so long as such restriction does not have the effect of discriminating, intentionally or unintentionally, against a depository institution or an affiliate thereof, or against any otherperson based upon an association of such person with a depository institution.
 
 #### (d) Activities
 
@@ -90,7 +90,7 @@ No person shall engage in the business of insurance in a State as principal or a
 
 &emsp;&emsp;&emsp;(xii) Restrictions prohibiting, when a customer obtains insurance (other than credit insurance or flood insurance) and credit from a depository institution or an affiliate of such institution, or any person soliciting the purchase of or selling insurance on the premises thereof, inclusion of the expense of insurance premiums in the primary credit transaction without the express written consent of the customer.
 
-&emsp;&emsp;&emsp;(xiii) Restrictions requiring maintenance of separate and distinct books and records relating to insurance transactions, including all files relating to and reflecting consumer complaints, and requiring that suchinsurance books and records be made available to the appropriate State insurance regulator for inspection upon reasonable notice.
+&emsp;&emsp;&emsp;(xiii) Restrictions requiring maintenance of separate and distinct books and records relating to insurance transactions, including all files relating to and reflecting consumer complaints, and requiring that such insurance books and records be made available to the appropriate State insurance regulator for inspection upon reasonable notice.
 
 #### (C) Limitations
 
@@ -196,6 +196,8 @@ For purposes of this section, the following definitions shall apply:
 
 (Pub. L. 106–102, title I, §104, Nov. 12, 1999, 113 Stat. 1352.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The McCarran-Ferguson Act, referred to in subsecs. (a) and (d)(3)(A), is act Mar. 9, 1945, ch. 20, 59 Stat. 33, which is classified generally to chapter 20 (§1011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1011 of this title and Tables.
@@ -203,6 +205,8 @@ The McCarran-Ferguson Act, referred to in subsecs. (a) and (d)(3)(A), is act Mar
 This Act, referred to in subsecs. (c)(1), (d)(1), (4)(D)(iii), (iv), (e), and (f)(2), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338, known as the Gramm-Leach-Bliley Act. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
 
 Section 106 of the Bank Holding Company Act Amendments of 1970, referred to in subsec. (d)(2)(B)(viii)(I), is Pub. L. 91–607, title I, §106, Dec. 31, 1970, 84 Stat. 1766, as amended, which is classified generally to chapter 22 (§1971 et seq.) of Title 12, Banks and Banking.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2019 Amendment
 
@@ -474,7 +478,7 @@ In general.—There is established in the Department of the Treasury the Terrori
 
 &emsp;"(2)
 
-Authority of the secretary.—Notwithstanding any other provision of State or Federal law,the Secretary shall administer the Program, and shall pay the Federal share of compensation for insured losses in accordance with subsection (e).
+Authority of the secretary.—Notwithstanding any other provision of State or Federal law, the Secretary shall administer the Program, and shall pay the Federal share of compensation for insured losses in accordance with subsection (e).
 
 &emsp;"(3)
 
@@ -762,7 +766,7 @@ Group Life Insurance Study.—
 
 &emsp;"(1)
 
-Study.—The Secretary shall study, on an expedited basis, whether adequate and affordable catastrophe reinsurance for acts of terrorism is available to life insurers in the United States that issue group life insurance, and the extent to which the threat of terrorism is reducing the availability of group life insurance coverage for consumers in the United States.
+Study.—The Secretary shall study, on an expedited basis, whether adequate and affordable catastrophe reinsurance for acts of terrorism is available to life insurers in the United States that issue group life insurance, and the extent to which the threat ofterrorism is reducing the availability of group life insurance coverage for consumers in the United States.
 
 &emsp;"(2)
 
@@ -838,7 +842,7 @@ Amount.—The amount under this paragraph is the greater of $1,000,000 and, in t
 
 &emsp;"(3)
 
-Recovery of amount in dispute.—A penalty under this subsection for any failure to pay, charge,collect, or remit amounts in accordance with this title or the regulations under this title shall be in addition to any such amounts recovered by the Secretary.
+Recovery of amount in dispute.—A penalty under this subsection for any failure to pay, charge, collect, or remit amounts in accordance with this title or the regulations under this title shall be in addition to any such amounts recovered by the Secretary.
 
 "(f)
 
@@ -1143,6 +1147,8 @@ Report.—The Secretary shall submit a report to the Congress setting forth the 
 \[Pub. L. 114–1, title I, §§103, 105, 111, 112, Jan. 12, 2015, 129 Stat. 4, 5, 10, 12, which directed amendment of "subparagraph (B) of section 103(e)(1)", "paragraph (1)(A) of section 102", "section 104", and "section 108", respectively, without specifying the name of the Act being amended, were executed to those sections of the Terrorism Risk Insurance Act of 2002 (title I of Pub. L. 107–297, set out above), to reflect the probable intent of Congress.\]
 
 \[Pub. L. 110–160, §4(b)(2), Dec. 26, 2007, 121 Stat. 1840, which directed amendment of section 103(e)(3) of Pub. L. 107–297, set out above, by substituting period for " 'and the Congress shall' and all that follows through the end of the paragraph", was executed by substituting period for "and the Congress shall" and all that followed through end of first sentence, to reflect the probable intent of Congress, in light of insertion of last sentence of par. (3) by Pub. L. 110–160, §4(b)(1).\]
+
+#### <b>Executive Documents</b>
 
 #### Termination of Trust Territory of the Pacific Islands
 

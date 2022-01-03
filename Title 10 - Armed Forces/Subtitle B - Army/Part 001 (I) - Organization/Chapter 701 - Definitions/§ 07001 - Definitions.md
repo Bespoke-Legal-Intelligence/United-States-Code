@@ -22,11 +22,15 @@ June 28, 1950, ch. 383, §2(a), 64 Stat. 263.
 
 The words "Army of the United States" and "are synonymous and" are omitted as surplusage, since the term "Army" is used throughout the revised title. 5:181–3(a) (last sentence) and 10:1a(a) (last sentence) are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 3001 of this title as this section.
 
 <b>1987</b>—Pub. L. 100–26 inserted "the term" after "In this title,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

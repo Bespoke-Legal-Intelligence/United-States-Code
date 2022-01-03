@@ -14,13 +14,15 @@ The Secretary may enter into such contracts, leases, cooperative agreements, or 
 
 #### (d) Annual review; suspension of program
 
-The Secretary shall review annually the operation of each program in which the United States participates involving the taking of marine mammals on lands. If at any time the Secretary finds that any such program cannot be administered on lands owned by the United States or in which the United States has an interest in a manner consistent with the purposes of <sup>1</sup> policies of this chapter, he shall suspend the operation of that program and shall include in the annual report to the public and the Congress required under section 1373(f) of this title his reasons for such suspension, together with recommendations for such legislation as he deemsnecessary and appropriate to resolve the problem.
+The Secretary shall review annually the operation of each program in which the United States participates involving the taking of marine mammals on lands. If at any time the Secretary finds that any such program cannot be administered on lands owned by the United States or in which the United States has an interest in a manner consistent with the purposes of <sup>1</sup> policies of this chapter, he shall suspend the operation of that program and shall include in the annual report to the public and the Congress required under section 1373(f) of this title his reasons for such suspension, together with recommendations for such legislation as he deems necessary and appropriate to resolve the problem.
 
 #### (e) Measures to alleviate impacts on strategic stocks
 
 If the Secretary determines, based on a stock assessment under section 1386 of this title or other significant new information obtained under this chapter, that impacts on rookeries, mating grounds, or other areas of similar ecological significance to marine mammals may be causing the decline or impeding the recovery of a strategic stock, the Secretary may develop and implement conservation or management measures to alleviate those impacts. Such measures shall be developed and implemented after consultation with the Marine Mammal Commission and the appropriate Federal agencies and after notice and opportunity for public comment.
 
 (Pub. L. 92–522, title I, §112, Oct. 21, 1972, 86 Stat. 1042; Pub. L. 96–470, title II, §201(e), Oct. 19, 1980, 94 Stat. 2241; Pub. L. 102–587, title III, §3004(a)(3), Nov. 4, 1992, 106 Stat. 5067; Pub. L. 103–238, §§7(a), 24(c)(11), Apr. 30, 1994, 108 Stat. 542, 566.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -31,6 +33,8 @@ Subsec. (e). Pub. L. 103–238, §7(a), added subsec. (e).
 <b>1992</b>—Subsec. (c). Pub. L. 102–587 inserted "or subchapter V" after "of this subchapter".
 
 <b>1980</b>—Subsec. (d). Pub. L. 96–470 substituted "include in the annual report to the public and the Congress required under section 1373(f) of this title" for "forthwith submit to Congress".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

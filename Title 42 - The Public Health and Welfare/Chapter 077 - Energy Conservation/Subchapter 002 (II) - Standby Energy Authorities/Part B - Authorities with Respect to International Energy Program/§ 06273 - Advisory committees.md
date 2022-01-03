@@ -2,11 +2,11 @@
 
 #### (a) Authority of Secretary to establish; applicability of section 17 of Federal Energy Administration Act of 1974; chairman; inclusion of representatives of public; public meetings; notice of meeting to Attorney General and Federal Trade Commission; attendance and participation of their representatives
 
-To achieve the purposes of the international energy program with respect to international allocation of petroleum products and the information system provided in such program, the Secretary may provide for the establishment of such advisory committees as he determines are necessary. In addition to the requirements specified in this section, such advisory committees shall be subject to the provisions of section 17 of the Federal Energy Administration Act of 1974 \[15 U.S.C. 776\] (whether or not such Act \[15 U.S.C. 761 et seq.\] or any of its provisions expire or terminate before June 30, 1985); shall be chaired by a regular full-time Federal employee; and shall include representatives of the public. The meetings of such committees shall be open to the public. The Attorney General and the Federal Trade Commission shall have adequate advance notice of any meeting and may have an official representative attend and participate in any such meeting.
+To achieve the purposes of the international energy program with respect to international allocation of petroleum products and the information system provided in such program, the Secretary may provide for the establishment of such advisory committees as he determines are necessary. In addition to the requirements specified in this section, such advisory committees shall be subject to the provisions of section 17 of the Federal Energy Administration Act of 1974 \[15 U.S.C. 776\] (whether or not such Act \[15 U.S.C. 761 et seq.\] or any of its provisions expire or terminate before June 30, 1985); shall be chaired by a regular full-time Federal employee; and shall include representatives of the public. The meetings of such committees shall be opento the public. The Attorney General and the Federal Trade Commission shall have adequate advance notice of any meeting and may have an official representative attend and participate in any such meeting.
 
 #### (b) Transcript of meetings
 
-A verbatim transcript shall be kept of such advisory committee meetings, and shall be deposited with the Attorney General and the Federal Trade Commission. Such transcript shall bemade available for public inspection and copying in accordance with section 552 of title 5, except that matter may not be withheld from disclosure under section 552(b) of such title on grounds other than the grounds specified in section 552(b)(1), (b)(3), and so much of (b)(4) as relates to trade secrets, or pursuant to a determination under subsection (c).
+A verbatim transcript shall be kept of such advisory committee meetings, and shall be deposited with the Attorney General and the Federal Trade Commission. Such transcript shall be made available for public inspection and copying in accordance with section 552 of title 5, except that matter may not be withheld from disclosure under section 552(b) of such title on grounds other than the grounds specified in section 552(b)(1), (b)(3), and so much of (b)(4) as relates to trade secrets, or pursuant to a determination under subsection (c).
 
 #### (c) Suspension of application of certain requirements by President
 
@@ -24,6 +24,8 @@ The President, after consultation with the Secretary of State, the Federal Trade
 
 (Pub. L. 94–163, title II, §253, Dec. 22, 1975, 89 Stat. 898; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Energy Administration Act of 1974, referred to in subsec. (a), is Pub. L. 93–275, May 7, 1974, 88 Stat. 96, as amended, which is classified generally to chapter 16B (§761 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 761 of Title 15 and Tables.
@@ -36,13 +38,17 @@ Section 17 of the Federal Energy Administration Act of 1974, referred to in subs
 
 <b>1978</b>—Subsecs. (a), (c). Pub. L. 95–619 substituted "Secretary" for "Administrator", meaning Administrator of the Federal Energy Administration.
 
-#### Classification of Certain Information and Material
-
-For provisions relating to the classification of certain information and material obtained from advisory bodies created to implement the International Energy Program, see Ex. Ord. No. 11932, eff. Aug. 4, 1976, 41 F.R. 32691, set out as a note under section 3161 of Title 50, War and National Defense.
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Advisory Committees
 
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment unless in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the end of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### <b>Executive Documents</b>
+
+#### Classification of Certain Information and Material
+
+For provisions relating to the classification of certain information and material obtained from advisory bodies created to implement the International Energy Program, see Ex. Ord. No. 11932, eff. Aug. 4, 1976, 41 F.R. 32691, set out as a note under section 3161 of Title 50, War and National Defense.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

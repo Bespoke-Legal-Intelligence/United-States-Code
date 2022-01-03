@@ -22,7 +22,7 @@ Upon approving any application under this section with respect to any project fo
 
 #### (c) Information and assurances
 
-The Secretary may provide such funds as the Secretary deems necessary for the planning of any project for which construction funds may be obtained under this section. An applicant for a planning grant shall provide such information with respect to such project as the Secretary may require and shall provide assurances satisfactory to the Secretary that the applicant meets the eligible requirements of subsection (a) to receive construction assistance.
+The Secretary may provide such funds as the Secretary deems necessary for the planning of any project for which construction funds may be obtained under this section. An applicant for a planning grant shall provide such informationwith respect to such project as the Secretary may require and shall provide assurances satisfactory to the Secretary that the applicant meets the eligible requirements of subsection (a) to receive construction assistance.
 
 #### (d) Studies
 
@@ -64,7 +64,7 @@ The Secretary and the Comptroller General of the United States, or any of their 
 
 Subsec. (g)(2). Pub. L. 97–35, §1223(b), substituted "primarily" for "only", and provisions relating to interference of uses of facilities for provisions relating to good cause for release of applicant or owner from requirements.
 
-<b>1978</b>—Pub. L. 95–567 completely revised and restructured existing provisions, inserting provisions requiring applicant to submit a 5 year plan, allowing nonprofit educational or cultural groups to apply for grants, authorizing the Secretary to make grants up to 75 percent of the cost, establishing rules and regulations for approving grants and administering grants made before, on or after Nov. 2, 1978, and striking outprovisions for an 8½ percent limit on grants and criteria for awarding grants.
+<b>1978</b>—Pub. L. 95–567 completely revised and restructured existing provisions, inserting provisions requiring applicant to submit a 5 year plan, allowing nonprofit educational or cultural groups to apply for grants, authorizing the Secretary to make grants up to 75 percent of the cost, establishing rules and regulations for approving grants and administering grants made before, on or after Nov. 2, 1978, and striking out provisions for an 8½ percent limit on grants and criteria for awarding grants.
 
 <b>1976</b>—Subsec. (a)(1)(C). Pub. L. 94–309, §4(a), substituted "a public or private nonprofit college or university or other educational or cultural institution which is affiliated with an eligible college or university" for "a college or university deriving its support in whole or in part from tax revenues".
 
@@ -72,7 +72,7 @@ Subsec. (d). Pub. L. 94–309, §4(b), substituted separate provisions relating 
 
 <b>1967</b>—Subsec. (a). Pub. L. 90–129, §103(b)(1), inserted "noncommercial" and "or radio" in introductory text.
 
-Subsec. (a)(1)(B). Pub. L. 90–129, §103(b)(2), required the State educational television agency applicant for a television facilities project to be a noncommercial agency and inserted requirement that applicant for a radio facilities project be a State educational radio agency.
+Subsec. (a)(1)(B). Pub. L. 90–129, §103(b)(2), required the State educational television agency applicant for atelevision facilities project to be a noncommercial agency and inserted requirement that applicant for a radio facilities project be a State educational radio agency.
 
 Subsec. (a)(1)(D). Pub. L. 90–129, §103(b)(3), designated existing provisions as cl. (i), made such cl. (i) applicable to television facilities projects and noncommercial television, and added cl. (ii) and provision for applicant meeting both television and radio broadcasting requirements.
 

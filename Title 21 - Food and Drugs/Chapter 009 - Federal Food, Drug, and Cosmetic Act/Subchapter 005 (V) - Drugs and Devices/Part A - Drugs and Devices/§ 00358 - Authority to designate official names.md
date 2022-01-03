@@ -30,7 +30,7 @@ Upon a request in writing by any compiler of an official compendium that the Sec
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–295 substituted "drug or device" for "drug" wherever appearing.
 
-Subsec. (b). Pub. L. 94–295 substituted "National Formulary, and all supplements thereto, and at such times as he may deem necessary shall cause a review to be made of the official names by which devices are identified in any official compendium (and all supplements thereto)" for "National Formulary, and all supplements thereto,".
+Subsec. (b). Pub. L. 94–295 substituted "National Formulary, and all supplements thereto, and at such times as he may deem necessary shall cause a review to bemade of the official names by which devices are identified in any official compendium (and all supplements thereto)" for "National Formulary, and all supplements thereto,".
 
 Subsec. (c)(2). Pub. L. 94–295 inserted "or device" after "single drug", and "or to two or more devices which are substantially equivalent in design and purpose" after "purity,".
 

@@ -24,7 +24,7 @@ Joinder of Federal Law Claims and State Law Claims.—(1) If a civil action incl
 
 (d)
 
-Actions Against Foreign States.—Any civil action brought in a State court against a foreign state as defined in section 1603(a) of this title may be removed by the foreign state to the district court of the United States for the district and division embracing the place where such action is pending. Upon removal the action shall be tried by the court without jury. Where removal is based upon this subsection, the timelimitations of section 1446(b) of this chapter may be enlarged at any time for cause shown.
+Actions Against Foreign States.—Any civil action brought in a State court against a foreign state as defined in section 1603(a) of this title may be removed by the foreign state to the district court of the United States for the district and division embracing the place where such action is pending. Upon removal the action shall be tried by the court without jury. Where removal is based upon this subsection, the time limitations of section 1446(b) of this chapter may be enlarged at any time for cause shown.
 
 (e)
 
@@ -72,7 +72,7 @@ Subsection (c) permits the removal of a separate cause of action but not of a se
 
 Rules 18, 20, and 23 of the Federal Rules of Civil Procedure permit the most liberal joinder of parties, claims, and remedies in civil actions. Therefore there will be no procedural difficulty occasioned by the removal of the entire action. Conversely, if the court so desires, it may remand to the State court all nonremovable matters.
 
-The provisions of section 71 of title 28, U.S.C., 1940 ed., with respect to removal of actions under the Federal Employer's Liability Act (U.S.C., 1940 ed., title 45,Railroads, §§51–60) and actions against a carrier for loss, damage, or delay to shipments under section 20 of title 49, U.S.C., 1940 ed., Transportation, are incorporated in section 1445 of this title.
+The provisions of section 71 of title 28, U.S.C., 1940 ed., with respect to removal of actions under the Federal Employer's Liability Act (U.S.C., 1940 ed., title 45, Railroads, §§51–60) and actions against a carrier for loss, damage, or delay to shipments under section 20 of title 49, U.S.C., 1940 ed., Transportation, are incorporated in section 1445 of this title.
 
 #### <b>Editorial Notes</b>
 

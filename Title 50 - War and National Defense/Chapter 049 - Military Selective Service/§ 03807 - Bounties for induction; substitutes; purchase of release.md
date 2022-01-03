@@ -1,12 +1,14 @@
 ### §3807. Bounties for induction; substitutes; purchase of release
 
-No bounty may be paid to induce any person to be inducted into an armed force. A clothing allowance authorized by law is not a bounty for the purposes of this section. No person liable for training and service under this Act may furnish a substitute for that training or service. No person may be enlisted, inducted, or appointed in an armed force as a substitute for another. No person liable for training and service under section 3803 of this title may escape that training and service or be discharged before the end of his period of training and service by paying money or any other valuable thing as consideration for his release from that training and service or liability therefor.
+No bounty may be paid to induce any person to be inducted into an armed force. A clothingallowance authorized by law is not a bounty for the purposes of this section. No person liable for training and service under this Act may furnish a substitute for that training or service. No person may be enlisted, inducted, or appointed in an armed force as a substitute for another. No person liable for training and service under section 3803 of this title may escape that training and service or be discharged before the end of his period of training and service by paying money or any other valuable thing as consideration for his release from that training and service or liability therefor.
 
 (June 24, 1948, ch. 625, title I, §8, 62 Stat. 614; Aug. 10, 1956, ch. 1041, §22(d), 70A Stat. 630.)
 
 #### Termination of Induction for Training and Service
 
 <i>For provisions relating to termination of induction for training and service in the Armed Forces after July 1, 1973, see section 3815(c) of this title.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

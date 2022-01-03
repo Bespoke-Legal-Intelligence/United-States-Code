@@ -20,7 +20,7 @@ Safety.—In carrying out the responsibilities under subsection (b), the Secreta
 
 Executive Agency Assistance.—When necessary, the head of an executive agency shall assist the Secretary in carrying out this chapter.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1332, §70103 of title 49; Pub. L. 105–303, title I, §102(a)(4), Oct. 28, 1998, 112 Stat. 2847; Pub. L. 108–492, §2(c)(1), (2), Dec. 23, 2004, 118 Stat. 3976; renumbered §70103 then §50903 of title 51, Pub. L. 111–314, §4(d)(2), (3)(C), Dec. 18, 2010, 124 Stat. 3440.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1332, §70103 of title 49; Pub. L. 105–303, title I,§102(a)(4), Oct. 28, 1998, 112 Stat. 2847; Pub. L. 108–492, §2(c)(1), (2), Dec. 23, 2004, 118 Stat. 3976; renumbered §70103 then §50903 of title 51, Pub. L. 111–314, §4(d)(2), (3)(C), Dec. 18, 2010, 124 Stat. 3440.)
 
 Historical and Revision Notes
 
@@ -128,7 +128,7 @@ Sec. 4. <i>Responsibilities of Other Agencies</i>. All executive departments and
 
 (c) establish timetables for the expeditious handling of and response to applications for licenses and approvals for commercial ELV activities.
 
-Sec. 5. The powers granted to the Secretary of Transportation to encourage, facilitate and coordinate the overall ELV commercialization process shall not diminish or abrogate any statutory or operational authority exercised by any other Federal agency.
+Sec. 5. The powers granted to the Secretary of Transportation to encourage, facilitate and coordinate theoverall ELV commercialization process shall not diminish or abrogate any statutory or operational authority exercised by any other Federal agency.
 
 Sec. 6. Nothing contained in this Order or in any procedures promulgated hereunder shall confer any substantive or procedural right or privilege on any person or organization, enforceable against the United States, its agencies, its officers or any person.
 

@@ -6,7 +6,7 @@ The responsible party for—
 
 &emsp;(1) any vessel over 300 gross tons (except a non-self-propelled vessel that does not carry oil as cargo or fuel) using any place subject to the jurisdiction of the United States;
 
-&emsp;(2) any vessel using the waters of the exclusive economic zone to transship or lighter oil destined for a place subject to the jurisdiction of the United States; or
+&emsp;(2) any vessel using the waters of the exclusive economic zone to transship or lighter oildestined for a place subject to the jurisdiction of the United States; or
 
 &emsp;(3) any tank vessel over 100 gross tons using any place subject to the jurisdiction of the United States;
 
@@ -40,7 +40,7 @@ The responsible party for—
 
 &emsp;&emsp;Except as provided in paragraph (2), a responsible party with respect to an offshore facility that—
 
-&emsp;&emsp;&emsp;(i)(I) is located seaward of the line of ordinary low water along that portion of the coast that is in direct contact with theopen sea and the line marking the seaward limit of inland waters; or
+&emsp;&emsp;&emsp;(i)(I) is located seaward of the line of ordinary low water along that portion of the coast that is in direct contact with the open sea and the line marking the seaward limit of inland waters; or
 
 &emsp;&emsp;&emsp;(II) is located in coastal inland waters, such as bays or estuaries, seaward of the line of ordinary low water along that portion of the coast that is not in direct contact with the open sea;
 
@@ -98,7 +98,7 @@ Financial responsibility under this section may be established by any one, or by
 
 &emsp;&emsp;(A) the responsible party for whom evidence of financial responsibility has been provided has denied or failed to pay a claim under this Act on the basis of being insolvent, as defined under section 101(32) of title 11, and applying generally accepted accounting principles;
 
-&emsp;&emsp;(B) the responsible party for whom evidence of financial responsibility has beenprovided has filed a petition for bankruptcy under title 11; or
+&emsp;&emsp;(B) the responsible party for whom evidence of financial responsibility has been provided has filed a petition for bankruptcy under title 11; or
 
 &emsp;&emsp;(C) the claim is asserted by the United States for removal costs and damages or for compensation paid by the Fund under this Act, including costs incurred by the Fund for processing compensation claims.
 

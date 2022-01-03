@@ -62,6 +62,8 @@ The Director shall transmit a report annually to Congress at the time of the Pre
 
 (Pub. L. 111–358, title I, §101, Jan. 4, 2011, 124 Stat. 3984; Pub. L. 114–329, title III, §304, Jan. 6, 2017, 130 Stat. 3006.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 303 of the American Innovation and Competitiveness Act, referred to in subsec. (b)(7), is section 303 of Pub. L. 114–329, which is set out as a note under this section.
@@ -79,6 +81,8 @@ Subsec. (c). Pub. L. 114–329, §304(b)(2), redesignated subsec. (b) relating t
 Subsec. (d). Pub. L. 114–329, §304(b)(1), redesignated subsec. (c) as (d) and substituted "Reports" for "Report" in heading.
 
 Subsec. (d)(6) to (8). Pub. L. 114–329, §304(b)(3), added pars. (6) to (8).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### STEM Education Advisory Panel
 
@@ -170,7 +174,7 @@ Travel Expenses of Non-Federal Members.—
 
 &emsp;"(1)
 
-In general.—Non-Federal members of the STEM Education Advisory Panel, while attending meetings of the panel or while otherwise serving at the request of a co-chairperson away from their homes or regular places of business, may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5, UnitedStates Code, for individuals in the Government serving without pay.
+In general.—Non-Federal members of the STEM Education Advisory Panel, while attending meetings of the panel or while otherwise serving at the request of a co-chairperson away from their homes or regular places of business, may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5, United States Code, for individuals in the Government serving without pay.
 
 &emsp;"(2)
 

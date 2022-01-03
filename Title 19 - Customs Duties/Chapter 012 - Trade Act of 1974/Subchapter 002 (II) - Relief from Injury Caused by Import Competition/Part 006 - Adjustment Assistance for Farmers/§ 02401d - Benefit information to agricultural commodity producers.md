@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall provide full information to agricultural commodity producers about the benefit allowances, training, and other employment services available under this subchapter and about the petition and application procedures, and the appropriate filing dates, for such allowances, training, and services. The Secretary shall provide whatever assistance is necessary to enable groups to prepare petitions or applications for program benefits under this subchapter.
+The Secretary shall provide full information to agricultural commodity producers about the benefit allowances, training, and other employment services available under this subchapter and about the petition and application procedures, and the appropriate filing dates, for suchallowances, training, and services. The Secretary shall provide whatever assistance is necessary to enable groups to prepare petitions or applications for program benefits under this subchapter.
 
 #### (b) Notice of benefits
 
@@ -19,6 +19,8 @@ The Secretary shall provide full information to agricultural commodity producers
 &emsp;The Secretary shall also provide information concerning procedures for applying for and receiving all other Federal assistance and services available to workers facing economic distress.
 
 (Pub. L. 93–618, title II, §295, as added Pub. L. 107–210, div. A, title I, §141(a), Aug. 6, 2002, 116 Stat. 949.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination Date
 

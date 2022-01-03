@@ -30,7 +30,7 @@ Except as otherwise provided in this section, a producer-packer shall be respons
 
 &emsp;(1) the assessment payable by the producer-packer under section 4606(e)(2)(A) of this title or, if approved in a referendum conducted under this chapter, under section 4606(e)(3)(A)(i) of this title on honey produced by the producer-packer;
 
-&emsp;(2) at the time of first purchase, the assessment payable by a producer under section 4606(e)(2)(A) of this title or, if approved in a referendum conducted under this chapter, under section 4606(e)(3)(A)(i) of this title on honey purchased by the producer-packer as a first handler; and
+&emsp;(2) at the time of first purchase, the assessment payable by a producer under section4606(e)(2)(A) of this title or, if approved in a referendum conducted under this chapter, under section 4606(e)(3)(A)(i) of this title on honey purchased by the producer-packer as a first handler; and
 
 &emsp;(3) if approved in a referendum conducted under this chapter, an additional assessment payable by the producer-packer under section 4606(e)(3)(A)(ii) of this title.
 
@@ -102,6 +102,8 @@ Administration and remittance of the assessments under this chapter shall be con
 
 (Pub. L. 98–590, §9, Oct. 30, 1984, 98 Stat. 3120; Pub. L. 101–624, title XIX, §1984(b), Nov. 28, 1990, 104 Stat. 3906; Pub. L. 102–237, title VIII, §807(1), Dec. 13, 1991, 105 Stat. 1883; Pub. L. 104–127, title V, §591, Apr. 4, 1996, 110 Stat. 1084; Pub. L. 105–185, title VI, §605(h), June 23, 1998, 112 Stat. 597.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Agricultural Act of 1949, referred to in subsec. (d), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
@@ -110,7 +112,7 @@ The Agricultural Act of 1949, referred to in subsec. (d), is act Oct. 31, 1949, 
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–185, §605(h)(1)(A), added subsec. (a) and struck out former subsec. (a) which read as follows: "Except as provided by subsections (c), (d), (e), and (i) of this section, the first handler of honey shall be responsible for the collection from the producer, and payment to the Honey Board, of assessments authorized by this chapter."
 
-Subsec. (c). Pub. L. 105–185, §605(h)(1)(B), added subsec. (c) and struck out former subsec. (c) which read as follows: "The assessment on imported honey and honey products shall be paid by the importer at the time of entry into the United States and shall be remitted to the Honey Board."
+Subsec. (c). Pub. L. 105–185, §605(h)(1)(B), added subsec. (c) and struck out former subsec. (c) which read asfollows: "The assessment on imported honey and honey products shall be paid by the importer at the time of entry into the United States and shall be remitted to the Honey Board."
 
 Subsec. (e). Pub. L. 105–185, §605(h)(1)(C), added subsec. (e) and struck out former subsec. (e) which read as follows: "Producer-packers shall pay to the Honey Board the assessment on the honey they produce."
 
@@ -143,6 +145,8 @@ Subsec. (f). Pub. L. 101–624, §1984(b)(3), inserted ", and persons receiving
 Subsec. (h). Pub. L. 101–624, §1984(b)(4), designated existing provisions as par. (1)(A); substituted "Except as otherwise provided in paragraph (2), any" for "Any", "an importer" for "to importers", and "from such importer" for "from importers"; added subpar. (B); and added par. (2).
 
 Subsec. (i). Pub. L. 101–624, §1984(b)(5), added subsec. (i).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

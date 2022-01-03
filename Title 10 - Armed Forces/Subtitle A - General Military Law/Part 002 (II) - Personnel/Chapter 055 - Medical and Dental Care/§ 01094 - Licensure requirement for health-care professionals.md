@@ -16,7 +16,7 @@
 
 (d)(1) Notwithstanding any law regarding the licensure of health care providers, a health-care professional described in paragraph (2) or (3) may practice the health profession or professions of the health-care professional at any location in any State, the District of Columbia, or a Commonwealth, territory, or possession of the United States, regardless of where such health-care professional or the patient are located, so long as the practice is within the scope of the authorized Federal duties.
 
-(2) A health-care professional referred to in paragraph (1) as being described in this paragraph is a member of the armed forces, civilian employee of the Department of Defense, personal services contractor under section 1091 of this title, or other health-care professional credentialed and privileged at a Federal health care institution or location specially designated by the Secretary for this purpose who—
+(2) A health-care professional referred to in paragraph (1) as being described in this paragraph is a member of the armed forces, civilian employee of the Department of Defense, personal services contractor under section 1091 of this title, or other health-care professionalcredentialed and privileged at a Federal health care institution or location specially designated by the Secretary for this purpose who—
 
 &emsp;(A) has a current license to practice medicine, osteopathic medicine, dentistry, or another health profession; and
 
@@ -39,6 +39,8 @@
 &emsp;(2) The term "health-care professional" means a physician, dentist, clinical psychologist, marriage and family therapist certified as such by a certification recognized by the Secretary of Defense, or nurse and any other person providing direct patient care as may be designated by the Secretary of Defense in regulations.
 
 (Added Pub. L. 99–145, title VI, §653(a)(1), Nov. 8, 1985, 99 Stat. 657; amended Pub. L. 99–661, div. A, title XIII, §1343(a)(5), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 101–189, div. A, title VI, §653(e)(1), title XVI, §1622(e)(3), Nov. 29, 1989, 103 Stat. 1463, 1605; Pub. L. 105–85, div. A, title VII, §737, Nov. 18, 1997, 111 Stat. 1814; Pub. L. 105–261, div. A, title VII, §734(a), Oct. 17, 1998, 112 Stat. 2072; Pub. L. 108–375, div. A, title VII, §717(b), Oct. 28, 2004, 118 Stat. 1986; Pub. L. 111–383, div. A, title VII, §713, Jan. 7, 2011, 124 Stat. 4247; Pub. L. 112–81, div. A, title VII, §713(a), Dec. 31, 2011, 125 Stat. 1476.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -66,9 +68,11 @@ Subsec. (d)(2). Pub. L. 101–189, §1622(e)(3)(B), substituted "The term 'healt
 
 <b>1986</b>—Subsec. (d)(2). Pub. L. 99–661 realigned margin of par. (2) to conform to margin of par. (1).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–261, div. A, title VII, §734(c)(1), Oct. 17, 1998, 112 Stat. 2073, provided that: "The amendmentmade by subsection (a) \[amending this section\] shall take effect on October 1, 1999."
+Pub. L. 105–261, div. A, title VII, §734(c)(1), Oct. 17, 1998, 112 Stat. 2073, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1999."
 
 #### Effective Date
 

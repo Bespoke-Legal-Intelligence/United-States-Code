@@ -2,7 +2,7 @@
 
 #### (a) Issuance; service; production of material; testimony
 
-Whenever the Attorney General, or the Assistant Attorney General in charge of the Antitrust Division of the Department of Justice, has reason to believe that any person may be in possession, custody, or control of any documentary material, or may have any information, relevant to a civil antitrust investigation or, with respect to the International Antitrust Enforcement Assistance Act of 1994 \[15 U.S.C. 6201 et seq.\], an investigation authorized by section 3 of such Act \[15 U.S.C. 6202\], he may, prior to the institution of a civil or criminal proceeding by the United States thereon, issue in writing, and cause to be served upon such person, a civil investigative demand requiring such person to produce such documentary material for inspection and copying or reproduction, to answer in writing written interrogatories, to give oral testimony concerning documentary material or information, or to furnish any combination of such material, answers, or testimony. Whenever a civil investigative demand is an express demand for any product of discovery, the Attorney General or the Assistant Attorney General in charge of the Antitrust Division shall cause to be served, in any manner authorized by this section, a copy of such demand upon the personfrom whom the discovery was obtained and notify the person to whom such demand is issued of the date on which such copy was served.
+Whenever the Attorney General, or the Assistant Attorney General in charge of the Antitrust Division of the Department of Justice, has reason to believe that any person may be in possession, custody, or control of any documentary material, or may have any information, relevant to a civil antitrust investigation or, with respect to the International Antitrust Enforcement Assistance Act of 1994 \[15 U.S.C. 6201 et seq.\], an investigation authorized by section 3 of such Act \[15 U.S.C. 6202\], he may, prior to the institution of a civil or criminal proceeding by the United States thereon, issue in writing, and cause to be served upon such person, a civil investigative demand requiring such person to produce such documentary material for inspection and copying or reproduction, to answer in writing written interrogatories, to give oral testimony concerning documentary material or information, or to furnish any combination of such material, answers, or testimony. Whenever a civil investigative demand is an express demand for any product of discovery, the Attorney General or the Assistant Attorney General in charge of the Antitrust Division shall cause to be served, in any manner authorized by this section, a copy of such demand upon the person from whom the discovery was obtained and notify the person to whom such demand is issued of the date on which such copy was served.
 
 #### (b) Contents; return date for demand for product of discovery
 
@@ -70,7 +70,7 @@ Each such demand shall—
 
 &emsp;(A) delivering a duly executed copy thereof to the person to be served; or
 
-&emsp;(B) depositing such copy in the United States mails by registered or certified mail,return receipt requested, duly addressed to such person at his residence or principal office or place of business.
+&emsp;(B) depositing such copy in the United States mails by registered or certified mail, return receipt requested, duly addressed to such person at his residence or principal office or place of business.
 
 #### (f) Proof of service
 
@@ -86,7 +86,7 @@ Each interrogatory in a demand served pursuant to this section shall be answered
 
 #### (i) Oral examinations
 
-(1) The examination of any person pursuant to a demand for oral testimony served under this section shall be taken before an officer authorized to administer oaths and affirmations by the laws of the United States or of the place where the examination is held. The officer before whom the testimony is to be taken shall put the witness on oath or affirmation and shall personally, or by someone acting under his direction and in his presence, record the testimony of the witness. The testimony shall be taken stenographically and transcribed. When the testimony is fully transcribed, the officer before whom the testimony is taken shall promptly transmit a copy of the transcript of the testimony to the custodian.
+(1) The examination of any person pursuant to a demand for oral testimony served under thissection shall be taken before an officer authorized to administer oaths and affirmations by the laws of the United States or of the place where the examination is held. The officer before whom the testimony is to be taken shall put the witness on oath or affirmation and shall personally, or by someone acting under his direction and in his presence, record the testimony of the witness. The testimony shall be taken stenographically and transcribed. When the testimony is fully transcribed, the officer before whom the testimony is taken shall promptly transmit a copy of the transcript of the testimony to the custodian.
 
 (2) The antitrust investigator or investigators conducting the examination shall exclude from the place where the examination is held all other persons except the person being examined, his counsel, the officer before whom the testimony is to be taken, and any stenographer taking such testimony. The provisions of section 30 <sup>2</sup> of this title shall not apply to such examinations.
 
@@ -105,6 +105,8 @@ Each interrogatory in a demand served pursuant to this section shall be answered
 (8) Any person appearing for oral examination pursuant to a demand served under this section shall be entitled to the same fees and mileage which are paid to witnesses in the district courts of the United States.
 
 (Pub. L. 87–664, §3, Sept. 19, 1962, 76 Stat. 548; Pub. L. 94–435, title I, §102, Sept. 30, 1976, 90 Stat. 1384; Pub. L. 96–349, §2(b)(1)–(3), Sept. 12, 1980, 94 Stat. 1154; Pub. L. 103–438, §3(e)(1)(B), Nov. 2, 1994, 108 Stat. 4598.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -135,6 +137,8 @@ Subsec. (d). Pub. L. 94–435 redesignated existing provisions as par. (1) and a
 Subsec. (e). Pub. L. 94–435 redesignated existing provisions as par. (1), inserted "return receipt requested" after "certified mail" in par. (C), and added par. (2).
 
 Subsecs. (g) to (i). Pub. L. 94–435 added subsecs. (g) to (i).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

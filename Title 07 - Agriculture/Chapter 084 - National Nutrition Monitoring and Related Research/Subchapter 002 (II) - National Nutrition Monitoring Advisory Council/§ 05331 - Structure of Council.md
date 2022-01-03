@@ -70,6 +70,8 @@ The Council shall terminate 10 years after the final comprehensive plan is prepa
 
 (Pub. L. 101–445, title II, §201, Oct. 22, 1990, 104 Stat. 1041.)
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 12747. National Nutrition Monitoring Advisory Council
 
 Ex. Ord. No. 12747, Jan. 25, 1991, 56 F.R. 3391, provided:
@@ -88,7 +90,7 @@ Sec. 2. <i>Membership</i>. (A) <i>Composition</i>. The Council shall consist of 
 
 (3) food production and distribution, including agriculture, biotechnology, food engineering, economics, consumer psychology or sociology, food-system management, or food assistance.
 
-(C) <i>Particular Representation Requirements</i>. The Council membership, at all times, shall include at least two representatives from each of the three areas of specialization listed in subsection (B), and shall have representatives from various geographic areas, the private sector, academia, scientific and professional societies, agriculture, minority organizations, and public interest organizations, and shall include a State or local government employee with a specialized interest in nutrition monitoring.
+(C) <i>Particular Representation Requirements</i>. The Council membership, at all times, shall include at least tworepresentatives from each of the three areas of specialization listed in subsection (B), and shall have representatives from various geographic areas, the private sector, academia, scientific and professional societies, agriculture, minority organizations, and public interest organizations, and shall include a State or local government employee with a specialized interest in nutrition monitoring.
 
 (D) <i>Chairperson</i>. The Chairperson of the Council shall be elected from and by the Council membership. The term of office shall not exceed 5 years. If a vacancy occurs in the Chairpersonship, the Council shall elect a member to fill such vacancy.
 

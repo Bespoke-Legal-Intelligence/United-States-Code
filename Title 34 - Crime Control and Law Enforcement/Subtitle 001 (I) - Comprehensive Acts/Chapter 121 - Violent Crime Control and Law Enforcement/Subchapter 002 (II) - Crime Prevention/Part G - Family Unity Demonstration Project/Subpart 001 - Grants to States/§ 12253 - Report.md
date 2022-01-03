@@ -8,7 +8,7 @@ A State that receives a grant under this subpart <sup>1</sup> shall, not later 
 
 A report under subsection (a) shall—
 
-&emsp;(1) state the number of prisoners who submitted applications to participate in the project and the number of prisoners who were placed in community correctional facilities;
+&emsp;(1) state the number of prisoners who submitted applications to participate in theproject and the number of prisoners who were placed in community correctional facilities;
 
 &emsp;(2) state, with respect to prisoners placed in the project, the number of prisoners who are returned to that jurisdiction and custody and the reasons for such return;
 

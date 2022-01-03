@@ -52,7 +52,7 @@
 
 #### (c) Amendment of application under subsection (b) to conform to requirements of subsection (a)
 
-At any time during examination of an application filed under subsection (b), an applicant whohas made use of the mark in commerce may claim the benefits of such use for purposes of this chapter, by amending his or her application to bring it into conformity with the requirements of subsection (a).
+At any time during examination of an application filed under subsection (b), an applicant who has made use of the mark in commerce mayclaim the benefits of such use for purposes of this chapter, by amending his or her application to bring it into conformity with the requirements of subsection (a).
 
 #### (d) Verified statement that trademark is used in commerce
 
@@ -68,21 +68,17 @@ At any time during examination of an application filed under subsection (b), an 
 
 If the applicant is not domiciled in the United States the applicant may designate, by a document filed in the United States Patent and Trademark Office, the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may be served upon the person so designated by leaving with that person or mailing to that person a copy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the address given in the last designation, or if the registrant does not designate by a document filed in the United States Patent and Trademark Office the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark, such notices or process may be served on the Director.
 
+#### (f) Third-party submission of evidence
+
+A third party may submit for consideration for inclusion in the record of an application evidence relevant to a ground for refusal of registration. The third-party submission shall identify the ground for refusal and include a concise description of each piece of evidence submitted in support of each identified ground for refusal. Not later than 2 months after the date on which the submission is filed, the Director shall determine whether the evidence should be included in the record of the application. The Director shall establish by regulation appropriate procedures for the consideration of evidence submitted by a third party under this subsection and may prescribe a fee to accompany the submission. If the Director determines that the third-party evidence should be included in the record of the application, only the evidence and the ground for refusal to which the evidence relates may be so included. Any determination by the Director whether or not to include evidence in the record of an application shall be final and non-reviewable, and a determination to include or to not include evidence in the record shall not prejudice any party's right to raise any issue and rely on any evidence in any other proceeding.
+
 (July 5, 1946, ch. 540, title I, §1, 60 Stat. 427; Pub. L. 87–772, §1, Oct. 9, 1962, 76 Stat. 769; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 100–667, title I, §103, Nov. 16, 1988, 102 Stat. 3935; Pub. L. 105–330, title I, §103, title II, §201(a)(1), Oct. 30, 1998, 112 Stat. 3064, 3069; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 107–273, div. C, title III, §13207(b)(1), (2), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 116–260, div. Q, title II, §223(a), Dec. 27, 2020, 134 Stat. 2201.)
 
-#### Amendment of Section
-
-<i>Pub. L. 116–260, div. Q, title II, §223(a), (c), Dec. 27, 2020, 134 Stat. 2201, provided that, effective 1 year after Dec. 27, 2020, this section is amended by adding at the end the following:</i>
-
-#### <i>"(f) Third-party submission of evidence</i>
-
-<i>"A third party may submit for consideration for inclusion in the record of an application evidence relevant to a ground for refusal of registration. The third-party submission shall identify the ground for refusal and include a concise description of each piece of evidence submitted in support of each identified ground for refusal. Not later than 2 months after the date on which the submission is filed, the Director shall determine whether the evidence should be included in the record of the application. The Director shall establish by regulation appropriate procedures for the consideration of evidence submitted by a third party under this subsection and may prescribe a fee to accompany the submission. If the Director determines that the third-party evidence should be included in the record of the application, only the evidence and the ground for refusal to which the evidence relates may be so included. Any determination by the Director whether or not to include evidence in the record of an application shall be final and non-reviewable, and a determination to include or to not include evidence in the record shall not prejudice any party's right to</i><i>raise any issue and rely on any evidence in any other proceeding."</i>
-
-<i>See 2020 Amendment note below.</i>
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
-Subsecs. (a) to (c) are from acts Feb. 20, 1905, ch. 592, §§1, 2, 33 Stat. 724; May 4, 1906, ch. 2081, §1, 34 Stat. 168; Feb. 18, 1909, ch. 144, 35 Stat. 628; Apr. 11, 1930, ch. 132, §4, 46 Stat. 155; June 10, 1938, ch. 332, §1, 52 Stat. 638.
+Subsecs. (a) to (c) are from acts Feb. 20, 1905, ch. 592, §§1, 2, 33 Stat. 724; May 4, 1906, ch. 2081, §1, 34 Stat. 168;Feb. 18, 1909, ch. 144, 35 Stat. 628; Apr. 11, 1930, ch. 132, §4, 46 Stat. 155; June 10, 1938, ch. 332, §1, 52 Stat. 638.
 
 Subsec. (d) is from act Feb. 20, 1905, ch. 592, §3, 33 Stat. 725.
 
@@ -115,6 +111,8 @@ Subsecs. (d), (e). Pub. L. 100–667, §103(8), (9), added subsec. (d) and redes
 <b>1975</b>—Subsecs. (a), (b), (d). Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office".
 
 <b>1962</b>—Subsec. (a)(1). Pub. L. 87–772 substituted "as to be likely, when applied to the goods of such other person, to cause confusion, or to cause mistake, or to deceive" for "as might be calculated to deceive", and struck out "or services" after "use by others, the goods".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 
@@ -214,11 +212,11 @@ Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3008\], Nov. 29, 1999, 11
 
 #### Separability
 
-Act July 5, 1946, ch. 540, title XI, §50, 60 Stat. 446, provided that: "If any provision of this Act \[this chapter\] or the application of such provision to any person orcircumstance is held invalid, the remainder of the Act shall not be affected thereby."
+Act July 5, 1946, ch. 540, title XI, §50, 60 Stat. 446, provided that: "If any provision of this Act \[this chapter\] or the application of such provision to any person or circumstance is held invalid, the remainder of the Act shall not be affected thereby."
 
 #### Deadline for Procedures
 
-Pub. L. 116–260, div. Q, title II, §223(b), Dec. 27, 2020, 134 Stat. 2201, provided that: "Not later than 1 year after the date of enactment of this Act \[Dec. 27, 2020\], the Director shall establish the appropriate procedures described in section 1(f) of the Trademark Act of 1946 \[15 U.S.C. 1051(f)\], as added by subsection (a)."
+Pub. L. 116–260, div. Q, title II, §223(b), Dec. 27, 2020, 134 Stat. 2201, provided that: "Not later than 1 year after the date of enactment of this Act \[Dec. 27, 2020\],the Director shall establish the appropriate procedures described in section 1(f) of the Trademark Act of 1946 \[15 U.S.C. 1051(f)\], as added by subsection (a)."
 
 \[For definitions of terms used in section 223(b) of Pub. L. 116–260, set out above, see section 222 of Pub. L. 116–260, set out as a note below.\]
 
@@ -257,6 +255,8 @@ Trademark act of 1946.—The term 'Trademark Act of 1946' means the Act entitled
 #### Emergency Relief From Postal Situation Affecting Trademark Cases
 
 Relief as to filing date of trademark application or registration and excusal of delayed fees or actions affected by postal situation beginning on Mar. 18, 1970, and ending on or about Mar. 30, 1970, see note set out under section 111 of Title 35, Patents.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

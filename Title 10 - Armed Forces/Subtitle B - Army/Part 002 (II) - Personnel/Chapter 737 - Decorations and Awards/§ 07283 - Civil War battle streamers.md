@@ -20,9 +20,13 @@ Mar. 9, 1948, ch. 104, 62 Stat. 71.
 
 The words "it is determined" are substituted for the words "upon verification in the War Department that it is entitled to such honors".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 3753 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

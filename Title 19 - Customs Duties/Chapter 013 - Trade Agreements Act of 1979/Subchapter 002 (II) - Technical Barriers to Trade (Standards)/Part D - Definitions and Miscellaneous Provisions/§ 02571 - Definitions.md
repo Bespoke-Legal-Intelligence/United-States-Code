@@ -36,7 +36,7 @@ As used in this subchapter—
 
 &emsp;The term "international standards organization" means any organization—
 
-&emsp;&emsp;(A) the membership of which is open to representatives, whether public or private,of the United States and at least all Members; and
+&emsp;&emsp;(A) the membership of which is open to representatives, whether public or private, of the United States and at least all Members; and
 
 &emsp;&emsp;(B) that is engaged in international standards-related activities.
 
@@ -94,6 +94,8 @@ As used in this subchapter—
 
 (Pub. L. 96–39, title IV, §451, July 26, 1979, 93 Stat. 249; Pub. L. 103–182, title III, §351(b)(1), Dec. 8, 1993, 107 Stat. 2122; Pub. L. 103–465, title III, §351(e), Dec. 8, 1994, 108 Stat. 4956; Pub. L. 104–295, §20(c)(16), Oct. 11, 1996, 110 Stat. 3529.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Chapter 2 of part I of title 5, referred to in par. (3), probably means chapter 1 of part I of title 5, which is classified to section 101 et seq. of Title 5, Government Organization and Employees, and which relates to organization of agencies.
@@ -141,6 +143,8 @@ Pars. (17), (18). Pub. L. 103–465, §351(e)(9), added par. (17) and redesignat
 "(12)
 
 Special representative.—The term 'Special Representative' means the Special Representative for Trade Negotiations."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

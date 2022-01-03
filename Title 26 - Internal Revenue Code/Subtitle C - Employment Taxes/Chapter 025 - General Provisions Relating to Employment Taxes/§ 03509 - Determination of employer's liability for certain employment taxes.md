@@ -54,9 +54,11 @@ For purposes of this section—
 
 #### (3) Section not to apply to certain statutory employees
 
-&emsp;This section shall not apply to any tax under subchapter A of chapter 21 with respect to an individual described in subsection (d)(3) of section 3121 (without regard to whether such individual is described in paragraph (1) or (2) of such subsection).
+&emsp;This section shall not apply to any tax under subchapter A of chapter 21 with respect to anindividual described in subsection (d)(3) of section 3121 (without regard to whether such individual is described in paragraph (1) or (2) of such subsection).
 
 (Added Pub. L. 97–248, title II, §270(a), Sept. 3, 1982, 96 Stat. 553; amended Pub. L. 100–647, title II, §2003(d), Nov. 10, 1988, 102 Stat. 3598; Pub. L. 101–508, title V, §5130(a)(4), Nov. 5, 1990, 104 Stat. 1388–289; Pub. L. 115–141, div. U, title IV, §401(a)(218), Mar. 23, 2018, 132 Stat. 1194.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -65,6 +67,8 @@ For purposes of this section—
 <b>1990</b>—Subsec. (d)(3). Pub. L. 101–508 substituted "subsection (d)(3)" for "subsection (d)(4)".
 
 <b>1988</b>—Subsec. (d)(3). Pub. L. 100–647 substituted "subsection (d)(4)" for "subsection (d)(3)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

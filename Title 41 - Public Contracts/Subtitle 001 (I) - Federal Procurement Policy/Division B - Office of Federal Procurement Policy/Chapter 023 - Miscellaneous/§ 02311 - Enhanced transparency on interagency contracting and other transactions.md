@@ -1,12 +1,12 @@
 ### §2311. Enhanced transparency on interagency contracting and other transactions
 
-The Director of the Office of Management and Budget shall direct appropriate revisions to the Federal Procurement Data System or any successor system to facilitate the collection of complete, timely, and reliable data on interagency contracting actions and on transactions other than contracts, grants, and cooperative agreements issued pursuant to section 2371 of title 10 or similar authorities. The Director of the Office of Management and Budget shall ensure that data, consistent with what is collected for contract actions, is obtained on—
+The Director of the Office of Management and Budget shall direct appropriate revisions to the Federal Procurement Data System or any successor system to facilitate the collection of complete, timely, and reliable data on interagency contracting actions and on transactions other than contracts, grants, and cooperative agreements issued pursuant to section 4021 of title 10 or similar authorities. The Director of the Office of Management and Budget shall ensure that data, consistent with what is collected for contract actions, is obtained on—
 
 &emsp;(1) interagency contracting actions, including data at the task or delivery-order level; and
 
 &emsp;(2) other transactions, including the initial award and any subsequent modifications awarded or orders issued (other than transactions that are reported through the Federal Assistance Awards Data System).
 
-(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3739.)
+(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3739; Pub. L. 117–81, div. A, title XVII, §1702(h)(11), Dec. 27, 2021, 135 Stat. 2158.)
 
 Historical and Revision Notes
 
@@ -25,6 +25,12 @@ Historical and Revision Notes
 Pub. L. 110–417, \[div. A\], title VIII, §874(a), Oct. 14, 2008, 122 Stat. 4558.
 
 In the first sentence, the words "Not later than one year after the date of enactment of this Act" are omitted because of section 6(f) of the bill.
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2021</b>—Pub. L. 117–81 substituted "section 4021" for "section 2371" in introductory provisions.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

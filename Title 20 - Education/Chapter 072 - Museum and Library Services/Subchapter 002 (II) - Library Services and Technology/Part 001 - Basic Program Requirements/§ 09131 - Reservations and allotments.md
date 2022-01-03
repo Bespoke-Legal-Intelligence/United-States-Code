@@ -12,7 +12,7 @@
 
 #### (2) Special rule
 
-&emsp;If the funds reserved pursuant to paragraph (1)(B) for a fiscal year have not been obligated by the end of such fiscal year, then such funds shall be allotted in accordance with subsection (b) for the fiscal year succeeding the fiscal year for which the funds were so reserved.
+&emsp;If the funds reserved pursuant to paragraph (1)(B) for a fiscal year have not been obligatedby the end of such fiscal year, then such funds shall be allotted in accordance with subsection (b) for the fiscal year succeeding the fiscal year for which the funds were so reserved.
 
 #### (b) Allotments
 
@@ -54,6 +54,8 @@
 
 (Pub. L. 94–462, title II, §221, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–297; amended Pub. L. 105–128, §4, Dec. 1, 1997, 111 Stat. 2548; Pub. L. 108–81, title II, §204, Sept. 25, 2003, 117 Stat. 997; Pub. L. 111–340, title II, §203, Dec. 22, 2010, 124 Stat. 3600; Pub. L. 115–410, §10, Dec. 31, 2018, 132 Stat. 5416.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a)(1)(A). Pub. L. 115–410, §10(1), substituted "2.25 percent" for "1.75 percent".
@@ -80,7 +82,7 @@ Special rule.—
 
 &emsp;"(i)
 
-In general.—Notwithstanding any other provision of this subsection and using funds allotted for the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau under this subsection, the Director shall award grants to Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, or the Republic of Palau to carry out activities described in this subchapter in accordance with the provisions of this subchapter that the Director determines are not inconsistent with this subparagraph.
+In general.—Notwithstanding any other provision of this subsection and using funds allotted for the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau under this subsection, the Director shall award grants to Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, orthe Republic of Palau to carry out activities described in this subchapter in accordance with the provisions of this subchapter that the Director determines are not inconsistent with this subparagraph.
 
 &emsp;"(ii)
 
@@ -97,6 +99,8 @@ Administrative costs.—The Director may provide not more than 5 percent of the 
 <b>1997</b>—Subsec. (a)(1)(A). Pub. L. 105–128, §4(1), substituted "1.75 percent" for "1½ percent".
 
 Subsec. (a)(1)(B). Pub. L. 105–128, §4(2), substituted "3.75 percent" for "4 percent".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

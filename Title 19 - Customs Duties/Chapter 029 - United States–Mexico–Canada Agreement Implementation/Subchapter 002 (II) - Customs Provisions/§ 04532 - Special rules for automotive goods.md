@@ -100,7 +100,7 @@ In this section:
 
 &emsp;&emsp;A covered vehicle shall be eligible for preferential tariff treatment only if the producer of the covered vehicle—
 
-&emsp;&emsp;&emsp;(i) provides a certification to the Commissioner that the production of covered vehicles by the producer meets the labor value content requirements, including the high-wage material and manufacturing expenditures, high-wage technology expenditures, and high-wage assembly expenditures, as set forth in article 7 of the automotive appendix or, if the producer is subject to the alternative staging regime, articles 7 and 8 of that appendix, and includes the calculations of the producer related to the labor value content requirements; and
+&emsp;&emsp;&emsp;(i) provides a certification to the Commissioner that the production of covered vehicles by the producer meets the laborvalue content requirements, including the high-wage material and manufacturing expenditures, high-wage technology expenditures, and high-wage assembly expenditures, as set forth in article 7 of the automotive appendix or, if the producer is subject to the alternative staging regime, articles 7 and 8 of that appendix, and includes the calculations of the producer related to the labor value content requirements; and
 
 &emsp;&emsp;&emsp;(ii) has information on record to support those calculations.
 
@@ -154,7 +154,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(ii) A statement indicating whether the passenger vehicles or light trucks for which the producer seeks to use the alternative staging regime account for 10 percent or less, or more than 10 percent, of the total production of passenger vehicles or light trucks, as the case may be, in USMCA countries by the producer during the 12-month period preceding the date on which the USMCA enters into force, or the average of such production during the 36-month period preceding that date, whichever is greater.
 
-&emsp;&emsp;&emsp;(iii) In the case of a producer that seeks to use the alternative staging regime for more than 10 percent of the producer'stotal production of passenger vehicles or light trucks, as the case may be, in USMCA countries—
+&emsp;&emsp;&emsp;(iii) In the case of a producer that seeks to use the alternative staging regime for more than 10 percent of the producer's total production of passenger vehicles or light trucks, as the case may be, in USMCA countries—
 
 &emsp;&emsp;&emsp;&emsp;(I) a detailed and credible plan describing with specificity the actions the producer intends to take to bring production of the passenger vehicles or light trucks, as the case may be, into compliance with the requirements set forth in articles 2 through 7 of the automotive appendix after the alternative staging regime period expires; and
 
@@ -212,11 +212,11 @@ In this section:
 
 #### (B) Establishment of a public list
 
-&emsp;&emsp;The Trade Representative shall maintain, and update as necessary, a public list of theproducers of covered vehicles that have been authorized to use the alternative staging regime.
+&emsp;&emsp;The Trade Representative shall maintain, and update as necessary, a public list of the producers of covered vehicles that have been authorized to use the alternative staging regime.
 
 #### (C) Reporting
 
-&emsp;&emsp;Before a determination is made with respect to whether to authorize the use of the alternative staging regime, the Trade Representative shall provide to the appropriate congressional committees a summary of requests for the alternative staging regime.
+&emsp;&emsp;Before a determination is made with respect to whether to authorize the use of thealternative staging regime, the Trade Representative shall provide to the appropriate congressional committees a summary of requests for the alternative staging regime.
 
 #### (4) Alternative staging regime review and modification
 
@@ -272,7 +272,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;As part of a verification conducted under section 4533 of this title, the Secretary of theTreasury, in conjunction with the Secretary of Labor, may conduct a verification of whether a covered vehicle complies with the labor value content requirements set forth in article 7 of the automotive appendix or, if the producer is subject to the alternative staging regime under subsection (d), articles 7 and 8 of that appendix.
+&emsp;As part of a verification conducted under section 4533 of this title, the Secretary of the Treasury, in conjunction with the Secretary of Labor, may conduct a verification of whether a covered vehicle complies with the labor value content requirements set forth in article 7 of the automotive appendix or, if the producer is subject to the alternative staging regime under subsection (d), articles 7 and 8 of that appendix.
 
 #### (2) Role of Secretary of Labor
 
@@ -342,7 +342,7 @@ The Secretary of Labor is authorized to establish or designate an office within 
 
 &emsp;&emsp;&emsp;(i) to the extent practicable, a summary of actions taken by producers to demonstrate compliance with the automotive rules of origin, use of the alternative staging regime, enforcement of such rules of origin, and other relevant matters; and
 
-&emsp;&emsp;&emsp;(ii) whether the automotive rules of origin are effective and relevant in light ofnew technology and changes in the content, production processes, and character of automotive goods.
+&emsp;&emsp;&emsp;(ii) whether the automotive rules of origin are effective and relevant in light of new technology and changes in the content, production processes, and character of automotive goods.
 
 #### (B) Report
 
@@ -405,6 +405,8 @@ This section shall—
 &emsp;(2) apply with respect to goods entered, or withdrawn from warehouse for consumption, on or after the date on which the USMCA enters into force.
 
 (Pub. L. 116–113, title II, §202A, Jan. 29, 2020, 134 Stat. 33.)
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13908. Establishment of the Interagency Committee on Trade in Automotive Goods Under Section 202A of the United States Mexico Canada Agreement Implementation Act
 

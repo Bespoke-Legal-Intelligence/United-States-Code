@@ -104,13 +104,15 @@ Any reference in this section to the Oil Pollution Act of 1990 or any other Act 
 
 (Added Pub. L. 99–509, title VIII, §8033(a), Oct. 21, 1986, 100 Stat. 1959, §9507; renumbered §9509, Pub. L. 99–509, title VIII, §8033(c)(2)(B), Oct. 21, 1986, 100 Stat. 1962; amended Pub. L. 100–647, title I, §1018(u)(20), Nov. 10, 1988, 102 Stat. 3591; Pub. L. 101–239, title VII, §§7505(d)(2), 7811(m)(3), Dec. 19, 1989, 103 Stat. 2364, 2412; Pub. L. 101–380, title IX, §9001, Aug. 18, 1990, 104 Stat. 573.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Oil Pollution Act of 1990, referred to in subsecs. (b)(2), (3), (5)–(7), (c)(1), (e)(2), and (f), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, which is classified principally to chapter 40 (§2701 et seq.) of Title 33, Navigation and Navigable Waters. Sections 1006, 1012, 1015, and 6002 of the Act are classified to sections 2706, 2712, 2715, and 2752 of Title 33, respectively. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of Title 33 and Tables.
+The Oil Pollution Act of 1990, referred to in subsecs. (b)(2), (3), (5)–(7), (c)(1), (e)(2), and (f), is Pub. L. 101–380,Aug. 18, 1990, 104 Stat. 484, which is classified principally to chapter 40 (§2701 et seq.) of Title 33, Navigation and Navigable Waters. Sections 1006, 1012, 1015, and 6002 of the Act are classified to sections 2706, 2712, 2715, and 2752 of Title 33, respectively. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of Title 33 and Tables.
 
 Section 311 of the Federal Water Pollution Control Act, referred to in subsecs. (b)(4), (8) and (c)(1)(C), (D), is classified to section 1321 of Title 33. Subsec. (d) of section 311, which related to maritime disaster discharges, was amended generally by Pub. L. 101–380, title IV, §4201(b), Aug. 18, 1990, 104 Stat. 525. Subsec. (k) of section 311 was repealed by Pub. L. 101–380, title II, §2002(b)(2), Aug. 18, 1990, 104 Stat. 507.
 
-The Deepwater Port Act of 1974, referred to in subsec. (b)(5), (8), is Pub. L. 93–627, Jan. 3, 1975, 88 Stat. 2126, as amended, which is classified generally to chapter 29 (§1501 et seq.) of Title 33. Section 18 of the Act was classified to section 1517 of Title 33 prior to its repeal by Pub. L. 101–380, title II, §2003(a)(2), Aug. 18, 1990, 104 Stat. 507. For complete classification of this Act to theCode, see Short Title note set out under section 1501 of Title 33 and Tables.
+The Deepwater Port Act of 1974, referred to in subsec. (b)(5), (8), is Pub. L. 93–627, Jan. 3, 1975, 88 Stat. 2126, as amended, which is classified generally to chapter 29 (§1501 et seq.) of Title 33. Section 18 of the Act was classified to section 1517 of Title 33 prior to its repeal by Pub. L. 101–380, title II, §2003(a)(2), Aug. 18, 1990, 104 Stat. 507. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 33 and Tables.
 
 Section 302 of the Outer Continental Shelf Lands Act Amendments of 1978, referred to in subsec. (b)(6), was classified to section 1812 of Title 43, Public Lands, prior to its repeal by Pub. L. 101–380, title II, §2004, Aug. 18, 1990, 104 Stat. 507.
 
@@ -157,6 +159,8 @@ Subsec. (c)(1)(A). Pub. L. 101–239, §7505(d)(2)(C), which directed amendment 
 Subsec. (f). Pub. L. 101–239, §7505(d)(2)(A), added subsec. (f).
 
 <b>1988</b>—Subsec. (b)(3). Pub. L. 100–647, as amended by Pub. L. 101–239, §7811(m)(3), substituted "Deepwater" for "Deep Water" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

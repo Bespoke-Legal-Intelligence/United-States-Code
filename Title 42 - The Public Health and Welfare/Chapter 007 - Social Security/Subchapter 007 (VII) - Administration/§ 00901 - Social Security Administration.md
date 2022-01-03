@@ -6,11 +6,15 @@
 
 (Aug. 14, 1935, ch. 531, title VII, §701, 49 Stat. 635; Aug. 28, 1950, ch. 809, title IV, §401(a), 64 Stat. 558; Pub. L. 103–296, title I, §101, Aug. 15, 1994, 108 Stat. 1465.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–296 amended section generally, substituting present provisions for former provisions relating to a Commissioner for Social Security in the Federal Security Agency.
 
 <b>1950</b>—Act Aug. 28, 1950, amended section generally to provide for the appointment of a Commissioner of Social Security.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 
@@ -90,7 +94,7 @@ Office space.—Notwithstanding section 7 of the Public Buildings Act of 1959 (4
 
 "(c)
 
-Inter-Agency Transfer Arrangement.—The Secretary of Health and Human Services and the Commissioner of Social Security shall enter into a written inter-agency transfer arrangement (in this subsection referred to as the 'arrangement'), which shall be effective March 31, 1995. Transfers made pursuant to this section shall be in accordance with the arrangement, which shall specify the personnel and resources to be transferred as provided under this section. The terms of such arrangement shall be transmitted not later than January 1, 1995, to the Committee on Ways and Means of the House of Representatives, to the Committee on Finance of the Senate, and to the Comptroller General of the United States. Not later than February 15, 1995, the Comptroller General shall submit a report to each such Committee setting forth an evaluation of such arrangement."
+Inter-Agency Transfer Arrangement.—The Secretary of Health and Human Services and the Commissioner of Social Security shall enter into a written inter-agency transfer arrangement (in this subsection referred to as the 'arrangement'), which shall be effective March 31, 1995. Transfers made pursuant to this section shall be in accordance with the arrangement, which shall specify the personnel and resources to be transferred as provided under this section. The terms ofsuch arrangement shall be transmitted not later than January 1, 1995, to the Committee on Ways and Means of the House of Representatives, to the Committee on Finance of the Senate, and to the Comptroller General of the United States. Not later than February 15, 1995, the Comptroller General shall submit a report to each such Committee setting forth an evaluation of such arrangement."
 
 \[Section 105(a)–(b)(3) of Pub. L. 103–296, set out above, effective Mar. 31, 1995, and section 105(b)(4), (c) of Pub. L. 103–296, set out above, effective Aug. 15, 1994, see section 110(a), (c) of Pub. L. 103–296, set out as an Effective Date of 1994 Amendment note under section 401 of this title.\]
 
@@ -124,7 +128,7 @@ Interim role of current commissioner after effective date of new agency.—In th
 
 &emsp;"(6)
 
-Interim inspector general.—The Commissioner of Social Security may appoint an individual to assume the powers and duties under the Inspector General Act of 1978 \[Pub. L. 95–452, set out in the Appendix to Title 5, Government Organization and Employees\] of Inspector General of the Social Security Administration as established under section 701 of the Social Security Act for a period not to exceed 60 days. The Inspector General of the Department of Health and Human Services may, when so requested by the Commissioner, while continuing to serve as Inspector General in such Department, serve as Inspector General of the Social Security Administration established under such section 701 and shall assume the powers and duties under the Inspector General Act of 1978 of Inspector General of the Social Security Administration as established under such section 701. The Social Security Administration shall reimburse the Office of Inspector General of the Department ofHealth and Human Services for costs of any functions performed pursuant to this subsection, from funds available to the Administration at the time the functions are performed. The authority under this paragraph to exercise the powers and duties of the Inspector General shall terminate upon the entry upon office of an Inspector General for the Social Security Administration under the Inspector General Act of 1978.
+Interim inspector general.—The Commissioner of Social Security may appoint an individual to assume the powers and duties under the Inspector General Act of 1978 \[Pub. L. 95–452, set out in the Appendix to Title 5, Government Organization and Employees\] of Inspector General of the Social Security Administration as established under section 701 of the Social Security Act for a period not to exceed 60 days. The Inspector General of the Department of Health and Human Services may, when so requested by the Commissioner, while continuing to serve as Inspector General in such Department, serve as Inspector General of the Social Security Administration established under such section 701 and shall assume the powers and duties under the Inspector General Act of 1978 of Inspector General of the Social Security Administration as established under such section 701. The Social Security Administration shall reimburse the Office of Inspector General of the Department of Health and Human Services for costs of any functions performed pursuant to this subsection, from funds available to the Administration at the time the functions are performed. The authority under this paragraph to exercise the powers and duties of the Inspector General shall terminate upon the entry upon office of an Inspector General for the Social Security Administration under the Inspector General Act of 1978.
 
 &emsp;"(7)
 
@@ -146,7 +150,7 @@ Continuation of Orders, Determinations, Rules, Regulations, Etc.—All orders, d
 
 "(c)
 
-Continuation of Proceedings.—The provisions of this title (including the amendments made thereby) shall not affect any proceeding pending before the Secretary of Health and Human Services immediately before March 31, 1995, with respect to functions vested (by reason of this title, the amendments made thereby, and regulations prescribed thereunder) in the Commissioner of Social Security, except that such proceedings, to the extent that such proceedings relate to such functions, shall continue before such Commissioner. Orders shall be issued under any such proceeding, appeals taken therefrom, and payments shall be made pursuant to such orders, in like manner as if this title had not been enacted, and orders issued in any such proceeding shall continue in effect until modified, terminated, superseded, or repealed by such Commissioner, by a court of competent jurisdiction, or by operation of law.
+Continuation of Proceedings.—The provisions of this title (including the amendments made thereby)shall not affect any proceeding pending before the Secretary of Health and Human Services immediately before March 31, 1995, with respect to functions vested (by reason of this title, the amendments made thereby, and regulations prescribed thereunder) in the Commissioner of Social Security, except that such proceedings, to the extent that such proceedings relate to such functions, shall continue before such Commissioner. Orders shall be issued under any such proceeding, appeals taken therefrom, and payments shall be made pursuant to such orders, in like manner as if this title had not been enacted, and orders issued in any such proceeding shall continue in effect until modified, terminated, superseded, or repealed by such Commissioner, by a court of competent jurisdiction, or by operation of law.
 
 "(d)
 
@@ -184,5 +188,5 @@ References to the Secretary of Health and Human Services.—Whenever any referen
 
 "(c)
 
-References to Other Officers and Employees.—Whenever any reference is made in any provision of law (other than this title or a provision of law amended by this title), regulation, rule, record, or document to any other officer or employee of the Department of Health and Human Services with respect to such officer or employee's functions under the old-age, survivors, and disability insurance program under title II of the Social Security Act or the supplemental security income program under title XVI of such Act or other functions performed by the officer or employee of the Social Security Administration pursuant to section105(a)(2) of this Act, such reference shall be considered a reference to the appropriate officer or employee of the Social Security Administration."
+References to Other Officers and Employees.—Whenever any reference is made in any provision of law (other than this title or a provision of law amended by this title), regulation, rule, record, or document to any other officer or employee of the Department of Health and Human Services with respect to such officer or employee's functions under the old-age, survivors, and disability insurance program under title II of the Social Security Act or the supplemental security income program under title XVI of such Act or other functions performed by the officer or employee of the Social Security Administration pursuant to section 105(a)(2) of this Act, such reference shall be considered a reference to the appropriate officer or employee of the Social Security Administration."
 

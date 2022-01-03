@@ -2,7 +2,7 @@
 
 (a) The Director of the Administrative Office of the United States Courts shall prepare a semiannual report, available to the public, that discloses for each judicial officer—
 
-&emsp;(1) the number of motions that have been pending for more than six months and thename of each case in which such motion has been pending;
+&emsp;(1) the number of motions that have been pending for more than six months and the name of each case in which such motion has been pending;
 
 &emsp;(2) the number of bench trials that have been submitted for more than six months and the name of each case in which such trials are under submission; and
 

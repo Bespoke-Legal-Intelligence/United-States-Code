@@ -10,7 +10,7 @@ Actions Described.—(1) The actions described in this paragraph are the followi
 
 &emsp;(A) Detect, identify, monitor, and track the unmanned aircraft system or unmanned aircraft, without prior consent, including by means of intercept or other access of a wire communication, an oral communication, or an electronic communication used to control the unmanned aircraft system or unmanned aircraft.
 
-&emsp;(B) Warn the operator of the unmanned aircraft system or unmanned aircraft, includingby passive or active, and direct or indirect physical, electronic, radio, and electromagnetic means.
+&emsp;(B) Warn the operator of the unmanned aircraft system or unmanned aircraft, including by passive or active, and direct or indirect physical, electronic, radio, and electromagnetic means.
 
 &emsp;(C) Disrupt control of the unmanned aircraft system or unmanned aircraft, without prior consent, including by disabling the unmanned aircraft system or unmanned aircraft by intercepting, interfering, or causing interference with wire, oral, electronic, or radio communications used to control the unmanned aircraft system or unmanned aircraft.
 
@@ -84,7 +84,7 @@ Rule of Construction.—Nothing in this section may be construed to—
 
 (i)
 
-Partial Termination.—(1) Except as provided by paragraph (2), the authority to carry out this section with respect to the covered facilities or assets specified in clauses (iv) through (viii) of subsection (j)(3)(C) shall terminate on December 31, 2023.
+Partial Termination.—(1) Except as provided by paragraph (2), the authority to carryout this section with respect to the covered facilities or assets specified in clauses (iv) through (viii) of subsection (j)(3)(C) shall terminate on December 31, 2023.
 
 (2) The President may extend by 180 days the termination date specified in paragraph (1) if before November 15, 2023, the President certifies to Congress that such extension is in the national security interests of the United States.
 
@@ -126,7 +126,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;&emsp;(viii) production, storage, transportation, or decommissioning of high-yield explosive munitions, by the Department; or
 
-&emsp;&emsp;&emsp;(ix) a Major Range and Test Facility Base (as defined in section 196(i) of this title).
+&emsp;&emsp;&emsp;(ix) a Major Range and Test Facility Base (as defined in sections <sup>1</sup> 4173(i) of this title).
 
 &emsp;(4) The term "defense budget materials", with respect to a fiscal year, means the materials submitted to Congress by the Secretary of Defense in support of the budget for that fiscal year.
 
@@ -136,9 +136,7 @@ Definitions.—In this section:
 
 (Added Pub. L. 114–328, div. A, title XVI, §1697(a), Dec. 23, 2016, 130 Stat. 2639; amended Pub. L. 115–91, div. A, title XVI, §1692, Dec. 12, 2017, 131 Stat. 1788; Pub. L. 116–92, div. A, title XVI, §1694, title XVII, §1731(a)(6), Dec. 20, 2019, 133 Stat. 1791, 1812; Pub. L. 116–283, div. A, title X, §1081(a)(8), title XVIII, §1845(c)(4), Jan. 1, 2021, 134 Stat. 3871, 4247.)
 
-#### Amendment of Subsection (j)(3)(C)(ix)
-
-<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1845(c)(4), Jan. 1, 2021, 134 Stat. 4151, 4247, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, subsection (j)(3)(C)(ix) of this section is amended by striking "section 196(i)" and inserting "sections 4173(i)". See 2021 Amendment note below.</i>
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -164,11 +162,15 @@ Pub. L. 116–92, §1694(b)(2), substituted "in section 44801 of title 49" for "
 
 <b>2017</b>—Pub. L. 115–91 amended section generally. Prior to amendment, section related to protection of certain facilities and assets from unmanned aircraft and consisted of provisions relating to authority of Secretary of Defense, authorized actions, forfeiture, regulations, and definitions.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2021 Amendment
 
 Amendment by section 1845(c)(4) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Coordination of Amendments by Pub. L. 116–92
 
-Amendments to this section by section 1731 of Pub. L. 116–92 to be treated as having been enacted immediately before amendments by other provisions of Pub. L. 116–92, see section 1731(f) of Pub. L. 116–92, set out as a Coordination of Certain Sections of an Act With Other Provisions of That Act note under section 101 of this title.
+Amendments to this section by section 1731 of Pub. L. 116–92 to be treated as having been enacted immediately before amendments by other provisions of Pub. L. 116–92, see section 1731(f) of Pub. L. 116–92, set out asa Coordination of Certain Sections of an Act With Other Provisions of That Act note under section 101 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be "section".</i>
 

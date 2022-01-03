@@ -6,11 +6,15 @@
 
 (Pub. L. 89–73, title III, §313, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1535; amended Pub. L. 98–459, title III, §311, Oct. 9, 1984, 98 Stat. 1779; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1993</b>—Subsec. (a). Pub. L. 103–171 substituted "Assistant Secretary" for "Commissioner".
 
 <b>1984</b>—Pub. L. 98–459 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

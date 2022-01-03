@@ -16,7 +16,7 @@ Act June 5, 1924, appropriated funds for use in making the surveys in twelve dis
 
 Act May 25, 1906, ch. 2554, 34 Stat. 199, provided for a survey, pursuant to R.S. §2218, of unsurveyed lands in Louisiana, and was omitted.
 
-Provisions of act Oct. 2, 1888, ch. 1069, 25 Stat. 525, which provided for transfer to State officials of field notes, maps, records and other papers appertaining to land surveys in Nebraska and Iowa, were omitted.
+Provisions of act Oct. 2, 1888, ch. 1069, 25 Stat. 525, which provided for transfer to State officials of fieldnotes, maps, records and other papers appertaining to land surveys in Nebraska and Iowa, were omitted.
 
 All records, etc., belonging to office of recorder of land titles for Missouri were delivered to State upon discontinuance of office, by provisions of act June 6, 1874, ch. 223, §3, and act July 31, 1876, ch. 246.
 

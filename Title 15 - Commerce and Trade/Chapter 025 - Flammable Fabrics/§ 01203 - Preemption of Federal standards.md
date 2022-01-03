@@ -6,11 +6,11 @@ Except as provided in subsections (b) and (c), whenever a flammability standard 
 
 #### (b) State standards or regulations which afford a higher degree of protection
 
-The Federal Government and the government of any State or political subdivision of a State may establish and continue in effect a flammability standard or other regulation applicable to a fabric, related material, or product for its ownuse which standard or other regulation is designed to protect against a risk of occurrence of fire with respect to which a flammability standard or other regulation is in effect under this chapter and which is not identical to such standard or other regulation if the Federal, State, or political subdivision standard or other regulation provides a higher degree of protection from such risk of occurrence of fire than the standard or other regulation in effect under this chapter.
+The Federal Government and the government of any State or political subdivision of a State may establish and continue in effect a flammability standard or other regulation applicable to a fabric, related material, or product for its own use which standard or other regulation is designed to protect against a risk of occurrence of fire with respect to which a flammability standard or other regulation is in effect under this chapter and which is not identical to such standard or other regulation if the Federal, State, or political subdivision standard or other regulation provides a higher degree of protection from such risk of occurrence of fire than the standard or other regulation in effect under this chapter.
 
 #### (c) Exemption for State standards or regulations; requirements; determination of burden on interstate commerce; notice and hearing
 
-(1) Upon application of a State or political subdivision of a State, the Commission may, by regulation promulgated in accordance with paragraph (2), exempt from subsection (a), under such conditions as may be prescribed in such regulation, any flammability standard or other regulation of such State or political subdivision applicable to a fabric, related material, or product subject to a standard or other regulation in effect under this chapter, if—
+(1) Upon application of a State or political subdivision of a State, the Commission may, by regulation promulgated in accordance withparagraph (2), exempt from subsection (a), under such conditions as may be prescribed in such regulation, any flammability standard or other regulation of such State or political subdivision applicable to a fabric, related material, or product subject to a standard or other regulation in effect under this chapter, if—
 
 &emsp;(A) compliance with the State or political subdivision requirement would not cause the fabric, related material, or product to be in violation of the standard or other regulation in effect under this chapter, and
 
@@ -26,6 +26,8 @@ In this section, a reference to a flammability standard or other regulation for 
 
 (June 30, 1953, ch. 164, §16, as added Pub. L. 90–189, §10, Dec. 14, 1967, 81 Stat. 574; amended Pub. L. 94–284, §17(b), May 11, 1976, 90 Stat. 512; Pub. L. 110–314, title II, §204(c)(2)(G), Aug. 14, 2008, 122 Stat. 3043.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 11 of the Act of December 14, 1967 (Public Law 90–189), referred to in subsec. (d), is set out as a note under section 1191 of this title.
@@ -39,6 +41,8 @@ Section 11 of the Act of December 14, 1967 (Public Law 90–189), referred to in
 &emsp;"(2) the term 'Commission' means the Consumer Product Safety Commission."
 
 <b>1976</b>—Pub. L. 94–284 substituted provisions which permitted the use of flammability standards or regulations not identical with the standards or regulations in effect under this chapter provided that the standards or regulations used afford a higher degree of protection from the risk of the occurrence of fire than the standards or regulation under this chapter, and which permitted the Commission, by regulation promulgated in accordance with section 553 of title 5, to grant an exemption for a flammability standard or other regulation of a State or political subdivision of a State, for the prior supremacy of chapter provision.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Preemption
 

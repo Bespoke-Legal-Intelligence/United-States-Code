@@ -1,6 +1,6 @@
 ### §8046. Staff Judge Advocate to the Commandant of the Marine Corps
 
-(a) An officer of the Marine Corps who is a judge advocate and a member of the bar of aFederal court or the highest court of a State or territory and who has had at least eight years of experience in legal duties as a commissioned officer may be appointed by the President, by and with the advice and consent of the Senate, as Staff Judge Advocate to the Commandant of the Marine Corps.
+(a) An officer of the Marine Corps who is a judge advocate and a member of the bar of a Federal court or the highest court of a State or territory and who has had at least eight years of experience in legal duties as a commissioned officer may be appointed by the President, by and with the advice and consent of the Senate, as Staff Judge Advocate to the Commandant of the Marine Corps.
 
 (b)(1) Under regulations prescribed by the Secretary of Defense, the Secretary of the Navy, in selecting an officer for recommendation to the President for appointment as the Staff Judge Advocate to the Commandant of the Marine Corps, shall ensure that the officer selected is recommended by a board of officers that, insofar as practicable, is subject to the procedures applicable to selection boards convened under chapter 36 of this title.
 
@@ -26,6 +26,8 @@
 
 (Added Pub. L. 99–661, div. A, title V, §509(a)(1), Nov. 14, 1986, 100 Stat. 3868, §5046; amended Pub. L. 103–337, div. A, title V, §504(b)(4), Oct. 5, 1994, 108 Stat. 2751; Pub. L. 108–375, div. A, title V, §574(b)(2), Oct. 28, 2004, 118 Stat. 1922; Pub. L. 110–417, \[div. A\], title V, §504(a), Oct. 14, 2008, 122 Stat. 4434; Pub. L. 112–239, div. A, title V, §531(a), (b), Jan. 2, 2013, 126 Stat. 1725, 1726; Pub. L. 114–328, div. A, title V, §502(x), Dec. 23, 2016, 130 Stat. 2104; Pub. L. 115–91, div. A, title V, §508(a), Dec. 12, 2017, 131 Stat. 1375; renumbered §8046, Pub. L. 115–232, div. A, title VIII, §807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 5046 of this title as this section.
@@ -46,6 +48,8 @@ Subsecs. (c), (d). Pub. L. 112–239, §531(b), added subsec. (c) and redesignat
 
 Subsec. (b). Pub. L. 103–337, §504(b)(4)(B), added subsec. (b) and struck out former subsec. (b) which read as follows: "An officer retiring from the position of Staff Judge Advocate to the Commandant of the Marine Corps, after serving at least three years in that position, shall be retired in the highest grade in which that officer served on active duty satisfactorily, as determined by the Secretary of the Navy."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
@@ -56,7 +60,7 @@ Pub. L. 99–661, div. A, title V, §509(b), Nov. 14, 1986, 100 Stat. 3868, prov
 
 #### Transition Provision for Retirement of Staff Judge Advocates
 
-Pub. L. 99–661, div. A, title V, §509(d), Nov. 14, 1986, 100 Stat. 3868, provided that: "Notwithstanding \[former\] section 1370(a)(2) of title 10, United States Code, an officer serving in the position of Staff Judge Advocate to the Commandant of the Marine Corps, or an equivalent position, on the day before the date of the enactment of this Act \[Nov. 14, 1986\], if retired after having served in such position (or equivalent position) at least three years, including any service in such position (or its equivalent) before such date, shall be retired in the highest grade in which the officer served on active duty satisfactorily, as determined by the Secretary of the Navy."
+Pub. L. 99–661, div. A, title V, §509(d), Nov. 14, 1986, 100 Stat. 3868, provided that: "Notwithstanding \[former\]section 1370(a)(2) of title 10, United States Code, an officer serving in the position of Staff Judge Advocate to the Commandant of the Marine Corps, or an equivalent position, on the day before the date of the enactment of this Act \[Nov. 14, 1986\], if retired after having served in such position (or equivalent position) at least three years, including any service in such position (or its equivalent) before such date, shall be retired in the highest grade in which the officer served on active duty satisfactorily, as determined by the Secretary of the Navy."
 
-\[In determining retired grade of certain commissioned officers of the Armed Forces who retire after Jan. 1, 2021, any reference to section 1370 of title 10 insuch determination with respect to such officers deemed to be a reference to section 1370a of title 10, see section 508(c) of Pub. L. 116–283, set out as a note under section 1370 of this title.\]
+\[In determining retired grade of certain commissioned officers of the Armed Forces who retire after Jan. 1, 2021, any reference to section 1370 of title 10 in such determination with respect to such officers deemed to be a reference to section 1370a of title 10, see section 508(c) of Pub. L. 116–283, set out as a note under section 1370 of this title.\]
 

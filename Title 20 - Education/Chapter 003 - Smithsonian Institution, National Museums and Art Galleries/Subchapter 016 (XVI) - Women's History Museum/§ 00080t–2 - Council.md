@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established within the Smithsonian Institution a council to carry out the duties set forth under subsection (b) and other provisionsof this subchapter <sup>1</sup> (referred to in this section as the "Council").
+There is established within the Smithsonian Institution a council to carry out the duties set forth under subsection (b) and other provisions of this subchapter <sup>1</sup> (referred to in this section as the "Council").
 
 #### (b) Duties
 
@@ -46,7 +46,7 @@ There is established within the Smithsonian Institution a council to carry out t
 
 #### (4) Ensuring diversity of political viewpoints in exhibits and programs
 
-&emsp;In carrying out its duties, the Council shall ensure that the exhibits and programs of the Museum reflect, to the extent practicable, an equal representation of the diversity of the political viewpoints held by women of the United States on the events and issues relating to the history of women in the United States.
+&emsp;In carrying out its duties, the Council shall ensure that the exhibits and programs of theMuseum reflect, to the extent practicable, an equal representation of the diversity of the political viewpoints held by women of the United States on the events and issues relating to the history of women in the United States.
 
 #### (c) Composition and appointment
 
@@ -145,6 +145,8 @@ By a majority vote of its voting members, the Council shall elect a chairperson 
 A majority of the voting members of the Council holding office shall constitute a quorum for the purpose of conducting business, but a lesser number may receive information on behalf of the Council.
 
 (Pub. L. 116–260, div. T, title I, §104, Dec. 27, 2020, 134 Stat. 2273.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

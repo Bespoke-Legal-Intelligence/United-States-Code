@@ -118,7 +118,7 @@
 
 Executive Order 13467, referred to in subsecs. (a)(6)(I)(ii), (7), (b)(1)(B)(i), and (i), is Ex. Ord. No. 13467, June 30, 2008, 73 F.R. 38103, which is set out as a note under section 3161 of Title 50, War and National Defense.
 
-Federal Aviation Administration Drug Enforcement Assistance Act of 1988, referred to in subsec. (b)(1)(D)(i), is subtitle E (§§7201 to 7214) of Pub. L. 100–690, title VII,Nov. 18, 1988, 102 Stat. 4424. For complete classification of this Act to the Code, see Tables.
+Federal Aviation Administration Drug Enforcement Assistance Act of 1988, referred to in subsec. (b)(1)(D)(i), is subtitle E (§§7201 to 7214) of Pub. L. 100–690, title VII, Nov. 18, 1988, 102 Stat. 4424. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
@@ -190,5 +190,5 @@ Pub. L. 99–169, title VIII, §803(b), Dec. 4, 1985, 99 Stat. 1011, provided th
 
 #### Report to Congressional Committees on Effect of Provisions for Indemnification Agreements
 
-Pub. L. 99–169, title VIII, §803(a), Dec. 4, 1985, 99 Stat. 1010, as amended by Pub. L. 99–569, title IV, §402(b), Oct. 27, 1986, 100 Stat. 3196, directed Department of Justice, within two years after Dec. 4, 1985, and after consultation with Department of Defense, Office of Personnel Management, Central Intelligence Agency, and Federal Bureau of Investigation, to report to appropriate committees of Congress concerning the effect of 5 U.S.C. 9101(b)(3), as added by this Act, including the effect of the absence of indemnification agreements upon States and localities not eligible under 5 U.S.C. 9101(b)(3) for such agreements.
+Pub. L. 99–169, title VIII, §803(a), Dec. 4, 1985, 99 Stat. 1010, as amended by Pub. L. 99–569, title IV, §402(b), Oct. 27, 1986, 100 Stat. 3196, directed Department of Justice, within two years after Dec. 4, 1985, and after consultation with Department of Defense, Office of Personnel Management, Central Intelligence Agency, and Federal Bureau of Investigation, to report to appropriate committees of Congress concerning the effect of 5 U.S.C. 9101(b)(3), as added by this Act, including the effect of the absence of indemnification agreements upon Statesand localities not eligible under 5 U.S.C. 9101(b)(3) for such agreements.
 

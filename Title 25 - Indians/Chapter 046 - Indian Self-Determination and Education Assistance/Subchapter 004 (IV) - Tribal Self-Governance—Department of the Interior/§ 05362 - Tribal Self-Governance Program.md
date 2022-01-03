@@ -134,7 +134,7 @@ To be eligible to participate in self-governance, an Indian Tribe shall—
 
 #### References in Text
 
-Subchapter I, referred to in subsec. (b)(4)(F), was in the original "title I", meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to subchapter I (§5321 et seq.) of this chapter. For complete classification of title I to the Code, see Short Title note set out under section 5301 of this title and Tables.
+Subchapter I, referred to in subsec. (b)(4)(F), was in the original "title I", meaning title I of Pub. L. 93–638,known as the Indian Self-Determination Act, which is classified principally to subchapter I (§5321 et seq.) of this chapter. For complete classification of title I to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 #### Codification
 

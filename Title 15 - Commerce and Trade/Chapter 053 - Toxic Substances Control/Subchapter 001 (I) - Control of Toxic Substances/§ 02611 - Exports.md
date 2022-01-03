@@ -106,7 +106,7 @@
 
 #### (D) Environmentally sound disposal
 
-&emsp;&emsp;This paragraph does not prohibit the export of mercury compounds on the list published under subparagraph (B) to member countries of the Organization for Economic Co-operation and Development for environmentally sound disposal, on the condition that no mercury or mercury compounds soexported are to be recovered, recycled, or reclaimed for use, or directly reused, after such export.
+&emsp;&emsp;This paragraph does not prohibit the export of mercury compounds on the list published under subparagraph (B) to member countries of the Organization for Economic Co-operation and Development for environmentally sound disposal, on the condition that no mercury or mercury compounds so exported are to be recovered, recycled, or reclaimed for use, or directly reused, after such export.
 
 #### (E) Report
 
@@ -130,6 +130,8 @@
 
 (Pub. L. 94–469, title I, §12, Oct. 11, 1976, 90 Stat. 2033; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 110–414, §4, Oct. 14, 2008, 122 Stat. 4342; Pub. L. 114–182, title I, §§10(a), (b), 19(k), June 22, 2016, 130 Stat. 477, 508.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Solid Waste Disposal Act, referred to in subsec. (c)(7)(F), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
@@ -147,6 +149,8 @@ Subsec. (c)(7). Pub. L. 114–182, §10(b)(2), added par. (7).
 <b>2008</b>—Subsec. (a)(1). Pub. L. 110–414, §4(1), substituted "subsections (b) and (c)" for "subsection (b)" in introductory provisions.
 
 Subsec. (c). Pub. L. 110–414, §4(2), added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

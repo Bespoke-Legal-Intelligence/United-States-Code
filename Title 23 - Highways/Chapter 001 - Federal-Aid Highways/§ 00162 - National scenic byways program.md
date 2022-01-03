@@ -72,7 +72,7 @@ In general.—The Secretary shall make grants and provide technical assistance t
 
 Priorities.—In making grants, the Secretary shall give priority to—
 
-&emsp;&emsp;(A) each eligible project that is associated with a highway that has been designated as a National Scenic Byway, All-American Road, or 1 of America's Byways and that is consistent with the corridor management plan for the byway;
+&emsp;&emsp;(A) each eligible project that is associated with a highway that has been designated asa National Scenic Byway, All-American Road, or 1 of America's Byways and that is consistent with the corridor management plan for the byway;
 
 &emsp;&emsp;(B) each eligible project along a State or Indian tribe scenic byway that is consistent with the corridor management plan for the byway, or is intended to foster the development of such a plan, and is carried out to make the byway eligible for designation as—
 
@@ -110,7 +110,7 @@ Limitation.—The Secretary shall not make a grant under this section for any pr
 
 (e)
 
-Savings Clause.—The Secretary shall not withhold any grant or impose any requirementon a State or Indian tribe as a condition of providing a grant or technical assistance for any scenic byway unless the requirement is consistent with the authority provided in this chapter.
+Savings Clause.—The Secretary shall not withhold any grant or impose any requirement on a State or Indian tribe as a condition of providing a grant or technical assistance for any scenic byway unless the requirement is consistent with the authority provided in this chapter.
 
 (f)
 
@@ -164,7 +164,7 @@ Pub. L. 116–57, Sept. 22, 2019, 133 Stat. 1090, provided that:
 
 "(a)
 
-Request for Nominations.—Not later than 90 days after the date of enactment of this Act \[Sept. 22, 2019\], the Secretary of Transportation shall issue a request for nominations with respect to roads to be designated under the national scenic byways program, as described in section 162(a) of title 23, United States Code. The Secretary shall make the request for nominations available on the appropriate website of the Department of Transportation.
+Request for Nominations.—Not later than 90 days after the date of enactment of this Act \[Sept. 22,2019\], the Secretary of Transportation shall issue a request for nominations with respect to roads to be designated under the national scenic byways program, as described in section 162(a) of title 23, United States Code. The Secretary shall make the request for nominations available on the appropriate website of the Department of Transportation.
 
 "(b)
 

@@ -158,7 +158,7 @@ The following agencies of the National Institutes of Health are national researc
 
 #### (3) Composition of Board
 
-&emsp;The Board shall consist of the Director of NIH, who shall be a permanent nonvoting member on an ex officio basis, and an odd number of additional members, not to exceed 21, all of whom shall be voting members. The voting members of the Board shall be the following:
+&emsp;The Board shall consist of the Director of NIH, who shall be a permanent nonvotingmember on an ex officio basis, and an odd number of additional members, not to exceed 21, all of whom shall be voting members. The voting members of the Board shall be the following:
 
 &emsp;&emsp;(A) Not fewer than 9 officials who are directors of national research institutes or national centers. The Secretary shall designate such officials for membership and shall ensure that the group of officials so designated includes directors of—
 
@@ -276,6 +276,8 @@ For purposes of this subchapter, a reference to the National Institutes of Healt
 
 (July 1, 1944, ch. 373, title IV, §401, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 822; amended Pub. L. 100–553, §2(1), Oct. 28, 1988, 102 Stat. 2769; Pub. L. 100–607, title I, §101(1), Nov. 4, 1988, 102 Stat. 3048; Pub. L. 100–690, title II, §2613(b)(2), Nov. 18, 1988, 102 Stat. 4238; Pub. L. 102–321, title I, §121(a), July 10, 1992, 106 Stat. 358; Pub. L. 103–43, title XV, §§1501(1), 1511(b)(1), 1521(1), June 10, 1993, 107 Stat. 172, 179, 180; Pub. L. 103–417, §13(b), Oct. 25, 1994, 108 Stat. 4335; Pub. L. 105–277, div. A, §101(f) \[title II, §212, title VI, §601(k)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–359, 2681–388; Pub. L. 106–525, title I, §101(b)(1), Nov. 22, 2000, 114 Stat. 2501; Pub. L. 106–580, §3(e), Dec. 29, 2000, 114 Stat. 3091; Pub. L. 109–482, title I, §§101(a), (b), 108(a), Jan. 15, 2007, 120 Stat. 3675, 3676, 3697; Pub. L. 110–154, §1(b)(1), Dec. 21, 2007, 121 Stat. 1827; Pub. L. 111–148, title X, §10334(c)(3)(A), Mar. 23, 2010, 124 Stat. 974; Pub. L. 112–74, div. F, title II, §221(a)(2), (c)(2)(B), Dec. 23, 2011, 125 Stat. 1087, 1089; Pub. L. 113–235, div. G, title II, §224(1), Dec. 16, 2014, 128 Stat. 2490.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Subsec. (b)(23). Pub. L. 113–235 substituted "National Center for Complementary and Integrative Health" for "National Center for Complementary and Alternative Medicine".
@@ -290,7 +292,7 @@ Subsec. (c)(2)(A). Pub. L. 112–74, §221(c)(2)(B), struck out "the Office of R
 
 Pub. L. 109–482, §101(a), reenacted section catchline without change and amended text generally, substituting provisions consisting of subsecs. (a) to (d)(1) for former subsecs. (a) to (d) which related to: in subsec. (a), relationship to Public Health Service; in subsec. (b), list of national research institutes that were agencies; in subsec. (c), establishment of additional institutes and reorganization or abolition of institutes; and, in subsec. (d), definition of "national research institute". See below.
 
-Subsec. (d)(2). Pub. L. 109–482, §108(a), added after subsec. (d)(1) provisions identical to text of subsec. (c) prior to amendment by Pub. L. 109–482, §101(a), redesignated such provisions as par. (2), added par. heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, added subpar. headings, in subpar. (A), redesignated former subpars. (A) and (B) as cls. (i)and (ii), respectively, in cl. (ii), substituted "Health, Education, Labor, and Pensions" for "Labor and Human Resources" and "clause (i)" for "subparagraph (A)", and, in subpar. (B), substituted "Health, Education, Labor, and Pensions" for "Labor and Human Resources".
+Subsec. (d)(2). Pub. L. 109–482, §108(a), added after subsec. (d)(1) provisions identical to text of subsec. (c) prior to amendment by Pub. L. 109–482, §101(a), redesignated such provisions as par. (2), added par. heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, added subpar. headings, in subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, in cl. (ii), substituted "Health, Education, Labor, and Pensions" for "Labor and Human Resources" and "clause (i)" for "subparagraph (A)", and, in subpar. (B), substituted "Health, Education, Labor, and Pensions" for "Labor and Human Resources".
 
 Subsec. (d)(3), (4). Pub. L. 109–482, §101(b)(1), added pars. (3) and (4).
 
@@ -310,13 +312,15 @@ Subsec. (b)(2)(F). Pub. L. 105–277, §101(f) \[title VI, §601(k)\], added sub
 
 <b>1993</b>—Subsec. (b)(1)(Q). Pub. L. 103–43, §1511(b)(1)(A), added subpar. (Q).
 
-Subsec. (b)(2)(B). Pub. L. 103–43, §1501(1), amended subpar. (B) generally, substituting "National Center for Research Resources" for "Division of Research Resources".
+Subsec. (b)(2)(B). Pub. L. 103–43, §1501(1), amended subpar. (B) generally, substituting "National Center forResearch Resources" for "Division of Research Resources".
 
 Subsec. (b)(2)(D). Pub. L. 103–43, §§1511(b)(1)(B), 1521(1), added subpar. (D) and struck out former subpar. (D) which read as follows: "The National Center for Nursing Research."
 
 <b>1992</b>—Subsec. (b)(1)(N) to (P). Pub. L. 102–321 added subpars. (N) to (P).
 
 <b>1988</b>—Subsec. (b)(1)(J), (M). Pub. L. 100–553 and Pub. L. 100–607 made identical amendments, striking out "and Communicative" after "Neurological" in subpar. (J), and adding subpar. (M). Pub. L. 100–690 amended subsec. (b)(1) to read as if the amendments by Pub. L. 100–607 had not been enacted.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

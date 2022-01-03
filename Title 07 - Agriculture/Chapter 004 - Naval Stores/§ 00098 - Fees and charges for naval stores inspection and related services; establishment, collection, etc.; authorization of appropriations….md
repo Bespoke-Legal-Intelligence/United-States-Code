@@ -6,9 +6,13 @@
 
 (Mar. 3, 1923, ch. 217, §8, 42 Stat. 1436; Pub. L. 97–35, title I, §159(a)(2), Aug. 13, 1981, 95 Stat. 376.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1981</b>—Pub. L. 97–35 added subsec. (a). Former unlettered provisions were designated subsec. (b) and, as so designated, struck out authorization of the Secretary to employ personnel and make administrative expenditures.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1981 Amendment
 

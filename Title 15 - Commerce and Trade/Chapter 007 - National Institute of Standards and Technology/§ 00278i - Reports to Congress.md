@@ -2,7 +2,7 @@
 
 #### (a) Information to Congress on Institute activities
 
-The Director shall keep the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representativesfully and currently informed with regard to all of the activities of the Institute.
+The Director shall keep the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives fully and currently informed with regard to all of the activities of the Institute.
 
 #### (b) Justification for changes in policies and fees
 
@@ -10,11 +10,15 @@ The Director shall justify in writing all changes in policies regarding fees for
 
 (Mar. 3, 1901, ch. 872, §23, as added Pub. L. 100–418, title V, §5114(2), Aug. 23, 1988, 102 Stat. 1432; amended Pub. L. 110–69, title III, §3004, Aug. 9, 2007, 121 Stat. 590; Pub. L. 114–329, title II, §204(a)(1)(B)(i), Jan. 6, 2017, 130 Stat. 2998.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Subsecs. (c), (d). Pub. L. 114–329 struck out subsecs. (c) and (d) which required the Director to submit to Congress a 3-year programmatic planning document for the Institute and annual updates.
 
 <b>2007</b>—Subsecs. (c), (d). Pub. L. 110–69 added subsecs. (c) and (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

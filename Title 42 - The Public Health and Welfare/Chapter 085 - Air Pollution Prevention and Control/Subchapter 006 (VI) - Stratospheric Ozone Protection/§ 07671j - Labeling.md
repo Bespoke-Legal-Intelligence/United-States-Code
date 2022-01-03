@@ -30,7 +30,7 @@ Effective 30 months after November 15, 1990, no container in which a class I or 
 
 (2) Any petition under this paragaph <sup>2</sup> shall include a showing by the petitioner that there are data on the product adequate to support the petition.
 
-(3) If the Administrator determines that information on the product is not sufficient to make the required determination the Administratorshall use any authority available to the Administrator under any law administered by the Administrator to acquire such information.
+(3) If the Administrator determines that information on the product is not sufficient to make the required determination the Administrator shall use any authority available to the Administrator under any law administered by the Administrator to acquire such information.
 
 (4) In the case of a product determined by the Administrator, upon petition or on the Administrator's own motion, to be subject to the requirements of this section, the Administrator shall establish an effective date for such requirements. The effective date shall be 1 year after such determination or 30 months after November 15, 1990, whichever is later.
 

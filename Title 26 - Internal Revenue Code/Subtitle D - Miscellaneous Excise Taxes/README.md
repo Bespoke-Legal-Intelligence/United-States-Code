@@ -30,6 +30,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Pub. L. 111–347, title III, §301(a)(2), Jan. 2, 2011, 124 Stat. 3666, added item for chapter 50.
@@ -71,6 +73,8 @@ Pub. L. 96–223, §101(a)(2), Apr. 2, 1980, 94 Stat. 250, added item for chapte
 <b>1969</b>—Pub. L. 91–172, title I, §101(j)(59), Dec. 30, 1969, 83 Stat. 532, added item for chapter 42.
 
 <b>1964</b>—Pub. L. 88–563, §2(b), Sept. 2, 1964, 78 Stat. 841, added item for chapter 41.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Imposition of Annual Fee on Branded Prescription Pharmaceutical Manufacturers and Importers
 

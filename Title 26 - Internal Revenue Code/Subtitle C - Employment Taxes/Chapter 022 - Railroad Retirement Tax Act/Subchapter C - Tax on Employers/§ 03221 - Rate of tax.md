@@ -14,11 +14,13 @@ In addition to other taxes, there is hereby imposed on every employer an excise 
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 433; Aug. 31, 1954, ch. 1164, pt. II, §206(a), 68 Stat. 1040; Pub. L. 86–28, pt. II, §201(d), May 19, 1959, 73 Stat. 29; Pub. L. 88–133, title II, §202, Oct. 5, 1963, 77 Stat. 221; Pub. L. 89–97, title I, §§105(b)(3), 111(c)(3), July 30, 1965, 79 Stat. 335, 342; Pub. L. 89–212, §§4, 5(c), Sept. 29, 1965, 79 Stat. 861, 862; Pub. L. 89–699, title III, §301(c), (e), Oct. 30, 1966, 80 Stat. 1078; Pub. L. 89–700, title III, §§301(iii), (v), (vi), 302, Oct. 30, 1966, 80 Stat. 1088, 1089; Pub. L. 91–215, §5(a), (b)(1), Mar. 17, 1970, 84 Stat. 71; Pub. L. 93–69, title I, §102(d)–(f), July 10, 1973, 87 Stat. 162, 163; Pub. L. 93–445, title V, §501, Oct. 16, 1974, 88 Stat. 1359; Pub. L. 94–93, title II, §203, Aug. 9, 1975, 89 Stat. 466; Pub. L. 94–455, title XIX, §§1903(a)(9), 1906(b)(13)(G), Oct. 4, 1976, 90 Stat. 1808, 1835; Pub. L. 97–34, title VII, §741(c), Aug. 13, 1981, 95 Stat. 347; Pub. L. 98–76, title II, §§211(b), 222, Aug. 12, 1983, 97 Stat. 419, 420; Pub. L. 100–203, title IX, §9032(a), Dec. 22, 1987, 101 Stat. 1330–296; Pub. L. 101–508, title V, §5125(c), Nov. 5, 1990, 104 Stat. 1388–286; Pub. L. 107–90, title II, §§203(b), 204(a), Dec. 21, 2001, 115 Stat. 891; Pub. L. 111–147, title I, §101(d)(1), Mar. 18, 2010, 124 Stat. 74; Pub. L. 113–295, div. A, title II, §221(a)(100)(C), Dec. 19, 2014, 128 Stat. 4052; Pub. L. 115–141, div. U, title IV, §401(b)(36), Mar. 23, 2018, 132 Stat. 1204.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsecs. (c), (d). Pub. L. 115–141 redesignated subsec. (d) as (c) and struck out former subsec. (c) which provided for a special rate for certain individuals hired in 2010.
 
-<b>2014</b>—Subsec. (b). Pub. L. 113–295 amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted ofpars. (1) and (2) establishing the tier 2 tax and its applicable percentage.
+<b>2014</b>—Subsec. (b). Pub. L. 113–295 amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted of pars. (1) and (2) establishing the tier 2 tax and its applicable percentage.
 
 <b>2010</b>—Subsecs. (c), (d). Pub. L. 111–147 added subsec. (c) and redesignated former subsec. (c) as (d).
 
@@ -67,7 +69,7 @@ Subsec. (b). Pub. L. 93–69, §102(f), substituted "1973" for "1965" and "by th
 
 Subsec. (d). Pub. L. 91–215, §5(b)(1), added subsec. (d).
 
-<b>1966</b>—Subsec. (a). Pub. L. 89–700, §§301(iii), (v), 302, substituted "after September 30, 1965" for "after the month in which this provision was amended in 1959" in six places, and "(i) $450, or (ii) an amount equal to one-twelfth of the current maximum annual taxable 'wages' as defined in section 3121 of the Internal Revenue Codeof 1954, whichever is greater, for any month after September 30, 1965" for "400 for any calendar month before the calendar month next following the month in which this provision was amended in 1963, or $450 for any calendar month after the month in which this provision was so amended and before the calendar month next following the calendar month in which this provision was amended in 1965, or (i) $450, or (ii) an amount equal to one-twelfth of the current maximum annual taxable 'wages' as defined in section 3121 of the Internal Revenue Code of 1954, whichever is greater, for any month after the month in which this provision was so amended" in four places, and inserted sentence providing that where compensation for services rendered in a month is paid by two or more employers, one of the employers may, by notice to the Secretary, and by agreement with the other employer, elect for the tax imposed by section 3201 and this section to apply to all of the compensation paid by such employer for such month as does not exceed the maximum amount of compensation in respect to which taxes are imposed by section 3201 and this section; and in such a case the liability of the other employer shall be limited to the difference, if any, between the compensation paid by the electing employer and the maximum amount of compensation to which section 3201 and this section apply.
+<b>1966</b>—Subsec. (a). Pub. L. 89–700, §§301(iii), (v), 302, substituted "after September 30, 1965" for "after the month in which this provision was amended in 1959" in six places, and "(i) $450, or (ii) an amount equal to one-twelfth of the current maximum annual taxable 'wages' as defined in section 3121 of the Internal Revenue Code of 1954, whichever is greater, for any month after September 30, 1965" for "400 for any calendar month before the calendar month next following the month in which this provision was amended in 1963, or $450 for any calendar month after the month in which this provision was so amended and before the calendar month next following the calendar month in which this provision was amended in 1965, or (i) $450, or (ii) an amount equal to one-twelfth of the current maximum annual taxable 'wages' as defined in section 3121 of the Internal Revenue Code of 1954, whichever is greater, for any month after the month in which this provision was so amended" in four places, and inserted sentence providing that where compensation for services rendered in a month is paid by two or more employers, one of the employers may, by notice to the Secretary, and by agreement with the other employer, elect for the tax imposed by section 3201 and this section to apply to all of the compensation paid by such employer for such month as does not exceed the maximum amount of compensation in respect to which taxes are imposed by section 3201 and this section; and in such a case the liability of the other employer shall be limited to the difference, if any, between the compensation paid by the electing employer and the maximum amount of compensation to which section 3201 and this section apply.
 
 Pub. L. 89–699, §301(c), substituted "7 percent" for "6¾ percent" in subd. (3), "7¼ percent" for "7 percent" in subd. (4), and "7½ percent" for "7¼ percent" in subd. (5).
 
@@ -86,6 +88,8 @@ Subsec. (b). Pub. L. 89–97 substituted "the rate of the tax imposed with respe
 Subsec. (b). Pub. L. 86–28, §201(d)(2)(C), added subsec. (b).
 
 <b>1954</b>—Act Aug. 31, 1954, substituted "$350" for "$300" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 
@@ -129,7 +133,7 @@ Pub. L. 93–445, title VI, §604, Oct. 16, 1974, 88 Stat. 1361, provided that: 
 
 #### Effective Date of 1973 Amendment
 
-Amendment by Pub. L. 93–69 effective Oct. 1, 1973, and applicable only with respect to compensation paid for services rendered on or after Oct. 1, 1973; and applicable to railway labor organization covered by a private supplemental pension plan as of Oct. 1, 1973, and subject to a moratorium, agreed to on or before Mar. 8, 1973, forchanges in pay rates, on the earlier of (1) date of expiration of such moratorium, or (2) date as of which the railway labor organization through collective bargaining agreement makes amendment applicable, see section 109(b) of Pub. L. 93–69, set out as a note under section 3201 of this title.
+Amendment by Pub. L. 93–69 effective Oct. 1, 1973, and applicable only with respect to compensation paid for services rendered on or after Oct. 1, 1973; and applicable to railway labor organization covered by a private supplemental pension plan as of Oct. 1, 1973, and subject to a moratorium, agreed to on or before Mar. 8, 1973, for changes in pay rates, on the earlier of (1) date of expiration of such moratorium, or (2) date as of which the railway labor organization through collective bargaining agreement makes amendment applicable, see section 109(b) of Pub. L. 93–69, set out as a note under section 3201 of this title.
 
 #### Effective Date of 1966 Amendment
 
@@ -141,7 +145,7 @@ Amendment by section 4 of Pub. L. 89–212 effective only with respect to calend
 
 Amendment by section 105(b)(3) of Pub. L. 89–97 effective with respect to compensation paid for services rendered after Dec. 31, 1965, see section 105(b)(4) of Pub. L. 89–97, set out as a note under section 3201 of this title.
 
-Amendment by section 111(c)(3) of Pub. L. 89–97 applicable to calendar year 1966 or to any subsequent calendar year but only if by October 1 immediately preceding such calendar year the Railroad Retirement Tax Act provides for a maximum amount of monthly compensation taxable under such Act during all months of such calendar year equal to one-twelfth of maximum wages which Federal Insurance Contributions Act provides may be counted for such calendar year, see section 111(e) of Pub. L. 89–97, set out as an Effective Date note under section 1395i–1 of Title 42, The Public Health and Welfare.
+Amendment by section 111(c)(3) of Pub. L. 89–97 applicable to calendar year 1966 or to any subsequent calendar year but only if by October 1 immediately preceding such calendar year the Railroad Retirement Tax Act provides for a maximum amount of monthly compensation taxable under such Act during all months ofsuch calendar year equal to one-twelfth of maximum wages which Federal Insurance Contributions Act provides may be counted for such calendar year, see section 111(e) of Pub. L. 89–97, set out as an Effective Date note under section 1395i–1 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1959 Amendment
 

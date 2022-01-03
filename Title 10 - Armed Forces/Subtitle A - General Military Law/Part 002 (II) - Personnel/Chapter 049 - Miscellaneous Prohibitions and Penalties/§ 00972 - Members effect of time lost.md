@@ -62,6 +62,8 @@ Historical and Revision Notes
 
 July 24, 1956, ch. 692, §1, 70 Stat. 631.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Subsec. (c). Pub. L. 108–375 added subsec. (c).
@@ -75,6 +77,8 @@ Pub. L. 104–106, §561(a), designated existing provisions as subsec. (a), inse
 "(3) is confined for more than one day while awaiting trial and disposition of his case, and whose conviction has become final;
 
 "(4) is confined for more than one day under a sentence that has become final; or".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

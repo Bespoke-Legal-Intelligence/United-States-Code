@@ -12,6 +12,8 @@ For purposes of this title,<sup>1</sup> the following definitions shall apply:
 
 (Pub. L. 113–89, §2, Mar. 21, 2014, 128 Stat. 1020.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This title, referred to in text, probably should read "this Act", meaning Pub. L. 113–89, Mar. 21, 2014, 128 Stat. 1020, known as the Homeowner Flood Insurance Affordability Act of 2014, which does not contain titles. For complete classification of this Act to the Code, see Short Title of 2014 Amendment note set out under section 4001 of this title and Tables.

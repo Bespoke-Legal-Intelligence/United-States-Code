@@ -54,7 +54,7 @@
 
 #### (E) Liability insurance
 
-&emsp;&emsp;The agency agrees to have in force adequate liability insurance for professional negligence and any other insurance that the Secretary considers appropriate.
+&emsp;&emsp;The agency agrees to have in force adequate liability insurance for professionalnegligence and any other insurance that the Secretary considers appropriate.
 
 #### (F) Compliance with applicable rules
 
@@ -98,11 +98,15 @@
 
 (Pub. L. 106–279, title II, §203, Oct. 6, 2000, 114 Stat. 832.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This subchapter, referred to in subsec. (b), was in the original "this title", meaning title II of Pub. L. 106–279, Oct. 6, 2000, 114 Stat. 830, which is classified principally to this subchapter. For complete classification of title II to the Code, see Tables.
 
 This chapter, referred to in subsecs. (b)(1)(B), (D)(iv), (F) and (c)(3)(D) was in the original "this Act", meaning Pub. L. 106–279, Oct. 6, 2000, 114 Stat. 825, known as the Intercountry Adoption Act of 2000, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 14901 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

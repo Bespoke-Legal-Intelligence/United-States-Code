@@ -8,7 +8,7 @@ The President, in consultation with the head of each Federal agency administerin
 
 #### (1) Limitation
 
-&emsp;This section shall not prohibit the provision of Federal assistance to a person who is ormay be entitled to receive benefits for the same purposes from another source if such person has not received such other benefits by the time of application for Federal assistance and if such person agrees to repay all duplicative assistance to the agency providing the Federal assistance.
+&emsp;This section shall not prohibit the provision of Federal assistance to a person who is or may be entitled to receive benefits for the same purposes from another source if such person has not received such other benefits by the time of application for Federal assistance and if such person agrees to repay all duplicative assistance to the agency providing the Federal assistance.
 
 #### (2) Procedures
 
@@ -54,6 +54,8 @@ Federal major disaster and emergency assistance provided to individuals and fami
 
 <i>Pub. L. 115–254, div. D, §1210(a)(4), Oct. 5, 2018, 132 Stat. 3443, provided that, effective 5 years after Oct. 5, 2018, this section is amended by striking subsection (b)(4). See 2018 Amendment note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (d), was in the original "this Act", meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
@@ -69,6 +71,8 @@ A prior section 312 of Pub. L. 93–288 was renumbered section 309 by Pub. L. 10
 <b>2018</b>—Subsec. (b)(4). Pub. L. 115–254, §1210(a)(4), struck out par. (4) which provided for a presidential waiver of the general prohibition in subsec. (a).
 
 Pub. L. 115–254, §1210(a)(1), added par. (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

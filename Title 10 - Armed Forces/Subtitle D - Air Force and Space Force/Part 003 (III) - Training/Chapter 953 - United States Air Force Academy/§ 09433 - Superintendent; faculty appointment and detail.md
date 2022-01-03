@@ -4,7 +4,7 @@
 
 (b) The permanent professors of the Academy shall be appointed by the President, by and with the advice and consent of the Senate.
 
-(c) The director of admissions of the Academy shall be appointed by the President, by and withthe advice and consent of the Senate, and shall perform such duties as the Superintendent of the Academy may prescribe with the approval of the Secretary of the Air Force.
+(c) The director of admissions of the Academy shall be appointed by the President, by and with the advice and consent of the Senate, and shall perform such duties as the Superintendent of the Academy may prescribe with the approval of the Secretary of the Air Force.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 562, §9333; Pub. L. 85–600, §1(20), Aug. 6, 1958, 72 Stat. 523; Pub. L. 101–189, div. A, title V, §515(a)(2), Nov. 29, 1989, 103 Stat. 1441; renumbered §9433, Pub. L. 115–232, div. A, title VIII, §806(a)(3), Aug. 13, 2018, 132 Stat. 1832; Pub. L. 116–283, div. A, title IX, §923(d)(8), Jan. 1, 2021, 134 Stat. 3814.)
 
@@ -32,6 +32,8 @@ In subsection (a), the word "detailed" is substituted for the word "selected", s
 
 In subsection (b), the words "by and with the advice and consent of the Senate" are inserted, since many of the statutes establishing particular permanent professorships from time to time have so provided, and historically it has been the uniform practice to make these appointments in this manner. 10:1063 (last 14 words) is omitted as obsolete and as covered by section 9349(b) of this title.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Subsec. (a). Pub. L. 116–283 inserted "or the Space Force" after "Air Force".
@@ -41,6 +43,8 @@ In subsection (b), the words "by and with the advice and consent of the Senate" 
 <b>1989</b>—Subsec. (c). Pub. L. 101–189 substituted "director of admissions" for "registrar".
 
 <b>1958</b>—Subsec. (c). Pub. L. 85–600 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

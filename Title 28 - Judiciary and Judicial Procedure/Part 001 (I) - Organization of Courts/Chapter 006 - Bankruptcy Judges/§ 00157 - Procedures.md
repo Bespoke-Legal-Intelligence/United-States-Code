@@ -8,7 +8,7 @@
 
 &emsp;(A) matters concerning the administration of the estate;
 
-&emsp;(B) allowance or disallowance of claims against the estate or exemptions from property of the estate, and estimation of claims or interests for the purposes of confirming a plan under chapter 11, 12, or 13 of title 11 but not the liquidation or estimation of contingent or unliquidated personal injury tort or wrongfuldeath claims against the estate for purposes of distribution in a case under title 11;
+&emsp;(B) allowance or disallowance of claims against the estate or exemptions from property of the estate, and estimation of claims or interests for the purposes of confirming a plan under chapter 11, 12, or 13 of title 11 but not the liquidation or estimation of contingent or unliquidated personal injury tort or wrongful death claims against the estate for purposes of distribution in a case under title 11;
 
 &emsp;(C) counterclaims by the estate against persons filing claims against the estate;
 
@@ -58,7 +58,7 @@
 
 #### Constitutionality
 
-For information regarding constitutionality of certain provisions of this section, as added by section 104(a) of Pub. L. 98–353, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For information regarding constitutionality of certain provisions of this section, as added by section104(a) of Pub. L. 98–353, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
 
 #### Amendments
 

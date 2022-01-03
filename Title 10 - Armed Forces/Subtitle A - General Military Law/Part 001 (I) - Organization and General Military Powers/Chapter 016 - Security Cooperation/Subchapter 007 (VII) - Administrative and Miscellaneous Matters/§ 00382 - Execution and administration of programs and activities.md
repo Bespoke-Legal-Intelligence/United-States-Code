@@ -10,7 +10,7 @@ Execution and Administration of Certain Programs and Activities.—
 
 &emsp;(1)
 
-In general.—The Director of the Defense Security Cooperation Agency shall be responsible for the execution and administration ofall security cooperation programs and activities of the Department of Defense involving the provision of defense articles, military training, and other defense-related services by grant, loan, cash sale, or lease.
+In general.—The Director of the Defense Security Cooperation Agency shall be responsible for the execution and administration of all security cooperation programs and activities of the Department of Defense involving the provision of defense articles, military training, and other defense-related services by grant, loan, cash sale, or lease.
 
 &emsp;(2)
 
@@ -29,6 +29,8 @@ In general.—Funds available to the Defense Security Cooperation Agency, and ot
 Budget justification.—Funds necessary for implementing security cooperation programs and activities of the Department of Defense under this chapter for a fiscal year shall be identified, with appropriate justification, in the consolidated budget for such fiscal year required by section 381 of this title.
 
 (Added Pub. L. 114–328, div. A, title XII, §1241(m), Dec. 23, 2016, 130 Stat. 2509.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

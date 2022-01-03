@@ -52,7 +52,7 @@
 
 &emsp;&emsp;(B) The advantage of refraining from nonmarital sexual activity in order to improve the future prospects and physical and emotional health of youth.
 
-&emsp;&emsp;(C) The increased likelihood of avoiding poverty when youth attain self-sufficiency and emotional maturity before engaging in sexual activity.
+&emsp;&emsp;(C) The increased likelihood of avoiding poverty when youth attain self-sufficiencyand emotional maturity before engaging in sexual activity.
 
 &emsp;&emsp;(D) The foundational components of healthy relationships and their impact on the formation of healthy marriages and safe and stable families.
 
@@ -136,13 +136,15 @@ In this section:
 
 #### (1) In general
 
-&emsp;To carry out this section, there is appropriated, out of any money in the Treasury nototherwise appropriated, $75,000,000 for each of fiscal years 2018 through 2023.
+&emsp;To carry out this section, there is appropriated, out of any money in the Treasury not otherwise appropriated, $75,000,000 for each of fiscal years 2018 through 2023.
 
 #### (2) Reservation
 
 &emsp;The Secretary shall reserve, for each of fiscal years 2018 through 2023, not more than 20 percent of the amount appropriated pursuant to paragraph (1) for administering the program under this section, including the conducting of national evaluations and the provision of technical assistance to the recipients of allotments.
 
-(Aug. 14, 1935, ch. 531, title V, §510, as added Pub. L. 104–193, title IX, §912, Aug. 22, 1996, 110 Stat. 2353; amended Pub. L. 108–40, §6, June 30, 2003, 117 Stat. 837; Pub. L. 111–148, title II, §2954, Mar. 23, 2010, 124 Stat. 352; Pub. L. 113–93, title II, §205, Apr. 1, 2014, 128 Stat. 1046; Pub. L. 114–10, title II, §214(a), Apr. 16, 2015, 129 Stat. 152; Pub. L. 115–123, div. E, title V, §50502(a), Feb. 9, 2018, 132 Stat. 224; Pub. L. 115–141, div. S, title VII, §701, Mar. 23, 2018, 132 Stat. 1138; Pub. L. 116–59, div. B, title II, §1201, Sept. 27, 2019, 133 Stat. 1103; Pub. L. 116–69, div. B, title II, §1201, Nov. 21, 2019, 133 Stat. 1137; Pub. L. 116–94, div. N, title I, §303, Dec. 20, 2019, 133 Stat. 3112; Pub. L. 116–136, div. A, title III, §3821, Mar. 27, 2020, 134 Stat. 432; Pub. L. 116–159, div. C, title I, §2104, Oct. 1, 2020, 134 Stat. 729; Pub. L. 116–215, div. B, title II, §1203(a), Dec. 11, 2020, 134 Stat. 1045; Pub. L. 116–260, div. CC, title III, §303, Dec. 27, 2020, 134 Stat. 2993.)
+(Aug. 14, 1935, ch. 531, title V, §510, as added Pub. L. 104–193, title IX, §912, Aug. 22, 1996, 110 Stat. 2353; amended Pub. L. 108–40, §6, June 30, 2003, 117 Stat. 837; Pub. L. 111–148, title II, §2954, Mar. 23, 2010, 124 Stat. 352; Pub. L. 113–93, title II, §205,Apr. 1, 2014, 128 Stat. 1046; Pub. L. 114–10, title II, §214(a), Apr. 16, 2015, 129 Stat. 152; Pub. L. 115–123, div. E, title V, §50502(a), Feb. 9, 2018, 132 Stat. 224; Pub. L. 115–141, div. S, title VII, §701, Mar. 23, 2018, 132 Stat. 1138; Pub. L. 116–59, div. B, title II, §1201, Sept. 27, 2019, 133 Stat. 1103; Pub. L. 116–69, div. B, title II, §1201, Nov. 21, 2019, 133 Stat. 1137; Pub. L. 116–94, div. N, title I, §303, Dec. 20, 2019, 133 Stat. 3112; Pub. L. 116–136, div. A, title III, §3821, Mar. 27, 2020, 134 Stat. 432; Pub. L. 116–159, div. C, title I, §2104, Oct. 1, 2020, 134 Stat. 729; Pub. L. 116–215, div. B, title II, §1203(a), Dec. 11, 2020, 134 Stat. 1045; Pub. L. 116–260, div. CC, title III, §303, Dec. 27, 2020, 134 Stat. 2993.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -218,9 +220,11 @@ Subsec. (d). Pub. L. 111–148, §2954(2), substituted "2010 through 2014" for "
 
 <b>2003</b>—Subsec. (d). Pub. L. 108–40 substituted "2003" for "2002".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
-Pub. L. 115–123, div. E, title V, §50502(b), Feb. 9, 2018, 132 Stat. 227, provided that: "The amendment made by this section \[amending this section\] shall take effect as if enacted on October 1, 2017."
+Pub. L. 115–123, div. E, title V, §50502(b), Feb. 9, 2018, 132 Stat. 227, provided that: "The amendment made bythis section \[amending this section\] shall take effect as if enacted on October 1, 2017."
 
 #### Effective Date of 2003 Amendment
 

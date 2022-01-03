@@ -6,9 +6,13 @@ The property acquired under the provisions of the first paragraph of this sectio
 
 (June 29, 1936, ch. 863, §§1, 2, 49 Stat. 2028; Pub. L. 87–471, May 31, 1962, 76 Stat. 90.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 "Whitman Mission National Historic Site" and "national historic site" substituted in text for "Whitman National Monument" and "national monument", respectively, pursuant to Pub. L. 87–471, which redesignated Whitman National Monument as Whitman Mission National Historic Site. See section 433n of this title.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

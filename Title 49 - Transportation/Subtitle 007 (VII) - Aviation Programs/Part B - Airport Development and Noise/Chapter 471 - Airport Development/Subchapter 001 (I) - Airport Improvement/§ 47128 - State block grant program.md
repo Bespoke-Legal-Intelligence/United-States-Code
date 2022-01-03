@@ -30,7 +30,7 @@ Environmental Analysis and Coordination Requirements.—A Federal agency, other 
 
 &emsp;(2) use the environmental analysis prepared by the State for the project or activity if such analysis is adequate; and
 
-&emsp;(3) as necessary, consult with the State to describe the supplemental analysis the State must provide to meet applicable Federal requirements.
+&emsp;(3) as necessary, consult with the State to describe the supplemental analysis the Statemust provide to meet applicable Federal requirements.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1277; Pub. L. 103–429, §6(70), Oct. 31, 1994, 108 Stat. 4387; Pub. L. 104–264, title I, §147(a)–(c)(1), Oct. 9, 1996, 110 Stat. 3223; Pub. L. 104–287, §5(84), Oct. 11, 1996, 110 Stat. 3397; Pub. L. 105–102, §3(d)(1)(E), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–181, title I, §138, Apr. 5, 2000, 114 Stat. 85; Pub. L. 112–95, title V, §502, Feb. 14, 2012, 126 Stat. 103; Pub. L. 115–254, div. B, title I, §139, Oct. 5, 2018, 132 Stat. 3210.)
 
@@ -84,6 +84,8 @@ This amends 49:47128(c) to correct an error in the codification enacted by secti
 
 This makes a clarifying amendment to the catchline for 49:47128(d).
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The National Environmental Policy Act of 1969, referred to in subsec. (b)(4), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
@@ -119,6 +121,8 @@ Pub. L. 104–264, §147(c)(1)(C), struck out subsec. (d) which read as follows:
 Ending Effective Date and Report.—This section is effective only through September 30, 1996."
 
 <b>1994</b>—Subsec. (c). Pub. L. 103–429 substituted "subsection (b)(1)(B) or (C)" for "subsection (b)(2) or (3)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

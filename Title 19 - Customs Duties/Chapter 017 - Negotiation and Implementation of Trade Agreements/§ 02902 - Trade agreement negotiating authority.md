@@ -24,7 +24,7 @@
 
 (3)(A) Except as provided in subparagraph (B), the aggregate reduction in the rate of duty on any article which is in effect on any day pursuant to a trade agreement entered into under paragraph (1) shall not exceed the aggregate reduction which would have been in effect on such day if a reduction of 3 percent ad valorem or a reduction of one-tenth of the total reduction, whichever is greater, had taken effect on the effective date of the first reduction proclaimed in paragraph (1) to carry out such agreement with respect to such article.
 
-(B) No staging under subparagraph (A) is required with respect to a rate reduction that is proclaimed under paragraph (1) for an article of a kind that is not produced in the United States. The United States International Trade Commission shall advise the President of the identity of articles that may be exempted from staging under this subparagraph.
+(B) No staging under subparagraph (A) is required with respect to a rate reduction that is proclaimed under paragraph (1) for an article of a kind that is not produced in the United States.The United States International Trade Commission shall advise the President of the identity of articles that may be exempted from staging under this subparagraph.
 
 (4) If the President determines that such action will simplify the computation of reductions under paragraph (3), the President may round an annual reduction by the lesser of—
 
@@ -115,6 +115,8 @@
 &emsp;The report required under section 2155(e)(1) of this title regarding any trade agreement provided for under paragraph (1) shall be provided to the President, the Congress, and the United States Trade Representative not later than 30 days after the date on which the President notifies the Congress under section 2903(a)(1)(A) of this title of his intention to enter into the agreement (but before January 15, 1994).
 
 (Pub. L. 100–418, title I, §1102, Aug. 23, 1988, 102 Stat. 1126; Pub. L. 101–382, title I, §139(b), Aug. 20, 1990, 104 Stat. 653; Pub. L. 103–49, §1, July 2, 1993, 107 Stat. 239.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

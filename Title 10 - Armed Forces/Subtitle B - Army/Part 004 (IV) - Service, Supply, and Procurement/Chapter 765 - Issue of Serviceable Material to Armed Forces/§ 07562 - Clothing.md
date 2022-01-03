@@ -20,9 +20,13 @@ R.S. 1296 (less 1st 9 words).
 
 The words "members of the Army" are substituted for the words "troops of the United States".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4562 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

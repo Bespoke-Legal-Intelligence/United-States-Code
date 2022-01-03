@@ -12,7 +12,7 @@ For purposes of carrying out section 3024(h) of this title, the Director of Nati
 
 &emsp;(B) shall perform, on a regular basis, detailed reviews of finished intelligence product or other analytic products by an element or elements of the intelligence community covering a particular topic or subject matter;
 
-&emsp;(C) shall be responsible for identifying on an annual basis functional or topical areas ofanalysis for specific review under subparagraph (B); and
+&emsp;(C) shall be responsible for identifying on an annual basis functional or topical areas of analysis for specific review under subparagraph (B); and
 
 &emsp;(D) upon completion of any review under subparagraph (B), may draft lessons learned, identify best practices, or make recommendations for improvement to the analytic tradecraft employed in the production of the reviewed product or products.
 
@@ -38,6 +38,8 @@ In this section, the term "congressional intelligence committees" means—
 
 (Pub. L. 108–458, title I, §1019, Dec. 17, 2004, 118 Stat. 3671; Pub. L. 116–92, div. E, title LVII, §5701(b), Dec. 20, 2019, 133 Stat. 2159.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 403–1a of this title prior to editorial reclassification and renumbering as this section.
@@ -45,6 +47,8 @@ Section was formerly classified to section 403–1a of this title prior to edito
 #### Amendments
 
 <b>2019</b>—Subsec. (c). Pub. L. 116–92 substituted "briefings" for "reports" in heading and "provide to the congressional intelligence committees, the heads of the relevant elements of the intelligence community, and the heads of analytic training departments a briefing with" for "submit to the congressional intelligence committees, the heads of the relevant elements of the intelligence community, and the heads of analytic training departments a report containing" in text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

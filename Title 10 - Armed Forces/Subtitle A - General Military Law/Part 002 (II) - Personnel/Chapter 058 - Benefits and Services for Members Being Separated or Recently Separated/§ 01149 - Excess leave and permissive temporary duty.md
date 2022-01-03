@@ -4,6 +4,8 @@ Under regulations prescribed by the Secretary of Defense or the Secretary of Hom
 
 (Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1557; amended Pub. L. 103–337, div. A, title V, §542(a)(8), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–239, div. A, title X, §1076(f)(17), Jan. 2, 2013, 126 Stat. 1952.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2013</b>—Pub. L. 112–239 inserted "when it is not operating as a service in the Navy" after "Coast Guard".
@@ -11,6 +13,8 @@ Under regulations prescribed by the Secretary of Defense or the Secretary of Hom
 <b>2002</b>—Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
 <b>1994</b>—Pub. L. 103–337 inserted "or the Secretary of Transportation with respect to the Coast Guard" after "Secretary of Defense" and struck out "of the military department" before "concerned".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

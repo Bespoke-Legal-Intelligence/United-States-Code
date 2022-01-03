@@ -70,7 +70,7 @@ The Secretary shall—
 
 #### (IV) Minimum funding
 
-&emsp;&emsp;&emsp;&emsp;In any fiscal year in which the remainder described in clause (i) does not exceed $960,000,000, the minimum allotments under subclauses (I) and (II) shall be calculated by the methodology specified in section 132(b)(1)(B)(iv)(IV) of the Workforce Investment Act of 1998 \[29U.S.C. 2862(b)(1)(B)(iv)(IV)\] (as in effect on the day before July 22, 2014).
+&emsp;&emsp;&emsp;&emsp;In any fiscal year in which the remainder described in clause (i) does not exceed $960,000,000, the minimum allotments under subclauses (I) and (II) shall be calculated by the methodology specified in section 132(b)(1)(B)(iv)(IV) of the Workforce Investment Act of 1998 \[29 U.S.C. 2862(b)(1)(B)(iv)(IV)\] (as in effect on the day before July 22, 2014).
 
 #### (v) Definitions
 
@@ -146,7 +146,7 @@ The Secretary shall—
 
 #### (I) Minimum percentage and allotment
 
-&emsp;&emsp;&emsp;&emsp;The Secretary shall ensure that no State shall receive an allotment for afiscal year that is less than an amount based on 90 percent of the allotment percentage of the State for the preceding fiscal year.
+&emsp;&emsp;&emsp;&emsp;The Secretary shall ensure that no State shall receive an allotment for a fiscal year that is less than an amount based on 90 percent of the allotment percentage of the State for the preceding fiscal year.
 
 #### (II) Maximum percentage
 

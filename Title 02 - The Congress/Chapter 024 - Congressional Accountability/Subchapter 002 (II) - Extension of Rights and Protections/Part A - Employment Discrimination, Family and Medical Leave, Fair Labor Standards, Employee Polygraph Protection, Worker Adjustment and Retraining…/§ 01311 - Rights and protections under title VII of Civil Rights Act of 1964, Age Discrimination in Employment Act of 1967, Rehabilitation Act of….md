@@ -82,7 +82,7 @@ Amendment by Pub. L. 115–397 effective upon expiration of the 180-day period b
 
 #### Coverage of House of Representatives and the Agencies of the Legislative Branch
 
-Pub. L. 102–166, title I, §117, Nov. 21, 1991, 105 Stat. 1080, as amended by Pub. L. 108–271, §8(b), July 7, 2004,118 Stat. 814; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537, provided that:
+Pub. L. 102–166, title I, §117, Nov. 21, 1991, 105 Stat. 1080, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537, provided that:
 
 "(a)
 

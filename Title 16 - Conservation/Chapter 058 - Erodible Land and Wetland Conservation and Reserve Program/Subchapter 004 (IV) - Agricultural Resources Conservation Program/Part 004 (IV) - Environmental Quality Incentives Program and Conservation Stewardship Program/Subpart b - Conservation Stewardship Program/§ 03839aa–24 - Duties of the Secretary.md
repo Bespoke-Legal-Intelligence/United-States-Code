@@ -136,7 +136,7 @@ The Secretary shall allocate funding to States for enrollment, based—
 
 #### (3) Eligibility
 
-&emsp;To be eligible to receive a payment described in paragraph (2), a producer shall agree to adopt or improve, manage, and maintain resource-conserving crop rotations or advanced grazing management for the term of the contract.
+&emsp;To be eligible to receive a payment described in paragraph (2), a producer shall agree to adopt or improve, manage, and maintain resource-conserving crop rotations or advancedgrazing management for the term of the contract.
 
 #### (4) Amount of payment
 
@@ -210,6 +210,8 @@ Each fiscal year, the Secretary shall submit to the Committee on Agriculture of 
 
 (Pub. L. 99–198, title XII, §1240L, formerly §1238G, as added Pub. L. 110–234, title II, §2301(a)(2), May 22, 2008, 122 Stat. 1045, and Pub. L. 110–246, §4(a), title II, §2301(a)(2), June 18, 2008, 122 Stat. 1664, 1773; Pub. L. 113–79, title II, §2101(a), Feb. 7, 2014, 128 Stat. 726; renumbered §1240L and amended Pub. L. 115–334, title II, §§2301(b), 2308(d), Dec. 20, 2018, 132 Stat. 4551, 4566.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Organic Foods Production Act of 1990, referred to in subsec. (h)(1), is title XXI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3935, which is classified generally to chapter 94 (§6501 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 6501 of Title 7 and Tables.
@@ -224,7 +226,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 <b>2018</b>—Subsec. (b). Pub. L. 115–334, §2308(d)(1), substituted "allocate funding" for "allocate acres" in introductory provisions.
 
-Subsec. (c). Pub. L. 115–334, §2308(d)(2), (3), redesignated subsec. (d) as (c) and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows: "During the period beginning on February 7, 2014, and ending on September 30, 2022, the Secretary shall, to the maximum extent practicable—
+Subsec. (c). Pub. L. 115–334, §2308(d)(2), (3), redesignated subsec. (d) as (c) and struck out former subsec.\(c). Prior to amendment, text of subsec. (c) read as follows: "During the period beginning on February 7, 2014, and ending on September 30, 2022, the Secretary shall, to the maximum extent practicable—
 
 &emsp;"(1) enroll in the program an additional 10,000,000 acres for each fiscal year; and
 
@@ -234,7 +236,7 @@ Subsec. (c)(5). Pub. L. 115–334, §2308(d)(4), added par. (5).
 
 Subsec. (d). Pub. L. 115–334, §2308(d)(3), (5)(A), redesignated subsec. (e) as (d) and inserted "and advanced grazing management" after "crop rotations" in heading. Former subsec. (d) redesignated (c).
 
-Subsec. (d)(1). Pub. L. 115–334, §2308(d)(5)(D), inserted par. designation, heading, and introductory provisions, added subpars. (A) and (B), designated existing provisions of par. (1) as subpar. (C), and, in subpar. (C), substituted "The term" for "In this subsection, the term", redesignated former subpars. (A) to (D) and (E) of par.\(1) as cls. (i) to (iv) and (vi), respectively, realigned margins, and added cl. (v).
+Subsec. (d)(1). Pub. L. 115–334, §2308(d)(5)(D), inserted par. designation, heading, and introductory provisions, added subpars. (A) and (B), designated existing provisions of par. (1) as subpar. (C), and, in subpar. (C), substituted "The term" for "In this subsection, the term", redesignated former subpars. (A) to (D) and (E) of par. (1) as cls. (i) to (iv) and (vi), respectively, realigned margins, and added cl. (v).
 
 Pub. L. 115–334, §2308(d)(5)(C), redesignated par. (4) as (1). Former par. (1) redesignated (2).
 

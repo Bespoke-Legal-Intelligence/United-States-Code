@@ -12,7 +12,7 @@ Nothing in this chapter (or an amendment made by this chapter) shall be construe
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this title", meaning title X of Pub. L. 110–85, Sept. 27, 2007, 121 Stat. 962, which enacted this chapter and section 350f of this title, amended sections 321 and 331 of this title, and enacted provisions set out as notes under this section and section 350f of this title. For complete classification of title X to the Code, see Tables.
+This chapter, referred to in text, was in the original "this title", meaning title X of Pub. L. 110–85, Sept. 27,2007, 121 Stat. 962, which enacted this chapter and section 350f of this title, amended sections 321 and 331 of this title, and enacted provisions set out as notes under this section and section 350f of this title. For complete classification of title X to the Code, see Tables.
 
 The Dietary Supplement Health and Education Act of 1994, referred to in par. (1), is Pub. L. 103–417, Oct. 25, 1994, 108 Stat. 4325, which enacted sections 343–2 and 350b of this title and section 287c–11 of Title 42, The Public Health and Welfare, amended sections 321, 331, 342, 343, and 350 of this title and section 281 of Title 42, and enacted provisions set out as notes under sections 321 and 343 of this title. For complete classification of this Act to the Code, see Short Title of 1994 Amendments note set out under section 301 of this title and Tables.
 

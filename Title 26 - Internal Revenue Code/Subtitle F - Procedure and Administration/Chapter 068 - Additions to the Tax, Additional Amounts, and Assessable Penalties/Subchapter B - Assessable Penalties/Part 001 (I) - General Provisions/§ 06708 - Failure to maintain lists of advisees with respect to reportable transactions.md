@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;If any person who is required to maintain a list under section 6112(a) fails to make suchlist available upon written request to the Secretary in accordance with section 6112(b) within 20 business days after the date of such request, such person shall pay a penalty of $10,000 for each day of such failure after such 20th day.
+&emsp;If any person who is required to maintain a list under section 6112(a) fails to make such list available upon written request to the Secretary in accordance with section 6112(b) within 20 business days after the date of such request, such person shall pay a penalty of $10,000 for each day of such failure after such 20th day.
 
 #### (2) Reasonable cause exception
 
@@ -15,6 +15,8 @@
 The penalty imposed by this section shall be in addition to any other penalty provided by law.
 
 (Added Pub. L. 98–369, div. A, title I, §142(b), July 18, 1984, 98 Stat. 682; amended Pub. L. 99–514, title XV, §1534(a), Oct. 22, 1986, 100 Stat. 2750; Pub. L. 108–357, title VIII, §§815(b)(5)(A), 817(a), Oct. 22, 2004, 118 Stat. 1583, 1584.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -27,6 +29,8 @@ Another section 6708 was renumbered section 6709 of this title.
 Subsec. (a). Pub. L. 108–357, §817(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: "Any person who fails to meet any requirement imposed by section 6112 shall pay a penalty of $50 for each person with respect to whom there is such a failure, unless it is shown that such failure is due to reasonable cause and not due to willful neglect. The maximum penalty imposed under this subsection for any calendar year shall not exceed $100,000."
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–514 substituted "$100,000" for "$50,000".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

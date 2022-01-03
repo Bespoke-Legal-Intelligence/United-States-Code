@@ -6,7 +6,7 @@ First Fiscal Year.—The Secretary of Transportation shall withhold up to 5 perc
 
 (b)
 
-Second Fiscal Year.—The Secretary shall withhold up to 10 percent of the amount required to be apportioned to a State under section 104(b)(1), (3), and (4) <sup>1</sup> of title 23 on the first day of each fiscal year after the 2d fiscal year beginning after September 30, 1992, throughout which the State does not comply substantiallywith a requirement of section 31311(a) of this title.
+Second Fiscal Year.—The Secretary shall withhold up to 10 percent of the amount required to be apportioned to a State under section 104(b)(1), (3), and (4) <sup>1</sup> of title 23 on the first day of each fiscal year after the 2d fiscal year beginning after September 30, 1992, throughout which the State does not comply substantially with a requirement of section 31311(a) of this title.
 
 (c)
 
@@ -60,6 +60,8 @@ In this section, the word "amounts" is substituted for "funds" and "sums" for co
 
 In subsection (e), the words "by the Secretary" are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 104(b)(1), (3), and (4) of title 23, referred to in subsecs. (a) and (b), probably refers to section 104(b)(1), (3), and (4) of title 23 prior to the general amendment of section 104 by Pub. L. 112–141, div. A, title I, §1105(a), July 6, 2012, 126 Stat. 427.
@@ -89,6 +91,8 @@ Pub. L. 105–178, §4011(g)(3), (4), redesignated subsec. (e) as (d) and struck
 "(2) Amounts apportioned under paragraph (1) of this subsection remain available for expenditure until the end of the 3d fiscal year following the fiscal year in which the amounts are apportioned. Amounts not obligated at the end of that period lapse or, for amounts apportioned under section 104(b)(5) of title 23, lapse and are available for projects under section 118(b) of title 23."
 
 Subsec. (e). Pub. L. 105–178, §4011(g)(4), redesignated subsec. (e) as (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

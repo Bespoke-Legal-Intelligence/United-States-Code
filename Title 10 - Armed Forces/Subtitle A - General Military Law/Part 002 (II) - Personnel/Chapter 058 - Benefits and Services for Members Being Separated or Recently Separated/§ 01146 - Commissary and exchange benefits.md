@@ -22,6 +22,8 @@ Emergency Response Providers During a Declared Major Disaster or Emergency.—Th
 
 (Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1556; amended Pub. L. 103–160, div. A, title V, §561(i), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title V, §542(a)(5), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 105–261, div. A, title V, §561(i), Oct. 17, 1998, 112 Stat. 2026; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(i)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–135; Pub. L. 110–181, div. A, title VI, §651, Jan. 28, 2008, 122 Stat. 162; Pub. L. 110–317, §5, Aug. 29, 2008, 122 Stat. 3528; Pub. L. 111–383, div. A, title X, §1075(b)(16), Jan. 7, 2011, 124 Stat. 4369; Pub. L. 112–239, div. A, title VI, §631, title X, §1076(f)(16), Jan. 2, 2013, 126 Stat. 1781, 1952; Pub. L. 116–283, div. A, title VI, §632, Jan. 1, 2021, 134 Stat. 3682.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Subsec. (d). Pub. L. 116–283 added subsec. (d).
@@ -56,9 +58,11 @@ Members Involuntarily Separated From Active Duty.—" before "The Secretary of D
 
 <b>1993</b>—Pub. L. 103–160 substituted "nine-year period" for "five-year period".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–317 applicable with respect to any sole survivorship discharge granted afterSept. 11, 2001, see section 10 of Pub. L. 110–317, set out as a note under section 2108 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 110–317 applicable with respect to any sole survivorship discharge granted after Sept. 11, 2001, see section 10 of Pub. L. 110–317, set out as a note under section 2108 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1994 Amendment
 

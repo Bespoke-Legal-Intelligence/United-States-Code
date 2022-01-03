@@ -10,7 +10,7 @@ Section 813, act July 17, 1916, ch. 245, title I, §16, 39 Stat. 374, covered po
 
 Section 814, act July 17, 1916, ch. 245, title I, §16, 39 Stat. 374, placed a limit on amount of issue of bonds and prohibited transacting of unauthorized business.
 
-Section 815, act July 17, 1916, ch. 245, title I, §16, 39 Stat. 374; Ex. Ord. No. 6084, Mar. 27, 1933, provided for minimum allowable capital stock for joint-stock land banks.
+Section 815, act July 17, 1916, ch. 245, title I, §16, 39 Stat. 374; Ex. Ord. No. 6084, Mar. 27, 1933, provided forminimum allowable capital stock for joint-stock land banks.
 
 Section 816, act July 17, 1916, ch. 245, title I, §16, 39 Stat. 374, prohibited issuance of bonds before capital stock of joint-stock land banks was entirely paid up.
 

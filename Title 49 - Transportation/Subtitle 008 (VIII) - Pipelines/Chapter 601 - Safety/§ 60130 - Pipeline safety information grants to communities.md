@@ -6,7 +6,7 @@ Grant Authority.—
 
 &emsp;(1)
 
-In general.—The Secretary of Transportation may make grants for technical assistance to local communities, Indian Tribes, and groups of individuals (not including for-profit entities) relating to the safety of pipeline facilities in local communities, other than facilities regulated under Public Law 93–153 (43 U.S.C. 1651 et seq.). No grants may be awarded under section 60114(g) until the Secretary has established competitive procedures for awarding grants under this section and criteria forselecting grant recipients. Except as provided in subsection (c)(2), the amount of any grant under this section may not exceed $100,000 for a single grant recipient. The Secretary shall establish appropriate procedures to ensure the proper use of funds provided under this section.
+In general.—The Secretary of Transportation may make grants for technical assistance to local communities, Indian Tribes, and groups of individuals (not including for-profit entities) relating to the safety of pipeline facilities in local communities, other than facilities regulated under Public Law 93–153 (43 U.S.C. 1651 et seq.). No grants may be awarded under section 60114(g) until the Secretary has established competitive procedures for awarding grants under this section and criteria for selecting grant recipients. Except as provided in subsection (c)(2), the amount of any grant under this section may not exceed $100,000 for a single grant recipient. The Secretary shall establish appropriate procedures to ensure the proper use of funds provided under this section.
 
 &emsp;(2)
 
@@ -61,6 +61,8 @@ Eligible applicant.—The term "eligible applicant" means a nonprofit entity tha
 &emsp;&emsp;(D) was established with funds designated for the purpose of community service through the implementation of section 3553 of title 18 relating to violations of this chapter.
 
 (Added Pub. L. 107–355, §9(a), Dec. 17, 2002, 116 Stat. 2994; amended Pub. L. 109–468, §5, Dec. 29, 2006, 120 Stat. 3490; Pub. L. 112–90, §32(e), Jan. 3, 2012, 125 Stat. 1923; Pub. L. 113–188, title XV, §1501(c), Nov. 26, 2014, 128 Stat. 2024; Pub. L. 114–183, §§2(d), 20(a), June 22, 2016, 130 Stat. 516, 527; Pub. L. 116–260, div. R, title I, §101(e), Dec. 27, 2020, 134 Stat. 2213.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

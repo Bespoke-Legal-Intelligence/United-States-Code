@@ -8,7 +8,7 @@ The Secretary of Transportation, in consultation with the Administrator of the E
 
 &emsp;(3) solutions to impediments to marine highway transportation projects designated under section 55601.
 
-(Added Pub. L. 110–140, title XI, §1121(a), Dec. 19, 2007, 121 Stat. 1761; amended Pub. L. 116–283, div.G, title LVXXXIII \[LXXXIII\], §8332(d)(4), (5), Jan. 1, 2021, 134 Stat. 4705.)
+(Added Pub. L. 110–140, title XI, §1121(a), Dec. 19, 2007, 121 Stat. 1761; amended Pub. L. 116–283, div. G, title LVXXXIII \[LXXXIII\], §8332(d)(4), (5), Jan. 1, 2021, 134 Stat. 4705.)
 
 #### <b>Editorial Notes</b>
 

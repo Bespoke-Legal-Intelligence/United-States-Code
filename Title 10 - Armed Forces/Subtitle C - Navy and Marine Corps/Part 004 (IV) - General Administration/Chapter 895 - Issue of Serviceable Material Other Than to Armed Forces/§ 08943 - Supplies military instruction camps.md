@@ -4,9 +4,13 @@ Under such conditions as he may prescribe, the Secretary of the Navy may issue, 
 
 (Added Pub. L. 110–181, div. A, title III, §377(a), Jan. 28, 2008, 122 Stat. 85, §7913; renumbered §8943, Pub. L. 115–232, div. A, title VIII, §807(d)(15), Aug. 13, 2018, 132 Stat. 1837.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7913 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

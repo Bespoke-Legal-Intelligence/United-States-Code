@@ -78,9 +78,11 @@ If the Assistant Secretary finds that any State has failed to qualify under the 
 
 <i>Pub. L. 116–131, title II, §204(b), Mar. 25, 2020, 134 Stat. 256, provided that, effective October 1, 2029, subsection (a)(3)(D) of this section is repealed. See 2020 Amendment note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
-A prior section 3024, Pub. L. 89–73, title III, §304, as added Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 38; Pub. L. 94–135, title I, §§105, 106(c), Nov. 28, 1975, 89 Stat. 715, 716, related to designation of state and area agencies, area plan provisions, and transportation services and funds, prior to the general amendment of this subchapter by Pub. L. 95–478. See sections 3025 and 3026 of this title.
+A prior section 3024, Pub. L. 89–73, title III, §304, as added Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat.38; Pub. L. 94–135, title I, §§105, 106(c), Nov. 28, 1975, 89 Stat. 715, 716, related to designation of state and area agencies, area plan provisions, and transportation services and funds, prior to the general amendment of this subchapter by Pub. L. 95–478. See sections 3025 and 3026 of this title.
 
 Another prior section 3024, Pub. L. 89–73, title III, §304, July 14, 1965, 79 Stat. 223; Pub. L. 90–42, §3, July 1, 1967, 81 Stat. 107; Pub. L. 91–69, §4(b), Sept. 17, 1969, 83 Stat. 108, related to planning, coordination, and evaluation and administration of State plans, providing in: subsec. (a) authorization of appropriations, amount of payment, and availability of unexpended funds; subsec. (b) amount of allotment, determination of additional amount, adjustments, minimum amount, and availability of unexpended amount; subsec. (c) reallotment to other States; and subsec. (d) minimum State expenditure of funds, prior to repeal by Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 36.
 
@@ -167,6 +169,8 @@ Subsec. (d)(1). Pub. L. 98–459, §304(d), inserted ", after the application o
 Subsec. (d)(1)(B). Pub. L. 97–115, §4(c)(3), added subpar. (B). Former subpar. (B) redesignated (C).
 
 Subsec. (d)(1)(C). Pub. L. 97–115, §4(b), (c)(2), redesignated subpar. (B) as (C) and substituted "85 percent of the cost of supportive services, senior centers, and nutrition services under this subchapter" for "90 percent in fiscal years 1979 and 1980, and 85 percent in fiscal year 1981, of the cost of social services and nutrition services authorized under parts B and C".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 

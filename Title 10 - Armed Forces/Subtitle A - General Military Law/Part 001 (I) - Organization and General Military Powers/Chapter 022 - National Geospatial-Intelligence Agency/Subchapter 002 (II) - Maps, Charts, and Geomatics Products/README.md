@@ -12,11 +12,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283, div. A, title XVI, §1621(b)(2), (c)(2), (d)(2), (g)(1), Jan. 1, 2021, 134 Stat. 4053, 4054, substituted "GEOMATICS" for "GEODETIC" in subchapter heading, added items 451, 454, and 455, and struck out former items 451 "Maps, charts, and books", 454 "Exchange of mapping, charting, and geodetic data with foreign countries, international organizations, nongovernmental organizations, and academic institutions", and 455 "Maps, charts, and geodetic data: public availability; exceptions".
 
-<b>2011</b>—Pub. L. 112–81, div. A, title IX, §923(b)(2), Dec. 31, 2011, 125 Stat. 1539, added item 454 and struck outformer item 454 "Exchange of mapping, charting, and geodetic data with foreign countries and international organizations".
+<b>2011</b>—Pub. L. 112–81, div. A, title IX, §923(b)(2), Dec. 31, 2011, 125 Stat. 1539, added item 454 and struck out former item 454 "Exchange of mapping, charting, and geodetic data with foreign countries and international organizations".
 
 <b>1999</b>—Pub. L. 106–65, div. A, title X, §§1010(b), 1045(b), Oct. 5, 1999, 113 Stat. 739, 763, substituted "Sale of maps, charts, and navigational publications: prices; use of proceeds" for "Prices of maps, charts, and navigational publications" in item 453 and added item 457.
 

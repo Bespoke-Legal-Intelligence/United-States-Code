@@ -50,7 +50,9 @@ There are authorized to be appropriated to the Secretary for the following renew
 
 > Each of the President's annual budget requests submitted to Congress after December 11, 1989, shall include as separate line items each of the categories of renewable energy programs described in this subsection.
 
-(Pub. L. 101–218, §4, Dec. 11, 1989, 103 Stat. 1860; Pub. L. 102–486, title XII, §1202(b), title XXI, §2125(1)–(3), Oct. 24, 1992, 106 Stat. 2958, 3085; Pub. L. 116–260, div. Z, title III, §3006(a)(1), Dec. 27, 2020, 134 Stat. 2511.)
+(Pub. L. 101–218, §4, Dec. 11, 1989, 103 Stat. 1860; Pub. L. 102–486, title XII, §1202(b), title XXI, §2125(1)–(3), Oct. 24, 1992, 106 Stat. 2958, 3085; Pub.L. 116–260, div. Z, title III, §3006(a)(1), Dec. 27, 2020, 134 Stat. 2511.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

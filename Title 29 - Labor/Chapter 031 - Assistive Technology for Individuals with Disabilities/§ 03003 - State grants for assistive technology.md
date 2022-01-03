@@ -14,7 +14,7 @@ The Secretary shall award grants under subsection (b) to States to maintain comp
 
 #### (A) Base year
 
-&emsp;&emsp;Except as provided in subparagraphs (B) and (C), the Secretary shall allot to each State and outlying area for a fiscal year an amount that is not less than the amount the State or outlying area received under the grants provided under section 3011 of this title (as in effect on the day before October 25, 2004) for fiscal year 2004.
+&emsp;&emsp;Except as provided in subparagraphs (B) and (C), the Secretary shall allot to each State and outlying area for a fiscal year an amount that is not less than the amount the State or outlying area received under the grants provided under section 3011 of thistitle (as in effect on the day before October 25, 2004) for fiscal year 2004.
 
 #### (B) Ratable reduction
 
@@ -86,7 +86,7 @@ The Secretary shall award grants under subsection (b) to States to maintain comp
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;On obtaining the approval of the Secretary, the Governor may redesignate the lead agency, or the implementing entity, if the Governor shows to the Secretary good cause why the entity designated as the lead agency, or the implementing entity, respectively, should not serve as that agency or entity, respectively. The Governor shall make the showing in the application described in subsection (d).
+&emsp;&emsp;&emsp;On obtaining the approval of the Secretary, the Governor may redesignate the lead agency, or the implementing entity, if the Governor shows to the Secretary good cause why the entity designated as thelead agency, or the implementing entity, respectively, should not serve as that agency or entity, respectively. The Governor shall make the showing in the application described in subsection (d).
 
 #### (ii) Construction
 
@@ -170,7 +170,7 @@ The Secretary shall award grants under subsection (b) to States to maintain comp
 
 #### (4) Involvement of public and private entities
 
-&emsp;The application shall describe how various public and private entities were involved in the development of the application and will be involved in the implementation of the activities to be carried out through the grant, including—
+&emsp;The application shall describe how various public and private entities were involved inthe development of the application and will be involved in the implementation of the activities to be carried out through the grant, including—
 
 &emsp;&emsp;(A) in cases determined to be appropriate by the State, a description of the nature and extent of resources that will be committed by public and private collaborators to assist in accomplishing identified goals; and
 
@@ -222,7 +222,7 @@ The Secretary shall award grants under subsection (b) to States to maintain comp
 
 #### (A) Required activities
 
-&emsp;&emsp;Except as provided in subparagraph (B) and paragraph (6), any State that receives agrant under this section shall use a portion of the funds made available through the grant to carry out activities described in paragraphs (2) and (3).
+&emsp;&emsp;Except as provided in subparagraph (B) and paragraph (6), any State that receives a grant under this section shall use a portion of the funds made available through the grant to carry out activities described in paragraphs (2) and (3).
 
 #### (B) State or non-Federal financial support
 
@@ -378,7 +378,7 @@ The Secretary shall award grants under subsection (b) to States to maintain comp
 
 &emsp;&emsp;&emsp;(i) the type of State financing activities described in subsection (e)(2)(A) used by the State;
 
-&emsp;&emsp;&emsp;(ii) the amount and type of assistance given to consumers of the State financing activities described in subsection (e)(2)(A) (who shall be classified by type of assistive technology device or assistive technology service financed through the State financing activities, and geographic distribution within the State), including—
+&emsp;&emsp;&emsp;(ii) the amount and type of assistance given to consumers of the State financing activities described in subsection (e)(2)(A)\(who shall be classified by type of assistive technology device or assistive technology service financed through the State financing activities, and geographic distribution within the State), including—
 
 &emsp;&emsp;&emsp;&emsp;(I) the number of applications for assistance received;
 

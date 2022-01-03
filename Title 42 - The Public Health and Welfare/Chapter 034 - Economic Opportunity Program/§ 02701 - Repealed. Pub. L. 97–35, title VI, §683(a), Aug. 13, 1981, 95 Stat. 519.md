@@ -2,6 +2,8 @@
 
 Section, Pub. L. 88–452, §2, Aug. 20, 1964, 78 Stat. 508; Pub. L. 89–794, title VI, §614(b), Nov. 8, 1966, 80 Stat. 1472; Pub. L. 95–568, §17(a)(1), Nov. 2, 1978, 92 Stat. 2439, set forth Congressional findings and declaration of purpose for the Economic Opportunity Act of 1964.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of Repeal
 
 Repeal effective Oct. 1, 1981, see section 9912(a) of this title, prior to the general amendment of chapter 106 (§9901 et seq.) of this title by Pub. L. 105–285.
@@ -46,7 +48,7 @@ Pub. L. 89–794, §1, Nov. 8, 1966, 80 Stat. 1451, provided: "That this Act \[e
 
 #### Short Title of 1965 Amendment
 
-Pub. L. 89–253, §1, Oct. 9, 1965, 79 Stat. 973, provided: "That this Act \[amending sections 2713, 2714, 2716, 2720,2734, 2735, 2754, 2761, 2782, 2785, 2788, 2789, 2802, 2805, 2807, 2822, 2831, 2851, 2854, 2861, 2871, 2881, 2922, 2923, 2943, 2945, 2965, and 2966 of this title and section 425 of Title 20, Education, and enacted sections 2806a, 2950, and 2967 of this title\] may be cited as the 'Economic Opportunity Amendments of 1965'."
+Pub. L. 89–253, §1, Oct. 9, 1965, 79 Stat. 973, provided: "That this Act \[amending sections 2713, 2714, 2716, 2720, 2734, 2735, 2754, 2761, 2782, 2785, 2788, 2789, 2802, 2805, 2807, 2822, 2831, 2851, 2854, 2861, 2871, 2881, 2922, 2923, 2943, 2945, 2965, and 2966 of this title and section 425 of Title 20, Education, and enacted sections 2806a, 2950, and 2967 of this title\] may be cited as the 'Economic Opportunity Amendments of 1965'."
 
 #### Short Title
 
@@ -60,7 +62,9 @@ Pub. L. 88–452, title X, §1014, as added by Pub. L. 93–355, §2, July 25, 1
 
 Pub. L. 95–568, §2, Nov. 2, 1978, 92 Stat. 2425, provided that: "It is the purpose of this Act \[see Short Title of 1978 Amendment note above\] to extend and revise programs under title I through title IX \[subchapter I to IX of this chapter\] of the Economic Opportunity Act of 1964 (hereinafter in this Act referred to as the 'Act')."
 
+#### <b>Executive Documents</b>
+
 #### Executive Order No. 11470
 
-Ex. Ord. No. 11470, eff. May 26, 1969, 34 F.R. 8227, which made arrangements for the structure and conduct of a National Voluntary Action Program, was superseded by Ex. Ord. No. 11603, eff. June 30, 1971, 36 F.R. 12675, set out as a note under section 2501 of Title 22, Foreign Relations and Intercourse. Section 401 of Ex. Ord. No. 11603 which transferred the National Voluntary Action Program to ACTION as created by Reorg. Plan No. 1 of 1971 was superseded by section 1–706 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, eff. May 16, 1979, set out as a note under section 2501 of Title 22. For continuation of the National Voluntary Action Program in ACTION Agency \[now Corporation for National and Community Service\], see section 1–501 of Ex. Ord. No. 12137.
+Ex. Ord. No. 11470, eff. May 26, 1969, 34 F.R. 8227, which made arrangements for the structure and conduct of a National Voluntary Action Program, was superseded by Ex. Ord. No. 11603, eff. June 30, 1971, 36 F.R. 12675, formerly set out as a note under section 2501 of Title 22, Foreign Relations and Intercourse. Section 401 of Ex. Ord. No. 11603 which transferred the National Voluntary Action Program to ACTION as created by Reorg. Plan No. 1 of 1971 was superseded by section 1–706 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, eff. May 16, 1979, set out as a note under section 2501 of Title 22. For continuation of the National Voluntary Action Program in ACTION Agency \[now Corporation for National and Community Service\], see section 1–501 of Ex. Ord. No. 12137.
 

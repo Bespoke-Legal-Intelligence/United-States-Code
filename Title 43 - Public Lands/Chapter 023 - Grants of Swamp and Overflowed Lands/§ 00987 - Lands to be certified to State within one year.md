@@ -22,7 +22,7 @@ R.S. §2488 derived from act July 23, 1866, ch. 219, §4, 14 Stat. 219.
 
 #### Abolition of Office of Surveyor General and Transfer of Functions
 
-Act Mar. 3, 1925, abolished office of surveyor general and transferred administration of all activities in charge of surveyors general to Field Surveying Service under jurisdiction of United States Supervisor of Surveys.
+Act Mar. 3, 1925, abolished office of surveyor general and transferred administration of all activities incharge of surveyors general to Field Surveying Service under jurisdiction of United States Supervisor of Surveys.
 
 #### <b>Executive Documents</b>
 

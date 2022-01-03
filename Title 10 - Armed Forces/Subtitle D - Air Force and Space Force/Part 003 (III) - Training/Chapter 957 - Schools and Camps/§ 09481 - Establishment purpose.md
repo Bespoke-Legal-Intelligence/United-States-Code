@@ -1,6 +1,6 @@
 ### §9481. Establishment: purpose
 
-The Secretary of the Air Force may maintain schools and camps for the military instruction and training of persons selected, upon their application, from warrant officers and enlisted members of the Air Force, the Space Force, and civilians, to qualify them for appointment as reserve officers, or enlistment as reserve noncommissioned officers, for service in the Air Force Reserve or the Space Force Reserve.
+The Secretary of the Air Force may maintain schools and camps for the military instruction and training of persons selected, upon their application, from warrant officers and enlisted members of the Air Force, the Space Force, andcivilians, to qualify them for appointment as reserve officers, or enlistment as reserve noncommissioned officers, for service in the Air Force Reserve or the Space Force Reserve.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 571, §9411; renumbered §9481, Pub. L. 115–232, div. A, title VIII, §806(a)(2), Aug. 13, 2018, 132 Stat. 1832; amended Pub. L. 116–283, div. A, title IX, §923(d)(16), Jan. 1, 2021, 134 Stat. 3815.)
 
@@ -20,6 +20,8 @@ June 3, 1916, ch. 134, §47d (words before 1st semicolon of 1st sentence); added
 
 The words "upon military reservations or elsewhere" are omitted as surplusage. The words "of the Air Force" are inserted for clarity. The words "or enlistment as" are inserted for clarity.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283, §923(d)(16)(B), inserted "or the Space Force Reserve" after "the Air Force Reserve".
@@ -27,6 +29,8 @@ The words "upon military reservations or elsewhere" are omitted as surplusage. T
 Pub. L. 116–283, §923(d)(16)(A), which directed amendment of this section by inserting ", the Space Force," after "members of the Air Force,", was executed by making the insertion after "members of the Air Force" to reflect the probable intent of Congress.
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 9411 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

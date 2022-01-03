@@ -44,7 +44,9 @@ For purposes of this section, the term "qualified business credits" means—
 
 Subsection (a) shall be applied by substituting "an amount equal to 50 percent of" for "an amount equal to" in the case of the investment credit determined under section 46 (other than the rehabilitation credit).
 
-(Added Pub. L. 97–248, title II, §205(a)(2), Sept. 3, 1982, 96 Stat. 428; amended Pub. L. 98–369, div. A, title IV, §474(r)(8)(A), July 18, 1984, 98 Stat. 840; Pub. L. 100–647, title IV, §4008(b)(2), Nov. 10, 1988, 102 Stat. 3653; Pub. L. 101–239, title VII, §§7110(c)(2), 7814(e)(1), (2)(D), Dec. 19, 1989, 103 Stat. 2325, 2413, 2414; Pub. L. 101–508, title XI, §§11511(b)(3), 11813(b)(12), Nov. 5, 1990, 104 Stat. 1388–485, 1388–554; Pub. L. 103–66, title XIII, §§13302(b)(2), 13322(c)(2), Aug. 10, 1993, 107 Stat. 555, 563; Pub. L. 104–188, title I, §1201(e)(1), Aug. 20, 1996, 110 Stat. 1772; Pub. L. 105–206, title VI, §6020(a), July 22, 1998, 112 Stat. 823; Pub. L. 106–554, §1(a)(7) \[title I, §121(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–610; Pub. L. 107–16, title VI, §619(c)(2), June 7, 2001, 115 Stat. 110; Pub. L. 108–357, title III, §§302(c)(2), 339(e), Oct. 22, 2004, 118 Stat. 1465, 1484; Pub. L. 109–58, title XIII, §1332(d), Aug. 8, 2005, 119 Stat. 1026; Pub. L. 111–148, title I, §1421(d)(2), Mar. 23, 2010, 124 Stat. 242; Pub. L. 115–141, div. U, title IV, §401(b)(16), Mar. 23, 2018, 132 Stat. 1202.)
+(Added Pub. L. 97–248, title II, §205(a)(2), Sept. 3, 1982, 96 Stat. 428; amended Pub. L. 98–369, div. A, title IV, §474(r)(8)(A), July 18, 1984, 98 Stat. 840; Pub. L. 100–647, title IV, §4008(b)(2), Nov. 10, 1988, 102 Stat. 3653; Pub. L. 101–239, title VII, §§7110(c)(2), 7814(e)(1), (2)(D), Dec. 19, 1989, 103 Stat. 2325, 2413, 2414; Pub. L. 101–508, title XI, §§11511(b)(3), 11813(b)(12), Nov. 5, 1990, 104 Stat. 1388–485, 1388–554; Pub. L. 103–66, title XIII, §§13302(b)(2), 13322(c)(2), Aug. 10, 1993, 107 Stat. 555, 563; Pub. L. 104–188, title I, §1201(e)(1), Aug. 20, 1996, 110 Stat. 1772; Pub. L. 105–206, title VI,§6020(a), July 22, 1998, 112 Stat. 823; Pub. L. 106–554, §1(a)(7) \[title I, §121(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–610; Pub. L. 107–16, title VI, §619(c)(2), June 7, 2001, 115 Stat. 110; Pub. L. 108–357, title III, §§302(c)(2), 339(e), Oct. 22, 2004, 118 Stat. 1465, 1484; Pub. L. 109–58, title XIII, §1332(d), Aug. 8, 2005, 119 Stat. 1026; Pub. L. 111–148, title I, §1421(d)(2), Mar. 23, 2010, 124 Stat. 242; Pub. L. 115–141, div. U, title IV, §401(b)(16), Mar. 23, 2018, 132 Stat. 1202.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -56,7 +58,7 @@ Another section 339(e) of Pub. L. 108–357 amended the table of sections for su
 
 #### Amendments
 
-<b>2018</b>—Subsec. (d). Pub. L. 115–141, in heading, struck out "and research credit" after "tax credit" and, intext, substituted "in the case of the investment credit determined under section 46 (other than the rehabilitation credit)." for "in the case of—
+<b>2018</b>—Subsec. (d). Pub. L. 115–141, in heading, struck out "and research credit" after "tax credit" and, in text, substituted "in the case of the investment credit determined under section 46 (other than the rehabilitation credit)." for "in the case of—
 
 &emsp;"(1) the investment credit determined under section 46 (other than the rehabilitation credit), and
 
@@ -100,6 +102,8 @@ Subsec. (d). Pub. L. 100–647, §4008(b)(2)(B), inserted "and research credit" 
 
 <b>1984</b>—Pub. L. 98–369 amended section generally, substituting provisions relating to deduction for certain unused business credits for provisions relating to deduction for certain unused investment credits.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–148 applicable to amounts paid or incurred in taxable years beginning after Dec. 31, 2009, see section 1421(f)(1) of Pub. L. 111–148, set out as a note under section 38 of this title.
@@ -138,7 +142,7 @@ Amendment by section 13322(c)(2) of Pub. L. 103–66 applicable to wages paid or
 
 Amendment by section 11511(b)(3) of Pub. L. 101–508 applicable to costs paid or incurred in taxable years beginning after Dec. 31, 1990, see section 11511(d)(1) of Pub. L. 101–508, set out as an Effective Date note under section 43 of this title.
 
-Amendment by section 11813(b)(12) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
+Amendment by section 11813(b)(12) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures werepreviously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Effective Date of 1989 Amendment
 

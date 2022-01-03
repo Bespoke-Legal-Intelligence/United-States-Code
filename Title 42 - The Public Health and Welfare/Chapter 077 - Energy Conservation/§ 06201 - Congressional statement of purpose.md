@@ -20,6 +20,8 @@ The purposes of this chapter are—
 
 (Pub. L. 94–163, §2, Dec. 22, 1975, 89 Stat. 874; Pub. L. 102–486, title I, §123(a), Oct. 24, 1992, 106 Stat. 2817; Pub. L. 106–469, title I, §102, Nov. 9, 2000, 114 Stat. 2029.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in introductory clause, was in the original "this Act", meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
@@ -33,6 +35,8 @@ Par. (3). Pub. L. 106–469, §102(2), struck out par. (3) which read as follows
 Par. (6). Pub. L. 106–469, §102(2), struck out par. (6) which read as follows: "to reduce the demand for petroleum products and natural gas through programs designed to provide greater availability and use of this Nation's abundant coal resources;".
 
 <b>1992</b>—Par. (8). Pub. L. 102–486 added par. (8).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2018 Amendment
 
@@ -80,7 +84,7 @@ Pub. L. 101–262, §1, Mar. 31, 1990, 104 Stat. 124, provided: "That this Act \
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–494, §1, Oct. 14, 1988, 102 Stat. 2441, provided that: "This Act \[enacting sections 6374 to 6374d of this title and section 2013 of Title 15, Commerce and Trade, amending sections 2001, 2002, and 2006 of Title 15, and enacting provisions set out as notes under section 6374 of this title and sections 2006, 2013, and 2512 of Title 15\] may be cited as the 'Alternative Motor Fuels Act of 1988'."
+Pub. L. 100–494, §1, Oct. 14, 1988, 102 Stat. 2441, provided that: "This Act \[enacting sections 6374 to 6374d of this title and section 2013 of Title 15, Commerce and Trade, amending sections 2001, 2002, and 2006 of Title 15, and enacting provisions set out as notes under section6374 of this title and sections 2006, 2013, and 2512 of Title 15\] may be cited as the 'Alternative Motor Fuels Act of 1988'."
 
 Pub. L. 100–357, §1, June 28, 1988, 102 Stat. 671, provided that: "This Act \[amending sections 6291 to 6295 and 6297 of this title\] may be referred to as the 'National Appliance Energy Conservation Amendments of 1988'."
 
@@ -328,7 +332,7 @@ In general.—On the initiative of the Alliance or on petition to the Alliance b
 
 &emsp;"(2)
 
-Volume percentages required to terminate or suspend.—Termination or suspension shall not take effect unless termination or suspension is approved by persons representing more than one-half of the total volume of oilheat fuel voted in the retail marketer class or more than one-half of the total volume of weighted No. 1 distillate and No. 2 dyed distillate voted in the wholesale distributor class.
+Volume percentages required to terminate or suspend.—Termination or suspension shall not take effect unless termination or suspension is approved by persons representing more than one-half ofthe total volume of oilheat fuel voted in the retail marketer class or more than one-half of the total volume of weighted No. 1 distillate and No. 2 dyed distillate voted in the wholesale distributor class.
 
 &emsp;"(3)
 
@@ -692,7 +696,7 @@ Prohibition on pass through.—None of the assessments collected under this titl
 
 "(c)
 
-Sale for Use Other Than as Oilheat Fuel.—No. 1 distillate and No. 2 dyed distillate sold for uses other than as oilheat fuel are excluded from the assessment.
+Sale for Use Other Than as Oilheat Fuel.—No. 1 distillate and No. 2 dyed distillate sold for usesother than as oilheat fuel are excluded from the assessment.
 
 "(d)
 
@@ -776,7 +780,7 @@ Research, development, and demonstration.—
 
 &emsp;&emsp;"(A)
 
-In general.—The Alliance shall ensure that not less than 30 percent of the assessments collected and permitted to be obligated for each calendar year under this title are used by qualified State associations or the Alliance to conduct research, development, and demonstration activities relating to oilheat fuel, including the development of energy-efficient heating and the transition andfacilitation of the entry of energy efficient heating systems into the marketplace.
+In general.—The Alliance shall ensure that not less than 30 percent of the assessments collected and permitted to be obligated for each calendar year under this title are used by qualified State associations or the Alliance to conduct research, development, and demonstration activities relating to oilheat fuel, including the development of energy-efficient heating and the transition and facilitation of the entry of energy efficient heating systems into the marketplace.
 
 &emsp;&emsp;"(B)
 
@@ -852,7 +856,7 @@ Heating oil efficiency and upgrade program.—
 
 In general.—The Alliance shall ensure that not less than 15 percent of the assessments collected and permitted to be obligated for each calendar year under this title are used by qualified State associations or the Alliance to carry out programs to assist consumers—
 
-&emsp;&emsp;&emsp;"(i) to make cost-effective upgrades to more fuel efficient heating oil systems or otherwise make cost-effective modifications to an existing heating system to improve the efficiency of the system;
+&emsp;&emsp;&emsp;"(i) to make cost-effective upgrades to more fuel efficient heating oil systems or otherwise make cost-effective modifications to an existingheating system to improve the efficiency of the system;
 
 &emsp;&emsp;&emsp;"(ii) to improve energy efficiency or reduce energy consumption through cost-effective energy efficiency programs for consumers; or
 
@@ -1086,7 +1090,7 @@ Judicial Review.—
 
 &emsp;"(1)
 
-In general.—A public utility filing a complaint under this section, the Alliance, a qualified State association undertaking the consumer education activity with respect to which a complaint under this section is made, or any person aggrievedby a violation of subsection (a) may seek appropriate relief in United States district court.
+In general.—A public utility filing a complaint under this section, the Alliance, a qualified State association undertaking the consumer education activity with respect to which a complaint under this section is made, or any person aggrieved by a violation of subsection (a) may seek appropriate relief in United States district court.
 
 &emsp;"(2)
 
@@ -1123,6 +1127,8 @@ Noncompliance.—If the Alliance, a qualified State association, or any other en
 #### "SEC. 713. SUNSET.
 
 "This title shall cease to be effective as of the date that is 28 years after the date on which the Alliance is established."
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 11912. Delegation of Authorities
 

@@ -32,9 +32,13 @@ As used in this subchapter—
 
 (Pub. L. 86–797, title II, §205, as added Pub. L. 93–452, §2, Oct. 18, 1974, 88 Stat. 1373; amended Pub. L. 112–81, div. A, title III, §312(b)(11), Dec. 31, 2011, 125 Stat. 1355.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Pub. L. 112–81 inserted section catchline.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

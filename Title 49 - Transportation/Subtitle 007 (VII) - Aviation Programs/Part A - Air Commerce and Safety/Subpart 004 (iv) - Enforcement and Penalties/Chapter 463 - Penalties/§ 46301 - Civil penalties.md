@@ -124,7 +124,7 @@ Administrative Imposition of Penalties.—(1) In this subsection—
 
 (D) When an individual files an appeal with the Board under this paragraph, the order of the Administrator of the Federal Aviation Administration is stayed.
 
-(6) An individual substantially affected by an order of the Board under paragraph (5) of this subsection, or the Administrator of the Federal Aviation Administration when the Administrator of the Federal Aviation Administration decides that an order of the Board under paragraph (5) will have a significant adverse impact on carrying out this part, may obtain judicial review of the order under section 46110 of this title. The Administrator of the Federal Aviation Administration shall be made a party to the judicial review proceedings. Findings of fact of the Board are conclusive if supported by substantial evidence.
+(6) An individual substantially affected by an order of the Board under paragraph (5) of this subsection, or the Administrator of the Federal Aviation Administration when the Administrator of the Federal Aviation Administration decides that an order of the Board under paragraph (5) will have a significant adverse impacton carrying out this part, may obtain judicial review of the order under section 46110 of this title. The Administrator of the Federal Aviation Administration shall be made a party to the judicial review proceedings. Findings of fact of the Board are conclusive if supported by substantial evidence.
 
 (7)(A) The Administrator of the Federal Aviation Administration may impose a penalty on a person (except an individual acting as a pilot, flight engineer, mechanic, or repairman) only after notice and an opportunity for a hearing on the record.
 
@@ -196,7 +196,7 @@ Nonapplication.—(1) This section does not apply to the following when performi
 
 Small Business Concern Defined.—In this section, the term "small business concern" has the meaning given that term in section 3 of the Small Business Act (15 U.S.C. 632).
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1231; Pub. L. 103–305, title I, §112(c), title II, §207(c), Aug. 23, 1994, 108 Stat. 1575, 1588; Pub. L. 103–429, §6(60), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title V, §502(c), title VIII, §804(b), title XII, §1220(b), Oct. 9, 1996, 110 Stat. 3263, 3271, 3286; Pub. L. 104–287, §5(77), Oct. 11, 1996, 110 Stat. 3396; Pub. L. 105–102, §3(c)(4), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–181, title II, §222, title V, §§503(c), 504(b), 519(c), title VII, §§707(b), 720, Apr. 5, 2000, 114 Stat. 102, 133, 134, 149, 158, 163; Pub. L. 106–424, §15, Nov. 1, 2000, 114 Stat. 1888; Pub. L. 107–71, title I, §140(d)(1)–(4), Nov. 19, 2001, 115 Stat. 642; Pub. L. 107–296, title XVI, §1602, Nov. 25, 2002, 116 Stat. 2312; Pub. L. 108–176, title V, §503(a)–(c), Dec. 12, 2003, 117 Stat. 2557, 2558; Pub. L. 108–458, title IV, §4027(a), Dec. 17, 2004, 118 Stat. 3727; Pub. L. 110–53, title XIII, §1302(b), Aug. 3, 2007, 121 Stat. 392; Pub. L. 110–161, div. E, title V, §542, Dec. 26, 2007, 121 Stat. 2079; Pub. L. 112–74, div. D, title V, §564(a), Dec. 23, 2011, 125 Stat. 981; Pub. L. 112–95, title IV, §415(b), title VIII, §803, Feb. 14, 2012, 126 Stat. 96, 119; Pub. L. 113–188, title XV, §1501(b)(2)(B), Nov. 26, 2014, 128 Stat. 2024; Pub. L. 114–190, title II, §2205(b), July 15, 2016, 130 Stat. 631; Pub. L. 115–254, div. B, title III, §372(e), title IV, §436, div. K, title I, §1991(g)(1), Oct. 5, 2018, 132 Stat. 3312, 3344, 3643.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1231; Pub. L. 103–305, title I, §112(c), title II, §207(c), Aug. 23, 1994, 108 Stat. 1575, 1588; Pub. L. 103–429, §6(60), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title V, §502(c), title VIII, §804(b), title XII, §1220(b), Oct. 9, 1996, 110 Stat. 3263, 3271, 3286; Pub. L. 104–287, §5(77), Oct. 11, 1996, 110 Stat. 3396; Pub. L. 105–102, §3(c)(4), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–181, title II, §222, title V, §§503(c), 504(b), 519(c), title VII, §§707(b), 720, Apr. 5, 2000, 114 Stat. 102, 133, 134, 149, 158, 163; Pub. L. 106–424, §15, Nov. 1, 2000, 114 Stat. 1888; Pub. L. 107–71, title I, §140(d)(1)–(4), Nov. 19, 2001, 115 Stat. 642; Pub. L. 107–296, title XVI, §1602, Nov. 25, 2002, 116 Stat. 2312; Pub. L. 108–176, title V, §503(a)–(c), Dec. 12, 2003, 117 Stat. 2557, 2558; Pub. L. 108–458, title IV, §4027(a), Dec. 17, 2004, 118 Stat. 3727; Pub. L. 110–53, title XIII, §1302(b), Aug. 3, 2007, 121 Stat. 392; Pub. L. 110–161, div. E,title V, §542, Dec. 26, 2007, 121 Stat. 2079; Pub. L. 112–74, div. D, title V, §564(a), Dec. 23, 2011, 125 Stat. 981; Pub. L. 112–95, title IV, §415(b), title VIII, §803, Feb. 14, 2012, 126 Stat. 96, 119; Pub. L. 113–188, title XV, §1501(b)(2)(B), Nov. 26, 2014, 128 Stat. 2024; Pub. L. 114–190, title II, §2205(b), July 15, 2016, 130 Stat. 631; Pub. L. 115–254, div. B, title III, §372(e), title IV, §436, div. K, title I, §1991(g)(1), Oct. 5, 2018, 132 Stat. 3312, 3344, 3643.)
 
 Historical and Revision Notes
 
@@ -376,6 +376,8 @@ This makes a conforming amendment to 49:46301(a)(3).
 
 These amend 49:46301(c)(1)(A), (d)(2), and (f)(1)(A)(i) to correct errors in the codification enacted by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1231), to include in the cross-reference sections enacted after the cutoff date for the codification of title 49 as enacted by section 1 of the Act (Public Law 103–272, 108 Stat. 745), and to make it easier to include future sections in the cross-reference by restating it in terms of chapters.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this paragraph, referred to in subsec. (a)(6), is the date of enactment of Pub. L. 110–161, which was approved Dec. 26, 2007.
@@ -408,7 +410,7 @@ Subsec. (f)(1)(A)(i). Pub. L. 115–254, §372(e)(4), inserted "chapter 448," af
 
 Subsec. (g). Pub. L. 115–254, §1991(g)(1)(D), substituted "Administrator of the Federal Aviation Administration" for "Administrator".
 
-Subsec. (h)(2). Pub. L. 115–254, §1991(g)(1)(E), substituted "Administrator of the Transportation Security Administration with respect to security duties and powers designated to be carried out by the Administrator of the Transportation Security Administration or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator of the Federal Aviation Administration" for "UnderSecretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or the Administrator with respect to aviation safety duties and powers designated to be carried out by the Administrator".
+Subsec. (h)(2). Pub. L. 115–254, §1991(g)(1)(E), substituted "Administrator of the Transportation Security Administration with respect to security duties and powers designated to be carried out by the Administrator of the Transportation Security Administration or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator of the Federal Aviation Administration" for "Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or the Administrator with respect to aviation safety duties and powers designated to be carried out by the Administrator".
 
 <b>2016</b>—Subsec. (d)(2). Pub. L. 114–190 inserted "section 46320," after "section 46319,".
 
@@ -544,7 +546,7 @@ Pub. L. 104–264, §1220(b), which directed amendment of par. (2) by inserting 
 
 Pub. L. 104–264, §502(c)(1), which directed amendment of par. (2) by inserting "44724," after "44718(d),", was repealed by Pub. L. 105–102.
 
-Subsec. (f)(1)(A)(i). Pub. L. 104–287, §5(77)(F), substituted "section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), or chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), 44908, and 44909)" for "or any of sections 44701(a) or (b), 44702–44716, 44901, 44903(b) or (c), 44905, 44906, 44907(d)(1)(B), 44912–44915, or 44932–44938".
+Subsec. (f)(1)(A)(i). Pub. L. 104–287, §5(77)(F), substituted "section 44502(b) or (c), chapter 447 (except sections 44717 and 44719–44723), or chapter 449 (except sections 44902, 44903(d), 44904, 44907(a)–(d)(1)(A) and (d)(1)(C)–(f), 44908, and 44909)" for "or any of sections44701(a) or (b), 44702–44716, 44901, 44903(b) or (c), 44905, 44906, 44907(d)(1)(B), 44912–44915, or 44932–44938".
 
 Pub. L. 104–264, §1220(b), which directed amendment of cl. (i) by inserting "44718(d)," after "44716,", was repealed by Pub. L. 105–102.
 
@@ -574,6 +576,8 @@ Subsec. (d)(7)(D). Pub. L. 103–305, §112(c)(3), added subpar. (D).
 
 Subsec. (f)(1)(A)(i). Pub. L. 103–429, §6(60)(B), substituted "any of sections 44701(a)" for "section 44701(a)".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2003 Amendment
 
 Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
@@ -598,7 +602,7 @@ Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. 
 
 Amendment by section 502(c) of Pub. L. 104–264 applicable to any air carrier hiring an individual as a pilot whose application was first received by the carrier on or after the 120th day following Oct. 9, 1996, see section 502(d) of Pub. L. 104–264, set out as a note under section 30305 of this title.
 
-Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal yearsbeginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
 #### Effective Date of 1994 Amendments
 

@@ -10,6 +10,8 @@ Notwithstanding section 263, all expenditures (other than expenditures for the p
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 65; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title II, §201(d)(9)(A), formerly §201(c)(9)(A), Sept. 3, 1982, 96 Stat. 420, renumbered §201(d)(9)(A), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title VII, §711(a)(3)(C), July 18, 1984, 98 Stat. 942; Pub. L. 99–514, title VII, §701(e)(4)(D), Oct. 22, 1986, 100 Stat. 2343; Pub. L. 100–647, title I, §1007(g)(5), Nov. 10, 1988, 102 Stat. 3435.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Subsec. (b). Pub. L. 100–647 substituted "section 59(e)" for "section 59(d)".
@@ -21,6 +23,8 @@ Notwithstanding section 263, all expenditures (other than expenditures for the p
 <b>1982</b>—Pub. L. 97–248, §201(d)(9)(A), designated existing provisions as subsec. (a), added subsec. (a) heading, and added subsec. (b).
 
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" in two places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 
@@ -40,5 +44,5 @@ Amendment by Pub. L. 97–248 applicable to taxable years beginning after Dec. 3
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
-For applicability of amendment by Pub. L. 99–514 notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
+For applicability of amendment by Pub. L. 99–514 notwithstanding any treaty obligation of the UnitedStates in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
 

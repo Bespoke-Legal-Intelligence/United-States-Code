@@ -106,7 +106,7 @@
 
 &emsp;&emsp;&emsp;(iii) the alien is admissible as an immigrant, except as otherwise provided under paragraph (2)(A), and is not ineligible for temporary protected status under paragraph (2)(B); and
 
-&emsp;&emsp;&emsp;(iv) to the extent and in a manner which the Attorney General establishes, the alien registers for the temporary protected status under this section during a registration period of not less than 180 days.
+&emsp;&emsp;&emsp;(iv) to the extent and in a manner which the Attorney General establishes, the alienregisters for the temporary protected status under this section during a registration period of not less than 180 days.
 
 #### (B) Registration fee
 
@@ -174,7 +174,7 @@
 
 #### (3) Effective date of terminations
 
-&emsp;If the Attorney General terminates the designation of a foreign state (or part of such foreign state) under subsection (b)(3)(B), such termination shall only apply to documentation and authorization issued or renewed after the effective date of the publication of notice of the determination under that subsection (or, at the Attorney General's option, after such period after the effective date of the determination as the Attorney General determines to be appropriate in order to provide for an orderly transition).
+&emsp;If the Attorney General terminates the designation of a foreign state (or part of such foreign state) under subsection (b)(3)(B), such termination shall only apply to documentation and authorization issued or renewed after the effective date of the publication of notice of the determination under that subsection (or,at the Attorney General's option, after such period after the effective date of the determination as the Attorney General determines to be appropriate in order to provide for an orderly transition).
 
 #### (4) Detention of alien
 
@@ -244,7 +244,7 @@ Except as otherwise specifically provided, this section shall constitute the exc
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(5), was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+This chapter, referred to in subsec. (a)(5), was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. Forcomplete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 #### Amendments
 

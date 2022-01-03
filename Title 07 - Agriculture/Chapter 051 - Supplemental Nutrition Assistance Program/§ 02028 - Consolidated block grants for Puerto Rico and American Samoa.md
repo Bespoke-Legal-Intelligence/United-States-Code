@@ -18,7 +18,7 @@
 
 &emsp;&emsp;&emsp;(i) for fiscal year 2003, $1,401,000,000; and
 
-&emsp;&emsp;&emsp;(ii) subject to the availability of appropriations under section 2027(a) of this title, for each fiscal year thereafter, the amount specified in clause (i), as adjusted by the percentage by which the thrifty food plan has been adjusted under section 2012(u)(4) of this title between June 30, 2002, and June 30 of the immediately preceding fiscal year.
+&emsp;&emsp;&emsp;(ii) subject to the availability of appropriations under section 2027(a) of this title, for each fiscal year thereafter, the amount specified in clause (i), as adjusted by the percentage by which the thrifty food planhas been adjusted under section 2012(u)(4) of this title between June 30, 2002, and June 30 of the immediately preceding fiscal year.
 
 #### (B) Payments to Commonwealth of Puerto Rico
 
@@ -132,9 +132,11 @@ Whoever knowingly and willfully embezzles, misapplies, steals, or obtains by fra
 
 #### (4) Funding
 
-&emsp;Out of any funds made available under section 2027 of this title for fiscal year 2014, the Secretary shall make available to carry out the review and report described in paragraphs (1) and (2) $1,000,000, to remain available until expended.
+&emsp;Out of any funds made available under section 2027 of this title for fiscal year 2014, the Secretary shall make available to carry out the review and report described in paragraphs\(1) and (2) $1,000,000, to remain available until expended.
 
 (Pub. L. 88–525, §19, as added Pub. L. 97–35, title I, §116(a)(2), Aug. 13, 1981, 95 Stat. 364; amended Pub. L. 97–253, title I, §184(a), Sept. 8, 1982, 96 Stat. 785; Pub. L. 98–204, §1, Dec. 2, 1983, 97 Stat. 1385; Pub. L. 99–114, §2, Oct. 1, 1985, 99 Stat. 488; Pub. L. 99–157, §3, Nov. 15, 1985, 99 Stat. 818; Pub. L. 99–182, §3, Dec. 13, 1985, 99 Stat. 1173; Pub. L. 99–198, title XV, §1543, Dec. 23, 1985, 99 Stat. 1589; Pub. L. 101–624, title XVII, §1762(b), Nov. 28, 1990, 104 Stat. 3804; Pub. L. 102–237, title IX, §941(9), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 103–66, title XIII, §13917, Aug. 10, 1993, 107 Stat. 674; Pub. L. 104–127, title IV, §401(f), Apr. 4, 1996, 110 Stat. 1026; Pub. L. 106–387, §1(a) \[title VIII, §821\], Oct. 28, 2000, 114 Stat. 1549, 1549A–59; Pub. L. 107–171, title IV, §4124(a), May 13, 2002, 116 Stat. 324; Pub. L. 110–234, title IV, §§4115(b)(13), 4406(a)(6), May 22, 2008, 122 Stat. 1108, 1141; Pub. L. 110–246, §4(a), title IV, §§4115(b)(13), 4406(a)(6), June 18, 2008, 122 Stat. 1664, 1870, 1902; Pub. L. 113–79, title IV, §4025, Feb. 7, 2014, 128 Stat. 809.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -185,6 +187,8 @@ Subsec. (b)(1)(A)(i). Pub. L. 99–198, §1543(3), substituted "the agency or ag
 <b>1983</b>—Subsec. (a)(1)(A). Pub. L. 98–204 temporarily struck out "noncash" after "100 per centum of the expenditures for". See Effective and Termination Dates of 1983 Amendment note below.
 
 <b>1982</b>—Subsec. (a)(1)(A). Pub. L. 97–253 substituted "the expenditures for noncash food assistance" for "the expenditures for food assistance".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 
@@ -286,5 +290,5 @@ Pub. L. 98–204, §2, Dec. 2, 1983, 97 Stat. 1385, directed the Secretary of Ag
 
 #### Amount Payable to the Commonwealth of Puerto Rico for Fiscal Year 1982; Plans To Be Submitted to the Secretary for Grants for Fiscal Years 1982 and 1983
 
-Pub. L. 97–35, title I, §116(b), Aug. 13, 1981, 95 Stat. 366, provided for a payment of $206,500,000 to Puerto Rico for fiscal year 1982, notwithstanding the provisions of this section, and required Puerto Rico to submit the plan required by the provisions of subsec. (b) of this section by Apr. 1, 1982, to receive payments for fiscal years 1982 and 1983.
+Pub. L. 97–35, title I, §116(b), Aug. 13, 1981, 95 Stat. 366, provided for a payment of $206,500,000 to Puerto Rico for fiscal year 1982, notwithstanding the provisions of this section, and required Puerto Rico to submit the plan required by the provisions of subsec. (b) of this sectionby Apr. 1, 1982, to receive payments for fiscal years 1982 and 1983.
 

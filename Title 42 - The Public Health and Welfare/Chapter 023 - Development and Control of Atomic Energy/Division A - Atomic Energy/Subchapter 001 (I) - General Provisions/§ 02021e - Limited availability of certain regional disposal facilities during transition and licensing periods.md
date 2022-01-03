@@ -58,7 +58,7 @@ The availability of disposal capacity for low-level radioactive waste from any s
 
 #### (3) Unused allocations
 
-&emsp;Any unused allocation under paragraph (1) received by a reactor during the transition period or the licensing period may be used at any time after such reactor receives its full power license or after the beginning of the pertinent period, whichever is later, but not in any event after December 31, 1992, or after commencement of operation of a regional disposal facility in the compact region or State in which such reactor is located, whichever occurs first.
+&emsp;Any unused allocation under paragraph (1) received by a reactor during the transition period or the licensing period may be used at any time after such reactor receives its fullpower license or after the beginning of the pertinent period, whichever is later, but not in any event after December 31, 1992, or after commencement of operation of a regional disposal facility in the compact region or State in which such reactor is located, whichever occurs first.
 
 #### (4) Transferability
 
@@ -108,9 +108,9 @@ January 1, 1988.—The twenty-five per centum of any amount collected by a State
 
 &emsp;&emsp;&emsp;(iii)
 
-January 1, 1990.—The twenty-five per centum of any amount collected by aState under paragraph (1) for low-level radioactive waste disposed of under this section during the period beginning January 1, 1988 and ending December 31, 1989, and transferred to the Secretary under subparagraph (A), shall be paid by the Secretary in accordance with subparagraph (D) if the milestone described in subsection (e)(1)(C) is met by the State in which such waste originated (or its compact region, where applicable).
+January 1, 1990.—The twenty-five per centum of any amount collected by a State under paragraph (1) for low-level radioactive waste disposed of under this section during the period beginning January 1, 1988 and ending December 31, 1989, and transferred to the Secretary under subparagraph (A), shall be paid by the Secretary in accordance with subparagraph (D) if the milestone described in subsection (e)(1)(C) is met by the State in which such waste originated (or its compact region, where applicable).
 
-&emsp;&emsp;&emsp;(iv) The twenty-five per centum of any amount collected by a State under paragraph (1) for low-level radioactive waste disposed of under this section during the period beginning January 1, 1990 and ending December 31, 1992, and transferred to the Secretary under subparagrah <sup>1</sup> (A), shall be paid by the Secretary in accordance with subparagraph (D) if, by January 1, 1993, the State in which such waste originated (or its compact region, where applicable) is able to provide for the disposal of all low-level radioactive waste generated within such State or compact region.
+&emsp;&emsp;&emsp;(iv) The twenty-five per centum of any amount collected by a State under paragraph (1) for low-level radioactive waste disposed of under this section during the period beginning January 1, 1990 and ending December 31, 1992, and transferred to the Secretary under subparagrah <sup>1</sup> (A), shall be paid by the Secretary in accordance with subparagraph (D) if, by January1, 1993, the State in which such waste originated (or its compact region, where applicable) is able to provide for the disposal of all low-level radioactive waste generated within such State or compact region.
 
 #### (C) Failure to meet January 1, 1993 deadline
 
@@ -148,7 +148,7 @@ January 1, 1990.—The twenty-five per centum of any amount collected by aState 
 
 #### (I) Recipient
 
-&emsp;&emsp;&emsp;&emsp;Any State or compact commission receiving a payment under subparagraphs (B) or (C) shall, on December 31 of eachyear in which any such funds are expended, submit a report to the Department of Energy itemizing any such expenditures.
+&emsp;&emsp;&emsp;&emsp;Any State or compact commission receiving a payment under subparagraphs (B) or (C) shall, on December 31 of each year in which any such funds are expended, submit a report to the Department of Energy itemizing any such expenditures.
 
 #### (II) Department of Energy
 
@@ -156,7 +156,7 @@ January 1, 1990.—The twenty-five per centum of any amount collected by aState 
 
 #### (F) Payment to States
 
-&emsp;&emsp;Any amount collected by a State under paragraph (1) that is placed in escrow under subparagraph (A) and not paid to a State or compact commission under subparagraphs (B) and (C) or not repaid to a generator under subparagraph (C) shall be paid from such escrow account to such State collecting such payment under paragraph (1). Such payment shall be made not later than 30 days after a determination of ineligibility for a refund is made.
+&emsp;&emsp;Any amount collected by a State under paragraph (1) that is placed in escrow under subparagraph (A) and not paid to a State or compact commission under subparagraphs (B) and (C) or not repaid to a generator under subparagraph (C) shall be paid from such escrow account to such State collecting such payment under paragraph (1). Suchpayment shall be made not later than 30 days after a determination of ineligibility for a refund is made.
 
 #### (G) Penalty surcharges
 
@@ -270,13 +270,15 @@ Except as provided in subsections (b) through (e), low-level radioactive waste d
 
 (Pub. L. 96–573, §5, as added Pub. L. 99–240, title I, §102, Jan. 15, 1986, 99 Stat. 1846.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Low-Level Radioactive Waste Policy Act, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
 
 #### Constitutionality
 
-For constitutionality of section 102 of Pub. L. 99–240, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For constitutionality of section 102 of Pub. L. 99–240, see note under section 2021b.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "subparagraph".</i>
 

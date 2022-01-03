@@ -16,7 +16,7 @@ The Secretary of Commerce (hereafter in this chapter referred to as the "Secreta
 
 &emsp;(4) to enter into contracts, including cooperative research and development arrangements, and grants and cooperative agreements, in furtherance of the purposes of this chapter;
 
-&emsp;(5) to provide United States industry, Government, and educational institutions with a national clearinghouse of current information,techniques, and advice for the achievement of higher quality and productivity based on current domestic and international scientific and technical development;
+&emsp;(5) to provide United States industry, Government, and educational institutions with a national clearinghouse of current information, techniques, and advice for the achievement of higher quality and productivity based on current domestic and international scientific and technical development;
 
 &emsp;(6) to assist industry in the development of measurements, measurement methods, and basic measurement technology;
 
@@ -94,7 +94,7 @@ In carrying out the functions specified in subsection (b), the Secretary, acting
 
 #### (d) Management costs
 
-In carrying out the extramural funding programs of the Institute, including the programs established under sections 278k and 278l of this title, the Secretary may retain reasonable amounts of any funds appropriated pursuant to authorizations for these programs in order to pay for the Institute's management of these programs.
+In carrying out the extramural funding programs of the Institute, including the programs established under sections 278k and 278l of this title, the Secretary may retain reasonable amounts of any funds appropriated pursuant toauthorizations for these programs in order to pay for the Institute's management of these programs.
 
 #### (e) Cyber risks
 
@@ -152,6 +152,8 @@ In carrying out the extramural funding programs of the Institute, including the 
 
 (Mar. 3, 1901, ch. 872, §2, 31 Stat. 1449; July 22, 1950, ch. 486, §1, 64 Stat. 371; Pub. L. 92–317, §3(b), June 22, 1972, 86 Stat. 235; Pub. L. 100–235, §3(1), Jan. 8, 1988, 101 Stat. 1724; Pub. L. 100–418, title V, §5112(a), Aug. 23, 1988, 102 Stat. 1428; Pub. L. 102–245, title II, §201(e), Feb. 14, 1992, 106 Stat. 19; Pub. L. 104–113, §12(a), (b), Mar. 7, 1996, 110 Stat. 782; Pub. L. 110–69, title III, §§3002(c)(2)(A), 3013(b), Aug. 9, 2007, 121 Stat. 586, 598; Pub. L. 113–274, title I, §101(a), (b), Dec. 18, 2014, 128 Stat. 2972; Pub. L. 114–329, title I, §104(b)(4), title II, §§202(d), 205(a)(2)(B), title IV, §403, Jan. 6, 2017, 130 Stat. 2976, 2998, 3000, 3023; Pub. L. 115–236, §2(b), Aug. 14, 2018, 132 Stat. 2444.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 278g–3 of this title, referred to in subsec. (c)(13), was amended, and no longer defines the term "computer systems".
@@ -197,6 +199,8 @@ Par. (20). Pub. L. 100–235 added par. (20).
 <b>1972</b>—Par. (19). Pub. L. 92–317 inserted provisions authorizing use of National Bureau of Standards personnel for teaching and training activities without additional compensation.
 
 <b>1950</b>—Act July 22, 1950, provided basic authority for performance of certain functions and activities of Department of Commerce.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

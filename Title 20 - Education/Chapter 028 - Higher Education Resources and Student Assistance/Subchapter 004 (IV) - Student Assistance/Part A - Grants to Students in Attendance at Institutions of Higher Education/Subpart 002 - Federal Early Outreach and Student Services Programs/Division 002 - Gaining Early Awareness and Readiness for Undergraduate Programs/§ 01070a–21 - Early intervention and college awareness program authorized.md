@@ -56,6 +56,8 @@ For the purposes of this division, the term "eligible entity" means—
 
 (Pub. L. 89–329, title IV, §404A, as added Pub. L. 105–244, title IV, §403, Oct. 7, 1998, 112 Stat. 1656; amended Pub. L. 110–315, title IV, §404(a), Aug. 14, 2008, 122 Stat. 3206.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1070a–21, Pub. L. 89–329, title IV, §404A, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 492; amended Pub. L. 103–208, §2(b)(12), Dec. 20, 1993, 107 Stat. 2459, authorized establishment of early intervention program, prior to the general amendment of this division by Pub. L. 105–244.
@@ -64,7 +66,7 @@ A prior section 1070a–21, Pub. L. 89–329, title IV, §404A, as added Pub. L.
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–315, §404(a)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "The Secretary is authorized, in accordance with the requirements of this division, to establish a program that—
 
-&emsp;"(1) encourages eligible entities to provide or maintain a guarantee to eligible low-income students whoobtain a secondary school diploma (or its recognized equivalent), of the financial assistance necessary to permit the students to attend an institution of higher education; and
+&emsp;"(1) encourages eligible entities to provide or maintain a guarantee to eligible low-income students who obtain a secondary school diploma (or its recognized equivalent), of the financial assistance necessary to permit the students to attend an institution of higher education; and
 
 &emsp;"(2) supports eligible entities in providing—
 
@@ -85,6 +87,8 @@ Subsec. (c)(2). Pub. L. 110–315, §404(a)(3), added par. (2) and struck out fo
 &emsp;"(B) one or more degree granting institutions of higher education; and
 
 &emsp;"(C) at least two community organizations or entities, such as businesses, professional associations, community-based organizations, philanthropic organizations, State agencies, institutions or agencies sponsoring programs authorized under subpart 4 of this part, or other public or private agencies or organizations."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

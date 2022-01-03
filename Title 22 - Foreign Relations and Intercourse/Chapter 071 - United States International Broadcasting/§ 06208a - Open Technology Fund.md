@@ -16,7 +16,7 @@ In furtherance of the mission set forth in subsection (a), the Open Technology F
 
 &emsp;(1) research, develop, implement, and maintain—
 
-&emsp;&emsp;(A) technologies that circumvent techniques used by authoritarian governments,nonstate actors, and others to block or censor access to the internet, including circumvention tools that bypass internet blocking, filtering, and other censorship techniques used to limit or block legitimate access to content and information; and
+&emsp;&emsp;(A) technologies that circumvent techniques used by authoritarian governments, nonstate actors, and others to block or censor access to the internet, including circumvention tools that bypass internet blocking, filtering, and other censorship techniques used to limit or block legitimate access to content and information; and
 
 &emsp;&emsp;(B) secure communication tools and other forms of privacy and security technology that facilitate the creation and distribution of news and enable audiences to access media content on censored websites;
 
@@ -24,7 +24,7 @@ In furtherance of the mission set forth in subsection (a), the Open Technology F
 
 &emsp;(3) research and analyze emerging technical threats and develop innovative solutions through collaboration with the private and public sectors to maintain the technological advantage of the United States Government over authoritarian governments, nonstate actors, and others;
 
-&emsp;(4) develop, acquire, and distribute requisite internet freedom technologies and techniques for the United States Agency for Global Media, including as set forth in paragraph (1), and digital security interventions, to fully enable the creation and distribution of digital content between and to all users and regional audiences;
+&emsp;(4) develop, acquire, and distribute requisite internet freedom technologies and techniques for the United States Agency for Global Media, including as set forth in paragraph (1),and digital security interventions, to fully enable the creation and distribution of digital content between and to all users and regional audiences;
 
 &emsp;(5) prioritize programs for countries the governments of which restrict freedom of expression on the internet, and that are important to the national interest of the United States, and are consistent with section 7050(b)(2)(C) of the Further Consolidated Appropriations Act, 2020 (Public Law 116–94); and
 
@@ -142,5 +142,5 @@ The Inspector General Act of 1978, referred to in subsec. (h)(3), is Pub. L. 95�
 
 #### Effective Date
 
-Section effective and applicable beginning on July 1, 2021, see section 1299P(e) of Pub. L. 116–283, set out asan Effective Date of 2021 Amendment note under section 6203 of this title.
+Section effective and applicable beginning on July 1, 2021, see section 1299P(e) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note under section 6203 of this title.
 

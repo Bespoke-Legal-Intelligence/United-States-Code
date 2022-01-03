@@ -2,7 +2,7 @@
 
 #### (a) Treatment of gain as ordinary income
 
-In the case of a sale or exchange of property, directly or indirectly, between related persons, any gain recognized to the transferor shall be treated as ordinary income if such property is, in the hands of the transferee, of a character which is subject to the allowance for depreciation provided in section 167.
+In the case of a sale or exchange of property, directly or indirectly, between related persons,any gain recognized to the transferor shall be treated as ordinary income if such property is, in the hands of the transferee, of a character which is subject to the allowance for depreciation provided in section 167.
 
 #### (b) Related persons
 
@@ -43,6 +43,8 @@ For purposes of subsection (a), the term "related person" also includes—
 For purposes of this section, a patent application shall be treated as property which, in the hands of the transferee, is of a character which is subject to the allowance for depreciation provided in section 167.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 332; Pub. L. 85–866, title I, §56, Sept. 2, 1958, 72 Stat. 1645; Pub. L. 94–455, title XXI, §2129(a), Oct. 4, 1976, 90 Stat. 1922; Pub. L. 95–600, title VII, §701(v)(1), Nov. 6, 1978, 92 Stat. 2920; Pub. L. 96–471, §5, Oct. 19, 1980, 94 Stat. 2255; Pub. L. 97–448, title III, §301, Jan. 12, 1983, 96 Stat. 2397; Pub. L. 98–369, div. A, title I, §175(a), (b), title IV, §421(b)(6)(A), title V, §557(a), July 18, 1984, 98 Stat. 708, 794, 898; Pub. L. 99–514, title VI, §642(a)(1)(A)–(C), Oct. 22, 1986, 100 Stat. 2283, 2284; Pub. L. 105–34, title XIII, §1308(b), Aug. 5, 1997, 111 Stat. 1041.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -92,6 +94,8 @@ Subsec. (c). Pub. L. 94–455 substituted provision respecting constructive owne
 
 <b>1958</b>—Subsec. (c). Pub. L. 85–866 added subsec. (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–34 applicable to taxable years beginning after Aug. 5, 1997, see section 1308(c) of Pub. L. 105–34, set out as a note under section 267 of this title.
@@ -112,7 +116,7 @@ Transitional rule for binding contracts.—The amendments made by this section s
 
 Pub. L. 98–369, div. A, title I, §175(c), July 18, 1984, 98 Stat. 708, provided that: "The amendments made by this section \[amending this section\] shall apply to sales or exchanges after March 1, 1984, in taxable years ending after such date."
 
-Amendment by section 421(b)(6) of Pub. L. 98–369 applicable to transfers after July 18, 1984, in taxable years ending after such date, subject to election to have amendment apply to transfers after 1983 or to transfers pursuant to existing decrees, see section 421(d) of Pub.L. 98–369, set out as an Effective Date note under section 1041 of this title.
+Amendment by section 421(b)(6) of Pub. L. 98–369 applicable to transfers after July 18, 1984, in taxable years ending after such date, subject to election to have amendment apply to transfers after 1983 or to transfers pursuant to existing decrees, see section 421(d) of Pub. L. 98–369, set out as an Effective Date note under section 1041 of this title.
 
 Pub. L. 98–369, div. A, title V, §557(b), July 18, 1984, 98 Stat. 899, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to sales or exchanges after the date of the enactment of this Act \[July 18, 1984\] in taxable years ending after such date."
 

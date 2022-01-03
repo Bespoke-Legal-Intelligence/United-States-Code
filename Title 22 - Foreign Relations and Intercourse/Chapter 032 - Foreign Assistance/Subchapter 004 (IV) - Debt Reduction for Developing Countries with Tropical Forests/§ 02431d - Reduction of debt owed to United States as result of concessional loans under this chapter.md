@@ -50,7 +50,7 @@
 
 &emsp;(B) The provisions relating to interest on new obligations under section 2430e of this title.
 
-(2) In addition to the application of the provisions relating to repayment of principal under section 2430d of this title to the reduction of debt under subsection (a)(1) (in accordance with paragraph (1)(A) of this subsection), repayment of principal on a new obligation established under subsection (b) may be made in the local currency of the beneficiary country and deposited in the Conservation Fund of the country in the same manner as the provisions relating to payment of interest on new obligations under section 2430e of this title.
+(2) In addition to the application of the provisions relating to repayment of principal under section 2430d of this title to the reduction ofdebt under subsection (a)(1) (in accordance with paragraph (1)(A) of this subsection), repayment of principal on a new obligation established under subsection (b) may be made in the local currency of the beneficiary country and deposited in the Conservation Fund of the country in the same manner as the provisions relating to payment of interest on new obligations under section 2430e of this title.
 
 #### (d) Authorization of appropriations for fiscal years after fiscal year 2001
 

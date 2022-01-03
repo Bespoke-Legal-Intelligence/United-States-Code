@@ -28,6 +28,8 @@ Oct. 15, 1966, Pub. L. 89–670, §8(g)(2), 80 Stat. 943.
 
 Subsection (a) is included to provide in chapter 1 of the revised title a complete list of the organizational units established by law that are in the Department of Transportation or are subject to the direction and supervision of the Secretary of Transportation.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2020</b>—Pub. L. 116–260, §512(c)(7)(A)(i)(I), substituted "Great Lakes St. Lawrence Seaway Development Corporation" for "Saint Lawrence Seaway Development Corporation" in section catchline.

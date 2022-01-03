@@ -60,7 +60,7 @@ Payments of any grants or under any contracts pursuant to sections 5321 and 5322
 
 #### (d) Calendar year basis for contracts
 
-(1) Beginning in fiscal year 1990, upon the election of a tribal organization, the Secretary shall use the calendar year as the basis for any contracts or agreements under this chapter, unless the Secretary and the Indian tribe or tribal organization agree on a different period.
+(1) Beginning in fiscal year 1990, upon the election of a tribal organization, the Secretary shalluse the calendar year as the basis for any contracts or agreements under this chapter, unless the Secretary and the Indian tribe or tribal organization agree on a different period.
 
 (2) The Secretary shall, on or before April 1 of each year beginning in 1992, submit a report to the Congress on the amounts of any additional obligation authority needed to implement this subsection in the next following fiscal year.
 
@@ -94,7 +94,7 @@ In connection with any self-determination contract or grant made pursuant to sec
 
 #### (g) Performance of personal services
 
-The contracts authorized under section 5321 of this title and grants pursuant to section 5322 ofthis title may include provisions for the performance of personal services which would otherwise be performed by Federal employees including, but in no way limited to, functions such as determination of eligibility of applicants for assistance, benefits, or services, and the extent or amount of such assistance, benefits, or services to be provided and the provisions of such assistance, benefits, or services, all in accordance with the terms of the contract or grant and applicable rules and regulations of the appropriate Secretary: <i>Provided</i>, That the Secretary shall not make any contract which would impair his ability to discharge his trust responsibilities to any Indian tribe or individuals.
+The contracts authorized under section 5321 of this title and grants pursuant to section 5322 of this title may include provisions for the performance of personal services which would otherwise be performed by Federal employees including, but in no way limited to, functions such as determination of eligibility of applicants for assistance, benefits, or services, and the extent or amount of such assistance, benefits, or services to be provided and the provisions of such assistance, benefits, or services, all in accordance with the terms of the contract or grant and applicable rules and regulations of the appropriate Secretary: <i>Provided</i>, That the Secretary shall not make any contract which would impair his ability to discharge his trust responsibilities to any Indian tribe or individuals.
 
 #### (h) Fair and uniform provision by tribal organization of services and assistance to covered Indians
 
@@ -130,7 +130,7 @@ For purposes of section 501 of title 40 (relating to Federal sources of supply, 
 
 (2) In providing technical assistance to tribes and tribal organizations in the development of construction contract proposals, the Secretary shall provide, not later than 30 days after receiving a request from a tribe or tribal organization, all information available to the Secretary regarding the construction project, including construction drawings, maps, engineering reports, design reports, plans of requirements, cost estimates, environmental assessments or environmental impact reports, and archaeological reports.
 
-(3) Prior to finalizing a construction contract proposal pursuant to section 5321(a) of this title,and upon request of the tribe or tribal organization that submits the proposal, the Secretary shall provide for a precontract negotiation phase in the development of a contract proposal. Such phase shall include, at a minimum, the following elements:
+(3) Prior to finalizing a construction contract proposal pursuant to section 5321(a) of this title, and upon request of the tribe or tribal organization that submits the proposal, the Secretary shall provide for a precontract negotiation phase in the development of a contract proposal. Such phase shall include, at a minimum, the following elements:
 
 &emsp;(A) The provision of technical assistance pursuant to section 5322 of this title and paragraph (2).
 
@@ -212,7 +212,7 @@ Technical Assistance for Internal Controls.— <sup>3</sup> In considering pro
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(3)(A)(iii), (C)(i), (d)(1), (e), (f)(3), (k), (l)(1), and (m)(1), (4)(C)(i), was in the original "this Act", meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+This chapter, referred to in subsecs. (a)(3)(A)(iii), (C)(i), (d)(1), (e), (f)(3), (k), (l)(1), and (m)(1), (4)(C)(i), was in the original "this Act", meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which isclassified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 Section 9(c) of the Act of Aug. 2, 1946, referred to in subsec. (a)(3)(C)(ii)(III), was section 9(c) of act Aug. 2, 1946, ch. 744, 60 Stat. 809, which amended section 5 of former Title 41, Public Contracts, and was repealed by Pub. L. 111–350, §7(b), Jan. 4, 2011, 124 Stat. 3855, which Act enacted Title 41, Public Contracts.
 
@@ -300,7 +300,7 @@ Subsec. (e). Pub. L. 100–472, §204(e), added subsec. (e) and struck out forme
 
 Subsec. (f). Pub. L. 100–472, §204(e), added subsec. (f). Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 100–472, §204(f), redesignated former subsec. (f) as (g) and substituted reference to section 5321 of this title for reference to section 5321 of this title and former section 103 of Pub. L. 93–638.Former subsec. (g) redesignated (h). See Prior Provisions note set out under section 5322 of this title.
+Subsec. (g). Pub. L. 100–472, §204(f), redesignated former subsec. (f) as (g) and substituted reference to section 5321 of this title for reference to section 5321 of this title and former section 103 of Pub. L. 93–638. Former subsec. (g) redesignated (h). See Prior Provisions note set out under section 5322 of this title.
 
 Subsec. (h). Pub. L. 100–472, §204(g), (h), redesignated former subsec. (g) as (h), substituted reference to sections 5321 and 5322 of this title for reference to section 5321 of this title, former section 103 of Pub. L. 93–638, and section 5322 of this title, and reference to Health and Human Services for reference to Health, Education, and Welfare. Former subsec. (h), which related to minimum amount of funds under terms of contracts, was struck out. See Prior Provisions note set out under section 5322 of this title.
 

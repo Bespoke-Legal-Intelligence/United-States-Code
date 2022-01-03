@@ -1,6 +1,8 @@
 ### SUBCHAPTER IX—EMPLOYMENT SECURITY ADMINISTRATIVE FINANCING
 
-#### Amendments
+#### <b>Editorial Notes</b>
+
+#### Codification
 
 <b>1954</b>—Act Aug. 5, 1954, ch. 657, §2, 68 Stat. 668, in amending subchapter generally substituted subchapter heading "EMPLOYMENT SECURITY ADMINISTRATIVE FINANCING" for "TAX ON EMPLOYMENT OF EIGHT OR MORE".
 
@@ -21,6 +23,8 @@ Former subchapter IX, sections 1101–1103, 1105–1110, act Aug. 14, 1935, ch. 
 | 1108 | 1609 | 7805(a), (c). |
 | 1109 | 1601(b), (c) | 3302\. |
 | 1110 | 1602 | 3303\. |
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Repair of 1938 Hurricane Damage
 

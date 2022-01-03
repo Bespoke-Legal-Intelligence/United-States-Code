@@ -397,6 +397,7 @@
 | [262\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20F%20-%20Licensing%20of%20Biological%20Products%20and%20Clinical%20Laboratories/Subpart%20001%20-%20Biological%20Products/%C2%A7%2000262%20-%20Regulation%20of%20biological%20products.md) | Regulation of biological products. |
 | [262a.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20F%20-%20Licensing%20of%20Biological%20Products%20and%20Clinical%20Laboratories/Subpart%20001%20-%20Biological%20Products/%C2%A7%2000262a%20-%20Enhanced%20control%20of%20dangerous%20biological%20agents%20and%20toxins.md) | Enhanced control of dangerous biological agents and toxins. |
 | [263\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20F%20-%20Licensing%20of%20Biological%20Products%20and%20Clinical%20Laboratories/Subpart%20001%20-%20Biological%20Products/%C2%A7%2000263%20-%20Preparation%20of%20biological%20products%20by%20Service.md) | Preparation of biological products by Service. |
+| 263–1. | Education on biological products. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -587,6 +588,7 @@
 | 280g–6. | Chronic kidney disease initiatives. |
 | 280g–7. | Amyotrophic lateral sclerosis registry. |
 | 280g–7a. | Surveillance of neurological diseases. |
+| 280g–7b. | HHS public-private partnership for rare neurodegenerative diseases. |
 | 280g–8. | Support for patients receiving a positive diagnosis of Down syndrome or other prenatally or postnatally diagnosed conditions. |
 | 280g–9. | Programs to improve quality of life for persons with paralysis and other physical disabilities. |
 | 280g–10. | Community Preventive Services Task Force. |
@@ -2000,6 +2002,7 @@
 | 300g–7. | Monitoring of contaminants. |
 | 300g–8. | Operator certification. |
 | 300g–9. | Capacity development. |
+| 300g–10. | Cybersecurity support for public water systems. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -2016,6 +2019,7 @@
 | 300h–6. | Sole source aquifer demonstration program. |
 | 300h–7. | State programs to establish wellhead protection areas. |
 | 300h–8. | State ground water protection grants. |
+| 300h–9. | Secure geologic storage permitting. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -2059,12 +2063,16 @@
 | 300j–16. | Assistance to colonias. |
 | 300j–17. | Estrogenic substances screening program. |
 | 300j–18. | Drinking water studies. |
+| 300j–18a. | Annual study on boil water advisories. |
 | 300j–19. | Algal toxin risk assessment and management. |
 | 300j–19a. | Assistance for small and disadvantaged communities. |
 | 300j–19b. | Reducing lead in drinking water. |
 | 300j–19c. | Study on intractable water systems. |
 | 300j–19d. | Review of technologies. |
 | 300j–19e. | Water infrastructure and workforce investment. |
+| 300j–19f. | Operational sustainability of small public water systems. |
+| 300j–19g. | Midsize and Large Drinking Water System Infrastructure Resilience and Sustainability Program. |
+| 300j–19h. | Advanced drinking water technologies. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

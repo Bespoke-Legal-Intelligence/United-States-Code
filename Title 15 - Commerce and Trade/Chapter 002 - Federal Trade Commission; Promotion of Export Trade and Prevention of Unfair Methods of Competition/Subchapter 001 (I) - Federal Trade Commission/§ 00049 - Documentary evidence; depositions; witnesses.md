@@ -8,11 +8,13 @@ Any of the district courts of the United States within the jurisdiction of which
 
 Upon the application of the Attorney General of the United States, at the request of the Commission, the district courts of the United States shall have jurisdiction to issue writs of mandamus commanding any person, partnership, or corporation to comply with the provisions of this subchapter or any order of the Commission made in pursuance thereof.
 
-The Commission may order testimony to be taken by deposition in any proceeding or investigation pending under this subchapter at any stage of such proceeding or investigation. Such depositions may be taken before any person designated by the commission and having power to administer oaths. Such testimony shall be reduced to writing by the person taking the deposition, or under his direction, and shall then be subscribed by the deponent. Any person may be compelled to appear and depose and to producedocumentary evidence in the same manner as witnesses may be compelled to appear and testify and produce documentary evidence before the Commission as hereinbefore provided.
+The Commission may order testimony to be taken by deposition in any proceeding or investigation pending under this subchapter at any stage of such proceeding or investigation. Such depositions may be taken before any person designated by the commission and having power to administer oaths. Such testimony shall be reduced to writing by the person taking the deposition, or under his direction, and shall then be subscribed by the deponent. Any person may be compelled to appear and depose and to produce documentary evidence in the same manner as witnesses may be compelled to appear and testify and produce documentary evidence before the Commission as hereinbefore provided.
 
 Witnesses summoned before the Commission shall be paid the same fees and mileage that are paid witnesses in the courts of the United States and witnesses whose depositions are taken and the persons taking the same shall severally be entitled to the same fees as are paid for like services in the courts of the United States.
 
 (Sept. 26, 1914, ch. 311, §9, 38 Stat. 722; Pub. L. 91–452, title II, §211, Oct. 15, 1970, 84 Stat. 929; Pub. L. 93–637, title II, §203(b), Jan. 4, 1975, 88 Stat. 2198.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -24,6 +26,8 @@ Fourth par. Pub. L. 93–637, §203(b)(3), substituted "person, partnership, or 
 
 <b>1970</b>—Seventh par. Pub. L. 91–452 struck out provisions which granted immunity from prosecution for any natural person testifying or producing evidence, documentary or otherwise, before the commission in obedience to a subpoena issued by it.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1970 Amendment
 
 Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970, see section 260 of Pub. L. 91–452, set out as an Effective Date; Savings Provision note under section 6001 of Title 18, Crimes and Criminal Procedure.
@@ -31,6 +35,8 @@ Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970,
 #### Savings Provision
 
 Amendment by Pub. L. 91–452 not to affect any immunity to which any individual is entitled under this section by reason of any testimony given before the sixtieth day following Oct. 15, 1970, see section 260 of Pub. L. 91–452, set out as an Effective Date; Savings Provision note under section 6001 of Title 18, Crimes and Criminal Procedure.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

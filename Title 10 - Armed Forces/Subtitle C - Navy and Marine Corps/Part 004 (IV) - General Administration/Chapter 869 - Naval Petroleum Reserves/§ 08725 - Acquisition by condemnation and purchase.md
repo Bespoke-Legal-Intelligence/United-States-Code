@@ -26,6 +26,8 @@ June 4, 1920, ch. 228 (5th par., 1st 123 words, and 169th through 193d words, of
 
 The words "Whenever the Secretary of the Navy is unable" are substituted for the words "In the event of the inability of the Secretary of the Navy" for brevity.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232, §807(d)(5), renumbered section 7425 of this title as this section.
@@ -43,6 +45,8 @@ Subsec. (a). Pub. L. 115–232, §809(a), substituted "section 8724" for "sectio
 <b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted "Naval Petroleum Reserve Numbered 1" for "naval petroleum reserve numbered 1".
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–258 struck out "of the Navy" after "Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

@@ -4,9 +4,13 @@ It is hereby declared to be the policy of the United States that certain selecte
 
 (Pub. L. 90–542, §1(b), Oct. 2, 1968, 82 Stat. 906.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section consists of subsec. (b) of section 1 of Pub. L. 90–542. Subsecs. (a) and (c) of section 1 are classified to section 1272 of this title and as a note under this section, respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2018 Amendment
 
@@ -102,7 +106,7 @@ Pub. L. 99–590, title II, §201, Oct. 30, 1986, 100 Stat. 3332, provided that:
 
 #### Short Title of 1972 Amendment
 
-Pub. L. 92–560, §1, Oct. 25, 1972, 86 Stat. 1174, provided: "That this Act \[amending section 1274 of this title and enacting provisions classified as a note under section 1274 of this title\] may be cited as the 'Lower Saint Croix River Act of 1972'."
+Pub. L. 92–560, §1, Oct. 25, 1972, 86 Stat. 1174, provided: "That this Act \[amending section 1274 of this title and enacting provisions classified as a note under section1274 of this title\] may be cited as the 'Lower Saint Croix River Act of 1972'."
 
 #### Short Title
 

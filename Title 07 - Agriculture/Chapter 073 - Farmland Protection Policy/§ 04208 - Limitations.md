@@ -6,9 +6,13 @@
 
 (Pub. L. 97–98, title XV, §1547, Dec. 22, 1981, 95 Stat. 1344; Pub. L. 101–624, title XXV, §2502, Nov. 28, 1990, 104 Stat. 4066.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Subsec. (b). Pub. L. 101–624 inserted before period at end "during a national emergency".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

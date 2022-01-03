@@ -12,13 +12,15 @@ In order to conserve and develop for the benefit, inspiration, education, recrea
 
 #### (c) Ashland Harbor Breakwater Light
 
-&emsp;(1) The Ashland Harbor Breakwater Light generally depicted on the map titled "Ashland Harbor Breakwater Light Addition to Apostle Islands National Lakeshore" and dated February 11, 2014, located at the end of the breakwater on Chequamegon Bay, Wisconsin.
+&emsp;(1) The Ashland Harbor Breakwater Light generally depicted on the map titled "AshlandHarbor Breakwater Light Addition to Apostle Islands National Lakeshore" and dated February 11, 2014, located at the end of the breakwater on Chequamegon Bay, Wisconsin.
 
 &emsp;(2) Congress does not intend for the designation of the property under paragraph (1) to create a protective perimeter or buffer zone around the boundary of that property.
 
 > The maps shall be on file and available for public inspection in the office of the Director, National Park Service, Department of the Interior.
 
 (Pub. L. 91–424, §1, Sept. 26, 1970, 84 Stat. 880; Pub. L. 99–497, §1(1), Oct. 17, 1986, 100 Stat. 1267; Pub. L. 113–291, div. B, title XXX, §3030(1), Dec. 19, 2014, 128 Stat. 3766.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

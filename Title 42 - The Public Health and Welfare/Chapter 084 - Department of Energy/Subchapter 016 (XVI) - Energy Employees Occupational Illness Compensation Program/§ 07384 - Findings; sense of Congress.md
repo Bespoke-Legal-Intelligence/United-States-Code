@@ -6,7 +6,7 @@ The Congress finds the following:
 
 &emsp;(1) Since World War II, Federal nuclear activities have been explicitly recognized under Federal law as activities that are ultra-hazardous. Nuclear weapons production and testing have involved unique dangers, including potential catastrophic nuclear accidents that private insurance carriers have not covered and recurring exposures to radioactive substances and beryllium that, even in small amounts, can cause medical harm.
 
-&emsp;(2) Since the inception of the nuclear weapons program and for several decades afterwards, a large number of nuclear weapons workers at sites of the Department of Energy and at sites of vendors who supplied the Cold War effort were put at risk without their knowledge and consent for reasons that, documents reveal, were driven by fears of adverse publicity, liability, and employee demands for hazardous duty pay.
+&emsp;(2) Since the inception of the nuclear weapons program and for several decades afterwards, a large number of nuclear weapons workers at sites of the Department of Energyand at sites of vendors who supplied the Cold War effort were put at risk without their knowledge and consent for reasons that, documents reveal, were driven by fears of adverse publicity, liability, and employee demands for hazardous duty pay.
 
 &emsp;(3) Many previously secret records have documented unmonitored exposures to radiation and beryllium and continuing problems at these sites across the Nation, at which the Department of Energy and its predecessor agencies have been, since World War II, self-regulating with respect to nuclear safety and occupational safety and health. No other hazardous Federal activity has been permitted to be carried out under such sweeping powers of self-regulation.
 
@@ -45,6 +45,8 @@ It is the sense of Congress that—
 &emsp;(4) payments from that fund should commence not later than fiscal year 2002.
 
 (Pub. L. 106–398, §1 \[div. C, title XXXVI, §3602\], Oct. 30, 2000, 114 Stat. 1654, 1654A–495.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 
@@ -112,6 +114,8 @@ Pub. L. 107–107, div. C, title XXXI, §3151(b), Dec. 28, 2001, 115 Stat. 1375,
 
 > &emsp;exposure to which could cause or substantially contribute to the cancer of a covered employee with cancer or a covered beryllium illness, as the case may be."
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 13179. Providing Compensation to America's Nuclear Weapons Workers
 
 Ex. Ord. No. 13179, Dec. 7, 2000, 65 F.R. 77487, provided:
@@ -122,7 +126,7 @@ Section 1. <i>Policy</i>. Since World War II, hundreds of thousands of men and w
 
 Existing workers' compensation programs have failed to provide for the needs of these workers and their families. Federal workers' compensation programs have generally not included these workers. Further, because of long latency periods, the uniqueness of the hazards to which they were exposed, and inadequate exposure data, many of these individuals have been unable to obtain State workers' compensation benefits. This problem has been exacerbated by the past policy of the Department of Energy (DOE) and its predecessors of encouraging and assisting DOE contractors in opposing the claims of workers who sought those benefits. This policy has recently been reversed.
 
-While the Nation can never fully repay these workers or their families, they deserve recognition and compensation for their sacrifices. Since the Administration's historic announcement in July of 1999 that it intended to compensate DOE nuclear weapons workers who suffered occupational illnesses as a result of exposure to the unique hazards in building the Nation's nuclear defense, it has been the policy of this Administration to support fair and timely compensation for these workers and their survivors. The Federal Government should provide necessary information and otherwise help employees of the DOE or its contractors determine if their illnesses are associated with conditions of their nuclear weapons-related work; it should provide workers and their survivors with all pertinent and available information necessary for evaluating and processing claims; and it should ensure that this program minimizes the administrative burden on workers and their survivors, and respects their dignity and privacy. Thisorder sets out agency responsibilities to accomplish these goals, building on the Administration's articulated principles and the framework set forth in the Energy Employees Occupational Illness Compensation Program Act of 2000 \[42 U.S.C. 7384 et seq.\]. The Departments of Labor, Health and Human Services, and Energy shall be responsible for developing and implementing actions under the Act to compensate these workers and their families in a manner that is compassionate, fair, and timely. Other Federal agencies, as appropriate, shall assist in this effort.
+While the Nation can never fully repay these workers or their families, they deserve recognition and compensation for their sacrifices. Since the Administration's historic announcement in July of 1999 that it intended to compensate DOE nuclear weapons workers who suffered occupational illnesses as a result of exposure to the unique hazards in building the Nation's nuclear defense, it has been the policy of this Administration to support fair and timely compensation for these workers and their survivors. The Federal Government should provide necessary information and otherwise help employees of the DOE or its contractors determine if their illnesses are associated with conditions of their nuclear weapons-related work; it should provide workers and their survivors with all pertinent and available information necessary for evaluating and processing claims; and it should ensure that this program minimizes the administrative burden on workers and their survivors, and respects their dignity and privacy. This order sets out agency responsibilities to accomplish these goals, building on the Administration's articulated principles and the framework set forth in the Energy Employees Occupational Illness Compensation Program Act of 2000 \[42 U.S.C. 7384 et seq.\]. The Departments of Labor, Health and Human Services, and Energy shall be responsible for developing and implementing actions under the Act to compensate these workers and their families in a manner that is compassionate, fair, and timely. Other Federal agencies, as appropriate, shall assist in this effort.
 
 Sec. 2. <i>Designation of Responsibilities for Administering the Energy Employees' Occupational Illness Compensation Program ("Program").</i>
 
@@ -200,7 +204,7 @@ Sec. 4. <i>Establishment of Advisory Board on Radiation and Worker Health.</i>
 
 (ii) Advise the Secretary of Health and Human Services on the scientific validity and quality of dose reconstruction efforts performed for this Program; and
 
-(iii) Upon request by the Secretary of Health and Human Services, advise the Secretary on whether there is a class of employees at any Department of Energy facility who were exposed to radiation but for whom it is not feasible to estimate their radiation dose, and on whether there is a reasonable likelihood that such radiation dose may have endangered the health of members of the class.
+(iii) Upon request by the Secretary of Health and Human Services, advise the Secretary on whether there is a class of employees at any Department of Energy facility who were exposed to radiation but for whom it is not feasible to estimate their radiation dose, and onwhether there is a reasonable likelihood that such radiation dose may have endangered the health of members of the class.
 
 Sec. 5. <i>Reporting Requirements</i>. The Secretaries of Labor, Health and Human Services, and Energy shall, as part of their annual budget submissions, report to the Office of Management and Budget (OMB) on their activities under this Program, including total expenditures related to benefits and program administration. They shall also report to the OMB, no later than March 1, 2001, on the manner in which they will carry out their respective responsibilities under the Act and this order. This report shall include, among other things, a description of the administrative structure established within their agencies to implement the Act and this order. In addition, the Secretary of Labor shall annually report on the total number and types of claims for which compensation was considered and other data pertinent to evaluating the Federal Government's performance fulfilling the requirements of the Act and this order.
 
@@ -212,9 +216,11 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of Advisory Board on Radiation and Worker Health
 
-Term of Advisory Board on Radiation and Worker Health extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Advisory Board on Radiation and Worker Health extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Previous extensions of term of Advisory Board on Radiation and Worker Health were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, extended term until Sept. 30, 2021.
 
 Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, extended term until Sept. 30, 2019.
 

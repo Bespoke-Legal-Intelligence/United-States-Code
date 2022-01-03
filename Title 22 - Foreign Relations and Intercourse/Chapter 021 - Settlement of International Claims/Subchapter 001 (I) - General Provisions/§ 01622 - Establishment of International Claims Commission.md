@@ -6,7 +6,7 @@
 
 The Commission may prescribe such rules and regulations as may be necessary to enable it to carry out its functions, and may delegate functions to any member, officer, or employee of the Commission. The President may fix a termination date for the authority of the Commission, and the terms of office of its members under this subchapter. Any member of the Commission may be removed by the Secretary of State, upon notice and hearing, for neglect of duty, or malfeasance in office, but for no other cause. Not later than six months after its organization, and every six months <sup>1</sup> thereafter, the Commission shall make a report, through the Secretary of State, to the Congress concerning its operations under this subchapter. The Commission shall, upon completion of its work, certify in duplicate to the Secretary of State and to the Secretary of the Treasury the following: (1) A list of all claims disallowed; (2) a list of all claims allowed, in whole or in part, together with the amount of each claim and the amount awarded thereon; and (3) a copy of the decision rendered in each case.
 
-(Mar. 10, 1950, ch. 54, title I, §3, 64 Stat. 13; Aug. 8, 1953, ch. 396, §3, 67 Stat. 506; 1954 Reorg. Plan No. 1, §§1, 2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279; Aug. 9, 1955, ch. 645, §§1, 2, 69 Stat. 562; Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 656, 657.)
+(Mar. 10, 1950, ch. 54, title I, §3, 64 Stat. 13; Aug. 8, 1953, ch. 396, §3, 67 Stat. 506; 1954 Reorg. PlanNo. 1, §§1, 2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279; Aug. 9, 1955, ch. 645, §§1, 2, 69 Stat. 562; Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 656, 657.)
 
 #### <b>Editorial Notes</b>
 
@@ -32,7 +32,7 @@ References to this subchapter deemed to include section 119 of H.R. 2076, see se
 
 #### Modification of Reporting Requirements
 
-Pub. L. 89–348, §2(7), Nov. 8, 1965, 79 Stat. 1312, modified the reporting requirements of subsec. (c) of thissection as follows: "From semiannual to annual submission to the Congress by the Foreign Claims Settlement Commission of the United States of a report concerning its operations under the International Claims Settlement Act of 1949 (64 Stat. 13; 22 U.S.C. 1622(c))."
+Pub. L. 89–348, §2(7), Nov. 8, 1965, 79 Stat. 1312, modified the reporting requirements of subsec. (c) of this section as follows: "From semiannual to annual submission to the Congress by the Foreign Claims Settlement Commission of the United States of a report concerning its operations under the International Claims Settlement Act of 1949 (64 Stat. 13; 22 U.S.C. 1622(c))."
 
 #### <b>Executive Documents</b>
 
@@ -82,7 +82,7 @@ The Commission is hereby authorized to delegate any of its functions to one or m
 
 #### Sec. 6. Transitional Provisions
 
-(a) Any person who is a member or acting member of the War Claims Commission or of the International Claims Commission immediately prior to the taking effect of the provisions of this reorganization plan may be designated by the President as an acting member of the Foreign Claims Settlement Commission of the United States in respect of an office of member the initial appointment to which has not then been made under section 1 of this reorganization plan. Each such acting member of the said Foreign Claims Settlement Commission shall perform the duties and receive the compensation of member. Unless sooner terminated, the tenure of any acting member designated hereunder shall terminate when the office of member concerned is filled in pursuance of section 1 hereof, or 120 days after the effective date of this reorganization plan, whichever is earlier.
+(a) Any person who is a member or acting member of the War Claims Commission or of the International Claims Commission immediately prior to the taking effect of the provisions of this reorganization plan may be designated by the President as an acting member of the Foreign Claims Settlement Commission of the United States in respect of an office of member the initial appointment to which has not then been made under section 1 of this reorganization plan. Each suchacting member of the said Foreign Claims Settlement Commission shall perform the duties and receive the compensation of member. Unless sooner terminated, the tenure of any acting member designated hereunder shall terminate when the office of member concerned is filled in pursuance of section 1 hereof, or 120 days after the effective date of this reorganization plan, whichever is earlier.
 
 (b) The Chairman shall make such provisions as may be necessary with respect to winding up any affairs of the agencies abolished by the provisions of this reorganization plan not otherwise provided for herein.
 
@@ -132,7 +132,7 @@ The statutory citation for certain functions of the Secretary of State with resp
 
 It is at this time impracticable to specify the reductions of expenditures which it is probable will be brought about by the taking effect of the reorganizations contained in the plan.
 
-Reorganization Plan No. 1 of 1954 provides a single agency for the orderly completion of present claims programs. In addition, it provides an effective organization for the settlement of future authorized claims programs by utilizing the experience gained by present claims agencies. It provides unified administrative direction of the functions concerned, and it simplifies theorganizational structure of the executive branch. I urge that the Congress allow the reorganization plan to become effective.
+Reorganization Plan No. 1 of 1954 provides a single agency for the orderly completion of present claims programs. In addition, it provides an effective organization for the settlement of future authorized claims programs by utilizing the experience gained by present claims agencies. It provides unified administrative direction of the functions concerned, and it simplifies the organizational structure of the executive branch. I urge that the Congress allow the reorganization plan to become effective.
 
 Dwight D. Eisenhower.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

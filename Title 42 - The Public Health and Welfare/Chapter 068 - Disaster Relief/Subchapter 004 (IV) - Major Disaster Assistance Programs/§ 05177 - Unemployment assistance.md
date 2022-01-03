@@ -2,7 +2,7 @@
 
 #### (a) Benefit assistance
 
-The President is authorized to provide to any individual unemployed as a result of a major disaster such benefit assistance as he deems appropriate while such individual is unemployed for the weeks of such unemployment with respect to which the individual is not entitled to any other unemployment compensation (as that term is defined in section 85(b) of title 26) or waiting period credit. Such assistance as the President shall provide shall be available to an individual as long as the individual's unemployment caused by the major disaster continues or until the individual is reemployed in a suitable position, but no longer than 26 weeks after the major disaster is declared. Such assistance for a week of unemployment shall not exceed the maximum weekly amount authorized under the unemployment compensation law of the State in which the disaster occurred. The President is directed to provide such assistance through agreements with States which, in his judgment, have an adequate system for administering such assistance through existing State agencies.
+The President is authorized to provide to any individual unemployed as a result of a major disaster such benefit assistance as he deems appropriate while such individual is unemployed for the weeks of such unemployment with respect to which the individual is not entitled to any other unemployment compensation (as that term is defined in section 85(b) of title 26) or waiting period credit. Such assistance as the President shall provide shall be available to an individual as long as the individual's unemployment caused by the major disaster continues or until the individual is reemployed in a suitable position, but no longer than 26 weeks after the major disaster is declared. Such assistance for a week of unemployment shall not exceed the maximum weekly amount authorized under the unemployment compensation law of the State inwhich the disaster occurred. The President is directed to provide such assistance through agreements with States which, in his judgment, have an adequate system for administering such assistance through existing State agencies.
 
 #### (b) Reemployment assistance
 
@@ -15,6 +15,8 @@ The President is authorized to provide to any individual unemployed as a result 
 &emsp;The President may provide reemployment assistance services under other laws to individuals who are unemployed as a result of a major disaster and who reside in a State which does not provide such services.
 
 (Pub. L. 93–288, title IV, §410, formerly §407, May 22, 1974, 88 Stat. 156; renumbered §410 and amended Pub. L. 100–707, title I, §106(e), (f), Nov. 23, 1988, 102 Stat. 4703, 4704.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

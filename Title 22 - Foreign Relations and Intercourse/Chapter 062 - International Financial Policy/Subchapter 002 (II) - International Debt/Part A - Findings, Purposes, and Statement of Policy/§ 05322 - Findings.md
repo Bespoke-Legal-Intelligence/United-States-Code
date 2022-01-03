@@ -14,7 +14,7 @@ The Congress finds that—
 
 &emsp;(6) current adjustment policies in debtor countries, which depress domestic demand and increase production for export, help to depress world commodity prices and limit the growth of export markets for United States industries;
 
-&emsp;(7) the United States has borne a disproportionate share of the burden of absorbing increased exports from debtor countries, while other industrialized countries have increased their imports from developing countries only slightly;
+&emsp;(7) the United States has borne a disproportionate share of the burden of absorbing increased exports from debtor countries, while other industrialized countries have increasedtheir imports from developing countries only slightly;
 
 &emsp;(8) current approaches to the debt problem should not rely solely on new lending as a solution to the debt problem, and should focus on other financing alternatives including a reduction in current debt service obligations;
 

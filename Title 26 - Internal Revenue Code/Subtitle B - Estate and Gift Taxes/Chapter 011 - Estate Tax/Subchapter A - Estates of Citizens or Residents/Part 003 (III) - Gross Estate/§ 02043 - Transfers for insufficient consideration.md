@@ -16,9 +16,13 @@ If any one of the transfers, trusts, interests, rights, or powers enumerated and
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 388; Pub. L. 98–369, div. A, title IV, §425(a)(1), July 18, 1984, 98 Stat. 803.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Subsec. (b). Pub. L. 98–369 amended subsec. (b) generally, designating existing provisions as par. (1) and adding par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

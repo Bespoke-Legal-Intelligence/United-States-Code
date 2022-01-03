@@ -2,7 +2,7 @@
 
 #### (a) Amount recoverable
 
-Notwithstanding section 15 of this title and in lieu of the relief specified in such section, any person who is entitled to recovery on a claim under such section shall recover the actual damages sustained by such person, interest calculated at the rate specified in section 1961 oftitle 28 on such actual damages as specified in subsection (d) of this section, and the cost of suit attributable to such claim, including a reasonable attorney's fee pursuant to section 4304 of this title if such claim—
+Notwithstanding section 15 of this title and in lieu of the relief specified in such section, any person who is entitled to recovery on a claim under such section shall recover the actual damages sustained by such person, interest calculated at the rate specified in section 1961 of title 28 on such actual damages as specified in subsection (d) of this section, and the cost of suit attributable to such claim, including a reasonable attorney's fee pursuant to section 4304 of this title if such claim—
 
 &emsp;(1) results from conduct that is within the scope of a notification that has been filed under section 4305(a) of this title for a joint venture, or for a standards development activity engaged in by a standards development organization against which such claim is made, and
 
@@ -36,13 +36,15 @@ Subsections (a), (b), and (c) shall not be construed to modify the liability und
 
 &emsp;(2) is not a fulltime employee of the standards development organization that engaged in such activity, and
 
-&emsp;(3) is, or is an employee or agent of a person who is, engaged in a line of commerce that is likely to benefit directly from the operation of the standards development activity with respect to which such violation is found.
+&emsp;(3) is, or is an employee or agent of a person who is, engaged in a line of commerce that islikely to benefit directly from the operation of the standards development activity with respect to which such violation is found.
 
 #### (f) Applicability
 
 This section shall be applicable only if the challenged conduct of a person defending against a claim is not in violation of any decree or order, entered or issued after October 11, 1984, in any case or proceeding under the antitrust laws or any State law similar to the antitrust laws challenging such conduct as part of a joint venture, or of a standards development activity engaged in by a standards development organization.
 
 (Pub. L. 98–462, §4, Oct. 11, 1984, 98 Stat. 1816; Pub. L. 103–42, §3(e)(1), June 10, 1993, 107 Stat. 119; Pub. L. 108–237, title I, §105, June 22, 2004, 118 Stat. 663.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

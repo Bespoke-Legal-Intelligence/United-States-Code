@@ -10,9 +10,11 @@ Interest shall be payable on overpayments and underpayments of amounts deposited
 
 #### (b) Rate
 
-The rate of interest payable under subsection (a) for any period of time is the rate of interestestablished under section 6621 of title 26 for such period.
+The rate of interest payable under subsection (a) for any period of time is the rate of interest established under section 6621 of title 26 for such period.
 
 (June 17, 1930, ch. 497, title VII, §778, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 188; amended Pub. L. 98–573, title VI, §621, Oct. 30, 1984, 98 Stat. 3039; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -27,6 +29,8 @@ The Antidumping Act, 1921, referred to in subsec. (a)(2), is act May 27, 1921, c
 <b>1984</b>—Subsec. (a). Pub. L. 98–573 amended subsec. (a) generally, substituting provisions making interest payable on and after the date of publication of a countervailing or antidumping duty order under this subtitle or section 1303 of this title or the date of a finding under the Antidumping Act, 1921 for provisions making interest payable on and after the date on which notice of an affirmative determination by the Commission under section 1671d(b) or 1673d(b) of this title with respect to such merchandise was published.
 
 Subsec. (b). Pub. L. 98–573 amended subsec. (b) generally, substituting provisions that the rate of interest payable under subsec. (a) for any period of time is the rate of interest established under section 6621 of title 26 for such period for provision that the rate at which such interest was payable would be 8 percent per annum or, if higher, the rate in effect under section 6621 of title 26 on the date on which the rate or amount of the duty was finally determined.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

@@ -76,7 +76,7 @@ Subsec. (b). Pub. L. 98–223, §203(c)(2)(B), substituted "subsection (a)" for 
 
 #### Effective Date of 2012 Amendment
 
-Pub. L. 112–154, title IV, §401(b), Aug. 6, 2012, 126 Stat. 1188, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 2013, and shall not operate to revive any entitlement to assistance under chapter 35 of title 38, United States Code, or the provisions of law referred to in section 3695(a) of such title, as in effect on the day before such date, that was terminated by reason of the operation of section 3695(a) of such title, as so in effect, before such date."
+Pub. L. 112–154, title IV, §401(b), Aug. 6, 2012, 126 Stat. 1188, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 2013, and shall not operate to revive any entitlement to assistance under chapter 35 of title 38, United States Code, or the provisions of law referred to in section 3695(a) of such title, as in effect on the daybefore such date, that was terminated by reason of the operation of section 3695(a) of such title, as so in effect, before such date."
 
 #### Effective Date of 2008 Amendment
 

@@ -20,9 +20,13 @@ R.S. 225 (1st sentence).
 
 The words "and other military supplies" are substituted for the words "camp and garrison equipage, quartermaster's stores, and ordnance" to conform to section 4838 of this title. The words "person to whom administered" are substituted for the words "parties taking them". The words "for the purpose of" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4839 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

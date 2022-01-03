@@ -14,11 +14,13 @@ The Surgeon General shall fix a reasonable rate of extra compensation for overti
 
 #### (d) Payment of extra compensation to United States; bond or deposit to assure payment; deposit of moneys to credit of appropriation
 
-(1) The said extra compensation shall be paid to the United States by the owner, agent, consignee, operator, or master or other person in charge of any conveyance, for whom, at his request, services as described in this subsection (hereinafter referred to as overtime service) are performed. If such employees have been ordered to report for duty and have so reported, and the requested services are not performed by reason of circumstances beyond the control of the employees concerned, such extra compensation shall be paid on the same basis as though the overtime services had actually been performed during the period between the time the employees were ordered to report for duty and did so report, and the time they were notified that their services would not be required, and in any case as though their services had continued for not less than one hour. The Surgeon General with the approval of the Secretary of Health and Human Services may prescribe regulations requiring the owner, agent, consignee, operator, or master or other person for whom the overtime services are performed to file a bond in such amounts and containing such conditions and with such sureties, or in lieu of a bond, to deposit money or obligations of the United States in such amount, as will assure the payment of charges under this subsection, which bond or deposit may cover one or more transactions or all transactions during a specified period: <i>Provided</i>, That no charges shall be made for services performed in connection with the inspection of (1) persons arriving by international highways, ferries, bridges, or tunnels, or the conveyances in which they arrive, or (2) persons arriving by aircraft or railroad trains, the operations of which are covered by published schedules, or the aircraft or trains in which they arrive, or (3) persons arriving by vessels operated between Canadian ports and ports on Puget Sound or operated on the Great Lakes and connecting waterways, the operations of which are covered by published schedules, or the vessels in which they arrive.
+(1) The said extra compensation shall be paid to the United States by the owner, agent, consignee, operator, or master or other person incharge of any conveyance, for whom, at his request, services as described in this subsection (hereinafter referred to as overtime service) are performed. If such employees have been ordered to report for duty and have so reported, and the requested services are not performed by reason of circumstances beyond the control of the employees concerned, such extra compensation shall be paid on the same basis as though the overtime services had actually been performed during the period between the time the employees were ordered to report for duty and did so report, and the time they were notified that their services would not be required, and in any case as though their services had continued for not less than one hour. The Surgeon General with the approval of the Secretary of Health and Human Services may prescribe regulations requiring the owner, agent, consignee, operator, or master or other person for whom the overtime services are performed to file a bond in such amounts and containing such conditions and with such sureties, or in lieu of a bond, to deposit money or obligations of the United States in such amount, as will assure the payment of charges under this subsection, which bond or deposit may cover one or more transactions or all transactions during a specified period: <i>Provided</i>, That no charges shall be made for services performed in connection with the inspection of (1) persons arriving by international highways, ferries, bridges, or tunnels, or the conveyances in which they arrive, or (2) persons arriving by aircraft or railroad trains, the operations of which are covered by published schedules, or the aircraft or trains in which they arrive, or (3) persons arriving by vessels operated between Canadian ports and ports on Puget Sound or operated on the Great Lakes and connecting waterways, the operations of which are covered by published schedules, or the vessels in which they arrive.
 
 (2) Moneys collected under this subsection shall be deposited in the Treasury of the United States to the credit of the appropriation charged with the expense of the services, and the appropriations so credited shall be available for the payment of such compensation to the said employees for services so rendered.
 
 (July 1, 1944, ch. 373, title III, §364, 58 Stat. 704; Pub. L. 85–58, ch. VII, §701, June 21, 1957, 71 Stat. 181; Pub. L. 85–580, title II, §201, Aug. 1, 1958, 72 Stat. 467; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -30,11 +32,17 @@ Title II of the Act of June 15, 1917, referred to in subsec. (a), is act June 15
 
 <b>1957</b>—Subsecs. (c), (d). Pub. L. 85–58 added subsecs. (c) and (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsec. (d) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+
+#### <b>Executive Documents</b>
+
 #### Transfer of Functions
 
-"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsec. (d) pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
-
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20.
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title.
 
 #### Delegation of Functions
 

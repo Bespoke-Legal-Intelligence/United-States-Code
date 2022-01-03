@@ -4,7 +4,7 @@
 
 The Foundation is authorized and directed—
 
-&emsp;(1) to initiate and support basic scientific research and programs to strengthen scientific research potential and science education programs at all levels in the mathematical, physical, medical, biological, social, and othersciences, and to initiate and support research fundamental to the engineering process and programs to strengthen engineering research potential and engineering education programs at all levels in the various fields of engineering, by making contracts or other arrangements (including grants, loans, and other forms of assistance) to support such scientific, engineering, and educational activities and to appraise the impact of research upon industrial development and upon the general welfare;
+&emsp;(1) to initiate and support basic scientific research and programs to strengthen scientific research potential and science education programs at all levels in the mathematical, physical, medical, biological, social, and other sciences, and to initiate and support research fundamental to the engineering process and programs to strengthen engineering research potential and engineering education programs at all levels in the various fields of engineering, by making contracts or other arrangements (including grants, loans, and other forms of assistance) to support such scientific, engineering, and educational activities and to appraise the impact of research upon industrial development and upon the general welfare;
 
 &emsp;(2) to award, as provided in section 1869 of this title, scholarships and graduate fellowships for study and research in the sciences or in engineering;
 
@@ -45,6 +45,8 @@ The Foundation shall render an annual report to the President for submission on 
 In carrying out subsection (a)(4), the Foundation is authorized to foster and support access by the research and education communities to computer networks which may be used substantially for purposes in addition to research and education in the sciences and engineering, if the additional uses will tend to increase the overall capabilities of the networks to support such research and education activities.
 
 (May 10, 1950, ch. 171, §3, 64 Stat. 149; Pub. L. 85–510, §1, July 11, 1958, 72 Stat. 353; Pub. L. 86–232, §1, Sept. 8, 1959, 73 Stat. 467; Pub. L. 90–407, §1, July 18, 1968, 82 Stat. 360; Pub. L. 92–372, §8, Aug. 10, 1972, 86 Stat. 528; Pub. L. 92–484, §10(b), Oct. 13, 1972, 86 Stat. 802; Pub. L. 94–273, §11(3), Apr. 21, 1976, 90 Stat. 378; Pub. L. 95–99, §12(a), formerly §14(a), Aug. 15, 1977, 91 Stat. 835, renumbered §12(a), Pub. L. 99–159, title I, §109(h), Nov. 22, 1985, 99 Stat. 890; Pub. L. 99–159, title I, §§109(e)(2), 110(a)(1)–(11), Nov. 22, 1985, 99 Stat. 890, 891; Pub. L. 99–383, §7(a), Aug. 21, 1986, 100 Stat. 814; Pub. L. 102–476, §4, Oct. 23, 1992, 106 Stat. 2300; Pub. L. 102–588, title II, §217, Nov. 4, 1992, 106 Stat. 5117; Pub. L. 105–207, title II, §202(e), July 29, 1998, 112 Stat. 875; Pub. L. 107–305, §7, Nov. 27, 2002, 116 Stat. 2375.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -117,6 +119,8 @@ Subsec. (f). Pub. L. 90–407 redesignated former subsec. (c) as (f) and struck 
 <b>1959</b>—Subsec. (a)(2). Pub. L. 86–232 clarified the Foundation's authority to support programs to strengthen scientific research potential.
 
 <b>1958</b>—Subsec. (a)(9). Pub. L. 85–510 added par. (9).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of National Science Foundation Programs
 
@@ -266,11 +270,13 @@ Pub. L. 90–407, §11(1), July 18, 1968, 82 Stat. 365, provided in part that th
 
 #### Continuation of Existing Offices, Procedures, and Organization of the National Science Foundation
 
-Pub. L. 90–407, §16, July 18, 1968, 82 Stat. 367, provided that: "Except as otherwise specifically provided therein, the amendments made by this Act \[enacting section 1864a of this title, amending sections 1862 to 1866, 1868 to 1870, 1872 to 1875, and 1877 of this title, sections 5313,5314, and 5316 of Title 5, Government Organization and Employees, repealing sections 1867 and 1872a of this title, and enacting provisions set out as a note under section 5313 of Title 5\] are intended to continue in effect under the National Science Foundation Act of 1950 \[this chapter\] the existing offices, procedures, and organization of the National Science Foundation as provided by such Act, \[this chapter\] part II of Reorganization Plan Numbered 2 of 1962, and Reorganization Plan Numbered 5 of 1965 \[set out as a note under section 1861 of this title\]. From and after the date of the enactment of this Act \[July 18, 1968\], part II of Reorganization Plan Numbered 2 of 1962, and Reorganization Plan Numbered 5 of 1965, shall be of no force or effect; but nothing in this Act shall alter or affect any transfers of functions made by part I of such Reorganization Plan Numbered 2 of 1962."
+Pub. L. 90–407, §16, July 18, 1968, 82 Stat. 367, provided that: "Except as otherwise specifically provided therein, the amendments made by this Act \[enacting section 1864a of this title, amending sections 1862 to 1866, 1868 to 1870, 1872 to 1875, and 1877 of this title, sections 5313, 5314, and 5316 of Title 5, Government Organization and Employees, repealing sections 1867 and 1872a of this title, and enacting provisions set out as a note under section 5313 of Title 5\] are intended to continue in effect under the National Science Foundation Act of 1950 \[this chapter\] the existing offices, procedures, and organization of the National Science Foundation as provided by such Act, \[this chapter\] part II of Reorganization Plan Numbered 2 of 1962, and Reorganization Plan Numbered 5 of 1965 \[set out as a note under section 1861 of this title\]. From and after the date of the enactment of this Act \[July 18, 1968\], part II of Reorganization Plan Numbered 2 of 1962, and Reorganization Plan Numbered 5 of 1965, shall be of no force or effect; but nothing in this Act shall alter or affect any transfers of functions made by part I of such Reorganization Plan Numbered 2 of 1962."
 
 #### Investigation of Need for Geophysical Institute in Territory of Hawaii
 
 Act Aug. 1, 1956, ch. 865, 70 Stat. 922, directed the National Science Foundation to conduct an investigation into the need for and the feasibility and usefulness of a geophysical institute located in the Territory \[now State\] of Hawaii. The Foundation was required to report the results of its investigations, together with its recommendations based thereon, to the Congress not later than 9 months after Aug. 1, 1956.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 10521. Administration of Scientific Research
 
@@ -280,7 +286,7 @@ Section 1. The National Science Foundation (hereinafter referred to as the Found
 
 Sec. 2. The Foundation shall continue to make comprehensive studies and recommendations regarding the Nation's scientific research effort and its resources for scientific activities, including facilities and scientific personnel, and its foreseeable scientific needs, with particular attention to the extent of the Federal Government's activities and the resulting effects upon trained scientific personnel. In making such studies, the Foundation shall make full use of existing sources of information and research facilities within the Federal Government.
 
-Sec. 3. The Foundation, in concert with each Federal agency concerned, shall review the basic scientific research programs and activities of the Federal Government in order, among other purposes, to formulate methods for strengthening the administration of such programs and activities by the responsible agencies, and to study areas of basic research where gaps or undesirable overlapping of support may exist, and shall recommend to the heads of agencies concerning the support given to basic research.
+Sec. 3. The Foundation, in concert with each Federal agency concerned, shall review the basic scientific research programs and activities of the Federal Government in order, among other purposes, to formulate methods for strengthening the administration of such programs and activities by the responsible agencies, and to study areas of basic research where gaps or undesirable overlapping of support may exist, and shallrecommend to the heads of agencies concerning the support given to basic research.
 
 Sec. 4. As now or hereafter authorized or permitted by law, the Foundation shall be increasingly responsible for providing support by the Federal Government for general-purpose basic research through contracts and grants. The conduct and support by other Federal agencies of basic research in areas which are closely related to their missions is recognized as important and desirable, especially in response to current national needs, and shall continue.
 
@@ -306,7 +312,5 @@ Sec. 10. The National Science Foundation shall provide leadership in the effecti
 
 Ex. Ord. No. 10807, Mar. 13, 1959, 24 F.R. 1897, as amended Ex. Ord. No. 11381, Nov. 8, 1967, 32 F.R. 15629, which established the Federal Council for Science and Technology, provided for a chairman and membership, specified the functions of the Council, provided for assistance from other Federal agencies and the establishment of standing committees and panels, revoked Ex. Ord. No. 9912 of Dec. 24, 1947, entitled "Establishing the Interdepartmental Committee on Scientific Research and Development", and amended Ex. Ord. No. 10521, set out above, was omitted from the Code in view of Pub. L. 94–282, title IV, §402, May 11, 1976, 90 Stat. 472, set out below, which abolished the Federal Council for Science and Technology.
 
-#### Abolition of Federal Council for Science and Technology
-
-Pub. L. 94–282, title IV, §402, May 11, 1976, 90 Stat. 472, provided that: "The Federal Council for Science and Technology, established pursuant to Executive Order No. 10807, Mar. 13, 1959, 24 F.R. 1897, as amended by Executive Order No. 11381, Nov. 8, 1967, 32 F.R. 15629, is hereby abolished."
+\[Pub. L. 94–282, title IV, §402, May 11, 1976, 90 Stat. 472, provided that: "The Federal Council for Science and Technology, established pursuant to Executive Order No. 10807, Mar. 13, 1959, 24 F.R. 1897, as amended by Executive Order No. 11381, Nov. 8, 1967, 32 F.R. 15629, is hereby abolished."\]
 

@@ -1,6 +1,6 @@
 ### §1466. Payments into the Fund
 
-(a) The Secretary of Defense and the Secretary of the department in which the Coast Guard is operating, with respect to the Coast guard,<sup>1</sup> shall pay into the Fund at the end of each month the respective pro rata share contribution of the Secretary of Defense and the Secretary of the department in which the Coast Guard is operating to the Fund for that month the amount that is the sum of the following:
+(a) The Secretary of Defense and the Secretary of the department in which the Coast Guard is operating, with respect to the Coast Guard, shall pay into the Fund at the end of each month the respective pro rata share contribution of the Secretary of Defense and the Secretary of the department in which the Coast Guard is operating to the Fund for that month the amount that is the sum of the following:
 
 &emsp;(1) The product of—
 
@@ -40,7 +40,9 @@
 
 (3) The Department of Defense Board of Actuaries shall determine, for each armed force, the amount required under paragraph (1) to be deposited in the Fund each fiscal year.
 
-(Added Pub. L. 98–94, title IX, §925(a)(1), Sept. 24, 1983, 97 Stat. 647; amended Pub. L. 99–500, §101(c) \[title IX, §§9103(3), 9131\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–118, 1783–128, and Pub. L. 99–591,§101(c) \[title IX, §§9103(3), 9131\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–118, 3341–128; Pub. L. 99–661, div. A, title VI, §661(b), Nov. 14, 1986, 100 Stat. 3892; Pub. L. 100–26, §§4(a)(1), 7(a)(3), Apr. 21, 1987, 101 Stat. 274, 275; Pub. L. 106–65, div. A, title VI, §651(b), Oct. 5, 1999, 113 Stat. 664; Pub. L. 108–136, div. A, title VI, §641(c)(5), Nov. 24, 2003, 117 Stat. 1516; Pub. L. 108–375, div. A, title X, §1084(d)(11), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 109–364, div. A, title V, §591(b), Oct. 17, 2006, 120 Stat. 2233; Pub. L. 110–181, div. A, title IX, §906(c)(3), title X, §1063(c)(4), Jan. 28, 2008, 122 Stat. 277, 322; Pub. L. 116–283, div. G, title LVXXXII \[LXXXII\], §8225, Jan. 1, 2021, 134 Stat. 4659.)
+(Added Pub. L. 98–94, title IX, §925(a)(1), Sept. 24, 1983, 97 Stat. 647; amended Pub. L. 99–500, §101(c) \[title IX, §§9103(3), 9131\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–118, 1783–128, and Pub. L. 99–591, §101(c) \[title IX, §§9103(3), 9131\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–118, 3341–128; Pub. L. 99–661, div. A, title VI, §661(b), Nov. 14, 1986, 100 Stat. 3892; Pub. L. 100–26, §§4(a)(1), 7(a)(3), Apr. 21, 1987, 101 Stat. 274, 275; Pub. L. 106–65, div. A, title VI, §651(b), Oct. 5, 1999, 113 Stat. 664; Pub. L. 108–136, div. A, title VI, §641(c)(5), Nov. 24, 2003, 117 Stat. 1516; Pub. L. 108–375, div. A, title X, §1084(d)(11), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 109–364, div. A, title V, §591(b), Oct. 17, 2006, 120 Stat. 2233; Pub. L. 110–181, div. A, title IX, §906(c)(3), title X, §1063(c)(4), Jan. 28, 2008, 122 Stat. 277, 322; Pub. L. 116–283, div. G, title LVXXXII \[LXXXII\], §8225, Jan. 1, 2021, 134 Stat. 4659; Pub. L. 117–81, div. A, title X, §1081(a)(19), Dec. 27, 2021, 135 Stat. 1920.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -54,7 +56,9 @@ Amendment of section by section 9131 of Pub. L. 99–500 and Pub. L. 99–591 is
 
 #### Amendments
 
-<b>2021</b>—Subsec. (a). Pub. L. 116–283, §8225(1)(A), (C), in introductory provisions, substituted "Secretary of Defense and the Secretary of the department in which the Coast Guard is operating, with respect to the Coast guard, shall" for "Secretary of Defense shall" and "each month the respective pro rata share contribution of the Secretary of Defense and the Secretary of the department in which the Coast Guard is operating" for "each month as the Department of Defense contribution" and struck out concluding provisions which read as follows:"Amounts paid into the Fund under this subsection shall be paid from funds available for the pay of members of the armed forces under the jurisdiction of the Secretary of a military department."
+<b>2021</b>—Subsec. (a). Pub. L. 117–81, in introductory provisions, substituted "with respect to the Coast Guard" for "with respect to the Coast guard".
+
+Pub. L. 116–283, §8225(1)(A), (C), in introductory provisions, substituted "Secretary of Defense and the Secretary of the department in which the Coast Guard is operating, with respect to the Coast guard, shall" for "Secretary of Defense shall" and "each month the respective pro rata share contribution of the Secretary of Defense and the Secretary of the department in which the Coast Guard is operating" for "each month as the Department of Defense contribution" and struck out concluding provisions which read as follows:"Amounts paid into the Fund under this subsection shall be paid from funds available for the pay of members of the armed forces under the jurisdiction of the Secretary of a military department."
 
 Subsec. (a)(2)(B). Pub. L. 116–283, §8225(1)(B), struck out "(other than the Coast Guard)" after "armed forces".
 
@@ -100,6 +104,8 @@ Pub. L. 99–500 and Pub. L. 99–591, title I, §101(c) \[§9131\], amended sub
 
 Subsec. (a)(1)(B), (2)(B). Pub. L. 99–500 and Pub. L. 99–591, title I, §101(c) \[title IX, §9103(3)\], as amended by Pub. L. 100–26, §4(a)(1), substituted "accrued for that month by" for "paid that month to" in pars. (1)(B) and (2)(B) as amended by section 661(b) of Pub. L. 99–661, see above.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
 Pub. L. 110–181, div. A, title X, §1063(c), Jan. 28, 2008, 122 Stat. 322, provided that the amendment made by section 1063(c)(4) is effective as of Oct. 17, 2006, and as if included in the John Warner National Defense Authorization Act for Fiscal Year 2007, Pub. L. 109–364, as enacted.
@@ -114,7 +120,7 @@ Amendment by Pub. L. 108–136 effective Oct. 1, 2003, with Secretary of Defense
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–65, div. A, title VI, §651(c), Oct. 5, 1999, 113 Stat. 664, provided that: "The amendments made bythis section \[amending this section and repealing section 5532 of Title 5, Government Organization and Employees\] shall take effect on October 1, 1999."
+Pub. L. 106–65, div. A, title VI, §651(c), Oct. 5, 1999, 113 Stat. 664, provided that: "The amendments made by this section \[amending this section and repealing section 5532 of Title 5, Government Organization and Employees\] shall take effect on October 1, 1999."
 
 #### Effective Date of 1987 Amendment
 
@@ -131,6 +137,4 @@ Amendment by section 101(c) \[title IX, §9103(3)\] of Pub. L. 99–500 and Pub.
 #### Effective Date
 
 Section effective Oct. 1, 1984, see section 925(b)(2) of Pub. L. 98–94, set out as a note under section 1463 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

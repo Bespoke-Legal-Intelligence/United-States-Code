@@ -22,6 +22,8 @@ As used in this subchapter:
 
 (Pub. L. 95–511, title III, §301, as added Pub. L. 103–359, title VIII, §807(a)(3), Oct. 14, 1994, 108 Stat. 3443; amended Pub. L. 107–108, title III, §314(a)(3), Dec. 28, 2001, 115 Stat. 1402; Pub. L. 110–261, title I, §110(c)(2), July 10, 2008, 122 Stat. 2467; Pub. L. 111–259, title VIII, §801(4), Oct. 7, 2010, 124 Stat. 2746.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 301 of Pub. L. 95–511 was renumbered section 701 and was set out as a note under section 1801 of this title, prior to repeal by Pub. L. 110–261.
@@ -34,11 +36,13 @@ A prior section 301 of Pub. L. 95–511 was renumbered section 701 and was set o
 
 <b>2001</b>—Par. (4)(D). Pub. L. 107–108 substituted "72 hours" for "24 hours".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
 Amendment by Pub. L. 110–261 effective July 10, 2008, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of this title, see section 402 of Pub. L. 110–261, set out as an Effective Date of 2008 Amendment note under section 1801 of this title.
 
 #### Effective Date
 
-Pub. L. 103–359, title VIII, §807(c), Oct. 14, 1994, 108 Stat. 3453, provided that: "The amendments made bysubsections (a) and (b) \[enacting this subchapter and amending provisions set out as a note under section 1801 of this title\] shall take effect 90 days after the date of enactment of this Act \[Oct. 14, 1994\], except that any physical search approved by the Attorney General of the United States to gather foreign intelligence information shall not be deemed unlawful for failure to follow the procedures of title III of the Foreign Intelligence Surveillance Act of 1978 \[this subchapter\] (as added by this Act), if that search is conducted within 180 days after the date of enactment of this Act pursuant to regulations issued by the Attorney General, which were in the possession of the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives before the date of enactment of this Act."
+Pub. L. 103–359, title VIII, §807(c), Oct. 14, 1994, 108 Stat. 3453, provided that: "The amendments made by subsections (a) and (b) \[enacting this subchapter and amending provisions set out as a note under section 1801 of this title\] shall take effect 90 days after the date of enactment of this Act \[Oct. 14, 1994\], except that any physical search approved by the Attorney General of the United States to gather foreign intelligence information shall not be deemed unlawful for failure to follow the procedures of title III of the Foreign Intelligence Surveillance Act of 1978 \[this subchapter\] (as added by this Act), if that search is conducted within 180 days after the date of enactment of this Act pursuant to regulations issued by the Attorney General, which were in the possession of the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives before the date of enactment of this Act."
 

@@ -18,9 +18,13 @@ Assignment of Forces.—The Commandant of the Marine Corps—
 
 (Added Pub. L. 104–201, div. A, title XII, §1211(a)(1), Sept. 23, 1996, 110 Stat. 2690; amended Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (c)(2). Pub. L. 115–232 substituted "section 8013" for "section 5013".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

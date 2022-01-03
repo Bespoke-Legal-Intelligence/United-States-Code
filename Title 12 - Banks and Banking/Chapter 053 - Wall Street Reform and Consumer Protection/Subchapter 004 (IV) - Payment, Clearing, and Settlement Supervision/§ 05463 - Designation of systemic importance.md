@@ -68,7 +68,7 @@
 
 #### (1) After hearing
 
-&emsp;Within 60 days of any hearing under subsection (c)(2), the Council shall notify the financial market utility or financial institutions of the final determination of the Councilin writing, which shall include findings of fact upon which the determination of the Council is based.
+&emsp;Within 60 days of any hearing under subsection (c)(2), the Council shall notify the financial market utility or financial institutions of the final determination of the Council in writing, which shall include findings of fact upon which the determination of the Council is based.
 
 #### (2) When no hearing requested
 

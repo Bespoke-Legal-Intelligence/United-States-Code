@@ -1,8 +1,10 @@
 ### §1446a–1. Use of Commodity Credit Corporation funds for purchases of dairy products requirements for school and other programs
 
-The Secretary of Agriculture is hereby authorized to use funds of the Commodity Credit Corporation to purchase sufficient supplies of dairy products at market prices to meet the requirements of any programs for the schools (other than fluid milk in the case of schools), domestic relief distribution, community action, and suchother programs as are authorized by law, when there are insufficient stocks of dairy products in the hands of Commodity Credit Corporation available for these purposes.
+The Secretary of Agriculture is hereby authorized to use funds of the Commodity Credit Corporation to purchase sufficient supplies of dairy products at market prices to meet the requirements of any programs for the schools (other than fluid milk in the case of schools), domestic relief distribution, community action, and such other programs as are authorized by law, when there are insufficient stocks of dairy products in the hands of Commodity Credit Corporation available for these purposes.
 
 (Pub. L. 89–321, title VII, §709, Nov. 3, 1965, 79 Stat. 1212; Pub. L. 89–808, §3(b), Nov. 11, 1966, 80 Stat. 1538.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -11,6 +13,8 @@ Section was enacted as part of the Food and Agriculture Act of 1965, and not as 
 #### Amendments
 
 <b>1966</b>—Pub. L. 89–808 struck out "foreign distribution," after "community action,", thus deleting that part authorizing purchase of dairy products for foreign donation, such authority now being included in the general authority provided for by section 1721 et seq. of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1966 Amendment
 

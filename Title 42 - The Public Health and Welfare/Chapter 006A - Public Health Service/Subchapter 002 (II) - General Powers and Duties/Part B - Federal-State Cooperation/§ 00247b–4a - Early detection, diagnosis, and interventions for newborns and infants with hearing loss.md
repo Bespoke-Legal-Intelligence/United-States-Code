@@ -18,7 +18,7 @@ For the purposes of this section only, the following terms in this section are d
 
 #### (4) Medical intervention
 
-&emsp;Medical intervention is the process by which a physician provides medical diagnosis and direction for medical and/or surgical treatment options of hearing loss and/or related medical disorder associated with hearing loss.
+&emsp;Medical intervention is the process by which a physician provides medical diagnosis and direction for medical and/or surgical treatmentoptions of hearing loss and/or related medical disorder associated with hearing loss.
 
 #### (5) Audiologic rehabilitation
 
@@ -54,7 +54,7 @@ Under the existing authority of the Public Health Service Act \[42 U.S.C. 201 et
 
 #### (1) Centers for Disease Control and Prevention
 
-&emsp;Under the existing authority of the Public Health Service Act \[42 U.S.C. 201 et seq.\], the Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall make awards of grants or cooperativeagreements to provide technical assistance to State agencies to complement an intramural program and to conduct applied research related to newborn and infant hearing screening, evaluation and intervention programs and systems. The program shall develop standardized procedures for data management and program effectiveness and costs, such as—
+&emsp;Under the existing authority of the Public Health Service Act \[42 U.S.C. 201 et seq.\], the Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall make awards of grants or cooperative agreements to provide technical assistance to State agencies to complement an intramural program and to conduct applied research related to newborn and infant hearing screening, evaluation and intervention programs and systems. The program shall develop standardized procedures for data management and program effectiveness and costs, such as—
 
 &emsp;&emsp;(A) to ensure quality monitoring of newborn and infant hearing loss screening, evaluation, and intervention programs and systems;
 
@@ -105,6 +105,8 @@ Nothing in this section shall be construed to preempt any State law.
 &emsp;For the purpose of carrying out subsection (d)(2) under the existing authority of the Public Health Service Act, there are authorized to the National Institute on Deafness and Other Communication Disorders appropriations for such sums as may be necessary for each of the fiscal years 2000 through 2002.
 
 (Pub. L. 106–113, div. B, §1000(a)(4) \[title VI, §601\], Nov. 29, 1999, 113 Stat. 1535, 1501A–276.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

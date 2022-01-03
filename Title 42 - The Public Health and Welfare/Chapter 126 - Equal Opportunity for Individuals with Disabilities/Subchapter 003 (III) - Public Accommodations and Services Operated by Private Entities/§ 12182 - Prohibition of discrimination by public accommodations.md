@@ -52,7 +52,7 @@ No individual shall be discriminated against on the basis of disability in the f
 
 &emsp;&emsp;For purposes of subsection (a), discrimination includes—
 
-&emsp;&emsp;&emsp;(i) the imposition or application of eligibility criteria that screen out or tend to screen out an individual with a disability or any class of individuals with disabilities from fully and equally enjoying any goods, services, facilities, privileges, advantages, or accommodations, unless such criteria can be shown to be necessary for the provision of the goods, services, facilities, privileges, advantages, or accommodations being offered;
+&emsp;&emsp;&emsp;(i) the imposition or application of eligibility criteria that screen out or tend toscreen out an individual with a disability or any class of individuals with disabilities from fully and equally enjoying any goods, services, facilities, privileges, advantages, or accommodations, unless such criteria can be shown to be necessary for the provision of the goods, services, facilities, privileges, advantages, or accommodations being offered;
 
 &emsp;&emsp;&emsp;(ii) a failure to make reasonable modifications in policies, practices, or procedures, when such modifications are necessary to afford such goods, services, facilities, privileges, advantages, or accommodations to individuals with disabilities, unless the entity can demonstrate that making such modifications would fundamentally alter the nature of such goods, services, facilities, privileges, advantages, or accommodations;
 
@@ -92,13 +92,17 @@ No individual shall be discriminated against on the basis of disability in the f
 
 #### (3) Specific construction
 
-&emsp;Nothing in this subchapter shall require an entity to permit an individual to participate in or benefit from the goods, services, facilities, privileges, advantages and accommodations of such entity where such individualposes a direct threat to the health or safety of others. The term "direct threat" means a significant risk to the health or safety of others that cannot be eliminated by a modification of policies, practices, or procedures or by the provision of auxiliary aids or services.
+&emsp;Nothing in this subchapter shall require an entity to permit an individual to participate in or benefit from the goods, services, facilities, privileges, advantages and accommodations of such entity where such individual poses a direct threat to the health or safety of others. The term "direct threat" means a significant risk to the health or safety of others that cannot be eliminated by a modification of policies, practices, or procedures or by the provision of auxiliary aids or services.
 
 (Pub. L. 101–336, title III, §302, July 26, 1990, 104 Stat. 355.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 For the effective date of this subparagraph, referred to in subsec. (b)(2)(B), (C)(ii), see section 310 of Pub. L. 101–336, set out as an Effective Date note under section 12181 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

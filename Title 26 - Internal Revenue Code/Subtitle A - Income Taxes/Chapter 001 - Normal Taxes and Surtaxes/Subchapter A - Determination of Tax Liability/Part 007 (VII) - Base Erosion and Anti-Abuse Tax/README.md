@@ -6,6 +6,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior part VII, Environmental Tax, consisted of section 59A, prior to repeal by Pub. L. 113–295, div. A, title II, §221(a)(12)(A), Dec. 19, 2014, 128 Stat. 4038.

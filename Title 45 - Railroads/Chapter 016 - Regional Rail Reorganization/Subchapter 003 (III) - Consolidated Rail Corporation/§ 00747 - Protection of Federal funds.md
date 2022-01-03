@@ -8,7 +8,7 @@
 
 #### (b) Report
 
-The Association shall prepare and submit an annual report to Congress on the performance ofthe Corporation in order to keep the Congress informed as to matters which may affect the quality of rail services in the region and which may affect the security of Federal funds referred to in subsection (a) of this section. Each such report shall be submitted within 150 days after the end of the fiscal year of the Corporation. Each such report shall include an evaluation of—
+The Association shall prepare and submit an annual report to Congress on the performance of the Corporation in order to keep the Congress informed as to matters which may affect the quality of rail services in the region and which may affect the security of Federal funds referred to in subsection (a) of this section. Each such report shall be submitted within 150 days after the end of the fiscal year of the Corporation. Each such report shall include an evaluation of—
 
 &emsp;(1) the degree to which the goals of section 716(a) of this title are being met;
 

@@ -22,17 +22,21 @@ The Office shall insure that the report, in the form approved by the President, 
 
 (Pub. L. 94–282, title II, §206, May 11, 1976, 90 Stat. 466; Pub. L. 97–375, title II, §215(3), Dec. 21, 1982, 96 Stat. 1826.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Reorganization Plan Number 1 of 1977, referred to in subsec. (a), is Reorg. Plan No. 1 of 1977, 42 F.R. 56101, 91 Stat. 1633, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in section 6618 of this title, Pub. L. 94–282, titleII, §209, May 11, 1976, 90 Stat. 468, prior to repeal by Pub. L. 97–375, title II, §215(1), Dec. 21, 1982, 96 Stat. 1826.
+Provisions similar to those in this section were contained in section 6618 of this title, Pub. L. 94–282, title II, §209, May 11, 1976, 90 Stat. 468, prior to repeal by Pub. L. 97–375, title II, §215(1), Dec. 21, 1982, 96 Stat. 1826.
 
 #### Amendments
 
 <b>1982</b>—Pub. L. 97–375 substituted provisions requiring the President to submit to Congress in odd numbered years a science and technology report and outlook for provisions which required the Office of Science and Technology Policy to create a five-year science and technology outlook, dealing with current and emerging problems and with opportunities for and constraints on new and existing capabilities, to be revised annually, composed with the consultation of officials of departments and agencies having related programs and responsibilities, and with officials of the Office of Management and Budget and other appropriate elements of the Executive Office of the President.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Reporting Requirements
 

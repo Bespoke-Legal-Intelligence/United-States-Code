@@ -62,7 +62,7 @@
 
 &emsp;&emsp;(B) whose employment (as described in section 8347(o)) is also employment for purposes of title II of the Social Security Act and chapter 21 of the Internal Revenue Code of 1986; and
 
-&emsp;(2) the term "Federal service", as applied with respect to any individual to whom this section applies as a result of paragraph (1), means any employment referred to in paragraph (1)(B) performed after December 31, 1983.
+&emsp;(2) the term "Federal service", as applied with respect to any individual to whom thissection applies as a result of paragraph (1), means any employment referred to in paragraph (1)(B) performed after December 31, 1983.
 
 (Added Pub. L. 99–335, title II, §201(b)(1), June 6, 1986, 100 Stat. 589; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–238, title I, §108(b)(2), Jan. 8, 1988, 101 Stat. 1748.)
 

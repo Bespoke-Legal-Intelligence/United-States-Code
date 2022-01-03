@@ -10,9 +10,11 @@ In addition to the jurisdiction described in subsection (a) the District Court o
 
 #### (c) Criminal offenses; concurrent jurisdiction with local courts
 
-The District Court of the Virgin Islands shall have concurrent jurisdiction with the courts of the Virgin Islands established by local law over those offenses against the criminal laws of the Virgin Islands, whether felonies or misdemeanors or both, which are of the same or similar character or part of, or based on, the same act or transaction or two or more acts or transactions connected together or constitutingpart of a common scheme or plan, if such act or transaction or acts or transactions also constitutes or constitute an offense or offenses against one or more of the statutes over which the District Court of the Virgin Islands has jurisdiction pursuant to subsections (a) and (b) of this section.
+The District Court of the Virgin Islands shall have concurrent jurisdiction with the courts of the Virgin Islands established by local law over those offenses against the criminal laws of the Virgin Islands, whether felonies or misdemeanors or both, which are of the same or similar character or part of, or based on, the same act or transaction or two or more acts or transactions connected together or constituting part of a common scheme or plan, if such act or transaction or acts or transactions also constitutes or constitute an offense or offenses against one or more of the statutes over which the District Court of the Virgin Islands has jurisdiction pursuant to subsections (a) and (b) of this section.
 
 (July 22, 1954, ch. 558, §22, 68 Stat. 506; Pub. L. 95–598, title III, §336(a), Nov. 6, 1978, 92 Stat. 2680; Pub. L. 98–454, title VII, §703(a), title X, §1001, Oct. 5, 1984, 98 Stat. 1738, 1745; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -25,6 +27,8 @@ This chapter, referred to in text, was in the original "this Act", meaning act J
 <b>1984</b>—Pub. L. 98–454 amended section generally, designating existing provisions as subsec. (a), substituted provisions that District Court would have all jurisdiction of a district court of the United States, including diversity jurisdiction and bankruptcy jurisdiction as well as civil and criminal matters regarding the income tax laws applicable to the Virgin Islands for former provisions conferring general jurisdiction on the court and providing for the transfer of cases, repealed section 336 of Pub. L. 95–598, which had amended this section, and added subsecs. (b) and (c).
 
 <b>1978</b>—Pub. L. 95–598 inserted "and a bankruptcy court" after "jurisdiction of a district court".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

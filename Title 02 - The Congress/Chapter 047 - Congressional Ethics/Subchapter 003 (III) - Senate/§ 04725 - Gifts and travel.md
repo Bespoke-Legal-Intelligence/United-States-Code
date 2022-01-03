@@ -24,7 +24,7 @@
 
 (B) Any Member who accepts an invitation to participate in any such program shall notify the Select Committee in writing of his acceptance. A Member shall also notify the Select Committee in writing whenever he has permitted any officer or employee whom he supervises to participate in any such program. The chairman of the Select Committee shall place in the Congressional Record a list of all individuals,<sup>4</sup> participating, the supervisors of such individuals where applicable; <sup>5</sup> and the nature and itinerary of such program.
 
-(C) No Member, officer, or employee may accept funds in connection with participation in aprogram permitted under subparagraph (A) if such funds are not used for necessary food, lodging, transportation, and related expenses of the Member, officer, or employee.
+(C) No Member, officer, or employee may accept funds in connection with participation in a program permitted under subparagraph (A) if such funds are not used for necessary food, lodging, transportation, and related expenses of the Member, officer, or employee.
 
 #### (b) Limits on domestic and foreign travel by Members and staff of Senate
 

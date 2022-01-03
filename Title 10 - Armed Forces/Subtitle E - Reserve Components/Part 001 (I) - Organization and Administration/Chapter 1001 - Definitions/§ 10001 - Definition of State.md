@@ -4,6 +4,8 @@ In this subtitle, the term "State" includes the District of Columbia, the Common
 
 (Added Pub. L. 103–337, div. A, title XVI, §1661(a)(1), Oct. 5, 1994, 108 Stat. 2969.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1996 Amendment
 
 Pub. L. 104–106, div. A, title XV, §1501(f)(2), Feb. 10, 1996, 110 Stat. 501, as amended by Pub. L. 105–85, div. A, title X, §1073(d)(1)(E)(ii), Nov. 18, 1997, 111 Stat. 1905, provided that: "The amendments made by sections 1672(a), 1673(a) (with respect to chapters 541 and 549), 1673(b)(2), 1673(b)(4), 1674(a), and 1674(b)(7) of the Reserve Officer Personnel Management Act \[Pub. L. 103–337, amending the tables of chapters for subtitle B, part II of subtitle B, subtitle C, part II of subtitle C, subtitle D, and part II of subtitle D of this title and the tables of sections for chapters 539, 573, and 861 of this title\] shall take effect on the effective date specified in section 1691(b)(1) of the Reserve Officer Personnel Management Act \[set out as a note below\] (notwithstanding section 1691(a) of such Act \[set out as a note below\])."
@@ -18,7 +20,7 @@ Effective Date for Amendments.—Except as provided in subsection (b), the amend
 
 "(b)
 
-Effective Date for New Reserve Officer Personnel Policies.—(1) The provisions of part III of subtitle E of title 10, United States Code, as added by section 1611, shall become effective on October 1, 1996. The amendments made by part II \[part II (§§1621 to 1630) of subtitle A of title XVI of div. A of Pub. L. 103–337, see Tables for classification\], of subtitle A, by subtitle B \[subtitle B (§§1631 to 1641) of title XVI of div. A of Pub. L. 103–337, see Tables for classification\], and by section 1671(c)(2) \[amending section 113 of this title\] and paragraphs (2), (3)(B), (3)(C), and (4) of section 1675(d)\[amending sections 12645 to 12647 of this title\] shall take effect on October 1, 1996.
+Effective Date for New Reserve Officer Personnel Policies.—(1) The provisions of part III of subtitle E of title 10, United States Code, as added by section 1611, shall become effective on October 1, 1996. The amendments made by part II \[part II (§§1621 to 1630) of subtitle A of title XVI of div. A of Pub. L. 103–337, see Tables for classification\], of subtitle A, by subtitle B \[subtitle B (§§1631 to 1641) of title XVI of div. A of Pub. L. 103–337, see Tables for classification\], and by section 1671(c)(2) \[amending section 113 of this title\] and paragraphs (2), (3)(B), (3)(C), and (4) of section 1675(d) \[amending sections 12645 to 12647 of this title\] shall take effect on October 1, 1996.
 
 "(2) Any reference in subtitle E of this title to the effective date of this title is a reference to the effective date prescribed in paragraph (1).
 

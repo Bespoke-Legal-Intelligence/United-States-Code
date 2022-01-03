@@ -16,7 +16,7 @@ The words defined in this section shall have the following meanings for purposes
 
 &emsp;(7) "municipality" means a city, county, irrigation district, drainage district, or other political subdivision or agency of a State competent under the laws thereof to carry on the business of developing, transmitting, utilizing, or distributing power;
 
-&emsp;(8) "navigable waters" means those parts of streams or other bodies of water over which Congress has jurisdiction under its authority to regulate commerce with foreign nations and among the several States, and which either in their natural or improved condition notwithstanding interruptions between thenavigable parts of such streams or waters by falls, shallows, or rapids compelling land carriage, are used or suitable for use for the transportation of persons or property in interstate or foreign commerce, including therein all such interrupting falls, shallows, or rapids, together with such other parts of streams as shall have been authorized by Congress for improvement by the United States or shall have been recommended to Congress for such improvement after investigation under its authority;
+&emsp;(8) "navigable waters" means those parts of streams or other bodies of water over which Congress has jurisdiction under its authority to regulate commerce with foreign nations and among the several States, and which either in their natural or improved condition notwithstanding interruptions between the navigable parts of such streams or waters by falls, shallows, or rapids compelling land carriage, are used or suitable for use for the transportation of persons or property in interstate or foreign commerce, including therein all such interrupting falls, shallows, or rapids, together with such other parts of streams as shall have been authorized by Congress for improvement by the United States or shall have been recommended to Congress for such improvement after investigation under its authority;
 
 &emsp;(9) "municipal purposes" means and includes all purposes within municipal powers as defined by the constitution or laws of the State or by the charter of the municipality;
 
@@ -122,7 +122,9 @@ Electric cooperative.—The term "electric cooperative" means a cooperatively ow
 
 Transmission organization.—The term "Transmission Organization" means a Regional Transmission Organization, Independent System Operator, independent transmission provider, or other transmission organization finally approved by the Commission for the operation of transmission facilities.
 
-(June 10, 1920, ch. 285, pt. I, §3, 41 Stat. 1063; renumbered pt. I and amended, Aug. 26, 1935, ch. 687, title II, §§201, 212, 49 Stat. 838, 847; Pub. L. 95–617, title II, §201, Nov. 9, 1978, 92 Stat. 3134; Pub. L. 96–294, title VI, §643(a)(1), June 30, 1980, 94 Stat. 770; Pub. L. 101–575, §3, Nov. 15, 1990, 104 Stat. 2834; Pub. L. 102–46, May 17, 1991, 105 Stat. 249; Pub. L. 102–486, title VII, §726, Oct. 24, 1992, 106 Stat. 2921; Pub. L. 109–58, title XII, §§1253(b), 1291(b), Aug. 8, 2005, 119 Stat. 970, 984.)
+(June 10, 1920, ch. 285, pt. I, §3, 41 Stat. 1063; renumbered pt. I and amended, Aug. 26, 1935, ch.687, title II, §§201, 212, 49 Stat. 838, 847; Pub. L. 95–617, title II, §201, Nov. 9, 1978, 92 Stat. 3134; Pub. L. 96–294, title VI, §643(a)(1), June 30, 1980, 94 Stat. 770; Pub. L. 101–575, §3, Nov. 15, 1990, 104 Stat. 2834; Pub. L. 102–46, May 17, 1991, 105 Stat. 249; Pub. L. 102–486, title VII, §726, Oct. 24, 1992, 106 Stat. 2921; Pub. L. 109–58, title XII, §§1253(b), 1291(b), Aug. 8, 2005, 119 Stat. 970, 984.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -168,6 +170,8 @@ Par. (17)(E). Pub. L. 101–575, §3(b), added subpar. (E).
 
 <b>1935</b>—Act Aug. 26, 1935, §201, amended definitions of "reservations" and "corporations", and inserted definitions of "person", "licensee", "commission", "commissioner", "State commission" and "security".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### FERC Regulations
 
 Pub. L. 101–575, §4, Nov. 15, 1990, 104 Stat. 2834, provided that: "Unless the Federal Energy Regulatory Commission otherwise specifies, by rule after enactment of this Act \[Nov. 15, 1990\], any eligible solar, wind, waste, or geothermal facility (as defined in section 3(17)(E) of the Federal Power Act as amended by this Act \[16 U.S.C. 796(17)(E)\]), which is a qualifying small power production facility (as defined in subparagraph (C) of section 3(17) of the Federal Power Act as amended by this Act)—
@@ -182,7 +186,7 @@ Pub. L. 102–486, title VII, §731, Oct. 24, 1992, 106 Stat. 2921, provided tha
 
 #### Termination of Federal Power Commission; Transfer of Functions
 
-Federal Power Commission terminated and functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
+The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 

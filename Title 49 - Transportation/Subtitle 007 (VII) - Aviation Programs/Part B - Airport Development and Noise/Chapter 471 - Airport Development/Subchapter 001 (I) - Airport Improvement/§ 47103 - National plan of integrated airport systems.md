@@ -72,6 +72,8 @@ In subsection (c), the words "Secretary of Defense" are substituted for "Departm
 
 In subsection (d), the words "Not later than two years after September 3, 1982" are omitted as executed.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Subsec. (a). Pub. L. 112–95, §152(a)(1)(A), substituted "the airport system to" for "each airport to" in introductory provisions.

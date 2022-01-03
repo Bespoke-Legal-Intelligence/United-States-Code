@@ -24,11 +24,15 @@ In subsection (a) the words "the district in which any part of the property is l
 
 In subsection (b) the words "for resort to" and "for" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232, §807(d)(5), renumbered section 7437 of this title as this section.
 
 Subsec. (a). Pub. L. 115–232, §809(a), substituted "section 8736" for "section 7436".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

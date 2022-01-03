@@ -44,7 +44,7 @@ Assistance prohibited by subsection (a) may be provided to a country described i
 
 > The waiver authority granted in this subsection may not be used to provide any assistance under this chapter which is also prohibited by section 2780 of this title.
 
-(Pub. L. 87–195, pt. III, §620A, as added Pub. L. 94–329, title III, §303, June 30, 1976, 90 Stat. 753;amended Pub. L. 99–83, title V, §503(a), Aug. 8, 1985, 99 Stat. 220; Pub. L. 99–190, §101(i) \[title V, §521\], Dec. 19, 1985, 99 Stat. 1291, 1305; Pub. L. 101–222, §5, Dec. 12, 1989, 103 Stat. 1897; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Q), June 18, 2008, 122 Stat. 1820.)
+(Pub. L. 87–195, pt. III, §620A, as added Pub. L. 94–329, title III, §303, June 30, 1976, 90 Stat. 753; amended Pub. L. 99–83, title V, §503(a), Aug. 8, 1985, 99 Stat. 220; Pub. L. 99–190, §101(i) \[title V, §521\], Dec. 19, 1985, 99 Stat. 1291, 1305; Pub. L. 101–222, §5, Dec. 12, 1989, 103 Stat. 1897; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Q), June 18, 2008, 122 Stat. 1820.)
 
 #### <b>Editorial Notes</b>
 
@@ -62,7 +62,7 @@ The Export-Import Bank Act of 1945, referred to in subsecs. (a) and (d)(1), is a
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–246 substituted "Food for Peace Act" for "Agricultural Trade Development and Assistance Act of 1954".
 
-<b>1989</b>—Pub. L. 101–222 amended section generally, in subsec. (a) substituting provisions prohibiting assistance if Secretary of State determines country has repeatedly supported terrorism, for provisions prohibiting assistance if President determines country grants sanctuary to terrorists or otherwise supports terrorism; redesignating subsec. (b) as (d) and inserting provisions prohibiting justification of waiver of assistance under specified Acts and provisions describing contents of report on proposed waiver; adding subsecs. (b) and (c); and striking out subsec. (c) which related to imposition of sanction by other countries.
+<b>1989</b>—Pub. L. 101–222 amended section generally, in subsec. (a) substituting provisions prohibiting assistance if Secretary of State determines country has repeatedly supported terrorism, for provisions prohibiting assistance if President determines country grantssanctuary to terrorists or otherwise supports terrorism; redesignating subsec. (b) as (d) and inserting provisions prohibiting justification of waiver of assistance under specified Acts and provisions describing contents of report on proposed waiver; adding subsecs. (b) and (c); and striking out subsec. (c) which related to imposition of sanction by other countries.
 
 <b>1985</b>—Subsec. (a). Pub. L. 99–190 inserted reference to the Export-Import Bank Act of 1945.
 

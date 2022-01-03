@@ -12,7 +12,7 @@ There are authorized to be appropriated such amounts as may be necessary from ti
 
 &emsp;(1) for contributions to the activities of the United Nations High Commissioner for Refugees for assistance to refugees under his mandate or persons on behalf of whom he is exercising his good offices, and for contributions to the International Organization for Migration, the International Committee of the Red Cross, and to other relevant international organizations; and
 
-&emsp;(2) for assistance to or on behalf of refugees who are outside the United States designated by the President (by class, group, or designation of their respective countries of origin or areas of residence) when the President determines that such assistance will contribute to the foreign policy interests of the United States.
+&emsp;(2) for assistance to or on behalf of refugees who are outside the United States designated by the President (by class, group, or designation of their respective countries of origin or areas of residence) when the President determines that such assistance will contribute tothe foreign policy interests of the United States.
 
 #### (c) United States Emergency Refugee and Migration Assistance Fund; appropriations
 
@@ -40,7 +40,7 @@ The President may furnish assistance and make contributions under this chapter n
 
 #### References in Text
 
-This chapter, referred to in subsecs. (c)(1), (d), and (f), was in the original "this Act", meaning Pub. L. 87–510, June 28, 1962, 76 Stat. 121, as amended, known as the Migration and Refugee Assistance Act of 1962, which enacted this chapter, amended section 1404 of Title 8,Aliens and Nationality, repealed sections 1925(a), (c), (d), and 1951(c) of this title, enacted a provision set out as a note under this section, and amended a provision set out as a note under section 1182 of Title 8. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsecs. (c)(1), (d), and (f), was in the original "this Act", meaning Pub. L. 87–510, June 28, 1962, 76 Stat. 121, as amended, known as the Migration and Refugee Assistance Act of 1962, which enacted this chapter, amended section 1404 of Title 8, Aliens and Nationality, repealed sections 1925(a), (c), (d), and 1951(c) of this title, enacted a provision set out as a note under this section, and amended a provision set out as a note under section 1182 of Title 8. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 The Foreign Assistance Act of 1961, as amended, referred to in subsec. (e), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
@@ -60,7 +60,7 @@ Subsec. (c)(2). Pub. L. 103–236, §430(a)(4), substituted "$100,000,000" for "
 
 <b>1985</b>—Subsec. (f). Pub. L. 99–93 added subsec. (f).
 
-<b>1980</b>—Subsec. (b). Pub. L. 96–212, §312(b)(1), in par. (1) inserted provisions respecting contributions to the Intergovernmental Committee for European Migration, etc., in par. (2) inserted provisions requiring refugees to be outside of the United States, and struck out requirement that the assistance contribute to the defense or security of the United States, and struck out pars. (3) to (6), which related to assistance when determined by the President to be in the interest of the United States, assistance to State and local agencies, assistance for transportation and resettlement, and assistance for employment and professional refresher training projects, respectively.
+<b>1980</b>—Subsec. (b). Pub. L. 96–212, §312(b)(1), in par. (1) inserted provisions respecting contributions to the Intergovernmental Committee for European Migration, etc., in par. (2) inserted provisions requiring refugees to be outside of the United States, and struck out requirement that the assistance contribute to the defense orsecurity of the United States, and struck out pars. (3) to (6), which related to assistance when determined by the President to be in the interest of the United States, assistance to State and local agencies, assistance for transportation and resettlement, and assistance for employment and professional refresher training projects, respectively.
 
 Subsec. (c)(2). Pub. L. 96–212, §312(b)(2), inserted provisions increasing amount from $25,000,000 to $50,000,000.
 

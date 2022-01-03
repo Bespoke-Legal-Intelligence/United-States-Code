@@ -16,6 +16,8 @@ The Secretary of the Treasury, after consultation with the Administrator, shall 
 
 (Pub. L. 94–469, title I, §13, Oct. 11, 1976, 90 Stat. 2034; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 100–418, title I, §1214(e)(2), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 102–550, title X, §1021(b)(4), Oct. 28, 1992, 106 Stat. 3923.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Harmonized Tariff Schedule of the United States, referred to in subsec. (a), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
@@ -25,6 +27,8 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (a),
 <b>1992</b>—Subsec. (a)(1)(B). Pub. L. 102–550 substituted "section 2604 of this title, 2605 of this title, or subchapter IV" for "section 2604 or 2605 of this title" in two places and "section 2604 of this title, 2606 of this title or subchapter IV" for "section 2604 or 2606 of this title".
 
 <b>1988</b>—Subsec. (a)(1). Pub. L. 100–418 substituted "general note 2 of the Harmonized Tariff Schedule of the United States" for "general headnote 2 to the Tariff Schedules of the United States" in introductory text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

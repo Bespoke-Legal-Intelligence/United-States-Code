@@ -46,9 +46,13 @@ It is the sense of Congress that—
 
 (Pub. L. 116–92, div. E, title LXVII, §6725, Dec. 20, 2019, 133 Stat. 2234.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The National Security Act of 1947, referred to in subsec. (c)(1), is act July 26, 1947, ch. 343, 61 Stat. 495. Title X of the Act is classified generally to subchapter VIII (§3191 et seq.) of chapter 44 of this title. For complete classification of this Act to the Code, see Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Intelligence Community Student Loan Repayment Programs
 
@@ -108,7 +112,7 @@ Appropriate Congressional Committees Defined.—In this section, the term 'appro
 
 &emsp;"(5) with respect to an element of the intelligence community within the Department of Homeland Security, the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives;
 
-&emsp;"(6) with respect to an element of the intelligence community within the Department of State, the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives;
+&emsp;"(6) with respect to an element of the intelligence community within the Department of State, the Committee on Foreign Relations of the Senate andthe Committee on Foreign Affairs of the House of Representatives;
 
 &emsp;"(7) with respect to an element of the intelligence community within the Department of Energy, the Committee on Energy and Natural Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives; and
 

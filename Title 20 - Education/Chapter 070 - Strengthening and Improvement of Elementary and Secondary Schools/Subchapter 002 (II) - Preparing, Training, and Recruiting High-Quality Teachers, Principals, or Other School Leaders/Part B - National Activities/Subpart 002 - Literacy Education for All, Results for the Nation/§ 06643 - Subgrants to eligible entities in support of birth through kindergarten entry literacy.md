@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;A State educational agency receiving a grant under this subpart shall, in consultation with the State agencies responsible for administering early childhood education programs and services, including the State agency responsible for administering child care programs, and, if applicable, the State Advisory Council on Early Childhood Education and Care designated or established pursuant to section 9837b(b)(1)(A)(i) of title 42, use a portion of the grant funds, in accordance with section 6642(d)(2)(D)(i) of this title, to award subgrants, on a competitive basis, to eligible entities to enable the eligible entities to support high-quality early literacy initiatives for children from birth through kindergarten entry.
+&emsp;A State educational agency receiving a grant under this subpart shall, in consultation with the State agencies responsible for administering early childhood education programs and services, including the State agency responsible for administering child care programs, and, if applicable, the State AdvisoryCouncil on Early Childhood Education and Care designated or established pursuant to section 9837b(b)(1)(A)(i) of title 42, use a portion of the grant funds, in accordance with section 6642(d)(2)(D)(i) of this title, to award subgrants, on a competitive basis, to eligible entities to enable the eligible entities to support high-quality early literacy initiatives for children from birth through kindergarten entry.
 
 #### (2) Duration
 
@@ -28,7 +28,7 @@ An eligible entity desiring to receive a subgrant under this section shall submi
 
 #### (c) Priority
 
-In awarding grants under this section, the State educational agency shall give priority to an eligible entity that will use the grant fundsto implement evidence-based activities, defined for the purpose of this subsection as activities meeting the requirements of section 7801(21)(A)(i) of this title.
+In awarding grants under this section, the State educational agency shall give priority to an eligible entity that will use the grant funds to implement evidence-based activities, defined for the purpose of this subsection as activities meeting the requirements of section 7801(21)(A)(i) of this title.
 
 #### (d) Local uses of funds
 
@@ -42,9 +42,13 @@ An eligible entity that receives a subgrant under this section shall use the sub
 
 (Pub. L. 89–10, title II, §2223, as added Pub. L. 114–95, title II, §2002, Dec. 10, 2015, 129 Stat. 1940.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 6643, Pub. L. 89–10, title II, §2203, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3621, related to within-State allocations, prior to its omission in the general amendment of this subchapter by Pub. L. 107–110.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

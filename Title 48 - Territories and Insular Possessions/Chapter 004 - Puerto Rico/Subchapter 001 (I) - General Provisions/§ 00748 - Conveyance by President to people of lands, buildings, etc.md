@@ -4,13 +4,19 @@ The President may, from time to time, in his discretion, convey to the people of
 
 (Mar. 2, 1917, ch. 145, §7, 39 Stat. 954; May 17, 1932, ch. 190, 47 Stat. 158.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is comprised of proviso clause of section 7 of act Mar. 2, 1917. The text preceding the proviso clause of section 7 is classified to section 747 of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 "Puerto Rico" substituted in text for "Porto Rico" pursuant to act May 17, 1932, which is classified to section 731a of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

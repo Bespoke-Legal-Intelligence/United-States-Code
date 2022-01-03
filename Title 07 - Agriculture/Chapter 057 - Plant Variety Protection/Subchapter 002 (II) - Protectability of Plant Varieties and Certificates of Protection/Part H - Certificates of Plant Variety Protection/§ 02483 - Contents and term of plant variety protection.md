@@ -12,7 +12,7 @@
 
 (3) An owner may waive a right provided under this subsection, other than a right that is elected by the owner under paragraph (2)(A).
 
-(4) The Secretary may at the discretion of the Secretary permit such election or waiver to bemade after certificating and amend the certificate accordingly, without retroactive effect.
+(4) The Secretary may at the discretion of the Secretary permit such election or waiver to be made after certificating and amend the certificate accordingly, without retroactive effect.
 
 #### (b) Term
 
@@ -33,6 +33,8 @@
 The term of plant variety protection shall also expire if the owner fails to comply with regulations, in force at the time of certificating, relating to replenishing seed in a public repository, or requiring the submission of a different name for the variety, except that this expiration shall not occur unless notice is mailed to the last owner recorded as provided in section 2531(d) of this title and the last owner fails, within the time allowed thereafter, not less than three months, to comply with said regulations, paying an additional fee to be prescribed by the Secretary.
 
 (Pub. L. 91–577, title II, §83, Dec. 24, 1970, 84 Stat. 1551; Pub. L. 96–574, §14, Dec. 22, 1980, 94 Stat. 3350; Pub. L. 103–349, §§7, 13(m), Oct. 6, 1994, 108 Stat. 3140, 3143; Pub. L. 104–127, title IX, §913(b), Apr. 4, 1996, 110 Stat. 1186.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -57,6 +59,8 @@ Subsec. (b). Pub. L. 103–349, §7(2), in first sentence substituted "20 years"
 Subsec. (c). Pub. L. 103–349, §§7(3), 13(m)(2), substituted "repository, or requiring the submission of a different name for the variety, except that" for "repository: <i>Provided, however</i>, That" and "the last owner" for "he" before "fails".
 
 <b>1980</b>—Subsec. (b). Pub. L. 96–574 substituted "eighteen" for "seventeen".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

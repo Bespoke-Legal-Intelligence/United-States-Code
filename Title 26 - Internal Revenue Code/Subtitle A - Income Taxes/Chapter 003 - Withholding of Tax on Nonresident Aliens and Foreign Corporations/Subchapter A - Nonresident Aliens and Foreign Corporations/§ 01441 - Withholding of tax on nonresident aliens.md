@@ -46,7 +46,7 @@ The items of income referred to in subsection (a) are interest (other than origi
 
 #### (6) Per diem of certain aliens
 
-&emsp;No deduction or withholding under subsection (a) shall be required in the case ofamounts of per diem for subsistence paid by the United States Government (directly or by contract) to any nonresident alien individual who is engaged in any program of training in the United States under the Mutual Security Act of 1954, as amended.
+&emsp;No deduction or withholding under subsection (a) shall be required in the case of amounts of per diem for subsistence paid by the United States Government (directly or by contract) to any nonresident alien individual who is engaged in any program of training in the United States under the Mutual Security Act of 1954, as amended.
 
 #### (7) Certain annuities received under qualified plans
 
@@ -94,7 +94,9 @@ For purposes of this section, the term "nonresident alien individual" includes a
 
 &emsp;<b>For provision treating 85 percent of social security benefits as subject to withholding under this section, see section 871(a)(3).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 357; Aug. 26, 1954, ch. 937, title V, §544(f), as added July 18, 1956, ch. 627, §11(a), 70 Stat. 563; amended Pub. L. 85–141, §11(b)(1), Aug. 14, 1957, 71 Stat. 365; Pub. L. 85–866, title I, §40(b), Sept. 2, 1958, 72 Stat. 1638; Pub. L. 87–256, §110(d), Sept. 21, 1961, 75 Stat. 536; Pub. L. 88–272, title III, §302(c), Feb. 26, 1964, 78 Stat. 146; Pub. L. 89–809, title I, §103(h), Nov. 13, 1966, 80 Stat. 1553; Pub. L. 91–172, title V, §505(b), Dec. 30, 1969, 83 Stat. 634; Pub. L. 92–178, title III, §313(a), (d), Dec. 10, 1971, 85 Stat. 526, 527; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–21, title I, §121(c)(2), Apr. 20, 1983, 97 Stat. 82; Pub. L. 98–369, div. A, title I, §§42(a)(13), 127(e)(1), title IV, §474(r)(29)(G), (H), July 18, 1984, 98 Stat. 557, 652, 845; Pub. L. 99–514, title I, §123(b)(2), title XII, §1214(c)(3), title XVIII, §1810(d)(3)(D), Oct. 22, 1986, 100 Stat. 2113, 2542, 2825; Pub. L. 100–647, title I, §1001(d)(2)(A), title VI, §6134(a)(2), Nov. 10, 1988, 102 Stat. 3350, 3721; Pub. L. 101–508, title XI, §11704(a)(14), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 102–318, title V, §521(b)(32), (33), July 3, 1992, 106 Stat. 312; Pub. L. 103–66, title XIII, §13237(c)(4), Aug. 10, 1993, 107 Stat. 508; Pub. L. 103–296, title III, §320(a)(1)(B), Aug. 15, 1994, 108 Stat. 1535; Pub. L. 105–34, title XVI, §1604(g)(3), Aug. 5, 1997, 111 Stat. 1099; Pub. L. 108–357, title IV, §411(a)(3)(A), Oct. 22, 2004, 118 Stat. 1503; Pub. L. 113–295, div. A, title II, §221(a)(92), Dec. 19, 2014, 128 Stat. 4050.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 357; Aug. 26, 1954, ch. 937, title V, §544(f), as added July 18, 1956, ch. 627, §11(a), 70 Stat. 563; amended Pub. L. 85–141, §11(b)(1), Aug. 14, 1957, 71 Stat. 365; Pub. L. 85–866, title I, §40(b), Sept. 2, 1958, 72 Stat. 1638; Pub. L. 87–256, §110(d), Sept. 21, 1961, 75 Stat. 536; Pub. L. 88–272, title III, §302(c), Feb. 26, 1964, 78 Stat. 146; Pub. L. 89–809, title I, §103(h), Nov. 13, 1966, 80 Stat. 1553; Pub. L. 91–172, title V, §505(b), Dec. 30, 1969, 83 Stat. 634; Pub. L. 92–178, title III, §313(a), (d), Dec. 10, 1971, 85 Stat. 526, 527; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–21, title I, §121(c)(2), Apr.20, 1983, 97 Stat. 82; Pub. L. 98–369, div. A, title I, §§42(a)(13), 127(e)(1), title IV, §474(r)(29)(G), (H), July 18, 1984, 98 Stat. 557, 652, 845; Pub. L. 99–514, title I, §123(b)(2), title XII, §1214(c)(3), title XVIII, §1810(d)(3)(D), Oct. 22, 1986, 100 Stat. 2113, 2542, 2825; Pub. L. 100–647, title I, §1001(d)(2)(A), title VI, §6134(a)(2), Nov. 10, 1988, 102 Stat. 3350, 3721; Pub. L. 101–508, title XI, §11704(a)(14), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 102–318, title V, §521(b)(32), (33), July 3, 1992, 106 Stat. 312; Pub. L. 103–66, title XIII, §13237(c)(4), Aug. 10, 1993, 107 Stat. 508; Pub. L. 103–296, title III, §320(a)(1)(B), Aug. 15, 1994, 108 Stat. 1535; Pub. L. 105–34, title XVI, §1604(g)(3), Aug. 5, 1997, 111 Stat. 1099; Pub. L. 108–357, title IV, §411(a)(3)(A), Oct. 22, 2004, 118 Stat. 1503; Pub. L. 113–295, div. A, title II, §221(a)(92), Dec. 19, 2014, 128 Stat. 4050.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -104,7 +106,7 @@ The Mutual Educational and Cultural Exchange Act of 1961, referred to in subsec.
 
 The Tax Reform Act of 1984, referred to in subsec. (c)(3), is division A \[§§5 to 1082\] of Pub. L. 98–369, July 18, 1984, 98 Stat. 494, which was approved July 18, 1984. For complete classification of this Act to the Code, see Short Title of 1984 Amendments note set out under section 1 of this title and Tables.
 
-The Mutual Security Act of 1954, referred to in subsec. (c)(6), is act Aug. 26, 1954, ch. 937, 68 Stat. 832, as amended by acts July 8, 1955, ch. 301, 69 Stat. 283; July 18, 1956, ch. 627, §§2 to 11, 70 Stat. 555; Aug. 14, 1957, Pub. L. 85–141, 71 Stat. 355; June 30, 1958, Pub. L. 85–477, ch. 1, §§101 to 103, ch. II, §§201 to 205, ch. III, §301, ch. IV,§401, ch. V, §501, 72 Stat. 261; July 24, 1959, Pub. L. 86–108, §2, ch. 1, §101, ch. II, §§201 to 205(a) to (i), (k) to (n), ch. III, §301, ch. IV, §401(a) to (k), (m), 73 Stat. 246; May 14, 1960, Pub. L. 86–472, ch. I to V, 74 Stat. 134, which was principally classified to chapter 24 (§1750 et seq.) of Title 22, Foreign Relations and Intercourse, and which was repealed by act July 18, 1956, ch. 627, §8(m), 70 Stat. 559, Pub. L. 85–141, §§2(e), 3, 4(b), 11(d), Aug. 14, 1957, 71 Stat. 356, Pub. L. 86–108, ch. II, §§205(j), ch. IV, 401(1), July 24, 1959, 73 Stat. 250, Pub. L. 86–472, ch. II, §§203(d), 204(k), May 14, 1960, 74 Stat. 138, Pub. L. 87–195, pt. III, §642(a)(2), Sept. 4, 1961, 75 Stat. 460, Pub. L. 94–329, title II, §212(b)(1), June 30, 1976, 90 Stat 745, except for sections 1754, 1783, 1796, 1853, 1922, 1928, and 1937 of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 1754 of Title 22 and Tables.
+The Mutual Security Act of 1954, referred to in subsec. (c)(6), is act Aug. 26, 1954, ch. 937, 68 Stat. 832, as amended by acts July 8, 1955, ch. 301, 69 Stat. 283; July 18, 1956, ch. 627, §§2 to 11, 70 Stat. 555; Aug. 14, 1957, Pub. L. 85–141, 71 Stat. 355; June 30, 1958, Pub. L. 85–477, ch. 1, §§101 to 103, ch. II, §§201 to 205, ch. III, §301, ch. IV, §401, ch. V, §501, 72 Stat. 261; July 24, 1959, Pub. L. 86–108, §2, ch. 1, §101, ch. II, §§201 to 205(a) to (i), (k) to (n), ch. III, §301, ch. IV, §401(a) to (k), (m), 73 Stat. 246; May 14, 1960, Pub. L. 86–472, ch. I to V, 74 Stat. 134, which was principally classified to chapter 24 (§1750 et seq.) of Title 22, Foreign Relations and Intercourse, and which was repealed by act July 18, 1956, ch. 627, §8(m), 70 Stat. 559, Pub. L. 85–141, §§2(e), 3, 4(b), 11(d), Aug. 14, 1957, 71 Stat. 356, Pub. L. 86–108, ch. II, §§205(j), ch. IV, 401(1), July 24, 1959, 73 Stat. 250, Pub. L. 86–472, ch. II, §§203(d), 204(k), May 14, 1960, 74 Stat. 138, Pub. L. 87–195, pt. III, §642(a)(2), Sept. 4, 1961, 75 Stat. 460, Pub. L. 94–329, title II, §212(b)(1), June 30, 1976, 90 Stat 745, except for sections 1754, 1783, 1796, 1853, 1922, 1928, and 1937 of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 1754 of Title 22 and Tables.
 
 #### Amendments
 
@@ -179,6 +181,8 @@ Subsec. (c)(4). Pub. L. 87–256, §110(d)(3), authorized the exemption from ded
 <b>1958</b>—Subsecs. (b), (c)(5). Pub. L. 85–866 inserted "section 403(a)(2)," after "section 402(a)(2),".
 
 <b>1956</b>—Subsec. (c)(6). Act July 18, 1956, added section 544(f) to act Aug. 26, 1954, which section amended this subsection by adding par. (6).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 
@@ -258,7 +262,7 @@ For provisions directing that if any amendments made by subtitle B \[§§521–5
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Withholding of Tax on Nonresident Aliens and Foreign Corporations
 

@@ -16,11 +16,13 @@ A map and legal description filed under subsection (a) shall have the same force
 
 #### (c) Public availability
 
-Each map and legal description filed under subsection (a) shall be filed and made available for public inspection in the Office of the Chief of the Forest Service.
+Each map and legal description filed under subsection (a) shall be filed and made availablefor public inspection in the Office of the Chief of the Forest Service.
 
 (Pub. L. 109–382, title II, §222, Dec. 1, 2006, 120 Stat. 2676.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
-Committee on Resources of House of Representatives changed to Committee on Natural Resources of Houseof Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

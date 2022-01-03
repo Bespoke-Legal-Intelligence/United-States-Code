@@ -92,6 +92,8 @@ There are hereby appropriated to the Superfund amounts equivalent to—
 
 (Added Pub. L. 99–499, title V, §517(a), Oct. 17, 1986, 100 Stat. 1772; amended Pub. L. 99–509, title VIII, §8032(c)(4), Oct. 21, 1986, 100 Stat. 1959; Pub. L. 101–508, title XI, §11231(c), Nov. 5, 1990, 104 Stat. 1388–445; Pub. L. 113–295, div. A, title II, §221(a)(12)(L), Dec. 19, 2014, 128 Stat. 4039.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 517(b) of the Superfund Revenue Act of 1986, referred to in subsec. (a)(2), is section 517(b) of Pub. L. 99–499, which is set out as a note under this section.
@@ -114,6 +116,8 @@ The Superfund Amendments and Reauthorization Act of 1986, referred to in subsec.
 
 <b>1986</b>—Subsec. (b). Pub. L. 99–509 inserted at end "In the case of the tax imposed by section 4611, paragraph (1) shall apply only to so much of such tax as is attributable to the Hazardous Substance Superfund financing rate under section 4611(c)."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2014 Amendment
 
 Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
@@ -133,6 +137,10 @@ In general.—The amendments made by this section \[enacting this section, amend
 "(2)
 
 Superfund treated as continuation of old trust fund.—The Hazardous Substance Superfund established by the amendments made by this section shall be treated for all purposes of law as a continuation of the Hazardous Substance Response Trust Fund established by section 221 of the Hazardous Substance Response Revenue Act of 1980 \[former 42 U.S.C. 9631\]. Any reference in any law to the Hazardous Substance Response Trust Fund established by such section 221 shall be deemed to include (wherever appropriate) a reference to the Hazardous Substance Superfund established by the amendments made by this section."
+
+#### Availability of Funds
+
+Pub. L. 117–58, div. J, title VI, §613, Nov. 15, 2021, 135 Stat. 1406, provided that: "For this fiscal year \[Fiscal Year 2022\] and each fiscal year thereafter, such sums as are available in the Hazardous Substance Superfund established under section 9507 of the Internal Revenue Code of 1986 at the end of the preceding fiscal year from taxes received in the Treasury under subsection (b)(1) of such section shall be available, without further appropriation, to be used to carry out the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.)."
 
 #### Authorization of Appropriations
 
@@ -158,7 +166,7 @@ Pub. L. 99–499, title V, §517(b), Oct. 17, 1986, 100 Stat. 1773, as amended b
 
 > plus for each fiscal year an amount equal to so much of the aggregate amount authorized to be appropriated under this subsection (and paragraph (2) of section 221(b) of the Hazardous Substance Response Act of 1980 \[probably means section 221(b)(2) of the Hazardous Substance Response Revenue Act of 1980, which was classified to 42 U.S.C. 9631(b)(2) before its repeal by section 517(c)(1) of Pub. L. 99–499\], as in effect before its repeal) as has not been appropriated before the beginning of the fiscal year involved."
 
-\[Pub. L. 101–508, title XI, §11231(d), Nov. 5, 1990, 104 Stat. 1388–445, directed that section 517(b) of Pub. L. 99–499, set out above, be "amended by striking 'and' at the end of paragraph (4), by striking the period at the end of paragraph (5) and inserting ', and', and by adding at the end thereof" new pars. (6) to (9), with par. (9) ending in a period. Pub. L. 104–188, title I, §1704(t)(44), Aug. 20, 1996, 110 Stat. 1889, provided that section 11231(d) of Pub. L. 101–508 "shall be applied as if 'comma' appeared instead of 'period' \[in the directory language amending section 517(b)(5) of Pub. L. 99–499\] and as if the paragraph (9) proposed to be added ended with a comma".\]
+\[Pub. L. 101–508, title XI, §11231(d), Nov. 5, 1990, 104 Stat. 1388–445, directed that section 517(b) of Pub. L.99–499, set out above, be "amended by striking 'and' at the end of paragraph (4), by striking the period at the end of paragraph (5) and inserting ', and', and by adding at the end thereof" new pars. (6) to (9), with par. (9) ending in a period. Pub. L. 104–188, title I, §1704(t)(44), Aug. 20, 1996, 110 Stat. 1889, provided that section 11231(d) of Pub. L. 101–508 "shall be applied as if 'comma' appeared instead of 'period' \[in the directory language amending section 517(b)(5) of Pub. L. 99–499\] and as if the paragraph (9) proposed to be added ended with a comma".\]
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

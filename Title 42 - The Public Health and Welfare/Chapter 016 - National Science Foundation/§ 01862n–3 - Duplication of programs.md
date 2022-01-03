@@ -24,17 +24,21 @@ As programs authorized under this Act are implemented, the Director shall—
 
 (Pub. L. 107–368, §12, Dec. 19, 2002, 116 Stat. 3054.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This Act, referred to in subsecs. (a) and (b), is Pub. L. 107–368, Dec. 19, 2002, 116 Stat. 3034, known as the National Science Foundation Authorization Act of 2002.For complete classification of this Act to the Code, see Short Title of 2002 Amendment note set out under section 1861 of this title and Tables.
+This Act, referred to in subsecs. (a) and (b), is Pub. L. 107–368, Dec. 19, 2002, 116 Stat. 3034, known as the National Science Foundation Authorization Act of 2002. For complete classification of this Act to the Code, see Short Title of 2002 Amendment note set out under section 1861 of this title and Tables.
 
 #### Codification
 
 Section was enacted as part of the National Science Foundation Authorization Act of 2002, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
-Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+Committee on Science of House of Representatives changed to Committee on Science and Technology ofHouse of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Definitions
 

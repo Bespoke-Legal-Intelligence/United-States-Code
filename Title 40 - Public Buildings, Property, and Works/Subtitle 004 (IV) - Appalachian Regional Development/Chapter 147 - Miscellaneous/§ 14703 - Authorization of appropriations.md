@@ -10,9 +10,11 @@ In General.—In addition to amounts made available under section 14501, there i
 
 &emsp;(3) $105,000,000 for fiscal year 2010;
 
-&emsp;(4) $108,000,000 for fiscal year 2011; and
+&emsp;(4) $108,000,000 for fiscal year 2011;
 
-&emsp;(5) $110,000,000 for each of fiscal years 2012 through 2021.
+&emsp;(5) $110,000,000 for each of fiscal years 2012 through 2021; and
+
+&emsp;(6) $200,000,000 for each of fiscal years 2022 through 2026.
 
 (b)
 
@@ -30,17 +32,21 @@ Economic and Energy Development Initiative.—Of the amounts made available unde
 
 (c)
 
-High-speed Broadband Deployment Initiative.—Of the amounts made available under subsection (a), $10,000,000 may be used to carry out section 14509 for each of fiscal years 2016 through 2021.
+High-speed Broadband Deployment Initiative.—Of the amounts made available under subsection (a), $20,000,000 may be used to carry out section 14509 for each of fiscal years 2022 through 2026.
 
 (d)
 
-Availability.—Amounts made available under subsection (a) remain available until expended.
+Appalachian Regional Energy Hub Initiative.—Of the amounts made available under subsection (a), $5,000,000 shall be used to carry out section 14511 for each of fiscal years 2022 through 2026.
 
 (e)
 
+Availability.—Amounts made available under subsection (a) remain available until expended.
+
+(f)
+
 Allocation of Funds.—Funds approved by the Appalachian Regional Commission for a project in a State in the Appalachian region pursuant to a congressional directive shall be derived from the total amount allocated to the State by the Appalachian Regional Commission from amounts appropriated to carry out this subtitle.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1278; Pub. L. 110–371, §5, Oct. 8, 2008, 122 Stat. 4041; Pub. L. 114–94, div. A, title I, §1436(b), Dec. 4, 2015, 129 Stat. 1431; Pub. L. 116–159, div. B, title I, §1107(a), Oct. 1, 2020, 134 Stat. 727.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1278; Pub. L. 110–371, §5, Oct. 8, 2008, 122 Stat. 4041; Pub. L. 114–94, div. A, title I, §1436(b), Dec. 4, 2015, 129 Stat. 1431; Pub. L. 116–159, div. B, title I, §1107(a), Oct. 1, 2020, 134 Stat. 727; Pub. L. 117–58, div. A, title I, §11506(f), Nov. 15, 2021, 135 Stat. 586.)
 
 Historical and Revision Notes
 
@@ -62,6 +68,12 @@ Pub. L. 89–4, title IV, §401, Mar. 9, 1965, 79 Stat. 21; Pub. L. 90–103, ti
 
 #### Amendments
 
+<b>2021</b>—Subsec. (a)(6). Pub. L. 117–58, §11506(f)(1), added par. (6).
+
+Subsec. (c). Pub. L. 117–58, §11506(f)(2), substituted "$20,000,000 may be used to carry out section 14509 for each of fiscal years 2022 through 2026" for "$10,000,000 may be used to carry out section 14509 for each of fiscal years 2016 through 2021".
+
+Subsecs. (d) to (f). Pub. L. 117–58, §11506(f)(3), (4), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
+
 <b>2020</b>—Subsec. (a)(5). Pub. L. 116–159, §1107(a)(1), substituted "2021" for "2020".
 
 Subsec. (c). Pub. L. 116–159, §1107(a)(2), substituted "2021" for "2020".
@@ -77,6 +89,10 @@ Subsec. (b). Pub. L. 110–371, §5(b), amended subsec. (b) generally. Prior to 
 Subsec. (d). Pub. L. 110–371, §5(c), added subsec. (d).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as a note under section 101 of Title 23, Highways.
 
 #### Effective Date of 2015 Amendment
 

@@ -20,7 +20,7 @@ The Oversight Panel shall review the current state of the financial markets and 
 
 &emsp;&emsp;&emsp;(iii) The extent to which the information made available on transactions under the program has contributed to market transparency.
 
-&emsp;&emsp;&emsp;(iv) The effectiveness of foreclosure mitigation efforts, and the effectiveness of the program from the standpoint of minimizing long-term costs to the taxpayers and maximizing the benefits for taxpayers.
+&emsp;&emsp;&emsp;(iv) The effectiveness of foreclosure mitigation efforts, and the effectiveness of theprogram from the standpoint of minimizing long-term costs to the taxpayers and maximizing the benefits for taxpayers.
 
 #### (B) Timing
 
@@ -56,7 +56,7 @@ The Oversight Panel shall review the current state of the financial markets and 
 
 #### (2) Pay
 
-&emsp;Each member of the Oversight Panel shall each <sup>2</sup> be paid at a rate equal to the dailyequivalent of the annual rate of basic pay for level I of the Executive Schedule for each day (including travel time) during which such member is engaged in the actual performance of duties vested in the Commission.
+&emsp;Each member of the Oversight Panel shall each <sup>2</sup> be paid at a rate equal to the daily equivalent of the annual rate of basic pay for level I of the Executive Schedule for each day (including travel time) during which such member is engaged in the actual performance of duties vested in the Commission.
 
 #### (3) Prohibition of compensation of Federal employees
 
@@ -104,7 +104,7 @@ The Oversight Panel shall review the current state of the financial markets and 
 
 #### (3) Obtaining official data
 
-&emsp;The Oversight Panel may secure directly from any department or agency of the United States information necessary to enable it to carry out this section. Upon request of the Chairperson of the Oversight Panel, the head of that department or agency shall furnish that information to the Oversight Panel.
+&emsp;The Oversight Panel may secure directly from any department or agency of the United States information necessary to enable it to carry out this section. Upon request of theChairperson of the Oversight Panel, the head of that department or agency shall furnish that information to the Oversight Panel.
 
 #### (4) Reports
 

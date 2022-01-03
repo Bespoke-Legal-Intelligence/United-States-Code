@@ -34,7 +34,7 @@ Within 360 days after October 22, 1986, the Governor of each State—
 
 #### (1) Request for deferral
 
-&emsp;A local educational agency may request a deferral, to May 9, 1989, of the deadline under subsection (a). Upon approval of such a request, the deadline under subsection (a) is deferred until May 9, 1989, for the local educational agency which submitted the request. Such a request may cover one or more schools under the authority of the agency and shall include a list of all the schools covered by the request. A local educational agency shall file any such request with the State Governor by October 12, 1988, and shall include with the request either of the following statements:
+&emsp;A local educational agency may request a deferral, to May 9, 1989, of the deadline undersubsection (a). Upon approval of such a request, the deadline under subsection (a) is deferred until May 9, 1989, for the local educational agency which submitted the request. Such a request may cover one or more schools under the authority of the agency and shall include a list of all the schools covered by the request. A local educational agency shall file any such request with the State Governor by October 12, 1988, and shall include with the request either of the following statements:
 
 &emsp;&emsp;(A) A statement—
 
@@ -113,6 +113,8 @@ Within 360 days after October 22, 1986, the Governor of each State—
 &emsp;(D) A list containing each local educational agency that failed to submit a management plan as of October 9, 1989.
 
 (Pub. L. 94–469, title II, §205, as added Pub. L. 99–519, §2, Oct. 22, 1986, 100 Stat. 2979; amended Pub. L. 100–368, §§1(a), 2, July 18, 1988, 102 Stat. 829, 831.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

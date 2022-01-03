@@ -1,6 +1,6 @@
 ### §8297. Additional awards
 
-Not more than one Navy cross, distinguished-service medal, silver star medal, distinguished flying cross, or Navy and Marine Corps Medal may be awarded to a person. However, for each succeeding act or service that would otherwise justify the award of such a medal or cross, the President may award a suitable bar, emblem, or insignia to be worn with the decoration and corresponding rosette or other device.
+Not more than one Navy cross, distinguished-service medal, silver star medal, distinguished flying cross, or Navy and Marine Corps Medalmay be awarded to a person. However, for each succeeding act or service that would otherwise justify the award of such a medal or cross, the President may award a suitable bar, emblem, or insignia to be worn with the decoration and corresponding rosette or other device.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 390, §6247; Pub. L. 113–66, div. A, title V, §561(b), Dec. 26, 2013, 127 Stat. 766; renumbered §8297, Pub. L. 115–232, div. A, title VIII, §807(b)(13), Aug. 13, 2018, 132 Stat. 1836.)
 
@@ -26,6 +26,8 @@ July 2, 1926, ch. 721, §12 (2d sentence), 44 Stat. 789; July 30, 1937, ch. 545,
 
 The word "awarded" is substituted for the word "issued" for uniformity. The words "that would otherwise justify" are substituted for the words "sufficient to justify" for clarity. The word "service" is substituted for the word "achievement" for uniformity. The words "as he shall direct" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 8297, acts Aug. 10, 1956, ch. 1041, 70A Stat. 510; Aug. 21, 1957, Pub. L. 85–155, title III, §301(8), 71 Stat. 387; July 12, 1960, Pub. L. 86–616, §6(1), 74 Stat. 391, provided for selection boards to recommend promotion-list officers and brigadier generals of Regular Air Force for promotion in Regular Air Force, prior to repeal by Pub. L. 96–513, title II, §204, Dec. 12, 1980, 94 Stat. 2880, effective Sept. 15, 1981. See section 611 et seq. of this title.
@@ -35,6 +37,8 @@ A prior section 8297, acts Aug. 10, 1956, ch. 1041, 70A Stat. 510; Aug. 21, 1957
 <b>2018</b>—Pub. L. 115–232 renumbered section 6247 of this title as this section.
 
 <b>2013</b>—Pub. L. 113–66 struck out "medal of honor," before "Navy cross".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

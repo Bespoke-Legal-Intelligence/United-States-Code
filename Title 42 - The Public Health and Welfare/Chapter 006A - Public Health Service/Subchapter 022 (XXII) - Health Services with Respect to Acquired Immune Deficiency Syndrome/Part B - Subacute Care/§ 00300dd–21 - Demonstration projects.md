@@ -20,7 +20,7 @@ The Secretary shall conduct three demonstration projects to determine the effect
 
 &emsp;&emsp;(i) subacute care;
 
-&emsp;&emsp;(ii) emergency medical care and specialized diagnostic and therapeutic services as needed and where appropriate, either directly or through affiliation with a hospital that has experience in treating individuals with acquired immune deficiency syndrome; and
+&emsp;&emsp;(ii) emergency medical care and specialized diagnostic and therapeutic services asneeded and where appropriate, either directly or through affiliation with a hospital that has experience in treating individuals with acquired immune deficiency syndrome; and
 
 &emsp;&emsp;(iii) case management services to ensure, through existing services and programs whenever possible, appropriate discharge planning for such individuals; and
 
@@ -66,7 +66,7 @@ The Secretary shall evaluate the operations of the demonstration projects and sh
 
 Each demonstration project shall provide for other research to be carried out at the site of such demonstration project including—
 
-&emsp;(1) clinical research on acquired immune deficiency syndrome, concentrating on researchon the neurological manifestations resulting from infection with the etiologic agent for such syndrome; and
+&emsp;(1) clinical research on acquired immune deficiency syndrome, concentrating on research on the neurological manifestations resulting from infection with the etiologic agent for such syndrome; and
 
 &emsp;(2) the study of the psychological and mental health issues related to such syndrome.
 
@@ -81,6 +81,8 @@ Each demonstration project shall provide for other research to be carried out at
 The Secretary shall enter into an agreement with the Secretary of the Department of Veterans Affairs to ensure that appropriate provision will be made for the furnishing, through demonstration projects, of services to eligible veterans, under contract with the Department of Veterans Affairs pursuant to section 1720 of title 38.
 
 (July 1, 1944, ch. 373, title XXIV, §2421, as added Pub. L. 100–607, title II, §211, Nov. 4, 1988, 102 Stat. 3088; amended Pub. L. 100–527, §10(1), (2), Oct. 25, 1988, 102 Stat. 2640, 2641; Pub. L. 100–690, title II, §2618(h), Nov. 18, 1988, 102 Stat. 4241; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -109,6 +111,8 @@ Subsec. (f)(2). Pub. L. 100–690, §2618(h)(9), substituted "such syndrome" for
 Subsec. (g)(1). Pub. L. 100–690, §2618(h)(10), substituted "fiscal year 1989" for "fiscal year 1988" and "fiscal years 1990 through 1992" for "fiscal years 1989 through 1991".
 
 Subsec. (h). Pub. L. 100–527 substituted "Secretary of the Department of Veterans Affairs" and "Department of Veterans Affairs" for "Administrator of the Veterans' Administration" and "Veterans' Administration", respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

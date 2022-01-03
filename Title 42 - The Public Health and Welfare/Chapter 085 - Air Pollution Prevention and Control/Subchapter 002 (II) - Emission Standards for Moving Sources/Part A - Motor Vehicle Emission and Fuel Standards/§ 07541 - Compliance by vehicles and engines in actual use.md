@@ -192,7 +192,7 @@ If a manufacturer includes in any advertisement a statement respecting the cost 
 
 #### (f) Inspection after sale to ultimate purchaser
 
-Any inspection of a motor vehicle or a motor vehicle engine for purposes of subsection (c)(1), after its sale to the ultimate purchaser, shall be made only if the owner of such vehicle or engine voluntarily permits such inspection to be made, except as may be provided by any State or local inspection program.
+Any inspection of a motor vehicle or a motor vehicle engine for purposes of subsection (c)(1),after its sale to the ultimate purchaser, shall be made only if the owner of such vehicle or engine voluntarily permits such inspection to be made, except as may be provided by any State or local inspection program.
 
 #### (g) Replacement and maintenance costs borne by owner
 
@@ -216,7 +216,7 @@ For the purposes of this section, the owner of any motor vehicle or motor vehicl
 
 &emsp;&emsp;(A) the device or component was not in general use on vehicles and engines manufactured prior to the model year 1990; and
 
-&emsp;&emsp;(B) the Administrator determines that the retail cost (exclusive of installation costs) of such device or component exceeds $200 (in1989 dollars), adjusted for inflation or deflation as calculated by the Administrator at the time of such determination.
+&emsp;&emsp;(B) the Administrator determines that the retail cost (exclusive of installation costs) of such device or component exceeds $200 (in 1989 dollars), adjusted for inflation or deflation as calculated by the Administrator at the time of such determination.
 
 > &emsp;For purposes of this paragraph, the term "onboard emissions diagnostic device" means any device installed for the purpose of storing or processing emissions related diagnostic information, but not including any parts or other systems which it monitors except specified major emissions control components. Nothing in this chapter shall be construed to provide that any part (other than a part referred to in the preceding sentence) shall be required to be warranted under this chapter for the period of 8 years or 80,000 miles referred to in this paragraph.
 
@@ -225,6 +225,8 @@ For the purposes of this section, the owner of any motor vehicle or motor vehicl
 &emsp;Subparagraph (A) of subsection (b)(2) shall apply only where the Administrator has made a determination that the instructions concerned conform to the requirements of subsection (c)(3).
 
 (July 14, 1955, ch. 360, title II, §207, as added Pub. L. 91–604, §8(a), Dec. 31, 1970, 84 Stat. 1696; amended Pub. L. 95–95, title II, §§205, 208–210, 212, Aug. 7, 1977, 91 Stat. 754–756, 758; Pub. L. 95–190, §14(a)(70)–(72), Nov. 16, 1977, 91 Stat. 1403; Pub. L. 101–549, title II, §§209, 210, 230(9), Nov. 15, 1990, 104 Stat. 2484, 2485, 2529; Pub. L. 113–109, §1, June 9, 2014, 128 Stat. 1170.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -240,7 +242,7 @@ A prior section 207 of act July 14, 1955, was renumbered section 208 by Pub. L. 
 
 <b>1990</b>—Subsec. (a)(1). Pub. L. 101–549, §209(4), inserted at end "In the case of vehicles and engines manufactured in the model year 1995 and thereafter such warranty shall require that the vehicle or engine is free from any such defects for the warranty period provided under subsection (i)."
 
-Subsec. (b). Pub. L. 101–549, §209(1), (2), substituted "the warranty period (as determined under subsection (i))" for "useful life (as determined under section 7521(d) of this title)" in introductory provisions and par. (2)(B), and struck out closing provisions which read as follows: "For purposes of the warranty under this subsection, for the period after twenty-four months or twenty-four thousand miles (whichever first occurs) the term 'emission control device or system' means a catalytic converter, thermal reactor, or other component installed on or in a vehicle for the sole or primary purpose of reducing vehicle emissions. Such term shall not include those vehicle components which were in general use prior to model year 1968."
+Subsec. (b). Pub. L. 101–549, §209(1), (2), substituted "the warranty period (as determined under subsection\(i))" for "useful life (as determined under section 7521(d) of this title)" in introductory provisions and par. (2)(B), and struck out closing provisions which read as follows: "For purposes of the warranty under this subsection, for the period after twenty-four months or twenty-four thousand miles (whichever first occurs) the term 'emission control device or system' means a catalytic converter, thermal reactor, or other component installed on or in a vehicle for the sole or primary purpose of reducing vehicle emissions. Such term shall not include those vehicle components which were in general use prior to model year 1968."
 
 Subsec. (c)(4) to (6). Pub. L. 101–549, §210, added pars. (4) to (6).
 
@@ -263,6 +265,8 @@ Subsec. (g). Pub. L. 95–95, §210, added subsec. (g).
 Subsec. (h). Pub. L. 95–190, §14(a)(71), redesignated subsec. (f) as added by Pub. L. 95–95, §212, as (h).
 
 Subsec. (h)(2). Pub. L. 95–190, §14(a)(72), substituted "determined under" for "determined and".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

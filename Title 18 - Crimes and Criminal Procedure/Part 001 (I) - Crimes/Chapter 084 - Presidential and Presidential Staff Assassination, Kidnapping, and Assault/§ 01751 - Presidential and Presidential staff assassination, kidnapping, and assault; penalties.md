@@ -14,7 +14,7 @@
 
 (g) The Attorney General of the United States, in his discretion is authorized to pay an amount not to exceed $100,000 for information and services concerning a violation of subsection (a)(1). Any officer or employee of the United States or of any State or local government who furnishes information or renders service in the performance of his official duties shall not be eligible for payment under this subsection.
 
-(h) If Federal investigative or prosecutive jurisdiction is asserted for a violation of this section, such assertion shall suspend the exercise of jurisdiction by a State or local authority, under any applicable State or local law, until Federal action is terminated.
+(h) If Federal investigative or prosecutive jurisdiction is asserted for a violation of this section, such assertion shall suspend the exercise ofjurisdiction by a State or local authority, under any applicable State or local law, until Federal action is terminated.
 
 (i) Violations of this section shall be investigated by the Federal Bureau of Investigation. Assistance may be requested from any Federal, State, or local agency, including the Army, Navy, and Air Force, any statute, rule, or regulation to the contrary notwithstanding.
 

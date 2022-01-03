@@ -180,7 +180,7 @@ In this section:
 
 #### (5) Authorization of appropriations
 
-&emsp;In addition to the amount authorized to carry out this subtitle under section 12205,<sup>1</sup> there is authorized to be appropriated to carry out this subsection $15,000,000 for each of fiscal years 2019 through 2023.
+&emsp;In addition to the amount authorized to carry out this subtitle under section 12205,<sup>1</sup>there is authorized to be appropriated to carry out this subsection $15,000,000 for each of fiscal years 2019 through 2023.
 
 #### (d) National Plant Disease Recovery System
 
@@ -204,6 +204,8 @@ In this section:
 
 (Pub. L. 115–334, title XII, §12203, Dec. 20, 2018, 132 Stat. 4946.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 12202, referred to in subsec. (b)(3), means section 12202 of Pub. L. 115–334, title XII, Dec. 20, 2018, 132 Stat. 4944, which enacted section 6922 of this title.
@@ -213,6 +215,8 @@ The amount authorized to carry out this subtitle under section 12205, referred t
 #### Codification
 
 Section was enacted as part of the Agriculture Improvement Act of 2018, and not as part of the Department of Agriculture Reorganization Act of 1994 which in part comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definition of "Secretary"
 

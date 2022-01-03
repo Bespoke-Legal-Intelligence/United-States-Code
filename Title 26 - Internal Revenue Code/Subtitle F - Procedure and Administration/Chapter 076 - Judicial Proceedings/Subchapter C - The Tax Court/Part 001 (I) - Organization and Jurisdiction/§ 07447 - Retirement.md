@@ -47,7 +47,7 @@ At or after his retirement, any individual who has elected to receive retired pa
 
 Any individual who—
 
-&emsp;(1) retires under paragraph (1), (2), or (3) of subsection (b) and elects under subsection (e) to receive retired pay under this subsection shall receive retired pay during any period ata rate which bears the same ratio to the rate of the salary payable to a judge during such period as the number of years he has served as judge bears to 10; except that the rate of such retired pay shall not be more than the rate of such salary for such period; or
+&emsp;(1) retires under paragraph (1), (2), or (3) of subsection (b) and elects under subsection (e) to receive retired pay under this subsection shall receive retired pay during any period at a rate which bears the same ratio to the rate of the salary payable to a judge during such period as the number of years he has served as judge bears to 10; except that the rate of suchretired pay shall not be more than the rate of such salary for such period; or
 
 &emsp;(2) retires under paragraph (4) of subsection (b) and elects under subsection (e) to receive retired pay under this subsection shall receive retired pay during any period at a rate—
 
@@ -209,6 +209,8 @@ In the case of an individual for whom an election to receive retired pay under s
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 880; Pub. L. 89–354, §1, Feb. 2, 1966, 80 Stat. 5; Pub. L. 91–172, title IX, §§954, 960(c), (d), Dec. 30, 1969, 83 Stat. 730, 734; Pub. L. 92–41, §4(a), July 1, 1971, 85 Stat. 99; Pub. L. 95–472, §1, Oct. 17, 1978, 92 Stat. 1332; Pub. L. 97–362, title I, §106(d), Oct. 25, 1982, 96 Stat. 1730; Pub. L. 99–514, title XV, §1557(a), (b), (d), Oct. 22, 1986, 100 Stat. 2756, 2757; Pub. L. 100–647, title I, §1015(k)(1), Nov. 10, 1988, 102 Stat. 3571; Pub. L. 109–280, title VIII, §853(a), Aug. 17, 2006, 120 Stat. 1016; Pub. L. 113–295, div. A, title II, §221(a)(115), Dec. 19, 2014, 128 Stat. 4054.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Subsec. (i)(3)(B)(ii). Pub. L. 113–295 substituted "at 3 percent per annum" for "at 4 percent per annum to December 31, 1947, and 3 percent per annum thereafter".
@@ -253,13 +255,15 @@ Subsec. (g)(1). Pub. L. 91–172, §954(e)(2), substituted "civil service retire
 
 Subsec. (g)(2). Pub. L. 91–172, §954(c), substituted provisions that any individual electing to receive retirement pay under subsec. (d) of this section is not to receive any payment under the civil service retirement laws, and no deduction is to be made for the Civil Service Retirement and Disability Fund, and a lump-sum credit computed under section 8331(8) of Title 5 is to be paid, for provisions which enumerated the effects and conditions of electing retirement pay under former subsec. (d) of this section.
 
-Subsec. (g)(3). Pub. L. 91–172, §954(c), struck out par. (3) which enumerated the conditions and effects of waiving civil service benefits in lieu of retirement pay under former subsec. (d) of this section.
+Subsec. (g)(3). Pub. L. 91–172, §954(c), struck out par. (3) which enumerated the conditions and effects ofwaiving civil service benefits in lieu of retirement pay under former subsec. (d) of this section.
 
 Subsec. (g)(4). Pub. L. 91–172, §954(c), struck out par. (4) which provided that the fourth and sixth paragraphs of section 6 of the Civil Service Retirement Act would be applicable to retirement pay accruing under subsec. (d) of this section.
 
 Subsec. (h). Pub. L. 91–172, §954(d), added subsec. (h).
 
 <b>1966</b>—Subsec. (d). Pub. L. 89–354 substituted "during any period at a rate which bears the same ratio to the rate of the salary payable to a judge during such period" for "at a rate which bears the same ratio to the rate of the salary payable to him as judge at the time he ceases to be a judge" and "the rate of such salary for such period" for "the rate of such salary" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 
@@ -309,11 +313,13 @@ Pub. L. 91–172, title IX, §962(d), Dec. 30, 1969, 83 Stat. 736, as amended by
 
 Pub. L. 89–354, §2, Feb. 2, 1966, 80 Stat. 5, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by the first section of this Act \[amending this section and section 1106 of I.R.C. 1939\] shall apply with respect to retired pay accruing under section 1106 of the Internal Revenue Code of 1939 or section 7447 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] on or after the first day of the first calendar month which begins after the date of enactment of this Act \[Feb. 2, 1966\]."
 
-#### Transfer of Functions
-
-Functions vested by statute in United States Civil Service Commission or Chairman thereof transferred to Director of Office of Personnel Management (except as otherwise specified) by Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
-
 #### Redepositing Funds in Civil Service Retirement and Disability Fund; Creditable Service
 
 Pub. L. 95–472, §2(b), Oct. 17, 1978, 92 Stat. 1333, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "Any individual who elects to revoke under section 7447(i) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] within one year after the date of enactment of this Act \[Oct. 17, 1978\] shall be treated as having the requisite current service for purposes of redepositing funds in the Civil Service Retirement and Disability Fund and for purposes of reviving creditable service under subchapter III of chapter 83 of title 5 of the United States Code."
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Functions vested by statute in United States Civil Service Commission or Chairman thereof transferred to Director of Office of Personnel Management (except as otherwise specified) by Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
 

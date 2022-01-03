@@ -32,11 +32,15 @@ This section is included in subtitle C for completeness and clarity. In duplicat
 
 Reference to the pay grades corresponding to the military grades is omitted as unnecessary for the purpose of this section.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 5503 of this title as this section.
 
 <b>1991</b>—Pub. L. 102–190 added par. (1) and redesignated former pars. (1) to (4) as (2) to (5), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

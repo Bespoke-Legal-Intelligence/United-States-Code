@@ -1,6 +1,6 @@
 ### §8336. Highest grade held satisfactorily: Reserve enlisted members reduced in grade not as a result of the member's misconduct
 
-(a) A member of the Navy Reserve or Marine Corps Reserve described in subsection (b) who is transferred to the Fleet Reserve or the Fleet Marine Corps Reserve under section 8330 of this title shall be transferred in the highest enlisted grade in which the member served on active duty satisfactorily, as determined by the Secretary of the Navy.
+(a) A member of the Navy Reserve or Marine Corps Reserve described in subsection (b) who istransferred to the Fleet Reserve or the Fleet Marine Corps Reserve under section 8330 of this title shall be transferred in the highest enlisted grade in which the member served on active duty satisfactorily, as determined by the Secretary of the Navy.
 
 (b) This section applies to a Reserve enlisted member who—
 
@@ -11,6 +11,8 @@
 (c) This section applies with respect to enlisted members of the Navy Reserve and Marine Corps Reserve who are transferred to the Fleet Reserve or the Fleet Marine Corps Reserve after September 30, 1996.
 
 (Added Pub. L. 104–201, div. A, title V, §532(b)(1), Sept. 23, 1996, 110 Stat. 2519, §6336; amended Pub. L. 109–163, div. A, title V, §515(b)(1)(L), Jan. 6, 2006, 119 Stat. 3233; renumbered §8336 and amended Pub. L. 115–232, div. A, title VIII, §§807(b)(15), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -24,7 +26,7 @@ Section 8354, acts Aug. 10, 1956, ch. 1041, 70A Stat. 520; Sept. 2, 1958, Pub. L
 
 A prior section 8355, acts Aug. 10, 1956, ch. 1041, 70A Stat. 520; Sept. 2, 1958, Pub. L. 85–861, §33(a)(22), 72 Stat. 1565, related to appointment of graduates of junior or senior division of Air Force Reserve Officers' Training Corps as reserve commissioned officers, prior to repeal by Pub. L. 88–647, title III, §301(21), Oct. 13, 1964, 78 Stat. 1073.
 
-A prior section 8356, act Aug. 10, 1956, ch. 1041, 70A Stat. 520, related to appointment and promotion of aviation cadets as commissioned officers in Air ForceReserve, prior to repeal by Pub. L. 103–337, div. A, title XVI, §1636(b), Oct. 5, 1994, 108 Stat. 2968, effective Feb. 10, 1996.
+A prior section 8356, act Aug. 10, 1956, ch. 1041, 70A Stat. 520, related to appointment and promotion of aviation cadets as commissioned officers in Air Force Reserve, prior to repeal by Pub. L. 103–337, div. A, title XVI, §1636(b), Oct. 5, 1994, 108 Stat. 2968, effective Feb. 10, 1996.
 
 Prior sections 8358 to 8368 were repealed by Pub. L. 103–337, div. A, title XVI, §1629(c)(1), Oct. 5, 1994, 108 Stat. 2963, effective Oct. 1, 1996.
 
@@ -58,7 +60,9 @@ Subsec. (a). Pub. L. 115–232, §809(a), substituted "section 8330" for "sectio
 
 <b>2006</b>—Subsecs. (a), (c). Pub. L. 109–163 substituted "Navy Reserve" for "Naval Reserve".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments andspecial rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 

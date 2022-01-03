@@ -20,7 +20,7 @@ If the Commission finds that, because of the size of the package involved or bec
 
 #### (d) Exemption from requirements of this chapter of substances or containers adequately regulated by other provisions of law
 
-The Commission may exempt from the requirements established by or pursuant to thischapter any hazardous substance or container of a hazardous substance with respect to which it finds that adequate requirements satisfying the purposes of this chapter have been established by or pursuant to any other Act of Congress.
+The Commission may exempt from the requirements established by or pursuant to this chapter any hazardous substance or container of a hazardous substance with respect to which it finds that adequate requirements satisfying the purposes of this chapter have been established by or pursuant to any other Act of Congress.
 
 #### (e) Regulation of toys or articles intended for use by children
 
@@ -122,6 +122,8 @@ The Commission shall grant, in whole or in part, or deny any petition under sect
 
 (Pub. L. 86–613, §3, July 12, 1960, 74 Stat. 374; Pub. L. 89–756, §2(d), (e), Nov. 3, 1966, 80 Stat. 1303, 1304; Pub. L. 91–113, §2(b), Nov. 6, 1969, 83 Stat. 187; Pub. L. 97–35, title XII, §1203(b)(1), Aug. 13, 1981, 95 Stat. 708; Pub. L. 101–608, title I, §§107(b), 108(b), 110(b), Nov. 16, 1990, 104 Stat. 3112, 3113; Pub. L. 110–314, title II, §204(b)(1), (3), (4)(B), (D), Aug. 14, 2008, 122 Stat. 3041, 3042.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–314, §204(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) authorized the Commission to declare hazardous substances by regulation and detailed proceedings for the issuance, amendment, or repeal of such regulations.
@@ -150,9 +152,11 @@ Subsec. (j). Pub. L. 101–608, §110(b), added subsec. (j).
 
 Subsec. (d). Pub. L. 89–756, §2(e), inserted "hazardous substance or" before "container of a hazardous substance".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee onCommerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 1981 Amendment
 

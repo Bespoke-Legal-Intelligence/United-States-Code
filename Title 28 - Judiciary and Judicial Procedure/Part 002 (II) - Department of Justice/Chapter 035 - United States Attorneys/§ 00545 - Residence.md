@@ -42,7 +42,7 @@ Changes were made in phraseology.
 
 #### Prior Provisions
 
-A prior section 545, act June 25, 1948, ch. 646, 62 Stat. 911, related to vacancies in the office of the UnitedStates Marshal, prior to repeal by Pub. L. 89–554, §8(a), and reenactment in section 565 of this title by section 4(c) of Pub. L. 89–554.
+A prior section 545, act June 25, 1948, ch. 646, 62 Stat. 911, related to vacancies in the office of the United States Marshal, prior to repeal by Pub. L. 89–554, §8(a), and reenactment in section 565 of this title by section 4(c) of Pub. L. 89–554.
 
 #### Amendments
 
@@ -50,7 +50,7 @@ A prior section 545, act June 25, 1948, ch. 646, 62 Stat. 911, related to vacanc
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–322 struck out "and assistant United States attorney" after "Each United States attorney" and inserted after first sentence "Each assistant United States attorney shall reside in the district for which he or she is appointed or within 25 miles thereof."
 
-<b>1979</b>—Subsec. (a). Pub. L. 96–91 inserted provisions authorizing the United States attorney and the assistant United States attorneys for the Eastern District of New York to reside outside the district but within 20 miles thereof.
+<b>1979</b>—Subsec. (a). Pub. L. 96–91 inserted provisions authorizing the United States attorney and the assistantUnited States attorneys for the Eastern District of New York to reside outside the district but within 20 miles thereof.
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–530 inserted provision that this subsection not apply to any United States attorney or assistant United States attorney appointed for the Northern Mariana Islands who at the same time is serving in the same capacity in another district.
 

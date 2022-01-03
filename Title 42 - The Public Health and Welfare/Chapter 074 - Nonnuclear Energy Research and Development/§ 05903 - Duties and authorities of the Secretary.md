@@ -14,9 +14,13 @@ The Secretary shall—
 
 (Pub. L. 93–577, §4, Dec. 31, 1974, 88 Stat. 1880; Pub. L. 109–58, title X, §1009(b)(3), Aug. 8, 2005, 119 Stat. 934.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Pub. L. 109–58 added section catchline, struck out former catchline, and substituted "Secretary" for "Administrator" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Classification of Recipients of Awards, Contracts, or Other Financial Arrangements; Reporting Requirement
 

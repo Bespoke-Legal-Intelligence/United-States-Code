@@ -72,6 +72,8 @@ The Director shall promote innovation in evidence-based health care practices an
 
 (July 1, 1944, ch. 373, title IX, §916, as added Pub. L. 106–129, §2(a), Dec. 6, 1999, 113 Stat. 1660; Pub. L. 108–173, title IX, §900(e)(2)(C), Dec. 8, 2003, 117 Stat. 2372.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2003</b>—Subsecs. (b)(2), (c)(2). Pub. L. 108–173 substituted "Centers for Medicare \& Medicaid Services" for "Health Care Financing Administration".

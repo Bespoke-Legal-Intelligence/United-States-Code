@@ -12,11 +12,15 @@
 
 (Added Pub. L. 103–160, div. A, title V, §533(b)(1), Nov. 30, 1993, 107 Stat. 1658, §9338; amended Pub. L. 106–65, div. A, title XI, §1107(c), Oct. 5, 1999, 113 Stat. 778; renumbered §9438, Pub. L. 115–232, div. A, title VIII, §806(a)(3), Aug. 13, 2018, 132 Stat. 1832.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 9338 of this title as this section.
 
 <b>1999</b>—Subsec. (c). Pub. L. 106–65 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

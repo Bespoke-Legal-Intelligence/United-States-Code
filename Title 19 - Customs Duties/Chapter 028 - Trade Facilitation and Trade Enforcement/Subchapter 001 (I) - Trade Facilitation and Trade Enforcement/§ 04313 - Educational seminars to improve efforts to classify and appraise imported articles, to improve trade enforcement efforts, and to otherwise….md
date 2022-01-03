@@ -64,7 +64,7 @@ The Commissioner and the Director shall establish and carry out on a fiscal year
 
 #### (1) In general
 
-&emsp;The Commissioner shall give due consideration to carrying out an educational seminar under this section in whole or in part to improve the ability of personnel of U.S. Customsand Border Protection to enforce a countervailing or antidumping duty order issued under section 706 or 736 of the Tariff Act of 1930 (19 U.S.C. 1671e or 1673e) upon the request of a petitioner in an action underlying such countervailing or antidumping duty order.
+&emsp;The Commissioner shall give due consideration to carrying out an educational seminar under this section in whole or in part to improve the ability of personnel of U.S. Customs and Border Protection to enforce a countervailing or antidumping duty order issued under section 706 or 736 of the Tariff Act of 1930 (19 U.S.C. 1671e or 1673e) upon the request of a petitioner in an action underlying such countervailing or antidumping duty order.
 
 #### (2) Interested party
 
@@ -99,6 +99,8 @@ In this section:
 &emsp;The term "U.S. Immigration and Customs Enforcement personnel" means Homeland Security Investigations Directorate personnel and other appropriate employees of U.S. Immigration and Customs Enforcement.
 
 (Pub. L. 114–125, title I, §104, Feb. 24, 2016, 130 Stat. 130.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

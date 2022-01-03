@@ -14,7 +14,9 @@ The Administrator shall transmit to the Congress and the President, not later th
 
 &emsp;(6) the Administrator's plans for activities and programs respecting solid waste during the next fiscal year.
 
-(Pub. L. 89–272, title II, §2006, formerly §2005, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2805, and renumbered Pub. L. 96–463, §4(a), Oct. 15, 1980, 94 Stat. 2056; amended Pub. L. 98–616, title V, §502(b), Nov. 8, 1984, 98 Stat. 3276.)
+(Pub. L. 89–272, title II, §2006, formerly §2005, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2805, and renumbered Pub. L. 96–463, §4(a), Oct.15, 1980, 94 Stat. 2056; amended Pub. L. 98–616, title V, §502(b), Nov. 8, 1984, 98 Stat. 3276.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -24,9 +26,13 @@ A prior section 2006 of Pub. L. 89–272 was renumbered section 2007 and is clas
 
 <b>1984</b>—Par. (1). Pub. L. 98–616 substituted "detailed" for "detail".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions of this section relating to transmittal of annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 19th item on page 164 of House Document No. 103–7.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

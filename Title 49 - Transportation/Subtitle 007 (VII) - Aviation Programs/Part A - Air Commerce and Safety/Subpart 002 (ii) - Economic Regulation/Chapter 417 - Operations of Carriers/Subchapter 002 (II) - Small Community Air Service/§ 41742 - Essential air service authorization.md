@@ -24,7 +24,7 @@ Distribution of Additional Funds.—Notwithstanding any other provision of law, 
 
 Availability of Funds.—The funds made available under this section shall remain available until expended.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1152; Pub. L. 104–264, title II, §278(c), Oct. 9, 1996, 110 Stat. 3249; Pub. L. 106–181, title II, §209(a), Apr. 5, 2000, 114 Stat. 95; Pub. L. 108–176, title IV, §404, Dec. 12, 2003, 117 Stat. 2543; Pub. L. 112–30, title II, §209, Sept. 16, 2011, 125 Stat. 359; Pub. L. 112–91, §9, Jan. 31, 2012, 126 Stat. 5; Pub. L. 112–95, title IV, §428, Feb. 14, 2012, 126 Stat. 99; Pub. L. 114–55, title I, §107, Sept. 30, 2015, 129 Stat. 524; Pub. L. 114–141, title I, §107, Mar. 30, 2016, 130 Stat. 324; Pub. L. 114–190, title I, §1107, July 15, 2016, 130 Stat. 618; Pub. L. 115–63, title I, §104(a), Sept. 29, 2017, 131 Stat. 1170; Pub. L. 115–141, div. M, title I, §104(a), Mar. 23, 2018, 132 Stat. 1047; Pub. L. 115–254, div. B, title IV, §451(a), Oct. 5, 2018, 132 Stat. 3347.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1152; Pub. L. 104–264, title II, §278(c), Oct. 9, 1996, 110 Stat. 3249; Pub. L. 106–181, title II, §209(a), Apr. 5, 2000, 114 Stat. 95; Pub. L. 108–176, title IV, §404, Dec. 12, 2003, 117 Stat. 2543; Pub. L. 112–30, title II, §209, Sept. 16, 2011, 125 Stat. 359; Pub. L. 112–91, §9, Jan. 31, 2012, 126 Stat. 5; Pub. L. 112–95,title IV, §428, Feb. 14, 2012, 126 Stat. 99; Pub. L. 114–55, title I, §107, Sept. 30, 2015, 129 Stat. 524; Pub. L. 114–141, title I, §107, Mar. 30, 2016, 130 Stat. 324; Pub. L. 114–190, title I, §1107, July 15, 2016, 130 Stat. 618; Pub. L. 115–63, title I, §104(a), Sept. 29, 2017, 131 Stat. 1170; Pub. L. 115–141, div. M, title I, §104(a), Mar. 23, 2018, 132 Stat. 1047; Pub. L. 115–254, div. B, title IV, §451(a), Oct. 5, 2018, 132 Stat. 3347.)
 
 Historical and Revision Notes
 
@@ -41,6 +41,8 @@ Historical and Revision Notes
 49 App.:1389(m).
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §419(m); added Oct. 24, 1978, Pub. L. 95–504, §33(a), 92 Stat. 1732; Dec. 8, 1983, Pub. L. 98–213, §10, 97 Stat. 1461; Oct. 4, 1984, Pub. L. 98–443, §9(r), 98 Stat. 1708; restated Dec. 30, 1987, Pub. L. 100–223, §202(a)(1), (2), (b)(1), 101 Stat. 1507, 1517; Nov. 5, 1990, Pub. L. 101–508, §9113(b)(1), 104 Stat. 1388–363.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -82,6 +84,8 @@ Subsec. (c). Pub. L. 108–176, §404(3), struck out heading and text of subsec.
 
 <b>1996</b>—Pub. L. 104–264 amended section generally, substituting provisions relating to essential air service authorization for provisions stating that this subchapter was not effective after Sept. 30, 1998.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2003 Amendment
 
 Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
@@ -98,7 +102,7 @@ Except as otherwise specifically provided, amendment by Pub. L. 104–264 applic
 
 #### Funding for Essential Air Service Program
 
-Pub. L. 112–55, div. C, title I, Nov. 18, 2011, 125 Stat. 644, provided in part: "That no funds made available under section 41742 of title 49, United States Code, and no funds made available in this Act \[div. C of Pub. L. 112–55, see Tables for classification\] or any other Act in any fiscal year, shall be available to carry out the essential air service program under sections 41731 through 41742 of such title 49 in communities in the 48 contiguous States unless the community received subsidized essential air service or received a 90-day notice of intent to terminate service and the Secretary required the air carrier to continue to provide service to the community at any time between September 30, 2010, and September 30, 2011, inclusive".
+Pub. L. 112–55, div. C, title I, Nov. 18, 2011, 125 Stat. 644, provided in part: "That no funds made availableunder section 41742 of title 49, United States Code, and no funds made available in this Act \[div. C of Pub. L. 112–55, see Tables for classification\] or any other Act in any fiscal year, shall be available to carry out the essential air service program under sections 41731 through 41742 of such title 49 in communities in the 48 contiguous States unless the community received subsidized essential air service or received a 90-day notice of intent to terminate service and the Secretary required the air carrier to continue to provide service to the community at any time between September 30, 2010, and September 30, 2011, inclusive".
 
 #### Findings
 

@@ -30,7 +30,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in paragraph (2), a transfer of (or change in) the interest of theproducers on a farm in the base acres for peanuts for which direct payments or counter-cyclical payments are made, or on which average crop revenue election payments are based, shall result in the termination of the direct payments, counter-cyclical payments, or average crop revenue election payments to the extent the payments are made or based on the base acres, unless the transferee or owner of the acreage agrees to assume all obligations under subsection (a).
+&emsp;&emsp;Except as provided in paragraph (2), a transfer of (or change in) the interest of the producers on a farm in the base acres for peanuts for which direct payments or counter-cyclical payments are made, or on which average crop revenue election payments are based, shall result in the termination of the direct payments, counter-cyclical payments, or average crop revenue election payments to the extent the payments are made or based on the base acres, unless the transferee or owner of the acreage agrees to assume all obligations under subsection (a).
 
 #### (B) Effective date
 
@@ -72,7 +72,9 @@ The Secretary shall provide for the sharing of direct payments, counter-cyclical
 
 &emsp;The Secretary shall ensure that no penalty with respect to benefits under this subchapter is assessed against producers on a farm described in paragraph (1) for failure to submit reports under this section or timely comply with other program requirements as a result of compliance with the extended signup deadline under that paragraph.
 
-(Pub. L. 110–234, title I, §1305, May 22, 2008, 122 Stat. 972; Pub. L. 110–246, §4(a), title I, §1305, June 18, 2008, 122 Stat. 1664, 1701; Pub. L. 110–398, §1(b)(2), Oct. 13, 2008, 122 Stat. 4213.)
+(Pub. L. 110–234, title I, §1305, May 22, 2008, 122 Stat. 972; Pub. L. 110–246, §4(a), title I, §1305,June 18, 2008, 122 Stat. 1664, 1701; Pub. L. 110–398, §1(b)(2), Oct. 13, 2008, 122 Stat. 4213.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -87,6 +89,8 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 #### Amendments
 
 <b>2008</b>—Subsec. (f). Pub. L. 110–398 added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

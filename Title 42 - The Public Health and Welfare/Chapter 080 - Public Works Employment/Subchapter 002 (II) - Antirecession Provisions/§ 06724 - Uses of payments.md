@@ -4,6 +4,8 @@ Each State and local government shall use payments made under this subchapter fo
 
 (Pub. L. 94–369, title II, §204, July 22, 1976, 90 Stat. 1006; Pub. L. 94–447, title II, §201(4), Oct. 1, 1976, 90 Stat. 1498; Pub. L. 95–30, title VI, §604, May 23, 1977, 91 Stat. 166.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1977</b>—Pub. L. 95–30 substituted "or for construction, except for normal supplies or repairs necessary to maintain basic services" for "and for construction, unless such supplies and materials or construction are to maintain basic services".

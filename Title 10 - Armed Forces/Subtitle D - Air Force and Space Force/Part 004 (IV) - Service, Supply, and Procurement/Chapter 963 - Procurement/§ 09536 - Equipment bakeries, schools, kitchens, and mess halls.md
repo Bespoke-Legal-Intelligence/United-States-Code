@@ -26,6 +26,8 @@ June 13, 1890, ch. 423 (1st proviso under "Quartermaster's De- partment"), 26 St
 
 The words "Money necessary \* \* \* may be spent" are substituted for the words "There may be expended \* \* \* the amounts required". The word "bakeries" is substituted for the words "bake house to carry on post bakeries". The words "each and all" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283 inserted "or the Space Force" after "the Air Force" in introductory provisions.

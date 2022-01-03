@@ -4,9 +4,13 @@ The Administrator of FEMA, acting through the Administrator, is authorized to ta
 
 (Pub. L. 93–498, §30, as added Pub. L. 101–391, §3(a), Sept. 25, 1990, 104 Stat. 748; amended Pub. L. 112–239, div. A, title XVIII, §1802(b)(1), Jan. 2, 2013, 126 Stat. 2100.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2013</b>—Pub. L. 112–239 substituted "Administrator of FEMA" for "Director".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

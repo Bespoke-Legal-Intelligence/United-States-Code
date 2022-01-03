@@ -92,7 +92,7 @@ If an Indian tribe executes a surface leasing transaction or forest land managem
 
 #### (2) Authority of Secretary
 
-&emsp;Pursuant to the authority of the Secretary to fulfill the trust obligation of the UnitedStates to Indian tribes under Federal law (including regulations), the Secretary may, on reasonable notice from the applicable Indian tribe and at the discretion of the Secretary, enforce the provisions of, or cancel, any lease executed by the Indian tribe under this section.
+&emsp;Pursuant to the authority of the Secretary to fulfill the trust obligation of the United States to Indian tribes under Federal law (including regulations), the Secretary may, on reasonable notice from the applicable Indian tribe and at the discretion of the Secretary, enforce the provisions of, or cancel, any lease executed by the Indian tribe under this section.
 
 #### (h) Compliance
 

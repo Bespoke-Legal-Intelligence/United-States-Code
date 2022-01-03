@@ -1,5 +1,7 @@
 ### §1974d. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 1974d was editorially reclassified as section 20705 of Title 52, Voting and Elections.

@@ -80,7 +80,7 @@ Recommendations.—If warranted and in accordance with this subsection, the Hone
 
 &emsp;&emsp;&emsp;(III) handler-importer member positions under paragraph (2)(C) as importer member positions under paragraph (2)(D); or
 
-&emsp;&emsp;(iii) if necessary to reflect any changes in the proportion of domestic and imported honey or honey products assessed under the order, the addition of members to the Honey Board under subparagraph (A), (B), (C), or (D) of paragraph (2).
+&emsp;&emsp;(iii) if necessary to reflect any changes in the proportion of domestic and imported honey or honey products assessed under the order, the addition of members to the HoneyBoard under subparagraph (A), (B), (C), or (D) of paragraph (2).
 
 &emsp;(C)
 
@@ -246,7 +246,7 @@ Requirements.—In conducting referenda under subparagraph (B), and in exercisin
 
 Honey board referendum.—If 1 or more orders are approved pursuant to paragraph (C)—
 
-&emsp;&emsp;(i) the Secretary shall not be required to conduct a continuation referendum on theorder in existence on the date of enactment of this paragraph; and
+&emsp;&emsp;(i) the Secretary shall not be required to conduct a continuation referendum on the order in existence on the date of enactment of this paragraph; and
 
 &emsp;&emsp;(ii) that order shall be terminated pursuant to the provisions of the order.
 
@@ -262,7 +262,7 @@ In general.—The Honey Board shall administer collection of the assessment prov
 
 (2)
 
-Rate.—Except as provided in paragraph (3), the assessment rate shall be $0.01 per pound (payable in the manner described in section 4608 of this title), with—
+Rate.—Except as provided in paragraph (3), the assessment rate shall be $0.01 per pound\(payable in the manner described in section 4608 of this title), with—
 
 &emsp;(A) in the case of honey produced in the United States, $0.01 per pound payable by honey producers; and
 
@@ -338,7 +338,7 @@ No funds collected by the Honey Board under this chapter may, in any manner, be 
 
 #### (i) Plans or projects; contracts
 
-The Honey Board shall develop and submit to the Secretary, for approval, plans for research, promotion, and consumer information. Any such plans or projects must be approved by the Secretary before becoming effective. The Honey Board may enter into contracts or agreements with the approval of the Secretary for the development and carrying out of research, promotion, and consumer information, and for the payment of the cost thereof with funds collected pursuant to this chapter.
+The Honey Board shall develop and submit to the Secretary, for approval, plans for research, promotion, and consumer information. Any such plans or projects must be approved by the Secretary before becoming effective. The Honey Board may enter into contracts or agreements with the approval of the Secretary for the development and carrying out of research, promotion, and consumer information, and for the paymentof the cost thereof with funds collected pursuant to this chapter.
 
 #### (j) Books and records; reports
 
@@ -349,6 +349,8 @@ The Honey Board shall maintain books and records and prepare and submit to the S
 Any patent on any product, copyright on any material, or any invention, product formulation or publication developed through the use of funds collected by the Honey Board shall be the property of the Honey Board. The funds generated from any such patent, copyright, invention, product formulation, or publication shall inure to the benefit of the Honey Board.
 
 (Pub. L. 98–590, §7, Oct. 30, 1984, 98 Stat. 3117; Pub. L. 101–624, title XIX, §§1983, 1984(a), Nov. 28, 1990, 104 Stat. 3905; Pub. L. 105–185, title VI, §605(f), June 23, 1998, 112 Stat. 590; Pub. L. 105–277, div. A, §101(a) \[title VII, §753(b)\], Oct. 21, 1998, 112 Stat. 2681, 2681–33; Pub. L. 110–234, title X, §10401, May 22, 2008, 122 Stat. 1348; Pub. L. 110–246, §4(a), title X, §10401, June 18, 2008, 122 Stat. 1664, 2109.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -406,7 +408,7 @@ Subsec. (e)(4)(B). Pub. L. 105–185, §605(f)(3)(C), added subpar. (B) and stru
 
 Subsec. (e)(5). Pub. L. 105–185, §605(f)(3)(A), (D), redesignated par. (3) as (5), inserted "handler," after "producer-packer" in two places, substituted "paragraph (4)" for "paragraph (2)", and inserted ", handler," after "considered a producer".
 
-Subsec. (f). Pub. L. 105–185, §605(f)(4), inserted heading, designated first sentence as par. (1), inserted par. heading, struck out "from the assessments" before "shall be used", added par. (2), designated second sentence as par. (3), and added par. heading.
+Subsec. (f). Pub. L. 105–185, §605(f)(4), inserted heading, designated first sentence as par. (1), inserted par. heading, struck out "from the assessments" before"shall be used", added par. (2), designated second sentence as par. (3), and added par. heading.
 
 Subsec. (g). Pub. L. 105–185, §605(f)(5), substituted "by the Honey Board" for "with assessments collected".
 
@@ -423,6 +425,8 @@ Subsec. (e)(1). Pub. L. 101–624, §1984(a)(1), substituted new second sentence
 Subsec. (e)(2), (3). Pub. L. 101–624, §1984(a)(2), added pars. (2) and (3) and struck out former par. (2) which read as follows: "A producer or producer-packer who produces, or handles, or produces and handles less than six thousand pounds of honey per year or an importer who imports less than six thousand pounds of honey per year shall be exempt from the assessment. In order to claim such an exemption, a person shall submit an application to the Honey Board stating that their production, handling, or importation of honey shall not exceed six thousand pounds for the year for which the exemption is claimed."
 
 Subsec. (k). Pub. L. 101–624, §1983(2), added subsec. (k).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

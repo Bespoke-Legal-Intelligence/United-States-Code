@@ -10,7 +10,7 @@ Upon request by the Administrator, each Federal department and agency is authori
 
 #### (b) Fees
 
-(1) The Administrator may, by rule, require the payment from any person required to submit information under section 2603 of this title or a notice or other information to be reviewed by the Administrator under section 2604 of this title, or who manufactures or processes a chemical substance that is the subject of a risk evaluation under section 2605(b) of this title, of a fee that is sufficient and not more than reasonably necessary to defray the cost related to such chemical substance of administering sections 2603, 2604, and 2605 of this title, and collecting, processing, reviewing, and providing access to and protecting from disclosure as appropriate under section 2613 of this title information on chemical substances under this subchapter, including contractor costs incurred by the Administrator. In setting a fee under this paragraph, the Administrator shall take into account the ability to pay of the person required to pay such fee and the cost to the Administrator of carrying out the activities described in this paragraph. Such rules may provide for sharing such a fee in any case in which the expenses of testing are shared under section 2603 or 2604 of this title.
+(1) The Administrator may, by rule, require the payment from any person required to submit information under section 2603 of this title or a notice or other information to be reviewed by the Administrator under section 2604 of this title, or who manufactures or processes a chemical substance that is the subject of a risk evaluation under section 2605(b) of this title, of a fee that is sufficient and not more than reasonably necessary to defray the cost related to such chemical substance of administering sections 2603, 2604, and 2605 of this title, and collecting, processing, reviewing, and providing access to and protecting from disclosure as appropriate under section 2613 of this title information on chemical substances under this subchapter, including contractor costs incurred by the Administrator. In setting a fee under this paragraph,the Administrator shall take into account the ability to pay of the person required to pay such fee and the cost to the Administrator of carrying out the activities described in this paragraph. Such rules may provide for sharing such a fee in any case in which the expenses of testing are shared under section 2603 or 2604 of this title.
 
 (2) The Administrator, after consultation with the Administrator of the Small Business Administration, shall by rule prescribe standards for determining the persons which qualify as small business concerns for purposes of paragraph (4).
 
@@ -48,7 +48,7 @@ In general.—For the purpose of section 3515(c) of title 31, the Fund shall be 
 
 &emsp;&emsp;&emsp;(II)
 
-Components of audit.—The annual audit required in accordance with sections3515 and 3521 of title 31 of the financial statements of activities carried out using amounts from the Fund shall include an analysis of—
+Components of audit.—The annual audit required in accordance with sections 3515 and 3521 of title 31 of the financial statements of activities carried out using amounts from the Fund shall include an analysis of—
 
 &emsp;&emsp;&emsp;&emsp;(aa) the fees collected and amounts disbursed under this subsection;
 
@@ -88,7 +88,7 @@ Amount and Adjustment of Fees; Refunds.—In setting fees under this section, th
 
 &emsp;(E) prior to the establishment or amendment of any fees under paragraph (1), consult and meet with parties potentially subject to the fees or their representatives, subject to the condition that no obligation under the Federal Advisory Committee Act (5 U.S.C. App.) or subchapter II of chapter 5 of title 5 is applicable with respect to such meetings;
 
-&emsp;(F) beginning with the fiscal year that is 3 years after June 22, 2016, and every 3 years thereafter, after consultation with parties potentially subject to the fees and their representatives pursuant to subparagraph (E), increase or decrease the fees established under paragraph (1) as necessary to adjust for inflation and to ensure that funds deposited in the Fund are sufficient to defray—
+&emsp;(F) beginning with the fiscal year that is 3 years after June 22, 2016, and every 3 years thereafter, after consultation with parties potentially subject to the fees and their representatives pursuant to subparagraph (E), increase or decrease the fees established underparagraph (1) as necessary to adjust for inflation and to ensure that funds deposited in the Fund are sufficient to defray—
 
 &emsp;&emsp;(i) approximately but not more than 25 percent of the costs to the Administrator of carrying out sections 2603, 2604, and 2605 of this title, and of collecting, processing, reviewing, and providing access to and protecting from disclosure as appropriate under section 2613 of this title information on chemical substances under this subchapter, other than the costs to conduct and complete risk evaluations requested under section 2605(b)(4)(C)(ii) of this title; and
 
@@ -142,7 +142,7 @@ The Administrator shall establish in the Environmental Protection Agency an iden
 
 (4) This subsection does not supersede any requirement of chapter 11 of title 18.
 
-(5) Any officer or employee who is subject to, and knowingly violates, this subsection or any rule issued thereunder, shall be fined not more than $2,500 or imprisoned not more than one year, or both.
+(5) Any officer or employee who is subject to, and knowingly violates, this subsection or anyrule issued thereunder, shall be fined not more than $2,500 or imprisoned not more than one year, or both.
 
 #### (f) Statement of basis and purpose
 
@@ -162,7 +162,7 @@ In carrying out sections 2603, 2604, and 2605 of this title, to the extent that 
 
 &emsp;(2) the extent to which the information is relevant for the Administrator's use in making a decision about a chemical substance or mixture;
 
-&emsp;(3) the degree of clarity and completeness with which the data, assumptions, methods,quality assurance, and analyses employed to generate the information are documented;
+&emsp;(3) the degree of clarity and completeness with which the data, assumptions, methods, quality assurance, and analyses employed to generate the information are documented;
 
 &emsp;(4) the extent to which the variability and uncertainty in the information, or in the procedures, measures, methods, protocols, methodologies, or models, are evaluated and characterized; and
 
@@ -210,7 +210,7 @@ In carrying out sections 2603, 2604, and 2605 of this title, the Administrator s
 
 &emsp;&emsp;(A) address how and when the exposure level or exposure potential of a chemical substance or mixture would factor into decisions to require new testing, subject to the condition that the Administrator shall not interpret the lack of exposure information as a lack of exposure or exposure potential; and
 
-&emsp;&emsp;(B) describe the manner in which the Administrator will determine that additional information is necessary to carry out this subchapter, including information relating to potentially exposed or susceptible populations.
+&emsp;&emsp;(B) describe the manner in which the Administrator will determine that additional information is necessary to carry out this subchapter, including information relatingto potentially exposed or susceptible populations.
 
 #### (4) Chemical substances with completed risk assessments
 
@@ -284,9 +284,11 @@ In carrying out sections 2603, 2604, and 2605 of this title, the Administrator s
 
 #### (3) Actions completed prior to completion of policies, procedures, and guidance
 
-&emsp;Nothing in this chapter requires the Administrator to revise or withdraw a completed risk evaluation, determination, or rule under this chapter solely because the action was completed prior to the development of a policy, procedure, or guidance pursuant to the amendments made by the Frank R. Lautenberg Chemical Safety for the 21st Century Act.
+&emsp;Nothing in this chapter requires the Administrator to revise or withdraw a completedrisk evaluation, determination, or rule under this chapter solely because the action was completed prior to the development of a policy, procedure, or guidance pursuant to the amendments made by the Frank R. Lautenberg Chemical Safety for the 21st Century Act.
 
 (Pub. L. 94–469, title I, §26, Oct. 11, 1976, 90 Stat. 2046; Pub. L. 98–80, §2(c)(2)(A), Aug. 23, 1983, 97 Stat. 485; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 114–182, title I, §§17, 19(q), June 22, 2016, 130 Stat. 499, 510.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -311,6 +313,8 @@ Subsec. (g)(1)(A). Pub. L. 114–182, §19(q)(2), substituted "information" for 
 Subsecs. (h) to (p). Pub. L. 114–182, §17(3), added subsecs. (h) to (p).
 
 <b>1983</b>—Subsec. (g)(2). Pub. L. 98–80 struck out "(A)" before "be in addition" and ", and (B) be compensated at the rate of pay authorized for such Assistant Administrators" after "No. 3 of 1970".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

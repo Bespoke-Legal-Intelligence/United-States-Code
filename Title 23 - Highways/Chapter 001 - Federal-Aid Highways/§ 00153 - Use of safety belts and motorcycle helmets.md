@@ -92,7 +92,7 @@ Federal share.—The Federal share of the cost of any project carried out under 
 
 &emsp;(4)
 
-Transfer of obligation authority.—If the Secretary transfers under this subsection any funds to the apportionment of a Stateunder section 402 for a fiscal year, the Secretary shall allocate an amount of obligation authority distributed for such fiscal year to the State for Federal-aid highways and highway safety construction programs for carrying out only projects under section 402 which is determined by multiplying—
+Transfer of obligation authority.—If the Secretary transfers under this subsection any funds to the apportionment of a State under section 402 for a fiscal year, the Secretary shall allocate an amount of obligation authority distributed for such fiscal year to the State for Federal-aid highways and highway safety construction programs for carrying out only projects under section 402 which is determined by multiplying—
 
 &emsp;&emsp;(A) the amount of funds transferred to the apportionment of section 402 of the State under section 402 for such fiscal year; by
 
@@ -160,7 +160,7 @@ A prior section 153, added Pub. L. 93–87, title II, §210(a), Aug. 13, 1973, 8
 
 Prior to fiscal year 2012" for "
 
-Thereafter" in par. heading, inserted "and before October 1, 2011," after "September 30, 1994," in text, added par. (2), and struck out former par. (1). Prior to amendment, text of par. (1) read as follows: "If, at any time in fiscal year 1994, a State does not have in effect a law described in subsection (a)(2), the Secretary shall transfer 1½ percent of the funds apportioned to the State for fiscal year 1995 under each of subsections (b)(1), (b)(2), and (b)(3) of section 104 of this title to the apportionment of the State under section 402 of this title."
+Thereafter" in par. heading, inserted "and before October 1, 2011," after "September 30, 1994," in text, added par. (2), and struck out former par. (1). Prior toamendment, text of par. (1) read as follows: "If, at any time in fiscal year 1994, a State does not have in effect a law described in subsection (a)(2), the Secretary shall transfer 1½ percent of the funds apportioned to the State for fiscal year 1995 under each of subsections (b)(1), (b)(2), and (b)(3) of section 104 of this title to the apportionment of the State under section 402 of this title."
 
 <b>1995</b>—Subsec. (h)(1), (2). Pub. L. 104–59 struck out "a law described in subsection (a)(1) and" after "have in effect".
 
@@ -180,7 +180,7 @@ Pub. L. 104–59, title II, §205(e), Nov. 28, 1995, 109 Stat. 577, provided tha
 
 #### Effective Date
 
-Section effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available afterSept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as an Effective Date of 1991 Amendment note under section 104 of this title.
+Section effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as an Effective Date of 1991 Amendment note under section 104 of this title.
 
 #### Stop Motorcycle Checkpoint Funding
 

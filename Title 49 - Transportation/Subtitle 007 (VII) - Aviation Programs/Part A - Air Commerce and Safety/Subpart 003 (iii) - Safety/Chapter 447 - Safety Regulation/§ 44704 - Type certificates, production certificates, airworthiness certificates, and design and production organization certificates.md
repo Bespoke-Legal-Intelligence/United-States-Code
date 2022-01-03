@@ -6,7 +6,7 @@ Type Certificates.—
 
 &emsp;(1)
 
-Issuance, investigations, and tests.—The Administrator of the Federal Aviation Administration shall issue a type certificate for an aircraft, aircraft engine, or propeller, orfor an appliance specified under paragraph (2)(A) of this subsection when the Administrator finds that the aircraft, aircraft engine, propeller, or appliance is properly designed and manufactured, performs properly, and meets the regulations and minimum standards prescribed under section 44701(a) of this title. On receiving an application for a type certificate, the Administrator shall investigate the application and may conduct a hearing. The Administrator shall make, or require the applicant to make, tests the Administrator considers necessary in the interest of safety.
+Issuance, investigations, and tests.—The Administrator of the Federal Aviation Administration shall issue a type certificate for an aircraft, aircraft engine, or propeller, or for an appliance specified under paragraph (2)(A) of this subsection when the Administrator finds that the aircraft, aircraft engine, propeller, or appliance is properly designed and manufactured, performs properly, and meets the regulations and minimum standards prescribed under section 44701(a) of this title. On receiving an application for a type certificate, the Administrator shall investigate the application and may conduct a hearing. The Administrator shall make, or require the applicant to make, tests the Administrator considers necessary in the interest of safety.
 
 &emsp;(2)
 
@@ -70,9 +70,9 @@ Production Certificates.—The Administrator shall issue a production certificat
 
 (d)
 
-Airworthiness Certificates.—(1) The registered owner of an aircraft may apply to the Administrator for an airworthiness certificate for the aircraft. The Administrator shall issue an airworthiness certificate when the Administrator finds that the aircraft conforms to itstype certificate and, after inspection, is in condition for safe operation. The Administrator shall register each airworthiness certificate and may include appropriate information in the certificate. The certificate number or other individual designation the Administrator requires shall be displayed on the aircraft. The Administrator may include in an airworthiness certificate terms required in the interest of safety.
+Airworthiness Certificates.—(1) The registered owner of an aircraft may apply to the Administrator for an airworthiness certificate for the aircraft. The Administrator shall issue an airworthiness certificate when the Administrator finds that the aircraft conforms to its type certificate and, after inspection, is in condition for safe operation. The Administrator shall register each airworthiness certificate and may include appropriate information in the certificate. The certificate number or other individual designation the Administrator requires shall be displayed on the aircraft. The Administrator may include in an airworthiness certificate terms required in the interest of safety.
 
-(2) A person applying for the issuance or renewal of an airworthiness certificate for an aircraft for which ownership has not been recorded under section 44107 or 44110 of this title must submit with the application information related to the ownership of the aircraft the Administrator decides is necessary to identify each person having a property interest in the aircraft and the kind and extent of the interest.
+(2) A person applying for the issuance or renewal of an airworthiness certificate for an aircraft for which ownership has not been recorded under section 44107 or 44110 of this title must submit with the application information relatedto the ownership of the aircraft the Administrator decides is necessary to identify each person having a property interest in the aircraft and the kind and extent of the interest.
 
 (3)
 
@@ -252,7 +252,7 @@ Prohibition generally.—During the course of an appeal under this subsection, n
 
 &emsp;&emsp;(B)
 
-Disclosure.—If, during the course of an appeal under this subsection, a coveredofficial engages in, receives, or is otherwise made aware of an ex parte communication, the covered official shall disclose such communication in the public record at the time of the issuance of the written decision under paragraph (1)(C), including the time and date of the communication, subject of communication, and all persons engaged in such communication.
+Disclosure.—If, during the course of an appeal under this subsection, a covered official engages in, receives, or is otherwise made aware of an ex parte communication, the covered official shall disclose such communication in the public record at the time of the issuance of the written decision under paragraph (1)(C), including the time and date of the communication, subject of communication, and all persons engaged in such communication.
 
 &emsp;(3)
 
@@ -376,6 +376,8 @@ In subsection (c)(1), the words "may apply to" are substituted for "may file wit
 
 In subsection (c)(2), the words "having a property interest" are substituted for "who are holders of property interests" to eliminate unnecessary words.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this subsection, referred to in subsec. (g)(1)(A), is the date of enactment of Pub. L. 116–260, which was approved Dec. 27, 2020.
@@ -413,6 +415,8 @@ Subsec. (a)(3). Pub. L. 108–176, §811, added par. (3).
 Subsec. (e). Pub. L. 108–176, §227(b)(2), added subsec. (e).
 
 <b>1996</b>—Subsecs. (b) to (d). Pub. L. 104–264 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 
@@ -478,7 +482,7 @@ Duties.—A project team shall advise the Administrator and make written recomme
 
 &emsp;"(4) Evaluation of the Administration's expertise or experience necessary to support the project.
 
-&emsp;"(5) Review and evaluation of an applicant's request for exceptions or exemptions from compliance with airworthiness standards codified in title 14 ofthe Code of Federal Regulations, as in effect on the date of application for the change.
+&emsp;"(5) Review and evaluation of an applicant's request for exceptions or exemptions from compliance with airworthiness standards codified in title 14 of the Code of Federal Regulations, as in effect on the date of application for the change.
 
 &emsp;"(6) Conduct of design reviews, procedure evaluations, and training evaluations.
 
@@ -586,7 +590,7 @@ Amended Type Certificate Report and Rulemaking.—
 
 &emsp;"(1)
 
-Briefings.—Not later than 12 months after the date of enactment of this title \[Dec. 27, 2020\], and annually thereafter through fiscal year 2023, the Administrator shall brief the congressional committees of jurisdiction on the work and status of the development of such recommendations by the Certification Management Team.
+Briefings.—Not later than 12 months after the date of enactment of this title \[Dec. 27, 2020\], and annually thereafter through fiscal year 2023, the Administrator shall brief the congressional committees ofjurisdiction on the work and status of the development of such recommendations by the Certification Management Team.
 
 &emsp;"(2)
 
@@ -686,9 +690,9 @@ Contents.—The expert safety review required under paragraph (1) shall include�
 
 &emsp;"(A) a review of Administration regulations, guidance, and directives related to pilot response assumptions relied upon by the FAA and manufacturers of transport category aircraft in the design and certification of such aircraft, and human factors and human system integration, particularly those related to pilot and aircraft interfaces;
 
-&emsp;"(B) a focused review of the assumptions relied on regarding the time for pilot responses to non-normalconditions in designing such aircraft's systems and instrumentation, including responses to safety-significant failure conditions and failure scenarios that trigger multiple, and possibly conflicting, warnings and alerts;
+&emsp;"(B) a focused review of the assumptions relied on regarding the time for pilot responses to non-normal conditions in designing such aircraft's systems and instrumentation, including responses to safety-significant failure conditions and failure scenarios that trigger multiple, and possibly conflicting, warnings and alerts;
 
-&emsp;"(C) a review of human factors assumptions with applicable operational data, human factors research and the input of human factors experts and FAA operational data, and as appropriate, recommendations for modifications to existing assumptions;
+&emsp;"(C) a review of human factors assumptions with applicable operational data, human factors researchand the input of human factors experts and FAA operational data, and as appropriate, recommendations for modifications to existing assumptions;
 
 &emsp;"(D) a review of revisions made to the airman certification standards for certificates over the last 4 years, including any possible effects on pilot competency in basic manual flying skills;
 
@@ -774,7 +778,7 @@ In General.—The Administrator \[of the Federal Aviation Administration\] shall
 
 &emsp;"(1) to address cybersecurity for avionics systems, including software components; and
 
-&emsp;"(2) to require that aircraft avionics systems used for flight guidance or aircraft control be secured against unauthorized access via passenger in-flight entertainment systems through such means as the Administrator determines appropriate to protect theavionics systems from unauthorized external and internal access.
+&emsp;"(2) to require that aircraft avionics systems used for flight guidance or aircraft control be secured against unauthorized access via passenger in-flight entertainment systems through such means as the Administrator determines appropriate to protect the avionics systems from unauthorized external and internal access.
 
 "(b)
 
@@ -900,7 +904,7 @@ Contents.—In conducting the assessment, the Administrator shall consider—
 
 "(c)
 
-Recommendations.—In conducting the assessment, the Administrator shall make recommendations to improve efficiency and reduce costs through streamlining and reengineering the certification process under section 44704 of such title to ensure that the Administrator can conduct certifications and approvals under such section in a manner that supports and enables the development of new products and technologies and the global competitiveness of the United States aviation industry.
+Recommendations.—In conducting the assessment, the Administrator shall make recommendations to improve efficiency and reduce costs through streamlining and reengineering the certification process undersection 44704 of such title to ensure that the Administrator can conduct certifications and approvals under such section in a manner that supports and enables the development of new products and technologies and the global competitiveness of the United States aviation industry.
 
 "(d)
 
@@ -968,5 +972,5 @@ Airworthiness.—Notwithstanding any other provision of law, the holder of a typ
 
 #### Plan for Development and Oversight of System for Certification of Design Organizations
 
-Pub. L. 108–176, title II, §227(b)(1), Dec. 12, 2003, 117 Stat. 2531, provided that: "Not later than 4 years after the date of enactment of this Act \[Dec. 12, 2003\], the Administrator of the Federal Aviation Administration shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a plan for the development and oversight of a system for certification of design organizations to certify compliance with the requirements and minimum standards prescribed under section 44701(a) of title 49, United States Code, for the type certification of aircraft, aircraft engines, propellers, or appliances."
+Pub. L. 108–176, title II, §227(b)(1), Dec. 12, 2003, 117 Stat. 2531, provided that, not later than 4 years after Dec. 12, 2003, the Administrator of the Federal Aviation Administration was to transmit to Congress a plan for the development and oversight of a certification system of design organizations to ensure compliance with the requirements and minimum standards of section 44701(a) of this title.
 

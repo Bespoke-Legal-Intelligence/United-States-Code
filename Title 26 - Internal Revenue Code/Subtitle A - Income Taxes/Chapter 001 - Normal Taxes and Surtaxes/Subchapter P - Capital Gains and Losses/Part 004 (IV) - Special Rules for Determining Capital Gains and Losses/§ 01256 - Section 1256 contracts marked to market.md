@@ -164,7 +164,7 @@ For purposes of this subtitle—
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this title, gain or loss from trading of section 1256 contracts shall be treated as gain or loss from the sale or exchange of a capital asset.
+&emsp;&emsp;For purposes of this title, gain or loss from trading of section 1256 contracts shall betreated as gain or loss from the sale or exchange of a capital asset.
 
 #### (B) Exception for certain hedging transactions
 
@@ -282,6 +282,8 @@ For purposes of this section—
 
 (Added Pub. L. 97–34, title V, §503(a), Aug. 13, 1981, 95 Stat. 327; amended Pub. L. 97–354, §5(a)(38), Oct. 19, 1982, 96 Stat. 1696; Pub. L. 97–448, title I, §105(c)(1)–(3), (5)(A)–(C), Jan. 12, 1983, 96 Stat. 2385, 2386; Pub. L. 98–369, div. A, title I, §§102(a), (b), (e)(1), (5), 104(a), 107(c), (d), title VII, §722(a)(2), July 18, 1984, 98 Stat. 620, 621, 623, 624, 628, 630, 972; Pub. L. 99–514, title XII, §1261(c), Oct. 22, 1986, 100 Stat. 2591; Pub. L. 106–170, title V, §532(b)(4), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 106–554, §1(a)(7) \[title IV, §401(g)(1)–(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–649, 2763A–650; Pub. L. 107–147, title IV, §416(b)(1), Mar. 9, 2002, 116 Stat. 55; Pub. L. 108–311, title IV, §405(a)(2), Oct. 4, 2004, 118 Stat. 1188; Pub. L. 109–135, title IV, §412(oo), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 111–203, title XVI, §1601(a), July 21, 2010, 124 Stat. 2223; Pub. L. 115–141, div. U, title IV, §401(a)(176)(A), Mar. 23, 2018, 132 Stat. 1192.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 3(a)(55) of the Securities Exchange Act of 1934, referred to in subsec. (g)(6)(B), is classified to section 78c(a)(55) of Title 15, Commerce and Trade.
@@ -340,7 +342,7 @@ Subsec. (g)(9). Pub. L. 106–554, §1(a)(7) \[title IV, §401(g)(1)(B)\], added
 
 <b>1984</b>—Pub. L. 98–369, §102(e)(5), substituted "Section 1256 contracts" for "Regulated futures contracts" in section catchline.
 
-Subsec. (a)(1), (3), (4). Pub. L. 98–369, §102(a)(1), substituted "section 1256 contract" for "regulated futures contract" and "section 1256 contracts" for "regulated futures contracts" wherever appearing.
+Subsec. (a)(1), (3), (4). Pub. L. 98–369, §102(a)(1), substituted "section 1256 contract" for "regulated futurescontract" and "section 1256 contracts" for "regulated futures contracts" wherever appearing.
 
 Subsec. (b). Pub. L. 98–369, §102(a)(2), in par. (1), substituted "any regulated futures contract" for "with respect to which the amount required to be deposited and the amount which may be withdrawn depends on the system of marking to market; and", in par. (2), substituted "any foreign currency contract," for "which is traded on or subject to the rules of a domestic board of trade designated as a contract market by the Commodity Futures Trading Commission or of any board of trade or exchange which the Secretary determines has rules adequate to carry out the purposes of this section. Such term includes any foreign currency contract.", and added pars. (3) and (4).
 
@@ -380,6 +382,8 @@ Subsec. (g). Pub. L. 97–448, §105(c)(5)(C), added subsec. (g).
 
 <b>1982</b>—Subsec. (e)(3)(B). Pub. L. 97–354 substituted "an S corporation" for "an electing small business corporation within the meaning of section 1371(b)".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of Title 12, Banks and Banking.
@@ -396,7 +400,7 @@ Pub. L. 107–147, title IV, §416(b)(2), Mar. 9, 2002, 116 Stat. 55, provided t
 
 #### Effective Date of 1999 Amendment
 
-Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or entered into, any transaction entered into, and supplies held or acquired on orafter Dec. 17, 1999, see section 532(d) of Pub. L. 106–170, set out as a note under section 170 of this title.
+Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or entered into, any transaction entered into, and supplies held or acquired on or after Dec. 17, 1999, see section 532(d) of Pub. L. 106–170, set out as a note under section 170 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -604,7 +608,7 @@ Date for payment of installment.—
 
 &emsp;&emsp;"(A) If an election is made under this subsection, the first installment under subsection (a)(3)(A) shall be paid on or before the due date for filing the return for the taxable year described in paragraph (1), and each succeeding installment shall be paid on or before the date which is one year after the date prescribed for payment of the preceding installment.
 
-&emsp;&emsp;"(B) If a bankruptcy case or insolvency proceeding involving the taxpayer is commenced before the final installment is paid, the total amount of any unpaid installments shall be treated as dueand payable on the day preceding the day on which such case or proceeding is commenced.
+&emsp;&emsp;"(B) If a bankruptcy case or insolvency proceeding involving the taxpayer is commenced before the final installment is paid, the total amount of any unpaid installments shall be treated as due and payable on the day preceding the day on which such case or proceeding is commenced.
 
 &emsp;"(5)
 

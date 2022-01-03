@@ -56,7 +56,7 @@
 
 (1) If (for any reason not specified in subsection (a) or section 254p(d) of this title) an individual breaches the written contract of the individual under section 254l–1 of this title by failing either to begin such individual's service obligation in accordance with section 254m or 254n of this title or to complete such service obligation, the United States shall be entitled to recover from the individual an amount equal to the sum of—
 
-&emsp;(A) the total of the amounts paid by the United States under section 254l–1(g) of thistitle on behalf of the individual for any period of obligated service not served;
+&emsp;(A) the total of the amounts paid by the United States under section 254l–1(g) of this title on behalf of the individual for any period of obligated service not served;
 
 &emsp;(B) an amount equal to the product of the number of months of obligated service that were not completed by the individual, multiplied by $7,500; and
 
@@ -94,6 +94,8 @@ The amendment made by section 313(a)(4) of the Health Care Safety Net Amendments
 
 (July 1, 1944, ch. 373, title III, §338E, formerly title VII, §754, as added Pub. L. 94–484, title IV, §408(b)(1), Oct. 12, 1976, 90 Stat. 2286; amended Pub. L. 95–83, title III, §307(g), Aug. 1, 1977, 91 Stat. 391; renumbered §338D and amended Pub. L. 97–35, title XXVII, §2709(a), (e)(1)–(4)(A), Aug. 13, 1981, 95 Stat. 908, 911; Pub. L. 97–414, §8(g)(2), Jan. 4, 1983, 96 Stat. 2061; renumbered §338E and amended Pub. L. 100–177, title II, §§201(2), 202(e), title III, §308(a), Dec. 1, 1987, 101 Stat. 992, 997, 1006; Pub. L. 100–203, title IV, §4052(b), Dec. 22, 1987, 101 Stat. 1330–97; Pub. L. 100–360, title IV, §411(f)(10)(B), July 1, 1988, 102 Stat. 780; Pub. L. 101–597, title II, §203(a), Nov. 16, 1990, 104 Stat. 3027; Pub. L. 107–251, title III, §313(a), Oct. 26, 2002, 116 Stat. 1651; Pub. L. 108–163, §2(l)(1), Dec. 6, 2003, 117 Stat. 2022.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 234 of this title, referred to in subsecs. (b)(2) and (d)(3)(B)(ii), was repealed by Pub. L. 94–484, title IV, §408(b)(1), Oct. 12, 1976, 90 Stat. 2281, effective Oct. 1, 1977.
@@ -108,7 +110,7 @@ Section was formerly classified to section 294w of this title prior to its renum
 
 #### Prior Provisions
 
-A prior section 338E of act July 1, 1944, was renumbered section 338F by Pub. L. 100–177 and classified to section 254p of this title, and subsequently renumbered 338G by Pub. L. 101–597.
+A prior section 338E of act July 1, 1944, was renumbered section 338F by Pub. L. 100–177 and classified tosection 254p of this title, and subsequently renumbered 338G by Pub. L. 101–597.
 
 #### Amendments
 
@@ -162,6 +164,8 @@ Subsecs. (c), (d). Pub. L. 97–35, §2709(e)(1), (4)(A), redesignated subsec. (
 
 <b>1977</b>—Subsec. (c). Pub. L. 95–83 substituted " 'φ' is the sum of the amounts paid under this subpart to or on behalf of the individual and the interest on such amounts which would be payable if at the time the amounts were paid they were loans" for " 'φ' is the sum of the amount paid under this subpart to or on behalf of the individual and the interest on such amount which would be payable if at the time it was paid it was a loan".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2003 Amendment
 
 Amendments by Pub. L. 108–163 deemed to have taken effect immediately after the enactment of Pub. L. 107–251, see section 3 of Pub. L. 108–163, set out as a note under section 233 of this title.
@@ -176,7 +180,7 @@ Pub. L. 101–597, title II, §203(b), Nov. 16, 1990, 104 Stat. 3027, provided t
 
 #### Effective Date of 1988 Amendment
 
-Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
+Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relatesto a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 
 #### Effective Date
 

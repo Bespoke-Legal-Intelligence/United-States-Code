@@ -6,9 +6,13 @@
 
 (Added June 29, 1956, ch. 462, title II, §206(a), 70 Stat. 391; amended Pub. L. 97–473, title II, §202(b)(10), Jan. 14, 1983, 96 Stat. 2610.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1983</b>—Pub. L. 97–473 designated existing provisions as par. (1) and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1983 Amendment
 

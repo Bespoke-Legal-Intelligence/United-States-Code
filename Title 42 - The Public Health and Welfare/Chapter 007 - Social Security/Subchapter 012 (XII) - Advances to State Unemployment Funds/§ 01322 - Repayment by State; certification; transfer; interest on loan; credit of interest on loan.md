@@ -2,7 +2,7 @@
 
 #### (a) Repayment by State; certification; transfer
 
-The Governor of any State may at any time request that funds be transferred from the account of such State to the Federal unemployment account in repayment of part or all of that balance of advances, made to such State under section 1321 of this title, specified in the request. The Secretary of Labor shall certify to the Secretary of the Treasury the amount and balance specified in the request; and the Secretary of the Treasury shall promptly transfer such amount in reduction of such balance.
+The Governor of any State may at any time request that funds be transferred from the account of such State to the Federal unemployment account in repayment of part or all of thatbalance of advances, made to such State under section 1321 of this title, specified in the request. The Secretary of Labor shall certify to the Secretary of the Treasury the amount and balance specified in the request; and the Secretary of the Treasury shall promptly transfer such amount in reduction of such balance.
 
 #### (b) Interest on loan
 
@@ -64,19 +64,21 @@ The Governor of any State may at any time request that funds be transferred from
 
 (9) Any interest otherwise due from a State on September 30 of a calendar year after 1982 may be deferred (and no interest shall accrue on such deferred interest) for a grace period of not to exceed 9 months if, for the most recent 12-month period for which data are available before the date such interest is otherwise due, the State had an average total unemployment rate of 13.5 percent or greater.
 
-(10)(A) With respect to the period beginning on March 18, 2020, and ending on March 14, 2021—
+(10)(A) With respect to the period beginning on March 18, 2020, and ending on September 6, 2021—
 
 &emsp;(i) any interest payment otherwise due from a State under this subsection during such period shall be deemed to have been made by the State; and
 
 &emsp;(ii) no interest shall accrue during such period on any advance or advances made under section 1321 of this title to a State.
 
-(B) The provisions of subparagraph (A) shall have no effect on the requirement for interestpayments under this subsection after the period described in such subparagraph or on the accrual of interest under this subsection after such period.
+(B) The provisions of subparagraph (A) shall have no effect on the requirement for interest payments under this subsection after the period described in such subparagraph or on the accrual of interest under this subsection after such period.
 
 #### (c) Credit of interest on loan
 
 Interest paid by States in accordance with this section shall be credited to the Federal unemployment account established by section 1104(g) of this title in the Unemployment Trust Fund.
 
-(Aug. 14, 1935, ch. 531, title XII, §1202, as added Aug. 5, 1954, ch. 657, §3, 68 Stat. 672; amended Pub. L. 86–778, title V, §522(a), Sept. 13, 1960, 74 Stat. 979; Pub. L. 97–35, title XXIV, §2407(a), (b)(2), Aug. 13, 1981, 95 Stat. 879, 880; Pub. L. 97–248, title II, §274(a), Sept. 3, 1982, 96 Stat. 557; Pub. L. 98–21, title V, §§511, 514, Apr. 20, 1983, 97 Stat. 144, 147; Pub. L. 98–118, §5(a), Oct. 11, 1983, 97 Stat. 804; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–203, title IX, §9156(a), Dec. 22, 1987, 101 Stat. 1330–327; Pub. L. 105–33, title V, §5404(a), Aug. 5, 1997, 111 Stat. 604; Pub. L. 111–5, div. B, title II, §2004, Feb. 17, 2009, 123 Stat. 443; Pub. L. 116–127, div. D, §4103, Mar. 18, 2020, 134 Stat. 194; Pub. L. 116–260, div. N, title II, §221, Dec. 27, 2020, 134 Stat. 1956.)
+(Aug. 14, 1935, ch. 531, title XII, §1202, as added Aug. 5, 1954, ch. 657, §3, 68 Stat. 672; amended Pub. L. 86–778, title V, §522(a), Sept. 13, 1960, 74 Stat. 979; Pub. L. 97–35, title XXIV, §2407(a), (b)(2), Aug. 13, 1981, 95 Stat. 879, 880; Pub. L. 97–248, title II, §274(a), Sept. 3, 1982, 96 Stat. 557; Pub. L. 98–21, title V, §§511, 514, Apr. 20, 1983, 97 Stat. 144, 147; Pub. L. 98–118, §5(a), Oct. 11, 1983, 97 Stat. 804; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–203, title IX, §9156(a), Dec. 22, 1987, 101 Stat. 1330–327; Pub. L. 105–33, title V, §5404(a), Aug. 5, 1997, 111 Stat. 604; Pub. L. 111–5, div. B, title II, §2004, Feb. 17, 2009, 123 Stat. 443; Pub. L. 116–127, div. D, §4103, Mar. 18, 2020, 134 Stat. 194; Pub. L. 116–260, div. N, title II, §221, Dec. 27, 2020, 134 Stat. 1956; Pub. L. 117–2, title IX, §9021, Mar. 11, 2021, 135 Stat. 120.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -85,6 +87,8 @@ Section 203 of the Federal-State Extended Unemployment Compensation Act of 1970,
 The Internal Revenue Code of 1986, referred to in subsec. (b)(5), (8)(B)(i), is classified generally to Title 26.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (b)(10)(A). Pub. L. 117–2 substituted "September 6, 2021" for "March 14, 2021" in introductory provisions.
 
 <b>2020</b>—Subsec. (b)(10)(A). Pub. L. 116–260 substituted "March 14, 2021" for "December 31, 2020" in introductory provisions.
 
@@ -106,7 +110,7 @@ Subsec. (b)(2)(B). Pub. L. 98–118, §5(a)(4), substituted "advances was comple
 
 Subsec. (b)(3)(A). Pub. L. 98–21, §514, which directed substitution of "prior to" for "not later than" was executed, as the probable intent of Congress, by making that substitution the first time the phrase appeared following "Secretary of Treasury" and not the second time that phrase appeared.
 
-Subsec. (b)(3)(C)(i). Pub. L. 98–21, §511(c), substituted, after subcl. II, provision that no interest shall accrue on such deferred interest for provision that any interest the time for payment of which was deferred under this subparagraph would bear interest in the same manner as if it had been an advance made on the day on which it would have been required to be paid but for this subparagraph.
+Subsec. (b)(3)(C)(i). Pub. L. 98–21, §511(c), substituted, after subcl. II, provision that no interest shall accrue on such deferred interest for provision that any interest the time for payment of which was deferred underthis subparagraph would bear interest in the same manner as if it had been an advance made on the day on which it would have been required to be paid but for this subparagraph.
 
 Subsec. (b)(7). Pub. L. 98–21, §511(b), struck out ", and before January 1, 1988" after "April 1, 1982".
 
@@ -119,6 +123,8 @@ Subsec. (b)(8), (9). Pub. L. 98–21, §511(a), added pars. (8) and (9).
 Subsec. (b). Pub. L. 97–35, §2407(a), added subsec. (b).
 
 <b>1960</b>—Pub. L. 86–778 amended section generally, designating provisions constituting subsec. (a) as entire section, substituting "that balance of advances, made to such State under section 1321 of this title, specified in the request" for "any remaining balance of advances made to such State under section 1321 of this title" and inserting "in reduction of such balance" and omitting subsecs. (b) and (c) pertaining to appropriations and repayable advances which were incorporated in sections 1101(d)(1) and 1323 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1997 Amendment
 

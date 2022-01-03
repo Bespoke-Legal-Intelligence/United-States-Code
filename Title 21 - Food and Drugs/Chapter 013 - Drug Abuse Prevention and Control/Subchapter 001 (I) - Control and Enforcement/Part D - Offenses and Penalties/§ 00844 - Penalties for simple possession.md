@@ -8,7 +8,7 @@ It shall be unlawful for any person knowingly or intentionally to possess a cont
 
 #### (c) "Drug, narcotic, or chemical offense" defined
 
-As used in this section, the term "drug, narcotic, or chemical offense" means any offensewhich proscribes the possession, distribution, manufacture, cultivation, sale, transfer, or the attempt or conspiracy to possess, distribute, manufacture, cultivate, sell or transfer any substance the possession of which is prohibited under this subchapter.
+As used in this section, the term "drug, narcotic, or chemical offense" means any offense which proscribes the possession, distribution, manufacture, cultivation, sale, transfer, or the attempt or conspiracy to possess, distribute, manufacture, cultivate, sell or transfer any substance the possession of which is prohibited under this subchapter.
 
 (Pub. L. 91–513, title II, §404, Oct. 27, 1970, 84 Stat. 1264; Pub. L. 98–473, title II, §219, Oct. 12, 1984, 98 Stat. 2027; Pub. L. 99–570, title I, §1052, Oct. 27, 1986, 100 Stat. 3207–8; Pub. L. 100–690, title VI, §§6371, 6480, Nov. 18, 1988, 102 Stat. 4370, 4382; Pub. L. 101–647, title XII, §1201, title XIX, §1907, Nov. 29, 1990, 104 Stat. 4829, 4854; Pub. L. 104–237, title II, §201(a), Oct. 3, 1996, 110 Stat. 3101; Pub. L. 104–305, §2(c), Oct. 13, 1996, 110 Stat. 3808; Pub. L. 109–177, title VII, §711(e)(1), Mar. 9, 2006, 120 Stat. 262; Pub. L. 111–220, §3, Aug. 3, 2010, 124 Stat. 2372.)
 

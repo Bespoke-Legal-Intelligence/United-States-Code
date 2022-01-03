@@ -68,7 +68,7 @@ This section may be cited as the "Travel Promotion Act of 2009".
 
 #### (H) Compensation; expenses
 
-&emsp;&emsp;No member shall receive any compensation from the Federal government for serving on the Board. Each member of the Board shall be paid actual travel expenses and per diem in lieu of subsistence expenses when away from his or her usual place of residence, in accordance with section 5703 of title 5.
+&emsp;&emsp;No member shall receive any compensation from the Federal government for serving on the Board. Each member of the Board shall be paid actual travel expenses and perdiem in lieu of subsistence expenses when away from his or her usual place of residence, in accordance with section 5703 of title 5.
 
 #### (3) Officers and employees
 
@@ -132,7 +132,7 @@ This section may be cited as the "Travel Promotion Act of 2009".
 
 #### (6) Open meetings
 
-&emsp;Meetings of the board of directors of the Corporation, including any committee of the board, shall be open to the public. The board may, by majority vote, close any such meeting only for the time necessary to preserve the confidentiality of commercial or financial information that is privileged or confidential, to discuss personnel matters, or to discuss legal matters affecting the Corporation, including pending or potential litigation.
+&emsp;Meetings of the board of directors of the Corporation, including any committee of the board, shall be open to the public. The board may, by majority vote, close any such meeting only for the time necessary to preserve theconfidentiality of commercial or financial information that is privileged or confidential, to discuss personnel matters, or to discuss legal matters affecting the Corporation, including pending or potential litigation.
 
 #### (7) Major campaigns
 
@@ -238,7 +238,7 @@ This section may be cited as the "Travel Promotion Act of 2009".
 
 &emsp;&emsp;&emsp;(i) the fair market value of goods and services (including advertising) contributed to the Corporation for use under this section may be included in the determination; but
 
-&emsp;&emsp;&emsp;(ii) the fair market value of such goods and services may not account for morethan 50 percent of the matching requirement under subparagraph (A) for the Corporation in any fiscal year.
+&emsp;&emsp;&emsp;(ii) the fair market value of such goods and services may not account for more than 50 percent of the matching requirement under subparagraph (A) for the Corporation in any fiscal year.
 
 #### (C) Right of refusal
 

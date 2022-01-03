@@ -14,7 +14,7 @@ Not less than 30 percent of the amount appropriated under subsection (a) shall b
 
 #### (d) State and local support
 
-Not less than 25 per centum of the total amount appropriated under this chapter, up tothe amount authorized in section 6948(a)(1) of this title, shall be used only for purposes of support to State, regional, local, and interstate agencies in accordance with subchapter IV of this chapter other than section 6948(a)(2) or 6949 of this title.
+Not less than 25 per centum of the total amount appropriated under this chapter, up to the amount authorized in section 6948(a)(1) of this title, shall be used only for purposes of support to State, regional, local, and interstate agencies in accordance with subchapter IV of this chapter other than section 6948(a)(2) or 6949 of this title.
 
 #### (e) Criminal investigators
 
@@ -32,6 +32,8 @@ There is authorized to be appropriated to the Administrator $3,246,000 for the f
 
 (Pub. L. 89–272, title II, §2007, formerly §2006, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2805, renumbered Pub. L. 96–463, §4(a), Oct. 15, 1980, 94 Stat. 2055; amended Pub. L. 96–482, §§6, 31(a), Oct. 21, 1980, 94 Stat. 2336, 2352; Pub. L. 98–616, §2(a), (i), Nov. 8, 1984, 98 Stat. 3222, 3223.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–616, §2(a), substituted "$80,000,000 for the fiscal year ending September 30, 1982, $70,000,000 for the fiscal year ending September 30, 1985, $80,000,000 for the fiscal year ending September 30, 1986, $80,000,000 for the fiscal year ending September 30, 1987, and $80,000,000 for the fiscal year 1988" for "and $80,000,000 for the fiscal year ending September 30, 1982".
@@ -44,7 +46,9 @@ Subsec. (b). Pub. L. 96–482, §6(a), inserted ", or $5,000,000 per fiscal yea
 
 Subsec. (d). Pub. L. 96–482, §6(b), added subsec. (d).
 
+#### <b>Executive Documents</b>
+
 #### Transfer of Functions
 
-For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 6903 of this title.
+For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural GasTransportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 6903 of this title.
 

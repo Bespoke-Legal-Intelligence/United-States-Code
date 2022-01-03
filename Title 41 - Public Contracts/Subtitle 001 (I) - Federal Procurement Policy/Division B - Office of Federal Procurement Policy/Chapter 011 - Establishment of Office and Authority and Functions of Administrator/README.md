@@ -37,7 +37,7 @@
 
 #### Amendments
 
-<b>2013</b>—Pub. L. 113–66, div. A, title VIII, §811(c)(2), Dec. 26, 2013, 127 Stat. 806, and Pub. L. 113–67, div. A, title VII, §702(b)(2), Dec. 26, 2013, 127 Stat. 1189, struck out item 1127 "Determining benchmark compensation amount".
+<b>2013</b>—Pub. L. 113–66, div. A, title VIII, §811(c)(2), Dec. 26, 2013, 127 Stat. 806, and Pub. L. 113–67, div. A, titleVII, §702(b)(2), Dec. 26, 2013, 127 Stat. 1189, struck out item 1127 "Determining benchmark compensation amount".
 
 
 ---

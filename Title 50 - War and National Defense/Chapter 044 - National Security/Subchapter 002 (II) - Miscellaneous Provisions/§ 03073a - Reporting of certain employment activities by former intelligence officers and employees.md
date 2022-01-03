@@ -30,9 +30,13 @@ In this section:
 
 (July 26, 1947, ch. 343, title III, §304, as added Pub. L. 113–293, title III, §305(a), Dec. 19, 2014, 128 Stat. 3995.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 304 of act July 26, 1947, ch. 343, title III, 61 Stat. 508, was classified to section 171k of former Title 5, Executive Departments and Government Officers and Employees, prior to repeal by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 632.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Regulations and Certification
 

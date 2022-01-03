@@ -10,6 +10,8 @@ In this chapter:
 
 (Added Pub. L. 88–647, title II, §201(1), Oct. 13, 1964, 78 Stat. 1064; amended Pub. L. 98–94, title X, §1003(a)(1), title XII, §1268(11), Sept. 24, 1983, 97 Stat. 656, 706; Pub. L. 100–180, div. A, title XII, §1231(17), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 104–201, div. A, title V, §553(b), Sept. 23, 1996, 110 Stat. 2526.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Par. (3). Pub. L. 104–201 inserted "students enrolled in an advanced education program beyond the baccalaureate degree level or to" after "Training Corps to".
@@ -25,6 +27,8 @@ Par. (2). Pub. L. 98–94, §1268(11)(D), (E), substituted "Member" for "member"
 Par. (3). Pub. L. 98–94, §1268(11)(F), substituted "Advanced" for "advanced".
 
 Pub. L. 98–94, §1003(a)(1), inserted parenthetical provision relating to a fifth academic year or a combination of a fifth academic year and summer sessions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Pilot Programs Authorized in Connection With SROTC Units and CSPI Programs at Historically Black Colleges and Universities and Minority Institutions
 
@@ -60,7 +64,7 @@ Requirements for selection.—Each covered institution selected by the Secretary
 
 &emsp;"(3)
 
-Preference in selection of institutions.—In selecting covered institutions under this subsection for participation in the pilot program under subsection (a)(1), the Secretary shall give preference tocovered institutions that are located within 20 miles of a covered military installation of the same Armed Force as the host unit of the Senior Reserve Officers' Training Corps of the covered institution concerned.
+Preference in selection of institutions.—In selecting covered institutions under this subsection for participation in the pilot program under subsection (a)(1), the Secretary shall give preference to covered institutions that are located within 20 miles of a covered military installation of the same Armed Force as the host unit of the Senior Reserve Officers' Training Corps of the covered institution concerned.
 
 &emsp;"(4)
 
@@ -164,7 +168,7 @@ Final report.—Not later than 180 days prior to the completion of the pilot pro
 
 Definitions.—In this section:
 
-&emsp;"(1) The term 'covered institution' has the meaning given that term in section 262(g)(2) of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; \[10 U.S.C. 2362 note\]).
+&emsp;"(1) The term 'covered institution' has the meaning given that term in section 262(g)(2) of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; \[10 U.S.C. 4144 note\]).
 
 &emsp;"(2) The term 'covered military installation' means an installation of the Department of Defense for the regular components of the Armed Forces.
 

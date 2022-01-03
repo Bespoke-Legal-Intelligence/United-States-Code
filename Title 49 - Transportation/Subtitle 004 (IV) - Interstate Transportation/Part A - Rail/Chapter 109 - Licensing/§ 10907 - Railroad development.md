@@ -34,7 +34,7 @@
 
 (2) In a proceeding under this subsection, the burden of proving that the public convenience and necessity require or permit the sale of a particular railroad line is on the person filing the application to acquire such line. If the Board finds under this subsection that the public convenience and necessity require or permit the sale of a particular railroad line, the Board shall concurrently notify the parties of such finding and publish such finding in the Federal Register.
 
-(d) In the case of any railroad line subject to sale under subsection (a) of this section, the Board shall, upon the request of the acquiring carrier, require the selling carrier to provide to the acquiring carrier trackage rights to allow a reasonable interchange with the selling carrier or to move power equipment or empty rollingstock between noncontiguous feeder lines operated by the acquiring carrier. The Board shall require the acquiring carrier to provide the selling carrier reasonable compensation for any such trackage rights.
+(d) In the case of any railroad line subject to sale under subsection (a) of this section, the Board shall, upon the request of the acquiring carrier, require the selling carrier to provide to the acquiring carrier trackage rights to allow a reasonable interchange with the selling carrier or to move power equipment or empty rolling stock between noncontiguous feeder lines operated by the acquiring carrier. The Board shall require the acquiring carrier to provide the selling carrier reasonable compensation for any such trackage rights.
 
 (e) The Board shall require, to the maximum extent practicable, the use of the employees who would normally have performed work in connection with a railroad line subject to a sale under this section.
 
@@ -49,6 +49,8 @@
 (i) Any person operating a railroad line acquired under this section may determine preconditions, such as payment of a subsidy, which must be met by shippers in order to obtain service over such lines, but such operator must notify the shippers on the line of its intention to impose such preconditions.
 
 (Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 828.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -95,6 +97,8 @@ Section 10934, added Pub. L. 96–454, §5(a)(1), Oct. 15, 1980, 94 Stat. 2013; 
 Section 10935, added Pub. L. 97–261, §16(a), Sept. 20, 1982, 96 Stat. 1115; amended Pub. L. 103–272, §5(m)(27), July 5, 1994, 108 Stat. 1378, related to discontinuing bus transportation in one State.
 
 Section 10936, added Pub. L. 103–311, title II, §211(a), Aug. 26, 1994, 108 Stat. 1689, related to limitation on State regulation of intrastate passengers by bus.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

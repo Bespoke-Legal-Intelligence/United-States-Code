@@ -47,7 +47,7 @@ Credit shall be given under this System to a participant for a period of prior s
 
 A participant who, while on approved leave without pay, serves as a full-time paid employee of a Member or office of the Congress shall continue to make contributions to the Fund based upon the Foreign Service salary rate that would be in effect if the participant were in a pay status. The participant's employing Member or office in the Congress shall make a contribution (from the appropriation or fund which is used for payment of the salary of the participant) determined under section 4071f(a) of this title to the Treasury of the United States to the credit of the Fund. All periods of service for which full contributions to the Fund are made under this subsection shall be counted as creditable service for purposes of this part and shall not, unless all retirement credit is transferred, be counted as creditable service under any other Government retirement system.
 
-(Pub. L. 96–465, title I, §854, as added Pub. L. 99–335, title IV, §415, June 6, 1986, 100 Stat. 616;amended Pub. L. 99–556, title IV, §405, Oct. 27, 1986, 100 Stat. 3137; Pub. L. 100–238, title II, §242, Jan. 8, 1988, 101 Stat. 1776; Pub. L. 103–178, title II, §204(b)(2), Dec. 3, 1993, 107 Stat. 2033; Pub. L. 105–33, title VII, §7001(e)(1)(B), Aug. 5, 1997, 111 Stat. 661; Pub. L. 106–346, §101(a) \[title V, §505(e)(2)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–54.)
+(Pub. L. 96–465, title I, §854, as added Pub. L. 99–335, title IV, §415, June 6, 1986, 100 Stat. 616; amended Pub. L. 99–556, title IV, §405, Oct. 27, 1986, 100 Stat. 3137; Pub. L. 100–238, title II, §242, Jan. 8, 1988, 101 Stat. 1776; Pub. L. 103–178, title II, §204(b)(2), Dec. 3, 1993, 107 Stat. 2033; Pub. L. 105–33, title VII, §7001(e)(1)(B), Aug. 5, 1997, 111 Stat. 661; Pub. L. 106–346, §101(a) \[title V, §505(e)(2)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–54.)
 
 #### <b>Editorial Notes</b>
 
@@ -77,7 +77,7 @@ The Domestic Volunteer Service Act of 1973, referred to in subsec. (c)(1)(C), is
 
 &emsp;"(3) a full-time volunteer for a period of service of at least one year's duration under part A, B, or C of title I of the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4951 et seq.),
 
-> if the participant makes a payment to the Fund equal to 3 percent of pay received for the volunteer service (as determined in accordance with regulations of the Secretary of State consistent with regulations for making corresponding determinations under chapter 83, title 5) together with interest determined under regulations issued by the Secretary of State."
+> if the participant makes a payment to the Fund equal to 3 percent of pay received for the volunteer service\(as determined in accordance with regulations of the Secretary of State consistent with regulations for making corresponding determinations under chapter 83, title 5) together with interest determined under regulations issued by the Secretary of State."
 
 <b>1993</b>—Subsec. (a)(3). Pub. L. 103–178, §204(b)(1), substituted "the Central Intelligence Agency Retirement Act (50 U.S.C. 2011 et seq.)" for "the Central Intelligence Agency Retirement Act of 1964 for Certain Employees".
 

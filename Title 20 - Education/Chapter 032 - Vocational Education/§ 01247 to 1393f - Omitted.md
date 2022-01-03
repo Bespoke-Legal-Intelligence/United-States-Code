@@ -1,5 +1,7 @@
 ### §§1247 to 1393f. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 1247, Pub. L. 88–210, title I, §107, as added Pub. L. 90–576, title I, §101(b), Oct. 16, 1968, 82 Stat. 1069, set forth limitations on payments for vocational education assistance.
@@ -38,7 +40,7 @@ Section 1322, Pub. L. 88–210, title I, §152, as added Pub. L. 90–576, title
 
 Section 1323, Pub. L. 88–210, title I, §153, as added Pub. L. 90–576, title I, §101(b), Oct. 16, 1968, 82 Stat. 1084; amended Pub. L. 91–230, title VII, §704(b), Apr. 13, 1970, 84 Stat. 189; Pub. L. 92–318, title II, §204(c), June 23, 1972, 86 Stat. 326; Pub. L. 94–482, title II, §201(j), Oct. 12, 1976, 90 Stat. 2168, authorized grants for the reduction of borrowing costs for construction of schools and dormitories for residential vocational education programs.
 
-Section 1341, Pub. L. 88–210, title I, §161, as added Pub. L. 90–576, title I, §101(b), Oct. 16, 1968, 82 Stat. 1085; amended Pub. L. 91–230, title VII, §705, Apr. 13, 1970, 84 Stat. 189; Pub. L. 92–318, title II, §205, June 23, 1972, 86 Stat. 326; Pub. L. 94–135, title II, §204, Nov. 28, 1975, 89 Stat. 727; Pub. L. 94–482, title II, §201(k), (l), Oct. 12, 1976, 90 Stat. 2168, set forth authorization and funding provisions for consumer and homemaking education programs.
+Section 1341, Pub. L. 88–210, title I, §161, as added Pub. L. 90–576, title I, §101(b), Oct. 16, 1968, 82 Stat. 1085; amended Pub. L. 91–230, title VII, §705, Apr. 13, 1970, 84Stat. 189; Pub. L. 92–318, title II, §205, June 23, 1972, 86 Stat. 326; Pub. L. 94–135, title II, §204, Nov. 28, 1975, 89 Stat. 727; Pub. L. 94–482, title II, §201(k), (l), Oct. 12, 1976, 90 Stat. 2168, set forth authorization and funding provisions for consumer and homemaking education programs.
 
 Section 1351, Pub. L. 88–210, title I, §171, as added Pub. L. 90–576, title I, §101(b), Oct. 16, 1968, 82 Stat. 1086, set forth Congressional findings and declaration of purpose for cooperative vocational education programs.
 

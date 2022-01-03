@@ -38,7 +38,9 @@ The Special Assistant shall—
 
 Compensation for the Special Assistant shall be fixed by the President at an annual rate of basic pay of not less than the rate applicable to positions in level III of the Executive Schedule.
 
-(Pub. L. 99–198, title XI, §1113(a)–(d), Dec. 23, 1985, 99 Stat. 1479; Pub. L. 99–260, §4(a)(1), (b), (d), Mar. 20, 1986, 100 Stat. 49; Pub. L. 101–624, title XV, §1572(2), Nov. 28, 1990, 104 Stat. 3702.)
+(Pub. L. 99–198, title XI, §1113(a)–(d), Dec. 23, 1985, 99 Stat. 1479; Pub. L. 99–260, §4(a)(1), (b), (d),Mar. 20, 1986, 100 Stat. 49; Pub. L. 101–624, title XV, §1572(2), Nov. 28, 1990, 104 Stat. 3702.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

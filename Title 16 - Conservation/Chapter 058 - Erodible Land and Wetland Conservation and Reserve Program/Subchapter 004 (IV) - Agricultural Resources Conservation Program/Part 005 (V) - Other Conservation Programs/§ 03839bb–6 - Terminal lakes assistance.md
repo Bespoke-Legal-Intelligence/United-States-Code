@@ -70,7 +70,7 @@ The Secretary shall—
 
 #### (B) Determination of purchase price
 
-&emsp;&emsp;A State purchasing eligible land with a land purchase grant shall ensure, to the maximum extent practicable, that the purchase price of such land reflects the value, if any, of other encumbrances on the eligible land to be purchased, including easements and mineral rights.
+&emsp;&emsp;A State purchasing eligible land with a land purchase grant shall ensure, to themaximum extent practicable, that the purchase price of such land reflects the value, if any, of other encumbrances on the eligible land to be purchased, including easements and mineral rights.
 
 #### (C) Cost-share required
 
@@ -162,9 +162,11 @@ The authority provided by this section shall terminate on October 1, 2023.
 
 (Pub. L. 107–171, title II, §2507, May 13, 2002, 116 Stat. 275; Pub. L. 110–234, title II, §2807, May 22, 2008, 122 Stat. 1090; Pub. L. 110–246, §4(a), title II, §2807, June 18, 2008, 122 Stat. 1664, 1818; Pub. L. 111–85, title II, §207, Oct. 28, 2009, 123 Stat. 2858; Pub. L. 112–74, div. B, title II, §208(a), Dec. 23, 2011, 125 Stat. 866; Pub. L. 113–79, title II, §2507, Feb. 7, 2014, 128 Stat. 753; Pub. L. 115–334, title II, §2821(d), Dec. 20, 2018, 132 Stat. 4603.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Food Security Act of 1985, referred to in subsecs. (a)(1)(B)(i)(I) and (c)(2)(E)(i), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Title XII of the Act is classified principally to this chapter. Subtitle H of the Food Security Act of 1985 probably means subtitle H (§1265 et seq.) of title XII of Pub. L. 99–198, which is classified generally to subchapter VII of this chapter. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of Title 7, Agriculture, and Tables.
+The Food Security Act of 1985, referred to in subsecs. (a)(1)(B)(i)(I) and (c)(2)(E)(i), is Pub. L. 99–198, Dec. 23,1985, 99 Stat. 1354. Title XII of the Act is classified principally to this chapter. Subtitle H of the Food Security Act of 1985 probably means subtitle H (§1265 et seq.) of title XII of Pub. L. 99–198, which is classified generally to subchapter VII of this chapter. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of Title 7, Agriculture, and Tables.
 
 The Federal Crop Insurance Act, referred to in subsec. (c)(2)(E)(ii), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§1501 et seq.) of chapter 36 of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1501 of Title 7 and Tables.
 
@@ -174,7 +176,7 @@ Section 207 of the Energy and Water Development Appropriations Act, 2003, referr
 
 Section 208 of the Energy and Water Development Appropriations Act, 2006, referred to in subsec. (d)(3)(B)(iii), is section 208 of Pub. L. 109–103, title II, Nov. 19, 2005, 119 Stat. 2268, which is not classified to the Code.
 
-Section 208 of the Energy and Water Development and Related Agencies Appropriations Act, 2010, referredto in subsec. (d)(3)(B)(iv), is section 208 of Pub. L. 111–85, title II, Oct. 28, 2009, 123 Stat. 2858, which is not classified to the Code.
+Section 208 of the Energy and Water Development and Related Agencies Appropriations Act, 2010, referred to in subsec. (d)(3)(B)(iv), is section 208 of Pub. L. 111–85, title II, Oct. 28, 2009, 123 Stat. 2858, which is not classified to the Code.
 
 #### Codification
 
@@ -203,6 +205,8 @@ Subsec. (b)(3). Pub. L. 112–74, §208(a)(3), struck out "in the Walker River B
 <b>2008</b>—Subsec. (a). Pub. L. 110–246, §2807(1), substituted "Transfer" for "In general" in heading and "Subject to subsection (b) and paragraph (1) of section 207(a) of Public Law 108–7 (117 Stat. 146), notwithstanding paragraph (3) of that section, on the date of enactment of the Food, Conservation, and Energy Act of 2008, the Secretary of Agriculture shall transfer $175,000,000" for "Subject to subsection (b), as soon as practicable after the date of enactment of this Act, the Secretary of Agriculture shall transfer $200,000,000" in text and deleted quotation marks before "(1)" and "(2)".
 
 Subsec. (b). Pub. L. 110–246, §2807(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: "The funds described in subsection (a) shall not be used to purchase or lease water rights."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Funds
 

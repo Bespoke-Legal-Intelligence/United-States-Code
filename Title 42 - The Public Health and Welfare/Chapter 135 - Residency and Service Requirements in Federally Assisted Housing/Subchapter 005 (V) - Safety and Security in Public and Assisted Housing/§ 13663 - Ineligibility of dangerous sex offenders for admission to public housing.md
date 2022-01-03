@@ -14,7 +14,7 @@ As provided in regulations issued by the Secretary to carry out this section—
 
 #### (c) Requests by owners for PHAs to obtain information
 
-A public housing agency may take any action under subsection (b) regarding applicants for, or tenants of, federally assisted housing other than federally assisted housing described in subparagraph (A) or (B) of section 13664(a)(2) of this title, but only if the housing is located within the jurisdiction of the agency and the owner of such housing has requested that the agency take such action on behalf of the owner. Upon such a request by the owner, the agency shall take the action requested under subsection (b). The agency may not make any information obtained pursuant to the action under subsection (b) available to the owner but shall perform determinations for the owner regarding screening, lease enforcement, and eviction based on criteria supplied by the owner.
+A public housing agency may take any action under subsection (b) regarding applicants for, or tenants of, federally assisted housing other than federally assisted housing described in subparagraph (A) or (B) of section 13664(a)(2) of this title, but only if the housing is located withinthe jurisdiction of the agency and the owner of such housing has requested that the agency take such action on behalf of the owner. Upon such a request by the owner, the agency shall take the action requested under subsection (b). The agency may not make any information obtained pursuant to the action under subsection (b) available to the owner but shall perform determinations for the owner regarding screening, lease enforcement, and eviction based on criteria supplied by the owner.
 
 #### (d) Opportunity to dispute
 
@@ -36,9 +36,13 @@ Each public housing agency shall establish and implement a system of records man
 
 (Pub. L. 105–276, title V, §578, Oct. 21, 1998, 112 Stat. 2641.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Quality Housing and Work Responsibility Act of 1998, and not as part of subtitles C to F of title VI of Pub. L. 102–550 which comprise this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

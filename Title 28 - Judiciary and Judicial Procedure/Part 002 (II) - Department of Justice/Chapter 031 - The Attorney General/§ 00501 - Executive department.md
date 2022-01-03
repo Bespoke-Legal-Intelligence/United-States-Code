@@ -58,7 +58,7 @@ Duties.—The Servicemembers and Veterans Initiative shall—
 
 &emsp;"(6) serve as a liaison and point of contact with the Consumer Protection Branch of the Civil Division of the Department of Justice, with respect to the prosecution of Federal crimes involving fraud that target servicemembers; and
 
-&emsp;"(7) serve as a liaison and point of contact with other components of the Department of Justice asneeded to support the enforcement of other Federal laws that protect servicemembers and veterans, as the Attorney General determines appropriate."
+&emsp;"(7) serve as a liaison and point of contact with other components of the Department of Justice as needed to support the enforcement of other Federal laws that protect servicemembers and veterans, as the Attorney General determines appropriate."
 
 #### Office of Justice for Victims of Overseas Terrorism
 

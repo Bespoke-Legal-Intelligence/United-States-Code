@@ -12,13 +12,15 @@ In all cases of seizure of any goods, wares, or merchandise as being subject to 
 
 #### (3) Execution of bond by claimant
 
-&emsp;Any person claiming the goods, wares, or merchandise so seized, within the time specified in the notice, may file with the Secretary a claim, stating his interest in the articles seized, and may execute a bond to the United States in the penal sum of $2,500, conditionedthat, in case of condemnation of the articles so seized, the obligors shall pay all the costs and expenses of the proceedings to obtain such condemnation; and upon the delivery of such bond to the Secretary, he shall transmit the same, with the duplicate list or description of the goods seized, to the United States attorney for the district, and such attorney shall proceed thereon in the ordinary manner prescribed by law.
+&emsp;Any person claiming the goods, wares, or merchandise so seized, within the time specified in the notice, may file with the Secretary a claim, stating his interest in the articles seized, and may execute a bond to the United States in the penal sum of $2,500, conditioned that, in case of condemnation of the articles so seized, the obligors shall pay all the costsand expenses of the proceedings to obtain such condemnation; and upon the delivery of such bond to the Secretary, he shall transmit the same, with the duplicate list or description of the goods seized, to the United States attorney for the district, and such attorney shall proceed thereon in the ordinary manner prescribed by law.
 
 #### (4) Sale in absence of bond
 
 &emsp;If no claim is interposed and no bond is given within the time above specified, the Secretary shall give reasonable notice of the sale of the goods, wares, or merchandise by publication, and, at the time and place specified in the notice, shall, unless otherwise provided by law, sell the articles so seized at public auction, or upon competitive bids, in accordance with such regulations as may be prescribed by the Secretary.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 870; Pub. L. 85–859, title II, §204(10), (12), Sept. 2, 1958, 72 Stat. 1429; Pub. L. 85–866, title I, §78, Sept. 2, 1958, 72 Stat. 1662; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title XV, §1566(a), (b), Oct. 22, 1986, 100 Stat. 2763.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -29,6 +31,8 @@ In all cases of seizure of any goods, wares, or merchandise as being subject to 
 <b>1958</b>—Pub. L. 85–866 struck out "district" before "attorney" in par. (3).
 
 Pub. L. 85–859 substituted "$2,500" for "$1,000" in section catchline, opening par., and par. (2), and inserted ", unless otherwise provided by law," before "sell the articles" in par. (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

@@ -50,7 +50,7 @@ The Commissioner of U.S. Customs and Border Protection, at the request of an ent
 
 &emsp;In addition to costs described in paragraph (1), a fee agreement for U.S. Customs and Border Protection services at an air port of entry referred to in paragraph (2) may provide for the reimbursement of—
 
-&emsp;&emsp;(A) salaries and expenses of not more than five full-time equivalent U.S. Customs and Border Protection Officers beyond the number of such officers assigned to the port of entry on the date on which the fee agreement was signed;
+&emsp;&emsp;(A) salaries and expenses of not more than five full-time equivalent U.S. Customs andBorder Protection Officers beyond the number of such officers assigned to the port of entry on the date on which the fee agreement was signed;
 
 &emsp;&emsp;(B) salaries and expenses of employees of U.S. Customs and Border Protection, other than the officers referred to in subparagraph (A), to support U.S. Customs and Border Protection officers in performing law enforcement functions; and
 
@@ -78,7 +78,7 @@ The Commissioner of U.S. Customs and Border Protection shall ensure that each fe
 
 #### (1) In general
 
-&emsp;The amount of the fee to be charged under an agreement authorized under subsection (a)shall be paid by each entity requesting U.S. Customs and Border Protection services, and shall be for the full cost of providing such services, including the salaries and expenses of employees and contractors of U.S. Customs and Border Protection, to provide such services and other costs incurred by U.S. Customs and Border Protection relating to such services, such as temporary placement or permanent relocation of such employees and contractors.
+&emsp;The amount of the fee to be charged under an agreement authorized under subsection (a) shall be paid by each entity requesting U.S. Customs and Border Protection services, and shall be for the full cost of providing such services, including the salaries and expenses of employees and contractors of U.S. Customs and Border Protection, to provide such services and other costs incurred by U.S. Customs and Border Protection relating to such services, such as temporary placement or permanent relocation of such employees and contractors.
 
 #### (2) Timing
 

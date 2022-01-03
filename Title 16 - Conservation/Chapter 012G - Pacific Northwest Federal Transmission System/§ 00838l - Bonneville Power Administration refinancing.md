@@ -30,7 +30,7 @@ For the purposes of this section—
 
 &emsp;&emsp;(A) for an old capital investment, a rate determined by the Secretary of the Treasury, taking into consideration prevailing market yields, during the month preceding October 1, 1996, on outstanding interest-bearing obligations of the United States with periods to maturity comparable to the period between October 1, 1996, and the repayment date for the old capital investment; and
 
-&emsp;&emsp;(B) for a new capital investment, a rate determined by the Secretary of the Treasury, taking into consideration prevailing market yields, during the month preceding the beginning of the fiscal year in which the related project, facility, or separable unit or feature is placed in service, on outstanding interest-bearing obligations of the United States with periods to maturity comparable to the period between the beginning of the fiscal year and the repayment date for the new capital investment.
+&emsp;&emsp;(B) for a new capital investment, a rate determined by the Secretary of the Treasury,taking into consideration prevailing market yields, during the month preceding the beginning of the fiscal year in which the related project, facility, or separable unit or feature is placed in service, on outstanding interest-bearing obligations of the United States with periods to maturity comparable to the period between the beginning of the fiscal year and the repayment date for the new capital investment.
 
 #### (b) New principal amounts
 
@@ -134,9 +134,11 @@ In each contract of the Administrator that provides for the Administrator to sel
 
 #### (2) Payment of capital investment
 
-&emsp;Except as provided in subsection (e), this section does not affect the authority of theAdministrator to pay all or a portion of the principal amount associated with a capital investment before the repayment date for the principal amount.
+&emsp;Except as provided in subsection (e), this section does not affect the authority of the Administrator to pay all or a portion of the principal amount associated with a capital investment before the repayment date for the principal amount.
 
 (Pub. L. 104–134, title III, §3201, Apr. 26, 1996, 110 Stat. 1321–350.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

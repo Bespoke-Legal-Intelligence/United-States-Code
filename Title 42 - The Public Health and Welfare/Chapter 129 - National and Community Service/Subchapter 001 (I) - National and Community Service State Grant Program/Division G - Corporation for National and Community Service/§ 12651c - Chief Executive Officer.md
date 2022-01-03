@@ -14,11 +14,15 @@ The Chief Executive Officer shall prescribe such rules and regulations as are ne
 
 (Pub. L. 101–610, title I, §193, as added and amended Pub. L. 103–82, title II, §§202(a), 203(a)(1)(B), Sept. 21, 1993, 107 Stat. 877, 891; Pub. L. 111–13, title I, §1703, Apr. 21, 2009, 123 Stat. 1545.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2009</b>—Subsec. (b). Pub. L. 111–13 inserted ", plus 3 percent" before period at end.
 
 <b>1993</b>—Subsec. (c). Pub. L. 103–82, §203(a)(1)(B), which directed amendment of section 193(c) of subtitle I of the National and Community Service Act of 1990 by substituting "the national service laws" for "this chapter", was executed to subsec. (c) of this section, which is section 193 of subtitle G of title I of the National Community Service Act of 1990, to reflect the probable intent of Congress.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

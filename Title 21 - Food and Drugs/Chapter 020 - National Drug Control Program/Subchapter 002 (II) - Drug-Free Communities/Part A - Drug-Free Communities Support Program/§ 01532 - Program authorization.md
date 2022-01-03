@@ -66,7 +66,7 @@ To be eligible to receive an initial grant or a renewal grant under this part, a
 
 &emsp;&emsp;(B) describe and document the nature and extent of the substance use and misuse problem, which, at a minimum, includes the use and abuse of drugs referenced in section 1523(9)(A) of this title, in the community;
 
-&emsp;&emsp;(C)(i) provide a description of substance use and misuse prevention and treatmentprograms and activities, which, at a minimum, includes programs and activities relating to the use and abuse of drugs referenced in section 1523(9)(A) of this title, in existence at the time of the grant application; and
+&emsp;&emsp;(C)(i) provide a description of substance use and misuse prevention and treatment programs and activities, which, at a minimum, includes programs and activities relating to the use and abuse of drugs referenced in section 1523(9)(A) of this title, in existence at the time of the grant application; and
 
 &emsp;&emsp;(ii) identify substance use and misuse programs and service gaps, which, at a minimum, includes programs and gaps relating to the use and abuse of drugs referenced in section 1523(9)(A) of this title, in the community;
 
@@ -158,7 +158,7 @@ To be eligible to receive an initial grant or a renewal grant under this part, a
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In addition to awarding grants under paragraph (1), to stimulate the development of coalitions in sparsely populated and rural areas, the Administrator, in consultation with the Advisory Commission, may award a grant in accordance with this section to a coalition that represents a county with a population that does not exceed 30,000 individuals. In awarding a grantunder this paragraph, the Administrator may waive any requirement under subsection (a) if the Administrator considers that waiver to be appropriate.
+&emsp;&emsp;&emsp;In addition to awarding grants under paragraph (1), to stimulate the development of coalitions in sparsely populated and rural areas, the Administrator, in consultation with the Advisory Commission, may award a grant in accordance with this section to a coalition that represents a county with a population that does not exceed 30,000 individuals. In awarding a grant under this paragraph, the Administrator may waive any requirement under subsection (a) if the Administrator considers that waiver to be appropriate.
 
 #### (ii) Matching requirement
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Boards To Recommend Officers for Removal From Reserve Active-Status List.—(1) Whenever the Secretary of the military department concerned determines that there are in any reserve component under the jurisdiction of the Secretary too many officers in any grade and competitive category who have at least 30 years of service computed under section 14706 of this title or at least 20 years of service computed under section 12732 of this title, the Secretary may convene a selection board under section 14101(b) of this title to consider officers on the reserve active-status list who are in that grade and competitive category, and who have that amount of service, for the purpose of recommending officers by name for removal from that list.
+Boards To Recommend Officers for Removal From Reserve Active-Status List.—(1) Whenever the Secretary of the military department concerned determines that there are inany reserve component under the jurisdiction of the Secretary too many officers in any grade and competitive category who have at least 30 years of service computed under section 14706 of this title or at least 20 years of service computed under section 12732 of this title, the Secretary may convene a selection board under section 14101(b) of this title to consider officers on the reserve active-status list who are in that grade and competitive category, and who have that amount of service, for the purpose of recommending officers by name for removal from that list.
 
 (2) Except as provided in paragraph (3), the list of officers in a reserve component whose names are submitted to a board under paragraph (1) shall include each officer on the reserve active-status list for that reserve component in the same grade and competitive category whose position on the reserve active-status list is between—
 
@@ -30,6 +30,8 @@ Regulations.—The Secretary of the military department concerned shall prescrib
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2956; amended Pub. L. 113–66, div. A, title V, §503(b), Dec. 26, 2013, 127 Stat. 750.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in sections 3850 and 8850 of this title, prior to repeal by Pub. L. 103–337, §1629(a)(3), (c)(3).
@@ -39,6 +41,8 @@ Provisions similar to those in this section were contained in sections 3850 and 
 <b>2013</b>—Subsec. (a). Pub. L. 113–66, §503(b)(1), designated existing provisions as par. (1), substituted "officers on the reserve active-status list" for "all officers on that list" and "that list." for "the reserve active-status list, in the number specified by the Secretary by each grade and competitive category." in par. (1), and added pars. (2) and (3).
 
 Subsecs. (b) to (d). Pub. L. 113–66, §503(b)(2), (3), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

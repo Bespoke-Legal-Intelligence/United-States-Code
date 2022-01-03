@@ -36,7 +36,7 @@ Audit.—The Secretary shall—
 
 &emsp;&emsp;&emsp;(ii) for casting fine gold and silver bars (within the limit prescribed for refining), except that any waste allowance under this clause may not apply to deposit operations.
 
-(c) After settlement, the Secretary shall compare the amount of gold and silver bullion andcoins on hand with the total liabilities of the mints. The Secretary also shall make a statement of the ordinary expense account.
+(c) After settlement, the Secretary shall compare the amount of gold and silver bullion and coins on hand with the total liabilities of the mints. The Secretary also shall make a statement of the ordinary expense account.
 
 (d) The Secretary shall procure for each mint a series of standard weights corresponding to the standard troy pound of the National Institute of Standards and Technology of the Department of Commerce. The series shall include a one pound weight and multiples and subdivisions of one pound from .01 grain to 25 pounds. At least once a year, the Secretary shall test the weights normally used in transactions at the mints against the standard weights.
 

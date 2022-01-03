@@ -46,7 +46,7 @@
 
 &emsp;&emsp;Funds reserved under subparagraph (A) by a local educational agency shall be used to carry out activities and strategies consistent with the local educational agency's parent and family engagement policy, including not less than 1 of the following:
 
-&emsp;&emsp;&emsp;(i) Supporting schools and nonprofit organizations in providing professional development for local educational agencyand school personnel regarding parent and family engagement strategies, which may be provided jointly to teachers, principals, other school leaders, specialized instructional support personnel, paraprofessionals, early childhood educators, and parents and family members.
+&emsp;&emsp;&emsp;(i) Supporting schools and nonprofit organizations in providing professional development for local educational agency and school personnel regarding parent and family engagement strategies, which may be provided jointly to teachers, principals, other school leaders, specialized instructional support personnel, paraprofessionals, early childhood educators, and parents and family members.
 
 &emsp;&emsp;&emsp;(ii) Supporting programs that reach parents and family members at home, in the community, and at school.
 
@@ -60,7 +60,7 @@
 
 #### (1) In general
 
-&emsp;Each school served under this part shall jointly develop with, and distribute to, parents and family members of participating children a written parent and family engagement policy, agreed on by such parents, that shall describe the means for carrying out the requirements of subsections (c) through (f). Parents shall be notified of the policy in an understandable and uniform format and, to the extent practicable, provided in a language the parents can understand. Such policy shall be made available to the local community and updated periodically to meet the changing needs of parents and the school.
+&emsp;Each school served under this part shall jointly develop with, and distribute to, parents and family members of participating children a written parent and family engagement policy, agreed on by such parents, that shall describe the means for carrying out the requirements of subsections (c) through (f). Parentsshall be notified of the policy in an understandable and uniform format and, to the extent practicable, provided in a language the parents can understand. Such policy shall be made available to the local community and updated periodically to meet the changing needs of parents and the school.
 
 #### (2) Special rule
 
@@ -98,7 +98,7 @@ Each school served under this part shall—
 
 As a component of the school-level parent and family engagement policy developed under subsection (b), each school served under this part shall jointly develop with parents for all children served under this part a school-parent compact that outlines how parents, the entire school staff, and students will share the responsibility for improved student academic achievement and the means by which the school and parents will build and develop a partnership to help children achieve the State's high standards. Such compact shall—
 
-&emsp;(1) describe the school's responsibility to provide high-quality curriculum and instruction in a supportive and effective learning environment that enables the children served under this part to meet the challenging State academic standards, and the ways in which each parent will be responsible for supporting their children's learning; volunteering in their child's classroom; and participating, as appropriate, in decisions relating to the educationof their children and positive use of extracurricular time; and
+&emsp;(1) describe the school's responsibility to provide high-quality curriculum and instruction in a supportive and effective learning environment that enables the children served under this part to meet the challenging State academic standards, and the ways in which each parent will be responsible for supporting their children's learning; volunteering in their child's classroom; and participating, as appropriate, in decisions relating to the education of their children and positive use of extracurricular time; and
 
 &emsp;(2) address the importance of communication between teachers and parents on an ongoing basis through, at a minimum—
 
@@ -114,7 +114,7 @@ As a component of the school-level parent and family engagement policy developed
 
 To ensure effective involvement of parents and to support a partnership among the school involved, parents, and the community to improve student academic achievement, each school and local educational agency assisted under this part—
 
-&emsp;(1) shall provide assistance to parents of children served by the school or local educational agency, as appropriate, in understanding such topics as the challenging State academic standards, State and local academic assessments, the requirements of this part, and how to monitor a child's progress and work with educators to improve the achievement of their children;
+&emsp;(1) shall provide assistance to parents of children served by the school or local educational agency, as appropriate, in understanding such topics as the challenging State academic standards, State and local academic assessments, the requirements of this part, and how to monitor a child's progress andwork with educators to improve the achievement of their children;
 
 &emsp;(2) shall provide materials and training to help parents to work with their children to improve their children's achievement, such as literacy training and using technology (including education about the harms of copyright piracy), as appropriate, to foster parental involvement;
 
@@ -156,9 +156,11 @@ The State educational agency shall review the local educational agency's parent 
 
 (Pub. L. 89–10, title I, §1116, formerly §1118, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1501; renumbered §1116 and amended Pub. L. 114–95, title I, §§1000(2), 1010, Dec. 10, 2015, 129 Stat. 1814, 1868.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
-A prior section 6318, Pub. L. 89–10, title I, §1117, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat.3548, related to State assistance for school support and improvement, prior to the general amendment of this subchapter by Pub. L. 107–110.
+A prior section 6318, Pub. L. 89–10, title I, §1117, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3548, related to State assistance for school support and improvement, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 A prior section 1116 of Pub. L. 89–10 was classified to section 6316 of this title, prior to repeal by Pub. L. 114–95.
 
@@ -215,6 +217,8 @@ Subsec. (f). Pub. L. 114–95, §1010(7), added subsec. (f) and struck out forme
 Subsec. (g). Pub. L. 114–95, §1010(8), added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: "In a State where a parental information and resource center is established to provide training, information, and support to parents and individuals who work with local parents, local educational agencies, and schools receiving assistance under this part, each local educational agency or school that receives assistance under this part and is located in the State shall assist parents and parental organizations by informing such parents and organizations of the existence and purpose of such centers."
 
 Subsec. (h). Pub. L. 114–95, §1010(9), substituted "parent and family engagement policies" for "parental involvement policies".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

@@ -74,7 +74,7 @@
 
 #### (i) Event contracts
 
-&emsp;&emsp;&emsp;In connection with the listing of agreements, contracts, transactions, or swaps inexcluded commodities that are based upon the occurrence, extent of an occurrence, or contingency (other than a change in the price, rate, value, or levels of a commodity described in section 1a(2)(i) <sup>2</sup> of this title), by a designated contract market or swap execution facility, the Commission may determine that such agreements, contracts, or transactions are contrary to the public interest if the agreements, contracts, or transactions involve—
+&emsp;&emsp;&emsp;In connection with the listing of agreements, contracts, transactions, or swaps in excluded commodities that are based upon the occurrence, extent of an occurrence, or contingency (other than a change in the price, rate, value, or levels of a commodity described in section 1a(2)(i) <sup>2</sup> of this title), by a designated contract market or swap execution facility, the Commission maydetermine that such agreements, contracts, or transactions are contrary to the public interest if the agreements, contracts, or transactions involve—
 
 &emsp;&emsp;&emsp;&emsp;(I) activity that is unlawful under any Federal or State law;
 
@@ -126,6 +126,8 @@ Consistent with this chapter, each designated contract market and registered der
 
 (Sept. 21, 1922, ch. 369, §5c, as added and amended Pub. L. 106–554, §1(a)(5) \[title I, §113, title II, §251(h)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–399, 2763A–444; Pub. L. 110–234, title XIII, §§13105(e), (f), 13203(i)–(k), May 22, 2008, 122 Stat. 1434, 1440, 1441; Pub. L. 110–246, §4(a), title XIII, §§13105(e), (f), 13203(i)–(k), June 18, 2008, 122 Stat. 1664, 2196, 2202, 2203; Pub. L. 111–203, title VII, §§717(d), 721(e)(7), 745, 749(c), July 21, 2010, 124 Stat. 1652, 1671, 1735, 1747.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (c)(5)(A), was in the original "this subtitle", and was translated as reading "this Act" to reflect the probable intent of Congress.
@@ -154,7 +156,7 @@ Subsec. (f)(1). Pub. L. 111–203, §749(c)(2), substituted "section 6d(e) of th
 
 Pub. L. 110–246, §13105(e), substituted "7a–1(c)(2)" for "7a–1(d)(2)".
 
-Subsec. (b)(1). Pub. L. 110–246, §13203(j)(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: "A contract market or derivatives transaction execution facility may comply with any applicable core principle through delegation of any relevant function to a registered futures association or another registered entity."
+Subsec. (b)(1). Pub. L. 110–246, §13203(j)(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: "A contract market or derivatives transaction execution facility may comply with anyapplicable core principle through delegation of any relevant function to a registered futures association or another registered entity."
 
 Subsec. (b)(2), (3). Pub. L. 110–246, §13203(j)(2), (3), substituted "contract market, derivatives transaction execution facility, or electronic trading facility" for "contract market or derivatives transaction execution facility" wherever appearing.
 
@@ -165,6 +167,8 @@ Pub. L. 110–246, §13105(e), substituted "7a–1(c)(2)" for "7a–1(d)(2)" in 
 Subsec. (f)(1). Pub. L. 110–246, §13105(f), substituted "6d(c)" for "6d(3)".
 
 <b>2000</b>—Subsec. (f). Pub. L. 106–554, §1(a)(5) \[title II, §251(h)\], added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

@@ -6,7 +6,7 @@ Not later than 30 days after the effective date of any modification to a regulat
 
 #### (b) Sense of Congress
 
-It is the sense of Congress that the Secretary of Homeland Security, not later than 180 days after each effective date described in subsection (a), should make necessary updates to the appropriate application forms of the Department of Homeland Security.
+It is the sense of Congress that the Secretary of Homeland Security, not later than 180 daysafter each effective date described in subsection (a), should make necessary updates to the appropriate application forms of the Department of Homeland Security.
 
 (Pub. L. 110–251, §3, June 26, 2008, 122 Stat. 2320.)
 

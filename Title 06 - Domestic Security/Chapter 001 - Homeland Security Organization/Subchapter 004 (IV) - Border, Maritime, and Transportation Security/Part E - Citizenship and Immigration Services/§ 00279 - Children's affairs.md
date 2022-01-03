@@ -72,7 +72,7 @@ Nothing in this section may be construed to transfer the responsibility for adju
 
 #### (d) Effective date
 
-Notwithstanding section 4,<sup>1</sup> this section shall take effect on the date on which the transfer of functions specified under section 251 of this title takes effect.
+Notwithstanding section 4,<sup>1</sup> this section shall take effect on the date on which the transfer offunctions specified under section 251 of this title takes effect.
 
 #### (e) References
 
@@ -94,7 +94,7 @@ With respect to any function transferred by this section, any reference in any o
 
 #### (3) Transfer and allocation of appropriations and personnel
 
-&emsp;The personnel of the Department of Justice employed in connection with the functionstransferred by this section, and the assets, liabilities, contracts, property, records, and unexpended balance of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available to, or to be made available to, the Immigration and Naturalization Service in connection with the functions transferred by this section, subject to section 1531 of title 31, shall be transferred to the Director of the Office of Refugee Resettlement for allocation to the appropriate component of the Department of Health and Human Services. Unexpended funds transferred pursuant to this paragraph shall be used only for the purposes for which the funds were originally authorized and appropriated.
+&emsp;The personnel of the Department of Justice employed in connection with the functions transferred by this section, and the assets, liabilities, contracts, property, records, and unexpended balance of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available to, or to be made available to, the Immigration and Naturalization Service in connection with the functions transferred by this section, subject to section 1531 of title 31, shall be transferred to the Director of the Office of Refugee Resettlement for allocation to the appropriate component of the Department of Health and Human Services. Unexpended funds transferred pursuant to this paragraph shall be used only for the purposes for which the funds were originally authorized and appropriated.
 
 #### (g) Definitions
 
@@ -146,7 +146,7 @@ Bureau of Border Security, referred to in subsec. (b)(2)(A), changed to Bureau o
 
 #### Notification of Use of Unlicensed Influx Facility
 
-Pub. L. 116–260, div. H, title II, §233, Dec. 27, 2020, 134 Stat. 1596, provided that: "In addition to the existing Congressional notification for formal site assessments of potential influx facilities, the Secretary \[of Health and Human Services\] shall notify the Committees on Appropriations of the House of Representatives and the Senate at least 15 days before operationalizing an unlicensed facility, and shall (1) specify whether the facility is hard-sided or soft-sided, and (2) provide analysis that indicates that, in the absence of the influx facility, the likely outcome is that unaccompanied alien children will remain in the custody of the Department of Homeland Security for longer than 72 hours or that unaccompanied alien children will be otherwise placed in danger. Within 60 days of bringing such a facility online, and monthly thereafter, the Secretary shall provide to the Committees on Appropriations of the House of Representatives and the Senate a report detailing the total number of children in care at the facility, the average length of stay and average length of care of children at the facility, and, for any child that has been at the facility for more than 60 days, their length of stay and reason for delay in release."
+Pub. L. 116–260, div. H, title II, §233, Dec. 27, 2020, 134 Stat. 1596, provided that: "In addition to the existing Congressional notification for formal site assessments of potential influx facilities, the Secretary \[of Health and Human Services\] shall notify the Committees on Appropriations of the House of Representatives and the Senate at least 15 days before operationalizing an unlicensed facility, and shall (1) specify whether the facility is hard-sided or soft-sided, and (2) provide analysis that indicates that, in the absence of the influx facility, the likely outcome is that unaccompanied alien children will remain in the custody of the Department of Homeland Security for longer than 72 hours or that unaccompanied alien children will be otherwise placed in danger. Within 60 days of bringing such a facility online, and monthly thereafter, the Secretary shall provide to the Committees on Appropriations of the House of Representatives and the Senate a report detailing the total number of children in care at the facility, the average length of stay and average length of care ofchildren at the facility, and, for any child that has been at the facility for more than 60 days, their length of stay and reason for delay in release."
 
 Similar provisions were contained in the following prior appropriation act:
 

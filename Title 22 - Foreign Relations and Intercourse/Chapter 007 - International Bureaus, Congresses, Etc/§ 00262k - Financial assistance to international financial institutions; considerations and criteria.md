@@ -24,7 +24,7 @@ More specifically, the following criteria should be considered as a basis for a 
 
 #### (d) International financial institutions
 
-The international financial institutions referred to in subsections (a) and (b) are the International Monetary Fund, the International Bank for Reconstruction and Development, the International Development Association, the Inter-American Development Bank, the AsianDevelopment Bank, and the African Development Bank.
+The international financial institutions referred to in subsections (a) and (b) are the International Monetary Fund, the International Bank for Reconstruction and Development, the International Development Association, the Inter-American Development Bank, the Asian Development Bank, and the African Development Bank.
 
 (Pub. L. 99–88, title I, §502, Aug. 15, 1985, 99 Stat. 330; Pub. L. 102–285, §10(b), May 18, 1992, 106 Stat. 172.)
 

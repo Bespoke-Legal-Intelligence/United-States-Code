@@ -2,7 +2,7 @@
 
 #### (a) Property under lease or license agreement
 
-The Commission shall offer for disposal all real property (including such improvementsthereon and such fixtures, equipment, and other personal property incident thereto as it may deem appropriate) within the community which is presently under lease or license agreement with the Commission or its community management contractor for residential, commercial or industrial, agricultural, church or other nonprofit use, or which, in the opinion of the Commission, is appropriate for such use, other than—
+The Commission shall offer for disposal all real property (including such improvements thereon and such fixtures, equipment, and other personal property incident thereto as it may deem appropriate) within the community which is presently under lease or license agreement with the Commission or its community management contractor for residential, commercial or industrial, agricultural, church or other nonprofit use, or which, in the opinion of the Commission, is appropriate for such use, other than—
 
 &emsp;(1) structures which in the opinion of the Commission should be removed from the community because of their unsatisfactory type of construction, condition, or location; or
 
@@ -20,9 +20,13 @@ Such property shall be disposed of on such terms and conditions, consistent with
 
 (Aug. 4, 1955, ch. 543, ch. 5, §52, 69 Stat. 476; Pub. L. 87–719, §9, Sept. 28, 1962, 76 Stat. 665.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1962</b>—Subsec. (a). Pub. L. 87–719 added cl. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

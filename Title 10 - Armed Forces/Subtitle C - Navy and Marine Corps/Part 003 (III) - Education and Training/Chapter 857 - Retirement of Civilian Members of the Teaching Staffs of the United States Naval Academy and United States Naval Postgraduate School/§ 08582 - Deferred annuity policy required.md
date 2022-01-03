@@ -20,6 +20,8 @@ Jan. 16, 1936, ch. 3, §1, 49 Stat. 1092.
 
 The words "whose employment commences from and after the date of approval of this act" are omitted as surplusage. Under §4 of the Act, members already employed when the Act was approved were given 60 days in which to decide whether or not they wished to participate in the benefits provided by the Act. Those who chose not to participate are excluded from the application of this chapter by §7081 of this title.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 8582, act Aug. 10, 1956, ch. 1041, 70A Stat. 531, provided that a retired officer has no right to command except when on active duty, prior to repeal by Pub. L. 96–513, title II, §211, Dec. 12, 1980, 94 Stat. 2885, effective Sept. 15, 1981. See section 750 of this title.
@@ -27,6 +29,8 @@ A prior section 8582, act Aug. 10, 1956, ch. 1041, 70A Stat. 531, provided that 
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7082 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

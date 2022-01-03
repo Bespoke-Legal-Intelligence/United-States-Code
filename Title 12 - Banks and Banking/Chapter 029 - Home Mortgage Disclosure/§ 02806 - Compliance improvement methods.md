@@ -4,7 +4,7 @@
 
 #### (1) Consultation required
 
-&emsp;The Director of the Bureau of Consumer Financial Protection, with the assistance of the Secretary, the Director of the Bureau of the Census, the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, and such other persons as the Bureau deems appropriate, shall develop or assist in the improvement of, methods of matching addresses and census tracts to facilitate compliance by depository institutions inas economical a manner as possible with the requirements of this chapter.
+&emsp;The Director of the Bureau of Consumer Financial Protection, with the assistance of the Secretary, the Director of the Bureau of the Census, the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, and such other persons as the Bureau deems appropriate, shall develop or assist in the improvement of, methods of matching addresses and census tracts to facilitate compliance by depository institutions in as economical a manner as possible with the requirements of this chapter.
 
 #### (2) Authorization of appropriations
 

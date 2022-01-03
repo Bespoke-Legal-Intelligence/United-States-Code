@@ -22,7 +22,7 @@ Term of imprisonment.—A person convicted of a currency smuggling offense under
 
 &emsp;(2)
 
-Forfeiture.—In addition, the court, in imposing sentence under paragraph (1), shallorder that the defendant forfeit to the United States, any property, real or personal, involved in the offense, and any property traceable to such property.
+Forfeiture.—In addition, the court, in imposing sentence under paragraph (1), shall order that the defendant forfeit to the United States, any property, real or personal, involved in the offense, and any property traceable to such property.
 
 &emsp;(3)
 

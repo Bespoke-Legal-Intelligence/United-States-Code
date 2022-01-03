@@ -8,7 +8,7 @@ There is authorized to be appropriated not to exceed $10,000,000, for the Secret
 
 (1) From the sums authorized for expenditure under this section for crime prevention, the Secretary is authorized to make grants and loans to States and local public bodies or agencies for the purpose of increasing the safety of public transportation by—
 
-&emsp;(A) increasing lighting within or adjacent to public transportation systems, including busstops, subway stations, parking lots, or garages;
+&emsp;(A) increasing lighting within or adjacent to public transportation systems, including bus stops, subway stations, parking lots, or garages;
 
 &emsp;(B) increasing camera surveillance of areas within and adjacent to public transportation systems, including bus stops, subway stations, parking lots, or garages;
 

@@ -10,7 +10,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Any information concerning a United States person acquired under section 1881a of this title shall not be used in evidence against that United States person pursuant to paragraph (1) in any criminal proceeding unless—
+&emsp;&emsp;Any information concerning a United States person acquired under section 1881a of this title shall not be used in evidenceagainst that United States person pursuant to paragraph (1) in any criminal proceeding unless—
 
 &emsp;&emsp;&emsp;(i) the Federal Bureau of Investigation obtained an order of the Foreign Intelligence Surveillance Court to access such information pursuant to section 1881a(f)(2) of this title; or
 
@@ -50,9 +50,13 @@ Information acquired from an acquisition conducted under section 1881b of this t
 
 <i>Pub. L. 110–261, title IV, §403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(a)(1), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, §201(a)(1), Jan. 19, 2018, 132 Stat. 19, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a note under section 1801 of this title, effective Dec. 31, 2023, this section is repealed.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–118 designated existing provisions as par. (1), inserted par. heading, and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of Repeal
 

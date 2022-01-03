@@ -20,7 +20,7 @@ Authorized Activities.—This section does not prevent any lawfully authorized i
 
 (d)
 
-Immunity for Theaters.—With reasonable cause, the owner or lessee of a motion picture exhibition facility where a motion picture or other audiovisual work is being exhibited, theauthorized agent or employee of such owner or lessee, the licensor of the motion picture or other audiovisual work being exhibited, or the agent or employee of such licensor—
+Immunity for Theaters.—With reasonable cause, the owner or lessee of a motion picture exhibition facility where a motion picture or other audiovisual work is being exhibited, the authorized agent or employee of such owner or lessee, the licensor of the motion picture or other audiovisual work being exhibited, or the agent or employee of such licensor—
 
 &emsp;(1) may detain, in a reasonable manner and for a reasonable time, any person suspected of a violation of this section with respect to that motion picture or audiovisual work for the purpose of questioning or summoning a law enforcement officer; and
 
@@ -70,5 +70,5 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (e)(1), are set 
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b). Pub. L. 110–403 amended subsec. (b) generally. Prior to amendment, text read as follows: "When a person is convicted of a violation of subsection (a), the court in its judgment of conviction shall, in addition to any penalty provided, order the forfeiture and destruction or other disposition of all unauthorized copies of motion pictures or other audiovisual works protected under title 17, or parts thereof, and any audiovisual recording devices or other equipment used in connection with the offense."
+<b>2008</b>—Subsec. (b). Pub. L. 110–403 amended subsec. (b) generally. Prior to amendment, text read as follows:"When a person is convicted of a violation of subsection (a), the court in its judgment of conviction shall, in addition to any penalty provided, order the forfeiture and destruction or other disposition of all unauthorized copies of motion pictures or other audiovisual works protected under title 17, or parts thereof, and any audiovisual recording devices or other equipment used in connection with the offense."
 

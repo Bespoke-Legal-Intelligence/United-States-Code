@@ -126,7 +126,7 @@ In this section:
 
 #### (4) Roles and responsibility of lead agency
 
-&emsp;With respect to the environmental review process for any project study, the Federal leadagency shall have authority and responsibility—
+&emsp;With respect to the environmental review process for any project study, the Federal lead agency shall have authority and responsibility—
 
 &emsp;&emsp;(A) to take such actions as are necessary and proper and within the authority of the Federal lead agency to facilitate the expeditious resolution of the environmental review process for the project study; and
 
@@ -314,7 +314,7 @@ In this section:
 
 #### (B) Other environmental review processes
 
-&emsp;&emsp;For all other comment periods established by the Federal lead agency for agency orpublic comments in the environmental review process, a period of not more than 30 days after the date on which the materials on which comment is requested are made available, unless—
+&emsp;&emsp;For all other comment periods established by the Federal lead agency for agency or public comments in the environmental review process, a period of not more than 30 days after the date on which the materials on which comment is requested are made available, unless—
 
 &emsp;&emsp;&emsp;(i) a different deadline is established by agreement of the Federal lead agency, the project sponsor, or joint lead agency, as applicable, and all participating and cooperating agencies; or
 
@@ -346,7 +346,7 @@ In this section:
 
 #### (1) Cooperation
 
-&emsp;The Federal lead agency, the cooperating agencies, and any participating agencies shall work cooperatively in accordance with this section to identify and resolve issues that could delay completion of the environmental review process or result in the denial of any approval required for the project study under applicable laws.
+&emsp;The Federal lead agency, the cooperating agencies, and any participating agencies shall work cooperatively in accordance with this section to identify and resolve issues that could delay completion of the environmentalreview process or result in the denial of any approval required for the project study under applicable laws.
 
 #### (2) Federal lead agency responsibilities
 
@@ -386,7 +386,7 @@ In this section:
 
 #### (E) Convention by Secretary
 
-&emsp;&emsp;The Secretary may convene an issue resolution meeting under this paragraph at anytime, at the discretion of the Secretary, regardless of whether a meeting is requested under subparagraph (A).
+&emsp;&emsp;The Secretary may convene an issue resolution meeting under this paragraph at any time, at the discretion of the Secretary, regardless of whether a meeting is requested under subparagraph (A).
 
 #### (5) Financial penalty provisions
 
@@ -420,7 +420,7 @@ In this section:
 
 #### (ii) Failure to decide
 
-&emsp;&emsp;&emsp;The total amount transferred in a fiscal year as a result of a failure by an agency to make a decision by an applicable deadline shall not exceed an amount equal to 5 percent of the funds made available for the applicable agency office for that fiscal year.
+&emsp;&emsp;&emsp;The total amount transferred in a fiscal year as a result of a failure by an agency to make a decision by an applicable deadline shall not exceed an amount equal to 5percent of the funds made available for the applicable agency office for that fiscal year.
 
 #### (iii) Aggregate
 
@@ -486,7 +486,7 @@ Nothing in this section preempts or interferes with—
 
 &emsp;(3) any requirement for seeking, considering, or responding to public comment; or
 
-&emsp;(4) any power, jurisdiction, responsibility, duty, or authority that a Federal, State, or local governmental agency, Indian tribe, or project sponsor has with respect to carrying out a project or any other provision of law applicable to projects.
+&emsp;(4) any power, jurisdiction, responsibility, duty, or authority that a Federal, State, or local governmental agency, Indian tribe, or project sponsor has with respect to carryingout a project or any other provision of law applicable to projects.
 
 #### (k) Timing of claims
 
@@ -570,7 +570,7 @@ The Water Resources Reform and Development Act of 2014, referred to in subsec. (
 
 #### Codification
 
-Section was enacted as part of the Water Resources Development Act of 2007, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+Section was enacted as part of the Water Resources Development Act of 2007, and not as part of the WaterResources Development Act of 1986 which comprises this chapter.
 
 #### Amendments
 

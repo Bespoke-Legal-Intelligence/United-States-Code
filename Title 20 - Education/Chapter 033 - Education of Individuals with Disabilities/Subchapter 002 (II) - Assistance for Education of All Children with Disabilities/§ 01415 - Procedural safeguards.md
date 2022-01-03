@@ -190,7 +190,7 @@ The procedures required by this section shall include the following:
 
 &emsp;&emsp;&emsp;(i) is voluntary on the part of the parties;
 
-&emsp;&emsp;&emsp;(ii) is not used to deny or delay a parent's right to a due process hearing undersubsection (f), or to deny any other rights afforded under this subchapter; and
+&emsp;&emsp;&emsp;(ii) is not used to deny or delay a parent's right to a due process hearing under subsection (f), or to deny any other rights afforded under this subchapter; and
 
 &emsp;&emsp;&emsp;(iii) is conducted by a qualified and impartial mediator who is trained in effective mediation techniques.
 
@@ -256,7 +256,7 @@ Mediation discussions.—Discussions that occur during the mediation process sha
 
 #### (ii) Hearing
 
-&emsp;&emsp;&emsp;If the local educational agency has not resolved the complaint to the satisfaction of the parents within 30 days of the receipt of the complaint, the due process hearing may occur, and all of the applicable timelines for a due process hearing under this subchapter shall commence.
+&emsp;&emsp;&emsp;If the local educational agency has not resolved the complaint to the satisfactionof the parents within 30 days of the receipt of the complaint, the due process hearing may occur, and all of the applicable timelines for a due process hearing under this subchapter shall commence.
 
 #### (iii) Written settlement agreement
 
@@ -370,7 +370,7 @@ Any party to a hearing conducted pursuant to subsection (f) or (k), or an appeal
 
 #### (A) Decision made in hearing
 
-&emsp;&emsp;A decision made in a hearing conducted pursuant to subsection (f) or (k) shall befinal, except that any party involved in such hearing may appeal such decision under the provisions of subsection (g) and paragraph (2).
+&emsp;&emsp;A decision made in a hearing conducted pursuant to subsection (f) or (k) shall be final, except that any party involved in such hearing may appeal such decision under the provisions of subsection (g) and paragraph (2).
 
 #### (B) Decision made at appeal
 
@@ -500,7 +500,7 @@ Except as provided in subsection (k)(4), during the pendency of any proceedings 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in subparagraph (B), within 10 school days of any decision to change the placement of a child with a disability because of a violation of a code of student conduct, the local educational agency, the parent, and relevant members of the IEP Team (as determined by the parent and the local educational agency) shall review all relevant information in the student's file, including the child's IEP, any teacher observations, and any relevant information provided by the parents to determine—
+&emsp;&emsp;&emsp;Except as provided in subparagraph (B), within 10 school days of any decision tochange the placement of a child with a disability because of a violation of a code of student conduct, the local educational agency, the parent, and relevant members of the IEP Team (as determined by the parent and the local educational agency) shall review all relevant information in the student's file, including the child's IEP, any teacher observations, and any relevant information provided by the parents to determine—
 
 &emsp;&emsp;&emsp;&emsp;(I) if the conduct in question was caused by, or had a direct and substantial relationship to, the child's disability; or
 
@@ -584,7 +584,7 @@ Except as provided in subsection (k)(4), during the pendency of any proceedings 
 
 #### (C) Exception
 
-&emsp;&emsp;A local educational agency shall not be deemed to have knowledge that the child isa child with a disability if the parent of the child has not allowed an evaluation of the child pursuant to section 1414 of this title or has refused services under this subchapter or the child has been evaluated and it was determined that the child was not a child with a disability under this subchapter.
+&emsp;&emsp;A local educational agency shall not be deemed to have knowledge that the child is a child with a disability if the parent of the child has not allowed an evaluation of the child pursuant to section 1414 of this title or has refused services under this subchapter or the child has been evaluated and it was determined that the child was not a child with a disability under this subchapter.
 
 #### (D) Conditions that apply if no basis of knowledge
 
@@ -657,6 +657,8 @@ A parent of a child with a disability may elect to receive notices required unde
 Nothing in this section shall be construed to preclude a parent from filing a separate due process complaint on an issue separate from a due process complaint already filed.
 
 (Pub. L. 91–230, title VI, §615, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2715.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

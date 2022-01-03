@@ -124,7 +124,7 @@ Section 794, added Pub. L. 85–861, §5(2), Sept. 2, 1958, 72 Stat. 1554, autho
 
 Section 795, added Pub. L. 85–861, §5(2), Sept. 2, 1958, 72 Stat. 1555, related to effect of sections 770 to 798 of this title on retirements and retired pay.
 
-Section 796, added Pub. L. 91–402, §1(13), Sept. 18, 1970, 84 Stat. 842; amended Pub. L. 93–174, §2(8), Dec. 5, 1973, 87 Stat. 692, related to failure of selection for promotion.
+Section 796, added Pub. L. 91–402, §1(13), Sept. 18, 1970, 84 Stat. 842; amended Pub. L. 93–174, §2(8), Dec. 5, 1973,87 Stat. 692, related to failure of selection for promotion.
 
 Section 797, added Pub. L. 91–402, §1(13), Sept. 18, 1970, 84 Stat. 842, related to acceptance of promotion and oath of office.
 

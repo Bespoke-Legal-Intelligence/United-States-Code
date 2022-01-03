@@ -28,7 +28,7 @@ This section applies to any civil action or proceeding, including any child cust
 
 #### (c) Penalty for making or using false affidavit
 
-A person who makes or uses an affidavit permitted under subsection (b) (or a statement, declaration, verification, or certificate as authorized under subsection (b)(4)) knowing it to be false, shall be fined as provided in title 18, or imprisoned for not more than one year, or both.
+A person who makes or uses an affidavit permitted under subsection (b) (or a statement,declaration, verification, or certificate as authorized under subsection (b)(4)) knowing it to be false, shall be fined as provided in title 18, or imprisoned for not more than one year, or both.
 
 #### (d) Stay of proceedings
 
@@ -50,7 +50,7 @@ If a servicemember who is a defendant in an action covered by this section recei
 
 #### (1) Authority for court to vacate or set aside judgment
 
-&emsp;If a default judgment is entered in an action covered by this section against aservicemember during the servicemember's period of military service (or within 60 days after termination of or release from such military service), the court entering the judgment shall, upon application by or on behalf of the servicemember, reopen the judgment for the purpose of allowing the servicemember to defend the action if it appears that—
+&emsp;If a default judgment is entered in an action covered by this section against a servicemember during the servicemember's period of military service (or within 60 days after termination of or release from such military service), the court entering the judgment shall, upon application by or on behalf of the servicemember, reopen the judgment for the purpose of allowing the servicemember to defend the action if it appears that—
 
 &emsp;&emsp;(A) the servicemember was materially affected by reason of that military service in making a defense to the action; and
 
@@ -66,6 +66,8 @@ If a court vacates, sets aside, or reverses a default judgment against a service
 
 (Oct. 17, 1940, ch. 888, title II, §201, as added Pub. L. 108–189, §1, Dec. 19, 2003, 117 Stat. 2840; amended Pub. L. 110–181, div. A, title V, §584(a), Jan. 28, 2008, 122 Stat. 128.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 521 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
@@ -79,6 +81,8 @@ Provisions similar to this section were contained in section 200 of act Oct. 17,
 #### Amendments
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–181 inserted ", including any child custody proceeding," after "proceeding".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -1,0 +1,88 @@
+### §18723. Rural and municipal utility advanced cybersecurity grant and technical assistance program
+
+#### (a) Definitions
+
+In this section:
+
+#### (1) Advanced cybersecurity technology
+
+&emsp;The term "advanced cybersecurity technology" means any technology, operational capability, or service, including computer hardware, software, or a related asset, that enhances the security posture of electric utilities through improvements in the ability to protect against, detect, respond to, or recover from a cybersecurity threat (as defined in section 1501 of title 6).
+
+#### (2) Bulk-power system
+
+&emsp;The term "bulk-power system" has the meaning given the term in section 824o(a) of title 16.
+
+#### (3) Eligible entity
+
+&emsp;The term "eligible entity" means—
+
+&emsp;&emsp;(A) a rural electric cooperative;
+
+&emsp;&emsp;(B) a utility owned by a political subdivision of a State, such as a municipally owned electric utility;
+
+&emsp;&emsp;(C) a utility owned by any agency, authority, corporation, or instrumentality of 1 or more political subdivisions of a State;
+
+&emsp;&emsp;(D) a not-for-profit entity that is in a partnership with not fewer than 6 entities described in subparagraph (A), (B), or (C); and
+
+&emsp;&emsp;(E) an investor-owned electric utility that sells less than 4,000,000 megawatt hours of electricity per year.
+
+#### (4) Program
+
+&emsp;The term "Program" means the Rural and Municipal Utility Advanced Cybersecurity Grant and Technical Assistance Program established under subsection (b).
+
+#### (b) Establishment
+
+Not later than 180 days after November 15, 2021, the Secretary, in coordination with the Secretary of Homeland Security and in consultation with the Federal Energy Regulatory Commission, the North American Electric Reliability Corporation, and the Electricity Subsector Coordinating Council, shall establish a program, to be known as the "Rural and Municipal Utility Advanced Cybersecurity Grant and Technical Assistance Program", to provide grants and technical assistance to, and enter into cooperative agreements with, eligible entities to protect against, detect, respond to, and recover from cybersecurity threats.
+
+#### (c) Objectives
+
+The objectives of the Program shall be—
+
+&emsp;(1) to deploy advanced cybersecurity technologies for electric utility systems; and
+
+&emsp;(2) to increase the participation of eligible entities in cybersecurity threat information sharing programs.
+
+#### (d) Awards
+
+#### (1) In general
+
+&emsp;The Secretary—
+
+&emsp;&emsp;(A) shall award grants and provide technical assistance under the Program to eligible entities on a competitive basis;
+
+&emsp;&emsp;(B) shall develop criteria and a formula for awarding grants and providing technical assistance under the Program;
+
+&emsp;&emsp;(C) may enter into cooperative agreements with eligible entities that can facilitate the objectives described in subsection (c); and
+
+&emsp;&emsp;(D) shall establish a process to ensure that all eligible entities are informed about and can become aware of opportunities to receive grants or technical assistance under the Program.
+
+#### (2) Priority for grants and technical assistance
+
+&emsp;In awarding grants and providing technical assistance under the Program, the Secretary shall give priority to an eligible entity that, as determined by the Secretary—
+
+&emsp;&emsp;(A) has limited cybersecurity resources;
+
+&emsp;&emsp;(B) owns assets critical to the reliability of the bulk-power system; or
+
+&emsp;&emsp;(C) owns defense critical electric infrastructure (as defined in section 824o–1(a) of title 16).
+
+#### (e) Protection of information
+
+Information provided to, or collected by, the Federal Government pursuant to this section the disclosure of which the Secretary reasonably foresees could be detrimental to the physical security or cybersecurity of any electric utility or the bulk-power system—
+
+&emsp;(1) shall be exempt from disclosure under section 552(b)(3) of title 5; and
+
+&emsp;(2) shall not be made available by any Federal agency, State, political subdivision of a State, or Tribal authority pursuant to any Federal, State, political subdivision of a State, or Tribal law, respectively, requiring public disclosure of information or records.
+
+#### (f) Authorization of appropriations
+
+There is authorized to be appropriated to the Secretary to carry out this section $250,000,000 for the period of fiscal years 2022 through 2026.
+
+(Pub. L. 117–58, div. D, title I, §40124, Nov. 15, 2021, 135 Stat. 953.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Wage Rate Requirements
+
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of this title.
+

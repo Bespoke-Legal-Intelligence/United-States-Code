@@ -38,7 +38,7 @@ The Secretary shall establish a program, to be known as the "National Landslide 
 
 #### (2) National strategy
 
-&emsp;Not later than 1 year after January 5, 2021, and every 5 years thereafter, the Secretary, incoordination with the Committee, shall develop and publish a national strategy for landslide hazards, risk reduction, and response in the United States (including territories), which shall include—
+&emsp;Not later than 1 year after January 5, 2021, and every 5 years thereafter, the Secretary, in coordination with the Committee, shall develop and publish a national strategy for landslide hazards, risk reduction, and response in the United States (including territories), which shall include—
 
 &emsp;&emsp;(A) goals and priorities for the program;
 

@@ -1,6 +1,6 @@
 ### §5302. Stabilizing exchange rates and arrangements
 
-(a)(1) The Department of the Treasury has a stabilization fund. The fund is available to carry out this section, section 18 of the Bretton Woods Agreement Act (22 U.S.C. 286e–3), section 3 of the Special Drawing Rights Act (22 U.S.C. 286o), and the Coronavirus Economic Stabilization Act of 2020, and for investing in obligations of the United States Government those amounts in the fund the Secretary of the Treasury, with the approval of the President, decides are not required at the time to carry out this section. Proceeds of sales and investments, earnings, and interest shall be paid into the fund and are available to carry out this section. However, the fund is not available to pay administrative expenses.
+(a)(1) The Department of the Treasury has a stabilization fund. The fund is available to carry out this section, section 18 of the Bretton Woods Agreement Act (22 U.S.C. 286e–3), section 3 of the Special Drawing Rights Act (22 U.S.C. 286o), and the Coronavirus Economic Stabilization Act of 2020, and for investing in obligations of the United States Government those amounts in the fund the Secretary of the Treasury, with the approval of the President, decides are not required at the time to carry out this section. Proceeds of sales and investments, earnings, and interest shall be paid into the fund and are available tocarry out this section. However, the fund is not available to pay administrative expenses.
 
 (2) Subject to approval by the President, the fund is under the exclusive control of the Secretary, and may not be used in a way that direct control and custody pass from the President and the Secretary. Decisions of the Secretary are final and may not be reviewed by another officer or employee of the Government.
 
@@ -114,7 +114,7 @@ Contents of Reports.—Each report described in subsection (a) shall contain a d
 
 &emsp;"(4) Actions taken by the Government of Mexico in the development of regulatory policy that significantly affected the performance of the Mexican economy.
 
-&emsp;"(5) Consultations concerning the program approved by the President, including advice on economic, monetary, and fiscal policy, held between theGovernment of Mexico and the Secretary of the Treasury (including any designee of the Secretary) and the conclusions resulting from any periodic reviews undertaken by the International Monetary Fund pursuant to the Fund's loan agreements with Mexico.
+&emsp;"(5) Consultations concerning the program approved by the President, including advice on economic, monetary, and fiscal policy, held between the Government of Mexico and the Secretary of the Treasury (including any designee of the Secretary) and the conclusions resulting from any periodic reviews undertaken by the International Monetary Fund pursuant to the Fund's loan agreements with Mexico.
 
 &emsp;"(6) All outstanding loans, credits, and guarantees provided to the Government of Mexico, by the United States Government, including the Board of Governors of the Federal Reserve System, set forth by category of financing.
 
@@ -164,7 +164,7 @@ Contents of Reports.—Each report described in subsection (a) shall include a d
 
 "(a)
 
-In General.—Notwithstanding any other provision of law, no loan, credit, guarantee, or arrangement for a swap of currencies to Mexico through the exchange stabilization fund or by the Board of Governors of the Federal Reserve System may be extended or (if already extended) further utilized, unless and until the President submits to the appropriate congressional committees a certification that—
+In General.—Notwithstanding any other provision of law, no loan, credit, guarantee, or arrangementfor a swap of currencies to Mexico through the exchange stabilization fund or by the Board of Governors of the Federal Reserve System may be extended or (if already extended) further utilized, unless and until the President submits to the appropriate congressional committees a certification that—
 
 &emsp;"(1) there is no projected cost (as defined in the Credit Reform Act of 1990 \[probably means the Federal Credit Reform Act of 1990, 2 U.S.C. 661 et seq.\]) to the United States from the proposed loan, credit, guarantee, or currency swap;
 

@@ -10,7 +10,7 @@ In order to enable the people of African countries to develop their potential, f
 
 &emsp;(3) to stimulate and assist effective and expanding participation of Africans in their development process; and
 
-&emsp;(4) to encourage the establishment and growth of development institutions which are indigenous to particular countries in Africa and which can respond to the requirements of the poor in those countries.
+&emsp;(4) to encourage the establishment and growth of development institutions which areindigenous to particular countries in Africa and which can respond to the requirements of the poor in those countries.
 
 #### (b) Implementation
 

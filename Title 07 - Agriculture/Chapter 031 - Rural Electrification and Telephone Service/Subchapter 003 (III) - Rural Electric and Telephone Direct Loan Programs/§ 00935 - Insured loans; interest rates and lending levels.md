@@ -46,7 +46,7 @@ Loans made under this section shall be insured by the Secretary when purchased b
 
 &emsp;&emsp;&emsp;Subject to clause (ii), the interest rate described in this subparagraph on a loan to a qualifying applicant shall be—
 
-&emsp;&emsp;&emsp;&emsp;(I) the interest rate determined by the Secretary to be equal to the current market yield on outstanding municipal obligations with remaining periods to maturity similar to the term selected by the applicant pursuant to subparagraph (C), but not greater than the rate determined under section 1927(a)(3)(A) of thistitle that is based on the current market yield on outstanding municipal obligations; plus
+&emsp;&emsp;&emsp;&emsp;(I) the interest rate determined by the Secretary to be equal to the current market yield on outstanding municipal obligations with remaining periods to maturity similar to the term selected by the applicant pursuant to subparagraph (C), but not greater than the rate determined under section 1927(a)(3)(A) of this title that is based on the current market yield on outstanding municipal obligations; plus
 
 &emsp;&emsp;&emsp;&emsp;(II) if the applicant for the loan makes an election pursuant to subparagraph (D) to include in the loan agreement the right of the applicant to prepay the loan, a rate equal to the amount by which—
 
@@ -120,7 +120,7 @@ Loans made under this section shall be insured by the Secretary when purchased b
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may make insured telephone loans for the acquisition, purchase, and installation of telephone lines, systems, and facilities (other than buildings used primarily for administrative purposes, vehicles not used primarily in construction, and customer premise equipment) related to the furnishing, improvement, or extension of ruraltelecommunications service, at an interest rate equal to the then current cost of money to the Government of the United States for loans of similar maturity, but not more than 7 percent per year, to any applicant for a loan who meets the following requirements:
+&emsp;&emsp;The Secretary may make insured telephone loans for the acquisition, purchase, and installation of telephone lines, systems, and facilities (other than buildings used primarily for administrative purposes, vehicles not used primarily in construction, and customer premise equipment) related to the furnishing, improvement, or extension of rural telecommunications service, at an interest rate equal to the then current cost of money to the Government of the United States for loans of similar maturity, but not more than 7 percent per year, to any applicant for a loan who meets the following requirements:
 
 &emsp;&emsp;&emsp;(i) The average number of subscribers per mile of line in the service area of the applicant is not more than 15, or the applicant is capable of producing net income or margins before interest of not less than 100 percent (but not more than 500 percent) of the interest requirements on all of the outstanding and proposed loans of the applicant.
 
@@ -176,6 +176,8 @@ Loans made under this section shall be insured by the Secretary when purchased b
 
 (May 20, 1936, ch. 432, title III, §305, as added Pub. L. 93–32, §2, May 11, 1973, 87 Stat. 68; amended Pub. L. 94–570, §3, Oct. 20, 1976, 90 Stat. 2701; Pub. L. 97–35, title I, §165(a), Aug. 13, 1981, 95 Stat. 379; Pub. L. 101–624, title XXIII, §2361, Nov. 28, 1990, 104 Stat. 4042; Pub. L. 103–129, §2(a)(1), (c)(6), Nov. 1, 1993, 107 Stat. 1356, 1364; Pub. L. 103–354, title II, §235(a)(8), (13), Oct. 13, 1994, 108 Stat. 3221; Pub. L. 115–334, title VI, §6602(b)(8), (9), Dec. 20, 2018, 132 Stat. 4776, 4777.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (d)(2)(B)(i). Pub. L. 115–334, §6602(b)(8)(A), struck out "and a loan under section 948 of this title" after "under this paragraph".
@@ -190,7 +192,7 @@ Subsec. (d)(3)(C). Pub. L. 115–334, §6602(b)(9), substituted "the Secretary" 
 
 Subsec. (a). Pub. L. 103–129, §2(c)(6)(A), inserted heading.
 
-Subsec. (b). Pub. L. 103–129, §2(a)(1)(A), (B), (c)(6)(B), redesignated subsec. (c) as (b), inserted heading, and struck out former subsec. (b) which read as follows: "Insured loans made under this subchapter shall bear interest at 5 per centum per annum, except that theAdministrator may make insured loans to electric or telephone borrowers at a lesser interest rate, but not less than 2 per centum per annum, if, in the Administrator's sole discretion, the Administrator finds that the borrower—
+Subsec. (b). Pub. L. 103–129, §2(a)(1)(A), (B), (c)(6)(B), redesignated subsec. (c) as (b), inserted heading, and struck out former subsec. (b) which read as follows: "Insured loans made under this subchapter shall bear interest at 5 per centum per annum, except that the Administrator may make insured loans to electric or telephone borrowers at a lesser interest rate, but not less than 2 per centum per annum, if, in the Administrator's sole discretion, the Administrator finds that the borrower—
 
 &emsp;"(1) has experienced extreme financial hardship; or
 
@@ -206,13 +208,15 @@ Subsec. (d). Pub. L. 103–129, §2(a)(1)(A), (C), added subsec. (d) and struck 
 
 <b>1976</b>—Subsec. (b). Pub. L. 94–570 struck out from introductory text "meets either of the following conditions" after "borrower which"; limited par. (1) to the telephone borrowers, substituting provision for an average subscriber density of three or fewer per mile at the end of the most recent calendar year ending at least six months before approval of the loan for prior provision for an average consumer or subscriber density of two or fewer per mile; substituted in par. (2) provision, limited to electric borrowers, respecting having an average consumer density of two or fewer per mile or an average adjusted plant revenue ratio of over 9.0 at end of the most recent calendar year ending at least six months before approval of the loan, determination of such ratio, and defining sum of distribution plant and general plant, gross revenue, and cost of power for prior provision for and average gross revenue per mile which is at least $450 below the average gross revenue per mile of REA-financed electric systems, in the case of electric borrowers, or at least $300 below the average gross revenue per mile of REA-financed telephone systems, in the case of telephone borrowers; and inserted in proviso of par. (2) "to a telephone or electric borrower" after "make a loan".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1981 Amendment
 
 Pub. L. 97–35, title I, §165(d), Aug. 13, 1981, 95 Stat. 379, provided that: "The amendments made by subsection (a) of this section \[amending this section\] shall apply to loans the applications for which are received by the Rural Electrification Administration after July 24, 1981."
 
 #### Effective Date of 1976 Amendment; Interest Rate
 
-Pub. L. 94–570, §4, Oct. 20, 1976, 90 Stat. 2702, provided that: "This Act \[amending this section and section 931 of this title and enacting provisions set out as a note under section 901 of this title\] shall take effect upon enactment \[Oct. 20, 1976\] except that insured loans made pursuant to applications for such loans which would otherwise lose eligibility for special rate financing upon such enactment, received by the Rural Electrification Administration and still pending on the date of enactment of this Act \[Oct. 20, 1976\], shall bear interest as determined under section 305(b) of the Rural Electrification Act of 1936 before its amendment by this Act \[former provisions of subsec. (b) of this section\]."
+Pub. L. 94–570, §4, Oct. 20, 1976, 90 Stat. 2702, provided that: "This Act \[amending this section and section 931 of this title and enacting provisions set out as a note under section 901 of this title\] shall take effect upon enactment \[Oct. 20, 1976\] except that insured loans made pursuant to applications for such loans which wouldotherwise lose eligibility for special rate financing upon such enactment, received by the Rural Electrification Administration and still pending on the date of enactment of this Act \[Oct. 20, 1976\], shall bear interest as determined under section 305(b) of the Rural Electrification Act of 1936 before its amendment by this Act \[former provisions of subsec. (b) of this section\]."
 
 #### Effective Date
 

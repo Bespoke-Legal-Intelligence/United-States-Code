@@ -16,7 +16,7 @@ A benefits agreement entered into under subsection (a) may be amended only by th
 
 #### (c) Agreement with Nevada
 
-The Secretary shall offer to enter into a benefits agreement with the Governor of Nevada. Any benefits agreement with a State under this subsection shall be negotiated in consultation with any affected units of local government in such State.
+The Secretary shall offer to enter into a benefits agreement with the Governor of Nevada.Any benefits agreement with a State under this subsection shall be negotiated in consultation with any affected units of local government in such State.
 
 #### (d) Monitored retrievable storage
 
@@ -31,6 +31,8 @@ Only one benefits agreement for a repository and only one benefits agreement for
 Decisions of the Secretary under this section are not subject to judicial review.
 
 (Pub. L. 97–425, title I, §170, as added Pub. L. 100–202, §101(d) \[title III, §300\], Dec. 22, 1987, 101 Stat. 1329–104, 1329–121; Pub. L. 100–203, title V, §5031, Dec. 22, 1987, 101 Stat. 1330–237.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

@@ -24,9 +24,13 @@ For the purposes of this subpart:
 
 (Pub. L. 89–329, title IV, §420L, as added Pub. L. 110–84, title I, §104, Sept. 27, 2007, 121 Stat. 786; amended Pub. L. 110–153, §3(1), Dec. 21, 2007, 121 Stat. 1824.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2007</b>—Par. (1)(B). Pub. L. 110–153 substituted "responsible" for "sound".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -8,7 +8,7 @@ In accordance with such regulations as the President may prescribe, the Secretar
 
 #### References in Text
 
-Section 18 of the Act of May 24, 1924 (43 Stat. 144), referred to in text, which was classified to section 21 of this title, was repealed by act Aug. 13, 1946, ch. 957, title XI, §1131(44), 60 Stat. 1038.
+Section 18 of the Act of May 24, 1924 (43 Stat. 144), referred to in text, which was classified to section 21 ofthis title, was repealed by act Aug. 13, 1946, ch. 957, title XI, §1131(44), 60 Stat. 1038.
 
 #### Amendments
 

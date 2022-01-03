@@ -60,7 +60,7 @@ Subsec. (d)(1). Pub. L. 114–113, §2(3)(A), inserted "or the Office of the Cha
 
 Subsec. (d)(2). Pub. L. 114–113, §2(3)(B), inserted "or the Chaplain of the Senate, as the case may be," after "the Chairman".
 
-Subsec. (e). Pub. L. 114–113, §2(1), (4), redesignated subsec. (d) as (e) and inserted "or the Chaplain of the Senate, as the case may be," after "The Chairman of a committee".
+Subsec. (e). Pub. L. 114–113, §2(1), (4), redesignated subsec. (d) as (e) and inserted "or the Chaplain of theSenate, as the case may be," after "The Chairman of a committee".
 
 <b>1995</b>—Pub. L. 104–53 amended section generally. Prior to amendment, section read as follows: "The Chairman of the Majority or Minority Conference Committee of the Senate may, during any fiscal year (commencing with the fiscal year ending September 30, 1991), at his election transfer not more than $275,000 from the appropriation account for salaries for the Conference of the Majority and the Conference of the Minority of the Senate, to the account, within the contingent fund of the Senate, from which expenses are payable under section 61g–6 of this title. Any transfer of funds under authority of the preceding sentence shall be made at such time or times as such chairman shall specify in writing to the Senate Disbursing Office. Any funds so transferred by the Chairman of the Majority or Minority Conference Committee shall be available for expenditure by such committee in like manner and for the same purposes as are other moneys which are available for expenditure by such committee from the account, within the contingent fund of the Senate, from which expenses are payable under section 61g–6 of this title."
 

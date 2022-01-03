@@ -4,6 +4,8 @@ The Secretary shall establish procedures to prevent recipients from receiving an
 
 (Pub. L. 110–329, div. B, title I, Sept. 30, 2008, 122 Stat. 3601; Pub. L. 113–76, div. L, title II, §236, Jan. 17, 2014, 128 Stat. 635.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This heading, referred to in text, refers to the headings "
@@ -15,6 +17,8 @@ community development fund" of title I of div. B of Pub. L. 110–329, known as 
 #### Codification
 
 Section was enacted as part of the Disaster Relief and Recovery Supplemental Appropriations Act, 2008, and also as part of the Consolidated Security, Disaster Assistance, and Continuing Appropriations Act, 2009, and not as part of title I of the Housing and Community Development Act of 1974 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Similar Provisions
 

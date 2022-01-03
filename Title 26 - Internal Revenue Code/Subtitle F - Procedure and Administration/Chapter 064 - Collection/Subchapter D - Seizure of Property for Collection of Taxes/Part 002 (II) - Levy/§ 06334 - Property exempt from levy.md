@@ -76,7 +76,7 @@ There shall be exempt from levy—
 
 &emsp;&emsp;&emsp;(i) the principal residence of the taxpayer (within the meaning of section 121); and
 
-&emsp;&emsp;&emsp;(ii) tangible personal property or real property (other than real property whichis rented) used in the trade or business of an individual taxpayer.
+&emsp;&emsp;&emsp;(ii) tangible personal property or real property (other than real property which is rented) used in the trade or business of an individual taxpayer.
 
 #### (b) Appraisal
 
@@ -162,7 +162,7 @@ Notwithstanding any other law of the United States (including section 207 of the
 
 #### (f) Levy allowed on certain specified payments
 
-Any payment described in subparagraph (B) or (C) of section 6331(h)(2) shall not be exempt fromlevy if the Secretary approves the levy thereon under section 6331(h).
+Any payment described in subparagraph (B) or (C) of section 6331(h)(2) shall not be exempt from levy if the Secretary approves the levy thereon under section 6331(h).
 
 #### (g) Inflation adjustment
 
@@ -183,6 +183,8 @@ Any payment described in subparagraph (B) or (C) of section 6331(h)(2) shall not
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -292,6 +294,8 @@ Subsec. (a)(6), (7). Pub. L. 89–719, §104(c)(2), added pars. (6) and (7).
 
 <b>1958</b>—Subsec. (a)(4). Pub. L. 85–840 added par. (4).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Reference to United States magistrate or to magistrate deemed to refer to United States magistrate judge pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
@@ -318,7 +322,7 @@ Amendment by Pub. L. 105–33 effective as if included in section 110 of the Per
 
 #### Effective Date of 1996 Amendments
 
-Amendment by section 110(l)(3) of Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of Title 42, The Public Health and Welfare.
+Amendment by section 110(l)(3) of Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced beforesuch date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of Title 42, The Public Health and Welfare.
 
 Pub. L. 104–168, title V, §502(d), July 30, 1996, 110 Stat. 1461, provided that: "The amendments made by this section \[amending this section\] shall take effect with respect to levies issued after December 31, 1996."
 

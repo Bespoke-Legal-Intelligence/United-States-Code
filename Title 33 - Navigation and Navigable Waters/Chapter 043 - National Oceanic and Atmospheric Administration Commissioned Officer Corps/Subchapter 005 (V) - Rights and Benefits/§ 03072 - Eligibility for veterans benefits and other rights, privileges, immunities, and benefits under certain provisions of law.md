@@ -20,7 +20,7 @@ In the administration of the laws and regulations referred to in subsection (a),
 
 #### References in Text
 
-The Servicemembers Civil Relief Act, referred to in subsec. (a)(2), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, which is classified principally to chapter 50 (§3901 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The Servicemembers Civil Relief Act, referred to in subsec. (a)(2), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178,which is classified principally to chapter 50 (§3901 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
 #### Prior Provisions
 

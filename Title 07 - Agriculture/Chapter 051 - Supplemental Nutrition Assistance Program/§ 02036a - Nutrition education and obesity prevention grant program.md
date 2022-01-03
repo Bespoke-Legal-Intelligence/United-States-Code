@@ -176,7 +176,7 @@ Consistent with the terms and conditions of grants awarded under this section, S
 
 &emsp;&emsp;Of the funds set aside under paragraph (1), as determined by the Secretary—
 
-&emsp;&emsp;&emsp;(i) for each of fiscal years 2011 through 2013, 100 percent shall be allocated to State agencies in direct proportion to the amount of funding that the State received for carrying out section 2020(f) of this title (as that section existed on the day before the December 13, 2010) during fiscal year 2009, as reported to the Secretary as of February 2010; and
+&emsp;&emsp;&emsp;(i) for each of fiscal years 2011 through 2013, 100 percent shall be allocated to Stateagencies in direct proportion to the amount of funding that the State received for carrying out section 2020(f) of this title (as that section existed on the day before the December 13, 2010) during fiscal year 2009, as reported to the Secretary as of February 2010; and
 
 &emsp;&emsp;&emsp;(ii) subject to a reallocation under subparagraph (B)—
 
@@ -242,6 +242,8 @@ Not later than January 1, 2012, the Secretary shall publish in the Federal Regis
 
 (Pub. L. 88–525, §28, as added Pub. L. 111–296, title II, §241(a), Dec. 13, 2010, 124 Stat. 3232; amended Pub. L. 112–240, title VII, §701(d)(2), Jan. 2, 2013, 126 Stat. 2363; Pub. L. 113–79, title IV, §4028, Feb. 7, 2014, 128 Stat. 813; Pub. L. 115–334, title IV, §4019, Dec. 20, 2018, 132 Stat. 4650.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (c)(2)(B). Pub. L. 115–334, §4019(1)(A)(i), substituted "A" for "Except as provided in subparagraph (C), a" in introductory provisions.
@@ -258,7 +260,9 @@ Subsec. (c)(6) to (9). Pub. L. 115–334, §4019(4), added pars. (6) to (9).
 
 <b>2014</b>—Subsec. (b). Pub. L. 113–79 inserted "and physical activity" after "healthy food choices".
 
-Subsec. (d)(1)(B) to (F). Pub. L. 112–240 added subpars. (B) to (F) and struck out former subpar. (B) which read as follows: "for fiscal year 2012 and each subsequent fiscal year, the applicable amount during the preceding fiscal year, as adjusted to reflect any increases for the 12-month period ending the preceding June 30 in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor."
+Subsec. (d)(1)(B) to (F). Pub. L. 112–240 added subpars. (B) to (F) and struck out former subpar. (B) which read as follows: "for fiscal year 2012 and each subsequent fiscal year, the applicable amount during the preceding fiscal year, as adjusted to reflect any increases for the 12-month period ending the preceding June 30 in theConsumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2013 Amendment
 

@@ -4,7 +4,7 @@
 
 &emsp;(1) experiences a medical emergency and submits an application pursuant to section 6367(a); and
 
-&emsp;(2)(A) contributes the minimum number of hours as required under subsection (b) of accrued or accumulated annual leave to the leave bank of the employing agency of such employee, in the leave year (beginning in and including any part of a leave year in which such leave bank is established) that such employee submits an application to be a leave recipient under section 6367(a); and
+&emsp;(2)(A) contributes the minimum number of hours as required under subsection (b) of accrued or accumulated annual leave to the leave bank of the employing agency of such employee, in the leave year (beginning in and including any part of a leave year in whichsuch leave bank is established) that such employee submits an application to be a leave recipient under section 6367(a); and
 
 &emsp;(B) such contribution is made before such employee submits an application under section 6367(a).
 

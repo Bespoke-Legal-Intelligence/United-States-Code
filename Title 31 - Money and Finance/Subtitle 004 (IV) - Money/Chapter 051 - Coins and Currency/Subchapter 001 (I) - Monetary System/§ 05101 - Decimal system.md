@@ -32,7 +32,7 @@ The word "money" is substituted for "money of account" to eliminate unnecessary 
 
 #### Short Title of 2021 Amendment
 
-Pub. L. 116–330, §1, Jan. 13, 2021, 134 Stat. 5101, provided that: "This Act \[amending section 5112 of this title and enacting provisions set out as a note under section 5112 of this title\] may be cited as the 'Circulating Collectible Coin Redesign Act of 2020'."
+Pub. L. 116–330, §1, Jan. 13, 2021, 134 Stat. 5101, provided that: "This Act \[amending section 5112 of thistitle and enacting provisions set out as a note under section 5112 of this title\] may be cited as the 'Circulating Collectible Coin Redesign Act of 2020'."
 
 #### Short Title of 2018 Amendment
 

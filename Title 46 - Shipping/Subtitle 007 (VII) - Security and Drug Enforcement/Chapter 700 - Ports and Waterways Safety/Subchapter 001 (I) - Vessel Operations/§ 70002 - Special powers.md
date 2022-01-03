@@ -2,7 +2,7 @@
 
 The Secretary may order any vessel, in a port or place subject to the jurisdiction of the United States or in the navigable waters of the United States, to operate or anchor in a manner the Secretary directs if—
 
-&emsp;(1) the Secretary has reasonable cause to believe such vessel does not comply with anyregulation issued under section 70034 or any other applicable law or treaty;
+&emsp;(1) the Secretary has reasonable cause to believe such vessel does not comply with any regulation issued under section 70034 or any other applicable law or treaty;
 
 &emsp;(2) the Secretary determines such vessel does not satisfy the conditions for port entry set forth in section 70021 or 70022 of this title; or
 

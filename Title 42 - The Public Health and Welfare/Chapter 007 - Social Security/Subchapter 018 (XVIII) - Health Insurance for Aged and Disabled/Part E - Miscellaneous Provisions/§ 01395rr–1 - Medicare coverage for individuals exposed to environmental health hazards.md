@@ -50,7 +50,7 @@
 
 &emsp;For purposes of the pilot program under this subsection, the Secretary—
 
-&emsp;&emsp;(A) shall develop and implement appropriate methodologies to reimburse providers for furnishing benefits, items, or services forwhich payment is not otherwise covered or authorized under this subchapter, if such benefits, items, or services are furnished pursuant to paragraph (3); and
+&emsp;&emsp;(A) shall develop and implement appropriate methodologies to reimburse providers for furnishing benefits, items, or services for which payment is not otherwise covered or authorized under this subchapter, if such benefits, items, or services are furnished pursuant to paragraph (3); and
 
 &emsp;&emsp;(B) may develop and implement innovative approaches to reimbursing providers for any benefits, items, or services furnished under this subsection.
 
@@ -124,7 +124,7 @@ For purposes of this section, the term "emergency declaration" means a declarati
 
 &emsp;&emsp;&nbsp;except that this clause shall not apply to pleural thickening or pleural plaques unless there are symptoms or conditions requiring medical treatment as a result of these diagnoses.
 
-&emsp;&emsp;&emsp;(ii) Mesothelioma, or malignancies of the lung, colon, rectum, larynx, stomach, esophagus, pharynx, or ovary, as established by—
+&emsp;&emsp;&emsp;(ii) Mesothelioma, or malignancies of the lung, colon, rectum, larynx, stomach,esophagus, pharynx, or ovary, as established by—
 
 &emsp;&emsp;&emsp;&emsp;(I) pathologic examination of biopsy tissue;
 
@@ -149,6 +149,8 @@ For purposes of this section, the term "emergency declaration" means a declarati
 &emsp;&emsp;(E) is determined under this section to meet the criteria in this paragraph.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1881A, as added Pub. L. 111–148, title X, §10323(a), Mar. 23, 2010, 124 Stat. 954.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

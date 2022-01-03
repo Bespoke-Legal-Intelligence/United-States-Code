@@ -28,9 +28,13 @@ Sept. 3, 1982, Pub. L. 97–248, §509(b)(9), 96 Stat. 685.
 
 The words "In making a grant under this subchapter" are substituted for "In establishing priorities for distribution of funds available pursuant to section 2206 of this Appendix" for consistency in this chapter and to eliminate unnecessary words.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Pub. L. 106–181 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

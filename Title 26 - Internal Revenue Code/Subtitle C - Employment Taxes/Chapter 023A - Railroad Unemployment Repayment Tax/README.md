@@ -7,6 +7,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Pub. L. 101–508, title XI, §11704(a)(18), Nov. 5, 1990, 104 Stat. 1388–519, substituted "23A—" for "23A." in chapter heading.

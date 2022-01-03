@@ -14,7 +14,7 @@ Within 6 months after submitting a survey to the Secretary under section 777g(g)
 
 #### (1) Matching grants
 
-&emsp;The Secretary of the Interior shall obligate amounts made available under section 777c(a)(4) <sup>1</sup> of this title to make grants to any State to pay not more than 75 percent of the cost to a State of constructing, renovating, or maintaining facilities for transient nontrailerable recreational vessels.
+&emsp;The Secretary of the Interior shall obligate amounts made available under section777c(a)(4) <sup>1</sup> of this title to make grants to any State to pay not more than 75 percent of the cost to a State of constructing, renovating, or maintaining facilities for transient nontrailerable recreational vessels.
 
 #### (2) Priorities
 
@@ -42,6 +42,8 @@ For purposes of this section, the term—
 
 (Pub. L. 105–178, title VII, §7404, June 9, 1998, 112 Stat. 486; Pub. L. 105–206, title IX, §9012(c), July 22, 1998, 112 Stat. 864; Pub. L. 109–59, title X, §10115, Aug. 10, 2005, 119 Stat. 1928.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Paragraph (4) of section 777c(a), referred to in subsec. (d)(1), was repealed by Pub. L. 114–94, div. A, title X, §10001(b)(1)(D), Dec. 4, 2015, 129 Stat. 1620. See section 777c(a)(3)(A) of this title.
@@ -58,6 +60,8 @@ Section was enacted as part of the Sportfishing and Boating Safety Act of 1998, 
 
 <b>1998</b>—Subsec. (b). Pub. L. 105–206, §9012(c), made a technical amendment to directory language of Pub. L. 105–178, §7404(b). See Codification note above.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2005 Amendments
 
 From Aug. 10, 2005, to end of fiscal year 2005, subsec. (d)(1) of this section considered to read as immediately before enactment of Pub. L. 109–59, see section 101(b) of Pub. L. 109–74, set out as a note under section 777b of this title.
@@ -66,7 +70,7 @@ Amendment by Pub. L. 109–59 effective Oct. 1, 2005, see section 10102 of Pub. 
 
 #### Effective Date of 1998 Amendment
 
-Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L.105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

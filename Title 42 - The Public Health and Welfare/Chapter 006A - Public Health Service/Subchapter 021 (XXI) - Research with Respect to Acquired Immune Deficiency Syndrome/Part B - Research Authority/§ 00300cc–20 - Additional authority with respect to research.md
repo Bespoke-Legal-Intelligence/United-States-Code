@@ -38,6 +38,8 @@ The Secretary, acting through the Director of the National Institute of Mental H
 
 (July 1, 1944, ch. 373, title XXIII, §2320, as added Pub. L. 100–607, title II, §201(4), Nov. 4, 1988, 102 Stat. 3074; amended Pub. L. 100–690, title II, §2617(d), Nov. 18, 1988, 102 Stat. 4240; Pub. L. 102–531, title III, §312(d)(20), Oct. 27, 1992, 106 Stat. 3505; Pub. L. 103–43, title XVIII, §1811(5), (6), June 10, 1993, 107 Stat. 200.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1993</b>—Subsec. (b)(1)(A). Pub. L. 103–43, §1811(5), inserted "and the natural history of such infection" after "syndrome".
@@ -47,6 +49,8 @@ Subsec. (e)(1). Pub. L. 103–43, §1811(6), substituted "fiscal year" for "of t
 <b>1992</b>—Subsecs. (a)(1), (b)(1). Pub. L. 102–531 substituted "Centers for Disease Control and Prevention" for "Centers for Disease Control".
 
 <b>1988</b>—Subsec. (a)(5). Pub. L. 100–690 substituted "subsection" for "section".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

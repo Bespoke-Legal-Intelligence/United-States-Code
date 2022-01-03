@@ -10,7 +10,7 @@
 
 &emsp;(4) Scientific progress, public safety, and product compatibility and standardization also depend on the development of precise measurement methods, standards, and related basic technologies.
 
-&emsp;(5) The National Bureau of Standards since its establishment has served as the Federal focal point in developing basic measurement standards and related technologies, has taken a lead role in stimulating cooperative work among private industrial organizations in efforts to surmount technological hurdles, and otherwise has been responsible for assisting in the improvement of industrial technology.
+&emsp;(5) The National Bureau of Standards since its establishment has served as the Federal focal point in developing basic measurement standards and related technologies, has takena lead role in stimulating cooperative work among private industrial organizations in efforts to surmount technological hurdles, and otherwise has been responsible for assisting in the improvement of industrial technology.
 
 &emsp;(6) The Federal Government should maintain a national science, engineering, and technology laboratory which provides measurement methods, standards, and associated technologies and which aids United States companies in using new technologies to improve products and manufacturing processes.
 
@@ -28,6 +28,8 @@
 
 (Mar. 3, 1901, ch. 872, §1, 31 Stat. 1449; Pub. L. 100–418, title V, §5111, Aug. 23, 1988, 102 Stat. 1427.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (b), was in the original "this Act" meaning act Mar. 3, 1901, ch. 872, 31 Stat. 1449, as amended, known as the National Institute of Standards and Technology Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
@@ -35,6 +37,8 @@ This chapter, referred to in subsec. (b), was in the original "this Act" meaning
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–418 amended section generally. Prior to amendment, section read as follows: "The Office of Standard Weights and Measures shall be known as the National Bureau of Standards."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name; National Bureau of Standards Redesignated National Institute of Standards and Technology
 

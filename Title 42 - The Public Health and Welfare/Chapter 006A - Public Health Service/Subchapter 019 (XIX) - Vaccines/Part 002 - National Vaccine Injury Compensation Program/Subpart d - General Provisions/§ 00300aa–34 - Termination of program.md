@@ -40,6 +40,8 @@ The Secretary shall review the number of awards of compensation made under the p
 
 (July 1, 1944, ch. 373, title XXI, §2134, as added Pub. L. 100–203, title IV, §4303(f), Dec. 22, 1987, 101 Stat. 1330–222.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 In subsecs. (a) and (b), "December 22, 1987" substituted for "the effective date of this subpart" on authority of section 323 of Pub. L. 99–660, as amended, set out as an Effective Date note under section 300aa–1 of this title.

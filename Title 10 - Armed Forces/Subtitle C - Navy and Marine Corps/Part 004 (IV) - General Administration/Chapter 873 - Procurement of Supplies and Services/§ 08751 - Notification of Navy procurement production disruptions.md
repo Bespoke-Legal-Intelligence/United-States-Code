@@ -10,9 +10,7 @@ Quarterly Reports.—The Secretary of the Navy shall submit to the congressional
 
 (Added Pub. L. 116–92, div. A, title VIII, §820(a), Dec. 20, 2019, 133 Stat. 1489, §2339b; renumbered §8751, Pub. L. 116–283, div. A, title XVIII, §1878(a), Jan. 1, 2021, 134 Stat. 4292.)
 
-#### Renumbering of Section
-
-<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1878(a), Jan. 1, 2021, 134 Stat. 4151, 4292, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, section 2339b of this title is renumbered as this section. See Effective Date of 2021 Amendment note below.</i>
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -21,6 +19,8 @@ A prior section 8751 was renumbered section 9281 of this title.
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283 renumbered section 2339b of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2021 Amendment
 

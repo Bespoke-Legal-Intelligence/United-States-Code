@@ -14,9 +14,13 @@
 
 (Pub. L. 98–322, title II, §201, June 19, 1984, 98 Stat. 256; Pub. L. 110–1, §1(b), Jan. 17, 2007, 121 Stat. 3.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsec. (a)(3), (4), is Pub. L. 98–322, June 19, 1984, 98 Stat. 253. Lands in the Green Mountain National Forest were designated as wilderness areas by title I of this Act, and are listed in a table of Wilderness Areas set out under section 1132 of this title. For complete classification of this Act to the Code, see Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

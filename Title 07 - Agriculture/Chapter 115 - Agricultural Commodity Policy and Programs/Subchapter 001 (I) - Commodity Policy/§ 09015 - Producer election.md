@@ -52,7 +52,7 @@ The Secretary shall ensure that producers on a farm do not reconstitute the farm
 
 #### (2) Effect of failure to make unanimous election
 
-&emsp;If all the producers on a farm fail to make a unanimous election under paragraph (1), theproducers on the farm shall be deemed to have elected price loss coverage under section 9016 of this title for acres allocated on the farm to seed cotton.
+&emsp;If all the producers on a farm fail to make a unanimous election under paragraph (1), the producers on the farm shall be deemed to have elected price loss coverage under section 9016 of this title for acres allocated on the farm to seed cotton.
 
 #### (h) Option to change election
 
@@ -69,6 +69,8 @@ The Secretary shall ensure that producers on a farm do not reconstitute the farm
 &emsp;&emsp;(B) each crop year thereafter until another election change is made under that paragraph.
 
 (Pub. L. 113–79, title I, §1115, Feb. 7, 2014, 128 Stat. 667; Pub. L. 115–123, div. F, §60101(a)(7), Feb. 9, 2018, 132 Stat. 309; Pub. L. 115–334, title I, §1105, Dec. 20, 2018, 132 Stat. 4503.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -89,6 +91,8 @@ Subsec. (g). Pub. L. 115–123, §60101(a)(7)(B), added subsec. (g).
 Subsec. (g)(1). Pub. L. 115–334, §1105(4), inserted "for the 2018 crop year," after "allocated to seed cotton on a farm,".
 
 Subsec. (h). Pub. L. 115–334, §1105(5), added subsec. (h).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

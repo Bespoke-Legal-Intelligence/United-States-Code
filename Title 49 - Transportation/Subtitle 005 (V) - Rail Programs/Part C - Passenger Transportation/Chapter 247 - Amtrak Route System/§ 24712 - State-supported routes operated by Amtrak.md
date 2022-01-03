@@ -6,7 +6,7 @@ State-Supported Route Committee.—
 
 &emsp;(1)
 
-Establishment.—Not later than 180 days after the date of enactment of the Passenger Rail Reform and Investment Act of 2015, the Secretary of Transportation shall establish the State-Supported Route Committee (referred to in this section as the "Committee") to promote mutual cooperation and planning pertaining to the rail operations of Amtrak and related activities of trains operated by Amtrak on State-supported routes and to further implement section 209 of the Passenger Rail Investment and Improvement Act of 2008 (49 U.S.C. 24101 note).
+Establishment.—There is established the State-Supported Route Committee (referred to in this section as the "Committee") to promote mutual cooperation and planning pertaining to the current and future rail operations of Amtrak and related activities of trains operated by Amtrak on State-supported routes and to further implement section 209 of the Passenger Rail Investment and Improvement Act of 2008 (49 U.S.C. 24101 note).
 
 &emsp;(2)
 
@@ -46,39 +46,93 @@ Decisionmaking.—The Committee shall establish a bloc voting system under which
 
 &emsp;(4)
 
-Meetings; rules and procedures.—The Committee shall convene a meeting and shall define and implement the rules and procedures governing the Committee's proceedings not later than 180 days after the date of establishment of the Committee by the Secretary. The rules and procedures shall—
+Ability to conduct certain business.—If all of the members of 1 voting bloc described in paragraph (3) abstain from a Committee decision, agreement between the other 2 voting blocs consistent with the procedures set forth in such paragraph shall be deemed sufficient for purpose of achieving unanimous consent.
+
+&emsp;(5)
+
+Meetings; rules and procedures.—The Committee shall define and periodically update the rules and procedures governing the Committee's proceedings. The rules and procedures shall—
 
 &emsp;&emsp;(A) incorporate and further describe the decisionmaking procedures to be used in accordance with paragraph (3); and
 
 &emsp;&emsp;(B) be adopted in accordance with such decisionmaking procedures.
 
-&emsp;(5)
+&emsp;(6)
 
 Committee decisions.—Decisions made by the Committee in accordance with the Committee's rules and procedures, once established, are binding on all Committee members.
 
-&emsp;(6)
+&emsp;(7)
 
-Cost allocation methodology.—
+Cost methodology policy.—
 
 &emsp;&emsp;(A)
 
-In general.—Subject to subparagraph (B), the Committee may amend the cost allocation methodology required and previously approved under section 209 of the Passenger Rail Investment and Improvement Act of 2008 (49 U.S.C. 24101 note).
+In general.—Subject to subparagraph (B), the Committee may amend the cost methodology policy required and previously approved under section 209 of the Passenger Rail Investment and Improvement Act of 2008 (49 U.S.C. 24101 note).
 
 &emsp;&emsp;(B)
 
-Procedures for changing methodology.—The rules and procedures implemented under paragraph (4) shall include procedures for changing the cost allocation methodology.
+Revisions to cost methodology policy.—
+
+&emsp;&emsp;&emsp;(i)
+
+Requirement to revise and update.—Subject to rules and procedures established pursuant to clause (iii), not later than March 31, 2022, the Committee shall revise and update the cost methodology policy required and previously approved under section 209 of the Passenger Rail Investment and Improvement Act of 2008 (49 U.S.C. 20901 <sup>1</sup> note). The Committee shall implement a revised cost methodology policy during fiscal year 2023. Not later than 30 days after the adoption of the revised cost methodology policy, the Committee shall submit a report documenting and explaining any changes to the cost methodology policy and plans for implementation of such policy, including a description of the improvements to the accounting information provided by Amtrak to the States, to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives. The revised cost methodology policy shall ensure that States will be responsible for costs attributable to the provision of service for their routes.
+
+&emsp;&emsp;&emsp;(ii)
+
+Implementation impacts on federal funding.—To the extent that a revision developed pursuant to clause (i) assigns to Amtrak costs that were previously allocated to States, Amtrak shall request with specificity such additional funding in the general and legislative annual report required under section 24315 or in any appropriate subsequent Federal funding request for the fiscal year in which the revised cost methodology policy will be implemented.
+
+&emsp;&emsp;&emsp;(iii)
+
+Procedures for changing methodology.—Notwithstanding section 209(b) of the Passenger Rail Investment and Improvement Act of 2008 (49 U.S.C. 20901 <sup>1</sup> note), the rules and procedures implemented pursuant to paragraph (5) shall include—
+
+&emsp;&emsp;&emsp;&emsp;(I) procedures for changing the cost methodology policy in accordance with clause (i); and
+
+&emsp;&emsp;&emsp;&emsp;(II) procedures or broad guidelines for conducting financial planning, including operating and capital forecasting, reporting, data sharing, and governance.
 
 &emsp;&emsp;(C)
 
-Requirements.—The cost allocation methodology shall—
+Requirements.—The cost methodology policy shall—
 
-&emsp;&emsp;&emsp;(i) ensure equal treatment in the provision of like services of all States and groups of States; and
+&emsp;&emsp;&emsp;(i) ensure equal treatment in the provision of like services of all States and groups of States;
 
-&emsp;&emsp;&emsp;(ii) allocate to each route the costs incurred only for the benefit of that route and a proportionate share, based upon factors that reasonably reflect relative use, of costs incurred for the common benefit of more than 1 route.
+&emsp;&emsp;&emsp;(ii) assign to each route the costs incurred only for the benefit of that route and a proportionate share, based upon factors that reasonably reflect relative use, of costs incurred for the common benefit of more than 1 route; and
+
+&emsp;&emsp;&emsp;(iii) promote increased efficiency in Amtrak's operating and capital activities.
+
+&emsp;&emsp;(D)
+
+Independent evaluation.—Not later than March 31 of each year, the Committee shall ensure that an independent entity selected by the Committee has completed anevaluation to determine whether State payments for the most recently concluded fiscal year are accurate and comply with the applicable cost allocation methodology.
 
 (b)
 
-Invoices and Reports.—Not later than April 15, 2016, and monthly thereafter, Amtrak shall provide to each State that sponsors a State-supported route a monthly invoice of the cost of operating such route, including fixed costs and third-party costs. The Committee shall determine the frequency and contents of financial and performance reports that Amtrak shall provide to the States, as well as the planning and demand reports that the States shall provide to Amtrak.
+Invoices and Reports.—
+
+&emsp;(1)
+
+Invoices.—Amtrak shall provide monthly invoices to the Committee and to each State that sponsors a State-supported route that identify the operating costs for such route, including fixed costs and third-party costs.
+
+&emsp;(2)
+
+Reports.—
+
+&emsp;&emsp;(A)
+
+In general.—The Committee shall determine the frequency and contents of—
+
+&emsp;&emsp;&emsp;(i) the financial and performance reports that Amtrak is required to provide to the Committee and the States; and
+
+&emsp;&emsp;&emsp;(ii) the planning and demand reports that the States are required to provide to the Committee and Amtrak.
+
+&emsp;&emsp;(B)
+
+Monthly statistical report.—
+
+&emsp;&emsp;&emsp;(i)
+
+Development.—Consistent with the revisions to the policy required under subsection (a)(7)(B), the Committee shall develop a report that contains the general ledger data and operating statistics from Amtrak's accounting systems used to calculate payments to States.
+
+&emsp;&emsp;&emsp;(ii)
+
+Provision of necessary data.—Not later than 30 days after the last day of each month, Amtrak shall provide to the States and to the Committee the necessary data to complete the report developed pursuant to clause (i) for such month.
 
 (c)
 
@@ -86,7 +140,7 @@ Dispute Resolution.—
 
 &emsp;(1)
 
-Request for dispute resolution.—If a dispute arises with respect to the rules and procedures implemented under subsection (a)(4), an invoice or a report provided under subsection (b), implementation or compliance with the cost allocation methodology developed under section 209 of the Passenger Rail Investment and Improvement Act of 2008 (49 U.S.C. 24101 note) or amended under subsection (a)(6) of this section, either Amtrak or the State may request that the Surface Transportation Board conduct dispute resolution under this subsection.
+Request for dispute resolution.—If a dispute arises with respect to the rules and procedures implemented under subsection (a)(5), an invoice or a report provided under subsection (b), implementation or compliance with the cost allocation methodology developed under section 209 of the Passenger Rail Investment and Improvement Act of 2008 (49 U.S.C. 24101 note) or amended under subsection (a)(7) of this section, either Amtrak or the State may request that the Surface Transportation Board conduct dispute resolution under this subsection.
 
 &emsp;(2)
 
@@ -98,7 +152,7 @@ Binding effect.—A decision of the Surface Transportation Board under this subs
 
 &emsp;(4)
 
-Obligation.—Nothing in this subsection shall affect the obligation of a State to pay an amount not in dispute.
+Obligation.—Nothing in this subsection shall affect the obligation of a State to pay an amount related to a State-supported route that a State sponsors that is not in dispute.
 
 (d)
 
@@ -118,7 +172,7 @@ Financial assistance.—From among available funds, the Secretary shall provide�
 
 (e)
 
-Performance Metrics.—In negotiating a contract for operation of a State-supported route, Amtrak and the State or States that sponsor the route shall consider including provisions that provide penalties and incentives for performance.
+Performance Metrics.—In negotiating a contract for operation of a State-supported route, Amtrak and the State or States that sponsor the route shall consider including provisions that provide penalties and incentives for performance, including incentives to increase revenue, reduce costs, finalize contracts by the beginning of the fiscal year, and require States to promptly make payments for services delivered.
 
 (f)
 
@@ -126,13 +180,75 @@ Statement of Goals and Objectives.—
 
 &emsp;(1)
 
-In general.—The Committee shall develop a statement of goals, objectives, and associated recommendations concerning the future of State-supported routes operated by Amtrak. The statement shall identify the roles and responsibilities of Committee members and any other relevant entities, such as host railroads, in meeting the identified goals and objectives, or carrying out the recommendations. The Committee may consult with such relevant entities, as the Committee considers appropriate, when developing the statement.
+In general.—The Committee shall develop, and review and update, as necessary, a statement of goals, objectives, and associated recommendations concerning the future of State-supported routes operated by Amtrak. The statement shall identify the roles and responsibilities of Committee members and any other relevant entities, such as host railroads, in meeting the identified goals and objectives, or carrying out the recommendations. The Committee may consult with such relevant entities, as the Committee considers appropriate, when developing the statement.
 
 &emsp;(2)
 
-Transmission of statement of goals and objectives.—Not later than 2 years after the date of enactment of the Passenger Rail Reform and Investment Act of 2015, the Committee shall transmit the statement developed under paragraph (1) to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+Transmission of statement of goals and objectives.—As applicable, based on updates, the Committee shall submit an updated statement developed under paragraph (1) to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+
+&emsp;(3)
+
+Sense of congress.—It is the sense of Congress that—
+
+&emsp;&emsp;(A) the Committee shall be the forum where Amtrak and the States collaborate on the planning, improvement, and development of corridor routes across the National Network; and
+
+&emsp;&emsp;(B) such collaboration should include regular consultation with interstate rail compact parties and other regional planning organizations that address passenger rail.
 
 (g)
+
+New State-supported Routes.—
+
+&emsp;(1)
+
+Consultation.—In developing a new State-supported route, Amtrak shall consult with—
+
+&emsp;&emsp;(A) the State or States and local municipalities through which such new service would operate;
+
+&emsp;&emsp;(B) commuter authorities and regional transportation authorities in the areas that would be served by the planned route;
+
+&emsp;&emsp;(C) host railroads;
+
+&emsp;&emsp;(D) the Administrator of the Federal Railroad Administration; and
+
+&emsp;&emsp;(E) other stakeholders, as appropriate.
+
+&emsp;(2)
+
+State commitments.—Notwithstanding any other provision of law, before beginning construction necessary for, or beginning operation of, a State-supported route that is initiated on or after the date of enactment of the Passenger Rail Expansion and Rail Safety Act of 2021, Amtrak shall enter into a memorandum of understanding, or otherwise secure an agreement, with each State that would be providing funding for such route for sharing—
+
+&emsp;&emsp;(A) ongoing operating costs and capital costs in accordance with the cost methodology policy referred to in subsection (a)(7) then in effect; or
+
+&emsp;&emsp;(B) ongoing operating costs and capital costs in accordance with the maximum funding limitations described in section 22908(e).
+
+&emsp;(3)
+
+Application of terms.—In this subsection, the terms "capital costs" and "operating costs" shall apply in the same manner as such terms apply under the cost methodology policy developed pursuant to subsection (a)(7).
+
+(h)
+
+Cost Methodology Policy Update Implementation Report.—Not later than 18 months after the updated cost methodology policy required under subsection (a)(7)(B) is implemented, the Committee shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives that assesses the implementation of the updated policy.
+
+(i)
+
+Identification of State-supported Route Changes.—Amtrak shall—
+
+&emsp;(1) not later than 120 days before the submission of the general and legislative annual report required under section 24315(b), consult with the Committee and any additional States through which a State-supported route may operate regarding any proposed changes to such route; and
+
+&emsp;(2) include in such report an update of any planned or proposed changes to State-supported routes, including the introduction of new State-supported routes, including—
+
+&emsp;&emsp;(A) the timeframe in which such changes would take effect; and
+
+&emsp;&emsp;(B) whether Amtrak has entered into commitments with the affected States pursuant subsection (g)(2).
+
+(j)
+
+Economic Analysis.—Not later than 3 years after the date of enactment of the Passenger Rail Expansion and Rail Safety Act of 2021, the Committee shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives that—
+
+&emsp;(1) describes the role of the State-supported routes in economic development; and
+
+&emsp;(2) examines the impacts of the State-supported routes on local station areas, job creation, transportation efficiency, State economies, and the national economy.
+
+(k)
 
 Rule of Construction.—The decisions of the Committee—
 
@@ -140,19 +256,69 @@ Rule of Construction.—The decisions of the Committee—
 
 &emsp;(2) shall not pertain to the rail operations or related activities of services operated by other rail carriers on State-supported routes.
 
-(h)
+(l
+
+)
 
 Definition of State.—In this section, the term "State" means any of the 50 States, including the District of Columbia, that sponsor the operation of trains by Amtrak on a State-supported route, or a public entity that sponsors such operation on such a route.
 
-(Added Pub. L. 114–94, div. A, title XI, §11204(a), Dec. 4, 2015, 129 Stat. 1634.)
+(Added Pub. L. 114–94, div. A, title XI, §11204(a), Dec. 4, 2015, 129 Stat. 1634; amended Pub. L. 117–58, div. B, title II, §22211, Nov. 15, 2021, 135 Stat. 708.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
-The date of enactment of the Passenger Rail Reform and Investment Act of 2015, referred to in subsecs. (a)(1) and (f)(2), is the date of enactment of title XI of div. A of Pub. L. 114–94, which was approved Dec. 4, 2015.
+Section 209 of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsecs. (a)(1), (7)(A), (B)(i), (iii), and (c)(1), is section 209 of div. B of Pub. L. 110–432, which is set out as a note under section 24101 of this title.
 
-Section 209 of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsecs. (a)(1), (6)(A) and (c)(1), is section 209 of div. B of Pub. L. 110–432, which is set out as a note under section 24101 of this title.
+The date of enactment of the Passenger Rail Expansion and Rail Safety Act of 2021, referred to in subsecs. (g)(2) and (j), is the date of enactment of title II of div. B of Pub. L. 117–58, which was approved Nov. 15, 2021.
+
+#### Amendments
+
+<b>2021</b>—Subsec. (a)(1). Pub. L. 117–58, §22211(a)(1), substituted "There is established" for "Not later than 180 days after the date of enactment of the Passenger Rail Reform and Investment Act of 2015, the Secretary of Transportation shall establish" and inserted "current and future" before "rail operations".
+
+Subsec. (a)(4). Pub. L. 117–58, §22211(a)(3), added par. (4). Former par. (4) redesignated (5).
+
+Subsec. (a)(5). Pub. L. 117–58, §22211(a)(2), (4), redesignated par. (4) as (5) and substituted "define and periodically update" for "convene a meeting and shall define and implement" and struck out "not later than 180 days after the date of establishment of the Committee by the Secretary" after "Committee's proceedings" in introductory provisions. Former par. (5) redesignated (6).
+
+Subsec. (a)(6). Pub. L. 117–58, §22211(a)(2), redesignated par. (5) as (6). Former par. (6) redesignated (7).
+
+Subsec. (a)(7). Pub. L. 117–58, §22211(a)(2), (5), redesignated par. (6) as (7) and substituted "methodology policy" for "allocation methodology" in heading.
+
+Subsec. (a)(7)(A). Pub. L. 117–58, §22211(a)(5)(B), substituted "methodology policy" for "allocation methodology".
+
+Subsec. (a)(7)(B). Pub. L. 117–58, §22211(a)(5)(C), amended subpar. (B) generally. Prior to amendment, text read as follows: "The rules and procedures implemented under paragraph (4) shall include procedures for changing the cost allocation methodology."
+
+Subsec. (a)(7)(C). Pub. L. 117–58, §22211(a)(5)(D)(i), substituted "methodology policy" for "allocation methodology" in introductory provisions.
+
+Subsec. (a)(7)(C)(ii). Pub. L. 117–58, §22211(a)(5)(D)(iii)(I), substituted "assign" for "allocate".
+
+Subsec. (a)(7)(C)(iii). Pub. L. 117–58, §22211(a)(5)(D)(ii), (iii)(II), (iv), added cl. (iii).
+
+Subsec. (a)(7)(D). Pub. L. 117–58, §22211(a)(5)(E), added subpar. (D).
+
+Subsec. (b). Pub. L. 117–58, §22211(b), amended subsec. (b) generally. Prior to amendment, text read as follows: "Not later than April 15, 2016, and monthly thereafter, Amtrak shall provide to each State that sponsors a State-supported route a monthly invoice of the cost of operating such route, including fixed costs and third-party costs. The Committee shall determine the frequency and contents of financial and performance reports that Amtrak shall provide to the States, as well as the planning and demand reports that the States shall provide to Amtrak."
+
+Subsec. (c)(1). Pub. L. 117–58, §22211(c)(1), substituted "subsection (a)(5)" for "subsection (a)(4)" and "subsection (a)(7)" for "subsection (a)(6)".
+
+Subsec. (c)(4). Pub. L. 117–58, §22211(c)(2), inserted "related to a State-supported route that a State sponsors that is" after "amount".
+
+Subsec. (e). Pub. L. 117–58, §22211(d), inserted ", including incentives to increase revenue, reduce costs, finalize contracts by the beginning of the fiscal year, and require States to promptly make payments for services delivered" before period at end.
+
+Subsec. (f)(1). Pub. L. 117–58, §22211(e)(1), inserted ", and review and update, as necessary," after "shall develop".
+
+Subsec. (f)(2). Pub. L. 117–58, §22211(e)(2), substituted "As applicable, based on updates, the Committee shall submit an updated statement" for "Not later than 2 years after the date of enactment of the Passenger Rail Reform and Investment Act of 2015, the Committee shall transmit the statement".
+
+Subsec. (f)(3). Pub. L. 117–58, §22211(e)(3), added par. (3).
+
+Subsecs. (g) to (l). Pub. L. 117–58, §22211(f), added subsecs. (g) to (j) and redesignated former subsecs. (g) and (h) as (k) and (l
+
+), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
 Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as an Effective Date of 2015 Amendment note under section 5313 of Title 5, Government Organization and Employees.
+
+<i><sup>1</sup></i><i> So in original. Probably should be "24101".</i>
 

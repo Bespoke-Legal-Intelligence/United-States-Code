@@ -6,7 +6,7 @@
 
 (2) The Administrator shall test any emission control system incorporated in a motor vehicle or motor vehicle engine submitted to him by any person, in order to determine whether such system enables such vehicle or engine to conform to the standards required to be prescribed under section 7521(b) of this title. If the Administrator finds on the basis of such tests that such vehicle or engine conforms to such standards, the Administrator shall issue a verification of compliance with emission standards for such system when incorporated in vehicles of a class of which the tested vehicle is representative. He shall inform manufacturers and the National Academy of Sciences, and make available to the public, the results of such tests. Tests under this paragraph shall be conducted under such terms and conditions (including requirements for preliminary testing by qualified independent laboratories) as the Administrator may prescribe by regulations.
 
-(3)(A) A certificate of conformity may be issued under this section only if the Administrator determines that the manufacturer (or in the case of a vehicle or engine for import, any person) has established to the satisfaction of the Administrator that any emission control device,system, or element of design installed on, or incorporated in, such vehicle or engine conforms to applicable requirements of section 7521(a)(4) of this title.
+(3)(A) A certificate of conformity may be issued under this section only if the Administrator determines that the manufacturer (or in the case of a vehicle or engine for import, any person) has established to the satisfaction of the Administrator that any emission control device, system, or element of design installed on, or incorporated in, such vehicle or engine conforms to applicable requirements of section 7521(a)(4) of this title.
 
 (B) The Administrator may conduct such tests and may require the manufacturer (or any such person) to conduct such tests and provide such information as is necessary to carry out subparagraph (A) of this paragraph. Such requirements shall include a requirement for prompt reporting of the emission of any unregulated pollutant from a system, device, or element of design if such pollutant was not emitted, or was emitted in significantly lesser amounts, from the vehicle or engine without use of the system, device, or element of design.
 
@@ -66,7 +66,7 @@
 
 (1) In order to determine whether new motor vehicles or new motor vehicle engines being manufactured by a manufacturer do in fact conform with the regulations with respect to which the certificate of conformity was issued, the Administrator is authorized to test such vehicles or engines. Such tests may be conducted by the Administrator directly or, in accordance with conditions specified by the Administrator, by the manufacturer.
 
-(2)(A)(i) If, based on tests conducted under paragraph (1) on a sample of new vehicles or engines covered by a certificate of conformity, the Administrator determines that all or part of the vehicles or engines so covered do not conform with the regulations with respect to which the certificate of conformity was issued and with the requirements of section 7521(a)(4) of this title, he may suspend or revoke such certificate in whole or in part, and shall so notify the manufacturer. Such suspension or revocation shall apply in the case of any new motor vehicles or new motor vehicle engines manufactured after the date of such notification (or manufactured before such date if still in the hands of the manufacturer), and shall apply until such time as the Administrator finds that vehicles and engines manufactured by the manufacturer do conform to such regulations and requirements. If, during any period of suspension or revocation, the Administrator finds that a vehicle or engine actually conforms to such regulations and requirements, he shall issue a certificate of conformity applicable to such vehicle or engine.
+(2)(A)(i) If, based on tests conducted under paragraph (1) on a sample of new vehicles or engines covered by a certificate of conformity, theAdministrator determines that all or part of the vehicles or engines so covered do not conform with the regulations with respect to which the certificate of conformity was issued and with the requirements of section 7521(a)(4) of this title, he may suspend or revoke such certificate in whole or in part, and shall so notify the manufacturer. Such suspension or revocation shall apply in the case of any new motor vehicles or new motor vehicle engines manufactured after the date of such notification (or manufactured before such date if still in the hands of the manufacturer), and shall apply until such time as the Administrator finds that vehicles and engines manufactured by the manufacturer do conform to such regulations and requirements. If, during any period of suspension or revocation, the Administrator finds that a vehicle or engine actually conforms to such regulations and requirements, he shall issue a certificate of conformity applicable to such vehicle or engine.
 
 (ii) If, based on tests conducted under paragraph (1) on any new vehicle or engine, the Administrator determines that such vehicle or engine does not conform with such regulations and requirements, he may suspend or revoke such certificate insofar as it applies to such vehicle or engine until such time as he finds such vehicle or engine actually so conforms with such regulations and requirements, and he shall so notify the manufacturer.
 
@@ -80,7 +80,7 @@
 
 #### (c) Inspection
 
-For purposes of enforcement of this section, officers or employees duly designated by the Administrator, upon presenting appropriate credentials to the manufacturer or person in charge, are authorized (1) to enter, at reasonable times, any plant or other establishment of suchmanufacturer, for the purpose of conducting tests of vehicles or engines in the hands of the manufacturer, or (2) to inspect, at reasonable times, records, files, papers, processes, controls, and facilities used by such manufacturer in conducting tests under regulations of the Administrator. Each such inspection shall be commenced and completed with reasonable promptness.
+For purposes of enforcement of this section, officers or employees duly designated by the Administrator, upon presenting appropriate credentials to the manufacturer or person in charge, are authorized (1) to enter, at reasonable times, any plant or other establishment of such manufacturer, for the purpose of conducting tests of vehicles or engines in the hands of the manufacturer, or (2) to inspect, at reasonable times, records, files, papers, processes, controls, and facilities used by such manufacturer in conducting tests under regulations of the Administrator. Each such inspection shall be commenced and completed with reasonable promptness.
 
 #### (d) Rules and regulations
 
@@ -122,6 +122,8 @@ Within 18 months after November 15, 1990, the Administrator shall review and rev
 
 (July 14, 1955, ch. 360, title II, §206, as added Pub. L. 91–604, §8(a), Dec. 31, 1970, 84 Stat. 1694; amended Pub. L. 95–95, title II, §§213(a), 214(b), (c), 220, 224(e), Aug. 7, 1977, 91 Stat. 758–760, 762, 768; Pub. L. 95–190, §14(a)(69), Nov. 16, 1977, 91 Stat. 1403; Pub. L. 101–549, title II, §§208, 230(7), (8), Nov. 15, 1990, 104 Stat. 2483, 2529; Pub. L. 114–94, div. B, title XXIV, §24405(b), Dec. 4, 2015, 129 Stat. 1723.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 7542 of this title, referred to in subsec. (g)(5), was amended generally by Pub. L. 101–549, title II, §211, Nov. 15, 1990, 104 Stat. 2487, and provisions formerly contained in section 7542(b) of this title are contained in section 7542(c).
@@ -162,9 +164,11 @@ Subsec. (g). Pub. L. 95–95, §224(e), added subsec. (g).
 
 Subsec. (g)(3)(D). Pub. L. 95–190 inserted "shall" before "be".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d) of Pub. L. 95–95, set out as a note under section 7401 of this title.
+Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d)of Pub. L. 95–95, set out as a note under section 7401 of this title.
 
 #### Effective Date
 

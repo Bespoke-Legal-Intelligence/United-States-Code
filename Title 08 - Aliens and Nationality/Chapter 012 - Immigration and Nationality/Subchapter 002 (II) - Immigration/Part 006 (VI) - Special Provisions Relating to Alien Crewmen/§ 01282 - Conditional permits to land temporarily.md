@@ -28,7 +28,7 @@ Pub. L. 104–208, §308(e)(2)(E), substituted "removed" for "deported" in two p
 
 <b>1991</b>—Subsec. (c). Pub. L. 102–232 substituted "fined under title 18" for "fined not more than $2,000 (or, if greater, the amount provided under title 18)".
 
-<b>1990</b>—Subsec. (c). Pub. L. 101–649 substituted "shall be fined not more than $2,000 (or, if greater, the amountprovided under title 18) or imprisoned not more than 6 months" for "shall be guilty of a misdemeanor, and upon conviction thereof shall be fined not more than $500 or shall be imprisoned for not more than six months".
+<b>1990</b>—Subsec. (c). Pub. L. 101–649 substituted "shall be fined not more than $2,000 (or, if greater, the amount provided under title 18) or imprisoned not more than 6months" for "shall be guilty of a misdemeanor, and upon conviction thereof shall be fined not more than $500 or shall be imprisoned for not more than six months".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

@@ -18,7 +18,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 270 days after February 24, 2016, and not less frequently than quarterly thereafter, the Secretary of Commerce shall publish on a website of the Department of Commerce, and notify the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives of the availability of, a monitoring report on changes in the volume and value of trade with respect to imports and exports of goods categorized based on the 6-digit subheading number of the goods under the Harmonized Tariff Schedule of the United States during the most recent quarter for which such data are available and previous quarters as the Secretary considers practicable.
+&emsp;Not later than 270 days after February 24, 2016, and not less frequently than quarterly thereafter, the Secretary of Commerce shall publish on a website of the Department of Commerce, and notify the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives of the availability of, a monitoring report on changes in the volume and value of trade with respect to imports and exports of goods categorized based on the 6-digit subheading number of the goods under the Harmonized Tariff Schedule of the United Statesduring the most recent quarter for which such data are available and previous quarters as the Secretary considers practicable.
 
 #### (2) Requests for comment
 
@@ -29,6 +29,8 @@
 The requirements under this section terminate on the date that is seven years after February 24, 2016.
 
 (Pub. L. 93–618, title II, §205, as added Pub. L. 114–125, title VI, §603(a), Feb. 24, 2016, 130 Stat. 185.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

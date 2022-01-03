@@ -62,7 +62,7 @@
 
 &emsp;&emsp;&emsp;(ii) the amounts paid for the Class A stock;
 
-&emsp;&emsp;&emsp;(iii) consistent with generally accepted accounting principles, and subject to the regulation of the Director, a general allowance for losses, which may not include anyreserves or allowances made or held against specific assets; and
+&emsp;&emsp;&emsp;(iii) consistent with generally accepted accounting principles, and subject to the regulation of the Director, a general allowance for losses, which may not include any reserves or allowances made or held against specific assets; and
 
 &emsp;&emsp;&emsp;(iv) any other amounts from sources available to absorb losses incurred by the bank that the Director determines by regulation to be appropriate to include in determining total capital.
 
@@ -136,7 +136,7 @@ The capital structure plan of each Federal home loan bank shall contain provisio
 
 #### (A) In general
 
-&emsp;&emsp;The capital structure plan of a Federal home loan bank shall afford each member of that bank the option of maintaining its required investment in the bank through the purchase of any combination of classes of stock authorized by the board of directors ofthe bank and approved by the Director in accordance with its regulations.
+&emsp;&emsp;The capital structure plan of a Federal home loan bank shall afford each member of that bank the option of maintaining its required investment in the bank through the purchase of any combination of classes of stock authorized by the board of directors of the bank and approved by the Director in accordance with its regulations.
 
 #### (B) Rights requirement
 
@@ -208,7 +208,7 @@ The capital structure plan of each Federal home loan bank shall contain provisio
 
 #### (1) In general
 
-&emsp;A Federal home loan bank, in its sole discretion, may redeem or repurchase, as appropriate, any shares of Class A or Class B stockissued by the bank and held by a member that are in excess of the minimum stock investment required of that member.
+&emsp;A Federal home loan bank, in its sole discretion, may redeem or repurchase, as appropriate, any shares of Class A or Class B stock issued by the bank and held by a member that are in excess of the minimum stock investment required of that member.
 
 #### (2) Excess stock
 
@@ -274,7 +274,7 @@ Subsecs. (c)(4)(B), (d)(2)(A). Pub. L. 110–289, §1204(4)(B), substituted "reg
 
 <b>1999</b>—Pub. L. 106–102 amended section generally, substituting present provisions for provisions authorizing banks to issue capital stock and providing for minimum subscriptions, retirement of oversubscriptions, cancellation of oversubscriptions, aggregate unpaid loan principal, reports and information, payments for stock, transfer or hypothecation of stock, withdrawal or removal of members, surrender and cancellation of stock, prepayment penalties, disposal of stock, dividends, and acquisition of membership after expiration of period of withdrawal.
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–73, §§701(b)(1), (3)(A), 706(1), redesignated subsec. (b) as (a), substituted "Board" for "board", and struck out former subsec. (a)which related to minimum amount of capital stock and subscription books.
+<b>1989</b>—Subsec. (a). Pub. L. 101–73, §§701(b)(1), (3)(A), 706(1), redesignated subsec. (b) as (a), substituted "Board" for "board", and struck out former subsec. (a) which related to minimum amount of capital stock and subscription books.
 
 Subsec. (b). Pub. L. 101–73, §§701(b)(1), (3)(A), 706(1), redesignated subsec. (c) as (b) and substituted "Board may" for "Federal Home Loan Bank Board may" in par. (1), and "The Board" for "The Federal Home Loan Bank Board" in par. (5). Former subsec. (b) redesignated (a).
 
@@ -306,7 +306,7 @@ Subsec. (m). Pub. L. 101–73, §706(1), redesignated former subsec. (m) as (h).
 
 <b>1982</b>—Subsec. (c)(2). Pub. L. 97–320, §353, struck out cl. (i) limitations which had prohibited members from reducing stock to less than the amount held on Sept. 8, 1961, except for a reduction at any time to not less than 2 percent of its aggregate unpaid loan principal as of the beginning of the calendar year in which reduction was made, but not less than $500, or if reduced to less than 2 percent, such reduction to be in the discretion of the Board; and reenacted cl. (ii) limitations as par. (2), substituting "the Board defining such term" for "said Board defining said term".
 
-Subsec. (i). Pub. L. 97–320, §355(a), provided for treatment of a liquidation of indebtedness, in the case of a voluntary withdrawal of an institution from membership, as a prepayment of the indebtedness, subject to applicable prepayment penalties.
+Subsec. (i). Pub. L. 97–320, §355(a), provided for treatment of a liquidation of indebtedness, in the case of avoluntary withdrawal of an institution from membership, as a prepayment of the indebtedness, subject to applicable prepayment penalties.
 
 Subsec. (m). Pub. L. 97–320, §355(b), added subsec. (m).
 

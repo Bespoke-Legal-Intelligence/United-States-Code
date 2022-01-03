@@ -232,7 +232,7 @@ Contents.—A notification provided under paragraph (1) with respect to a findin
 
 "(a)
 
-Annual Report.—Subject to subsection (b), not later than 180 days after the end of each fiscal year, each Federal agency shall submit to the Speaker of the House of Representatives, the President pro tempore of the Senate, the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Oversight and Reform of the House of Representatives, each committee of Congress with jurisdiction relating to the agency, the Equal Employment Opportunity Commission, and the Attorney General an annual report which shall include, with respect to the fiscal year—
+Annual Report.—Subject to subsection (b), not later than 180 days after the end of each fiscal year, each Federal agency shall submit to the Speaker of the House of Representatives, the President pro tempore of the Senate, the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Oversight and Reform of the House of Representatives, each committee of Congress with jurisdiction relating to the agency, the Equal Employment Opportunity Commission, and the Attorney General an annual report (in an electronic format prescribed by the Director of the Office of Personnel Management), which shall include, with respect to the fiscal year—
 
 &emsp;"(1) the number of cases arising under each of the respective provisions of law covered by paragraphs (1) and (2) of section 201(a) in which discrimination on the part of such agency was alleged;
 
@@ -254,7 +254,7 @@ Annual Report.—Subject to subsection (b), not later than 180 days after the en
 
 &emsp;&emsp;"(B) with respect to each of such laws, the number of employees who are disciplined in accordance with such policy and the specific nature of the disciplinary action taken;
 
-&emsp;"(7) an analysis of the information described under paragraphs (1) through (6) (in conjunction with dataprovided to the Equal Employment Opportunity Commission in compliance with part 1614 of title 29 of the Code of Federal Regulations) including—
+&emsp;"(7) an analysis of the information described under paragraphs (1) through (6) (in conjunction with data provided to the Equal Employment Opportunity Commission in compliance with part 1614 of title 29 of the Code of Federal Regulations) including—
 
 &emsp;&emsp;"(A) an examination of trends;
 
@@ -286,7 +286,7 @@ Issuance of Rules and Guidelines.—The President (or the designee of the Presid
 
 &emsp;"(1) rules to carry out this title;
 
-&emsp;"(2) rules to require that a comprehensive study be conducted in the executive branch to determine the best practices relating to the appropriate disciplinary actions against Federal employees who commit the actions described under clauses (i) and (ii) of section 203(a)(6)(A); and
+&emsp;"(2) rules to require that a comprehensive study be conducted in the executive branch to determine the best practices relating to the appropriate disciplinary actions against Federal employees who commit theactions described under clauses (i) and (ii) of section 203(a)(6)(A); and
 
 &emsp;"(3) based on the results of such study, advisory guidelines incorporating best practices that Federal agencies may follow to take such actions against such employees.
 
@@ -396,7 +396,7 @@ In general.—Not later than 1 year after the date of enactment of this Act \[Ma
 
 &emsp;"(2)
 
-Report.—Not later than 90 days after the completion of the study under paragraph (1), the General Accounting Office \[now Government Accountability Office\] shall submit a report on the study to the Speaker of the House of Representatives, the President pro tempore of the Senate, the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, the Committee on Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives, and the Attorney General.
+Report.—Not later than 90 days after the completion of the study under paragraph (1), the General Accounting Office \[now Government Accountability Office\] shall submit a report on the study to the Speaker of the House of Representatives, the President pro tempore of the Senate, the Committee on Governmental Affairs \[now Committee on HomelandSecurity and Governmental Affairs\] of the Senate, the Committee on Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives, and the Attorney General.
 
 #### "SEC. 207. COMPLAINT TRACKING.
 
@@ -593,8 +593,6 @@ Notification.—The Office of Special Counsel shall notify the Commission and th
 "(d)
 
 Special Counsel Approval.—A Federal agency may not take disciplinary action against a Federal employee for an alleged act of discrimination (including retaliation) referred by the Commission under this section, except in accordance with the requirements of section 1214(f) of title 5, United States Code."
-
-<i>\[Pub. L. 116–283, div. A, title XI, §1134(a)(1)(C), (2), Jan. 1, 2021, 134 Stat. 3901, provided that, effective on the date that is 1 year after Jan. 1, 2021, the matter preceding paragraph (1) of section 203(a) of Pub. L. 107–174, set out above, is amended by inserting "(in an electronic format prescribed by the Director of the Office of Personnel Management)," after "an annual report".\]</i>
 
 \[Pub. L. 116–283, div. A, title XI, §1134(a)(2), Jan. 1, 2021, 134 Stat. 3901, provided that: "The amendment made by paragraph (1)(C) \[amending section 203(a) of Pub. L. 107–174, set out above\] shall take effect on the date that is 1 year after the date of enactment of this Act \[Jan. 1, 2021\]."\]
 

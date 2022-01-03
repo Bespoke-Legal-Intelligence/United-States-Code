@@ -14,6 +14,7 @@
 | [14508\.](Subchapter%20001%20%28I%29%20-%20Programs/%C2%A7%2014508%20-%20Economic%20and%20energy%20development%20initiative.md) | Economic and energy development initiative. |
 | [14509\.](Subchapter%20001%20%28I%29%20-%20Programs/%C2%A7%2014509%20-%20High-speed%20broadband%20deployment%20initiative.md) | High-speed broadband deployment initiative. |
 | [14510\.](Subchapter%20001%20%28I%29%20-%20Programs/%C2%A7%2014510%20-%20Drug%20abuse%20mitigation%20initiative.md) | Drug abuse mitigation initiative. |
+| 14511 <sup>1</sup> | Appalachian regional energy hub initiative. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -26,7 +27,7 @@
 | [14523\.](Subchapter%20002%20%28II%29%20-%20Administrative/%C2%A7%2014523%20-%20Program%20implementation.md) | Program implementation. |
 | [14524\.](Subchapter%20002%20%28II%29%20-%20Administrative/%C2%A7%2014524%20-%20Program%20development%20criteria.md) | Program development criteria. |
 | [14525\.](Subchapter%20002%20%28II%29%20-%20Administrative/%C2%A7%2014525%20-%20State%20development%20planning%20process.md) | State development planning process. |
-| [14526\.](Subchapter%20002%20%28II%29%20-%20Administrative/%C2%A7%2014526%20-%20Distressed%2C%20at-risk%2C%20and%20economically%20strong%20counties.md) | Distressed, at-risk, and economically strong counties.<br> |
+| [14526\.](Subchapter%20002%20%28II%29%20-%20Administrative/%C2%A7%2014526%20-%20Distressed%2C%20at-risk%2C%20and%20economically%20strong%20counties.md) | Distressed, at-risk, and economically strong counties. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -34,11 +35,15 @@
 
 #### Amendments
 
+Pub. L. 117–58, div. A, title I, §11506(e)(2), Nov. 15, 2021, 135 Stat. 586, which directed amendment of the analysis for subchapter I of this chapter by adding item 14511 at the end, was executed by adding item 14511 to the analysis for this chapter to reflect the probable intent of Congress.
+
 <b>2018</b>—Pub. L. 115–271, title VIII, §8062(b), Oct. 24, 2018, 132 Stat. 4095, added item 14510.
 
 <b>2015</b>—Pub. L. 114–94, div. A, title I, §1436(a)(2), Dec. 4, 2015, 129 Stat. 1431, added item 14509.
 
 <b>2008</b>—Pub. L. 110–371, §§3(b), 4(b), Oct. 8, 2008, 122 Stat. 4041, added items 14508 and 14526 and struck out former item 14526 "Distressed and economically strong counties".
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 
 
 ---

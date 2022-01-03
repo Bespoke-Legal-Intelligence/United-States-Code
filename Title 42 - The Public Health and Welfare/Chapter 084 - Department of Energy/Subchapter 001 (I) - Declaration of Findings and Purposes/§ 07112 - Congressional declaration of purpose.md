@@ -24,7 +24,7 @@ The Congress therefore declares that the establishment of a Department of Energy
 
 &emsp;(7) To continue and improve the effectiveness and objectivity of a central energy data collection and analysis program within the Department.
 
-&emsp;(8) To facilitate establishment of an effective strategy for distributing and allocating fuels in periods of short supply and to providefor the administration of a national energy supply reserve.
+&emsp;(8) To facilitate establishment of an effective strategy for distributing and allocating fuels in periods of short supply and to provide for the administration of a national energy supply reserve.
 
 &emsp;(9) To promote the interests of consumers through the provision of an adequate and reliable supply of energy at the lowest reasonable cost.
 
@@ -46,9 +46,11 @@ The Congress therefore declares that the establishment of a Department of Energy
 
 &emsp;(18) To provide for the administration of the functions of the Energy Research and Development Administration related to nuclear weapons and national security which are transferred to the Department by this chapter.
 
-&emsp;(19) To ensure that the Department can continue current support of mathematics, science, and engineering education programs by using the personnel, facilities, equipment, and resources of its laboratories and by working with State and local education agencies, institutions of higher education, and business and industry. The Department's involvement in mathematics, science, and engineering education should be consistent with its main mission and should be coordinated with all Federal efforts in mathematics, science, and engineering education, especially with the Department of Education and the National Science Foundation (which have the primary Federal responsibility for mathematics, science, and engineering education).
+&emsp;(19) To ensure that the Department can continue current support of mathematics, science, and engineering education programs by using the personnel, facilities, equipment, and resources of its laboratories and by working with State and local education agencies, institutions of higher education, and business andindustry. The Department's involvement in mathematics, science, and engineering education should be consistent with its main mission and should be coordinated with all Federal efforts in mathematics, science, and engineering education, especially with the Department of Education and the National Science Foundation (which have the primary Federal responsibility for mathematics, science, and engineering education).
 
 (Pub. L. 95–91, title I, §102, Aug. 4, 1977, 91 Stat. 567; Pub. L. 101–510, div. C, title XXXI, §3163, Nov. 5, 1990, 104 Stat. 1841.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

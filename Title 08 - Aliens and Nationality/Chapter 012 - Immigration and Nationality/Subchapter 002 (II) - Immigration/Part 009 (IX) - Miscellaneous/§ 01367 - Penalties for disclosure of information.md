@@ -28,7 +28,7 @@ Except as provided in subsection (b), in no case may the Attorney General, or an
 
 (1) The Secretary of Homeland Security or the Attorney General may provide, in the Secretary's or the Attorney General's discretion, for the disclosure of information in the same manner and circumstances as census information may be disclosed by the Secretary of Commerce under section 8 of title 13.
 
-(2) The Secretary of Homeland Security or the Attorney General may provide in the discretionof the Secretary or the Attorney General for the disclosure of information to law enforcement officials to be used solely for a legitimate law enforcement purpose in a manner that protects the confidentiality of such information.
+(2) The Secretary of Homeland Security or the Attorney General may provide in the discretion of the Secretary or the Attorney General for the disclosure of information to law enforcement officials to be used solely for a legitimate law enforcement purpose in a manner that protects the confidentiality of such information.
 
 (3) Subsection (a) shall not be construed as preventing disclosure of information in connection with judicial review of a determination in a manner that protects the confidentiality of such information.
 
@@ -78,7 +78,7 @@ Subsec. (b)(8). Pub. L. 113–4, §810(a)(4), added par. (8).
 
 Subsec. (d). Pub. L. 113–4, §810(b), inserted ", Secretary of State," after "The Attorney General", ", Department of State," after "Department of Justice", and "and severe forms of trafficking in persons or criminal activity listed in section 101(a)(15)(U) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(u))" after "domestic violence".
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–162, §817(1)(A), substituted ", the Secretary of Homeland Security, the Secretary of State, or any other official or employee ofthe Department of Homeland Security or Department of State (including any bureau or agency of either of such Departments)" for "(including any bureau or agency of such Department)" in introductory provisions.
+<b>2006</b>—Subsec. (a). Pub. L. 109–162, §817(1)(A), substituted ", the Secretary of Homeland Security, the Secretary of State, or any other official or employee of the Department of Homeland Security or Department of State (including any bureau or agency of either of such Departments)" for "(including any bureau or agency of such Department)" in introductory provisions.
 
 Subsec. (a)(1)(F). Pub. L. 109–162, §817(1)(B), added subpar. (F).
 

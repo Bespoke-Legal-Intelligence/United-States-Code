@@ -10,6 +10,8 @@ Modification.—Notwithstanding any commitment by the Administrator under subsec
 
 (Added Pub. L. 108–176, title III, §304(a), Dec. 12, 2003, 117 Stat. 2537.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out an Effective Date of 2003 Amendment note under section 106 of this title.

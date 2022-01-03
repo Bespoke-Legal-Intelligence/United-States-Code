@@ -4,9 +4,13 @@ This chapter shall be administered under regulations prescribed by the Secretary
 
 (Added Pub. L. 103–337, div. A, title XVI, §1663(c)(1), Oct. 5, 1994, 108 Stat. 3007.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 2130(c) of this title, prior to amendment by Pub. L. 103–337, §1663(c)(4)(A).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

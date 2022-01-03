@@ -16,6 +16,8 @@ Within 1 year after destruction made pursuant to subsection (a) the owner of, in
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1403; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 5609, act Aug. 16, 1954, ch. 736, 68A Stat. 685, related to penalty in connection to return of materials used in the manufacture of distilled spirits, prior to the general revision of this chapter by Pub. L. 85–859. See section 5605 of this title.

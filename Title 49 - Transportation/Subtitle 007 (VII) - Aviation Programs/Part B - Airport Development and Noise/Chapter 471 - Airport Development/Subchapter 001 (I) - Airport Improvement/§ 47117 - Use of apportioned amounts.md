@@ -198,7 +198,7 @@ Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, §508(e)(2); added Oct. 2, 1982, 
 
 In subsection (b), the words "for grants" are added, and the word "apportioned" is substituted for "first authorized to be obligated", for clarity. The words "established by section 2206(c) of this Appendix" are omitted as surplus.
 
-In subsection (c)(2), the word "if" is substituted for "on the condition that" to eliminate unnecessary words. The word "in" is substituted for "which is a part of" for clarity.
+In subsection (c)(2), the word "if" is substituted for "on the condition that" to eliminate unnecessarywords. The word "in" is substituted for "which is a part of" for clarity.
 
 Subsection (d) is substituted for 49 App.:2207(c) (1st sentence related to airports at which funds are available) for clarity. The text of 49 App.:2207(c) (last sentence) is omitted as surplus because of section 47105(a) of the revised title.
 
@@ -240,6 +240,8 @@ This amends 49:47117(e)(1)(B) because of the redesignation of 49:47504(c)(1)(C) 
 
 This amends 49:47117(g)(1) because of the redesignation of 49:47105(e) as 49:47105(f) by section 107(a)(1) of the Federal Aviation Administration Authorization Act of 1994 (Public Law 103–305, 108 Stat. 1572).
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Clean Air Act, referred to in subsec. (e)(1)(A), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
@@ -276,7 +278,7 @@ Discretionary Use of Apportionments.—(1) Subject to paragraph (2) of this subs
 
 "(2) The Secretary may make a grant under paragraph (1) of this subsection only if the Secretary decides that—
 
-&emsp;"(A) the total amount used for grants for the fiscal year under section 48103 of this title will not be more than the amount made available under section 48103 for that fiscal year; and
+&emsp;"(A) the total amount used for grants for the fiscal year under section 48103 of this title will not be morethan the amount made available under section 48103 for that fiscal year; and
 
 &emsp;"(B) the amounts authorized for grants under section 48103 of this title for later fiscal years are sufficient for grants of the apportioned amounts that were not used for grants under the apportionment during the fiscal year and that remain available under subsection (b) of this section."
 
@@ -338,6 +340,8 @@ Subsec. (e)(1)(E). Pub. L. 103–305 substituted ", 1995, and 1996" for ", and
 
 Subsec. (e)(2). Pub. L. 103–429, §6(68)(D), substituted "1.5 percent" for "2.5 percent".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2003 Amendment
 
 Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
@@ -360,5 +364,5 @@ Except as otherwise specifically provided, amendment by Pub. L. 104–264 applic
 
 #### Deemed References to Chapters 509 and 511 of Title 51
 
-General references to "this title" deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
+General references to "this title" deemed to refer also to chapters 509 and 511 of Title 51, National andCommercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
 

@@ -16,7 +16,9 @@ Stripping and Environmental Remediation of Vessel.—(1) Before using a vessel f
 
 Use for Experimental Purposes Defined.—In this section, the term "use for experimental purposes", with respect to a vessel, includes use of the vessel in a Navy sink exercise or for target purposes.
 
-(Added Pub. L. 103–160, div. A, title VIII, §824(b), Nov. 30, 1993, 107 Stat. 1709, §7306a; amended Pub. L. 108–136, div. A, title X, §1012, Nov. 24, 2003, 117 Stat. 1589; renumbered §8676a, Pub. L. 115–232,div. A, title VIII, §807(d)(2), Aug. 13, 2018, 132 Stat. 1836.)
+(Added Pub. L. 103–160, div. A, title VIII, §824(b), Nov. 30, 1993, 107 Stat. 1709, §7306a; amended Pub. L. 108–136, div. A, title X, §1012, Nov. 24, 2003, 117 Stat. 1589; renumbered §8676a, Pub. L. 115–232, div. A, title VIII, §807(d)(2), Aug. 13, 2018, 132 Stat. 1836.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -31,6 +33,8 @@ Subsec. (b)(2). Pub. L. 108–136, §1012(b)(2), added par. (2). Former par. (2)
 Subsec. (b)(3). Pub. L. 108–136, §1012(b)(1), (3), redesignated par. (2) as (3) and substituted "services needed for such stripping and for environmental remediation required for the use of the vessel for experimental purposes. Amounts received in excess of amounts needed for reimbursement of those costs shall be deposited into the account from which the stripping and environmental remediation expenses were incurred and shall be available for stripping and environmental remediation of other vessels to be used for experimental purposes" for "scrapping services needed for such stripping. Amounts received which are in excess of amounts needed for procuring such services shall be deposited into the general fund of the Treasury".
 
 Subsec. (c). Pub. L. 108–136, §1012(c), added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

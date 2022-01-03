@@ -4,7 +4,7 @@
 
 Articles of foreign or domestic origin may be withdrawn, under such regulations as the Secretary of the Treasury may prescribe, from any customs bonded warehouse, from continuous customs custody elsewhere than in a bonded warehouse, or from a foreign-trade zone free of duty and internal-revenue tax, or from any internal-revenue bonded warehouse, from any brewery, or from any winery premises or bonded premises for the storage of wine, free of internal-revenue tax—
 
-&emsp;(1) for supplies (not including equipment) of (A) vessels or aircraft operated by the United States, (B) vessels of the United States employed in the fisheries or in the whaling business, or actually engaged in foreign trade or trade between the Atlantic and Pacific ports of the United States or between the United States and any of its possessions, or between Hawaii and any other part of the United States, or between Alaska and any other part of the United States, or (C) aircraft registered in the United States and actually engaged in foreign trade or trade between the United States and any of its possessions, or between Hawaii and any other part of the United States or between Alaska and any other part of the United States; or
+&emsp;(1) for supplies (not including equipment) of (A) vessels or aircraft operated by the United States, (B) vessels of the United States employed in the fisheries or in the whaling business, or actually engaged in foreign trade or trade between the Atlantic and Pacific ports of the United States or between the United States and any of its possessions, or between Hawaii and any other part of the United States, or between Alaska and any other partof the United States, or (C) aircraft registered in the United States and actually engaged in foreign trade or trade between the United States and any of its possessions, or between Hawaii and any other part of the United States or between Alaska and any other part of the United States; or
 
 &emsp;(2) for supplies (including equipment) or repair of (A) vessels of war of any foreign nation, or (B) foreign vessels employed in the fisheries or in the whaling business, or actually engaged in foreign trade or trade between the United States and any of its possessions, or between Hawaii and any other part of the United States or between Alaska and any other part of the United States, where such trade by foreign vessels is permitted; or
 
@@ -26,6 +26,8 @@ The privileges granted by this section and section 1317 of this title in respect
 
 (June 17, 1930, ch. 497, title III, §309, 46 Stat. 690; June 25, 1938, ch. 679, §5(a), 52 Stat. 1080; July 22, 1941, ch. 314, §3, 55 Stat. 602; Aug. 8, 1953, ch. 397, §11(a), 67 Stat. 514; Pub. L. 86–606, §5(a), July 7, 1960, 74 Stat. 361; Pub. L. 101–382, title III, §484A(b), Aug. 20, 1990, 104 Stat. 708.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in act Oct. 3, 1913, ch. 16, §IV, K, 38 Stat. 197, which superseded a like provision made by an amendment of R.S. §2982, by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §21, 36 Stat. 88. Section IV, K, of the act of 1913, and R.S. §2982 were superseded by act Sept. 21, 1922, ch. 356, title III, §309, 42 Stat. 938, and respectively repealed by sections 321 and 642 thereof. Section 309 of the act of 1922 was superseded by section 309 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
@@ -44,6 +46,8 @@ Subsec. (b). Act Aug. 8, 1953, made technical changes to conform with the change
 
 <b>1938</b>—Act June 25, 1938, amended section generally, adding subsecs. (c) and (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1990 Amendment
 
 Pub. L. 101–382, title III, §484A(c), Aug. 20, 1990, 104 Stat. 708, provided that: "Notwithstanding section 514 of the Tariff Act of 1930 (19 U.S.C. 1514) or any other provision of law, the amendments made by this section \[amending this section and section 1313 of this title\] shall apply to—
@@ -54,7 +58,7 @@ Pub. L. 101–382, title III, §484A(c), Aug. 20, 1990, 104 Stat. 708, provided 
 
 #### Effective Date of 1960 Amendment
 
-Pub. L. 86–606, §5(b), July 7, 1960, 74 Stat. 361, provided that: "The amendment made by this section \[amending this section\] shall apply only with respect to articles withdrawn as provided in section 309(a) of the Tariff Act of 1930, as amended \[subsec. (a) of this section\], on or after the date of the enactment of this Act \[July 7, 1960\]."
+Pub. L. 86–606, §5(b), July 7, 1960, 74 Stat. 361, provided that: "The amendment made by this section \[amendingthis section\] shall apply only with respect to articles withdrawn as provided in section 309(a) of the Tariff Act of 1930, as amended \[subsec. (a) of this section\], on or after the date of the enactment of this Act \[July 7, 1960\]."
 
 #### Effective Date of 1953 Amendment; Savings Provision
 

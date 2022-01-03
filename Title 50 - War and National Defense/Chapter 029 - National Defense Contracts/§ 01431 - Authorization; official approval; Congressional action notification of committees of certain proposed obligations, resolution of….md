@@ -4,6 +4,8 @@ The President may authorize any department or agency of the Government which exe
 
 (Pub. L. 85–804, §1, Aug. 28, 1958, 72 Stat. 972; Pub. L. 93–155, title VIII, §807(a), Nov. 16, 1973, 87 Stat. 615; Pub. L. 101–510, div. A, title XIII, §1313, Nov. 5, 1990, 104 Stat. 1670; Pub. L. 102–25, title VII, §705(f), Apr. 6, 1991, 105 Stat. 120; Pub. L. 116–92, div. C, title XXXV, §3507(c), Dec. 20, 2019, 133 Stat. 1976.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Pub. L. 116–92, in third sentence, inserted "and in addition, the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate with respect to contracts, or modifications or amendments to contracts, or advance payments proposed to be made under this section by the Secretary of the Department in which the Coast Guard is operating with respect to the acquisition of Coast Guard cutters or aircraft," after "House of Representatives".
@@ -16,6 +18,8 @@ Pub. L. 102–25, §705(f)(2), in fourth sentence, inserted "at the end of a Con
 
 <b>1973</b>—Pub. L. 93–155 provided for notification of Congressional Committees with respect to certain proposed obligations, Congressional resolution of disapproval, continuity of Congressional session, and computation of period.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1991 Amendment
 
 Pub. L. 102–25, title VII, §705(f)(1), Apr. 6, 1991, 105 Stat. 120, provided that the amendment made by that section is effective as of Nov. 6, 1990.
@@ -26,7 +30,9 @@ The provisions of the National Emergencies Act \[see Short Title note set out un
 
 #### Obligations Entered Into Before November 16, 1973
 
-Amendment by Pub. L. 93–155 not affecting the carrying out of any contract, loan, guarantee, commitment, or other obligation entered into prior to Nov. 16, 1973, see section 807(e) of Pub. L. 93–155, set out as a note under section 2307 of Title 10, Armed Forces.
+Pub. L. 93–155, title VIII, §807(e), Nov. 16, 1973, 87 Stat. 616, provided that: "The amendments made by this section \[amending this section, sections 3816 and 4532 of this title, and section 2307 of Title 10, Armed Forces\] shall not affect the carrying out of any contract, loan, guarantee, commitment, or other obligation entered into prior to the date of enactment of this section \[Nov. 16, 1973\]."
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 10789. Contracting Authority of Government Agencies in Connection With National Defense Functions
 
@@ -64,7 +70,7 @@ Under such regulations, which shall be uniform to the extent practicable, as may
 
 2\. The Secretaries of Defense, the Army, the Navy, and the Air Force, respectively, may exercise the authority herein conferred and, in their discretion and by their direction, may delegate such authority to any other military or civilian officers or officials of their respective departments, and may confer upon any such military or civilian officers or officials the power to make further delegations of such authority within their respective commands or organizations: <i>Provided</i>, That the authority herein conferred shall not be utilized to obligate the United States in an amount in excess of $50,000 without approval by an official at or above the level of an Assistant Secretary or his Deputy, or by a departmental Contract Adjustment Board.
 
-3\. The contracts hereby authorized to be made shall include agreements of all kinds (whether in the form of letters of intent, purchase orders, or otherwise) for all types and kinds of property or services necessary, appropriate, or convenient for the national defense, or for the invention, development, or production of, or research concerning, any such property or services, including, but not limited to, aircraft, missiles, buildings, vessels, arms, armament, equipment or supplies ofany kind, or any portion thereof, including plans, spare parts and equipment therefor, materials, supplies, facilities, utilities, machinery, machine tools, and any other equipment without any restriction of any kind as to type, character, location, or form.
+3\. The contracts hereby authorized to be made shall include agreements of all kinds (whether in the form of letters of intent, purchase orders, or otherwise) for all types and kinds of property or services necessary, appropriate, or convenient for the national defense, or for the invention, development, or production of, or research concerning, any such property or services, including, but not limited to, aircraft, missiles, buildings, vessels, arms, armament, equipment or supplies of any kind, or any portion thereof, including plans, spare parts and equipment therefor, materials, supplies, facilities, utilities, machinery, machine tools, and any other equipment without any restriction of any kind as to type, character, location, or form.
 
 4\. The Department of Defense may by agreement modify or amend or settle claims under contracts heretofore or hereafter made, may make advance payments upon such contracts of any portion of the contract price, and may enter into agreements with contractors or obligors modifying or releasing accrued obligations of any sort, including accrued liquidated damages or liability under surety or other bonds. Amendments or modifications of contracts may be with or without consideration and may be utilized to accomplish the same things as any original contract could have accomplished hereunder, irrespective of the time or circumstances of the making, or the form, of the contract amended or modified, or of the amending or modifying contract, and irrespective of rights which may have accrued under the contract or the amendments or modifications thereof.
 
@@ -90,7 +96,7 @@ Under such regulations, which shall be uniform to the extent practicable, as may
 
 "The Contractor warrants that no person or selling agency has been employed or retained to solicit or secure this contract upon an agreement or understanding for a commission, percentage, brokerage, or contingent fee, except bonafide employees or bonafide established commercial or selling agencies maintained by the Contractor for the purpose of securing business. For breach or violation of this warranty the Government shall have the right to annul this contract without liability or, in its discretion, to deduct from the contract price or consideration, or otherwise recover, the full amount of such commission, percentage, brokerage, or contingent fee."
 
-11\. Except as provided in the Act of September 27, 1966, 80 Stat. 850 \[which amended section 1433 of this title, sections 2310 and 2313 of Title 10, Armed Forces, and section 254 of former Title 41, Public Contracts\] contracts entered into, amended, or modified pursuant to authority of this order shall include a clause to the effect that the Comptroller General of the United States or any of his duly authorized representatives shall, until the expiration of three years after final payment, have access to and the right to examine any directly pertinent books, documents, papers, and records of the contractor or any of his subcontractors engaged in the performance of, and involving transactions related to, such contracts or subcontracts. Before exercising the authority provided in the Act of September 27, 1966, 80 Stat. 850 the Secretaries of Defense, the Army, the Navy, or the Air Force, or their designees, shall first determine that all reasonable efforts have been made to include the clause prescribed above and that alternate sources of supply are not reasonably available.
+11\. Except as provided in the Act of September 27, 1966, 80 Stat. 850 \[which amended section 1433 of this title, former sections 2310 (now 10 U.S.C. 4751) and 2313 (see 10 U.S.C. 3841) of Title 10, Armed Forces, and section 254 of former Title 41, Public Contracts\] contracts entered into, amended, or modified pursuant to authority of this order shall include a clause to the effect that the Comptroller General of the United States or any of his duly authorized representatives shall, until the expiration of three years after final payment, have access to and the right to examine any directly pertinent books, documents, papers, and records of the contractor or any of his subcontractors engaged in the performance of, and involving transactions related to, such contracts or subcontracts. Before exercising the authority provided in the Act of September 27, 1966, 80 Stat. 850 the Secretaries of Defense, the Army, the Navy, or the Air Force, or their designees, shall first determine that all reasonable efforts have been made to include the clause prescribed above and that alternate sources of supply are not reasonably available.
 
 12\. Nothing herein contained shall be construed to constitute authorization hereunder for—
 
@@ -102,7 +108,7 @@ Under such regulations, which shall be uniform to the extent practicable, as may
 
 (d) the waiver of any bid, payment, performance, or other bond required by law;
 
-(e) the amendment of a contract negotiated under section 2304(a)(15) of Title 10 of the United States Code to increase the contract price to an amount higher than the lowest rejected bid of any responsible bidder; or
+(e) the amendment of a contract negotiated under \[former\] section 2304(a)(15) of Title 10 of the United States Code to increase the contract price to an amount higher than the lowest rejected bid of any responsible bidder; or
 
 (f) the formalization of an informal commitment, unless the Secretary of Defense, the Secretary of the Army, the Secretary of the Navy, or the Secretary of the Air Force, or the duly authorized representative of any such Secretary, finds that at the time the commitment was made it was impracticable to use normal procurement procedures.
 
@@ -152,7 +158,7 @@ Department of Homeland Security.
 
 (a) in the case of the Department of Defense, the Secretary of Defense has, after consideration of the authority provided under subtitle G of title VIII of the Homeland Security Act of 2002 \[6 U.S.C. 441 et seq.\], determined that the exercise of authority under this order is necessary for the timely and effective conduct of United States military or intelligence activities; and
 
-(b) in the case of any other executive department or agency that has authority under this order, (i) the Secretary of Homeland Security has advised whether the use of the authority provided under subtitle G of title VIII of the Homeland Security Act of 2002 would be appropriate, and (ii) the Director of the Office and Management and Budget has approved the exercise of authority under this order.
+(b) in the case of any other executive department or agency that has authority under this order, (i) the Secretary of Homeland Security has advised whether the use of the authority provided under subtitle G of title VIII of the Homeland Security Act of 2002 would be appropriate, and (ii) the Director of the Office and \[sic\] Management and Budget has approved the exercise of authority under this order.
 
 #### Authorizing the Exercise of Authority Under Public Law 85–804
 

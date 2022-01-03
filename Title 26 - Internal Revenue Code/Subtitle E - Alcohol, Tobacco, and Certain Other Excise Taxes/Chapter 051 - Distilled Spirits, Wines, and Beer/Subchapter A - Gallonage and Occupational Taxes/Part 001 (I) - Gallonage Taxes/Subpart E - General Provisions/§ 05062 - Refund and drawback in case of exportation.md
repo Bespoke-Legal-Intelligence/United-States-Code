@@ -20,6 +20,8 @@ On the exportation of distilled spirits or wines manufactured, produced, bottled
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1336; amended Pub. L. 88–539, §1, Aug. 31, 1964, 78 Stat. 746; Pub. L. 89–44, title VIII, §805(f)(6), June 21, 1965, 79 Stat. 161; Pub. L. 90–630, §2(a), Oct. 22, 1968, 82 Stat. 1328; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–176, §1, Nov. 14, 1977, 91 Stat. 1363; Pub. L. 98–369, div. A, title IV, §454(c)(1), July 18, 1984, 98 Stat. 820.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 5062, act Aug. 16, 1954, ch. 736, 68A Stat. 614, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
@@ -38,6 +40,8 @@ A prior section 5062, act Aug. 16, 1954, ch. 736, 68A Stat. 614, consisted of pr
 
 <b>1964</b>—Subsec. (c). Pub. L. 88–539 added subsec. (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–369 effective July 1, 1985, see section 456(b) of Pub. L. 98–369, set out as an Effective Date note under section 5101 of this title.
@@ -48,7 +52,7 @@ Amendment by Pub. L. 95–176 effective on first day of first calendar month beg
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–630 applicable only to articles exported on or after first day of first calendar month which begins more than 90 days after Oct. 22, 1968, see section 4 of Pub. L. 90–630, set out as a note under section 5008 of this title.
+Amendment by Pub. L. 90–630 applicable only to articles exported on or after first day of first calendarmonth which begins more than 90 days after Oct. 22, 1968, see section 4 of Pub. L. 90–630, set out as a note under section 5008 of this title.
 
 #### Effective Date of 1965 Amendment
 

@@ -8,9 +8,9 @@ A participating State that establishes a new, or has an existing, State capital 
 
 The Secretary shall approve such State capital access program as eligible for Federal contributions to the reserve fund if—
 
-&emsp;(1) within 60 days after September 27, 2010, the State has filed with the Secretary a notice of intent to apply for approval by the Secretary of a State capital access program;
+&emsp;(1) within 60 days after March 11, 2021, the State has filed with the Secretary a notice of intent to apply for approval by the Secretary of a State capital access program;
 
-&emsp;(2) within 9 months after September 27, 2010, the State has filed with the Secretary a complete application for approval by the Secretary of a capital access program;
+&emsp;(2) within 9 months after March 11, 2021, the State has filed with the Secretary a complete application for approval by the Secretary of a capital access program;
 
 &emsp;(3) the State satisfies the requirements of subsections (a) and (b) of section 5703 of this title; and
 
@@ -22,7 +22,7 @@ For a State capital access program to be approved under this section, that progr
 
 &emsp;(1) provides portfolio insurance for business loans based on a separate loan-loss reserve fund for each financial institution;
 
-&emsp;(2) requires insurance premiums to be paid by the financial institution lenders and by thebusiness borrowers to the reserve fund to have their loans enrolled in the reserve fund;
+&emsp;(2) requires insurance premiums to be paid by the financial institution lenders and by the business borrowers to the reserve fund to have their loans enrolled in the reserve fund;
 
 &emsp;(3) provides for contributions to be made by the State to the reserve fund in amounts at least equal to the sum of the amount of the insurance premium charges paid by the borrower and the financial institution to the reserve fund for any newly enrolled loan; and
 
@@ -86,7 +86,7 @@ The Secretary shall, by regulation or other guidance, prescribe Program requirem
 
 &emsp;&emsp;&emsp;(ii) shall provide assurances to the participating State that the loan has not been made in order to place under the protection of the approved State capital access program prior debt that is not covered under the approved State capital access program and that is or was owed by the borrower to the financial institution lender or to an affiliate of the financial institution lender;
 
-&emsp;&emsp;&emsp;(iii) shall not allow the enrollment of a loan to a borrower that is a refinancing ofa loan previously made to that borrower by the financial institution lender or an affiliate of the financial institution lender; and
+&emsp;&emsp;&emsp;(iii) shall not allow the enrollment of a loan to a borrower that is a refinancing of a loan previously made to that borrower by the financial institution lender or an affiliate of the financial institution lender; and
 
 &emsp;&emsp;&emsp;(iv) may include additional restrictions on the eligibility of loans or borrowers that are not inconsistent with the provisions and purposes of this chapter, including compliance with all applicable Federal and State laws, regulations, ordinances, and Executive orders.
 
@@ -98,5 +98,17 @@ The Secretary shall, by regulation or other guidance, prescribe Program requirem
 
 &emsp;At the time that a State applies to the Secretary to have the State capital access program approved as eligible for Federal contributions, the State shall deliver to the Secretary a report stating how the State plans to use the Federal contributions to the reserve fund to provide access to capital for small businesses in low- and moderate-income, minority, and other underserved communities, including women- and minority-owned small businesses.
 
-(Pub. L. 111–240, title III, §3005, Sept. 27, 2010, 124 Stat. 2574.)
+(Pub. L. 111–240, title III, §3005, Sept. 27, 2010, 124 Stat. 2574; Pub. L. 117–2, title III, §3301(a)(1)(C), Mar. 11, 2021, 135 Stat. 69.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2021</b>—Subsec. (b)(1), (2). Pub. L. 117–2 substituted "March 11, 2021" for "September 27, 2010".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 117–2 applicable with respect to funds appropriated under section 3301 of Pub. L. 117–2 and funds appropriated on and after Mar. 11, 2021, see section 3301(g) of Pub. L. 117–2, set out as a note under section 5701 of this title.
 

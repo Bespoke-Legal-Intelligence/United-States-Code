@@ -8,7 +8,7 @@
 
 (2) The Chairman, in accordance with guidelines furnished to the Chairman by the Secretary of Defense, shall review the report for the purpose of determining if—
 
-&emsp;(A) the selection board acted consistent with the guidelines of the Secretary of Defense under section 615(c) of this title to ensure that selection boards give appropriate consideration to the performance of officers who are serving on, or have served on, the Joint Staff or are joint qualified officers; and
+&emsp;(A) the selection board acted consistent with the guidelines of the Secretary of Defense under section 615(c) of this title to ensure that selection boards give appropriate consideration to the performance of officers who areserving on, or have served on, the Joint Staff or are joint qualified officers; and
 
 &emsp;(B) the selection board otherwise gave appropriate consideration to the performance of officers who are serving on, or have served on, the Joint Staff or are joint qualified officers.
 
@@ -52,6 +52,8 @@
 
 (Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2853; amended Pub. L. 98–525, title V, §524(a), Oct. 19, 1984, 98 Stat. 2524; Pub. L. 99–433, title IV, §402(c), Oct. 1, 1986, 100 Stat. 1030; Pub. L. 100–456, div. A, title V, §501(d), Sept. 29, 1988, 102 Stat. 1966; Pub. L. 102–190, div. A, title V, §504(c), Dec. 5, 1991, 105 Stat. 1357; Pub. L. 102–484, div. A, title X, §1052(8), (9), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 106–398, §1 \[\[div. A\], title V, §503(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–100; Pub. L. 109–364, div. A, title V, §§513(a), 547(a)(2), Oct. 17, 2006, 120 Stat. 2184, 2216; Pub. L. 111–383, div. A, title V, §522(c), Jan. 7, 2011, 124 Stat. 4215.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Subsec. (b)(1). Pub. L. 111–383, §522(c)(1), substituted "are serving on, or have served on, the Joint Staff or are joint qualified officers" for "are serving, or have served, in joint duty assignments".
@@ -72,7 +74,7 @@ Subsec. (b)(2)(A), (4). Pub. L. 102–484, §1052(9), substituted "section 615(c
 
 <b>1991</b>—Subsec. (g). Pub. L. 102–190 added subsec. (g).
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–456, §501(d)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "If, after reviewing the report of a selection board submitted to him under section 617(a) of this title, the Secretary of the military department concerned determines that the board has acted contrary to law or regulation, the Secretary shall returnthe report to the board for further proceedings. Upon receipt of a report returned by the Secretary concerned under this subsection, the selection board (or a subsequent selection board convened under section 611(a) of this title for the same grade and competitive category) shall conduct such proceedings as may be necessary in order to revise the report and shall resubmit the report, as revised, to the Secretary in accordance with section 617 of this title."
+<b>1988</b>—Subsec. (a). Pub. L. 100–456, §501(d)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "If, after reviewing the report of a selection board submitted to him under section 617(a) of this title, the Secretary of the military department concerned determines that the board has acted contrary to law or regulation, the Secretary shall return the report to the board for further proceedings. Upon receipt of a report returned by the Secretary concerned under this subsection, the selection board (or a subsequent selection board convened under section 611(a) of this title for the same grade and competitive category) shall conduct such proceedings as may be necessary in order to revise the report and shall resubmit the report, as revised, to the Secretary in accordance with section 617 of this title."
 
 Subsec. (c)(1). Pub. L. 100–456, §501(d)(2), struck out ", modification," after "for his approval" and inserted at end "If the authority of the President under this paragraph to approve or disapprove the report of a selection board is delegated to the Secretary of Defense, it may not be redelegated except to an official in the Office of the Secretary of Defense."
 
@@ -83,6 +85,8 @@ Subsec. (c). Pub. L. 99–433, §402(c)(1), (3), redesignated subsec. (b) as (c)
 Subsecs. (d) to (f). Pub. L. 99–433, §402(c)(1), redesignated subsecs. (c) to (e) as (d) to (f), respectively.
 
 <b>1984</b>—Subsec. (b)(2). Pub. L. 98–525 substituted "If the report of a selection board names an officer as having a record which indicates that the officer should be required to show cause for his retention on active duty, the Secretary concerned may provide for the review of the record of that officer as provided for under regulations prescribed under section 1181 of this title" for "The Secretary concerned may submit to a board of officers convened under section 1181 of this title the name of any officer who is named in the report of a selection board as having a record which indicates that the officer should be required to show cause for his retention on active duty".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 
@@ -103,6 +107,8 @@ Amendment by Pub. L. 99–433 effective with respect to selection boards convene
 #### Effective Date
 
 Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

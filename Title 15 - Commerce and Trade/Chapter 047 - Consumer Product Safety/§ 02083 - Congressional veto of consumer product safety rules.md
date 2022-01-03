@@ -8,7 +8,7 @@ The Commission shall transmit to the Secretary of the Senate and the Clerk of th
 
 Any rule specified in subsection (a) shall not take effect if—
 
-&emsp;(1) within the 90 calendar days of continuous session of the Congress which occur after the date of the promulgation of such rule, both Houses of the Congress adopt a concurrent resolution, the matter after the resolving clause of which is as follows (with the blank spaces appropriately filled): "That the Congress disapproves the consumer product safety rule which was promulgated by the Consumer Product Safety Commission with respect to            and which was transmitted to the Congress on            and disapproves the rule for the following reasons:           ."; or
+&emsp;(1) within the 90 calendar days of continuous session of the Congress which occur after the date of the promulgation of such rule, both Houses of the Congress adopt a concurrent resolution, the matter after the resolving clause of which is as follows (with the blank spaces appropriately filled): "That the Congress disapproves the consumer product safety rule which was promulgated by the Consumer Product Safety Commission with respect to           and which was transmitted to the Congress on            and disapproves the rule for the following reasons:           ."; or
 
 &emsp;(2) within the 60 calendar days of continuous session of the Congress which occur after the date of the promulgation of such rule, one House of the Congress adopts such concurrent resolution and transmits such resolution to the other House and such resolution is not disapproved by such other House within the 30 calendar days of continuous session of the Congress which occur after the date of such transmittal.
 
@@ -25,6 +25,8 @@ For purposes of this section—
 &emsp;(2) the days on which either House is not in session because of an adjournment of more than 3 days to a day certain are excluded in the computation of the periods of continuous session of the Congress specified in subsection (b).
 
 (Pub. L. 92–573, §36, as added Pub. L. 97–35, title XII, §1207(a), Aug. 13, 1981, 95 Stat. 718.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

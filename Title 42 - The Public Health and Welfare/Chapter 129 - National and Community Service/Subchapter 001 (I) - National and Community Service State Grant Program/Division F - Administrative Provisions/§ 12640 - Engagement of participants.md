@@ -4,9 +4,13 @@ A State shall not engage a participant to serve in any program that receives ass
 
 (Pub. L. 101–610, title I, §180, Nov. 16, 1990, 104 Stat. 3166; Pub. L. 103–82, title I, §119, Sept. 21, 1993, 107 Stat. 866.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1993</b>—Pub. L. 103–82 substituted "national service educational awards" for "post-service benefits".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1993 Amendment
 

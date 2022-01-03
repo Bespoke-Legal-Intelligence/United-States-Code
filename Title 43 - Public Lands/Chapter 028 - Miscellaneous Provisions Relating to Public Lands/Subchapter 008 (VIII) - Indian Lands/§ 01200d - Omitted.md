@@ -4,5 +4,5 @@
 
 #### Codification
 
-Section, act July 6, 1954, ch. 463, §7, 68 Stat. 453, which related to construction of former sections 1198 to1200e of this title, was omitted from the Code as being of special and not general application.
+Section, act July 6, 1954, ch. 463, §7, 68 Stat. 453, which related to construction of former sections 1198 to 1200e of this title, was omitted from the Code as being of special and not general application.
 

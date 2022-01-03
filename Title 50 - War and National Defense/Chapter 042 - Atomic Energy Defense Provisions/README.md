@@ -101,6 +101,7 @@
 | [2584\.](Subchapter%20004%20%28IV%29%20-%20Defense%20Environmental%20Cleanup%20Matters/Part%20A%20-%20Defense%20Environmental%20Cleanup/%C2%A7%2002584%20-%20Repealed.%20Pub.%20L.%20113%E2%80%9366%2C%20div.%20C%2C%20title%20XXXI%2C%20%C2%A73146%28e%29%285%29%2C%20Dec.%2026%2C%202013%2C%20127%20Stat.%201076.md) | Repealed. |
 | [2585\.](Subchapter%20004%20%28IV%29%20-%20Defense%20Environmental%20Cleanup%20Matters/Part%20A%20-%20Defense%20Environmental%20Cleanup/%C2%A7%2002585%20-%20Accelerated%20schedule%20for%20defense%20environmental%20cleanup%20activities.md) | Accelerated schedule for defense environmental cleanup activities. |
 | [2586\.](Subchapter%20004%20%28IV%29%20-%20Defense%20Environmental%20Cleanup%20Matters/Part%20A%20-%20Defense%20Environmental%20Cleanup/%C2%A7%2002586%20-%20Defense%20environmental%20cleanup%20technology%20program.md) | Defense environmental cleanup technology program. |
+| [2586a.](Subchapter%20004%20%28IV%29%20-%20Defense%20Environmental%20Cleanup%20Matters/Part%20A%20-%20Defense%20Environmental%20Cleanup/%C2%A7%2002586a%20-%20Other%20programs%20relating%20to%20technology%20development.md) | Other programs relating to technology development. |
 | [2587\.](Subchapter%20004%20%28IV%29%20-%20Defense%20Environmental%20Cleanup%20Matters/Part%20A%20-%20Defense%20Environmental%20Cleanup/%C2%A7%2002587%20-%20Report%20on%20defense%20environmental%20cleanup%20expenditures.md) | Report on defense environmental cleanup expenditures. |
 | [2588\.](Subchapter%20004%20%28IV%29%20-%20Defense%20Environmental%20Cleanup%20Matters/Part%20A%20-%20Defense%20Environmental%20Cleanup/%C2%A7%2002588%20-%20Public%20participation%20in%20planning%20for%20defense%20environmental%20cleanup.md) | Public participation in planning for defense environmental cleanup. |
 | [2589\.](Subchapter%20004%20%28IV%29%20-%20Defense%20Environmental%20Cleanup%20Matters/Part%20A%20-%20Defense%20Environmental%20Cleanup/%C2%A7%2002589%20-%20Policy%20of%20Department%20of%20Energy%20regarding%20future%20defense%20environmental%20management%20matters.md) | Policy of Department of Energy regarding future defense environmental management matters. |
@@ -237,6 +238,7 @@
 | [2755\.](Subchapter%20007%20%28VII%29%20-%20Budget%20and%20Financial%20Management%20Matters/Part%20A%20-%20Recurring%20National%20Security%20Authorization%20Provisions/%C2%A7%2002755%20-%20Matters%20relating%20to%20critical%20decisions.md) | Matters relating to critical decisions. |
 | [2756\.](Subchapter%20007%20%28VII%29%20-%20Budget%20and%20Financial%20Management%20Matters/Part%20A%20-%20Recurring%20National%20Security%20Authorization%20Provisions/%C2%A7%2002756%20-%20Unfunded%20priorities%20of%20the%20Administration.md) | Unfunded priorities of the Administration. |
 | [2757\.](Subchapter%20007%20%28VII%29%20-%20Budget%20and%20Financial%20Management%20Matters/Part%20A%20-%20Recurring%20National%20Security%20Authorization%20Provisions/%C2%A7%2002757%20-%20Review%20of%20adequacy%20of%20nuclear%20weapons%20budget.md) | Review of adequacy of nuclear weapons budget. |
+| [2758\.](Subchapter%20007%20%28VII%29%20-%20Budget%20and%20Financial%20Management%20Matters/Part%20A%20-%20Recurring%20National%20Security%20Authorization%20Provisions/%C2%A7%2002758%20-%20Improvements%20to%20cost%20estimates%20informing%20analyses%20of%20alternatives.md) | Improvements to cost estimates informing analyses of alternatives. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -307,6 +309,7 @@
 | :--- | ---: |
 | [2821\.](Subchapter%20008%20%28VIII%29%20-%20Administrative%20Matters/Part%20D%20-%20Other%20Matters/%C2%A7%2002821%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93239%2C%20div.%20C%2C%20title%20XXXI%2C%20%C2%A73131%28q%29%282%29%2C%20Jan.%202%2C%202013%2C%20126%20Stat.%202183.md) | Repealed. |
 | [2822\.](Subchapter%20008%20%28VIII%29%20-%20Administrative%20Matters/Part%20D%20-%20Other%20Matters/%C2%A7%2002822%20-%20Payment%20of%20costs%20of%20operation%20and%20maintenance%20of%20infrastructure%20at%20Nevada%20National%20Security%20Site.md) | Payment of costs of operation and maintenance of infrastructure at Nevada National Security Site. |
+| [2823\.](Subchapter%20008%20%28VIII%29%20-%20Administrative%20Matters/Part%20D%20-%20Other%20Matters/%C2%A7%2002823%20-%20University-based%20defense%20nuclear%20policy%20collaboration%20program.md) | University-based defense nuclear policy collaboration program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Authorization.—In order to promote efficiency and economy in contracting and to avoidunnecessary burdens for agencies and contractors, the Federal Acquisition Regulation shall provide for—
+Authorization.—In order to promote efficiency and economy in contracting and to avoid unnecessary burdens for agencies and contractors, the Federal Acquisition Regulation shall provide for—
 
 &emsp;(1) special simplified procedures for purchases of property and services for amounts not greater than the simplified acquisition threshold; and
 
@@ -21,6 +21,8 @@ Promotion of Competition.—In using simplified procedures, the head of an agenc
 Compliance With Special Requirements of Federal Acquisition Regulation.—The head of an agency shall comply with the Federal Acquisition Regulation provisions referred to in section 1901(e) of title 41.
 
 (Added and amended Pub. L. 116–283, div. A, title XVIII, §1811(d)(1), (9), Jan. 1, 2021, 134 Stat. 4166, 4170.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -41,6 +43,8 @@ Subsec. (b). Pub. L. 116–283, §1811(d)(9)(B), (D), redesignated subsec. (a)(2
 Subsec. (c). Pub. L. 116–283, §1811(d)(9)(B), (E), redesignated subsec. (a)(3) as (c) and inserted heading.
 
 Subsec. (d). Pub. L. 116–283, §1811(d)(9)(B), (F), redesignated subsec. (a)(4) as (d) and inserted heading.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

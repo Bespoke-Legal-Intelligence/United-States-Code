@@ -156,11 +156,13 @@ In subsections (a)(3) and (c), the words "lease, or instrument" are substituted 
 
 In subsections (b) and (d), the words "or locations" are omitted because of 1:1.
 
-In subsection (b), the words "recorded under subsection (a)(2)(C) or (D) of this section" are added forclarity. The words "lease or instrument" are substituted for "instrument" for clarity and consistency in this subchapter.
+In subsection (b), the words "recorded under subsection (a)(2)(C) or (D) of this section" are added for clarity. The words "lease or instrument" are substituted for "instrument" for clarity and consistency in this subchapter.
 
 In subsection (c), before clause (1), the words "by regulation" are omitted because of 49:322(a). In clause (2), the words "possession of the United States" are substituted for "possession thereof" for clarity.
 
 In subsection (d), the words "lease, and instrument" are substituted for "other instruments" for clarity and consistency in this subchapter. In clause (1), the words "of the time and date of" before "recordation" are omitted as unnecessary because of the restatement. In clause (2), before subclause (A), the words "in files to be kept for that purpose" are omitted as unnecessary. In subclause (A), the words "location specified in a lease or instrument recorded under subsection (a)(2)(C) or (D) of this section" are substituted for "in the case of an instrument referred to in subsection (a)(3) of this section, the location or locations specified therein" for clarity and consistency in this subchapter.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -169,6 +171,8 @@ In subsection (d), the words "lease, and instrument" are substituted for "other 
 Subsec. (a)(3). Pub. L. 108–297, §3(a)(2), substituted "paragraph (1) or (2)" for "clause (1) or (2) of this subsection".
 
 Subsec. (e). Pub. L. 108–297, §3(b), added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

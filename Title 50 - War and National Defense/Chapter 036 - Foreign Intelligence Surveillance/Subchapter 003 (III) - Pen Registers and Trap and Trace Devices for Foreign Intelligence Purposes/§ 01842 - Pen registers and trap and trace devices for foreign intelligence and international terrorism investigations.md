@@ -20,7 +20,7 @@ Each application under this section shall require the approval of the Attorney G
 
 &emsp;(1) the identity of the Federal officer seeking to use the pen register or trap and trace device covered by the application;
 
-&emsp;(2) a certification by the applicant that the information likely to be obtained is foreign intelligence information not concerning a United States person or is relevant to an ongoing investigation to protect against international terrorism or clandestine intelligence activities, provided that such investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution; and
+&emsp;(2) a certification by the applicant that the information likely to be obtained is foreign intelligence information not concerning a United States person or is relevant to an ongoing investigation to protect against international terrorism or clandestine intelligence activities, provided that such investigation of a United States person is not conducted solelyupon the basis of activities protected by the first amendment to the Constitution; and
 
 &emsp;(3) a specific selection term to be used as the basis for the use of the pen register or trap and trace device.
 
@@ -88,7 +88,7 @@ Each application under this section shall require the approval of the Attorney G
 
 #### (f) Cause of action barred
 
-No cause of action shall lie in any court against any provider of a wire or electronic communication service, landlord, custodian, or other person (including any officer, employee, agent, or other specified person thereof) that furnishes any information, facilities, or technical assistance under subsection (d) in accordance with the terms of an order issued under this section.
+No cause of action shall lie in any court against any provider of a wire or electronic communication service, landlord, custodian, or other person (including any officer, employee, agent, or other specified person thereof) thatfurnishes any information, facilities, or technical assistance under subsection (d) in accordance with the terms of an order issued under this section.
 
 #### (g) Furnishing of results
 
@@ -105,6 +105,8 @@ Unless otherwise ordered by the judge, the results of a pen register or trap and
 &emsp;Nothing in this subsection limits the authority of the court established under section 1803(a) of this title or of the Attorney General to impose additional privacy or minimization procedures with regard to the installation or use of a pen register or trap and trace device.
 
 (Pub. L. 95–511, title IV, §402, as added Pub. L. 105–272, title VI, §601(2), Oct. 20, 1998, 112 Stat. 2405; amended Pub. L. 107–56, title II, §214(a), Oct. 26, 2001, 115 Stat. 286; Pub. L. 107–108, title III, §314(a)(5), Dec. 28, 2001, 115 Stat. 1402; Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 109–177, title I, §§105(c), 128(a), Mar. 9, 2006, 120 Stat. 195, 228; Pub. L. 111–259, title VIII, §806(a)(2), Oct. 7, 2010, 124 Stat. 2748; Pub. L. 114–23, title II, §§201(a), 202(a), June 2, 2015, 129 Stat. 277; Pub. L. 115–118, title II, §205(b)(4), Jan. 19, 2018, 132 Stat. 22.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -159,6 +161,8 @@ Subsec. (d)(2)(A). Pub. L. 107–56, §214(a)(4), amended subpar. (A) generally.
 &emsp;&emsp;"(II) the number of the instrument or device; and".
 
 Subsec. (f). Pub. L. 107–108, §314(a)(5)(B), substituted "terms of an order issued" for "terms of a court".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

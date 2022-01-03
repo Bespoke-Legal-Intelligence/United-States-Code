@@ -70,7 +70,7 @@ In this section:
 
 &emsp;&emsp;(E) Executive Order No. 13694 (80 Fed. Reg. 18077; relating to blocking the property of certain persons engaging in significant malicious cyber-enabled activities), relating to the Russian Federation.
 
-&emsp;&emsp;(F) Executive Order No. 13757 (82 Fed. Reg. 1; relating to taking additional steps to address the national emergency with respect to significant malicious cyber-enabled activities), relating to the Russian Federation.
+&emsp;&emsp;(F) Executive Order No. 13757 (82 Fed. Reg. 1; relating to taking additional steps to address the national emergency with respectto significant malicious cyber-enabled activities), relating to the Russian Federation.
 
 #### (2) Foreign person
 

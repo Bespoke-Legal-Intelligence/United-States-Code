@@ -4,9 +4,13 @@ Temporary enlistments may be made only in the Army, Navy, Air Force, Marine Corp
 
 (Added Pub. L. 90–235, §2(a)(1)(B), Jan. 2, 1968, 81 Stat. 755; amended Pub. L. 116–283, div. A, title IX, §924(b)(2)(A)(iii), Jan. 1, 2021, 134 Stat. 3821.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283 substituted "Marine Corps, Space Force," for "Marine Corps,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

@@ -14,6 +14,8 @@ The purposes of this part are—
 
 (Pub. L. 89–10, title III, §3102, as added Pub. L. 107–110, title III, §301, Jan. 8, 2002, 115 Stat. 1690; amended Pub. L. 114–95, title III, §3003(a), Dec. 10, 2015, 129 Stat. 1954.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 6812, Pub. L. 89–10, title III, §3112, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3638, set forth purpose of former part A of this subchapter, prior to the general amendment of this subchapter by Pub. L. 107–110.
@@ -30,7 +32,9 @@ Section 6815, Pub. L. 89–10, title III, §3115, as added Pub. L. 103–382, ti
 
 <b>2015</b>—Pub. L. 114–95 amended section generally. Prior to amendment, section related to purposes of this part.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
-Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub.L. 114–95, set out as a note under section 6301 of this title.
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall establish procedures to ensure that each operator, and each serviceprovider, maintains a financial management information system that will provide—
+&emsp;The Secretary shall establish procedures to ensure that each operator, and each service provider, maintains a financial management information system that will provide—
 
 &emsp;&emsp;(A) accurate, complete, and current disclosures of the costs of Job Corps operations; and
 
@@ -62,7 +62,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall also collect, and submit in the report described in subsection (c)(4), information on the performance of each Job Corps center, and the Job Corps program, regarding—
+&emsp;The Secretary shall also collect, and submit in the report described in subsection (c)(4), information on the performance of each JobCorps center, and the Job Corps program, regarding—
 
 &emsp;&emsp;(A) the number of enrollees served;
 

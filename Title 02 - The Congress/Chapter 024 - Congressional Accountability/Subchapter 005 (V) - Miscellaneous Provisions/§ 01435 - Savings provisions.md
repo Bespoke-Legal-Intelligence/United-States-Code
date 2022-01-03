@@ -4,7 +4,7 @@
 
 #### (1) Claims arising before effective date
 
-&emsp;If, as of the date on which section 1311 of this title takes effect, an employee of the Senate or the House of Representatives has or could have requested counseling under section 305 <sup>1</sup> of the Government Employees Rights Act of 1991 or Rule LI of the House of Representatives, including counseling for alleged violations of family and medical leave rights under title V of the Family and Medical Leave Act of 1993, the employee may complete, or initiate and complete, all procedures under the Government Employees Rights Act of 1991 and Rule LI, and the provisions of that Act and Rule shall remain in effect with respect to,and provide the exclusive procedures for, those claims until the completion of all such procedures.
+&emsp;If, as of the date on which section 1311 of this title takes effect, an employee of the Senate or the House of Representatives has or could have requested counseling under section 305 <sup>1</sup> of the Government Employees Rights Act of 1991 or Rule LI of the House of Representatives, including counseling for alleged violations of family and medical leave rights under title V of the Family and Medical Leave Act of 1993, the employee may complete, or initiate and complete, all procedures under the Government Employees Rights Act of 1991 and Rule LI, and the provisions of that Act and Rule shall remain in effect with respect to, and provide the exclusive procedures for, those claims until the completion of all such procedures.
 
 #### (2) Claims arising between effective date and opening of Office
 
@@ -60,7 +60,7 @@ Section 12209 of title 42, referred to in subsec. (c), was in the original a ref
 
 #### Change of Name
 
-General Accounting Office redesignated Government Accountability Office. See section 8 of Pub. L. 108–271,set out as a note under section 702 of Title 31, Money and Finance.
+General Accounting Office redesignated Government Accountability Office. See section 8 of Pub. L. 108–271, set out as a note under section 702 of Title 31, Money and Finance.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

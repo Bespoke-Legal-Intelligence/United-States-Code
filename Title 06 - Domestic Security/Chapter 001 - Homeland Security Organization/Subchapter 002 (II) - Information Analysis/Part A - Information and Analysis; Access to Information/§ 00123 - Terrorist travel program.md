@@ -14,7 +14,7 @@ The Secretary of Homeland Security shall designate an official of the Department
 
 #### (c) Duties
 
-The official designated under subsection (b) shall assist the Secretary of Homeland Securityin improving the Department's ability to prevent terrorists from entering the United States or remaining in the United States undetected by—
+The official designated under subsection (b) shall assist the Secretary of Homeland Security in improving the Department's ability to prevent terrorists from entering the United States or remaining in the United States undetected by—
 
 &emsp;(1) developing relevant strategies and policies;
 

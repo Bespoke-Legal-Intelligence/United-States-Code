@@ -80,7 +80,7 @@ The Secretary shall appoint—
 
 &emsp;To be eligible to receive technical assistance under this subsection, a State shall—
 
-&emsp;&emsp;(A) be in the process of establishing or have in effect a State levee safety program under which a State levee safety agency, in accordance with State law, carries out the guidelines established under subsection (c)(1); and
+&emsp;&emsp;(A) be in the process of establishing or have in effect a State levee safety program under which a State levee safety agency, in accordance with State law, carries out theguidelines established under subsection (c)(1); and
 
 &emsp;&emsp;(B) allocate sufficient funds in the budget of that State to carry out that State levee safety program.
 
@@ -166,7 +166,7 @@ The Secretary shall appoint—
 
 &emsp;&emsp;&emsp;&emsp;(I) ensures that human lives and property that are protected by new and existing levees are safe;
 
-&emsp;&emsp;&emsp;&emsp;(II) encourages the use of appropriate engineering policies, procedures, and technical practices for levee site investigation, design, construction, operation and maintenance, inspection, assessment, and emergency preparedness;
+&emsp;&emsp;&emsp;&emsp;(II) encourages the use of appropriate engineering policies, procedures, and technical practices for levee site investigation, design, construction, operationand maintenance, inspection, assessment, and emergency preparedness;
 
 &emsp;&emsp;&emsp;&emsp;(III) develops and supports public education and awareness projects to increase public acceptance and support of levee safety programs and provide information;
 
@@ -254,7 +254,7 @@ The Secretary shall appoint—
 
 #### (D) Guidelines
 
-&emsp;&emsp;Not later than 180 days after December 16, 2016, the Secretary, in consultation with the Administrator, shall develop such guidelines for the preparation of floodplain management plans prepared under this paragraph as the Secretary determines to be appropriate.
+&emsp;&emsp;Not later than 180 days after December 16, 2016, the Secretary, in consultation with theAdministrator, shall develop such guidelines for the preparation of floodplain management plans prepared under this paragraph as the Secretary determines to be appropriate.
 
 #### (E) Technical support
 
@@ -296,7 +296,7 @@ The Secretary shall appoint—
 
 #### (9) Federal interest
 
-&emsp;For a project that is not a project eligible for rehabilitation assistance under section 701n of this title, the Secretary shall determine that the proposed rehabilitation is in theFederal interest prior to providing assistance for such rehabilitation.
+&emsp;For a project that is not a project eligible for rehabilitation assistance under section 701n of this title, the Secretary shall determine that the proposed rehabilitation is in the Federal interest prior to providing assistance for such rehabilitation.
 
 #### (10) Other laws
 
@@ -348,7 +348,7 @@ Subsec. (e)(1). Pub. L. 114–322, §1130(c)(2), substituted "States, regional d
 
 Subsec. (g). Pub. L. 114–322, §1130(c)(3)(A), substituted "State, regional, and tribal" for "State and tribal" in heading.
 
-Subsec. (g)(1)(A). Pub. L. 114–322, §1130(c)(3)(B)(i), substituted "1 year after December 16, 2016," for "1 year after June 10, 2014," and "State, regional, or tribal" for "State or tribal".
+Subsec. (g)(1)(A). Pub. L. 114–322, §1130(c)(3)(B)(i), substituted "1 year after December 16, 2016," for "1 yearafter June 10, 2014," and "State, regional, or tribal" for "State or tribal".
 
 Subsec. (g)(1)(B). Pub. L. 114–322, §1130(c)(3)(B)(ii), substituted "State, regional district, and Indian tribe" for "State and Indian tribe" and "State, regional district, or Indian tribe" for "State or Indian tribe" in introductory provisions.
 

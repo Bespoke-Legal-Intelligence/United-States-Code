@@ -6,9 +6,11 @@ Beginning on the present north boundary line of Yellowstone National Park at its
 
 Beginning on the present west boundary line of Yellowstone National Park at its intersection with the left bank of Gallatin River between park monuments 45 and 46 north; thence northwesterly along said bank to a point opposite the hydrographic divide between Daly and Tepee Creeks; thence northeasterly across the Gallatin River and along said divide, around the headwaters of Daly, Black Butte, Specimen, and Fan Creeks, to the intersection of said divide with the present north boundary line of Yellowstone National Park, at a point near park boundary monument 11 west.
 
-All of those lands lying within the boundary lines above described and the present north, east, and west boundary lines are included in and made a part of the Yellowstone National Park; and all of those lands of the present Yellowstone National Park excluded from the park are included in and made a part of the contiguous national forests subject to all laws and regulations applicable to national forests, and upon acceptance thereof by appropriate action of the State, jurisdiction for all purposes whatsoever shall be, and is, ceded over the land excluded from the park to the State of Wyoming.
+All of those lands lying within the boundary lines above described and the present north, east, and west boundary lines are included in and made a part of the Yellowstone National Park; and all of those lands of the present Yellowstone National Park excluded from the park are included in and made a part of the contiguous national forests subject to all laws and regulations applicable to national forests, and upon acceptance thereof by appropriate action of the State, jurisdiction for all purposes whatsoevershall be, and is, ceded over the land excluded from the park to the State of Wyoming.
 
 (Mar. 1, 1929, ch. 437, §1, 45 Stat. 1435; Apr. 19, 1930, ch. 190, 46 Stat. 220.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

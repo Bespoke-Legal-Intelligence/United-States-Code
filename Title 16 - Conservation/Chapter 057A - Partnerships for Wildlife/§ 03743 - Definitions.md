@@ -4,7 +4,7 @@ As used in this chapter—
 
 &emsp;(1) The terms "conserve" and "conservation" mean to use, and the use of, such methods and procedures which are necessary to ensure, to the maximum extent practicable, the well being and enhancement of fish and wildlife and their habitats for the educational, aesthetic, cultural, recreational, scientific, and ecological enrichment of the public. Such methods and procedures may include, but are not limited to, any activity associated with scientific resources management, such as research, census, law enforcement, habitat acquisition, maintenance, development, information, education, population manipulation, propagation, technical assistance to private landowners, live trapping, and transplantation.
 
-&emsp;(2) The term "designated State agency" means the government agency, department, or division of any State that is empowered under the laws of the State to exercise the functions ordinarily exercised by a State fish and wildlife agency.
+&emsp;(2) The term "designated State agency" means the government agency, department, ordivision of any State that is empowered under the laws of the State to exercise the functions ordinarily exercised by a State fish and wildlife agency.
 
 &emsp;(3) The term "fish and wildlife" means wild members of the animal kingdom that are in an unconfined state.
 
@@ -27,6 +27,8 @@ As used in this chapter—
 &emsp;&emsp;(C) are not marine mammals within the meaning of section 1362(6) of this title.
 
 (Pub. L. 102–587, title VII, §7104, Nov. 4, 1992, 106 Stat. 5096; Pub. L. 103–375, §6(2), (3), Oct. 19, 1994, 108 Stat. 3495.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

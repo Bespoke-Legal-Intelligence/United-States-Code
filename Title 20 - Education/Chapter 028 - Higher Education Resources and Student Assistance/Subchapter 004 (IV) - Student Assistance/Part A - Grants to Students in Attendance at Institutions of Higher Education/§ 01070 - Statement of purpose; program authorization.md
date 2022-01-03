@@ -20,6 +20,8 @@ The Secretary shall, in accordance with subparts 1 through 9 of this part, carry
 
 (Pub. L. 89–329, title IV, §400, formerly §401, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1308; renumbered §400, Pub. L. 102–325, title IV, §402(a)(3), July 23, 1992, 106 Stat. 482; amended Pub. L. 105–244, title IV, §401(g)(1), Oct. 7, 1998, 112 Stat. 1652; Pub. L. 111–39, title IV, §401(a)(1), July 1, 2009, 123 Stat. 1938.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1070, Pub. L. 89–329, title IV, §401, as added and amended Pub. L. 92–318, title I, §131(b)(1), title X, §1001(c)(1), (2), June 23, 1972, 86 Stat. 247, 381; Pub. L. 94–482, title I, §125, Oct. 12, 1976, 90 Stat. 2096; Pub. L. 96–374, title IV, §401, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1401, 1503, stated purpose of program of grants to students in attendance at institutions of higher education, prior to the general revision of this part by Pub. L. 99–498.
@@ -29,6 +31,8 @@ A prior section 1070, Pub. L. 89–329, title IV, §401, as added and amended Pu
 <b>2009</b>—Subsec. (b). Pub. L. 111–39 substituted "1 through 9" for "1 through 8".
 
 <b>1998</b>—Subsec. (a)(1). Pub. L. 105–244 substituted "Federal Pell Grants" for "basic educational opportunity grants".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 
@@ -74,7 +78,7 @@ Award determination.—The amount of the financial assistance provided to an ath
 
 &emsp;"(3)
 
-Information on distribution of assistance.—Each center providing such assistance shall annually report to the Secretary such information as the Secretary may reasonably require on the distribution of such assistance among athletes and institutions of higher education. The Secretary shall compile such reports and submit them to the Committees on Education and the Workforce \[now Education and Labor\] and Appropriations of the House of Representatives and the Committees on Health, Education, Labor, and Pensions and Appropriations of the Senate.
+Information on distribution of assistance.—Each center providing such assistance shall annuallyreport to the Secretary such information as the Secretary may reasonably require on the distribution of such assistance among athletes and institutions of higher education. The Secretary shall compile such reports and submit them to the Committees on Education and the Workforce \[now Education and Labor\] and Appropriations of the House of Representatives and the Committees on Health, Education, Labor, and Pensions and Appropriations of the Senate.
 
 "(b)
 
@@ -146,7 +150,7 @@ Definitions.—For purposes of this Act \[probably should be "section"\]—
 
 "(a)
 
-Sense of Congress.—It is the sense of the Congress that all institutions offering postsecondary education should provide a full refund to any member or Reserve of an Armed Force on active duty service in connection with Operation Desert Shield or Operation Desert Storm for that portion of a period of instruction such individual was unable to complete, or for which such individual did not receive academic credit, because he or she was called up for such service. For purposes of this section, a full refund includes a refund of required tuition and fees, or a credit in a comparable amount against future tuition and fees.
+Sense of Congress.—It is the sense of the Congress that all institutions offering postsecondary education should provide a full refund to any member or Reserve of an Armed Force on active duty service inconnection with Operation Desert Shield or Operation Desert Storm for that portion of a period of instruction such individual was unable to complete, or for which such individual did not receive academic credit, because he or she was called up for such service. For purposes of this section, a full refund includes a refund of required tuition and fees, or a credit in a comparable amount against future tuition and fees.
 
 "(b)
 

@@ -40,6 +40,8 @@ In subsections (a) and (b), the words "assigned to" are substituted for the word
 
 In subsection (b), the words "assist that officer" are substituted for the words "act as assistants to said engineer commissioner". The words "his duties" are substituted for the words "the special duties imposed upon him".
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 7214 was renumbered section 8614 of this title.
@@ -53,6 +55,8 @@ A prior section 7215, act Aug. 10, 1956, ch. 1041, 70A Stat. 445, authorized Sec
 <b>1980</b>—Pub. L. 96–513 substituted "Mayor" for "Commissioner" in section catchline and text.
 
 <b>1968</b>—Pub. L. 90–623 substituted "Corps of Engineers: detail of officers to assist Commissioner of District of Columbia" for "Engineer Commissioner of the District of Columbia; assistants: detail" as section catchline and struck out provisions for the appointment of an Engineer Commissioner of the District of Columbia.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

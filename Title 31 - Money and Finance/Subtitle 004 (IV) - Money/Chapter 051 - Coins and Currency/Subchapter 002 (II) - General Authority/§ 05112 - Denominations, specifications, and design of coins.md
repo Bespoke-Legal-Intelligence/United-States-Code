@@ -70,7 +70,7 @@ Numismatic items.—For purposes of section 5132(a)(1) of this title, all coins 
 
 (h) The coins issued under this title shall be legal tender as provided in section 5103 of this title.
 
-(i)(1) Notwithstanding section 5111(a)(1) of this title, the Secretary shall mint and issue thegold coins described in paragraphs (7), (8), (9), and (10) of subsection (a) of this section, in qualities and quantities that the Secretary determines are sufficient to meet public demand, and such gold coins shall—
+(i)(1) Notwithstanding section 5111(a)(1) of this title, the Secretary shall mint and issue the gold coins described in paragraphs (7), (8), (9), and (10) of subsection (a) of this section, in qualities and quantities that the Secretary determines are sufficient to meet public demand, and such gold coins shall—
 
 &emsp;(A) have a design determined by the Secretary, except that the fifty dollar gold coin shall have—
 
@@ -148,7 +148,7 @@ In general.—The designs for the quarter dollar coins issued during each year o
 
 &emsp;&emsp;(B)
 
-Number of each of 5 coin designs in each year.—Of the quarter dollar coins issued during each year of the 10-year period referred to in paragraph (1), the Secretary of the Treasury shall prescribe, on the basis of such factors as the Secretary determines tobe appropriate, the number of quarter dollars which shall be issued with each of the 5 designs selected for such year.
+Number of each of 5 coin designs in each year.—Of the quarter dollar coins issued during each year of the 10-year period referred to in paragraph (1), the Secretary of the Treasury shall prescribe, on the basis of such factors as the Secretary determines to be appropriate, the number of quarter dollars which shall be issued with each of the 5 designs selected for such year.
 
 &emsp;(4)
 
@@ -200,7 +200,7 @@ Silver coins.—Notwithstanding subsection (b), the Secretary may mint and issue
 
 &emsp;&emsp;(C)
 
-Sources of bullion.—The Secretary shall obtain silver for minting coins under subparagraph (B) from available resources, including stockpiles established under the Strategic and Critical Materials Stock Piling Act.
+Sources of bullion.—The Secretary shall obtain silver for minting coins under subparagraph (B) from available resources, including stockpiles established under theStrategic and Critical Materials Stock Piling Act.
 
 &emsp;(7)
 
@@ -318,7 +318,7 @@ In general.—Subject to clause (ii), only 1 coin design shall be issued for a p
 
 &emsp;&emsp;&emsp;(ii)
 
-Nonconsecutive terms.—If a President has served during 2 or more nonconsecutive periods of service, a coin shall be issued under this subsection for each such nonconsecutive period of service.
+Nonconsecutive terms.—If a President has served during 2 or more nonconsecutive periods of service, a coin shallbe issued under this subsection for each such nonconsecutive period of service.
 
 &emsp;(4)
 
@@ -534,7 +534,7 @@ Coordination.—The Board of Governors of the Federal Reserve System and the Sec
 
 &emsp;&emsp;(D) ensuring that—
 
-&emsp;&emsp;&emsp;(i) during an introductory period, all institutions that want unmixed supplies of each newly-issued design of $1 coins minted under subsections (n) and (o) are able to obtain such unmixed supplies; and
+&emsp;&emsp;&emsp;(i) during an introductory period, all institutions that want unmixed supplies ofeach newly-issued design of $1 coins minted under subsections (n) and (o) are able to obtain such unmixed supplies; and
 
 &emsp;&emsp;&emsp;(ii) circulating coins will be available for ordinary commerce in packaging of sizes and types appropriate for and useful to ordinary commerce, including rolled coins;
 
@@ -588,7 +588,7 @@ Price of gold.—The Secretary shall pay not more than the average world price f
 
 &emsp;(4)
 
-Sale of coins.—Each gold bullion coin issued under this subsection shall be sold foran amount the Secretary determines to be appropriate, but not less than the sum of—
+Sale of coins.—Each gold bullion coin issued under this subsection shall be sold for an amount the Secretary determines to be appropriate, but not less than the sum of—
 
 &emsp;&emsp;(A) the market value of the bullion at the time of sale; and
 
@@ -706,7 +706,7 @@ Order of issuance of designs.—Each coin issued under this subsection commemora
 
 &emsp;&emsp;&emsp;(i) shall be issued, to the maximum extent practicable, in the chronological order in which the Native Americans lived or the events occurred, until the termination of the coin program described in subsection (n); and
 
-&emsp;&emsp;&emsp;(ii) thereafter shall be issued in any order determined to be appropriate by the Secretary, after consultation with the Committee on Indian Affairs of the Senate, the Congressional Native AmericanCaucus of the House of Representatives, and the National Congress of American Indians.
+&emsp;&emsp;&emsp;(ii) thereafter shall be issued in any order determined to be appropriate by the Secretary, after consultation with the Committee on Indian Affairs of the Senate, the Congressional Native American Caucus of the House of Representatives, and the National Congress of American Indians.
 
 &emsp;(4)
 
@@ -926,7 +926,7 @@ Second round at discretion of secretary.—
 
 &emsp;&emsp;&emsp;(i)
 
-Determination.—The Secretary may make a determination before the end ofthe 9-year period beginning when the first quarter dollar is issued under this subsection to continue the period of issuance until a second national site in each State, the District of Columbia, and each territory referred to in this subsection has been honored with a design on a quarter dollar.
+Determination.—The Secretary may make a determination before the end of the 9-year period beginning when the first quarter dollar is issued under this subsection to continue the period of issuance until a second national site in each State, the District of Columbia, and each territory referred to in this subsection has been honored with a design on a quarter dollar.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -954,7 +954,7 @@ National site.—For purposes of this subsection, the term "national site" means
 
 &emsp;(10)
 
-Application in event of independence.—If any territory becomes independent or otherwise ceases to be a territory or possession of the United States before quarter dollars bearing designs which are emblematic of such territory are minted pursuant to this subsection, this subsection shall cease to apply with respect to such territory.
+Application in event of independence.—If any territory becomes independentor otherwise ceases to be a territory or possession of the United States before quarter dollars bearing designs which are emblematic of such territory are minted pursuant to this subsection, this subsection shall cease to apply with respect to such territory.
 
 (u)
 
@@ -1010,7 +1010,7 @@ Sale of coins.—Each coin issued under this subsection shall be sold for an amo
 
 &emsp;&emsp;(A) the market value of the bullion at the time of sale; and
 
-&emsp;&emsp;(B) the cost of designing and issuing the coins, including labor, materials, dies, use ofmachinery, overhead expenses, marketing, distribution, and shipping.
+&emsp;&emsp;(B) the cost of designing and issuing the coins, including labor, materials, dies, use of machinery, overhead expenses, marketing, distribution, and shipping.
 
 &emsp;(4)
 
@@ -1160,7 +1160,7 @@ In general.—Four $1 coin designs as described in this subsection shall be issu
 
 &emsp;&emsp;&emsp;(ii)
 
-Number of coins of each design.—The Secretary shall prescribe, on the basis of such factors as the Secretary determines to be appropriate, the number of $1 coins that shall be issued with each of the designs selected for each year of the period referred to in paragraph (1).
+Number of coins of each design.—The Secretary shall prescribe, on the basis of such factors as the Secretary determines to be appropriate, the number of $1coins that shall be issued with each of the designs selected for each year of the period referred to in paragraph (1).
 
 &emsp;(4)
 
@@ -1362,7 +1362,7 @@ In general.—Effective January 1, 2027, notwithstanding the fourth sentence of 
 
 Flexibility with regard to placement of inscriptions.—Notwithstanding subsection (d)(1), the Secretary may select a design for half dollars referred to in subparagraph (A) in which—
 
-&emsp;&emsp;&emsp;(i) the inscription described in the second sentence of subsection (d)(1) appears on the reverse side of any such half dollars; and
+&emsp;&emsp;&emsp;(i) the inscription described in the second sentence of subsection (d)(1) appearson the reverse side of any such half dollars; and
 
 &emsp;&emsp;&emsp;(ii) any of the inscriptions described in the third sentence of subsection (d)(1) or the designation of the value of the coin appear on the obverse side of any such half dollars.
 
@@ -1488,7 +1488,7 @@ Quality of coins.—The Secretary may mint and issue such number of coins of eac
 
 &emsp;&emsp;(B)
 
-Coordination.—The Board of Governors of the Federal Reserve System and the Secretary shall take steps to ensure that an adequate supply of coins produced under subsections (x), (y), and (z) are available for commerce and collectors at such places and in such quantities as are appropriate.
+Coordination.—The Board of Governors of the Federal Reserve System and the Secretary shall take steps to ensure that an adequate supply of coins produced under subsections (x), (y), and (z) are available forcommerce and collectors at such places and in such quantities as are appropriate.
 
 &emsp;&emsp;(C)
 
@@ -1770,7 +1770,7 @@ Subsec. (f). Pub. L. 100–274, §6, inserted heading and amended subsec. (f) ge
 
 Subsec. (e). Pub. L. 99–61 added subsec. (e). Former subsec. (e), providing for the minting of 150,000,000 silver and copper alloy dollar coins bearing the likeness of Dwight David Eisenhower, was struck out.
 
-Subsec. (f). Pub. L. 99–61 added subsec. (f). Former subsec. (f), providing for the minting of up to 10,000,000 silver and copper alloy half-dollar coins symbolizing the 250th anniversary of the birth of George Washington, was struck out.
+Subsec. (f). Pub. L. 99–61 added subsec. (f). Former subsec. (f), providing for the minting of up to 10,000,000silver and copper alloy half-dollar coins symbolizing the 250th anniversary of the birth of George Washington, was struck out.
 
 Subsecs. (g), (h). Pub. L. 99–61 added subsecs. (g) and (h).
 
@@ -1808,7 +1808,7 @@ Pub. L. 110–192, Feb. 29, 2008, 122 Stat. 648, provided: "That clause (i) of s
 
 #### Rule of Construction
 
-Pub. L. 105–124, §5, Dec. 1, 1997, 111 Stat. 2537, provided that: "Nothing in this Act \[see Short Title of 1997 Amendment note set out under section 5101 of this title\] or the amendments made by this Act shall beconstrued to evidence any intention to eliminate or to limit the printing or circulation of United States currency in the $1 denomination."
+Pub. L. 105–124, §5, Dec. 1, 1997, 111 Stat. 2537, provided that: "Nothing in this Act \[see Short Title of 1997 Amendment note set out under section 5101 of this title\] or the amendments made by this Act shall be construed to evidence any intention to eliminate or to limit the printing or circulation of United States currency in the $1 denomination."
 
 #### Cost specification under Circulating Collectible Coin Redesign Act of 2020
 
@@ -1934,7 +1934,7 @@ Pub. L. 116–112, Jan. 27, 2020, 134 Stat. 9, provided that:
 
 "(a)
 
-Circulating $1 Coins Honoring President George H.W. Bush.—Notwithstanding subsections (d), (n)(2)(E), (n)(3), (n)(4), and (n)(8) of section 5112 of title 31, United States Code, in addition to the coins to be issued under subsections (r) and (w) of such section 5112, and in accordance with the other provisions ofsubsection (n) of such section 5112, the Secretary of the Treasury, beginning on January 1, 2020, shall mint and issue $1 coins that bear—
+Circulating $1 Coins Honoring President George H.W. Bush.—Notwithstanding subsections (d), (n)(2)(E), (n)(3), (n)(4), and (n)(8) of section 5112 of title 31, United States Code, in addition to the coins to be issued under subsections (r) and (w) of such section 5112, and in accordance with the other provisions of subsection (n) of such section 5112, the Secretary of the Treasury, beginning on January 1, 2020, shall mint and issue $1 coins that bear—
 
 &emsp;"(1) the image of President George H.W. Bush; and
 
@@ -2068,7 +2068,7 @@ Pub. L. 109–145, title I, §101, Dec. 22, 2005, 119 Stat. 2664, provided that:
 
 &emsp;"(2) For a variety of reasons, the new $1 coin introduced in 2000 has not been widely sought-after by the public, leading to higher costs for merchants and thus higher prices for consumers.
 
-&emsp;"(3) The success of the 50 States Commemorative Coin Program (31 U.S.C. 5112(l)) for circulating quarter dollars shows that a design on a United States circulating coin that is regularly changed in a manner similar to the systematic change in designs in such Program radically increases demand for the coin, rapidly pulling it through the economy.
+&emsp;"(3) The success of the 50 States Commemorative Coin Program (31 U.S.C. 5112(l)) for circulating quarter dollars shows that a design on a United States circulating coin that is regularly changed in a manner similar to the systematic change in designs in suchProgram radically increases demand for the coin, rapidly pulling it through the economy.
 
 &emsp;"(4) The 50 States Commemorative Coin Program also has been an educational tool, teaching both Americans and visitors something about each State for which a quarter has been issued.
 
@@ -2108,7 +2108,7 @@ Pub. L. 109–145, title III, Dec. 22, 2005, 119 Stat. 2673, provided that:
 
 &emsp;"(5) Abraham Lincoln gave the ultimate sacrifice for the country he loved, dying from an assassin's bullet on April 15, 1865.
 
-&emsp;"(6) All Americans could benefit from studying the life of Abraham Lincoln, for Lincoln's life is a modelfor accomplishing the 'American dream' through honesty, integrity, loyalty, and a lifetime of education.
+&emsp;"(6) All Americans could benefit from studying the life of Abraham Lincoln, for Lincoln's life is a model for accomplishing the 'American dream' through honesty, integrity, loyalty, and a lifetime of education.
 
 &emsp;"(7) The year 2009 will be the bicentennial anniversary of the birth of Abraham Lincoln.
 
@@ -2278,7 +2278,7 @@ Study.—The Secretary of the Treasury shall by June 1, 1997 complete a study of
 
 "(b)
 
-Report.—The Secretary shall submit the study required in subsection (a) above, to the Committee on Banking and Financial Services of the House of Representatives and the Committee on Banking, Housing and Urban Affairs of the Senate, simultaneously on its receipt by the Secretary.
+Report.—The Secretary shall submit the study required in subsection (a) above, to the Committee on Banking and Financial Services of the House of Representatives and the Committee on Banking, Housingand Urban Affairs of the Senate, simultaneously on its receipt by the Secretary.
 
 "(c) 50-
 
@@ -2330,7 +2330,7 @@ Funding.—Funds used to complete this study shall be offset from funds from the
 
 #### Deposit of Profits From Sale of Gold to Mint for Commemorative Coin Program
 
-Pub. L. 104–208, div. A, title I, §101(f) \[title V, §523\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–347, provided in part: "That profits generated from the sale of gold tothe United States Mint for this program shall be considered as a receipt to be deposited into the General Fund of the Treasury."
+Pub. L. 104–208, div. A, title I, §101(f) \[title V, §523\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–347, provided in part: "That profits generated from the sale of gold to the United States Mint for this program shall be considered as a receipt to be deposited into the General Fund of the Treasury."
 
 #### Use of Government Platinum Reserves Stockpiled at Mint
 

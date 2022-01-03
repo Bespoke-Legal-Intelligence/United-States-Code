@@ -30,7 +30,7 @@ The Arms Export Control Act, referred to in subsec. (b)(1), is Pub. L. 90–629,
 
 #### Prior Provisions
 
-A prior section 2415, Pub. L. 87–195, pt. III, §655, as added Pub. L. 92–226, pt. III, §304(b), Feb. 7, 1972, 86 Stat.29; amended Pub. L. 93–559, §39(a), Dec. 30, 1974, 88 Stat. 1810; Pub. L. 94–329, title IV, §413(a), June 30, 1976, 90 Stat. 761, related to limitation in amounts to be expended for assistance to Cambodia, prior to repeal by Pub. L. 95–424, title VI, §§604, 605, Oct. 6, 1978, 92 Stat. 961, effective Oct. 1, 1978.
+A prior section 2415, Pub. L. 87–195, pt. III, §655, as added Pub. L. 92–226, pt. III, §304(b), Feb. 7, 1972, 86 Stat. 29; amended Pub. L. 93–559, §39(a), Dec. 30, 1974, 88 Stat. 1810; Pub. L. 94–329, title IV, §413(a), June 30, 1976, 90 Stat. 761, related to limitation in amounts to be expended for assistance to Cambodia, prior to repeal by Pub. L. 95–424, title VI, §§604, 605, Oct. 6, 1978, 92 Stat. 961, effective Oct. 1, 1978.
 
 #### Amendments
 

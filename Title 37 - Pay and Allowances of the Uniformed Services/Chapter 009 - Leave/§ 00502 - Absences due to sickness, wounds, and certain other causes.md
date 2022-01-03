@@ -54,7 +54,7 @@ In subsection (b), the words "Except as provided in subsection (a) of this secti
 
 Pub. L. 116–283, §925(g)(1)(B), which directed insertion of "Space Force," after "Marines Corps,", was executed by making the insertion after "Marine Corps," to reflect the probable intent of Congress.
 
-Subsec. (b). Pub. L. 116–283, §925(g)(3)(B)(i), (iii), substituted "the Secretary's designated representative" for "his designated representative" and "the member's" for "his".
+Subsec. (b). Pub. L. 116–283, §925(g)(3)(B)(i), (iii), substituted "the Secretary's designated representative"for "his designated representative" and "the member's" for "his".
 
 <b>1991</b>—Subsec. (b). Pub. L. 102–25 struck out "of this section" after "subsection (a)".
 

@@ -10,7 +10,7 @@ For the purpose of this chapter:
 
 &emsp;(4) The term "national security position" means a position—
 
-&emsp;&emsp;(A) having national security responsibilities in a <sup>1</sup> agency or office of the FederalGovernment that has national security responsibilities, as determined under section 1902(g) of this title; and
+&emsp;&emsp;(A) having national security responsibilities in a <sup>1</sup> agency or office of the Federal Government that has national security responsibilities, as determined under section 1902(g) of this title; and
 
 &emsp;&emsp;(B) in which the individual in such position makes their foreign language skills available to such agency or office.
 
@@ -22,6 +22,8 @@ For the purpose of this chapter:
 
 (Pub. L. 102–183, title VIII, §808, Dec. 4, 1991, 105 Stat. 1276; Pub. L. 104–201, div. A, title X, §1078(f)(1), Sept. 23, 1996, 110 Stat. 2666; Pub. L. 105–244, title I, §102(a)(15), Oct. 7, 1998, 112 Stat. 1622; Pub. L. 107–306, title VIII, §811(b)(7)(B), Nov. 27, 2002, 116 Stat. 2426.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Par. (5). Pub. L. 107–306 added par. (5).
@@ -29,6 +31,8 @@ For the purpose of this chapter:
 <b>1998</b>—Par. (3). Pub. L. 105–244 substituted "section 1001" for "section 1141(a)".
 
 <b>1996</b>—Par. (4). Pub. L. 104–201 added par. (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

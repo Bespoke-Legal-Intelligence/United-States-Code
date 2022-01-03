@@ -142,7 +142,9 @@ As used in this section, the term "non-Federal government" means—
 
 &emsp;(2) any agency or instrumentality of any entity described in paragraph (1).
 
-(Pub. L. 93–618, title I, §135, Jan. 3, 1975, 88 Stat. 1996; Pub. L. 96–39, title XI, §1103, July 26, 1979, 93 Stat. 308; Pub. L. 98–573, title III, §306(c)(2)(B),Oct. 30, 1984, 98 Stat. 3011; Pub. L. 99–514, title XVIII, §1887(a)(2), Oct. 22, 1986, 100 Stat. 2923; Pub. L. 100–418, title I, §1631, Aug. 23, 1988, 102 Stat. 1264; Pub. L. 103–465, title I, §§127(f), 128, Dec. 8, 1994, 108 Stat. 4836; Pub. L. 107–210, div. B, title XXI, §2110(a)(5), Aug. 6, 2002, 116 Stat. 1020; Pub. L. 108–429, title II, §2004(i)(1), (2), Dec. 3, 2004, 118 Stat. 2594, 2595; Pub. L. 109–280, title XIV, §1635(f)(2), Aug. 17, 2006, 120 Stat. 1171; Pub. L. 114–26, title I, §110(a)(5), June 29, 2015, 129 Stat. 357.)
+(Pub. L. 93–618, title I, §135, Jan. 3, 1975, 88 Stat. 1996; Pub. L. 96–39, title XI, §1103, July 26, 1979, 93 Stat. 308; Pub. L. 98–573, title III, §306(c)(2)(B), Oct. 30, 1984, 98 Stat. 3011; Pub. L. 99–514, title XVIII, §1887(a)(2), Oct. 22, 1986, 100 Stat. 2923; Pub. L. 100–418, title I, §1631, Aug. 23, 1988, 102 Stat. 1264; Pub. L. 103–465, title I, §§127(f), 128, Dec. 8, 1994, 108 Stat. 4836; Pub. L. 107–210, div. B, title XXI, §2110(a)(5), Aug. 6, 2002, 116 Stat. 1020; Pub. L. 108–429, title II, §2004(i)(1), (2), Dec. 3, 2004, 118 Stat. 2594, 2595; Pub. L. 109–280, title XIV, §1635(f)(2), Aug. 17, 2006, 120 Stat. 1171; Pub. L. 114–26, title I, §110(a)(5), June 29, 2015, 129 Stat. 357.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -200,7 +202,7 @@ Subsec. (b)(2). Pub. L. 96–39, §1103(4), substituted requirement that the mem
 
 Subsec. (c)(1). Pub. L. 96–39, §1103(5), inserted a comma after "initiative", included references to "services", and substituted "general policy advice on matters referred to in subsection (a) of this section" for "general policy advice on any trade agreement referred to in section 2111 or 2112 of this title", "Special Representative for Trade Negotiations" for "President acting through the Special Representative for Trade Negotiations" and "or Agriculture" for "and Agriculture".
 
-Subsec. (c)(2). Pub. L. 96–39, §1103(6)–(9), substituted "The President shall establish such sectoral or functional advisory committees as may be appropriate" for"The President shall, on his own initiative or at the request of organizations in a particular sector, establish such industry, labor, or agricultural sector advisory committees as he determines to be necessary for any trade negotiations referred to in section 2111 or 2112 of this title" and "Such committees shall, insofar as is practicable, be representative of all industry, labor, agricultural, or service interests (including small business interests) in the sector or functional areas concerned" for "Such committees shall, so far as practicable, be representative of all industry, labor, or agricultural interests including small business interests in the sector concerned" and "the Special Representative for Trade Negotiations" for "the President, acting through the Special Representative for Trade Negotiations", struck out "product sector" before "advisory committees", and inserted ", in the case of each sectoral committee," before "the product lines".
+Subsec. (c)(2). Pub. L. 96–39, §1103(6)–(9), substituted "The President shall establish such sectoral or functional advisory committees as may be appropriate" for "The President shall, on his own initiative or at the request of organizations in a particular sector, establish such industry, labor, or agricultural sector advisory committees as he determines to be necessary for any trade negotiations referred to in section 2111 or 2112 of this title" and "Such committees shall, insofar as is practicable, be representative of all industry, labor, agricultural, or service interests (including small business interests) in the sector or functional areas concerned" for "Such committees shall, so far as practicable, be representative of all industry, labor, or agricultural interests including small business interests in the sector concerned" and "the Special Representative for Trade Negotiations" for "the President, acting through the Special Representative for Trade Negotiations", struck out "product sector" before "advisory committees", and inserted ", in the case of each sectoral committee," before "the product lines".
 
 Subsec. (d). Pub. L. 96–39, §1103(10), required committee meetings to be also summoned at joint instance of Secretary of Agriculture, Commerce, or Labor, as appropriate, previously required to be called before and during trade negotiations, struck out item (1) through (3) designation for "policy advice", "technical advice" and "advice on other factors", struck out "on negotiations" and "on negotiations on particular products both domestic and foreign" after "policy advice" and "technical advice and information" and substituted "factors relevant to the matters referred to in subsection (a) of this section" for "factors relevant to positions of the United States in trade negotiations."
 
@@ -218,6 +220,8 @@ Subsec. (k). Pub. L. 96–39, §1103(19), (20), substituted "matters referred to
 
 Subsec. (l). Pub. L. 96–39, §1103(21), added subsec. (l).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2006 Amendment
 
 Amendment by Pub. L. 109–280 applicable with respect to goods entered, or withdrawn from warehouse for consumption, on or after the 15th day after Aug. 17, 2006, see section 1641 of Pub. L. 109–280, set out as a note under section 58c of this title.
@@ -234,13 +238,15 @@ Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement 
 
 Amendment by Pub. L. 96–39 effective July 26, 1979, see section 1114 of Pub. L. 96–39, set out as an Effective Date note under section 2581 of this title.
 
-#### Delegation of Authority
-
-For delegation of functions of President under div. B of Pub. L. 107–210, amending this section, see section 1 of Ex. Ord. No. 13277, Nov. 19, 2002, 67 F.R. 70305, set out as a note under section 3801 of this title.
-
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Authority
+
+For delegation of functions of President under div. B of Pub. L. 107–210, amending this section, see section 1 of Ex. Ord. No. 13277, Nov. 19, 2002, 67 F.R. 70305, set out as a note under section 3801 of this title.
 
 #### Ex. Ord. No. 12905. Trade and Environment Policy Advisory Committee
 
@@ -280,9 +286,11 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of Trade and Environment Policy Advisory Committee
 
-Term of Trade and Environment Policy Advisory Committee extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Trade and Environment Policy Advisory Committee extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Previous extensions of term of Trade and Environment Policy Advisory Committee were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, extended term until Sept. 30, 2021.
 
 Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, extended term until Sept. 30, 2019.
 

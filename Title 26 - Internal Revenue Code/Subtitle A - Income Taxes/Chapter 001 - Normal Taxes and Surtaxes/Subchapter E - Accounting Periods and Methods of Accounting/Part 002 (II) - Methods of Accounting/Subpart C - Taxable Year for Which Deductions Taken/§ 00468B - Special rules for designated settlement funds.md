@@ -74,7 +74,7 @@ For purposes of this section—
 
 &emsp;&emsp;(F) with respect to which an election is made under this section by the taxpayer.
 
-> &emsp;An election under this section shall be made at such time and in such manner as the Secretary shall by regulation prescribe. Such anelection, once made, may be revoked only with the consent of the Secretary.
+> &emsp;An election under this section shall be made at such time and in such manner as the Secretary shall by regulation prescribe. Such an election, once made, may be revoked only with the consent of the Secretary.
 
 #### (3) Related person
 
@@ -110,6 +110,8 @@ Except as provided in regulations, any payment in respect of a liability describ
 
 (Added Pub. L. 99–514, title XVIII, §1807(a)(7)(A), Oct. 22, 1986, 100 Stat. 2814; amended Pub. L. 100–647, title I, §1018(f)(1), (2), (4), (5)(A), Nov. 10, 1988, 102 Stat. 3582; Pub. L. 101–508, title XI, §11702(e)(1), Nov. 5, 1990, 104 Stat. 1388–515; Pub. L. 109–222, title II, §201(a), May 17, 2006, 120 Stat. 347; Pub. L. 109–432, div. A, title IV, §409(a), Dec. 20, 2006, 120 Stat. 2963.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (g)(2)(B), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
@@ -134,6 +136,8 @@ Subsec. (d)(2)(E). Pub. L. 100–647, §1018(f)(1), inserted "(or any related pe
 
 Subsec. (g). Pub. L. 100–647, §1018(f)(5)(A), added subsec. (g).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2006 Amendment
 
 Pub. L. 109–432, div. A, title IV, §409(b), Dec. 20, 2006, 120 Stat. 2963, provided that: "The amendment made by this section \[amending this section\] shall take effect as if included in section 201 of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222\]."
@@ -154,7 +158,7 @@ Section effective, except as otherwise provided, as if included in the provision
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Special Rule for Taxpayer in Bankruptcy Reorganization
 
@@ -162,7 +166,7 @@ Pub. L. 99–514, title XVIII, §1807(a)(7)(C), Oct. 22, 1986, 100 Stat. 2816, a
 
 &emsp;"(i) any portion of such fund which is established pursuant to a court order and with qualified payments, which meets the requirements of subparagraphs (C) and (D) of section 468B(d)(2) of the Internal Revenue Code of 1954 \[now 1986\] (as added by this paragraph), and with respect to which an election is made under subparagraph (F) thereof, shall be treated as a designated settlement fund for purposes of section 468B of such Code,
 
-&emsp;"(ii) such corporation (or any successor thereof) shall be liable for the tax imposed by section 468B of such Code on such portion of the fund (and the fund shall not be liable for such tax), such tax shall be deductible by the corporation, and the rate of tax under section 468B of such Code for any taxable year shall be equal to 15 percent, and
+&emsp;"(ii) such corporation (or any successor thereof) shall be liable for the tax imposed by section 468B ofsuch Code on such portion of the fund (and the fund shall not be liable for such tax), such tax shall be deductible by the corporation, and the rate of tax under section 468B of such Code for any taxable year shall be equal to 15 percent, and
 
 &emsp;"(iii) any transaction by any portion of the fund not described in clause (i) shall be treated as a transaction made by the corporation."
 

@@ -6,7 +6,7 @@ General.—Except as otherwise provided in this section, the United States Gover
 
 &emsp;(1) 75 percent for a project at a medium or large hub airport;
 
-&emsp;(2) not more than 90 percent for a project funded by a grant issued to and administered by a State under section 47128, relating to the State block grant program;
+&emsp;(2) not more than 90 percent for a project funded by a grant issued to and administeredby a State under section 47128, relating to the State block grant program;
 
 &emsp;(3) 90 percent for a project at any other airport;
 
@@ -48,7 +48,7 @@ Special Rule for Privately Owned Reliever Airports.—If a privately owned relie
 
 (e)
 
-Special Rule for Transition From Small Hub to Medium Hub Status.—If the status of asmall hub airport changes to a medium hub airport, the Government's share of allowable project costs for the airport may not exceed 90 percent for the first 2 fiscal years after such change in hub status.
+Special Rule for Transition From Small Hub to Medium Hub Status.—If the status of a small hub airport changes to a medium hub airport, the Government's share of allowable project costs for the airport may not exceed 90 percent for the first 2 fiscal years after such change in hub status.
 
 (f)
 
@@ -92,6 +92,8 @@ In subsection (b), the words "If, under subsection (a) of this section, the Gove
 
 In subsection (c), the words "Notwithstanding subsections (a) and (b) of this section" are substituted for "Notwithstanding any other provision of this chapter" because subsections (a) and (b) are the only other parts of the chapter that specify the United States Government's share of allowable project costs.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 17(b) of the Airport and Airway Development Act of 1970, referred to in subsec. (b), is section 17(b) of Pub. L. 91–258, which was classified to section 1717(b) of former Title 49, Transportation, prior to repeal by Pub. L. 97–248, title V, §523(a), Sept. 3, 1982, 96 Stat. 695.
@@ -129,6 +131,8 @@ Subsec. (c). Pub. L. 104–264, §1211, added subsec. (c).
 Subsec. (c). Pub. L. 103–305, §114(2), struck out subsec. (c) which read as follows: "(c)
 
 Limitation.—Notwithstanding subsections (a) and (b) of this section, the Government's share of project costs allowable under section 47110(d) of this title may not be more than 75 percent, except that the Government's share shall be 85 percent for a project at a commercial service airport that does not have more than .05 percent of the total annual passenger boardings in the United States."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

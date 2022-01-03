@@ -102,5 +102,5 @@ Pub. L. 115–31, div. J, title VII, §7034(r)(5), May 5, 2017, 131 Stat. 654.
 
 #### Definition of "Appropriate Congressional Committees"
 
-Pub. L. 113–235, div. J, title VII, §7034(t)(1), Dec. 16, 2014, 128 Stat. 2627, provided that: "Unless otherwise defined in this Act \[div. J of Pub. L. 113–235, 128 Stat. 2573, see Tables for classification\], for purposes of this Actthe term 'appropriate congressional committees' shall mean the Committees on Appropriations and Foreign Relations of the Senate and the Committees on Appropriations and Foreign Affairs of the House of Representatives."
+Pub. L. 113–235, div. J, title VII, §7034(t)(1), Dec. 16, 2014, 128 Stat. 2627, provided that: "Unless otherwise defined in this Act \[div. J of Pub. L. 113–235, 128 Stat. 2573, see Tables for classification\], for purposes of this Act the term 'appropriate congressional committees' shall mean the Committees on Appropriations and Foreign Relations of the Senate and the Committees on Appropriations and Foreign Affairs of the House of Representatives."
 

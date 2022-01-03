@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established within the Department of Energy a separately organized agency to be known as the National Nuclear Security Administration (in this chapter referred to as the "Administration").
+There is established within the Department of Energy a separately organized agency to beknown as the National Nuclear Security Administration (in this chapter referred to as the "Administration").
 
 #### (b) Mission
 
@@ -32,6 +32,8 @@ In carrying out the mission of the Administration, the Administrator shall ensur
 
 (Pub. L. 106–65, div. C, title XXXII, §3211, Oct. 5, 1999, 113 Stat. 957; Pub. L. 113–66, div. C, title XXXI, §3111, Dec. 26, 2013, 127 Stat. 1049.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (a), was in the original "this title", meaning title XXXII of div. C of Pub. L. 106–65, Oct. 5, 1999, 113 Stat. 953, as amended, which is classified principally to this chapter. For complete classification of title XXXII to the Code, see Short Title note set out below and Tables.
@@ -39,6 +41,8 @@ This chapter, referred to in subsec. (a), was in the original "this title", mean
 #### Amendments
 
 <b>2013</b>—Subsec. (c). Pub. L. 113–66 amended subsec. (c) generally. Prior to amendment, text read as follows: "In carrying out the mission of the Administration, the Administrator shall ensure that all operations and activities of the Administration are consistent with the principles of protecting the environment and safeguarding the safety and health of the public and of the workforce of the Administration."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -90,7 +94,7 @@ Definitions.—In this section:
 
 &emsp;"(1) The terms 'Secretary' and 'Secretary of Energy' mean the Secretary of Energy, acting after consideration of the recommendations of the Administrator for Nuclear Security.
 
-&emsp;"(2) The term 'nuclear weapons complex' means the national security laboratories and nuclear weapons production facilities (as such terms are defined in section 3281 of the National Nuclear Security Administration Act (50 U.S.C. 2471)) and the facilities of the Naval Nuclear Propulsion Program provided for under the Naval Nuclear Propulsion Executive Order (as such term is defined in section 3216 of such Act (50 U.S.C. 2406))."
+&emsp;"(2) The term 'nuclear weapons complex' means the national security laboratories and nuclear weapons production facilities (as such terms are defined in section 3281 of the National Nuclear Security Administration Act (50 U.S.C. 2471)) and the facilities of theNaval Nuclear Propulsion Program provided for under the Naval Nuclear Propulsion Executive Order (as such term is defined in section 3216 of such Act (50 U.S.C. 2406))."
 
 #### Study and Report Related to Improving Mission Effectiveness, Partnerships, and Technology Transfer at National Security Laboratories and Nuclear Weapons Production Facilities
 
@@ -106,7 +110,7 @@ Study and Report Required.—The Secretary of Energy shall direct the Secretary 
 
 &emsp;"(3) The advantages and disadvantages of making changes in—
 
-&emsp;&emsp;"(A) the indemnification requirements for patents or other intellectual property licensed from anational security laboratory or nuclear weapons production facility;
+&emsp;&emsp;"(A) the indemnification requirements for patents or other intellectual property licensed from a national security laboratory or nuclear weapons production facility;
 
 &emsp;&emsp;"(B) the royalty and fee schedules and types of compensation that may be used for patents or other intellectual property licensed to a small business concern from a national security laboratory or nuclear weapons production facility;
 

@@ -40,9 +40,11 @@ Except in accordance with sections 2402(a)(2) and 2406(a)(1) of this title:
 
 #### (e) Status of intelligence and counterintelligence personnel
 
-Notwithstanding the restrictions of subsections (a) and (b), each officer or employee ofthe Administration, or of a contractor of the Administration, who is carrying out activities related to intelligence or counterintelligence shall, in carrying out those activities, be subject to the authority, direction, and control of the Secretary of Energy or the Secretary's delegate.
+Notwithstanding the restrictions of subsections (a) and (b), each officer or employee of the Administration, or of a contractor of the Administration, who is carrying out activities related to intelligence or counterintelligence shall, in carrying out those activities, be subject to the authority, direction, and control of the Secretary of Energy or the Secretary's delegate.
 
 (Pub. L. 106–65, div. C, title XXXII, §3220, formerly §3213, Oct. 5, 1999, 113 Stat. 958; Pub. L. 106–398, §1 \[div. C, title XXXI, §3157\], Oct. 30, 2000, 114 Stat. 1654, 1654A–468; renumbered §3220, Pub. L. 107–107, div. C, title XXXI, §3141(a)(1), Dec. 28, 2001, 115 Stat. 1370; Pub. L. 109–364, div. C, title XXXI, §3117(a)(2)(B), (d), Oct. 17, 2006, 120 Stat. 2507, 2508; Pub. L. 111–84, div. C, title XXXI, §3121, Oct. 28, 2009, 123 Stat. 2710; Pub. L. 113–66, div. C, title XXXI, §3145(b), Dec. 26, 2013, 127 Stat. 1071; Pub. L. 113–291, div. C, title XXXI, §3143(a), Dec. 19, 2014, 128 Stat. 3902.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -65,6 +67,8 @@ Pub. L. 109–364, §3117(d), added subsec. (e).
 Subsec. (b). Pub. L. 106–398, §1 \[div. C, title XXXI, §3157(2)\], struck out ", in carrying out any function of the Administration," after "contractor of the Administration".
 
 Subsec. (d). Pub. L. 106–398, §1 \[div. C, title XXXI, §3157(3)\], added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

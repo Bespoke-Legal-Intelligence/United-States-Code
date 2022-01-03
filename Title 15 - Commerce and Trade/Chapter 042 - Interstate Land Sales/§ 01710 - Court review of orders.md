@@ -10,9 +10,13 @@ The commencement of proceedings under subsection (a) shall not, unless specifica
 
 (Pub. L. 90–448, title XIV, §1411, Aug. 1, 1968, 82 Stat. 595; Pub. L. 111–203, title X, §1098A(1), July 21, 2010, 124 Stat. 2105.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–203 substituted "Director" for "Secretary" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

@@ -16,7 +16,7 @@
 
 &emsp;(A) Upon the request of a State, the Secretary may provide to the State a waiver of all or part of the requirement established in paragraph (1) if the Secretary determines that the State is providing an adequate level of comprehensive community mental health services for children with a serious emotional distrubance,<sup>2</sup> as indicated by a comparison of the number of such children for which such services are sought with the availability in the State of the services.
 
-&emsp;(B) The Secretary shall approve or deny a request for a waiver under subparagraph (A) not later than 120 days after the date on which the request is made.
+&emsp;(B) The Secretary shall approve or deny a request for a waiver under subparagraph (A) notlater than 120 days after the date on which the request is made.
 
 &emsp;(C) Any waiver provided by the Secretary under subparagraph (A) shall be applicable only to the fiscal year involved.
 
@@ -50,13 +50,15 @@ The criteria referred to in subsection (b)(2) regarding community mental health 
 
 (July 1, 1944, ch. 373, title XIX, §1913, as added Pub. L. 102–321, title II, §201(2), July 10, 1992, 106 Stat. 381.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 300x–1(b)(9) of this title, referred to in subsec. (a)(1)(A), was repealed by Pub. L. 106–310, div. B, title XXXII, §3204(a), Oct. 17, 2000, 114 Stat. 1192. Provisions relating to a system of integrated social services formerly contained in section 300x–1(b)(9) are now contained in section 300x–1(b)(3) of this title.
 
 #### Prior Provisions
 
-A prior section 300x–2, act July 1, 1944, ch. 373, title XIX, §1914, formerly §1913, as added Aug. 13, 1981, Pub.L. 97–35, title IX, §901, 95 Stat. 545; renumbered §1914 and amended Oct. 19, 1984, Pub. L. 98–509, title I, §106(a), (c)–(e), (g), 98 Stat. 2358, 2359; Nov. 18, 1988, Pub. L. 100–690, title II, §2022(e), 102 Stat. 4197; Aug. 16, 1989, Pub. L. 101–93, §2(c)(1), 103 Stat. 605, related to payment to States of allotments of grants for alcohol, drug abuse, and mental health services, prior to repeal by Pub. L. 102–321, §201(2).
+A prior section 300x–2, act July 1, 1944, ch. 373, title XIX, §1914, formerly §1913, as added Aug. 13, 1981, Pub. L. 97–35, title IX, §901, 95 Stat. 545; renumbered §1914 and amended Oct. 19, 1984, Pub. L. 98–509, title I, §106(a), (c)–(e), (g), 98 Stat. 2358, 2359; Nov. 18, 1988, Pub. L. 100–690, title II, §2022(e), 102 Stat. 4197; Aug. 16, 1989, Pub. L. 101–93, §2(c)(1), 103 Stat. 605, related to payment to States of allotments of grants for alcohol, drug abuse, and mental health services, prior to repeal by Pub. L. 102–321, §201(2).
 
 A prior section 1913 of act July 1, 1944, was classified to section 300x–1b of this title and repealed by Pub. L. 102–321.
 

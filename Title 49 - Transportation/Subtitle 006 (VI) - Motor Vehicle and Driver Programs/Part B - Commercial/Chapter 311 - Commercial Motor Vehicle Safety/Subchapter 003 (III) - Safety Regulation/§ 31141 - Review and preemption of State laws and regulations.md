@@ -66,7 +66,7 @@ Judicial Review and Venue.—(1) Not later than 60 days after the Secretary make
 
 (g)
 
-Initiating Review Proceedings.—To review a State law or regulation on commercialmotor vehicle safety under this section, the Secretary may initiate a regulatory proceeding on the Secretary's own initiative or on petition of an interested person (including a State).
+Initiating Review Proceedings.—To review a State law or regulation on commercial motor vehicle safety under this section, the Secretary may initiate a regulatory proceeding on the Secretary's own initiative or on petition of an interested person (including a State).
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1008; Pub. L. 105–178, title IV, §4008(e), June 9, 1998, 112 Stat. 404.)
 
@@ -133,6 +133,8 @@ In subsection (g)(2), the words "Upon the filing of a petition under paragraph (
 Subsection (g)(3) is substituted for 49 App.:2507(g)(3) for consistency in this part and to eliminate unnecessary words.
 
 In subsection (h), the text of 49 App.:2507(h) and the words "After the last day of the 48-month period beginning on October 30, 1984" are omitted as obsolete.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

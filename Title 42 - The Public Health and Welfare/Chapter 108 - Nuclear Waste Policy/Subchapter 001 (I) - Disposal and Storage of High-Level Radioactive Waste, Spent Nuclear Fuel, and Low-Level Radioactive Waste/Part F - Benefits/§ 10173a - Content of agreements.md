@@ -52,7 +52,9 @@ A benefits agreement under section 10173 of this title shall provide that—
 
 The Secretary shall make payments to the States or affected Indian tribes under a benefits agreement under this section from the Waste Fund. The signature of the Secretary on a valid benefits agreement under section 10173 of this title shall constitute a commitment by the United States to make payments in accordance with such agreement.
 
-(Pub. L. 97–425, title I, §171, as added Pub. L. 100–202, §101(d) \[title III, §300\], Dec. 22, 1987, 101 Stat. 1329–104, 1329–121; Pub. L. 100–203, title V, §5031, Dec. 22, 1987, 101 Stat. 1330–237.)
+(Pub. L. 97–425, title I, §171, as added Pub. L. 100–202, §101(d) \[title III, §300\], Dec. 22, 1987, 101Stat. 1329–104, 1329–121; Pub. L. 100–203, title V, §5031, Dec. 22, 1987, 101 Stat. 1330–237.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

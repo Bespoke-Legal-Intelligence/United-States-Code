@@ -8,6 +8,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Pub. L. 113–295, div. B, title I, §102(e)(4), (6), Dec. 19, 2014, 128 Stat. 4062, substituted "CERTAIN" for "HIGHER EDUCATION" in heading and added item 529A.
@@ -18,7 +20,7 @@
 
 Pub. L. 107–16, title IV, §402(a)(4)(E), June 7, 2001, 115 Stat. 61, struck out "State" before "tuition" in item 529.
 
-<b>1997</b>—Pub. L. 105–34, title II, §§211(e)(1)(A), 213(e)(3), Aug. 5, 1997, 111 Stat. 812, 817, substituted "HIGHER EDUCATION SAVINGS ENTITIES" for "QUALIFIED STATE TUITION PROGRAMS" in heading and added item 530.
+<b>1997</b>—Pub. L. 105–34, title II, §§211(e)(1)(A), 213(e)(3), Aug. 5, 1997, 111 Stat. 812, 817, substituted "HIGHEREDUCATION SAVINGS ENTITIES" for "QUALIFIED STATE TUITION PROGRAMS" in heading and added item 530.
 
 
 ---

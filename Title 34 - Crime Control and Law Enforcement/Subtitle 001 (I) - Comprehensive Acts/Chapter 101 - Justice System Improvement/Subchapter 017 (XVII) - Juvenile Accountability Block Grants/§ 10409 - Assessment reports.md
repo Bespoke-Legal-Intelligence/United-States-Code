@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (4), for each fiscal year for which a grant or subgrant is awarded under this subchapter, each State or specially qualified unit of local government that receives such a grant shall submit to the Attorney General a grant report, and each unit of local government that receives such a subgrant shall submit to the State a subgrant report, at such time and in such manner as the Attorney General may reasonably require.
+&emsp;Except as provided in paragraph (4), for each fiscal year for which a grant or subgrant is awarded under this subchapter, each State or specially qualified unit of local government that receives such a grant shall submit to theAttorney General a grant report, and each unit of local government that receives such a subgrant shall submit to the State a subgrant report, at such time and in such manner as the Attorney General may reasonably require.
 
 #### (2) Grant report
 

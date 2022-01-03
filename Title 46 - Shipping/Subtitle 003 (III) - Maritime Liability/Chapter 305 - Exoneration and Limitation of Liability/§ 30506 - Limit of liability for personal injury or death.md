@@ -60,7 +60,7 @@ Subsection (a) is written as an application provision rather than as a definitio
 
 In subsection (b), the words "is such that the portion available to pay claims for personal injury or death" are substituted for "is insufficient to pay all losses in full, and the portion of such amount applicable to the payment of losses in respect of loss of life or bodily injury" to eliminate unnecessary words.
 
-In subsection (c), the words "self-propelled vessel" are substituted for "steam or motor vessel", and the words "tonnage for documentation" are substituted for"registered tonnage", for consistency in the revised title. The words "space for the use of seamen" are substituted for "space occupied by seamen or apprentices and appropriated to their use" to eliminate unnecessary words.
+In subsection (c), the words "self-propelled vessel" are substituted for "steam or motor vessel", and the words "tonnage for documentation" are substituted for "registered tonnage", for consistency in the revised title. The words "space for the use of seamen" are substituted for "space occupied by seamen or apprentices and appropriated to their use" to eliminate unnecessary words.
 
 In subsection (d), the words "Separate limits of liability apply" are substituted for "The owner . . . shall be liable . . . to the same extent as if no other loss of life or bodily injury had arisen" to eliminate unnecessary words.
 

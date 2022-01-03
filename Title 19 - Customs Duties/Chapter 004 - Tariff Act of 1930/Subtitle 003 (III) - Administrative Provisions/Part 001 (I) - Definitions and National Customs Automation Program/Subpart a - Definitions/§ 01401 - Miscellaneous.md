@@ -96,13 +96,15 @@ The term "reconfigured entry" means an entry filed on an import activity summary
 
 (June 17, 1930, ch. 497, title IV, §401, 46 Stat. 708; Aug. 5, 1935, ch. 438, title II, §201, 49 Stat. 521; June 25, 1938, ch. 679, §2, 52 Stat. 1077; Proc. No. 2695, July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; June 30, 1955, ch. 258, §2(a)(3), 69 Stat. 242; Pub. L. 91–271, title III, §301(c), June 2, 1970, 84 Stat. 288; Pub. L. 99–570, title III, §3111, Oct. 27, 1986, 100 Stat. 3207–80; Pub. L. 103–182, title VI, §634, Dec. 8, 1993, 107 Stat. 2198; Pub. L. 104–295, §§3(a)(6)(A), 18(a), Oct. 11, 1996, 110 Stat. 3515, 3524; Pub. L. 108–7, div. J, title I, §127(b), Feb. 20, 2003, 117 Stat. 441; Pub. L. 108–429, title I, §1561(a), (c), title II, §2106, Dec. 3, 2004, 118 Stat. 2581, 2582, 2598; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Controlled Substances Import and Export Act, referred to in subsec. (m)(2), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, as amended, which is classified principally to subchapter II (§951 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 951 of Title 21 and Tables.
 
 #### Codification
 
-Section is based on the designated subsections of section 401 of act June 17, 1930, as amended. The last undesignated paragraph of section 401, as added by section201 of act Aug. 5, 1935, was classified to section 1432a of this title, prior to being repealed by Pub. L. 103–182, §690(c)(5), Dec. 8, 1993, 107 Stat. 2223.
+Section is based on the designated subsections of section 401 of act June 17, 1930, as amended. The last undesignated paragraph of section 401, as added by section 201 of act Aug. 5, 1935, was classified to section 1432a of this title, prior to being repealed by Pub. L. 103–182, §690(c)(5), Dec. 8, 1993, 107 Stat. 2223.
 
 Words "the Philippine Islands" formerly set out in subsec. (h) were omitted on authority of Proc. No. 2695, which is set out as a note under section 1394 of Title 22, Foreign Relations and Intercourse, and in which the President proclaimed the independence of the Philippines.
 
@@ -170,17 +172,17 @@ Subsecs. (m), (n). Pub. L. 91–271, §301(c)(2), redesignated subsecs. (m) and 
 
 <b>1935</b>—Subsecs. (l) to (n). Act Aug. 5, 1935, added subsecs. (l) to (n).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
-"Commissioner of U.S. Customs and Border Protection" substituted for "Commissioner of Customs" in subsec. (p) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under section 211 of Title 6, Domestic Security.
-
-United States Customs Service substituted for Bureau of Customs in subsec. (i) pursuant to Treasury Department Order 165–23, Apr. 4, 1973, eff. Aug. 1, 1973, 38 F.R. 13037. See, also, section 308 of Title 31, Money and Finance.
+"Commissioner of U.S. Customs and Border Protection" substituted for "Commissioner of Customs" in subsec. (p) on authority of section 802(d)(2) of Pub. L.114–125, set out as a note under section 211 of Title 6, Domestic Security.
 
 #### Effective Date of 2004 Amendment
 
 Pub. L. 108–429, title I, §1561(d), Dec. 3, 2004, 118 Stat. 2582, provided that: "This section \[amending this section and section 1629 of this title and repealing provisions set out as a note under section 1629 of this title\], and the amendments made by this section, take effect on the date of the enactment of this Act \[Dec. 3, 2004\]."
 
-Pub. L. 108–429, title II, §2108, Dec. 3, 2004, 118 Stat. 2598, provided that: "The amendments made by thissubtitle \[subtitle B (§§2101–2108) of title II of Pub. L. 108–429, amending this section and sections 1484, 1501, 1504, 1514, 1515, and 1520 of this title\] shall apply to merchandise entered, or withdrawn from warehouse for consumption, on or after the 15th day after the date of the enactment of this Act \[Dec. 3, 2004\]."
+Pub. L. 108–429, title II, §2108, Dec. 3, 2004, 118 Stat. 2598, provided that: "The amendments made by this subtitle \[subtitle B (§§2101–2108) of title II of Pub. L. 108–429, amending this section and sections 1484, 1501, 1504, 1514, 1515, and 1520 of this title\] shall apply to merchandise entered, or withdrawn from warehouse for consumption, on or after the 15th day after the date of the enactment of this Act \[Dec. 3, 2004\]."
 
 #### Effective Date of 1996 Amendment
 
@@ -203,6 +205,14 @@ Act June 25, 1938, ch. 679, §37, 52 Stat. 1094, provided that: "Sections 31 and
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### <b>Executive Documents</b>
+
+#### Change of Name
+
+United States Customs Service substituted for Bureau of Customs in subsec. (i) pursuant to Treasury Department Order 165–23, Apr. 4, 1973, eff. Aug. 1, 1973, 38 F.R. 13037. See, also, section 308 of Title 31, Money and Finance.
+
+#### Transfer of Functions
 
 Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of those officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
 

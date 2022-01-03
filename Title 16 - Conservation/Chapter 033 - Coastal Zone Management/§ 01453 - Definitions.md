@@ -30,7 +30,7 @@ For purposes of this chapter—
 
 &emsp;(6a) The term "enforceable policy" means State policies which are legally binding through constitutional provisions, laws, regulations, land use plans, ordinances, or judicial or administrative decisions, by which a State exerts control over private and public land and water uses and natural resources in the coastal zone.
 
-&emsp;(7) The term "estuary" means that part of a river or stream or other body of water having unimpaired connection with the open sea, where the sea water is measurably dilutedwith fresh water derived from land drainage. The term includes estuary-type areas of the Great Lakes.
+&emsp;(7) The term "estuary" means that part of a river or stream or other body of water having unimpaired connection with the open sea, where the sea water is measurably diluted with fresh water derived from land drainage. The term includes estuary-type areas of the Great Lakes.
 
 &emsp;(8) The term "estuarine sanctuary" means a research area which may include any part or all of an estuary and any island, transitional area, and upland in, adjoining, or adjacent to such estuary, and which constitutes to the extent feasible a natural unit, set aside to provide scientists and students the opportunity to examine over a period of time the ecological relationships within the area.
 
@@ -42,7 +42,7 @@ For purposes of this chapter—
 
 &emsp;(12) The term "management program" includes, but is not limited to, a comprehensive statement in words, maps, illustrations, or other media of communication, prepared and adopted by the state in accordance with the provisions of this chapter, setting forth objectives, policies, and standards to guide public and private uses of lands and waters in the coastal zone.
 
-&emsp;(13) The term "outer Continental Shelf energy activity" means any exploration for, or any development or production of, oil or natural gas from the outer Continental Shelf (as defined in section 1331(a) of title 43) or the siting, construction, expansion, or operation of any new or expanded energy facilities directly required by such exploration, development, or production.
+&emsp;(13) The term "outer Continental Shelf energy activity" means any exploration for, or any development or production of, oil or natural gas from the outer Continental Shelf (as defined in section 1331(a) of title 43) or the siting, construction, expansion, or operationof any new or expanded energy facilities directly required by such exploration, development, or production.
 
 &emsp;(14) The term "person" means any individual; any corporation, partnership, association, or other entity organized or existing under the laws of any state; the Federal Government; any state, regional, or local government; or any entity of any such Federal, state, regional, or local government.
 
@@ -55,6 +55,8 @@ For purposes of this chapter—
 &emsp;(18) The term "water use" means a use, activity, or project conducted in or on waters within the coastal zone.
 
 (Pub. L. 89–454, title III, §304, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1281; amended Pub. L. 94–370, §3, July 26, 1976, 90 Stat. 1013; Pub. L. 96–464, §4, Oct. 17, 1980, 94 Stat. 2061; Pub. L. 101–508, title VI, §6204, Nov. 5, 1990, 104 Stat. 1388–302; Pub. L. 102–587, title II, §2205(b)(3)–(7), Nov. 4, 1992, 106 Stat. 5050, 5051.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -80,7 +82,7 @@ Par. (2). Pub. L. 102–587, §2205(b)(6), substituted "The term" for "the term"
 
 Par. (6a). Pub. L. 102–587, §2205(b)(4), made technical amendment to directory language of Pub. L. 101–508, §6204(b). See 1990 Amendment note below.
 
-Par. (9). Pub. L. 102–587, §2205(b)(7), amended par. (9) generally. Prior to amendment, par. (9) read as follows:"The term 'Fund' means the Coastal Energy Impact Fund established by section 1456a(h) of this title."
+Par. (9). Pub. L. 102–587, §2205(b)(7), amended par. (9) generally. Prior to amendment, par. (9) read as follows: "The term 'Fund' means the Coastal Energy Impact Fund established by section 1456a(h) of this title."
 
 <b>1990</b>—Par. (1). Pub. L. 101–508, §6204(a)(1), as amended by Pub. L. 102–587, §2205(b)(3), inserted ", and to control those geographical areas which are likely to be affected by or vulnerable to sea level rise" before period at end of third sentence.
 
@@ -122,6 +124,8 @@ Par. (15). Pub. L. 94–370, §3(9), added par. (15), incorporating provisions o
 
 Par. (16). Pub. L. 94–370, §3(10), redesignated par. (h) as (16) and substituted "The term 'water use' " for " 'Water use'."
 
+#### <b>Executive Documents</b>
+
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
@@ -160,7 +164,7 @@ The United Nations Convention on the Law of the Sea of 10 December 1982 (Convent
 
 In Proclamation 5030 of March 10, 1983 (Exclusive Economic Zone of the United States of America) \[set out above\], the President announced the establishment of the EEZ of the United States. The Proclamation asserts the sovereign rights and jurisdiction of the United States in its EEZ and confirms the rights and freedoms of all states, as provided under international law. In an accompanying Presidential Statement of March 10, 1983 (United States Oceans Policy), the President acknowledged that international law allows coastal states to exercise jurisdiction over marine scientific research in their respective EEZs, but stated that the United States had elected not to do so to the fullest extent permitted under international law, in an effort to encourage such research. Presidential Decision Directive-36 of April 5, 1995 (United States Policy on Protecting the Ocean Environment), emphasizes that the policy of the United States is to protect and monitor the ocean and coastal environment and conserve living marine resources, recognizing that doing so, in an open and collaborative manner, supports our economic and national security interests.
 
-In Executive Order 13840 of June 19, 2018 (Ocean Policy to Advance the Economic, Security, and Environmental Interests of the United States) \[33 U.S.C. 857–19 note\], I reaffirmed that the United States will continue to promote lawful use of the ocean by agencies, including the Armed Forces, and that the United States will continue to exercise its rights and jurisdiction and perform duties in accordance with applicable international law, including customary international law. Further, the United States will use the best available ocean-related science and knowledge, in partnership with the science and technology communities, to inform decisions and enhance entrepreneurial opportunities. In the Presidential Memorandum of November 19, 2019 (Ocean Mapping of the United States Exclusive Economic Zone and the Shoreline and Nearshore of Alaska) \[33 U.S.C. 3501 note\], I affirmed the importance of understanding our ocean systems and natural resources to our security, economic, and environmental interests.
+In Executive Order 13840 of June 19, 2018 (Ocean Policy to Advance the Economic, Security, and Environmental Interests of the United States) \[33 U.S.C. 857–19 note\], I reaffirmed that the United States will continue to promote lawful use of the ocean by agencies, including the Armed Forces, and that the United States will continue to exercise its rights and jurisdiction and perform duties in accordance with applicable international law, including customary international law. Further, the United States will use the best available ocean-related science and knowledge, in partnership with the science and technology communities, to inform decisions and enhance entrepreneurial opportunities. In the Presidential Memorandum of November 19, 2019 (OceanMapping of the United States Exclusive Economic Zone and the Shoreline and Nearshore of Alaska) \[33 U.S.C. 3501 note\], I affirmed the importance of understanding our ocean systems and natural resources to our security, economic, and environmental interests.
 
 Likewise, the exercise of jurisdiction by the United States over marine scientific research in its EEZ and on its continental shelf will result in greater access to data collected during such research and will increase maritime domain awareness, thereby reducing potential exposure to security, economic, and environmental risks.
 

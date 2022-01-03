@@ -8,7 +8,7 @@ Establishment or Designation.—(1) In cooperation with the States and not later
 
 (b)
 
-Operation.—The Attorney General may authorize the operation of the System established or designated under subsection (a)(1) of this section by agreement with one or more States, or by designating, after consulting with the States, a third party that represents the interests of the States.
+Operation.—The Attorney General may authorize the operation of the System established or designated under subsection (a)(1) of this section by agreement with one or more States, or by designating, after consulting withthe States, a third party that represents the interests of the States.
 
 (c)
 
@@ -92,6 +92,8 @@ In subsection (d)(4), the words "the odometer mileage disclosure required" are s
 
 In subsection (e)(2), the words "The operator may release only the information necessary" are substituted for "Notwithstanding any provision of paragraphs (1) through (4), the operator shall release no information other than what is necessary" to eliminate unnecessary words. The words "social security account number" are substituted for "social security number" for consistency with 42:405.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1997</b>—Pub. L. 105–102 amended directory language of Pub. L. 104–152, §2(c). See 1996 Amendment notes below.
@@ -100,7 +102,7 @@ In subsection (e)(2), the words "The operator may release only the information n
 
 Subsecs. (a), (b). Pub. L. 104–152, §3(a), which directed the amendment of this section by striking each reference to "Secretary of Transportation" or "Secretary" and inserting "Attorney General", and Pub. L. 104–152, §3(b), which directed the striking of each reference to "Attorney General" and inserting "Secretary of Transportation", were executed simultaneously, to reflect the probable intent of Congress. See below.
 
-Subsec. (a)(1). Pub. L. 104–152, §3, substituted "Attorney General shall" for "Secretary of Transportation shall", "Attorney General decides" for "Secretary decides", "permit the Attorney General" for "permit the Secretary", and "Attorney General, in consultation with the Secretary of Transportation" for "Secretary, in consultation with the Attorney General".
+Subsec. (a)(1). Pub. L. 104–152, §3, substituted "Attorney General shall" for "Secretary of Transportationshall", "Attorney General decides" for "Secretary decides", "permit the Attorney General" for "permit the Secretary", and "Attorney General, in consultation with the Secretary of Transportation" for "Secretary, in consultation with the Attorney General".
 
 Pub. L. 104–152, §2(c), as amended by Pub. L. 105–102, substituted "National Motor Vehicle Title Information System" for "National Automobile Title Information System" in two places.
 
@@ -111,6 +113,8 @@ Subsec. (a)(2). Pub. L. 104–152, §3, substituted "Secretary of Transportation
 Subsec. (b). Pub. L. 104–152, §3(a), substituted "Attorney General" for "Secretary".
 
 Subsec. (f). Pub. L. 104–152, §4, added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1997 Amendment
 

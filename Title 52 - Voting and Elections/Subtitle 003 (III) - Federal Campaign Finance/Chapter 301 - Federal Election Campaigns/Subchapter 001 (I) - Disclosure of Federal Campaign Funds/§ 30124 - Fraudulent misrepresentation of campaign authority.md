@@ -12,7 +12,7 @@ No person who is a candidate for Federal office or an employee or agent of such 
 
 No person shall—
 
-&emsp;(1) fraudulently misrepresent the person as speaking, writing, or otherwise acting for or on behalf of any candidate or political party or employee or agent thereof for the purpose of soliciting contributions or donations; or
+&emsp;(1) fraudulently misrepresent the person as speaking, writing, or otherwise acting for oron behalf of any candidate or political party or employee or agent thereof for the purpose of soliciting contributions or donations; or
 
 &emsp;(2) willfully and knowingly participate in or conspire to participate in any plan, scheme, or design to violate paragraph (1).
 

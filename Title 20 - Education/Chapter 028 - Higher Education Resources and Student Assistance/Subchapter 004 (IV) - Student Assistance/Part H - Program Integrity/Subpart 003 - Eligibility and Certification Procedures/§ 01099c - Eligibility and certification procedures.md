@@ -18,7 +18,7 @@ The Secretary shall prepare and prescribe a single application form which—
 
 &emsp;&emsp;(B) the institution to maintain a copy of any contract with a financial aid service provider or loan servicer, and provide a copy of any such contract to the Secretary upon request;
 
-&emsp;(4) requires such other information as the Secretary determines will ensure compliancewith the requirements of this subchapter with respect to eligibility, accreditation, administrative capability and financial responsibility; and
+&emsp;(4) requires such other information as the Secretary determines will ensure compliance with the requirements of this subchapter with respect to eligibility, accreditation, administrative capability and financial responsibility; and
 
 &emsp;(5) provides, at the option of the institution, for participation in one or more of the programs under part B or D.
 
@@ -80,7 +80,7 @@ The Secretary is authorized—
 
 (1) Notwithstanding any other provision of law, the Secretary may, to the extent necessary to protect the financial interest of the United States, require—
 
-&emsp;(A) financial guarantees from an institution participating, or seeking to participate, in a program under this subchapter, or from one or more individuals who the Secretary determines, in accordance with paragraph (2), exercise substantial control over such institution, or both, in an amount determined by the Secretary to be sufficient to satisfy the institution's potential liability to the Federal Government, student assistance recipients, and other program participants for funds under this subchapter; and
+&emsp;(A) financial guarantees from an institution participating, or seeking to participate, in a program under this subchapter, or from one ormore individuals who the Secretary determines, in accordance with paragraph (2), exercise substantial control over such institution, or both, in an amount determined by the Secretary to be sufficient to satisfy the institution's potential liability to the Federal Government, student assistance recipients, and other program participants for funds under this subchapter; and
 
 &emsp;(B) the assumption of personal liability, by one or more individuals who exercise substantial control over such institution, as determined by the Secretary in accordance with paragraph (2), for financial losses to the Federal Government, student assistance recipients, and other program participants for funds under this subchapter, and civil and criminal monetary penalties authorized under this subchapter.
 
@@ -134,7 +134,7 @@ The Secretary shall ensure that prompt action is taken by the Department on any 
 
 #### (1) General rule
 
-&emsp;After the expiration of the certification of any institution under the schedule prescribed under this section (as this section was in effect prior to October 7, 1998), or upon request for initial certification from an institution not previously certified, the Secretary may certify the eligibility for the purposes of any program authorized under this subchapter ofeach such institution for a period not to exceed 6 years.
+&emsp;After the expiration of the certification of any institution under the schedule prescribed under this section (as this section was in effect prior to October 7, 1998), or upon request for initial certification from an institution not previously certified, the Secretary may certify the eligibility for the purposes of any program authorized under this subchapter of each such institution for a period not to exceed 6 years.
 
 #### (2) Notification
 
@@ -204,13 +204,15 @@ The Secretary shall ensure that prompt action is taken by the Department on any 
 
 #### (2) Special rule
 
-&emsp;An institution of higher education that conducts a teach-out through the establishment of an additional location described in paragraph (1) shall be permitted to establish a permanent additional location at a closed institution and shall not be required—
+&emsp;An institution of higher education that conducts a teach-out through the establishmentof an additional location described in paragraph (1) shall be permitted to establish a permanent additional location at a closed institution and shall not be required—
 
 &emsp;&emsp;(A) to meet the requirements of sections 1002(b)(1)(E) and 1002(c)(1)(C) of this title for such additional location; or
 
 &emsp;&emsp;(B) to assume the liabilities of the closed institution.
 
 (Pub. L. 89–329, title IV, §498, as added Pub. L. 102–325, title IV, §499, July 23, 1992, 106 Stat. 647; amended Pub. L. 103–208, §2(i)(9)–(14), Dec. 20, 1993, 107 Stat. 2479, 2480; Pub. L. 105–244, title I, §102(a)(6)(B), (b)(6), (7), title IV, §493(a)–(c)(1), (d)–(h), Oct. 7, 1998, 112 Stat. 1618, 1622, 1761–1763; Pub. L. 110–315, title IV, §496, Aug. 14, 2008, 122 Stat. 3327; Pub. L. 111–39, title IV, §408(2), July 1, 2009, 123 Stat. 1953.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -272,7 +274,7 @@ Subsec. (j)(2). Pub. L. 105–244, §102(a)(6)(B), (b)(7)(B), amended par. (2) i
 
 Subsec. (c)(3). Pub. L. 103–208, §2(i)(9)(B), substituted "The Secretary shall determine" for "The Secretary may determine" in introductory provisions.
 
-Subsec. (c)(3)(C). Pub. L. 103–208, §2(i)(9)(C), amended subpar. (C) generally. Prior to amendment, subpar. (C)read as follows: "such institution establishes to the satisfaction of the Secretary, with the support of a report of an independent certified public accountant prepared under generally accepted accounting principles, that the institution is a going concern capable of meeting all of its financial obligations, including (but not limited to) refunds of institutional charges and repayments to the Secretary for liabilities and debts incurred in programs administered by the Secretary; or".
+Subsec. (c)(3)(C). Pub. L. 103–208, §2(i)(9)(C), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "such institution establishes to the satisfaction of the Secretary, with the support of a report of an independent certified public accountant prepared under generally accepted accounting principles, that the institution is a going concern capable of meeting all of its financial obligations, including (but not limited to) refunds of institutional charges and repayments to the Secretary for liabilities and debts incurred in programs administered by the Secretary; or".
 
 Subsec. (c)(4) to (6). Pub. L. 103–208, §2(i)(9)(D), (E), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
 
@@ -285,6 +287,8 @@ Subsec. (i)(1). Pub. L. 103–208, §2(i)(12), amended par. (1) generally. Prior
 Subsec. (i)(3)(A). Pub. L. 103–208, §2(i)(13), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "the death of an owner of an institution, when the owner's interest is sold or transferred to either a family member or a current stockholder of the corporation; or".
 
 Subsec. (j)(1). Pub. L. 103–208, §2(i)(14), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "For the purposes of this subchapter, a branch of an eligible institution, as defined pursuant to regulations of the Secretary, is a separate institution of higher education and shall separately meet all the requirements of this subchapter, except that such institution shall not be required (under section 1088(b)(5) or 1088(c)(3) of this title) to be in existence for 2 years prior to seeking such certification unless such institution was in existence as a branch for less than 2 years."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

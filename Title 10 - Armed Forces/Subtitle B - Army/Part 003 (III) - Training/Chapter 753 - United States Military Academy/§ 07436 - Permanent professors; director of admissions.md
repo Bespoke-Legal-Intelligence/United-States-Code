@@ -28,6 +28,8 @@ The word "grade" is substituted for the word "rank". The words "pay, and allowan
 
 The word "regular" is deleted \[in sections 4335 and 4336\] to make clear that a Dean or professor of the United States Military Academy holds only the office of "Dean" or "professor" and not the office of "brigadier general" or "colonel", as the case may be, even though he is entitled to the pay and allowances of that grade.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 7436 was renumbered section 8736 of this title.
@@ -51,6 +53,8 @@ Subsecs. (b), (c). Pub. L. 95–551, §2, substituted "director of admissions" f
 Subsec. (a). Pub. L. 85–861 substituted "has the grade of colonel" for "has the regular grade of colonel" in two places, and "have the grade of lieutenant colonel" for "have the regular grade of lieutenant colonel".
 
 Pub. L. 85–600 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

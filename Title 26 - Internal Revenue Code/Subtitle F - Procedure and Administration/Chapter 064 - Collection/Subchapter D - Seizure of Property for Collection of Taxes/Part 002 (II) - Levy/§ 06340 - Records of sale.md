@@ -20,6 +20,8 @@ The taxpayer with respect to whose liability the sale was conducted or who redee
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 789; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–206, title III, §3442(a), July 22, 1998, 112 Stat. 761.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–206, §3442(a)(1), struck out "real" after "sales of" and inserted "or certificate of sale of personal property" after "deed".
@@ -27,6 +29,8 @@ The taxpayer with respect to whose liability the sale was conducted or who redee
 Subsec. (c). Pub. L. 105–206, §3442(a)(2), added subsec. (c).
 
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

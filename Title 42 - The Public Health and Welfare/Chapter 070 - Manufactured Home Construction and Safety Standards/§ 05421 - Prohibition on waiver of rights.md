@@ -4,9 +4,13 @@ The rights afforded manufactured home purchasers under this chapter may not be w
 
 (Pub. L. 93–383, title VI, §622, Aug. 22, 1974, 88 Stat. 712; Pub. L. 96–399, title III, §308(c)(4), Oct. 8, 1980, 94 Stat. 1641.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1980</b>—Pub. L. 96–399 substituted "manufactured home" for "mobile home".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

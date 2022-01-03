@@ -36,11 +36,15 @@ A boxing commission may allow a boxer who is under suspension in any State to pa
 
 (Pub. L. 104–272, §7, Oct. 9, 1996, 110 Stat. 3311; Pub. L. 106–210, §7(b), (d), May 26, 2000, 114 Stat. 328.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Subsec. (a)(2)(E). Pub. L. 106–210, §7(b), added subpar. (E).
 
 Subsec. (a)(3). Pub. L. 106–210, §7(d), substituted "boxer, licensee, manager, matchmaker, promoter, or other boxing service provider" for "boxer" the first place appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

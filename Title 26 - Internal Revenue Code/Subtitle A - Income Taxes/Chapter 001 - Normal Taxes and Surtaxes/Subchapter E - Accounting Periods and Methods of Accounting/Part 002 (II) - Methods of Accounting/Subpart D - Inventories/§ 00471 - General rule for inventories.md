@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Whenever in the opinion of the Secretary the use of inventories is necessary in order clearly to determine the income of any taxpayer, inventories shall be taken by such taxpayer on such basis as the Secretary may prescribe as conforming as nearly as may be to the best accounting practice in the trade or business and as most clearly reflecting the income.
+Whenever in the opinion of the Secretary the use of inventories is necessary in order clearly to determine the income of any taxpayer, inventories shall be taken by such taxpayer on suchbasis as the Secretary may prescribe as conforming as nearly as may be to the best accounting practice in the trade or business and as most clearly reflecting the income.
 
 #### (b) Estimates of inventory shrinkage permitted
 
@@ -44,6 +44,8 @@ A method of determining inventories shall not be treated as failing to clearly r
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 159; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title VIII, §803(b)(4), Oct. 22, 1986, 100 Stat. 2356; Pub. L. 105–34, title IX, §961(a), Aug. 5, 1997, 111 Stat. 891; Pub. L. 115–97, title I, §13102(c), Dec. 22, 2017, 131 Stat. 2103.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Subsecs. (c), (d). Pub. L. 115–97 added subsec. (c) and redesignated former subsec. (c) as (d).
@@ -53,6 +55,8 @@ A method of determining inventories shall not be treated as failing to clearly r
 <b>1986</b>—Pub. L. 99–514 designated existing provisions as subsec. (a) and added subsec. (b).
 
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 

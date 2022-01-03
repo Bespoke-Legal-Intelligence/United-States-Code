@@ -26,9 +26,13 @@ The members of the advisory committee for each lake shall be invited to attend a
 
 (June 4, 1956, ch. 358, §4, 70 Stat. 242; Pub. L. 107–228, div. A, title II, §208, Sept. 30, 2002, 116 Stat. 1364.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (c). Pub. L. 107–228, which directed the substitution of "ten" for "five" and "the annual" for "each" in subsec. (c) of section 4 of the Great Lakes Fisheries Act of 1956, was executed by making the substitutions in subsec. (c) of this section, which is section 4 of the Great Lakes Fishery Act of 1956, to reflect the probable intent of Congress.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Advisory Committees
 

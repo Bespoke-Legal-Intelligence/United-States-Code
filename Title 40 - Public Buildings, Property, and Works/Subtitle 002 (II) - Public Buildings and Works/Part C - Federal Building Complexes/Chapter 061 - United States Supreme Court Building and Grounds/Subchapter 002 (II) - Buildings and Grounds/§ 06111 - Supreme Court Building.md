@@ -74,7 +74,7 @@ Pub. L. 101–162, title IV, (proviso in par. under heading "Care of the Buildin
 
 In subsection (b)(1), the words "In addition to the foregoing, any" and "hereafter" are omitted as unnecessary.
 
-In subsection (b)(2), before subclause (A), the words "That for fiscal year 1990 and hereafter" are omitted as executed. In subclause (C), the words "chapter 51, subchapter III of chapter 53, and subchapter III of chapter 83, of title 5" are substituted for "the Classificationand Retirement Acts, as amended" because of section 7(b) of the Act of September 6, 1966 (Public Law 89–554, 80 Stat. 631), the first section of which enacted Title 5, United States Code.
+In subsection (b)(2), before subclause (A), the words "That for fiscal year 1990 and hereafter" are omitted as executed. In subclause (C), the words "chapter 51, subchapter III of chapter 53, and subchapter III of chapter 83, of title 5" are substituted for "the Classification and Retirement Acts, as amended" because of section 7(b) of the Act of September 6, 1966 (Public Law 89–554, 80 Stat. 631), the first section of which enacted Title 5, United States Code.
 
 #### <b>Editorial Notes</b>
 

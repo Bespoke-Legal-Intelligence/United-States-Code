@@ -72,7 +72,7 @@ Subsec. (b)(2). Pub. L. 102–586, §3(b)(2)(A), substituted "$100,000" for "$75
 
 Subsec. (b)(3). Pub. L. 102–586, §3(b)(2)(B), substituted "1992" for "1988" in two places.
 
-Subsecs. (c), (d). Pub. L. 102–586, §3(b)(3), added subsecs. (c) and (d) and struck out former subsec. (c) which read as follows: "The Secretary is authorized to provide on-the-job training to local runaway and homeless youth center personnel and coordinated networks of local law enforcement, social service, and welfare personnel to assist such personnel in recognizing and providing for learning disabled and other handicapped juveniles."
+Subsecs. (c), (d). Pub. L. 102–586, §3(b)(3), added subsecs. (c) and (d) and struck out former subsec. (c) whichread as follows: "The Secretary is authorized to provide on-the-job training to local runaway and homeless youth center personnel and coordinated networks of local law enforcement, social service, and welfare personnel to assist such personnel in recognizing and providing for learning disabled and other handicapped juveniles."
 
 <b>1988</b>—Pub. L. 100–690, §7271(a), substituted "Authority to make grants" for "Grants and technical assistance" in section catchline.
 

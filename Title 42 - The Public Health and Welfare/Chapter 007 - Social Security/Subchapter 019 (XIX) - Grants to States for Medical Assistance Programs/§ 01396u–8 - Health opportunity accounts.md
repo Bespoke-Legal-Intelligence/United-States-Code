@@ -80,7 +80,7 @@
 
 #### (B) On enrollees in Medicaid managed care organizations
 
-&emsp;&emsp;Insofar as the State provides for eligibility of individuals who are enrolled in Medicaid managed care organizations, such individuals may participate in the State demonstration program only if the State provides assurances satisfactory to the Secretary that the following conditions are met with respect to any such organization:
+&emsp;&emsp;Insofar as the State provides for eligibility of individuals who are enrolled in Medicaidmanaged care organizations, such individuals may participate in the State demonstration program only if the State provides assurances satisfactory to the Secretary that the following conditions are met with respect to any such organization:
 
 &emsp;&emsp;&emsp;(i) In no case may the number of such individuals enrolled in the organization who participate in the program exceed 5 percent of the total number of individuals enrolled in such organization.
 
@@ -220,7 +220,7 @@
 
 #### (ii) No FFP for private contributions
 
-&emsp;&emsp;&emsp;No Federal financial participation shall be provided under section 1396b(a) of this title with respect to any contributions described in subparagraph (A)(ii) to a health opportunity account.
+&emsp;&emsp;&emsp;No Federal financial participation shall be provided under section 1396b(a) of thistitle with respect to any contributions described in subparagraph (A)(ii) to a health opportunity account.
 
 #### (E) Application of different matching rates
 
@@ -268,7 +268,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) shall be available for the purchase of health insurance coverage; and
 
-&emsp;&emsp;&emsp;&emsp;(II) may, subject to clause (iv), be made available (at the option of the State) for such additional expenditures\(such as job training and tuition expenses) specified by the State (and approved by the Secretary) as the State may specify.
+&emsp;&emsp;&emsp;&emsp;(II) may, subject to clause (iv), be made available (at the option of the State) for such additional expenditures (such as job training and tuition expenses) specified by the State (and approved by the Secretary) as the State may specify.
 
 #### (iii) Exception from 25 percent savings to Government for private contributions
 
@@ -300,6 +300,8 @@
 
 (Aug. 14, 1935, ch. 531, title XIX, §1938, as added Pub. L. 109–171, title VI, §6082(2), Feb. 8, 2006, 120 Stat. 113.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Internal Revenue Code of 1986, referred to in subsecs. (a)(3) and (d)(3)(A)(ii), is classified generally to Title 26, Internal Revenue Code.
@@ -307,6 +309,8 @@ The Internal Revenue Code of 1986, referred to in subsecs. (a)(3) and (d)(3)(A)(
 #### Prior Provisions
 
 A prior section 1938 of act Aug. 14, 1935, was renumbered section 1939 and is classified to section 1396v of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Prohibiting Initiation of New Health Opportunity Account Demonstration Programs
 

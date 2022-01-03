@@ -32,6 +32,8 @@ July 9, 1952, ch. 608, §413(a), (b), (d), (e), (f), 66 Stat. 499.
 
 In subsection (a) the word "Federal" is omitted and the words "in the armed forces, other than active duty for training" are inserted. The words "active Federal service" are not defined in 50 U.S.C. 1052. Section 310 of the Naval Reserve Act of 1938, which 50 U.S.C. 1052 replaced, specifies active service in the "Army, Navy, Marine Corps, Coast Guard, Naval Auxiliary Service, Naval Reserve Force, Naval Militia in Federal status, National Naval Volunteers, Naval Reserve, Marine Corps Reserve Force, and Marine Corps Reserve." 50 U.S.C. 1052 was intended to preserve the rights of persons who, on January 1, 1953, were members of reserve components, so that they would not be prejudiced by the repeal of §310 of the Naval Reserve Act of 1938 (U.S. Code Congressional and Administrative News, 1952, p. 3584). To effect that purpose, the service that was creditable under the 1938 Act must be creditable under 50 U.S.C. 1052. The words "active service in the armed forces, other than active duty for training" cover all creditable service. The Judge Advocate General of the Navy, in an opinion dated August 27, 1954 (JAG II:2:WGA:CA:mk), held that active duty for training was not creditable under the 1938 Act and is, therefore, not creditable under the 1952 Act.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232, §807(b)(15), renumbered section 6327 of this title as this section.
@@ -44,7 +46,9 @@ Subsecs. (a), (c). Pub. L. 109–163, §515(b)(1)(I), substituted "Navy Reserve"
 
 <b>1963</b>—Subsec. (b). Pub. L. 88–132 substituted "of the grade in which retired" for "to which he would be entitled if on active duty" after "50 percent of the basic pay".
 
-<b>1958</b>—Subsec. (e). Pub. L. 85–583 entitled eligible members of Naval Reserve or Marine Corps Reserve to elect to transfer to Fleet Reserve or Fleet Marine Corps Reserve.
+<b>1958</b>—Subsec. (e). Pub. L. 85–583 entitled eligible members of Naval Reserve or Marine Corps Reserve toelect to transfer to Fleet Reserve or Fleet Marine Corps Reserve.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 
@@ -52,5 +56,5 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Effective Date of 1963 Amendment
 
-Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 88–132, set out as a note undersection 201 of Title 37, Pay and Allowances of the Uniformed Services.
+Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 88–132, set out as a note under section 201 of Title 37, Pay and Allowances of the Uniformed Services.
 

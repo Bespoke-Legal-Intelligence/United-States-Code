@@ -46,7 +46,7 @@ An employee who—
 
 &emsp;&emsp;(A) be a basis for payment, and shall not be included in the computation, of any other type of Government benefit; and
 
-&emsp;&emsp;(B) be taken into account for the purpose of determining the amount of any severance pay to which an individual may be entitled under section 5595 of title 5 based on any other separation.
+&emsp;&emsp;(B) be taken into account for the purpose of determining the amount of any severance pay to which an individual may be entitledunder section 5595 of title 5 based on any other separation.
 
 #### (f) Reemployment restrictions
 
@@ -58,7 +58,7 @@ An employee who receives separation pay under such program may not be reemployed
 
 &emsp;An employee may not be separated from service under this section unless the employee agrees that the employee will not—
 
-&emsp;&emsp;(A) act as agent or attorney for, or otherwise represent, any other person (except theUnited States) in any formal or informal appearance before, or, with the intent to influence, make any oral or written communication on behalf of any other person (except the United States) to the National Security Agency; or
+&emsp;&emsp;(A) act as agent or attorney for, or otherwise represent, any other person (except the United States) in any formal or informal appearance before, or, with the intent to influence, make any oral or written communication on behalf of any other person (except the United States) to the National Security Agency; or
 
 &emsp;&emsp;(B) participate in any manner in the award, modification, or extension of any contract for property or services with the National Security Agency,
 
@@ -91,6 +91,8 @@ The Director may not make an offer of early retirement, separation pay, or both,
 In addition to any other payment that is required to be made under subchapter III of chapter 83 or chapter 84 of title 5, the National Security Agency shall remit to the Office of Personnel Management for deposit in the Treasury of the United States to the credit of the Civil Service Retirement and Disability Fund, an amount equal to 15 percent of the final basic pay of each employee to whom a voluntary separation payment has been or is to be paid under this section. The remittance required by this subsection shall be in lieu of any remittance required by section 4(a) of the Federal Workforce Restructuring Act of 1994 (5 U.S.C. 8331 note).
 
 (July 26, 1947, ch. 343, title III, §301, as added Pub. L. 106–567, title III, §304(a), Dec. 27, 2000, 114 Stat. 2836; amended Pub. L. 107–306, title III, §353(b)(2)(A), title VIII, §841(b), Nov. 27, 2002, 116 Stat. 2402, 2431.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

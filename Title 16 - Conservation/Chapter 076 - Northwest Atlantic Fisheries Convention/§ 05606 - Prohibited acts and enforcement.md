@@ -22,6 +22,8 @@ For additional prohibitions relating to this chapter and enforcement of this cha
 
 (Pub. L. 104–43, title II, §207, Nov. 3, 1995, 109 Stat. 379; Pub. L. 105–384, title II, §201(b)(1), Nov. 13, 1998, 112 Stat. 3451; Pub. L. 114–81, title I, §111, Nov. 5, 2015, 129 Stat. 659; Pub. L. 114–327, title V, §506, Dec. 16, 2016, 130 Stat. 1996.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Subsec. (a)(5). Pub. L. 114–327 substituted "fishery resources" for "fish".
@@ -33,6 +35,8 @@ Subsec. (a)(2), (3). Pub. L. 114–81, §111(2), (3), inserted ", investigation
 Subsecs. (b) to (f). Pub. L. 114–81, §111(4), added subsec. (b) and struck out former subsecs. (b) to (f), which related to civil penalty, criminal penalty, civil forfeitures, enforcement, and jurisdiction of courts.
 
 <b>1998</b>—Subsec. (e). Pub. L. 105–384 substituted "section" for "sections".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

@@ -12,5 +12,5 @@ Reorganization Plan Numbered 22 of 1950, referred to in text, is set out as a no
 
 #### Codification
 
-Section was enacted as part of the Housing Act of 1954, and not as part of the National Housing Act whichcomprises this chapter or of the Federal National Mortgage Charter Association Act which comprises this subchapter.
+Section was enacted as part of the Housing Act of 1954, and not as part of the National Housing Act which comprises this chapter or of the Federal National Mortgage Charter Association Act which comprises this subchapter.
 

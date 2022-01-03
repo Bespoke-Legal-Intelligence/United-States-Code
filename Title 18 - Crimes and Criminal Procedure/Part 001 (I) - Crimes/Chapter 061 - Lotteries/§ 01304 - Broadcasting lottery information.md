@@ -4,7 +4,7 @@ Whoever broadcasts by means of any radio or television station for which a licen
 
 Each day's broadcasting shall constitute a separate offense.
 
-(June 25, 1948, ch. 645, 62 Stat. 763; Pub. L. 100–625, §3(a)(4), Nov. 7, 1988, 102 Stat. 3206; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 763; Pub. L. 100–625, §3(a)(4), Nov. 7, 1988, 102 Stat. 3206; Pub.L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 
@@ -13,12 +13,6 @@ Based on section 316 of title 47, U.S.C., 1940 ed., Telegraphs, Telephones, and 
 Words "upon conviction thereof" were deleted as surplusage since punishment can be imposed only after a conviction.
 
 Minor changes were made in phraseology.
-
-#### <b>Editorial Notes</b>
-
-#### Constitutionality
-
-For information regarding constitutionality of this section, see reference to act June 19, 1934, ch. 652, §316 (on which this section is based), in Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
 #### Amendments
 

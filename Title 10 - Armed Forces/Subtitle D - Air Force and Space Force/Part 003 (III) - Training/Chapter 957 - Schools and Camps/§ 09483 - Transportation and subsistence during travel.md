@@ -34,11 +34,15 @@ In subsection (b), the words "of the actual performance of the same" are omitted
 
 Subsection (c) is substituted for the words "the most usual and direct route within such limits as to territory as the Secretary of the Army may prescribe \* \* \* for the distance by the shortest usually traveled route from the places from which they are authorized to proceed to the camp, and for the return travel thereto".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232, §806(a)(2), renumbered section 9413 of this title as this section.
 
 Subsec. (a). Pub. L. 115–232, §809(a), substituted "section 9481" for "section 9411" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

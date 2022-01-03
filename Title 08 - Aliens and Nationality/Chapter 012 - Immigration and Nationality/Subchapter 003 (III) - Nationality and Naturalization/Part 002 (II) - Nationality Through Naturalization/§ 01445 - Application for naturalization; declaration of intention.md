@@ -34,7 +34,7 @@ An alien over 18 years of age who is residing in the United States pursuant to a
 
 #### References in Text
 
-This chapter, referred to in subsec. (f), was in the original a reference to this Act, meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+This chapter, referred to in subsec. (f), was in the original a reference to this Act, meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to theCode, see Short Title note set out under section 1101 of this title and Tables.
 
 #### Amendments
 
@@ -46,7 +46,7 @@ Subsecs. (f), (g). Pub. L. 102–232, §305(d), redesignated subsec. (g) as (f).
 
 <b>1990</b>—Pub. L. 101–649, §407(d)(12)(A), substituted "Application for naturalization; declaration of intention" for "Petition for naturalization" in section catchline.
 
-Subsec. (a). Pub. L. 101–649, §407(c)(15), (d)(12)(B), as amended by Pub. L. 102–232, §305(e), substituted "with the Attorney General" for "in the office of the clerk of a naturalization court", "under this subchapter" for"upon the hearing of such petition", and "application" for "petition" wherever appearing.
+Subsec. (a). Pub. L. 101–649, §407(c)(15), (d)(12)(B), as amended by Pub. L. 102–232, §305(e), substituted "with the Attorney General" for "in the office of the clerk of a naturalization court", "under this subchapter" for "upon the hearing of such petition", and "application" for "petition" wherever appearing.
 
 Pub. L. 101–649, §401(b), inserted at end "In the case of an applicant subject to a requirement of continuous residence under section 1427(a) or 1430(a) of this title, the application for naturalization may be filed up to 3 months before the date the applicant would first otherwise meet such continuous residence requirement."
 

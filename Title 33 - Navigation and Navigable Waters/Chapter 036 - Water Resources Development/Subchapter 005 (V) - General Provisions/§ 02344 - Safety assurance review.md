@@ -2,7 +2,7 @@
 
 #### (a) Projects subject to safety assurance review
 
-The Chief of Engineers shall ensure that the design and construction activities for hurricaneand storm damage reduction and flood damage reduction projects are reviewed by independent experts under this section if the Chief of Engineers determines that a review by independent experts is necessary to assure public health, safety, and welfare.
+The Chief of Engineers shall ensure that the design and construction activities for hurricane and storm damage reduction and flood damage reduction projects are reviewed by independent experts under this section if the Chief of Engineers determines that a review by independent experts is necessary to assure public health, safety, and welfare.
 
 #### (b) Factors
 
@@ -40,7 +40,7 @@ The written recommendations of a reviewer or panel of reviewers under this secti
 
 #### (f) Applicability
 
-This section shall apply to any project in design or under construction on November 8, 2007, and to any project with respect to which design or construction is initiated during the period beginning on November 8, 2007, and ending 7 years after November 8, 2007.
+This section shall apply to any project in design or under construction on November 8, 2007,and to any project with respect to which design or construction is initiated during the period beginning on November 8, 2007, and ending 7 years after November 8, 2007.
 
 #### (g) Nonapplicability of FACA
 

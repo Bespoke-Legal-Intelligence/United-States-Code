@@ -66,7 +66,7 @@ Regulations.—In issuing regulations under this section, the Secretary—
 
 &emsp;&emsp;(B) have not been subject to the routine (as defined by the Secretary) sounding of a locomotive horn at highway-rail grade crossings;
 
-&emsp;(2) shall work in partnership with affected communities to provide technical assistance and shall provide a reasonable amount of time for local communities to install supplementary safety measures, taking into account local safety initiatives (such as public awareness initiatives and highway-rail grade crossing traffic law enforcement programs) subject to such terms and conditions as the Secretary deems necessary, to protect public safety; and
+&emsp;(2) shall work in partnership with affected communities to provide technical assistanceand shall provide a reasonable amount of time for local communities to install supplementary safety measures, taking into account local safety initiatives (such as public awareness initiatives and highway-rail grade crossing traffic law enforcement programs) subject to such terms and conditions as the Secretary deems necessary, to protect public safety; and
 
 &emsp;(3) may waive (in whole or in part) any requirement of this section (other than a requirement of this subsection or subsection (j)) that the Secretary determines is not likely to contribute significantly to public safety.
 
@@ -76,11 +76,15 @@ Effective Date of Regulations.—Any regulations under this section shall not ta
 
 (Added Pub. L. 103–440, title III, §302(a), Nov. 2, 1994, 108 Stat. 4626; amended Pub. L. 104–264, title XII, §1218(a), Oct. 9, 1996, 110 Stat. 3285; Pub. L. 104–287, §5(51), Oct. 11, 1996, 110 Stat. 3393.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (g). Pub. L. 104–287 substituted "November 2, 1994" for "the date of enactment of this section" in two places.
 
 Subsecs. (i), (j). Pub. L. 104–264 added subsecs. (i) and (j).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

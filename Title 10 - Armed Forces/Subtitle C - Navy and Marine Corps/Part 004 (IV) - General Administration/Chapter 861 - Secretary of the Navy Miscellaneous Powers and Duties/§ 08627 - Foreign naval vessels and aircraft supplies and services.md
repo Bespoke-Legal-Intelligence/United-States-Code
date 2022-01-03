@@ -34,6 +34,8 @@ Historical and Revision Notes
 
 May 27, 1953, ch. 67, 67 Stat. 34.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7227 of this title as this section.
@@ -50,7 +52,9 @@ Subsec. (a)(3). Pub. L. 98–525, §1405(49)(B), (D), substituted "Miscellaneous
 
 <b>1983</b>—Subsec. (b). Pub. L. 98–94 designated existing provisions as par. (1) and added par. (2).
 
-<b>1959</b>—Pub. L. 86–55 authorized supplies and services to be furnished by any United States naval vessel or activity, and the furnishing of supplies and services to aircraft, eliminated provisions which limited the furnishing of supplies on a reimbursable basis to ships of foreign countries that had entered into a prior reciprocal agreement, and which permitted services, including overhauling, repairs, alterations and installation of equipment, to be furnished only if funds to cover the estimated cost thereof were advanced, and permitted the furnishing of routine port and airport services at no cost where such services are without direct cost to the Navy.
+<b>1959</b>—Pub. L. 86–55 authorized supplies and services to be furnished by any United States naval vessel or activity, and the furnishing of supplies and services to aircraft, eliminated provisions which limited the furnishing of supplies on a reimbursable basis to ships of foreign countries that had entered into a prior reciprocal agreement, and which permitted services, including overhauling, repairs, alterations and installation of equipment, to be furnished only if funds to cover the estimated cost thereof were advanced, and permittedthe furnishing of routine port and airport services at no cost where such services are without direct cost to the Navy.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

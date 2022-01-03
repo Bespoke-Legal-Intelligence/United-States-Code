@@ -108,7 +108,7 @@ In the case of a participant or beneficiary in a group health plan who receives 
 
 #### (D) Effects of determination
 
-&emsp;&emsp;The provisions of section 9816(c)(5)(E)) <sup>1</sup> shall apply with respect to a determination of a certified IDR entity under subparagraph (A), the notification submitted with respect to such determination, the services with respect to such notification, and the parties to such notification in the same manner as such provisions apply with respect to a determination of a certified IDR entity under section 9816(c)(5)(E), the notification submitted with respect to such determination, the items and services with respect to such notification, and the parties to such notification.
+&emsp;&emsp;The provisions of section 9816(c)(5)(E)) <sup>1</sup> shall apply with respect to a determination of a certified IDR entity under subparagraph\(A), the notification submitted with respect to such determination, the services with respect to such notification, and the parties to such notification in the same manner as such provisions apply with respect to a determination of a certified IDR entity under section 9816(c)(5)(E), the notification submitted with respect to such determination, the items and services with respect to such notification, and the parties to such notification.
 
 #### (E) Costs of independent dispute resolution process
 
@@ -146,7 +146,7 @@ In the case of a participant or beneficiary in a group health plan who receives 
 
 &emsp;&emsp;&emsp;(ii) the geography in which the services included in such notification were provided;
 
-&emsp;&emsp;&emsp;(iii) the amount of the offer submitted under paragraph (2) by the group healthplan and by the nonparticipating provider expressed as a percentage of the qualifying payment amount;
+&emsp;&emsp;&emsp;(iii) the amount of the offer submitted under paragraph (2) by the group health plan and by the nonparticipating provider expressed as a percentage of the qualifying payment amount;
 
 &emsp;&emsp;&emsp;(iv) whether the offer selected by the certified IDR entity under paragraph (5) to be the payment applied was the offer submitted by such plan or issuer (as applicable) or by such provider and the amount of such offer so selected expressed as a percentage of the qualifying payment amount;
 
@@ -200,6 +200,8 @@ For purposes of this section:
 
 (Added Pub. L. 116–260, div. BB, title I, §105(a)(3)(A), Dec. 27, 2020, 134 Stat. 2844.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this subsection, referred to in subsec. (b)(2)(A), is the date of enactment of Pub. L. 116–260, which was approved Dec. 27, 2020.
@@ -209,6 +211,8 @@ Section 2799B–2 of the Public Health Service Act, referred to in subsec. (b)(2
 Section 2799B–5 of the Public Health Service Act, referred to in subsec. (b)(5)(C)(iii), is classified to section 300gg–135 of Title 42, The Public Health and Welfare.
 
 The Social Security Act, referred to in subsec. (b)(5)(C)(iii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

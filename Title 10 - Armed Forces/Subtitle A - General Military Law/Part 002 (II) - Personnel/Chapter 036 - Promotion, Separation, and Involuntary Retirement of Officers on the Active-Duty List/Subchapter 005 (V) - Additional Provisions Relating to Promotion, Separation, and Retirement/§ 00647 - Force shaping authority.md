@@ -28,6 +28,8 @@ Regulations.—The Secretary concerned shall prescribe regulations for the exerc
 
 (Added Pub. L. 108–375, div. A, title V, §501(c)(1)(A), Oct. 28, 2004, 118 Stat. 1873; amended Pub. L. 110–181, div. A, title V, §503(b), Jan. 28, 2008, 122 Stat. 95; Pub. L. 116–283, div. A, title IX, §924(b)(4)(H), (16), Jan. 1, 2021, 134 Stat. 3822, 3823.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Subsec. (a)(2). Pub. L. 116–283, §924(b)(16), struck out "of that armed force" before period at end.
@@ -35,6 +37,8 @@ Regulations.—The Secretary concerned shall prescribe regulations for the exerc
 Subsec. (c). Pub. L. 116–283, §924(b)(4)(H), substituted "Regular Marine Corps, or Regular Space Force" for "or Regular Marine Corps".
 
 <b>2008</b>—Subsec. (b)(1)(A), (B). Pub. L. 110–181 substituted "six years" for "5 years".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

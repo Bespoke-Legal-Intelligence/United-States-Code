@@ -42,13 +42,15 @@ The Secretary, acting through the Commissioner of Reclamation, is authorized to�
 
 &emsp;(iii) shall be developed with appropriate public participation.
 
-(C) Each plan described in subparagraph (A) shall provide for the development, use, conservation, protection, enhancement, and management of resources of Reclamation lands in a manner that is compatible with the authorized purposes of the Reclamation project associated with the Reclamation lands.
+(C) Each plan described in subparagraph (A) shall provide for the development, use, conservation, protection, enhancement, and management of resources of Reclamation lands in a mannerthat is compatible with the authorized purposes of the Reclamation project associated with the Reclamation lands.
 
 #### (d) Nonreimbursable funds
 
 Funds expended by the Secretary in carrying out the provisions of this part shall be nonreimbursable under the Federal reclamation laws (the Act of June 17, 1902 (32 Stat. 388, chapter 1093; 43 U.S.C. 371),<sup>2</sup> and Acts supplementary thereto and amendatory thereof).
 
 (Pub. L. 102–575, title XXVIII, §2805, Oct. 30, 1992, 106 Stat. 4692.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

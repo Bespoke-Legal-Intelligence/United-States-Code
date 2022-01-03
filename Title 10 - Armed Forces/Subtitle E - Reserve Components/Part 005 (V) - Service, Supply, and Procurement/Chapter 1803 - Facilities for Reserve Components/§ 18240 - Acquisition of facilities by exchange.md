@@ -2,7 +2,7 @@
 
 (a)
 
-Exchange Authority.—In addition to the acquisition authority provided by section 18233 of this title, the Secretary of Defense may authorize the Secretary of a military department to acquire a facility, or addition to an existing facility, needed to satisfy military requirementsfor a reserve component by carrying out an exchange of an existing facility under the control of that Secretary through an agreement with an Executive agency (as defined in section 105 of title 5), the United States Postal Service, or a State, local government, local authority, or private entity. The acquisition of a facility or an addition to an existing facility under this section may include the acquisition of utilities, equipment, and furnishings for the facility.
+Exchange Authority.—In addition to the acquisition authority provided by section 18233 of this title, the Secretary of Defense may authorize the Secretary of a military department to acquire a facility, or addition to an existing facility, needed to satisfy military requirements for a reserve component by carrying out an exchange of an existing facility under the control of that Secretary through an agreement with an Executive agency (as defined in section 105 of title 5), the United States Postal Service, or a State, local government, local authority, or private entity. The acquisition of a facility or an addition to an existing facility under this section may include the acquisition of utilities, equipment, and furnishings for the facility.
 
 (b)
 
@@ -54,6 +54,8 @@ Relation to Other Military Construction Requirements.—The acquisition of a fac
 
 (Added Pub. L. 108–375, div. B, title XXVIII, §2809(a)(1), Oct. 28, 2004, 118 Stat. 2125; amended Pub. L. 109–163, div. B, title XXVIII, §2808(a), Jan. 6, 2006, 119 Stat. 3508; Pub. L. 110–181, div. B, title XXVIII, §2807, Jan. 28, 2008, 122 Stat. 541; Pub. L. 115–91, div. B, title XXVIII, §2801(g), Dec. 12, 2017, 131 Stat. 1845.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Subsec. (f)(2). Pub. L. 115–91 substituted "21-day period" for "30-day period" and struck out "or, if earlier, the end of the 21-day period beginning on the date on which a copy of the report is provided" after "defense committees".
@@ -63,6 +65,8 @@ Relation to Other Military Construction Requirements.—The acquisition of a fac
 <b>2006</b>—Subsec. (a). Pub. L. 109–163, §2808(a)(1), inserted at end "The acquisition of a facility or an addition to an existing facility under this section may include the acquisition of utilities, equipment, and furnishings for the facility."
 
 Subsec. (c). Pub. L. 109–163, §2808(a)(2), inserted "including any utilities, equipment, and furnishings, to be" after "existing facility,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Temporary Authority To Include Cash Equalization Payments in Exchange
 
@@ -82,7 +86,7 @@ Pub. L. 108–375, div. B, title XXVIII, §2809(c), Oct. 28, 2004, 118 Stat. 212
 
 "(5) No cash equalization payment may be made or accepted under the authority of this subsection after September 30, 2010. Except as otherwise specifically authorized by law, the authority provided by this subsection to make or accept cash equalization payments in connection with the acquisition or disposal of facilities of the reserve components is the sole authority available in law to the Secretary of Defense or the Secretary of a military department for that purpose.
 
-"(6) Not later than March 1, 2008, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the exercise of the authority provided by this subsection. The report shall include the following:
+"(6) Not later than March 1, 2008, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the exercise of the authority providedby this subsection. The report shall include the following:
 
 &emsp;"(A) A description of the exchange agreements under section 18240 of title 10, United States Code, that included the authority to make or accept cash equalization payments.
 

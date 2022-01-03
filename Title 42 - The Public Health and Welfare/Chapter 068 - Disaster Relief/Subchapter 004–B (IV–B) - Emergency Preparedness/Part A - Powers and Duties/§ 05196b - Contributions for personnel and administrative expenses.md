@@ -12,7 +12,7 @@ A plan submitted under this section shall—
 
 &emsp;(2) provide that the State shall share the financial assistance with that provided by the Federal Government under this section from any source determined by it to be consistent with State law;
 
-&emsp;(3) provide for the development of State and local emergency preparedness operational plans, including a catastrophic incident annex, pursuant to standards approved by the Administrator;
+&emsp;(3) provide for the development of State and local emergency preparedness operational plans, including a catastrophic incident annex,pursuant to standards approved by the Administrator;
 
 &emsp;(4) provide for the employment of a full-time emergency preparedness director, or deputy director, by the State;
 
@@ -62,6 +62,8 @@ The Administrator shall report annually to the Congress all contributions made p
 
 (Pub. L. 93–288, title VI, §613, as added Pub. L. 103–337, div. C, title XXXIV, §3411(a)(3), Oct. 5, 1994, 108 Stat. 3106; amended Pub. L. 107–188, title I, §151, June 12, 2002, 116 Stat. 630; Pub. L. 109–295, title VI, §631, Oct. 4, 2006, 120 Stat. 1420; Pub. L. 109–308, §2, Oct. 6, 2006, 120 Stat. 1725; Pub. L. 111–351, §3(c)(2), Jan. 4, 2011, 124 Stat. 3864.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 631(2) of Pub. L. 109–295, which directed amendment of this section "by redesignating subsections (c) through (g) and subsections (d) through (h), respectively", was executed by redesignating subsecs. (c) to (g) as (d) to (h), respectively, to reflect the probable intent of Congress.
@@ -87,6 +89,8 @@ Subsec. (h). Pub. L. 109–308, §2(1), redesignated subsec. (g) relating to sub
 Pub. L. 109–295, §631(2), redesignated subsec. (g) relating to annual reports as (h). See Codification note above.
 
 <b>2002</b>—Subsec. (b)(7). Pub. L. 107–188 added par. (7).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

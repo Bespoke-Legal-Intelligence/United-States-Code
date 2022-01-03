@@ -16,6 +16,8 @@ Pre-Trial Agreements.—(1) A plea of guilty made by the accused that is accepte
 
 (Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2587; amended Pub. L. 112–81, div. A, title X, §1030(b), Dec. 31, 2011, 125 Stat. 1570; Pub. L. 113–291, div. A, title X, §1071(f)(9), Dec. 19, 2014, 128 Stat. 3510.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 949i, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2614, related to pleas of the accused, prior to the general amendment of this chapter by Pub. L. 111–84.

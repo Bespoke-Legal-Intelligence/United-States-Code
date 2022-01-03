@@ -2,7 +2,7 @@
 
 #### (a) Conservation, development, and enhancement; cooperative agreements; costs
 
-For the purpose of conserving, developing, and enhancing within the several States the anadromous fishery resources of the Nation that are subject to depletion from water resources developments and other causes, or with respect to which the United States has made conservation commitments by international agreements, and for the purpose of conserving, developing, and enhancing the fish in the Great Lakes and Lake Champlain that ascend streams to spawn, the Secretary of the Interior is authorized to enter into cooperative agreements with one or more States, acting jointly or severally, that are concerned with the development, conservation, and enhancement of such fish, and, whenever he deems it appropriate, with other non-Federal interests. Such agreements shall describe (1) the actions to be taken by the Secretary and the cooperating parties, (2) the benefits that are expected to be derived by the States and other non-Federal interests, (3) the estimated cost of these actions, (4) the share of such costs to be borne by the Federal Government and by the States and other non-Federal interests: <i>Provided</i>, That, except as provided in subsection (c) of this section, the Federal share, including the operation and maintenance costs of any facilities constructed by the Secretary pursuant to sections 757a to 757f of this title, which he annually determines to be a proper Federal cost, shall not exceed 50 per centum of such costs exclusive of the value of any Federal land involved: <i>Provided further</i>, That the non-Federal share may be in the form of real or personal property, the value of which will be determined by the Secretary, as well as money, (5) the term of the agreement, (6) the terms and conditions for disposing of any real or personal property acquired by the Secretary during or at the end of the term of the agreement, and (7) such other terms and conditions as he deems desirable.
+For the purpose of conserving, developing, and enhancing within the several States the anadromous fishery resources of the Nation that are subject to depletion from water resources developments and other causes, or with respect to which the United States has made conservation commitments by international agreements, and for the purpose of conserving, developing, and enhancing the fish in the Great Lakes and Lake Champlain that ascend streams to spawn, the Secretary of the Interior is authorized to enter into cooperative agreements with one or more States, acting jointly or severally, that are concerned with the development, conservation, and enhancement of such fish, and, whenever he deems it appropriate, with other non-Federal interests. Such agreements shall describe (1) the actions to be taken by the Secretary and the cooperating parties, (2) the benefits that are expected to be derived by the States and other non-Federal interests, (3) the estimated cost of these actions, (4) the share of such costs to be borne by the Federal Government and by theStates and other non-Federal interests: <i>Provided</i>, That, except as provided in subsection (c) of this section, the Federal share, including the operation and maintenance costs of any facilities constructed by the Secretary pursuant to sections 757a to 757f of this title, which he annually determines to be a proper Federal cost, shall not exceed 50 per centum of such costs exclusive of the value of any Federal land involved: <i>Provided further</i>, That the non-Federal share may be in the form of real or personal property, the value of which will be determined by the Secretary, as well as money, (5) the term of the agreement, (6) the terms and conditions for disposing of any real or personal property acquired by the Secretary during or at the end of the term of the agreement, and (7) such other terms and conditions as he deems desirable.
 
 #### (b) Operation, management, and administration of property; research
 
@@ -14,7 +14,7 @@ For the purpose of conserving, developing, and enhancing within the several Stat
 
 (1) Whenever two or more States having a common interest in any basin jointly enter into a cooperative agreement with the Secretary under subsection (a) of this section to carry out a research and development program to conserve, develop, and enhance anadromous fishery resources of the Nation, or fish in the Great Lakes and Lake Champlain that ascend streams to spawn, the Federal share of the program costs shall be increased to a maximum of 662/3 per centum. For the purpose of this subsection, the term "basin" includes rivers and their tributaries, lakes, and other bodies of water or portions thereof.
 
-(2) In the case of any State that has implemented an interstate fisheries management plan for anadromous fishery resources, prepared by an interstate commission, the Federal share ofany grant made under this section to carry out activities required by such plan shall be up to 90 percent. For purposes of this paragraph, the term "interstate commission" means—
+(2) In the case of any State that has implemented an interstate fisheries management plan for anadromous fishery resources, prepared by an interstate commission, the Federal share of any grant made under this section to carry out activities required by such plan shall be up to 90 percent. For purposes of this paragraph, the term "interstate commission" means—
 
 &emsp;(A) the commission established by the Atlantic States Marine Fisheries Compact (as consented to and approved by Public Law 80–77 <sup>1</sup>), approved May 4, 1942 (56 Stat. 267);
 
@@ -23,6 +23,8 @@ For the purpose of conserving, developing, and enhancing within the several Stat
 &emsp;(C) the commission established by the Gulf States Marine Fisheries Compact (as consented to and approved by Public Law 81–66), approved May 19, 1949 (63 Stat. 70).
 
 (Pub. L. 89–304, §1, Oct. 30, 1965, 79 Stat. 1125; Pub. L. 91–249, §1, May 14, 1970, 84 Stat. 214; Pub. L. 93–362, §3(a), July 30, 1974, 88 Stat. 398; Pub. L. 95–464, Oct. 17, 1978, 92 Stat. 1278; Pub. L. 96–118, §1, Nov. 16, 1979, 93 Stat. 859; Pub. L. 97–453, §14(b)(1), Jan. 12, 1983, 96 Stat. 2492; Pub. L. 98–44, title I, §104, July 12, 1983, 97 Stat. 216; Pub. L. 107–372, title III, §303(b), Dec. 19, 2002, 116 Stat. 3095.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -50,6 +52,8 @@ Subsec. (c). Pub. L. 97–453 designated existing provisions as par. (1) and add
 
 Subsec. (c). Pub. L. 91–249, §1(b), added subsec. (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title of 2002 Amendment
 
 Pub. L. 107–372, title III, §301, Dec. 19, 2002, 116 Stat. 3094, provided that: "This title \[amending this section, sections 757d, 971h, 4101, 4107, and 5610 of this title, and provisions set out as a note under section 857–19 of Title 33, Navigation and Navigable Waters\] may be cited as the 'Fisheries Conservation Act of 2002'."
@@ -61,6 +65,8 @@ Pub. L. 102–130, §1, Oct. 17, 1991, 105 Stat. 626, provided that: "This Act \
 #### Short Title
 
 Section 8, formerly section 7, of Pub. L. 89–304, as added by Pub. L. 91–249, §3, May 14, 1970, 84 Stat. 214, and renumbered by Pub. L. 96–118, §4, Nov. 16, 1979, 93 Stat. 859, provided that: "This Act \[enacting this section and sections 757b to 757g of this title\] may be cited as the 'Anadromous Fish Conservation Act'."
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

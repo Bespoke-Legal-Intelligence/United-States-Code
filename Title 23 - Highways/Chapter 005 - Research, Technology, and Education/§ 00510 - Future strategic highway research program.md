@@ -92,7 +92,7 @@ Limitation of Remedies.—
 
 &emsp;(1)
 
-Same remedy as if united states.—The remedy against the United States provided by sections 1346(b) and 2672 of title 28 for injury, loss of property, personal injury, or death shall apply to any claim against the National Academy of Sciences for money damages for injury, loss of property, personal injury, or death caused by any negligent or wrongful act or omission by employees and individuals described in paragraph (3) arising from activities conducted under or in connection with thissection. Any such claim shall be subject to the limitations and exceptions which would be applicable to such claim if such claim were against the United States. With respect to any such claim, the Secretary shall be treated as the head of the appropriate Federal agency for purposes of sections 2672 and 2675 of title 28.
+Same remedy as if united states.—The remedy against the United States provided by sections 1346(b) and 2672 of title 28 for injury, loss of property, personal injury, or death shall apply to any claim against the National Academy of Sciences for money damages for injury, loss of property, personal injury, or death caused by any negligent or wrongful act or omission by employees and individuals described in paragraph (3) arising from activities conducted under or in connection with this section. Any such claim shall be subject to the limitations and exceptions which would be applicable to such claim if such claim were against the United States. With respect to any such claim, the Secretary shall be treated as the head of the appropriate Federal agency for purposes of sections 2672 and 2675 of title 28.
 
 &emsp;(2)
 

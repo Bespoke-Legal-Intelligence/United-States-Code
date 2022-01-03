@@ -6,7 +6,7 @@
 
 &emsp;(2) intentionally accesses a computer without authorization or exceeds authorized access, and thereby obtains—
 
-&emsp;&emsp;(A) information contained in a financial record of a financial institution, or of a cardissuer as defined in section 1602(n) <sup>1</sup> of title 15, or contained in a file of a consumer reporting agency on a consumer, as such terms are defined in the Fair Credit Reporting Act (15 U.S.C. 1681 et seq.);
+&emsp;&emsp;(A) information contained in a financial record of a financial institution, or of a card issuer as defined in section 1602(n) <sup>1</sup> of title 15, or contained in a file of a consumer reporting agency on a consumer, as such terms are defined in the Fair Credit Reporting Act (15 U.S.C. 1681 et seq.);
 
 &emsp;&emsp;(B) information from any department or agency of the United States; or
 
@@ -44,7 +44,7 @@
 
 &emsp;(1)(A) a fine under this title or imprisonment for not more than ten years, or both, in the case of an offense under subsection (a)(1) of this section which does not occur after a conviction for another offense under this section, or an attempt to commit an offense punishable under this subparagraph; and
 
-&emsp;(B) a fine under this title or imprisonment for not more than twenty years, or both, in the case of an offense under subsection (a)(1) of this section which occurs after a conviction for another offense under this section, or an attempt to commit an offense punishable under this subparagraph;
+&emsp;(B) a fine under this title or imprisonment for not more than twenty years, or both, inthe case of an offense under subsection (a)(1) of this section which occurs after a conviction for another offense under this section, or an attempt to commit an offense punishable under this subparagraph;
 
 &emsp;(2)(A) except as provided in subparagraph (B), a fine under this title or imprisonment for not more than one year, or both, in the case of an offense under subsection (a)(2), (a)(3), or (a)(6) of this section which does not occur after a conviction for another offense under this section, or an attempt to commit an offense punishable under this subparagraph;
 
@@ -64,7 +64,7 @@
 
 &emsp;(4)(A) except as provided in subparagraphs (E) and (F), a fine under this title, imprisonment for not more than 5 years, or both, in the case of—
 
-&emsp;&emsp;(i) an offense under subsection (a)(5)(B), which does not occur after a conviction foranother offense under this section, if the offense caused (or, in the case of an attempted offense, would, if completed, have caused)—
+&emsp;&emsp;(i) an offense under subsection (a)(5)(B), which does not occur after a conviction for another offense under this section, if the offense caused (or, in the case of an attempted offense, would, if completed, have caused)—
 
 &emsp;&emsp;&emsp;(I) loss to 1 or more persons during any 1-year period (and, for purposes of an investigation, prosecution, or other proceeding brought by the United States only, loss resulting from a related course of conduct affecting 1 or more other protected computers) aggregating at least $5,000 in value;
 
@@ -110,7 +110,7 @@
 
 (d)(1) The United States Secret Service shall, in addition to any other agency having such authority, have the authority to investigate offenses under this section.
 
-(2) The Federal Bureau of Investigation shall have primary authority to investigate offenses under subsection (a)(1) for any cases involving espionage, foreign counterintelligence, information protected against unauthorized disclosure for reasons of national defense or foreign relations, or Restricted Data (as that term is defined in section 11y of the Atomic Energy Act of 1954 (42 U.S.C. 2014(y)), except for offenses affecting the duties of the United States Secret Service pursuant to section 3056(a) of this title.
+(2) The Federal Bureau of Investigation shall have primary authority to investigate offenses under subsection (a)(1) for any cases involvingespionage, foreign counterintelligence, information protected against unauthorized disclosure for reasons of national defense or foreign relations, or Restricted Data (as that term is defined in section 11y of the Atomic Energy Act of 1954 (42 U.S.C. 2014(y)), except for offenses affecting the duties of the United States Secret Service pursuant to section 3056(a) of this title.
 
 (3) Such authority shall be exercised in accordance with an agreement which shall be entered into by the Secretary of the Treasury and the Attorney General.
 
@@ -194,7 +194,7 @@
 
 &emsp;(2) Any property, real or personal, which constitutes or is derived from proceeds traceable to any violation of this section, or a conspiracy to violate this section <sup>6</sup>
 
-(Added Pub. L. 98–473, title II, §2102(a), Oct. 12, 1984, 98 Stat. 2190; amended Pub. L. 99–474, §2, Oct. 16, 1986, 100 Stat. 1213; Pub. L. 100–690, title VII, §7065, Nov. 18, 1988, 102 Stat. 4404; Pub. L. 101–73, title IX, §962(a)(5), Aug. 9, 1989, 103 Stat. 502; Pub. L. 101–647, title XII, §1205(e), title XXV,§2597(j), title XXXV, §3533, Nov. 29, 1990, 104 Stat. 4831, 4910, 4925; Pub. L. 103–322, title XXIX, §290001(b)–(f), Sept. 13, 1994, 108 Stat. 2097–2099; Pub. L. 104–294, title II, §201, title VI, §604(b)(36), Oct. 11, 1996, 110 Stat. 3491, 3508; Pub. L. 107–56, title V, §506(a), title VIII, §814(a)–(e), Oct. 26, 2001, 115 Stat. 366, 382–384; Pub. L. 107–273, div. B, title IV, §§4002(b)(1), (12), 4005(a)(3), (d)(3), Nov. 2, 2002, 116 Stat. 1807, 1808, 1812, 1813; Pub. L. 107–296, title XXII, §2207(g), formerly title II, §225(g), Nov. 25, 2002, 116 Stat. 2158, renumbered §2207(g), Pub. L. 115–278, §2(g)(2)(I), Nov. 16, 2018, 132 Stat. 4178; Pub. L. 110–326, title II, §§203, 204(a), 205–208, Sept. 26, 2008, 122 Stat. 3561, 3563; Pub. L. 116–179, §2, Oct. 20, 2020, 134 Stat. 855.)
+(Added Pub. L. 98–473, title II, §2102(a), Oct. 12, 1984, 98 Stat. 2190; amended Pub. L. 99–474, §2, Oct. 16, 1986, 100 Stat. 1213; Pub. L. 100–690, title VII, §7065, Nov. 18, 1988, 102 Stat. 4404; Pub. L. 101–73, title IX, §962(a)(5), Aug. 9, 1989, 103 Stat. 502; Pub. L. 101–647, title XII, §1205(e), title XXV, §2597(j), title XXXV, §3533, Nov. 29, 1990, 104 Stat. 4831, 4910, 4925; Pub. L. 103–322, title XXIX, §290001(b)–(f), Sept. 13, 1994, 108 Stat. 2097–2099; Pub. L. 104–294, title II, §201, title VI, §604(b)(36), Oct. 11, 1996, 110 Stat. 3491, 3508; Pub. L. 107–56, title V, §506(a), title VIII, §814(a)–(e), Oct. 26, 2001, 115 Stat. 366, 382–384; Pub. L. 107–273, div. B, title IV, §§4002(b)(1), (12), 4005(a)(3), (d)(3), Nov. 2, 2002, 116 Stat. 1807, 1808, 1812, 1813; Pub. L. 107–296, title XXII, §2207(g), formerly title II, §225(g), Nov. 25, 2002, 116 Stat. 2158, renumbered §2207(g), Pub. L. 115–278, §2(g)(2)(I), Nov. 16, 2018, 132 Stat. 4178; Pub. L. 110–326, title II, §§203, 204(a), 205–208, Sept. 26, 2008, 122 Stat. 3561, 3563; Pub. L. 116–179, §2, Oct. 20, 2020, 134 Stat. 855.)
 
 #### <b>Editorial Notes</b>
 
@@ -238,7 +238,7 @@ Subsec. (a)(5). Pub. L. 110–326, §204(a)(1), redesignated cls. (i) to (iii) o
 
 &emsp;"(v) damage affecting a computer system used by or for a government entity in furtherance of the administration of justice, national defense, or national security;".
 
-Subsec. (a)(7). Pub. L. 110–326, §205, amended par. (7) generally. Prior to amendment, par. (7) read as follows: "with intent to extort from any person any money or other thing of value, transmits in interstate or foreign commerce any communication containing any threat to cause damage to a protected computer;".
+Subsec. (a)(7). Pub. L. 110–326, §205, amended par. (7) generally. Prior to amendment, par. (7) read as follows:"with intent to extort from any person any money or other thing of value, transmits in interstate or foreign commerce any communication containing any threat to cause damage to a protected computer;".
 
 Subsec. (b). Pub. L. 110–326, §206, inserted "conspires to commit or" after "Whoever".
 
@@ -280,7 +280,7 @@ Subsec. (a)(5)(C). Pub. L. 107–56, §814(a)(2), redesignated subpar. (C) as cl
 
 Subsec. (a)(7). Pub. L. 107–56, §814(b), struck out ", firm, association, educational institution, financial institution, government entity, or other legal entity," before "any money or other thing of value".
 
-Subsec. (c)(2)(A). Pub. L. 107–56, §814(c)(1)(A), inserted "except as provided in subparagraph (B)," before "afine", substituted "(a)(5)(A)(iii)" for "(a)(5)(C)", and struck out "and" at end.
+Subsec. (c)(2)(A). Pub. L. 107–56, §814(c)(1)(A), inserted "except as provided in subparagraph (B)," before "a fine", substituted "(a)(5)(A)(iii)" for "(a)(5)(C)", and struck out "and" at end.
 
 Subsec. (c)(2)(B). Pub. L. 107–56, §814(c)(1)(B), inserted "or an attempt to commit an offense punishable under this subparagraph," after "subsection (a)(2)," in introductory provisions.
 
@@ -318,7 +318,7 @@ Subsec. (a)(3). Pub. L. 104–294, §201(1)(C), inserted "nonpublic" before "com
 
 Subsec. (a)(4). Pub. L. 104–294, §201(1)(D), substituted "protected computer" for "Federal interest computer" and inserted "and the value of such use is not more than $5,000 in any 1-year period" before semicolon at end.
 
-Subsec. (a)(5). Pub. L. 104–294, §201(1)(E), inserted par. (5) and struck out former par. (5) which related to fraud in connection with computers in causing transmission of program, information, code, or command to a computer or computer system in interstate or foreign commerce which damages such system, program, information, or code, or causes a withholding or denial of use of hardware or software, or transmits viruses which causes damage in excess of $1,000 or more during any one-year period, or modifies or impairs medical examination, diagnosis, treatment or care of individuals.
+Subsec. (a)(5). Pub. L. 104–294, §201(1)(E), inserted par. (5) and struck out former par. (5) which related to fraud in connection with computers in causing transmission of program, information, code, or command to a computer or computer system in interstate or foreign commerce which damages such system, program, information, or code, or causes a withholding or denial of use of hardware or software, or transmits viruses which causes damage in excess of $1,000 or more during anyone-year period, or modifies or impairs medical examination, diagnosis, treatment or care of individuals.
 
 Subsec. (a)(5)(B)(ii)(II)(bb). Pub. L. 104–294, §604(b)(36)(A), which directed insertion of "or" at end of subsec., could not be executed because no subsec. (a)(5)(B)(ii)(II)(bb) existed subsequent to amendment by Pub. L. 104–294, §201(1)(E). See above.
 

@@ -22,7 +22,7 @@ To be eligible to receive a grant under subsection (a), an entity shall—
 
 &emsp;(2) submit to the Director an application at such time, in such a manner, and containing such information as the Director may require, including a description of the program to be carried out under the grant; and
 
-&emsp;(3) demonstrate a history or capacity, if funded, to develop relationships necessary to engage key stakeholders from multiple sectorswithin and beyond health care and across a community, such as healthy futures corps and health care providers.
+&emsp;(3) demonstrate a history or capacity, if funded, to develop relationships necessary to engage key stakeholders from multiple sectors within and beyond health care and across a community, such as healthy futures corps and health care providers.
 
 #### (c) Use of funds
 
@@ -108,7 +108,7 @@ To be eligible to receive a grant under subsection (a), an entity shall—
 
 #### (1) In general
 
-&emsp;The Director shall develop a program to provide training for eligible entities on effective strategies for the prevention and control of chronic disease and the link between physical, emotional, and social well-being.
+&emsp;The Director shall develop a program to provide training for eligible entities on effectivestrategies for the prevention and control of chronic disease and the link between physical, emotional, and social well-being.
 
 #### (2) Community transformation plan
 
@@ -127,6 +127,8 @@ A grantee shall not use funds provided under a grant under this section to creat
 There are authorized to be appropriated to carry out this section, such sums as may be necessary for each of fiscal year <sup>3</sup> 2010 through 2014.
 
 (Pub. L. 111–148, title IV, §4201, title X, §10403, Mar. 23, 2010, 124 Stat. 564, 975.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

@@ -38,13 +38,15 @@ Rules of Construction.—
 
 &emsp;(1)
 
-Space support vehicles.—Section 44711(a)(1) shall not apply to a person conducting a space support vehicle flight under this section only to the extent that a term of the experimental certificate under which the person is operating the space support vehicle prohibits the carriage of persons or property for compensation or hire.
+Space support vehicles.—Section 44711(a)(1) shall not apply to a person conducting a space support vehicle flight under this section only to the extent that a term of the experimental certificate under which theperson is operating the space support vehicle prohibits the carriage of persons or property for compensation or hire.
 
 &emsp;(2)
 
 Authority of administrator.—Nothing in this section shall be construed to limit the authority of the Administrator of the Federal Aviation Administration to exempt a person from a regulatory prohibition on the carriage of persons or property for compensation or hire subject to terms and conditions other than those described in this section.
 
 (Added Pub. L. 115–254, div. B, title V, §581(b)(1), Oct. 5, 2018, 132 Stat. 3398, §44737; renumbered §44740 and amended Pub. L. 116–260, div. V, title I, §107(d)(1), (3), Dec. 27, 2020, 134 Stat. 2326.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -57,6 +59,8 @@ Subsec. (a)(1). Pub. L. 116–260, §107(d)(3)(B), substituted "section" for "ch
 Subsec. (b)(1). Pub. L. 116–260, §107(d)(3)(C), struck out "(1)" the second time appearing before "The" in introductory provisions.
 
 Subsec. (c)(2). Pub. L. 116–260, §107(d)(3)(D), inserted period at end.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Rule of Construction Relating to Role of NASA
 

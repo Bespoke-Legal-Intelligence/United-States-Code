@@ -54,6 +54,8 @@ In General.—Beginning not later than December 31, 2009, the Secretary of Trans
 
 (Added Pub. L. 110–432, div. A, title III, §303(a), Oct. 16, 2008, 122 Stat. 4878; amended Pub. L. 114–94, div. A, title XI, §11316(d), Dec. 4, 2015, 129 Stat. 1676.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (a). Pub. L. 114–94, §11316(d)(1), substituted "Web site" for "website" in introductory provisions.
@@ -63,6 +65,8 @@ Subsec. (a)(1). Pub. L. 114–94, §11316(d)(2), substituted "accident and incid
 Subsec. (a)(2)(G). Pub. L. 114–94, §11316(d)(3), inserted "and" at end.
 
 Subsec. (a)(5)(B). Pub. L. 114–94, §11316(d)(4), substituted "administrative hearing officer or administrative law judge" for "Administrative Hearing Officer or Administrative Law Judge".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

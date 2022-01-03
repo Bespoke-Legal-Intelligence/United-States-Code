@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(iii) the actual cost of the program for each fiscal year during which the program has been conducted before the fiscal year during which that budget is submitted; and
 
-&emsp;&emsp;(iv) the estimated total cost of the program and the estimated cost of the program for (I) the current fiscal year, (II) the fiscal year for which the budget is submitted, and (III) each of the four succeeding fiscal years during which the program is expected to be conducted.
+&emsp;&emsp;(iv) the estimated total cost of the program and the estimated cost of the programfor (I) the current fiscal year, (II) the fiscal year for which the budget is submitted, and (III) each of the four succeeding fiscal years during which the program is expected to be conducted.
 
 #### (b) Newly designated programs
 
@@ -92,6 +92,8 @@ For purposes of this section:
 
 (Pub. L. 103–160, div. A, title XI, §1152, Nov. 30, 1993, 107 Stat. 1758; Pub. L. 106–65, div. C, title XXXII, §3294(e)(2), Oct. 5, 1999, 113 Stat. 970; Pub. L. 115–390, title I, §103, Dec. 21, 2018, 132 Stat. 5177.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Executive Order 12356, referred to in subsec. (g)(3), is Ex. Ord. No. 12356, Apr. 2, 1982, 47 F.R. 14874, 15557, which prescribed a uniform system for classifying, declassifying, and safeguarding national security information, and which was formerly set out as a note under section 435 (now section 3161) of this title, was revoked by Ex. Ord. No. 12958, §6.1(d), Apr. 17, 1995, 60 F.R. 19843.
@@ -111,6 +113,8 @@ Subsec. (f)(1). Pub. L. 115–390, §103(2), substituted "congressional oversigh
 Subsec. (g). Pub. L. 115–390, §103(3), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively. See Codification note above.
 
 <b>1999</b>—Subsec. (g)(1)(B)(ii). Pub. L. 106–65 amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "the Department of Energy, with respect to special access programs carried out under the atomic energy defense activities of that department (for which the Secretary of Energy is required to submit reports under section 2122a of title 42); or".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

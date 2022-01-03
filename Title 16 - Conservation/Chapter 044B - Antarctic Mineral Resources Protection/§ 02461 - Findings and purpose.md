@@ -8,7 +8,7 @@ Congress finds that—
 
 &emsp;(2) Antarctica is protected by a series of international agreements, including the Antarctic Treaty and associated recommendations, the Convention on the Conservation of Antarctic Seals, and the Convention on the Conservation of Antarctic Marine Living Resources, which are intended to conserve the renewable natural resources of Antarctica and to recognize the importance of Antarctica for the conduct of scientific research;
 
-&emsp;(3) recurring and recent developments in Antarctica, including increased siting of scientific stations, poor waste disposal practices, oil spills, increased tourism, and the over-exploitation of marine living resources, have raised serious questions about the adequacy and implementation of existing agreements and domestic law to protect the Antarctic environment and its living marine resources;
+&emsp;(3) recurring and recent developments in Antarctica, including increased siting of scientific stations, poor waste disposal practices, oil spills, increased tourism, and the over-exploitation of marine living resources, haveraised serious questions about the adequacy and implementation of existing agreements and domestic law to protect the Antarctic environment and its living marine resources;
 
 &emsp;(4) the parties to the Antarctic Treaty have negotiated a Convention on the Regulation of Antarctic Mineral Resources Activities which the United States has signed but not yet ratified;
 
@@ -35,6 +35,8 @@ The purpose of this chapter is to—
 &emsp;(4) urge all nations to consider a permanent ban on Antarctic mineral resource activities.
 
 (Pub. L. 101–594, §2, Nov. 16, 1990, 104 Stat. 2975.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

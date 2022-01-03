@@ -46,6 +46,8 @@ In subsection (b), the words "is qualified in" are substituted for the words "to
 
 In subsection (c), the word "shall" is substituted for the word "may", since the nominee is required to appear for the examination. The word "appear" is substituted for the words "present himself". The words "at a place" are substituted for the words "at West Point, New York, or other prescribed places".
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 9446 was renumbered section 9496 of this title.
@@ -57,6 +59,8 @@ A prior section 9446 was renumbered section 9496 of this title.
 <b>1996</b>—Subsec. (a). Pub. L. 104–201 substituted "twenty-third birthday" for "twenty-second birthday".
 
 <b>1966</b>—Subsec. (d). Pub. L. 89–718 added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

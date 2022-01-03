@@ -86,6 +86,8 @@ In the case of an individual described in section 1395o(b)(1) of this title, the
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1838, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 305; amended Pub. L. 90–248, title I, §145(c), Jan. 2, 1968, 81 Stat. 859; Pub. L. 92–603, title II, §§201(c)(3), 206(b), (c), 257(a), Oct. 30, 1972, 86 Stat. 1373, 1378, 1447; Pub. L. 96–499, title IX, §§945(c)(1), 947(b), Dec. 5, 1980, 94 Stat. 2642, 2643; Pub. L. 97–35, title XXI, §§2106(b)(2), 2151(a)(3), Aug. 13, 1981, 95 Stat. 792, 802; Pub. L. 98–369, div. B, title III, §2338(c), July 18, 1984, 98 Stat. 1092; Pub. L. 99–272, title IX, §9201(c)(2), Apr. 7, 1986, 100 Stat. 171; Pub. L. 99–509, title IX, §9344(b)(1), Oct. 21, 1986, 100 Stat. 2042; Pub. L. 103–432, title I, §147(f)(1)(B), Oct. 31, 1994, 108 Stat. 4430; Pub. L. 105–33, title IV, §4581(b)(2), Aug. 5, 1997, 111 Stat. 465; Pub. L. 108–173, title VII, §736(b)(6), Dec. 8, 2003, 117 Stat. 2356; Pub. L. 109–171, title V, §5115(a)(2)(B), Feb. 8, 2006, 120 Stat. 46; Pub. L. 116–260, div. CC, title I, §120(a)(1), (2)(B), title IV, §402(a)(2)(B)(i), (c), Dec. 27, 2020, 134 Stat. 2953, 2954, 2999, 3000.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2020</b>—Subsec. (a)(2). Pub. L. 116–260, §120(a)(1)(A), amended par. (2) generally. Prior to amendment, par. (2) related to coverage period for individuals enrolling pursuant to section 1395p(d) of this title.
@@ -114,7 +116,7 @@ Subsec. (h). Pub. L. 116–260, §402(c)(1), added subsec. (h).
 
 "(1) in the first month of the special enrollment period, the coverage period shall begin on the first day of that month, or
 
-"(2) in a month after the first month of the special enrollment period, the coverage period shall begin onthe first day of the month following the month in which the individual so enrolls."
+"(2) in a month after the first month of the special enrollment period, the coverage period shall begin on the first day of the month following the month in which the individual so enrolls."
 
 <b>1986</b>—Subsec. (b). Pub. L. 99–509 substituted "month following the month" for "calendar quarter following the calendar quarter" in second and sixth sentences.
 
@@ -153,6 +155,8 @@ Subsec. (b). Pub. L. 92–603, §§206(c), 257(a), inserted provisions relating 
 Subsecs. (c), (d). Pub. L. 92–603, §202(c)(3)(C), added subsec. (c) and redesignated former subsec. (c) as (d).
 
 <b>1968</b>—Subsec. (b). Pub. L. 90–248 struck out ", during a general enrollment period described in section 1395p(e) of this title," after "notice" in par. (1), and substituted in first sentence following par. (2) "the calendar quarter following the calendar quarter" for "December 31 of the year".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 
@@ -204,7 +208,7 @@ Pub. L. 90–97, §3(a), Sept. 30, 1967, 81 Stat. 249, provided that: "In the ca
 
 &emsp;"(2) shall terminate at the close of March 31, 1968, if he filed his notice of termination after December 31, 1967, and before April 1, 1968.
 
-> An individual whose coverage period terminated pursuant to paragraph (1) at the close of December 31, 1967,may, notwithstanding section 1837(b)(2) of such Act \[42 U.S.C. 1395p(b)(2)\], enroll in such program before April 1, 1968, and for purposes of sections 1838(a)(2)(E) \[42 U.S.C. 1395q(a)(2)(E)\] and 1837(b)(2) of such Act \[42 U.S.C. 1395p(b)(2)\] such enrollment shall be deemed an enrollment under section 1837(e) of such Act \[42 U.S.C. 1395p(e)\] and a second enrollment under such part."
+> An individual whose coverage period terminated pursuant to paragraph (1) at the close of December 31, 1967, may, notwithstanding section 1837(b)(2) of such Act \[42 U.S.C. 1395p(b)(2)\], enroll in such program before April 1, 1968, and for purposes of sections 1838(a)(2)(E) \[42 U.S.C. 1395q(a)(2)(E)\] and 1837(b)(2) of such Act \[42 U.S.C. 1395p(b)(2)\] such enrollment shall be deemed an enrollment under section 1837(e) of such Act \[42 U.S.C. 1395p(e)\] and a second enrollment under such part."
 
 #### Extension of 1967 General Enrollment Period Through March 31, 1968
 

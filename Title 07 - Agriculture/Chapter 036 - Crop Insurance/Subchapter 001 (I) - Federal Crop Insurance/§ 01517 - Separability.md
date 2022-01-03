@@ -4,6 +4,8 @@ The sections of this subchapter and subdivisions of sections are declared to be 
 
 (Feb. 16, 1938, ch. 30, title V, §517, 52 Stat. 77; Pub. L. 110–234, title XII, §12033(c)(2)(B), May 22, 2008, 122 Stat. 1405; Pub. L. 110–246, §4(a), title XII, §12033(c)(2)(B), June 18, 2008, 122 Stat. 1664, 2167.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -11,6 +13,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 #### Amendments
 
 <b>2008</b>—Pub. L. 110–246, §12033(c)(2)(B), substituted "this subchapter" for "this chapter" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

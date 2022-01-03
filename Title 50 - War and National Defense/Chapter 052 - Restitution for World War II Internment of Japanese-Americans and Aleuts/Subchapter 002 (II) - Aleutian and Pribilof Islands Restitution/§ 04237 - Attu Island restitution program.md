@@ -2,7 +2,7 @@
 
 #### (a) Purpose of section
 
-In accordance with section 1132(c) of title 16, the public lands on Attu Island, Alaska, within the National Wildlife Refuge System have been designated as wilderness by section 702(1) of the Alaska National Interest Lands Conservation Act (94 Stat. 2417; 16 U.S.C. 1132 note). In order to make restitution for the loss of traditional Aleut lands and village properties on Attu Island, while preserving the present designation of Attu Island lands as part of the National Wilderness Preservation System, compensation to the Aleut people, in lieu of the conveyance of Attu Island, shall be provided in accordance with this section.
+In accordance with section 1132(c) of title 16, the public lands on Attu Island, Alaska, within the National Wildlife Refuge System have been designated as wilderness by section 702(1) of the Alaska National Interest Lands Conservation Act (94 Stat. 2417; 16 U.S.C. 1132 note). In order to make restitution for the loss of traditional Aleut lands and village properties on Attu Island, while preserving the present designation ofAttu Island lands as part of the National Wilderness Preservation System, compensation to the Aleut people, in lieu of the conveyance of Attu Island, shall be provided in accordance with this section.
 
 #### (b) Acreage determination
 
@@ -51,6 +51,8 @@ The Secretary may convey to the Corporation all right, title, and interest of th
 There are authorized to be appropriated $15,000,000 to the Secretary to carry out this section.
 
 (Pub. L. 100–383, title II, §207, Aug. 10, 1988, 102 Stat. 914.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

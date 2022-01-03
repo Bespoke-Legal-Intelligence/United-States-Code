@@ -28,17 +28,23 @@ Each member of the Committee who is not an officer of the Federal Government sha
 
 (Pub. L. 94–282, title III, §302, May 11, 1976, 90 Stat. 468.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 5703 of title 5, referred to in subsec. (d), was amended generally by Pub. L. 94–22, §4, May 19, 1975, 89 Stat. 95, and, as so amended, does not contain a subsec. (b).
 
-#### Abolition of President's Committee on Science and Technology; Transfer of Functions
-
-See note set out under section 6631 of this title.
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+
+#### <b>Executive Documents</b>
+
+#### Abolition of President's Committee on Science and Technology; Transfer of Functions
+
+See note set out under section 6631 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

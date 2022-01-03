@@ -50,7 +50,7 @@ With respect to the trauma care component of a State plan for the provision of e
 
 #### (1) In general
 
-&emsp;The Secretary may not make payments under section 300d–11(a) of this title for a fiscal year unless the State involved agrees that, in carrying out paragraphs (3) through (5) of subsection (a), the State will adopt standards for the designation of trauma centers, and for triage, transfer, and transportation policies, and that the State will, in adopting such standards—
+&emsp;The Secretary may not make payments under section 300d–11(a) of this title for a fiscal year unless the State involved agrees that, in carrying out paragraphs (3) through (5) of subsection (a), the State will adopt standards for the designation of trauma centers, and for triage, transfer, and transportation policies,and that the State will, in adopting such standards—
 
 &emsp;&emsp;(A) take into account national standards that outline resources for optimal care of injured patients;
 
@@ -96,6 +96,8 @@ With respect to compliance with subsection (a) as a condition of the receipt of 
 
 (July 1, 1944, ch. 373, title XII, §1213, as added Pub. L. 101–590, §3, Nov. 16, 1990, 104 Stat. 2920; amended Pub. L. 103–183, title VI, §601(f)(3), Dec. 14, 1993, 107 Stat. 2239; Pub. L. 105–392, title IV, §401(b)(4), Nov. 13, 1998, 112 Stat. 3587; Pub. L. 110–23, §7, May 3, 2007, 121 Stat. 93.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2007</b>—Pub. L. 110–23 amended section generally. Prior to amendment, section related to requirements with respect to carrying out purpose of allotments.
@@ -107,6 +109,8 @@ With respect to compliance with subsection (a) as a condition of the receipt of 
 Subsec. (a)(8), (9). Pub. L. 103–183, §601(f)(3)(B), substituted "provides for" for "to provide" wherever appearing.
 
 Subsec. (a)(10). Pub. L. 103–183, §601(f)(3)(C), substituted "conducts" for "to conduct".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

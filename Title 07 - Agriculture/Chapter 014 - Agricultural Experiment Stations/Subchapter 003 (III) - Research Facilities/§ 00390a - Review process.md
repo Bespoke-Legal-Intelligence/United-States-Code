@@ -56,6 +56,8 @@ The Secretary shall ensure that each research activity conducted by a facility o
 
 (Pub. L. 88–74, §3, as added Pub. L. 104–127, title VIII, §884(a), Apr. 4, 1996, 110 Stat. 1177; amended Pub. L. 105–185, title I, §106(a), (b), June 23, 1998, 112 Stat. 530; Pub. L. 115–334, title VII, §7503(a)(2), (b), Dec. 20, 2018, 132 Stat. 4821.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 390a, Pub. L. 88–74, §2, July 22, 1963, 77 Stat. 90; Pub. L. 95–113, title XIV, §1416(3), Sept. 29, 1977, 91 Stat. 996; Pub. L. 99–198, title XIV, §1411(b), Dec. 23, 1985, 99 Stat. 1547, related to congressional declaration of purpose, prior to the general amendment of this subchapter by Pub. L. 104–127.
@@ -64,7 +66,7 @@ A prior section 3 of Pub. L. 88–74 was classified to section 390b of this titl
 
 #### Amendments
 
-<b>2018</b>—Subsec. (c)(2)(D). Pub. L. 115–334, in introductory provisions, substituted "recipient entity" for "recipient college, university, or nonprofit institution"and "operating and maintenance costs" for "operating costs".
+<b>2018</b>—Subsec. (c)(2)(D). Pub. L. 115–334, in introductory provisions, substituted "recipient entity" for "recipient college, university, or nonprofit institution" and "operating and maintenance costs" for "operating costs".
 
 <b>1998</b>—Subsec. (c)(2)(C)(ii). Pub. L. 105–185, §106(a), substituted "national or multistate needs" for "regional needs".
 

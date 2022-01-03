@@ -38,6 +38,7 @@
 | [1135\.](Subchapter%20003%20%28III%29%20-%20Public%20Transportation%20Security/%C2%A7%2001135%20-%20Public%20transportation%20security%20assistance.md) | Public transportation security assistance. |
 | [1136\.](Subchapter%20003%20%28III%29%20-%20Public%20Transportation%20Security/%C2%A7%2001136%20-%20Security%20exercises.md) | Security exercises. |
 | [1137\.](Subchapter%20003%20%28III%29%20-%20Public%20Transportation%20Security/%C2%A7%2001137%20-%20Public%20transportation%20security%20training%20program.md) | Public transportation security training program. |
+| [1137a.](Subchapter%20003%20%28III%29%20-%20Public%20Transportation%20Security/%C2%A7%2001137a%20-%20Local%20law%20enforcement%20security%20training.md) | Local law enforcement security training. |
 | [1138\.](Subchapter%20003%20%28III%29%20-%20Public%20Transportation%20Security/%C2%A7%2001138%20-%20Public%20transportation%20research%20and%20development.md) | Public transportation research and development. |
 | [1139\.](Subchapter%20003%20%28III%29%20-%20Public%20Transportation%20Security/%C2%A7%2001139%20-%20Information%20sharing.md) | Information sharing. |
 | [1140\.](Subchapter%20003%20%28III%29%20-%20Public%20Transportation%20Security/%C2%A7%2001140%20-%20Threat%20assessments.md) | Threat assessments. |

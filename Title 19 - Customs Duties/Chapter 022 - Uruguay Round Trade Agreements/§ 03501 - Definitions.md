@@ -50,15 +50,21 @@ For purposes of this Act:
 
 (Pub. L. 103–465, §2, Dec. 8, 1994, 108 Stat. 4813.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in text, is Pub. L. 103–465, Dec. 8, 1994, 108 Stat. 4809, known as the Uruguay Round Agreements Act. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 The Harmonized Tariff Schedule of the United States, referred to in par. (2), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title
 
 Pub. L. 103–465, §1(a), Dec. 8, 1994, 108 Stat. 4809, provided that: "This Act \[see Tables for classification\] may be cited as the 'Uruguay Round Agreements Act'."
+
+#### <b>Executive Documents</b>
 
 #### Uruguay Round Agreements: Entry Into Force
 

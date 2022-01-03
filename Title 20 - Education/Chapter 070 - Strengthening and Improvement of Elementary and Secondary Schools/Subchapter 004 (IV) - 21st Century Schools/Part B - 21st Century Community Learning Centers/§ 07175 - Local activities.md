@@ -2,7 +2,7 @@
 
 #### (a) Authorized activities
 
-Each eligible entity that receives an award under section 7174 of this title may use the award funds to carry out a broad array of activities that advance student academic achievement and support student success, including—
+Each eligible entity that receives an award under section 7174 of this title may use theaward funds to carry out a broad array of activities that advance student academic achievement and support student success, including—
 
 &emsp;(1) academic enrichment learning programs, mentoring programs, remedial education activities, and tutoring services, that are aligned with—
 
@@ -70,6 +70,8 @@ Each eligible entity that receives an award under section 7174 of this title may
 
 (Pub. L. 89–10, title IV, §4205, as added Pub. L. 107–110, title IV, §401, Jan. 8, 2002, 115 Stat. 1772; amended Pub. L. 114–95, title IV, §4201(a), Dec. 10, 2015, 129 Stat. 1992.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (a)(14), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
@@ -79,6 +81,8 @@ The Workforce Innovation and Opportunity Act, referred to in (a)(14), is Pub. L.
 #### Amendments
 
 <b>2015</b>—Pub. L. 114–95 amended section generally. Prior to amendment, section related to local activities.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

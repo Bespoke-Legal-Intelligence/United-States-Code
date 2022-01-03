@@ -1,10 +1,12 @@
 ### §300a–1. Training grants and contracts; authorization of appropriations
 
-(a) The Secretary is authorized to make grants to public or nonprofit private entitiesand to enter into contracts with public or private entities and individuals to provide the training for personnel to carry out family planning service programs described in section 300 or 300a of this title.
+(a) The Secretary is authorized to make grants to public or nonprofit private entities and to enter into contracts with public or private entities and individuals to provide the training for personnel to carry out family planning service programs described in section 300 or 300a of this title.
 
 (b) For the purpose of making payments pursuant to grants and contracts under this section, there are authorized to be appropriated $2,000,000 for the fiscal year ending June 30, 1971; $3,000,000 for the fiscal year ending June 30, 1972; $4,000,000 for the fiscal year ending June 30, 1973; $3,000,000 each for the fiscal years ending June 30, 1974 and June 30, 1975; $4,000,000 for fiscal year ending 1976; $5,000,000 for the fiscal year ending September 30, 1977; $3,000,000 for the fiscal year ending September 30, 1978; $3,100,000 for the fiscal year ending September 30, 1979; $3,600,000 for the fiscal year ending September 30, 1980; $4,100,000 for the fiscal year ending September 30, 1981; $2,920,000 for the fiscal year ending September 30, 1982; $3,200,000 for the fiscal year ending September 30, 1983; $3,500,000 for the fiscal year ending September 30, 1984; and $3,500,000 for the fiscal year ending September 30, 1985.
 
 (July 1, 1944, ch. 373, title X, §1003, as added Pub. L. 91–572, §6(c), Dec. 24, 1970, 84 Stat. 1507; amended Pub. L. 93–45, title I, §111(b), June 18, 1973, 87 Stat. 93; Pub. L. 94–63, title II, §202(b), title VII, §701(d), July 29, 1975, 89 Stat. 306, 352; Pub. L. 95–83, title III, §305(b), Aug. 1, 1977, 91 Stat. 389; Pub. L. 95–613, §1(b)(2), Nov. 8, 1978, 92 Stat. 3093; Pub. L. 97–35, title IX, §931(a)(2), Aug. 13, 1981, 95 Stat. 570; Pub. L. 97–414, §§8(n), 9(a), Jan. 4, 1983, 96 Stat. 2061, 2064; Pub. L. 98–512, §3(b), Oct. 19, 1984, 98 Stat. 2410.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -23,6 +25,8 @@ Pub. L. 97–414, §9(a), amended directory language of Pub. L. 97–35, §931(a
 <b>1975</b>—Subsec. (b). Pub. L. 94–63 inserted provisions authorizing appropriations for fiscal years ending June 30, 1975, 1976, and 1977.
 
 <b>1973</b>—Subsec. (b). Pub. L. 93–45 inserted provisions authorizing appropriations for fiscal year ending June 30, 1974.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1975 Amendment
 

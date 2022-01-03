@@ -156,7 +156,7 @@ Filing with cftc.—A proposed rule change filed with the Commission pursuant to
 
 &emsp;(C)
 
-Abrogation of rule changes.—Any proposed rule change of a self-regulatory organization that has taken effect pursuant to subparagraph (B) may be enforced by such self-regulatory organization to the extent such rule is not inconsistent with the provisions of this chapter, the rules and regulations thereunder, and applicable Federal law. At any time within 60 days of the date of the filing of a written certification with the Commodity Futures Trading Commission under section 7a–2(c) of title 7, the date the Commodity Futures Trading Commission determines that review of such proposed rule change is not necessary, or the date the Commodity Futures Trading Commission approves such proposed rule change, the Commission, after consultation with the Commodity Futures Trading Commission, may summarily abrogate the proposed rule change and require that the proposed rule change be refiled in accordance with the provisions of paragraph (1), if it appears to the Commission that such proposed rule change unduly burdens competition or efficiency, conflicts with the securities laws, or is inconsistent with the public interest and the protection of investors. Commission action pursuant to the preceding sentence shallnot affect the validity or force of the rule change during the period it was in effect and shall not be reviewable under section 78y of this title nor deemed to be a final agency action for purposes of section 704 of title 5.
+Abrogation of rule changes.—Any proposed rule change of a self-regulatory organization that has taken effect pursuant to subparagraph (B) may be enforced by such self-regulatory organization to the extent such rule is not inconsistent with the provisions of this chapter, the rules and regulations thereunder, and applicable Federal law. At any time within 60 days of the date of the filing of a written certification with the Commodity Futures Trading Commission under section 7a–2(c) of title 7, the date the Commodity Futures Trading Commission determines that review of such proposed rule change is not necessary, or the date the Commodity Futures Trading Commission approves such proposed rule change, the Commission, after consultation with the Commodity Futures Trading Commission, may summarily abrogate the proposed rule change and require that the proposed rule change be refiled in accordance with the provisions of paragraph (1), if it appears to the Commission that such proposed rule change unduly burdens competition or efficiency, conflicts with the securities laws, or is inconsistent with the public interest and the protection of investors. Commission action pursuant to the preceding sentence shall not affect the validity or force of the rule change during the period it was in effect and shall not be reviewable under section 78y of this title nor deemed to be a final agency action for purposes of section 704 of title 5.
 
 &emsp;(D)
 
@@ -208,7 +208,7 @@ In general.—For purposes of this subsection, the date of filing of a proposed 
 
 Exception.—A proposed rule change has not been received by the Commission for purposes of subparagraph (A) if, not later than 7 business days after the date of receipt by the Commission, the Commission notifies the self-regulatory organization that such proposed rule change does not comply with the rules of the Commission relating to the required form of a proposed rule change, except that if the Commission determines that the proposed rule change is unusually lengthy and is complex or raises novel regulatory issues, the Commission shall inform the self-regulatory organization of such determination not later than 7 business days after the date of receipt by the Commission and, for the purposes of subparagraph (A), a proposed rule change has not been received by the Commission, if, not later than 21 days after the date of receipt by the Commission, the Commission notifies the self-regulatory organization that such proposed rule change does not comply with the rules of the Commission relating to the required form of a proposed rule change.
 
-(10) <sup>1</sup> Notwithstanding paragraph (2), the time period within which the Commission is required by order to approve a proposed rule change or institute proceedings to determine whether the proposed rule change should be disapproved is stayed pending a determination by the Commission upon the request of the Commodity Futures Trading Commission or its Chairman that the Commission issue a determination as to whether a product that is the subject of such proposed rule change is a security pursuant to section 8306 of this title.
+(10) <sup>1</sup> Notwithstanding paragraph (2), the time period within which the Commission is required by order to approve a proposed rule change or institute proceedings to determine whether the proposed rule change should be disapproved is stayed pending a determination by the Commission upon the request of the Commodity FuturesTrading Commission or its Chairman that the Commission issue a determination as to whether a product that is the subject of such proposed rule change is a security pursuant to section 8306 of this title.
 
 #### (c) Amendment by Commission of rules of self-regulatory organizations
 
@@ -268,7 +268,7 @@ In any proceeding to review the denial of membership or participation in a self-
 
 #### (h) Suspension or revocation of self-regulatory organization's registration; censure; other sanctions
 
-(1) The appropriate regulatory agency for a self-regulatory organization is authorized, byorder, if in its opinion such action is necessary or appropriate in the public interest, for the protection of investors, or otherwise in furtherance of the purposes of this chapter, to suspend for a period not exceeding twelve months or revoke the registration of such self-regulatory organization, or to censure or impose limitations upon the activities, functions, and operations of such self-regulatory organization, if such appropriate regulatory agency finds, on the record after notice and opportunity for hearing, that such self-regulatory organization has violated or is unable to comply with any provision of this chapter, the rules or regulations thereunder, or its own rules or without reasonable justification or excuse has failed to enforce compliance—
+(1) The appropriate regulatory agency for a self-regulatory organization is authorized, by order, if in its opinion such action is necessary or appropriate in the public interest, for the protection of investors, or otherwise in furtherance of the purposes of this chapter, to suspend for aperiod not exceeding twelve months or revoke the registration of such self-regulatory organization, or to censure or impose limitations upon the activities, functions, and operations of such self-regulatory organization, if such appropriate regulatory agency finds, on the record after notice and opportunity for hearing, that such self-regulatory organization has violated or is unable to comply with any provision of this chapter, the rules or regulations thereunder, or its own rules or without reasonable justification or excuse has failed to enforce compliance—
 
 &emsp;(A) in the case of a national securities exchange, with any such provision by a member thereof or a person associated with a member thereof;
 
@@ -300,9 +300,11 @@ In any proceeding to review the denial of membership or participation in a self-
 
 #### (i) Appointment of trustee
 
-If a proceeding under subsection (h)(1) of this section results in the suspension or revocation of the registration of a clearing agency, the appropriate regulatory agency for such clearing agency may, upon notice to such clearing agency, apply to any court of competent jurisdiction specified in section 78u(d) or 78aa of this title for the appointment of a trustee. In the event of such an application, the court may, to the extent it deems necessary or appropriate, take exclusive jurisdiction of such clearing agency and the records and assets thereof, wherever located; and the court shall appoint the appropriate regulatory agency for such clearing agency or a person designated by such appropriate regulatory agency as trustee with power to take possession and continue to operate or terminate the operations of such clearing agency in an orderly manner for the protection of participants and investors, subject to such terms and conditions as the court may prescribe.
+If a proceeding under subsection (h)(1) of this section results in the suspension or revocation of the registration of a clearing agency, the appropriate regulatory agency for such clearing agency may, upon notice to such clearing agency, apply to any court of competent jurisdiction specified in section 78u(d) or 78aa of this title for the appointment of a trustee. In the event of such an application, the court may, to the extent it deems necessary or appropriate, take exclusive jurisdiction of such clearing agency and the records and assets thereof, wherever located; and the court shall appoint the appropriate regulatory agency for such clearing agency or a person designated by such appropriate regulatory agency as trustee with power to take possession and continue to operate or terminate the operations of such clearing agency in an orderly manner for the protection of participants andinvestors, subject to such terms and conditions as the court may prescribe.
 
 (June 6, 1934, ch. 404, title I, §19, 48 Stat. 898; Pub. L. 87–196, Sept. 5, 1961, 75 Stat. 465; Pub. L. 87–561, July 27, 1962, 76 Stat. 247; Pub. L. 90–438, July 29, 1968, 82 Stat. 453; Pub. L. 91–94, Oct. 20, 1969, 83 Stat. 141; Pub. L. 91–410, Sept. 25, 1970, 84 Stat. 862; Pub. L. 94–29, §16, June 4, 1975, 89 Stat. 146; Pub. L. 103–202, title I, §106(c), Dec. 17, 1993, 107 Stat. 2350; Pub. L. 105–353, title III, §301(b)(11), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 106–554, §1(a)(5) \[title II, §202(b), (c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–418, 2763A–421; Pub. L. 111–203, title VII, §717(c), title IX, §§916, 929F(e), July 21, 2010, 124 Stat. 1652, 1833, 1854.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -358,6 +360,8 @@ Subsec. (c)(5). Pub. L. 103–202, §106(c)(2), added par. (5).
 
 <b>1961</b>—Subsec. (d). Pub. L. 87–196 added subsec. (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Amendment by sections 916 and 929F(e) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
@@ -372,13 +376,15 @@ Amendment by Pub. L. 94–29 effective June 4, 1975, except for amendment of sub
 
 Amendment by Pub. L. 103–202 not to be construed to govern initial issuance of any public debt obligation or to grant any authority to (or extend any authority of) the Securities and Exchange Commission, any appropriate regulatory agency, or a self-regulatory organization to prescribe any procedure, term, or condition of such initial issuance, to promulgate any rule or regulation governing such initial issuance, or to otherwise regulate in any manner such initial issuance, see section 111 of Pub. L. 103–202, set out as a note under section 78o–5 of this title.
 
-#### Transfer of Functions
-
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
 #### Review of Regulatory Structures and Procedures With Respect to Penny Stocks; Report
 
 Pub. L. 101–429, title V, §510, Oct. 15, 1990, 104 Stat. 957, directed Comptroller General, in consultation with Securities and Exchange Commission, to conduct a review of rules, procedures, facilities, and oversight and enforcement activities of self-regulatory organizations under Securities Exchange Act of 1934, with respect to penny stocks (within the meaning of 15 U.S.C. 78c(a)(51)), and, within one year after Oct. 15, 1990, to submit a report on the review including a statement of findings and such recommendations as the Comptroller General considered appropriate with respect to legislative or administrative changes.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 <i><sup>1</sup></i><i> So in original. Two pars. (10) have been enacted.</i>
 

@@ -66,7 +66,7 @@ Binding.—A binding estimate under this paragraph must indicate that the carrie
 
 &emsp;&emsp;&emsp;(iii)
 
-Nonbinding.—A nonbinding estimate under this paragraph must indicate that the actual charges will be based upon the actual weight of the individual shipper'sshipment and the carrier's lawful tariff charges. The carrier may not impose a charge for providing a nonbinding estimate.
+Nonbinding.—A nonbinding estimate under this paragraph must indicate that the actual charges will be based upon the actual weight of the individual shipper's shipment and the carrier's lawful tariff charges. The carrier may not impose a charge for providing a nonbinding estimate.
 
 &emsp;(2)
 
@@ -82,6 +82,8 @@ Flexibility in Weighing Shipments.—The Secretary shall issue regulations that 
 
 (Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 891; amended Pub. L. 109–59, title IV, §4205, Aug. 10, 2005, 119 Stat. 1753.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 11110 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
@@ -90,9 +92,79 @@ Provisions similar to those in this section were contained in section 11110 of t
 
 <b>2005</b>—Subsec. (b). Pub. L. 109–59 added pars. (1) and (2), redesignated former par. (2) as (3), and struck out heading and text of former par. (1). Text read as follows: "Every motor carrier providing transportation of household goods subject to jurisdiction under subchapter I of chapter 135, upon request of a prospective shipper, may provide the shipper with an estimate of charges for transportation of household goods and for the proposed services. The Secretary shall not prohibit any such carrier from charging a prospective shipper for providing a written, binding estimate for the transportation and proposed services."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.
+
+#### Amendments to Regulations Relating to Transportation of Household Goods in Interstate Commerce
+
+Pub. L. 117–58, div. B, title III, §23013, Nov. 15, 2021, 135 Stat. 772, provided that:
+
+"(a)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Administration.—The term 'Administration' means the Federal Motor Carrier Safety Administration.
+
+&emsp;"(2)
+
+Covered carrier.—The term 'covered carrier' means a motor carrier that is—
+
+&emsp;&emsp;"(A) engaged in the interstate transportation of household goods; and
+
+&emsp;&emsp;"(B) subject to the requirements of part 375 of title 49, Code of Federal Regulations (as in effect on the effective date of any amendments made pursuant to the notice of proposed rulemaking issued under subsection (b)).
+
+"(b)
+
+Amendments to Regulations.—Not later than 1 year after the date of enactment of this Act \[Nov. 15, 2021\], the Secretary \[of Transportation\] shall issue a notice of proposed rulemaking to amend, as the Secretary determines to be appropriate, regulations relating to the interstate transportation of household goods.
+
+"(c)
+
+Considerations.—In issuing the notice of proposed rulemaking under subsection (b), the Secretary shall consider amending the following provisions of title 49, Code of Federal Regulations, in accordance with the following recommendations:
+
+&emsp;"(1) Section 375.207(b) to require each covered carrier to include on the website of the covered carrier a link—
+
+&emsp;&emsp;"(A) to the publication of the Administration entitled 'Ready to Move–Tips for a Successful Interstate Move' and numbered ESA–03–005 on the website of the Administration; or
+
+&emsp;&emsp;"(B) to a copy of the publication referred to in subparagraph (A) on the website of the covered carrier.
+
+&emsp;"(2) Subsections (a) and (b)(1) of section 375.213 to require each covered carrier to provide to each individual shipper, together with any written estimate provided to the shipper, a copy of the publication described in appendix A of part 375 of that title, entitled 'Your Rights and Responsibilities When You Move' and numbered ESA–03–006 (or a successor publication), in the form of a written copy or a hyperlink on the website of the covered carrier to the location on the website of the Administration containing that publication.
+
+&emsp;"(3) Section 375.213 to repeal subsection (e) of that section.
+
+&emsp;"(4) Section 375.401(a) to require each covered carrier—
+
+&emsp;&emsp;"(A) to conduct a visual survey of the household goods to be transported by the covered carrier—
+
+&emsp;&emsp;&emsp;"(i) in person; or
+
+&emsp;&emsp;&emsp;"(ii) virtually, using—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) a remote camera; or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) another appropriate technology;
+
+&emsp;&emsp;"(B) to offer a visual survey described in subparagraph (A) for all household goods shipments, regardless of the distance between—
+
+&emsp;&emsp;&emsp;"(i) the location of the household goods; and
+
+&emsp;&emsp;&emsp;"(ii) the location of the agent of the covered carrier preparing the estimate; and
+
+&emsp;&emsp;"(C) to provide to each shipper a copy of the publication of the Administration entitled 'Ready to Move–Tips for a Successful Interstate Move' and numbered ESA–03–005 on receipt from the shipper of a request to schedule, or a waiver of, a visual survey offered under subparagraph (B).
+
+&emsp;"(5) Sections 375.401(b)(1), 375.403(a)(6)(ii), and 375.405(b)(7)(ii), and subpart D of appendix A of part 375, to require that, in any case in which a shipper tenders any additional item or requests any additional service prior to loading a shipment, the affected covered carrier shall—
+
+&emsp;&emsp;"(A) prepare a new estimate; and
+
+&emsp;&emsp;"(B) maintain a record of the date, time, and manner in which the new estimate was accepted by the shipper.
+
+&emsp;"(6) Section 375.501(a), to establish that a covered carrier is not required to provide to a shipper an order for service if the covered carrier elects to provide the information described in paragraphs (1) through (15) of that section in a bill of lading that is presented to the shipper before the covered carrier receives the shipment.
+
+&emsp;"(7) Subpart H of part 375, to replace the replace the terms 'freight bill' and 'expense bill' with the term 'invoice'."
 
 #### Study of Enforcement of Consumer Protection Rules in Household Goods Moving Industry
 

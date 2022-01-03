@@ -54,7 +54,7 @@ Not later than 3 years after October 13, 2006, the Secretary shall fully impleme
 
 #### (2) Risk assessment
 
-&emsp;In expanding the strategy under paragraph (1), the Secretary shall identify and assess therisks to those other ports of entry in order to determine what equipment and practices will best mitigate the risks.
+&emsp;In expanding the strategy under paragraph (1), the Secretary shall identify and assess the risks to those other ports of entry in order to determine what equipment and practices will best mitigate the risks.
 
 #### (f) Intermodal Rail Radiation Detection Test Center
 

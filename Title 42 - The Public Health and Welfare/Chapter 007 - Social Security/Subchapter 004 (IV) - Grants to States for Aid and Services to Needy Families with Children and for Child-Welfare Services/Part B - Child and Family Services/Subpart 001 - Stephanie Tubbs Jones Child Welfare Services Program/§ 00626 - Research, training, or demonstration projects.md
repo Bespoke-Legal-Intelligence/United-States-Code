@@ -42,6 +42,8 @@ The Secretary may approve an application for a grant to a public or nonprofit in
 
 (Aug. 14, 1935, ch. 531, title IV, §426, as added Pub. L. 90–248, title II, §240(c), Jan. 2, 1968, 81 Stat. 915; amended Pub. L. 100–203, title IX, §9137, Dec. 22, 1987, 101 Stat. 1330–319; Pub. L. 103–432, title II, §205(b), Oct. 31, 1994, 108 Stat. 4457; Pub. L. 109–288, §§6(f)(2), 11(b), Sept. 28, 2006, 120 Stat. 1247, 1255.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 628a of this title, referred to in subsec. (a)(1)(C), was transferred and redesignated as subsec. (c) of this section by Pub. L. 109–288, §6(f)(2), Sept. 28, 2006, 120 Stat. 1247.
@@ -52,7 +54,7 @@ Section 628a of this title, which was transferred and redesignated as subsec. (c
 
 #### Amendments
 
-<b>2006</b>—Subsec. (b). Pub. L. 109–288, §11(b), redesignated subsec. (c) as (b) and struck out former subsec. (b) which related to appropriations for demonstration projects for development of alternate care arrangements for infants not requiring hospitalization.
+<b>2006</b>—Subsec. (b). Pub. L. 109–288, §11(b), redesignated subsec. (c) as (b) and struck out former subsec. (b)which related to appropriations for demonstration projects for development of alternate care arrangements for infants not requiring hospitalization.
 
 Subsec. (c). Pub. L. 109–288, §6(f)(2), amended section as amended by Pub. L. 109–288, §11(b), by transferring section 628a of this title and redesignating it as subsec. (c) of this section. See Codification note above.
 
@@ -61,6 +63,8 @@ Pub. L. 109–288, §11(b), redesignated subsec. (c) as (b).
 <b>1994</b>—Subsec. (a)(1)(C). Pub. L. 103–432 inserted "described in section 628a of this title" after "including traineeships".
 
 <b>1987</b>—Subsecs. (b), (c). Pub. L. 100–203 added subsec. (b) and redesignated former subsec. (b) as (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

@@ -2,13 +2,15 @@
 
 #### (a) Amounts for declassification of records
 
-The Secretary of Energy shall include in the budget justification materials submitted to Congress in support of the Department of Energy budget for any fiscal year (as submitted with the budget of the President under section 1105(a) of title 31) specific identification, as a budgetary line item, of the amounts required to carry out programmed activities during that fiscal year to declassify records pursuant to Executive Order No. 13526 (50 U.S.C. 3161 note), or any successorExecutive order, or to comply with any statutory requirement to declassify Government records.
+The Secretary of Energy shall include in the budget justification materials submitted to Congress in support of the Department of Energy budget for any fiscal year (as submitted withthe budget of the President under section 1105(a) of title 31) specific identification, as a budgetary line item, of the amounts required to carry out programmed activities during that fiscal year to declassify records pursuant to Executive Order No. 13526 (50 U.S.C. 3161 note), or any successor Executive order, or to comply with any statutory requirement to declassify Government records.
 
 #### (b) Certification required with respect to automatic declassification of records
 
 No records of the Department of Energy that have not as of October 5, 1999, been reviewed for declassification shall be subject to automatic declassification unless the Secretary of Energy certifies to Congress that such declassification would not harm the national security.
 
 (Pub. L. 107–314, div. D, title XLV, §4525, formerly Pub. L. 106–65, div. C, title XXXI, §3173, Oct. 5, 1999, 113 Stat. 949; renumbered Pub. L. 107–314, div. D, title XLV, §4525, and amended Pub. L. 108–136, div. C, title XXXI, §3141(h)(15), Nov. 24, 2003, 117 Stat. 1775; Pub. L. 113–66, div. C, title XXXI, §3146(f)(4), Dec. 26, 2013, 127 Stat. 1079; Pub. L. 113–291, div. C, title XXXI, §3142(n), Dec. 19, 2014, 128 Stat. 3901.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

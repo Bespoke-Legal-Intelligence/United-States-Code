@@ -4,7 +4,7 @@ It is unlawful for any person to—
 
 &emsp;(1) destroy, cause the loss of, or injure any sanctuary resource managed under law or regulations for that sanctuary;
 
-&emsp;(2) possess, sell, offer for sale, purchase, import, export, deliver, carry, transport, or shipby any means any sanctuary resource taken in violation of this section;
+&emsp;(2) possess, sell, offer for sale, purchase, import, export, deliver, carry, transport, or ship by any means any sanctuary resource taken in violation of this section;
 
 &emsp;(3) interfere with the enforcement of this chapter by—
 
@@ -18,6 +18,8 @@ It is unlawful for any person to—
 
 (Pub. L. 92–532, title III, §306, as added Pub. L. 98–498, title I, §102, Oct. 19, 1984, 98 Stat. 2302; amended Pub. L. 102–587, title II, §2106, Nov. 4, 1992, 106 Stat. 5043; Pub. L. 106–513, §7, Nov. 13, 2000, 114 Stat. 2386.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Pub. L. 106–513, §7(1), inserted "for any person" after "unlawful" in introductory provision.
@@ -27,6 +29,8 @@ Par. (2). Pub. L. 106–513, §7(2), inserted "offer for sale, purchase, import,
 Par. (3). Pub. L. 106–513, §7(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "interfere with the enforcement of this chapter; or".
 
 <b>1992</b>—Pub. L. 102–587 amended section generally. Prior to amendment, section read as follows: "The Secretary shall conduct research and educational programs as are necessary and reasonable to carry out the purposes and policies of this chapter."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

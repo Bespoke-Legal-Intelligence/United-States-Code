@@ -18,7 +18,7 @@ The President is authorized to prescribe such regulations as may be necessary to
 
 #### Codification
 
-In subsecs. (a) and (b), "subchapter III of chapter 83 of title 5" substituted for "the Civil Service Retirement Act, as amended" and "the Civil Service Retirement Act" in each subsection and "chapter 87 of title 5" substituted for "the Federal Employees' Group Life Insurance Act of 1954, as amended" on authority ofPub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsecs. (a) and (b), "subchapter III of chapter 83 of title 5" substituted for "the Civil Service Retirement Act, as amended" and "the Civil Service Retirement Act" in each subsection and "chapter 87 of title 5" substituted for "the Federal Employees' Group Life Insurance Act of 1954, as amended" on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

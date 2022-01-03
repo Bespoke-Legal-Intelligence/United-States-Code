@@ -193,6 +193,8 @@
 | [<b>158.</b>](Chapter%20158%20-%20Support%20for%20Pregnant%20and%20Parenting%20Teens%20and%20Women/README.md) | <b>Support for Pregnant and Parenting Teens and Women</b> | <b>18201</b> |
 | [<b>159.</b>](Chapter%20159%20-%20Space%20Exploration%2C%20Technology%2C%20and%20Science/README.md) | <b>Space Exploration, Technology, and Science</b> | <b>18301</b> |
 | [<b>160.</b>](Chapter%20160%20-%20Treatment%20of%20Certain%20Payments%20in%20Eugenics%20Compensation/README.md) | <b>Treatment of Certain Payments in Eugenics Compensation</b> | <b>18501</b> |
+| [<b>161.</b>](Chapter%20161%20-%20Department%20of%20Energy%20Research%20and%20Innovation/README.md) | <b>Department of Energy Research and Innovation</b> | <b>18601</b> |
+| [<b>162.</b>](Chapter%20162%20-%20Energy%20Infrastructure/README.md) | <b>Energy Infrastructure</b> | <b>18701</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -392,3 +394,4 @@
 - [Chapter 159 - Space Exploration, Technology, and Science](Chapter%20159%20-%20Space%20Exploration%2C%20Technology%2C%20and%20Science/README.md)
 - [Chapter 160 - Treatment of Certain Payments in Eugenics Compensation](Chapter%20160%20-%20Treatment%20of%20Certain%20Payments%20in%20Eugenics%20Compensation/README.md)
 - [Chapter 161 - Department of Energy Research and Innovation](Chapter%20161%20-%20Department%20of%20Energy%20Research%20and%20Innovation/README.md)
+- [Chapter 162 - Energy Infrastructure](Chapter%20162%20-%20Energy%20Infrastructure/README.md)

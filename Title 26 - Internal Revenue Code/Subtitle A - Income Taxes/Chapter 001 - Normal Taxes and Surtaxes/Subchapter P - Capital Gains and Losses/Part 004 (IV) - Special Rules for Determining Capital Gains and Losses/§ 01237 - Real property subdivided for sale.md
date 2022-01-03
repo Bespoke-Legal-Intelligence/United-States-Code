@@ -6,7 +6,7 @@ Any lot or parcel which is part of a tract of real property in the hands of a ta
 
 &emsp;(1) such tract, or any lot or parcel thereof, had not previously been held by such taxpayer primarily for sale to customers in the ordinary course of trade or business (unless such tract at such previous time would have been covered by this section) and, in the same taxable year in which the sale occurs, such taxpayer does not so hold any other real property; and
 
-&emsp;(2) no substantial improvement that substantially enhances the value of the lot or parcel sold is made by the taxpayer on such tract while held by the taxpayer or is made pursuant to a contract of sale entered into between the taxpayer and the buyer. For purposes of this paragraph, an improvement shall be deemed to be made by the taxpayer if such improvement was made by—
+&emsp;(2) no substantial improvement that substantially enhances the value of the lot or parcel sold is made by the taxpayer on such tractwhile held by the taxpayer or is made pursuant to a contract of sale entered into between the taxpayer and the buyer. For purposes of this paragraph, an improvement shall be deemed to be made by the taxpayer if such improvement was made by—
 
 &emsp;&emsp;(A) the taxpayer or members of his family (as defined in section 267(c)(4)), by a corporation controlled by the taxpayer, an S corporation which included the taxpayer as a shareholder, or by a partnership which included the taxpayer as a partner; or
 
@@ -24,7 +24,7 @@ Any lot or parcel which is part of a tract of real property in the hands of a ta
 
 #### (2) Expenditures of sale
 
-&emsp;For the purpose of computing gain under paragraph (1) of this subsection, expenditures incurred in connection with the sale or exchange of any lot or parcel shall neither be allowed as a deduction in computing taxable income, nor treated as reducing the amount realized on such sale or exchange; but so much of such expenditures as does not exceed theportion of gain deemed under paragraph (1) of this subsection to be gain from the sale of property held primarily for sale to customers in the ordinary course of trade or business shall be so allowed as a deduction, and the remainder, if any, shall be treated as reducing the amount realized on such sale or exchange.
+&emsp;For the purpose of computing gain under paragraph (1) of this subsection, expenditures incurred in connection with the sale or exchange of any lot or parcel shall neither be allowed as a deduction in computing taxable income, nor treated as reducing the amount realized on such sale or exchange; but so much of such expenditures as does not exceed the portion of gain deemed under paragraph (1) of this subsection to be gain from the sale of property held primarily for sale to customers in the ordinary course of trade or business shall be so allowed as a deduction, and the remainder, if any, shall be treated as reducing the amount realized on such sale or exchange.
 
 #### (3) Necessary improvements
 
@@ -42,6 +42,8 @@ For purposes of this section, the term "tract of real property" means a single p
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 330; Apr. 27, 1956, ch. 214, §§1, 2, 70 Stat. 118; Pub. L. 85–866, title I, §55, Sept. 2, 1958, 72 Stat. 1645; Pub. L. 91–686, §2(a), Jan. 12, 1971, 84 Stat. 2071; Pub. L. 94–455, title XIX, §§1901(a)(138), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1787, 1834; Pub. L. 104–188, title I, §1314, Aug. 20, 1996, 110 Stat. 1785.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–188, §1314(a), substituted "other than a C corporation" for "other than a corporation" in introductory provisions.
@@ -58,9 +60,11 @@ Subsec. (b). Pub. L. 91–686, §2(a)(2), struck out sentence which made subpars
 
 <b>1958</b>—Subsec. (a)(1). Pub. L. 85–866 substituted "and, in the same taxable year" for "or, in the same taxable year".
 
-<b>1956</b>—Subsec. (a). Act Apr. 27, 1956, §1, substituted "(including corporations only if no shareholder directly or indirectly holds real property for sale to customers in the ordinary course of trade or business and only in the case of property described in the last sentence of subsection (b)(3))" for "other than a corporation".
+<b>1956</b>—Subsec. (a). Act Apr. 27, 1956, §1, substituted "(including corporations only if no shareholder directlyor indirectly holds real property for sale to customers in the ordinary course of trade or business and only in the case of property described in the last sentence of subsection (b)(3))" for "other than a corporation".
 
 Subsec. (b)(3). Act Apr. 27, 1956, §2, substituted "water, sewer, or drainage facilities" for "water or sewer facilities" in subpar. (A), and inserted provision at end that requirements of subpars. (B) and (C) do not apply to certain specified property.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 
@@ -86,7 +90,7 @@ Act Apr. 27, 1956, ch. 214, §3, 70 Stat. 119, provided that: "This Act \[amendi
 
 Pub. L. 91–686, §1, Jan. 12, 1971, 84 Stat. 2070, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided: "That (a) for purposes of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] any lot or parcel of real property sold or exchanged by a corporation which would, but for this Act, be treated as property held primarily for sale to customers in the ordinary course of trade or business shall not, except to the extent provided in (b), be so treated if—
 
-&emsp;"(1) no shareholder of the corporation directly or indirectly holds real property primarily for sale tocustomers in the ordinary course of trade or business; and
+&emsp;"(1) no shareholder of the corporation directly or indirectly holds real property primarily for sale to customers in the ordinary course of trade or business; and
 
 &emsp;"(2)(A) such lot or parcel is a part of real property (i) held for more than twenty-five years at the time of sale or exchange, and (ii) acquired before January 1, 1934, by the corporation as a result of the foreclosure of a lien (or liens) thereon which secured the payment of indebtedness held by one or more creditors who transferred one or more foreclosure bids to the corporation in exchange for all its stock (with or without other consideration), or
 

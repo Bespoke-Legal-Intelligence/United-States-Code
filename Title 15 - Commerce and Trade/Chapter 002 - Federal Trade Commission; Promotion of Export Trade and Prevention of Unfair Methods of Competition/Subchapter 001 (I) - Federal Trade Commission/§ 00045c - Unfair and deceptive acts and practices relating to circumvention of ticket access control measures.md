@@ -88,7 +88,7 @@
 
 #### (4) Preemptive action by Federal Trade Commission
 
-&emsp;If the Commission institutes a civil action or an administrative action with respect to a violation of subsection (a), the attorney general of a State may not, during the pendency of such action, bring a civil action under paragraph (1) against any defendant named in the complaint of the Commission for the violation with respect to which the Commission instituted such action.
+&emsp;If the Commission institutes a civil action or an administrative action with respect to a violation of subsection (a), the attorney general of a State may not, during the pendency of such action, bring a civil action under paragraph (1) against any defendant named in the complaint of the Commission for the violationwith respect to which the Commission instituted such action.
 
 #### (5) Venue; service of process
 
@@ -112,13 +112,15 @@
 
 #### (A) In general
 
-&emsp;&emsp;In addition to civil actions brought by attorneys general under paragraph (1), anyother consumer protection officer of a State who is authorized by the State to do so may bring a civil action under paragraph (1), subject to the same requirements and limitations that apply under this subsection to civil actions brought by attorneys general.
+&emsp;&emsp;In addition to civil actions brought by attorneys general under paragraph (1), any other consumer protection officer of a State who is authorized by the State to do so may bring a civil action under paragraph (1), subject to the same requirements and limitations that apply under this subsection to civil actions brought by attorneys general.
 
 #### (B) Savings provision
 
 &emsp;&emsp;Nothing in this subsection may be construed to prohibit an authorized official of a State from initiating or continuing any proceeding in a court of the State for a violation of any civil or criminal law of the State.
 
 (Pub. L. 114–274, §2, Dec. 14, 2016, 130 Stat. 1401.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -127,6 +129,8 @@ The Federal Trade Commission Act, referred to in subsec. (b)(2), is act Sept. 26
 #### Codification
 
 Section was enacted as part of the Better Online Ticket Sales Act of 2016 or the BOTS Act of 2016, and not as part of the Federal Trade Commission Act which comprises this subchapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

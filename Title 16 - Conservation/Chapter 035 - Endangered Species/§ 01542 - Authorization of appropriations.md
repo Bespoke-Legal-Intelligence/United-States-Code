@@ -20,6 +20,8 @@ There are authorized to be appropriated to the Department of the Interior for pu
 
 (Pub. L. 93–205, §15, Dec. 28, 1973, 87 Stat. 903; Pub. L. 94–325, June 30, 1976, 90 Stat. 724; Pub. L. 95–632, §9, Nov. 10, 1978, 92 Stat. 3762; Pub. L. 96–159, §8, Dec. 28, 1979, 93 Stat. 1230; Pub. L. 97–304, §8\[(a)\], Oct. 13, 1982, 96 Stat. 1425; Pub. L. 100–478, title I, §1009, Oct. 7, 1988, 102 Stat. 2312.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 93–205, Dec. 28, 1973, 81 Stat. 884, known as the Endangered Species Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
@@ -40,7 +42,7 @@ Par. (2). Pub. L. 96–159 deleted appropriations authorization of $5,000,000 fo
 
 Par. (1). Pub. L. 95–632 substituted provision authorizing appropriations of not to exceed $25,000,000 for the fiscal year ending Sept. 30, 1977 and the fiscal year ending Sept. 30, 1978, of not to exceed $23,000,000 for the fiscal year ending Sept. 30, 1979, and of not to exceed $12,500,000 for the period beginning Oct. 1, 1979 and ending Mar. 31, 1980 for provision authorizing appropriations of not to exceed $10,000,000 for the fiscal year ending June 30, 1976, of not to exceed $1,800,000 for the fiscal transitional period ending Sept. 30, 1976, and of not to exceed a total of $25,000,000 for the fiscal year ending Sept. 30, 1977 and the fiscal year ending Sept. 30, 1978, to enable the Department of the Interior to carry out its functions under this chapter.
 
-Par. (2). Pub. L. 95–632 substituted provision authorizing appropriations of not to exceed $5,000,000 for the fiscal year ending Sept. 30, 1977 and the fiscal year ending Sept. 30, 1978, of not to exceed $2,500,000 for the fiscal year ending Sept. 30, 1979, and of not to exceed $12,500,000 for the period beginning Oct. 1, 1979 and ending Mar. 31, 1980 for provision authorizing appropriations of not to exceed $2,000,000 for the fiscal year ending June 30, 1976, of not to exceed $500,000 for the fiscal transitional period ending Sept. 30, 1976 and of not to exceed a total of $5,000,000 for the fiscal year Sept. 30, 1977 and the fiscal year ending Sept. 30, 1978.
+Par. (2). Pub. L. 95–632 substituted provision authorizing appropriations of not to exceed $5,000,000 for the fiscal year ending Sept. 30, 1977 and the fiscal year ending Sept. 30, 1978, of not to exceed $2,500,000 for the fiscal year ending Sept. 30, 1979, and of not to exceed$12,500,000 for the period beginning Oct. 1, 1979 and ending Mar. 31, 1980 for provision authorizing appropriations of not to exceed $2,000,000 for the fiscal year ending June 30, 1976, of not to exceed $500,000 for the fiscal transitional period ending Sept. 30, 1976 and of not to exceed a total of $5,000,000 for the fiscal year Sept. 30, 1977 and the fiscal year ending Sept. 30, 1978.
 
 <b>1976</b>—Par. (1). Pub. L. 94–325, §1(1), redesignated par. (A) as (1), inserted provisions authorizing appropriations for the fiscal year transitional period ending Sept. 30, 1976, fiscal year ending Sept. 30, 1977, and fiscal year ending Sept. 30, 1978, and struck out provisions authorizing appropriations of not to exceed $4,000,000 for fiscal year 1974, and not to exceed $8,000,000 for fiscal year 1975.
 

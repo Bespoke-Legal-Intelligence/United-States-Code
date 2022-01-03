@@ -350,7 +350,7 @@ Subsec. (f)(1). Pub. L. 116–74, §2(a)(8)(C), substituted "subsection" for "ch
 
 Pub. L. 115–271, §8202(b)(2), repealed Pub. L. 105–277, §715. See 1998 Amendment note below.
 
-Pub. L. 115–271, §8202(a), revived and restored this section as in effect on Sept. 29, 2003, and as amended byPub. L. 109–469 and Pub. L. 112–166. See Reauthorization of the Office of National Drug Control Policy note set out under section 1701 of this title.
+Pub. L. 115–271, §8202(a), revived and restored this section as in effect on Sept. 29, 2003, and as amended by Pub. L. 109–469 and Pub. L. 112–166. See Reauthorization of the Office of National Drug Control Policy note set out under section 1701 of this title.
 
 <b>2006</b>—Pub. L. 109–469, §602, amended Pub. L. 105–277, §715, which provided for the repeal of this section. See 1998 Amendment note below.
 

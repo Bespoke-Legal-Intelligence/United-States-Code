@@ -16,7 +16,7 @@
 
 #### (b) Scope of permissible activities
 
-(1) Funds provided for research under this section may be used for descriptive or explanatory surveys, longitudinal studies, or limited demonstration projects for services that are for the purpose of increasing knowledge and understanding of the matters described in paragraphs (4) and (5) of section 300z(b) of this title.
+(1) Funds provided for research under this section may be used for descriptive or explanatorysurveys, longitudinal studies, or limited demonstration projects for services that are for the purpose of increasing knowledge and understanding of the matters described in paragraphs (4) and (5) of section 300z(b) of this title.
 
 (2) Funds provided under this section may not be used for the purchase or improvement of land, or the purchase, construction, or permanent improvement (other than minor remodeling) of any building or facility.
 
@@ -51,6 +51,8 @@ The Secretary shall, where appropriate, coordinate research and dissemination ac
 (2) Recipients of grants and contracts for dissemination under this section shall submit to the Secretary such reports as the Secretary determines appropriate.
 
 (July 1, 1944, ch. 373, title XX, §2008, as added Pub. L. 97–35, title IX, §955(a), Aug. 13, 1981, 95 Stat. 589; amended Pub. L. 98–512, §2(e), Oct. 19, 1984, 98 Stat. 2409.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

@@ -18,7 +18,7 @@ A State may only elect the option under subsection (a) if the following conditio
 
 #### (2) No CHIP income eligibility level for pregnant women lower than the State's Medicaid level
 
-&emsp;The State does not apply an effective income level for pregnant women under the State plan amendment that is lower than the effective income level (expressed as a percent of the poverty line and considering applicable income disregards) specified under subsection (a)(10)(A)(i)(III), (a)(10)(A)(i)(IV), or (l)(1)(A) of section 1396a of this title, on February 4, 2009, to be eligible for medical assistance as a pregnant woman.
+&emsp;The State does not apply an effective income level for pregnant women under the State planamendment that is lower than the effective income level (expressed as a percent of the poverty line and considering applicable income disregards) specified under subsection (a)(10)(A)(i)(III), (a)(10)(A)(i)(IV), or (l)(1)(A) of section 1396a of this title, on February 4, 2009, to be eligible for medical assistance as a pregnant woman.
 
 #### (3) No coverage for higher income pregnant women without covering lower income pregnant women
 
@@ -56,7 +56,7 @@ For purposes of this section:
 
 &emsp;The term "targeted low-income pregnant woman" means an individual—
 
-&emsp;&emsp;(A) during pregnancy and through the end of the month in which the 60-day period (beginning on the last day of her pregnancy) ends;
+&emsp;&emsp;(A) during pregnancy and through the end of the month in which the 60-day period, or, in the case that subparagraph (A) of section 1396a(e)(16) of this title applies to the State child health plan (or waiver of such plan), pursuant to section 1397gg(e)(1) of this title, the 12-month period,<sup>1</sup> (beginning on the last day of her pregnancy) ends;
 
 &emsp;&emsp;(B) whose family income exceeds 185 percent (or, if higher, the percent applied under subsection (b)(1)(A)) of the poverty line applicable to a family of the size involved, but does not exceed the income eligibility level established under the State child health plan under this subchapter for a targeted low-income child; and
 
@@ -88,13 +88,21 @@ If a child is born to a targeted low-income pregnant woman who was receiving pre
 
 &emsp;&emsp;(B) to modify the authority to provide pregnancy-related services under a waiver specified in paragraph (1)(B).
 
-(Aug. 14, 1935, ch. 531, title XXI, §2112, as added Pub. L. 111–3, title I, §111(a), Feb. 4, 2009, 123 Stat. 26; amended Pub. L. 116–127, div. F, §6004(b)(2), Mar. 18, 2020, 134 Stat. 206.)
+(Aug. 14, 1935, ch. 531, title XXI, §2112, as added Pub. L. 111–3, title I, §111(a), Feb. 4, 2009, 123 Stat. 26; amended Pub. L. 116–127, div. F, §6004(b)(2), Mar. 18, 2020, 134 Stat. 206; Pub. L. 117–2, title IX, §9822(a)(2), Mar. 11, 2021, 135 Stat. 221.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
+<b>2021</b>—Subsec. (d)(2)(A). Pub. L. 117–2 inserted ", or, in the case that subparagraph (A) of section 1396a(e)(16) of this title applies to the State child health plan (or waiver of such plan), pursuant to section 1397gg (e)(1) of this title, the 12-month period," after "60-day period".
+
 <b>2020</b>—Subsec. (b)(4). Pub. L. 116–127 inserted "under section 1397cc(c) of this title" after "same requirements".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
 Section effective Apr. 1, 2009, and applicable to child health assistance and medical assistance provided on or after that date, with certain exceptions, see section 3 of Pub. L. 111–3, set out as a note under section 1396 of this title.
+
+<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

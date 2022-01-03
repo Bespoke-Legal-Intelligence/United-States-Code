@@ -82,7 +82,7 @@
 
 &emsp;&emsp;&emsp;(iii) the provisions set forth in paragraph 5 of Annex 3–B of the USMCA;
 
-&emsp;&emsp;&emsp;(iv) the provisions set forth in paragraphs 14(b), 14(c), and 15(e) of Section B ofAppendix 2 to Annex 2–B of the USMCA; and
+&emsp;&emsp;&emsp;(iv) the provisions set forth in paragraphs 14(b), 14(c), and 15(e) of Section B of Appendix 2 to Annex 2–B of the USMCA; and
 
 &emsp;&emsp;&emsp;(v) any additional subordinate category that is necessary to carry out section 4531 of this title and section 4532 of this title consistent with the USMCA.
 
@@ -102,13 +102,19 @@
 
 (Pub. L. 116–113, title I, §103, Jan. 29, 2020, 134 Stat. 15.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsecs. (a)(1), (2) and (b)(1), is Pub. L. 116–113, Jan. 29, 2020, 134 Stat. 11, known as the United States-Mexico-Canada Agreement Implementation Act. For complete classification of this Act to the Code, see Short Title note set out under section 4501 of this title and Tables.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of Subsection (c)
 
 Subsec. (c) of this section effective on the date the USMCA entered into force (July 1, 2020), see section 107(b) of Pub. L. 116–113, set out as a note under section 4501 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

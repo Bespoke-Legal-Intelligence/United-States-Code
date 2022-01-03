@@ -18,6 +18,8 @@ While there is in effect with respect to any article any action taken under sect
 
 (Pub. L. 93–618, title I, §127(a), (b), Jan. 3, 1975, 88 Stat. 1993.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.

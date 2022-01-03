@@ -284,7 +284,7 @@ The order shall define the general responsibilities of the PromoFlor Council, wh
 
 #### (2) Audits
 
-&emsp;The PromoFlor Council shall cause the books and records of the Council to be audited by an independent auditor at the end of eachfiscal year. A report of each audit shall be submitted to the Secretary.
+&emsp;The PromoFlor Council shall cause the books and records of the Council to be audited by an independent auditor at the end of each fiscal year. A report of each audit shall be submitted to the Secretary.
 
 #### (g) Control of administrative costs
 
@@ -312,7 +312,7 @@ The order shall provide that the PromoFlor Council shall, as soon as practicable
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;The order shall provide that each non-sale transfer of cut flowers or cut greens to a retailer from a qualified handler that is a distribution center (as described in section 6802(4)(A)(ii)(II) of this title), and each direct sale of cut flowers or cut greens to a consumer by a qualified handler that is an importer or a producer (as described in section 6802(4)(A)(iii) of this title), shall be treated as a sale of cut flowers or cut greens to a retailer subject to assessments under this subsection.
+&emsp;&emsp;&emsp;&emsp;The order shall provide that each non-sale transfer of cut flowers or cut greensto a retailer from a qualified handler that is a distribution center (as described in section 6802(4)(A)(ii)(II) of this title), and each direct sale of cut flowers or cut greens to a consumer by a qualified handler that is an importer or a producer (as described in section 6802(4)(A)(iii) of this title), shall be treated as a sale of cut flowers or cut greens to a retailer subject to assessments under this subsection.
 
 #### (II) Amount of sale in the case of non-sale transfers and direct sales by importers
 
@@ -428,7 +428,7 @@ The order shall provide that the PromoFlor Council shall, as soon as practicable
 
 #### (B) Criteria and responsibility for determinations
 
-&emsp;&emsp;The PromoFlor Council may grant a postponement under subparagraph (A) only if the handler demonstrates by the submission of an opinion of an independent certified public accountant, and by submission of other documentation required under the rules established under subparagraph (A)(ii), that thehandler is insolvent or will be unable to continue to operate if the handler is required to pay the assessment when otherwise due.
+&emsp;&emsp;The PromoFlor Council may grant a postponement under subparagraph (A) only if the handler demonstrates by the submission of an opinion of an independent certified public accountant, and by submission of other documentation required under the rules established under subparagraph (A)(ii), that the handler is insolvent or will be unable to continue to operate if the handler is required to pay the assessment when otherwise due.
 
 #### (C) Period of postponement
 
@@ -508,7 +508,9 @@ The order shall contain such other terms and provisions, consistent with this ch
 
 (Pub. L. 103–190, §5, Dec. 14, 1993, 107 Stat. 2272.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Departmentof Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 

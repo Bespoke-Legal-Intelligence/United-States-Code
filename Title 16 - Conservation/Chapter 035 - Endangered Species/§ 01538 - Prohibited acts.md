@@ -28,11 +28,11 @@
 
 &emsp;(D) sell or offer for sale in interstate or foreign commerce any such species; or
 
-&emsp;(E) violate any regulation pertaining to such species or to any threatened species of plants listed pursuant to section 1533 of this title and promulgated by the Secretary pursuant to authority provided by this chapter.
+&emsp;(E) violate any regulation pertaining to such species or to any threatened species of plantslisted pursuant to section 1533 of this title and promulgated by the Secretary pursuant to authority provided by this chapter.
 
 #### (b) Species held in captivity or controlled environment
 
-(1) The provisions of subsections (a)(1)(A) and (a)(1)(G) of this section shall not apply to any fish or wildlife which was held in captivity or in a controlled environment on (A) December 28, 1973, or (B) the date of the publication in the Federal Register of a final regulation adding such fish or wildlife species to any list published pursuant to subsection (c) of section 1533 of this title: <i>Provided</i>, That such holding and any subsequent holding or use of the fish or wildlife was not in the course of a commercial activity. With respect to any act prohibited by subsections (a)(1)(A) and (a)(1)(G) of this section which occurs after a period of 180 days from (i) December 28, 1973, or (ii) the date of publication in the Federal Register of a final regulation adding such fish or wildlife species to any list publishedpursuant to subsection (c) of section 1533 of this title, there shall be a rebuttable presumption that the fish or wildlife involved in such act is not entitled to the exemption contained in this subsection.
+(1) The provisions of subsections (a)(1)(A) and (a)(1)(G) of this section shall not apply to any fish or wildlife which was held in captivity or in a controlled environment on (A) December 28, 1973, or (B) the date of the publication in the Federal Register of a final regulation adding such fish or wildlife species to any list published pursuant to subsection (c) of section 1533 of this title: <i>Provided</i>, That such holding and any subsequent holding or use of the fish or wildlife was not in the course of a commercial activity. With respect to any act prohibited by subsections (a)(1)(A) and (a)(1)(G) of this section which occurs after a period of 180 days from (i) December 28, 1973, or (ii) the date of publication in the Federal Register of a final regulation adding such fish or wildlife species to any list published pursuant to subsection (c) of section 1533 of this title, there shall be a rebuttable presumption that the fish or wildlife involved in such act is not entitled to the exemption contained in this subsection.
 
 (2)(A) The provisions of subsection (a)(1) shall not apply to—
 
@@ -94,7 +94,7 @@ It is unlawful for any person importing or exporting fish or wildlife (other tha
 
 #### (f) Designation of ports
 
-(1) It is unlawful for any person subject to the jurisdiction of the United States to import into or export from the United States any fish or wildlife (other than shellfish and fishery products which (A) are not listed pursuant to section 1533 of this title as endangered species or threatened species, and (B) are imported for purposes of human or animal consumption or taken in waters under the jurisdiction of the United States or on the high seas for recreational purposes) or plants, except at a port or ports designated by the Secretary of the Interior. For the purpose of facilitating enforcement of this chapter and reducing the costs thereof, the Secretary of the Interior, with approval of the Secretary of the Treasury and after notice and opportunity for public hearing, may, by regulation, designate ports and change such designations. The Secretary of the Interior, under such terms and conditions as he may prescribe, may permit the importation or exportation at nondesignatedports in the interest of the health or safety of the fish or wildlife or plants, or for other reasons, if, in his discretion, he deems it appropriate and consistent with the purpose of this subsection.
+(1) It is unlawful for any person subject to the jurisdiction of the United States to import into or export from the United States any fish or wildlife (other than shellfish and fishery products which (A) are not listed pursuant to section 1533 of this title as endangered species or threatened species, and (B) are imported for purposes of human or animal consumption or taken in waters under the jurisdiction of the United States or on the high seas for recreational purposes) or plants, except at a port or ports designated by the Secretary of the Interior. For the purpose of facilitating enforcement of this chapter and reducing the costs thereof, the Secretary of the Interior, with approval of the Secretary of the Treasury and after notice and opportunity for public hearing, may, by regulation, designate ports and change such designations. The Secretary of the Interior, under such terms and conditions as he may prescribe, may permit the importation or exportation at nondesignated ports in the interest of the health or safety of the fish or wildlife or plants, or for other reasons, if, in his discretion, he deems it appropriate and consistent with the purpose of this subsection.
 
 (2) Any port designated by the Secretary of the Interior under the authority of section 668cc–4(d) <sup>1</sup> of this title, shall, if such designation is in effect on December 27, 1973, be deemed to be a port designated by the Secretary under paragraph (1) of this subsection until such time as the Secretary otherwise provides.
 
@@ -103,6 +103,8 @@ It is unlawful for any person importing or exporting fish or wildlife (other tha
 It is unlawful for any person subject to the jurisdiction of the United States to attempt to commit, solicit another to commit, or cause to be committed, any offense defined in this section.
 
 (Pub. L. 93–205, §9, Dec. 28, 1973, 87 Stat. 893; Pub. L. 95–632, §4, Nov. 10, 1978, 92 Stat. 3760; Pub. L. 97–304, §9(b), Oct. 13, 1982, 96 Stat. 1426; Pub. L. 100–478, title I, §1006, title II, §2301, Oct. 7, 1988, 102 Stat. 2308, 2321; Pub. L. 100–653, title IX, §905, Nov. 14, 1988, 102 Stat. 3835.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -125,6 +127,8 @@ Subsec. (b)(1). Pub. L. 97–304, §9(b)(2), substituted "The provisions of subs
 Subsec. (b)(2)(A). Pub. L. 97–304, §9(b)(3), substituted "The provisions of subsection (a)(1) shall not apply to" for "This section shall not apply to" in provisions preceding cl. (i).
 
 <b>1978</b>—Subsec. (b). Pub. L. 95–632 designated existing provision as par. (1) and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Exemption of Exportation of Certain Echinoderms From Permission and Licensing Requirements
 
@@ -170,7 +174,7 @@ Covered Fish or Wildlife.—The fish or wildlife referred to in subsection (b) a
 
 &emsp;"(2)(A) are harvested in waters under State jurisdiction; or
 
-&emsp;"(B) are imported for processing in the United States pursuant to an import license as required under section 14.91 of title 50, Code of Federal Regulations (or a successor regulation), and not exemptfrom import license requirements under section 14.92 of that title (as in effect on the day before the date of enactment of this Act); and
+&emsp;"(B) are imported for processing in the United States pursuant to an import license as required under section 14.91 of title 50, Code of Federal Regulations (or a successor regulation), and not exempt from import license requirements under section 14.92 of that title (as in effect on the day before the date of enactment of this Act); and
 
 &emsp;"(3) are exported for purposes of human or animal consumption.
 
@@ -205,6 +209,8 @@ Lawful Approaches.—In waters of the United States surrounding the State of Haw
 "(b)
 
 Termination of Legal Effect of Certain Regulations.—Subsection (b) of section 222.31 of title 50, Code of Federal Regulations, shall cease to be in force and effect."
+
+#### <b>Executive Documents</b>
 
 #### Territorial Sea of United States
 

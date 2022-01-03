@@ -78,7 +78,7 @@
 
 (B) Notwithstanding subparagraph (A), if a phased retiree does not make such a deposit and dies in service as a phased retiree, a survivor of the phased retiree shall have the same right to make such deposit as would have been available had the employee not entered phased retirement status and died in service.
 
-(C) If a phased retiree makes an election for an actuarial annuity reduction under section8334(d)(2) and dies in service as a phased retiree, the amount of any deposit upon which such actuarial reduction shall have been based shall be deemed to have been fully paid.
+(C) If a phased retiree makes an election for an actuarial annuity reduction under section 8334(d)(2) and dies in service as a phased retiree, the amount of any deposit upon which such actuarial reduction shall have been based shall be deemed to have been fully paid.
 
 (7) A phased retirement annuity shall commence on the date on which a phased retiree enters phased employment.
 

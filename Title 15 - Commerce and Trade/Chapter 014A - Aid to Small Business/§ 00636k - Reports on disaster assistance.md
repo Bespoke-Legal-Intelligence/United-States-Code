@@ -94,7 +94,7 @@ On the same date that the Administrator notifies any committee of the Senate or 
 
 #### (1) In general
 
-&emsp;Not later than 6 months after the date on which the President declares a major disaster, and every 6 months thereafter until the date that is 18 months after the date on which the major disaster was declared, the Administrator shall submit a report to the Committee on Small Business and Entrepreneurship of the Senate and to the Committee on Small Business of the House of Representatives regarding Federal contracts awarded as a result of that major disaster.
+&emsp;Not later than 6 months after the date on which the President declares a major disaster, and every 6 months thereafter until the date that is 18 months after the date on which the major disaster was declared, the Administrator shall submit a report to the Committee on Small Business and Entrepreneurship of theSenate and to the Committee on Small Business of the House of Representatives regarding Federal contracts awarded as a result of that major disaster.
 
 #### (2) Contents
 
@@ -136,6 +136,8 @@ On the same date that the Administrator notifies any committee of the Senate or 
 
 (Pub. L. 110–234, title XII, §12091, May 22, 2008, 122 Stat. 1423; Pub. L. 110–246, §4(a), title XII, §12091, June 18, 2008, 122 Stat. 1664, 2185.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 636(b) of this title, as amended by this Act, referred to in subsec. (c)(1), is section 636(b) of this title, as amended by Pub. L. 110–246.
@@ -149,6 +151,8 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 Section is comprised of section 12091 of Pub. L. 110–246. Subsec. (g) of section 12091 of Pub. L. 110–246 enacted section 657o of this title.
 
 Section was enacted as part of the Food, Conservation, and Energy Act of 2008, and also as part of the Small Business Disaster Response and Loan Improvements Act of 2008, and not as part of the Small Business Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

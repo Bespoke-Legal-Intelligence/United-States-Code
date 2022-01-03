@@ -114,7 +114,7 @@ Reporting company.—The term "reporting company"—
 
 &emsp;&emsp;&emsp;&emsp;(III) section 202(a) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–2(a));
 
-&emsp;&emsp;&emsp;(iv) a Federal credit union or a State credit union (as those terms are defined in section 101 of the Federal Credit Union Act (12 U.S.C. 1752));
+&emsp;&emsp;&emsp;(iv) a Federal credit union or a State credit union (as those terms are defined insection 101 of the Federal Credit Union Act (12 U.S.C. 1752));
 
 &emsp;&emsp;&emsp;(v) a bank holding company (as defined in section 2 of the Bank Holding Company Act of 1956 (12 U.S.C. 1841)) or a savings and loan holding company (as defined in section 10(a) of the Home Owners' Loan Act (12 U.S.C. 1467a(a)));
 
@@ -194,7 +194,7 @@ Reporting company.—The term "reporting company"—
 
 &emsp;&emsp;&emsp;&emsp;(III) has an operating presence at a physical office within the United States;
 
-&emsp;&emsp;&emsp;(xxii) any corporation, limited liability company, or other similar entity of which the ownership interests are owned or controlled, directly or indirectly, by 1 or more entities described in clause (i), (ii), (iii), (iv), (v), (vii), (viii), (ix), (x), (xi), (xii), (xiii), (xiv), (xv), (xvi), (xvii) (xix), or (xxi);
+&emsp;&emsp;&emsp;(xxii) any corporation, limited liability company, or other similar entity of which the ownership interests are owned or controlled, directly or indirectly, by 1 or more entities described in clause (i), (ii), (iii), (iv), (v), (vii), (viii), (ix), (x), (xi), (xii), (xiii), (xiv), (xv), (xvi), (xvii) <sup>1</sup> (xix), or (xxi);
 
 &emsp;&emsp;&emsp;(xxiii) any corporation, limited liability company, or other similar entity—
 
@@ -248,7 +248,7 @@ Reporting at time of formation or registration.—In accordance with regulations
 
 &emsp;&emsp;(D)
 
-Updated reporting for changes in beneficial ownership.—In accordance with regulations prescribed by the Secretary of the Treasury, a reporting company shall, in a timely manner, and not later than 1 year after the date on which there is a change with respect to any information described inparagraph (2), submit to FinCEN a report that updates the information relating to the change.
+Updated reporting for changes in beneficial ownership.—In accordance with regulations prescribed by the Secretary of the Treasury, a reporting company shall, in a timely manner, and not later than 1 year after the date on which there is a change with respect to any information described in paragraph (2), submit to FinCEN a report that updates the information relating to the change.
 
 &emsp;&emsp;(E)
 
@@ -256,9 +256,9 @@ Treasury review of updated reporting for changes in beneficial ownership.—The 
 
 &emsp;&emsp;&emsp;(i) the necessity of a requirement for corporations, limited liability companies, or other similar entities to update the report on beneficial ownership information in paragraph (2), related to a change in ownership, within a shorter period of time than required under subparagraph (D), taking into account the updating requirements under subparagraph (D) and the information contained in the reports;
 
-&emsp;&emsp;&emsp;(ii) the benefit to law enforcement and national security officials that might be derived from,<sup>1</sup> and the burden that a requirement to update the list of beneficial owners within a shorter period of time after a change in the list of beneficial owners would impose on corporations, limited liability companies, or other similar entities; and
+&emsp;&emsp;&emsp;(ii) the benefit to law enforcement and national security officials that might be derived from,<sup>2</sup> and the burden that a requirement to update the list of beneficial owners within a shorter period of time after a change in the list of beneficial owners would impose on corporations, limited liability companies, or other similar entities; and
 
-&emsp;&emsp;&emsp;(iii) not later than 2 years after the date of enactment of this section, incorporate <sup>1</sup> into the regulations, as appropriate, any changes necessary to implement the findings and determinations based on the review required under this subparagraph.
+&emsp;&emsp;&emsp;(iii) not later than 2 years after the date of enactment of this section, incorporate <sup>2</sup> into the regulations, as appropriate, any changes necessary to implement the findings and determinations based on the review required under this subparagraph.
 
 &emsp;&emsp;(F)
 
@@ -412,7 +412,7 @@ Scope of disclosure by fincen.—FinCEN may disclose beneficial ownership inform
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) limits the use of the information for any purpose other than the authorized investigation or national security or intelligence activity;
 
-&emsp;&emsp;&emsp;(iii) a request made by a financial institution subject to customer due diligencerequirements, with the consent of the reporting company, to facilitate the compliance of the financial institution with customer due diligence requirements under applicable law; or
+&emsp;&emsp;&emsp;(iii) a request made by a financial institution subject to customer due diligence requirements, with the consent of the reporting company, to facilitate the compliance of the financial institution with customer due diligence requirements under applicable law; or
 
 &emsp;&emsp;&emsp;(iv) a request made by a Federal functional regulator or other appropriate regulatory agency consistent with the requirements of subparagraph (C).
 
@@ -552,9 +552,9 @@ In general.—Not later than March 31 of each year for 5 years beginning in 2022
 
 &emsp;&emsp;&emsp;&emsp;(II) provide for robust and effective implementation and enforcement of the provisions of the Anti-Money Laundering Act of 2020 and the amendments made by that Act;
 
-&emsp;&emsp;&emsp;(iii) strengthen <sup>1</sup> FinCEN management efforts, as necessary and as identified by the Director, to meet the requirements of the Anti-Money Laundering Act of 2020 and the amendments made by that Act;
+&emsp;&emsp;&emsp;(iii) strengthen <sup>2</sup> FinCEN management efforts, as necessary and as identified by the Director, to meet the requirements of the Anti-Money Laundering Act of 2020 and the amendments made by that Act;
 
-&emsp;&emsp;&emsp;(iv) provide <sup>1</sup> for the necessary public outreach to ensure the broad dissemination of information regarding any new program requirements provided for in theAnti-Money Laundering Act of 2020 and the amendments made by that Act, including—
+&emsp;&emsp;&emsp;(iv) provide <sup>2</sup> for the necessary public outreach to ensure the broad dissemination of information regarding any new program requirements provided for in the Anti-Money Laundering Act of 2020 and the amendments made by that Act, including—
 
 &emsp;&emsp;&emsp;&emsp;(I) educating the business community on the goals and operations of the new beneficial ownership database; and
 
@@ -632,7 +632,7 @@ Penalties.—
 
 Reporting violations.—It shall be unlawful for any person to—
 
-&emsp;&emsp;(A) willfully provide, or attempt to provide, false or fraudulent beneficial ownership information, including a false or fraudulentidentifying photograph or document, to FinCEN in accordance with subsection (b); or
+&emsp;&emsp;(A) willfully provide, or attempt to provide, false or fraudulent beneficial ownership information, including a false or fraudulent identifying photograph or document, to FinCEN in accordance with subsection (b); or
 
 &emsp;&emsp;(B) willfully fail to report complete or updated beneficial ownership information to FinCEN in accordance with subsection (b).
 
@@ -664,7 +664,7 @@ Unauthorized disclosure or use violations.—Any person that violates paragraph 
 
 &emsp;&emsp;&emsp;(ii)(I) shall be fined not more than $250,000, or imprisoned for not more than 5 years, or both; or
 
-&emsp;&emsp;&emsp;(II) while violating another law of the United States or as part of a pattern of any illegal activity involving more than $100,000 in a 12-month period, shall be fined not more than $500,000, imprisoned for not more than 10 years, or both.
+&emsp;&emsp;&emsp;(II) while violating another law of the United States or as part of a pattern of any illegal activity involving more than $100,000 in a 12-month period, shall be finednot more than $500,000, imprisoned for not more than 10 years, or both.
 
 &emsp;&emsp;(C)
 
@@ -828,7 +828,9 @@ In general.—Not later than 2 years after the date of enactment of this Act \[J
 
 "(2)
 
-Applicability.—The revision required under paragraph (1) shall not apply to a covered contractor or subcontractor, as defined in section 847\[(a)(3)\] of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92) \[10 U.S.C. 2509 note\], that is subject to the beneficial ownership disclosure and review requirements under that section."
+Applicability.—The revision required under paragraph (1) shall not apply to a covered contractor or subcontractor, as defined in section 847\[(a)(3)\] of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92) \[10 U.S.C. 4819 note\], that is subject to the beneficial ownership disclosure and review requirements under that section."
 
-<i><sup>1</sup></i><i> So in original.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
+
+<i><sup>2</sup></i><i> So in original.</i>
 

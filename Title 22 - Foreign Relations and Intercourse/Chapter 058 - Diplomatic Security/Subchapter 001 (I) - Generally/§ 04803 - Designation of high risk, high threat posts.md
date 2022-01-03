@@ -10,7 +10,7 @@ Before opening or reopening a diplomatic or consular post, the Secretary shall d
 
 #### (c) Designating existing posts
 
-The Secretary shall regularly review existing diplomatic and consular posts to determine if any such post should be designated as a high risk, high threat post if conditions at such post or the surrounding security environment require such a designation.
+The Secretary shall regularly review existing diplomatic and consular posts to determine ifany such post should be designated as a high risk, high threat post if conditions at such post or the surrounding security environment require such a designation.
 
 #### (d) Definitions
 

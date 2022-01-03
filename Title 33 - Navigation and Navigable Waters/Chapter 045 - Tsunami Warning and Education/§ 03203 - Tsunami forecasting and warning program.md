@@ -218,7 +218,7 @@ Pub. L. 115–25, §504(b)(3), redesignated par. (4) as (5). Former par. (5) red
 
 Subsec. (b)(6). Pub. L. 115–25, §504(b)(3), redesignated par. (5) as (6). Former par. (6) redesignated (7).
 
-Subsec. (b)(7). Pub. L. 115–25, §504(b)(6), amended par. (7) generally. Prior to amendment, par. (7) read as follows: "include a cooperative effort among the Administration, the United States Geological Survey, and theNational Science Foundation under which the Geological Survey and the National Science Foundation shall provide rapid and reliable seismic information to the Administration from international and domestic seismic networks;".
+Subsec. (b)(7). Pub. L. 115–25, §504(b)(6), amended par. (7) generally. Prior to amendment, par. (7) read as follows: "include a cooperative effort among the Administration, the United States Geological Survey, and the National Science Foundation under which the Geological Survey and the National Science Foundation shall provide rapid and reliable seismic information to the Administration from international and domestic seismic networks;".
 
 Pub. L. 115–25, §504(b)(3), redesignated par. (6) as (7). Former par. (7) redesignated (8).
 

@@ -4,6 +4,8 @@ All moneys paid to any customs officer for unascertained duties or for duties pa
 
 (June 17, 1930, ch. 497, title IV, §512, 46 Stat. 734; Pub. L. 91–271, title III, §301(q), June 2, 1970, 84 Stat. 290.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in R.S. §3010, which was superseded by act Sept. 21, 1922, ch. 356, title IV, §512, 42 Stat. 969, and was repealed by section 642 thereof. Section 512 of the 1922 act was superseded by section 512 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
@@ -11,6 +13,8 @@ Provisions similar to those in this section were contained in R.S. §3010, which
 #### Amendments
 
 <b>1970</b>—Pub. L. 91–271 substituted references to customs officers for references to collectors wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1970 Amendment
 

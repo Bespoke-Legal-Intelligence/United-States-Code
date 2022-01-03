@@ -56,7 +56,7 @@
 
 &emsp;&emsp;Not later than July 1, 2021, the Secretary, in consultation with the Secretary of Labor and the Secretary of Health and Human Services, shall establish through rulemaking—
 
-&emsp;&emsp;&emsp;(i) the methodology the group health plan shall use to determine the qualifyingpayment amount, differentiating by large group market and small group market;
+&emsp;&emsp;&emsp;(i) the methodology the group health plan shall use to determine the qualifying payment amount, differentiating by large group market and small group market;
 
 &emsp;&emsp;&emsp;(ii) the information such plan or issuer, respectively, shall share with the nonparticipating provider or nonparticipating facility, as applicable, when making such a determination;
 
@@ -106,7 +106,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) Such provider furnishing such additional items and services satisfies the notice and consent criteria of section 2799B–2(d) <sup>1</sup> with respect to such items and services.
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) Such individual is in a condition to receive (as determined in accordance with guidelines issued by the Secretary pursuant to rulemaking) the information described in section 2799B–2 <sup>1</sup>and to provide informed consent under such section, in accordance with applicable State law.
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) Such individual is in a condition to receive (as determined in accordance with guidelines issued by the Secretary pursuant to rulemaking) the information described in section 2799B–2 <sup>1</sup> and to provide informed consent under such section, in accordance with applicable State law.
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(dd) Such other conditions, as specified by the Secretary, such as conditions relating to coordinating care transitions to participating providers and facilities.
 
@@ -176,7 +176,7 @@
 
 #### (III) Newly covered item or service
 
-&emsp;&emsp;&emsp;&emsp;The term "newly covered item or service" means, with respect to a group health plan, an item or service for which coverage was not offered in 2019 under such plan or coverage, but is offered under such plan or coverage in a year after 2019.
+&emsp;&emsp;&emsp;&emsp;The term "newly covered item or service" means, with respect to a group health plan, an item or service for whichcoverage was not offered in 2019 under such plan or coverage, but is offered under such plan or coverage in a year after 2019.
 
 #### (F) Nonparticipating emergency facility; participating emergency facility
 
@@ -204,7 +204,7 @@
 
 &emsp;&emsp;&emsp;(i) subject to clause (iii), in the case of such item or service furnished in a State that has in effect a specified State law with respect to such plan; such a nonparticipating provider or nonparticipating emergency facility; and such an item or service, the amount determined in accordance with such law;
 
-&emsp;&emsp;&emsp;(ii) subject to clause (iii), in the case of such item or service furnished in a State that does not have in effect a specified State law, with respect to such plan; such a nonparticipating provider or nonparticipating emergency facility; and such an item or service, the amount that is the qualifying payment amount (as defined insubparagraph (E)) <sup>2</sup> for such year and determined in accordance with rulemaking described in paragraph (2)(B)) <sup>2</sup> for such item or service; or
+&emsp;&emsp;&emsp;(ii) subject to clause (iii), in the case of such item or service furnished in a State that does not have in effect a specified State law, with respect to such plan; such a nonparticipating provider or nonparticipating emergency facility; and such an item or service, the amount that is the qualifying payment amount (as defined in subparagraph (E)) <sup>2</sup> for such year and determined in accordance with rulemaking described in paragraph (2)(B)) <sup>2</sup> for such item or service; or
 
 &emsp;&emsp;&emsp;(iii) in the case of such item or service furnished in a State with an All-Payer Model Agreement under section 1115A of the Social Security Act, the amount that the State approves under such system for such item or service so furnished.
 
@@ -226,7 +226,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) subject to subclause (II), if the provider or facility (as applicable) and such plan or coverage agree on an amount of payment (including if such agreed on amount is the initial payment sent by the plan under subsection (a)(1)(C)(iv)(I), subsection (b)(1)(C), or section 9817(a)(3)(A), as applicable, or is agreed on through open negotiations under subsection (c)(1)) with respect to such item or service, such agreed on amount; or
 
-&emsp;&emsp;&emsp;&emsp;(II) if such provider or facility (as applicable) and such plan or coverage enter the independent dispute resolution process under subsection (c) and do not so agree before the date on which a certified IDR entity (as defined in paragraph (4) of such subsection) makes a determination with respect to such item or service under such subsection, the amount of such determination; or
+&emsp;&emsp;&emsp;&emsp;(II) if such provider or facility (as applicable) and such plan or coverage enterthe independent dispute resolution process under subsection (c) and do not so agree before the date on which a certified IDR entity (as defined in paragraph (4) of such subsection) makes a determination with respect to such item or service under such subsection, the amount of such determination; or
 
 &emsp;&emsp;&emsp;(iii) in the case such State has an All-Payer Model Agreement under section 1115A of the Social Security Act, the amount that the State approves under such system for such item or service so furnished.
 
@@ -432,7 +432,7 @@
 
 #### (D) Prohibition on consideration of certain factors
 
-&emsp;&emsp;In determining which offer is the payment to be applied with respect to qualified IDR items and services furnished by a provider orfacility, the certified IDR entity with respect to a determination shall not consider usual and customary charges, the amount that would have been billed by such provider or facility with respect to such items and services had the provisions of section 2799B–1 of the Public Health Service Act or 2799B–2 of such Act (as applicable) not applied, or the payment or reimbursement rate for such items and services furnished by such provider or facility payable by a public payor, including under the Medicare program under title XVIII of the Social Security Act, under the Medicaid program under title XIX of such Act, under the Children's Health Insurance Program under title XXI of such Act, under the TRICARE program under chapter 55 of title 10, United States Code, or under chapter 17 of title 38, United States Code.
+&emsp;&emsp;In determining which offer is the payment to be applied with respect to qualified IDR items and services furnished by a provider or facility, the certified IDR entity with respect to a determination shall not consider usual and customary charges, the amount that would have been billed by such provider or facility with respect to such items and services had the provisions of section 2799B–1 of the Public Health Service Act or 2799B–2 of such Act (as applicable) not applied, or the payment or reimbursement rate for such items and services furnished by such provider or facility payable by a public payor, including under the Medicare program under title XVIII of the Social Security Act, under the Medicaid program under title XIX of such Act, under the Children's Health Insurance Program under title XXI of such Act, under the TRICARE program under chapter 55 of title 10, United States Code, or under chapter 17 of title 38, United States Code.
 
 #### (E) Effects of determination
 
@@ -552,7 +552,7 @@ A group health plan providing or covering any benefit with respect to items or s
 
 #### (1) In general
 
-&emsp;For plan years beginning on or after January 1, 2022, each group health plan shall, withrespect to a notification submitted under section 2799B–6 of the Public Health Service Act by a health care provider or health care facility to the plan for a participant or beneficiary under plan scheduled to receive an item or service from the provider or facility (or authorized representative of such participant or beneficiary), not later than 1 business day (or, in the case such item or service was so scheduled at least 10 business days before such item or service is to be furnished (or in the case of a request made to such plan or coverage by such participant or beneficiary), 3 business days) after the date on which the plan receives such notification (or such request), provide to the participant or beneficiary (through mail or electronic means, as requested by the participant or beneficiary) a notification (in clear and understandable language) including the following:
+&emsp;For plan years beginning on or after January 1, 2022, each group health plan shall, with respect to a notification submitted under section 2799B–6 of the Public Health Service Act by a health care provider or health care facility to the plan for a participant or beneficiary under plan scheduled to receive an item or service from the provider or facility (or authorized representative of such participant or beneficiary), not later than 1 business day (or, in the case such item or service was so scheduled at least 10 business days before such item or service is to be furnished (or in the case of a request made to such plan or coverage by such participant or beneficiary), 3 business days) after the date on which the plan receives such notification (or such request), provide to the participant or beneficiary (through mail or electronic means, as requested by the participant or beneficiary) a notification (in clear and understandable language) including the following:
 
 &emsp;&emsp;(A) Whether or not the provider or facility is a participating provider or a participating facility with respect to the plan with respect to the furnishing of such item or service and—
 
@@ -568,7 +568,7 @@ A group health plan providing or covering any benefit with respect to items or s
 
 &emsp;&emsp;(E) A good faith estimate of the amount that the participant or beneficiary has incurred toward meeting the limit of the financial responsibility (including with respect to deductibles and out-of-pocket maximums) under the plan (as of the date of such notification).
 
-&emsp;&emsp;(F) In the case such item or service is subject to a medical management technique (including concurrent review, prior authorization, and step-therapy or fail-first protocols) for coverage under the plan, a disclaimer that coverage for such item or service is subject to such medical management technique.
+&emsp;&emsp;(F) In the case such item or service is subject to a medical management technique (including concurrent review, prior authorization, and step-therapy or fail-first protocols) for coverage under the plan, a disclaimerthat coverage for such item or service is subject to such medical management technique.
 
 &emsp;&emsp;(G) A disclaimer that the information provided in the notification is only an estimate based on the items and services reasonably expected, at the time of scheduling (or requesting) the item or service, to be furnished and is subject to change.
 
@@ -589,6 +589,8 @@ A group health plan providing or covering any benefit with respect to items or s
 #### Applicability of Amendment
 
 <i>Amendment of section by section 107(c) of div. BB of Pub. L. 116–260 applicable with respect to plan years beginning on or after Jan. 1, 2022. See 2020 Amendment note below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -621,6 +623,8 @@ Section 2799B–6 of the Public Health Service Act, referred to in subsec. (f)(1
 Subsec. (e). Pub. L. 116–260, §107(c), added subsec. (e).
 
 Subsec. (f). Pub. L. 116–260, §111(b), added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 

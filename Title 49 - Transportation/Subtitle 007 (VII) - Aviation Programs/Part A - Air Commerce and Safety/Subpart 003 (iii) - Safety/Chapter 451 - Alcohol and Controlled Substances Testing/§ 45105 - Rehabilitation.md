@@ -38,9 +38,13 @@ In subsection (a), the words "of air carriers and foreign air carriers" are adde
 
 This amends 49:45105(a) to correct an error in the codification enacted by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1224).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–429 substituted "section 45102(a)(1)" for "section 45102(a)(1)(A)" in second sentence.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

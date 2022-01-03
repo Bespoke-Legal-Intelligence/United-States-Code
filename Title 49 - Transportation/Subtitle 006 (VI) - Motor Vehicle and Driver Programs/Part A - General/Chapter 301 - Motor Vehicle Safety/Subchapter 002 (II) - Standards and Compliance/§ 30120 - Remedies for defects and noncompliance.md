@@ -24,7 +24,7 @@ Tire Remedies.—(1) A manufacturer of a tire, including an original equipment t
 
 &emsp;(B) if the manufacturer decides to replace the tire, the day the owner or purchaser receives notification that a replacement is available.
 
-(2) If the manufacturer decides to replace the tire and the replacement is not available during the 180-day period, the owner or purchaser must present the tire for remedy during a subsequent 180-day period that begins only after the owneror purchaser receives notification that a replacement will be available during the subsequent period. If tires are available during the subsequent period, only a tire presented for remedy during that period must be remedied.
+(2) If the manufacturer decides to replace the tire and the replacement is not available during the 180-day period, the owner or purchaser must present the tire for remedy during a subsequent 180-day period that begins only after the owner or purchaser receives notification that a replacement will be available during the subsequent period. If tires are available during the subsequent period, only a tire presented for remedy during that period must be remedied.
 
 (c)
 
@@ -46,7 +46,7 @@ Adequacy of Repairs.—(1) If a manufacturer decides to repair a defective or no
 
 (d)
 
-Filing Manufacturer's Remedy Program.—A manufacturer shall file with the Secretary a copy of the manufacturer's program under this section for remedying a defect or noncompliance. The Secretary shall make the program available to the public and publish a notice of availability in the Federal Register. A manufacturer's remedy program shall include a plan for reimbursing an owner or purchaser who incurred the cost of the remedy within a reasonable time in advance of the manufacturer's notification under subsection (b) or (c) of section 30118. The Secretary may prescribe regulations establishing what constitutes a reasonable time for purposes of the preceding sentence and other reasonable conditions for the reimbursement plan. In the case of a remedy program involving the replacement of tires, the manufacturer shall include a plan addressing how to prevent, to the extent reasonably within the control of the manufacturer, replaced tires from being resold for installation on a motor vehicle, and how to limit, to the extent reasonably within the control of the manufacturer, the disposal of replaced tires in landfills, particularly through shredding, crumbling, recycling, recovery, and other alternative beneficial non-vehicular uses. The manufacturer shall include information about the implementation of such plan with each quarterly report to the Secretary regarding the progress of any notification or remedy campaigns.
+Filing Manufacturer's Remedy Program.—A manufacturer shall file with the Secretary a copy of the manufacturer's program under this section for remedying a defect or noncompliance. The Secretary shall make the program available to the public and publish a notice of availability in the Federal Register. A manufacturer's remedy program shall include a plan for reimbursing an owner or purchaser who incurred the cost of the remedy within a reasonable time in advance of the manufacturer's notification under subsection (b) or (c) of section 30118. The Secretary may prescribe regulationsestablishing what constitutes a reasonable time for purposes of the preceding sentence and other reasonable conditions for the reimbursement plan. In the case of a remedy program involving the replacement of tires, the manufacturer shall include a plan addressing how to prevent, to the extent reasonably within the control of the manufacturer, replaced tires from being resold for installation on a motor vehicle, and how to limit, to the extent reasonably within the control of the manufacturer, the disposal of replaced tires in landfills, particularly through shredding, crumbling, recycling, recovery, and other alternative beneficial non-vehicular uses. The manufacturer shall include information about the implementation of such plan with each quarterly report to the Secretary regarding the progress of any notification or remedy campaigns.
 
 (e)
 
@@ -84,7 +84,7 @@ Limitation on Sale or Lease of New Vehicles or Equipment, or Rental.—
 
 &emsp;(1)
 
-In general.—If notification is required by an order under section 30118(b) of this title or is required under section 30118(c) of thistitle and the manufacturer has provided to a dealer (including retailers of motor vehicle equipment) notification about a new motor vehicle or new item of replacement equipment in the dealer's possession at the time of notification or the manufacturer has provided to a rental company notification about a covered rental vehicle in the company's possession at the time of notification that contains a defect related to motor vehicle safety or does not comply with an applicable motor vehicle safety standard prescribed under this chapter, the dealer or rental company may sell, lease, or rent the motor vehicle or item of replacement equipment only if—
+In general.—If notification is required by an order under section 30118(b) of this title or is required under section 30118(c) of this title and the manufacturer has provided to a dealer (including retailers of motor vehicle equipment) notification about a new motor vehicle or new item of replacement equipment in the dealer's possession at the time of notification or the manufacturer has provided to a rental company notification about a covered rental vehicle in the company's possession at the time of notification that contains a defect related to motor vehicle safety or does not comply with an applicable motor vehicle safety standard prescribed under this chapter, the dealer or rental company may sell, lease, or rent the motor vehicle or item of replacement equipment only if—
 
 &emsp;&emsp;(A) the defect or noncompliance is remedied as required by this section before delivery under the sale, lease, or rental agreement; or
 
@@ -108,7 +108,7 @@ Special rule for large vehicle fleets.—Notwithstanding subparagraph (A), if a 
 
 &emsp;&emsp;(C)
 
-Special rule for when remedies not immediately available.—If a notification required under subsection (b) or (c) of section 30118 indicates that the remedy for the defect or noncompliance is not immediately available and specifies actions to temporarily alter the vehicle that eliminate the safety risk posed by the defect or noncompliance, the rental company, after causing the specified actions to be performed, may rent (but may not sell or lease) the motor vehicle. Once the remedy for the rental vehicle becomes available to the rental company, the rental company may not rent the vehicle until the vehicle has been remedied, as provided in subsection (a).
+Special rule for when remedies not immediately available.—If a notificationrequired under subsection (b) or (c) of section 30118 indicates that the remedy for the defect or noncompliance is not immediately available and specifies actions to temporarily alter the vehicle that eliminate the safety risk posed by the defect or noncompliance, the rental company, after causing the specified actions to be performed, may rent (but may not sell or lease) the motor vehicle. Once the remedy for the rental vehicle becomes available to the rental company, the rental company may not rent the vehicle until the vehicle has been remedied, as provided in subsection (a).
 
 &emsp;&emsp;(D)
 
@@ -128,7 +128,33 @@ Prohibition on Sales of Replacement Equipment.—No person may sell or lease any
 
 &emsp;(2) notification of the defect or noncompliance is required under section 30118(b) but enforcement of the order is set aside in a civil action to which section 30121(d) applies.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 952; Pub. L. 105–178, title VII, §7106(a), June 9, 1998, 112 Stat. 467; Pub. L. 106–414, §§4, 6–8, Nov. 1, 2000, 114 Stat. 1803–1805; Pub. L. 112–141, div. C, title I, §31311, July 6, 2012, 126 Stat. 771; Pub. L. 114–94, div. B, title XXIV, §§24107, 24108, 24109(c), 24402, Dec. 4, 2015, 129 Stat. 1705, 1706, 1720.)
+(k)
+
+Recall Completion Rates.—
+
+&emsp;(1)
+
+In general.—The Administrator of the National Highway Traffic Safety Administration shall publish an annual list of recall completion rates for each recall campaign for which 8 quarterly reports have been submitted under subsection (f) of section 30118 as of the date of publication of the list.
+
+&emsp;(2)
+
+Requirements.—The annual list under paragraph (1) shall include—
+
+&emsp;&emsp;(A) for each applicable campaign—
+
+&emsp;&emsp;&emsp;(i) the total number of vehicles subject to recall; and
+
+&emsp;&emsp;&emsp;(ii) the percentage of vehicles that have been remedied; and
+
+&emsp;&emsp;(B) for each manufacturer submitting an applicable quarterly report under section 30118(f)—
+
+&emsp;&emsp;&emsp;(i) the total number of recalls issued by the manufacturer during the year covered by the list;
+
+&emsp;&emsp;&emsp;(ii) the estimated number of vehicles of the manufacturer subject to recall during the year covered by the list; and
+
+&emsp;&emsp;&emsp;(iii) the percentage of vehicles that have been remedied.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 952; Pub. L. 105–178, title VII, §7106(a), June 9, 1998, 112 Stat. 467; Pub. L. 106–414, §§4, 6–8, Nov. 1, 2000, 114 Stat. 1803–1805; Pub. L. 112–141, div. C, title I, §31311, July 6, 2012, 126 Stat. 771; Pub. L. 114–94, div. B, title XXIV, §§24107, 24108, 24109(c), 24402, Dec. 4, 2015, 129 Stat. 1705, 1706, 1720; Pub. L. 117–58, div. B, title IV, §24202(b), Nov. 15, 2021, 135 Stat. 819.)
 
 Historical and Revision Notes
 
@@ -228,7 +254,7 @@ In subsection (a)(1), before clause (A), the words "Subject to subsections (f) a
 
 Subsection (a)(2) is substituted for 15:1414(a)(2)(A) (last sentence) for clarity.
 
-In subsection (b)(1), before clause (A), the words "shall remedy a defective or noncomplying tire if" are substituted for "shall not be obligated to remedy such tire if such tire is not" to eliminate unnecessary words and for consistency. The words "pursuant to notification" are omitted as surplus. In clause (B), the words "decides to replace the tire" are substituted for "elects replacement" for clarity.
+In subsection (b)(1), before clause (A), the words "shall remedy a defective or noncomplying tire if" aresubstituted for "shall not be obligated to remedy such tire if such tire is not" to eliminate unnecessary words and for consistency. The words "pursuant to notification" are omitted as surplus. In clause (B), the words "decides to replace the tire" are substituted for "elects replacement" for clarity.
 
 Subsection (b)(2) is substituted for 15:1414(a)(5)(B) to eliminate unnecessary words.
 
@@ -244,11 +270,15 @@ In subsection (g)(2), the words "In the case of notification required by an orde
 
 In subsection (h), the words "any requirement under", "or to remedy", and "as it relates" are omitted as surplus. The words "The Secretary may take action under this subsection only" are added because of the restatement.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 201 and 204 of the Anti-Car Theft Act of 1992, referred to in subsec. (i)(3)(D)(i), (iii), are sections 201 and 204 of Pub. L. 102–519, from which sections 30501 and 30504 of this title, respectively, are derived.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (k). Pub. L. 117–58 added subsec. (k).
 
 <b>2015</b>—Subsec. (b)(1). Pub. L. 114–94, §24108(1), substituted "180 days" for "60 days" in introductory provisions.
 
@@ -294,7 +324,7 @@ Replaced", to reflect the probable intent of Congress.
 
 <b>2000</b>—Subsec. (c)(3). Pub. L. 106–414, §6(a), added par. (3).
 
-Subsec. (d). Pub. L. 106–414, §7, inserted at end "In the case of a remedy program involving the replacement of tires, the manufacturer shall include a plan addressing how to prevent, to the extent reasonably within the control of the manufacturer, replaced tires from being resold for installation on a motor vehicle, and how to limit, to the extent reasonably within the control of the manufacturer, the disposal of replaced tires in landfills, particularly through shredding, crumbling, recycling, recovery, and other alternative beneficial non-vehicular uses. The manufacturer shall include information about the implementation of such plan witheach quarterly report to the Secretary regarding the progress of any notification or remedy campaigns."
+Subsec. (d). Pub. L. 106–414, §7, inserted at end "In the case of a remedy program involving the replacement of tires, the manufacturer shall include a plan addressing how to prevent, to the extent reasonably within the control of the manufacturer, replaced tires from being resold for installation on a motor vehicle, and how to limit, to the extent reasonably within the control of the manufacturer, the disposal of replaced tires in landfills, particularly through shredding, crumbling, recycling, recovery, and other alternative beneficial non-vehicular uses. The manufacturer shall include information about the implementation of such plan with each quarterly report to the Secretary regarding the progress of any notification or remedy campaigns."
 
 Pub. L. 106–414, §6(b), inserted at end "A manufacturer's remedy program shall include a plan for reimbursing an owner or purchaser who incurred the cost of the remedy within a reasonable time in advance of the manufacturer's notification under subsection (b) or (c) of section 30118. The Secretary may prescribe regulations establishing what constitutes a reasonable time for purposes of the preceding sentence and other reasonable conditions for the reimbursement plan."
 
@@ -303,6 +333,8 @@ Subsec. (g)(1). Pub. L. 106–414, §4, substituted "10 calendar years" for "8 c
 Subsec. (j). Pub. L. 106–414, §8, added subsec. (j).
 
 <b>1998</b>—Subsec. (i)(1). Pub. L. 105–178 inserted "(including retailers of motor vehicle equipment)" after "provided to a dealer" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

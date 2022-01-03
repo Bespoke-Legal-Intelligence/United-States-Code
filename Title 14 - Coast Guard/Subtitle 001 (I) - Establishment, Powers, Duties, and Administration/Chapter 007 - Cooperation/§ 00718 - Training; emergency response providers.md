@@ -2,9 +2,9 @@
 
 (a)
 
-In General.—The Commandant may, on a reimbursable or a non-reimbursable basis, make a training available to emergency response providers whenever the Commandant determines that—
+In General.—The Commandant may, on a reimbursable or a non-reimbursable basis, makea training available to emergency response providers whenever the Commandant determines that—
 
-&emsp;(1) a member of the Coast Guard, who is scheduled to participate in such training, isunable or unavailable to participate in such training;
+&emsp;(1) a member of the Coast Guard, who is scheduled to participate in such training, is unable or unavailable to participate in such training;
 
 &emsp;(2) no other member of the Coast Guard, who is assigned to the unit to which the member of the Coast Guard who is unable or unavailable to participate in such training is assigned, is able or available to participate in such training; and
 

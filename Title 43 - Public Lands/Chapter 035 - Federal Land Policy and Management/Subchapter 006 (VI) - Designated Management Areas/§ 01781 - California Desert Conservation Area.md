@@ -36,7 +36,7 @@ During the period beginning on October 21, 1976, and ending on the effective dat
 
 #### (f) Applicability of mining laws
 
-Subject to valid existing rights, nothing in this Act shall affect the applicability of the United States mining laws on the public lands within the California Desert Conservation Area, except that all mining claims located on public lands within the California Desert Conservation Area shall be subject to such reasonable regulations as the Secretary may prescribe to effectuate the purposes of this section. Any patent issued on any such mining claim shall recite this limitation and continue to be subject to such regulations. Such regulations shall providefor such measures as may be reasonable to protect the scenic, scientific, and environmental values of the public lands of the California Desert Conservation Area against undue impairment, and to assure against pollution of the streams and waters within the California Desert Conservation Area.
+Subject to valid existing rights, nothing in this Act shall affect the applicability of the United States mining laws on the public lands within the California Desert Conservation Area, except that all mining claims located on public lands within the California Desert Conservation Area shall be subject to such reasonable regulations as the Secretary may prescribe to effectuate the purposes of this section. Any patent issued on any such mining claim shall recite this limitation and continue to be subject to such regulations. Such regulations shall provide for such measures as may be reasonable to protect the scenic, scientific, and environmental values of the public lands of the California Desert Conservation Area against undue impairment, and to assure against pollution of the streams and waters within the California Desert Conservation Area.
 
 #### (g) Advisory Committee; establishment; functions
 
@@ -92,7 +92,7 @@ Pub. L. 103–433, title I, §108, Oct. 31, 1994, 108 Stat. 4483, provided that:
 
 "(a)
 
-Designation.—There is hereby established the Dinosaur Trackway Area of Critical Environmental Concern within the California Desert Conservation Area, of the Bureau of Land Management, comprising approximately five hundred and ninety acres as generally depicted on a map entitled 'Dinosaur Trackway Area of Critical Environmental Concern', dated July 1993. The Secretary \[of the Interior\] shall administer the area to preserve the paleontological resources within the area.
+Designation.—There is hereby established the Dinosaur Trackway Area of Critical EnvironmentalConcern within the California Desert Conservation Area, of the Bureau of Land Management, comprising approximately five hundred and ninety acres as generally depicted on a map entitled 'Dinosaur Trackway Area of Critical Environmental Concern', dated July 1993. The Secretary \[of the Interior\] shall administer the area to preserve the paleontological resources within the area.
 
 "(b)
 

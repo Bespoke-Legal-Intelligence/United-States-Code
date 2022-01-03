@@ -6,7 +6,9 @@ The Secretary of Energy shall develop and implement a multi-year plan for the cl
 
 &emsp;(2) The processing, treating, packaging, and disposal of Department of Energy domestic and foreign spent nuclear fuel rods at the site.
 
-(Pub. L. 107–314, div. D, title XLIV, §4452, formerly Pub. L. 104–201, div. C, title XXXI, §3142(e), Sept. 23, 1996, 110 Stat. 2836; renumbered Pub. L. 107–314, div. D, title XLIV, §4452, by Pub. L. 108–136, div. C, title XXXI, §3141(g)(22), Nov. 24, 2003, 117 Stat. 1769.)
+(Pub. L. 107–314, div. D, title XLIV, §4452, formerly Pub. L. 104–201, div. C, title XXXI, §3142(e), Sept. 23, 1996, 110 Stat. 2836; renumberedPub. L. 107–314, div. D, title XLIV, §4452, by Pub. L. 108–136, div. C, title XXXI, §3141(g)(22), Nov. 24, 2003, 117 Stat. 1769.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

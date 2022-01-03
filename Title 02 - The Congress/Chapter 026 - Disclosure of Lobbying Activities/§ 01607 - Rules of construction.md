@@ -18,7 +18,7 @@ Nothing in this chapter shall be construed to prohibit, or to authorize any cour
 
 #### (c) Audit and investigations
 
-Nothing in this chapter shall be construed to grant general audit or investigative authorityto the Secretary of the Senate or the Clerk of the House of Representatives.
+Nothing in this chapter shall be construed to grant general audit or investigative authority to the Secretary of the Senate or the Clerk of the House of Representatives.
 
 (Pub. L. 104–65, §8, Dec. 19, 1995, 109 Stat. 699.)
 

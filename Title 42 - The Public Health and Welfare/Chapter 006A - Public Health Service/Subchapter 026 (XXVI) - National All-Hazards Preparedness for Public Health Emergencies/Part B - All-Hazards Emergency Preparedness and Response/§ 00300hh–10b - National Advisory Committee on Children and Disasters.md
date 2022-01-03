@@ -42,7 +42,7 @@ The Advisory Committee may provide advice and recommendations to the Secretary w
 
 &emsp;&emsp;&emsp;(iii) at least one such member shall be an individual with expertise in children and youth with special health care needs; and
 
-&emsp;&emsp;&emsp;(iv) at least one such member shall be an individual with expertise in the needs ofparents or family caregivers, including the parents or caregivers of children with disabilities.
+&emsp;&emsp;&emsp;(iv) at least one such member shall be an individual with expertise in the needs of parents or family caregivers, including the parents or caregivers of children with disabilities.
 
 #### (3) Federal members
 
@@ -91,6 +91,8 @@ The Secretary shall coordinate duties and activities authorized under this secti
 The Advisory Committee shall terminate on September 30, 2023.
 
 (July 1, 1944, ch. 373, title XXVIII, §2811A, as added Pub. L. 113–5, title I, §103, Mar. 13, 2013, 127 Stat. 168; amended Pub. L. 116–22, title III, §305(a), June 24, 2019, 133 Stat. 936.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

@@ -152,7 +152,7 @@ The order shall specify the powers and duties of the Board, including the power 
 
 #### (C) Limitation on spending
 
-&emsp;&emsp;For fiscal years beginning 3 or more years after the date of the establishment of the Board, the Board may not expend for administration (except for reimbursement to the Secretary required under subparagraph (D)), maintenance, and functioning of the Board in a fiscal year an amount that exceeds 10 percent of the assessment and other income received by the Board for the fiscal year.
+&emsp;&emsp;For fiscal years beginning 3 or more years after the date of the establishment of the Board, the Board may not expend for administration (except for reimbursement to the Secretary required under subparagraph (D)), maintenance, and functioning of the Board in a fiscal year an amount that exceeds 10percent of the assessment and other income received by the Board for the fiscal year.
 
 #### (D) Reimbursement of Secretary
 

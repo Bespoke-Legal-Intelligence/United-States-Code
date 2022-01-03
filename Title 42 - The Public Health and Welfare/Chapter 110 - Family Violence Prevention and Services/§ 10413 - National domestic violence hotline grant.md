@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall award a grant to 1 or more private entities to provide for the ongoing operation of a 24-hour, national, toll-free telephone hotline to provide information and assistance to adult and youth victims of family violence, domestic violence, or dating violence, family andhousehold members of such victims, and persons affected by the victimization. The Secretary shall give priority to applicants with experience in operating a hotline that provides assistance to adult and youth victims of family violence, domestic violence, or dating violence.
+The Secretary shall award a grant to 1 or more private entities to provide for the ongoing operation of a 24-hour, national, toll-free telephone hotline to provide information and assistance to adult and youth victims of family violence, domestic violence, or dating violence, family and household members of such victims, and persons affected by the victimization. The Secretary shall give priority to applicants with experience in operating a hotline that provides assistance to adult and youth victims of family violence, domestic violence, or dating violence.
 
 #### (b) Term
 
@@ -10,7 +10,7 @@ The Secretary shall award a grant under this section for a period of not more th
 
 #### (c) Conditions on payment
 
-The provision of payments under a grant awarded under this section shall be subject to annual approval by the Secretary and subject to the availability of appropriations for each fiscal year to make the payments.
+The provision of payments under a grant awarded under this section shall be subject toannual approval by the Secretary and subject to the availability of appropriations for each fiscal year to make the payments.
 
 #### (d) Application
 
@@ -77,6 +77,8 @@ To be eligible to receive a grant under this section, an entity shall submit an 
 The entity receiving a grant under this section shall submit a performance report to the Secretary at such time as shall be reasonably required by the Secretary. Such performance report shall describe the activities that have been carried out with such grant funds, contain an evaluation of the effectiveness of such activities, and provide such additional information as the Secretary may reasonably require.
 
 (Pub. L. 98–457, title III, §313, as added Pub. L. 111–320, title II, §201, Dec. 20, 2010, 124 Stat. 3504.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

@@ -4,6 +4,8 @@ The Administrator is authorized, without regard to sections 1341, 1342, and 1349
 
 (Aug. 4, 1955, ch. 543, ch. 9, §94, 69 Stat. 482; Pub. L. 90–190, §3, Dec. 14, 1967, 81 Stat. 576; Pub. L. 94–187, title VI, §601(1), (9), Dec. 31, 1975, 89 Stat. 1077, 1078; Pub. L. 95–238, title II, §205(b), Feb. 25, 1978, 92 Stat. 61; Pub. L. 99–661, div. C, title I, §3138(a), (b)(1), Nov. 14, 1986, 100 Stat. 4066; Pub. L. 104–106, div. C, title XXXI, §3161(d), Feb. 10, 1996, 110 Stat. 627.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 "Sections 1341, 1342, and 1349–1351 and subchapter II of chapter 15 of title 31" substituted in text for "section 3679 of the Revised Statutes \[31 U.S.C. 665\]" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
@@ -12,7 +14,7 @@ The Administrator is authorized, without regard to sections 1341, 1342, and 1349
 
 <b>1996</b>—Pub. L. 104–106 substituted "June 30, 1997" for "June 30, 1996" in two places and "July 1, 1997" for "July 1, 1996".
 
-<b>1986</b>—Pub. L. 99–661, §3138(a), substituted "Los Alamos School Board shall not extend beyond June 30, 1996" for "Los Alamos School Board shall not extendbeyond June 30, 1986" and "New Mexico, shall not extend beyond June 30, 1996" for "New Mexico, shall not extend beyond June 30, 1987".
+<b>1986</b>—Pub. L. 99–661, §3138(a), substituted "Los Alamos School Board shall not extend beyond June 30, 1996" for "Los Alamos School Board shall not extend beyond June 30, 1986" and "New Mexico, shall not extend beyond June 30, 1996" for "New Mexico, shall not extend beyond June 30, 1987".
 
 Pub. L. 99–661, §3138(b)(1), inserted at end "The authority to enter into a contract under the preceding sentence with the Los Alamos School Board and with the county of Los Alamos, New Mexico, shall be effective with respect to a period before July 1, 1996, only to the extent or in such amounts as are provided in appropriation Acts."
 
@@ -21,6 +23,8 @@ Pub. L. 99–661, §3138(b)(1), inserted at end "The authority to enter into a c
 <b>1975</b>—Pub. L. 94–187 substituted "Administrator" for "Commission" in two places and inserted provision that the term of such contracts shall not extend beyond June 30, 1986, in the case of Anderson County and Roane County, Tennessee. The latter amendment was executed in this section, rather than to section 2393, as the probable intent of Congress.
 
 <b>1967</b>—Pub. L. 90–190 inserted proviso, and "or authorized" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

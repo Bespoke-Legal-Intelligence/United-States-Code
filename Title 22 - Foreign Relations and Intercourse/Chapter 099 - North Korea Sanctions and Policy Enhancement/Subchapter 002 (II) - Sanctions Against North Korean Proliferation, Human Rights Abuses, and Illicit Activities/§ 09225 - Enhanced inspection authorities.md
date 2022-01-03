@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(D) identifying vessels, aircraft, and conveyances owned or controlled by the Reconnaissance General Bureau of the Workers' Party of Korea; and
 
-&emsp;&emsp;(E) describing the diplomatic and enforcement efforts by the President to secure thefull implementation of the applicable United Nations Security Council resolutions, as described in subparagraphs (A) through (C).
+&emsp;&emsp;(E) describing the diplomatic and enforcement efforts by the President to secure the full implementation of the applicable United Nations Security Council resolutions, as described in subparagraphs (A) through (C).
 
 #### (2) Form
 

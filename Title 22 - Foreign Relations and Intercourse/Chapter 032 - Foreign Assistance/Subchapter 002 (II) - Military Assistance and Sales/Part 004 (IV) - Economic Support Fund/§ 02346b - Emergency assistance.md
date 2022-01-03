@@ -18,7 +18,7 @@ A prior section 2346b, Pub. L. 87–195, pt. II, §533, as added Pub. L. 97–11
 
 Another prior section 2346b, Pub. L. 87–195, pt. II, §533, as added Pub. L. 96–533, title II, §202, Dec. 16, 1980, 94 Stat. 3143, related to Central American economic support, prior to repeal by Pub. L. 97–113, §202, Dec. 29, 1981, 95 Stat. 1529.
 
-Another prior section 2346b, Pub. L. 87–195, pt. II, §533, as added Pub. L. 95–92, §8(c), Aug. 4, 1977, 91 Stat.618; amended Pub. L. 95–384, §10(a), Sept. 26, 1978, 92 Stat. 735; Pub. L. 96–92, §8(c), Oct. 29, 1979, 93 Stat. 704, provided for a Southern Africa economic support program, including availability of funds and assistance requirements and limitations, prior to repeal by Pub. L. 96–533, title II, §202, Dec. 16, 1980, 94 Stat. 3142.
+Another prior section 2346b, Pub. L. 87–195, pt. II, §533, as added Pub. L. 95–92, §8(c), Aug. 4, 1977, 91 Stat. 618; amended Pub. L. 95–384, §10(a), Sept. 26, 1978, 92 Stat. 735; Pub. L. 96–92, §8(c), Oct. 29, 1979, 93 Stat. 704, provided for a Southern Africa economic support program, including availability of funds and assistance requirements and limitations, prior to repeal by Pub. L. 96–533, title II, §202, Dec. 16, 1980, 94 Stat. 3142.
 
 Another prior section 2346b, Pub. L. 87–195, pt. II, §533, as added Pub. L. 92–226, pt. II, §202(a), Feb. 7, 1972, 86 Stat. 27, provided for a Vietnam special dollar account for coverage of United States refund claims, amount in account, and maintenance of dollar level, prior to repeal by Pub. L. 93–189, §13(2), Dec. 17, 1973, 87 Stat. 722.
 

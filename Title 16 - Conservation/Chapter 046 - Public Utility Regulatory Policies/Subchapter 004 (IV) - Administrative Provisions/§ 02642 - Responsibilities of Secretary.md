@@ -6,7 +6,7 @@ The Secretary may periodically notify the State regulatory authorities, and elec
 
 &emsp;(1) load management techniques and the results of studies and experiments concerning load management techniques;
 
-&emsp;(2) developments and innovations in electric utility ratemaking throughout the United States, including the results of studies and experiments in rate structure and rate reform;
+&emsp;(2) developments and innovations in electric utility ratemaking throughout the UnitedStates, including the results of studies and experiments in rate structure and rate reform;
 
 &emsp;(3) methods for determining cost of service;
 
@@ -34,6 +34,8 @@ The Secretary shall be responsible for—
 
 (Pub. L. 95–617, title I, §132, Nov. 9, 1978, 92 Stat. 3131; Pub. L. 109–58, title XII, §1252(c), (d), Aug. 8, 2005, 119 Stat. 965.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (a)(4), was in the original "this title", meaning title I (§101 et seq.) of Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3120, which enacted subchapters I to IV of this chapter and section 6808 of Title 42, The Public Health and Welfare, and amended sections 6802 to 6807 of Title 42. For complete classification of title I to the Code, see Tables.
@@ -43,6 +45,8 @@ This chapter, referred to in subsec. (a)(4), was in the original "this title", m
 <b>2005</b>—Subsec. (a)(5). Pub. L. 109–58, §1252(c), added par. (5).
 
 Subsec. (d). Pub. L. 109–58, §1252(d), added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Demand Response Assistance
 

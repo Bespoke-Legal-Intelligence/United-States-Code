@@ -10,6 +10,8 @@ Waiver Authority.—The Secretary of Defense may waive the requirement in subsec
 
 (Added Pub. L. 106–65, div. A, title V, §532(a)(2)(A), Oct. 5, 1999, 113 Stat. 603, §6371; amended Pub. L. 108–375, div. A, title V, §541(a)(2), (c)(2)(A), Oct. 28, 2004, 118 Stat. 1902, 1904; renumbered §8371 and amended Pub. L. 115–232, div. A, title VIII, §§807(b)(16), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 8371, added Pub. L. 85–861, §1(178)(C), Sept. 2, 1958, 72 Stat. 1527, related to promotion of officers to grade of colonel to fill vacancies in Air Force Reserve, prior to repeal by Pub. L. 103–337, div. A, title XVI, §1629(c)(1), Oct. 5, 1994, 108 Stat. 2963, effective Oct. 1, 1996. See section 14301 et seq. of this title.
@@ -22,9 +24,11 @@ Subsec. (a). Pub. L. 115–232, §809(a), substituted "chapter 841" for "chapter
 
 <b>2004</b>—Pub. L. 108–375 inserted "; waiver authority" after "Academy" in section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
 #### Application of Section to Superintendents Serving on October 5, 1999
 

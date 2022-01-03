@@ -4,7 +4,7 @@
 
 Any person owning, operating, or proposing to operate one or more existing electric powerplants required to come into compliance with the prohibitions of this chapter shall on or before January 1, 1980, and annually thereafter, submit to the Secretary a report identifying all such existing electric powerplants owned or operated by such person. Such report shall—
 
-&emsp;(1) set forth the anticipated schedule for compliance with the applicable requirements and prohibitions by each such electric powerplant;
+&emsp;(1) set forth the anticipated schedule for compliance with the applicable requirementsand prohibitions by each such electric powerplant;
 
 &emsp;(2) indicate proposed or existing contracts or other commitments or good faith negotiations for such contracts or commitments for coal or another alternate fuel, equipment, or combinations thereof, which would enable such powerplant to comply with such prohibitions; and
 
@@ -16,6 +16,8 @@ Any electric utility required to submit a conservation plan under section 8484 o
 
 (Pub. L. 95–620, title VII, §712, Nov. 9, 1978, 92 Stat. 3332; Pub. L. 97–35, title X, §1023(b), Aug. 13, 1981, 95 Stat. 617.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 95–620, Nov. 9, 1978, 92 Stat. 3289, known as the Powerplant and Industrial Fuel Use Act of 1978, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of this title and Tables.
@@ -23,6 +25,8 @@ This chapter, referred to in subsec. (a), was in the original "this Act", meanin
 #### Amendments
 
 <b>1981</b>—Pub. L. 97–35 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1981 Amendment
 

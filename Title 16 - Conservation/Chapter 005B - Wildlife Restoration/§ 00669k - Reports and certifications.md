@@ -52,9 +52,11 @@ The Secretary of the Interior shall not delegate the responsibility for making a
 
 (Pub. L. 106–408, title I, §133, Nov. 1, 2000, 114 Stat. 1775.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This title, referred to in subsec. (a), is title I of Pub. L. 106–408, Nov. 1, 2000, 114 Stat. 1762, known as theWildlife and Sport Fish Restoration Programs Improvement Act of 2000. For complete classification of title I to the Code, see Short Title of 2000 Amendment note set out under section 669 of this title and Tables.
+This title, referred to in subsec. (a), is title I of Pub. L. 106–408, Nov. 1, 2000, 114 Stat. 1762, known as the Wildlife and Sport Fish Restoration Programs Improvement Act of 2000. For complete classification of title I to the Code, see Short Title of 2000 Amendment note set out under section 669 of this title and Tables.
 
 The Pittman-Robertson Wildlife Restoration Act, referred to in subsecs. (c)(4) to (6) and (d)(1), is act Sept. 2, 1937, ch. 899, 50 Stat. 917, as amended, also known as the Federal Aid in Wildlife Restoration Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 669 of this title and Tables.
 
@@ -63,6 +65,8 @@ The Dingell-Johnson Sport Fish Restoration Act, referred to in subsecs. (b), (c)
 #### Codification
 
 Section was enacted as part of the Fish and Wildlife Programs Improvement and National Wildlife Refuge System Centennial Act of 2000, and not as part of the Pittman-Robertson Wildlife Restoration Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

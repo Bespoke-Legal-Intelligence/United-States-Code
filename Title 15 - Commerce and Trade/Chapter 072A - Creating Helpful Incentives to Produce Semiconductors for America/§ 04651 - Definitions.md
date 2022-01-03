@@ -6,7 +6,7 @@ In this chapter:
 
 &emsp;&emsp;(A) the Select Committee on Intelligence, the Committee on Energy and Natural Resources, the Committee on Commerce, Science, and Transportation, the Committee on Foreign Relations, the Committee on Armed Services, the Committee on Appropriations, the Committee on Banking, Housing, and Urban Affairs, the Committee on Homeland Security and Governmental Affairs, and the Committee on Finance of the Senate; and
 
-&emsp;&emsp;(B) the Permanent Select committee <sup>1</sup> on Intelligence, the Committee on Energy and Commerce, the Committee on Foreign Affairs, the Committee on Armed Services, the Committee on Science, Space, and Technology, the Committee on Appropriations, the Committee on Financial Services, the Committee on Homeland Security, and theCommittee on Ways and Means of the House of Representatives..<sup>2</sup>
+&emsp;&emsp;(B) the Permanent Select committee <sup>1</sup> on Intelligence, the Committee on Energy and Commerce, the Committee on Foreign Affairs, the Committee on Armed Services, the Committee on Science, Space, and Technology, the Committee on Appropriations, the Committee on Financial Services, the Committee on Homeland Security, and the Committee on Ways and Means of the House of Representatives..<sup>2</sup>
 
 &emsp;(2) The term "covered entity" means a private entity, a consortium of private entities, or a consortium of public and private entities with a demonstrated ability to substantially finance, construct, expand, or modernize a facility relating to fabrication, assembly, testing, advanced packaging, or research and development of semiconductors.
 
@@ -50,7 +50,7 @@ In this chapter:
 
 &emsp;&emsp;(B) included on the list of specially designated nationals and blocked persons maintained by the Office of Foreign Assets Control of the Department of the Treasury;
 
-&emsp;&emsp;(C) owned by, controlled by, or subject to the jurisdiction or direction of a government of a foreign country that is listed in section 2533c of title 10; or
+&emsp;&emsp;(C) owned by, controlled by, or subject to the jurisdiction or direction of a government of a foreign country that is listed in section 2533c <sup>3</sup> of title 10; or
 
 &emsp;&emsp;(D) alleged by the Attorney General to have been involved in activities for which a conviction was obtained under—
 
@@ -78,13 +78,17 @@ In this chapter:
 
 (Pub. L. 116–283, div. H, title XCIX, §9901, Jan. 1, 2021, 134 Stat. 4843.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
+
+Section 2533c of title 10, referred to par. (6)(C), was renumbered section 4872 of title 10 by Pub. L. 116–283, div. A, title XVIII, §1870(d)(2), Jan. 1, 2021, 134 Stat. 4286, as amended by Pub. L. 117–81, div. A, title XVII, §1701(t)(2)(B), (C), Dec. 27, 2021, 135 Stat. 2150.
 
 The Arms Export Control Act, referred to in par. (6)(D)(iv), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
 
-The Export Control Reform Act of 2018, referred to in par. (6)(D)(vi), is subtitle B (§§1741–1781) of title XVII ofdiv. A of Pub. L. 115–232, Aug. 13, 2018, 132 Stat. 2208, which is classified principally to chapter 58 (§4801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 4801 of Title 50 and Tables.
+The Export Control Reform Act of 2018, referred to in par. (6)(D)(vi), is subtitle B (§§1741–1781) of title XVII of div. A of Pub. L. 115–232, Aug. 13, 2018, 132 Stat. 2208, which is classified principally to chapter 58 (§4801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 4801 of Title 50 and Tables.
 
-The International Economic Emergency Powers Act, referred to in par. (6)(D)(vii), probably should be the International Emergency Economic Powers Act, which is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626 and is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Economic Emergency Powers Act, referred to in par. (6)(D)(vii), probably should be theInternational Emergency Economic Powers Act, which is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626 and is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 This chapter, referred to in par. (6)(E), was in the original "this Act" and was translated as reading "this title", meaning title XCIX of div. H of Pub. L. 116–283, to reflect the probable intent of Congress.
 

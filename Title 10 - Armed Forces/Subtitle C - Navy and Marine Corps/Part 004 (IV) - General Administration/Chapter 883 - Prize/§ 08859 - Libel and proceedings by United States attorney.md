@@ -32,11 +32,15 @@ R.S. 4618.
 
 As does 34 U.S.C. 1135, the revised section reflects the Act of March 3, 1899, ch. 413, §13, 30 Stat. 1007, which repealed all laws authorizing distribution of prize proceeds to captors.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232, §807(d)(9), renumbered section 7659 of this title as this section.
 
 Subsec. (a). Pub. L. 115–232, §809(a), substituted "section 8858" for "section 7658" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

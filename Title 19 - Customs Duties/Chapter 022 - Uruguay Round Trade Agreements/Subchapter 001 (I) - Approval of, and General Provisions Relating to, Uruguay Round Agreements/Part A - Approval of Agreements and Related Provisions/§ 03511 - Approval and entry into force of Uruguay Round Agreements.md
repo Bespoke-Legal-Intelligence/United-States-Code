@@ -4,7 +4,7 @@
 
 Pursuant to section 2903 of this title and section 2191 of this title, the Congress approves—
 
-&emsp;(1) the trade agreements described in subsection (d) resulting from the Uruguay Round of multilateral trade negotiations under the auspices of the General Agreement on Tariffs and Trade, entered into on April 15, 1994, and submitted to the Congress on September 27, 1994; and
+&emsp;(1) the trade agreements described in subsection (d) resulting from the Uruguay Roundof multilateral trade negotiations under the auspices of the General Agreement on Tariffs and Trade, entered into on April 15, 1994, and submitted to the Congress on September 27, 1994; and
 
 &emsp;(2) the statement of administrative action proposed to implement the agreements that was submitted to the Congress on September 27, 1994.
 
@@ -58,9 +58,13 @@ Subsection (a) applies to the WTO Agreement and to the following agreements anne
 
 (Pub. L. 103–465, title I, §101, Dec. 8, 1994, 108 Stat. 4814.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsec. (d), is Pub. L. 103–465, Dec. 8, 1994, 108 Stat. 4809, known as the Uruguay Round Agreements Act. For complete classification of this Act to the Code, see Short Title note set out under section 3501 of this title and Tables.
+
+#### <b>Executive Documents</b>
 
 #### Uruguay Round Agreements: Entry Into Force
 
@@ -72,7 +76,7 @@ Proc. No. 6763, Dec. 23, 1994, 60 F.R. 1007, as amended by Proc. No. 6780, Mar. 
 
 1\. On April 15, 1994, the President entered into trade agreements resulting from the Uruguay Round of multilateral trade negotiations ("the Uruguay Round Agreements"). In section 101(a) of the Uruguay Round Agreements Act ("the URAA") (Public Law 103–465; 108 Stat. 4809) \[19 U.S.C. 3511(a)\], the Congress approved the Uruguay Round Agreements listed in section 101(d) of that Act.
 
-2\. (a) Sections 1102(a) and (e) of the Omnibus Trade and Competitiveness Act of 1988, as amended ("the 1988 Act") (19 U.S.C. 2902(a) and (e)), authorize the President to proclaim such modification or continuance of anyexisting duty, such continuance of existing duty-free or excise treatment, or such additional duties, as he determines to be required or appropriate to carry out any trade agreements entered into under those sections.
+2\. (a) Sections 1102(a) and (e) of the Omnibus Trade and Competitiveness Act of 1988, as amended ("the 1988 Act") (19 U.S.C. 2902(a) and (e)), authorize the President to proclaim such modification or continuance of any existing duty, such continuance of existing duty-free or excise treatment, or such additional duties, as he determines to be required or appropriate to carry out any trade agreements entered into under those sections.
 
 (b) Accordingly, I have determined that it is required or appropriate in order to carry out the Uruguay Round Agreements, which were entered into under sections 1102(a) and (e) of the 1988 Act (19 U.S.C. 2902(a) and (e)), that I proclaim the modifications and continuances of existing duties, duty-free treatments, excise treatments, and additional duties set forth in the Annex to this proclamation.
 
@@ -84,7 +88,7 @@ Proc. No. 6763, Dec. 23, 1994, 60 F.R. 1007, as amended by Proc. No. 6780, Mar. 
 
 5\. (a) Section 22(f) of the Agricultural Adjustment Act ("the Adjustment Act") (7 U.S.C. 624(f)), as amended by section 401(a)(1) of the URAA, provides that, as of the date of entry into force of the Agreement Establishing the World Trade Organization ("the WTO Agreement"), no quantitative limitation or fee shall be imposed under that section with respect to any article that is the product of a World Trade Organization member, as defined in section 2(10) of the URAA \[19 U.S.C. 3501(10)\].
 
-(b) Section 401(a)(2) of the URAA \[7 U.S.C. 624 note\] further provides that, with respect to wheat, amended section 22(f) of the Adjustment Act (7 U.S.C. 624(f)) shall be effective on the later of the date of entry into force of the WTO Agreement or September 12, 1995.
+(b) Section 401(a)(2) of the URAA \[7 U.S.C. 624 note\] further provides that, with respect to wheat, amended section 22(f) of the Adjustment Act (7 U.S.C. 624(f))shall be effective on the later of the date of entry into force of the WTO Agreement or September 12, 1995.
 
 (c) Accordingly, I have decided that it is necessary to provide for the termination of all quantitative limitations and fees previously proclaimed under section 22 of the Adjustment Act (7 U.S.C. 624), other than those for wheat, as provided in the Annex to this proclamation.
 
@@ -152,7 +156,7 @@ Proc. No. 6780, Mar. 23, 1995, 60 F.R. 15845, provided:
 
 2\. Pursuant to section 101(b) of the URAA \[19 U.S.C. 3511(b)\], I decided to accept the Agreement Establishing the World Trade Organization ("the WTO Agreement") on behalf of the United States, and I determined that the WTO Agreement entered into force for the United States on January 1, 1995.
 
-3\. (a) Sections 1102(a) and (e) of the Omnibus Trade and Competitiveness Act of 1988, as amended ("the 1988Act") (19 U.S.C. 2902(a) and (e)), authorize the President to proclaim such modification or continuance of any existing duty, such continuance of existing duty-free or excise treatment, or such additional duties, as he determines to be required or appropriate to carry out any trade agreement entered into under these sections.
+3\. (a) Sections 1102(a) and (e) of the Omnibus Trade and Competitiveness Act of 1988, as amended ("the 1988 Act") (19 U.S.C. 2902(a) and (e)), authorize the President to proclaim such modification or continuance of any existing duty, such continuance of existing duty-free or excise treatment, or such additional duties, as he determines to be required or appropriate to carry out any trade agreement entered into under these sections.
 
 (b) Section 111(a) of the URAA (19 U.S.C. 3521(a)) authorizes the President to proclaim such other modification of any duty, such other staged rate reduction, or such other additional duties beyond those authorized by section 1102 of the 1988 Act (19 U.S.C. 2902) as the President determines to be necessary or appropriate to carry out Schedule XX—United States of America, annexed to the Marrakesh Protocol to the General Agreement on Tariffs and Trade 1994 ("Schedule XX").
 
@@ -212,7 +216,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Annex
 
-The Annex of Proclamation 6780, which amended the Harmonized Tariff Schedule of the United States, is not set out under this section because the Harmonized Tariff Schedule is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
+The Annex of Proclamation 6780, which amended the Harmonized Tariff Schedule of the United States, is not set out under this section because the Harmonized Tariff Schedule is not set out in the Code. See Publicationof Harmonized Tariff Schedule note set out under section 1202 of this title.
 
 #### Ex. Ord. No. 13042. Implementing for United States Article VIII of Agreement Establishing World Trade Organization Concerning Legal Capacity and Privileges and Immunities
 

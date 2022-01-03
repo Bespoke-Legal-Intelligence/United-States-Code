@@ -64,7 +64,7 @@
 
 &emsp;&emsp;&emsp;(i) pay the amount equal to 0.3 percent of such amount to the Department of Hawaiian Home Lands; and
 
-&emsp;&emsp;&emsp;(ii) subject to subparagraph (B), from the remainder of such amount, allocate and pay to each Indian tribe (or, if applicable, the tribally designated housing entity of an Indian tribe) that was eligible for a grant under title I of the Native American Housing Assistance and Self-Determination Act of 1996 (NAHASDA) (25 U.S.C. 4111 et seq.) for fiscal year 2020 an amount that bears the same proportion to the such remainder as the amount each such Indian tribe (or entity) was eligible to receive for such fiscal year from the amount appropriated under paragraph (1) under the heading "native american programs" under the heading "Public and Indian Housing" of title II of division H of the Further Consolidated Appropriations Act, 2020 (Public Law 116–94) to carry out theNative American Housing Block Grants program bears to the amount appropriated under such paragraph for such fiscal year, provided the Secretary shall be authorized to allocate, in an equitable manner as determined by the Secretary, and pay any Indian tribe that opted out of receiving a grant allocation under the Native American Housing Block Grants program formula in fiscal year 2020, including by establishing a minimum amount of payments to such Indian tribe, provided such Indian tribe notifies the Secretary not later than 30 days after December 27, 2020, that it intends to receive allocations and payments under this section.
+&emsp;&emsp;&emsp;(ii) subject to subparagraph (B), from the remainder of such amount, allocate and pay to each Indian tribe (or, if applicable, the tribally designated housing entity of an Indian tribe) that was eligible for a grant under title I of the Native American Housing Assistance and Self-Determination Act of 1996 (NAHASDA) (25 U.S.C. 4111 et seq.) for fiscal year 2020 an amount that bears the same proportion to the such remainder as the amount each such Indian tribe (or entity) was eligible to receive for such fiscal year from the amount appropriated under paragraph (1) under the heading "native american programs" under the heading "Public and Indian Housing" of title II of division H of the Further Consolidated Appropriations Act, 2020 (Public Law 116–94) to carry out the Native American Housing Block Grants program bears to the amount appropriated under such paragraph for such fiscal year, provided the Secretary shall be authorized to allocate, in an equitable manner as determined by the Secretary, and pay any Indian tribe that opted out of receiving a grant allocation under the Native American Housing Block Grants program formula in fiscal year 2020, including by establishing a minimum amount of payments to such Indian tribe, provided such Indian tribe notifies the Secretary not later than 30 days after December 27, 2020, that it intends to receive allocations and payments under this section.
 
 #### (B) Pro rata adjustment; distribution of declined funds
 
@@ -132,7 +132,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to the exception in clause (ii), an eligible grantee shall not provide an eligible household with financial assistance for prospective rent payments for more than 3 months based on any application by or on behalf of the household.
+&emsp;&emsp;&emsp;Subject to the exception in clause (ii), an eligible grantee shall not provide an eligible household with financial assistance forprospective rent payments for more than 3 months based on any application by or on behalf of the household.
 
 #### (ii) Exception
 
@@ -152,7 +152,7 @@
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;With respect to financial assistance for rent and rental arrears and utilities andhome energy costs and utility and home energy costs arrears provided to an eligible household from a payment made under this section, an eligible grantee shall make payments to a lessor or utility provider on behalf of the eligible household, except that, if the lessor or utility provider does not agree to accept such payment from the grantee after outreach to the lessor or utility provider by the grantee, the grantee may make such payments directly to the eligible household for the purpose of making payments to the lessor or utility provider.
+&emsp;&emsp;&emsp;&emsp;With respect to financial assistance for rent and rental arrears and utilities and home energy costs and utility and home energy costs arrears provided to an eligible household from a payment made under this section, an eligible grantee shall make payments to a lessor or utility provider on behalf of the eligible household, except that, if the lessor or utility provider does not agree to accept such payment from the grantee after outreach to the lessor or utility provider by the grantee, the grantee may make such payments directly to the eligible household for the purpose of making payments to the lessor or utility provider.
 
 #### (II) Rule of construction
 
@@ -194,7 +194,7 @@ Beginning on September 30, 2021, the Secretary shall recapture excess funds, as 
 
 #### (1) In general
 
-&emsp;Funds provided to an eligible grantee under a payment made under this section shall remain available through December 31, 2021.
+&emsp;Funds provided to an eligible grantee under a payment made under this section shall remain available through September 30, 2022.
 
 #### (2) Extension for funds provided pursuant to a reallocation of unused funds
 
@@ -224,7 +224,7 @@ Beginning on September 30, 2021, the Secretary shall recapture excess funds, as 
 
 #### (1) In general
 
-&emsp;The Secretary, in consultation with the Secretary of Housing and Urban Development,shall provide public reports not less frequently than quarterly regarding the use of funds made available under this section, which shall include, with respect to each eligible grantee under this section, both for the past quarter and over the period for which such funds are available—
+&emsp;The Secretary, in consultation with the Secretary of Housing and Urban Development, shall provide public reports not less frequently than quarterly regarding the use of funds made available under this section, which shall include, with respect to each eligible grantee under this section, both for the past quarter and over the period for which such funds are available—
 
 &emsp;&emsp;(A) the number of eligible households that receive assistance from such payments;
 
@@ -380,11 +380,13 @@ In this section:
 
 The authority of an eligible grantee to make new obligations to provide payments under subsection (c) shall terminate on the date established in subsection (e) for that eligible grantee. Amounts not expended in accordance with this section shall revert to the Department of the Treasury.
 
-(Pub. L. 116–260, div. N, title V, §501, Dec. 27, 2020, 134 Stat. 2069.)
+(Pub. L. 116–260, div. N, title V, §501, Dec. 27, 2020, 134 Stat. 2069; Pub. L. 117–2, title III, §3201(h), Mar. 11, 2021, 135 Stat. 58.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsecs. (b)(2)(A)(ii) and (k)(2)(C), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016. Title I of the Act is classified generallyto subchapter I (§4111 et seq.) of chapter 43 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
+The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsecs. (b)(2)(A)(ii) and (k)(2)(C), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016. Title I of the Act is classified generally to subchapter I (§4111 et seq.) of chapter 43 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
 
 The Further Consolidated Appropriations Act, 2020, referred to in subsecs. (b)(2)(A)(ii) and (k)(2)(C), is Pub. L. 116–94, Dec. 20, 2019, 133 Stat. 2534. Provisions under the heading "native american programs" under the heading "Public and Indian Housing" of title II of division H of the Act \[133 Stat. 2985\] are not classified to the Code. For complete classification of this Act to the Code, see Tables.
 
@@ -397,6 +399,10 @@ The Alaska Native Claims Settlement Act, referred to in subsec. (k)(2)(C), is Pu
 In subsec. (b)(1)(A)(v), "section 801(e) of such title" was in the original "section 601(e)", and was translated as meaning "section 601(e) of such Act", meaning section 601(e) of the Social Security Act, to reflect the probable intent of Congress.
 
 Section was enacted as part of the Consolidated Appropriations Act, 2021, and not as part of the CARES Act which in part comprises this chapter.
+
+#### Amendments
+
+<b>2021</b>—Subsec. (e)(1). Pub. L. 117–2 substituted "September 30, 2022" for "December 31, 2021".
 
 <i><sup>1</sup></i><i> So in original. Probably should be "this section".</i>
 

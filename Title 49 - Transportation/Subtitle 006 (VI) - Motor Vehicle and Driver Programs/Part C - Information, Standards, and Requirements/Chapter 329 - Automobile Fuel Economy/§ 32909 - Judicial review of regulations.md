@@ -12,7 +12,7 @@ Time for Filing and Judicial Procedures.—The petition must be filed not later 
 
 (c)
 
-Additional Proceedings.—(1) When reviewing a regulation under subsection (a)(1) of this section, the court, on request of the petitioner, may order the Secretary or the Administrator to receive additional submissions if the court is satisfied the additional submissions are material and there were reasonable grounds for not presenting the submissions in the proceeding before the Secretary or Administrator.
+Additional Proceedings.—(1) When reviewing a regulation under subsection (a)(1) of this section, the court, on request of the petitioner, may order the Secretary or the Administrator to receive additional submissions if the court is satisfied the additional submissions are material and there were reasonable grounds fornot presenting the submissions in the proceeding before the Secretary or Administrator.
 
 (2) The Secretary or the Administrator may amend or set aside the regulation, or prescribe a new regulation because of the additional submissions presented. The Secretary or Administrator shall file an amended or new regulation and the additional submissions with the court. The court shall review a changed or new regulation.
 
@@ -90,9 +90,13 @@ In subsection (d), the words "affirming or setting aside, in whole or in part" a
 
 This amends 49:32909(a)(1) to correct an erroneous cross-reference.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (a)(1). Pub. L. 103–429 substituted "any of sections 32901–32904" for "section 32901–32904".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

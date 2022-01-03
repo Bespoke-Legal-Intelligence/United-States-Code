@@ -24,6 +24,8 @@ The words "militia or the armed forces" are substituted for the words "military 
 
 Act July 29, 1861, ch. 25, §2, 12 Stat. 282.
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Another section 254 was renumbered section 240d of this title.
@@ -36,13 +38,15 @@ Another section 254 was renumbered section 240d of this title.
 
 <b>2006</b>—Pub. L. 109–364 inserted "or those obstructing the enforcement of the laws" after "insurgents".
 
+#### <b>Executive Documents</b>
+
 #### Proc. No. 3204. Obstruction of Justice in the State of Arkansas
 
 Proc. No. 3204, Sept. 23, 1957, 22 F.R. 7628, commanded all persons in the State of Arkansas who were obstructing the enforcement of orders of the United States District Court for the Eastern District of Arkansas relating to enrollment and attendance at public schools, particularly Central High School at Little Rock, Arkansas, to cease and desist therefrom and to disperse forthwith.
 
 #### Proc. No. 3497. Obstruction of Justice in the State of Mississippi
 
-Proc. No. 3497, Sept. 30, 1962, 27 F.R. 9681, commanded all persons in the State of Mississippi who were obstructing the enforcement of orders entered by theUnited States District Court for the Southern District of Mississippi and the United States Court of Appeals for the Fifth Circuit to cease and desist therefrom and to disperse and retire peaceably forthwith.
+Proc. No. 3497, Sept. 30, 1962, 27 F.R. 9681, commanded all persons in the State of Mississippi who were obstructing the enforcement of orders entered by the United States District Court for the Southern District of Mississippi and the United States Court of Appeals for the Fifth Circuit to cease and desist therefrom and to disperse and retire peaceably forthwith.
 
 #### Proc. No. 3542. Unlawful Obstruction of Justice and Combinations in the State of Alabama
 
@@ -62,7 +66,7 @@ Proc. No. 3795, July 26, 1967, 32 F.R. 10905, commanded all persons engaged in d
 
 #### Proc. No. 3840. Obstruction of Justice in the Washington Metropolitan Area
 
-Proc. No. 3840, Apr. 9, 1968, 33 F.R. 5495, commanded all persons engaged in acts of violence threatening the Washington Metropolitan Area and obstructing the execution of the laws to cease and desist therefrom and to disperse forthwith.
+Proc. No. 3840, Apr. 9, 1968, 33 F.R. 5495, commanded all persons engaged in acts of violence threatening theWashington Metropolitan Area and obstructing the execution of the laws to cease and desist therefrom and to disperse forthwith.
 
 #### Proc. No. 3841. Obstruction of Justice in the State of Illinois
 

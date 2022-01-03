@@ -52,7 +52,7 @@ Prior notice.—Not less than 14 days before the date on which a test is carried
 
 &emsp;(B)
 
-Emergency.—The prior notice requirement in subparagraph (A) shall not apply if the Secretary determines that an emergency exists which requires a test to be carried out, in which case the Secretary shall notify both Houses of Congress of the test as soon as possible.
+Emergency.—The prior notice requirement in subparagraph (A) shall not apply if the Secretary determines that an emergency exists which requires a test to be carried out, in which case the Secretary shall notify bothHouses of Congress of the test as soon as possible.
 
 &emsp;(C)
 
@@ -86,9 +86,9 @@ Report.—A detailed description submitted under clause (i) may be included as p
 
 &emsp;(B) for more than 60 days with respect to each such shortage;
 
-&emsp;(C) if there are fewer than 340,000,000 barrels of petroleum product stored in the Reserve; or
+&emsp;(C) if there are fewer than 252,400,000 barrels of petroleum product stored in the Reserve; or
 
-&emsp;(D) below the level of an aggregate of 340,000,000 barrels of petroleum product stored in the Reserve.
+&emsp;(D) below the level of an aggregate of 252,400,000 barrels of petroleum product stored in the Reserve.
 
 (3) During any period in which there is a drawdown and sale of the Reserve in effect under this subsection, the Secretary shall transmit a monthly report to the Congress containing an account of the drawdown and sale of petroleum products under this subsection and an assessment of its effect.
 
@@ -122,7 +122,7 @@ Notwithstanding any other law, the President may permit any petroleum products w
 
 #### (E) Insular area
 
-&emsp;&emsp;The term "insular area" means the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the United States Virgin Islands, Guam, American Samoa, the Freely Associated States of the Republic of the Marshall Islands, theFederated States of Micronesia, and the Republic of Palau.
+&emsp;&emsp;The term "insular area" means the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the United States Virgin Islands, Guam, American Samoa, the Freely Associated States of the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.
 
 #### (F) Offering
 
@@ -146,7 +146,7 @@ Notwithstanding any other law, the President may permit any petroleum products w
 
 &emsp;&emsp;(A) the State of Hawaii, in addition to having the opportunity to submit a competitive bid, may—
 
-&emsp;&emsp;&emsp;(i) submit a binding offer, and shall on submission of the offer, be entitled to purchase a category of a petroleum product specified in a notice of sale at a price equal to the volumetrically weighted average of the successful bids made for the remaining quantity of the petroleum product within the category that is the subject of the offering; and
+&emsp;&emsp;&emsp;(i) submit a binding offer, and shall on submission of the offer, be entitled to purchase a category of a petroleum product specified in a notice of sale at a price equal to the volumetrically weighted average of the successful bids made for the remaining quantity of the petroleum product withinthe category that is the subject of the offering; and
 
 &emsp;&emsp;&emsp;(ii) submit one or more alternative offers, for other categories of the petroleum product, that will be binding if no price competitive contract is awarded for the category of petroleum product on which a binding offer is submitted under clause (i); and
 
@@ -208,15 +208,19 @@ Notwithstanding any other law, the President may permit any petroleum products w
 
 #### (8) Supplies of petroleum products
 
-&emsp;At the request of the Governor of an insular area, the Secretary shall, for a period not to exceed 180 days following a drawdown of the Strategic Petroleum Reserve, assist the insular area or the President of a Freely Associated State in its efforts to maintain adequatesupplies of petroleum products from traditional and nontraditional suppliers.
+&emsp;At the request of the Governor of an insular area, the Secretary shall, for a period not to exceed 180 days following a drawdown of the Strategic Petroleum Reserve, assist the insular area or the President of a Freely Associated State in its efforts to maintain adequate supplies of petroleum products from traditional and nontraditional suppliers.
 
-(Pub. L. 94–163, title I, §161, Dec. 22, 1975, 89 Stat. 888; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 99–58, title I, §103(a), (b)(2), July 2, 1985, 99 Stat. 103, 104; Pub. L. 101–383, §§3(b), 8, 10, Sept. 15, 1990, 104 Stat. 727, 735; Pub. L. 102–486, title XIV, §1401, Oct. 24, 1992, 106 Stat. 2993; Pub. L. 105–388, §9(a), Nov. 13, 1998, 112 Stat. 3482; Pub. L. 106–469, title I, §103(15), Nov. 9, 2000, 114 Stat. 2031; Pub. L. 114–74, title IV, §401(a), Nov. 2, 2015, 129 Stat. 588; Pub. L. 114–255, div. A, title V, §5010(c), Dec. 13, 2016, 130 Stat. 1198; Pub. L. 115–123, div. C, title II, §30204(c), Feb. 9, 2018, 132 Stat. 127; Pub. L. 115–141, div. O, title V, §501(c), Mar. 23, 2018, 132 Stat. 1080.)
+(Pub. L. 94–163, title I, §161, Dec. 22, 1975, 89 Stat. 888; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 99–58, title I, §103(a), (b)(2), July 2, 1985, 99 Stat. 103, 104; Pub. L. 101–383, §§3(b), 8, 10, Sept. 15, 1990, 104 Stat. 727, 735; Pub. L. 102–486, title XIV, §1401, Oct. 24, 1992, 106 Stat. 2993; Pub. L. 105–388, §9(a), Nov. 13, 1998, 112 Stat. 3482; Pub. L. 106–469, title I, §103(15), Nov. 9, 2000, 114 Stat. 2031; Pub. L. 114–74, title IV, §401(a), Nov. 2, 2015, 129 Stat. 588; Pub. L. 114–255, div. A, title V, §5010(c), Dec. 13, 2016, 130 Stat. 1198; Pub. L. 115–123, div. C, title II, §30204(c), Feb. 9, 2018, 132 Stat. 127; Pub. L. 115–141, div. O, title V, §501(c), Mar. 23, 2018, 132 Stat. 1080; Pub. L. 117–58, div. I, §90002(c)(2), Nov. 15, 2021, 135 Stat. 1342.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 This chapter, referred to in subsec. (j)(6), (7)(A), was in the original "this Act", meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (h)(2)(C), (D). Pub. L. 117–58 substituted "252,400,000" for "340,000,000".
 
 <b>2018</b>—Subsec. (h)(1)(C), (D). Pub. L. 115–123, §30204(c)(1), added subpar. (C) and redesignated former subpar. (C) as (D).
 
@@ -284,6 +288,8 @@ Subsec. (g). Pub. L. 99–58, §103(a), added subsec. (g).
 
 <b>1978</b>—Subsecs. (a), (e), (f). Pub. L. 95–619 substituted "Secretary" for "Administrator", meaning Administrator of the Federal Energy Administration, wherever appearing.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–388, §9(c), Nov. 13, 1998, 112 Stat. 3484, provided that: "The amendment made by subsection (a) \[amending this section\] takes effect on the earlier of—
@@ -311,6 +317,8 @@ Administrative procedure.—Regulations issued to carry out the amendment made b
 #### Strategic Petroleum Reserve Drawdown and Sale
 
 Provisions related to drawdown and sale from the Strategic Petroleum Reserve were contained in the following acts:
+
+Pub. L. 117–58, div. I, §90002(a)–(c)(1), Nov. 15, 2021, 135 Stat. 1342.
 
 Pub. L. 116–136, div. B, title IV, §14002(b), Mar. 27, 2020, 134 Stat. 526.
 

@@ -90,15 +90,19 @@ The Director shall require each enterprise to provide to the Director, as part o
 
 #### (f) Expiration
 
-The provisions of this section shall expire on October 1, 2021.
+The provisions of this section shall expire on October 1, 2032.
 
-(Pub. L. 102–550, title XIII, §1327, as added Pub. L. 112–78, title IV, §401, Dec. 23, 2011, 125 Stat. 1287.)
+(Pub. L. 102–550, title XIII, §1327, as added Pub. L. 112–78, title IV, §401, Dec. 23, 2011, 125 Stat. 1287; Pub. L. 117–58, div. I, §90005, Nov. 15, 2021, 135 Stat. 1346.)
 
 #### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
 A prior section 4547, Pub. L. 102–550, title XIII, §1327, Oct. 28, 1992, 106 Stat. 3956; Pub. L. 110–289, div. A, title I, §1122(a)(1), July 30, 2008, 122 Stat. 2689, related to authority to require reports by enterprises, prior to repeal by Pub. L. 110–289, div. A , title I, §1104(b), July 30, 2008, 122 Stat. 2667.
+
+#### Amendments
+
+<b>2021</b>—Subsec. (f). Pub. L. 117–58 substituted "2032" for "2021".
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by "as".</i>
 

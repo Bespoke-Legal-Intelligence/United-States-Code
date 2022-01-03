@@ -36,6 +36,8 @@ The site of any hearings held under section 6206 or 6207 of this title shall be 
 
 (Pub. L. 101–624, title XIX, §1959, Nov. 28, 1990, 104 Stat. 3878; Pub. L. 102–237, title VIII, §805(3), Dec. 13, 1991, 105 Stat. 1882.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Subsec. (b)(2). Pub. L. 102–237 struck out "section" after "6206 or".

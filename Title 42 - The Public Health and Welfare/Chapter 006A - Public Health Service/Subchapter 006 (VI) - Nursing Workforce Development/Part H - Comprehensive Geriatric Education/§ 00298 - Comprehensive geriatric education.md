@@ -32,6 +32,8 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 (July 1, 1944, ch. 373, title VIII, §865, formerly §855, as added Pub. L. 107–205, title II, §202(a), Aug. 1, 2002, 116 Stat. 816; renumbered §865 and amended Pub. L. 111–148, title V, §§5305(c), 5310(b)(10)(A), Mar. 23, 2010, 124 Stat. 625, 631.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 298, act July 1, 1944, ch. 373, title VIII, §851, formerly §841, as added Pub. L. 88–581, §2, Sept. 4, 1964, 78 Stat. 917; amended Pub. L. 89–751, §3(b), Nov. 3, 1966, 80 Stat. 1230; Pub. L. 91–515, title VI, §601(b)(2), Oct. 30, 1970, 84 Stat. 1311; Pub. L. 92–158, §§9, 13, Nov. 18, 1971, 85 Stat. 479, 480; renumbered §851 and amended Pub. L. 94–63, title IX, §941(k)(1), (2), July 29, 1975, 89 Stat. 366; Pub. L. 97–35, title XXVII, §2759(a), Aug. 13, 1981, 95 Stat. 932; Pub. L. 99–92, §9(d), Aug. 16, 1985, 99 Stat. 402; Pub. L. 100–607, title VII, §721(a), Nov. 4, 1988, 102 Stat. 3165; Pub. L. 102–408, title II, §212, Oct. 13, 1992, 106 Stat. 2079, related to Advisory Council on Nurse Education and Practice, prior to repeal by Pub. L. 105–392, title I, §123(1), Nov. 13, 1998, 112 Stat. 3562. See section 297t of this title.
@@ -60,7 +62,7 @@ A prior section 298b–6, act July 1, 1944, ch. 373, title VIII, §859, as added
 
 A prior section 298b–7, act July 1, 1944, ch. 373, title VIII, §860, as added Pub. L. 102–408, title II, §209, Oct. 13, 1992, 106 Stat. 2075; amended Pub. L. 102–531, title III, §313(a)(10), Oct. 27, 1992, 106 Stat. 3507; Pub. L. 103–43, title XX, §2014(g), June 10, 1993, 107 Stat. 217, set forth certain generally applicable provisions, prior to repeal by Pub. L. 105–392, title I, §123(1), Nov. 13, 1998, 112 Stat. 3562.
 
-A prior section 298c, act July 1, 1944, ch. 373, title VIII, §860, as added Aug. 16, 1968, Pub. L. 90–490, title II, §223(a), 82 Stat. 785; amended July 9, 1971, Pub. L. 92–52, §4, 85 Stat. 145; Nov. 18, 1971, Pub. L. 92–158, §7, 85 Stat. 478, which related to scholarship grants, was renumbered section 845 of act July 1, 1944, by Pub. L. 94–63 and transferred to section 297j of this title and subsequently repealed.
+A prior section 298c, act July 1, 1944, ch. 373, title VIII, §860, as added Aug. 16, 1968, Pub. L. 90–490, title II,§223(a), 82 Stat. 785; amended July 9, 1971, Pub. L. 92–52, §4, 85 Stat. 145; Nov. 18, 1971, Pub. L. 92–158, §7, 85 Stat. 478, which related to scholarship grants, was renumbered section 845 of act July 1, 1944, by Pub. L. 94–63 and transferred to section 297j of this title and subsequently repealed.
 
 Another prior section 298c, act July 1, 1944, ch. 373, title VIII, §861, as added Nov. 3, 1966, Pub. L. 89–751, §8(b), 80 Stat. 1236, stated the purposes of opportunity grants for nursing education and authorized appropriations of $3,000,000, $5,000,000, and $7,000,000 for fiscal years ending June 30, 1967, 1968, and 1969, respectively, to be available for payments to institutions until close of fiscal year succeeding fiscal year for which appropriated, prior to the reorganization and amendment of this subchapter by Pub. L. 90–490.
 

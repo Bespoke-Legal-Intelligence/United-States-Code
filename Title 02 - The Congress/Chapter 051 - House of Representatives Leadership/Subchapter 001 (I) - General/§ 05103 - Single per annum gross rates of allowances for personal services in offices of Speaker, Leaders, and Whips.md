@@ -24,7 +24,7 @@ Section was formerly classified to section 333 of this title prior to editorial 
 
 #### Effective Date
 
-Section effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as an Effective Date of 1970 Amendment note under section 4301 of this title.
+Section effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as anEffective Date of 1970 Amendment note under section 4301 of this title.
 
 #### Limits on Uses of Funds
 

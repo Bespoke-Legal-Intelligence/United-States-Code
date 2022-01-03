@@ -52,7 +52,7 @@ The Board may recommend to Congress for designation an application for a Partner
 
 &emsp;(1) meets the criteria described in subsection (c)(2);
 
-&emsp;(2) identifies representatives to provide support and technical assistance to the Partnership from a diverse group of public and private partners, which may include State or local governments, nonprofit entities, Indian Tribes, and private individuals, that are focused on conservation of fish habitats to achieve results across jurisdictional boundaries on public and private land;
+&emsp;(2) identifies representatives to provide support and technical assistance to the Partnership from a diverse group of public and privatepartners, which may include State or local governments, nonprofit entities, Indian Tribes, and private individuals, that are focused on conservation of fish habitats to achieve results across jurisdictional boundaries on public and private land;
 
 &emsp;(3) is organized to promote the health of important fish species and important fish habitats, including reservoirs, natural lakes, coastal and marine environments, coral reefs, and estuaries;
 

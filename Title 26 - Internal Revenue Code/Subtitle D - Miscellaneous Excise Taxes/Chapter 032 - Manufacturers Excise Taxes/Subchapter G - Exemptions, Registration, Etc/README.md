@@ -12,6 +12,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1986</b>—Pub. L. 99–514, title XVIII, §1899A(74), Oct. 22, 1986, 100 Stat. 2963, substituted "reference" for "references" in item 4227.

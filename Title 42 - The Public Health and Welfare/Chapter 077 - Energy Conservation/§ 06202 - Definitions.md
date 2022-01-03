@@ -14,7 +14,7 @@ As used in this chapter:
 
 &emsp;(6) The term "Outer Continental Shelf" has the same meaning as such term has under section 1331 of title 43.
 
-&emsp;(7) The term "international energy program" means the Agreement on an International Energy Program, signed by the United States on November 18, 1974, including (A) the annex entitled "Emergency Reserves", (B) any amendment to such Agreement which includes another nation as a party to such Agreement, and (C) any technical or clerical amendment to such Agreement.
+&emsp;(7) The term "international energy program" means the Agreement on an International Energy Program, signed by the United States on November 18, 1974, including (A) the annex entitled "Emergency Reserves", (B) any amendment to such Agreement whichincludes another nation as a party to such Agreement, and (C) any technical or clerical amendment to such Agreement.
 
 &emsp;(8) The term "severe energy supply interruption" means a national energy supply shortage which the President determines—
 
@@ -48,6 +48,8 @@ As used in this chapter:
 
 (Pub. L. 94–163, §3, Dec. 22, 1975, 89 Stat. 874; Pub. L. 95–619, title VI, §691(a), Nov. 9, 1978, 92 Stat. 3287; Pub. L. 98–454, title VI, §601(f), Oct. 5, 1984, 98 Stat. 1736; Pub. L. 101–383, §3(a), Sept. 15, 1990, 104 Stat. 727; Pub. L. 114–74, title IV, §401(b), Nov. 2, 2015, 129 Stat. 589.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in introductory clause, was in the original "this Act", meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
@@ -69,6 +71,8 @@ Act of June 19, 1936, chapter 592, referred to in par. (9)(E), is act June 19, 1
 <b>1984</b>—Par. (4). Pub. L. 98–454 inserted reference to Trust Territory of the Pacific Islands.
 
 <b>1978</b>—Par. (1). Pub. L. 95–619 substituted definition of "Secretary", meaning the Secretary of Energy, for definition of "Administrator", meaning Administrator of the Federal Energy Administration.
+
+#### <b>Executive Documents</b>
 
 #### Termination of Trust Territory of the Pacific Islands
 

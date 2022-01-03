@@ -38,7 +38,7 @@ It shall be unlawful for any person to transport or deliver for transportation i
 
 &emsp;(2) For containers of one pound or less of seed that germinates less than the standard last established by the Secretary of Agriculture, as provided under section 1593(c) of this title—
 
-&emsp;&emsp;(A) The name of each kind and variety of seed, and if two or more kinds or varieties are present, the percentage of each, and further, that in the case of any such componentwhich is a hybrid seed, it shall be designated as hybrid on the label; and
+&emsp;&emsp;(A) The name of each kind and variety of seed, and if two or more kinds or varieties are present, the percentage of each, and further, that in the case of any such component which is a hybrid seed, it shall be designated as hybrid on the label; and
 
 &emsp;&emsp;(B) For each named kind and variety of seed—
 
@@ -84,7 +84,7 @@ It shall be unlawful for any person to transport or deliver for transportation i
 
 (f) Seed which has been stained to resemble seed stained in accordance with the provisions of this chapter and the regulations made and promulgated thereunder.
 
-(g) Seed which is a mixture of seeds which are required to be stained or which are stained with different colors under the provisions of this chapter and of the regulations made and promulgated thereunder, or which is a mixture of any seed required to be stained under the provisions of this chapter and of the regulations made and promulgated thereunder, with seed of the same kind produced in the United States.
+(g) Seed which is a mixture of seeds which are required to be stained or which are stained with different colors under the provisions of this chapter and of the regulations made and promulgated thereunder, or which is a mixture of any seed required to be stained under the provisions of this chapter and of the regulationsmade and promulgated thereunder, with seed of the same kind produced in the United States.
 
 (h) Screenings of any seed subject to this chapter, unless they are not intended for seeding purposes; and it is stated on the label, if in containers, or on the invoice if in bulk, that they are intended for cleaning, processing, or manufacturing purposes, and not for seeding purposes.
 
@@ -98,7 +98,9 @@ It shall be unlawful for any person to transport or deliver for transportation i
 
 &emsp;(4) A description, approved by the Secretary of Agriculture as adequate for the protection of the public, of any process used in such treatment.
 
-(Aug. 9, 1939, ch. 615, title II, §201, 53 Stat. 1279; Pub. L. 85–581, §§5–8, Aug. 1, 1958, 72 Stat. 476; Pub. L. 89–686, §§4–10, Oct. 15, 1966, 80 Stat.975–977; Pub. L. 97–439, §§2–4, Jan. 8, 1983, 96 Stat. 2287.)
+(Aug. 9, 1939, ch. 615, title II, §201, 53 Stat. 1279; Pub. L. 85–581, §§5–8, Aug. 1, 1958, 72 Stat. 476; Pub. L. 89–686, §§4–10, Oct. 15, 1966, 80 Stat. 975–977; Pub. L. 97–439, §§2–4, Jan. 8, 1983, 96 Stat. 2287.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -147,6 +149,8 @@ Subsec. (b)(1). Pub. L. 85–581, §6, required label on container to show perce
 Subsec. (b)(2). Pub. L. 85–581, §7, substituted "For each variety of vegetable seed" for "For seeds".
 
 Subsec. (i). Pub. L. 85–581, §8, added subsec. (i).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

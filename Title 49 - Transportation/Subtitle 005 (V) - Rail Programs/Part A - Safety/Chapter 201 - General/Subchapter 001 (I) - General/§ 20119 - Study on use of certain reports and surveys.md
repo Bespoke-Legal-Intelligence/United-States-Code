@@ -6,7 +6,7 @@ Study.—The Federal Railroad Administration shall complete a study to evaluate 
 
 (b)
 
-Authority.—Following completion of the study required under subsection (a), the Secretary, if in the public interest, including public safety and the legal rights of persons injured in railroad accidents, may prescribe a rule subjectto notice and comment to address the results of the study. Any such rule prescribed pursuant to this subsection shall not become effective until 1 year after its adoption.
+Authority.—Following completion of the study required under subsection (a), the Secretary, if in the public interest, including public safety and the legal rights of persons injured in railroad accidents, may prescribe a rule subject to notice and comment to address the results of the study. Any such rule prescribed pursuant to this subsection shall not become effective until 1 year after its adoption.
 
 (Added Pub. L. 110–432, div. A, title I, §109(a), Oct. 16, 2008, 122 Stat. 4867.)
 

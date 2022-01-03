@@ -34,7 +34,7 @@ If this subsection applies to a plan, notwithstanding any other provision of thi
 
 #### (6) Liability for funding tax
 
-&emsp;For a plan year the liability under section 4971 of each employer who is a party to the collective bargaining agreement shall be determined in a reasonable manner not inconsistent with regulations prescribed by the Secretary—
+&emsp;For a plan year the liability under section 4971 of each employer who is a party to thecollective bargaining agreement shall be determined in a reasonable manner not inconsistent with regulations prescribed by the Secretary—
 
 &emsp;&emsp;(A) first on the basis of their respective delinquencies in meeting required employer contributions under the plan, and
 
@@ -74,7 +74,7 @@ In the case of a plan maintained by more than one employer—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of a plan established after December 31, 1988, each employer shall betreated as maintaining a separate plan for purposes of section 412 unless such plan uses a method for determining required contributions which provides that any employer contributes not less than the amount which would be required if such employer maintained a separate plan.
+&emsp;&emsp;In the case of a plan established after December 31, 1988, each employer shall be treated as maintaining a separate plan for purposes of section 412 unless such plan uses a method for determining required contributions which provides that any employer contributes not less than the amount which would be required if such employer maintained a separate plan.
 
 #### (B) Other plans
 
@@ -102,7 +102,7 @@ In the case of a plan maintained by more than one employer—
 
 #### (ii) Special rule
 
-&emsp;&emsp;&emsp;If this subparagraph applies, the amounts contributed to or under the plan by each employer who maintains the plan (for the portion of the taxable year included within a plan year) shall be considered not to exceed any such limitation if the anticipated employer contributions for such plan year (determined in a reasonable manner not inconsistent with regulations prescribed by the Secretary) do not exceed such limitation. If such anticipated contributions exceed such a limitation, the portion of each such employer's contributions which is not deductible under section 404 shall be determined in accordance with regulations prescribed by the Secretary.
+&emsp;&emsp;&emsp;If this subparagraph applies, the amounts contributed to or under the plan by each employer who maintains the plan (for the portion of the taxable year included within a plan year) shall be considered not to exceed any such limitation if the anticipated employer contributions for such plan year (determined in a reasonablemanner not inconsistent with regulations prescribed by the Secretary) do not exceed such limitation. If such anticipated contributions exceed such a limitation, the portion of each such employer's contributions which is not deductible under section 404 shall be determined in accordance with regulations prescribed by the Secretary.
 
 #### (7) Allocations
 
@@ -166,7 +166,7 @@ Notwithstanding any other provision of this section, in the case of a CSEC plan�
 
 &emsp;&emsp;For purposes of this subsection, the term "pooled plan provider" means, with respect to any plan, a person who—
 
-&emsp;&emsp;&emsp;(i) is designated by the terms of the plan as a named fiduciary (within the meaning of section 402(a)(2) of the Employee Retirement Income Security Act of 1974), as the plan administrator, and as the person responsible to perform all administrative duties (including conducting proper testing with respect to the plan and the employees of each employer in the plan) which are reasonably necessary to ensure that—
+&emsp;&emsp;&emsp;(i) is designated by the terms of the plan as a named fiduciary (within the meaningof section 402(a)(2) of the Employee Retirement Income Security Act of 1974), as the plan administrator, and as the person responsible to perform all administrative duties (including conducting proper testing with respect to the plan and the employees of each employer in the plan) which are reasonably necessary to ensure that—
 
 &emsp;&emsp;&emsp;&emsp;(I) the plan meets any requirement applicable under the Employee Retirement Income Security Act of 1974 or this title to a plan described in section 401(a) or to a plan that consists of individual retirement accounts described in section 408 (including by reason of subsection (c) thereof), whichever is applicable, and
 
@@ -214,9 +214,11 @@ Notwithstanding any other provision of this section, in the case of a CSEC plan�
 
 (Added Pub. L. 93–406, title II, §1014, Sept. 2, 1974, 88 Stat. 924; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–364, title II, §208(d), Sept. 26, 1980, 94 Stat. 1290; Pub. L. 100–647, title I, §1011(h)(10), title VI, §6058(a)–(c), Nov. 10, 1988, 102 Stat. 3466, 3698, 3699; Pub. L. 101–508, title XI, §11704(a)(4), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 113–97, title II, §202(b), Apr. 7, 2014, 128 Stat. 1134; Pub. L. 115–141, div. U, title IV, §401(a)(86), Mar. 23, 2018, 132 Stat. 1188; Pub. L. 116–94, div. O, title I, §101(a)(1), (2), Dec. 20, 2019, 133 Stat. 3138, 3141.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Employee Retirement Income Security Act of 1974, referred to in subsecs. (b)(6) and (e), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Part 1 of subtitle E of title IV of the Employee Retirement Income Security Act of 1974 is classified generally to part 1 (§1381 et seq.) of subtitle E of subchapter III of chapter 18 of Title 29, Labor. Sections 3(43), (44), 402(a)(2), and 412 of the Act are classified to sections 1002(43), (44), 1102(a)(2), and 1112, respectively, of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsecs. (b)(6) and (e), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Part 1 of subtitle E oftitle IV of the Employee Retirement Income Security Act of 1974 is classified generally to part 1 (§1381 et seq.) of subtitle E of subchapter III of chapter 18 of Title 29, Labor. Sections 3(43), (44), 402(a)(2), and 412 of the Act are classified to sections 1002(43), (44), 1102(a)(2), and 1112, respectively, of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 The date of enactment of the Technical and Miscellaneous Revenue Act of 1988, referred to in subsec. (c)(4)(B), is the date of enactment of Pub. L. 100–647, which was approved Nov. 10, 1988.
 
@@ -245,6 +247,8 @@ Subsec. (c)(7). Pub. L. 100–647, §6058(c), added par. (7).
 <b>1980</b>—Subsec. (b)(6). Pub. L. 96–364 inserted provisions relating to withdrawal liability of employer.
 
 <b>1976</b>—Subsecs. (b), (c). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2019 Amendment; Construction
 

@@ -48,7 +48,7 @@ Adequacy of Acquisition Workforce.—Each report under subsection (a) shall—
 
 (d)
 
-Cutters Not Maintained in Class.—Each report under subsection (a) shall identify which, if any, Coast Guard cutters that have been issued a certificate of classification by the American Bureau of Shipping have not been maintained in class, with an explanation detailing the reasons why the cutters have not been maintained in class.
+Cutters Not Maintained in Class.—Each report under subsection (a) shall identify which,if any, Coast Guard cutters that have been issued a certificate of classification by the American Bureau of Shipping have not been maintained in class, with an explanation detailing the reasons why the cutters have not been maintained in class.
 
 (e)
 

@@ -106,6 +106,8 @@ The Secretary shall, directly or by contract, provide technical assistance to a 
 
 (Pub. L. 89–10, title VI, §6114, formerly title VII, §7114, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1910, renumbered title VI, §6114, and amended Pub. L. 114–95, title VI, §§6001(a), (b)(1), (4), §6002(f), Dec. 10, 2015, 129 Stat. 2046, 2049.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 7424, Pub. L. 89–10, title VII, §7114, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3721, related to comprehensive school grants, prior to the general amendment of former subchapter VII of this chapter by Pub. L. 107–110.
@@ -118,7 +120,7 @@ Subsec. (b)(1). Pub. L. 114–95, §6002(f)(2)(A), substituted "Indian" for "Ame
 
 Subsec. (b)(2)(A). Pub. L. 114–95, §6002(f)(2)(B)(i), substituted "is consistent with the State, tribal, and local plans" for "is consistent with the State and local plans".
 
-Subsec. (b)(2)(B). Pub. L. 114–95, §6002(f)(2)(B)(ii), added subpar. (B) and struck out former subpar. (B) which read as follows: "includes academic content and student academic achievement goals for such children, and benchmarks for attaining such goals, that are based on the challenging State academic content and student academic achievement standards adopted under subchapter I of this chapter for all children;".
+Subsec. (b)(2)(B). Pub. L. 114–95, §6002(f)(2)(B)(ii), added subpar. (B) and struck out former subpar. (B) which read as follows: "includes academic content and student academic achievement goals for such children,and benchmarks for attaining such goals, that are based on the challenging State academic content and student academic achievement standards adopted under subchapter I of this chapter for all children;".
 
 Subsec. (b)(3). Pub. L. 114–95, §6002(f)(2)(C), added par. (3) and struck out former par. (3) which read as follows: "explains how Federal, State, and local programs, especially programs carried out under subchapter I of this chapter, will meet the needs of such students;".
 
@@ -159,6 +161,8 @@ Subsec. (c)(4)(E). Pub. L. 114–95, §6002(f)(3)(D)(iv), redesignated subpar. (
 Subsec. (c)(5) to (8). Pub. L. 114–95, §6002(f)(3)(E), added pars. (5) to (8).
 
 Subsec. (d). Pub. L. 114–95, §6002(f)(4), added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

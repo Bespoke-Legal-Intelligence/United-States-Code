@@ -20,7 +20,7 @@ Outside Special Aircraft Jurisdiction.—(1) An individual committing or conspir
 
 &emsp;(A) shall be imprisoned for at least 20 years; or
 
-&emsp;(B) notwithstanding section 3559(b) of title 18, if the death of another individual results from the commission or attempt, shall be put to death or imprisoned for life.
+&emsp;(B) notwithstanding section 3559(b) of title 18, if the death of another individual resultsfrom the commission or attempt, shall be put to death or imprisoned for life.
 
 (2) There is jurisdiction over the offense in paragraph (1) if—
 
@@ -76,6 +76,8 @@ In subsection (b)(2), the words "the place of actual" are omitted as surplus. Th
 
 This amends 49:46502(a)(2)(B) and (b)(1)(B) to clarify the restatement of 49 App.:1472(i)(1)(B) and (n)(1)(B) by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1241, 1242).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (a)(2). Pub. L. 104–132, §723(b)(1), inserted "or conspiring" after "attempting".
@@ -87,6 +89,8 @@ Subsec. (b)(2). Pub. L. 104–132, §721(a)(2), amended par. (2) generally. Prio
 Subsec. (b)(3). Pub. L. 104–132, §721(a)(3), added par. (3).
 
 <b>1994</b>—Subsecs. (a)(2)(B), (b)(1)(B). Pub. L. 103–429 inserted "notwithstanding section 3559(b) of title 18," before "if the death".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 
@@ -110,7 +114,7 @@ Pub. L. 103–322, title VI, §60003(c), as added by Pub. L. 109–177, title II
 
 "(c)
 
-Death Penalty Procedures for Certain Previous Aircraft Piracy Violations.—An individual convicted of violating section 46502 of title 49, United States Code, or its predecessor, may be sentenced to death in accordance with the procedures established in chapter 228 of title 18, United States Code, if for any offense committed before the enactment of the Violent Crime Control and Law Enforcement Act of 1994 (Public Law 103–322) \[Sept. 13, 1994\], but after the enactment of the Antihijacking Act of 1974 (Public Law 93–366) \[Aug. 5, 1974\], it is determined by the finder of fact, before consideration of the factors set forth in sections 3591(a)(2) and 3592(a) and (c) of title 18, United States Code, that one or more of the factors set forth in former section 46503(c)(2) of title 49, United States Code, or its predecessor, has been proven by the Government to exist, beyond a reasonable doubt, and that none of the factors set forth in former section 46503(c)(1) of title 49, United States Code, or its predecessor, has been proven by the defendant to exist, by a preponderance of the information. The meaning of the term 'especially heinous, cruel, or depraved', as used inthe factor set forth in former section 46503(c)(2)(B)(iv) of title 49, United States Code, or its predecessor, shall be narrowed by adding the limiting language 'in that it involved torture or serious physical abuse to the victim', and shall be construed as when that term is used in section 3592(c)(6) of title 18, United States Code."
+Death Penalty Procedures for Certain Previous Aircraft Piracy Violations.—An individual convicted of violating section 46502 of title 49, United States Code, or its predecessor, may be sentenced to death in accordance with the procedures established in chapter 228 of title 18, United States Code, if for any offense committed before the enactment of the Violent Crime Control and Law Enforcement Act of 1994 (Public Law 103–322) \[Sept. 13, 1994\], but after the enactment of the Antihijacking Act of 1974 (Public Law 93–366) \[Aug. 5, 1974\], it is determined by the finder of fact, before consideration of the factors set forth in sections 3591(a)(2) and 3592(a) and (c) of title 18, United States Code, that one or more of the factors set forth in former section 46503(c)(2) of title 49, United States Code, or its predecessor, has been proven by the Government to exist, beyond a reasonable doubt, and that none of the factors set forth in former section 46503(c)(1) of title 49, United States Code, or its predecessor, has been proven by the defendant to exist, by a preponderance of the information. The meaning of the term 'especially heinous, cruel, or depraved', as used in the factor set forth in former section 46503(c)(2)(B)(iv) of title 49, United States Code, or its predecessor, shall be narrowed by adding the limiting language 'in that it involved torture or serious physical abuse to the victim', and shall be construed as when that term is used in section 3592(c)(6) of title 18, United States Code."
 
 #### Aircraft Piracy
 

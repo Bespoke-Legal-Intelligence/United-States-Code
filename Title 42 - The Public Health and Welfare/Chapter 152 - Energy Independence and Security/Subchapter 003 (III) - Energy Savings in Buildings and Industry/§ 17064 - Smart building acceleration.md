@@ -88,7 +88,7 @@ In this section:
 
 #### (6) Evaluation
 
-&emsp;Using the guidelines of the Federal Energy Management Program relating to whole-building evaluation, measurement, and verification, the Secretary shall evaluate the costs and benefits of the buildings selectedunder paragraph (2), including an identification of—
+&emsp;Using the guidelines of the Federal Energy Management Program relating to whole-building evaluation, measurement, and verification, the Secretary shall evaluate the costs and benefits of the buildings selected under paragraph (2), including an identification of—
 
 &emsp;&emsp;(A) which advanced building technologies—
 
@@ -157,6 +157,8 @@ Not later than 2 years after December 27, 2020, and every 2 years thereafter unt
 &emsp;(3) any recommendations of the Secretary to further accelerate the transition to smart buildings.
 
 (Pub. L. 116–260, div. Z, title I, §1007, Dec. 27, 2020, 134 Stat. 2433.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

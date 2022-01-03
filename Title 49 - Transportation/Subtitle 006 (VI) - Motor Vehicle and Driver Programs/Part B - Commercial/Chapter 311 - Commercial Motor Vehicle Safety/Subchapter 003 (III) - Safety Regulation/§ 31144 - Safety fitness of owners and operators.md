@@ -164,7 +164,7 @@ Periodic update of safety fitness rating.—In conducting the safety reviews req
 
 &emsp;&emsp;(B) annually assess the safety fitness of certain motor carriers of passengers that serve primarily urban areas with high passenger loads.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1012; Pub. L. 104–88, title I, §104(g), Dec. 29, 1995, 109 Stat. 920; Pub. L. 105–178, title IV, §4009(a), June 9, 1998, 112 Stat. 405; Pub. L. 106–159, title II, §210(a), Dec. 9, 1999, 113 Stat. 1764; Pub. L. 109–59, title IV, §§4107(b), 4114, title VII, §7112(b), (c), Aug. 10, 2005, 119 Stat. 1720, 1725, 1899; Pub. L. 110–244, title III, §301(b), (c), June 6, 2008, 122 Stat. 1616; Pub. L. 111–147, title IV, §422(e), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, §2202(e), Dec. 22, 2010, 124 Stat. 3525; Pub. L. 112–5, title II, §202(e), Mar. 4, 2011, 125 Stat. 17; Pub. L. 112–30, title I, §122(e), Sept. 16, 2011, 125Stat. 349; Pub. L. 112–102, title II, §202(e), Mar. 30, 2012, 126 Stat. 274; Pub. L. 112–140, title II, §202(e), June 29, 2012, 126 Stat. 395; Pub. L. 112–141, div. C, title II, §§32102(a), 32202, 32603(e), 32707(a), 32921(b), div. G, title II, §112002(d), July 6, 2012, 126 Stat. 778, 784, 808, 813, 828, 983; Pub. L. 113–159, title I, §1102(e), Aug. 8, 2014, 128 Stat. 1844; Pub. L. 114–21, title I, §1102(e), May 29, 2015, 129 Stat. 222; Pub. L. 114–41, title I, §1102(e), July 31, 2015, 129 Stat. 449; Pub. L. 114–73, title I, §1102(e), Oct. 29, 2015, 129 Stat. 572; Pub. L. 114–87, title I, §1102(e), Nov. 20, 2015, 129 Stat. 681; Pub. L. 114–94, div. A, title V, §§5101(e)(1), 5105(d), 5508(b)(4), Dec. 4, 2015, 129 Stat. 1525, 1529, 1554.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1012; Pub. L. 104–88, title I, §104(g), Dec. 29, 1995, 109 Stat. 920; Pub. L. 105–178, title IV, §4009(a), June 9, 1998, 112 Stat. 405; Pub. L. 106–159, title II, §210(a), Dec. 9, 1999, 113 Stat. 1764; Pub. L. 109–59, title IV, §§4107(b), 4114, title VII, §7112(b), (c), Aug. 10, 2005, 119 Stat. 1720, 1725, 1899; Pub. L. 110–244, title III, §301(b), (c), June 6, 2008, 122 Stat. 1616; Pub. L. 111–147, title IV, §422(e), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, §2202(e), Dec. 22, 2010, 124 Stat. 3525; Pub. L. 112–5, title II, §202(e), Mar. 4, 2011, 125 Stat. 17; Pub. L. 112–30, title I, §122(e), Sept. 16, 2011, 125 Stat. 349; Pub. L. 112–102, title II, §202(e), Mar. 30, 2012, 126 Stat. 274; Pub. L. 112–140, title II, §202(e), June 29, 2012, 126 Stat. 395; Pub. L. 112–141, div. C, title II, §§32102(a), 32202, 32603(e), 32707(a), 32921(b), div. G, title II, §112002(d), July 6, 2012, 126 Stat. 778, 784, 808, 813, 828, 983; Pub. L. 113–159, title I, §1102(e), Aug. 8, 2014, 128 Stat.1844; Pub. L. 114–21, title I, §1102(e), May 29, 2015, 129 Stat. 222; Pub. L. 114–41, title I, §1102(e), July 31, 2015, 129 Stat. 449; Pub. L. 114–73, title I, §1102(e), Oct. 29, 2015, 129 Stat. 572; Pub. L. 114–87, title I, §1102(e), Nov. 20, 2015, 129 Stat. 681; Pub. L. 114–94, div. A, title V, §§5101(e)(1), 5105(d), 5508(b)(4), Dec. 4, 2015, 129 Stat. 1525, 1529, 1554.)
 
 Historical and Revision Notes
 
@@ -193,6 +193,8 @@ Oct. 30, 1984, Pub. L. 98–554, §215, 98 Stat. 2844.
 In subsection (a), the word "regulation" is substituted for "rule" for consistency in the revised title and because the terms are synonymous.
 
 In subsection (a)(1), the words "after notice and opportunity for comment" are omitted as unnecessary because of 5:553. The text of 49 App.:2512(b) is omitted as executed.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -292,6 +294,8 @@ Findings and Action on Applications.—The Commission shall—
 
 &emsp;"(2) deny the application."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
 Amendment by section 5105(d) of Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
@@ -323,6 +327,38 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 #### Deemed References to Chapters 509 and 511 of Title 51
 
 General references to "this title" deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
+
+#### Improving Federal-State Motor Carrier Safety Enforcement Coordination
+
+Pub. L. 117–58, div. B, title III, §23014, Nov. 15, 2021, 135 Stat. 773, provided that:
+
+"(a)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Covered state.—The term 'covered State' means a State that receives Federal funds under the motor carrier safety assistance program established under section 31102 of title 49, United States Code.
+
+&emsp;"(2)
+
+Imminent hazard.—The term 'imminent hazard' has the same meaning as in section 521 of title 49, United States Code.
+
+"(b)
+
+Review and Enforcement of State Out-of-service Orders.—As soon as practicable after the date of enactment of this Act \[Nov. 15, 2021\], the Secretary \[of Transportation\] shall publish in the Federal Register a process under which the Secretary shall review each out-of-service order issued by a covered State in accordance with section 31144(d) of title 49, United States Code, by not later than 30 days after the date on which the out-of-service order is submitted to the Secretary by the covered State.
+
+"(c)
+
+Review and Enforcement of State Imminent Hazard Determinations.—
+
+&emsp;"(1)
+
+In general.—As soon as practicable after the date of enactment of this Act, the Secretary shall publish in the Federal Register a process under which the Secretary shall review imminent hazard determinations made by covered States.
+
+&emsp;"(2)
+
+Enforcement.—On reviewing an imminent hazard determination under paragraph (1), the Secretary shall pursue enforcement under section 521 of title 49, United States Code, as the Secretary determines to be appropriate."
 
 #### High Risk Carrier Reviews
 

@@ -26,6 +26,8 @@ The words "in his discretion and", "rules", "limitations", and "on hand and belo
 
 In 10:9656, the words ", and at least one of which is designated by the Civil Aeronautics Authority for the training of Negro air pilots" are stricken as obsolete.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1982</b>—Pub. L. 97–295 struck out ", and at least one of which is designated by the Civil Aeronautics Authority for the training of Negro air pilots" after "competent orders".

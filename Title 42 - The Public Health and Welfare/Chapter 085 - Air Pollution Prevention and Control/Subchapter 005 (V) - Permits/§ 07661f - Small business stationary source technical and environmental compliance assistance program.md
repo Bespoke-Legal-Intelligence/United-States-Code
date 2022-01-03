@@ -36,7 +36,7 @@ The Administrator shall establish within 9 months after November 15, 1990, a sma
 
 #### (c) Eligibility
 
-(1) Except as provided in paragraphs (2) and (3), for purposes of this section, the term "small business stationary source" means a stationary source that—
+(1) Except as provided in paragraphs (2) and (3), for purposes of this section, the term "smallbusiness stationary source" means a stationary source that—
 
 &emsp;(A) is owned or operated by a person that employs 100 or fewer individuals,<sup>1</sup>
 
@@ -62,7 +62,7 @@ The Administrator shall direct the Agency's Office of Small and Disadvantaged Bu
 
 &emsp;(2) make periodic reports to the Congress on the compliance of the Small Business Stationary Source Technical and Environmental Compliance Assistance Program with the requirements of the Paperwork Reduction Act,<sup>3</sup> the Regulatory Flexibility Act \[5 U.S.C. 601 et seq.\], and the Equal Access to Justice Act;
 
-&emsp;(3) review information to be issued by the Small Business Stationary Source Technical and Environmental Compliance Assistance Program for small business stationary sourcesto ensure that the information is understandable by the layperson; and
+&emsp;(3) review information to be issued by the Small Business Stationary Source Technical and Environmental Compliance Assistance Program for small business stationary sources to ensure that the information is understandable by the layperson; and
 
 &emsp;(4) have the Small Business Stationary Source Technical and Environmental Compliance Assistance Program serve as the secretariat for the development and dissemination of such reports and advisory opinions.
 
@@ -101,6 +101,8 @@ In developing regulations and CTGs under this chapter that contain continuous em
 The Administrator shall consider, consistent with the requirements of this chapter, the size, type, and technical capabilities of small business stationary sources (and sources which are eligible under subsection (c)(2) to be treated as small business stationary sources) in developing CTGs applicable to such sources under this chapter.
 
 (July 14, 1955, ch. 360, title V, §507, as added Pub. L. 101–549, title V, §501, Nov. 15, 1990, 104 Stat. 2645.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

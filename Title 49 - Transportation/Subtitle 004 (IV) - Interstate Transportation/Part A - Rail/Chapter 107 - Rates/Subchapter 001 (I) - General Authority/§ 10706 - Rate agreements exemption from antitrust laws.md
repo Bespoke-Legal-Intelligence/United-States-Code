@@ -8,7 +8,7 @@
 
 &emsp;(C) the term "practicably participates in the movement" shall have such meaning as the Board shall by regulation prescribe.
 
-(2)(A) A rail carrier providing transportation subject to the jurisdiction of the Board under this part that is a party to an agreement of at least 2 rail carriers that relates to rates (including charges between rail carriers and compensation paid or received for the use of facilities and equipment), classifications, divisions, or rules related to them, or procedures for joint consideration, initiation, publication, or establishment of them, shall apply to the Board for approval of that agreement under this subsection. The Board shall approve the agreement only when it finds that the making and carrying out of the agreement will further the transportation policy of section 10101 of this title and may require compliance with conditions necessary to make the agreement further that policy as a condition of its approval. If the Board approves the agreement, it may be made and carried out under its terms and under the conditions required by the Board, and the Sherman Act (15 U.S.C. 1, et seq.), the Clayton Act (15 U.S.C. 12, et seq.), the Federal Trade Commission Act (15 U.S.C. 41, et seq.), sections 73 and 74 of the Wilson Tariff Act (15 U.S.C. 8 and 9), and the Act of June 19, 1936 (15 U.S.C. 13, 13a, 13b, 21a) do not apply to parties and other persons with respect to making or carrying out the agreement. However, the Board may not approve or continue approval of an agreement when the conditions required by it are not met or if it does not receive a verified statement under subparagraph (B) of this paragraph.
+(2)(A) A rail carrier providing transportation subject to the jurisdiction of the Board under this part that is a party to an agreement of at least 2 rail carriers that relates to rates (including charges between rail carriers and compensation paid or received for the use of facilities andequipment), classifications, divisions, or rules related to them, or procedures for joint consideration, initiation, publication, or establishment of them, shall apply to the Board for approval of that agreement under this subsection. The Board shall approve the agreement only when it finds that the making and carrying out of the agreement will further the transportation policy of section 10101 of this title and may require compliance with conditions necessary to make the agreement further that policy as a condition of its approval. If the Board approves the agreement, it may be made and carried out under its terms and under the conditions required by the Board, and the Sherman Act (15 U.S.C. 1, et seq.), the Clayton Act (15 U.S.C. 12, et seq.), the Federal Trade Commission Act (15 U.S.C. 41, et seq.), sections 73 and 74 of the Wilson Tariff Act (15 U.S.C. 8 and 9), and the Act of June 19, 1936 (15 U.S.C. 13, 13a, 13b, 21a) do not apply to parties and other persons with respect to making or carrying out the agreement. However, the Board may not approve or continue approval of an agreement when the conditions required by it are not met or if it does not receive a verified statement under subparagraph (B) of this paragraph.
 
 (B) The Board may approve an agreement under subparagraph (A) of this paragraph only when the rail carriers applying for approval file a verified statement with the Board. Each statement must specify for each rail carrier that is a party to the agreement—
 
@@ -16,7 +16,7 @@
 
 &emsp;(ii) the mailing address and telephone number of its headquarter's office; and
 
-&emsp;(iii) the names of each of its affiliates and the names, addresses, and affiliates of each ofits officers and directors and of each person, together with an affiliate, owning or controlling any debt, equity, or security interest in it having a value of at least $1,000,000.
+&emsp;(iii) the names of each of its affiliates and the names, addresses, and affiliates of each of its officers and directors and of each person, together with an affiliate, owning or controlling any debt, equity, or security interest in it having a value of at least $1,000,000.
 
 (3)(A) An organization established or continued under an agreement approved under this subsection shall make a final disposition of a rule or rate docketed with it by the 120th day after the proposal is docketed. Such an organization may not—
 
@@ -42,7 +42,7 @@
 
 (5)(A) Whenever two or more shippers enter into an agreement to discuss among themselves that relates to the amount of compensation such shippers propose to be paid by rail carriers providing transportation subject to the jurisdiction of the Board under this part, for use by such rail carriers of rolling stock owned or leased by such shippers, the shippers shall apply to the Board for approval of that agreement under this paragraph. The Board shall approve the agreement only when it finds that the making and carrying out of the agreement will further the transportation policy set forth in section 10101 of this title and may require compliance with conditions necessary to make the agreement further that policy as a condition of approval. If the Board approves the agreement, it may be made and carried out under its terms and under the terms required by the Board, and the antitrust laws set forth in paragraph (2) of this subsection do not apply to parties and other persons with respect to making or carrying out the agreement. The Board shall approve or disapprove an agreement under this paragraph within one year after the date application for approval of such agreement is made.
 
-(B) If the Board approves an agreement described in subparagraph (A) of this paragraph and the shippers entering into such agreement and the rail carriers proposing to use rolling stock owned or leased by such shippers, under payment by such carriers or under a published allowance, are unable to agree upon the amount of compensation to be paid for the use of such rolling stock, any party directly involved in the negotiations may require that the matter be settled by submitting the issues in dispute tothe Board. The Board shall render a binding decision, based upon a standard of reasonableness and after taking into consideration any past precedents on the subject matter of the negotiations, no later than 90 days after the date of the submission of the dispute to the Board.
+(B) If the Board approves an agreement described in subparagraph (A) of this paragraph and the shippers entering into such agreement and the rail carriers proposing to use rolling stock owned or leased by such shippers, under payment by such carriers or under a published allowance, are unable to agree upon the amount of compensation to be paid for the use of such rolling stock, any party directly involved in the negotiations may require that the matter be settled by submitting the issues in dispute to the Board. The Board shall render a binding decision, based upon a standard of reasonableness and after taking into consideration any past precedents on the subject matter of the negotiations, no later than 90 days after the date of the submission of the dispute to the Board.
 
 (C) Nothing in this paragraph shall be construed to change the law in effect prior to October 1, 1980, with respect to the obligation of rail carriers to utilize rolling stock owned or leased by shippers.
 
@@ -76,6 +76,8 @@
 
 (Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 812; amended Pub. L. 104–287, §5(24), Oct. 11, 1996, 110 Stat. 3390.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Sherman Act, referred to in subsec. (a)(2)(A), (4), is act July 2, 1890, ch. 647, 26 Stat. 209, as amended, which is classified to sections 1 to 7 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1 of Title 15 and Tables.
@@ -95,6 +97,8 @@ A prior section 10706, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1377; Pub. L. 9
 #### Amendments
 
 <b>1996</b>—Subsec. (a)(5)(C). Pub. L. 104–287 substituted "October 1, 1980," for "the effective date of the Staggers Rail Act of 1980".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

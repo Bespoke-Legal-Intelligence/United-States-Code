@@ -18,6 +18,8 @@ For purposes of this chapter—
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1378; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 114–113, div. Q, title III, §332(b)(2)(B), Dec. 18, 2015, 129 Stat. 3106.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 5351, act Aug. 16, 1954, ch. 736, 68A Stat. 663, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
@@ -27,6 +29,8 @@ A prior section 5351, act Aug. 16, 1954, ch. 736, 68A Stat. 663, consisted of pr
 <b>2015</b>—Pub. L. 114–113 designated existing provisions as subsec. (a), inserted heading, inserted ", except as provided under section 5551(d)," before "file bond", struck out "Such premises shall be known as 'bonded wine cellars'; except that any such premises engaging in production operations may, in the discretion of the Secretary, be designated as a 'bonded winery'." at end, and added subsec. (b).
 
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

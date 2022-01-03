@@ -10,9 +10,11 @@ The Institute shall be located at an institution of higher education or at a con
 
 #### (c) Authorization of appropriations
 
-To carry out this section, there are authorized to be appropriated $10,000,000 for fiscal year 1994and such sums as may necessary <sup>1</sup> for each of fiscal years 1995 and 1996.
+To carry out this section, there are authorized to be appropriated $10,000,000 for fiscal year 1994 and such sums as may necessary <sup>1</sup> for each of fiscal years 1995 and 1996.
 
 (Pub. L. 102–532, §4, Oct. 27, 1992, 106 Stat. 3512.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

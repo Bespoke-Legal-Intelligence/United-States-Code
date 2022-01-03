@@ -1,0 +1,136 @@
+## Subpart D—General Contracting Provisions
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2021</b>—Pub. L. 117–81, div. A, title XVII, §1701(h)(1), Dec. 27, 2021, 135 Stat. 2140, amended subpart heading generally. Prior to amendment, heading read as follows: "General Contracting Requirements".
+
+<b>2018</b>—Pub. L. 115–232, div. A, title VIII, §801(a), Aug. 13, 2018, 132 Stat. 1828, added subpart heading.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Pilot Program To Accelerate Contracting and Pricing Processes
+
+Pub. L. 115–232, div. A, title VIII, §890, Aug. 13, 2018, 132 Stat. 1919, as amended by Pub. L. 116–92, div. A, title VIII, §825, Dec. 20, 2019, 133 Stat. 1491; Pub. L. 116–283, div. A, title XVIII, §1831(j)(7), Jan. 1, 2021, 134 Stat. 4217, provided that:
+
+"(a)
+
+In General.—The Secretary of Defense shall establish a pilot program to reform and accelerate the contracting and pricing processes associated with contracts in excess of $50,000,000 by—
+
+&emsp;"(1) basing price reasonableness determinations on actual cost and pricing data for purchases of the same or similar products for the Department of Defense; and
+
+&emsp;"(2) reducing the cost and pricing data to be submitted in accordance with of \[sic\] chapter 271 of title 10, United States Code.
+
+"(b)
+
+Report.—Not later than January 30, 2021, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the results of the pilot program authorized under subsection (a).
+
+"(c)
+
+Sunset.—The authority to carry out the pilot program under this section shall expire on January 2, 2023."
+
+#### Guidance and Training Related to Evaluating Reasonableness of Price
+
+Pub. L. 112–239, div. A, title VIII, §831, Jan. 2, 2013, 126 Stat. 1842, provided that:
+
+"(a)
+
+Guidance.—Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Under Secretary of Defense for Acquisition, Technology, and Logistics shall issue guidance on the use of the authority provided by sections 2306a(d) \[now 10 U.S.C. 3705\] and 2379 \[now 10 U.S.C. 3455\] of title 10, United States Code. The guidance shall—
+
+&emsp;"(1) include standards for determining whether information on the prices at which the same or similar items have previously been sold is adequate for evaluating the reasonableness of price;
+
+&emsp;"(2) include standards for determining the extent of uncertified cost information that should be required in cases in which price information is not adequate for evaluating the reasonableness of price;
+
+&emsp;"(3) ensure that in cases in which such uncertified cost information is required, the information shall be provided in the form in which it is regularly maintained by the offeror in its business operations; and
+
+&emsp;"(4) provide that no additional cost information may be required by the Department of Defense in any case in which there are sufficient non-Government sales to establish reasonableness of price.
+
+"(b)
+
+Training and Expertise.—Not later than 270 days after the date of the enactment of this Act, the Under Secretary of Defense for Acquisition, Technology, and Logistics shall develop and begin implementation of a plan of action to—
+
+&emsp;"(1) train the acquisition workforce on the use of the authority provided by sections 2306a(d) \[now 10 U.S.C. 3705\] and 2379 \[now 10 U.S.C. 3455\] of title 10, United States Code, in evaluating reasonableness of price in procurements of commercial items; and
+
+&emsp;"(2) develop a cadre of experts within the Department of Defense to provide expert advice to the acquisition workforce in the use of the authority provided by such sections in accordance with the guidance issued pursuant to subsection (a).
+
+"(c)
+
+Documentation Requirements.—The Under Secretary of Defense for Acquisition, Technology, and Logistics shall ensure that requests for uncertified cost information for the purposes of evaluating reasonableness of price are sufficiently documented. The Under Secretary shall require that the contract file include, at a minimum, the following:
+
+&emsp;"(1) A justification of the need for additional cost information.
+
+&emsp;"(2) A copy of any request from the Department of Defense to a contractor for additional cost information.
+
+&emsp;"(3) Any response received from the contractor to the request, including any rationale or justification provided by the contractor for a failure to provide the requested information.
+
+"(d)
+
+Comptroller General Review and Report.—
+
+&emsp;"(1)
+
+Review requirement.—The Comptroller General of the United States shall conduct a review of data collected pursuant to sections 2306a(d) \[now 10 U.S.C. 3705\] and 2379 \[now 10 U.S.C. 3455\] of title 10, United States Code, during the two-year period beginning on the date of the enactment of this Act.
+
+&emsp;"(2)
+
+Report requirement.—Not later than 180 days after the end of the two-year period referred to in paragraph (1), the Comptroller General shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on—
+
+&emsp;&emsp;"(A) the extent to which the Department of Defense needed access to additional cost information pursuant to sections 2306a(d) \[now 10 U.S.C. 3705\] and 2379 \[now 10 U.S.C. 3455\] of title 10, United States Code, during such two-year period in order to determine price reasonableness;
+
+&emsp;&emsp;"(B) the extent to which acquisition officials of the Department of Defense complied with the guidance issued pursuant to subsection (a) during such two-year period;
+
+&emsp;&emsp;"(C) the extent to which the Department of Defense needed access to additional cost information during such two-year period to determine reasonableness of price, but was not provided such information by the contractor on request; and
+
+&emsp;&emsp;"(D) recommendations for improving evaluations of reasonableness of price by Department of Defense acquisition professionals, including recommendations for any amendments to law, regulations, or guidance."
+
+#### Grants of Exceptions to Cost or Pricing Data Certification Requirements and Waivers of Cost Accounting Standards
+
+Pub. L. 107–314, div. A, title VIII, §817, Dec. 2, 2002, 116 Stat. 2610, as amended by Pub. L. 112–81, div. A, title VIII, §809(a), Dec. 31, 2011, 125 Stat. 1490; Pub. L. 113–291, div. A, title X, §1071(b)(7), Dec. 19, 2014, 128 Stat. 3507;Pub. L. 115–91, div. A, title X, §1051(j), Dec. 12, 2017, 131 Stat. 1563; Pub. L. 115–232, div. A, title VIII, §§825, 836(f)(4), Aug. 13, 2018, 132 Stat. 1856, 1871, provided that:
+
+"(a)
+
+Guidance for Exceptions in Exceptional Circumstances.—Not later than 60 days after the date of the enactment of this Act \[Dec. 2, 2002\], the Secretary of Defense shall issue guidance on the circumstances under which it is appropriate to grant an exceptional case exception or waiver with respect to certified cost and pricing data and cost accounting standards.
+
+"(b)
+
+Determination Required for Exceptional Case Exception or Waiver.—The guidance shall, at a minimum, include a limitation that a grant of an exceptional case exception or waiver is appropriate with respect to a contract, subcontract, or (in the case of submission of certified cost and pricing data) modification only upon a determination that—
+
+&emsp;"(1) the property or services cannot reasonably be obtained under the contract, subcontract, or modification, as the case may be, without the grant of the exception or waiver;
+
+&emsp;"(2) the price can be determined to be fair and reasonable without the submission of certified cost and pricing data or the application of cost accounting standards, as the case may be; or
+
+&emsp;"(3) there are demonstrated benefits to granting the exception or waiver.
+
+"(c)
+
+Applicability of New Guidance.—The guidance issued under subsection (a) shall apply to each exceptional case exception or waiver that is granted on or after the date on which the guidance is issued.
+
+"(d)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'exceptional case exception or waiver' means either of the following:
+
+&emsp;&emsp;"(A) An exception pursuant to section 2306a(b)(1)(C) of title 10, United States Code \[now 10 U.S.C. 3703(a)(3)\], relating to submission of certified cost and pricing data.
+
+&emsp;&emsp;"(B) A waiver pursuant to section 1502(b)(3)(B) of title 41, United States Code, relating to the applicability of cost accounting standards to contracts and subcontracts.
+
+&emsp;"(2) The term 'commercial product-commercial service exception' means an exception pursuant to section 2306a(b)(1)(B) of title 10, United States Code \[now 10 U.S.C. 3703(a)(2)\], relating to submission of certified cost and pricing data."
+
+\[Section 836(f)(4)(A) of Pub. L. 115–232, which directed amendment of section 817(d)(1) of Pub. L. 107–314, set out above, by substituting "commercial product-commercial service exceptions" for "commercial item exceptions", could not be executed because those words did not appear subsequent to amendment by section 1051(j) of Pub. L. 115–91.\]
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [Chapter 271 - Truthful Cost or Pricing Data (Truth in Negotiations)](Chapter%20271%20-%20Truthful%20Cost%20or%20Pricing%20Data%20%28Truth%20in%20Negotiations%29/README.md)
+- [Chapter 272 - \[Reserved](Chapter%20272%20-%20%5BReserved/README.md)
+- [Chapter 273 - Allowable Costs](Chapter%20273%20-%20Allowable%20Costs/README.md)
+- [Chapter 275 - Proprietary Contractor Data and Rights in Technical Data](Chapter%20275%20-%20Proprietary%20Contractor%20Data%20and%20Rights%20in%20Technical%20Data/README.md)
+- [Chapter 277 - Contract Financing](Chapter%20277%20-%20Contract%20Financing/README.md)
+- [Chapter 279 - Contractor Audits and Accounting](Chapter%20279%20-%20Contractor%20Audits%20and%20Accounting/README.md)
+- [Chapter 281 - Claims and Disputes](Chapter%20281%20-%20Claims%20and%20Disputes/README.md)
+- [Chapter 283 - \[Reserved](Chapter%20283%20-%20%5BReserved/README.md)
+- [Chapter 287 - Other Contracting Programs](Chapter%20287%20-%20Other%20Contracting%20Programs/README.md)

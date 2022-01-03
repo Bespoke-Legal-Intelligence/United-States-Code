@@ -34,13 +34,13 @@ To be eligible to receive an award under subsection (a), an entity shall—
 
 &emsp;&emsp;&emsp;(v) a description of how the entity will include the State Unit on Aging in public health emergency preparedness;
 
-&emsp;&emsp;&emsp;(vi) a description of how, as appropriate, the entity may partner with relevant public and private stakeholders, including public health agencies with specific expertise that may be relevant to public health security, such as environmental health agencies, in public health emergency preparedness and response;
+&emsp;&emsp;&emsp;(vi) a description of how, as appropriate, the entity may partner with relevant public and private stakeholders, including public health agencies with specific expertise that may be relevant to public health security, such as environmental healthagencies, in public health emergency preparedness and response;
 
 &emsp;&emsp;&emsp;(vii) a description of how, as applicable, such entity may integrate information to account for individuals with behavioral health needs following a public health emergency;
 
 &emsp;&emsp;&emsp;(viii) a description of how the entity, as applicable and appropriate, will coordinate with State emergency preparedness and response plans in public health emergency preparedness, including State educational agencies (as defined in section 7801 of title 20) and State child care lead agencies (designated under section 9858b of this title);
 
-&emsp;&emsp;&emsp;(ix) in the case of entities that operate on the United States-Mexico border or theUnited States-Canada border, a description of the activities such entity will carry out under the agreement that are specific to the border area including disease detection, identification, investigation, and preparedness and response activities related to emerging diseases and infectious disease outbreaks whether naturally occurring or due to bioterrorism, consistent with the requirements of this section;
+&emsp;&emsp;&emsp;(ix) in the case of entities that operate on the United States-Mexico border or the United States-Canada border, a description of the activities such entity will carry out under the agreement that are specific to the border area including disease detection, identification, investigation, and preparedness and response activities related to emerging diseases and infectious disease outbreaks whether naturally occurring or due to bioterrorism, consistent with the requirements of this section;
 
 &emsp;&emsp;&emsp;(x) a description of any activities that such entity will use to analyze real-time clinical specimens for pathogens of public health or bioterrorism significance, including any utilization of poison control centers;
 
@@ -94,7 +94,7 @@ In making awards under subsection (a), the Secretary shall consult with the Secr
 
 #### (1) In general
 
-&emsp;Not later than 180 days after December 19, 2006, the Secretary shall develop or where appropriate adopt, and require the application of, measurable evidence-based benchmarks and objective standards that measure levels of preparedness with respect to the activities described in this section and with respect to activities described in section 247d–3b of this title. In developing such benchmarks andstandards, the Secretary shall consult with and seek comments from State, local, and tribal officials and private entities, as appropriate. Where appropriate, the Secretary shall incorporate existing objective standards. Such benchmarks and standards shall—
+&emsp;Not later than 180 days after December 19, 2006, the Secretary shall develop or where appropriate adopt, and require the application of, measurable evidence-based benchmarks and objective standards that measure levels of preparedness with respect to the activities described in this section and with respect to activities described in section 247d–3b of this title. In developing such benchmarks and standards, the Secretary shall consult with and seek comments from State, local, and tribal officials and private entities, as appropriate. Where appropriate, the Secretary shall incorporate existing objective standards. Such benchmarks and standards shall—
 
 &emsp;&emsp;(A) include outcome goals representing operational achievements of the National Preparedness Goals developed under section 300hh–1(b) of this title with respect to all-hazards, including chemical, biological, radiological, or nuclear threats; and
 
@@ -214,7 +214,7 @@ In making awards under subsection (a), the Secretary shall consult with the Secr
 
 &emsp;&emsp;&emsp;&emsp;(I) $5,000,000; or
 
-&emsp;&emsp;&emsp;&emsp;(II) if the amount appropriated under paragraph (1)(A) is less than $667,000,000, an amount equal to 0.75 percent of the amount appropriated under such paragraph, less the amount, if any, reserved by the Secretary under paragraphs (4) and (5); or
+&emsp;&emsp;&emsp;&emsp;(II) if the amount appropriated under paragraph (1)(A) is less than $667,000,000, an amount equal to 0.75 percent of theamount appropriated under such paragraph, less the amount, if any, reserved by the Secretary under paragraphs (4) and (5); or
 
 &emsp;&emsp;&emsp;(ii) in the case of each of American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, and the Virgin Islands, an amount determined by the Secretary to be appropriate, except that such amount may not exceed the amount determined under clause (i).
 
@@ -278,7 +278,7 @@ In making awards under subsection (a), the Secretary shall consult with the Secr
 
 &emsp;&emsp;(B) secure a complete record of the purposes for which funds were spent, and of the recipients of such funds;
 
-&emsp;&emsp;(C) describe the extent to which the entity has met the goals and objectives it set forth under this section or section 247d–3b of this title;
+&emsp;&emsp;(C) describe the extent to which the entity has met the goals and objectives it set forthunder this section or section 247d–3b of this title;
 
 &emsp;&emsp;(D) determine the extent to which funds were expended consistent with the entity's application transmitted under this section or section 247d–3b of this title; and
 
@@ -288,7 +288,7 @@ In making awards under subsection (a), the Secretary shall consult with the Secr
 
 #### (A) In general
 
-&emsp;&emsp;Each entity receiving funds under this section or section 247d–3b of this title shall, notless often than once every 2 years, audit its expenditures from amounts received under this section or section 247d–3b of this title. Such audits shall be conducted by an entity independent of the agency administering a program funded under this section or section 247d–3b of this title in accordance with the Comptroller General's standards for auditing governmental organizations, programs, activities, and functions and generally accepted auditing standards. Within 30 days following the completion of each audit report, the entity shall submit a copy of that audit report to the Secretary.
+&emsp;&emsp;Each entity receiving funds under this section or section 247d–3b of this title shall, not less often than once every 2 years, audit its expenditures from amounts received under this section or section 247d–3b of this title. Such audits shall be conducted by an entity independent of the agency administering a program funded under this section or section 247d–3b of this title in accordance with the Comptroller General's standards for auditing governmental organizations, programs, activities, and functions and generally accepted auditing standards. Within 30 days following the completion of each audit report, the entity shall submit a copy of that audit report to the Secretary.
 
 #### (B) Repayment
 
@@ -321,6 +321,8 @@ The Secretary shall compile the data submitted under this section and make such 
 &emsp;&emsp;(D) recommendations, as applicable and appropriate, to improve evidence-based benchmarks and objective standards to more accurately assess the ability of entities receiving awards under this section to better achieve the goals under this section and section 300hh–1 of this title.
 
 (July 1, 1944, ch. 373, title III, §319C–1, as added Pub. L. 107–188, title I, §131(a), June 12, 2002, 116 Stat. 617; amended Pub. L. 109–417, title II, §201, Dec. 19, 2006, 120 Stat. 2837; Pub. L. 113–5, title II, §§202(a), (c)(1), 204(b), Mar. 13, 2013, 127 Stat. 173, 175, 179; Pub. L. 114–95, title IX, §9215(kkk)(1), Dec. 10, 2015, 129 Stat. 2187; Pub. L. 116–22, title II, §§201(a), 202(a), (b)(1), (d), 203(e)(1), 207(b), title VII, §705(b), June 24, 2019, 133 Stat. 907–910, 914, 927, 964.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -421,6 +423,8 @@ Subsec. (j). Pub. L. 109–417, §201(5), added subsec. (j).
 Pub. L. 109–417, §201(3), redesignated subsec. (j) as (i).
 
 Subsec. (k). Pub. L. 109–417, §201(5), added subsec. (k).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2019 Amendment
 

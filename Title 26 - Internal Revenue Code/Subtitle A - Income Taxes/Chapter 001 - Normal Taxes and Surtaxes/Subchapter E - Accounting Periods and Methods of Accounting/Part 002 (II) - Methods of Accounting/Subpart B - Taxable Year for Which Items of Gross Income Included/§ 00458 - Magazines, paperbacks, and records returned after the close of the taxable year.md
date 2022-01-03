@@ -130,11 +130,15 @@ In applying section 481(c) with respect to any election under this section which
 
 (Added Pub. L. 95–600, title III, §372(a), Nov. 6, 1978, 92 Stat. 2860; amended Pub. L. 115–141, div. U, title IV, §401(a)(114), (115), Mar. 23, 2018, 132 Stat. 1189.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (b)(9). Pub. L. 115–141, §401(a)(114), substituted "Repurchase" for "Repurchased" in heading.
 
 Subsec. (c)(1). Pub. L. 115–141, §401(a)(115), substituted "regulations prescribe" for "regulations prescribed".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

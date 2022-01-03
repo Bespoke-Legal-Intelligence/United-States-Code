@@ -24,6 +24,8 @@ July 15, 1939, ch. 285, 53 Stat. 1043.
 
 Since the authority of this section to refund any cash balance extends only to the payee of a check, the section is written to authorize only the payee to cash it. The Fleet Reserve and the Fleet Marine Corps Reserve were parts of the Naval Reserve and the Marine Corps Reserve, respectively, when the source statute was enacted but were removed therefrom by the Armed Forces Reserve Act of 1952. The words "or a member of the Fleet Reserve or the Fleet Marine Corps Reserve" are inserted in clause (1) to give this section the same applicability as the source.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7605 of this title as this section.
@@ -33,6 +35,8 @@ Since the authority of this section to refund any cash balance extends only to t
 <b>1982</b>—Pub. L. 97–258 substituted "section 3302(a) of title 31" for "sections 3639 and 3651 of the Revised Statutes (31 U.S.C. 521 and 543)".
 
 <b>1980</b>—Pub. L. 96–513 substituted "sections 3639 and 3651 of the Revised Statutes (31 U.S.C. 521 and 543)" for "sections 521 and 543 of title 31".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

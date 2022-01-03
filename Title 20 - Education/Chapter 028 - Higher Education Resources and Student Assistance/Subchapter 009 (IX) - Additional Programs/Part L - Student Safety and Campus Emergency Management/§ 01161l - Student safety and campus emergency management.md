@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;From the amounts appropriated under subsection (f), the Secretary is authorized toaward grants, on a competitive basis, to institutions of higher education or consortia of institutions of higher education to enable institutions of higher education or consortia to pay the Federal share of the cost of carrying out the authorized activities described in subsection (c).
+&emsp;From the amounts appropriated under subsection (f), the Secretary is authorized to award grants, on a competitive basis, to institutions of higher education or consortia of institutions of higher education to enable institutions of higher education or consortia to pay the Federal share of the cost of carrying out the authorized activities described in subsection (c).
 
 #### (2) Consultation with the Attorney General and the Secretary of Homeland Security
 
@@ -66,11 +66,15 @@ There are authorized to be appropriated to carry out this part such sums as may 
 
 (Pub. L. 89–329, title VIII, §821, as added Pub. L. 110–315, title VIII, §801, Aug. 14, 2008, 122 Stat. 3408; amended Pub. L. 111–39, title VIII, §801(6), July 1, 2009, 123 Stat. 1956.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2009</b>—Subsec. (a)(1). Pub. L. 111–39, §801(6)(A), substituted "subsection (f)" for "subsection (g)".
 
 Subsec. (c)(1)(B). Pub. L. 111–39, §801(6)(B), substituted "in a reasonable" for "within a reasonable".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

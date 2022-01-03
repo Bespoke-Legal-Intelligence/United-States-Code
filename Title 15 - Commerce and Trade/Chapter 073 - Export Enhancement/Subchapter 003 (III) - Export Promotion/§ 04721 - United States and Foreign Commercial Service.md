@@ -20,7 +20,7 @@
 
 #### (b) Statement of purpose
 
-The Commercial Service shall place primary emphasis on the promotion of exports of goodsand services from the United States, particularly by small businesses and medium-sized businesses, and on the protection of United States business interests abroad by carrying out activities such as—
+The Commercial Service shall place primary emphasis on the promotion of exports of goods and services from the United States, particularly by small businesses and medium-sized businesses, and on the protection of United States business interests abroad by carrying out activities such as—
 
 &emsp;(1) identifying United States businesses with the potential to export goods and services and providing such businesses with advice and information on establishing export businesses;
 
@@ -120,7 +120,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) a corporation, partnership, or other association created under the laws of the United States or of any State; or
 
-&emsp;&emsp;(C) a foreign corporation, partnership, or other association, more than 95 percent of which is owned by persons described in subparagraphs (A) and (B),
+&emsp;&emsp;(C) a foreign corporation, partnership, or other association, more than 95 percent ofwhich is owned by persons described in subparagraphs (A) and (B),
 
 > &emsp;that exports, or seeks to export, goods or services produced in the United States;
 
@@ -131,6 +131,8 @@ For purposes of this section—
 &emsp;(6) the term "United States" means the several States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
 (Pub. L. 100–418, title II, §2301, Aug. 23, 1988, 102 Stat. 1338; Pub. L. 102–429, title II, §§202, 203, 205, Oct. 21, 1992, 106 Stat. 2201, 2204; Pub. L. 115–254, div. F, title VI, §1470(d), Oct. 5, 2018, 132 Stat. 3516.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -151,6 +153,8 @@ Subsec. (f). Pub. L. 115–254 substituted "United States International Developm
 Subsec. (d)(1). Pub. L. 102–429, §205, substituted "16" for "8".
 
 Subsecs. (f) to (j). Pub. L. 102–429, §203(b), added subsec. (f) and redesignated former subsecs. (f) to (i) as (g) to (j), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

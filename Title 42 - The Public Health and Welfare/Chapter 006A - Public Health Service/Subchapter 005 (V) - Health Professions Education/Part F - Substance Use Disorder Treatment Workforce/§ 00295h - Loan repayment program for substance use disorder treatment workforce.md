@@ -62,7 +62,7 @@ No borrower may, for the same service, receive a reduction of loan obligations o
 
 #### (2) Limitation
 
-&emsp;The failure by an individual to complete the full period of service obligated pursuant to such an agreement, taken alone, shall not constitute a breach of the agreement, so long as the individual completed in good faith the years of service for which payments were made to the individual under this section.
+&emsp;The failure by an individual to complete the full period of service obligated pursuant to such an agreement, taken alone, shall not constitute a breach of the agreement, so long as the individual completed in good faith theyears of service for which payments were made to the individual under this section.
 
 #### (g) Additional criteria
 
@@ -100,6 +100,8 @@ There are authorized to be appropriated to carry out this section $25,000,000 fo
 
 (July 1, 1944, ch. 373, title VII, §781, as added Pub. L. 115–271, title VII, §7071(2), Oct. 24, 2018, 132 Stat. 4028.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Higher Education Act of 1965, referred to in subsec. (c)(4), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Part E of title IV of the Act, which relates to Federal Perkins Loans, is classified to part E (§1087aa et seq.) of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see section 1 of Pub. L. 89–329, set out as a Short Title note under section 1001 of Title 20 and Tables.
@@ -118,7 +120,7 @@ Prior sections 295h–1a to 295h–2 were omitted in the general amendment of th
 
 Section 295h–1a, act July 1, 1944, ch. 373, title VII, §791A, formerly §749, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §408(a), 90 Stat. 2280; amended Aug. 1, 1977, Pub. L. 95–83, title III, §307(f), 91 Stat. 391; Oct. 17, 1979, Pub. L. 96–88, title III, §301(a)(1), title V, §507, 93 Stat. 677, 692; renumbered §791A and amended Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2746(b)(2), 95 Stat. 927; Jan. 4, 1983, Pub. L. 97–414, §8(k)(1), 96 Stat. 2061; Oct. 22, 1985, Pub. L. 99–129, title I, §112, 99 Stat. 525; Nov. 4, 1988, Pub. L. 100–607, title VI, §619, 102 Stat. 3140, related to traineeships for students in other graduate programs.
 
-Section 295h–1b, act July 1, 1944, ch. 373, title VII, §792; formerly §748, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §408(a), 90 Stat. 2279; amended Aug. 1, 1977, Pub. L. 95–83, title III, §307(f), 91 Stat. 391; Dec. 19, 1977, Pub. L. 95–215, §3, 91 Stat. 1504; Sept. 29, 1979, Pub. L. 96–76, title II, §206(a), 93 Stat. 583; renumbered §792 and amended Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2746(d), 95 Stat. 927; Oct. 22, 1985, Pub. L. 99–129, title I, §113, 99 Stat. 525; Nov. 4, 1988, Pub. L. 100–607, title VI, §621, 102 Stat. 3141, related to traineeships for students in schools of public health.
+Section 295h–1b, act July 1, 1944, ch. 373, title VII, §792; formerly §748, as added Oct. 12, 1976, Pub. L.94–484, title IV, §408(a), 90 Stat. 2279; amended Aug. 1, 1977, Pub. L. 95–83, title III, §307(f), 91 Stat. 391; Dec. 19, 1977, Pub. L. 95–215, §3, 91 Stat. 1504; Sept. 29, 1979, Pub. L. 96–76, title II, §206(a), 93 Stat. 583; renumbered §792 and amended Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2746(d), 95 Stat. 927; Oct. 22, 1985, Pub. L. 99–129, title I, §113, 99 Stat. 525; Nov. 4, 1988, Pub. L. 100–607, title VI, §621, 102 Stat. 3141, related to traineeships for students in schools of public health.
 
 Section 295h–1c, act July 1, 1944, ch. 373, title VII, §793, as added Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2746(f), 95 Stat. 928; amended Oct. 22, 1985, Pub. L. 99–129, title I, §114, 99 Stat. 525; Nov. 4, 1988, Pub. L. 100–607, title VI, §629(b)(2), 102 Stat. 3146, related to training in preventive medicine.
 

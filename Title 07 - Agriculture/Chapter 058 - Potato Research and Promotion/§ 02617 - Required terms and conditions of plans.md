@@ -28,7 +28,7 @@ Providing that the board shall prepare and submit to the Secretary for his appro
 
 #### (e) Assessment rate per poundage handled; limitation
 
-Providing that the board shall recommend to the Secretary and the Secretary shall fix the assessment rate at not more than 2 cents per onehundred pounds of potatoes handled; except that if approved by producers, and importers when importers are subject to a plan, pursuant to section 2623 of this title, the rate of assessment shall not exceed one-half of 1 per centum of the immediate past ten-calendar-year United States average price received for potatoes by growers as reported by the Department of Agriculture.
+Providing that the board shall recommend to the Secretary and the Secretary shall fix the assessment rate at not more than 2 cents per one hundred pounds of potatoes handled; except that if approved by producers, and importers when importers are subject to a plan, pursuant to section 2623 of this title, the rate of assessment shall not exceed one-half of 1 per centum of the immediate past ten-calendar-year United States average price received for potatoes by growers as reported by the Department of Agriculture.
 
 #### (f) Restrictions
 
@@ -36,7 +36,7 @@ Providing that—
 
 &emsp;(1) funds collected by the board shall be used for research, development, advertising, or promotion of potatoes and potato products and such other expenses for the administration, maintenance, and functioning of the board, as may be authorized by the Secretary, including any referendum and administrative costs incurred by the Department of Agriculture under this chapter: <i>Provided</i>, That the provision for payment to the Department of Agriculture for any referendum and administrative costs so incurred shall not be subject to producer approval, or importer approval when importers are subject to a plan, in a referendum;
 
-&emsp;(2) no advertising or sales promotion program shall make any reference to private brand names or use false or unwarranted claims in behalf of potatoes or their products or false or unwarranted statements with respect to the attributes or use of any competing products; and
+&emsp;(2) no advertising or sales promotion program shall make any reference to privatebrand names or use false or unwarranted claims in behalf of potatoes or their products or false or unwarranted statements with respect to the attributes or use of any competing products; and
 
 &emsp;(3) no funds collected by the board shall in any manner be used for the purpose of influencing governmental policy or action, except as provided by subsection (a)(4) of this section.
 
@@ -53,6 +53,8 @@ Providing the board with authority to enter into contracts or agreements, with t
 Providing that the board shall maintain books and records and prepare and submit to the Secretary such reports from time to time as may be prescribed for appropriate accounting with respect to the receipt and disbursement of funds entrusted to it and cause a complete audit report to be submitted to the Secretary at the end of each fiscal period.
 
 (Pub. L. 91–670, title III, §308, Jan. 11, 1971, 84 Stat. 2042; Pub. L. 97–244, §2, Aug. 26, 1982, 96 Stat. 310; Pub. L. 98–171, §2(a), Nov. 29, 1983, 97 Stat. 1117; Pub. L. 101–624, title XIX, §1940, Nov. 28, 1990, 104 Stat. 3866.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

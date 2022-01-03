@@ -96,7 +96,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (11) Indemnifying bank
 
-&emsp;The term "indemnifying bank" means a bank that is providing an indemnity undersection 5005 of this title with respect to a substitute check.
+&emsp;The term "indemnifying bank" means a bank that is providing an indemnity under section 5005 of this title with respect to a substitute check.
 
 #### (12) MICR line
 

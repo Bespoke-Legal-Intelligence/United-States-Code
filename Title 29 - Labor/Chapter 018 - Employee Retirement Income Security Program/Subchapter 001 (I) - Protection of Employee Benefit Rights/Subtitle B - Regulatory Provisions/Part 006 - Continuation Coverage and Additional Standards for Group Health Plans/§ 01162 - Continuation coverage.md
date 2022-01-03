@@ -1,6 +1,6 @@
 ### §1162. Continuation coverage
 
-For purposes of section 1161 of this title, the term "continuation coverage" means coverage under the plan which meets the following requirements:
+For purposes of section 1161 of this title, the term "continuation coverage" means coverageunder the plan which meets the following requirements:
 
 #### (1) Type of benefit coverage
 
@@ -18,7 +18,7 @@ For purposes of section 1161 of this title, the term "continuation coverage" mea
 
 #### (ii) Special rule for multiple qualifying events
 
-&emsp;&emsp;&emsp;If a qualifying event (other than a qualifying event described in section 1163(6) of this title) occurs during the 18 months after the date of a qualifying event described in section 1163(2) of this title, the date which is 36 months after the date ofthe qualifying event described in section 1163(2) of this title.
+&emsp;&emsp;&emsp;If a qualifying event (other than a qualifying event described in section 1163(6) of this title) occurs during the 18 months after the date of a qualifying event described in section 1163(2) of this title, the date which is 36 months after the date of the qualifying event described in section 1163(2) of this title.
 
 #### (iii) Special rule for certain bankruptcy proceedings
 
@@ -118,7 +118,7 @@ Par. (2)(A)(v). Pub. L. 104–188 amended cl. (v) generally. Prior to amendment,
 
 "(v)
 
-Qualifying event involving medicare entitlement.—In the case of an event described in section 1163(4) of this title (without regard to whether such event is a qualifying event), the period of coverage for qualified beneficiaries other than the covered employee for such event or any subsequent qualifying event shall not terminate before the close of the 36-month period beginning on the date the covered employee becomes entitled to benefits under title XVIII of the Social Security Act."
+Qualifying event involving medicare entitlement.—In the case of an event described in section 1163(4) of this title (without regard to whether such event is a qualifying event), the period of coverage for qualified beneficiaries other than the covered employeefor such event or any subsequent qualifying event shall not terminate before the close of the 36-month period beginning on the date the covered employee becomes entitled to benefits under title XVIII of the Social Security Act."
 
 Par. (2)(D)(i). Pub. L. 104–191, §421(b)(1)(B), inserted "(other than such an exclusion or limitation which does not apply to (or is satisfied by) such beneficiary by reason of chapter 100 of title 26, part 7 of this subtitle, or title XXVII of the Public Health Service Act \[42 U.S.C. 300gg et seq.\])" before ", or" at end.
 
@@ -134,7 +134,7 @@ Par. (2)(D). Pub. L. 101–239, §7862(c)(3)(B), substituted "entitlement" for "
 
 Par. (2)(E). Pub. L. 101–239, §6703(a)(2), added subpar. (E).
 
-Par. (3). Pub. L. 101–239, §7862(c)(4)(A), which directed substitution of "In no event may the plan require the payment of any premium before the day which is 45 days after the day on which the qualified beneficiary made the initial election for continuation coverage." for last sentence of par. (3), was executed by makingthe substitution for the following sentence: "If an election is made after the qualifying event, the plan shall permit payment for continuation coverage during the period preceding the election to be made within 45 days of the date of the election.", notwithstanding the sentence added at the end of par. (3) by Pub. L. 101–239, §6703(b).
+Par. (3). Pub. L. 101–239, §7862(c)(4)(A), which directed substitution of "In no event may the plan require the payment of any premium before the day which is 45 days after the day on which the qualified beneficiary made the initial election for continuation coverage." for last sentence of par. (3), was executed by making the substitution for the following sentence: "If an election is made after the qualifying event, the plan shall permit payment for continuation coverage during the period preceding the election to be made within 45 days of the date of the election.", notwithstanding the sentence added at the end of par. (3) by Pub. L. 101–239, §6703(b).
 
 Pub. L. 101–239, §6703(b), inserted at end "In the case of an individual described in the last sentence of paragraph (2)(A), any reference in subparagraph (A) of this paragraph to '102 percent' is deemed a reference to '150 percent' for any month after the 18th month of continuation coverage described in clause (i) or (ii) of paragraph (2)(A)."
 
@@ -190,7 +190,7 @@ Amendment by Pub. L. 104–188 applicable to plan years beginning after Dec. 31,
 
 Pub. L. 101–239, title VI, §6703(d), Dec. 19, 1989, 103 Stat. 2296, provided that: "The amendments made by this section \[amending this section and section 1166 of this title\] shall apply to plan years beginning on or after the date of the enactment of this Act \[Dec. 19, 1989\], regardless of whether the qualifying event occurred before, on, or after such date."
 
-Amendment by section 7862(c)(3)(B) of Pub. L. 101–239 applicable to (i) qualifying events occurring after Dec. 31, 1989, and (ii) in the case of qualified beneficiaries who elected continuation coverage after Dec. 31, 1988, the period for which the required premium was paid (or was attempted to be paid but was rejected as such), see section 7862(c)(3)(D) of Pub. L. 101–239, set out as a note under section 162 of Title 26, Internal Revenue Code.
+Amendment by section 7862(c)(3)(B) of Pub. L. 101–239 applicable to (i) qualifying events occurring after Dec. 31, 1989, and (ii) in the case of qualified beneficiaries who elected continuation coverage after Dec. 31, 1988,the period for which the required premium was paid (or was attempted to be paid but was rejected as such), see section 7862(c)(3)(D) of Pub. L. 101–239, set out as a note under section 162 of Title 26, Internal Revenue Code.
 
 Amendment by section 7862(c)(4)(A) of Pub. L. 101–239 applicable to plan years beginning after Dec. 31, 1989, see section 7862(c)(4)(C) of Pub. L. 101–239, set out as a note under section 4980B of Title 26.
 

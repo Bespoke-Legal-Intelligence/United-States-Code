@@ -132,6 +132,8 @@
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1868, as added Pub. L. 101–508, title IV, §4112, Nov. 5, 1990, 104 Stat. 1388–64; amended Pub. L. 108–173, title IX, §942(a), Dec. 8, 2003, 117 Stat. 2420; Pub. L. 111–148, title III, §3134(b)(2), Mar. 23, 2010, 124 Stat. 435; Pub. L. 114–10, title I, §101(e)(1), Apr. 16, 2015, 129 Stat. 115; Pub. L. 115–123, div. E, title X, §51003(b), Feb. 9, 2018, 132 Stat. 295.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Ethics in Government Act of 1978, referred to in subsec. (c)(1)(B)(iv), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. Title I of the Act is set out in the Appendix to Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables.
@@ -140,7 +142,7 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (c)(1)(
 
 #### Prior Provisions
 
-A prior section 1395ee, act Aug. 14, 1935, ch. 531, title XVIII, §1868, as added July 30, 1965, Pub. L. 89–97, title I, §102(a), 79 Stat. 329, provided for creation of a National Medical Review Committee, functions of such Committee, including submission of annual reports to the Secretary and Congress, employment of technical assistance, and for availability of assistance and data, prior to repeal by Pub. L. 90–248, title I, §164(c), Jan. 2, 1968, 81 Stat. 874.
+A prior section 1395ee, act Aug. 14, 1935, ch. 531, title XVIII, §1868, as added July 30, 1965, Pub. L. 89–97, titleI, §102(a), 79 Stat. 329, provided for creation of a National Medical Review Committee, functions of such Committee, including submission of annual reports to the Secretary and Congress, employment of technical assistance, and for availability of assistance and data, prior to repeal by Pub. L. 90–248, title I, §164(c), Jan. 2, 1968, 81 Stat. 874.
 
 #### Amendments
 
@@ -157,6 +159,8 @@ Subsec. (a). Pub. L. 108–173, §942(a)(2)–(4), inserted subsec. heading, red
 Subsec. (b). Pub. L. 108–173, §942(a)(5), added subsec. (b). Former subsec. (b) redesignated par. (2) of subsec. (a).
 
 Subsec. (c). Pub. L. 108–173, §942(a)(4), redesignated subsec. (c) as par. (3) of subsec. (a).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Advisory Councils
 

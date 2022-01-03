@@ -24,6 +24,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Pub. L. 114–92, div. A, title VI, §633(a)(2), Nov. 25, 2015, 129 Stat. 850, added item 1415.
@@ -42,7 +44,7 @@
 
 <b>1987</b>—Pub. L. 100–26, §7(h)(2)(B), Apr. 21, 1987, 101 Stat. 282, substituted colon for semicolon and "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954" in item 1403.
 
-<b>1986</b>—Pub. L. 99–348, title III, §304(b)(2), July 1, 1986, 100 Stat. 703, inserted "of members who first became members before September 8, 1980" in item 1402, substituted "Retired pay base for members who first became members before September 8, 1980: final basic pay" for "Limitations on revocation of retired pay" in item 1406 and "Retired pay base for members who first became members after September 7, 1980: high-36month average" for "Retired pay base" in item 1407, and added items 1409 to 1412.
+<b>1986</b>—Pub. L. 99–348, title III, §304(b)(2), July 1, 1986, 100 Stat. 703, inserted "of members who first became members before September 8, 1980" in item 1402, substituted "Retired pay base for members who first became members before September 8, 1980: final basic pay" for "Limitations on revocation of retired pay" in item 1406 and "Retired pay base for members who first became members after September 7, 1980: high-36 month average" for "Retired pay base" in item 1407, and added items 1409 to 1412.
 
 <b>1982</b>—Pub. L. 97–252, title X, §1002(b), Sept. 8, 1982, 96 Stat. 735, added item 1408.
 

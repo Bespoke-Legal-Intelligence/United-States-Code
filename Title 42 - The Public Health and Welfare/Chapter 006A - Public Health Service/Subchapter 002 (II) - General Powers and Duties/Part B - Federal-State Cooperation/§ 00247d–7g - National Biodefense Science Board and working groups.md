@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;(iv) one such member shall be a State, tribal, territorial, or local public health official.
 
-> &emsp;Nothing in this paragraph shall preclude a member of the Board from satisfying two or more of the requirements described in subparagraph (D).
+> &emsp;Nothing in this paragraph shall preclude a member of the Board from satisfying two ormore of the requirements described in subparagraph (D).
 
 #### (3) Term of appointment
 
@@ -112,7 +112,9 @@ Any term that is defined in section 247d–7e of this title and that is used in 
 
 There are authorized to be appropriated $1,000,000 to carry out this section for fiscal year 2007 and each fiscal year thereafter.
 
-(July 1, 1944, ch. 373, title III, §319M, as added Pub. L. 109–417, title IV, §402, Dec. 19, 2006, 120 Stat. 2872; amended Pub. L. 113–5, title IV, §404, Mar. 13, 2013, 127 Stat. 197.)
+(July 1, 1944, ch. 373, title III, §319M, as added Pub. L. 109–417, title IV, §402, Dec. 19, 2006, 120Stat. 2872; amended Pub. L. 113–5, title IV, §404, Mar. 13, 2013, 127 Stat. 197.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

@@ -74,7 +74,7 @@ Bandelier National Monument, New Mexico.—Proc. No. 1322, Feb. 11, 1916, 39 Sta
 
 Basin and Range National Monument, Nevada.—Proc. No. 9297, July 10, 2015, 80 F.R. 41969.
 
-Bears Ears National Monument, Utah.—Proc. No. 9558, Dec. 28, 2016, 82 F.R. 1139; Ex. Ord. No. 13811, §1(dd), Sept. 29, 2017, 82 F.R. 46364; Proc. No. 9681, Dec. 4, 2017, 82 F.R. 58081; Ex. Ord. No. 13889, §1(aa), Sept. 27, 2019, 84 F.R. 52744.
+Bears Ears National Monument, Utah.—Proc. No. 9558, Dec. 28, 2016, 82 F.R. 1139; Ex. Ord. No. 13811, §1(dd), Sept. 29, 2017, 82 F.R. 46364; Proc. No. 9681, Dec. 4, 2017, 82 F.R. 58081; Ex. Ord. No. 13889, §1(aa), Sept. 27, 2019, 84 F.R. 52744; Ex. Ord. No. 14048, §1(aa), Sept. 30, 2021, 86 F.R. 55466; Proc. No. 10285, Oct. 8, 2021, 86 F.R. 57321.
 
 Becharof National Monument, Alaska.—Proc. No. 4613, Dec. 1, 1978, 93 Stat. 1450.
 
@@ -216,7 +216,7 @@ Glacier Bay National Monument, Alaska \[Monument redesignated Glacier Bay Nation
 
 c27; Proc. No. 4618, Dec. 1, 1978, 93 Stat. 1458.
 
-Gold Butte National Monument, Nevada.—Proc. No. 9559, Dec. 28, 2016, 82 F.R. 1149; Ex. Ord. No. 13811, §1(ee), Sept. 29, 2017, 82 F.R. 46364; Ex. Ord. No. 13889, §1(bb), Sept. 27, 2019, 84 F.R. 52744.
+Gold Butte National Monument, Nevada.—Proc. No. 9559, Dec. 28, 2016, 82 F.R. 1149; Ex. Ord. No. 13811, §1(ee), Sept. 29, 2017, 82 F.R. 46364; Ex. Ord. No. 13889, §1(bb), Sept. 27, 2019, 84 F.R. 52744; Ex. Ord. No. 14048, §1(bb), Sept. 30, 2021, 86 F.R. 55466.
 
 Governors Island National Monument, New York.—Proc. No. 7402, Jan. 19, 2001, 66 F.R. 7855; Proc. No. 7647, Feb. 7, 2003, 68 F.R. 7053.
 
@@ -226,7 +226,7 @@ Grand Canyon National Monument, Arizona.—Proc. No. 794, Jan. 11, 1908, 35 Stat
 
 Grand Canyon-Parashant National Monument, Arizona.—Proc. No. 7265, Jan. 11, 2000, 65 F.R. 2825.
 
-Grand Staircase-Escalante National Monument, Utah.—Proc. No. 6920, Sept. 18, 1996, 110 Stat. 4561; Pub. L. 105–335, Oct. 31, 1998, 112 Stat. 3139; Pub. L. 105–355, title II, §201, Nov. 6, 1998, 112 Stat. 3252; Pub. L. 106–176, title III, §307, Mar. 10, 2000, 114 Stat. 33; Proc. No. 9682, Dec. 4, 2017, 82 F.R. 58089; Ex. Ord. No. 13889, §1(cc), Sept. 27, 2019, 84 F.R. 52744.
+Grand Staircase-Escalante National Monument, Utah.—Proc. No. 6920, Sept. 18, 1996, 110 Stat. 4561; Pub. L. 105–335, Oct. 31, 1998, 112 Stat. 3139; Pub. L. 105–355, title II, §201, Nov. 6, 1998, 112 Stat. 3252; Pub. L. 106–176, title III, §307, Mar. 10, 2000, 114 Stat. 33; Proc. No. 9682, Dec. 4, 2017, 82 F.R. 58089; Ex. Ord. No. 13889, §1(cc), Sept. 27, 2019, 84 F.R. 52744; Ex. Ord. No. 14048, §1(y), Sept. 30, 2021, 86 F.R. 55466; Proc. No. 10286, Oct. 8, 2021, 86 F.R. 57335.
 
 Great Sand Dunes National Monument, Colorado \[Monument abolished and incorporated in Great Sand Dunes National Park, see section 410hhh–2 of Title 16, Conservation\].—Proc. No. 1994, Mar. 17, 1932, 47 Stat. 2506; Proc. No. 2681, Mar. 12, 1946, 60 Stat. 1339; Proc. No. 3138, June 7, 1956, 70 Stat.
 
@@ -310,7 +310,7 @@ Navajo National Monument, Arizona.—Proc. No. 873, Mar. 20, 1909, 36 Stat. 2491
 
 Noatak National Monument, Alaska.—Proc. No. 4624, Dec. 1, 1978, 93 Stat. 1468.
 
-Northeast Canyons and Seamounts Marine National Monument, Atlantic Ocean.—Proc. No. 9496, Sept. 15, 2016, 81 F.R. 65161; Proc. No. 10049, June 5, 2020, 85 F.R. 35793.
+Northeast Canyons and Seamounts Marine National Monument, Atlantic Ocean.—Proc. No. 9496, Sept. 15, 2016, 81 F.R. 65161; Proc. No. 10049, June 5, 2020, 85 F.R. 35793; Proc. No. 10287, Oct. 8, 2021, 86 F.R. 57349.
 
 Northwestern Hawaiian Islands Marine National Monument, Hawaii \[Monument redesignated Papahānaumokuākea Marine National Monument by Proc. No. 8112, Feb. 28, 2007, 72 F.R. 10031\].—Proc. No. 8031, June 15, 2006, 71 F.R. 36443.
 
@@ -362,7 +362,7 @@ Saguaro National Monument, Arizona \[Monument abolished and incorporated in Sagu
 
 San Gabriel Mountains National Monument, California.—Proc. No. 9194, Oct. 10, 2014, 79 F.R. 62303.
 
-San Juan Islands National Monument, Washington.—Proc. No. 8947, Mar. 25, 2013, 78 F.R. 18789; Ex. Ord. No. 13708, §1(nn), Sept. 30, 2015, 80 F.R. 60272; Ex. Ord. No. 13811, §1(cc), Sept. 29, 2017, 82 F.R. 46364; Ex. Ord. No. 13889, §1(z), Sept. 27, 2019, 84 F.R. 52744.
+San Juan Islands National Monument, Washington.—Proc. No. 8947, Mar. 25, 2013, 78 F.R. 18789; Ex. Ord. No. 13708, §1(nn), Sept. 30, 2015, 80 F.R. 60272; Ex. Ord. No. 13811, §1(cc), Sept. 29, 2017, 82 F.R. 46364; Ex. Ord. No. 13889, §1(z), Sept. 27, 2019, 84 F.R. 52744; Ex. Ord. No. 14048, §1(z), Sept. 30, 2021, 86 F.R. 55466.
 
 Sand to Snow National Monument, California.—Proc. No. 9396, Feb. 12, 2016, 81 F.R. 8379.
 
@@ -564,6 +564,8 @@ National Medal of Honor Sites.—Pub. L. 106–83, Oct. 28, 1999, 113 Stat. 1293
 
 National Memorial to Fallen Educators, Kansas.—Pub. L. 115–169, Apr. 30, 2018, 132 Stat. 1285.
 
+National Pulse Memorial, Florida.—Pub. L. 117–20, June 25, 2021, 135 Stat. 291.
+
 National Veterans Memorial and Museum, Ohio.—Pub. L. 115–186, June 21, 2018, 132 Stat. 1487.
 
 Patrick Henry National Memorial, Virginia.—Pub. L. 99–296, May 12, 1986, 100 Stat. 429.
@@ -576,7 +578,7 @@ Prisoner of War/Missing in Action National Memorial, California.—Pub. L. 108�
 
 Richard L. Kohnstamm Memorial Area, Oregon.—Pub. L. 111–11, title I, §1202(b), Mar. 30, 2009, 123 Stat. 1009.
 
-Saint Francis Dam Disaster National Memorial, California.—Pub. L. 116–9, title I, §1111, Mar. 12, 2019, 133 Stat. 611.
+Saint Francis Dam Disaster National Memorial, California. Pub. L. 116–9, title I, §1111, Mar. 12, 2019, 133 Stat. 611.
 
 Seabees of the United States Navy Memorial.—Pub. L. 92–422, Sept. 18, 1972, 86 Stat. 678.
 

@@ -52,7 +52,7 @@
 
 &emsp;&emsp;&emsp;(ii) changes over the period since October 27, 1998, in the circumstances and problems typically facing children and families served by Head Start agencies;
 
-&emsp;&emsp;&emsp;(iii) recommendations from the study on Developmental Outcomes and Assessmentsfor Young Children by the National Academy of Sciences, consistent with section 9844(j) of this title;
+&emsp;&emsp;&emsp;(iii) recommendations from the study on Developmental Outcomes and Assessments for Young Children by the National Academy of Sciences, consistent with section 9844(j) of this title;
 
 &emsp;&emsp;&emsp;(iv) developments concerning research-based practices with respect to early childhood education and development, children with disabilities, homeless children, children in foster care, and family services, and best practices with respect to program administration and financial management;
 
@@ -198,7 +198,7 @@
 
 &emsp;&emsp;(F) include as part of the reviews, a valid and reliable research-based observational instrument, implemented by qualified individuals with demonstrated reliability, that assesses classroom quality, including assessing multiple dimensions of teacher-child interactions that are linked to positive child development and later achievement;
 
-&emsp;&emsp;(G) are conducted in a manner that evaluates program performance, quality, andoverall operations with consistency and objectivity, are based on a transparent and reliable system of review, and are conducted in a manner that includes periodic interrater reliability checks, to ensure quality and consistency, across and within regions, of the reviews and of noncompliance and deficiency determinations;
+&emsp;&emsp;(G) are conducted in a manner that evaluates program performance, quality, and overall operations with consistency and objectivity, are based on a transparent and reliable system of review, and are conducted in a manner that includes periodic interrater reliability checks, to ensure quality and consistency, across and within regions, of the reviews and of noncompliance and deficiency determinations;
 
 &emsp;&emsp;(H) in the case of reviews of Early Head Start agencies and programs, are conducted by a review team that includes individuals who are knowledgeable about the development of infants and toddlers;
 
@@ -362,7 +362,7 @@
 
 #### (B) Improvement plan
 
-&emsp;&emsp;The agency shall develop, and submit to the Secretary a report containing, an improvement plan approved by the governing body of the agency to strengthen any areas identified in the self-assessment as weaknesses or in need of improvement.
+&emsp;&emsp;The agency shall develop, and submit to the Secretary a report containing, an improvement plan approved by the governingbody of the agency to strengthen any areas identified in the self-assessment as weaknesses or in need of improvement.
 
 #### (3) Ongoing monitoring
 
@@ -468,6 +468,8 @@
 
 (Pub. L. 97–35, title VI, §641A, as added Pub. L. 103–252, title I, §108, May 18, 1994, 108 Stat. 631; amended Pub. L. 105–285, title I, §108, Oct. 27, 1998, 112 Stat. 2713; Pub. L. 110–134, §8, Dec. 12, 2007, 121 Stat. 1385.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Individuals with Disabilities Education Act, referred to in subsec. (c)(2)(K), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20, Education. Section 619 of the Act is classified to section 1419 of Title 20. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
@@ -520,7 +522,7 @@ Subsec. (c)(2)(C). Pub. L. 105–285, §108(c)(2)(B), inserted "(including child
 
 Subsec. (c)(2)(D), (E). Pub. L. 105–285, §108(c)(2)(C), added subpars. (D) and (E).
 
-Subsec. (d)(1). Pub. L. 105–285, §108(d)(1)(A), inserted "or results-based performance measures developed by the Secretary under subsection (b) of this section" after "subsection (a) of this section" in introductory provisions.
+Subsec. (d)(1). Pub. L. 105–285, §108(d)(1)(A), inserted "or results-based performance measures developed bythe Secretary under subsection (b) of this section" after "subsection (a) of this section" in introductory provisions.
 
 Subsec. (d)(1)(B). Pub. L. 105–285, §108(d)(1)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "with respect to each identified deficiency, require the agency—
 
@@ -531,6 +533,8 @@ Subsec. (d)(1)(B). Pub. L. 105–285, §108(d)(1)(B), amended subpar. (B) genera
 Subsec. (d)(2)(A). Pub. L. 105–285, §108(d)(2), substituted "required to correct a deficiency immediately or during a 90-day period under clause (i) or (ii) of paragraph (1)(B)" for "able to correct a deficiency immediately" in introductory provisions.
 
 Subsec. (e). Pub. L. 105–285, §108(e), inserted at end "Such report shall be widely disseminated and available for public review in both written and electronic formats."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

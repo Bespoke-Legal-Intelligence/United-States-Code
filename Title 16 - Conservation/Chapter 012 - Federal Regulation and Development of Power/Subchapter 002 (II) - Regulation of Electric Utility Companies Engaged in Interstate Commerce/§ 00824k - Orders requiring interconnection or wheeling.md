@@ -50,7 +50,7 @@ No order issued under this chapter shall be conditioned upon or require the tran
 
 &emsp;&emsp;(A) such entity is a Federal power marketing agency; the Tennessee Valley Authority; a State or any political subdivision of a State (or an agency, authority, or instrumentality of a State or a political subdivision); a corporation or association that has ever received a loan for the purposes of providing electric service from the Administrator of the Rural Electrification Administration under the Rural Electrification Act of 1936 \[7 U.S.C. 901 et seq.\]; a person having an obligation arising under State or local law (exclusive of an obligation arising solely from a contract entered into by such person) to provide electric service to the public; or any corporation or association which is wholly owned, directly or indirectly, by any one or more of the foregoing; and
 
-&emsp;&emsp;(B) such entity was providing electric service to such ultimate consumer on October 24, 1992, or would utilize transmission or distribution facilities that it owns or controlsto deliver all such electric energy to such electric consumer.
+&emsp;&emsp;(B) such entity was providing electric service to such ultimate consumer on October 24, 1992, or would utilize transmission or distribution facilities that it owns or controls to deliver all such electric energy to such electric consumer.
 
 > Nothing in this subsection shall affect any authority of any State or local government under State law concerning the transmission of electric energy directly to an ultimate consumer.
 
@@ -82,7 +82,7 @@ No order issued under this chapter shall be conditioned upon or require the tran
 
 (4) To the extent the Administrator of the Bonneville Power Administration cannot be required under section 824j of this title, as a result of the Administrator's other statutory mandates, either to (A) provide transmission service to an applicant which the Commission would otherwise order, or (B) provide such service under rates, terms, and conditions which the Commission would otherwise require, the applicant shall not be required to provide similar transmission services to the Administrator or to provide such services under similar rates, terms, and conditions.
 
-(5) The Commission shall not issue any order under section 824i of this title, section 824j of this title, this section, or section 824l of this title requiring the Administrator of the Bonneville Power Administration to provide transmission service if such an order would impair the Administrator's ability to provide suchtransmission service to the Administrator's power and transmission customers in the Pacific Northwest, as that region is defined in section 839a(14) of this title, as is needed to assure adequate and reliable service to loads in that region.
+(5) The Commission shall not issue any order under section 824i of this title, section 824j of this title, this section, or section 824l of this title requiring the Administrator of the Bonneville Power Administration to provide transmission service if such an order would impair the Administrator's ability to provide such transmission service to the Administrator's power and transmission customers in the Pacific Northwest, as that region is defined in section 839a(14) of this title, as is needed to assure adequate and reliable service to loads in that region.
 
 #### (j) Equitability within territory restricted electric systems
 
@@ -104,6 +104,8 @@ With respect to an electric utility which is prohibited by Federal law from bein
 
 (June 10, 1920, ch. 285, pt. II, §212, as added Pub. L. 95–617, title II, §204(a), Nov. 9, 1978, 92 Stat. 3138; amended Pub. L. 102–486, title VII, §722, Oct. 24, 1992, 106 Stat. 2916.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The TVA Act, referred to in subsec. (f)(1), means act May 18, 1933, ch. 32, 48 Stat. 58, as amended, known as the Tennessee Valley Authority Act of 1933, which is classified generally to chapter 12A (§831 et seq.) of this title. For complete classification of this Act to the Code, see section 831 of this title and Tables.
@@ -121,6 +123,8 @@ Subsec. (b). Pub. L. 102–486, §722(1), struck out subsec. (b) which required 
 Subsec. (e). Pub. L. 102–486, §722(2), amended subsec. (e) generally. Prior to amendment, subsec. (e) related to utilization of interconnection or wheeling authority in lieu of other authority and limitation of Commission authority.
 
 Subsecs. (g) to (k). Pub. L. 102–486, §722(3), added subsecs. (g) to (k).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### State Authorities; Construction
 

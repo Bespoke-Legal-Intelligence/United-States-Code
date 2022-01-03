@@ -10,9 +10,13 @@ Whenever the Office, after giving reasonable notice and opportunity for hearing 
 
 (Pub. L. 91–648, title V, §507, Jan. 5, 1971, 84 Stat. 1928; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, means the provisions of subchapters I, II, III, and IV of this chapter. See section 4761 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

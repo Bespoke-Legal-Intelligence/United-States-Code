@@ -39,6 +39,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1997</b>—Pub. L. 105–102, §2(17), Nov. 20, 1997, 111 Stat. 2205, substituted "National Motor Vehicle Title Information System" for "National Automobile Title Information System" in item for chapter 305.

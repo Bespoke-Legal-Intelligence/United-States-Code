@@ -52,7 +52,7 @@ The Office of Advocacy shall also perform the following duties on a continuing b
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 180 days after the date on which the Chief Counsel for Advocacy convenes the Working Group under paragraph (2)(A), the Chief Counsel for Advocacy shall submit to the Committee on Small Business and Entrepreneurship and the Committee on Finance of the Senate and the Committee on Small Business and the Committee on Ways and Means of the House of Representatives a report on the economic impacts of the covered trade agreement on small businesses, which shall—
+&emsp;&emsp;Not later than 180 days after the date on which the Chief Counsel for Advocacy convenes the Working Group under paragraph (2)(A), the Chief Counsel for Advocacy shall submit to the Committee on Small Business and Entrepreneurship and the Committee on Finance of the Senate and the Committee on Small Business and the Committee on Ways and Means of the House of Representatives areport on the economic impacts of the covered trade agreement on small businesses, which shall—
 
 &emsp;&emsp;&emsp;(i) identify the most important priorities, opportunities, and challenges to various industries from the covered trade agreement;
 
@@ -80,6 +80,8 @@ The Office of Advocacy shall also perform the following duties on a continuing b
 
 (Pub. L. 94–305, title II, §203, June 4, 1976, 90 Stat. 669; Pub. L. 111–240, title I, §1602(a), Sept. 27, 2010, 124 Stat. 2551; Pub. L. 114–125, title V, §502, Feb. 24, 2016, 130 Stat. 172.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Small Business Act, referred to in subsec. (a)(3), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 631 of this title and Tables.
@@ -93,6 +95,8 @@ Section was not enacted as part of the Small Business Act which comprises this c
 <b>2016</b>—Pub. L. 114–125 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 <b>2010</b>—Par. (6). Pub. L. 111–240 added par. (6).
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Authority Under 15 U.S.C. 634c(b)(3)(B)
 

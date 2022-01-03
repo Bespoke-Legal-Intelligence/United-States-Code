@@ -166,7 +166,7 @@ The Secretaries shall establish a program, to be known as the "Interagency Wildl
 
 #### (2) Cooperation; components
 
-&emsp;The system established under paragraph (1) shall be based on, and seek to enhance, similar systems in existence on March 12, 2019, including the Fire Danger Assessment System.
+&emsp;The system established under paragraph (1) shall be based on, and seek to enhance, similarsystems in existence on March 12, 2019, including the Fire Danger Assessment System.
 
 #### (3) Use in forecasts
 

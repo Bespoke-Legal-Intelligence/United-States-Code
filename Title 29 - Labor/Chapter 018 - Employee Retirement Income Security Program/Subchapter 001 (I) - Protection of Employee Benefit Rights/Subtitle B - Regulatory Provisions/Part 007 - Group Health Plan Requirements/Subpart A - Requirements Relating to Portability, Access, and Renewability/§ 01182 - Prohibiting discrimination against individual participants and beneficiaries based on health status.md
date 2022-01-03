@@ -108,7 +108,7 @@
 
 #### (3) Incidental collection
 
-&emsp;If a group health plan, or a health insurance issuer offering health insurance coverage inconnection with a group health plan, obtains genetic information incidental to the requesting, requiring, or purchasing of other information concerning any individual, such request, requirement, or purchase shall not be considered a violation of paragraph (2) if such request, requirement, or purchase is not in violation of paragraph (1).
+&emsp;If a group health plan, or a health insurance issuer offering health insurance coverage in connection with a group health plan, obtains genetic information incidental to the requesting, requiring, or purchasing of other information concerning any individual, such request, requirement, or purchase shall not be considered a violation of paragraph (2) if such request, requirement, or purchase is not in violation of paragraph (1).
 
 #### (e) Application to all plans
 

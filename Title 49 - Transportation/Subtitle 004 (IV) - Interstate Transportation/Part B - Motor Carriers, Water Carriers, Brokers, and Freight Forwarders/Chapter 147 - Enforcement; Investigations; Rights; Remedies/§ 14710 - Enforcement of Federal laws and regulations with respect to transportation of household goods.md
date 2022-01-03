@@ -18,6 +18,8 @@ State Authority Defined.—In this section, the term "State authority" means an 
 
 (Added Pub. L. 109–59, title IV, §4206(b)(1), Aug. 10, 2005, 119 Stat. 1754; amended Pub. L. 109–115, div. A, title I, §173(a), (b), Nov. 30, 2005, 119 Stat. 2426.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Subsec. (a). Pub. L. 109–115, §173(a), (e), temporarily substituted "a State authority other than the attorney general of the state may, as parens patriae," for "a State authority may" in first sentence and inserted second sentence which read as follows: "Any civil action for injunctive relief to enjoin such delivery or transportation or to compel a person to pay a fine or penalty assessed under chapter 149 shall be brought in an appropriate district court of the United States." See Termination Date of 2005 Amendment note below.
@@ -25,6 +27,8 @@ State Authority Defined.—In this section, the term "State authority" means an 
 Subsec. (b). Pub. L. 109–115, §173(b), (e), temporarily amended subsec. (b) to read as follows: "
 
 Exercise of Enforcement Authority.—The authority of this section shall be exercised subject to the requirements of sections 14711(b)–(f) of this title." See Termination Date of 2005 Amendment note below.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination Date of 2005 Amendment
 

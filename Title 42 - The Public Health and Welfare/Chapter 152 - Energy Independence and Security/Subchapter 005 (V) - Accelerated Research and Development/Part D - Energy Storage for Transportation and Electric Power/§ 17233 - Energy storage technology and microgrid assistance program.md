@@ -28,7 +28,7 @@ In this section:
 
 #### (5) Rural electric cooperative
 
-&emsp;The term "rural electric cooperative" means an electric cooperative (as defined in section796 of title 16) that sells electric energy to persons in rural areas.
+&emsp;The term "rural electric cooperative" means an electric cooperative (as defined in section 796 of title 16) that sells electric energy to persons in rural areas.
 
 #### (6) Secretary
 
@@ -135,6 +135,8 @@ The Secretary may enter into a cooperative agreement with an eligible entity to 
 &emsp;Not more than 5 percent of the amount appropriated under paragraph (1) for each fiscal year shall be used for administrative expenses.
 
 (Pub. L. 116–260, div. Z, title III, §3202, Dec. 27, 2020, 134 Stat. 2525.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

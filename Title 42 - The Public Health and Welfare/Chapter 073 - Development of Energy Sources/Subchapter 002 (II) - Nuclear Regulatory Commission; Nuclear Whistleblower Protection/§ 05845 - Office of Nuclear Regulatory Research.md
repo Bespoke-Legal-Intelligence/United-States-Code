@@ -2,7 +2,7 @@
 
 #### (a) Establishment; appointment of Director
 
-There is hereby established in the Commission an Office of Nuclear Regulatory Research under the direction of a Director of Nuclear Regulatory Research, who shall be appointed by the Commission, who may report directly to the Commission as provided in section 5849 of this title, and who shall serve at the pleasure of and be removable by the Commission.
+There is hereby established in the Commission an Office of Nuclear Regulatory Research underthe direction of a Director of Nuclear Regulatory Research, who shall be appointed by the Commission, who may report directly to the Commission as provided in section 5849 of this title, and who shall serve at the pleasure of and be removable by the Commission.
 
 #### (b) Functions of Director
 
@@ -36,6 +36,8 @@ The Commission shall develop a long-term plan for projects for the development o
 
 (Pub. L. 93–438, title II, §205, Oct. 11, 1974, 88 Stat. 1246; Pub. L. 95–209, §4(a), Dec. 13, 1977, 91 Stat. 1482.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, known as the Energy Reorganization Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
@@ -43,6 +45,8 @@ This chapter, referred to in subsec. (b), was in the original "this Act", meanin
 #### Amendments
 
 <b>1977</b>—Subsec. (f). Pub. L. 95–209 added subsec. (f).
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

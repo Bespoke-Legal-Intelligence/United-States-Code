@@ -80,7 +80,7 @@ Relationship to Other Allowances.—The allowance under this section is in addit
 
 "(c)
 
-Source of Funds.—Funds for allowances provided under subsection (a) in a fiscal year may be derived only from amounts authorized to be appropriatedfor military personnel of the Space Force for such fiscal year.
+Source of Funds.—Funds for allowances provided under subsection (a) in a fiscal year may be derived only from amounts authorized to be appropriated for military personnel of the Space Force for such fiscal year.
 
 "(d)
 

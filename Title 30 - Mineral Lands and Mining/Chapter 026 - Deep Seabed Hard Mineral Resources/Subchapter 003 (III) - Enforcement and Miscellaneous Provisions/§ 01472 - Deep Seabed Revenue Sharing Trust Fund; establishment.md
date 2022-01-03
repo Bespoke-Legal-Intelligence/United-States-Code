@@ -62,7 +62,7 @@ Section was enacted as part of title IV of Pub. L. 96–283, and not as part of 
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (c)(1) of this section relating to the duty of the Secretary of the Treasury to report annually to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 143 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (c)(1) of this section relating to the duty ofthe Secretary of the Treasury to report annually to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 143 of House Document No. 103–7.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

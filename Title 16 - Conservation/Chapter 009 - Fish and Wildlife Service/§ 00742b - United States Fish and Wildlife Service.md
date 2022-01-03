@@ -6,7 +6,7 @@ There is established within the Department of the Interior the position of Assis
 
 #### (b) Establishment; Director of United States Fish and Wildlife Service; appointment; qualifications
 
-There is established within the Department of the Interior the United States Fish and WildlifeService. The functions of the United States Fish and Wildlife Service shall be administered under the supervision of the Director, who shall be subject to the supervision of the Assistant Secretary for Fish and Wildlife. The Director of the United States Fish and Wildlife Service shall be appointed by the President, by and with the advice and consent of the Senate. No individual may be appointed as the Director unless he is, by reason of scientific education and experience, knowledgeable in the principles of fisheries and wildlife management.
+There is established within the Department of the Interior the United States Fish and Wildlife Service. The functions of the United States Fish and Wildlife Service shall be administered under the supervision of the Director, who shall be subject to the supervision of the Assistant Secretary for Fish and Wildlife. The Director of the United States Fish and Wildlife Service shall be appointed by the President, by and with the advice and consent of the Senate. No individual may be appointed as the Director unless he is, by reason of scientific education and experience, knowledgeable in the principles of fisheries and wildlife management.
 
 #### (c) Succession to United States Fish and Wildlife Service and Bureau of Sport Fisheries and Wildlife
 
@@ -17,6 +17,8 @@ The United States Fish and Wildlife Service established by subsection (b) shall 
 All functions and responsibilities placed in the Department of the Interior or any official thereof by this Act shall be included among the functions and responsibilities of the Secretary of the Interior, as the head of the Department, and shall be carried out under his direction pursuant to such procedures or delegations of authority as he may deem advisable and in the public interest.
 
 (Aug. 8, 1956, ch. 1036, §3, 70 Stat. 1120; Pub. L. 87–367, title I, §103(14), Oct. 4, 1961, 75 Stat. 788; Pub. L. 87–793, §607(a)(5), Oct. 11, 1962, 76 Stat. 849; Pub. L. 93–271, §1, Apr. 22, 1974, 88 Stat. 92.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -38,6 +40,8 @@ Subsec. (f). Pub. L. 93–271, §1(3), struck out subsec. (f) which provided for
 
 <b>1961</b>—Subsec. (a). Pub. L. 87–367 struck out "at Grades GS–17 each" after "by the Secretary".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1974 Amendment
 
 Pub. L. 93–271, §3, Apr. 22, 1974, 88 Stat. 92, provided that: "The amendments made by this Act \[amending this section and section 5316 of Title 5, Government Organization and Employees\] shall take effect on July 1, 1974."
@@ -45,10 +49,6 @@ Pub. L. 93–271, §3, Apr. 22, 1974, 88 Stat. 92, provided that: "The amendment
 #### Effective Date of 1962 Amendment
 
 Amendment by Pub. L. 87–793 effective on first day of first pay period which begins on or after Oct. 11, 1962, see section 610 of Pub. L. 87–793.
-
-#### Transfer of Functions
-
-Transfer of functions to Secretary of Commerce from Secretary of the Interior in view of: creation of National Oceanic and Atmospheric Administration in Department of Commerce and Office of Administrator of such Administration; abolition of Bureau of Commercial Fisheries in the Interior Department and Office of Director of such Bureau; transfers of functions, including functions formerly vested by law in Secretary of the Interior or the Interior Department which were administered through Bureau of Commercial Fisheries or were primarily related to such Bureau, exclusive of certain enumerated functions with respect to Great Lakes fishery research, Missouri River Reservoir research, Gulf Breeze Biological Laboratory, and Trans-Alaska pipeline investigations; and transfer of marine sport fish program of Bureau of Sport Fisheries and Wildlife by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Murder Hornet Eradication Pilot Program
 
@@ -322,7 +322,7 @@ Board.—The term 'Board' means the Promotion of Wildlife Conservation Technolog
 
 &emsp;&emsp;"(ii)
 
-Prize competition.—The term 'prize competition' means the Theodore Roosevelt Genius Prize for the promotion of wildlife conservation established under subparagraph (B).
+Prize competition.—The term 'prize competition' means the Theodore Roosevelt GeniusPrize for the promotion of wildlife conservation established under subparagraph (B).
 
 &emsp;"(B)
 
@@ -484,7 +484,7 @@ Duties.—Subject to clause (iv), with respect to the prize competition, the Boa
 
 &emsp;&emsp;&emsp;"(III) advise the Secretary regarding any opportunity for technological innovation to manage invasive species; and
 
-&emsp;&emsp;&emsp;"(IV) advise winners of the prize competition regarding opportunities to pilot and implement winning technologies in relevant fields, including in partnership with conservation organizations, Federal or State agencies, federally recognized Indian tribes, private entities, and research institutions with expertise or interest relating to the management of invasive species.
+&emsp;&emsp;&emsp;"(IV) advise winners of the prize competition regarding opportunities to pilot and implement winning technologies in relevant fields, includingin partnership with conservation organizations, Federal or State agencies, federally recognized Indian tribes, private entities, and research institutions with expertise or interest relating to the management of invasive species.
 
 &emsp;&emsp;"(iv)
 
@@ -640,7 +640,7 @@ Appointment.—The Secretary shall appoint not fewer than 3 judges who shall, ex
 
 &emsp;&emsp;"(ii)
 
-Determination by secretary.—The judges appointed under clause (i) shall not select any annual winner of the prize competition if the Secretary makes a determination that, in any fiscal year, none of the technological advancements entered into the prize competition merits an award.
+Determination by secretary.—The judges appointed under clause (i) shall not select any annual winner of the prize competition if the Secretary makes a determination that, in any fiscalyear, none of the technological advancements entered into the prize competition merits an award.
 
 &emsp;"(F)
 
@@ -788,7 +788,7 @@ Board.—The term 'Board' means the Reducing Human-Predator Conflict Technology 
 
 &emsp;&emsp;"(ii)
 
-Prize competition.—The term 'prize competition' means the Theodore Roosevelt Genius Prize for reducing human-predator conflict established under subparagraph (B).
+Prize competition.—The term 'prize competition' means the Theodore Roosevelt GeniusPrize for reducing human-predator conflict established under subparagraph (B).
 
 &emsp;"(B)
 
@@ -1022,9 +1022,15 @@ In general.—The amount of the initial cash prize referred to in subparagraph (
 
 &emsp;&emsp;"(ii)
 
-Additional cash prizes.—On notification by the National Fish and Wildlife Foundation thatnon-Federal funds are available for an additional cash prize, the Secretary shall determine the amount of the additional cash prize."
+Additional cash prizes.—On notification by the National Fish and Wildlife Foundation that non-Federal funds are available for an additional cash prize, the Secretary shall determine the amount of the additional cash prize."
 
 #### Fees for Training by National Conservation Training Center
 
 Pub. L. 104–208, div. A, title I, §101(d) \[title I\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–185, as amended by Pub. L. 105–83, title I, Nov. 14, 1997, 111 Stat. 1547, provided in part: "That hereafter, pursuant to 31 U.S.C. 9701, the Secretary shall charge reasonable fees for the full costs of providing training by the National Conservation Training Center, to be credited to this account, notwithstanding 31 U.S.C. 3302, for the full costs of providing such training, to remain available until expended."
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Transfer of functions to Secretary of Commerce from Secretary of the Interior in view of: creation of National Oceanic and Atmospheric Administration in Department of Commerce and Office of Administrator of such Administration; abolition of Bureau of Commercial Fisheries in the Interior Department and Office of Director of such Bureau; transfers of functions, including functions formerly vested by law in Secretary of the Interior or the Interior Department which were administered through Bureau of Commercial Fisheries or were primarily related to such Bureau, exclusive of certain enumerated functions with respect to Great Lakes fishery research, Missouri River Reservoir research, Gulf Breeze Biological Laboratory, and Trans-Alaska pipeline investigations; and transfer of marine sport fish program of Bureau of Sport Fisheries and Wildlife by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, Government Organization and Employees.
 

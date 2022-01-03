@@ -10,7 +10,7 @@ Whoever, with intent to defraud, willfully engages in a pattern or practice of�
 
 > shall be fined not more than $250,000 or imprisoned not more than 5 years, or both. This section shall apply to a purchaser of such a dwelling, or a beneficial owner under any business organization or trust purchasing such dwelling, or to an officer, director, or agent of any such purchaser. Nothing in this section shall apply to the purchaser of only one such dwelling.
 
-(Pub. L. 91–609, title IX, §912, Dec. 31, 1970, 84 Stat. 1814; Pub. L. 100–242, title IV, §416(a), Feb.5, 1988, 101 Stat. 1907; Pub. L. 102–54, §13(d)(1), June 13, 1991, 105 Stat. 274.)
+(Pub. L. 91–609, title IX, §912, Dec. 31, 1970, 84 Stat. 1814; Pub. L. 100–242, title IV, §416(a), Feb. 5, 1988, 101 Stat. 1907; Pub. L. 102–54, §13(d)(1), June 13, 1991, 105 Stat. 274.)
 
 #### <b>Editorial Notes</b>
 

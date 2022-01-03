@@ -8,7 +8,7 @@ It is the purpose of this subchapter to authorize grants and contracts to—
 
 &emsp;(B) provide training to maintain and upgrade basic skills and knowledge of personnel (including personnel specifically trained to deliver services to individuals with disabilities whose employment outcome is self-employment or telecommuting) employed to provide state-of-the-art service delivery and rehabilitation technology services;
 
-&emsp;(2) conduct special projects and demonstrations that expand and improve the provision ofrehabilitation and other services (including those services provided through community rehabilitation programs) authorized under this chapter, or that otherwise further the purposes of this chapter, including related research and evaluation; and
+&emsp;(2) conduct special projects and demonstrations that expand and improve the provision of rehabilitation and other services (including those services provided through community rehabilitation programs) authorized under this chapter, or that otherwise further the purposes of this chapter, including related research and evaluation; and
 
 &emsp;(3) provide training and information to individuals with disabilities and the individuals' representatives, and other appropriate parties to develop the skills necessary for individuals with disabilities to gain access to the rehabilitation system and statewide workforce development systems and to become active decisionmakers in the rehabilitation process.
 

@@ -52,7 +52,7 @@
 
 #### (3) Voluntary nature of program
 
-&emsp;Nothing in this section shall be construed as requiring a discount card eligible individual to enroll in an endorsed discount card program under this section.
+&emsp;Nothing in this section shall be construed as requiring a discount card eligible individual toenroll in an endorsed discount card program under this section.
 
 #### (4) Glossary and definitions of terms
 
@@ -144,7 +144,7 @@ For purposes of this section:
 
 #### (B) Use of standard enrollment form
 
-&emsp;&emsp;An enrollment in an endorsed program shall only be effected through completion of a standard enrollment form specified by the Secretary. Each sponsor of an endorsed program shall transmit to the Secretary (in a form and manner specified by the Secretary) information on individuals who complete such enrollment forms and, to the extentprovided under subsection (f), information regarding certification as a transitional assistance eligible individual.
+&emsp;&emsp;An enrollment in an endorsed program shall only be effected through completion of a standard enrollment form specified by the Secretary. Each sponsor of an endorsed program shall transmit to the Secretary (in aform and manner specified by the Secretary) information on individuals who complete such enrollment forms and, to the extent provided under subsection (f), information regarding certification as a transitional assistance eligible individual.
 
 #### (C) Enrollment only in one program
 
@@ -690,15 +690,19 @@ For purposes of this section:
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1860D–31, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2131.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Internal Revenue Code of 1986, referred to in subsec. (f)(3)(B)(iii), is classified generally to Title 26, Internal Revenue Code.
 
 Section 264(c) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (h)(6)(A), is section 264(c) of Pub. L. 104–191, which is set out as a note under section 1320d–2 of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Rules for Implementation
 
-Pub. L. 108–173, title I, §105(c), Dec. 8, 2003, 117 Stat. 2166, provided that: "The following rules shall apply to the medicare prescription drug discount card and transitional assistance program under section 1860D–31 of the Social Security Act \[42 U.S.C. 1395w–141\], as added by section 101(a):
+Pub. L. 108–173, title I, §105(c), Dec. 8, 2003, 117 Stat. 2166, provided that: "The following rules shall apply tothe medicare prescription drug discount card and transitional assistance program under section 1860D–31 of the Social Security Act \[42 U.S.C. 1395w–141\], as added by section 101(a):
 
 &emsp;"(1) In promulgating regulations pursuant to subsection (a)(2)(B) of such section 1860D–31 \[42 U.S.C. 1395w–141(a)(2)(B)\]—
 

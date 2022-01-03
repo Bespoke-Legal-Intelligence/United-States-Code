@@ -100,29 +100,37 @@ There is established, within the Executive Office of the President, the Office o
 
 &emsp;&emsp;(iv) authorize such successive re-delegations of such functions, powers, and duties to such officers and employees of the Office as the Director considers appropriate.
 
-&emsp;(B) In acting under subparagraph (A)(ii) in the case of a summit or a meeting with aninternational partner, the Director shall act in coordination with the Secretary of State.
+&emsp;(B) In acting under subparagraph (A)(ii) in the case of a summit or a meeting with an international partner, the Director shall act in coordination with the Secretary of State.
 
 #### (d) Omitted
 
 #### (e) Powers of the Director
 
-The Director may, for the purposes of carrying out the functions of the Director under this section—
+#### (1) In general
 
-&emsp;(1) subject to the civil service and classification laws, select, appoint, employ, and fix the compensation of such officers and employees as are necessary and prescribe their duties, except that not more than 75 individuals may be employed without regard to any provision of law regulating the employment or compensation at rates not to exceed the basic rate of basic pay payable for level IV of the Executive Schedule under section 5315 of title 5;
+&emsp;The Director may, for the purposes of carrying out the functions of the Director under this section—
 
-&emsp;(2) employ experts and consultants in accordance with section 3109 of title 5, and compensate individuals so employed for each day (including travel time) at rates not in excess of the maximum rate of basic pay for grade GS–15 as provided in section 5332 of such title, and while such experts and consultants are so serving away from their homes or regular place of business, to pay such employees travel expenses and per diem in lieu of subsistence at rates authorized by section 5703 of such title 5 for persons in Federal Government service employed intermittently;
+&emsp;&emsp;(A) subject to the civil service and classification laws, select, appoint, employ, and fix the compensation of such officers and employees as are necessary and prescribe their duties, except that not more than 75 individuals may be employed without regard to any provision of law regulating the employment or compensation at rates not to exceed the basic rate of basic pay payable for level IV of the Executive Schedule under section 5315 of title 5;
 
-&emsp;(3) promulgate such rules and regulations as may be necessary to carry out the functions, powers, and duties vested in the Director;
+&emsp;&emsp;(B) employ experts and consultants in accordance with section 3109 of title 5, and compensate individuals so employed for each day (including travel time) at rates not in excess of the maximum rate of basic pay for grade GS–15 as provided in section 5332 of such title, and while such experts and consultants are so serving away from their homes or regular place of business, to pay such employees travel expenses and per diem in lieu of subsistence at rates authorized by section 5703 of such title 5 for persons in Federal Government service employed intermittently;
 
-&emsp;(4) utilize, with their consent, the services, personnel, and facilities of other Federal agencies;
+&emsp;&emsp;(C) accept officers or employees of the United States or members of the Armed Forces on a detail from an element of the intelligence community (as such term is defined in section 3003(4) of title 50) or from another element of the Federal Government on a nonreimbursable basis, as jointly agreed to by the heads of the receiving and detailing elements, for a period not to exceed three years;
 
-&emsp;(5) enter into and perform such contracts, leases, cooperative agreements, or other transactions as may be necessary in the conduct of the work of the Office and on such terms as the Director may determine appropriate, with any Federal agency, or with any public or private person or entity;
+&emsp;&emsp;(D) promulgate such rules and regulations as may be necessary to carry out the functions, powers, and duties vested in the Director;
 
-&emsp;(6) accept voluntary and uncompensated services, notwithstanding the provisions of section 1342 of title 31;
+&emsp;&emsp;(E) utilize, with their consent, the services, personnel, and facilities of other Federal agencies;
 
-&emsp;(7) adopt an official seal, which shall be judicially noticed; and
+&emsp;&emsp;(F) enter into and perform such contracts, leases, cooperative agreements, or other transactions as may be necessary in the conduct of the work of the Office and on such terms as the Director may determine appropriate, with any Federal agency, or with any public or private person or entity;
 
-&emsp;(8) provide, where authorized by law, copies of documents to persons at cost, except that any funds so received shall be credited to, and be available for use from, the account from which expenditures relating thereto were made.
+&emsp;&emsp;(G) accept voluntary and uncompensated services, notwithstanding the provisions of section 1342 of title 31;
+
+&emsp;&emsp;(H) adopt an official seal, which shall be judicially noticed; and
+
+&emsp;&emsp;(I) provide, where authorized by law, copies of documents to persons at cost, except that any funds so received shall be credited to, and be available for use from, the account from which expenditures relating thereto were made.
+
+#### (2) Rules of construction regarding details
+
+&emsp;Nothing in paragraph (1)(C) may be construed as imposing any limitation on anyother authority for reimbursable or nonreimbursable details. A nonreimbursable detail made pursuant to such paragraph shall not be considered an augmentation of the appropriations of the receiving element of the Office of the National Cyber Director.
 
 #### (f) Rules of construction
 
@@ -168,13 +176,21 @@ In this section:
 
 &emsp;(6) The term "intelligence" has the meaning given such term in section 3003 of title 50.
 
-(Pub. L. 116–283, div. A, title XVII, §1752, Jan. 1, 2021, 134 Stat. 4144.)
+(Pub. L. 116–283, div. A, title XVII, §1752, Jan. 1, 2021, 134 Stat. 4144; Pub. L. 117–81, div. A, title XV, §1552, Dec. 27, 2021, 135 Stat. 2070.)
 
 #### <b>Editorial Notes</b>
 
 #### Codification
 
-Section was enacted as part of the William M. (Mac) Thornberry National Defense Authorization Act forFiscal Year 2021, and not as part of the Cybersecurity Information Sharing Act of 2015 which comprises this subchapter and not as part of the Cybersecurity Act of 2015 which comprises this chapter.
+Section was enacted as part of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, and not as part of the Cybersecurity Information Sharing Act of 2015 which comprises this subchapter and not as part of the Cybersecurity Act of 2015 which comprises this chapter.
 
 Section is comprised of section 1752 of Pub. L. 116–283. Subsec. (d) of section 1752 of Pub. L. 116–283 amended section 3021 of Title 50, War and National Defense.
+
+#### Amendments
+
+<b>2021</b>—Subsec. (e)(1). Pub. L. 117–81, §1552(3), added subpar. (C) and redesignated former subpars. (C) to (H) as (D) to (I), respectively.
+
+Pub. L. 117–81, §1552(1), (2), designated existing provisions as par. (1), inserted heading, redesignated former pars. (1) to (8) as subpars. (A) to (H), respectively, of par. (1), and realigned margins.
+
+Subsec. (e)(2). Pub. L. 117–81, §1552(4), added par. (2).
 

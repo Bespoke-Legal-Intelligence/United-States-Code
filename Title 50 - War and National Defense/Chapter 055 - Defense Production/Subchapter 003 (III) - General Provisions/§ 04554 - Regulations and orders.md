@@ -14,6 +14,8 @@ Any procurement regulation, procedure, or form issued pursuant to subsection (a)
 
 <i>For termination of section, see section 4564(a) of this title.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (a), was in the original "this Act", meaning act Sept. 8, 1950, ch. 932, 64 Stat. 798, known as the Defense Production Act of 1950, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 4501 of this title and Tables.
@@ -30,9 +32,13 @@ Section was formerly classified to section 2154 of the former Appendix to this t
 
 <b>1951</b>—Act July 31, 1951, limited authority to regulate natural gas where a State agency is handling the matter.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–558 deemed to have become effective Mar. 1, 1992, see section 304 of Pub. L. 102–558, set out as a note under section 4502 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 
@@ -42,7 +48,7 @@ Authority of President to implement the Defense Production Act of 1950 (this cha
 
 &emsp;(2) with respect to responding to the spread of COVID–19 within the United States delegated to Secretary of Health and Human Services and Secretary of Homeland Security, see section 2(a) of Ex. Ord. No. 13911, Mar. 27, 2020, 85 F.R. 18403, set out as a note under section 4511 of this title; and
 
-&emsp;(3) in addition to the delegation of authority in Ex. Ord. No. 13911, delegated to Chief Executive Officer ofthe United States International Development Finance Corporation, see section 2 of Ex. Ord. No. 13922, May 14, 2020, 85 F.R. 30583, set out as a note under section 4532 of this title.
+&emsp;(3) in addition to the delegation of authority in Ex. Ord. No. 13911, delegated to Chief Executive Officer of the United States International Development Finance Corporation, see section 2 of Ex. Ord. No. 13922, May 14, 2020, 85 F.R. 30583, set out as a note under section 4532 of this title.
 
 Functions of President under this chapter relating to production, conservation, use, control, distribution, and allocation of energy, delegated to Secretary of Energy, see section 4 of Ex. Ord. No. 11790, eff. June 25, 1974, 39 F.R. 23185, set out as a note under section 761 of Title 15, Commerce and Trade.
 

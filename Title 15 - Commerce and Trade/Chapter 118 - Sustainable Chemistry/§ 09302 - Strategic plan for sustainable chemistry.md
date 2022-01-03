@@ -60,7 +60,7 @@ In carrying out the duties described in subsections (a) and (b), the Entity shal
 
 &emsp;&emsp;(D) an analysis of the progress made toward achieving the goals and priorities of this chapter, and recommendations for future program activities;
 
-&emsp;&emsp;(E) an evaluation of steps taken and future strategies to avoid duplication of efforts,streamline interagency coordination, facilitate information sharing, and spread best practices among participating agencies; and
+&emsp;&emsp;(E) an evaluation of steps taken and future strategies to avoid duplication of efforts, streamline interagency coordination, facilitate information sharing, and spread best practices among participating agencies; and
 
 &emsp;&emsp;(F) an evaluation of duplicative Federal funding and duplicative Federal research in sustainable chemistry, efforts undertaken by the Entity to eliminate duplicative funding and research, and recommendations on how to achieve these goals.
 
@@ -73,6 +73,8 @@ In carrying out the duties described in subsections (a) and (b), the Entity shal
 &emsp;The Entity shall submit a report to Congress and the Comptroller General of the United States that incorporates the information described in subparagraphs (A), (B), (D), (E), and (F) of paragraph (1) every 3 years, commencing after the initial report is submitted until the Entity terminates.
 
 (Pub. L. 116–283, div. A, title II, §262, Jan. 1, 2021, 134 Stat. 3498.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

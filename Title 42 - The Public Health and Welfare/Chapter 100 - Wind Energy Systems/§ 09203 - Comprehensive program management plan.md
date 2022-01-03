@@ -18,13 +18,13 @@ The Secretary shall transmit the comprehensive program management plan to the Co
 
 #### (c) Subsequent transmittals to Congress; descriptive statement: current plan, changes, justification for changes, progress, interagency cooperation, and recommendations for achievement of goals
 
-Concurrently with the submission of the President's annual budget to the Congress for each year after the year in which the comprehensive plan is initially transmitted under subsection (b), the Secretary shall transmit to the Congress a detailed description of the comprehensive plan as then in effect, setting forth the modifications which may be necessary to appropriately revise such plan and any changes in circumstances which may have occurred since the plan or the last previous modification thereof was transmitted in accordance with this section. The detailed description of the comprehensive plan under this subsection shall include but need not be limited to a statement setting forth with respect to each of the programs under this chapter any changes in—
+Concurrently with the submission of the President's annual budget to the Congress for each year after the year in which the comprehensive plan is initially transmitted under subsection (b), the Secretary shall transmit to the Congress a detailed description of the comprehensive plan as then in effect, setting forth the modifications which may be necessary to appropriately revise such plan and any changes in circumstances which may have occurred sincethe plan or the last previous modification thereof was transmitted in accordance with this section. The detailed description of the comprehensive plan under this subsection shall include but need not be limited to a statement setting forth with respect to each of the programs under this chapter any changes in—
 
 &emsp;(1) the anticipated research, development, demonstration, and technology application objectives to be achieved by the program;
 
 &emsp;(2) the program elements, management structure, and activities, including any regional aspects and field responsibilities thereof;
 
-&emsp;(3) the program strategies and technology applications plans, including detailed mile-stone goals to be achieved during the next fiscal year for all major activities and projects;
+&emsp;(3) the program strategies and technology applications plans, including detailed mile- stone goals to be achieved during the next fiscal year for all major activities and projects;
 
 &emsp;(4) any significant economic, environmental, and societal effects which the program may have;
 
@@ -35,6 +35,8 @@ Concurrently with the submission of the President's annual budget to the Congres
 > Such description shall also include a detailed justification of any such changes, a detailed description of the progress made toward achieving the goals of this chapter, a statement on the status of interagency cooperation in meeting such goals, and any legislative or other recommendations which the Secretary may have to help attain such goals.
 
 (Pub. L. 96–345, §4, Sept. 8, 1980, 94 Stat. 1141.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

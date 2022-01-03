@@ -1,12 +1,16 @@
 ### §1001. Declaration of policy
 
-Erosion, floodwater, and sediment damages in the watersheds of the rivers and streams of theUnited States, causing loss of life and damage to property, constitute a menace to the national welfare; and it is the sense of Congress that the Federal Government should cooperate with States and their political subdivisions, soil or water conservation districts, flood prevention or control districts, and other local public agencies for the purpose of preventing such damages, of furthering the conservation, development, utilization, and disposal of water, and the conservation and utilization of land and thereby of preserving, protecting, and improving the Nation's land and water resources and the quality of the environment.
+Erosion, floodwater, and sediment damages in the watersheds of the rivers and streams of the United States, causing loss of life and damage to property, constitute a menace to the national welfare; and it is the sense of Congress that the Federal Government should cooperate with States and their political subdivisions, soil or water conservation districts, flood prevention or control districts, and other local public agencies for the purpose of preventing such damages, of furthering the conservation, development, utilization, and disposal of water, and the conservation and utilization of land and thereby of preserving, protecting, and improving the Nation's land and water resources and the quality of the environment.
 
 (Aug. 4, 1954, ch. 656, §1, 68 Stat. 666; Pub. L. 92–419, title II, §201(a), Aug. 30, 1972, 86 Stat. 667.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>1972</b>—Pub. L. 92–419 expanded the declaration of policy to include conservation and utilization of land, improvement of land and water resources, and quality of the environment.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

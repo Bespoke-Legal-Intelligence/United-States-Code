@@ -58,13 +58,15 @@ In this subchapter:
 
 #### (7) Respite care
 
-&emsp;The term "respite care" means planned or emergency care provided to a child or adult with a special need in order to provide temporary relief to the family caregiver of that child or adult.
+&emsp;The term "respite care" means planned or emergency care provided to a child or adultwith a special need in order to provide temporary relief to the family caregiver of that child or adult.
 
 #### (8) State
 
 &emsp;The term "State" means any of the several States, the District of Columbia, the Virgin Islands of the United States, the Commonwealth of Puerto Rico, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
 (July 1, 1944, ch. 373, title XXIX, §2901, as added Pub. L. 109–442, §2, Dec. 21, 2006, 120 Stat. 3291.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

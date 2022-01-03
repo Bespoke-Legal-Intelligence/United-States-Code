@@ -82,7 +82,7 @@ A royalty rate prescribed in subsection (c)(1) shall terminate—
 
 #### (f) Savings provision
 
-Nothing in this section prevents a lessee from receiving royalty relief or a royalty reductionpursuant to any other law (including a regulation) that provides more relief than the amounts provided by this section.
+Nothing in this section prevents a lessee from receiving royalty relief or a royalty reduction pursuant to any other law (including a regulation) that provides more relief than the amounts provided by this section.
 
 (Pub. L. 109–58, title III, §343, Aug. 8, 2005, 119 Stat. 700.)
 

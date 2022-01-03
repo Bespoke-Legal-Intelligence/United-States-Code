@@ -20,9 +20,13 @@ There is established within the Department of Health and Human Services an Admin
 
 (Pub. L. 101–501, title IX, §915, Nov. 3, 1990, 104 Stat. 1263.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is comprised of section 915 of Pub. L. 101–501. Subsec. (b)(1)(B) of section 915 of Pub. L. 101–501 amended section 5316 of Title 5, Government Organization and Employees.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

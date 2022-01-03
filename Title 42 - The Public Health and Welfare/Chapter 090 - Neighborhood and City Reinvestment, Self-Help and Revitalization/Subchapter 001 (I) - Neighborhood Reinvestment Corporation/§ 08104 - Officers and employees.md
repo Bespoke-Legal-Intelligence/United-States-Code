@@ -10,7 +10,7 @@ The directors of the corporation shall appoint an executive director who shall s
 
 #### (c) Appointment and removal of employees by executive director
 
-The executive director of the corporation, subject to approval by the board, may appoint andremove such employees of the corporation as he determines necessary to carry out the purposes of the corporation.
+The executive director of the corporation, subject to approval by the board, may appoint and remove such employees of the corporation as he determines necessary to carry out the purposes of the corporation.
 
 #### (d) Prohibition of political tests and qualifications in selection, etc., of personnel
 
@@ -21,6 +21,8 @@ No political test or political qualification shall be used in selecting, appoint
 Officers and employees of the corporation shall not be considered officers or employees of the United States, and the corporation shall not be considered a department, agency, or instrumentality of the Federal Government. The corporation shall be subject to administrative and cost standards issued by the Office of Management and Budget similar to standards applicable to non-profit grantees and educational institutions.
 
 (Pub. L. 95–557, title VI, §605, Oct. 31, 1978, 92 Stat. 2116; Pub. L. 108–199, div. G, title III,\[(1), (2)\], Jan. 23, 2004, 118 Stat. 413; Pub. L. 111–117, div. A, title III, Dec. 16, 2009, 123 Stat. 3108.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

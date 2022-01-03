@@ -82,7 +82,7 @@ The council shall meet, at a minimum, on a quarterly basis, and in such places a
 
 #### (d) Management authority
 
-Subject to the approval of the Governor, the council may prepare and approve a budget using funds under this subchapter to conduct hearings and forums, to reimburse members of the council for reasonable and necessary expenses for attending council meetings and performing council duties (including child care for parent representatives), to pay compensation to a member of the council if the member is not employed or must forfeit wages from other employment when performing official council business, to hire staff, and to obtain the services of such professional, technical, and clerical personnel as may be necessary to carry out its functions under this subchapter.
+Subject to the approval of the Governor, the council may prepare and approve a budget using funds under this subchapter to conduct hearings and forums, to reimburse members of the council for reasonable and necessary expenses for attending council meetings and performing council duties (including child care for parent representatives), to pay compensation to a member of the council if the member is not employed or must forfeit wages from other employment when performing official council business, to hire staff, and to obtain the services of such professional, technical, and clerical personnel as maybe necessary to carry out its functions under this subchapter.
 
 #### (e) Functions of council
 
@@ -107,6 +107,8 @@ Subject to the approval of the Governor, the council may prepare and approve a b
 No member of the council shall cast a vote on any matter that is likely to provide a direct financial benefit to that member or otherwise give the appearance of a conflict of interest under State law.
 
 (Pub. L. 91–230, title VI, §641, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2758.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

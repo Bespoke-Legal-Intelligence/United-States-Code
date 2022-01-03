@@ -6,9 +6,13 @@
 
 (Sept. 2, 1937, ch. 899, §7, 50 Stat. 919; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 91–503, title I, §102, Oct. 23, 1970, 84 Stat. 1100.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1970</b>—Pub. L. 91–503 divided existing provisions into subsecs. (a) and (b), permitted advance payments to the States for work which has been adequately defined in a comprehensive fish and wildlife plan, and struck out reference to progress payments in provision covering joint determination of time and amounts of payments.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

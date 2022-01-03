@@ -1,5 +1,7 @@
 ### §441j–3. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 441j–3, comprising section 1014 of the National Security Act of 1947, act July 26, 1947, ch. 343, was editorially reclassified as section 3204 of this title.

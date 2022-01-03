@@ -30,7 +30,7 @@
 
 (C) For the purposes of this paragraph, the term "eligible applicant" means any United States private business, State government, local government, organization of State or local government, or any combination thereof. The term does not include any business owned in whole or in part by the Federal Government.
 
-(D) The amount and distribution of grants or contracts made under this paragraph shall be determined by the Secretary. No grant or contract may be awarded under this paragraph todemonstrate a technology to be incorporated into a project or system located in a State that prohibits under State law the expenditure of non-Federal public funds or revenues on the construction or operation of such project or system.
+(D) The amount and distribution of grants or contracts made under this paragraph shall be determined by the Secretary. No grant or contract may be awarded under this paragraph to demonstrate a technology to be incorporated into a project or system located in a State that prohibits under State law the expenditure of non-Federal public funds or revenues on the construction or operation of such project or system.
 
 (E) Recipients of grants or contracts made pursuant to this paragraph shall agree to submit a report to the Secretary detailing the results and benefits of the technology demonstration proposed, as required by the Secretary.
 
@@ -118,6 +118,8 @@
 
 (Added Pub. L. 102–240, title I, §1036(c)(1), Dec. 18, 1991, 105 Stat. 1982.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1036(b) of the Intermodal Surface Transportation Efficiency Act of 1991, referred to in subsecs. (b)(2)(A) and (d)(3)(B), is section 1036(b) of Pub. L. 102–240, which is set out below.
@@ -125,6 +127,8 @@ Section 1036(b) of the Intermodal Surface Transportation Efficiency Act of 1991,
 The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (c)(3), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, as amended, which is classified generally to chapter 63 (§3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 15 and Tables.
 
 Section 7 of the Rail Safety Improvement Act of 1988, referred to in subsec. (d)(3)(C), is section 7 of Pub. L. 100–342, which amended section 431 of Title 45, Railroads.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

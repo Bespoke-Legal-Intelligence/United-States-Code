@@ -26,5 +26,5 @@
 
 #### Codification
 
-Section was enacted as part of the Financial Services and General Government Appropriations Act, 2014, and also as part of the Consolidated Appropriations Act, 2014, and not as part of the Federal Water Pollution Control Act which comprises this chapter.
+Section was enacted as part of the Financial Services and General Government Appropriations Act, 2014, and also as part of the Consolidated Appropriations Act,2014, and not as part of the Federal Water Pollution Control Act which comprises this chapter.
 

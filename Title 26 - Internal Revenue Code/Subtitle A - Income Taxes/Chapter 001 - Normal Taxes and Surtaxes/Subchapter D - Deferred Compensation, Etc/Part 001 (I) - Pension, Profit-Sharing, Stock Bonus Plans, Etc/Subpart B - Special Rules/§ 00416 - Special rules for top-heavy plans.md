@@ -100,7 +100,7 @@ A trust shall not constitute a qualified trust under section 401(a) for any plan
 
 #### (A) In general
 
-&emsp;&emsp;A defined contribution plan meets the requirements of the subsection if the employer contribution for the year for each participant who is a non-key employee is not less than 3 percent of such participant's compensation (within the meaning of section 415). Employer matching contributions (asdefined in section 401(m)(4)(A)) shall be taken into account for purposes of this subparagraph (and any reduction under this sentence shall not be taken into account in determining whether section 401(k)(4)(A) applies).
+&emsp;&emsp;A defined contribution plan meets the requirements of the subsection if the employer contribution for the year for each participant who is a non-key employee is not less than 3 percent of such participant's compensation (within the meaning of section 415). Employer matching contributions (as defined in section 401(m)(4)(A)) shall be taken into account for purposes of this subparagraph (and any reduction under this sentence shall not be taken into account in determining whether section 401(k)(4)(A) applies).
 
 #### (B) Special rule where maximum contribution less than 3 percent
 
@@ -270,7 +270,7 @@ For purposes of this section—
 
 #### (ii) 1-percent owner
 
-&emsp;&emsp;&emsp;For purposes of this paragraph, the term "1-percent owner" means any person whowould be described in clause (i) if "1 percent" were substituted for "5 percent" each place it appears in clause (i).
+&emsp;&emsp;&emsp;For purposes of this paragraph, the term "1-percent owner" means any person who would be described in clause (i) if "1 percent" were substituted for "5 percent" each place it appears in clause (i).
 
 #### (iii) Constructive ownership rules
 
@@ -324,6 +324,8 @@ For purposes of this section—
 
 <i>For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table under section 401 of this title.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Insurance Contributions Act, referred to in subsec. (e), is act Aug. 16, 1954, ch. 736, §§3101, 3102, 3111, 3112, 3121 to 3128, 68A Stat. 415, as amended, which is classified generally to chapter 21 (§3101 et seq.) of this title. For complete classification of this Act to the Code, see section 3128 of this title and Tables.
@@ -356,7 +358,7 @@ Subsec. (g)(3). Pub. L. 107–16, §613(c)(1), amended heading and text of par. 
 
 > such present value or amount shall be increased by the aggregate distributions made with respect to such employee under the plan during the 5-year period ending on the determination date. The preceding sentence shall also apply to distributions under a terminated plan which if it had not been terminated would have been required to be included in an aggregation group."
 
-Subsec. (g)(4)(E). Pub. L. 107–16, §613(c)(2), in heading substituted "last year before determination date" for"last 5 years" and in text substituted "1-year period" for "5-year period".
+Subsec. (g)(4)(E). Pub. L. 107–16, §613(c)(2), in heading substituted "last year before determination date" for "last 5 years" and in text substituted "1-year period" for "5-year period".
 
 Subsec. (g)(4)(H). Pub. L. 107–16, §613(d), added subpar. (H).
 
@@ -417,6 +419,8 @@ Subsec. (i)(1)(A)(ii). Pub. L. 98–369, §713(f)(1)(B), required a key employee
 Subsec. (i)(1)(B)(iii). Pub. L. 98–369, §713(f)(6)(B), substituted subparagraph "(A)(ii)" for "(A)(ii)(II)".
 
 Subsec. (i)(1)(C). Pub. L. 98–369, §713(f)(1)(A), substituted in heading "ownership in the employer" for "5-percent or 1-percent owners".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

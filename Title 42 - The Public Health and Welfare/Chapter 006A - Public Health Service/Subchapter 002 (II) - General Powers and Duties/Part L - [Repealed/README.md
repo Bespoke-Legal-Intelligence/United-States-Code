@@ -1,5 +1,7 @@
 Part L—\[Repealed\]
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 106–310, div. B, title XXXI, §3106(n), Oct. 17, 2000, 114 Stat. 1179, struck out heading for part L "Services for Children of Substance Abusers".

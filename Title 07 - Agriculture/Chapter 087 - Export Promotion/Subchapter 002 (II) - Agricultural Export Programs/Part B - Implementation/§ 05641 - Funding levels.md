@@ -2,13 +2,15 @@
 
 #### (a) Direct credit programs
 
-The Commodity Credit Corporation may make available for each fiscal year such funds of theCommodity Credit Corporation as it determines necessary to carry out any direct credit program established under section 5621 of this title.
+The Commodity Credit Corporation may make available for each fiscal year such funds of the Commodity Credit Corporation as it determines necessary to carry out any direct credit program established under section 5621 of this title.
 
 #### (b) Export credit guarantee program
 
 The Commodity Credit Corporation shall make available for each fiscal year $5,500,000,000 of credit guarantees under section 5622(a) of this title.
 
 (Pub. L. 95–501, title II, §211, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3677; amended Pub. L. 103–66, title I, §1302(a), Aug. 10, 1993, 107 Stat. 330; Pub. L. 104–127, title II, §§243(b), 244(a)(2)(B), (c), Apr. 4, 1996, 110 Stat. 967, 968; Pub. L. 107–171, title III, §§3102(d), 3103, May 13, 2002, 116 Stat. 289; Pub. L. 110–246, title III, §§3101(b), 3102(b), June 18, 2008, 122 Stat. 1831, 1832; Pub. L. 113–79, title III, §§3101(b), 3102, Feb. 7, 2014, 128 Stat. 779; Pub. L. 115–334, title III, §3201(b)(1)(A), Dec. 20, 2018, 132 Stat. 4616.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -37,6 +39,8 @@ Pub. L. 104–127, §244(a)(2)(B)(iii), substituted "market access program" for 
 Subsec. (c)(2). Pub. L. 104–127, §244(a)(2)(B)(iv), substituted "market access program" for "marketing promotion program".
 
 <b>1993</b>—Subsec. (c)(1). Pub. L. 103–66 substituted "through 1993, and not less than $110,000,000 for each of the fiscal years 1994 through 1997," for "through 1995".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

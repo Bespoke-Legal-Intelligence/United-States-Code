@@ -4,7 +4,7 @@
 
 The Congress finds that—
 
-&emsp;(1) the discharge of untreated water in the ballast tanks of vessels and through other means results in unintentional introductionsof nonindigenous species to fresh, brackish, and saltwater environments;
+&emsp;(1) the discharge of untreated water in the ballast tanks of vessels and through other means results in unintentional introductions of nonindigenous species to fresh, brackish, and saltwater environments;
 
 &emsp;(2) when environmental conditions are favorable, nonindigenous species become established, may compete with or prey upon native species of plants, fish, and wildlife, may carry diseases or parasites that affect native species, and may disrupt the aquatic environment and economy of affected nearshore areas;
 
@@ -70,6 +70,8 @@ The purposes of this chapter are—
 
 (Pub. L. 101–646, title I, §1002, Nov. 29, 1990, 104 Stat. 4761; Pub. L. 104–182, title III, §308(a), Aug. 6, 1996, 110 Stat. 1689; Pub. L. 104–332, §2(a)(1), (h)(1), Oct. 26, 1996, 110 Stat. 4073, 4091.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (b), was in the original "this Act", which, to reflect the probable intent of Congress, was translated as reading "this title" meaning title I of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4761, known as the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out below and Tables.
@@ -90,9 +92,11 @@ Subsec. (a)(5). Pub. L. 104–182 added par. (5).
 
 Subsec. (a)(6) to (15). Pub. L. 104–332, §2(a)(1)(B)(ii), (C), (D), added pars. (6) to (15).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–332, §1(a), Oct. 26, 1996, 110 Stat. 4073, provided that: "This Act \[enacting sections 4713 and 4714 of this title, amending sections 941 to 941g, 4701, 4702, 4711, 4712, 4721 to 4728, 4741 and 4751 of this title, section 42 of Title 18, Crimes and Criminal Procedure, and section 2761 of Title 33, Navigation and Navigable Waters, enacting provisions set out as a note under this section, and amending provisions set out as notes under this section, section 941 of this title, and section 2701 of Title 33\] may be cited as the 'National Invasive Species Act of 1996'."
+Pub. L. 104–332, §1(a), Oct. 26, 1996, 110 Stat. 4073, provided that: "This Act \[enacting sections 4713 and 4714 ofthis title, amending sections 941 to 941g, 4701, 4702, 4711, 4712, 4721 to 4728, 4741 and 4751 of this title, section 42 of Title 18, Crimes and Criminal Procedure, and section 2761 of Title 33, Navigation and Navigable Waters, enacting provisions set out as a note under this section, and amending provisions set out as notes under this section, section 941 of this title, and section 2701 of Title 33\] may be cited as the 'National Invasive Species Act of 1996'."
 
 #### Short Title
 
@@ -166,7 +170,7 @@ Pub. L. 104–332, §3, Oct. 26, 1996, 110 Stat. 4092, provided that: "Nothing i
 
 #### Report on Establishment of Program
 
-Pub. L. 102–567, title II, §203(b), Oct. 29, 1992, 106 Stat. 4281, provided that: "Not later than one year after thedate of the enactment of this Act \[Oct. 29, 1992\], the Secretary of Commerce shall submit a report to the Congress on progress toward establishing a nonindigenous aquatic nuisance prevention and control program within the National Oceanic and Atmospheric Administration and projected funding for such a program for the following five fiscal years."
+Pub. L. 102–567, title II, §203(b), Oct. 29, 1992, 106 Stat. 4281, provided that: "Not later than one year after the date of the enactment of this Act \[Oct. 29, 1992\], the Secretary of Commerce shall submit a report to the Congress on progress toward establishing a nonindigenous aquatic nuisance prevention and control program within the National Oceanic and Atmospheric Administration and projected funding for such a program for the following five fiscal years."
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

@@ -366,7 +366,7 @@ Federal and state vessels.—This section and section 3508 do not apply to a ves
 
 Definition.—In this section and section 3508, the term "owner" means the owner, charterer, managing operator, master, or other individual in charge of a vessel.
 
-(Added Pub. L. 111–207, §3(a), July 27, 2010, 124 Stat. 2244; amended Pub. L. 113–281, title III, §321, Dec. 18, 2014, 128 Stat. 3054; Pub. L. 115–232, div. C, title XXXV, §§3541(b)(9), 3543(a), Aug. 13, 2018, 132 Stat. 2323, 2324; Pub. L. 116–283, div. G, title LVXXXIII \[LXXXIII\], §8311, title LVXXXIV \[LXXXIV\], §8440(a)–(c)(1), Jan. 1, 2021, 134 Stat. 4697, 4739–4741.)
+(Added Pub. L. 111–207, §3(a), July 27, 2010, 124 Stat. 2244; amended Pub. L. 113–281, title III, §321, Dec. 18, 2014, 128 Stat. 3054; Pub. L. 115–232, div. C, title XXXV, §§3541(b)(9), 3543(a), Aug. 13, 2018, 132 Stat. 2323, 2324; Pub. L. 116–283, div. G, title LVXXXIII \[LXXXIII\], §8311, div. G, title LVXXXIV \[LXXXIV\], §8440(a)–(c)(1), Jan. 1, 2021, 134 Stat. 4697, 4739–4741.)
 
 #### <b>Editorial Notes</b>
 

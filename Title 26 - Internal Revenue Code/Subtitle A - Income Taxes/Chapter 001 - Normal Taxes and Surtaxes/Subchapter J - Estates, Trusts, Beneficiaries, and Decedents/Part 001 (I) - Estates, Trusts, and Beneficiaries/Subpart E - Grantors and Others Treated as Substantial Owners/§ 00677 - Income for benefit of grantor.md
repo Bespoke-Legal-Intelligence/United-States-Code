@@ -14,9 +14,11 @@ The grantor shall be treated as the owner of any portion of a trust, whether or 
 
 #### (b) Obligations of support
 
-Income of a trust shall not be considered taxable to the grantor under subsection (a) or anyother provision of this chapter merely because such income in the discretion of another person, the trustee, or the grantor acting as trustee or co-trustee, may be applied or distributed for the support or maintenance of a beneficiary (other than the grantor's spouse) whom the grantor is legally obligated to support or maintain, except to the extent that such income is so applied or distributed. In cases where the amounts so applied or distributed are paid out of corpus or out of other than income for the taxable year, such amounts shall be considered to be an amount paid or credited within the meaning of paragraph (2) of section 661(a) and shall be taxed to the grantor under section 662.
+Income of a trust shall not be considered taxable to the grantor under subsection (a) or any other provision of this chapter merely because such income in the discretion of another person, the trustee, or the grantor acting as trustee or co-trustee, may be applied or distributed for the support or maintenance of a beneficiary (other than the grantor's spouse) whom the grantor is legally obligated to support or maintain, except to the extent that such income is so applied or distributed. In cases where the amounts so applied or distributed are paid out of corpus or out of other than income for the taxable year, such amounts shall be considered to be an amount paid or credited within the meaning of paragraph (2) of section 661(a) and shall be taxed to the grantor under section 662.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 230; Pub. L. 91–172, title III, §332(a), Dec. 30, 1969, 83 Stat. 599; Pub. L. 99–514, title XIV, §1402(b)(3), Oct. 22, 1986, 100 Stat. 2712.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -25,6 +27,8 @@ Income of a trust shall not be considered taxable to the grantor under subsectio
 <b>1969</b>—Subsec. (a)(1) to (3). Pub. L. 91–172, §332(a)(1), inserted "or the grantor's spouse" after "the grantor" in pars. (1), (2), and (3).
 
 Subsec. (b). Pub. L. 91–172, §332(a)(2), inserted "(other than the grantor's spouse)" after "beneficiary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

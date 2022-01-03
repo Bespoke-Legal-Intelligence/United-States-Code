@@ -2,7 +2,7 @@
 
 (a)(1) There is in the Department of Defense an Institute to be known as the Armed Forces Institute of Pathology (hereinafter in this section referred to as the "Institute"), which has the responsibilities, functions, authority, and relationships set forth in this section. The Institute shall be a joint entity of the three military departments, subject to the authority, direction, and control of the Secretary of Defense.
 
-(2) The Institute shall consist of a Board of Governors, a Director, two Deputy Directors,and a staff of such professional, technical, and clerical personnel as may be required.
+(2) The Institute shall consist of a Board of Governors, a Director, two Deputy Directors, and a staff of such professional, technical, and clerical personnel as may be required.
 
 (3) The Board of Governors shall consist of the Assistant Secretary of Defense for Health Affairs, who shall serve as chairman of the Board of Governors, the Assistant Secretary of Health and Human Services for Health, the Surgeons General of the Army, Navy, and Air Force, the Under Secretary for Health of the Department of Veterans Affairs, and a former Director of the Institute, as designated by the Secretary of Defense, or the designee of any of the foregoing.
 
@@ -24,6 +24,8 @@
 
 (Added Pub. L. 94–361, title VIII, §811(b), July 14, 1976, 90 Stat. 933; amended Pub. L. 96–513, title V, §511(6), Dec. 12, 1980, 94 Stat. 2920; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 103–160, div. A, title VII, §733, Nov. 30, 1993, 107 Stat. 1697; Pub. L. 104–106, div. A, title IX, §903(f)(1), Feb. 10, 1996, 110 Stat. 402; Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 107–107, div. A, title X, §1048(a)(4), Dec. 28, 2001, 115 Stat. 1222.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2001</b>—Subsec. (a)(3). Pub. L. 107–107 substituted "Under Secretary for Health" for "Chief Medical Director".
@@ -37,6 +39,8 @@
 <b>1980</b>—Subsec. (a)(3). Pub. L. 96–513, §511(6)(A), substituted "Secretary of Health and Human Services" for "Secretary of Health, Education, and Welfare".
 
 Subsec. (b)(1)(A). Pub. L. 96–513, §511(6)(B), inserted "of this title" after "177".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

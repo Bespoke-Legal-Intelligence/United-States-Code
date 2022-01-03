@@ -14,9 +14,13 @@ For purposes of this section, the term "quid pro quo contribution" means a payme
 
 (Added Pub. L. 103–66, title XIII, §13173(a), Aug. 10, 1993, 107 Stat. 456.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 6115 was renumbered section 6116 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

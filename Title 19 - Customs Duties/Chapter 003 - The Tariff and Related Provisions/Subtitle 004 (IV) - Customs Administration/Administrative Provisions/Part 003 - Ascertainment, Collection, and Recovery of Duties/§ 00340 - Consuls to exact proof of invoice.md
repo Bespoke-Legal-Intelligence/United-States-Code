@@ -4,6 +4,8 @@ All consular officers are authorized to require, before certifying any invoice, 
 
 (R.S. §2862.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §2862 derived from act Mar. 3, 1865, ch. 111, 13 Stat. 532.

@@ -86,7 +86,7 @@ Except as provided in subsection (c), the Secretary shall not authorize the use 
 
 #### (d) Existing agreements
 
-Nothing in this section affects permitted or prohibited uses of donated land or acquired land in the Conservation Area established in any easements, deed restrictions, memoranda of understanding, or other agreements in existence on March 12, 2019.
+Nothing in this section affects permitted or prohibited uses of donated land or acquired landin the Conservation Area established in any easements, deed restrictions, memoranda of understanding, or other agreements in existence on March 12, 2019.
 
 #### (e) Deed restrictions
 
@@ -106,9 +106,13 @@ Effective beginning on March 12, 2019, within the Conservation Area, the Secreta
 
 (Pub. L. 103–433, title VII, §714, as added Pub. L. 116–9, title I, §1453, Mar. 12, 2019, 133 Stat. 712.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The National Environmental Policy Act of 1969, referred to in subsec. (c)(1)(B), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

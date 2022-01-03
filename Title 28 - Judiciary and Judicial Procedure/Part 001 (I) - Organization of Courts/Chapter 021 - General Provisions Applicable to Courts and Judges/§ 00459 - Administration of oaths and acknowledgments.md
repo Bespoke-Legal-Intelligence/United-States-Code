@@ -18,7 +18,7 @@ Section 1509 of title 19, U.S.C., 1940 ed., related only to the Customs Court.
 
 Section 1114(a) of title 26, U.S.C., 1940 ed., related only to The Tax Court. That portion of such section authorizing certain employees of The Tax Court to administer oaths and acknowledgments is incorporated in section 953 of this title. For distribution of other provisions thereof, see Distribution Table.
 
-The revised section clarifies what was apparently a statutory omission in that no provision was made with reference to the Court of Customs and Patent Appeals, the judges of which now will have the same power respecting administering oaths as judges of other courts.
+The revised section clarifies what was apparently a statutory omission in that no provision was made with reference to the Court of Customs and Patent Appeals,the judges of which now will have the same power respecting administering oaths as judges of other courts.
 
 #### Senate Revision Amendment
 

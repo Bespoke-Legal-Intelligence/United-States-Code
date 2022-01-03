@@ -38,6 +38,8 @@ The Secretary and the Secretary of Defense, and officials responsible for admini
 
 (Pub. L. 93–409, §5, Sept. 3, 1974, 88 Stat. 1070; Pub. L. 93–438, title I, §104(f), title III, §301(h), Oct. 11, 1974, 88 Stat. 1238, 1250; Pub. L. 95–91, title III, §301(a), title VII, §§703, 707, Aug. 4, 1977, 91 Stat. 577, 606, 607; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 In subsec. (c), "subchapter II of chapter 201 of title 51" substituted for "title II of the National Aeronautics and Space Act of 1958" on authority of Pub. L. 111–314, §5(e), Dec. 18, 2010, 124 Stat. 3443, which Act enacted Title 51, National and Commercial Space Programs.
@@ -46,7 +48,9 @@ In subsec. (c), "subchapter II of chapter 201 of title 51" substituted for "titl
 
 <b>1988</b>—Subsec. (b)(1), (2). Pub. L. 100–418 substituted "National Institute of Standards and Technology" for "National Bureau of Standards".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transfer of Functions
 
-"Secretary of Energy" substituted for "Director", meaning Director of National Science Foundation, in subsec. (b)(1) pursuant to sections 104(f) and 301(h) of Pub. L. 93–438, which are classified to sections 5814(f) and 5871(h) of this title and which transferred functions of National Science Foundation relating to or utilized in connection with solar heating and cooling development to Administrator of Energy Research and Development Administration, and pursuant to sections 301(a), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7293, and 7297 of this title and which terminated Energy Research and Development Administration and transferred its functions and functions of Administrator thereof (with certain exceptions) to Secretary of Energy.
+"Secretary of Energy" substituted for "Director", meaning Director of National Science Foundation, in subsec. (b)(1) pursuant to sections 104(f) and 301(h) of Pub. L. 93–438, which are classified to sections 5814(f) and 5871(h) of this title and which transferred functions of National Science Foundation relating to or utilized in connection with solar heating and cooling development to Administrator of Energy Research and Development Administration, and pursuant to sections301(a), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7293, and 7297 of this title and which terminated Energy Research and Development Administration and transferred its functions and functions of Administrator thereof (with certain exceptions) to Secretary of Energy.
 

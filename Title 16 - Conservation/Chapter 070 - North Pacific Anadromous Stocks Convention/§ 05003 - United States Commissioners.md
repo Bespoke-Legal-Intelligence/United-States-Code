@@ -36,6 +36,8 @@ United States Commissioners and Alternate United States Commissioners shall rece
 
 (Pub. L. 102–567, title VIII, §804, Oct. 29, 1992, 106 Stat. 4310; Pub. L. 102–587, title VIII, §8004, Nov. 4, 1992, 106 Stat. 5099; Pub. L. 106–562, title III, §304, Dec. 23, 2000, 114 Stat. 2806; Pub. L. 114–327, title I, §121(b)(1), Dec. 16, 2016, 130 Stat. 1984.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Title VIII of Pub. L. 102–567 and Pub. L. 102–587 enacted identical sections. Title VIII of Pub. L. 102–587 was repealed by Pub. L. 106–562.

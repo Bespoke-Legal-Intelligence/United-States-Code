@@ -4,9 +4,13 @@ Notwithstanding any other provision of law, the Administrator of the Federal Avi
 
 (Added Pub. L. 103–305, title I, §118(a), Aug. 23, 1994, 108 Stat. 1580; amended Pub. L. 108–176, title I, §154, Dec. 12, 2003, 117 Stat. 2507.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2003</b>—Pub. L. 108–176 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: "Notwithstanding any other provision of law, the Administrator of the Federal Aviation Administration may contract, using sole source or limited source authority, for the collection of airport safety data."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

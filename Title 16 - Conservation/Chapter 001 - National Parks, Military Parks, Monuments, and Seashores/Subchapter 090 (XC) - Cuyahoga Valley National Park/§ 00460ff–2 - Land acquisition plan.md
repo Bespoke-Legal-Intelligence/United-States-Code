@@ -16,9 +16,13 @@ It is the express intent of the Congress that the Secretary should substantially
 
 (Pub. L. 93–555, §3, Dec. 27, 1974, 88 Stat. 1786; Pub. L. 106–291, title I, §149(c)(2), Oct. 11, 2000, 114 Stat. 956.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Subsec. (a)(i), (ii). Pub. L. 106–291 substituted "park" for "recreation area".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

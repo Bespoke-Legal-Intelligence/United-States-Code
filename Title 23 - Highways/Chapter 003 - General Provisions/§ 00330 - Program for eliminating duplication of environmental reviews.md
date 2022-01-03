@@ -54,7 +54,7 @@ Application.—To be eligible to participate in the program, a State shall submi
 
 &emsp;(7) evidence of having sought, received, and addressed comments on the proposed application from the public; and
 
-&emsp;(8) any such additional information as the Secretary, or, with respect to section (d)(1)(A),the Secretary in consultation with the Chair, may require.
+&emsp;(8) any such additional information as the Secretary, or, with respect to section (d)(1)(A), the Secretary in consultation with the Chair, may require.
 
 (c)
 
@@ -282,7 +282,7 @@ Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as
 
 #### Purpose
 
-Pub. L. 114–94, div. A, title I, §1309(a), Dec. 4, 2015, 129 Stat. 1392, provided that: "The purpose of this section\[enacting this section and provisions set out as a note under this section\] is to eliminate duplication of environmental reviews and approvals under State laws and the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.)."
+Pub. L. 114–94, div. A, title I, §1309(a), Dec. 4, 2015, 129 Stat. 1392, provided that: "The purpose of this section \[enacting this section and provisions set out as a note under this section\] is to eliminate duplication of environmental reviews and approvals under State laws and the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.)."
 
 #### Rulemaking
 

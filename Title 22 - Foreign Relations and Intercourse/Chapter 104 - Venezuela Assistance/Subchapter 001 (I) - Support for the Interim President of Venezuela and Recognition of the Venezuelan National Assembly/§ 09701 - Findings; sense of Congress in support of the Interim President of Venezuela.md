@@ -20,7 +20,7 @@ It is the sense of Congress—
 
 &emsp;(2) to encourage the Interim President of Venezuela to advance efforts to hold democratic presidential elections in the shortest possible period; and
 
-&emsp;(3) that the Organization of American States, with support from the United StatesGovernment and partner governments, should provide diplomatic, technical, and financial support for a new presidential election in Venezuela that complies with international standards for a free, fair, and transparent electoral process.
+&emsp;(3) that the Organization of American States, with support from the United States Government and partner governments, should provide diplomatic, technical, and financial support for a new presidential election in Venezuela that complies with international standards for a free, fair, and transparent electoral process.
 
 (Pub. L. 116–94, div. J, title I, §111, Dec. 20, 2019, 133 Stat. 3030.)
 

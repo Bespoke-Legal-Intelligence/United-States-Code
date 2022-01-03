@@ -48,7 +48,7 @@ The Secretary shall by contract provide for the establishment and operation of a
 
 &emsp;(M) recognize the differences in health and in organ transplantation issues between children and adults throughout the system and adopt criteria, polices, and procedures that address the unique health care needs of children,
 
-&emsp;(N) carry out studies and demonstration projects for the purpose of improving procedures for organ donation procurement and allocation, including but not limited to projects to examine and attempt to increase transplantation among populations with special needs, including children and individuals who are members of racial or ethnic minority groups, and among populations with limited access to transportation, and
+&emsp;(N) carry out studies and demonstration projects for the purpose of improving procedures for organ donation procurement and allocation, including but not limited to projects to examine and attempt to increase transplantation among populations with special needs, including children and individuals who aremembers of racial or ethnic minority groups, and among populations with limited access to transportation, and
 
 &emsp;(O) provide that for purposes of this paragraph, the term "children" refers to individuals who are under the age of 18.
 
@@ -71,6 +71,8 @@ The Secretary shall establish procedures for—
 &emsp;(2) the consideration by the Secretary of such critical comments.
 
 (July 1, 1944, ch. 373, title III, §372, as added Pub. L. 98–507, title II, §201, Oct. 19, 1984, 98 Stat. 2344; amended Pub. L. 100–607, title IV, §403, Nov. 4, 1988, 102 Stat. 3115; Pub. L. 101–616, title II, §202(a)–(c), Nov. 16, 1990, 104 Stat. 3283, 3284; Pub. L. 106–310, div. A, title XXI, §2101(a), Oct. 17, 2000, 114 Stat. 1156; Pub. L. 110–426, §2, Oct. 15, 2008, 122 Stat. 4835; Pub. L. 113–51, §2(a)(1), Nov. 21, 2013, 127 Stat. 579.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -111,6 +113,8 @@ Subsec. (b)(2)(G) to (I). Pub. L. 100–607, §403(a)(1), redesignated former su
 Subsec. (b)(2)(J). Pub. L. 100–607, §403(a)(5), added subpar. (J).
 
 Subsec. (c). Pub. L. 100–607, §403(b), added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

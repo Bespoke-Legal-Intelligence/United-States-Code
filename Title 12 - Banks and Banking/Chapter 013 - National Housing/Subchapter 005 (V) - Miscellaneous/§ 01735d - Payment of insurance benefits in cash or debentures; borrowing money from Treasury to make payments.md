@@ -16,7 +16,7 @@ Subchapter IX–C of this chapter, referred to in subsec. (b), was classified to
 
 <b>1970</b>—Subsec. (b)(2). Pub. L. 91–609 provided for making payments for directly insured losses and made limitation provision applicable to such payments.
 
-<b>1968</b>—Subsec. (b). Pub. L. 90–448 empowered the Secretary to borrow to make payments for reinsured losses under subchapter IX–C of this chapter, and limited such borrowing to $250,000,000 or such further sum as Congress may determine.
+<b>1968</b>—Subsec. (b). Pub. L. 90–448 empowered the Secretary to borrow to make payments for reinsured lossesunder subchapter IX–C of this chapter, and limited such borrowing to $250,000,000 or such further sum as Congress may determine.
 
 <b>1967</b>—Subsecs. (a), (b). Pub. L. 90–19 substituted "Secretary" for "Commissioner" wherever appearing.
 

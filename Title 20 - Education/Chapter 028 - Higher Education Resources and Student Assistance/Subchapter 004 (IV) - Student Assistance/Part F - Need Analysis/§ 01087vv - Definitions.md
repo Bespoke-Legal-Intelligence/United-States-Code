@@ -220,7 +220,7 @@ The term "business assets" means property that is used in the operation of a tra
 
 The term "special combat pay" means pay received by a member of the Armed Forces because of exposure to a hazardous situation.
 
-(Pub. L. 89–329, title IV, §480, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat.1472; amended Pub. L. 100–50, §14(28), June 3, 1987, 101 Stat. 353; Pub. L. 100–369, §7(b), July 18, 1988, 102 Stat. 837; Pub. L. 101–610, title I, §185(3), (4), Nov. 16, 1990, 104 Stat. 3168; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 606; Pub. L. 103–82, title I, §102(c)(4), (5), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103–208, §2(g)(17)–(20), Dec. 20, 1993, 107 Stat. 2474; Pub. L. 104–193, title I, §110(h)(2), Aug. 22, 1996, 110 Stat. 2172; Pub. L. 105–78, title VI, §609(j), (k), Nov. 13, 1997, 111 Stat. 1524; Pub. L. 105–244, title IV, §479, Oct. 7, 1998, 112 Stat. 1732; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(15)(B), (f)(12)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431; Pub. L. 109–171, title VIII, §8019, Feb. 8, 2006, 120 Stat. 176; Pub. L. 110–84, title VI, §604(a), Sept. 27, 2007, 121 Stat. 806; Pub. L. 110–153, §1(a), Dec. 21, 2007, 121 Stat. 1824; Pub. L. 110–315, title IV, §473(a)–(e), Aug. 14, 2008, 122 Stat. 3270, 3271; Pub. L. 111–39, title IV, §406(a)(6)–(8), July 1, 2009, 123 Stat. 1949, 1950; Pub. L. 113–128, title V, §512(n)(4), July 22, 2014, 128 Stat. 1710; Pub. L. 116–260, div. FF, title VII, §702(l)(2), Dec. 27, 2020, 134 Stat. 3163.)
+(Pub. L. 89–329, title IV, §480, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1472; amended Pub. L. 100–50, §14(28), June 3, 1987, 101 Stat. 353; Pub. L. 100–369, §7(b), July 18, 1988, 102 Stat. 837; Pub. L. 101–610, title I, §185(3), (4), Nov. 16, 1990, 104 Stat. 3168; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 606; Pub. L. 103–82, title I, §102(c)(4), (5), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103–208, §2(g)(17)–(20), Dec. 20, 1993, 107 Stat. 2474; Pub. L. 104–193, title I, §110(h)(2), Aug. 22, 1996, 110 Stat. 2172; Pub. L. 105–78, title VI, §609(j), (k), Nov. 13, 1997, 111 Stat. 1524; Pub. L. 105–244, title IV, §479, Oct. 7, 1998, 112 Stat. 1732; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(15)(B), (f)(12)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431; Pub. L. 109–171, title VIII, §8019, Feb. 8, 2006, 120 Stat. 176; Pub. L. 110–84, title VI, §604(a), Sept. 27, 2007, 121 Stat. 806; Pub. L. 110–153, §1(a), Dec. 21, 2007, 121 Stat. 1824; Pub. L. 110–315, title IV, §473(a)–(e), Aug. 14, 2008, 122 Stat. 3270, 3271; Pub. L. 111–39, title IV, §406(a)(6)–(8), July 1, 2009, 123 Stat. 1949, 1950; Pub. L. 113–128, title V, §512(n)(4), July 22, 2014, 128 Stat. 1710; Pub. L. 116–260, div. FF, title VII, §702(l)(2), Dec. 27, 2020, 134 Stat. 3163.)
 
 #### Amendment of Section
 
@@ -304,7 +304,7 @@ The term "special combat pay" means pay received by a member of the Armed Forces
 
 &emsp;<i>(8) is an unaccompanied homeless youth or is unaccompanied, at risk of homelessness, and self-supporting, without regard to such individual's age; and</i>
 
-&emsp;<i>(9) is a student for whom a financial aid administrator makes a documented determination of independence by reason of other unusual circumstances pursuant to section 1087tt(c) of this</i><i>title in which the student is unable to contact a parent or where contact with parents poses a risk to such student, which includes circumstances of—</i>
+&emsp;<i>(9) is a student for whom a financial aid administrator makes a documented determination of independence by reason of other unusual circumstances pursuant to section 1087tt(c) of this title in which the student is unable to contact a parent or where contact with parents poses a risk to such student, which includes circumstances of—</i>
 
 &emsp;&emsp;<i>(A) human trafficking, as described in the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7101 et seq.);</i>
 
@@ -370,11 +370,11 @@ The term "special combat pay" means pay received by a member of the Armed Forces
 
 <i>(4) Notwithstanding paragraph (1), payments made and services provided under part E of title IV of the Social Security Act to or on behalf of any child or youth over whom the State agency has responsibility for placement, care, or supervision, including the value of vouchers for education and training and amounts expended for room and board for youth who are not in foster care but are receiving services under section 477 of such Act, shall not be treated as other financial assistance for purposes of section 1087kk(a)(3) of this title.</i>
 
-<i>(5) Notwithstanding paragraph (1), emergency financial assistance provided to the student for unexpected expenses that are a component of the student's cost of attendance, and not otherwise considered when the determination of the student's need is made, shall not be treated as other financial assistance for purposes of section 1087kk(a)(3) of this title.</i>
+<i>(5) Notwithstanding paragraph (1), emergency financial assistance provided to the student for unexpected expenses that are a component of the stu</i><i>dent's cost of attendance, and not otherwise considered when the determination of the student's need is made, shall not be treated as other financial assistance for purposes of section 1087kk(a)(3) of this title.</i>
 
 #### <i>(j) Dependents</i>
 
-<i>(1) Except as otherwise provided, the term "dependent of the parent" means the student who is</i><i>deemed to be a dependent student when applying for aid under this subchapter, and any other person who lives with and receives more than one-half of their support from the parent (or parents) and will continue to receive more than half of their support from the parent (or parents) during the award year.</i>
+<i>(1) Except as otherwise provided, the term "dependent of the parent" means the student who is deemed to be a dependent student when applying for aid under this subchapter, and any other person who lives with and receives more than one-half of their support from the parent (or parents) and will continue to receive more than half of their support from the parent (or parents) during the award year.</i>
 
 <i>(2) Except as otherwise provided, the term "dependent of the student" means the student's dependent children and other persons (except the student's spouse) who live with and receive more than one-half of their support from the student and will continue to receive more than half of their support from the student during the award year.</i>
 
@@ -417,6 +417,8 @@ The term "special combat pay" means pay received by a member of the Armed Forces
 <i>The terms "unaccompanied", "unaccompanied youth", or "unaccompanied homeless youth" have the meaning given the term "unaccompanied youth" in section 11434a of title 42.</i>
 
 <i>See 2020 Amendment note below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -508,7 +510,7 @@ Subsec. (j)(2), (3). Pub. L. 109–171, §8019(e)(2)–(4), struck out par. (2),
 
 <b>1998</b>—Subsec. (b)(14). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(12)(B)\], struck out "Job Training Partnership Act noneducational benefits or" after "railroad retirement benefits, or".
 
-Pub. L. 105–277, §101(f) \[title VIII, §405(d)(15)(B)\], substituted "Job Training Partnership Act noneducationalbenefits or benefits received through participation in employment and training activities under title I of the Workforce Investment Act of 1998" for "Job Training Partnership Act noneducational benefits".
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(15)(B)\], substituted "Job Training Partnership Act noneducational benefits or benefits received through participation in employment and training activities under title I of the Workforce Investment Act of 1998" for "Job Training Partnership Act noneducational benefits".
 
 Subsec. (j)(1). Pub. L. 105–244, §479(1), inserted before period at end ", and national service educational awards or post-service benefits under title I of the National and Community Service Act of 1990".
 
@@ -551,6 +553,8 @@ Subsecs. (b), (c). Pub. L. 100–50, §14(28)(E), substituted subsec. (b) consis
 Subsec. (d)(2)(F). Pub. L. 100–50, §14(28)(F), substituted "annual total resources (including all sources of resources other than parents)" for "an annual total income".
 
 Subsecs. (f) to (h). Pub. L. 100–50, §14(28)(G), added subsecs. (f) to (h).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 
@@ -596,7 +600,7 @@ Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L.
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–325 applicable with respect to determinations of need under this part foraward years beginning on or after July 1, 1993, see section 471(b) of Pub. L. 102–325, set out as a note under section 1087kk of this title.
+Amendment by Pub. L. 102–325 applicable with respect to determinations of need under this part for award years beginning on or after July 1, 1993, see section 471(b) of Pub. L. 102–325, set out as a note under section 1087kk of this title.
 
 #### Effective Date of 1987 Amendment
 

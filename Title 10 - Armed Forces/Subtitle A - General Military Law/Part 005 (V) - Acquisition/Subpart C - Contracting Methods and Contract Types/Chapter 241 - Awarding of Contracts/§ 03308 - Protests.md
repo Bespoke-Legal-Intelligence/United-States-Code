@@ -22,9 +22,11 @@ Agency Actions on Protests.—If, in connection with a protest, the head of an a
 
 (Added and amended Pub. L. 116–283, div. A, title XVIII, §1816(d), (e), Jan. 1, 2021, 134 Stat. 4185.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
-The text of subsec. (e) of section 2305 of this title, which was transferred to this section, redesignated as subsec. (a), and amended by Pub. L. 116–283, §1816(e), was based on Pub. L. 103–355, title I, §1015, Oct. 13, 1994, 108 Stat. 3256; Pub. L. 104–106, div. E, title LVI, §5601(a), Feb. 10, 1996, 110 Stat. 699; Pub. L. 104–201, div. A, title X, §1074(b)(4)(A), Sept. 23, 1996, 110 Stat. 2660.
+The text of subsec. (e) of section 2305 of this title, which was transferred to this section, redesignated as subsec. (a), and amended by Pub. L. 116–283, §1816(e), was based on Pub. L. 103–355, title I, §1015, Oct. 13, 1994,108 Stat. 3256; Pub. L. 104–106, div. E, title LVI, §5601(a), Feb. 10, 1996, 110 Stat. 699; Pub. L. 104–201, div. A, title X, §1074(b)(4)(A), Sept. 23, 1996, 110 Stat. 2660.
 
 The text of subsec. (f) of section 2305 of this title, which was transferred to this section, redesignated as subsec. (b), and amended by Pub. L. 116–283, §1816(e)(1), was based on Pub. L. 103–355, title I, §1016, Oct. 13, 1994, 108 Stat. 3257.
 
@@ -37,6 +39,8 @@ A prior section 3308, act Aug. 10, 1956, ch. 1041, 70A Stat. 192, related to eff
 <b>2021</b>—Subsec. (a). Pub. L. 116–283, §1816(e), redesignated subsec. (e) of section 2305 of this title as subsec. (a) of this section and, in pars. (1) and (2), inserted headings and realigned margins.
 
 Subsec. (b). Pub. L. 116–283, §1816(e)(1), redesignated subsec. (f) of section 2305 of this title as subsec. (b) of this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

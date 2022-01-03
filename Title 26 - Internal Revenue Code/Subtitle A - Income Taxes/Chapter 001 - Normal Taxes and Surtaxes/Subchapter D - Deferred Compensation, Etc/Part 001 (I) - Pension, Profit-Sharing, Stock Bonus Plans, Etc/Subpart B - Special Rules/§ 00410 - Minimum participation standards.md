@@ -26,7 +26,7 @@
 
 #### (A) General rule
 
-&emsp;&emsp;For purposes of this subsection, the term "year of service" means a 12-month period during which the employee has not less than1,000 hours of service. For purposes of this paragraph, computation of any 12-month period shall be made with reference to the date on which the employee's employment commenced, except that, under regulations prescribed by the Secretary of Labor, such computation may be made by reference to the first day of a plan year in the case of an employee who does not complete 1,000 hours of service during the 12-month period beginning on the date his employment commenced.
+&emsp;&emsp;For purposes of this subsection, the term "year of service" means a 12-month period during which the employee has not less than 1,000 hours of service. For purposes of this paragraph, computation of any 12-month period shall be made with reference to the date on which the employee's employment commenced, except that, under regulations prescribed by the Secretary of Labor, such computation may be made by reference to the first day of a plan year in the case of an employee who does not complete 1,000 hours of service during the 12-month period beginning on the date his employment commenced.
 
 #### (B) Seasonal industries
 
@@ -106,7 +106,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) in any case in which the plan is unable to determine the hours described in subclause (I), 8 hours of service per day of such absence,
 
-&emsp;&emsp;&nbsp;except that the total number of hours treated as hours of service under thisclause by reason of any such pregnancy or placement shall not exceed 501 hours.
+&emsp;&emsp;&nbsp;except that the total number of hours treated as hours of service under this clause by reason of any such pregnancy or placement shall not exceed 501 hours.
 
 #### (iii) Year to which hours are credited
 
@@ -196,7 +196,7 @@
 
 &emsp;&emsp;(B) in the case of a trust established or maintained pursuant to an agreement which the Secretary of Labor finds to be a collective bargaining agreement between air pilots represented in accordance with title II of the Railway Labor Act and one or more employers, all employees not covered by such agreement, and
 
-&emsp;&emsp;(C) employees who are nonresident aliens and who receive no earned income (within the meaning of section 911(d)(2)) from the employer which constitutes income fromsources within the United States (within the meaning of section 861(a)(3)).
+&emsp;&emsp;(C) employees who are nonresident aliens and who receive no earned income (within the meaning of section 911(d)(2)) from the employer which constitutes income from sources within the United States (within the meaning of section 861(a)(3)).
 
 > &emsp;Subparagraph (A) shall not apply with respect to coverage of employees under a plan pursuant to an agreement under such subparagraph. For purposes of subparagraph (B), management pilots who are not represented in accordance with title II of the Railway Labor Act shall be treated as covered by a collective bargaining agreement described in such subparagraph if the management pilots manage the flight operations of air pilots who are so represented and the management pilots are, pursuant to the terms of the agreement, included in the group of employees benefitting under the trust described in such subparagraph. Subparagraph (B) shall not apply in the case of a plan which provides contributions or benefits for employees whose principal duties are not customarily performed aboard an aircraft in flight (other than management pilots described in the preceding sentence).
 
@@ -274,7 +274,7 @@
 
 &emsp;&emsp;&emsp;(i) such plan benefits 50 percent or more of all the employees who are eligible under a nondiscriminatory classification under the plan, and
 
-&emsp;&emsp;&emsp;(ii) the sum of the amounts allocated to each participant's account for the yeardoes not exceed 2 percent of the compensation of that participant for the year.
+&emsp;&emsp;&emsp;(ii) the sum of the amounts allocated to each participant's account for the year does not exceed 2 percent of the compensation of that participant for the year.
 
 #### (E) Eligibility to contribute
 
@@ -310,9 +310,11 @@
 
 #### (2) Election irrevocable
 
-&emsp;An election under this subsection with respect to any church plan shall be binding with respect to such plan, and, once made, shall be irrevocable.
+&emsp;An election under this subsection with respect to any church plan shall be binding withrespect to such plan, and, once made, shall be irrevocable.
 
 (Added Pub. L. 93–406, title II, §1011, Sept. 2, 1974, 88 Stat. 898; amended Pub. L. 94–455, title XIX, §§1901(a)(61), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1774, 1834; Pub. L. 96–605, title II, §225(a), Dec. 28, 1980, 94 Stat. 3529; Pub. L. 97–34, title I, §111(b)(4), Aug. 13, 1981, 95 Stat. 194; Pub. L. 98–397, title II, §202(a), (d)(1), (e)(1), Aug. 23, 1984, 98 Stat. 1436–1438; Pub. L. 99–509, title IX, §9203(a)(2), Oct. 21, 1986, 100 Stat. 1979; Pub. L. 99–514, title XI, §§1112(a), 1113(c), (d)(A), Oct. 22, 1986, 100 Stat. 2440, 2447; Pub. L. 100–647, title I, §1011(h)(1), (2), (11), title III, §3021(a)(13)(B), Nov. 10, 1988, 102 Stat. 3464, 3467, 3631; Pub. L. 101–239, title VII, §7841(d)(6), Dec. 19, 1989, 103 Stat. 2428; Pub. L. 105–34, title XV, §1505(a)(3), Aug. 5, 1997, 111 Stat. 1063; Pub. L. 109–280, title IV, §402(h)(1), Aug. 17, 2006, 120 Stat. 927.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -344,7 +346,7 @@ Subsec. (a)(2). Pub. L. 99–509 substituted a period for "unless—
 
 &emsp;&emsp;"(ii) target benefit plan (as defined under regulations prescribed by the Secretary), and
 
-&emsp;"(B) such employees begin employment with the employer after they have attained a specified agewhich is not more than 5 years before the normal retirement age under the plan."
+&emsp;"(B) such employees begin employment with the employer after they have attained a specified age which is not more than 5 years before the normal retirement age under the plan."
 
 Subsec. (a)(5)(B). Pub. L. 99–514, §1113(d)(A), substituted "2-year" for "3-year" in heading.
 
@@ -374,6 +376,8 @@ Subsec. (c)(2). Pub. L. 94–455, §1901(a)(61)(C), substituted "September 1, 19
 
 Subsec. (d)(1). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2006 Amendment
 
 Amendment by Pub. L. 109–280 applicable to years beginning before, on, or after Aug. 17, 2006, see section 402(h)(2) of Pub. L. 109–280, set out as a Special Funding Rules for Certain Plans Maintained by Commercial Airlines note under section 430 of this title.
@@ -390,7 +394,7 @@ Amendment by section 3021(a)(13)(B) of Pub. L. 100–647 effective as if include
 
 #### Effective Date of 1986 Amendments
 
-Amendment by section 1112(a) of Pub. L. 99–514 applicable to plan years beginning after Dec. 31, 1988, with special rule regarding collective bargaining agreements ratified before Mar. 1, 1986, and with provision for waiver of excise tax on reversions, see section 1112(e) of Pub. L. 99–514, set out as a note under section 401 of this title.
+Amendment by section 1112(a) of Pub. L. 99–514 applicable to plan years beginning after Dec. 31, 1988, withspecial rule regarding collective bargaining agreements ratified before Mar. 1, 1986, and with provision for waiver of excise tax on reversions, see section 1112(e) of Pub. L. 99–514, set out as a note under section 401 of this title.
 
 Amendment by section 1113(c), (d)(A) of Pub. L. 99–514 applicable to plan years beginning after Dec. 31, 1988, with special rule for plans maintained pursuant to collective bargaining agreements ratified before Mar. 1, 1986, and not applicable to employees who do not have 1 hour of service in any plan year to which the amendment applies, see section 1113(f) of Pub. L. 99–514, as amended, set out as a note under section 411 of this title.
 

@@ -104,6 +104,8 @@ For purposes of this section—
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 296; Pub. L. 85–320, §2, Feb. 11, 1958, 72 Stat. 5; Pub. L. 92–178, title V, §502(f), Dec. 10, 1971, 85 Stat. 550; Pub. L. 94–455, title XIX, §1901(c)(8), title XX, §2005(a)(1), Oct. 4, 1976, 90 Stat. 1803, 1872; Pub. L. 95–600, title V, §515(1), title VII, §702(c)(1)(A), Nov. 6, 1978, 92 Stat. 2884, 2926; Pub. L. 96–222, title I, §107(a)(2)(A), Apr. 1, 1980, 94 Stat. 222; Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299; Pub. L. 97–34, title IV, §425(a), Aug. 13, 1981, 95 Stat. 318; Pub. L. 97–448, title I, §104(a)(1)(A), Jan. 12, 1983, 96 Stat. 2379; Pub. L. 105–34, title V, §508(b), Aug. 5, 1997, 111 Stat. 860; Pub. L. 107–16, title V, §541, June 7, 2001, 115 Stat. 76; Pub. L. 108–357, title IV, §413(c)(18), Oct. 22, 2004, 118 Stat. 1508; Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300; Pub. L. 113–295, div. A, title II, §221(a)(74), Dec. 19, 2014, 128 Stat. 4049; Pub. L. 114–41, title II, §2004(a), July 31, 2015, 129 Stat. 454.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 811 of the Internal Revenue Code of 1939, referred to in subsec. (b)(6), was classified to section 811 of former Title 26, Internal Revenue Code. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title. See, also, section 7851(e) of this title for provision that references in the 1986 Code to a provision of the 1939 Code, not then applicable, shall be deemed a reference to the corresponding provision of the 1986 Code, which is then applicable.
@@ -116,7 +118,7 @@ The Internal Revenue Code of 1939, referred to in subsec. (b)(9), is act Feb. 10
 
 <b>2014</b>—Subsec. (a)(2). Pub. L. 113–295, §221(a)(74)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "in the case of an election under either section 2032 or section 811(j) of the Internal Revenue Code of 1939 where the decedent died after October 21, 1942, its value at the applicable valuation date prescribed by those sections,".
 
-Subsec. (b)(7), (8). Pub. L. 113–295, §221(a)(74)(B), struck out pars. (7) and (8). Prior to repeal, par. (7) related to property representing a surviving spouse's one-half share of community property held by the survivingspouse and a decedent dying after Oct. 21, 1942, and on or before Dec. 31, 1947, and par. (8) related to property representing certain interests of the survivor in a joint and survivor's annuity in the case of a decedent dying after Dec. 31, 1950, and before Jan. 1, 1954.
+Subsec. (b)(7), (8). Pub. L. 113–295, §221(a)(74)(B), struck out pars. (7) and (8). Prior to repeal, par. (7) related to property representing a surviving spouse's one-half share of community property held by the surviving spouse and a decedent dying after Oct. 21, 1942, and on or before Dec. 31, 1947, and par. (8) related to property representing certain interests of the survivor in a joint and survivor's annuity in the case of a decedent dying after Dec. 31, 1950, and before Jan. 1, 1954.
 
 <b>2010</b>—Subsec. (f). Pub. L. 111–312 amended section to read as if amendment by Pub. L. 107–16, §541, had never been enacted. See 2001 Amendment note below. Prior to amendment, text of subsec. (f) read as follows: "This section shall not apply with respect to decedents dying after December 31, 2009."
 
@@ -145,6 +147,8 @@ Subsec. (d). Pub. L. 94–455, §2005(a)(1), substituted provision relating to t
 <b>1971</b>—Subsec. (d). Pub. L. 92–178 added subsec. (d).
 
 <b>1958</b>—Subsec. (d). Pub. L. 85–320 repealed subsec. (d) which made section inapplicable to restricted stock options described in section 421 which the employee has not exercised at death.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

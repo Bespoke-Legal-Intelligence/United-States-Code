@@ -152,7 +152,7 @@ Pub. L. 105–33, title X, §10213, Aug. 5, 1997, 111 Stat. 712, provided that: 
 
 #### Reduction of Direct Spending and Receipts Legislation Balances
 
-Pub. L. 103–66, title XIV, §14003(c), Aug. 10, 1993, 107 Stat. 685, provided that: "Upon enactment of this Act \[Aug. 10, 1993\], the director of the Office of Management and Budget shall reduce the balances of direct spending and receipts legislation applicable to each fiscal year under section 252 of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902\] by an amount equal to the net deficit reduction achieved through the enactment in this Act \[see Tables for classification\] of direct spending and receipts legislation for that year."
+Pub. L. 103–66, title XIV, §14003(c), Aug. 10, 1993, 107 Stat. 685, provided that: "Upon enactment of this Act \[Aug. 10, 1993\], the director of the Office of Managementand Budget shall reduce the balances of direct spending and receipts legislation applicable to each fiscal year under section 252 of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902\] by an amount equal to the net deficit reduction achieved through the enactment in this Act \[see Tables for classification\] of direct spending and receipts legislation for that year."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

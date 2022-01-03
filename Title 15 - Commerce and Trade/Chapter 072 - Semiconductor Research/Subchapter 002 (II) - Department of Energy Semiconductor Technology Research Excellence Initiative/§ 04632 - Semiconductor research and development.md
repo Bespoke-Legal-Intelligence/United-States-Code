@@ -58,7 +58,7 @@ There is hereby created in the executive branch of the Government an independent
 
 (B) The Secretary of Defense, the Secretary of Commerce, the Secretary of Energy, the Director of the Office of Science and Technology Policy, and the Director of the National Science Foundation, or their designees, shall serve as members of the Committee.
 
-(C) The President, acting through the Director of the Office of Science and Technology Policy, shall appoint, as additional members of the Committee, 4 members from outside the Federal Government who are eminent in the semiconductor industry, and 4 members from outside the Federal Government who are eminent in the fields of technology, defense, and economic development.
+(C) The President, acting through the Director of the Office of Science and Technology Policy, shall appoint, as additional members of the Committee, 4 members from outside the Federal Government who are eminent in the semiconductor industry, and 4 members from outside theFederal Government who are eminent in the fields of technology, defense, and economic development.
 
 (D) One of the members appointed under subparagraph (C), as designated by the President at the time of appointment, shall be chairman of the Committee.
 
@@ -76,6 +76,8 @@ There are authorized to be appropriated to carry out the purposes of this sectio
 
 (Pub. L. 100–418, title V, §5142, Aug. 23, 1988, 102 Stat. 1444; Pub. L. 102–245, title I, §105(f), Feb. 14, 1992, 106 Stat. 12.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Technology Competitiveness Act and as part of the Omnibus Trade and Competitiveness Act of 1988, and not as part of part D of title I of division C of Pub. L. 100–180 which comprises this subchapter.
@@ -83,6 +85,8 @@ Section was enacted as part of the Technology Competitiveness Act and as part of
 #### Amendments
 
 <b>1992</b>—Subsec. (f). Pub. L. 102–245 substituted "1990, 1991, 1992, and 1993" for "and 1990".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Reporting Requirements
 

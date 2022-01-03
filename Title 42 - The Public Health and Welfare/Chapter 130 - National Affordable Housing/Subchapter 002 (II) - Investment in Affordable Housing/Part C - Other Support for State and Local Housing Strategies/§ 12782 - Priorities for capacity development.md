@@ -16,9 +16,13 @@ To carry out section 12781 of this title, the Secretary shall provide assistance
 
 (Pub. L. 101–625, title II, §242, Nov. 28, 1990, 104 Stat. 4118; Pub. L. 102–550, title II, §214(a), Oct. 28, 1992, 106 Stat. 3759.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Par. (6). Pub. L. 102–550 added par. (6).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

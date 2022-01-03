@@ -2,7 +2,7 @@
 
 For the purposes of this chapter the term—
 
-&emsp;(1) "person" means any individual, association, partnership, joint venture, corporation,State or political subdivision thereof, department, agency, or instrumentality of a State or political subdivision thereof, or any other organization or entity;
+&emsp;(1) "person" means any individual, association, partnership, joint venture, corporation, State or political subdivision thereof, department, agency, or instrumentality of a State or political subdivision thereof, or any other organization or entity;
 
 &emsp;(2) "State" means each State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States;
 
@@ -47,6 +47,8 @@ For the purposes of this chapter the term—
 &emsp;(22) "terms and conditions" includes, but is not limited to, the percentage which is paid by the off-track betting system to the host racing association, the percentage which is paid by the host racing association to the horsemen's group, as well as any arrangements as to the exclusivity between the host racing association and the off-track betting system.
 
 (Pub. L. 95–515, §3, Oct. 25, 1978, 92 Stat. 1811; Pub. L. 106–553, §1(a)(2) \[title VI, §629\], Dec. 21, 2000, 114 Stat. 2762, 2762A–108.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

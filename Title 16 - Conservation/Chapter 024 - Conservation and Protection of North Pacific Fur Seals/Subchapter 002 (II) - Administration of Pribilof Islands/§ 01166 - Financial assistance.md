@@ -68,7 +68,7 @@ There are authorized to be appropriated to the Secretary—
 
 #### (d) Limitation on use of assistance for lobbying activities
 
-None of the funds authorized by this section may be available for any activity a purpose of which is to influence legislation pending before the Congress, except that this subsection shall not prevent officers or employees of the United States or of its departments, agencies, or commissions from communicating to Members of Congress, through proper channels, requests for legislation or appropriations that they consider necessary for the efficient conduct of public business.
+None of the funds authorized by this section may be available for any activity a purpose of which is to influence legislation pending before the Congress, except that this subsection shall not prevent officers or employees of the United States or of its departments, agencies, or commissions from communicating to Members ofCongress, through proper channels, requests for legislation or appropriations that they consider necessary for the efficient conduct of public business.
 
 #### (e) Immunity from liability
 
@@ -87,6 +87,8 @@ Each entity which receives assistance authorized under subsection (c) shall subm
 Amounts authorized under subsection (c) are intended by Congress to be provided in addition to the base funding appropriated to the National Oceanic and Atmospheric Administration in fiscal year 2000.
 
 (Pub. L. 89–702, title II, §206, Nov. 2, 1966, 80 Stat. 1094; Pub. L. 98–129, §2, Oct. 14, 1983, 97 Stat. 840; Pub. L. 100–711, §9, Nov. 23, 1988, 102 Stat. 4772; Pub. L. 101–512, title I, Nov. 5, 1990, 104 Stat. 1931; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(e)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–244; Pub. L. 106–562, title I, §103, Dec. 23, 2000, 114 Stat. 2794; Pub. L. 109–59, title IV, §4403, Aug. 10, 2005, 119 Stat. 1775.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -107,6 +109,8 @@ Pub. L. 106–554 amended section generally. Prior to amendment, section consist
 <b>1988</b>—Subsec. (e)(1). Pub. L. 100–711 authorized appropriations for fiscal years 1989 and 1990 to fund the Saint Paul Island Trust, and authorized appropriations for fiscal year 1990 to fund the Saint George Trust.
 
 <b>1983</b>—Pub. L. 98–129 amended section generally, substituting provisions for the creation and functioning of a Pribilof Islands Trust for provisions which authorized the Secretary to set apart land on Saint Paul Island for a townsite and to aid in the development of a municipal government therefor.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

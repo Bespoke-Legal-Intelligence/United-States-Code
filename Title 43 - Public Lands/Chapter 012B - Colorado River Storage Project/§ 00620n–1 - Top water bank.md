@@ -28,7 +28,7 @@
 
 &emsp;(E) water eligible for banking in the top water bank shall be water that otherwise would have been diverted and beneficially used in New Mexico that year.
 
-(e) The Secretary of the Interior may charge fees to water users that use the top water bank in amounts sufficient to cover the costs incurred by the United States in administering the water bank.
+(e) The Secretary of the Interior may charge fees to water users that use the top water bank in amounts sufficient to cover the costs incurredby the United States in administering the water bank.
 
 (Apr. 11, 1956, ch. 203, §16, as added Pub. L. 111–11, title X, §10401(b)(2), Mar. 30, 2009, 123 Stat. 1371.)
 

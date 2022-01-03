@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(F) enjoying the goods, services, facilities, privileges, advantages, or accommodations of any inn, hotel, motel, or other establishment which provides lodging to transient guests, or of any restaurant, cafeteria, lunchroom, lunch counter, soda fountain, or other facility which serves the public and which is principally engaged in selling food or beverages for consumption on the premises, or of any gasoline station, or of any motion picture house, theater, concert hall, sports arena, stadium, or any other place of exhibition or entertainment which serves the public, or of any other establishment which serves the public and (i) which is located within the premises of any of the aforesaid establishments or within the premises of which is physically located any of the aforesaid establishments, and (ii) which holds itself out as serving patrons of such establishments; or
 
-&emsp;(3) during or incident to a riot or civil disorder, any person engaged in a business in commerce or affecting commerce, including, but not limited to, any person engaged in a business which sells or offers for sale to interstate travelers a substantial portion of the articles, commodities, or services which it sellsor where a substantial portion of the articles or commodities which it sells or offers for sale have moved in commerce; or
+&emsp;(3) during or incident to a riot or civil disorder, any person engaged in a business in commerce or affecting commerce, including, but not limited to, any person engaged in a business which sells or offers for sale to interstate travelers a substantial portion of the articles, commodities, or services which it sells or where a substantial portion of the articles or commodities which it sells or offers for sale have moved in commerce; or
 
 &emsp;(4) any person because he is or has been, or in order to intimidate such person or any other person or any class of persons from—
 
@@ -60,7 +60,7 @@
 
 Pub. L. 103–322, §330016(1)(H), substituted "shall be fined under this title" for "shall be fined not more than $1,000" before ", or imprisoned not more than one year" in concluding provisions.
 
-Pub. L. 103–322, §320103(c)(4)–(6), in concluding provisions, inserted "from the acts committed in violation of this section or if such acts include kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill," after "death results" and substituted "shall be fined under this title or imprisoned for any term of years or for life, or both" for "shall be subject to imprisonment for any term of years or for life".
+Pub. L. 103–322, §320103(c)(4)–(6), in concluding provisions, inserted "from the acts committed in violationof this section or if such acts include kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill," after "death results" and substituted "shall be fined under this title or imprisoned for any term of years or for life, or both" for "shall be subject to imprisonment for any term of years or for life".
 
 Pub. L. 103–322, §320103(c)(3), which provided for amendment identical to Pub. L. 103–322, §330016(1)(L), above, was repealed by Pub. L. 104–294, §604(b)(14)(C).
 
@@ -82,7 +82,7 @@ Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of P
 
 #### Fair Housing
 
-Pub. L. 90–284, title I, §101(b), Apr. 11, 1968, 82 Stat. 75, provided that: "Nothing contained in this section \[enacting this section\] shall apply to or affect activitiesunder title VIII of this Act \[sections 3601 to 3619 of Title 42, The Public Health and Welfare\]."
+Pub. L. 90–284, title I, §101(b), Apr. 11, 1968, 82 Stat. 75, provided that: "Nothing contained in this section \[enacting this section\] shall apply to or affect activities under title VIII of this Act \[sections 3601 to 3619 of Title 42, The Public Health and Welfare\]."
 
 #### Riots or Civil Disturbances, Suppression and Restoration of Law and Order; Acts or Omissions of Enforcement Officers and Members of Military Service Not Subject to This Section
 

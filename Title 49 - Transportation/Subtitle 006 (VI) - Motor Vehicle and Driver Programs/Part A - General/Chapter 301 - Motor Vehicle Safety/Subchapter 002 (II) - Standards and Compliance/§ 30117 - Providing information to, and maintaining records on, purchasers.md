@@ -14,7 +14,7 @@ Maintaining Purchaser Records and Procedures.—(1) A manufacturer of a motor ve
 
 (2)(A) Except as provided in paragraph (3) of this subsection, the Secretary may require a distributor or dealer to maintain a record under paragraph (1) of this subsection only if the business of the distributor or dealer is owned or controlled by a manufacturer of tires.
 
-(B) The Secretary shall require each distributor and dealer whose business is not owned or controlled by a manufacturer of tires to give a registration form (containing the tire identification number) to the first purchaser of a tire. The Secretary shall prescribe the form, which shall be standardized for all tires and designed to allow the purchaser to complete and return it directly to the manufacturer of the tire. The manufacturer shall give sufficient copies of forms to distributors and dealers.
+(B) The Secretary shall require each distributor and dealer whose business is not owned or controlled by a manufacturer of tires to give a registration form (containing the tire identification number) to the first purchaser of a tire.The Secretary shall prescribe the form, which shall be standardized for all tires and designed to allow the purchaser to complete and return it directly to the manufacturer of the tire. The manufacturer shall give sufficient copies of forms to distributors and dealers.
 
 (3)
 
@@ -108,6 +108,8 @@ In subsection (b)(3)(A), before clause (i), the words "At the end of the two-yea
 
 In subsection (b)(3)(B), before clause (i), the words "may prescribe a requirement" are substituted for "may order by rule the imposition of requirements" for consistency and to eliminate unnecessary words.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this subsection, referred to in subsec. (c)(1), is the date of enactment of Pub. L. 106–414, which was approved Nov. 1, 2000.
@@ -118,13 +120,15 @@ The date of the enactment of this subsection, referred to in subsec. (c)(1), is 
 
 <b>2000</b>—Subsec. (c). Pub. L. 106–414 added subsec. (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Retention of Safety Records by Manufacturers
 
 Pub. L. 114–94, div. B, title XXIV, §24403, Dec. 4, 2015, 129 Stat. 1720, provided that:
 
 "(a)
 
-Rule.—Not later than 18 months after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary of Transportation shall issue a final rule pursuant to section 30117 of title 49, United States Code, requiring each manufacturer of motor vehicles or motor vehicle equipment to retain all motor vehicle safety records required to be maintained by manufacturers under section 576.6 of title 49, Code of Federal Regulations, for a period of not less than 10 calendar years from the date on which they were generated or acquired by the manufacturer.
+Rule.—Not later than 18 months after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary of Transportation shall issue a final rule pursuant to section 30117 of title 49, United States Code, requiring eachmanufacturer of motor vehicles or motor vehicle equipment to retain all motor vehicle safety records required to be maintained by manufacturers under section 576.6 of title 49, Code of Federal Regulations, for a period of not less than 10 calendar years from the date on which they were generated or acquired by the manufacturer.
 
 "(b)
 

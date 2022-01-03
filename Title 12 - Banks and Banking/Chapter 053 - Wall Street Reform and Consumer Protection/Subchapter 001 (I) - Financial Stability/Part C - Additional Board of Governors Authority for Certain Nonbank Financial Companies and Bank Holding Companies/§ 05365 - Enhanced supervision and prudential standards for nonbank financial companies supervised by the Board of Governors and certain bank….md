@@ -262,7 +262,7 @@ The Board of Governors may prescribe, by regulation, periodic public disclosures
 
 #### (A) Mandatory regulations
 
-&emsp;&emsp;The Board of Governors shall issue regulations requiring each bank holding company that is a publicly traded company and that has total consolidated assets of not less than $50,000,000,000 to establish a risk committee, as set forth in paragraph (3).
+&emsp;&emsp;The Board of Governors shall issue regulations requiring each bank holding companythat is a publicly traded company and that has total consolidated assets of not less than $50,000,000,000 to establish a risk committee, as set forth in paragraph (3).
 
 #### (B) Permissive regulations
 

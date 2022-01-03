@@ -110,7 +110,9 @@ For the purposes of this section, the term "Secretary" means—
 
 &emsp;(2) the Secretary of Education, in the case of any other entity.
 
-(Pub. L. 89–10, title VI, §6116, formerly title VII, §7116, as added Pub. L. 107–110, title VII, §701,Jan. 8, 2002, 115 Stat. 1913; renumbered title VI, §6116, and amended Pub. L. 114–95, title VI, §§6001(a), (b)(1), (6), 6002(h), Dec. 10, 2015, 129 Stat. 2046, 2047, 2053.)
+(Pub. L. 89–10, title VI, §6116, formerly title VII, §7116, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1913; renumbered title VI, §6116, and amended Pub. L. 114–95, title VI, §§6001(a), (b)(1), (6), 6002(h), Dec. 10, 2015, 129 Stat. 2046, 2047, 2053.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -129,6 +131,8 @@ Subsec. (g). Pub. L. 114–95, §6002(h)(1), in introductory provisions, substit
 Subsec. (o)(1). Pub. L. 114–95, §6002(h)(2)(A), substituted "December 10, 2015" for "January 8, 2002".
 
 Subsec. (o)(2). Pub. L. 114–95, §6002(h)(2)(B), substituted "December 10, 2015" for "January 8, 2002" and struck out last sentence which read as follows: "Such report shall identify statutory barriers to the ability of participants to integrate more effectively their education and related services to Indian students in a manner consistent with the objectives of this section."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

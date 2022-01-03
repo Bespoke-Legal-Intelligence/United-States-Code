@@ -26,7 +26,7 @@ General.—In this chapter—
 
 &emsp;&emsp;(C) a substance the Secretary of Transportation decides may pose an unreasonable risk to life or property when transported by a hazardous liquid pipeline facility in a liquid state (except for liquefied natural gas);
 
-&emsp;(5) "hazardous liquid pipeline facility" includes a pipeline, a right of way, a facility, abuilding, or equipment used or intended to be used in transporting hazardous liquid;
+&emsp;(5) "hazardous liquid pipeline facility" includes a pipeline, a right of way, a facility, a building, or equipment used or intended to be used in transporting hazardous liquid;
 
 &emsp;(6) "interstate gas pipeline facility" means a gas pipeline facility—
 
@@ -128,7 +128,7 @@ Gathering Lines.—(1)(A) Not later than October 24, 1994, the Secretary shall p
 
 &emsp;(ii) is not bound by a classification the Commission establishes under the Natural Gas Act (15 U.S.C. 717 et seq.).
 
-(2)(A) Not later than October 24, 1995, the Secretary, if appropriate, shall prescribe standardsdefining the term "regulated gathering line". In defining the term, the Secretary shall consider factors such as location, length of line from the well site, operating pressure, throughput, and the composition of the transported gas or hazardous liquid, as appropriate, in deciding on the types of lines that functionally are gathering but should be regulated under this chapter because of specific physical characteristics.
+(2)(A) Not later than October 24, 1995, the Secretary, if appropriate, shall prescribe standards defining the term "regulated gathering line". In defining the term, the Secretary shall consider factors such as location, length of line from the well site, operating pressure, throughput, and the composition of the transported gas or hazardous liquid, as appropriate, in deciding on the types of lines that functionally are gathering but should be regulated under this chapter because of specific physical characteristics.
 
 (B)(i) The Secretary also shall consider diameter when defining "regulated gathering line" for hazardous liquid.
 
@@ -314,6 +314,8 @@ Section 4(s) reflects an amendment to the restatement required by sections 109(a
 
 This amends 49:60101 for consistency with the style of title 49.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Natural Gas Act, referred to in subsecs. (a)(1)(A)(ii), (6)(B), (9) and (b)(1)(B)(ii), is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to chapter 15B (§717 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 717w of Title 15 and Tables.
@@ -354,13 +356,15 @@ Subsec. (b)(2)(A). Pub. L. 104–304, §§3(b), 20(f), inserted ", if appropria
 
 <b>1994</b>—Subsec. (a)(21), (22). Pub. L. 103–272, §4(s), amended pars. (21) and (22) generally. Prior to amendment, pars. (21) and (22) defined "transporting gas" and "transporting hazardous liquid".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1994 Amendment
 
 Pub. L. 103–272, §4(s), July 5, 1994, 108 Stat. 1371, provided that the amendment made by that section is effective on the date the regulation required under subsec. (b) of this section is effective. See regulations effective Apr. 14, 2006, 71 F.R. 13289, and July 3, 2008, 73 F.R. 31634.
 
 #### Short Title of 2020 Amendment
 
-Pub. L. 116–260, div. R, §1(a), Dec. 27, 2020, 134 Stat. 2210, provided that: "This division \[enacting sections 60142, 60143, and 60303 of this title, amending sections 6107, 60102, 60105, 60108, 60109, 60117, 60118, 60122, 60125, 60129, 60130 and 60134 of this title, enacting provisions set out as notes under this section and sections 60102, 60103, 60105, 60108, and 60109 of this title, and amending provisions set out as notes under this section and section 60109 of this title\] may be cited as the 'Protecting our Infrastructure of Pipelines and Enhancing Safety Act of 2020' or the 'PIPES Act of 2020'."
+Pub. L. 116–260, div. R, §1(a), Dec. 27, 2020, 134 Stat. 2210, provided that: "This division \[enacting sections60142, 60143, and 60303 of this title, amending sections 6107, 60102, 60105, 60108, 60109, 60117, 60118, 60122, 60125, 60129, 60130 and 60134 of this title, enacting provisions set out as notes under this section and sections 60102, 60103, 60105, 60108, and 60109 of this title, and amending provisions set out as notes under this section and section 60109 of this title\] may be cited as the 'Protecting our Infrastructure of Pipelines and Enhancing Safety Act of 2020' or the 'PIPES Act of 2020'."
 
 Pub. L. 116–260, div. R, title II, §201, Dec. 27, 2020, 134 Stat. 2237, provided that: "This title \[amending sections 60102, 60105, and 60109 of this title and enacting provisions set out as notes under sections 60103 and 60105 of this title\] may be cited as the 'Leonel Rondon Pipeline Safety Act'."
 
@@ -382,7 +386,7 @@ Pub. L. 107–355, §1(a), Dec. 17, 2002, 116 Stat. 2985, provided that: "This A
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–304, §1, Oct. 12, 1996, 110 Stat. 3793, provided that: "This Act \[enacting sections 60126 to 60128 of this title, amending this section and sections 60102, 60105 to 60110, 60113 to 60118, 60123 to 60125 of this title, and enacting provisions set out as a note under section60301 of this title\] may be cited as the 'Accountable Pipeline Safety and Partnership Act of 1996'."
+Pub. L. 104–304, §1, Oct. 12, 1996, 110 Stat. 3793, provided that: "This Act \[enacting sections 60126 to 60128 of this title, amending this section and sections 60102, 60105 to 60110, 60113 to 60118, 60123 to 60125 of this title, and enacting provisions set out as a note under section 60301 of this title\] may be cited as the 'Accountable Pipeline Safety and Partnership Act of 1996'."
 
 #### Rule of Construction
 
@@ -446,7 +450,7 @@ Continued service agreement.—The Secretary shall ensure that the incentives de
 
 &emsp;"(3)
 
-Approval.—The Secretary shall request, as necessary, the approval of the Office of Personnel Management to use the incentives described in paragraph (1)."
+Approval.—The Secretary shall request, as necessary, the approval of the Office of PersonnelManagement to use the incentives described in paragraph (1)."
 
 #### Technical Assistance Program
 
@@ -512,7 +516,7 @@ Memorandum of Understanding.—
 
 &emsp;"(1)
 
-In general.—Not later than 120 days after the date of enactment of this Act \[Dec. 17, 2002\], theheads of the participating agencies shall enter into a memorandum of understanding detailing their respective responsibilities in the program authorized by subsection (a).
+In general.—Not later than 120 days after the date of enactment of this Act \[Dec. 17, 2002\], the heads of the participating agencies shall enter into a memorandum of understanding detailing their respective responsibilities in the program authorized by subsection (a).
 
 &emsp;"(2)
 
@@ -602,7 +606,7 @@ Independent Experts.—Not later than 180 days after the date of enactment of th
 
 "(i)
 
-Conflict of Interest.—The Secretary shall take all practical steps to ensure that each recipient of an agreement under this section discloses in writing to the Secretary any conflict of interest on a research and development project carried out under this section, andincludes any such disclosure as part of the final deliverable pursuant to such agreement. The Secretary may not make an award under this section directly to a pipeline owner or operator that is regulated by the Pipeline and Hazardous Materials Safety Administration or a State-certified regulatory authority if there is a conflict of interest relating to such owner or operator."
+Conflict of Interest.—The Secretary shall take all practical steps to ensure that each recipient of an agreement under this section discloses in writing to the Secretary any conflict of interest on a research and development project carried out under this section, and includes any such disclosure as part of the final deliverable pursuant to such agreement. The Secretary may not make an award under this section directly to a pipeline owner or operator that is regulated by the Pipeline and Hazardous Materials Safety Administration or a State-certified regulatory authority if there is a conflict of interest relating to such owner or operator."
 
 #### Definitions
 

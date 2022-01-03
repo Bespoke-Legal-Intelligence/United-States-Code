@@ -20,8 +20,14 @@
 | :--- | :---: | ---: |
 | [<b>221.</b>](Part%20B%20-%20Assistance/Chapter%20221%20-%20Local%20Rail%20Freight%20Assistance/README.md) | <b>Local Rail Freight Assistance</b> | <b>22101</b> |
 | [<b>223.</b>](Part%20B%20-%20Assistance/Chapter%20223%20-%20Capital%20Grants%20for%20Class%20II%20and%20Class%20III%20Railroads/README.md) | <b>Capital Grants for Class II and Class III Railroads</b> | <b>22301</b> |
+| [<b>224.</b>](Part%20B%20-%20Assistance/Chapter%20224%20-%20Railroad%20Rehabilitation%20and%20Improvement%20Financing/README.md) | <b>Railroad rehabilitation and improvement financing </b><b><sup>1</sup></b> | <b>22401</b> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |  |
+| :--- | :---: | ---: |
 | <b>\[225.</b> | <b>Repealed.\]</b> |  |
-| [<b>227.</b>](Part%20B%20-%20Assistance/Chapter%20227%20-%20State%20Rail%20Plans/README.md) | <b>State rail plans </b><b><sup>1</sup></b> | <b>22701</b> |
+| [<b>227.</b>](Part%20B%20-%20Assistance/Chapter%20227%20-%20State%20Rail%20Plans/README.md) | <b>State rail plans </b><b><sup>2</sup></b> | <b>22701</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -36,7 +42,7 @@
 |  |  |  |
 | :--- | :---: | ---: |
 | [<b>241.</b>](Part%20C%20-%20Passenger%20Transportation/Chapter%20241%20-%20General/README.md) | <b>General</b> | <b>24101</b> |
-| [<b>242.</b>](Part%20C%20-%20Passenger%20Transportation/Chapter%20242%20-%20Project%20Delivery/README.md) | <b>Project delivery </b><b><sup>2</sup></b> | <b>24201</b> |
+| [<b>242.</b>](Part%20C%20-%20Passenger%20Transportation/Chapter%20242%20-%20Project%20Delivery/README.md) | <b>Project delivery </b><b><sup>3</sup></b> | <b>24201</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -47,6 +53,7 @@
 | <b>\[245.</b> | <b>Repealed.\]</b> |  |
 | [<b>247.</b>](Part%20C%20-%20Passenger%20Transportation/Chapter%20247%20-%20Amtrak%20Route%20System/README.md) | <b>Amtrak Route System</b> | <b>24701</b> |
 | [<b>249.</b>](Part%20C%20-%20Passenger%20Transportation/Chapter%20249%20-%20Northeast%20Corridor%20Improvement%20Program/README.md) | <b>Northeast Corridor Improvement Program</b> | <b>24901</b> |
+| [<b>251.</b>](Part%20C%20-%20Passenger%20Transportation/Chapter%20251%20-%20Passenger%20Rail%20Planning/README.md) | <b>Passenger rail planning </b><b><sup>4</sup></b> | <b>25101</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -68,7 +75,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Pub. L. 117–58, div. B, title II, §22308(b), Nov. 15, 2021, 135 Stat. 733, added item for chapter 251.
+
+Pub. L. 117–58, div. B, title I, §21301(i), Nov. 15, 2021, 135 Stat. 691, which directed amendment of the analysis for title 49, United States Code, by adding item for chapter 224 after item for chapter 223, was executed by adding such item to the analysis for this subtitle, to reflect the probable intent of Congress.
 
 <b>2019</b>—Pub. L. 115–420, §7(a)(4), Jan. 3, 2019, 132 Stat. 5445, added item for chapter 229 and struck out item for chapter 244 "Rail improvement grants".
 
@@ -88,9 +101,13 @@ Pub. L. 110–432, div. B, title III, §303(b), Oct. 16, 2008, 122 Stat. 4951, w
 
 <b>1994</b>—Pub. L. 103–440, title I, §103(b)(1), Nov. 2, 1994, 108 Stat. 4618, added part D and item for chapter 261, struck out former part D "MISCELLANEOUS" and former item for chapter 261 "Law Enforcement . . . 26101", and added part E and item for chapter 281.
 
-<i><sup>1</sup></i><i> So in original. Probably should be "State Rail Plans".</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Railroad Rehabilitation and Improvement Financing".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be "Project Delivery".</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "State Rail Plans".</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be "Project Delivery".</i>
+
+<i><sup>4</sup></i><i> So in original. Probably should be "Passenger Rail Planning".</i>
 
 
 ---

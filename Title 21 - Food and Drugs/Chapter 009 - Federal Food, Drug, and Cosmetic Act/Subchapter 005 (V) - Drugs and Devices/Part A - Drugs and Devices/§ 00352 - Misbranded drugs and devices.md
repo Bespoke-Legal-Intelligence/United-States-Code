@@ -16,7 +16,7 @@ If in package form unless it bears a label containing (1) the name and place of 
 
 #### (c) Prominence of information on label
 
-If any word, statement, or other information required by or under authority of this chapter to appear on the label or labeling is not prominently placed thereon with such conspicuousness (as compared with other words, statements, designs, or devices, in the labeling) and in such terms as to render it likely to be read and understood by the ordinary individual under customary conditions of purchase and use.
+If any word, statement, or other information required by or under authority of this chapter toappear on the label or labeling is not prominently placed thereon with such conspicuousness (as compared with other words, statements, designs, or devices, in the labeling) and in such terms as to render it likely to be read and understood by the ordinary individual under customary conditions of purchase and use.
 
 #### (d) Repealed. Pub. L. 105–115, title I, §126(b), Nov. 21, 1997, 111 Stat. 2327
 
@@ -44,11 +44,11 @@ Unless its labeling bears (1) adequate directions for use; and (2) such adequate
 
 #### (g) Representations as recognized drug; packing and labeling; inconsistent requirements for designation of drug
 
-If it purports to be a drug the name of which is recognized in an official compendium, unless it is packaged and labeled as prescribed therein. The method of packing may be modified with the consent of the Secretary. Whenever a drug is recognized in both the United States Pharmacopoeia and the Homoeopathic Pharmacopoeia of the United States, it shall be subject to the requirements of the United States Pharmacopoeia with respect to packaging and labeling unless it is labeled and offered for sale as a homoeopathic drug, in which case it shall be subject to the provisions of the Homoeopathic Pharmacopoeia of the United States, and not those of the United States Pharmacopoeia, except that in the event of inconsistency between the requirements of this paragraph and those of paragraph (e) as to the name by which the drug or its ingredients shall be designated, the requirements of paragraph (e) shall prevail.
+If it purports to be a drug the name of which is recognized in an official compendium, unless it is packaged and labeled as prescribed therein. The method of packing may be modified withthe consent of the Secretary. Whenever a drug is recognized in both the United States Pharmacopoeia and the Homoeopathic Pharmacopoeia of the United States, it shall be subject to the requirements of the United States Pharmacopoeia with respect to packaging and labeling unless it is labeled and offered for sale as a homoeopathic drug, in which case it shall be subject to the provisions of the Homoeopathic Pharmacopoeia of the United States, and not those of the United States Pharmacopoeia, except that in the event of inconsistency between the requirements of this paragraph and those of paragraph (e) as to the name by which the drug or its ingredients shall be designated, the requirements of paragraph (e) shall prevail.
 
 #### (h) Deteriorative drugs; packing and labeling
 
-If it has been found by the Secretary to be a drug liable to deterioration, unless it is packaged in such form and manner, and its label bears a statement of such precautions, as the Secretary shall by regulations require as necessary for the protection of the public health. No such regulation shall be established for any drug recognized in an official compendium until the Secretary shall have informed the appropriate body charged with the revision of suchcompendium of the need for such packaging or labeling requirements and such body shall have failed within a reasonable time to prescribe such requirements.
+If it has been found by the Secretary to be a drug liable to deterioration, unless it is packaged in such form and manner, and its label bears a statement of such precautions, as the Secretary shall by regulations require as necessary for the protection of the public health. No such regulation shall be established for any drug recognized in an official compendium until the Secretary shall have informed the appropriate body charged with the revision of such compendium of the need for such packaging or labeling requirements and such body shall have failed within a reasonable time to prescribe such requirements.
 
 #### (i) Drug; misleading container; imitation; offer for sale under another name
 
@@ -78,7 +78,7 @@ If it is a drug and its packaging or labeling is in violation of an applicable r
 
 #### (q) Restricted devices using false or misleading advertising or used in violation of regulations
 
-In the case of any restricted device distributed or offered for sale in any State, if (1) its advertising is false or misleading in any particular, or (2) it is sold, distributed, or used in violation of regulations prescribed under section 360j(e) of this title.
+In the case of any restricted device distributed or offered for sale in any State, if (1) its advertising is false or misleading in any particular, or (2) it is sold, distributed, or used in violation ofregulations prescribed under section 360j(e) of this title.
 
 #### (r) Restricted devices not carrying requisite accompanying statements in advertisements and other descriptive printed matter
 
@@ -122,7 +122,7 @@ If it is a drug subject to an approved risk evaluation and mitigation strategy p
 
 #### (z) Postmarket studies and clinical trials; new safety information in labeling
 
-If it is a drug, and the responsible person (as such term is used in section 355(o) of this title) is in violation of a requirement established under paragraph (3) (relating to postmarket studies and clinical trials) or paragraph (4) (relating to labeling) of section 355(o) of this title with respect to such drug.
+If it is a drug, and the responsible person (as such term is used in section 355(o) of this title) is in violation of a requirement establishedunder paragraph (3) (relating to postmarket studies and clinical trials) or paragraph (4) (relating to labeling) of section 355(o) of this title with respect to such drug.
 
 #### (aa) Unpaid fees; failure to submit identifying information
 
@@ -138,7 +138,7 @@ If it is a drug and it fails to bear the product identifier as required by secti
 
 #### (dd) Improper labeling of antimicrobial drugs
 
-If it is an antimicrobial drug, as defined in section 360a–2(f) of this title, and its labelingfails to conform with the requirements under section 360a–2(d) of this title.
+If it is an antimicrobial drug, as defined in section 360a–2(f) of this title, and its labeling fails to conform with the requirements under section 360a–2(d) of this title.
 
 #### (ee) Nonprescription drug subject to regulation
 
@@ -178,7 +178,7 @@ Par. (aa). Pub. L. 112–193 substituted "379j–42(a)(4)" for "379j–41(a)(4)"
 
 Pub. L. 112–144, §306, added par. (aa).
 
-<b>2007</b>—Par. (n). Pub. L. 110–85, §906(a), inserted "and in the case of published direct-to-consumer advertisements the following statement printed in conspicuous text: 'You are encouraged to report negative side effects of prescription drugs to the FDA. Visit www.fda.gov/medwatch, or call 1–800-FDA-1088.'," after "section 371(a) of this title,".
+<b>2007</b>—Par. (n). Pub. L. 110–85, §906(a), inserted "and in the case of published direct-to-consumer advertisements the following statement printed in conspicuoustext: 'You are encouraged to report negative side effects of prescription drugs to the FDA. Visit www.fda.gov/medwatch, or call 1–800-FDA-1088.'," after "section 371(a) of this title,".
 
 Pub. L. 110–85, §901(d)(6), substituted "section 371(a) of this title" for "the procedure specified in section 371(e) of this title".
 
@@ -342,10 +342,6 @@ Pub. L. 110–85, title IX, §901(d)(3)(B), Sept. 27, 2007, 121 Stat. 940, provi
 
 Nothing in amendment by section 3044(b)(2) of Pub. L. 114–255 to be construed to restrict the prescribing of antimicrobial drugs or other products, including drugs approved under section 356(h) of this title, by health care professionals, or to limit the practice of health care, see section 3043 of Pub. L. 114–255, set out as a note under section 356 of this title.
 
-#### Transfer of Functions
-
-For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under section 321 of this title.
-
 #### Presentation of Prescription Drug Benefit and Risk Information
 
 Pub. L. 111–148, title III, §3507, Mar. 23, 2010, 124 Stat. 530, provided that:
@@ -388,7 +384,7 @@ In general.—In the case of direct-to-consumer television advertisements, the S
 
 "(2)
 
-Content.—As part of the study under paragraph (1), such Secretary shall consider whether the information in the statement described in paragraph (1) would detract from the presentation of risk information in a direct-to-consumer television advertisement. If such Secretary determines the inclusion of such statement is appropriate in direct-to-consumer television advertisements, such Secretary shall issue regulations requiring the implementation of such statement in direct-to-consumer television advertisements, including determining a reasonable length of time for displaying the statement in such advertisements. The Secretary shall report to the appropriate committees of Congress the findings of such study and any plans to issue regulations under this paragraph."
+Content.—As part of the study under paragraph (1), such Secretary shall consider whether the information in the statement described in paragraph (1) would detract from the presentation of risk information in a direct-to-consumer television advertisement. If such Secretary determines the inclusion of such statement is appropriate in direct-to-consumer television advertisements, such Secretary shall issue regulations requiring the implementation of such statement in direct-to-consumer television advertisements, including determining a reasonable length of time for displaying the statement in such advertisements. The Secretaryshall report to the appropriate committees of Congress the findings of such study and any plans to issue regulations under this paragraph."
 
 Pub. L. 108–173, title I, §107(f), Dec. 8, 2003, 117 Stat. 2171, directed the Secretary of Health and Human Services to undertake a study of how to make prescription pharmaceutical information, including drug labels and usage instructions, accessible to blind and visually-impaired individuals, and to submit a report to Congress not later than 18 months after Dec. 8, 2003.
 
@@ -396,9 +392,15 @@ Pub. L. 105–115, title I, §114(b), Nov. 21, 1997, 111 Stat. 2312, provided th
 
 #### Counterfeiting of Drugs; Congressional Findings and Declaration of Policy
 
-Pub. L. 89–74, §9(a), July 15, 1965, 79 Stat. 234, provided that: "The Congress finds and declares that there is a substantial traffic in counterfeit drugs simulating thebrand or other identifying mark or device of the manufacturer of the genuine article; that such traffic poses a serious hazard to the health of innocent consumers of such drugs because of the lack of proper qualifications, facilities, and manufacturing controls on the part of the counterfeiter, whose operations are clandestine; that, while such drugs are deemed misbranded within the meaning of section 502(i) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 352(i)\], the controls for the suppression of the traffic in such drugs are inadequate because of the difficulty of determining the place of interstate origin of such drugs and, if that place is discovered, the fact that the implements for counterfeiting are not subject to seizure, and that these factors require enactment of additional controls with respect to such drugs without regard to their interstate or intrastate origins."
+Pub. L. 89–74, §9(a), July 15, 1965, 79 Stat. 234, provided that: "The Congress finds and declares that there is a substantial traffic in counterfeit drugs simulating the brand or other identifying mark or device of the manufacturer of the genuine article; that such traffic poses a serious hazard to the health of innocent consumers of such drugs because of the lack of proper qualifications, facilities, and manufacturing controls on the part of the counterfeiter, whose operations are clandestine; that, while such drugs are deemed misbranded within the meaning of section 502(i) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 352(i)\], the controls for the suppression of the traffic in such drugs are inadequate because of the difficulty of determining the place of interstate origin of such drugs and, if that place is discovered, the fact that the implements for counterfeiting are not subject to seizure, and that these factors require enactment of additional controls with respect to such drugs without regard to their interstate or intrastate origins."
 
 Provisions as effective Feb. 1, 1966, see section 11 of Pub. L. 89–74, set out as an Effective Date of 1965 Amendment note under section 321 of this title.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under section 321 of this title.
 
 <i><sup>1</sup></i><i> So in original. The term "health care economic information" appears only in par. (1).</i>
 

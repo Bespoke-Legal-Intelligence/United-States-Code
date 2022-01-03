@@ -12,7 +12,7 @@ The Secretary of Labor shall use funds available under section 1356(s)(2) of tit
 
 #### (B) Enhanced training programs and information
 
-&emsp;In order to facilitate the provision of job training services described in subparagraph (A), funds under this section may be used toassist in the development and implementation of model activities such as developing appropriate curricula to build core competencies and train workers, identifying and disseminating career and skill information, and increasing the integration of community and technical college activities with activities of businesses and the public workforce investment system to meet the training needs for the industries and economic sectors identified pursuant to paragraph (4).
+&emsp;In order to facilitate the provision of job training services described in subparagraph (A), funds under this section may be used to assist in the development and implementation of model activities such as developing appropriate curricula to build core competencies and train workers, identifying and disseminating career and skill information, and increasing the integration of community and technical college activities with activities of businesses and the public workforce investment system to meet the training needs for the industries and economic sectors identified pursuant to paragraph (4).
 
 #### (3) Eligible entities
 

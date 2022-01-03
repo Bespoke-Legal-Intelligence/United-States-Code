@@ -10,6 +10,8 @@ Section 3334, Pub. L. 103–182, title II, §210, Dec. 8, 1993, 107 Stat. 2099, 
 
 Section 3335, Pub. L. 103–182, title II, §211, Dec. 8, 1993, 107 Stat. 2099, related to monitoring of television and picture tube imports and reports on results.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of Repeal
 
 Repeal effective on the date on which the USMCA entered into force (July 1, 2020), see section 601 of Pub. L. 116–113, set out as a note under former section 3301 of this title.

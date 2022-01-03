@@ -42,7 +42,7 @@
 
 #### (E) Co-chairpersons
 
-&emsp;&emsp;The Director of the Office of Science and Technology Policy and the Director of the National Sciences Foundation,<sup>1</sup> or their designees, shall be the co-chairpersons of the Task Force. If the role of the Director of the National Science Foundation is vacant, the Chair of the National Science Board shall act as a co-chairperson of the Task Force.
+&emsp;&emsp;The Director of the Office of Science and Technology Policy and the Director of the National Sciences Foundation,<sup>1</sup> or their designees, shall be the co-chairpersons of theTask Force. If the role of the Director of the National Science Foundation is vacant, the Chair of the National Science Board shall act as a co-chairperson of the Task Force.
 
 #### (F) Expenses for non-Federal Members
 
@@ -153,6 +153,8 @@ In this section:
 &emsp;The term "ownership" means responsibility and accountability for the implementation, deployment, and ongoing development of the National Artificial Intelligence Research Resource, and for providing staff support to that effort.
 
 (Pub. L. 116–283, div. E, title LI, §5106, Jan. 1, 2021, 134 Stat. 4531.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -30,13 +30,15 @@ All rights or interests vested in the Alien Property Custodian or the Attorney G
 
 &emsp;(3) rights or interests vested by vesting orders 128 (7 F.R. 7578), 13111 (14 F.R. 1730), 14349 (15 F.R. 1575), and 17366 (16 F.R. 2483),
 
-> are hereby divested as a matter of grace, effective the ninety-first day after October 22, 1962,and the persons entitled to such rights or interests shall succeed thereto, subject to the right of the Attorney General to collect and receive all unpaid royalties or other income accrued in his favor under such prevesting contracts prior to the day of divestment.
+> are hereby divested as a matter of grace, effective the ninety-first day after October 22, 1962, and the persons entitled to such rights or interests shall succeed thereto, subject to the right of the Attorney General to collect and receive all unpaid royalties or other income accrued in his favor under such prevesting contracts prior to the day of divestment.
 
 #### (e) Suits for infringement
 
 Nothing in this section shall be construed to transfer to a person entitled to a copyright divested hereunder the right of the Attorney General to sue for the infringement of such copyright during the period between (1) the vesting thereof or the vesting of rights and interests in a contract entered into with respect thereto, and (2) the day of divestment. The right to sue for infringement shall remain in the Attorney General.
 
 (Oct. 6, 1917, ch. 106, §41, as added Pub. L. 87–846, title II, §206, Oct. 22, 1962, 76 Stat. 1115; amended Pub. L. 88–490, Aug. 26, 1964, 78 Stat. 607; Pub. L. 97–164, title I, §161(9), Apr. 2, 1982, 96 Stat. 49; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -54,6 +56,8 @@ Section was formerly classified to section 42 of the former Appendix to this tit
 
 <b>1964</b>—Subsec. (a). Pub. L. 88–490 substituted "render judgment upon" for "report to the Congress concerning" and "two years after October 22, 1962" for "one year after the date of the enactment of this Act".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
@@ -61,6 +65,8 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 #### Effective Date of 1982 Amendment
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

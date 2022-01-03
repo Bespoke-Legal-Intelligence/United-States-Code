@@ -14,7 +14,7 @@ Activities under subsection (a) may include—
 
 &emsp;(3) in collaboration with other centers and national voluntary health agencies, the establishment of a population-based database that may be used for longitudinal and other research on paralysis and other disabling conditions; and
 
-&emsp;(4) the replication and translation of best practices and the sharing of information across States, as well as the development of comprehensive, unique, and innovative programs, services, and demonstrations within existing State-based disability and health programs of the Centers for Disease Control and Prevention which are designed to support and advance quality of life programs for persons living with paralysis and other physical disabilities focusing on—
+&emsp;(4) the replication and translation of best practices and the sharing of information across States, as well as the development of comprehensive, unique, and innovative programs, services, and demonstrations within existing State-based disability and health programs of the Centers for Disease Control and Prevention which are designed to support and advance quality of life programs for personsliving with paralysis and other physical disabilities focusing on—
 
 &emsp;&emsp;(A) caregiver education;
 
@@ -67,6 +67,8 @@ The Secretary shall ensure that activities under this section are coordinated as
 For the purpose of carrying out this section, there is authorized to be appropriated $25,000,000 for each of fiscal years 2008 through 2011.
 
 (Pub. L. 111–11, title XIV, §14301, Mar. 30, 2009, 123 Stat. 1454.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

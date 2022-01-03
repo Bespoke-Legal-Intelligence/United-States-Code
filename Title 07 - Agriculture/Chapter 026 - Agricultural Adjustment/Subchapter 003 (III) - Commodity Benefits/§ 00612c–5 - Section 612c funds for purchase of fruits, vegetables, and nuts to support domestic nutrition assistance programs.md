@@ -20,6 +20,8 @@ Fruits, vegetables, and nuts may be purchased under this section in the form of 
 
 (Pub. L. 110–234, title IV, §4404, May 22, 2008, 122 Stat. 1137; Pub. L. 110–246, §4(a), title IV, §4404, June 18, 2008, 122 Stat. 1664, 1899.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
@@ -27,6 +29,8 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 Section is comprised of section 4404 of Pub. L. 110–246. Subsec. (c) of section 4404 of Pub. L. 110–246 amended section 612c–4 of this title.
 
 Section was enacted as part of the Food, Conservation, and Energy Act of 2008, and not as part of the Agricultural Adjustment Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -16,6 +16,8 @@ Recommendations for Removal of Selected Officers From Report.—If the Secretary
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2929; amended Pub. L. 109–364, div. A, title V, §513(b), Oct. 17, 2006, 120 Stat. 2185.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in subsecs. (a) and (b) of this section were contained in section 5898(b) and (c) of this title, prior to repeal by Pub. L. 103–337, §1629(b)(2).
@@ -23,6 +25,8 @@ Provisions similar to those in subsecs. (a) and (b) of this section were contain
 #### Amendments
 
 <b>2006</b>—Subsec. (b). Pub. L. 109–364 designated existing provisions as par. (1), substituted "Except as provided in paragraph (2), the" for "The", and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

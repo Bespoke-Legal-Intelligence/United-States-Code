@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;(ii) supporting early detection and diagnosis of Alzheimer's disease and related dementias;
 
-&emsp;&emsp;&emsp;(iii) reducing the risk of potentially avoidable hospitalizations of individuals with Alzheimer's disease and related dementias;
+&emsp;&emsp;&emsp;(iii) reducing the risk of potentially avoidable hospitalizations of individualswith Alzheimer's disease and related dementias;
 
 &emsp;&emsp;&emsp;(iv) reducing the risk of cognitive decline and cognitive impairment associated with Alzheimer's disease and related dementias;
 
@@ -85,6 +85,8 @@
 The Secretary shall ensure that activities and programs related to dementia under this section do not unnecessarily duplicate activities and programs of other agencies and offices within the Department of Health and Human Services.
 
 (July 1, 1944, ch. 373, title III, §398A, as added Pub. L. 115–406, §2(2)(B), Dec. 31, 2018, 132 Stat. 5362.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

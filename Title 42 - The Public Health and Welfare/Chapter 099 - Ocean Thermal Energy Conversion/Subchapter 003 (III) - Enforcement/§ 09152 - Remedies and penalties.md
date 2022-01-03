@@ -32,9 +32,11 @@
 
 #### (e) In rem liability of vessels
 
-Any ocean thermal energy conversion facility or plantship licensed pursuant to this chapter and any other vessel documented or numbered under the laws of the United States, except apublic vessel engaged in noncommercial activities, used in any violation of this chapter or of any rule, regulation, order, license, or term or condition thereof, or other requirements of this chapter, shall be liable in rem for any civil penalty assessed or criminal fine imposed and may be proceeded against in any district court of the United States having jurisdiction thereof, whenever it shall appear that one or more of the owners, or bareboat charterers, was at the time of the violation a consenting party or privy to such violation.
+Any ocean thermal energy conversion facility or plantship licensed pursuant to this chapter and any other vessel documented or numbered under the laws of the United States, except a public vessel engaged in noncommercial activities, used in any violation of this chapter or of any rule, regulation, order, license, or term or condition thereof, or other requirements of this chapter, shall be liable in rem for any civil penalty assessed or criminal fine imposed and may be proceeded against in any district court of the United States having jurisdiction thereof, whenever it shall appear that one or more of the owners, or bareboat charterers, was at the time of the violation a consenting party or privy to such violation.
 
 (Pub. L. 96–320, title III, §302, Aug. 3, 1980, 94 Stat. 995; Pub. L. 98–623, title VI, §602(e)(5), Nov. 8, 1984, 98 Stat. 3412.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

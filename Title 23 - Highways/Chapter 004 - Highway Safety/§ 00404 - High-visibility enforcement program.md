@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary shall establish and administer a program under which not less than 3 campaigns will be carried out in each of fiscal years 2016 through 2020.
+In General.—The Secretary shall establish and administer a program under which not less than 3 campaigns will be carried out in each of fiscal years 2022 through 2026.
 
 (b)
 
@@ -40,11 +40,13 @@ Campaign.—The term "campaign" means a high-visibility traffic safety law enfor
 
 State.—The term "State" has the meaning given that term in section 401.
 
-(Added Pub. L. 89–564, title I, §101, Sept. 9, 1966, 80 Stat. 733; amended Pub. L. 90–150, Nov. 24, 1967, 81 Stat. 507; Pub. L. 93–87, title II, §223,Aug. 13, 1973, 87 Stat. 292; Pub. L. 94–280, title II, §209, May 5, 1976, 90 Stat. 455; Pub. L. 109–59, title II, §2019, Aug. 10, 2005, 119 Stat. 1543; Pub. L. 114–94, div. A, title IV, §4004(a), Dec. 4, 2015, 129 Stat. 1500.)
+(Added Pub. L. 89–564, title I, §101, Sept. 9, 1966, 80 Stat. 733; amended Pub. L. 90–150, Nov. 24, 1967, 81 Stat. 507; Pub. L. 93–87, title II, §223, Aug. 13, 1973, 87 Stat. 292; Pub. L. 94–280, title II, §209, May 5, 1976, 90 Stat. 455; Pub. L. 109–59, title II, §2019, Aug. 10, 2005, 119 Stat. 1543; Pub. L. 114–94, div. A, title IV, §4004(a), Dec. 4, 2015, 129 Stat. 1500; Pub. L. 117–58, div. B, title IV, §24104, Nov. 15, 2021, 135 Stat. 795.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a). Pub. L. 117–58 substituted "each of fiscal years 2022 through 2026" for "each of fiscal years 2016 through 2020".
 
 <b>2015</b>—Pub. L. 114–94 amended section generally, substituting provisions relating to the high-visibility enforcement program for provisions relating to the National Highway Safety Advisory Committee.
 

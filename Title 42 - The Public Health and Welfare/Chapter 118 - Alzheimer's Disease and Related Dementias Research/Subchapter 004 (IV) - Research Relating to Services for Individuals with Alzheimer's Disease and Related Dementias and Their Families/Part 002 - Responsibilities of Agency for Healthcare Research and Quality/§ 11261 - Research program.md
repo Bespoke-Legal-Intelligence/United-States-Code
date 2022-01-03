@@ -16,13 +16,15 @@ The Director of the Agency for Healthcare Research and Quality shall ensure that
 
 &emsp;(2) concerning the costs incurred by individuals with Alzheimer's disease and related dementias and by their families in obtaining services, particularly services that are essential to the individuals and that are not generally required by other patients under long-term care programs;
 
-&emsp;(3) concerning the costs, cost-effectiveness, and effectiveness of various interventions to provide services for individuals with Alzheimer's disease and related dementias and for their families;
+&emsp;(3) concerning the costs, cost-effectiveness, and effectiveness of various interventions toprovide services for individuals with Alzheimer's disease and related dementias and for their families;
 
 &emsp;(4) conducted in consultation with the Director of the National Institute on Aging and the Commissioner of the Administration on Aging, concerning the role of physicians in caring for persons with Alzheimer's disease and related dementias and for their families, including the role of a physician in connecting such persons with appropriate health care and supportive services, including those supported through State and area agencies on aging designated under section 3025(a)(1) and (2)(A) of this title; and
 
 &emsp;(5) conducted in consultation with the Director of the National Institute on Aging and the Commissioner of the Administration on Aging, concerning legal and ethical issues, including issues associated with special care units, facing individuals with Alzheimer's disease and related dementias and facing their families.
 
 (Pub. L. 99–660, title IX, §934, as added Pub. L. 102–507, §7(b)(1)(B), Oct. 24, 1992, 106 Stat. 3285; amended Pub. L. 106–129, §2(b)(2), Dec. 6, 1999, 113 Stat. 1670.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

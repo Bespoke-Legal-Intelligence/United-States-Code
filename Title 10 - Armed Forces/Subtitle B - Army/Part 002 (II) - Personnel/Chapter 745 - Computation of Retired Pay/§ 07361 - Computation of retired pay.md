@@ -10,7 +10,7 @@ Formula.—The monthly retired pay of a member entitled to such pay under this s
 
 &emsp;&emsp;(A) the member's retired pay base (as computed under section 1406(c) or 1407 of this title), by
 
-&emsp;&emsp;(B) the retired pay multiplier prescribed in section 1409 of this title for the number of years credited to the member under section 1405 of this title.
+&emsp;&emsp;(B) the retired pay multiplier prescribed in section 1409 of this title for the number ofyears credited to the member under section 1405 of this title.
 
 &emsp;(2)
 
@@ -232,7 +232,7 @@ June 29, 1948, ch. 708, §§203(a) (34 words before proviso, and proviso), 203(d
 
 In the introductory paragraph, the applicability of the rule stated in the third sentence to situations not expressly covered by the laws named in the source statutes above is a practical construction that the rule must be reciprocally applied in all cases.
 
-In formula B, the words "basic pay" are substituted for the words "base and longevity pay" to conform to the terminology of the Career Compensation Act of 1949, 63 Stat. 802 (37 U.S.C. 231 et seq.). The words "his retired grade" are substituted for the words "permanent grade held at time of retirement" to reflect the right to higher retired grade when qualified under other provisions of law. 10:941a(e) (last proviso of clause (1)) is omitted, since, under section 202 of the Career Compensation Act of 1949, 63 Stat. 807 (37 U.S.C. 233), the active duty pay of all members of the Army is based upon years of service.
+In formula B, the words "basic pay" are substituted for the words "base and longevity pay" to conform to the terminology of the Career Compensation Act of 1949, 63 Stat. 802 (37 U.S.C. 231 et seq.). The words "his retired grade" are substituted for the words "permanent grade held at time of retirement" to reflect the right to higher retired grade when qualified underother provisions of law. 10:941a(e) (last proviso of clause (1)) is omitted, since, under section 202 of the Career Compensation Act of 1949, 63 Stat. 807 (37 U.S.C. 233), the active duty pay of all members of the Army is based upon years of service.
 
 In formula C, the computation is based on monthly pay instead of annual pay to conform to the other formulas of the revised section. The words "basic pay" are substituted for the words "active duty base and longevity pay", and the words "in determining his basic pay" are substituted for the words "for longevity pay purposes", to conform to the terminology of the Career Compensation Act of 1949, 63 Stat. 802 (37 U.S.C. 231 et seq.). The words "Monthly basic pay of member's retired grade" are substituted for the words "the rank upon which they are retired", in 10:971, and "rank with which retired", in 10:971b, to reflect their right to advancement on the retired list. 10:971 now applies only when the retiring officer has 30 or more years of service which may be credited in computing his retired pay. 10:971b (2d proviso) is omitted, since, under section 202 of the Career Compensation Act of 1949, 63 Stat. 807 (37 U.S.C. 233), the pay of all members is based upon cumulative years of service. 10:971b (4th proviso) is omitted as executed. 10:971b (last proviso) is omitted, since the distinction between limited and unlimited retired lists was abolished by section 201 of the act of June 29, 1948, ch. 708, 62 Stat. 1084. Sections 3918, 3920, and 3924 are included under this formula, since it achieves the same result as is reached on a basis of 30 years multiplied by 2½ percent, and simplifies the table.
 
@@ -262,6 +262,8 @@ Act
 
 The amendment reflects section 1(99) of the bill \[amending section 3962 of Title 10\].
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 7361 was renumbered section 8701 of this title.
@@ -290,7 +292,7 @@ Subsec. (b)(3). Pub. L. 103–337, §635(a)(2)(B)(ii), struck out heading and te
 
 Pub. L. 98–94, §923(a)(1), (2)(F), in footnote 4 to table, substituted "Before applying percentage factor, credit each full month of service that is in addition to the number of full years of service creditable to the member as one-twelfth of a year and disregard any remaining fractional part of a month" for "Before applying percentage factor, credit a part of a year that is six months or more as a whole year, and disregard a part of a year that is less than six months".
 
-<b>1980</b>—Pub. L. 96–513, §512(10), in heading for column 1 of the table substituted "after September 7, 1980" for "on or after the date of the enactment of the Department of Defense Authorization Act, 1981".
+<b>1980</b>—Pub. L. 96–513, §512(10), in heading for column 1 of the table substituted "after September 7, 1980" for"on or after the date of the enactment of the Department of Defense Authorization Act, 1981".
 
 Pub. L. 96–342 in heading for column 1 of the table inserted provisions respecting applicability to persons becoming members after the date of the enactment of the Department of Defense Authorization Act, 1981.
 
@@ -313,6 +315,8 @@ Formula D. Pub. L. 85–422, §6(8), substituted "monthly basic pay to which mem
 Footnote 1. Pub. L. 85–422, §6(1), struck out provisions which related to inapplicability of section 3962(a), and inserted provisions permitting computation at the highest rates of basic pay applicable to an officer who has served as Chief of Staff while he served in that office.
 
 <b>1957</b>—Pub. L. 85–155 redesignated formulas "B" to "E" of the table as formulas "A" to "D". Former formula "A", which related to computation of retirement pay for persons retired under former sections 3881, 3882, and 3912 of this title, was repealed by Pub. L. 85–155.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 
@@ -344,5 +348,5 @@ Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 
 
 Pub. L. 85–422, §6, May 20, 1958, 72 Stat. 129, provided in part that: "The amendments made by clauses (1)–(3), (6), (7), (8), and (9) of this section \[to Formulas 1 and 2 and footnote 4 of section 1401, Formulas C and D and footnote 1 of this section, sections 5083, 5201, and 6326, and Formulas C and D and footnote 1 of section 8991 of this title\] do not apply to any person who is retired, or to whom retired pay (including temporary disability retired pay) is granted, before the effective date of this Act \[June 1, 1958\]."
 
-Amendment by Pub. L. 85–422 effective June 1, 1958, see section 9 of Pub. L. 85–422.
+Amendment by Pub. L. 85–422 effective June 1, 1958, see section 9 of Pub. L. 85–422, May 20, 1958, 72 Stat. 130.
 

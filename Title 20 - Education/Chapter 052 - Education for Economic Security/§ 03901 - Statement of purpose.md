@@ -4,6 +4,8 @@ It is the purpose of this chapter to improve the quality of mathematics and scie
 
 (Pub. L. 98–377, §2, Aug. 11, 1984, 98 Stat. 1267.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title of 1985 Amendment
 
 Pub. L. 99–159, §1, Nov. 22, 1985, 99 Stat. 887, provided: "That this Act \[enacting sections 366, 1221e–1c, and 3911 to 3922 of this title, and section 1886 of Title 42, The Public Health and Welfare, amending sections 351a, 351c, 351d, 353, 1134h, 1221e–1b, 1411, 2007, 2311, 2312, 2322, 2323, 2333, 2361 to 2363, 2383, 2392, 2417, 2462, 2464, 2471, 2763, 3902, 3963 to 3973, 3982, 3983, 3985 to 3988, 4003, 4033, 4051, 4053, 4056, and 4059 of this title, sections 1503 and 1753 of Title 29, Labor, and sections 1862 to 1864, 1868 to 1872, 1873, 1874, 1881a, 1882, and 1885 to 1885d of Title 42, omitting sections 3911 to 3915, 3921 to 3923, 3931 to 3933, 3941, and 3951 to 3954 of this title, repealing sections 1873a and 1884 of Title 42, enacting provisions set out as notes under sections 351f, 1087bb, 1411, and 2311 of this title and section 1861 of Title 42, and amending provisions set out as notes under sections 1087bb and 2301 of this title and sections 1861 and 1882 of Title 42\] may be cited as the 'National Science, Engineering, and Mathematics Authorization Act of 1986'."
@@ -19,6 +21,8 @@ Title V of Pub. L. 98–377, which enacted subchapter V of this chapter, is know
 Title VIII of Pub. L. 98–377, which enacted subchapter VIII of this chapter, is known as "The Equal Access Act", see note set out under section 4071 of this title.
 
 Title IX of Pub. L. 98–377, which enacted subchapter IX of this chapter, is known as the "Star Schools Program Assistance Act", see note set out under section 4081 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Increasing Access to High-Quality Science, Technology, Engineering, and Mathematics (STEM) Education
 
@@ -36,7 +40,7 @@ Shortages in high-quality STEM teachers at all levels, particularly in Computer 
 
 Sec. 2. <i>Expanding Access to Computer Science and STEM Education</i>. (a) <i>Establish promotion of high-quality STEM education, with a particular focus on Computer Science, as a Department of Education priority</i>. The Secretary of Education (Secretary) shall, consistent with law, establish the promotion of high-quality STEM education, including Computer Science in particular, as one of the priorities of the Department of Education. The Secretary shall take this priority into account, to the extent permitted by law, when awarding grant funds in fiscal year 2018 and in future years.
 
-(b) <i>Funding level</i>. The Secretary shall, to the extent consistent with law, establish a goal of devoting at least $200 million in grant funds per year to the promotion of high-quality STEM education, including Computer Science in particular. Within 30 days of the Congress passing final appropriations for each fiscal year for which the priority established under subsection (a) of this section is in effect, the Secretary shall identify the grant programs to which the STEM priority will apply and estimate the total amount ofsuch grant funds that will support high-quality STEM education, including Computer Science. The Secretary shall communicate plans for achieving this goal to the Director of the Office of Management and Budget (OMB Director) each fiscal year.
+(b) <i>Funding level</i>. The Secretary shall, to the extent consistent with law, establish a goal of devoting at least $200 million in grant funds per year to the promotion of high-quality STEM education, including Computer Science in particular. Within 30 days of the Congress passing final appropriations for each fiscal year for which the priority established under subsection (a) of this section is in effect, the Secretary shall identify the grant programs to which the STEM priority will apply and estimate the total amount of such grant funds that will support high-quality STEM education, including Computer Science. The Secretary shall communicate plans for achieving this goal to the Director of the Office of Management and Budget (OMB Director) each fiscal year.
 
 (c) <i>Explore administrative actions to promote Computer Science at the Department of Education</i>. The Secretary shall explore appropriate administrative actions, to the extent consistent with law, to add or increase focus on Computer Science in existing K–12 and post-secondary programs. As part of this effort, the Secretary shall identify and take action to provide guidance documents and other technical assistance that could support high-quality Computer Science education.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary of Defense, upon the request of the Attorney General, may provide assistance in support of Department of Justice activities relating to the enforcement of section 175, 229, or 2332a of title 18 during an emergency situation involving a weapon of mass destruction. Department of Defense resources, including personnel of the Department of Defense, may be used to provide such assistance if—
+In General.—The Secretary of Defense, upon the request of the Attorney General, mayprovide assistance in support of Department of Justice activities relating to the enforcement of section 175, 229, or 2332a of title 18 during an emergency situation involving a weapon of mass destruction. Department of Defense resources, including personnel of the Department of Defense, may be used to provide such assistance if—
 
 &emsp;(1) the Secretary of Defense and the Attorney General jointly determine that an emergency situation exists; and
 
@@ -60,6 +60,8 @@ Relationship to Other Authority.—Nothing in this section shall be construed to
 
 (Added Pub. L. 104–201, div. A, title XIV, §1416(a)(1), Sept. 23, 1996, 110 Stat. 2721, §382; amended Pub. L. 105–85, div. A, title X, §1073(a)(6), Nov. 18, 1997, 111 Stat. 1900; Pub. L. 111–383, div. A, title X, §1075(b)(10)(A), (B), Jan. 7, 2011, 124 Stat. 4369; Pub. L. 112–81, div. A, title X, §1089, Dec. 31, 2011, 125 Stat. 1603; renumbered §282, Pub. L. 114–328, div. A, title XII, §1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 372 of this title, referred to in subsec. (c), was renumbered section 272 of this title by Pub. L. 114–328, div. A, title XII, §1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.
@@ -80,11 +82,13 @@ Subsec. (b). Pub. L. 112–81 struck out "biological or chemical" before "weapon
 
 Subsecs. (b)(2)(C), (d)(2)(A)(ii). Pub. L. 111–383, §1075(b)(10)(A), substituted "section 175, 229, or 2332a" for "section 175 or 2332c".
 
-<b>1997</b>—Subsec. (g). Pub. L. 105–85 substituted "September 23, 1996" for "the date of the enactment of the National Defense Authorization Act for Fiscal Year 1997".
+<b>1997</b>—Subsec. (g). Pub. L. 105–85 substituted "September 23, 1996" for "the date of the enactment of theNational Defense Authorization Act for Fiscal Year 1997".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Military Assistance to Civil Authorities To Respond to Act or Threat of Terrorism
 
-Pub. L. 106–65, div. A, title X, §1023, Oct. 5, 1999, 113 Stat. 747, authorized the Secretary of Defense, upon the request of the Attorney General, to provide assistance to civil authorities in responding to an act of terrorism or threat of an act of terrorism within the UnitedStates, if the Secretary determined that certain conditions were met, subject to reimbursement and limitations on funding and personnel, and provided that this authority applied between Oct. 1, 1999, and Sept. 30, 2004.
+Pub. L. 106–65, div. A, title X, §1023, Oct. 5, 1999, 113 Stat. 747, authorized the Secretary of Defense, upon the request of the Attorney General, to provide assistance to civil authorities in responding to an act of terrorism or threat of an act of terrorism within the United States, if the Secretary determined that certain conditions were met, subject to reimbursement and limitations on funding and personnel, and provided that this authority applied between Oct. 1, 1999, and Sept. 30, 2004.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

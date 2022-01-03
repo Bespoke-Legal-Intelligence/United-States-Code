@@ -80,7 +80,7 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 &emsp;&emsp;(i) has a design capability of consuming any fuel (or mixture thereof) at a fuel heat input rate of 100 million Btu's per hour or greater; or
 
-&emsp;&emsp;(ii) is in a combination of two or more such units which are located at the same site and which in the aggregate have a design capability of consuming any fuel (or mixture thereof) at a fuel heat input rate of 250 million Btu's per hour or greater.
+&emsp;&emsp;(ii) is in a combination of two or more such units which are located at the same site and which in the aggregate have a design capability of consuming any fuel (ormixture thereof) at a fuel heat input rate of 250 million Btu's per hour or greater.
 
 &emsp;(B) The terms "major fuel-burning installation" and "installation" do not include—
 
@@ -204,7 +204,7 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 (2) The application of paragraph (1) with respect to the use of natural gas by any powerplant shall be conditioned on the person using such natural gas submitting to the Secretary a report not later than one year after certification is made under paragraph (1), and annually thereafter, containing the following information:
 
-&emsp;(A) the source, amount, quality, and point of delivery to the pipeline of the synthetic gas to which paragraph (1) applied during the annual period ending with the calendar month preceding the date of such report; and
+&emsp;(A) the source, amount, quality, and point of delivery to the pipeline of the synthetic gas towhich paragraph (1) applied during the annual period ending with the calendar month preceding the date of such report; and
 
 &emsp;(B) the amount, quality, and point of delivery by the pipeline to such person of the natural gas covered by paragraph (1) which is used by the person during such annual period.
 
@@ -213,6 +213,8 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 (4) For purposes of this subsection, the term "pipeline" means any interstate or intrastate pipeline or local distribution company.
 
 (Pub. L. 95–620, title I, §103, Nov. 9, 1978, 92 Stat. 3292; Pub. L. 100–42, §1(c)(2), May 21, 1987, 101 Stat. 310.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -245,6 +247,8 @@ Subsec. (b)(1)(D). Pub. L. 100–42, §1(c)(2)(G), substituted a period for ", 
 Subsec. (b)(2). Pub. L. 100–42, §1(c)(2)(F), struck out "or major fuel-burning installation" after "by any powerplant" in introductory provisions.
 
 Subsec. (b)(3). Pub. L. 100–42, §1(c)(2)(H), struck out par. (3) which read as follows: "In the case of any boiler subject to a prohibition under section 8371 of this title, the preceding provisions of this subsection shall apply with respect to such boiler to the same extent and in the same manner as they apply in the case of major fuel-burning installations."
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

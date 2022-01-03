@@ -50,19 +50,27 @@ In this section:
 
 &emsp;The term "institution of higher education" has the meaning given the term in section 1001 of title 20.
 
-#### (6) Minority-serving institution
+#### (6) Mine land
+
+&emsp;The term "mine land" means—
+
+&emsp;&emsp;(A) land subject to titles IV and V of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1231 et seq.; 30 U.S.C. 1251 et seq.); and
+
+&emsp;&emsp;(B) land that has been claimed or patented subject to sections 2319 through 2344 of the Revised Statutes (commonly known as the "Mining Law of 1872") (30 U.S.C. 22 et seq.).
+
+#### (7) Minority-serving institution
 
 &emsp;The term "minority-serving institution" has the meaning given the term "eligible institution" in section 1067q(a) of title 20.
 
-#### (7) National Laboratory
+#### (8) National Laboratory
 
 &emsp;The term "National Laboratory" has the meaning given such term in section 15801(3) of this title.
 
-#### (8) Native Hawaiian community-based organization
+#### (9) Native Hawaiian community-based organization
 
 &emsp;The term "Native Hawaiian community-based organization" has the meaning given the term in section 7517 of title 20.
 
-#### (9) Photovoltaic device
+#### (10) Photovoltaic device
 
 &emsp;The term "photovoltaic device" means—
 
@@ -72,15 +80,15 @@ In this section:
 
 &emsp;&emsp;(C) the electronic and electrical components of a device described in subparagraph (A).
 
-#### (10) Program
+#### (11) Program
 
 &emsp;The term "program" means the program established under subsection (b)(1)(A).
 
-#### (11) Secretary
+#### (12) Secretary
 
 &emsp;The term "Secretary" means the Secretary of Energy.
 
-#### (12) Solar energy
+#### (13) Solar energy
 
 &emsp;The term "solar energy" means—
 
@@ -88,15 +96,15 @@ In this section:
 
 &emsp;&emsp;(B) energy resulting from a chemical reaction caused by radiation recently originated in the Sun.
 
-#### (13) Territory or freely associated state
+#### (14) Territory or freely associated state
 
 &emsp;The term "territory or freely associated state" has the meaning given the term "insular area" in section 3103 of title 7.
 
-#### (14) Tribal energy development organization
+#### (15) Tribal energy development organization
 
 &emsp;The term "Tribal energy development organization" has the meaning given the term "tribal energy development organization" in section 3501 of title 25.
 
-#### (15) Tribal organization
+#### (16) Tribal organization
 
 &emsp;The term "Tribal organization" has the meaning given the term in section 5304 of title 25.
 
@@ -196,7 +204,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(v) Methods to improve the lifetime, maintenance, decommissioning, recycling, reuse, and sustainability of solar energy components and systems, including technologies and strategies that reduce the use of energy, water, critical materials, and other commodities that are determined to be vulnerable to disruption.
 
-&emsp;&emsp;&emsp;(vi) Solar energy forecasting, modeling, and atmospheric measurement systems,including for small-scale, large-scale, and aggregated systems.
+&emsp;&emsp;&emsp;(vi) Solar energy forecasting, modeling, and atmospheric measurement systems, including for small-scale, large-scale, and aggregated systems.
 
 &emsp;&emsp;&emsp;(vii) Integrated solar energy systems that incorporate diverse—
 
@@ -264,7 +272,7 @@ In this section:
 
 #### (B) Priority
 
-&emsp;&emsp;In awarding grants under subparagraph (A), to the extent practicable, the Secretary shall give priority to solar energy manufacturing projects that—
+&emsp;&emsp;In awarding grants under subparagraph (A), to the extent practicable, the Secretaryshall give priority to solar energy manufacturing projects that—
 
 &emsp;&emsp;&emsp;(i) increase efficiency and cost effectiveness in—
 
@@ -288,7 +296,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;In addition to the program activities described in paragraph (2), in carrying out theprogram, the Secretary shall award financial assistance to eligible entities for research, development, demonstration, and commercialization projects to create innovative and practical approaches to increase the reuse and recycling of solar energy technologies, including—
+&emsp;&emsp;In addition to the program activities described in paragraph (2), in carrying out the program, the Secretary shall award financial assistance to eligible entities for research, development, demonstration, and commercialization projects to create innovative and practical approaches to increase the reuse and recycling of solar energy technologies, including—
 
 &emsp;&emsp;&emsp;(i) by increasing the efficiency and cost effectiveness of the recovery of raw materials from solar energy technology components and systems, including enabling technologies such as inverters;
 
@@ -350,7 +358,7 @@ In this section:
 
 #### (B) Inclusion
 
-&emsp;&emsp;As a part of the report described in subparagraph (A), the Secretary shall include a study that examines the viable market opportunities available for solar energy technology manufacturing in the United States, including—
+&emsp;&emsp;As a part of the report described in subparagraph (A), the Secretary, in consultation with the Secretary of the Interior and the Administrator of the Environmental Protection Agency for purposes of clause (iv), shall include a study that examines the viable market opportunities available for solar energy technology manufacturing in the United States, including—
 
 &emsp;&emsp;&emsp;(i) a description of—
 
@@ -366,9 +374,11 @@ In this section:
 
 &emsp;&emsp;&emsp;(ii) policy recommendations for enhancing solar energy technology manufacturing in the United States;
 
-&emsp;&emsp;&emsp;(iii) a 10-year target and plan to enhance the competitiveness of solar energy technology manufacturing in the United States; and
+&emsp;&emsp;&emsp;(iii) a 10-year target and plan to enhance the competitiveness of solar energy technology manufacturing in the United States;
 
-&emsp;&emsp;&emsp;(iv) any other research areas as determined by the Secretary.
+&emsp;&emsp;&emsp;(iv) a description of the technical and economic viability of siting solar energy technologies on current and former mine land, including necessary interconnection and transmission siting and the impact on local job creation; and
+
+&emsp;&emsp;&emsp;(v) any other research areas as determined by the Secretary.
 
 #### (C) Preparation
 
@@ -384,11 +394,33 @@ In this section:
 
 &emsp;There is authorized to be appropriated to the Secretary to carry out the program $300,000,000 for each of fiscal years 2021 through 2025.
 
-(Pub. L. 116–260, div. Z, title III, §3004, Dec. 27, 2020, 134 Stat. 2504.)
+(Pub. L. 116–260, div. Z, title III, §3004, Dec. 27, 2020, 134 Stat. 2504; Pub. L. 117–58, div. D, title III, §40341, Nov. 15, 2021, 135 Stat. 1030.)
+
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+The Surface Mining Control and Reclamation Act of 1977, referred to in subsec. (a)(6)(A), is Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445. Titles IV and V of the Act are classified generally to subchapters IV (§1231 et seq.) and V (§1251 et seq.), respectively, of chapter 25 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of Title 30 and Tables.
+
+The Mining Law of 1872, referred to in subsec. (a)(6)(B), is act May 10, 1872, ch. 152, 17 Stat. 91, which was incorporated into the Revised Statutes of 1878 as R.S. §§2319 to 2328, 2331, 2333 to 2337, and 2344, which are classified to sections 22 to 24, 26 to 28, 29, 30, 33 to 35, 37, 39 to 42, and 47 of Title 30, Mineral Lands and Mining. For complete classification of such Revised Statutes sections to the Code, see Tables.
 
 #### Codification
 
 Section was enacted as part of the Energy Act of 2020, and not as part of the Energy Policy Act of 2005 which comprises this chapter.
+
+#### Amendments
+
+<b>2021</b>—Subsec. (a)(6) to (16). Pub. L. 117–58, §40341(1), added par. (6) and redesignated former pars. (6) to (15) as (7) to (16), respectively.
+
+Subsec. (b)(6)(B). Pub. L. 117–58, §40341(2)(A), inserted ", in consultation with the Secretary of the Interior and the Administrator of the Environmental Protection Agency for purposes of clause (iv)," after "the Secretary" in introductory provisions.
+
+Subsec. (b)(6)(B)(iv), (v). Pub. L. 117–58, §40341(2)(B)–(D), added cl. (iv) and redesignated former cl. (iv) as (v).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Wage Rate Requirements
+
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of this title.
 
 #### Application
 

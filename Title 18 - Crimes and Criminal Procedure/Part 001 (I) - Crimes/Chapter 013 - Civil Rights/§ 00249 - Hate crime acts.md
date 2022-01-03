@@ -54,7 +54,7 @@ Circumstances described.—For purposes of subparagraph (A), the circumstances d
 
 &emsp;(3)
 
-Offenses occurring in the special maritime or territorial jurisdiction of theunited states.—Whoever, within the special maritime or territorial jurisdiction of the United States, engages in conduct described in paragraph (1) or in paragraph (2)(A) (without regard to whether that conduct occurred in a circumstance described in paragraph (2)(B)) shall be subject to the same penalties as prescribed in those paragraphs.
+Offenses occurring in the special maritime or territorial jurisdiction of the united states.—Whoever, within the special maritime or territorial jurisdiction of the United States, engages in conduct described in paragraph (1) or in paragraph (2)(A) (without regard to whether that conduct occurred in a circumstance described in paragraph (2)(B)) shall be subject to the same penalties as prescribed in those paragraphs.
 
 &emsp;(4)
 
@@ -106,11 +106,17 @@ Offenses not resulting in death.—Except as provided in paragraph (2), no perso
 
 Death resulting offenses.—An indictment or information alleging that an offense under this section resulted in death may be found or instituted at any time without limitation.
 
-(Added and amended Pub. L. 111–84, div. E, §§4707(a), 4711, Oct. 28, 2009, 123 Stat. 2838, 2842.)
+(e)
+
+Supervised Release.—If a court includes, as a part of a sentence of imprisonment imposed for a violation of subsection (a), a requirement that the defendant be placed on a term of supervised release after imprisonment under section 3583, the court may order, as an explicit condition of supervised release, that the defendant undertake educational classes or community service directly related to the community harmed by the defendant's offense.
+
+(Added and amended Pub. L. 111–84, div. E, §§4707(a), 4711, Oct. 28, 2009, 123 Stat. 2838, 2842; Pub. L. 117–13, §5(h), May 20, 2021, 135 Stat. 272.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (e). Pub. L. 117–13 added subsec. (e).
 
 <b>2009</b>—Subsec. (a)(4). Pub. L. 111–84, §4711, added par. (4).
 

@@ -38,7 +38,7 @@
 
 #### (ii) Safe harbor
 
-&emsp;&emsp;&emsp;A creditor that uses the information retrieved from the Defense Manpower Data Center under clause (i) with respect to a servicemember has not failed to treat thedebt of the servicemember in accordance with subsection (a) if—
+&emsp;&emsp;&emsp;A creditor that uses the information retrieved from the Defense Manpower Data Center under clause (i) with respect to a servicemember has not failed to treat the debt of the servicemember in accordance with subsection (a) if—
 
 &emsp;&emsp;&emsp;&emsp;(I) such information indicates that, on the date the creditor retrieves such information, the servicemember is not on active duty; and
 
@@ -70,6 +70,8 @@ Whoever knowingly violates subsection (a) shall be fined as provided in title 18
 
 (Oct. 17, 1940, ch. 888, title II, §207, as added Pub. L. 108–189, §1, Dec. 19, 2003, 117 Stat. 2844; amended Pub. L. 110–289, div. B, title II, §2203(b), July 30, 2008, 122 Stat. 2849; Pub. L. 110–389, title VIII, §807, Oct. 10, 2008, 122 Stat. 4189; Pub. L. 111–275, title III, §303(b)(1), Oct. 13, 2010, 124 Stat. 2877; Pub. L. 115–232, div. A, title V, §600, Aug. 13, 2018, 132 Stat. 1793.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 527 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
@@ -82,13 +84,15 @@ A prior section 207 of act Oct. 17, 1940, ch. 888, art. II, as added Oct. 21, 19
 
 <b>2018</b>—Subsec. (b)(1). Pub. L. 115–232 amended par. (1) generally. Prior to amendment, text read as follows: "In order for an obligation or liability of a servicemember to be subject to the interest rate limitation in subsection (a), the servicemember shall provide to the creditor written notice and a copy of the military orders calling the servicemember to military service and any orders further extending military service, not later than 180 days after the date of the servicemember's termination or release from military service."
 
-<b>2010</b>—Subsec. (f). Pub. L. 111–275 struck out subsec. (f). Text read as follows: "The penalties provided under subsection (e) are in addition to and do not preclude any other remedy available under law to a person claiming relief under this section, including any award for consequential or punitive damages."
+<b>2010</b>—Subsec. (f). Pub. L. 111–275 struck out subsec. (f). Text read as follows: "The penalties provided undersubsection (e) are in addition to and do not preclude any other remedy available under law to a person claiming relief under this section, including any award for consequential or punitive damages."
 
 <b>2008</b>—Subsec. (a)(1). Pub. L. 110–289, §2203(b)(1), substituted "in excess of 6 percent—" for "in excess of 6 percent per year during the period of military service." and added subpars. (A) and (B).
 
 Subsec. (d). Pub. L. 110–289, §2203(b)(2), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: "As used in this section, the term 'interest' includes service charges, renewal charges, fees, or any other charges (except bona fide insurance) with respect to an obligation or liability."
 
 Subsecs. (e), (f). Pub. L. 110–389 added subsecs. (e) and (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

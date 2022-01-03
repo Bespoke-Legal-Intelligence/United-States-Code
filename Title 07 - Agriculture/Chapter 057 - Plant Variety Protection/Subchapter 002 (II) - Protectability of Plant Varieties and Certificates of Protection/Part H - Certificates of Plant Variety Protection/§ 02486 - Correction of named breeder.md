@@ -4,9 +4,13 @@ An error as to the naming of a breeder in the application, without deceptive int
 
 (Pub. L. 91–577, title II, §86, Dec. 24, 1970, 84 Stat. 1552; Pub. L. 103–349, §13(n), Oct. 6, 1994, 108 Stat. 3143.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–349 substituted "the Secretary" for "him" in first sentence and "the person" for "he" in third sentence.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

@@ -82,6 +82,8 @@ In any action under subsection (a), the franchisee shall have the burden of prov
 
 (Pub. L. 95–297, title I, §105, June 19, 1978, 92 Stat. 331; Pub. L. 103–371, §4, Oct. 19, 1994, 108 Stat. 3485; Pub. L. 110–140, title II, §241(b), Dec. 19, 2007, 121 Stat. 1540.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Rules of Civil Procedure, referred to in subsec. (d)(1), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
@@ -91,6 +93,8 @@ The Federal Rules of Civil Procedure, referred to in subsec. (d)(1), are set out
 <b>2007</b>—Subsecs. (a), (b)(1), (d)(1)(B). Pub. L. 110–140 substituted "2802, 2803, or 2807" for "2802 or 2803" wherever appearing.
 
 <b>1994</b>—Subsec. (f). Pub. L. 103–371 added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

@@ -34,6 +34,8 @@ Unless otherwise provided in regulations, all determinations under this subtitle
 
 (Added Pub. L. 99–514, title XII, §1261(a), Oct. 22, 1986, 100 Stat. 2585.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Pub. L. 99–514, title XII, §1261(e), Oct. 22, 1986, 100 Stat. 2591, provided that:

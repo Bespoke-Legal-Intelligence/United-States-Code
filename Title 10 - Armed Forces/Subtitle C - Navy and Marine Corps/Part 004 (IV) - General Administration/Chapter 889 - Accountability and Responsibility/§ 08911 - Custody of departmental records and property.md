@@ -8,9 +8,13 @@ The Secretary of the Navy has custody and charge of all books, records, papers, 
 
 A prior section 8911 was renumbered section 9311 of this title.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7861 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

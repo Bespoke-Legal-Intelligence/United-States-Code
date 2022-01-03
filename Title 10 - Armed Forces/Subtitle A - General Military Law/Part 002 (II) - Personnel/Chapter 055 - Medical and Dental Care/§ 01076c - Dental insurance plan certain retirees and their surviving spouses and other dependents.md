@@ -2,7 +2,7 @@
 
 (a)
 
-Requirement for Plan.—(1) The Secretary of Defense shall establish a dental insuranceplan for retirees of the uniformed services, certain unremarried surviving spouses, and dependents in accordance with this section.
+Requirement for Plan.—(1) The Secretary of Defense shall establish a dental insurance plan for retirees of the uniformed services, certain unremarried surviving spouses, and dependents in accordance with this section.
 
 (2) The Secretary may satisfy the requirement under paragraph (1) by entering into an agreement with the Director of the Office of Personnel Management to allow persons described in subsection (b) to enroll in an insurance plan under chapter 89A of title 5 that provides benefits similar to those benefits required to be provided under subsection (d).
 
@@ -80,7 +80,7 @@ Voluntary Disenrollment.—(1) With respect to enrollment in the dental insuranc
 
 (2) The circumstances described in paragraph (1)(B) shall include—
 
-&emsp;(A) a case in which a retired member, surviving spouse, or dependent of a retired member who is also a Federal employee is assignedto a location outside the jurisdiction of the dental insurance plan established under subsection (a) that prevents utilization of dental benefits under the plan;
+&emsp;(A) a case in which a retired member, surviving spouse, or dependent of a retired member who is also a Federal employee is assigned to a location outside the jurisdiction of the dental insurance plan established under subsection (a) that prevents utilization of dental benefits under the plan;
 
 &emsp;(B) a case in which a retired member, surviving spouse, or dependent of a retired member is prevented by a serious medical condition from being able to obtain benefits under the plan;
 
@@ -101,6 +101,8 @@ Definitions.—In this section:
 &emsp;(3) The term "retired pay" includes retainer pay.
 
 (Added Pub. L. 104–201, div. A, title VII, §703(a)(1), Sept. 23, 1996, 110 Stat. 2588; amended Pub. L. 105–85, div. A, title VII, §§701, 733(b), 734, Nov. 18, 1997, 111 Stat. 1807, 1812, 1813; Pub. L. 105–261, div. A, title VII, §702, Oct. 17, 1998, 112 Stat. 2056; Pub. L. 106–65, div. A, title VII, §704, Oct. 5, 1999, 113 Stat. 683; Pub. L. 106–398, §1 \[\[div. A\], title VII, §726, title X, §1087(a)(6)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–187, 1654A–290; Pub. L. 114–328, div. A, title VII, §715(b)(3), Dec. 23, 2016, 130 Stat. 2222.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -129,6 +131,8 @@ Subsec. (b)(4)(C). Pub. L. 105–85, §701(1)(B), (2), (3), added subpar. (C).
 Subsec. (c)(2). Pub. L. 105–85, §733(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The amount of the premiums payable by a member entitled to retired pay shall be deducted and withheld from the retired pay and shall be disbursed to pay the premiums. The regulations prescribed under subsection (h) shall specify the procedures for payment of the premiums by other enrolled members and by enrolled surviving spouses."
 
 Subsec. (h). Pub. L. 105–85, §734(b)(2), substituted "other administering Secretaries" for "Secretary of Transportation".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2016 Amendment
 

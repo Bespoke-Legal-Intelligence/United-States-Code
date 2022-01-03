@@ -1,5 +1,7 @@
 ### §5731a. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 5731a was editorially reclassified as section 11276 of Title 34, Crime Control and Law Enforcement.

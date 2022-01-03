@@ -16,7 +16,7 @@ Witness Fees and Mileage.—A witness summoned under subsection (a) of this sect
 
 (c)
 
-Civil Actions To Enforce.—A civil action to enforce a subpena or order of the Secretaryunder subsection (a) of this section may be brought in the United States district court for the judicial district in which the proceeding by the Secretary is conducted. The court may punish a failure to obey an order of the court to comply with the subpena or order of the Secretary as a contempt of court.
+Civil Actions To Enforce.—A civil action to enforce a subpena or order of the Secretary under subsection (a) of this section may be brought in the United States district court for the judicial district in which the proceeding by the Secretary is conducted. The court may punish a failure to obey an order of the court to comply with the subpena or order of the Secretary as a contempt of court.
 
 (d)
 

@@ -12,7 +12,7 @@ The Secretary shall ensure that the processes used in developing regulations und
 
 #### (1) Exception to permit requirement
 
-&emsp;The Secretary may issue regulations to allow the importation, entry, exportation, or movement in interstate commerce of specified plant pests without further restriction if theSecretary finds that a permit under subsection (a) is not necessary.
+&emsp;The Secretary may issue regulations to allow the importation, entry, exportation, or movement in interstate commerce of specified plant pests without further restriction if the Secretary finds that a permit under subsection (a) is not necessary.
 
 #### (2) Petition to add or remove plant pests from regulation
 
@@ -51,6 +51,8 @@ Regulations issued by the Secretary to implement subsections (a), (c), and (d) m
 &emsp;(4) be subject to remedial measures the Secretary determines to be necessary to prevent the spread of plant pests.
 
 (Pub. L. 106–224, title IV, §411, June 20, 2000, 114 Stat. 440.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

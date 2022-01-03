@@ -14,6 +14,8 @@ The action of any officer, employee, or agent of the Secretary in carrying out t
 
 (Pub. L. 106–224, title IV, §442, June 20, 2000, 114 Stat. 455; Pub. L. 107–171, title VII, §7504(b), May 13, 2002, 116 Stat. 466; Pub. L. 110–234, title X, §10203(b), May 22, 2008, 122 Stat. 1342; Pub. L. 110–246, §4(a), title X, §10203(b), June 18, 2008, 122 Stat. 1664, 2104.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsec. (c), is Pub. L. 106–224, June 20, 2000, 114 Stat. 358, known as the Agricultural Risk Protection Act of 2000. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 1501 of this title and Tables.
@@ -31,6 +33,8 @@ Similar provisions relating to authority to transfer funds for emergency arrest 
 <b>2008</b>—Subsec. (c). Pub. L. 110–246, §10203(b), struck out "of longer than 60 days" after "review".
 
 <b>2002</b>—Subsec. (c). Pub. L. 107–171 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

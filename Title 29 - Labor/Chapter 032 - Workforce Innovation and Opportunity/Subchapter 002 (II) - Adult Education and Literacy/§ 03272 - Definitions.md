@@ -18,7 +18,7 @@ In this subchapter:
 
 #### (3) Eligible agency
 
-&emsp;The term "eligible agency" means the sole entity or agency in a State or an outlying area responsible for administering or supervising policy for adult education and literacy activities in the State or outlying area, respectively, consistent with the law of the State or outlying area, respectively.
+&emsp;The term "eligible agency" means the sole entity or agency in a State or an outlying arearesponsible for administering or supervising policy for adult education and literacy activities in the State or outlying area, respectively, consistent with the law of the State or outlying area, respectively.
 
 #### (4) Eligible individual
 
@@ -152,7 +152,7 @@ In this subchapter:
 
 #### Amendments
 
-<b>2015</b>—Par. (8). Pub. L. 114–95, which directed general amendment of "Paragraph (8) of section 203 of theAdult Education and Literacy Act", was executed by amending par. (8) of this section, which is section 203 of the Adult Education and Family Literacy Act, Pub. L. 113–128, to reflect the probable intent of Congress. Prior to amendment, text read as follows: "The term 'essential components of reading instruction' has the meaning given the term in section 6368 of title 20."
+<b>2015</b>—Par. (8). Pub. L. 114–95, which directed general amendment of "Paragraph (8) of section 203 of the Adult Education and Literacy Act", was executed by amending par. (8) of this section, which is section 203 of the Adult Education and Family Literacy Act, Pub. L. 113–128, to reflect the probable intent of Congress. Prior to amendment, text read as follows: "The term 'essential components of reading instruction' has the meaning given the term in section 6368 of title 20."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

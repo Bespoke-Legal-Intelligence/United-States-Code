@@ -6,9 +6,13 @@ Upon approval by the Congress the constitution shall become effective in accorda
 
 (July 3, 1950, ch. 446, §3, 64 Stat. 319.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was not enacted as part of the Puerto Rican Federal Relations Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Constitution of the Commonwealth of Puerto Rico
 

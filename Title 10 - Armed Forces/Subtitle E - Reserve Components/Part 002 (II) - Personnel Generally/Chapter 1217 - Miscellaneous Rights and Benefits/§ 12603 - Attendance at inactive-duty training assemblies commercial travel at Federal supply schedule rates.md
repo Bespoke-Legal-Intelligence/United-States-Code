@@ -18,6 +18,8 @@ Treatment of Transportation as Use by Military Departments.—For the purposes o
 
 (Added Pub. L. 105–261, div. A, title VI, §635(a), Oct. 17, 1998, 112 Stat. 2044; amended Pub. L. 107–217, §3(b)(41), Aug. 21, 2002, 116 Stat. 1298.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (d). Pub. L. 107–217 substituted "section 501 of title 40" for "section 201(a) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481(a))".

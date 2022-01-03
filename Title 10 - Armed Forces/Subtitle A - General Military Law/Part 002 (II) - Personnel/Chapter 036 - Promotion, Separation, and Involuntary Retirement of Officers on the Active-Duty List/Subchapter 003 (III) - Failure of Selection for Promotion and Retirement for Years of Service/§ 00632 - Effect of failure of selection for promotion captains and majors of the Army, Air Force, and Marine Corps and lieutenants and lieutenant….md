@@ -1,6 +1,6 @@
 ### §632. Effect of failure of selection for promotion: captains and majors of the Army, Air Force, and Marine Corps and lieutenants and lieutenant commanders of the Navy
 
-(a) Except an officer of the Navy and Marine Corps who is an officer designated for limited duty (to whom section 8146(e) or 8372 of this title applies) and except as provided under section 637(a) of this title, each officer of the Army, Air Force, Marine Corps, or Space Force on the active-duty list who holds the grade of captain or major, and each officer of the Navy on the active-duty list who holds the grade of lieutenant or lieutenant commander, who has failed of selection for promotion to the next higher grade for the second time and whose name is not on a list of officers recommended for promotion to the next higher grade shall—
+(a) Except an officer of the Navy and Marine Corps who is an officer designated for limited duty (to whom section 8146(e) or 8372 of this title applies) and except as provided under section637(a) of this title, each officer of the Army, Air Force, Marine Corps, or Space Force on the active-duty list who holds the grade of captain or major, and each officer of the Navy on the active-duty list who holds the grade of lieutenant or lieutenant commander, who has failed of selection for promotion to the next higher grade for the second time and whose name is not on a list of officers recommended for promotion to the next higher grade shall—
 
 &emsp;(1) except as provided in paragraph (3) and in subsection (c), be discharged on the date requested by him and approved by the Secretary concerned, which date shall be not later than the first day of the seventh calendar month beginning after the month in which the President approves the report of the board which considered him for the second time;
 
@@ -17,6 +17,8 @@
 (3) This subsection applies to a medical officer or dental officer or an officer appointed in a medical skill other than as a medical officer or dental officer (as defined in regulations prescribed by the Secretary of Defense).
 
 (Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2862; amended Pub. L. 107–107, div. A, title V, §505(d)(3), (4)(C), Dec. 28, 2001, 115 Stat. 1088; Pub. L. 108–136, div. A, title V, §505(a), (b), Nov. 24, 2003, 117 Stat. 1457; Pub. L. 108–375, div. A, title X, §1084(d)(6), Oct. 28, 2004, 118 Stat. 2061; Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840; Pub. L. 116–283, div. A, title IX, §924(b)(3)(J), Jan. 1, 2021, 134 Stat. 3821.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -35,6 +37,8 @@ Subsec. (c). Pub. L. 108–136, §505(a)(2), added subsec. (c).
 <b>2001</b>—Pub. L. 107–107, §505(d)(4)(C), struck out "regular" before "captains and majors" and before "lieutenants and lieutenant commanders" in section catchline.
 
 Subsec. (a). Pub. L. 107–107, §505(d)(3), in introductory provisions, substituted "Army, Air Force, or Marine Corps on the active-duty list" for "Regular Army, Regular Air Force, or Regular Marine Corps" and "Navy on the active-duty list" for "Regular Navy" and struck out "regular" before "grade" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

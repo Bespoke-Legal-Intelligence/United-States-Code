@@ -36,7 +36,9 @@ In carrying out the flood insurance program the Administrator shall, to the maxi
 
 > in accordance with the provisions of subchapter II.
 
-(Pub. L. 90–448, title XIII, §1304, Aug. 1, 1968, 82 Stat. 574; Pub. L. 98–181, title I \[title IV, §451(d)(1), (2)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 103–325, title V, §555(a), Sept. 23, 1994, 108 Stat.2274; Pub. L. 108–264, title I, §105(a), June 30, 2004, 118 Stat. 723; Pub. L. 112–141, div. F, title II, §§100225(f), 100238(b)(1), July 6, 2012, 126 Stat. 942, 958.)
+(Pub. L. 90–448, title XIII, §1304, Aug. 1, 1968, 82 Stat. 574; Pub. L. 98–181, title I \[title IV, §451(d)(1), (2)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 103–325, title V, §555(a), Sept. 23, 1994, 108 Stat. 2274; Pub. L. 108–264, title I, §105(a), June 30, 2004, 118 Stat. 723; Pub. L. 112–141, div. F, title II, §§100225(f), 100238(b)(1), July 6, 2012, 126 Stat. 942, 958.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -69,6 +71,8 @@ Subsec. (b)(4). Pub. L. 108–264, §105(a)(4), added par. (4).
 <b>1983</b>—Subsec. (a). Pub. L. 98–181, §451(d)(2), substituted "Director of the Federal Emergency Management Agency" for "Secretary of Housing and Urban Development".
 
 Subsec. (b). Pub. L. 98–181, §451(d)(1), substituted "Director" for "Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 
@@ -126,11 +130,11 @@ Effective dates.—Notwithstanding section 1306(c) of the National Flood Insuran
 
 &emsp;&emsp;"(A) be deemed to take effect on the date that is 30 days after the date on which all obligations for the eligible coverage (including completion of the application and payment of any initial premiums owed) are satisfactorily completed; and
 
-&emsp;&emsp;"(B) cover damage to property occurring after the effective date described in subparagraph (A) that resulted from the flooding of the Missouri River that commenced on June 1, 2011, if the property did not suffer damage or loss as a result of such flooding before the effective date described in subparagraph (A).
+&emsp;&emsp;"(B) cover damage to property occurring after the effective date described in subparagraph (A) that resulted from the flooding of the Missouri Riverthat commenced on June 1, 2011, if the property did not suffer damage or loss as a result of such flooding before the effective date described in subparagraph (A).
 
 "(c)
 
-Timely Notification.—Not later than 90 days after the date on which the Administrator submits the report required under subsection (a)(2), the Administrator shall, taking into consideration the results ofthe review under subsection (a)(1)(B), develop procedures for providing timely notification, to the extent practicable, to policyholders who have purchased flood insurance coverage under the National Flood Insurance Program within 30 days of a determination of a flood in progress and who may be affected by the flood of the determination and how the determination may affect their coverage."
+Timely Notification.—Not later than 90 days after the date on which the Administrator submits the report required under subsection (a)(2), the Administrator shall, taking into consideration the results of the review under subsection (a)(1)(B), develop procedures for providing timely notification, to the extent practicable, to policyholders who have purchased flood insurance coverage under the National Flood Insurance Program within 30 days of a determination of a flood in progress and who may be affected by the flood of the determination and how the determination may affect their coverage."
 
 \[For definitions of terms used in section 100227 of Pub. L. 112–141, set out above, see section 4004 of this title.\]
 
@@ -368,7 +372,7 @@ Study of determination fees.—Conduct a study of—
 
 &emsp;&emsp;"(A) the reasonableness of fees charged pursuant to 102(h) of the Flood Disaster Protection Act of 1973 \[42 U.S.C. 4012a(h)\] for costs of determining whether the property securing a loan is located in an area having special flood hazards; and
 
-&emsp;&emsp;"(B) whether the fees charged pursuant to such section by lenders and servicers are greater thanthe amounts paid by such lenders and servicers to persons actually conducting such determinations and the extent to which the fees exceed such amounts.
+&emsp;&emsp;"(B) whether the fees charged pursuant to such section by lenders and servicers are greater than the amounts paid by such lenders and servicers to persons actually conducting such determinations and the extent to which the fees exceed such amounts.
 
 "(d)
 

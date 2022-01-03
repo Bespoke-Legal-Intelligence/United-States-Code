@@ -32,7 +32,7 @@
 
 #### (C) Administration of Fund
 
-&emsp;&emsp;The Secretary, acting through the NTIA Administrator, in consultation with the Commission, the Under Secretary of Commerce for Standards and Technology, theSecretary of Homeland Security, the Secretary of Defense, and the Director of the Intelligence Advanced Research Projects Activity of the Office of the Director of National Intelligence, shall establish criteria for grants awarded under this paragraph, by the NTIA Administrator and administer the Innovation Fund, to support the following:
+&emsp;&emsp;The Secretary, acting through the NTIA Administrator, in consultation with the Commission, the Under Secretary of Commerce for Standards and Technology, the Secretary of Homeland Security, the Secretary of Defense, and the Director of the Intelligence Advanced Research Projects Activity of the Office of the Director of National Intelligence, shall establish criteria for grants awarded under this paragraph, by the NTIA Administrator and administer the Innovation Fund, to support the following:
 
 &emsp;&emsp;&emsp;(i) Promoting and deploying technology, including software, hardware, and microprocessing technology, that will enhance competitiveness in the fifth-generation (commonly known as "5G") and successor wireless technology supply chains that use open and interoperable interface radio access networks.
 

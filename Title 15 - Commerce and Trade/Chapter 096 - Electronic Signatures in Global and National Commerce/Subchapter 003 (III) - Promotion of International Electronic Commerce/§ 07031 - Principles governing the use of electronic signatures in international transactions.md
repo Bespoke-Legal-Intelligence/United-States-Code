@@ -20,7 +20,7 @@
 
 #### (b) Consultation
 
-In conducting the activities required by this section, the Secretary shall consult with users and providers of electronic signature products and services and other interested persons.
+In conducting the activities required by this section, the Secretary shall consult with usersand providers of electronic signature products and services and other interested persons.
 
 #### (c) Definitions
 

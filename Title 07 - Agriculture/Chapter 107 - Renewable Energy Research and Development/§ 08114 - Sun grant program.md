@@ -146,7 +146,7 @@ The Secretary shall establish and carry out a program to provide grants to the s
 
 #### (1) In general
 
-&emsp;Subject to the availability of funds under subsection (g), and in cooperation with land-grant colleges and universities and private industry, the sun grant centers and subcenter shall jointly develop and submit to the Secretary for approval a plan for addressing the bioenergy, biomass, and bioproducts research priorities of the Department of Agriculture and other appropriate Federal agencies at the State and regional levels.
+&emsp;Subject to the availability of funds under subsection (g), and in cooperation with land-grant colleges and universities and private industry, the sun grant centers and subcenter shall jointly develop and submit to the Secretary for approval a plan for addressing the bioenergy, biomass, and bioproducts research priorities of the Department of Agricultureand other appropriate Federal agencies at the State and regional levels.
 
 #### (2) Funding
 
@@ -173,6 +173,8 @@ Not later than 90 days after the end of each fiscal year, a sun grant center or 
 There is authorized to be appropriated to carry out this section $75,000,000 for each of fiscal years 2008 through 2023, of which not more than $4,000,000 for each fiscal year shall be made available to carry out subsection (e).
 
 (Pub. L. 110–234, title VII, §7526, May 22, 2008, 122 Stat. 1274; Pub. L. 110–246, §4(a), title VII, §7526, June 18, 2008, 122 Stat. 1664, 2035; Pub. L. 113–79, title VII, §§7128(b)(5), 7516, Feb. 7, 2014, 128 Stat. 879, 903; Pub. L. 115–334, title VII, §§7414, 7614(b)(4)(A), Dec. 20, 2018, 132 Stat. 4819, 4836.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -225,6 +227,8 @@ Subsec. (d)(2) to (4). Pub. L. 113–79, §7516(a)(4)(B), (C), redesignated pars
 Subsec. (f)(1). Pub. L. 113–79, §7516(b), substituted "subsection (c)(1)(C)(i)" for "subsection (c)(1)(D)(i)".
 
 Subsec. (g). Pub. L. 113–79, §7516(a)(5), substituted "2018" for "2012".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

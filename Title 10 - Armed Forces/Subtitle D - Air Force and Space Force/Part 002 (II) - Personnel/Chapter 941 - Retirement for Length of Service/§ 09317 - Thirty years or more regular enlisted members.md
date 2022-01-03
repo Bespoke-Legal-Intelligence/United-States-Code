@@ -24,7 +24,9 @@ Mar. 2, 1907, ch. 2515, §1 (1st 35 words), 34 Stat. 1217.
 
 Feb. 14, 1885, ch. 67 (less 43d through 53d words); restated Sept. 30, 1890, ch. 1125 (less 43d through 53d words), 26 Stat. 504.
 
-The word "regular" is inserted to conform to an opinion of the Judge Advocate General of the Army (JAGA 1953/2301, 23 Mar. 1953). The words "upon his request" are substituted for the words "upon making application to the President", in 10:947, and "by application to the President", in 10:947a. The words "either as a private or non-commissioned officer, or both", in 10:947a, are omitted as surplusage. The words "shall be retired" are substituted for the words "be placed upon the retired list", in 10:947, and "be placed on the retired list heretofore created", in 10:947a. The words "computed under section 8925 of this title" are inserted for clarity. The 21 words before the proviso and the proviso of the Act of February 14, 1885, as restated, are not contained in 10:947a. They are also omitted from the revised section, since the proviso is executed and the 21 words before the proviso are omitted as covered by formula E of section 8991 of this title.
+The word "regular" is inserted to conform to an opinion of the Judge Advocate General of the Army (JAGA 1953/2301, 23 Mar. 1953). The words "upon his request" are substituted for the words "upon making application to the President", in 10:947, and "by application to the President", in 10:947a. The words "either as a private or non-commissioned officer, or both", in 10:947a, are omitted as surplusage. The words "shall be retired" are substituted for the words "be placed upon the retired list", in 10:947, and "be placed on the retired list heretofore created", in 10:947a. The words "computed under section 8925 of this title" are inserted for clarity. The21 words before the proviso and the proviso of the Act of February 14, 1885, as restated, are not contained in 10:947a. They are also omitted from the revised section, since the proviso is executed and the 21 words before the proviso are omitted as covered by formula E of section 8991 of this title.
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -35,6 +37,8 @@ A prior section 9317 was renumbered section 9417 of this title.
 <b>2021</b>—Pub. L. 116–283 inserted "or the Space Force" after "Air Force".
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 8917 of this title as this section and substituted "section 9325" for "section 8925".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

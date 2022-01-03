@@ -12,7 +12,7 @@ Whenever the Secretary of Labor—
 
 #### (b) Findings of fact by Secretary of Labor; new or modified findings
 
-The findings of fact by the Secretary of Labor, if supported by substantial evidence, shall beconclusive; but the court, for good cause shown, may remand the case to the Secretary of Labor to take further evidence and the Secretary of Labor may thereupon make new or modified findings of fact and may modify his previous action, and shall certify to the court the record of the further proceedings. Such new or modified findings of fact shall likewise be conclusive if supported by substantial evidence.
+The findings of fact by the Secretary of Labor, if supported by substantial evidence, shall be conclusive; but the court, for good cause shown, may remand the case to the Secretary of Labor to take further evidence and the Secretary of Labor may thereupon make new or modifiedfindings of fact and may modify his previous action, and shall certify to the court the record of the further proceedings. Such new or modified findings of fact shall likewise be conclusive if supported by substantial evidence.
 
 #### (c) Affirmance or setting aside of Secretary's action; review by Supreme Court
 
@@ -25,6 +25,8 @@ The court shall have jurisdiction to affirm the action of the Secretary of Labor
 (2) The commencement of judicial proceedings under this section shall stay the Secretary's action for a period of 30 days, and the court may thereafter grant interim relief if warranted, including a further stay of the Secretary's action and including such other relief as may be necessary to preserve status or rights.
 
 (Aug. 14, 1935, ch. 531, title III, §304, as added Pub. L. 91–373, title I, §131(a), Aug. 10, 1970, 84 Stat. 703; amended Pub. L. 96–249, title I, §127(b)(2), May 26, 1980, 94 Stat. 367; Pub. L. 96–265, title IV, §408(b)(2), June 9, 1980, 94 Stat. 469; Pub. L. 96–473, §6(e)(2), Oct. 19, 1980, 94 Stat. 2265; Pub. L. 98–620, title IV, §402(39), Nov. 8, 1984, 98 Stat. 3360; Pub. L. 100–485, title I, §124(b)(2), Oct. 13, 1988, 102 Stat. 2353; Pub. L. 100–628, title IX, §904(c)(1)(B), Nov. 7, 1988, 102 Stat. 3261; Pub. L. 103–152, §4(a)(2), Nov. 24, 1993, 107 Stat. 1517.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -39,6 +41,8 @@ Pub. L. 100–485 substituted "(e), or (h)" for "or (e)".
 <b>1980</b>—Subsec. (a)(2). Pub. L. 96–473 inserted reference to subsec. (e) of section 503 of this title.
 
 Pub. L. 96–249 and Pub. L. 96–265 made identical amendments, substituting "subsection (b), (c), or (d)" for "subsection (b) or (c)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1993 Amendment
 

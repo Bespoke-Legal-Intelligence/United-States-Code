@@ -6,7 +6,7 @@ Notwithstanding any other provision of law, the President may prohibit any artic
 
 #### (b) Prohibition on exports
 
-Notwithstanding any other provision of law, the President may prohibit any goods or technology, including technical data or other information, subject to the jurisdiction of the UnitedStates or exported by any person subject to the jurisdiction of the United States, from being exported to Libya.
+Notwithstanding any other provision of law, the President may prohibit any goods or technology, including technical data or other information, subject to the jurisdiction of the United States or exported by any person subject to the jurisdiction of the United States, from being exported to Libya.
 
 #### (c) "United States" defined
 

@@ -6,9 +6,13 @@
 
 (Aug. 11, 1916, ch. 313, pt. B, §18, as added Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 769; amended Pub. L. 94–582, §20, Oct. 21, 1976, 90 Stat. 2886.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–582 substituted in first sentence "official inspection or weighing function" for "official inspection function".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

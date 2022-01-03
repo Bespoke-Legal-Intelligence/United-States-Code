@@ -34,7 +34,7 @@ Subsection (a) and the provisions relating to wages (pursuant to subsection (a))
 
 &emsp;&emsp;(B) is a blind or disabled individual, as defined under section 216(i)(1) or 1614 of the Social Security Act (42 U.S.C. 416(i)(1); 1382c), and who is unable to comply with this section, or is a primary caretaker of such individual;
 
-&emsp;&emsp;(C) is engaged in a work activity (as such term is defined in section 407(d) of the Social Security Act (42 U.S.C. 607(d)), as in effect on and after July 1, 1997)); <sup>1</sup>
+&emsp;&emsp;(C) is engaged in a work activity (as such term is defined in section 407(d) of the SocialSecurity Act (42 U.S.C. 607(d)), as in effect on and after July 1, 1997)); <sup>1</sup>
 
 &emsp;&emsp;(D) meets the requirements for being exempted from having to engage in a work activity under the State program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.) or under any other welfare program of the State in which the public housing agency is located, including a State-administered welfare-to-work program; or
 
@@ -98,7 +98,7 @@ Subsection (a) and the provisions relating to wages (pursuant to subsection (a))
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding the provisions of section 1437a(a) of this title (relating to family rental contributions) or paragraph (4) or (5) of section 1437a(b) of this title (relating to definition of income and adjusted income), if the welfare or public assistance benefits of a covered family are reduced under a Federal, State, or local law regarding such an assistance program because of any failure of any member of the family to comply with the conditions under the assistance program requiring participation in an economic self-sufficiency program or imposing a work activities requirement, the amount required to be paid by the family as a monthly contribution toward rent may not be decreased, during the period of the reduction, as a result of any decrease in the income of the family (to the extent that the decrease in income is a result of the benefits reduction).
+&emsp;&emsp;Notwithstanding the provisions of section 1437a(a) of this title (relating to family rental contributions) or paragraph (4) or (5) of section 1437a(b) of this title (relating to definition of income and adjusted income), if the welfare or public assistance benefits of a covered family are reduced under a Federal,State, or local law regarding such an assistance program because of any failure of any member of the family to comply with the conditions under the assistance program requiring participation in an economic self-sufficiency program or imposing a work activities requirement, the amount required to be paid by the family as a monthly contribution toward rent may not be decreased, during the period of the reduction, as a result of any decrease in the income of the family (to the extent that the decrease in income is a result of the benefits reduction).
 
 #### (B) No reduction based on time limit for assistance
 
@@ -106,7 +106,7 @@ Subsection (a) and the provisions relating to wages (pursuant to subsection (a))
 
 #### (3) Effect of fraud
 
-&emsp;Notwithstanding the provisions of section 1437a(a) of this title (relating to family rental contributions) or paragraph (4) or (5) of section 1437a(b) of this title (relating to definition of income and adjusted income), if the welfare or public assistance benefits of a covered family are reduced because of an act of fraud by a member of the family under the law or program, the amount required to be paid by the covered family as a monthly contributiontoward rent may not be decreased, during the period of the reduction, as a result of any decrease in the income of the family (to the extent that the decrease in income is a result of the benefits reduction). This paragraph shall apply beginning on October 21, 1998.
+&emsp;Notwithstanding the provisions of section 1437a(a) of this title (relating to family rental contributions) or paragraph (4) or (5) of section 1437a(b) of this title (relating to definition of income and adjusted income), if the welfare or public assistance benefits of a covered family are reduced because of an act of fraud by a member of the family under the law or program, the amount required to be paid by the covered family as a monthly contribution toward rent may not be decreased, during the period of the reduction, as a result of any decrease in the income of the family (to the extent that the decrease in income is a result of the benefits reduction). This paragraph shall apply beginning on October 21, 1998.
 
 #### (4) Notice
 
@@ -148,6 +148,8 @@ For purposes of this section, the term "economic self-sufficiency program" means
 
 (Sept. 1, 1937, ch. 896, title I, §12, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 667; amended Pub. L. 97–35, title III, §322(c), Aug. 13, 1981, 95 Stat. 402; Pub. L. 100–242, title I, §112(b)(5), Feb. 5, 1988, 101 Stat. 1824; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 101–625, title V, §572(2), title IX, §955(b), Nov. 28, 1990, 104 Stat. 4236, 4421; Pub. L. 105–276, title V, §512(a), Oct. 21, 1998, 112 Stat. 2539.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Social Security Act, referred to in subsec. (c)(2)(D), (E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
@@ -175,6 +177,8 @@ Pub. L. 101–625, §572(2), substituted "low-income housing" for "lower income 
 <b>1988</b>—Pub. L. 100–242 struck out "annual" before "contributions".
 
 <b>1981</b>—Pub. L. 97–35 substituted reference to lower income for reference to low-income.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

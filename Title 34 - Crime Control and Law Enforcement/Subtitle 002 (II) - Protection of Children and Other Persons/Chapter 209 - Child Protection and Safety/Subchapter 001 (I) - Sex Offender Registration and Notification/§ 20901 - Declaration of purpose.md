@@ -42,7 +42,7 @@ In order to protect the public from sex offenders and offenders against children
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 109–248, July 27, 2006, 120Stat. 587, known as the Adam Walsh Child Protection and Safety Act of 2006. For complete classification of this Act to the Code, see Short Title of 2006 Act note set out under section 10101 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 109–248, July 27, 2006, 120 Stat. 587, known as the Adam Walsh Child Protection and Safety Act of 2006. For complete classification of this Act to the Code, see Short Title of 2006 Act note set out under section 10101 of this title and Tables.
 
 #### Codification
 

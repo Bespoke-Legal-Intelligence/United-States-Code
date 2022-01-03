@@ -20,13 +20,17 @@ July 9, 1918, ch. 143 (10th par., less words after 1st semicolon, under "Ordnanc
 
 The words "but not in the name of Congress" are omitted as surplusage, since a medal is presented in the name of Congress only if the law so directs. The words "since the 6th day of April, 1917" are omitted as executed. The word "award" is substituted for the word "present" to cover the determination of the recipients as well as the actual presentation of the medal, and to conform to other sections of this chapter. The words "or herself" are omitted, since, under section 1 of title 1, words importing the masculine gender include the feminine. The words "or who shall distinguish" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283 inserted "or the Space Force" after "the Air Force".
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 8743 of this title as this section.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments andspecial rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 

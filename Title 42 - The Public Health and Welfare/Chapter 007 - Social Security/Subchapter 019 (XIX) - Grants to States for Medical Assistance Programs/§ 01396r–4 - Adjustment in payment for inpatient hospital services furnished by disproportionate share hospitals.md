@@ -14,7 +14,7 @@
 
 (C) If a State plan under this subchapter provides for payments for inpatient hospital services on a prospective basis (whether per diem, per case, or otherwise), in order for the plan to be considered to have met such requirement of section 1396a(a)(13)(A) of this title as of July 1, 1989, the State must submit to the Secretary by not later than April 1, 1989, a State plan amendment that provides, in the case of hospitals defined by the State as disproportionate share hospitals under paragraph (1)(A), for an outlier adjustment in payment amounts for medically necessary inpatient hospital services provided on or after July 1, 1989, involving exceptionally high costs or exceptionally long lengths of stay for individuals under one year of age.
 
-(D) A State plan under this subchapter shall not be considered to meet the requirements of section 1396a(a)(13)(A)(iv) of this title (insofar as it requires payments to hospitals to take into account the situation of hospitals that serve a disproportionate number of low-income patients with special needs), as of October 1, 1998, unless the State has submitted to the Secretary bysuch date a description of the methodology used by the State to identify and to make payments to disproportionate share hospitals, including children's hospitals, on the basis of the proportion of low-income and medicaid patients (including such patients who receive benefits through a managed care entity) served by such hospitals. The State shall provide an annual report to the Secretary describing the disproportionate share payments to each such disproportionate share hospital.
+(D) A State plan under this subchapter shall not be considered to meet the requirements of section 1396a(a)(13)(A)(iv) of this title (insofar as it requires payments to hospitals to take into account the situation of hospitals that serve a disproportionate number of low-income patients with special needs), as of October 1, 1998, unless the State has submitted to the Secretary by such date a description of the methodology used by the State to identify and to make payments to disproportionate share hospitals, including children's hospitals, on the basis of the proportion of low-income and medicaid patients (including such patients who receive benefits through a managed care entity) served by such hospitals. The State shall provide an annual report to the Secretary describing the disproportionate share payments to each such disproportionate share hospital.
 
 (3) The Secretary shall, not later than 90 days after the date a State submits an amendment under this subsection, review each such amendment for compliance with such requirement and by such date shall approve or disapprove each such amendment. If the Secretary disapproves such an amendment, the State shall immediately submit a revised amendment which meets such requirement.
 
@@ -60,7 +60,7 @@ Subject to subsections (f) and (g), in order to be consistent with this subsecti
 
 &emsp;&emsp;(A) applies equally to all hospitals of each type; and
 
-&emsp;&emsp;(B) results in an adjustment for each type of hospital that is reasonably related to thecosts, volume, or proportion of services provided to patients eligible for medical assistance under a State plan approved under this subchapter or to low-income patients,
+&emsp;&emsp;(B) results in an adjustment for each type of hospital that is reasonably related to the costs, volume, or proportion of services provided to patients eligible for medical assistance under a State plan approved under this subchapter or to low-income patients,
 
 > except that, for purposes of paragraphs (1)(B) and (2)(A) of subsection (a), the payment adjustment for a disproportionate share hospital is consistent with this subsection if the appropriate increase in the rate or amount of payment is equal to at least one-third of the increase otherwise applicable under this subsection (in the case of such paragraph (1)(B)) and at least two-thirds of such increase (in the case of such paragraph (2)(A)). In the case of a hospital described in subsection (d)(2)(A)(i) (relating to children's hospitals), in computing the hospital's disproportionate share adjustment percentage for purposes of paragraph (1)(B) of this subsection, the disproportionate patient percentage (defined in section 1395ww(d)(5)(F)(vi) of this title) shall be computed by substituting for the fraction described in subclause (I) of such section the fraction described in subclause (II) of that section. If a State elects in a State plan amendment under subsection (a) to provide the payment adjustment described in paragraph (2), the State must include in the amendment a detailed description of the specific methodology to be used in determining the specified additional payment amount (or increased percentage payment) to be made to each hospital qualifying for such a payment adjustment and must publish at least annually the name of each hospital qualifying for such a payment adjustment and the amount of such payment adjustment made for each such hospital.
 
@@ -163,7 +163,7 @@ Subject to subsections (f) and (g), in order to be consistent with this subsecti
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in paragraphs (6), (7), and (8) and subparagraph (E), the DSH allotment for any State for fiscal year 2003 and each succeeding fiscal year is equal to the DSH allotment for the State for the preceding fiscal year under paragraph (2) or this paragraph, increased, subject to subparagraphs (B) and (C) and paragraph (5), by the percentage change in the consumer price index for all urban consumers (all items; U.S. city average), for the previous fiscal year.
+&emsp;&emsp;Except as provided in paragraphs (6), (7), and (8) and subparagraphs (E) and (F), the DSH allotment for any State for fiscal year 2003 and each succeeding fiscal year is equal to the DSH allotment for the State for the preceding fiscal year under paragraph (2) or this paragraph, increased, subject to subparagraphs (B) and (C) and paragraph (5), by the percentage change in the consumer price index for all urban consumers (all items; U.S. city average), for the previous fiscal year.
 
 #### (B) Limitation
 
@@ -201,13 +201,23 @@ Subject to subsections (f) and (g), in order to be consistent with this subsecti
 
 &emsp;&emsp;&emsp;Clause (i) shall not apply to a State for a year in the case that the DSH allotment for such State for such year under this paragraph determined without applying clause (i) would grow higher than the DSH allotment specified under clause (i) for the State for such year.
 
+#### (F) Allotments during the coronavirus temporary medicaid FMAP increase
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Notwithstanding any other provision of this subsection, for any fiscal year for which the Federal medical assistance percentage applicable to expenditures under this section is increased pursuant to section 6008 of the Families First Coronavirus Response Act, the Secretary shall recalculate the annual DSH allotment, including the DSH allotment specified under paragraph (6)(A)(vi), to ensure that the total DSH payments (including both Federal and State shares) that a State may make related to a fiscal year is equal to the total DSH payments that the State could have made for such fiscal year without such increase to the Federal medical assistance percentage.
+
+#### (ii) No application to allotments beginning after COVID–19 emergency period
+
+&emsp;&emsp;&emsp;The DSH allotment for any State for the first fiscal year beginning after the end of the emergency period described in section 1320b–5(g)(1)(B) of this title or any succeeding fiscal year shall be determined under this paragraph without regard to the DSH allotments determined under clause (i).
+
 #### (4) Special rule for fiscal years 2001 and 2002
 
 #### (A) In general
 
 &emsp;&emsp;Notwithstanding paragraph (2), the DSH allotment for any State for—
 
-&emsp;&emsp;&emsp;(i) fiscal year 2001, shall be the DSH allotment determined under paragraph (2) for fiscal year 2000 increased, subject to subparagraph (B) and paragraph (5), by the percentage change in the consumer priceindex for all urban consumers (all items; U.S. city average) for fiscal year 2000; and
+&emsp;&emsp;&emsp;(i) fiscal year 2001, shall be the DSH allotment determined under paragraph (2) for fiscal year 2000 increased, subject to subparagraph (B) and paragraph (5), by the percentage change in the consumer price index for all urban consumers (all items; U.S. city average) for fiscal year 2000; and
 
 &emsp;&emsp;&emsp;(ii) fiscal year 2002, shall be the DSH allotment determined under clause (i) increased, subject to subparagraph (B) and paragraph (5), by the percentage change in the consumer price index for all urban consumers (all items; U.S. city average) for fiscal year 2001.
 
@@ -365,41 +375,53 @@ Subject to subsections (f) and (g), in order to be consistent with this subsecti
 
 #### (g) Limit on amount of payment to hospital
 
-#### (1) Amount of adjustment subject to uncompensated costs
+#### (1) In general
+
+#### (A) Amount of adjustment subject to uncompensated costs
+
+&emsp;&emsp;A payment adjustment during a fiscal year shall not be considered to be consistent with subsection (c) with respect to a hospital (other than a hospital described in paragraph (2)(B)) if the payment adjustment exceeds an amount equal to—
+
+&emsp;&emsp;&emsp;(i) the costs incurred during the year of furnishing hospital services by the hospital to individuals described in subparagraph (B) minus—
+
+&emsp;&emsp;&emsp;(ii) the sum of—
+
+&emsp;&emsp;&emsp;&emsp;(I) payments under this subchapter (other than under this section) for such services; and
+
+&emsp;&emsp;&emsp;&emsp;(II) payments by uninsured patients for such services.
+
+#### (B) Individuals described
+
+&emsp;&emsp;For purposes of subparagraph (A), the individuals described in this clause are the following:
+
+&emsp;&emsp;&emsp;(i) Individuals who are eligible for medical assistance under the State plan or under a waiver of such plan and for whom the State plan or waiver is the primary payor for such services.
+
+&emsp;&emsp;&emsp;(ii) Subject to subparagraph (C), individuals who have no health insurance (or other source of third party coverage) for services provided during the year, as determined by the Secretary.
+
+#### (C) Exclusion of certain payments
+
+&emsp;&emsp;For purposes of subparagraph (B)(ii), payments made to a hospital for services provided to indigent patients made by a State or a unit of local government within a State shall not be considered to be a source of third party coverage.
+
+#### (2) Application of limits for certain hospitals
 
 #### (A) In general
 
-&emsp;&emsp;A payment adjustment during a fiscal year shall not be considered to be consistent with subsection (c) with respect to a hospital if the payment adjustment exceeds the costs incurred during the year of furnishing hospital services (as determined by the Secretary and net of payments under this subchapter, other than under this section, and by uninsured patients) by the hospital to individuals who either are eligible for medical assistance under the State plan or have no health insurance (or other source of third party coverage) for services provided during the year. For purposes of the preceding sentence, payments made to a hospital for services provided to indigent patients made by a State or a unit of local government within a State shall not be considered to be a source of third party payment.
+&emsp;&emsp;A payment adjustment during a fiscal year shall not be considered to be consistent with subsection (c) with respect to a hospital described in subparagraph (B) if the payment adjustment exceeds the higher of—
 
-#### (B) Limit to public hospitals during transition period
+&emsp;&emsp;&emsp;(i) the amount determined for the hospital and fiscal year under paragraph (1)(A); and
 
-&emsp;&emsp;With respect to payment adjustments during a State fiscal year that begins before January 1, 1995, subparagraph (A) shall apply only to hospitals owned or operated by a State (or by an instrumentality or a unit of government within a State).
+&emsp;&emsp;&emsp;(ii) the amount determined for the hospital under paragraph (1)(A) as in effect on January 1, 2020.
 
-#### (C) Modifications for private hospitals
+#### (B) Hospitals described
 
-&emsp;&emsp;With respect to hospitals that are not owned or operated by a State (or by an instrumentality or a unit of government within a State), the Secretary may make such modifications to the manner in which the limitation on payment adjustments is applied to such hospitals as the Secretary considers appropriate.
+&emsp;&emsp;A hospital is described in this subparagraph for a fiscal year if, for the most recent cost reporting period, the hospital is in at least the 97th percentile of all hospitals with respect to—
 
-#### (2) Additional amount during transition period for certain hospitals with high disproportionate share
+&emsp;&emsp;&emsp;(i) the number of inpatient days for such period that were made up of patients who (for such days) were entitled to benefits under part A of subchapter XVIII and were entitled to supplemental security income benefits under subchapter XVI (excluding any State supplementary benefits paid with respect to such patients); or
 
-#### (A) In general
+&emsp;&emsp;&emsp;(ii) the percentage of total inpatient days that were made up of patients who (for such days) were described in clause (i).
 
-&emsp;&emsp;In the case of a hospital with high disproportionate share (as defined in subparagraph (B)), a payment adjustment during a State fiscal year that begins before January 1, 1995, shall be considered consistent with subsection (c) if the payment adjustment does not exceed 200 percent of the costs offurnishing hospital services described in paragraph (1)(A) during the year, but only if the Governor of the State certifies to the satisfaction of the Secretary that the hospital's applicable minimum amount is used for health services during the year. In determining the amount that is used for such services during a year, there shall be excluded any amounts received under the Public Health Service Act \[42 U.S.C. 201 et seq.\], subchapter V, subchapter XVIII, or from third party payors (not including the State plan under this subchapter) that are used for providing such services during the year.
+#### (3) Continued application of grandfathered transition rule
 
-#### (B) "Hospital with high disproportionate share" defined
-
-&emsp;&emsp;In subparagraph (A), a hospital is a "hospital with high disproportionate share" if—
-
-&emsp;&emsp;&emsp;(i) the hospital is owned or operated by a State (or by an instrumentality or a unit of government within a State); and
-
-&emsp;&emsp;&emsp;(ii) the hospital—
-
-&emsp;&emsp;&emsp;&emsp;(I) meets the requirement described in subsection (b)(1)(A), or
-
-&emsp;&emsp;&emsp;&emsp;(II) has the largest number of inpatient days attributable to individuals entitled to benefits under the State plan of any hospital in such State for the previous State fiscal year.
-
-#### (C) "Applicable minimum amount" defined
-
-&emsp;&emsp;In subparagraph (A), the "applicable minimum amount" for a hospital for a fiscal year is equal to the difference between the amount of the hospital's payment adjustment for the fiscal year and the costs to the hospital of furnishing hospital services described in paragraph (1)(A) during the fiscal year.
+&emsp;Notwithstanding paragraph (2) of this subsection (as in effect on October 1, 2021), paragraph (2) of this subsection (as in effect on September 30, 2021, and as applied under section 4721(e) of the Balanced Budget Act of 1997, and amended by section 607 of the Medicare, Medicaid, and SCHIP Balanced Budget Refinement Act of 1999 (Public Law 106–113)) shall apply in determining whether a payment adjustment for a hospital in a State referenced in section 4721(e) of the Balanced Budget Act of 1997 during a State fiscal year shall be considered consistent with subsection (c).
 
 #### (h) Limitation on certain State DSH expenditures
 
@@ -459,7 +481,7 @@ Subject to subsections (f) and (g), in order to be consistent with this subsecti
 
 #### (j) Annual reports and other requirements regarding payment adjustments
 
-With respect to fiscal year 2004 and each fiscal year thereafter, the Secretary shall require a State, as a condition of receiving a payment under section 1396b(a)(1) of this title with respect to a payment adjustment made under this section, to do the following:
+With respect to fiscal year 2004 and each fiscal year thereafter, the Secretary shall require a State, as a condition of receiving a paymentunder section 1396b(a)(1) of this title with respect to a payment adjustment made under this section, to do the following:
 
 #### (1) Report
 
@@ -483,63 +505,15 @@ With respect to fiscal year 2004 and each fiscal year thereafter, the Secretary 
 
 &emsp;&emsp;(E) The State has separately documented and retained a record of all of its costs under this subchapter, claimed expenditures under this subchapter, uninsured costs in determining payment adjustments under this section, and any payments made on behalf of the uninsured from payment adjustments under this section.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1923, formerly Pub. L. 100–203, title IV, §4112, Dec. 22, 1987, 101 Stat. 1330–148; renumbered §1923 of act Aug. 14, 1935, and amended Pub. L. 100–360, title III, §302(b)(2), title IV, §411(k)(6)(A)–(B)(ix), July 1, 1988, 102 Stat. 752, 792–794; Pub. L. 100–485, title VI, §608(d)(15)(C), (26)(A)–(F), Oct. 13, 1988, 102 Stat. 2417, 2421, 2422; Pub. L. 101–239, title VI, §6411(c)(1), Dec. 19, 1989, 103 Stat. 2270; Pub. L. 101–508, title IV, §§4702(a), 4703(a)–(c), Nov. 5, 1990, 104 Stat. 1388–171; Pub. L. 102–234, §§3(b)(1), (2)(A), (c), Dec. 12, 1991, 105 Stat. 1799, 1802, 1803; Pub. L. 103–66, title XIII, §13621(a)(1), (b)(1), (2), Aug. 10, 1993, 107 Stat. 629–631; Pub. L. 105–33, title IV, §§4711(c)(2), 4721(a)(1), (b)–(d), Aug. 5, 1997, 111 Stat. 508, 511, 513, 514; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §§601(a), 608(s)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–394, 1501A–397; Pub. L. 106–554, §1(a)(6) \[title VII, §701(a)(1), (2), (b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–569, 2763A–570; Pub. L. 108–173, title X, §1001(a)–(d), Dec. 8, 2003, 117 Stat. 2428–2430; Pub. L. 109–171, title VI, §6054(a), Feb. 8, 2006, 120 Stat. 96; Pub. L. 109–432, div. B, title IV, §404, Dec. 20, 2006, 120 Stat. 2995; Pub. L. 110–173, title II, §204, Dec. 29, 2007, 121 Stat. 2513; Pub. L. 110–275, title II, §202, July 15, 2008, 122 Stat. 2591; Pub. L. 111–3, title VI, §616, Feb. 4, 2009, 123 Stat. 103; Pub. L. 111–5, div. B, title V, §5002, Feb. 17, 2009, 123 Stat. 502; Pub. L. 111–148, title II, §2551(a), title X, §10201(e), Mar. 23, 2010, 124 Stat. 312, 920; Pub. L. 111–152, title I, §1203, Mar. 30, 2010, 124 Stat. 1053; Pub. L. 112–96, title III, §3203, Feb. 22, 2012, 126 Stat. 193; Pub. L. 112–240, title VI, §641, Jan. 2, 2013, 126 Stat. 2357; Pub. L. 113–67, div. B, title II, §1204(a), Dec. 26, 2013, 127 Stat. 1199; Pub. L. 113–93, title II, §221(a), Apr. 1, 2014, 128 Stat. 1076; Pub. L. 114–10, title II, §219, title IV, §412, Apr. 16, 2015, 129 Stat. 153, 162; Pub. L. 115–123, div. E, title XII, §53101, Feb. 9, 2018, 132 Stat. 298; Pub. L. 116–59, div. B, title III, §1303, Sept. 27, 2019, 133 Stat. 1105; Pub. L. 116–69, div. B, title III, §1303, Nov. 21, 2019, 133 Stat. 1137; Pub. L. 116–94, div. N, title I, §203, Dec. 20, 2019, 133 Stat. 3111; Pub. L. 116–136, div. A, title III, §3813, Mar. 27, 2020, 134 Stat. 429; Pub. L. 116–159, div. C, title III, §2303, Oct. 1, 2020, 134 Stat. 732; Pub. L. 116–215, div. B, title I, §1106, Dec. 11, 2020, 134 Stat. 1043; Pub. L. 116–260, div. CC, title II, §§201, 203(a), Dec. 27, 2020, 134 Stat. 2977, 2978.)
+(Aug. 14, 1935, ch. 531, title XIX, §1923, formerly Pub. L. 100–203, title IV, §4112, Dec. 22, 1987, 101 Stat. 1330–148; renumbered §1923 of act Aug. 14, 1935, and amended Pub. L. 100–360, title III, §302(b)(2), title IV, §411(k)(6)(A)–(B)(ix), July 1, 1988, 102 Stat. 752, 792–794; Pub. L. 100–485, title VI, §608(d)(15)(C), (26)(A)–(F), Oct. 13, 1988, 102 Stat. 2417, 2421, 2422; Pub. L. 101–239, title VI, §6411(c)(1), Dec. 19, 1989, 103 Stat. 2270; Pub. L. 101–508, title IV, §§4702(a), 4703(a)–(c), Nov. 5, 1990, 104 Stat. 1388–171; Pub. L. 102–234, §§3(b)(1), (2)(A), (c), Dec. 12, 1991, 105 Stat. 1799, 1802, 1803; Pub. L. 103–66, title XIII, §13621(a)(1), (b)(1), (2), Aug. 10, 1993, 107 Stat. 629–631; Pub. L. 105–33, title IV, §§4711(c)(2), 4721(a)(1), (b)–(d), Aug. 5, 1997, 111 Stat. 508, 511, 513, 514; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §§601(a), 608(s)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–394, 1501A–397; Pub. L. 106–554, §1(a)(6) \[title VII, §701(a)(1), (2), (b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–569, 2763A–570; Pub. L. 108–173, title X, §1001(a)–(d), Dec. 8, 2003, 117 Stat. 2428–2430; Pub. L. 109–171, title VI, §6054(a), Feb. 8, 2006, 120 Stat. 96; Pub. L. 109–432, div. B, title IV, §404, Dec. 20, 2006, 120 Stat. 2995; Pub. L. 110–173, title II, §204, Dec. 29, 2007, 121 Stat. 2513; Pub. L. 110–275, title II, §202, July 15, 2008, 122 Stat. 2591; Pub. L. 111–3, title VI, §616, Feb. 4, 2009, 123 Stat. 103; Pub. L. 111–5, div. B, title V, §5002, Feb. 17, 2009, 123 Stat. 502; Pub. L. 111–148, title II, §2551(a), title X, §10201(e), Mar. 23, 2010, 124 Stat. 312, 920; Pub. L. 111–152, title I, §1203, Mar. 30, 2010, 124 Stat. 1053; Pub. L. 112–96, title III, §3203, Feb. 22, 2012, 126 Stat. 193; Pub. L. 112–240, title VI, §641, Jan. 2, 2013, 126 Stat. 2357; Pub. L. 113–67, div. B, title II, §1204(a), Dec. 26, 2013, 127 Stat. 1199; Pub. L. 113–93, title II, §221(a), Apr. 1, 2014, 128 Stat. 1076; Pub. L. 114–10, title II, §219, title IV, §412, Apr. 16, 2015, 129 Stat. 153, 162; Pub. L. 115–123, div. E, title XII, §53101, Feb. 9, 2018, 132 Stat. 298; Pub. L. 116–59, div. B, title III, §1303, Sept. 27, 2019, 133 Stat. 1105; Pub. L. 116–69, div. B, title III, §1303, Nov. 21, 2019, 133 Stat. 1137; Pub. L. 116–94, div. N, title I, §203, Dec. 20, 2019, 133 Stat. 3111; Pub. L. 116–136, div. A, title III, §3813, Mar. 27, 2020, 134 Stat. 429; Pub. L. 116–159, div. C, title III, §2303, Oct. 1, 2020, 134 Stat. 732; Pub. L. 116–215, div. B, title I, §1106, Dec. 11, 2020, 134 Stat. 1043; Pub. L. 116–260, div. CC, title II, §§201, 203(a), Dec. 27, 2020, 134 Stat. 2977, 2978; Pub. L. 117–2, title IX, §9819(a), Mar. 11, 2021, 135 Stat. 218; Pub. L. 117–7, §2(b), Apr. 14, 2021, 135 Stat. 252.)
 
-#### Amendment of Subsection (g)
-
-<i>Pub. L. 116–260, div. CC, title II, §203, Dec. 27, 2020, 134 Stat. 2978, provided that, effective Oct. 1, 2021, and applicable to payment adjustments made under this section during fiscal years beginning on or after such date, subsection (g) of this section is amended to read as follows:</i>
-
-#### <i>(g) Limit on amount of payment to hospital</i>
-
-#### <i>(1) In general</i>
-
-#### <i>(A) Amount of adjustment subject to uncompensated costs</i>
-
-&emsp;&emsp;<i>A payment adjustment during a fiscal year shall not be considered to be consistent with subsection (c) with respect to a hospital (other than a hospital described in paragraph (2)(B)) if the payment adjustment exceeds an amount equal to—</i>
-
-&emsp;&emsp;&emsp;<i>(i) the costs incurred during the year of furnishing hospital services by the hospital to individuals described in subparagraph (B) minus—</i>
-
-&emsp;&emsp;&emsp;<i>(ii) the sum of—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(I) payments under this subchapter (other than under this section) for such services; and</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(II) payments by uninsured patients for such services.</i>
-
-#### <i>(B) Individuals described</i>
-
-&emsp;&emsp;<i>For purposes of subparagraph (A), the individuals described in this clause are the following:</i>
-
-&emsp;&emsp;&emsp;<i>(i) Individuals who are eligible for medical assistance under the State plan or under a waiver of such plan and for whom the State</i><i>plan or waiver is the primary payor for such services.</i>
-
-&emsp;&emsp;&emsp;<i>(ii) Subject to subparagraph (C), individuals who have no health insurance (or other source of third party coverage) for services provided during the year, as determined by the Secretary.</i>
-
-#### <i>(C) Exclusion of certain payments</i>
-
-&emsp;&emsp;<i>For purposes of subparagraph (B)(ii), payments made to a hospital for services provided to indigent patients made by a State or a unit of local government within a State shall not be considered to be a source of third party coverage.</i>
-
-#### <i>(2) Application of limits for certain hospitals</i>
-
-#### <i>(A) In general</i>
-
-&emsp;&emsp;<i>A payment adjustment during a fiscal year shall not be considered to be consistent with subsection (c) with respect to a hospital described in subparagraph (B) if the payment adjustment exceeds the higher of—</i>
-
-&emsp;&emsp;&emsp;<i>(i) the amount determined for the hospital and fiscal year under paragraph (1)(A); and</i>
-
-&emsp;&emsp;&emsp;<i>(ii) the amount determined for the hospital under paragraph (1)(A) as in effect on January 1, 2020.</i>
-
-#### <i>(B) Hospitals described</i>
-
-&emsp;&emsp;<i>A hospital is described in this subparagraph for a fiscal year if, for the most recent cost reporting period, the hospital is in at least the 97th percentile of all hospitals with respect to—</i>
-
-&emsp;&emsp;&emsp;<i>(i) the number of inpatient days for such period that were made up of patients who (for such days) were entitled to benefits under part A of subchapter XVIII and were entitled to supplemental security income benefits under subchapter XVI (excluding any State supplementary benefits paid with respect to such patients); or</i>
-
-&emsp;&emsp;&emsp;<i>(ii) the percentage of total inpatient days that were made up of patients who (for such days) were described in clause (i).</i>
-
-<i>See 2020 Amendment note below.</i>
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Public Health Service Act, referred to in subsec. (g)(2)(A), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
+Section 6008 of the Families First Coronavirus Response Act, referred to in subsec. (f)(3)(F), is section 6008 of Pub. L. 116–127, which amended section 1396d of this title and enacted provisions set out as a note under section 1396d of this title.
+
+Section 4721(e) of the Balanced Budget Act of 1997, and amended by section 607 of the Medicare, Medicaid, and SCHIP Balanced Budget Refinement Act of 1999 (Public Law 106–113), referred to in subsec. (g)(3), is Pub. L. 105–33, title IV, §4721(e), Aug. 5, 1997, 111 Stat. 514, as amended by Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §607(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–396, which is set out as a note under this section.
 
 #### Codification
 
@@ -550,6 +524,12 @@ Prior to redesignation by Pub. L. 100–360, section 4112 of Pub. L. 100–203, 
 A prior section 1923 of act Aug. 14, 1935, was renumbered section 1939 and is classified to section 1396v of this title.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (f)(3)(A). Pub. L. 117–2, §9819(a)(1), substituted "subparagraphs (E) and (F)" for "subparagraph (E)".
+
+Subsec. (f)(3)(F). Pub. L. 117–2, §9819(a)(2), added subpar. (F).
+
+Subsec. (g)(3). Pub. L. 117–7 added par. (3).
 
 <b>2020</b>—Subsec. (f)(7)(A)(i). Pub. L. 116–260, §201(1)(A), substituted "For each of fiscal years 2024 through 2027," for "For the period beginning December 19, 2020, and ending September 30, 2021, and for each of fiscal years 2022 through 2025" in introductory provisions.
 
@@ -801,7 +781,7 @@ Subsec. (b)(2). Pub. L. 100–360, §411(k)(6)(A)(iv), substituted "a State plan
 
 Pub. L. 100–360, §411(k)(6)(B)(vi), as amended by Pub. L. 100–485, §608(d)(26)(F), substituted "under this subchapter" for "under subchapter XIX of this chapter".
 
-Subsec. (b)(3). Pub. L. 100–360, §411(k)(6)(B)(vi), as amended by Pub. L. 100–485, §608(d)(26)(F), substituted"under this subchapter" for "under subchapter XIX of this chapter" in last sentence.
+Subsec. (b)(3). Pub. L. 100–360, §411(k)(6)(B)(vi), as amended by Pub. L. 100–485, §608(d)(26)(F), substituted "under this subchapter" for "under subchapter XIX of this chapter" in last sentence.
 
 Subsec. (b)(3)(A)(i). Pub. L. 100–360, §411(k)(6)(B)(vi), as amended by Pub. L. 100–485, §608(d)(26)(F), substituted "under this subchapter" for "under subchapter XIX of this chapter".
 
@@ -825,9 +805,17 @@ Subsec. (d)(2)(B). Pub. L. 100–360, §411(k)(6)(B)(vii), made technical amendm
 
 Subsec. (e). Pub. L. 100–360, §411(k)(6)(A)(vii), as amended by Pub. L. 100–485, §608(d)(26)(B), (C), designated existing provisions as par. (1), inserted "based on a pooling arrangement involving a majority of the hospitals participating under the plan" after first reference to "payment adjustments", added par. (2) and substituted "statewide" for "Statewide" in par. (2).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Pub. L. 117–7, §2(b), Apr. 14, 2021, 135 Stat. 252, provided that the amendment made by section 2(b) is effective as if included in the enactment of section 203(a) of title II of division CC of Public Law 116–260.
+
+Pub. L. 117–2, title IX, §9819(b), Mar. 11, 2021, 135 Stat. 218, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect and apply as if included in the enactment of the Families First Coronavirus Response Act (Public Law 116–127)."
+
 #### Effective Date of 2020 Amendment
 
-Pub. L. 116–260, div. CC, title II, §203(b), Dec. 27, 2020, 134 Stat. 2979, provided that: "The amendment made by this section \[amending this section\] shall take effect on October 1, 2021, and shall apply to payment adjustments made under section 1923 of the Social Security Act (42 U.S.C. 1396r–4) during fiscal years beginning on or after such date."
+Pub. L. 116–260, div. CC, title II, §203(b), Dec. 27, 2020, 134 Stat. 2979, provided that: "The amendment made bythis section \[amending this section\] shall take effect on October 1, 2021, and shall apply to payment adjustments made under section 1923 of the Social Security Act (42 U.S.C. 1396r–4) during fiscal years beginning on or after such date."
 
 #### Effective Date of 2013 Amendment
 
@@ -869,7 +857,7 @@ Pub. L. 103–66, title XIII, §13621(a)(2), Aug. 10, 1993, 107 Stat. 629, provi
 
 &emsp;"(A) the end of the State fiscal year that ends during 1994, or
 
-&emsp;"(B) in the case of a State with a State legislature which is not scheduled to have a regular legislativesession in 1994, the end of the State fiscal year that ends during 1995;
+&emsp;"(B) in the case of a State with a State legislature which is not scheduled to have a regular legislative session in 1994, the end of the State fiscal year that ends during 1995;
 
 > without regard to whether or not final regulations to carry out such amendments have been promulgated by either such date."
 

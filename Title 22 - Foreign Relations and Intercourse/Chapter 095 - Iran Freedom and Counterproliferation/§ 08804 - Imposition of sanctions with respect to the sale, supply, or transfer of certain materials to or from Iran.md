@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;(i) the material is—
 
-&emsp;&emsp;&emsp;&emsp;(I) to be used in connection with the energy, shipping, or shipbuilding sectors of Iran or any sector of the economy of Iran determined pursuant to subsection\(e)(2) to be controlled directly or indirectly by Iran's Revolutionary Guard Corps;
+&emsp;&emsp;&emsp;&emsp;(I) to be used in connection with the energy, shipping, or shipbuilding sectors of Iran or any sector of the economy of Iran determined pursuant to subsection (e)(2) to be controlled directly or indirectly by Iran's Revolutionary Guard Corps;
 
 &emsp;&emsp;&emsp;&emsp;(II) sold, supplied, or transferred to or from an Iranian person included on the list of specially designated nationals and blocked persons maintained by the Office of Foreign Assets Control of the Department of the Treasury (other than an Iranian financial institution described in subsection (b)); or
 

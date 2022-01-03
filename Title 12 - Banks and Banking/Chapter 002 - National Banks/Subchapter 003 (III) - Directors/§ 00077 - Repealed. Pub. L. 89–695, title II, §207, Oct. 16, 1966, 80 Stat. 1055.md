@@ -1,6 +1,6 @@
 ### §77. Repealed. Pub. L. 89–695, title II, §207, Oct. 16, 1966, 80 Stat. 1055
 
-Section, act June 16, 1933, ch. 89, §30, 48 Stat. 193, provided authority for removal of directors or officers ofnational banks, District banks, or State member banks for continued violations of law or for continued unsafe or unsound practices in conducting the business of such banks.
+Section, act June 16, 1933, ch. 89, §30, 48 Stat. 193, provided authority for removal of directors or officers of national banks, District banks, or State member banks for continued violations of law or for continued unsafe or unsound practices in conducting the business of such banks.
 
 #### <b>Editorial Notes</b>
 

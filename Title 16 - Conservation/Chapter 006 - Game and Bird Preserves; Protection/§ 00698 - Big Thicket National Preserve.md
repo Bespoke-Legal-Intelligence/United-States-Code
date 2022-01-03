@@ -28,7 +28,7 @@ The Big Thicket National Preserve (hereafter referred to as the "preserve") shal
 
 &emsp;Loblolly unit, Liberty County, Texas, comprising approximately five hundred and fifty acres;
 
-&emsp;Little Pine Island-Pine Island Bayou corridor unit, Hardin and Jefferson Counties, Texas, comprising approximately two thousand one hundred acres;
+&emsp;Little Pine Island-Pine Island Bayou corridor unit, Hardin and Jefferson Counties,Texas, comprising approximately two thousand one hundred acres;
 
 &emsp;Lance Rosier Unit, Hardin County, Texas, comprising approximately twenty-five thousand and twenty-four acres;
 
@@ -52,19 +52,23 @@ With respect to the thirty-seven-acre area owned by the Louisiana-Pacific Corpor
 
 (Pub. L. 93–439, §1, Oct. 11, 1974, 88 Stat. 1254; Pub. L. 98–489, §1(a), Oct. 17, 1984, 98 Stat. 2267; Pub. L. 103–46, §2(a), (b), July 1, 1993, 107 Stat. 229, 230; Pub. L. 103–437, §6(a)(6), Nov. 2, 1994, 108 Stat. 4583; Pub. L. 104–333, div. I, title III, §306(a)–(c), Nov. 12, 1996, 110 Stat. 4132.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>1996</b>—Subsec. (d). Pub. L. 104–333 substituted "five years after July 1, 1993" for "two years after July 1,1993" and inserted at end "The Secretary, in considering the values of the private lands to be exchanged under this subsection, shall consider independent appraisals submitted by the owners of the private lands. The authority to exchange lands under this subsection shall expire on July 1, 1998."
+<b>1996</b>—Subsec. (d). Pub. L. 104–333 substituted "five years after July 1, 1993" for "two years after July 1, 1993" and inserted at end "The Secretary, in considering the values of the private lands to be exchanged under this subsection, shall consider independent appraisals submitted by the owners of the private lands. The authority to exchange lands under this subsection shall expire on July 1, 1998."
 
 <b>1994</b>—Subsec. (c). Pub. L. 103–437 substituted "Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives" for "Committees on Interior and Insular Affairs of the United States Congress".
 
-<b>1993</b>—Subsec. (b). Pub. L. 103–46, §2(a), substituted "map entitled 'Big Thicket National Preserve', dated October 1992, and numbered 175–80008, which shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior, and the offices of the Superintendent of the preserve. After advising the Committee on Energy and Natural Resources of the United States Senate and the Committee on Natural Resources of the United States House of Representatives, in writing, the Secretary of the Interior (hereafter referred to as the 'Secretary') may make minor revisions of the boundaries of the preserve when necessary by publication of a revised drawing or other boundary description in the Federal Register. The Secretary" for "map entitled 'Big Thicket National Preserve', dated November 1973 and numbered NBR–BT 91,027 which shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior, Washington, District of Columbia, and shall be filed with appropriate offices of Tyler, Hardin, Jasper, Polk, Liberty, Jefferson, and Orange Counties in the State of Texas. The Secretary of the Interior (hereafter referred to as the 'Secretary')" and added undesignated pars. relating to Village Creek Corridor unit, Big Sandy Corridor unit, and Canyonlands unit.
+<b>1993</b>—Subsec. (b). Pub. L. 103–46, §2(a), substituted "map entitled 'Big Thicket National Preserve', dated October 1992, and numbered 175–80008, which shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior, and the offices of the Superintendent of the preserve. After advising the Committee on Energy and Natural Resources of the United States Senate and the Committee on Natural Resources of the United States House of Representatives, in writing, the Secretary of the Interior (hereafter referred to as the 'Secretary') may make minor revisions of the boundaries of the preserve when necessary by publication of a revised drawing or other boundary description in the Federal Register. The Secretary" for "map entitled 'Big Thicket National Preserve', dated November 1973 and numberedNBR–BT 91,027 which shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior, Washington, District of Columbia, and shall be filed with appropriate offices of Tyler, Hardin, Jasper, Polk, Liberty, Jefferson, and Orange Counties in the State of Texas. The Secretary of the Interior (hereafter referred to as the 'Secretary')" and added undesignated pars. relating to Village Creek Corridor unit, Big Sandy Corridor unit, and Canyonlands unit.
 
 Subsec. (c). Pub. L. 103–46, §2(b)(1), inserted first sentence and struck out former first sentence which read as follows: "The Secretary is authorized to acquire by donation, purchase with donated or appropriated funds, transfer from any other Federal agency, or exchange, any lands, waters, or interests therein which are located within the boundaries of the preserve: <i>Provided</i>, That any lands owned or acquired by the State of Texas, or any of its political subdivisions, may be acquired by donation only."
 
-Subsecs. (d) and (e). Pub. L. 103–46, §2(b)(2), added subsecs. (d) and (e).
+Subsecs. (d), (e). Pub. L. 103–46, §2(b)(2), added subsecs. (d) and (e).
 
 <b>1984</b>—Subsec. (c). Pub. L. 98–489 authorized acquisition of acreage for a visitor contact and administrative site outside the boundaries of the preserve.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 1993 Amendment
 

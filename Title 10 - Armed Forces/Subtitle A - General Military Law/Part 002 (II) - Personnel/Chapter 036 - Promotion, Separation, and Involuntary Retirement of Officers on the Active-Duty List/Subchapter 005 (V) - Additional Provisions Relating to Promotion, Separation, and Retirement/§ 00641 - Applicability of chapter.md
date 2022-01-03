@@ -18,7 +18,9 @@ Officers in the following categories are not subject to this chapter (other than
 
 &emsp;(5) Students at the Uniformed Services University of the Health Sciences.
 
-(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2866; amended Pub. L. 98–525, title IV, §414(a)(5), title V, §527(b), Oct. 19, 1984, 98 Stat.2519, 2525; Pub. L. 99–433, title V, §531(a)(2), Oct. 1, 1986, 100 Stat. 1063; Pub. L. 103–337, div. A, title XVI, §1671(c)(5), Oct. 5, 1994, 108 Stat. 3014; Pub. L. 104–106, div. A, title XV, §1501(c)(6), Feb. 10, 1996, 110 Stat. 498; Pub. L. 104–201, div. A, title XII, §1212(e), Sept. 23, 1996, 110 Stat. 2694; Pub. L. 106–398, §1 \[\[div. A\], title V, §521\], Oct. 30, 2000, 114 Stat. 1654, 1654A–108; Pub. L. 107–107, div. A, title V, §511(a), Dec. 28, 2001, 115 Stat. 1092; Pub. L. 108–375, div. A, title IV, §416(j), title V, §501(d), Oct. 28, 2004, 118 Stat. 1869, 1874; Pub. L. 109–364, div. A, title VI, §621(c), Oct. 17, 2006, 120 Stat. 2255; Pub. L. 110–181, div. A, title V, §508(b), Jan. 28, 2008, 122 Stat. 97; Pub. L. 115–91, div. A, title VI, §618(b), Dec. 12, 2017, 131 Stat. 1426; Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840.)
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2866; amended Pub. L. 98–525, title IV, §414(a)(5), title V, §527(b), Oct. 19, 1984, 98 Stat. 2519, 2525; Pub. L. 99–433, title V, §531(a)(2), Oct. 1, 1986, 100 Stat. 1063; Pub. L. 103–337, div. A, title XVI, §1671(c)(5), Oct. 5, 1994, 108 Stat. 3014; Pub. L. 104–106, div. A, title XV, §1501(c)(6), Feb. 10, 1996, 110 Stat. 498; Pub. L. 104–201, div. A, title XII, §1212(e), Sept. 23, 1996, 110 Stat. 2694; Pub. L. 106–398, §1 \[\[div. A\], title V, §521\], Oct. 30, 2000, 114 Stat. 1654, 1654A–108; Pub. L. 107–107, div. A, title V, §511(a), Dec. 28, 2001, 115 Stat. 1092; Pub. L. 108–375, div. A, title IV, §416(j), title V, §501(d), Oct. 28, 2004, 118 Stat. 1869, 1874; Pub. L. 109–364, div. A, title VI, §621(c), Oct. 17, 2006, 120 Stat. 2255; Pub. L. 110–181, div. A, title V, §508(b), Jan. 28, 2008, 122 Stat. 97; Pub. L. 115–91, div. A, title VI, §618(b), Dec. 12, 2017, 131 Stat. 1426; Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -78,6 +80,8 @@ Par. (1)(C). Pub. L. 98–525, §414(a)(5)(A), struck out "or under section 502 
 
 Par. (1)(G). Pub. L. 98–525, §414(a)(5)(B)–(D), added subpar. (G).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
@@ -96,7 +100,7 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 #### Effective Date
 
-Section effective Sept. 15, 1981, but the authority to prescribe regulations under this subchapter effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of this title.
+Section effective Sept. 15, 1981, but the authority to prescribe regulations under this subchapter effective onDec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of this title.
 
 #### Retroactive Application
 
@@ -104,7 +108,7 @@ Pub. L. 107–107, div. A, title V, §511(b), Dec. 28, 2001, 115 Stat. 1092, pro
 
 "(1) The Secretary of the military department concerned may provide that an officer who was excluded from the active-duty list under section 641(1)(D) of title 10, United States Code, as amended by section 521 of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398; 114 Stat. 1654A–108), shall be considered to have been on the active-duty list during the period beginning on the date on which the officer was so excluded and ending on the date of the enactment of this Act \[Dec. 28, 2001\].
 
-"(2) The Secretary of the military department concerned may provide that a Reserve officer who wasplaced on the active-duty list on or after October 30, 1997, shall be placed on the reserve active-status list if the officer otherwise meets the conditions specified in section 641(1)(D) of title 10, United States Code, as amended by subsection (a)."
+"(2) The Secretary of the military department concerned may provide that a Reserve officer who was placed on the active-duty list on or after October 30, 1997, shall be placed on the reserve active-status list if the officer otherwise meets the conditions specified in section 641(1)(D) of title 10, United States Code, as amended by subsection (a)."
 
 #### Transition Provisions Under Defense Officer Personnel Management Act
 

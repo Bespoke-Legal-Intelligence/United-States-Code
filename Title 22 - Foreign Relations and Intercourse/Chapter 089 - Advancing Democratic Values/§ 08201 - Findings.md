@@ -42,7 +42,7 @@ Therefore, by the authority vested in me as President by the Constitution and th
 
 Sec. 1. <i>Engaging in Consultation with Civil Society Representatives</i>. (a) In the conduct of U.S. foreign policy, it is in the national interest to build relationships with people, as well as with governments. Therefore, agencies engaged abroad shall consult with representatives of civil society to explain the views of the United States on particular issues, seek their perspectives, utilize their expertise, and build strong partnerships to address joint challenges.
 
-(b) When traveling overseas, senior U.S. officials of agencies engaged abroad shall seek opportunities tomeet with representatives of civil society, especially those who face restrictions on their work and who may benefit from international support and solidarity.
+(b) When traveling overseas, senior U.S. officials of agencies engaged abroad shall seek opportunities to meet with representatives of civil society, especially those who face restrictions on their work and who may benefit from international support and solidarity.
 
 (c) Each agency engaged abroad shall incorporate inclusive outreach to civil society into their international engagement.
 

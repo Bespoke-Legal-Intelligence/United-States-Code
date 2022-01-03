@@ -42,6 +42,8 @@ For purposes of this subchapter:
 
 (Pub. L. 98–377, title V, §511, Aug. 11, 1984, 98 Stat. 1294; Pub. L. 101–637, §§10, 14(a)(11), (c)(6), Nov. 28, 1990, 104 Stat. 4592, 4594, 4596; Pub. L. 103–382, title III, §394(c), Oct. 20, 1994, 108 Stat. 4027; Pub. L. 107–110, title X, §1076(l)(2), Jan. 8, 2002, 115 Stat. 2092; Pub. L. 114–95, title IX, §9215(dd)(2), Dec. 10, 2015, 129 Stat. 2173.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Par. (4)(A). Pub. L. 114–95, §9215(dd)(2)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: "any local educational agency as defined in section 7801 of this title; and".
@@ -50,7 +52,7 @@ Par. (5)(A). Pub. L. 114–95, §9215(dd)(2)(B), added subpar. (A) and struck ou
 
 <b>2002</b>—Par. (4)(A). Pub. L. 107–110, §1076(l)(2)(A), which directed amendment of subpar. (A) by substituting in the original "9101" for "198(a)(10)", was executed by substituting "section 7801 of this title" for "section 8801 of this title", to reflect the probable intent of Congress and prior amendment by Pub. L. 103–382, §394(c)(1), which had substituted "14101" for "198(a)(10)" in the original. See 1994 Amendment note below.
 
-Par. (5)(A). Pub. L. 107–110, §1076(l)(2)(B), which directed amendment of subpar. (A) by substituting in the original "9101" for "198(a)(7)", was executed by substituting "section 7801 of this title" for "section 8801 of this title", to reflect the probable intent of Congress and prior amendment by Pub. L. 103–382, §394(c)(2), which had substituted "14101" for "198(a)(7)" in the original. See 1994 Amendment note below.
+Par. (5)(A). Pub. L. 107–110, §1076(l)(2)(B), which directed amendment of subpar. (A) by substituting in theoriginal "9101" for "198(a)(7)", was executed by substituting "section 7801 of this title" for "section 8801 of this title", to reflect the probable intent of Congress and prior amendment by Pub. L. 103–382, §394(c)(2), which had substituted "14101" for "198(a)(7)" in the original. See 1994 Amendment note below.
 
 <b>1994</b>—Par. (4)(A). Pub. L. 103–382, §394(c)(1), substituted "section 8801 of this title" for "section 198(a)(10) of the Elementary and Secondary Education Act of 1965".
 
@@ -74,6 +76,8 @@ Par. (8). Pub. L. 101–637, §14(c)(6)(B), substituted "The" for "the" at begin
 
 Par. (9). Pub. L. 101–637, §10(2), added par. (9).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
@@ -81,6 +85,8 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Termination of Trust Territory of the Pacific Islands
 

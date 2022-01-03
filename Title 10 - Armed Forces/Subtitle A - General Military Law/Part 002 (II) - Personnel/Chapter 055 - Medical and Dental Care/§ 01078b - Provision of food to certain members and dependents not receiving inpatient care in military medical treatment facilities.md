@@ -28,11 +28,15 @@ Regulations.—The Secretary shall ensure that regulations prescribed under this
 
 (Added Pub. L. 112–81, div. A, title VII, §704(a), Dec. 31, 2011, 125 Stat. 1472; amended Pub. L. 113–291, div. A, title VII, §705, Dec. 19, 2014, 128 Stat. 3413.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Subsec. (a)(2). Pub. L. 113–291, §705(1), substituted "A member or former member" for "A member" wherever appearing.
 
 Subsec. (a)(2)(C). Pub. L. 113–291, §705(2), substituted "member, former member, or dependent" for "member or dependent".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

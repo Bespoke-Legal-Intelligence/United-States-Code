@@ -14,7 +14,7 @@ If the Administrator proposes to release for inspection information which the ap
 
 #### (d) Limitations
 
-(1) All information concerning the objectives, methodology, results, or significance of any test or experiment performed on or with a registered or previously registered pesticide or its separate ingredients, impurities, or degradation products, and any information concerning the effects of such pesticide on any organism or the behavior of such pesticide in the environment, including, but not limited to, data on safety to fish and wildlife, humans and other mammals, plants, animals, and soil, and studies on persistence, translocation and fate in the environment, and metabolism, shall be available for disclosure to the public. The use of such data for any registration purpose shall be governed by section 136a ofthis title. This paragraph does not authorize the disclosure of any information that—
+(1) All information concerning the objectives, methodology, results, or significance of any test or experiment performed on or with a registered or previously registered pesticide or its separate ingredients, impurities, or degradation products, and any information concerning the effects of such pesticide on any organism or the behavior of such pesticide in the environment, including, but not limited to, data on safety to fish and wildlife, humans and other mammals, plants, animals, and soil, and studies on persistence, translocation and fate in the environment, and metabolism, shall be available for disclosure to the public. The use of such data for any registration purpose shall be governed by section 136a of this title. This paragraph does not authorize the disclosure of any information that—
 
 &emsp;(A) discloses manufacturing or quality control processes,
 
@@ -52,6 +52,8 @@ Information otherwise protected from disclosure to the public under subsection (
 
 (June 25, 1947, ch. 125, §10, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 989; amended Pub. L. 95–396, §15, Sept. 30, 1978, 92 Stat. 829; Pub. L. 98–620, title IV, §402(4)(B), Nov. 8, 1984, 98 Stat. 3357; Pub. L. 100–532, title VIII, §801(f), Oct. 25, 1988, 102 Stat. 2682; Pub. L. 102–237, title X, §1006(b)(1), (2), (3)(J), Dec. 13, 1991, 105 Stat. 1895, 1896.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 10 of act June 25, 1947, was classified to section 135h of this title prior to amendment of act June 25, 1947, by Pub. L. 92–516.
@@ -71,6 +73,8 @@ Subsec. (c). Pub. L. 102–237, §1006(b)(1), substituted "the Administrator" fo
 <b>1978</b>—Subsec. (b). Pub. L. 95–396, §15(1), made disclosure of information by the Administrator subject to the limitations of subsecs. (d) and (e) of this section.
 
 Subsecs. (d) to (g). Pub. L. 95–396, §15(2), added subsecs. (d) to (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

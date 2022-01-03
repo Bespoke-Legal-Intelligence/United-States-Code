@@ -12,6 +12,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2001</b>—Pub. L. 107–107, div. A, title VII, §711(e)(3), Dec. 28, 2001, 115 Stat. 1167, inserted "; authority to enter into agreements" after "definitions" in item 1111.

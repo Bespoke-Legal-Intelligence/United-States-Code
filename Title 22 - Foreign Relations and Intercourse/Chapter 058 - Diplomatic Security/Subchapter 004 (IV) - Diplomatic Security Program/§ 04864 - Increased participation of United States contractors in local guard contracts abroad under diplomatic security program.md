@@ -78,7 +78,7 @@ Not less than 10 percent of the amount of funds obligated for local guard contra
 
 #### (f) United States small business contractors
 
-Not less than 10 percent of the amount of funds obligated for local guard contracts forForeign Service buildings subject to subsection (c) shall be allocated to the extent practicable for contracts with United States small business contractors.
+Not less than 10 percent of the amount of funds obligated for local guard contracts for Foreign Service buildings subject to subsection (c) shall be allocated to the extent practicable for contracts with United States small business contractors.
 
 #### (g) Limitation of subcontracting
 

@@ -106,7 +106,7 @@ Formula.—The Secretary shall apportion amounts made available to carry out thi
 
 &emsp;&emsp;(A)
 
-Large urbanized areas.—Sixty percent of the funds shall be apportioned amongdesignated recipients for urbanized areas with a population of 200,000 or more individuals, as determined by the Bureau of the Census, in the ratio that—
+Large urbanized areas.—Sixty percent of the funds shall be apportioned among designated recipients for urbanized areas with a population of 200,000 or more individuals, as determined by the Bureau of the Census, in the ratio that—
 
 &emsp;&emsp;&emsp;(i) the number of seniors and individuals with disabilities in each such urbanized area; bears to
 
@@ -354,6 +354,8 @@ In subsection (g), the words "not later than 60 days following December 18, 1991
 
 In subsection (j), the words "elderly individuals and individuals with disabilities" are substituted for "elderly and handicapped persons" for consistency.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Americans with Disabilities Act of 1990, referred to in subsec. (b)(1)(B), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
@@ -375,6 +377,8 @@ Subsec. (i). Pub. L. 114–94, §3006(a)(2), added subsec. (i).
 Subsec. (h). Pub. L. 109–59, §3002(b)(2), substituted "Public" for "Mass".
 
 <b>1998</b>—Pub. L. 105–178 substituted "Formula grants" for "Grants" in section catchline.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 
@@ -450,7 +454,7 @@ Rule of construction.—For purposes of this subsection, nonemergency medical tr
 
 #### Elderly Individuals and Individuals With Disabilities Pilot Program
 
-Pub. L. 109–59, title III, §3012(b), Aug. 10, 2005, 119 Stat. 1591, as amended by Pub. L. 111–147, title IV, §437(c), Mar. 18, 2010, 124 Stat. 92; Pub. L. 111–322, title II, §2307(c), Dec. 22, 2010, 124 Stat. 3530; Pub. L. 112–5, title III, §307(c), Mar. 4, 2011, 125 Stat. 21; Pub. L. 112–30, title I, §137(c), Sept. 16, 2011, 125 Stat. 354; Pub. L. 112–102, title III, §307(c), Mar. 30, 2012, 126 Stat. 280; Pub.L. 112–140, title III, §307(c), June 29, 2012, 126 Stat. 401; Pub. L. 112–141, div. G, title III, §113007(c), July 6, 2012, 126 Stat. 987, which established a pilot program for certain States to carry out projects for public transportation of elderly individuals and individuals with disabilities, was repealed by Pub. L. 112–141, div. B, §20002(c)(3), July 6, 2012, 126 Stat. 622.
+Pub. L. 109–59, title III, §3012(b), Aug. 10, 2005, 119 Stat. 1591, as amended by Pub. L. 111–147, title IV, §437(c), Mar. 18, 2010, 124 Stat. 92; Pub. L. 111–322, title II, §2307(c), Dec. 22, 2010, 124 Stat. 3530; Pub. L. 112–5, title III, §307(c), Mar. 4, 2011, 125 Stat. 21; Pub. L. 112–30, title I, §137(c), Sept. 16, 2011, 125 Stat. 354; Pub. L. 112–102, title III, §307(c), Mar. 30, 2012, 126 Stat. 280; Pub. L. 112–140, title III, §307(c), June 29, 2012, 126 Stat. 401; Pub. L. 112–141, div. G, title III, §113007(c), July 6, 2012, 126 Stat. 987, which established a pilot program for certain States to carry out projects for public transportation of elderly individuals and individuals with disabilities, was repealed by Pub. L. 112–141, div. B, §20002(c)(3), July 6, 2012, 126 Stat. 622.
 
 #### Over-the-Road Bus Accessibility Program
 

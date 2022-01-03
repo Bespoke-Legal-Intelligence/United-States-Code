@@ -10,13 +10,15 @@ Every person, other than a distiller, warehouseman, or processor of distilled sp
 
 #### (c) Premises where no sign is placed or kept
 
-Every person who works in any distilled spirits plant on which no sign required by section 5180(a) is placed or kept, and every person who knowingly receives at, or carries or conveys any distilled spirits to or from any such distilledspirits plant or who knowingly carries or delivers any grain, molasses, or other raw material to any distilled spirits plant on which such a sign is not placed and kept, shall forfeit all vehicles, aircraft, or vessels used in carrying or conveying such property and shall be fined not more than $1,000, or imprisoned not more than 1 year, or both.
+Every person who works in any distilled spirits plant on which no sign required by section 5180(a) is placed or kept, and every person whoknowingly receives at, or carries or conveys any distilled spirits to or from any such distilled spirits plant or who knowingly carries or delivers any grain, molasses, or other raw material to any distilled spirits plant on which such a sign is not placed and kept, shall forfeit all vehicles, aircraft, or vessels used in carrying or conveying such property and shall be fined not more than $1,000, or imprisoned not more than 1 year, or both.
 
 #### (d) Presumption
 
 Whenever on trial for violation of subsection (c) by working in a distilled spirits plant on which no sign required by section 5180(a) is placed or kept, the defendant is shown to have been present at such premises, such presence of the defendant shall be deemed sufficient evidence to authorize conviction, unless the defendant explains such presence to the satisfaction of the jury (or of the court when tried without jury).
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1410; amended Pub. L. 96–39, title VIII, §807(a)(58), July 26, 1979, 93 Stat. 289; Pub. L. 105–34, title XIV, §1415(b)(1), (2), Aug. 5, 1997, 111 Stat. 1047; Pub. L. 115–141, div. U, title I, §108(a), Mar. 23, 2018, 132 Stat. 1171.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -37,6 +39,8 @@ Subsec. (b). Pub. L. 96–39, §807(a)(58)(B), substituted "other than a distill
 Subsec. (c). Pub. L. 96–39, §807(a)(58)(C), substituted "in any distilled spirits plant" for "in any distillery, or in any rectifying, distilled spirits bottling", "such distilled spirits plant" for "such distillery, or to or from any such rectifying, distilled spirits bottling", and "to any distilled spirits plant" for "to any distillery".
 
 Subsec. (d). Pub. L. 96–39, §807(a)(58)(D), substituted "distilled spirits plant" for "distillery or rectifying establishment".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

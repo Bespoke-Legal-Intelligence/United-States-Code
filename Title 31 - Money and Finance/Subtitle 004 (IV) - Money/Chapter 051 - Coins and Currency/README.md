@@ -66,7 +66,7 @@
 | [5152\.](Subchapter%20005%20%28V%29%20-%20Miscellaneous/%C2%A7%2005152%20-%20Value%20of%20United%20States%20money%20holdings%20in%20international%20institutions.md) | Value of United States money holdings in international institutions. |
 | [5153\.](Subchapter%20005%20%28V%29%20-%20Miscellaneous/%C2%A7%2005153%20-%20Counterfeit%20currency.md) | Counterfeit currency. |
 | [5154\.](Subchapter%20005%20%28V%29%20-%20Miscellaneous/%C2%A7%2005154%20-%20State%20taxation.md) | State taxation. |
-| [5155\.](Subchapter%20005%20%28V%29%20-%20Miscellaneous/%C2%A7%2005155%20-%20Providing%20engraved%20plates%20of%20portraits%20of%20deceased%20members%20of%20Congress.md) | Providing engraved plates of portraits of deceased members of Congress.<br> |
+| [5155\.](Subchapter%20005%20%28V%29%20-%20Miscellaneous/%C2%A7%2005155%20-%20Providing%20engraved%20plates%20of%20portraits%20of%20deceased%20members%20of%20Congress.md) | Providing engraved plates of portraits of deceased members of Congress. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -38,7 +38,7 @@
 
 #### (b) Wellness and prevention programs
 
-For purposes of subsection (a)(1)(D), wellness and health promotion activities may include personalized wellness and prevention services, which are coordinated, maintained or delivered by a health care provider, a wellness and prevention plan manager, or a health, wellness or prevention services organization that conducts health risk assessments or offers ongoing face-to-face, telephonic or web-based intervention efforts for each of the program's participants, and which may include the following wellness and prevention efforts:
+For purposes of subsection (a)(1)(D), wellness and health promotion activities may includepersonalized wellness and prevention services, which are coordinated, maintained or delivered by a health care provider, a wellness and prevention plan manager, or a health, wellness or prevention services organization that conducts health risk assessments or offers ongoing face-to-face, telephonic or web-based intervention efforts for each of the program's participants, and which may include the following wellness and prevention efforts:
 
 &emsp;(1) Smoking cessation.
 
@@ -106,6 +106,8 @@ Not later than 180 days after the date on which regulations are promulgated unde
 
 (July 1, 1944, ch. 373, title XXVII, §2717, as added and amended Pub. L. 111–148, title I, §1001(5), title X, §10101(e), Mar. 23, 2010, 124 Stat. 135, 884.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 3602 of the Patient Protection and Affordable Care Act, referred to in subsec. (a)(1)(A), is section 3602 of Pub. L. 111–148 which is set out as a note under section 1305w–21 of this title but the reference probably should be to section 3502 of the Act which is set out as a note under section 256a–1 of this title.
@@ -115,6 +117,8 @@ The Patient Protection and Affordable Care Act, referred to in subsec. (c), is P
 #### Amendments
 
 <b>2010</b>—Subsecs. (c) to (e). Pub. L. 111–148, §10101(e), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

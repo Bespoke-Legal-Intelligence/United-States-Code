@@ -20,7 +20,7 @@ Historical and Revision Notes
 
 Pub. L. 93–400, §4(11), as added Pub. L. 101–510, title VIII, §806(a)(1), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 103–355, title IV, §4001, title VIII, §8001(b)(1), (2), Oct. 13, 1994, 108 Stat. 3338, 3386.
 
-#### <b>Editorial Notes</b>
+#### <b>Editoral Notes</b>
 
 #### Amendments
 

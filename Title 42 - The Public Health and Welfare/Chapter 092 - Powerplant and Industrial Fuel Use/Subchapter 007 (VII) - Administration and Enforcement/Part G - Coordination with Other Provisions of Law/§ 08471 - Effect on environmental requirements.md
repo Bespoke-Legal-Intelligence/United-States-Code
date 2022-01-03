@@ -16,6 +16,8 @@ In the case of any new or existing facility—
 
 (Pub. L. 95–620, title VII, §761, Nov. 9, 1978, 92 Stat. 3345; Pub. L. 100–42, §1(c)(23), May 21, 1987, 101 Stat. 314.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a) and (b)(1), was in the original "this Act", meaning Pub. L. 95–620, Nov. 9, 1978, 92 Stat. 3289, known as the Powerplant and Industrial Fuel Use Act of 1978, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of this title and Tables.

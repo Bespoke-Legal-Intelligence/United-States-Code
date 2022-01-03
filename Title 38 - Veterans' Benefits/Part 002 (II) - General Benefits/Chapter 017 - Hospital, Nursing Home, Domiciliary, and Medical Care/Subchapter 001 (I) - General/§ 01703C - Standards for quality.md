@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—(1) The Secretary shall establish standards for quality regarding hospital care, medical services, and extended care services furnished by the Department pursuant to this title, including through non-Department health care providers pursuant to section 1703 of this title.
+In General.—(1) The Secretary shall establish standards for quality regarding hospital care, medical services, and extended care services furnished by the Department pursuant to this title, including through non-Departmenthealth care providers pursuant to section 1703 of this title.
 
 (2) In establishing standards for quality under paragraph (1), the Secretary shall consider existing health quality measures that are applied to public and privately sponsored health care systems with the purpose of providing covered veterans relevant comparative information to make informed decisions regarding their health care.
 

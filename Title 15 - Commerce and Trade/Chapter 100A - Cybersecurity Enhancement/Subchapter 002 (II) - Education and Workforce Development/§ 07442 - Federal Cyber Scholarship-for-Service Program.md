@@ -62,7 +62,7 @@ Each scholarship recipient, as a condition of receiving a scholarship under the 
 
 #### (3) Timing of conversion
 
-&emsp;An agency may noncompetitively convert a term employee appointed under paragraph (2)to a career-conditional or career appointment before the term appointment expires.
+&emsp;An agency may noncompetitively convert a term employee appointed under paragraph (2) to a career-conditional or career appointment before the term appointment expires.
 
 #### (4) Authority to decline conversion
 
@@ -158,7 +158,7 @@ A loan described subsection (i) shall—
 
 #### (3) Retain percentage
 
-&emsp;A qualified institution of higher education may retain a percentage of any repayment the institution collects under this subsection to defray administrative costs associated with the collection. The Director of the National Science Foundation shall establish a single, fixed percentage that will apply to all eligible entities.
+&emsp;A qualified institution of higher education may retain a percentage of any repayment theinstitution collects under this subsection to defray administrative costs associated with the collection. The Director of the National Science Foundation shall establish a single, fixed percentage that will apply to all eligible entities.
 
 #### (l) Exceptions
 
@@ -204,6 +204,8 @@ The Director of the National Science Foundation may provide for the partial or t
 
 (Pub. L. 113–274, title III, §302, Dec. 18, 2014, 128 Stat. 2982; Pub. L. 115–91, div. A, title XVI, §1649B(a), Dec. 12, 2017, 131 Stat. 1754; Pub. L. 116–283, div. H, title XCIV, §§9401(g)(4)(C), 9403, 9404, Jan. 1, 2021, 134 Stat. 4810, 4811.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Higher Education Act of 1965, referred to in subsec. (j)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Part D of title IV of the Act is classified to part D (§1087a et seq.) of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
@@ -220,7 +222,7 @@ Subsec. (d)(6). Pub. L. 116–283, §9403(2), added par. (6).
 
 Subsec. (f)(3). Pub. L. 116–283, §9401(g)(4)(C), substituted "under section 7443" for "under section 7451".
 
-Subsec. (f)(5) to (7). Pub. L. 116–283, §9404(1), added pars. (5) to (7) and struck out former par. (5) which read as follows: "accept the terms of a scholarship under this section."
+Subsec. (f)(5) to (7). Pub. L. 116–283, §9404(1), added pars. (5) to (7) and struck out former par. (5) which read as follows: "accept the terms of a scholarship under this section.".
 
 Subsec. (g)(1). Pub. L. 116–283, §9404(2)(A), inserted "the Office of Personnel Management (in coordination with the National Science Foundation) and" before "the qualified institution".
 
@@ -245,6 +247,8 @@ Subsec. (f)(3). Pub. L. 115–91, §1649B(a)(3)(A), amended par. (3) generally. 
 Subsec. (f)(4). Pub. L. 115–91, §1649B(a)(3)(B), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "be a full-time student in an eligible degree program at a qualified institution of higher education, as determined by the Director of the National Science Foundation; and".
 
 Subsec. (m). Pub. L. 115–91, §1649B(a)(4), amended subsec. (m) generally. Prior to amendment, text read as follows: "The Director of the National Science Foundation shall evaluate and report periodically to Congress on the success of recruiting individuals for scholarships under this section and on hiring and retaining those individuals in the public sector workforce."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Savings Provision
 

@@ -26,6 +26,8 @@ Exception.—Paragraph (1) shall not apply to a prime contract with a contractor
 
 (Added and amended Pub. L. 116–283, div. A, title XVIII, §1817(a), (c), (e), (f), Jan. 1, 2021, 134 Stat. 4186, 4187.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 For derivation of subsec. (a) of this section, see Codification note related to subsec. (a) of section 2306 of this title set out under section 3321 of this title.
@@ -41,6 +43,8 @@ The text of subsec. (e) of section 2306 of this title, which was transferred to 
 Subsec. (b). Pub. L. 116–283, §1817(e), (f)(2), redesignated subsec. (d) of section 2306 of this title as subsec. (b) of this section and inserted heading.
 
 Subsec. (c). Pub. L. 116–283, §1817(e), (f)(3), redesignated subsec. (e) of section 2306 of this title as subsec. (c) of this section, inserted subsec. and par. headings, and realigned margin of par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

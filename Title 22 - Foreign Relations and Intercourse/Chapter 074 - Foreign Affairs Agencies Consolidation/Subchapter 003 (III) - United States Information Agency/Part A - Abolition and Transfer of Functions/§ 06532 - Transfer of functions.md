@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-There are transferred to the Secretary of State all functions of the Director of the United States Information Agency and all functions of the United States Information Agency and any office or component of such agency, under any statute, reorganization plan, Executive order, or other provision of law, as of the day before the effective date of this subchapter.
+There are transferred to the Secretary of State all functions of the Director of the United States Information Agency and all functions ofthe United States Information Agency and any office or component of such agency, under any statute, reorganization plan, Executive order, or other provision of law, as of the day before the effective date of this subchapter.
 
 #### (b) Exception
 
@@ -15,6 +15,8 @@ Subsection (a) does not apply to the Broadcasting Board of Governors, the Intern
 #### References in Text
 
 For the effective date of this subchapter, referred to in subsec. (a), meaning the effective date of title XIII of subdiv. A of div. G of Pub. L. 105–277, see section 1301 of Pub. L. 105–277, set out as a note under section 6531 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

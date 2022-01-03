@@ -80,7 +80,7 @@ The Secretary of Homeland Security and the Secretary of State are authorized to 
 
 &emsp;&emsp;&emsp;&emsp;(II) a country that is designated, at the time the alien applies for admission, by the Secretary of State under section 4605(j) <sup>2</sup> of title 50 (as continued in effect under the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)), section 2780 of title 22, section 2371 of title 22, or any other provision of law, as a country, the government of which has repeatedly provided support of acts of international terrorism; or
 
-&emsp;&emsp;&emsp;&emsp;(III) any other country that is designated, at the time the alien applies for admission, by the Secretary of Homeland Security under subparagraph (D).
+&emsp;&emsp;&emsp;&emsp;(III) any other country that is designated, at the time the alien applies foradmission, by the Secretary of Homeland Security under subparagraph (D).
 
 #### (B) Certain military personnel and government employees
 
@@ -156,13 +156,13 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 #### (ii) Validation of passports
 
-&emsp;&emsp;&emsp;Not later than October 1, 2016, the government of the country certifies that it has in place mechanisms to validate passports described in subparagraphs (A) and (B) of subsection (a)(3) at each key port ofentry into that country. This requirement shall not apply to travel between countries which fall within the Schengen Zone.
+&emsp;&emsp;&emsp;Not later than October 1, 2016, the government of the country certifies that it has in place mechanisms to validate passports described in subparagraphs (A) and (B) of subsection (a)(3) at each key port of entry into that country. This requirement shall not apply to travel between countries which fall within the Schengen Zone.
 
 #### (C) Law enforcement and security interests
 
 &emsp;&emsp;The Secretary of Homeland Security, in consultation with the Secretary of State—
 
-&emsp;&emsp;&emsp;(i) evaluates the effect that the country's designation would have on the law enforcement and security interests of the United States (including the interest in enforcement of the immigration laws of the United States and the existence and effectiveness of its agreements and procedures for extraditing to the United States individuals, including its own nationals, who commit crimes that violate United States law);
+&emsp;&emsp;&emsp;(i) evaluates the effect that the country's designation would have on the law enforcement and security interests of the United States (including the interest in enforcement of the immigration laws of the United States and the existence and effectiveness of its agreements and procedures for extraditing to the United States individuals, including its own nationals,who commit crimes that violate United States law);
 
 &emsp;&emsp;&emsp;(ii) determines that such interests would not be compromised by the designation of the country; and
 
@@ -222,7 +222,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 &emsp;&emsp;&emsp;The Secretary of Homeland Security, in consultation with the Secretary of State, periodically (but not less than once every 2 years)—
 
-&emsp;&emsp;&emsp;&emsp;(I) shall evaluate the effect of each program country's continued designation on the law enforcement and security interests of the United States (including the interest in enforcement of the immigration laws of the United States and the existence and effectiveness of its agreements and procedures for extraditing to the United States individuals, including its own nationals, who commit crimes that violate United States law);
+&emsp;&emsp;&emsp;&emsp;(I) shall evaluate the effect of each program country's continued designation on the law enforcement and security interests of the United States (includingthe interest in enforcement of the immigration laws of the United States and the existence and effectiveness of its agreements and procedures for extraditing to the United States individuals, including its own nationals, who commit crimes that violate United States law);
 
 &emsp;&emsp;&emsp;&emsp;(II) shall determine, based upon the evaluation in subclause (I), whether any such designation ought to be continued or terminated under subsection (d);
 
@@ -278,7 +278,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 &emsp;&emsp;&emsp;&emsp;(II) shall notify any country suspended under subclause (I) and, to the extent practicable without disclosing sensitive intelligence sources and methods, provide justification for the suspension; and
 
-&emsp;&emsp;&emsp;&emsp;(III) shall restore the suspended country's participation in the visa waiver program upon a determination that the threat no longer poses an imminent danger to the United States or its citizens.
+&emsp;&emsp;&emsp;&emsp;(III) shall restore the suspended country's participation in the visa waiver program upon a determination that thethreat no longer poses an imminent danger to the United States or its citizens.
 
 #### (C) Treatment of nationals after termination
 
@@ -338,7 +338,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 #### (iii) Temporary suspension of waiver authority
 
-&emsp;&emsp;&emsp;Notwithstanding any certification made under clause (i), if the Secretary has not notified Congress in accordance with clause (ii) by June 30, 2009, the Secretary's waiver authority under subparagraph (B)shall be suspended beginning on July 1, 2009, until such time as the Secretary makes such notification.
+&emsp;&emsp;&emsp;Notwithstanding any certification made under clause (i), if the Secretary has not notified Congress in accordance with clause (ii) by June 30, 2009, the Secretary's waiver authority under subparagraph (B) shall be suspended beginning on July 1, 2009, until such time as the Secretary makes such notification.
 
 #### (iv) Rule of construction
 
@@ -402,7 +402,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 #### (B) Reporting requirement
 
-&emsp;&emsp;The Director shall provide to the Secretary of Homeland Security, the Secretaryof State, and the Attorney General the independent intelligence assessment required under subparagraph (A).
+&emsp;&emsp;The Director shall provide to the Secretary of Homeland Security, the Secretary of State, and the Attorney General the independent intelligence assessment required under subparagraph (A).
 
 #### (C) Contents
 
@@ -412,7 +412,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 &emsp;&emsp;&emsp;(ii) an evaluation of the subject country's counterterrorism efforts;
 
-&emsp;&emsp;&emsp;(iii) an evaluation as to the extent of the country's sharing of information beneficial to suppressing terrorist movements, financing, or actions;
+&emsp;&emsp;&emsp;(iii) an evaluation as to the extent of the country's sharing of information beneficialto suppressing terrorist movements, financing, or actions;
 
 &emsp;&emsp;&emsp;(iv) an assessment of the risks associated with including the subject country in the program; and
 
@@ -460,7 +460,7 @@ Notwithstanding any other provision of this section, the Secretary of Homeland S
 
 &emsp;The agreement referred to in subsection (a)(4) is an agreement between a carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title and the Secretary of Homeland Security under which the carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title agrees, in consideration of the waiver of the visa requirement with respect to a nonimmigrant visitor under the program—
 
-&emsp;&emsp;(A) to indemnify the United States against any costs for the transportation of the alien from the United States if the visitor is refused admission to the United States or remains in the United States unlawfully afterthe 90-day period described in subsection (a)(1)(A),
+&emsp;&emsp;(A) to indemnify the United States against any costs for the transportation of the alien from the United States if the visitor is refused admission to the United States or remains in the United States unlawfully after the 90-day period described in subsection (a)(1)(A),
 
 &emsp;&emsp;(B) to submit daily to immigration officers any immigration forms received with respect to nonimmigrant visitors provided a waiver under the program,
 
@@ -818,7 +818,7 @@ Subsec. (a)(2)(A). Pub. L. 106–396, §201, inserted ", either on its own or i
 
 Subsec. (a)(3), (4). Pub. L. 106–396, §202(a), added par. (3) and redesignated former par. (3) as (4). Former par. (4) redesignated (5).
 
-Subsec. (a)(5). Pub. L. 106–396, §403(a), substituted ", including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations, or a noncommercial aircraft that is owned or operated by a domestic corporation conducting operations under part 91 of title 14, Code of Federal Regulations which has entered into an agreement with the Attorney General pursuant to subsection (e). The Attorney General is authorized to require a carrier conducting operations under part 135 of title 14, Code of Federal Regulations, or a domestic corporation conducting operations under part 91 of that title, to give suitable and proper bond, in such reasonable amount and containing such conditions as the Attorney General may deem sufficient to ensure compliance with the indemnification requirements of this section, as a term of such an agreement" for "which has entered into an agreement with the Service to guarantee transport of the alien out of the United States if the alien is found inadmissible or deportable by an immigration officer".
+Subsec. (a)(5). Pub. L. 106–396, §403(a), substituted ", including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations, or a noncommercial aircraft that is owned or operated by a domestic corporation conducting operations under part 91 of title 14, Code of Federal Regulations which has entered into an agreement with the Attorney General pursuant to subsection (e). The Attorney General is authorized to require a carrier conducting operations under part 135 of title 14, Code of Federal Regulations, or a domestic corporation conducting operations underpart 91 of that title, to give suitable and proper bond, in such reasonable amount and containing such conditions as the Attorney General may deem sufficient to ensure compliance with the indemnification requirements of this section, as a term of such an agreement" for "which has entered into an agreement with the Service to guarantee transport of the alien out of the United States if the alien is found inadmissible or deportable by an immigration officer".
 
 Pub. L. 106–396, §202(a)(1), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
@@ -944,11 +944,11 @@ Subsec. (f). Pub. L. 101–649, §201(a)(7), (9), redesignated subsec. (e) as (f
 
 Subsec. (a). Pub. L. 100–525, §2(p)(2), substituted "hereinafter" for "hereafter".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
-
-#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 
@@ -1008,7 +1008,7 @@ Pub. L. 107–56, title IV, §417(a), (b), Oct. 26, 2001, 115 Stat. 355, require
 
 #### Report Required
 
-Pub. L. 106–396, title IV, §403(e), Oct. 30, 2000, 114 Stat. 1649, provided that: "Not later than two years after the date of the enactment of this Act \[Oct. 30, 2000\], the Attorney General shall submit a report to the Committees on the Judiciary of the House of Representatives and the Senate assessing the effectiveness of the program implemented under the amendments made by this section \[amending this section\] for simplifying the admission of business travelers from visa waiver program countries and compliance with the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] by such travelers under that program."
+Pub. L. 106–396, title IV, §403(e), Oct. 30, 2000, 114 Stat. 1649, provided that: "Not later than two years after thedate of the enactment of this Act \[Oct. 30, 2000\], the Attorney General shall submit a report to the Committees on the Judiciary of the House of Representatives and the Senate assessing the effectiveness of the program implemented under the amendments made by this section \[amending this section\] for simplifying the admission of business travelers from visa waiver program countries and compliance with the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] by such travelers under that program."
 
 #### Transition Provisions
 

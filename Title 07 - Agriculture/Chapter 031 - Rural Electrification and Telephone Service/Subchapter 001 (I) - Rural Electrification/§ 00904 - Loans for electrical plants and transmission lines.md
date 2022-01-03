@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary is authorized and empowered, from the sums hereinbefore authorized, to make loans for rural electrification to persons, corporations, States, Territories, and subdivisions and agencies thereof, municipalities, peoples' utility districts and cooperative, nonprofit, or limited-dividend associations, organized under the laws of any State or Territory of the United States, for the purpose of financing the construction and operation of generating plants, electric transmission and distribution lines or systems for the furnishing and improving of electric service to persons in rural areas, including by assisting electric borrowers to implement demand side management, energy efficiency and conservation programs, and on-grid and off-grid renewable energy systems, and loans, from funds available under section 903 of this title, to cooperative associations and municipalities for the purpose of enabling said cooperative associations, and municipalities to the extent that such indebtedness was incurred with respect to electric transmission and distribution lines or systems or portions thereof serving persons in rural areas, to discharge or refinance long-term debts owed by them to the Tennessee Valley Authority on account of loans made or credit extended under the terms of the Tennessee Valley Authority Act of 1933, as amended \[16 U.S.C. 831 et seq.\]: <i>Provided</i>, That the Secretary, in making such loans, shall give preference to States, Territories, and subdivisions and agencies thereof, municipalities, peoples' utility districts, and cooperative, nonprofit, or limited-dividend associations, the projects of which comply with the requirements of this chapter.
+The Secretary is authorized and empowered, from the sums hereinbefore authorized, to make loans for rural electrification to persons, corporations, States, Territories, and subdivisions and agencies thereof, municipalities, peoples' utility districts and cooperative, nonprofit, or limited-dividend associations, organized under the laws of any State or Territory of the United States, for the purpose of financing the construction and operation of generating plants, electric transmission and distribution lines or systems for the furnishing and improving of electric service to persons in rural areas, including by assisting electric borrowers to implement demand side management, energy efficiency and conservation programs, and on-grid and off-grid renewable energy systems, and loans, from funds available under section 903 of this title, to cooperative associations and municipalities for the purpose of enabling said cooperative associations, and municipalities to the extent that such indebtedness was incurred with respect to electric transmission and distribution lines or systems or portions thereof serving persons in rural areas, to discharge or refinance long-term debts owed by them to the Tennessee Valley Authority on account of loans made or credit extended under the terms of the Tennessee Valley Authority Act of 1933, as amended \[16 U.S.C. 831 et seq.\]:<i>Provided</i>, That the Secretary, in making such loans, shall give preference to States, Territories, and subdivisions and agencies thereof, municipalities, peoples' utility districts, and cooperative, nonprofit, or limited-dividend associations, the projects of which comply with the requirements of this chapter.
 
 #### (b) Terms and conditions
 
@@ -23,6 +23,8 @@ Such loans shall be on such terms and conditions relating to the expenditure of 
 Loans under this section shall not be made unless the Secretary finds and certifies that in his judgment the security therefor is reasonably adequate and such loan will be repaid within the time agreed.
 
 (May 20, 1936, ch. 432, title I, §4, 49 Stat. 1365; Sept. 21, 1944, ch. 412, title V, §§502(a), 503, 58 Stat. 739, 740; Dec. 23, 1944, ch. 725, 58 Stat. 925; June 29, 1948, ch. 703, 62 Stat. 1070; Oct. 28, 1949, ch. 776, §§2, 4(e), 63 Stat. 948; June 15, 1955, ch. 139, §2, 69 Stat. 132; Pub. L. 103–129, §2(c)(2), Nov. 1, 1993, 107 Stat. 1363; Pub. L. 103–354, title II, §235(a)(13), Oct. 13, 1994, 108 Stat. 3221; Pub. L. 104–127, title VII, §773, Apr. 4, 1996, 110 Stat. 1149; Pub. L. 110–234, title VI, §§6101, 6102(a), May 22, 2008, 122 Stat. 1195; Pub. L. 110–246, §4(a), title VI, §§6101, 6102(a), June 18, 2008, 122 Stat. 1664, 1956.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -53,6 +55,8 @@ Pub. L. 110–246, §6101, inserted "efficiency and" before "conservation" in fi
 <b>1944</b>—Act Dec. 23, 1944, inserted provision authorizing loans to cooperative associations to enable them to discharge or refinance debts owed to the Tennessee Valley Authority.
 
 Act Sept. 21, 1944, extended limit of self-liquidating period from 25 to 35 years and changing the rate of interest.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

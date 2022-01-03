@@ -118,6 +118,8 @@ Funds appropriated under this section shall remain available until expended.
 
 (Pub. L. 101–610, title V, §501, Nov. 16, 1990, 104 Stat. 3185; Pub. L. 102–384, §11, Oct. 5, 1992, 106 Stat. 1459; Pub. L. 103–82, title III, §301(a), Sept. 21, 1993, 107 Stat. 897; Pub. L. 111–13, title I, §1841, Apr. 21, 2009, 123 Stat. 1579.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (a)(3)(B), (5)(A), (6), was in the original "this Act", meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
@@ -130,13 +132,15 @@ Division K of subchapter I, referred to in subsec. (a)(6), was in the original "
 
 <b>2009</b>—Subsec. (a). Pub. L. 111–13, §1841(1), added subsec. (a) and struck out former subsec. (a) which authorized appropriations for subchapter I of this chapter.
 
-Subsecs. (b) to (d). Pub. L. 111–13, §1841(2), (3), redesignated subsec. (c) as (b) and struck out former subsec. (b), which authorized appropriations for subchapter II of this chapter, and subsec. (d), which specified the budget function for the appropriations authorized in this section.
+Subsecs. (b) to (d). Pub. L. 111–13, §1841(2), (3), redesignated subsec. (c) as (b) and struck out former subsec.\(b), which authorized appropriations for subchapter II of this chapter, and subsec. (d), which specified the budget function for the appropriations authorized in this section.
 
 <b>1993</b>—Pub. L. 103–82 amended section generally, substituting subsecs. (a) to (d) for former subsecs. (a) and (b) which authorized appropriations to carry out subchapter I for fiscal year 1993 and subchapter II for fiscal years 1991 to 1993.
 
 <b>1992</b>—Subsec. (a)(1). Pub. L. 102–384, §11(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "There are authorized to be appropriated to carry out subchapter I of this chapter, $56,000,000 for fiscal year 1991, $95,500,000 for fiscal year 1992, and $105,000,000 for fiscal year 1993."
 
 Subsec. (a)(2). Pub. L. 102–384, §11(b), substituted "paragraph (1)(A)" for "paragraph (1)" in introductory provisions, redesignated subpars. (B) to (D) as (A) to (C), respectively, added subpar. (D), and struck out former subpar. (A) which read as follows: "$2,000,000 shall be made available to carry out part G of subchapter I of this chapter in each such fiscal year;".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

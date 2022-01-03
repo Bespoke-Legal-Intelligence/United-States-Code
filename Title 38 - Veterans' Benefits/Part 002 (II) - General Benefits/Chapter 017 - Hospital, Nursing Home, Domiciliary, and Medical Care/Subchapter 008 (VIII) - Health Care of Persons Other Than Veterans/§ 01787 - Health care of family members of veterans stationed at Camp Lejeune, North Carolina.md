@@ -20,7 +20,7 @@ Limitations.—(1) The Secretary may only furnish hospital care and medical serv
 
 Prior section 1787 was renumbered section 3687 of this title.
 
-Another prior section 1787, added Pub. L. 89–358, §3(b), Mar. 3, 1966, 80 Stat. 23, related to the submission offalse or misleading statements by educational institutions, persons or veterans, prior to repeal by section 316(1) of Pub. L. 92–540. See section 3690 of this title.
+Another prior section 1787, added Pub. L. 89–358, §3(b), Mar. 3, 1966, 80 Stat. 23, related to the submission of false or misleading statements by educational institutions, persons or veterans, prior to repeal by section 316(1) of Pub. L. 92–540. See section 3690 of this title.
 
 Prior section 1788 was renumbered section 3688 of this title.
 

@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;(i) such services will be provided without imposing any requirement under the plan for prior authorization of services or any limitation on coverage that is more restrictive than the requirements or limitations that apply to emergency services received from participating providers and participating emergency facilities with respect to such plan or coverage, respectively;
 
-&emsp;&emsp;&emsp;(ii) the cost-sharing requirement is not greater than the requirement that would apply if such services were provided by a participating provider or a participating emergency facility;
+&emsp;&emsp;&emsp;(ii) the cost-sharing requirement is not greater than the requirement that would apply if such services were provided by aparticipating provider or a participating emergency facility;
 
 &emsp;&emsp;&emsp;(iii) such cost-sharing requirement is calculated as if the total amount that would have been charged for such services by such participating provider or participating emergency facility were equal to the recognized amount (as defined in paragraph (3)(H)) for such services, plan or coverage, and year;
 
@@ -62,7 +62,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) a medical screening examination (as required under section 1867 of the Social Security Act \[42 U.S.C. 1395dd\], or as would be required under such section if such section applied to an independent freestanding emergency department) that is within the capability of the emergency department of a hospital or of an independent freestanding emergency department, as applicable, including ancillary services routinely available to the emergency department to evaluate such emergency medical condition; and
 
-&emsp;&emsp;&emsp;&emsp;(II) within the capabilities of the staff and facilities available at the hospital or the independent freestanding emergency department, as applicable, such further medical examination and treatment as are required under section 1867 of such Act \[42 U.S.C. 1395dd\], or as would be required under such section if such section applied to an independent freestanding emergency department, to stabilize the patient (regardless of the department of the hospital in which such further examination or treatment is furnished).
+&emsp;&emsp;&emsp;&emsp;(II) within the capabilities of the staff and facilities available at the hospital orthe independent freestanding emergency department, as applicable, such further medical examination and treatment as are required under section 1867 of such Act \[42 U.S.C. 1395dd\], or as would be required under such section if such section applied to an independent freestanding emergency department, to stabilize the patient (regardless of the department of the hospital in which such further examination or treatment is furnished).
 
 #### (ii) Inclusion of additional services
 
@@ -76,7 +76,7 @@
 
 #### (II) Conditions
 
-&emsp;&emsp;&emsp;&emsp;For purposes of subclause (I), the conditions described in this subclause, withrespect to a participant or beneficiary who is stabilized and furnished additional items and services described in subclause (I) after such stabilization by a provider or facility described in subclause (I), are the following;
+&emsp;&emsp;&emsp;&emsp;For purposes of subclause (I), the conditions described in this subclause, with respect to a participant or beneficiary who is stabilized and furnished additional items and services described in subclause (I) after such stabilization by a provider or facility described in subclause (I), are the following;
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) Such provider or facility determines such individual is able to travel using nonmedical transportation or nonemergency medical transportation.
 
@@ -108,7 +108,7 @@
 
 &emsp;&emsp;&emsp;The term "qualifying payment amount" means, with respect to a sponsor of a group health plan or health insurance issuer offering group health insurance coverage in a geographic region in which such sponsor or issuer, respectively, did not offer any group health plan or health insurance coverage during 2019—
 
-&emsp;&emsp;&emsp;&emsp;(I) for the first year in which such group health plan or health insurance coverage, respectively, is offered in such region, a rate (determined in accordance with a methodology established by the Secretary) for items and services that are covered by such plan and furnished during such first year; and
+&emsp;&emsp;&emsp;&emsp;(I) for the first year in which such group health plan or health insurancecoverage, respectively, is offered in such region, a rate (determined in accordance with a methodology established by the Secretary) for items and services that are covered by such plan and furnished during such first year; and
 
 &emsp;&emsp;&emsp;&emsp;(II) for each subsequent year such group health plan or health insurance coverage, respectively, is offered in such region, the qualifying payment amount determined under this clause for such items and services furnished in the previous year, increased by the percentage increase in the consumer price index for all urban consumers (United States city average) over such previous year.
 
@@ -116,7 +116,7 @@
 
 &emsp;&emsp;&emsp;In the case of a sponsor of a group health plan or health insurance issuer offering group health insurance coverage that does not have sufficient information to calculate the median of the contracted rates described in clause (i)(I) in 2019 (or, in the case of a newly covered item or service (as defined in clause (v)(III)), in the first coverage year (as defined in clause (v)(I)) for such item or service with respect to such plan or coverage) for an item or service (including with respect to provider type, or amount, of claims for items or services (as determined by the Secretary) provided in a particular geographic region (other than in a case with respect to which clause (ii) applies)) the term "qualifying payment amount"—
 
-&emsp;&emsp;&emsp;&emsp;(I) for an item or service furnished during 2022 (or, in the case of a newly covered item or service, during the first coverage year for such item or service with respect to such plan or coverage), means such rate for such item or service determined by the sponsor or issuer, respectively, through use of any database thatis determined, in accordance with rulemaking described in paragraph (2), to not have any conflicts of interest and to have sufficient information reflecting allowed amounts paid to a health care provider or facility for relevant services furnished in the applicable geographic region (such as a State all-payer claims database);
+&emsp;&emsp;&emsp;&emsp;(I) for an item or service furnished during 2022 (or, in the case of a newly covered item or service, during the first coverage year for such item or service with respect to such plan or coverage), means such rate for such item or service determined by the sponsor or issuer, respectively, through use of any database that is determined, in accordance with rulemaking described in paragraph (2), to not have any conflicts of interest and to have sufficient information reflecting allowed amounts paid to a health care provider or facility for relevant services furnished in the applicable geographic region (such as a State all-payer claims database);
 
 &emsp;&emsp;&emsp;&emsp;(II) for an item or service furnished in a subsequent year (before the first sufficient information year (as defined in clause (v)(II)) for such item or service with respect to such plan or coverage), means the rate determined under subclause (I) or this subclause, as applicable, for such item or service for the year previous to such subsequent year, increased by the percentage increase in the consumer price index for all urban consumers (United States city average) over such previous year;
 
@@ -148,7 +148,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) in the case of an item or service for which the plan or coverage does not have sufficient information to calculate the median of the contracted rates described in clause (i)(I) in 2019, the first year subsequent to 2022 for which such sponsor or issuer has such sufficient information to calculate the median of such contracted rates in the year previous to such first subsequent year; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) in the case of a newly covered item or service, the first year subsequent to the first coverage year for such item or service with respect to such plan or coverage for which the sponsor or issuer has sufficient information to calculate the median of the contracted rates described in clause (i)(I) in the year previous to such first subsequent year.
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) in the case of a newly covered item or service, the first year subsequent to the first coverage year for such item or service with respect tosuch plan or coverage for which the sponsor or issuer has sufficient information to calculate the median of the contracted rates described in clause (i)(I) in the year previous to such first subsequent year.
 
 #### (III) Newly covered item or service
 
@@ -194,7 +194,7 @@
 
 #### (K) Out-of-network rate
 
-&emsp;&emsp;The term "out-of-network rate" means, with respect to an item or service furnished in a State during a year to a participant or beneficiary of a group health plan or group health insurance coverage offered by a health insurance issuer receiving such item or service from a nonparticipating provider or nonparticipating emergency facility—
+&emsp;&emsp;The term "out-of-network rate" means, with respect to an item or service furnishedin a State during a year to a participant or beneficiary of a group health plan or group health insurance coverage offered by a health insurance issuer receiving such item or service from a nonparticipating provider or nonparticipating emergency facility—
 
 &emsp;&emsp;&emsp;(i) subject to clause (iii), in the case of such item or service furnished in a State that has in effect a specified State law with respect to such plan, coverage, or issuer, respectively; such a nonparticipating provider or nonparticipating emergency facility; and such an item or service, the amount determined in accordance with such law;
 
@@ -204,7 +204,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) if such provider or facility (as applicable) and such plan or coverage enter the independent dispute resolution process under subsection (c) and do not so agree before the date on which a certified IDR entity (as defined in paragraph (4) of such subsection) makes a determination with respect to such item or service under such subsection, the amount of such determination; or
 
-&emsp;&emsp;&emsp;(iii) in the case such State has an All-Payer Model Agreement under section1115A of the Social Security Act \[42 U.S.C. 1315a\], the amount that the State approves under such system for such item or service so furnished.
+&emsp;&emsp;&emsp;(iii) in the case such State has an All-Payer Model Agreement under section 1115A of the Social Security Act \[42 U.S.C. 1315a\], the amount that the State approves under such system for such item or service so furnished.
 
 #### (L) Cost-sharing
 
@@ -278,7 +278,7 @@
 
 #### (C) Clarification
 
-&emsp;&emsp;A nonparticipating provider may not, with respect to an item or service furnished by such provider, submit a notification under paragraph (1)(B) if such provider is exempt from the requirement under subsection (a) of section 300gg–132 of title 42 with respect to such item or service pursuant to subsection (b) of such section.
+&emsp;&emsp;A nonparticipating provider may not, with respect to an item or service furnished bysuch provider, submit a notification under paragraph (1)(B) if such provider is exempt from the requirement under subsection (a) of section 300gg–132 of title 42 with respect to such item or service pursuant to subsection (b) of such section.
 
 #### (3) Treatment of batching of items and services
 
@@ -296,7 +296,7 @@
 
 #### (B) Treatment of bundled payments
 
-&emsp;&emsp;In carrying out subparagraph (A), the Secretary shall provide that, in the case ofitems and services which are included by a provider or facility as part of a bundled payment, such items and services included in such bundled payment may be part of a single determination under this subsection.
+&emsp;&emsp;In carrying out subparagraph (A), the Secretary shall provide that, in the case of items and services which are included by a provider or facility as part of a bundled payment, such items and services included in such bundled payment may be part of a single determination under this subsection.
 
 #### (4) Certification and selection of IDR entities
 
@@ -408,7 +408,7 @@
 
 #### (D) Prohibition on consideration of certain factors
 
-&emsp;&emsp;In determining which offer is the payment to be applied with respect to qualified IDR items and services furnished by a provider or facility, the certified IDR entity with respect to a determination shall not consider usual and customary charges, the amount that would have been billed by such provider or facility with respect to such items and services had the provisions of section 300gg–131 of title 42 or section 300gg–132 of such title (as applicable) not applied, or the payment or reimbursement rate for such items and services furnished by such provider or facility payable by a public payor, including under the Medicare program under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\], under the Medicaid program under title XIX of such Act \[42 U.S.C. 1396 et seq.\], under the Children's Health Insurance Program under title XXI of such Act \[42 U.S.C. 1397aa et seq.\], under the TRICARE program under chapter 55 of title 10, or under chapter 17 of title 38.
+&emsp;&emsp;In determining which offer is the payment to be applied with respect to qualified IDR items and services furnished by a provider or facility, the certified IDR entity with respect to a determination shall not consider usual and customary charges, the amount that would have been billed by such provider or facility with respect to such items and services had the provisions of section 300gg–131 of title 42 or section 300gg–132 of such title (as applicable) not applied, or the payment or reimbursement rate for suchitems and services furnished by such provider or facility payable by a public payor, including under the Medicare program under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\], under the Medicaid program under title XIX of such Act \[42 U.S.C. 1396 et seq.\], under the Children's Health Insurance Program under title XXI of such Act \[42 U.S.C. 1397aa et seq.\], under the TRICARE program under chapter 55 of title 10, or under chapter 17 of title 38.
 
 #### (E) Effects of determination
 
@@ -561,10 +561,6 @@ A group health plan or a health insurance issuer offering group health insurance
 &emsp;&emsp;For purposes of subparagraph (A), the term "specified item or service" means an item or service that has low utilization or significant variation in costs (such as when furnished as part of a complex treatment), as specified by the Secretary.
 
 (Pub. L. 93–406, title I, §716, as added and amended Pub. L. 116–260, div. BB, title I, §§102(b)(1), 103(b), 107(b), 111(c), Dec. 27, 2020, 134 Stat. 2772, 2806, 2858, 2865.)
-
-#### Applicability of Amendment
-
-<i>Amendment of section by section 107(b) of div. BB of Pub. L. 116–260 applicable with respect to plan years beginning on or after Jan. 1, 2022. See 2020 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 

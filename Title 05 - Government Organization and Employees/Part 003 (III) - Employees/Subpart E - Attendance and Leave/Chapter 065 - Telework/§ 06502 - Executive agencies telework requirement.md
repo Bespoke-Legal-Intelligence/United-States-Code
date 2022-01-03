@@ -40,9 +40,11 @@ Participation.—The policy described under subsection (a) shall—
 
 &emsp;&emsp;(A) direct handling of secure materials determined to be inappropriate for telework by the agency head; or
 
-&emsp;&emsp;(B) on-site activity that cannot be handled remotely or at an alternate worksite; and
+&emsp;&emsp;(B) on-site activity that cannot be handled remotely or at an alternate worksite;
 
-&emsp;(5) be incorporated as part of the continuity of operations plans of the agency in the event of an emergency.
+&emsp;(5) be incorporated as part of the continuity of operations plans of the agency in the event of an emergency; and
+
+&emsp;(6) enumerate the circumstances under which employees may be permitted to temporarily perform work requirements and duties from approved overseas locations, provided that, except in emergency situations as determined by the head of the agency, such circumstances shall not include a situation in which an employee's official duties require on at least a monthly basis the direct handling of secure materials determined to be inappropriate for telework by the agency head.
 
 (c)
 
@@ -62,7 +64,7 @@ Required Telework.—If an agency places an employee in investigative leave unde
 
 &emsp;(3) the agency determines that it would be appropriate for the employee to perform the duties of the employee through telework.
 
-(Added Pub. L. 111–292, §2(a), Dec. 9, 2010, 124 Stat. 3165; amended Pub. L. 114–328, div. A, title XI, §1138(d)(3), Dec. 23, 2016, 130 Stat. 2469.)
+(Added Pub. L. 111–292, §2(a), Dec. 9, 2010, 124 Stat. 3165; amended Pub. L. 114–328, div. A, title XI, §1138(d)(3), Dec. 23, 2016, 130 Stat. 2469; Pub. L. 117–81, div. F, title LXII, §6202(a)(2), Dec. 27, 2021, 135 Stat. 2389.)
 
 #### <b>Editorial Notes</b>
 
@@ -72,5 +74,27 @@ The date of enactment of this chapter, referred to in subsec. (a)(1), is the dat
 
 #### Amendments
 
+<b>2021</b>—Subsec. (b)(6). Pub. L. 117–81 added par. (6).
+
 <b>2016</b>—Subsec. (c). Pub. L. 114–328 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Telecommuting Opportunities
+
+Pub. L. 117–81, div. F, title LXII, §6202, Dec. 27, 2021, 135 Stat. 2389, provided that:
+
+"(a)
+
+DETO Policy.—
+
+&emsp;"(1)
+
+In general.—Each Federal department and agency shall establish a policy enumerating the circumstances under which employees may be permitted to temporarily perform work requirements and duties from approved overseas locations where there is a related Foreign Service assignment pursuant to an approved Domestically Employed Teleworking Overseas (DETO) agreement, consistent with the requirements under section 6502 of title 5, United States code \[sic\] (relating to the executive agencies telework requirements), as amended by paragraph (2), and DETO requirements, as set forth in the Foreign Affairs Manual and Foreign Affairs Handbook of the Department of State.
+
+&emsp;"(2) \[Amended this section.\]
+
+"(b)
+
+Access to ICASS System.—Not later than 90 days after the date of the enactment of this Act \[Dec. 27, 2021\], the Secretary of State shall revise chapter 900 of volume 6 of the Foreign Affairs Manual, the International Cooperative Administrative Support Services Handbook, the Personnel Operations Handbook, and any other relevant regulations to allow each Federal agency that has enacted a policy under subsection (a) to have access to the International Cooperative Administrative Support Services (ICASS) system."
 

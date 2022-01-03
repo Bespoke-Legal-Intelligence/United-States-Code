@@ -28,7 +28,7 @@
 
 #### (1) Part-time students
 
-&emsp;In any case where a teacher candidate attends an eligible institution on less than a full-time basis (including a teacher candidate who attends an eligible institution on less than a half-time basis) during any year, the amount of a grant under this subpart for which that teacher candidate is eligible shall be reduced in proportion to the degree to which that teacher candidate is not attending on a full-time basis, in accordance with a schedule of reductions established by the Secretary for the purposes of this subpart, computed in accordance with this subpart. Such schedule of reductions shall be established byregulation and published in the Federal Register in accordance with section 1089 of this title.
+&emsp;In any case where a teacher candidate attends an eligible institution on less than a full-time basis (including a teacher candidate who attends an eligible institution on less than a half-time basis) during any year, the amount of a grant under this subpart for which that teacher candidate is eligible shall be reduced in proportion to the degree to which that teacher candidate is not attending on a full-time basis, in accordance with a schedule of reductions established by the Secretary for the purposes of this subpart, computed in accordance with this subpart. Such schedule of reductions shall be established by regulation and published in the Federal Register in accordance with section 1089 of this title.
 
 #### (2) No exceeding cost
 
@@ -52,7 +52,9 @@
 
 &emsp;Nothing in this section shall be construed to exclude from eligibility courses of study which are noncredit or remedial in nature (including courses in English language acquisition) which are determined by the eligible institution to be necessary to help the teacher candidate be prepared for the pursuit of a first undergraduate baccalaureate or post-baccalaureate degree or certificate or, in the case of courses in English language instruction, to be necessary to enable the teacher candidate to utilize already existing knowledge, training, or skills. Nothing in this section shall be construed to exclude from eligibility programs of study abroad that are approved for credit by the home institution at which the teacher candidate is enrolled.
 
-(Pub. L. 89–329, title IV, §420M, as added Pub. L. 110–84, title I, §104, Sept. 27, 2007, 121 Stat. 787; amended Pub. L. 110–153, §3(2), Dec. 21, 2007, 121 Stat. 1824.)
+(Pub. L. 89–329, title IV, §420M, as added Pub. L. 110–84, title I, §104, Sept. 27, 2007, 121 Stat. 787;amended Pub. L. 110–153, §3(2), Dec. 21, 2007, 121 Stat. 1824.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

@@ -32,6 +32,8 @@ Historical and Revision Notes
 
 June 4, 1920, ch. 228 (4th par., 1st proviso, of amended 3d and 4th provisos), 41 Stat. 813; June 30, 1938, ch. 851, §1, 52 Stat. 1252; June 17, 1944, ch. 262, 58 Stat. 282.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232, §807(d)(5), renumbered section 7431 of this title as this section.
@@ -48,9 +50,11 @@ Subsec. (b)(1). Pub. L. 115–232, §809(a), substituted "section 8722(c)" for "
 
 <b>1984</b>—Subsecs. (b)(1), (c). Pub. L. 98–525 inserted "of this title" after "section 7422(c)".
 
-<b>1976</b>—Pub. L. 94–258 designated existing provisions as subsec. (a), struck out "or oil shale" in pars. (1) and (2) before "reserves", struck out "and oil shale" in pars. (2) and (3), before "reserves" substituted "petroleum\(other than royalty oil and gas)" for "oil and gas (other than royalty oil and gas), oil shale, and products therefrom" in par. (3), and added subsecs. (b) and (c).
+<b>1976</b>—Pub. L. 94–258 designated existing provisions as subsec. (a), struck out "or oil shale" in pars. (1) and (2) before "reserves", struck out "and oil shale" in pars. (2) and (3), before "reserves" substituted "petroleum (other than royalty oil and gas)" for "oil and gas (other than royalty oil and gas), oil shale, and products therefrom" in par. (3), and added subsecs. (b) and (c).
 
-<b>1962</b>—Pub. L. 87–796 included oil shale reserves in cls. (1) and (2), inserted provisions in cl. (2) excepting consultation and Presidential approval in connection with issuance of permits, licenses, easements, grazing and agricultural leases, rights-of-way, and similar contracts pertaining to use of surface area of naval petroleum and oil shale reserves, and included oil shale, and products therefrom produced from any part of oil shale reserves.
+<b>1962</b>—Pub. L. 87–796 included oil shale reserves in cls. (1) and (2), inserted provisions in cl. (2) excepting consultation and Presidential approval in connection withissuance of permits, licenses, easements, grazing and agricultural leases, rights-of-way, and similar contracts pertaining to use of surface area of naval petroleum and oil shale reserves, and included oil shale, and products therefrom produced from any part of oil shale reserves.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

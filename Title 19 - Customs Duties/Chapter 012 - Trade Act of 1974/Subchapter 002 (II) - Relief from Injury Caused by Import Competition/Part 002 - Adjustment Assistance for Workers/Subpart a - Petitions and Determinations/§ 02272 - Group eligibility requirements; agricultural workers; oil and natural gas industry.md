@@ -62,7 +62,7 @@ In general.—The term "downstream producer" means a firm that performs addition
 
 &emsp;&emsp;(B)
 
-Value-added production processes or services.—For purposes of subparagraph (A), value-added production processes or services include final assembly, finishing, testing, packaging, or maintenance or transportation services.
+Value-added production processes or services.—For purposes of subparagraph (A), value-added production processes or services include final assembly, finishing,testing, packaging, or maintenance or transportation services.
 
 &emsp;(4)
 
@@ -106,7 +106,7 @@ Supplier.—The term "supplier" means a firm that produces and supplies directly
 
 #### (C) Protection of confidential information
 
-&emsp;&emsp;The Secretary may not release information obtained under paragraph (1) that theSecretary considers to be confidential business information unless the firm or customer (as the case may be) submitting the confidential business information had notice, at the time of submission, that the information would be released by the Secretary, or the firm or customer (as the case may be) subsequently consents to the release of the information. Nothing in this subparagraph shall be construed to prohibit the Secretary from providing such confidential business information to a court in camera or to another party under a protective order issued by a court.
+&emsp;&emsp;The Secretary may not release information obtained under paragraph (1) that the Secretary considers to be confidential business information unless the firm or customer (as the case may be) submitting the confidential business information had notice, at the time of submission, that the information would be released by the Secretary, or the firm or customer (as the case may be) subsequently consents to the release of the information. Nothing in this subparagraph shall be construed to prohibit the Secretary from providing such confidential business information to a court in camera or to another party under a protective order issued by a court.
 
 #### (e) Firms identified by the International Trade Commission
 
@@ -132,11 +132,13 @@ Notwithstanding any other provision of this part, a group of workers covered by 
 
 &emsp;&emsp;(B) notwithstanding section 2273(b) of this title, the one-year period preceding the one-year period described in paragraph (2).
 
-(Pub. L. 93–618, title II, §222, Jan. 3, 1975, 88 Stat. 2019; Pub. L. 97–35, title XXV, §2501, Aug. 13, 1981, 95 Stat. 881; Pub. L. 98–120, §3(a), Oct. 12, 1983, 97 Stat. 809; Pub. L. 99–272, title XIII, §13002(a), Apr. 7, 1986, 100 Stat. 300; Pub. L. 100–418, title I, §1421(a)(1)(A), (b)(1), Aug. 23, 1988, 102 Stat. 1242, 1243; Pub. L. 103–182, title V, §503(a), Dec. 8, 1993, 107 Stat. 2151; Pub. L. 107–210, div. A, title I, §113, Aug. 6, 2002, 116 Stat. 937; Pub. L. 108–429, title II, §2004(a)(5), Dec. 3, 2004, 118 Stat. 2590; Pub. L. 111–5, div. B, title I, §§1801(b), (c), (e)(2), 1802, Feb. 17, 2009, 123 Stat. 367, 368, 370, 371; Pub. L. 112–40, title II, §§201(b), (c), 211(a), Oct. 21, 2011, 125 Stat. 403; Pub. L. 113–128, title V, §512(hh)(2), July 22, 2014, 128 Stat. 1720; Pub. L. 114–27, title IV, §402(b), (c), June 29, 2015, 129 Stat. 374.)
+(Pub. L. 93–618, title II, §222, Jan. 3, 1975, 88 Stat. 2019; Pub. L. 97–35, title XXV, §2501, Aug. 13, 1981, 95 Stat. 881; Pub. L. 98–120, §3(a), Oct. 12, 1983, 97 Stat. 809; Pub. L. 99–272, title XIII, §13002(a), Apr. 7, 1986, 100 Stat. 300; Pub. L. 100–418, title I, §1421(a)(1)(A), (b)(1), Aug. 23, 1988, 102 Stat. 1242, 1243; Pub. L. 103–182, title V, §503(a), Dec. 8, 1993, 107 Stat. 2151; Pub. L. 107–210, div. A, title I, §113, Aug. 6, 2002, 116 Stat. 937; Pub. L. 108–429, title II, §2004(a)(5), Dec. 3, 2004, 118 Stat. 2590; Pub. L. 111–5, div. B, title I, §§1801(b), (c), (e)(2), 1802, Feb. 17, 2009, 123 Stat. 367, 368, 370, 371; Pub. L. 112–40, title II, §§201(b),\(c), 211(a), Oct. 21, 2011, 125 Stat. 403; Pub. L. 113–128, title V, §512(hh)(2), July 22, 2014, 128 Stat. 1720; Pub. L. 114–27, title IV, §402(b), (c), June 29, 2015, 129 Stat. 374.)
 
 #### Reversion to Provisions in Effect on January 1, 2014
 
 <i>For reversion, beginning on July 1, 2021, to provisions in effect on Jan. 1, 2014, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see Codification and Effective and Termination Dates of 2015 Revival notes below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -164,7 +166,7 @@ Subsec. (b). Pub. L. 112–40, §§211(a)(1), (2), 233, temporarily redesignated
 
 > See Codification note above and Effective and Termination Dates of 2011 Revival note below.
 
-Subsec. (b)(2). Pub. L. 112–40, §§211(a)(3), 233, temporarily substituted "(c)(3)" for "(d)(3)". See Codificationnote above and Effective and Termination Dates of 2011 Revival note below.
+Subsec. (b)(2). Pub. L. 112–40, §§211(a)(3), 233, temporarily substituted "(c)(3)" for "(d)(3)". See Codification note above and Effective and Termination Dates of 2011 Revival note below.
 
 Subsec. (c). Pub. L. 112–40, §§211(a)(2), 233, temporarily redesignated subsec. (d) as (c). Former subsec. (c) temporarily redesignated (b). See Codification note above and Effective and Termination Dates of 2011 Revival note below.
 
@@ -253,6 +255,8 @@ Subsec. (a)(3). Pub. L. 100–418, §1421(b)(1), directed the general amendment 
 Par. (3). Pub. L. 98–120, §3(a)(1), substituted "contributed importantly to such total or partial separation, or threat thereof, and to such decline" for "were a substantial cause of such total or partial separation, or threat thereof, and of such decline".
 
 <b>1981</b>—Pub. L. 97–35 substituted provisions defining "substantial cause" and applicability of such term in par. (3) for provisions defining "contributed importantly" and applicability of such term in par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective and Termination Dates of 2015 Revival
 

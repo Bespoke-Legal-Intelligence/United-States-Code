@@ -84,11 +84,13 @@
 
 (Added Pub. L. 99–433, title V, §511(c)(4), Oct. 1, 1986, 100 Stat. 1045, §5014; amended Pub. L. 100–180, div. A, title XIII, §1314(b)(7), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 100–456, div. A, title III, §325(b), Sept. 29, 1988, 102 Stat. 1955; Pub. L. 101–189, div. A, title VI, §652(a)(4), Nov. 29, 1989, 103 Stat. 1461; Pub. L. 107–107, div. A, title X, §1048(a)(28), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–314, div. A, title V, §504(d)(2), Dec. 2, 2002, 116 Stat. 2532; Pub. L. 114–328, div. A, title IX, §903(d), Dec. 23, 2016, 130 Stat. 2344; renumbered §8014, Pub. L. 115–232, div. A, title VIII, §807(a)(1), Aug. 13, 2018, 132 Stat. 1834; Pub. L. 116–92, div. A, title IX, §901(a)(4), Dec. 20, 2019, 133 Stat. 1542.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 8014 was renumbered section 9014 of this title.
 
-Another prior section 8014, acts Aug. 10, 1956, ch. 1041, 70A Stat. 489, §8013; Aug. 6, 1958, Pub. L. 85–599, §8(c), 72 Stat. 520; Sept. 2, 1958, Pub. L. 85–861, §1(153), 72 Stat. 1513; Aug. 14, 1964, Pub. L. 88–426, title III, §305(8), 78 Stat. 423; Dec. 1, 1967, Pub. L. 90–168, §2(15), 81 Stat. 523; Nov. 9, 1979, Pub. L. 96–107, title VIII, §820(d), 93 Stat. 819; renumbered §8014, Oct. 1, 1986, Pub. L. 99–433, titleV, §521(a)(1), 100 Stat. 1055, related to Under Secretary and Assistant Secretaries of the Air Force, appointment, and duties, prior to repeal by Pub. L. 99–433, §521(a)(3).
+Another prior section 8014, acts Aug. 10, 1956, ch. 1041, 70A Stat. 489, §8013; Aug. 6, 1958, Pub. L. 85–599, §8(c), 72Stat. 520; Sept. 2, 1958, Pub. L. 85–861, §1(153), 72 Stat. 1513; Aug. 14, 1964, Pub. L. 88–426, title III, §305(8), 78 Stat. 423; Dec. 1, 1967, Pub. L. 90–168, §2(15), 81 Stat. 523; Nov. 9, 1979, Pub. L. 96–107, title VIII, §820(d), 93 Stat. 819; renumbered §8014, Oct. 1, 1986, Pub. L. 99–433, title V, §521(a)(1), 100 Stat. 1055, related to Under Secretary and Assistant Secretaries of the Air Force, appointment, and duties, prior to repeal by Pub. L. 99–433, §521(a)(3).
 
 Another prior section 8014 was renumbered section 8015 of this title and subsequently repealed.
 
@@ -113,6 +115,8 @@ Subsec. (f)(5). Pub. L. 114–328, §903(d)(2), added par. (5).
 <b>1988</b>—Subsec. (c)(5). Pub. L. 100–456 added par. (5).
 
 <b>1987</b>—Subsec. (f)(4). Pub. L. 100–180 inserted "the President or" after "declared by".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

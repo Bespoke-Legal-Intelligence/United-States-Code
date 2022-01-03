@@ -24,11 +24,15 @@ Aug. 21, 1941, ch. 384, §2; restated May 29, 1954, ch. 249, §19(c), 68 Stat. 1
 
 The first sentence of section 4a of the act of June 3, 1916, cited above, is omitted as superseded by section 8213 of this title. The second sentence, less first nine words, of section 4a of that act, is omitted as superseded by 10:591.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283 inserted "or the Regular Space Force" after "Regular Air Force" and "or the Space Force" before period at end.
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 8310 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

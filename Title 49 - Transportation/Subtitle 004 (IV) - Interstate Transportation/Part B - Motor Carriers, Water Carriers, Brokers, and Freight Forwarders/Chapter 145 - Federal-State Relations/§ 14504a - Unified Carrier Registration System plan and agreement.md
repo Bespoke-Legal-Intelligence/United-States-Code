@@ -100,7 +100,7 @@ Vehicle registration.—The term "vehicle registration" means the registration o
 
 (b)
 
-Applicability of Provisions to Freight Forwarders.—A freight forwarder that operates commercial motor vehicles and is not required to register as a carrier pursuant to section 13903(b) <sup>1</sup> shall be subject to the provisions ofthis section as if the freight forwarder is a motor carrier.
+Applicability of Provisions to Freight Forwarders.—A freight forwarder that operates commercial motor vehicles and is not required to register as a carrier pursuant to section 13903(b) <sup>1</sup> shall be subject to the provisions of this section as if the freight forwarder is a motor carrier.
 
 (c)
 
@@ -190,7 +190,7 @@ Rules and regulations governing the ucr agreement.—The board of directors shal
 
 &emsp;&emsp;(A) prescribe uniform forms and formats, for—
 
-&emsp;&emsp;&emsp;(i) the annual submission of the information required by a base-State of a motorcarrier, motor private carrier, leasing company, broker, or freight forwarder;
+&emsp;&emsp;&emsp;(i) the annual submission of the information required by a base-State of a motor carrier, motor private carrier, leasing company, broker, or freight forwarder;
 
 &emsp;&emsp;&emsp;(ii) the transmission of information by a participating State to the Unified Carrier Registration System;
 
@@ -432,6 +432,8 @@ Application to Intrastate Carriers.—Notwithstanding any other provision of thi
 
 (Added Pub. L. 109–59, title IV, §4305(b), Aug. 10, 2005, 119 Stat. 1764; amended Pub. L. 110–244, title III, §301(m)–(p), June 6, 2008, 122 Stat. 1617; Pub. L. 110–432, div. A, title VII, §701(d), Oct. 16, 2008, 122 Stat. 4906; Pub. L. 112–141, div. C, title II, §32933(b), July 6, 2012, 126 Stat. 830.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this section, referred to in subsec. (a)(7), is the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005.
@@ -465,6 +467,8 @@ Subsec. (d)(4)(C). Pub. L. 110–432, §701(d)(2), inserted before period ", ex
 Subsec. (f)(1)(A)(i). Pub. L. 110–244, §301(p)(2), struck out "in connection with the filing of proof of financial responsibility" before "under the UCR agreement".
 
 Subsec. (f)(1)(A)(ii). Pub. L. 110–244, §301(o), (p)(3), substituted "under the UCR agreement" for "in connection with such a filing" and struck out "or" before "under this paragraph."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

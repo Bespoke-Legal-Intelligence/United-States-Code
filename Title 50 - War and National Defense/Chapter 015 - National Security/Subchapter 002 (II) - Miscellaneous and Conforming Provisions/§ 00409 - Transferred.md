@@ -1,6 +1,8 @@
 ### §409. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
-Section 409, comprising sections 205(c), 206(a), and 207(c) of the National Security Act of 1947, act July 26,1947, ch. 343, was editorially reclassified as section 3004 of this title.
+Section 409, comprising sections 205(c), 206(a), and 207(c) of the National Security Act of 1947, act July 26, 1947, ch. 343, was editorially reclassified as section 3004 of this title.
 

@@ -20,6 +20,8 @@ Aug. 9, 1955, ch. 665, §2(g) (last sentence), 69 Stat. 599.
 
 The words "active training and service, active duty for training" are omitted as covered by the words "active duty" as defined in section 101(22) of this title.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–337 renumbered section 685 of this title as this section.

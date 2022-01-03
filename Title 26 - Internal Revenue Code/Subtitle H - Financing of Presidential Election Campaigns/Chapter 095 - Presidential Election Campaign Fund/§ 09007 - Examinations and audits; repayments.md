@@ -6,7 +6,7 @@ After each presidential election, the Commission shall conduct a thorough examin
 
 #### (b) Repayments
 
-(1) If the Commission determines that any portion of the payments made to the eligible candidates of a political party under section 9006 was in excess of the aggregate payments to which candidates were entitled under section 9004, it shall so notify such candidates, and such candidates shall pay to the Secretary of the Treasury an amount equal to such portion.
+(1) If the Commission determines that any portion of the payments made to the eligible candidates of a political party under section 9006 was in excess of the aggregate payments to which candidates were entitled under section 9004, it shall so notify such candidates, and suchcandidates shall pay to the Secretary of the Treasury an amount equal to such portion.
 
 (2) If the Commission determines that the eligible candidates of a political party and their authorized committees incurred qualified campaign expenses in excess of the aggregate payments to which the eligible candidates of a major party were entitled under section 9004, it shall notify such candidates of the amount of such excess and such candidates shall pay to the Secretary of the Treasury an amount equal to such amount.
 
@@ -30,7 +30,9 @@ No notification shall be made by the Commission under subsection (b) with respec
 
 All payments received by the Secretary of the Treasury under subsection (b) shall be deposited by him in the general fund of the Treasury.
 
-(Added Pub. L. 92–178, title VIII, §801, Dec. 10, 1971, 85 Stat. 568; amended Pub. L. 93–53, §6(c),July 1, 1973, 87 Stat. 139; Pub. L. 93–443, title IV, §404(c)(9)–(11), Oct. 15, 1974, 88 Stat. 1292; Pub. L. 94–283, title III, §307(e), May 11, 1976, 90 Stat. 502; Pub. L. 94–455, title XIX, §1906(b)(13)(B), (C), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 92–178, title VIII, §801, Dec. 10, 1971, 85 Stat. 568; amended Pub. L. 93–53, §6(c), July 1, 1973, 87 Stat. 139; Pub. L. 93–443, title IV, §404(c)(9)–(11), Oct. 15, 1974, 88 Stat. 1292; Pub. L. 94–283, title III, §307(e), May 11, 1976, 90 Stat. 502; Pub. L. 94–455, title XIX, §1906(b)(13)(B), (C), Oct. 4, 1976, 90 Stat. 1834.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -47,6 +49,8 @@ Subsec. (b). Pub. L. 93–443, §404(c)(10), substituted "Commission" and "it" f
 Subsec. (c). Pub. L. 93–443, §404(c)(11), substituted "Commission" for "Comptroller General".
 
 <b>1973</b>—Subsec. (b)(3). Pub. L. 93–53 substituted section "9006(d)" for "9006(c)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1974 Amendment
 

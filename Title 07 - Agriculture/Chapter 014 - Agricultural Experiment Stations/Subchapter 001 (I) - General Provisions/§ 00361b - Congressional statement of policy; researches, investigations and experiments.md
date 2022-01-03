@@ -4,6 +4,8 @@ It is further the policy of the Congress to promote the efficient production, ma
 
 (Mar. 2, 1887, ch. 314, §2, 24 Stat. 440; Aug. 11, 1955, ch. 790, §1, 69 Stat. 671.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 363 of this title.

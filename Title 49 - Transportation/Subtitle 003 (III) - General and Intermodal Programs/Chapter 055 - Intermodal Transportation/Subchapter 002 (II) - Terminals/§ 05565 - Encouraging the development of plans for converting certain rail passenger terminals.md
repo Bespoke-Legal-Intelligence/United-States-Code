@@ -62,9 +62,13 @@ In subsection (c)(2), the words "The Secretary of Transportation may not make a 
 
 This amends 49:5565 to correct an erroneous section catchline.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–429 inserted "certain" after "converting" in section catchline.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

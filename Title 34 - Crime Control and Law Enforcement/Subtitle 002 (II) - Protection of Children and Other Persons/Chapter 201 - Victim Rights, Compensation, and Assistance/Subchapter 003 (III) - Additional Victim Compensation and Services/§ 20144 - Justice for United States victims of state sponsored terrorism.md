@@ -38,7 +38,7 @@ This section may be cited as the "Justice for United States Victims of State Spo
 
 #### (B) Information regarding other sources of compensation
 
-&emsp;&emsp;As part of the procedures for United States persons to apply and establish eligibility for payment, the Special Master shall require applicants to provide the Special Master with information regarding compensation from any source other than this Fund that the claimant (or, in the case of a personal representative, the victim's beneficiaries) has received or is entitled or scheduled to receive as a result of the act of international terrorism that gave rise to a claimant's finaljudgment, including information identifying the amount, nature, and source of such compensation.
+&emsp;&emsp;As part of the procedures for United States persons to apply and establish eligibility for payment, the Special Master shall requireapplicants to provide the Special Master with information regarding compensation from any source other than this Fund that the claimant (or, in the case of a personal representative, the victim's beneficiaries) has received or is entitled or scheduled to receive as a result of the act of international terrorism that gave rise to a claimant's final judgment, including information identifying the amount, nature, and source of such compensation.
 
 #### (3) Decisions of the Special Master
 
@@ -118,9 +118,9 @@ This section may be cited as the "Justice for United States Victims of State Spo
 
 #### (i) Pro rata basis
 
-&emsp;&emsp;&emsp;Except as provided in subparagraph (B) and subject to the limitations described in clause (ii), the Special Master shall carry out paragraph (1), by—
+&emsp;&emsp;&emsp;Except as provided in subparagraph (B) and subject to the limitations described inclause (ii), the Special Master shall carry out paragraph (1), by—
 
-&emsp;&emsp;&emsp;&emsp;(I) dividing all available funds in half and allocating 50 percent of the available funds to non-9/11 related victims of state sponsored terrorism and the remaining 50 percent of the available funds to 9/11related victims of state sponsored terrorism;
+&emsp;&emsp;&emsp;&emsp;(I) dividing all available funds in half and allocating 50 percent of the available funds to non-9/11 related victims of state sponsored terrorism and the remaining 50 percent of the available funds to 9/11 related victims of state sponsored terrorism;
 
 &emsp;&emsp;&emsp;&emsp;(II) further dividing the funds allocated to non-9/11 related victims of state sponsored terrorism on a pro rata basis, based on the amounts outstanding and unpaid on eligible claims, until such amounts have been paid in full or the Fund is closed; and
 
@@ -162,11 +162,11 @@ This section may be cited as the "Justice for United States Victims of State Spo
 
 #### (ii) Public comment
 
-&emsp;&emsp;&emsp;The Comptroller General shall provide an opportunity for public comment for a 30-day period beginning on the date on which the notice is published under clause (i).
+&emsp;&emsp;&emsp;The Comptroller General shall provide an opportunity for public comment for a30-day period beginning on the date on which the notice is published under clause (i).
 
 #### (iii) Report
 
-&emsp;&emsp;&emsp;Not later than 30 days after the expiration comment period in clause (ii), theComptroller General of the United States shall submit to the Committee on the Judiciary and the Committee on Appropriations of the Senate, the Committee on the Judiciary and the Committee on Appropriations of the House of Representatives, and the Special Master a report that includes the determination of the Comptroller General on—
+&emsp;&emsp;&emsp;Not later than 30 days after the expiration comment period in clause (ii), the Comptroller General of the United States shall submit to the Committee on the Judiciary and the Committee on Appropriations of the Senate, the Committee on the Judiciary and the Committee on Appropriations of the House of Representatives, and the Special Master a report that includes the determination of the Comptroller General on—
 
 &emsp;&emsp;&emsp;&emsp;(I) the amount of the lump sum catch-up payment for each 9/11 victim;
 
@@ -224,7 +224,7 @@ This section may be cited as the "Justice for United States Victims of State Spo
 
 #### (ii) Deposit into Fund of assigned assets identified in Peterson v. Islamic Republic of Iran
 
-&emsp;&emsp;&emsp;If a final judgment is entered in Peterson v. Islamic Republic of Iran, No. 10 Civ. 4518 (S.D.N.Y.), awarding the assets at issue in that case to the judgment creditors identified in the order dated July 9, 2013, those assets shall be deposited into the Fund, but only to the extent, and insuch percentage, that the rights, title, and interest to such assets were assigned through elections made pursuant to clause (iii).
+&emsp;&emsp;&emsp;If a final judgment is entered in Peterson v. Islamic Republic of Iran, No. 10 Civ. 4518 (S.D.N.Y.), awarding the assets at issue in that case to the judgment creditors identified in the order dated July 9, 2013, those assets shall be deposited into the Fund, but only to the extent, and in such percentage, that the rights, title, and interest to such assets were assigned through elections made pursuant to clause (iii).
 
 #### (iii) Election to participate in the Fund
 
@@ -264,13 +264,13 @@ This section may be cited as the "Justice for United States Victims of State Spo
 
 #### (B) Closing of Fund
 
-&emsp;&emsp;Effective on the day after all amounts authorized to be paid from the Fund under this section that were obligated before January 2, 2039 are expended, any unobligated balances in the Fund shall be transferred, as appropriate, to either the Department of the Treasury Forfeiture Fund established under section 9705 of title 31 or to the Department of Justice Assets Forfeiture Fund established under section 524(c)(1) of title 28.
+&emsp;&emsp;Effective on the day after all amounts authorized to be paid from the Fund under this section that were obligated before January 2, 2039 are expended, any unobligated balances in the Fund shall be transferred, as appropriate, to either the Department of theTreasury Forfeiture Fund established under section 9705 of title 31 or to the Department of Justice Assets Forfeiture Fund established under section 524(c)(1) of title 28.
 
 #### (f) Attorneys' fees and costs
 
 #### (1) In general
 
-&emsp;No attorney representing a non-9/11 related victim of state sponsored terrorism shallcharge, receive, or collect, and the Special Master shall not approve, any payment of fees and costs that in the aggregate exceeds 25 percent of any payment made under this section. After November 21, 2019, no attorney representing a 9/11 related victim of state sponsored terrorism shall charge, receive, or collect, and the Special Master shall not approve, any payment of fees and costs that in the aggregate exceeds 15 percent of any payment made under this section after November 21, 2019.
+&emsp;No attorney representing a non-9/11 related victim of state sponsored terrorism shall charge, receive, or collect, and the Special Master shall not approve, any payment of fees and costs that in the aggregate exceeds 25 percent of any payment made under this section. After November 21, 2019, no attorney representing a 9/11 related victim of state sponsored terrorism shall charge, receive, or collect, and the Special Master shall not approve, any payment of fees and costs that in the aggregate exceeds 15 percent of any payment made under this section after November 21, 2019.
 
 #### (2) Penalty
 
@@ -348,7 +348,7 @@ In this section the following definitions apply:
 
 #### (6) Source other than this Fund
 
-&emsp;The term "source other than this Fund" means all collateral sources, including life insurance, pension funds, death benefit programs, payments by Federal, State, or localgovernments, and court awarded compensation related to the act of international terrorism that gave rise to a claimant's final judgment, except that the term does not include payments received in connection with an international claims agreement to which the United States is a state party or any other settlement of terrorism-related claims against Sudan. The term "entitled or scheduled to receive" in subsection (d)(3)(B)(i) includes any potential recovery where that person or their representative is a party to any civil or administrative action pending in any court or agency of competent jurisdiction in which the party seeks to enforce the judgment giving rise to the application to the Fund.
+&emsp;The term "source other than this Fund" means all collateral sources, including life insurance, pension funds, death benefit programs, payments by Federal, State, or local governments, and court awarded compensation related to the act of international terrorism that gave rise to a claimant's final judgment, except that the term does not include payments received in connection with an international claims agreement to which the United States is a state party or any other settlement of terrorism-related claims against Sudan. The term "entitled or scheduled to receive" in subsection (d)(3)(B)(i) includes any potential recovery where that person or their representative is a party to any civil or administrative action pending in any court or agency of competent jurisdiction in which the party seeks to enforce the judgment giving rise to the application to the Fund.
 
 #### (7) State sponsor of terrorism
 
@@ -414,7 +414,7 @@ Section was formerly classified to section 10609 of Title 42, The Public Health 
 
 #### Amendments
 
-<b>2020</b>—Subsec. (c)(2)(A)(i). Pub. L. 116–260, §1705(a)(1), substituted "foreign state that was designated as astate sponsor of terrorism at the time the acts described in clause (ii) occurred or was so designated as a result of such acts" for "state sponsor of terrorism".
+<b>2020</b>—Subsec. (c)(2)(A)(i). Pub. L. 116–260, §1705(a)(1), substituted "foreign state that was designated as a state sponsor of terrorism at the time the acts described in clause (ii) occurred or was so designated as a result of such acts" for "state sponsor of terrorism".
 
 Subsec. (d)(4)(A). Pub. L. 116–260, §1705(b)(1), substituted "subparagraphs (B) and (C)" for "subparagraph (B)".
 

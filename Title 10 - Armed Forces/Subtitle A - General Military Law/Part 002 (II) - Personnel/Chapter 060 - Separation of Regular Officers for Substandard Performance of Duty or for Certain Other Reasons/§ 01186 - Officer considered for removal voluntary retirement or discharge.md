@@ -20,9 +20,13 @@
 
 (Added Pub. L. 96–513, title I, §110, Dec. 12, 1980, 94 Stat. 2874; amended Pub. L. 101–510, div. A, title V, §501(f)(1), Nov. 5, 1990, 104 Stat. 1550.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Subsec. (c). Pub. L. 101–510 substituted "section 1174(a)(2)" for "section 1174(b)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

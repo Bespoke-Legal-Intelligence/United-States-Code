@@ -26,9 +26,11 @@ Nothing in this subtitle shall be construed to limit the authority of the Federa
 
 (Pub. L. 115–271, title VIII, §8023, Oct. 24, 2018, 132 Stat. 4082.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Federal Trade Commission Act, referred to in subsec. (b)(2), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to this subchapter. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in subsec. (b)(2), is act Sept. 26, 1914, ch. 311, 38 Stat. 717,which is classified generally to this subchapter. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 This subtitle, referred to in subsec. (c), is subtitle B (§§8021–8023) of title VIII of Pub. L. 115–271, Oct. 24, 2018, 132 Stat. 4082, known as the Opioid Addiction Recovery Fraud Prevention Act of 2018, which enacted this section and provisions set out as notes under this section and section 58 of this title.
 
@@ -36,13 +38,15 @@ This subtitle, referred to in subsec. (c), is subtitle B (§§8021–8023) of ti
 
 Section was enacted as part of the Opioid Addiction Recovery Fraud Prevention Act of 2018, and also as part of the Substance Use–Disorder Prevention that Promotes Opioid Recovery and Treatment for Patients and Communities Act, also known as the SUPPORT for Patients and Communities Act, and not as part of the Federal Trade Commission Act which comprises this subchapter.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Definitions
 
 Pub. L. 115–271, title VIII, §8022, Oct. 24, 2018, 132 Stat. 4082, provided that: "For purposes of this subtitle \[subtitle B (§§8021–8023) of title VIII of Pub. L. 115–271, see References in Text note above\] only, and not \[to\] be construed or applied as to challenge or affect the characterization, definition, or treatment under any other statute, regulation, or rule:
 
 &emsp;"(1)
 
-Substance use disorder treatment product.—The term 'substance use disorder treatment product' means a product for use or marketed for usein the treatment, cure, or prevention of a substance use disorder, including an opioid use disorder.
+Substance use disorder treatment product.—The term 'substance use disorder treatment product' means a product for use or marketed for use in the treatment, cure, or prevention of a substance use disorder, including an opioid use disorder.
 
 &emsp;"(2)
 

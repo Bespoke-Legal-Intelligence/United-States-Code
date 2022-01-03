@@ -19,13 +19,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior chapter 15, consisting of sections 331 to 335, was renumbered chapter 13, and sections 331 to 335 were renumbered sections 251 to 255, respectively.
 
 #### Amendments
 
-<b>2016</b>—Pub. L. 114–328, div. A, title X, §1011(a)(2), title XII, §1241(a)(1), (o)(2), Dec. 23, 2016, 130 Stat. 2385, 2497, 2512, added item 384, renumbered chapter 18 of this title "MILITARY SUPPORT FOR CIVILIAN LAW ENFORCEMENT AGENCIES" as chapter 15, redesignated item 371 "Use of information collected during military operations" as item 271, redesignated item 372 "Use of military equipment and facilities" as item 272, redesignated item 373 "Training and advising civilian law enforcement officials" as item 273, redesignated item 374 "Maintenance and operation of equipment" as item 274, redesignated item 375 "Restriction on direct participation by military personnel" as item 275, redesignated item 376 "Support not to affect adversely military preparedness" as item 276, redesignated item 377 "Reimbursement" as item 277, redesignated item 378 "Nonpreemption of other law" as item 278, redesignated item 379 "Assignment of Coast Guard personnel to naval vessels for law enforcement purposes" as item 279, redesignated item 380 "Enhancement of cooperation with civilian law enforcement officials" as item 280, redesignated item 381 "Procurement of equipment by State and local governments through the Department of Defense: equipment for counter-drug, homeland security, and emergency response activities" as item 281, redesignated item 382 "Emergency situations involving weapons of mass destruction" as item 282, redesignated item 383 "Situations involving bombings of places of public use, Government facilities, publictransportation systems, and infrastructure facilities" as item 283, and redesignated item 384 "Support for counterdrug activities and activities to counter transnational organized crime" as item 284.
+<b>2016</b>—Pub. L. 114–328, div. A, title X, §1011(a)(2), title XII, §1241(a)(1), (o)(2), Dec. 23, 2016, 130 Stat. 2385, 2497, 2512, added item 384, renumbered chapter 18 of this title "MILITARY SUPPORT FOR CIVILIAN LAW ENFORCEMENT AGENCIES" as chapter 15, redesignated item 371 "Use of information collected during military operations" as item 271, redesignated item 372 "Use of military equipment and facilities" as item 272, redesignated item 373 "Training and advising civilian law enforcement officials" as item 273, redesignated item 374 "Maintenance and operation of equipment" as item 274, redesignated item 375 "Restriction on direct participation by military personnel" as item 275, redesignated item 376 "Support not to affect adversely military preparedness" as item 276, redesignated item 377 "Reimbursement" as item 277, redesignated item 378 "Nonpreemption of other law" as item 278, redesignated item 379 "Assignment of Coast Guard personnel to naval vessels for law enforcement purposes" as item 279, redesignated item 380 "Enhancement of cooperation with civilian law enforcement officials" as item 280, redesignated item 381 "Procurement of equipment by State and local governments through the Department of Defense: equipment for counter-drug, homeland security, and emergency response activities" as item 281, redesignated item 382 "Emergency situations involving weapons of mass destruction" as item 282, redesignated item 383 "Situations involving bombings of places of public use, Government facilities, public transportation systems, and infrastructure facilities" as item 283, and redesignated item 384 "Support for counterdrug activities and activities to counter transnational organized crime" as item 284.
 
 <b>2015</b>—Pub. L. 114–92, div. A, title X, §1082(b), Nov. 25, 2015, 129 Stat. 1003, added item 383.
 
@@ -44,6 +46,8 @@ A prior chapter 15, consisting of sections 331 to 335, was renumbered chapter 13
 <b>1987</b>—Pub. L. 100–180, div. A, title XII, §1243(b), Dec. 4, 1987, 101 Stat. 1164, added item 380.
 
 <b>1986</b>—Pub. L. 99–570, title III, §3053(b)(2), Oct. 27, 1986, 100 Stat. 3207–76, added item 379.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Department of Defense Authority To Provide Assistance To Secure the Southern Land Border of the United States
 

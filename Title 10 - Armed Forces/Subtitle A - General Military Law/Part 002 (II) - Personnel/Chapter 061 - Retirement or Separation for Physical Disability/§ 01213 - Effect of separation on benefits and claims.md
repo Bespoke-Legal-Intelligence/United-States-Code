@@ -20,11 +20,15 @@ Oct. 12, 1949, ch. 681, §410, 63 Stat. 823.
 
 The words "a person who has received disability severance pay" are substituted for the words "Any former member who has been separated for physical disability from any of the uniformed services and paid disability severance pay". The words "any payment \* \* \* for" are substituted for the words "for any monetary obligation provided under any provision \* \* \* on account of". The words "this section does not prohibit" are substituted for the words "shall not operate to bar". The words "the payment of money to \* \* \* if the money was due him" are substituted for the words "from receiving or the service concerned from paying any moneys due and payable". The words "valid", "processed", and "pursuant to any provisions of law" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1980</b>—Pub. L. 96–513 substituted "National Oceanic and Atmospheric Administration" for "Environmental Science Services Administration".
 
 <b>1966</b>—Pub. L. 89–718 substituted "Environmental Science Services Administration" for "Coast and Geodetic Survey".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 
@@ -33,6 +37,8 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 #### Repeals
 
 The directory language of, but not the amendment made by, Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117, cited as a credit to this section, was repealed by Pub. L. 97–295, §6(b), Oct. 12, 1982, 96 Stat. 1314.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

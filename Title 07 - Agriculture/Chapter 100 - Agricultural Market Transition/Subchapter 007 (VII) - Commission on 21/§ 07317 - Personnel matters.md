@@ -20,9 +20,13 @@ On the request of the chairperson of the Commission, the head of any department 
 
 (Pub. L. 104–127, title I, §187, Apr. 4, 1996, 110 Stat. 941.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The General Schedule, referred to in subsec. (b), is set out under section 5332 of Title 5.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### References to Maximum Rate Under 5 U.S.C. 5376
 

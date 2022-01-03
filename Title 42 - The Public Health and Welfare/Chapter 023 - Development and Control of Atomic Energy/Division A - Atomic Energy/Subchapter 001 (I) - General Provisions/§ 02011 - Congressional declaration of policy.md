@@ -8,9 +8,13 @@ Atomic energy is capable of application for peaceful as well as military purpose
 
 (Aug. 1, 1946, ch. 724, title I, §1, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1 of act Aug. 1, 1946, ch. 724, 60 Stat. 755, which related to declaration of policy and purpose of former chapter 14 of this title, was classified to section 1801 of this title, prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2019 Amendment
 
@@ -30,7 +34,7 @@ Pub. L. 109–58, title VI, §601, Aug. 8, 2005, 119 Stat. 779, provided that: "
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–245, §1, July 10, 2000, 114 Stat. 501, provided that: "This Act \[enacting section 285a–9 of this title and enacting and amending provisions set out as notes under section 2210 of this title\] may be cited asthe 'Radiation Exposure Compensation Act Amendments of 2000'."
+Pub. L. 106–245, §1, July 10, 2000, 114 Stat. 501, provided that: "This Act \[enacting section 285a–9 of this title and enacting and amending provisions set out as notes under section 2210 of this title\] may be cited as the 'Radiation Exposure Compensation Act Amendments of 2000'."
 
 #### Short Title of 1996 Amendment
 

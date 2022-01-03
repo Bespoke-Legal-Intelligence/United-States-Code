@@ -8,7 +8,7 @@ Definitions.—In this subchapter:
 
 &emsp;(2) The term "deputy program manager" means the person who has authority to act on behalf of the program manager in the absence of the program manager.
 
-&emsp;(3) The term "significant nonmajor defense acquisition program" means a Department of Defense acquisition program that is not a major defense acquisition program (as defined in section 2430 of this title) and that is estimated by the Secretary of Defense to require an eventual total expenditure for research, development, test, and evaluation of more than the dollar threshold set forth in section 2302(5)(A) of this title for such purposes for a major system or an eventual total expenditure for procurement of more than the dollar threshold set forth in section 2302(5)(A) of this title for such purpose for a major system.
+&emsp;(3) The term "significant nonmajor defense acquisition program" means a Department of Defense acquisition program that is not a major defense acquisition program (as defined in section 4201 of this title) and that is estimated by the Secretary of Defense to require an eventual total expenditure for research, development, test, and evaluation of more than the dollar threshold set forth in section 3041(b)(1) of this title for such purposes for a major system or an eventual total expenditure for procurement of more than the dollar threshold set forth in section 3041(b)(1) of this title for such purpose for a major system.
 
 &emsp;(4) The term "program executive officer" has the meaning given such term in regulations prescribed by the Secretary of Defense.
 
@@ -20,13 +20,11 @@ Limitation.—Any civilian or military member of the acquisition workforce who d
 
 (c)
 
-Waiver.—The Secretary of each military department (acting through the service acquisition executive for that department) or the Secretary of Defense (acting through the Under Secretary of Defense for Acquisition andSustainment) for Defense Agencies and other components of the Department of Defense may waive, on a case-by-case basis, the requirements established under this subchapter with respect to the assignment of an individual to a particular critical acquisition position. Such a waiver may be granted only if unusual circumstances justify the waiver or if the Secretary concerned (or official to whom the waiver authority is delegated) determines that the individual's qualifications obviate the need for meeting the education, training, and experience requirements established under this subchapter.
+Waiver.—The Secretary of each military department (acting through the service acquisition executive for that department) or the Secretary of Defense (acting through the Under Secretary of Defense for Acquisition and Sustainment) for Defense Agencies and other components of the Department of Defense may waive, on a case-by-case basis, the requirements established under this subchapter with respect to the assignment of an individual to a particular critical acquisition position. Such a waiver may be granted only if unusual circumstances justify the waiver or if the Secretary concerned (or official to whom the waiver authority is delegated) determines that the individual's qualifications obviate the need for meeting the education, training, and experience requirements established under this subchapter.
 
 (Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1650; amended Pub. L. 102–190, div. A, title X, §1061(a)(8), (c), Dec. 5, 1991, 105 Stat. 1472, 1475; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 108–136, div. A, title VIII, §§831(b)(5), 832(b)(4), 833(2), Nov. 24, 2003, 117 Stat. 1549, 1550; Pub. L. 116–92, div. A, title VIII, §861(j)(11), title IX, §902(21), Dec. 20, 2019, 133 Stat. 1520, 1545; Pub. L. 116–283, div. A, title XVIII, §§1806(e)(4), 1846(i)(4), Jan. 1, 2021, 134 Stat. 4156, 4252.)
 
-#### Amendment of Section
-
-<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1806(e)(4), 1846(i)(4), Jan. 1, 2021, 134 Stat. 4151, 4156, 4252, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, subsection (a)(3) of this section is amended by striking "section 2430" and inserting "section 4201" and by striking "section 2302(5)(A)" both places it appears and inserting "section 3041(b)(1)". See 2021 Amendment note below.</i>
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -56,7 +54,9 @@ Subsec. (d). Pub. L. 108–136, §832(b)(4), struck out heading and text of subs
 
 Subsec. (c)(2)(B). Pub. L. 102–190, §1061(a)(8), struck out comma after "Director of Acquisition".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2021 Amendment
 
-Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementationand applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 

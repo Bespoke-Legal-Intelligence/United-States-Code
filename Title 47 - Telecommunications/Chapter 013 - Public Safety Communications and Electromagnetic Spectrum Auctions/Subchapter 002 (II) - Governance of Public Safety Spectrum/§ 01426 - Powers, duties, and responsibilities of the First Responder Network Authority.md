@@ -104,7 +104,7 @@ The First Responder Network Authority shall have the authority to do the followi
 
 #### (A) Required consultation
 
-&emsp;&emsp;In developing requests for proposals and otherwise carrying out its responsibilitiesunder this chapter, the First Responder Network Authority shall consult with regional, State, tribal, and local jurisdictions regarding the distribution and expenditure of any amounts required to carry out the policies established under paragraph (1), including with regard to the—
+&emsp;&emsp;In developing requests for proposals and otherwise carrying out its responsibilities under this chapter, the First Responder Network Authority shall consult with regional, State, tribal, and local jurisdictions regarding the distribution and expenditure of any amounts required to carry out the policies established under paragraph (1), including with regard to the—
 
 &emsp;&emsp;&emsp;(i) construction of a core network and any radio access network build out;
 

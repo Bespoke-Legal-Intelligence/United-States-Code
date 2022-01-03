@@ -22,6 +22,8 @@ Land may be acquired only by donation from—
 
 (Pub. L. 106–271, §5, Sept. 22, 2000, 114 Stat. 793; Pub. L. 110–161, div. F, title I, §127(3), Dec. 26, 2007, 121 Stat. 2122.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2007</b>—Subsec. (a). Pub. L. 110–161 substituted "described in section 430f–8(b) of this title" for "as depicted on the Map" in introductory provisions.

@@ -44,7 +44,9 @@ In subsection (a), the words "If a person" are substituted for the words "In cas
 
 #### 1958 Act
 
-The change reflects the fact that the source statute for these sections (sec. 1 of the Act of May 12, 1928, ch.528, 45 Stat. 500) was mandatory and not merely permissive.
+The change reflects the fact that the source statute for these sections (sec. 1 of the Act of May 12, 1928, ch. 528, 45 Stat. 500) was mandatory and not merely permissive.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -53,6 +55,8 @@ The change reflects the fact that the source statute for these sections (sec. 1 
 Subsec. (b). Pub. L. 115–232, §809(a), substituted "section 9281" for "section 8751".
 
 <b>1958</b>—Subsec. (b). Pub. L. 85–861 substituted "it shall be presented" for "it may be presented".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

@@ -38,7 +38,9 @@
 
 (i) The Secretary of Defense may prescribe, by regulations, procedures for implementing this section, including standards for qualified loans and authorized payees and other terms and conditions for making loan repayments. Such regulations may include exceptions that would allow for the payment as a lump sum of any loan repayment due to a member under a written agreement that existed at the time of a member's death or disability.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1663(d)(1), Oct. 5, 1994, 108 Stat. 3008; amended Pub. L. 104–106, div. A, title X, §1079(b), Feb. 10, 1996, 110 Stat. 451; Pub. L. 106–65, div. A, title VI, §676, Oct. 5, 1999, 113 Stat. 676; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title V, §534, Nov. 24, 2003, 117 Stat. 1474; Pub. L. 108–375, div. A, title V, §526, Oct. 28, 2004, 118 Stat. 1890; Pub. L. 110–181, div. A, title VI, §672(a)–(c)(1), Jan. 28, 2008, 122 Stat. 184, 185; Pub. L. 111–383, div. A, title V, §552(b), Jan. 7, 2011, 124 Stat. 4220; Pub. L. 115–91, div. A, title VI, §618(a)(1)(P), Dec. 12, 2017, 131 Stat. 1426; Pub. L. 116–283, div. A, title V, §515(a), Jan. 1, 2021, 134 Stat. 3589.)
+(Added Pub. L. 103–337, div. A, title XVI, §1663(d)(1), Oct. 5, 1994, 108 Stat. 3008; amended Pub. L. 104–106, div. A, title X, §1079(b), Feb. 10, 1996, 110 Stat. 451; Pub. L. 106–65, div. A, title VI, §676, Oct. 5, 1999, 113 Stat. 676; Pub. L. 107–296,title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title V, §534, Nov. 24, 2003, 117 Stat. 1474; Pub. L. 108–375, div. A, title V, §526, Oct. 28, 2004, 118 Stat. 1890; Pub. L. 110–181, div. A, title VI, §672(a)–(c)(1), Jan. 28, 2008, 122 Stat. 184, 185; Pub. L. 111–383, div. A, title V, §552(b), Jan. 7, 2011, 124 Stat. 4220; Pub. L. 115–91, div. A, title VI, §618(a)(1)(P), Dec. 12, 2017, 131 Stat. 1426; Pub. L. 116–283, div. A, title V, §515(a), Jan. 1, 2021, 134 Stat. 3589.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -56,7 +58,7 @@ The Higher Education Act of 1965, referred to in subsec. (a)(1), is Pub. L. 89�
 
 Subsec. (a)(1)(D). Pub. L. 110–181, §672(a), added subpar. (D).
 
-Subsec. (a)(2). Pub. L. 110–181, §672(b)(1), substituted "The Secretary" for "Except as provided in paragraph\(3), the Secretary" and "a member of the Selected Reserve of the Ready Reserve of an armed force in a reserve component and in an officer program or military specialty" for "an enlisted member of the Selected Reserve of the Ready Reserve of an armed force in a reserve component and military specialty".
+Subsec. (a)(2). Pub. L. 110–181, §672(b)(1), substituted "The Secretary" for "Except as provided in paragraph (3), the Secretary" and "a member of the Selected Reserve of the Ready Reserve of an armed force in a reserve component and in an officer program or military specialty" for "an enlisted member of the Selected Reserve of the Ready Reserve of an armed force in a reserve component and military specialty".
 
 Subsec. (a)(3). Pub. L. 110–181, §672(b)(2), struck out par. (3) which read as follows: "In the case of a commitment made by the Secretary of Defense after the date of the enactment of this paragraph to repay a loan under paragraph (1) conditioned upon the performance by the borrower of service as an enlisted member under paragraph (2), the Secretary may repay the loan for service performed by the borrower as an officer (rather than as an enlisted member) in the case of a borrower who, after such commitment is entered into and while performing service as an enlisted member, accepts an appointment or commission as a warrant officer or commissioned officer of the Selected Reserve."
 
@@ -73,6 +75,8 @@ Subsec. (c). Pub. L. 108–136, §534(2), inserted last sentence.
 <b>1999</b>—Subsec. (g). Pub. L. 106–65 added subsec. (g).
 
 <b>1996</b>—Subsec. (a)(1). Pub. L. 104–106 struck out "or" at end of subpar. (A), added subpar. (B), and redesignated former subpar. (B) as (C).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2021 Amendment
 

@@ -80,5 +80,5 @@ For definition of Panama Canal Company, referred to in text, see section 3602(b)
 
 #### Personnel Not Affected by 1967 Increase
 
-Increases authorized under amendment by Pub. L. 90–83 not applicable to specified personnel, see section7 of Pub. L. 90–83, set out as a note under section 8103 of this title.
+Increases authorized under amendment by Pub. L. 90–83 not applicable to specified personnel, see section 7 of Pub. L. 90–83, set out as a note under section 8103 of this title.
 

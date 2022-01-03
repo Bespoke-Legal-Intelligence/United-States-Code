@@ -36,6 +36,8 @@ For purposes of this subchapter, the following definitions shall apply:
 
 (Pub. L. 105–276, title V, §579, Oct. 21, 1998, 112 Stat. 2642.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 801 of the Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (a)(2)(D), is section 801 of Pub. L. 101–625.
@@ -44,9 +46,11 @@ Section 801 of the Cranston-Gonzalez National Affordable Housing Act, referred t
 
 Section was enacted as part of the Quality Housing and Work Responsibility Act of 1998, and not as part of subtitles C to F of title VI of Pub. L. 102–550 which comprise this chapter.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Section effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement any provision of this section before such date, except to extent otherwise provided, see section 503 of Pub. L. 105–276, set out as an Effective Date of 1998 Amendment note under section 1437 of this title.
+Section effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provisionthat Secretary may implement any provision of this section before such date, except to extent otherwise provided, see section 503 of Pub. L. 105–276, set out as an Effective Date of 1998 Amendment note under section 1437 of this title.
 
 <i><sup>1</sup></i><i> So in original. No subsec. (b) has been enacted.</i>
 

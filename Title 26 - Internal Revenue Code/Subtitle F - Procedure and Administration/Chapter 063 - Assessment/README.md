@@ -14,6 +14,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Pub. L. 114–74, title XI, §1101(a), (b)(2), (c)(2), Nov. 2, 2015, 129 Stat. 625, 637, added item for subchapter C and struck out former items for subchapter C "Tax treatment of partnership items" and subchapter D "Treatment of electing large partnerships".

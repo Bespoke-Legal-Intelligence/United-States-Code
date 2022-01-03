@@ -21,7 +21,7 @@
 
 (2) An agency may exclude from the requirements of paragraph (1) any building, and the associated energy consumption and gross square footage, in which energy intensive activities are carried out. Each agency shall identify and list in each report made under section 8258(a) of this title the buildings designated by it for such exclusion.
 
-(3) Not later than December 31, 2014, the Secretary shall review the results of the implementation of the energy performance requirementestablished under paragraph (1) and submit to Congress recommendations concerning energy performance requirements for fiscal years 2016 through 2025.
+(3) Not later than December 31, 2014, the Secretary shall review the results of the implementation of the energy performance requirement established under paragraph (1) and submit to Congress recommendations concerning energy performance requirements for fiscal years 2016 through 2025.
 
 #### (b) Energy and water management requirement for Federal agencies
 
@@ -43,7 +43,7 @@ In general.—If an agency fails to comply with paragraph (1), the agency shall 
 
 &emsp;(B)
 
-Report to congress.—Not later than January 1, 2022, and every 2 years thereafter, the Secretary shall submit to Congress a report that describes any noncompliance by an agency with the requirements of paragraph (1).
+Report to Congress.—Not later than January 1, 2022, and every 2 years thereafter, the Secretary shall submit to Congress a report that describes any noncompliance by an agency with the requirements of paragraph (1).
 
 (3) This subsection shall not apply to an agency's facilities that generate or transmit electric energy or to the uranium enrichment facilities operated by the Department of Energy.
 
@@ -277,7 +277,7 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 #### (A) Evaluations
 
-&emsp;&emsp;Except as provided in subparagraph (B), not later than the date that is 180 days after December 27, 2020, and annually thereafter, each energy manager shall complete, for the preceding calendar year, a comprehensive energy and water evaluation and recommissioning or retrocommissioning for approximately 25 percent of the facilities of the applicable agency that meet the criteria under paragraph (2)(B) in a manner that ensuresthat an evaluation of each facility is completed not less frequently than once every 4 years.
+&emsp;&emsp;Except as provided in subparagraph (B), not later than the date that is 180 days after December 27, 2020, and annually thereafter, each energy manager shall complete, for the preceding calendar year, a comprehensive energy and water evaluation and recommissioning or retrocommissioning for approximately 25 percent of the facilities of the applicable agency that meet the criteria under paragraph (2)(B) in a manner that ensures that an evaluation of each facility is completed not less frequently than once every 4 years.
 
 #### (B) Exceptions
 
@@ -299,9 +299,9 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 &emsp;&emsp;&emsp;&emsp;(bb) the date—
 
-(AA) of the most recent commissioning, recommissioning, or retrocommissioning; or
+&emsp;&emsp;&emsp;&emsp;&emsp;(AA) of the most recent commissioning, recommissioning, or retrocommissioning; or
 
-(BB) on which ongoing commissioning began; or
+&emsp;&emsp;&emsp;&emsp;&emsp;(BB) on which ongoing commissioning began; or
 
 &emsp;&emsp;&emsp;(II) has a long-term contract in place guaranteeing energy savings at least as great as the energy savings target under subclause (I).
 
@@ -343,7 +343,7 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 #### (B) Relationship to funding source
 
-&emsp;&emsp;The guidelines issued by the Secretary under subparagraph (A) shall be appropriate and uniform for measures funded with each type of funding made available under paragraph (10), but may distinguish between different types of measures <sup>1</sup> project size, and other criteria the Secretary determines are relevant.
+&emsp;&emsp;The guidelines issued by the Secretary under subparagraph (A) shall be appropriateand uniform for measures funded with each type of funding made available under paragraph (10), but may distinguish between different types of measures <sup>1</sup> project size, and other criteria the Secretary determines are relevant.
 
 #### (7) Web-based certification
 
@@ -539,11 +539,13 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 #### (1) In general
 
-&emsp;The Secretary shall carry out a program, to be known as the "Federal Energy Management Program" (referred to in this subsection as the "Program"), to facilitate the implementation by the Federal Government of cost-effective energy and water management and energy-related investment practices—
+&emsp;The Secretary shall carry out a program, to be known as the "Federal Energy Management Program" (referred to in this subsection as the"Program"), to facilitate the implementation by the Federal Government of cost-effective energy and water management and energy-related investment practices—
 
-&emsp;&emsp;(A) to coordinate and strengthen Federal energy and water resilience; and
+&emsp;&emsp;(A) to coordinate and strengthen Federal energy and water resilience;
 
-&emsp;&emsp;(B) to promote environmental stewardship.
+&emsp;&emsp;(B) to promote environmental stewardship; and
+
+&emsp;&emsp;(C) to reduce energy consumption during periods of unusually high electricity or natural gas demand.
 
 #### (2) Federal Director
 
@@ -563,9 +565,11 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 &emsp;&emsp;&emsp;(iv) establish and maintain internet-based information resources and project tracking systems and tools for energy and water management;
 
-&emsp;&emsp;&emsp;(v) coordinate comprehensive and strategic approaches to energy and water resilience planning for agencies; and
+&emsp;&emsp;&emsp;(v) coordinate comprehensive and strategic approaches to energy and water resilience planning for agencies;
 
-&emsp;&emsp;&emsp;(vi) establish a recognition program for Federal achievement in energy and watermanagement, energy-related investment practices, environmental stewardship, and other relevant areas, through events such as individual recognition award ceremonies and public announcements.
+&emsp;&emsp;&emsp;(vi) establish a recognition program for Federal achievement in energy and water management, energy-related investment practices, environmental stewardship, and other relevant areas, through events such as individual recognition award ceremonies and public announcements; and
+
+&emsp;&emsp;&emsp;(vii) promote the installation of demand-response technology and the use of demand-response practices in Federal buildings.
 
 #### (B) Energy and water management and reporting
 
@@ -643,7 +647,9 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 &emsp;There is authorized to be appropriated to the Secretary to carry out this subsection $36,000,000 for each of fiscal years 2021 through 2025.
 
-(Pub. L. 95–619, title V, §543, Nov. 9, 1978, 92 Stat. 3277; Pub. L. 100–615, §2(a), Nov. 5, 1988, 102 Stat. 3185; Pub. L. 102–486, title I, §152(b), (c), Oct. 24, 1992, 106 Stat. 2844, 2845; Pub. L. 104–66, title I, §1052(b), Dec. 21, 1995, 109 Stat. 718; Pub. L. 109–58, title I, §§102(a)(1), (b)–(e), 103, Aug. 8, 2005, 119 Stat. 606–608; Pub. L. 110–140, title IV, §§431, 432, 434, Dec. 19, 2007, 121 Stat. 1607, 1614; Pub. L. 112–210, §§8, 9, Dec. 18, 2012, 126 Stat. 1521, 1522; Pub. L. 116–260, div. Z, title I, §§1002(g), 1004, 1012, Dec. 27, 2020, 134 Stat. 2423, 2428, 2447.)
+(Pub. L. 95–619, title V, §543, Nov. 9, 1978, 92 Stat. 3277; Pub. L. 100–615, §2(a), Nov. 5, 1988, 102 Stat. 3185; Pub. L. 102–486, title I, §152(b), (c), Oct. 24, 1992, 106 Stat. 2844, 2845; Pub. L. 104–66, title I, §1052(b), Dec. 21, 1995, 109 Stat. 718; Pub. L. 109–58, title I, §§102(a)(1), (b)–(e), 103, Aug. 8, 2005, 119 Stat. 606–608; Pub. L. 110–140, title IV, §§431, 432, 434, Dec. 19, 2007, 121 Stat. 1607, 1614; Pub. L. 112–210, §§8, 9, Dec. 18, 2012, 126 Stat. 1521, 1522; Pub. L. 116–260, div. Z, title I, §§1002(g), 1004, 1012, Dec. 27, 2020, 134 Stat. 2423, 2428, 2447; Pub. L. 117–58, div. D, title I, §40104(c), Nov. 15, 2021, 135 Stat. 932.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -653,13 +659,17 @@ The Energy Policy Act of 1992, referred to in subsec. (c)(1)(A)(iii), is Pub. L.
 
 #### Amendments
 
+<b>2021</b>—Subsec. (i)(1)(C). Pub. L. 117–58, §40104(c)(1), added subpar. (C).
+
+Subsec. (i)(3)(A)(vii). Pub. L. 117–58, §40104(c)(2), added cl. (vii).
+
 <b>2020</b>—Pub. L. 116–260, §1002(g)(1), inserted "and water" after "Energy" in section catchline.
 
 Subsec. (b). Pub. L. 116–260, §1002(g)(2)(A), inserted "and water" after "Energy" in heading.
 
 Subsec. (b)(1), (2). Pub. L. 116–260, §1002(g)(2)(B), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
-"(1) Not later than January 1, 2005, each agency shall, to the maximum extent practicable, install in Federalbuildings owned by the United States all energy and water conservation measures with payback periods of less than 10 years, as determined by using the methods and procedures developed pursuant to section 8254 of this title.
+"(1) Not later than January 1, 2005, each agency shall, to the maximum extent practicable, install in Federal buildings owned by the United States all energy and water conservation measures with payback periods of less than 10 years, as determined by using the methods and procedures developed pursuant to section 8254 of this title.
 
 "(2) The Secretary may waive the requirements of this subsection for any agency for such periods as the Secretary may determine if the Secretary finds that the agency is taking all practicable steps to meet the requirements and that the requirements of this subsection will pose an unacceptable burden upon the agency. If the Secretary waives the requirements of this subsection, the Secretary shall, as part of the report required under section 8258(b) of this title, notify the Congress in writing with an explanation and a justification of the reasons for such waiver."
 
@@ -757,9 +767,15 @@ Subsec. (d)(3) to (5). Pub. L. 102–486, §152(c)(4), (5), added pars. (3) and 
 
 <b>1988</b>—Pub. L. 100–615 amended section generally, substituting energy management goals statement for statement of purpose to promote (1) use of commonly accepted methods to establish and compare life cycle costs of operating Federal buildings, and life cycle fuel and energy requirements of such buildings, with and without special features for energy conservation and (2) use of solar heating and cooling and other renewable energy sources in Federal buildings.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2007 Amendment
 
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
+
+#### Wage Rate Requirements
+
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of this title.
 
 #### Reporting Baseline
 

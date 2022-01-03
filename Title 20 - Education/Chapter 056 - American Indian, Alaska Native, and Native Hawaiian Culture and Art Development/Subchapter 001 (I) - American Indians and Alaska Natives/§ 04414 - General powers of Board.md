@@ -18,7 +18,7 @@ In carrying out the provisions of this chapter, the Board shall have the power, 
 
 &emsp;(7) to use the United States mails on the same terms and conditions as the executive departments of the United States Government;
 
-&emsp;(8) to obtain the services of experts and consultants in accordance with the provisions of section 3109 of title 5 and to accept and utilize the services of voluntary and noncompensated personnel and reimburse them for travel expenses, including per diem, as authorized by section 5703 of title 5;
+&emsp;(8) to obtain the services of experts and consultants in accordance with the provisions ofsection 3109 of title 5 and to accept and utilize the services of voluntary and noncompensated personnel and reimburse them for travel expenses, including per diem, as authorized by section 5703 of title 5;
 
 &emsp;(9) to solicit, accept, and dispose of gifts, bequests, devises of money, securities, and other properties of whatever character, for the benefit of the Institute;
 
@@ -41,6 +41,8 @@ Any funds received by, or under the control of, the Institute that are not Feder
 Interest and earnings on amounts received by the Institute pursuant to section 4451 of this title invested under subsection (a)(12) <sup>2</sup> shall be the property of the Institute and shall be expended to carry out this chapter. The Board shall be held to a reasonable and prudent standard of care, given such information and circumstances as existed when the decision is made, in decisions involving investment of funds under subsection (a)(12).<sup>2</sup>
 
 (Pub. L. 99–498, title XV, §1507, Oct. 17, 1986, 100 Stat. 1603; Pub. L. 100–297, title V, §5406(e), Apr. 28, 1988, 102 Stat. 418; Pub. L. 101–644, title V, §501, Nov. 29, 1990, 104 Stat. 4668; Pub. L. 102–325, title XIII, §1331(b), July 23, 1992, 106 Stat. 806; Pub. L. 103–208, §2(l), Dec. 20, 1993, 107 Stat. 2486.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -67,6 +69,8 @@ Subsec. (c). Pub. L. 102–325, §1331(b)(2), substituted "shall be expended" fo
 Subsec. (c). Pub. L. 101–644, §501(a), added subsec. (c).
 
 <b>1988</b>—Pub. L. 100–297 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1993 Amendment
 

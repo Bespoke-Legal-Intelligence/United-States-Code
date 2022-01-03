@@ -12,7 +12,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;&emsp;(D) should include—
 
-&emsp;&emsp;&emsp;(i) implementation of transparent budgetary procedures and mechanisms to help ensure that the financial benefits of debtrelief under the modified Heavily Indebted Poor Countries Initiative (as defined in section 262p–6 of this title) are applied to programs that combat poverty; and
+&emsp;&emsp;&emsp;(i) implementation of transparent budgetary procedures and mechanisms to help ensure that the financial benefits of debt relief under the modified Heavily Indebted Poor Countries Initiative (as defined in section 262p–6 of this title) are applied to programs that combat poverty; and
 
 &emsp;&emsp;&emsp;(ii) monitorable indicators of progress in poverty reduction.
 

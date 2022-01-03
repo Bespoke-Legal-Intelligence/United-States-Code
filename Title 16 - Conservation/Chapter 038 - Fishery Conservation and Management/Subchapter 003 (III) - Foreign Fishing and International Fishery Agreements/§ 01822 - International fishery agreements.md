@@ -20,7 +20,7 @@ The Secretary of State—
 
 #### (b) Treaty renegotiation
 
-The Secretary of State, in cooperation with the Secretary, shall initiate, promptly afterApril 13, 1976, the renegotiation of any treaty which pertains to fishing within the exclusive economic zone (or within the area that will constitute such zone after February 28, 1977), or for anadromous species or Continental Shelf fishery resources beyond such zone or area, and which is in any manner inconsistent with the purposes, policy, or provisions of this chapter, in order to conform such treaty to such purposes, policy, and provisions. It is the sense of Congress that the United States shall withdraw from any such treaty, in accordance with its provisions, if such treaty is not so renegotiated within a reasonable period of time after April 13, 1976.
+The Secretary of State, in cooperation with the Secretary, shall initiate, promptly after April 13, 1976, the renegotiation of any treaty which pertains to fishing within the exclusive economic zone (or within the area that will constitute such zone after February 28, 1977), or for anadromous species or Continental Shelf fishery resources beyond such zone or area, and which is in any manner inconsistent with the purposes, policy, or provisions of this chapter, in order to conform such treaty to such purposes, policy, and provisions. It is the sense of Congress that the United States shall withdraw from any such treaty, in accordance with its provisions, if such treaty is not so renegotiated within a reasonable period of time after April 13, 1976.
 
 #### (c) International fishery agreements
 
@@ -84,7 +84,7 @@ It is the sense of the Congress that the United States Government shall not reco
 
 #### (g) Fishery agreement with Russia
 
-(1) The Secretary of State, in consultation with the Secretary, is authorized to negotiateand conclude a fishery agreement with Russia of a duration of no more than 3 years, pursuant to which—
+(1) The Secretary of State, in consultation with the Secretary, is authorized to negotiate and conclude a fishery agreement with Russia of a duration of no more than 3 years, pursuant to which—
 
 &emsp;(A) Russia will give United States fishing vessels the opportunity to conduct traditional fisheries within waters claimed by the United States prior to the conclusion of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, west of the maritime boundary, including the western special area described in Article 3(2) of the Agreement;
 
@@ -120,6 +120,8 @@ It is the sense of the Congress that the United States Government shall not reco
 
 <i>(2) in subsection (c), (A) by inserting "or special areas" immediately after "February 28, 1977)" and (B) by striking "such zone or area" and inserting in lieu thereof "such zone or areas".</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a)(5), (b), and (h)(1), (2)(A), was in the original "this Act", meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
@@ -139,6 +141,8 @@ Subsec. (f). Pub. L. 101–627, §120(a), substituted "an exclusive economic" fo
 Pub. L. 101–627, §105(a), redesignated former subsec. (e) as (f).
 
 <b>1986</b>—Subsecs. (b) to (e). Pub. L. 99–659 substituted "exclusive economic zone" for "fishery conservation zone" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -330,7 +334,7 @@ Secretary.—The term 'Secretary' means the Secretary of Commerce.
 
 Negotiations.—The Secretary, through the Secretary of State and in consultation with the Secretary of the Interior, shall immediately initiate, negotiations with each foreign government that conducts, or authorizes its nationals to conduct, driftnet fishing that results in the taking of marine resources of the United States in waters of the North Pacific Ocean outside of the exclusive economic zone and territorial sea of any nation, for the purpose of entering into agreements for statistically reliable cooperative monitoring and assessment of the numbers of marine resources of the United States killed and retrieved, discarded, or lost by the foreign government's driftnet fishing vessels. Such agreements shall provide for—
 
-&emsp;"(1) the use of a sufficient number of vessels from which scientists of the United States and the foreign governments may observe and gather statistically reliable information; and
+&emsp;"(1) the use of a sufficient number of vessels from which scientists of the United States and the foreigngovernments may observe and gather statistically reliable information; and
 
 &emsp;"(2) appropriate methods for sharing equally the costs associated with such activities.
 

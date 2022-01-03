@@ -18,6 +18,8 @@ The corporation, including its franchise, activities, assets, and income, shall 
 
 (Pub. L. 95–557, title VI, §603, Oct. 31, 1978, 92 Stat. 2115; Pub. L. 96–399, title III, §315(1), Oct. 8, 1980, 94 Stat. 1645.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–399 struck out "National" before "Neighborhood".

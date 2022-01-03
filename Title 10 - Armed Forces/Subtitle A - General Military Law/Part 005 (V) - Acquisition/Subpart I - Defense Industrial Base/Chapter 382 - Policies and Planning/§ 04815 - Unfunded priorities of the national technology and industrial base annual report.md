@@ -44,9 +44,13 @@ Unfunded Priority Defined.—In this section, the term "unfunded priority", in t
 
 (Added Pub. L. 116–92, div. A, title VIII, §846(c)(1), Dec. 20, 2019, 133 Stat. 1504, §2504a; renumbered §4815, Pub. L. 116–283, div. A, title XVIII, §1867(b), Jan. 1, 2021, 134 Stat. 4281.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283 renumbered section 2504a of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2021 Amendment
 

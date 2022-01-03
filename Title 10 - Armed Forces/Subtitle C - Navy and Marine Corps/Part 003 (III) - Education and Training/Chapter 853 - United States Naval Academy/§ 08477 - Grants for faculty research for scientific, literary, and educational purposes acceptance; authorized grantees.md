@@ -26,9 +26,13 @@ Regulations.—The Secretary of the Navy shall prescribe regulations for the adm
 
 (Added Pub. L. 105–261, div. A, title X, §1063(b)(1), Oct. 17, 1998, 112 Stat. 2130, §6977; renumbered §8477, Pub. L. 115–232, div. A, title VIII, §807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 6977 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

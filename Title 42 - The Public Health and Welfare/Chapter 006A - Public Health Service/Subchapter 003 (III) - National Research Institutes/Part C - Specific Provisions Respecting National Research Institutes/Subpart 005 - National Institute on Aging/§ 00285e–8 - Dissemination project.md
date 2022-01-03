@@ -18,7 +18,7 @@ The organization receiving a grant or contract under this section shall—
 
 #### (c) Fees for information; exception
 
-The organization receiving a grant or contract under this section may charge appropriate feesfor information provided through the toll-free telephone line established under subsection (b)(2), and may make exceptions to such fees for individuals and organizations who are not financially able to pay such fees.
+The organization receiving a grant or contract under this section may charge appropriate fees for information provided through the toll-free telephone line established under subsection (b)(2), and may make exceptions to such fees for individuals and organizations who are not financially able to pay such fees.
 
 #### (d) Application for grant or contract; contents
 
@@ -31,6 +31,8 @@ In order to receive a grant or contract under this section, an organization shal
 &emsp;(3) such other information as the Director may prescribe.
 
 (July 1, 1944, ch. 373, title IV, §445F, formerly Pub. L. 99–660, title IX, §952, Nov. 14, 1986, 100 Stat. 3813; renumbered §445F of act July 1, 1944, and amended Pub. L. 100–607, title I, §142(a), (d)(5), Nov. 4, 1988, 102 Stat. 3057, 3058.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

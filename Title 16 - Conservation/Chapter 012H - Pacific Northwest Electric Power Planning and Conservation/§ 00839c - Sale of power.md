@@ -20,7 +20,7 @@ All power sales under this chapter shall be subject at all times to the preferen
 
 (4) Sales under this subsection shall be made only if the public body, cooperative, Federal agency or investor-owned utility complies with the Administrator's standards for service in effect on December 5, 1980, or as subsequently revised.
 
-(5) The Administrator shall include in contracts executed in accordance with this subsection provisions that enable the Administrator to restrict his contractual obligations to meet the loads referred to in this subsection in the future if the Administrator determines,after a reasonable period of experience under this chapter, that the Administrator cannot be assured on a planning basis of acquiring sufficient resources to meet such loads during a specified period of insufficiency. Any such contract with a public body, cooperative, or Federal agency shall specify a reasonable minimum period between a notice of restriction and the earliest date such restriction may be imposed.
+(5) The Administrator shall include in contracts executed in accordance with this subsection provisions that enable the Administrator to restrict his contractual obligations to meet the loads referred to in this subsection in the future if the Administrator determines, after a reasonable period of experience under this chapter, that the Administrator cannot be assured on a planning basis of acquiring sufficient resources to meet such loads during a specified period of insufficiency. Any such contract with a public body, cooperative, or Federal agency shall specify a reasonable minimum period between a notice of restriction and the earliest date such restriction may be imposed.
 
 (6) Contracts executed in accordance with this subsection with public body, cooperative, and Federal agency customers shall—
 
@@ -54,7 +54,7 @@ No resale.—A public body or cooperative to which a joint operating entity sell
 
 (2) The purchase and exchange sale referred to in paragraph (1) of this subsection with any electric utility shall be limited to an amount not in excess of 50 per centum of such utility's Regional residential load in the year beginning July 1, 1980, such 50 per centum limit increasing in equal annual increments to 100 per centum of such load in the year beginning July 1, 1985, and each year thereafter.
 
-(3) The cost benefits, as specified in contracts with the Administrator, of any purchase and exchange sale referred to in paragraph (1) of this subsection which are attributable to any electric utility's residential load within a State shall be passed through directly to such utility's residential loads within such State, except that a State which lies partially within and partially without the region may require that such cost benefits be distributed among all of the utility's residential loads in that State.
+(3) The cost benefits, as specified in contracts with the Administrator, of any purchase and exchange sale referred to in paragraph (1) of this subsection which are attributable to any electric utility's residential load within a State shall be passed through directly to such utility'sresidential loads within such State, except that a State which lies partially within and partially without the region may require that such cost benefits be distributed among all of the utility's residential loads in that State.
 
 (4) An electric utility may terminate, upon reasonable terms and conditions agreed to by the Administrator and such utility prior to such termination, its purchase and sale under this subsection if the supplemental rate charge provided for in section 839e(b)(3) of this title is applied and the cost of electric power sold to such utility under this subsection exceeds, after application of such rate charge, the average system cost of power sold by such utility to the Administrator under this subsection.
 
@@ -145,6 +145,8 @@ The Administrator is authorized to sell, or otherwise dispose of, electric power
 (7) The Administrator shall be deemed to have sufficient resources for the purpose of entering into the initial contracts specified in paragraph (1)(A) through (D).
 
 (Pub. L. 96–501, §5, Dec. 5, 1980, 94 Stat. 2712; Pub. L. 106–273, §1, Sept. 22, 2000, 114 Stat. 802.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

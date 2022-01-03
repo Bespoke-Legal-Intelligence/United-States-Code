@@ -14,9 +14,13 @@ The Secretary, through the Centers for Disease Control, shall not later than 3 y
 
 (Pub. L. 102–493, §6, Oct. 24, 1992, 106 Stat. 3151.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Fertility Clinic Success Rate and Certification Act of 1992, and not as part of the Public Health Service Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

@@ -44,6 +44,8 @@ The commission shall put at the disposal of the President of the United States, 
 
 (June 17, 1930, ch. 497, title III, §332, 46 Stat. 698; Pub. L. 93–618, title I, §173, title III, §341(b), Jan. 3, 1975, 88 Stat. 2010, 2056; Pub. L. 96–39, title II, §202(a)(1), July 26, 1979, 93 Stat. 201; Pub. L. 100–418, title I, §1613, Aug. 23, 1988, 102 Stat. 1262; Pub. L. 100–647, title IX, §9001(a)(16), Nov. 10, 1988, 102 Stat. 3808.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Subsec. (f) directed the Tariff Commission to ascertain the cost of crude petroleum during three years preceding 1930.
@@ -67,6 +69,8 @@ Pub. L. 100–418 substituted ". However, the Commission may not release inform
 <b>1979</b>—Subsec. (e)(2). Pub. L. 96–39 substituted "the transaction value of the imported merchandise determined in accordance with section 1401a(b) of this title plus, when not included in the transaction value, all necessary expenses, exclusive of customs duties, of bringing such merchandise to the United States" for "the price at which an article is freely offered for sale in the ordinary course of trade in the usual wholesale quantities for exportation to the United States plus, when not included in such price, all necessary expenses, exclusive of customs duties, of bringing such imported article to the United States".
 
 <b>1975</b>—Subsec. (g). Pub. L. 93–618 substituted "a summary of all reports made during the year, and a list of all votes taken by the commission during the year, showing those commissioners voting in the affirmative and the negative on each vote and those commissioners not voting on each vote and the reasons for not voting" for "and a summary of all reports made during the year", and inserted last sentence relating to complaints included in annual reports.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 
@@ -128,7 +132,7 @@ Findings.—Congress makes the following findings:
 
 "(b)
 
-Sense of Congress.—It is the sense of Congress that, to remove the competitive disadvantage to United States manufacturers and consumers and to promote the competitiveness of United States manufacturers, Congress should, not later than 90 days after the United States International Trade Commission issues a final report on petitions for duty suspensions and reductions under section 3(b)(3)(E), consider a miscellaneous tariff bill.
+Sense of Congress.—It is the sense of Congress that, to remove the competitive disadvantage to United States manufacturers and consumers and to promotethe competitiveness of United States manufacturers, Congress should, not later than 90 days after the United States International Trade Commission issues a final report on petitions for duty suspensions and reductions under section 3(b)(3)(E), consider a miscellaneous tariff bill.
 
 #### "SEC. 3. PROCESS FOR CONSIDERATION OF PETITIONS FOR DUTY SUSPENSIONS AND REDUCTIONS.
 
@@ -322,7 +326,7 @@ House of Representatives.—
 
 &emsp;"(1)
 
-In general.—The chair of the Committee on Ways and Means of the House of Representatives shall include a list of limited tariff benefits contained in a miscellaneous tariff bill in the report to accompany such a bill or, in a case where a miscellaneous tariff bill is not reported by the committee, shall cause such a list to be printed in the appropriate section of the Congressional Record.
+In general.—The chair of the Committee on Ways and Means of the House of Representatives shall include a list of limited tariff benefits contained in a miscellaneous tariff bill in the report to accompany such a bill or, in a case where a miscellaneoustariff bill is not reported by the committee, shall cause such a list to be printed in the appropriate section of the Congressional Record.
 
 &emsp;"(2)
 
@@ -430,7 +434,9 @@ Pub. L. 95–106, §5, Aug. 17, 1977, 91 Stat. 869, directed International Trade
 
 Act Sept. 1, 1954, ch. 1213, title I, §101, 68 Stat. 1136, as amended Aug. 2, 1956, ch. 894, 70 Stat. 955; May 19, 1958, Pub. L. 85–418, §3, 72 Stat. 120, provided for a complete study by the Tariff Commission for the purpose of clarifying and simplifying the tariff classification, with a report to go to the President and to the chairmen of the appropriate committees of Congress no later than Jan. 1, 1959. See section 1332 of this title.
 
+#### <b>Executive Documents</b>
+
 #### Delegation of Functions
 
-Functions of President under subsec. (g) of this section regarding reports by United States International Trade Commission to President delegated to United States Trade Representative, see section 5–301 of Ex. Ord. No. 12661, Dec. 27, 1988, 54 F.R. 779, set out as a note under section 2901 of this title.
+Functions of President under subsec. (g) of this section regarding reports by United States InternationalTrade Commission to President delegated to United States Trade Representative, see section 5–301 of Ex. Ord. No. 12661, Dec. 27, 1988, 54 F.R. 779, set out as a note under section 2901 of this title.
 

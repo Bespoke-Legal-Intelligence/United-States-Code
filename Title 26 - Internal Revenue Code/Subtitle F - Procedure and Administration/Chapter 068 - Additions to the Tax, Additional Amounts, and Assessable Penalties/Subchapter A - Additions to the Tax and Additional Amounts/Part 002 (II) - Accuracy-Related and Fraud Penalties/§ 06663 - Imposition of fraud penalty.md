@@ -6,13 +6,15 @@ If any part of any underpayment of tax required to be shown on a return is due t
 
 #### (b) Determination of portion attributable to fraud
 
-If the Secretary establishes that any portion of an underpayment is attributable to fraud, theentire underpayment shall be treated as attributable to fraud, except with respect to any portion of the underpayment which the taxpayer establishes (by a preponderance of the evidence) is not attributable to fraud.
+If the Secretary establishes that any portion of an underpayment is attributable to fraud, the entire underpayment shall be treated as attributable to fraud, except with respect to any portion of the underpayment which the taxpayer establishes (by a preponderance of the evidence) is not attributable to fraud.
 
 #### (c) Special rule for joint returns
 
 In the case of a joint return, this section shall not apply with respect to a spouse unless some part of the underpayment is due to the fraud of such spouse.
 
 (Added Pub. L. 101–239, title VII, §7721(a), Dec. 19, 1989, 103 Stat. 2397.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

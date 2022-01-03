@@ -9,6 +9,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–148, title VI, §6301(e)(2)(B)(i), Mar. 23, 2010, 124 Stat. 746, added subchapter heading.

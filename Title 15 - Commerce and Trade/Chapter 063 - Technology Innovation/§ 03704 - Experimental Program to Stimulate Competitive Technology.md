@@ -92,7 +92,7 @@ To the extent practicable, in carrying out subsection (a), the Secretary shall c
 
 #### (D) Institutional diversity
 
-&emsp;&emsp;In awarding grants, cooperative agreements, and contracts to eligible institutions, the Secretary shall ensure, to the extent practicable, that awards are made to all types of institutions eligible for assistance under this subsection.
+&emsp;&emsp;In awarding grants, cooperative agreements, and contracts to eligible institutions, the Secretary shall ensure, to the extent practicable, that awards are made to alltypes of institutions eligible for assistance under this subsection.
 
 #### (E) Need
 
@@ -208,6 +208,8 @@ To the extent practicable, in carrying out subsection (a), the Secretary shall c
 
 (Pub. L. 96–480, §5, Oct. 21, 1980, 94 Stat. 2312; Pub. L. 99–382, §2, Aug. 14, 1986, 100 Stat. 811; Pub. L. 99–502, §9(b)(3)–(5), (e)(2)(A), Oct. 20, 1986, 100 Stat. 1795, 1797; Pub. L. 100–519, title II, §201(a)–(c), (d)(2), Oct. 24, 1988, 102 Stat. 2593, 2594; Pub. L. 102–245, title III, §306, Feb. 14, 1992, 106 Stat. 20; Pub. L. 105–309, §9, Oct. 30, 1998, 112 Stat. 2938; Pub. L. 106–404, §7(3), Nov. 1, 2000, 114 Stat. 1745; Pub. L. 110–69, title III, §3002(a), Aug. 9, 2007, 121 Stat. 586; Pub. L. 110–315, title IX, §971, Aug. 14, 2008, 122 Stat. 3473; Pub. L. 114–95, title IX, §9215(sss), Dec. 10, 2015, 129 Stat. 2190.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 632(p) of this title, referred to in subsec. (c)(8)(E), was redesignated section 657a(b) of this title by Pub. L. 115–91, div. A, title XVII, §1701(a)(2), Dec. 12, 2017, 131 Stat. 1795.
@@ -248,7 +250,7 @@ Subsec. (b). Pub. L. 100–519, §201(b), amended subsec. (b) generally. Prior t
 
 Subsec. (c). Pub. L. 100–519, §201(c)(2), substituted "Under Secretary, as appropriate," for "Assistant Secretary, on a continuing basis," in introductory provisions.
 
-Subsec. (c)(1) to (9). Pub. L. 100–519, §201(c)(1), (2), added pars. (1) to (4) and redesignated former pars. (1) to (5) as (5) to (9), respectively. Former pars. (6) to (9) redesignated (10) to (13), respectively.
+Subsec. (c)(1) to (9). Pub. L. 100–519, §201(c)(1), (2), added pars. (1) to (4) and redesignated former pars. (1)to (5) as (5) to (9), respectively. Former pars. (6) to (9) redesignated (10) to (13), respectively.
 
 Subsec. (c)(10). Pub. L. 100–519, §201(c)(1), (3), redesignated former par. (6) as (10) and substituted "Under Secretary" for "Assistant Secretary". Former par. (10) redesignated (14).
 
@@ -258,7 +260,7 @@ Subsec. (d)(1). Pub. L. 100–519, §201(d)(2), substituted "and the Under Secre
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–502, §9(b)(3), substituted "Office of Productivity, Technology, and Innovation" for "Office of Industrial Technology".
 
-Subsec. (b). Pub. L. 99–502, §9(b)(4), substituted "an Assistant Secretary for Productivity, Technology, and Innovation" for "a Director of the Office, who shall becompensated at the rate provided for level V of the Executive Schedule in section 5316 of title 5".
+Subsec. (b). Pub. L. 99–502, §9(b)(4), substituted "an Assistant Secretary for Productivity, Technology, and Innovation" for "a Director of the Office, who shall be compensated at the rate provided for level V of the Executive Schedule in section 5316 of title 5".
 
 Subsec. (c). Pub. L. 99–502, §9(b)(5)(A), substituted "the Assistant Secretary" for "the Director" in provisions preceding par. (1).
 
@@ -271,6 +273,8 @@ Subsec. (d). Pub. L. 99–382, §2(2), added subsec. (d). Former subsec. (d) red
 Subsec. (e). Pub. L. 99–502, §9(e)(2)(A), which directed the insertion of "(as then in effect)" in subsec. (d), was executed to subsec. (e) to reflect the probable intent of Congress in view of the redesignation of subsec. (d) as (e) by Pub. L. 99–382.
 
 Pub. L. 99–382, §2(1), redesignated subsec. (d) as (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

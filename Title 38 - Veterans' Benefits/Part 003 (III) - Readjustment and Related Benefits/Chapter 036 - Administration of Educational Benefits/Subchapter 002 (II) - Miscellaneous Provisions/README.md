@@ -23,7 +23,7 @@
 - [&sect; 03693 - Compliance surveys](%C2%A7%2003693%20-%20Compliance%20surveys.md)
 - [&sect; 03694 - Use of other Federal agencies](%C2%A7%2003694%20-%20Use%20of%20other%20Federal%20agencies.md)
 - [&sect; 03695 - Limitation on period of assistance under two or more programs](%C2%A7%2003695%20-%20Limitation%20on%20period%20of%20assistance%20under%20two%20or%20more%20programs.md)
-- [&sect; 03696 - Limitation on certain advertising, sales, and enrollment practices](%C2%A7%2003696%20-%20Limitation%20on%20certain%20advertising%2C%20sales%2C%20and%20enrollment%20practices.md)
+- [&sect; 03696 - Prohibition on certain advertising, sales, and enrollment practices](%C2%A7%2003696%20-%20Prohibition%20on%20certain%20advertising%2C%20sales%2C%20and%20enrollment%20practices.md)
 - [&sect; 03697 - Funding of contract educational and vocational counseling](%C2%A7%2003697%20-%20Funding%20of%20contract%20educational%20and%20vocational%20counseling.md)
 - [&sect; 03697A - Educational and vocational counseling](%C2%A7%2003697A%20-%20Educational%20and%20vocational%20counseling.md)
 - [&sect; 03697B - On-campus educational and vocational counseling](%C2%A7%2003697B%20-%20On-campus%20educational%20and%20vocational%20counseling.md)

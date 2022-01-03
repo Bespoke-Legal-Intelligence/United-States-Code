@@ -32,6 +32,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Pub. L. 112–81, div. A, title V, §527(c)(2), Dec. 31, 2011, 125 Stat. 1402, substituted "Members determined fit for duty in Physical Evaluation Board: prohibition on involuntary administrative separation or denial of reenlistment due to unsuitability based on medical conditions considered in evaluation" for "Members determined fit for duty in Physical Evaluation Board evaluation: prohibition on involuntary administrative separation due to unsuitability based on medical conditions considered in evaluation" in item 1214a.

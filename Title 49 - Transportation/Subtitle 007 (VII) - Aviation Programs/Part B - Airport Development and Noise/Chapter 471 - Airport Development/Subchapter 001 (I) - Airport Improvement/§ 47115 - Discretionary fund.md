@@ -10,7 +10,7 @@ Existence and Amounts in Fund.—The Secretary of Transportation has a discretio
 
 (b)
 
-Availability of Amounts.—Subject to subsection (c) of this section and section 47117(e) of this title, the fund is available for making grants for any purpose for which amounts are made available under section 48103 of this title that the Secretary considers most appropriate to carry out this subchapter.
+Availability of Amounts.—Subject to subsection (c) of this section and section 47117(e) of this title, the fund is available for making grants for any purpose for which amounts are made available under section 48103 of this titlethat the Secretary considers most appropriate to carry out this subchapter.
 
 (c)
 
@@ -178,7 +178,7 @@ Nonapplicability of certain sections.—Grants made under this subsection shall 
 
 &emsp;&emsp;(C) any other apportionment formula, special apportionment category, or minimum percentage set forth in this chapter.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1270; Pub. L. 103–305, title I, §112(d), Aug. 23, 1994, 108 Stat. 1576; Pub. L. 103–429, §6(67), Oct. 31, 1994, 108 Stat. 4386; Pub. L. 104–264, title I, §§122, 145, Oct. 9, 1996, 110 Stat. 3218, 3222; Pub. L. 104–287, §5(81), Oct. 11, 1996, 110 Stat. 3397; Pub. L. 106–6, §§5, 8(a), Mar. 31, 1999, 113 Stat. 10, 11; Pub. L. 107–71, title I, §119(a)(3), Nov. 19, 2001, 115 Stat. 628; Pub. L. 108–176, title I, §§148, 188, Dec. 12, 2003, 117 Stat. 2504, 2519; Pub. L. 110–253, §3(c)(5), June 30, 2008, 122 Stat. 2418; Pub. L. 110–330, §5(f), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 111–12, §5(e), Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §5(f), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §5(e), Dec. 16, 2009, 123 Stat. 3032; Pub. L. 111–153, §5(e), Mar. 31, 2010, 124 Stat. 1085; Pub. L. 111–161, §5(e), Apr. 30, 2010, 124 Stat. 1127; Pub. L. 111–197, §5(e), July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §104(e), Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, §5(f), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 111–329, §5(e), Dec. 22, 2010, 124 Stat. 3567; Pub. L. 112–7, §5(e), Mar. 31, 2011, 125 Stat. 32; Pub. L. 112–16, §5(e), May 31, 2011, 125 Stat. 219; Pub. L. 112–21, §5(e), June 29, 2011, 125 Stat. 234; Pub. L. 112–27, §5(e), Aug. 5, 2011, 125 Stat. 271; Pub. L. 112–30, title II, §205(f), Sept. 16, 2011, 125 Stat.358; Pub. L. 112–91, §5(f), Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title I, §144, Feb. 14, 2012, 126 Stat. 29; Pub. L. 114–55, title I, §102(b), Sept. 30, 2015, 129 Stat. 523; Pub. L. 114–141, title I, §102(b), Mar. 30, 2016, 130 Stat. 323; Pub. L. 114–190, title I, §1102(b), July 15, 2016, 130 Stat. 617; Pub. L. 115–63, title I, §102(c), Sept. 29, 2017, 131 Stat. 1169; Pub. L. 115–141, div. M, title I, §102(b), Mar. 23, 2018, 132 Stat. 1046; Pub. L. 115–254, div. B, title I, §§117(a), 158, 184(a), Oct. 5, 2018, 132 Stat. 3201, 3219, 3234.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1270; Pub. L. 103–305, title I, §112(d), Aug. 23, 1994, 108 Stat. 1576; Pub. L. 103–429, §6(67), Oct. 31, 1994, 108 Stat. 4386; Pub. L. 104–264, title I, §§122, 145, Oct. 9, 1996, 110 Stat. 3218, 3222; Pub. L. 104–287, §5(81), Oct. 11, 1996, 110 Stat. 3397; Pub. L. 106–6, §§5, 8(a), Mar. 31, 1999, 113 Stat. 10, 11; Pub. L. 107–71, title I, §119(a)(3), Nov. 19, 2001, 115 Stat. 628; Pub. L. 108–176, title I, §§148, 188, Dec. 12, 2003, 117 Stat. 2504, 2519; Pub. L. 110–253, §3(c)(5), June 30, 2008, 122 Stat. 2418; Pub. L. 110–330, §5(f), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 111–12, §5(e), Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §5(f), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §5(e), Dec. 16, 2009, 123 Stat. 3032; Pub. L. 111–153, §5(e), Mar. 31, 2010, 124 Stat. 1085; Pub. L. 111–161, §5(e), Apr. 30, 2010, 124 Stat. 1127; Pub. L. 111–197, §5(e), July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §104(e), Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, §5(f), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 111–329, §5(e), Dec. 22, 2010, 124 Stat. 3567; Pub. L. 112–7, §5(e), Mar. 31, 2011, 125 Stat. 32; Pub. L. 112–16, §5(e), May 31, 2011, 125 Stat. 219; Pub. L. 112–21, §5(e), June 29, 2011, 125 Stat. 234; Pub. L. 112–27, §5(e), Aug. 5, 2011, 125 Stat. 271; Pub. L. 112–30, title II, §205(f), Sept. 16, 2011, 125 Stat. 358; Pub. L. 112–91, §5(f), Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title I, §144, Feb. 14, 2012, 126 Stat. 29; Pub. L. 114–55, title I, §102(b), Sept. 30, 2015, 129 Stat. 523; Pub. L. 114–141, title I, §102(b), Mar. 30, 2016, 130 Stat. 323; Pub. L. 114–190, title I, §1102(b), July 15, 2016, 130 Stat. 617; Pub. L. 115–63, title I, §102(c), Sept. 29, 2017, 131 Stat. 1169; Pub. L. 115–141, div. M, title I, §102(b), Mar. 23, 2018, 132 Stat. 1046; Pub. L. 115–254, div. B, title I, §§117(a), 158, 184(a), Oct. 5, 2018, 132 Stat. 3201, 3219, 3234.)
 
 Historical and Revision Notes
 
@@ -216,7 +216,7 @@ Sept. 3, 1982, Pub. L. 97–248, §507(c), 96 Stat. 679; Jan. 6, 1983, Pub. L. 9
 
 In subsection (a), before clause (1), the words "The Secretary of Transportation has a discretionary fund" are added for clarity. In clause (1), the words "subject to apportionment for a fiscal year" are substituted for "which are made available for a fiscal year under section 2204 of this Appendix" and "which have not been previously apportioned by the Secretary" for consistency with section 47114 of the revised title.
 
-In subsection (c), before clause (1), the words "Subject to section 2207(d) of this Appendix and paragraph (4) of this subsection" and "pursuant to paragraph (1) and distributed by the Secretary under this subsection in a fiscal year beginning after September 30, 1987" are omitted as surplus.
+In subsection (c), before clause (1), the words "Subject to section 2207(d) of this Appendix and paragraph\(4) of this subsection" and "pursuant to paragraph (1) and distributed by the Secretary under this subsection in a fiscal year beginning after September 30, 1987" are omitted as surplus.
 
 In subsection (d), before clause (1), the words "at airports" are omitted as surplus. In clause (3), the words "airport operator or other" are omitted as surplus.
 
@@ -253,6 +253,8 @@ This sets out the date of enactment of 49:47115(f), as enacted by section 112(d)
 #### Pub. L. 104–287, §5(81)(B)
 
 This redesignates 49:47115(f), as enacted by section 6(67) of the Act of October 31, 1994 (Public Law 103–429, 108 Stat. 4386), as 49:47115(g).
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -359,6 +361,8 @@ Subsec. (h). Pub. L. 104–264, §145(b), added subsec. (h).
 <b>1994</b>—Subsec. (f). Pub. L. 103–429 added subsec. (f) relating to minimum amount to be credited.
 
 Pub. L. 103–305 added subsec. (f) relating to consideration of diversion of revenues in awarding discretionary grants.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 

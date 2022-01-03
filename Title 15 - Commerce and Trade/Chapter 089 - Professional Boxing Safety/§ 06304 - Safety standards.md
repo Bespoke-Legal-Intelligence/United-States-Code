@@ -1,6 +1,6 @@
 ### §6304. Safety standards
 
-No person may arrange, promote, organize, produce, or fight in a professional boxing match without meeting each of the following requirements or an alternative requirement in effect under regulations of a boxing commission that provides equivalent protection of the health and safety of boxers:
+No person may arrange, promote, organize, produce, or fight in a professional boxing matchwithout meeting each of the following requirements or an alternative requirement in effect under regulations of a boxing commission that provides equivalent protection of the health and safety of boxers:
 
 &emsp;(1) A physical examination of each boxer by a physician certifying whether or not the boxer is physically fit to safely compete, copies of which must be provided to the boxing commission.
 
@@ -11,6 +11,8 @@ No person may arrange, promote, organize, produce, or fight in a professional bo
 &emsp;(4) Health insurance for each boxer to provide medical coverage for any injuries sustained in the match.
 
 (Pub. L. 104–272, §5, Oct. 9, 1996, 110 Stat. 3310.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

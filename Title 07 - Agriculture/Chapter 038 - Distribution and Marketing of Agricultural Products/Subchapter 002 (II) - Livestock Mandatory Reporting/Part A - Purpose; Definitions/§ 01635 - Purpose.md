@@ -10,6 +10,8 @@ The purpose of this subchapter is to establish a program of information regardin
 
 (Aug. 14, 1946, ch. 966, title II, §211, as added Pub. L. 106–78, title IX, §911(2), Oct. 22, 1999, 113 Stat. 1188.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Livestock Mandatory Reporting
 
 Pub. L. 106–78, title IX, Oct. 22, 1999, 113 Stat. 1188, as amended by Pub. L. 108–444, §1, Dec. 3, 2004, 118 Stat. 2635; Pub. L. 109–296, §1(b), Oct. 5, 2006, 120 Stat. 1464; Pub. L. 111–239, §2(a)(2), Sept. 27, 2010, 124 Stat. 2501; Pub. L. 114–54, title I, §101(b), Sept. 30, 2015, 129 Stat. 513, provided that:

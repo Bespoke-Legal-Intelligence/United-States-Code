@@ -38,6 +38,8 @@ Compensation.—The individual serving as Provost and Academic Dean is entitled 
 
 (Added Pub. L. 112–81, div. A, title V, §554(a), Dec. 31, 2011, 125 Stat. 1414, §9314b; renumbered §9414b, Pub. L. 115–232, div. A, title VIII, §806(a)(3), Aug. 13, 2018, 132 Stat. 1832; amended Pub. L. 116–92, div. A, title V, §556(a), Dec. 20, 2019, 133 Stat. 1392; Pub. L. 116–283, div. A, title IX, §923(d)(5), Jan. 1, 2021, 134 Stat. 3814.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Level IV of the Executive Schedule, referred to in subsec. (b)(3), is set out in section 5315 of Title 5, Government Organization and Employees.
@@ -65,6 +67,8 @@ director and chancellor" for "
 commandant" to reflect the probable intent of Congress and conform the style of paragraph headings to that used in this title.
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 9314b of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

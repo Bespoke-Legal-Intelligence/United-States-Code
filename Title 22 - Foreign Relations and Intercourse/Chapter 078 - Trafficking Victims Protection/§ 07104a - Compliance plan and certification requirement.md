@@ -28,7 +28,7 @@ The President, in consultation with the Secretary of State, the Attorney General
 
 #### References in Text
 
-Section 7104(g) of this title, as amended by section 1702, referred to in subsec. (a)(1), means section 7104(g) of this title, as amended by section 1702 of Pub. L. 112–239.
+Section 7104(g) of this title, as amended by section 1702, referred to in subsec. (a)(1), means section 7104(g)of this title, as amended by section 1702 of Pub. L. 112–239.
 
 #### Codification
 

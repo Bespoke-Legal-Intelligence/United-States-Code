@@ -16,7 +16,7 @@ For the purposes of this subchapter:
 
 #### Amendments
 
-<b>2018</b>—Par. (3). Pub. L. 115–182, which directed substitution of "Secretary, or as otherwise authorized bylaw, for the provision of health-care services (including hospital, outpatient clinic, nursing home," for "Secretary for the provision of health-care services (including hospital, nursing home," in section 8101(3), without specifying the Code title to be amended, was executed by making the substitution in par. (3) of this section, to reflect the probable intent of Congress.
+<b>2018</b>—Par. (3). Pub. L. 115–182, which directed substitution of "Secretary, or as otherwise authorized by law, for the provision of health-care services (including hospital, outpatient clinic, nursing home," for "Secretary for the provision of health-care services (including hospital, nursing home," in section 8101(3), without specifying the Code title to be amended, was executed by making the substitution in par. (3) of this section, to reflect the probable intent of Congress.
 
 <b>1996</b>—Par. (2). Pub. L. 104–262 substituted "construction documents" for "working drawings" and "design development" for "preliminary plans".
 

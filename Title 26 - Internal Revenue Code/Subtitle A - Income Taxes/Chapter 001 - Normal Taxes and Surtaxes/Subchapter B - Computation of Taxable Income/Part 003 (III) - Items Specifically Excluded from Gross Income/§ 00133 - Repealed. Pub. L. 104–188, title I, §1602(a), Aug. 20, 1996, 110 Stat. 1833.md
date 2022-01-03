@@ -60,7 +60,7 @@ Terms applicable to certain securities acquisition loans
 
 &emsp;&emsp;(A) repayment terms which are substantially similar to the terms of the loan of such corporation from a lender described in subsection (a), or
 
-&emsp;&emsp;(B) repayment terms providing for more rapid repayment of principal or interest on such loan, but only if allocations under the plan attributable tosuch repayment do not discriminate in favor of highly compensated employees (within the meaning of section 414(q)).
+&emsp;&emsp;(B) repayment terms providing for more rapid repayment of principal or interest on such loan, but only if allocations under the plan attributable to such repayment do not discriminate in favor of highly compensated employees (within the meaning of section 414(q)).
 
 &emsp;(4)
 
@@ -202,9 +202,13 @@ Original securities acquisition loan
 
 &emsp;For the purposes of this subsection, the term "original securities acquisition loan" means a securities acquisition loan described in subparagraph (A) or (B) of subsection (b)(1).
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 133 was renumbered section 140 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of Repeal
 
@@ -228,5 +232,5 @@ Refinancings.—The amendments made by this section shall not apply to loans mad
 
 "(3)
 
-Exception.—Any loan made pursuant to a binding written contract in effect before June 10, 1996, and at all times thereafter before such loan is made, shallbe treated for purposes of paragraphs (1) and (2) as a loan made on or before the date of the enactment of this Act."
+Exception.—Any loan made pursuant to a binding written contract in effect before June 10, 1996, and at all times thereafter before such loan is made, shall be treated for purposes of paragraphs (1) and (2) as a loan made on or before the date of the enactment of this Act."
 

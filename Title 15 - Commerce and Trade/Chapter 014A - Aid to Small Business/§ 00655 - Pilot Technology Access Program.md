@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Administration, in consultation with the National Institute of Standards and Technology and the National Technical Information Service, shall establish a Pilot Technology Access Program, for making awards under this section to Small Business Development Centers (hereinafter in this section referred to as "Centers").
+The Administration, in consultation with the National Institute of Standards and Technologyand the National Technical Information Service, shall establish a Pilot Technology Access Program, for making awards under this section to Small Business Development Centers (hereinafter in this section referred to as "Centers").
 
 #### (b) Criteria for selection of Centers
 
@@ -48,13 +48,17 @@ There are authorized to be appropriated to the Small Business Administration $5 
 
 #### (i) Funding from other sources; employment of Centers by Federal agencies
 
-Centers are encouraged to seek funding from Federal and non-Federal sources other than those provided for in this section to assist small businesses in the identification of appropriate technologies to fill their needs, the transfer of technologies from Federal laboratories, public and private universities, and other public andprivate institutions, the analysis of commercial opportunities represented by such technologies, and such other functions as the development, business planning, market research, and financial packaging required for commercialization. Insofar as such Centers pursue these activities, Federal agencies are encouraged to employ these Centers to interface with small businesses for such purposes as facilitating small business participation in Federal procurement and fostering commercialization of Federally-funded research and development.
+Centers are encouraged to seek funding from Federal and non-Federal sources other than those provided for in this section to assist small businesses in the identification of appropriate technologies to fill their needs, the transfer of technologies from Federal laboratories, public and private universities, and other public and private institutions, the analysis of commercial opportunities represented by such technologies, and such other functions as the development, business planning, market research, and financial packaging required for commercialization. Insofar as such Centers pursue these activities, Federal agencies are encouraged to employ these Centers to interface with small businesses for such purposes as facilitating small business participation in Federal procurement and fostering commercialization of Federally-funded research and development.
 
 (Pub. L. 85–536, §2\[28\], as added Pub. L. 102–140, title VI, §609(d), Oct. 28, 1991, 105 Stat. 825.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 Section 648a of this title, referred to in subsecs. (e) to (g), was repealed by Pub. L. 102–140, title VI, §609(e), Oct. 28, 1991, 105 Stat. 826, effective Oct. 1, 1992.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

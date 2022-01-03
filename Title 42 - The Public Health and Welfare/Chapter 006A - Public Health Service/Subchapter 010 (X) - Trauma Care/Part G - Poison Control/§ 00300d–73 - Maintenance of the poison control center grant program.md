@@ -2,7 +2,7 @@
 
 #### (a) Authorization of program
 
-The Secretary shall award grants to poison control centers accredited under subsection (c) (or granted a waiver under subsection (d)) and professional organizations in the field of poison control for the purposes of preventing, and providing treatment recommendations for, poisonings and toxic exposures and complying with the operational requirements needed to sustain the accreditation of the center under subsection (c).
+The Secretary shall award grants to poison control centers accredited under subsection (c)\(or granted a waiver under subsection (d)) and professional organizations in the field of poison control for the purposes of preventing, and providing treatment recommendations for, poisonings and toxic exposures and complying with the operational requirements needed to sustain the accreditation of the center under subsection (c).
 
 #### (b) Additional uses of funds
 
@@ -66,7 +66,7 @@ There is authorized to be appropriated to carry out this section, $28,600,000 fo
 
 #### (h) Biennial report to Congress
 
-Not later than 2 years after December 20, 2019, and every 2 years thereafter, the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and Committee on Energy and Commerce of the House of Representatives a report concerning the operations of, and trends identified by, the Poison Control Network. Such report shall include—
+Not later than 2 years after December 20, 2019, and every 2 years thereafter, the Secretary shallsubmit to the Committee on Health, Education, Labor, and Pensions of the Senate and Committee on Energy and Commerce of the House of Representatives a report concerning the operations of, and trends identified by, the Poison Control Network. Such report shall include—
 
 &emsp;(1) descriptions of the activities carried out pursuant to sections 300d–71, 300d–72, and 300d–73 of this title, and the alignment of such activities with the purposes provided under subsection (a);
 
@@ -83,6 +83,8 @@ Not later than 2 years after December 20, 2019, and every 2 years thereafter, th
 &emsp;(7) the number of and reason for any waivers provided under subsection (d).
 
 (July 1, 1944, ch. 373, title XII, §1273, as added Pub. L. 108–194, §3, Dec. 19, 2003, 117 Stat. 2889; amended Pub. L. 110–377, §5(a), Oct. 8, 2008, 122 Stat. 4065; Pub. L. 113–77, §4(a), Jan. 24, 2014, 128 Stat. 644; Pub. L. 116–94, div. N, title I, §403(c), Dec. 20, 2019, 133 Stat. 3115.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -133,6 +135,8 @@ Subsec. (f). Pub. L. 113–77, §4(a)(5), substituted "for its activities" for "
 Subsec. (g). Pub. L. 113–77, §4(a)(6), added subsec. (g) and struck out former subsec. (g) which authorized appropriations for fiscal years 2009 through 2014 and limited the amount allowed to be spent on certain administrative functions.
 
 <b>2008</b>—Pub. L. 110–377 amended section generally. Prior to amendment, section related to awarding of grants to certified regional poison control centers and additional uses of appropriated funds by Secretary and authorized appropriations for fiscal years 2000 through 2009.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

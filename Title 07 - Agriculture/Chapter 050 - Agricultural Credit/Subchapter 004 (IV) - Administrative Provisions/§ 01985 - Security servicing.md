@@ -68,7 +68,7 @@ Except as provided in subsections (c) and (e), real property administered under 
 
 #### (i) Beginning farmer or rancher; socially disadvantaged farmer or rancher
 
-&emsp;&emsp;&emsp;The Secretary may lease or contract to sell to a beginning farmer or rancher or a socially disadvantaged farmer or rancher a farm or ranch acquired by the Secretary under this chapter if the beginning farmer or rancher or the socially disadvantaged farmer or rancher qualifies for a credit sale or direct farm ownership loan undersubchapter I but credit sale authority for loans or direct farm ownership loan funds, respectively, are not available.
+&emsp;&emsp;&emsp;The Secretary may lease or contract to sell to a beginning farmer or rancher or asocially disadvantaged farmer or rancher a farm or ranch acquired by the Secretary under this chapter if the beginning farmer or rancher or the socially disadvantaged farmer or rancher qualifies for a credit sale or direct farm ownership loan under subchapter I but credit sale authority for loans or direct farm ownership loan funds, respectively, are not available.
 
 #### (ii) Term
 
@@ -130,7 +130,7 @@ With respect to any real property administered under this chapter, the Secretary
 
 &emsp;(III) to such Indian tribe.
 
-(iv) The governing body of any Indian tribe having jurisdiction over an Indian reservation may revise the order of priority provided in clause (iii) under which lands located withinsuch reservation shall be offered for purchase or lease by the Secretary under clause (iii) and may restrict the eligibility for such purchase or lease to—
+(iv) The governing body of any Indian tribe having jurisdiction over an Indian reservationmay revise the order of priority provided in clause (iii) under which lands located within such reservation shall be offered for purchase or lease by the Secretary under clause (iii) and may restrict the eligibility for such purchase or lease to—
 
 &emsp;(I) persons who are members of such Indian tribe,
 
@@ -316,6 +316,8 @@ Assumed loans.—If an Indian tribe assumes a loan under subclause (I)—
 
 (Pub. L. 87–128, title III, §335, Aug. 8, 1961, 75 Stat. 315; Pub. L. 92–419, title I, §127, Aug. 30, 1972, 86 Stat. 666; Pub. L. 99–198, title XIII, §§1314(a), 1315, 1318(b)(1), Dec. 23, 1985, 99 Stat. 1526, 1528, 1531; Pub. L. 100–233, title VI, §§610, 611, Jan. 6, 1988, 101 Stat. 1669, 1673; Pub. L. 101–624, title XVIII, §§1813(a)–(h)(1), 1816(e), title XXIII, §§2303(c), 2388(g), Nov. 28, 1990, 104 Stat. 3821–3823, 3827, 3981, 4053; Pub. L. 102–237, title V, §501(f), Dec. 13, 1991, 105 Stat. 1867; Pub. L. 102–552, title V, §516(h)(1), Oct. 28, 1992, 106 Stat. 4138; Pub. L. 102–554, §§16, 17, Oct. 28, 1992, 106 Stat. 4154; Pub. L. 104–127, title VI, §§638, 639, Apr. 4, 1996, 110 Stat. 1093, 1097; Pub. L. 107–171, title V, §5308, May 13, 2002, 116 Stat. 345; Pub. L. 110–234, title V, §5302(a), May 22, 2008, 122 Stat. 1151; Pub. L. 110–246, §4(a), title V, §5302(a), June 18, 2008, 122 Stat. 1664, 1913.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this title", meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
@@ -368,7 +370,7 @@ Subsec. (e)(1)(A). Pub. L. 104–127, §638(3)(A)(i)–(iii), redesignated subpa
 
 Subsec. (e)(1)(B). Pub. L. 104–127, §638(3)(A)(i), (ii), redesignated subpar. (E) as (B) and struck out former subpar. (B) which read as follows: "Any purchase or lease under subparagraph (A) shall be on such terms and conditions as are established in regulations promulgated by the Secretary."
 
-Subsec. (e)(1)(C). Pub. L. 104–127, §638(3)(A)(i), (ii), redesignated subpar. (F) as (C) and struck out former subpar. (C) which authorized Secretary to give preference in sale or lease, with option to purchase, of property that had been foreclosed, purchased, redeemed, or otherwise acquired by the Secretary to persons in specified order.
+Subsec. (e)(1)(C). Pub. L. 104–127, §638(3)(A)(i), (ii), redesignated subpar. (F) as (C) and struck out former subpar. (C) which authorized Secretary to give preference in sale or lease, with option to purchase, of propertythat had been foreclosed, purchased, redeemed, or otherwise acquired by the Secretary to persons in specified order.
 
 Subsec. (e)(1)(D). Pub. L. 104–127, §638(3)(A)(ii), (iv), redesignated subpar. (G) as (D), in cl. (i), substituted "(A)" for "(D)" in concluding provisions, in cl. (iii)(I), substituted "subparagraph (A)" for "subparagraphs (C)(i), (C)(ii), and (D)", and added cl. (v) and struck out former cl. (v) which read as follows: "If a borrower-owner does not voluntarily convey to the Secretary real property described in clause (i), at least 30 days before a foreclosure sale of the property, the Secretary shall provide written notice to the Indian tribe that has jurisdiction over the reservation in which the real property is located of—
 
@@ -511,6 +513,8 @@ Subsec. (e). Pub. L. 99–198, §1314(a)(3), added subsec. (e).
 Subsec. (f). Pub. L. 99–198, §1315, added subsec. (f).
 
 <b>1972</b>—Subsec. (c). Pub. L. 92–419 substituted "the provisions of any law administered by the Farmers Home Administration" for "subchapter I of this chapter" in first sentence and "such provisions" for "the provisions of subchapter I of this chapter" in second sentence, struck out from fourth sentence initial minimum 20 per centum downpayment requirement and provision for payment of remainder in not more than five annual installments, and provided in such fourth sentence for interest rates and terms not more favorable than legally permissible for eligible borrowers.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

@@ -26,7 +26,7 @@ For purposes of this chapter, the term—
 
 &emsp;&emsp;(2) except as provided in section 5328(a)(1) of this title, subject to any Federal procurement law (including regulations);
 
-&emsp;(k) "State education agency" means the State board of education or other agency or officer primarily responsible for supervision by the State of public elementary and secondary schools, or, if there is no such officer or agency, an officer or agency designated by the Governor or by State law;
+&emsp;(k) "State education agency" means the State board of education or other agency or officer primarily responsible for supervisionby the State of public elementary and secondary schools, or, if there is no such officer or agency, an officer or agency designated by the Governor or by State law;
 
 &emsp;(l) "Tribal organization" or "tribal organization" means the recognized governing body of any Indian tribe; any legally established organization of Indians which is controlled, sanctioned, or chartered by such governing body or which is democratically elected by the adult members of the Indian community to be served by such organization and which includes the maximum participation of Indians in all phases of its activities: <i>Provided</i>, That in any case where a contract is let or grant made to an organization to perform services benefiting more than one Indian tribe, the approval of each such Indian tribe shall be a prerequisite to the letting or making of such contract or grant; and
 
@@ -70,7 +70,7 @@ Subsec. (m). Pub. L. 103–413, §102(1)(B)–(D), added subsec. (m).
 
 Subsec. (h). Pub. L. 101–644, §202(1), struck out "in existence on October 5, 1988," before "which meets this definition".
 
-Subsec. (j). Pub. L. 101–644, §202(2), substituted "contract (or grant or cooperative agreement utilized undersection 5308 of this title) entered" for "contract entered" in two places.
+Subsec. (j). Pub. L. 101–644, §202(2), substituted "contract (or grant or cooperative agreement utilized under section 5308 of this title) entered" for "contract entered" in two places.
 
 Pub. L. 101–301, §2(a)(2), (3), substituted "under this chapter" for "pursuant to this Act" in two places and struck out "the" before "Secretary".
 

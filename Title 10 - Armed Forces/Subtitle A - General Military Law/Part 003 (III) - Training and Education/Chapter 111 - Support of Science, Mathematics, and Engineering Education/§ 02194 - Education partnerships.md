@@ -6,7 +6,7 @@
 
 &emsp;(1) loaning defense laboratory equipment to the institution for any purpose and duration in support of such agreement that the director considers appropriate;
 
-&emsp;(2) notwithstanding the provisions of subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 or any provision of law or regulation relating to transfers of surplus property, transferring to the institution any computer equipment, or other scientific equipment, that is—
+&emsp;(2) notwithstanding the provisions of subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 or any provision of law orregulation relating to transfers of surplus property, transferring to the institution any computer equipment, or other scientific equipment, that is—
 
 &emsp;&emsp;(A) commonly used by educational institutions;
 
@@ -38,7 +38,9 @@
 
 &emsp;(3) The term "United States" includes the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and any other territory or possession of the United States.
 
-(Added Pub. L. 101–510, div. A, title II, §247(a)(1), Nov. 5, 1990, 104 Stat. 1522; amended Pub. L. 103–382, title III, §391(b)(4), Oct. 20, 1994, 108 Stat. 4021; Pub. L. 104–106, div. A, title XV, §1503(a)(19), Feb. 10, 1996, 110 Stat. 512; Pub. L. 106–398, §1 \[\[div. A\], title II, §253\], Oct. 30, 2000, 114 Stat. 1654, 1654A–49; Pub. L. 107–110, title X,§1076(e), Jan. 8, 2002, 115 Stat. 2091; Pub. L. 108–178, §4(b)(1), Dec. 15, 2003, 117 Stat. 2640; Pub. L. 111–350, §5(b)(3), Jan. 4, 2011, 124 Stat. 3842; Pub. L. 111–383, div. A, title II, §211(b), Jan. 7, 2011, 124 Stat. 4163; Pub. L. 112–239, div. A, title II, §251, Jan. 2, 2013, 126 Stat. 1688; Pub. L. 114–92, div. A, title II, §213, Nov. 25, 2015, 129 Stat. 767; Pub. L. 114–95, title IX, §9215(uuu)(4), Dec. 10, 2015, 129 Stat. 2190.)
+(Added Pub. L. 101–510, div. A, title II, §247(a)(1), Nov. 5, 1990, 104 Stat. 1522; amended Pub. L. 103–382, title III, §391(b)(4), Oct. 20, 1994, 108 Stat. 4021; Pub. L. 104–106, div. A, title XV, §1503(a)(19), Feb. 10, 1996, 110 Stat. 512; Pub. L. 106–398, §1 \[\[div. A\], title II, §253\], Oct. 30, 2000, 114 Stat. 1654, 1654A–49; Pub. L. 107–110, title X, §1076(e), Jan. 8, 2002, 115 Stat. 2091; Pub. L. 108–178, §4(b)(1), Dec. 15, 2003, 117 Stat. 2640; Pub. L. 111–350, §5(b)(3), Jan. 4, 2011, 124 Stat. 3842; Pub. L. 111–383, div. A, title II, §211(b), Jan. 7, 2011, 124 Stat. 4163; Pub. L. 112–239, div. A, title II, §251, Jan. 2, 2013, 126 Stat. 1688; Pub. L. 114–92, div. A, title II, §213, Nov. 25, 2015, 129 Stat. 767; Pub. L. 114–95, title IX, §9215(uuu)(4), Dec. 10, 2015, 129 Stat. 2190.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -81,6 +83,8 @@ Subsec. (e). Pub. L. 106–398, §1 \[\[div. A\], title II, §253(b)\], amended 
 Subsec. (e). Pub. L. 103–382, §394(b)(4)(B)(iii), which directed amendment of subsec. (e) by striking out "(20 U.S.C. 1058(b)" could not be executed because "(20 U.S.C. 1058(b)" does not appear in subsec. (e).
 
 Pub. L. 103–382, §391(b)(4)(B)(i), (ii), substituted "educational agency" for "education agency" and "section 14101" for "section 1471(12)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

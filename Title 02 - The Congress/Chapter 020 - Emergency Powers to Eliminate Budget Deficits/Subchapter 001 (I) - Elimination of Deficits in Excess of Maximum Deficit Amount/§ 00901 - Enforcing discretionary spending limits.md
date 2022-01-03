@@ -16,7 +16,7 @@
 
 #### (4) Part-year appropriations
 
-&emsp;If, on the date specified in paragraph (1), there is in effect an Act making or continuing appropriations for part of a fiscal year for any budget account, then the dollar sequestration calculated for that account under paragraphs (2) and (3) shall be subtracted from—
+&emsp;If, on the date specified in paragraph (1), there is in effect an Act making or continuing appropriations for part of a fiscal year for anybudget account, then the dollar sequestration calculated for that account under paragraphs (2) and (3) shall be subtracted from—
 
 &emsp;&emsp;(A) the annualized amount otherwise available by law in that account under that or a subsequent part-year appropriation; and
 
@@ -66,11 +66,11 @@
 
 &emsp;&emsp;&emsp;(ii) the Congress designates for Overseas Contingency Operations/Global War on Terrorism in statute on an account by account basis and the President subsequently so designates,
 
-> &emsp;&emsp;the adjustment shall be the total of such appropriations in discretionary accounts designated as emergency requirements or for Overseas Contingency Operations/Global War on Terrorism, as applicable.
+> &emsp;&emsp;the adjustment shall be the total of such appropriations in discretionary accounts designated as emergency requirements or forOverseas Contingency Operations/Global War on Terrorism, as applicable.
 
 #### (B) Continuing disability reviews and redeterminations
 
-&emsp;&emsp;(i) If a bill or joint resolution making appropriations for a fiscal year is enacted thatspecifies an amount for continuing disability reviews under titles II and XVI of the Social Security Act \[42 U.S.C. 401 et seq., 1381 et seq.\], for the cost associated with conducting redeterminations of eligibility under title XVI of the Social Security Act, for the cost of co-operative disability investigation units, and for the cost associated with the prosecution of fraud in the programs and operations of the Social Security Administration by Special Assistant United States Attorneys, then the adjustments for that fiscal year shall be the additional new budget authority provided in that Act for such expenses for that fiscal year, but shall not exceed—
+&emsp;&emsp;(i) If a bill or joint resolution making appropriations for a fiscal year is enacted that specifies an amount for continuing disability reviews under titles II and XVI of the Social Security Act \[42 U.S.C. 401 et seq., 1381 et seq.\], for the cost associated with conducting redeterminations of eligibility under title XVI of the Social Security Act, for the cost of co-operative disability investigation units, and for the cost associated with the prosecution of fraud in the programs and operations of the Social Security Administration by Special Assistant United States Attorneys, then the adjustments for that fiscal year shall be the additional new budget authority provided in that Act for such expenses for that fiscal year, but shall not exceed—
 
 &emsp;&emsp;&emsp;(I) for fiscal year 2012, $623,000,000 in additional new budget authority;
 
@@ -390,7 +390,7 @@ Subsec. (a)(3). Pub. L. 105–33, §10203(a)(2), substituted "section 905(f)" fo
 
 Subsec. (a)(7). Pub. L. 105–33, §10203(a)(3), added par. (7) and struck out heading and text of former par. (7). Text read as follows: "As soon as practicable after Congress completes action on any discretionary appropriation, CBO, after consultation with the Committees on the Budget of the House of Representatives and the Senate, shall provide OMB with an estimate of the amount of discretionary new budget authority and outlays for the current year (if any) and the budget year provided by that legislation. Within 5 calendar days after the enactment of any discretionary appropriation, OMB shall transmit a report to the House of Representatives and to the Senate containing the CBO estimate of that legislation, an OMB estimate of the amount of discretionary new budget authority and outlays for the current year (if any) and the budget year provided by that legislation, and an explanation of any difference between the two estimates. For purposes of this paragraph, amounts provided by annual appropriations shall include any new budget authority and outlays for those years in accounts for which funding is provided in that legislation that result from previously enacted legislation. Those OMB estimates shall be made using current economic and technical assumptions. OMB shall use the OMB estimates transmitted to the Congress under this paragraph for the purposes of this subsection. OMB and CBO shall prepare estimates under this paragraph in conformance with scorekeeping guidelines determined after consultation among the House and Senate Committees on the Budget, CBO, and OMB."
 
-Subsec. (b). Pub. L. 105–33, §10203(a)(4), added subsec. (b) and struck out heading and text of former subsec. (b) which provided that when the President submitted the budget for a budget year from 1992 to 1998, OMB was to calculate, and the budget was to include, adjustments to discretionary spending limits reflecting certain enumerated factors and provided that when OMB submitted a sequestration report for a fiscal year from 1991 to 1998, OMB was to calculate, and the sequestration report and subsequent budgets were to include, adjustments to discretionary spending limits reflecting certain enumerated factors.
+Subsec. (b). Pub. L. 105–33, §10203(a)(4), added subsec. (b) and struck out heading and text of former subsec. (b) which provided that when the President submittedthe budget for a budget year from 1992 to 1998, OMB was to calculate, and the budget was to include, adjustments to discretionary spending limits reflecting certain enumerated factors and provided that when OMB submitted a sequestration report for a fiscal year from 1991 to 1998, OMB was to calculate, and the sequestration report and subsequent budgets were to include, adjustments to discretionary spending limits reflecting certain enumerated factors.
 
 Subsec. (b)(2)(G). Pub. L. 105–89 added subpar. (G).
 

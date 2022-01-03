@@ -34,7 +34,7 @@
 
 (2) A participant in the Scholarship Program who on such participant's course completion date is a full-time employee in the Veterans Health Administration serving in a capacity for which such participant's course of training prepared such participant shall be considered to have begun serving such participant's period of obligated service on such course completion date.
 
-(3) For the purposes of this section, the term "course completion date" means the date onwhich a participant in the Scholarship Program completes such participant's course of education or training under the program.
+(3) For the purposes of this section, the term "course completion date" means the date on which a participant in the Scholarship Program completes such participant's course of education or training under the program.
 
 (Added Pub. L. 100–322, title II, §216(b), May 20, 1988, 102 Stat. 522, §4316; renumbered §7616 and amended Pub. L. 102–40, title IV, §§402(b)(1), (d)(1), 403(b)(5), May 7, 1991, 105 Stat. 238–240; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, §1201(b)(1), Nov. 2, 1994, 108 Stat. 4682.)
 

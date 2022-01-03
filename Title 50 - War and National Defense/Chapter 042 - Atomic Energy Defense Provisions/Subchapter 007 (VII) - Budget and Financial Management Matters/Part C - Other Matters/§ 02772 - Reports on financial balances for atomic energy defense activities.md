@@ -40,11 +40,11 @@
 
 &emsp;&emsp;(F) The amount of any balance of uncosted funds that is over or under that threshold and, in the case of a balance over that threshold, an explanation for why the balance is over that threshold.
 
-&emsp;&emsp;(G) The total balance of committed, uncosted funds.
+&emsp;&emsp;(G) The total balance of encumbered, uncosted funds.
 
-&emsp;&emsp;(H) The total balance of uncommitted, uncosted funds.
+&emsp;&emsp;(H) The total balance of unencumbered, uncosted funds.
 
-&emsp;&emsp;(I) The amount of any balance of uncommitted, uncosted funds that is over or under the threshold described in subparagraph (E) and, in the case of a balance over that threshold, an explanation for why the balance is over that threshold.
+&emsp;&emsp;(I) The amount of any balance of unencumbered, uncosted funds that is over or under the threshold described in subparagraph (E) and, in the case of a balance over that threshold, an explanation for why the balance is over that threshold.
 
 #### (3) Part 2
 
@@ -60,21 +60,21 @@
 
 In this section:
 
-#### (1) Committed
+#### (1) Costed
 
-&emsp;The term "committed", with respect to funds, means the funds are associated with a legally enforceable agreement, such as a purchase order or contract, that has been entered into.
+&emsp;The term "costed", with respect to funds, means the funds have been obligated to a contract and goods or services have been received from the contractor in exchange for the funds.
 
-#### (2) Costed
+#### (2) Encumbered
 
-&emsp;The term "costed", with respect to funds, means the funds have been obligated to a contract and goods or services have been received by the contractor in exchange for the funds.
+&emsp;The term "encumbered", with respect to funds, means the funds have been obligated to a contract and are being held for a specific known purpose by the contractor.
 
-#### (3) Uncommitted
+#### (3) Uncosted
 
-&emsp;The term "uncommitted", with respect to funds, means the funds are not committed.
+&emsp;The term "uncosted", with respect to funds, means the funds have been obligated to a contract and goods or services have not been received from the contractor in exchange for the funds.
 
-#### (4) Uncosted
+#### (4) Unencumbered
 
-&emsp;The term "uncosted", with respect to funds, means the funds have been obligated to a contract and goods or services have not been received by the contractor in exchange for the funds.
+&emsp;The term "unencumbered", with respect to funds, means the funds have been obligated to a contract and are not being held for a specific known purpose by the contractor.
 
 #### (5) Threshold
 
@@ -90,9 +90,17 @@ In this section:
 
 &emsp;&emsp;(C) current fiscal year deobligations.
 
-(Pub. L. 107–314, div. D, title XLVII, §4732, as added Pub. L. 112–239, div. C, title XXXI, §3143(a), Jan. 2, 2013, 126 Stat. 2196; amended Pub. L. 116–283, div. C, title XXXI, §3151(a), Jan. 1, 2021, 134 Stat. 4389.)
+(Pub. L. 107–314, div. D, title XLVII, §4732, as added Pub. L. 112–239, div. C, title XXXI, §3143(a), Jan. 2, 2013, 126 Stat. 2196; amended Pub. L. 116–283, div. C, title XXXI, §3151(a), Jan. 1, 2021, 134 Stat. 4389; Pub. L. 117–81, div. C, title XXXI, §3132, Dec. 27, 2021, 135 Stat. 2230.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283 amended section generally. Prior to amendment, section related to quarterly reports on financial balances for atomic energy defense activities.
+
+Subsec. (b)(2)(G). Pub. L. 117–81, §3132(1)(A), substituted "encumbered" for "committed".
+
+Subsec. (b)(2)(H), (I). Pub. L. 117–81, §3132(1)(B), (C), substituted "unencumbered" for "uncommitted".
+
+Subsec. (c). Pub. L. 117–81, §3132(2), struck out pars. (1) and (3), which defined "committed" and "uncommitted", respectively; redesignated former pars. (2) and (4) as (1) and (3), respectively; substituted "from the contractor" for "by the contractor" in pars. (1) and (3); and added pars. (2) and (4).
 

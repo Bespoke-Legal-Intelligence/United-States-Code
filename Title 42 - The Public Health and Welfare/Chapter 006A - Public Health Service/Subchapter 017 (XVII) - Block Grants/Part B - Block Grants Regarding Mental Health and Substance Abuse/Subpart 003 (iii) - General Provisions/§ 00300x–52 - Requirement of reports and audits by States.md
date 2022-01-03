@@ -10,7 +10,7 @@ A funding agreement for a grant under section 300x or 300x–21 of this title is
 
 #### (b) Audits
 
-A funding agreement for a grant under section 300x or 300x–21 of this title is that the State will,with respect to the grant, comply with chapter 75 of title 31.
+A funding agreement for a grant under section 300x or 300x–21 of this title is that the State will, with respect to the grant, comply with chapter 75 of title 31.
 
 #### (c) Availability to public
 
@@ -21,6 +21,8 @@ A funding agreement for a grant under section 300x or 300x–21 of this title is
 &emsp;(2) provide copies of the report under subsection (a), upon request, to any interested person (including any public agency).
 
 (July 1, 1944, ch. 373, title XIX, §1942, as added Pub. L. 102–321, title II, §203(a), July 10, 1992, 106 Stat. 403; amended Pub. L. 104–316, title I, §122(e), Oct. 19, 1996, 110 Stat. 3837.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

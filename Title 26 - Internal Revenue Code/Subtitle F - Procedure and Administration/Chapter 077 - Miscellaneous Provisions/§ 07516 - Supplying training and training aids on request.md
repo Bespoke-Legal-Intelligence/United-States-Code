@@ -4,6 +4,8 @@ The Secretary is authorized within his discretion, upon written request, to admi
 
 (Added Pub. L. 87–870, §3(a)(1), Oct. 23, 1962, 76 Stat. 1160; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.

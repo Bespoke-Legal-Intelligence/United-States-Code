@@ -2,7 +2,7 @@
 
 The Customs Service shall, under rules and regulations prescribed by the Secretary—
 
-&emsp;(a) fix the final appraisement of merchandise by ascertaining or estimating the value thereof, under section 1401a of this title, by all reasonable ways and means in his power, anystatement of cost or costs of production in any invoice, affidavit, declaration, other document to the contrary notwithstanding;
+&emsp;(a) fix the final appraisement of merchandise by ascertaining or estimating the value thereof, under section 1401a of this title, by all reasonable ways and means in his power, any statement of cost or costs of production in any invoice, affidavit, declaration, other document to the contrary notwithstanding;
 
 &emsp;(b) fix the final classification and rate of duty applicable to such merchandise;
 
@@ -14,6 +14,8 @@ The Customs Service shall, under rules and regulations prescribed by the Secreta
 
 (June 17, 1930, ch. 497, title IV, §500, 46 Stat. 729; Aug. 2, 1956, ch. 887, §4(b), 70 Stat. 948; Pub. L. 91–271, title II, §204(a), June 2, 1970, 84 Stat. 283; Pub. L. 96–39, title II, §202(a)(4), July 26, 1979, 93 Stat. 202; Pub. L. 103–182, title VI, §638, Dec. 8, 1993, 107 Stat. 2203.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §500, 42 Stat. 965. That section was superseded by section 500 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
@@ -24,7 +26,7 @@ R.S. §§2609, 2610, relative to merchant appraisers, were superseded by the pro
 
 R.S. §2902 prescribed the mode of appraisal of merchandise, prior to repeal by the Customs Administrative Act of June 10, 1890, ch. 407, §29, 26 Stat. 141.
 
-R.S. §2911 required appraisers to adopt the value of the best article in a package containing articles wholly or in part of wool or cotton of similar kind but different quality, charged at an average price, and R.S. §2912 related to appraisal of wool of different qualities when imported in the same bale, bag, or package, and of bales of different qualities when embraced in the same invoice, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
+R.S. §2911 required appraisers to adopt the value of the best article in a package containing articles whollyor in part of wool or cotton of similar kind but different quality, charged at an average price, and R.S. §2912 related to appraisal of wool of different qualities when imported in the same bale, bag, or package, and of bales of different qualities when embraced in the same invoice, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
 R.S. §2945 imposed a penalty on any merchant chosen by the collector to make any appraisement required under any act respecting imports and tonnage, who should, after due notice, decline or neglect to assess at such appraisement. This section was repealed by the Customs Administrative Act of June 10, 1890, ch. 407, §29, 26 Stat. 141, and was again repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
@@ -58,17 +60,23 @@ Subds. (d) and (e). Pub. L. 103–182, §638(5), amended subds. (d) and (e) gene
 
 <b>1956</b>—Subd. (f). Act Aug. 2, 1956, struck out "take the oath," before "perform all the duties" in second sentence, and struck out comma after "perform all duties".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1979 Amendment
 
 Amendment by Pub. L. 96–39 effective July 1, 1980, see section 204(a) of Pub. L. 96–39, set out as a note under section 1401a of this title.
 
 #### Effective Date of 1970 Amendment
 
-Pub. L. 91–271, title II, §203, June 2, 1970, 84 Stat. 283, provided that: "Titles II and III of this Act \[see Short Title of 1970 Amendment note set out under section 1654 of this title\] shall take effect with respect to articles entered, or withdrawn, from warehouse for consumption, on or after October 1, 1970, and such other articles entered or withdrawn from warehouse for consumption prior to such date, the appraisement of which has notbecome final before October 1, 1970, and for which an appeal for reappraisement has not been timely filed with the Bureau of Customs \[now the United States Customs Service\] before October 1, 1970, or with respect to which a protest has not been disallowed in whole or in part before October 1, 1970."
+Pub. L. 91–271, title II, §203, June 2, 1970, 84 Stat. 283, provided that: "Titles II and III of this Act \[see Short Title of 1970 Amendment note set out under section 1654 of this title\] shall take effect with respect to articles entered, or withdrawn, from warehouse for consumption, on or after October 1, 1970, and such other articles entered or withdrawn from warehouse for consumption prior to such date, the appraisement of which has not become final before October 1, 1970, and for which an appeal for reappraisement has not been timely filed with the Bureau of Customs \[now the United States Customs Service\] before October 1, 1970, or with respect to which a protest has not been disallowed in whole or in part before October 1, 1970."
 
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
 
 Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
 

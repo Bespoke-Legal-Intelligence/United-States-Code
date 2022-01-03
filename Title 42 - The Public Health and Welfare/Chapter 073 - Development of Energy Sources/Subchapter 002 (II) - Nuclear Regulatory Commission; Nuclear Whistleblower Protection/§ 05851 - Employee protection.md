@@ -52,7 +52,7 @@
 
 #### (c) Review
 
-(1) Any person adversely affected or aggrieved by an order issued under subsection (b) may obtain review of the order in the United States court of appeals for the circuit in which the violation, with respect to which the order was issued, allegedly occurred. The petition for review must be filed within sixty days from the issuance of the Secretary's order. Review shall conform to chapter 7 of title 5. The commencement of proceedings under this subparagraphshall not, unless ordered by the court, operate as a stay of the Secretary's order.
+(1) Any person adversely affected or aggrieved by an order issued under subsection (b) may obtain review of the order in the United States court of appeals for the circuit in which the violation, with respect to which the order was issued, allegedly occurred. The petition for review must be filed within sixty days from the issuance of the Secretary's order. Review shall conform to chapter 7 of title 5. The commencement of proceedings under this subparagraph shall not, unless ordered by the court, operate as a stay of the Secretary's order.
 
 (2) An order of the Secretary with respect to which review could have been obtained under paragraph (1) shall not be subject to judicial review in any criminal or other civil proceeding.
 
@@ -94,6 +94,8 @@ The provisions of this section shall be prominently posted in any place of emplo
 
 (Pub. L. 93–438, title II, §211, formerly §210, as added Pub. L. 95–601, §10, Nov. 6, 1978, 92 Stat. 2951; renumbered §211 and amended Pub. L. 102–486, title XXIX, §2902(a)–(g), (h)(2), (3), Oct. 24, 1992, 106 Stat. 3123, 3124; Pub. L. 109–58, title VI, §629, Aug. 8, 2005, 119 Stat. 785.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a)(1) and (g), was in the original "this Act", meaning Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, known as the Energy Reorganization Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
@@ -118,9 +120,13 @@ Subsec. (b)(3). Pub. L. 102–486, §2902(d), added par. (3).
 
 Subsecs. (h) to (j). Pub. L. 102–486, §2902(e)–(g), added subsecs. (h) to (j).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1992 Amendment
 
 Pub. L. 102–486, title XXIX, §2902(i), Oct. 24, 1992, 106 Stat. 3125, provided that: "The amendments made by this section \[amending this section\] shall apply to claims filed under section 211(b)(1) of the Energy Reorganization Act of 1974 (42 U.S.C. 5851(b)(1)) on or after the date of the enactment of this Act \[Oct. 24, 1992\]."
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

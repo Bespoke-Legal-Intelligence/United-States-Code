@@ -40,6 +40,8 @@ The Foundation is authorized to—
 
 (Pub. L. 96–516, §33, Dec. 12, 1980, 94 Stat. 3011; Pub. L. 99–159, title I, §111(b)(6), Nov. 22, 1985, 99 Stat. 892; Pub. L. 115–6, §3, Feb. 28, 2017, 131 Stat. 11.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Science and Engineering Equal Opportunities Act, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
@@ -66,6 +68,8 @@ Par. (10). Pub. L. 99–159, §111(b)(6)(D), inserted applicability to engineeri
 
 Par. (11). Pub. L. 99–159, §111(b)(6)(E), substituted "science and engineering" for "science, engineering, and technology".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Findings
 
 Pub. L. 115–6, §2, Feb. 28, 2017, 131 Stat. 11, provided that: "The Congress finds that—
@@ -76,7 +80,7 @@ Pub. L. 115–6, §2, Feb. 28, 2017, 131 Stat. 11, provided that: "The Congress 
 
 &emsp;"(3) only 26 percent of women who do attain degrees in STEM fields work in STEM jobs;
 
-&emsp;"(4) there is an increasing demand for individuals with STEM degrees to extend their focus beyond thelaboratory so they can be leaders in discovery commercialization;
+&emsp;"(4) there is an increasing demand for individuals with STEM degrees to extend their focus beyond the laboratory so they can be leaders in discovery commercialization;
 
 &emsp;"(5) studies have shown that technology and commercialization ventures are successful when women are in top management positions; and
 
@@ -164,7 +168,7 @@ Pub. L. 105–255, Oct. 14, 1998, 112 Stat. 1889, provided that:
 
 &emsp;"(10) assess the extent to which the recommendations of the Task Force on Women, Minorities, and the Handicapped in Science and Technology established under section 8 of the National Science Foundation Authorization Act for Fiscal Year 1987 (Public Law 99–383; 42 U.S.C. 1885a note) have been implemented;
 
-&emsp;"(11) compile a list of all federally funded reports on the subjects of encouraging women, minorities, and individuals with disabilities to enter the fields of science and engineering and retaining women, minorities, and individuals with disabilities in the science and engineering workforce that have been issued since the date that the Task Force described in paragraph (10) submitted its report to Congress;
+&emsp;"(11) compile a list of all federally funded reports on the subjects of encouraging women, minorities, and individuals with disabilities to enter the fields ofscience and engineering and retaining women, minorities, and individuals with disabilities in the science and engineering workforce that have been issued since the date that the Task Force described in paragraph (10) submitted its report to Congress;
 
 &emsp;"(12) assess the extent to which the recommendations contained in the reports described in paragraph (11) have been implemented; and
 

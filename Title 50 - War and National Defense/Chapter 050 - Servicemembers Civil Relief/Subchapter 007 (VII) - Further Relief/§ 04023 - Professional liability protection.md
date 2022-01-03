@@ -28,7 +28,7 @@ This section applies to a servicemember who—
 
 #### (3) Nonliability of carrier during suspension
 
-&emsp;A professional liability insurance carrier shall not be liable with respect to any claim that is based on professional conduct (including any failure to take any action in a professional capacity) of a servicemember that occurs during a period of suspension of that servicemember's professional liability insurance under this subsection.
+&emsp;A professional liability insurance carrier shall not be liable with respect to any claimthat is based on professional conduct (including any failure to take any action in a professional capacity) of a servicemember that occurs during a period of suspension of that servicemember's professional liability insurance under this subsection.
 
 #### (4) Certain claims considered to arise before suspension
 
@@ -42,7 +42,7 @@ This section applies to a servicemember who—
 
 #### (2) Time and premium for reinstatement
 
-&emsp;The request of a servicemember for reinstatement shall be effective only if the servicemember transmits the request to the insurance carrier within 30 days after the dateon which the servicemember is released from active duty. The insurance carrier shall notify the servicemember of the due date for payment of the premium of such insurance. Such premium shall be paid by the servicemember within 30 days after receipt of that notice.
+&emsp;The request of a servicemember for reinstatement shall be effective only if the servicemember transmits the request to the insurance carrier within 30 days after the date on which the servicemember is released from active duty. The insurance carrier shall notify the servicemember of the due date for payment of the premium of such insurance. Such premium shall be paid by the servicemember within 30 days after receipt of that notice.
 
 #### (3) Period of reinstated coverage
 
@@ -112,6 +112,8 @@ For purposes of this section:
 
 (Oct. 17, 1940, ch. 888, title VII, §703, as added Pub. L. 108–189, §1, Dec. 19, 2003, 117 Stat. 2862.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 593 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
@@ -119,6 +121,8 @@ Section was formerly classified to section 593 of the former Appendix to this ti
 #### Prior Provisions
 
 A prior section 703 of act Oct. 17, 1940, ch. 888, art. VII, as added Pub. L. 102–12, §5(b), Mar. 18, 1991, 105 Stat. 37, related to reinstatement of health coverage upon release from service, prior to the general amendment of this Act by Pub. L. 108–189. See section 4024 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

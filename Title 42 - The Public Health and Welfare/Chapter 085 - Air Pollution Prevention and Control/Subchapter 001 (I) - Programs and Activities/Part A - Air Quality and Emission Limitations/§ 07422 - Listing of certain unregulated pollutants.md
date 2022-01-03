@@ -18,21 +18,27 @@ Nothing in subsection (a) shall be construed to affect the authority of the Admi
 
 (July 14, 1955, ch. 360, title I, §122, as added Pub. L. 95–95, title I, §120(a), Aug. 7, 1977, 91 Stat. 720.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 7412(b)(1), referred to in subsec. (a), was amended generally by Pub. L. 101–549, title III, §301, Nov. 15, 1990, 104 Stat. 2531, and, as so amended, no longer contains a subpar. (A).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
 Section effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
 
-#### Transfer of Functions
-
-For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg.Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out as a note under section 5841 of this title.
-
 #### Study by Administrator of Environmental Protection Agency
 
 Pub. L. 95–95, title I, §120(b), Aug. 7, 1977, 91 Stat. 721, directed Administrator of Environmental Protection Agency to conduct a study, in conjunction with other appropriate agencies, concerning effect on public health and welfare of sulfates, radioactive pollutants, cadmium, arsenic, and polycyclic organic matter which are present or may reasonably be anticipated to occur in the ambient air, such study to include a thorough investigation of how sulfates are formed and how to protect public health and welfare from the injurious effects, if any, of sulfates, cadmium, arsenic, and polycyclic organic matter.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg. Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out as a note under section 5841 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

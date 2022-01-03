@@ -4,6 +4,8 @@ Articles purchased for the use of or for sale on board any such vessel, as saloo
 
 (R.S. §3113.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §3113 derived from acts July 18, 1866, ch. 201, §22, 14 Stat. 183; Feb. 10, 1871, ch. 45, 16 Stat. 409.

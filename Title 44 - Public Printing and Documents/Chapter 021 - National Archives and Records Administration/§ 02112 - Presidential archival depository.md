@@ -42,7 +42,7 @@
 
 &emsp;(D) a statement of any additional improvements or equipment for the depository associated with such change or addition;
 
-&emsp;(E) an estimate of the increase in the total annual cost to the United States of maintaining, operating, and protecting the depository that will result from such change or addition; and
+&emsp;(E) an estimate of the increase in the total annual cost to the United States of maintaining, operating, and protecting the depositorythat will result from such change or addition; and
 
 &emsp;(F) a certification that the depository, and the equipment therein will, after such change or addition, comply with the standards promulgated by the Archivist pursuant to paragraph (2) of this subsection.
 
@@ -106,7 +106,7 @@
 
 &emsp;&emsp;(i) the date on which the Archivist took title to the land, facility, and equipment for such depository under subparagraph (A) of subsection (a)(1); or
 
-&emsp;&emsp;(ii) the date on which the Archivist entered into an agreement for the creation ofsuch depository under subparagraph (B) of such paragraph,
+&emsp;&emsp;(ii) the date on which the Archivist entered into an agreement for the creation of such depository under subparagraph (B) of such paragraph,
 
 > &emsp;as the case may be; minus
 
@@ -214,5 +214,5 @@ Pub. L. 89–547, Aug. 27, 1966, 80 Stat. 370, provided: "That the Administrator
 
 Pub. L. 89–169, Sept. 6, 1965, 79 Stat. 648, provided: "That the Administrator of General Services is hereby authorized to enter into an agreement upon such terms and conditions as he determines proper with the University of Texas to utilize as the Lyndon Baines Johnson Archival Depository, land, buildings, and equipment of such university to be made available by it without transfer of title to the United States, and to maintain, operate and protect such depository as a part of the National Archives system. Such agreement may be entered into without regard to the provisions of section 507(f)(1) of the Federal Property and Administrative Services Act of 1949, as amended (44 U.S.C. \[former\] 397(f)(1)) \[now subsec. (a) of this section\], that the Administrator shall not enter into any such agreement until the expiration of the first period of sixty calendar days of continuous session of the Congress following the date on which a report in writing of any such proposed Presidential archival depository is transmitted by the Administrator to the President of the Senate and the Speaker of the House of Representatives."
 
-\[For transfer of certain functions of the Administrator of General Services under Pub. L. 89–169 to the Archivist of the United States, see section 103(b)(2) of Pub. L. 98–497, set out as a Transfer of Functions note under section 2102 of this title.\]
+\[For transfer of certain functions of the Administrator of General Services under Pub. L. 89–169 to theArchivist of the United States, see section 103(b)(2) of Pub. L. 98–497, set out as a Transfer of Functions note under section 2102 of this title.\]
 

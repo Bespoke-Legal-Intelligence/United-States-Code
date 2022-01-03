@@ -14,11 +14,15 @@ The Commission, in carrying out its responsibilities under this subchapter, may�
 
 (Pub. L. 92–522, title II, §206, Oct. 21, 1972, 86 Stat. 1045; Pub. L. 97–58, §6(2), Oct. 9, 1981, 95 Stat. 987; Pub. L. 98–364, title I, §103(b), July 17, 1984, 98 Stat. 442.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Par. (5). Pub. L. 98–364 inserted "; except that no fewer than 11 employees must be employed under paragraph (1) at any time" at end.
 
 <b>1981</b>—Par. (3). Pub. L. 97–58 substituted "contracts or agreements with, or provide such grants to, other organizations" for "contracts or agreements with other organizations".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

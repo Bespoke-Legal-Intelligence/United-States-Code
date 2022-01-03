@@ -78,7 +78,7 @@ Upon the request of any person, the Secretary of State may, in consultation with
 
 #### (e) Termination of sanction
 
-The sanction imposed pursuant to this section shall apply for a period of at least 12 months following the imposition of the sanction and shall cease to apply thereafter only if the President determines and certifies in writing to the Congress that—
+The sanction imposed pursuant to this section shall apply for a period of at least 12 months following the imposition of the sanction and shallcease to apply thereafter only if the President determines and certifies in writing to the Congress that—
 
 &emsp;(1) reliable information indicates that the foreign person or United States person with respect to which the determination was made under subsection (a)(1) has ceased to aid or abet any individual, group, or non-nuclear-weapon state in its efforts to acquire unsafeguarded special nuclear material or any nuclear explosive device, as described in that subsection; and
 
@@ -128,7 +128,7 @@ Memorandum of President of the United States, Mar. 5, 2007, 72 F.R. 11283, provi
 
 Memorandum for the Secretary of State\[,\] the Secretary of the Treasury\[,\] the Secretary of Defense\[,\] the Secretary of Commerce\[, and\] the Director of National Intelligence
 
-By the authority vested in me as President by the Constitution and laws of the United States, including section 301 of title 3, United States Code, the functions of the President under section 821 of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 (22U.S.C. 6301) are assigned to the Secretary of State, except that the function of the President under section 821(c)(2)(A) is assigned to the Secretary of Defense.
+By the authority vested in me as President by the Constitution and laws of the United States, including section 301 of title 3, United States Code, the functions of the President under section 821 of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 (22 U.S.C. 6301) are assigned to the Secretary of State, except that the function of the President under section 821(c)(2)(A) is assigned to the Secretary of Defense.
 
 In the performance of their respective functions under this memorandum, the Secretaries of State and Defense shall, as appropriate, consult each other, the Secretaries of the Treasury and Commerce, and the heads of other departments and agencies.
 

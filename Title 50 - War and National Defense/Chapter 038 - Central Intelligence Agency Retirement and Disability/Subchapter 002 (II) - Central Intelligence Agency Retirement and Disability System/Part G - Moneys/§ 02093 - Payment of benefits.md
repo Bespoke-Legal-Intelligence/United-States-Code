@@ -56,7 +56,7 @@ An individual entitled to an annuity from the fund may decline to accept all or 
 
 #### (1) Agreements with States
 
-&emsp;The Director shall, in accordance with this subsection, enter into an agreement with any State within 120 days of a request for agreement from the proper State official. The agreement shall provide that the Director shall withhold State income tax in the case of the monthly annuity of any annuitant who voluntarily requests, in writing, such withholding. The amounts withheld during any calendar quarter shall be held in the Fund <sup>1</sup> and disbursed to the States during the month following that calendar quarter.
+&emsp;The Director shall, in accordance with this subsection, enter into an agreement with any State within 120 days of a request for agreement from the proper State official. The agreement shall provide that the Director shall withhold State income tax in the case of the monthly annuity of any annuitant who voluntarily requests, in writing, such withholding. The amounts withheld during any calendar quarter shall be held in the Fund <sup>1</sup> anddisbursed to the States during the month following that calendar quarter.
 
 #### (2) Limitation on multiple requests
 
@@ -68,7 +68,7 @@ An individual entitled to an annuity from the fund may decline to accept all or 
 
 #### (4) General provisions
 
-&emsp;This subsection does not give the consent of the United States to the application of a statute which imposes more burdensome requirements of the United States than on employers generally, or which subjects the United States or any annuitant to a penalty or liability because of this subsection. The Director may not accept pay from a State for services performedin withholding State income taxes from annuities. Any amount erroneously withheld from an annuity and paid to a State by the Director shall be repaid by the State in accordance with regulations prescribed by the Director.
+&emsp;This subsection does not give the consent of the United States to the application of a statute which imposes more burdensome requirements of the United States than on employers generally, or which subjects the United States or any annuitant to a penalty or liability because of this subsection. The Director may not accept pay from a State for services performed in withholding State income taxes from annuities. Any amount erroneously withheld from an annuity and paid to a State by the Director shall be repaid by the State in accordance with regulations prescribed by the Director.
 
 #### (5) "State" defined
 
@@ -76,9 +76,13 @@ An individual entitled to an annuity from the fund may decline to accept all or 
 
 (Pub. L. 88–643, title II, §263, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3235.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 263 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1052; Pub. L. 97–269, title VI, §609, Sept. 27, 1982, 96 Stat. 1153; Pub. L. 99–335, title V, §501(2), June 6, 1986, 100 Stat. 622, related to attachment of moneys and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

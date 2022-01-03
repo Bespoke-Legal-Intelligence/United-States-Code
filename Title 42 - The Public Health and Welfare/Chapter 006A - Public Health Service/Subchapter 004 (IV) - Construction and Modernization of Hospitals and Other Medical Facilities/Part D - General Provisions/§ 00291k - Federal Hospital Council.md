@@ -10,13 +10,15 @@ Each appointed member shall hold office for a term of four years, except that an
 
 #### (c) Meetings; annual or by call of Surgeon General
 
-The Council shall meet as frequently as the Surgeon General deems necessary, but not lessthan once each year. Upon request by three or more members, it shall be the duty of the Surgeon General to call a meeting of the Council.
+The Council shall meet as frequently as the Surgeon General deems necessary, but not less than once each year. Upon request by three or more members, it shall be the duty of the Surgeon General to call a meeting of the Council.
 
 #### (d) Advisory or technical committees
 
 The Council is authorized to appoint such special advisory or technical committees as may be useful in carrying out its functions.
 
 (July 1, 1944, ch. 373, title VI, §641, formerly §621, as added Pub. L. 88–443, §3(a), Aug. 18, 1964, 78 Stat. 458, renumbered §641, Pub. L. 91–296, title II, §201, June 30, 1970, 84 Stat. 344; amended Pub. L. 91–515, title VI, §601(b)(2), Oct. 30, 1970, 84 Stat. 1311; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 111–256, §2(f)(4), Oct. 5, 2010, 124 Stat. 2644.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -28,11 +30,11 @@ Provisions similar to those comprising this section were contained in subsec. (b
 
 <b>1970</b>—Subsec. (e). Pub. L. 91–515 struck out subsec. (e) which related to payment of compensation and travel expenses of appointed Council members and members of advisory or technical committees while serving on Council business.
 
-#### Transfer of Functions
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
-"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsec. (a) pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+#### Change of Name
 
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsec. (a) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
 #### Terms of Federal Hospital Council Members
 
@@ -45,4 +47,10 @@ Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under sect
 #### Definitions
 
 For meaning of references to an intellectual disability and to individuals with intellectual disabilities in provisions amended by section 2 of Pub. L. 111–256, see section 2(k) of Pub. L. 111–256, set out as a note under section 1400 of Title 20, Education.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
 

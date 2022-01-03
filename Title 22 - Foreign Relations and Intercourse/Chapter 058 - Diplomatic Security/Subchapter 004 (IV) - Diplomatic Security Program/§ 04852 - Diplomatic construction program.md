@@ -10,7 +10,7 @@ Notwithstanding section 302 of this title, and where adequate competition exists
 
 #### (b) Exception
 
-Subsection (a) shall not apply with respect to any diplomatic construction or design project in a foreign country whose statutes prohibit the use of United States contractors on such projects. The exception contained in this subsection shall only become effective with respect to a foreign country 30 days after the Secretary of State certifies to the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate what specific actions he has taken to urge such foreign country to permit the use of United States contractors on such projects, and what actions he shall take with respect to that country as authorized by title II of the State Department Basic Authorities Act of 1956 (22 U.S.C. 4301 et seq.; commonly referred to as the "Foreign Missions Act").
+Subsection (a) shall not apply with respect to any diplomatic construction or design project in a foreign country whose statutes prohibit the use of United States contractors on such projects. The exception contained in this subsection shall only become effective with respect to a foreign country 30 days after the Secretary of State certifies to the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate what specific actions he has taken to urge such foreign country to permit the use of United States contractors on such projects, and what actions he shalltake with respect to that country as authorized by title II of the State Department Basic Authorities Act of 1956 (22 U.S.C. 4301 et seq.; commonly referred to as the "Foreign Missions Act").
 
 #### (c) Definitions
 
@@ -32,7 +32,7 @@ For the purposes of this section—
 
 &emsp;&emsp;(D) has performed within the United States or at a United States diplomatic or consular establishment abroad administrative and technical, professional, or construction services similar in complexity, type of construction, and value to the project being bid;
 
-&emsp;&emsp;(E) with respect to a construction project under subsection (a)(1), has achieved total business volume equal to or greater than the value of the project being bid in 3 years of the 5-year period before the date specified in subparagraph (C)(i);
+&emsp;&emsp;(E) with respect to a construction project under subsection (a)(1), has achieved total business volume equal to or greater than the value of the project being bid cumulatively over 3 years of the 5-year period before the date specified in subparagraph (C)(i);
 
 &emsp;&emsp;(F)(i) employs United States citizens in at least 80 percent of its principal management positions in the United States,
 
@@ -56,7 +56,7 @@ Not less than 10 percent of the amount appropriated pursuant to section 4851(a) 
 
 With respect to a diplomatic construction project, a prime contractor may not subcontract more than 50 percent of the total value of its contract for that project.
 
-(Pub. L. 99–399, title IV, §402, Aug. 27, 1986, 100 Stat. 864; Pub. L. 101–246, title I, §132, Feb. 16, 1990, 104 Stat. 32; Pub. L. 102–138, title I, §131, Oct. 28, 1991, 105 Stat. 662; Pub. L. 103–236, title I, §162(g)(10), Apr. 30, 1994, 108 Stat. 407; Pub. L. 107–228, div. A, title II, §206(b), Sept. 30, 2002, 116 Stat. 1364.)
+(Pub. L. 99–399, title IV, §402, Aug. 27, 1986, 100 Stat. 864; Pub. L. 101–246, title I, §132, Feb. 16, 1990, 104 Stat. 32; Pub. L. 102–138, title I, §131, Oct. 28, 1991, 105 Stat. 662; Pub. L. 103–236, title I, §162(g)(10), Apr. 30, 1994, 108 Stat. 407; Pub. L. 107–228, div. A, title II, §206(b), Sept. 30, 2002, 116 Stat. 1364; Pub. L. 117–81, div. E, title LII, §5208, Dec. 27, 2021, 135 Stat. 2357.)
 
 #### <b>Editorial Notes</b>
 
@@ -65,6 +65,8 @@ With respect to a diplomatic construction project, a prime contractor may not su
 Title II of the State Department Basic Authorities Act of 1956, referred to in subsec. (b), is title II of act Aug. 1, 1956, ch. 841, as added Aug. 24, 1982, Pub. L. 97–241, title II, §202(b), 96 Stat. 283, known as the Foreign Missions Act, which is classified principally to chapter 53 (§4301 et seq.) of this title. For complete classification of title II to the Code, see Short Title note set out under section 4301 of this title and Tables.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (c)(2)(E). Pub. L. 117–81 substituted "cumulatively over 3 years" for "in 3 years".
 
 <b>2002</b>—Subsec. (c)(2)(D). Pub. L. 107–228 inserted "or at a United States diplomatic or consular establishment abroad" after "United States".
 

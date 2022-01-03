@@ -4,13 +4,15 @@ The territory ceded to the United States in accordance with the provisions of th
 
 (Aug. 1, 1950, ch. 512, §2, 64 Stat. 384.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date; Continuation of Federal Administration
 
 Section 34 of act Aug. 1, 1950, provided that on the 21st day of July 1950, the authority and powers conferred by this chapter would come into force, and authorized the President, for a period not to exceed one year from Aug. 1, 1950, to continue the administration of Guam in all or in some respects as provided by law, Executive order, or local regulation in force on Aug. 1, 1950. It further authorized the President in his discretion to place in operation all or some of the provisions of this chapter if practicable before the expiration of the period of one year.
 
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–212, §1, Aug. 21, 2002, 116 Stat. 1051, provided that: "This Act \[amending section 1421i of thistitle and enacting provisions set out as a note under section 1421i of this title\] may be cited as the 'Guam Foreign Investment Equity Act'."
+Pub. L. 107–212, §1, Aug. 21, 2002, 116 Stat. 1051, provided that: "This Act \[amending section 1421i of this title and enacting provisions set out as a note undersection 1421i of this title\] may be cited as the 'Guam Foreign Investment Equity Act'."
 
 #### Short Title of 1998 Amendment
 
@@ -37,6 +39,8 @@ Pub. L. 95–348, §1(a)(6), Aug. 18, 1978, 92 Stat. 487, provided that the Secr
 #### Submerged Lands, Conveyance to Territory
 
 Conveyance of submerged lands to the government of Guam, see section 1701 et seq. of this title.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 10077. Transfer of Administration of Guam
 

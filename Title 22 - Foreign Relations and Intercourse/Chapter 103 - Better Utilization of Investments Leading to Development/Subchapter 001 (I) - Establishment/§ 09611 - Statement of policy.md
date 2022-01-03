@@ -14,7 +14,7 @@ It is the policy of the United States to facilitate market-based private sector 
 
 &emsp;(6) to provide countries a robust alternative to state-directed investments by authoritarian governments and United States strategic competitors using best practices with respect to transparency and environmental and social safeguards, and which take into account the debt sustainability of partner countries;
 
-&emsp;(7) to leverage private sector capabilities and innovative development tools to helpcountries transition from recipients of bilateral development assistance toward increased self-reliance; and
+&emsp;(7) to leverage private sector capabilities and innovative development tools to help countries transition from recipients of bilateral development assistance toward increased self-reliance; and
 
 &emsp;(8) to complement and be guided by overall United States foreign policy, development, and national security objectives, taking into account the priorities and needs of countries receiving support.
 
@@ -28,5 +28,5 @@ Pub. L. 101–179, title III, §302(b), Nov. 28, 1989, 103 Stat. 1311, provided 
 
 \[For transfer of functions, personnel, assets, and liabilities of the Overseas Private Investment Corporation to the United States International Development Finance Corporation and treatment of related references, see sections 9683 and 9686(d) of this title.\]
 
-Pub. L. 101–179, title III, §302(c), Nov. 28, 1989, 103 Stat. 1311, provided that: "If the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1990 \[Pub. L. 101–167\], contains the same amendment that is made by subsection (a) of this section \[amending former section 2199(f) of this title by inserting ", Poland, Hungary," after "Yugoslavia"\], the amendment made by that Act shall not be effective."
+Pub. L. 101–179, title III, §302(c), Nov. 28, 1989, 103 Stat. 1311, provided that: "If the Foreign Operations,Export Financing, and Related Programs Appropriations Act, 1990 \[Pub. L. 101–167\], contains the same amendment that is made by subsection (a) of this section \[amending former section 2199(f) of this title by inserting ", Poland, Hungary," after "Yugoslavia"\], the amendment made by that Act shall not be effective."
 

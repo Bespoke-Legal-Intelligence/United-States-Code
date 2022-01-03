@@ -138,6 +138,8 @@ This section shall not apply to any holder—
 
 (Added Pub. L. 98–369, div. A, title I, §41(a), July 18, 1984, 98 Stat. 533; amended Pub. L. 99–514, title VI, §672, Oct. 22, 1986, 100 Stat. 2318; Pub. L. 105–34, title X, §1004(a), Aug. 5, 1997, 111 Stat. 911; Pub. L. 115–141, div. U, title IV, §401(c)(1)(B), (F), (3)(A), Mar. 23, 2018, 132 Stat. 1205, 1206.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–141, §401(c)(1)(F)(i), struck out "on debt instruments issued after July 1, 1982," after "discount" in heading.
@@ -152,9 +154,11 @@ Subsecs. (b) to (d). Pub. L. 115–141, §401(c)(1)(B), redesignated subsecs. (c
 
 <b>1986</b>—Subsec. (a)(6), (7). Pub. L. 99–514 added par. (6) and redesignated former par. (6) as (7).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
-Amendment by section 401(c)(1)(B), (F) of Pub. L. 115–141 applicable to debt instruments issued on or after July 2, 1982, see section 401(c)(1)(H) of Pub. L. 115–141, set out as a note under section 163 of this title.
+Amendment by section 401(c)(1)(B), (F) of Pub. L. 115–141 applicable to debt instruments issued on orafter July 2, 1982, see section 401(c)(1)(H) of Pub. L. 115–141, set out as a note under section 163 of this title.
 
 Amendment by section 401(c)(3)(A) of Pub. L. 115–141 applicable to obligations issued on or after Mar. 2, 1984, see section 401(c)(3)(C) of Pub. L. 115–141, set out as a note under section 163 of this title.
 

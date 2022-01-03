@@ -6,13 +6,17 @@
 
 (Pub. L. 95–157, §2, Nov. 8, 1977, 91 Stat. 1266; Pub. L. 98–454, title IX, §902, Oct. 5, 1984, 98 Stat. 1744.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 1694a of this title.
 
 #### Amendments
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–454 amended subsec. (a) generally, substituting ", including, but not limited to, the diversity jurisdiction provided for in section 1332 of title 28 and that of a bankruptcy court of the United States" for ", except that in all causes arising under the Constitution, treaties, or laws of the United States, it shall have jurisdiction regardless of the sum or value of the matter in controversy".
+<b>1984</b>—Subsec. (a). Pub. L. 98–454 amended subsec. (a) generally, substituting ", including, but not limited to,the diversity jurisdiction provided for in section 1332 of title 28 and that of a bankruptcy court of the United States" for ", except that in all causes arising under the Constitution, treaties, or laws of the United States, it shall have jurisdiction regardless of the sum or value of the matter in controversy".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

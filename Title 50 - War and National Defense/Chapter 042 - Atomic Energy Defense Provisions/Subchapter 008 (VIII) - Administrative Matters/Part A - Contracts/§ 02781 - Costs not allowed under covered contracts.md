@@ -40,9 +40,11 @@ In this section, "covered contract" means a contract for an amount more than $10
 
 #### (d) Effective date
 
-Subsection (a) shall apply with respect to costs incurred under a covered contract on orafter 30 days after the regulations required by subsection (b) are issued.
+Subsection (a) shall apply with respect to costs incurred under a covered contract on or after 30 days after the regulations required by subsection (b) are issued.
 
-(Pub. L. 107–314, div. D, title XLVIII, §4801, formerly Pub. L. 99–145, title XV, §1534, Nov. 8, 1985, 99 Stat. 774; Pub. L. 100–180, div. C, title I, §3131(a), Dec. 4, 1987, 101 Stat. 1238; renumbered Pub. L. 107–314, div. D, title XLVIII, §4801, and amended Pub. L. 108–136, div. C, title XXXI, §3141(k)(2), Nov. 24, 2003, 117 Stat. 1783; Pub. L. 113–66, div. C, title XXXI, §3146(i)(1), Dec. 26, 2013, 127 Stat. 1081.)
+(Pub. L. 107–314, div. D, title XLVIII, §4801, formerly Pub. L. 99–145, title XV, §1534, Nov. 8, 1985, 99 Stat. 774; Pub. L. 100–180, div. C, title I,§3131(a), Dec. 4, 1987, 101 Stat. 1238; renumbered Pub. L. 107–314, div. D, title XLVIII, §4801, and amended Pub. L. 108–136, div. C, title XXXI, §3141(k)(2), Nov. 24, 2003, 117 Stat. 1783; Pub. L. 113–66, div. C, title XXXI, §3146(i)(1), Dec. 26, 2013, 127 Stat. 1081.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -58,7 +60,9 @@ Subsec. (b)(1). Pub. L. 108–136, §3141(k)(2)(D)(ii), substituted "November 8,
 
 <b>1987</b>—Subsec. (b). Pub. L. 100–180 designated existing provisions as par. (1) and added par. (2).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Regulations
 
-Pub. L. 100–180, div. C, title I, §3131(b), Dec. 4, 1987, 101 Stat. 1239, provided that: "Regulations to implement paragraph (2) of section 1534(b) of the Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1986 (as added by subsection (a)) \[50 U.S.C. 2781(b)(2)\] shall be prescribed not later than 90 days after the date of the enactment of this Act \[Dec. 4, 1987\]. Such regulations shall apply as if included in the original regulations prescribed under such section."
+Pub. L. 100–180, div. C, title I, §3131(b), Dec. 4, 1987, 101 Stat. 1239, provided that regulations to implement subsec. (b)(2) of this section were to be prescribed not later than 90 days after Dec. 4, 1987.
 

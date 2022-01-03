@@ -24,13 +24,17 @@ The building constructed under subsection (a) shall commence operations by not l
 
 (Pub. L. 107–314, div. D, title XLII, §4215, as added Pub. L. 112–239, div. C, title XXXI, §3114(a)(1), Jan. 2, 2013, 126 Stat. 2170; amended Pub. L. 113–66, div. C, title XXXI, §3146(c)(9), Dec. 26, 2013, 127 Stat. 1075.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2013</b>—Subsec. (d)(2). Pub. L. 113–66 struck out "National Nuclear Security" before "Administration".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Alternative Plutonium Strategy; Full Operational Capability of Replacement Project
 
-Pub. L. 112–239, div. C, title XXXI, §3114(c)–(e), Jan. 2, 2013, 126 Stat. 2171, 2172, as amended by Pub. L. 113–66,div. C, title XXXI, §3117, Dec. 26, 2013, 127 Stat. 1058, provided that:
+Pub. L. 112–239, div. C, title XXXI, §3114(c)–(e), Jan. 2, 2013, 126 Stat. 2171, 2172, as amended by Pub. L. 113–66, div. C, title XXXI, §3117, Dec. 26, 2013, 127 Stat. 1058, provided that:
 
 "(c)
 

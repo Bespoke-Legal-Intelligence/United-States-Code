@@ -14,7 +14,7 @@ FAA Process for Acceptance and Authorization.—The Administrator of the Federal
 
 (b)
 
-Considerations.—Before accepting consensus safety standards under subsection (a), theAdministrator of the Federal Aviation Administration shall consider the following:
+Considerations.—Before accepting consensus safety standards under subsection (a), the Administrator of the Federal Aviation Administration shall consider the following:
 
 &emsp;(1) Technologies or standards related to geographic limitations, altitude limitations, and sense and avoid capabilities.
 
@@ -112,9 +112,13 @@ Exclusions.—The Administrator may exempt from the requirements of this section
 
 (Added Pub. L. 115–254, div. B, title III, §345(a), Oct. 5, 2018, 132 Stat. 3291.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 2202 of the FAA Extension, Safety, and Security Act of 2016, referred to in subsec. (b)(7), is section 2202 of Pub. L. 114–190, which is set out in a note under section 44802 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Unmanned Aircraft Systems Research Facility
 

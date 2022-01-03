@@ -12,9 +12,9 @@ Congress finds the following:
 
 &emsp;(5) In 1893, the sovereign, independent, internationally recognized, and indigenous government of Hawaii, the Kingdom of Hawaii, was overthrown by a small group of non-Hawaiians, including United States citizens, who were assisted in their efforts by the United States Minister, a United States naval representative, and armed naval forces of the United States. Because of the participation of United States agents and citizens in the overthrow of the Kingdom of Hawaii, in 1993 the United States apologized to Native Hawaiians for the overthrow and the deprivation of the rights of Native Hawaiians to self-determination through Public Law 103–150 (107 Stat. 1510).
 
-&emsp;(6) In 1898, the joint resolution entitled "Joint Resolution to provide for annexing the Hawaiian Islands to the United States", approved July 7, 1898 (30 Stat. 750), ceded absolute title of all lands held by the Republic of Hawaii, including the government and crown lands of the former Kingdom of Hawaii, to the United States, but mandated that revenue generated from the lands be used "solely forthe benefit of the inhabitants of the Hawaiian Islands for educational and other public purposes".
+&emsp;(6) In 1898, the joint resolution entitled "Joint Resolution to provide for annexing the Hawaiian Islands to the United States", approved July 7, 1898 (30 Stat. 750), ceded absolute title of all lands held by the Republic of Hawaii, including the government and crown lands of the former Kingdom of Hawaii, to the United States, but mandated that revenue generated from the lands be used "solely for the benefit of the inhabitants of the Hawaiian Islands for educational and other public purposes".
 
-&emsp;(7) By 1919, the Native Hawaiian population had declined from an estimated 1,000,000 in 1778 to an alarming 22,600, and in recognition of this severe decline, Congress enacted the Hawaiian Homes Commission Act, 1920 (42 Stat. 108), which designated approximately 200,000 acres of ceded public lands for homesteading by Native Hawaiians.
+&emsp;(7) By 1919, the Native Hawaiian population had declined from an estimated 1,000,000 in 1778to an alarming 22,600, and in recognition of this severe decline, Congress enacted the Hawaiian Homes Commission Act, 1920 (42 Stat. 108), which designated approximately 200,000 acres of ceded public lands for homesteading by Native Hawaiians.
 
 &emsp;(8) Through the enactment of the Hawaiian Homes Commission Act, 1920, Congress affirmed the special relationship between the United States and the Native Hawaiians, which was described by then Secretary of the Interior Franklin K. Lane, who said: "One thing that impressed me . . . was the fact that the natives of the island who are our wards, I should say, and for whom in a sense we are trustees, are falling off rapidly in numbers and many of them are in poverty.".
 
@@ -62,6 +62,8 @@ Congress finds the following:
 
 (Pub. L. 89–10, title VI, §6202, formerly title VII, §7202, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1932; amended Pub. L. 111–256, §2(c), Oct. 5, 2010, 124 Stat. 2643; Pub. L. 113–128, title V, §512(i)(5), July 22, 2014, 128 Stat. 1709; Pub. L. 113–287, §5(e)(3), Dec. 19, 2014, 128 Stat. 3268; renumbered title VI, §6202, and amended Pub. L. 114–95, title VI, §§6001(a), (b)(1), 6003(a), Dec. 10, 2015, 129 Stat. 2046, 2063.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Public Law 103–150, referred to in par. (5), is Pub. L. 103–150, Nov. 23, 1993, 107 Stat. 1510, which is not classified to the Code.
@@ -72,7 +74,7 @@ The Hawaiian Homes Commission Act, 1920, referred to in pars. (7), (8), and (11)
 
 Act of June 20, 1938, referred to in par. (9), is act June 20, 1938, ch. 530, 52 Stat. 781, which is classified to sections 391b, 391b–1, 392b, 392c, 396, and 396a of Title 16, Conservation. For complete classification of this Act to the Code, see Tables.
 
-An Act to provide for the admission of the State of Hawaii into the Union, referred to in pars. (10) and (11), is Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, popularly known as the Hawaii Statehood Admissions Act, which is setout as a note preceding former section 491 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
+An Act to provide for the admission of the State of Hawaii into the Union, referred to in pars. (10) and (11), is Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, popularly known as the Hawaii Statehood Admissions Act, which is set out as a note preceding former section 491 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
 
 The Native American Programs Act of 1974, referred to in par. (13)(A), is title VIII of Pub. L. 88–452, as added by Pub. L. 93–644, §11, Jan. 4, 1975, 88 Stat. 2324, which is classified generally to subchapter VIII (§2991 et seq.) of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 2991 of Title 42 and Tables.
 
@@ -138,7 +140,7 @@ Another prior section 6202 of Pub. L. 89–10 was classified to section 3272 of 
 
 &emsp;"(H) Native Hawaiians now comprise over 23 percent of the students served by the State of Hawaii Department of Education, and there are and will continue to be geographically rural, isolated areas with a high Native Hawaiian population density.
 
-"(17) In the 1998 National Assessment of Educational Progress, Hawaiian fourth-graders ranked 39th among groups of students from 39 States in reading. Given that Hawaiian students rank among the lowest groups of students nationally in reading, and that Native Hawaiian students rank the lowest among Hawaiian students in reading, it is imperative that greater focus be placed on beginning reading and early education and literacy in Hawaii.
+"(17) In the 1998 National Assessment of Educational Progress, Hawaiian fourth-graders ranked 39th among groups of students from 39 States in reading. Given that Hawaiian students rank among the lowest groups of students nationally in reading, and that Native Hawaiian students rank the lowest among Hawaiian students in reading, it is imperative that greater focus beplaced on beginning reading and early education and literacy in Hawaii.
 
 "(18) The findings described in paragraphs (16) and (17) are inconsistent with the high rates of literacy and integration of traditional culture and Western education historically achieved by Native Hawaiians through a Hawaiian language-based public school system established in 1840 by Kamehameha III.
 
@@ -159,6 +161,8 @@ Another prior section 6202 of Pub. L. 89–10 was classified to section 3272 of 
 Par. (13)(H). Pub. L. 113–128 substituted "the Workforce Innovation and Opportunity Act" for "the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.)".
 
 <b>2010</b>—Par. (16)(E). Pub. L. 111–256 substituted "mild intellectual disabilities," for "mild mental retardation,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

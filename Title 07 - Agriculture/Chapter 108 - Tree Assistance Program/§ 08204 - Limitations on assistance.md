@@ -16,7 +16,9 @@ The Secretary shall promulgate regulations—
 
 &emsp;(2) promulgating such regulations as the Secretary determines necessary to ensure a fair and reasonable application of the limitation established under this section.
 
-(Pub. L. 107–171, title X, §10204, May 13, 2002, 116 Stat. 491; Pub. L. 110–234, title I, §1603(g)(4), May 22, 2008, 122 Stat. 1011; Pub. L. 110–246, §4(a), title I, §1603(g)(4), June 18, 2008, 122 Stat. 1664, 1740; Pub. L. 113–79, title I, §1609(b)(1), Feb. 7, 2014, 128 Stat. 709.)
+(Pub. L. 107–171, title X, §10204, May 13, 2002, 116 Stat. 491; Pub. L. 110–234, title I, §1603(g)(4), May22, 2008, 122 Stat. 1011; Pub. L. 110–246, §4(a), title I, §1603(g)(4), June 18, 2008, 122 Stat. 1664, 1740; Pub. L. 113–79, title I, §1609(b)(1), Feb. 7, 2014, 128 Stat. 709.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -31,6 +33,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 <b>2014</b>—Subsec. (c)(1). Pub. L. 113–79 amended language inserted by Pub. L. 110–246, §1603(g)(4). See 2008 Amendment note below.
 
 <b>2008</b>—Subsec. (c)(1). Pub. L. 110–246, §1603(g)(4), as amended by Pub. L. 113–79, §1609(b)(1), inserted "(before the amendment made by section 1603(a) of the Food, Conservation, and Energy Act of 2008)" after "section 1308 of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

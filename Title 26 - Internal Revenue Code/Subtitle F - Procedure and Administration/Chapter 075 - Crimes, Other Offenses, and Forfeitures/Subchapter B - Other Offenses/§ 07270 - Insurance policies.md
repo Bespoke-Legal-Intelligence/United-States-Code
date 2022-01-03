@@ -4,9 +4,13 @@ Any person who fails to comply with the requirements of section 4374 (relating t
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 865; Pub. L. 94–455, title XIX, §1904(b)(5)(A), Oct. 4, 1976, 90 Stat. 1815.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Pub. L. 94–455 substituted "liability for tax on policies issued by foreign insurers" for "the affixing of stamps on insurance policies, etc.".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

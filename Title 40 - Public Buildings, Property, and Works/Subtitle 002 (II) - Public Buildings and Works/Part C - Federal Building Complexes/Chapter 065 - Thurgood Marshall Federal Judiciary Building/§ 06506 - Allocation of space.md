@@ -66,7 +66,7 @@ Subleased Space.—
 
 &emsp;(1)
 
-Rental rate.—Space subleased by the Architect under subsection (a)(3) is subject to reimbursement at a rate which is comparable to prevailing rental rates for similar facilities in the area but not less than the rate established under section 6504(b)(2) of this title plus an amount the Architect and the person subleasing the space agree is necessary to pay each year for the cost of administering theBuilding (including the cost of operation, maintenance, rehabilitation, security, and structural, mechanical, and domestic care) that is attributable to the space.
+Rental rate.—Space subleased by the Architect under subsection (a)(3) is subject to reimbursement at a rate which is comparable to prevailing rental rates for similar facilities in the area but not less than the rate established under section 6504(b)(2) of this title plus an amount the Architect and the person subleasing the space agree is necessary to pay each year for the cost of administering the Building (including the cost of operation, maintenance, rehabilitation, security, and structural, mechanical, and domestic care) that is attributable to the space.
 
 &emsp;(2)
 

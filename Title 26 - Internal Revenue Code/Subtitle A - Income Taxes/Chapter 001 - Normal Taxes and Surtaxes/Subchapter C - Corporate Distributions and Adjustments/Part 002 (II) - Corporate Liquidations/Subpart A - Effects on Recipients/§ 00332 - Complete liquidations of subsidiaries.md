@@ -60,6 +60,8 @@ If a corporation receives a distribution from a regulated investment company or 
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 102; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title VI, §631(e)(2), title XVIII, §1804(e)(6)(A), Oct. 22, 1986, 100 Stat. 2273, 2803; Pub. L. 105–277, div. J, title III, §3001(a), (b)(1), Oct. 21, 1998, 112 Stat. 2681–904; Pub. L. 108–357, title VIII, §893(a), Oct. 22, 2004, 118 Stat. 1646; Pub. L. 109–135, title IV, §412(v), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 115–141, div. U, title IV, §401(d)(1)(D)(xvii)(III), Mar. 23, 2018, 132 Stat. 1208.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (d)(2)(B). Pub. L. 115–141 substituted "paragraph (2)" for "paragraphs (2) and (4)".
@@ -72,11 +74,13 @@ If a corporation receives a distribution from a regulated investment company or 
 
 Subsec. (c). Pub. L. 105–277, §3001(a), added subsec. (c).
 
-<b>1986</b>—Subsec. (b)(1). Pub. L. 99–514, §1804(e)(6)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "the corporation receiving such property was, on the date of the adoption of the plan of liquidation, and has continued to be at all times until the receipt of the property, the owner of stock (in such other corporation) possessing at least 80 percent of the total combined voting power of all classes of stock entitled to vote and the owner of at least 80 percent of the total number of shares of all other classes of stock (except nonvoting stock which is limited and preferred as to dividends); and either".
+<b>1986</b>—Subsec. (b)(1). Pub. L. 99–514, §1804(e)(6)(A), amended par. (1) generally. Prior to amendment, par.\(1) read as follows: "the corporation receiving such property was, on the date of the adoption of the plan of liquidation, and has continued to be at all times until the receipt of the property, the owner of stock (in such other corporation) possessing at least 80 percent of the total combined voting power of all classes of stock entitled to vote and the owner of at least 80 percent of the total number of shares of all other classes of stock (except nonvoting stock which is limited and preferred as to dividends); and either".
 
 Subsec. (c). Pub. L. 99–514, §631(e)(2), struck out subsec. (c) containing special rule for indebtedness of subsidiary to parent in relation to complete liquidations of subsidiaries.
 
 <b>1976</b>—Subsec. (b). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 
@@ -98,7 +102,7 @@ In general.—Except as provided in clause (iii), the amendment made by subparag
 
 "(ii)
 
-Certain distributions made after december 31, 1984.—Except as provided in clause (iii), the amendment made by subparagraph (A) shall also apply with respect to plans of complete liquidations adopted on or before March 28, 1985, pursuant to which any distribution is made in a taxable year beginning after December 31,1984 (December 31, 1983, in the case of an affiliated group to which an election under section 60(b)(7) of the Tax Reform Act of 1984 \[Pub. L. 98–369, set out as a note under section 1504 of this title\] applies), but only if the liquidating corporation and any corporation which receives a distribution in complete liquidation of such corporation are members of an affiliated group of corporations filing a consolidated return for the taxable year which includes the date of the distribution.
+Certain distributions made after december 31, 1984.—Except as provided in clause (iii), the amendment made by subparagraph (A) shall also apply with respect to plans of complete liquidations adopted on or before March 28, 1985, pursuant to which any distribution is made in a taxable year beginning after December 31, 1984 (December 31, 1983, in the case of an affiliated group to which an election under section 60(b)(7) of the Tax Reform Act of 1984 \[Pub. L. 98–369, set out as a note under section 1504 of this title\] applies), but only if the liquidating corporation and any corporation which receives a distribution in complete liquidation of such corporation are members of an affiliated group of corporations filing a consolidated return for the taxable year which includes the date of the distribution.
 
 "(iii)
 

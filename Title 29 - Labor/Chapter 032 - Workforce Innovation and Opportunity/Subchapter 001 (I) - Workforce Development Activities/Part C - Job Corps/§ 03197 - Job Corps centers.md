@@ -112,7 +112,7 @@ Job Corps centers may be residential or nonresidential in character, and shall b
 
 #### (1) In general
 
-&emsp;The Job Corps centers may include Civilian Conservation Centers, operated under an agreement between the Secretary of Labor and the Secretary of Agriculture, that are located primarily in rural areas. Such centers shall provide, in addition to academics, career and technical education and training, and workforce preparation skills training, programs of work experience to conserve, develop, or manage public natural resources or public recreational areas or to develop community projects in the public interest.
+&emsp;The Job Corps centers may include Civilian Conservation Centers, operated under anagreement between the Secretary of Labor and the Secretary of Agriculture, that are located primarily in rural areas. Such centers shall provide, in addition to academics, career and technical education and training, and workforce preparation skills training, programs of work experience to conserve, develop, or manage public natural resources or public recreational areas or to develop community projects in the public interest.
 
 #### (2) Assistance during disasters
 

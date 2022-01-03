@@ -4,6 +4,8 @@ No application for the purchase of mineral interests under sections 1033 to 1039
 
 (Sept. 6, 1950, ch. 897, §7, 64 Stat. 770.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was not enacted as part of the Bankhead-Jones Farm Tenant Act which constitutes a major part of this chapter.

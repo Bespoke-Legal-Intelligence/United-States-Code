@@ -104,7 +104,7 @@ A State to which a grant is made under section 603 of this title is encouraged t
 
 #### (A) In general
 
-&emsp;&emsp;An individual development account established under this subsection shall be a trust created or organized in the United States and funded through periodic contributions by the establishing individual and matched by or through a qualified entity for a qualified purpose (as described in paragraph (2)(B)).
+&emsp;&emsp;An individual development account established under this subsection shall be a trustcreated or organized in the United States and funded through periodic contributions by the establishing individual and matched by or through a qualified entity for a qualified purpose (as described in paragraph (2)(B)).
 
 #### (B) "Qualified entity" defined
 
@@ -184,7 +184,7 @@ A State to which a grant is made under section 603 of this title shall not be pr
 
 #### (j) Requirement for high school diploma or equivalent
 
-A State to which a grant is made under section 603 of this title shall not be prohibited from sanctioning a family that includes an adult who is older than age 20 and younger than age 51 and who has received assistance under any State program funded under this part attributable to funds provided by the Federal Government or under the supplemental nutrition assistance program, as defined in section 2012(l) <sup>1</sup> of title 7, if such adult does not have, or is not working toward attaining, a secondary school diploma or its recognized equivalent unless such adult has been determined in the judgment of medical, psychiatric, or other appropriate professionals to lack the requisite capacity to complete successfully a course of study that would lead to a secondary school diploma or its recognized equivalent.
+A State to which a grant is made under section 603 of this title shall not be prohibited fromsanctioning a family that includes an adult who is older than age 20 and younger than age 51 and who has received assistance under any State program funded under this part attributable to funds provided by the Federal Government or under the supplemental nutrition assistance program, as defined in section 2012(l) <sup>1</sup> of title 7, if such adult does not have, or is not working toward attaining, a secondary school diploma or its recognized equivalent unless such adult has been determined in the judgment of medical, psychiatric, or other appropriate professionals to lack the requisite capacity to complete successfully a course of study that would lead to a secondary school diploma or its recognized equivalent.
 
 #### (k) Limitations on use of grant for matching under certain Federal transportation program
 
@@ -217,6 +217,8 @@ A State to which a grant is made under section 603 of this title shall not be pr
 &emsp;The provision by a State of a transportation benefit under a program conducted under section 3037 of the Transportation Equity Act for the 21st Century, to an individual who is not otherwise a recipient of assistance under the State program funded under this part, using funds from a grant made under section 603(a) of this title, shall not be considered to be the provision of assistance to the individual under the State program funded under this part.
 
 (Aug. 14, 1935, ch. 531, title IV, §404, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2124; amended Pub. L. 105–33, title V, §§5002(a), 5503, 5514(c), Aug. 5, 1997, 111 Stat. 593, 609, 620; Pub. L. 105–178, title VIII, §8401(b), June 9, 1998, 112 Stat. 499; Pub. L. 105–200, title IV, §403(a), July 16, 1998, 112 Stat. 670; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §801(d)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–283; Pub. L. 106–169, title IV, §401(l), Dec. 14, 1999, 113 Stat. 1858; Pub. L. 110–234, title IV, §§4002(b)(1)(A), (B), (2)(V), 4115(c)(2)(G), May 22, 2008, 122 Stat. 1095–1097, 1110; Pub. L. 110–246, §4(a), title IV, §§4002(b)(1)(A), (B), (2)(V), 4115(c)(2)(G), June 18, 2008, 122 Stat. 1664, 1857, 1858, 1871; Pub. L. 111–5, div. B, title II, §2103, Feb. 17, 2009, 123 Stat. 449; Pub. L. 111–148, title VI, §6703(d)(2)(A), Mar. 23, 2010, 124 Stat. 803; Pub. L. 112–96, title IV, §4005(a), Feb. 22, 2012, 126 Stat. 198.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -282,6 +284,8 @@ Subsec. (d)(1). Pub. L. 105–33, §5002(a)(1), substituted "Subject to paragrap
 
 Subsec. (d)(2). Pub. L. 105–33, §5002(a)(2), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: "Notwithstanding paragraph (1), not more than 1/3 of the total amount paid to a State under this part for a fiscal year that is used to carry out State programs pursuant to provisions of law specified in paragraph (1) may be used to carry out State programs pursuant to subchapter XX of this chapter."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
@@ -324,7 +328,7 @@ Pub. L. 105–285, title IV, Oct. 27, 1998, 112 Stat. 2759, as amended by Pub. L
 
 &emsp;"(1) Economic well-being does not come solely from income, spending, and consumption, but also requires savings, investment, and accumulation of assets because assets can improve economic independence and stability, connect individuals with a viable and hopeful future, stimulate development of human and other capital, and enhance the welfare of offspring.
 
-&emsp;"(2) Fully ½ of all Americans have either no, negligible, or negative assets available for investment, just as the price of entry to the economic mainstream, the cost of a house, an adequate education, and starting a business, is increasing. Further, the household savings rate of the United States lags far behind other industrial nations, presenting a barrier to economic growth.
+&emsp;"(2) Fully ½ of all Americans have either no, negligible, or negative assets available for investment, just as the price of entry to the economic mainstream, the cost of a house, an adequate education,and starting a business, is increasing. Further, the household savings rate of the United States lags far behind other industrial nations, presenting a barrier to economic growth.
 
 &emsp;"(3) In the current tight fiscal environment, the United States should invest existing resources in high-yield initiatives. There is reason to believe that the financial returns, including increased income, tax revenue, and decreased welfare cash assistance, resulting from individual development accounts will far exceed the cost of investment in those accounts.
 
@@ -658,7 +662,7 @@ Investment.—A qualified entity shall invest the amounts in its Reserve Fund th
 
 &emsp;"(3)
 
-Limitation on uses.—Not more than 15 percent of the amounts provided to a qualified entity under section 406(b) shall be used by the qualified entity for the purposes described in subparagraphs (A), (C), and (D) of paragraph (1), of which not less than 2 percent of the amounts shall be used by the qualified entity for the purposes described in paragraph (1)(D). Of the total amount specified in this paragraph, not more than 7.5 percent shall be used for administrative functions under paragraph (1)(C), including program management, reporting requirements, recruitment and enrollment of individuals, and monitoring. The remainder of the total amount specified in this paragraph (not including the amount specified for use for the purposes described in paragraph (1)(D)) shall be used for nonadministrative functions described in paragraph (1)(A), including case management, budgeting, economic literacy, and credit counseling. If the cost of nonadministrative functions described in paragraph (1)(A) is less than 5.5 percent of the total amount specified in this paragraph, such excess funds may be used for administrative functions. If two or more qualified entities are jointly administering a project, no qualified entity shall use more than its proportional share for the purposes described in subparagraphs (A), (C), and (D) of paragraph (1).
+Limitation on uses.—Not more than 15 percent of the amounts provided to a qualified entity under section 406(b) shall be used by the qualified entity for the purposes described in subparagraphs (A), (C), and (D) of paragraph (1), of which not less than 2 percent of the amounts shall be used by the qualified entity for the purposes described in paragraph (1)(D). Of the total amount specified in this paragraph, not more than 7.5 percent shall be used for administrative functions under paragraph (1)(C), including program management, reporting requirements, recruitment and enrollment of individuals, and monitoring. The remainder of the total amount specified in this paragraph (not including the amount specified for use for the purposes described in paragraph (1)(D)) shall be used for nonadministrative functions described in paragraph (1)(A), including case management, budgeting, economic literacy, and credit counseling. If the cost of nonadministrative functions described in paragraph (1)(A) is less than 5.5 percent of the total amount specified in this paragraph, such excess funds may be used for administrative functions. If two or more qualified entities are jointly administering aproject, no qualified entity shall use more than its proportional share for the purposes described in subparagraphs (A), (C), and (D) of paragraph (1).
 
 "(d)
 
@@ -704,7 +708,7 @@ Exclusions.—For purposes of determining the net worth of a household, a househ
 
 "(b)
 
-Individuals Unable To Complete the Project.—The Secretary shall establish such regulations as are necessary to ensure compliance with thistitle if an individual participating in the demonstration project moves from the community in which the project is conducted or is otherwise unable to continue participating in that project, including regulations prohibiting future eligibility to participate in any other demonstration project conducted under this title.
+Individuals Unable To Complete the Project.—The Secretary shall establish such regulations as are necessary to ensure compliance with this title if an individual participating in the demonstration project moves from the community in which the project is conducted or is otherwise unable to continue participating in that project, including regulations prohibiting future eligibility to participate in any other demonstration project conducted under this title.
 
 #### "SEC. 409. SELECTION OF INDIVIDUALS TO PARTICIPATE.
 
@@ -764,7 +768,7 @@ In General.—Each qualified entity under this title shall prepare an annual rep
 
 &emsp;"(6) The savings account characteristics (such as threshold amounts and match rates) required to stimulate participation in the demonstration project, and how such characteristics vary among different populations or communities.
 
-&emsp;"(7) What service configurations of the qualified entity (such as configurations relating to peer support, structured planning exercises, mentoring, and case management) increased the rate and consistency of participation in the demonstration project and how such configurations varied among different populations or communities.
+&emsp;"(7) What service configurations of the qualified entity (such as configurations relating to peer support,structured planning exercises, mentoring, and case management) increased the rate and consistency of participation in the demonstration project and how such configurations varied among different populations or communities.
 
 &emsp;"(8) Such other information as the Secretary may require to evaluate the demonstration project.
 
@@ -870,7 +874,7 @@ Evaluation Expenses.—Of the amount appropriated under section 416 for a fiscal
 
 #### "SEC. 416. AUTHORIZATION OF APPROPRIATIONS.
 
-"There is authorized to be appropriated to carry out this title, $25,000,000 for each of fiscal years 1999, 2000, 2001, 2002, and 2003, to remain available until expended."
+"There is authorized to be appropriated to carry out this title, $25,000,000 for each of fiscal years 1999, 2000,2001, 2002, and 2003, to remain available until expended."
 
 \[Pub. L. 106–554, §1(a)(1) \[title VI, §607(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–76, provided that: "Notwithstanding the amendment made by subsection (a) \[amending section 412(c) of Pub. L. 105–285, set out above\], the submission of the initial report of a qualified entity under section 412(c) \[section 412(c) of Pub. L. 105–285, set out above\] shall not be required prior to the date that is 90 days after the date of enactment of this title \[Dec. 21, 2000\]."\]
 

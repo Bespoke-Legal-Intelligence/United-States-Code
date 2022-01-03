@@ -20,7 +20,7 @@ No person shall receive assistance under this part for a period in excess of for
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), no child shall be eligible for assistance under this part after thechild's 27th birthday absent a finding by the Attorney General of extraordinary circumstances precluding the child from pursuing a program of education.
+&emsp;Subject to paragraph (2), no child shall be eligible for assistance under this part after the child's 27th birthday absent a finding by the Attorney General of extraordinary circumstances precluding the child from pursuing a program of education.
 
 #### (2) Delayed approvals
 

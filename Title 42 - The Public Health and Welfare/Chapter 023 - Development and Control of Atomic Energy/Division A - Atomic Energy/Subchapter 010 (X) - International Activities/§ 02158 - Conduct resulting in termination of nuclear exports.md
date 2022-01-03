@@ -22,7 +22,7 @@
 
 > unless the President determines that cessation of such exports would be seriously prejudicial to the achievement of United States non-proliferation objectives or otherwise jeopardize the common defense and security: <i>Provided</i>, That prior to the effective date of any such determination, the President's determination, together with a report containing the reasons for his determination, shall be submitted to the Congress and referred to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate for a period of sixty days of continuous session (as defined in section 2159(g) of this title), but any such determination shall not become effective if during such sixty-day period the Congress adopts, and there is enacted, a joint resolution stating in substance that it does not favor the determination. Any such determination shall be considered pursuant to the procedures set forth in section 2159 of this title for the consideration of Presidential submissions.
 
-(b)(1) Notwithstanding any other provision of law, including specifically section 2151 of this title, and except as provided in paragraphs (2) and (3), no nuclear materials and equipment or sensitive nuclear technology, including items and assistance authorized by section 2077(b) of this title and regulated under part 810 of title 10, Code of Federal Regulations, and nuclear-related items on the Commerce Control List maintained under part 774 of title 15 of the Code of Federal Regulations, shall be exported or reexported, or transferred or retransferred whether directly or indirectly, and no Federal agency shall issue any license, approval, or authorization for the export or reexport, or transfer, or retransfer, whether directly or indirectly, of these items or assistance (as defined in this paragraph) to any country whose government has been identified by the Secretary of State as engaged in state sponsorship of terrorist activities (specifically including any country the government of which has been determined by the Secretary of State under section 2371(a) of title22, section 4605(j)(1) <sup>1</sup> of title 50, or section 2780(d) of title 22 to have repeatedly provided support for acts of international terrorism).
+(b)(1) Notwithstanding any other provision of law, including specifically section 2151 of this title, and except as provided in paragraphs (2) and (3), no nuclear materials and equipment or sensitive nuclear technology, including items and assistance authorized by section 2077(b) of this title and regulated under part 810 of title 10, Code of Federal Regulations, and nuclear-related items on the Commerce Control List maintained under part 774 of title 15 of the Code of Federal Regulations, shall be exported or reexported, or transferred or retransferred whether directly or indirectly, and no Federal agency shall issue any license, approval, or authorization for the export or reexport, or transfer, or retransfer, whether directly or indirectly, of these items or assistance (as defined in this paragraph) to any country whose government has been identified by the Secretary of State as engaged in state sponsorship of terrorist activities (specifically including any country the government of which has been determined by the Secretary of State under section 2371(a) of title 22, section 4605(j)(1) <sup>1</sup> of title 50, or section 2780(d) of title 22 to have repeatedly provided support for acts of international terrorism).
 
 (2) This subsection shall not apply to exports, reexports, transfers, or retransfers of radiation monitoring technologies, surveillance equipment, seals, cameras, tamper-indication devices, nuclear detectors, monitoring systems, or equipment necessary to safely store, transport, or remove hazardous materials, whether such items, services, or information are regulated by the Department of Energy, the Department of Commerce, or the Commission, except to the extent that such technologies, equipment, seals, cameras, devices, detectors, or systems are available for use in the design or construction of nuclear reactors or nuclear weapons.
 
@@ -38,6 +38,8 @@
 
 (Aug. 1, 1946, ch. 724, title I, §129, as added Pub. L. 95–242, title III, §307, Mar. 10, 1978, 92 Stat. 138; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; amended Pub. L. 103–437, §15(f)(5), Nov. 2, 1994, 108 Stat. 4592; Pub. L. 109–58, title VI, §632(a), Aug. 8, 2005, 119 Stat. 788; Pub. L. 110–369, title II, §203, Oct. 8, 2008, 122 Stat. 4033.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 4605(j)(1) of title 50, referred to in subsec. (b)(1), was repealed by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232.
@@ -50,6 +52,8 @@ Section 4605(j)(1) of title 50, referred to in subsec. (b)(1), was repealed by P
 
 <b>1994</b>—Pub. L. 103–437 substituted "Foreign Affairs" for "International Relations" in closing provisions.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2005 Amendment
 
 Pub. L. 109–58, title VI, §632(b), Aug. 8, 2005, 119 Stat. 789, provided that: "Subsection b. of section 129 of Atomic Energy Act of 1954 \[42 U.S.C. 2158(b)\], as added by subsection (a) of this section, shall apply with respect to exports that have been approved for transfer as of the date of the enactment of this Act \[Aug. 8, 2005\] but have not yet been transferred as of that date."
@@ -57,6 +61,8 @@ Pub. L. 109–58, title VI, §632(b), Aug. 8, 2005, 119 Stat. 789, provided that
 #### Effective Date
 
 Section effective Mar. 10, 1978, except as otherwise provided and regardless of any requirements for the promulgation of implementing regulations, see section 603(c) of Pub. L. 95–242, set out as a note under section 3201 of Title 22, Foreign Relations and Intercourse.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

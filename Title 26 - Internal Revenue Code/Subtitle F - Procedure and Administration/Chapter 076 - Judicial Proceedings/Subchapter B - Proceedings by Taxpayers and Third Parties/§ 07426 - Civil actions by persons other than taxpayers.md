@@ -16,7 +16,7 @@
 
 #### (4) Substitution of value
 
-&emsp;If a certificate of discharge is issued to any person under section 6325(b)(4) with respect to any property, such person may, within 120 days after the day on which such certificate is issued, bring a civil action against the United States in a district court of the United States for a determination of whether the value of the interest of the United States (if any) in such property is less than the value determined by the Secretary. No other action may be brought by such person for such a determination.
+&emsp;If a certificate of discharge is issued to any person under section 6325(b)(4) with respect to any property, such person may, within 120 days after the day on which such certificate isissued, bring a civil action against the United States in a district court of the United States for a determination of whether the value of the interest of the United States (if any) in such property is less than the value determined by the Secretary. No other action may be brought by such person for such a determination.
 
 #### (b) Adjudication
 
@@ -52,7 +52,7 @@ The district court shall have jurisdiction to grant only such of the following f
 
 #### (5) Substitution of value
 
-&emsp;If the court determines that the Secretary's determination of the value of the interest of the United States in the property for purposes of section 6325(b)(4) exceeds the actual value ofsuch interest, the court shall grant a judgment ordering a refund of the amount deposited, and a release of the bond, to the extent that the aggregate of the amounts thereof exceeds such value determined by the court.
+&emsp;If the court determines that the Secretary's determination of the value of the interest of the United States in the property for purposes of section 6325(b)(4) exceeds the actual value of such interest, the court shall grant a judgment ordering a refund of the amount deposited, and a release of the bond, to the extent that the aggregate of the amounts thereof exceeds such value determined by the court.
 
 #### (c) Validity of assessment
 
@@ -104,6 +104,8 @@ Interest shall be allowed at the overpayment rate established under section 6621
 
 (Added Pub. L. 89–719, title I, §110(a), Nov. 2, 1966, 80 Stat. 1142; amended Pub. L. 93–625, §7(a)(2)(E), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title III, §350(a), Sept. 3, 1982, 96 Stat. 639; Pub. L. 99–514, title XV, §1511(c)(16), Oct. 22, 1986, 100 Stat. 2745; Pub. L. 105–206, title III, §§3102(b), 3106(b)(1), (2), July 22, 1998, 112 Stat. 730, 733.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Subsec. (a)(4). Pub. L. 105–206, §3106(b)(1), added par. (4).
@@ -121,6 +123,8 @@ Subsecs. (h), (i). Pub. L. 105–206, §3102(b), added subsec. (h) and redesigna
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
 <b>1975</b>—Subsec. (g). Pub. L. 93–625 substituted "an annual rate established under section 6621" for "the rate of 6 percent per annum".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

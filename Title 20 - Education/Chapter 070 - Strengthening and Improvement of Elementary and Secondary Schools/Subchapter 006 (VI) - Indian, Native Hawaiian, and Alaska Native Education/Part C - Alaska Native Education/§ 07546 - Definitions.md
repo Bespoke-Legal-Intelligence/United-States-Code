@@ -18,9 +18,11 @@ In this part:
 
 (Pub. L. 89–10, title VI, §6306, formerly title VII, §7306, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1946; renumbered title VI, §6306, and amended Pub. L. 114–95, title VI, §§6001(a), (b)(1), 6004(e), Dec. 10, 2015, 129 Stat. 2046, 2071.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
-A prior section 7546, Pub. L. 89–10, title VII, §7306, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3743, related to administrative provisions, prior to the general amendment of former subchapter VII of this chapter by Pub. L. 107–110.
+A prior section 7546, Pub. L. 89–10, title VII, §7306, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat.3743, related to administrative provisions, prior to the general amendment of former subchapter VII of this chapter by Pub. L. 107–110.
 
 Prior sections 7547 to 7602 were omitted in the general amendment of former subchapter VII of this chapter by Pub. L. 107–110.
 
@@ -53,6 +55,8 @@ Par. (2). Pub. L. 114–95, §6004(e)(2), added par. (2) and struck out former p
 &emsp;"(A) has or commits to acquire expertise in the education of Alaska Natives; and
 
 &emsp;"(B) has Alaska Natives in substantive and policymaking positions within the organization."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

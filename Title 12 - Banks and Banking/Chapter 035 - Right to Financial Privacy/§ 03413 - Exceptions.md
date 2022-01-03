@@ -14,7 +14,7 @@ Nothing in this chapter prohibits the disclosure of financial records in accorda
 
 #### (d) Disclosure pursuant to Federal statute or rule promulgated thereunder
 
-Nothing in this chapter shall authorize the withholding of financial records or informationrequired to be reported in accordance with any Federal statute or rule promulgated thereunder.
+Nothing in this chapter shall authorize the withholding of financial records or information required to be reported in accordance with any Federal statute or rule promulgated thereunder.
 
 #### (e) Disclosure pursuant to Federal Rules of Criminal Procedure or comparable rules of other courts
 
@@ -100,7 +100,7 @@ This chapter shall not apply to the examination by or disclosure to the Federal 
 
 #### (q) Disclosure pursuant to Federal contractor-issued travel charge card
 
-Nothing in this chapter shall apply to the disclosure of any financial record or information toa Government authority in conjunction with a Federal contractor-issued travel charge card issued for official Government travel.
+Nothing in this chapter shall apply to the disclosure of any financial record or information to a Government authority in conjunction with a Federal contractor-issued travel charge card issued for official Government travel.
 
 #### (r) Disclosure to the Bureau of Consumer Financial Protection
 
@@ -122,7 +122,7 @@ The effective date of this chapter, referred to in subsec. (h)(3), is the date u
 
 The Social Security Act, referred to in subsec. (k)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of such Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Railroad Retirement Act of 1974, referred to in subsec. (k)(1), is act Aug. 29, 1935, ch. 812, as amended, generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
+The Railroad Retirement Act of 1974, referred to in subsec. (k)(1), is act Aug. 29, 1935, ch. 812, as amended, generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. Forfurther details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
 
 #### Codification
 
@@ -174,7 +174,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–264 effective Oct. 1, 1983, and applicable to any records created pursuant to United States Travel and Transportation Payment andExpense Control System or any Federal contractor-issued travel charge card issued for official Government travel, see section 2(c)(2) of Pub. L. 105–264, set out as a Requiring Use of Travel Charge Card note under section 5701 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 105–264 effective Oct. 1, 1983, and applicable to any records created pursuant to United States Travel and Transportation Payment and Expense Control System or any Federal contractor-issued travel charge card issued for official Government travel, see section 2(c)(2) of Pub. L. 105–264, set out as a Requiring Use of Travel Charge Card note under section 5701 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1983 Amendment
 

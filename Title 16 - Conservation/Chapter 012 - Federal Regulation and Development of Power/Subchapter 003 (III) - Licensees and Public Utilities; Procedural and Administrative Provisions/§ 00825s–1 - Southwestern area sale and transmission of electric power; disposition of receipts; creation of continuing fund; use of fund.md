@@ -4,6 +4,8 @@ All receipts from the transmission and sale of electric power and energy under t
 
 (Oct. 12, 1949, ch. 680, title I, §101, 63 Stat. 767; Aug. 31, 1951, ch. 375, title I, §101, 65 Stat. 249.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The First Supplemental National Defense Appropriation Act, 1944, referred to in text, was act Dec. 23, 1943, ch. 380, title I, §101, 57 Stat. 621, which was not classified to the Code.
@@ -17,6 +19,8 @@ Section as originally enacted contained a provision relating to maximum expendit
 #### Amendments
 
 <b>1951</b>—Act Aug. 31, 1951, inserted proviso.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Use of Fund To Pay for Purchase Power and Wheeling Expenses To Meet Contractual Obligations During Periods of Below-Average Hydropower Generation
 

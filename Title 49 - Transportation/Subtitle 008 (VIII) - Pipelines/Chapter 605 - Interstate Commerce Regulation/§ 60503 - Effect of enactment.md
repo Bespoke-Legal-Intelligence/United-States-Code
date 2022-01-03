@@ -22,6 +22,8 @@ Oct. 31, 1988, Pub. L. 100–561, §308, 102 Stat. 2817.
 
 The words "the Act of January 12, 1983 (Public Law 97–449, 96 Stat. 2413), and the Act enacting this section" are added for clarity. The words "department, agency, or instrumentality of the United States Government" are substituted for "Federal department or agency", and the words "officer or employee" are substituted for "official", for consistency in the revised title and with other titles of the United States Code.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Act of October 17, 1978, referred to in text, is Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1337, the first section of which enacted subtitle IV of this title. For complete classification of this Act to the Code, see Tables.

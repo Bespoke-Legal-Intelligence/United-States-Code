@@ -8,11 +8,15 @@ In exercising its powers, functions, and duties under this chapter, the Council 
 
 (Pub. L. 91–190, title II, §205, Jan. 1, 1970, 83 Stat. 855.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Executive Order numbered 11472, dated May 29, 1969, referred to in par. (1), is set out as a note under section 4321 of this title.
 
+#### <b>Executive Documents</b>
+
 #### Citizens' Advisory Committee on Environmental Quality
 
-For provisions relating to termination of Citizens' Advisory Committee on Environmental Quality, see Ex. Ord. No. 12007, Aug. 22, 1977, 42 F.R. 42839, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+For provisions relating to termination of Citizens' Advisory Committee on Environmental Quality, see Ex. Ord. No. 12007, Aug. 22, 1977, 42 F.R. 42839, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 

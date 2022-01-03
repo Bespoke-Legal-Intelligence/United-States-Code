@@ -4,13 +4,17 @@ The Secretary of the Interior is authorized to cooperate with the States, throug
 
 (Sept. 2, 1937, ch. 899, §1, 50 Stat. 917; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 116–94, div. P, title V, §501(b), Dec. 20, 2019, 133 Stat. 3191.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Pub. L. 116–94 inserted at end "One of the purposes of this chapter is to provide financial and technical assistance to the States for the promotion of hunting and recreational shooting."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title of 2019 Amendment
 
-Pub. L. 116–94, div. P, title V, §501(a), Dec. 20, 2019, 133 Stat. 3191, provided that: "This title \[amending this section and sections 669a, 669c, 669g, 669h–1, and 669h–2 of this title and enacting provisions set out as a note under section 669h–2 of this title\] may be cited as the 'Modernizing the Pittman-Robertson Fund for Tomorrow's Needs Act'."
+Pub. L. 116–94, div. P, title V, §501(a), Dec. 20, 2019, 133 Stat. 3191, provided that: "This title \[amending thissection and sections 669a, 669c, 669g, 669h–1, and 669h–2 of this title and enacting provisions set out as a note under section 669h–2 of this title\] may be cited as the 'Modernizing the Pittman-Robertson Fund for Tomorrow's Needs Act'."
 
 Pub. L. 116–17, §1, May 10, 2019, 133 Stat. 866, provided that: "This Act \[amending sections 669a, 669g, and 669h–1 of this title and enacting provisions set out as a note under section 669a of this title\] may be cited as the 'Target Practice and Marksmanship Training Support Act'."
 
@@ -30,10 +34,6 @@ Act Sept. 2, 1937, ch. 899, §14, formerly §13, as added by Pub. L. 106–408, 
 
 Act Sept. 2, 1937, ch. 899, as amended, is also popularly known as the "Federal Aid in Wildlife Restoration Act".
 
-#### Transfer of Functions
-
-Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, transferred functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds to Secretary of the Interior.
-
 #### Statement of Purpose and Definition in Pub. L. 106–553
 
 Pub. L. 106–553, §1(a)(2) \[title IX, §902(a), (b)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–119, provided that:
@@ -44,7 +44,7 @@ Purposes.—The purposes of this section \[amending sections 669a, 669b, 669c, 6
 
 &emsp;"(1) to extend financial and technical assistance to the States under the Federal Aid to \[in\] Wildlife Restoration Act \[16 U.S.C. 669 et seq.\] for the benefit of a diverse array of wildlife and associated habitats, including species that are not hunted or fished, to fulfill unmet needs of wildlife within the States in recognition of the primary role of the States to conserve all wildlife;
 
-&emsp;"(2) to assure sound conservation policies through the development, revision, and implementation of acomprehensive wildlife conservation and restoration plan;
+&emsp;"(2) to assure sound conservation policies through the development, revision, and implementation of a comprehensive wildlife conservation and restoration plan;
 
 &emsp;"(3) to encourage State fish and wildlife agencies to participate with the Federal Government, other State agencies, wildlife conservation organizations and outdoor recreation and conservation interests through cooperative planning and implementation of this title \[enacting section 1356a of Title 43, Public Lands, amending sections 669a, 669b, 669c, 669g, and 4406 of this title, and enacting provisions set out as notes under this section\]; and
 
@@ -65,4 +65,10 @@ Pub. L. 106–553, §1(a)(2) \[title IX, §902(h)\], Dec. 21, 2000, 114 Stat. 27
 #### Designation of Programs
 
 Pub. L. 106–408, title I, §131, Nov. 1, 2000, 114 Stat. 1775, provided that: "The programs established under the Pittman-Robertson Wildlife Restoration Act (16 U.S.C. 669 et seq.) and the Dingell-Johnson Sport Fish Restoration Act (16 U.S.C. 777 et seq.) shall be known as the 'Federal Assistance Program for State Wildlife and Sport Fish Restoration'."
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, transferred functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds to Secretary of the Interior.
 

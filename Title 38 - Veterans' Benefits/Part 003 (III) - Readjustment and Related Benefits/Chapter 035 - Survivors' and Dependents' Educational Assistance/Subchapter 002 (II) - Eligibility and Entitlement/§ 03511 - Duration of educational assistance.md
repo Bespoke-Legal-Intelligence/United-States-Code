@@ -48,7 +48,7 @@ Pub. L. 109–444, §3(b)(2)(A), which substituted "Each eligible person, whethe
 
 Pub. L. 109–233 inserted "sections" after "under both".
 
-Subsec. (a)(2)(B)(i). Pub. L. 109–461, §302(a), inserted "or of being involuntarily ordered to full-time NationalGuard duty under section 502(f) of title 32" after "title 10".
+Subsec. (a)(2)(B)(i). Pub. L. 109–461, §302(a), inserted "or of being involuntarily ordered to full-time National Guard duty under section 502(f) of title 32" after "title 10".
 
 Subsec. (b)(2). Pub. L. 109–461, §301(b)(2)(B)(i), substituted "section" for "the provisions of section 3501(a)(1)(A)(iii) or" and struck out "or" at end.
 

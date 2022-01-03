@@ -70,9 +70,13 @@ For purposes of this subpart, the term "unrelated person" means a person other t
 
 (Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1029; amended Pub. L. 92–178, title V, §505(c), Dec. 10, 1971, 85 Stat. 553.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1971</b>—Subsec. (a)(3). Pub. L. 92–178 added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Treatment of Certain Former Export Trade Corporations
 

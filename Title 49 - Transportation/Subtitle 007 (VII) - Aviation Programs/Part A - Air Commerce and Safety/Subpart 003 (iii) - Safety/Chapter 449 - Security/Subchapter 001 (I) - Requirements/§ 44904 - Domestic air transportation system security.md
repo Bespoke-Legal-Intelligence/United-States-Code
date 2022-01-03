@@ -70,6 +70,8 @@ In subsection (b), before clause (1), the word "Director" is substituted for "Fe
 
 In subsection (c), the word "correcting" is substituted for "remedying" for clarity.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–254, §1991(d)(4)(D), substituted "Administrator of the Transportation Security Administration" for "Under Secretary" wherever appearing.
@@ -89,6 +91,8 @@ Subsec. (b). Pub. L. 107–71, §101(f)(7), substituted "Under Secretary" for "A
 Subsec. (b)(5). Pub. L. 107–71, §101(f)(1), substituted "the Transportation Security Administration" for "the Administration".
 
 Subsec. (c). Pub. L. 107–71, §101(f)(7), substituted "Under Secretary" for "Administrator".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

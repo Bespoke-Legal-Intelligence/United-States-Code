@@ -98,9 +98,11 @@ In this section:
 
 &emsp;&emsp;(B) large-scale pilot projects;
 
-&emsp;&emsp;(C) demonstration projects, in accordance with paragraph (4); and
+&emsp;&emsp;(C) demonstration projects, in accordance with paragraph (4);
 
-&emsp;&emsp;(D) a front-end engineering and design program.
+&emsp;&emsp;(D) a front-end engineering and design program for carbon capture technologies; and
+
+&emsp;&emsp;(E) a front-end engineering and design program for carbon dioxide transport infrastructure necessary to enable deployment of carbon capture, utilization, and storage technologies.
 
 #### (3) Program goals and objectives
 
@@ -332,9 +334,11 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) $500,000,000 for each of fiscal years 2021 though 2024; and
 
-&emsp;&emsp;&emsp;(ii) $600,000,000 for fiscal year 2025; and
+&emsp;&emsp;&emsp;(ii) $600,000,000 for fiscal year 2025;
 
-&emsp;&emsp;(D) for activities under the front-end engineering and design program described in subsection (b)(2)(D), $50,000,000 for each of fiscal years 2021 through 2024.
+&emsp;&emsp;(D) for activities under the front-end engineering and design program described in subsection (b)(2)(D), $50,000,000 for each of fiscal years 2021 through 2024; and
+
+&emsp;&emsp;(E) for activities under the front-end engineering and design program described in subsection (b)(2)(E), $100,000,000 for the period of fiscal years 2022 through 2026.
 
 #### (2) Cost sharing for large-scale pilot projects
 
@@ -374,7 +378,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(ii) are institutions of higher education with established expertise in engineering for carbon capture technologies, or partnerships with such institutions of higher education; or
 
-&emsp;&emsp;&emsp;(iii) have access to existing research and test facilities for bulk materials design and testing, component design and testing, or professional engineering design.
+&emsp;&emsp;&emsp;(iii) have access to existing research and test facilities for bulk materials designand testing, component design and testing, or professional engineering design.
 
 #### (D) Existing centers
 
@@ -402,9 +406,57 @@ In this section:
 
 &emsp;There is authorized to be appropriated to carry out this subsection $25,000,000 for each of fiscal years 2021 through 2025.
 
-(Pub. L. 109–58, title IX, §962, as added Pub. L. 116–260, div. Z, title IV, §4002(a), Dec. 27, 2020, 134 Stat. 2528.)
+(Pub. L. 109–58, title IX, §962, as added Pub. L. 116–260, div. Z, title IV, §4002(a), Dec. 27, 2020, 134 Stat. 2528; amended Pub. L. 117–58, div. D, title III, §40303, Nov. 15, 2021, 135 Stat. 988.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
 A prior section 16292, Pub. L. 109–58, title IX, §962, Aug. 8, 2005, 119 Stat. 890, related to coal and related technologies program, prior to repeal by Pub. L. 116–260, div. Z, title IV, §4002(a), Dec. 27, 2020, 134 Stat. 2528.
+
+#### Amendments
+
+<b>2021</b>—Subsec. (b)(2)(D). Pub. L. 117–58, §40303(1)(B), substituted "program for carbon capture technologies; and" for "program."
+
+Subsec. (b)(2)(E). Pub. L. 117–58, §40303(1)(A), (C), added subpar. (E).
+
+Subsec. (d)(1)(E). Pub. L. 117–58, §40303(2), added subpar. (E).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Wage Rate Requirements
+
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of this title.
+
+#### Findings
+
+Pub. L. 117–58, div. D, title III, §40301, Nov. 15, 2021, 135 Stat. 986, provided that: "Congress finds that—
+
+&emsp;"(1) the industrial sector is integral to the economy of the United States—
+
+&emsp;&emsp;"(A) providing millions of jobs and essential products; and
+
+&emsp;&emsp;"(B) demonstrating global leadership in manufacturing and innovation;
+
+&emsp;"(2) carbon capture and storage technologies are necessary for reducing hard-to-abate emissions from the industrial sector, which emits nearly 25 percent of carbon dioxide emissions in the United States;
+
+&emsp;"(3) carbon removal and storage technologies, including direct air capture, must be deployed at large-scale in the coming decades to remove carbon dioxide directly from the atmosphere;
+
+&emsp;"(4) large-scale deployment of carbon capture, removal, utilization, transport, and storage—
+
+&emsp;&emsp;"(A) is critical for achieving mid-century climate goals; and
+
+&emsp;&emsp;"(B) will drive regional economic development, technological innovation, and high-wage employment;
+
+&emsp;"(5) carbon capture, removal, and utilization technologies require a backbone system of shared carbon dioxide transport and storage infrastructure to enable large-scale deployment, realize economies of scale, and create an interconnected carbon management market;
+
+&emsp;"(6) carbon dioxide transport infrastructure and permanent geological storage are proven and safe technologies with existing Federal and State regulatory frameworks;
+
+&emsp;"(7) carbon dioxide transport and storage infrastructure share similar barriers to deployment previously faced by other types of critical national infrastructure, such as high capital costs and chicken-and-egg challenges, that require Federal and State support, in combination with private investment, to be overcome; and
+
+&emsp;"(8) each State should take into consideration, with respect to new carbon dioxide transportation infrastructure—
+
+&emsp;&emsp;"(A) qualifying the infrastructure as pollution control devices under applicable laws (including regulations) of the State; and
+
+&emsp;&emsp;"(B) establishing a waiver of ad valorem and property taxes for the infrastructure for a period of not less than 10 years."
 

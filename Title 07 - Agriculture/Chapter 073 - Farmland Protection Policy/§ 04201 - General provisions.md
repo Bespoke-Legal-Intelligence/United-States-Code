@@ -36,7 +36,7 @@ As used in this chapter—
 
 &emsp;(2) the term "State" means any of the fifty States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the Trust Territory of the Pacific Islands, or any territory or possession of the United States;
 
-&emsp;(3) the term "unit of local government" means the government of a county, municipality, town, township, village, or other unit of general government below the State level, or a combination of units of local government acting through an areawide agency under State law or an agreement for the formulation of regional development policies and plans;
+&emsp;(3) the term "unit of local government" means the government of a county, municipality, town, township, village, or other unitof general government below the State level, or a combination of units of local government acting through an areawide agency under State law or an agreement for the formulation of regional development policies and plans;
 
 &emsp;(4) the term "Federal program" means those activities or responsibilities of a department, agency, independent commission, or other unit of the Federal Government that involve (A) undertaking, financing, or assisting construction or improvement projects; or (B) acquiring, managing, or disposing of Federal lands and facilities. The term "Federal program" does not include construction or improvement projects that on the effective date of this chapter are beyond the planning stage and are in either the active design or construction state; and
 
@@ -44,9 +44,13 @@ As used in this chapter—
 
 (Pub. L. 97–98, title XV, §1540, Dec. 22, 1981, 95 Stat. 1341.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The effective date of this chapter, referred to in subsec. (c)(4), is six months after Dec. 22, 1981, see Effective Date note below.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -56,13 +60,9 @@ Pub. L. 97–98, title XV, §1549, Dec. 22, 1981, 95 Stat. 1344, provided that: 
 
 Pub. L. 97–98, title XV, §1539, Dec. 22, 1981, 95 Stat. 1341, provided that: "This subtitle \[subtitle I (§§1539–1549) of title XV of Pub. L. 97–98, enacting this chapter\] may be cited as the 'Farmland Protection Policy Act'."
 
-#### Termination of Trust Territory of the Pacific Islands
-
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
 #### Farmland Protection
 
-Pub. L. 101–624, title XIV, ch. 2, §§1465–1470B, Nov. 28, 1990, 104 Stat. 3616–3619, as amended by Pub. L. 102–237,title II, §§201(b), (c), 203, Dec. 13, 1991, 105 Stat. 1847, 1848, provided that:
+Pub. L. 101–624, title XIV, ch. 2, §§1465–1470B, Nov. 28, 1990, 104 Stat. 3616–3619, as amended by Pub. L. 102–237, title II, §§201(b), (c), 203, Dec. 13, 1991, 105 Stat. 1847, 1848, provided that:
 
 #### "SEC. 1465. SHORT TITLE, PURPOSE, AND DEFINITION.
 
@@ -140,7 +140,7 @@ Mandatory Assistance to Each State Trust Fund.—The Secretary shall—
 
 &emsp;"(2) annually pay to each State trust fund an amount calculated by applying the allowable interest rate to the amount of each loan described in section 1465(c)(2) made to, or issued for the benefit of, each State trust fund during each of the first 5 years after the date on which each such loan was made or issued; and
 
-&emsp;"(3) annually pay to each State trust fund, for each year during the second 5-year period after each such eligible loan is made to, or issued for the benefit of, the State trust fund, an amount calculated by applying the interest rate difference, between the rate of interest charged to borrowers of direct loans as described in section 316(a)(2) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1946(a)(2)) and the allowable interest rate, to the amount of each such loan made to, or issued for the benefit of, the State trust fund, as determined under procedures established by the Secretary.
+&emsp;"(3) annually pay to each State trust fund, for each year during the second 5-year period after each such eligible loan is made to, or issued for the benefit of, the State trust fund, an amount calculated by applying the interest rate difference, between the rate of interest charged to borrowers of direct loans as described in section 316(a)(2) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1946(a)(2)) andthe allowable interest rate, to the amount of each such loan made to, or issued for the benefit of, the State trust fund, as determined under procedures established by the Secretary.
 
 "(c)
 
@@ -224,7 +224,7 @@ Provision of loan guarantee and interest assistance agreement.—Within 30 days 
 
 &emsp;"(2)
 
-Approval of application.—The Secretary shall annually approve the completed application from the eligible State within 30 days after receipt if the application sets forth the general goals and policies of the State trust fund. The Secretary shall provide the Federal assistance required under this chapter beginning on the date the application or plan is approved.
+Approval of application.—The Secretary shall annually approve the completed applicationfrom the eligible State within 30 days after receipt if the application sets forth the general goals and policies of the State trust fund. The Secretary shall provide the Federal assistance required under this chapter beginning on the date the application or plan is approved.
 
 &emsp;"(3)
 
@@ -327,4 +327,10 @@ Regulations.—Not later than December 31, 1991, the Secretary of Agriculture sh
 \[Amendment by section 201(b), (c) of Pub. L. 102–237 to sections 1466 and 1470 of Pub. L. 101–624, set out above, effective as if included in the provision of the Food, Agriculture, Conservation, and Trade Act of 1990, Pub. L. 101–624, to which the amendment relates, see section 1101(b)(1) of Pub. L. 102–237, set out as an Effective Date of 1991 Amendment note under section 1421 of this title.\]
 
 Pub. L. 102–341, title VII, §730, Aug. 14, 1992, 106 Stat. 909, provided that: "For loan guarantees authorized under sections 1465–1469 of Public Law 101–624 \[set out above\] for the Agricultural Resource Conservation Demonstration Program, $10,000,000. For the cost, as defined in section 502 of the Congressional Budget Act of 1974 \[2 U.S.C. 661a\], $3,644,000: <i>Provided</i>, That, hereafter, no other funds are available in this or any other Act to carry out this program, other than those provided for in advance in Appropriations Acts, except for the cost of administering the program: <i>Provided further</i>, That such limitation shall not apply with respect to the duties and obligations of the Secretary regarding any loan or note guarantees, interest assistance agreements, or other understandings entered into during fiscal year 1992, and the personnel of the Department shall carry out the duties and obligations of the Secretary, and any other requirements imposed on the Secretary regarding such Agricultural Resource Conservation Demonstration Loan Program with respect to the loan made and guaranteed in 1992."
+
+#### <b>Executive Documents</b>
+
+#### Termination of Trust Territory of the Pacific Islands
+
+For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 

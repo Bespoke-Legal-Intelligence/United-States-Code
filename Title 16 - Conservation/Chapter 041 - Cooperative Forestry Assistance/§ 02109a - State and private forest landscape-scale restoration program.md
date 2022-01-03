@@ -78,7 +78,7 @@ In making grants under this section, the Secretary shall give priority to plans 
 
 #### (g) Collaboration and consultation
 
-The Chief of the Forest Service, the Chief of the Natural Resources Conservation Service, and relevant stakeholders shall collaborate and consult on an ongoing basis regarding—
+The Chief of the Forest Service, the Chief of the Natural Resources Conservation Service,and relevant stakeholders shall collaborate and consult on an ongoing basis regarding—
 
 &emsp;(1) administration of the program established under this section; and
 
@@ -134,6 +134,8 @@ Not later than 3 years after December 20, 2018, the Secretary shall submit to th
 
 (Pub. L. 95–313, §13A, as added Pub. L. 110–234, title VIII, §8007, May 22, 2008, 122 Stat. 1285, and Pub. L. 110–246, §4(a), title VIII, §8007, June 18, 2008, 122 Stat. 1664, 2047; amended Pub. L. 115–334, title VIII, §8102(a), Dec. 20, 2018, 132 Stat. 4837.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
@@ -141,6 +143,8 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–334 amended section generally. Prior to amendment, section related to competitive allocation of funds to State foresters or equivalent State officials.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

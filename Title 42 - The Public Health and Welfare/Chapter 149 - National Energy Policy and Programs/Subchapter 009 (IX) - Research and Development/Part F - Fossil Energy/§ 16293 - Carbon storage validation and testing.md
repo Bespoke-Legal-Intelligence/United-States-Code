@@ -10,7 +10,7 @@ In this section:
 
 &emsp;&emsp;(A) demonstrates the ability to inject into geologic formations and sequester carbon dioxide; and
 
-&emsp;&emsp;(B) has a goal of sequestering not less than 50 million metric tons of carbon dioxide over a 10-year period.
+&emsp;&emsp;(B) has a goal of sequestering not less than 50 million metric tons of carbon dioxide.
 
 #### (2) Program
 
@@ -20,7 +20,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;The Secretary shall establish a program of research, development, and demonstration for carbon storage.
+&emsp;The Secretary shall establish a program of research, development, demonstration, and commercialization for carbon storage.
 
 #### (2) Program activities
 
@@ -46,9 +46,11 @@ In this section:
 
 &emsp;&emsp;(F) determining the fate of carbon dioxide concurrent with and following injection into geologic formations;
 
-&emsp;&emsp;(G) supporting cost and business model assessments to examine the economic viability of technologies and systems developed under the program; and
+&emsp;&emsp;(G) supporting cost and business model assessments to examine the economic viability of technologies and systems developed under the program;
 
-&emsp;&emsp;(H) providing information to the Environmental Protection Agency, States, local governments, Tribal governments, and other appropriate entities, to ensure the protection of human health and the environment.
+&emsp;&emsp;(H) providing information to the Environmental Protection Agency, States, local governments, Tribal governments, and other appropriate entities, to ensure the protection of human health and the environment; and
+
+&emsp;&emsp;(I) evaluating the quantity, location, and timing of geologic carbon storage deployment that may be needed, and developing strategies and resources to enable the deployment.
 
 #### (3) Geologic settings
 
@@ -82,7 +84,7 @@ In this section:
 
 #### (3) Demonstration components
 
-&emsp;Each demonstration project carried out under this subsection shall include longitudinal tests involving carbon dioxide injectionand monitoring, mitigation, and verification operations.
+&emsp;Each demonstration project carried out under this subsection shall include longitudinal tests involving carbon dioxide injection and monitoring, mitigation, and verification operations.
 
 #### (4) Clearinghouse
 
@@ -118,35 +120,73 @@ In this section:
 
 &emsp;&emsp;(C) to carry out any other activities necessary to transition the large-scale carbon sequestration demonstration projects under subsection (c) into integrated commercial storage complexes.
 
-#### (e) Preference in project selection from meritorious proposals
+#### (e) Large-scale carbon storage commercialization program
+
+#### (1) In general
+
+&emsp;The Secretary shall establish a commercialization program under which the Secretaryshall provide funding for the development of new or expanded commercial large-scale carbon sequestration projects and associated carbon dioxide transport infrastructure, including funding for the feasibility, site characterization, permitting, and construction stages of project development.
+
+#### (2) Applications; selection
+
+#### (A) In general
+
+&emsp;&emsp;To be eligible to enter into an agreement with the Secretary for funding under paragraph (1), an entity shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary determines to be appropriate.
+
+#### (B) Application process
+
+&emsp;&emsp;The Secretary shall establish an application process that, to the maximum extent practicable—
+
+&emsp;&emsp;&emsp;(i) is open to projects at any stage of development described in paragraph (1); and
+
+&emsp;&emsp;&emsp;(ii) facilitates expeditious development of projects described in that paragraph.
+
+#### (C) Project selection
+
+&emsp;&emsp;In selecting projects for funding under paragraph (1), the Secretary shall give priority to—
+
+&emsp;&emsp;&emsp;(i) projects with substantial carbon dioxide storage capacity; or
+
+&emsp;&emsp;&emsp;(ii) projects that will store carbon dioxide from multiple carbon capture facilities.
+
+#### (f) Preference in project selection from meritorious proposals
 
 In making competitive awards under this section, subject to the requirements of section 16353 of this title, the Secretary shall—
 
-&emsp;(1) give preference to proposals from partnerships among industrial, academic, and government entities; and
+&emsp;(1) with respect to the research, development, demonstration program components described in subsections (b) through (d) give preference to proposals from partnerships among industrial, academic, and government entities; and
 
 &emsp;(2) require recipients to provide assurances that all laborers and mechanics employed by contractors and subcontractors in the construction, repair, or alteration of new or existing facilities performed in order to carry out a demonstration or commercial application activity authorized under this section shall be paid wages at rates not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance with subchapter IV of chapter 31 of title 40, and the Secretary of Labor shall, with respect to the labor standards in this paragraph, have the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 Fed. Reg. 3176; 5 U.S.C. Appendix) and section 3145 of title 40.
 
-#### (f) Cost sharing
+#### (g) Cost sharing
 
 Activities carried out under this section shall be subject to the cost-sharing requirements of section 16352 of this title.
 
-#### (g) Authorization of appropriations
+#### (h) Authorization of appropriations
 
-There are authorized to be appropriated to the Secretary to carry out this section—
+There is authorized to be appropriated to the Secretary to carry out this section $2,500,000,000 for the period of fiscal years 2022 through 2026.
 
-&emsp;(1) $200,000,000 for fiscal year 2021;
+(Pub. L. 109–58, title IX, §963, Aug. 8, 2005, 119 Stat. 891; Pub. L. 110–140, title VII, §702(a), Dec. 19, 2007, 121 Stat. 1704; Pub. L. 116–260, div. Z, title IV, §4003(a), Dec. 27, 2020, 134 Stat. 2536; Pub. L. 117–58, div. D, title III, §40305, Nov. 15, 2021, 135 Stat. 1001.)
 
-&emsp;(2) $200,000,000 for fiscal year 2022;
-
-&emsp;(3) $150,000,000 for fiscal year 2023;
-
-&emsp;(4) $150,000,000 for fiscal year 2024; and
-
-&emsp;(5) $100,000,000 for fiscal year 2025.
-
-(Pub. L. 109–58, title IX, §963, Aug. 8, 2005, 119 Stat. 891; Pub. L. 110–140, title VII, §702(a), Dec. 19, 2007, 121 Stat. 1704; Pub. L. 116–260, div. Z, title IV, §4003(a), Dec. 27, 2020, 134 Stat. 2536.)
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(1)(B). Pub. L. 117–58, §40305(1), struck out "over a 10-year period" after "carbon dioxide".
+
+Subsec. (b)(1). Pub. L. 117–58, §40305(2)(A), substituted "demonstration, and commercialization" for "and demonstration".
+
+Subsec. (b)(2)(I). Pub. L. 117–58, §40305(2)(B), added subpar. (I).
+
+Subsec. (e). Pub. L. 117–58, §40305(3), (4), added subsec. (e) and redesignated former subsec. (e) as (f).
+
+Subsec. (f). Pub. L. 117–58, §40305(3), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
+
+Subsec. (f)(1). Pub. L. 117–58, §40305(5), inserted "with respect to the research, development, demonstration program components described in subsections (b) through (d)" before "give preference".
+
+Subsec. (g). Pub. L. 117–58, §40305(3), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
+
+Subsec. (h). Pub. L. 117–58, §40305(6), added subsec. (h) and struck out former subsec. (h) which authorized appropriations for fiscal years 2021 to 2025.
+
+Pub. L. 117–58, §40305(3), redesignated subsec. (g) as (h).
 
 <b>2020</b>—Pub. L. 116–260, §4003(a)(4), substituted "Carbon storage validation and testing" for "Carbon capture and sequestration research, development, and demonstration program" in section catchline.
 
@@ -184,7 +224,13 @@ Subsecs. (c), (d). Pub. L. 110–140, §702(a)(4), added subsecs. (c) and (d) an
 
 &emsp;"(3) $35,000,000 for fiscal year 2008."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2007 Amendment
 
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
+
+#### Wage Rate Requirements
+
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of this title.
 

@@ -54,7 +54,7 @@ Required information.—The Secretary shall include on each list developed under
 
 &emsp;(C)
 
-Required operation and maintenance information.—The Secretary shall include onthe list developed under subparagraph (A)(iv), for each project and property under the control of the Corps of Engineers on that list—
+Required operation and maintenance information.—The Secretary shall include on the list developed under subparagraph (A)(iv), for each project and property under the control of the Corps of Engineers on that list—
 
 &emsp;&emsp;(i) the authority under which the project was authorized or the property was acquired by the Corps of Engineers;
 

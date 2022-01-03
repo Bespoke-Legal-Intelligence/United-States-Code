@@ -4,11 +4,15 @@ The Secretary of Health and Human Services shall take all possible steps to enco
 
 (Pub. L. 96–272, title I, §101(a)(4)(B), June 17, 1980, 94 Stat. 512.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Adoption Assistance and Child Welfare Act of 1980, and not as part of the Social Security Act which comprises this chapter.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
-"Secretary of Health and Human Services" was substituted for "Secretary of Health, Education, and Welfare" in text, pursuant to Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, which is classified to section 3508(b) of Title 20, Education.
+"Secretary of Health and Human Services" substituted in text for "Secretary of Health, Education, and Welfare" pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 

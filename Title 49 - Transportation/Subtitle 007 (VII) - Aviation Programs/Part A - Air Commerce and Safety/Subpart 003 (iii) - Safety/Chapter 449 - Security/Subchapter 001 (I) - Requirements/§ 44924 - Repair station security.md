@@ -18,7 +18,7 @@ Failure to carry out effective security measures.—If, after the 90th day on wh
 
 &emsp;(2)
 
-Immediate security risk.—If the Administrator of the Transportation Security Administration determines that a foreign repair station poses an immediate security risk, the Administrator of the Transportation SecurityAdministration shall notify the Administrator of the Federal Aviation Administration of the determination. Upon receipt of the determination, the Administrator of the Federal Aviation Administration shall revoke the certification of the repair station.
+Immediate security risk.—If the Administrator of the Transportation Security Administration determines that a foreign repair station poses an immediate security risk, the Administrator of the Transportation Security Administration shall notify the Administrator of the Federal Aviation Administration of the determination. Upon receipt of the determination, the Administrator of the Federal Aviation Administration shall revoke the certification of the repair station.
 
 &emsp;(3)
 
@@ -26,7 +26,7 @@ Procedures for appeals.—The Administrator of the Transportation Security Admin
 
 (d)
 
-Failure To Meet Audit Deadline.—If the security audits required by subsection (a) are not completed on or before the date that is 6 months after the date on which the Administrator of the Transportation Security Administration issues regulations under subsection (f), the Administrator of the Federal Aviation Administration shall be barred from certifying any foreign repair station (other than a station that was previously certified, or is in the process of certification, by the Administration under this part) until such audits are completed for existing stations.
+Failure To Meet Audit Deadline.—If the security audits required by subsection (a) are not completed on or before the date that is 6 months after the date on which the Administrator of the Transportation Security Administration issues regulations under subsection (f), the Administrator of the Federal Aviation Administration shall be barred from certifying any foreign repair station (other than a station that was previously certified, or is in the process ofcertification, by the Administration under this part) until such audits are completed for existing stations.
 
 (e)
 
@@ -41,6 +41,8 @@ Regulations.—The Administrator of the Transportation Security Administration, 
 Report to Congress.—If the Administrator of the Transportation Security Administration does not issue final regulations before the deadline specified in subsection (f), the Administrator of the Transportation Security Administration shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing an explanation as to why the deadline was not met and a schedule for issuing the final regulations.
 
 (Added Pub. L. 108–176, title VI, §611(b)(1), Dec. 12, 2003, 117 Stat. 2571; amended Pub. L. 110–53, title XVI, §1616(b), Aug. 3, 2007, 121 Stat. 488; Pub. L. 115–254, div. K, title I, §1991(d)(20), Oct. 5, 2018, 132 Stat. 3637.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -63,6 +65,8 @@ Pub. L. 115–254, §1991(d)(20)(B), substituted "Administrator of the Federal A
 Subsec. (d). Pub. L. 110–53, §1616(b)(2), inserted "(other than a station that was previously certified, or is in the process of certification, by the Administration under this part)" after "foreign repair station".
 
 Pub. L. 110–53, §1616(b)(1), which directed amendment of subsec. (b) by substituting "6 months" for "18 months", was executed by making the substitution in subsec. (d), to reflect the probable intent of Congress.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

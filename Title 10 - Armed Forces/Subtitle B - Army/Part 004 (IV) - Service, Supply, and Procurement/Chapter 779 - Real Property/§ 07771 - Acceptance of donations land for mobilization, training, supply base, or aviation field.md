@@ -26,9 +26,13 @@ Aug. 29, 1916, ch. 418 (6th and 8th pars. under "Office of the Chief Signal Offi
 
 10:1344 (last 40 words) is omitted as executed. The words "tract or tracts", in 10:1342 and 1344, are omitted as surplusage. The words "and remount station", in 10:1342, are omitted, since the property and civilian personnel of the Remount Service of the Quartermaster Corps were transferred to the Department of Agriculture by the Act of April 21, 1948, ch. 224, 62 Stat. 197 (7 U.S.C. 436–438). The words "by the United States for any purpose" are substituted for the words "for any other service of the United States which may hereafter appear desirable", in 10:1342. The words "from any person", in 10:1344, are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4771 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

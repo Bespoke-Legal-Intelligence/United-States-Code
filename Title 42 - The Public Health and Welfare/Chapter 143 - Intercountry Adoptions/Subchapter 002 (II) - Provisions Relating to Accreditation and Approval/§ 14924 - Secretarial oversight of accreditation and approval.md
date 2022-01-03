@@ -66,7 +66,7 @@ A person (other than a prospective adoptive parent), an agency, or an accreditin
 
 #### (3) Repeated failures to comply
 
-&emsp;Repeated serious, willful, or grossly negligent failures to comply with the requirements of section 14923(b)(1)(A)(ii) of this title by an agency or person after consultation between Secretary and the accrediting entity with respect to previous noncompliance bysuch agency or person shall constitute a pattern of serious, willful, or grossly negligent failures to comply under subsection (c)(1)(B).
+&emsp;Repeated serious, willful, or grossly negligent failures to comply with the requirements of section 14923(b)(1)(A)(ii) of this title by an agency or person after consultation between Secretary and the accrediting entity with respect to previous noncompliance by such agency or person shall constitute a pattern of serious, willful, or grossly negligent failures to comply under subsection (c)(1)(B).
 
 #### (4) Failure to comply with certain requirements
 
@@ -74,11 +74,15 @@ A person (other than a prospective adoptive parent), an agency, or an accreditin
 
 (Pub. L. 106–279, title II, §204, Oct. 6, 2000, 114 Stat. 835.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 106–279, Oct. 6, 2000, 114 Stat. 825, known as the Intercountry Adoption Act of 2000, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 14901 of this title and Tables.
 
 This subchapter, referred to in subsecs. (c)(1), (3) and (d), was in the original "this title", meaning title II of Pub. L. 106–279, Oct. 6, 2000, 114 Stat. 830, which is classified principally to this subchapter. For complete classification of title II to the Code, see Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

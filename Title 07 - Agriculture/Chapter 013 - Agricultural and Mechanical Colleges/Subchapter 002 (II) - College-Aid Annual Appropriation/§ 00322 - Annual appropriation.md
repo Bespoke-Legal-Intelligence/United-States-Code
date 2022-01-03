@@ -4,6 +4,8 @@ There is annually appropriated, out of any money in the Treasury not otherwise a
 
 (Aug. 30, 1890, ch. 841, §1, 26 Stat. 417; Mar. 4, 1907, ch. 2907, 34 Stat. 1281, 1282; Pub. L. 97–98, title XIV, §1421, Dec. 22, 1981, 95 Stat. 1306.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is based on a part of section 1 of act Aug. 30, 1890, and the tenth and eleventh pars. under the heading "Emergency Appropriations" of act Mar. 4, 1907. Remainder of section 1 of act Aug. 30, 1890, is classified to section 323 of this title.
@@ -13,6 +15,8 @@ Section is based on a part of section 1 of act Aug. 30, 1890, and the tenth and 
 <b>1981</b>—Pub. L. 97–98 substituted "food and agricultural sciences" for "agriculture, the mechanic arts, the English language, and the various branches of mathematical, physical, natural, and economic science, with special reference to their applications in the industries of life" and "the elements of food and agricultural sciences" for "the elements of agriculture and the mechanic arts".
 
 <b>1907</b>—Act Mar. 4, 1907, substituted "$50,000" for "$25,000", and inserted proviso.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1981 Amendment
 

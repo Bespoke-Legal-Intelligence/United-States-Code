@@ -52,7 +52,7 @@ Specifications.—
 
 Special directions for certain orders.—
 
-&emsp;An order approving an electronic surveillance under this section in circumstanceswhere the nature and location of each of the facilities or places at which the surveillance will be directed is unknown shall direct the applicant to provide notice to the court within ten days after the date on which surveillance begins to be directed at any new facility or place, unless the court finds good cause to justify a longer period of up to 60 days, of—
+&emsp;An order approving an electronic surveillance under this section in circumstances where the nature and location of each of the facilities or places at which the surveillance will be directed is unknown shall direct the applicant to provide notice to the court within ten days after the date on which surveillance begins to be directed at any new facility or place, unless the court finds good cause to justify a longer period of up to 60 days, of—
 
 &emsp;&emsp;(A) the nature and location of each new facility or place at which the electronic surveillance is directed;
 
@@ -90,7 +90,7 @@ Special directions for certain orders.—
 
 (4) A denial of the application made under this subsection may be reviewed as provided in section 1803 of this title.
 
-(5) In the event that such application for approval is denied, or in any other case where the electronic surveillance is terminated and no order is issued approving the surveillance, no information obtained or evidence derived from such surveillance shall be received in evidence or otherwise disclosed in any trial, hearing, or other proceeding in or before any court, grand jury, department, office, agency, regulatory body, legislative committee, or other authority of the United States, a State, or political subdivision thereof, and no information concerning any United States person acquired from such surveillance shall subsequently be used or disclosed in any other manner by Federal officers or employees without the consent of such person, except with the approval of the Attorney General if the information indicates a threat of death or serious bodily harm to any person.
+(5) In the event that such application for approval is denied, or in any other case where theelectronic surveillance is terminated and no order is issued approving the surveillance, no information obtained or evidence derived from such surveillance shall be received in evidence or otherwise disclosed in any trial, hearing, or other proceeding in or before any court, grand jury, department, office, agency, regulatory body, legislative committee, or other authority of the United States, a State, or political subdivision thereof, and no information concerning any United States person acquired from such surveillance shall subsequently be used or disclosed in any other manner by Federal officers or employees without the consent of such person, except with the approval of the Attorney General if the information indicates a threat of death or serious bodily harm to any person.
 
 (6) The Attorney General shall assess compliance with the requirements of paragraph (5).
 
@@ -164,13 +164,15 @@ Certifications made by the Attorney General pursuant to section 1802(a) of this 
 
 #### (i) Bar to legal action
 
-No cause of action shall lie in any court against any provider of a wire or electronic communication service, landlord, custodian, or other person (including any officer, employee,agent, or other specified person thereof) that furnishes any information, facilities, or technical assistance in accordance with a court order or request for emergency assistance under this chapter for electronic surveillance or physical search.
+No cause of action shall lie in any court against any provider of a wire or electronic communication service, landlord, custodian, or other person (including any officer, employee, agent, or other specified person thereof) that furnishes any information, facilities, or technical assistance in accordance with a court order or request for emergency assistance under this chapter for electronic surveillance or physical search.
 
 #### (j) Pen registers and trap and trace devices
 
 In any case in which the Government makes an application to a judge under this subchapter to conduct electronic surveillance involving communications and the judge grants such application, upon the request of the applicant, the judge shall also authorize the installation and use of pen registers and trap and trace devices, and direct the disclosure of the information set forth in section 1842(d)(2) of this title.
 
 (Pub. L. 95–511, title I, §105, Oct. 25, 1978, 92 Stat. 1790; Pub. L. 98–549, §6(b)(3), Oct. 30, 1984, 98 Stat. 2804; Pub. L. 106–567, title VI, §602(b), Dec. 27, 2000, 114 Stat. 2851; Pub. L. 107–56, title II, §§206, 207(a)(1), (b)(1), 225, Oct. 26, 2001, 115 Stat. 282, 295; Pub. L. 107–108, title III, §314(a)(2), (c)(1), Dec. 28, 2001, 115 Stat. 1402, 1403; Pub. L. 107–273, div. B, title IV, §4005(c), Nov. 2, 2002, 116 Stat. 1812; Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 109–177, title I, §§102(b)(1), 105(a), 108(a)(2), (b), Mar. 9, 2006, 120 Stat. 195, 203; Pub. L. 110–261, title I, §§105(a), 110(c)(1), July 10, 2008, 122 Stat. 2461, 2466; Pub. L. 111–118, div. B, §1004(a), Dec. 19, 2009, 123 Stat. 3470; Pub. L. 111–141, §1(a), Feb. 27, 2010, 124 Stat. 37; Pub. L. 111–259, title VIII, §806(a)(2), Oct. 7, 2010, 124 Stat. 2748; Pub. L. 112–3, §2(a), Feb. 25, 2011, 125 Stat. 5; Pub. L. 112–14, §2(a), May 26, 2011, 125 Stat. 216; Pub. L. 114–23, title VII, §§701(a), 705(a), (c), June 2, 2015, 129 Stat. 298, 300; Pub. L. 115–118, title II, §205(b)(2), Jan. 19, 2018, 132 Stat. 22; Pub. L. 116–69, div. B, title VII, §1703(a), Nov. 21, 2019, 133 Stat. 1143.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -270,6 +272,8 @@ Subsecs. (e) to (h). Pub. L. 106–567, §602(b)(1), redesignated subsecs. (d) t
 
 <b>1984</b>—Subsec. (f)(2)(C). Pub. L. 98–549 substituted "section 705" for "section 605" in the original to accommodate renumbering of sections in subchapter VI (section 601 et seq.) of chapter 5 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, by section 6(a) of Pub. L. 98–549. Because both sections translate as "section 605 of Title 47", the amendment by Pub. L. 98–549 resulted in no change in text.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
 Amendment by Pub. L. 110–261 effective July 10, 2008, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of this title, see section 402 of Pub. L. 110–261, set out as an Effective Date of 2008 Amendment note under section 1801 of this title.
@@ -286,7 +290,7 @@ In general.—Effective March 15, 2020, the Foreign Intelligence Surveillance Ac
 
 Exception.—With respect to any particular foreign intelligence investigation that began before the date on which the provisions referred to in paragraph (1) cease to have effect, or with respect to any particular offense or potential offense that began or occurred before the date on which such provisions cease to have effect, such provisions shall continue in effect."
 
-\[Pub. L. 109–177, §102(b)(1), set out above, as amended by Pub. L. 112–14, provided that sections 1861 and 1862 of this title and subsec. (c)(2) of this section were amended, effective June 1, 2015, to read as they read on Oct. 25, 2001. Pub. L. 114–23, §705(a), amended section 102(b)(1) by substituting "December 15, 2019" for "June 1, 2015", thereby delaying the reversion of those provisions until Dec. 15, 2019. Such amendment was given effect in those provisions by not executing the reversions on June 1, 2015, to reflect the probable intent of Congress, notwithstanding that Pub. L. 114–23 was enacted on June 2, 2015. See Amendment of Subsection (c)(2) note and 2015 Amendment note for subsec. (c)(2) above and Codification and 2015 Amendment notes under sections 1861 and 1862 of this title.\]
+\[Pub. L. 109–177, §102(b)(1), set out above, as amended by Pub. L. 112–14, provided that sections 1861 and 1862 of this title and subsec. (c)(2) of this section were amended, effective June 1, 2015, to read as they read on Oct. 25, 2001. Pub. L. 114–23, §705(a), amended section 102(b)(1) by substituting "December 15, 2019" for "June 1, 2015", thereby delaying the reversion of those provisions until Dec. 15, 2019. Such amendment was given effect in those provisions by not executing the reversions on June 1, 2015, to reflect the probable intent of Congress, notwithstanding that Pub. L. 114–23 was enacted on June 2, 2015. See Amendment of Subsection (c)(2)note and 2015 Amendment note for subsec. (c)(2) above and Codification and 2015 Amendment notes under sections 1861 and 1862 of this title.\]
 
 #### Effective Date of 2004 Amendment
 

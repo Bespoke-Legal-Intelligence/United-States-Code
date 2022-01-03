@@ -84,6 +84,8 @@ In subsection (c), the requirement that the physical disability incurred be 30 p
 
 In subsection (d), the rules stated in 37:316 (2d and last provisos) are repeated in column 4 of the table and the footnote to the table, since they apply to all cases of increased pay for active duty performed after retirement.
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Another section 304(b)(3) of Pub. L. 99–348 amended the table of sections at the beginning of chapter 571 of this title.
@@ -126,6 +128,8 @@ Subsec. (e). Pub. L. 90–207, §2(a)(2)(B), added subsec. (e).
 
 <b>1960</b>—Subsec. (a). Pub. L. 86–559 prohibited recomputation of retired pay under subsec. (a) on the basis of any period of active duty that was of less than six consecutive months' duration or on the basis of any active duty for training for a reserve officer who is or has been retired under section 3911, 6323, or 8911 of this title or under section 232 of title 14.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
@@ -164,7 +168,7 @@ Pub. L. 102–484, div. A, title VI, §642(c), Oct. 23, 1992, 106 Stat. 2425, pr
 
 Pub. L. 98–525, title VI, §655, Oct. 19, 1984, 98 Stat. 2552, provided that:
 
-"(a) Notwithstanding the second sentence of footnote 1 of the table contained in section 1402(a) of title 10,United States Code (relating to recomputation of retired pay to reflect later active duty), in the case of a member of the Armed Forces who—
+"(a) Notwithstanding the second sentence of footnote 1 of the table contained in section 1402(a) of title 10, United States Code (relating to recomputation of retired pay to reflect later active duty), in the case of a member of the Armed Forces who—
 
 &emsp;"(1) was voluntarily called or ordered to active duty during the period beginning on October 1, 1963, and ending on September 30, 1971;
 

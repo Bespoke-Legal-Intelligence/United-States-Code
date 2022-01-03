@@ -12,7 +12,7 @@ For purposes of this part—
 
 &emsp;&emsp;(B) section 904 were applied on the basis of alternative minimum taxable income instead of taxable income, and
 
-&emsp;&emsp;(C) the determination of whether any income is high-taxed income for purposes ofsection 904(d)(2) were made on the basis of the applicable rate specified in section 55(b)(1) in lieu of the highest rate of tax specified in section 1.
+&emsp;&emsp;(C) the determination of whether any income is high-taxed income for purposes of section 904(d)(2) were made on the basis of the applicable rate specified in section 55(b)(1) in lieu of the highest rate of tax specified in section 1.
 
 #### (2) Pre-credit tentative minimum tax
 
@@ -108,7 +108,7 @@ In the case of any estate or trust, the alternative minimum taxable income of su
 
 #### (A) Application of section 1254
 
-&emsp;&emsp;In the case of any disposition of property to which section 1254 applies (determinedwithout regard to this section), any deduction under paragraph (1) with respect to amounts which are allocable to such property shall, for purposes of section 1254, be treated as a deduction allowable under section 263(c), 616(a), or 617(a), whichever is appropriate.
+&emsp;&emsp;In the case of any disposition of property to which section 1254 applies (determined without regard to this section), any deduction under paragraph (1) with respect to amounts which are allocable to such property shall, for purposes of section 1254, be treated as a deduction allowable under section 263(c), 616(a), or 617(a), whichever is appropriate.
 
 #### (B) Application of section 617(d)
 
@@ -157,6 +157,8 @@ For purposes of this subtitle (other than this part), any amount shall not fail 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -255,6 +257,8 @@ Subsec. (h). Pub. L. 100–647, §1007(e)(2), substituted "taxable year with the
 Subsec. (i). Pub. L. 100–647, §1007(e)(4), inserted "(other than this part)" after "of this subtitle" and substituted "subtitle" for "title" before "solely".
 
 Subsec. (j). Pub. L. 100–647, §1014(e)(5)(A), added subsec. (j).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 

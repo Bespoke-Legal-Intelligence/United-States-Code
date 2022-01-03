@@ -148,7 +148,7 @@
 
 #### (C) Action by Advisory Committee
 
-&emsp;&emsp;In the case that the Administrator requests a recommendation of the Advisory Committee under this paragraph, with respect to adding a health condition to the list in paragraph (3), the Advisory Committeeshall submit to the Administrator such recommendation not later than 90 days after the date of such request or by such date (not to exceed 180 days after such date of request) as specified by the Administrator. Not later than 90 days after the date of receipt of such recommendation, the Administrator shall, in accordance with subparagraph (D), publish in the Federal Register a proposed rule with respect to such recommendation or a determination not to propose such a proposed rule and the basis for such determination.
+&emsp;&emsp;In the case that the Administrator requests a recommendation of the Advisory Committee under this paragraph, with respect to adding a health condition to the list in paragraph (3), the Advisory Committee shall submit to the Administrator such recommendation not later than 90 days after the date of such request or by such date (not to exceed 180 days after such date of request) as specified by the Administrator. Not later than 90 days after the date of receipt of such recommendation, the Administrator shall, in accordance with subparagraph (D), publish in the Federal Register a proposed rule with respect to such recommendation or a determination not to propose such a proposed rule and the basis for such determination.
 
 #### (D) Publication
 
@@ -214,7 +214,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If a physician at a Clinical Center of Excellence determines pursuant to subsection\(a) that the enrolled WTC responder has a health condition described in subsection (a)(1)(A) that is not in the list in subsection (a)(3) but which is medically associated with a WTC-related health condition—
+&emsp;&emsp;If a physician at a Clinical Center of Excellence determines pursuant to subsection (a) that the enrolled WTC responder has a health condition described in subsection (a)(1)(A) that is not in the list in subsection (a)(3) but which is medically associated with a WTC-related health condition—
 
 &emsp;&emsp;&emsp;(i) the physician shall promptly transmit such determination to the WTC Program Administrator and provide the Administrator with the facts supporting such determination; and
 
@@ -222,7 +222,7 @@
 
 #### (B) Procedures for review, certification, and appeal
 
-&emsp;&emsp;The WTC Program Administrator shall, by rule, establish procedures for the review and certification of physician determinations under subparagraph (A). Such rule shall provide for—
+&emsp;&emsp;The WTC Program Administrator shall, by rule, establish procedures for the review and certification of physician determinationsunder subparagraph (A). Such rule shall provide for—
 
 &emsp;&emsp;&emsp;(i) the timely review of such a determination by a physician panel with appropriate expertise for the condition and recommendations to the WTC Program Administrator;
 
@@ -284,7 +284,7 @@
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;In no case shall payments for products or services under clause (i) be made at a rate higher than the Office of Worker's Compensation Programs in the Department <sup>1</sup> Labor would pay for such products or services rendered at the time such products or services were provided.
+&emsp;&emsp;&emsp;In no case shall payments for products or services under clause (i) be made at a ratehigher than the Office of Worker's Compensation Programs in the Department <sup>1</sup> Labor would pay for such products or services rendered at the time such products or services were provided.
 
 #### (B) Pharmaceuticals
 
@@ -338,9 +338,11 @@
 
 (July 1, 1944, ch. 373, title XXXIII, §3312, as added Pub. L. 111–347, title I, §101, Jan. 2, 2011, 124 Stat. 3639; amended Pub. L. 114–113, div. O, title III, §302(e), Dec. 18, 2015, 129 Stat. 2999.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Federal Employees Compensation Act, referred to in subsec. (c)(1)(A)(i)(I), is act Sept. 7, 1916, ch. 458,39 Stat. 742. The act was repealed, and the provisions thereof were reenacted as subchapter I (§8101 et seq.) of chapter 81 of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
+The Federal Employees Compensation Act, referred to in subsec. (c)(1)(A)(i)(I), is act Sept. 7, 1916, ch. 458, 39 Stat. 742. The act was repealed, and the provisions thereof were reenacted as subchapter I (§8101 et seq.) of chapter 81 of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
 
 #### Amendments
 

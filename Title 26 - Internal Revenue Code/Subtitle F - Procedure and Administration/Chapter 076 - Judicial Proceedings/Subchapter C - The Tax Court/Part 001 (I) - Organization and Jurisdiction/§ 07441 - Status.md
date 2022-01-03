@@ -4,15 +4,19 @@ There is hereby established, under article I of the Constitution of the United S
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 879; Pub. L. 91–172, title IX, §951, Dec. 30, 1969, 83 Stat. 730; Pub. L. 114–113, div. Q, title IV, §441, Dec. 18, 2015, 129 Stat. 3126.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Pub. L. 114–113 inserted at end "The Tax Court is not an agency of, and shall be independent of, the executive branch of the Government."
 
 <b>1969</b>—Pub. L. 91–172 substituted provisions establishing Tax Court as a Constitutional court, and enumerating the members that comprise its bench, for provisions continuing the Board of Tax Appeals, known as the Tax Court, as an independent agency in the Executive Branch of Government and enumerating the members that comprise its bench.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1969 Amendment
 
-Pub. L. 91–172, title IX, §962(a), Dec. 30, 1969, 83 Stat. 736, provided that: "The amendments made by sections 951, 953, 954(c) and (e), 955, 956, 958, and 960(c), (d), (e), (g), and (j) \[amending this section and sections 7443, 7447, 7448, 7456, 7471, and 7701 of this title\] shall take effect on the date of enactment of this Act \[Dec. 30, 1969\]."
+Pub. L. 91–172, title IX, §962(a), Dec. 30, 1969, 83 Stat. 736, provided that: "The amendments made by sections 951, 953, 954(c) and (e), 955, 956, 958, and 960(c), (d), (e), (g), and (j) \[amending this section and sections 7443,7447, 7448, 7456, 7471, and 7701 of this title\] shall take effect on the date of enactment of this Act \[Dec. 30, 1969\]."
 
 #### Report on Inventory of Cases in Tax Court
 

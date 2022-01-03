@@ -38,7 +38,7 @@ Except as provided in section 1078–3 of this title, a loan by an eligible lend
 
 &emsp;&emsp;(D) provides for interest on the unpaid principal balance of the loan at a yearly rate, not exceeding the applicable maximum rate prescribed in section 1077a of this title, which interest shall be payable in installments over the period of the loan except that, if provided in the note or other written agreement, any interest payable by the student may be deferred until not later than the date upon which repayment of the first installment of principal falls due, in which case interest accrued during that period may be added on that date to the principal;
 
-&emsp;&emsp;(E) provides that the lender will not collect or attempt to collect from the borrower any portion of the interest on the note which is payable by the Secretary under this part, and that the lender will enter into such agreements with the Secretary as may be necessary for the purpose of section 1087 of this title;
+&emsp;&emsp;(E) provides that the lender will not collect or attempt to collect from the borrower any portion of the interest on the notewhich is payable by the Secretary under this part, and that the lender will enter into such agreements with the Secretary as may be necessary for the purpose of section 1087 of this title;
 
 &emsp;&emsp;(F) entitles the student borrower to accelerate without penalty repayment of the whole or any part of the loan;
 
@@ -46,7 +46,7 @@ Except as provided in section 1078–3 of this title, a loan by an eligible lend
 
 &emsp;&emsp;(H) provides that, no more than 6 months prior to the date on which the borrower's first payment on a loan is due, the lender shall offer the borrower the option of repaying the loan in accordance with a graduated or income-sensitive repayment schedule established by the lender and in accordance with the regulations of the Secretary; and
 
-&emsp;&emsp;(I) contains such other terms and conditions, consistent with the provisions of thispart and with the regulations issued by the Secretary pursuant to this part, as may be agreed upon by the parties to such loan, including, if agreed upon, a provision requiring the borrower to pay the lender, in addition to principal and interest, amounts equal to the insurance premiums payable by the lender to the Secretary with respect to such loan;
+&emsp;&emsp;(I) contains such other terms and conditions, consistent with the provisions of this part and with the regulations issued by the Secretary pursuant to this part, as may be agreed upon by the parties to such loan, including, if agreed upon, a provision requiring the borrower to pay the lender, in addition to principal and interest, amounts equal to the insurance premiums payable by the lender to the Secretary with respect to such loan;
 
 &emsp;(3) the funds borrowed by a student are disbursed to the institution by check or other means that is payable to and requires the endorsement or other certification by such student, except—
 
@@ -78,6 +78,8 @@ The lender shall obtain the borrower's driver's license number, if any, at the t
 
 (Pub. L. 89–329, title IV, §427, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1361; amended Pub. L. 100–50, §10(b), (c), June 3, 1987, 101 Stat. 341; Pub. L. 100–369, §§5(b)(1), 7(c), 11(a), July 18, 1988, 102 Stat. 836–838; Pub. L. 101–239, title II, §§2002(a)(1), 2004(b)(2), Dec. 19, 1989, 103 Stat. 2111, 2116; Pub. L. 102–164, title VI, §§601(a), 602(a), Nov. 15, 1991, 105 Stat. 1065, 1066; Pub. L. 102–325, title IV, §414, July 23, 1992, 106 Stat. 513; Pub. L. 103–208, §2(c)(4), Dec. 20, 1993, 107 Stat. 2461; Pub. L. 110–315, title IV, §432(b)(1), Aug. 14, 2008, 122 Stat. 3246; Pub. L. 115–245, div. B, title III, §309(b), Sept. 28, 2018, 132 Stat. 3106.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1077, Pub. L. 89–329, title IV, §427, Nov. 8, 1965, 79 Stat. 1238; Pub. L. 89–794, title XI, §1101(b)(1), Nov. 8, 1966, 80 Stat. 1476; Pub. L. 90–460, §2(a)(1), Aug. 3, 1968, 82 Stat. 635; Pub. L. 90–575, title I, §§113(b)(2), 116(b)(2), 117(c), 120(c)(2), Oct. 16, 1968, 82 Stat. 1021, 1023, 1026, 1027; Pub. L. 92–318, title I, §§132B(b), 132C(c), June 23, 1972, 86 Stat. 262, 263; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2106; Pub. L. 95–43, §1(a)(9), (18), June 15, 1977, 91 Stat. 213, 214; Pub. L. 95–566, §5(a)(1), Nov. 1, 1978, 92 Stat. 2403; Pub. L. 96–374, title IV, §§413(a), (c), 415(a)(2), (b)(1), 416(a)(2), 423(a)(1), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1417–1421, 1432, 1503; Pub. L. 97–35, title V, §537(b)(1), (d)(2), (e)(1), Aug. 13, 1981, 95 Stat. 456, 457; Pub. L. 98–79, §10\[(a)\], Aug. 15, 1983, 97 Stat. 484; Pub. L. 99–272, title XVI, §§16012(a), 16013(b), 16017(b)(1), Apr. 7, 1986, 100 Stat. 339, 340, 347, set out conditions for Federal loan insurance, prior to the general revision of this part by Pub. L. 99–498.
@@ -94,7 +96,7 @@ Subsec. (a)(2)(G)(ii). Pub. L. 110–315, §432(b)(1)(B), substituted "consumer 
 
 <b>1992</b>—Subsec. (a)(2)(A). Pub. L. 102–325, §414(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "is made without security and without endorsement, except that prior to making a loan insurable by the Secretary under this part a lender shall—
 
-&emsp;"(i) obtain a credit report, from at least one national credit bureau organization, with respect to a loan applicant who will be at least 21 years of age as of July 1 of the award year for which assistance is being sought, for which the lender may charge the applicant an amount not to exceed the lesser of $25 or the actual cost of obtaining the credit report; and
+&emsp;"(i) obtain a credit report, from at least one national credit bureau organization, with respect to aloan applicant who will be at least 21 years of age as of July 1 of the award year for which assistance is being sought, for which the lender may charge the applicant an amount not to exceed the lesser of $25 or the actual cost of obtaining the credit report; and
 
 &emsp;"(ii) require an applicant of the age specified in clause (i) who, in the judgment of the lender in accordance with the regulations of the Secretary, has an adverse credit history, to obtain a credit worthy cosigner in order to obtain the loan, provided that, for purposes of this clause, an insufficient or nonexistent credit history may not be considered to be an adverse credit history;".
 
@@ -104,7 +106,7 @@ Subsec. (a)(2)(G) to (I). Pub. L. 102–325, §414(c)(1), struck out "and" at en
 
 Subsec. (a)(3). Pub. L. 102–325, §414(d), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "the funds borrowed by a student are disbursed to the institution by check or other means that is payable to and requires the endorsement or other certification by such student, except nothing in this subchapter shall be interpreted to allow the Secretary to require checks to be made co-payable to the institution and the borrower or to prohibit the disbursement of loan proceeds by means other than by check; and".
 
-Subsec. (c). Pub. L. 102–325, §414(c)(2), (e), substituted "Special repayment rules" for "Minimum repaymentrate" in heading and in text "Except as provided in subsection (a)(2)(H), the total" for "The total" and "(but in no instance less than the amount of interest due and payable)" for ", except that in the case of a husband and wife, both of whom have such loans outstanding, the total of the combined payments for such a couple during any year shall not be less than $600 or the balance of all such loans, whichever is less".
+Subsec. (c). Pub. L. 102–325, §414(c)(2), (e), substituted "Special repayment rules" for "Minimum repayment rate" in heading and in text "Except as provided in subsection (a)(2)(H), the total" for "The total" and "(but in no instance less than the amount of interest due and payable)" for ", except that in the case of a husband and wife, both of whom have such loans outstanding, the total of the combined payments for such a couple during any year shall not be less than $600 or the balance of all such loans, whichever is less".
 
 <b>1991</b>—Subsec. (a)(2)(A). Pub. L. 102–164, §601(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "is made without security and without endorsement, except that if the borrower is a minor and such note or other written agreement executed by the borrower would not, under the applicable law, create a binding obligation, endorsement may be required;".
 
@@ -125,6 +127,8 @@ Subsec. (b)(2). Pub. L. 100–369, §5(b)(1), substituted "section 1078–2 or 1
 Subsec. (a)(2)(C)(vii). Pub. L. 100–50, §10(b)(2), inserted "or serving in an internship or residency program leading to a degree or certificate awarded by an institution of higher education, a hospital, or a health care facility that offers postgraduate training" before semicolon at end.
 
 Subsec. (a)(4). Pub. L. 100–50, §10(c), substituted "$1,000 or more" for "more than $1,000".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

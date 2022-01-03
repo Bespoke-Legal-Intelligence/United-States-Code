@@ -66,6 +66,8 @@ The Secretary may abate the penalty imposed by subsection (a) with respect to th
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 826; Pub. L. 91–172, title IX, §943(b), Dec. 30, 1969, 83 Stat. 728; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–34, title VII, §724(a), (b)(1), (3), Aug. 13, 1981, 95 Stat. 344, 345; Pub. L. 99–509, title VIII, §8001(a), Oct. 21, 1986, 100 Stat. 1951; Pub. L. 101–239, title VII, §7742(a), Dec. 19, 1989, 103 Stat. 2405; Pub. L. 104–168, title III, §304(a), title VII, §701(c)(3), July 30, 1996, 110 Stat. 1458, 1464; Pub. L. 105–206, title III, §3304(a)–(c), July 22, 1998, 112 Stat. 742.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Subsec. (c)(2). Pub. L. 105–206, §3304(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "such failure occurs during the 1st quarter that such person was required to deposit any employment tax, and".
@@ -93,6 +95,8 @@ Subsec. (b). Pub. L. 97–34, §724(a), substituted provisions relating to condi
 <b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
 <b>1969</b>—Subsec. (a). Pub. L. 91–172 substituted provisions imposing a penalty of five percent for the failure to deposit on the date prescribed any amount of tax imposed by this title, for provisions imposing a penalty of one percent of the amount of underpayment each month but not to exceed six percent in the aggregate.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

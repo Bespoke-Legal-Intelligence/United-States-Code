@@ -8,6 +8,8 @@ Subpart E—Registration of and Information Concerning Pension, Etc., Plans
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1974</b>—Pub. L. 93–406, title II, §1031(a), Sept. 2, 1974, 88 Stat. 943, added subpart heading and analysis of sections.

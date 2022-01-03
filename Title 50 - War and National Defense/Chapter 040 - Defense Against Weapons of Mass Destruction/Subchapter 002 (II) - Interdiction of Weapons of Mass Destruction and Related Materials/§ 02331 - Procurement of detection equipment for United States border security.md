@@ -10,6 +10,8 @@ Of the amount authorized to be appropriated by section 301,<sup>1</sup> $15,000,
 
 (Pub. L. 104–201, div. A, title XIV, §1421, Sept. 23, 1996, 110 Stat. 2725.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 301, referred to in text, is section 301 of Pub. L. 104–201, div. A, title III, Sept. 23, 1996, 110 Stat. 2475, which is not classified to the Code.

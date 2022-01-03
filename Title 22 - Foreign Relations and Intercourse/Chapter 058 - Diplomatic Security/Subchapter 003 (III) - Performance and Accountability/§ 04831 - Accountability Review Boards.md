@@ -10,15 +10,15 @@
 
 &emsp;The Secretary of State is not required to convene a Board in the case of an incident described in paragraph (1) that involves any facility, installation, or personnel of the Department of Defense with respect to which the Secretary has delegated operational control of overseas security functions to the Secretary of Defense pursuant to section 4805 of this title. In any such case, the Secretary of Defense shall conduct an appropriate inquiry. The Secretary of Defense shall report the findings and recommendations of such inquiry, and the action taken with respect to such recommendations, to the Secretary of State and Congress.
 
-#### (3) Facilities in Afghanistan and Iraq
+#### (3) Facilities in Afghanistan, Yemen, Syria, and Iraq
 
 #### (A) Limited exemptions from requirement to convene Board
 
 &emsp;&emsp;The Secretary of State is not required to convene a Board in the case of an incident that—
 
-&emsp;&emsp;&emsp;(i) involves serious injury, loss of life, or significant destruction of property at, or related to, a United States Government mission in Afghanistan or Iraq; and
+&emsp;&emsp;&emsp;(i) involves serious injury, loss of life, or significant destruction of property at, or related to, a United States Government mission in Afghanistan, Yemen, Syria, or Iraq; and
 
-&emsp;&emsp;&emsp;(ii) occurs during the period beginning on October 1, 2005, and ending on September 30, 2009.
+&emsp;&emsp;&emsp;(ii) occurs during the period beginning on October 1, 2020, and ending on September 30, 2022.
 
 #### (B) Reporting requirements
 
@@ -50,7 +50,7 @@ Whenever the Secretary of State convenes a Board, the Secretary shall promptly i
 
 &emsp;(3) of other appropriate information about the Board.
 
-(Pub. L. 99–399, title III, §301, Aug. 27, 1986, 100 Stat. 859; Pub. L. 100–204, title I, §156(a), Dec. 22, 1987, 101 Stat. 1354; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VI, §608\], Nov. 29, 1999, 113 Stat. 1536, 1501A–458; Pub. L. 109–140, §3, Dec. 22, 2005, 119 Stat. 2650.)
+(Pub. L. 99–399, title III, §301, Aug. 27, 1986, 100 Stat. 859; Pub. L. 100–204, title I, §156(a), Dec. 22, 1987, 101 Stat. 1354; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VI, §608\], Nov. 29, 1999, 113 Stat. 1536, 1501A–458; Pub. L. 109–140, §3, Dec. 22, 2005, 119 Stat. 2650; Pub. L. 117–81, div. E, title LIII, §5316, Dec. 27, 2021, 135 Stat. 2366.)
 
 #### <b>Editorial Notes</b>
 
@@ -59,6 +59,12 @@ Whenever the Secretary of State convenes a Board, the Secretary shall promptly i
 This chapter, referred to in subsec. (a)(1), was in the original "titles I through IV", meaning titles I through IV of Pub. L. 99–399, Aug. 27, 1986, 100 Stat. 855, known as the Diplomatic Security Act, which is classified principally to this chapter. For complete classification of titles I through IV of Pub. L. 99–399 to the Code, see Short Title note set out under section 4801 of this title and Tables.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(3). Pub. L. 117–81, §5316(1), substituted "Afghanistan, Yemen, Syria, and" for "Afghanistan and" in heading.
+
+Subsec. (a)(3)(A)(i). Pub. L. 117–81, §5316(2)(A), substituted "Afghanistan, Yemen, Syria, or" for "Afghanistan or".
+
+Subsec. (a)(3)(A)(ii). Pub. L. 117–81, §5316(2)(B), substituted "beginning on October 1, 2020, and ending on September 30, 2022" for "beginning on October 1, 2005, and ending on September 30, 2009".
 
 <b>2005</b>—Subsec. (a)(1). Pub. L. 109–140, §3(1), substituted "paragraphs (2) and (3)" for "paragraph (2)".
 
@@ -76,7 +82,7 @@ Committee on International Relations of House of Representatives changed to Comm
 
 #### Continuation of Review Boards for Facilities in Afghanistan and Iraq
 
-Pub. L. 116–260, div. K, title VII, §7034(l)(7), Dec. 27, 2020, 134 Stat. 1750, provided that: "The authority provided by section 301(a)(3) of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 (22 U.S.C. 4831(a)(3)) shall remain in effect for facilities in Afghanistan through September 30, 2021, except that the notification and reporting requirements contained in suchsection shall include the Committees on Appropriations."
+Pub. L. 116–260, div. K, title VII, §7034(l)(7), Dec. 27, 2020, 134 Stat. 1750, provided that: "The authority provided by section 301(a)(3) of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 (22 U.S.C. 4831(a)(3)) shall remain in effect for facilities in Afghanistan through September 30, 2021, except that the notification and reporting requirements contained in such section shall include the Committees on Appropriations."
 
 Prior continuations were contained in the following prior acts:
 

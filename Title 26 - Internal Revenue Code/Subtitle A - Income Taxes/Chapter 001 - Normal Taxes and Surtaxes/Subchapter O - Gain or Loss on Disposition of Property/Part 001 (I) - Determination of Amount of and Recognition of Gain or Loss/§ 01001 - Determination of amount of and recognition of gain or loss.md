@@ -42,6 +42,8 @@ Nothing in this section shall be construed to prevent (in the case of property s
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 295; Pub. L. 91–172, title II, §231(c)(2), title V, §516(a), Dec. 30, 1969, 83 Stat. 579, 646; Pub. L. 94–455, title XIX, §1901(a)(121), Oct. 4, 1976, 90 Stat. 1784; Pub. L. 95–600, title VII, §702(c)(9), Nov. 6, 1978, 92 Stat. 2928; Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299; Pub. L. 98–369, div. A, title IV, §421(b)(4), July 18, 1984, 98 Stat. 794; Pub. L. 103–66, title XIII, §13213(a)(2)(E), Aug. 10, 1993, 107 Stat. 474.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1993</b>—Subsec. (f). Pub. L. 103–66 struck out heading and text of subsec. (f). Text read as follows: "For treatment of certain expenses incident to the sale of a residence which were deducted as moving expenses by the taxpayer or his spouse under section 217(a), see section 217(e)."
@@ -57,6 +59,8 @@ Nothing in this section shall be construed to prevent (in the case of property s
 <b>1969</b>—Subsec. (e). Pub. L. 91–172, §516(a), added subsec. (e).
 
 Subsec. (f). Pub. L. 91–172, §231(c)(2), added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1993 Amendment
 

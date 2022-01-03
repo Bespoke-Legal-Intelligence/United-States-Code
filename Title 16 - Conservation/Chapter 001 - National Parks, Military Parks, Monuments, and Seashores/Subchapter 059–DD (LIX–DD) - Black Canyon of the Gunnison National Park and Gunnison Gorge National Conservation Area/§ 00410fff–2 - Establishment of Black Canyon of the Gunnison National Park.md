@@ -8,7 +8,7 @@
 
 #### (b) Administration
 
-Upon enactment of this subchapter, the Secretary shall transfer the lands under the jurisdiction of the Bureau of Land Management which are identified on the map for inclusion in the park <sup>1</sup> to the administrative jurisdiction of the National Park Service. The Secretary shall administer the park <sup>1</sup> in accordance with this subchapter and laws generally applicable to units of the National Park System, including the Act entitled "An Act to establish a National Park Service, and for other purposes", approved August 25, 1916 (16 U.S.C. 1, 2–4),<sup>2</sup> and the Act entitled "An Act to provide for the preservation of historic American sites, buildings, objects, andantiquities of national significance, and for other purposes,<sup>3</sup> approved August 21, 1935 (16 U.S.C. 461 et seq.).<sup>2</sup>
+Upon enactment of this subchapter, the Secretary shall transfer the lands under the jurisdiction of the Bureau of Land Management which are identified on the map for inclusion in the park <sup>1</sup> to the administrative jurisdiction of the National Park Service. The Secretary shall administer the park <sup>1</sup> in accordance with this subchapter and laws generally applicable to units of the National Park System, including the Act entitled "An Act to establish a National Park Service, and for other purposes", approved August 25, 1916 (16 U.S.C. 1, 2–4),<sup>2</sup> and the Act entitled "An Act to provide for the preservation of historic American sites, buildings, objects, and antiquities of national significance, and for other purposes,<sup>3</sup> approved August 21, 1935 (16 U.S.C. 461 et seq.).<sup>2</sup>
 
 #### (c) Maps and legal description
 
@@ -36,11 +36,13 @@ Subject to valid existing rights, all Federal lands within the park <sup>1</sup
 
 &emsp;(B) with respect to the permit or lease issued to LeValley Ranch Ltd., for the lifetime of the last surviving limited partner as of October 21, 1999;
 
-&emsp;(C) with respect to the permit or lease issued to Sanburg Herefords, L.L.P., for the lifetime of the last surviving general partner as of October 21, 1999; and
+&emsp;(C) with respect to the permit or lease issued to Sanburg Herefords, L.L.P., for the lifetimeof the last surviving general partner as of October 21, 1999; and
 
 &emsp;(D) with respect to a permit or lease issued to a corporation or other legal entity, for a period which shall terminate on the same date that the last permit or lease held under subparagraphs (A), (B), or (C) terminates, unless the corporation or legal entity dissolves or terminates before such time, in which case the permit or lease shall terminate with the corporation or legal entity.
 
 (Pub. L. 106–76, §4, Oct. 21, 1999, 113 Stat. 1127; Pub. L. 108–128, §§2(a), 4, Nov. 17, 2003, 117 Stat. 1355, 1356.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -54,7 +56,7 @@ The Wilderness Act, referred to in subsec. (e)(2), is Pub. L. 88–577, Sept. 3,
 
 #### Codification
 
-Section 4 of Pub. L. 108–128, which directed the amendment of section 4 of the "Black Canyon of theGunnison National Park and Gunnison Gorge National Area Act of 1999", was executed to this section, which is section 4 of the Black Canyon of the Gunnison National Park and Gunnison Gorge National Conservation Area Act of 1999, to reflect the probable intent of Congress. See 2003 Amendment notes below.
+Section 4 of Pub. L. 108–128, which directed the amendment of section 4 of the "Black Canyon of the Gunnison National Park and Gunnison Gorge National Area Act of 1999", was executed to this section, which is section 4 of the Black Canyon of the Gunnison National Park and Gunnison Gorge National Conservation Area Act of 1999, to reflect the probable intent of Congress. See 2003 Amendment notes below.
 
 #### Amendments
 
@@ -63,6 +65,8 @@ Section 4 of Pub. L. 108–128, which directed the amendment of section 4 of the
 Subsec. (e)(1)(D). Pub. L. 108–128, §4(a), added subpar. (D). See Codification note above.
 
 Subsec. (e)(3). Pub. L. 108–128, §4(b), added subpars. (B) and (C), redesignated former subpar. (B) as (D), and, in subpar. (D), substituted "corporation or" for "partnership, corporation, or" in three places and "subparagraphs (A), (B), or (C)" for "subparagraph (A)". See Codification note above.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

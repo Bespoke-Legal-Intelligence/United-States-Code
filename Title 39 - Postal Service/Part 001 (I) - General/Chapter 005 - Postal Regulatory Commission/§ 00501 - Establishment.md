@@ -98,5 +98,5 @@ Report.—The Commission shall report the results of its examination to the Post
 
 "(b)
 
-Failure to Act.—If the Postal Service fails to act on the recommendations of the Commission, the Commission may take such action as it determines necessary to prevent abuse of rates or deception of consumers."
+Failure to Act.—If the Postal Service fails to act on the recommendations of the Commission, theCommission may take such action as it determines necessary to prevent abuse of rates or deception of consumers."
 

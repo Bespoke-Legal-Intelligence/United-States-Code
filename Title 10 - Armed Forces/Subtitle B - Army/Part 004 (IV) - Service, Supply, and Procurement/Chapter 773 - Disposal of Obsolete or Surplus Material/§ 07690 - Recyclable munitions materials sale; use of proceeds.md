@@ -20,6 +20,8 @@ Regulations.—The Secretary shall prescribe regulations to carry out the progra
 
 (Added Pub. L. 109–364, div. A, title III, §353(a), Oct. 17, 2006, 120 Stat. 2161, §4690; renumbered §7690, Pub. L. 115–232, div. A, title VIII, §808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Solid Waste Disposal Act, referred to in subsec. (d), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
@@ -27,6 +29,8 @@ The Solid Waste Disposal Act, referred to in subsec. (d), is title II of Pub. L.
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4690 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

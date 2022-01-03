@@ -24,6 +24,8 @@ July 16, 1952, ch. 882, §2, 66 Stat. 725.
 
 The words "appointment or" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–106 struck out subsec. (a) heading "Waiver of employment restrictions for certain personnel", designated subsec. (a) as entire section, and struck out subsec. (b) which read as follows: "
@@ -39,6 +41,8 @@ Notice to Congress of Certain Salary Increases.—The Secretary of Defense shall
 Pub. L. 101–510, §1481(d)(1), (2), substituted "Employment of non-citizens" for "Laws relating to employment of non-citizens: not applicable to research and development activities" in section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsec. (b).
 
 <b>1982</b>—Pub. L. 97–295 substituted "pay" for "compensation".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

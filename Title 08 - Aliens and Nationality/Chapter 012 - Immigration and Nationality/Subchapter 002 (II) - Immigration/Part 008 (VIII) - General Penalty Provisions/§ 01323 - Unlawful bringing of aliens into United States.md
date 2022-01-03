@@ -24,7 +24,7 @@ A fine under this section may be reduced, refunded, or waived under such regulat
 
 &emsp;(2) circumstances exist that the Attorney General determines would justify such reduction, refund, or waiver.
 
-(June 27, 1952, ch. 477, title II, ch. 8, §273, 66 Stat. 227; Pub. L. 101–649, title II, §201(b), title V,§543(a)(10), Nov. 29, 1990, 104 Stat. 5014, 5058; Pub. L. 102–232, title III, §306(c)(4)(D), Dec. 12, 1991, 105 Stat. 1752; Pub. L. 103–416, title II, §§209(a), 216, 219(p), Oct. 25, 1994, 108 Stat. 4312, 4315, 4317; Pub. L. 104–208, div. C, title III, §§308(c)(3), (e)(13), 371(b)(8), title VI, §671(b)(6), (7), Sept. 30, 1996, 110 Stat. 3009–616, 3009–620, 3009–645, 3009–722.)
+(June 27, 1952, ch. 477, title II, ch. 8, §273, 66 Stat. 227; Pub. L. 101–649, title II, §201(b), title V, §543(a)(10), Nov. 29, 1990, 104 Stat. 5014, 5058; Pub. L. 102–232, title III, §306(c)(4)(D), Dec. 12, 1991, 105 Stat. 1752; Pub. L. 103–416, title II, §§209(a), 216, 219(p), Oct. 25, 1994, 108 Stat. 4312, 4315, 4317; Pub. L. 104–208, div. C, title III, §§308(c)(3), (e)(13), 371(b)(8), title VI, §671(b)(6), (7), Sept. 30, 1996, 110 Stat. 3009–616, 3009–620, 3009–645, 3009–722.)
 
 #### <b>Editorial Notes</b>
 
@@ -92,7 +92,7 @@ Amendment by Pub. L. 102–232 effective as if included in the enactment of the 
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 543(a)(10) of Pub. L. 101–649 applicable to actions taken after Nov. 29, 1990, see section543(c) of Pub. L. 101–649, set out as a note under section 1221 of this title.
+Amendment by section 543(a)(10) of Pub. L. 101–649 applicable to actions taken after Nov. 29, 1990, see section 543(c) of Pub. L. 101–649, set out as a note under section 1221 of this title.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

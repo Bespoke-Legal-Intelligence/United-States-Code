@@ -4,6 +4,8 @@ The purpose of this subchapter is to provide all children significant opportunit
 
 (Pub. L. 89–10, title I, §1001, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1439; amended Pub. L. 114–95, title I, §1001, Dec. 10, 2015, 129 Stat. 1814.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 6301, Pub. L. 89–10, title I, §1001, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519, declared policy and stated purpose of this subchapter, prior to the general amendment of this subchapter by Pub. L. 107–110.
@@ -15,6 +17,8 @@ Another prior section 1001 of Pub. L. 89–10 was renumbered section 9001 and wa
 #### Amendments
 
 <b>2015</b>—Pub. L. 114–95 amended section generally. Prior to amendment, section set forth purpose of subchapter and included provisions relating to how this purpose could be accomplished.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 
@@ -266,7 +270,7 @@ Pub. L. 107–110, §4, Jan. 8, 2002, 115 Stat. 1426, provided that:
 
 "(a)
 
-Multi-Year Awards.—Except as otherwise provided in this Act \[see Tables for classification\], the recipient of a multi-year award under the Elementary and Secondary Education Act of 1965 \[Pub. L. 89–10, 20 U.S.C. 6301 et seq., prior to general amendment by Pub. L. 107–110\], as that Act was in effect prior to the date of enactment of this Act \[Jan. 8, 2002\], shall continue to receive funds in accordance with the terms of thataward, except that no additional funds may be awarded after September 30, 2002.
+Multi-Year Awards.—Except as otherwise provided in this Act \[see Tables for classification\], the recipient of a multi-year award under the Elementary and Secondary Education Act of 1965 \[Pub. L. 89–10, 20 U.S.C. 6301 et seq., prior to general amendment by Pub. L. 107–110\], as that Act was in effect prior to the date of enactment of this Act \[Jan. 8, 2002\], shall continue to receive funds in accordance with the terms of that award, except that no additional funds may be awarded after September 30, 2002.
 
 "(b)
 
@@ -283,6 +287,12 @@ Pub. L. 103–382, §3(b), Oct. 20, 1994, 108 Stat. 3519, provided that: "Notwit
 Pub. L. 103–382, title V, §561, Oct. 20, 1994, 108 Stat. 4058, provided that: "Any authority or requirement to make funds available under this Act \[see Tables for classification\] shall be effective only to the extent provided in appropriations Acts."
 
 Pub. L. 100–297, title VI, §6302, Apr. 28, 1988, 102 Stat. 431, provided that: "Any new spending authority (within the meaning of section 401 of the Congressional Budget Act of 1974 \[2 U.S.C. 651\]) which is provided under this Act \[see Tables for classification\] shall be effective for any fiscal year only to the extent or in such amounts as are provided in appropriation Acts."
+
+#### Definitions
+
+Pub. L. 100–297, title VI, §6301, Apr. 28, 1988, 102 Stat. 431, provided that: "Except as otherwise provided, for the purpose of this Act \[see Tables for classification\] the terms used in this Act have the meanings provided under section 1471 of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 \[formerly 20 U.S.C. 2891\]."
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13153. Actions To Improve Low-Performing Schools
 
@@ -318,7 +328,7 @@ Sec. 2. <i>Technical Assistance and Capacity Building</i>. (a) The Secretary of 
 
 &emsp;(12) taking other steps that can help improve the quality of teaching and instruction in low-performing schools.
 
-(b) The Secretary shall, to the extent permitted by law, take whatever steps the Secretary finds necessary and appropriate to redirect the resources and technical assistance capability of the Department of Education\("Department") to assist States and localities in improving low-performing schools, and to ensure that the dissemination of research to help turn around low-performing schools is a priority of the Department.
+(b) The Secretary shall, to the extent permitted by law, take whatever steps the Secretary finds necessary and appropriate to redirect the resources and technical assistance capability of the Department of Education ("Department") to assist States and localities in improving low-performing schools, and to ensure that the dissemination of research to help turn around low-performing schools is a priority of the Department.
 
 Sec. 3. <i>School Improvement Report</i>. To monitor the progress of LEAs and schools in turning around failing schools, including those receiving grants from the School Improvement Fund, the Secretary shall prepare an annual School Improvement Report, to be published in September of each year, beginning in 2000. The report shall:
 
@@ -341,8 +351,4 @@ Sec. 5. <i>Consultation</i>. The Secretary shall, where appropriate, consult wit
 Sec. 6. <i>Judicial Review</i>. This order is intended only to improve the internal management of the executive branch and is not intended to, and does not create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Definitions
-
-Pub. L. 100–297, title VI, §6301, Apr. 28, 1988, 102 Stat. 431, provided that: "Except as otherwise provided, for the purpose of this Act \[see Tables for classification\] the terms used in this Act have the meanings provided under section 1471 of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 \[formerly 20 U.S.C. 2891\]."
 

@@ -80,7 +80,9 @@
 
 &emsp;The full faith and credit of the United States is pledged to the payment of all amounts which may be required to be paid under the provisions of section 1080 or 1087 of this title.
 
-(Pub. L. 89–329, title IV, §425, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1359; amended Pub. L. 100–50, §10(a), June 3, 1987, 101 Stat. 341; Pub. L. 102–325, title IV, §413, July 23, 1992, 106 Stat. 512; Pub. L. 103–208, §2(c)(2), (3), Dec. 20, 1993, 107 Stat. 2460, 2461; Pub. L. 105–244, title IV, §415, Oct. 7, 1998, 112 Stat. 1679; Pub. L. 109–171, title VIII, §8005(a), Feb. 8, 2006, 120 Stat. 158.)
+(Pub. L. 89–329, title IV, §425, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1359; amended Pub. L. 100–50, §10(a), June 3, 1987,101 Stat. 341; Pub. L. 102–325, title IV, §413, July 23, 1992, 106 Stat. 512; Pub. L. 103–208, §2(c)(2), (3), Dec. 20, 1993, 107 Stat. 2460, 2461; Pub. L. 105–244, title IV, §415, Oct. 7, 1998, 112 Stat. 1679; Pub. L. 109–171, title VIII, §8005(a), Feb. 8, 2006, 120 Stat. 158.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -88,7 +90,7 @@ Section 1078–1 of this title, referred to in subsec. (a)(2)(A), was repealed b
 
 #### Prior Provisions
 
-A prior section 1075, Pub. L. 89–329, title IV, §425, Nov. 8, 1965, 79 Stat. 1238; Pub. L. 90–575, title I, §§116(b)(1),120(a)(2), Oct. 16, 1968, 82 Stat. 1023, 1027; Pub. L. 92–318, title I, §§132A(a), 132B(a), June 23, 1972, 86 Stat. 261, 262; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2104; Pub. L. 95–43, §1(a)(15)–(17), June 15, 1977, 91 Stat. 214; Pub. L. 95–566, §5(b)(2), Nov. 1, 1978, 92 Stat. 2403; Pub. L. 96–374, title IV, §412(a), (b), (f), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1416, 1417, 1503; Pub. L. 97–35, title V, §535(a), (b), Aug. 13, 1981, 95 Stat. 455; Pub. L. 99–272, title XVI, §16013(e)(1), Apr. 7, 1986, 100 Stat. 341, limited Federal loan insurance, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1075, Pub. L. 89–329, title IV, §425, Nov. 8, 1965, 79 Stat. 1238; Pub. L. 90–575, title I, §§116(b)(1), 120(a)(2), Oct. 16, 1968, 82 Stat. 1023, 1027; Pub. L. 92–318, title I, §§132A(a), 132B(a), June 23, 1972, 86 Stat. 261, 262; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2104; Pub. L. 95–43, §1(a)(15)–(17), June 15, 1977, 91 Stat. 214; Pub. L. 95–566, §5(b)(2), Nov. 1, 1978, 92 Stat. 2403; Pub. L. 96–374, title IV, §412(a), (b), (f), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1416, 1417, 1503; Pub. L. 97–35, title V, §535(a), (b), Aug. 13, 1981, 95 Stat. 455; Pub. L. 99–272, title XVI, §16013(e)(1), Apr. 7, 1986, 100 Stat. 341, limited Federal loan insurance, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 
@@ -146,6 +148,8 @@ Subsec. (a)(2)(A). Pub. L. 102–325, §413(2), added cls. (i) and (ii) and conc
 
 Subsec. (a)(2)(A)(ii). Pub. L. 100–50, §10(a)(2), inserted ", excluding loans made under section 1078–1 or 1078–2 of this title" after "graduate or professional student)".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2006 Amendment
 
 Pub. L. 109–171, title VIII, §8005(e), Feb. 8, 2006, 120 Stat. 159, provided that: "The amendments made by subsections (a), (b), and (d) \[amending this section and sections 1078 and 1078–8 of this title\] shall be effective July 1, 2007."
@@ -164,7 +168,7 @@ Amendment by Pub. L. 102–325 effective July 23, 1992, with changes made in sub
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986,Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
 
 #### Effective Date
 

@@ -10,11 +10,13 @@ The Secretary may from time to time make such regulations as he may find necessa
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 830; Pub. L. 92–310, title II, §230(a), June 6, 1972, 86 Stat. 209; Pub. L. 94–455, title XIX, §1906(a)(37), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1829, 1834.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–455 redesignated subsec. (b)(1) as (a), substituted "paragraph (2)" for "paragraph (2) or (3)", and struck out "or his delegate" after "Secretary" wherever appearing.
 
-Subsec. (b). Pub. L. 94–455 redesignated par. (2) as entire subsection, struck out "or his delegate" after"Secretary" and substituted "paragraph (2)" for "paragraphs (2) and (3)". Par. (1) redesignated subsec. (a).
+Subsec. (b). Pub. L. 94–455 redesignated par. (2) as entire subsection, struck out "or his delegate" after "Secretary" and substituted "paragraph (2)" for "paragraphs (2) and (3)". Par. (1) redesignated subsec. (a).
 
 <b>1972</b>—Subsec. (a). Pub. L. 92–310 repealed subsec. (a) which related to bonds, deposits of receipts, and accounts of postmasters, and which required the Postmaster General to transfer all receipts to the Treasury.
 

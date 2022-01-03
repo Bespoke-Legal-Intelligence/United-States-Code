@@ -2,7 +2,7 @@
 
 Records containing the identity of individual youths pursuant to this chapter may under no circumstances be disclosed or transferred to any individual or to any public or private agency.
 
-(Pub. L. 93–415, title III, §384, formerly §321, Sept. 7, 1974, 88 Stat. 1132; Pub. L. 95–115, §7(b), Oct. 3, 1977, 91 Stat. 1058; renumbered §363, Pub. L. 100–690, title VII, §7273(e)(2), Nov. 18, 1988, 102 Stat. 4455; renumbered §383, Pub. L. 102–586, §3(g)(1)(A)(ii), Nov. 4, 1992, 106 Stat. 5022; renumbered §384, Pub. L. 106–71, §3(q), Oct. 12, 1999, 113 Stat. 1042.)
+(Pub. L. 93–415, title III, §384, formerly §321, Sept. 7, 1974, 88 Stat. 1132; Pub. L. 95–115, §7(b), Oct. 3, 1977, 91 Stat. 1058; renumbered §363, Pub. L. 100–690, title VII, §7273(e)(2), Nov. 18, 1988, 102Stat. 4455; renumbered §383, Pub. L. 102–586, §3(g)(1)(A)(ii), Nov. 4, 1992, 106 Stat. 5022; renumbered §384, Pub. L. 106–71, §3(q), Oct. 12, 1999, 113 Stat. 1042.)
 
 #### <b>Editorial Notes</b>
 

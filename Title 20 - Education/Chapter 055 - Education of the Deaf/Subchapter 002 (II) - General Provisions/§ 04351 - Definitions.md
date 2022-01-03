@@ -24,6 +24,8 @@ As used in this chapter—
 
 (Pub. L. 99–371, title II, §201, formerly title IV, §401, Aug. 4, 1986, 100 Stat. 789; renumbered title II, §201, and amended Pub. L. 102–421, title I, §§101(b)(5), (6), 131, 151(a)(3), (b), Oct. 16, 1992, 106 Stat. 2151, 2155, 2164; Pub. L. 103–73, title II, §204(a), Aug. 11, 1993, 107 Stat. 734; Pub. L. 105–244, title IX, §915, Oct. 7, 1998, 112 Stat. 1830.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 201 of Pub. L. 99–371 was renumbered section 111 and is classified to section 4331 of this title.
@@ -38,7 +40,7 @@ Par. (5). Pub. L. 105–244, §915(2), inserted "and" after "Virgin Islands," an
 
 <b>1993</b>—Pub. L. 103–73 substituted "and" for "or" at end of par. (1)(B), redesignated pars. (4) and (6) to (9) as (3) to (7), respectively, and struck out former pars. (3) and (5) which defined "elementary school" and "secondary school", respectively.
 
-<b>1992</b>—Par. (1). Pub. L. 102–421, §131(1), added par. (1) and struck out former par. (1) which read as follows: "The term 'Board of Trustees' means (unless the context requires otherwise) the Board of Trustees of Gallaudet University established under section 4303 of this title."
+<b>1992</b>—Par. (1). Pub. L. 102–421, §131(1), added par. (1) and struck out former par. (1) which read as follows:"The term 'Board of Trustees' means (unless the context requires otherwise) the Board of Trustees of Gallaudet University established under section 4303 of this title."
 
 Par. (2). Pub. L. 102–421, §151(b)(1), substituted "therein" for "thereof".
 
@@ -53,6 +55,8 @@ Pars. (5), (6). Pub. L. 102–421, §131(2)(B), redesignated pars. (6) and (7) a
 Par. (7). Pub. L. 102–421, §131(2)(B), (3), redesignated par. (8) as (7) and substituted "the Commonwealth of the Northern Mariana Islands, and Palau (but only until the Compact of Free Association with Palau takes effect)." for "the Northern Mariana Islands and the Trust Territory of the Pacific Islands.". Former par. (7) redesignated (6).
 
 Pars. (8), (9). Pub. L. 102–421, §131(2)(B), (4), added pars. (8) and (9) and redesignated former par. (8) as (7).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

@@ -4,10 +4,17 @@
 | :--- | ---: |
 | [201\.](%C2%A7%2000201%20-%20Certain%20intelligence%20officials%20consultation%20and%20concurrence%20regarding%20appointments%3B%20evaluation%20of%20performance.md) | Certain intelligence officials: consultation and concurrence regarding appointments; evaluation of performance. |
 | \[202, 203. | Repealed.\] |
-| [204\.](%C2%A7%2000204%20-%20Small%20Business%20Ombudsman%20for%20defense%20audit%20agencies.md) | Small Business Ombudsman for defense audit agencies. |
+| [204\.](%C2%A7%2000204%20-%20Renumbered%20%C2%A73848.md) | Small Business Ombudsman for defense audit agencies.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [205\.](%C2%A7%2000205%20-%20Missile%20Defense%20Agency.md) | Missile Defense Agency. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -29,6 +36,8 @@ Pub. L. 105–85, div. A, title II, §235(b), Nov. 18, 1997, 111 Stat. 1665, add
 
 <b>1986</b>—Pub. L. 99–433, title III, §301(a)(2), Oct. 1, 1986, 100 Stat. 1022, added subchapter heading and analysis of sections for subchapter II.
 
+<i><sup>1</sup></i><i> Section 204 was renumbered section 3848 of this title by Pub. L. 116–283 without corresponding amendment of subchapter analysis.</i>
+
 
 ---
 
@@ -37,5 +46,5 @@ Pub. L. 105–85, div. A, title II, §235(b), Nov. 18, 1997, 111 Stat. 1665, add
 - [&sect; 00201 - Certain intelligence officials consultation and concurrence regarding appointments; evaluation of performance](%C2%A7%2000201%20-%20Certain%20intelligence%20officials%20consultation%20and%20concurrence%20regarding%20appointments%3B%20evaluation%20of%20performance.md)
 - [&sect; 00202 - Repealed. Pub. L. 105&#8211;107, title V, &sect;503(c), Nov. 20, 1997, 111 Stat. 2262](%C2%A7%2000202%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93107%2C%20title%20V%2C%20%C2%A7503%28c%29%2C%20Nov.%2020%2C%201997%2C%20111%20Stat.%202262.md)
 - [&sect; 00203 - Repealed. Pub. L. 114&#8211;328, div. A, title V, &sect;502(d)(1), Dec. 23, 2016, 130 Stat. 2102](%C2%A7%2000203%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93328%2C%20div.%20A%2C%20title%20V%2C%20%C2%A7502%28d%29%281%29%2C%20Dec.%2023%2C%202016%2C%20130%20Stat.%202102.md)
-- [&sect; 00204 - Small Business Ombudsman for defense audit agencies](%C2%A7%2000204%20-%20Small%20Business%20Ombudsman%20for%20defense%20audit%20agencies.md)
+- [&sect; 00204 - Renumbered &sect;3848](%C2%A7%2000204%20-%20Renumbered%20%C2%A73848.md)
 - [&sect; 00205 - Missile Defense Agency](%C2%A7%2000205%20-%20Missile%20Defense%20Agency.md)

@@ -2,7 +2,7 @@
 
 #### (a) Provision of intelligence information to United Nations
 
-(1) No United States intelligence information may be provided to the United Nations or any organization affiliated with the United Nations, or to any officials or employees thereof, unless the President certifies to the appropriate committees of Congress that the Director of National Intelligence, in consultation with the Secretary of State and the Secretary of Defense, has established and implemented procedures, and has worked with the United Nations to ensure implementation of procedures, for protecting from unauthorized disclosure United States intelligence sources and methods connected to such information.
+(1) No United States intelligence information may be provided to the United Nations or any organization affiliated with the United Nations,or to any officials or employees thereof, unless the President certifies to the appropriate committees of Congress that the Director of National Intelligence, in consultation with the Secretary of State and the Secretary of Defense, has established and implemented procedures, and has worked with the United Nations to ensure implementation of procedures, for protecting from unauthorized disclosure United States intelligence sources and methods connected to such information.
 
 (2) Paragraph (1) may be waived upon written certification by the President to the appropriate committees of Congress that providing such information to the United Nations or an organization affiliated with the United Nations, or to any officials or employees thereof, is in the national security interests of the United States.
 
@@ -23,6 +23,8 @@ Nothing in this section shall be construed to—
 As used in this section, the term "appropriate committees of Congress" means the Committee on Foreign Relations and the Select Committee on Intelligence of the Senate and the Committee on Foreign Relations and the Permanent Select Committee on Intelligence of the House of Representatives.
 
 (July 26, 1947, ch. 343, title I, §112, formerly §110, as added Pub. L. 104–293, title III, §308(a), Oct. 11, 1996, 110 Stat. 3466; renumbered §112, Pub. L. 105–107, title III, §303(b), Nov. 20, 1997, 111 Stat. 2252; amended Pub. L. 107–306, title VIII, §811(b)(1)(C), Nov. 27, 2002, 116 Stat. 2422; Pub. L. 108–177, title III, §§361(b), 377(a), Dec. 13, 2003, 117 Stat. 2625, 2630; Pub. L. 108–458, title I, §§1071(a)(1)(K), (L), 1072(a)(4), Dec. 17, 2004, 118 Stat. 3689, 3692; Pub. L. 111–259, title III, §347(b), Oct. 7, 2010, 124 Stat. 2698; Pub. L. 116–92, div. E, title LXVII, §6742(b)(5), Dec. 20, 2019, 133 Stat. 2240.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -55,6 +57,8 @@ Subsec. (b)(3). Pub. L. 108–177, §361(b)(3), substituted "the annual" for "pe
 Subsec. (d)(1). Pub. L. 108–177, §377(a), substituted "section 403–3(c)(7)" for "section 403–3(c)(6)".
 
 <b>2002</b>—Subsec. (b)(3). Pub. L. 107–306 added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

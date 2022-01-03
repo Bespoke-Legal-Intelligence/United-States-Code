@@ -1,8 +1,12 @@
 ### §5714–1. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 5714–1 was editorially reclassified as section 11221 of Title 34, Crime Control and Law Enforcement.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Study of Housing Services and Strategies
 

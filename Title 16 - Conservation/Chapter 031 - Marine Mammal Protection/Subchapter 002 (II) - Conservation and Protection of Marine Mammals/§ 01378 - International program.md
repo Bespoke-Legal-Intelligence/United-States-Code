@@ -44,13 +44,15 @@ The Secretary, through the Secretary of State, shall—
 
 &emsp;(B) as a result of the study required under paragraph (1)(B) of this subsection, that modifications of the Convention are desirable to make it and this chapter consistent;
 
-> he shall, through the Secretary of State, immediately initiate negotiations to modify the Convention so as to (i) reduce or halt the taking of seals to the extent required to assure that such herds attain and remain at their optimum sustainable population, or (ii) make the Convention and this chapter consistent; or both, as the case may be. If negotiations to so modify the Convention are unsuccessful, the Secretary shall, through the Secretary of State, take such steps as may be necessary to continue the existing Convention beyond its present termination date so as to continue to protect and conserve the North Pacific fur seals and to prevent a return to pelagic sealing.
+> he shall, through the Secretary of State, immediately initiate negotiations to modify the Convention so as to (i) reduce or halt the taking of seals to the extent required to assure that such herds attain and remain at their optimum sustainable population, or (ii) make the Convention and this chapter consistent; or both, as the case may be. If negotiations to so modify the Convention are unsuccessful, the Secretary shall, through the Secretary of State, take such steps as may be necessary to continue the existingConvention beyond its present termination date so as to continue to protect and conserve the North Pacific fur seals and to prevent a return to pelagic sealing.
 
 #### (c) Description of annual results of discussions; proposals for further action
 
 The Secretary shall include a description of the annual results of discussions initiated and conducted pursuant to subsection (a)(2)(B), as well as any proposals for further action to achieve the purposes of that subsection, in the report required under section 1373(f) of this title.
 
 (Pub. L. 92–522, title I, §108, Oct. 21, 1972, 86 Stat. 1038; Pub. L. 100–711, §4(b), (c), Nov. 23, 1988, 102 Stat. 4766, 4767; Pub. L. 105–42, §4(e), Aug. 15, 1997, 111 Stat. 1125.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -59,6 +61,8 @@ The Secretary shall include a description of the annual results of discussions i
 <b>1988</b>—Subsec. (a)(2). Pub. L. 100–711, §4(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "initiate negotiations as soon as possible with all foreign governments which are engaged in, or which have persons or companies engaged in, commercial fishing operations which are found by the Secretary to be unduly harmful to any species of marine mammal, for the purpose of entering into bilateral and multilateral treaties with such countries to protect marine mammals. The Secretary of State shall prepare a draft agenda relating to this matter for discussion at appropriate international meetings and forums;".
 
 Subsec. (c). Pub. L. 100–711, §4(c), added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1997 Amendment
 

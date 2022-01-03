@@ -4,7 +4,7 @@
 
 In the case of any entity—
 
-&emsp;(1) which cannot do business as a health maintenance organization in a State in which it proposes to furnish basic and supplementalhealth services because that State by law, regulation, or otherwise—
+&emsp;(1) which cannot do business as a health maintenance organization in a State in which it proposes to furnish basic and supplemental health services because that State by law, regulation, or otherwise—
 
 &emsp;&emsp;(A) requires as a condition to doing business in that State that a medical society approve the furnishing of services by the entity,
 
@@ -30,6 +30,8 @@ The Secretary shall, within 6 months after October 8, 1976, develop a digest of 
 
 (July 1, 1944, ch. 373, title XIII, §1311, as added Pub. L. 93–222, §2, Dec. 29, 1973, 87 Stat. 931; amended Pub. L. 94–460, title I, §114, Oct. 8, 1976, 90 Stat. 1954; Pub. L. 99–660, title VIII, §809, Nov. 14, 1986, 100 Stat. 3801; Pub. L. 100–517, §8, Oct. 24, 1988, 102 Stat. 2583.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1311 of act July 1, 1944, was classified to section 211a of this title prior to repeal by Pub. L. 93–222, §7(b).
@@ -41,6 +43,8 @@ A prior section 1311 of act July 1, 1944, was classified to section 211a of this
 <b>1986</b>—Subsec. (c). Pub. L. 99–660 substituted "annually" for "quarterly" after "at least".
 
 <b>1976</b>—Subsec. (c). Pub. L. 94–460 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

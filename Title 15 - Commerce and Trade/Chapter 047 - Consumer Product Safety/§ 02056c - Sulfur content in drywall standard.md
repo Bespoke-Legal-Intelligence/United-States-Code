@@ -18,7 +18,7 @@ A rule under subsection (a)—
 
 &emsp;Subsection (a) shall not apply if the Commission determines that—
 
-&emsp;&emsp;(A) a voluntary standard pertaining to drywall manufactured or imported for use in the United States limits sulfur content to alevel not associated with elevated rates of corrosion in the home;
+&emsp;&emsp;(A) a voluntary standard pertaining to drywall manufactured or imported for use in the United States limits sulfur content to a level not associated with elevated rates of corrosion in the home;
 
 &emsp;&emsp;(B) such voluntary standard is or will be in effect not later than two years after January 14, 2013; and
 
@@ -46,9 +46,13 @@ The Commission, at any time subsequent to publication of the consumer product sa
 
 (Pub. L. 112–266, §4, Jan. 14, 2013, 126 Stat. 2438.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Drywall Safety Act of 2012, and not as part of the Consumer Product Safety Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Drywall Labeling Requirement
 

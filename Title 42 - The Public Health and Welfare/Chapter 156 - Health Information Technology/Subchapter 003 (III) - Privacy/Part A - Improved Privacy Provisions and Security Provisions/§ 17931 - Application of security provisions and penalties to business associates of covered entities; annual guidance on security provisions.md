@@ -10,9 +10,11 @@ In the case of a business associate that violates any security provision specifi
 
 #### (c) Annual guidance
 
-For the first year beginning after February 17, 2009, and annually thereafter, the Secretary of Health and Human Services shall, after consultation with stakeholders, annually issue guidance on the most effective and appropriate technical safeguards for use in carrying out the sections referred to in subsection (a) and the security standards in subpart C of part 164 of title 45, Code of Federal Regulations, including the use of standards developed under section 300jj–12(b)(2)(B)(vi) <sup>1</sup> of this title, as added by section 13101 of this Act, as such provisions are in effect as of the date before February 17, 2009.
+For the first year beginning after February 17, 2009, and annually thereafter, the Secretary ofHealth and Human Services shall, after consultation with stakeholders, annually issue guidance on the most effective and appropriate technical safeguards for use in carrying out the sections referred to in subsection (a) and the security standards in subpart C of part 164 of title 45, Code of Federal Regulations, including the use of standards developed under section 300jj–12(b)(2)(B)(vi) <sup>1</sup> of this title, as added by section 13101 of this Act, as such provisions are in effect as of the date before February 17, 2009.
 
 (Pub. L. 111–5, div. A, title XIII, §13401, Feb. 17, 2009, 123 Stat. 260.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -21,6 +23,8 @@ This title, referred to in subsec. (a), is title XIII of div. A of Pub. L. 111�
 Section 300jj–12(b)(2)(B)(vi) of this title, referred to in subsec. (c), was repealed by Pub. L. 114–255, div. A, title IV, §4003(e)(1), Dec. 13, 2016, 130 Stat. 1168. Similar provisions as pertaining to the HIT Advisory Committee are contained in section 300jj–12(b)(2)(C)(vii) of this title as enacted by Pub. L. 114–255.
 
 Section 13101 of this Act, referred to in subsec. (c), means section 13101 of div. A of Pub. L. 111–5.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

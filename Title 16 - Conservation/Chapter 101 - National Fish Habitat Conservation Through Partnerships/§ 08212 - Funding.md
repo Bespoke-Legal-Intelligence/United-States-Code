@@ -16,7 +16,7 @@
 
 #### (3) Technical and scientific assistance
 
-&emsp;There is authorized to be appropriated for each of fiscal years 2021 through 2025 to carryout, and provide technical and scientific assistance under, section 8206 of this title—
+&emsp;There is authorized to be appropriated for each of fiscal years 2021 through 2025 to carry out, and provide technical and scientific assistance under, section 8206 of this title—
 
 &emsp;&emsp;(A) $400,000 to the Secretary for use by the United States Fish and Wildlife Service;
 
@@ -61,6 +61,8 @@ The Secretary may—
 &emsp;&emsp;&emsp;(ii) provided to another Federal department or agency through an interagency agreement.
 
 (Pub. L. 116–188, title II, §212, Oct. 30, 2020, 134 Stat. 937.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

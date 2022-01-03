@@ -4,7 +4,7 @@
 
 The Secretary may, out of appropriations authorized under section 254k of this title, make one loan to a Corps member who has agreed in writing—
 
-&emsp;(1) to engage in the private full-time clinical practice of the profession of the member in a health professional shortage area (designated under section 254e of this title) for a period of not less than 2 years which—
+&emsp;(1) to engage in the private full-time clinical practice of the profession of the member in ahealth professional shortage area (designated under section 254e of this title) for a period of not less than 2 years which—
 
 &emsp;&emsp;(A) in the case of a Corps member who is required to complete a period of obligated service under this subpart, begins not later than 1 year after the date on which such individual completes such period of obligated service; and
 
@@ -35,6 +35,8 @@ If the Secretary determines that an individual has breached a written agreement 
 &emsp;(2) in the case of an individual who has received a loan under this section, the full amount of the principal and interest owed by such individual under this section.
 
 (July 1, 1944, ch. 373, title III, §338G, formerly title VII, §755, as added Pub. L. 94–484, title IV, §408(b)(1), Oct. 12, 1976, 90 Stat. 2287; renumbered §338E and amended Pub. L. 97–35, title XXVII, §2709(a), (f), Aug. 13, 1981, 95 Stat. 908, 911; Pub. L. 97–414, §8(g)(3), Jan. 4, 1983, 96 Stat. 2061; renumbered §338F and amended Pub. L. 100–177, title II, §201(2), title III, §309, Dec. 1, 1987, 101 Stat. 992, 1006; renumbered §338G and amended Pub. L. 101–597, title II, §204, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3027, 3035.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -73,6 +75,8 @@ Subsec. (b). Pub. L. 97–35, §2709(f)(5), inserted applicability to loans.
 Subsec. (c). Pub. L. 97–35, §2709(f)(6), inserted provisions relating to loans and interest rates, etc.
 
 Subsec. (d). Pub. L. 97–35, §2709(f)(7), restructured and revised criteria determining amount of liability of individual within 60 days after the date of notice instead of within 120 days after the date of notice.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

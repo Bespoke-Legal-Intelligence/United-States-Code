@@ -244,7 +244,9 @@ In this section:
 
 &emsp;&emsp;(B) with respect to such a State that has failed to meet the non-Federal share requirement of subsection (b), a philanthropic organization awarded the proportionate reduction amount of such a grant under subsection (b)(3).
 
-(Pub. L. 89–329, title VII, §781, formerly §771, as added Pub. L. 110–84, title VIII, §801, Sept. 27, 2007, 121 Stat. 812; renumbered §781 and amended Pub. L. 110–315, title VII, §§709(1), 710, Aug. 14,2008, 122 Stat. 3361, 3377; Pub. L. 111–39, title VII, §701(6), July 1, 2009, 123 Stat. 1955; Pub. L. 111–152, title II, §2102, Mar. 30, 2010, 124 Stat. 1073.)
+(Pub. L. 89–329, title VII, §781, formerly §771, as added Pub. L. 110–84, title VIII, §801, Sept. 27, 2007, 121 Stat. 812; renumbered §781 and amended Pub. L. 110–315, title VII, §§709(1), 710, Aug. 14, 2008, 122 Stat. 3361, 3377; Pub. L. 111–39, title VII, §701(6), July 1, 2009, 123 Stat. 1955; Pub. L. 111–152, title II, §2102, Mar. 30, 2010, 124 Stat. 1073.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -300,7 +302,7 @@ Another prior section 1145c, Pub. L. 89–329, title XII, §1208, as added Pub. 
 
 Section 1145d, Pub. L. 89–329, title XII, §1209, as added Pub. L. 102–325, title XII, §1204, July 23, 1992, 106 Stat. 794; amended Pub. L. 103–208, §2(j)(54), Dec. 20, 1993, 107 Stat. 2485, related to disclosures of foreign gifts.
 
-Another prior section 1145d, Pub. L. 89–329, title XII, §1209, as added Pub. L. 99–498, title XII, §1206(a), Oct. 17, 1986, 100 Stat. 1577, related to disclosures of foreign gifts, prior to repeal by Pub. L. 99–498, title XII, §1206(b), Oct. 17, 1986, 100 Stat. 1579, as amended by Pub.L. 100–50, §22(f), June 3, 1987, 101 Stat. 362, effective Aug. 1, 1989.
+Another prior section 1145d, Pub. L. 89–329, title XII, §1209, as added Pub. L. 99–498, title XII, §1206(a), Oct. 17, 1986, 100 Stat. 1577, related to disclosures of foreign gifts, prior to repeal by Pub. L. 99–498, title XII, §1206(b), Oct. 17, 1986, 100 Stat. 1579, as amended by Pub. L. 100–50, §22(f), June 3, 1987, 101 Stat. 362, effective Aug. 1, 1989.
 
 Section 1145d–1, Pub. L. 89–329, title XII, §1210, as added Pub. L. 100–50, §21(b), June 3, 1987, 101 Stat. 360, related to application of peer review process.
 
@@ -339,6 +341,8 @@ Subsec. (i). Pub. L. 111–39, §701(6)(D), substituted "consortium" for "consor
 Subsec. (b)(1). Pub. L. 110–315, §710(2), inserted ", subject to the availability of appropriations," after "the Secretary shall".
 
 Subsec. (e). Pub. L. 110–315, §710(3), inserted ", or those nonprofit organizations that have agreements with the Secretary under section 1085(j) of this title" before ", or a partnership".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

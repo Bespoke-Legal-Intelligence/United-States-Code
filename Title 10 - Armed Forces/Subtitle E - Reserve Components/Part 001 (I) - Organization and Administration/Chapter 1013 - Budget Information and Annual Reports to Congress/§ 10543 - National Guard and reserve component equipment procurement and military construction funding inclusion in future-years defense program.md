@@ -26,6 +26,8 @@ Report.—(1) If the aggregate of the amounts specified in paragraphs (1) and (2
 
 (Added Pub. L. 104–201, div. A, title XII, §1257(a)(1), Sept. 23, 1996, 110 Stat. 2699; amended Pub. L. 105–85, div. A, title X, §1009(a), Nov. 18, 1997, 111 Stat. 1872; Pub. L. 106–398, §1 \[\[div. A\], title IX, §931\], Oct. 30, 2000, 114 Stat. 1654, 1654A–237; Pub. L. 112–81, div. A, title X, §1064(11), Dec. 31, 2011, 125 Stat. 1587.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Subsec. (c)(3). Pub. L. 112–81 substituted "90 days" for "15 days".
@@ -33,6 +35,8 @@ Report.—(1) If the aggregate of the amounts specified in paragraphs (1) and (2
 <b>2000</b>—Subsec. (c)(3). Pub. L. 106–398 added par. (3).
 
 <b>1997</b>—Pub. L. 105–85 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

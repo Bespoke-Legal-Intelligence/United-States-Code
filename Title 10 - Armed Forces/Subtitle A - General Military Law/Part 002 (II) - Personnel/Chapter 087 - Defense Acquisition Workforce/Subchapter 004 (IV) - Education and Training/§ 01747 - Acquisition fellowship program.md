@@ -22,6 +22,8 @@ Two-Year Period of Research and Teaching.—Under the fellowship program, the Se
 
 (Added Pub. L. 102–484, div. A, title VIII, §841(a), Oct. 23, 1992, 106 Stat. 2468, §2410h; renumbered §1747, Pub. L. 107–314, div. A, title X, §1062(a)(10)(A), Dec. 2, 2002, 116 Stat. 2650.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Pub. L. 107–314 renumbered section 2410h of this title as this section.

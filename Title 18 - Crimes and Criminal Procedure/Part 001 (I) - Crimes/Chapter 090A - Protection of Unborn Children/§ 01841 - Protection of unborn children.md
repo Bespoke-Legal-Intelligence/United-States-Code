@@ -30,7 +30,7 @@
 
 &emsp;(3) of any woman with respect to her unborn child.
 
-(d) As used in this section, the term "unborn child" means a child in utero, and the term"child in utero" or "child, who is in utero" means a member of the species homo sapiens, at any stage of development, who is carried in the womb.
+(d) As used in this section, the term "unborn child" means a child in utero, and the term "child in utero" or "child, who is in utero" means a member of the species homo sapiens, at any stage of development, who is carried in the womb.
 
 (Added Pub. L. 108–212, §2(a), Apr. 1, 2004, 118 Stat. 568.)
 

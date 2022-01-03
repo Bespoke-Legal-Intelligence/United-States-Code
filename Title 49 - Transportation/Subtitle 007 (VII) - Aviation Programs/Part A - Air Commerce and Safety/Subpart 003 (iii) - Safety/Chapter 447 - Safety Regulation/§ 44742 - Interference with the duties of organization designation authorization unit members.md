@@ -42,7 +42,7 @@ In general.—The ODA holder office described in paragraph (1) shall investigate
 
 &emsp;&emsp;(B)
 
-Contents.—The Administrator shall prescribe parameters for the submission of reports to the Administration under this paragraph, including the manner, time, and form of submission. Such report shall include the results of any investigation conducted by the ODA holder in response to a report of interference, a description of any action taken by the ODA holder as a result of the report of interference, and any otherinformation or potentially mitigating factors the ODA holder or the Administrator deems appropriate.
+Contents.—The Administrator shall prescribe parameters for the submission of reports to the Administration under this paragraph, including the manner, time, and form of submission. Such report shall include the results of any investigation conducted by the ODA holder in response to a report of interference, a description of any action taken by the ODA holder as a result of the report of interference, and any other information or potentially mitigating factors the ODA holder or the Administrator deems appropriate.
 
 (d)
 

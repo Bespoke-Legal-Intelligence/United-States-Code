@@ -38,7 +38,7 @@ Contents of Registration.—The registration of a money transmitting business un
 
 &emsp;&emsp;(C) otherwise participates in the conduct of the affairs of the business.
 
-&emsp;(3) The name and address of any depository institution at which the business maintains atransaction account (as defined in section 19(b)(1)(C) of the Federal Reserve Act).
+&emsp;(3) The name and address of any depository institution at which the business maintains a transaction account (as defined in section 19(b)(1)(C) of the Federal Reserve Act).
 
 &emsp;(4) An estimate of the volume of business in the coming year (which shall be reported annually to the Secretary).
 
@@ -68,7 +68,7 @@ Definitions.—For purposes of this section, the following definitions shall app
 
 Money transmitting business.—The term "money transmitting business" means any business other than the United States Postal Service which—
 
-&emsp;&emsp;(A) provides check cashing, currency exchange, or money transmitting or remittance services, or issues or redeems money orders, travelers' checks, and other similar instruments or any other person who engages as a business in the transmission of currency, funds, or value that substitutes for currency, including any person who engages as a business in an informal money transfer system or any network of people who engage as a business in facilitating the transfer of money domestically or internationally outside of the conventional financial institutions system;
+&emsp;&emsp;(A) provides check cashing, currency exchange, or money transmitting or remittance services, or issues or redeems money orders, travelers' checks, and other similar instruments or any other person who engages as a business in the transmission of currency, funds, or value that substitutes forcurrency, including any person who engages as a business in an informal money transfer system or any network of people who engage as a business in facilitating the transfer of money domestically or internationally outside of the conventional financial institutions system;
 
 &emsp;&emsp;(B) is required to file reports under section 5313; and
 
@@ -130,7 +130,7 @@ Findings.—The Congress hereby finds the following:
 
 &emsp;&emsp;"(ii) evade the requirements of such subchapter II, the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\], and other laws of the United States.
 
-&emsp;"(C) Information on the identity of money transmitting businesses and the names of the persons who own or control, or are officers or employees of, amoney transmitting business would have a high degree of usefulness in criminal, tax, or regulatory investigations and proceedings.
+&emsp;"(C) Information on the identity of money transmitting businesses and the names of the persons who own or control, or are officers or employees of, a money transmitting business would have a high degree of usefulness in criminal, tax, or regulatory investigations and proceedings.
 
 "(2)
 

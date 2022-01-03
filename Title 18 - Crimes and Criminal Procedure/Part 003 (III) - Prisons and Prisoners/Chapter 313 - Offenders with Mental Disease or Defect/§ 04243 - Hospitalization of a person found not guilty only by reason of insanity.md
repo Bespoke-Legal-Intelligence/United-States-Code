@@ -84,13 +84,13 @@ Effect.—Nothing in this paragraph shall be construed to—
 
 &emsp;&emsp;&emsp;(i) create in any person a liberty interest in being granted a hearing or notice on any matter;
 
-&emsp;&emsp;&emsp;(ii) create in favor of any person a cause of action against the United States or any officer or employee of the United States; or
+&emsp;&emsp;&emsp;(ii) create in favor of any person a cause of action against the United States or anyofficer or employee of the United States; or
 
 &emsp;&emsp;&emsp;(iii) limit in any manner or degree the ability of the Attorney General to move, transfer, or otherwise manage any person committed to the custody of the Attorney General.
 
 &emsp;(3)
 
-Construction with other sections.—Subsections (f) and (g) and section 4247 shallapply to any person transferred to the custody of the Attorney General pursuant to this subsection.
+Construction with other sections.—Subsections (f) and (g) and section 4247 shall apply to any person transferred to the custody of the Attorney General pursuant to this subsection.
 
 (June 25, 1948, ch. 645, 62 Stat. 855; Pub. L. 98–473, title II, §403(a), Oct. 12, 1984, 98 Stat. 2059; Pub. L. 100–690, title VII, §7043, Nov. 18, 1988, 102 Stat. 4400; Pub. L. 104–294, title III, §301(a), Oct. 11, 1996, 110 Stat. 3494.)
 

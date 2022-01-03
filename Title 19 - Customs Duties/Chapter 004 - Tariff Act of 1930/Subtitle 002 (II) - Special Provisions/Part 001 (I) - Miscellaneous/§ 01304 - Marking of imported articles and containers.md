@@ -24,7 +24,7 @@ Except as hereinafter provided, every article of foreign origin (or its containe
 
 &emsp;&emsp;(G) Such article is to be processed in the United States by the importer or for his account otherwise than for the purpose of concealing the origin of such article and in such manner that any mark contemplated by this section would necessarily be obliterated, destroyed, or permanently concealed;
 
-&emsp;&emsp;(H) An ultimate purchaser, by reason of the character of such article or by reason of the circumstances of its importation, must necessarily know the country of origin of such article even though it is not marked to indicate its origin;
+&emsp;&emsp;(H) An ultimate purchaser, by reason of the character of such article or by reason of the circumstances of its importation, must necessarily know the country of origin ofsuch article even though it is not marked to indicate its origin;
 
 &emsp;&emsp;(I) Such article was produced more than twenty years prior to its importation into the United States;
 
@@ -98,6 +98,8 @@ Any person who, with intent to conceal the information given thereby or containe
 
 (June 17, 1930, ch. 497, title III, §304, 46 Stat. 687; June 25, 1938, ch. 679, §3, 52 Stat. 1077; Aug. 8, 1953, ch. 397, §4(c), 67 Stat. 509; Pub. L. 98–573, title II, §207, Oct. 30, 1984, 98 Stat. 2976; Pub. L. 99–514, title XVIII, §1888(1), Oct. 22, 1986, 100 Stat. 2924; Pub. L. 100–418, title I, §1907(a)(1), Aug. 23, 1988, 102 Stat. 1314; Pub. L. 103–182, title II, §207(a), Dec. 8, 1993, 107 Stat. 2096; Pub. L. 104–295, §14(a), (b), Oct. 11, 1996, 110 Stat. 3521, 3522; Pub. L. 106–36, title II, §2423(a), (b), June 25, 1999, 113 Stat. 180; Pub. L. 114–125, title IX, §917(a), Feb. 24, 2016, 130 Stat. 279; Pub. L. 116–113, title II, §209(a), Jan. 29, 2020, 134 Stat. 52.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Harmonized Tariff Schedule of the United States, referred to in subsecs. (f) to (h) and (k)(2)(B), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
@@ -145,6 +147,8 @@ Subsecs. (h), (i). Pub. L. 103–182, §207(a)(4), (5), added subsec. (h) and re
 <b>1953</b>—Subsec. (a)(3)(K). Act Aug. 8, 1953, added cl. (K).
 
 <b>1938</b>—Act June 25, 1938, amended section generally.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 
@@ -222,7 +226,7 @@ Pub. L. 98–573, title II, §214, Oct. 30, 1984, 98 Stat. 2988, provided that:
 
 "(B) The amendment made by section 210(b) \[amending section 1520 of this title\] shall apply with respect to determinations made or ordered on or after the date of the enactment of this Act \[Oct. 30, 1984\].
 
-"(d)(1) The amendments made by section 212 \[amending sections 1520, 1564, and 1641 of this title and sections1581, 1582, 2631, 2636, 2640, and 2643 of Title 28, Judiciary and Judicial Procedure\] shall take effect upon the close of the 180th day following the date of the enactment of this Act \[Oct. 30, 1984\] with the following exceptions:
+"(d)(1) The amendments made by section 212 \[amending sections 1520, 1564, and 1641 of this title and sections 1581, 1582, 2631, 2636, 2640, and 2643 of Title 28, Judiciary and Judicial Procedure\] shall take effect upon the close of the 180th day following the date of the enactment of this Act \[Oct. 30, 1984\] with the following exceptions:
 
 &emsp;"(A) Section 641(c)(1)(B) and section 641(c)(2) of the Tariff Act of 1930, as added by such section \[19 U.S.C. 1641(c)(1)(B), (2)\], shall take effect three years after the date of the enactment of this Act \[Oct. 30, 1984\].
 
@@ -254,8 +258,6 @@ Act Aug. 8, 1953, ch. 397, §23, 67 Stat. 521, provided: "Except as may be other
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
-Functions of all other officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Customs officers and employees, referred to in text, were under Department of the Treasury.
-
 #### Marking Requirements for Articles Qualifying as Goods of NAFTA Country
 
 Pub. L. 103–182, title II, §207(b), Dec. 8, 1993, 107 Stat. 2097, which provided that articles qualifying as goods of a NAFTA country were subject to the requirements of this section, was repealed by Pub. L. 116–113, title VI, §601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
@@ -263,4 +265,10 @@ Pub. L. 103–182, title II, §207(b), Dec. 8, 1993, 107 Stat. 2097, which provi
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Functions of officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Customs officers and employees, referred to in text, were under Department of the Treasury.
 

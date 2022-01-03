@@ -1,6 +1,6 @@
 ### §7404. Grades and pay scales
 
-(a)(1)(A) The annual rates or ranges of rates of basic pay for positions provided in section <sup>1</sup> 7306 and 7401(4) of this title shall be prescribed from time to time by Executive order as authorizedby chapter 53 of title 5 or as otherwise authorized by law.
+(a)(1)(A) The annual rates or ranges of rates of basic pay for positions provided in section <sup>1</sup> 7306 and 7401(4) of this title shall be prescribed from time to time by Executive order as authorized by chapter 53 of title 5 or as otherwise authorized by law.
 
 (B) Section 5377 of title 5 shall apply to a position under section 7401(4) of this title as if such position were included in the definition of "position" in section 5377(a) of title 5.
 

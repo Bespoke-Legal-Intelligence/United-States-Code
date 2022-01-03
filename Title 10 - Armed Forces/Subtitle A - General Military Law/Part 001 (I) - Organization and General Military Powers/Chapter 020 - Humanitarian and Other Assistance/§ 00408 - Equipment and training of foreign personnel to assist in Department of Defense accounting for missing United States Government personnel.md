@@ -34,6 +34,8 @@ Congressional Oversight.—Whenever the Secretary of Defense provides assistance
 
 (Added Pub. L. 110–181, div. A, title XII, §1207(a), Jan. 28, 2008, 122 Stat. 367; amended Pub. L. 112–81, div. A, title X, §1064(5), Dec. 31, 2011, 125 Stat. 1587.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Subsec. (f). Pub. L. 112–81 amended subsec. (f) generally. Prior to amendment, text read as follows:

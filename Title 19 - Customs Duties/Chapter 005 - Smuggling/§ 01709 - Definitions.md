@@ -6,11 +6,13 @@ When used in this Act:
 
 (b) The term "officer of the customs" means any officer of the Customs Service or any commissioned, warrant, or petty officer of the Coast Guard, or agent or other person authorized by law or by the Secretary of the Treasury, or appointed in writing by a collector, to perform the duties of an officer of the Customs Service.
 
-(c) The term "customs waters" means, in the case of a foreign vessel subject to a treaty orother arrangement between a foreign government and the United States enabling or permitting the authorities of the United States to board, examine, search, seize, or otherwise to enforce upon such vessel upon the high seas the laws of the United States, the waters within such distance of the coast of the United States as the said authorities are or may be so enabled or permitted by such treaty or arrangement and, in the case of every other vessel, the waters within four leagues of the coast of the United States.
+(c) The term "customs waters" means, in the case of a foreign vessel subject to a treaty or other arrangement between a foreign government and the United States enabling or permitting the authorities of the United States to board, examine, search, seize, or otherwise to enforce upon such vessel upon the high seas the laws of the United States, the waters within such distance of the coast of the United States as the said authorities are or may be so enabled or permitted by such treaty or arrangement and, in the case of every other vessel, the waters within four leagues of the coast of the United States.
 
 (d) The term "hovering vessel" means any vessel which is found or kept off the coast of the United States within or without the customs waters, if, from the history, conduct, character, or location of the vessel, it is reasonable to believe that such vessel is being used or may be used to introduce or promote or facilitate the introduction or attempted introduction of merchandise into the United States in violation of the laws respecting the revenue.
 
 (Aug. 5, 1935, ch. 438, title IV, §401, 49 Stat. 529; June 25, 1938, ch. 679, §2, 52 Stat. 1077; Proc. No. 2695, July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; June 30, 1955, ch. 258, §2(b), 69 Stat. 242.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -28,6 +30,8 @@ Words "the Philippine Islands" in subsec. (a) were omitted on authority of Proc.
 
 <b>1938</b>—Subsec. (a). Act June 25, 1938, inserted "Wake Island, Midway Islands, Kingman Reef" before "and the island of Guam."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1955 Amendment
 
 Amendment by act June 30, 1955, effective July 1, 1955, see note set out under section 1401 of this title.
@@ -43,6 +47,10 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 Coast Guard transferred to Department of Transportation and functions, powers, and duties, relating to Coast Guard, of Secretary of the Treasury and of other offices and officers of Department of the Treasury transferred to Secretary of Transportation by section 6(b)(1) of Pub. L. 89–670, Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2), however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in former section 3 (now 103) of Title 14, Coast Guard. See section 108 of Title 49, Transportation.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
 
 All offices of collector of customs, comptroller of customs, surveyor of customs, and appraiser of merchandise in Bureau of Customs of Department of the Treasury to which appointments were required to be made by President with advice and consent of Senate ordered abolished, with such offices to be terminated not later than December 31, 1966, by Reorg. Plan No. 1, of 1965, eff. May 25, 1965, 30 F.R. 7035, 79 Stat. 1317, set out as a note under section 1, of this title.
 

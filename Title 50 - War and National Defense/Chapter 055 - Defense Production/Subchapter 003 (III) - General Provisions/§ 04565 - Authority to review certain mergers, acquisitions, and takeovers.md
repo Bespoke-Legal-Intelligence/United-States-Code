@@ -74,7 +74,7 @@ In this section:
 
 #### (ii) Definition of close proximity
 
-&emsp;&emsp;&emsp;With respect to a real estate purchase, lease, or concession described in subparagraph (B)(ii)(II)(bb)(AA), the Committee shall prescribe regulations to ensure thatthe term "close proximity" refers only to a distance or distances within which the purchase, lease, or concession of real estate could pose a national security risk in connection with a United States military installation or another facility or property of the United States Government described in that subparagraph.
+&emsp;&emsp;&emsp;With respect to a real estate purchase, lease, or concession described in subparagraph (B)(ii)(II)(bb)(AA), the Committee shall prescribe regulations to ensure that the term "close proximity" refers only to a distance or distances within which the purchase, lease, or concession of real estate could pose a national security risk in connection with a United States military installation or another facility or property of the United States Government described in that subparagraph.
 
 #### (D) Other investments
 
@@ -214,7 +214,7 @@ In this section:
 
 #### (7) Foreign government-controlled transaction
 
-&emsp;The term "foreign government-controlled transaction" means any covered transaction that could result in the control of any United States business by a foreign government or anentity controlled by or acting on behalf of a foreign government.
+&emsp;The term "foreign government-controlled transaction" means any covered transaction that could result in the control of any United States business by a foreign government or an entity controlled by or acting on behalf of a foreign government.
 
 #### (8) Intelligence community
 
@@ -336,7 +336,7 @@ In this section:
 
 #### &nbsp;(BB) Substantial interest defined
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;In this item, the term "substantial interest" has the meaning given that term in regulations which the Committee shall prescribe. In developing those regulations, the Committee shall consider the means by which a foreign government could influence the actions of a foreign person, including through board membership, ownership interest, or shareholder rights. An interest that is excluded under subparagraph (D) of subsection (a)(4) from the term "other investment" as used in subparagraph (B)(iii) of that subsection or that is less than a 10 percent voting interest shall not be considered a substantial interest.
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;In this item, the term "substantial interest" has the meaning given that term in regulations which the Committee shall prescribe. In developing those regulations, the Committee shall consider the means by which a foreign government could influence the actions of a foreign person, including through board membership, ownership interest, or shareholder rights. An interest that is excluded under subparagraph (D) of subsection (a)(4) from the term "other investment" as used in subparagraph (B)(iii) of that subsection or that isless than a 10 percent voting interest shall not be considered a substantial interest.
 
 #### &nbsp;(CC) Waiver
 
@@ -364,7 +364,7 @@ In this section:
 
 #### &nbsp;(AA) In general
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;In the regulations prescribed under item (aa), the Committee may notrequire a declaration to be submitted under this subclause with respect to a covered transaction more than 45 days before the completion of the transaction.
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;In the regulations prescribed under item (aa), the Committee may not require a declaration to be submitted under this subclause with respect to a covered transaction more than 45 days before the completion of the transaction.
 
 #### &nbsp;(BB) Refiling of declaration
 
@@ -408,7 +408,7 @@ In this section:
 
 &emsp;&emsp;A covered transaction is described in this subparagraph if—
 
-&emsp;&emsp;&emsp;(i) the Committee has informed the parties to the transaction in writing that the Committee has completed all action under this section with respect to the transaction; or
+&emsp;&emsp;&emsp;(i) the Committee has informed the parties to the transaction in writing that the Committee has completed all action underthis section with respect to the transaction; or
 
 &emsp;&emsp;&emsp;(ii) the President has announced a decision not to exercise the President's authority under subsection (d) with respect to the transaction.
 
@@ -552,7 +552,7 @@ In this section:
 
 #### (ii) Views of intelligence community
 
-&emsp;&emsp;&emsp;The Director shall seek and incorporate into the analysis required by clause (i) the views of all affected or appropriate agencies of the intelligence community with respect to the transaction.
+&emsp;&emsp;&emsp;The Director shall seek and incorporate into the analysis required by clause (i) theviews of all affected or appropriate agencies of the intelligence community with respect to the transaction.
 
 #### (iii) Updates
 
@@ -626,7 +626,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), any information or documentary material filed with the President or the President's designee pursuant to this section shall be exempt from disclosure under section 552 of title 5, and no such information or documentary material may be made public.
+&emsp;Except as provided in paragraph (2), any information or documentary material filed withthe President or the President's designee pursuant to this section shall be exempt from disclosure under section 552 of title 5, and no such information or documentary material may be made public.
 
 #### (2) Exceptions
 
@@ -738,7 +738,7 @@ For purposes of this section, the President or the President's designee may, tak
 
 &emsp;(9) as appropriate, and particularly with respect to transactions requiring an investigation under subsection (b)(1)(B), a review of the current assessment of—
 
-&emsp;&emsp;(A) the adherence of the subject country to nonproliferation control regimes, including treaties and multilateral supply guidelines,which shall draw on, but not be limited to, the annual report on "Adherence to and Compliance with Arms Control, Nonproliferation and Disarmament Agreements and Commitments" required by section 2593a of title 22;
+&emsp;&emsp;(A) the adherence of the subject country to nonproliferation control regimes, including treaties and multilateral supply guidelines, which shall draw on, but not be limited to, the annual report on "Adherence to and Compliance with Arms Control, Nonproliferation and Disarmament Agreements and Commitments" required by section 2593a of title 22;
 
 &emsp;&emsp;(B) the relationship of such country with the United States, specifically on its record on cooperating in counter-terrorism efforts, which shall draw on, but not be limited to, the report of the President to Congress under section 7120 of the Intelligence Reform and Terrorism Prevention Act of 2004; and
 
@@ -826,7 +826,7 @@ In any case in which an assessment of the risk of diversion of defense critical 
 
 &emsp;&emsp;(I) The Director of National Intelligence (nonvoting, ex officio).
 
-&emsp;&emsp;(J) The heads of any other executive department, agency, or office, as the Presidentdetermines appropriate, generally or on a case-by-case basis.
+&emsp;&emsp;(J) The heads of any other executive department, agency, or office, as the President determines appropriate, generally or on a case-by-case basis.
 
 #### (3) Chairperson
 
@@ -936,7 +936,7 @@ In any case in which an assessment of the risk of diversion of defense critical 
 
 #### (C) Definitions
 
-&emsp;&emsp;For purposes of subparagraph (A), the terms "threat", "vulnerabilities", and "consequences to national security" shall have the meanings given those terms by the Committee by regulation.
+&emsp;&emsp;For purposes of subparagraph (A), the terms "threat", "vulnerabilities", and "consequences to national security" shall havethe meanings given those terms by the Committee by regulation.
 
 #### (5) Tracking authority for withdrawn notices
 
@@ -1004,7 +1004,7 @@ In any case in which an assessment of the risk of diversion of defense critical 
 
 #### (F) Successors and assigns
 
-&emsp;&emsp;Any agreement or condition entered into or imposed under paragraph (3)(A) shall be considered binding on all successors and assigns unless and until the agreement or condition terminates on its own terms or is otherwise terminated by the Committee in its sole discretion.
+&emsp;&emsp;Any agreement or condition entered into or imposed under paragraph (3)(A) shall beconsidered binding on all successors and assigns unless and until the agreement or condition terminates on its own terms or is otherwise terminated by the Committee in its sole discretion.
 
 #### (G) Additional compliance measures
 
@@ -1026,7 +1026,7 @@ In any case in which an assessment of the risk of diversion of defense critical 
 
 &emsp;&emsp;&emsp;(ii) basic information on each party to each such transaction;
 
-&emsp;&emsp;&emsp;(iii) the nature of the business activities or products of the United States businesswith which the transaction was entered into or intended to be entered into; and
+&emsp;&emsp;&emsp;(iii) the nature of the business activities or products of the United States business with which the transaction was entered into or intended to be entered into; and
 
 &emsp;&emsp;&emsp;(iv) information about any withdrawal from the process.
 
@@ -1122,7 +1122,7 @@ In any case in which an assessment of the risk of diversion of defense critical 
 
 &emsp;Each notice, and any followup information, submitted under this section and regulations prescribed under this section to the President or the Committee by a party to a covered transaction, and any information submitted by any such party in connection with any action for which a report is required pursuant to paragraph (6)(B) of subsection (l), with respect to the implementation of any mitigation agreement or condition described in paragraph (3)(A) of subsection (l), or any material change in circumstances, shall be accompanied by a written statement by the chief executive officer or the designee of the person required to submit such notice or information certifying that, to the best of the knowledge and belief of that person—
 
-&emsp;&emsp;(A) the notice or information submitted fully complies with the requirements of this section or such regulation, agreement, or condition; and
+&emsp;&emsp;(A) the notice or information submitted fully complies with the requirements of thissection or such regulation, agreement, or condition; and
 
 &emsp;&emsp;(B) the notice or information is accurate and complete in all material respects.
 
@@ -1212,7 +1212,7 @@ In any case in which an assessment of the risk of diversion of defense critical 
 
 #### (ii) Updates
 
-&emsp;&emsp;&emsp;The Committee shall periodically reconsider and adjust the amount of the fee to be assessed under subparagraph (A) with respect to a covered transaction to ensure that the amount of the fee does not exceed the costs of administering this section and otherwise remains appropriate.
+&emsp;&emsp;&emsp;The Committee shall periodically reconsider and adjust the amount of the fee to be assessed under subparagraph (A) withrespect to a covered transaction to ensure that the amount of the fee does not exceed the costs of administering this section and otherwise remains appropriate.
 
 #### (C) Deposit and availability of fees
 
@@ -1244,7 +1244,7 @@ In any case in which an assessment of the risk of diversion of defense critical 
 
 #### (1) In general
 
-&emsp;The chairperson, in consultation with the Committee, may centralize certain functionsof the Committee within the Department of the Treasury for the purpose of enhancing interagency coordination and collaboration in carrying out the functions of the Committee under this section.
+&emsp;The chairperson, in consultation with the Committee, may centralize certain functions of the Committee within the Department of the Treasury for the purpose of enhancing interagency coordination and collaboration in carrying out the functions of the Committee under this section.
 
 #### (2) Functions
 
@@ -1255,6 +1255,8 @@ In any case in which an assessment of the risk of diversion of defense critical 
 &emsp;Nothing in this section shall be construed as limiting the authority of any department or agency represented on the Committee to represent its own interests before the Committee.
 
 (Sept. 8, 1950, ch. 932, title VII, §721, as added Pub. L. 100–418, title V, §5021, Aug. 23, 1988, 102 Stat. 1425; amended Pub. L. 102–484, div. A, title VIII, §837(a)–(c), (e), Oct. 23, 1992, 106 Stat. 2463–2465; Pub. L. 102–558, title I, §163, Oct. 28, 1992, 106 Stat. 4219; Pub. L. 103–359, title VIII, §809(d), Oct. 14, 1994, 108 Stat. 3454; Pub. L. 110–49, §§2–7(b), 8–10, July 26, 2007, 121 Stat. 246, 252–257, 259; Pub. L. 115–232, div. A, title XVII, §§1703–1717(a), 1718, 1719(a), 1720, 1721(c), 1723–1725, Aug. 13, 2018, 132 Stat. 2177–2193, 2197, 2202, 2204–2206; Pub. L. 116–283, div. H, title XCVII, §9721(a), Jan. 1, 2021, 134 Stat. 4839.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -1280,7 +1282,7 @@ Section was formerly classified to section 2170 of the former Appendix to this t
 
 Subsec. (b)(3)(C)(i)(III). Pub. L. 116–283, §9721(a)(2), added subcl. (III).
 
-<b>2018</b>—Subsec. (a). Pub. L. 115–232, §1703, amended subsec. (a) generally. Prior to amendment, subsec. (a) defined the terms "Committee", "chairperson", "control", "covered transaction", "foreign government-controlled transaction", "critical infrastructure", "critical technologies", and "lead agency" for purposes of this section, and clarified construction of the term "national security" for purposes of this section.
+<b>2018</b>—Subsec. (a). Pub. L. 115–232, §1703, amended subsec. (a) generally. Prior to amendment, subsec. (a) defined the terms "Committee", "chairperson", "control", "covered transaction", "foreign government-controlled transaction", "critical infrastructure", "critical technologies", and "lead agency" for purposes ofthis section, and clarified construction of the term "national security" for purposes of this section.
 
 Subsec. (b)(1)(C)(i). Pub. L. 115–232, §1704, designated existing provisions as subcl. (I), inserted heading, and added subcl. (II).
 
@@ -1366,7 +1368,7 @@ Subsec. (l)(3). Pub. L. 115–232, §1718(2), redesignated par. (1) as (3). Form
 
 Subsec. (l)(3)(A). Pub. L. 115–232, §1718(4)(A), substituted "Agreements and conditions" for "In general" in subpar. heading, designated existing provisions as cl. (i), inserted cl. heading, substituted "risk" for "threat", and added cls. (ii) and (iii).
 
-Subsec. (l)(3)(B) to (D). Pub. L. 115–232, §1718(4)(B), added subpars. (B) to (D) and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: "Any agreement entered into or condition imposed under subparagraph (A) shall be based on a risk-based analysis, conducted by the Committee, of the threat to national security of the covered transaction.".
+Subsec. (l)(3)(B) to (D). Pub. L. 115–232, §1718(4)(B), added subpars. (B) to (D) and struck out former subpar.\(B). Prior to amendment, text of subpar. (B) read as follows: "Any agreement entered into or condition imposed under subparagraph (A) shall be based on a risk-based analysis, conducted by the Committee, of the threat to national security of the covered transaction.".
 
 Subsec. (l)(4). Pub. L. 115–232, §1718(5), added par. (4).
 
@@ -1456,6 +1458,8 @@ Subsec. (j). Pub. L. 102–484, §837(e), added subsec. (j).
 
 Subsec. (k). Pub. L. 102–558 added subsec. (k).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Pub. L. 115–232, div. A, title XVII, §1727(a), (b), Aug. 13, 2018, 132 Stat. 2206, 2207, as amended by Pub. L. 116–283, div. H, title XCVII, §9721(b)(1), Jan. 1, 2021, 134 Stat. 4840, provided that:
@@ -1466,7 +1470,7 @@ Immediate Applicability of Certain Provisions.—The following shall take effect
 
 &emsp;"(1) Sections 1705, 1707, 1708, 1709, 1710, 1713, 1714, 1715, 1716, 1717, 1718, 1720, 1721, 1722, 1723, 1724, and 1725 \[amending this section and enacting provisions set out as a note under this section\] and any amendments made by those sections.
 
-&emsp;"(2) Section 1712 \[amending this section\] and the amendments made by that section (except for clause\(iii) of section 721(b)(4)(A) of the Defense Production Act of 1950 \[50 U.S.C. 4565(b)(4)(A)\], as added by section 1712).
+&emsp;"(2) Section 1712 \[amending this section\] and the amendments made by that section (except for clause (iii) of section 721(b)(4)(A) of the Defense Production Act of 1950 \[50 U.S.C. 4565(b)(4)(A)\], as added by section 1712).
 
 &emsp;"(3) Paragraphs (1), (2), (3), (4)(A)(i), (4)(B)(i), (4)(B)(iv)(I), (4)(B)(v), (4)(F), (5), (6), (7), (8), (9), (10), (11), (12), and (13) of subsection (a) of section 721 of the Defense Production Act of 1950 \[50 U.S.C. 4565\], as amended by section 1703.
 
@@ -1590,7 +1594,7 @@ Pub. L. 115–232, div. A, title XVII, §1727(c), Aug. 13, 2018, 132 Stat. 2207,
 
 "(1)
 
-In general.—Beginning on the date of the enactment of this Act \[Aug. 13, 2018\] and ending on the date that is 570 days thereafter, the Committee on Foreign Investment in the United States may, at its discretion, conduct one or more pilot programs to implement any authority provided pursuant to any provision of or amendment made by this subtitle \[subtitle A (§§1701–1728) of title XVII of div. A of Pub. L. 115–232, amending this section and enacting provisions set out as notes under this section and section 4501 of this title\] not specified in subsection (a) \[set out in an Effective Date of 2018 Amendment note above\].
+In general.—Beginning on the date of the enactment of this Act \[Aug. 13, 2018\] and ending on the date that is 570 days thereafter, the Committee on Foreign Investment in the United States may, at its discretion, conduct one or more pilot programs to implement any authority provided pursuant to any provision of or amendment made by this subtitle \[subtitle A\(§§1701–1728) of title XVII of div. A of Pub. L. 115–232, amending this section and enacting provisions set out as notes under this section and section 4501 of this title\] not specified in subsection (a) \[set out in an Effective Date of 2018 Amendment note above\].
 
 "(2)
 
@@ -1611,6 +1615,8 @@ Study required.—Before the end of the 120-day period beginning on the date of 
 "(2)
 
 Report.—Before the end of the 30-day period beginning upon the date of completion of each study under paragraph (1), and thereafter in each annual report under section 721(m) of the Defense Production Act of 1950 \[50 U.S.C. 4565(m)\] (as added by this section), the Secretary of the Treasury shall submit a report to Congress, for transmittal to all appropriate committees of the Senate and the House of Representatives, containing the findings and conclusions of the Secretary with respect to the study described in paragraph (1), together with an analysis of the effects of such investment on the national security of the United States and on any efforts to address those effects."
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 
@@ -1670,7 +1676,7 @@ Sec. 4. <i>Duties of the Secretary of the Treasury.</i>
 
 Sec. 5. <i>Lead Agency</i>. (a) The lead agency or agencies ("lead agency") shall have primary responsibility, on behalf of the Committee, for the specific activity for which the Secretary of the Treasury designates it a lead agency.
 
-(b) In acting on behalf of the Committee, the lead agency shall keep the Committee fully informed of its activities. In addition, the lead agency shall notify the chairperson of any material action that the lead agency proposes to take on behalf of the Committee, sufficiently in advance to allow adequate time for the chairperson to consult the Committee and provide the Committee's direction to the lead agency not to take, or to amend, such action.
+(b) In acting on behalf of the Committee, the lead agency shall keep the Committee fully informed of its activities. In addition, the lead agency shall notify the chairperson of any material action that the lead agency proposes to take on behalf of the Committee, sufficiently in advance to allow adequate time for thechairperson to consult the Committee and provide the Committee's direction to the lead agency not to take, or to amend, such action.
 
 Sec. 6. <i>Reviews and Investigations.</i>
 
@@ -1704,7 +1710,7 @@ Sec. 7. <i>Risk Mitigation</i>. (a) The Committee, or any lead agency acting on 
 
 (C) negotiate, enter into, impose, or enforce contractual provisions with the parties to a transaction.
 
-(ii) A department or agency shall not condition actions or the exercise of authorities to which paragraph\(i) of this subsection refers upon the exercise, or forbearance in the exercise, of its authority under the Act or this order, and no authority under the Act shall be available for the enforcement of such actions or authorities.
+(ii) A department or agency shall not condition actions or the exercise of authorities to which paragraph (i) of this subsection refers upon the exercise, or forbearance in the exercise, of its authority under the Act or this order, and no authority under the Act shall be available for the enforcement of such actions or authorities.
 
 (f) The Committee may initiate a review of a transaction that has previously been reviewed by the Committee only in the extraordinary circumstances provided in the Act.
 
@@ -1744,7 +1750,7 @@ Memorandum for the Secretary of the Treasury
 
 By virtue of the authority vested in me by the Constitution and statutes of the United States, including without limitation Section 301 of Title 3 of the United States Code, the Defense Production Act of 1950, as amended (50 U.S.C. App. 2061 <i>et seq</i>.) \[now 50 U.S.C. 4501 et seq.\], and the Omnibus Trade and Competitiveness Act of 1988 (Pub. L. 100–418, August 23, 1988) (the "Act") \[see Tables for classification\], it is ordered as follows:
 
-Pending the issuance of an Executive order to implement the Act, the Secretary of the Treasury is hereby designated and empowered to perform the following-described functions of the President: The authority vested in the President by Section 721 of the Defense Production Act of 1950, as amended \[50 U.S.C. 4565\], relative to mergers, acquisitions, and takeovers proposed or pending on or after the date of enactment of the Act \[Aug. 23, 1988\] by or with foreign persons which could result in foreign control of persons engaged in interstate commerce in the United States.
+Pending the issuance of an Executive order to implement the Act, the Secretary of the Treasury is hereby designated and empowered to perform the following-described functions of the President: The authority vested in the President by Section 721 of the Defense Production Act of 1950, as amended \[50 U.S.C. 4565\], relativeto mergers, acquisitions, and takeovers proposed or pending on or after the date of enactment of the Act \[Aug. 23, 1988\] by or with foreign persons which could result in foreign control of persons engaged in interstate commerce in the United States.
 
 The Secretary of the Treasury shall consult with the Committee on Foreign investment in the United States, established pursuant to Executive Order No. 11858 \[set out above\] and chaired by the representative of the Secretary of the Treasury, to take such actions or make such recommendations as requested by the Secretary of the Treasury.
 

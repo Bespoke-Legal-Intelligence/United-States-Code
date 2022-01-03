@@ -38,6 +38,8 @@ In case a complaint is made by a nonresident of the United States, or by a resid
 
 (June 10, 1930, ch. 436, §6, 46 Stat. 534; Apr. 13, 1934, ch. 120, §§8–10, 48 Stat. 586, 587; Aug. 20, 1937, ch. 719, §§8, 9, 50 Stat. 728; Pub. L. 86–507, §1(4), June 11, 1960, 74 Stat. 200; Pub. L. 87–725, §8, Oct. 1, 1962, 76 Stat. 675; Pub. L. 92–231, §1, Feb. 15, 1972, 86 Stat. 38; Pub. L. 97–98, title XI, §1115(c), Dec. 22, 1981, 95 Stat. 1270; Pub. L. 97–352, §2, Oct. 18, 1982, 96 Stat. 1667; Pub. L. 102–237, title X, §1011(4), Dec. 13, 1991, 105 Stat. 1898; Pub. L. 104–48, §§7, 8(a), Nov. 15, 1995, 109 Stat. 428, 429.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 556 of this title.
@@ -50,7 +52,7 @@ Subsec. (a). Pub. L. 104–48, §8(a), inserted subsec. heading, designated exis
 
 Subsec. (b). Pub. L. 104–48, §7(a), inserted heading and amended text generally. Prior to amendment, text read as follows: "Any officer or agency of any State or Territory having jurisdiction over commission merchants, dealers, or brokers in such State or Territory and any employee of the United States Department of Agriculture or any interested person may file, in accordance with rules and regulations of the Secretary, a complaint of any violation of any provision of this chapter by any commission merchant, dealer, or broker and may request an investigation of such complaint by the Secretary."
 
-Subsec. (c). Pub. L. 104–48, §7(b), inserted heading and amended text generally. Prior to amendment, text read as follows: "If there appear to be, in the opinion of theSecretary, any reasonable grounds for investigating any complaint made under this section, the Secretary shall investigate such complaint and may, if in his opinion the facts warrant such action, have said complaint served by registered mail or by certified mail or otherwise on the person concerned and afford such person an opportunity for a hearing thereon before a duly authorized examiner of the Secretary in any place in which the said person is engaged in business: <i>Provided</i>, That in complaints wherein the amount claimed as damages does not exceed the sum of $15,000, a hearing need not be held and proof in support of the complaint and in support of respondent's answer may be supplied in the form of depositions or verified statements of fact."
+Subsec. (c). Pub. L. 104–48, §7(b), inserted heading and amended text generally. Prior to amendment, text read as follows: "If there appear to be, in the opinion of the Secretary, any reasonable grounds for investigating any complaint made under this section, the Secretary shall investigate such complaint and may, if in his opinion the facts warrant such action, have said complaint served by registered mail or by certified mail or otherwise on the person concerned and afford such person an opportunity for a hearing thereon before a duly authorized examiner of the Secretary in any place in which the said person is engaged in business: <i>Provided</i>, That in complaints wherein the amount claimed as damages does not exceed the sum of $15,000, a hearing need not be held and proof in support of the complaint and in support of respondent's answer may be supplied in the form of depositions or verified statements of fact."
 
 Subsec. (d). Pub. L. 104–48, §7(c), (d)(2), inserted heading and substituted "$30,000" for "$15,000" in two places in text.
 
@@ -82,9 +84,11 @@ Subsec. (d). Act Apr. 13, 1934, §9, substituted "complaints" for "a complaint" 
 
 Subsec. (e). Act Apr. 13, 1934, §10, among other changes, inserted "formal" before "action".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1982 Amendment
 
-Pub. L. 97–352, §3, Oct. 18, 1982, 96 Stat. 1667, provided that: "The amendment made by section 2 \[amending this section\] shall not apply with respect to complaints made under section 6(e) of the Perishable Agricultural Commodities Act, 1930 \[7 U.S.C. 499f(e)\], before the date of enactment of this Act \[Oct. 18, 1982\]."
+Pub. L. 97–352, §3, Oct. 18, 1982, 96 Stat. 1667, provided that: "The amendment made by section 2 \[amendingthis section\] shall not apply with respect to complaints made under section 6(e) of the Perishable Agricultural Commodities Act, 1930 \[7 U.S.C. 499f(e)\], before the date of enactment of this Act \[Oct. 18, 1982\]."
 
 #### Effective Date of 1981 Amendment
 

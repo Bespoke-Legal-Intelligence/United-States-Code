@@ -14,6 +14,8 @@ The heads of the executive departments created by this chapter shall be appointe
 
 (July 22, 1954, ch. 558, §16, 68 Stat. 504; Pub. L. 85–224, Aug. 30, 1957, 71 Stat. 510; Pub. L. 86–289, §3, Sept. 16, 1959, 73 Stat. 569; Pub. L. 90–496, §8(a), Aug. 23, 1968, 82 Stat. 839.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1968</b>—Subsec. (a). Pub. L. 90–496 substituted provisions that members of school boards which have been duly organized by the government of the Virgin Islands be popularly elected for provisions that required the approval of the Secretary of the Interior for the establishment of any new department, agency, or other instrumentality by the Governor or the legislature, unless such department, agency, etc., was required by Federal law for participation in Federal programs.
@@ -22,7 +24,11 @@ The heads of the executive departments created by this chapter shall be appointe
 
 <b>1957</b>—Subsec. (c). Pub. L. 85–224 provided for appointments to boards, authorities or commissions.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1968 Amendment
 
 Amendment of provisions of section necessary to authorize the holding of an election for Governor and Lieutenant Governor on Nov. 3, 1970, effective Jan. 1, 1970, and all other amendments of provisions of section, unless otherwise expressly provided by Pub. L. 90–496, effective Jan. 4, 1971, see section 16 of Pub. L. 90–496, set out as a note under section 1591 of this title.
+
+.
 

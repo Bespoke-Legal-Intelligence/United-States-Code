@@ -8,6 +8,8 @@ Any person who willfully performs any act prohibited, or willfully fails to perf
 
 <i>For termination of section, see section 4564(a) of this title.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 2073 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.

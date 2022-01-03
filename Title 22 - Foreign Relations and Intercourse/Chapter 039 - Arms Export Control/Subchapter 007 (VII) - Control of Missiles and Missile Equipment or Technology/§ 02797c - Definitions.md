@@ -26,7 +26,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;(ii) all activities of that government affecting the development or production of electronics, space systems or equipment, and military aircraft; and
 
-&emsp;(9) the term "otherwise engaged in the trade of" means, with respect to a particular exportor transfer, to be a freight forwarder or designated exporting agent, or a consignee or end user of the item to be exported or transferred.
+&emsp;(9) the term "otherwise engaged in the trade of" means, with respect to a particular export or transfer, to be a freight forwarder or designated exporting agent, or a consignee or end user of the item to be exported or transferred.
 
 #### (b) International understanding defined
 

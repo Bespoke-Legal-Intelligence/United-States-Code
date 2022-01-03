@@ -20,11 +20,11 @@ In determining the nature and extent of action to be taken under chapter 1 of ti
 
 &emsp;&emsp;(A) the President may take appropriate action under such chapter 1 to include those imports in the action; and
 
-&emsp;&emsp;(B) any entity that is representative of an industry for which such action is being taken may request the International Trade Commission to conduct an investigation of the surge in such imports.
+&emsp;&emsp;(B) any entity that is representative of an industry for which such action is being taken may request the International TradeCommission to conduct an investigation of the surge in such imports.
 
 #### (2) Investigation
 
-&emsp;Upon receiving a request under paragraph (1)(B), the International Trade Commissionshall conduct an investigation to determine whether a surge in such imports undermines the effectiveness of the action. The International Trade Commission shall submit the findings of its investigation to the President no later than 30 days after the request is received by the International Trade Commission.
+&emsp;Upon receiving a request under paragraph (1)(B), the International Trade Commission shall conduct an investigation to determine whether a surge in such imports undermines the effectiveness of the action. The International Trade Commission shall submit the findings of its investigation to the President no later than 30 days after the request is received by the International Trade Commission.
 
 #### (3) "Surge" defined
 
@@ -35,6 +35,8 @@ In determining the nature and extent of action to be taken under chapter 1 of ti
 Any action taken under this section proclaiming a quantitative restriction shall permit the importation of a quantity or value of the article which is not less than the quantity or value of such article imported into the United States during the most recent period that is representative of imports of such article, with allowance for reasonable growth.
 
 (Pub. L. 116–113, title III, §302, formerly Pub. L. 103–182, title III, §312, Dec. 8, 1993, 107 Stat. 2107; renumbered §302 of Pub. L. 116–113 and amended Pub. L. 116–113, title V, §502(c), Jan. 29, 2020, 134 Stat. 70.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -47,6 +49,8 @@ Section was formerly classified to section 3372 of this title prior to renumberi
 #### Amendments
 
 <b>2020</b>—Pub. L. 116–113, §502(c)(4), substituted "USMCA" for "NAFTA" in section catchline, subsec. (b) and (c) headings, and wherever appearing in text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 

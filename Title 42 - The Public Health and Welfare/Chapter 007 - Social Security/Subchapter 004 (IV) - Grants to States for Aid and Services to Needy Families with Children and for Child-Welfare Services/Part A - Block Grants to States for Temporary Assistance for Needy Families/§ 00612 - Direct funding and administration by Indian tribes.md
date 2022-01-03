@@ -12,7 +12,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The amount determined under this subparagraph is an amount equal to the total amount of the Federal payments to a State or States under section 603 of this title (as in effect during such fiscal year) for fiscal year 1994 attributable to expenditures (other than child care expenditures) by the State or States under parts A and F (as so in effect) for fiscal year 1994 for Indian families residing in the service area or areas identified by the Indian tribe pursuant to subsection (b)(1)(C) of this section.
+&emsp;&emsp;&emsp;The amount determined under this subparagraph is an amount equal to the total amount of the Federal payments to aState or States under section 603 of this title (as in effect during such fiscal year) for fiscal year 1994 attributable to expenditures (other than child care expenditures) by the State or States under parts A and F (as so in effect) for fiscal year 1994 for Indian families residing in the service area or areas identified by the Indian tribe pursuant to subsection (b)(1)(C) of this section.
 
 #### (ii) Use of State submitted data
 
@@ -54,7 +54,7 @@
 
 &emsp;&emsp;&emsp;(i) The Indian tribe has submitted to the Secretary of Labor a plan which describes how, consistent with section 603(a)(5) of this title, the Indian tribe will use any funds provided under this paragraph during the fiscal year. If the Indian tribe has a tribal family assistance plan, the plan referred to in the preceding sentence shall be in the form of an addendum to the tribal family assistance plan.
 
-&emsp;&emsp;&emsp;(ii) The Indian tribe is operating a program under a tribal family assistance planapproved by the Secretary of Health and Human Services, a program described in paragraph (2)(C), or an employment program funded through other sources under which substantial services are provided to recipients of assistance under a program funded under this part.
+&emsp;&emsp;&emsp;(ii) The Indian tribe is operating a program under a tribal family assistance plan approved by the Secretary of Health and Human Services, a program described in paragraph (2)(C), or an employment program funded through other sources under which substantial services are provided to recipients of assistance under a program funded under this part.
 
 &emsp;&emsp;&emsp;(iii) The Indian tribe has provided the Secretary of Labor with an estimate of the amount that the Indian tribe intends to expend during the fiscal year (excluding tribal expenditures described in section 609(a)(7)(B)(iv) (other than subclause (III) thereof) of this title) pursuant to this paragraph.
 
@@ -148,9 +148,11 @@ Section 611 of this title shall apply to an Indian tribe with an approved tribal
 
 (Aug. 14, 1935, ch. 531, title IV, §412, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2150; amended Pub. L. 105–33, title V, §§5001(c), 5508, 5514(c), Aug. 5, 1997, 111 Stat. 589, 617, 620; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §801(b)(2)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–283; Pub. L. 106–554, §1(a)(1) \[title I, §107(b)(5)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–12; Pub. L. 108–40, §3(h), June 30, 2003, 117 Stat. 837; Pub. L. 112–96, title IV, §4002(d), Feb. 22, 2012, 126 Stat. 195; Pub. L. 115–31, div. M, title I, §102(a)(3), May 5, 2017, 131 Stat. 800.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-Part F, referred to in subsec. (a)(1)(B)(i), was classified to section 681 et seq. of this title, prior to repeal by Pub. L. 104–193, title I, §108(e), Aug. 22, 1996, 110 Stat. 2167.
+Part F, referred to in subsec. (a)(1)(B)(i), was classified to section 681 et seq. of this title, prior to repealby Pub. L. 104–193, title I, §108(e), Aug. 22, 1996, 110 Stat. 2167.
 
 Section 682 of this title, referred to in subsec. (a)(2)(A), (B), was repealed by Pub. L. 104–193, title I, §108(e), Aug. 22, 1996, 110 Stat. 2167.
 
@@ -190,6 +192,8 @@ Subsec. (f)(1). Pub. L. 105–33, §5508(e), substituted "(b), and (c)" for "and
 
 Subsecs. (g) to (i). Pub. L. 105–33, §5508(f), redesignated subsecs. (f) to (h) as (g) to (i), respectively.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2003 Amendment
 
 Amendment by Pub. L. 108–40 effective July 1, 2003, see section 8 of Pub. L. 108–40, set out as a note under section 603 of this title.
@@ -210,7 +214,7 @@ Amendment by section 5514(c) of Pub. L. 105–33 effective as if included in the
 
 #### Effective Date
 
-Section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modifiedprograms and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
+Section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

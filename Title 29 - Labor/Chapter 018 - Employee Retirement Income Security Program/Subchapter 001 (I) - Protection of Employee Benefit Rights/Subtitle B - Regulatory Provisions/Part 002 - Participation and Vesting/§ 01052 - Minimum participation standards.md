@@ -128,7 +128,7 @@ Amendment by section 7894(c)(2) of Pub. L. 101–239 effective, except as otherw
 
 Amendment by section 1113(e)(3) of Pub. L. 99–514 applicable to plan years beginning after Dec. 31, 1988, with special rule for plans maintained pursuant to collective bargaining agreements ratified before Mar. 1, 1986, and not applicable to employees who do not have 1 hour of service in any plan year to which the amendment applies, see section 1113(f) of Pub. L. 99–514, as amended, set out as a note under section 411 of Title 26, Internal Revenue Code.
 
-Amendment by Pub. L. 99–509 applicable only with respect to plan years beginning on or after Jan. 1, 1988, and only with respect to service performed on or after such date, see section 9204 of Pub. L. 99–509, set out as an Effective and Termination Dates of 1986 Amendments note under section 623 of this title.
+Amendment by Pub. L. 99–509 applicable only with respect to plan years beginning on or after Jan. 1, 1988,and only with respect to service performed on or after such date, see section 9204 of Pub. L. 99–509, set out as an Effective and Termination Dates of 1986 Amendments note under section 623 of this title.
 
 #### Effective Date of 1984 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Periodic filing of information by obligor with trustee
 
-Each obligor upon the indenture securities shall furnish or cause to be furnished to the institutional trustee thereunder at stated intervals of not more than six months, and at such other times as such trustee may request in writing, all information in the possession or control of such obligor, or of any of its paying agents, as to the names and addresses of the indenture security holders, and requiring such trustee to preserve, in as current a form as is reasonably practicable, all such information so furnished to it or received by it in the capacity of paying agent.
+Each obligor upon the indenture securities shall furnish or cause to be furnished to the institutional trustee thereunder at stated intervals of not more than six months, and at such other times as such trustee may request in writing, all information in the possession or controlof such obligor, or of any of its paying agents, as to the names and addresses of the indenture security holders, and requiring such trustee to preserve, in as current a form as is reasonably practicable, all such information so furnished to it or received by it in the capacity of paying agent.
 
 #### (b) Access of information to security holders
 
@@ -20,11 +20,15 @@ The disclosure of any such information as to the names and addresses of the inde
 
 (May 27, 1933, ch. 38, title III, §312, as added Aug. 3, 1939, ch. 411, 53 Stat. 1164; amended Pub. L. 101–550, title IV, §410, Nov. 15, 1990, 104 Stat. 2728.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–550, §410(1), (2), substituted "Each obligor" for "The indenture to be qualified shall contain provisions requiring each obligor" and "indenture securities shall" for "indenture securities to".
 
 Subsec. (b). Pub. L. 101–550, §410(3), substituted "Within" for "The indenture to be qualified shall also contain provisions requiring that, within".
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

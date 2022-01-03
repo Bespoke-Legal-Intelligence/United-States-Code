@@ -1,6 +1,6 @@
 ### §5101. Purpose
 
-The purpose of this chapter is to protect against the risks to life, property, and the environment that are inherent in the transportation of hazardous material in intrastate, interstate, and foreign commerce.
+The purpose of this chapter is to protect against the risks to life, property, and the environment that are inherent in the transportationof hazardous material in intrastate, interstate, and foreign commerce.
 
 (Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 759; Pub. L. 109–59, title VII, §7101(b), Aug. 10, 2005, 119 Stat. 1891.)
 
@@ -22,9 +22,13 @@ Jan. 3, 1975, Pub. L. 93–633, §102, 88 Stat. 2156.
 
 The words "It is declared to be the policy of Congress", "the Nation", and "which are" are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Pub. L. 109–59 substituted "The purpose of this chapter is to protect against the risks to life, property, and the environment that are inherent in the transportation of hazardous material in intrastate, interstate, and foreign commerce" for "The purpose of this chapter is to provide adequate protection against the risks to life and property inherent in the transportation of hazardous material in commerce by improving the regulatory and enforcement authority of the Secretary of Transportation".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2015 Amendment
 
@@ -88,7 +92,7 @@ Sense of Congress; Requirement Regarding Notice.—
 
 &emsp;"(1) In the case of any equipment or products that may be authorized to be purchased with financial assistance provided under this title, it is the sense of Congress that entities receiving such assistance should, in expending such assistance, purchase only American-made equipment and products.
 
-&emsp;"(2) In providing financial assistance under this title, the Secretary of Transportation shall provide to each recipient of the assistance a notice describing the statement made in paragraph (1) by Congress.
+&emsp;"(2) In providing financial assistance under this title, the Secretary of Transportation shall provideto each recipient of the assistance a notice describing the statement made in paragraph (1) by Congress.
 
 "(c)
 

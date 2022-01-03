@@ -18,7 +18,7 @@ In General.—Whoever, intending or knowing that the offense will benefit any fo
 
 (b)
 
-Organizations.—Any organization that commits any offense described in subsection (a) shall be fined not more than the greater of$10,000,000 or 3 times the value of the stolen trade secret to the organization, including expenses for research and design and other costs of reproducing the trade secret that the organization has thereby avoided.
+Organizations.—Any organization that commits any offense described in subsection (a) shall be fined not more than the greater of $10,000,000 or 3 times the value of the stolen trade secret to the organization, including expenses for research and design and other costs of reproducing the trade secret that the organization has thereby avoided.
 
 (Added Pub. L. 104–294, title I, §101(a), Oct. 11, 1996, 110 Stat. 3488; amended Pub. L. 112–269, §2, Jan. 14, 2013, 126 Stat. 2442.)
 

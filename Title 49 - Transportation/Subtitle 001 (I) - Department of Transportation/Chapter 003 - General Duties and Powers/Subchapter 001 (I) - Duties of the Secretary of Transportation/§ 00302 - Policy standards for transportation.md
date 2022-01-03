@@ -26,7 +26,7 @@
 
 Intermodal Transportation.—It is the policy of the United States Government to encourage and promote development of a national intermodal transportation system in the United States to move people and goods in an energy-efficient manner, provide the foundation for improved productivity growth, strengthen the Nation's ability to compete in the global economy, and obtain the optimum yield from the Nation's transportation resources.
 
-(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2419; Pub. L. 98–216, §2(2), Feb. 14, 1984, 98 Stat. 5; Pub.L. 102–240, title I, §1036(a), title V, §5001, Dec. 18, 1991, 105 Stat. 1978, 2158; Pub. L. 103–272, §5(m)(6), July 5, 1994, 108 Stat. 1375; Pub. L. 104–88, title III, §308(a), Dec. 29, 1995, 109 Stat. 946.)
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2419; Pub. L. 98–216, §2(2), Feb. 14, 1984, 98 Stat. 5; Pub. L. 102–240, title I, §1036(a), title V, §5001, Dec. 18, 1991, 105 Stat. 1978, 2158; Pub. L. 103–272, §5(m)(6), July 5, 1994, 108 Stat. 1375; Pub. L. 104–88, title III, §308(a), Dec. 29, 1995, 109 Stat. 946.)
 
 Historical and Revision Notes
 
@@ -56,6 +56,8 @@ In subsection (a), the words "In carrying out his duties and responsibilities un
 
 In subsection (c), the words "In exercising the functions, powers, and duties conferred on and transferred to the Secretary by this chapter" before "Secretary" are omitted as surplus. The word "consider" is substituted for "give full consideration to" to eliminate surplus words. The words "for operational continuity of the functions transferred" after "the needs" are omitted as executed.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1995</b>—Subsec. (a). Pub. L. 104–88 substituted "13101" for "10101a".
@@ -67,6 +69,8 @@ In subsection (c), the words "In exercising the functions, powers, and duties co
 Subsec. (e). Pub. L. 102–240, §5001, added subsec. (e).
 
 <b>1984</b>—Subsec. (b). Pub. L. 98–216 substituted "49 App. U.S.C." for "49 U.S.C.".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1995 Amendment
 

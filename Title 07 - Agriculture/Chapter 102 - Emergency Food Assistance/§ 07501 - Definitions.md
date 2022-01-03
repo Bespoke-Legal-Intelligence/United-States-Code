@@ -60,6 +60,8 @@ In this chapter:
 
 (Pub. L. 98–8, title II, §201A, as added Pub. L. 98–92, §2(2), Sept. 2, 1983, 97 Stat. 608; amended Pub. L. 99–198, title XV, §1563, Dec. 23, 1985, 99 Stat. 1590; Pub. L. 104–193, title VIII, §871(a), Aug. 22, 1996, 110 Stat. 2343.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning the Emergency Food Assistance Act of 1983, title II of Pub. L. 98–8, Mar. 24, 1983, 97 Stat. 35, as amended, which enacted this chapter and amended provisions set out as a note under section 612c of this title. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
@@ -72,6 +74,8 @@ The Older Americans Act of 1965, referred to in par. (3)(A)(iv), is Pub. L. 89�
 
 <b>1985</b>—Par. (1). Pub. L. 99–198 inserted before semicolon at end "(including the activities and projects of charitable institutions, food banks, hunger centers, soup kitchens, and similar public or private nonprofit eligible recipient agencies) hereinafter in this chapter referred to as 'emergency feeding organizations' ".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Pub. L. 98–92, §2, Sept. 2, 1983, 97 Stat. 608, provided in part that the amendments made by section 2 are effective Oct. 1, 1983.
@@ -79,4 +83,54 @@ Pub. L. 98–92, §2, Sept. 2, 1983, 97 Stat. 608, provided in part that the ame
 #### Short Title
 
 Pub. L. 98–8, title II, §201, Mar. 24, 1983, 97 Stat. 35, as amended by Pub. L. 98–92, §2(1), Sept. 2, 1983, 97 Stat. 608; Pub. L. 101–624, title XVII, §1772(a)(2), Nov. 28, 1990, 104 Stat. 3808, provided that: "This title \[enacting this chapter and amending provisions set out as a note under section 612c of this title\] may be cited as the 'Emergency Food Assistance Act of 1983', and is hereinafter in this title referred to as 'this Act'."
+
+#### Food Supply Chain and Agriculture Pandemic Response
+
+Pub. L. 117–2, title I, §1001, Mar. 11, 2021, 135 Stat. 10, provided that:
+
+"(a)
+
+Appropriation.—In addition to amounts otherwise available, there is appropriated to the Secretary of Agriculture for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $4,000,000,000, to remain available until expended, to carry out this section.
+
+"(b)
+
+Use of Funds.—The Secretary of Agriculture shall use the amounts made available pursuant to subsection (a)—
+
+&emsp;"(1) to purchase food and agricultural commodities;
+
+&emsp;"(2) to purchase and distribute agricultural commodities (including fresh produce, dairy, seafood, eggs, and meat) to individuals in need, including through delivery to nonprofit organizations and through restaurants and other food related entities, as determined by the Secretary, that may receive, store, process, and distribute food items;
+
+&emsp;"(3) to make grants and loans for small or midsized food processors or distributors, seafood processing facilities and processing vessels, farmers markets, producers, or other organizations to respond to COVID–19, including for measures to protect workers against COVID–19; and
+
+&emsp;"(4) to make loans and grants and provide other assistance to maintain and improve food and agricultural supply chain resiliency.
+
+"(c)
+
+Animal Health.—
+
+&emsp;"(1)
+
+COVID–19
+
+animal surveillance.—The Secretary of Agriculture shall conduct monitoring and surveillance of susceptible animals for incidence of SARS–CoV–2.
+
+&emsp;"(2)
+
+Funding.—Out of the amounts made available under subsection (a), the Secretary shall use $300,000,000 to carry out this subsection.
+
+"(d)
+
+Overtime Fees.—
+
+&emsp;"(1)
+
+Small establishment; very small establishment definitions.—The terms 'small establishment' and 'very small establishment' have the meaning given those terms in the final rule entitled 'Pathogen Reduction; Hazard Analysis and Critical Control Point (HACCP) Systems' published in the Federal Register on July 25, 1996 (61 Fed. Reg. 38806).
+
+&emsp;"(2)
+
+Overtime inspection cost reduction.—Notwithstanding section 10703 of the Farm Security and Rural Investment Act of 2002 (7 U.S.C. 2219a), the Act of June 5, 1948 (21 U.S.C. 695), section 25 of the Poultry Products Inspection Act (21 U.S.C. 468), and section 24 of the Egg Products Inspection Act (21 U.S.C. 1053), and any regulations promulgated by the Department of Agriculture implementing such provisions of law and subject to the availability of funds under paragraph (3), the Secretary of Agriculture shall reduce the amount of overtime inspection costs borne by federally-inspected small establishments and very small establishments engaged in meat, poultry, or egg products processing and subject to the requirements of the Federal Meat Inspection Act (21 U.S.C. 601 et seq.), the Poultry Products Inspection Act (21 U.S.C. 451 et seq.), or the Egg Products Inspection Act (21 U.S.C. 1031 et seq.), for inspection activities carried out during the period of fiscal years 2021 through 2030.
+
+&emsp;"(3)
+
+Funding.—Out of the amounts made available under subsection (a), the Secretary shall use $100,000,000 to carry out this subsection."
 

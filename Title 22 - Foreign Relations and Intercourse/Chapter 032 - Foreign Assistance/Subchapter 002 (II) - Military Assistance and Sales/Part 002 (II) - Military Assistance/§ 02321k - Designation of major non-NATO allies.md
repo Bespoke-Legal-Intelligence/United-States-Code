@@ -10,7 +10,7 @@ The President shall notify the Congress in writing at least 30 days before—
 
 #### (b) Initial designations
 
-Australia, Egypt, Israel, Japan, the Republic of Korea, and New Zealand shall be deemed tohave been so designated by the President as of the effective date of this section, and the President is not required to notify the Congress of such designation of those countries.
+Australia, Egypt, Israel, Japan, the Republic of Korea, and New Zealand shall be deemed to have been so designated by the President as of the effective date of this section, and the President is not required to notify the Congress of such designation of those countries.
 
 (Pub. L. 87–195, pt. II, §517, as added Pub. L. 104–164, title I, §147(a)(1), July 21, 1996, 110 Stat. 1434.)
 
@@ -32,7 +32,7 @@ A prior section 2321k, Pub. L. 87–195, pt. II, §517, as added Pub. L. 101–2
 
 Pub. L. 107–228, div. B, title XII, §1206, Sept. 30, 2002, 116 Stat. 1428, provided that: "Notwithstanding any other provision of law, for purposes of the transfer or possible transfer of defense articles or defense services under the Arms Export Control Act (22 U.S.C. 2751 et seq.), the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.), or any other provision of law, Taiwan shall be treated as though it were designated a major non-NATO ally (as defined in section 644(q) of the Foreign Assistance Act of 1961 (22 U.S.C. 2403(q))\[)\]."
 
-\[For definitions of "defense article" and "defense service" as used in section 1206 of Pub. L. 107–228, set out above, see section 1002 of Pub. L. 107–228, set out as a note under section 2151 of this title.\]
+\[For definitions of "defense article" and "defense service" as used in section 1206 of Pub. L. 107–228, setout above, see section 1002 of Pub. L. 107–228, set out as a note under section 2151 of this title.\]
 
 #### <b>Executive Documents</b>
 

@@ -84,13 +84,21 @@
 
 &emsp;&emsp;&emsp;(vii) an assessment of the extent to which additions, modifications, and replenishments reviewed under paragraph (2) align with previous relevant reports or reviews by the Secretary or the Comptroller General;
 
-&emsp;&emsp;&emsp;(viii) with respect to any change in the Federal organizational management of thestockpile, an assessment and comparison of the processes affected by such change, including planning for potential countermeasure deployment, distribution, or dispensing capabilities and processes related to procurement decisions, use of stockpiled countermeasures, and use of resources for such activities; and
+&emsp;&emsp;&emsp;(viii) with respect to any change in the Federal organizational management of the stockpile, an assessment and comparison of the processes affected by such change, including planning for potential countermeasure deployment, distribution, or dispensing capabilities and processes related to procurement decisions, use of stockpiled countermeasures, and use of resources for such activities; and
 
 &emsp;&emsp;&emsp;(ix) an assessment of whether the processes and procedures described by the Secretary pursuant to section 403(b) of the Pandemic and All-Hazards Preparedness and Advancing Innovation Act of 2019 are sufficient to ensure countermeasures and products under consideration for procurement pursuant to subsection (a) receive the same consideration regardless of whether such countermeasures and products receive or had received funding under section 247d–7e of this title, including with respect to whether such countermeasures and products are most appropriate to meet the emergency health security needs of the United States.
 
 #### (B) Submission
 
 &emsp;&emsp;Not later than 6 months after completing a classified version of the review under subparagraph (A), the Comptroller General shall submit an unclassified version of the review to the congressional committees of jurisdiction.
+
+#### (6) Transfers of items
+
+&emsp;The Secretary, in coordination with the Secretary of Homeland Security, may sell drugs, vaccines and other biological products, medical devices, or other supplies maintained in the stockpile under paragraph (1) to a Federal agency or private, nonprofit, State, local, tribal, or territorial entity for immediate use and distribution, provided that any such items being sold are—
+
+&emsp;&emsp;(A) within 1 year of their expiration date; or
+
+&emsp;&emsp;(B) determined by the Secretary to no longer be needed in the stockpile due to advances in medical or technical capabilities.
 
 #### (b) Smallpox vaccine development
 
@@ -120,7 +128,7 @@
 
 &emsp;&emsp;&emsp;(III)(aa) is approved or cleared under chapter V of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 351 et seq.\] or licensed under section 262 of this title; or
 
-&emsp;&emsp;&emsp;(bb) is a countermeasure for which the Secretary determines that sufficient and satisfactory clinical experience or research data (including data, if available, from pre-clinical and clinical trials) support a reasonable conclusion that the countermeasure will qualify for approval or licensing within 10 years after the date of a determination under paragraph (5); or
+&emsp;&emsp;&emsp;(bb) is a countermeasure for which the Secretary determines that sufficient and satisfactory clinical experience or researchdata (including data, if available, from pre-clinical and clinical trials) support a reasonable conclusion that the countermeasure will qualify for approval or licensing within 10 years after the date of a determination under paragraph (5); or
 
 &emsp;&emsp;&emsp;(ii) is authorized for emergency use under section 564 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360bbb–3\].
 
@@ -390,7 +398,7 @@ For purposes of subsection (a), the term "stockpile" includes—
 
 #### (1) Strategic National Stockpile
 
-&emsp;For the purpose of carrying out subsection (a), there are authorized to be appropriated$610,000,000 for each of fiscal years 2019 through 2023, to remain available until expended. Such authorization is in addition to amounts in the special reserve fund referred to in subsection (h).
+&emsp;For the purpose of carrying out subsection (a), there are authorized to be appropriated $610,000,000 for each of fiscal years 2019 through 2023, to remain available until expended. Such authorization is in addition to amounts in the special reserve fund referred to in subsection (h).
 
 #### (2) Smallpox vaccine development
 
@@ -430,7 +438,9 @@ In this section:
 
 &emsp;(2) The term "special reserve fund" means the "Biodefense Countermeasures" appropriations account, any appropriation made available pursuant to section 321j(a) of title 6, and any appropriation made available pursuant to subsection (g)(1).
 
-(July 1, 1944, ch. 373, title III, §319F–2, formerly Pub. L. 107–188, title I, §121, June 12, 2002, 116 Stat. 611; Pub. L. 107–296, title XVII, §1705(a), Nov. 25, 2002, 116 Stat. 2316; renumbered §319F–2 of act July 1, 1944, and amended Pub. L. 108–276, §3(a), July 21, 2004, 118 Stat. 842; Pub. L. 109–417, title I, §102(c), title IV, §§403(b), 406, Dec. 19, 2006, 120 Stat. 2834, 2874, 2879; Pub. L. 113–5, title IV, §§401, 403, Mar. 13, 2013, 127 Stat. 192, 196; Pub. L. 114–255, div. A, title III, §§3081, 3082(a), 3085, Dec. 13, 2016, 130 Stat. 1140, 1144; Pub. L. 116–22, title IV, §403(a), (c), title V, §§502, 504(a), title VII, §702, June 24, 2019, 133 Stat. 943, 947, 950, 951, 962; Pub. L. 116–136, div. A, title III, §3102, Mar. 27, 2020, 134 Stat. 361.)
+(July 1, 1944, ch. 373, title III, §319F–2, formerly Pub. L. 107–188, title I, §121, June 12, 2002, 116 Stat. 611; Pub. L. 107–296, title XVII, §1705(a), Nov. 25, 2002, 116 Stat. 2316; renumbered §319F–2 of act July 1, 1944, and amended Pub. L. 108–276, §3(a), July 21, 2004, 118 Stat. 842; Pub. L. 109–417, title I, §102(c), title IV, §§403(b), 406, Dec. 19, 2006, 120 Stat. 2834, 2874, 2879; Pub. L. 113–5, title IV, §§401, 403, Mar. 13, 2013, 127 Stat. 192, 196; Pub. L. 114–255, div. A, title III, §§3081, 3082(a), 3085, Dec. 13, 2016, 130 Stat. 1140, 1144; Pub. L. 116–22, title IV, §403(a), (c), title V, §§502, 504(a), title VII, §702, June 24, 2019, 133 Stat. 943, 947, 950, 951, 962; Pub. L. 116–136, div. A, title III, §3102, Mar. 27, 2020, 134 Stat. 361; Pub. L. 117–58, div. G, title IX, §70953(f)(3), Nov. 15, 2021, 135 Stat. 1316.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -465,6 +475,8 @@ In subsec. (c)(7)(B)(vii), "section 3306(a)(1)(B) of title 41" substituted for "
 Section was formerly classified to section 300hh–12 of this title prior to renumbering by Pub. L. 108–276.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(6). Pub. L. 117–58 added par. (6).
 
 <b>2020</b>—Subsec. (a)(1). Pub. L. 116–136 inserted "(including personal protective equipment, ancillary medical supplies, and other applicable supplies required for the administration of drugs, vaccines and other biological products, medical devices, and diagnostic tests in the stockpile)" after "other supplies".
 
@@ -504,7 +516,7 @@ Subsec. (c)(6). Pub. L. 114–255, §3085(2)(D), substituted "Recommendations fo
 
 Subsec. (c)(6)(A). Pub. L. 114–255, §3085(2)(C), amended subpar. (A) generally. Prior to amendment, text read as follows: "The Secretary and the Homeland Security Secretary shall notify the appropriate congressional committees of each decision of the President to approve a recommendation under subparagraph (A). Such notice shall include an explanation of the decision to make available the special reserve fund as defined in subsection (h) for procurement of such a countermeasure, including, where available, the number of, nature of, and other information concerning potential suppliers of such countermeasure, and whether other potential suppliers of the same or similar countermeasures were considered and rejected for procurement under this section and the reasons therefor."
 
-Pub. L. 114–255, §3085(2)(A), (B), redesignated subpar. (C) as (A) and struck out former subpar. (A). Text of former subpar. (A) read as follows: "In the case of a security countermeasure that the Secretary has, in accordance with paragraphs (3) and (5), determined to be appropriate for procurement under this subsection, the Homeland Security Secretary and the Secretary shalljointly submit to the President, in coordination with the Director of the Office of Management and Budget, a recommendation that the special reserve fund as defined in subsection (h) be made available for the procurement of such countermeasure."
+Pub. L. 114–255, §3085(2)(A), (B), redesignated subpar. (C) as (A) and struck out former subpar. (A). Text of former subpar. (A) read as follows: "In the case of a security countermeasure that the Secretary has, in accordance with paragraphs (3) and (5), determined to be appropriate for procurement under this subsection, the Homeland Security Secretary and the Secretary shall jointly submit to the President, in coordination with the Director of the Office of Management and Budget, a recommendation that the special reserve fund as defined in subsection (h) be made available for the procurement of such countermeasure."
 
 Subsec. (c)(6)(B). Pub. L. 114–255, §3085(2)(A), (B), redesignated subpar. (D) as (B) and struck out former subpar. (B). Text of former subpar. (B) read as follows: "The special reserve fund as defined in subsection (h) is available for a procurement of a security countermeasure only if the President has approved a recommendation under subparagraph (A) regarding the countermeasure."
 
@@ -542,7 +554,7 @@ Subsec. (c)(7)(C)(i)(I). Pub. L. 113–5, §401(a)(5)(A), inserted "including ad
 
 Subsec. (c)(7)(C)(ii)(III). Pub. L. 113–5, §401(a)(5)(B)(i), substituted "10 years" for "eight years".
 
-Subsec. (c)(7)(C)(ii)(IX). Pub. L. 113–5, §401(a)(5)(B)(ii), added subcl. (IX) and struck out former subcl. (IX). Prior to amendment, text read as follows: "The Secretary, in any contract for procurement under this section, may specify—
+Subsec. (c)(7)(C)(ii)(IX). Pub. L. 113–5, §401(a)(5)(B)(ii), added subcl. (IX) and struck out former subcl. (IX).Prior to amendment, text read as follows: "The Secretary, in any contract for procurement under this section, may specify—
 
 &emsp;"(aa) the dosing and administration requirements for countermeasures to be developed and procured;
 
@@ -574,7 +586,7 @@ Subsec. (c)(5)(B)(i). Pub. L. 109–417, §406(2)(D), substituted "to meet the s
 
 Subsec. (c)(7)(B). Pub. L. 109–417, §406(2)(E), substituted "cost" for "costs" in subpar. heading, struck out cl. (i) designation and heading before "The Homeland", and struck out heading and text of cl. (ii). Text read as follows: "The actual costs to the Secretary under this section, other than the costs described in clause (i), shall be paid from the appropriation provided for under subsection (f)(1) of this section."
 
-Subsec. (c)(7)(C)(ii)(I). Pub. L. 109–417, §406(2)(F)(i), amended heading and text of subcl. (I) generally. Priorto amendment, text read as follows: "The contract shall provide that no payment may be made until delivery has been made of a portion, acceptable to the Secretary, of the total number of units contracted for, except that, notwithstanding any other provision of law, the contract may provide that, if the Secretary determines (in the Secretary's discretion) that an advance payment is necessary to ensure success of a project, the Secretary may pay an amount, not to exceed 10 percent of the contract amount, in advance of delivery. The contract shall provide that such advance payment is required to be repaid if there is a failure to perform by the vendor under the contract. Nothing in this subclause may be construed as affecting rights of vendors under provisions of law or regulation (including the Federal Acquisition Regulation) relating to termination of contracts for the convenience of the Government."
+Subsec. (c)(7)(C)(ii)(I). Pub. L. 109–417, §406(2)(F)(i), amended heading and text of subcl. (I) generally. Prior to amendment, text read as follows: "The contract shall provide that no payment may be made until delivery has been made of a portion, acceptable to the Secretary, of the total number of units contracted for, except that, notwithstanding any other provision of law, the contract may provide that, if the Secretary determines (in the Secretary's discretion) that an advance payment is necessary to ensure success of a project, the Secretary may pay an amount, not to exceed 10 percent of the contract amount, in advance of delivery. The contract shall provide that such advance payment is required to be repaid if there is a failure to perform by the vendor under the contract. Nothing in this subclause may be construed as affecting rights of vendors under provisions of law or regulation (including the Federal Acquisition Regulation) relating to termination of contracts for the convenience of the Government."
 
 Subsec. (c)(7)(C)(ii)(VII) to (IX). Pub. L. 109–417, §406(2)(F)(ii), added subcls. (VII) to (IX).
 
@@ -585,6 +597,8 @@ Subsec. (c)(8)(A). Pub. L. 109–417, §406(2)(G), inserted at end "Such agreeme
 <b>2002</b>—Subsec. (a)(1). Pub. L. 107–296, §1705(a)(1), substituted "The Secretary of Homeland Security" for "The Secretary of Health and Human Services" and inserted "the Secretary of Health and Human Services and" after "in coordination with" and "of Health and Human Services" after "as are determined by the Secretary".
 
 Subsecs. (a)(2), (b)(1). Pub. L. 107–296, §1705(a)(2), inserted "of Health and Human Services" after "Secretary" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 
@@ -734,7 +748,7 @@ Exceptions.—
 
 &emsp;"(A)
 
-Functions.—The transfer of functions pursuant to paragraph (1) shall not include such functions as are explicitly assigned to the Secretary of Homeland Security by this Act \[see Short Title of 2004 Amendments note set out under section 201 of this title\] (including the amendments made by this Act).
+Functions.—The transfer of functions pursuant to paragraph (1) shall not include such functionsas are explicitly assigned to the Secretary of Homeland Security by this Act \[see Short Title of 2004 Amendments note set out under section 201 of this title\] (including the amendments made by this Act).
 
 &emsp;"(B)
 
@@ -826,13 +840,15 @@ Applicability.—Subsections (a) and (d) cease to apply as requirements if the P
 
 \[The Director is authorized and directed to publish this memorandum in the Federal Register.\]
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 13944. Combating Public Health Emergencies and Strengthening National Security by Ensuring Essential Medicines, Medical Countermeasures, and Critical Inputs Are Made in the United States
 
 Ex. Ord. No. 13944, Aug. 6, 2020, 85 F.R. 49929, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. The United States must protect our citizens, critical infrastructure, military forces, and economy against outbreaks of emerging infectious diseases and chemical, biological, radiological, and nuclear (CBRN) threats. To achieve this, the United States must have a strong Public Health Industrial Base with resilient domestic supply chains for Essential Medicines, Medical Countermeasures, and Critical Inputs deemed necessary for the United States. These domestic supply chains must be capable of meeting national security requirements for responding to threats arising from CBRN threats and public health emergencies, including emerging infectious diseases such as COVID–19. It is critical that we reduce our dependence on foreign manufacturers for Essential Medicines, Medical Countermeasures, and Critical Inputs to ensure sufficient and reliable long-term domestic production of these products, to minimize potential shortages, and to mobilize our Nation's Public Health Industrial Base to respond to these threats. It is therefore the policy of the United States to:
+Section 1. <i>Policy</i>. The United States must protect our citizens, critical infrastructure, military forces, and economy against outbreaks of emerging infectious diseases and chemical, biological, radiological, and nuclear (CBRN) threats. To achieve this, the United States must have a strong Public Health IndustrialBase with resilient domestic supply chains for Essential Medicines, Medical Countermeasures, and Critical Inputs deemed necessary for the United States. These domestic supply chains must be capable of meeting national security requirements for responding to threats arising from CBRN threats and public health emergencies, including emerging infectious diseases such as COVID–19. It is critical that we reduce our dependence on foreign manufacturers for Essential Medicines, Medical Countermeasures, and Critical Inputs to ensure sufficient and reliable long-term domestic production of these products, to minimize potential shortages, and to mobilize our Nation's Public Health Industrial Base to respond to these threats. It is therefore the policy of the United States to:
 
 (a) accelerate the development of cost-effective and efficient domestic production of Essential Medicines and Medical Countermeasures and have adequate redundancy built into the domestic supply chain for Essential Medicines, Medical Countermeasures, and Critical Inputs;
 
@@ -844,7 +860,7 @@ Section 1. <i>Policy</i>. The United States must protect our citizens, critical 
 
 I am therefore directing each executive department and agency involved in the procurement of Essential Medicines, Medical Countermeasures, and Critical Inputs (agency) to consider a variety of actions to increase their domestic procurement of Essential Medicines, Medical Countermeasures, and Critical Inputs, and to identify vulnerabilities in our Nation's supply chains for these products. Under this order, agencies will have the necessary flexibility to increase their domestic procurement in appropriate and responsible ways, while protecting our Nation's service members, veterans, and their families from increases in drug prices and without interfering with our Nation's ability to respond to the spread of COVID–19.
 
-Sec. 2. <i>Maximizing Domestic Production in Procurement</i>. (a) Agencies shall, as appropriate, to the maximum extent permitted by applicable law, and in consultation with the Commissioner of Food and Drugs (FDA Commissioner) with respect to Critical Inputs, use their respective authorities under section 2304(c) of title 10, United States Code; section 3304(a) of title 41, United States Code; and subpart 6.3 of the Federal Acquisition Regulation, title 48, Code of Federal Regulations, to conduct the procurement of Essential Medicines, Medical Countermeasures, and Critical Inputs by:
+Sec. 2. <i>Maximizing Domestic Production in Procurement</i>. (a) Agencies shall, as appropriate, to the maximum extent permitted by applicable law, and in consultation with the Commissioner of Food and Drugs (FDA Commissioner) with respect to Critical Inputs, use their respective authorities under section 2304(c) of title 10, United States Code \[now 10 U.S.C. 3204(a)\]; section 3304(a) of title 41, United States Code; and subpart 6.3 of the Federal Acquisition Regulation, title 48, Code of Federal Regulations, to conduct the procurement of Essential Medicines, Medical Countermeasures, and Critical Inputs by:
 
 (i) using procedures to limit competition to only those Essential Medicines, Medical Countermeasures, and Critical Inputs that are produced in the United States; and
 
@@ -904,7 +920,7 @@ Sec. 3. <i>Identifying Vulnerabilities in Supply Chains</i>. (a) Within 180 days
 
 (c) Within 90 days of the date of this order, and periodically updated as appropriate, the FDA Commissioner, in consultation with the Director of OMB, the Assistant Secretary for Preparedness and Response in the Department of Health and Human Services, the Assistant to the President for Economic Policy, and the Director of the Office of Trade and Manufacturing Policy, shall identify the list of Essential Medicines, Medical Countermeasures, and their Critical Inputs that are medically necessary to have available at all times in an amount adequate to serve patient needs and in the appropriate dosage forms.
 
-(d) Within 180 days of the date of this order, the Secretary of Defense, in consultation with the Director of OMB, shall take all necessary and appropriate action, consistent with law, to identify vulnerabilities in the supply chain for Essential Medicines, Medical Countermeasures, and Critical Inputs necessary to meet the unique needs of the United States Armed Forces and to mitigate the vulnerabilities identified in subsection (a)of this section. The Secretary of Defense shall provide to the Secretary of Health and Human Services, the FDA Commissioner, the Director of OMB, and the Director of the Office of Trade and Manufacturing Policy a list of defense-specific Essential Medicines, Medical Countermeasures, and Critical Inputs that are medically necessary to have available for defense use in adequate amounts and in appropriate dosage forms. The Secretary of Defense shall, as appropriate, periodically update this list.
+(d) Within 180 days of the date of this order, the Secretary of Defense, in consultation with the Director of OMB, shall take all necessary and appropriate action, consistent with law, to identify vulnerabilities in the supply chain for Essential Medicines, Medical Countermeasures, and Critical Inputs necessary to meet the unique needs of the United States Armed Forces and to mitigate the vulnerabilities identified in subsection (a) of this section. The Secretary of Defense shall provide to the Secretary of Health and Human Services, the FDA Commissioner, the Director of OMB, and the Director of the Office of Trade and Manufacturing Policy a list of defense-specific Essential Medicines, Medical Countermeasures, and Critical Inputs that are medically necessary to have available for defense use in adequate amounts and in appropriate dosage forms. The Secretary of Defense shall, as appropriate, periodically update this list.
 
 Sec. 4. <i>Streamlining Regulatory Requirements</i>. Consistent with law, the Administrator of the Environmental Protection Agency shall take all appropriate action to identify relevant requirements and guidance documents that can be streamlined to provide for the development of Advanced Manufacturing facilities and the expeditious domestic production of Critical Inputs, including by accelerating siting and permitting approvals.
 
@@ -968,7 +984,7 @@ Sec. 10. <i>General Provisions</i>. (a) Nothing in this order shall be construed
 
 (b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
 
-(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against theUnited States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1003,6 +1019,84 @@ Sec. 6. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 14001. A Sustainable Public Health Supply Chain
+
+Ex. Ord. No. 14001, Jan. 21, 2021, 86 F.R. 7219, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Defense Production Act of 1950, as amended (50 U.S.C. 4501 <i>et seq</i>.), sections 319 and 361 of the Public Health Service Act (42 U.S.C. 247d and 264), sections 306 and 307 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5149 and 5150), and section 301 of title 3, United States Code, it is hereby ordered as follows:
+
+Section 1. <i>Purpose</i>. The Federal Government must act urgently and effectively to combat the coronavirus disease 2019 (COVID–19) pandemic. To that end, this order directs immediate actions to secure supplies necessary for responding to the pandemic, so that those supplies are available, and remain available, to the Federal Government and State, local, Tribal, and territorial authorities, as well as to America's health care workers, health systems, and patients. These supplies are vital to the Nation's ability to reopen its schools and economy as soon and safely as possible.
+
+Sec. 2. <i>Immediate Inventory of Response Supplies and Identification of Emergency Needs</i>. (a) The Secretary of State, the Secretary of Defense, the Secretary of Health and Human Services, the Secretary of Homeland Security, and the heads of appropriate executive departments and agencies (agencies), in coordination with the COVID–19 Response Coordinator, shall:
+
+(i) immediately review the availability of critical materials, treatments, and supplies needed to combat COVID–19 (pandemic response supplies), including personal protective equipment (PPE) and the resources necessary to effectively produce and distribute tests and vaccines at scale; and
+
+(ii) assess, including by reviewing prior such assessments, whether United States industry can be reasonably expected to provide such supplies in a timely manner.
+
+(b) Where a review and assessment described in section 2(a)(i) of this order identifies shortfalls in the provision of pandemic response supplies, the head of the relevant agency shall:
+
+(i) promptly revise its operational assumptions and planning factors being used to determine the scope and prioritization, acquisition, and distribution of such supplies; and
+
+(ii) take appropriate action using all available legal authorities, including the Defense Production Act, to fill those shortfalls as soon as practicable by acquiring additional stockpiles, improving distribution systems, building market capacity, or expanding the industrial base.
+
+(c) Upon completing the review and assessment described in section 2(a)(i) of this order, the Secretary of Health and Human Services shall provide to the President, through the COVID–19 Response Coordinator, a report on the status and inventory of the Strategic National Stockpile.
+
+(d) The Secretary of State, the Secretary of Defense, the Secretary of Health and Human Services, the Secretary of Homeland Security, and the heads of any other agencies relevant to inventorying pandemic response supplies shall, as soon as practicable, provide to the President, through the COVID–19 Response Coordinator, a report consisting of:
+
+(i) an assessment of the need for, and an inventory of current supplies of, key pandemic response supplies;
+
+(ii) an analysis of their agency's capacity to produce, provide, and distribute pandemic response supplies;
+
+(iii) an assessment of their agency's procurement of pandemic response supplies on the availability of such supplies on the open market;
+
+(iv) an account of all existing or ongoing agency actions, contracts, and investment agreements regarding pandemic response supplies;
+
+(v) a list of any gaps between the needs identified in section 2(a)(i) of this order and supply chain delivery, and recommendations on how to close such gaps; and
+
+(vi) a compilation and summary of their agency's existing distribution and prioritization plans for pandemic response supplies, which shall include any assumptions or planning factors used to determine such needs and any recommendations for changes to such assumptions or factors.
+
+(e) The COVID–19 Response Coordinator, in coordination with the heads of appropriate agencies, shall review the report described in section 2(d) of this order and submit recommendations to the President that address:
+
+(i) whether additional use of the Defense Production Act, by the President or agencies exercising delegated authority under the Act, would be helpful; and
+
+(ii) the extent to which liability risk, regulatory requirements, or other factors impede the development, production, and procurement of pandemic response supplies, and any actions that can be taken, consistent with law, to remove those impediments.
+
+(f) The heads of agencies responsible for completing the requirements of this section, as appropriate and in coordination with the COVID–19 Response Coordinator, shall consult with State, local, Tribal, and territorial authorities, as well as with other entities critical to assessing the availability of and need for pandemic response supplies.
+
+Sec. 3. <i>Pricing</i>. To take steps to address the pricing of pandemic response supplies:
+
+(a) The Secretary of Health and Human Services shall promptly recommend to the President, through the COVID–19 Response Coordinator, whether any changes should be made to the authorities delegated to the Secretary by Executive Order 13910 of March 23, 2020 (Preventing Hoarding of Health and Medical Resources To Respond to the Spread of COVID–19) \[50 U.S.C. 4512 note\], with respect to scarce materials or materials the supply of which would be threatened by accumulation for the purpose of hoarding or price gouging.
+
+(b) The Secretary of Defense, the Secretary of Health and Human Services, and the Secretary of Homeland Security shall promptly review and provide to the President, through the COVID–19 Response Coordinator, recommendations for how to address the pricing of pandemic response supplies, including whether and how to direct the use of reasonable pricing clauses in Federal contracts and investment agreements, or other related vehicles, and whether to use General Services Administration Schedules to facilitate State, local, Tribal, and territorial government buyers and compacts in purchasing pandemic response supplies using Federal supply schedules.
+
+Sec. 4. <i>Pandemic Supply Chain Resilience Strategy</i>. Within 180 days of the date of this order \[Jan. 21, 2021\], the Secretary of Defense, the Secretary of Health and Human Services, and the Secretary of Homeland Security, in coordination with the Assistant to the President for National Security Affairs (APNSA), the Assistant to the President for Domestic Policy, the COVID–19 Response Coordinator, and the heads of any agencies or entities selected by the APNSA and COVID–19 Response Coordinator, shall provide to the President a strategy to design, build, and sustain a long-term capability in the United States to manufacture supplies for future pandemics and biological threats. This strategy shall include:
+
+(a) mechanisms to respond to emergency supply needs of State, local, Tribal, and territorial authorities, which should include standards and processes to prioritize requests and delivery and to ensure equitable distribution based on public health criteria;
+
+(b) an analysis of the role of foreign supply chains in America's pandemic supply chain, America's role in the international public health supply chain, and options for strengthening and better coordinating global supply chain systems in future pandemics;
+
+(c) mechanisms to address points of failure in the supply chains and to ensure necessary redundancies;
+
+(d) the roles of the Strategic National Stockpile and other Federal and military stockpiles in providing pandemic supplies on an ongoing or emergency basis, including their roles in allocating supplies across States, localities, tribes, and territories, sustaining supplies during a pandemic, and in contingency planning to ensure adequate preparedness for future pandemics and public health emergencies;
+
+(e) approaches to assess and maximize the value and efficacy of public/private partnerships and the value of Federal investments in latent manufacturing capacity; and
+
+(f) an approach to develop a multi-year implementation plan for domestic production of pandemic supplies.
+
+Sec. 5. <i>Access to Strategic National Stockpile</i>. The Secretary of Health and Human Services shall consult with Tribal authorities and take steps, as appropriate and consistent with applicable law, to facilitate access to the Strategic National Stockpile for federally recognized Tribal governments, Indian Health Service healthcare providers, Tribal health authorities, and Urban Indian Organizations.
+
+Sec. 6. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Designation and Authorization To Perform Functions Under Section 319F–2 of the Public Health Service Act
 

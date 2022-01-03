@@ -8,7 +8,7 @@ There is established within the Foundation a National Center for Science and Eng
 
 In carrying out subsection (a) of this section, the Director, acting through the Center shall—
 
-&emsp;(1) collect, acquire, analyze, report, and disseminate statistical data related to thescience and engineering enterprise in the United States and other nations that is relevant and useful to practitioners, researchers, policymakers, and the public, including statistical data on—
+&emsp;(1) collect, acquire, analyze, report, and disseminate statistical data related to the science and engineering enterprise in the United States and other nations that is relevant and useful to practitioners, researchers, policymakers, and the public, including statistical data on—
 
 &emsp;&emsp;(A) research and development trends;
 
@@ -28,9 +28,13 @@ The Director or the National Science Board, acting through the Center, shall iss
 
 (Pub. L. 111–358, title V, §505, Jan. 4, 2011, 124 Stat. 4007.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the America COMPETES Reauthorization Act of 2010, also known as the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Reauthorization Act of 2010, and also as part of the National Science Foundation Authorization Act of 2010, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Research on Efficiency of Skilled Technical Labor Markets
 

@@ -16,7 +16,7 @@ Way End-of-Train Devices.—(1) The Secretary shall require 2-way end-of-train d
 
 &emsp;(D) provide that any 2-way end-of-train device acquired for use on trains before the regulations are prescribed shall be deemed to meet the standards.
 
-(2) The Secretary may consider petitions to amend the regulations prescribed under paragraph (1) of this subsection to allow the use of alternative technologies that meet the same basic performance requirements established by the regulations.
+(2) The Secretary may consider petitions to amend the regulations prescribed under paragraph (1) of this subsection to allow the use of alternative technologies that meet the samebasic performance requirements established by the regulations.
 
 (3) In developing the regulations required by paragraph (1) of this subsection, the Secretary shall consider information presented under subsection (a) of this section.
 
@@ -59,6 +59,8 @@ Oct. 16, 1970, Pub. L. 91–458, 84 Stat. 971, §202(r); added Sept. 3, 1992, Pu
 20141(c)
 
 45:431(r)(4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Study and Testing of Electronically Controlled Pneumatic Brakes
 

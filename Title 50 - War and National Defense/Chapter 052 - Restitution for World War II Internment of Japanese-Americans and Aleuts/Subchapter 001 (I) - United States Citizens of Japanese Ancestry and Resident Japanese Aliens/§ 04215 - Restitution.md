@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraph (7), the Attorney General shall, subject to the availability of funds appropriated to the Fund for such purpose, payout of the Fund to each eligible individual the sum of $20,000, unless such individual refuses, in the manner described in paragraph (5), to accept the payment.
+&emsp;Subject to paragraph (7), the Attorney General shall, subject to the availability of funds appropriated to the Fund for such purpose, pay out of the Fund to each eligible individual the sum of $20,000, unless such individual refuses, in the manner described in paragraph (5), to accept the payment.
 
 #### (2) Location of eligible individuals
 
@@ -16,7 +16,7 @@
 
 #### (4) Notice from the Attorney General
 
-&emsp;The Attorney General shall, when funds are appropriated to the Fund for payments to an eligible individual under this section, notify that eligible individual in writing of his or her eligibility for payment under this section. Such notice shall inform the eligible individual that—
+&emsp;The Attorney General shall, when funds are appropriated to the Fund for payments to aneligible individual under this section, notify that eligible individual in writing of his or her eligibility for payment under this section. Such notice shall inform the eligible individual that—
 
 &emsp;&emsp;(A) acceptance of payment under this section shall be in full satisfaction of all claims against the United States arising out of acts described in section 4218(2)(B) of this title, and
 
@@ -106,6 +106,8 @@ Amounts paid to an eligible individual under this section—
 
 (Pub. L. 100–383, title I, §105, Aug. 10, 1988, 102 Stat. 905; Pub. L. 101–162, title II, §209(b), Nov. 21, 1989, 103 Stat. 1005; Pub. L. 102–371, §§4–6(a), Sept. 27, 1992, 106 Stat. 1167, 1168; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 1989b–4 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
@@ -137,6 +139,8 @@ Subsec. (h). Pub. L. 102–572 substituted "United States Court of Federal Claim
 Pub. L. 102–371, §4(b), added subsec. (h).
 
 <b>1989</b>—Subsec. (g). Pub. L. 101–162 added subsec. (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

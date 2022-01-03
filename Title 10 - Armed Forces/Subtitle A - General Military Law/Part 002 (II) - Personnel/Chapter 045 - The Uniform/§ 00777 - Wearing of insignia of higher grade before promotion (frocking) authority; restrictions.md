@@ -34,11 +34,13 @@ Benefits Not To Be Construed as Accruing.—(1) Authority provided to an officer
 
 (d)
 
-Limitation on Number of Officers Frocked to Specified Grades.—(1) The total number of colonels, Navy captains, brigadier generals, and rear admirals (lower half) on the active-duty list who are authorized as described in subsection (a) to wear the insignia for the next higher grade may not exceed 85.
+Limitation on Number of Officers Frocked to Specified Grades.—(1) The total number of colonels, Navy captains, brigadier generals, and rear admirals (lower half) on the active-duty list who are authorized as describedin subsection (a) to wear the insignia for the next higher grade may not exceed 85.
 
 (2) The number of officers of an armed force on the active-duty list who are authorized as described in subsection (a) to wear the insignia for a grade to which a limitation on total number applies under section 523(a) of this title for a fiscal year may not exceed 1 percent, or, for the grades of colonel and Navy captain, 2 percent, of the total number provided for the officers in that grade in that armed force in the administration of the limitation under that section for that fiscal year.
 
 (Added Pub. L. 104–106, div. A, title V, §503(a)(1), Feb. 10, 1996, 110 Stat. 294; amended Pub. L. 105–85, div. A, title V, §505, Nov. 18, 1997, 111 Stat. 1726; Pub. L. 106–65, div. A, title V, §502, Oct. 5, 1999, 113 Stat. 590; Pub. L. 108–136, div. A, title V, §509(a), Nov. 24, 2003, 117 Stat. 1458; Pub. L. 108–375, div. A, title V, §503, Oct. 28, 2004, 118 Stat. 1875; Pub. L. 109–163, div. A, title V, §§503(c), 504, Jan. 6, 2006, 119 Stat. 3226; Pub. L. 111–383, div. A, title V, §505(b), Jan. 7, 2011, 124 Stat. 4210.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -63,6 +65,8 @@ Subsec. (d)(2), (3). Pub. L. 109–163, §504(2), (3), redesignated par. (3) as 
 "(C) After fiscal year 1998, 35."
 
 <b>1997</b>—Subsec. (d)(2). Pub. L. 105–85 inserted ", or, for the grades of colonel and Navy captain, 2 percent," after "1 percent".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

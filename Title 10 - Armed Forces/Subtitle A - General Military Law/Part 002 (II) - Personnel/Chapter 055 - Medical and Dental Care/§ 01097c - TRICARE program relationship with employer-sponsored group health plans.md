@@ -46,6 +46,8 @@ Effective Date.—This section shall take effect on January 1, 2008.
 
 (Added Pub. L. 109–364, div. A, title VII, §707(a), Oct. 17, 2006, 120 Stat. 2283.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1079(j) of this title, referred to in subsec. (a)(1), was redesignated section 1079(i) of this title by Pub. L. 113–291, div. A, title VII, §703(a)(3), Dec. 19, 2014, 128 Stat. 3411.

@@ -10,9 +10,13 @@ Except where otherwise expressly provided, the Commission is authorized to defin
 
 (Pub. L. 95–621, title V, §501, Nov. 9, 1978, 92 Stat. 3396; Pub. L. 101–60, §3(b)(4), July 26, 1989, 103 Stat. 159.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1989</b>—Subsec. (c). Pub. L. 101–60 struck out subsec. (c) which authorized Commission to delegate to any State agency (with consent of such agency) any of its functions with respect to sections 3315, 3316(b), and 3319(a)(1) and (3) of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1989 Amendment
 

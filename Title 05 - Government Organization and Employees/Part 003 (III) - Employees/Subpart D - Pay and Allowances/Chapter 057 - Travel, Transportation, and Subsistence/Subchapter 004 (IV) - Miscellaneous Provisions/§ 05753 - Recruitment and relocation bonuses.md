@@ -68,7 +68,7 @@
 
 (f) The Office shall require that an agency establish a plan for the payment of recruitment bonuses before paying any such bonuses, and a plan for the payment of relocation bonuses before paying any such bonuses, subject to regulations prescribed by the Office.
 
-(g) The Office may prescribe regulations to carry out this section, including regulations relating to the repayment of a bonus under thissection in appropriate circumstances when the agreed-upon service period has not been completed.
+(g) The Office may prescribe regulations to carry out this section, including regulations relating to the repayment of a bonus under this section in appropriate circumstances when the agreed-upon service period has not been completed.
 
 (Added Pub. L. 108–411, title I, §101(a)(1), Oct. 30, 2004, 118 Stat. 2305; amended Pub. L. 114–323, title IV, §412(1), Dec. 16, 2016, 130 Stat. 1932.)
 
@@ -103,4 +103,8 @@ Application to agreements.—A recruitment or relocation bonus service agreement
 "(3)
 
 Application to allowances.—Payment of a retention allowance that was authorized under section 5754 of title 5, United States Code, before the effective date under paragraph (1) shall continue, subject to such section as in effect on the day before such effective date, until the retention allowance is reauthorized or terminated (but no longer than 1 year after such effective date)."
+
+#### Incentives for Critical Posts
+
+Pub. L. 111–32, title XI, §1115(d), June 24, 2009, 123 Stat. 1906, as amended by Pub. L. 117–81, div. E, title LIII, §5315, Dec. 27, 2021, 135 Stat. 2366, provided that: "Notwithstanding sections 5753(a)(2)(A) and 5754(a)(2)(A) of title 5, United States Code, appropriations made available by this or any other Act may be used to pay recruitment, relocation, and retention bonuses under chapter 57 of title 5, United States Code\[,\] to members of the Foreign Service, other than chiefs of mission and ambassadors at large, who are on official duty in Iraq, Afghanistan, or Pakistan."
 

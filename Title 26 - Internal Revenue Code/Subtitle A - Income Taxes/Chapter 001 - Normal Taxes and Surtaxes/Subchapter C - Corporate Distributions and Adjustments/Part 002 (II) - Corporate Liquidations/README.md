@@ -9,6 +9,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2003</b>—Pub. L. 108–27, title III, §302(e)(4)(B)(iii), May 28, 2003, 117 Stat. 764, struck out item for subpart C "Collapsible corporations".

@@ -84,7 +84,7 @@ The Secretary shall only allow such uses of the National Conservation Area as th
 
 #### (2) Incorporation in National Conservation Area
 
-&emsp;Any land or interest in land located inside the boundary of the National ConservationArea that is acquired by the United States after March 12, 2019, shall be added to and administered as part of the National Conservation Area.
+&emsp;Any land or interest in land located inside the boundary of the National Conservation Area that is acquired by the United States after March 12, 2019, shall be added to and administered as part of the National Conservation Area.
 
 #### (3) State land
 
@@ -146,7 +146,7 @@ Nothing in this section—
 
 #### (2) Activities outside National Conservation Area
 
-&emsp;The fact that an authorized activity or use on land outside the National Conservation Area can be seen or heard within the National Conservation Area shall not preclude the activity or use outside the boundary of the Area.
+&emsp;The fact that an authorized activity or use on land outside the National ConservationArea can be seen or heard within the National Conservation Area shall not preclude the activity or use outside the boundary of the Area.
 
 #### (o) Withdrawal
 
@@ -174,7 +174,7 @@ Except for improved campgrounds, the Secretary is prohibited from collecting rec
 
 #### (s) Outfitting and guide activities
 
-Outfitting and guide services within the National Conservation Area, including commercial outfitting and guide services, are authorized inaccordance with this section and other applicable law (including regulations).
+Outfitting and guide services within the National Conservation Area, including commercial outfitting and guide services, are authorized in accordance with this section and other applicable law (including regulations).
 
 #### (t) Non-Federal land
 
@@ -192,6 +192,8 @@ The Secretary may establish programs and projects for the conduct of scientific,
 
 (Pub. L. 116–9, title I, §1118, Mar. 12, 2019, 133 Stat. 627.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Land Policy and Management Act of 1976, referred to in subsec. (e)(2)(A), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
@@ -199,6 +201,8 @@ The Federal Land Policy and Management Act of 1976, referred to in subsec. (e)(2
 #### Prior Provisions
 
 A prior section 460cccc, Pub. L. 115–141, div. G, title I, §121(a)(2), Mar. 23, 2018, 132 Stat. 661, which related to Ste. Genevieve National Historical Park, was transferred to section 410xxx of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definition of "Secretary"
 

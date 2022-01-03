@@ -4,6 +4,8 @@ In addition to the penalty imposed by section 7207 (relating to fraudulent retur
 
 (Added Pub. L. 91–172, title I, §101(e)(4), Dec. 30, 1969, 83 Stat. 524; amended Pub. L. 96–603, §1(d)(4), Dec. 28, 1980, 94 Stat. 3504; Pub. L. 100–203, title X, §10704(b)(1), Dec. 22, 1987, 101 Stat. 1330–462; Pub. L. 104–168, title XIII, §1313(b), July 30, 1996, 110 Stat. 1480; Pub. L. 105–277, div. J, title I, §1004(b)(2)(D), Oct. 21, 1998, 112 Stat. 2681–890.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Pub. L. 105–277 struck out "or (e)" after "subsection (d)".
@@ -13,6 +15,8 @@ In addition to the penalty imposed by section 7207 (relating to fraudulent retur
 <b>1987</b>—Pub. L. 100–203 substituted current section catchline for "Assessable penalties with respect to private foundation annual returns" and amended text generally. Prior to amendment, text read as follows: "In addition to the penalty imposed by section 7207 (relating to fraudulent returns, statements, or other documents), any person who is required to comply with the requirements of section 6104(d) (relating to private foundations' annual returns) and who fails to so comply with respect to any return, if such failure is willful, shall pay a penalty of $1,000 with respect to each such return."
 
 <b>1980</b>—Pub. L. 96–603 substituted in section catchline "returns" for "reports", and in text "required to comply" for "required to file the report and the notice required under section 6056 (relating to annual reports by private foundations) or to comply", "(relating to private foundations' annual returns) and who fails to so comply with respect to any return" for "(relating to public inspection of private foundations' annual reports) and who fails so to file or comply", and "each such return" for "each such report or notice".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 
@@ -28,7 +32,7 @@ Amendment by Pub. L. 100–203 applicable to returns for years beginning after D
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–603 applicable to taxable years beginning after Dec. 31, 1980, see section 1(f) ofPub. L. 96–603, set out as a note under section 6033 of this title.
+Amendment by Pub. L. 96–603 applicable to taxable years beginning after Dec. 31, 1980, see section 1(f) of Pub. L. 96–603, set out as a note under section 6033 of this title.
 
 #### Effective Date
 

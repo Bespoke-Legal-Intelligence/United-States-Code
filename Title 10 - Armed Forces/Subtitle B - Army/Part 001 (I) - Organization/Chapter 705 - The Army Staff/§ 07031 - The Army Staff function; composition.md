@@ -64,6 +64,8 @@ In subsections (c) and (d), the word "hereafter" is omitted, since all wars and 
 
 In subsection (d), the second sentence is substituted for 10:21a(d) (last 31 words of 1st sentence). The third sentence is substituted for 10:21a(d) (2d sentence). 10:21a(d) (1st 13 words of last sentence) is omitted as executed. The words "This subsection does not apply" are substituted for the words "and shall be in applicable".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 3031 of this title as this section.
@@ -75,6 +77,8 @@ In subsection (d), the second sentence is substituted for 10:21a(d) (last 31 wor
 <b>1975</b>—Subsec. (c). Pub. L. 93–608 struck out requirement of quarterly report to Congress on the number of officers in the executive part of the Department of the Army and the number of commissioned officers on or with the Army General Staff and the justification therefor.
 
 <b>1974</b>—Subsec. (a)(3). Pub. L. 93–547 increased the number of Deputy Chiefs of Staff from three to four.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

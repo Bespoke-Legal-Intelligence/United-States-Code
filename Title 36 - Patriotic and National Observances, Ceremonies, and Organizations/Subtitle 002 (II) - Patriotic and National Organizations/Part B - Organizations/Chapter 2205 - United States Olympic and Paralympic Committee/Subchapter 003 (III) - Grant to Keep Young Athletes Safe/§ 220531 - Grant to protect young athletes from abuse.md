@@ -10,7 +10,7 @@ Applications.—To be eligible to receive a grant under this section, a nonprofi
 
 &emsp;(1) nationally recognized expertise in preventing and investigating emotional, physical, and sexual abuse in the athletic programs of the United States Olympic and Paralympic Committee and each national governing body; and
 
-&emsp;(2) the capacity to oversee regular and random audits to ensure that the policies and procedures used by the United States Olympicand Paralympic Committee and each national governing body to prevent and identify the abuse of an amateur athlete are followed correctly.
+&emsp;(2) the capacity to oversee regular and random audits to ensure that the policies and procedures used by the United States Olympic and Paralympic Committee and each national governing body to prevent and identify the abuse of an amateur athlete are followed correctly.
 
 (c)
 
@@ -28,7 +28,7 @@ Authorization of Appropriations.—
 
 &emsp;(1)
 
-In general.—There is authorized to be appropriated to carry out this section $2,500,000 for each of the fiscal years 2018 through 2022.
+In general.—There is authorized to be appropriated to carry out this section$2,500,000 for each of the fiscal years 2018 through 2022.
 
 &emsp;(2)
 

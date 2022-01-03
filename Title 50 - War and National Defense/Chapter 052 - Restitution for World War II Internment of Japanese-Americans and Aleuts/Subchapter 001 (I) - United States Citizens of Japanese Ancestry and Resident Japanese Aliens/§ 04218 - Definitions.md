@@ -30,6 +30,8 @@ For the purposes of this subchapter—
 
 (Pub. L. 100–383, title I, §108, Aug. 10, 1988, 102 Stat. 910; Pub. L. 102–371, §3, Sept. 27, 1992, 106 Stat. 1167.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Executive Order Numbered 9066, dated February 19, 1942, referred to in par. (2)(B)(i)(I), is not classified to the Code.

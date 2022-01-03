@@ -26,7 +26,7 @@
 
 #### (2) Failures corrected on or before August 1
 
-&emsp;If any failure described in subsection (a)(2) is corrected after the 30th day referred to inparagraph (1) but on or before August 1 of the calendar year in which the required filing date occurs—
+&emsp;If any failure described in subsection (a)(2) is corrected after the 30th day referred to in paragraph (1) but on or before August 1 of the calendar year in which the required filing date occurs—
 
 &emsp;&emsp;(A) the penalty imposed by subsection (a) shall be $100 in lieu of $250, and
 
@@ -114,7 +114,7 @@ If 1 or more failures described in subsection (a)(2) are due to intentional disr
 
 &emsp;&emsp;&emsp;(i) $25,000, or
 
-&emsp;&emsp;&emsp;(ii) the amount of cash (within the meaning of section 6050I(d)) received in such transaction (or related transactions) to the extent the amount of such cash does not exceed $100,000, or
+&emsp;&emsp;&emsp;(ii) the amount of cash (within the meaning of section 6050I(d)) received insuch transaction (or related transactions) to the extent the amount of such cash does not exceed $100,000, or
 
 &emsp;&emsp;(D) in the case of a return required to be filed under section 6050V, 10 percent of the value of the benefit of any contract with respect to which information is required to be included on the return, and
 
@@ -143,6 +143,8 @@ If 1 or more failures described in subsection (a)(2) are due to intentional disr
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -208,9 +210,11 @@ Subsec. (f). Pub. L. 111–240, §2102(f), added subsec. (f).
 
 <b>1990</b>—Subsec. (e)(2). Pub. L. 101–508 inserted "6050I," after "6050H," and struck out "or" at end of subpar. (A), substituted "or" for "and" at end of subpar. (B), and added subpar. (C).
 
-<b>1989</b>—Pub. L. 101–239 substituted "correct" for "certain" in section catchline and amended text generally, substituting subsecs. (a) to (e) for former subsec. (a) stating general rule and subsec. (b) relating to penalty in case of intentional disregard.
+<b>1989</b>—Pub. L. 101–239 substituted "correct" for "certain" in section catchline and amended text generally, substituting subsecs. (a) to (e) for former subsec. (a)stating general rule and subsec. (b) relating to penalty in case of intentional disregard.
 
 <b>1988</b>—Subsec. (b)(1)(A). Pub. L. 100–690 inserted "(or, if greater, in the case of a return filed under section 6050I, 10 percent of the taxable income derived from the transaction)" after "reported".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

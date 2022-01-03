@@ -40,7 +40,7 @@ If the Secretary of Energy, in a response under subsection (c)(1), rejects (in w
 
 #### (f) Implementation plan
 
-The Secretary of Energy shall prepare a plan for the implementation of each Board recommendation, or part of a recommendation, that is accepted by the Secretary in his final decision. The Secretary shall transmit the implementation plan to the Board within 90 days after the date of the publication of the Secretary's final decision on such recommendation in the Federal Register. The Secretary may have an additional 45 days to transmit the plan if the Secretary submits to the Board and to the Committees on Armed Services, Appropriations, and Energy and Commerce of the House of Representatives and the Committees on Armed Services, Appropriations, and Energy and Natural Resources of the Senate a notification setting forth the reasons for the delay and describing the actions the Secretary is taking to prepare an implementation plan under this subsection. The Secretary may implement any such recommendation (or part of any such recommendation) before, on, or after the date on which the Secretary transmits the implementation plan to the Board under this subsection.
+The Secretary of Energy shall prepare a plan for the implementation of each Board recommendation, or part of a recommendation, that is accepted by the Secretary in his final decision. The Secretary shall transmit the implementation plan to the Board within 90 days after the date of the publication of the Secretary's final decision on such recommendation in the Federal Register. The Secretary may have an additional 45 days to transmit the plan if the Secretary submits to the Board and to the Committees on Armed Services, Appropriations, and Energy and Commerce of the House of Representatives and the Committees on Armed Services, Appropriations, and Energy and Natural Resources of the Senate a notification setting forth the reasons for the delay and describing the actions the Secretary is taking to prepare an implementation plan under this subsection. The Secretary may implement any such recommendation (or part of any such recommendation) before, on, or after the date onwhich the Secretary transmits the implementation plan to the Board under this subsection.
 
 #### (g) Implementation
 
@@ -54,7 +54,7 @@ The Secretary of Energy shall prepare a plan for the implementation of each Boar
 
 (2) At the same time that the Board transmits a recommendation relating to an imminent or severe threat to the Secretary of Energy, the Board shall also transmit the recommendation to the President and for information purposes to the Secretary of Defense. The Secretary of Energy shall submit his recommendation to the President. The President shall review the Secretary of Energy's recommendation and shall make the decision concerning acceptance or rejection of the Board's recommendation.
 
-(3) After receipt by the President of the recommendation from the Board under this subsection, the Board promptly shall make such recommendation available to the public and shall transmit such recommendation to theCommittees on Armed Services, Appropriations, and Energy and Commerce of the House of Representatives and the Committees on Armed Services, Appropriations, and Energy and Natural Resources of the Senate. The President shall promptly notify such committees of his decision and the reasons for that decision.
+(3) After receipt by the President of the recommendation from the Board under this subsection, the Board promptly shall make such recommendation available to the public and shall transmit such recommendation to the Committees on Armed Services, Appropriations, and Energy and Commerce of the House of Representatives and the Committees on Armed Services, Appropriations, and Energy and Natural Resources of the Senate. The President shall promptly notify such committees of his decision and the reasons for that decision.
 
 #### (i) Limitation
 
@@ -65,6 +65,8 @@ Notwithstanding any other provision of this section, the requirements to make in
 &emsp;(2) shall be subject to the orders and regulations issued by the Secretary of Energy under sections 2167 and 2168 of this title to prohibit dissemination of certain information.
 
 (Aug. 1, 1946, ch. 724, title I, §315, as added Pub. L. 100–456, div. A, title XIV, §1441(a)(1), Sept. 29, 1988, 102 Stat. 2080; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; amended Pub. L. 112–239, div. C, title XXXII, §3202(c), Jan. 2, 2013, 126 Stat. 2218.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

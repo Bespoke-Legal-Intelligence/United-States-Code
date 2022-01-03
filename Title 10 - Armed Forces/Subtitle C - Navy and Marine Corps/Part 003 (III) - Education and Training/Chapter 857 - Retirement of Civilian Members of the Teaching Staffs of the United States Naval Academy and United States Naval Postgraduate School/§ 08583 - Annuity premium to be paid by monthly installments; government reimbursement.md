@@ -20,6 +20,8 @@ Jan. 16, 1936, ch. 3, §2, 49 Stat. 1092.
 
 The words "Chief, Field Branch, Bureau of Supplies and Accounts" are substituted for the words "Navy Allotment Office, Navy Department, Washington, District of Columbia", to designate the agency through which allotments are now made.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 8583 was renumbered section 9233 of this title.
@@ -29,6 +31,8 @@ A prior section 8583 was renumbered section 9233 of this title.
 <b>2018</b>—Pub. L. 115–232 renumbered section 7083 of this title as this section.
 
 <b>1966</b>—Pub. L. 89–718 removed requirement that the 10 percent monthly allotment be made through the Chief, Field Branch, Bureau of Supplies and Accounts.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

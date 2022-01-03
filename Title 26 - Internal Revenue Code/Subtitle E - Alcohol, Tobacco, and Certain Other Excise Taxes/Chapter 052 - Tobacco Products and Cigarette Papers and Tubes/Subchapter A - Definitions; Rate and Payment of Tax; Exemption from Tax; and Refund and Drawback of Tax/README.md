@@ -13,6 +13,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1965</b>—Pub. L. 89–44, title V, §501(g), title VIII, §808(c)(2), June 21, 1965, 79 Stat. 150, 165, struck out item 5707 "Floor stocks refund on cigarettes" and inserted "Credit" before "refund" in item 5705.

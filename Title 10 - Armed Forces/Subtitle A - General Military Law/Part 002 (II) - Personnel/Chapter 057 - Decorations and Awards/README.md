@@ -23,6 +23,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Pub. L. 116–92, div. A, title V, §582(a)(2), Dec. 20, 2019, 133 Stat. 1412, added item 1136.
@@ -61,6 +63,44 @@ Pub. L. 89–529, §1(2), Aug. 11, 1966, 80 Stat. 339, added item 1125.
 
 <b>1965</b>—Pub. L. 89–198, §1(2), Sept. 22, 1965, 79 Stat. 831, added item 1124, relating to payment of cash awards for members of armed forces for suggestions, inventions, or scientific achievements.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Establishment of the Atomic Veterans Commemorative Service Medal
+
+Pub. L. 117–81, div. A, title V, §583, Dec. 27, 2021, 135 Stat. 1757, provided that:
+
+"(a)
+
+Service Medal Required.—The Secretary of Defense shall design and produce a commemorative military service medal, to be known as the 'Atomic Veterans Commemorative Service Medal', to commemorate the service and sacrifice of veterans who were instrumental in the development of our nations \[sic\] atomic and nuclear weapons programs.
+
+"(b)
+
+Eligibility Requirements.—(1) The Secretary of Defense shall, within 180 days after the date of enactment of this Act \[Dec. 27, 2021\], determine eligibility requirements for this medal.
+
+"(2) Sixty days prior to publishing the eligibility requirements for this medal, the Secretary of Defense shall submit proposed eligibility criteria under paragraph (1) to the Committees on Armed Services of the Senate and House of Representatives for comment.
+
+"(3) The Secretary of Defense may require persons to submit supporting documentation for the medal authorized in subsection (a) to determine eligibility under paragraph (1).
+
+"(c)
+
+Distribution of Medal.—
+
+&emsp;"(1)
+
+Issuance to retired and former members.—At the request of an eligible veteran, the Secretary of Defense shall issue the Atomic Veterans Commemorative Service Medal to the eligible veteran.
+
+&emsp;"(2)
+
+Issuance to next-of-kin.—In the case of a veteran who is deceased, the Secretary may provide for issuance of the Atomic Veterans Commemorative Service Medal to the next-of-kin of the persons. If applications for a medal are filed by more than one next of kin of a person eligible to receive a medal under this section, the Secretary of Defense shall determine which next-of-kin will receive the medal.
+
+&emsp;"(3)
+
+Application.—The Secretary shall prepare and disseminate as appropriate an application by which veterans and their next-of-kin may apply to receive the Atomic Veterans Service Medal.
+
+"(d)
+
+Authorization of Appropriations.—There is authorized to be appropriated such sum as may be necessary to carry out this section."
+
 #### Development of Guidelines for Use of Unofficial Sources of Information To Determine Eligibility of Members and Former Members of the Armed Forces for Decorations When the Service Records Are Incomplete Because of Damage to the Official Record
 
 Pub. L. 116–92, div. A, title V, §528, Dec. 20, 2019, 133 Stat. 1357, provided that:
@@ -79,7 +119,7 @@ Pub. L. 115–232, div. A, title V, §581, Aug. 13, 2018, 132 Stat. 1787, provid
 
 "(a)
 
-Service Certificate Required.—The Secretary of Defense shall design and produce a military servicecertificate, to be known as the 'Atomic Veterans Service Certificate', to honor retired and former members of the Armed Forces who are radiation-exposed veterans (as such term is defined in section 1112(c)(3) of title 38, United States Code).
+Service Certificate Required.—The Secretary of Defense shall design and produce a military service certificate, to be known as the 'Atomic Veterans Service Certificate', to honor retired and former members of the Armed Forces who are radiation-exposed veterans (as such term is defined in section 1112(c)(3) of title 38, United States Code).
 
 "(b)
 
@@ -179,7 +219,9 @@ Congressional Commendation.—The Congress hereby commends the members of the Ar
 
 "(c)
 
-Certificates of Recognition.—The Secretary of Defense shall prepare a certificate recognizing the Cold War service of qualifying members of the Armed Forces and civilian personnel of the Department of Defenseand other Government agencies contributing to national security, as determined by the Secretary, and shall provide the certificate to such members and civilian personnel upon request."
+Certificates of Recognition.—The Secretary of Defense shall prepare a certificate recognizing the Cold War service of qualifying members of the Armed Forces and civilian personnel of the Department of Defense and other Government agencies contributing to national security, as determined by the Secretary, and shall provide the certificate to such members and civilian personnel upon request."
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 11448. Meritorious Service Medal
 
@@ -231,7 +273,7 @@ Sec. 4. Upon award, the Vice Presidential Service Badge may be worn as a part of
 
 Sec. 5. Only one Vice Presidential Service Badge shall be awarded to an individual. It may be awarded posthumously. No award shall be made to an individual under this Order based on a period of service with respect to which, in whole or in part, the individual was awarded the Presidential Service Badge.
 
-Sec. 6. Notwithstanding the provisions of Sections 1 and 2 of this Order, any member of the Army, Navy, Air Force, Marine Corps, Coast Guard, commissioned corps of the National Oceanic and Atmospheric Administration, and commissioned corps of the Public HealthService, who has been assigned to duty in the Office of the Vice President, or who has been assigned to perform duties predominantly for the Vice President, in the implementation of Public Law 93–346, as amended, or in military units and support facilities to which section 1 of Executive Order 12793, as amended, refers,,\[sic\] is authorized, unless otherwise directed by the Director of the White House Military Office in the case of personnel in military units or support facilities to which section 1 of Executive Order 12793, as amended, refers, to wear the Vice Presidential Service Badge on his or her uniform commencing on the first day of such duty and thereafter while assigned to such duty.
+Sec. 6. Notwithstanding the provisions of Sections 1 and 2 of this Order, any member of the Army, Navy, Air Force, Marine Corps, Coast Guard, commissioned corps of the National Oceanic and Atmospheric Administration, and commissioned corps of the Public Health Service, who has been assigned to duty in the Office of the Vice President, or who has been assigned to perform duties predominantly for the Vice President, in the implementation of Public Law 93–346, as amended, or in military units and support facilities to which section 1 of Executive Order 12793, as amended, refers,,\[sic\] is authorized, unless otherwise directed by the Director of the White House Military Office in the case of personnel in military units or support facilities to which section 1 of Executive Order 12793, as amended, refers, to wear the Vice Presidential Service Badge on his or her uniform commencing on the first day of such duty and thereafter while assigned to such duty.
 
 Sec. 7. Executive Order No. 11544 of July 8, 1970, is hereby superseded; however, individuals previously awarded a Vice Presidential Service Badge under that Order are authorized to continue to wear such badge as part of their uniform.
 
@@ -269,7 +311,7 @@ Ex. Ord. No. 12793, Mar. 20, 1992, 57 F.R. 10281, as amended by Ex. Ord. No. 132
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and as Commander in Chief of the Armed Forces of the United States, it is ordered of follows:
 
-Section 1. <i>Presidential Service Certificate</i>. The Presidential Service Certificate ("Certificate") is hereby continued, the design of which accompanies and is hereby made a part of this order. The Certificate shall be awarded in the name of the President of the United States by the Secretary of the Army, the Secretary of the Navy, the Secretary of the Air Force, or, when the Coast Guard is not operating as a service in the Navy, the Secretary of Homeland Security. It shall be awarded by the appropriate Secretary to members of the Army, Navy, Marine Corps, Air Force, and Coast Guard, respectively, who have been assigned to the White House Office; to military units and support facilities under the administration of the White House Military Office; or to other direct support positions within the Executive Office of the President ("EOP"). The Certificate shall not be issued to any member who is issued a Vice Presidential Certificate, or similar EOP Certificate, for the same period of service. Such assignment must be for a period of at least one year, subsequent to January 21, 1989.
+Section 1. <i>Presidential Service Certificate</i>. The Presidential Service Certificate ("Certificate") is hereby continued, the design of which accompanies and is hereby made a part of this order. The Certificate shall be awarded in the name of the President of the United States by the Secretary of the Army, the Secretary of the Navy, the Secretary of the Air Force, or, when the Coast Guard is not operating as a service in the Navy, the Secretary of Homeland Security. It shall be awarded by the appropriate Secretary to members of the Army, Navy, Marine Corps, Air Force, and Coast Guard, respectively, who have been assigned to the White House Office; to military units and support facilitiesunder the administration of the White House Military Office; or to other direct support positions within the Executive Office of the President ("EOP"). The Certificate shall not be issued to any member who is issued a Vice Presidential Certificate, or similar EOP Certificate, for the same period of service. Such assignment must be for a period of at least one year, subsequent to January 21, 1989.
 
 Sec. 2. <i>Presidential Service Badge</i>. The Presidential Service Badge ("Badge") is hereby continued, the design of which accompanies and is hereby made a part of this order. The Badge shall be awarded to those members of the Armed Forces who have been granted the Certificate and shall be awarded in the same manner in which the Certificate has been given. The Badge shall be worn as a part of the uniform of those individuals under such regulations as their respective Secretaries may severally prescribe.
 
@@ -333,7 +375,7 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 13830, Apr. 20, 2018, 83 F.R. 18191, provided:
 
-For the purpose of carrying into effect the provisions of sections 1121, 3742, 3743, 3746, 3749, 3750, 6242, 6243, 6244, 6245, 6246, 8742, 8743, 8746, 8749, and 8750 of title 10, and sections 491a, 492, 492a, 492b, and 493 \[now 2735, 2736, 2737, 2738, and 2739\] of title 14, United States Code, the following rules and regulations pertaining to the award of the Distinguished Service Cross, Navy Cross, Air Force Cross, Coast Guard Cross, Distinguished Service Medal, Silver Star Medal, Legion of Merit, Distinguished Flying Cross, Soldier's Medal, Navy and Marine Corps Medal, Airman's Medal, and Coast Guard Medal are promulgated:
+For the purpose of carrying into effect the provisions of sections 1121, 3742, 3743, 3746, 3749, 3750, 6242, 6243, 6244, 6245, 6246, 8742, 8743, 8746, 8749, and 8750 of title 10, and sections 491a, 492, 492a, 492b, and 493 \[now 2735, 2736,2737, 2738, and 2739\] of title 14, United States Code, the following rules and regulations pertaining to the award of the Distinguished Service Cross, Navy Cross, Air Force Cross, Coast Guard Cross, Distinguished Service Medal, Silver Star Medal, Legion of Merit, Distinguished Flying Cross, Soldier's Medal, Navy and Marine Corps Medal, Airman's Medal, and Coast Guard Medal are promulgated:
 
 Section 1. <i>Distinguished Service Cross, Navy Cross, Air Force Cross, and Coast Guard Cross</i>. The Secretary of the military department concerned, or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, may award the Distinguished Service Cross, Navy Cross, Air Force Cross, and Coast Guard Cross in the name of the President to any person who, while serving in any capacity with the Army, Navy, Marine Corps, Air Force, or Coast Guard, as the case may be, distinguishes himself or herself by extraordinary heroism not justifying award of the Medal of Honor:
 
@@ -343,7 +385,7 @@ Section 1. <i>Distinguished Service Cross, Navy Cross, Air Force Cross, and Coas
 
 (c) while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which the United States is not a belligerent party.
 
-Sec. 2. <i>Distinguished Service Medal</i>. The Secretary of the military department concerned, or the Secretary ofHomeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, may award the Distinguished Service Medal of each of the respective Armed Forces of the United States in the name of the President to any person who, while serving in any capacity with the Army, Navy, Marine Corps, Air Force, or Coast Guard, as the case may be, distinguishes himself or herself by exceptionally meritorious service to the United States in a duty of great responsibility.
+Sec. 2. <i>Distinguished Service Medal</i>. The Secretary of the military department concerned, or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, may award the Distinguished Service Medal of each of the respective Armed Forces of the United States in the name of the President to any person who, while serving in any capacity with the Army, Navy, Marine Corps, Air Force, or Coast Guard, as the case may be, distinguishes himself or herself by exceptionally meritorious service to the United States in a duty of great responsibility.
 
 Sec. 3. <i>Silver Star Medal</i>. The Secretary of the military department concerned, or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, may award the Silver Star Medal in the name of the President to any person who, while serving in any capacity with the Army, Navy, Marine Corps, Air Force, or Coast Guard, as the case may be, is cited for gallantry in action that does not warrant award of the Medal of Honor, Distinguished Service Cross, Navy Cross, Air Force Cross, or Coast Guard Cross:
 
@@ -391,7 +433,7 @@ Sec. 5. <i>Distinguished Flying Cross.</i>
 
 Sec. 6. <i>Soldier's Medal, Navy and Marine Corps Medal, Airman's Medal, and Coast Guard Medal.</i>
 
-(a) The Secretary of the military department concerned, or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, may award the Soldier's Medal, Navy and Marine Corps Medal, Airman's Medal, and Coast Guard Medal in the name of the President to any person who, while serving in any capacity with the Army, Navy, Marine Corps, Air Force, or Coast Guard, as the case may be, distinguishes himself or herself by heroism not involving actual conflict with an enemy.
+(a) The Secretary of the military department concerned, or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, may award the Soldier's Medal, Navy and Marine Corps Medal, Airman's Medal, and Coast Guard Medal in the name of the President to anyperson who, while serving in any capacity with the Army, Navy, Marine Corps, Air Force, or Coast Guard, as the case may be, distinguishes himself or herself by heroism not involving actual conflict with an enemy.
 
 (b) The Secretary of the Navy may award the Navy and Marine Corps Medal to any person to whom the Secretary of the Navy, before August 7, 1942, awarded a letter of commendation for heroism, and who applies for that medal, regardless of the date of the act of heroism.
 

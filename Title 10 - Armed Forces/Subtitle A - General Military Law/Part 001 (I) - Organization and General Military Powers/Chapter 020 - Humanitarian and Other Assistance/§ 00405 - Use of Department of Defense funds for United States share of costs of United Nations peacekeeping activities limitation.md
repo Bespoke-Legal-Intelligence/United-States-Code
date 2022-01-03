@@ -14,9 +14,13 @@ Application of Prohibition.—The prohibition in subsection (a) applies to volun
 
 (Added Pub. L. 104–106, div. A, title XIII, §1301(a), Feb. 10, 1996, 110 Stat. 473.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 405 was renumbered section 401(e) of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Use of Department of Defense Funds for United Nations Forces
 

@@ -10,7 +10,7 @@ As used in this section—
 
 &emsp;&emsp;(B) any fishery development foundation or other private nonprofit corporation located in Alaska; and
 
-&emsp;&emsp;(C) any corporation, partnership, association, or other entity (including, but not limited to, any fishery development foundation or other private nonprofit corporation not located in Alaska), nonprofit or otherwise, if such entity is a citizen of the United States within the meaning of section 50501 of title 46 and for purposes of applying such section 50501 with respect to this section—
+&emsp;&emsp;(C) any corporation, partnership, association, or other entity (including, but not limited to, any fishery development foundation or other private nonprofit corporation not located in Alaska), nonprofit or otherwise, ifsuch entity is a citizen of the United States within the meaning of section 50501 of title 46 and for purposes of applying such section 50501 with respect to this section—
 
 &emsp;&emsp;&emsp;(i) the term "State" as used therein includes any State referred to in paragraph (3),
 
@@ -112,7 +112,7 @@ As used in this section—
 
 (1) Notwithstanding any other provision of law, all moneys in the fund shall be used exclusively for the purpose of promoting United States fisheries in accordance with the provisions of this section, and no such moneys shall be transferred from the fund for any other purpose. With respect to any fiscal year, all moneys in the fund, including the sum of all unexpended moneys carried over into that fiscal year and all moneys transferred to the fund under subsection (b) or any other provision of law with respect to that fiscal year, shall be allocated as follows:
 
-&emsp;(A) the Secretary shall use no less than 60 per centum of such moneys to make direct industry assistance grants to develop the United States fisheries and to expand domestic andforeign markets for United States fishery products pursuant to subsection (c) of this section; and
+&emsp;(A) the Secretary shall use no less than 60 per centum of such moneys to make direct industry assistance grants to develop the United States fisheries and to expand domestic and foreign markets for United States fishery products pursuant to subsection (c) of this section; and
 
 &emsp;(B) the Secretary shall use the balance of the moneys in the fund to finance those activities of the National Marine Fisheries Service which are directly related to development of the United States fisheries pursuant to subsection (d) of this section.
 
@@ -120,11 +120,13 @@ As used in this section—
 
 (Aug. 11, 1939, ch. 696, §2, 53 Stat. 1412; July 1, 1954, ch. 447, 68 Stat. 376; Aug. 8, 1956, ch. 1036, §12(b), 70 Stat. 1124; Pub. L. 96–561, title II, §210, Dec. 22, 1980, 94 Stat. 3287; Pub. L. 97–424, title IV, §423(a), Jan. 6, 1983, 96 Stat. 2164; Pub. L. 99–659, title II, §209(e), Nov. 14, 1986, 100 Stat. 3721; Pub. L. 101–627, title VII, §703, Nov. 28, 1990, 104 Stat. 4463; Pub. L. 102–567, title IX, §902(c), Oct. 29, 1992, 106 Stat. 4319; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–297, title I, §116(c), Oct. 11, 1996, 110 Stat. 3603.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 "Section 50501 of title 46" substituted for "section 2 of the Shipping Act, 1916 (46 U.S.C. 802)" in subsec. (a)(1)(C) and (5)(B) and "such section 50501" substituted for "such section 2" in subsec. (a)(1)(C) on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, section 8(b) of which enacted parts A and B of subtitle V of Title 46, Shipping.
 
-Section is comprised of section 2 of act Aug. 11, 1939. Subsec. (f) of section 2 of act Aug. 11, 1939, was omitted in view of the repeal of the reporting requirements contained in that subsection by section 1(13) of Pub. L. 89–348. See Termination of Reporting Requirements note below.
+Section is comprised of section 2 of act Aug. 11, 1939. Subsec. (f) of section 2 of act Aug. 11, 1939, was omittedin view of the repeal of the reporting requirements contained in that subsection by section 1(13) of Pub. L. 89–348. See Termination of Reporting Requirements note below.
 
 #### Amendments
 
@@ -166,6 +168,8 @@ Subsec. (e). Pub. L. 96–561, §210(1), (5), added subsec. (e) and struck out f
 
 <b>1954</b>—Act July 1, 1954, amended section generally, to encourage the distribution of fishery products.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1996 Amendment
 
 Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
@@ -188,17 +192,19 @@ Pub. L. 89–348, §1(13), Nov. 8, 1965, 79 Stat. 1311, repealed the following r
 
 Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-#### Transfer of Functions
-
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Continuation of Authorization for Transfer of Funds
 
 Act Aug. 8, 1956, ch. 1036, §12(a), 70 Stat. 1124, provided that: "The authorization for the transfer of certain funds from the Secretary of Agriculture to the Secretary of the Interior and their maintenance in a separate fund as contained in section 2(a) of the Act of August 11, 1939, as amended July 1, 1954 (68 Stat. 376), \[now subsec. (b) of this section\], shall be continued for the year ending June 30, 1957, and each year thereafter."
 
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-yearperiod following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should be a semicolon.</i>
 

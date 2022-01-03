@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A certification issued by a State or an accreditation organization for an embryo laboratory shall be revoked or suspended if the State or organization finds, on the basis of inspections andafter reasonable notice and opportunity for hearing to the owner or operator of the laboratory, that the owner or operator or any employee of the laboratory—
+A certification issued by a State or an accreditation organization for an embryo laboratory shall be revoked or suspended if the State or organization finds, on the basis of inspections and after reasonable notice and opportunity for hearing to the owner or operator of the laboratory, that the owner or operator or any employee of the laboratory—
 
 &emsp;(1) has been guilty of misrepresentation in obtaining the certification,
 
@@ -16,9 +16,13 @@ If the certification of an embryo laboratory is revoked or suspended, the certif
 
 (Pub. L. 102–493, §5, Oct. 24, 1992, 106 Stat. 3150.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Fertility Clinic Success Rate and Certification Act of 1992, and not as part of the Public Health Service Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

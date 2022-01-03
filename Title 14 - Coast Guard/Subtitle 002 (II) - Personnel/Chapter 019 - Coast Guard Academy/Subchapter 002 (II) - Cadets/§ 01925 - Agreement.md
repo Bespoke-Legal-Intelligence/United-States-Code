@@ -36,7 +36,7 @@
 
 (2) In the case of a cadet who is a minor and who has parents or a guardian, the cadet may sign the agreement required by subsection (a) only with the consent of the parent or guardian.
 
-(f) A cadet or former cadet who does not fulfill the terms of the obligation to serve as specified under section (a), or the alternative obligation imposed under subsection (b), shall be subject tothe repayment provisions of section 303a(e) of title 37.
+(f) A cadet or former cadet who does not fulfill the terms of the obligation to serve as specified under section (a), or the alternative obligation imposed under subsection (b), shall be subject to the repayment provisions of section 303a(e) of title 37.
 
 (Added Pub. L. 115–282, title I, §110(c)(1)(C), Dec. 4, 2018, 132 Stat. 4214.)
 

@@ -32,6 +32,8 @@ The Congress finds the following:
 
 (Pub. L. 102–440, title I, §102, Oct. 23, 1992, 106 Stat. 2224.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title
 
 Pub. L. 102–440, title I, §101, Oct. 23, 1992, 106 Stat. 2224, provided that: "This title \[enacting this chapter\] may be cited as the 'Wild Bird Conservation Act of 1992'."

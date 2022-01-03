@@ -26,6 +26,8 @@ Grade Upon Release From Active Duty.—A member ordered to active duty under sec
 
 (Added Pub. L. 104–201, div. A, title V, §521(a), Sept. 23, 1996, 110 Stat. 2516; amended Pub. L. 107–314, div. A, title V, §503(b)(1), Dec. 2, 2002, 116 Stat. 2531.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 689 was renumbered section 12320 of this title.
@@ -35,6 +37,8 @@ Provisions similar to those in this section were contained in section 688(b) and
 #### Amendments
 
 <b>2002</b>—Subsecs. (a), (b), (c)(1), (d). Pub. L. 107–314 inserted "or 688a" after "section 688".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -60,7 +60,7 @@
 
 (2)(A) An institution shall invest the endowment fund corpus and endowment fund income in low-risk securities in which a regulated insurance company may invest under the law of the State in which the institution is located such as a federally insured bank savings account or comparable interest-bearing account, certificate of deposit, money market fund, mutual fund, or obligations of the United States.
 
-(B) The institution, in investing the endowment fund established under this section, shallexercise the judgment and care, under the circumstances then prevailing, which a person of prudence, discretion, and intelligence would exercise in the management of such person's own affairs.
+(B) The institution, in investing the endowment fund established under this section, shall exercise the judgment and care, under the circumstances then prevailing, which a person of prudence, discretion, and intelligence would exercise in the management of such person's own affairs.
 
 (3)(A) An institution may withdraw and expend the endowment fund income to defray any expenses necessary to the operation of such college, including expenses of operations and maintenance, administration, academic and support personnel, construction and renovation, community and student services programs, and technical assistance.
 
@@ -98,7 +98,7 @@ Any institution which is eligible for assistance under this section may submit t
 
 #### (h) Termination and recovery provisions
 
-(1) After notice and an opportunity for a hearing, the Secretary may terminate and recover a grant awarded under this section if the grantee institution—
+(1) After notice and an opportunity for a hearing, the Secretary may terminate and recover agrant awarded under this section if the grantee institution—
 
 &emsp;(A) expends portions of the endowment fund corpus or expends more than the permissible amount of the endowment funds income as prescribed in subsection (c)(3);
 
@@ -113,6 +113,8 @@ Any institution which is eligible for assistance under this section may submit t
 The Secretary, directly or by grant or contract, may provide technical assistance to eligible institutions to prepare the institutions to qualify, apply for, and maintain a grant, under this section.
 
 (Pub. L. 89–329, title III, §331, formerly §332, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1299; amended Pub. L. 100–50, §2(a)(12), June 3, 1987, 101 Stat. 336; renumbered §331 and amended Pub. L. 102–325, title III, §304(a)(3), (b), July 23, 1992, 106 Stat. 476; Pub. L. 103–208, §2(a)(8), (10), (11), Dec. 20, 1993, 107 Stat. 2457, 2458; Pub. L. 105–244, title III, §305, Oct. 7, 1998, 112 Stat. 1646; Pub. L. 110–315, title III, §313, Aug. 14, 2008, 122 Stat. 3180.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -169,6 +171,8 @@ Subsec. (f)(1). Pub. L. 102–325, §304(b)(7), amended par. (1) generally. Prio
 Subsec. (g). Pub. L. 102–325, §304(b)(8), inserted ", including a description of the long- and short-term plans for raising and using the funds under this part" before period at end of first sentence.
 
 <b>1987</b>—Subsec. (f)(1). Pub. L. 100–50 inserted "(or section 1069a of this title)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

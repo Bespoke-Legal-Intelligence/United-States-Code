@@ -2,7 +2,7 @@
 
 (a)(1) Regulations prescribed under section 7451(a) of this title shall provide that whenever an employee in a covered position is given a new duty assignment which is a promotion, the rate of basic pay of that employee shall be increased at least one step increment in that employee's grade.
 
-(2) A nurse serving in a head nurse position shall while so serving receive basic pay at a ratetwo step increments above the rate that would otherwise be applicable to the nurse. If such a nurse is in the highest or next-to-highest step for that nurse's grade, the preceding sentence shall be applied by extrapolation to create additional steps only for the purposes of this paragraph. The limitation in section 7451(c)(1) of this title shall not apply with respect to increased basic pay under this paragraph.
+(2) A nurse serving in a head nurse position shall while so serving receive basic pay at a rate two step increments above the rate that would otherwise be applicable to the nurse. If such a nurse is in the highest or next-to-highest step for that nurse's grade, the preceding sentence shall be applied by extrapolation to create additional steps only for the purposes of this paragraph. The limitation in section 7451(c)(1) of this title shall not apply with respect to increased basic pay under this paragraph.
 
 (3) An employee in a covered position who is promoted to the next higher grade shall be paid in that grade at a step having a rate of basic pay that is greater than the rate of basic pay applicable to the employee in a covered position on the day before the effective date of the promotion.
 

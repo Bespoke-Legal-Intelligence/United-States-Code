@@ -10,7 +10,7 @@ Based on title 18, U.S.C., 1940 ed., §§39, 133, 346, 381, 502, and 632, and se
 
 Section consolidates the first sentence of section 39, all of sections 133, 346, and 632, and the second sentences, respectively, of sections 381 and 502, all of title 18, U.S.C., 1940 ed., and section 40 of title 50, U.S.C., 1940 ed., War and National Defense, with minor changes in phraseology.
 
-All of these sections and parts of sections were derived from section 1 of title XIII of said act of June 15, 1917. Said section 40 of title 50, U.S.C., War and National Defense, has also been retained in that title, as it still relates to some sections therein which were not transferred to this title.
+All of these sections and parts of sections were derived from section 1 of title XIII of said act of June 15, 1917. Said section 40 of title 50, U.S.C., War and National Defense, has also been retained in that title, asit still relates to some sections therein which were not transferred to this title.
 
 The remainder of said section 39 of title 18, U.S.C., 1940 ed., which was derived from sections 2, 3, and 4 of title XIII of the act of June 15, 1917, relating to jurisdiction and other matters, is almost entirely obsolete. The provisions still in force are incorporated in section 3241 of this title.
 

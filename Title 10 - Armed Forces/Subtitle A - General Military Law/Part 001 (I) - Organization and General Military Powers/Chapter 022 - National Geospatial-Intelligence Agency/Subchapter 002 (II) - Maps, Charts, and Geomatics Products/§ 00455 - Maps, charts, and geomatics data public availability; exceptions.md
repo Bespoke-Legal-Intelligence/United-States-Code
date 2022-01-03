@@ -12,7 +12,7 @@
 
 (2) In this subsection, the term "geomatics product" means imagery, imagery intelligence, or geospatial information.
 
-(c)(1) Regulations to implement this section (including any amendments to such regulations)shall be published in the Federal Register for public comment for a period of not less than 30 days before they take effect.
+(c)(1) Regulations to implement this section (including any amendments to such regulations) shall be published in the Federal Register for public comment for a period of not less than 30 days before they take effect.
 
 (2) Regulations under this section shall address the conditions under which release of geomatics products authorized under subsection (b) to be withheld from public disclosure would be appropriate—
 
@@ -21,6 +21,8 @@
 &emsp;(B) in the case of qualified United States contractors (including contractors that are small business concerns) who need such products for use in the performance of contracts with the United States.
 
 (Added Pub. L. 102–88, title V, §502(a)(1), Aug. 14, 1991, 105 Stat. 435, §2796; amended Pub. L. 103–359, title V, §502, Oct. 14, 1994, 108 Stat. 3430; renumbered §455 and amended Pub. L. 104–201, div. A, title XI, §1112(b), Sept. 23, 1996, 110 Stat. 2682; Pub. L. 105–85, div. A, title IX, §933(a), (b)(1), Nov. 18, 1997, 111 Stat. 1866; Pub. L. 106–398, §1 \[\[div. A\], title X, §1074\], Oct. 30, 2000, 114 Stat. 1654, 1654A–280; Pub. L. 108–136, div. A, title IX, §921(d)(2)(A), Nov. 24, 2003, 117 Stat. 1568; Pub. L. 116–283, div. A, title XVI, §1621(d)(1), Jan. 1, 2021, 134 Stat. 4053.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -37,6 +39,8 @@ Subsec. (b)(2). Pub. L. 105–85, §933(b)(1), amended par. (2) generally. Prior
 <b>1996</b>—Pub. L. 104–201 renumbered section 2796 of this title as this section and substituted "National Imagery and Mapping Agency" for "Defense Mapping Agency" in subsecs. (a) and (b)(1)(C).
 
 <b>1994</b>—Subsec. (b)(1)(C). Pub. L. 103–359 inserted "jeopardize or interfere with ongoing military or intelligence operations or" after "disclosed,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

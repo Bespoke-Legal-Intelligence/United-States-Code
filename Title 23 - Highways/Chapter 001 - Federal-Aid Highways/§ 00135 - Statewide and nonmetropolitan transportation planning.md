@@ -182,6 +182,14 @@ Methods.—In carrying out subparagraph (A), the State shall, to the maximum ext
 
 &emsp;&emsp;&emsp;(iv) make public information available in electronically accessible format and means, such as the World Wide Web, as appropriate to afford reasonable opportunity for consideration of public information under subparagraph (A).
 
+&emsp;&emsp;(C)
+
+Use of technology.—A State may use social media and other web-based tools—
+
+&emsp;&emsp;&emsp;(i) to further encourage public participation; and
+
+&emsp;&emsp;&emsp;(ii) to solicit public feedback during the transportation planning process.
+
 &emsp;(4)
 
 Mitigation activities.—
@@ -258,7 +266,7 @@ Nonmetropolitan areas.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—With respect to each nonmetropolitan area in the State, the program shall be developed in consultationwith affected nonmetropolitan local officials with responsibility for transportation or, if applicable, through regional transportation planning organizations described in subsection (m).
+In general.—With respect to each nonmetropolitan area in the State, the program shall be developed in consultation with affected nonmetropolitan local officials with responsibility for transportation or, if applicable, through regional transportation planning organizations described in subsection (m).
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -270,7 +278,7 @@ Indian tribal areas.—With respect to each area of the State under the jurisdic
 
 &emsp;(3)
 
-Participation by interested parties.—In developing the program, the State shall provide citizens, affected public agencies, representatives of public transportation employees, public ports, freight shippers, private providers of transportation (including intercity bus operators),,<sup>1</sup> providers of freight transportation services, representatives of users of public transportation, representatives of users of pedestrian walkways and bicycle transportation facilities, representatives of the disabled, and other interested parties with a reasonable opportunity to comment on the proposed program.
+Participation by interested parties.—In developing the program, the State shall provide citizens, affected public agencies, representatives of public transportation employees, public ports, freight shippers, private providers of transportation (including intercity bus operators), providers of freight transportation services, representatives of users of public transportation, representatives of users of pedestrian walkways and bicycle transportation facilities, representatives of the disabled, and other interested parties with a reasonable opportunity to comment on the proposed program.
 
 &emsp;(4)
 
@@ -360,7 +368,7 @@ In general.—Projects carried out in areas with populations of less than 50,000
 
 &emsp;&emsp;(B)
 
-Other projects.—Projects carried out in areas with populations of less than 50,000 individuals on the National Highway System or under the bridge program or the Interstate maintenance program under this title or under sections 5310, 5311, 5316,<sup>2</sup> and 5317 <sup>2</sup> of title 49 shall be selected, from the approved statewide transportation improvement program, by the State in consultation with the affected nonmetropolitan local officials with responsibility for transportation.
+Other projects.—Projects carried out in areas with populations of less than 50,000 individuals on the National Highway System or under the bridge program or the Interstate maintenance program under this title or under sections 5310 and 5311 of title 49 shall be selected, from the approved statewide transportation improvement program, by the State in consultation with the affected nonmetropolitan local officials with responsibility for transportation.
 
 &emsp;(7)
 
@@ -410,7 +418,7 @@ Publication.—The report under subparagraph (A) shall be published or otherwise
 
 (i)
 
-Funding.—Funds apportioned under paragraphs (5)(D) and (6) of section 104(b) of this title and set aside under section 5305(g) of title 49 shall be available to carry out this section.
+Funding.—Funds apportioned under section 104(b)(6) and set aside under section 5305(g) of title 49 shall be available to carry out this section.
 
 (j)
 
@@ -430,7 +438,7 @@ Designation of Regional Transportation Planning Organizations.—
 
 &emsp;(1)
 
-In general.—To carry out the transportation planning process required by this section, a State may establish and designate regional transportation planning organizations to enhance the planning, coordination, andimplementation of statewide strategic long-range transportation plans and transportation improvement programs, with an emphasis on addressing the needs of nonmetropolitan areas of the State.
+In general.—To carry out the transportation planning process required by this section, a State may establish and designate regional transportation planning organizations to enhance the planning, coordination, and implementation of statewide strategic long-range transportation plans and transportation improvement programs, with an emphasis on addressing the needs of nonmetropolitan areas of the State.
 
 &emsp;(2)
 
@@ -468,15 +476,13 @@ Duties.—The duties of a regional transportation planning organization shall in
 
 States without regional transportation planning organizations.—If a State chooses not to establish or designate a regional transportation planning organization, the State shall consult with affected nonmetropolitan local officials to determine projects that may be of regional significance.
 
-(Added Pub. L. 90–495, §10(a), Aug. 23, 1968, 82 Stat. 820; amended Pub. L. 91–605, title I, §§106(g), 125, Dec. 31, 1970, 84 Stat. 1718, 1729; Pub. L. 93–87, title I, §119, Aug. 13, 1973, 87 Stat. 259; Pub. L. 94–280, title I, §123(a), May 5, 1976, 90 Stat. 439; Pub. L. 102–240, title I, §1025(a), Dec. 18, 1991, 105 Stat. 1962; Pub. L. 103–429, §3(6), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 105–178, title I, §1204(a)–(h), June 9, 1998, 112 Stat. 180–184; Pub. L. 109–59, title VI, §6001(a), Aug. 10, 2005, 119 Stat. 1851; Pub. L. 112–141, div. A, title I, §1202(a), July 6, 2012, 126 Stat. 514; Pub. L. 114–94, div. A, title I, §§1104(e)(3), 1202, Dec. 4, 2015, 129 Stat. 1332, 1374.)
+(Added Pub. L. 90–495, §10(a), Aug. 23, 1968, 82 Stat. 820; amended Pub. L. 91–605, title I, §§106(g), 125, Dec. 31, 1970, 84 Stat. 1718, 1729; Pub. L. 93–87, title I, §119, Aug. 13, 1973, 87 Stat. 259; Pub. L. 94–280, title I, §123(a), May 5, 1976, 90 Stat. 439; Pub. L. 102–240, title I, §1025(a), Dec. 18, 1991, 105 Stat. 1962; Pub. L. 103–429, §3(6), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 105–178, title I,§1204(a)–(h), June 9, 1998, 112 Stat. 180–184; Pub. L. 109–59, title VI, §6001(a), Aug. 10, 2005, 119 Stat. 1851; Pub. L. 112–141, div. A, title I, §1202(a), July 6, 2012, 126 Stat. 514; Pub. L. 114–94, div. A, title I, §§1104(e)(3), 1202, Dec. 4, 2015, 129 Stat. 1332, 1374; Pub. L. 117–58, div. A, title I, §§11201(b), (c), 11525(g), Nov. 15, 2021, 135 Stat. 517, 607.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
 The Clean Air Act, referred to in subsecs. (b)(2) and (g)(5)(D)(iii), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. Part D of title I of the Act is classified generally to subpart 1 (§7501 et seq.) of part D of subchapter I of chapter 85 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
-
-Sections 5316 and 5317 of title 49, referred to in subsec. (g)(6)(B), were repealed by Pub. L. 112–141, div. B, §20002(a), July 6, 2012, 126 Stat. 622.
 
 The date of enactment of the MAP–21, referred to in subsec. (h)(2)(A), is deemed to be Oct. 1, 2012, see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title.
 
@@ -487,6 +493,14 @@ The National Environmental Policy Act of 1969, referred to in subsec. (k), is Pu
 A prior section 135, Pub. L. 89–139, §4(a), Aug. 28, 1965, 79 Stat. 578, called for a highway safety program in each State approved by the Secretary, prior to repeal by Pub. L. 89–564, title I, §102(a), Sept. 9, 1966, 80 Stat. 734. See section 402 of this title.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (f)(3)(C). Pub. L. 117–58, §11201(b), added subpar. (C).
+
+Subsec. (g)(3). Pub. L. 117–58, §11525(g)(1), substituted "operators), providers" for "operators),, providers".
+
+Subsec. (g)(6)(B). Pub. L. 117–58, §11525(g)(2), substituted "5310 and 5311" for "5310, 5311, 5316, and 5317".
+
+Subsec. (i). Pub. L. 117–58, §11201(c), substituted "section 104(b)(6)" for "paragraphs (5)(D) and (6) of section 104(b) of this title".
 
 <b>2015</b>—Subsec. (a)(2). Pub. L. 114–94, §1202(1), substituted ", bicycle transportation facilities, and intermodal facilities that support intercity transportation, including intercity buses and intercity bus facilities and commuter van pool providers" for "and bicycle transportation facilities".
 
@@ -524,7 +538,7 @@ Subsec. (d). Pub. L. 105–178, §1204(d), reenacted heading without change and 
 
 &emsp;"(3) The concerns of Indian tribal governments having jurisdiction over lands within the boundaries of the State."
 
-Subsec. (e). Pub. L. 105–178, §1204(e), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: "The State shall develop a long-range transportation plan for all areas of the State. With respect to metropolitan areas of the State, the plan shall be developed in cooperation with metropolitan planning organizations designated for metropolitan areas in the State under section 134. With respect to areas of the State under the jurisdiction of an Indian tribal government, the plan shall be developed in cooperation with such government and the Secretary of the Interior. In developing the plan, the State shall provide citizens, affected public agencies, representatives of transportation agency employees, other affected employee representatives, private providers of transportation, and other interested parties with a reasonable opportunity to comment on the proposed plan. In addition, the State shall develop a long-range plan for bicycle transportation and pedestrian walkways for appropriate areas of the State which shall be incorporated into the long-range transportation plan."
+Subsec. (e). Pub. L. 105–178, §1204(e), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: "The State shall develop a long-range transportation plan for all areas of the State. With respect to metropolitan areas of the State, theplan shall be developed in cooperation with metropolitan planning organizations designated for metropolitan areas in the State under section 134. With respect to areas of the State under the jurisdiction of an Indian tribal government, the plan shall be developed in cooperation with such government and the Secretary of the Interior. In developing the plan, the State shall provide citizens, affected public agencies, representatives of transportation agency employees, other affected employee representatives, private providers of transportation, and other interested parties with a reasonable opportunity to comment on the proposed plan. In addition, the State shall develop a long-range plan for bicycle transportation and pedestrian walkways for appropriate areas of the State which shall be incorporated into the long-range transportation plan."
 
 Subsec. (f). Pub. L. 105–178, §1204(f), amended heading and text of subsec. (f) generally. Prior to amendment, text related to transportation improvement programs, including program development, requirement for inclusion of certain projects for State transportation improvement program, project selection for areas less than 50,000 population, and requirement of biennial review and approval.
 
@@ -555,6 +569,10 @@ Subsec. (c). Pub. L. 94–280 struck out subsec. (c) which provided for an annua
 <b>1970</b>—Subsec. (b). Pub. L. 91–605 inserted reference to the Federal-aid urban system and required that projects under this section be based on a continuing comprehensive transportation planning process carried on in accordance with section 134 of this title only in urban areas of more than fifty thousand population.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as a note under section 101 of this title.
 
 #### Effective Date of 2015 Amendment
 
@@ -602,7 +620,7 @@ Program application.—The purpose of the program is to assist State departments
 
 Required Activities.—The Secretary \[of Transportation\] shall use funds made available to carry out this section to—
 
-&emsp;"(1) provide funding to State departments of transportation and metropolitan planning organizations serving transportation management areas designated under chapter 52 \[53\] of title 49, United States Code, representing a diversity of populations, geographic regions, and analytic needs to implement TRANSIMS;
+&emsp;"(1) provide funding to State departments of transportation and metropolitan planning organizationsserving transportation management areas designated under chapter 52 \[53\] of title 49, United States Code, representing a diversity of populations, geographic regions, and analytic needs to implement TRANSIMS;
 
 &emsp;"(2) develop methods to demonstrate a wide spectrum of TRANSIMS applications to support local, metropolitan, statewide transportation planning, including integrating highway and transit operational considerations into the transportation Planning process, and estimating the effects of induced travel demand and transit ridership in making transportation conformity determinations where applicable;
 
@@ -707,8 +725,4 @@ Pub. L. 89–285, title III, §304, Oct. 22, 1965, 79 Stat. 1033, as amended by 
 #### Definitions
 
 For additional definitions of terms used in this section, see section 134 of this title.
-
-<i><sup>1</sup></i><i> So in original.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
 

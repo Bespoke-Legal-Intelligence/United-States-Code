@@ -1,6 +1,6 @@
 ### §1904. Plans of insurance
 
-(a) Insurance may be issued on the following plans: Five-year level premium term, ordinarylife, twenty-payment life, thirty-payment life, twenty-year endowment, endowment at age sixty, and endowment at age sixty-five. Level premium term insurance may be converted as of the date when any premium becomes or has become due, or exchanged as of the date of the original policy, upon payment of the difference in reserve, at any time while such insurance is in force and within the term period to any of the foregoing permanent plans of insurance, except that conversion to an endowment plan may not be made while the insured is totally disabled.
+(a) Insurance may be issued on the following plans: Five-year level premium term, ordinary life, twenty-payment life, thirty-payment life, twenty-year endowment, endowment at age sixty, and endowment at age sixty-five. Level premium term insurance may be converted as of the date when any premium becomes or has become due, or exchanged as of the date of the original policy, upon payment of the difference in reserve, at any time while such insurance is in force and within the term period to any of the foregoing permanent plans of insurance, except that conversion to an endowment plan may not be made while the insured is totally disabled.
 
 (b) Under such regulations as the Secretary may promulgate a policy of participating insurance may be converted to or exchanged for insurance issued under this subsection on a modified life plan. Insurance issued under this subsection shall be on the same terms and conditions as the insurance which it replaces, except (1) the premium rates for such insurance shall be based on the 1958 Commissioners Standard Ordinary Basic Table of Mortality and interest at the rate of 3 per centum per annum; (2) all cash, loan, paid-up, and extended values shall be based on the 1958 Commissioners Standard Ordinary Basic Table of Mortality and interest at the rate of 3 per centum per annum; and (3) at the end of the day preceding the sixty-fifth birthday of the insured the face value of the modified life insurance policy or the amount of extended term insurance thereunder shall be automatically reduced by one-half thereof, without any reduction in premium.
 
@@ -16,7 +16,7 @@
 
 #### References in Text
 
-Section 621 of the National Service Life Insurance Act of 1940, referred to in subsec. (c), is section 621 ofact Oct. 8, 1940, ch. 757, title VI, pt. I, as added Apr. 25, 1951, ch. 39, pt. II, §10, 65 Stat. 36, which was repealed and the provisions thereof reenacted as section 723 \[now 1923\] of this title by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
+Section 621 of the National Service Life Insurance Act of 1940, referred to in subsec. (c), is section 621 of act Oct. 8, 1940, ch. 757, title VI, pt. I, as added Apr. 25, 1951, ch. 39, pt. II, §10, 65 Stat. 36, which was repealed and the provisions thereof reenacted as section 723 \[now 1923\] of this title by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
 
 #### Prior Provisions
 

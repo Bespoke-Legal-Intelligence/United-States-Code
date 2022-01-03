@@ -34,7 +34,9 @@ A State may use a portion of the amounts described in subsection (a) for the pur
 
 Of the amounts paid to a State under section 703 of this title from an allotment for a fiscal year under section 702(c) of this title, not more than 10 percent may be used for administering the funds paid under such section.
 
-(Aug. 14, 1935, ch. 531, title V, §504, as added Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 821; amended Pub. L. 99–272, title IX, §9527(e), Apr. 7, 1986, 100 Stat. 219; Pub. L. 100–93, §8(a), Aug. 18, 1987, 101 Stat. 692; Pub. L. 100–203, title IV, §4118(e)(12), Dec. 22, 1987, as added Pub. L. 100–360, title IV, §411(k)(10)(D), July 1, 1988, 102 Stat. 796, and amended Pub. L. 100–485, title VI, §608(d)(26)(K)(ii), Oct. 13, 1988, 102 Stat. 2422; Pub. L. 101–239, title VI, §6503(a), (c)(2), (4), Dec. 19, 1989, 103 Stat. 2276, 2278.)
+(Aug. 14, 1935, ch. 531, title V, §504, as added Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat.821; amended Pub. L. 99–272, title IX, §9527(e), Apr. 7, 1986, 100 Stat. 219; Pub. L. 100–93, §8(a), Aug. 18, 1987, 101 Stat. 692; Pub. L. 100–203, title IV, §4118(e)(12), Dec. 22, 1987, as added Pub. L. 100–360, title IV, §411(k)(10)(D), July 1, 1988, 102 Stat. 796, and amended Pub. L. 100–485, title VI, §608(d)(26)(K)(ii), Oct. 13, 1988, 102 Stat. 2422; Pub. L. 101–239, title VI, §6503(a), (c)(2), (4), Dec. 19, 1989, 103 Stat. 2276, 2278.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -60,6 +62,8 @@ Pub. L. 100–93 added par. (6).
 
 <b>1986</b>—Subsec. (b)(1). Pub. L. 99–272 substituted "children with special health care needs" for "crippled children".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1989 Amendment
 
 Amendment by section 6503(a) of Pub. L. 101–239 applicable to appropriations for fiscal years beginning with fiscal year 1990, and amendment by section 6503(c)(2), (4) of Pub. L. 101–239 applicable to payments for allotments for fiscal years beginning with fiscal year 1991, see section 6510(a), (b)(1) of Pub. L. 101–239, set out as a note under section 701 of this title.
@@ -72,7 +76,7 @@ Pub. L. 100–485, title VI, §608(g), Oct. 13, 1988, 102 Stat. 2424, provided t
 
 "(2) The amendments made by subsection (c) and subsection (f) (other than paragraph (5)) \[amending sections 1395cc, 1396b, 1396d, and 1396n of this title, enacting provisions set out as a note under section 1395k of this title, and amending provisions set out as a note under section 1395k of this title\] shall take effect on the date of the enactment of this Act \[Oct. 13, 1988\]."
 
-Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Referenceto OBRA; Effective Date note under section 106 of Title 1, General Provisions.
+Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 
 #### Effective Date of 1987 Amendment
 

@@ -34,7 +34,7 @@
 
 (C) Notwithstanding subparagraph (A), a standard prescribed or established under section 6313(a) of this title shall not supersede the standards established by the State of California set forth in Table C–6, California Code of Regulations, Title 24, Part 2, Chapter 2–53, for water-source heat pumps below 135,000 Btu per hour (cooling capacity) that become effective on January 1, 1993.
 
-(D) Notwithstanding subparagraph (A), a standard prescribed or established under section 6313(a) of this title shall not supersede a Stateregulation which has been granted a waiver by the Secretary. The Secretary may grant a waiver pursuant to the terms, conditions, criteria, procedures, and other requirements specified in section 6297(d) of this title.
+(D) Notwithstanding subparagraph (A), a standard prescribed or established under section 6313(a) of this title shall not supersede a State regulation which has been granted a waiver by the Secretary. The Secretary may grant a waiver pursuant to the terms, conditions, criteria, procedures, and other requirements specified in section 6297(d) of this title.
 
 (c) With respect to any electric motor to which standards are applicable under section 6313(b) of this title, the Secretary shall require manufacturers to certify, through an independent testing or certification program nationally recognized in the United States, that such motor meets the applicable standard.
 
@@ -136,6 +136,8 @@ California.—Any standard issued in the State of California before January 1, 2
 
 (Pub. L. 94–163, title III, §345, as added Pub. L. 95–619, title IV, §441(a), Nov. 9, 1978, 92 Stat. 3272; amended Pub. L. 102–486, title I, §122(e), Oct. 24, 1992, 106 Stat. 2815; Pub. L. 105–388, §5(a)(7), Nov. 13, 1998, 112 Stat. 3478; Pub. L. 109–58, title I, §136(h), Aug. 8, 2005, 119 Stat. 643; Pub. L. 110–140, title III, §§308(b), 312(e), Dec. 19, 2007, 121 Stat. 1561, 1567; Pub. L. 112–210, §10(a)(5), Dec. 18, 2012, 126 Stat. 1524.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The National Appliance Energy Conservation Act of 1987, referred to in subsec. (a)(5), (9), is Pub. L. 100–12, Mar. 17, 1987, 101 Stat. 103. For complete classification of this Act to the Code, see Short Title of 1987 Amendment note set out under section 6201 of this title and Tables.
@@ -183,6 +185,8 @@ Subsec. (a)(1). Pub. L. 102–486, §122(e)(1)(B), substituted ", 6294, and 629
 Subsec. (a)(5) to (8). Pub. L. 102–486, §122(e)(1)(C)–(E), added pars. (5) to (8).
 
 Subsecs. (b), (c). Pub. L. 102–486, §122(e)(2), added subsecs. (b) and (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

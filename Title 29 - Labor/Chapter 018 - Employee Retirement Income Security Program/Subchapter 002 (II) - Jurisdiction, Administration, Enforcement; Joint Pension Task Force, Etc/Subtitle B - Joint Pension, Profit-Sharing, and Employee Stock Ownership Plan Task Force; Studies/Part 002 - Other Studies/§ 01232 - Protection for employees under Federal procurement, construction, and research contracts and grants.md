@@ -36,7 +36,7 @@ Within 1 year after the date on which he submits his report to the Congress unde
 
 (5)(A) When the committee has reported, or has been discharged from further consideration of, a resolution of disapproval, it is at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the resolution. The motion is highly privileged and is not debatable. An amendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
 
-(B) Debate on the resolution of disapproval shall be limited to not more than 10 hours, which shall be divided equally between those favoring and those opposing the resolution. A motion further to limit debate is not debatable. An amendment to, or motion to recommit, the resolution is not in order, and it is not in order to move to reconsider the vote by which the resolution is agreed to or disagreed to.
+(B) Debate on the resolution of disapproval shall be limited to not more than 10 hours,which shall be divided equally between those favoring and those opposing the resolution. A motion further to limit debate is not debatable. An amendment to, or motion to recommit, the resolution is not in order, and it is not in order to move to reconsider the vote by which the resolution is agreed to or disagreed to.
 
 (6)(A) Motions to postpone, made with respect to the discharge from committee or the consideration of a resolution of disapproval, and motions to proceed to the consideration of other business, shall be decided without debate.
 
@@ -54,7 +54,7 @@ Within 1 year after the date on which he submits his report to the Congress unde
 
 &emsp;(A) as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such they are deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of resolutions of disapproval described in paragraph (2); and they supersede other rules only to the extent that they are inconsistent therewith; and
 
-&emsp;(B) with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedures of that House) at any time, in the same mannerand to the same extent as in the case of any other rule of that House.
+&emsp;(B) with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedures of that House) at any time, in the same manner and to the same extent as in the case of any other rule of that House.
 
 (Pub. L. 93–406, title III, §3032, Sept. 2, 1974, 88 Stat. 1000.)
 

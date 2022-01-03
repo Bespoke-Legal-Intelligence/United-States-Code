@@ -28,7 +28,7 @@ If—
 
 #### (A) Buy-sell basis
 
-&emsp;&emsp;A transaction is on a buy-sell basis if the buyer performing the services is entitled to retain part or all of the difference between the price at which the buyer purchases the product and the price at which the buyer sells the product as part or all of the buyer's remuneration for the services, and
+&emsp;&emsp;A transaction is on a buy-sell basis if the buyer performing the services is entitled toretain part or all of the difference between the price at which the buyer purchases the product and the price at which the buyer sells the product as part or all of the buyer's remuneration for the services, and
 
 #### (B) Deposit-commission basis
 
@@ -88,6 +88,8 @@ Every person required to make a return under subsection (a) or (b) shall furnish
 
 (Added Pub. L. 97–248, title III, §312(a), Sept. 3, 1982, 96 Stat. 601; amended Pub. L. 104–168, title XII, §1201(a)(2), July 30, 1996, 110 Stat. 1469; Pub. L. 105–34, title X, §1022(a), Aug. 5, 1997, 111 Stat. 923.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this paragraph, referred to in subsec. (d)(3), is the date of enactment of Pub. L. 105–34, which was approved Aug. 5, 1997.
@@ -97,6 +99,8 @@ The date of the enactment of this paragraph, referred to in subsec. (d)(3), is t
 <b>1997</b>—Subsec. (d)(3). Pub. L. 105–34 added par. (3).
 
 <b>1996</b>—Subsec. (e)(1). Pub. L. 104–168 substituted "name, address, and phone number of the information contact" for "name and address".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1997 Amendment
 

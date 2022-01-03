@@ -20,6 +20,8 @@ The individual serving as Under Secretary of Commerce for Export Administration 
 
 (Pub. L. 115–232, div. A, title XVII, §1781, Aug. 13, 2018, 132 Stat. 2238; Pub. L. 116–6, div. H, title II, §205(a), Feb. 15, 2019, 133 Stat. 476.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (a)(1), was in the original "this subtitle", meaning subtitle B (§§1741–1781) of title XVII of div. A of Pub. L. 115–232, Aug. 13, 2018, 132 Stat. 2208, known as the Export Control Reform Act of 2018, which is classified principally to this chapter. For complete classification of subtitle B to the Code, see section 1741 of Pub. L. 115–232, set out as a Short Title note under section 4801 of this title and Tables.
@@ -28,7 +30,7 @@ The date of the enactment of this Act, referred to in subsec. (a)(2), probably m
 
 #### Codification
 
-Section is comprised of section 1781 of Pub. L. 115–232. Subsec. (c) of section 1781 of Pub. L. 115–232 amended section 5314 of Title 5, Government Organization and Employees.
+Section is comprised of section 1781 of Pub. L. 115–232. Subsec. (c) of section 1781 of Pub. L. 115–232 amendedsection 5314 of Title 5, Government Organization and Employees.
 
 #### Amendments
 
@@ -37,6 +39,8 @@ Section is comprised of section 1781 of Pub. L. 115–232. Subsec. (c) of sectio
 Subsec. (b). Pub. L. 116–6, §205(a)(1), (2), redesignated subsec. (a) as (b) and substituted "Reference" for "In general" in heading. Former subsec. (b) redesignated (c).
 
 Subsecs. (c), (d). Pub. L. 116–6, §205(a)(1), redesignated subsecs. (b) and (c) as (c) and (d), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2019 Amendment
 

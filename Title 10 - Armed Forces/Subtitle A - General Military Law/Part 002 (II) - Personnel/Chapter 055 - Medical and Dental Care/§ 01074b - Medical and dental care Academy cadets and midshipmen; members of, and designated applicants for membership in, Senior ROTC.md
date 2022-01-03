@@ -12,7 +12,7 @@ Eligibility.—Under joint regulations prescribed by the administering Secretari
 
 &emsp;&emsp;(B) while traveling directly to or from the place at which that member or applicant is to perform or has performed duties pursuant to section 2109 of this title; or
 
-&emsp;&emsp;(C) in the line of duty while remaining overnight immediately before the commencement of duties performed pursuant to section 2109 of this title or, while remaining overnight, between successive periods of performing duties pursuant to section 2109 of this title, at or in the vicinity of the site of the duties performed pursuant to section 2109 of this title, if the site is outside reasonable commuting distance from the residence of the member or designated applicant.
+&emsp;&emsp;(C) in the line of duty while remaining overnight immediately before the commencement of duties performed pursuant to section 2109 of this title or, while remaining overnight, between successive periods of performing duties pursuant to section 2109 ofthis title, at or in the vicinity of the site of the duties performed pursuant to section 2109 of this title, if the site is outside reasonable commuting distance from the residence of the member or designated applicant.
 
 (b)
 
@@ -27,6 +27,8 @@ Benefits.—A person eligible for benefits under subsection (a) for an injury, i
 Exception for Gross Negligence or Misconduct.—A person is not entitled to benefits under subsection (b) for an injury, illness, or disease, or the aggravation of an injury, illness, or disease that is a result of the gross negligence or the misconduct of that person.
 
 (Added Pub. L. 108–375, div. A, title V, §555(a)(1), Oct. 28, 2004, 118 Stat. 1913.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

@@ -32,7 +32,7 @@ Any action under this section may be brought in the appropriate United States di
 
 #### (g) Request by responsible enforcement agency to Attorney General for civil action
 
-The agencies having responsibility for administrative enforcement under section 1691c of this title, if unable to obtain compliance with section 1691 of this title, are authorized to refer the matter to the Attorney General with a recommendation that an appropriate civil action be instituted. Each agency referred to in paragraphs (1), (2), and (9) of section 1691c(a) of this title shall refer the matter to the Attorney General whenever the agency has reason to believe that 1 or more creditors has engaged in a pattern or practice of discouraging or denying applications for credit in violation of section 1691(a) of this title. Each such agency may refer the matter to the Attorney General whenever the agency has reason to believe that 1 or more creditors has violated section 1691(a) of this title.
+The agencies having responsibility for administrative enforcement under section 1691c of this title, if unable to obtain compliance with section 1691 of this title, are authorized to refer thematter to the Attorney General with a recommendation that an appropriate civil action be instituted. Each agency referred to in paragraphs (1), (2), and (9) of section 1691c(a) of this title shall refer the matter to the Attorney General whenever the agency has reason to believe that 1 or more creditors has engaged in a pattern or practice of discouraging or denying applications for credit in violation of section 1691(a) of this title. Each such agency may refer the matter to the Attorney General whenever the agency has reason to believe that 1 or more creditors has violated section 1691(a) of this title.
 
 #### (h) Authority for Attorney General to bring civil action; jurisdiction
 
@@ -60,9 +60,11 @@ Whenever an agency referred to in paragraph (1), (2), or (3) <sup>1</sup> of se
 
 (Pub. L. 90–321, title VII, §706, as added Pub. L. 93–495, title V, §503, Oct. 28, 1974, 88 Stat. 1524; amended Pub. L. 94–239, §6, Mar. 23, 1976, 90 Stat. 253; Pub. L. 102–242, title II, §223(a)–(c), Dec. 19, 1991, 105 Stat. 2306; Pub. L. 111–203, title X, §1085(1), (5)–(7), July 21, 2010, 124 Stat. 2083, 2085.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-Section 3612 of title 42, referred to in subsec. (i), which related to enforcement of the Fair Housing Act (42 U.S.C. 3601 et seq.) by private persons, was repealed by Pub. L. 100–430, §8(2), Sept. 13, 1988, 102 Stat. 1625.See section 3613 of Title 42, The Public Health and Welfare.
+Section 3612 of title 42, referred to in subsec. (i), which related to enforcement of the Fair Housing Act (42 U.S.C. 3601 et seq.) by private persons, was repealed by Pub. L. 100–430, §8(2), Sept. 13, 1988, 102 Stat. 1625. See section 3613 of Title 42, The Public Health and Welfare.
 
 Paragraph (1), (2), or (3) of section 1691c(a) of this title, referred to in subsec. (k), probably means par. (1), (2), or (3) of section 1691c(a) of this title prior to repeal of pars. (1) and (2), enactment of new pars. (1) and (9), and redesignation of par. (3) as (2) by Pub. L. 111–203, title X, §1085(4)(A)(ii)–(vi), July 21, 2010, 124 Stat. 2084.
 
@@ -99,6 +101,8 @@ Subsec. (e). Pub. L. 94–239 redesignated subsec. (f) as (e) and inserted refer
 Subsec. (f). Pub. L. 94–239 redesignated subsec. (g) as (f) and inserted provisions which substituted a two year limitation for one year limitation and provisions extending time in which to bring action under enumerated conditions. Former subsec. (f) redesignated (e) and amended.
 
 Subsecs. (g) to (j). Pub. L. 94–239 added subsecs. (g) to (j). Former subsec. (g) redesignated (f) and amended.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

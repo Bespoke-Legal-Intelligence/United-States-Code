@@ -60,7 +60,7 @@
 
 &emsp;&emsp;&emsp;(I) except that such subsection shall not be applicable to a decision by the University to refuse to admit a child; or
 
-&emsp;&emsp;&emsp;(II) to dismiss a child, except that, before dismissing any child, the University shall give at least 60 days written notice to the child's parents and to the local educational agency in which the child resides, unless the dismissal involves a suspension, expulsion, or other change in placement covered under section 615(k) \[20 U.S.C. 1415(k)\].
+&emsp;&emsp;&emsp;(II) to dismiss a child, except that, before dismissing any child, the University shall give at least 60 days written notice to the child's parents and to the local educational agency in which the child resides, unless the dismissal involves a suspension,expulsion, or other change in placement covered under section 615(k) \[20 U.S.C. 1415(k)\].
 
 &emsp;&emsp;(vi) Subsections (k) through (o).
 
@@ -76,13 +76,15 @@
 
 (Pub. L. 99–371, title I, §104, as added Pub. L. 102–421, title I, §112, Oct. 16, 1992, 106 Stat. 2152; amended Pub. L. 103–73, title II, §203(d), Aug. 11, 1993, 107 Stat. 733; Pub. L. 105–244, title IX, §912, Oct. 7, 1998, 112 Stat. 1829; Pub. L. 108–446, title III, §305(d), Dec. 3, 2004, 118 Stat. 2805; Pub. L. 110–315, title IX, §901, Aug. 14, 2008, 122 Stat. 3450; Pub. L. 114–95, title IX, §9215(ee), Dec. 10, 2015, 129 Stat. 2173.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Individuals with Disabilities Education Act, referred to in subsecs. (a)(2)(B) and (b)(3), (4)(C), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part B of the Act is classified generally to subchapter II (§1411 et seq.) of chapter 33 of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
 #### Amendments
 
-<b>2015</b>—Subsec. (b)(5)(A)(i). Pub. L. 114–95, §9215(ee)(1)(A), substituted "select challenging State academic content standards, aligned academic achievement standards, and State academic assessments of a State, adopted and implemented, as appropriate, pursuant to paragraphs (1) and (2) of section 6311(b) of thistitle" for "select challenging academic content standards, challenging student academic achievement standards, and academic assessments of a State, adopted and implemented, as appropriate, pursuant to paragraphs (1) and (3) of section 6311(b) of this title".
+<b>2015</b>—Subsec. (b)(5)(A)(i). Pub. L. 114–95, §9215(ee)(1)(A), substituted "select challenging State academic content standards, aligned academic achievement standards, and State academic assessments of a State, adopted and implemented, as appropriate, pursuant to paragraphs (1) and (2) of section 6311(b) of this title" for "select challenging academic content standards, challenging student academic achievement standards, and academic assessments of a State, adopted and implemented, as appropriate, pursuant to paragraphs (1) and (3) of section 6311(b) of this title".
 
 Subsec. (b)(5)(A)(ii). Pub. L. 114–95, §9215(ee)(1)(B), substituted "2016–2017 academic year" for "2009–2010 academic year".
 
@@ -137,6 +139,8 @@ Subsec. (a)(1). Pub. L. 103–73, §203(d)(2), in subpar. (A) substituted "deaf 
 Subsec. (b)(1). Pub. L. 103–73, §203(d)(3), substituted "infants, children, and youth" for "infants and children" in subpar. (A) and a period for the semicolon at end of subpar. (C).
 
 Subsec. (b)(4). Pub. L. 103–73, §203(d)(4), substituted "program" for "programs" in subpar. (A), "the child to and from that program" for "students to and from those programs" in subpar. (B), and "a decision" for "decisions" in subpar. (C)(iii).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

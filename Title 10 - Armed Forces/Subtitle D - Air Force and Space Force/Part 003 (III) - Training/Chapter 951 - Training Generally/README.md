@@ -2,17 +2,13 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [9401\.](%C2%A7%2009401%20-%20Members%20of%20Air%20Force%20and%20Space%20Force%20detail%20as%20students%2C%20observers%20and%20investigators%20at%20educational%20institutions%2C%20industrial%20plants%2C%20and%E2%80%A6.md) | Members of Air Force and Space Force: detail as students, observers, and investigators at educational institutions, industrial plants, and hospitals.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
-| [9402\.](%C2%A7%2009402%20-%20Enlisted%20members%20Air%20Force%20or%20Space%20Force%20schools.md) | Enlisted members of Air Force or Space Force: schools.<sup>1</sup> |
+| [9401\.](%C2%A7%2009401%20-%20Members%20of%20Air%20Force%20and%20Space%20Force%20detail%20as%20students%2C%20observers%2C%20and%20investigators%20at%20educational%20institutions%2C%20industrial%20plants%2C%20and%E2%80%A6.md) | Members of Air Force and Space Force: detail as students, observers, and investigators at educational institutions, industrial plants, and hospitals. |
+| [9402\.](%C2%A7%2009402%20-%20Enlisted%20members%20of%20Air%20Force%20or%20Space%20Force%20schools.md) | Enlisted members of Air Force or Space Force: schools. |
 | [9403\.](%C2%A7%2009403%20-%20Aviation%20cadets%20and%20aviation%20students%20schools.md) | Aviation cadets and aviation students: schools. |
 | [9404\.](%C2%A7%2009404%20-%20Aviation%20students%20detail%20of%20enlisted%20members%20of%20Air%20Force.md) | Aviation students: detail of enlisted members of Air Force. |
 | [9405\.](%C2%A7%2009405%20-%20Civilian%20flying%20school%20instructors%20instruction%20at%20Air%20Force%20training%20commands.md) | Civilian flying school instructors: instruction at Air Force training commands. |
 | [9406\.](%C2%A7%2009406%20-%20Service%20schools%20leaves%20of%20absence%20for%20instructors.md) | Service schools: leaves of absence for instructors. |
+| [9413\.](%C2%A7%2009413%20-%20United%20States%20Air%20Force%20Institute%20of%20Technology%20establishment.md) | United States Air Force Institute of Technology: establishment. |
 | [9414\.](%C2%A7%2009414%20-%20Degree%20granting%20authority%20for%20United%20States%20Air%20Force%20Institute%20of%20Technology.md) | Degree granting authority for United States Air Force Institute of Technology. |
 | [9414a.](%C2%A7%2009414a%20-%20United%20States%20Air%20Force%20Institute%20of%20Technology%20admission%20of%20certain%20private%20sector%20civilians.md) | United States Air Force Institute of Technology: admission of certain private sector civilians. |
 | [9414b.](%C2%A7%2009414b%20-%20United%20States%20Air%20Force%20Institute%20of%20Technology%20administration.md) | United States Air Force Institute of Technology: administration. |
@@ -23,13 +19,17 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior chapter 951, consisting of sections 9801 to 9806, related to military claims, prior to renumbering as chapter 981 of this title.
 
 #### Amendments
 
-<b>2021</b>—Pub. L. 116–283, div. A, title IX, §923(d)(1)(D), (2)(C), Jan. 1, 2021, 134 Stat. 3813, 3814, added items 9401 and 9402 and struck out former items 9401 "Members of Air Force: detail as students, observers, and investigators at educational institutions, industrial plants, and hospitals" and 9402 "Enlisted members of Air Force: schools".
+<b>2021</b>—Pub. L. 117–81, div. A, title V, §558(b), title X, §1081(a)(35), (36), Dec. 27, 2021, 135 Stat. 1741, 1921, added item 9413 and reenacted items 9401 and 9402.
+
+Pub. L. 116–283, div. A, title IX, §923(d)(1)(D), (2)(C), Jan. 1, 2021, 134 Stat. 3813, 3814, added items 9401 and 9402 and struck out former items 9401 "Members of Air Force: detail as students, observers, and investigators at educational institutions, industrial plants, and hospitals" and 9402 "Enlisted members of Air Force: schools".
 
 <b>2018</b>—Pub. L. 115–232, div. A, title VIII, §806(d)(2), (e)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 901 of this title as this chapter and items 9301 to 9306, 9314, 9314a, 9314b, 9315, 9317, 9319, and 9320 as 9401 to 9406, 9414, 9414a, 9414b, 9415, 9417, 9419, and 9420, respectively.
 
@@ -57,19 +57,18 @@ Pub. L. 111–383, div. A, title V, §593(b), Jan. 7, 2011, 124 Stat. 4234, adde
 
 <b>1976</b>—Pub. L. 94–361, title VI, §602, July 14, 1976, 90 Stat. 928, added item 9315.
 
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
-
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 09401 - Members of Air Force and Space Force detail as students, observers and investigators at educational institutions, industrial plants, and&#8230;](%C2%A7%2009401%20-%20Members%20of%20Air%20Force%20and%20Space%20Force%20detail%20as%20students%2C%20observers%20and%20investigators%20at%20educational%20institutions%2C%20industrial%20plants%2C%20and%E2%80%A6.md)
-- [&sect; 09402 - Enlisted members Air Force or Space Force schools](%C2%A7%2009402%20-%20Enlisted%20members%20Air%20Force%20or%20Space%20Force%20schools.md)
+- [&sect; 09401 - Members of Air Force and Space Force detail as students, observers, and investigators at educational institutions, industrial plants, and&#8230;](%C2%A7%2009401%20-%20Members%20of%20Air%20Force%20and%20Space%20Force%20detail%20as%20students%2C%20observers%2C%20and%20investigators%20at%20educational%20institutions%2C%20industrial%20plants%2C%20and%E2%80%A6.md)
+- [&sect; 09402 - Enlisted members of Air Force or Space Force schools](%C2%A7%2009402%20-%20Enlisted%20members%20of%20Air%20Force%20or%20Space%20Force%20schools.md)
 - [&sect; 09403 - Aviation cadets and aviation students schools](%C2%A7%2009403%20-%20Aviation%20cadets%20and%20aviation%20students%20schools.md)
 - [&sect; 09404 - Aviation students detail of enlisted members of Air Force](%C2%A7%2009404%20-%20Aviation%20students%20detail%20of%20enlisted%20members%20of%20Air%20Force.md)
 - [&sect; 09405 - Civilian flying school instructors instruction at Air Force training commands](%C2%A7%2009405%20-%20Civilian%20flying%20school%20instructors%20instruction%20at%20Air%20Force%20training%20commands.md)
 - [&sect; 09406 - Service schools leaves of absence for instructors](%C2%A7%2009406%20-%20Service%20schools%20leaves%20of%20absence%20for%20instructors.md)
+- [&sect; 09413 - United States Air Force Institute of Technology establishment](%C2%A7%2009413%20-%20United%20States%20Air%20Force%20Institute%20of%20Technology%20establishment.md)
 - [&sect; 09414 - Degree granting authority for United States Air Force Institute of Technology](%C2%A7%2009414%20-%20Degree%20granting%20authority%20for%20United%20States%20Air%20Force%20Institute%20of%20Technology.md)
 - [&sect; 09414a - United States Air Force Institute of Technology admission of certain private sector civilians](%C2%A7%2009414a%20-%20United%20States%20Air%20Force%20Institute%20of%20Technology%20admission%20of%20certain%20private%20sector%20civilians.md)
 - [&sect; 09414b - United States Air Force Institute of Technology administration](%C2%A7%2009414b%20-%20United%20States%20Air%20Force%20Institute%20of%20Technology%20administration.md)

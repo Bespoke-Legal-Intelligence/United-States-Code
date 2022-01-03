@@ -144,7 +144,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;A taxpayer holds offsetting positions with respect to personal property if there is a substantial diminution of the taxpayer's risk of loss from holding any position with respect to personal property by reason of his holding 1 or more other positions with respect to personal property (whether or not of the same kind).
+&emsp;&emsp;A taxpayer holds offsetting positions with respect to personal property if there is a substantial diminution of the taxpayer's risk ofloss from holding any position with respect to personal property by reason of his holding 1 or more other positions with respect to personal property (whether or not of the same kind).
 
 #### (B) Special rule for identified straddles
 
@@ -368,6 +368,8 @@ If a taxpayer holds any stock and grants a qualified covered call option to purc
 
 (Added Pub. L. 97–34, title V, §501(a), Aug. 13, 1981, 95 Stat. 323; amended Pub. L. 97–448, title I, §105(a)(1)(A)–(C), (2)–(4), Jan. 12, 1983, 96 Stat. 2384, 2385; Pub. L. 98–369, div. A, title I, §§101(a)–(d), 102(e)(2), 103(a), 107(a), July 18, 1984, 98 Stat. 616–619, 624, 627, 629; Pub. L. 99–514, title III, §331(a), title XII, §1261(b), title XVIII, §§1808(c), 1899A(66), Oct. 22, 1986, 100 Stat. 2220, 2591, 2817, 2962; Pub. L. 100–647, title VI, §6130(c), Nov. 10, 1988, 102 Stat. 3719; Pub. L. 105–34, title XII, §1271(b)(9), Aug. 5, 1997, 111 Stat. 1037; Pub. L. 106–170, title V, §532(c)(1)(F), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 106–554, §1(a)(7) \[title IV, §401(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–649; Pub. L. 108–357, title VIII, §888(a)–(c)(1), Oct. 22, 2004, 118 Stat. 1642, 1643; Pub. L. 109–135, title IV, §403(ii), Dec. 21, 2005, 119 Stat. 2632; Pub. L. 110–172, §7(d), Dec. 29, 2007, 121 Stat. 2482; Pub. L. 115–141, div. U, title IV, §401(a)(170), (171), Mar. 23, 2018, 132 Stat. 1192.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a)(2)(B). Pub. L. 115–141, §401(a)(170), substituted "with respect to other" for "with respect other" in concluding provisions.
@@ -398,7 +400,7 @@ Subsec. (a)(3)(B). Pub. L. 110–172, §7(d)(2)(C), substituted "offsetting posi
 
 Subsec. (a)(2)(B). Pub. L. 108–357, §888(a)(2)(B), inserted concluding provisions.
 
-Subsec. (a)(2)(B)(ii). Pub. L. 108–357, §888(a)(2)(A), added cl. (ii) and struck out former cl. (ii) which read as follows: "all of the original positions of which (asidentified by the taxpayer) are acquired on the same day and with respect to which—
+Subsec. (a)(2)(B)(ii). Pub. L. 108–357, §888(a)(2)(A), added cl. (ii) and struck out former cl. (ii) which read as follows: "all of the original positions of which (as identified by the taxpayer) are acquired on the same day and with respect to which—
 
 &emsp;"(I) all of such positions are disposed of on the same day during the taxable year, or
 
@@ -463,6 +465,8 @@ Subsec. (a)(3)(B)(i)(II). Pub. L. 97–448, §105(a)(1)(C), substituted "unrecog
 Subsec. (c)(2)(C). Pub. L. 97–448, §105(a)(4), substituted "subsection (a)(2)(B)" for "subsection (a)(3)(B)".
 
 Subsec. (d)(4). Pub. L. 97–448, §105(a)(3), substituted "a straddle at least 1 (but not all) of the positions of which are regulated futures contracts, the provisions of this section shall apply" for "a straddle— (A) at lease 1 (but not all) of the positions of which are regulated futures contracts, and (B) with respect to which the taxpayer has elected not to have the provisions of section 1256 apply, the provisions of this section shall apply".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

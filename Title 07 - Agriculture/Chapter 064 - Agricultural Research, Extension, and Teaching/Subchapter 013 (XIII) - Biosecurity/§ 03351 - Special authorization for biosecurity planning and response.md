@@ -26,6 +26,8 @@ Using any authority available to the Secretary, the Secretary shall use funds ma
 
 (Pub. L. 95–113, title XIV, §1484, as added Pub. L. 107–171, title VII, §7221(a), May 13, 2002, 116 Stat. 452; amended Pub. L. 110–234, title VII, §7142, May 22, 2008, 122 Stat. 1232; Pub. L. 110–246, §4(a), title VII, §7142, June 18, 2008, 122 Stat. 1664, 1993; Pub. L. 113–79, title VII, §7126, Feb. 7, 2014, 128 Stat. 877; Pub. L. 115–334, title VII, §7135, Dec. 20, 2018, 132 Stat. 4802.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (a), was in the original "this Act", and was translated as reading "this title", meaning title XIV of Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 981, as amended, known as the National Agricultural Research, Extension, and Teaching Policy Act of 1977, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title XIV to the Code, see References in Text note set out under section 3102 of this title and Tables.
@@ -48,7 +50,9 @@ Subsec. (b)(5). Pub. L. 115–334, §7135(2)(C), added par. (5).
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–246, §7142, substituted "2012" for "2007".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 

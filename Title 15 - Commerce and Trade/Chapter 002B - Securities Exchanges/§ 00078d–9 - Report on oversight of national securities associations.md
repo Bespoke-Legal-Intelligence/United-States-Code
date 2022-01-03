@@ -38,7 +38,7 @@ Not later than 2 years after July 21, 2010, and every 3 years thereafter, the Co
 
 #### (1) Reimbursements required
 
-&emsp;The Commission shall reimburse the Government Accountability Office for the full cost of making the reports under subsection (a), as billed therefor by the Comptroller General.
+&emsp;The Commission shall reimburse the Government Accountability Office for the full costof making the reports under subsection (a), as billed therefor by the Comptroller General.
 
 #### (2) Crediting and use of reimbursements
 
@@ -50,9 +50,13 @@ Not later than 2 years after July 21, 2010, and every 3 years thereafter, the Co
 
 (Pub. L. 111–203, title IX, §964, July 21, 2010, 124 Stat. 1910.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Investor Protection and Securities Reform Act of 2010 and also as part of the Dodd-Frank Wall Street Reform and Consumer Protection Act, and not as part of the Securities Exchange Act of 1934 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -36,7 +36,7 @@
 
 &emsp;(2) the term "other person protected by the Secret Service" means any person whom the United States Secret Service is authorized to protect under section 3056 of this title or by Presidential memorandum, when such person has not declined such protection.
 
-(Added Pub. L. 91–644, title V, §18, Jan. 2, 1971, 84 Stat. 1891; amended Pub. L. 97–308, §1, Oct. 14, 1982, 96 Stat. 1451; Pub. L. 98–587, §3(b), Oct. 30, 1984, 98 Stat. 3112; Pub. L. 103–322, title XXXIII, §330016(1)(G), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 109–177, title VI, §602(a), (b)(1), Mar. 9, 2006, 120 Stat. 252; Pub. L. 112–98, §2, Mar. 8, 2012, 126 Stat. 263; Pub. L. 115–254, div. B, title III, §381, Oct. 5, 2018, 132 Stat. 3320.)
+(Added Pub. L. 91–644, title V, §18, Jan. 2, 1971, 84 Stat. 1891; amended Pub. L. 97–308, §1, Oct. 14, 1982, 96 Stat. 1451; Pub. L. 98–587, §3(b), Oct. 30, 1984, 98 Stat. 3112; Pub. L. 103–322, title XXXIII, §330016(1)(G), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 109–177, title VI, §602(a), (b)(1), Mar. 9, 2006, 120 Stat. 252; Pub. L. 112–98, §2, Mar. 8, 2012, 126Stat. 263; Pub. L. 115–254, div. B, title III, §381, Oct. 5, 2018, 132 Stat. 3320.)
 
 #### <b>Editorial Notes</b>
 
@@ -74,7 +74,7 @@ Subsecs. (d) to (f). Pub. L. 109–177, §602(a)(3), redesignated subsecs. (e) a
 
 <b>1984</b>—Subsec. (f). Pub. L. 98–587 amended subsec. (f) generally, substituting "any person whom the United States Secret Service is authorized to protect under section 3056 of this title when such person has not declined such protection" for "any person authorized by section 3056 of this title or by Public Law 90–331, as amended, to receive the protection of the United States Secret Service when such person has not declined such protection pursuant to section 3056 of this title or pursuant to Public Law 90–331, as amended".
 
-<b>1982</b>—Pub. L. 97–308, §1(a), substituted "Temporary residences and offices of the President and others" for"Temporary residence of the President" in section catchline.
+<b>1982</b>—Pub. L. 97–308, §1(a), substituted "Temporary residences and offices of the President and others" for "Temporary residence of the President" in section catchline.
 
 Subsec. (a)(1)(i). Pub. L. 97–308, §1(b), made one's presence unlawful at designated temporary residences and temporary offices of any other person protected by the Secret Service.
 

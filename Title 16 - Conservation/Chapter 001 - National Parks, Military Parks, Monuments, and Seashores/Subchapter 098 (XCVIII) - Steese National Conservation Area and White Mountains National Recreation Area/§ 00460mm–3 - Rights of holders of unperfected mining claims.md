@@ -10,7 +10,7 @@ Any holder of an unperfected mining claim seeking to protect such claim pursuant
 
 #### (c) Valid mineral discovery
 
-If the holder of an unperfected mining claim notifies the Secretary by filing an application for a patent that, as a result of mining operations in compliance with the requirements of subsection (b), he has made a valid mineral discovery of such claim within the meaning of the mining laws of the United States, and if the Secretary determines that such claim contains a valid mineral discovery, the holder of such claim shall be entitled to the issuance of a patent only to the minerals in such claim pursuant to the mining laws of the United States. The holder of such a patent shall also be entitled to the use of so much of the surface estate of the lands comprising the claim as may be necessary for mining purposes: <i>Provided</i>, That all mining operations conducted upon a claim after such a valid mineral discovery has been made, shall bein accordance with such reasonable regulations as may be issued by the Secretary pursuant to the authority granted in subsection (b) of this section.
+If the holder of an unperfected mining claim notifies the Secretary by filing an application for a patent that, as a result of mining operations in compliance with the requirements of subsection (b), he has made a valid mineral discovery of such claim within the meaning of the mining laws of the United States, and if the Secretary determines that such claim contains a valid mineral discovery, the holder of such claim shall be entitled to the issuance of a patent only to the minerals in such claim pursuant to the mining laws of the United States. The holder of such a patent shall also be entitled to the use of so much of the surface estate of the lands comprising the claim as may be necessary for mining purposes: <i>Provided</i>, That all mining operations conducted upon a claim after such a valid mineral discovery has been made, shall be in accordance with such reasonable regulations as may be issued by the Secretary pursuant to the authority granted in subsection (b) of this section.
 
 #### (d) Validity determination
 
@@ -25,6 +25,8 @@ Pursuant to the provisions of this section and section 3170 of this title, reaso
 The holder of any unperfected mining claim which was, prior to November 16, 1978, located, recorded, and maintained in accordance with applicable Federal and State laws on lands located within the boundaries of the Steese National Conservation Area, or the White Mountains National Recreation Area established by this subchapter, shall be entitled during a two-year period after the date that the Secretary exercises his authority under section 460mm–1 or 460mm–4 of this title to open an area containing such claim to mining, (1) to a preference right to rerecord his claim under applicable law and to develop such claim under section 460mm–1 of this title or (2) to obtain a lease to remove nonleasable minerals from the claim under section 460mm–4 of this title.
 
 (Pub. L. 96–487, title IV, §404, Dec. 2, 1980, 94 Stat. 2397.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

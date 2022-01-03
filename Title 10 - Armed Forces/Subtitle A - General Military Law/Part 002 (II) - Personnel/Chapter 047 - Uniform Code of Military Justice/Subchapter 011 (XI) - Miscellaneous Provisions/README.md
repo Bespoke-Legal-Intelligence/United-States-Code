@@ -12,6 +12,8 @@
 | [940\.](%C2%A7%2000940%20-%20Art.%20140.%20Delegation%20by%20the%20President.md) | 140\. | Delegation by the President. |
 | [940a.](%C2%A7%2000940a%20-%20Art.%20140a.%20Case%20management%3B%20data%20collection%20and%20accessibility.md) | 140a. | Case management; data collection and accessibility. |
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, made technical amendment to Pub. L. 114–328, §5541(7). See 2016 Amendment note below.

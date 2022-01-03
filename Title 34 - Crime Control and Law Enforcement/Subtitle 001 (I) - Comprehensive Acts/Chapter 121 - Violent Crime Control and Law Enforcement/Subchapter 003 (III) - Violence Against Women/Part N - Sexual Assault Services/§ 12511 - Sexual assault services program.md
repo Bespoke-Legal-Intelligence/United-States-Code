@@ -82,7 +82,7 @@ The purposes of this section are—
 
 #### (1) Grants authorized
 
-&emsp;The Attorney General shall award grants to eligible entities to support the establishment, maintenance, and expansion of culturally specific intervention and related assistance for victims of sexual assault.
+&emsp;The Attorney General shall award grants to eligible entities to support the establishment,maintenance, and expansion of culturally specific intervention and related assistance for victims of sexual assault.
 
 #### (2) Eligible entities
 
@@ -218,7 +218,7 @@ Subsec. (b)(2)(C)(v). Pub. L. 113–4, §201(a)(2)(B), struck out "linguisticall
 
 Subsec. (b)(4). Pub. L. 113–4, §201(a)(3)(B), which directed striking out "the District of Columbia, Puerto Rico," after "Guam", was executed by striking out such phrase after "Guam," to reflect the probable intent of Congress.
 
-Pub. L. 113–4, §201(a)(3)(A), (C), (D), inserted "(including the District of Columbia and Puerto Rico)" after "The Attorney General shall allocate to each State", substituted "0.25 percent" for "0.125 percent", andstruck out at end "The District of Columbia shall be treated as a territory for purposes of calculating its allocation under the preceding formula."
+Pub. L. 113–4, §201(a)(3)(A), (C), (D), inserted "(including the District of Columbia and Puerto Rico)" after "The Attorney General shall allocate to each State", substituted "0.25 percent" for "0.125 percent", and struck out at end "The District of Columbia shall be treated as a territory for purposes of calculating its allocation under the preceding formula."
 
 Subsec. (f)(1). Pub. L. 113–4, §201(b), substituted "$40,000,000 to remain available until expended for each of fiscal years 2014 through 2018" for "$50,000,000 to remain available until expended for each of the fiscal years 2007 through 2011".
 

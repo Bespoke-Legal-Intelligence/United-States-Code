@@ -54,7 +54,7 @@ Baby bouncers, walkers, and jumpers.—Not later than 210 days after August 14, 
 
 &emsp;&emsp;(vi)
 
-All other children's product safety rules.—The Commission shall publish notice of the requirements for accreditation of third party conformity assessment bodies to assess conformity with other children's product safety rules at the earliest practicable date, but in no case later than 10 months after August 14, 2008, or, in the case of children's product safety rules established or revised 1 year or more after such date, notlater than 90 days before such rules or revisions take effect.
+All other children's product safety rules.—The Commission shall publish notice of the requirements for accreditation of third party conformity assessment bodies to assess conformity with other children's product safety rules at the earliest practicable date, but in no case later than 10 months after August 14, 2008, or, in the case of children's product safety rules established or revised 1 year or more after such date, not later than 90 days before such rules or revisions take effect.
 
 &emsp;(C)
 
@@ -138,7 +138,7 @@ The Commission may by rule require the use and prescribe the form and content of
 
 &emsp;&emsp;&emsp;(iii) The extent to which products with a substantial number of different components subject to third party testing may be evaluated to show compliance with an applicable rule, ban, standard, or regulation by third party testing of a subset of such components selected by a third party conformity assessment body.
 
-&emsp;&emsp;&emsp;(iv) The extent to which manufacturers with a substantial number of substantially similar products subject to third party testing may reasonably make use of sampling procedures that reduce the overall test burden without compromising the benefits of third party testing.
+&emsp;&emsp;&emsp;(iv) The extent to which manufacturers with a substantial number of substantiallysimilar products subject to third party testing may reasonably make use of sampling procedures that reduce the overall test burden without compromising the benefits of third party testing.
 
 &emsp;&emsp;&emsp;(v) The extent to which evidence of conformity with other national or international governmental standards may provide assurance of conformity to consumer product safety rules, bans, standards, or regulations applicable under this chapter.
 
@@ -224,7 +224,7 @@ The Commission may by rule require the use and prescribe the form and content of
 
 #### (B) Metal component parts of bicycles
 
-&emsp;&emsp;The third party testing requirements established under subsection (a) shall not apply to metal component parts of bicycleswith respect to compliance with the lead content limits in place pursuant to section 1278a(b)(6) of this title.
+&emsp;&emsp;The third party testing requirements established under subsection (a) shall not apply to metal component parts of bicycles with respect to compliance with the lead content limits in place pursuant to section 1278a(b)(6) of this title.
 
 #### (e) Withdrawal of accreditation
 
@@ -264,7 +264,7 @@ In this section:
 
 #### (1) Children's product safety rule
 
-&emsp;The term "children's product safety rule" means a consumer product safety rule under this chapter or similar rule, regulation, standard, or ban under any other Act enforced by the Commission, including a rule declaring a consumer product to be a banned hazardous product or substance.
+&emsp;The term "children's product safety rule" means a consumer product safety rule underthis chapter or similar rule, regulation, standard, or ban under any other Act enforced by the Commission, including a rule declaring a consumer product to be a banned hazardous product or substance.
 
 #### (2) Third party conformity assessment body
 
@@ -332,6 +332,8 @@ No advertisement for a consumer product or label or packaging of such product ma
 
 (Pub. L. 92–573, §14, Oct. 27, 1972, 86 Stat. 1220; Pub. L. 110–314, title I, §§102(a)(1)(A), (2), (3), (b), (d), 103, Aug. 14, 2008, 122 Stat. 3022, 3024, 3027, 3028; Pub. L. 112–28, §§2(a), 6, 10(a), Aug. 12, 2011, 125 Stat. 276, 281, 283; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Hazardous Substances Act, referred to in subsec. (f)(2)(C), is Pub. L. 86–613, July 12, 1960, 74 Stat. 372, which is classified generally to chapter 30 (§1261 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1261 of this title and Tables.
@@ -367,6 +369,8 @@ Subsec. (d). Pub. L. 110–314, §103(c), added subsec (d) relating to requireme
 Pub. L. 110–314, §102(b), added subsec. (d) relating to additional regulations for third party testing.
 
 Subsecs. (e) to (h). Pub. L. 110–314, §102(b), added subsecs. (e) to (h).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

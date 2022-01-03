@@ -20,7 +20,7 @@ The Secretary, under regulations prescribed by the Secretary, is authorized to p
 
 #### (A) In general
 
-&emsp;&emsp;In the event the action described in paragraph (1) is one which the Whistleblower Office determines to be based principally on disclosures of specific allegations (otherthan information provided by the individual described in paragraph (1)) resulting from a judicial or administrative hearing, from a governmental report, hearing, audit, or investigation, or from the news media, the Whistleblower Office may award such sums as it considers appropriate, but in no case more than 10 percent of the proceeds collected as a result of the action (including any related actions) or from any settlement in response to such action (determined without regard to whether such proceeds are available to the Secretary), taking into account the significance of the individual's information and the role of such individual and any legal representative of such individual in contributing to such action.
+&emsp;&emsp;In the event the action described in paragraph (1) is one which the Whistleblower Office determines to be based principally ondisclosures of specific allegations (other than information provided by the individual described in paragraph (1)) resulting from a judicial or administrative hearing, from a governmental report, hearing, audit, or investigation, or from the news media, the Whistleblower Office may award such sums as it considers appropriate, but in no case more than 10 percent of the proceeds collected as a result of the action (including any related actions) or from any settlement in response to such action (determined without regard to whether such proceeds are available to the Secretary), taking into account the significance of the individual's information and the role of such individual and any legal representative of such individual in contributing to such action.
 
 #### (B) Nonapplication of paragraph where individual is original source of information
 
@@ -146,6 +146,8 @@ For purposes of this section, the term "proceeds" includes—
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 904; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 104–168, title XII, §1209(a), July 30, 1996, 110 Stat. 1473; Pub. L. 109–432, div. A, title IV, §406(a)(1), Dec. 20, 2006, 120 Stat. 2958; Pub. L. 115–123, div. D, title II, §41108(a)–(c), Feb. 9, 2018, 132 Stat. 158; Pub. L. 116–25, title I, §1405(b), July 1, 2019, 133 Stat. 998.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (d). Pub. L. 116–25 added subsec. (d).
@@ -161,6 +163,8 @@ Subsec. (c). Pub. L. 115–123, §41108(a)(1), added subsec. (c).
 <b>1996</b>—Pub. L. 104–168 substituted "of underpayments and fraud, etc." for "and punishment of frauds" in section catchline and amended text generally. Prior to amendment, text read as follows: "The Secretary, under regulations prescribed by the Secretary, is authorized to pay such sums, not exceeding in the aggregate the sum appropriated therefor, as he may deem necessary for detecting and bringing to trial and punishment persons guilty of violating the internal revenue laws, or conniving at the same, in cases where such expenses are not otherwise provided for by law."
 
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2019 Amendment
 
@@ -184,7 +188,7 @@ Pub. L. 109–432, div. A, title IV, §406(b), Dec. 20, 2006, 120 Stat. 2959, pr
 
 "(1)
 
-In general.—Not later than the date which is 12 months after the date of the enactment of this Act\[Dec. 20, 2006\], the Secretary of the Treasury shall issue guidance for the operation of a whistleblower program to be administered in the Internal Revenue Service by an office to be known as the 'Whistleblower Office' which—
+In general.—Not later than the date which is 12 months after the date of the enactment of this Act \[Dec. 20, 2006\], the Secretary of the Treasury shall issue guidance for the operation of a whistleblower program to be administered in the Internal Revenue Service by an office to be known as the 'Whistleblower Office' which—
 
 &emsp;"(A) shall at all times operate at the direction of the Commissioner of Internal Revenue and coordinate and consult with other divisions in the Internal Revenue Service as directed by the Commissioner of Internal Revenue,
 

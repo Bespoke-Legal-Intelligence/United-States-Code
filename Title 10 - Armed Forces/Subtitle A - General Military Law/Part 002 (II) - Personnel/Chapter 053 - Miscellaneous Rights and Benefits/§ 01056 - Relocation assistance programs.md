@@ -20,7 +20,7 @@ Types of Assistance.—(1) The Secretary of each military department, under regu
 
 (c)
 
-Military Relocation Assistance Programs.—(1) The Secretary shall provide for the establishment of military relocation assistance programs to provide the relocation assistance described in subsection (b). The Secretary shall establish such a program in each geographic area in which at least 500 members of the armed forces are assigned to or serving at a military installation. A member who is not stationed within a geographic area that contains such a program shall be given access to such a program. The Secretary shall ensure that persons on the staff of each program are trained in the techniques and delivery of professional relocation assistance.
+Military Relocation Assistance Programs.—(1) The Secretary shall provide for the establishment of military relocation assistance programs to provide the relocation assistancedescribed in subsection (b). The Secretary shall establish such a program in each geographic area in which at least 500 members of the armed forces are assigned to or serving at a military installation. A member who is not stationed within a geographic area that contains such a program shall be given access to such a program. The Secretary shall ensure that persons on the staff of each program are trained in the techniques and delivery of professional relocation assistance.
 
 (2) The Secretary shall ensure that information available through each military relocation assistance program shall be managed through a computerized information system that can interact with all other military relocation assistance programs of the military departments, including programs located outside the continental United States.
 
@@ -28,7 +28,7 @@ Military Relocation Assistance Programs.—(1) The Secretary shall provide for t
 
 (d)
 
-Director.—The Secretary of Defense shall establish the position of Director of Military Relocation Assistance Programs in the office of the Assistant Secretary of Defense (Force Management and Personnel). The Director shalloversee development and implementation of the military relocation assistance programs under this section.
+Director.—The Secretary of Defense shall establish the position of Director of Military Relocation Assistance Programs in the office of the Assistant Secretary of Defense (Force Management and Personnel). The Director shall oversee development and implementation of the military relocation assistance programs under this section.
 
 (e)
 
@@ -39,6 +39,8 @@ Regulations.—This section shall be administered under regulations prescribed b
 Inapplicability to Coast Guard.—This section does not apply to the Coast Guard.
 
 (Added Pub. L. 101–510, div. A, title XIV, §1481(c)(1), Nov. 5, 1990, 104 Stat. 1705; amended Pub. L. 104–106, div. A, title IX, §903(d), title X, §1062(a), Feb. 10, 1996, 110 Stat. 402, 443; Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 107–107, div. A, title X, §1048(a)(9), Dec. 28, 2001, 115 Stat. 1223.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -61,6 +63,8 @@ Annual Report.—Not later than March 1 each year, the Secretary of Defense, act
 &emsp;"(3) Information (shown by military installation) on the types of locations at which members of the armed forces assigned to duty at military installations live, including the number of members of the armed forces who live on a military installation and the number who do not live on a military installation.
 
 &emsp;"(4) Information on the effects of the relocation assistance programs established under this section on the quality of life of members of the armed forces and their families and on retention and productivity of members of the armed forces."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Implementation of Relocation Assistance Programs
 

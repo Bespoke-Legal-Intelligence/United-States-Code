@@ -8,7 +8,7 @@ The Congress finds and declares the following:
 
 &emsp;(2) The improved conservation and management of fish and wildlife, particularly nongame fish and wildlife, will assist in restoring and maintaining fish and wildlife and in assuring a productive and more esthetically pleasing environment for all citizens.
 
-&emsp;(3) Many citizens, particularly those residing in urban areas, have insufficient opportunity to participate in recreational and other programs designed to foster human interaction with fish and wildlife and thereby are unable to have a greater appreciation and awareness of the environment.
+&emsp;(3) Many citizens, particularly those residing in urban areas, have insufficient opportunityto participate in recreational and other programs designed to foster human interaction with fish and wildlife and thereby are unable to have a greater appreciation and awareness of the environment.
 
 &emsp;(4) Historically, fish and wildlife conservation programs have been focused on the more recreationally and commercially important species within any particular ecosystem. As a consequence such programs have been largely financed by hunting and fishing license revenues or excise taxes on certain hunting and fishing equipment. These traditional financing mechanisms are neither adequate nor fully appropriate to meet the conservation needs of nongame fish and wildlife.
 
@@ -23,6 +23,8 @@ It is the purpose of this chapter—
 &emsp;(2) to encourage all Federal departments and agencies to utilize their statutory and administrative authority, to the maximum extent practicable and consistent with each agency's statutory responsibilities, to conserve and to promote conservation of nongame fish and wildlife and their habitats, in furtherance of the provisions of this chapter.
 
 (Pub. L. 96–366, §2, Sept. 29, 1980, 94 Stat. 1322.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

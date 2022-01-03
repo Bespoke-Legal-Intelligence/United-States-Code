@@ -40,11 +40,13 @@ The Secretary, in carrying out the provisions of this section, shall establish r
 
 &emsp;(2) compliance with the nondiscrimination provisions of this chapter in accordance with section 3151 of this title;
 
-&emsp;(3) appropriate eligibility criteria to determine the order of priority of access of any person to any new programs under subsection (c) as may be authorized by law including but notnecessarily limited to (A) household income, duration of unemployment (not less than five weeks), and the number of people economically dependent upon such person; and (B) denial of access to any person refusing to accept or hold a job except for good cause, as determined by the Secretary of Labor, including refusal to accept or hold a job subject to reference under subsection (b) paragraph (2), in order to seek a reservoir project job under subsection (c); and
+&emsp;(3) appropriate eligibility criteria to determine the order of priority of access of any person to any new programs under subsection (c) as may be authorized by law including but not necessarily limited to (A) household income, duration of unemployment (not less than five weeks), and the number of people economically dependent upon such person; and (B) denial of access to any person refusing to accept or hold a job except for good cause, as determined by the Secretary of Labor, including refusal to accept or hold a job subject to reference under subsection (b) paragraph (2), in order to seek a reservoir project job under subsection (c); and
 
 &emsp;(4) such administrative appeal procedures as may be appropriate to review the initial determination of the abilities of persons willing, able, and seeking to work under paragraph (1) of this subsection and the employment need and eligibility under paragraph (3) of this subsection.
 
 (Pub. L. 95–523, title II, §206, Oct. 27, 1978, 92 Stat. 1902; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(12)(A), (f)(10)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–420, 2681–431; Pub. L. 113–128, title V, §512(m), July 22, 2014, 128 Stat. 1710.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -69,6 +71,8 @@ Subsec. (b)(1). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(12)(A)(i)(II)
 Subsec. (c)(1). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(10)(B)\], struck out "activities carried out under the Job Training Partnership Act or" before "title I of the Workforce Investment Act of 1998".
 
 Pub. L. 105–277, §101(f) \[title VIII, §405(d)(12)(A)(ii)\], substituted "activities carried out under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998" for "CETA".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

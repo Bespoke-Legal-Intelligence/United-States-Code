@@ -42,6 +42,8 @@ Oct. 20, 1951, ch. 524, §§1 (less 35 words before 1st proviso), 6 (as applicab
 
 In subsection (a), the words "consider, ascertain, adjust, determine, compromise" are omitted as covered by the word "settle", as defined in section 9801 of this title. 10:1861 (1st proviso) is omitted as unnecessary, since other applicable claims laws are restated in this title. 10:1861 (2d proviso) is omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1989</b>—Subsec. (c). Pub. L. 101–189 substituted "$100,000" for "$10,000".

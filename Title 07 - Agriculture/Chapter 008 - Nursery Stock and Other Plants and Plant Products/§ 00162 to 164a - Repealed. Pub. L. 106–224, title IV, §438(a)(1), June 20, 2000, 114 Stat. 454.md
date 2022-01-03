@@ -6,5 +6,5 @@ Section 163, acts Aug. 20, 1912, ch. 308, §10, 37 Stat. 318; Pub. L. 97–461, 
 
 Section 164, act Aug. 20, 1912, ch. 308, §10, 37 Stat. 318, set forth duty of United States attorneys to prosecute violations of this chapter.
 
-Section 164a, act Aug. 20, 1912, ch. 308, §10, as added May 1, 1928, ch. 462, 45 Stat. 468, authorized search and seizure of nursery stock and plant products by Department of Agriculture employees.
+Section 164a, act Aug. 20, 1912, ch. 308, §10, as added May 1, 1928, ch. 462, 45 Stat. 468, authorized search andseizure of nursery stock and plant products by Department of Agriculture employees.
 

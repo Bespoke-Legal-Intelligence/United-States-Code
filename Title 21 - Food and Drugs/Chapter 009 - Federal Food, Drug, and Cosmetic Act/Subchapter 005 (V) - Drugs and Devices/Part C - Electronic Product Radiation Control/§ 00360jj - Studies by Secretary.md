@@ -20,7 +20,7 @@ The Secretary shall conduct the following studies, and shall make a report or re
 
 (2) A study to determine the necessity for the development of standards for the use of nonmedical electronic products for commercial and industrial purposes; and
 
-(3) A study of the development of practicable procedures for the detection and measurementof electronic product radiation which may be emitted from electronic products manufactured or imported prior to the effective date of any applicable standard established pursuant to this part.
+(3) A study of the development of practicable procedures for the detection and measurement of electronic product radiation which may be emitted from electronic products manufactured or imported prior to the effective date of any applicable standard established pursuant to this part.
 
 #### (b) Participation of other Federal agencies
 

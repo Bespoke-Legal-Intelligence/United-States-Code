@@ -74,6 +74,8 @@ Definitions.—In this section:
 
 (Added Pub. L. 112–239, div. A, title X, §1040(a), Jan. 2, 2013, 126 Stat. 1928.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Construction
 
 Pub. L. 112–239, div. A, title X, §1040(d), Jan. 2, 2013, 126 Stat. 1931, provided that: "Nothing in section 188 of title 10, United States Code, as added by subsection (a), shall be construed to limit section 309 of the Homeland Security Act of 2002 (6 U.S.C. 189)."

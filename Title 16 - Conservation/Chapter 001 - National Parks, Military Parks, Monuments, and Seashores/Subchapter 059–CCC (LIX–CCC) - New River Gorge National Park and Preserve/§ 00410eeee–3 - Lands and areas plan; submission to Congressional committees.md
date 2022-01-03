@@ -12,9 +12,13 @@ Within two years from November 10, 1978, the Secretary shall submit, in writing,
 
 (Pub. L. 95–625, title XI, §1103, Nov. 10, 1978, 92 Stat. 3546.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 460m–17 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

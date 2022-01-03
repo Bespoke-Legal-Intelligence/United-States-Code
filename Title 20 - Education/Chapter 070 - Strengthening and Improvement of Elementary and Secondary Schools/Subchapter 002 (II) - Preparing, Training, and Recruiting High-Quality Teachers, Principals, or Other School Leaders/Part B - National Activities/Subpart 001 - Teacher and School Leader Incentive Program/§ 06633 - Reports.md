@@ -40,6 +40,8 @@ The Secretary shall provide to Congress an annual report on the implementation o
 
 (Pub. L. 89–10, title II, §2213, as added Pub. L. 114–95, title II, §2002, Dec. 10, 2015, 129 Stat. 1935.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior sections 6633 and 6634 were repealed by Pub. L. 114–95, §5, title II, §2002, Dec. 10, 2015, 129 Stat. 1806, 1913, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
@@ -47,6 +49,8 @@ Prior sections 6633 and 6634 were repealed by Pub. L. 114–95, §5, title II, �
 Section 6633, Pub. L. 89–10, title II, §2133, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1633, related to subgrant applications.
 
 Section 6634, Pub. L. 89–10, title II, §2134, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1633, related to use of funds.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

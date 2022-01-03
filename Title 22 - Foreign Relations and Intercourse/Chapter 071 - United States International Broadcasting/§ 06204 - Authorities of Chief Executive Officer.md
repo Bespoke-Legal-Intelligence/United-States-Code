@@ -22,7 +22,7 @@ The Chief Executive Officer shall have the following authorities:
 
 &emsp;(9) To submit to the President and the Congress an annual report which summarizes and evaluates activities under this chapter, the Radio Broadcasting to Cuba Act \[22 U.S.C. 1465 et seq.\], and the Television Broadcasting to Cuba Act \[22 U.S.C. 1465aa et seq.\]. Each annual report shall place special emphasis on the assessment described in paragraph (2).
 
-&emsp;(10) To the extent considered necessary to carry out the functions of the Chief Executive Officer, procure, rent, or lease supplies, services, and other property for journalism, media, production, and broadcasting, and related support services, notwithstanding any other provision of law relating to such acquisition, rental, or lease, and under the same terms and conditions as authorized under section 501(b) of the United States Information and Educational Exchange Act of 1948 (22 U.S.C.1461(b)), and for multiyear contracts and leases for periods of up to 20 years subject to the requirements of subsections (b) through (f) of section 3903 of title 41.
+&emsp;(10) To the extent considered necessary to carry out the functions of the Chief Executive Officer, procure, rent, or lease supplies, services, and other property for journalism, media, production, and broadcasting, and related support services, notwithstanding any other provision of law relating to such acquisition, rental, or lease, and under the same terms and conditions as authorized under section 501(b) of the United States Information and Educational Exchange Act of 1948 (22 U.S.C. 1461(b)), and for multiyear contracts and leases for periods of up to 20 years subject to the requirements of subsections (b) through (f) of section 3903 of title 41.
 
 &emsp;(11) To appoint such personnel for the Chief Executive Officer as the Chief Executive Officer may determine to be necessary, which shall not be subject to the provisions of title 5 governing appointments in the competitive service, and to fix their compensation in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates.
 
@@ -34,7 +34,7 @@ The Chief Executive Officer shall have the following authorities:
 
 &emsp;(15)(A) To procure personal services at rates not to exceed the daily equivalent of the rate provided for positions classified above grade GS–15 of the General Schedule under section 5108 of title 5.
 
-&emsp;(B) To allow those providing such services, while away from their homes or their regular places of business, travel expenses (including per diem in lieu of subsistence) as authorized by section 5703 of title 5 for persons in the Government service employed intermittently, while so employed.
+&emsp;(B) To allow those providing such services, while away from their homes or their regular places of business, travel expenses (includingper diem in lieu of subsistence) as authorized by section 5703 of title 5 for persons in the Government service employed intermittently, while so employed.
 
 &emsp;(16) To procure, pursuant to section 1535 of title 31 (commonly known as the "Economy Act"), such goods and services from other departments or agencies for the Chief Executive Officer and the International Broadcasting Bureau as the Chief Executive Officer determines are appropriate.
 
@@ -68,11 +68,17 @@ The Secretary of State and the Chief Executive Officer, in carrying out their fu
 
 #### (1) In general
 
-&emsp;The Chief Executive Officer may not award any grant under subsection (a) to RFE/RL, Inc., Radio Free Asia, the Middle East Broadcasting Networks, the Open Technology Fund, or any other grantee authorized under this chapter (collectively referred to as "Agency Grantee Networks") unless the incorporation documents of any such grantee require that the corporate leadership and Board of Directors of such grantee be selected in accordance with this chapter.
+&emsp;The Chief Executive Officer may not award any grant under subsection (a) to RFE/RL, Inc., Radio Free Asia, the Middle East Broadcasting Networks, the Open Technology Fund, or any other grantee authorized under this chapter (collectively referred to as "Agency Grantee Networks") unless the incorporationdocuments of any such grantee require that the corporate leadership and Board of Directors of such grantee be selected in accordance with this chapter.
 
 #### (2) Conflicts of interest
 
-&emsp;The Chief Executive Officer may not serve on any of the corporate boards of any grantee under subsection (a).
+#### (A) Chief Executive Officer
+
+&emsp;&emsp;The Chief Executive Officer may not serve on any of the corporate boards of any grantee under subsection (a).
+
+#### (B) Federal employees
+
+&emsp;&emsp;A full-time employee of a Federal agency may not serve on a corporate board of any grantee under subsection (a).
 
 #### (3) Qualifications of grantee board members
 

@@ -36,7 +36,7 @@ In carrying out the program under subsection (a), the Secretary may waive any of
 
 &emsp;&emsp;(A) the feasibility of consolidating covered facilities within a unified command to minimize risk;
 
-&emsp;&emsp;(B) opportunities to partner with industry for the production of biological select agentsand toxins and related services in lieu of maintaining such capabilities within the Department of the Army; and
+&emsp;&emsp;(B) opportunities to partner with industry for the production of biological select agents and toxins and related services in lieu of maintaining such capabilities within the Department of the Army; and
 
 &emsp;&emsp;(C) whether operations under the biological select agent and toxin production program should be transferred to another government or commercial laboratory that may be better suited to execute production for non-Department of Defense customers.
 
@@ -72,9 +72,13 @@ In this section:
 
 (Pub. L. 114–328, div. A, title II, §218, Dec. 23, 2016, 130 Stat. 2052.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2017, and not as part of Pub. L. 91–121, title IV, §409, Nov. 19, 1969, 83 Stat. 209, which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Congressional Defense Committees" Defined
 

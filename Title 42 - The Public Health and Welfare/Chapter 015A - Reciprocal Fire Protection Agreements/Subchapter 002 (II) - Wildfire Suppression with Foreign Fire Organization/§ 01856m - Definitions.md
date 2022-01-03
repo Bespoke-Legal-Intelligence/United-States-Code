@@ -36,9 +36,13 @@ In this subchapter:
 
 (Pub. L. 100–428, §2, as added Pub. L. 112–74, div. E, title IV, §411(2), Dec. 23, 2011, 125 Stat. 1039.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1856m, Pub. L. 100–428, §2, Sept. 9, 1988, 102 Stat. 1615, related to definitions, prior to repeal by Pub. L. 112–74, div. E, title IV, §411(2), Dec. 23, 2011, 125 Stat. 1039.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 1989 Amendment
 
@@ -46,5 +50,5 @@ Pub. L. 101–11, §1, Apr. 7, 1989, 103 Stat. 15, provided that: "This Act \[re
 
 #### Short Title
 
-Pub. L. 100–428, §1, Sept. 9, 1988, 102 Stat. 1615, as amended by Pub. L. 112–74, div. E, title IV, §411(1), Dec. 23, 2011, 125 Stat. 1039, provided that: "This Act \[enacting this subchapter\] may be cited as the 'Emergency Wildfire Suppression Act'."
+Pub. L. 100–428, §1, Sept. 9, 1988, 102 Stat. 1615, as amended by Pub. L. 112–74, div. E, title IV, §411(1), Dec.23, 2011, 125 Stat. 1039, provided that: "This Act \[enacting this subchapter\] may be cited as the 'Emergency Wildfire Suppression Act'."
 

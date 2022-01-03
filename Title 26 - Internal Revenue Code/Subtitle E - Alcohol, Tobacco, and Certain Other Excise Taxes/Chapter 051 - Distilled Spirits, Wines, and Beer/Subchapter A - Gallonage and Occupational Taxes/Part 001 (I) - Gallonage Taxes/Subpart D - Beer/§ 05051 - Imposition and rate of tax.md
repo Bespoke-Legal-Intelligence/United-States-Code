@@ -124,6 +124,8 @@ The production of any beer at any place in the United States shall be subject to
 
 <i>See 2020 Amendment note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 5051, act Aug. 16, 1954, ch. 736, 68A Stat. 611, as amended by acts Mar. 30, 1955, ch. 18, §3(a)(8), 69 Stat. 14; Mar. 29, 1956, ch. 115, §3(a)(8), 70 Stat. 66; Mar. 29, 1957, Pub. L. 85–12, §3(a)(6), 71 Stat. 9; June 30, 1958, Pub. L. 85–475, §3(a)(6), 72 Stat. 259, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
@@ -182,13 +184,15 @@ Subsec. (a)(2)(C). Pub. L. 101–508, §11201(c)(2), added subpar. (C).
 
 <b>1959</b>—Subsec. (a). Pub. L. 86–75 substituted "July 1, 1960" for "July 1, 1959".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2020 Amendment
 
 Pub. L. 116–260, div. EE, title I, §106(b)(5), Dec. 27, 2020, 134 Stat. 3042, provided that: "The amendments made by this subsection \[amending this section\] shall apply to beer removed after December 31, 2020."
 
 Pub. L. 116–260, div. EE, title I, §107(b)(2), Dec. 27, 2020, 134 Stat. 3047, provided that: "The amendment made by this subsection \[amending this section\] shall apply to beer removed after December 31, 2022."
 
-Amendment by section 110(a) of Pub. L. 116–260 applicable to beer, wine, and distilled spirits removed after Dec. 31, 2020, see section 110(d) of div. EE of Pub. L. 116–260, set out as a note under section 5001 of this title.
+Amendment by section 110(a) of Pub. L. 116–260 applicable to beer, wine, and distilled spirits removed afterDec. 31, 2020, see section 110(d) of div. EE of Pub. L. 116–260, set out as a note under section 5001 of this title.
 
 #### Effective Date of 2019 Amendment
 

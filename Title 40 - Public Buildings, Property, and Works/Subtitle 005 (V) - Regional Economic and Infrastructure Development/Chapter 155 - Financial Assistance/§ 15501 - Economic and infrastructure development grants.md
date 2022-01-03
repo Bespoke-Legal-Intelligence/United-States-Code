@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—A Commission may make grants to States and local governments, Indian tribes, and public and nonprofit organizations for projects, approved in accordance with section 15503—
+In General.—A Commission may make grants to States and local governments, Indian tribes, and public and nonprofit organizationsfor projects, approved in accordance with section 15503—
 
 &emsp;(1) to develop the transportation infrastructure of its region;
 
@@ -48,7 +48,7 @@ Special rule for regional projects.—A Commission may increase to 60 percent un
 
 &emsp;&emsp;(A) the project or activity involves 3 or more counties or more than one State; and
 
-&emsp;&emsp;(B) the Commission determines in accordance with section 15302(a) that the project oractivity will bring significant interstate or multicounty benefits to a region.
+&emsp;&emsp;(B) the Commission determines in accordance with section 15302(a) that the project or activity will bring significant interstate or multicounty benefits to a region.
 
 (e)
 

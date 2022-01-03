@@ -8,5 +8,5 @@ Notwithstanding any other provision of law, neither the International Convention
 
 #### Prior Provisions
 
-A prior section 8105, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 550, authorized Secretary to prescribe regulationsto carry out this part prior to repeal by Pub. L. 101–595, title VI, §603(7)(A), Nov. 16, 1990, 104 Stat. 2993.
+A prior section 8105, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 550, authorized Secretary to prescribe regulations to carry out this part prior to repeal by Pub. L. 101–595, title VI, §603(7)(A), Nov. 16, 1990, 104 Stat. 2993.
 

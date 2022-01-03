@@ -116,6 +116,8 @@
 
 (Added Pub. L. 96–513, title I, §103, Dec. 12, 1980, 94 Stat. 2842; amended Pub. L. 98–525, title IV, §414(a)(3), Oct. 19, 1984, 98 Stat. 2518; Pub. L. 99–145, title V, §511(a), Nov. 8, 1985, 99 Stat. 623; Pub. L. 99–433, title V, §531(a)(1), Oct. 1, 1986, 100 Stat. 1063; Pub. L. 102–190, div. A, title IV, §431, Dec. 5, 1991, 105 Stat. 1354; Pub. L. 103–337, div. A, title XVI, §1673(c)(3), Oct. 5, 1994, 108 Stat. 3014; Pub. L. 104–201, div. A, title IV, §403(a), (b), Sept. 23, 1996, 110 Stat. 2504, 2505; Pub. L. 107–314, div. A, title IV, §406, Dec. 2, 2002, 116 Stat. 2526; Pub. L. 108–375, div. A, title IV, §§404, 416(g), Oct. 28, 2004, 118 Stat. 1864, 1868; Pub. L. 109–364, div. A, title X, §1071(g)(1)(B), Oct. 17, 2006, 120 Stat. 2402; Pub. L. 110–181, div. A, title IV, §§404, 405, Jan. 28, 2008, 122 Stat. 88; Pub. L. 112–81, div. A, title V, §501, Dec. 31, 2011, 125 Stat. 1386; Pub. L. 114–328, div. A, title VIII, §866(b), title X, §1081(b)(1)(A)(iii), Dec. 23, 2016, 130 Stat. 2306, 2418.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Subsec. (b)(7). Pub. L. 114–328, §1081(b)(1)(A)(iii), substituted "(50 U.S.C. 3809(b)(2))" for "(50 U.S.C. App. 460(b)(2))".
@@ -138,7 +140,7 @@ Subsec. (a)(2). Pub. L. 110–181, §405, amended table generally, extensively r
 
 &emsp;"(B) on active duty under section 10211, 10302 through 10305, or 12402 of this title or under section 708 of title 32;
 
-&emsp;"(C) on active duty under section 12301(d) of this title in connection with organizing, administering,recruiting, instructing, or training the reserve components;
+&emsp;"(C) on active duty under section 12301(d) of this title in connection with organizing, administering, recruiting, instructing, or training the reserve components;
 
 &emsp;"(D) on active duty to pursue special work;
 
@@ -172,6 +174,8 @@ Subsec. (b)(1)(E). Pub. L. 103–337, §1671(c)(3)(C), substituted "12304" for "
 
 Subsec. (b)(1)(F). Pub. L. 98–525, §414(a)(3)(B)–(D), added subpar. (F).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2006 Amendment
 
 Pub. L. 109–364, div. A, title X, §1071(g), Oct. 17, 2006, 120 Stat. 2402, provided that the amendment made by section 1071(g)(1)(B) is effective as of Oct. 28, 2004, and as if included in Pub. L. 108–375 as enacted.
@@ -191,6 +195,10 @@ Pub. L. 99–145, title V, §511(b), Nov. 8, 1985, 99 Stat. 623, provided that: 
 #### Effective Date
 
 Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of this title.
+
+#### Temporary Exemption From End Strength Grade Restrictions for the Space Force
+
+This section not to apply to the Space Force until Jan. 1, 2023, see section 528(a) of Pub. L. 117–81, set out as a note under section 517 of this title.
 
 #### Temporary Variation in DOPMA Authorized End Strength Limitations for Active Duty Air Force and Navy Officers in Certain Grades
 
@@ -216,7 +224,7 @@ Pub. L. 100–456, div. A, title IV, §403, Sept. 29, 1988, 102 Stat. 1963, prov
 
 #### Ceilings on Commissioned Officers on Active Duty
 
-Pub. L. 95–79, title VIII, §811(a), July 30, 1977, 91 Stat. 335, as amended by Pub. L. 96–107, title VIII, §817, Nov. 9, 1979, 93 Stat. 818; Pub. L. 96–342, title X, §1003, Sept. 8, 1980, 94 Stat. 1120; Pub. L. 97–86, title VI, §602, Dec. 1, 1981, 95 Stat. 1110, which provided that after Oct. 1,1981, the total number of commissioned officers on active duty in the Army, Air Force, and Marine Corps above the grade of colonel, and on active duty in the Navy above the grade of captain, could not exceed 1,073, and that in time of war, or of national emergency declared by Congress, the President could suspend the operation of this provision, was repealed and restated in section 526 of this title by Pub. L. 100–370, §1(b)(1)(B), (4).
+Pub. L. 95–79, title VIII, §811(a), July 30, 1977, 91 Stat. 335, as amended by Pub. L. 96–107, title VIII, §817, Nov. 9, 1979, 93 Stat. 818; Pub. L. 96–342, title X, §1003, Sept. 8, 1980, 94 Stat. 1120; Pub. L. 97–86, title VI, §602, Dec. 1, 1981, 95 Stat. 1110, which provided that after Oct. 1, 1981, the total number of commissioned officers on active duty in the Army, Air Force, and Marine Corps above the grade of colonel, and on active duty in the Navy above the grade of captain, could not exceed 1,073, and that in time of war, or of national emergency declared by Congress, the President could suspend the operation of this provision, was repealed and restated in section 526 of this title by Pub. L. 100–370, §1(b)(1)(B), (4).
 
 #### Transition Provisions Under Defense Officer Personnel Management Act
 

@@ -66,5 +66,5 @@ Pub. L. 97–164, title IV, §403, Apr. 2, 1982, 96 Stat. 57, provided for trans
 
 #### Congressional Statement Regarding Appointment of Judges
 
-For Congressional suggestion that the President select nominees for judgeships on the Claims Court \[nowCourt of Federal Claims\] and the Court of Appeals for the Federal Circuit from a broad range of qualified individuals, see section 168 of Pub. L. 97–164, set out as a note under section 44 of this title.
+For Congressional suggestion that the President select nominees for judgeships on the Claims Court \[now Court of Federal Claims\] and the Court of Appeals for the Federal Circuit from a broad range of qualified individuals, see section 168 of Pub. L. 97–164, set out as a note under section 44 of this title.
 

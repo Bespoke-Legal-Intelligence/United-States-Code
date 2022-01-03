@@ -4,13 +4,17 @@ There is authorized to be appropriated to carry out this subchapter $2,360,000,0
 
 (Pub. L. 97–35, title VI, §658B, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236; amended Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 104–193, title VI, §603(a), Aug. 22, 1996, 110 Stat. 2279; Pub. L. 113–186, §3, Nov. 19, 2014, 128 Stat. 1971.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>2014</b>—Pub. L. 113–186 substituted "subchapter $2,360,000,000 for fiscal year 2015, $2,478,000,000 for fiscal year 2016, $2,539,950,000 for fiscal year 2017, $2,603,448,750 for fiscal year 2018, $2,668,534,969 for fiscal year 2019, and$2,748,591,018 for fiscal year 2020" for "subchapter $1,000,000,000 for each of the fiscal years 1996 through 2002".
+<b>2014</b>—Pub. L. 113–186 substituted "subchapter $2,360,000,000 for fiscal year 2015, $2,478,000,000 for fiscal year 2016, $2,539,950,000 for fiscal year 2017, $2,603,448,750 for fiscal year 2018, $2,668,534,969 for fiscal year 2019, and $2,748,591,018 for fiscal year 2020" for "subchapter $1,000,000,000 for each of the fiscal years 1996 through 2002".
 
 <b>1996</b>—Pub. L. 104–193 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: "There are authorized to be appropriated to carry out this subchapter, $750,000,000 for fiscal year 1991, $825,000,000 for fiscal year 1992, $925,000,000 for fiscal year 1993, and such sums as may be necessary for each of the fiscal years 1994 and 1995."
 
 <b>1992</b>—Pub. L. 102–401 and Pub. L. 102–586 made identical technical corrections to directory language of Pub. L. 101–508, §5082(2), which added this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 
@@ -23,6 +27,108 @@ In General.—Except as provided in subsection (b), this title \[see Short title
 "(b)
 
 Exception.—The amendment made by section 603(a) \[amending this section\] shall take effect on the date of enactment of this Act \[Aug. 22, 1996\]."
+
+#### Child Care Stabilization
+
+Pub. L. 117–2, title II, §2202, Mar. 11, 2021, 135 Stat. 31, provided that:
+
+"(a)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+COVID–19 public health emergency.—The term 'COVID–19 public health emergency' means the public health emergency declared by the Secretary of Health and Human Services under section 319 of the Public Health Service Act (42 U.S.C. 247d) on January 31, 2020, with respect to COVID–19, including any renewal of the declaration.
+
+&emsp;"(2)
+
+Eligible child care provider.—The term 'eligible child care provider' means—
+
+&emsp;&emsp;"(A) an eligible child care provider as defined in section 658P of the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858n); or
+
+&emsp;&emsp;"(B) a child care provider that is licensed, regulated, or registered in the State, territory, or Indian Tribe on the date of enactment of this Act \[Mar. 11, 2021\] and meets applicable State and local health and safety requirements.
+
+"(b)
+
+Child Care Stabilization Funding.—In addition to amounts otherwise available, there is appropriated for fiscal year 2021, out of any amounts in the Treasury not otherwise appropriated, $23,975,000,000, to remain available through September 30, 2021, for grants under this section in accordance with the Child Care and Development Block Grant Act of 1990 \[42 U.S.C. 9857 et seq.\].
+
+"(c)
+
+Grants.—From the amounts appropriated to carry out this section and under the authority of section 658O of the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858m) and this section, the Secretary shall award to each lead agency a child care stabilization grant, without regard to the requirements in subparagraphs (C) and (E) of section 658E(c)(3), and in section 658G, of the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858c(c)(3), 9858e). Such grant shall be allotted in accordance with section 658O of the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858m).
+
+"(d)
+
+State Reservations and Subgrants.—
+
+&emsp;"(1)
+
+Reservation.—A lead agency for a State that receives a child care stabilization grant pursuant to subsection (c) shall reserve not more than 10 percent of such grant funds to administer subgrants, provide technical assistance and support for applying for and accessing the subgrant opportunity, publicize the availability of the subgrants, carry out activities to increase the supply of child care, and provide technical assistance to help child care providers implement policies as described in paragraph (2)(D)(i).
+
+&emsp;"(2)
+
+Subgrants to qualified child care providers.—
+
+&emsp;&emsp;"(A)
+
+In general.—The lead agency shall use the remainder of the grant funds awarded pursuant to subsection (c) to make subgrants to qualified child care providers described in subparagraph (B), regardless of such a provider's previous receipt of other Federal assistance, to support the stability of the child care sector during and after the COVID–19 public health emergency.
+
+&emsp;&emsp;"(B)
+
+Qualified child care provider.—To be qualified to receive a subgrant under this paragraph, a provider shall be an eligible child care provider that on the date of submission of an application for the subgrant, was either—
+
+&emsp;&emsp;&emsp;"(i) open and available to provide child care services; or
+
+&emsp;&emsp;&emsp;"(ii) closed due to public health, financial hardship, or other reasons relating to the COVID–19 public health emergency.
+
+&emsp;&emsp;"(C)
+
+Subgrant amount.—The amount of such a subgrant to a qualified child care provider shall be based on the provider's stated current operating expenses, including costs associated with providing or preparing to provide child care services during the COVID–19 public health emergency, and to the extent practicable, cover sufficient operating expenses to ensure continuous operations for the intended period of the subgrant.
+
+&emsp;&emsp;"(D)
+
+Application.—The lead agency shall—
+
+&emsp;&emsp;&emsp;"(i) make available on the lead agency's website an application for qualified child care providers that includes certifications that, for the duration of the subgrant—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the provider applying will, when open and available to provide child care services, implement policies in line with guidance from the corresponding State, Tribal, and local authorities, and in accordance with State, Tribal, and local orders, and, to the greatest extent possible, implement policies in line with guidance from the Centers for Disease Control and Prevention;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) for each employee, the provider will pay not less than the full compensation, including any benefits, that was provided to the employee as of the date of submission of the application for the subgrant (referred to in this subclause as 'full compensation'), and will not take any action that reduces the weekly amount of the employee's compensation below the weekly amount of full compensation, or that reduces the employee's rate of compensation below the rate of full compensation, including the involuntary furloughing of any employee employed on the date of submission of the application for the subgrant; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) the provider will provide relief from copayments and tuition payments for the families enrolled in the provider's program, to the extent possible, and prioritize such relief for families struggling to make either type of payment; and
+
+&emsp;&emsp;&emsp;"(ii) accept and process applications submitted under this subparagraph on a rolling basis, and provide subgrant funds in advance of provider expenditures, except as provided in subsection (e)(2).
+
+&emsp;&emsp;"(E)
+
+Obligation.—The lead agency shall notify the Secretary if it is unable to obligate at least 50 percent of the funds received pursuant to subsection (c) that are available for subgrants described in this paragraph within 9 months of the date of enactment of this Act \[Mar. 11, 2021\].
+
+"(e)
+
+Uses of Funds.—
+
+&emsp;"(1)
+
+In general.—A qualified child care provider that receives funds through such a subgrant shall use the funds for at least one of the following:
+
+&emsp;&emsp;"(A) Personnel costs, including payroll and salaries or similar compensation for an employee (including any sole proprietor or independent contractor), employee benefits, premium pay, or costs for employee recruitment and retention.
+
+&emsp;&emsp;"(B) Rent (including rent under a lease agreement) or payment on any mortgage obligation, utilities, facility maintenance or improvements, or insurance.
+
+&emsp;&emsp;"(C) Personal protective equipment, cleaning and sanitization supplies and services, or training and professional development related to health and safety practices.
+
+&emsp;&emsp;"(D) Purchases of or updates to equipment and supplies to respond to the COVID–19 public health emergency.
+
+&emsp;&emsp;"(E) Goods and services necessary to maintain or resume child care services.
+
+&emsp;&emsp;"(F) Mental health supports for children and employees.
+
+&emsp;"(2)
+
+Reimbursement.—The qualified child care provider may use the subgrant funds to reimburse the provider for sums obligated or expended before the date of enactment of this Act for the cost of a good or service described in paragraph (1) to respond to the COVID–19 public health emergency.
+
+"(f)
+
+Supplement Not Supplant.—Amounts made available to carry out this section shall be used to supplement and not supplant other Federal, State, and local public funds expended to provide child care services for eligible individuals."
 
 #### Small Business Child Care Grant Program
 
@@ -142,7 +248,7 @@ year study.—
 
 &emsp;&emsp;"(A)
 
-In general.—Not later than 2 years after the date on which the Secretary first awards grantsunder this section, the Secretary shall conduct a study to determine—
+In general.—Not later than 2 years after the date on which the Secretary first awards grants under this section, the Secretary shall conduct a study to determine—
 
 &emsp;&emsp;&emsp;"(i) the capacity of covered entities to meet the child care needs of communities within States;
 

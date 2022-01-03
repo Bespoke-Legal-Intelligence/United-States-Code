@@ -6,7 +6,7 @@
 
 &emsp;(2) when the Coast Guard is operating as a service in the Navy, any vessel of the Coast Guard, manned by the Coast Guard, or chartered on bareboat charter to the Coast Guard.
 
-(b) In this chapter "settle" means consider, ascertain, adjust, determine, and dispose of a claim, whether by full or partial allowance or by disallowance.
+(b) In this chapter "settle" means consider, ascertain, adjust, determine, and dispose of aclaim, whether by full or partial allowance or by disallowance.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 472, §7621; renumbered §8821, Pub. L. 115–232, div. A, title VIII, §807(d)(9), Aug. 13, 2018, 132 Stat. 1837.)
 
@@ -28,9 +28,13 @@ In subsection (a) the words "vessel in the naval service" are substituted for th
 
 Subsection (b) is inserted for clarity, and is based on the source laws for this revised chapter.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7621 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

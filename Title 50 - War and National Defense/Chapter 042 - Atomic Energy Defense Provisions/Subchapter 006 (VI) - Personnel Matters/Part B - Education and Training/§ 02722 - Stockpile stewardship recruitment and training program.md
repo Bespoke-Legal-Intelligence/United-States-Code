@@ -14,7 +14,9 @@ As part of the recruitment and training program, the directors of the national s
 
 As part of the training and recruitment program, the Secretary, in coordination with the directors of the national security laboratories, shall establish for the laboratories a retiree corps of retired scientists who have expertise in research and development of nuclear weapons. The directors may employ the retired scientists on a part-time basis to provide appropriate assistance on nuclear weapons issues, to contribute relevant information to be archived, and to help to provide training to other scientists.
 
-(Pub. L. 107–314, div. D, title XLVI, §4622, formerly Pub. L. 103–337, div. C, title XXXI, §3131,Oct. 5, 1994, 108 Stat. 3085; renumbered Pub. L. 107–314, div. D, title XLVI, §4622, and amended Pub. L. 108–136, div. C, title XXXI, §3141(i)(9), Nov. 24, 2003, 117 Stat. 1778; Pub. L. 112–239, div. C, title XXXI, §3131(r), Jan. 2, 2013, 126 Stat. 2184; Pub. L. 113–66, div. C, title XXXI, §3146(g)(7), Dec. 26, 2013, 127 Stat. 1080.)
+(Pub. L. 107–314, div. D, title XLVI, §4622, formerly Pub. L. 103–337, div. C, title XXXI, §3131, Oct. 5, 1994, 108 Stat. 3085; renumbered Pub. L. 107–314, div. D, title XLVI, §4622, and amended Pub. L. 108–136, div. C, title XXXI, §3141(i)(9), Nov. 24, 2003, 117 Stat. 1778; Pub. L. 112–239, div. C, title XXXI, §3131(r), Jan. 2, 2013, 126 Stat. 2184; Pub. L. 113–66, div. C, title XXXI, §3146(g)(7), Dec. 26, 2013, 127 Stat. 1080.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

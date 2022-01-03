@@ -2,7 +2,7 @@
 
 #### (a) Requirement that sex offenders provide certain Internet related information to sex offender registries
 
-The Attorney General, using the authority provided in section 114(a)(7) <sup>1</sup> of the Sex Offender Registration and Notification Act \[34 U.S.C. 20914(a)(7)\], shall require that each sex offender provide to the sex offender registry those Internet identifiers the sex offender uses or will use of any type that the Attorney General determines to be appropriate under that Act \[34 U.S.C. 20901 et seq.\]. These records of Internet identifiers shall be subject to the Privacy Act (5 U.S.C. 552a) to the same extent as the other records in the National Sex Offender Registry.
+The Attorney General, using the authority provided in section 114(a)(7) <sup>1</sup> of the Sex Offender Registration and Notification Act \[34 U.S.C. 20914(a)(7)\], shall require that each sex offenderprovide to the sex offender registry those Internet identifiers the sex offender uses or will use of any type that the Attorney General determines to be appropriate under that Act \[34 U.S.C. 20901 et seq.\]. These records of Internet identifiers shall be subject to the Privacy Act (5 U.S.C. 552a) to the same extent as the other records in the National Sex Offender Registry.
 
 #### (b) Timeliness of reporting of information
 
@@ -14,7 +14,7 @@ The Attorney General, using the authority provided in section 118(b)(4) of the S
 
 #### (d) Notice to sex offenders of new requirements
 
-The Attorney General shall ensure that procedures are in place to notify each sex offender of changes in requirements that apply to that sexoffender as a result of the implementation of this section.
+The Attorney General shall ensure that procedures are in place to notify each sex offender of changes in requirements that apply to that sex offender as a result of the implementation of this section.
 
 #### (e) Definitions
 

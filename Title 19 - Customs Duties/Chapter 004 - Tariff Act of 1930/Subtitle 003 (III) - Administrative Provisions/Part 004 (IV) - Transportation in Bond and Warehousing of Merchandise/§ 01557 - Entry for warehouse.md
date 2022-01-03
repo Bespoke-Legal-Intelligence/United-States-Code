@@ -24,11 +24,13 @@ Merchandise may be withdrawn for consumption without the payment of the duty the
 
 (June 17, 1930, ch. 497, title IV, §557, 46 Stat. 744; June 25, 1938, ch. 679, §§2, 22(a), 23(a), 52 Stat. 1077, 1087, 1088; Aug. 8, 1953, ch. 397, §21(a), 67 Stat. 519; June 30, 1955, ch. 258, §2(a) (4), 69 Stat. 242; Pub. L. 91–271, title III, §301(t), June 2, 1970, 84 Stat. 290; Pub. L. 91–685, §1, Jan. 12, 1971, 84 Stat. 2069; Pub. L. 95–410, title I, §108(a), (b)(1), Oct. 3, 1978, 92 Stat. 892; Pub. L. 97–446, title II, §201(f), Jan. 12, 1983, 96 Stat. 2350; Pub. L. 103–182, title VI, §665, Dec. 8, 1993, 107 Stat. 2215; Pub. L. 106–36, title II, §2409, June 25, 1999, 113 Stat. 171; Pub. L. 109–280, title XIV, §1635(c), Aug. 17, 2006, 120 Stat. 1170.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §557, 42 Stat. 977. That section was superseded by section 557 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-Prior provisions dealing with the subject matter of this section were contained in the following statutes,all of which were repealed by act Sept. 21, 1922, ch. 356, title IV, §§642, 643, 42 Stat. 989:
+Prior provisions dealing with the subject matter of this section were contained in the following statutes, all of which were repealed by act Sept. 21, 1922, ch. 356, title IV, §§642, 643, 42 Stat. 989:
 
 Act Oct. 3, 1913, ch. 16, §III, S, 38 Stat. 189, reenacting the provisions of Customs Administrative Act of June 10, 1890, ch. 407, §20, 26 Stat. 140, as amended by act Oct. 1, 1890, ch. 1244, §54, 26 Stat. 624, and act Dec. 15, 1902, ch. 1, 32 Stat. 753, and as reenacted by Payne-Aldrich Tariff Act, Aug. 5, 1909, ch. 6, §28, 36 Stat. 101, and authorizing the withdrawal for consumption of merchandise deposited in any public or private bonded warehouse within three years from date of importation, on payment of duties and charges to which it might be subject at the time of such withdrawal;
 
@@ -42,7 +44,7 @@ R.S. §2967, which provided that merchandise imported into the port of Louisvill
 
 <b>2006</b>—Subsec. (a)(1). Pub. L. 109–280, §1635(c)(1)(A), inserted ", or such longer period of time as the Bureau of Customs and Border Protection may at its discretion permit upon proper request being filed and good cause shown" after "date of importation" in second sentence of introductory provisions.
 
-Subsec. (a)(1)(A). Pub. L. 109–280, §1635(c)(1)(B), inserted "or such longer period of time as the Bureau of Customs and Border Protection may at its discretion permit upon proper request being filed and good cause shown" after "date of importation".
+Subsec. (a)(1)(A). Pub. L. 109–280, §1635(c)(1)(B), inserted "or such longer period of time as the Bureau ofCustoms and Border Protection may at its discretion permit upon proper request being filed and good cause shown" after "date of importation".
 
 Subsec. (a)(2). Pub. L. 109–280, §1635(c)(2), inserted ", or such longer period of time as the Bureau of Customs and Border Protection may at its discretion permit upon proper request being filed and good cause shown," after "date of importation".
 
@@ -68,13 +70,15 @@ Subsec. (d). Pub. L. 95–410, §108(a), added subsec. (d).
 
 <b>1938</b>—Act June 25, 1938, amended section generally, and among other changes, inserted "Wake Island, Midway Islands, Kingman Reef" before "or the island of Guam," and struck out "(or ten months in the case of grain)" wherever appearing.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2006 Amendment
 
 Amendment by Pub. L. 109–280 applicable with respect to goods entered, or withdrawn from warehouse for consumption, on or after the 15th day after Aug. 17, 2006, see section 1641 of Pub. L. 109–280, set out as a note under section 58c of this title.
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 97–446 applicable with respect to merchandise entered on and after 30th day after Jan.12, 1983, see section 201(g) of Pub. L. 97–446, set out as a note under section 1484 of this title.
+Amendment by Pub. L. 97–446 applicable with respect to merchandise entered on and after 30th day after Jan. 12, 1983, see section 201(g) of Pub. L. 97–446, set out as a note under section 1484 of this title.
 
 #### Effective Date of 1978 Amendment
 
@@ -106,15 +110,17 @@ Act June 25, 1938, ch. 679, §23(b), 52 Stat. 1088, provided that: "The amendmen
 
 Savings provision of act Aug. 8, 1953, which amended subsec. (b) of this section, see note set out under section 1304 of this title.
 
+#### Appropriations
+
+Act June 26, 1934, ch. 756, §2, 48 Stat. 1225, which was classified to section 725a of former Title 31, Money and Finance, repealed the permanent appropriation under the title "Debentures or drawbacks, bounties, or allowances (Customs) (2x321)" effective July 1, 1935, and provided that such portions of any Acts as make permanent appropriations to be expended under such account are amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as now provided by the laws providing such permanent appropriations.
+
+#### <b>Executive Documents</b>
+
 #### Extension of Three-Year Period
 
 For extension of three year period prescribed in this section, see Proc. No. 2948, Oct. 12, 1951, 16 F.R. 10589, 65 Stat. c41, set out as a note under section 1318 of this title.
 
 Proc. No. 2599, Nov. 6, 1943, 8 F.R. 15359, 57 Stat. 758, as amended by Proc. No. 2712, Dec. 4, 1946, 11 F.R. 14133, 61 Stat. 1047, superseded by Proc. No. 2948, Oct. 12, 1951, 16 F.R. 10589, 65 Stat. c41.
-
-#### Appropriations
-
-Act June 26, 1934, ch. 756, §2, 48 Stat. 1225, which was classified to section 725a of former Title 31, Money and Finance, repealed the permanent appropriation under the title "Debentures or drawbacks, bounties, or allowances (Customs) (2x321)" effective July 1, 1935, and provided that such portions of any Acts as make permanent appropriations to be expended under such account are amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as now provided by the laws providing such permanent appropriations.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

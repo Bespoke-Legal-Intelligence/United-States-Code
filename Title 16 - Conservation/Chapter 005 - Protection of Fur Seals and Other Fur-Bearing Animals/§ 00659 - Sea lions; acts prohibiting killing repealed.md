@@ -4,15 +4,19 @@ All Acts and parts of Acts making it unlawful to kill sea lions, as game animals
 
 (June 16, 1934, ch. 556, 48 Stat. 976; 1939 Reorg. Plan No. II, §4(e), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 92–522, title I, §113(b), Oct. 21, 1972, 86 Stat. 1042.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1972</b>—Pub. L. 92–522 struck out proviso prohibiting killing of sea lions in waters of Alaska except under rules and regulations prescribed by Secretary of the Interior.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
-Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, transferred Bureau of Fisheries in Department of Commerce, and its functions and functions of Secretary of Commerce relating to protection of fur seals and other fur-bearing animals and supervision ofPribilof Islands and care of natives thereof, to Department of the Interior.
+Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, transferred Bureau of Fisheries in Department of Commerce, and its functions and functions of Secretary of Commerce relating to protection of fur seals and other fur-bearing animals and supervision of Pribilof Islands and care of natives thereof, to Department of the Interior.
 
 #### Admission of Alaska as State
 

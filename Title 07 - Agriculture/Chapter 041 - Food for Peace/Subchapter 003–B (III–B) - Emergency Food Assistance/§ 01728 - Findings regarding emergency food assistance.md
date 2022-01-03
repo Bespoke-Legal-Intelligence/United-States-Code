@@ -4,7 +4,7 @@ The Congress finds that—
 
 &emsp;(1) acute food crises continue to cause loss of life, severe malnutrition, and general human suffering in many areas of the Third World, especially in sub-Saharan Africa;
 
-&emsp;(2) the United States continues to respond to these needs, as a reflection of its humanitarian concern for the people of the ThirdWorld, with emergency food and other necessary assistance to alleviate the suffering of those affected by severe food shortages;
+&emsp;(2) the United States continues to respond to these needs, as a reflection of its humanitarian concern for the people of the Third World, with emergency food and other necessary assistance to alleviate the suffering of those affected by severe food shortages;
 
 &emsp;(3) the timely provision of food and other necessary assistance to those in need is of paramount importance if the worst effects of such food crises are to be mitigated; and
 
@@ -12,9 +12,13 @@ The Congress finds that—
 
 (Pub. L. 98–473, title III, §302, Oct. 12, 1984, 98 Stat. 2194.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the President's Emergency Food Assistance Act of 1984, and not as part of the Food for Peace Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

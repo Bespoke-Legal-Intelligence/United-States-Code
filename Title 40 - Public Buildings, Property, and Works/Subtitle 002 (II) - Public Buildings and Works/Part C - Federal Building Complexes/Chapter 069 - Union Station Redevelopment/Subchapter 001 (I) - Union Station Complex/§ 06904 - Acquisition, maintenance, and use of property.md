@@ -6,7 +6,7 @@ Acquisition.—The Secretary of Transportation may acquire for the Federal Gover
 
 (b)
 
-Maintenance and Use.—The Secretary may maintain, use, operate, manage, and lease, either directly, by contract, or through development agreements, any property interest the Secretary holds or acquires for the Government under this subchapter in the manner and subject to the terms, conditions, covenants, and easements that the Secretary considers necessary or desirable to carry out the purposes of this subchapter.
+Maintenance and Use.—The Secretary may maintain, use, operate, manage, and lease, either directly, by contract, or through development agreements, any property interest the Secretary holds or acquires for the Governmentunder this subchapter in the manner and subject to the terms, conditions, covenants, and easements that the Secretary considers necessary or desirable to carry out the purposes of this subchapter.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1201.)
 

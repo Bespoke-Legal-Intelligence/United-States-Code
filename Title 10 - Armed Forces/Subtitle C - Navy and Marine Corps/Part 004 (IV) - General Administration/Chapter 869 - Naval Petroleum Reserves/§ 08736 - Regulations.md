@@ -22,11 +22,15 @@ June 4, 1920, ch. 228 (9th par. of amended 3d and 4th provisos), 41 Stat. 813; J
 
 In subsection (a) the words "necessary rules and" are omitted as surplusage, and the words "to take any proper action" are substituted for the words "to do any and all things necessary or proper" for brevity.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7436 of this title as this section.
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–258 struck out "of the Navy, subject to approval by the President," after "Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

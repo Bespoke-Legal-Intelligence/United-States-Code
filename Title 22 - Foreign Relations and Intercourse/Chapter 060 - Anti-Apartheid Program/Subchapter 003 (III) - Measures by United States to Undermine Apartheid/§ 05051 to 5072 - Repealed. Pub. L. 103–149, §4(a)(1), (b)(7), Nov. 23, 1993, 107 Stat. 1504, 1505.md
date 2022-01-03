@@ -10,7 +10,7 @@ Section 5054, Pub. L. 99–440, title III, §304, Oct. 2, 1986, 100 Stat. 1099, 
 
 Section 5055, Pub. L. 99–440, title III, §305, Oct. 2, 1986, 100 Stat. 1100, prohibited loans to Government of South Africa.
 
-Section 5056, Pub. L. 99–440, title III, §306, Oct. 2, 1986, 100 Stat. 1100; Pub. L. 99–631, §1(a)(13), Nov. 7, 1986, 100Stat. 3516, prohibited air transportation with South Africa.
+Section 5056, Pub. L. 99–440, title III, §306, Oct. 2, 1986, 100 Stat. 1100; Pub. L. 99–631, §1(a)(13), Nov. 7, 1986, 100 Stat. 3516, prohibited air transportation with South Africa.
 
 Section 5056a, Pub. L. 99–500, §101(l), Oct. 18, 1986, 100 Stat. 1783–308, and Pub. L. 99–591, §101(l), Oct. 30, 1986, 100 Stat. 3341–308; Pub. L. 100–202, §106, Dec. 22, 1987, 101 Stat. 1329–433, related to prohibition on landing rights of South African aircraft.
 
@@ -38,7 +38,7 @@ Section 5067, Pub. L. 99–440, title III, §317, Oct. 2, 1986, 100 Stat. 1104; 
 
 Section 5068, Pub. L. 99–440, title III, §318, Oct. 2, 1986, 100 Stat. 1105; Pub. L. 99–631, §1(a)(19), Nov. 7, 1986, 100 Stat. 3517, provided notification procedures for proposed export of items on United States Munitions List.
 
-Section 5069, Pub. L. 99–440, title III, §319, Oct. 2, 1986, 100 Stat. 1105; Pub. L. 99–631, §1(a)(20), Nov. 7, 1986, 100 Stat. 3517, prohibited importation of South African agricultural products and food.
+Section 5069, Pub. L. 99–440, title III, §319, Oct. 2, 1986, 100 Stat. 1105; Pub. L. 99–631, §1(a)(20), Nov. 7, 1986, 100Stat. 3517, prohibited importation of South African agricultural products and food.
 
 Section 5070, Pub. L. 99–440, title III, §320, Oct. 2, 1986, 100 Stat. 1105; Pub. L. 99–631, §1(a)(21), Nov. 7, 1986, 100 Stat. 3517, prohibited importation of iron and steel from South Africa.
 

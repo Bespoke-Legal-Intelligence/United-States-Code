@@ -96,9 +96,13 @@ For purposes of this section—
 
 (Added Pub. L. 97–34, title II, §237(a), Aug. 13, 1981, 95 Stat. 252; amended Pub. L. 99–514, title VIII, §802(a), Oct. 22, 1986, 100 Stat. 2348.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1986</b>—Pub. L. 99–514 amended section generally, substituting provisions relating to election by eligible small business to use simplified dollar-value method of pricing inventories for purposes of LIFO method for provisions relating to election by eligible small business which uses dollar-value method of pricing inventories under method provided by section 472(b) of this title to use one inventory pool for any trade or business of such eligible small business.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

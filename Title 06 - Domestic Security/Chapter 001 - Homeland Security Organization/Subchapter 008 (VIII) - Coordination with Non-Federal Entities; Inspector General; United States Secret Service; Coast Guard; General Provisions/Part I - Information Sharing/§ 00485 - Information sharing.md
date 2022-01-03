@@ -188,7 +188,7 @@ Not later than one year after December 17, 2004, the President shall, with the a
 
 &emsp;&emsp;&emsp;(iv) address and facilitate information sharing between and among departments and agencies of the intelligence community, the Department of Defense, the homeland security community and the law enforcement community;
 
-&emsp;&emsp;&emsp;(v) address and facilitate information sharing between Federal departments and agencies and State, tribal, and local governments;
+&emsp;&emsp;&emsp;(v) address and facilitate information sharing between Federal departments andagencies and State, tribal, and local governments;
 
 &emsp;&emsp;&emsp;(vi) address and facilitate, as appropriate, information sharing between Federal departments and agencies and the private sector;
 
@@ -254,7 +254,7 @@ Not later than one year after December 17, 2004, the President shall, with the a
 
 &emsp;&emsp;(D) actions taken to ensure that procurement of and investments in systems and technology are consistent with the implementation plan for the ISE;
 
-&emsp;&emsp;(E) the extent to which all terrorism watch lists are available for combined searching in real time through the ISE and whether there are consistent standards for placing individuals on, and removing individuals from, the watch lists, including theavailability of processes for correcting errors;
+&emsp;&emsp;(E) the extent to which all terrorism watch lists are available for combined searching in real time through the ISE and whether there are consistent standards for placing individuals on, and removing individuals from, the watch lists, including the availability of processes for correcting errors;
 
 &emsp;&emsp;(F) the extent to which State, tribal, and local officials are participating in the ISE;
 
@@ -326,7 +326,7 @@ There is authorized to be appropriated to carry out this section $30,000,000 for
 
 #### References in Text
 
-Executive Order 13356, referred to in subsec. (a)(2), which was formerly set out as a note below, was revoked by Ex. Ord. No. 13388, set out as a note below, which established an Information Sharing Council consistent with subsec. (g) of this section.
+Executive Order 13356, referred to in subsec. (a)(2), which was formerly set out as a note below, was revoked by Ex. Ord. No. 13388, set out as a note below,which established an Information Sharing Council consistent with subsec. (g) of this section.
 
 This title, referred to in subsec. (e)(10)(A), is title I of Pub. L. 108–458, Dec. 17, 2004, 118 Stat. 3643, known as the National Security Intelligence Reform Act of 2004. For complete classification of title I to the Code, see Tables.
 
@@ -398,7 +398,7 @@ Subsecs. (j) to (l). Pub. L. 110–53, §504(6), added subsecs. (j) to (l) and s
 
 For Determination by President that section takes effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of Title 50, War and National Defense.
 
-Section effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out as an Effective Date of 2004 Amendment; Transition Provisions noteunder section 3001 of Title 50, War and National Defense.
+Section effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out as an Effective Date of 2004 Amendment; Transition Provisions note under section 3001 of Title 50, War and National Defense.
 
 #### Procedures To Clear Individuals From Terrorist Database Lists
 
@@ -448,7 +448,7 @@ Sec. 7. <i>General Provisions</i>. (a) This order:
 
 (i) shall be implemented in a manner consistent with applicable law, including Federal law protecting the information privacy and other legal rights of Americans, and subject to the availability of appropriations;
 
-(ii) shall be implemented in a manner consistent with the authority of the principal officers of agencies as heads of their respective agencies, including under section 199 of the Revised Statutes (22 U.S.C. 2651), section 201 of the Department of Energy Organization Act (42 U.S.C. 7131), section 103 of the National Security Act of1947 (50 U.S.C. 403–3) \[now 50 U.S.C. 3025\], section 102(a) of the Homeland Security Act of 2002 (6 U.S.C. 112(a)), and sections 301 of title 5, 113(b) and 162(b) of title 10, 1501 of title 15, 503 of title 28, and 301(b) of title 31, United States Code;
+(ii) shall be implemented in a manner consistent with the authority of the principal officers of agencies as heads of their respective agencies, including under section 199 of the Revised Statutes (22 U.S.C. 2651), section 201 of the Department of Energy Organization Act (42 U.S.C. 7131), section 103 of the National Security Act of 1947 (50 U.S.C. 403–3) \[now 50 U.S.C. 3025\], section 102(a) of the Homeland Security Act of 2002 (6 U.S.C. 112(a)), and sections 301 of title 5, 113(b) and 162(b) of title 10, 1501 of title 15, 503 of title 28, and 301(b) of title 31, United States Code;
 
 (iii) shall be implemented consistent with the Presidential Memorandum of June 2, 2005, on "Strengthening Information Sharing, Access, and Integration—Organizational, Management, and Policy Development Structures for Creating the Terrorism Information Sharing Environment;" \[not set out in the Code\]
 
@@ -456,7 +456,7 @@ Sec. 7. <i>General Provisions</i>. (a) This order:
 
 (v) shall be implemented in a manner consistent with section 102A of the National Security Act of 1947 \[50 U.S.C. 3024\].
 
-(b) This order is intended only to improve the internal management of the Federal Government and is not intended to, and does not, create any rights or benefits, substantive or procedural, enforceable at law or in equity by a party against the United States, its departments, agencies, instrumentalities, or entities, its officers, employees, or agents, or any other person.
+(b) This order is intended only to improve the internal management of the Federal Government and is not intended to, and does not, create any rights or benefits,substantive or procedural, enforceable at law or in equity by a party against the United States, its departments, agencies, instrumentalities, or entities, its officers, employees, or agents, or any other person.
 
 Sec. 8. <i>Amendments and Revocation</i>. (a) \[Amended Ex. Ord. No. 13311, set out as a note under section 482 of this title.\]
 

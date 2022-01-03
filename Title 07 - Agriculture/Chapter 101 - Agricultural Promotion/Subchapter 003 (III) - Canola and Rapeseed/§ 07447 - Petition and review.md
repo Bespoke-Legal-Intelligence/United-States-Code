@@ -46,6 +46,8 @@
 
 (Pub. L. 104–127, title V, §538, Apr. 4, 1996, 110 Stat. 1060.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Rules of Civil Procedure, referred to in subsec. (b)(2), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.

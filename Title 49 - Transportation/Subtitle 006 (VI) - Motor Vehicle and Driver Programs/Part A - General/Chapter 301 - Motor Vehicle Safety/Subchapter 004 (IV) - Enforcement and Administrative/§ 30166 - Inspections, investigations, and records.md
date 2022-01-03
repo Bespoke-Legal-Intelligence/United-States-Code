@@ -12,7 +12,7 @@ Authority To Inspect and Investigate.—(1) The Secretary of Transportation may 
 
 &emsp;(B) related to a motor vehicle accident and designed to carry out this chapter.
 
-(2) The Secretary of Transportation shall cooperate with State and local officials to the greatest extent possible in an inspection or investigation under paragraph (1)(B) of this subsection.
+(2) The Secretary of Transportation shall cooperate with State and local officials to thegreatest extent possible in an inspection or investigation under paragraph (1)(B) of this subsection.
 
 (c)
 
@@ -80,7 +80,7 @@ Governmental Cooperation.—The Secretary of Transportation may request a depart
 
 (j)
 
-Cooperation of Secretary.—The Secretary of Transportation may advise, assist, and cooperate with departments, agencies, and instrumentalities of the Government, States, and other public and private agencies in developing a method for inspecting and testing to determine compliance with a motor vehicle safety standard.
+Cooperation of Secretary.—The Secretary of Transportation may advise, assist, and cooperate with departments, agencies, and instrumentalities of the Government, States, and other public and private agencies in developinga method for inspecting and testing to determine compliance with a motor vehicle safety standard.
 
 (k)
 
@@ -134,6 +134,10 @@ Other data.—As part of the final rule promulgated under paragraph (1), the Sec
 
 Reporting of possible defects.—The manufacturer of a motor vehicle or motor vehicle equipment shall report to the Secretary, in such manner as the Secretary establishes by regulation, all incidents of which the manufacturer receives actual notice which involve fatalities or serious injuries which are alleged or proven to have been caused by a possible defect in such manufacturer's motor vehicle or motor vehicle equipment in the United States, or in a foreign country when the possible defect is in a motor vehicle or motor vehicle equipment that is identical or substantially similar to a motor vehicle or motor vehicle equipment offered for sale in the United States.
 
+&emsp;&emsp;(D)
+
+Settlements.—Notwithstanding any order entered in a civil action restricting the disclosure of information, a manufacturer of a motor vehicle or motor vehicle equipment shall comply with the requirements of this subsection and any regulations promulgated pursuant to this subsection.
+
 &emsp;(4)
 
 Handling and utilization of reporting elements.—
@@ -150,7 +154,7 @@ Secretary's specifications.—In requiring the reporting of any information requ
 
 &emsp;&emsp;(B)
 
-Information in possession of manufacturer.—The regulations promulgated by the Secretary under paragraph (1) may not require a manufacturer of a motor vehicle ormotor vehicle equipment to maintain or submit records respecting information not in the possession of the manufacturer.
+Information in possession of manufacturer.—The regulations promulgated by the Secretary under paragraph (1) may not require a manufacturer of a motor vehicle or motor vehicle equipment to maintain or submit records respecting information not in the possession of the manufacturer.
 
 &emsp;&emsp;(C)
 
@@ -204,7 +208,7 @@ Notice.—The certification requirements of this section shall be clearly stated
 
 Deadline.—Not later than 1 year after the date of enactment of the Comprehensive Transportation and Consumer Protection Act of 2015, the Secretary shall issue a final rule under paragraph (1).
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 969; Pub. L. 103–429, §6(24), Oct. 31, 1994, 108 Stat. 4380; Pub. L. 104–88, title III, §308(j), Dec. 29, 1995, 109 Stat. 947; Pub. L. 104–287, §6(f)(3), Oct. 11, 1996, 110 Stat. 3399; Pub. L. 106–414, §3(a)–(c), Nov. 1, 2000, 114 Stat. 1800–1802; Pub. L. 112–141, div. C, title I, §§31209, 31303(a), 31304(a), July 6, 2012, 126 Stat. 762, 764; Pub. L. 114–94, div. B, title XXIV, §§24109(e), 24112, Dec. 4, 2015, 129 Stat. 1707, 1709.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 969; Pub. L. 103–429, §6(24), Oct. 31, 1994, 108 Stat. 4380; Pub. L. 104–88, title III, §308(j), Dec. 29, 1995, 109 Stat. 947; Pub. L. 104–287, §6(f)(3), Oct. 11, 1996, 110 Stat. 3399; Pub. L. 106–414, §3(a)–(c), Nov. 1, 2000, 114 Stat. 1800–1802; Pub. L. 112–141, div. C, title I, §§31209, 31303(a), 31304(a), July 6, 2012, 126 Stat. 762, 764; Pub. L. 114–94, div. B, title XXIV, §§24109(e), 24112, Dec. 4, 2015, 129 Stat. 1707, 1709; Pub. L. 117–58, div. B, title IV, §24216(a), Nov. 15, 2021, 135 Stat. 830.)
 
 Historical and Revision Notes
 
@@ -342,6 +346,8 @@ In subsection (k), the words "for appropriate action" are omitted as surplus.
 
 This amends 49:30166(h) to clarify the restatement of 15:1401(c)(4) by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 970).
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of the Transportation Recall Enhancement, Accountability, and Documentation (TREAD) Act, referred to in subsecs. (m)(1) and (n)(1), is the date of enactment of Pub. L. 106–414, which was approved Nov. 1, 2000.
@@ -349,6 +355,8 @@ The date of the enactment of the Transportation Recall Enhancement, Accountabili
 The date of enactment of the Comprehensive Transportation and Consumer Protection Act of 2015, referred to in subsec. (o)(3), probably means the date of enactment of div. B of Pub. L. 114–94, which was approved Dec. 4, 2015. That Act name is the heading for div. B of Pub. L. 114–94, but no such Short Title was enacted.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (m)(3)(D). Pub. L. 117–58 added subpar. (D).
 
 <b>2015</b>—Subsec. (c)(2). Pub. L. 114–94, §24109(e)(1), substituted "dealer, or rental company" for "or dealer" in two places.
 
@@ -375,6 +383,8 @@ Subsec. (o). Pub. L. 112–141, §31304(a), added subsec. (o).
 <b>1995</b>—Subsec. (d). Pub. L. 104–88, §308(j), as amended by Pub. L. 104–287, substituted "subchapter I of chapter 135" for "subchapter II of chapter 105".
 
 <b>1994</b>—Subsec. (h). Pub. L. 103–429 substituted "any judicial district" for "the judicial district".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

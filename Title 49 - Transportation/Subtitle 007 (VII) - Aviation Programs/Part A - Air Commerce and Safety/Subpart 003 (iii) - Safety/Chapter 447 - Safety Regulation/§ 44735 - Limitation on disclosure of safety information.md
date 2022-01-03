@@ -28,7 +28,7 @@ Exception for De-identified Information.—
 
 &emsp;(1)
 
-In general.—The limitation established by subsection (a) shall not apply to a report,data, or other information if the information contained in the report, data, or other information has been de-identified.
+In general.—The limitation established by subsection (a) shall not apply to a report, data, or other information if the information contained in the report, data, or other information has been de-identified.
 
 &emsp;(2)
 

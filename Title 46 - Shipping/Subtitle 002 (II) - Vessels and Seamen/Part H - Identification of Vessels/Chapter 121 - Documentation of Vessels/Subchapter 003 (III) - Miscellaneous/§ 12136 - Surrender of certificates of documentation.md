@@ -14,7 +14,7 @@ Vessels over 1,000 tons.—The Secretary may condition approval of the surrender
 
 &emsp;(2)
 
-Vessels covered by mortgage.—The Secretary may approve the surrender of the certificate of documentation of a vessel covered by a mortgage filed or recorded under section 31321 of this title only if the mortgagee consents.
+Vessels covered by mortgage.—The Secretary may approve the surrender of thecertificate of documentation of a vessel covered by a mortgage filed or recorded under section 31321 of this title only if the mortgagee consents.
 
 &emsp;(3)
 

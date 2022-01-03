@@ -10,7 +10,7 @@
 | [7506\.](%C2%A7%2007506%20-%20Administration%20of%20real%20estate%20acquired%20by%20the%20United%20States.md) | Administration of real estate acquired by the United States. |
 | [7507\.](%C2%A7%2007507%20-%20Exemption%20of%20insolvent%20banks%20from%20tax.md) | Exemption of insolvent banks from tax. |
 | [7508\.](%C2%A7%2007508%20-%20Time%20for%20performing%20certain%20acts%20postponed%20by%20reason%20of%20service%20in%20combat%20zone%20or%20contingency%20operation.md) | Time for performing certain acts postponed by reason of service in combat zone or contingency operation. |
-| [7508A.](%C2%A7%2007508A%20-%20Authority%20to%20postpone%20certain%20deadlines%20by%20reason%20of%20Presidentially%20declared%20disaster%20or%20terroristic%20or%20military%20actions.md) | Authority to postpone certain deadlines by reason of Presidentially declared disaster or terroristic or military actions. |
+| [7508A.](%C2%A7%2007508A%20-%20Authority%20to%20postpone%20certain%20deadlines%20by%20reason%20of%20Federally%20declared%20disaster%2C%20significant%20fire%2C%20or%20terroristic%20or%20military%20actions.md) | Authority to postpone certain deadlines by reason of Federally declared disaster, significant fire, or terroristic or military actions. |
 | [7509\.](%C2%A7%2007509%20-%20Expenditures%20incurred%20by%20the%20United%20States%20Postal%20Service.md) | Expenditures incurred by the United States Postal Service. |
 | [7510\.](%C2%A7%2007510%20-%20Exemption%20from%20tax%20of%20domestic%20goods%20purchased%20for%20the%20United%20States.md) | Exemption from tax of domestic goods purchased for the United States. |
 | \[7511. | Repealed.\] |
@@ -36,12 +36,20 @@
 | [7526\.](%C2%A7%2007526%20-%20Low-income%20taxpayer%20clinics.md) | Low-income taxpayer clinics. |
 | [7526A.](%C2%A7%2007526A%20-%20Return%20preparation%20programs%20for%20applicable%20taxpayers.md) | Return preparation programs for applicable taxpayers. |
 | [7527\.](%C2%A7%2007527%20-%20Advance%20payment%20of%20credit%20for%20health%20insurance%20costs%20of%20eligible%20individuals.md) | Advance payment of credit for health insurance costs of eligible individuals. |
+| [7527A.](%C2%A7%2007527A%20-%20Advance%20payment%20of%20child%20tax%20credit.md) | Advance payment of child tax credit. |
 | [7528\.](%C2%A7%2007528%20-%20Internal%20Revenue%20Service%20user%20fees.md) | Internal Revenue Service user fees. |
 | [7529\.](%C2%A7%2007529%20-%20Notification%20of%20suspected%20identity%20theft.md) | Notification of suspected identity theft. |
+| [7530\.](%C2%A7%2007530%20-%20Application%20of%20earned%20income%20tax%20credit%20to%20possessions%20of%20the%20United%20States.md) | Application of earned income tax credit to possessions of the United States. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Pub. L. 117–58, div. H, title V, §80504(b)(2), Nov. 15, 2021, 135 Stat. 1337, substituted "Federally declared disaster, significant fire," for "Presidentially declared disaster" in item 7508A.
+
+Pub. L. 117–2, title IX, §§9611(b)(4)(D), 9625(b), Mar. 11, 2021, 135 Stat. 150, 157, added items 7527A and 7530.
 
 <b>2019</b>—Pub. L. 116–25, title I, §1401(b), title II, §2007(c), July 1, 2019, 133 Stat. 997, 1006, added items 7526A and 7529.
 
@@ -104,7 +112,7 @@ Pub. L. 85–321, §3(a), Feb. 11, 1958, 72 Stat. 6, added item 7512.
 - [&sect; 07506 - Administration of real estate acquired by the United States](%C2%A7%2007506%20-%20Administration%20of%20real%20estate%20acquired%20by%20the%20United%20States.md)
 - [&sect; 07507 - Exemption of insolvent banks from tax](%C2%A7%2007507%20-%20Exemption%20of%20insolvent%20banks%20from%20tax.md)
 - [&sect; 07508 - Time for performing certain acts postponed by reason of service in combat zone or contingency operation](%C2%A7%2007508%20-%20Time%20for%20performing%20certain%20acts%20postponed%20by%20reason%20of%20service%20in%20combat%20zone%20or%20contingency%20operation.md)
-- [&sect; 07508A - Authority to postpone certain deadlines by reason of Presidentially declared disaster or terroristic or military actions](%C2%A7%2007508A%20-%20Authority%20to%20postpone%20certain%20deadlines%20by%20reason%20of%20Presidentially%20declared%20disaster%20or%20terroristic%20or%20military%20actions.md)
+- [&sect; 07508A - Authority to postpone certain deadlines by reason of Federally declared disaster, significant fire, or terroristic or military actions](%C2%A7%2007508A%20-%20Authority%20to%20postpone%20certain%20deadlines%20by%20reason%20of%20Federally%20declared%20disaster%2C%20significant%20fire%2C%20or%20terroristic%20or%20military%20actions.md)
 - [&sect; 07509 - Expenditures incurred by the United States Postal Service](%C2%A7%2007509%20-%20Expenditures%20incurred%20by%20the%20United%20States%20Postal%20Service.md)
 - [&sect; 07510 - Exemption from tax of domestic goods purchased for the United States](%C2%A7%2007510%20-%20Exemption%20from%20tax%20of%20domestic%20goods%20purchased%20for%20the%20United%20States.md)
 - [&sect; 07511 - Repealed. Pub. L. 87&#8211;456, title III, &sect;302(d), May 24, 1962, 76 Stat. 77](%C2%A7%2007511%20-%20Repealed.%20Pub.%20L.%2087%E2%80%93456%2C%20title%20III%2C%20%C2%A7302%28d%29%2C%20May%2024%2C%201962%2C%2076%20Stat.%2077.md)
@@ -125,5 +133,7 @@ Pub. L. 85–321, §3(a), Feb. 11, 1958, 72 Stat. 6, added item 7512.
 - [&sect; 07526 - Low-income taxpayer clinics](%C2%A7%2007526%20-%20Low-income%20taxpayer%20clinics.md)
 - [&sect; 07526A - Return preparation programs for applicable taxpayers](%C2%A7%2007526A%20-%20Return%20preparation%20programs%20for%20applicable%20taxpayers.md)
 - [&sect; 07527 - Advance payment of credit for health insurance costs of eligible individuals](%C2%A7%2007527%20-%20Advance%20payment%20of%20credit%20for%20health%20insurance%20costs%20of%20eligible%20individuals.md)
+- [&sect; 07527A - Advance payment of child tax credit](%C2%A7%2007527A%20-%20Advance%20payment%20of%20child%20tax%20credit.md)
 - [&sect; 07528 - Internal Revenue Service user fees](%C2%A7%2007528%20-%20Internal%20Revenue%20Service%20user%20fees.md)
 - [&sect; 07529 - Notification of suspected identity theft](%C2%A7%2007529%20-%20Notification%20of%20suspected%20identity%20theft.md)
+- [&sect; 07530 - Application of earned income tax credit to possessions of the United States](%C2%A7%2007530%20-%20Application%20of%20earned%20income%20tax%20credit%20to%20possessions%20of%20the%20United%20States.md)

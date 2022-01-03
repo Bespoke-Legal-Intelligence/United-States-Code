@@ -28,9 +28,13 @@ July 11, 1919, ch. 8 (2d par. under "Air Service"), 41 Stat. 109.
 
 June 3, 1941, ch. 165, §2, 55 Stat. 239.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 9303 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

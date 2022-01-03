@@ -28,7 +28,7 @@
 
 &emsp;&emsp;&emsp;(i) there is a direct or indirect transfer of money or other property by a partner to a partnership,
 
-&emsp;&emsp;&emsp;(ii) there is a related direct or indirect transfer of money or other property by the partnership to such partner (or another partner), and
+&emsp;&emsp;&emsp;(ii) there is a related direct or indirect transfer of money or other property by thepartnership to such partner (or another partner), and
 
 &emsp;&emsp;&emsp;(iii) the transfers described in clauses (i) and (ii), when viewed together, are properly characterized as a sale or exchange of property,
 
@@ -66,6 +66,8 @@ To the extent determined without regard to the income of the partnership, paymen
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 243; Pub. L. 94–455, title II, §213(b)(3), title XIX, §1901(b)(3)(C), Oct. 4, 1976, 90 Stat. 1547, 1792; Pub. L. 98–369, div. A, title I, §73(a), July 18, 1984, 98 Stat. 591; Pub. L. 99–514, title VI, §642(a)(2), title XVIII, §§1805(b), 1812(c)(3)(A), (B), Oct. 22, 1986, 100 Stat. 2284, 2810, 2834.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1986</b>—Subsec. (a)(2)(B)(iii). Pub. L. 99–514, §1805(b), substituted "sale or exchange of property" for "sale of property".
@@ -85,6 +87,8 @@ Subsec. (b)(2)(B). Pub. L. 99–514, §642(a)(2), substituted "50 percent" for "
 <b>1976</b>—Subsec. (b)(2). Pub. L. 94–455, §1901(b)(3)(C), substituted "as ordinary income" for "as gain from the sale or exchange of property other than a capital asset".
 
 Subsec. (c). Pub. L. 94–455, §213(b)(3), substituted "and, subject to section 263, for purposes of section 162(a)" for "and section 162(a)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

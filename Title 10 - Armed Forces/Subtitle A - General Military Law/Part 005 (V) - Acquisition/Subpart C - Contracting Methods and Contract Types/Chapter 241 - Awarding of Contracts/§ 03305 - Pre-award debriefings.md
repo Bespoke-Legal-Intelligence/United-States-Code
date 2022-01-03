@@ -6,7 +6,7 @@ Request for Debriefing.—When the contracting officer excludes an offeror submi
 
 (b)
 
-When Debriefing to Be Conducted.—The contracting officer shall make every effort todebrief the unsuccessful offeror as soon as practicable but may refuse the request for a debriefing if it is not in the best interests of the Government to conduct a debriefing at that time.
+When Debriefing to Be Conducted.—The contracting officer shall make every effort to debrief the unsuccessful offeror as soon as practicable but may refuse the request for a debriefing if it is not in the best interests of the Government to conduct a debriefing at that time.
 
 (c)
 
@@ -28,9 +28,11 @@ Information Not to Be Disclosed.—The debriefing conducted under subsections (a
 
 (f)
 
-Summary to Be Included in File.—The contracting officer shall include a summary of any debriefing conducted this section <sup>1</sup> in the contract file.
+Summary to Be Included in File.—The contracting officer shall include a summary of any debriefing conducted under this section in the contract file.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, §1816(c)(2)(E), (7), Jan. 1, 2021, 134 Stat. 4182, 4183.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, §1816(c)(2)(E), (7), Jan. 1, 2021, 134 Stat. 4182, 4183; Pub. L. 117–81, div. A, title XVII, §1701(b)(6)(B), Dec. 27, 2021, 135 Stat. 2133.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -56,11 +58,15 @@ Subsec. (d). Pub. L. 116–283, §1816(c)(7)(B), (H), redesignated subpar. (C) o
 
 Subsec. (e). Pub. L. 116–283, §1816(c)(7)(B), (I), redesignated subpar. (D) of former section 2305(b)(6) of this title as subsec. (e) of this section, inserted heading, and substituted "subsections (a) and (b)" for "subparagraph (A)".
 
-Subsec. (f). Pub. L. 116–283, §1816(c)(7)(B), (J), redesignated subsec. (b)(7) of section 2305 of this title as subsec. (f) of this section, inserted heading, and substituted "this section" for "under paragraph (5) or (6)".
+Subsec. (f). Pub. L. 116–283, §1816(c)(7)(B), (J), as amended by Pub. L. 117–81, §1701(b)(6)(B), redesignated subsec. (b)(7) of section 2305 of this title as subsec. (f) of this section, inserted heading, and substituted "under this section" for "under paragraph (5) or (6)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and Effective Date note below.
 
 #### Effective Date
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be "under this section".</i>
 

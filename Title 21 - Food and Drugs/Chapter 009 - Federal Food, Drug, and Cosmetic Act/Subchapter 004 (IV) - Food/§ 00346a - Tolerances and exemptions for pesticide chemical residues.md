@@ -76,7 +76,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the lifetime risk of experiencing the nonthreshold effect is appropriately assessed by quantitative risk assessment; and
 
-&emsp;&emsp;&emsp;&emsp;(III) with regard to any known or anticipated harm to human health forwhich the Administrator is able to identify a level at which the residue will not cause such harm (referred to in this section as a "threshold effect"), the Administrator determines that the level of aggregate exposure is safe.
+&emsp;&emsp;&emsp;&emsp;(III) with regard to any known or anticipated harm to human health for which the Administrator is able to identify a level at which the residue will not cause such harm (referred to in this section as a "threshold effect"), the Administrator determines that the level of aggregate exposure is safe.
 
 #### (ii) Determination of tolerance
 
@@ -118,7 +118,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) available information about consumption patterns among infants and children that are likely to result in disproportionately high consumption of foods containing or bearing such residue among infants and children in comparison to the general population;
 
-&emsp;&emsp;&emsp;&emsp;(II) available information concerning the special susceptibility of infants and children to the pesticide chemical residues, including neurological differences between infants and children and adults, and effects of in utero exposure to pesticide chemicals; and
+&emsp;&emsp;&emsp;&emsp;(II) available information concerning the special susceptibility of infants andchildren to the pesticide chemical residues, including neurological differences between infants and children and adults, and effects of in utero exposure to pesticide chemicals; and
 
 &emsp;&emsp;&emsp;&emsp;(III) available information concerning the cumulative effects on infants and children of such residues and other substances that have a common mechanism of toxicity; and
 
@@ -134,7 +134,7 @@
 
 &emsp;&emsp;In establishing, modifying, leaving in effect, or revoking a tolerance or exemption for a pesticide chemical residue, the Administrator shall consider, among other relevant factors—
 
-&emsp;&emsp;&emsp;(i) the validity, completeness, and reliability of the available data from studiesof the pesticide chemical and pesticide chemical residue;
+&emsp;&emsp;&emsp;(i) the validity, completeness, and reliability of the available data from studies of the pesticide chemical and pesticide chemical residue;
 
 &emsp;&emsp;&emsp;(ii) the nature of any toxic effect shown to be caused by the pesticide chemical or pesticide chemical residue in such studies;
 
@@ -270,7 +270,7 @@
 
 #### (B) Modification or revocation
 
-&emsp;&emsp;The Administrator may by regulation establish the requirements for informationand data to support a petition to modify or revoke a tolerance or to modify or revoke an exemption from the requirement for a tolerance.
+&emsp;&emsp;The Administrator may by regulation establish the requirements for information and data to support a petition to modify or revoke a tolerance or to modify or revoke an exemption from the requirement for a tolerance.
 
 #### (3) Notice
 
@@ -332,7 +332,7 @@
 
 &emsp;&emsp;&emsp;(i) requiring the submission to the Administrator by one or more interested persons of a notice identifying the person or persons who will submit the required data and information;
 
-&emsp;&emsp;&emsp;(ii) describing the type of data and information required to be submitted to the Administrator and stating why the data and information could not be obtained under the authority of section 3(c)(2)(B) of the Federal Insecticide, Fungicide, andRodenticide Act \[7 U.S.C. 136a(c)(2)(B)\] or section 4 of the Toxic Substances Control Act \[15 U.S.C. 2603\];
+&emsp;&emsp;&emsp;(ii) describing the type of data and information required to be submitted to the Administrator and stating why the data and information could not be obtained under the authority of section 3(c)(2)(B) of the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136a(c)(2)(B)\] or section 4 of the Toxic Substances Control Act \[15 U.S.C. 2603\];
 
 &emsp;&emsp;&emsp;(iii) describing the reports of the Administrator required to be prepared during and after the collection of the data and information;
 
@@ -416,7 +416,7 @@
 
 #### (1) Regulations under section 346
 
-&emsp;Regulations affecting pesticide chemical residues in or on raw agricultural commodities promulgated, in accordance with section 371(e) of this title, under the authority of section 346(a) <sup>1</sup> of this title upon the basis of public hearings instituted before January 1, 1953, shall be deemed to be regulations issued under this section and shall be subject to modification or revocation under subsections (d) and (e), and shall be subject to review under subsection (q).
+&emsp;Regulations affecting pesticide chemical residues in or on raw agricultural commodities promulgated, in accordance with section 371(e) of this title, under the authority of section 346(a) <sup>1</sup> of this title upon the basis of publichearings instituted before January 1, 1953, shall be deemed to be regulations issued under this section and shall be subject to modification or revocation under subsections (d) and (e), and shall be subject to review under subsection (q).
 
 #### (2) Regulations under section 348
 
@@ -432,7 +432,7 @@
 
 &emsp;&emsp;(A) Notwithstanding paragraph (2), any regulation applying to the use of the substance that was in effect on the day before October 30, 1998, and was on such day deemed in such paragraph to have been issued under this section, shall be considered to have been issued under section 348 of this title.
 
-&emsp;&emsp;(B) Notwithstanding paragraph (3), any regulation applying to the use of the substance that was in effect on such day and was issued under this section (including any such regulation issued before August 3, 1996)is deemed to have been issued under section 348 of this title.
+&emsp;&emsp;(B) Notwithstanding paragraph (3), any regulation applying to the use of the substance that was in effect on such day and was issued under this section (including any such regulation issued before August 3, 1996) is deemed to have been issued under section 348 of this title.
 
 #### (k) Transitional provision
 
@@ -466,7 +466,7 @@ If, on the day before August 3, 1996, a substance that is a pesticide chemical w
 
 #### (B) Effect of suspension
 
-&emsp;&emsp;The suspension of a tolerance or exemption under subparagraph (A) shall be effective as long as the use of each associated registration of a pesticide is suspended under the Federal Insecticide, Fungicide, and Rodenticide Act. While a suspension of a tolerance or exemption is effective the tolerance or exemption shall not be considered to be in effect. If the suspension of use of the pesticide under that Act is terminated, leaving the registration of the pesticide for such use in effect under that Act, the Administrator shall rescind any associated suspension of tolerance or exemption.
+&emsp;&emsp;The suspension of a tolerance or exemption under subparagraph (A) shall be effective as long as the use of each associated registration of a pesticide is suspended under the Federal Insecticide, Fungicide, and Rodenticide Act. While a suspension of atolerance or exemption is effective the tolerance or exemption shall not be considered to be in effect. If the suspension of use of the pesticide under that Act is terminated, leaving the registration of the pesticide for such use in effect under that Act, the Administrator shall rescind any associated suspension of tolerance or exemption.
 
 #### (4) Tolerances for unavoidable residues
 
@@ -596,7 +596,7 @@ Nothing in this subsection shall prevent retail grocers from providing additiona
 
 #### (1) Development
 
-&emsp;Not later than 2 years after August 3, 1996, the Administrator shall in consultation withthe Secretary of Health and Human Services develop a screening program, using appropriate validated test systems and other scientifically relevant information, to determine whether certain substances may have an effect in humans that is similar to an effect produced by a naturally occurring estrogen, or such other endocrine effect as the Administrator may designate.
+&emsp;Not later than 2 years after August 3, 1996, the Administrator shall in consultation with the Secretary of Health and Human Services develop a screening program, using appropriate validated test systems and other scientifically relevant information, to determine whether certain substances may have an effect in humans that is similar to an effect produced by a naturally occurring estrogen, or such other endocrine effect as the Administrator may designate.
 
 #### (2) Implementation
 
@@ -632,7 +632,7 @@ Nothing in this subsection shall prevent retail grocers from providing additiona
 
 #### (ii) Hearing
 
-&emsp;&emsp;&emsp;If a person requests a hearing under clause (i), the hearing shall be conducted in accordance with section 554 of title 5. The only matter for resolution at the hearing shall be whether the registrant has failed to comply with an order under subparagraph (A) of this paragraph. A decision by the Administrator after completion of a hearing shall be considered to be a final agency action.
+&emsp;&emsp;&emsp;If a person requests a hearing under clause (i), the hearing shall be conducted in accordance with section 554 of title 5. The only matter for resolution at the hearing shall be whether the registrant has failed to comply with an order under subparagraph (A) of this paragraph. A decision by the Administrator after completion of ahearing shall be considered to be a final agency action.
 
 #### (iii) Termination of suspensions
 
@@ -716,7 +716,7 @@ August 3, 1996, referred to in subsecs. (k), (n)(1)(B), (2)(A), and (p)(1), (2),
 
 <b>1998</b>—Subsec. (j)(4). Pub. L. 105–324 added par. (4).
 
-<b>1996</b>—Pub. L. 104–170 amended section generally, substituting, in subsec. (a), provisions relating to requirement for tolerance or exemption for provisions relating to conditions for safety; in subsec. (b), provisions relating to authority and standard for tolerance for provisions relating to establishment of tolerances; in subsec. (c), provisions relating to authority and standard for exemptions for provisions relating to exemptions; in subsec. (d), provisions relating to petition for tolerance or exemption for provisions relating to regulations pursuant to petition, publication of notice, time for issuance, referral to advisory committees, effective date, and hearings; in subsec. (e), provisions relating toaction on Administrator's own initiative for provisions relating to regulations pursuant to Administrator's proposals; in subsec. (f), provisions relating to special data requirements for provisions relating to data submitted as confidential; in subsec. (g), provisions relating to effective date, objections, hearings, and administrative review for provisions relating to advisory committees and their appointment, composition, compensation, and clerical assistance; in subsec. (h), provisions relating to judicial review for provisions relating to right of consultation; in subsec. (i), provisions relating to confidentiality and use of data for provisions relating to judicial review; in subsec. (j), provisions relating to status of previously issued regulations for provisions relating to temporary tolerances; in subsec. (k), provisions relating to transitions for provisions relating to regulations based on public hearings before January 1, 1953; in subsec. (l), provisions relating to harmonization with action under other laws for provisions relating to pesticides under Federal Insecticide, Fungicide, and Rodenticide Act, functions of Administrator of Environmental Protection Agency, certifications, hearings, time limitations, opinions, and regulations; in subsec. (m), provisions relating to fees for provisions relating to amendment of regulations; in subsec. (n), provisions relating to national uniformity of tolerances for provisions relating to guaranties; in subsec. (o), provisions relating to consumer right to know for provisions relating to payment of fees, services or functions conditioned on payment, and waiver or refund of fees; and adding subsecs. (p) to (s).
+<b>1996</b>—Pub. L. 104–170 amended section generally, substituting, in subsec. (a), provisions relating to requirement for tolerance or exemption for provisions relating to conditions for safety; in subsec. (b), provisions relating to authority and standard for tolerance for provisions relating to establishment of tolerances; in subsec. (c), provisions relating to authority and standard for exemptions for provisions relating to exemptions; in subsec. (d), provisions relating to petition for tolerance or exemption for provisions relating to regulations pursuant to petition, publication of notice, time for issuance, referral to advisory committees, effective date, and hearings; in subsec. (e), provisions relating to action on Administrator's own initiative for provisions relating to regulations pursuant to Administrator's proposals; in subsec. (f), provisions relating to special data requirements for provisions relating to data submitted as confidential; in subsec. (g), provisions relating to effective date, objections, hearings, and administrative review for provisions relating to advisory committees and their appointment, composition, compensation, and clerical assistance; in subsec. (h), provisions relating to judicial review for provisions relating to right of consultation; in subsec. (i), provisions relating to confidentiality and use of data for provisions relating to judicial review; in subsec. (j), provisions relating to status of previously issued regulations for provisions relating to temporary tolerances; in subsec. (k), provisions relating to transitions for provisions relating to regulations based on public hearings before January 1, 1953; in subsec. (l), provisions relating to harmonization with action under other laws for provisions relating to pesticides under Federal Insecticide, Fungicide, and Rodenticide Act, functions of Administrator of Environmental Protection Agency, certifications, hearings, time limitations, opinions, and regulations; in subsec. (m), provisions relating to fees for provisions relating to amendment of regulations; in subsec. (n), provisions relating to national uniformity of tolerances for provisions relating to guaranties; in subsec. (o), provisions relating to consumer right to know for provisions relating to payment of fees, services or functions conditioned on payment, and waiver or refund of fees; and adding subsecs. (p) to (s).
 
 <b>1993</b>—Pub. L. 103–80, §3(k)(6), substituted "Administrator" for "Secretary" wherever appearing except when followed by "of Agriculture".
 

@@ -32,7 +32,7 @@ Curriculum Content.—In addition to the subjects specified in section 2151(a) o
 
 (d)
 
-Student Ratio; Faculty Ratio.—Not later than September 30, 2009, for courses of instruction in a Phase II program of instruction that is offered at senior level service school that has been designated by the Secretary of Defense as a joint professional military education institution—
+Student Ratio; Faculty Ratio.—Not later than September 30, 2009, for courses of instruction in a Phase II program of instruction that is offered at senior level service school that has been designated by the Secretary of Defense asa joint professional military education institution—
 
 &emsp;(1) the percentage of students enrolled in any such course who are officers of the armed force that administers the school may not exceed 60 percent, with the remaining services proportionally represented; and
 
@@ -40,13 +40,17 @@ Student Ratio; Faculty Ratio.—Not later than September 30, 2009, for courses o
 
 (Added Pub. L. 108–375, div. A, title V, §532(a)(2), Oct. 28, 2004, 118 Stat. 1898; amended Pub. L. 109–364, div. A, title X, §1071(a)(13), (14), Oct. 17, 2006, 120 Stat. 2399.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–364, §1071(a)(13), substituted "Phase" for "phase" in section catchline.
 
 Subsec. (a). Pub. L. 109–364, §1071(a)(14), inserted "Phase" after "Education" in heading.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Pilot Program on JPME Phase II on Other Than In-Residence Basis
 
-Pub. L. 112–81, div. A, title V, §552(b), Dec. 31, 2011, 125 Stat. 1412, authorized the Secretary of Defense to carryout a pilot program to assess the feasibility and advisability of offering a program of instruction under this section on an other than in-residence basis and provided that the authority for the program would expire five years after Dec. 31, 2011.
+Pub. L. 112–81, div. A, title V, §552(b), Dec. 31, 2011, 125 Stat. 1412, authorized the Secretary of Defense to carry out a pilot program to assess the feasibility and advisability of offering a program of instruction under this section on an other than in-residence basis and provided that the authority for the program would expire five years after Dec. 31, 2011.
 

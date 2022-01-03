@@ -160,7 +160,7 @@ As used in this section:
 
 #### (7) Older child adoption and older foster child guardianship rate
 
-&emsp;The term "older child adoption and older foster child guardianship rate" means, withrespect to a State and a fiscal year, the percentage determined by dividing—
+&emsp;The term "older child adoption and older foster child guardianship rate" means, with respect to a State and a fiscal year, the percentage determined by dividing—
 
 &emsp;&emsp;(A) the number of older child adoptions and older foster child guardianships finalized in the State during the fiscal year; by
 
@@ -236,7 +236,7 @@ As used in this section:
 
 #### (1) In general
 
-&emsp;The Secretary may, directly or through grants or contracts, provide technical assistance to assist States and local communities to reach their targets for increased numbers of adoptions and, to the extent that adoption is not possible, alternative permanent placements, for children in foster care.
+&emsp;The Secretary may, directly or through grants or contracts, provide technical assistance to assist States and local communities to reach their targets for increased numbers ofadoptions and, to the extent that adoption is not possible, alternative permanent placements, for children in foster care.
 
 #### (2) Description of the character of the technical assistance
 
@@ -263,6 +263,8 @@ As used in this section:
 &emsp;To carry out this subsection, there are authorized to be appropriated to the Secretary of Health and Human Services not to exceed $10,000,000 for each of fiscal years 2004 through 2006.
 
 (Aug. 14, 1935, ch. 531, title IV, §473A, as added Pub. L. 105–89, title II, §201(a), Nov. 19, 1997, 111 Stat. 2122; amended Pub. L. 105–200, title IV, §410(f), July 16, 1998, 112 Stat. 673; Pub. L. 106–169, title I, §131, Dec. 14, 1999, 113 Stat. 1830; Pub. L. 108–145, §3(a), Dec. 2, 2003, 117 Stat. 1879; Pub. L. 109–288, §6(f)(7), Sept. 28, 2006, 120 Stat. 1248; Pub. L. 110–351, title IV, §401, Oct. 7, 2008, 122 Stat. 3973; Pub. L. 113–183, title II, §§201–205, Sept. 29, 2014, 128 Stat. 1935–1939; Pub. L. 115–123, div. E, title VII, §50761(a), Feb. 9, 2018, 132 Stat. 267.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -403,6 +405,8 @@ Subsec. (j). Pub. L. 108–145, §3(a)(7), struck out subsec. (j) which related 
 Subsec. (j). Pub. L. 106–169, §131(a), added subsec. (j).
 
 <b>1998</b>—Subsec. (c)(2)(B). Pub. L. 105–200 substituted "April 30, 1998" for "November 30, 1997" and "July 1, 1998" for "March 1, 1998".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

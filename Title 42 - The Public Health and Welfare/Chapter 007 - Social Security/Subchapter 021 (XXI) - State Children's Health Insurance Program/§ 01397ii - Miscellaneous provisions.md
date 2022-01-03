@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(A) Make appropriate adjustments to the Current Population Survey to develop more accurate State-specific estimates of the number of children enrolled in health coverage under subchapter XIX or this subchapter.
 
-&emsp;&emsp;(B) Make appropriate adjustments to the Current Population Survey to improve the survey estimates used to determine a high-performing State under section 1397kk(b)(3)(B) of this title and any otherdata necessary for carrying out this subchapter.
+&emsp;&emsp;(B) Make appropriate adjustments to the Current Population Survey to improve the survey estimates used to determine a high-performing State under section 1397kk(b)(3)(B) of this title and any other data necessary for carrying out this subchapter.
 
 &emsp;&emsp;(C) Include health insurance survey information in the American Community Survey related to children.
 
@@ -34,13 +34,15 @@
 
 #### (3) Authority for the Secretary of Health and Human Services to transition to the use of all, or some combination of, ACS estimates upon recommendation of the Secretary of Commerce
 
-&emsp;If, on the basis of the assessment required under paragraph (2)(D), the Secretary of Commerce recommends to the Secretary of Health and Human Services that American Community Survey estimates should be used in lieu of, or in some combination with, Current Population Survey estimates for the purposes described in paragraph (2)(B), the Secretary of Health and Human Services, in consultation with the States, may provide for a period during which the Secretary may transition from carrying out such purposes through the use of Current Population Survey estimates to the use of American Community Survey estimates (in lieu of, or in combination with the Current Population Survey estimates, as recommended), provided that any such transition is implemented in a manner that is designed to avoid adverse impacts upon States with approved State child health plans under this subchapter.
+&emsp;If, on the basis of the assessment required under paragraph (2)(D), the Secretary of Commerce recommends to the Secretary of Health and Human Services that American Community Survey estimates should be used in lieu of, or in some combination with, Current Population Survey estimates for the purposes described in paragraph (2)(B), the Secretary of Health and Human Services, in consultation with the States, may provide for a period during which the Secretary may transition from carrying out such purposes through the use of Current Population Survey estimates to the use of American Community Survey estimates (in lieu of, or in combination with the Current Population Survey estimates, as recommended), provided that any such transition is implemented in a manner that is designedto avoid adverse impacts upon States with approved State child health plans under this subchapter.
 
 #### (4) Appropriation
 
 &emsp;Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated $20,000,000 for fiscal year 2009 and each fiscal year thereafter for the purpose of carrying out this subsection (except that only with respect to fiscal year 2008, there are appropriated $20,000,000 for the purpose of carrying out this subsection, to remain available until expended).
 
 (Aug. 14, 1935, ch. 531, title XXI, §2109, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 567; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §§703(a), 705(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–400, 1501A–403; Pub. L. 110–173, title II, §205, Dec. 29, 2007, 121 Stat. 2514; Pub. L. 111–3, title VI, §602, Feb. 4, 2009, 123 Stat. 98; Pub. L. 111–148, title II, §2102(a)(6), Mar. 23, 2010, 124 Stat. 288.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -67,6 +69,8 @@ Subsec. (b)(3), (4). Pub. L. 111–3, §602(b), added par. (3) and redesignated 
 Subsec. (a)(2). Pub. L. 106–113, §1000(a)(6) \[title VII, §705(c)(2)\], inserted closing parenthesis before period at end.
 
 Subsec. (b). Pub. L. 106–113, §1000(a)(6) \[title VII, §703(a)\], added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Security functions
 
-(1) The Secretary of State shall develop and implement (in consultation with the heads ofother Federal agencies having personnel or missions abroad where appropriate and within the scope of the resources made available) policies and programs, including funding levels and standards, to provide for the security of United States Government operations of a diplomatic nature and foreign government operations of a diplomatic nature in the United States. Such policies and programs shall include—
+(1) The Secretary of State shall develop and implement (in consultation with the heads of other Federal agencies having personnel or missions abroad where appropriate and within the scope of the resources made available) policies and programs, including funding levels and standards, to provide for the security of United States Government operations of a diplomatic nature and foreign government operations of a diplomatic nature in the United States. Such policies and programs shall include—
 
 &emsp;(A) protection of all United States Government personnel on official duty abroad (other than Voice of America correspondents on official assignment and those personnel under the command of a United States area military commander) and their accompanying dependents;
 
@@ -120,6 +120,10 @@ Subsec. (b)(3). Pub. L. 100–461 struck out par. (3) which read as follows: "es
 
 Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of this title.
 
+#### Overseas Security Briefings
+
+Pub. L. 117–81, div. E, title LII, §5210, Dec. 27, 2021, 135 Stat. 2358, provided that: "Not later than one year afterthe date of the enactment of this Act \[Dec. 27, 2021\], the Secretary of State shall revise the Foreign Affairs Manual to stipulate that information on the current threat environment shall be provided to all United States Government employees under chief of mission authority traveling to a foreign country on official business. To the extent practicable, such material shall be provided to such employees prior to their arrival at a United States diplomatic post or as soon as possible thereafter."
+
 #### Direct Reporting
 
 Pub. L. 114–323, title I, §103, Dec. 16, 2016, 130 Stat. 1909, provided that: "The Assistant Secretary for Diplomatic Security shall report directly to the Secretary \[of State\], without being required to obtain the approval or concurrence of any other official of the Department \[of State\], as threats and circumstances require."
@@ -140,7 +144,7 @@ In General.—Pursuant to the responsibility of the Secretary \[of State\] for d
 
 "(b)
 
-Reporting Requirement.—Not later than 180 days after the date of the enactment of this Act \[Dec. 16, 2016\] and annually thereafter for 3 years, the Secretary, in consultation with the Secretary of Defense, shall submit to the Committee on Foreign Affairs, the Committee on Armed Services, and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations, the Committee on Armed Services, and the Committee on Appropriations of the Senate an unclassified report, with a classifiedannex as necessary, that addresses the requirements specified in subsection (a)."
+Reporting Requirement.—Not later than 180 days after the date of the enactment of this Act \[Dec. 16, 2016\] and annually thereafter for 3 years, the Secretary, in consultation with the Secretary of Defense, shall submit to the Committee on Foreign Affairs, the Committee on Armed Services, and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations, the Committee on Armed Services, and the Committee on Appropriations of the Senate an unclassified report, with a classified annex as necessary, that addresses the requirements specified in subsection (a)."
 
 #### Congressional Notification and Briefing Requirement on Ordered Evacuations of United States Embassies and Consulates Involving Support Provided by the Department of Defense
 

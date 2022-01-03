@@ -10,9 +10,11 @@ In order to foster the application of the most current developments in the etiol
 
 #### (c) Excellence in certain fields
 
-Research shall be carried out under awards made under subsection (b) in environments ofdemonstrated excellence in neuroscience, neurobiology, geriatric medicine, and psychiatry and shall foster innovation and integration of such disciplines or other environments determined suitable by the Director of the Institute.
+Research shall be carried out under awards made under subsection (b) in environments of demonstrated excellence in neuroscience, neurobiology, geriatric medicine, and psychiatry and shall foster innovation and integration of such disciplines or other environments determined suitable by the Director of the Institute.
 
 (July 1, 1944, ch. 373, title IV, §445I, as added Pub. L. 106–505, title VIII, §801(2), Nov. 13, 2000, 114 Stat. 2349; amended Pub. L. 109–482, title I, §103(b)(25), Jan. 15, 2007, 120 Stat. 3688.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -21,6 +23,8 @@ A prior section 445I of act July 1, 1944, was renumbered section 445J and was cl
 #### Amendments
 
 <b>2007</b>—Subsec. (d). Pub. L. 109–482 struck out heading and text of subsec. (d). Text read as follows: "For the purpose of carrying out this section, there are authorized to be appropriated $2,250,000 for fiscal year 2001, and such sums as may be necessary for each of fiscal years 2002 through 2005."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

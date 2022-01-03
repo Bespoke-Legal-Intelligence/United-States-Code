@@ -16,7 +16,7 @@ As used in this section—
 
 #### (b) Loans on stored grain; processors eligible
 
-To assist processors in obtaining a dependable supply of grain at reasonable prices, the Secretary may formulate and administer a program under which processors purchasing and storing grain needed by them for manufacturing into alcohol for use as a fuel may obtain a loan from the Secretary on such grain. Loans under this section may be made available only to processors that (1) operate small scale biomass energy projects financed in whole or in part by the United States Government or any agency thereof, and (2) as determined by the Secretary, are otherwise unable to obtain a dependable supply of grain at reasonable prices for use in such projects.
+To assist processors in obtaining a dependable supply of grain at reasonable prices, the Secretary may formulate and administer a program under which processors purchasing and storing grain needed by them for manufacturing into alcohol for use as a fuel may obtain a loan from the Secretary on such grain. Loans under this section may be made available only to processors that (1) operate small scale biomass energy projects financed in whole or in part by the United States Government or any agency thereof, and (2) as determined by the Secretary, are otherwise unable to obtain a dependable supplyof grain at reasonable prices for use in such projects.
 
 #### (c) Terms and conditions of processor grain reserve program and producer storage program
 
@@ -60,9 +60,13 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 (Pub. L. 96–494, title II, §209, Dec. 3, 1980, 94 Stat. 2575.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The producer storage program provided for under section 1445e of this title, referred to in subsec. (a)(4), refers to section 1445e prior to the general amendment of such section by Pub. L. 101–624, title XI, §1123, Nov. 28, 1990, 104 Stat. 3503. As amended, section 1445e now provides for a farmer owned reserve program.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -8,6 +8,8 @@
 
 (Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2858; amended Pub. L. 97–86, title IV, §405(b)(1), (4)(A), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 99–145, title V, §514(b)(1), (4)(A), Nov. 8, 1985, 99 Stat. 628; Pub. L. 116–283, div. A, title IX, §924(b)(3)(H), Jan. 1, 2021, 134 Stat. 3821.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Subsec. (b). Pub. L. 116–283 substituted "Marine Corps, or Space Force" for "or Marine Corps".
@@ -15,6 +17,8 @@
 <b>1985</b>—Pub. L. 99–145 substituted "rear admiral (lower half)" for "commodore" in section catchline and subsecs. (a) and (c).
 
 <b>1981</b>—Pub. L. 97–86 substituted "commodore" for "commodore admiral" in section catchline and subsecs. (a) and (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1981 Amendment
 

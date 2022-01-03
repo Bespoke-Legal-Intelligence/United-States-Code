@@ -26,7 +26,7 @@ The United States Anti-Doping Agency shall—
 
 &emsp;(3) implement anti-doping education, research, testing, and adjudication programs to prevent United States Amateur Athletes participating in any activity recognized by the United States Olympic Committee from using performance-enhancing drugs or prohibited performance-enhancing methods adopted by the Agency;
 
-&emsp;(4) serve as the United States representative responsible for coordination with other anti-doping organizations coordinating amateur athletic competitions recognized by the United States Olympic Committee to ensure the integrity of athletic competition, the health of the athletes, and the prevention of use by United States amateur athletes of performance-enhancing drugs or prohibited performance-enhancing methods adopted by the Agency.
+&emsp;(4) serve as the United States representative responsible for coordination with other anti-doping organizations coordinating amateur athletic competitions recognized by theUnited States Olympic Committee to ensure the integrity of athletic competition, the health of the athletes, and the prevention of use by United States amateur athletes of performance-enhancing drugs or prohibited performance-enhancing methods adopted by the Agency.
 
 (Pub. L. 109–469, title VII, §701, Dec. 29, 2006, 120 Stat. 3533; Pub. L. 113–280, §2, Dec. 18, 2014, 128 Stat. 3020.)
 

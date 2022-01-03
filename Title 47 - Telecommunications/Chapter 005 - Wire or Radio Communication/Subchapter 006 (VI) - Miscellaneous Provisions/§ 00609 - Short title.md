@@ -12,13 +12,17 @@ This chapter, referred to in text, was in the original "this Act", meaning act J
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Short Title of 2021 Amendment
+
+Pub. L. 117–58, div. F, title VI, §60601, Nov. 15, 2021, 135 Stat. 1246, provided that: "This title \[enacting and repealing section 344 of this title and enacting provisions set out as notes under section 344 of this title and section 3111 of Title 29, Labor\] may be cited as the 'Telecommunications Skilled Workforce Act'."
+
 #### Short Title of 2020 Amendment
 
 Pub. L. 116–260, div. FF, title IX, §902(a), Dec. 27, 2020, 134 Stat. 3206, provided that: "This section \[amending section 615a–1 of this title, repealing section 1413 of this title and enacting provisions set out as notes under section 615a–1 of this title\] may be cited as the 'Don't Break Up the T-Band Act of 2020'."
 
-Pub. L. 116–172, §1, Oct. 17, 2020, 134 Stat. 832, provided that: "This Act \[enacting section 251a of this title,amending section 251 of this title, and enacting provisions set out as notes under section 251 of this title\] may be cited as the 'National Suicide Hotline Designation Act of 2020'."
+Pub. L. 116–172, §1, Oct. 17, 2020, 134 Stat. 832, provided that: "This Act \[enacting section 251a of this title, amending section 251 of this title, and enacting provisions set out as notes under section 251 of this title\] may be cited as the 'National Suicide Hotline Designation Act of 2020'."
 
-Pub. L. 116–130, §1, Mar. 23, 2020, 134 Stat. 228, provided that: "This Act \[enacting subchapter VII of this chapter\] may be cited as the 'Broadband Deployment Accuracy and Technological Availability Act' or the 'Broadband DATA Act'."
+Pub. L. 116–130, §1, Mar. 23, 2020, 134 Stat. 228, provided that: "This Act \[enacting subchapter VII of this chapter\] may be cited as the 'Broadband DeploymentAccuracy and Technological Availability Act' or the 'Broadband DATA Act'."
 
 Pub. L. 116–109, §1, Jan. 24, 2020, 134 Stat. 3, provided that: "This Act \[enacting section 511 of this title\] may be cited as the 'Preventing Illegal Radio Abuse Through Enforcement Act' or the 'PIRATE Act'."
 
@@ -152,7 +156,7 @@ Pub. L. 97–410, §1, Jan. 3, 1983, 96 Stat. 2043, provided: "That this Act \[e
 
 #### Short Title of 1982 Amendment
 
-Pub. L. 97–259, title I, §101, Sept. 13, 1982, 96 Stat. 1087, provided that: "This title \[enacting sections 332 and 510 of this title, amending sections 153, 154, 155, 224, 301, 302a, 303, 304, 307, 309, 311, 312, 319, 402, 405, 408, 503, and 605 of this title and section 1114 of Title 18, Crimes andCriminal Procedure, and enacting provisions set out as a note under section 302a of this title\] may be cited as the 'Communications Amendments Act of 1982'."
+Pub. L. 97–259, title I, §101, Sept. 13, 1982, 96 Stat. 1087, provided that: "This title \[enacting sections 332 and 510 of this title, amending sections 153, 154, 155, 224, 301, 302a, 303, 304, 307, 309, 311, 312, 319, 402, 405, 408, 503, and 605 of this title and section 1114 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as a note under section 302a of this title\] may be cited as the 'Communications Amendments Act of 1982'."
 
 #### Short Title of 1981 Amendments
 

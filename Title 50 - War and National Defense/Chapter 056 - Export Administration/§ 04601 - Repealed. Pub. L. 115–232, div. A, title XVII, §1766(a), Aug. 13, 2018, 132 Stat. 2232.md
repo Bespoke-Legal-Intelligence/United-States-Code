@@ -1,10 +1,12 @@
 ### §4601. Repealed. Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232
 
-Section, Pub. L. 96–72, §2, Sept. 29, 1979, 93 Stat. 503; Pub. L. 99–64, title I, §102, July 12, 1985, 99 Stat. 120;Pub. L. 103–199, title II, §201(a), Dec. 17, 1993, 107 Stat. 2320, set forth Congressional findings with respect to the Export Administration Act of 1979.
+Section, Pub. L. 96–72, §2, Sept. 29, 1979, 93 Stat. 503; Pub. L. 99–64, title I, §102, July 12, 1985, 99 Stat. 120; Pub. L. 103–199, title II, §201(a), Dec. 17, 1993, 107 Stat. 2320, set forth Congressional findings with respect to the Export Administration Act of 1979.
 
 Section was formerly classified to section 2401 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 
 A prior section 2401 of the former Appendix to this title, Pub. L. 91–184, §2, Dec. 30, 1969, 83 Stat. 841; Pub. L. 92–412, title I, §102, Aug. 29, 1972, 86 Stat. 644; Pub. L. 93–500, §4(a), Oct. 29, 1974, 88 Stat. 1553, set forth findings of Congress with respect to the Export Administration Act of 1969, prior to the expiration of Pub. L. 91–184 on Sept. 30, 1979.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 1985 Amendment
 
@@ -24,7 +26,7 @@ Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232,
 
 #### Implementation of Repeal
 
-Pub. L. 115–232, div. A, title XVII, §1766(b), Aug. 13, 2018, 132 Stat. 2232, provided that: "The President shall implement the amendment made by subsection (a) \[repealing sections 4601 to 4610 and 4614 to 4623 of this title, enacting provisions set out as notes under this section, and repealing provisions set out as notes under this section and sections 4606 and 4609 of this title and section 3108 of Title 22, Foreign Relations and Intercourse\] by exercising the authorities of the President under the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)."
+Pub. L. 115–232, div. A, title XVII, §1766(b), Aug. 13, 2018, 132 Stat. 2232, provided that: "The President shallimplement the amendment made by subsection (a) \[repealing sections 4601 to 4610 and 4614 to 4623 of this title, enacting provisions set out as notes under this section, and repealing provisions set out as notes under this section and sections 4606 and 4609 of this title and section 3108 of Title 22, Foreign Relations and Intercourse\] by exercising the authorities of the President under the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)."
 
 #### Transition Provisions
 
@@ -33,6 +35,8 @@ For provisions relating to continuation in effect of delegations, rules, regulat
 #### Director of National Intelligence Support for Reviews of International Traffic in Arms Regulations and Export Administration Regulations
 
 Pub. L. 111–259, title IV, §415, Oct. 7, 2010, 124 Stat. 2727, provided that: "The Director of National Intelligence may provide support for any review conducted by a department or agency of the United States Government of the International Traffic in Arms Regulations or Export Administration Regulations, including a review of technologies and goods on the United States Munitions List and Commerce Control List that may warrant controls that are different or additional to the controls such technologies and goods are subject to at the time of such review."
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 12131. President's Export Council
 
@@ -124,7 +128,7 @@ Administrative Provisions
 
 General Provisions
 
-1–401. Notwithstanding the provisions of any other Executive order, the functions of the President under the Federal Advisory Committee Act (5 U.S.C. App.), except that of reporting annually to the Congress, which are applicable to the Council, shall be performed by the Secretary of Commerce in accordance with guidelines and procedures established by the Administrator of General Services.
+1–401. Notwithstanding the provisions of any other Executive order, the functions of the President under the Federal Advisory Committee Act (5 U.S.C. App.), except that of reporting annually to the Congress,which are applicable to the Council, shall be performed by the Secretary of Commerce in accordance with guidelines and procedures established by the Administrator of General Services.
 
 1–402. Executive Order No. 11753 is revoked; however, nothing in this Order shall be deemed to require new charters for the Council, including its executive and subordinate committees, which were current immediately prior to the issuance of this Order.
 
@@ -134,9 +138,11 @@ General Provisions
 
 #### Extension of Term of President's Export Council
 
-Term of President's Export Council extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President's Export Council extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Previous extensions of term of President's Export Council were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, extended term until Sept. 30, 2021.
 
 Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, extended term until Sept. 30, 2019.
 

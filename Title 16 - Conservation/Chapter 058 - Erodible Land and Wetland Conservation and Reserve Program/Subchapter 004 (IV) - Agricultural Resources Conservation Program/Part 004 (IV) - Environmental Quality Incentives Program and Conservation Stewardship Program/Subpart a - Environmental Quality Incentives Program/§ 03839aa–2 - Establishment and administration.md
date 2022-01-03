@@ -40,7 +40,7 @@ If the Secretary determines that the environmental values of two or more applica
 
 #### (3) Special rule involving payments for foregone income
 
-&emsp;In determining the amount and rate of payments under paragraph (2)(B), the Secretarymay accord great significance to a practice that, as determined by the Secretary, promotes—
+&emsp;In determining the amount and rate of payments under paragraph (2)(B), the Secretary may accord great significance to a practice that, as determined by the Secretary, promotes—
 
 &emsp;&emsp;(A) soil health;
 
@@ -164,7 +164,7 @@ If the Secretary determines that the environmental values of two or more applica
 
 #### (3) Maximum term
 
-&emsp;In the case of a contract under the program entered into solely for the establishment of 1 or more annual management practices for the benefit of wildlife as described in paragraph (1), notwithstanding any maximum contract term established by the Secretary, the contract shall have a term that does not exceed 10 years.
+&emsp;In the case of a contract under the program entered into solely for the establishment of 1or more annual management practices for the benefit of wildlife as described in paragraph (1), notwithstanding any maximum contract term established by the Secretary, the contract shall have a term that does not exceed 10 years.
 
 #### (4) Included practices
 
@@ -258,7 +258,7 @@ If the Secretary determines that the environmental values of two or more applica
 
 #### (B) Technical assistance
 
-&emsp;&emsp;In applying the limitations under subparagraph (A), the Secretary shall not take into account payments received for technical assistance.
+&emsp;&emsp;In applying the limitations under subparagraph (A), the Secretary shall not take intoaccount payments received for technical assistance.
 
 #### (4) Exclusion of certain organic certification costs
 
@@ -348,7 +348,9 @@ If the Secretary determines that the environmental values of two or more applica
 
 &emsp;&emsp;&emsp;(ii) in the case of practice payments under paragraph (2)(A)(ii)(II), make those payments as soon as practicable on the implementation of an incentive practice.
 
-(Pub. L. 99–198, title XII, §1240B, as added Pub. L. 107–171, title II, §2301, May 13, 2002, 116 Stat. 254; amended Pub. L. 108–447, div. A, title VII, §794(a), Dec. 8, 2004, 118 Stat. 2852; Pub. L. 109–171, title I, §1203(a), Feb. 8, 2006, 120 Stat. 6; Pub. L. 110–234, title II, §2503, May 22, 2008, 122 Stat. 1059; Pub. L. 110–246, §4(a), title II, §2503, June 18, 2008, 122 Stat. 1664, 1787; Pub. L. 112–55, div. A, title VII, §716(c), Nov. 18, 2011, 125 Stat. 582; Pub. L. 113–76, div. A, title VII, §750(a), Jan. 17, 2014, 128 Stat. 42; Pub. L. 113–79, title II, §2203, Feb. 7, 2014, 128 Stat. 729; Pub. L. 115–123, div. F, §60102(a), Feb. 9, 2018, 132 Stat. 312; Pub. L. 115–334, title II, §§2301(d)(1)(F), 2304, Dec. 20, 2018, 132 Stat. 4554, 4556.)
+(Pub. L. 99–198, title XII, §1240B, as added Pub. L. 107–171, title II, §2301, May 13, 2002, 116 Stat. 254; amended Pub. L. 108–447, div. A, title VII, §794(a), Dec. 8, 2004, 118 Stat. 2852; Pub. L. 109–171, title I, §1203(a), Feb. 8, 2006, 120 Stat. 6; Pub. L. 110–234, title II, §2503, May 22, 2008, 122 Stat. 1059; Pub. L. 110–246, §4(a), title II, §2503, June 18, 2008, 122 Stat. 1664, 1787; Pub. L. 112–55, div. A, title VII, §716(c), Nov. 18, 2011, 125 Stat. 582; Pub. L. 113–76, div. A, title VII, §750(a), Jan. 17, 2014, 128 Stat. 42; Pub. L. 113–79, title II, §2203, Feb. 7, 2014, 128 Stat. 729; Pub. L. 115–123, div. F,§60102(a), Feb. 9, 2018, 132 Stat. 312; Pub. L. 115–334, title II, §§2301(d)(1)(F), 2304, Dec. 20, 2018, 132 Stat. 4554, 4556.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -436,11 +438,13 @@ Subsec. (g). Pub. L. 113–79, §2203(5), added subsec. (g) and struck out forme
 
 <b>2011</b>—Subsec. (a). Pub. L. 112–55 substituted "2014" for "2012".
 
-<b>2008</b>—Pub. L. 110–246, §2503, amended section generally. Prior to amendment, section consisted of subsecs. (a) to (h) relating to provision of cost-share payments and incentive payments, application and term of a contract, bidding down, payment amounts, incentive payments, modification or termination of contracts, allocation of funding for fiscal years 2002 through 2007, and funding for federally recognized Native American Indian Tribes and Alaska Native Corporations.
+<b>2008</b>—Pub. L. 110–246, §2503, amended section generally. Prior to amendment, section consisted of subsecs. (a) to (h) relating to provision of cost-share payments and incentive payments, application and term of a contract, bidding down, payment amounts, incentivepayments, modification or termination of contracts, allocation of funding for fiscal years 2002 through 2007, and funding for federally recognized Native American Indian Tribes and Alaska Native Corporations.
 
 <b>2006</b>—Subsec. (a)(1). Pub. L. 109–171 substituted "2010" for "2007".
 
 <b>2004</b>—Subsec. (h). Pub. L. 108–447 added subsec. (h).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

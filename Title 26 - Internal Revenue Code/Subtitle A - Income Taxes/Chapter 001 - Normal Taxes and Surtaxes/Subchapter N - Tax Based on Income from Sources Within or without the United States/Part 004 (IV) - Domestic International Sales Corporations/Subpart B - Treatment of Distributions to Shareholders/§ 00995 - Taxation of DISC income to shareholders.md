@@ -26,7 +26,7 @@ A shareholder of a DISC or former DISC shall be subject to taxation on the earni
 
 &emsp;&emsp;&emsp;(ii) an amount equal to 16/17 of the excess referred to in clause (i), multiplied by the international boycott factor determined under section 999, and
 
-&emsp;&emsp;&emsp;(iii) any illegal bribe, kickback, or other payment (within the meaning of section 162(c)) paid by or on behalf of the DISC directly or indirectly to an official, employee, or agent in fact of a government, and
+&emsp;&emsp;&emsp;(iii) any illegal bribe, kickback, or other payment (within the meaning of section162(c)) paid by or on behalf of the DISC directly or indirectly to an official, employee, or agent in fact of a government, and
 
 &emsp;&emsp;(G) the amount of foreign investment attributable to producer's loans (as defined in subsection (d)) of a DISC for the taxable year.
 
@@ -234,7 +234,7 @@ If—
 
 #### (g) Treatment of tax-exempt shareholders
 
-If any organization described in subsection (a)(2) or (b)(2) of section 511 (or any other personotherwise subject to tax under section 511) is a shareholder in a DISC—
+If any organization described in subsection (a)(2) or (b)(2) of section 511 (or any other person otherwise subject to tax under section 511) is a shareholder in a DISC—
 
 &emsp;(1) any amount deemed distributed to such shareholder under subsection (b),
 
@@ -245,6 +245,8 @@ If any organization described in subsection (a)(2) or (b)(2) of section 511 (or 
 > shall be treated as derived from the conduct of an unrelated trade or business (and the modifications of section 512(b) shall not apply). The rules of the preceding sentence shall apply also for purposes of determining any such shareholder's DISC-related deferred tax liability under subsection (f).
 
 (Added Pub. L. 92–178, title V, §501, Dec. 10, 1971, 85 Stat. 544; amended Pub. L. 94–455, title X, §§1063, 1065(a)(2), title XI, §1101(a), (d)(1), title XIX, §§1901(b)(3)(K), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1650, 1654, 1655, 1658, 1793, 1834; Pub. L. 95–600, title VII, §§701(u)(12)(B), 703(i)(1), (2), Nov. 6, 1978, 92 Stat. 2918, 2940; Pub. L. 98–369, div. A, title I, §68(d), title VIII, §802(a), (b), July 18, 1984, 98 Stat. 588, 997, 999; Pub. L. 99–514, title XVIII, §1876(b)(2), (g), (p)(1), Oct. 22, 1986, 100 Stat. 2898, 2900, 2902; Pub. L. 100–647, title I, §§1006(e)(15), 1012(bb)(6)(A), Nov. 10, 1988, 102 Stat. 3402, 3535; Pub. L. 101–239, title VII, §7811(i)(12), Dec. 19, 1989, 103 Stat. 2411; Pub. L. 106–170, title V, §532(c)(2)(R), Dec. 17, 1999, 113 Stat. 1931; Pub. L. 106–554, §1(a)(7) \[title III, §§307(c), 319(12)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–636, 2763A–646; Pub. L. 107–147, title IV, §417(15), Mar. 9, 2002, 116 Stat. 56.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -308,13 +310,15 @@ Subsec. (d)(5). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate"
 
 Subsecs. (e) to (g). Pub. L. 94–455, §1101(a)(4), added subsecs. (e) to (g).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1999 Amendment
 
 Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or entered into, any transaction entered into, and supplies held or acquired on or after Dec. 17, 1999, see section 532(d) of Pub. L. 106–170, set out as a note under section 170 of this title.
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision ofthe Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 

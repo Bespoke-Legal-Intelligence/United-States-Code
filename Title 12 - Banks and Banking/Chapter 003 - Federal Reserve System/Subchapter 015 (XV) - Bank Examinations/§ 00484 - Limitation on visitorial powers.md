@@ -18,7 +18,7 @@ Section 412 of Pub. L. 97–320, set out in the credit of this section, was amen
 
 #### Amendments
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–320, as amended by Pub. L. 97–457, designated existing provisions as subsec. (a), and amended subsec. (a) generally. Prior to amendmentsubsec. (a) read as follows: "No bank shall be subject to any visitorial powers other than such as are authorized by law, or vested in the courts of justice or such as shall be or shall have been exercised or directed by Congress, or by either House thereof or by any committee of Congress or of either House duly authorized".
+<b>1982</b>—Subsec. (a). Pub. L. 97–320, as amended by Pub. L. 97–457, designated existing provisions as subsec. (a), and amended subsec. (a) generally. Prior to amendment subsec. (a) read as follows: "No bank shall be subject to any visitorial powers other than such as are authorized by law, or vested in the courts of justice or such as shall be or shall have been exercised or directed by Congress, or by either House thereof or by any committee of Congress or of either House duly authorized".
 
 Subsec. (b). Pub. L. 97–320, as amended by Pub. L. 97–457, added subsec. (b).
 

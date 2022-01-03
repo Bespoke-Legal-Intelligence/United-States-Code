@@ -140,11 +140,13 @@ Notwithstanding the preceding provisions of this section, amounts collected by a
 
 &emsp;(2) shall be paid to the public agency responsible for supervising the placement of the child to the extent that the amounts collected exceed the foster care maintenance payments made with respect to the child during such period but not the amounts required by a court or administrative order to be paid as support on behalf of the child during such period; and the responsible agency may use the payments in the manner it determines will serve the best interests of the child, including setting such payments aside for the child's future needs or making all or a part thereof available to the person responsible for meeting the child's day-to-day needs; and
 
-&emsp;(3) shall be retained by the State, if any portion of the amounts collected remains aftermaking the payments required under paragraphs (1) and (2), to the extent that such portion is necessary to reimburse the State (with appropriate reimbursement to the Federal Government to the extent of its participation in the financing) for any past foster care maintenance payments (or payments of assistance under the State program funded under part A) which were made with respect to the child (and with respect to which past collections have not previously been retained);
+&emsp;(3) shall be retained by the State, if any portion of the amounts collected remains after making the payments required under paragraphs (1) and (2), to the extent that such portion is necessary to reimburse the State (with appropriate reimbursement to the Federal Government to the extent of its participation in the financing) for any past foster care maintenance payments (or payments of assistance under the State program funded under part A) which were made with respect to the child (and with respect to which past collections have not previously been retained);
 
 > and any balance shall be paid to the State agency responsible for supervising the placement of the child, for use by such agency in accordance with paragraph (2).
 
 (Aug. 14, 1935, ch. 531, title IV, §457, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2356; amended Pub. L. 95–171, §11, Nov. 12, 1977, 91 Stat. 1357; Pub. L. 97–35, title XXIII, §2332(e), Aug. 13, 1981, 95 Stat. 862; Pub. L. 98–369, div. B, title VI, §2640(b), July 18, 1984, 98 Stat. 1145; Pub. L. 98–378, §§7(a), 11(a), Aug. 16, 1984, 98 Stat. 1315, 1317; Pub. L. 99–514, title XVIII, §§1883(b)(6), 1899(a), Oct. 22, 1986, 100 Stat. 2917, 2957; Pub. L. 100–203, title IX, §9141(a)(1), Dec. 22, 1987, 101 Stat. 1330–321; Pub. L. 100–485, title I, §102(b), Oct. 13, 1988, 102 Stat. 2346; Pub. L. 104–193, title III, §302(a), Aug. 22, 1996, 110 Stat. 2200; Pub. L. 105–33, title V, §§5532(a), (b)(1), (c)–(h), 5547, Aug. 5, 1997, 111 Stat. 626, 627, 632; Pub. L. 106–169, title III, §301(a), (c), title IV, §401(j), (k), Dec. 14, 1999, 113 Stat. 1857, 1858; Pub. L. 109–171, title VII, §§7301(b)(1)(A), (B)(i), (iii), (2), (c), 7310(b), Feb. 8, 2006, 120 Stat. 141–143, 147.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -245,6 +247,8 @@ Subsec. (d). Pub. L. 98–378, §11(a)(1), added subsec. (d).
 Subsec. (c). Pub. L. 97–35, §2332(e)(2), substituted in provision preceding par. (1) "whom support payments" for "whom child support payments" and in pars. (1) and (2) "amounts of support payments" for "amounts of child support payments" in two places and "amounts of support so" for "amounts of child support so".
 
 <b>1977</b>—Subsec. (c). Pub. L. 95–171, §11(a)–(c), in par. (1), substituted "amounts of child support payments which represent monthly support payments" for "such support payments" and inserted ", which represent monthly support payments," after "amounts so collected"; in par. (2), substituted "amounts of child support payments which represent monthly support payments" for "such support payments" and inserted ", which represents monthly support payments," after "amount so collected"; changed to a comma the period at end of par. (2); and inserted provision for distribution of child support proceeds.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

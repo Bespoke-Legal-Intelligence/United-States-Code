@@ -30,11 +30,11 @@
 
 #### (b) Submission of application
 
-If the President recommends to the Congress the Yucca Mountain site under subsection (a) and the site designation is permitted to take effect under section 10135 of this title, the Secretary shall submit to the Commission an application for a construction authorization for a repository at such site not later than 90 days afterthe date on which the recommendation of the site designation is effective under such section and shall provide to the Governor and legislature of the State of Nevada a copy of such application.
+If the President recommends to the Congress the Yucca Mountain site under subsection (a) and the site designation is permitted to take effect under section 10135 of this title, the Secretary shall submit to the Commission an application for a construction authorization for a repository at such site not later than 90 days after the date on which the recommendation of the site designation is effective under such section and shall provide to the Governor and legislature of the State of Nevada a copy of such application.
 
 #### (c) Status report on application
 
-Not later than 1 year after the date on which an application for a construction authorization is submitted under subsection (b), and annually thereafter until the date on which such authorization is granted, the Commission shall submit a report to the Congress describing the proceedings undertaken through the date of such report with regard to such application, including a description of—
+Not later than 1 year after the date on which an application for a construction authorizationis submitted under subsection (b), and annually thereafter until the date on which such authorization is granted, the Commission shall submit a report to the Congress describing the proceedings undertaken through the date of such report with regard to such application, including a description of—
 
 &emsp;(1) any major unresolved safety issues, and the explanation of the Secretary with respect to design and operation plans for resolving such issues;
 
@@ -68,6 +68,8 @@ The Commission shall consider an application for a construction authorization fo
 
 (Pub. L. 97–425, title I, §114, Jan. 7, 1983, 96 Stat. 2213; Pub. L. 100–202, §101(d) \[title III, §300\], Dec. 22, 1987, 101 Stat. 1329–104, 1329–121; Pub. L. 100–203, title V, §5011(h)–(l), Dec. 22, 1987, 101 Stat. 1330–229, 1330–230.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The National Environmental Policy Act of 1969, referred to in subsecs. (a)(1)(D) and (f), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
@@ -95,6 +97,8 @@ Subsec. (d). Pub. L. 100–202 and Pub. L. 100–203, §5011(j), amended subsec.
 Subsec. (e)(1). Pub. L. 100–202 and Pub. L. 100–203, §5011(k), amended par. (1) identically, substituting "operation of the repository" for "operation of the repository involved".
 
 Subsec. (f). Pub. L. 100–202 and Pub. L. 100–203, §5011(l), generally amended subsec. (f) identically, substituting provisions consisting of pars. (1) to (6) for former provisions consisting of single unnumbered par.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Reporting Requirements
 

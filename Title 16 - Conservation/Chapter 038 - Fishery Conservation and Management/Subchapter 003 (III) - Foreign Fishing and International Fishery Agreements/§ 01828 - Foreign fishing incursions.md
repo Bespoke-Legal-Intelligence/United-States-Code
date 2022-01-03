@@ -18,9 +18,13 @@ The Secretary shall provide biannual reports updating the Coast Guard's progress
 
 (Pub. L. 109–241, title VIII, §804, July 11, 2006, 120 Stat. 563.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Coast Guard and Maritime Transportation Act of 2006, and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Combination of Fisheries Enforcement Plans and Foreign Fishing Incursion Reports
 

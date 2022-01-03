@@ -30,7 +30,7 @@ For purposes of section 300bb–1 of this title, the term "continuation coverage
 
 #### (v) Medicare entitlement followed by qualifying event
 
-&emsp;&emsp;&emsp;In the case of a qualifying event described in section 300bb–3(2) of this title that occurs less than 18 months after the date the covered employee became entitled to benefits under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\], the period of coverage for qualified beneficiaries other than the covered employeeshall not terminate under this subparagraph before the close of the 36-month period beginning on the date the covered employee became so entitled.
+&emsp;&emsp;&emsp;In the case of a qualifying event described in section 300bb–3(2) of this title that occurs less than 18 months after the date the covered employee became entitled to benefits under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\], the period of coverage for qualified beneficiaries other than the covered employee shall not terminate under this subparagraph before the close of the 36-month period beginning on the date the covered employee became so entitled.
 
 #### (vi) Special rule for disability
 
@@ -48,7 +48,7 @@ For purposes of section 300bb–1 of this title, the term "continuation coverage
 
 &emsp;&emsp;The date on which the qualified beneficiary first becomes, after the date of the election—
 
-&emsp;&emsp;&emsp;(i) covered under any other group health plan (as an employee or otherwise) which does not contain any exclusion or limitation with respect to any preexisting condition of such beneficiary (other than such an exclusion or limitation which does not apply to (or is satisfied by) such beneficiary by reason of chapter 100 of title 26, part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1181 et seq.\], or subchapter XXV of this chapter), or
+&emsp;&emsp;&emsp;(i) covered under any other group health plan (as an employee or otherwise) whichdoes not contain any exclusion or limitation with respect to any preexisting condition of such beneficiary (other than such an exclusion or limitation which does not apply to (or is satisfied by) such beneficiary by reason of chapter 100 of title 26, part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1181 et seq.\], or subchapter XXV of this chapter), or
 
 &emsp;&emsp;&emsp;(ii) entitled to benefits under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\].
 
@@ -75,6 +75,8 @@ For purposes of section 300bb–1 of this title, the term "continuation coverage
 &emsp;In the case of a qualified beneficiary whose period of continuation coverage expires under paragraph (2)(A), the plan must, during the 180-day period ending on such expiration date, provide to the qualified beneficiary the option of enrollment under a conversion health plan otherwise generally available under the plan.
 
 (July 1, 1944, ch. 373, title XXII, §2202, as added Pub. L. 99–272, title X, §10003(a), Apr. 7, 1986, 100 Stat. 233; amended Pub. L. 99–514, title XVIII, §1895(d)(1)(C), (2)(C), (3)(C), (4)(C), Oct. 22, 1986, 100 Stat. 2937–2939; Pub. L. 101–239, title VI, §§6702(a), (b), 6801(b)(1)(A), (2)(A), (3)(A), Dec. 19, 1989, 103 Stat. 2295, 2297; Pub. L. 104–188, title I, §1704(g)(1)(C), Aug. 20, 1996, 110 Stat. 1880; Pub. L. 104–191, title IV, §421(a)(1), Aug. 21, 1996, 110 Stat. 2087; Pub. L. 111–5, div. B, title I, §1899F(c), Feb. 17, 2009, 123 Stat. 429; Pub. L. 111–344, title I, §116(c), Dec. 29, 2010, 124 Stat. 3616; Pub. L. 112–40, title II, §243(a)(5), Oct. 21, 2011, 125 Stat. 420.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -133,6 +135,8 @@ Par. (2)(C). Pub. L. 99–514, §1895(d)(3)(C), inserted at end "The payment of 
 Par. (2)(D). Pub. L. 99–514, §1895(d)(4)(C)(ii), (iii), substituted "Group health plan coverage" for "Reemployment" in heading, added cl. (i), and struck out former cl. (i) which read as follows: "a covered employee under any other group health plan, or".
 
 Par. (2)(E). Pub. L. 99–514, §1895(d)(4)(C)(i), struck out subpar. (E), remarriage of spouse, which read as follows: "In the case of an individual who is a qualified beneficiary by reason of being the spouse of a covered employee, the date on which the beneficiary remarries and becomes covered under a group health plan."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 

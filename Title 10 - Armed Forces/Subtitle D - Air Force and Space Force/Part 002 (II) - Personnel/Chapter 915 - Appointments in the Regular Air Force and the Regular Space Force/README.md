@@ -7,9 +7,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>2021</b>—Pub. L. 116–283, div. A, title IX, §923(c)(3)(B), Jan. 1, 2021, 134 Stat. 3810, substituted "APPOINTMENTS IN THE REGULAR AIR FORCE AND THE REGULAR SPACE FORCE" for "APPOINTMENTS IN THE REGULAR AIR FORCE" in chapter heading.
+<b>2021</b>—Pub. L. 116–283, div. A, title IX, §923(c)(3)(B), Jan. 1, 2021, 134 Stat. 3810, substituted "APPOINTMENTS IN THE REGULAR AIR FORCE AND THEREGULAR SPACE FORCE" for "APPOINTMENTS IN THE REGULAR AIR FORCE" in chapter heading.
 
 <b>2018</b>—Pub. L. 115–232, div. A, title VIII, §806(d)(3)(A), (e)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 835 of this title as this chapter and items 8281 and 8310 as 9151 and 9160, respectively.
 

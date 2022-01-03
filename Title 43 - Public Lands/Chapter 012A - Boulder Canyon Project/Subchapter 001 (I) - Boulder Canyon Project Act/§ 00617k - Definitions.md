@@ -1,6 +1,6 @@
 ### §617k. Definitions
 
-"Political subdivision" or "political subdivisions" as used in this subchapter shall be understood to include any State, irrigation or other district, municipality, or other governmental organization.
+"Political subdivision" or "political subdivisions" as used in this subchapter shall be understood to include any State, irrigation or otherdistrict, municipality, or other governmental organization.
 
 "Reclamation law" as used in this subchapter shall be understood to mean that certain Act of Congress of the United States approved June 17, 1902, and the Acts amendatory thereof and supplemental thereto.
 

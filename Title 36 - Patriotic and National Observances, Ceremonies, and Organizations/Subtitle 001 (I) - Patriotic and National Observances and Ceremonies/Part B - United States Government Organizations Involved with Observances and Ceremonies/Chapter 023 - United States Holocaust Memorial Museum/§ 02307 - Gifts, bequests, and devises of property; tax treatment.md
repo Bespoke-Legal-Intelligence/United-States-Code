@@ -8,5 +8,5 @@ The Museum may solicit, and the Museum may accept, hold, administer, invest, and
 
 #### Prior Provisions
 
-A prior section 2307, Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1279, provided for administrative provisions, priorto the general amendment of this chapter by Pub. L. 106–292.
+A prior section 2307, Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1279, provided for administrative provisions, prior to the general amendment of this chapter by Pub. L. 106–292.
 

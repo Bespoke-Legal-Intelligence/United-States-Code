@@ -2,7 +2,7 @@
 
 (a)
 
-Same Powers and Restrictions Under Other Laws.—To ensure that the Metropolitan Washington Airports Authority has the same proprietary powers and is subject to the same restrictions under United States law as any other airport except as otherwise provided in this chapter, during the period that the lease authorized by section 6005 of the MetropolitanWashington Airports Act of 1986 (Public Law 99–500; 100 Stat. 1783–375; Public Law 99–591; 100 Stat. 3341–378) is in effect—
+Same Powers and Restrictions Under Other Laws.—To ensure that the Metropolitan Washington Airports Authority has the same proprietary powers and is subject to the same restrictions under United States law as any other airport except as otherwise provided in this chapter, during the period that the lease authorized by section 6005 of the Metropolitan Washington Airports Act of 1986 (Public Law 99–500; 100 Stat. 1783–375; Public Law 99–591; 100 Stat. 3341–378) is in effect—
 
 &emsp;(1) the Metropolitan Washington Airports are deemed to be public airports for purposes of chapter 471 of this title; and
 
@@ -102,11 +102,13 @@ In subsection (a)(1), the word "deemed" is substituted for "considered" for cons
 
 In subsection (e), the text of section 6009(e)(2) of the Metropolitan Washington Airports Act of 1986 (Public Law 99–500, 100 Stat. 1783–385, Public Law 99–591, 100 Stat. 3341–388) is omitted as executed.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 6005 of the Metropolitan Washington Airports Act of 1986, referred to in subsec. (a), is section 6005 of Pub. L. 99–500, title VI, Oct. 18, 1986, 100 Stat. 1783–375, and Pub. L. 99–591, title VI, Oct. 30, 1986, 100 Stat. 3341–378, which was classified to section 2454 of former Title 49, Transportation, and was repealed and reenacted as this section by Pub. L. 105–102, §§2(26), 5(b), Nov. 20, 1997, 111 Stat. 2205, 2217.
 
-Act of June 29, 1940, ch. 444, 54 Stat. 686, referred to in subsec. (a)(2), was classified to subchapter I (§2401 et seq.) of chapter 33 of former Title 49, Transportation, and was omitted from the Code when subtitles II, III, and V to X of Title 49, Transportation, were enacted by Pub. L. 103–272, July 5, 1994, 108 Stat. 745.
+Act of June 29, 1940, ch. 444, 54 Stat. 686, referred to in subsec. (a)(2), was classified to subchapter I (§2401 et seq.) of chapter 33 of former Title 49, Transportation, and was omitted from the Code when subtitles II, III,and V to X of Title 49, Transportation, were enacted by Pub. L. 103–272, July 5, 1994, 108 Stat. 745.
 
 The First Supplemental Civil Functions Appropriations Act, 1941, referred to in subsec. (a)(2), is act Oct. 9, 1940, ch. 780, 54 Stat. 1030. For complete classification of this Act to the Code, see Tables.
 
@@ -121,6 +123,8 @@ Act of September 7, 1950, ch. 905, 64 Stat. 770, referred to in subsec. (a)(2), 
 <b>1998</b>—Subsec. (b). Pub. L. 105–225 substituted "retention by" for "retention of".
 
 Subsecs. (c), (d)(2)(B), (e). Pub. L. 105–154 substituted "Ronald Reagan Washington National Airport" for "Washington National Airport".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

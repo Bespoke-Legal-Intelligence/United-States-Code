@@ -20,7 +20,7 @@
 
 &emsp;(7) with a view to prosecuting persons, take steps to discover fraud and attempted fraud involving receipts and decide on ways to prevent and detect fraud;
 
-&emsp;(8) maintain separate accounts of taxes received in each State, territory, and possession of the United States, and collection district, with each account listing—
+&emsp;(8) maintain separate accounts of taxes received in each State, territory, and possessionof the United States, and collection district, with each account listing—
 
 &emsp;&emsp;(A) each kind of tax;
 
@@ -190,7 +190,7 @@ In subsection (a)(3), the word "issue" is substituted for "shall grant" for cons
 
 Subsection (a)(4) is included to reflect all the major duties of the Secretary of the Treasury. See chapter 51 of the revised title.
 
-In subsection (a)(5), before subclause (A), the words "prescribe regulations" are substituted for "make and issue from time to time such instructions and regulations" for consistency in the revised title and to eliminate unnecessary words. The words "applicable to anyone" are substituted for "to the several collectors, receivers, depositaries, officers, and others" for clarity and to eliminate unnecessary words. In subclause (A),the words "for the Government" are inserted because section 8 of the Act of June 30, 1864 (ch. 172, 13 Stat. 221), from which section 251 of the Revised Statutes is derived, used the phrase "in behalf of the United States". In subclause (B), the words "those notes and securities" are substituted for "the same" for clarity.
+In subsection (a)(5), before subclause (A), the words "prescribe regulations" are substituted for "make and issue from time to time such instructions and regulations" for consistency in the revised title and to eliminate unnecessary words. The words "applicable to anyone" are substituted for "to the several collectors, receivers, depositaries, officers, and others" for clarity and to eliminate unnecessary words. In subclause (A), the words "for the Government" are inserted because section 8 of the Act of June 30, 1864 (ch. 172, 13 Stat. 221), from which section 251 of the Revised Statutes is derived, used the phrase "in behalf of the United States". In subclause (B), the words "those notes and securities" are substituted for "the same" for clarity.
 
 In subsection (a)(6), the word "collect" is substituted for "superintend the collection" because of the source provisions restated in section 321(c) of the revised title. The word "receipts" is substituted for "revenue" for consistency in the revised title.
 
@@ -218,7 +218,7 @@ In subsection (b)(6), the word "buy" is substituted for "make expenditures" for 
 
 Subsec. (c). Pub. L. 111–203, §378(1)(A), inserted "and" at end of par. (1), substituted period for "; and" at end of par. (2), and struck out par. (3) which read as follows: "of the Director of the Office of Thrift Supervision;".
 
-Subsec. (e). Pub. L. 111–203, §378(1)(B), struck out subsec. (e). Text read as follows: "The Secretary of the Treasury may not merge or consolidate the Office of Thrift Supervision, or any of the functions or responsibilities of the Office or the Director of such office, with the Office of the Comptroller of the Currency or the Comptroller of the Currency."
+Subsec. (e). Pub. L. 111–203, §378(1)(B), struck out subsec. (e). Text read as follows: "The Secretary of theTreasury may not merge or consolidate the Office of Thrift Supervision, or any of the functions or responsibilities of the Office or the Director of such office, with the Office of the Comptroller of the Currency or the Comptroller of the Currency."
 
 <b>1995</b>—Subsec. (b)(7). Pub. L. 104–66 added par. (7).
 

@@ -46,7 +46,7 @@
 
 &emsp;&emsp;(I) performance of the contract is in the best interests of the United States; or
 
-&emsp;&emsp;(II) urgent and compelling circumstances that significantly affect interests of the United States will not permit waiting forthe decision of the Comptroller General concerning the protest; and
+&emsp;&emsp;(II) urgent and compelling circumstances that significantly affect interests of the United States will not permit waiting for the decision of the Comptroller General concerning the protest; and
 
 &emsp;(ii) after the Comptroller General is notified of that finding.
 
@@ -56,7 +56,7 @@
 
 &emsp;(ii) the date that is 5 days after the debriefing date offered to an unsuccessful offeror for any debriefing that is requested and, when requested, is required.
 
-(B) For procurements conducted by any component of the Department of Defense, the 5-day period described in subparagraph (A)(ii) does not commence until the day the Government delivers to a disappointed offeror the written responses to any questions submitted pursuant to section 2305(b)(5)(B)(vii) of title 10.
+(B) For procurements conducted by any component of the Department of Defense, the 5-day period described in subparagraph (A)(ii) does not commence until the day the Government delivers to a disappointed offeror the written responses to any questions submitted pursuant to section 3304(c)(1)(G) of title 10.
 
 (e) The authority of the head of the procuring activity to make findings and to authorize the award and performance of contracts under subsections (c) and (d) of this section may not be delegated.
 
@@ -70,11 +70,13 @@
 
 (g) If an interested party files a protest in connection with a public-private competition described in section 3551(2)(B) of this title, a person representing a majority of the employees of the Federal agency who are engaged in the performance of the activity or function subject to the public-private competition may intervene in protest.
 
-(Added Pub. L. 98–369, div. B, title VII, §2741(a), July 18, 1984, 98 Stat. 1200; amended Pub. L. 103–355, title I, §§1402, 1403(c), Oct. 13, 1994, 108 Stat. 3287, 3290; Pub. L. 104–106, div. D, title XLIII, §4321(d)(2), div. E, title LV, §5501(1), Feb. 10, 1996, 110 Stat. 674, 698; Pub. L. 108–375, div. A, title III, §326(c), Oct. 28, 2004, 118 Stat. 1848; Pub. L. 115–91, div. A, title VIII, §818(c), Dec. 12, 2017, 131 Stat. 1464.)
+(Added Pub. L. 98–369, div. B, title VII, §2741(a), July 18, 1984, 98 Stat. 1200; amended Pub. L. 103–355, title I, §§1402, 1403(c), Oct. 13, 1994, 108 Stat. 3287, 3290; Pub. L. 104–106, div. D, title XLIII, §4321(d)(2), div. E, title LV, §5501(1), Feb. 10, 1996, 110 Stat. 674, 698; Pub. L. 108–375, div. A, title III, §326(c), Oct. 28, 2004, 118 Stat. 1848; Pub. L. 115–91, div. A, title VIII, §818(c), Dec. 12, 2017, 131 Stat. 1464; Pub. L. 117–81, div. A, title XVII, §1702(l)(5), Dec. 27, 2021, 135 Stat. 2160.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (d)(4)(B). Pub. L. 117–81 substituted "section 3304(c)(1)(G)" for "section 2305(b)(5)(B)(vii)".
 
 <b>2017</b>—Subsec. (d)(4). Pub. L. 115–91 redesignated existing provisions as subpar. (A) and former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A) and added subpar. (B).
 
@@ -116,17 +118,17 @@ Amendment by Pub. L. 108–375 applicable to protests filed under this subchapte
 
 #### Effective Date of 1996 Amendment
 
-For effective date and applicability of amendment by section 4321(d)(2) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 2302 of Title 10, Armed Forces.
+For effective date and applicability of amendment by section 4321(d)(2) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 2220 of Title 10, Armed Forces.
 
 Amendment by section 5501(1) of Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, div. E, title LVII, Feb. 10, 1996, 110 Stat. 702.
 
 #### Effective Date of 1994 Amendment
 
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 2302 of Title 10, Armed Forces.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 8752 of Title 10, Armed Forces.
 
 #### Effective Date
 
-Section applicable with respect to any protest filed after Jan. 14, 1985, see section 2751(b) of Pub. L. 98–369,set out as a note under section 2302 of Title 10, Armed Forces.
+Section applicable with respect to any protest filed after Jan. 14, 1985, see section 2751(b) of Pub. L. 98–369, set out as a note under section 4751 of Title 10, Armed Forces.
 
 #### Construction of 2004 Amendment
 

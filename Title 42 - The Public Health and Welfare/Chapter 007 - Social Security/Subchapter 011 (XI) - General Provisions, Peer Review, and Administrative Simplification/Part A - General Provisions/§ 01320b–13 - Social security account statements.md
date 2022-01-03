@@ -22,7 +22,7 @@
 
 &emsp;(B) who has attained age 25 or over, and
 
-&emsp;(C)(i) who has wages or net earnings from self-employment, or (ii) with respect to whom the Commissioner has information that thepattern of wages or self-employment income indicate a likelihood of noncovered employment.
+&emsp;(C)(i) who has wages or net earnings from self-employment, or (ii) with respect to whom the Commissioner has information that the pattern of wages or self-employment income indicate a likelihood of noncovered employment.
 
 #### (b) Notice to eligible individuals
 
@@ -41,6 +41,8 @@ The Commissioner shall, to the maximum extent practicable, take such steps as ar
 (2) The written notice provided to an individual pursuant to paragraph (1) shall include a form which, upon completion and signature by the individual, would constitute certification by the individual of receipt of the notice. The agency or instrumentality providing the notice to the individual shall require that the form be completed and signed by the individual and submitted to the agency or instrumentality and to the pension, annuity, retirement, or similar fund or system established by the governmental entity involved responsible for paying the monthly periodic payments or benefits, before commencement of service with the agency or instrumentality.
 
 (Aug. 14, 1935, ch. 531, title XI, §1143, formerly §1142, as added Pub. L. 101–239, title X, §10308, Dec. 19, 1989, 103 Stat. 2485; renumbered §1143 and amended Pub. L. 101–508, title V, §5111(a), Nov. 5, 1990, 104 Stat. 1388–272; Pub. L. 105–78, title VI, §605, Nov. 13, 1997, 111 Stat. 1521; Pub. L. 108–203, title IV, §§419(a)–(c), 421, Mar. 2, 2004, 118 Stat. 533–535.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -63,6 +65,8 @@ Subsec. (d). Pub. L. 108–203, §419(c), added subsec. (d).
 <b>1997</b>—Subsec. (a)(2)(B), (C). Pub. L. 105–78 substituted "employer, employee," for "employee".
 
 <b>1990</b>—Subsec. (c)(2). Pub. L. 101–508, §5111(a)(2), substituted "an annual" for "a biennial".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

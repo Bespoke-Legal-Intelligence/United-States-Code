@@ -4,11 +4,15 @@ The Alien Property Custodian is authorized and directed to return to the United 
 
 (Oct. 6, 1917, ch. 106, §27, as added Mar. 10, 1928, ch. 167, §15, 45 Stat. 274.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 27 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 
+#### <b>Executive Documents</b>
+
 #### Transfer of Functions
 
-Functions vested by law in Alien Property Custodian and Office of Alien Property Custodian transferred to Attorney General by Reorg. Plan No. 1 of 1947, §101, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 951, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions vested by law in Alien Property Custodian and Office of Alien Property Custodian transferred toAttorney General by Reorg. Plan No. 1 of 1947, §101, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 951, set out in the Appendix to Title 5, Government Organization and Employees.
 

@@ -12,7 +12,7 @@
 
 (c)(1) Notwithstanding any other provision of law, the Secretary may transfer the interest of the Department in equipment acquired through an agreement under subsection (a) to the institution which holds joint title to the equipment if the Secretary determines that the transfer would be justified by compelling clinical considerations or the economic interest of the Department. Any such transfer may only be made upon agreement by the institution to pay to the Department the amount equal to one-half of the depreciated purchase price of the equipment. Any such payment when received shall be credited to the applicable Department medical appropriation.
 
-(2) Notwithstanding any other provision of law, the Secretary may acquire the interest of an institution in equipment acquired under subsection (a) if the Secretary determines that the acquisition would be justified by compellingclinical considerations or the economic interests of the Department. The Secretary may not pay more than one-half the depreciated purchase price of that equipment.
+(2) Notwithstanding any other provision of law, the Secretary may acquire the interest of an institution in equipment acquired under subsection (a) if the Secretary determines that the acquisition would be justified by compelling clinical considerations or the economic interests of the Department. The Secretary may not pay more than one-half the depreciated purchase price of that equipment.
 
 (Added Pub. L. 102–405, title I, §103(a)(1), Oct. 9, 1992, 106 Stat. 1973.)
 

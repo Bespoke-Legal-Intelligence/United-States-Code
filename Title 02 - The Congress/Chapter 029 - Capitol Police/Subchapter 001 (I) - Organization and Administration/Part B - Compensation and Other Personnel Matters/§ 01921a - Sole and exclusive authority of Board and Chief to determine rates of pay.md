@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Capitol Police Board and the Chief of the Capitol Police shall have the sole and exclusive authority to determine the rates and amounts for each of the following for members of the Capitol Police:
+The Capitol Police Board and the Chief of the Capitol Police shall have the sole and exclusiveauthority to determine the rates and amounts for each of the following for members of the Capitol Police:
 
 &emsp;(1) The rate of basic pay (including the rate of basic pay upon appointment), premium pay, specialty assignment and proficiency pay, and merit pay.
 

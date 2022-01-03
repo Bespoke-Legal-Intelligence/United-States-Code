@@ -102,9 +102,13 @@ The Secretary shall establish a program of research, development, demonstration,
 
 (Pub. L. 109–58, title IX, §932, Aug. 8, 2005, 119 Stat. 870; Pub. L. 110–140, title II, §224, Dec. 19, 2007, 121 Stat. 1533.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2007</b>—Subsecs. (g), (h). Pub. L. 110–140 added subsecs. (g) and (h).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

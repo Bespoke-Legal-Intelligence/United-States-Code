@@ -2,7 +2,7 @@
 
 #### (a) Appointment of professional members; number; qualifications; termination of employment
 
-Each standing committee of the Senate (other than the Committee on Appropriations) is authorized to appoint, by majority vote of the committee, not more than six professional staff members in addition to the clerical staffs. Such professional staff members shall be assigned to the chairman and the ranking minority member of such committee as the committee may deem advisable, except that whenever a majority of the minority members of such committee so request, two of such professional staff members may be selected for appointment by majority vote of the minority members and the committee shall appoint any staff members so selected. A staff member or members appointed pursuant to a request by the minority members of the committee shall be assigned to such committee business as such minority members deem advisable. Services of professional staff members appointed by majority vote of the committee may be terminated by a majority vote of the committee and services of professional staff members appointed pursuant to a request by the minority members of the committee shall be terminated by the committee when a majority of such minority members so request. Professional staffmembers authorized by this subsection shall be appointed on a permanent basis, without regard to political affiliation, and solely on the basis of fitness to perform the duties of their respective positions. Such professional staff members shall not engage in any work other than committee business and no other duties may be assigned to them.
+Each standing committee of the Senate (other than the Committee on Appropriations) is authorized to appoint, by majority vote of the committee, not more than six professional staff members in addition to the clerical staffs. Such professional staff members shall be assigned to the chairman and the ranking minority member of such committee as the committee may deem advisable, except that whenever a majority of the minority members of such committee so request, two of such professional staff members may be selected for appointment by majority vote of the minority members and the committee shall appoint any staff members so selected. A staff member or members appointed pursuant to a request by the minority members of the committee shall be assigned to such committee business as such minority members deem advisable. Services of professional staff members appointed by majority vote of the committee may be terminated by a majority vote of the committee and services of professional staff members appointed pursuant to a request by the minority members of the committee shall be terminated by the committee when a majority of such minority members so request. Professional staff members authorized by this subsection shall be appointed on a permanent basis, without regard to political affiliation, and solely on the basis of fitness to perform the duties of their respective positions. Such professional staff members shall not engage in any work other than committee business and no other duties may be assigned to them.
 
 #### (b) Professional members for Committee on Appropriations; examinations of executive agencies' operation
 
@@ -66,7 +66,7 @@ Staff members appointed pursuant to a request by minority members of a committee
 
 Section was formerly classified to section 72a of this title prior to editorial reclassification and renumbering as this section.
 
-In subsec. (i)(2), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes (41 U.S.C. 5)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (i)(2), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes (41 U.S.C. 5)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 A former subsec. (k) authorized additional professional staff members and clerical employees for specific House committees. Committee staffs are now covered by the Rules of the House of Representatives. Former subsec. (k) was based on the following House resolutions which were enacted into permanent law:
 
@@ -76,7 +76,7 @@ Subsec. (k)(2) was based on House Resolution No. 37 of the Eighty-second Congres
 
 Subsec. (k)(3) was based on House Resolution No. 554 of the Eighty-third Congress, which was enacted into permanent law by act July 2, 1954, ch. 455, §103, 68 Stat. 409, House Resolution No. 468 of the Eighty-fourth Congress, which was enacted into permanent law by act June 27, 1956, ch. 453, §103, 70 Stat. 370, House Resolution No. 126 of the Eighty-fifth Congress, which was enacted into permanent law by Pub. L. 85–75, §103, July 1, 1957, 71 Stat. 256, House Resolution No. 525 of the Eighty-fifth Congress, which was enacted into permanent law by Pub. L. 85–570, §103, July 31, 1958, 72 Stat. 453, and House Resolution No. 509 of the Eighty-seventh Congress, which was enacted into permanent law by Pub. L. 87–730, §103, Oct. 2, 1962, 76 Stat. 693.
 
-Subsec. (k)(4) was based on House Resolution No. 28 of the Eighty-fifth Congress, which was enacted into permanent law by Pub. L. 85–75, §103, July 1, 1957, 71 Stat. 256, and section 2 of House Resolution No. 348 of the Eighty-seventh Congress, which was enacted into permanent law by Pub. L. 87–730, §103, Oct. 2, 1962, 76 Stat. 693.
+Subsec. (k)(4) was based on House Resolution No. 28 of the Eighty-fifth Congress, which was enacted into permanent law by Pub. L. 85–75, §103, July 1, 1957, 71Stat. 256, and section 2 of House Resolution No. 348 of the Eighty-seventh Congress, which was enacted into permanent law by Pub. L. 87–730, §103, Oct. 2, 1962, 76 Stat. 693.
 
 Subsec. (k)(5) was based on House Resolution No. 239 of the Eighty-fifth Congress, which was enacted into permanent law by Pub. L. 85–570, §103, July 31, 1958, 72 Stat. 453, and House Resolution No. 225 of the Eighty-eighth Congress, which was enacted into permanent law by Pub. L. 88–248, §103, Dec. 30, 1963, 77 Stat. 817.
 
@@ -206,7 +206,7 @@ Pub. L. 91–510, title III, §301(d), Oct. 26, 1970, 84 Stat. 1177, provided th
 
 #### Professional Staffs; Increase in Number
 
-Pub. L. 91–510, title III, §301(e), Oct. 26, 1970, 84 Stat. 1177, provided that: "The additional professional staffmembers authorized to be employed by a committee by the amendment made by subsection (a) of this section \[amending this section\] shall be in addition to any other additional staff members authorized, prior to January 1, 1971, to be employed by any such committee."
+Pub. L. 91–510, title III, §301(e), Oct. 26, 1970, 84 Stat. 1177, provided that: "The additional professional staff members authorized to be employed by a committee by the amendment made by subsection (a) of this section \[amending this section\] shall be in addition to any other additional staff members authorized, prior to January 1, 1971, to be employed by any such committee."
 
 #### Increases in Compensation
 
@@ -218,7 +218,7 @@ Act Aug. 2, 1946, ch. 753, title I, §§102, 121, 60 Stat. 814, 822, in amending
 
 #### Office of Senate Security
 
-S. Res. 243, One Hundredth Congress, July 1, 1987, provided: "That (a) there is established, within the Office of the Secretary of the Senate (hereinafter referred to as the 'Secretary'), the Office of Senate Security (hereinafter referred to as the 'Office'), which shall be headed by a Director of Senate Security (hereinafter referred to as the 'Director'). The Office shall be under the policy direction of the Majority and Minority Leaders of the Senate, and shall be under the administrative direction and supervision of the Secretary.
+S. Res. 243, One Hundredth Congress, July 1, 1987, provided: "That (a) there is established, within the Officeof the Secretary of the Senate (hereinafter referred to as the 'Secretary'), the Office of Senate Security (hereinafter referred to as the 'Office'), which shall be headed by a Director of Senate Security (hereinafter referred to as the 'Director'). The Office shall be under the policy direction of the Majority and Minority Leaders of the Senate, and shall be under the administrative direction and supervision of the Secretary.
 
 "(b)(1) The Director shall be appointed by the Secretary after consultation with the Majority and Minority Leaders. The Secretary shall fix the compensation of the Director. Any appointment under this subsection shall be made solely on the basis of fitness to perform the duties of the position and without regard to political affiliation.
 

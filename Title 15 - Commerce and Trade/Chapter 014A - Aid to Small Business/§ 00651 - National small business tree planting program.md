@@ -2,7 +2,7 @@
 
 #### (a) Authorization of grants and contracts with States
 
-The Administrator is authorized to make grants to or to enter into contracts with any State for the purpose of contracting with small businesses to plant trees on land owned or controlled by such State or local government. The Administrator shall require as a condition of any grant (or amendment or modification thereof) under this section that the applicant also contribute to the project a sum equal to at least 25 per centum of a particular project cost from sources other than the Federal Government. Such non-Federal money may include inkind contributions, including the cost or value of providing care and maintenance for a period of three years after the planting of the trees, but shall not include any value attributable to the land on which the trees are to be planted, nor may any part of any grant be used to pay for land or land charges: <i>Provided</i>, That not less than one-half of the amounts appropriated under this section shall be allocated to each State, the District of Columbia, and the Commonwealth of Puerto Rico on the basis of the population in each area as compared to the total population in all areas as provided by the Census Bureau of the Department of Commerce in the annual population estimate or the decennial census, whichever is most current. The Administrator may give a priority in awarding the remaining one-half of appropriated amounts to applicants who agree to contribute more than the requisite 25 per centum, and shall give priority to a proposal to restore an area determined to be a major disaster by the President on a date not more than three years prior to the fiscal year for which the application is made.
+The Administrator is authorized to make grants to or to enter into contracts with any State for the purpose of contracting with small businesses to plant trees on land owned or controlled by such State or local government. The Administrator shall require as a condition of any grant (or amendment or modification thereof) under this section that the applicant also contribute to the project a sum equal to at least 25 per centum of a particular project cost from sources other than the Federal Government. Such non-Federal money may include inkind contributions, including the cost or value of providing care and maintenance for a period of three years after the planting of the trees, but shall not include any value attributable to the land on which the trees are to be planted, normay any part of any grant be used to pay for land or land charges: <i>Provided</i>, That not less than one-half of the amounts appropriated under this section shall be allocated to each State, the District of Columbia, and the Commonwealth of Puerto Rico on the basis of the population in each area as compared to the total population in all areas as provided by the Census Bureau of the Department of Commerce in the annual population estimate or the decennial census, whichever is most current. The Administrator may give a priority in awarding the remaining one-half of appropriated amounts to applicants who agree to contribute more than the requisite 25 per centum, and shall give priority to a proposal to restore an area determined to be a major disaster by the President on a date not more than three years prior to the fiscal year for which the application is made.
 
 #### (b) Establishment by Administrator
 
@@ -40,6 +40,8 @@ The Administrator shall submit annually to the President and the Congress a repo
 
 (Pub. L. 85–536, §2\[24\], as added Pub. L. 101–515, title V, §4, Nov. 5, 1990, 104 Stat. 2140; amended Pub. L. 103–211, title I, §201, Feb. 12, 1994, 108 Stat. 5; Pub. L. 103–317, title IV, Aug. 26, 1994, 108 Stat. 1755.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 651, act July 30, 1953, ch. 282, §225, as added Aug. 9, 1955, ch. 628, §14, 69 Stat. 551, prohibited duplication of activities, and was omitted as superseded by section 647 of this title. See Codification note set out under section 631 of this title.
@@ -49,6 +51,8 @@ A prior section 651, act July 30, 1953, ch. 282, §225, as added Aug. 9, 1955, c
 <b>1994</b>—Subsec. (a). Pub. L. 103–211 inserted at end ", and shall give priority to a proposal to restore an area determined to be a major disaster by the President on a date not more than three years prior to the fiscal year for which the application is made".
 
 Subsec. (e). Pub. L. 103–317 substituted "fiscal years 1995 through 1997" for "fiscal years 1992 through 1994".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Reporting Requirements
 

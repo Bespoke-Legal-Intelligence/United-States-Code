@@ -28,6 +28,8 @@ In sections 7a to 7a–3 of this title:
 
 (Pub. L. 108–237, title II, §212, June 22, 2004, 118 Stat. 666; Pub. L. 111–190, §2, June 9, 2010, 124 Stat. 1275; Pub. L. 116–159, div. D, title III, §4303(b)(2), Oct. 1, 2020, 134 Stat. 742.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 7a to 7a–3 of this title, referred to in text, was in the original "this subtitle", meaning subtitle A (§§211–216) of title II of Pub. L. 108–237, June 22, 2004, 118 Stat. 666, which enacted this section and sections 7a–1 to 7a–3 of this title, amended sections 1, 2, and 3 of this title, and enacted provisions formerly set out in a note under section 1 of this title. For complete classification of subtitle A to the Code, see Tables.
@@ -38,9 +40,11 @@ Section was formerly set out in a note under section 1 of this title, prior to t
 
 #### Amendments
 
-<b>2020</b>—Pars. (6), (7). Pub. L. 116–159 redesignated par. (7) as (6) and struck out former par. (6). Prior to amendment, text of par. (6) read as follows: "The term 'marker' means an assurance given by the Antitrust Division to a candidate for corporate leniency that no other company will be considered for leniency, for some finite period of time, while the candidate is given an opportunity to perfect its leniency application."
+<b>2020</b>—Pars. (6), (7). Pub. L. 116–159 redesignated par. (7) as (6) and struck out former par. (6). Prior to amendment, text of par. (6) read as follows: "The term 'marker' means an assurance given by the Antitrust Division to a candidate for corporate leniency that no othercompany will be considered for leniency, for some finite period of time, while the candidate is given an opportunity to perfect its leniency application."
 
 <b>2010</b>—Pars. (6), (7). Pub. L. 111–190 added par. (6) and redesignated former par. (6) as (7).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Findings; Purpose of 2020 Amendment
 
@@ -58,21 +62,25 @@ Findings.—Congress finds the following:
 
 Purpose.—The purpose of this Act \[probably means title III of div. D (§4301 et seq.) of Pub. L. 116–159, see Tables for classification\], and the amendments made by this Act, is to strengthen public and private antitrust enforcement by providing incentives for antitrust violators to cooperate fully with government prosecutors and private litigants through the repeal of the sunset provision of the Antitrust Criminal Penalty Enhancement and Reform Act of 2004 \[section 211 of Pub. L. 108–237\] (\[former\] 15 U.S.C. 1 note)."
 
-#### Revival and Restoration of Sections from Pub. L. 108–237
+#### Technical and Conforming Amendments
 
 Pub. L. 116–159, div. D, title III, §4303(b)(1), Oct. 1, 2020, 134 Stat. 742, provided that:
 
-"(A)
+"(1)
+
+Revival and restoration.—
+
+&emsp;"(A)
 
 In general.—Sections 212, 213, and 214 of the Antitrust Criminal Penalty Enhancement and Reform Act of 2004 \[title II of Pub. L. 108–237\] (\[former\] 15 U.S.C. 1 note \[now 15 U.S.C. 7a, 7a–1, 7a–2, respectively\]) as in effect on June 21, 2020, and as amended by the laws described in subparagraph (B), are revived and restored.
 
-"(B)
+&emsp;"(B)
 
 Laws.—The laws described in this subparagraph are:
 
-&emsp;"(i) Antitrust Criminal Penalty Enhancement and Reform Act of 2004 Extension Act (Public Law 111–30; 123 Stat. 1775) \[amending former section 211 of Pub. L. 108–237\].
+&emsp;&emsp;"(i) Antitrust Criminal Penalty Enhancement and Reform Act of 2004 Extension Act (Public Law 111–30; 123 Stat. 1775) \[amending former section 211 of Pub. L. 108–237\].
 
-&emsp;"(ii) The Act entitled 'An Act to amend the Antitrust Criminal Penalty Enhancement and Reform Act of 2004 to extend the operation of such Act, and for other purposes', approved June 9, 2010 (Public Law 111–90 \[sic, probably should be "111–190"\]; 124 Stat. 1275) \[amending this section, sections 7a–1 and 7a–2 of this title, and former section 211 of Pub. L. 108–237\]."
+&emsp;&emsp;"(ii) The Act entitled 'An Act to amend the Antitrust Criminal Penalty Enhancement and Reform Act of 2004 to extend the operation of such Act, and for other purposes', approved June 9, 2010 (Public Law 111–90 \[sic, probably should be "111–190"\]; 124 Stat. 1275) \[amending this section, sections 7a–1 and 7a–2 of this title, and former section 211 of Pub. L. 108–237\]."
 
 #### Applicability of 2020 Amendment
 

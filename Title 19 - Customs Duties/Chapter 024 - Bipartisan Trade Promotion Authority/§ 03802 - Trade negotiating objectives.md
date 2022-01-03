@@ -14,7 +14,7 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 &emsp;(5) to ensure that trade and environmental policies are mutually supportive and to seek to protect and preserve the environment and enhance the international means of doing so, while optimizing the use of the world's resources;
 
-&emsp;(6) to promote respect for worker rights and the rights of children consistent with core labor standards of the ILO (as defined in section 3813(6) of this title) and an understanding of the relationship between trade and worker rights;
+&emsp;(6) to promote respect for worker rights and the rights of children consistent with core labor standards of the ILO (as defined in section 3813(6) of this title) and an understandingof the relationship between trade and worker rights;
 
 &emsp;(7) to seek provisions in trade agreements under which parties to those agreements strive to ensure that they do not weaken or reduce the protections afforded in domestic environmental and labor laws as an encouragement for trade;
 
@@ -154,7 +154,7 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 #### (10) Reciprocal trade in agriculture
 
-&emsp;(A) The principal negotiating objective of the United States with respect to agriculture is to obtain competitive opportunities for United States exports of agricultural commodities in foreign markets substantially equivalent to the competitive opportunities afforded foreign exports in United States markets and to achieve fairer and more open conditions of trade in bulk, specialty crop, and value-added commodities by—
+&emsp;(A) The principal negotiating objective of the United States with respect to agricultureis to obtain competitive opportunities for United States exports of agricultural commodities in foreign markets substantially equivalent to the competitive opportunities afforded foreign exports in United States markets and to achieve fairer and more open conditions of trade in bulk, specialty crop, and value-added commodities by—
 
 &emsp;&emsp;(i) reducing or eliminating, by a date certain, tariffs or other charges that decrease market opportunities for United States exports—
 
@@ -202,11 +202,11 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 &emsp;&emsp;(xvi) striving to complete a general multilateral round in the World Trade Organization by January 1, 2005, and seeking the broadest market access possible in multilateral, regional, and bilateral negotiations, recognizing the effect that simultaneous sets of negotiations may have on United States import-sensitive commodities (including those subject to tariff-rate quotas).
 
-&emsp;(B)(i) Before commencing negotiations with respect to agriculture, the United States Trade Representative, in consultation withthe Congress, shall seek to develop a position on the treatment of seasonal and perishable agricultural products to be employed in the negotiations in order to develop an international consensus on the treatment of seasonal or perishable agricultural products in investigations relating to dumping and safeguards and in any other relevant area.
+&emsp;(B)(i) Before commencing negotiations with respect to agriculture, the United States Trade Representative, in consultation with the Congress, shall seek to develop a position on the treatment of seasonal and perishable agricultural products to be employed in the negotiations in order to develop an international consensus on the treatment of seasonal or perishable agricultural products in investigations relating to dumping and safeguards and in any other relevant area.
 
 &emsp;(ii) During any negotiations on agricultural subsidies, the United States Trade Representative shall seek to establish the common base year for calculating the Aggregated Measurement of Support (as defined in the Agreement on Agriculture) as the end of each country's Uruguay Round implementation period, as reported in each country's Uruguay Round market access schedule.
 
-&emsp;(iii) The negotiating objective provided in subparagraph (A) applies with respect to agricultural matters to be addressed in any trade agreement entered into under section 3803(a) or (b) of this title, including any trade agreement entered into under section 3803(a) or (b) of this title that provides for accession to a trade agreement to which the United States is already a party, such as the North American Free Trade Agreement and the United States-Canada Free Trade Agreement.
+&emsp;(iii) The negotiating objective provided in subparagraph (A) applies with respect to agricultural matters to be addressed in any trade agreement entered into under section 3803(a) or (b) of this title, including any trade agreement entered into under section 3803(a) or (b) of this title that provides for accession to atrade agreement to which the United States is already a party, such as the North American Free Trade Agreement and the United States-Canada Free Trade Agreement.
 
 #### (11) Labor and the environment
 
@@ -306,7 +306,7 @@ In order to address and maintain United States competitiveness in the global eco
 
 &emsp;(11) report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate, not later than 12 months after the imposition of a penalty or remedy by the United States permitted by a trade agreement to which this chapter applies, on the effectiveness of the penalty or remedy applied under United States law in enforcing United States rights under the trade agreement; and
 
-&emsp;(12) seek to establish consultative mechanisms among parties to trade agreements to examine the trade consequences of significantand unanticipated currency movements and to scrutinize whether a foreign government is engaged in a pattern of manipulating its currency to promote a competitive advantage in international trade.
+&emsp;(12) seek to establish consultative mechanisms among parties to trade agreements to examine the trade consequences of significant and unanticipated currency movements and to scrutinize whether a foreign government is engaged in a pattern of manipulating its currency to promote a competitive advantage in international trade.
 
 > The report under paragraph (11) shall address whether the penalty or remedy was effective in changing the behavior of the targeted party and whether the penalty or remedy had any adverse impact on parties or interests not party to the dispute.
 
@@ -330,6 +330,8 @@ In determining whether to enter into negotiations with a particular country, the
 
 (Pub. L. 107–210, div. B, title XXI, §2102, Aug. 6, 2002, 116 Stat. 994; Pub. L. 108–429, title II, §2004(a)(16), Dec. 3, 2004, 118 Stat. 2591.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Executive Order 13141, referred to in subsec. (c)(4) and (5), is set out as a note under section 2112 of this title.
@@ -341,6 +343,8 @@ This chapter, referred to in subsec. (c)(8), was in the original "this title", m
 <b>2004</b>—Subsec. (c)(8). Pub. L. 108–429, §2004(a)(16)(A), substituted "this chapter" for "this Act".
 
 Subsec. (c)(12). Pub. L. 108–429, §2004(a)(16)(B), substituted "government is engaged" for "government engaged".
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

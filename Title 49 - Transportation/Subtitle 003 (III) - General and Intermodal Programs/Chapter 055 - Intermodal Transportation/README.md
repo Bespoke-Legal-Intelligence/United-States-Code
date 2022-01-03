@@ -5,11 +5,12 @@
 | Sec. |  |
 | :--- | ---: |
 | [5501\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2005501%20-%20National%20Intermodal%20Transportation%20System%20policy.md) | National Intermodal Transportation System policy. |
-| [5502\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2005502%20-%20Intermodal%20Transportation%20Advisory%20Board.md) | Intermodal Transportation Advisory Board. |
+| \[5502. | Repealed.\] |
 | \[5503. | Repealed.\] |
 | [5504\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2005504%20-%20Model%20intermodal%20transportation%20plans.md) | Model intermodal transportation plans. |
 | [5505\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2005505%20-%20University%20transportation%20centers%20program.md) | University transportation centers program. |
-| \[5506. | Repealed.\] |
+| [5506\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2005506%20-%20Advanced%20transportation%20research%20initiative.md) | Advanced transportation research initiative. |
+| [5507\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2005507%20-%20Transportation%20workforce%20outreach%20program.md) | Transportation workforce outreach program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -28,7 +29,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Pub. L. 117–58, div. B, title V, §§25013(b), 25020(c)(2), 25021(b), Nov. 15, 2021, 135 Stat. 869, 878, which directed amendment of analysis for subchapter I of this chapter by striking out item 5502 "Intermodal Transportation Advisory Board" and adding items 5506 and 5507 at the end, was executed to analysis for this chapter to reflect the probable intent of Congress.
 
 <b>2015</b>—Pub. L. 114–94, div. A, title VI, §6015(b), Dec. 4, 2015, 129 Stat. 1571, struck out item 5503 "Office of Intermodalism".
 

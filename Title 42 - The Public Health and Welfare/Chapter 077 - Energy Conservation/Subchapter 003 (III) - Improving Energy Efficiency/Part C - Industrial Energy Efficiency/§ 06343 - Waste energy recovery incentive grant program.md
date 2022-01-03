@@ -36,7 +36,7 @@ The Secretary shall establish in the Department of Energy a waste energy recover
 
 #### (4) Useful thermal energy
 
-&emsp;In the case of waste energy recovery that produces useful thermal energy that is used for a purpose different from that for which the project is principally designed, a grant under this section shall be made to the owner or operator of the waste energy recovery project atthe rate of $10 for each 3,412,000 Btus of the excess thermal energy used for the different purpose.
+&emsp;In the case of waste energy recovery that produces useful thermal energy that is used for a purpose different from that for which the project is principally designed, a grant under this section shall be made to the owner or operator of the waste energy recovery project at the rate of $10 for each 3,412,000 Btus of the excess thermal energy used for the different purpose.
 
 #### (c) Grants to States
 
@@ -70,9 +70,13 @@ There are authorized to be appropriated to the Secretary—
 
 (Pub. L. 94–163, title III, §373, as added Pub. L. 110–140, title IV, §451(a), Dec. 19, 2007, 121 Stat. 1627.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
-A prior section 6343, Pub. L. 94–163, title III, §373, Dec. 22, 1975, 89 Stat. 936; Pub. L. 95–619, title VI, §§601(a), 691(b)(2), Nov. 9, 1978, 92 Stat. 3282, 3288, related to identification of major energy-consuming industries and corporations in the United States, prior to repeal by Pub. L. 99–509, title III, §3101(b), Oct. 21, 1986, 100 Stat. 1888.
+A prior section 6343, Pub. L. 94–163, title III, §373, Dec. 22, 1975, 89 Stat. 936; Pub. L. 95–619, title VI, §§601(a), 691(b)(2), Nov. 9, 1978, 92 Stat. 3282, 3288, related to identification of major energy-consuming industries and corporations in the United States, prior to repeal byPub. L. 99–509, title III, §3101(b), Oct. 21, 1986, 100 Stat. 1888.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -10,7 +10,7 @@ In general.—The Commandant may enter into—
 
 &emsp;&emsp;(A) transactions (other than contracts, cooperative agreements, and grants) in carrying out basic, applied, and advanced research projects; and
 
-&emsp;&emsp;(B) agreements with the Director of the Defense Advanced Research Projects Agency, the Secretary of a military department, or any other official designated by the Secretary of Defense under section 2371b of title 10 to participate in prototype projects and follow-on production contracts or transactions that are being carried out by such official and are directly relevant to the Coast Guard's cyber capability and Command, Control, Communications, Computers, and intelligence initiatives.
+&emsp;&emsp;(B) agreements with the Director of the Defense Advanced Research Projects Agency, the Secretary of a military department, or any other official designated by the Secretary of Defense under section 2371b <sup>1</sup> of title 10 to participate in prototype projects and follow-on production contracts or transactions that are being carried out by such official and are directly relevant to the Coast Guard's cyber capability and Command, Control, Communications, Computers, and intelligence initiatives.
 
 &emsp;(2)
 
@@ -44,7 +44,7 @@ Conditions.—
 
 &emsp;(1)
 
-In general.—The Commandant shall ensure that to the extent that the Commandant determines practicable, no cooperative agreement containing a clause described in subsection (c)(1),<sup>1</sup> and no transaction entered into under subsection (a), provides for research that duplicates research being conducted under existing programs carried out by the Coast Guard.
+In general.—The Commandant shall ensure that to the extent that the Commandant determines practicable, no cooperative agreement containing a clause described in subsection (c)(1),<sup>2</sup> and no transaction entered into under subsection (a), provides for research that duplicates research being conducted under existing programs carried out by the Coast Guard.
 
 &emsp;(2)
 
@@ -64,7 +64,7 @@ Protection of Certain Information From Disclosure.—
 
 &emsp;(1)
 
-In general.—Disclosure of information described in paragraph (2) is not required, and may not be compelled, under section 552 of title 5 for 5 years after the date on which the information is received by the Coast Guard.
+In general.—Disclosure of information described in paragraph (2) is not required, andmay not be compelled, under section 552 of title 5 for 5 years after the date on which the information is received by the Coast Guard.
 
 &emsp;(2)
 
@@ -104,5 +104,13 @@ Annual Report.—On the date on which the President submits to Congress a budget
 
 (Added Pub. L. 116–283, div. G, title LVXXXII \[LXXXII\], §8218(a), Jan. 1, 2021, 134 Stat. 4653.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be "subsection (b)(1)".</i>
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+Section 2371b of title 10, referred to in subsec. (a)(1)(B), was renumbered section 4022 of title 10 by Pub. L. 116–283, div. A, title XVIII, §1841(b)(1), Jan. 1, 2021, 134 Stat. 4243, as amended by Pub. L. 117–81, div. A, title XVII, §1701(u)(2)(B), Dec. 27, 2021, 135 Stat. 2151.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be "subsection (b)(1)".</i>
 

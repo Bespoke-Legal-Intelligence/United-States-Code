@@ -18,7 +18,7 @@
 
 &emsp;&emsp;&emsp;(v) the enhancement of hunter recruitment and recreational shooter recruitment; and
 
-&emsp;&emsp;(B) in the case of a State that has used all of the funds apportioned to the State under section 669c(c) of this title for the fiscal yearin the manner described in section 669g(b) of this title, any use authorized by this chapter (including hunter safety programs and the construction, operation, and maintenance of public target ranges).
+&emsp;&emsp;(B) in the case of a State that has used all of the funds apportioned to the State under section 669c(c) of this title for the fiscal year in the manner described in section 669g(b) of this title, any use authorized by this chapter (including hunter safety programs and the construction, operation, and maintenance of public target ranges).
 
 #### (2) Limitation on use
 
@@ -55,6 +55,8 @@
 &emsp;At the end of the period of availability under paragraph (1), the Secretary of the Interior shall apportion amounts made available that have not been used to make grants under this section among the States described in subsection (a)(1)(B) for use by those States in accordance with this chapter.
 
 (Sept. 2, 1937, ch. 899, §10, as added Pub. L. 106–408, title I, §112(2), Nov. 1, 2000, 114 Stat. 1766; amended Pub. L. 116–17, §4(c), May 10, 2019, 133 Stat. 867; Pub. L. 116–94, div. P, title V, §501(f), Dec. 20, 2019, 133 Stat. 3193.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

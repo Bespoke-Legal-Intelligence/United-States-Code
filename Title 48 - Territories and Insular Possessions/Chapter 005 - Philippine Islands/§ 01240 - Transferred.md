@@ -1,5 +1,7 @@
 ### §1240. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, acts Mar. 24, 1934, ch. 84, §10, 48 Stat. 463; Aug. 7, 1939, ch. 502, §3, 53 Stat. 1230, related to recognition of Philippine independence, withdrawal of American sovereignty, and property for diplomatic purposes, and was transferred to section 1394 of Title 22, Foreign Relations and Intercourse.

@@ -58,7 +58,7 @@ In this chapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term "sex offense against a minor" means a specified offense against a minor, asdefined in section 111 of the Adam Walsh Child Protection and Safety Act of 2006 (42 U.S.C. 16911).<sup>1</sup>
+&emsp;&emsp;The term "sex offense against a minor" means a specified offense against a minor, as defined in section 111 of the Adam Walsh Child Protection and Safety Act of 2006 (42 U.S.C. 16911).<sup>1</sup>
 
 #### (B) Other offenses
 

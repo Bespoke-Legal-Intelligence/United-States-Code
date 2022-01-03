@@ -34,7 +34,7 @@ The Commission may, by rule or order, grant such exemptions, in whole or in part
 
 #### (d) Commission reporting requirements
 
-The Commission shall, in each of the first 5 annual reports (under section 78w(b)(1) of this title) submitted more than 12 months after October 15, 1990, include a description of the status of the penny stock automated quotation system or systems required by subsection (b). Such description shall include—
+The Commission shall, in each of the first 5 annual reports (under section 78w(b)(1) of thistitle) submitted more than 12 months after October 15, 1990, include a description of the status of the penny stock automated quotation system or systems required by subsection (b). Such description shall include—
 
 &emsp;(1) a review of the development, implementation, and progress of the project, including achievement of significant milestones and current project schedule; and
 
@@ -42,9 +42,13 @@ The Commission shall, in each of the first 5 annual reports (under section 78w(b
 
 (June 6, 1934, ch. 404, title I, §17B, as added Pub. L. 101–429, title V, §506, Oct. 15, 1990, 104 Stat. 955.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 78w(b)(1) of this title, referred to in subsec. (d), was omitted from the Code. For further details related to reports referred to in subsec. (d), see Codification note set out under section 78w of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

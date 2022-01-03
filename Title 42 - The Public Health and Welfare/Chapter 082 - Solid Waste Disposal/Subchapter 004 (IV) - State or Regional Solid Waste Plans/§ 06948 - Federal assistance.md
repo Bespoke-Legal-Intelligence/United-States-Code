@@ -18,7 +18,7 @@
 
 > for grants to States (and where appropriate to regional, local, and interstate agencies) to implement programs requiring compliance by solid waste management facilities with the criteria promulgated under section 6944(a) of this title and section 6907(a)(3) of this title and with the provisions of section 6945 of this title. To the extent practicable, such programs shall require such compliance not later than thirty-six months after November 8, 1984.
 
-(3)(A) There is authorized to be appropriated for the fiscal year beginning October 1, 1981, and for each fiscal year thereafter before October 1, 1986, $4,000,000 for purposes of making grants to States to carry out section 6943(b) <sup>1</sup> of this title. No amount may be appropriated for such purposes for the fiscal year beginning on October 1, 1986, or for any fiscal year thereafter.
+(3)(A) There is authorized to be appropriated for the fiscal year beginning October 1, 1981, andfor each fiscal year thereafter before October 1, 1986, $4,000,000 for purposes of making grants to States to carry out section 6943(b) <sup>1</sup> of this title. No amount may be appropriated for such purposes for the fiscal year beginning on October 1, 1986, or for any fiscal year thereafter.
 
 (B) Assistance provided by the Administrator under this paragraph shall be used only for the purposes specified in section 6943(b) <sup>1</sup> of this title. Such assistance may not be used for purposes of land acquisition, final facility design, equipment purchase, construction, startup or operation activities.
 
@@ -54,7 +54,7 @@ The Federal assistance allotted to the States under subsection (b) shall be allo
 
 #### (f) Assistance to States for discretionary program for recycled oil
 
-(1) The Administrator may make grants to States, which have a State plan approved under section 6947 of this title, or which have submitted a State plan for approval under such section, if such plan includes the discretionary provisions described in section 6943(b) of this title. Grants under this subsection shall be for purposes of assisting the State in carrying out such discretionary provisions. No grant under this subsection may be used for construction or for the acquisition of land or equipment.
+(1) The Administrator may make grants to States, which have a State plan approved undersection 6947 of this title, or which have submitted a State plan for approval under such section, if such plan includes the discretionary provisions described in section 6943(b) of this title. Grants under this subsection shall be for purposes of assisting the State in carrying out such discretionary provisions. No grant under this subsection may be used for construction or for the acquisition of land or equipment.
 
 (2) Grants under this subsection shall be allotted among the States in the same manner as provided in the first sentence of subsection (b).
 
@@ -71,6 +71,8 @@ The Federal assistance allotted to the States under subsection (b) shall be allo
 (3) Assistance provided by the Administrator under this subsection shall be used only for the purposes specified in paragraph (1). Such assistance may not be used for purposes of land acquisition, final facility design, equipment purchase, construction, startup or operation activities.
 
 (Pub. L. 89–272, title II, §4008, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2818; amended Pub. L. 96–463, §§5(b), 6, Oct. 15, 1980, 94 Stat. 2057; Pub. L. 96–482, §§20, 31(c), (d), 32(e), (f), Oct. 21, 1980, 94 Stat. 2345, 2352, 2354, 2355; Pub. L. 98–616, §2(d)–(g), (k), title V, §502(d), (e), Nov. 8, 1984, 98 Stat. 3222, 3223, 3276.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -116,13 +118,15 @@ Pub. L. 96–482, §32(f), added par. (2) authorizing the Administrator to provi
 
 Subsec. (e)(1). Pub. L. 96–482, §20(1)–(5), substituted in provision preceding cl. (A) "identify local governments" for "identify communities", struck out cl. (A), which required the Administrator to identify populations of less than twenty-five thousand persons, redesignated cls. (B) and (C) as (A) and (B), respectively, in cl. (A) as so redesignated, substituted "a solid waste disposal facility (i) which is owned by the unit of local government, (ii) for which an order has been issued by the State to cease receiving solid waste for treatment, storage, or disposal, and (iii) which is subject to a State-approved end-use recreation plan" for "solid waste disposal facilities in which more than 75 per centum of the solid waste of is from areas outside the jurisdiction of the communities" in cl. (B) as so redesignated, substituted "which are located over an aquifer which is the source of drinking water for any person or public water system and which has" for "which have" and inserted ", including possible methane migration" after "such solid waste".
 
-Subsec. (e)(2). Pub. L. 96–482, §20(6)–(8), substituted appropriations authorization of $2,500,000; $1,500,000; and $1,500,000 for fiscal years 1980, 1981, and 1982, for prior authorization of $2,500,000 for fiscal years 1978 and 1979, substituted provision for grants for "containment and stabilization of solid waste located at the disposal sites referred to in paragraph (1)" for such grants for "theconversion, improvement, or consolidation of existing solid waste disposal facilities, or for the construction of new solid waste disposal facilities, or for both, within communities identified under paragraph (1)", and prohibited grants to units of local government when site exceeds 65 acres in size.
+Subsec. (e)(2). Pub. L. 96–482, §20(6)–(8), substituted appropriations authorization of $2,500,000; $1,500,000; and $1,500,000 for fiscal years 1980, 1981, and 1982, for prior authorization of $2,500,000 for fiscal years 1978 and 1979, substituted provision for grants for "containment and stabilization of solid waste located at the disposal sites referred to in paragraph (1)" for such grants for "the conversion, improvement, or consolidation of existing solid waste disposal facilities, or for the construction of new solid waste disposal facilities, or for both, within communities identified under paragraph (1)", and prohibited grants to units of local government when site exceeds 65 acres in size.
 
 Subsec. (e)(3). Pub. L. 96–482, §20(9), struck out par. (3) which required that grants to States be made only when the projects are consistent with applicable and approved State plan and will assist in carrying out such plan.
 
 Subsec. (f). Pub. L. 96–463, §5(b), added subsec. (f) relating to assistance to States for discretionary program for recycled oil.
 
 Pub. L. 96–482, §32(e)(3), added subsec. (f) relating to assistance to municipalities for energy and materials conservation and recovery planning activities.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

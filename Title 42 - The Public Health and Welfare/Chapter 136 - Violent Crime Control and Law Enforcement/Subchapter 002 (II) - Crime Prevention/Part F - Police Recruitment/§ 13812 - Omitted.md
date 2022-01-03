@@ -1,5 +1,7 @@
 ### §13812. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, Pub. L. 103–322, title III, §30802, Sept. 13, 1994, 108 Stat. 1858, which authorized appropriations for fiscal years 1996 to 2000, was omitted as obsolete.

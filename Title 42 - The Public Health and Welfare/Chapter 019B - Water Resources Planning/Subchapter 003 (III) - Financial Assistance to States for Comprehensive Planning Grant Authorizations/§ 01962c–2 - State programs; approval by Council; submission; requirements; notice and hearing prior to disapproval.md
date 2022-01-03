@@ -2,9 +2,9 @@
 
 The Council shall approve any program for comprehensive water and related land resources planning which is submitted by a State, if such program—
 
-&emsp;(1) provides for comprehensive planning with respect to intrastate or interstate water resources, or both, in such State to meet theneeds for water and water-related activities taking into account prospective demands for all purposes served through or affected by water and related land resources development, with adequate provision for coordination with all Federal, State, and local agencies, and nongovernmental entities having responsibilities in affected fields;
+&emsp;(1) provides for comprehensive planning with respect to intrastate or interstate water resources, or both, in such State to meet the needs for water and water-related activities taking into account prospective demands for all purposes served through or affected by water and related land resources development, with adequate provision for coordination with all Federal, State, and local agencies, and nongovernmental entities having responsibilities in affected fields;
 
-&emsp;(2) provides, where comprehensive statewide development planning is being carried on with or without assistance under section 701 of the Housing Act of 1954 <sup>1</sup> or under chapter 2003 of title 54, for full coordination between comprehensive water resources planning and other statewide planning programs and for assurances that such water resources planning will be in conformity with the general development policy in such State;
+&emsp;(2) provides, where comprehensive statewide development planning is being carried on with or without assistance under section 701 of the Housing Act of 1954 <sup>1</sup> or under chapter 2003 of title 54, for full coordination between comprehensive water resources planning and other statewide planning programs and for assurances that such water resources planning willbe in conformity with the general development policy in such State;
 
 &emsp;(3) designates a State agency (hereinafter referred to as the "State agency") to administer the program;
 
@@ -17,6 +17,8 @@ The Council shall approve any program for comprehensive water and related land r
 > The Council shall not disapprove any program without first giving reasonable notice and opportunity for hearing to the State agency administering such program.
 
 (Pub. L. 89–80, title III, §303, July 22, 1965, 79 Stat. 252; Pub. L. 113–287, §5(k)(1), Dec. 19, 2014, 128 Stat. 3269.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

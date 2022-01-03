@@ -12,7 +12,7 @@ Application.—
 
 &emsp;(2) Based on the review under paragraph (1), the Secretary shall determine whether the State's one-call notification program meets the minimum standards for such a program set forth in section 6103 in order to qualify for a grant under section 6106.
 
-&emsp;(3) In order to expedite compliance under this section, the Secretary may consult withthe State as to whether an existing State one-call notification program, a specific modification thereof, or a proposed State program would result in a positive determination under paragraph (2).
+&emsp;(3) In order to expedite compliance under this section, the Secretary may consult with the State as to whether an existing State one-call notification program, a specific modification thereof, or a proposed State program would result in a positive determination under paragraph (2).
 
 &emsp;(4) The Secretary shall prescribe the form and manner of filing an application under this section that shall provide sufficient information about a State's one-call notification program for the Secretary to evaluate its overall effectiveness. Such information may include the nature and reasons for exceptions from required participation, the types of enforcement available, and such other information as the Secretary deems necessary.
 
@@ -34,9 +34,11 @@ Report.—The Secretary shall include the following information in reports submi
 
 &emsp;(4) areas where improvements are needed in one-call notification systems in operation in each State.
 
-> The report shall also include any recommendations the Secretary determines appropriate. If the Secretary determines that the purposes of this chapter have been substantially achieved, no further report under this section shall be required.
+> The report shall also include any recommendations the Secretary determines appropriate. If the Secretary determines that the purposes of this chapter have been substantially achieved,no further report under this section shall be required.
 
 (Added Pub. L. 105–178, title VII, §7302(a), June 9, 1998, 112 Stat. 479; amended Pub. L. 107–355, §2(b), Dec. 17, 2002, 116 Stat. 2985.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

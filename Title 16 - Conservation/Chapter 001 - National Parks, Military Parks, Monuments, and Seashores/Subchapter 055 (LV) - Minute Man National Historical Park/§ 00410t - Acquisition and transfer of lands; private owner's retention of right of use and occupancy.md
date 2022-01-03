@@ -2,7 +2,7 @@
 
 #### (a) Acquisition of lands; administrative jurisdiction of Federal lands; notice in Federal Register
 
-The Secretary of the Interior is authorized to acquire by donation or with donated funds, or with funds authorized to be appropriated, lands and interests in lands within the area designated for the park. Administrative jurisdiction of Federal lands lying within the area designated for the park shall, with the concurrence of the Federal agency involved, be transferred to the Secretary of the Interior for administration as a part of the park.
+The Secretary of the Interior is authorized to acquire by donation or with donated funds, or with funds authorized to be appropriated, landsand interests in lands within the area designated for the park. Administrative jurisdiction of Federal lands lying within the area designated for the park shall, with the concurrence of the Federal agency involved, be transferred to the Secretary of the Interior for administration as a part of the park.
 
 The park shall be established as Minute Man National Historical Park by notice in the Federal Register when the Secretary of the Interior finds that sufficient lands within the designated area have been acquired to warrant such establishment.
 
@@ -18,7 +18,7 @@ The Secretary of the Interior is authorized to acquire by donation, purchase wit
 
 &emsp;(2) lands, and interests in lands, within the 1991 additions which are used for noncommercial residential purposes as of July 1, 1991, may be acquired only with the consent of the owner thereof unless the property is being developed, or is proposed to be developed, in a manner which the Secretary determines to be detrimental to the scenic, historical, cultural, and other values of the park.
 
-> Nothing in paragraph (2) shall be construed to prohibit the use of condemnation as a means of acquiring a clear and marketable title, free of any and all encumbrances for any lands within the 1991 additions. Not later than 6 months after October 24, 1992, and after notice and opportunity for public comment, the Secretary of theInterior shall publish specific guidelines for making determinations under paragraph (2). Such guidelines shall provide for (A) written notice to the Secretary prior to commencement of any proposed development on the lands referred to in paragraph (2), (B) written notice by the Secretary to the owner of such lands of any determination proposed to be made under paragraph (2), and (C) a reasonable opportunity for the owner to comment on such proposed determination.
+> Nothing in paragraph (2) shall be construed to prohibit the use of condemnation as a means of acquiring a clear and marketable title, free of any and all encumbrances for any lands within the 1991 additions. Not later than 6 months after October 24, 1992, and after notice and opportunity for public comment, the Secretary of the Interior shall publish specific guidelines for making determinations under paragraph (2). Such guidelines shall provide for (A) written notice to the Secretary prior to commencement of any proposed development on the lands referred to in paragraph (2), (B) written notice by the Secretary to the owner of such lands of any determination proposed to be made under paragraph (2), and (C) a reasonable opportunity for the owner to comment on such proposed determination.
 
 #### (d) Private owner's retention of right of use and occupancy
 
@@ -30,6 +30,8 @@ The Secretary of the Interior is authorized to acquire by donation, purchase wit
 
 (Pub. L. 86–321, §2, Sept. 21, 1959, 73 Stat. 591; Pub. L. 102–488, §2(3)\[(2)\], Oct. 24, 1992, 106 Stat. 3135.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Minute Man National Historical Park Amendments of 1991, referred to in subsec. (c), is Pub. L. 102–488, Oct. 24, 1992, 106 Stat. 3135, which enacted sections 410x–1 and 410x–2 of this title, amended this section and sections 410s and 410x of this title, and enacted provisions set out as a note under section 410s of this title. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 410s of this title and Tables.
@@ -37,6 +39,8 @@ The Minute Man National Historical Park Amendments of 1991, referred to in subse
 #### Amendments
 
 <b>1992</b>—Pub. L. 102–488 designated existing provisions as subsec. (a) and added subsecs. (b) to (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Boundary Adjustment
 

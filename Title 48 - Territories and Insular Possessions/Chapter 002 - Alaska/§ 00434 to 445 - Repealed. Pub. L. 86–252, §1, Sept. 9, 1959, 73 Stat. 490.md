@@ -10,7 +10,7 @@ Section 437, act Oct. 20, 1914, ch. 330, §9, 38 Stat. 744, related to the term 
 
 Section 438, act Oct. 20, 1914, ch. 330, §9, 38 Stat. 744, related to rents and royalties payable to the United States by lessees. See section 207 of Title 30.
 
-Section 438a, act Oct. 20, 1914, ch. 330, §19, as added June 6, 1934, ch. 405, 48 Stat. 909, related to suspensionof rentals during suspension of operation or production. See section 209 of Title 30.
+Section 438a, act Oct. 20, 1914, ch. 330, §19, as added June 6, 1934, ch. 405, 48 Stat. 909, related to suspension of rentals during suspension of operation or production. See section 209 of Title 30.
 
 Section 439, acts Oct. 20, 1914, ch. 330, §9, 38 Stat. 744; July 10, 1957, Pub. L. 85–88, §1, 71 Stat. 282; July 7, 1958, Pub. L. 85–508, §28(a), 72 Stat. 351, related to distribution of net profits, bonuses, royalties, rentals, and other payments. See section 191 of Title 30.
 

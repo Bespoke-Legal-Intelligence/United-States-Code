@@ -108,7 +108,7 @@ Definitions.—For purposes of this section:
 
 &emsp;&emsp;(E) A person or entity obligated to provide, or to pay the expenses of, health services under a health-plan contract.
 
-(Added Pub. L. 106–117, title I, §111(a), Nov. 30, 1999, 113 Stat. 1553; amended Pub. L. 110–387, title IV, §402(a), Oct. 10, 2008, 122 Stat. 4123; Pub. L. 111–137, §1(a), (b), Feb. 1, 2010, 123 Stat. 3495.)
+(Added Pub. L. 106–117, title I, §111(a), Nov. 30, 1999, 113 Stat. 1553; amended Pub. L. 110–387, titleIV, §402(a), Oct. 10, 2008, 122 Stat. 4123; Pub. L. 111–137, §1(a), (b), Feb. 1, 2010, 123 Stat. 3495.)
 
 #### <b>Editorial Notes</b>
 

@@ -6,7 +6,7 @@ Not later than the date on which Congress convenes in 2011, 2016, and 2022, the 
 
 #### (b) Program and statement of policy
 
-Not later than the date on which Congress convenes in 2012, 2017, and 2023, the Presidentshall transmit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate—
+Not later than the date on which Congress convenes in 2012, 2017, and 2023, the President shall transmit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate—
 
 &emsp;(1) the initial program or updated program developed under section 2005 of this title and completed before the end of the previous year;
 
@@ -19,6 +19,8 @@ Not later than the date on which Congress convenes in 2012, 2017, and 2023, the 
 Not later than the date on which Congress convenes in 2012, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the plans of the Department of Agriculture for improving the resource appraisal and national conservation program required under this chapter, based on the recommendations received under sections 2004(d) and 2005(c) of this title.
 
 (Pub. L. 95–192, §7, Nov. 18, 1977, 91 Stat. 1410; Pub. L. 99–198, title XII, §1252(c), Dec. 23, 1985, 99 Stat. 1516; Pub. L. 110–234, title II, §2804(d), May 22, 2008, 122 Stat. 1087; Pub. L. 110–246, §4(a), title II, §2804(d), June 18, 2008, 122 Stat. 1664, 1815; Pub. L. 115–334, title II, §2402(3), Dec. 20, 2018, 132 Stat. 4571.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -36,9 +38,13 @@ Subsec. (b). Pub. L. 115–334, §2402(3)(B), substituted "2012, 2017, and 2023"
 
 Subsecs. (b), (c). Pub. L. 99–198, §1252(c)(2), (3), struck out subsec. (b) which provided for an annual report of program and policy achievement, and redesignated subsec. (c) as (b).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Reporting and Other Authorities
 

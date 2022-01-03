@@ -20,7 +20,7 @@ For purposes of section 412, the term "accumulated funding deficiency" for a CSE
 
 &emsp;&emsp;&emsp;(i) in the case of a plan in existence on January 1, 1974, the unfunded past service liability under the plan on the first day of the first plan year to which section 412 applies, over a period of 40 plan years,
 
-&emsp;&emsp;&emsp;(ii) in the case of a plan which comes into existence after January 1, 1974, but before the first day of the first plan year beginning after December 31, 2013, the unfunded past service liability under the plan on the first day of the first plan year to which section 412 applies, over a period of 30 plan years,
+&emsp;&emsp;&emsp;(ii) in the case of a plan which comes into existence after January 1, 1974, but before the first day of the first plan year beginning after December 31, 2013, the unfunded past service liability under the plan on the first day of the first plan year towhich section 412 applies, over a period of 30 plan years,
 
 &emsp;&emsp;&emsp;(iii) separately, with respect to each plan year, the net increase (if any) in unfunded past service liability under the plan arising from plan amendments adopted in such year, over a period of 15 plan years,
 
@@ -82,7 +82,7 @@ For purposes of section 412, the term "accumulated funding deficiency" for a CSE
 
 #### (1) Determinations to be made under funding method
 
-&emsp;For purposes of this section, normal costs, accrued liability, past service liabilities, andexperience gains and losses shall be determined under the funding method used to determine costs under the plan.
+&emsp;For purposes of this section, normal costs, accrued liability, past service liabilities, and experience gains and losses shall be determined under the funding method used to determine costs under the plan.
 
 #### (2) Valuation of assets
 
@@ -437,7 +437,7 @@ The period of years required to amortize any unfunded liability (described in an
 
 #### (B) Controlled group
 
-&emsp;&emsp;The term "controlled group" means any group treated as a single employer undersubsections (b), (c), (m), and (o) of section 414.
+&emsp;&emsp;The term "controlled group" means any group treated as a single employer under subsections (b), (c), (m), and (o) of section 414.
 
 #### (h) Current liability
 
@@ -539,7 +539,7 @@ Notwithstanding any other provisions of this section—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of a CSEC plan that is in funding restoration status for a plan year, forpurposes of section 412, the term "accumulated funding deficiency" means, for such plan year, the greater of—
+&emsp;&emsp;In the case of a CSEC plan that is in funding restoration status for a plan year, for purposes of section 412, the term "accumulated funding deficiency" means, for such plan year, the greater of—
 
 &emsp;&emsp;&emsp;(i) the amount described in subsection (a), or
 
@@ -597,6 +597,8 @@ Notwithstanding any other provisions of this section—
 
 (Added Pub. L. 113–97, title II, §202(a), Apr. 7, 2014, 128 Stat. 1122; amended Pub. L. 115–141, div. U, title IV, §401(a)(108), (109)(A), Mar. 23, 2018, 132 Stat. 1189.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 412 (as in effect on the day before the enactment of the Pension Protection Act of 2006), referred to in subsecs. (b)(2)(E), (c)(2)(B), (5)(A), and (f)(5)(B), means section 412 of this title as in effect on the day before the enactment of Pub. L. 109–280, which was approved Aug. 17, 2006. Section 111(a) of Pub. L. 109–280 generally amended section 412.
@@ -605,7 +607,7 @@ Section 104 of the Pension Protection Act of 2006, referred to in subsec. (b)(6)
 
 The Social Security Act, referred to in subsecs. (c)(4)(A) and (h)(3)(C)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Employee Retirement Income Security Act of 1974, referred to in subsecs. (c)(5)(C)(ii)(II), (d), and (g)(2), (4)(C), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. Title IV of the Act is classified principally to subchapter III (§1301 et seq.) of chapter 18 of Title 29. Sections 4001, 4006, 4021, and 4068 of the Act are classified to sections 1301, 1306, 1321, and 1368 of Title 29, respectively. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsecs. (c)(5)(C)(ii)(II), (d), and (g)(2), (4)(C), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. Title IV of the Act is classified principally to subchapter III (§1301 et seq.) of chapter 18 of Title 29. Sections 4001, 4006, 4021, and 4068 of the Act are classified to sections 1301, 1306, 1321, and 1368 of Title 29, respectively. For complete classification ofthis Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 The date of the enactment of the Retirement Protection Act of 1994, referred to in subsec. (g)(2), is the date of enactment of subtitle F of title VII of Pub. L. 103–465, which was approved Dec. 8, 1994.
 
@@ -614,6 +616,8 @@ The date of the enactment of the Retirement Protection Act of 1994, referred to 
 <b>2018</b>—Pub. L. 115–141, §401(a)(109)(A), inserted "for CSEC plans" after "funding standards" in section catchline.
 
 Subsec. (c)(5)(C)(ii)(II). Pub. L. 115–141, §401(a)(108), inserted "of such Act" after "title IV".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

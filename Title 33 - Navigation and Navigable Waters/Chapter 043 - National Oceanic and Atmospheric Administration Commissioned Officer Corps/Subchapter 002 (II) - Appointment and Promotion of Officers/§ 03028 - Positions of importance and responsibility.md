@@ -20,7 +20,7 @@ The President shall designate one position as responsible for oversight of the v
 
 #### (2) Reversion to permanent grade
 
-&emsp;An officer who has served in a grade above captain, upon termination of the officer's assignment to the position for which that appointment was made, shall, unless appointed or assigned to another position for which a higher grade is designated or immediately beginning a period of terminal leave, revert tothe grade and number the officer would have occupied but for serving in a grade above that of captain. In such a case, the officer shall be an extra number in that grade.
+&emsp;An officer who has served in a grade above captain, upon termination of the officer's assignment to the position for which that appointment was made, shall, unless appointed or assigned to another position for which a higher grade is designated or immediately beginning a period of terminal leave, revert to the grade and number the officer would have occupied but for serving in a grade above that of captain. In such a case, the officer shall be an extra number in that grade.
 
 #### (e) Limit on number of officers appointed
 

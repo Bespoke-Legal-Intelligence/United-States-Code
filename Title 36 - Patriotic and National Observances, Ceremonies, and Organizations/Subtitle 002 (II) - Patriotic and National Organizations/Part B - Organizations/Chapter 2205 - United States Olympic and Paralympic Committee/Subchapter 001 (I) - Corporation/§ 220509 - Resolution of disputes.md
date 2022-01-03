@@ -16,7 +16,7 @@ In general.—The corporation shall hire and provide salary, benefits, and admin
 
 Duties.—The Office of the Athlete Ombuds shall—
 
-&emsp;&emsp;(A) provide independent advice to athletes at no cost about the applicable provisions ofthis chapter and the constitution and bylaws of the corporation, national governing bodies, international sports federations, the International Olympic Committee, the International Paralympic Committee, and the Pan-American Sports Organization, and with respect to the resolution of any dispute involving the opportunity of an amateur athlete to participate in the Olympic Games, the Paralympic Games, the Pan-American Games, the Parapan American Games, world championship competition or other protected competition as defined in the constitution and bylaws of the corporation;
+&emsp;&emsp;(A) provide independent advice to athletes at no cost about the applicable provisions of this chapter and the constitution and bylaws of the corporation, national governing bodies, international sports federations, the International Olympic Committee, the International Paralympic Committee, and the Pan-American Sports Organization, and with respect to the resolution of any dispute involving the opportunity of an amateur athlete to participate in the Olympic Games, the Paralympic Games, the Pan-American Games, the Parapan American Games, worldchampionship competition or other protected competition as defined in the constitution and bylaws of the corporation;
 
 &emsp;&emsp;(B) assist in the resolution of athlete concerns;
 
@@ -138,7 +138,7 @@ Retaliation.—
 
 &emsp;(1)
 
-In general.—The corporation, the national governing bodies, or any officer, employee, contractor, subcontractor, or agent of the corporation or a national governing body may not retaliate against any protected individual as a result of any communication, including the filing of a formal complaint, by a protected individual or a parent or legal guardian of the protected individual relating to an allegation of physical abuse, sexual harassment, or emotional abuse.
+In general.—The corporation, the national governing bodies, or any officer, employee, contractor, subcontractor, or agent ofthe corporation or a national governing body may not retaliate against any protected individual as a result of any communication, including the filing of a formal complaint, by a protected individual or a parent or legal guardian of the protected individual relating to an allegation of physical abuse, sexual harassment, or emotional abuse.
 
 &emsp;(2)
 

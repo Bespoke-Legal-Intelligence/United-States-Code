@@ -44,7 +44,7 @@ The Office of the Director of National Intelligence is composed of the following
 
 (1) To assist the Director of National Intelligence in fulfilling the duties and responsibilities of the Director, the Director shall employ and utilize in the Office of the Director of National Intelligence a professional staff having an expertise in matters relating to such duties and responsibilities, and may establish permanent positions and appropriate rates of pay with respect to that staff.
 
-(2) The staff of the Office of the Director of National Intelligence under paragraph (1) shallinclude the staff of the Office of the Deputy Director of Central Intelligence for Community Management that is transferred to the Office of the Director of National Intelligence under section 1091 of the National Security Intelligence Reform Act of 2004.
+(2) The staff of the Office of the Director of National Intelligence under paragraph (1) shall include the staff of the Office of the Deputy Director of Central Intelligence for Community Management that is transferred to the Office of the Director of National Intelligence under section 1091 of the National Security Intelligence Reform Act of 2004.
 
 #### (e) Temporary filling of vacancies
 
@@ -59,6 +59,8 @@ With respect to filling temporarily a vacancy in an office within the Office of 
 The headquarters of the Office of the Director of National Intelligence may be located in the Washington metropolitan region, as that term is defined in section 8301 of title 40.
 
 (July 26, 1947, ch. 343, title I, §103, as added Pub. L. 108–458, title I, §1011(a), Dec. 17, 2004, 118 Stat. 3655; amended Pub. L. 111–259, title IV, §§403, 407(b), title VIII, §804(3), Oct. 7, 2010, 124 Stat. 2709, 2721, 2747; Pub. L. 112–87, title IV, §405, Jan. 3, 2012, 125 Stat. 1888; Pub. L. 115–31, div. N, title IV, §401(d), May 5, 2017, 131 Stat. 818.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -89,6 +91,8 @@ Another prior section 103 of act July 26, 1947, was renumbered section 107 and i
 Subsec. (c)(9) to (14). Pub. L. 111–259, §407(b), added pars. (9) to (13) and redesignated former par. (9) as (14).
 
 Subsec. (e). Pub. L. 111–259, §403, amended subsec. (e) generally. Prior to amendment, text read as follows: "Commencing as of October 1, 2008, the Office of the Director of National Intelligence may not be co-located with any other element of the intelligence community."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

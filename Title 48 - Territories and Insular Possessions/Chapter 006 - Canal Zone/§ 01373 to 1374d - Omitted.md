@@ -1,8 +1,10 @@
 ### §§1373 to 1374d. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
-Section 1373, acts May 29, 1944, ch. 214, §1, 58 Stat. 257; Sept. 26, 1950, ch. 1049, §2(a)(1), (2), 64 Stat. 1038, related to recognition of personnel engaged in construction of the canal.
+Section 1373, acts May 29, 1944, ch. 214, §1, 58 Stat. 257; Sept. 26, 1950, ch. 1049, §2(a)(1), (2), 64 Stat. 1038, relatedto recognition of personnel engaged in construction of the canal.
 
 Section 1373a, acts May 29, 1944, ch. 214, §2, 58 Stat. 258; Aug. 7, 1946, ch. 774, 60 Stat. 873; Sept. 26, 1950, ch. 1049, §2(a)(1), (2), 64 Stat. 1038, related to annuity privilege of personnel described in section 1373 of this title.
 

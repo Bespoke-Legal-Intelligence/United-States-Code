@@ -20,7 +20,7 @@ The amount of any item of gross income shall be included in the gross income for
 
 &emsp;&emsp;This paragraph shall not apply to—
 
-&emsp;&emsp;&emsp;(i) a taxpayer which does not have a financial statement described in clause (i)or (ii) of subparagraph (A) for a taxable year, or
+&emsp;&emsp;&emsp;(i) a taxpayer which does not have a financial statement described in clause (i) or (ii) of subparagraph (A) for a taxable year, or
 
 &emsp;&emsp;&emsp;(ii) any item of gross income in connection with a mortgage servicing contract.
 
@@ -82,7 +82,7 @@ The amount of any item of gross income shall be included in the gross income for
 
 #### (A) In general
 
-&emsp;&emsp;Except as otherwise provided in this paragraph, the election under paragraph (1)(B) shall be made at such time, in such form and manner, and with respect to such categories of advance payments, as the Secretary may provide.
+&emsp;&emsp;Except as otherwise provided in this paragraph, the election under paragraph (1)(B)shall be made at such time, in such form and manner, and with respect to such categories of advance payments, as the Secretary may provide.
 
 #### (B) Period to which election applies
 
@@ -162,7 +162,7 @@ In the case of insurance proceeds received as a result of destruction or damage 
 
 #### (1) In general
 
-&emsp;In the case of a taxpayer the taxable income of which is computed under an accrual method of accounting, any income attributable to the sale or furnishing of utility services to customers shall be included in gross income not later than the taxable year in which such services are provided to such customers.
+&emsp;In the case of a taxpayer the taxable income of which is computed under an accrual methodof accounting, any income attributable to the sale or furnishing of utility services to customers shall be included in gross income not later than the taxable year in which such services are provided to such customers.
 
 #### (2) Definition and special rule
 
@@ -274,7 +274,7 @@ In the case of insurance proceeds received as a result of destruction or damage 
 
 #### (3) Qualifying electric transmission transaction
 
-&emsp;For purposes of this subsection, the term "qualifying electric transmission transaction"means any sale or other disposition before January 1, 2008 (before January 1, 2021, in the case of a qualified electric utility), of—
+&emsp;For purposes of this subsection, the term "qualifying electric transmission transaction" means any sale or other disposition before January 1, 2008 (before January 1, 2021, in the case of a qualified electric utility), of—
 
 &emsp;&emsp;(A) property used in the trade or business of providing electric transmission services, or
 
@@ -352,7 +352,9 @@ In the case of insurance proceeds received as a result of destruction or damage 
 
 &emsp;Section 453 shall not apply to any qualifying electric transmission transaction with respect to which an election to apply this subsection is made.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 152; Pub. L. 89–97, title III, §313(b), July 30, 1965, 79 Stat. 382; Pub. L. 91–172, title II, §215(a), Dec. 30, 1969, 83 Stat. 573; Pub. L. 94–455, title XIX, §1906(b)(13)(A),title XXI, §§2102(a), (b), 2141(a), Oct. 4, 1976, 90 Stat. 1834, 1900, 1933; Pub. L. 99–514, title VIII, §821(a), title IX, §905(b), Oct. 22, 1986, 100 Stat. 2372, 2386; Pub. L. 100–647, title I, §1009(d)(3), title VI, §§6030(a), 6033(a), Nov. 10, 1988, 102 Stat. 3450, 3694, 3695; Pub. L. 105–34, title IX, §913(a), Aug. 5, 1997, 111 Stat. 878; Pub. L. 105–277, div. J, title V, §5301(a), Oct. 21, 1998, 112 Stat. 2681–918; Pub. L. 108–357, title III, §311(c), title VIII, §909(a), Oct. 22, 2004, 118 Stat. 1467, 1657; Pub. L. 109–58, title XIII, §1305(a), (b), Aug. 8, 2005, 119 Stat. 997; Pub. L. 110–343, div. B, title I, §109(a)–(c), Oct. 3, 2008, 122 Stat. 3821; Pub. L. 111–312, title VII, §705(a), Dec. 17, 2010, 124 Stat. 3311; Pub. L. 112–240, title IV, §411(a), Jan. 2, 2013, 126 Stat. 2343; Pub. L. 113–295, div. A, title I, §159(a), Dec. 19, 2014, 128 Stat. 4022; Pub. L. 114–113, div. Q, title I, §191(a), Dec. 18, 2015, 129 Stat. 3075; Pub. L. 115–97, title I, §13221(a), (b), Dec. 22, 2017, 131 Stat. 2113, 2115; Pub. L. 115–123, div. D, title I, §40414(a), Feb. 9, 2018, 132 Stat. 152; Pub. L. 116–94, div. Q, title I, §132(a), Dec. 20, 2019, 133 Stat. 3233.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 152; Pub. L. 89–97, title III, §313(b), July 30, 1965, 79 Stat. 382; Pub. L. 91–172, title II, §215(a), Dec. 30, 1969, 83 Stat. 573; Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XXI, §§2102(a), (b), 2141(a), Oct. 4, 1976, 90 Stat. 1834, 1900, 1933; Pub. L. 99–514, title VIII, §821(a), title IX, §905(b), Oct. 22, 1986, 100 Stat. 2372, 2386; Pub. L. 100–647, title I, §1009(d)(3), title VI, §§6030(a), 6033(a), Nov. 10, 1988, 102 Stat. 3450, 3694, 3695; Pub. L. 105–34, title IX, §913(a), Aug. 5, 1997, 111 Stat. 878; Pub. L. 105–277, div. J, title V, §5301(a), Oct. 21, 1998, 112 Stat. 2681–918; Pub. L. 108–357, title III, §311(c), title VIII, §909(a), Oct. 22, 2004, 118 Stat. 1467, 1657; Pub. L. 109–58, title XIII, §1305(a), (b), Aug. 8, 2005, 119 Stat. 997; Pub. L. 110–343, div. B, title I, §109(a)–(c), Oct. 3, 2008, 122 Stat. 3821; Pub. L. 111–312, title VII, §705(a), Dec. 17, 2010, 124 Stat. 3311; Pub. L. 112–240, title IV, §411(a), Jan. 2, 2013, 126 Stat. 2343; Pub. L. 113–295, div. A, title I, §159(a), Dec. 19, 2014, 128 Stat. 4022; Pub. L. 114–113, div. Q, title I, §191(a), Dec. 18, 2015, 129 Stat. 3075; Pub. L. 115–97, title I, §13221(a), (b), Dec. 22, 2017, 131 Stat. 2113, 2115; Pub. L. 115–123, div. D, title I, §40414(a), Feb. 9, 2018, 132 Stat. 152; Pub. L. 116–94, div. Q, title I, §132(a), Dec. 20, 2019, 133 Stat. 3233.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -414,13 +416,15 @@ Subsec. (e). Pub. L. 94–455, §2141(a), added subsec. (e).
 
 <b>1965</b>—Subsec. (c). Pub. L. 89–97 added subsec. (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2019 Amendment
 
 Pub. L. 116–94, div. Q, title I, §132(b), Dec. 20, 2019, 133 Stat. 3233, provided that: "The amendment made by this section \[amending this section\] shall apply to dispositions after December 31, 2017."
 
 #### Effective Date of 2018 Amendment
 
-Pub. L. 115–123, div. D, title I, §40414(b), Feb. 9, 2018, 132 Stat. 152, provided that: "The amendment made by this section \[amending this section\] shall apply to dispositions after December 31, 2016."
+Pub. L. 115–123, div. D, title I, §40414(b), Feb. 9, 2018, 132 Stat. 152, provided that: "The amendment made bythis section \[amending this section\] shall apply to dispositions after December 31, 2016."
 
 #### Effective Date of 2017 Amendment
 
@@ -562,7 +566,7 @@ Pub. L. 99–514, title IX, §905(c), Oct. 22, 1986, 100 Stat. 2387, as amended 
 
 "(1)
 
-In general.—The amendment made by subsection (a) \[amending section 165 of this title\] shall apply to taxable years beginning after December 31,1981, and, except as provided in paragraph (2), the amendment made by subsection (b) \[amending this section\] shall apply to taxable years beginning after December 31, 1982.
+In general.—The amendment made by subsection (a) \[amending section 165 of this title\] shall apply to taxable years beginning after December 31, 1981, and, except as provided in paragraph (2), the amendment made by subsection (b) \[amending this section\] shall apply to taxable years beginning after December 31, 1982.
 
 "(2)
 
@@ -682,7 +686,7 @@ Applicable percentage.—For purposes of subparagraph (A), the applicable percen
 
 | <b> "If the taxable year begins in  calendar year:</b> | <b>The applicable percentage is:</b> |
 | :--- | ---: |
-| 1983 | 331/3   |
+| 1983 | 331/3&nbsp;&nbsp; |
 | 1984 | 662/3&nbsp;&nbsp; |
 | 1985 or thereafter | 100\. |
 

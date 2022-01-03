@@ -14,7 +14,7 @@ It shall be unlawful for any domestic concern, other than an issuer which is sub
 
 &emsp;(2) any foreign political party or official thereof or any candidate for foreign political office for purposes of—
 
-&emsp;&emsp;(A)(i) influencing any act or decision of such party, official, or candidate in its or hisofficial capacity, (ii) inducing such party, official, or candidate to do or omit to do an act in violation of the lawful duty of such party, official, or candidate, or (iii) securing any improper advantage; or
+&emsp;&emsp;(A)(i) influencing any act or decision of such party, official, or candidate in its or his official capacity, (ii) inducing such party, official, or candidate to do or omit to do an act in violation of the lawful duty of such party, official, or candidate, or (iii) securing any improper advantage; or
 
 &emsp;&emsp;(B) inducing such party, official, or candidate to use its or his influence with a foreign government or instrumentality thereof to affect or influence any act or decision of such government or instrumentality,
 
@@ -122,7 +122,7 @@ For purposes of this section:
 
 &emsp;&emsp;(v) actions of a similar nature.
 
-&emsp;(B) The term "routine governmental action" does not include any decision by a foreign official whether, or on what terms, to award new business to or to continue business with a particular party, or any action taken by a foreign official involved in the decision-making process to encourage a decision to award new business to or continue business with a particular party.
+&emsp;(B) The term "routine governmental action" does not include any decision by a foreign official whether, or on what terms, to award newbusiness to or to continue business with a particular party, or any action taken by a foreign official involved in the decision-making process to encourage a decision to award new business to or continue business with a particular party.
 
 &emsp;(5) The term "interstate commerce" means trade, commerce, transportation, or communication among the several States, or between any foreign country and any State or between any State and any place or ship outside thereof, and such term includes the intrastate use of—
 
@@ -137,6 +137,8 @@ For purposes of this section:
 (2) As used in this subsection, the term "United States person" means a national of the United States (as defined in section 1101 of title 8) or any corporation, partnership, association, joint-stock company, business trust, unincorporated organization, or sole proprietorship organized under the laws of the United States or any State, territory, possession, or commonwealth of the United States, or any political subdivision thereof.
 
 (Pub. L. 95–213, title I, §104, Dec. 19, 1977, 91 Stat. 1496; Pub. L. 100–418, title V, §5003(c), Aug. 23, 1988, 102 Stat. 1419; Pub. L. 103–322, title XXXIII, §330005, Sept. 13, 1994, 108 Stat. 2142; Pub. L. 105–366, §3, Nov. 10, 1998, 112 Stat. 3304.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -166,7 +168,7 @@ Subsec. (g)(1). Pub. L. 105–366, §3(b)(1), amended par. (1) generally. Prior 
 
 "(1)(A) Any domestic concern that violates subsection (a) of this section shall be fined not more than $2,000,000.
 
-"(B) Any domestic concern that violates subsection (a) of this section shall be subject to a civil penalty ofnot more than $10,000 imposed in an action brought by the Attorney General."
+"(B) Any domestic concern that violates subsection (a) of this section shall be subject to a civil penalty of not more than $10,000 imposed in an action brought by the Attorney General."
 
 Subsec. (g)(2). Pub. L. 105–366, §3(b)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows:
 

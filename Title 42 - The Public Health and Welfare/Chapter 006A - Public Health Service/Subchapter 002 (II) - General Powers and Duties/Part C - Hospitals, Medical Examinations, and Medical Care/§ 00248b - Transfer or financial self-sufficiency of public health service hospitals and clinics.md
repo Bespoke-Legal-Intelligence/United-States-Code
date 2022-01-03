@@ -34,13 +34,15 @@ Paragraph (1) shall not apply in the case of a proposal for the transfer of a di
 
 #### (e) Establishment of identifiable administrative unit
 
-There is established, within the Office of the Assistant Secretary for Health of the Department of Health and Human Services, an identifiable administrative unit which shall have direct responsibility and authority for overseeing the activities under this section.
+There is established, within the Office of the Assistant Secretary for Health of the Department of Health and Human Services, an identifiable administrative unit which shall have directresponsibility and authority for overseeing the activities under this section.
 
 #### (f) Finding of financial self-sufficiency
 
 For purposes of this section, a hospital or station cannot be found to be financially self-sufficient if the hospital or station is relying, in whole or in part, on direct appropriated funds for its continued operations.
 
 (Pub. L. 97–35, title IX, §987, Aug. 13, 1981, 95 Stat. 603.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -51,6 +53,8 @@ Section 248a of this title, referred to in subsec. (a), was in the original "sec
 #### Codification
 
 Section was enacted as part of the Omnibus Budget Reconciliation Act of 1981, and not as part of the Public Health Service Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Congressional Findings and Declaration of Purpose
 

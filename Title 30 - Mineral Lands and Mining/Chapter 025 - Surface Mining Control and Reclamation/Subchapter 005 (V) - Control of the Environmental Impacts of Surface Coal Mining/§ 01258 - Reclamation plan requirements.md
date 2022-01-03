@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) the productivity of the land prior to mining, including appropriate classification as prime farm lands, as well as the average yield of food, fiber, forage, or wood products from such lands obtained under high levels of management;
 
-&emsp;(3) the use which is proposed to be made of the land following reclamation, including adiscussion of the utility and capacity of the reclaimed land to support a variety of alternative uses and the relationship of such use to existing land use policies and plans, and the comments of any owner of the surface, State and local governments or agencies thereof which would have to initiate, implement, approve or authorize the proposed use of the land following reclamation;
+&emsp;(3) the use which is proposed to be made of the land following reclamation, including a discussion of the utility and capacity of the reclaimed land to support a variety of alternative uses and the relationship of such use to existing land use policies and plans, and the comments of any owner of the surface, State and local governments or agencies thereof which would have to initiate, implement, approve or authorize the proposed use of the land following reclamation;
 
 &emsp;(4) a detailed description of how the proposed postmining land use is to be achieved and the necessary support activities which may be needed to achieve the proposed land use;
 

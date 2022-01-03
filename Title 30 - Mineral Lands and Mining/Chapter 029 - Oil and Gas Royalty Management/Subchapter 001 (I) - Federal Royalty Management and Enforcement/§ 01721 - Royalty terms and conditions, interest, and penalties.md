@@ -42,7 +42,7 @@ A lessee or its designee may make a payment for the approximate amount of royalt
 
 (2) This subsection applies only to requirements for reporting and paying royalties. Nothing in this subsection is intended to alter a lessee's liability for royalties on oil or gas production based on the share of production allocated to the lease in accordance with the terms of the lease, a unit or communitization agreement, or any other agreement.
 
-(3) For any unit or communitization agreement if all lessees contractually agree to an alternative method of royalty reporting and payment, the lessees may submit such alternative method to the Secretary or the delegated State for approval and make payments in accordance with such approved alternative method so longas such alternative method does not reduce the amount of the royalty obligation.
+(3) For any unit or communitization agreement if all lessees contractually agree to an alternative method of royalty reporting and payment, the lessees may submit such alternative method to the Secretary or the delegated State for approval and make payments in accordance with such approved alternative method so long as such alternative method does not reduce the amount of the royalty obligation.
 
 (4) The Secretary or the delegated State shall grant an exception from the reporting and payment requirements for marginal properties by allowing for any calendar year or portion thereof royalties to be paid each month based on the volume of production sold. Interest shall not accrue on the difference for the entire calendar year or portion thereof between the amount of oil and gas actually sold and the share of production allocated to the lease until the beginning of the month following such calendar year or portion thereof. Any additional royalties due or overpaid royalties and associated interest shall be paid, refunded, or credited within six months after the end of each calendar year in which royalties are paid based on volumes of production sold. For the purpose of this subsection, the term "marginal property" means a lease that produces on average the combined equivalent of less than 15 barrels of oil per well per day or 90 thousand cubic feet of gas per well per day, or a combination thereof, determined by dividing the average daily production of crude oil and natural gas from producing wells on such lease by the number of such wells, unless the Secretary, together with the State concerned, determines that a different production is more appropriate.
 
@@ -110,7 +110,7 @@ Amendment by Pub. L. 104–185 applicable with respect to production of oil and 
 
 #### Applicability of 1996 Amendment
 
-Amendment by Pub. L. 104–185 not applicable to any privately owned minerals or with respect to Indianlands, see sections 9 and 10 of Pub. L. 104–185, set out as a note under section 1701 of this title.
+Amendment by Pub. L. 104–185 not applicable to any privately owned minerals or with respect to Indian lands, see sections 9 and 10 of Pub. L. 104–185, set out as a note under section 1701 of this title.
 
 #### Payment of Interest Charges From Current Receipts
 

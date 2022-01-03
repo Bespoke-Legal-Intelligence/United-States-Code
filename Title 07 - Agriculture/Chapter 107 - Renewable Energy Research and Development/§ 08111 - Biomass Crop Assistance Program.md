@@ -228,7 +228,7 @@ The Secretary shall establish and administer a Biomass Crop Assistance Program t
 
 &emsp;&emsp;&emsp;(i) an agreement to make available to the Secretary, or to an institution of higher education or other entity designated by the Secretary, such information as the Secretary considers to be appropriate to promote the production of eligible crops and the development of biomass conversion technology;
 
-&emsp;&emsp;&emsp;(ii) compliance with the highly erodible land conservation requirements of subtitle B of title XII of the Food Security Act of1985 (16 U.S.C. 3811 et seq.) and the wetland conservation requirements of subtitle C of title XII of that Act (16 U.S.C. 3821 et seq.);
+&emsp;&emsp;&emsp;(ii) compliance with the highly erodible land conservation requirements of subtitle B of title XII of the Food Security Act of 1985 (16 U.S.C. 3811 et seq.) and the wetland conservation requirements of subtitle C of title XII of that Act (16 U.S.C. 3821 et seq.);
 
 &emsp;&emsp;&emsp;(iii) the implementation of (as determined by the Secretary)—
 
@@ -332,7 +332,7 @@ The Secretary shall establish and administer a Biomass Crop Assistance Program t
 
 #### (e) Report
 
-Not later than 4 years after February 7, 2014, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on the dissemination by the Secretary of the best practice data and information gathered from participants receiving assistance under this section.
+Not later than 4 years after February 7, 2014, the Secretary shall submit to the Committee onAgriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on the dissemination by the Secretary of the best practice data and information gathered from participants receiving assistance under this section.
 
 #### (f) Funding
 
@@ -349,6 +349,8 @@ Not later than 4 years after February 7, 2014, the Secretary shall submit to the
 &emsp;Effective for fiscal year 2014 and each subsequent fiscal year, funds made available under this subsection shall be available for the provision of technical assistance with respect to activities authorized under this section.
 
 (Pub. L. 107–171, title IX, §9011, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1327, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2089; amended Pub. L. 112–240, title VII, §701(f)(10), Jan. 2, 2013, 126 Stat. 2365; Pub. L. 113–79, title IX, §9010, Feb. 7, 2014, 128 Stat. 932; Pub. L. 115–334, title IX, §9010, Dec. 20, 2018, 132 Stat. 4887.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -381,6 +383,8 @@ Subsec. (f)(3). Pub. L. 115–334, §9010(2)(B), amended par. (3) generally. Pri
 <b>2014</b>—Pub. L. 113–79 amended section generally. Prior to amendment, section related to the Biomass Crop Assistance Program.
 
 <b>2013</b>—Subsec. (f). Pub. L. 112–240 designated existing provisions as par. (1), inserted heading, and added par (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2013 Amendment
 

@@ -50,7 +50,7 @@ Within three years after November 17, 1986, the Secretary shall develop land use
 
 #### (j) Concurrence by Secretary
 
-(1) Upon receipt of a special management area land use ordinance from the Commission, the Secretary shall notify the public of such receipt and shall, within ninety days thereafter, concur with the Commission's tentative determination of consistency with the management plan unless the Secretary determines the ordinance is inconsistent. Any ordinance submitted to the Secretary shall become effective upon notification of concurrence. Should the Secretary fail to act within ninety days, the Secretary shall be deemed to have concurred with the Commission's tentative consistency determination.
+(1) Upon receipt of a special management area land use ordinance from the Commission, the Secretary shall notify the public of such receipt and shall, within ninety days thereafter, concur with the Commission's tentative determination of consistency with the management plan unlessthe Secretary determines the ordinance is inconsistent. Any ordinance submitted to the Secretary shall become effective upon notification of concurrence. Should the Secretary fail to act within ninety days, the Secretary shall be deemed to have concurred with the Commission's tentative consistency determination.
 
 (2)
 
@@ -78,7 +78,7 @@ Upon receipt of notification of nonconcurrence by the Secretary, the Commission 
 
 #### (m) Subsequent compliance
 
-In the event the Commission has adopted an ordinance pursuant to this section, the affected county may thereafter, upon written notice to the Commission and to the Secretary, elect to adopt a special management area land use ordinance, in which event it shall comply with the provisions of this section for adoption of specialmanagement area land use ordinances. Upon concurrence of such land use ordinances by the Secretary they shall supersede any special management area land use ordinances for the county development by the Commission, subject to valid existing rights.
+In the event the Commission has adopted an ordinance pursuant to this section, the affected county may thereafter, upon written notice to the Commission and to the Secretary, elect to adopt a special management area land use ordinance, in which event it shall comply with the provisions of this section for adoption of special management area land use ordinances. Upon concurrence of such land use ordinances by the Secretary they shall supersede any special management area land use ordinances for the county development by the Commission, subject to valid existing rights.
 
 #### (n) Effect of Secretary's non-concurrence
 
@@ -96,9 +96,13 @@ If the Secretary does not concur in any land use ordinance approved or adopted b
 
 (Pub. L. 99–663, §8, Nov. 17, 1986, 100 Stat. 4283; Pub. L. 106–291, title III, §346(b), Oct. 11, 2000, 114 Stat. 999.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Subsec. (o). Pub. L. 106–291 designated existing provisions as par. (1), inserted par. heading, substituted "section 544g(e) of this title." for "the Uniform Appraisal Standards for Federal Land Acquisitions (Interagency Land Acquisition Conference, 1973)." in first sentence, and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Administration, Operation, and Maintenance of Pierce National Wildlife Refuge and Little White Salmon National Fish Hatchery
 

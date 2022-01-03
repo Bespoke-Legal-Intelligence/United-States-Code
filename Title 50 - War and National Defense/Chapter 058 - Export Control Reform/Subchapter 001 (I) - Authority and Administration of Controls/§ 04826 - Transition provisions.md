@@ -20,6 +20,8 @@ This subchapter shall not affect any administrative or judicial proceedings comm
 
 (Pub. L. 115–232, div. A, title XVII, §1768, Aug. 13, 2018, 132 Stat. 2233.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Export Administration Act of 1979, referred to in text, is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§4601 et seq.) of this title and was substantially repealed by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232. Section 6(j) of the Act was classified to section 4605(j) of this title prior to repeal. For complete classification of this Act to the Code, see Tables.

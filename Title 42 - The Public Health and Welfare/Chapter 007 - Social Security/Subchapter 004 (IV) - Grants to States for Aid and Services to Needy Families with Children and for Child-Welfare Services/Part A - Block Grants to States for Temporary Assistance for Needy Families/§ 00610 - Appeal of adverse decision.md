@@ -30,6 +30,8 @@ Within 5 days after the date the Secretary takes any adverse action under this p
 
 (Aug. 14, 1935, ch. 531, title IV, §410, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2148; amended Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 610, act Aug. 14, 1935, ch. 531, title IV, §410, as added Oct. 21, 1976, Pub. L. 94–585, §1(a), 90 Stat. 2901; amended July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(c)(6), 98 Stat. 1166, related to food stamp program coupons, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.
@@ -39,6 +41,8 @@ Another prior section 610, act Aug. 14, 1935, ch. 531, title IV, §410, as added
 #### Amendments
 
 <b>1997</b>—Pub. L. 105–33 made technical amendment to directory language of Pub. L. 104–193, §103(a)(1), which enacted this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1997 Amendment
 

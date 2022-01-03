@@ -2,7 +2,7 @@
 
 #### (a) One percent allotment for certain territories
 
-Of the funds allocated by the Corporation for provision of assistance under section 12571(a) of this title for a fiscal year, the Corporation shall reserve 1 percent for grants to the United StatesVirgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands upon approval by the Corporation of an application submitted under section 12582 of this title. The Corporation shall allot for a grant to each such territory under this subsection for a fiscal year an amount that bears the same ratio to 1 percent of the allocated funds for that fiscal year as the population of the territory bears to the total population of all such territories.
+Of the funds allocated by the Corporation for provision of assistance under section 12571(a) of this title for a fiscal year, the Corporation shall reserve 1 percent for grants to the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands upon approval by the Corporation of an application submitted under section 12582 of this title. The Corporation shall allot for a grant to each such territory under this subsection for a fiscal year an amount that bears the same ratio to 1 percent of the allocated funds for that fiscal year as the population of the territory bears to the total population of all such territories.
 
 #### (b) Allotment for Indian tribes
 
@@ -62,13 +62,13 @@ The Corporation shall make an allotment of assistance (including the provision o
 
 #### (h) Approval of positions subject to available funds
 
-The Corporation may not approve positions as approved national service positions under thisdivision for a fiscal year in excess of the number of such positions for which the Corporation has sufficient available funds in the National Service Trust for that fiscal year, taking into consideration funding needs for national service educational awards under division D based on completed service. If appropriations are insufficient to provide the maximum allowable national service educational awards under division D for all eligible participants, the Corporation is authorized to make necessary and reasonable adjustments to program rules.
+The Corporation may not approve positions as approved national service positions under this division for a fiscal year in excess of the number of such positions for which the Corporation has sufficient available funds in the National Service Trust for that fiscal year, taking into consideration funding needs for national service educational awards under division D based on completed service. If appropriations are insufficient to provide the maximum allowable national service educational awards under division D for all eligible participants, the Corporation is authorized to make necessary and reasonable adjustments to program rules.
 
 #### (i) Sponsorship of approved national service positions
 
 #### (1) Sponsorship authorized
 
-&emsp;The Corporation may enter into agreements with persons or entities who offer to sponsor national service positions for which the person or entity will be responsible for supplying the funds necessary to provide a national service educational award. The distribution of those approved national service positions shall be made pursuant to the agreement, and the creation of those positions shall not be taken into consideration in determining the number of approved national service positions to be available for distribution under this section.
+&emsp;The Corporation may enter into agreements with persons or entities who offer to sponsor national service positions for which the personor entity will be responsible for supplying the funds necessary to provide a national service educational award. The distribution of those approved national service positions shall be made pursuant to the agreement, and the creation of those positions shall not be taken into consideration in determining the number of approved national service positions to be available for distribution under this section.
 
 #### (2) Deposit of contribution
 
@@ -138,7 +138,7 @@ The Corporation may not approve positions as approved national service positions
 
 &emsp;&emsp;(A) shall require the grant recipient—
 
-&emsp;&emsp;&emsp;(i) to return a pro rata amount of the grant funds based upon the difference between the number of hours served by a participant and the minimum number ofhours for completion of a term of service (as established by the Corporation);
+&emsp;&emsp;&emsp;(i) to return a pro rata amount of the grant funds based upon the difference between the number of hours served by a participant and the minimum number of hours for completion of a term of service (as established by the Corporation);
 
 &emsp;&emsp;&emsp;(ii) to report on the program's performance on standardized measures and performance levels established by the Corporation;
 
@@ -158,6 +158,8 @@ The Corporation may not approve positions as approved national service positions
 
 (Pub. L. 101–610, title I, §129, as added Pub. L. 103–82, title I, §101(b), Sept. 21, 1993, 107 Stat. 796; amended Pub. L. 111–13, title I, §1306, Apr. 21, 2009, 123 Stat. 1501.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Domestic Volunteer Service Act of 1973, referred to in subsec. (c), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394. Title I of the Act is classified generally to subchapter I (§4951 et seq.) of chapter 66 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
@@ -171,6 +173,8 @@ A prior section 129 of Pub. L. 101–610 was renumbered section 199H and is clas
 #### Amendments
 
 <b>2009</b>—Pub. L. 111–13 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (g) relating to allotments of assistance and approved national service positions to States and Indian tribes, reservation of the national service educational award for eligible individuals in approved positions, reservation of amounts appropriated as considered appropriate for special assistance, competitive distribution of remaining funds, application requirement, approval of positions subject to available funds, and sponsorship of approved national service positions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

@@ -8,11 +8,11 @@
 
 (b) The United States trustee (or bankruptcy administrator, if any) shall only approve a nonprofit budget and credit counseling agency or an instructional course concerning personal financial management as follows:
 
-&emsp;(1) The United States trustee (or bankruptcy administrator, if any) shall have thoroughly reviewed the qualifications of the nonprofit budget and credit counseling agency or of the provider of the instructional course under the standards set forth in this section, and the services or instructional courses that will be offered by such agency or such provider, and may require such agency or such provider that has sought approval to provide information with respect to such review.
+&emsp;(1) The United States trustee (or bankruptcy administrator, if any) shall have thoroughly reviewed the qualifications of the nonprofit budget and credit counseling agency or of the provider of the instructional course under the standards set forth in this section, and theservices or instructional courses that will be offered by such agency or such provider, and may require such agency or such provider that has sought approval to provide information with respect to such review.
 
 &emsp;(2) The United States trustee (or bankruptcy administrator, if any) shall have determined that such agency or such instructional course fully satisfies the applicable standards set forth in this section.
 
-&emsp;(3) If a nonprofit budget and credit counseling agency or instructional course did not appear on the approved list for the districtunder subsection (a) immediately before approval under this section, approval under this subsection of such agency or such instructional course shall be for a probationary period not to exceed 6 months.
+&emsp;(3) If a nonprofit budget and credit counseling agency or instructional course did not appear on the approved list for the district under subsection (a) immediately before approval under this section, approval under this subsection of such agency or such instructional course shall be for a probationary period not to exceed 6 months.
 
 &emsp;(4) At the conclusion of the applicable probationary period under paragraph (3), the United States trustee (or bankruptcy administrator, if any) may only approve for an additional 1-year period, and for successive 1-year periods thereafter, an agency or instructional course that has demonstrated during the probationary or applicable subsequent period of approval that such agency or instructional course—
 
@@ -68,7 +68,7 @@
 
 (e) The district court may, at any time, investigate the qualifications of a nonprofit budget and credit counseling agency referred to in subsection (a), and request production of documents to ensure the integrity and effectiveness of such agency. The district court may, at any time, remove from the approved list under subsection (a) a nonprofit budget and credit counseling agency upon finding such agency does not meet the qualifications of subsection (b).
 
-(f) The United States trustee (or the bankruptcy administrator, if any) shall notify theclerk that a nonprofit budget and credit counseling agency or an instructional course is no longer approved, in which case the clerk shall remove it from the list maintained under subsection (a).
+(f) The United States trustee (or the bankruptcy administrator, if any) shall notify the clerk that a nonprofit budget and credit counseling agency or an instructional course is no longer approved, in which case the clerk shall remove it from the list maintained under subsection (a).
 
 (g)(1) No nonprofit budget and credit counseling agency may provide to a credit reporting agency information concerning whether a debtor has received or sought instruction concerning personal financial management from such agency.
 

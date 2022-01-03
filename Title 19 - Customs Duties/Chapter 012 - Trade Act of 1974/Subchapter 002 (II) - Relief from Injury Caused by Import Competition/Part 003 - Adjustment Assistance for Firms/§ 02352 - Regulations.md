@@ -8,6 +8,8 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 <i>For termination of renumbering of section, beginning on July 1, 2021, see Codification and Effective and Termination Dates of 2015 Revival notes below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 233 of Pub. L. 112–40, which provided for the Jan. 1, 2014, revival of the numbering of this section as in effect on Feb. 13, 2011, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, and the renumbering of this section, as in effect on Dec. 31, 2013, was temporarily revived, effective June 29, 2015, until July 1, 2021, by Pub. L. 114–27, §§402(b), (c), 406. See Effective and Termination Dates of 2015 Revival notes below.
@@ -18,11 +20,13 @@ Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination o
 
 A prior section 260 of Pub. L. 93–618 was temporarily renumbered section 258 and is classified to section 2350 of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective and Termination Dates of 2015 Revival
 
 For revival and applicability, beginning on June 29, 2015, of the provisions of this section as in effect on Dec. 31, 2013, see section 402(b), (c) of Pub. L. 114–27, set out as a note preceding section 2271 of this title.
 
-For reversion, beginning on July 1, 2021, to the provisions of this section as in effect on Jan. 1, 2014, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see section 406 of Pub. L. 114–27, set out as a note preceding section 2271 of this title.
+For reversion, beginning on July 1, 2021, to the provisions of this section as in effect on Jan. 1, 2014, withcertain exceptions and subject to section 406(b) of Pub. L. 114–27, see section 406 of Pub. L. 114–27, set out as a note preceding section 2271 of this title.
 
 #### Effective and Termination Dates of 2011 Revival
 

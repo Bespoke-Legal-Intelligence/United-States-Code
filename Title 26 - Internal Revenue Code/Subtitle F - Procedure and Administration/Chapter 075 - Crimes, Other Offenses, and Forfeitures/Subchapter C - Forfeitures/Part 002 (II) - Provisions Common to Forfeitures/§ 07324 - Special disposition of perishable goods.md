@@ -34,6 +34,8 @@ When any property which is seized under the provisions of section 7301 or sectio
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 870; Pub. L. 85–859, title II, §204(9), Sept. 2, 1958, 72 Stat. 1429; Pub. L. 85–866, title I, §78, Sept. 2, 1958, 72 Stat. 1662; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Pars. (1) to (4). Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
@@ -41,6 +43,8 @@ When any property which is seized under the provisions of section 7301 or sectio
 <b>1958</b>—Par. (3). Pub. L. 85–866 struck out "district" before "attorney".
 
 Pub. L. 85–859 included property seized under section 7302 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1958 Amendments
 

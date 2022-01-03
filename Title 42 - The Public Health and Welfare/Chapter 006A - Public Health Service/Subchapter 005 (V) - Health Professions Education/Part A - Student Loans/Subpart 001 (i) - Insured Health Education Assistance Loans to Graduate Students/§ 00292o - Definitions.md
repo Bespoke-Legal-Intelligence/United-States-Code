@@ -4,7 +4,7 @@ For purposes of this subpart:
 
 &emsp;(1) The term "eligible institution" means, with respect to a fiscal year, a school of medicine, osteopathic medicine, dentistry, veterinary medicine, optometry, podiatric medicine, pharmacy, public health, allied health, or chiropractic, or a graduate program in health administration or behavioral and mental health practice, including clinical psychology.
 
-&emsp;(2) The term "eligible lender" means an eligible institution that became a lender under this subpart prior to September 15, 1992, an agency or instrumentality of a State, a financial or credit institution (including an insurance company) which is subject to examination and supervision by an agency of the United States or of any State, a pension fund approved by the Secretary for this purpose, or a nonprofit private entity designated by theState, regulated by the State, and approved by the Secretary.
+&emsp;(2) The term "eligible lender" means an eligible institution that became a lender under this subpart prior to September 15, 1992, an agency or instrumentality of a State, a financial or credit institution (including an insurance company) which is subject to examination and supervision by an agency of the United States or of any State, a pension fund approved by the Secretary for this purpose, or a nonprofit private entity designated by the State, regulated by the State, and approved by the Secretary.
 
 &emsp;(3) The term "line of credit" means an arrangement or agreement between the lender and the borrower whereby a loan is paid out by the lender to the borrower in annual installments, or whereby the lender agrees to make, in addition to the initial loan, additional loans in subsequent years.
 
@@ -36,11 +36,15 @@ For purposes of this subpart:
 
 (July 1, 1944, ch. 373, title VII, §719, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2009; amended Pub. L. 105–392, title I, §141(c)(2), Nov. 13, 1998, 112 Stat. 3579; Pub. L. 113–76, div. H, title V, §525(e), Jan. 17, 2014, 128 Stat. 413.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Par. (6). Pub. L. 113–76 added par. (6).
 
 <b>1998</b>—Par. (1). Pub. L. 105–392 substituted "or behavioral and mental health practice, including clinical psychology" for "or clinical psychology".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

@@ -76,7 +76,7 @@ The State process required under subsection (b)(1)(C) must comply with the follo
 
 #### (e) Revocation of transfer of management authority
 
-(1) Subject to paragraph (2), the Secretary shall revoke, after opportunity for a hearing, any transfer of management authority made to a State under subsection (b)(1) if the Secretary finds that the State program for the conservation and management of the species concerned is not being implemented, or is being implemented in a manner inconsistent with the provisions of this section or the provisions of the program. The Secretary shall also establish a procedure for the voluntary return by a State to the Secretary of species management authority that was previously transferred to the State under subsection (b)(1).
+(1) Subject to paragraph (2), the Secretary shall revoke, after opportunity for a hearing, any transfer of management authority made to a State under subsection (b)(1) if the Secretary finds that the State program for the conservation and management of the species concerned is not being implemented, or is being implemented in a manner inconsistent with the provisions ofthis section or the provisions of the program. The Secretary shall also establish a procedure for the voluntary return by a State to the Secretary of species management authority that was previously transferred to the State under subsection (b)(1).
 
 (2)(A) The Secretary may not revoke a transfer of management authority under paragraph (1) unless—
 
@@ -164,9 +164,11 @@ The Secretary is authorized and directed to enter into cooperative arrangements 
 
 (1) There are authorized to be appropriated to the Department of the Interior, for the purposes of carrying out this section, not to exceed $400,000 for each of the fiscal years ending September 30, 1979, September 30, 1980, and September 30, 1981.
 
-(2) There are authorized to be appropriated to the Department of Commerce, for the purposesof carrying out this section, not to exceed $225,000 for each of the fiscal years ending September 30, 1979, September 30, 1980, and September 30, 1981.
+(2) There are authorized to be appropriated to the Department of Commerce, for the purposes of carrying out this section, not to exceed $225,000 for each of the fiscal years ending September 30, 1979, September 30, 1980, and September 30, 1981.
 
 (Pub. L. 92–522, title I, §109, Oct. 21, 1972, 86 Stat. 1040; Pub. L. 95–316, §1, July 10, 1978, 92 Stat. 380; Pub. L. 97–58, §4(a), Oct. 9, 1981, 95 Stat. 982; Pub. L. 100–711, §5(a), (e)(3), Nov. 23, 1988, 102 Stat. 4769, 4771; Pub. L. 102–587, title III, §3004(a)(2), Nov. 4, 1992, 106 Stat. 5067; Pub. L. 103–238, §24(c)(10), Apr. 30, 1994, 108 Stat. 566.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -210,13 +212,15 @@ Subsecs. (k), (l). Pub. L. 97–58, §4(a)(1), redesignated subsecs. (c) and (d)
 
 <b>1978</b>—Subsec. (d). Pub. L. 95–316 added subsec. (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective upon the expiration of the sixty-day period following Oct. 21, 1972, see section 4 of Pub. L. 92–522, set out as a note under section 1361 of this title.
 
 #### Enforcement by Hawaii of Laws Relating to Conservation and Management of Humpback Whales With Respect to Recreational and Commercial Vessels
 
-Pub. L. 108–447, div. B, title II, §213, Dec. 8, 2004, 118 Stat. 2884, provided that: "Hereafter, notwithstanding any other Federal law related to the conservation and management of marine mammals, the State of Hawaii may enforce any State law or regulation with respect to the operation in State waters of recreational and commercial vessels, for the purpose of conservation and management of humpback whales, to the extent that such law or regulation is no less restrictive than Federal law."
+Pub. L. 108–447, div. B, title II, §213, Dec. 8, 2004, 118 Stat. 2884, provided that: "Hereafter, notwithstandingany other Federal law related to the conservation and management of marine mammals, the State of Hawaii may enforce any State law or regulation with respect to the operation in State waters of recreational and commercial vessels, for the purpose of conservation and management of humpback whales, to the extent that such law or regulation is no less restrictive than Federal law."
 
 #### Cooperative Agreements Under Endangered Species Act
 

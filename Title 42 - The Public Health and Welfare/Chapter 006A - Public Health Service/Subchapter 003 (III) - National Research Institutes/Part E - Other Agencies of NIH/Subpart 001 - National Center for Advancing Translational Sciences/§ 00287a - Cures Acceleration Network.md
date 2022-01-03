@@ -64,7 +64,7 @@ The functions of the CAN are to—
 
 #### (i) Appointment
 
-&emsp;&emsp;&emsp;The Board shall be comprised of 24 members who are appointed by the Secretary and who serve at the pleasure of the Secretary.
+&emsp;&emsp;&emsp;The Board shall be comprised of 24 members who are appointed by the Secretaryand who serve at the pleasure of the Secretary.
 
 #### (ii) Chairperson and Vice Chairperson
 
@@ -240,7 +240,7 @@ The functions of the CAN are to—
 
 #### (i) Initial award amount
 
-&emsp;&emsp;&emsp;Each award under this subparagraph shall be not more than $15,000,000 per project for the first fiscal year for which the project is funded, which shall be payable in one payment.
+&emsp;&emsp;&emsp;Each award under this subparagraph shall be not more than $15,000,000 per project for the first fiscal year for whichthe project is funded, which shall be payable in one payment.
 
 #### (ii) Funding in subsequent fiscal years
 
@@ -282,9 +282,11 @@ Any grant, cooperative agreement, or contract awarded under this section shall b
 
 (July 1, 1944, ch. 373, title IV, §480, formerly §402C, as added Pub. L. 111–148, title X, §10409(d), Mar. 23, 2010, 124 Stat. 978; renumbered §480 and amended Pub. L. 112–74, div. F, title II, §221(c)(1), Dec. 23, 2011, 125 Stat. 1089.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-Section 262(i) of this title, referred to in subsec. (a)(3), was in the original "section 262(i)", and wastranslated as meaning section 351(i) of act July 1, 1944, ch. 373, to reflect the probable intent of Congress.
+Section 262(i) of this title, referred to in subsec. (a)(3), was in the original "section 262(i)", and was translated as meaning section 351(i) of act July 1, 1944, ch. 373, to reflect the probable intent of Congress.
 
 #### Codification
 

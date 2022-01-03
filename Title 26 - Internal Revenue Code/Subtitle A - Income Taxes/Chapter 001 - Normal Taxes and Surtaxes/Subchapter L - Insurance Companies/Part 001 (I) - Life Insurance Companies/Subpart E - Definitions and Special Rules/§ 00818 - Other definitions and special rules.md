@@ -26,7 +26,7 @@ In the case of a life insurance company—
 
 &emsp;(1) in applying section 1231(a), the term "property used in the trade or business" shall be treated as including only—
 
-&emsp;&emsp;(A) property used in carrying on an insurance business, of a character which is subject to the allowance for depreciation provided in section 167, held for more than 1 year, and real property used in carrying onan insurance business, held for more than 1 year, which is not described in section 1231(b)(1)(A), (B), or (C), and
+&emsp;&emsp;(A) property used in carrying on an insurance business, of a character which is subject to the allowance for depreciation provided in section 167, held for more than 1 year, and real property used in carrying on an insurance business, held for more than 1 year, which is not described in section 1231(b)(1)(A), (B), or (C), and
 
 &emsp;&emsp;(B) property described in section 1231(b)(2), and
 
@@ -106,13 +106,15 @@ For purposes of this part—
 
 #### (2) Qualified accelerated death benefit riders
 
-&emsp;For purposes of this subsection, the term "qualified accelerated death benefit rider"means any rider on a life insurance contract if the only payments under the rider are payments meeting the requirements of section 101(g).
+&emsp;For purposes of this subsection, the term "qualified accelerated death benefit rider" means any rider on a life insurance contract if the only payments under the rider are payments meeting the requirements of section 101(g).
 
 #### (3) Exception for long-term care riders
 
 &emsp;Paragraph (1) shall not apply to any rider which is treated as a long-term care insurance contract under section 7702B.
 
 (Added and amended Pub. L. 98–369, div. A, title II, §211(a), title X, §1001(b)(10), (e), July 18, 1984, 98 Stat. 752, 1011, 1012; Pub. L. 99–514, title XI, §§1106(d)(3)(C), 1112(d)(4), 1136(b), title XVIII, §1821(n), (o), Oct. 22, 1986, 100 Stat. 2424, 2445, 2486, 2842; Pub. L. 100–647, title I, §§1010(k), 1011(e)(5)(A), Nov. 10, 1988, 102 Stat. 3456, 3461; Pub. L. 104–191, title III, §332(a), Aug. 21, 1996, 110 Stat. 2069; Pub. L. 106–170, title V, §532(c)(1)(D), (3), Dec. 17, 1999, 113 Stat. 1930, 1931.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -152,7 +154,7 @@ Subsec. (c)(3). Pub. L. 106–170, §532(c)(1)(D), substituted "section 1221(a)"
 
 <b>1996</b>—Subsec. (g). Pub. L. 104–191 added subsec. (g).
 
-<b>1988</b>—Subsec. (a)(6). Pub. L. 100–647, §1011(e)(5)(A), in subpar. (A) substituted "eligible deferred compensation plan" for "eligible State deferred compensation plan", and in subpar. (B), inserted "or any organization (other than a governmental unit) exempt from tax under this subtitle," after "foregoing," and substituted "agency or instrumentality, or organization" for "or agency or instrumentality".
+<b>1988</b>—Subsec. (a)(6). Pub. L. 100–647, §1011(e)(5)(A), in subpar. (A) substituted "eligible deferred compensationplan" for "eligible State deferred compensation plan", and in subpar. (B), inserted "or any organization (other than a governmental unit) exempt from tax under this subtitle," after "foregoing," and substituted "agency or instrumentality, or organization" for "or agency or instrumentality".
 
 Subsec. (f)(3). Pub. L. 100–647, §1010(k), added par. (3).
 
@@ -167,6 +169,8 @@ Subsec. (a)(6)(A). Pub. L. 99–514, §1821(n), in amending subpar. (A) generall
 Subsec. (e). Pub. L. 99–514, §1821(o), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: "If an election under section 1504(c)(2) is in effect with respect to an affiliated group for the taxable year, all items of the members of such group which are not life insurance companies shall not be taken into account in determining the amount of the tentative LICTI of members of such group which are life insurance companies."
 
 <b>1984</b>—Subsec. (b)(1)(A). Pub. L. 98–369, §1001(b)(10), (e), substituted "6 months" for "1 year" in two places, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1999 Amendment
 

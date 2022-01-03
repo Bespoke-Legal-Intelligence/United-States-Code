@@ -42,7 +42,7 @@
 
 &emsp;(F) perform such other functions and duties as are authorized by law.
 
-(2) Funds expended from appropriations available to the Secret Service for the purchase of counterfeits and subsequently recovered shall be reimbursed to the appropriations available to the Secret Service at the time of the reimbursement.
+(2) Funds expended from appropriations available to the Secret Service for the purchase ofcounterfeits and subsequently recovered shall be reimbursed to the appropriations available to the Secret Service at the time of the reimbursement.
 
 (d) Whoever knowingly and willfully obstructs, resists, or interferes with a Federal law enforcement agent engaged in the performance of the protective functions authorized by this section or by section 1752 of this title shall be fined not more than $1,000 or imprisoned not more than one year, or both.
 
@@ -138,7 +138,7 @@ Subsec. (b). Pub. L. 94–408 inserted reference to other Federal law enforcemen
 
 <b>1974</b>—Subsec. (a). Pub. L. 93–552 inserted provisions relating to the protection of the immediate family of the Vice President unless declined, and the payment of expenses for unforeseen emergencies of a confidential nature under the direction of the Secretary of the Treasury and accounted for solely on his certificate.
 
-<b>1971</b>—Pub. L. 91–651 authorized the Secret Service to protect the person of a visiting head of a foreign stateor foreign government and, at the direction of the President, other distinguished foreign visitors to the United States and official representatives of the United States performing special missions abroad, and substituted "Director, Deputy Director, Assistant Directors, Assistants to the Director" for "Chief, Deputy Chief, Assistant Chief".
+<b>1971</b>—Pub. L. 91–651 authorized the Secret Service to protect the person of a visiting head of a foreign state or foreign government and, at the direction of the President, other distinguished foreign visitors to the United States and official representatives of the United States performing special missions abroad, and substituted "Director, Deputy Director, Assistant Directors, Assistants to the Director" for "Chief, Deputy Chief, Assistant Chief".
 
 Pub. L. 91–644 designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -290,7 +290,7 @@ Sec. 2. As used in this Act the term—
 
 Sec. 3. (a) Each protectee may designate one non-governmental property to be fully secured by the Secret Service on a permanent basis.
 
-"(b) A protectee may thereafter designate a different non-Governmental property in lieu of the non-Governmental property previously designated under subsection (a) (hereinafter in this Act referred to as the 'previously designated property') as the one non-Governmental property to be fully secured by the Secret Service on a permanent basis under subsection (a). Thereafter, any expenditures by the Secret Service tomaintain a permanent guard detail or for permanent facilities, equipment, and services to secure the non-Governmental property previously designated under subsection (a) shall be subject to the limitations imposed under section 4.
+"(b) A protectee may thereafter designate a different non-Governmental property in lieu of the non-Governmental property previously designated under subsection (a) (hereinafter in this Act referred to as the 'previously designated property') as the one non-Governmental property to be fully secured by the Secret Service on a permanent basis under subsection (a). Thereafter, any expenditures by the Secret Service to maintain a permanent guard detail or for permanent facilities, equipment, and services to secure the non-Governmental property previously designated under subsection (a) shall be subject to the limitations imposed under section 4.
 
 "(c) For the purposes of this section, where two or more protectees share the same domicile, such protectees shall be deemed a single protectee.
 
@@ -312,7 +312,7 @@ Sec. 6. Executive departments and Executive agencies shall assist the Secret Ser
 
 "
 
-Sec. 7. No services, equipment, or facilities may be ordered, purchased, leased, or otherwise procured for the purposes of carrying out the duties of the Secret Service by persons other than officers or employees of the Federal Government duly authorized by the Director to make such orders, purchases, leases, or procurements.
+Sec. 7. No services, equipment, or facilities may be ordered, purchased, leased, or otherwise procured for the purposes of carrying out the duties of the Secret Service by persons other than officers or employees ofthe Federal Government duly authorized by the Director to make such orders, purchases, leases, or procurements.
 
 "
 

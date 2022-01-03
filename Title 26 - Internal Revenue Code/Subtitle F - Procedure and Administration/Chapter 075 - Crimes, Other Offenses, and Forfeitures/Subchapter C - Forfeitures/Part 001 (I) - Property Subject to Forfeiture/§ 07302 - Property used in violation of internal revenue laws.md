@@ -4,11 +4,13 @@ It shall be unlawful to have or possess any property intended for use in violati
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 867.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Rules of Criminal Procedure, referred to in text, are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
 #### Constitutionality
 
-For information regarding constitutionality of section 7302 of act Aug. 16, 1954, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For information regarding constitutionality of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
 

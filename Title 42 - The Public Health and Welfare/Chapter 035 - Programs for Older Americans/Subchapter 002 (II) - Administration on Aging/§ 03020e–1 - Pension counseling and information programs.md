@@ -144,11 +144,13 @@ Of the funds appropriated under section 3020f of this title to carry out this se
 
 (Pub. L. 89–73, title II, §215, as added Pub. L. 106–501, title II, §202(5), Nov. 13, 2000, 114 Stat. 2231; amended Pub. L. 109–365, title II, §209, Oct. 17, 2006, 120 Stat. 2537; Pub. L. 116–131, title I, §121, title VII, §701(4), Mar. 25, 2020, 134 Stat. 247, 271.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Social Security Act, referred to in subsec. (a)(1)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
-The Railroad Retirement Act of 1974, referred to in subsec. (a)(1)(B), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
+The Railroad Retirement Act of 1974, referred to in subsec. (a)(1)(B), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
 
 #### Prior Provisions
 

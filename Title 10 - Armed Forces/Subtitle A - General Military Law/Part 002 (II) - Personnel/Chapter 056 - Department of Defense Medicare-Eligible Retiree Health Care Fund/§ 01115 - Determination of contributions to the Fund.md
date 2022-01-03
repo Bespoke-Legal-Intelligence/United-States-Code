@@ -24,9 +24,9 @@
 
 > Such single level dollar amounts shall be used for the purposes of subsection (b). The Secretary of Defense may determine a separate single level dollar amount under subparagraph (A) or (B) for any participating uniformed service, if, in the judgment of the Secretary, such a determination would produce a more accurate and appropriate actuarial valuation for that uniformed service.
 
-(2) If at the time of any such valuation there has been a change in benefits under the uniformed services retiree health care programs for medicare-eligible beneficiaries that has been made since the last such valuation and such change in benefits increases or decreases thepresent value of amounts payable from the Fund, the Secretary of Defense shall determine an amortization methodology and schedule for the amortization of the cumulative unfunded liability (or actuarial gain to the Fund) created by such change and any previous such changes so that the present value of the sum of the amortization payments (or reductions in payments that would otherwise be made) equals the cumulative increase (or decrease) in the present value of such amounts.
+(2) If at the time of any such valuation there has been a change in benefits under the uniformed services retiree health care programs for medicare-eligible beneficiaries that has been made since the last such valuation and such change in benefits increases or decreases the present value of amounts payable from the Fund, the Secretary of Defense shall determine an amortization methodology and schedule for the amortization of the cumulative unfunded liability (or actuarial gain to the Fund) created by such change and any previous such changes so that the present value of the sum of the amortization payments (or reductions in payments that would otherwise be made) equals the cumulative increase (or decrease) in the present value of such amounts.
 
-(3) If at the time of any such valuation the Secretary of Defense determines that, based upon changes in actuarial assumptions since the last valuation, there has been an actuarial gain or loss to the Fund, the Secretary shall determine an amortization methodology and schedule for the amortization of the cumulative gain or loss to the Fund created by such change in assumptions and any previous such changes in assumptions through an increase or decrease in the payments that would otherwise be made to the Fund.
+(3) If at the time of any such valuation the Secretary of Defense determines that, based upon changes in actuarial assumptions since the last valuation, there has been an actuarial gain or loss to the Fund, the Secretary shall determine an amortization methodology and schedule for the amortization of the cumulative gain or loss to the Fund created by such change in assumptions and any previous such changes in assumptions through an increase or decrease inthe payments that would otherwise be made to the Fund.
 
 (4) If at the time of any such valuation the Secretary of Defense determines that, based upon the Fund's actuarial experience (other than resulting from changes in benefits or actuarial assumptions) since the last valuation, there has been an actuarial gain or loss to the Fund, the Secretary shall determine an amortization methodology and schedule for the amortization of the cumulative gain or loss to the Fund created by such actuarial experience and any previous actuarial experience through an increase or decrease in the payments that would otherwise be made to the Fund.
 
@@ -37,6 +37,8 @@
 (e) The Secretary of Defense shall provide for the keeping of such records as are necessary for determining the actuarial status of the Fund.
 
 (Added Pub. L. 106–398, §1 \[\[div. A\], title VII, §713(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–181; amended Pub. L. 107–107, div. A, title VII, §711(b)(3), (e)(1), Dec. 28, 2001, 115 Stat. 1165, 1166; Pub. L. 108–136, div. A, title VII, §722(a), (c), title X, §1045(a)(3), Nov. 24, 2003, 117 Stat. 1532, 1612; Pub. L. 108–375, div. A, title VII, §725(c)(2)–(5), Oct. 28, 2004, 118 Stat. 1992; Pub. L. 109–364, div. A, title V, §592(b), Oct. 17, 2006, 120 Stat. 2233.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -73,6 +75,8 @@ Subsec. (b)(2). Pub. L. 107–107, §711(b)(3)(C), inserted "(or to the other ex
 Subsec. (c)(1)(A), (B). Pub. L. 107–107, §711(b)(3)(D), inserted "participating" before "uniformed services".
 
 Subsec. (c)(2). Pub. L. 107–107, §711(e)(1), substituted "uniformed services retiree health care programs" for "Department of Defense retiree health care programs".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

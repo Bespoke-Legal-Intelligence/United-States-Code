@@ -36,6 +36,8 @@ The Secretary of the Army, acting through the Chief of Engineers, is authorized 
 
 (Pub. L. 94–587, §167, Oct. 22, 1976, 90 Stat. 2935; Pub. L. 103–437, §15(e)(1), Nov. 2, 1994, 108 Stat. 4592.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 1976, and not as part of the Water Resources Planning Act which comprises this chapter.
@@ -43,6 +45,8 @@ Section was enacted as part of the Water Resources Development Act of 1976, and 
 #### Amendments
 
 <b>1994</b>—Subsec. (b). Pub. L. 103–437 substituted "Committee on Environment and Public Works of the Senate" for "Committee on Public Works of the Senate".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -54,5 +58,5 @@ Pub. L. 100–676, §42, Nov. 17, 1988, 102 Stat. 4040, directed Secretary to co
 
 #### Water Quality Effects of Hydroelectric Facilities
 
-Pub. L. 100–676, §43, Nov. 17, 1988, 102 Stat. 4040, directed Secretary, in cooperation with Administrator of Environmental Protection Agency, to undertake astudy of water quality effects of hydroelectric facilities owned and operated by Corps of Engineers, which was to be transmitted to Congress within 2 years of Nov. 17, 1988, and was to consider and include information for each such Corps of Engineers hydroelectric facility pertaining to: relevant water quality standards including dissolved oxygen; water quality monitoring data; possible options and projected costs of measures required to improve the quality of water released from each such facility where justified; and recommendations with respect to such study results.
+Pub. L. 100–676, §43, Nov. 17, 1988, 102 Stat. 4040, directed Secretary, in cooperation with Administrator of Environmental Protection Agency, to undertake a study of water quality effects of hydroelectric facilities owned and operated by Corps of Engineers, which was to be transmitted to Congress within 2 years of Nov. 17, 1988, and was to consider and include information for each such Corps of Engineers hydroelectric facility pertaining to: relevant water quality standards including dissolved oxygen; water quality monitoring data; possible options and projected costs of measures required to improve the quality of water released from each such facility where justified; and recommendations with respect to such study results.
 

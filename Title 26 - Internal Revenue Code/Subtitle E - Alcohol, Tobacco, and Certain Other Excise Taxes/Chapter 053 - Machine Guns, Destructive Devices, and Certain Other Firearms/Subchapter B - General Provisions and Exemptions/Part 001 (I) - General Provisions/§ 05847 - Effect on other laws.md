@@ -1,8 +1,10 @@
 ### §5847. Effect on other laws
 
-Nothing in this chapter shall be construed as modifying or affecting the requirements of section 38 of the Arms Export Control Act (22U.S.C. 2778), as amended, with respect to the manufacture, exportation, and importation of arms, ammunition, and implements of war.
+Nothing in this chapter shall be construed as modifying or affecting the requirements of section 38 of the Arms Export Control Act (22 U.S.C. 2778), as amended, with respect to the manufacture, exportation, and importation of arms, ammunition, and implements of war.
 
 (Added Pub. L. 90–618, title II, §201, Oct. 22, 1968, 82 Stat. 1232; amended Pub. L. 115–141, div. U, title IV, §401(a)(252), Mar. 23, 2018, 132 Stat. 1196.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

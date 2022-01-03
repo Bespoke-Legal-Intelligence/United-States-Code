@@ -42,7 +42,7 @@ The duties described in this subsection are the following:
 
 #### (5) Report on use of Federal funding
 
-&emsp;Not later than 90 days after an accrediting entity receives Federal funding authorized by section 14943 of this title, the entity shall submit a report to the Committee on Foreign Relations of the Senate and the Committee onForeign Affairs of the House of Representatives that describes—
+&emsp;Not later than 90 days after an accrediting entity receives Federal funding authorized by section 14943 of this title, the entity shall submit a report to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives that describes—
 
 &emsp;&emsp;(A) the amount of such funding the entity received; and
 
@@ -68,13 +68,17 @@ The amount of fees assessed by accrediting entities for the costs of accreditati
 
 (Pub. L. 106–279, title II, §202, Oct. 6, 2000, 114 Stat. 831; Pub. L. 112–276, §3(b), Jan. 14, 2013, 126 Stat. 2467.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This subchapter, referred to in subsec. (a)(1), was in the original "this title", meaning title II of Pub. L. 106–279, Oct. 6, 2000, 114 Stat. 830, which is classified principally to this subchapter. For complete classification of title II to the Code, see Tables.
+This subchapter, referred to in subsec. (a)(1), was in the original "this title", meaning title II of Pub. L.106–279, Oct. 6, 2000, 114 Stat. 830, which is classified principally to this subchapter. For complete classification of title II to the Code, see Tables.
 
 #### Amendments
 
 <b>2013</b>—Subsec. (b)(5). Pub. L. 112–276 added par. (5).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

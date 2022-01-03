@@ -22,13 +22,13 @@ No financial assistance for low-rent housing and related facilities shall be mad
 
 &emsp;(1) that the rentals charged domestic farm labor shall not exceed such amounts as may be approved by the Secretary, giving due consideration to the income and earning capacity of the tenants, and the necessary costs of operating and maintaining such housing;
 
-&emsp;(2) that such housing shall be maintained at all times in a safe and sanitary condition in accordance with such standards as may be prescribed by State or local law, or, in the absence of such standards, in accordance with such minimum requirements as the Secretary shall prescribe; and
+&emsp;(2) that such housing shall be maintained at all times in a safe and sanitary condition in accordance with such standards as may be prescribed by State or local law, or, in the absence of such standards, in accordance withsuch minimum requirements as the Secretary shall prescribe; and
 
 &emsp;(3) an absolute priority will be given at all times in granting occupancy of such housing and facilities to domestic farm labor.
 
 #### (d) Payments; contracts to specify uses of housing
 
-The Secretary may make payments pursuant to any contract for financial assistance underthis section at such times and in such manner, as may be specified in the contract. In each contract, the Secretary shall include such covenants, conditions, or provisions as he deems necessary to insure that the housing and related facilities, for which financial assistance is made available, be used only in conformity with the provisions of this section.
+The Secretary may make payments pursuant to any contract for financial assistance under this section at such times and in such manner, as may be specified in the contract. In each contract, the Secretary shall include such covenants, conditions, or provisions as he deems necessary to insure that the housing and related facilities, for which financial assistance is made available, be used only in conformity with the provisions of this section.
 
 #### (e) Regulations for prevention of waste
 
@@ -82,7 +82,7 @@ Housing and related facilities constructed with grants under this section may be
 
 &emsp;&emsp;&emsp;(ii) A grant, in an amount not to exceed $400,000, for moderate rehabilitation of an existing structure for use in the provision of housing under this subsection.
 
-&emsp;&emsp;&emsp;(iii) Annual payments for operating costs of such housing (without regard towhether the housing is an existing structure), not to exceed 75 percent of the annual operating costs of such housing.
+&emsp;&emsp;&emsp;(iii) Annual payments for operating costs of such housing (without regard to whether the housing is an existing structure), not to exceed 75 percent of the annual operating costs of such housing.
 
 #### (B) Available assistance
 
@@ -138,7 +138,7 @@ Housing and related facilities constructed with grants under this section may be
 
 #### (D) Occupant rent
 
-&emsp;&emsp;Each migrant farmworker and homeless individual residing in a facility assisted under this subsection shall pay as rent an amount determined in accordance with the provisions of section 1437a(a) of this title.
+&emsp;&emsp;Each migrant farmworker and homeless individual residing in a facility assistedunder this subsection shall pay as rent an amount determined in accordance with the provisions of section 1437a(a) of this title.
 
 #### (4) Guidelines
 
@@ -173,6 +173,8 @@ Housing and related facilities constructed with grants under this section may be
 &emsp;&emsp;(D) The term "operating costs" means expenses incurred by a recipient providing housing under this subsection with respect to the administration, maintenance, repair, and security of such housing and utilities, fuel, furnishings, and equipment for such housing.
 
 (July 15, 1949, ch. 338, title V, §516, as added Pub. L. 88–560, title V, §503(a), Sept. 2, 1964, 78 Stat. 796; amended Pub. L. 91–609, title VIII, §801(c), (d), Dec. 31, 1970, 84 Stat. 1806; Pub. L. 95–557, title V, §505, Oct. 31, 1978, 92 Stat. 2112; Pub. L. 96–153, title V, §509, Dec. 21, 1979, 93 Stat. 1136; Pub. L. 96–399, title V, §507(d), Oct. 8, 1980, 94 Stat. 1670; Pub. L. 98–181, title I \[title V, §513\], Nov. 30, 1983, 97 Stat. 1247; Pub. L. 100–242, title III, §305(b), Feb. 5, 1988, 101 Stat. 1895; Pub. L. 100–628, title X, §1043(b), Nov. 7, 1988, 102 Stat. 3273; Pub. L. 101–625, title VII, §714(a), Nov. 28, 1990, 104 Stat. 4292; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

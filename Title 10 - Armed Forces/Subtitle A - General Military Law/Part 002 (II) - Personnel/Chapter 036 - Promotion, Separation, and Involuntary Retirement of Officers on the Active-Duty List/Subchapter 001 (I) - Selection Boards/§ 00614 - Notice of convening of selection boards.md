@@ -6,6 +6,8 @@
 
 (Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2852; amended Pub. L. 97–22, §4(b), July 10, 1981, 95 Stat. 126; Pub. L. 102–190, div. A, title V, §504(a)(2)(A), Dec. 5, 1991, 105 Stat. 1357; Pub. L. 109–163, div. A, title V, §505(a), Jan. 6, 2006, 119 Stat. 3227; Pub. L. 115–91, div. A, title V, §501(a), Dec. 12, 2017, 131 Stat. 1373.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Subsec. (b). Pub. L. 115–91 substituted "10 calendar days before" for "the day before" in first sentence.
@@ -15,6 +17,8 @@
 <b>1991</b>—Pub. L. 102–190 struck out "; communications with boards" after "selection boards" in section catchline.
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–22 substituted "which shall include the convening date of the board" for ", the names of the officers eligible for consideration by the board as of the date of the notification, the convening date of the board,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 
@@ -30,5 +34,5 @@ Amendment by Pub. L. 102–190 applicable to selection boards convened under sec
 
 #### Effective Date
 
-Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of this title.
+Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective onDec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of this title.
 

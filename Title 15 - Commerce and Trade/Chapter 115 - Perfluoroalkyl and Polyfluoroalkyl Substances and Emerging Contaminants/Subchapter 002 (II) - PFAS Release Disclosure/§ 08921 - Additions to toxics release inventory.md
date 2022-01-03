@@ -86,7 +86,7 @@ In this section, the term "toxics release inventory" means the list of toxic che
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), notwithstanding subsection (f)(1) of section 11023 of title 42, the threshold for reporting under such section 11023 of title 42 the substances and classes of substances included in the toxics release inventory under paragraph (1) is 100 pounds.
+&emsp;&emsp;Subject to subparagraph (B), notwithstanding subsection (f)(1) of section 11023 oftitle 42, the threshold for reporting under such section 11023 of title 42 the substances and classes of substances included in the toxics release inventory under paragraph (1) is 100 pounds.
 
 #### (B) Revisions
 
@@ -144,7 +144,7 @@ In this section, the term "toxics release inventory" means the list of toxic che
 
 #### (1) In general
 
-&emsp;Prior to including on the toxics release inventory pursuant to subsection (b)(1), (c)(1), or (d)(3) any perfluoroalkyl or polyfluoroalkyl substance or class of perfluoroalkyl orpolyfluoroalkyl substances the chemical identity of which is subject to a claim of a person of protection from disclosure under subsection (a) of section 552 of title 5, pursuant to subsection (b)(4) of that section, the Administrator shall—
+&emsp;Prior to including on the toxics release inventory pursuant to subsection (b)(1), (c)(1), or (d)(3) any perfluoroalkyl or polyfluoroalkyl substance or class of perfluoroalkyl or polyfluoroalkyl substances the chemical identity of which is subject to a claim of a person of protection from disclosure under subsection (a) of section 552 of title 5, pursuant to subsection (b)(4) of that section, the Administrator shall—
 
 &emsp;&emsp;(A) review any such claim of protection from disclosure; and
 
@@ -155,6 +155,8 @@ In this section, the term "toxics release inventory" means the list of toxic che
 &emsp;If the Administrator determines that the chemical identity of a perfluoroalkyl or polyfluoroalkyl substance or class of perfluoroalkyl or polyfluoroalkyl substances qualifies for protection from disclosure pursuant to paragraph (1), the Administrator shall include the substance or class of substances, as applicable, on the toxics release inventory in a manner that does not disclose the protected information.
 
 (Pub. L. 116–92, div. F, title LXXIII, §7321, Dec. 20, 2019, 133 Stat. 2277.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

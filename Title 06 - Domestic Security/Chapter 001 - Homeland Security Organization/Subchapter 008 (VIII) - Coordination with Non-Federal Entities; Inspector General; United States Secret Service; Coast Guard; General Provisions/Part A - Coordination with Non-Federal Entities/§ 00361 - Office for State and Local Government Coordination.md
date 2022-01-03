@@ -24,7 +24,7 @@ The Office established under subsection (a) shall—
 
 Ex. Ord. No. 13629, Oct. 26, 2012, 77 F.R. 66353, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to advance the Federal Government's use of local partnerships to address homeland security challenges, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, and in order to advance the Federal Government's use of local partnerships to address homeland security challenges, it is hereby ordered as follows:
 
 Section 1. <i>Policy</i>. The purpose of this order is to maximize the Federal Government's ability to develop local partnerships in the United States to support homeland security priorities. Partnerships are collaborative working relationships in which the goals, structure, and roles and responsibilities of the relationships are mutually determined. Collaboration enables the Federal Government and its partners to use resources more efficiently, build on one another's expertise, drive innovation, engage in collective action, broaden investments to achieve shared goals, and improve performance. Partnerships enhance our ability to address homeland security priorities, from responding to natural disasters to preventing terrorism, by utilizing diverse perspectives, skills, tools, and resources.
 
@@ -86,7 +86,7 @@ At the invitation of the Chair, representatives of agencies not listed in subsec
 
 Sec. 3. <i>Mission and Function of the Council and Steering Committee</i>. (a) The Council shall, consistent with guidance from the Steering Committee:
 
-(i) advise the Chair and Steering Committee members on priorities, challenges, and opportunities for localpartnerships to support homeland security priorities, as well as regularly report to the Steering Committee on the Council's efforts;
+(i) advise the Chair and Steering Committee members on priorities, challenges, and opportunities for local partnerships to support homeland security priorities, as well as regularly report to the Steering Committee on the Council's efforts;
 
 (ii) promote homeland security priorities and opportunities for collaboration between Federal Government field offices and State, local, tribal, and territorial stakeholders;
 

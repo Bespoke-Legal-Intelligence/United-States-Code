@@ -14,13 +14,15 @@ For purposes of this part, in the case of a multiemployer plan in effect on July
 
 &emsp;&emsp;(A) the plan sponsor shall adopt and implement a rehabilitation plan in accordance with the requirements of subsection (e), and
 
-&emsp;&emsp;(B) the requirements of subsection (f) shall apply during the rehabilitation plan adoption period and the rehabilitation period, and
+&emsp;&emsp;(B) the requirements of subsection (f) shall apply during the rehabilitation plan adoption period and the rehabilitation period,
 
 &emsp;(3) if the plan is in critical and declining status—
 
 &emsp;&emsp;(A) the requirements of paragraph (2) shall apply to the plan; and
 
-&emsp;&emsp;(B) the plan sponsor may, by plan amendment, suspend benefits in accordance with the requirements of subsection (e)(9).
+&emsp;&emsp;(B) the plan sponsor may, by plan amendment, suspend benefits in accordance with the requirements of subsection (e)(9), and
+
+&emsp;(4) if the plan is an eligible multiemployer plan which is applying for or receiving special financial assistance under section 4262 of the Employee Retirement Income Security Act of 1974, the requirements of subsection (k) shall apply to the plan.
 
 #### (b) Determination of endangered and critical status
 
@@ -32,7 +34,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) the plan's funded percentage for such plan year is less than 80 percent, or
 
-&emsp;&emsp;(B) the plan has an accumulated funding deficiency for such plan year, or is projected to have such an accumulated funding deficiency for any of the 6 succeeding plan years, taking into account any extension of amortization periods under section 431(d).
+&emsp;&emsp;(B) the plan has an accumulated funding deficiency for such plan year, or is projectedto have such an accumulated funding deficiency for any of the 6 succeeding plan years, taking into account any extension of amortization periods under section 431(d).
 
 > &emsp;For purposes of this section, a plan shall be treated as in seriously endangered status for a plan year if the plan is described in both subparagraphs (A) and (B).
 
@@ -152,7 +154,7 @@ For purposes of this section—
 
 &emsp;Notwithstanding paragraph (2) and subject to paragraph (3)(B)(iv)—
 
-&emsp;&emsp;(A) the plan sponsor of a multiemployer plan that is not in critical status for a plan year but that is projected by the plan actuary, pursuant to the determination under paragraph (3), to be in critical status in any of the succeeding 5 plan years may, not laterthan 30 days after the date of the certification under paragraph (3)(A), elect to be in critical status effective for the current plan year,
+&emsp;&emsp;(A) the plan sponsor of a multiemployer plan that is not in critical status for a planyear but that is projected by the plan actuary, pursuant to the determination under paragraph (3), to be in critical status in any of the succeeding 5 plan years may, not later than 30 days after the date of the certification under paragraph (3)(A), elect to be in critical status effective for the current plan year,
 
 &emsp;&emsp;(B) the plan year in which the plan sponsor elects to be in critical status under subparagraph (A) shall be treated for purposes of this section as the first year in which the plan is in critical status, regardless of the date on which the plan first satisfies the criteria for critical status under paragraph (2), and
 
@@ -169,6 +171,10 @@ For purposes of this section—
 #### (6) Critical and declining status
 
 &emsp;For purposes of this section, a plan in critical status shall be treated as in critical and declining status if the plan is described in one or more of subparagraphs (A), (B), (C), and (D) of paragraph (2) and the plan is projected to become insolvent within the meaning of section 418E during the current plan year or any of the 14 succeeding plan years (19 succeeding plan years if the plan has a ratio of inactive participants to active participants that exceeds 2 to 1 or if the funded percentage of the plan is less than 80 percent).
+
+#### (7) Plans receiving special financial assistance
+
+&emsp;If an eligible multiemployer plan receiving special financial assistance under section 4262 of the Employee Retirement Income Security Act of 1974 meets the requirements of subsection (k)(2), notwithstanding the preceding paragraphs of this subsection, the plan shall be deemed to be in critical status for plan years beginning with the plan year in which the effective date for such assistance occurs and ending with the last plan year ending in 2051.
 
 #### (c) Funding improvement plan must be adopted for multiemployer plans in endangered status
 
@@ -270,7 +276,7 @@ For purposes of this section—
 
 #### (B) Schedules
 
-&emsp;&emsp;The plan sponsor shall annually update any schedule of contribution rates provided under this subsection to reflect the experience of the plan.
+&emsp;&emsp;The plan sponsor shall annually update any schedule of contribution rates providedunder this subsection to reflect the experience of the plan.
 
 #### (C) Duration of schedule
 
@@ -346,7 +352,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) may, if the plan sponsor deems appropriate, prepare and provide the bargaining parties with additional information relating to contribution rates or benefit reductions, alternative schedules, or other information relevant to emerging from critical status in accordance with the rehabilitation plan.
 
-> &emsp;The schedule or schedules described in subparagraph (B)(i) shall reflect reductions in future benefit accruals and adjustable benefits,and increases in contributions, that the plan sponsor determines are reasonably necessary to emerge from critical status. One schedule shall be designated as the default schedule and such schedule shall assume that there are no increases in contributions under the plan other than the increases necessary to emerge from critical status after future benefit accruals and other benefits (other than benefits the reduction or elimination of which are not permitted under section 411(d)(6)) have been reduced to the maximum extent permitted by law.
+> &emsp;The schedule or schedules described in subparagraph (B)(i) shall reflect reductions in future benefit accruals and adjustable benefits, and increases in contributions, that the plan sponsor determines are reasonably necessary to emerge from critical status. One schedule shall be designated as the default schedule and such schedule shall assume that there are no increases in contributions under the plan other than the increases necessary to emerge from critical status after future benefit accruals and other benefits (other than benefits the reduction or elimination of which are not permitted under section 411(d)(6)) have been reduced to the maximum extent permitted by law.
 
 #### (2) Exception for years after process begins
 
@@ -398,7 +404,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) a collective bargaining agreement providing for contributions under a multiemployer plan in accordance with a schedule provided by the plan sponsor pursuant to a rehabilitation plan (or imposed under subparagraph (C)(i)) expires while the plan is still in critical status, and
 
-&emsp;&emsp;&emsp;&emsp;(II) after receiving one or more updated schedules from the plan sponsor under subparagraph (B)(ii), the bargaining parties with respect to such agreement fail to adopt a contribution schedule with terms consistent with the updated rehabilitation plan and a schedule from the plan sponsor,
+&emsp;&emsp;&emsp;&emsp;(II) after receiving one or more updated schedules from the plan sponsor under subparagraph (B)(ii), the bargaining parties with respect to such agreement fail to adopt a contribution schedule with terms consistent with theupdated rehabilitation plan and a schedule from the plan sponsor,
 
 &emsp;&emsp;&nbsp;then the contribution schedule applicable under the expired collective bargaining agreement, as updated and in effect on the date the collective bargaining agreement expires, shall be implemented by the plan sponsor beginning on the date specified in clause (iii).
 
@@ -464,13 +470,13 @@ For purposes of this section—
 
 &emsp;&emsp;(B) if lower, the accrual rate under the plan on such first day.
 
-> &emsp;The equivalent standard accrual rate shall be determined by the plan sponsor based on the standard or average contribution base units which the plan sponsor determines to be representative for active participants and such other factors as the plan sponsor determines to be relevant. Nothing in this paragraph shall be construed as limiting the ability of the plan sponsor to prepare and provide the bargaining parties with alternative schedules to the default schedule that establish lower or higher accrual and contribution rates than the rates otherwise described in this paragraph.
+> &emsp;The equivalent standard accrual rate shall be determined by the plan sponsor based on the standard or average contribution base units which the plan sponsor determines to be representative for active participants and such other factors as the plan sponsor determines to be relevant. Nothing in this paragraph shallbe construed as limiting the ability of the plan sponsor to prepare and provide the bargaining parties with alternative schedules to the default schedule that establish lower or higher accrual and contribution rates than the rates otherwise described in this paragraph.
 
 #### (7) Automatic employer surcharge
 
 #### (A) Imposition of surcharge
 
-&emsp;&emsp;Each employer otherwise obligated to make a contribution for the initial critical year shall be obligated to pay to the plan for such year a surcharge equal to 5 percent of the contribution otherwise required under the applicable collective bargaining agreement (or other agreement pursuant to which the employer contributes). For each succeeding plan year in which the plan is incritical status for a consecutive period of years beginning with the initial critical year, the surcharge shall be 10 percent of the contribution otherwise so required.
+&emsp;&emsp;Each employer otherwise obligated to make a contribution for the initial critical year shall be obligated to pay to the plan for such year a surcharge equal to 5 percent of the contribution otherwise required under the applicable collective bargaining agreement (or other agreement pursuant to which the employer contributes). For each succeeding plan year in which the plan is in critical status for a consecutive period of years beginning with the initial critical year, the surcharge shall be 10 percent of the contribution otherwise so required.
 
 #### (B) Enforcement of surcharge
 
@@ -670,7 +676,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(III) third, be applied to benefits under a plan that are directly attributable to a participant's service with any employer which has, prior to the date of enactment of the Multiemployer Pension Reform Act of 2014—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) withdrawn from the plan in a complete withdrawal under section 4203 of the Employee Retirement Income Security Act of 1974 and has paid the full amount of the employer's withdrawal liability under section 4201(b)(1) of such Act or an agreement with the plan, and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) withdrawn from the plan in a complete withdrawal under section4203 of the Employee Retirement Income Security Act of 1974 and has paid the full amount of the employer's withdrawal liability under section 4201(b)(1) of such Act or an agreement with the plan, and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) pursuant to a collective bargaining agreement, assumed liability for providing benefits to participants and beneficiaries of the plan under a separate, single-employer plan sponsored by the employer, in an amount equal to any amount of benefits for such participants and beneficiaries reduced as a result of the financial status of the plan.
 
@@ -776,7 +782,7 @@ For purposes of this section—
 
 #### (iv) Agency review
 
-&emsp;&emsp;&emsp;In evaluating whether the plan sponsor has met the criteria specified in clause (ii) of subparagraph (C), the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, shall review the plan sponsor's consideration of factors under such clause.
+&emsp;&emsp;&emsp;In evaluating whether the plan sponsor has met the criteria specified in clause (ii) of subparagraph (C), the Secretary of the Treasury, in consultation with the PensionBenefit Guaranty Corporation and the Secretary of Labor, shall review the plan sponsor's consideration of factors under such clause.
 
 #### (v) Standard for accepting plan sponsor determinations
 
@@ -896,7 +902,7 @@ For purposes of this section—
 
 &emsp;&emsp;Effective on the date the notice of certification of the plan's critical status for the initial critical year under subsection (b)(3)(D) is sent, and notwithstanding section 411(d)(6), the plan shall not pay—
 
-&emsp;&emsp;&emsp;(i) any payment, in excess of the monthly amount paid under a single life annuity (plus any social security supplements described in the last sentence of section 411(a)(9)), to a participant or beneficiary whose annuity starting date (as defined in section 417(f)(2)) occurs after the date such notice is sent,
+&emsp;&emsp;&emsp;(i) any payment, in excess of the monthly amount paid under a single life annuity (plus any social security supplements described in the last sentence of section411(a)(9)), to a participant or beneficiary whose annuity starting date (as defined in section 417(f)(2)) occurs after the date such notice is sent,
 
 &emsp;&emsp;&emsp;(ii) any payment for the purchase of an irrevocable commitment from an insurer to pay benefits, and
 
@@ -908,7 +914,7 @@ For purposes of this section—
 
 #### (3) Special rules for plan adoption period
 
-&emsp;During the period beginning on the date of the certification under subsection (b)(3)(A) forthe initial critical year and ending on the date of the adoption of a rehabilitation plan—
+&emsp;During the period beginning on the date of the certification under subsection (b)(3)(A) for the initial critical year and ending on the date of the adoption of a rehabilitation plan—
 
 &emsp;&emsp;(A) the plan sponsor may not accept a collective bargaining agreement or participation agreement with respect to the multiemployer plan that provides for—
 
@@ -950,7 +956,7 @@ For purposes of this section—
 
 #### (h) Expedited resolution of plan sponsor decisions
 
-If, within 60 days of the due date for adoption of a funding improvement plan under subsection (c) or a rehabilitation plan under subsection (e), the plan sponsor of a plan in endangered status or a plan in critical status has not agreed on a funding improvement plan or rehabilitation plan, then any member of the board or group that constitutes the plan sponsor may require that the plan sponsor enter into an expedited dispute resolution procedure for the development and adoption of a funding improvement plan or rehabilitation plan.
+If, within 60 days of the due date for adoption of a funding improvement plan under subsection\(c) or a rehabilitation plan under subsection (e), the plan sponsor of a plan in endangered status or a plan in critical status has not agreed on a funding improvement plan or rehabilitation plan, then any member of the board or group that constitutes the plan sponsor may require that the plan sponsor enter into an expedited dispute resolution procedure for the development and adoption of a funding improvement plan or rehabilitation plan.
 
 #### (i) Nonbargained participation
 
@@ -1032,15 +1038,135 @@ For purposes of this section—
 
 &emsp;The term "benefit commencement date" means the annuity starting date (or in the case of a retroactive annuity starting date, the date on which benefit payments begin).
 
-(Added Pub. L. 109–280, title II, §212(a), Aug. 17, 2006, 120 Stat. 899; amended Pub. L. 110–458, title I, §102(b)(2)(A)–(G), Dec. 23, 2008, 122 Stat. 5101, 5102; Pub. L. 113–235, div. O, title I, §§102(b), 103(b), 104(b), 105(b), 106(b), 107(b), 109(b), title II, §201(b)(1)–(6), Dec. 16, 2014, 128 Stat. 2776, 2778, 2780–2782, 2784, 2790, 2810–2822; Pub. L. 115–141, div. U, title IV, §401(a)(102)–(107), Mar. 23, 2018, 132 Stat. 1189.)
+#### (k) Rules relating to eligible multiemployer plans
+
+#### (1) Plans applying for special financial assistance
+
+&emsp;In the case of an eligible multiemployer plan which applies for special financial assistance under section 4262 of such Act— <sup>1</sup>
+
+#### (A) In general
+
+&emsp;&emsp;Such application shall be submitted in accordance with the requirements of such section, including any guidance issued thereunder by the Pension Benefit Guaranty Corporation.
+
+#### (B) Reinstatement of suspended benefits
+
+&emsp;&emsp;In the case of a plan for which a suspension of benefits has been approved under subsection (e)(9), the application shall describe the manner in which suspended benefits will be reinstated in accordance with paragraph (2)(A) and guidance issued by the Secretary if the plan receives special financial assistance.
+
+#### (C) Amount of financial assistance
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;In determining the amount of special financial assistance to be specified in its application, an eligible multiemployer plan shall—
+
+&emsp;&emsp;&emsp;&emsp;(I) use the interest rate used by the plan in its most recently completed certification of plan status before January 1, 2021, provided that such interest rate does not exceed the interest rate limit, and
+
+&emsp;&emsp;&emsp;&emsp;(II) for other assumptions, use the assumptions that the plan used in its most recently completed certification of plan status before January 1, 2021, unless such assumptions are unreasonable.
+
+#### (ii) Interest rate limit
+
+&emsp;&emsp;&emsp;For purposes of clause (i), the interest rate limit is the rate specified in section 430(h)(2)(C)(iii) (disregarding modifications made under clause (iv) of such section) for the month in which the application for special financial assistance is filed by the eligible multiemployer plan or the 3 preceding months, with such specified rate increased by 200 basis points.
+
+#### (iii) Changes in assumptions
+
+&emsp;&emsp;&emsp;If a plan determines that use of one or more prior assumptions is unreasonable, the plan may propose in its application to change such assumptions, provided that the plan discloses such changes in its application and describes why such assumptions are no longer reasonable. The plan may not propose a change to the interest rate otherwise required under this subsection for eligibility or financial assistance amount.
+
+#### (D) Plans applying for priority consideration
+
+&emsp;&emsp;In the case of a plan applying for special financial assistance under rules providing for temporary priority consideration, as provided in paragraph (4)(C), such plan's application shall be submitted to the Secretary in addition to the Pension Benefit Guaranty Corporation.
+
+#### (2) Plans receiving special financial assistance
+
+&emsp;In the case of an eligible multiemployer plan receiving special financial assistance under section 4262 of the Employee Retirement Income Security Act of 1974—
+
+#### (A) Reinstatement of suspended benefits
+
+&emsp;&emsp;The plan shall—
+
+&emsp;&emsp;&emsp;(i) reinstate any benefits that were suspended under subsection (e)(9) or section 4245(a) of the Employee Retirement Income Security Act of 1974, effective as of the first month in which the effective date for the special financial assistance occurs, for participants and beneficiaries as of such month, and
+
+&emsp;&emsp;&emsp;(ii) provide payments equal to the amount of benefits previously suspended to any participants or beneficiaries in pay status as of the effective date of the special financial assistance, payable, as determined by the plan—
+
+&emsp;&emsp;&emsp;&emsp;(I) as a lump sum within 3 months of such effective date; or
+
+&emsp;&emsp;&emsp;&emsp;(II) in equal monthly installments over a period of 5 years, commencing within 3 months of such effective date, with no adjustment for interest.
+
+#### (B) Restrictions on the use of special financial assistance
+
+&emsp;&emsp;Special financial assistance received by the plan may be used to make benefit payments and pay plan expenses. Such assistance shall be segregated from other plan assets, and shall be invested by the plan in investment-grade bonds or other investments as permitted by regulations or other guidance issued by the Pension Benefit Guaranty Corporation.
+
+#### (C) Conditions on plans receiving special financial assistance
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The Pension Benefit Guaranty Corporation, in consultation with the Secretary, may impose, by regulation or other guidance, reasonable conditions on an eligible multiemployer plan receiving special financial assistance relating to increases in future accrual rates and any retroactive benefit improvements, allocation of plan assets, reductions in employer contribution rates, diversion of contributions and allocation of expenses to other benefit plans, and withdrawal liability.
+
+#### (ii) Limitation
+
+&emsp;&emsp;&emsp;The Pension Benefit Guaranty Corporation shall not impose conditions on an eligible multiemployer plan as a condition of, or following receipt of, special financial assistance relating to—
+
+&emsp;&emsp;&emsp;&emsp;(I) any prospective reduction in plan benefits (including benefits that may be adjusted pursuant to subsection (e)(8)),
+
+&emsp;&emsp;&emsp;&emsp;(II) plan governance, including selection of, removal of, and terms of contracts with, trustees, actuaries, investment managers, and other service providers, or
+
+&emsp;&emsp;&emsp;&emsp;(III) any funding rules relating to the plan.
+
+#### (D) Assistance disregarded for certain purposes
+
+#### (i) Funding standards
+
+&emsp;&emsp;&emsp;Special financial assistance received by the plan shall not be taken into account for determining contributions required under section 431.
+
+#### (ii) Insolvent plans
+
+&emsp;&emsp;&emsp;If the plan becomes insolvent within the meaning of section 418E after receiving special financial assistance, the plan shall be subject to all rules applicable to insolvent plans.
+
+#### (E) Ineligibility for suspension of benefits
+
+&emsp;&emsp;The plan shall not be eligible to apply for a new suspension of benefits under subsection (e)(9)(G).
+
+#### (3) Eligible multiemployer plan
+
+#### (A) In general
+
+&emsp;&emsp;For purposes of this section, a multiemployer plan is an eligible multiemployer plan if—
+
+&emsp;&emsp;&emsp;(i) the plan is in critical and declining status in any plan year beginning in 2020 through 2022,
+
+&emsp;&emsp;&emsp;(ii) a suspension of benefits has been approved with respect to the plan under subsection (e)(9) as of the date of the enactment of this subsection;
+
+&emsp;&emsp;&emsp;(iii) in any plan year beginning in 2020 through 2022, the plan is certified by the plan actuary to be in critical status, has a modified funded percentage of less than 40 percent, and has a ratio of active to inactive participants which is less than 2 to 3, or
+
+&emsp;&emsp;&emsp;(iv) the plan became insolvent within the meaning of section 418E after December 16, 2014, and has remained so insolvent and has not been terminated as of the date of enactment of this subsection.
+
+#### (B) Modified funded percentage
+
+&emsp;&emsp;For purposes of subparagraph (A)(iii), the term "modified funded percentage" means the percentage equal to a fraction the numerator of which is current value of plan assets (as defined in section 3(26) of the Employee Retirement Income Security Act of 1974) and the denominator of which is current liabilities (as defined in section 431(c)(6)(D)).
+
+#### (4) Coordination with pension benefit guaranty corporation
+
+&emsp;In prescribing the application process for eligible multiemployer plans to receive special financial assistance under section 4262 of the Employee Retirement Income Security Act of 1974 and reviewing applications of such plans, the Pension Benefit Guaranty Corporation shall coordinate with the Secretary in the following manner:
+
+&emsp;&emsp;(A) In the case of a plan which has suspended benefits under subsection (e)(9)—
+
+&emsp;&emsp;&emsp;(i) in determining whether to approve the application, such corporation shall consult with the Secretary regarding the plan's proposed method of reinstating benefits, as described in the plan's application and in accordance with guidance issued by the Secretary, and
+
+&emsp;&emsp;&emsp;(ii) such corporation shall consult with the Secretary regarding the amount of special financial assistance needed based on the projected funded status of the plan as of the last day of the plan year ending in 2051, whether the plan proposes to repay benefits over 5 years or as a lump sum, as required by paragraph (2)(A)(ii), and any other relevant factors, as determined by such corporation in consultation with the Secretary, to ensure the amount of assistance is sufficient to meet such requirement and is sufficient to pay benefits as required in section 4262(j)(1) of such Act.
+
+&emsp;&emsp;(B) In the case of any plan which proposes in its application to change the assumptions used, as provided in paragraph (1)(C)(iii), such corporation shall consult with the Secretary regarding such proposed change in assumptions.
+
+&emsp;&emsp;(C) If such corporation specifies in regulations or guidance that temporary priority consideration is available for plans which are insolvent within the meaning of section 418E or likely to become so insolvent or for plans which have suspended benefits under subsection (e)(9), or that availability is otherwise based on the funded status of the plan under this section, as permitted by section 4262(d) of such Act, such corporation shall consult with the Secretary regarding any granting of priority consideration to such plans.
+
+(Added Pub. L. 109–280, title II, §212(a), Aug. 17, 2006, 120 Stat. 899; amended Pub. L. 110–458, title I, §102(b)(2)(A)–(G), Dec. 23, 2008, 122 Stat. 5101, 5102; Pub. L. 113–235, div. O, title I, §§102(b), 103(b), 104(b), 105(b), 106(b), 107(b), 109(b), title II, §201(b)(1)–(6), Dec. 16, 2014, 128 Stat. 2776, 2778, 2780–2782, 2784, 2790, 2810–2822; Pub. L. 115–141, div. U, title IV, §401(a)(102)–(107), Mar. 23, 2018, 132 Stat. 1189; Pub. L. 117–2, title IX, §9704(d), Mar. 11, 2021, 135 Stat. 195.)
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table under section 401 of this title.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Employee Retirement Income Security Act of 1974, referred to in text, is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Sections 101, 103, 104, 502, 515, 4004, 4022A, 4201, 4203, 4211, 4212, 4219, 4233, and 4245 of the Act are classified to sections 1021, 1023, 1024, 1132, 1145, 1304, 1322a, 1381, 1383, 1391, 1392, 1399, 1413, and 1426, respectively, of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in text, is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Sections 3, 101, 103, 104, 502, 515, 4004, 4022A, 4201, 4203, 4211, 4212, 4219, 4233, 4245, and 4262 of the Act are classified to sections 1002, 1021, 1023, 1024, 1132, 1145, 1304, 1322a, 1381, 1383, 1391, 1392, 1399, 1413, 1426, and 1432, respectively, of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 The enactment of the Pension Protection Act of 2006, referred to in subsec. (e)(4)(B)(i)(II), means the enactment of Pub. L. 109–280, which was approved Aug. 17, 2006.
 
@@ -1048,7 +1174,15 @@ The date of enactment of the Multiemployer Pension Reform Act of 2014, referred 
 
 Section 230 of the Social Security Act, referred to in subsec. (e)(9)(H)(v)(III)(bb), is classified to section 430 of Title 42, The Public Health and Welfare.
 
+The date of enactment of this subsection, referred to in subsec. (k)(3)(A)(ii), (iv), is the date of enactment of Pub. L. 117–2, which was approved Mar. 11, 2021.
+
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(4). Pub. L. 117–2, §9704(d)(1), added par. (4).
+
+Subsec. (b)(7). Pub. L. 117–2, §9704(d)(2), added par. (7).
+
+Subsec. (k). Pub. L. 117–2, §9704(d)(3), added subsec. (k).
 
 <b>2018</b>—Subsec. (b)(3)(A)(i). Pub. L. 115–141, §401(a)(102), substituted "in endangered status for such plan year, or would be in endangered status for such plan year but for paragraph (5), whether or not" for "in endangered status for such plan year, whether or not".
 
@@ -1130,9 +1264,9 @@ Subsec. (b)(3)(D)(iii). Pub. L. 110–458, §102(b)(2)(B), substituted "The Secr
 
 Subsec. (c)(3)(A)(ii). Pub. L. 110–458, §102(b)(2)(C)(i), substituted "section 431(d)" for "section 304(d)".
 
-Subsec. (c)(7)(A)(ii). Pub. L. 110–458, §102(b)(2)(C)(ii)(I), substituted "to adopt a contribution schedule with terms consistent with the funding improvement plan and a schedule from the plan sponsor," for "to agree on changes to contribution or benefit schedules necessary to meet the applicable benchmarks in accordance with the funding improvement plan,".
+Subsec. (c)(7)(A)(ii). Pub. L. 110–458, §102(b)(2)(C)(ii)(I), substituted "to adopt a contributionschedule with terms consistent with the funding improvement plan and a schedule from the plan sponsor," for "to agree on changes to contribution or benefit schedules necessary to meet the applicable benchmarks in accordance with the funding improvement plan,".
 
-Subsec. (c)(7)(B). Pub. L. 110–458, §102(b)(2)(C)(ii)(II), added subpar. (B), and struck out former subpar. (B). Prior to amendment, text read as follows: "The datespecified in this subparagraph is the earlier of the date—
+Subsec. (c)(7)(B). Pub. L. 110–458, §102(b)(2)(C)(ii)(II), added subpar. (B), and struck out former subpar. (B). Prior to amendment, text read as follows: "The date specified in this subparagraph is the earlier of the date—
 
 &emsp;"(i) on which the Secretary of Labor certifies that the parties are at an impasse, or
 
@@ -1170,6 +1304,8 @@ Subsec. (i)(3). Pub. L. 110–458, §102(b)(2)(G)(i), substituted "section 431(a
 
 Subsec. (i)(9). Pub. L. 110–458, §102(b)(2)(G)(ii), added par. (9) and struck out former par. (9). Prior to amendment, text read as follows: "In the case of a plan described under section 404(c), or a continuation of such a plan, the term 'plan sponsor' means the bargaining parties described under paragraph (1)."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2014 Amendment
 
 Pub. L. 113–235, div. O, title I, §102(c), Dec. 16, 2014, 128 Stat. 2777, provided that: "The amendments made by this section \[amending this section and section 1085 of Title 29, Labor\] shall apply with respect to plan years beginning after December 31, 2014."
@@ -1195,6 +1331,86 @@ Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub
 #### Effective Date
 
 Section applicable with respect to plan years beginning after 2007, with special rules for certain notices and certain restored benefits, see section 212(e) of Pub. L. 109–280, set out as an Effective Date of 2006 Amendment note under section 412 of this title.
+
+#### Temporary Delay of Designation of Multiemployer Plans as in Endangered, Critical, or Critical and Declining Status
+
+Pub. L. 117–2, title IX, §9701, Mar. 11, 2021, 135 Stat. 186, provided that:
+
+"(a)
+
+In General.—Notwithstanding the actuarial certification under section 305(b)(3) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1085(b)(3)\] and section 432(b)(3) of the Internal Revenue Code of 1986, if a plan sponsor of a multiemployer plan elects the application of this section, then, for purposes of section 305 of such Act and section 432 of such Code—
+
+&emsp;"(1) the status of the plan for its first plan year beginning during the period beginning on March 1, 2020, and ending on February 28, 2021, or the next succeeding plan year (as designated by the plan sponsor in such election), shall be the same as the status of such plan under such sections for the plan year preceding such designated plan year, and
+
+&emsp;"(2) in the case of a plan which was in endangered or critical status for the plan year preceding the designated plan year described in paragraph (1), the plan shall not be required to update its plan or schedules under section 305(c)(6) of such Act and section 432(c)(6) of such Code, or section 305(e)(3)(B) of such Act and section 432(e)(3)(B) of such Code, whichever is applicable, until the plan year following the designated plan year described in paragraph (1).
+
+"(b)
+
+Exception for Plans Becoming Critical During Election.—If—
+
+&emsp;"(1) an election was made under subsection (a) with respect to a multiemployer plan, and
+
+&emsp;"(2) such plan has, without regard to such election, been certified by the plan actuary under section 305(b)(3) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1085(b)(3)\] and section 432(b)(3) of the Internal Revenue Code of 1986 to be in critical status for the designated plan year described in subsection (a)(1), then such plan shall be treated as a plan in critical status for such plan year for purposes of applying section 4971(g)(1)(A) of such Code, section 302(b)(3) of such Act \[29 U.S.C. 1082(b)(3)\] (without regard to the second sentence thereof), and section 412(b)(3) of such Code (without regard to the second sentence thereof).
+
+"(c)
+
+Election and Notice.—
+
+&emsp;"(1)
+
+Election.—An election under subsection (a)—
+
+&emsp;&emsp;"(A) shall be made at such time and in such manner as the Secretary of the Treasury or the Secretary's delegate may prescribe and, once made, may be revoked only with the consent of the Secretary, and
+
+&emsp;&emsp;"(B) if made—
+
+&emsp;&emsp;&emsp;"(i) before the date the annual certification is submitted to the Secretary or the Secretary's delegate under section 305(b)(3) of such Act \[29 U.S.C. 1085(b)(3)\] and section 432(b)(3) of such Code, shall be included with such annual certification, and
+
+&emsp;&emsp;&emsp;"(ii) after such date, shall be submitted to the Secretary or the Secretary's delegate not later than 30 days after the date of the election.
+
+&emsp;"(2)
+
+Notice to participants.—
+
+&emsp;&emsp;"(A)
+
+In general.—Notwithstanding section 305(b)(3)(D) of the Employee Retirement Income Security Act of 1974 and section 432(b)(3)(D) of the Internal Revenue Code of 1986, if, by reason of an election made under subsection (a), the plan is in neither endangered nor critical status—
+
+&emsp;&emsp;&emsp;"(i) the plan sponsor of a multiemployer plan shall not be required to provide notice under such sections, and
+
+&emsp;&emsp;&emsp;"(ii) the plan sponsor shall provide to the participants and beneficiaries, the bargaining parties, the Pension Benefit Guaranty Corporation, and the Secretary of Labor a notice of the election under subsection (a) and such other information as the Secretary of the Treasury (in consultation with the Secretary of Labor) may require—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) if the election is made before the date the annual certification is submitted to the Secretary or the Secretary's delegate under section 305(b)(3) of such Act and section 432(b)(3) of such Code, not later than 30 days after the date of the certification, and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) if the election is made after such date, not later than 30 days after the date of the election.
+
+&emsp;&emsp;"(B)
+
+Notice of endangered status.—Notwithstanding section 305(b)(3)(D) of such Act and section 432(b)(3)(D) of such Code, if the plan is certified to be in critical status for any plan year but is in endangered status by reason of an election made under subsection (a), the notice provided under such sections shall be the notice which would have been provided if the plan had been certified to be in endangered status."
+
+#### Temporary Extension of the Funding Improvement and Rehabilitation Periods for Multiemployer Pension Plans in Critical and Endangered Status for 2020 or 2021
+
+Pub. L. 117–2, title IX, §9702, Mar. 11, 2021, 135 Stat. 188, provided that:
+
+"(a)
+
+In General.—If the plan sponsor of a multiemployer plan which is in endangered or critical status for a plan year beginning in 2020 or 2021 (determined after application of section 9701) elects the application of this section, then, for purposes of section 305 of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1085\] and section 432 of the Internal Revenue Code of 1986, the plan's funding improvement period or rehabilitation period, whichever is applicable, shall be extended by 5 years.
+
+"(b)
+
+Definitions and Special Rules.—For purposes of this section—
+
+&emsp;"(1)
+
+Election.—An election under this section shall be made at such time, and in such manner and form, as (in consultation with the Secretary of Labor) the Secretary of the Treasury or the Secretary's delegate may prescribe.
+
+&emsp;"(2)
+
+Definitions.—Any term which is used in this section which is also used in section 305 of the Employee Retirement Income Security Act of 1974 and section 432 of the Internal Revenue Code of 1986 shall have the same meaning as when used in such sections.
+
+"(c)
+
+Effective Date.—This section shall apply to plan years beginning after December 31, 2019."
 
 #### Guidance
 
@@ -1291,4 +1507,6 @@ Effective Date.—This section shall apply to plan years beginning after Decembe
 #### Special Rule for Certain Benefits Funded Under an Agreement Approved by the Pension Benefit Guaranty Corporation
 
 For applicability of this section to a multiemployer plan that is a party to an agreement that was approved by the Pension Benefit Guaranty Corporation prior to June 30, 2005, and that increases benefits and provides for certain withdrawal liability rules, see section 206 of Pub. L. 109–280, set out as a note under section 412 of this title.
+
+<i><sup>1</sup></i><i> Probably means section 4262 of the Employee Retirement Income Security Act of 1974, see References in Text note below.</i>
 

@@ -120,7 +120,7 @@ There is created a Federal Housing Administration Advisory Board ("Board") that 
 
 #### (B) Probation
 
-&emsp;&emsp;The Board may place a mortgagee on probation for a specified period of time not toexceed 6 months for the purpose of evaluating the mortgagee's compliance with Federal Housing Administration requirements, the Equal Credit Opportunity Act \[15 U.S.C. 1691 et seq.\], the Fair Housing Act \[42 U.S.C. 3601 et seq.\], Executive Order 11063, or orders of the Board. During the probation period, the Board may impose reasonable additional requirements on a mortgagee including supervision of the mortgagee's activities by the Federal Housing Administration, periodic reporting to the Federal Housing Commissioner, or submission to Federal Housing Administration audits of internal financial statements, audits by an independent certified public accountant or other audits.
+&emsp;&emsp;The Board may place a mortgagee on probation for a specified period of time not to exceed 6 months for the purpose of evaluating the mortgagee's compliance with Federal Housing Administration requirements, the Equal Credit Opportunity Act \[15 U.S.C. 1691 et seq.\], the Fair Housing Act \[42 U.S.C. 3601 et seq.\], Executive Order 11063, or orders of the Board. During the probation period, the Board may impose reasonable additional requirements on a mortgagee including supervision of the mortgagee's activities by the Federal Housing Administration, periodic reporting to the Federal Housing Commissioner, or submission to Federal Housing Administration audits of internal financial statements, audits by an independent certified public accountant or other audits.
 
 #### (C) Suspension
 
@@ -164,7 +164,7 @@ There is created a Federal Housing Administration Advisory Board ("Board") that 
 
 #### (6) Cease-and-desist orders
 
-&emsp;(A) Whenever the Secretary, upon request of the Mortgagee Review Board, determines that there is reasonable cause to believe that a mortgagee is violating, has violated, or is about to violate, a law, rule or regulation or any condition imposed in writing by the Secretary or the Board, and that such violation could result in significant cost to the Federal Government or the public, the Secretary may issue a temporary order requiring the mortgagee to cease and desist from any such violation and to take affirmative action to prevent such violation or a continuation of such violation pending completion of proceedings of the Board with respect to such violation. Such order shall include a notice of charges in respect thereof and shall become effective upon service to the mortgagee. Such order shall remain effective and enforceable for a period not to exceed 30 days pending the completion of proceedings of the Board with respect to suchviolation, unless such order is set aside, limited, or suspended by a court in proceedings authorized by subparagraph (B) of this paragraph. The Board shall provide the mortgagee an opportunity for a hearing on the record, as soon as practicable but not later than 20 days after the temporary cease-and-desist order has been served.
+&emsp;(A) Whenever the Secretary, upon request of the Mortgagee Review Board, determines that there is reasonable cause to believe that a mortgagee is violating, has violated, or is about to violate, a law, rule or regulation or any condition imposed in writing by the Secretary or the Board, and that such violation could result in significant cost to the Federal Government or the public, the Secretary may issue a temporary order requiring the mortgagee to cease and desist from any such violation and to take affirmative action to prevent such violation or a continuation of such violation pending completion of proceedings of the Board with respect to such violation. Such order shall include a notice of charges in respect thereof and shall become effective upon service to the mortgagee. Such order shall remain effective and enforceable for a period not to exceed 30 days pending the completion of proceedings of the Board with respect to such violation, unless such order is set aside, limited, or suspended by a court in proceedings authorized by subparagraph (B) of this paragraph. The Board shall provide the mortgagee an opportunity for a hearing on the record, as soon as practicable but not later than 20 days after the temporary cease-and-desist order has been served.
 
 &emsp;(B) Within 10 days after the mortgagee has been served with a temporary cease-and-desist order, the mortgagee may apply to the United States district court for the judicial district in which the home office of the mortgagee is located, or the United States District Court for the District of Columbia, for an injunction setting aside, limiting of suspending the enforcement, operation, or effectiveness of such order pending the completion of the administrative proceedings pursuant to the notice of charges served upon the mortgagee, and such court shall have jurisdiction to issue such injunction.
 
@@ -262,7 +262,7 @@ Whenever the Secretary has taken any discretionary action to suspend or revoke t
 
 (1) The Secretary shall prescribe standards for the appraisal of all property to be insured by the Federal Housing Administration. Such appraisals shall be performed in accordance with uniform standards, by individuals who have demonstrated competence and whose professional conduct is subject to effective supervision. These standards shall require at a minimum—
 
-&emsp;(A) that the appraisals of properties to be insured by the Federal Housing Administration shall be performed in accordance with generally accepted appraisal standards, such as the appraisal standards promulgated by the Appraisal Foundation a not-for-profit corporation established on November 30, 1987 under the laws of Illinois; and
+&emsp;(A) that the appraisals of properties to be insured by the Federal Housing Administration shall be performed in accordance with generally accepted appraisal standards, such as the appraisal standards promulgated by theAppraisal Foundation a not-for-profit corporation established on November 30, 1987 under the laws of Illinois; and
 
 &emsp;(B) that each appraisal be a written statement used in connection with a real estate transaction that is independently an <sup>5</sup> impartially prepared by a licensed or certified appraiser setting forth an opinion of defined value of an adequately described property as of a specific date, supported by presentation and analysis of relevant market information.
 
@@ -296,7 +296,7 @@ Additional appraiser standards.—Beginning on July 30, 2008, any appraiser chos
 
 &emsp;&emsp;(ii) by a nationally recognized professional appraisal organization; and
 
-&emsp;(B) have demonstrated verifiable education in the appraisal requirements established bythe Federal Housing Administration under this subsection.
+&emsp;(B) have demonstrated verifiable education in the appraisal requirements established by the Federal Housing Administration under this subsection.
 
 #### (h) Use of name
 
@@ -320,7 +320,7 @@ Section 3537b(c) of title 42, referred to in subsec. (b)(5), was in the original
 
 The Equal Credit Opportunity Act, referred to in subsec. (c)(1), (3)(B), is title VII of Pub. L. 90–321, as added by Pub. L. 93–495, title V, §503, Oct. 28, 1974, 88 Stat. 1521, which is classified generally to subchapter IV (§1691 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
-The Fair Housing Act, referred to in subsec. (c)(1), (3)(B), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
+The Fair Housing Act, referred to in subsec. (c)(1), (3)(B), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of Title 42, The Public Health and Welfare. For complete classification of thisAct to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
 
 Executive Order 11063, referred to in subsec. (c)(1), (3)(B), is set out as a note under section 1982 of Title 42.
 

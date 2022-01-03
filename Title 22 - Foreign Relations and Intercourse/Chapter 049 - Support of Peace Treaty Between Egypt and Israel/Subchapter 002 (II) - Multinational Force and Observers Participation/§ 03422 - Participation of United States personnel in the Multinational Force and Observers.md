@@ -16,7 +16,7 @@
 
 #### (b) Participation by civilian personnel
 
-Subject to the limitations contained in this subchapter, the President is authorized to provide, under such terms and conditions as he may determine, United States civilian personnel to participate as observers in the Multinational Force and Observers.
+Subject to the limitations contained in this subchapter, the President is authorized to provide, under such terms and conditions as he may determine, United States civilian personnel toparticipate as observers in the Multinational Force and Observers.
 
 #### (c) Status of United States personnel
 

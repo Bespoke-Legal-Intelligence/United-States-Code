@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary of Agriculture (referred to in this section as the "Secretary") may makecompetitive grants to support research and extension activities specified in subsections (d) through (g).
+&emsp;The Secretary of Agriculture (referred to in this section as the "Secretary") may make competitive grants to support research and extension activities specified in subsections (d) through (g).
 
 #### (2) Matching funds requirement
 
@@ -286,7 +286,7 @@ Following the completion of a peer review process for grant proposals received u
 
 &emsp;&emsp;(D) building and overseeing a nationally recognized instructor cadre to ensure the availability of highly qualified instructors;
 
-&emsp;&emsp;(E) reviewing training proposed through the National Institute of Food and Agriculture and other relevant Federal agenciesthat report to the Secretary on the quality and content of proposed and existing courses;
+&emsp;&emsp;(E) reviewing training proposed through the National Institute of Food and Agriculture and other relevant Federal agencies that report to the Secretary on the quality and content of proposed and existing courses;
 
 &emsp;&emsp;(F) assisting Federal agencies in the implementation of food safety protection training requirements including requirements under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.), the Agricultural Act of 2014, and any provision of law amended by such Act; and
 
@@ -462,11 +462,13 @@ Following the completion of a peer review process for grant proposals received u
 
 There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2023.
 
-(Pub. L. 101–624, title XVI, §1672, Nov. 28, 1990, 104 Stat. 3770; Pub. L. 102–237, title IV, §§406, 407(11), Dec. 13, 1991, 105 Stat. 1864, 1865; Pub. L. 104–127, title VIII, §§836, 863, 888, Apr. 4, 1996, 110Stat. 1169, 1174, 1180; Pub. L. 105–185, title II, §242, June 23, 1998, 112 Stat. 549; Pub. L. 107–171, title VII, §§7119, 7208(b), May 13, 2002, 116 Stat. 434, 442; Pub. L. 108–465, title III, §302, Dec. 21, 2004, 118 Stat. 3885; Pub. L. 110–234, title VII, §§7203, 7204, May 22, 2008, 122 Stat. 1233; Pub. L. 110–246, §4(a), title VII, §§7203, 7204, June 18, 2008, 122 Stat. 1664, 1994; Pub. L. 113–79, title VII, §§7128(b)(2)(C), 7209, Feb. 7, 2014, 128 Stat. 879, 881; Pub. L. 115–334, title VII, §§7209, 7614(b)(2)(C), Dec. 20, 2018, 132 Stat. 4806, 4834.)
+(Pub. L. 101–624, title XVI, §1672, Nov. 28, 1990, 104 Stat. 3770; Pub. L. 102–237, title IV, §§406, 407(11), Dec. 13, 1991, 105 Stat. 1864, 1865; Pub. L. 104–127, title VIII, §§836, 863, 888, Apr. 4, 1996, 110 Stat. 1169, 1174, 1180; Pub. L. 105–185, title II, §242, June 23, 1998, 112 Stat. 549; Pub. L. 107–171, title VII, §§7119, 7208(b), May 13, 2002, 116 Stat. 434, 442; Pub. L. 108–465, title III, §302, Dec. 21, 2004, 118 Stat. 3885; Pub. L. 110–234, title VII, §§7203, 7204, May 22, 2008, 122 Stat. 1233; Pub. L. 110–246, §4(a), title VII, §§7203, 7204, June 18, 2008, 122 Stat. 1664, 1994; Pub. L. 113–79, title VII, §§7128(b)(2)(C), 7209, Feb. 7, 2014, 128 Stat. 879, 881; Pub. L. 115–334, title VII, §§7209, 7614(b)(2)(C), Dec. 20, 2018, 132 Stat. 4806, 4834.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (f)(3)(F), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (f)(3)(F), is act June 25, 1938, ch. 675, 52Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
 The Agricultural Act of 2014, referred to in subsec. (f)(3)(F), is Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 649. For complete classification of this Act to the Code, see Short Title note set out under section 9001 of this title and Tables.
 
@@ -564,7 +566,7 @@ Subsec. (h). Pub. L. 107–171, §7119, substituted "2007" for "2002".
 
 <b>1998</b>—Pub. L. 105–185 amended section catchline and text generally, substituting present provisions for provisions which in subsecs. (a) to (f) which authorized specialized research programs relating to, respectively, brown citrus aphid and citrus tristeza virus, ethanol, aflatoxin, mesquite, prickly pear, and deer tick ecology and related research, and for provisions in subsec. (g) subjecting research to peer review, setting limitation on use of funds, and providing for general eligibility to participate in programs.
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–127, §§863(1), 888, added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: "The Secretary of Agriculture is encouraged to fund research for the development of technology which will ascertain the lean content of animal carcasses to be used for human consumption."
+<b>1996</b>—Subsec. (a). Pub. L. 104–127, §§863(1), 888, added subsec. (a) and struck out heading and text of formersubsec. (a). Text read as follows: "The Secretary of Agriculture is encouraged to fund research for the development of technology which will ascertain the lean content of animal carcasses to be used for human consumption."
 
 Subsecs. (d)(4), (e)(4). Pub. L. 104–127, §836, substituted "1997" for "1995".
 
@@ -606,6 +608,8 @@ Subsec. (i). Pub. L. 102–237, §406(1), substituted "Secretary of Agriculture,
 
 Subsec. (k)(1). Pub. L. 102–237, §406(2), substituted "Research" for "Except for research funded under subsection (i), research".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by section 7614(b)(2)(C) of Pub. L. 115–334 applicable to grants, cooperative agreements, or other awards made after Dec. 20, 2018, with matching funds requirement in effect on Dec. 20, 2018, to continue to apply to such grant, cooperative agreement, or other award, see section 7614(c) of Pub. L. 115–334, set out as a note under section 3151 of this title.
@@ -625,6 +629,8 @@ Priority.—The Secretary of Agriculture shall elevate the priority of current m
 "(b)
 
 Authorization of Appropriations.—For each of the fiscal years 2005 through 2009, there is authorized to be appropriated to the Secretary of Agriculture $5,000,000 to carry out this section."
+
+#### <b>Executive Documents</b>
 
 #### Creating a Federal Strategy To Promote the Health of Honey Bees and Other Pollinators
 
@@ -710,7 +716,7 @@ Sec. 3. <i>Increasing and Improving Pollinator Habitat</i>. Unless otherwise spe
 
 (h) The Department of the Interior shall assist States and State wildlife organizations, as appropriate, in identifying and implementing projects to conserve pollinators at risk of endangerment and further pollinator conservation through the revision and implementation of individual State Wildlife Action Plans. The Department of the Interior shall, upon request, provide technical support for these efforts, and keep the Task Force apprised of such collaborations.
 
-(i) The Department of Transportation shall evaluate its current guidance for grantees and informational resources to identify opportunities to increase pollinator habitat along roadways and implement improvements, as appropriate. The Department of Transportation shall work with State Departments of Transportation and transportation associations to promote pollinator-friendly practices and corridors. The Department ofTransportation shall evaluate opportunities to make railways, pipelines, and transportation facilities that are privately owned and operated aware of the need to increase pollinator habitat.
+(i) The Department of Transportation shall evaluate its current guidance for grantees and informational resources to identify opportunities to increase pollinator habitat along roadways and implement improvements, as appropriate. The Department of Transportation shall work with State Departments of Transportation and transportation associations to promote pollinator-friendly practices and corridors. The Department of Transportation shall evaluate opportunities to make railways, pipelines, and transportation facilities that are privately owned and operated aware of the need to increase pollinator habitat.
 
 (j) The Department of Defense shall, consistent with law and the availability of appropriations, support habitat restoration projects for pollinators, and shall direct military service installations to use, when possible, pollinator-friendly native landscaping and minimize use of pesticides harmful to pollinators through integrated vegetation and pest management practices.
 

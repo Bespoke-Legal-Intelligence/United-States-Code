@@ -98,6 +98,8 @@ There is hereby imposed a tax at the rate specified in subsection (c) on—
 
 (Added Pub. L. 96–510, title II, §211(a), Dec. 11, 1980, 94 Stat. 2797; amended Pub. L. 99–499, title V, §§511(a), 512(a), (b), Oct. 17, 1986, 100 Stat. 1760, 1761; Pub. L. 99–509, title VIII, §8032(a), (c)(1), (2), Oct. 21, 1986, 100 Stat. 1957, 1958; Pub. L. 100–647, title VI, §6108, Nov. 10, 1988, 102 Stat. 3712; Pub. L. 101–221, §8(a), Dec. 12, 1989, 103 Stat. 1891; Pub. L. 101–239, title VII, §7505(a), (b), Dec. 19, 1989, 103 Stat. 2363; Pub. L. 101–508, title XI, §11231(a)(1)(B), (2), (b), Nov. 5, 1990, 104 Stat. 1388–445; Pub. L. 109–58, title XIII, §1361, Aug. 8, 2005, 119 Stat. 1058; Pub. L. 110–343, div. B, title IV, §405(a)(1), (b)(1), (2), Oct. 3, 2008, 122 Stat. 3860, 3861; Pub. L. 113–295, div. A, title II, §221(a)(12)(I), Dec. 19, 2014, 128 Stat. 4039; Pub. L. 115–123, div. D, title I, §40416(a), Feb. 9, 2018, 132 Stat. 152; Pub. L. 116–94, div. Q, title I, §134(a), Dec. 20, 2019, 133 Stat. 3234; Pub. L. 116–260, div. EE, title I, §117(a), Dec. 27, 2020, 134 Stat. 3051.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Amendments by Pub. L. 99–509, title VIII, §8031(a), (b), and (d)(1), Oct. 21, 1986, 100 Stat. 1955, to subsecs. (a) to (e) of this section were not executed to text pursuant to Pub. L. 99–509, title VIII, §8031(e)(2), which provided that the amendments made by section 8031 shall not take effect if the Superfund Amendments and Reauthorization Act of 1986 is enacted. The Superfund Amendments and Reauthorization Act of 1986 was enacted as Pub. L. 99–499, approved Oct. 17, 1986.
@@ -180,6 +182,8 @@ Pub. L. 99–499, §§511(a), 512(b), amended subsec. (d) generally and redesign
 
 Subsec. (f). Pub. L. 99–509, §8032(c)(2), added subsec. (f).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2020 Amendment
 
 Pub. L. 116–260, div. EE, title I, §117(b), Dec. 27, 2020, 134 Stat. 3051, provided that: "The amendment made by this section \[amending this section\] shall apply on and after January 1, 2021."
@@ -200,7 +204,7 @@ Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings pro
 
 Pub. L. 110–343, div. B, title IV, §405(a)(2), Oct. 3, 2008, 122 Stat. 3860, provided that: "The amendment made by this subsection \[amending this section\] shall apply on and after the first day of the first calendar quarter beginning more than 60 days after the date of the enactment of this Act \[Oct. 3, 2008\]."
 
-Pub. L. 110–343, div. B, title IV, §405(b)(3), Oct. 3, 2008, 122 Stat. 3861, provided that: "The amendments made by this subsection \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 3, 2008\]."
+Pub. L. 110–343, div. B, title IV, §405(b)(3), Oct. 3, 2008, 122 Stat. 3861, provided that: "The amendments madeby this subsection \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 3, 2008\]."
 
 #### Effective Date of 1989 Amendment
 

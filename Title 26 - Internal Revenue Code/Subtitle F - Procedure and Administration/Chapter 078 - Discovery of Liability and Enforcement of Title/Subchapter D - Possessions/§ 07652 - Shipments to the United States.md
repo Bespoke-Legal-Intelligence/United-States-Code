@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(B) Any amounts remaining shall be deposited in the Treasury of the United States as miscellaneous receipts.
 
-> &emsp;If at the end of any fiscal year the total of the Federal contribution made under subparagraph (A) with respect to the four calendar quarters immediately preceding the beginning of that fiscal year has not been obligated or expended for an approved purpose, the balance shall continue available for expenditure during any succeeding fiscal year, but only for emergency relief purposes and essential public projects. The aggregate amount of moneys available for expenditure for emergency relief purposes and essential public projects only shall not exceed the sum of $5,000,000 at the end of any fiscal year. Any unobligated or unexpended balance of the Federal contribution remaining at the end of a fiscal year which would cause the moneys available for emergency relief purposes and essential public projects only to exceed the sum of $5,000,000 shall thereupon be transferred and paid over to the Treasury of the United States as miscellaneous receipts.
+> &emsp;If at the end of any fiscal year the total of the Federal contribution made under subparagraph (A) with respect to the four calendar quarters immediately preceding the beginning of that fiscal year has not been obligated or expended for an approved purpose, the balance shall continue available for expenditure during any succeeding fiscal year, but only for emergency relief purposes and essential public projects. The aggregate amount of moneys available for expenditure for emergency relief purposes and essential public projects only shall not exceed the sum of $5,000,000 at the end of any fiscal year. Any unobligated or unexpended balance of the Federal contribution remaining at the end of a fiscal year whichwould cause the moneys available for emergency relief purposes and essential public projects only to exceed the sum of $5,000,000 shall thereupon be transferred and paid over to the Treasury of the United States as miscellaneous receipts.
 
 #### (c) Articles containing distilled spirits
 
@@ -122,7 +122,7 @@ No amount shall be covered into the treasury of Puerto Rico or the Virgin Island
 
 &emsp;(2) whether such provision of law is a subsequently enacted provision or directly or indirectly seeks to waive the application of this subsection.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 907; Pub. L. 85–859, title II, §204(17), (18), Sept. 2, 1958, 72 Stat. 1430; Pub. L. 89–44, title VIII, §808(b)(3), June 21, 1965, 79 Stat. 164; Pub. L. 94–202, §10(a), Jan. 2, 1976, 89 Stat. 1141; Pub. L. 94–455, title XIX, §1906(a)(55), (b) (13)(A), Oct. 4, 1976, 90 Stat. 1832, 1834; Pub. L. 98–67, title II, §221(a), Aug. 5, 1983, 97 Stat. 395; Pub. L. 98–213, §5(c), Dec. 8, 1983, 97 Stat. 1460; Pub. L. 98–369, div. B, title VI, §§2681(a), 2682(a), July 18, 1984, 98 Stat. 1172, 1174; Pub. L. 99–514, title XVIII, §1879(i)(1), Oct. 22, 1986, 100 Stat. 2907; Pub. L. 100–418, title I, §1214(p)(1), Aug. 23, 1988, 102 Stat. 1159; Pub. L. 103–66, title XIII, §13227(e), Aug. 10, 1993, 107 Stat. 494; Pub. L. 103–465, title I, §136(b), Dec. 8, 1994, 108 Stat. 4841; Pub. L. 106–170, title V, §512(a), Dec. 17, 1999, 113 Stat. 1924; Pub. L.106–200, title VI, §602(b), (c), May 18, 2000, 114 Stat. 305, 306; Pub. L. 107–147, title VI, §609(a), Mar. 9, 2002, 116 Stat. 60; Pub. L. 108–311, title III, §305(a), Oct. 4, 2004, 118 Stat. 1179; Pub. L. 109–59, title XI, §11125(b)(22), Aug. 10, 2005, 119 Stat. 1957; Pub. L. 109–432, div. A, title I, §114(a), Dec. 20, 2006, 120 Stat. 2940; Pub. L. 110–343, div. C, title III, §308(a), Oct. 3, 2008, 122 Stat. 3869; Pub. L. 111–312, title VII, §755(a), Dec. 17, 2010, 124 Stat. 3322; Pub. L. 112–240, title III, §329(a), Jan. 2, 2013, 126 Stat. 2335; Pub. L. 113–295, div. A, title I, §140(a), Dec. 19, 2014, 128 Stat. 4020; Pub. L. 114–113, div. Q, title I, §172(a), Dec. 18, 2015, 129 Stat. 3071; Pub. L. 115–97, title I, §13807(b), Dec. 22, 2017, 131 Stat. 2176; Pub. L. 115–123, div. D, title II, §41102(a)(1), (b)(1), Feb. 9, 2018, 132 Stat. 155; Pub. L. 116–260, div. EE, title I, §107(a)(2), Dec. 27, 2020, 134 Stat. 3046.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 907; Pub. L. 85–859, title II, §204(17), (18), Sept. 2, 1958, 72 Stat. 1430; Pub. L. 89–44, title VIII, §808(b)(3), June 21,1965, 79 Stat. 164; Pub. L. 94–202, §10(a), Jan. 2, 1976, 89 Stat. 1141; Pub. L. 94–455, title XIX, §1906(a)(55), (b) (13)(A), Oct. 4, 1976, 90 Stat. 1832, 1834; Pub. L. 98–67, title II, §221(a), Aug. 5, 1983, 97 Stat. 395; Pub. L. 98–213, §5(c), Dec. 8, 1983, 97 Stat. 1460; Pub. L. 98–369, div. B, title VI, §§2681(a), 2682(a), July 18, 1984, 98 Stat. 1172, 1174; Pub. L. 99–514, title XVIII, §1879(i)(1), Oct. 22, 1986, 100 Stat. 2907; Pub. L. 100–418, title I, §1214(p)(1), Aug. 23, 1988, 102 Stat. 1159; Pub. L. 103–66, title XIII, §13227(e), Aug. 10, 1993, 107 Stat. 494; Pub. L. 103–465, title I, §136(b), Dec. 8, 1994, 108 Stat. 4841; Pub. L. 106–170, title V, §512(a), Dec. 17, 1999, 113 Stat. 1924; Pub. L. 106–200, title VI, §602(b), (c), May 18, 2000, 114 Stat. 305, 306; Pub. L. 107–147, title VI, §609(a), Mar. 9, 2002, 116 Stat. 60; Pub. L. 108–311, title III, §305(a), Oct. 4, 2004, 118 Stat. 1179; Pub. L. 109–59, title XI, §11125(b)(22), Aug. 10, 2005, 119 Stat. 1957; Pub. L. 109–432, div. A, title I, §114(a), Dec. 20, 2006, 120 Stat. 2940; Pub. L. 110–343, div. C, title III, §308(a), Oct. 3, 2008, 122 Stat. 3869; Pub. L. 111–312, title VII, §755(a), Dec. 17, 2010, 124 Stat. 3322; Pub. L. 112–240, title III, §329(a), Jan. 2, 2013, 126 Stat. 2335; Pub. L. 113–295, div. A, title I, §140(a), Dec. 19, 2014, 128 Stat. 4020; Pub. L. 114–113, div. Q, title I, §172(a), Dec. 18, 2015, 129 Stat. 3071; Pub. L. 115–97, title I, §13807(b), Dec. 22, 2017, 131 Stat. 2176; Pub. L. 115–123, div. D, title II, §41102(a)(1), (b)(1), Feb. 9, 2018, 132 Stat. 155; Pub. L. 116–260, div. EE, title I, §107(a)(2), Dec. 27, 2020, 134 Stat. 3046.)
 
 #### Amendment of Section
 
@@ -137,6 +137,8 @@ No amount shall be covered into the treasury of Puerto Rico or the Virgin Island
 <i>(2) by striking paragraph (5) of subsection (e).</i>
 
 <i>See 2020 Amendment notes below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -221,6 +223,8 @@ Pub. L. 94–202 substituted "calendar quarter ending September 30, 1975, and qu
 <b>1958</b>—Subsec. (a)(1). Pub. L. 85–859, §204(17), substituted "section 5314" for "section 5318".
 
 Subsec. (b)(1). Pub. L. 85–859, §204(18), substituted "section 5314" for "section 5318".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 
@@ -424,7 +428,13 @@ Pub. L. 99–514, title XVIII, §1879(i)(3), Oct. 22, 1986, 100 Stat. 2907, prov
 
 "(B) With respect to articles brought into the United States after September 27, 1985, subparagraph (A) shall apply only if the Secretary of the Treasury or his delegate is satisfied that the amounts paid to Puerto Rico or the Virgin Islands under subparagraph (A) are being repaid to the proper persons who used the distilled spirits in such articles."
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 10602. Secretary of the Interior as Representative of President
 
 Ex. Ord. No. 10602, Mar. 24, 1955, 20 F.R. 1795, provided: "By virtue of the authority vested in me by section 7652(b)(3) of the Internal Revenue Code of 1954 \[now I.R.C. 1986\] (Public Law 591, 83rd Congress, 68A Stat. 907), I hereby designate the Secretary of the Interior as the representative of the President to approve the obligation and expenditure by the government of the Virgin Islands of the moneys referred to in the said section 7652(b)(3)."
+
+Dwight D. Eisenhower&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+\[Pub. L. 94–455 made various amendments to subsec. (b)(3) of this section, after which there was no longer the requirement for approval by the President or his designated representative of obligation and expenditure of specified moneys.\]
 

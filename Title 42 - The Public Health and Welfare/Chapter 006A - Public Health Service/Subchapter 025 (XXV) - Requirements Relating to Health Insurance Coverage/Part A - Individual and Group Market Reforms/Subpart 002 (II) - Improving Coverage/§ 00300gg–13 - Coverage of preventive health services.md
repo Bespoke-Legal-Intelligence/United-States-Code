@@ -32,11 +32,15 @@ The Secretary may develop guidelines to permit a group health plan and a health 
 
 (July 1, 1944, ch. 373, title XXVII, §2713, as added Pub. L. 111–148, title I, §1001(5), Mar. 23, 2010, 124 Stat. 131.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 300gg–13, act July 1, 1944, ch. 373, title XXVII, §2713, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1966, was renumbered section 2709 of act July 1, 1944, and transferred to section 300gg–9 of this title by Pub. L. 111–148, title I, §§1001(3), 1563(c)(10)(C), formerly §1562(c)(10)(C), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 268, 911.
 
 Another prior section 2713 of act July 1, 1944, was successively renumbered by subsequent acts and transferred, see section 238l of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -56,7 +60,7 @@ Definitions.—For purposes of this section:
 
 &emsp;"(1)
 
-Qualifying coronavirus preventive service.—The term 'qualifying coronavirus preventive service' means an item, service, or immunization that is intended to prevent or mitigate coronavirus disease 2019 and that is—
+Qualifying coronavirus preventive service.—The term 'qualifying coronavirus preventiveservice' means an item, service, or immunization that is intended to prevent or mitigate coronavirus disease 2019 and that is—
 
 &emsp;&emsp;"(A) an evidence-based item or service that has in effect a rating of 'A' or 'B' in the current recommendations of the United States Preventive Services Task Force; or
 
@@ -68,7 +72,7 @@ Specified date.—The term 'specified date' means the date that is 15 business d
 
 &emsp;"(3)
 
-Additional terms.—In this section, the terms 'group health plan', 'health insurance issuer', 'group health insurance coverage', and 'individual health insurance coverage' have the meanings given such terms in section 2791 of the Public Health Service Act (42 U.S.C. 300gg–91), section 733 of the Employee Retirement Income Security Act of 1974 (29 U.S.C.1191b), and section 9832 of the Internal Revenue Code \[26 U.S.C. 9832\], as applicable."
+Additional terms.—In this section, the terms 'group health plan', 'health insurance issuer', 'group health insurance coverage', and 'individual health insurance coverage' have the meanings given such terms in section 2791 of the Public Health Service Act (42 U.S.C. 300gg–91), section 733 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1191b), and section 9832 of the Internal Revenue Code \[26 U.S.C. 9832\], as applicable."
 
 <i><sup>1</sup></i><i> So in original. The word "and" probably should not appear.</i>
 

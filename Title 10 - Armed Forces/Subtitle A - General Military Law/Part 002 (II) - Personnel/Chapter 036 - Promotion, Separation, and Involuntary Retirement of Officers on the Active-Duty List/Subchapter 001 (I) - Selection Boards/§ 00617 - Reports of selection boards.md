@@ -1,6 +1,6 @@
 ### §617. Reports of selection boards
 
-(a) Each selection board convened under section 611(a) of this title shall submit to the Secretary of the military department concerned a written report, signed by each member of the board, containing a list of the names of the officers it recommends for promotion and certifying (1) that the board has carefully considered the record of each officer whose name was furnished to it under section 615 of this title, and (2) that, in the opinion of a majority of the members of the board, the officers recommended for promotion by the board are best qualified for promotion to meet the needs of the armed force concerned (as noted in the guidelines or information furnished the board under section 615(b) of this title) among those officers whose names were furnished to the selection board.
+(a) Each selection board convened under section 611(a) of this title shall submit to the Secretary of the military department concerned a written report, signed by each member of the board, containing a list of the names of the officers it recommends for promotion and certifying (1) that the board has carefully considered the record of each officer whose name was furnished to it under section 615 of this title, and (2) that, in the opinion of a majority of the members of the board, the officers recommended for promotion by the board are best qualified for promotion to meet the needs of the armed forceconcerned (as noted in the guidelines or information furnished the board under section 615(b) of this title) among those officers whose names were furnished to the selection board.
 
 (b) A selection board convened under section 611(a) of this title shall include in its report to the Secretary concerned the name of any regular or reserve officer before it for consideration for promotion whose record, in the opinion of a majority of the members of the board, indicates that the officer should be required under chapter 60 or 1411 of this title to show cause for his retention on active duty.
 
@@ -8,7 +8,9 @@
 
 (d) A selection board convened under section 611(a) of this title shall, when authorized under section 616(h) of this title, include in its report to the Secretary concerned the names of those officers recommended by the board to be placed higher on the promotion list and the order in which the board recommends that those officers should be placed on the list.
 
-(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2853; amended Pub. L. 100–456, div. A, title V, §501(c), Sept. 29, 1988, 102 Stat. 1966; Pub. L. 102–484, div. A, title X, §1052(8), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 103–337, div. A, title XVI, §1623, Oct. 5, 1994, 108 Stat. 2961; Pub. L. 105–261, div. A, title V, §502(b), Oct. 17, 1998, 112 Stat.2003; Pub. L. 106–65, div. A, title V, §503(a), Oct. 5, 1999, 113 Stat. 590; Pub. L. 115–232, div. A, title V, §504(b), Aug. 13, 2018, 132 Stat. 1742; Pub. L. 116–283, div. A, title X, §1081(a)(18), Jan. 1, 2021, 134 Stat. 3871.)
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2853; amended Pub. L. 100–456, div. A, title V, §501(c), Sept. 29, 1988, 102 Stat. 1966; Pub. L. 102–484, div. A, title X, §1052(8), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 103–337, div. A, title XVI, §1623, Oct. 5, 1994, 108 Stat. 2961; Pub. L. 105–261, div. A, title V, §502(b), Oct. 17, 1998, 112 Stat. 2003; Pub. L. 106–65, div. A, title V, §503(a), Oct. 5, 1999, 113 Stat. 590; Pub. L. 115–232, div. A, title V, §504(b), Aug. 13, 2018, 132 Stat. 1742; Pub. L. 116–283, div. A, title X, §1081(a)(18), Jan. 1, 2021, 134 Stat. 3871.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -25,6 +27,8 @@
 <b>1992</b>—Subsec. (a). Pub. L. 102–484 substituted "section 615(b)" for "section 615(a)".
 
 <b>1988</b>—Subsec. (a)(2). Pub. L. 100–456 inserted "(as noted in the guidelines or information furnished the board under section 615(a) of this title)" after "concerned".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1999 Amendment
 

@@ -1,6 +1,6 @@
 ### §1396i. Certification and approval of rural health clinics and intermediate care facilities for mentally retarded
 
-(a)(1) Whenever the Secretary certifies a facility in a State to be qualified as a rural health clinic under subchapter XVIII, such facility shall be deemed to meet the standards for certification as a rural health clinic for purposes of providing rural health clinic services under this subchapter.
+(a)(1) Whenever the Secretary certifies a facility in a State to be qualified as a rural healthclinic under subchapter XVIII, such facility shall be deemed to meet the standards for certification as a rural health clinic for purposes of providing rural health clinic services under this subchapter.
 
 (2) The Secretary shall notify the State agency administering the medical assistance plan of his approval or disapproval of any facility in that State which has applied for certification by him as a qualified rural health clinic.
 
@@ -9,6 +9,8 @@
 (2) Any intermediate care facility for the mentally retarded which is dissatisfied with a determination by the Secretary that it no longer qualifies as a <sup>1</sup> intermediate care facility for the mentally retarded for purposes of this subchapter, shall be entitled to a hearing by the Secretary to the same extent as is provided in section 405(b) of this title and to judicial review of the Secretary's final decision after such hearing as is provided in section 405(g) of this title, except that, in so applying such sections and in applying section 405(l) of this title thereto, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively. Any agreement between such facility and the State agency shall remain in effect until the period for filing a request for a hearing has expired or, if a request has been filed, until a decision has been made by the Secretary; except that the agreement shall not be extended if the Secretary makes a written determination, specifying the reasons therefor, that the continuation of provider status constitutes an immediate and serious threat to the health and safety of patients, and the Secretary certifies that the facility has been notified of its deficiencies and has failed to correct them.
 
 (Aug. 14, 1935, ch. 531, title XIX, §1910, as added and amended Pub. L. 92–603, title II, §§249A(a), 278(b)(12), Oct. 30, 1972, 86 Stat. 1426, 1454; Pub. L. 95–210, §2(d), Dec. 13, 1977, 91 Stat. 1489; Pub. L. 96–499, title IX, §916(b)(2), Dec. 5, 1980, 94 Stat. 2624; Pub. L. 100–203, title IV, §4212(e)(3), Dec. 22, 1987, 101 Stat. 1330–213; Pub. L. 100–360, title IV, §411(l)(6)(F), July 1, 1988, as added Pub. L. 100–485, title VI, §608(d)(27)(J), Oct. 13, 1988, 102 Stat. 2423; Pub. L. 101–239, title VI, §6901(d)(5), Dec. 19, 1989, 103 Stat. 2301; Pub. L. 103–296, title I, §108(d)(4), Aug. 15, 1994, 108 Stat. 1486; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(n)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–397.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -30,6 +32,8 @@ Subsec. (b)(2). Pub. L. 101–239, §6901(d)(5)(D), substituted "intermediate ca
 
 <b>1977</b>—Pub. L. 95–210 substituted "facilities and of rural health clinics" for "facilities" in section catchline, redesignated existing subsecs. (a) and (b) as (a)(1) and (2), respectively, and added subsec. (b).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of this title.
@@ -42,7 +46,7 @@ Amendment by Pub. L. 101–239 effective as if included in the enactment of the 
 
 Amendment by Pub. L. 100–485 effective as if included in the enactment of the Medicare Catastrophic Coverage Act of 1988, Pub. L. 100–360, see section 608(g)(1) of Pub. L. 100–485, set out as a note under section 704 of this title.
 
-Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
+Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included inthe enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 
 #### Effective Date of 1987 Amendment
 

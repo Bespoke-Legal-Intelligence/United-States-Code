@@ -260,7 +260,7 @@ Nothing in any other law (including regulations) limits liability for a covered 
 
 #### (C) Vouchers
 
-&emsp;&emsp;A nuclear supplier shall submit payment certification vouchers to the Secretary of the Treasury in accordance with section 3325 of title 31.
+&emsp;&emsp;A nuclear supplier shall submit payment certification vouchers to the Secretary ofthe Treasury in accordance with section 3325 of title 31.
 
 #### (2) Use of funds
 
@@ -350,11 +350,15 @@ This section shall take effect on December 19, 2007.
 
 (Pub. L. 110–140, title IX, §934, Dec. 19, 2007, 121 Stat. 1741.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Presidential Proclamation Number 5928, referred to in subsec. (b)(10)(B)(iv), is set out as a note under section 1331 of Title 43, Public Lands.
 
 Executive Order 12958, referred to in subsec. (k)(3), which was formerly set out as a note under section 435 (now section 3161) of Title 50, War and National Defense, was revoked by Ex. Ord. No. 13526, §6.2(g), Dec. 29, 2009, 75 F.R. 731.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

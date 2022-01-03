@@ -1,6 +1,6 @@
 ### §6436. Institution-wide projects
 
-A State agency that provides free public education for children and youth in an institution for neglected or delinquent children and youth (other than an adult correctional institution) or attending a community-day program for such children and youth may use funds received under this subpart to serve all children in, and upgrade the entire educational effort of, that institution or program if the State agency has developed, and the State educational agency has approved, a comprehensive plan for that institution or program that—
+A State agency that provides free public education for children and youth in an institution for neglected or delinquent children and youth (other than an adult correctional institution) or attending a community-day program for such children and youth may use funds received under this subpart to serve all children in, andupgrade the entire educational effort of, that institution or program if the State agency has developed, and the State educational agency has approved, a comprehensive plan for that institution or program that—
 
 &emsp;(1) provides for a comprehensive assessment of the educational needs of all children and youth in the institution or program serving juveniles;
 
@@ -20,6 +20,8 @@ A State agency that provides free public education for children and youth in an 
 
 (Pub. L. 89–10, title I, §1416, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1585; amended Pub. L. 114–95, title I, §1401(5), Dec. 10, 2015, 129 Stat. 1902.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 6436, Pub. L. 89–10, title I, §1416, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3596, related to institution-wide projects, prior to the general amendment of this subchapter by Pub. L. 107–110.
@@ -28,9 +30,11 @@ A prior section 6436, Pub. L. 89–10, title I, §1416, as added Pub. L. 103–3
 
 <b>2015</b>—Par. (3). Pub. L. 114–95, §1401(5)(A), substituted "challenging State academic standards" for "challenging State academic content standards and student academic achievement standards" and "will attain a regular high school diploma" for "will complete secondary school, attain a secondary diploma".
 
-Par. (4). Pub. L. 114–95, §1401(5)(B), substituted "specialized instructional support services" for "pupil services" and inserted ", and how relevant and appropriate academic records and plans regarding the continuation of educational services for such children or youth are shared jointly between the State agency operating theinstitution or program and local educational agency in order to facilitate the transition of such children and youth between the local educational agency and the State agency" before semicolon at end.
+Par. (4). Pub. L. 114–95, §1401(5)(B), substituted "specialized instructional support services" for "pupil services" and inserted ", and how relevant and appropriate academic records and plans regarding the continuation of educational services for such children or youth are shared jointly between the State agency operating the institution or program and local educational agency in order to facilitate the transition of such children and youth between the local educational agency and the State agency" before semicolon at end.
 
 Par. (6). Pub. L. 114–95, §1401(5)(C), substituted "assess and improve student achievement" for "assess student progress".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

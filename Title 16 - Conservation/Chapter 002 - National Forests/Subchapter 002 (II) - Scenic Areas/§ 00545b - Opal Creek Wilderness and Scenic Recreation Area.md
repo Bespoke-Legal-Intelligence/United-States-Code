@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Bull of the Woods Wilderness
 
-&emsp;The term "Bull of the Woods Wilderness" means the land designated as wilderness bysection 3(4) of the Oregon Wilderness Act of 1984 (Public Law 98–328; 16 U.S.C. 1132 note).
+&emsp;The term "Bull of the Woods Wilderness" means the land designated as wilderness by section 3(4) of the Oregon Wilderness Act of 1984 (Public Law 98–328; 16 U.S.C. 1132 note).
 
 #### (2) Opal Creek Wilderness
 
@@ -326,7 +326,7 @@ The purposes of this section are—
 
 #### (2) Land to be offered by Rosboro
 
-&emsp;The land referred to in paragraph (1) as the land to be offered by Rosboro shall compriseSection 36, Township 8 South, Range 4 East, Willamette Meridian.
+&emsp;The land referred to in paragraph (1) as the land to be offered by Rosboro shall comprise Section 36, Township 8 South, Range 4 East, Willamette Meridian.
 
 #### (3) Land to be conveyed by the United States
 
@@ -388,6 +388,8 @@ The purposes of this section are—
 
 (Pub. L. 104–333, div. I, title X, §1023, Nov. 12, 1996, 110 Stat. 4215; Pub. L. 106–176, title I, §125, Mar. 10, 2000, 114 Stat. 30.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Wilderness Act, referred to in subsec. (c)(1)(A), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
@@ -411,6 +413,8 @@ Provisions substantially identical to the text of this section were enacted by t
 #### Amendments
 
 <b>2000</b>—Subsec. (c)(1)(A). Pub. L. 106–176 struck out "of 1964" after "Wilderness Act".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

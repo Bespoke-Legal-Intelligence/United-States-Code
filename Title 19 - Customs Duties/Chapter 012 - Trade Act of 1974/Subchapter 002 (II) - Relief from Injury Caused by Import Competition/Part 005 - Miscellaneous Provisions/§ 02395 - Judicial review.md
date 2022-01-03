@@ -12,11 +12,13 @@ The findings of fact by the Secretary of Labor, the Secretary of Commerce, or th
 
 The Court of International Trade shall have jurisdiction to affirm the action of the Secretary of Labor, the Secretary of Commerce, or the Secretary of Agriculture, as the case may be, or to set such action aside, in whole or in part. The judgment of the Court of International Trade shall be subject to review by the United States Court of Appeals for the Federal Circuit as prescribed by the rules of such court. The judgment of the Court of Appeals for the Federal Circuit shall be subject to review by the Supreme Court of the United States upon certiorari as provided in section 1256 <sup>1</sup> of title 28.
 
-(Pub. L. 93–618, title II, §284, as added Pub. L. 96–417, title VI, §613(a), Oct. 10, 1980, 94 Stat. 1746; amended Pub. L. 97–164, title I, §163(a)(5), Apr. 2, 1982, 96 Stat. 49; Pub. L. 103–182, title V, §503(d), Dec. 8, 1993, 107 Stat. 2151; Pub. L. 107–210, div. A, title I, §§123(b)(4), 142(a), Aug. 6, 2002, 116 Stat. 944, 953; Pub. L. 108–429, title II, §2004(a)(11)(A), Dec. 3, 2004, 118 Stat. 2590; Pub. L. 111–5, div. B, title I, §1873(b)(1), Feb. 17, 2009, 123 Stat. 414; Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403; Pub. L. 114–27, title IV, §402(b), (c), June 29, 2015, 129 Stat. 374.)
+(Pub. L. 93–618, title II, §284, as added Pub. L. 96–417, title VI, §613(a), Oct. 10, 1980, 94 Stat. 1746; amended Pub. L. 97–164, title I, §163(a)(5), Apr. 2, 1982, 96 Stat. 49; Pub. L. 103–182, title V, §503(d), Dec. 8, 1993, 107 Stat. 2151; Pub. L. 107–210, div. A, title I, §§123(b)(4), 142(a), Aug. 6, 2002, 116 Stat. 944, 953; Pub. L. 108–429, title II, §2004(a)(11)(A), Dec. 3, 2004, 118 Stat. 2590; Pub.L. 111–5, div. B, title I, §1873(b)(1), Feb. 17, 2009, 123 Stat. 414; Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403; Pub. L. 114–27, title IV, §402(b), (c), June 29, 2015, 129 Stat. 374.)
 
 #### Reversion to Provisions in Effect on January 1, 2014
 
 <i>For reversion, beginning on July 1, 2021, to provisions in effect on Jan. 1, 2014, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see Codification and Effective and Termination Dates of 2015 Revival notes below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -52,6 +54,8 @@ Subsecs. (b), (c). Pub. L. 107–210, §142(a)(1)(B), as amended by Pub. L. 108�
 
 <b>1982</b>—Subsec. (c). Pub. L. 97–164 substituted "Court of Appeals for the Federal Circuit" for "Court of Customs and Patent Appeals".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective and Termination Dates of 2015 Revival
 
 For revival and applicability, beginning on June 29, 2015, of the provisions of this section as in effect on Dec. 31, 2013, see section 402(b), (c) of Pub. L. 114–27, set out as a note preceding section 2271 of this title.
@@ -68,7 +72,7 @@ Section 233 of Pub. L. 112–40, formerly set out as a note preceding section 22
 
 Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as a note under section 2271 of this title.
 
-Section 1893 of Pub. L. 111–5, formerly set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title, which provided that, except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, asif amendment by Pub. L. 111–5 had never been enacted, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, effective Oct. 21, 2011. See Codification note above.
+Section 1893 of Pub. L. 111–5, formerly set out as a Termination Date of 2009 Amendment note preceding section 2271 of this title, which provided that, except as otherwise provided, amendment by Pub. L. 111–5 not applicable on or after Feb. 13, 2011, and that this section be applied and administered beginning Feb. 13, 2011, as if amendment by Pub. L. 111–5 had never been enacted, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, effective Oct. 21, 2011. See Codification note above.
 
 #### Effective Date of 2002 Amendment
 
@@ -78,7 +82,7 @@ Amendment by section 142(a) of Pub. L. 107–210 effective on the date that is 1
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States (Jan. 1, 1994), see section 506(a) of Pub. L. 103–182, formerly set out as a note under section 2271 of this title.
+Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States (Jan. 1, 1994),see section 506(a) of Pub. L. 103–182, formerly set out as a note under section 2271 of this title.
 
 #### Effective Date of 1982 Amendment
 

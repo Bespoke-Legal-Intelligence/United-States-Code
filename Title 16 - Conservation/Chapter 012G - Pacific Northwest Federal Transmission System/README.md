@@ -15,6 +15,8 @@
 | [838j.](%C2%A7%2000838j%20-%20Investment%20of%20excess%20moneys%3B%20deposit%20of%20moneys.md) | Investment of excess moneys; deposit of moneys. |
 | [838k.](%C2%A7%2000838k%20-%20Bonneville%20Power%20Administration%20bonds.md) | Bonneville Power Administration bonds. |
 | [838l.](%C2%A7%2000838l%20-%20Bonneville%20Power%20Administration%20refinancing.md) | Bonneville Power Administration refinancing. |
+| [838m.](%C2%A7%2000838m%20-%20Power%20marketing%20administration%20transmission%20borrowing%20authority.md) | Power marketing administration transmission borrowing authority. |
+| [838n.](%C2%A7%2000838n%20-%20Columbia%20Basin%20power%20management.md) | Columbia Basin power management. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -36,3 +38,5 @@
 - [&sect; 00838j - Investment of excess moneys; deposit of moneys](%C2%A7%2000838j%20-%20Investment%20of%20excess%20moneys%3B%20deposit%20of%20moneys.md)
 - [&sect; 00838k - Bonneville Power Administration bonds](%C2%A7%2000838k%20-%20Bonneville%20Power%20Administration%20bonds.md)
 - [&sect; 00838l - Bonneville Power Administration refinancing](%C2%A7%2000838l%20-%20Bonneville%20Power%20Administration%20refinancing.md)
+- [&sect; 00838m - Power marketing administration transmission borrowing authority](%C2%A7%2000838m%20-%20Power%20marketing%20administration%20transmission%20borrowing%20authority.md)
+- [&sect; 00838n - Columbia Basin power management](%C2%A7%2000838n%20-%20Columbia%20Basin%20power%20management.md)

@@ -30,7 +30,7 @@ In computing taxable investment income, the following deductions shall be allowe
 
 #### (2) Investment expenses
 
-&emsp;Investment expenses paid or accrued during the taxable year. If any general expenses are in part assigned to or included in the investment expenses, the total deduction under this paragraph shall not exceed one-fourth of 1 percent of the mean of the book value of the invested assets held at the beginning and end of the taxable year plus one-fourth of the amount by which taxable investment income (computed without any deduction for investment expenses allowed by this paragraph, for tax-free interest allowed by paragraph (1), or for dividends received allowed by paragraph (7)), exceeds 3¾ percent of the book value of the mean of the invested assets held at the beginning and end of the taxable year.
+&emsp;Investment expenses paid or accrued during the taxable year. If any general expenses arein part assigned to or included in the investment expenses, the total deduction under this paragraph shall not exceed one-fourth of 1 percent of the mean of the book value of the invested assets held at the beginning and end of the taxable year plus one-fourth of the amount by which taxable investment income (computed without any deduction for investment expenses allowed by this paragraph, for tax-free interest allowed by paragraph (1), or for dividends received allowed by paragraph (7)), exceeds 3¾ percent of the book value of the mean of the invested assets held at the beginning and end of the taxable year.
 
 #### (3) Real estate expenses
 
@@ -46,7 +46,7 @@ In computing taxable investment income, the following deductions shall be allowe
 
 #### (6) Capital losses
 
-&emsp;Capital losses to the extent provided in subchapter P (sec. 1201 and following) plus losses from capital assets sold or exchanged in order to obtain funds to meet abnormal insurance losses and to provide for the payment of dividends and similar distributions to policyholders. Capital assets shall be considered assold or exchanged in order to obtain funds to meet abnormal insurance losses and to provide for the payment of dividends and similar distributions to policyholders to the extent that the gross receipts from their sale or exchange are not greater than the excess, if any, for the taxable year of the sum of dividends and similar distributions paid to policyholders, losses paid, and expenses paid over the sum of the items described in subsection (b) (other than paragraph (1)(D) thereof) and net premiums received. In the application of section 1212 for purposes of this section, the net capital loss for the taxable year shall be the amount by which losses for such year from sales or exchanges of capital assets exceeds the sum of the gains from such sales or exchanges and whichever of the following amounts is the lesser:
+&emsp;Capital losses to the extent provided in subchapter P (sec. 1201 and following) plus losses from capital assets sold or exchanged in order to obtain funds to meet abnormal insurance losses and to provide for the payment of dividends and similar distributions to policyholders. Capital assets shall be considered as sold or exchanged in order to obtain funds to meet abnormal insurance losses and to provide for the payment of dividends and similar distributions to policyholders to the extent that the gross receipts from their sale or exchange are not greater than the excess, if any, for the taxable year of the sum of dividends and similar distributions paid to policyholders, losses paid, and expenses paid over the sum of the items described in subsection (b) (other than paragraph (1)(D) thereof) and net premiums received. In the application of section 1212 for purposes of this section, the net capital loss for the taxable year shall be the amount by which losses for such year from sales or exchanges of capital assets exceeds the sum of the gains from such sales or exchanges and whichever of the following amounts is the lesser:
 
 &emsp;&emsp;(A) the taxable investment income (computed without regard to gains or losses from sales or exchanges of capital assets); or
 
@@ -94,13 +94,15 @@ For purposes of this part—
 
 #### (1) Net premiums
 
-&emsp;The term "net premiums" means gross premiums (including deposits and assessments) written or received on insurance contracts during the taxable year less return premiums and premiums paid or incurred for reinsurance. Amounts returned where the amount is not fixed in the insurance contract but depends on the experience of the company or the discretion of the management shall not be included in return premiums but shall be treated as dividends to policyholders under paragraph (2).
+&emsp;The term "net premiums" means gross premiums (including deposits and assessments)written or received on insurance contracts during the taxable year less return premiums and premiums paid or incurred for reinsurance. Amounts returned where the amount is not fixed in the insurance contract but depends on the experience of the company or the discretion of the management shall not be included in return premiums but shall be treated as dividends to policyholders under paragraph (2).
 
 #### (2) Dividends to policyholders
 
 &emsp;The term "dividends to policyholders" means dividends and similar distributions paid or declared to policyholders. For purposes of the preceding sentence, the term "paid or declared" shall be construed according to the method regularly employed in keeping the books of the insurance company.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 261, §822; Mar. 13, 1956, ch. 83, §3(a)(3)–(8), 70 Stat. 47, 48; Pub. L. 87–834, §8(b), Oct. 16, 1962, 76 Stat. 991; Pub. L. 88–272, title II, §228(b)(2), Feb. 26, 1964, 78 Stat. 99; Pub. L. 89–809, title I, §104(i)(5), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 94–455, title XIX, §§1901(a)(105), (b)(1)(P)–(S), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1782, 1792, 1834; renumbered §834 and amended Pub. L. 99–514, title X, §1024(a)(3), (c)(7), (8), Oct. 22, 1986, 100 Stat. 2405, 2407; Pub. L. 115–97, title I, §13001(b)(2)(I), Dec. 22, 2017, 131 Stat. 2096.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -147,6 +149,8 @@ Subsec. (c). Act Mar. 13, 1956, §3(a)(4), (5), (6), clarified the deduction for
 Subsec. (d)(1). Act Mar. 13, 1956, §3(a)(7), substituted "subsection (c)(3) or (4)" for "subsection (e)(3) or (4)".
 
 Subsec. (e). Act Mar. 13, 1956, §3(a)(8), substituted "items described in subsection (b) (other than paragraph (1)(D) thereof" for "interest, dividends, rents,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 

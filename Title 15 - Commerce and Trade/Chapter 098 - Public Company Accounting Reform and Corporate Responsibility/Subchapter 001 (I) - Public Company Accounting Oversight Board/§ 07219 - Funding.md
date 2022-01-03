@@ -6,7 +6,7 @@ The Board, and the standard setting body designated pursuant to section 77s(b) o
 
 #### (b) Annual budgets
 
-The Board and the standard setting body referred to in subsection (a) shall each establish abudget for each fiscal year, which shall be reviewed and approved according to their respective internal procedures not less than 1 month prior to the commencement of the fiscal year to which the budget pertains (or at the beginning of the Board's first fiscal year, which may be a short fiscal year). The budget of the Board shall be subject to approval by the Commission. The budget for the first fiscal year of the Board shall be prepared and approved promptly following the appointment of the initial five Board members, to permit action by the Board of the organizational tasks contemplated by section 7211(d) of this title.
+The Board and the standard setting body referred to in subsection (a) shall each establish a budget for each fiscal year, which shall be reviewed and approved according to their respective internal procedures not less than 1 month prior to the commencement of the fiscal year to which the budget pertains (or at the beginning of the Board's first fiscal year, which may be a short fiscal year). The budget of the Board shall be subject to approval by the Commission. Thebudget for the first fiscal year of the Board shall be prepared and approved promptly following the appointment of the initial five Board members, to permit action by the Board of the organizational tasks contemplated by section 7211(d) of this title.
 
 #### (c) Sources and uses of funds
 
@@ -78,6 +78,8 @@ From the unexpended balances of the appropriations to the Commission for fiscal 
 
 (Pub. L. 107–204, title I, §109, July 30, 2002, 116 Stat. 769; Pub. L. 111–203, title IX, §982(h), July 21, 2010, 124 Stat. 1930.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is comprised of section 109 of Pub. L. 107–204. Subsec. (i) of section 109 of Pub. L. 107–204 amended section 78m of this title.
@@ -91,6 +93,8 @@ Subsec. (d)(2). Pub. L. 111–203, §982(h)(2)(A), substituted "and among broker
 Subsec. (d)(3). Pub. L. 111–203, §982(h)(2)(B), added par. (3).
 
 Subsecs. (h) to (k). Pub. L. 111–203, §982(h)(3), (4), added subsec. (h) and redesignated former subsecs. (h) to (j) as (i) to (k), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

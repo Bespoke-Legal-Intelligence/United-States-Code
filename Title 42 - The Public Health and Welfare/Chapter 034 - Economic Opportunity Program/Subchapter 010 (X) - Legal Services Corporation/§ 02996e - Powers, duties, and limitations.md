@@ -26,7 +26,7 @@ To the extent consistent with the provisions of this subchapter, the Corporation
 
 (1)(A) The Corporation shall have authority to insure the compliance of recipients and their employees with the provisions of this subchapter and the rules, regulations, and guidelines promulgated pursuant to this subchapter, and to terminate, after a hearing in accordance with section 2996j of this title, financial support to a recipient which fails to comply.
 
-(B) No question of whether representation is authorized under this subchapter, or the rules, regulations or guidelines promulgated pursuant to this subchapter, shall be considered in, or affect the final disposition of, any proceeding in which a person is represented by a recipient or an employee of a recipient. A litigant in such a proceeding may refer any such question to the Corporation which shall review and dispose of the question promptly, and take appropriate action. This subparagraph shall not preclude judicial review available under applicable law.
+(B) No question of whether representation is authorized under this subchapter, or the rules, regulations or guidelines promulgated pursuantto this subchapter, shall be considered in, or affect the final disposition of, any proceeding in which a person is represented by a recipient or an employee of a recipient. A litigant in such a proceeding may refer any such question to the Corporation which shall review and dispose of the question promptly, and take appropriate action. This subparagraph shall not preclude judicial review available under applicable law.
 
 (2) If a recipient finds that any of its employees has violated or caused the recipient to violate the provisions of this subchapter or the rules, regulations, and guidelines promulgated pursuant to this subchapter, the recipient shall take appropriate remedial or disciplinary action in accordance with the types of procedures prescribed in the provisions of section 2996j of this title.
 
@@ -62,7 +62,7 @@ The Corporation shall not itself—
 
 #### (e) Political activities of Corporation employees and staff attorneys
 
-(1) Employees of the Corporation or of recipients shall not at any time intentionally identify the Corporation or the recipient with any partisan or nonpartisan political activity associated with a political party or association, or the campaign of any candidate for public or party office.
+(1) Employees of the Corporation or of recipients shall not at any time intentionally identifythe Corporation or the recipient with any partisan or nonpartisan political activity associated with a political party or association, or the campaign of any candidate for public or party office.
 
 (2) Employees of the Corporation and staff attorneys shall be deemed to be State or local employees for purposes of chapter 15 of title 5, except that no staff attorney may be a candidate in a partisan political election.
 
@@ -71,6 +71,8 @@ The Corporation shall not itself—
 If an action is commenced by the Corporation or by a recipient and a final order is entered in favor of the defendant and against the Corporation or a recipient's plaintiff, the court shall, upon motion by the defendant and upon a finding by the court that the action was commenced or pursued for the sole purpose of harassment of the defendant or that the Corporation or a recipient's plaintiff maliciously abused legal process, enter an order (which shall be appealable before being made final) awarding reasonable costs and legal fees incurred by the defendant in defense of the action, except when in contravention of a State law, a rule of court, or a statute of general applicability. Any such costs and fees shall be directly paid by the Corporation.
 
 (Pub. L. 88–452, title X, §1006, as added Pub. L. 93–355, §2, July 25, 1974, 88 Stat. 381; amended Pub. L. 95–222, §§5(a), (b), 6, 7(a), 8, Dec. 28, 1977, 91 Stat. 1619, 1620.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -89,6 +91,8 @@ Subsec. (d)(6). Pub. L. 95–222, §6(c), added par. (6).
 Subsec. (e)(2). Pub. L. 95–222, §7(a), inserted provisions relating to staff attorneys.
 
 Subsec. (f). Pub. L. 95–222, §8, substituted "the court shall" for "the court may".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1977 Amendment
 

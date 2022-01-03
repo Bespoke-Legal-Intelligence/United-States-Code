@@ -20,17 +20,23 @@ May 22, 1928, ch. 688, 45 Stat. 712.
 
 The words "public", "actual", and "by law" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
-A prior section 8263, added Pub. L. 85–861, §1(166)(B), Sept. 2, 1958, 72 Stat. 1516; Pub. L. 87–649, §14c(53), Sept. 7, 1962, 76 Stat. 501, provided for voluntary extension of enlistments in the Air Force, prior to repeal by Pub. L. 90–235, §2(a)(4)(B), Jan. 2, 1968, 81 Stat. 756.
+A prior section 8263, added Pub. L. 85–861, §1(166)(B), Sept. 2, 1958, 72 Stat. 1516; Pub. L. 87–649, §14c(53), Sept. 7, 1962, 76 Stat. 501, provided for voluntary extension ofenlistments in the Air Force, prior to repeal by Pub. L. 90–235, §2(a)(4)(B), Jan. 2, 1968, 81 Stat. 756.
 
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 6152 of this title as this section.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments andspecial rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

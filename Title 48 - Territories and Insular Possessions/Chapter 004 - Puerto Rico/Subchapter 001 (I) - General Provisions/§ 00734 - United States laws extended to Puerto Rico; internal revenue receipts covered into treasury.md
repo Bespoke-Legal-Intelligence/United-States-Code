@@ -1,8 +1,10 @@
 ### §734. United States laws extended to Puerto Rico; internal revenue receipts covered into treasury
 
-The statutory laws of the United States not locally inapplicable, except as hereinbefore or hereinafter otherwise provided, shall have the same force and effect in Puerto Rico as in the United States, except the internal revenue laws other than those contained in the Philippine Trade Act of 1946 \[22 U.S.C. 1251 et seq.\] or the Philippine Trade Agreement Revision Act of 1955 \[22 U.S.C. 1371 et seq.\]: <i>Provided, however</i>, That after May 1, 1946, all taxes collected under the internal revenue laws of the United States on articles produced in Puerto Rico and transported to the United States, or consumed in the island shall be covered into the treasury of Puerto Rico.
+The statutory laws of the United States not locally inapplicable, except as hereinbefore or hereinafter otherwise provided, shall have the same force and effect in Puerto Rico as in the United States, except the internal revenue laws other than those contained in the Philippine Trade Act of 1946 \[22 U.S.C. 1251 et seq.\] or the Philippine Trade Agreement Revision Act of 1955 \[22 U.S.C. 1371 et seq.\]: <i>Provided, however</i>, Thatafter May 1, 1946, all taxes collected under the internal revenue laws of the United States on articles produced in Puerto Rico and transported to the United States, or consumed in the island shall be covered into the treasury of Puerto Rico.
 
 (Mar. 2, 1917, ch. 145, §9, 39 Stat. 954; May 17, 1932, ch. 190, 47 Stat. 158; Apr. 30, 1946, ch. 244, title V, §513, 60 Stat. 158; Aug. 1, 1955, ch. 438, title III, §308, 69 Stat. 427.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -22,6 +24,8 @@ Provisions similar to those in this section were contained in act Apr. 12, 1900,
 
 <b>1946</b>—Act Apr. 30, 1946, inserted "other than those contained in the Philippine Trade Act of 1946".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 "Puerto Rico" substituted in text for "Porto Rico" pursuant to act May 17, 1932, which is classified to section 731a of this title.
@@ -33,6 +37,8 @@ Amendment by act Aug. 1, 1955, effective Jan. 1, 1956, see section 301(b) of act
 #### Effective Date of 1946 Amendment
 
 Amendment by act Apr. 30, 1946, effective on day after date of its enactment, Apr. 30, 1946, see section 512 of act Apr. 30, 1946, set out as an Effective Date note under section 1354 of Title 22, Foreign Relations and Intercourse.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 9909. Exempting District Court of the United States for Puerto Rico and the Department of Justice From Making Reports Required by This Section
 

@@ -66,7 +66,7 @@ In carrying out subsection (b), the Secretary shall ensure that—
 
 #### (2) Limitation on liability
 
-&emsp;No cause of action shall lie in any court against a private entity for assistance provided to the Secretary in accordance with thissection and any contract or agreement entered into pursuant to subsection (c)(2).
+&emsp;No cause of action shall lie in any court against a private entity for assistance provided to the Secretary in accordance with this section and any contract or agreement entered into pursuant to subsection (c)(2).
 
 #### (3) Rule of construction
 
@@ -95,6 +95,10 @@ Section was formerly classified to section 151 of this title prior to renumberin
 Subsec. (a)(4). Pub. L. 115–278, §2(g)(9)(A)(vii)(II), substituted "section 659 of this title" for "section 148 of this title".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Competition Relating to Cybersecurity Vulnerabilities
+
+Pub. L. 117–81, div. A, title XV, §1544, Dec. 27, 2021, 135 Stat. 2057, provided that: "The Under Secretary for Science and Technology of the Department of Homeland Security, in consultation with the Director of the Cybersecurity and Infrastructure Security Agency of the Department, may establish an incentive-based program that allows industry, individuals, academia, and others to compete in identifying remediation solutions for cybersecurity vulnerabilities (as such term is defined in section 2209 of the Homeland Security Act of 2002 \[6 U.S.C. 659\]) to information systems (as such term is defined in such section 2209) and industrial control systems, including supervisory control and data acquisition systems."
 
 #### Department of Homeland Security Disclosure of Security Vulnerabilities
 
@@ -180,7 +184,7 @@ Definitions.—In this section:
 
 &emsp;"(2) The term 'information system' has the meaning given that term by section 3502 of title 44, United States Code.
 
-&emsp;"(3) The term 'appropriate information system' means an information system that the Secretary of Homeland Security selects for inclusion under thevulnerability disclosure policy required by subsection (a).
+&emsp;"(3) The term 'appropriate information system' means an information system that the Secretary of Homeland Security selects for inclusion under the vulnerability disclosure policy required by subsection (a).
 
 &emsp;"(4) The term 'appropriate congressional committees' means—
 
@@ -208,7 +212,7 @@ Definitions.—In this section:
 
 &emsp;"(2) The term 'bug bounty program' means a program under which—
 
-&emsp;&emsp;"(A) individuals, organizations, and companies are temporarily authorized to identify and report vulnerabilities of appropriate information systems of the Department; and
+&emsp;&emsp;"(A) individuals, organizations, and companies are temporarily authorized to identify and reportvulnerabilities of appropriate information systems of the Department; and
 
 &emsp;&emsp;"(B) eligible individuals, organizations, and companies receive compensation in exchange for such reports.
 

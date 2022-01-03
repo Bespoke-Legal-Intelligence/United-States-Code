@@ -20,23 +20,24 @@
 | \[232. | Repealed.\] |
 | [233\.](%C2%A7%2000233%20-%20Operation%20and%20maintenance%20budget%20presentation.md) | Operation and maintenance budget presentation. |
 | [234\.](%C2%A7%2000234%20-%20POW-MIA%20activities%20display%20of%20budget%20information.md) | POW/MIA activities: display of budget information. |
-| [235\.](%C2%A7%2000235%20-%20Procurement%20of%20contract%20services%20specification%20of%20amounts%20requested%20in%20budget.md) | Procurement of contract services: specification of amounts requested in budget. |
+| \[235. | Repealed.\] |
 | [236\.](%C2%A7%2000236%20-%20Personal%20protection%20equipment%20procurement%20display%20of%20budget%20information.md) | Personal protection equipment procurement: display of budget information. |
 | [237\.](%C2%A7%2000237%20-%20Embedded%20mental%20health%20providers%20of%20the%20reserve%20components%20display%20of%20budget%20information.md) | Embedded mental health providers of the reserve components: display of budget information. |
 | [238\.](%C2%A7%2000238%20-%20Cyber%20mission%20forces%20program%20elements.md) | Cyber mission forces: program elements. |
 | [239\.](%C2%A7%2000239%20-%20National%20security%20space%20programs%20major%20force%20program%20and%20budget%20assessment.md) | National security space programs: major force program and budget assessment. |
 | [239a.](%C2%A7%2000239a%20-%20Missile%20defense%20and%20defeat%20programs%20major%20force%20program%20and%20budget%20assessment.md) | Missile defense and defeat programs: major force program and budget assessment. |
 | [239b.](%C2%A7%2000239b%20-%20Certain%20intelligence-related%20programs%20budget%20justification%20materials.md) | Certain intelligence-related programs: budget justification materials. |
+| [239c.](%C2%A7%2000239c%20-%20Certain%20multiyear%20contracts%20for%20acquisition%20of%20property%20budget%20justification%20materials.md) | Certain multiyear contracts for acquisition of property: budget justification materials. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Amendment of Analysis
-
-<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1809(h)(2), Jan. 1, 2021, 134 Stat. 4151, 4162, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this analysis is amended by striking item 235. See 2021 Amendment note below.</i>
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
-<b>2021</b>—Pub. L. 116–283, div. A, title I, §151(b), title XVIII, §1809(h)(2), Jan. 1, 2021, 134 Stat. 3440, 4162, added item 231a and struck out item 235 "Procurement of contract services: specification of amounts requested in budget".
+<b>2021</b>—Pub. L. 117–81, div. A, title VIII, §811(b), Dec. 27, 2021, 135 Stat. 1823, added item 239c.
+
+Pub. L. 116–283, div. A, title I, §151(b), title XVIII, §1809(h)(2), Jan. 1, 2021, 134 Stat. 3440, 4162, added item 231a and struck out item 235 "Procurement of contract services: specification of amounts requested in budget".
 
 <b>2019</b>—Pub. L. 116–92, div. A, title X, §1007(b), Dec. 20, 2019, 133 Stat. 1575, added item 226.
 
@@ -112,10 +113,11 @@ Pub. L. 111–383, div. A, title X, §1023(b), Jan. 7, 2011, 124 Stat. 4350, add
 - [&sect; 00232 - Repealed. Pub. L. 112&#8211;239, div. A, title X, &sect;1081(1)(A), Jan. 2, 2013, 126 Stat. 1960](%C2%A7%2000232%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93239%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71081%281%29%28A%29%2C%20Jan.%202%2C%202013%2C%20126%20Stat.%201960.md)
 - [&sect; 00233 - Operation and maintenance budget presentation](%C2%A7%2000233%20-%20Operation%20and%20maintenance%20budget%20presentation.md)
 - [&sect; 00234 - POW-MIA activities display of budget information](%C2%A7%2000234%20-%20POW-MIA%20activities%20display%20of%20budget%20information.md)
-- [&sect; 00235 - Procurement of contract services specification of amounts requested in budget](%C2%A7%2000235%20-%20Procurement%20of%20contract%20services%20specification%20of%20amounts%20requested%20in%20budget.md)
+- [&sect; 00235 - Repealed. Pub. L. 117&#8211;81, div. A, title VIII, &sect;815(b)(1), Dec. 27, 2021, 135 Stat. 1825](%C2%A7%2000235%20-%20Repealed.%20Pub.%20L.%20117%E2%80%9381%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7815%28b%29%281%29%2C%20Dec.%2027%2C%202021%2C%20135%20Stat.%201825.md)
 - [&sect; 00236 - Personal protection equipment procurement display of budget information](%C2%A7%2000236%20-%20Personal%20protection%20equipment%20procurement%20display%20of%20budget%20information.md)
 - [&sect; 00237 - Embedded mental health providers of the reserve components display of budget information](%C2%A7%2000237%20-%20Embedded%20mental%20health%20providers%20of%20the%20reserve%20components%20display%20of%20budget%20information.md)
 - [&sect; 00238 - Cyber mission forces program elements](%C2%A7%2000238%20-%20Cyber%20mission%20forces%20program%20elements.md)
 - [&sect; 00239 - National security space programs major force program and budget assessment](%C2%A7%2000239%20-%20National%20security%20space%20programs%20major%20force%20program%20and%20budget%20assessment.md)
 - [&sect; 00239a - Missile defense and defeat programs major force program and budget assessment](%C2%A7%2000239a%20-%20Missile%20defense%20and%20defeat%20programs%20major%20force%20program%20and%20budget%20assessment.md)
 - [&sect; 00239b - Certain intelligence-related programs budget justification materials](%C2%A7%2000239b%20-%20Certain%20intelligence-related%20programs%20budget%20justification%20materials.md)
+- [&sect; 00239c - Certain multiyear contracts for acquisition of property budget justification materials](%C2%A7%2000239c%20-%20Certain%20multiyear%20contracts%20for%20acquisition%20of%20property%20budget%20justification%20materials.md)

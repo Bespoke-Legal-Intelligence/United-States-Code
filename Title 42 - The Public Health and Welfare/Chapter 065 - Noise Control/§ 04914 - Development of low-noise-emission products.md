@@ -24,7 +24,7 @@ For the purpose of this section:
 
 &emsp;(C) which he determines is suitable for use as a substitute for a type of product at that time in use by agencies of the Federal Government.
 
-(3) The Administrator may establish a Low-Noise-Emission Product Advisory Committee to assist him in determining which products qualify as low-noise-emission products for purposes of this section. The Committee shall include the Administrator or his designee, a representative of the National Institute of Standards and Technology, and representatives of such other Federal agencies and private individuals as the Administrator may deem necessary from time to time. Any member of the Committee not employed on a full-time basis by the United States may receive the daily equivalent of the annual rate of basic pay in effect for Grade GS–18 of the General Schedule for each day such member is engaged upon work of the Committee. Each member of the Committee shall be reimbursed for travel expenses, including per diem in lieu of subsistence as authorized by section 5703 of title 5 for persons in the Government service employed intermittently.
+(3) The Administrator may establish a Low-Noise-Emission Product Advisory Committee to assist him in determining which products qualify as low-noise-emission products for purposes of this section. The Committee shall include the Administrator or his designee, a representative of the National Institute of Standards and Technology, and representatives of such other Federal agencies and private individuals as the Administrator may deem necessary from time to time. Any member of the Committee not employed on a full-time basis by the United States may receive the daily equivalent of the annual rate of basic pay in effect for Grade GS–18 of the General Schedule for each day such member isengaged upon work of the Committee. Each member of the Committee shall be reimbursed for travel expenses, including per diem in lieu of subsistence as authorized by section 5703 of title 5 for persons in the Government service employed intermittently.
 
 (4) Certification under this section shall be effective for a period of one year from the date of issuance.
 
@@ -70,15 +70,19 @@ The Administrator shall promulgate the procedures required to implement this sec
 
 (Pub. L. 92–574, §15, Oct. 27, 1972, 86 Stat. 1245; Pub. L. 94–301, §1, May 31, 1976, 90 Stat. 590; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Subsec. (b)(3). Pub. L. 100–418 substituted "National Institute of Standards and Technology" for "National Bureau of Standards".
 
 <b>1976</b>—Subsec. (g). Pub. L. 94–301 inserted authorization of appropriations for fiscal year ending June 30, 1976, the transition period, and fiscal year ending September 30, 1977.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. A committee established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of its establishment unless in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the end of such period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer ofthe Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. A committee established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of its establishment unless in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the end of such period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

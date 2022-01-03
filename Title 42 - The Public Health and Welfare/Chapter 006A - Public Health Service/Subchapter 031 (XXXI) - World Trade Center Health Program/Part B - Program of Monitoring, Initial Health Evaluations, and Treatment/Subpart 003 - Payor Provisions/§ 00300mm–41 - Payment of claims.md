@@ -90,7 +90,7 @@ Except as provided in subsections (b) and (c), the cost of monitoring and treatm
 
 #### (3) Rule of construction
 
-&emsp;Nothing in this subsection shall be construed as authorizing the WTC Administrator, with respect to a fiscal year, to reduce the numerical limitation under section 300mm–21(a)(4) or 300mm–31(a)(3) of this title for such fiscal year if New York City fails to comply with paragraph (1) for a calendar quarter in such fiscal year.
+&emsp;Nothing in this subsection shall be construed as authorizing the WTC Administrator, with respect to a fiscal year, to reduce the numerical limitation under section 300mm–21(a)(4) or 300mm–31(a)(3) of this title for such fiscal year if New York City fails tocomply with paragraph (1) for a calendar quarter in such fiscal year.
 
 #### (e) Work-related described
 
@@ -101,6 +101,8 @@ For the purposes of this section, a WTC-related health condition shall be treate
 &emsp;(2) with respect to the condition the individual has filed and had established a claim under a workers' compensation law or plan of the United States or a State, or other work-related injury or illness benefit plan of the employer of such individual.
 
 (July 1, 1944, ch. 373, title XXXIII, §3331, as added Pub. L. 111–347, title I, §101, Jan. 2, 2011, 124 Stat. 3653; amended Pub. L. 114–113, div. O, title III, §302(g), Dec. 18, 2015, 129 Stat. 3000.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

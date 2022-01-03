@@ -18,7 +18,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary may carry out projects identified under a watershed assessment undersubsection (a) in accordance with the criteria for projects carried out under one of the following authorities:
+&emsp;The Secretary may carry out projects identified under a watershed assessment under subsection (a) in accordance with the criteria for projects carried out under one of the following authorities:
 
 &emsp;&emsp;(A) Section 205 of the Flood Control Act of 1948 (33 U.S.C. 701s).
 

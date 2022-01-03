@@ -24,7 +24,7 @@ In general.—The Secretary of the Treasury may, by regulation or order, require
 
 &emsp;&emsp;(A) to request any financial institution or nonfinancial trade or business (other than a depository institution) which engages in any reportable transaction with the depository institution to provide the depository institution with a copy of any report filed by the financial institution or nonfinancial trade or business under this subtitle with respect to any prior transaction (between such financial institution or nonfinancial trade or business and any other person) which involved any portion of the funds which are involved in the reportable transaction with the depository institution; and
 
-&emsp;&emsp;(B) if no copy of any report described in subparagraph (A) is received by the depository institution in connection with any reportable transaction to which such subparagraph applies, to submit (in addition to any report required under this subtitle with respect to the reportable transaction) a written notice to the Secretary that the financial institution or nonfinancial trade orbusiness failed to provide any copy of such report.
+&emsp;&emsp;(B) if no copy of any report described in subparagraph (A) is received by the depository institution in connection with any reportable transaction to which such subparagraph applies, to submit (in addition to any report required under this subtitle with respect to the reportable transaction) a written notice to the Secretary that the financial institution or nonfinancial trade or business failed to provide any copy of such report.
 
 &emsp;(2)
 

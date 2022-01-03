@@ -35,6 +35,8 @@ Subpart D—Business Related Credits
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Pub. L. 116–94, div. O, title I, §105(c), Dec. 20, 2019, 133 Stat. 3148, added item 45T.

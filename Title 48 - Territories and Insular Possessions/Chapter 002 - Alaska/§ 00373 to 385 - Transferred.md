@@ -1,5 +1,7 @@
 ### §§373 to 385. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 373, acts July 8, 1916, ch. 228, §1, 39 Stat. 352; June 28, 1918, ch. 110, 40 Stat. 632, which set a limit on the amount of homestead entries, was transferred to section 270–8 of Title 43, Public Lands, and was subsequently repealed by Pub. L. 94–579, §703(a), Oct. 21, 1976, 90 Stat. 2789.
@@ -10,7 +12,7 @@ Section 375, act July 8, 1916, ch. 228, §2, as added June 28, 1918, ch. 110, 40
 
 Section 376, acts Mar. 8, 1922, ch. 96, §1, 42 Stat. 415; Aug. 23, 1958, Pub. L. 85–725, §1, 72 Stat. 730, which covered claims on land containing coal, oil, and gas, was transferred to section 270–11 of Title 43, and was subsequently repealed by Pub. L. 94–579, title VII, §703(a), Oct. 21, 1976, 90 Stat. 2789.
 
-Section 377, acts Mar. 8, 1922, ch. 96, §2, 42 Stat. 416; Aug. 23, 1958, Pub. L. 85–725, §2, 72 Stat. 730, which called for the inclusion, in the patent for lands containing coal, oil, and gas, of a reservation to the United States of such minerals together with the right to prospect for, mine, and remove the same, was transferred to section 270–12 of Title 43.
+Section 377, acts Mar. 8, 1922, ch. 96, §2, 42 Stat. 416; Aug. 23, 1958, Pub. L. 85–725, §2, 72 Stat. 730, whichcalled for the inclusion, in the patent for lands containing coal, oil, and gas, of a reservation to the United States of such minerals together with the right to prospect for, mine, and remove the same, was transferred to section 270–12 of Title 43.
 
 Section 377a, act Mar. 8, 1922, ch. 96, §3, as added Aug. 17, 1961, Pub. L. 87–147, 75 Stat. 384; amended Oct. 3, 1962, Pub. L. 87–742, 76 Stat. 740, which allowed the Secretary of the Interior to make disposition of lands known to contain coal, oil, or gas, was transferred to section 270–13 of Title 43, and was subsequently repealed by Pub. L. 94–579, §703(a), Oct. 21, 1976, 90 Stat. 2789.
 

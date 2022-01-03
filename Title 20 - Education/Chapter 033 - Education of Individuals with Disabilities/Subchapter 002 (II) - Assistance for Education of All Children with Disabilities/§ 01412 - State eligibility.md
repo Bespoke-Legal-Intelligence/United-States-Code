@@ -68,7 +68,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (B) Additional procedural safeguards
 
-&emsp;&emsp;Procedures to ensure that testing and evaluation materials and procedures utilizedfor the purposes of evaluation and placement of children with disabilities for services under this chapter will be selected and administered so as not to be racially or culturally discriminatory. Such materials or procedures shall be provided and administered in the child's native language or mode of communication, unless it clearly is not feasible to do so, and no single procedure shall be the sole criterion for determining an appropriate educational program for a child.
+&emsp;&emsp;Procedures to ensure that testing and evaluation materials and procedures utilized for the purposes of evaluation and placement of children with disabilities for services under this chapter will be selected and administered so as not to be racially or culturally discriminatory. Such materials or procedures shall be provided and administered in the child's native language or mode of communication, unless it clearly is not feasible to do so, and no single procedure shall be the sole criterion for determining an appropriate educational program for a child.
 
 #### (7) Evaluation
 
@@ -166,7 +166,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (vii) Public control of funds
 
-&emsp;&emsp;&emsp;The control of funds used to provide special education and related services under this subparagraph, and title to materials, equipment, and property purchased with those funds, shall be in a public agency for the uses and purposes provided in this chapter, and a public agency shall administer the funds and property.
+&emsp;&emsp;&emsp;The control of funds used to provide special education and related services under this subparagraph, and title to materials,equipment, and property purchased with those funds, shall be in a public agency for the uses and purposes provided in this chapter, and a public agency shall administer the funds and property.
 
 #### (B) Children placed in, or referred to, private schools by public agencies
 
@@ -248,7 +248,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (A) Establishing responsibility for services
 
-&emsp;&emsp;The Chief Executive Officer of a State or designee of the officer shall ensure that aninteragency agreement or other mechanism for interagency coordination is in effect between each public agency described in subparagraph (B) and the State educational agency, in order to ensure that all services described in subparagraph (B)(i) that are needed to ensure a free appropriate public education are provided, including the provision of such services during the pendency of any dispute under clause (iii). Such agreement or mechanism shall include the following:
+&emsp;&emsp;The Chief Executive Officer of a State or designee of the officer shall ensure that an interagency agreement or other mechanism for interagency coordination is in effect between each public agency described in subparagraph (B) and the State educational agency, in order to ensure that all services described in subparagraph (B)(i) that are needed to ensure a free appropriate public education are provided, including the provision of such services during the pendency of any dispute under clause (iii). Such agreement or mechanism shall include the following:
 
 #### (i) Agency financial responsibility
 
@@ -346,7 +346,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (A) In general
 
-&emsp;&emsp;All children with disabilities are included in all general State and districtwide assessment programs, including assessments described under section 6311 of this title, with appropriate accommodations and alternate assessments where necessary and as indicated in their respective individualized education programs.
+&emsp;&emsp;All children with disabilities are included in all general State and districtwide assessment programs, including assessments described under section 6311 of this title, with appropriate accommodations and alternateassessments where necessary and as indicated in their respective individualized education programs.
 
 #### (B) Accommodation guidelines
 
@@ -414,7 +414,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 &emsp;&emsp;The Secretary may waive the requirement of subparagraph (A) for a State, for 1 fiscal year at a time, if the Secretary determines that—
 
-&emsp;&emsp;&emsp;(i) granting a waiver would be equitable due to exceptional or uncontrollable circumstances such as a natural disaster or a precipitous and unforeseen decline in the financial resources of the State; or
+&emsp;&emsp;&emsp;(i) granting a waiver would be equitable due to exceptional or uncontrollable circumstances such as a natural disaster or aprecipitous and unforeseen decline in the financial resources of the State; or
 
 &emsp;&emsp;&emsp;(ii) the State meets the standard in paragraph (17)(C) for a waiver of the requirement to supplement, and not to supplant, funds received under this subchapter.
 
@@ -508,7 +508,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 &emsp;&emsp;If a State educational agency chooses to coordinate with the National Instructional Materials Access Center, not later than 2 years after December 3, 2004, the agency, as part of any print instructional materials adoption process, procurement contract, or other practice or instrument used for purchase of print instructional materials, shall enter into a written contract with the publisher of the print instructional materials to—
 
-&emsp;&emsp;&emsp;(i) require the publisher to prepare and, on or before delivery of the print instructional materials, provide to the National Instructional Materials Access Center electronic files containing the contents ofthe print instructional materials using the National Instructional Materials Accessibility Standard; or
+&emsp;&emsp;&emsp;(i) require the publisher to prepare and, on or before delivery of the print instructional materials, provide to the National Instructional Materials Access Center electronic files containing the contents of the print instructional materials using the National Instructional Materials Accessibility Standard; or
 
 &emsp;&emsp;&emsp;(ii) purchase instructional materials from the publisher that are produced in, or may be rendered in, specialized formats.
 
@@ -566,7 +566,7 @@ If the State educational agency provides free appropriate public education to ch
 
 #### (3) Modifications required by the Secretary
 
-&emsp;If, after the effective date of the Individuals with Disabilities Education Improvement Act of 2004, the provisions of this chapter are amended (or the regulations developed to carry out this chapter are amended), there is a new interpretation of this chapter by a Federal court or a State's highest court, or there is an official finding of noncompliance with Federal law or regulations, then the Secretary may require a State to modify its application only to the extent necessary to ensure the State's compliance with this subchapter.
+&emsp;If, after the effective date of the Individuals with Disabilities Education Improvement Actof 2004, the provisions of this chapter are amended (or the regulations developed to carry out this chapter are amended), there is a new interpretation of this chapter by a Federal court or a State's highest court, or there is an official finding of noncompliance with Federal law or regulations, then the Secretary may require a State to modify its application only to the extent necessary to ensure the State's compliance with this subchapter.
 
 #### (d) Approval by the Secretary
 
@@ -630,6 +630,8 @@ Nothing in this chapter permits a State to reduce medical and other assistance a
 
 (Pub. L. 91–230, title VI, §612, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2676; amended Pub. L. 114–95, title IX, §§9214(d)(2), 9215(ss)(3), Dec. 10, 2015, 129 Stat. 2164, 2182.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The McKinney-Vento Homeless Assistance Act, referred to in subsec. (a)(11)(A)(iii), (21)(B)(v), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended. Subtitle B of title VII of the Act is classified generally to part B (§11431 et seq.) of subchapter VI of chapter 119 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
@@ -661,6 +663,8 @@ Subsec. (a)(15)(B). Pub. L. 114–95, §9215(ss)(3)(A)(ii), which directed subst
 Subsec. (a)(16)(C)(ii)(I). Pub. L. 114–95, §9215(ss)(3)(B)(i), substituted "challenging State academic content standards under section 6311(b)(1) of this title and alternate academic achievement standards under section 6311(b)(1)(E) of this title" for "State's challenging academic content standards and challenging student academic achievement standards".
 
 Subsec. (a)(16)(C)(ii)(II). Pub. L. 114–95, §9215(ss)(3)(B)(ii), substituted "section 6311(b)(1)(E) of this title," for "the regulations promulgated to carry out section 6311(b)(1) of this title,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

@@ -22,6 +22,8 @@ Use of Appropriated Funds for Allowance.—Amounts appropriated annually to the 
 
 (Added Pub. L. 101–189, div. A, title III, §336(a)(1), Nov. 29, 1989, 103 Stat. 1419; amended Pub. L. 101–510, div. A, title XIV, §1481(d)(3), Nov. 5, 1990, 104 Stat. 1706; Pub. L. 104–201, div. A, title XVI, §1633(e)(1), Sept. 23, 1996, 110 Stat. 2752; Pub. L. 110–181, div. A, title XI, §1113, Jan. 28, 2008, 122 Stat. 360.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in subsec. (d) of this section were contained in Pub. L. 101–165, title IX, §9010, Nov. 21, 1989, 103 Stat. 1131, which was set out as a note below, prior to repeal by Pub. L. 101–510, §1481(d)(4)(B).
@@ -34,6 +36,8 @@ Provisions similar to those in subsec. (d) of this section were contained in Pub
 
 <b>1990</b>—Subsec. (d). Pub. L. 101–510 added subsec. (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1996 Amendment
 
 Pub. L. 104–201, div. A, title XVI, §1635, Sept. 23, 1996, 110 Stat. 2752, provided that: "This subtitle \[subtitle B (§§1631–1635) of title XVI of div. A of Pub. L. 104–201, enacting sections 1601 to 1603, 1606 to 1610, and 1612 to 1614 of this title, amending this section, sections 1596, 1605, 1611, and 1621 of this title, and sections 7103 and 7511 of Title 5, Government Organization and Employees, renumbering sections 1599, 1602, 1606, and 1608 of this title as sections 1611, 1621, 1622, and 1623 of this title, respectively, repealing sections 1590, 1601, 1603, and 1604 of this title and section 833 of Title 50, War and National Defense, enacting provisions set out as a note under section 1601 of this title, and repealing provisions formerly set out in a National Security Agency Act of 1959 note under section 402 of Title 50\] and the amendments made by this subtitle shall take effect on October 1, 1996."
@@ -44,5 +48,5 @@ Pub. L. 101–189, div. A, title III, §336(c), Nov. 29, 1989, 103 Stat. 1419, p
 
 #### Availability of Funds for Pay of Civilian Employees for Uniforms
 
-Pub. L. 101–165, title IX, §9010, Nov. 21, 1989, 103 Stat. 1131, which made appropriations available to Department of Defense for pay of civilian employees for uniforms, or allowances therefor, as authorized by section5901 of title 5, was repealed and restated in subsec. (d) of this section by Pub. L. 101–510, §1481(d)(3), (4)(B).
+Pub. L. 101–165, title IX, §9010, Nov. 21, 1989, 103 Stat. 1131, which made appropriations available to Department of Defense for pay of civilian employees for uniforms, or allowances therefor, as authorized by section 5901 of title 5, was repealed and restated in subsec. (d) of this section by Pub. L. 101–510, §1481(d)(3), (4)(B).
 

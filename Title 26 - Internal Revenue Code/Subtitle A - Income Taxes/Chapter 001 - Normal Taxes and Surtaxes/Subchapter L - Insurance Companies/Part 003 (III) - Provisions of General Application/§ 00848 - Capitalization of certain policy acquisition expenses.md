@@ -16,7 +16,7 @@ In the case of an insurance company—
 
 #### (2) Phase-out
 
-&emsp;If the specified policy acquisition expenses of an insurance company exceed $10,000,000 for any taxable year, the $5,000,000 amount under paragraph (1) shall be reduced (but not below zero) by the amount of such excess.
+&emsp;If the specified policy acquisition expenses of an insurance company exceed $10,000,000 forany taxable year, the $5,000,000 amount under paragraph (1) shall be reduced (but not below zero) by the amount of such excess.
 
 #### (3) Special rule for members of controlled group
 
@@ -66,7 +66,7 @@ For purposes of this section—
 
 #### (2) Amounts determined on accrual basis
 
-&emsp;In the case of an insurance company subject to tax under part II of this subchapter, allcomputations entering into determinations of net premiums for any taxable year shall be made in the manner required under section 811(a) for life insurance companies.
+&emsp;In the case of an insurance company subject to tax under part II of this subchapter, all computations entering into determinations of net premiums for any taxable year shall be made in the manner required under section 811(a) for life insurance companies.
 
 #### (3) Treatment of certain policyholder dividends and similar amounts
 
@@ -158,13 +158,15 @@ Nothing in any provision of law (other than this section or section 197) shall r
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the Secretary may provide that a type of insurancecontract will be treated as a separate category for purposes of this section (and prescribe a percentage applicable to such category) if the Secretary determines that the deferral of acquisition expenses for such type of contract which would otherwise result under this section is substantially greater than the deferral of acquisition expenses which would have resulted if actual acquisition expenses (including indirect expenses) and the actual useful life for such type of contract had been used.
+&emsp;Except as provided in paragraph (2), the Secretary may provide that a type of insurance contract will be treated as a separate category for purposes of this section (and prescribe a percentage applicable to such category) if the Secretary determines that the deferral of acquisition expenses for such type of contract which would otherwise result under this section is substantially greater than the deferral of acquisition expenses which would have resulted if actual acquisition expenses (including indirect expenses) and the actual useful life for such type of contract had been used.
 
 #### (2) Adjustment to other contracts
 
 &emsp;If the Secretary exercises his authority with respect to any type of contract under paragraph (1), the Secretary shall adjust the percentage which would otherwise have applied under subsection (c)(1) to the category which includes such type of contract so that the exercise of such authority does not result in a decrease in the amount of revenue received under this chapter by reason of this section for any fiscal year.
 
 (Added Pub. L. 101–508, title XI, §11301(a), Nov. 5, 1990, 104 Stat. 1388–445; amended Pub. L. 103–66, title XIII, §13261(d), Aug. 10, 1993, 107 Stat. 539; Pub. L. 104–191, title III, §301(h), Aug. 21, 1996, 110 Stat. 2052; Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(5), (b)(10)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, 2763A–629; Pub. L. 108–173, title XII, §1201(h), Dec. 8, 2003, 117 Stat. 2479; Pub. L. 109–280, title VIII, §844(e), Aug. 17, 2006, 120 Stat. 1013; Pub. L. 113–295, div. A, title II, §221(a)(70), Dec. 19, 2014, 128 Stat. 4048; Pub. L. 115–97, title I, §§12001(b)(8)(C), 13517(b)(4), 13519(a), (b), Dec. 22, 2017, 131 Stat. 2093, 2147, 2148.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -195,6 +197,8 @@ Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(5)\], substituted "Archer MSA"
 <b>1996</b>—Subsec. (e)(1)(B)(iv). Pub. L. 104–191 added cl. (iv).
 
 <b>1993</b>—Subsec. (g). Pub. L. 103–66 substituted "this section or section 197" for "this section".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 

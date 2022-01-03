@@ -20,7 +20,7 @@
 
 &emsp;(9) A person covered by section 1475 or 1476 of this title who incurred a disability while on active duty or inactive duty training and who became entitled to basic pay while receiving hospital or medical care, including out-patient care, for that disability, is considered to have been on active duty or inactive duty training, as the case may be, for as long as he is entitled to that pay.
 
-(b) A person who is discharged, or released from active duty (other than for training), isconsidered to continue on that duty during the period following the date of his discharge or release that, as determined by the Secretary concerned, is necessary for that person to go to his home by the most direct route. That period may not end before midnight of the day on which the member is discharged or released.
+(b) A person who is discharged, or released from active duty (other than for training), is considered to continue on that duty during the period following the date of his discharge or release that, as determined by the Secretary concerned, is necessary for that person to go to his home by the most direct route. That period may not end before midnight of the day on which the member is discharged or released.
 
 \[(c) Repealed. Pub. L. 109–163, div. A, title VI, §664(a)(2)(B), Jan. 6, 2006, 119 Stat. 3316.\]
 
@@ -65,6 +65,8 @@ Aug. 1, 1956, ch. 837, §§102(6)(B) (last 32 words of 1st sentence, as applicab
 In subsection (a), the word "pay" is substituted for the words "basic pay (plus special and incentive pays)", since the word "pay", as defined in section 101(27) of this title, includes those types of pay. Clause (1) is inserted to reflect section 1475(a)(1) of this title. Clauses (2) and (3) are substituted for 38:1101(6)(B) (last 32 words of 1st sentence). Clause 4 is substituted for 38:1101(10)(B). The words "to the pay prescribed by section 4385(c) or 9385(c) of this title" are inserted to reflect those sections, which prescribe the training pay of members of reserve officers' training corps units. Clause (5) is substituted for 38:1101(11)(E) (last 27 words). Clause (6) is substituted for 38:1133(d). In clause (6), the word "pay" is substituted for the words "basic pay (plus special and incentive pays)", since the word "pay", as defined in section 101(27) of this title, includes those kinds of pay. Clauses (7) and (8) are substituted for 38:1134(c). In those clauses, the words "active duty for training" are omitted as covered by the definition of "active duty" in section 101(22) of this title. In clause (8), the words "and who became entitled to basic pay" are substituted for the words "and is placed in a pay status" and the words "is entitled to that pay" are substituted for the words "remains in a pay status".
 
 In subsection (b), the words "on or after January 1, 1957" are omitted as executed. The words "(other than for training)" are inserted, since the words "active duty" in the source statute did not include active duty for training. The words "is considered to continue on that duty" are substituted for the words "shall be deemed to continue on active duty". The last sentence is substituted for 38:1101(12) (last 14 words).
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -152,6 +154,8 @@ Subsec. (c). Pub. L. 108–375, §643(b)(2), added subsec. (c).
 
 <b>1964</b>—Subsec. (a)(4). Pub. L. 88–647 substituted "the first sentence of section 209(c) of title 37, United States Code" for "section 4385(c) or 9385(c) of this title", and provided that a person covered by section 1475(a)(4) of this title who dies in field training or on a practice cruise, or in travel to or from such training or cruise, is considered entitled on the day of his death to the pay prescribed by the second sentence of section 209(c) of Title 37.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2011 Amendment
 
 Amendment by Pub. L. 112–81 effective on Dec. 31, 2011, and applicable with respect to deaths that occur on or after that date, see section 651(c) of Pub. L. 112–81, set out as a note under section 1475 of this title.
@@ -178,7 +182,7 @@ Termination.—
 
 &emsp;"(1)
 
-In general.—This section \[amending this section\] and the amendment made by this subsection\[probably means this section\] shall terminate on September 30, 2005. Effective as of October 1, 2005, the provisions of section 1478 of title 10, United States Code, as in effect on the date before the date of the enactment of this Act \[May 11, 2005\] shall be revived.
+In general.—This section \[amending this section\] and the amendment made by this subsection \[probably means this section\] shall terminate on September 30, 2005. Effective as of October 1, 2005, the provisions of section 1478 of title 10, United States Code, as in effect on the date before the date of the enactment of this Act \[May 11, 2005\] shall be revived.
 
 &emsp;"(2)
 

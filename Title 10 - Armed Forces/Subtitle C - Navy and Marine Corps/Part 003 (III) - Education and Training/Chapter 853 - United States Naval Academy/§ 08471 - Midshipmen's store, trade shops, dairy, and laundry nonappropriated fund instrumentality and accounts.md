@@ -58,6 +58,8 @@ In subsection (a) the second listing of the activities is omitted for brevity.
 
 In subsection (b) the words "including midshipmen" are omitted as surplusage. The words "are available for the maintenance of" are substituted for the words "are appropriated for the purpose of providing and maintaining".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 6971 of this title as this section.
@@ -69,6 +71,8 @@ In subsection (b) the words "including midshipmen" are omitted as surplusage. Th
 <b>1994</b>—Pub. L. 103–337 struck out "(a)" before "Funds collected from the operation of the midshipmen's", substituted "the Academy dairy, and the Academy laundry" for "and the Academy dairy", and struck out subsec. (b) which read as follows: "Funds collected from the operation of the Academy laundry shall be accounted for as public funds and are available for the maintenance of necessary laundry service for Academy activities and personnel."
 
 <b>1966</b>—Subsec. (a). Pub. L. 89–718 substituted "person designated by the Secretary of the Navy under section 6970(b) of this title" for "Bureau of Supplies and Accounts".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

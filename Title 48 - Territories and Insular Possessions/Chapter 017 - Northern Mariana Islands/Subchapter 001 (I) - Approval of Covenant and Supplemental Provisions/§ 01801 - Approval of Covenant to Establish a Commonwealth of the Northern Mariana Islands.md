@@ -4,6 +4,8 @@ The Covenant to Establish a Commonwealth of the Northern Mariana Islands in Poli
 
 (Pub. L. 94–241, §1, Mar. 24, 1976, 90 Stat. 263.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America, referred to in text, which was contained in this section (section 1 of Pub. L. 94–241), is set out as a note below.
@@ -12,9 +14,11 @@ The Covenant to Establish a Commonwealth of the Northern Mariana Islands in Poli
 
 Section was formerly set out as a note under section 1681 of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title of 2019 Amendment
 
-Pub. L. 116–94, div. P, title IX, §901, Dec. 20, 2019, 133 Stat. 3197, provided that: "This title \[amending section1806 of this title\] may be cited as the 'Disaster Recovery Workforce Act'."
+Pub. L. 116–94, div. P, title IX, §901, Dec. 20, 2019, 133 Stat. 3197, provided that: "This title \[amending section 1806 of this title\] may be cited as the 'Disaster Recovery Workforce Act'."
 
 Pub. L. 116–24, §1, June 25, 2019, 133 Stat. 977, provided that: "This Act \[amending section 1806 of this title\] may be cited as the 'Northern Mariana Islands Long-Term Legal Residents Relief Act'."
 
@@ -25,10 +29,6 @@ Pub. L. 115–218, §1, July 24, 2018, 132 Stat. 1547, provided that: "This Act 
 #### Short Title of 2017 Amendment
 
 Pub. L. 115–53, §1, Aug. 22, 2017, 131 Stat. 1091, provided that: "This Act \[amending section 1806 of this title\] may be cited as the 'Northern Mariana Islands Economic Expansion Act'."
-
-#### Termination of Trust Territory of the Pacific Islands
-
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of this title.
 
 #### Applicability of Requirement of United States Citizenship or Nationality as Prerequisite of Any Benefit, Right, Etc., to Citizens of Northern Mariana Islands
 
@@ -72,7 +72,7 @@ Pub. L. 94–241, §1, Mar. 24, 1976, 90 Stat. 263, as amended by Pub. L. 98–2
 
 "
 
-Section 101. The Northern Mariana Islands upon termination of the Trusteeship Agreement will become aself-governing commonwealth to be known as the 'Commonwealth of the Northern Mariana Islands', in political union with and under the sovereignty of the United States of America.
+Section 101. The Northern Mariana Islands upon termination of the Trusteeship Agreement will become a self-governing commonwealth to be known as the 'Commonwealth of the Northern Mariana Islands', in political union with and under the sovereignty of the United States of America.
 
 "
 
@@ -154,11 +154,11 @@ Section 401. The United States will establish for and within the Northern Marian
 
 "
 
-Section 402. (a) The District Court for the Northern Mariana Islands will have the jurisdiction of a districtcourt of the United States, except that in all causes arising under the Constitution, treaties or laws of the United States it will have jurisdiction regardless of the sum or value of the matter in controversy.
+Section 402. (a) The District Court for the Northern Mariana Islands will have the jurisdiction of a district court of the United States, except that in all causes arising under the Constitution, treaties or laws of the United States it will have jurisdiction regardless of the sum or value of the matter in controversy.
 
 "(b) The District Court will have original jurisdiction in all causes in the Northern Mariana Islands not described in Subsection (a) jurisdiction over which is not vested by the Constitution or laws of the Northern Mariana Islands in a court or courts of the Northern Mariana Islands. In causes brought in the District Court solely on the basis of this subsection, the District Court will be considered a court of the Northern Mariana Islands for the purposes of determining the requirements of indictment by grand jury or trial by jury.
 
-"(c) The District Court will have such appellate jurisdiction as the Constitution or laws of the Northern Mariana Islands may provide. When it sits as an appellate court, the District Court will consist of three judges, at least one of whom will be a judge of a court of record of the Northern Mariana Islands.
+"(c) The District Court will have such appellate jurisdiction as the Constitution or laws of the NorthernMariana Islands may provide. When it sits as an appellate court, the District Court will consist of three judges, at least one of whom will be a judge of a court of record of the Northern Mariana Islands.
 
 "
 
@@ -270,7 +270,7 @@ Section 607. (a) All bonds or other obligations issued by the Government of the 
 
 "
 
-Section 701. The Government of the United States will assist the Government of the Northern Mariana Islands in its efforts to achieve a progressively higherstandard of living for its people as part of the American economic community and to develop the economic resources needed to meet the financial responsibilities of local self-government. To this end, the United States will provide direct multi-year financial support to the Government of the Northern Mariana Islands for local government operations, for capital improvement programs and for economic development. The initial period of such support will be seven years, as provided in Section 702.
+Section 701. The Government of the United States will assist the Government of the Northern Mariana Islands in its efforts to achieve a progressively higher standard of living for its people as part of the American economic community and to develop the economic resources needed to meet the financial responsibilities of local self-government. To this end, the United States will provide direct multi-year financial support to the Government of the Northern Mariana Islands for local government operations, for capital improvement programs and for economic development. The initial period of such support will be seven years, as provided in Section 702.
 
 "
 
@@ -336,7 +336,7 @@ Section 803. (a) The Government of the Northern Mariana Islands will lease the p
 
 "(d) From the property to be leased to it in accordance with this Covenant the Government of the United States will lease back to the Government of the Northern Mariana Islands, in accordance with the Technical Agreement, for the sum of one dollar per acre per year, approximately 6,458 acres (2,614 hectares) on Tinian Island and approximately 44 acres (18 hectares) at Tanapag Harbor on Saipan Island, which will be used for purposes compatible with their intended military use.
 
-"(e) From the property to be leased to it at Tanapag Harbor on Saipan Island the Government of the United States will make available to the Government of the Northern Mariana Islands 133 acres (54 hectares) at no cost. This property will be set aside for public use as an American memorial park to honor the American and Marianas dead in the World War II Marianas Campaign. The $2 million received from the Government of the United States for the lease of this property will be placed into a trust fund, and used for the development and maintenance of the park in accordance with the Technical Agreement.
+"(e) From the property to be leased to it at Tanapag Harbor on Saipan Island the Government of the United States will make available to the Government of the Northern Mariana Islands 133 acres (54 hectares) at no cost. This property will be set aside for public use as an American memorial park to honor the American and Marianas dead in the World War II Marianas Campaign. The $2 million received from the Government of theUnited States for the lease of this property will be placed into a trust fund, and used for the development and maintenance of the park in accordance with the Technical Agreement.
 
 "
 
@@ -378,7 +378,7 @@ Section 903. Nothing herein shall prevent the presentation of cases or controver
 
 "
 
-Section 904. (a) The Government of the United States will give sympathetic consideration to the viewsof the Government of the Northern Mariana Islands on international matters directly affecting the Northern Mariana Islands and will provide opportunities for the effective presentation of such views to no less extent than such opportunities are provided to any other territory or possession under comparable circumstances.
+Section 904. (a) The Government of the United States will give sympathetic consideration to the views of the Government of the Northern Mariana Islands on international matters directly affecting the Northern Mariana Islands and will provide opportunities for the effective presentation of such views to no less extent than such opportunities are provided to any other territory or possession under comparable circumstances.
 
 "(b) The United States will assist and facilitate the establishment by the Northern Mariana Islands of offices in the United States and abroad to promote local tourism and other economic or cultural interests of the Northern Mariana Islands.
 
@@ -500,6 +500,12 @@ Pedro A. Tenorio."
 
 \[Pub. L. 110–229, title VII, §702(g)(2), May 8, 2008, 122 Stat. 864, provided that: "The amendments made by paragraph (1) \[amending Covenant set out above\] shall take effect on the transition program effective date described in section 6 of Public Law 94–241 \[48 U.S.C. 1806\] (as added by subsection (a))."\]
 
+#### <b>Executive Documents</b>
+
+#### Termination of Trust Territory of the Pacific Islands
+
+For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of this title.
+
 #### Proc. No. 4534. Constitution of Northern Mariana Islands
 
 Proc. No. 4534, Oct. 24, 1977, 42 F.R. 56593, provided:
@@ -552,9 +558,9 @@ On February 15, 1975, after extensive status negotiations, the United States and
 
 On October 1, 1982, the Government of the United States and the Government of the Federated States of Micronesia concluded a Compact of Free Association, establishing a relationship of Free Association between the two Governments \[see Compact of Free Association, 48 U.S.C. 1901 note\]. On June 25, 1983, the Government of the United States and the Government of the Marshall Islands concluded a Compact of Free Association, establishing a relationship of Free Association between the two Governments \[see Compact of Free Association, 48 U.S.C. 1901 note\]. Pursuant to Sections 111 and 121 of the Compacts, the Federated States of Micronesia and the Republic of the Marshall Islands become self-governing and have the right to conduct foreign affairs in their own name and right upon the effective date of their respective Compacts. Each Compact comes into effect upon (1) mutual agreement between the Government of the United States, acting in fulfillment of its responsibilities as Administering Authority of the Trust Territory of the Pacific Islands, and the other Government; (2) the approval of the Compact by the two Governments, in accordance with their constitutional processes; and (3) the conduct of a plebiscite in that jurisdiction. In the Federated States of Micronesia, the Compact has been approved by the Government in accordance with its constitutional processes, and in a United Nations-observed plebiscite on June 21, 1983, a sovereign act of self-determination. In the Marshall Islands, the Compact has been approved by the Government in accordance with its constitutional processes, and in a United Nations-observed plebiscite on September 7, 1983, a sovereign act of self-determination. In the United States the Compacts have been approved by Public Law 99–239 of January 14, 1986, 99 Stat. 1770 \[48 U.S.C. 1901 et seq., 2001 et seq.\].
 
-On January 10, 1986, the Government of the United States and the Government of the Republic of Palau concluded a Compact of Free Association, establishing a similar relationship of Free Association between the two Governments \[48 U.S.C. 1931 note\]. On October 16, 1986, the Congress of the United States approved the Compact of Free Association with the Republic ofPalau. In the Republic of Palau, the Compact approval process has not yet been completed. Until the future political status of Palau is resolved, the United States will continue to discharge its responsibilities in Palau as Administering Authority under the Trusteeship Agreement.
+On January 10, 1986, the Government of the United States and the Government of the Republic of Palau concluded a Compact of Free Association, establishing a similar relationship of Free Association between the two Governments \[48 U.S.C. 1931 note\]. On October 16, 1986, the Congress of the United States approved the Compact of Free Association with the Republic of Palau. In the Republic of Palau, the Compact approval process has not yet been completed. Until the future political status of Palau is resolved, the United States will continue to discharge its responsibilities in Palau as Administering Authority under the Trusteeship Agreement.
 
-On May 28, 1986, the Trusteeship Council of the United Nations concluded that the Government of the United States had satisfactorily discharged its obligations as the Administering Authority under the terms of the Trusteeship Agreement and that the people of the Northern Mariana Islands, the Federated States of Micronesia, and the Republic of the Marshall Islands had freely exercised their right to self-determination, and considered that it was appropriate for that Agreement to be terminated. The Council asked the United States to consult with the governments concerned to agree on a date for entry into force of their respective new status agreements.
+On May 28, 1986, the Trusteeship Council of the United Nations concluded that the Government of the United States had satisfactorily discharged its obligations as the Administering Authority under the terms of the Trusteeship Agreement and that the people of the Northern Mariana Islands, the Federated States ofMicronesia, and the Republic of the Marshall Islands had freely exercised their right to self-determination, and considered that it was appropriate for that Agreement to be terminated. The Council asked the United States to consult with the governments concerned to agree on a date for entry into force of their respective new status agreements.
 
 On October 15, 1986, the Government of the United States and the Government of the Republic of the Marshall Islands agreed, pursuant to Section 411 of the Compact of Free Association, that as between the United States and the Republic of the Marshall Islands, the effective date of the Compact shall be October 21, 1986.
 

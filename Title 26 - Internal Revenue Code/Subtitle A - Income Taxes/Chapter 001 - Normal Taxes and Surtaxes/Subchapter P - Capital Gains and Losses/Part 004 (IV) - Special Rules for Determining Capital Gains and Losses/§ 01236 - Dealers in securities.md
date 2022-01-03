@@ -10,7 +10,7 @@ Gain by a dealer in securities from the sale or exchange of any security shall i
 
 #### (b) Ordinary losses
 
-Loss by a dealer in securities from the sale or exchange of any security shall, except as otherwise provided in section 582(c), (relating to bond, etc., losses of banks), in no event be considered as ordinary loss if at any time the security was clearly identified in the dealer's records as a security held for investment.
+Loss by a dealer in securities from the sale or exchange of any security shall, except as otherwise provided in section 582(c), (relating to bond,etc., losses of banks), in no event be considered as ordinary loss if at any time the security was clearly identified in the dealer's records as a security held for investment.
 
 #### (c) Definition of security
 
@@ -38,9 +38,11 @@ For purposes of this section, the term "security" means any share of stock in an
 
 #### (e) Special rule for options
 
-For purposes of subsection (a), any security acquired by a dealer pursuant to an option heldby such dealer may be treated as held for investment only if the dealer, before the close of the day on which the option was acquired, clearly identified the option on his records as held for investment. For purposes of the preceding sentence, the term "option" includes the right to subscribe to or purchase any security.
+For purposes of subsection (a), any security acquired by a dealer pursuant to an option held by such dealer may be treated as held for investment only if the dealer, before the close of the day on which the option was acquired, clearly identified the option on his records as held for investment. For purposes of the preceding sentence, the term "option" includes the right to subscribe to or purchase any security.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 330; Pub. L. 94–455, title XIX, §1901(b)(3)(E), Oct. 4, 1976, 90 Stat. 1793; Pub. L. 97–34, title V, §506, Aug. 13, 1981, 95 Stat. 332; Pub. L. 97–448, title I, §105(d)(1), Jan. 12, 1983, 96 Stat. 2387; Pub. L. 98–369, div. A, title I, §107(b), July 18, 1984, 98 Stat. 630; Pub. L. 113–295, div. A, title II, §221(a)(83), Dec. 19, 2014, 128 Stat. 4049.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -57,6 +59,8 @@ Subsec. (a)(2). Pub. L. 98–369, §107(b)(2), inserted "(or such earlier time)"
 Subsec. (d). Pub. L. 97–34, §506(b), added subsec. (d).
 
 <b>1976</b>—Subsec. (b). Pub. L. 94–455 substituted "ordinary loss" for "loss from the sale or exchange of property which is not a capital asset".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

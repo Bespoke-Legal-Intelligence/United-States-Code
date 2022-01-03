@@ -102,7 +102,7 @@ Authority to issue regulations.—The Secretary may issue regulations to establi
 
 &emsp;&emsp;&emsp;&emsp;(II)
 
-Terms and conditions in absence of regulations.—If the Secretary does not issue regulations under subclause (I), the terms and conditions relating to the flexible and innovative financing provisions referred to in clause (i) shall be consistent with—
+Terms and conditions in absence of regulations.—If the Secretary doesnot issue regulations under subclause (I), the terms and conditions relating to the flexible and innovative financing provisions referred to in clause (i) shall be consistent with—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) agreements entered into by the Department under—
 
@@ -284,7 +284,7 @@ Burden of proof.—In any hearing or appeal involving a decision to terminate a 
 
 (g)
 
-Cost Principles.—In administering funds received under this section, an Indian tribe shall apply cost principles under the applicable Office of Management and Budget circular, except as modified by section 106 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450j–1),<sup>1</sup> other provisions of law, or by any exemptions to applicable Office of Management and Budget circulars subsequently granted by the Office of Management and Budget. No other audit or accounting standards shall be required by the Secretary. Any claim by the Federal Government against the Indian tribe relating to funds received under a funding agreement based on any audit conducted pursuant to this subsection shall be subject to the provisions of section 106(f) of that Act (25 U.S.C. 450j–1(f)).<sup>1</sup>
+Cost Principles.—In administering funds received under this section, an Indian tribe shall apply cost principles under the applicable Office of Management and Budget circular, except as modified by section 106 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5325), other provisions of law, or by any exemptions to applicable Office of Management and Budget circulars subsequently granted by the Office of Management and Budget. No other audit or accounting standards shall be required by the Secretary. Any claim by the Federal Government against the Indian tribe relating to funds received under a funding agreement based on any audit conducted pursuant to this subsection shall be subject to the provisions of section 106(f) of that Act (25 U.S.C. 5325(f)).
 
 (h)
 
@@ -324,7 +324,7 @@ Regulation waiver.—
 
 &emsp;&emsp;(A)
 
-In general.—An Indian tribe may submit to the Secretary a written request towaive application of a regulation promulgated under this section with respect to a compact or funding agreement. The request shall identify the regulation sought to be waived and the basis for the request.
+In general.—An Indian tribe may submit to the Secretary a written request to waive application of a regulation promulgated under this section with respect to a compact or funding agreement. The request shall identify the regulation sought to be waived and the basis for the request.
 
 &emsp;&emsp;(B)
 
@@ -370,23 +370,23 @@ Limitation on statutory construction.—Nothing in this section may be construed
 
 Applicability of Indian Self-Determination and Education Assistance Act.—Except to the extent in conflict with this section (as determined by the Secretary), the following provisions of the Indian Self-Determination and Education Assistance Act shall apply to compact and funding agreements (except that any reference to the Secretary of the Interior or the Secretary of Health and Human Services in such provisions shall be treated as a reference to the Secretary of Transportation):
 
-&emsp;(1) Subsections (a), (b), (d), (g), and (h) of section 506 of such Act (25 U.S.C. 458aaa–5),<sup>1</sup> relating to general provisions.
+&emsp;(1) Subsections (a), (b), (d), (g), and (h) of section 506 of such Act (25 U.S.C. 5386), relating to general provisions.
 
-&emsp;(2) Subsections (b) through (e) and (g) of section 507 of such Act (25 U.S.C. 458aaa–6),<sup>1</sup> relating to provisions relating to the Secretary of Health and Human Services.
+&emsp;(2) Subsections (b) through (e) and (g) of section 507 of such Act (25 U.S.C. 5387), relating to provisions relating to the Secretary of Health and Human Services.
 
-&emsp;(3) Subsections (a), (b), (d), (e), (g), (h), (i), and (k) of section 508 of such Act (25 U.S.C. 458aaa–7),<sup>1</sup> relating to transfer of funds.
+&emsp;(3) Subsections (a), (b), (d), (e), (g), (h), (i), and (k) of section 508 of such Act (25 U.S.C. 5388), relating to transfer of funds.
 
-&emsp;(4) Section 510 of such Act (25 U.S.C. 458aaa–9),<sup>1</sup> relating to Federal procurement laws and regulations.
+&emsp;(4) Section 510 of such Act (25 U.S.C. 5390), relating to Federal procurement laws and regulations.
 
-&emsp;(5) Section 511 of such Act (25 U.S.C. 458aaa–10),<sup>1</sup> relating to civil actions.
+&emsp;(5) Section 511 of such Act (25 U.S.C. 5391), relating to civil actions.
 
-&emsp;(6) Subsections (a)(1), (a)(2), and (c) through (f) of section 512 of such Act (25 U.S.C. 458aaa–11),<sup>1</sup> relating to facilitation, except that subsection (c)(1) of that section shall be applied by substituting "transportation facilities and other facilities" for "school buildings, hospitals, and other facilities".
+&emsp;(6) Subsections (a)(1), (a)(2), and (c) through (f) of section 512 of such Act (25 U.S.C. 5392), relating to facilitation, except that subsection (c)(1) of that section shall be applied by substituting "transportation facilities and other facilities" for "school buildings, hospitals, and other facilities".
 
-&emsp;(7) Subsections (a) and (b) of section 515 of such Act (25 U.S.C. 458aaa–14),<sup>1</sup> relating to disclaimers.
+&emsp;(7) Subsections (a) and (b) of section 515 of such Act (25 U.S.C. 5395), relating to disclaimers.
 
-&emsp;(8) Subsections (a) and (b) of section 516 of such Act (25 U.S.C. 458aaa–15),<sup>1</sup> relating to application of title I provisions.
+&emsp;(8) Subsections (a) and (b) of section 516 of such Act (25 U.S.C. 5396), relating to application of title I provisions.
 
-&emsp;(9) Section 518 of such Act (25 U.S.C. 458aaa–17),<sup>1</sup> relating to appeals.
+&emsp;(9) Section 518 of such Act (25 U.S.C. 5398), relating to appeals.
 
 (m)
 
@@ -430,7 +430,7 @@ Transportation programs.—The term "transportation programs" means all programs
 
 &emsp;(2)
 
-Applicability of other definitions.—In this section, the definitions set forth in sections 4 and 505 <sup>1</sup> of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b; 458aaa) <sup>1</sup> apply, except as otherwise expressly provided in this section.
+Applicability of other definitions.—In this section, the definitions set forth in sections 4 and 501 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304; 5381) apply, except as otherwise expressly provided in this section.
 
 (n)
 
@@ -478,7 +478,7 @@ Adaptation of procedures.—The Secretary shall adapt the negotiated rulemaking 
 
 Effect of circulars, policies, manuals, guidance, and rules.—Unless expressly agreed to by the participating Indian tribe in the compact or funding agreement, the participating Indian tribe shall not be subject to any agency circular, policy, manual, guidance, or rule adopted by the Department, except regulations promulgated under this section.
 
-(Added Pub. L. 114–94, div. A, title I, §1121(a), Dec. 4, 2015, 129 Stat. 1359; amended Pub. L. 115–235, §1, Aug. 14, 2018, 132 Stat. 2443.)
+(Added Pub. L. 114–94, div. A, title I, §1121(a), Dec. 4, 2015, 129 Stat. 1359; amended Pub. L. 115–235, §1, Aug. 14, 2018, 132 Stat. 2443; Pub. L. 117–58, div. A, title I, §11525(o), Nov. 15, 2021, 135 Stat. 608.)
 
 #### <b>Editorial Notes</b>
 
@@ -488,7 +488,7 @@ The date of enactment of MAP–21, referred to in subsec. (d)(2)(C)(ii)(II)(aa)(
 
 The date of enactment of the FAST Act, referred to in subsecs. (d)(2)(C)(ii)(II)(bb) and (n)(1)(A), is the date of enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsecs. (g), (l), and (m)(2), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 46 (§5301 et seq.) of Title 25. Sections 4, 106, 506 to 508, 510 to 512, 515, 516, and 518 of the Act were classified to sections 450b, 450j–1, 458aaa–5 to 458aaa–7, 458aaa–9 to 458aaa–11, 458aaa–14, 458aaa–15, and 458aaa–17, respectively, of Title 25, prior to editorial reclassification as sections 5304, 5325, 5386 to 5388, 5390 to 5392, 5395, 5396, and 5398, respectively, of Title 25. Section 505 of the Act probably should be a reference to section 501 of the Act, which defines terms and was classified to section 458aaa of Title 25 prior to editorial reclassification as section 5381 of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (l), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 #### Prior Provisions
 
@@ -496,15 +496,39 @@ A prior section 207, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 908; Pub. L. 93�
 
 #### Amendments
 
+<b>2021</b>—Subsec. (g). Pub. L. 117–58, §11525(o)(1), substituted "(25 U.S.C. 5325)" for "(25 U.S.C. 450j–1)" and "(25 U.S.C. 5325(f))" for "(25 U.S.C. 450j–1(f))".
+
+Subsec. (l)(1). Pub. L. 117–58, §11525(o(2)(A), substituted "(25 U.S.C. 5386)" for "(25 U.S.C. 458aaa–5)".
+
+Subsec. (l)(2). Pub. L. 117–58, §11525(o)(2)(B), substituted "(25 U.S.C. 5387)" for "(25 U.S.C. 458aaa–6)".
+
+Subsec. (l)(3). Pub. L. 117–58, §11525(o)(2)(C), substituted "(25 U.S.C. 5388)" for "(25 U.S.C. 458aaa–7)".
+
+Subsec. (l)(4). Pub. L. 117–58, §11525(o)(2)(D), substituted "(25 U.S.C. 5390)" for "(25 U.S.C. 458aaa–9)".
+
+Subsec. (l)(5). Pub. L. 117–58, §11525(o)(2)(E), substituted "(25 U.S.C. 5391)" for "(25 U.S.C. 458aaa–10)".
+
+Subsec. (l)(6). Pub. L. 117–58, §11525(o)(2)(F), substituted "(25 U.S.C. 5392)" for "(25 U.S.C. 458aaa–11)".
+
+Subsec. (l)(7). Pub. L. 117–58, §11525(o)(2)(G), substituted "(25 U.S.C. 5395)" for "(25 U.S.C. 458aaa–14)".
+
+Subsec. (l)(8). Pub. L. 117–58, §11525(o)(2)(H), substituted "(25 U.S.C. 5396)" for "(25 U.S.C. 458aaa–15)".
+
+Subsec. (l)(9). Pub. L. 117–58, §11525(o)(2)(I), substituted "(25 U.S.C. 5398)" for "(25 U.S.C. 458aaa–17)".
+
+Subsec. (m)(2). Pub. L. 117–58, §11525(o)(3), substituted "501" for "505" and "(25 U.S.C. 5304; 5381)" for "(25 U.S.C. 450b; 458aaa)".
+
 <b>2018</b>—Subsec. (n)(1)(B). Pub. L. 115–235, §1(1), substituted "42 months" for "21 months".
 
 Subsec. (n)(1)(C). Pub. L. 115–235, §1(2), substituted "48 months" for "30 months".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as a note under section 101 of this title.
+
 #### Effective Date
 
 Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as an Effective Date of 2015 Amendment note under section 5313 of Title 5, Government Organization and Employees.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

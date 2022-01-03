@@ -2,6 +2,8 @@
 
 Section, Pub. L. 105–391, title V, §502, Nov. 13, 1998, 112 Stat. 3518, related to agreement by Secretaries of the Interior and Agriculture on apportionment of Golden Eagle Passport sales.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of Repeal
 
 Repeal effective Dec. 19, 2006, see section 6812(d) of this title.

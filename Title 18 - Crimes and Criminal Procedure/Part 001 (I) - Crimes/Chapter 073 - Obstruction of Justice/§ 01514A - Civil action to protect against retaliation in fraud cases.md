@@ -66,7 +66,7 @@ Compensatory damages.â€”Relief for any action under paragraph (1) shall includeâ
 
 &emsp;&emsp;(B) the amount of back pay, with interest; and
 
-&emsp;&emsp;(C) compensation for any special damages sustained as a result of the discrimination,including litigation costs, expert witness fees, and reasonable attorney fees.
+&emsp;&emsp;(C) compensation for any special damages sustained as a result of the discrimination, including litigation costs, expert witness fees, and reasonable attorney fees.
 
 (d)
 

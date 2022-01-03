@@ -2,7 +2,7 @@
 
 #### (a) Terms and conditions
 
-The Secretary, or the Secretary of Agriculture where national forest wilderness is involved,shall include in any right-of-way issued pursuant to an application under this subchapter, terms and conditions which shall include, but not be limited to—
+The Secretary, or the Secretary of Agriculture where national forest wilderness is involved, shall include in any right-of-way issued pursuant to an application under this subchapter, terms and conditions which shall include, but not be limited to—
 
 &emsp;(1) requirements to insure that, to the maximum extent feasible, the right-of-way is used in a manner compatible with the purposes for which the affected conservation system unit, national recreation area, or national conservation area was established or is managed;
 

@@ -98,7 +98,7 @@ In subsection (a), the words "negotiable instruments" are substituted for "check
 
 Subsection (b), before clause (1), is added because of the restatement. In clause (2), the words "the accommodation of" are omitted as surplus. The word "personnel" is substituted for "members of the Armed Forces and civilian personnel" to eliminate unnecessary words and for consistency in the revised title and with other titles of the United States Code. In clause (3), the words "of the Armed Forces of the United States . . . institutions operated by the Veterans' Administration and other" are omitted as surplus.
 
-In subsection (c)(2), the words "For the purposes of this section" are omitted because of the restatement.The words "in the accounts of such disbursing officers" are omitted as unnecessary. The words "resulting from a transaction under subsection (a) of this section" are added for clarity. The words "not used to offset deficiencies from transactions under subsection (a)" are substituted for "resulting from operations permitted by sections 492a to 492c of this title" for clarity and consistency.
+In subsection (c)(2), the words "For the purposes of this section" are omitted because of the restatement. The words "in the accounts of such disbursing officers" are omitted as unnecessary. The words "resulting from a transaction under subsection (a) of this section" are added for clarity. The words "not used to offset deficiencies from transactions under subsection (a)" are substituted for "resulting from operations permitted by sections 492a to 492c of this title" for clarity and consistency.
 
 Subsection (c)(3) is substituted for 31:492b(2d sentence) to eliminate unnecessary words and for consistency in the revised title and with other titles of the Code.
 

@@ -24,6 +24,8 @@
 
 (Added Pub. L. 96–357, §2(a), Sept. 24, 1980, 94 Stat. 1180; amended Pub. L. 98–94, title X, §1003(b)(1), title XII, §1268(10), Sept. 24, 1983, 97 Stat. 656, 706; Pub. L. 100–180, div. A, title XII, §1231(17), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 101–510, div. A, title V, §534, Nov. 5, 1990, 104 Stat. 1564; Pub. L. 103–160, div. A, title V, §573(a), Nov. 30, 1993, 107 Stat. 1673; Pub. L. 109–163, div. A, title VI, §687(c)(2), Jan. 6, 2006, 119 Stat. 3333; Pub. L. 115–91, div. A, title VI, §618(a)(1)(B), Dec. 12, 2017, 131 Stat. 1426.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Subsecs. (a)(3), (c). Pub. L. 115–91 inserted "or 373" before "of title 37".
@@ -38,7 +40,7 @@ Subsecs. (c) to (h). Pub. L. 109–163, §687(c)(2)(B)–(D), added subsec. (c),
 
 Subsec. (f)(1). Pub. L. 101–510, §534(2), inserted "or fails to fulfill any term or condition prescribed pursuant to clause (4) of such subsection," after "agreement,".
 
-<b>1987</b>—Subsec. (e). Pub. L. 100–180, §1231(17), inserted "The term" after each par. designation and revisedfirst word in quotes in each par. to make initial letter of such word lowercase.
+<b>1987</b>—Subsec. (e). Pub. L. 100–180, §1231(17), inserted "The term" after each par. designation and revised first word in quotes in each par. to make initial letter of such word lowercase.
 
 <b>1983</b>—Subsec. (c). Pub. L. 98–94, §1268(10)(A), struck out "of this section" after "subsection (d)" and "subsection (a)".
 
@@ -47,6 +49,8 @@ Subsec. (d). Pub. L. 98–94, §1268(10)(A), struck out "of this section" after 
 Subsec. (e). Pub. L. 98–94, §1268(10)(B), substituted a colon for a dash after "In this section" preceding par. (1).
 
 Subsec. (f). Pub. L. 98–94, §1003(b)(1), added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1993 Amendment
 

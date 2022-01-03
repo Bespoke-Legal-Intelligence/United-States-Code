@@ -14,6 +14,8 @@ The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply with respect 
 
 (Pub. L. 86–36, §19, as added Pub. L. 108–487, title V, §501, Dec. 23, 2004, 118 Stat. 3950.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified in a note under section 402 of this title prior to editorial reclassification as this section.

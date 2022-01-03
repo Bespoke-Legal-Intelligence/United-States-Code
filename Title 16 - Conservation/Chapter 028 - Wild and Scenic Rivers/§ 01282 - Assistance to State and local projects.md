@@ -8,7 +8,7 @@ The Secretary of the Interior shall encourage and assist the States to consider,
 
 (1) The Secretary of the Interior, the Secretary of Agriculture, or the head of any other Federal agency, shall assist, advise, and cooperate with States or their political subdivisions, landowners, private organizations, or individuals to plan, protect, and manage river resources. Such assistance, advice, and cooperation may be through written agreements or otherwise. This authority applies within or outside a federally administered area and applies to rivers which are components of the National Wild and Scenic Rivers System and to other rivers. Any agreement under this subsection may include provisions for limited financial or other assistance to encourage participation in the acquisition, protection, and management of river resources.
 
-(2) Wherever appropriate in furtherance of this chapter, the Secretary of Agriculture and the Secretary of the Interior are authorized and encouraged to utilize the following:
+(2) Wherever appropriate in furtherance of this chapter, the Secretary of Agriculture and theSecretary of the Interior are authorized and encouraged to utilize the following:
 
 &emsp;(A) For activities on federally owned land, section 102301 of title 54 and the Volunteers in the Forest Act of 1972 (16 U.S.C. 558a–558d).
 
@@ -19,6 +19,8 @@ The Secretary of the Interior shall encourage and assist the States to consider,
 (4) No permit or other authorization provided for under provision of any other Federal law shall be conditioned on the existence of any agreement provided for in this section.
 
 (Pub. L. 90–542, §11, Oct. 2, 1968, 82 Stat. 916; Pub. L. 99–590, title V, §508, Oct. 30, 1986, 100 Stat. 3337; Pub. L. 113–287, §5(d)(31), Dec. 19, 2014, 128 Stat. 3267.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

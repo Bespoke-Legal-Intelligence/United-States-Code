@@ -50,6 +50,8 @@ General aviation airport construction or improvement project.—The term "genera
 
 (Added Pub. L. 108–176, title III, §304(a), Dec. 12, 2003, 117 Stat. 2538; amended Pub. L. 112–95, title I, §152(g), Feb. 14, 2012, 126 Stat. 34; Pub. L. 115–254, div. B, title I, §191(b), Oct. 5, 2018, 132 Stat. 3239.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Par. (8). Pub. L. 115–254 added par. (8).
@@ -57,6 +59,8 @@ General aviation airport construction or improvement project.—The term "genera
 <b>2012</b>—Par. (2). Pub. L. 112–95, §152(g)(1), substituted "2004 or any successor report" for "2001".
 
 Par. (7). Pub. L. 112–95, §152(g)(2), added par. (7).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

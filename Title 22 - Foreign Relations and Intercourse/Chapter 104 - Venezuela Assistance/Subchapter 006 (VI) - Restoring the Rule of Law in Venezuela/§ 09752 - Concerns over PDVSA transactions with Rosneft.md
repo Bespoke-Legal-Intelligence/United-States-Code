@@ -8,7 +8,7 @@ Congress makes the following findings:
 
 &emsp;(2) CITGO, a wholly owned subsidiary of PDVSA, is engaged in interstate commerce and owns and controls critical energy infrastructure in 19 States of the United States, including an extensive network of pipelines, 48 terminals, and 3 refineries, with a combined oil refining capacity of 749,000 barrels per day. CITGO's refinery in Lake Charles, Louisiana, is the sixth largest refinery in the United States.
 
-&emsp;(3) The Department of the Treasury imposed sanctions on Rosneft, which is controlled bythe Government of the Russian Federation, and its Executive Chairman, Igor Sechin, following Russia's military invasion of Ukraine and its illegal annexation of Crimea in 2014.
+&emsp;(3) The Department of the Treasury imposed sanctions on Rosneft, which is controlled by the Government of the Russian Federation, and its Executive Chairman, Igor Sechin, following Russia's military invasion of Ukraine and its illegal annexation of Crimea in 2014.
 
 &emsp;(4) The Department of Homeland Security has designated the energy sector as critical to United States infrastructure.
 

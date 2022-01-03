@@ -20,7 +20,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 1 year after the date on which an eligible unit of local governmentor Indian tribe receives a grant under this part, the eligible unit of local government or Indian tribe shall submit to the Secretary a proposed energy efficiency and conservation strategy in accordance with this paragraph.
+&emsp;&emsp;Not later than 1 year after the date on which an eligible unit of local government or Indian tribe receives a grant under this part, the eligible unit of local government or Indian tribe shall submit to the Secretary a proposed energy efficiency and conservation strategy in accordance with this paragraph.
 
 #### (B) Inclusions
 
@@ -58,7 +58,7 @@
 
 #### (3) Limitations on use of funds
 
-&emsp;Of amounts provided to an eligible unit of local government or Indian tribe under the program, an eligible unit of local government or Indian tribe may use—
+&emsp;Of amounts provided to an eligible unit of local government or Indian tribe under theprogram, an eligible unit of local government or Indian tribe may use—
 
 &emsp;&emsp;(A) for administrative expenses, excluding the cost of meeting the reporting requirements of this part, an amount equal to the greater of—
 
@@ -146,9 +146,13 @@
 
 (Pub. L. 110–140, title V, §545, Dec. 19, 2007, 121 Stat. 1670.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (a)(2)(A), is set out in the Appendix to Title 5, Government Organization and Employees. Section 903 of Title 5 relates to Presidential authority regarding reorganization plans.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

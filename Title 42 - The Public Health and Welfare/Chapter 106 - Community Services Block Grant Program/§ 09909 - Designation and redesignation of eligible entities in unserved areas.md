@@ -14,7 +14,7 @@
 
 &emsp;In order to serve as the eligible entity for the area, an entity described in paragraph (1)(B) shall agree to add additional members to the board of the entity to ensure adequate representation—
 
-&emsp;&emsp;(A) in each of the three required categories described in subparagraphs (A), (B), and (C)of section 9910(a)(2) of this title, by members that reside in the community comprised by the unserved area; and
+&emsp;&emsp;(A) in each of the three required categories described in subparagraphs (A), (B), and (C) of section 9910(a)(2) of this title, by members that reside in the community comprised by the unserved area; and
 
 &emsp;&emsp;(B) in the category described in section 9910(a)(2)(B) of this title, by members that reside in the neighborhood to be served.
 
@@ -27,6 +27,8 @@ In designating an eligible entity under subsection (a), the chief executive offi
 If no private, nonprofit organization is identified or determined to be qualified under subsection (a) to serve the unserved area as an eligible entity the chief executive officer may designate an appropriate political subdivision of the State to serve as an eligible entity for the area. In order to serve as the eligible entity for that area, the political subdivision shall have a board or other mechanism as required in section 9910(b) of this title.
 
 (Pub. L. 97–35, title VI, §676A, as added Pub. L. 105–285, title II, §201, Oct. 27, 1998, 112 Stat. 2739.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

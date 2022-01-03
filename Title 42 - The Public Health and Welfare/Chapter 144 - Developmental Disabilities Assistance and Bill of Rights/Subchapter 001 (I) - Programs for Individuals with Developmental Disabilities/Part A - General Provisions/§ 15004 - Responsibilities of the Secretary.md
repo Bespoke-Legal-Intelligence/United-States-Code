@@ -68,9 +68,11 @@ Except as otherwise expressly provided in this subchapter, the Secretary, not la
 
 #### (4) Meetings
 
-&emsp;Each meeting of the interagency committee (except for any meetings of any subcommittees of the committee) shall be open to thepublic. Notice of each meeting, and a statement of the agenda for the meeting, shall be published in the Federal Register not later than 14 days before the date on which the meeting is to occur.
+&emsp;Each meeting of the interagency committee (except for any meetings of any subcommittees of the committee) shall be open to the public. Notice of each meeting, and a statement of the agenda for the meeting, shall be published in the Federal Register not later than 14 days before the date on which the meeting is to occur.
 
 (Pub. L. 106–402, title I, §104, Oct. 30, 2000, 114 Stat. 1688.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -12,6 +12,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 The provisions of a prior chapter 34, Documentary Stamp Taxes, were set out as:
@@ -32,7 +34,7 @@ Subchapter C was struck out by Pub. L. 94–455, title XIX, §1904(a)(12), Oct. 
 
 Subchapter D heading was struck out, sections 4371 to 4373 were reenacted without change, section 4374, "liability for tax", was substituted for section 4374, "payment of tax", and section 4375 was struck out by Pub. L. 94–455, title XIX, §1904(a)(12).
 
-Subchapter E, section 4381 was repealed by Pub. L. 89–44, title IV, §401(c), June 21, 1965, 79 Stat. 148, and sections 4382 to 4384 were struck out by Pub. L. 94–455, title XIX, §1904(a)(12), Oct. 4, 1976, 90 Stat. 1812.
+Subchapter E, section 4381 was repealed by Pub. L. 89–44, title IV, §401(c), June 21, 1965, 79 Stat. 148, andsections 4382 to 4384 were struck out by Pub. L. 94–455, title XIX, §1904(a)(12), Oct. 4, 1976, 90 Stat. 1812.
 
 The subject matter of the prior sections was as follows:
 
@@ -96,7 +98,7 @@ A prior section 4362, acts Aug. 16, 1954, ch. 736, 68A Stat. 520; Sept. 2, 1958,
 
 A prior section 4363, acts Aug. 16, 1954, ch. 736, 68A Stat. 520; Sept. 2, 1958, Pub. L. 85–859, title I, §141(a), 72 Stat. 1300, related to cross references to former section 4384 and subtitle F of this title.
 
-A prior section 4375, acts Aug. 16, 1954, ch. 736, 68A Stat. 522; Sept. 2, 1958, Pub. L. 85–859, title I, §141(a), 72Stat. 1301, made cross-references to section 4384 and subtitle F.
+A prior section 4375, acts Aug. 16, 1954, ch. 736, 68A Stat. 522; Sept. 2, 1958, Pub. L. 85–859, title I, §141(a), 72 Stat. 1301, made cross-references to section 4384 and subtitle F.
 
 A prior section 4381, acts Aug. 16, 1954, ch. 736, 68A Stat. 523, Sept. 2, 1958, Pub. L. 85–859, title I, §141(a), 72 Stat. 1302, defined certificates of indebtedness, corporation, and shares or certificates of stock.
 
@@ -113,6 +115,8 @@ A prior section 4384, acts Aug. 16, 1954, ch. 736, 68A Stat. 524, §4384, former
 <b>1976</b>—Pub. L. 94–455, title XIX, §1904(a)(12), Oct. 4, 1976, 90 Stat. 1812, substituted "POLICIES ISSUED BY FOREIGN INSURERS" for "DOCUMENTARY STAMP TAXES" as chapter heading and struck out items relating to subchapters C to E.
 
 <b>1965</b>—Pub. L. 89–44, title IV, §401(a), June 21, 1965, 79 Stat. 148, struck out items relating to subchapters A and B.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Dates of Repeal
 

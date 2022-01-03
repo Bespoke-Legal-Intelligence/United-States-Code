@@ -212,7 +212,7 @@
 
 #### (A) Rates for undergraduate FDSL and FDUSL
 
-&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, for Federal Direct Stafford Loans and Federal Direct Unsubsidized Stafford Loans issued to undergraduate students, for which the first disbursement is made on or after July 1, 2013, the applicable rate of interest shall, for loans disbursed during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to the lesser of—
+&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, for Federal Direct Stafford Loans and Federal Direct Unsubsidized Stafford Loans issued to undergraduate students, for which the first disbursement is made on or after July 1, 2013, the applicable rate of interest shall, for loans disbursed during any 12-month period beginning on July 1 and ending on June 30, be determinedon the preceding June 1 and be equal to the lesser of—
 
 &emsp;&emsp;&emsp;(i) a rate equal to the high yield of the 10-year Treasury note auctioned at the final auction held prior to such June 1 plus 2.05 percent; or
 
@@ -478,7 +478,7 @@ The common financial reporting form required in section 1090(a)(1) of this title
 
 &emsp;(A) An institution shall maintain financial records in a manner consistent with records maintained for other programs under this subchapter.
 
-&emsp;(B) Except as otherwise required by regulations of the Secretary <sup>1</sup> an institution may maintain loan funds under this part in the same account as other Federal student financial assistance.
+&emsp;(B) Except as otherwise required by regulations of the Secretary <sup>1</sup> an institution maymaintain loan funds under this part in the same account as other Federal student financial assistance.
 
 #### (2) Payments and refunds
 
@@ -544,7 +544,7 @@ The common financial reporting form required in section 1090(a)(1) of this title
 
 #### (n) Identity fraud protection
 
-The Secretary shall take such steps as may be necessary to ensure that monthly Federal Direct Loan statements and other publications of the Department do not contain more than four digits of the Social Security number of any individual.
+The Secretary shall take such steps as may be necessary to ensure that monthly Federal Direct Loan statements and other publications ofthe Department do not contain more than four digits of the Social Security number of any individual.
 
 #### (o) No accrual of interest for active duty service members
 
@@ -606,11 +606,13 @@ Each institution of higher education with which the Secretary has an agreement u
 
 &emsp;&emsp;&emsp;(ii) how such aggregate period shall be calculated to include a course of study or program described in paragraph (3)(B) or (4)(B) of section 1091(b) of this title, respectively.
 
-(Pub. L. 89–329, title IV, §455, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1439; amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 572; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 346; Pub. L. 103–382, title III, §359, Oct. 20, 1994, 108 Stat. 3968; Pub. L. 105–178, title VIII, §8301(c), June 9, 1998, 112 Stat. 498; Pub. L. 105–244, title IV, §§401(g)(6), 452(a)(1), (b), (c), Oct. 7, 1998, 112 Stat. 1652, 1715–1717; Pub. L. 106–554, §1(a)(1) \[title III, §318(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49; Pub. L. 107–139, §1(b), (c), Feb. 8, 2002, 116 Stat. 9; Pub. L. 107–314, div. A, title VI, §651(c), Dec. 2, 2002, 116 Stat. 2580; Pub. L. 109–171, title VIII, §§8007(b), 8008(b), (c)(2), (3), 8009(d), Feb. 8, 2006, 120 Stat. 160, 162–164; Pub. L. 110–84, title II, §§201(b), 202(b), 203(b)(3), 205, title IV, §401, Sept. 27, 2007, 121 Stat. 791, 795, 800; Pub. L. 110–315, title I, §103(b)(8), title IV, §§425(b)(3), 451, Aug. 14, 2008, 122 Stat. 3089, 3234, 3261; Pub. L. 111–39, title IV, §404(b)(2), July 1, 2009, 123 Stat. 1946; Pub. L. 111–152, title II, §2211(a), Mar. 30, 2010, 124 Stat. 1078; Pub. L. 112–25, title V, §§502, 503, Aug. 2, 2011, 125 Stat. 266; Pub. L. 112–141, div. F, title III, §§100301, 100302(a), July 6, 2012, 126 Stat. 979; Pub. L. 113–28, §2(a), Aug. 9, 2013, 127 Stat. 506; Pub. L. 114–328, div. A, title VI, §618(e), Dec. 23, 2016, 130 Stat. 2160; Pub. L. 115–245, div. B, title III, §309(a), Sept. 28, 2018, 132 Stat. 3105; Pub. L. 116–91, §4(a), Dec. 19, 2019, 133 Stat. 1192; Pub. L. 116–259, title II, §202(b)(2), Dec. 23, 2020, 134 Stat. 1163; Pub. L. 116–260, div. FF, title VII, §705(a), Dec. 27, 2020, 134 Stat. 3200.)
+(Pub. L. 89–329, title IV, §455, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1439; amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 572; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 346; Pub. L. 103–382, title III, §359, Oct. 20, 1994, 108 Stat. 3968; Pub. L. 105–178, title VIII, §8301(c), June 9, 1998, 112 Stat. 498; Pub. L. 105–244, title IV, §§401(g)(6), 452(a)(1), (b), (c), Oct. 7, 1998, 112 Stat. 1652, 1715–1717; Pub. L. 106–554, §1(a)(1) \[title III, §318(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49; Pub. L. 107–139, §1(b), (c), Feb. 8, 2002, 116 Stat. 9; Pub. L. 107–314, div. A, title VI, §651(c), Dec. 2, 2002, 116 Stat. 2580; Pub. L. 109–171, title VIII, §§8007(b), 8008(b), (c)(2), (3), 8009(d), Feb. 8, 2006, 120 Stat. 160, 162–164; Pub. L. 110–84, title II, §§201(b), 202(b), 203(b)(3), 205, title IV, §401, Sept. 27, 2007, 121 Stat. 791, 795, 800; Pub. L. 110–315, title I, §103(b)(8), title IV, §§425(b)(3), 451, Aug. 14, 2008, 122 Stat. 3089, 3234, 3261; Pub. L. 111–39, title IV, §404(b)(2), July 1, 2009, 123 Stat. 1946; Pub. L. 111–152, title II, §2211(a), Mar. 30, 2010, 124 Stat.1078; Pub. L. 112–25, title V, §§502, 503, Aug. 2, 2011, 125 Stat. 266; Pub. L. 112–141, div. F, title III, §§100301, 100302(a), July 6, 2012, 126 Stat. 979; Pub. L. 113–28, §2(a), Aug. 9, 2013, 127 Stat. 506; Pub. L. 114–328, div. A, title VI, §618(e), Dec. 23, 2016, 130 Stat. 2160; Pub. L. 115–245, div. B, title III, §309(a), Sept. 28, 2018, 132 Stat. 3105; Pub. L. 116–91, §4(a), Dec. 19, 2019, 133 Stat. 1192; Pub. L. 116–259, title II, §202(b)(2), Dec. 23, 2020, 134 Stat. 1163; Pub. L. 116–260, div. FF, title VII, §705(a), Dec. 27, 2020, 134 Stat. 3200.)
 
 #### Amendment of Section
 
 <i>Pub. L. 116–260, div. FF, title VII, §§701(b), 705, Dec. 27, 2020, 134 Stat. 3137, 3200, provided that, effective July 1, 2023, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, with additional provisions authorizing the Secretary of Education to implement amendment before (but not later than) July 1, 2023, this section is amended by striking out subsec. (q). See 2020 Amendment note below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -752,6 +754,8 @@ Subsecs. (j)(2), (k)(3). Pub. L. 105–244, §401(g)(6), substituted "Federal Pe
 
 <b>1992</b>—Pub. L. 102–325 amended section generally, substituting provisions relating to withdrawal and termination procedures for former provisions relating to feasibility study.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2020 Amendment
 
 Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
@@ -778,7 +782,7 @@ Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment o
 
 Amendment by sections 201(b), 202(b), 205, and 401 of Pub. L. 110–84 effective Oct. 1, 2007, see section 1(c) of Pub. L. 110–84, set out as a note under section 1070a of this title.
 
-Amendment by section 203(b)(3) of Pub. L. 110–84 effective July 1, 2009, see section 203(c)(1) of Pub. L. 110–84, set out as a note under section 1078–3 of this title.
+Amendment by section 203(b)(3) of Pub. L. 110–84 effective July 1, 2009, see section 203(c)(1) of Pub. L.110–84, set out as a note under section 1078–3 of this title.
 
 #### Effective Date of 2006 Amendment
 
@@ -807,6 +811,8 @@ Nothing in amendment by section 8007(b) of Pub. L. 109–171 to be construed to 
 #### Limitation on Consolidation Loans During Temporary Interest Rate
 
 Pub. L. 105–244, title IV, §452(a)(2), Oct. 7, 1998, 112 Stat. 1716, provided that: "Notwithstanding section 455(g) of the Higher Education Act of 1965 \[subsec. (g) of this section\], a borrower who is enrolled or accepted for enrollment in an institution of higher education may not consolidate loans under such section during the period beginning October 1, 1998, and ending February 1, 1999, unless the borrower certifies that the borrower has no outstanding loans made, insured, or guaranteed under title IV of such Act \[20 U.S.C. 1070 et seq.\] other than loans made under part D of such title \[this part\]."
+
+#### <b>Executive Documents</b>
 
 #### Continued Student Loan Payment Relief During the COVID–19 Pandemic
 

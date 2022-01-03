@@ -12,7 +12,7 @@ Section was formerly classified to section 1973ff–3 of Title 42, The Public He
 
 #### Amendments
 
-<b>2009</b>—Pub. L. 111–84 substituted "Prohibition of refusal of applications on grounds of early submission" for "Use of single application for all subsequent elections" in section catchline, struck out subsecs. (a) to (d) which related, respectively, to provision of absentee ballot in subsequent elections after acceptance and processing of an official post card form, exception for voters changing registration, revision of official post card form, and construction of provisions with voter removal programs, and struck out subsec. (e) designation and heading before "A State".
+<b>2009</b>—Pub. L. 111–84 substituted "Prohibition of refusal of applications on grounds of early submission"for "Use of single application for all subsequent elections" in section catchline, struck out subsecs. (a) to (d) which related, respectively, to provision of absentee ballot in subsequent elections after acceptance and processing of an official post card form, exception for voters changing registration, revision of official post card form, and construction of provisions with voter removal programs, and struck out subsec. (e) designation and heading before "A State".
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–252, §704, substituted "through the next 2 regularly scheduled general elections for Federal office (including any runoff elections which may occur as a result of the outcome of such general elections), the State shall provide an absentee ballot to the voter for each such subsequent election" for "during that year, the State shall provide an absentee ballot to the voter for each subsequent election for Federal office held in the State during that year".
 

@@ -118,7 +118,7 @@
 
 #### (ii) Appointment
 
-&emsp;&emsp;&emsp;The National Taxpayer Advocate shall be appointed by the Secretary of the Treasury after consultation with the Commissioner of Internal Revenue and theOversight Board and without regard to the provisions of title 5, United States Code, relating to appointments in the competitive service or the Senior Executive Service.
+&emsp;&emsp;&emsp;The National Taxpayer Advocate shall be appointed by the Secretary of the Treasury after consultation with the Commissioner of Internal Revenue and the Oversight Board and without regard to the provisions of title 5, United States Code, relating to appointments in the competitive service or the Senior Executive Service.
 
 #### (iii) Qualifications
 
@@ -150,7 +150,7 @@
 
 #### (i) Objectives
 
-&emsp;&emsp;&emsp;Not later than June 30 of each calendar year, the National Taxpayer Advocate shall report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the objectives of the Office of the Taxpayer Advocate for the fiscal year beginning in such calendar year. Any such report shall contain full and substantive analysis, in addition to statistical information.
+&emsp;&emsp;&emsp;Not later than June 30 of each calendar year, the National Taxpayer Advocate shall report to the Committee on Ways and Means of the House of Representatives andthe Committee on Finance of the Senate on the objectives of the Office of the Taxpayer Advocate for the fiscal year beginning in such calendar year. Any such report shall contain full and substantive analysis, in addition to statistical information.
 
 #### (ii) Activities
 
@@ -184,7 +184,7 @@
 
 #### (iii) Report to be submitted directly
 
-&emsp;&emsp;&emsp;Each report required under this subparagraph shall be provided directly to the committees described in clause (i) without any prior review or comment from the Commissioner, the Secretary of the Treasury, the Oversight Board, any other officer or employee of the Department of theTreasury, or the Office of Management and Budget. The preceding sentence shall not apply with respect to statistical information provided to the Secretary for review, or received from the Secretary, under section 6108(d).
+&emsp;&emsp;&emsp;Each report required under this subparagraph shall be provided directly to the committees described in clause (i) without any prior review or comment from the Commissioner, the Secretary of the Treasury, the Oversight Board, any other officer or employee of the Department of the Treasury, or the Office of Management and Budget. The preceding sentence shall not apply with respect to statistical information provided to the Secretary for review, or received from the Secretary, under section 6108(d).
 
 #### (iv) Coordination with report of Treasury Inspector General for Tax Administration
 
@@ -214,7 +214,7 @@
 
 #### (ii) Consultation
 
-&emsp;&emsp;&emsp;The National Taxpayer Advocate may consult with the appropriate supervisory personnel of the Internal Revenue Service in carrying out the National Taxpayer Advocate's responsibilities under this subparagraph.
+&emsp;&emsp;&emsp;The National Taxpayer Advocate may consult with the appropriate supervisorypersonnel of the Internal Revenue Service in carrying out the National Taxpayer Advocate's responsibilities under this subparagraph.
 
 #### (E) Coordination with Treasury Inspector General for Tax Administration
 
@@ -464,7 +464,7 @@ In general.—The Treasury Inspector General for Tax Administration shall includ
 
 #### (B) Internal Revenue Service
 
-&emsp;&emsp;Any reference in this subsection to the Internal Revenue Service includes a reference to all components of the Internal Revenue Service, including—
+&emsp;&emsp;Any reference in this subsection to the Internal Revenue Service includes a referenceto all components of the Internal Revenue Service, including—
 
 &emsp;&emsp;&emsp;(i) the Office of the Taxpayer Advocate,
 
@@ -473,6 +473,8 @@ In general.—The Treasury Inspector General for Tax Administration shall includ
 &emsp;&emsp;&emsp;(iii) except as otherwise provided by the Secretary with respect to information technology related to matters described in subsection (b)(3)(B), the Office of the Chief Counsel.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 915; Pub. L. 92–310, title II, §230(e), June 6, 1972, 86 Stat. 209; Pub. L. 94–455, title XIX, §1906(a)(58), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1833, 1834; Pub. L. 105–206, title I, §1102(a), July 22, 1998, 112 Stat. 697; Pub. L. 110–176, §1(a), Jan. 4, 2008, 121 Stat. 2532; Pub. L. 110–428, §2(c), Oct. 15, 2008, 122 Stat. 4840; Pub. L. 114–113, div. Q, title IV, §401(a), Dec. 18, 2015, 129 Stat. 3117; Pub. L. 116–25, title I, §§1001(a), 1301(a)–(b)(2), (3)(B)–(c), title II, §2101(a), July 1, 2019, 133 Stat. 983, 991–993, 1008.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -516,9 +518,11 @@ Subsecs. (c), (d). Pub. L. 94–455, §1906(a)(58), redesignated subsec. (d) as 
 
 <b>1972</b>—Subsec. (c). Pub. L. 92–310 repealed subsec. (c) which related to bonds of officers and employees.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
-Pub. L. 116–25, title I, §1001(c), July 1, 2019, 133 Stat. 985, provided that: "Any reference in any provision of law, or regulation or other guidance, to the Internal Revenue Service Office of Appeals shall be treated as areference to the Internal Revenue Service Independent Office of Appeals."
+Pub. L. 116–25, title I, §1001(c), July 1, 2019, 133 Stat. 985, provided that: "Any reference in any provision of law, or regulation or other guidance, to the Internal Revenue Service Office of Appeals shall be treated as a reference to the Internal Revenue Service Independent Office of Appeals."
 
 Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
@@ -544,7 +548,7 @@ Pub. L. 114–113, div. Q, title IV, §401(b), Dec. 18, 2015, 129 Stat. 3117, pr
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–428 applicable to disclosures made after Dec. 31, 2008, see section 2(d) of Pub. L. 110–428, set out as a note under section 6103 of this title.
+Amendment by Pub. L. 110–428 applicable to disclosures made after Dec. 31, 2008, see section 2(d) of Pub.L. 110–428, set out as a note under section 6103 of this title.
 
 Pub. L. 110–176, §1(b), Jan. 4, 2008, 121 Stat. 2532, provided that: "The amendment made by this section \[amending this section\] shall apply as if included in the amendment made by section 1102(a) of the Internal Revenue Service Restructuring and Reform Act of 1998 \[Pub. L. 105–206\]."
 

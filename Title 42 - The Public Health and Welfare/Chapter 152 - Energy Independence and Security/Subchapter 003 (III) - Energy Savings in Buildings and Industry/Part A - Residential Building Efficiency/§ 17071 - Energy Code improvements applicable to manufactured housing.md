@@ -18,7 +18,7 @@
 
 #### (1) International Energy Conservation Code
 
-&emsp;The energy conservation standards established under this section shall be based on the most recent version of the International Energy Conservation Code (including supplements), except in cases in which the Secretary finds that the code <sup>1</sup> is not cost-effective, or a more stringent standard would be more cost-effective, based on the impact of the code <sup>1</sup> on the purchase price of manufactured housing and on total life-cycle construction and operating costs.
+&emsp;The energy conservation standards established under this section shall be based on the most recent version of the International Energy Conservation Code (including supplements), except in cases in which the Secretary finds that the code <sup>1</sup> is not cost-effective, or a more stringent standard would be more cost-effective, based on the impact of the code <sup>1</sup> on the purchase price of manufactured housingand on total life-cycle construction and operating costs.
 
 #### (2) Considerations
 
@@ -43,6 +43,8 @@
 Any manufacturer of manufactured housing that violates a provision of the regulations under subsection (a) is liable to the United States for a civil penalty in an amount not exceeding 1 percent of the manufacturer's retail list price of the manufactured housing.
 
 (Pub. L. 110–140, title IV, §413, Dec. 19, 2007, 121 Stat. 1601.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

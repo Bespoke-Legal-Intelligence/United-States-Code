@@ -70,7 +70,7 @@ To be eligible to receive a grant under subsection (a), an entity shall—
 
 #### (1) Authority
 
-&emsp;Grants made under this section may be used to update research facilities and equipmentavailable to facilitate the conduct of state-of-the-art research in forestry, natural resources, and the environment.
+&emsp;Grants made under this section may be used to update research facilities and equipment available to facilitate the conduct of state-of-the-art research in forestry, natural resources, and the environment.
 
 #### (2) Priorities and criteria
 
@@ -90,9 +90,11 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 (Pub. L. 101–624, title XII, §1232, Nov. 28, 1990, 104 Stat. 3543; Pub. L. 115–334, title VIII, §8708, Dec. 20, 2018, 132 Stat. 4882.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
-Section was enacted as part of the Forest Stewardship Act of 1990 and as part of the Food, Agriculture, Conservation, and Trade Act of 1990, and not as part of the McIntire-Stennis Act of 1962 which comprises this subchapter.
+Section was enacted as part of the Forest Stewardship Act of 1990 and as part of the Food, Agriculture,Conservation, and Trade Act of 1990, and not as part of the McIntire-Stennis Act of 1962 which comprises this subchapter.
 
 #### Amendments
 

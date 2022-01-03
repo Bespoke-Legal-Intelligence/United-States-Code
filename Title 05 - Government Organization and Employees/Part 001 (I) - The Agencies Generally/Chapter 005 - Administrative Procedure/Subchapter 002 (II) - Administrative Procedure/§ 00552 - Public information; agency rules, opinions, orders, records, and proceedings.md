@@ -14,7 +14,7 @@
 
 &emsp;(E) each amendment, revision, or repeal of the foregoing.
 
-> Except to the extent that a person has actual and timely notice of the terms thereof, a person may not in any manner be required to resort to, or be adversely affected by, a matter required tobe published in the Federal Register and not so published. For the purpose of this paragraph, matter reasonably available to the class of persons affected thereby is deemed published in the Federal Register when incorporated by reference therein with the approval of the Director of the Federal Register.
+> Except to the extent that a person has actual and timely notice of the terms thereof, a person may not in any manner be required to resort to, or be adversely affected by, a matter required to be published in the Federal Register and not so published. For the purpose of this paragraph, matter reasonably available to the class of persons affected thereby is deemed published in the Federal Register when incorporated by reference therein with the approval of the Director of the Federal Register.
 
 (2) Each agency, in accordance with published rules, shall make available for public inspection in an electronic format—
 
@@ -34,7 +34,7 @@
 
 &emsp;(E) a general index of the records referred to under subparagraph (D);
 
-> unless the materials are promptly published and copies offered for sale. For records created on or after November 1, 1996, within one year after such date, each agency shall make such records available, including by computer telecommunications or, if computer telecommunications means have not been established by the agency, by other electronic means. To the extent required to prevent a clearly unwarranted invasion of personal privacy, an agency may delete identifying details when it makes available or publishes an opinion, statement of policy, interpretation, staff manual, instruction, or copies of records referred to in subparagraph (D). However, in each case the justification for the deletion shall be explained fully in writing, and the extent of such deletion shall be indicated on the portion of the record which is made available or published, unless including that indication would harm an interest protected by the exemption in subsection (b) under which the deletion is made. If technically feasible, the extent of the deletion shall be indicated at the place in the record where the deletion was made. Each agency shall also maintain and make available for public inspection in an electronic format current indexes providing identifying information for the public as to any matter issued, adopted, or promulgated after July 4, 1967, and required by this paragraph to be made available or published. Each agency shall promptly publish, quarterly or more frequently, and distribute (by sale or otherwise) copies of each index or supplements thereto unless it determines by order published in the Federal Register that the publication would be unnecessary and impracticable, in which case the agency shall nonetheless provide copies of such index on request at a cost not to exceed the direct cost of duplication. Each agency shall make the index referred to in subparagraph (E) available by computer telecommunications by December 31, 1999. A final order, opinion, statement of policy, interpretation, or staff manual or instruction that affects a member of the public may be relied on, used, or cited as precedent by an agency against a party other than an agency only if—
+> unless the materials are promptly published and copies offered for sale. For records created on or after November 1, 1996, within one year after such date, each agency shall make such records available, including by computer telecommunications or, if computer telecommunications means have not been established by the agency, by other electronic means. To the extent required to prevent a clearly unwarranted invasion of personal privacy, an agency may delete identifying details when it makes available or publishes an opinion, statement of policy, interpretation, staff manual, instruction, or copies of records referred to in subparagraph (D). However, in each case the justification for the deletion shall be explained fully in writing, and the extent of such deletion shall be indicated on the portion of the record which is made available or published, unless including that indication would harm an interest protected by the exemption in subsection (b) under which the deletion is made. If technically feasible, the extent of the deletion shall be indicated at the place in therecord where the deletion was made. Each agency shall also maintain and make available for public inspection in an electronic format current indexes providing identifying information for the public as to any matter issued, adopted, or promulgated after July 4, 1967, and required by this paragraph to be made available or published. Each agency shall promptly publish, quarterly or more frequently, and distribute (by sale or otherwise) copies of each index or supplements thereto unless it determines by order published in the Federal Register that the publication would be unnecessary and impracticable, in which case the agency shall nonetheless provide copies of such index on request at a cost not to exceed the direct cost of duplication. Each agency shall make the index referred to in subparagraph (E) available by computer telecommunications by December 31, 1999. A final order, opinion, statement of policy, interpretation, or staff manual or instruction that affects a member of the public may be relied on, used, or cited as precedent by an agency against a party other than an agency only if—
 
 &emsp;(i) it has been indexed and either made available or published as provided by this paragraph; or
 
@@ -68,7 +68,7 @@
 
 (iii) Documents shall be furnished without any charge or at a charge reduced below the fees established under clause (ii) if disclosure of the information is in the public interest because it is likely to contribute significantly to public understanding of the operations or activities of the government and is not primarily in the commercial interest of the requester.
 
-(iv) Fee schedules shall provide for the recovery of only the direct costs of search, duplication, or review. Review costs shall include only the direct costs incurred during the initial examination of a document for the purposes of determining whether the documents must be disclosed under this section and for the purposes of withholding any portions exempt from disclosure under this section. Review costs may not include any costs incurred in resolving issues of law or policy that may be raised in the course of processing a request under this section. No fee may be charged by any agency under this section—
+(iv) Fee schedules shall provide for the recovery of only the direct costs of search, duplication, or review. Review costs shall include onlythe direct costs incurred during the initial examination of a document for the purposes of determining whether the documents must be disclosed under this section and for the purposes of withholding any portions exempt from disclosure under this section. Review costs may not include any costs incurred in resolving issues of law or policy that may be raised in the course of processing a request under this section. No fee may be charged by any agency under this section—
 
 &emsp;(I) if the costs of routine collection and processing of the fee are likely to equal or exceed the amount of the fee; or
 
@@ -88,7 +88,7 @@
 
 (cc) If a court has determined that exceptional circumstances exist (as that term is defined in paragraph (6)(C)), a failure described in subclause (I) shall be excused for the length of time provided by the court order.
 
-(B) On complaint, the district court of the United States in the district in which the complainant resides, or has his principal place of business, or in which the agency records are situated, or in the District of Columbia, has jurisdiction to enjoin the agency from withholding agency records and to order the production of any agency records improperly withheld from the complainant. In such a case the court shall determine the matter de novo, and may examine the contents of such agency records in camera to determine whether such records or any part thereof shall be withheld under any of the exemptions set forth in subsection (b) of this section, and the burden is on the agency to sustain its action. In addition to any other matters to which a court accords substantial weight, acourt shall accord substantial weight to an affidavit of an agency concerning the agency's determination as to technical feasibility under paragraph (2)(C) and subsection (b) and reproducibility under paragraph (3)(B).
+(B) On complaint, the district court of the United States in the district in which the complainant resides, or has his principal place of business, or in which the agency records are situated, or in the District of Columbia, has jurisdiction to enjoin the agency from withholding agency records and to order the production of any agency records improperly withheld from the complainant. In such a case the court shall determine the matter de novo, and may examine the contents of such agency records in camera to determine whether such records or any part thereof shall be withheld under any of the exemptions set forth in subsection (b) of this section, and the burden is on the agency to sustain its action. In addition to any other matters to which a court accords substantial weight, a court shall accord substantial weight to an affidavit of an agency concerning the agency's determination as to technical feasibility under paragraph (2)(C) and subsection (b) and reproducibility under paragraph (3)(B).
 
 (C) Notwithstanding any other provision of law, the defendant shall serve an answer or otherwise plead to any complaint made under this subsection within thirty days after service upon the defendant of the pleading in which such complaint is made, unless the court otherwise directs for good cause shown.
 
@@ -140,7 +140,7 @@
 
 (B)(i) In unusual circumstances as specified in this subparagraph, the time limits prescribed in either clause (i) or clause (ii) of subparagraph (A) may be extended by written notice to the person making such request setting forth the unusual circumstances for such extension and the date on which a determination is expected to be dispatched. No such notice shall specify a date that would result in an extension for more than ten working days, except as provided in clause (ii) of this subparagraph.
 
-(ii) With respect to a request for which a written notice under clause (i) extends the time limits prescribed under clause (i) of subparagraph (A), the agency shall notify the person making the request if the request cannot be processed within the time limit specified in that clause and shall provide the person an opportunity to limit the scope of the request so that it may beprocessed within that time limit or an opportunity to arrange with the agency an alternative time frame for processing the request or a modified request. To aid the requester, each agency shall make available its FOIA Public Liaison, who shall assist in the resolution of any disputes between the requester and the agency, and notify the requester of the right of the requester to seek dispute resolution services from the Office of Government Information Services. Refusal by the person to reasonably modify the request or arrange such an alternative time frame shall be considered as a factor in determining whether exceptional circumstances exist for purposes of subparagraph (C).
+(ii) With respect to a request for which a written notice under clause (i) extends the time limits prescribed under clause (i) of subparagraph (A), the agency shall notify the person making the request if the request cannot be processed within the time limit specified in that clause and shall provide the person an opportunity to limit the scope of the request so that it may be processed within that time limit or an opportunity to arrange with the agency an alternative time frame for processing the request or a modified request. To aid the requester, each agency shall make available its FOIA Public Liaison, who shall assist in the resolution of any disputes between the requester and the agency, and notify the requester of the right of the requester to seek dispute resolution services from the Office of Government Information Services. Refusal by the person to reasonably modify the request or arrange such an alternative time frame shall be considered as a factor in determining whether exceptional circumstances exist for purposes of subparagraph (C).
 
 (iii) As used in this subparagraph, "unusual circumstances" means, but only to the extent reasonably necessary to the proper processing of the particular requests—
 
@@ -264,7 +264,7 @@
 
 &emsp;(ii) a complete list of all statutes that the agency relies upon to authorize the agency to withhold information under subsection (b)(3), the number of occasions on which each statute was relied upon, a description of whether a court has upheld the decision of the agency to withhold information under each such statute, and a concise description of the scope of any information withheld;
 
-&emsp;(C) the number of requests for records pending before the agency as of September 30 of the preceding year, and the median and average number of days that such requests had been pending before the agency as of that date;
+&emsp;(C) the number of requests for records pending before the agency as of September 30 of thepreceding year, and the median and average number of days that such requests had been pending before the agency as of that date;
 
 &emsp;(D) the number of requests for records received by the agency and the number of requests which the agency processed;
 
@@ -302,7 +302,7 @@
 
 &emsp;(Q) the number of records that were made available for public inspection in an electronic format under subsection (a)(2).
 
-(2) Information in each report submitted under paragraph (1) shall be expressed in terms of eachprincipal component of the agency and for the agency overall.
+(2) Information in each report submitted under paragraph (1) shall be expressed in terms of each principal component of the agency and for the agency overall.
 
 (3) Each agency shall make each such report available for public inspection in an electronic format. In addition, each agency shall make the raw statistical data used in each report available in a timely manner for public inspection in an electronic format, which shall be made available—
 
@@ -400,7 +400,7 @@
 
 &emsp;(A) have agency-wide responsibility for efficient and appropriate compliance with this section;
 
-&emsp;(B) monitor implementation of this section throughout the agency and keep the head of the agency, the chief legal officer of the agency, and the Attorney General appropriately informed of the agency's performance in implementing this section;
+&emsp;(B) monitor implementation of this section throughout the agency and keep the head ofthe agency, the chief legal officer of the agency, and the Attorney General appropriately informed of the agency's performance in implementing this section;
 
 &emsp;(C) recommend to the head of the agency such adjustments to agency practices, policies, personnel, and funding as may be necessary to improve its implementation of this section;
 
@@ -458,7 +458,7 @@
 
 (B) In performing the duties described in subparagraph (A), the Council shall consult on a regular basis with members of the public who make requests under this section.
 
-(6)(A) The Council shall meet regularly and such meetings shall be open to the public unlessthe Council determines to close the meeting for reasons of national security or to discuss information exempt under subsection (b).
+(6)(A) The Council shall meet regularly and such meetings shall be open to the public unless the Council determines to close the meeting for reasons of national security or to discuss information exempt under subsection (b).
 
 (B) Not less frequently than annually, the Council shall hold a meeting that shall be open to the public and permit interested persons to appear and present oral and written statements to the Council.
 
@@ -472,7 +472,7 @@
 
 (m)(1) The Director of the Office of Management and Budget, in consultation with the Attorney General, shall ensure the operation of a consolidated online request portal that allows a member of the public to submit a request for records under subsection (a) to any agency from a single website. The portal may include any additional tools the Director of the Office of Management and Budget finds will improve the implementation of this section.
 
-(2) This subsection shall not be construed to alter the power of any other agency to create or maintain an independent online portal for the submission of a request for records under this section. The Director of the Office of Management and Budget shall establish standards for interoperability between the portal required under paragraph (1) and other request processing software used by agencies subject to this section.
+(2) This subsection shall not be construed to alter the power of any other agency to create or maintain an independent online portal for the submission of a request for records under this section. The Director of the Office of Management and Budget shall establish standards for interoperability between the portal required under paragraph (1) and other request processingsoftware used by agencies subject to this section.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 383; Pub. L. 90–23, §1, June 5, 1967, 81 Stat. 54; Pub. L. 93–502, §§1–3, Nov. 21, 1974, 88 Stat. 1561–1564; Pub. L. 94–409, §5(b), Sept. 13, 1976, 90 Stat. 1247; Pub. L. 95–454, title IX, §906(a)(10), Oct. 13, 1978, 92 Stat. 1225; Pub. L. 98–620, title IV, §402(2), Nov. 8, 1984, 98 Stat. 3357; Pub. L. 99–570, title I, §§1802, 1803, Oct. 27, 1986, 100 Stat. 3207–48, 3207–49; Pub. L. 104–231, §§3–11, Oct. 2, 1996, 110 Stat. 3049–3054; Pub. L. 107–306, title III, §312, Nov. 27, 2002, 116 Stat. 2390; Pub. L. 110–175, §§3, 4(a), 5, 6(a)(1), (b)(1), 7(a), 8–10(a), 12, Dec. 31, 2007, 121 Stat. 2525–2530; Pub. L. 111–83, title V, §564(b), Oct. 28, 2009, 123 Stat. 2184; Pub. L. 114–185, §2, June 30, 2016, 130 Stat. 538.)
 
@@ -552,7 +552,7 @@ Subsec. (e)(1)(P), (Q). Pub. L. 114–185, §2(3)(A)(ii)–(iv), added subpars. 
 
 Subsec. (e)(3). Pub. L. 114–185, §2(3)(B), added par. (3) and struck out former par. (3) which read as follows: "Each agency shall make each such report available to the public including by computer telecommunications, or if computer telecommunications means have not been established by the agency, by other electronic means. In addition, each agency shall make the raw statistical data used in its reports available electronically to the public upon request."
 
-Subsec. (e)(4). Pub. L. 114–185, §2(3)(C), substituted "Oversight and Government Reform" for "Government Reform and Oversight" and "March" for "April" and inserted "Homeland Security and" before "Governmental Affairs".
+Subsec. (e)(4). Pub. L. 114–185, §2(3)(C), substituted "Oversight and Government Reform" for "GovernmentReform and Oversight" and "March" for "April" and inserted "Homeland Security and" before "Governmental Affairs".
 
 Subsec. (e)(6). Pub. L. 114–185, §2(3)(D), added par. (6) and struck out former par. (6) which read as follows: "The Attorney General of the United States shall submit an annual report on or before April 1 of each calendar year which shall include for the prior calendar year a listing of the number of cases arising under this section, the exemption involved in each case, the disposition of such case, and the cost, fees, and penalties assessed under subparagraphs (E), (F), and (G) of subsection (a)(4). Such report shall also include a description of the efforts undertaken by the Department of Justice to encourage agency compliance with this section."
 
@@ -604,7 +604,7 @@ Subsec. (e)(3). Pub. L. 110–175, §8(b)(1), (c), redesignated par. (2) as (3) 
 
 Subsec. (e)(4) to (6). Pub. L. 110–175, §8(b)(1), redesignated pars. (3) to (5) as (4) to (6), respectively.
 
-Subsec. (f)(2). Pub. L. 110–175, §9, added par. (2) and struck out former par. (2) which read as follows:" 'record' and any other term used in this section in reference to information includes any information that would be an agency record subject to the requirements of this section when maintained by an agency in any format, including an electronic format."
+Subsec. (f)(2). Pub. L. 110–175, §9, added par. (2) and struck out former par. (2) which read as follows: " 'record' and any other term used in this section in reference to information includes any information that would be an agency record subject to the requirements of this section when maintained by an agency in any format, including an electronic format."
 
 Subsecs. (h) to (l). Pub. L. 110–175, §10(a), added subsecs. (h) to (l).
 
@@ -664,7 +664,7 @@ Subsecs. (c) to (f). Pub. L. 99–570, §1802(b), added subsec. (c) and redesign
 
 <b>1976</b>—Subsec. (b)(3). Pub. L. 94–409 inserted provision excluding section 552b of this title from applicability of exemption from disclosure and provision setting forth conditions for statute specifically exempting disclosure.
 
-<b>1974</b>—Subsec. (a)(2). Pub. L. 93–502, §1(a), substituted provisions relating to maintenance and availability ofcurrent indexes, for provisions relating to maintenance and availability of a current index, and inserted provisions relating to publication and distribution of copies of indexes or supplements thereto.
+<b>1974</b>—Subsec. (a)(2). Pub. L. 93–502, §1(a), substituted provisions relating to maintenance and availability of current indexes, for provisions relating to maintenance and availability of a current index, and inserted provisions relating to publication and distribution of copies of indexes or supplements thereto.
 
 Subsec. (a)(3). Pub. L. 93–502, §1(b)(1), substituted provisions requiring requests to reasonably describe records for provisions requiring requests, for identifiable records, and struck out provisions setting forth procedures to enjoin agencies from withholding the requested records and ordering their production.
 
@@ -682,7 +682,7 @@ Subsecs. (d), (e). Pub. L. 93–502, §3, added subsecs. (d) and (e).
 
 <b>1967</b>—Subsec. (a). Pub. L. 90–23 substituted introductory statement requiring every agency to make available to the public certain information for former introductory provision excepting from disclosure (1) any function of the United States requiring secrecy in the public interest or (2) any matter relating to internal management of an agency, covered in subsec. (b)(1) and (2) of this section.
 
-Subsec. (a)(1). Pub. L. 90–23 incorporated provisions of: former subsec. (b)(1) in (A), inserting requirement of publication of names of officers as sources of information and provision for public to obtain decisions, and striking out publication requirement for delegations by the agency of final authority; former subsec. (b)(2), introductory part, in (B); former subsec. (b)(2), concluding part, in (C), inserting publication requirement for rules of procedure and descriptions of forms available or the places at which forms may be obtained; former subsec. (b)(3), introductory part, in (D), inserting requirement of general applicability of substantive rules and interpretations, added clause (E), substituted exemption of any person from failure to resort to any matter or from being adversely affected by any matter required to be published in the Federal Register but not so published for former subsec. (b)(3), concluding part, excepting from publication rules addressed to and served upon named persons in accordance with laws and final sentence reading "A person may not be required to resort to organization or procedure not so published" and inserted provision deeming matter, which is reasonably available, as published in the Federal Register when such matter is incorporated by reference in the Federal Register with the approval of its Director.
+Subsec. (a)(1). Pub. L. 90–23 incorporated provisions of: former subsec. (b)(1) in (A), inserting requirement of publication of names of officers as sources of information and provision for public to obtain decisions, and striking out publication requirement for delegations by the agency of final authority; former subsec. (b)(2), introductory part, in (B); former subsec. (b)(2), concluding part, in (C), inserting publication requirement for rules of procedure and descriptions of forms available or the places at which forms may be obtained; former subsec. (b)(3), introductory part, in (D), inserting requirement of general applicability of substantive rules and interpretations, added clause (E), substituted exemption of any person from failure to resort to any matter or from being adversely affected by any matter required to be published in the Federal Register but not so published for former subsec. (b)(3), concluding part, excepting from publication rules addressed to and served upon named persons in accordance with laws and final sentence reading "A person may not be required to resort to organization or procedure not so published" and inserted provision deeming matter, which is reasonably available, as published in the Federal Register when such matter is incorporated by referencein the Federal Register with the approval of its Director.
 
 Subsec. (a)(2). Pub. L. 90–23 incorporated provisions of former subsec. (c), provided for public copying of records, struck out requirement of agency publication of final opinions or orders and authority for secrecy and withholding of opinions and orders required for good cause to be held confidential and not cited as precedents, latter provision now superseded by subsec. (b) of this section, designated existing subsec. (c) as clause (A), including provision for availability of concurring and dissenting opinions, inserted provisions for availability of policy statements and interpretations in clause (B) and staff manuals and instructions in clause (C), deletion of personal identifications from records to protect personal privacy with written justification therefor, and provision for indexing and prohibition of use of records not indexed against any private party without actual and timely notice of the terms thereof.
 
@@ -724,7 +724,7 @@ In General.—Except as provided in subsection (b), this Act \[amending this sec
 
 "(b)
 
-Provisions Effective on Enactment \[sic\].—Sections 7 and 8 \[amending this section\] shall take effectone year after the date of the enactment of this Act \[Oct. 2, 1996\]."
+Provisions Effective on Enactment \[sic\].—Sections 7 and 8 \[amending this section\] shall take effect one year after the date of the enactment of this Act \[Oct. 2, 1996\]."
 
 #### Effective Date of 1986 Amendment
 
@@ -758,7 +758,7 @@ Pub. L. 90–23, §4, June 5, 1967, 81 Stat. 56, provided that: "This Act \[amen
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–231, §1, Oct. 2, 1996, 110 Stat. 3048, provided that: "This Act \[amending this section and enacting provisions set out as notes under this section\] may be cited as the 'Electronic Freedom of Information Act Amendments of 1996'."
+Pub. L. 104–231, §1, Oct. 2, 1996, 110 Stat. 3048, provided that: "This Act \[amending this section and enactingprovisions set out as notes under this section\] may be cited as the 'Electronic Freedom of Information Act Amendments of 1996'."
 
 #### Short Title of 1986 Amendment
 
@@ -878,7 +878,7 @@ Pub. L. 110–175, §2, Dec. 31, 2007, 121 Stat. 2524, provided that: "Congress 
 
 #### Limitation on Amounts Obligated or Expended From Claims and Judgment Fund
 
-Pub. L. 110–175, §4(b), Dec. 31, 2007, 121 Stat. 2525, provided that: "Notwithstanding section 1304 of title 31, United States Code, no amounts may be obligated or expended from the Claims and Judgment Fund of the United States Treasury to pay the costs resulting from fees assessed under section 552(a)(4)(E) of title 5, United States Code. Any such amounts shall be paid only from funds annually appropriated for any authorized purpose for the Federal agency against which a claim or judgment has been rendered."
+Pub. L. 110–175, §4(b), Dec. 31, 2007, 121 Stat. 2525, provided that: "Notwithstanding section 1304 of title 31,United States Code, no amounts may be obligated or expended from the Claims and Judgment Fund of the United States Treasury to pay the costs resulting from fees assessed under section 552(a)(4)(E) of title 5, United States Code. Any such amounts shall be paid only from funds annually appropriated for any authorized purpose for the Federal agency against which a claim or judgment has been rendered."
 
 #### Nondisclosure of Certain Products of Commercial Satellite Operations
 
@@ -944,7 +944,7 @@ Interagency group.—The term 'Interagency Group' means the Nazi War Crimes and 
 
 &emsp;"(3)
 
-Japanese imperial government records.—The term 'Japanese Imperial Government records' meansclassified records or portions of records that pertain to any person with respect to whom the United States Government, in its sole discretion, has grounds to believe ordered, incited, assisted, or otherwise participated in the experimentation on, and persecution of, any person because of race, religion, national origin, or political opinion, during the period beginning September 18, 1931, and ending on December 31, 1948, under the direction of, or in association with—
+Japanese imperial government records.—The term 'Japanese Imperial Government records' means classified records or portions of records that pertain to any person with respect to whom the United States Government, in its sole discretion, has grounds to believe ordered, incited, assisted, or otherwise participated in the experimentation on, and persecution of, any person because of race, religion, national origin, or political opinion, during the period beginning September 18, 1931, and ending on December 31, 1948, under the direction of, or in association with—
 
 &emsp;&emsp;"(A) the Japanese Imperial Government;
 
@@ -1360,7 +1360,7 @@ Section 1. <i>Policy.</i>
 
 (c) Agency FOIA operations shall be both results-oriented and produce results. Accordingly, agencies shall process requests under the FOIA in an efficient and appropriate manner and achieve tangible, measurable improvements in FOIA processing. When an agency's FOIA program does not produce such results, it should be reformed, consistent with available resources appropriated by the Congress and applicable law, to increase efficiency and better reflect the policy goals and objectives of this order.
 
-(d) A citizen-centered and results-oriented approach will improve service and performance, thereby strengthening compliance with the FOIA, and will help avoid disputes and related litigation.
+(d) A citizen-centered and results-oriented approach will improve service and performance, therebystrengthening compliance with the FOIA, and will help avoid disputes and related litigation.
 
 Sec. 2. <i>Agency Chief FOIA Officers.</i>
 
@@ -1390,7 +1390,7 @@ Sec. 2. <i>Agency Chief FOIA Officers.</i>
 
 (v) As determined by the agency Chief FOIA Officer, in consultation with the FOIA Public Liaisons, each agency shall post appropriate information about its Center or Centers on the agency's website, including contact information for its FOIA Public Liaisons. In the case of an agency without a website, the agency shall publish the information on the Firstgov.gov website or, in the case of any agency with neither a website nor the capability to post on the Firstgov.gov website, in the Federal Register; and
 
-(vi) The agency Chief FOIA Officer shall ensure that the agency has in place a method (or methods), including through the use of the Center, to receive and respond promptly and appropriately to inquiries from FOIA requesters about the status of their requests. The Chief FOIA Officer shall also consider, in consultation with the FOIA Public Liaisons, as appropriate, whether the agency's implementation of other means (such as tracking numbers for requests, or an agency telephoneor Internet hotline) would be appropriate for responding to status inquiries.
+(vi) The agency Chief FOIA Officer shall ensure that the agency has in place a method (or methods), including through the use of the Center, to receive and respond promptly and appropriately to inquiries from FOIA requesters about the status of their requests. The Chief FOIA Officer shall also consider, in consultation with the FOIA Public Liaisons, as appropriate, whether the agency's implementation of other means (such as tracking numbers for requests, or an agency telephone or Internet hotline) would be appropriate for responding to status inquiries.
 
 Sec. 3. <i>Review, Plan, and Report.</i>
 

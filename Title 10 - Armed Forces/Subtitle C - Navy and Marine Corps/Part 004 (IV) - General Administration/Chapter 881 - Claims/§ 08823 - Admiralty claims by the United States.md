@@ -54,7 +54,7 @@ In subsection (a) the words "consider, ascertain, adjust, determine" are omitted
 
 In subsection (b) the words "and to deliver" are omitted as covered by the word "execute". The words "Amounts received under this section" are substituted for the words "All such payments" for clarity and uniformity. The words "of the United States as miscellaneous receipts" are omitted as surplusage.
 
-In subsection (c) the words "In any case where the amount to be received by the United States is not more than" are substituted for the words "Where the net amount received in settlement does not exceed" for clarity, since the delegation of authority necessarilyprecedes receipt of payment. The words "the Secretary may delegate his authority" are substituted for the words "the authority of the Secretary of the Navy \* \* \* may be exercised" for clarity.
+In subsection (c) the words "In any case where the amount to be received by the United States is not more than" are substituted for the words "Where the net amount received in settlement does not exceed" for clarity, since the delegation of authority necessarily precedes receipt of payment. The words "the Secretary may delegate his authority" are substituted for the words "the authority of the Secretary of the Navy \* \* \* may be exercised" for clarity.
 
 In subsection (d) the words "but not until then", "for all purposes", and "to the contrary" are omitted as surplusage.
 
@@ -62,13 +62,15 @@ Subsection (e) is worded to insure that the effect of a suit pending at any time
 
 The first proviso of 34 U.S.C. 600a, stating that this section is supplementary to, and not in lieu of, other laws authorizing the settlement of claims, is omitted as unnecessary, since the other applicable claims laws are restated in this title.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior sections 8841 and 8842, added Pub. L. 85–861, §1(192), Sept. 2, 1958, 72 Stat. 1535, related to separation or transfer to Retired Reserve of female reserve nurses and medical specialists at age 50 if in a Reserve grade below major and at age 55 if in a Reserve grade above captain, prior to repeal by Pub. L. 86–559, §1(66), June 30, 1960, 74 Stat. 278.
 
 Prior sections 8843 to 8846 were repealed by Pub. L. 103–337, div. A, title XVI, §1629(c)(3), Oct. 5, 1994, 108 Stat. 2963, effective Oct. 1, 1996.
 
-Section 8843, added Pub. L. 85–861, §1(192), Sept. 2, 1958, 72 Stat. 1535; amended Pub. L. 86–599, §1(67), June 30, 1960, 74 Stat. 278, related to transfer or discharge of reserve commissioned officers 60 years of age and below grade of major general. See section 14510 of this title.
+Section 8843, added Pub. L. 85–861, §1(192), Sept. 2, 1958, 72 Stat. 1535; amended Pub. L. 86–599, §1(67), June 30, 1960, 74 Stat. 278, related to transfer or discharge ofreserve commissioned officers 60 years of age and below grade of major general. See section 14510 of this title.
 
 Section 8844, added Pub. L. 85–861, §1(192), Sept. 2, 1958, 72 Stat. 1535; amended Pub. L. 86–559, §1(68), June 30, 1960, 74 Stat. 279, related to transfer or discharge of certain reserve major generals who are 62 years of age. See section 14511 of this title.
 
@@ -97,6 +99,8 @@ Subsec. (c). Pub. L. 107–107, §1014(b)(2), substituted "$1,000,000" for "$100
 <b>1989</b>—Subsec. (c). Pub. L. 101–189 substituted "$100,000" for "$10,000".
 
 <b>1965</b>—Subsec. (c). Pub. L. 89–67 substituted "$10,000" for "$1,000".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

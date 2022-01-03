@@ -56,7 +56,7 @@ The interim final and final regulations developed under subsection (a) shall req
 
 #### (4) Updates of regulations and program revisions
 
-&emsp;The Secretary shall periodically review and update, as appropriate, the training regulations issued under subsection (a) to reflectnew or changing security threats. Each public transportation agency shall revise its training program accordingly and provide additional training as necessary to its workers within a reasonable time after the regulations are updated.
+&emsp;The Secretary shall periodically review and update, as appropriate, the training regulations issued under subsection (a) to reflect new or changing security threats. Each public transportation agency shall revise its training program accordingly and provide additional training as necessary to its workers within a reasonable time after the regulations are updated.
 
 #### (e) Applicability
 
@@ -76,7 +76,7 @@ This section shall not apply to any ferry system for which training is required 
 
 #### (i) Report
 
-Not later than 2 years after the date of issuance of the final regulation, the Comptroller General shall review implementation of the training program, including interviewing a representative sample of public transportation agencies and employees, and report to the appropriate congressional committees, on the number of reviews conducted and the results. The Comptroller General may submit the report in both classified and redacted formats as necessary.
+Not later than 2 years after the date of issuance of the final regulation, the Comptroller General shall review implementation of thetraining program, including interviewing a representative sample of public transportation agencies and employees, and report to the appropriate congressional committees, on the number of reviews conducted and the results. The Comptroller General may submit the report in both classified and redacted formats as necessary.
 
 (Pub. L. 110–53, title XIV, §1408, Aug. 3, 2007, 121 Stat. 409.)
 

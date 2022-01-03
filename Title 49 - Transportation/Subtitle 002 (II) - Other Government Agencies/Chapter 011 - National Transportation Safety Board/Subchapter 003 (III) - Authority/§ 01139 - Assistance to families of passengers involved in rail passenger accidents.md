@@ -6,7 +6,7 @@ In General.—As soon as practicable after being notified of a rail passenger ac
 
 &emsp;(1) designate and publicize the name and telephone number of a director of family support services who shall be an employee of the Board and shall be responsible for acting as a point of contact within the Federal Government for the families of passengers involved in the accident and a liaison between the rail passenger carrier and the families; and
 
-&emsp;(2) designate an independent nonprofit organization, with experience in disasters and post-trauma communication with families, which shall have primary responsibility for coordinating the emotional care and support of the families of passengers involved in the accident.
+&emsp;(2) designate an independent nonprofit organization, with experience in disasters andpost-trauma communication with families, which shall have primary responsibility for coordinating the emotional care and support of the families of passengers involved in the accident.
 
 (b)
 
@@ -80,7 +80,7 @@ Unsolicited communications.—No unsolicited communication concerning a potentia
 
 &emsp;(3)
 
-Prohibition on actions to prevent mental health and counseling services.—No State or political subdivision thereof may prevent the employees, agents, or volunteers of an organization designated for an accident under subsection (a)(2) from providing mental health and counseling services under subsection (c)(1) in the 30-day period beginning on the date of the accident. The director of family support services designated for the accident under subsection (a)(1) may extend suchperiod for not to exceed an additional 30 days if the director determines that the extension is necessary to meet the needs of the families and if State and local authorities are notified of the determination.
+Prohibition on actions to prevent mental health and counseling services.—No State or political subdivision thereof may prevent the employees, agents, or volunteers of an organization designated for an accident under subsection (a)(2) from providing mental health and counseling services under subsection (c)(1) in the 30-day period beginning on the date of the accident. The director of family support services designated for the accident under subsection (a)(1) may extend such period for not to exceed an additional 30 days if the director determines that the extension is necessary to meet the needs of the families and if State and local authorities are notified of the determination.
 
 (h)
 
@@ -142,6 +142,8 @@ Savings Clause.—Nothing in this section shall be construed to abridge the auth
 
 (Added Pub. L. 110–432, div. A, title V, §501(a), Oct. 16, 2008, 122 Stat. 4894; amended Pub. L. 114–94, div. A, title XI, §11316(a), Dec. 4, 2015, 129 Stat. 1676; Pub. L. 115–254, div. C, §1109(d), Oct. 5, 2018, 132 Stat. 3435.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–254, §1109(d)(1), substituted "resulting in any loss of life, and for which the National Transportation Safety Board will serve as the lead investigative agency" for "resulting in a major loss of life" in introductory provisions.
@@ -159,6 +161,8 @@ Subsec. (h)(1). Pub. L. 115–254, §1109(d)(2), amended par. (1) generally. Pri
 Subsec. (a)(2). Pub. L. 114–94, §11316(a)(2), substituted "post-trauma communication with families" for "post trauma communication with families".
 
 Subsec. (j). Pub. L. 114–94, §11316(a)(3), substituted "rail passenger accident" for "railroad passenger accident" in pars. (1) and (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 
@@ -182,9 +186,9 @@ Model Plan and Recommendations.—The task force established pursuant to subsect
 
 &emsp;"(3) recommendations on methods to ensure that the families of passengers involved in a passenger rail accident who are not citizens of the United States receive appropriate assistance; and
 
-&emsp;"(4) recommendations on methods to ensure that emergency services personnel have as immediate andaccurate a count of the number of passengers onboard the train as possible.
+&emsp;"(4) recommendations on methods to ensure that emergency services personnel have as immediate and accurate a count of the number of passengers onboard the train as possible.
 
 "(c)
 
-Report.—Not later than 1 year after the date of the enactment of this Act \[Oct. 16, 2008\], the Secretary shall transmit a report to the House of Representatives Committee on Transportation and Infrastructure and the Senate Committee on Commerce, Science, and Transportation containing the model plan and recommendations developed by the task force under subsection (b)."
+Report.—Not later than 1 year after the date of the enactment of this Act \[Oct. 16, 2008\], the Secretary shall transmit a report to the House of RepresentativesCommittee on Transportation and Infrastructure and the Senate Committee on Commerce, Science, and Transportation containing the model plan and recommendations developed by the task force under subsection (b)."
 

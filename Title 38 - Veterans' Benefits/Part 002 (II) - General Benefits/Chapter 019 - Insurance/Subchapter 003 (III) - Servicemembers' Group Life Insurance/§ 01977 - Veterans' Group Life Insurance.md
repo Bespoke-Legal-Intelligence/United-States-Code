@@ -28,7 +28,7 @@
 
 (3) For the purpose of this subsection, the terms "Individual Ready Reserve" and "Inactive National Guard" shall have the meanings prescribed by the Secretary in consultation with the Secretary of Defense.
 
-(Added Pub. L. 93–289, §9(a), May 24, 1974, 88 Stat. 169, §777; amended Pub. L. 97–66, title IV, §401(b), Oct. 17, 1981, 95 Stat. 1031; Pub. L. 99–166,title IV, §401(b), Dec. 3, 1985, 99 Stat. 957; Pub. L. 99–576, title VII, §701(43), Oct. 28, 1986, 100 Stat. 3294; Pub. L. 102–25, title III, §336(b), Apr. 6, 1991, 105 Stat. 90; renumbered §1977 and amended Pub. L. 102–83, §§4(a)(2)(B)(iii), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 102–568, title II, §202, Oct. 29, 1992, 106 Stat. 4324; Pub. L. 103–446, title XII, §1201(e)(9), Nov. 2, 1994, 108 Stat. 4685; Pub. L. 104–275, title IV, §§403(b), 405(b)(1)(H), 406, Oct. 9, 1996, 110 Stat. 3338–3340; Pub. L. 106–419, title III, §312(b), Nov. 1, 2000, 114 Stat. 1854; Pub. L. 109–13, div. A, title I, §1012(e), May 11, 2005, 119 Stat. 245; Pub. L. 109–80, §§2, 3(b), Sept. 30, 2005, 119 Stat. 2045; Pub. L. 111–275, title IV, §404(a), Oct. 13, 2010, 124 Stat. 2879.)
+(Added Pub. L. 93–289, §9(a), May 24, 1974, 88 Stat. 169, §777; amended Pub. L. 97–66, title IV, §401(b), Oct. 17, 1981, 95 Stat. 1031; Pub. L. 99–166, title IV, §401(b), Dec. 3, 1985, 99 Stat. 957; Pub. L. 99–576, title VII, §701(43), Oct. 28, 1986, 100 Stat. 3294; Pub. L. 102–25, title III, §336(b), Apr. 6, 1991, 105 Stat. 90; renumbered §1977 and amended Pub. L. 102–83, §§4(a)(2)(B)(iii), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 102–568, title II, §202, Oct. 29, 1992, 106 Stat. 4324; Pub. L. 103–446, title XII, §1201(e)(9), Nov. 2, 1994, 108 Stat. 4685; Pub. L. 104–275, title IV, §§403(b), 405(b)(1)(H), 406, Oct. 9, 1996, 110 Stat. 3338–3340; Pub. L. 106–419, title III, §312(b), Nov. 1, 2000, 114 Stat. 1854; Pub. L. 109–13, div. A, title I, §1012(e), May 11, 2005, 119 Stat. 245; Pub. L. 109–80, §§2, 3(b), Sept. 30, 2005, 119 Stat. 2045; Pub. L. 111–275, title IV, §404(a), Oct. 13, 2010, 124 Stat. 2879.)
 
 #### <b>Editorial Notes</b>
 
@@ -38,7 +38,7 @@
 
 Subsec. (a)(3). Pub. L. 111–275, §404(a)(2), added par. (3).
 
-<b>2005</b>—Subsec. (a)(1). Pub. L. 109–80, §3(b)(1), substituted "at any one time in excess of the maximum amount for Servicemembers' Group Life Insurance in effect under section 1967(a)(3)(A)(i) of this title" for "in excess of $250,000 at any one time".
+<b>2005</b>—Subsec. (a)(1). Pub. L. 109–80, §3(b)(1), substituted "at any one time in excess of the maximumamount for Servicemembers' Group Life Insurance in effect under section 1967(a)(3)(A)(i) of this title" for "in excess of $250,000 at any one time".
 
 Pub. L. 109–13, §1012(e), which directed substitution of "$400,000" for "$250,000" and insertion of "Any additional amount of insurance provided a member under section 1967(e) of this title may not be treated as an amount for which Veterans' Group Life Insurance shall be issued under this section." at end, was repealed by Pub. L. 109–80, §2. See Effective and Termination Dates of 2005 Amendments note below.
 
@@ -118,7 +118,7 @@ Subsec. (h). Pub. L. 99–166, §401(b)(2), added subsec. (h).
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–275, title IV, §404(b), Oct. 13, 2010, 124 Stat. 2880, provided that: "Paragraph (3) of section 1977(a) of title 38, United States Code, as added by subsection (a), shall take effect on the date that is 180 days after the date of the enactment of this Act \[Oct. 13, 2010\]."
+Pub. L. 111–275, title IV, §404(b), Oct. 13, 2010, 124 Stat. 2880, provided that: "Paragraph (3) of section 1977(a) oftitle 38, United States Code, as added by subsection (a), shall take effect on the date that is 180 days after the date of the enactment of this Act \[Oct. 13, 2010\]."
 
 #### Effective and Termination Dates of 2005 Amendments
 

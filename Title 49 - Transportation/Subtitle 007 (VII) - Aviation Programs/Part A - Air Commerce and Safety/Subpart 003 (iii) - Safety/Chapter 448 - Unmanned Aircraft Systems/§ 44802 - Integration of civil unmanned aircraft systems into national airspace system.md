@@ -72,9 +72,13 @@ Rulemaking.—Not later than 18 months after the date on which the plan required
 
 (Added Pub. L. 115–254, div. B, title III, §341(a), Oct. 5, 2018, 132 Stat. 3285.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 332(a) and (b) of Pub. L. 112–95, which was set out in a note under section 40101 of this title, prior to repeal by Pub. L. 115–254, div. B, title III, §341(b)(2), Oct. 5, 2018, 132 Stat. 3287. The dates in subsec. (a)(1) and (3) to (5) reflect those enacted by Pub. L. 112–95, which all precede the date of the enactment of this section by Pub. L. 115–254. The remainder of the note comprised of subtitle B of title III of Pub. L. 112–95 was transferred and is set out below.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Drone Advisory Committee for the 21st Century
 
@@ -250,7 +254,7 @@ Implementation.—The Secretary shall use the data collected and experience gain
 
 &emsp;"(3) inform operational standards and procedures to improve safety (for example, detect and avoid capabilities, navigation and altitude performance, and command and control link);
 
-&emsp;"(4) inform FAA standards that reduce the need for waivers (for example, for operations over humanbeings, night operations, and beyond visual line of sight); and
+&emsp;"(4) inform FAA standards that reduce the need for waivers (for example, for operations over human beings, night operations, and beyond visual line of sight); and
 
 &emsp;"(5) address competing interests regarding UAS operational expansion, safety, security, roles and responsibilities of non-Federal Government entities, and privacy issues.
 
@@ -352,7 +356,7 @@ Completion of UTM System Pilot Program.—The Administrator shall ensure that th
 
 &emsp;"(1) In cooperation with the National Aeronautics and Space Administration and manned and unmanned aircraft industry stakeholders, allow testing of unmanned aircraft operations, of increasing volumes and density, in airspace above test ranges, as such term is defined in section 44801 of title 49, United States Code, as well as other sites determined by the Administrator to be suitable for UTM testing, including those locations selected under the pilot program required in the October 25, 2017, Presidential Memorandum entitled, 'Unmanned Aircraft Systems Integration Pilot Program' and described in 82 Federal Register 50301 \[set out below\].
 
-&emsp;"(2) Permit the testing of various remote identification and tracking technologies evaluated by theUnmanned Aircraft Systems Identification and Tracking Aviation Rulemaking Committee.
+&emsp;"(2) Permit the testing of various remote identification and tracking technologies evaluated by the Unmanned Aircraft Systems Identification and Tracking Aviation Rulemaking Committee.
 
 &emsp;"(3) Where the particular operational environment permits, permit blanket waiver authority to allow any unmanned aircraft approved by a UTM system pilot program selectee to be operated under conditions currently requiring a case-by-case waiver under part 107, title 14, Code of Federal Regulations, provided that any blanket waiver addresses risks to airborne objects as well as persons and property on the ground.
 
@@ -582,7 +586,7 @@ FAA Modernization and Reform Act.—\[Amended section 331 of Pub. L. 112–95, s
 
 "(a)
 
-In General.—The Administrator of the Federal Aviation Administration, in consultation with the Secretary of Transportation, the President of RTCA, Inc., and the Director of the National Institute of Standards and Technology, shall convene industry stakeholders to facilitate the development of consensus standards forremotely identifying operators and owners of unmanned aircraft systems and associated unmanned aircraft.
+In General.—The Administrator of the Federal Aviation Administration, in consultation with the Secretary of Transportation, the President of RTCA, Inc., and the Director of the National Institute of Standards and Technology, shall convene industry stakeholders to facilitate the development of consensus standards for remotely identifying operators and owners of unmanned aircraft systems and associated unmanned aircraft.
 
 "(b)
 
@@ -632,7 +636,7 @@ Requirements.—A safety statement required under subsection (a) shall include�
 
 &emsp;&emsp;&emsp;"(ii) The definition of a model aircraft under \[former\] section 336 of the FAA Modernization and Reform Act of 2012 (\[former\] 49 U.S.C. 40101 note).
 
-&emsp;&emsp;&emsp;"(iii) The requirements regarding the operation of a model aircraft under \[former\] section 336 of the FAA Modernization and Reform Act of 2012 (\[former\] 49 U.S.C. 40101 note).
+&emsp;&emsp;&emsp;"(iii) The requirements regarding the operation of a model aircraft under \[former\] section 336 ofthe FAA Modernization and Reform Act of 2012 (\[former\] 49 U.S.C. 40101 note).
 
 &emsp;&emsp;&emsp;"(iv) The Administrator may pursue enforcement action against a person operating model aircraft who endangers the safety of the national airspace system.
 
@@ -1002,7 +1006,7 @@ Certificate of waiver; certificate of authorization.—The terms 'certificate of
 
 &emsp;"(3)
 
-Permanent areas.—The term 'permanent areas' means areas on land or water that provide for launch, recovery, and operation of small unmanned aircraft.
+Permanent areas.—The term 'permanent areas' means areas on land or water that provide forlaunch, recovery, and operation of small unmanned aircraft.
 
 &emsp;"(4)
 
@@ -1166,7 +1170,7 @@ Sec. 2. <i>Multi-stakeholder Engagement Process</i>. In addition to the Federal 
 
 (a) There is hereby established a multi-stakeholder engagement process to develop and communicate best practices for privacy, accountability, and transparency issues regarding commercial and private UAS use in the NAS. The process will include stakeholders from the private sector.
 
-(b) Within 90 days of the date of this memorandum, the Department of Commerce, through the National Telecommunications and Information Administration, and in consultation with other interested agencies, will initiate this multi-stakeholder engagement process to develop a framework regarding privacy, accountability, and transparency for commercial and private UAS use. For this process, commercial and private use includes the use of UAS for commercial purposes as civil aircraft, even if the use would qualify a UAS as a public aircraft under 49 U.S.C. 40102(a)(41) and 40125. The process shall not focus on law enforcement or other noncommercial governmental use.
+(b) Within 90 days of the date of this memorandum, the Department of Commerce, through the National Telecommunications and Information Administration,and in consultation with other interested agencies, will initiate this multi-stakeholder engagement process to develop a framework regarding privacy, accountability, and transparency for commercial and private UAS use. For this process, commercial and private use includes the use of UAS for commercial purposes as civil aircraft, even if the use would qualify a UAS as a public aircraft under 49 U.S.C. 40102(a)(41) and 40125. The process shall not focus on law enforcement or other noncommercial governmental use.
 
 Sec. 3. <i>Definitions</i>. As used in this memorandum:
 
@@ -1206,7 +1210,7 @@ Memorandum for the Secretary of Transportation
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. It shall be the policy of the United States to promote the safe operation of unmanned aircraft systems (UAS) and enable the development of UAS technologies for use in agriculture, commerce, emergency management, human transportation, and other sectors. Compared to manned aircraft, UAS provide novel, low-cost capabilities for both public and private applications. UAS present opportunities to enhance the safety of the American public, increase theefficiency and productivity of American industry, and create tens of thousands of new American jobs.
+Section 1. <i>Policy</i>. It shall be the policy of the United States to promote the safe operation of unmanned aircraft systems (UAS) and enable the development of UAS technologies for use in agriculture, commerce, emergency management, human transportation, and other sectors. Compared to manned aircraft, UAS provide novel, low-cost capabilities for both public and private applications. UAS present opportunities to enhance the safety of the American public, increase the efficiency and productivity of American industry, and create tens of thousands of new American jobs.
 
 The private sector has rapidly advanced UAS capabilities to address the needs of recreational, commercial, and public users. To promote continued technological innovation and to ensure the global leadership of the United States in this emerging industry, the regulatory framework for UAS operations must be sufficiently flexible to keep pace with the advancement of UAS technology, while balancing the vital Federal roles in protecting privacy and civil liberties; mitigating risks to national security and homeland security; and protecting the safety of the American public, critical infrastructure, and the Nation's airspace. Well-coordinated integration of UAS into the national airspace system (NAS) alongside manned aircraft will increase the safety of the NAS and enable the authorization of more complex UAS operations.
 
@@ -1228,7 +1232,7 @@ Sec. 3. <i>Implementation</i>. (a) To implement the Program, the Secretary or th
 
 (ii) select proposals by State, local, and tribal governments for participation in the Program according to the criteria listed in subsection (b) of this section;
 
-(iii) enter into agreements with the selected governments to establish the terms of their involvement in UAS operations within their jurisdictions, including their support for Federal enforcement responsibilities; describe the proposed UAS operations to be conducted; and identify the entities that will conduct such operations, including, if applicable, the governments themselves; and
+(iii) enter into agreements with the selected governments to establish the terms of their involvement in UAS operations within their jurisdictions, includingtheir support for Federal enforcement responsibilities; describe the proposed UAS operations to be conducted; and identify the entities that will conduct such operations, including, if applicable, the governments themselves; and
 
 (iv) as necessary, use existing authorities to grant exceptions, exemptions, authorizations, and waivers from FAA regulations to the entities identified in the agreements described in subsection (iii) of this section \[sic\], including through the issuance of waivers under 14 CFR Part 107 and Certificates of Waiver or Authorization under \[former\] section 333 of the FAA Modernization and Reform Act of 2012 (FMRA) (Public Law 112–95) \[see note above\].
 
@@ -1278,7 +1282,7 @@ Sec. 4. <i>Coordination</i>. (a) The Administrator, in coordination with the Adm
 
 (ii) monitor compliance with relevant laws and regulations to ensure that Program activities do not interfere with national defense, homeland security, or law enforcement operations and missions.
 
-(c) The heads of executive departments and agencies with relevant law enforcement responsibilities (Federallaw enforcement agencies), including the Attorney General and the Secretary of Homeland Security, shall develop and implement best practices to enforce the laws and regulations governing UAS operations conducted under the Program.
+(c) The heads of executive departments and agencies with relevant law enforcement responsibilities (Federal law enforcement agencies), including the Attorney General and the Secretary of Homeland Security, shall develop and implement best practices to enforce the laws and regulations governing UAS operations conducted under the Program.
 
 (d) In carrying out the responsibilities set forth in subsection (c) of this section, the heads of Federal law enforcement agencies shall coordinate with the Secretaries of Defense and Transportation, as well as with the relevant State, local, or tribal law enforcement agencies.
 

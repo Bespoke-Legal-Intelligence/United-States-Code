@@ -42,5 +42,5 @@ Subsection (d) of this section shall not take effect until October 1, 1986.
 
 #### Funding
 
-Pub. L. 102–511, title VIII, §804(b), Oct. 24, 1992, 106 Stat. 3353, provided that: "In addition to the funds made available pursuant to section 1005(c) of that Act\[22 U.S.C. 4904(c)\], funds authorized to be appropriated by chapter 11 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2295 et seq.\] may be used in carrying out the amendment made by subsection (a) \[amending this section\] with respect to missions in the independent states of the former Soviet Union."
+Pub. L. 102–511, title VIII, §804(b), Oct. 24, 1992, 106 Stat. 3353, provided that: "In addition to the funds made available pursuant to section 1005(c) of that Act \[22 U.S.C. 4904(c)\], funds authorized to be appropriated by chapter 11 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2295 et seq.\] may be used in carrying out the amendment made by subsection (a) \[amending this section\] with respect to missions in the independent states of the former Soviet Union."
 

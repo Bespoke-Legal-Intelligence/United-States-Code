@@ -24,7 +24,7 @@
 
 <b>1986</b>—Subsec. (a)(1). Pub. L. 99–605, §2(a), (b)(1), substituted "for each of fiscal years 1987 and 1988" for "for fiscal year 1983", and "(2) through (5)" for "(2) and (3)".
 
-Subsec. (a)(2). Pub. L. 99–605, §2(b)(2), amended par. (2) generally, substituting "1987 $74,783,000 and for fiscal year 1988 $77,924,000" for "1983 $100,000,000", and "1522(c)(1)" for "1522(c)".
+Subsec. (a)(2). Pub. L. 99–605, §2(b)(2), amended par. (2) generally, substituting "1987 $74,783,000 and for fiscalyear 1988 $77,924,000" for "1983 $100,000,000", and "1522(c)(1)" for "1522(c)".
 
 Subsec. (a)(3). Pub. L. 99–605, §2(b)(2), amended par. (3) generally, substituting "1987 $8,761,000 and for fiscal year 1988 $9,125,000" for "1983 $14,000,000".
 

@@ -26,6 +26,8 @@ Duties.—The Vice Chief of the National Guard Bureau performs such duties as ma
 
 (Added Pub. L. 103–337, div. A, title IX, §904(a), Oct. 5, 1994, 108 Stat. 2826; amended Pub. L. 108–375, div. A, title V, §§507(c), 508(a)–(b)(3), (c)(1), Oct. 28, 2004, 118 Stat. 1876, 1877; Pub. L. 112–81, div. A, title V, §511(b), (c)(1), (d)(1), Dec. 31, 2011, 125 Stat. 1392, 1393; Pub. L. 114–328, div. A, title V, §§502(rr), 511, Dec. 23, 2016, 130 Stat. 2106, 2112.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Subsec. (a)(1)(E). Pub. L. 114–328, §502(rr)(1), struck out subpar. (E) which read as follows: "are in a grade above the grade of brigadier general."
@@ -66,6 +68,8 @@ Subsecs. (b), (c). Pub. L. 108–375, §508(b)(1), substituted "Director of the 
 
 Subsecs. (d), (e). Pub. L. 108–375, §507(c), struck out subsecs. (d) and (e) which related to functions as acting Chief and succession after Chief and Vice Chief, respectively.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Pub. L. 112–81, div. A, title V, §511(c)(3), Dec. 31, 2011, 125 Stat. 1393, provided that: "Any reference in any law, regulation, document, paper, or other record of the United States to the Director of the Joint Staff of the National Guard Bureau shall be deemed to be a reference to the Vice Chief of the National Guard Bureau."
@@ -78,5 +82,5 @@ Section effective at end of 90-day period beginning on Oct. 5, 1994, see section
 
 #### Treatment of Current Director of the Joint Staff of the National Guard Bureau
 
-Pub. L. 112–81, div. A, title V, §511(e), Dec. 31, 2011, 125 Stat. 1393, provided that: "The officer who is serving asDirector of the Joint Staff of the National Guard Bureau on the date of the enactment of this Act \[Dec. 31, 2011\] shall serve, in the grade of major general, as acting Vice Chief of the National Guard Bureau until the appointment of a Vice Chief of the National Guard Bureau in accordance with subsection (a) of section 10505 of title 10, United States Code, as amended by subsection (b). Notwithstanding the amendment made by subsection (b)(3) \[amending this section\], the acting Vice Chief of the National Guard Bureau shall not be excluded from the limitations in section 526(a) of such title."
+Pub. L. 112–81, div. A, title V, §511(e), Dec. 31, 2011, 125 Stat. 1393, provided that: "The officer who is serving as Director of the Joint Staff of the National Guard Bureau on the date of the enactment of this Act \[Dec. 31, 2011\] shall serve, in the grade of major general, as acting Vice Chief of the National Guard Bureau until the appointment of a Vice Chief of the National Guard Bureau in accordance with subsection (a) of section 10505 of title 10, United States Code, as amended by subsection (b). Notwithstanding the amendment made by subsection (b)(3) \[amending this section\], the acting Vice Chief of the National Guard Bureau shall not be excluded from the limitations in section 526(a) of such title."
 

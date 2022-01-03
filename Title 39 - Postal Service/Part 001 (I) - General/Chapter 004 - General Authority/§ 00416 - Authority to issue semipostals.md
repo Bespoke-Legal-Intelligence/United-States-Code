@@ -70,7 +70,7 @@ In general.—Except as provided in subsection (c), the Postal Service shall pre
 
 &emsp;(2)
 
-Notice and comment.—Before any regulation is issued under this section, a copy of the proposed regulation shall be published in the Federal Register, and an opportunity shall beprovided for interested parties to present written and, where practicable, oral comment. All regulations necessary to carry out this section shall be issued not later than 30 days before the date on which semipostals are first made available to the public under this section.
+Notice and comment.—Before any regulation is issued under this section, a copy of the proposed regulation shall be published in the Federal Register, and an opportunity shall be provided for interested parties to present written and, where practicable, oral comment. All regulations necessary to carry out this section shall be issued not later than 30 days before the date on which semipostals are first made available to the public under this section.
 
 (f)
 

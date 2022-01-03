@@ -46,13 +46,15 @@ In subsection (a), the words "of a department, agency, or instrumentality of the
 
 In subsection (b), the text of 49 App.:1343(c) (words before proviso) is omitted as obsolete. The words "Secretary of Defense" are substituted for "Department of Defense" because of 10:133(a). The words "prior to enactment of such proposed legislation" are omitted as obsolete because the legislation was not enacted. The word "appropriate" is omitted as surplus. The words "of the Administration to the Department of Defense" are added for clarity.
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 10786. Transfer of Functions of the Airways Modernization Board to the Administrator
 
 Ex. Ord. No. 10786, Nov. 1, 1958, 23 F.R. 8573, provided:
 
 Section 1. All functions (including powers, duties, activities, and parts of functions) of the Airways Modernization Board, including those of the Chairman thereof, are hereby transferred to the Administrator of the Federal Aviation Agency; and all records, property, facilities, employees, and unexpended balances of appropriations, allocations, and other funds of the Airways Modernization Board, are hereby transferred to the Federal Aviation Agency \[now Federal Aviation Administration\].
 
-Sec. 2. Such further measures and dispositions, if any, as the Director of the Bureau of the Budget \[now the Office of Management and Budget\] shall determine to be necessary in connection with the transfers provided for hereinabove in respect of records, property, facilities, employees, and balances shall be carried outin such manner as he shall direct and by such agencies as he shall designate.
+Sec. 2. Such further measures and dispositions, if any, as the Director of the Bureau of the Budget \[now the Office of Management and Budget\] shall determine to be necessary in connection with the transfers provided for hereinabove in respect of records, property, facilities, employees, and balances shall be carried out in such manner as he shall direct and by such agencies as he shall designate.
 
 Sec. 3. The provisions of this order shall become effective concurrently with the entering upon office as Administrator of the Federal Aviation Agency \[now Federal Aviation Administration\] of the first person appointed as Administrator. The functions transferred by section 1 hereof may be performed by the Administrator until the effective date of the repeal \[Aug. 23, 1958\] of the Airways Modernization Act of 1957 \[former 49 U.S.C. 1211 et seq.\] effected by section 1401(d) of the Federal Aviation Act of 1958 \[Pub. L. 85–726\].
 
@@ -88,7 +90,7 @@ Sec. 3. (a) To the extent necessitated by transfers of functions effected under 
 
 (b) Neither this order nor the said Executive Order No. 10797 shall be deemed to require or authorize the transfer of any civilian or military personnel from the Department of Defense to the Federal Aviation Administration, under authority of the said Section 304 \[see 49 U.S.C. 40107(a)\], in connection with transfers of functions effected under the provisions of Section 1 of this order.
 
-Sec. 4. (a) In order to facilitate the orderly and timely accomplishment of the transfers and other arrangements mentioned in Section 3(a) of this order, the Secretary of Defense and the Administrator of the Federal Aviation Administration shall transmit to the Director of the Office of Management and Budget, not less than 30 days prior to the execution by them of any order or other transfer instrument in pursuance of the provisions of Section 1 of this order, all appropriate information in respect to any transfers or other arrangements proposed to be made in connection therewith under the provisions of Section 3 hereof, together with copy of the order or other transfer instrument proposed to be executed by them.
+Sec. 4. (a) In order to facilitate the orderly and timely accomplishment of the transfers and other arrangements mentioned in Section 3(a) of this order, the Secretary of Defense and the Administrator of the Federal Aviation Administration shall transmit to the Director of the Office of Management and Budget, not less than 30 days prior to the execution by them of any order or other transfer instrument in pursuance of the provisions of Section 1 of this order, all appropriate information in respect to any transfers or other arrangementsproposed to be made in connection therewith under the provisions of Section 3 hereof, together with copy of the order or other transfer instrument proposed to be executed by them.
 
 (b) In connection with any particular action or actions under Section 1 of this order, the Director of the Office of Management and Budget may either waive the requirements of Section 4(a), above, or reduce the 30 day period there prescribed.
 
@@ -100,7 +102,7 @@ WHEREAS Section 302(e) of the Federal Aviation Act of 1958 \[see 49 U.S.C. 40107
 
 WHEREAS it appears that the defense of the United States would require the transfer of the Federal Aviation Administration to the Department of Defense in the event of war; and
 
-WHEREAS if any such transfer were to be made it would be essential to the defense of the United Statesthat the transition be accomplished promptly and with maximum ease and effectiveness; and
+WHEREAS if any such transfer were to be made it would be essential to the defense of the United States that the transition be accomplished promptly and with maximum ease and effectiveness; and
 
 WHEREAS these objectives require that the relationships that would obtain in the event of such a transfer as between the Federal Aviation Administration and the Department of Defense be understood in advance by the two agencies concerned and be developed in necessary detail by them in advance of transfer:
 

@@ -78,7 +78,7 @@ The Secretary shall, by regulation, prescribe the terms and conditions under whi
 
 #### (B) Use
 
-&emsp;&emsp;A grant under this paragraph shall not exceed an amount that the Secretary determines to equal the customary and reasonable costs incurred in preparing an application for a loan under section 1472, 1474, 1484, 1485, or 1490d of this title, or a grant under section 1490m of this title (including preapplication planning, site analysis, market analysis, and other necessary technical assistance). The Secretary shall adjust the loan or grant amount under such sections to take account of project preparation costs that have been paid from grant proceeds under this paragraph and that normallywould be reimbursed with proceeds of the loan or grant.
+&emsp;&emsp;A grant under this paragraph shall not exceed an amount that the Secretary determines to equal the customary and reasonable costs incurred in preparing an application for a loan under section 1472, 1474, 1484, 1485, or 1490d of this title, or a grant under section 1490m of this title (including preapplication planning, site analysis, market analysis, and other necessary technical assistance). The Secretary shall adjust the loan or grant amount under such sections to take account of project preparation costs that have been paid from grant proceeds under this paragraph and that normally would be reimbursed with proceeds of the loan or grant.
 
 #### (C) Approval
 
@@ -116,6 +116,8 @@ The Secretary shall, by regulation, prescribe the terms and conditions under whi
 
 (July 15, 1949, ch. 338, title V, §509, 63 Stat. 436; Pub. L. 95–128, title V, §504, Oct. 12, 1977, 91 Stat. 1139; Pub. L. 96–153, title V, §508, Dec. 21, 1979, 93 Stat. 1136; Pub. L. 98–181, title I \[title V, §506(a)\], Nov. 30, 1983, 97 Stat. 1242; Pub. L. 101–625, title VII, §§708, 709(b), Nov. 28, 1990, 104 Stat. 4287, 4288; Pub. L. 102–550, title VII, §705, Oct. 28, 1992, 106 Stat. 3835; Pub. L. 104–120, §4(a), Mar. 28, 1996, 110 Stat. 835; Pub. L. 104–180, title VII, §734(b), Aug. 6, 1996, 110 Stat. 1602; Pub. L. 105–86, title VII, §735(a), Nov. 18, 1997, 111 Stat. 2110; Pub. L. 105–276, title V, §599C(a), (e)(2)(B), Oct. 21, 1998, 112 Stat. 2661, 2662.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The National Housing Act, referred to in subsec. (a), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Title II of the National Housing Act is classified principally to subchapter II (§1707 et seq.) of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
@@ -150,6 +152,8 @@ Subsec. (f). Pub. L. 101–625, §709(b), added subsec. (f).
 
 <b>1977</b>—Subsecs. (c), (d). Pub. L. 95–128 added subsecs. (c) and (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–120 to be construed to have become effective Oct. 1, 1995, see section 13(a) of Pub. L. 104–120, set out as an Effective and Termination Dates of 1996 Amendments note under section 1437d of this title.
@@ -160,7 +164,7 @@ Pub. L. 101–625, title VII, §709(c), Nov. 28, 1990, 104 Stat. 4290, provided 
 
 #### Housing in Underserved Areas
 
-Pub. L. 101–625, title VII, §709(a), Nov. 28, 1990, 104 Stat. 4288, provided that: "The purpose of this section \[amending this section and enacting provisions set out above\] is to improve the quality of affordable housing in communities that have extremely high concentrations of poverty and substandard housing and that have been underserved by rural housing programs, including extremely distressed areas in the Lower Mississippi Delta and other regions of the Nation, by directing Farmers Home Administration assistance toward designated underserved areas."
+Pub. L. 101–625, title VII, §709(a), Nov. 28, 1990, 104 Stat. 4288, provided that: "The purpose of this section \[amending this section and enacting provisions set out above\] is to improve the quality of affordable housing in communities that have extremely high concentrations of poverty and substandard housing and that have been underserved by rural housing programs, including extremely distressed areas in the Lower Mississippi Delta and other regions of the Nation, by directingFarmers Home Administration assistance toward designated underserved areas."
 
 #### Exemptions of Existing Dwellings From Living Area Limitations; Authority of District Offices of Farmers' Home Administration
 

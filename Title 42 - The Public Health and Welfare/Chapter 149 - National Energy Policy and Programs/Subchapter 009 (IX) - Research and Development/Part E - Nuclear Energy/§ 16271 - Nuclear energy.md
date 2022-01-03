@@ -54,9 +54,11 @@ In this part:
 
 &emsp;&emsp;&emsp;(x) modular sizes to allow for deployment that corresponds with the demand for electricity or process heat; and
 
-&emsp;&emsp;&emsp;(xi) operational flexibility to respond to changes in demand for electricity or process heat and to complement integration with intermittent renewable energy or energy storage; and
+&emsp;&emsp;&emsp;(xi) operational flexibility to respond to changes in demand for electricity or process heat and to complement integration with intermittent renewable energy or energy storage;
 
-&emsp;&emsp;(B) a fusion reactor.
+&emsp;&emsp;(B) a fusion reactor; and
+
+&emsp;&emsp;(C) a radioisotope power system that utilizes heat from radioactive decay to generate energy.
 
 #### (2) Commission
 
@@ -88,11 +90,21 @@ In this part:
 
 &emsp;&emsp;(B) testing of advanced materials, nuclear fuels, and other related components for reactor systems.
 
-(Pub. L. 109–58, title IX, §951, Aug. 8, 2005, 119 Stat. 884; Pub. L. 115–248, §2(a), Sept. 28, 2018, 132 Stat. 3154; Pub. L. 116–260, div. Z, title II, §2002, Dec. 27, 2020, 134 Stat. 2459.)
+(Pub. L. 109–58, title IX, §951, Aug. 8, 2005, 119 Stat. 884; Pub. L. 115–248, §2(a), Sept. 28, 2018, 132 Stat. 3154; Pub. L. 116–260, div. Z, title II, §2002, Dec. 27, 2020, 134 Stat. 2459; Pub. L. 117–58, div. D, title X, §41002(b)(1), Nov. 15, 2021, 135 Stat. 1127.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (b)(1)(C). Pub. L. 117–58 added subpar. (C).
 
 <b>2020</b>—Subsec. (b)(1). Pub. L. 116–260 amended par. (1) generally. Prior to amendment, par. (1) defined the term "advanced nuclear reactor".
 
 <b>2018</b>—Pub. L. 115–248 amended section generally. Prior to amendment, section related to civilian nuclear energy research programs and authorizations of appropriations to carry out such programs.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Wage Rate Requirements
+
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of this title.
 

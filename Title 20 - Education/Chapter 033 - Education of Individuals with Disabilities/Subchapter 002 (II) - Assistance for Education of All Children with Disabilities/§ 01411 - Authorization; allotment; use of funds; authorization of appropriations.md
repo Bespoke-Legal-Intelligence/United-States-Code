@@ -42,7 +42,7 @@
 
 #### (A) Funds reserved
 
-&emsp;&emsp;From the amount appropriated for any fiscal year under subsection (i), the Secretaryshall reserve not more than 1 percent, which shall be used—
+&emsp;&emsp;From the amount appropriated for any fiscal year under subsection (i), the Secretary shall reserve not more than 1 percent, which shall be used—
 
 &emsp;&emsp;&emsp;(i) to provide assistance to the outlying areas in accordance with their respective populations of individuals aged 3 through 21; and
 
@@ -98,7 +98,7 @@
 
 #### (ii) Data
 
-&emsp;&emsp;&emsp;For the purpose of making grants under this paragraph, the Secretary shall use the most recent population data, including data on children living in poverty, that are available and satisfactory to the Secretary.
+&emsp;&emsp;&emsp;For the purpose of making grants under this paragraph, the Secretary shall use themost recent population data, including data on children living in poverty, that are available and satisfactory to the Secretary.
 
 #### (B) Limitations
 
@@ -188,7 +188,7 @@
 
 #### (C) Certification
 
-&emsp;&emsp;Prior to expenditure of funds under this paragraph, the State shall certify to the Secretary that the arrangements to establish responsibility for services pursuant to section 1412(a)(12)(A) of this title are current.
+&emsp;&emsp;Prior to expenditure of funds under this paragraph, the State shall certify to theSecretary that the arrangements to establish responsibility for services pursuant to section 1412(a)(12)(A) of this title are current.
 
 #### (D) Subchapter III
 
@@ -200,7 +200,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (iii), for the purpose of carrying out State-level activities, each State may reserve for each of the fiscal years 2005 and 2006 not more than 10 percent from the amount of the State's allocation under subsection (d) for each of the fiscal years 2005 and 2006, respectively. For fiscal year 2007 and each subsequent fiscal year, the State may reserve the maximum amount the State was eligible to reserve under the preceding sentence for fiscal year 2006 (cumulatively adjusted by the rate of inflation as measuredby the percentage increase, if any, from the preceding fiscal year in the Consumer Price Index For All Urban Consumers, published by the Bureau of Labor Statistics of the Department of Labor).
+&emsp;&emsp;&emsp;Except as provided in clause (iii), for the purpose of carrying out State-level activities, each State may reserve for each of the fiscal years 2005 and 2006 not more than 10 percent from the amount of the State's allocation under subsection (d) for each of the fiscal years 2005 and 2006, respectively. For fiscal year 2007 and each subsequent fiscal year, the State may reserve the maximum amount the State was eligible to reserve under the preceding sentence for fiscal year 2006 (cumulatively adjusted by the rate of inflation as measured by the percentage increase, if any, from the preceding fiscal year in the Consumer Price Index For All Urban Consumers, published by the Bureau of Labor Statistics of the Department of Labor).
 
 #### (ii) Small State adjustment
 
@@ -246,7 +246,7 @@
 
 &emsp;&emsp;&emsp;(x) To support the development and provision of appropriate accommodations for children with disabilities, or the development and provision of alternate assessments that are valid and reliable for assessing the performance of children with disabilities, in accordance with sections 6311(b) and 6361 of this title.
 
-&emsp;&emsp;&emsp;(xi) To provide technical assistance to schools and local educational agencies, and direct services, including direct student services described in section 6303b(c)(3) of this title to children with disabilities, to schools or local educational agencies implementing comprehensive support and improvement activities or targeted support and improvement activities under section 6311(d) of this title on the basis of consistent underperformance of the disaggregated subgroup of children with disabilities, including providing professional development to special and regular education teachers, who teach children with disabilities, based on scientifically based research to improve educational instruction, in order to improve academic achievement based on the challenging academic standards described in section 6311(b)(1) of this title.
+&emsp;&emsp;&emsp;(xi) To provide technical assistance to schools and local educational agencies, and direct services, including direct student services described in section 6303b(c)(3) of this title to children with disabilities, to schools or local educational agencies implementing comprehensive support and improvement activities or targeted support and improvement activitiesunder section 6311(d) of this title on the basis of consistent underperformance of the disaggregated subgroup of children with disabilities, including providing professional development to special and regular education teachers, who teach children with disabilities, based on scientifically based research to improve educational instruction, in order to improve academic achievement based on the challenging academic standards described in section 6311(b)(1) of this title.
 
 #### (3) Local educational agency risk pool
 
@@ -524,6 +524,8 @@ For the purpose of carrying out this subchapter, other than section 1419 of this
 
 (Pub. L. 91–230, title VI, §611, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2662; amended Pub. L. 114–95, title IX, §9215(ss)(2), Dec. 10, 2015, 129 Stat. 2181.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Public Law 95–134, referred to in subsec. (b)(1)(B), is Pub. L. 95–134, Oct. 15, 1977, 91 Stat. 1159, as amended. Provisions relating to consolidation of grants are contained in section 501 of Pub. L. 95–134 which is classified to section 1469a of Title 48, Territories and Insular Possessions.
@@ -543,6 +545,8 @@ Another prior section 1411, Pub. L. 91–230, title VI, §611, Apr. 13, 1970, 84
 Subsec. (e)(2)(C)(xi). Pub. L. 114–95, §9215(ss)(2)(A)(ii), substituted "including direct student services described in section 6303b(c)(3) of this title to children with disabilities, to schools or local educational agencies implementing comprehensive support and improvement activities or targeted support and improvement activities under section 6311(d) of this title on the basis of consistent underperformance of the disaggregated subgroup of children with disabilities" for "including supplemental educational services as defined in 6316(e) of this title to children with disabilities, in schools or local educational agencies identified for improvement under section 6316 of this title on the sole basis of the assessment results of the disaggregated subgroup of children with disabilities" and "based on the challenging academic standards described in section 6311(b)(1) of this title" for "to meet or exceed the objectives established by the State under section 6311(b)(2)(G) of this title".
 
 Subsec. (e)(3)(C)(ii)(I)(bb). Pub. L. 114–95, §9215(ss)(2)(B), made technical amendment to reference in original act which appears in text as reference to section 7801 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

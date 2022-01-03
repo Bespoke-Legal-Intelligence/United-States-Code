@@ -16,7 +16,7 @@
 
 #### (2) Cooperative preparation
 
-&emsp;The Secretary of a military department shall prepare each integrated natural resources management plan for which the Secretary is responsible in cooperation with the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service, and the head of each appropriate State fish and wildlife agency for the State in which the military installation or State-owned National Guard installation concerned is located. Consistent with paragraph (4), the resulting plan for the military installation or State-owned National Guard installation shall reflect the mutual agreement of the parties concerning conservation, protection, and management of fish and wildlife resources.
+&emsp;The Secretary of a military department shall prepare each integrated natural resources management plan for which the Secretary is responsible in cooperation with theSecretary of the Interior, acting through the Director of the United States Fish and Wildlife Service, and the head of each appropriate State fish and wildlife agency for the State in which the military installation or State-owned National Guard installation concerned is located. Consistent with paragraph (4), the resulting plan for the military installation or State-owned National Guard installation shall reflect the mutual agreement of the parties concerning conservation, protection, and management of fish and wildlife resources.
 
 #### (3) Purposes of program
 
@@ -90,7 +90,7 @@ With regard to the implementation and enforcement of integrated natural resource
 
 &emsp;(1) neither Office of Management and Budget Circular A–76 nor any successor circular thereto applies to the procurement of services that are necessary for that implementation and enforcement; and
 
-&emsp;(2) priority shall be given to the entering into of contracts for the procurement of such implementation and enforcement services with Federal and State agencies having responsibility for the conservation or management of fish or wildlife.
+&emsp;(2) priority shall be given to the entering into of contracts for the procurement of suchimplementation and enforcement services with Federal and State agencies having responsibility for the conservation or management of fish or wildlife.
 
 #### (e) Applicability of other laws
 
@@ -110,7 +110,7 @@ Integrated natural resources management plans agreed to under the authority of t
 
 #### (2) Secretary of the Interior
 
-&emsp;Not later than March 1 of each year and in consultation with the heads of State fish and wildlife agencies, the Secretary of the Interior shall submit a report to the committees on the amounts expended by the Department of the Interior and the State fish and wildlife agencies in the year covered by the report on conservation activities conducted pursuant tointegrated natural resources management plans.
+&emsp;Not later than March 1 of each year and in consultation with the heads of State fish and wildlife agencies, the Secretary of the Interior shall submit a report to the committees on the amounts expended by the Department of the Interior and the State fish and wildlife agencies in the year covered by the report on conservation activities conducted pursuant to integrated natural resources management plans.
 
 #### (3) "Committees" defined
 
@@ -135,6 +135,8 @@ Integrated natural resources management plans agreed to under the authority of t
 &emsp;The Secretary of Defense shall carry out this subsection in consultation with the Secretary of the Interior.
 
 (Pub. L. 86–797, title I, §101, formerly §1, Sept. 15, 1960, 74 Stat. 1052; renumbered title I, §101, and amended Pub. L. 93–452, §§1(1), 3(1), (2), Oct. 18, 1974, 88 Stat. 1369, 1375; Pub. L. 97–396, §1, Dec. 31, 1982, 96 Stat. 2005; Pub. L. 99–561, §3(a)(1), Oct. 27, 1986, 100 Stat. 3150; Pub. L. 105–85, div. B, title XXIX, §§2904(a)–(b)(4), (c), 2906, 2907, 2913(2)–(4), Nov. 18, 1997, 111 Stat. 2017, 2018, 2020, 2022; Pub. L. 106–65, div. A, title X, §1067(19), Oct. 5, 1999, 113 Stat. 775; Pub. L. 108–136, div. A, title III, §311(c)(1), Nov. 24, 2003, 117 Stat. 1429; Pub. L. 111–84, div. A, title III, §314, Oct. 28, 2009, 123 Stat. 2248; Pub. L. 112–81, div. A, title III, §312(a)(2), (b)(1), Dec. 31, 2011, 125 Stat. 1352, 1353.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -220,6 +222,8 @@ Pub. L. 97–396, §1(2), inserted provision that cooperative plans agreed to un
 
 <b>1974</b>—Pub. L. 93–452, §§1(1), 3(2), inserted provisions requiring the cooperative plan to provide for fish and wildlife habitat improvements, range rehabilitation, and off-road vehicle traffic control.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
@@ -262,7 +266,7 @@ Report to congress.—Not later than one year after the date of enactment of thi
 
 "(c)
 
-Deadline for Integrated Natural Resources Management Plans.—Not later than three years after the date of the submission of the report required under subsection (b)(2), the Secretary of each military department shall, for each military installation with respect to which the Secretary has not determined under subsection (b)(2)(A) that preparation of an integrated natural resources management plan is not appropriate—
+Deadline for Integrated Natural Resources Management Plans.—Not later than three years after the date of the submission of the report required undersubsection (b)(2), the Secretary of each military department shall, for each military installation with respect to which the Secretary has not determined under subsection (b)(2)(A) that preparation of an integrated natural resources management plan is not appropriate—
 
 &emsp;"(1) prepare and begin implementing such a plan in accordance with section 101(a) of the Sikes Act \[16 U.S.C. 670a(a)\] (as amended by this title); or
 

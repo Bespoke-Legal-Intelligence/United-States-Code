@@ -2,7 +2,7 @@
 
 #### (a) Management and duties
 
-Notwithstanding any other authority with respect to the jurisdiction and control over the management of the House Restaurant and the cafeteria and other food service facilities of the House of Representatives, the jurisdiction over such restaurant and facilities and authorityover the direction and supervision of the immediate management and operation thereof shall be vested in the Committee on House Oversight; and the immediate management and operation of such restaurant and facilities may be vested in such official or other authority, acting as the agent of the committee, as the committee may designate; and the official or authority so designated shall perform the duties vested in the Architect of the Capitol by section 208 of the First Supplemental Civil Functions Appropriation Act, 1941 (54 Stat. 1056; Public, No. 812, Seventy-sixth Congress).
+Notwithstanding any other authority with respect to the jurisdiction and control over the management of the House Restaurant and the cafeteria and other food service facilities of the House of Representatives, the jurisdiction over such restaurant and facilities and authority over the direction and supervision of the immediate management and operation thereof shall be vested in the Committee on House Oversight; and the immediate management and operation of such restaurant and facilities may be vested in such official or other authority, acting as the agent of the committee, as the committee may designate; and the official or authority so designated shall perform the duties vested in the Architect of the Capitol by section 208 of the First Supplemental Civil Functions Appropriation Act, 1941 (54 Stat. 1056; Public, No. 812, Seventy-sixth Congress).
 
 #### (b) Transfer of accounts, records, supplies, equipment, and assets
 
@@ -22,7 +22,7 @@ The provisions of this section shall become effective on the first day of the fi
 
 #### References in Text
 
-Section 208 of the First Supplemental Civil Functions Appropriation Act, 1941, referred to in subsecs. (a) and (c), means section 208 of act Oct. 9, 1940, ch. 780, title II, 54 Stat. 1056, which was classified to section 174k of former Title 40, Public Buildings, Property, and Works, prior to repeal by Pub. L. 104–186, title II, §221(3)(B), Aug. 20, 1996, 110 Stat. 1748.
+Section 208 of the First Supplemental Civil Functions Appropriation Act, 1941, referred to in subsecs. (a) and\(c), means section 208 of act Oct. 9, 1940, ch. 780, title II, 54 Stat. 1056, which was classified to section 174k of former Title 40, Public Buildings, Property, and Works, prior to repeal by Pub. L. 104–186, title II, §221(3)(B), Aug. 20, 1996, 110 Stat. 1748.
 
 The date of adoption of this resolution, referred to in subsec. (d), is Mar. 25, 1971. See Codification note below.
 
@@ -78,7 +78,7 @@ Pub. L. 99–500, §111, Oct. 18, 1986, 100 Stat. 1783–348, and Pub. L. 99–5
 
 &emsp;"(3) title III of the Federal Employees' Retirement System Act of 1986 \[sections 301 to 312 of Pub. L. 99–335, see Tables for classification\].
 
-"(c)(1) At the earliest practicable opportunity, the Director of the Office of Personnel Management shall,in consultation with the Architect of the Capitol, prescribe regulations to carry out this section with respect to matters within the jurisdiction of the Office, including regulations under which—
+"(c)(1) At the earliest practicable opportunity, the Director of the Office of Personnel Management shall, in consultation with the Architect of the Capitol, prescribe regulations to carry out this section with respect to matters within the jurisdiction of the Office, including regulations under which—
 
 &emsp;"(A) an individual who makes an election under subsection (a) shall pay into the Civil Service Retirement and Disability Fund any employee contributions which would be required if such individual were a Congressional employee; and
 

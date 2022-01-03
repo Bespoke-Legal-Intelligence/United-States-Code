@@ -70,6 +70,8 @@ In subsection (b) the words "and who is not entitled to basic allowance for quar
 
 In subsection (c) the words "except the authority to prescribe regulations" are omitted, since subsection (a) does not contain such authority.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7572 of this title as this section.
@@ -124,6 +126,8 @@ Subsec. (b). Pub. L. 96–357 substituted reimbursement provision when condition
 
 <b>1966</b>—Subsec. (a)(3). Pub. L. 89–718 substituted "Environmental Science Services Administration" for "Coast and Geodetic Survey".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
@@ -134,7 +138,7 @@ Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, pro
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–85 effective Jan. 1, 1998, see section 603(e) of Pub. L. 105–85, set out as a note under section 5561 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 105–85 effective Jan. 1, 1998, see section 603(e) of Pub. L. 105–85, set out as a noteunder section 5561 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1991 Amendment
 
@@ -162,7 +166,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Effective and Termination Date of 1980 Amendment
 
-Pub. L. 96–357, §3, Sept. 24, 1980, 94 Stat. 1182, as amended by Pub. L. 97–60, title II, §207(a), Oct. 14, 1981, 95 Stat. 1007; Pub. L. 98–94, title IX, §912(b), Sept. 24, 1983, 97 Stat. 640; Pub. L. 98–525, title VI, §603(b), Oct. 19, 1984, 98 Stat. 2537; Pub. L. 99–145, title VI, §606(b), Nov. 8, 1985, 99 Stat. 639; Pub. L. 99–661, div. A, title VI, §603(b), Nov. 14, 1986, 100 Stat. 3874, eff. Oct. 1, 1986, provided that the amendment made by that section is effective only for the period beginning Oct. 1, 1980, and ending Sept. 30, 1991. Pub. L. 99–500, §101(c) \[title IX, §9107\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–119, and Pub.L. 99–591, §101(c) \[title IX, §9107\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–119, extended the authority for reimbursement provided pursuant to section 3 of Public Law 96–357 (see above) through Sept. 30, 1987, at an amount not to exceed $1,657,000.
+Pub. L. 96–357, §3, Sept. 24, 1980, 94 Stat. 1182, as amended by Pub. L. 97–60, title II, §207(a), Oct. 14, 1981, 95 Stat. 1007; Pub. L. 98–94, title IX, §912(b), Sept. 24, 1983, 97 Stat. 640; Pub. L. 98–525, title VI, §603(b), Oct. 19, 1984, 98 Stat. 2537; Pub. L. 99–145, title VI, §606(b), Nov. 8, 1985, 99 Stat. 639; Pub. L. 99–661, div. A, title VI, §603(b), Nov. 14, 1986, 100 Stat. 3874, eff. Oct. 1, 1986, provided that the amendment made by that section is effective only for the period beginning Oct. 1, 1980, and ending Sept. 30, 1991. Pub. L. 99–500, §101(c) \[title IX, §9107\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–119, and Pub. L. 99–591, §101(c) \[title IX, §9107\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–119, extended the authority for reimbursement provided pursuant to section 3 of Public Law 96–357 (see above) through Sept. 30, 1987, at an amount not to exceed $1,657,000.
 
 #### Repeals
 

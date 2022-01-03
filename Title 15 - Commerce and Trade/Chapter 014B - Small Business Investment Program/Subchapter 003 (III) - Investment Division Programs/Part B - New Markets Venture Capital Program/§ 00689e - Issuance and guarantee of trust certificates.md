@@ -16,7 +16,7 @@ The Administrator may issue trust certificates representing ownership of all or 
 
 #### (3) Prepayment or default
 
-&emsp;In the event that a debenture in a trust or pool is prepaid, or in the event of default ofsuch a debenture, the guarantee of timely payment of principal and interest on the trust certificates shall be reduced in proportion to the amount of principal and interest such prepaid debenture represents in the trust or pool. Interest on prepaid or defaulted debentures shall accrue and be guaranteed by the Administrator only through the date of payment of the guarantee. At any time during its term, a trust certificate may be called for redemption due to prepayment or default of all debentures.
+&emsp;In the event that a debenture in a trust or pool is prepaid, or in the event of default of such a debenture, the guarantee of timely payment of principal and interest on the trust certificates shall be reduced in proportion to the amount of principal and interest such prepaid debenture represents in the trust or pool. Interest on prepaid or defaulted debentures shall accrue and be guaranteed by the Administrator only through the date of payment of the guarantee. At any time during its term, a trust certificate may be called for redemption due to prepayment or default of all debentures.
 
 #### (c) Full faith and credit of the United States
 
@@ -46,7 +46,7 @@ The Administrator shall not collect a fee for any guarantee of a trust certifica
 
 #### (A) In general
 
-&emsp;&emsp;The Administrator may contract with an agent or agents to carry out on behalf of the Administrator the pooling and the central registration functions provided for in this section including, notwithstanding any other provision of law—
+&emsp;&emsp;The Administrator may contract with an agent or agents to carry out on behalf of theAdministrator the pooling and the central registration functions provided for in this section including, notwithstanding any other provision of law—
 
 &emsp;&emsp;&emsp;(i) maintenance, on behalf of and under the direction of the Administrator, of such commercial bank accounts or investments in obligations of the United States as may be necessary to facilitate the creation of trusts or pools backed by debentures guaranteed under this part; and
 

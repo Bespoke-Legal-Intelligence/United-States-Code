@@ -34,6 +34,8 @@ June 3, 1916, ch. 134, §11 (less 1st 41 words); restated June 4, 1920, ch. 227,
 
 In subsection (b), the words "have the duties and powers" are substituted for the words "shall perform such duties and exercise such powers". The words "of America", "other provisions", and "so assigned" are omitted as surplusage. The word "Commonwealths" is inserted to reflect the present status of Puerto Rico.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 3074 of this title as this section.
@@ -41,6 +43,8 @@ In subsection (b), the words "have the duties and powers" are substituted for th
 <b>2006</b>—Subsec. (b). Pub. L. 109–163 substituted "Commonwealths and possessions" for "Territories, Commonwealths, and possessions".
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–433 inserted reference to Secretary of Defense.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

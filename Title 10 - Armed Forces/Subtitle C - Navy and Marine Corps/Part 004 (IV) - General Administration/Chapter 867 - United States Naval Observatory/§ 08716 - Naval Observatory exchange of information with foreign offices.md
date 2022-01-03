@@ -24,11 +24,15 @@ In subsection (a) the words "as he may from time to time deem desirable with a v
 
 In subsection (b) the words "during the continuance of any such arrangement" are omitted as surplusage. The third proviso of 5 U.S.C. 464 is omitted as obsolete.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7396 of this title as this section.
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–357 struck out "in the American Ephemeris and Nautical Almanac" after "for publication".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

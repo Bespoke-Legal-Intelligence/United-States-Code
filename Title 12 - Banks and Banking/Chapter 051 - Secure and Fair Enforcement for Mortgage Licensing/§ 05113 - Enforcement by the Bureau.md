@@ -66,7 +66,7 @@ The Director may—
 
 #### (5) Authority of the Director to prohibit persons from serving as loan originators
 
-&emsp;In any cease and desist proceeding under paragraph (1), the Director may issue an order to prohibit, conditionally or unconditionally,and permanently or for such period of time as the Director shall determine, any person who has violated this chapter or regulations thereunder, from acting as a loan originator if the conduct of that person demonstrates unfitness to serve as a loan originator.
+&emsp;In any cease and desist proceeding under paragraph (1), the Director may issue an order to prohibit, conditionally or unconditionally, and permanently or for such period of time as the Director shall determine, any person who has violated this chapter or regulations thereunder, from acting as a loan originator if the conduct of that person demonstrates unfitness to serve as a loan originator.
 
 #### (d) Authority of the Director to assess money penalties
 

@@ -8,6 +8,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1966</b>—Pub. L. 89–809, title II, §211(b)(5), Nov. 13, 1966, 80 Stat. 1582, inserted "and per-unit retain allocations" in heading of part II.

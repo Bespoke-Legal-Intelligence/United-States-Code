@@ -44,6 +44,8 @@ Under regulations prescribed by the Secretary, the amount of any patronage divid
 
 (Added Pub. L. 87–834, §17(a), Oct. 16, 1962, 76 Stat. 1048; amended Pub. L. 89–809, title II, §211(b)(1)–(4), Nov. 13, 1966, 80 Stat. 1582; Pub. L. 94–455, title XIX, §§1901(b)(3)(I), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1793, 1834.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Subsec. (b). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
@@ -53,6 +55,8 @@ Subsec. (c)(2)(C). Pub. L. 94–455, §1901(b)(3)(I), substituted "ordinary inco
 <b>1966</b>—Subsec. (a)(3). Pub. L. 89–809, §211(b)(1), added par. (3).
 
 Subsec. (c). Pub. L. 89–809, §211(b)(2)–(4), inserted "and certain nonqualified per-unit retain certificates" in heading, inserted provisions to par. (1) for the application of the subsection to any nonqualified per-unit retain certificates which were paid as per-unit retain allocations, and inserted references to per-unit retain certificates in par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Enforcing agencies
 
-Subject to subtitle B of the Consumer Financial Protection Act of 2010 \[12 U.S.C. 5511 etseq.\], compliance with the requirements imposed under this subchapter shall be enforced under—
+Subject to subtitle B of the Consumer Financial Protection Act of 2010 \[12 U.S.C. 5511 et seq.\], compliance with the requirements imposed under this subchapter shall be enforced under—
 
 &emsp;(1) section 8 of the Federal Deposit Insurance Act \[12 U.S.C. 1818\], by the appropriate Federal banking agency, as defined in section 3(q) of the Federal Deposit Insurance Act (12 U.S.C. 1813(q)), with respect to—
 
@@ -31,6 +31,8 @@ For the purpose of the exercise by any agency referred to in any of paragraphs (
 Except to the extent that enforcement of the requirements imposed under this subchapter is specifically committed to some other Government agency under any of paragraphs (1) through (4) of subsection (a), and subject to subtitle B of the Consumer Financial Protection Act of 2010, the Federal Trade Commission shall be authorized to enforce such requirements. For the purpose of the exercise by the Federal Trade Commission of its functions and powers under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\], a violation of any requirement imposed under this subchapter shall be deemed a violation of a requirement imposed under that Act. All of the functions and powers of the Federal Trade Commission under the Federal Trade Commission Act are available to the Federal Trade Commission to enforce compliance by any person subject to the jurisdiction of the Federal Trade Commission with the requirements imposed under this subchapter, irrespective of whether that person is engaged in commerce or meets any other jurisdictional tests under the Federal Trade Commission Act.
 
 (Pub. L. 90–321, title IX, §918, formerly §917, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3739; amended Pub. L. 101–73, title VII, §744(o), Aug. 9, 1989, 103 Stat. 440; Pub. L. 102–242, title II, §212(f), Dec. 19, 1991, 105 Stat. 2301; Pub. L. 104–287, §6(h), Oct. 11, 1996, 110 Stat. 3399; renumbered §918, Pub. L. 111–24, title IV, §401(1), May 22, 2009, 123 Stat. 1751; Pub. L. 111–203, title X, §1084(5), July 21, 2010, 124 Stat. 2082.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -83,6 +85,8 @@ Pub. L. 102–242, §212(f)(1), added par. (1) and struck out former par. (1) wh
 &emsp;"(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System), by the Board of Directors of the Federal Deposit Insurance Corporation;".
 
 <b>1989</b>—Subsec. (a)(2). Pub. L. 101–73 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "section 5(d) of the Home Owners' Loan Act of 1933, section 407 of the National Housing Act, and sections 6(i) and 17 of the Federal Home Loan Bank Act, by the Federal Home Loan Bank Board (acting directly or through the Federal Savings and Loan Insurance Corporation), in the case of any institution subject to any of those provisions;".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

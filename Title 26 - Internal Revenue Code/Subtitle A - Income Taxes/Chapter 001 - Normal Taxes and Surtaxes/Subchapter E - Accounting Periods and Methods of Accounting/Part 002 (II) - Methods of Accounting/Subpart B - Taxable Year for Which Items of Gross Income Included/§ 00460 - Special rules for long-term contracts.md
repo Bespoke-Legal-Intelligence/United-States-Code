@@ -26,7 +26,7 @@ In the case of any long-term contract, the taxable income from such contract sha
 
 &emsp;&emsp;(C) then using the adjusted overpayment rate (as defined in paragraph (7)), compounded daily, on the overpayment or underpayment determined under subparagraph (B).
 
-> &emsp;For purposes of the preceding sentence, any amount properly taken into account after completion of the contract shall be taken into account by discounting (using the Federal mid-term rate determined under section 1274(d) as of the time such amount was properly taken into account) such amount to its value as of the completion of the contract. The taxpayer may elect with respect to any contract to have the preceding sentence not apply to such contract.
+> &emsp;For purposes of the preceding sentence, any amount properly taken into account after completion of the contract shall be taken into account by discounting (using the Federal mid-term rate determined under section 1274(d) as of the time such amount was properly taken into account) such amount to its value as of the completion of the contract. The taxpayer may elect with respect to anycontract to have the preceding sentence not apply to such contract.
 
 #### (3) Special rules
 
@@ -130,7 +130,7 @@ In the case of any long-term contract, the taxable income from such contract sha
 
 #### (ii) Look-back method
 
-&emsp;&emsp;&emsp;The 10-percent method shall be taken into account for purposes of applying the look-back method of paragraph (2) to any taxpayer making an election under this paragraph.
+&emsp;&emsp;&emsp;The 10-percent method shall be taken into account for purposes of applying thelook-back method of paragraph (2) to any taxpayer making an election under this paragraph.
 
 #### (6) Election to have look-back method not apply in de minimis cases
 
@@ -276,7 +276,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) any other construction contract entered into by a taxpayer (other than a tax shelter prohibited from using the cash receipts and disbursements method of accounting under section 448(a)(3))—
 
-&emsp;&emsp;&emsp;(i) who estimates (at the time such contract is entered into) that such contractwill be completed within the 2-year period beginning on the contract commencement date of such contract, and
+&emsp;&emsp;&emsp;(i) who estimates (at the time such contract is entered into) that such contract will be completed within the 2-year period beginning on the contract commencement date of such contract, and
 
 &emsp;&emsp;&emsp;(ii) who meets the gross receipts test of section 448(c) for the taxable year in which such contract is entered into.
 
@@ -356,7 +356,9 @@ For purposes of this section, the term "contract commencement date" means, with 
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations to prevent the use of related parties, pass-thru entities, intermediaries, options, or other similar arrangements to avoid the application of this section.
 
-(Added Pub. L. 99–514, title VIII, §804(a), Oct. 22, 1986, 100 Stat. 2358; amended Pub. L. 100–203, title X, §10203(a), Dec. 22, 1987, 101 Stat. 1330–394; Pub. L. 100–647, title I, §1008(c)(1), (2), (4), title V, §5041(a)–(b)(3), (c), (d), Nov. 10, 1988, 102 Stat. 3438, 3439, 3673, 3674; Pub. L. 101–239, title VII, §§7621(a)–(c), 7811(e), 7815(e)(1), Dec. 19, 1989, 103 Stat. 2375, 2376, 2408, 2419; Pub. L. 101–508, title XI, §11812(b)(8), Nov. 5, 1990, 104 Stat. 1388–535; Pub. L. 104–188, title I, §§1702(h)(15), 1704(t)(28), Aug. 20, 1996, 110 Stat. 1874, 1888; Pub. L. 105–34, title XII, §1211(a), (b), Aug. 5, 1997, 111 Stat. 998,999; Pub. L. 111–240, title II, §2023(a), Sept. 27, 2010, 124 Stat. 2559; Pub. L. 112–240, title III, §331(b), Jan. 2, 2013, 126 Stat. 2336; Pub. L. 113–295, div. A, title I, §125(b), Dec. 19, 2014, 128 Stat. 4016; Pub. L. 114–113, div. Q, title I, §143(a)(2), (b)(6)(I), Dec. 18, 2015, 129 Stat. 3056, 3064; Pub. L. 115–97, title I, §§13102(d), 13201(b)(2)(A), Dec. 22, 2017, 131 Stat. 2104, 2107; Pub. L. 115–141, div. U, title IV, §401(a)(116), Mar. 23, 2018, 132 Stat. 1189.)
+(Added Pub. L. 99–514, title VIII, §804(a), Oct. 22, 1986, 100 Stat. 2358; amended Pub. L. 100–203, title X, §10203(a), Dec. 22, 1987, 101 Stat. 1330–394; Pub. L. 100–647, title I, §1008(c)(1), (2), (4), title V, §5041(a)–(b)(3), (c), (d), Nov. 10, 1988, 102 Stat. 3438, 3439, 3673, 3674; Pub. L. 101–239, title VII, §§7621(a)–(c), 7811(e), 7815(e)(1), Dec. 19, 1989, 103 Stat. 2375, 2376, 2408, 2419; Pub. L. 101–508, title XI, §11812(b)(8), Nov. 5, 1990, 104 Stat. 1388–535; Pub. L. 104–188, title I, §§1702(h)(15), 1704(t)(28), Aug. 20, 1996, 110 Stat. 1874, 1888; Pub. L. 105–34, title XII, §1211(a), (b), Aug. 5, 1997, 111 Stat. 998, 999; Pub. L. 111–240, title II, §2023(a), Sept. 27, 2010, 124 Stat. 2559; Pub. L. 112–240, title III, §331(b), Jan. 2, 2013, 126 Stat. 2336; Pub. L. 113–295, div. A, title I, §125(b), Dec. 19, 2014, 128 Stat. 4016; Pub. L. 114–113, div. Q, title I, §143(a)(2), (b)(6)(I), Dec. 18, 2015, 129 Stat. 3056, 3064; Pub. L. 115–97, title I, §§13102(d), 13201(b)(2)(A), Dec. 22, 2017, 131 Stat. 2104, 2107; Pub. L. 115–141, div. U, title IV, §401(a)(116), Mar. 23, 2018, 132 Stat. 1189.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -398,7 +400,7 @@ Subsec. (e)(6)(B). Pub. L. 104–188, §1702(h)(15), substituted "section 168(e)
 
 <b>1990</b>—Subsec. (e)(6)(A)(i). Pub. L. 101–508 substituted "section 168(e)(2)(A)(ii)" for "section 167(k)".
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–239, §7621(a), substituted "Requirement that percentage of completion method be used" for "Percentage of completion-capitalized cost method" in heading and amended text generally. Prior to amendment, text read as follows:
+<b>1989</b>—Subsec. (a). Pub. L. 101–239, §7621(a), substituted "Requirement that percentage of completion methodbe used" for "Percentage of completion-capitalized cost method" in heading and amended text generally. Prior to amendment, text read as follows:
 
 "(1)
 
@@ -494,6 +496,8 @@ Subsec. (h). Pub. L. 100–647, §5041(c), added subsec. (h).
 
 <b>1987</b>—Subsec. (a). Pub. L. 100–203 substituted "70 percent" for "40 percent" in par. (1)(A) and in heading and text of par. (2), and "30 percent" for "60 percent" in par. (1)(B).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2017 Amendment
 
 Amendment by section 13102(d) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, with provision for exemption from percentage completion for long-term contracts, see section 13102(e) of Pub. L. 115–97, set out as a note under section 263A of this title.
@@ -554,7 +558,7 @@ Binding bids.—The amendments made by this section shall not apply to any contr
 
 Special rule for certain ship contracts.—The amendments made by this section shall not apply in the case of a qualified ship contract (as defined in section 10203(b)(2)(B) of the Revenue Act of 1987 \[Pub. L. 100–203, set out below\])."
 
-Amendment by sections 7811(e) and 7815(e)(1) of Pub. L. 101–239 effective, except as otherwise provided, as ifincluded in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by sections 7811(e) and 7815(e)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -682,5 +686,5 @@ Effective Date.—This section shall apply to contracts for ships or submarines 
 
 #### Amortization of Past Service Pension Costs
 
-Allocable costs (within the meaning of subsec. (c) of this section) with respect to any property to includecontributions paid to or under a pension or annuity plan whether or not such contributions represent past service costs, see section 10204 of Pub. L. 100–203, set out as a note under section 263A of this title.
+Allocable costs (within the meaning of subsec. (c) of this section) with respect to any property to include contributions paid to or under a pension or annuity plan whether or not such contributions represent past service costs, see section 10204 of Pub. L. 100–203, set out as a note under section 263A of this title.
 

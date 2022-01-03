@@ -26,13 +26,15 @@ The Secretary of Agriculture (hereinafter in this subchapter referred to as the 
 
 #### (b) "Eligible colleges and universities" defined
 
-As used in this subchapter, the term "eligible colleges and universities" means colleges anduniversities eligible to be supported and maintained, in whole or in part, with funds made available under the provisions of the Act of July 2, 1862 (12 Stat. 503–505, as amended; 7 U.S.C. 301–305, 307, 308), and the Act of August 30, 1890 (26 Stat. 417–419, as amended; 7 U.S.C. 321–326, 328), including Tuskegee Institute, and colleges and universities eligible for assistance under the Act of October 10, 1962 (76 Stat. 806–807, as amended; 16 U.S.C. 582a, 582a–1—582a–7).
+As used in this subchapter, the term "eligible colleges and universities" means colleges and universities eligible to be supported and maintained, in whole or in part, with funds made available under the provisions of the Act of July 2, 1862 (12 Stat. 503–505, as amended; 7 U.S.C. 301–305, 307, 308), and the Act of August 30, 1890 (26 Stat. 417–419, as amended; 7 U.S.C. 321–326, 328), including Tuskegee Institute, and colleges and universities eligible for assistance under the Act of October 10, 1962 (76 Stat. 806–807, as amended; 16 U.S.C. 582a, 582a–1—582a–7).
 
 #### (c) Use of appropriate educational methods required; scope of methods
 
 In implementing this section, all appropriate educational methods may be used, including, but not limited to, meetings, short courses, workshops, tours, demonstrations, publications, news releases, and radio and television programs.
 
 (Pub. L. 95–306, §3, June 30, 1978, 92 Stat. 349; Pub. L. 101–624, title XII, §§1219(b)(1), 1251(b), Nov. 28, 1990, 104 Stat. 3538, 3552; Pub. L. 102–237, title X, §1018(d), Dec. 13, 1991, 105 Stat. 1905.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

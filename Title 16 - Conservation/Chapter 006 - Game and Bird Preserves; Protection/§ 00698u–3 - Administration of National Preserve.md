@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall administer the Preserve in accordance with sections 698u to 698u–7 of this title, the cooperative agreements described insubsection (f)(1), and the provisions of law generally applicable to units of the National Park System, including the Act entitled "An Act to establish a National Park Service, and for other purposes", approved August 25, 1916 (16 U.S.C. 1, 2 through 4) <sup>1</sup> and the Act of August 21, 1935 (49 Stat. 666; 16 U.S.C. 461 et seq.).<sup>1</sup>
+The Secretary shall administer the Preserve in accordance with sections 698u to 698u–7 of this title, the cooperative agreements described in subsection (f)(1), and the provisions of law generally applicable to units of the National Park System, including the Act entitled "An Act to establish a National Park Service, and for other purposes", approved August 25, 1916 (16 U.S.C. 1, 2 through 4) <sup>1</sup> and the Act of August 21, 1935 (49 Stat. 666; 16 U.S.C. 461 et seq.).<sup>1</sup>
 
 #### (b) Application of regulations
 
@@ -84,6 +84,8 @@ The Preserve shall be a unit of the National Park System for all purposes, inclu
 
 (Pub. L. 104–333, div. I, title X, §1005, Nov. 12, 1996, 110 Stat. 4205; Pub. L. 106–176, title I, §122(3), Mar. 10, 2000, 114 Stat. 29.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Act entitled "An Act to establish a National Park Service, and for other purposes", approved August 25, 1916 (16 U.S.C. 1, 2 through 4), referred to in subsec. (a), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under section 100101 of Title 54, National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
@@ -101,6 +103,8 @@ In subsec. (e), "section 100904 of title 54" substituted for "section 4 of the L
 <b>2000</b>—Subsec. (d)(1). Pub. L. 106–176, §122(3)(A), made technical amendment to reference in original act which appears in text as reference to sections 698u to 698u–7 of this title.
 
 Subsec. (g)(3)(A). Pub. L. 106–176, §122(3)(B), substituted "the tallgrass prairie" for "the tall grass prairie".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

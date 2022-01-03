@@ -20,6 +20,8 @@ In carrying out this title and title II and amendments made by those titles, if 
 
 (Pub. L. 110–234, title I, §1617, May 22, 2008, 122 Stat. 1021; Pub. L. 110–246, §4(a), title I, §1617, June 18, 2008, 122 Stat. 1664, 1750.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This title and title II, referred to in subsec. (a), are titles I and II of Pub. L. 110–246, June 18, 2008, 122 Stat. 1664, 1753, which enacted this chapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of titles I and II to the Code, see Tables.
@@ -27,6 +29,8 @@ This title and title II, referred to in subsec. (a), are titles I and II of Pub.
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -10,7 +10,7 @@ When used in this chapter—
 
 (d) The term "district court of the United States" shall be deemed to include the courts of the United States for the Territories and possessions of the United States.
 
-(e) The term "local board" shall be deemed to include an intercounty local board in the case ofany registrant who is subject to the jurisdiction of an intercounty local board.
+(e) The term "local board" shall be deemed to include an intercounty local board in the case of any registrant who is subject to the jurisdiction of an intercounty local board.
 
 (f) The term "Director" shall be deemed to mean the Director of the Selective Service System.
 
@@ -25,6 +25,8 @@ When used in this chapter—
 (i) The term "reserve components of the armed forces" shall, unless the context otherwise requires, be deemed to include the federally recognized National Guard of the United States, the federally recognized Air National Guard of the United States, the Officers' Reserve Corps, the Regular Army Reserve, the Air Force Reserve, the Enlisted Reserve Corps, the Navy Reserve, the Marine Corps Reserve, and the Coast Guard Reserve, and shall include, in addition to the foregoing, the Public Health Service Reserve when serving with the armed forces.
 
 (June 24, 1948, ch. 625, title I, §16, 62 Stat. 624; Sept. 27, 1950, ch. 1059, §1(12), (13), 64 Stat. 1074; June 19, 1951, ch. 144, title I, §1(v), 65 Stat. 87; Pub. L. 86–70, §36, June 25, 1959, 73 Stat. 150; Pub. L. 86–624, §39, July 12, 1960, 74 Stat. 422; Pub. L. 92–129, title I, §101(a)(34), Sept. 28, 1971, 85 Stat. 353; Pub. L. 109–163, div. A, title V, §515(g)(3)(B), Jan. 6, 2006, 119 Stat. 3236.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -50,11 +52,17 @@ Section was formerly classified to section 466 of the former Appendix to this ti
 
 Subsec. (i). Act Sept. 27, 1950, §1(13), struck out "and" after "Naval Reserve" and ", the Coast Guard Reserve" after "foregoing" and inserted "and the Coast Guard Reserve" after "Marine Corps Reserve".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 Coast Guard transferred to Department of Transportation, and functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of all other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, §6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in former section 3 (now 103) of Title 14, Coast Guard.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
 
 For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury with power to delegate, see Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Functions of Coast Guard, and Commandant of Coast Guard, excepted from transfer when Coast Guard is operating as part of Navy under former sections 1 and 3 (now 101 and 103) of Title 14, Coast Guard.
 

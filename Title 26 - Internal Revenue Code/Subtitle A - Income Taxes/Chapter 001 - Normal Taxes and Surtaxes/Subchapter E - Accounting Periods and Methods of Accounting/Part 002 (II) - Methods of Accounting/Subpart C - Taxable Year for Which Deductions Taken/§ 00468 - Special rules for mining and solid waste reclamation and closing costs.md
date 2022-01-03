@@ -158,11 +158,13 @@ For purposes of this section—
 
 (Added Pub. L. 98–369, div. A, title I, §91(b)(1), July 18, 1984, 98 Stat. 601; amended Pub. L. 99–514, title XVIII, §§1807(a)(3)(A), (C), 1899A(14), Oct. 22, 1986, 100 Stat. 2811, 2959; Pub. L. 101–508, title XI, §11802(c), Nov. 5, 1990, 104 Stat. 1388–529.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Surface Mining Control and Reclamation Act of 1977, referred to in subsec. (d)(2)(A), is Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445, as amended. Title V of that Act is classified generally to subchapter V (§1251 et seq.) of chapter 25 of Title 30, Mineral Lands and Mining. Sections 511 and 528 of that Act are classified to sections 1261 and 1278, respectively, of Title 30. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of Title 30 and Tables.
 
-The Solid Waste Disposal Act, referred to in subsec. (d)(2)(B)(i), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generallyto chapter 82 (§6901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
+The Solid Waste Disposal Act, referred to in subsec. (d)(2)(B)(i), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
 
 Section 105 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (d)(2)(B)(ii), is classified to section 9605 of Title 42.
 
@@ -176,13 +178,15 @@ Subsec. (a)(2)(D). Pub. L. 99–514, §1807(a)(3)(A), added subpar. (D).
 
 Subsec. (d)(2)(B)(ii). Pub. L. 99–514, §1899A(14), substituted "Comprehensive Environmental Response, Compensation, and Liability Act of 1980" for "Comprehensive Environmental, Compensation, and Liability Act of 1980".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1986 Amendment
 
 Amendment by section 1807(a)(3)(A), (C) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date
 
-Section effective July 18, 1984, with respect to taxable years ending after such date, except as otherwise provided, see section 91(g)(4) of Pub. L. 98–369, as amended, set out as an Effective Date of 1984 Amendment note under section 461 of this title.
+Section effective July 18, 1984, with respect to taxable years ending after such date, except as otherwise provided, see section 91(g)(4) of Pub. L. 98–369, as amended,set out as an Effective Date of 1984 Amendment note under section 461 of this title.
 
 #### Savings Provision
 

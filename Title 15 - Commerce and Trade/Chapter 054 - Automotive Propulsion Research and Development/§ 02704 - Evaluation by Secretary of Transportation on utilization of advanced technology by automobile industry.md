@@ -4,6 +4,8 @@ The Secretary of Transportation, in furtherance of the purposes of this chapter,
 
 (Pub. L. 95–238, title III, §305, Feb. 25, 1978, 92 Stat. 81; Pub. L. 104–66, title I, §1121(i), Dec. 21, 1995, 109 Stat. 724.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1995</b>—Pub. L. 104–66 struck out at end "The Secretary of Transportation shall submit a report to the Congress each year on the results of such evaluation including any appropriate recommendations which may encourage the utilization of advanced automobile technology by the automobile industry."

@@ -32,7 +32,7 @@ The Secretary, acting through the Office, shall—
 
 &emsp;(10) assist the States in developing objective scientific criteria and appropriate procedures and institutions for determining those areas of a State to be designated unsuitable for all or certain types of surface coal mining pursuant to section 1272 of this title;
 
-&emsp;(11) monitor all Federal and State research programs dealing with coal extraction and useand recommend to Congress the research and demonstration projects and necessary changes in public policy which are designated to (A) improve feasibility of underground coal mining, and (B) improve surface mining and reclamation techniques directed at eliminating adverse environmental and social impacts;
+&emsp;(11) monitor all Federal and State research programs dealing with coal extraction and use and recommend to Congress the research and demonstration projects and necessary changes in public policy which are designated to (A) improve feasibility of underground coal mining, and (B) improve surface mining and reclamation techniques directed at eliminating adverse environmental and social impacts;
 
 &emsp;(12) cooperate with other Federal agencies and State regulatory authorities to minimize duplication of inspections, enforcement, and administration of this chapter; and
 

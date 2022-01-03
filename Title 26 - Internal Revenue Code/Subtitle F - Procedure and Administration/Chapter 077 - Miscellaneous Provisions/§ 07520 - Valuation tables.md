@@ -34,6 +34,8 @@ For purposes of this section, the term "tables" includes formulas.
 
 (Added Pub. L. 100–647, title V, §5031(a), Nov. 10, 1988, 102 Stat. 3668; amended Pub. L. 113–295, div. A, title II, §221(a)(118), Dec. 19, 2014, 128 Stat. 4054.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Another section 7520 was renumbered section 7521 of this title.
@@ -42,11 +44,13 @@ Another section 7520 was renumbered section 7521 of this title.
 
 <b>2014</b>—Subsec. (c)(2), (3). Pub. L. 113–295 redesignated par. (3) as (2), substituted "The Secretary" for "Not later than December 31, 1989, the Secretary" and struck out "thereafter" after "once each 10 years", and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: "Not later than the day 3 months after the date of the enactment of this section, the Secretary shall prescribe initial tables for purposes of subsection (a). Such tables may be based on the same mortality experience as used for purposes of section 2031 on the date of the enactment of this section."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2014 Amendment
 
 Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 
 #### Effective Date
 
-Pub. L. 100–647, title V, §5031(c), Nov. 10, 1988, 102 Stat. 3669, provided that: "The amendments made by this section \[enacting this section\] shall apply in cases where the date as of which the valuation is to be made occurs on or after the 1st day of the 6th calendar month beginning after the date of the enactment of this Act \[Nov. 10, 1988\]."
+Pub. L. 100–647, title V, §5031(c), Nov. 10, 1988, 102 Stat. 3669, provided that: "The amendments made bythis section \[enacting this section\] shall apply in cases where the date as of which the valuation is to be made occurs on or after the 1st day of the 6th calendar month beginning after the date of the enactment of this Act \[Nov. 10, 1988\]."
 

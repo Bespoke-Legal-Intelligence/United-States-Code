@@ -9,6 +9,8 @@ Subpart E—Definitions and Special Rules
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–188, title I, §1612(b), Aug. 20, 1996, 110 Stat. 1847, added item 817A.

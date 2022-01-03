@@ -7,6 +7,8 @@
 | Sec. |  |
 | :--- | ---: |
 | [1901\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20A%20-%20General/%C2%A7%2001901%20-%20Establishment%3B%20officer%20appointments.md) | Establishment; officer appointments. |
+| [1901a.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20A%20-%20General/%C2%A7%2001901a%20-%20Capitol%20Police%20Board.md) | Capitol Police Board. |
+| [1901b.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20A%20-%20General/%C2%A7%2001901b%20-%20Joint%20oversight%20hearings.md) | Joint oversight hearings. |
 | [1902\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20A%20-%20General/%C2%A7%2001902%20-%20Compensation%20of%20Chief.md) | Compensation of Chief. |
 | [1903\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20A%20-%20General/%C2%A7%2001903%20-%20Chief%20Administrative%20Officer.md) | Chief Administrative Officer. |
 | [1904\.](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Administration/Part%20A%20-%20General/%C2%A7%2001904%20-%20Certifying%20officers.md) | Certifying officers. |
@@ -74,6 +76,7 @@
 | [1963\.](Subchapter%20002%20%28II%29%20-%20Powers%20and%20Duties/%C2%A7%2001963%20-%20Protection%20of%20grounds.md) | Protection of grounds. |
 | [1964\.](Subchapter%20002%20%28II%29%20-%20Powers%20and%20Duties/%C2%A7%2001964%20-%20Security%20systems%20for%20Capitol%20buildings%20and%20grounds.md) | Security systems for Capitol buildings and grounds. |
 | [1965\.](Subchapter%20002%20%28II%29%20-%20Powers%20and%20Duties/%C2%A7%2001965%20-%20Maintenance%20of%20security%20systems%20for%20Capitol%20buildings%20and%20grounds.md) | Maintenance of security systems for Capitol buildings and grounds. |
+| [1965a.](Subchapter%20002%20%28II%29%20-%20Powers%20and%20Duties/%C2%A7%2001965a%20-%20Prohibition%20on%20use%20of%20funds%20for%20installation%20of%20permanent%20fencing%20on%20Capitol%20Grounds.md) | Prohibition on use of funds for installation of permanent fencing on Capitol Grounds. |
 | [1966\.](Subchapter%20002%20%28II%29%20-%20Powers%20and%20Duties/%C2%A7%2001966%20-%20Protection%20of%20Members%20of%20Congress%2C%20officers%20of%20Congress%2C%20and%20members%20of%20their%20families.md) | Protection of Members of Congress, officers of Congress, and members of their families. |
 | [1967\.](Subchapter%20002%20%28II%29%20-%20Powers%20and%20Duties/%C2%A7%2001967%20-%20Law%20enforcement%20authority.md) | Law enforcement authority. |
 | [1968\.](Subchapter%20002%20%28II%29%20-%20Powers%20and%20Duties/%C2%A7%2001968%20-%20Citation%20release.md) | Citation release. |

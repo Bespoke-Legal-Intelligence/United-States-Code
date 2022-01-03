@@ -18,7 +18,7 @@
 
 (e) When subsection (d) cannot be complied with because of the absence or disability of the Deputy Judge Advocate General, the Assistant Judge Advocates General, in the order directed by the Secretary of the Navy, shall perform the duties of the Judge Advocate General.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 290, §5149; Pub. L. 85–861, §33(a)(28), Sept. 2, 1958, 72 Stat. 1566; Pub. L. 87–649, §14c(21), Sept. 7, 1962, 76 Stat. 501; Pub. L. 89–718, §36, Nov. 2, 1966, 80 Stat. 1120; Pub. L. 90–179, §2(2), Dec. 8, 1967, 81 Stat. 546; Pub. L. 90–623, §2(9), Oct. 22, 1968, 82 Stat. 1314;Pub. L. 96–513, title V, §503(13), Dec. 12, 1980, 94 Stat. 2912; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–661, div. A, title V, §508(b), Nov. 14, 1986, 100 Stat. 3867; Pub. L. 103–337, div. A, title V, §504(b)(2), Oct. 5, 1994, 108 Stat. 2751; Pub. L. 114–328, div. A, title V, §502(gg), Dec. 23, 2016, 130 Stat. 2105; Pub. L. 115–91, div. A, title V, §508(b), Dec. 12, 2017, 131 Stat. 1375; renumbered §8089 and amended Pub. L. 115–232, div. A, title VIII, §§807(a)(2), 809(a), Aug. 13, 2018, 132 Stat. 1834, 1840.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 290, §5149; Pub. L. 85–861, §33(a)(28), Sept. 2, 1958, 72 Stat. 1566; Pub. L. 87–649, §14c(21), Sept. 7, 1962, 76 Stat. 501; Pub. L. 89–718, §36, Nov. 2, 1966, 80 Stat. 1120; Pub. L. 90–179, §2(2), Dec. 8, 1967, 81 Stat. 546; Pub. L. 90–623, §2(9), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 96–513, title V, §503(13), Dec. 12, 1980, 94 Stat. 2912; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–661, div. A, title V, §508(b), Nov. 14, 1986, 100 Stat. 3867; Pub. L. 103–337, div. A, title V, §504(b)(2), Oct. 5, 1994, 108 Stat. 2751; Pub. L. 114–328, div. A, title V, §502(gg), Dec. 23, 2016, 130 Stat. 2105; Pub. L. 115–91, div. A, title V, §508(b), Dec. 12, 2017, 131 Stat. 1375; renumbered §8089 and amended Pub. L. 115–232, div. A, title VIII, §§807(a)(2), 809(a), Aug. 13, 2018, 132 Stat. 1834, 1840.)
 
 Historical and Revision Notes
 
@@ -54,6 +54,8 @@ Feb. 3, 1942, ch. 35, §1 (as applicable to JAG), 56 Stat. 47.
 
 Changes in phraseology are made to conform to the language used in §5135 of this title.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232, §807(a)(2), renumbered section 5149 of this title as this section.
@@ -68,7 +70,7 @@ Subsec. (b). Pub. L. 114–328, §502(gg)(2), struck out second and last sentenc
 
 Subsec. (c). Pub. L. 114–328, §502(gg)(2), struck out second and last sentences which read "While so serving, a judge advocate who holds a grade lower than brigadier general shall hold the grade of brigadier general, if he is appointed to that grade by the President, by and with the advice and consent of the Senate." and "If he is retired as a brigadier general, he is entitled to the retired pay of that grade, unless entitled to higher pay under another provision of law.", respectively.
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–337 designated existing provisions as par. (1), added second sentence, struck out former second and third sentences which read as follows: "While so serving he is entitled to the grade of rear admiral or major general, as appropriate, unless entitled to a higher grade under another provision of law. The Deputy Judge Advocate General is entitled to the same privileges of retirement as provided for chiefs of bureaus in section 5133 of this title.", and added par. (2).
+<b>1994</b>—Subsec. (a). Pub. L. 103–337 designated existing provisions as par. (1), added second sentence, struck out former second and third sentences which read as follows: "While so serving he is entitled to the grade of rear admiral or major general, as appropriate, unless entitled to a higher grade under another provision of law. The Deputy Judge Advocate General is entitled tothe same privileges of retirement as provided for chiefs of bureaus in section 5133 of this title.", and added par. (2).
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–661, §508(b)(1), substituted "There is a Deputy Judge Advocate General of the Navy who is appointed by the President, by and with the advice and consent of the Senate, from among judge advocates of the Navy and Marine Corps who have the qualifications prescribed for the Judge Advocate General" for "A judge advocate of the Navy or Marine Corps who has the qualifications prescribed for the Judge Advocate General in section 5148(b) of this title shall be detailed as Deputy Judge Advocate General of the Navy", and struck out "rank and" before "grade of" and struck out "rank or" before "grade under" in second sentence.
 
@@ -100,9 +102,11 @@ Subsec. (e). Pub. L. 90–179 redesignated former subsec. (c) as (e) and in subs
 
 <b>1958</b>—Subsec. (b). Pub. L. 85–861 substituted "office" for "Office".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments andspecial rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -141,6 +145,8 @@ Specified Positions.—Subsection (a) applies with respect to the Assistant Judg
 Rank; Retirement Benefits
 
 Pub. L. 90–179, §9, Dec. 8, 1967, 81 Stat. 549, provided that: "Nothing in this Act \[enacting sections 5578a and 5587a of this title, amending this section, sections 801, 806, 815, 827, 865, 936, 5148, 5404, 5508, 5581, 5587, 5600, 5652a, 5702, 5708, 5753, 5762, 5896, 5897, and 6378 of this title, and section 202 of Title 37, and enacting provisions set out as notes under this section and section 5184 of this title\] shall operate to terminate or reduce the term of an officer who was serving as Deputy and Assistant Judge Advocate General of the Navy on the day before the effective date of this Act \[Dec. 8, 1967\] or to deprive to him of the rank, pay, allowances, or retirement privileges to which he was then entitled. Notwithstanding any other provision of law, an officer who was so serving on the day before the effective date of this Act shall be deemed to be detailed as Deputy Judge Advocate General, pursuant to section 5149 \[now 8089\] of title 10, United States Code, as amended by this Act \[this section\], and in addition to rights and benefits then accrued, to be entitled to the rank and retirement benefits authorized by that section. For the purposes of determining his eligibility for the retirement benefits authorized by section 5149 \[now 8089\] of title 10, United States Code, as amended by this Act \[this section\], an officer who is serving as Deputy Judge Advocate General on the effective date of this Act shall be credited with all service performed under appointment or detail as Deputy and Assistant Judge Advocate General before the effective date of this Act."
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

@@ -68,7 +68,7 @@ In research carried out under subsection (a), human fetal tissue may be used onl
 
 #### (2) Confidentiality of audit
 
-&emsp;Any audit conducted by the Secretary pursuant to paragraph (1) shall be conducted in aconfidential manner to protect the privacy rights of the individuals and entities involved in such research, including such individuals and entities involved in the donation, transfer, receipt, or transplantation of human fetal tissue. With respect to any material or information obtained pursuant to such audit, the Secretary shall—
+&emsp;Any audit conducted by the Secretary pursuant to paragraph (1) shall be conducted in a confidential manner to protect the privacy rights of the individuals and entities involved in such research, including such individuals and entities involved in the donation, transfer, receipt, or transplantation of human fetal tissue. With respect to any material or information obtained pursuant to such audit, the Secretary shall—
 
 &emsp;&emsp;(A) use such material or information only for the purposes of verifying compliance with the requirements of this section;
 
@@ -95,6 +95,8 @@ The Secretary shall annually submit to the Committee on Energy and Commerce of t
 For purposes of this section, the term "human fetal tissue" means tissue or cells obtained from a dead human embryo or fetus after a spontaneous or induced abortion, or after a stillbirth.
 
 (July 1, 1944, ch. 373, title IV, §498A, as added Pub. L. 103–43, title I, §111, June 10, 1993, 107 Stat. 129.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -128,7 +130,7 @@ In general.—Subject to subsection (b)(2) of section 492A of the Public Health 
 
 Standing approval regarding ethical status.—In the case of any proposal for research on the transplantation of human fetal tissue for therapeutic purposes, the issuance in December 1988 of the Report of the Human Fetal Tissue Transplantation Research Panel shall be deemed to be a report—
 
-&emsp;&emsp;"(A) issued by an ethics advisory board pursuant to section 492A(b)(5)(B)(ii) of the Public Health Service Act \[42 U.S.C. 289a–1(b)(5)(B)(ii)\] (as added by section 101 of this Act); and
+&emsp;&emsp;"(A) issued by an ethics advisory board pursuant to section 492A(b)(5)(B)(ii) of the Public HealthService Act \[42 U.S.C. 289a–1(b)(5)(B)(ii)\] (as added by section 101 of this Act); and
 
 &emsp;&emsp;"(B) finding, on a basis that is neither arbitrary nor capricious, that the nature of the research is such that it is not unethical to conduct or support the research.
 

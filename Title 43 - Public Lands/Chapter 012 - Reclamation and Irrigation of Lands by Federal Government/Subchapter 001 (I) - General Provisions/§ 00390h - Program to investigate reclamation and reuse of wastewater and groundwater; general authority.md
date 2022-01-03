@@ -62,7 +62,7 @@ The Secretary shall not investigate, promote or implement, pursuant to sections 
 
 #### (1) Establishment
 
-&emsp;The Secretary shall establish a competitive grant program under which the non-Federal project sponsor of any project determined by the Secretary to be feasible under subsection (e)(3)(A) shall be eligible to apply for fundingfor the planning, design, and construction of the project, subject to subsection (g)(2).
+&emsp;The Secretary shall establish a competitive grant program under which the non-Federal project sponsor of any project determined by the Secretary to be feasible under subsection (e)(3)(A) shall be eligible to apply for funding for the planning, design, and construction of the project, subject to subsection (g)(2).
 
 #### (2) Priority
 

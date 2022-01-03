@@ -32,6 +32,8 @@ There is authorized to be appropriated to the Secretary to carry out this sectio
 
 (Pub. L. 115–271, title VIII, §8083, Oct. 24, 2018, 132 Stat. 4102.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Family First Prevention Services Act, referred to in subsec. (b)(1), is title VII of Pub. L. 115–123, div. E, Feb. 9, 2018, 132 Stat. 232. For complete classification of this Act to the Code, see Tables.
@@ -39,6 +41,8 @@ Family First Prevention Services Act, referred to in subsec. (b)(1), is title VI
 #### Codification
 
 Section was enacted as part of the Substance Use–Disorder Prevention that Promotes Opioid Recovery and Treatment for Patients and Communities Act, also known as the SUPPORT for Patients and Communities Act, and not as part of the Public Health Service Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Supporting Family-Focused Residential Treatment
 
@@ -70,7 +74,7 @@ Guidance on Family-focused Residential Treatment Programs.—
 
 &emsp;"(1)
 
-In general.—Not later than 180 days after the date of enactment of this Act \[Oct. 24, 2018\], the Secretary, in consultation with divisions of the Department of Health and Human Services administering substance use disorder or child welfare programs, shall develop and issue guidance to States identifying opportunities to support family-focused residential treatment programs for the provision of substance use disorder treatment. Before issuing such guidance,the Secretary shall solicit input from representatives of States, health care providers with expertise in addiction medicine, obstetrics and gynecology, neonatology, child trauma, and child development, health plans, recipients of family-focused treatment services, and other relevant stakeholders.
+In general.—Not later than 180 days after the date of enactment of this Act \[Oct. 24, 2018\], the Secretary, in consultation with divisions of the Department of Health and Human Services administering substance use disorder or child welfare programs, shall develop and issue guidance to States identifying opportunities to support family-focused residential treatment programs for the provision of substance use disorder treatment. Before issuing such guidance, the Secretary shall solicit input from representatives of States, health care providers with expertise in addiction medicine, obstetrics and gynecology, neonatology, child trauma, and child development, health plans, recipients of family-focused treatment services, and other relevant stakeholders.
 
 &emsp;"(2)
 

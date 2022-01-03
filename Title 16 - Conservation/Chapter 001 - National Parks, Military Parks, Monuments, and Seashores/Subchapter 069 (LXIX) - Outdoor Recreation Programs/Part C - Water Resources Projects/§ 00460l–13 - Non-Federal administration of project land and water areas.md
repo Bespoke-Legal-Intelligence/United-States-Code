@@ -2,7 +2,7 @@
 
 #### (a) Allocation of costs
 
-If, before authorization of a project, non-Federal public bodies indicate their intent in writing to agree to administer project land and water areas for recreation or fish and wildlife enhancement or for both of these purposes pursuant to the plan for the development of the project approved by the head of the agency having administrative jurisdiction over it and to bear not less than one-half the separable costs of the project allocated to recreation, and to bear one-quarter of such costs allocated to fish and wildlife enhancement and not less than one-halfthe costs of operation, maintenance, and replacement incurred therefor—
+If, before authorization of a project, non-Federal public bodies indicate their intent in writing to agree to administer project land and water areas for recreation or fish and wildlife enhancement or for both of these purposes pursuant to the plan for the development of the project approved by the head of the agency having administrative jurisdiction over it and to bear not less than one-half the separable costs of the project allocated to recreation, and to bear one-quarter of such costs allocated to fish and wildlife enhancement and not less than one-half the costs of operation, maintenance, and replacement incurred therefor—
 
 &emsp;(1) the benefits of the project to said purpose or purposes shall be taken into account in determining the economic benefits of the project;
 
@@ -18,11 +18,15 @@ The non-Federal share of the separable costs of the project allocated to recreat
 
 (Pub. L. 89–72, §2, July 9, 1965, 79 Stat. 214; Pub. L. 93–251, title I, §77(a)(1), (2), Mar. 7, 1974, 88 Stat. 33; Pub. L. 102–575, title XXVIII, §2804(a), Oct. 30, 1992, 106 Stat. 4691.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–575 substituted "not less than one-half the costs of operation" for "all the costs of operation" in introductory provisions.
 
 <b>1974</b>—Subsec. (a). Pub. L. 93–251 substituted in text preceding item (1) "separable costs of the project allocated to recreation, and to bear one-quarter of such costs allocated to fish and wildlife enhancement" for "separable costs of the project allocated to either or both of said purposes, as the case may be" and in item (3) "separable costs of the project allocated to recreation and exactly three-quarters of such costs allocated to fish and wildlife enhancement" for "separable costs", respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1974 Amendment
 

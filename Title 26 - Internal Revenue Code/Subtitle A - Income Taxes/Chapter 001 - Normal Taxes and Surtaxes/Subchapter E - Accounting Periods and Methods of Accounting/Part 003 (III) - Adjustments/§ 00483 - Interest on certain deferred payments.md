@@ -64,7 +64,7 @@ For purposes of this section, the term "total unstated interest" means, with res
 
 #### (2) Qualified sale
 
-&emsp;For purposes of this subsection, the term "qualified sale" means any sale or exchange of land by an individual to a member of such individual's family (within the meaning of section 267(c)(4)).
+&emsp;For purposes of this subsection, the term "qualified sale" means any sale or exchange ofland by an individual to a member of such individual's family (within the meaning of section 267(c)(4)).
 
 #### (3) $500,000 limitation
 
@@ -91,6 +91,8 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 &emsp;&emsp;<b>(3) For special rules in case of the borrower under certain loans for personal use, see section 1275(b).</b>
 
 (Added Pub. L. 88–272, title II, §224(a), Feb. 26, 1964, 78 Stat. 77; amended Pub. L. 94–455, title XIX, §§1901(b)(3)(B), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1792, 1834; Pub. L. 97–34, title I, §126(a), Aug. 13, 1981, 95 Stat. 202; Pub. L. 97–448, title I, §101(g), Jan. 12, 1983, 96 Stat. 2367; Pub. L. 98–369, div. A, title I, §41(b), July 18, 1984, 98 Stat. 553; Pub. L. 99–121, title I, §§101(a)(2), 102(c)(1)–(3), Oct. 11, 1985, 99 Stat. 505, 508; Pub. L. 99–514, title XVIII, §1803(a)(14)(B), Oct. 22, 1986, 100 Stat. 2797.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -122,7 +124,7 @@ Subsec. (d). Pub. L. 98–369 amended subsec. (d) generally, substituting provis
 
 Subsec. (e). Pub. L. 98–369 amended subsec. (e) generally, substituting provisions relating to interest rates in case of sale of principal residence or farm land for provision relating to changes in terms of contract.
 
-Subsec. (f). Pub. L. 98–369 amended subsec. (f) generally, substituting provisions relating to maximum rate of interest on certain transfers of land between related parties for provisions which related to exceptions and limitations now covered in subsec. (d) of this section.
+Subsec. (f). Pub. L. 98–369 amended subsec. (f) generally, substituting provisions relating to maximum rate of interest on certain transfers of land between related parties for provisions which related to exceptionsand limitations now covered in subsec. (d) of this section.
 
 Subsec. (g). Pub. L. 98–369 amended subsec. (g) generally, substituting provisions which related to calling for the promulgation of regulations by the Secretary for provisions which related to the maximum rate of interest on certain transfers of land between related parties now covered in subsec. (f) of this section.
 
@@ -136,13 +138,15 @@ Subsec. (h). Pub. L. 98–369 added subsec. (h).
 
 Subsec. (f)(3). Pub. L. 94–455, §1901(b)(3)(B), substituted "all of the gain, if any, on such" for "no part of any gain on such" and "ordinary income" for gain from the sale or exchange of property other than a capital asset".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1985 Amendment
 
-Amendment by Pub. L. 99–121 applicable to sales and exchanges after June 30, 1985, in taxable years endingafter such date, see section 105(a)(1) of Pub. L. 99–121, set out as a note under section 1274 of this title.
+Amendment by Pub. L. 99–121 applicable to sales and exchanges after June 30, 1985, in taxable years ending after such date, see section 105(a)(1) of Pub. L. 99–121, set out as a note under section 1274 of this title.
 
 #### Effective Date of 1984 Amendment
 

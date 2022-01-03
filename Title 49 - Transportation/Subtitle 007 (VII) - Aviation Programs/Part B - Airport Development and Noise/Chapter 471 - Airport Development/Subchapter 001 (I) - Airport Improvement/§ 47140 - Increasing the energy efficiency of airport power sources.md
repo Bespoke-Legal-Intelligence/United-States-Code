@@ -10,13 +10,15 @@ Grants.—
 
 &emsp;(1)
 
-In general.—The Secretary may make grants from amounts made available under section 48103 to assist airport sponsors thathave completed the assessment described in subsection (a) to acquire or construct equipment, including hydrogen equipment and related infrastructure, that will increase energy efficiency at the airport.
+In general.—The Secretary may make grants from amounts made available under section 48103 to assist airport sponsors that have completed the assessment described in subsection (a) to acquire or construct equipment, including hydrogen equipment and related infrastructure, that will increase energy efficiency at the airport.
 
 &emsp;(2)
 
 Application.—To be eligible for a grant under paragraph (1), the sponsor of a public-use airport shall submit an application, including a certification that no safety projects are being be <sup>1</sup> deferred by requesting a grant under this section, to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
 
 (Added Pub. L. 112–95, title V, §512(a), Feb. 14, 2012, 126 Stat. 109, §47140a; renumbered §47140 and amended Pub. L. 115–254, div. B, title I, §§166(b)(1), 171, Oct. 5, 2018, 132 Stat. 3226, 3227.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

@@ -2,7 +2,7 @@
 
 #### (a) Notification requirement
 
-Not later than 15 days after notice of any theft, loss, or release of a biological select agent or toxin involving the Department of Defense is provided to the Centers for Disease Control and Prevention or the Animal and Plant Health Inspection Service, as specified by section 331.19 of part <sup>1</sup> 7 of the Code of Federal Regulations, the Secretary of Defense shall provide to the congressional defense committees notice of such theft, loss, or release.
+Not later than 15 days after notice of any theft, loss, or release of a biological select agent or toxin involving the Department of Defense is provided to the Centers for Disease Control andPrevention or the Animal and Plant Health Inspection Service, as specified by section 331.19 of part <sup>1</sup> 7 of the Code of Federal Regulations, the Secretary of Defense shall provide to the congressional defense committees notice of such theft, loss, or release.
 
 #### (b) Elements
 
@@ -20,9 +20,13 @@ Notice of a theft, loss, or release of a biological select agent or toxin under 
 
 (Pub. L. 114–328, div. A, title X, §1067, Dec. 23, 2016, 130 Stat. 2411.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2017, and not as part of Pub. L. 91–121, title IV, §409, Nov. 19, 1969, 83 Stat. 209, which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Congressional Defense Committees" Defined
 

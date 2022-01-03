@@ -1,6 +1,6 @@
 ### §8015. Improvement of transparency and traceability programs
 
-The Secretary of State, the Administrator of the United States Agency for International Development, the Secretary of the Department in which the Coast Guard is operating when it isnot operating as a service in the Department of the Navy, the Secretary of Commerce, and the heads of other Federal agencies, if merited, shall work, as appropriate, with priority flag states and key countries in priority regions—
+The Secretary of State, the Administrator of the United States Agency for International Development, the Secretary of the Department in which the Coast Guard is operating when it is not operating as a service in the Department of the Navy, the Secretary of Commerce, and the heads of other Federal agencies, if merited, shall work, as appropriate, with priority flag states and key countries in priority regions—
 
 &emsp;(1) to increase knowledge within such countries about the United States transparency and traceability standards for imports of seafood and seafood products;
 

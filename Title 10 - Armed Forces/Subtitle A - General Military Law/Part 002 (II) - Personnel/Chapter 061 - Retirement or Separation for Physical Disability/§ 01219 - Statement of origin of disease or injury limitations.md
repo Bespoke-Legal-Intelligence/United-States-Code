@@ -10,9 +10,13 @@ A member of an armed force may not be required to sign a statement relating to t
 
 Sections 1218 and 1219 are restated, without substantive change, to conform to the style adopted for title 10.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1962</b>—Pub. L. 87–651 substituted "Statement of origin of disease or injury: limitation" for "Statement against interest void" in section catchline, and "A member of an armed force may not be required to sign a statement relating to the origin, incurrence, or aggravation of a disease or injury that he has. Any such statement against his interests, signed by a member, is invalid" for "No person in the Armed Forces may be required to sign a statement of any nature relating to the origin, incurrence, or aggravation of any disease or injury he may have. Any such statement against his own interest, whenever signed, is of no force and effect."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

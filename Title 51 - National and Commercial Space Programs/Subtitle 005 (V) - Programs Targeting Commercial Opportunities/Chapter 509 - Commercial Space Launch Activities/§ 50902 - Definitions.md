@@ -188,7 +188,7 @@ Par. (7). Pub. L. 114–90, §112(c)(1), (e), redesignated par. (4) as (7) and s
 
 Par. (8). Pub. L. 114–90, §112(c)(1), redesignated par. (5) as (8). Former par. (8) redesignated (11).
 
-Par. (9). Pub. L. 114–90, §112(c)(1), (f), redesignated par. (6) as (9) and substituted "payload, crew (including crew training), government astronaut, or space flight participant" for "payload, crew (including crew training), or space flight participant" in subpar. (A). Former par. (9) redesignated (12).
+Par. (9). Pub. L. 114–90, §112(c)(1), (f), redesignated par. (6) as (9) and substituted "payload, crew (including crew training), government astronaut, or space flightparticipant" for "payload, crew (including crew training), or space flight participant" in subpar. (A). Former par. (9) redesignated (12).
 
 Pars. (10) to (15). Pub. L. 114–90, §112(c)(1), redesignated pars. (7) to (12) as (10) to (15), respectively. Former pars. (10) to (15) redesignated (13) to (18), respectively.
 

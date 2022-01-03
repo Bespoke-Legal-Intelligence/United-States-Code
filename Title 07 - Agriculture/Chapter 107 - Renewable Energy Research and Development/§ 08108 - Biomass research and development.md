@@ -52,9 +52,9 @@ In this section:
 
 &emsp;&emsp;(A) the point of contacts of the Department of Energy and the Department of Agriculture, who shall serve as cochairpersons of the Board;
 
-&emsp;&emsp;(B) a senior officer of each of the Department of the Interior, the Environmental Protection Agency, the National Science Foundation, and the Office of Science and Technology Policy, each of whom shall have a rank that is equivalent to the rank of the points of contact; and
+&emsp;&emsp;(B) a senior officer of each of the Department of the Interior, the Environmental Protection Agency, the National ScienceFoundation, and the Office of Science and Technology Policy, each of whom shall have a rank that is equivalent to the rank of the points of contact; and
 
-&emsp;&emsp;(C) at the option of the Secretary of Agriculture and the Secretary of Energy, othermembers appointed by the Secretaries (after consultation with the Board).
+&emsp;&emsp;(C) at the option of the Secretary of Agriculture and the Secretary of Energy, other members appointed by the Secretaries (after consultation with the Board).
 
 #### (3) Duties
 
@@ -162,7 +162,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;The Secretary of Agriculture and the Secretary of Energy, acting through their respective points of contact and in consultation with the Board, shall establish and carry out a Biomass Research and Development Initiative under which competitively awarded grants, contracts, and financial assistance are provided to, or entered into with, eligible entities to carry out research on and development and demonstration of—
+&emsp;The Secretary of Agriculture and the Secretary of Energy, acting through their respective points of contact and in consultation with the Board, shall establish and carry out a Biomass Research and Development Initiative under which competitively awarded grants, contracts, and financial assistance are provided to, or entered into with, eligible entitiesto carry out research on and development and demonstration of—
 
 &emsp;&emsp;(A) biofuels and biobased products; and
 
@@ -336,6 +336,8 @@ For each fiscal year for which funds are made available to carry out this sectio
 
 (Pub. L. 107–171, title IX, §9008, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1318, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2079; amended Pub. L. 112–240, title VII, §701(f)(7), Jan. 2, 2013, 126 Stat. 2365; Pub. L. 113–79, title IX, §9008, Feb. 7, 2014, 128 Stat. 931; Pub. L. 115–334, title VII, §7507, Dec. 20, 2018, 132 Stat. 4823.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 5925e of this title, referred to in subsec. (e)(6)(C)(ii), was repealed by Pub. L. 113–79, title VII, §7212(a), Feb. 7, 2014, 128 Stat. 886.
@@ -364,9 +366,11 @@ Subsec. (h)(2). Pub. L. 115–334, §7507(4), substituted "2023" for "2018".
 
 <b>2014</b>—Subsec. (h)(1)(E). Pub. L. 113–79, §9008(1), added subpar. (E).
 
-Subsec. (h)(2). Pub. L. 113–79, §9008(2), substituted "$20,000,000 for each of fiscal years 2014 through 2018"for "$35,000,000 for each of fiscal years 2009 through 2013".
+Subsec. (h)(2). Pub. L. 113–79, §9008(2), substituted "$20,000,000 for each of fiscal years 2014 through 2018" for "$35,000,000 for each of fiscal years 2009 through 2013".
 
 <b>2013</b>—Subsec. (h)(2). Pub. L. 112–240 substituted "2013" for "2012".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2013 Amendment
 

@@ -18,7 +18,7 @@ Nothing contained in this chapter shall be construed to authorize any policy or 
 
 #### References in Text
 
-This chapter, referred to in subsec. (c), was in the original "this chapter" and was translated as reading"this Act", meaning Pub. L. 87–297, Sept. 26, 1961, 75 Stat. 631, known as the Arms Control and Disarmament Act, which is classified generally to this chapter, to reflect the probable intent of Congress.
+This chapter, referred to in subsec. (c), was in the original "this chapter" and was translated as reading "this Act", meaning Pub. L. 87–297, Sept. 26, 1961, 75 Stat. 631, known as the Arms Control and Disarmament Act, which is classified generally to this chapter, to reflect the probable intent of Congress.
 
 #### Amendments
 

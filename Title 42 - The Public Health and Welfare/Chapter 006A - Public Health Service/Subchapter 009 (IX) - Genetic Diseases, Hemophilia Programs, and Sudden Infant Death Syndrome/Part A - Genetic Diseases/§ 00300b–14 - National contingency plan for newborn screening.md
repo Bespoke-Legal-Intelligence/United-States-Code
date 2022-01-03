@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than 180 days after April 24, 2008, the Secretary, acting through the Director of the Centers for Disease Control and Prevention and in consultation with the Administrator and State departments of health (or related agencies), shall develop a national contingency plan for newborn screening for use by a State, region, or consortium of States in the event of a public health emergency. The plan shall be updated as needed and at least every five years.
+Not later than 180 days after April 24, 2008, the Secretary, acting through the Director of the Centers for Disease Control and Prevention and in consultation with the Administrator andState departments of health (or related agencies), shall develop a national contingency plan for newborn screening for use by a State, region, or consortium of States in the event of a public health emergency. The plan shall be updated as needed and at least every five years.
 
 #### (b) Contents
 
@@ -25,6 +25,8 @@ The contingency plan developed under subsection (a) shall include a plan for—
 &emsp;(8) carrying out other activities determined appropriate by the Secretary.
 
 (July 1, 1944, ch. 373, title XI, §1115, as added Pub. L. 110–204, §7, Apr. 24, 2008, 122 Stat. 711; amended Pub. L. 113–240, §8, Dec. 18, 2014, 128 Stat. 2855.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

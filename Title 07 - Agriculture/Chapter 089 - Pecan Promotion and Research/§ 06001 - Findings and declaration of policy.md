@@ -20,7 +20,7 @@ Congress finds that—
 
 #### (b) Policy
 
-It is declared to be the policy of Congress that it is in the public interest to authorize the establishment, through the exercise of the powers provided in this chapter, of an orderly procedure for developing, financing (through adequate assessments on pecans produced or imported intothe United States), and carrying out an effective, continuous, coordinated program of promotion, research, industry information, and consumer information designed to—
+It is declared to be the policy of Congress that it is in the public interest to authorize the establishment, through the exercise of the powers provided in this chapter, of an orderly procedure for developing, financing (through adequate assessments on pecans produced or imported into the United States), and carrying out an effective, continuous, coordinated program of promotion, research, industry information, and consumer information designed to—
 
 &emsp;(1) strengthen the pecan industry's position in the marketplace;
 
@@ -33,6 +33,8 @@ It is declared to be the policy of Congress that it is in the public interest to
 Nothing in this chapter may be construed to provide for the control of production or otherwise limit the right of any person to produce pecans.
 
 (Pub. L. 101–624, title XIX, §1906, Nov. 28, 1990, 104 Stat. 3838.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

@@ -6,17 +6,19 @@ Whoever, when violating any law of the United States, or of any possession of th
 
 #### (b) Penalty for possession of machine gun, etc.
 
-Whoever, when violating any such law, has in his possession or in his control a machine gun, or any shotgun having a barrel or barrels less than 18 inches in length, or a rifle having a barrel or barrels less than 16 inches in length, shall be imprisoned not more than 20 years; and all persons engaged in any such violation or in aiding in any such violation shall be held to be in possession and control of such machine gun, shotgun, or rifle.
+Whoever, when violating any such law, has in his possession or in his control a machine gun,or any shotgun having a barrel or barrels less than 18 inches in length, or a rifle having a barrel or barrels less than 16 inches in length, shall be imprisoned not more than 20 years; and all persons engaged in any such violation or in aiding in any such violation shall be held to be in possession and control of such machine gun, shotgun, or rifle.
 
 #### (c) Forfeiture of firearms, devices, etc.
 
-Every such firearm or device for emitting gas, smoke, or fumes, and every such explosive, machine gun, shotgun, or rifle, in the possession or control of any person when violating any suchlaw, shall be seized and shall be forfeited and disposed of in the manner provided by section 5872.
+Every such firearm or device for emitting gas, smoke, or fumes, and every such explosive, machine gun, shotgun, or rifle, in the possession or control of any person when violating any such law, shall be seized and shall be forfeited and disposed of in the manner provided by section 5872.
 
 #### (d) Definition of machine gun
 
 As used in this section the term "machine gun" means a machine gun as defined in section 5845(b).
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1411; amended Pub. L. 86–478, §4, June 1, 1960, 74 Stat. 150; Pub. L. 94–455, title XIX, §1905(a)(23), (c)(6), Oct. 4, 1976, 90 Stat. 1821, 1823.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -31,6 +33,8 @@ Subsec. (c). Pub. L. 94–455, §1905(a)(23)(B), substituted "section 5872" for 
 Subsec. (d). Pub. L. 94–455, §1905(a)(23)(C), substituted "means a machinegun as defined in section 5845(b)" for "means any weapon which shoots, or is designed to shoot, automatically or semiautomatically, more than one shot, without manual reloading, by a single function of the trigger".
 
 <b>1960</b>—Subsecs. (a), (b). Pub. L. 86–478 substituted "shotgun having a barrel or barrels less than 18 inches in length, or a rifle having a barrel or barrels less than 16 inches in length" for "shotgun or rifle having a barrel or barrels less than 18 inches in length".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

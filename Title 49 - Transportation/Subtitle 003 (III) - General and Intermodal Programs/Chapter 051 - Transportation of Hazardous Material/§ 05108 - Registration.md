@@ -180,6 +180,8 @@ In subsection (i)(2)(A), the words "Notwithstanding any other provisions of this
 
 This amends 49:5108(f) to correct an erroneous cross-reference.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (g)(2)(B), (C). Pub. L. 114–94 substituted "5116(h)" for "5116(i)".
@@ -237,6 +239,8 @@ Subsec. (i)(2)(B). Pub. L. 109–59, §7109(e), inserted "an Indian tribe," afte
 Subsec. (a)(4). Pub. L. 103–311, §104, added par. (4).
 
 Subsec. (g)(2)(A)(viii). Pub. L. 103–311, §119(d)(1), struck out "5107(e)," before "5108(g)(2)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

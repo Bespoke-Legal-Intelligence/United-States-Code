@@ -4,6 +4,8 @@ If any provision of this chapter, or the application thereof to any person or ci
 
 (Aug. 9, 1939, ch. 615, title IV, §418, 53 Stat. 1290.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 See section 1610 of this title.

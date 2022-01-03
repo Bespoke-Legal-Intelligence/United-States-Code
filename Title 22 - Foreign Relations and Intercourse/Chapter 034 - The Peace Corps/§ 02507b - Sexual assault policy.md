@@ -16,7 +16,7 @@ The President shall develop and implement a comprehensive sexual assault policy 
 
 &emsp;(6) includes a guarantee that volunteers will not suffer loss of living allowances for reporting a sexual assault;
 
-&emsp;(7) maintains a record documenting the resignation of any employee or volunteer of the Peace Corps who resigns before a determination has been made regarding an alleged violation of the sexual misconduct policy or other serious policy violations;
+&emsp;(7) maintains a record documenting the resignation of any employee or volunteer of thePeace Corps who resigns before a determination has been made regarding an alleged violation of the sexual misconduct policy or other serious policy violations;
 
 &emsp;(8) takes into account the record maintained under paragraph (7) before such employee or volunteer is hired, enrolled, or otherwise invited to work with the Peace Corps;
 

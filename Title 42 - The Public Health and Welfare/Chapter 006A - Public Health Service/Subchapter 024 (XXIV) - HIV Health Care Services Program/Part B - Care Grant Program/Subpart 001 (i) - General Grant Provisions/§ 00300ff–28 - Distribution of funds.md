@@ -136,7 +136,7 @@
 
 #### (ii) Use of amounts involved
 
-&emsp;&emsp;&emsp;For each of the fiscal years 2007 through 2012, amounts available as a result of the limitation under clause (i) shall be made available by the Secretary as additionalamounts for grants pursuant to section 300ff–29a of this title, subject to subparagraph (H).
+&emsp;&emsp;&emsp;For each of the fiscal years 2007 through 2012, amounts available as a result of the limitation under clause (i) shall be made available by the Secretary as additional amounts for grants pursuant to section 300ff–29a of this title, subject to subparagraph (H).
 
 #### (F) Appropriations for treatment drug program
 
@@ -162,7 +162,7 @@
 
 #### (III) State requirements
 
-&emsp;&emsp;&emsp;&emsp;The Secretary may not make a grant to a State under this clause unless the State agrees that the State will make available (directly or through donations of public or private entities) non-Federal contributions toward the activities to be carried out under the grant in an amount equal to $1 for each $4 of Federal funds provided in the grant, except that the Secretary may waive this subclause if the State has otherwise fully complied with section 300ff–27(d) of this title with respect to the grant year involved. The provisions of this subclause shall apply to States that are not required to comply with such section 300ff–27(d) of this title.
+&emsp;&emsp;&emsp;&emsp;The Secretary may not make a grant to a State under this clause unless theState agrees that the State will make available (directly or through donations of public or private entities) non-Federal contributions toward the activities to be carried out under the grant in an amount equal to $1 for each $4 of Federal funds provided in the grant, except that the Secretary may waive this subclause if the State has otherwise fully complied with section 300ff–27(d) of this title with respect to the grant year involved. The provisions of this subclause shall apply to States that are not required to comply with such section 300ff–27(d) of this title.
 
 #### (IV) Use and coordination
 
@@ -230,7 +230,7 @@
 
 #### (B) Allocations
 
-&emsp;&emsp;In the case of entities and subcontractors to which a State allocates amounts received by the State under a grant under section 300ff–21 of this title, the State shall ensure that, of the aggregate amount so allocated, the total of the expenditures by such entities for administrative expenses does not exceed 10 percent (without regard to whether particular entities expend more than 10 percent for such expenses).
+&emsp;&emsp;In the case of entities and subcontractors to which a State allocates amounts received by the State under a grant under section300ff–21 of this title, the State shall ensure that, of the aggregate amount so allocated, the total of the expenditures by such entities for administrative expenses does not exceed 10 percent (without regard to whether particular entities expend more than 10 percent for such expenses).
 
 #### (C) Administrative activities
 
@@ -276,7 +276,7 @@
 
 #### (6) Construction
 
-&emsp;A State may not use amounts received under a grant awarded under section 300ff–21 of thistitle to purchase or improve land, or to purchase, construct, or permanently improve (other than minor remodeling) any building or other facility, or to make cash payments to intended recipients of services.
+&emsp;A State may not use amounts received under a grant awarded under section 300ff–21 of this title to purchase or improve land, or to purchase, construct, or permanently improve (other than minor remodeling) any building or other facility, or to make cash payments to intended recipients of services.
 
 #### (c) Expedited distribution
 
@@ -297,6 +297,8 @@
 Any portion of a grant made to a State under section 300ff–21 of this title for a fiscal year that has not been obligated as described in subsection (c) ceases to be available to the State and shall be made available by the Secretary for grants under section 300ff–29a of this title, in addition to amounts made available for such grants under section 300ff–31b(b)(2) of this title.
 
 (July 1, 1944, ch. 373, title XXVI, §2618, as added Pub. L. 101–381, title II, §201, Aug. 18, 1990, 104 Stat. 595; amended Pub. L. 102–531, title III, §312(d)(30), Oct. 27, 1992, 106 Stat. 3506; Pub. L. 104–146, §§3(c)(5), (g)(2), 5, 6(c)(3), May 20, 1996, 110 Stat. 1355, 1363, 1365, 1368; Pub. L. 105–392, title IV, §417, Nov. 13, 1998, 112 Stat. 3591; Pub. L. 106–345, title II, §206, Oct. 20, 2000, 114 Stat. 1334; Pub. L. 109–415, title II, §§203, 204(a), title VII, §§702(1), 703, Dec. 19, 2006, 120 Stat. 2789, 2796, 2819, 2820; Pub. L. 111–87, §§2(a)(1), (3)(A), 3(b), 5(b), (c)(1), 7(b), 10(b), Oct. 30, 2009, 123 Stat. 2885, 2888, 2890, 2891, 2893, 2895.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -362,7 +364,7 @@ Subsec. (a)(2)(A)(ii)(II). Pub. L. 109–415, §203(b)(1)(B)(ii), inserted "non-
 
 Subsec. (a)(2)(A)(ii)(III). Pub. L. 109–415, §203(b)(1)(B)(iii), added subcl. (III).
 
-Subsec. (a)(2)(B). Pub. L. 109–415, §203(a)(1)(A), substituted "number of living cases of HIV/AIDS in the State involved" for "estimated number of living casesof acquired immune deficiency syndrome in the eligible area involved".
+Subsec. (a)(2)(B). Pub. L. 109–415, §203(a)(1)(A), substituted "number of living cases of HIV/AIDS in the State involved" for "estimated number of living cases of acquired immune deficiency syndrome in the eligible area involved".
 
 Subsec. (a)(2)(C)(i). Pub. L. 109–415, §203(g)(4), struck out "or territory" after "State".
 
@@ -386,7 +388,7 @@ Subsec. (a)(2)(F)(ii). Pub. L. 109–415, §203(c)(2), which directed amendment 
 
 Subsec. (a)(2)(F)(iii). Pub. L. 109–415, §203(c)(3), which directed amendment of subsec. (a)(2)(G) by adding cl. (iii), was executed by making the amendment to subsec. (a)(2)(F), to reflect the probable intent of Congress.
 
-Subsec. (a)(2)(G). Pub. L. 109–415, §203(b)(2), struck out heading and text of subpar. (G). Text read as follows: "The Secretary may, in determining the amount of a grant for a fiscal year under this subsection, adjust the grant amount to reflect the amount of unexpended and uncanceled grant funds remaining at the end of the fiscal year preceding the year for which the grant determination is to be made. The amount of any such unexpended funds shall be determined using the financial status report of the grantee."
+Subsec. (a)(2)(G). Pub. L. 109–415, §203(b)(2), struck out heading and text of subpar. (G). Text read as follows: "The Secretary may, in determining the amount of a grant for a fiscal year under this subsection, adjustthe grant amount to reflect the amount of unexpended and uncanceled grant funds remaining at the end of the fiscal year preceding the year for which the grant determination is to be made. The amount of any such unexpended funds shall be determined using the financial status report of the grantee."
 
 Subsec. (a)(2)(H). Pub. L. 109–415, §203(d), added subpar. (H).
 
@@ -440,7 +442,7 @@ Subsec. (a)(1)(B). Pub. L. 106–345, §206(d), inserted "the greater of $50,000
 
 Subsec. (a)(2)(A)(i). Pub. L. 106–345, §206(c)(2)(A), substituted "subparagraphs (H) and (I)" for "subparagraph (H)".
 
-Subsec. (a)(2)(D)(i). Pub. L. 106–345, §206(b)(1), inserted before semicolon ", except that (subject to subparagraph (E)), for grants made pursuant to this paragraph or section 300ff–30 of this title for fiscal year 2005 and subsequent fiscal years, the cases counted for each 12-month period beginning on or after July 1, 2004, shall becases of HIV disease (as reported to and confirmed by such Director) rather than cases of acquired immune deficiency syndrome".
+Subsec. (a)(2)(D)(i). Pub. L. 106–345, §206(b)(1), inserted before semicolon ", except that (subject to subparagraph (E)), for grants made pursuant to this paragraph or section 300ff–30 of this title for fiscal year 2005 and subsequent fiscal years, the cases counted for each 12-month period beginning on or after July 1, 2004, shall be cases of HIV disease (as reported to and confirmed by such Director) rather than cases of acquired immune deficiency syndrome".
 
 Subsec. (a)(2)(E) to (G). Pub. L. 106–345, §206(b)(2), (3), added subpar. (E) and redesignated former subpars. (E) and (F) as (F) and (G), respectively. Former subpar. (G) redesignated (H).
 
@@ -493,6 +495,8 @@ Administration.—A State may not use in excess of 5 percent of amounts received
 Subsec. (c)(5) to (7). Pub. L. 104–146, §3(c)(5)(C), (D), added pars. (5) and (6) and redesignated former par. (5) as (7).
 
 <b>1992</b>—Subsec. (c)(1). Pub. L. 102–531 substituted "Centers for Disease Control and Prevention" for "Centers for Disease Control".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment; Revival of Section
 

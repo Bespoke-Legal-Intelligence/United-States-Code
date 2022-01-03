@@ -74,7 +74,7 @@ This section shall not apply to any lease of property which meets the requiremen
 
 #### (iii) Option to purchase
 
-&emsp;&emsp;&emsp;If under the lease the lessee has the option to purchase the property for a fixed price or for other than the fair market value of the property (determined at thetime of exercise), the allowable amount at the time such option may be exercised may not exceed 50 percent of the price at which such option may be exercised.
+&emsp;&emsp;&emsp;If under the lease the lessee has the option to purchase the property for a fixed price or for other than the fair market value of the property (determined at the time of exercise), the allowable amount at the time such option may be exercised may not exceed 50 percent of the price at which such option may be exercised.
 
 #### (iv) No allowable amount for certain arrangements
 
@@ -214,6 +214,8 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 (Added Pub. L. 108–357, title VIII, §848(a), Oct. 22, 2004, 118 Stat. 1602; amended Pub. L. 110–172, §7(c), Dec. 29, 2007, 121 Stat. 2482; Pub. L. 115–141, div. U, title IV, §401(a)(120), Mar. 23, 2018, 132 Stat. 1190.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (d)(2)(B). Pub. L. 115–141 substituted "subparagraph (A)(ii)" for "clause (ii)".
@@ -235,6 +237,8 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 > Such term shall not include property which would (but for this sentence) be tax-exempt use property solely by reason of section 168(h)(6) if any credit is allowable under section 42 or 47 with respect to such property."
 
 Subsec. (d)(1)(A). Pub. L. 110–172, §7(c)(2), in introductory provisions, substituted "(at all times during the lease term)" for "(at any time during the lease term)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

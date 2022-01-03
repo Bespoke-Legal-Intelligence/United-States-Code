@@ -84,7 +84,7 @@
 
 &emsp;&emsp;&emsp;(i) a description of the project proposed in the application;
 
-&emsp;&emsp;&emsp;(ii) an estimate of the production increase and the duration of the production increase from the project, as compared to conventional recovery techniques, including water flooding;
+&emsp;&emsp;&emsp;(ii) an estimate of the production increase and the duration of the productionincrease from the project, as compared to conventional recovery techniques, including water flooding;
 
 &emsp;&emsp;&emsp;(iii) an estimate of the carbon dioxide sequestered by project, over the life of the project;
 
@@ -166,9 +166,13 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 (Pub. L. 109–58, title III, §354, Aug. 8, 2005, 119 Stat. 715; Pub. L. 110–140, title VII, §713, Dec. 19, 2007, 121 Stat. 1715.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2007</b>—Subsecs. (d), (e). Pub. L. 110–140 added subsec. (d) and redesignated former subsec. (d) as (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

@@ -20,7 +20,7 @@ A local educational agency that claims children residing on Indian lands for the
 
 #### (c) Waiver
 
-A local educational agency that claims children residing on Indian lands for the purpose of receiving funds under section 7703 of this title shall not be required to comply with the requirements of subsections (a) and (b) for any fiscal year with respect to any Indian tribe from which such agency has received a written statement that the agency need not comply with those subsections because the tribe is satisfied with the provision of educational services by such agency to such children.
+A local educational agency that claims children residing on Indian lands for the purpose ofreceiving funds under section 7703 of this title shall not be required to comply with the requirements of subsections (a) and (b) for any fiscal year with respect to any Indian tribe from which such agency has received a written statement that the agency need not comply with those subsections because the tribe is satisfied with the provision of educational services by such agency to such children.
 
 #### (d) Technical assistance and enforcement
 
@@ -58,7 +58,7 @@ The Secretary shall—
 
 #### (5) Written determination
 
-&emsp;Within 30 days of the Secretary's receipt of the findings, recommendations, and record, the Secretary shall, on the basis of the record,make a written determination of the appropriate remedial action, if any, to be taken by the local educational agency, the schedule for completion of the remedial action, and the reasons for the Secretary's decision.
+&emsp;Within 30 days of the Secretary's receipt of the findings, recommendations, and record, the Secretary shall, on the basis of the record, make a written determination of the appropriate remedial action, if any, to be taken by the local educational agency, the schedule for completion of the remedial action, and the reasons for the Secretary's decision.
 
 #### (6) Copies provided
 
@@ -82,6 +82,8 @@ This section is based upon the special relationship between the Indian nations a
 
 (Pub. L. 89–10, title VII, §7004, formerly title VIII, §8004, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3759; renumbered title VII, §7004, and amended Pub. L. 114–95, title VII, §§7001(c)(1), (d)(2), 7005, Dec. 10, 2015, 129 Stat. 2074, 2086.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1101(d) of the Education Amendments of 1978, referred to in subsec. (e)(9), is section 1101(d) of Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2315, set out below.
@@ -91,6 +93,8 @@ Section 1101(d) of the Education Amendments of 1978, referred to in subsec. (e)(
 <b>2015</b>—Pub. L. 114–95, §7001(d)(2), made technical amendments to references in original act which appear in text as references to section 7703 of this title.
 
 Subsec. (e)(9). Pub. L. 114–95, §7005, substituted "Indian Education" for "Indian Affairs" in two places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

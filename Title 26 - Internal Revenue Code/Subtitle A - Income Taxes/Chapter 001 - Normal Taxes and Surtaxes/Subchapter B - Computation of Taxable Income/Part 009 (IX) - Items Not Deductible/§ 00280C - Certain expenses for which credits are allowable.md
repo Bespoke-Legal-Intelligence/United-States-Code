@@ -48,7 +48,7 @@ No deduction shall be allowed for that portion of the wages or salaries paid or 
 
 #### (4) Controlled groups
 
-&emsp;In the case of a corporation which is a member of a controlled group of corporations (within the meaning of section 41(f)(5)) or a trade or business which is treated as being under common control with other trades or business (within the meaning of section 41(f)(1)(B)), this subsection shall be applied under rules prescribed by the Secretary similar to the rules applicable under subparagraphs (A) and (B) of section 41(f)(1).
+&emsp;In the case of a corporation which is a member of a controlled group of corporations (within the meaning of section 41(f)(5)) or a trade or business which is treated as being under common control with other trades or business (within the meaning of section41(f)(1)(B)), this subsection shall be applied under rules prescribed by the Secretary similar to the rules applicable under subparagraphs (A) and (B) of section 41(f)(1).
 
 #### (c) <sup>1</sup> Credit for increasing research activities
 
@@ -116,7 +116,7 @@ No deduction shall be allowed for the portion of the premiums paid by the taxpay
 
 No deduction shall be allowed for that portion of the premiums for qualified health plans (as defined in section 1301(a) of the Patient Protection and Affordable Care Act), or for health insurance coverage in the case of taxable years beginning in 2010, 2011, 2012, or 2013, paid by an employer which is equal to the amount of the credit determined under section 45R(a) with respect to the premiums.
 
-(Added Pub. L. 95–30, title II, §202(c)(1), May 23, 1977, 91 Stat. 147; amended Pub. L. 95–600, title III, §322(d)(1), Nov. 6, 1978, 92 Stat. 2838; Pub. L. 96–178, §6(c)(4), Jan. 2, 1980, 93 Stat. 1298; Pub. L. 96–222, title I, §103(a)(7)(D)(iv), Apr. 1, 1980, 94 Stat. 212; Pub. L. 97–414, §4(b)(1), (2)(A), Jan. 4, 1983, 96 Stat. 2055; Pub. L. 98–369, div. A, title IV,§474(r)(10), July 18, 1984, 98 Stat. 841; Pub. L. 99–514, title II, §231(d)(3)(E), title XVIII, §1847(b)(8), Oct. 22, 1986, 100 Stat. 2179, 2856; Pub. L. 100–647, title IV, §4008(a), Nov. 10, 1988, 102 Stat. 3652; Pub. L. 101–239, title VII, §§7110(c)(1), 7814(e)(2)(A), Dec. 19, 1989, 103 Stat. 2325, 2413; Pub. L. 103–66, title XIII, §§13302(b)(1), 13322(c)(1), Aug. 10, 1993, 107 Stat. 555, 563; Pub. L. 104–188, title I, §1205(d)(7), Aug. 20, 1996, 110 Stat. 1776; Pub. L. 106–170, title V, §502(c)(2), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 106–554, §1(a)(7) \[title III, §311(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–639; Pub. L. 108–357, title III, §339(c), Oct. 22, 2004, 118 Stat. 1484; Pub. L. 109–135, title I, §103(b)(2), title II, §201(b)(2), Dec. 21, 2005, 119 Stat. 2595, 2607; Pub. L. 109–432, div. A, title IV, §405(c), Dec. 20, 2006, 120 Stat. 2957; Pub. L. 110–172, §7(a)(1)(B), Dec. 29, 2007, 121 Stat. 2481; Pub. L. 110–234, title XV, §15343(c), May 22, 2008, 122 Stat. 1519; Pub. L. 110–245, title I, §111(c), June 17, 2008, 122 Stat. 1635; Pub. L. 110–246, §4(a), title XV, §15343(c), June 18, 2008, 122 Stat. 1664, 2281; Pub. L. 111–148, title I, §§1401(b), 1421(d)(1), title IX, §9023(c)(2), title X, §10105(e)(3), Mar. 23, 2010, 124 Stat. 219, 242, 880, 906; Pub. L. 115–97, title I, §§13001(b)(1)(A), 13206(d)(2), 13401(b), 13403(d)(1), Dec. 22, 2017, 131 Stat. 2096, 2112, 2133, 2137; Pub. L. 115–141, div. U, title IV, §401(a)(62), (d)(3)(B)(iii), (6)(B)(iv), Mar. 23, 2018, 132 Stat. 1187, 1209, 1211.)
+(Added Pub. L. 95–30, title II, §202(c)(1), May 23, 1977, 91 Stat. 147; amended Pub. L. 95–600, title III, §322(d)(1), Nov. 6, 1978, 92 Stat. 2838; Pub. L. 96–178, §6(c)(4), Jan. 2, 1980, 93 Stat. 1298; Pub. L. 96–222, title I, §103(a)(7)(D)(iv), Apr. 1, 1980, 94 Stat. 212; Pub. L. 97–414, §4(b)(1), (2)(A), Jan. 4, 1983, 96 Stat. 2055; Pub. L. 98–369, div. A, title IV, §474(r)(10), July 18, 1984, 98 Stat. 841; Pub. L. 99–514, title II, §231(d)(3)(E), title XVIII, §1847(b)(8), Oct. 22, 1986, 100 Stat. 2179, 2856; Pub. L. 100–647, title IV, §4008(a), Nov. 10, 1988, 102 Stat. 3652; Pub. L. 101–239, title VII, §§7110(c)(1), 7814(e)(2)(A), Dec. 19, 1989, 103 Stat. 2325, 2413; Pub. L. 103–66, title XIII, §§13302(b)(1), 13322(c)(1), Aug. 10, 1993, 107 Stat. 555, 563; Pub. L. 104–188, title I, §1205(d)(7), Aug. 20, 1996, 110 Stat. 1776; Pub. L. 106–170, title V, §502(c)(2), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 106–554, §1(a)(7) \[title III, §311(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–639; Pub. L. 108–357, title III, §339(c), Oct. 22, 2004, 118 Stat. 1484; Pub. L. 109–135, title I, §103(b)(2), title II, §201(b)(2), Dec. 21, 2005, 119 Stat. 2595, 2607; Pub. L. 109–432, div. A, title IV, §405(c), Dec. 20, 2006, 120 Stat. 2957; Pub. L. 110–172, §7(a)(1)(B), Dec. 29, 2007, 121 Stat. 2481; Pub. L. 110–234, title XV, §15343(c), May 22, 2008, 122 Stat. 1519; Pub. L. 110–245, title I, §111(c), June 17, 2008, 122 Stat. 1635; Pub. L. 110–246, §4(a), title XV, §15343(c), June 18, 2008, 122 Stat. 1664, 2281; Pub. L. 111–148, title I, §§1401(b), 1421(d)(1), title IX, §9023(c)(2), title X, §10105(e)(3), Mar. 23, 2010, 124 Stat. 219, 242, 880, 906; Pub. L. 115–97, title I, §§13001(b)(1)(A), 13206(d)(2), 13401(b), 13403(d)(1), Dec. 22, 2017, 131 Stat. 2096, 2112, 2133, 2137; Pub. L. 115–141, div. U, title IV, §401(a)(62), (d)(3)(B)(iii), (6)(B)(iv), Mar. 23, 2018, 132 Stat. 1187, 1209, 1211.)
 
 #### Amendment of Subsection (c)
 
@@ -165,6 +165,8 @@ No deduction shall be allowed for that portion of the premiums for qualified hea
 &emsp;<i>Paragraph (3) of subsection (b) shall apply for purposes of this subsection.</i>
 
 <i>See 2017 Amendment notes below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -259,6 +261,8 @@ Subsec. (c). Pub. L. 98–369, §474(r)(10)(A), redesignated subsec. (c) as (b).
 Subsec. (c). Pub. L. 97–414, §4(b)(1), added subsec. (c).
 
 <b>1978</b>—Pub. L. 95–600, as amended by Pub. L. 96–178 and Pub. L. 96–222, substituted "section 40 or 44B" for "section 44B" in section catchline, and in text designated existing provisions as subsec. (b) and added subsec. (a).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 

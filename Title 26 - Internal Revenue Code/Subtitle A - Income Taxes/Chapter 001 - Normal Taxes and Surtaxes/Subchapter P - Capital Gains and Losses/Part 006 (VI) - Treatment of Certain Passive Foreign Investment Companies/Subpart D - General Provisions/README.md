@@ -3,9 +3,11 @@ Subpart D—General Provisions
 | Sec. |  |
 | :--- | ---: |
 | [1297\.](%C2%A7%2001297%20-%20Passive%20foreign%20investment%20company.md) | Passive foreign investment company. |
-| [1298\.](%C2%A7%2001298%20-%20Special%20rules.md) | Special rules. |
+| [1298\.](%C2%A7%2001298%20-%20Special%20rules.md) | Special rules.<br> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

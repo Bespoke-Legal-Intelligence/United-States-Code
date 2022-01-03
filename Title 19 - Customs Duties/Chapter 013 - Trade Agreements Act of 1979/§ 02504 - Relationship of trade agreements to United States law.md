@@ -22,7 +22,7 @@ Regulations necessary or appropriate to carry out actions proposed in any statem
 
 &emsp;&emsp;(B) the President transmits a document to the House of Representatives and to the Senate containing a copy of the text of such requirement, amendment, or recommendation, together with—
 
-&emsp;&emsp;&emsp;(i) a draft of a bill to amend or repeal provisions of existing statutes or to create statutory authority and an explanation as to how the bill and any proposed administrative action affect existing law, and
+&emsp;&emsp;&emsp;(i) a draft of a bill to amend or repeal provisions of existing statutes or to createstatutory authority and an explanation as to how the bill and any proposed administrative action affect existing law, and
 
 &emsp;&emsp;&emsp;(ii) a statement of how the requirement, amendment, or recommendation serves the interests of United States commerce and why the legislative and administrative action is necessary or appropriate to carry out the requirement, amendment, or recommendation, and
 
@@ -46,6 +46,8 @@ Neither the entry into force with respect to the United States of any agreement 
 
 (Pub. L. 96–39, §3(a)–(c), (f), July 26, 1979, 93 Stat. 148–150.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsec. (d), is Pub. L. 96–39, July 26, 1979, 93 Stat. 144, known as the Trade Agreements Act of 1979. For complete classification of this Act to the Code, see References in Text note set out under section 2501 of this title and Tables.
@@ -53,6 +55,8 @@ This Act, referred to in subsec. (d), is Pub. L. 96–39, July 26, 1979, 93 Stat
 #### Codification
 
 As originally enacted section 3 of Pub. L. 96–39 consisted of subsecs. (a) to (c), (e) and (f), without a provision designated as (d). Subsec. (e) amended section 2111(b)(1) of this title and subsec. (f) has been redesignated as (d) for the purposes of codification of this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### United States-Canada Free-Trade Agreement
 

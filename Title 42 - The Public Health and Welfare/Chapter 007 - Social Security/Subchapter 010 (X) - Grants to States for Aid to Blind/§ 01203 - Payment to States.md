@@ -14,7 +14,7 @@ From the sums appropriated therefor, the Secretary of the Treasury shall pay to 
 
 The method of computing and paying such amounts shall be as follows:
 
-&emsp;(1) The Secretary of Health and Human Services shall, prior to the beginning of each quarter, estimate the amount to be paid to the State for such quarter under the provisions of subsection (a), such estimate to be based on (A) a report filed by the State containing its estimate of the total sum to be expended in such quarter in accordance with the provisions of such subsection, and stating the amount appropriated or made available by the State andits political subdivisions for such expenditures in such quarter, and if such amount is less than the State's proportionate share of the total sum of such estimated expenditures, the source or sources from which the difference is expected to be derived, (B) records showing the number of blind individuals in the State, and (C) such other investigation as the Secretary may find necessary.
+&emsp;(1) The Secretary of Health and Human Services shall, prior to the beginning of each quarter, estimate the amount to be paid to the State for such quarter under the provisions of subsection (a), such estimate to be based on (A) a report filed by the State containing its estimate of the total sum to be expended in such quarter in accordance with the provisions of such subsection, and stating the amount appropriated or made available by the State and its political subdivisions for such expenditures in such quarter, and if such amount is less than the State's proportionate share of the total sum of such estimated expenditures, the source or sources from which the difference is expected to be derived, (B) records showing the number of blind individuals in the State, and (C) such other investigation as the Secretary may find necessary.
 
 &emsp;(2) The Secretary of Health and Human Services shall then certify to the Secretary of the Treasury the amount so estimated by the Secretary of Health and Human Services, (A) reduced or increased, as the case may be, by any sum by which he finds that his estimate for any prior quarter was greater or less than the amount which should have been paid to the State under subsection (a) for such quarter, and (B) reduced by a sum equivalent to the pro rata share to which the United States is equitably entitled, as determined by the Secretary of Health and Human Services, of the net amount recovered during a prior quarter by the State or any political subdivision thereof with respect to aid to the blind furnished under the State plan; except that such increases or reductions shall not be made to the extent that such sums have been applied to make the amount certified for any prior quarter greater or less than the amount estimated by the Secretary of Health and Human Services for such prior quarter: <i>Provided</i>, That any part of the amount recovered from the estate of a deceased recipient which is not in excess of the amount expended by the State or any political subdivision thereof for the funeral expenses of the deceased shall not be considered as a basis for reduction under clause (B) of this paragraph.
 
@@ -25,6 +25,8 @@ The method of computing and paying such amounts shall be as follows:
 #### Repeal of Section
 
 <i>Pub. L. 92–603, title III, §303(a), (b), Oct. 30, 1972, 86 Stat. 1484, provided that this section is repealed effective Jan. 1, 1974, except with respect to Puerto Rico, Guam, and the Virgin Islands.</i>
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -68,7 +70,7 @@ Subsec. (a)(2). Pub. L. 89–97, §122, inserted "premiums under part B of subch
 
 Subsec. (a)(2). Pub. L. 87–543, §132(b), substituted "$37.50" for "$35.50".
 
-Subsec. (a)(3). Pub. L. 87–543, §101(a)(3), (b)(3)(A), inserted in opening provisions "whose State plan approved under section 1202 of this title meets the requirements of subsection (c)(1) of this section" after "any State", and substituted provisions which increased the Federal share of expenses of administration of State public assistance plans by providing quarterly payments of the sum of 75 per centum of the quarterly expenses for certain prescribed services to help attain and retain capability for self-support or self-care, services likely to prevent or reduce dependency, and services appropriate for individuals who were or are likely to become applicants for or recipients of aid to the blind and request such services, and training of State or local public assistance personnel administering such plans and one-half of other administrative expenses for other services, permitted State health or vocational rehabilitation or other appropriate State agencies to furnish such services, except vocational rehabilitation services, and required the determination of the portion of expenses covered by the 75 and 50 per centum provisions in accordance with methods and procedures permitted by the Secretary for former provisions requiring quarterly payments of one-half of quarterly expenses of administration of State plans, including staff service of State or local public assistance agencies to applicants for and recipients of aid to the blind to help them attain self-support or self-care.
+Subsec. (a)(3). Pub. L. 87–543, §101(a)(3), (b)(3)(A), inserted in opening provisions "whose State plan approved under section 1202 of this title meets the requirements of subsection (c)(1) of this section" after"any State", and substituted provisions which increased the Federal share of expenses of administration of State public assistance plans by providing quarterly payments of the sum of 75 per centum of the quarterly expenses for certain prescribed services to help attain and retain capability for self-support or self-care, services likely to prevent or reduce dependency, and services appropriate for individuals who were or are likely to become applicants for or recipients of aid to the blind and request such services, and training of State or local public assistance personnel administering such plans and one-half of other administrative expenses for other services, permitted State health or vocational rehabilitation or other appropriate State agencies to furnish such services, except vocational rehabilitation services, and required the determination of the portion of expenses covered by the 75 and 50 per centum provisions in accordance with methods and procedures permitted by the Secretary for former provisions requiring quarterly payments of one-half of quarterly expenses of administration of State plans, including staff service of State or local public assistance agencies to applicants for and recipients of aid to the blind to help them attain self-support or self-care.
 
 Subsec. (a)(4). Pub. L. 87–543, §101(b)(3)(B), added par. (4).
 
@@ -99,6 +101,12 @@ Subsec. (b). Act Aug. 28, 1950, §361(c), (d), substituted "Administrator" for "
 Subsec. (b). Act Aug. 10, 1946, §503(b), temporarily substituted "the State's proportionate share" for "one-half" in par. (1). See Effective and Termination Date of 1946 Amendment note below.
 
 <b>1939</b>—Act Aug. 10. 1939, amended section generally.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsec. (b) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
 #### Effective Date of 1993 Amendment
 
@@ -170,12 +178,6 @@ Amendment by section 503 of act Aug. 10, 1946, effective only for period beginni
 
 Act Aug. 10, 1939, ch. 666, title VII, §702, 53 Stat. 1397, provided that the amendment made by that section is effective Jan. 1, 1940.
 
-#### Transfer of Functions
-
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
-
-"Fiscal Service" substituted for "Division of Disbursement" in subsec. (b)(3), on authority of section 1(a)(1) of Reorg. Plan No. III of 1940, eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231, set out in the Appendix to Title 5, Government Organization and Employees, which consolidated such division into the Fiscal Service of the Treasury Department. See section 306 of Title 31, Money and Finance.
-
 #### Nonduplication of Payments to States, Prohibition of Payments After December 31, 1969
 
 Prohibition of payments under this subchapter to States with respect to aid or assistance in form of medical or other type of remedial care for any period for which States received payments under subchapter XIX of this chapter or for any period after Dec. 31, 1969, see section 121(b) of Pub. L. 89–97, set out as a note under section 1396b of this title.
@@ -183,4 +185,12 @@ Prohibition of payments under this subchapter to States with respect to aid or a
 #### Election of Payments Under Combined State Plan Rather Than Separate Plans
 
 Payments to States under combined State plan under subchapter XVI of this chapter as precluding payment under State plan conforming to this subchapter, see Pub. L. 87–543, title I, §141(b), July 25, 1962, 76 Stat. 205.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
+
+"Fiscal Service" substituted for "Division of Disbursement" in subsec. (b)(3), on authority of section 1(a)(1) of Reorg. Plan No. III of 1940, eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231, set out in the Appendix to Title 5, Government Organization and Employees, which consolidated such division into the Fiscal Service of the Treasury Department. See section 306 of Title 31, Money and Finance.
 

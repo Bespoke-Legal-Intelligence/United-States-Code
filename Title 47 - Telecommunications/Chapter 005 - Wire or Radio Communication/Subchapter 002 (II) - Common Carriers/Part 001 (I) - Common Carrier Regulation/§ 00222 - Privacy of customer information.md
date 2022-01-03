@@ -20,7 +20,7 @@ A telecommunications carrier that receives or obtains proprietary information fr
 
 #### (3) Aggregate customer information
 
-&emsp;A telecommunications carrier that receives or obtains customer proprietary network information by virtue of its provision of a telecommunications service may use, disclose, or permit access to aggregate customer information other than for the purposes described inparagraph (1). A local exchange carrier may use, disclose, or permit access to aggregate customer information other than for purposes described in paragraph (1) only if it provides such aggregate information to other carriers or persons on reasonable and nondiscriminatory terms and conditions upon reasonable request therefor.
+&emsp;A telecommunications carrier that receives or obtains customer proprietary network information by virtue of its provision of a telecommunications service may use, disclose, or permit access to aggregate customer information other than for the purposes described in paragraph (1). A local exchange carrier may use, disclose, or permit access to aggregate customer information other than for purposes described in paragraph (1) only if it provides such aggregate information to other carriers or persons on reasonable and nondiscriminatory terms and conditions upon reasonable request therefor.
 
 #### (d) Exceptions
 
@@ -84,7 +84,7 @@ As used in this section:
 
 #### (4) Public safety answering point
 
-&emsp;The term "public safety answering point" means a facility that has been designated toreceive emergency calls and route them to emergency service personnel.
+&emsp;The term "public safety answering point" means a facility that has been designated to receive emergency calls and route them to emergency service personnel.
 
 #### (5) Emergency services
 

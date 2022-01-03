@@ -2,7 +2,7 @@
 
 #### (a) Extension permitted
 
-If the value of a reversionary or remainder interest in property is included under chapter 11 in the value of the gross estate, the payment of the part of the tax under chapter 11 attributable to such interest may, at the election of the executor, be postponed until 6 months after the termination of the precedent interest or interests in the property, under such regulations as the Secretary may prescribe.
+If the value of a reversionary or remainder interest in property is included under chapter 11 in the value of the gross estate, the payment of the part of the tax under chapter 11 attributable to such interest may, at the election of the executor, be postponed until 6 months after the termination of the precedent interest or interests inthe property, under such regulations as the Secretary may prescribe.
 
 #### (b) Extension for reasonable cause
 
@@ -13,6 +13,8 @@ At the expiration of the period of postponement provided for in subsection (a), 
 &emsp;&emsp;<b>For authority of the Secretary to require security in the case of an extension under this section, see section 6165.</b>
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 763; Pub. L. 85–866, title I, §66(b)(1), Sept. 2, 1958, 72 Stat. 1658; Pub. L. 88–272, title II, §240(a), Feb. 26, 1964, 78 Stat. 129; Pub. L. 93–625, §7(d)(1), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XX, §2004(c)(3), Oct. 4, 1976, 90 Stat. 1834, 1868.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -27,6 +29,8 @@ Subsec. (c). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" af
 <b>1964</b>—Subsec. (b). Pub. L. 88–272 substituted "or periods not in excess of 3" for "not in excess of 2".
 
 <b>1958</b>—Subsecs. (b), (c). Pub. L. 85–866 added subsec. (b) and redesignated former subsec. (b) as (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

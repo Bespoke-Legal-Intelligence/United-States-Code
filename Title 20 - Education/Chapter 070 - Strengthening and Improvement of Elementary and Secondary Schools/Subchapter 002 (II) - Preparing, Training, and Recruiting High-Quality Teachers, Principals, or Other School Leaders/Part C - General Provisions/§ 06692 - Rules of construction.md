@@ -18,6 +18,8 @@ Nothing in this subchapter shall be construed to alter or otherwise affect the r
 
 (Pub. L. 89–10, title II, §2302, as added Pub. L. 114–95, title II, §2002, Dec. 10, 2015, 129 Stat. 1953.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 2302 of Pub. L. 89–10 was classified to section 6672 of this title, prior to repeal by Pub. L. 112–239.
@@ -44,7 +46,7 @@ Section 6714, Pub. L. 89–10, title II, §2344, as added Pub. L. 107–110, tit
 
 Section 6715, Pub. L. 89–10, title II, §2345, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1664, related to cooperative civic education and economic education exchange programs.
 
-Section 6716, Pub. L. 89–10, title II, §2346, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1666, authorized appropriations to carry out subpart 3 of part C of former subchapter II of this chapter.
+Section 6716, Pub. L. 89–10, title II, §2346, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1666,authorized appropriations to carry out subpart 3 of part C of former subchapter II of this chapter.
 
 Section 6721, Pub. L. 89–10, title II, §2351, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1666, related to establishment of the Teaching American History Grant Program.
 
@@ -99,6 +101,8 @@ Section 6772, Pub. L. 89–10, title II, §2422, as added Pub. L. 107–110, tit
 Section 6775, Pub. L. 89–10, title II, §2431, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1683, related to Ready-to-Learn Television program.
 
 A prior section 6777, Pub. L. 89–10, title II, §2441, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1686, which related to Internet safety, was renumbered section 4121 of title IV of Pub. L. 89–10 by Pub. L. 114–95, title II, §2001(a)(4)(A), (B), (D), title IV, §4001(a)(5)(D), Dec. 10, 2015, 129 Stat. 1913, 1966, and transferred to section 7131 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

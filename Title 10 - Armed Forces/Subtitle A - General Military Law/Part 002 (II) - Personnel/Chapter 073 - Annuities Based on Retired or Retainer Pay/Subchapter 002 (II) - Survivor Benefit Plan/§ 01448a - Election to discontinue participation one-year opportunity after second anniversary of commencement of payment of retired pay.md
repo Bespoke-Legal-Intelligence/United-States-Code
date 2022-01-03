@@ -46,9 +46,11 @@ Inapplicability of Irrevocability Provisions.—Paragraphs (4)(B) and (5)(C) of 
 
 (Added Pub. L. 105–85, div. A, title VI, §641(a)(1), Nov. 18, 1997, 111 Stat. 1797.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Pub. L. 105–85, div. A, title VI, §641(c), Nov. 18, 1997, 111 Stat. 1799, provided that: "Section 1448a of title 10, United States Code, as added by subsection (a), shall take effect 180 days after the date of the enactment of this Act \[Nov. 18, 1997\]."
+Pub. L. 105–85, div. A, title VI, §641(c), Nov. 18, 1997, 111 Stat. 1799, provided that: "Section 1448a of title 10,United States Code, as added by subsection (a), shall take effect 180 days after the date of the enactment of this Act \[Nov. 18, 1997\]."
 
 #### Transition Provision for Current Participants
 

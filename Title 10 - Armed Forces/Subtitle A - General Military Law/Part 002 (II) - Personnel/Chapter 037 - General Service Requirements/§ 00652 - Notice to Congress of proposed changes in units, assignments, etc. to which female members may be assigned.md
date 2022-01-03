@@ -42,6 +42,8 @@ Other Personnel Policy Changes.—(1) Except in a case covered by section 8225 o
 
 (Added Pub. L. 109–163, div. A, title V, §541(a)(1), Jan. 6, 2006, 119 Stat. 3251; amended Pub. L. 114–92, div. A, title V, §524, Nov. 25, 2015, 129 Stat. 813; Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Military Selective Service Act, referred to in subsec. (a)(3)(B), is act June 24, 1948, ch. 625, 62 Stat. 604, which was classified principally to section 451 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 49 (§3801 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
@@ -61,6 +63,8 @@ Provisions similar to those in this section were contained in Pub. L. 103–160,
 Subsec. (a)(5). Pub. L. 114–92, §524(a)(2), struck out par. (5) which read as follows: "For purposes of this subsection, the continuity of a session of Congress is broken only by an adjournment of the Congress sine die."
 
 Subsec. (b)(1). Pub. L. 114–92, §524(b), inserted "calendar" before "days".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

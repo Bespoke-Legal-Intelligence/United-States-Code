@@ -10,7 +10,7 @@ In this subpart:
 
 &emsp;(4) The term "technology and industrial base sector" means a group of public or private persons and organizations that engage in, or are capable of engaging in, similar research, development, production, integration, services, or information technology activities.
 
-&emsp;(5) The terms "Federal laboratory" and "laboratory" have the meaning given the term "laboratory" in section 12(d)(2) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a(d)(2)), except that such terms include a federally funded research and development center sponsored by a Federal agency.
+&emsp;(5) The terms "Federal laboratory" and "laboratory" have the meaning given the term "laboratory" in section 12(d)(2) of the Stevenson-Wydler Technology Innovation Act of 1980\(15 U.S.C. 3710a(d)(2)), except that such terms include a federally funded research and development center sponsored by a Federal agency.
 
 &emsp;(6) The term "critical technology" means a technology that is—
 
@@ -58,9 +58,9 @@ In this subpart:
 
 &emsp;(15) The term "integration" means the process of providing systems engineering and technical direction for a system for the purpose of achieving capabilities that satisfy program requirements.
 
-&emsp;(16) The term "chapter 148 legacy provision" means any of the following provisions of this subpart: sections 4801, 4811–4819, 4831–4834, 4841–4843, 4851, 4852, 4861–4864, 4871, 4872, 4881–4884, 4891, and 4892, and chapter 389.
+(Added Pub. L. 102–484, div. D, title XLII, §4203(a), Oct. 23, 1992, 106 Stat. 2661, §2491; amended Pub. L. 103–160, div. A, title XI, §1182(a)(9), title XIII, §1315(f), Nov. 30, 1993, 107 Stat. 1771, 1788; Pub. L. 103–337, div. A, title XI, §§1113(d), 1115(e), Oct. 5, 1994, 108 Stat. 2866, 2869; Pub. L. 104–106, div. A, title X, §1081(h), Feb. 10, 1996, 110 Stat. 455; renumbered §2500 and amended Pub. L. 105–85, div. A, title III, §371(b)(3), title X, §1073(a)(53), Nov. 18, 1997, 111 Stat. 1705, 1903; Pub. L. 111–383, div. A, title VIII, §895(a), Jan. 7, 2011, 124 Stat. 4313; Pub. L. 114–328, div. A, title VIII, §881(b), Dec. 23, 2016, 130 Stat. 2316; renumbered §4801 and amended Pub. L. 116–283, div. A, title XVIII, §1866(c), Jan. 1, 2021, 134 Stat. 4279; Pub. L. 117–81, div. A, title XVII, §1701(b)(21)(A), Dec. 27, 2021, 135 Stat. 2135.)
 
-(Added Pub. L. 102–484, div. D, title XLII, §4203(a), Oct. 23, 1992, 106 Stat. 2661, §2491; amended Pub. L. 103–160, div. A, title XI, §1182(a)(9), title XIII, §1315(f), Nov. 30, 1993, 107 Stat. 1771, 1788; Pub. L. 103–337, div. A, title XI, §§1113(d), 1115(e), Oct. 5, 1994, 108 Stat. 2866, 2869; Pub. L. 104–106, div. A, title X, §1081(h), Feb. 10, 1996, 110 Stat. 455; renumbered §2500 and amended Pub. L. 105–85, div. A, title III, §371(b)(3), title X, §1073(a)(53), Nov. 18, 1997, 111 Stat. 1705, 1903; Pub. L. 111–383, div. A, title VIII, §895(a), Jan. 7, 2011, 124 Stat. 4313; Pub. L. 114–328, div. A, title VIII, §881(b), Dec. 23, 2016, 130 Stat. 2316; renumbered §4801 and amended Pub. L. 116–283, div. A, title XVIII, §1866(c), Jan. 1, 2021, 134 Stat. 4279.)
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -80,17 +80,77 @@ A prior section 4806 was renumbered section 7806 of this title.
 
 #### Amendments
 
-<b>2021</b>—Pub. L. 116–283, §1866(c)(1), substituted "In this subpart" for "In this chapter" in introductory provisions.
+<b>2021</b>—Pub. L. 116–283, §1866(c)(1), as amended by Pub. L. 117–81, §1701(b)(21)(A)(i), substituted "In this subpart" for "In this chapter" in introductory provisions.
 
 Pub. L. 116–283, §1866(c), renumbered section 2500 of this title as this section.
 
-Par. (8). Pub. L. 116–283, §1866(c)(2), substituted "section 4816" for "section 2505" and "section 4811(a)" for "section 2501(a)".
+Par. (8). Pub. L. 116–283, §1866(c)(2), as amended by Pub. L. 117–81, §1701(b)(21)(A)(ii), substituted "section 4816" for "section 2505" and "section 4811(a)" for "section 2501(a)".
 
-Par. (16). Pub. L. 116–283, §1866(c)(3), added par. (16).
+Par. (16). Pub. L. 116–283, §1866(c)(3), which added par. (16) defining "chapter 148 legacy provision", was repealed by Pub. L. 117–81, §1701(b)(21)(A)(iii).
+
+<b>2016</b>—Par. (1). Pub. L. 114–328 inserted ", the United Kingdom of Great Britain and Northern Ireland, Australia," after "United States".
+
+<b>2011</b>—Par. (1). Pub. L. 111–383, §895(a)(1), substituted "integration, services, or information technology" for "or maintenance".
+
+Par. (4). Pub. L. 111–383, §895(a)(2), substituted "production, integration, services, or information technology" for "or production".
+
+Par. (9)(A). Pub. L. 111–383, §895(a)(3), substituted "manufacturing, integration, services, and information technology" for "and manufacturing".
+
+Par. (15). Pub. L. 111–383, §895(a)(4), added par. (15).
+
+<b>1997</b>—Pub. L. 105–85, §371(b)(3), renumbered section 2491 of this title as section 2500.
+
+Par. (8). Pub. L. 105–85, §1073(a)(53), substituted "that is identified under section 2505 of this title as critical for attaining the national security objectives set forth in section 2501(a) of this title." for "that appears on the list of critical technologies contained, pursuant to subsection (b)(4) of section 2505 of this title, in the most recent national technology and industrial base assessment submitted to Congress by the Secretary of Defense pursuant to section 2506(e) of this title."
+
+<b>1996</b>—Pars. (11) to (16). Pub. L. 104–106 redesignated pars. (13) to (16) as (11) to (14), respectively, and struck out former pars. (11) and (12) which read as follows:
+
+"(11) The term 'manufacturing extension program' means a public or private, nonprofit program for the improvement of the quality, productivity, and performance of United States-based small manufacturing firms in the United States.
+
+"(12) The term 'United States-based small manufacturing firm' means a company or other business entity that, as determined by the Secretary of Commerce—
+
+&emsp;"(A) engages in manufacturing;
+
+&emsp;"(B) has less than 500 employees; and
+
+&emsp;"(C) is an eligible firm."
+
+<b>1994</b>—Par. (5). Pub. L. 103–337, §1113(d), inserted before period at end ", except that such terms include a federally funded research and development center sponsored by a Federal agency".
+
+Par. (16). Pub. L. 103–337, §1115(e), added par. (16).
+
+<b>1993</b>—Par. (2). Pub. L. 103–160, §1182(a)(9)(A), substituted "nonmilitary applications" for "nonmilitary application".
+
+Par. (8). Pub. L. 103–160, §1182(a)(9)(B), substituted "subsection (b)(4)" for "subsection (f)".
+
+Pars. (13) to (15). Pub. L. 103–160, §1315(f), added pars. (13) to (15).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2021 Amendment
 
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and note below.
+
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+#### Short Title of 1994 Amendment
+
+Pub. L. 103–337, div. A, title XI, §1101, Oct. 5, 1994, 108 Stat. 2862, provided that: "This title \[enacting sections 2519 and 2520 of this title, amending this section, sections 1151, 1152, 2391, 2511 to 2513, and 2524 of this title, and sections 1662d and 1662d–1 of Title 29, Labor, and enacting and amending provisions set out as notes under section 2501 of this title\] may be cited as the 'Defense Conversion, Reinvestment, and Transition Assistance Amendments of 1994'."
+
+#### Short Title of 1993 Amendment
+
+Pub. L. 103–160, div. A, title XIII, §1301, Nov. 30, 1993, 107 Stat. 1783, provided that: "This title \[enacting sections 1152 and 1153 of this title and sections 1279d, 1279e, and 1280a of the Appendix to Title 46, Shipping, amending this section, sections 1142, 1151, 1598, 2410j, 2501, 2502, 2511 to 2513, 2523, and 2524 of this title, sections 1551 and 1662d–1 of Title 29, Labor, section 31326 of Title 46, and sections 1271, 1273, 1274, and 1274a of the Appendix to Title 46, repealing section 2504 of this title, enacting provisions set out as notes under sections 1143, 1151, 2501, 2511, 2701, and 5013 of this title, section 1662d–1 of Title 29, and sections 1279b and 1279d of the Appendix to Title 46, amending provisions set out as notes under sections 1143, 2391, and 2501 of this title, and repealing provisions set out as a note under section 2701 of this title\] may be cited as the 'Defense Conversion, Reinvestment, and Transition Assistance Amendments of 1993'."
+
+#### Short Title
+
+Pub. L. 102–484, div. D, §4001, Oct. 23, 1992, 106 Stat. 2658, provided that: "This division \[div. D (§§4001–4501) of Pub. L. 102–484, see Tables for classification\] may be cited as the 'Defense Conversion, Reinvestment, and Transition Assistance Act of 1992'."
+
+#### Treatment of Interagency and State and Local Purchases When the Department of Defense Acts as Contract Intermediary for the General Services Administration
+
+Pub. L. 114–92, div. A, title VIII, §897, Nov. 25, 2015, 129 Stat. 954, provided that: "Contracts executed by the Department of Defense as a result of the transfer of contracts from the General Services Administration or for which the Department serves as an item manager for products on behalf of the General Services Administration shall not be subject to requirements under chapter 148 of title 10, United States Code \[see chapters 381 to 385, and chapter 389, of this title\], to the extent such contracts are for purchases of products by other Federal agencies or State or local governments."
+
+#### Purposes of Title XLII of Pub. L. 102–484
+
+Pub. L. 102–484, div. D, title XLII, §4201, Oct. 23, 1992, 106 Stat. 2659, provided that: "The purposes of this title \[see Tables for classification\] are to consolidate, revise, clarify, and reenact policies and requirements, and to enact additional policies and requirements, relating to the national technology and industrial base, defense reinvestment, and defense conversion programs that further national security objectives."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

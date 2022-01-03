@@ -42,7 +42,7 @@ The Board shall—
 
 #### (g) Sharing information with Federal reserve banks
 
-The Board shall, for the purpose of facilitating insured credit unions' access to liquidity, makeavailable to the Federal reserve banks (subject to appropriate assurances of confidentiality) information relevant to making advances to such credit unions, including the Board's reports of examination.
+The Board shall, for the purpose of facilitating insured credit unions' access to liquidity, make available to the Federal reserve banks (subject to appropriate assurances of confidentiality) information relevant to making advances to such credit unions, including the Board's reports of examination.
 
 (June 26, 1934, ch. 750, title II, §204, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 1001; amended Pub. L. 95–630, title V, §502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 101–73, title IX, §915(a), Aug. 9, 1989, 103 Stat. 486; Pub. L. 103–325, title V, §529(b), Sept. 23, 1994, 108 Stat. 2266; Pub. L. 105–219, title III, §303, Aug. 7, 1998, 112 Stat. 934; Pub. L. 109–351, title VII, §726(13), Oct. 13, 2006, 120 Stat. 2002.)
 

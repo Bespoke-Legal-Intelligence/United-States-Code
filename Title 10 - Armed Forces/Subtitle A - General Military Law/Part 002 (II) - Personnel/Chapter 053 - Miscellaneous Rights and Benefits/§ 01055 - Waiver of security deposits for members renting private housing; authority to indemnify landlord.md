@@ -8,7 +8,7 @@
 
 &emsp;(B) the member shall not pay a security deposit;
 
-&emsp;(C) the Secretary (except as provided in subparagraphs (D) and (E)) shall compensate the landlord for breach of the lease by the member and for damage to the rental unit caused bythe member or by a guest or dependent of the member;
+&emsp;(C) the Secretary (except as provided in subparagraphs (D) and (E)) shall compensate the landlord for breach of the lease by the member and for damage to the rental unit caused by the member or by a guest or dependent of the member;
 
 &emsp;(D) the total liability of the Secretary for a breach of the lease or for damage described in subparagraph (C) may not exceed an amount equal to the amount that the Secretary determines would have been required by the landlord as a security deposit in the absence of an agreement authorized in this paragraph;
 
@@ -25,6 +25,8 @@
 (d) In this section, the term "landlord" means a person who leases a rental unit to a member of the armed forces.
 
 (Added Pub. L. 100–456, div. A, title VI, §621(a)(1), Sept. 29, 1988, 102 Stat. 1982.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

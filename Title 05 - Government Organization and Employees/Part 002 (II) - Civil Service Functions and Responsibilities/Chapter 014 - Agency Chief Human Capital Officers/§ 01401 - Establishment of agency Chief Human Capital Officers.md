@@ -18,7 +18,7 @@ Chapter effective 180 days after Nov. 25, 2002, see section 1305 of Pub. L. 107�
 
 #### Chief Human Capital Officers Council
 
-Pub. L. 107–296, title XIII, §1303, Nov. 25, 2002, 116 Stat. 2288, provided that:
+Pub. L. 107–296, title XIII, §1303, Nov. 25, 2002, 116 Stat. 2288, as amended by Pub. L. 117–81, div. F, title LXVI, §6604, Dec. 27, 2021, 135 Stat. 2441, provided that:
 
 "(a)
 
@@ -40,5 +40,17 @@ Employee Labor Organizations at Meetings.—The Chief Human Capital Officers Cou
 
 "(d)
 
-Annual Report.—Each year the Chief Human Capital Officers Council shall submit a report to Congress on the activities of the Council."
+Annual Reports.—
+
+&emsp;"(1)
+
+In general.—Each year, the Chief Human Capital Officers Council shall submit to Congress a report that includes the following:
+
+&emsp;&emsp;"(A) A description of the activities of the Council.
+
+&emsp;&emsp;"(B) A description of employment barriers that prevent the agencies of its members from hiring qualified applicants, including those for digital talent positions, and recommendations for addressing the barriers that would allow such agencies to more effectively hire qualified applicants.
+
+&emsp;"(2)
+
+Public availability.—Not later than 30 days after the date on which the Council submits a report under paragraph (1), the Director of the Office of Personnel Management shall make the report publicly available on the website of the Office of Personnel Management."
 

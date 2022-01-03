@@ -78,6 +78,8 @@ In subsection (f), the last sentence is substituted for 10:535 (words within par
 
 In subsection (g), the words "under this section" are substituted for 10:535a (9th through 41st words).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4301 of this title as this section.
@@ -90,9 +92,11 @@ In subsection (g), the words "under this section" are substituted for 10:535a (9
 
 <b>1973</b>—Subsec. (b). Pub. L. 93–169 struck out provisions which limited to four years the maximum period for which an officer detailed for additional active duty upon termination of detail is required to serve.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments andspecial rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 1980 Amendment
 

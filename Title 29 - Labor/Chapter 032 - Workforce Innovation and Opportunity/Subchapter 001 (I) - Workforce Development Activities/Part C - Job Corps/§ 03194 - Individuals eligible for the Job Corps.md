@@ -54,7 +54,7 @@ Pub. L. 116–260, div. N, title VI, §601, Dec. 27, 2020, 134 Stat. 2091, provi
 
 "(a)
 
-Enrollment.—During the period beginning on the date of enactment of this Act \[Dec. 27, 2020\] and ending when all qualifying emergencies have expired, notwithstanding any other provision of law, the requirements described in sections 145(a)(2)(A) and152(b)(2)(B) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3195(a)(2)(A), 3202(b)(2)(B)) shall be applicable only for enrollees in the Job Corps—
+Enrollment.—During the period beginning on the date of enactment of this Act \[Dec. 27, 2020\] and ending when all qualifying emergencies have expired, notwithstanding any other provision of law, the requirements described in sections 145(a)(2)(A) and 152(b)(2)(B) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3195(a)(2)(A), 3202(b)(2)(B)) shall be applicable only for enrollees in the Job Corps—
 
 &emsp;"(1) participating on-site at a Job Corps center; or
 

@@ -12,7 +12,7 @@ There is established within the Department of Commerce an office to be known as 
 
 #### (2) Qualifications
 
-&emsp;The Director shall be a citizen of the United States and have experience in a field directlyrelated to the promotion of travel to and within the United States.
+&emsp;The Director shall be a citizen of the United States and have experience in a field directly related to the promotion of travel to and within the United States.
 
 #### (3) Duties
 

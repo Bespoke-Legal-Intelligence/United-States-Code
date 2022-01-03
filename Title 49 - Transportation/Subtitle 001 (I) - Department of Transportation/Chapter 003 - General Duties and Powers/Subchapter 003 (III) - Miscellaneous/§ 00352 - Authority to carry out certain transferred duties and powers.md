@@ -1,6 +1,6 @@
 ### §352. Authority to carry out certain transferred duties and powers
 
-In carrying out a duty or power transferred under the Department of Transportation Act (Public Law 89–670, 80 Stat. 931), the Secretary of Transportation and the Administrators of the Federal Railroad Administration, the Federal Motor Carrier Safety Administration, and the Federal Aviation Administration have the same authority that was vested in the department, agency, or instrumentality of the United States Government carrying out the duty or power immediately before the transfer. An action of the Secretary or Administrator in carrying out the duty or power has the same effect as when carried out by the department, agency, or instrumentality.
+In carrying out a duty or power transferred under the Department of Transportation Act (Public Law 89–670, 80 Stat. 931), the Secretary of Transportation and the Administrators of theFederal Railroad Administration, the Federal Motor Carrier Safety Administration, and the Federal Aviation Administration have the same authority that was vested in the department, agency, or instrumentality of the United States Government carrying out the duty or power immediately before the transfer. An action of the Secretary or Administrator in carrying out the duty or power has the same effect as when carried out by the department, agency, or instrumentality.
 
 (Pub. L. 103–272, §4(j)(10)(A), July 5, 1994, 108 Stat. 1368; Pub. L. 109–59, title IV, §4125(c), Aug. 10, 2005, 119 Stat. 1738.)
 
@@ -21,6 +21,8 @@ Historical and Revision Notes
 Oct. 15, 1966, Pub. L. 89–670, §4(d), 80 Stat. 934.
 
 The words "force and" are omitted as surplus.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

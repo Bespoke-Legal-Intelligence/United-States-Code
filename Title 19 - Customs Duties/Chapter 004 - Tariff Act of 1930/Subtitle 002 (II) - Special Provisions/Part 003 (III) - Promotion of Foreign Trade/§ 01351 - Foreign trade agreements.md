@@ -2,11 +2,11 @@
 
 #### (a) Authority of President; modification and decrease of duties; altering import restrictions
 
-(1) For the purpose of expanding foreign markets for the products of the United States (as a means of assisting in establishing and maintaining a better relationship among various branches of American agriculture, industry, mining, and commerce) by regulating the admission of foreign goods into the United States in accordance with the characteristics and needs of various branches of American production so that foreign markets will be made available tothose branches of American production which require and are capable of developing such outlets by affording corresponding market opportunities for foreign products in the United States, the President, whenever he finds as a fact that any existing duties or other import restrictions of the United States or any foreign country are unduly burdening and restricting the foreign trade of the United States and that the purpose above declared will be promoted by the means hereinafter specified, is authorized from time to time—
+(1) For the purpose of expanding foreign markets for the products of the United States (as a means of assisting in establishing and maintaining a better relationship among various branches of American agriculture, industry, mining, and commerce) by regulating the admission of foreign goods into the United States in accordance with the characteristics and needs of various branches of American production so that foreign markets will be made available to those branches of American production which require and are capable of developing such outlets by affording corresponding market opportunities for foreign products in the United States, the President, whenever he finds as a fact that any existing duties or other import restrictions of the United States or any foreign country are unduly burdening and restricting the foreign trade of the United States and that the purpose above declared will be promoted by the means hereinafter specified, is authorized from time to time—
 
 &emsp;(A) To enter into foreign trade agreements with foreign governments or instrumentalities thereof: <i>Provided</i>, That the enactment of the Trade Agreements Extension Act of 1955 shall not be construed to determine or indicate the approval or disapproval by the Congress of the executive agreement known as the General Agreement on Tariffs and Trade.
 
-&emsp;(B) To proclaim such modifications of existing duties and other import restrictions, or such additional import restrictions, or such continuance, and for such minimum periods, of existing customs or excise treatment of any article covered by foreign trade agreements, as are required or appropriate to carry out any foreign trade agreement that the President has entered into hereunder.
+&emsp;(B) To proclaim such modifications of existing duties and other import restrictions, or such additional import restrictions, or such continuance, and for such minimum periods,of existing customs or excise treatment of any article covered by foreign trade agreements, as are required or appropriate to carry out any foreign trade agreement that the President has entered into hereunder.
 
 (2) No proclamation pursuant to paragraph (1)(B) of this subsection shall be made—
 
@@ -72,7 +72,7 @@ Nothing in this section or the Trade Expansion Act of 1962 \[19 U.S.C. 1801 et s
 
 &emsp;(1) In order to carry out a foreign trade agreement entered into by the President before June 12, 1955, by more than 50 per centum of the rate of duty existing on January 1, 1945, with respect to products of Cuba.
 
-&emsp;(2) In order to carry out a foreign trade agreement entered into by the President on or after June 12, 1955, and before July 1, 1962, below the applicable alternative specified in subsection (a)(2)(C) or (D) or (4)(A) (subject to the applicable provisions of subsection (a)(3)(B), (C), and (D) and (4)(B) and (C)), each such alternative to be read for the purposes of this paragraph as relating to the rate of duty applicable to products of Cuba. With respect to products of Cuba, the limitation of subsection (a)(2)(D)(ii) or (4)(A)(iii) may be exceeded tosuch extent as may be required to maintain an absolute margin of preference to which such products are entitled.
+&emsp;(2) In order to carry out a foreign trade agreement entered into by the President on or after June 12, 1955, and before July 1, 1962, below the applicable alternative specified in subsection (a)(2)(C) or (D) or (4)(A) (subject to the applicable provisions of subsection (a)(3)(B), (C), and (D) and (4)(B) and (C)), each such alternative to be read for the purposes of this paragraph as relating to the rate of duty applicable to products of Cuba. With respect to products of Cuba, the limitation of subsection (a)(2)(D)(ii) or (4)(A)(iii) may be exceeded to such extent as may be required to maintain an absolute margin of preference to which such products are entitled.
 
 &emsp;(3) In order to carry out a foreign trade agreement entered into after June 30, 1962, and before July 1, 1967, below the lowest rate permissible by applying title II of the Trade Expansion Act of 1962 \[19 U.S.C. 1821 et seq.\] to the rate of duty (however established, and even though temporarily suspended by Act of Congress or otherwise) existing on July 1, 1962, with respect to such product.
 
@@ -82,7 +82,7 @@ Nothing in this section or the Trade Expansion Act of 1962 \[19 U.S.C. 1801 et s
 
 (2) For purposes of this section—
 
-&emsp;(A) Except as provided in subsection (d), the terms "existing on July 1, 1934", "existing on January 1, 1945", "existing on January 1, 1955", and "existing on July 1, 1958" refer to rates of duty (however established, and even though temporarily suspended by Act of Congress or otherwise) existing on the date specified, except rates in effect by reason of action taken pursuant to section 1362 of this title.
+&emsp;(A) Except as provided in subsection (d), the terms "existing on July 1, 1934", "existing on January 1, 1945", "existing on January 1,1955", and "existing on July 1, 1958" refer to rates of duty (however established, and even though temporarily suspended by Act of Congress or otherwise) existing on the date specified, except rates in effect by reason of action taken pursuant to section 1362 of this title.
 
 &emsp;(B) The term "existing" without the specification of any date, when used with respect to any matter relating to the conclusion of, or proclamation to carry out, a foreign trade agreement, means existing on the day on which that trade agreement is entered into.
 
@@ -101,6 +101,8 @@ Nothing in this section or the Trade Expansion Act of 1962 \[19 U.S.C. 1801 et s
 It is declared to be the sense of the Congress that the President, during the course of negotiating any foreign trade agreement under this section, should seek information and advice with respect to such agreement from representatives of industry, agriculture, and labor.
 
 (June 17, 1930, ch. 497, title III, §350, as added June 12, 1934, ch. 474, §1, 48 Stat. 943; amended June 7, 1943, ch. 118, §2, 57 Stat. 125; July 5, 1945, ch. 269, §§2, 3, 59 Stat. 410; Sept. 26, 1949, ch. 585, §§4, 6, 63 Stat. 698; June 21, 1955, ch. 169, §3, 69 Stat. 162; Pub. L. 85–686, §3, Aug. 20, 1958, 72 Stat. 673; Pub. L. 87–794, title II, §257(a), (b), Oct. 11, 1962, 76 Stat. 881, 882; Pub. L. 96–39, title II, §202(a)(3), July 26, 1979, 93 Stat. 202.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -144,7 +146,7 @@ Subsec. (e)(1). Pub. L. 85–686, §3(d), provided for the inclusion in the repo
 
 Subsec. (f). Pub. L. 85–686, §3(e), added subsec. (f).
 
-<b>1955</b>—Subsec. (a). Act June 21, 1955, §3(a), among other changes, authorized the President to reduce tariff rates existing on January 1, 1955 by a total of 15 percent in stages of not more than 5 percent of such rates, or to reduce those rates which are higher than 50 percent of the value of an import to a rate not less than 50 percent, in stages of not more than one-third of the reduction in any one year.
+<b>1955</b>—Subsec. (a). Act June 21, 1955, §3(a), among other changes, authorized the President to reduce tariffrates existing on January 1, 1955 by a total of 15 percent in stages of not more than 5 percent of such rates, or to reduce those rates which are higher than 50 percent of the value of an import to a rate not less than 50 percent, in stages of not more than one-third of the reduction in any one year.
 
 Subsec. (b). Act June 21, 1955, §3(b), made applicable to Cuban products the new limits of authority to reduce tariffs.
 
@@ -163,6 +165,8 @@ Subsec. (b). Act July 5, 1945, struck out "payable" after "That the duties", and
 Subsec. (d). Act July 5, 1945, added subsec. (d).
 
 <b>1943</b>—Subsec. (a)(2). Act June 7, 1943, inserted matter within parentheses in proviso.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1979 Amendment
 
@@ -190,10 +194,6 @@ Pub. L. 87–456, title IV, §401, May 24, 1962, 76 Stat. 78, provided that:
 
 "(d) The Act of December 17, 1903 (19 U.S.C. 124, 125), and section 316 of the Tariff Act of 1930, as amended (19 U.S.C. 1316), both relating to the implementation of the treaty with Cuba concluded on December 11, 1902, shall not apply during the period during which subsection (a) applies."
 
-#### Administration of Trade Agreements Program
-
-For provisions relating to the administration of the trade agreements program, see Ex. Ord. No. 11846, Mar. 27, 1975, 40 F.R. 14291, set out as a note under section 2111 of this title.
-
 #### Congressional Approval or Disapproval of General Agreement on Tariffs and Trade
 
 Pub. L. 85–686, §10, Aug. 20, 1958, 72 Stat. 680, provided that: "The enactment of this Act \[enacting section 1335 of this title, amending sections 1333, 1336, 1337, 1351, 1352a, 1360 and 1364 of this title, and enacting notes set out under sections 1351 and 1352 of this title\] shall not be construed to determine or indicate the approval or disapproval by the Congress of the executive agreement known as the General Agreement on Tariffs and Trade."
@@ -212,6 +212,12 @@ Act Aug. 7, 1953, ch. 348, title III, §§301–310, 67 Stat. 473–475, as amen
 
 For extensions of authority of President to enter into trade agreements under this section, up until close of Dec. 31, 1962, see notes under section 1352 of this title.
 
+#### <b>Executive Documents</b>
+
+#### Administration of Trade Agreements Program
+
+For provisions relating to the administration of the trade agreements program, see Ex. Ord. No. 11846, Mar. 27, 1975, 40 F.R. 14291, set out as a note under section 2111 of this title.
+
 #### Executive Order No. 9832
 
 Ex. Ord. No. 9832, Feb. 25, 1947, 12 F.R. 1363, revoked by Ex. Ord. No. 10004, Oct. 6, 1948, 13 F.R. 5851.
@@ -222,7 +228,7 @@ Ex. Ord. No. 10004, Oct. 6, 1948, 13 F.R. 5851, superseded by Ex. Ord. No. 10082
 
 #### Executive Order No. 10082
 
-Ex. Ord. No. 10082, Oct. 5, 1949, 14 F.R. 6105, as amended by Ex. Ord. No. 10170, Oct. 13, 1950, 15 F.R. 6901, which related to administrative procedures for reciprocal trade-agreements program, was revoked by Ex. Ord. No. 11075, Jan. 15, 1963, 28 F.R. 473, set out as a note under section 1801 of this title.
+Ex. Ord. No. 10082, Oct. 5, 1949, 14 F.R. 6105, as amended by Ex. Ord. No. 10170, Oct. 13, 1950, 15 F.R. 6901, which related to administrative procedures for reciprocal trade-agreements program, was revoked by Ex. Ord. No.11075, Jan. 15, 1963, 28 F.R. 473, set out as a note under section 1801 of this title.
 
 #### Executive Order No. 10741
 

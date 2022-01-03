@@ -4,7 +4,7 @@
 
 (1) So long as any action taken under section 2253 of this title remains in effect, the Commission shall monitor developments with respect to the domestic industry, including the progress and specific efforts made by workers and firms in the domestic industry to make a positive adjustment to import competition.
 
-(2) If the initial period during which the action taken under section 2253 of this title is in effectexceeds 3 years, or if an extension of such action exceeds 3 years, the Commission shall submit a report on the results of the monitoring under paragraph (1) to the President and to the Congress not later than the date that is the mid-point of the initial period, and of each such extension, during which the action is in effect.
+(2) If the initial period during which the action taken under section 2253 of this title is in effect exceeds 3 years, or if an extension of such action exceeds 3 years, the Commission shall submit a report on the results of the monitoring under paragraph (1) to the President and to the Congress not later than the date that is the mid-point of the initial period, and of each such extension, during which the action is in effect.
 
 (3) In the course of preparing each report under paragraph (2), the Commission shall hold a hearing at which interested persons shall be given a reasonable opportunity to be present, to produce evidence, and to be heard.
 
@@ -52,6 +52,8 @@
 
 (Pub. L. 93–618, title II, §204, as added Pub. L. 100–418, title I, §1401(a), Aug. 23, 1988, 102 Stat. 1238; amended Pub. L. 100–647, title IX, §9001(a)(8), Nov. 10, 1988, 102 Stat. 3807; Pub. L. 103–465, title I, §129(a)(7), title III, §302(c), (d), Dec. 8, 1994, 108 Stat. 4837, 4936.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (a)(2). Pub. L. 103–465, §302(c)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The Commission shall submit a report on the results of the monitoring under paragraph (1) to the President and to the Congress not later than—
@@ -67,6 +69,8 @@ Subsec. (b)(3). Pub. L. 103–465, §129(a)(7), added par. (3).
 Subsecs. (c) to (e). Pub. L. 103–465, §302(d), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectivley.
 
 <b>1988</b>—Subsecs. (c) to (e). Pub. L. 100–647 redesignated subsecs. (d) and (e) as (c) and (d), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

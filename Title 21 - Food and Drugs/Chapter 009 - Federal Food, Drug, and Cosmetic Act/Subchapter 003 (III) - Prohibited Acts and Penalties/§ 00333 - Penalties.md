@@ -50,7 +50,7 @@
 
 #### (c) Exceptions in certain cases of good faith, etc.
 
-No person shall be subject to the penalties of subsection (a)(1) of this section, (1) for having received in interstate commerce any article and delivered it or proffered delivery of it, if such delivery or proffer was made in good faith, unless he refuses to furnish on request of an officer or employee duly designated by the Secretary the name and address of the person from whom he purchased or received such article and copies of all documents, if any there be, pertaining to the delivery of the article to him; or (2) for having violated section 331(a) or (d) of this title, if he establishes a guaranty or undertaking signed by, and containing the name and address of, the person residing in the United States from whom he received in good faith the article, to the effect, in case of an alleged violation of section 331(a) of this title, that such article is not adulterated or misbranded, within the meaning of this chapter designating this chapter or to the effect, in case of an alleged violation of section 331(d) of this title, that such article is not an article which may not, under the provisions of section 344 or 355 of this title, be introduced into interstate commerce; or (3) for having violated section 331(a) of this title, where the violation exists because the article is adulterated by reason of containing a color additive not from a batch certified in accordance with regulations promulgated by the Secretary under this chapter, if such person establishes a guaranty or undertaking signed by, and containing the name and address of, the manufacturer of the color additive, to the effect that such color additive was from a batch certified in accordance with the applicable regulations promulgated by the Secretary under this chapter; or (4) for having violated section 331(b), (c) or (k) of this title by failure to comply with section 352(f) of this title in respect to an article received in interstate commerce to which neither section 353(a) nor 353(b)(1) of this title is applicable, if the delivery or proffered delivery was made in good faith and the labeling at the time thereof contained the same directions for use and warning statements as were contained in the labeling at the time of such receipt of such article; or (5) for having violated section 331(i)(2) of this title if such person acted in good faith and had no reason to believe that use of the punch, die, plate, stone, or other thing involved would result in a drug being a counterfeit drug, or for having violated section331(i)(3) of this title if the person doing the act or causing it to be done acted in good faith and had no reason to believe that the drug was a counterfeit drug.
+No person shall be subject to the penalties of subsection (a)(1) of this section, (1) for havingreceived in interstate commerce any article and delivered it or proffered delivery of it, if such delivery or proffer was made in good faith, unless he refuses to furnish on request of an officer or employee duly designated by the Secretary the name and address of the person from whom he purchased or received such article and copies of all documents, if any there be, pertaining to the delivery of the article to him; or (2) for having violated section 331(a) or (d) of this title, if he establishes a guaranty or undertaking signed by, and containing the name and address of, the person residing in the United States from whom he received in good faith the article, to the effect, in case of an alleged violation of section 331(a) of this title, that such article is not adulterated or misbranded, within the meaning of this chapter designating this chapter or to the effect, in case of an alleged violation of section 331(d) of this title, that such article is not an article which may not, under the provisions of section 344 or 355 of this title, be introduced into interstate commerce; or (3) for having violated section 331(a) of this title, where the violation exists because the article is adulterated by reason of containing a color additive not from a batch certified in accordance with regulations promulgated by the Secretary under this chapter, if such person establishes a guaranty or undertaking signed by, and containing the name and address of, the manufacturer of the color additive, to the effect that such color additive was from a batch certified in accordance with the applicable regulations promulgated by the Secretary under this chapter; or (4) for having violated section 331(b), (c) or (k) of this title by failure to comply with section 352(f) of this title in respect to an article received in interstate commerce to which neither section 353(a) nor 353(b)(1) of this title is applicable, if the delivery or proffered delivery was made in good faith and the labeling at the time thereof contained the same directions for use and warning statements as were contained in the labeling at the time of such receipt of such article; or (5) for having violated section 331(i)(2) of this title if such person acted in good faith and had no reason to believe that use of the punch, die, plate, stone, or other thing involved would result in a drug being a counterfeit drug, or for having violated section 331(i)(3) of this title if the person doing the act or causing it to be done acted in good faith and had no reason to believe that the drug was a counterfeit drug.
 
 #### (d) Exceptions involving misbranded food
 
@@ -82,7 +82,7 @@ No person shall be subject to the penalties of subsection (a)(1) of this section
 
 (2)(A) Any person who introduces into interstate commerce or delivers for introduction into interstate commerce an article of food that is adulterated within the meaning of section 342(a)(2)(B) of this title or any person who does not comply with a recall order under section 350l of this title shall be subject to a civil money penalty of not more than $50,000 in the case of an individual and $250,000 in the case of any other person for such introduction or delivery, not to exceed $500,000 for all such violations adjudicated in a single proceeding.
 
-(B) This paragraph shall not apply to any person who grew the article of food that is adulterated. If the Secretary assesses a civil penalty against any person under this paragraph, the Secretary may not use the criminal authorities under this section to sanction such person for the introduction or delivery for introduction into interstate commerce of the article of food that is adulterated. If the Secretary assesses a civil penalty against any person under this paragraph, the Secretary may not use the seizure authorities of section 334 of this title or the injunction authorities of section 332 of this title with respect to the article of food that is adulterated.
+(B) This paragraph shall not apply to any person who grew the article of food that is adulterated. If the Secretary assesses a civil penalty against any person under this paragraph, the Secretary may not use the criminal authorities under this section to sanction such person forthe introduction or delivery for introduction into interstate commerce of the article of food that is adulterated. If the Secretary assesses a civil penalty against any person under this paragraph, the Secretary may not use the seizure authorities of section 334 of this title or the injunction authorities of section 332 of this title with respect to the article of food that is adulterated.
 
 (C) In a hearing to assess a civil penalty under this paragraph, the presiding officer shall have the same authority with regard to compelling testimony or production of documents as a presiding officer has under section 346a(g)(2)(B) of this title. The third sentence of paragraph (5)(A) shall not apply to any investigation under this paragraph.
 
@@ -138,7 +138,7 @@ Enhanced penalties.—
 
 &emsp;&emsp;(ii) Any person who violates a requirement of section 387k(g)(2)(C)(ii) or 387k(i)(1) of this title, shall be subject to a civil monetary penalty of—
 
-&emsp;&emsp;&emsp;(I) not to exceed $250,000 per violation, and not to exceed $1,000,000 for all suchviolations adjudicated in a single proceeding; or
+&emsp;&emsp;&emsp;(I) not to exceed $250,000 per violation, and not to exceed $1,000,000 for all such violations adjudicated in a single proceeding; or
 
 &emsp;&emsp;&emsp;(II) in the case of a violation that continues after the Secretary provides written notice to such person, $250,000 for the first 30-day period (or any portion thereof) that the person continues to be in violation, and such amount shall double for every 30-day period thereafter that the violation continues, not to exceed $1,000,000 for any 30-day period, and not to exceed $10,000,000 for all such violations adjudicated in a single proceeding.
 
@@ -180,7 +180,7 @@ Enhanced penalties.—
 
 (5) The Secretary may compromise, modify, or remit, with or without conditions, any civil penalty which may be assessed under paragraph (1). The amount of such penalty, when finally determined, or the amount charged upon in compromise, may be deducted from any sums owed by the United States to the person charged.
 
-(6) Any person who requested, in accordance with paragraph (2), a hearing with respect to the assessment of a civil penalty and who is aggrieved by an order assessing a civil penalty, may file a petition for de novo judicial review of such order with the United States Court of Appeals for the District of Columbia Circuit or for any other circuit in which such person resides or transacts business. Such a petition may only befiled within the 60-day period beginning on the date the order making such assessments was issued.
+(6) Any person who requested, in accordance with paragraph (2), a hearing with respect to the assessment of a civil penalty and who is aggrieved by an order assessing a civil penalty, may file a petition for de novo judicial review of such order with the United States Court of Appeals for the District of Columbia Circuit or for any other circuit in which such person resides or transacts business. Such a petition may only be filed within the 60-day period beginning on the date the order making such assessments was issued.
 
 (7) If any person fails to pay an assessment of a civil penalty under paragraph (1)—
 
@@ -212,7 +212,7 @@ Section 353c of this title, referred to in subsec. (g)(3)(B), was in the origina
 
 <b>2012</b>—Subsec. (b)(7). Pub. L. 112–144 added par. (7).
 
-<b>2011</b>—Subsec. (f)(2)(A). Pub. L. 111–353 inserted "or any person who does not comply with a recall order under section 350l of this title" after "section 342(a)(2)(B) of this title".
+<b>2011</b>—Subsec. (f)(2)(A). Pub. L. 111–353 inserted "or any person who does not comply with a recall orderunder section 350l of this title" after "section 342(a)(2)(B) of this title".
 
 <b>2009</b>—Subsec. (f)(5)(A). Pub. L. 111–31, §103(c)(1)(A), (B), substituted "paragraph (1), (2), (3), (4), or (9)" for "paragraph (1), (2), (3), or (4)", "shall be assessed, or a no-tobacco-sale order may be imposed," for "shall be assessed", and "assessed a civil penalty, or upon whom a no-tobacco-sale order is to be imposed," for "assessed a civil penalty".
 
@@ -298,7 +298,7 @@ Subsec. (e). Pub. L. 100–690 added subsec. (e).
 
 <b>1970</b>—Subsec. (a). Pub. L. 91–513 struck out reference to subsec. (b) and transferred to subsec. (b) provisions covering second offenses and offenses committed with intent to defraud or mislead.
 
-Subsec. (b). Pub. L. 91–513 inserted provisions covering second offenses and offenses committed with intent to defraud or mislead formerly set out in subsec. (a) and struck out provisions covering violations involving depressant and stimulant drugs. See section 801 et seq. of this title.
+Subsec. (b). Pub. L. 91–513 inserted provisions covering second offenses and offenses committed with intent to defraud or mislead formerly set out in subsec.\(a) and struck out provisions covering violations involving depressant and stimulant drugs. See section 801 et seq. of this title.
 
 <b>1968</b>—Subsecs. (a), (b). Pub. L. 90–639 made a general revision in the penalties prescribed for offenses involving depressant or stimulant drugs, set a fine of not to exceed $10,000 or imprisonment of not more than 5 years for offenses involving the unlawful manufacturing of, sale, or disposal of, or possession with intent to sell, a depressant or stimulant drug or involving counterfeit depressant or stimulant drugs, stiffened the penalties for unlawful sales or other disposals by persons over 18 to persons under 21, and set new penalties for possession of a depressant or stimulant drug for purposes other than sale or other disposal.
 
@@ -386,10 +386,6 @@ Act Oct. 26, 1951, ch. 578, §3, 65 Stat. 649, provided that: "The provisions of
 
 Amendment by Pub. L. 91–513 not to affect or abate any prosecutions for violation of law or any civil seizures or forfeitures and injunctive proceedings commenced prior to the effective date of such amendment, and all administrative proceedings pending before the Bureau of Narcotics and Dangerous Drugs \[now the Drug Enforcement Administration\] on Oct. 27, 1970, to be continued and brought to final determination in accord with laws and regulations in effect prior to Oct. 27, 1970, see section 702 of Pub. L. 91–513, set out as a note under section 321 of this title.
 
-#### Transfer of Functions
-
-For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under section 321 of this title.
-
 #### Guidance
 
 Pub. L. 111–31, div. A, title I, §103(q)(1), (2), June 22, 2009, 123 Stat. 1838, 1839, as amended by Pub. L. 116–94, div. N, title I, §603(d)(1), Dec. 20, 2019, 133 Stat. 3124, provided that:
@@ -471,6 +467,12 @@ Nothing in amendment by Pub. L. 111–353 to be construed to alter jurisdiction 
 #### Enforcement
 
 Pub. L. 99–660, title I, §103, Nov. 14, 1986, 100 Stat. 3751, provided that: "For the fines authorized to be imposed under section 303 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 333\], see section 3623 of title 18, United States Code, for the period ending October 31, 1986 \[probably should be October 31, 1987\], and sections 3559 and 3571 of such title for the period beginning November 1, 1986 \[probably should be November 1, 1987\]."
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under section 321 of this title.
 
 <i><sup>1</sup></i><i> So in original. Words "of this section" probably should not appear.</i>
 

@@ -16,7 +16,7 @@ Subject to the availability of funds pursuant to this section, the Secretary sha
 
 #### (3) Limitation
 
-&emsp;Funds transferred pursuant to this subsection may not be used by the Secretary untilfunds specifically appropriated to the Secretary for grasshopper control have been exhausted.
+&emsp;Funds transferred pursuant to this subsection may not be used by the Secretary until funds specifically appropriated to the Secretary for grasshopper control have been exhausted.
 
 #### (4) Replenishment of transferred funds
 
@@ -51,6 +51,8 @@ Subject to the availability of funds pursuant to this section, the Secretary sha
 From appropriated funds made available or transferred by the Secretary of the Interior to the Secretary of Agriculture for such purposes, the Secretary of Agriculture shall provide adequate funding for a program to train personnel to accomplish effectively the objective of this section.
 
 (Pub. L. 106–224, title IV, §417, June 20, 2000, 114 Stat. 447.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

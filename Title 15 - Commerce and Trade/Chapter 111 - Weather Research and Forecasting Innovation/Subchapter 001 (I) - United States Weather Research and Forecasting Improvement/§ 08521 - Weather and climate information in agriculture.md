@@ -6,7 +6,7 @@ Congress finds that—
 
 &emsp;(1) agricultural and silvicultural operations are vulnerable to damage from atmospheric conditions that accurate and timely reporting of weather information can help prevent;
 
-&emsp;(2) the maintenance of current weather and climate analysis and information dissemination systems, and Federal, State, and private efforts to improve these systems, is essentialif agriculture and silviculture are to mitigate damage from atmospheric conditions;
+&emsp;(2) the maintenance of current weather and climate analysis and information dissemination systems, and Federal, State, and private efforts to improve these systems, is essential if agriculture and silviculture are to mitigate damage from atmospheric conditions;
 
 &emsp;(3) agricultural and silvicultural weather services at the Federal level should be maintained with joint planning between the National Oceanic and Atmospheric Administration and the Department of Agriculture; and
 
@@ -60,7 +60,7 @@ The Under Secretary shall build upon existing forecasting and assessment program
 
 &emsp;&emsp;(A) provide funds to support an individual in that State—
 
-&emsp;&emsp;&emsp;(i) to serve as a liaison among the National Oceanic and Atmospheric Administration, other Federal departments and agencies, the weather enterprise, the State, and relevant interests within that State; and
+&emsp;&emsp;&emsp;(i) to serve as a liaison among the National Oceanic and Atmospheric Administration, other Federal departments andagencies, the weather enterprise, the State, and relevant interests within that State; and
 
 &emsp;&emsp;&emsp;(ii) to receive the forecasts and information under subsection (c) and disseminate the forecasts and information throughout the State, including to county and tribal governments; and
 
@@ -141,6 +141,8 @@ There are authorized to be appropriated to carry out the activities under this s
 Amounts made available to carry out this section shall be derived from amounts appropriated or otherwise made available to the National Weather Service.
 
 (Pub. L. 99–198, title XVII, §1762, Dec. 23, 1985, 99 Stat. 1651; Pub. L. 115–25, title II, §201, Apr. 18, 2017, 131 Stat. 98; Pub. L. 115–423, §3(a), Jan. 7, 2019, 132 Stat. 5455.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

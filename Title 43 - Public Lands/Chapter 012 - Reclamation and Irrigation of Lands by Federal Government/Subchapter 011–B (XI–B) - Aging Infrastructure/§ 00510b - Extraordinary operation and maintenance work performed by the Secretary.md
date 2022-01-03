@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary or the transferred works operating entity may carry out, in accordance with subsection (b) and consistent with existing transfer contracts, any extraordinary operation and maintenance work on a project facility that the Secretary determines to be reasonably required to preserve the structural safety of the project facility.
+The Secretary or the transferred works operating entity may carry out, in accordance withsubsection (b) and consistent with existing transfer contracts, any extraordinary operation and maintenance work on a project facility that the Secretary determines to be reasonably required to preserve the structural safety of the project facility.
 
 #### (b) Reimbursement of costs arising from extraordinary operation and maintenance work
 
@@ -60,7 +60,7 @@ The Secretary or the transferred works operating entity may carry out, in accord
 
 #### (A) In general
 
-&emsp;&emsp;Beginning with fiscal year 2022, not less than once per fiscal year, the Secretary shall accept, during an application period established by the Secretary, applications from transferred works operating entities or project beneficiaries responsible for payment of reimbursable costs for funds and extended repayment for eligible projects.
+&emsp;&emsp;Beginning with fiscal year 2022, not less than once per fiscal year, the Secretary shall accept, during an application period established by the Secretary, applicationsfrom transferred works operating entities or project beneficiaries responsible for payment of reimbursable costs for funds and extended repayment for eligible projects.
 
 #### (B) Eligible project
 

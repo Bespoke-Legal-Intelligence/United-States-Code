@@ -6,7 +6,7 @@ Any person may apply to the Federal land manager for a permit to excavate or rem
 
 #### (b) Determinations by Federal land manager prerequisite to issuance of permit
 
-A permit may be issued pursuant to an application under subsection (a) if the Federal landmanager determines, pursuant to uniform regulations under this chapter, that—
+A permit may be issued pursuant to an application under subsection (a) if the Federal land manager determines, pursuant to uniform regulations under this chapter, that—
 
 &emsp;(1) the applicant is qualified, to carry out the permitted activity,
 
@@ -30,7 +30,7 @@ Each permit under this section shall identify the individual who shall be respon
 
 #### (f) Suspension or revocation of permits; grounds
 
-Any permit issued under this section may be suspended by the Federal land manager upon his determination that the permittee has violated any provision of subsection (a), (b), or (c) of section 470ee of this title. Any such permit may be revoked by such Federal land manager upon assessment of a civil penalty under section 470ff of this title against the permittee or upon the permittee's conviction under section 470ee of this title.
+Any permit issued under this section may be suspended by the Federal land manager upon his determination that the permittee has violated any provision of subsection (a), (b), or (c) of section 470ee of this title. Any such permit may berevoked by such Federal land manager upon assessment of a civil penalty under section 470ff of this title against the permittee or upon the permittee's conviction under section 470ee of this title.
 
 #### (g) Excavation or removal by Indian tribes or tribe members; excavation or removal of resources located on Indian lands
 
@@ -53,6 +53,8 @@ Issuance of a permit in accordance with this section and applicable regulations 
 Upon the written request of the Governor of any State, the Federal land manager shall issue a permit, subject to the provisions of subsections (b)(3), (b)(4), (c), (e), (f), (g), (h), and (i) of this section for the purpose of conducting archaeological research, excavation, removal, and curation, on behalf of the State or its educational institutions, to such Governor or to such designee as the Governor deems qualified to carry out the intent of this chapter.
 
 (Pub. L. 96–95, §4, Oct. 31, 1979, 93 Stat. 722; Pub. L. 113–287, §5(d)(6), Dec. 19, 2014, 128 Stat. 3264.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

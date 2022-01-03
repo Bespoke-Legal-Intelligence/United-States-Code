@@ -2,7 +2,7 @@
 
 #### (a) Seizure
 
-Any pre-Columbian monumental or architectural sculpture or mural imported into theUnited States in violation of this chapter shall be seized and subject to forfeiture under the customs laws.
+Any pre-Columbian monumental or architectural sculpture or mural imported into the United States in violation of this chapter shall be seized and subject to forfeiture under the customs laws.
 
 #### (b) Disposition of articles
 

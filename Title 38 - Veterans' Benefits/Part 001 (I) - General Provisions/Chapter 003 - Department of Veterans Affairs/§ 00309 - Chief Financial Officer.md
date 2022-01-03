@@ -1,6 +1,6 @@
 ### §309. Chief Financial Officer
 
-The Secretary shall designate the Assistant Secretary whose functions include budgetary and financial functions as the Chief Financial Officer of the Department. The Chief Financial Officer shall advise the Secretary on financial management of the Department and shall exercise the authority and carry out the functions specified in section 902 of title 31.
+The Secretary shall designate the Assistant Secretary whose functions include budgetaryand financial functions as the Chief Financial Officer of the Department. The Chief Financial Officer shall advise the Secretary on financial management of the Department and shall exercise the authority and carry out the functions specified in section 902 of title 31.
 
 (Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 382.)
 
@@ -42,7 +42,7 @@ Subordinate chief financial officer.—The term 'subordinate chief financial off
 
 #### "SEC. 7102. PLANS FOR ADDRESSING MATERIAL WEAKNESSES AND PROVIDING SUFFICIENT AUTHORITY TO CHIEF FINANCIAL OFFICER OF DEPARTMENT OF VETERANS AFFAIRS.
 
-"Not later than 180 days after the date of the enactment of this Act \[Jan. 5, 2021\], and annually thereafter for each of the three subsequent years, the Secretary ofVeterans Affairs, acting through the Chief Financial Officer of the Department of Veterans Affairs, shall submit to the appropriate congressional committees—
+"Not later than 180 days after the date of the enactment of this Act \[Jan. 5, 2021\], and annually thereafter for each of the three subsequent years, the Secretary of Veterans Affairs, acting through the Chief Financial Officer of the Department of Veterans Affairs, shall submit to the appropriate congressional committees—
 
 &emsp;"(1) an action plan, including steps, related timelines, costs, progress, status of implementation, and any updates for fully addressing the material weaknesses of the Department discussed in the Management's Discussion and Analysis section of the financial statements of the Department submitted to Congress under section 3515 of title 31, United States Code\[,\] for the year preceding the year during which the report is submitted; and
 

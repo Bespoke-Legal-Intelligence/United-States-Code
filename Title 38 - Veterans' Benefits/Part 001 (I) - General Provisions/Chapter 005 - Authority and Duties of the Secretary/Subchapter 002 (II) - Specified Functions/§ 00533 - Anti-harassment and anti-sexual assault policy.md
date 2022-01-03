@@ -12,7 +12,7 @@ Establishment.—(1) The Secretary, acting through the Office of Assault and Pre
 
 &emsp;(C) A process for any non-Department individual to report harassment and sexual assault described in subparagraph (A), including an option for confidential reporting, and for the Secretary to respond to and address such reports.
 
-&emsp;(D) Clear mechanisms for non-Department individuals to readily identify to whom and how to report incidents of harassment and sexual assault committed by another non-Department individual.
+&emsp;(D) Clear mechanisms for non-Department individuals to readily identify to whom andhow to report incidents of harassment and sexual assault committed by another non-Department individual.
 
 &emsp;(E) Clear mechanisms for employees and contractors of the Department to readily identify to whom and how to report incidents of harassment and sexual assault and how to refer non-Department individuals with respect to reporting an incident of harassment or sexual assault.
 
@@ -32,7 +32,7 @@ Establishment.—(1) The Secretary, acting through the Office of Assault and Pre
 
 Points of Contact.—The Secretary shall designate, as a point of contact to receive reports of harassment and sexual assault described in subparagraphs (A) and (B) of subsection (a)(2)—
 
-&emsp;(1) at least one individual, in addition to law enforcement, at each facility of the Department (including Vet Centers under section1712A of this title), with regard to that facility;
+&emsp;(1) at least one individual, in addition to law enforcement, at each facility of the Department (including Vet Centers under section 1712A of this title), with regard to that facility;
 
 &emsp;(2) at least one individual employed in each Veterans Integrated Service Network, with regard to facilities in that Veterans Integrated Service Network;
 
@@ -90,7 +90,7 @@ Annual Reports.—(1) The Secretary shall submit to the Committee on Veterans' A
 
 &emsp;(A) Results of harassment and sexual assault programming, including the End Harassment program.
 
-&emsp;(B) Results of studies from the Women's Health Practice-Based Research Network of the Department relating to harassment and sexual assault.
+&emsp;(B) Results of studies from the Women's Health Practice-Based Research Network ofthe Department relating to harassment and sexual assault.
 
 &emsp;(C) Data collected on incidents of sexual harassment and sexual assault.
 

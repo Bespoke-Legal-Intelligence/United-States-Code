@@ -4,9 +4,13 @@ In order to further the purposes of the joint resolution approved September 27, 
 
 (Pub. L. 89–158, §1, Sept. 1, 1965, 79 Stat. 612.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The joint resolution approved September 27, 1961, referred to in text, is Pub. L. 87–328, which was not classified to the Code.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Joseph M. McDade Recreational Trail
 
@@ -14,5 +18,5 @@ Pub. L. 105–277, div. A, §101(e) \[title I, §118\], Oct. 21, 1998, 112 Stat.
 
 #### Delaware Water Gap National Recreation Area Citizen Advisory Commission
 
-Pub. L. 100–573, Oct. 31, 1988, 102 Stat. 2890, as amended by Pub. L. 104–333, div. I, title VIII, §814(d)(1)(K), Nov. 12, 1996, 110 Stat. 4196; Pub. L. 105–355, title V, §507, Nov. 6, 1998, 112 Stat. 3264; Pub. L. 106–176, title III, §301, Mar. 10, 2000, 114 Stat. 31, established Delaware Water Gap National Recreation Area Citizen Advisory Commission to advise Secretary of the Interior on management and operation of Delaware Water Gap National Recreation Area, and other matters affecting the recreation area and surrounding communities, and terminated Commission on the date that is 20 years after Oct. 31, 1988.
+Pub. L. 100–573, Oct. 31, 1988, 102 Stat. 2890, as amended by Pub. L. 104–333, div. I, title VIII, §814(d)(1)(K), Nov. 12, 1996, 110 Stat. 4196; Pub. L. 105–355, title V, §507, Nov. 6, 1998, 112 Stat. 3264; Pub. L. 106–176, title III, §301, Mar. 10, 2000, 114 Stat. 31, established Delaware WaterGap National Recreation Area Citizen Advisory Commission to advise Secretary of the Interior on management and operation of Delaware Water Gap National Recreation Area, and other matters affecting the recreation area and surrounding communities, and terminated Commission on the date that is 20 years after Oct. 31, 1988.
 

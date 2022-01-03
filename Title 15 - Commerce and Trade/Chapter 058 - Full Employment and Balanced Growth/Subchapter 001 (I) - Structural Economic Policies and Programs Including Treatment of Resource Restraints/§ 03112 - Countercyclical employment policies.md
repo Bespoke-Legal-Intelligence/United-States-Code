@@ -2,7 +2,7 @@
 
 #### (a) Programmatic entities
 
-Any countercyclical efforts undertaken to aid in achieving the purposes of section 3111 of thistitle shall consider for inclusion the following programmatic entities:
+Any countercyclical efforts undertaken to aid in achieving the purposes of section 3111 of this title shall consider for inclusion the following programmatic entities:
 
 &emsp;(1) accelerated public works, including the development of standby public works projects;
 

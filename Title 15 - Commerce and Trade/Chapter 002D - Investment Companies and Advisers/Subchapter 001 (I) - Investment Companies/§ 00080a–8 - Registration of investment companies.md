@@ -22,7 +22,7 @@ Every registered investment company shall file with the Commission, within such 
 
 The Commission shall make provision, by permissive rules and regulations or order, for the filing of the following, or so much of the following as the Commission may designate, in lieu of the information and documents required pursuant to subsection (b):
 
-&emsp;(1) copies of the most recent registration statement filed by the registrant under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] and currently effective under such Act, or if the registrant has not filed such a statement, copies of a registration statement filed by the registrant under the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\] and currently effective under such Act;
+&emsp;(1) copies of the most recent registration statement filed by the registrant under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] and currently effective under such Act, or if the registrant has not filed such a statement, copies of a registration statement filed by the registrant under the Securities Exchange Actof 1934 \[15 U.S.C. 78a et seq.\] and currently effective under such Act;
 
 &emsp;(2) copies of any reports filed by the registrant pursuant to section 78m or 78o(d) of this title; and
 
@@ -46,6 +46,8 @@ Whenever the Commission, on its own motion or upon application, finds that a reg
 
 (Aug. 22, 1940, ch. 686, title I, §8, 54 Stat. 803; Pub. L. 86–507, §1(14), June 11, 1960, 74 Stat. 201; Pub. L. 91–547, §3(c), Dec. 14, 1970, 84 Stat. 1415.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Securities Act of 1933, referred to in subsecs. (b)(5) and (c)(1), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
@@ -62,9 +64,13 @@ Subsec. (b)(3) to (5). Pub. L. 91–547, §3(c)(2), (3), added par. (3) and rede
 
 <b>1960</b>—Subsec. (e). Pub. L. 86–507 inserted "or by certified mail" after "registered mail".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1970 Amendment
 
 Amendment by Pub. L. 91–547 effective Dec. 14, 1970, see section 30 of Pub. L. 91–547, set out as a note under section 80a–52 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

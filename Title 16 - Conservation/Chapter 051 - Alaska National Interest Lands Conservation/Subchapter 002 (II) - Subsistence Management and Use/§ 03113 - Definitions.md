@@ -1,6 +1,6 @@
 ### §3113. Definitions
 
-As used in this Act, the term "subsistence uses" means the customary and traditional uses by rural Alaska residents of wild, renewable resources for direct personal or family consumption as food, shelter, fuel, clothing, tools, or transportation; for the making and selling of handicraft articles out of nonedible byproducts of fish and wildlife resources taken for personal or family consumption; for barter, or sharing for personal or family consumption; and for customary trade. For the purposes of this section, the term—
+As used in this Act, the term "subsistence uses" means the customary and traditional usesby rural Alaska residents of wild, renewable resources for direct personal or family consumption as food, shelter, fuel, clothing, tools, or transportation; for the making and selling of handicraft articles out of nonedible byproducts of fish and wildlife resources taken for personal or family consumption; for barter, or sharing for personal or family consumption; and for customary trade. For the purposes of this section, the term—
 
 &emsp;(1) "family" means all persons related by blood, marriage, or adoption, or any person living within the household on a permanent basis; and
 
@@ -11,6 +11,8 @@ As used in this Act, the term "subsistence uses" means the customary and traditi
 &emsp;&emsp;(B) for other food or for nonedible items other than money if the exchange is of a limited and noncommercial nature.
 
 (Pub. L. 96–487, title VIII, §803, Dec. 2, 1980, 94 Stat. 2423; Pub. L. 105–83, title III, §316(b)(4), (d), Nov. 14, 1997, 111 Stat. 1593, 1595.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -25,6 +27,8 @@ This Act, referred to in provision preceding par. (1), is Pub. L. 96–487, Dec.
 "(4) 'customary trade' means, except for money sales of furs and furbearers, the limited noncommercial exchange for money of fish and wildlife or their parts in minimal quantities; and
 
 "(5) 'rural Alaska resident' means a resident of a rural community or area. A 'rural community or area' means a community or area substantially dependent on fish and wildlife for nutritional and other subsistence uses." See Effective and Termination Dates of 1997 Amendment note below.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective and Termination Dates of 1997 Amendment
 

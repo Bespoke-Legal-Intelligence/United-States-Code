@@ -50,13 +50,13 @@ Section 8301 prescribes the minimum number of licensed individuals on board cert
 
 Subsection (a) applies to certain merchant and passenger carrying vessels of the United States, each of which must have a licensed master regardless of the factors listed above. Subsection (b) applies to offshore supply vessels. Subsection (c) exempts fishing or whaling vessels or yachts from these requirements.
 
-Subsection (d) permits the Secretary to suspend any part of this chapter during a declared national emergency or to increase the number of licensed individuals required by this chapter if required for safe operation of a vessel.
+Subsection (d) permits the Secretary to suspend any part of this chapter during a declared national emergency or to increase the number of licensed individualsrequired by this chapter if required for safe operation of a vessel.
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b). Pub. L. 111–281 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "An offshore supply vessel on a voyage of less than 600 miles shall have a licensed mate. However, if the vessel is on a voyage of at least 600 miles, the vessel shall have 2 licensed mates. An offshore supply vessel of more than 200 gross tons as measured under section 14502 of this title, or an alternate tonnage measuredunder section 14302 of this title as prescribed by the Secretary under section 14104 of this title may not be operated without a licensed engineer."
+<b>2010</b>—Subsec. (b). Pub. L. 111–281 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "An offshore supply vessel on a voyage of less than 600 miles shall have a licensed mate. However, if the vessel is on a voyage of at least 600 miles, the vessel shall have 2 licensed mates. An offshore supply vessel of more than 200 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title may not be operated without a licensed engineer."
 
 <b>1996</b>—Subsec. (a)(2). Pub. L. 104–324, §729(1), inserted "as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title" after "1,000 gross tons".
 

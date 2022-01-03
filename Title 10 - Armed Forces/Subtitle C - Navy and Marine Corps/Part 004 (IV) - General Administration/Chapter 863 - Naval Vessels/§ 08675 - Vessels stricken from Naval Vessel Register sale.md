@@ -26,6 +26,8 @@ Applicability.—This section does not apply to a vessel the disposal of which i
 
 (Added Pub. L. 103–160, div. A, title VIII, §824(b), Nov. 30, 1993, 107 Stat. 1708, §7305; amended Pub. L. 105–85, div. A, title X, §1021, Nov. 18, 1997, 111 Stat. 1875; Pub. L. 107–217, §3(b)(28), Aug. 21, 2002, 116 Stat. 1297; Pub. L. 108–136, div. A, title X, §1045(a)(7), Nov. 24, 2003, 117 Stat. 1612; Pub. L. 111–350, §5(b)(53), Jan. 4, 2011, 124 Stat. 3847; renumbered §8675 and amended Pub. L. 115–232, div. A, title VIII, §§807(d)(2), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232, §807(d)(2), renumbered section 7305 of this title as this section.
@@ -53,6 +55,8 @@ Procedures for Sale.—(1) A vessel stricken from the Naval Vessel Register and 
 &emsp;&emsp;"(i) higher than the highest rejected price of any responsible bidder; or
 
 &emsp;&emsp;"(ii) reasonable and in the national interest."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

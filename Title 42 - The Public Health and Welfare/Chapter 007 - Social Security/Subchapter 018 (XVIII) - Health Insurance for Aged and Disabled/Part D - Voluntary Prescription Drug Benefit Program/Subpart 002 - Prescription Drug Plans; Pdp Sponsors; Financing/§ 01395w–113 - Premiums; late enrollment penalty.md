@@ -12,7 +12,7 @@
 
 #### (i) Above average bid
 
-&emsp;&emsp;&emsp;If for a month the amount of the standardized bid amount (as defined in paragraph (5)) exceeds the amount of the adjusted national average monthly bidamount (as defined in clause (iii)), the base beneficiary premium for the month shall be increased by the amount of such excess.
+&emsp;&emsp;&emsp;If for a month the amount of the standardized bid amount (as defined in paragraph (5)) exceeds the amount of the adjusted national average monthly bid amount (as defined in clause (iii)), the base beneficiary premium for the month shall be increased by the amount of such excess.
 
 #### (ii) Below average bid
 
@@ -174,7 +174,7 @@
 
 #### (B) Uncovered month defined
 
-&emsp;&emsp;For purposes of this subsection, the term "uncovered month" means, with respect to a part D eligible individual, any month beginning after the end of the initial enrollment period under section 1395w–101(b)(2) of thistitle unless the individual can demonstrate that the individual had creditable prescription drug coverage (as defined in paragraph (4)) for any portion of such month.
+&emsp;&emsp;For purposes of this subsection, the term "uncovered month" means, with respect to a part D eligible individual, any month beginning after the end of the initial enrollment period under section 1395w–101(b)(2) of this title unless the individual can demonstrate that the individual had creditable prescription drug coverage (as defined in paragraph (4)) for any portion of such month.
 
 #### (4) Creditable prescription drug coverage defined
 
@@ -250,7 +250,7 @@
 
 &emsp;&emsp;&emsp;(ii) for which the basis for eligibility for such entitlement changed between section 426(b) of this title and section 426(a) of this title, between 426(b) <sup>2</sup> of this title and section 426–1 of this title, or between section 426–1 of this title and section 426(a) of this title,
 
-> &emsp;&emsp;shall be a separate continuous period of eligibility with respect to the individual (and each such period which terminates shall be deemed not to have existed for purposes of subsequently applying this paragraph).
+> &emsp;&emsp;shall be a separate continuous period of eligibility with respect to the individual (andeach such period which terminates shall be deemed not to have existed for purposes of subsequently applying this paragraph).
 
 #### (8) Waiver of penalty for subsidy-eligible individuals
 
@@ -292,6 +292,8 @@
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1860D–13, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2102; amended Pub. L. 110–275, title I, §114(a)(1), July 15, 2008, 122 Stat. 2506; Pub. L. 111–148, title III, §3308(a), (b)(1), Mar. 23, 2010, 124 Stat. 472, 474.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (a)(1)(F), (G). Pub. L. 111–148, §3308(b)(1), added subpar. (F), redesignated former subpar. (F) as (G), and substituted "(D), (E), and (F)" for "(D) and (E)" in subpar. (G).
@@ -303,6 +305,8 @@ Subsec. (c)(1). Pub. L. 111–148, §3308(a)(2)(A), substituted "(2), (3), and (
 Subsec. (c)(4). Pub. L. 111–148, §3308(a)(2)(B), added par. (4).
 
 <b>2008</b>—Subsec. (b)(8). Pub. L. 110–275 added par. (8).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

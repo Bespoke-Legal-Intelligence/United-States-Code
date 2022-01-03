@@ -1,8 +1,12 @@
 ### §5617. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 5617 was editorially reclassified as section 11117 of Title 34, Crime Control and Law Enforcement.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Use of Court Orders To Place Juveniles in Secure Facilities, Jails and Lockups for Adults; Investigation and Report
 

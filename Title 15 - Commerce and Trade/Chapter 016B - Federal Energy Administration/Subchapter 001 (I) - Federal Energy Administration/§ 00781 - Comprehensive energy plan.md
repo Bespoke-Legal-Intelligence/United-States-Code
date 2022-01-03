@@ -10,7 +10,7 @@ Pursuant and subject to the provisions and procedures set forth in this chapter,
 
 &emsp;(3) estimates of the impact on supplies and consumption of energy forms consequent to such price changes as are or may be proposed; and
 
-&emsp;(4) a description of alternative actions which the Administrator has considered together with a rationale in explanation of the rejection of any such alternatives in preference to the measures actually proposed.
+&emsp;(4) a description of alternative actions which the Administrator has considered togetherwith a rationale in explanation of the rejection of any such alternatives in preference to the measures actually proposed.
 
 #### (b) Alterations; analytical justifications
 
@@ -21,6 +21,8 @@ The Administrator may, from time to time, modify or otherwise alter any such pla
 The Administrator shall be responsible for monitoring any such plans as are implemented with respect to their effectiveness in achieving the anticipated benefits.
 
 (Pub. L. 93–275, §22, May 7, 1974, 88 Stat. 113.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

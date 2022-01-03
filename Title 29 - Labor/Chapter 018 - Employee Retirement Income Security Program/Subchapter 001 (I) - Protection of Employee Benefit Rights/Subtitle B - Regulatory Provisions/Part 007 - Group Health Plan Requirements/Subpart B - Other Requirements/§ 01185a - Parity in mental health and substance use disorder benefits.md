@@ -8,7 +8,7 @@
 
 #### (A) No lifetime limit
 
-&emsp;&emsp;If the plan or coverage does not include an aggregate lifetime limit on substantially allmedical and surgical benefits, the plan or coverage may not impose any aggregate lifetime limit on mental health or substance use disorder benefits.
+&emsp;&emsp;If the plan or coverage does not include an aggregate lifetime limit on substantially all medical and surgical benefits, the plan or coverage may not impose any aggregate lifetime limit on mental health or substance use disorder benefits.
 
 #### (B) Lifetime limit
 
@@ -48,7 +48,7 @@
 
 &emsp;&emsp;In the case of a group health plan (or health insurance coverage offered in connection with such a plan) that provides both medical and surgical benefits and mental health or substance use disorder benefits, such plan or coverage shall ensure that—
 
-&emsp;&emsp;&emsp;(i) the financial requirements applicable to such mental health or substance use disorder benefits are no more restrictive than the predominant financial requirements applied to substantially all medical and surgical benefits covered by the plan (or coverage), and there are no separate cost sharing requirements that are applicable only with respect to mental health or substance use disorder benefits; and
+&emsp;&emsp;&emsp;(i) the financial requirements applicable to such mental health or substance use disorder benefits are no more restrictive than the predominant financial requirements applied to substantially all medical and surgical benefits covered by the plan\(or coverage), and there are no separate cost sharing requirements that are applicable only with respect to mental health or substance use disorder benefits; and
 
 &emsp;&emsp;&emsp;(ii) the treatment limitations applicable to such mental health or substance use disorder benefits are no more restrictive than the predominant treatment limitations applied to substantially all medical and surgical benefits covered by the plan (or coverage) and there are no separate treatment limitations that are applicable only with respect to mental health or substance use disorder benefits.
 
@@ -70,7 +70,7 @@
 
 #### (4) Availability of plan information
 
-&emsp;The criteria for medical necessity determinations made under the plan with respect tomental health or substance use disorder benefits (or the health insurance coverage offered in connection with the plan with respect to such benefits) shall be made available by the plan administrator (or the health insurance issuer offering such coverage) in accordance with regulations to any current or potential participant, beneficiary, or contracting provider upon request. The reason for any denial under the plan (or coverage) of reimbursement or payment for services with respect to mental health or substance use disorder benefits in the case of any participant or beneficiary shall, on request or as otherwise required, be made available by the plan administrator (or the health insurance issuer offering such coverage) to the participant or beneficiary in accordance with regulations.
+&emsp;The criteria for medical necessity determinations made under the plan with respect to mental health or substance use disorder benefits (or the health insurance coverage offered in connection with the plan with respect to such benefits) shall be made available by the plan administrator (or the health insurance issuer offering such coverage) in accordance with regulations to any current or potential participant, beneficiary, or contracting provider upon request. The reason for any denial under the plan (or coverage) of reimbursement or payment for services with respect to mental health or substance use disorder benefits in the case of any participant or beneficiary shall, on request or as otherwise required, be made available by the plan administrator (or the health insurance issuer offering such coverage) to the participant or beneficiary in accordance with regulations.
 
 #### (5) Out-of-network providers
 
@@ -236,7 +236,7 @@
 
 #### (iii) State
 
-&emsp;&emsp;&emsp;The Secretary shall share information on findings of compliance and noncompliance discovered upon reviewing the comparative analyses requested under subparagraph (B)(i) shall be shared with the State where the group health plan is located or the State where the health insurance issuer is licensed to do business for coverage offered by a health insurance issuer in the group market, in accordance with paragraph (6)(B)(iii)(II).
+&emsp;&emsp;&emsp;The Secretary shall share information on findings of compliance and noncompliance discovered upon reviewing the comparative analyses requested under subparagraph (B)(i) shall be shared with the State where the group health plan is located or the State where the health insurance issuer is licensed to do business for coverage offered by a health insuranceissuer in the group market, in accordance with paragraph (6)(B)(iii)(II).
 
 #### (b) Construction
 
@@ -264,7 +264,7 @@ Nothing in this section shall be construed—
 
 #### (i) Application of aggregation rule for employers
 
-&emsp;&emsp;&emsp;Rules similar to the rules under subsections (b), (c), (m), and (o) of section 414of title 26 shall apply for purposes of treating persons as a single employer.
+&emsp;&emsp;&emsp;Rules similar to the rules under subsections (b), (c), (m), and (o) of section 414 of title 26 shall apply for purposes of treating persons as a single employer.
 
 #### (ii) Employers not in existence in preceding year
 
@@ -306,7 +306,7 @@ Nothing in this section shall be construed—
 
 &emsp;&emsp;&emsp;A notification to the Secretary under clause (i) shall include—
 
-&emsp;&emsp;&emsp;&emsp;(I) a description of the number of covered lives under the plan (or coverage) involved at the time of the notification, and as applicable, at the time of any prior election of the cost-exemption under this paragraph by such plan (or coverage);
+&emsp;&emsp;&emsp;&emsp;(I) a description of the number of covered lives under the plan (or coverage) involved at the time of the notification, and as applicable, at the time of anyprior election of the cost-exemption under this paragraph by such plan (or coverage);
 
 &emsp;&emsp;&emsp;&emsp;(II) for both the plan year upon which a cost exemption is sought and the year prior, a description of the actual total costs of coverage with respect to medical and surgical benefits and mental health and substance use disorder benefits under the plan; and
 
@@ -326,7 +326,7 @@ Nothing in this section shall be construed—
 
 #### (d) Separate application to each option offered
 
-In the case of a group health plan that offers a participant or beneficiary two or more benefitpackage options under the plan, the requirements of this section shall be applied separately with respect to each such option.
+In the case of a group health plan that offers a participant or beneficiary two or more benefit package options under the plan, the requirements of this section shall be applied separately with respect to each such option.
 
 #### (e) Definitions
 
@@ -368,7 +368,7 @@ The Secretary, in cooperation with the Secretaries of Health and Human Services 
 
 <b>2020</b>—Subsec. (a)(6) to (8). Pub. L. 116–260 added pars. (6) to (8).
 
-<b>2008</b>—Pub. L. 110–343, §512(g)(1)(A), amended section catchline generally. Prior to amendment, catchline read as follows: "Parity in application of certain limits to mental health benefits".
+<b>2008</b>—Pub. L. 110–343, §512(g)(1)(A), amended section catchline generally. Prior to amendment, catchlineread as follows: "Parity in application of certain limits to mental health benefits".
 
 Subsec. (a)(1), (2). Pub. L. 110–343, §512(a)(8), substituted "mental health or substance use disorder benefits" for "mental health benefits" wherever appearing in pars. (1)(introductory provisions), (A), and (B)(ii) and (2)(introductory provisions), (A), and (B)(ii).
 
@@ -386,7 +386,7 @@ Subsec. (c)(2). Pub. L. 110–343, §512(a)(3)(B), added par. (2) and struck out
 
 Subsec. (e)(3). Pub. L. 110–343, §512(a)(8), substituted "mental health or substance use disorder benefits" for "mental health benefits".
 
-Subsec. (e)(4). Pub. L. 110–343, §512(a)(8), which directed amendment of this section by substituting "mental health or substance use disorder benefits" for"mental health benefits" wherever appearing (except in provisions amended by Pub. L. 110–343, §512(a)(7)), was not executed to par. (4) as added by Pub. L. 110–343, §512(a)(4), to reflect the probable intent of Congress. See below.
+Subsec. (e)(4). Pub. L. 110–343, §512(a)(8), which directed amendment of this section by substituting "mental health or substance use disorder benefits" for "mental health benefits" wherever appearing (except in provisions amended by Pub. L. 110–343, §512(a)(7)), was not executed to par. (4) as added by Pub. L. 110–343, §512(a)(4), to reflect the probable intent of Congress. See below.
 
 Pub. L. 110–343, §512(a)(4), added par. (4) and struck out former par. (4). Text read as follows: "The term 'mental health benefits' means benefits with respect to mental health services, as defined under the terms of the plan or coverage (as the case may be), but does not include benefits with respect to treatment of substance abuse or chemical dependency."
 

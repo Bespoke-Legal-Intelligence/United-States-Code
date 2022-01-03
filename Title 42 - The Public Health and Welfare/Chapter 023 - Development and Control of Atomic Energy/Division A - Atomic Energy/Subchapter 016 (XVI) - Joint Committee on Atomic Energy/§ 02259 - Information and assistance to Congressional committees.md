@@ -18,13 +18,19 @@ The committees of the Senate and the House of Representatives which, under the r
 
 (Aug. 1, 1946, ch. 724, title I, §303, as added Pub. L. 95–110, §1, Sept. 20, 1977, 91 Stat. 884; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; amended Pub. L. 104–186, title II, §222(1), Aug. 20, 1996, 110 Stat. 1751.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (d). Pub. L. 104–186 substituted "House Oversight" for "House Administration".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

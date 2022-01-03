@@ -47,7 +47,7 @@ Survey program.—The Administrator \[of the National Aeronautics and Space Admi
 
 &emsp;"(3)
 
-Fifth-year report.—The Administrator shall transmit to the Congress, not later than February 28of the fifth year after the date of enactment of this Act, a report that provides the following:
+Fifth-year report.—The Administrator shall transmit to the Congress, not later than February 28 of the fifth year after the date of enactment of this Act, a report that provides the following:
 
 &emsp;&emsp;"(A) A summary of all activities taken pursuant to paragraph (1) since the date of enactment of this Act.
 

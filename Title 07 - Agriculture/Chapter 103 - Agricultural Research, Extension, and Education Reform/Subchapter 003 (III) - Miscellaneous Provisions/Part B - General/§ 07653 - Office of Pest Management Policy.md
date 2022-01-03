@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-The purpose of this section is to establish an Office of Pest Management Policy to provide forthe effective coordination of agricultural policies and activities within the Department of Agriculture related to pesticides and of the development and use of pest management tools, while taking into account the effects of regulatory actions of other government agencies.
+The purpose of this section is to establish an Office of Pest Management Policy to provide for the effective coordination of agricultural policies and activities within the Department of Agriculture related to pesticides and of the development and use of pest management tools, while taking into account the effects of regulatory actions of other government agencies.
 
 #### (b) Establishment of Office; principal responsibilities
 
@@ -38,6 +38,8 @@ There are authorized to be appropriated to carry out this section—
 
 (Pub. L. 105–185, title VI, §614, June 23, 1998, 112 Stat. 605; Pub. L. 107–171, title VII, §7132, May 13, 2002, 116 Stat. 435; Pub. L. 110–234, title VII, §7313, May 22, 2008, 122 Stat. 1245; Pub. L. 110–246, §4(a), title VII, §7313, June 18, 2008, 122 Stat. 1664, 2006; Pub. L. 113–79, title VII, §7309, Feb. 7, 2014, 128 Stat. 891; Pub. L. 115–334, title VII, §7307, Dec. 20, 2018, 132 Stat. 4816.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Food Quality Protection Act of 1996, referred to in subsec. (b)(3), is Pub. L. 104–170, Aug. 3, 1996, 110 Stat. 1489. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 136 of this title and Tables.
@@ -59,6 +61,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 <b>2008</b>—Subsec. (f). Pub. L. 110–246, §7313, substituted "2012" for "2007".
 
 <b>2002</b>—Subsec. (f). Pub. L. 107–171 substituted "2007" for "2002".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

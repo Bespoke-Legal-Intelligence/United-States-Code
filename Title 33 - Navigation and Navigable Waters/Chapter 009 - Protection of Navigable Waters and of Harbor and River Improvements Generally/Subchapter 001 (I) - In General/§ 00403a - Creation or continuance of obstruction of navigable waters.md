@@ -12,5 +12,5 @@ This act, referred to in text, is act Sept. 19, 1890, ch. 907, 26 Stat. 426. Sec
 
 #### Codification
 
-Text of section, which was previously omitted from the Code, was restored in view of conflicting court decisions as to whether or not section had been repealed orsuperseded. See eg. United States v. Wishkah Boom Co., 136 F. 42 (9th Cir. 1905), (appeal dismissed \[1906\] 202 U.S. 613); United States v. Wilson, 235 F.2d 251 (2d Cir. 1956).
+Text of section, which was previously omitted from the Code, was restored in view of conflicting court decisions as to whether or not section had been repealed or superseded. See eg. United States v. Wishkah Boom Co., 136 F. 42 (9th Cir. 1905), (appeal dismissed \[1906\] 202 U.S. 613); United States v. Wilson, 235 F.2d 251 (2d Cir. 1956).
 

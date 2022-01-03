@@ -2,7 +2,7 @@
 
 #### (a) Final Commission orders; persons aggrieved; petition; record; findings; affirmance, modification, enforcement, or setting aside of orders; remand to adduce additional evidence
 
-(1) A person aggrieved by a final order of the Commission entered pursuant to this chapter may obtain review of the order in the United States Court of Appeals for the circuit in which he resides or has his principal place of business, or for the District of Columbia Circuit, by filing in such court, within sixty days after the entry of the order, a written petition requesting that the order be modified or set aside in whole or in part.
+(1) A person aggrieved by a final order of the Commission entered pursuant to this chapter may obtain review of the order in the United States Court of Appeals for the circuit in which he resides or has his principal place of business, or for the District of Columbia Circuit, by filing in such court, within sixty days after the entry of the order, a written petition requesting thatthe order be modified or set aside in whole or in part.
 
 (2) A copy of the petition shall be transmitted forthwith by the clerk of the court to a member of the Commission or an officer designated by the Commission for that purpose. Thereupon the Commission shall file in the court the record on which the order complained of is entered, as provided in section 2112 of title 28 and the Federal Rules of Appellate Procedure.
 
@@ -16,7 +16,7 @@
 
 (1) A person adversely affected by a rule of the Commission promulgated pursuant to section 78f, 78i(h)(2), 78k, 78k–1, 78o(c)(5) or (6), 78o–3, 78q, 78q–1, or 78s of this title may obtain review of this rule in the United States Court of Appeals for the circuit in which he resides or has his principal place of business or for the District of Columbia Circuit, by filing in such court, within sixty days after the promulgation of the rule, a written petition requesting that the rule be set aside.
 
-(2) A copy of the petition shall be transmitted forthwith by the clerk of the court to a member of the Commission or an officer designated for that purpose. Thereupon, the Commission shall file in the court the rule under review and any documents referred to therein, the Commission's notice of proposed rulemaking and any documents referred to therein, all written submissions and the transcript of any oral presentations in the rulemaking, factual informationnot included in the foregoing that was considered by the Commission in the promulgation of the rule or proffered by the Commission as pertinent to the rule, the report of any advisory committee received or considered by the Commission in the rulemaking, and any other materials prescribed by the court.
+(2) A copy of the petition shall be transmitted forthwith by the clerk of the court to a member of the Commission or an officer designated for that purpose. Thereupon, the Commission shall file in the court the rule under review and any documents referred to therein, the Commission's notice of proposed rulemaking and any documents referred to therein, all written submissions and the transcript of any oral presentations in the rulemaking, factual information not included in the foregoing that was considered by the Commission in the promulgation of the rule or proffered by the Commission as pertinent to the rule, the report of any advisory committee received or considered by the Commission in the rulemaking, and any other materials prescribed by the court.
 
 (3) On the filing of the petition, the court has jurisdiction, which becomes exclusive on the filing of the materials set forth in paragraph (2) of this subsection, to affirm and enforce or to set aside the rule.
 
@@ -30,7 +30,7 @@
 
 (2) The filing of a petition under this section does not operate as a stay of the Commission's order or rule. Until the court's jurisdiction becomes exclusive, the Commission may stay its order or rule pending judicial review if it finds that justice so requires. After the filing of a petition under this section, the court, on whatever conditions may be required and to the extent necessary to prevent irreparable injury, may issue all necessary and appropriate process to stay the order or rule or to preserve status or rights pending its review; but (notwithstanding section 705 of title 5) no such process may be issued by the court before the filing of the record or the materials set forth in subsection (b)(2) of this section unless: (A) the Commission has denied a stay or failed to grant requested relief, (B) a reasonable period has expired since the filing of an application for a stay without a decision by the Commission, or (C) there was reasonable ground for failure to apply to the Commission.
 
-(3) When the same order or rule is the subject of one or more petitions for review filed under this section and an action for enforcement filed in a district court of the United States under section 78u(d) or (e) of this title, that court in which the petition or the action is first filed has jurisdiction with respect to the order or rule to the exclusion of any other court, and thereupon all such proceedings shall be transferred to that court; but, for the convenience of the parties in the interest of justice, that court may thereafter transfer all the proceedings to any other court of appeals or district court of the United States, whether or not a petition for review or an action for enforcement was originally filed in the transferee court. The scope of review by a district court under section 78u(d) or (e) of this title is in all cases the same as by a court of appeals under this section.
+(3) When the same order or rule is the subject of one or more petitions for review filed under this section and an action for enforcement filed in a district court of the United States under section 78u(d) or (e) of this title, that court in which the petition or the action is first filed has jurisdiction with respect to the order or rule to the exclusion of any other court, and thereupon all such proceedings shall be transferred to that court; but, for the convenience of the parties in the interest of justice, that court may thereafter transfer all the proceedings to any other court of appeals or district court of the United States, whether or not a petition for review or an action for enforcement was originally filed in the transferee court. The scope of review by a district court under section 78u(d) or (e) of thistitle is in all cases the same as by a court of appeals under this section.
 
 #### (d) Other appropriate regulatory agencies
 
@@ -39,6 +39,8 @@
 (2) For purposes of subsection (a)(4) of this section and section 706 of title 5, an order of the Commission pursuant to section 78s(a) of this title denying registration to a clearing agency for which the Commission is not the appropriate regulatory agency or pursuant to section 78s(b) of this title disapproving a proposed rule change by such a clearing agency shall be deemed to be an order of the appropriate regulatory agency for such clearing agency insofar as such order was entered by reason of a determination by such appropriate regulatory agency pursuant to section 78s(a)(2)(C) or 78s(b)(4)(C) of this title that such registration or proposed rule change would be inconsistent with the safeguarding of securities or funds.
 
 (June 6, 1934, ch. 404, title I, §25, 48 Stat. 901; June 7, 1934, ch. 426, 48 Stat. 926; June 25, 1948, ch. 646, §32(a), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Pub. L. 85–791, §10, Aug. 28, 1958, 72 Stat. 945; Pub. L. 94–29, §20, June 4, 1975, 89 Stat. 158; Pub. L. 99–571, title I, §102(k), Oct. 28, 1986, 100 Stat. 3220; Pub. L. 101–432, §6(b), Oct. 16, 1990, 104 Stat. 975.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -54,11 +56,13 @@ The Federal Rules of Appellate Procedure, referred to in subsec. (a)(2), are set
 
 <b>1975</b>—Subsec. (a). Pub. L. 94–29 revised existing provisions into five numbered paragraphs.
 
-Subsec. (b). Pub. L. 94–29 substituted provisions permitting persons adversely affected by any rule promulgated by the Commission pursuant to sections 78f, 78k, 78k–1, 78o(c)(5) or (6), 78o–3, 78q, 78q–1, or 78s of this title to obtain direct review in an appropriate Court of Appeals for provisions that commencement of proceedings under subsec. (a) shall not, unless specifically orderedby the court, operate as a stay of the Commission's order.
+Subsec. (b). Pub. L. 94–29 substituted provisions permitting persons adversely affected by any rule promulgated by the Commission pursuant to sections 78f, 78k, 78k–1, 78o(c)(5) or (6), 78o–3, 78q, 78q–1, or 78s of this title to obtain direct review in an appropriate Court of Appeals for provisions that commencement of proceedings under subsec. (a) shall not, unless specifically ordered by the court, operate as a stay of the Commission's order.
 
 Subsecs. (c), (d). Pub. L. 94–29 added subsecs. (c) and (d).
 
 <b>1958</b>—Subsec. (a). Pub. L. 85–791, in second sentence, substituted "transmitted by the clerk of the court to" for "served upon", struck out "certify and" before "file in the court", struck out "a transcript of" after "file in the court", and inserted "as provided in section 2112 of title 28", and, in third sentence, substituted "petition" for "transcript", and "jurisdiction, which upon the filing of the record shall be exclusive" for "exclusive jurisdiction".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -73,6 +77,8 @@ Amendment by Pub. L. 99–571 effective 270 days after Oct. 28, 1986, see sectio
 #### Effective Date of 1975 Amendment
 
 Amendment by Pub. L. 94–29 effective June 4, 1975, see section 31(a) of Pub. L. 94–29, set out as a note under section 78b of this title.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

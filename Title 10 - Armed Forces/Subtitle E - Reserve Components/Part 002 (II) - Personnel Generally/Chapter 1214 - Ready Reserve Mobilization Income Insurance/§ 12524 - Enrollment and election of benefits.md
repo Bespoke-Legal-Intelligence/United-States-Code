@@ -36,6 +36,8 @@ Members of Individual Ready Reserve.—Notwithstanding any other provision of th
 
 (Added Pub. L. 104–106, div. A, title V, §512(a)(1), Feb. 10, 1996, 110 Stat. 300; amended Pub. L. 104–201, div. A, title V, §542, Sept. 23, 1996, 110 Stat. 2521.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (g). Pub. L. 104–201 added subsec. (g).

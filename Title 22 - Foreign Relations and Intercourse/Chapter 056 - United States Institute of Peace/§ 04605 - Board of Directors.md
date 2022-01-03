@@ -22,7 +22,7 @@ Not more than eight voting members of the Board (including members described in 
 
 #### (d) Qualifications
 
-(1) Each individual appointed to the Board under subsection (b)(4) shall have appropriate practical or academic experience in peace and conflict resolution efforts of the United States.
+(1) Each individual appointed to the Board under subsection (b)(4) shall have appropriatepractical or academic experience in peace and conflict resolution efforts of the United States.
 
 (2) Officers and employees of the United States Government may not be appointed to the Board under subsection (b)(4).
 
@@ -38,7 +38,7 @@ Not more than eight voting members of the Board (including members described in 
 
 (2) The terms of the members of the Board initially appointed under subsection (b)(4) shall begin on January 20, 1985, and subsequent terms shall begin upon the expiration of the preceding term, regardless of when a member is appointed to fill that term.
 
-(3) The President may not nominate an individual for appointment to the Board under subsection (b)(4) prior to January 20, 1985, but shall submit the names of eleven nominees for initialBoard membership under subsection (b)(4) not later than ninety days after that date. If the Senate rejects such a nomination or if such a nomination is withdrawn, the President shall submit the name of a new nominee within fifteen days.
+(3) The President may not nominate an individual for appointment to the Board under subsection (b)(4) prior to January 20, 1985, but shall submit the names of eleven nominees for initial Board membership under subsection (b)(4) not later than ninety days after that date. If the Senate rejects such a nomination or if such a nomination is withdrawn, the President shall submit the name of a new nominee within fifteen days.
 
 (4) An individual appointed as a member of the Board under subsection (b)(4) may not be appointed to more than two terms on the Board.
 
@@ -104,7 +104,7 @@ Committee on Labor and Human Resources of Senate changed to Committee on Health,
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–315, title IX, §921(b)(2), Aug. 14, 2008, 122 Stat. 3456, provided that: "The amendments made byparagraph (1) \[amending this section\] shall take effect as if enacted on June 1, 2007, and shall apply to any member of the Board of Directors of the Institute of Peace confirmed by the Senate and sworn in as a member of the Board of Directors on or after such date."
+Pub. L. 110–315, title IX, §921(b)(2), Aug. 14, 2008, 122 Stat. 3456, provided that: "The amendments made by paragraph (1) \[amending this section\] shall take effect as if enacted on June 1, 2007, and shall apply to any member of the Board of Directors of the Institute of Peace confirmed by the Senate and sworn in as a member of the Board of Directors on or after such date."
 
 #### Effective Date of 1998 Amendment
 

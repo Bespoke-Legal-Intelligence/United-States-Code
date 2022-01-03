@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) that is legally enforceable against the sponsor by the sponsored alien, the Federal Government, any State (or any political subdivision of such State), or by any other entity that provides any means-tested public benefit (as defined in subsection (e) <sup>1</sup>), consistent with the provisions of this section; and
 
-&emsp;&emsp;(C) in which the sponsor agrees to submit to the jurisdiction of any Federal or State court for the purpose of actions brought under subsection (b)(2).
+&emsp;&emsp;(C) in which the sponsor agrees to submit to the jurisdiction of any Federal or Statecourt for the purpose of actions brought under subsection (b)(2).
 
 #### (2) Period of enforceability
 
@@ -74,7 +74,7 @@ Remedies available to enforce an affidavit of support under this section include
 
 #### (1) General requirement
 
-&emsp;The sponsor shall notify the Attorney General and the State in which the sponsored alien is currently a resident within 30 days of any change of address of the sponsor duringthe period in which an affidavit of support is enforceable.
+&emsp;The sponsor shall notify the Attorney General and the State in which the sponsored alien is currently a resident within 30 days of any change of address of the sponsor during the period in which an affidavit of support is enforceable.
 
 #### (2) Penalty
 
@@ -82,7 +82,7 @@ Remedies available to enforce an affidavit of support under this section include
 
 &emsp;&emsp;(A) not less than $250 or more than $2,000, or
 
-&emsp;&emsp;(B) if such failure occurs with knowledge that the sponsored alien has received any means-tested public benefits (other than benefits described in section 1611(b), 1613(c)(2), or 1621(b) of this title) not less than $2,000 or more than $5,000.
+&emsp;&emsp;(B) if such failure occurs with knowledge that the sponsored alien has received anymeans-tested public benefits (other than benefits described in section 1611(b), 1613(c)(2), or 1621(b) of this title) not less than $2,000 or more than $5,000.
 
 > &emsp;The Attorney General shall enforce this paragraph under appropriate regulations.
 
@@ -154,7 +154,7 @@ An action to enforce an affidavit of support executed under subsection (a) may b
 
 #### (iii) Percent of poverty
 
-&emsp;&emsp;&emsp;For purposes of this section, a reference to an annual income equal to at least a particular percentage of the Federal poverty line means an annual income equal to at least such percentage of the Federal poverty line for a family unit of a size equal to the number of members of the sponsor's household (including family and non-family dependents) plus the total number of other dependents and aliens sponsored by that sponsor.
+&emsp;&emsp;&emsp;For purposes of this section, a reference to an annual income equal to at least a particular percentage of the Federal poverty line means an annual income equal to at least such percentage of the Federal poverty line for a family unit of a size equal to the number of members of thesponsor's household (including family and non-family dependents) plus the total number of other dependents and aliens sponsored by that sponsor.
 
 #### (B) Limitation
 
@@ -218,7 +218,7 @@ In general.—The amendments made by this section \[enacting this section, amend
 
 Promulgation of form.—Not later than 90 days after the date of the enactment of this Act \[Sept. 30, 1996\], the Attorney General, in consultation with the heads of other appropriate agencies, shall promulgate a standard form for an affidavit of support consistent with the provisions of section 213A of the Immigration and Nationality Act \[this section\], as amended by subsection (a)."
 
-Pub. L. 104–193, title IV, §423(c), Aug. 22, 1996, 110 Stat. 2273, provided that subsec. (a) of this section was applicable to affidavits of support executed on or after a date specified by Attorney General, which date was to be not earlier than 60 days (and not later than 90 days) after date Attorney General formulated form for suchaffidavits under subsec. (b) of this section, prior to repeal by Pub. L. 104–208, div. C, title V, §551(b)(2), Sept. 30, 1996, 104 Stat. 3009–679.
+Pub. L. 104–193, title IV, §423(c), Aug. 22, 1996, 110 Stat. 2273, provided that subsec. (a) of this section was applicable to affidavits of support executed on or after a date specified by Attorney General, which date was to be not earlier than 60 days (and not later than 90 days) after date Attorney General formulated form for such affidavits under subsec. (b) of this section, prior to repeal by Pub. L. 104–208, div. C, title V, §551(b)(2), Sept. 30, 1996, 104 Stat. 3009–679.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

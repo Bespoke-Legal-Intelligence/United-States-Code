@@ -30,7 +30,9 @@ The desirability of including a positive statement of the rule is pointed up by 
 
 Section 412(a) of the Officer Personnel Act of 1947 (34 U.S.C. 410n) (codified, except for the first proviso, in §6150 of this title), supplies a further reason why a positive statement of the rule is desirable. That section provides that an officer who has been specially commended for the performance of duty in actual combat shall, when retired, be placed on the retired list in the grade next higher than that in which serving at the time of retirement. The first proviso, codified in subsection (b) of this section, provided further that an officer advanced under §412(a) to a flag or general officer grade could be recalled either in the advanced grade or in the grade from which advanced. The law was silent as to the grade in which other officers advanced under §412(a) should be recalled. It was understood that they would be recalled in the advanced grade accorded them on the retired list, because there was no authority to recall them in any other grade. However, the Comptroller General raised a question as to their right to the pay of the higher grade when recalled. Although the final decision of the Comptroller General was in favor of the higher pay (30 Comp. Gen. 242, December 20, 1950), the fact that the question was raised indicates the confusion that results from leaving the rule to inference.
 
-It appears that the rule was never in doubt until after the enactment of the two recent laws cited above, one applying the rule to a limited class, and one stating a discretionary exception without stating the rule itself. These two laws make it more difficult than it was formerly to derive the correct conclusion by inference alone.
+It appears that the rule was never in doubt until after the enactment of the two recent laws cited above, oneapplying the rule to a limited class, and one stating a discretionary exception without stating the rule itself. These two laws make it more difficult than it was formerly to derive the correct conclusion by inference alone.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -43,6 +45,8 @@ It appears that the rule was never in doubt until after the enactment of the two
 <b>1963</b>—Subsec. (c). Pub. L. 88–132 repealed subsec. (c) which provided for recomputation of retired pay of retired members of the naval service, recalled to active duty in the higher grade for officers specially commended and released from such duty, on basis of the then monthly basic pay of the grade held on the retired list after continuous 2-year period of service. See section 1402 of this title.
 
 <b>1958</b>—Subsec. (c). Pub. L. 85–422 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 
@@ -62,5 +66,5 @@ Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 
 
 #### Effective Date of 1958 Amendment
 
-Amendment by Pub. L. 85–422 effective June 1, 1958, see section 9 of Pub. L. 85–422.
+Amendment by Pub. L. 85–422 effective June 1, 1958, see section 9 of Pub. L. 85–422, May 20, 1958, 72 Stat. 130.
 

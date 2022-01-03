@@ -98,13 +98,13 @@ In the performance of its functions the Commission is authorized to—
 
 #### (t) Contracts
 
-&emsp;enter into contracts for the processing, fabricating, separating, or refining in facilities owned by the Commission of source, byproduct or other material, or special nuclear material, in accordance with and within the period of an agreement for cooperation while comparable services are available to persons licensed under section 2133 or 2134 of this title: <i>Provided</i>, That the prices for services under such contracts shall be no less than the prices currently charged by the Commission pursuant to subsection (m);
+&emsp;enter into contracts for the processing, fabricating, separating, or refining in facilities owned by the Commission of source, byproductor other material, or special nuclear material, in accordance with and within the period of an agreement for cooperation while comparable services are available to persons licensed under section 2133 or 2134 of this title: <i>Provided</i>, That the prices for services under such contracts shall be no less than the prices currently charged by the Commission pursuant to subsection (m);
 
 #### (u) Additional contracts; guiding principles; appropriations
 
 &emsp;(1) enter into contracts for such periods of time as the Commission may deem necessary or desirable, but not to exceed five years from the date of execution of the contract, for the purchase or acquisition of reactor services or services related to or required by the operation of reactors;
 
-&emsp;(2)(A) enter into contracts for such periods of time as the Commission may deem necessary or desirable for the purchase or acquisition of any supplies, equipment, materials, or services required by the Commission whenever the Commission determines that: (i) it is advantageous to the Government to make such purchase or acquisition from commercial sources; (ii) the furnishing of such supplies, equipment, materials, or services will require the construction or acquisition of special facilities by the vendors or suppliers thereof; (iii) the amortization chargeable to the Commission constitutes an appreciable portion ofthe cost of contract performance, excluding cost of materials; and (iv) the contract for such period is more advantageous to the Government than a similar contract not executed under the authority of this subsection. Such contracts shall be entered into for periods not to exceed five years each from the date of initial delivery of such supplies, equipment, materials, or services or ten years from the date of execution of the contracts excluding periods of renewal under option.
+&emsp;(2)(A) enter into contracts for such periods of time as the Commission may deem necessary or desirable for the purchase or acquisition of any supplies, equipment, materials, or services required by the Commission whenever the Commission determines that: (i) it is advantageous to the Government to make such purchase or acquisition from commercial sources; (ii) the furnishing of such supplies, equipment, materials, or services will require the construction or acquisition of special facilities by the vendors or suppliers thereof; (iii) the amortization chargeable to the Commission constitutes an appreciable portion of the cost of contract performance, excluding cost of materials; and (iv) the contract for such period is more advantageous to the Government than a similar contract not executed under the authority of this subsection. Such contracts shall be entered into for periods not to exceed five years each from the date of initial delivery of such supplies, equipment, materials, or services or ten years from the date of execution of the contracts excluding periods of renewal under option.
 
 &emsp;(B) In entering into such contracts the Commission shall be guided by the following principles: (i) the percentage of the total cost of special facilities devoted to contract performance and chargeable to the Commission should not exceed the ratio between the period of contract deliveries and the anticipated useful life of such special facilities; (ii) the desirability of obtaining options to renew the contract for reasonable periods at prices not to include charges for special facilities already amortized; and (iii) the desirability of reserving in the Commission the right to take title to the special facilities under appropriate circumstances; and
 
@@ -132,11 +132,13 @@ In the performance of its functions the Commission is authorized to—
 
 > &emsp;Such standards and instructions promulgated by the Commission pursuant to this subsection shall take into account, as determined by the Commission, so as to avoid unnecessary duplication and expense, performance bonds or other financial arrangements which are required by other Federal agencies or State agencies and/or other local governing bodies for such decommissioning, decontamination, and reclamation and long-term maintenance and monitoring except that nothing in this paragraph shall be construed to require that the Commission accept such bonds or arrangements if the Commission determines that such bonds or arrangements are not adequate to carry out subparagraphs (1) and (2) of this subsection.
 
-(Aug. 1, 1946, ch. 724, title I, §161, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 948; amended July 14, 1956, ch. 608, 70 Stat. 553; Aug. 6, 1956, ch. 1015, §4, 70 Stat. 1069; Pub. L. 85–162, title II, §§201, 204, Aug. 21, 1957, 71 Stat. 410; Pub. L. 85–287, §4, Sept. 4, 1957, 71 Stat. 613; Pub. L. 85–507, §21(b)(1), July 7, 1958, 72 Stat. 337; Pub. L. 85–681, §§6, 7, Aug. 19, 1958, 72 Stat. 633; Pub. L. 86–300, §1, Sept. 21, 1959, 73 Stat. 574; Pub. L. 87–206, §13, Sept. 6, 1961, 75 Stat. 478; Pub. L. 87–456, title III, §303(c), May 24, 1962, 76 Stat. 78; Pub. L. 87–615, §12, Aug. 29, 1962, 76 Stat. 411; Pub. L. 87–793, title VI, §1001(g), Oct. 11, 1962, 76 Stat. 864; Pub. L. 88–489, §16, Aug. 26, 1964, 78 Stat. 606; Pub. L.90–190, §11, Dec. 14, 1967, 81 Stat. 578; Pub. L. 91–452, title II, §237, Oct. 15, 1970, 84 Stat. 930; Pub. L. 91–560, §§7, 8, Dec. 19, 1970, 84 Stat. 1474; Pub. L. 92–314, title III, §301, June 16, 1972, 86 Stat. 227; Pub. L. 93–377, §7, Aug. 17, 1974, 88 Stat. 475; Pub. L. 95–604, title II, §203, Nov. 8, 1978, 92 Stat. 3036; Pub. L. 97–90, title II, §211, Dec. 4, 1981, 95 Stat. 1170; Pub. L. 99–661, div. C, title I, §3134, Nov. 14, 1986, 100 Stat. 4064; Pub. L. 100–449, title III, §305(b), Sept. 28, 1988, 102 Stat. 1876; Pub. L. 101–575, §5(b), Nov. 15, 1990, 104 Stat. 2835; renumbered title I and amended Pub. L. 102–486, title IX, §902(a)(4), (5), (8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 109–58, title VI, §§623, 626, Aug. 8, 2005, 119 Stat. 783, 784; Pub. L. 115–232, div. C, title XXXI, §3116(a), Aug. 13, 2018, 132 Stat. 2291.)
+(Aug. 1, 1946, ch. 724, title I, §161, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 948; amended July 14, 1956, ch. 608, 70 Stat. 553; Aug. 6, 1956, ch. 1015, §4, 70 Stat. 1069; Pub. L. 85–162, title II, §§201, 204, Aug. 21, 1957, 71 Stat. 410; Pub. L. 85–287, §4, Sept. 4, 1957, 71 Stat. 613; Pub. L. 85–507, §21(b)(1), July 7, 1958, 72 Stat. 337; Pub. L. 85–681, §§6, 7, Aug. 19, 1958, 72 Stat. 633; Pub. L. 86–300, §1, Sept. 21, 1959, 73 Stat. 574; Pub. L. 87–206, §13, Sept. 6, 1961, 75 Stat. 478; Pub. L. 87–456, title III, §303(c), May 24, 1962, 76 Stat. 78; Pub. L. 87–615, §12, Aug. 29, 1962, 76 Stat. 411; Pub. L. 87–793, title VI, §1001(g), Oct. 11, 1962, 76 Stat. 864; Pub. L. 88–489, §16, Aug. 26, 1964, 78 Stat. 606; Pub. L. 90–190, §11, Dec. 14, 1967, 81 Stat. 578; Pub. L. 91–452, title II, §237, Oct. 15, 1970, 84 Stat. 930; Pub. L. 91–560, §§7, 8, Dec. 19, 1970, 84 Stat. 1474; Pub. L. 92–314, title III, §301, June 16, 1972, 86 Stat. 227; Pub. L. 93–377, §7, Aug. 17, 1974, 88 Stat. 475; Pub. L. 95–604, title II, §203, Nov. 8, 1978, 92 Stat. 3036; Pub. L. 97–90, title II, §211, Dec. 4, 1981, 95 Stat. 1170; Pub. L. 99–661, div. C, title I, §3134, Nov. 14, 1986, 100 Stat. 4064; Pub. L. 100–449, title III, §305(b), Sept. 28, 1988, 102 Stat. 1876; Pub. L. 101–575, §5(b), Nov. 15, 1990, 104 Stat. 2835; renumbered title I and amended Pub. L. 102–486, title IX, §902(a)(4), (5), (8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 109–58, title VI, §§623, 626, Aug. 8, 2005, 119 Stat. 783, 784; Pub. L. 115–232, div. C, title XXXI, §3116(a), Aug. 13, 2018, 132 Stat. 2291.)
 
 #### Amendment of Section
 
 <i>For termination of amendment by section 501(c) of Pub. L. 100–449, see Effective and Termination Dates of 1988 Amendment note below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -218,6 +220,8 @@ Subsec. (s). Pub. L. 85–162, §204, added subsec. (s).
 
 Subsec. (r). Act Aug. 6, 1956, added subsec. (r).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective and Termination Dates of 1988 Amendment
 
 Amendment by Pub. L. 100–449 effective on the date the United States-Canada Free-Trade Agreement enters into force (Jan. 1, 1989), and to cease to have effect on the date the Agreement ceases to be in force, see section 501(a), (c) of Pub. L. 100–449, set out in a note under section 2112 of Title 19, Customs Duties.
@@ -246,7 +250,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Organizational Conflicts of Interest
 
-Pub. L. 95–209, §7, Dec. 13, 1977, 91 Stat. 1483, provided that the Commission would, by Dec. 31, 1977, promulgate guidelines to be applied by the Commission to determine whether an organization proposing to enter into a contractual arrangement with the Commission had a conflict of interest that could impair the contractor's judgment or give the contractor an unfair competitive advantage.
+Pub. L. 95–209, §7, Dec. 13, 1977, 91 Stat. 1483, provided that the Commission would, by Dec. 31, 1977, promulgate guidelines to be applied by the Commission to determine whether an organization proposing to enterinto a contractual arrangement with the Commission had a conflict of interest that could impair the contractor's judgment or give the contractor an unfair competitive advantage.
 
 #### Applicability to Functions Transferred by Department of Energy Organization Act
 
@@ -256,10 +260,6 @@ Pub. L. 95–91, title VII, §709(c)(2), Aug. 4, 1977, 91 Stat. 608, provided th
 
 Advisory boards in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided by law. Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
-#### Emergency Preparedness Functions
-
-For assignment of certain emergency preparedness functions to Members of the Nuclear Regulatory Commission, see Parts 1, 2, and 21 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of this title.
-
 #### Principal Office Building for Atomic Energy Commission
 
 Act May 6, 1955, ch. 34, 69 Stat. 47, as amended by Pub. L. 85–107, July 17, 1957, 71 Stat. 307, authorized Atomic Energy Commission to acquire a suitable site in or near District of Columbia and, notwithstanding any other provision of law, to provide for construction on such site, in accordance with plans and specifications prepared by or under direction of Commission, of a modern office building to serve as principal office of Commission at a total cost of not to exceed $13,300,000 and authorized to be appropriated such sums as were necessary.
@@ -267,6 +267,12 @@ Act May 6, 1955, ch. 34, 69 Stat. 47, as amended by Pub. L. 85–107, July 17, 1
 #### Report With Respect to Renegotiations, Reappraisals, and Sales Proceedings
 
 Pub. L. 85–162, title II, §203, Aug. 21, 1957, 71 Stat. 410, directed Atomic Energy Commission, Federal Housing Administration, and Housing and Home Finance Agency to report to Joint Committee by Jan. 31, 1958, with respect to renegotiations, reappraisals, and sales proceedings authorized under sections 201 and 202 of Pub. L. 85–162 \[amending subsec. (e) of this section and enacting section 2325(c) of this title\].
+
+#### <b>Executive Documents</b>
+
+#### Emergency Preparedness Functions
+
+For assignment of certain emergency preparedness functions to Members of the Nuclear Regulatory Commission, see Parts 1, 2, and 21 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

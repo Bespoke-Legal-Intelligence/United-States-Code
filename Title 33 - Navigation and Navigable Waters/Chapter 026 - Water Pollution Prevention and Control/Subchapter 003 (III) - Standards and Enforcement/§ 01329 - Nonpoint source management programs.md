@@ -30,11 +30,11 @@
 
 &emsp;&emsp;(A) An identification of the best management practices and measures which will be undertaken to reduce pollutant loadings resulting from each category, subcategory, or particular nonpoint source designated under paragraph (1)(B), taking into account the impact of the practice on ground water quality.
 
-&emsp;&emsp;(B) An identification of programs (including, as appropriate, nonregulatory or regulatory programs for enforcement, technical assistance, financial assistance, education,training, technology transfer, and demonstration projects) to achieve implementation of the best management practices by the categories, subcategories, and particular nonpoint sources designated under subparagraph (A).
+&emsp;&emsp;(B) An identification of programs (including, as appropriate, nonregulatory or regulatory programs for enforcement, technical assistance, financial assistance, education, training, technology transfer, and demonstration projects) to achieve implementation of the best management practices by the categories, subcategories, and particular nonpoint sources designated under subparagraph (A).
 
 &emsp;&emsp;(C) A schedule containing annual milestones for (i) utilization of the program implementation methods identified in subparagraph (B), and (ii) implementation of the best management practices identified in subparagraph (A) by the categories, subcategories, or particular nonpoint sources designated under paragraph (1)(B). Such schedule shall provide for utilization of the best management practices at the earliest practicable date.
 
-&emsp;&emsp;(D) A certification of the attorney general of the State or States (or the chief attorney of any State water pollution control agency which has independent legal counsel) that the laws of the State or States, as the case may be, provide adequate authority to implement such management program or, if there is not such adequate authority, a list of such additional authorities as will be necessary to implement such management program. A schedule and commitment by the State or States to seek such additional authorities as expeditiously as practicable.
+&emsp;&emsp;(D) A certification of the attorney general of the State or States (or the chief attorneyof any State water pollution control agency which has independent legal counsel) that the laws of the State or States, as the case may be, provide adequate authority to implement such management program or, if there is not such adequate authority, a list of such additional authorities as will be necessary to implement such management program. A schedule and commitment by the State or States to seek such additional authorities as expeditiously as practicable.
 
 &emsp;&emsp;(E) Sources of Federal and other assistance and funding (other than assistance provided under subsections (h) and (i)) which will be available in each of such fiscal years for supporting implementation of such practices and measures and the purposes for which such assistance will be used in each of such fiscal years.
 
@@ -76,7 +76,7 @@
 
 &emsp;&emsp;(D) the practices and measures proposed in such program or portion are not adequate to reduce the level of pollution in navigable waters in the State resulting from nonpoint sources and to improve the quality of navigable waters in the State;
 
-> &emsp;the Administrator shall within 6 months of the receipt of the proposed program notify the State of any revisions or modifications necessary to obtain approval. The State shallthereupon have an additional 3 months to submit its revised management program and the Administrator shall approve or disapprove such revised program within three months of receipt.
+> &emsp;the Administrator shall within 6 months of the receipt of the proposed program notify the State of any revisions or modifications necessary to obtain approval. The State shall thereupon have an additional 3 months to submit its revised management program and the Administrator shall approve or disapprove such revised program within three months of receipt.
 
 #### (3) Failure of State to submit report
 

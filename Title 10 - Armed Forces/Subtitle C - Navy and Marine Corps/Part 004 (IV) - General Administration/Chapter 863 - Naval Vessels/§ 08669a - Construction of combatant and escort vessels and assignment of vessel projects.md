@@ -34,6 +34,8 @@ June 11, 1965, Pub. L. 89–37, §§302, 303, 79 Stat. 128.
 
 In subsection (a), the words "combatant vessels" are substituted for "warships" for consistency in title 10 and because of 1:3. The words "for which appropriations are authorized by this Act and hereafter" are omitted as unnecessary.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7299a of this title as this section.
@@ -54,15 +56,19 @@ Subsecs. (c), (d). Pub. L. 102–484, §1016(b), redesignated subsec. (d) as (c)
 
 <b>1987</b>—Subsec. (d). Pub. L. 100–180 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
 
-"(1) Notwithstanding subsections (b) and (c), the Secretary may award a contract for short-term work for the overhaul, repair, or maintenance of a naval vessel only to a contractor that is able to perform the work at the homeport of the vessel, if the Secretary determines that adequate competition is available among firms able to perform the work at the homeport of the vessel.
+"(1) Notwithstanding subsections (b) and (c), the Secretary may award a contract for short-term work forthe overhaul, repair, or maintenance of a naval vessel only to a contractor that is able to perform the work at the homeport of the vessel, if the Secretary determines that adequate competition is available among firms able to perform the work at the homeport of the vessel.
 
 "(2) In this subsection, the term 'short-term work' means work that will be for a period of six months or less."
 
 <b>1986</b>—Subsecs. (c), (d). Pub. L. 99–661 added subsecs. (c) and (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Authority
 

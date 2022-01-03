@@ -146,13 +146,15 @@ In subsection (f), the words "person who has been discharged" are substituted fo
 
 In subsection (g), the words "regulations to be prescribed by the Secretary" are substituted for the words "Army Regulations". The words "of the Government" are omitted as surplusage. 10:1253 (last 22 words of 1st sentence) is omitted as surplusage. The words "or to another executive department of the Government" are omitted as superseded by section 7 of the act of May 21, 1920, ch. 194, as amended (31 U.S.C. 686). The provisions of 10:1253 relating to the computation of cost are omitted to reflect Title IV of the National Security Act of 1947, as amended (63 Stat. 585), which authorized the Secretary of Defense to prescribe regulations governing the use and sale of certain inventories at cost, including applicable administrative expenses. (See opinion of the Assistant General Counsel (Fiscal Matters) of the Office of the Secretary of Defense, January 4, 1955.)
 
-In subsection (h), the word "outside" is substituted for the words "beyond the continental limitations". The words "or in Alaska" are omitted, since, under section 101(1) of this title, the words "United States" are defined to include only the States and the District of Columbia. The word "continental", after the words"within the", is omitted for the same reason. The last sentence is substituted for 10:1241 (proviso).
+In subsection (h), the word "outside" is substituted for the words "beyond the continental limitations". The words "or in Alaska" are omitted, since, under section 101(1) of this title, the words "United States" are defined to include only the States and the District of Columbia. The word "continental", after the words "within the", is omitted for the same reason. The last sentence is substituted for 10:1241 (proviso).
 
 In subsection (i), 10:1196 (last 30 words) is omitted as superseded by the Act of April 27, 1914, ch. 72 (last proviso under "Subsistence of the Army"), 38 Stat. 361. The words "So much of the" and "as may be necessary" are omitted as surplusage. The words "members \* \* \* on active duty, for the use of themselves and their families" are substituted for the words "officers for the use of themselves and their families, and to commanders of companies or other organizations, for the use of the enlisted men of their companies or organizations", to conform to 10:1237 and 1238. Those sections provide the basic authority for procurement and sale of subsistence supplies to all members. This interpretation conforms to established administrative practice under those sections. The word "supplies" is substituted for the word "stores".
 
 #### 1962 Act
 
 The change corrects an internal reference.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -185,6 +187,8 @@ Subsec. (f). Pub. L. 104–106, §375(b)(2)(B), inserted "or by commercial credi
 <b>1980</b>—Subsec. (f). Pub. L. 96–513 struck out reference to section 8612 of this title.
 
 <b>1962</b>—Subsecs. (a), (b). Pub. L. 87–651 substituted "section 2208 of this title" for "sections 172–172j of title 5".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

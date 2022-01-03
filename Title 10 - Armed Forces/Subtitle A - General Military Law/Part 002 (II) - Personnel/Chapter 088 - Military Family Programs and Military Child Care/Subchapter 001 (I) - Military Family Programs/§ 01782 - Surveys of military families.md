@@ -24,6 +24,8 @@ Survey Required for Fiscal Year 2010.—Notwithstanding subsection (a), during f
 
 (Added Pub. L. 104–106, div. A, title V, §568(a)(1), Feb. 10, 1996, 110 Stat. 330; amended Pub. L. 107–107, div. A, title V, §572, Dec. 28, 2001, 115 Stat. 1122; Pub. L. 110–181, div. A, title V, §581(c), Jan. 28, 2008, 122 Stat. 122.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (d). Pub. L. 110–181 added subsec. (d).

@@ -4,6 +4,8 @@ For the purpose of estimating the duties on importations of grain, the number of
 
 (R.S. §2919.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §2919 derived from act July 18, 1866, ch. 201, §38, 14 Stat. 187.

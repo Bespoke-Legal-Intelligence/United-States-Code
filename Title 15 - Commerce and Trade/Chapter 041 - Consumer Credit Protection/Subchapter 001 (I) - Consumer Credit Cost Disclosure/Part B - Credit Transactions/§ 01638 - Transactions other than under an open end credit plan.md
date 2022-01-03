@@ -14,7 +14,7 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 &emsp;&emsp;(iii) subtract any charges which are part of the finance charge but which will be paid by the consumer before or at the time of the consummation of the transaction, or have been withheld from the proceeds of the credit.
 
-&emsp;(B) In conjunction with the disclosure of the amount financed, a creditor shall provide a statement of the consumer's right to obtain, upon a written request, a written itemization of the amount financed. The statement shall include spaces for a "yes" and "no" indication to be initialed by the consumer to indicatewhether the consumer wants a written itemization of the amount financed. Upon receiving an affirmative indication, the creditor shall provide, at the time other disclosures are required to be furnished, a written itemization of the amount financed. For the purposes of this subparagraph, "itemization of the amount financed" means a disclosure of the following items, to the extent applicable:
+&emsp;(B) In conjunction with the disclosure of the amount financed, a creditor shall provide a statement of the consumer's right to obtain, upon a written request, a written itemization of the amount financed. The statement shall include spaces for a "yes" and "no" indication to be initialed by the consumer to indicate whether the consumer wants a written itemization of the amount financed. Upon receiving an affirmative indication, the creditor shall provide, at the time other disclosures are required to be furnished, a written itemization of the amount financed. For the purposes of this subparagraph, "itemization of the amount financed" means a disclosure of the following items, to the extent applicable:
 
 &emsp;&emsp;(i) the amount that is or will be paid directly to the consumer;
 
@@ -34,7 +34,7 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 &emsp;(7) In a sale of property or services in which the seller is the creditor required to disclose pursuant to section 1631(b) of this title, the "total sale price", using that term, which shall be the total of the cash price of the property or services, additional charges, and the finance charge.
 
-&emsp;(8) Descriptive explanations of the terms "amount financed", "finance charge", "annual percentage rate", "total of payments", and "total sale price" as specified by the Bureau. The descriptive explanation of "total sale price" shall include reference to the amount of the downpayment.
+&emsp;(8) Descriptive explanations of the terms "amount financed", "finance charge", "annual percentage rate", "total of payments", and "total sale price" as specified by the Bureau. The descriptive explanation of "totalsale price" shall include reference to the amount of the downpayment.
 
 &emsp;(9) Where the credit is secured, a statement that a security interest has been taken in (A) the property which is purchased as part of the credit transaction, or (B) property not purchased as part of the credit transaction identified by item or type.
 
@@ -72,7 +72,7 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 (2)(A) Except as provided in subparagraph (G), in the case of any extension of credit that is secured by the dwelling of a consumer, which is also subject to the Real Estate Settlement Procedures Act \[12 U.S.C. 2601 et seq.\], good faith estimates of the disclosures required under subsection (a) shall be made in accordance with regulations of the Bureau under section 1631(c) of this title and shall be delivered or placed in the mail not later than three business days after the creditor receives the consumer's written application, which shall be at least 7 business days before consummation of the transaction.
 
-(B) In the case of an extension of credit that is secured by the dwelling of a consumer, the disclosures provided under subparagraph (A),<sup>1</sup> shall be in addition to the other disclosures required by subsection (a), and shall—
+(B) In the case of an extension of credit that is secured by the dwelling of a consumer, the disclosures provided under subparagraph (A),<sup>1</sup>shall be in addition to the other disclosures required by subsection (a), and shall—
 
 &emsp;(i) state in conspicuous type size and format, the following: "You are not required to complete this agreement merely because you have received these disclosures or signed a loan application."; and
 
@@ -102,7 +102,7 @@ Waiver of timeliness of disclosures.—To expedite consummation of a transaction
 
 &emsp;(I) the requirements of subparagraphs (A) through (E) shall not apply; and
 
-&emsp;(II) a good faith estimate of the disclosures required under subsection (a) shall be made inaccordance with regulations of the Bureau under section 1631(c) of this title before such credit is extended, or shall be delivered or placed in the mail not later than 3 business days after the date on which the creditor receives the written application of the consumer for such credit, whichever is earlier.
+&emsp;(II) a good faith estimate of the disclosures required under subsection (a) shall be made in accordance with regulations of the Bureau under section 1631(c) of this title before such credit is extended, or shall be delivered or placed in the mail not later than 3 business days after the date on which the creditor receives the written application of the consumer for such credit, whichever is earlier.
 
 (ii) If a disclosure statement furnished within 3 business days of the written application (as provided under clause (i)(II)) contains an annual percentage rate which is subsequently rendered inaccurate, within the meaning of section 1606(c) of this title, the creditor shall furnish another disclosure statement at the time of settlement or consummation of the transaction.
 
@@ -118,7 +118,7 @@ In general.—In the case of any consumer credit transaction secured by a first 
 
 &emsp;(B)
 
-Assessment value.—The amount taken into account under subparagraph (A) for the payment of property taxes, hazard and flood (if any) insurance premiums, or other periodic payments or premiums with respect to the property shall reflect the taxable assessed value of the real property securing the transaction after the consummation of the transaction, including the value of any improvements on the property or to be constructed on the property (whether or not such construction will be financed from the proceeds of the transaction), if known, and the replacement costs of the property for hazard insurance, in the initial year after the transaction.
+Assessment value.—The amount taken into account under subparagraph (A) for thepayment of property taxes, hazard and flood (if any) insurance premiums, or other periodic payments or premiums with respect to the property shall reflect the taxable assessed value of the real property securing the transaction after the consummation of the transaction, including the value of any improvements on the property or to be constructed on the property (whether or not such construction will be financed from the proceeds of the transaction), if known, and the replacement costs of the property for hazard insurance, in the initial year after the transaction.
 
 #### (c) Timing of disclosures on unsolicited mailed or telephone purchase orders or loan requests
 
@@ -298,7 +298,7 @@ If a consumer credit sale is one of a series of consumer credit sales transactio
 
 #### (11) Duties of lenders participating in preferred lender arrangements
 
-&emsp;Each private educational lender that has a preferred lender arrangement with a covered educational institution shall annually, by a date determined by the Bureau, in consultation with the Secretary of Education, provide to the covered educational institution such information as the Bureau determines to include in the model form developed under paragraph (5) for each type of private education loan that the lender plans to offer to students attending the covered educational institution, or to the families of such students, for the next awardyear (as that term is defined in section 481 of the Higher Education Act of 1965 \[20 U.S.C. 1088\]).
+&emsp;Each private educational lender that has a preferred lender arrangement with a covered educational institution shall annually, by a date determined by the Bureau, in consultation with the Secretary of Education, provide to the covered educational institution such information as the Bureau determines to include in the model form developed under paragraph (5) for each type of private education loan that the lender plans to offer to students attending the covered educational institution, or to the families of such students, for the next award year (as that term is defined in section 481 of the Higher Education Act of 1965 \[20 U.S.C. 1088\]).
 
 #### (f) Periodic statements for residential mortgage loans
 
@@ -331,6 +331,8 @@ If a consumer credit sale is one of a series of consumer credit sales transactio
 &emsp;Paragraph (1) shall not apply to any fixed rate residential mortgage loan where the creditor, assignee, or servicer provides the obligor with a coupon book that provides the obligor with substantially the same information as required in paragraph (1).
 
 (Pub. L. 90–321, title I, §128, May 29, 1968, 82 Stat. 155; Pub. L. 96–221, title VI, §614(a)–(c), Mar. 31, 1980, 94 Stat. 178, 179; Pub. L. 104–208, div. A, title II, §2105, Sept. 30, 1996, 110 Stat. 3009–402; Pub. L. 109–8, title XIII, §1302(b)(1), Apr. 20, 2005, 119 Stat. 208; Pub. L. 110–289, div. B, title V, §2502(a), July 30, 2008, 122 Stat. 2855; Pub. L. 110–315, title X, §1021(a), Aug. 14, 2008, 122 Stat. 3483; Pub. L. 110–343, div. A, title I, §130(a), Oct. 3, 2008, 122 Stat. 3797; Pub. L. 111–203, title X, §1100A(2), title XIV, §§1419, 1420, 1465, July 21, 2010, 124 Stat. 2107, 2154, 2155, 2185.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -378,6 +380,8 @@ Subsec. (b). Pub. L. 96–221, §614(b), designated existing provisions as par. 
 
 Subsec. (c). Pub. L. 96–221, §614(c), designated existing provisions as par. (1), substituted "total sale" for "deferred payment", and added par. (2).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Amendment by section 1100A(2) of Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
@@ -414,7 +418,7 @@ Variable interest rates.—Subparagraph (C) of section 128(b)(2) of the Truth in
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under Title 11, Bankruptcy, before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of Title 11.
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to casescommenced under Title 11, Bankruptcy, before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of Title 11.
 
 #### Effective Date of 1980 Amendment
 

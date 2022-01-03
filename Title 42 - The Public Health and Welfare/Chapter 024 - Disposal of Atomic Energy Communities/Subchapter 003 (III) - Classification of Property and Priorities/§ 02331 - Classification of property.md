@@ -14,11 +14,15 @@ Prior to the date any residential property is first offered for sale at Los Alam
 
 (Aug. 4, 1955, ch. 543, ch. 4, §41, 69 Stat. 475; Pub. L. 87–719, §§7, 8, Sept. 28, 1962, 76 Stat. 664.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1962</b>—Subsec. (a). Pub. L. 87–719, §7, inserted ", or, in the case of Los Alamos, upon its inclusion within this chapter" after "chapter".
 
 Subsec. (c). Pub. L. 87–719, §8, added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

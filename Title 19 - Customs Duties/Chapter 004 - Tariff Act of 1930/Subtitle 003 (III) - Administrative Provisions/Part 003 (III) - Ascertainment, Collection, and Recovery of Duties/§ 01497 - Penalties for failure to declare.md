@@ -28,6 +28,8 @@
 
 (June 17, 1930, ch. 497, title IV, §497, 46 Stat. 728; Pub. L. 99–570, title III, §3116, Oct. 27, 1986, 100 Stat. 3207–83; Pub. L. 100–690, title VII, §7367(a), Nov. 18, 1988, 102 Stat. 4479; Pub. L. 103–182, title VI, §612, Dec. 8, 1993, 107 Stat. 2170.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §497, 42 Stat. 964. That section was superseded by section 497 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.

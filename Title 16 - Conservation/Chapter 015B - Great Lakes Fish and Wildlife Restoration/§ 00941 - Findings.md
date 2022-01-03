@@ -12,9 +12,13 @@ Congress finds that—
 
 (Pub. L. 101–537, title I, §1002, as added Pub. L. 114–322, title III, §3901(b), Dec. 16, 2016, 130 Stat. 1848.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 941, Pub. L. 101–537, title I, §1002, Nov. 8, 1990, 104 Stat. 2370; Pub. L. 101–646, title II, §2002, Nov. 29, 1990, 104 Stat. 4773; Pub. L. 104–332, §2(h)(1), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 105–265, §3(b), Oct. 19, 1998, 112 Stat. 2358, related to Congressional findings, prior to repeal by Pub. L. 114–322, title III, §3901(b), Dec. 16, 2016, 130 Stat. 1848.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2006 Amendment
 
@@ -56,5 +60,5 @@ Pub. L. 105–265, §2, Oct. 19, 1998, 112 Stat. 2358, provided that: "Congress 
 
 &emsp;&emsp;"(A) found that, although State, Provincial, Native American Tribal, and Federal agencies have made significant progress toward the goal of restoring a healthy fish community to the Great Lakes Basin, additional actions and better coordination are needed to protect and effectively manage the fisheries and related resources in the Great Lakes Basin; and
 
-&emsp;&emsp;"(B) recommended actions that are not currently funded but are considered essential to meet goalsand objectives in managing the resources of the Great Lakes Basin."
+&emsp;&emsp;"(B) recommended actions that are not currently funded but are considered essential to meet goals and objectives in managing the resources of the Great Lakes Basin."
 

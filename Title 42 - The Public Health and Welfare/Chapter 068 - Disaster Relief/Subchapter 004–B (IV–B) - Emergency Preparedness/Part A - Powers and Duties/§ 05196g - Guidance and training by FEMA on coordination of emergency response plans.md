@@ -16,9 +16,13 @@ The requirement of subsection (a) shall be implemented not later than 180 days a
 
 (Pub. L. 115–254, div. D, §1236, Oct. 5, 2018, 132 Stat. 3464.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Disaster Recovery Reform Act of 2018 and as part of the FAA Reauthorization Act of 2018, and not as part of the Robert T. Stafford Disaster Relief and Emergency Assistance Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

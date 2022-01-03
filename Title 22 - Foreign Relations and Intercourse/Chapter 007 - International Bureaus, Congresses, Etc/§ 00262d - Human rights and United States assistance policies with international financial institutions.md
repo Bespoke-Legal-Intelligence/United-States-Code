@@ -10,7 +10,7 @@ The United States Government, in connection with its voice and vote in the Inter
 
 #### (b) Policy considerations for Executive Directors of institutions in implementation of duties
 
-Further, the Secretary of the Treasury shall instruct each Executive Director of the above institutions to consider in carrying out his duties:
+Further, the Secretary of the Treasury shall instruct each Executive Director of the aboveinstitutions to consider in carrying out his duties:
 
 &emsp;(1) specific actions by either the executive branch or the Congress as a whole on individual bilateral assistance programs because of human rights considerations;
 
@@ -138,7 +138,7 @@ Briefings.—The Secretary of the Treasury shall make relevant officials availab
 
 #### Consultations for Adoption of Amendment to Articles of Agreement Respecting Human Rights Standards in Connection With Any Application for Assistance
 
-Pub. L. 95–118, title VII, §705, as added by Pub. L. 96–259, title V, §501(c), June 3, 1980, 94 Stat. 432, provided that: "The President shall direct the United States Governor of the International Bank for Reconstruction and Development, the United States Governor of the International Finance Corporation, the United States Governor of the International Development Association, the United States Governor of the Inter-American Development Bank, the United States Governor of the Asian Development Bank, and the United States Governor of the African Development Fund, to consult with the other Governors of those institutions concerning adoption of an amendment to the Articles of Agreement of their respective institutions to establish human rights standards to be considered in connection with each application for assistance."
+Pub. L. 95–118, title VII, §705, as added by Pub. L. 96–259, title V, §501(c), June 3, 1980, 94 Stat. 432, provided that: "The President shall direct the UnitedStates Governor of the International Bank for Reconstruction and Development, the United States Governor of the International Finance Corporation, the United States Governor of the International Development Association, the United States Governor of the Inter-American Development Bank, the United States Governor of the Asian Development Bank, and the United States Governor of the African Development Fund, to consult with the other Governors of those institutions concerning adoption of an amendment to the Articles of Agreement of their respective institutions to establish human rights standards to be considered in connection with each application for assistance."
 
 #### Amendment of Articles of Agreement of International Financial Institutions; Establishment of Human Rights Standards To Be Considered in Connection With Assistance Application
 

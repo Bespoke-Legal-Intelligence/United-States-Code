@@ -6,7 +6,7 @@
 
 (c) No individuals may be enlisted or designated as an aviation cadet unless—
 
-&emsp;(1) the individual agrees in writing that, upon successful completion of the course of training as an aviation cadet, the individual will accept a commission as an ensign in the Coast Guard Reserve and will serve on active duty as such for at least three years, unless sooner released; and
+&emsp;(1) the individual agrees in writing that, upon successful completion of the course oftraining as an aviation cadet, the individual will accept a commission as an ensign in the Coast Guard Reserve and will serve on active duty as such for at least three years, unless sooner released; and
 
 &emsp;(2) if under twenty-one years of age, the individual has the consent of the individual's parent or guardian to the agreement.
 

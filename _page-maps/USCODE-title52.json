@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title52",
- "package": "USCODE-2020-title52",
+ "package": "USCODE-2021-title52",
  "pieces": [
   {
    "id": "52_",
@@ -516,11 +516,28 @@
   },
   {
    "id": "52_-Subtitle_II",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     22,
+     [
+      [
+       107,
+       "[Page 25]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     74,
+     "[Page 26]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/README.md",
    "printed_pages": [
     24,
-    24
+    26
    ]
   },
   {
@@ -528,8 +545,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 201 - Voting Accessibility for the Elderly and Handicapped/README.md",
    "printed_pages": [
-    24,
-    24
+    26,
+    26
    ]
   },
   {
@@ -537,28 +554,24 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 201 - Voting Accessibility for the Elderly and Handicapped/§ 20101 - Congressional declaration of purpose.md",
    "printed_pages": [
-    24,
-    24
+    26,
+    26
    ]
   },
   {
    "id": "52_20102",
    "marks": [
     [
-     "I",
-     24,
-     [
-      [
-       93,
-       "[Page 25]"
-      ]
-     ]
+     "L",
+     6,
+     "[Page 27]",
+     true
     ]
    ],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 201 - Voting Accessibility for the Elderly and Handicapped/§ 20102 - Selection of polling facilities.md",
    "printed_pages": [
-    24,
-    25
+    26,
+    27
    ]
   },
   {
@@ -566,8 +579,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 201 - Voting Accessibility for the Elderly and Handicapped/§ 20103 - Selection of registration facilities.md",
    "printed_pages": [
-    25,
-    25
+    27,
+    27
    ]
   },
   {
@@ -575,37 +588,37 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 201 - Voting Accessibility for the Elderly and Handicapped/§ 20104 - Registration and voting aids.md",
    "printed_pages": [
-    25,
-    25
+    27,
+    27
    ]
   },
   {
    "id": "52_20105",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 201 - Voting Accessibility for the Elderly and Handicapped/§ 20105 - Enforcement.md",
-   "printed_pages": [
-    25,
-    25
-   ]
-  },
-  {
-   "id": "52_20106",
    "marks": [
     [
      "I",
-     2,
+     12,
      [
       [
-       91,
-       "[Page 26]"
+       89,
+       "[Page 28]"
       ]
      ]
     ]
    ],
+   "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 201 - Voting Accessibility for the Elderly and Handicapped/§ 20105 - Enforcement.md",
+   "printed_pages": [
+    27,
+    28
+   ]
+  },
+  {
+   "id": "52_20106",
+   "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 201 - Voting Accessibility for the Elderly and Handicapped/§ 20106 - Relationship to Voting Rights Act of 1965.md",
    "printed_pages": [
-    25,
-    26
+    28,
+    28
    ]
   },
   {
@@ -613,8 +626,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 201 - Voting Accessibility for the Elderly and Handicapped/§ 20107 - Definitions.md",
    "printed_pages": [
-    26,
-    26
+    28,
+    28
    ]
   },
   {
@@ -622,43 +635,50 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 203 - Registration and Voting by Absent Uniformed Services Voters and Overseas Voters in Elections for Federal Office/README.md",
    "printed_pages": [
-    26,
-    26
+    28,
+    28
    ]
   },
   {
    "id": "52_20301",
    "marks": [
     [
-     "L",
-     26,
-     "[Page 27]",
-     true
-    ],
-    [
      "I",
-     112,
+     18,
      [
       [
-       109,
-       "[Page 28]"
+       92,
+       "[Page 29]"
       ]
      ]
+    ],
+    [
+     "L",
+     102,
+     "[Page 30]",
+     true
     ]
    ],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 203 - Registration and Voting by Absent Uniformed Services Voters and Overseas Voters in Elections for Federal Office/§ 20301 - Federal responsibilities.md",
    "printed_pages": [
-    26,
-    28
+    28,
+    30
    ]
   },
   {
    "id": "52_20301a",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     22,
+     "[Page 31]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 203 - Registration and Voting by Absent Uniformed Services Voters and Overseas Voters in Elections for Federal Office/§ 20301a - Duties of Secretary under Uniformed and Overseas Citizens Absentee Voting Act.md",
    "printed_pages": [
-    28,
-    28
+    30,
+    31
    ]
   },
   {
@@ -666,45 +686,39 @@
    "marks": [
     [
      "I",
-     12,
+     54,
      [
       [
-       100,
-       "[Page 29]"
+       511,
+       "[Page 32]"
       ]
      ]
     ],
     [
-     "L",
-     66,
-     "[Page 30]",
-     true
-    ],
-    [
      "I",
-     130,
+     120,
      [
       [
        139,
-       "[Page 31]"
+       "[Page 33]"
       ]
      ]
     ],
     [
      "I",
-     198,
+     184,
      [
       [
-       117,
-       "[Page 32]"
+       97,
+       "[Page 34]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 203 - Registration and Voting by Absent Uniformed Services Voters and Overseas Voters in Elections for Federal Office/§ 20302 - State responsibilities.md",
    "printed_pages": [
-    28,
-    32
+    31,
+    34
    ]
   },
   {
@@ -712,21 +726,21 @@
    "marks": [
     [
      "L",
-     22,
-     "[Page 33]",
+     8,
+     "[Page 35]",
      true
     ],
     [
      "L",
-     104,
-     "[Page 34]",
+     80,
+     "[Page 36]",
      true
     ]
    ],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 203 - Registration and Voting by Absent Uniformed Services Voters and Overseas Voters in Elections for Federal Office/§ 20303 - Federal write-in absentee ballot in general elections for Federal office for absent uniformed services voters and overseas voters.md",
    "printed_pages": [
-    32,
-    34
+    34,
+    36
    ]
   },
   {
@@ -734,15 +748,15 @@
    "marks": [
     [
      "L",
-     42,
-     "[Page 35]",
+     26,
+     "[Page 37]",
      true
     ]
    ],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 203 - Registration and Voting by Absent Uniformed Services Voters and Overseas Voters in Elections for Federal Office/§ 20304 - Procedures for collection and delivery of marked absentee ballots of absent overseas uniformed services voters.md",
    "printed_pages": [
-    34,
-    35
+    36,
+    37
    ]
   },
   {
@@ -750,24 +764,28 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 203 - Registration and Voting by Absent Uniformed Services Voters and Overseas Voters in Elections for Federal Office/§ 20305 - Federal Voting Assistance Program Improvements.md",
    "printed_pages": [
-    35,
-    35
+    37,
+    37
    ]
   },
   {
    "id": "52_20306",
    "marks": [
     [
-     "L",
-     28,
-     "[Page 36]",
-     true
+     "I",
+     14,
+     [
+      [
+       110,
+       "[Page 38]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 203 - Registration and Voting by Absent Uniformed Services Voters and Overseas Voters in Elections for Federal Office/§ 20306 - Prohibition of refusal of applications on grounds of early submission.md",
    "printed_pages": [
-    35,
-    36
+    37,
+    38
    ]
   },
   {
@@ -775,8 +793,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 203 - Registration and Voting by Absent Uniformed Services Voters and Overseas Voters in Elections for Federal Office/§ 20307 - Enforcement.md",
    "printed_pages": [
-    36,
-    36
+    38,
+    38
    ]
   },
   {
@@ -784,15 +802,15 @@
    "marks": [
     [
      "L",
-     60,
-     "[Page 37]",
+     32,
+     "[Page 39]",
      true
     ]
    ],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 203 - Registration and Voting by Absent Uniformed Services Voters and Overseas Voters in Elections for Federal Office/§ 20308 - Reporting requirements.md",
    "printed_pages": [
-    36,
-    37
+    38,
+    39
    ]
   },
   {
@@ -800,17 +818,24 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 203 - Registration and Voting by Absent Uniformed Services Voters and Overseas Voters in Elections for Federal Office/§ 20309 - Effect on certain other laws.md",
    "printed_pages": [
-    37,
-    37
+    39,
+    39
    ]
   },
   {
    "id": "52_20310",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     32,
+     "[Page 40]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 203 - Registration and Voting by Absent Uniformed Services Voters and Overseas Voters in Elections for Federal Office/§ 20310 - Definitions.md",
    "printed_pages": [
-    37,
-    37
+    39,
+    40
    ]
   },
   {
@@ -818,25 +843,15 @@
    "marks": [
     [
      "L",
-     6,
-     "[Page 38]",
+     78,
+     "[Page 41]",
      true
-    ],
-    [
-     "I",
-     98,
-     [
-      [
-       208,
-       "[Page 39]"
-      ]
-     ]
     ]
    ],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 203 - Registration and Voting by Absent Uniformed Services Voters and Overseas Voters in Elections for Federal Office/§ 20311 - Technology pilot program.md",
    "printed_pages": [
-    37,
-    39
+    40,
+    41
    ]
   },
   {
@@ -844,17 +859,28 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 205 - National Voter Registration/README.md",
    "printed_pages": [
-    39,
-    39
+    41,
+    41
    ]
   },
   {
    "id": "52_20501",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     54,
+     [
+      [
+       104,
+       "[Page 42]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 205 - National Voter Registration/§ 20501 - Findings and purposes.md",
    "printed_pages": [
-    39,
-    39
+    41,
+    42
    ]
   },
   {
@@ -862,44 +888,37 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 205 - National Voter Registration/§ 20502 - Definitions.md",
    "printed_pages": [
-    39,
-    39
+    42,
+    42
    ]
   },
   {
    "id": "52_20503",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       91,
-       "[Page 40]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 205 - National Voter Registration/§ 20503 - National procedures for voter registration for elections for Federal office.md",
    "printed_pages": [
-    39,
-    40
+    42,
+    42
    ]
   },
   {
    "id": "52_20504",
    "marks": [
     [
-     "L",
-     42,
-     "[Page 41]",
-     true
+     "I",
+     18,
+     [
+      [
+       94,
+       "[Page 43]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 205 - National Voter Registration/§ 20504 - Simultaneous application for voter registration and application for motor vehicle driver's license.md",
    "printed_pages": [
-    40,
-    41
+    42,
+    43
    ]
   },
   {
@@ -907,8 +926,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 205 - National Voter Registration/§ 20505 - Mail registration.md",
    "printed_pages": [
-    41,
-    41
+    43,
+    43
    ]
   },
   {
@@ -916,25 +935,25 @@
    "marks": [
     [
      "L",
-     28,
-     "[Page 42]",
+     6,
+     "[Page 44]",
      true
     ],
     [
      "I",
-     102,
+     78,
      [
       [
-       99,
-       "[Page 43]"
+       90,
+       "[Page 45]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 205 - National Voter Registration/§ 20506 - Voter registration agencies.md",
    "printed_pages": [
-    41,
-    43
+    43,
+    45
    ]
   },
   {
@@ -942,41 +961,44 @@
    "marks": [
     [
      "L",
-     56,
-     "[Page 44]",
+     44,
+     "[Page 46]",
      true
     ],
     [
      "I",
-     104,
+     98,
      [
       [
-       283,
-       "[Page 45]"
+       187,
+       "[Page 47]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     168,
+     [
+      [
+       112,
+       "[Page 48]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 205 - National Voter Registration/§ 20507 - Requirements with respect to administration of voter registration.md",
    "printed_pages": [
-    43,
-    45
+    45,
+    48
    ]
   },
   {
    "id": "52_20508",
-   "marks": [
-    [
-     "L",
-     12,
-     "[Page 46]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 205 - National Voter Registration/§ 20508 - Federal coordination and regulations.md",
    "printed_pages": [
-    45,
-    46
+    48,
+    48
    ]
   },
   {
@@ -984,33 +1006,37 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 205 - National Voter Registration/§ 20509 - Designation of chief State election official.md",
    "printed_pages": [
-    46,
-    46
+    48,
+    48
    ]
   },
   {
    "id": "52_20510",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     20,
+     [
+      [
+       95,
+       "[Page 49]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 205 - National Voter Registration/§ 20510 - Civil enforcement and private right of action.md",
    "printed_pages": [
-    46,
-    46
+    48,
+    49
    ]
   },
   {
    "id": "52_20511",
-   "marks": [
-    [
-     "L",
-     4,
-     "[Page 47]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 205 - National Voter Registration/§ 20511 - Criminal penalties.md",
    "printed_pages": [
-    46,
-    47
+    49,
+    49
    ]
   },
   {
@@ -1018,8 +1044,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 207 - Federal Election Records/README.md",
    "printed_pages": [
-    47,
-    47
+    49,
+    49
    ]
   },
   {
@@ -1027,17 +1053,24 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 207 - Federal Election Records/§ 20701 - Retention and preservation of records and papers by officers of elections; deposit with custodian; penalty for violation.md",
    "printed_pages": [
-    47,
-    47
+    49,
+    49
    ]
   },
   {
    "id": "52_20702",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     12,
+     "[Page 50]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 207 - Federal Election Records/§ 20702 - Theft, destruction, concealment, mutilation, or alteration of records or papers; penalties.md",
    "printed_pages": [
-    47,
-    47
+    49,
+    50
    ]
   },
   {
@@ -1045,28 +1078,17 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 207 - Federal Election Records/§ 20703 - Demand for records or papers by Attorney General or representative; statement of basis and purpose.md",
    "printed_pages": [
-    47,
-    47
+    50,
+    50
    ]
   },
   {
    "id": "52_20704",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       137,
-       "[Page 48]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 207 - Federal Election Records/§ 20704 - Disclosure of records or papers.md",
    "printed_pages": [
-    47,
-    48
+    50,
+    50
    ]
   },
   {
@@ -1074,8 +1096,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 207 - Federal Election Records/§ 20705 - Jurisdiction to compel production of records or papers.md",
    "printed_pages": [
-    48,
-    48
+    50,
+    50
    ]
   },
   {
@@ -1083,8 +1105,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 207 - Federal Election Records/§ 20706 - Officer of election defined.md",
    "printed_pages": [
-    48,
-    48
+    50,
+    50
    ]
   },
   {
@@ -1092,19 +1114,19 @@
    "marks": [
     [
      "I",
-     101,
+     70,
      [
       [
-       112,
-       "[Page 49]"
+       63,
+       "[Page 51]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/README.md",
    "printed_pages": [
-    48,
-    49
+    50,
+    51
    ]
   },
   {
@@ -1112,8 +1134,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 001 (I) - Payments to States for Election Administration Improvements and Replacement of Punch Card and Lever Voting Machines/README.md",
    "printed_pages": [
-    49,
-    49
+    51,
+    51
    ]
   },
   {
@@ -1121,15 +1143,15 @@
    "marks": [
     [
      "L",
-     40,
-     "[Page 50]",
+     24,
+     "[Page 52]",
      true
     ]
    ],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 001 (I) - Payments to States for Election Administration Improvements and Replacement of Punch Card and Lever Voting Machines/§ 20901 - Payments to States for activities to improve administration of elections.md",
    "printed_pages": [
-    49,
-    50
+    51,
+    52
    ]
   },
   {
@@ -1137,35 +1159,38 @@
    "marks": [
     [
      "I",
-     34,
+     22,
      [
       [
-       179,
-       "[Page 51]"
+       93,
+       "[Page 53]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     114,
+     [
+      [
+       164,
+       "[Page 54]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 001 (I) - Payments to States for Election Administration Improvements and Replacement of Punch Card and Lever Voting Machines/§ 20902 - Replacement of punch card or lever voting machines.md",
    "printed_pages": [
-    50,
-    51
+    52,
+    54
    ]
   },
   {
    "id": "52_20903",
-   "marks": [
-    [
-     "L",
-     18,
-     "[Page 52]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 001 (I) - Payments to States for Election Administration Improvements and Replacement of Punch Card and Lever Voting Machines/§ 20903 - Guaranteed minimum payment amount.md",
    "printed_pages": [
-    51,
-    52
+    54,
+    54
    ]
   },
   {
@@ -1173,8 +1198,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 001 (I) - Payments to States for Election Administration Improvements and Replacement of Punch Card and Lever Voting Machines/§ 20904 - Authorization of appropriations.md",
    "printed_pages": [
-    52,
-    52
+    54,
+    54
    ]
   },
   {
@@ -1182,8 +1207,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 001 (I) - Payments to States for Election Administration Improvements and Replacement of Punch Card and Lever Voting Machines/§ 20905 - Administration of programs.md",
    "printed_pages": [
-    52,
-    52
+    54,
+    54
    ]
   },
   {
@@ -1191,8 +1216,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 001 (I) - Payments to States for Election Administration Improvements and Replacement of Punch Card and Lever Voting Machines/§ 20906 - Effective date.md",
    "printed_pages": [
-    52,
-    52
+    54,
+    54
    ]
   },
   {
@@ -1200,8 +1225,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/README.md",
    "printed_pages": [
-    52,
-    52
+    54,
+    54
    ]
   },
   {
@@ -1209,8 +1234,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part A - Establishment and General Organization/README.md",
    "printed_pages": [
-    52,
-    52
+    54,
+    54
    ]
   },
   {
@@ -1218,82 +1243,82 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part A - Establishment and General Organization/Subpart 001 - Election Assistance Commission/README.md",
    "printed_pages": [
-    52,
-    52
+    54,
+    54
    ]
   },
   {
    "id": "52_20921",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part A - Establishment and General Organization/Subpart 001 - Election Assistance Commission/§ 20921 - Establishment.md",
-   "printed_pages": [
-    52,
-    52
-   ]
-  },
-  {
-   "id": "52_20922",
    "marks": [
     [
      "I",
-     6,
+     2,
      [
       [
-       98,
-       "[Page 53]"
+       227,
+       "[Page 55]"
       ]
      ]
     ]
    ],
+   "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part A - Establishment and General Organization/Subpart 001 - Election Assistance Commission/§ 20921 - Establishment.md",
+   "printed_pages": [
+    54,
+    55
+   ]
+  },
+  {
+   "id": "52_20922",
+   "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part A - Establishment and General Organization/Subpart 001 - Election Assistance Commission/§ 20922 - Duties.md",
    "printed_pages": [
-    52,
-    53
+    55,
+    55
    ]
   },
   {
    "id": "52_20923",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     56,
+     [
+      [
+       91,
+       "[Page 56]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part A - Establishment and General Organization/Subpart 001 - Election Assistance Commission/§ 20923 - Membership and appointment.md",
    "printed_pages": [
-    53,
-    53
+    55,
+    56
    ]
   },
   {
    "id": "52_20924",
    "marks": [
     [
-     "I",
-     6,
-     [
-      [
-       92,
-       "[Page 54]"
-      ]
-     ]
+     "L",
+     60,
+     "[Page 57]",
+     true
     ]
    ],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part A - Establishment and General Organization/Subpart 001 - Election Assistance Commission/§ 20924 - Staff.md",
    "printed_pages": [
-    53,
-    54
+    56,
+    57
    ]
   },
   {
    "id": "52_20925",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 55]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part A - Establishment and General Organization/Subpart 001 - Election Assistance Commission/§ 20925 - Powers.md",
    "printed_pages": [
-    54,
-    55
+    57,
+    57
    ]
   },
   {
@@ -1301,33 +1326,33 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part A - Establishment and General Organization/Subpart 001 - Election Assistance Commission/§ 20926 - Dissemination of information.md",
    "printed_pages": [
-    55,
-    55
+    57,
+    57
    ]
   },
   {
    "id": "52_20927",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     14,
+     "[Page 58]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part A - Establishment and General Organization/Subpart 001 - Election Assistance Commission/§ 20927 - Annual report.md",
    "printed_pages": [
-    55,
-    55
+    57,
+    58
    ]
   },
   {
    "id": "52_20928",
-   "marks": [
-    [
-     "L",
-     16,
-     "[Page 56]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part A - Establishment and General Organization/Subpart 001 - Election Assistance Commission/§ 20928 - Requiring majority approval for actions.md",
    "printed_pages": [
-    55,
-    56
+    58,
+    58
    ]
   },
   {
@@ -1335,8 +1360,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part A - Establishment and General Organization/Subpart 001 - Election Assistance Commission/§ 20929 - Limitation on rulemaking authority.md",
    "printed_pages": [
-    56,
-    56
+    58,
+    58
    ]
   },
   {
@@ -1344,8 +1369,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part A - Establishment and General Organization/Subpart 001 - Election Assistance Commission/§ 20930 - Authorization of appropriations.md",
    "printed_pages": [
-    56,
-    56
+    58,
+    58
    ]
   },
   {
@@ -1353,8 +1378,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part A - Establishment and General Organization/Subpart 002 - Election Assistance Commission Standards Board and Board of Advisors/README.md",
    "printed_pages": [
-    56,
-    56
+    58,
+    58
    ]
   },
   {
@@ -1362,8 +1387,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part A - Establishment and General Organization/Subpart 002 - Election Assistance Commission Standards Board and Board of Advisors/§ 20941 - Establishment.md",
    "printed_pages": [
-    56,
-    56
+    58,
+    58
    ]
   },
   {
@@ -1371,8 +1396,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part A - Establishment and General Organization/Subpart 002 - Election Assistance Commission Standards Board and Board of Advisors/§ 20942 - Duties.md",
    "printed_pages": [
-    56,
-    56
+    58,
+    58
    ]
   },
   {
@@ -1380,48 +1405,55 @@
    "marks": [
     [
      "I",
-     32,
+     14,
      [
       [
-       138,
-       "[Page 57]"
+       145,
+       "[Page 59]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part A - Establishment and General Organization/Subpart 002 - Election Assistance Commission Standards Board and Board of Advisors/§ 20943 - Membership of Standards Board.md",
    "printed_pages": [
-    56,
-    57
+    58,
+    59
    ]
   },
   {
    "id": "52_20944",
    "marks": [
     [
-     "I",
-     52,
-     [
-      [
-       91,
-       "[Page 58]"
-      ]
-     ]
+     "L",
+     28,
+     "[Page 60]",
+     true
     ]
    ],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part A - Establishment and General Organization/Subpart 002 - Election Assistance Commission Standards Board and Board of Advisors/§ 20944 - Membership of Board of Advisors.md",
    "printed_pages": [
-    57,
-    58
+    59,
+    60
    ]
   },
   {
    "id": "52_20945",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     40,
+     [
+      [
+       225,
+       "[Page 61]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part A - Establishment and General Organization/Subpart 002 - Election Assistance Commission Standards Board and Board of Advisors/§ 20945 - Powers of Boards; no compensation for service.md",
    "printed_pages": [
-    58,
-    58
+    60,
+    61
    ]
   },
   {
@@ -1429,8 +1461,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part A - Establishment and General Organization/Subpart 002 - Election Assistance Commission Standards Board and Board of Advisors/§ 20946 - Status of Boards and members for purposes of claims against Board.md",
    "printed_pages": [
-    58,
-    58
+    61,
+    61
    ]
   },
   {
@@ -1438,8 +1470,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part A - Establishment and General Organization/Subpart 003 - Technical Guidelines Development Committee/README.md",
    "printed_pages": [
-    58,
-    58
+    61,
+    61
    ]
   },
   {
@@ -1447,35 +1479,28 @@
    "marks": [
     [
      "I",
-     4,
+     68,
      [
       [
-       85,
-       "[Page 59]"
+       97,
+       "[Page 62]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part A - Establishment and General Organization/Subpart 003 - Technical Guidelines Development Committee/§ 20961 - Technical Guidelines Development Committee.md",
    "printed_pages": [
-    58,
-    59
+    61,
+    62
    ]
   },
   {
    "id": "52_20962",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 60]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part A - Establishment and General Organization/Subpart 003 - Technical Guidelines Development Committee/§ 20962 - Process for adoption.md",
    "printed_pages": [
-    59,
-    60
+    62,
+    62
    ]
   },
   {
@@ -1483,8 +1508,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part B - Testing, Certification, Decertification, and Recertification of Voting System Hardware and Software/README.md",
    "printed_pages": [
-    60,
-    60
+    62,
+    62
    ]
   },
   {
@@ -1492,15 +1517,15 @@
    "marks": [
     [
      "L",
-     28,
-     "[Page 61]",
+     8,
+     "[Page 63]",
      true
     ]
    ],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part B - Testing, Certification, Decertification, and Recertification of Voting System Hardware and Software/§ 20971 - Certification and testing of voting systems.md",
    "printed_pages": [
-    60,
-    61
+    62,
+    63
    ]
   },
   {
@@ -1508,8 +1533,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part C - Studies and Other Activities to Promote Effective Administration of Federal Elections/README.md",
    "printed_pages": [
-    61,
-    61
+    63,
+    63
    ]
   },
   {
@@ -1517,15 +1542,15 @@
    "marks": [
     [
      "L",
-     52,
-     "[Page 62]",
+     28,
+     "[Page 64]",
      true
     ]
    ],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part C - Studies and Other Activities to Promote Effective Administration of Federal Elections/§ 20981 - Periodic studies of election administration issues.md",
    "printed_pages": [
-    61,
-    62
+    63,
+    64
    ]
   },
   {
@@ -1533,15 +1558,15 @@
    "marks": [
     [
      "L",
-     40,
-     "[Page 63]",
+     22,
+     "[Page 65]",
      true
     ]
    ],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part C - Studies and Other Activities to Promote Effective Administration of Federal Elections/§ 20982 - Study, report, and recommendations on best practices for facilitating military and overseas voting.md",
    "printed_pages": [
-    62,
-    63
+    64,
+    65
    ]
   },
   {
@@ -1549,53 +1574,53 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part C - Studies and Other Activities to Promote Effective Administration of Federal Elections/§ 20983 - Report on human factor research.md",
    "printed_pages": [
-    63,
-    63
+    65,
+    65
    ]
   },
   {
    "id": "52_20984",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     36,
+     "[Page 66]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part C - Studies and Other Activities to Promote Effective Administration of Federal Elections/§ 20984 - Study and report on voters who register by mail and use of Social Security information.md",
    "printed_pages": [
-    63,
-    63
+    65,
+    66
    ]
   },
   {
    "id": "52_20985",
-   "marks": [
-    [
-     "I",
-     16,
-     [
-      [
-       134,
-       "[Page 64]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part C - Studies and Other Activities to Promote Effective Administration of Federal Elections/§ 20985 - Study and report on electronic voting and the electoral process.md",
    "printed_pages": [
-    63,
-    64
+    66,
+    66
    ]
   },
   {
    "id": "52_20986",
    "marks": [
     [
-     "L",
-     40,
-     "[Page 65]",
-     true
+     "I",
+     16,
+     [
+      [
+       225,
+       "[Page 67]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part C - Studies and Other Activities to Promote Effective Administration of Federal Elections/§ 20986 - Study and report on free absentee ballot postage.md",
    "printed_pages": [
-    64,
-    65
+    66,
+    67
    ]
   },
   {
@@ -1603,8 +1628,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part C - Studies and Other Activities to Promote Effective Administration of Federal Elections/§ 20987 - Consultation with Standards Board and Board of Advisors.md",
    "printed_pages": [
-    65,
-    65
+    67,
+    67
    ]
   },
   {
@@ -1612,8 +1637,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part D - Election Assistance/README.md",
    "printed_pages": [
-    65,
-    65
+    67,
+    67
    ]
   },
   {
@@ -1621,8 +1646,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part D - Election Assistance/Subpart 001 - Requirements Payments/README.md",
    "printed_pages": [
-    65,
-    65
+    67,
+    67
    ]
   },
   {
@@ -1630,15 +1655,15 @@
    "marks": [
     [
      "L",
-     66,
-     "[Page 66]",
+     46,
+     "[Page 68]",
      true
     ]
    ],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part D - Election Assistance/Subpart 001 - Requirements Payments/§ 21001 - Requirements payments.md",
    "printed_pages": [
-    65,
-    66
+    67,
+    68
    ]
   },
   {
@@ -1646,8 +1671,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part D - Election Assistance/Subpart 001 - Requirements Payments/§ 21002 - Allocation of funds.md",
    "printed_pages": [
-    66,
-    66
+    68,
+    68
    ]
   },
   {
@@ -1655,41 +1680,45 @@
    "marks": [
     [
      "I",
-     30,
+     18,
      [
       [
-       188,
-       "[Page 67]"
+       271,
+       "[Page 69]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part D - Election Assistance/Subpart 001 - Requirements Payments/§ 21003 - Condition for receipt of funds.md",
    "printed_pages": [
-    66,
-    67
+    68,
+    69
    ]
   },
   {
    "id": "52_21004",
    "marks": [
     [
-     "L",
-     24,
-     "[Page 68]",
-     true
+     "I",
+     8,
+     [
+      [
+       184,
+       "[Page 70]"
+      ]
+     ]
     ],
     [
      "L",
-     98,
-     "[Page 69]",
+     78,
+     "[Page 71]",
      true
     ]
    ],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part D - Election Assistance/Subpart 001 - Requirements Payments/§ 21004 - State plan.md",
    "printed_pages": [
-    67,
-    69
+    69,
+    71
    ]
   },
   {
@@ -1697,8 +1726,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part D - Election Assistance/Subpart 001 - Requirements Payments/§ 21005 - Process for development and filing of plan; publication by Commission.md",
    "printed_pages": [
-    69,
-    69
+    71,
+    71
    ]
   },
   {
@@ -1706,8 +1735,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part D - Election Assistance/Subpart 001 - Requirements Payments/§ 21006 - Requirement for public notice and comment.md",
    "printed_pages": [
-    69,
-    69
+    71,
+    71
    ]
   },
   {
@@ -1715,24 +1744,28 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part D - Election Assistance/Subpart 001 - Requirements Payments/§ 21007 - Authorization of appropriations.md",
    "printed_pages": [
-    69,
-    69
+    71,
+    71
    ]
   },
   {
    "id": "52_21008",
    "marks": [
     [
-     "L",
-     22,
-     "[Page 70]",
-     true
+     "I",
+     2,
+     [
+      [
+       94,
+       "[Page 72]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part D - Election Assistance/Subpart 001 - Requirements Payments/§ 21008 - Reports.md",
    "printed_pages": [
-    69,
-    70
+    71,
+    72
    ]
   },
   {
@@ -1740,8 +1773,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part D - Election Assistance/Subpart 002 - Payments to States and Units of Local Government to Assure Access for Individuals with Disabilities/README.md",
    "printed_pages": [
-    70,
-    70
+    72,
+    72
    ]
   },
   {
@@ -1749,8 +1782,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part D - Election Assistance/Subpart 002 - Payments to States and Units of Local Government to Assure Access for Individuals with Disabilities/§ 21021 - Payments to States and units of local government to assure access for individuals with disabilities.md",
    "printed_pages": [
-    70,
-    70
+    72,
+    72
    ]
   },
   {
@@ -1758,33 +1791,37 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part D - Election Assistance/Subpart 002 - Payments to States and Units of Local Government to Assure Access for Individuals with Disabilities/§ 21022 - Amount of payment.md",
    "printed_pages": [
-    70,
-    70
+    72,
+    72
    ]
   },
   {
    "id": "52_21023",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     30,
+     [
+      [
+       110,
+       "[Page 73]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part D - Election Assistance/Subpart 002 - Payments to States and Units of Local Government to Assure Access for Individuals with Disabilities/§ 21023 - Requirements for eligibility.md",
    "printed_pages": [
-    70,
-    70
+    72,
+    73
    ]
   },
   {
    "id": "52_21024",
-   "marks": [
-    [
-     "L",
-     18,
-     "[Page 71]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part D - Election Assistance/Subpart 002 - Payments to States and Units of Local Government to Assure Access for Individuals with Disabilities/§ 21024 - Authorization of appropriations.md",
    "printed_pages": [
-    70,
-    71
+    73,
+    73
    ]
   },
   {
@@ -1792,8 +1829,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part D - Election Assistance/Subpart 002 - Payments to States and Units of Local Government to Assure Access for Individuals with Disabilities/§ 21025 - Reports.md",
    "printed_pages": [
-    71,
-    71
+    73,
+    73
    ]
   },
   {
@@ -1801,8 +1838,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part D - Election Assistance/Subpart 003 - Grants for Research on Voting Technology Improvements/README.md",
    "printed_pages": [
-    71,
-    71
+    73,
+    73
    ]
   },
   {
@@ -1810,19 +1847,19 @@
    "marks": [
     [
      "I",
-     52,
+     36,
      [
       [
-       114,
-       "[Page 72]"
+       178,
+       "[Page 74]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part D - Election Assistance/Subpart 003 - Grants for Research on Voting Technology Improvements/§ 21041 - Grants for research on voting technology improvements.md",
    "printed_pages": [
-    71,
-    72
+    73,
+    74
    ]
   },
   {
@@ -1830,8 +1867,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part D - Election Assistance/Subpart 003 - Grants for Research on Voting Technology Improvements/§ 21042 - Report.md",
    "printed_pages": [
-    72,
-    72
+    74,
+    74
    ]
   },
   {
@@ -1839,8 +1876,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part D - Election Assistance/Subpart 003 - Grants for Research on Voting Technology Improvements/§ 21043 - Authorization of appropriations.md",
    "printed_pages": [
-    72,
-    72
+    74,
+    74
    ]
   },
   {
@@ -1848,8 +1885,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part D - Election Assistance/Subpart 004 - Pilot Program for Testing of Equipment and Technology/README.md",
    "printed_pages": [
-    72,
-    72
+    74,
+    74
    ]
   },
   {
@@ -1857,15 +1894,15 @@
    "marks": [
     [
      "L",
-     42,
-     "[Page 73]",
+     28,
+     "[Page 75]",
      true
     ]
    ],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part D - Election Assistance/Subpart 004 - Pilot Program for Testing of Equipment and Technology/§ 21051 - Pilot program.md",
    "printed_pages": [
-    72,
-    73
+    74,
+    75
    ]
   },
   {
@@ -1873,8 +1910,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part D - Election Assistance/Subpart 004 - Pilot Program for Testing of Equipment and Technology/§ 21052 - Report.md",
    "printed_pages": [
-    73,
-    73
+    75,
+    75
    ]
   },
   {
@@ -1882,8 +1919,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part D - Election Assistance/Subpart 004 - Pilot Program for Testing of Equipment and Technology/§ 21053 - Authorization of appropriations.md",
    "printed_pages": [
-    73,
-    73
+    75,
+    75
    ]
   },
   {
@@ -1891,8 +1928,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part D - Election Assistance/Subpart 005 - Protection and Advocacy Systems/README.md",
    "printed_pages": [
-    73,
-    73
+    75,
+    75
    ]
   },
   {
@@ -1900,19 +1937,19 @@
    "marks": [
     [
      "I",
-     36,
+     18,
      [
       [
-       112,
-       "[Page 74]"
+       221,
+       "[Page 76]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part D - Election Assistance/Subpart 005 - Protection and Advocacy Systems/§ 21061 - Payments for protection and advocacy systems.md",
    "printed_pages": [
-    73,
-    74
+    75,
+    76
    ]
   },
   {
@@ -1920,8 +1957,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part D - Election Assistance/Subpart 005 - Protection and Advocacy Systems/§ 21062 - Authorization of appropriations.md",
    "printed_pages": [
-    74,
-    74
+    76,
+    76
    ]
   },
   {
@@ -1929,8 +1966,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part D - Election Assistance/Subpart 006 - National Student and Parent Mock Election/README.md",
    "printed_pages": [
-    74,
-    74
+    76,
+    76
    ]
   },
   {
@@ -1938,17 +1975,24 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part D - Election Assistance/Subpart 006 - National Student and Parent Mock Election/§ 21071 - National Student and Parent Mock Election.md",
    "printed_pages": [
-    74,
-    74
+    76,
+    76
    ]
   },
   {
    "id": "52_21072",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 77]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 002 (II) - Commission/Part D - Election Assistance/Subpart 006 - National Student and Parent Mock Election/§ 21072 - Authorization of appropriations.md",
    "printed_pages": [
-    74,
-    74
+    76,
+    77
    ]
   },
   {
@@ -1956,8 +2000,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 003 (III) - Uniform and Nondiscriminatory Election Technology and Administration Requirements/README.md",
    "printed_pages": [
-    74,
-    74
+    77,
+    77
    ]
   },
   {
@@ -1965,8 +2009,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 003 (III) - Uniform and Nondiscriminatory Election Technology and Administration Requirements/Part A - Requirements/README.md",
    "printed_pages": [
-    74,
-    74
+    77,
+    77
    ]
   },
   {
@@ -1974,21 +2018,15 @@
    "marks": [
     [
      "L",
-     12,
-     "[Page 75]",
-     true
-    ],
-    [
-     "L",
-     98,
-     "[Page 76]",
+     74,
+     "[Page 78]",
      true
     ]
    ],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 003 (III) - Uniform and Nondiscriminatory Election Technology and Administration Requirements/Part A - Requirements/§ 21081 - Voting systems standards.md",
    "printed_pages": [
-    74,
-    76
+    77,
+    78
    ]
   },
   {
@@ -1996,51 +2034,43 @@
    "marks": [
     [
      "L",
-     56,
-     "[Page 77]",
+     42,
+     "[Page 79]",
      true
     ]
    ],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 003 (III) - Uniform and Nondiscriminatory Election Technology and Administration Requirements/Part A - Requirements/§ 21082 - Provisional voting and voting information requirements.md",
    "printed_pages": [
-    76,
-    77
+    78,
+    79
    ]
   },
   {
    "id": "52_21083",
    "marks": [
     [
-     "I",
-     64,
-     [
-      [
-       318,
-       "[Page 78]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     142,
-     [
-      [
-       93,
-       "[Page 79]"
-      ]
-     ]
+     "L",
+     46,
+     "[Page 80]",
+     true
     ],
     [
      "L",
-     220,
-     "[Page 80]",
+     116,
+     "[Page 81]",
+     true
+    ],
+    [
+     "L",
+     196,
+     "[Page 82]",
      true
     ]
    ],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 003 (III) - Uniform and Nondiscriminatory Election Technology and Administration Requirements/Part A - Requirements/§ 21083 - Computerized statewide voter registration list requirements and requirements for voters who register by mail.md",
    "printed_pages": [
-    77,
-    80
+    79,
+    82
    ]
   },
   {
@@ -2048,8 +2078,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 003 (III) - Uniform and Nondiscriminatory Election Technology and Administration Requirements/Part A - Requirements/§ 21084 - Minimum requirements.md",
    "printed_pages": [
-    80,
-    80
+    82,
+    82
    ]
   },
   {
@@ -2057,8 +2087,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 003 (III) - Uniform and Nondiscriminatory Election Technology and Administration Requirements/Part A - Requirements/§ 21085 - Methods of implementation left to discretion of State.md",
    "printed_pages": [
-    80,
-    80
+    82,
+    82
    ]
   },
   {
@@ -2066,33 +2096,37 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 003 (III) - Uniform and Nondiscriminatory Election Technology and Administration Requirements/Part B - Voluntary Guidance/README.md",
    "printed_pages": [
-    80,
-    80
+    82,
+    82
    ]
   },
   {
    "id": "52_21101",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     18,
+     [
+      [
+       86,
+       "[Page 83]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 003 (III) - Uniform and Nondiscriminatory Election Technology and Administration Requirements/Part B - Voluntary Guidance/§ 21101 - Adoption of voluntary guidance by Commission.md",
    "printed_pages": [
-    80,
-    80
+    82,
+    83
    ]
   },
   {
    "id": "52_21102",
-   "marks": [
-    [
-     "L",
-     20,
-     "[Page 81]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 003 (III) - Uniform and Nondiscriminatory Election Technology and Administration Requirements/Part B - Voluntary Guidance/§ 21102 - Process for adoption.md",
    "printed_pages": [
-    80,
-    81
+    83,
+    83
    ]
   },
   {
@@ -2100,8 +2134,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 004 (IV) - Enforcement/README.md",
    "printed_pages": [
-    81,
-    81
+    83,
+    83
    ]
   },
   {
@@ -2109,17 +2143,28 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 004 (IV) - Enforcement/§ 21111 - Actions by the Attorney General for declaratory and injunctive relief.md",
    "printed_pages": [
-    81,
-    81
+    83,
+    83
    ]
   },
   {
    "id": "52_21112",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     46,
+     [
+      [
+       96,
+       "[Page 84]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 004 (IV) - Enforcement/§ 21112 - Establishment of State-based administrative complaint procedures to remedy grievances.md",
    "printed_pages": [
-    81,
-    81
+    83,
+    84
    ]
   },
   {
@@ -2127,28 +2172,17 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 005 (V) - Help America Vote College Program/README.md",
    "printed_pages": [
-    81,
-    81
+    84,
+    84
    ]
   },
   {
    "id": "52_21121",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       137,
-       "[Page 82]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 005 (V) - Help America Vote College Program/§ 21121 - Establishment of program.md",
    "printed_pages": [
-    81,
-    82
+    84,
+    84
    ]
   },
   {
@@ -2156,8 +2190,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 005 (V) - Help America Vote College Program/§ 21122 - Activities under Program.md",
    "printed_pages": [
-    82,
-    82
+    84,
+    84
    ]
   },
   {
@@ -2165,8 +2199,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 005 (V) - Help America Vote College Program/§ 21123 - Authorization of appropriations.md",
    "printed_pages": [
-    82,
-    82
+    84,
+    84
    ]
   },
   {
@@ -2174,111 +2208,12 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 006 (VI) - Transfer to Commission of Functions under Certain Laws/README.md",
    "printed_pages": [
-    82,
-    82
+    84,
+    84
    ]
   },
   {
    "id": "52_21131",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 006 (VI) - Transfer to Commission of Functions under Certain Laws/§ 21131 - Transfer of functions of Office of Election Administration of Federal Election Commission.md",
-   "printed_pages": [
-    82,
-    82
-   ]
-  },
-  {
-   "id": "52_21132",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 006 (VI) - Transfer to Commission of Functions under Certain Laws/§ 21132 - Transfer of functions.md",
-   "printed_pages": [
-    82,
-    82
-   ]
-  },
-  {
-   "id": "52_21133",
-   "marks": [
-    [
-     "L",
-     12,
-     "[Page 83]",
-     true
-    ]
-   ],
-   "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 006 (VI) - Transfer to Commission of Functions under Certain Laws/§ 21133 - Transfer of property, records, and personnel.md",
-   "printed_pages": [
-    82,
-    83
-   ]
-  },
-  {
-   "id": "52_21134",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 006 (VI) - Transfer to Commission of Functions under Certain Laws/§ 21134 - Effective date; transition.md",
-   "printed_pages": [
-    83,
-    83
-   ]
-  },
-  {
-   "id": "52_-Subtitle_II-ch209-scVII",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 007 (VII) - Miscellaneous Provisions/README.md",
-   "printed_pages": [
-    83,
-    83
-   ]
-  },
-  {
-   "id": "52_21141",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 007 (VII) - Miscellaneous Provisions/§ 21141 - State defined.md",
-   "printed_pages": [
-    83,
-    83
-   ]
-  },
-  {
-   "id": "52_21142",
-   "marks": [
-    [
-     "I",
-     22,
-     [
-      [
-       93,
-       "[Page 84]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 007 (VII) - Miscellaneous Provisions/§ 21142 - Audits and repayment of funds.md",
-   "printed_pages": [
-    83,
-    84
-   ]
-  },
-  {
-   "id": "52_21143",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 007 (VII) - Miscellaneous Provisions/§ 21143 - Review and report on adequacy of existing electoral fraud statutes and penalties.md",
-   "printed_pages": [
-    84,
-    84
-   ]
-  },
-  {
-   "id": "52_21144",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 007 (VII) - Miscellaneous Provisions/§ 21144 - Other criminal penalties.md",
-   "printed_pages": [
-    84,
-    84
-   ]
-  },
-  {
-   "id": "52_21145",
    "marks": [
     [
      "L",
@@ -2287,10 +2222,113 @@
      true
     ]
    ],
-   "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 007 (VII) - Miscellaneous Provisions/§ 21145 - No effect on other laws.md",
+   "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 006 (VI) - Transfer to Commission of Functions under Certain Laws/§ 21131 - Transfer of functions of Office of Election Administration of Federal Election Commission.md",
    "printed_pages": [
     84,
     85
+   ]
+  },
+  {
+   "id": "52_21132",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 006 (VI) - Transfer to Commission of Functions under Certain Laws/§ 21132 - Transfer of functions.md",
+   "printed_pages": [
+    85,
+    85
+   ]
+  },
+  {
+   "id": "52_21133",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 006 (VI) - Transfer to Commission of Functions under Certain Laws/§ 21133 - Transfer of property, records, and personnel.md",
+   "printed_pages": [
+    85,
+    85
+   ]
+  },
+  {
+   "id": "52_21134",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 006 (VI) - Transfer to Commission of Functions under Certain Laws/§ 21134 - Effective date; transition.md",
+   "printed_pages": [
+    85,
+    85
+   ]
+  },
+  {
+   "id": "52_-Subtitle_II-ch209-scVII",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 007 (VII) - Miscellaneous Provisions/README.md",
+   "printed_pages": [
+    85,
+    85
+   ]
+  },
+  {
+   "id": "52_21141",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 007 (VII) - Miscellaneous Provisions/§ 21141 - State defined.md",
+   "printed_pages": [
+    85,
+    85
+   ]
+  },
+  {
+   "id": "52_21142",
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       274,
+       "[Page 86]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 007 (VII) - Miscellaneous Provisions/§ 21142 - Audits and repayment of funds.md",
+   "printed_pages": [
+    85,
+    86
+   ]
+  },
+  {
+   "id": "52_21143",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 007 (VII) - Miscellaneous Provisions/§ 21143 - Review and report on adequacy of existing electoral fraud statutes and penalties.md",
+   "printed_pages": [
+    86,
+    86
+   ]
+  },
+  {
+   "id": "52_21144",
+   "marks": [
+    [
+     "I",
+     4,
+     [
+      [
+       91,
+       "[Page 87]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 007 (VII) - Miscellaneous Provisions/§ 21144 - Other criminal penalties.md",
+   "printed_pages": [
+    86,
+    87
+   ]
+  },
+  {
+   "id": "52_21145",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Voting Assistance and Election Administration/Chapter 209 - Election Administration Improvement/Subchapter 007 (VII) - Miscellaneous Provisions/§ 21145 - No effect on other laws.md",
+   "printed_pages": [
+    87,
+    87
    ]
   },
   {
@@ -2298,17 +2336,28 @@
    "marks": [],
    "path": "Subtitle 003 (III) - Federal Campaign Finance/README.md",
    "printed_pages": [
-    85,
-    85
+    87,
+    87
    ]
   },
   {
    "id": "52_-Subtitle_III-ch301",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     23,
+     [
+      [
+       98,
+       "[Page 88]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 003 (III) - Federal Campaign Finance/Chapter 301 - Federal Election Campaigns/README.md",
    "printed_pages": [
-    85,
-    85
+    87,
+    88
    ]
   },
   {
@@ -2316,8 +2365,8 @@
    "marks": [],
    "path": "Subtitle 003 (III) - Federal Campaign Finance/Chapter 301 - Federal Election Campaigns/Subchapter 001 (I) - Disclosure of Federal Campaign Funds/README.md",
    "printed_pages": [
-    85,
-    85
+    88,
+    88
    ]
   },
   {
@@ -2325,213 +2374,211 @@
    "marks": [
     [
      "I",
-     14,
+     50,
      [
       [
-       92,
-       "[Page 86]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     58,
-     [
-      [
-       95,
-       "[Page 87]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     108,
-     [
-      [
-       868,
-       "[Page 88]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     166,
-     [
-      [
-       92,
+       91,
        "[Page 89]"
       ]
      ]
     ],
     [
-     "L",
-     256,
-     "[Page 90]",
-     true
+     "I",
+     94,
+     [
+      [
+       399,
+       "[Page 90]"
+      ]
+     ]
     ],
     [
      "I",
-     338,
+     144,
      [
       [
-       311,
+       91,
        "[Page 91]"
       ]
      ]
     ],
     [
      "L",
-     428,
+     234,
      "[Page 92]",
+     true
+    ],
+    [
+     "I",
+     304,
+     [
+      [
+       219,
+       "[Page 93]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     408,
+     "[Page 94]",
      true
     ]
    ],
    "path": "Subtitle 003 (III) - Federal Campaign Finance/Chapter 301 - Federal Election Campaigns/Subchapter 001 (I) - Disclosure of Federal Campaign Funds/§ 30101 - Definitions.md",
    "printed_pages": [
-    85,
-    92
+    88,
+    94
    ]
   },
   {
    "id": "52_30102",
    "marks": [
     [
-     "L",
-     50,
-     "[Page 93]",
-     true
+     "I",
+     38,
+     [
+      [
+       416,
+       "[Page 95]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     92,
+     [
+      [
+       162,
+       "[Page 96]"
+      ]
+     ]
     ],
     [
      "L",
-     108,
-     "[Page 94]",
-     true
-    ],
-    [
-     "L",
-     156,
-     "[Page 95]",
+     136,
+     "[Page 97]",
      true
     ]
    ],
    "path": "Subtitle 003 (III) - Federal Campaign Finance/Chapter 301 - Federal Election Campaigns/Subchapter 001 (I) - Disclosure of Federal Campaign Funds/§ 30102 - Organization of political committees.md",
    "printed_pages": [
-    92,
-    95
+    94,
+    97
    ]
   },
   {
    "id": "52_30103",
    "marks": [
     [
-     "L",
-     70,
-     "[Page 96]",
-     true
+     "I",
+     50,
+     [
+      [
+       165,
+       "[Page 98]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 003 (III) - Federal Campaign Finance/Chapter 301 - Federal Election Campaigns/Subchapter 001 (I) - Disclosure of Federal Campaign Funds/§ 30103 - Registration of political committees.md",
    "printed_pages": [
-    95,
-    96
+    97,
+    98
    ]
   },
   {
    "id": "52_30104",
    "marks": [
     [
-     "I",
-     42,
-     [
-      [
-       95,
-       "[Page 97]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     112,
-     [
-      [
-       330,
-       "[Page 98]"
-      ]
-     ]
-    ],
-    [
      "L",
-     192,
+     28,
      "[Page 99]",
      true
     ],
     [
-     "I",
-     256,
-     [
-      [
-       274,
-       "[Page 100]"
-      ]
-     ]
+     "L",
+     94,
+     "[Page 100]",
+     true
+    ],
+    [
+     "L",
+     160,
+     "[Page 101]",
+     true
     ],
     [
      "I",
-     302,
+     242,
      [
       [
-       134,
-       "[Page 101]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     364,
-     [
-      [
-       213,
+       223,
        "[Page 102]"
       ]
      ]
     ],
     [
-     "L",
-     446,
-     "[Page 103]",
-     true
+     "I",
+     286,
+     [
+      [
+       88,
+       "[Page 103]"
+      ]
+     ]
     ],
     [
      "I",
-     508,
+     352,
      [
       [
-       206,
+       180,
        "[Page 104]"
       ]
      ]
     ],
     [
-     "L",
-     580,
-     "[Page 105]",
-     true
+     "I",
+     426,
+     [
+      [
+       95,
+       "[Page 105]"
+      ]
+     ]
     ],
     [
      "I",
-     638,
+     498,
      [
       [
-       162,
+       91,
        "[Page 106]"
       ]
      ]
+    ],
+    [
+     "I",
+     562,
+     [
+      [
+       325,
+       "[Page 107]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     620,
+     "[Page 108]",
+     true
     ]
    ],
    "path": "Subtitle 003 (III) - Federal Campaign Finance/Chapter 301 - Federal Election Campaigns/Subchapter 001 (I) - Disclosure of Federal Campaign Funds/§ 30104 - Reporting requirements.md",
    "printed_pages": [
-    96,
-    106
+    98,
+    108
    ]
   },
   {
@@ -2539,142 +2586,130 @@
    "marks": [],
    "path": "Subtitle 003 (III) - Federal Campaign Finance/Chapter 301 - Federal Election Campaigns/Subchapter 001 (I) - Disclosure of Federal Campaign Funds/§ 30105 - Reports on convention financing.md",
    "printed_pages": [
-    106,
-    106
+    108,
+    108
    ]
   },
   {
    "id": "52_30106",
    "marks": [
     [
-     "I",
-     20,
-     [
-      [
-       591,
-       "[Page 107]"
-      ]
-     ]
-    ],
-    [
      "L",
-     62,
-     "[Page 108]",
+     8,
+     "[Page 109]",
      true
     ],
     [
-     "I",
-     114,
-     [
-      [
-       270,
-       "[Page 109]"
-      ]
-     ]
+     "L",
+     52,
+     "[Page 110]",
+     true
+    ],
+    [
+     "L",
+     98,
+     "[Page 111]",
+     true
     ]
    ],
    "path": "Subtitle 003 (III) - Federal Campaign Finance/Chapter 301 - Federal Election Campaigns/Subchapter 001 (I) - Disclosure of Federal Campaign Funds/§ 30106 - Federal Election Commission.md",
    "printed_pages": [
-    106,
-    109
+    108,
+    111
    ]
   },
   {
    "id": "52_30107",
    "marks": [
     [
-     "I",
-     62,
-     [
-      [
-       116,
-       "[Page 110]"
-      ]
-     ]
+     "L",
+     42,
+     "[Page 112]",
+     true
     ]
    ],
    "path": "Subtitle 003 (III) - Federal Campaign Finance/Chapter 301 - Federal Election Campaigns/Subchapter 001 (I) - Disclosure of Federal Campaign Funds/§ 30107 - Powers of Commission.md",
    "printed_pages": [
-    109,
-    110
+    111,
+    112
    ]
   },
   {
    "id": "52_30108",
    "marks": [
     [
+     "I",
+     20,
+     [
+      [
+       327,
+       "[Page 113]"
+      ]
+     ]
+    ],
+    [
      "L",
-     38,
-     "[Page 111]",
+     76,
+     "[Page 114]",
      true
     ]
    ],
    "path": "Subtitle 003 (III) - Federal Campaign Finance/Chapter 301 - Federal Election Campaigns/Subchapter 001 (I) - Disclosure of Federal Campaign Funds/§ 30108 - Advisory opinions.md",
    "printed_pages": [
-    110,
-    111
+    112,
+    114
    ]
   },
   {
    "id": "52_30109",
    "marks": [
     [
-     "I",
-     6,
-     [
-      [
-       283,
-       "[Page 112]"
-      ]
-     ]
+     "L",
+     34,
+     "[Page 115]",
+     true
     ],
     [
      "I",
-     40,
+     66,
      [
       [
-       185,
-       "[Page 113]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     74,
-     [
-      [
-       271,
-       "[Page 114]"
+       87,
+       "[Page 116]"
       ]
      ]
     ],
     [
      "L",
-     150,
-     "[Page 115]",
+     126,
+     "[Page 117]",
      true
     ]
    ],
    "path": "Subtitle 003 (III) - Federal Campaign Finance/Chapter 301 - Federal Election Campaigns/Subchapter 001 (I) - Disclosure of Federal Campaign Funds/§ 30109 - Enforcement.md",
    "printed_pages": [
-    111,
-    115
+    114,
+    117
    ]
   },
   {
    "id": "52_30110",
    "marks": [
     [
-     "L",
-     20,
-     "[Page 116]",
-     true
+     "I",
+     2,
+     [
+      [
+       92,
+       "[Page 118]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 003 (III) - Federal Campaign Finance/Chapter 301 - Federal Election Campaigns/Subchapter 001 (I) - Disclosure of Federal Campaign Funds/§ 30110 - Judicial review.md",
    "printed_pages": [
-    115,
-    116
+    117,
+    118
    ]
   },
   {
@@ -2682,45 +2717,41 @@
    "marks": [
     [
      "L",
-     16,
-     "[Page 117]",
+     8,
+     "[Page 119]",
      true
     ],
     [
      "I",
-     58,
+     48,
      [
       [
-       352,
-       "[Page 118]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     110,
-     [
-      [
-       276,
-       "[Page 119]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     172,
-     [
-      [
-       268,
+       377,
        "[Page 120]"
       ]
      ]
+    ],
+    [
+     "I",
+     102,
+     [
+      [
+       106,
+       "[Page 121]"
+      ]
+     ]
+    ],
+    [
+     "L",
+     152,
+     "[Page 122]",
+     true
     ]
    ],
    "path": "Subtitle 003 (III) - Federal Campaign Finance/Chapter 301 - Federal Election Campaigns/Subchapter 001 (I) - Disclosure of Federal Campaign Funds/§ 30111 - Administrative provisions.md",
    "printed_pages": [
-    116,
-    120
+    118,
+    122
    ]
   },
   {
@@ -2728,48 +2759,12 @@
    "marks": [],
    "path": "Subtitle 003 (III) - Federal Campaign Finance/Chapter 301 - Federal Election Campaigns/Subchapter 001 (I) - Disclosure of Federal Campaign Funds/§ 30112 - Maintenance of website of election reports.md",
    "printed_pages": [
-    120,
-    120
-   ]
-  },
-  {
-   "id": "52_30113",
-   "marks": [
-    [
-     "L",
-     44,
-     "[Page 121]",
-     true
-    ]
-   ],
-   "path": "Subtitle 003 (III) - Federal Campaign Finance/Chapter 301 - Federal Election Campaigns/Subchapter 001 (I) - Disclosure of Federal Campaign Funds/§ 30113 - Statements filed with State officers; appropriate State defined; duties of State officers; waiver of duplicate filing requirement for….md",
-   "printed_pages": [
-    120,
-    121
-   ]
-  },
-  {
-   "id": "52_30114",
-   "marks": [
-    [
-     "I",
-     58,
-     [
-      [
-       234,
-       "[Page 122]"
-      ]
-     ]
-    ]
-   ],
-   "path": "Subtitle 003 (III) - Federal Campaign Finance/Chapter 301 - Federal Election Campaigns/Subchapter 001 (I) - Disclosure of Federal Campaign Funds/§ 30114 - Use of contributed amounts for certain purposes.md",
-   "printed_pages": [
-    121,
+    122,
     122
    ]
   },
   {
-   "id": "52_30115",
+   "id": "52_30113",
    "marks": [
     [
      "L",
@@ -2778,54 +2773,106 @@
      true
     ]
    ],
-   "path": "Subtitle 003 (III) - Federal Campaign Finance/Chapter 301 - Federal Election Campaigns/Subchapter 001 (I) - Disclosure of Federal Campaign Funds/§ 30115 - Authorization of appropriations.md",
+   "path": "Subtitle 003 (III) - Federal Campaign Finance/Chapter 301 - Federal Election Campaigns/Subchapter 001 (I) - Disclosure of Federal Campaign Funds/§ 30113 - Statements filed with State officers; appropriate State defined; duties of State officers; waiver of duplicate filing requirement for….md",
    "printed_pages": [
     122,
     123
    ]
   },
   {
+   "id": "52_30114",
+   "marks": [
+    [
+     "I",
+     50,
+     [
+      [
+       98,
+       "[Page 124]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Subtitle 003 (III) - Federal Campaign Finance/Chapter 301 - Federal Election Campaigns/Subchapter 001 (I) - Disclosure of Federal Campaign Funds/§ 30114 - Use of contributed amounts for certain purposes.md",
+   "printed_pages": [
+    123,
+    124
+   ]
+  },
+  {
+   "id": "52_30115",
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       679,
+       "[Page 125]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Subtitle 003 (III) - Federal Campaign Finance/Chapter 301 - Federal Election Campaigns/Subchapter 001 (I) - Disclosure of Federal Campaign Funds/§ 30115 - Authorization of appropriations.md",
+   "printed_pages": [
+    124,
+    125
+   ]
+  },
+  {
    "id": "52_30116",
    "marks": [
     [
-     "L",
-     32,
-     "[Page 124]",
-     true
+     "I",
+     30,
+     [
+      [
+       460,
+       "[Page 126]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     62,
+     [
+      [
+       93,
+       "[Page 127]"
+      ]
+     ]
     ],
     [
      "L",
-     80,
-     "[Page 125]",
-     true
-    ],
-    [
-     "L",
-     144,
-     "[Page 126]",
-     true
-    ],
-    [
-     "L",
-     220,
-     "[Page 127]",
+     130,
+     "[Page 128]",
      true
     ],
     [
      "I",
-     284,
+     196,
      [
       [
-       219,
-       "[Page 128]"
+       179,
+       "[Page 129]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     264,
+     [
+      [
+       112,
+       "[Page 130]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 003 (III) - Federal Campaign Finance/Chapter 301 - Federal Election Campaigns/Subchapter 001 (I) - Disclosure of Federal Campaign Funds/§ 30116 - Limitations on contributions and expenditures.md",
    "printed_pages": [
-    123,
-    128
+    125,
+    130
    ]
   },
   {
@@ -2833,25 +2880,29 @@
    "marks": [
     [
      "I",
-     28,
+     6,
      [
       [
-       96,
-       "[Page 129]"
+       93,
+       "[Page 131]"
       ]
      ]
     ],
     [
-     "L",
-     104,
-     "[Page 130]",
-     true
+     "I",
+     80,
+     [
+      [
+       97,
+       "[Page 132]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 003 (III) - Federal Campaign Finance/Chapter 301 - Federal Election Campaigns/Subchapter 001 (I) - Disclosure of Federal Campaign Funds/§ 30117 - Modification of certain limits for House candidates in response to personal fund expenditures of opponents.md",
    "printed_pages": [
-    128,
-    130
+    130,
+    132
    ]
   },
   {
@@ -2859,25 +2910,29 @@
    "marks": [
     [
      "I",
-     18,
+     10,
      [
       [
-       99,
-       "[Page 131]"
+       624,
+       "[Page 133]"
       ]
      ]
     ],
     [
-     "L",
-     66,
-     "[Page 132]",
-     true
+     "I",
+     46,
+     [
+      [
+       413,
+       "[Page 134]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 003 (III) - Federal Campaign Finance/Chapter 301 - Federal Election Campaigns/Subchapter 001 (I) - Disclosure of Federal Campaign Funds/§ 30118 - Contributions or expenditures by national banks, corporations, or labor organizations.md",
    "printed_pages": [
-    130,
-    132
+    132,
+    134
    ]
   },
   {
@@ -2885,51 +2940,59 @@
    "marks": [
     [
      "I",
-     12,
+     6,
      [
       [
-       370,
-       "[Page 133]"
+       225,
+       "[Page 135]"
       ]
      ]
     ]
    ],
    "path": "Subtitle 003 (III) - Federal Campaign Finance/Chapter 301 - Federal Election Campaigns/Subchapter 001 (I) - Disclosure of Federal Campaign Funds/§ 30119 - Contributions by Government contractors.md",
    "printed_pages": [
-    132,
-    133
+    134,
+    135
    ]
   },
   {
    "id": "52_30120",
    "marks": [
     [
-     "L",
-     46,
-     "[Page 134]",
-     true
+     "I",
+     32,
+     [
+      [
+       90,
+       "[Page 136]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 003 (III) - Federal Campaign Finance/Chapter 301 - Federal Election Campaigns/Subchapter 001 (I) - Disclosure of Federal Campaign Funds/§ 30120 - Publication and distribution of statements and solicitations.md",
    "printed_pages": [
-    133,
-    134
+    135,
+    136
    ]
   },
   {
    "id": "52_30121",
    "marks": [
     [
-     "L",
-     26,
-     "[Page 135]",
-     true
+     "I",
+     14,
+     [
+      [
+       97,
+       "[Page 137]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 003 (III) - Federal Campaign Finance/Chapter 301 - Federal Election Campaigns/Subchapter 001 (I) - Disclosure of Federal Campaign Funds/§ 30121 - Contributions and donations by foreign nationals.md",
    "printed_pages": [
-    134,
-    135
+    136,
+    137
    ]
   },
   {
@@ -2937,8 +3000,8 @@
    "marks": [],
    "path": "Subtitle 003 (III) - Federal Campaign Finance/Chapter 301 - Federal Election Campaigns/Subchapter 001 (I) - Disclosure of Federal Campaign Funds/§ 30122 - Contributions in name of another prohibited.md",
    "printed_pages": [
-    135,
-    135
+    137,
+    137
    ]
   },
   {
@@ -2946,50 +3009,54 @@
    "marks": [],
    "path": "Subtitle 003 (III) - Federal Campaign Finance/Chapter 301 - Federal Election Campaigns/Subchapter 001 (I) - Disclosure of Federal Campaign Funds/§ 30123 - Limitation on contribution of currency.md",
    "printed_pages": [
-    135,
-    135
+    137,
+    137
    ]
   },
   {
    "id": "52_30124",
    "marks": [
     [
-     "L",
-     30,
-     "[Page 136]",
-     true
+     "I",
+     14,
+     [
+      [
+       95,
+       "[Page 138]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 003 (III) - Federal Campaign Finance/Chapter 301 - Federal Election Campaigns/Subchapter 001 (I) - Disclosure of Federal Campaign Funds/§ 30124 - Fraudulent misrepresentation of campaign authority.md",
    "printed_pages": [
-    135,
-    136
+    137,
+    138
    ]
   },
   {
    "id": "52_30125",
    "marks": [
     [
-     "L",
-     60,
-     "[Page 137]",
-     true
-    ],
-    [
      "I",
-     128,
+     50,
      [
       [
-       112,
-       "[Page 138]"
+       98,
+       "[Page 139]"
       ]
      ]
+    ],
+    [
+     "L",
+     110,
+     "[Page 140]",
+     true
     ]
    ],
    "path": "Subtitle 003 (III) - Federal Campaign Finance/Chapter 301 - Federal Election Campaigns/Subchapter 001 (I) - Disclosure of Federal Campaign Funds/§ 30125 - Soft money of political parties.md",
    "printed_pages": [
-    136,
-    138
+    138,
+    140
    ]
   },
   {
@@ -2997,8 +3064,8 @@
    "marks": [],
    "path": "Subtitle 003 (III) - Federal Campaign Finance/Chapter 301 - Federal Election Campaigns/Subchapter 001 (I) - Disclosure of Federal Campaign Funds/§ 30126 - Prohibition of contributions by minors.md",
    "printed_pages": [
-    138,
-    138
+    140,
+    140
    ]
   },
   {
@@ -3006,37 +3073,33 @@
    "marks": [],
    "path": "Subtitle 003 (III) - Federal Campaign Finance/Chapter 301 - Federal Election Campaigns/Subchapter 002 (II) - General Provisions/README.md",
    "printed_pages": [
-    138,
-    138
+    140,
+    140
    ]
   },
   {
    "id": "52_30141",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     32,
+     "[Page 141]",
+     true
+    ]
+   ],
    "path": "Subtitle 003 (III) - Federal Campaign Finance/Chapter 301 - Federal Election Campaigns/Subchapter 002 (II) - General Provisions/§ 30141 - Extension of credit by regulated industries; regulations.md",
    "printed_pages": [
-    138,
-    138
+    140,
+    141
    ]
   },
   {
    "id": "52_30142",
-   "marks": [
-    [
-     "I",
-     10,
-     [
-      [
-       112,
-       "[Page 139]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 003 (III) - Federal Campaign Finance/Chapter 301 - Federal Election Campaigns/Subchapter 002 (II) - General Provisions/§ 30142 - Prohibition against use of certain Federal funds for election activities.md",
    "printed_pages": [
-    138,
-    139
+    141,
+    141
    ]
   },
   {
@@ -3044,37 +3107,33 @@
    "marks": [],
    "path": "Subtitle 003 (III) - Federal Campaign Finance/Chapter 301 - Federal Election Campaigns/Subchapter 002 (II) - General Provisions/§ 30143 - State laws affected.md",
    "printed_pages": [
-    139,
-    139
+    141,
+    141
    ]
   },
   {
    "id": "52_30144",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 142]",
+     true
+    ]
+   ],
    "path": "Subtitle 003 (III) - Federal Campaign Finance/Chapter 301 - Federal Election Campaigns/Subchapter 002 (II) - General Provisions/§ 30144 - Partial invalidity.md",
    "printed_pages": [
-    139,
-    139
+    141,
+    142
    ]
   },
   {
    "id": "52_30145",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       90,
-       "[Page 140]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 003 (III) - Federal Campaign Finance/Chapter 301 - Federal Election Campaigns/Subchapter 002 (II) - General Provisions/§ 30145 - Period of limitations.md",
    "printed_pages": [
-    139,
-    140
+    142,
+    142
    ]
   },
   {
@@ -3082,11 +3141,11 @@
    "marks": [],
    "path": "Subtitle 003 (III) - Federal Campaign Finance/Chapter 301 - Federal Election Campaigns/Subchapter 002 (II) - General Provisions/§ 30146 - Collection and use of conference fees.md",
    "printed_pages": [
-    140,
-    140
+    142,
+    142
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2020-title52 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2021-title52 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 52 - Voting and Elections"
 }

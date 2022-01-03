@@ -8,7 +8,7 @@
 
 #### (2) Computation of tax
 
-&emsp;In the case of a current taxable year, the Secretary shall determine the tax for the period beginning on the first day of such current taxable year and ending on the date of the determination under paragraph (1) as though such period were a taxable year of the taxpayer, and shall take into account any prior determination made under this subsection with respect to such current taxable year.
+&emsp;In the case of a current taxable year, the Secretary shall determine the tax for the period beginning on the first day of such current taxable year and ending on the date of the determination under paragraph (1) as though such period were a taxable year of the taxpayer, and shall take into account any priordetermination made under this subsection with respect to such current taxable year.
 
 #### (3) Treatment of amounts collected
 
@@ -46,6 +46,8 @@ The provisions of section 6861(f) (relating to collection of unpaid amounts) and
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 833; Pub. L. 85–866, title I, §87, Sept. 2, 1958, 72 Stat. 1665; Pub. L. 94–455, title XII, §1204(b), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1696, 1834.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Pub. L. 94–455, §1204(b)(1), substituted "assessments of income tax" for "of taxable year" in section catchline.
@@ -62,9 +64,11 @@ Subsec. (f). Pub. L. 94–455, §1204(b)(2), added subsec. (f).
 
 <b>1958</b>—Subsec. (d). Pub. L. 85–866 designated existing provisions as par. (1), inserted opening provisions, and added par. (2).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1976 Amendment
 
-Pub. L. 94–455, title XII, §1204(d), Oct. 4, 1976, 90 Stat. 1699, as amended by Pub. L. 94–528, §2(a), Oct. 17, 1976, 90 Stat. 2483; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by thissection \[enacting section 7429 of this title and amending this section and sections 443, 6091, 6211, 6213, 6863, 7103, and 7421 of this title\] apply with respect to action taken under section 6851, 6861, or 6862 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] where the notice and demand takes place after February 28, 1977."
+Pub. L. 94–455, title XII, §1204(d), Oct. 4, 1976, 90 Stat. 1699, as amended by Pub. L. 94–528, §2(a), Oct. 17, 1976, 90 Stat. 2483; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by this section \[enacting section 7429 of this title and amending this section and sections 443, 6091, 6211, 6213, 6863, 7103, and 7421 of this title\] apply with respect to action taken under section 6851, 6861, or 6862 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] where the notice and demand takes place after February 28, 1977."
 
 #### Effective Date of 1958 Amendment
 

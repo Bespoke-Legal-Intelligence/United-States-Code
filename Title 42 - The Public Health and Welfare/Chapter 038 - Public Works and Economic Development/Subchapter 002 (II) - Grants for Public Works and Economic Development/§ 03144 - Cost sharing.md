@@ -24,13 +24,15 @@ In determining the amount of the non-Federal share of the cost of a project, the
 
 #### (2) Certain States, political subdivisions, and nonprofit organizations
 
-&emsp;In the case of a grant to a State, or a political subdivision of a State, that the Secretarydetermines has exhausted the effective taxing and borrowing capacity of the State or political subdivision, or in the case of a grant to a nonprofit organization that the Secretary determines has exhausted the effective borrowing capacity of the nonprofit organization, the Secretary may increase the Federal share above the percentage specified in subsection (a) up to 100 percent of the cost of the project.
+&emsp;In the case of a grant to a State, or a political subdivision of a State, that the Secretary determines has exhausted the effective taxing and borrowing capacity of the State or political subdivision, or in the case of a grant to a nonprofit organization that the Secretary determines has exhausted the effective borrowing capacity of the nonprofit organization, the Secretary may increase the Federal share above the percentage specified in subsection (a) up to 100 percent of the cost of the project.
 
 #### (3) Training, research, and technical assistance
 
 &emsp;In the case of a grant provided under section 3147 of this title, the Secretary may increase the Federal share above the percentage specified in subsection (a) up to 100 percent of the cost of the project if the Secretary determines that the project funded by the grant merits, and is not feasible without, such an increase.
 
 (Pub. L. 89–136, title II, §204, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3603; amended Pub. L. 108–373, title II, §202, Oct. 27, 2004, 118 Stat. 1759.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -43,6 +45,8 @@ A prior section 3144, Pub. L. 89–136, title II, §204, as added Pub. L. 94–4
 Subsec. (b). Pub. L. 108–373, §202(b), inserted "assumptions of debt," after "equipment,".
 
 Subsec. (c). Pub. L. 108–373, §202(c), added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

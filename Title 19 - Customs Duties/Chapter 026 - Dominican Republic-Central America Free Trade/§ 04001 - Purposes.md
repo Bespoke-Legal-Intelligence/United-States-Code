@@ -16,9 +16,13 @@ The purposes of this chapter are—
 
 <i>For termination of section by section 107(d) of Pub. L. 109–53, see Effective and Termination Dates note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 109–53, Aug. 2, 2005, 119 Stat. 462, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective and Termination Dates
 
@@ -44,5 +48,5 @@ Termination of the Agreement.—On the date on which the Agreement ceases to be 
 
 #### Short Title
 
-Pub. L. 109–53, §1(a), Aug. 2, 2005, 119 Stat. 462, provided that: "This Act \[enacting this chapter, amending sections 58c, 1508, 1514, 1520, 1592, 2252, 2518, 2702, and2703 of this title, and enacting provisions set out as notes under this section and section 2702 of this title\] may be cited as the 'Dominican Republic-Central America-United States Free Trade Agreement Implementation Act'."
+Pub. L. 109–53, §1(a), Aug. 2, 2005, 119 Stat. 462, provided that: "This Act \[enacting this chapter, amending sections 58c, 1508, 1514, 1520, 1592, 2252, 2518, 2702, and 2703 of this title, and enacting provisions set out as notes under this section and section 2702 of this title\] may be cited as the 'Dominican Republic-Central America-United States Free Trade Agreement Implementation Act'."
 

@@ -28,7 +28,7 @@
 
 (H)(i) In making determinations with respect to disability under this subchapter, the provisions of sections 421(h), 421(k), and 423(d)(5) of this title shall apply in the same manner as they apply to determinations of disability under subchapter II.
 
-(ii)(I) Not less frequently than once every 3 years, the Commissioner shall review in accordance with paragraph (4) the continued eligibility for benefits under this subchapter of each individual who has not attained 18 years of age and is eligible for such benefits by reason of an impairment (or combination of impairments) which is likely to improve (or, at the option of the Commissioner, which is unlikely to improve).
+(ii)(I) Not less frequently than once every 3 years, the Commissioner shall review in accordance with paragraph (4) the continued eligibilityfor benefits under this subchapter of each individual who has not attained 18 years of age and is eligible for such benefits by reason of an impairment (or combination of impairments) which is likely to improve (or, at the option of the Commissioner, which is unlikely to improve).
 
 (II) A representative payee of a recipient whose case is reviewed under this clause shall present, at the time of review, evidence demonstrating that the recipient is, and has been, receiving treatment, to the extent considered medically necessary and available, of the condition which was the basis for providing benefits under this subchapter.
 
@@ -106,7 +106,7 @@
 
 &emsp;(2) if a man and woman are found to be holding themselves out to the community in which they reside as husband and wife, they shall be so considered for purposes of this subchapter notwithstanding any other provision of this section.
 
-(e) For purposes of this subchapter, the term "United States", when used in a geographical sense, means the 50 States and the District of Columbia.
+(e) For purposes of this subchapter, the term "United States", when used in a geographicalsense, means the 50 States and the District of Columbia.
 
 (f)(1) For purposes of determining eligibility for and the amount of benefits for any individual who is married and whose spouse is living with him in the same household but is not an eligible spouse, such individual's income and resources shall be deemed to include any income and resources of such spouse, whether or not available to such individual, except to the extent determined by the Commissioner of Social Security to be inequitable under the circumstances.
 
@@ -127,6 +127,8 @@
 (4) For purposes of paragraphs (1) and (2), a spouse or parent (or spouse of such a parent) who is absent from the household in which the individual lives due solely to a duty assignment as a member of the Armed Forces on active duty shall, in the absence of evidence to the contrary, be deemed to be living in the same household as the individual.
 
 (Aug. 14, 1935, ch. 531, title XVI, §1614, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1471; amended Pub. L. 93–233, §9, Dec. 31, 1973, 87 Stat. 957; Pub. L. 96–265, title II, §203(a), title III, §§302(a)(2), 303(c)(1), title V, §504(a), June 9, 1980, 94 Stat. 449, 450, 453, 471; Pub. L. 98–369, div. B, title VI, §2663(g)(6), (7), July 18, 1984, 98 Stat. 1168, 1169; Pub. L. 98–460, §§2(c), 3(a)(2), 4(b), 8(b), 10(b), Oct. 9, 1984, 98 Stat. 1796, 1799, 1800, 1804, 1805; Pub. L. 99–643, §4(d)(2), (3)(A), Nov. 10, 1986, 100 Stat. 3577; Pub. L. 101–239, title VIII, §§8009(b), 8010(a), 8012(a), Dec. 19, 1989, 103 Stat. 2463, 2464; Pub. L. 101–508, title V, §5036(a), Nov. 5, 1990, 104 Stat. 1388–225; Pub. L. 101–649, title I, §162(e)(5), Nov. 29, 1990, 104 Stat. 5011; Pub. L. 103–66, title XIII, §§13733(a), 13734(a), Aug. 10, 1993, 107 Stat. 662; Pub. L. 103–296, title I, §107(a)(4), title II, §201(b)(4)(A), Aug. 15, 1994, 108 Stat. 1478, 1505; Pub. L. 103–432, title II, §221(a), Oct. 31, 1994, 108 Stat. 4462; Pub. L. 104–121, title I, §105(b)(1), Mar. 29, 1996, 110 Stat. 853; Pub. L. 104–193, title II, §§204(c)(1), 211(a), (c), 212(a), (b)(1), (c), Aug. 22, 1996, 110 Stat. 2188, 2189, 2192, 2193; Pub. L. 105–33, title V, §5522(a), (d), Aug. 5, 1997, 111 Stat. 622, 623; Pub. L. 108–203, title IV, §434(a), Mar. 2, 2004, 118 Stat. 540.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -244,6 +246,8 @@ Subsec. (f)(3). Pub. L. 96–265, §504(a), added par. (3).
 
 Subsec. (a)(3)(E). Pub. L. 93–233, §9(2), incorporated provisions of last sentence of subpar. (A) in provisions designated as subpar. (E) and inserted introductory text "Notwithstanding the provisions of subparagraphs (A) through (D)" and parenthetical phrase "(and for at least one month prior to July 1973)" after "December 1973".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2004 Amendment
 
 Pub. L. 108–203, title IV, §434(b), Mar. 2, 2004, 118 Stat. 540, provided that: "The amendments made by this section \[amending this section\] shall be effective with respect to benefits payable for months beginning after the date of enactment of this Act \[Mar. 2, 2004\], but only on the basis of an application filed after such date."
@@ -338,7 +342,7 @@ Benefits under title xvi.—For purposes of this subsection, the term 'benefits 
 
 Pub. L. 104–193, title II, §212(d), Aug. 22, 1996, 110 Stat. 2194, provided that: "The amendments made by this section \[amending this section and repealing provisions set out as a note under section 1383 of this title\] shall apply to benefits for months beginning on or after the date of the enactment of this Act \[Aug. 22, 1996\], without regard to whether regulations have been issued to implement such amendments."
 
-Amendment by Pub. L. 104–121 applicable to individual who applies for, or whose claim is finally adjudicated with respect to, supplemental security income benefits under this subchapter based on disability on or after Mar. 29, 1996, with special rule in case of individual who has applied for, and whose claim has been finally adjudicated with respect to, such benefits beforeMar. 29, 1996, see section 105(b)(5) of Pub. L. 104–121, set out as a note under section 1382 of this title.
+Amendment by Pub. L. 104–121 applicable to individual who applies for, or whose claim is finally adjudicated with respect to, supplemental security income benefits under this subchapter based on disability on or after Mar. 29, 1996, with special rule in case of individual who has applied for, and whose claim has been finally adjudicated with respect to, such benefits before Mar. 29, 1996, see section 105(b)(5) of Pub. L. 104–121, set out as a note under section 1382 of this title.
 
 #### Effective Date of 1994 Amendment
 

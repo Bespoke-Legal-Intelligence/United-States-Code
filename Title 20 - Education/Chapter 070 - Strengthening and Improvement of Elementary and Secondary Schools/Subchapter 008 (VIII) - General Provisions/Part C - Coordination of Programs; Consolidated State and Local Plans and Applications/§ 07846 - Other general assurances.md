@@ -18,13 +18,13 @@ Any applicant, other than a State educational agency that submits a plan or appl
 
 &emsp;(4) the applicant will cooperate in carrying out any evaluation of each such program conducted by or for the State educational agency, the Secretary, or other Federal officials;
 
-&emsp;(5) the applicant will use such fiscal control and fund accounting procedures as will ensure proper disbursement of, and accounting for, Federal funds paid to the applicant under each such program;
+&emsp;(5) the applicant will use such fiscal control and fund accounting procedures as will ensureproper disbursement of, and accounting for, Federal funds paid to the applicant under each such program;
 
 &emsp;(6) the applicant will—
 
 &emsp;&emsp;(A) submit such reports to the State educational agency (which shall make the reports available to the Governor) and the Secretary as the State educational agency and Secretary may require to enable the State educational agency and the Secretary to perform their duties under each such program; and
 
-&emsp;&emsp;(B) maintain such records, provide such information, and afford such access to therecords as the State educational agency (after consultation with the Governor) or the Secretary may reasonably require to carry out the State educational agency's or the Secretary's duties; and
+&emsp;&emsp;(B) maintain such records, provide such information, and afford such access to the records as the State educational agency (after consultation with the Governor) or the Secretary may reasonably require to carry out the State educational agency's or the Secretary's duties; and
 
 &emsp;(7) before the application was submitted, the applicant afforded a reasonable opportunity for public comment on the application and considered such comment.
 
@@ -33,6 +33,8 @@ Any applicant, other than a State educational agency that submits a plan or appl
 Section 442 of the General Education Provisions Act \[20 U.S.C. 1232e\] shall not apply to programs under this chapter.
 
 (Pub. L. 89–10, title VIII, §8306, formerly title IX, §9306, as added Pub. L. 107–110, title IX, §901, Jan. 8, 2002, 115 Stat. 1971; renumbered title VIII, §8306, and amended Pub. L. 114–95, title VIII, §§8001(a)(3), (b)(2), 8012, Dec. 10, 2015, 129 Stat. 2088, 2089, 2102.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -45,6 +47,8 @@ A prior section 7851, Pub. L. 89–10, title IX, §9131, as added Pub. L. 103–
 Pub. L. 114–95, §8001(b)(2), made technical amendment to reference in original act which appears in introductory provisions as reference to section 7845 of this title.
 
 Subsec. (a)(2). Pub. L. 114–95, §8012(2), substituted "eligible" for "nonprofit" in subpars. (A) and (B).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

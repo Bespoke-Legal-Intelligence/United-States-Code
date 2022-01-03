@@ -30,6 +30,7 @@
 | [3928\.](Subchapter%20002%20%28II%29%20-%20Management%20of%20Service/%C2%A7%2003928%20-%20Director%20General%20of%20Foreign%20Service.md) | Director General of Foreign Service. |
 | [3929\.](Subchapter%20002%20%28II%29%20-%20Management%20of%20Service/%C2%A7%2003929%20-%20Inspector%20General.md) | Inspector General. |
 | [3929a.](Subchapter%20002%20%28II%29%20-%20Management%20of%20Service/%C2%A7%2003929a%20-%20Abolishment%20of%20Inspector%20General%20of%20Department%20of%20State%20and%20Foreign%20Service.md) | Abolishment of Inspector General of Department of State and Foreign Service. |
+| [3929b.](Subchapter%20002%20%28II%29%20-%20Management%20of%20Service/%C2%A7%2003929b%20-%20Cooperation%20with%20Office%20of%20the%20Inspector%20General.md) | Cooperation with Office of the Inspector General. |
 | [3930\.](Subchapter%20002%20%28II%29%20-%20Management%20of%20Service/%C2%A7%2003930%20-%20Board%20of%20Foreign%20Service.md) | Board of Foreign Service. |
 | [3931\.](Subchapter%20002%20%28II%29%20-%20Management%20of%20Service/%C2%A7%2003931%20-%20Board%20of%20Examiners.md) | Board of Examiners. |
 
@@ -108,7 +109,7 @@
 | [4011\.](Subchapter%20006%20%28VI%29%20-%20Promotion%20and%20Retention/%C2%A7%2004011%20-%20Termination%20of%20limited%20appointments.md) | Termination of limited appointments. |
 | [4012\.](Subchapter%20006%20%28VI%29%20-%20Promotion%20and%20Retention/%C2%A7%2004012%20-%20Termination%20of%20appointments%20of%20consular%20agents%20and%20foreign%20national%20employees.md) | Termination of appointments of consular agents and foreign national employees. |
 | [4012a.](Subchapter%20006%20%28VI%29%20-%20Promotion%20and%20Retention/%C2%A7%2004012a%20-%20Foreign%20national%20employees%20separation%20pay.md) | Foreign national employees separation pay. |
-| [4013\.](Subchapter%20006%20%28VI%29%20-%20Promotion%20and%20Retention/%C2%A7%2004013%20-%20Foreign%20Service%20awards.md) | Foreign Service awards. |
+| [4013\.](Subchapter%20006%20%28VI%29%20-%20Promotion%20and%20Retention/%C2%A7%2004013%20-%20Department%20awards.md) | Department awards. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -202,6 +203,7 @@
 | [4084\.](Subchapter%20009%20%28IX%29%20-%20Travel%2C%20Leave%2C%20and%20Other%20Benefits/%C2%A7%2004084%20-%20Health%20care%20program.md) | Health care program. |
 | [4085\.](Subchapter%20009%20%28IX%29%20-%20Travel%2C%20Leave%2C%20and%20Other%20Benefits/%C2%A7%2004085%20-%20Entertainment%20and%20representation%20expenses.md) | Entertainment and representation expenses. |
 | [4086\.](Subchapter%20009%20%28IX%29%20-%20Travel%2C%20Leave%2C%20and%20Other%20Benefits/%C2%A7%2004086%20-%20Entitlement%20to%20vote%20in%20a%20State%20in%20a%20Federal%20election%3B%20preconditions%3B%20applicability.md) | Entitlement to vote in a State in a Federal election; preconditions; applicability. |
+| [4087\.](Subchapter%20009%20%28IX%29%20-%20Travel%2C%20Leave%2C%20and%20Other%20Benefits/%C2%A7%2004087%20-%20Termination%20of%20residential%20or%20motor%20vehicle%20leases%20and%20telephone%20service%20contracts.md) | Termination of residential or motor vehicle leases and telephone service contracts. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

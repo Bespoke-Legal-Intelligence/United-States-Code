@@ -12,7 +12,7 @@ During fiscal year 1997 and fiscal years thereafter, the Secretary may manage an
 
 #### (2) Qualified HUD properties
 
-&emsp;For purposes of this subsection, the term "qualified HUD property" means any property for which, as of the date that notification of the property is first made under paragraph (3)(B), not less than 6 months have elapsed since the later of the date that the property was acquired by the Secretary or the date that the property was determined to be unoccupied or substandard, that is owned by the Secretary and is—
+&emsp;For purposes of this subsection, the term "qualified HUD property" means any property for which, as of the date that notification of the property is first made under paragraph (3)(B), not less than 6 months have elapsed since the later of the date that the propertywas acquired by the Secretary or the date that the property was determined to be unoccupied or substandard, that is owned by the Secretary and is—
 
 &emsp;&emsp;(A) an unoccupied multifamily housing project;
 
@@ -120,7 +120,7 @@ During fiscal year 1997 and fiscal years thereafter, the Secretary may manage an
 
 &emsp;&emsp;&emsp;(i) lacks hot or cold piped water, a flush toilet, or both a bathtub and a shower in the unit, for the exclusive use of that unit;
 
-&emsp;&emsp;&emsp;(ii) on not less than three separate occasions during the preceding winter months, was uncomfortably cold for a period of more than 6 consecutive hours due to amalfunction of the heating system for the unit;
+&emsp;&emsp;&emsp;(ii) on not less than three separate occasions during the preceding winter months, was uncomfortably cold for a period of more than 6 consecutive hours due to a malfunction of the heating system for the unit;
 
 &emsp;&emsp;&emsp;(iii) has no functioning electrical service, exposed wiring, any room in which there is not a functioning electrical outlet, or has experienced three or more blown fuses or tripped circuit breakers during the preceding 90-day period;
 

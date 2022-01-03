@@ -42,7 +42,7 @@ General exemptions.—
 
 Hourly limitation.—The exemptions granted—
 
-&emsp;&emsp;&emsp;(i) under subsections (a) and (b) and departures authorized under subsection (g)(2)may not be for operations between the hours of 10:00 p.m. and 7:00 a.m.; and
+&emsp;&emsp;&emsp;(i) under subsections (a) and (b) and departures authorized under subsection (g)(2) may not be for operations between the hours of 10:00 p.m. and 7:00 a.m.; and
 
 &emsp;&emsp;&emsp;(ii) under subsections (a), (b), and (g) may not increase the number of operations at Ronald Reagan Washington National Airport in any 1-hour period during the hours between 7:00 a.m. and 9:59 p.m. by more than 5 operations.
 
@@ -116,7 +116,7 @@ Improved network slots.—Of the slot exemptions made available under paragraph 
 
 &emsp;&emsp;(C) shall be entitled to return of the slot by the Secretary if use of the exemption made available to the carrier under paragraph (1) is discontinued;
 
-&emsp;&emsp;(D) shall have sole discretion concerning the use of an exemption made available under paragraph (1), including the initial or any subsequent beyond perimeter destinations to be served; and
+&emsp;&emsp;(D) shall have sole discretion concerning the use of an exemption made availableunder paragraph (1), including the initial or any subsequent beyond perimeter destinations to be served; and
 
 &emsp;&emsp;(E) shall file a notice of intent with the Secretary and subsequent notices of intent, when appropriate, to inform the Secretary of any change in circumstances concerning the use of any exemption made available under paragraph (1).
 
@@ -126,7 +126,7 @@ Notices of intent.—Notices of intent under paragraph (3)(E) shall specify the 
 
 &emsp;(5)
 
-Conditions.—Beyond-perimeter flight operations carried out by an air carrier using anexemption granted under this subsection shall be subject to the following conditions:
+Conditions.—Beyond-perimeter flight operations carried out by an air carrier using an exemption granted under this subsection shall be subject to the following conditions:
 
 &emsp;&emsp;(A) An air carrier may not operate a multi-aisle or widebody aircraft in conducting such operations.
 
@@ -143,6 +143,8 @@ Scheduling Priority.—In administering this section, the Secretary shall—
 &emsp;(3) consider applications from foreign air carriers that are certificated by the government of Canada if such consideration is required by the bilateral aviation agreement between the United States and Canada and so long as the conditions and limitations under this section apply to such foreign air carriers.
 
 (Added Pub. L. 106–181, title II, §231(e)(1), Apr. 5, 2000, 114 Stat. 112; amended Pub. L. 108–176, title IV, §§425, 426(a), Dec. 12, 2003, 117 Stat. 2555; Pub. L. 112–95, title IV, §414(a), (b), Feb. 14, 2012, 126 Stat. 90, 92.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -181,6 +183,8 @@ Deadline for comments.—All comments with respect to any request for an exempti
 Deadline for final decision.—Not later than the 90th day following the date of the enactment of this Act, the Secretary shall make a decision regarding whether to approve or deny any request that is submitted to the Secretary in accordance with paragraph (1)."
 
 Subsec. (f). Pub. L. 108–176, §426(a), added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

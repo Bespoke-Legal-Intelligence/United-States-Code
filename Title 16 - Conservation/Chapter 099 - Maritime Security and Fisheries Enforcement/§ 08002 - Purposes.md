@@ -16,9 +16,11 @@ The purposes of this chapter are—
 
 &emsp;(5) to improve global enforcement operations against IUU fishing through a whole-of-government approach by the United States; and
 
-&emsp;(6) to prevent the use of IUU fishing as a financing source for transnational organized groups that undermine United States and global security interests.
+&emsp;(6) to prevent the use of IUU fishing as a financing source for transnational organizedgroups that undermine United States and global security interests.
 
 (Pub. L. 116–92, div. C, title XXXV, §3533, Dec. 20, 2019, 133 Stat. 1999.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -8,7 +8,7 @@
 
 &emsp;(3) alter the amount of the distribution to a creditor whose claim is provided for by the plan to the extent necessary to take account of any payment of such claim other than under the plan; or
 
-&emsp;(4) reduce amounts to be paid under the plan by the actual amount expended by the debtor to purchase health insurance for the debtor (and for any dependent of the debtor if such dependent does not otherwise have health insurance coverage) if the debtor documents thecost of such insurance and demonstrates that—
+&emsp;(4) reduce amounts to be paid under the plan by the actual amount expended by the debtor to purchase health insurance for the debtor (and for any dependent of the debtor if such dependent does not otherwise have health insurance coverage) if the debtor documents the cost of such insurance and demonstrates that—
 
 &emsp;&emsp;(A) such expenses are reasonable and necessary;
 
@@ -24,9 +24,9 @@
 
 (2) The plan as modified becomes the plan unless, after notice and a hearing, such modification is disapproved.
 
-(c) A plan modified under this section may not provide for payments over a period that expires after the applicable commitment period under section 1325(b)(1)(B) after the time that the first payment under the original confirmed plan was due, unless the court, for cause, approves a longer period, but the court may not approve a period that expires after five years after such time.
+(c) A plan modified under this section may not provide for payments over a period that expiresafter the applicable commitment period under section 1325(b)(1)(B) after the time that the first payment under the original confirmed plan was due, unless the court, for cause, approves a longer period, but the court may not approve a period that expires after five years after such time.
 
-(d)(1) Subject to paragraph (3), for a plan confirmed prior to the date of enactment of this subsection, the plan may be modified upon the request of the debtor if—
+(d)(1) Subject to paragraph (3), for a plan confirmed prior to the date of enactment of the COVID–19 Bankruptcy Relief Extension Act of 2021, the plan may be modified upon the request of the debtor if—
 
 &emsp;(A) the debtor is experiencing or has experienced a material financial hardship due, directly or indirectly, to the coronavirus disease 2019 (COVID–19) pandemic; and
 
@@ -36,19 +36,11 @@
 
 (3) Sections 1322(a), 1322(b), 1323(c), and the requirements of section 1325(a) shall apply to any modification under paragraph (1).
 
-(e)(1) A debtor of a case for which a creditor files a proof of claim under section 501(f) may file a request for a modification of the plan to provide for the proof of claim.
-
-(2) If the debtor does not file a request for a modification of the plan under paragraph (1) on or before the date that is 30 days after the date on which a creditor files a claim under section 501(f), after notice, the court, on a motion of the court or on a motion of the United States trustee, the trustee, a bankruptcy administrator, or any party in interest, may request a modification of the plan to provide for the proof of claim.
-
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2651; Pub. L. 98–353, title III, §§319, 533, July 10, 1984, 98 Stat. 357, 389; Pub. L. 109–8, title I, §102(i), title III, §318(4), Apr. 20, 2005, 119 Stat. 34, 94; Pub. L. 116–136, div. A, title I, §1113(b)(1)(C), (2)(A)(iii), Mar. 27, 2020, 134 Stat. 311, 312; Pub. L. 116–260, div. FF, title X, §1001(e), Dec. 27, 2020, 134 Stat. 3218.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2651; Pub. L. 98–353, title III, §§319, 533, July 10, 1984, 98 Stat. 357, 389; Pub. L. 109–8, title I, §102(i), title III, §318(4), Apr. 20, 2005, 119 Stat. 34, 94; Pub. L. 116–136, div. A, title I, §1113(b)(1)(C), (2)(A)(iii), Mar. 27, 2020, 134 Stat. 311, 312; Pub. L. 116–260, div. FF, title X, §1001(e), Dec. 27, 2020, 134 Stat. 3218; Pub. L. 117–5, §2(b)(1), Mar. 27, 2021, 135 Stat. 249.)
 
 #### Amendment of Subsection (d)
 
-<i>Pub. L. 116–136, div. A, title I, §1113(b)(2)(A)(iii), (B), Mar. 27, 2020, 134 Stat. 312, provided that, effective 1 year after Mar. 27, 2020, this section is amended by striking subsection (d). See 2020 Amendment note below.</i>
-
-#### Amendment of Subsection (e)
-
-<i>Pub. L. 116–260, div. FF, title X, §1001(e)(2), Dec. 27, 2020, 134 Stat. 3219, provided that, effective on the date that is 1 year after Dec. 27, 2020, this section is amended by striking subsection (e). See 2020 Amendment note below.</i>
+<i>Pub. L. 116–136, div. A, title I, §1113(b)(2)(A)(iii), (B), Mar. 27, 2020, 134 Stat. 312, as amended by Pub. L. 117–5, §2(a)(2), Mar. 27, 2021, 135 Stat. 249, provided that, effective 2 years after Mar. 27, 2020, this section is amended by striking subsection (d). See 2020 Amendment note below.</i>
 
 #### Historical and Revision Notes
 
@@ -60,9 +52,11 @@ At any time prior to the completion of payments under a confirmed plan, the plan
 
 #### References in Text
 
-The date of enactment of this subsection, referred to in subsec. (d)(1), is the date of enactment of Pub. L. 116–136, which was approved Mar. 27, 2020.
+The date of enactment of the COVID–19 Bankruptcy Relief Extension Act of 2021, referred to in subsec. (d)(1), is the date of enactment of Pub. L. 117–5, which was approved Mar. 27, 2021.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (d)(1). Pub. L. 117–5 substituted "the COVID–19 Bankruptcy Relief Extension Act of 2021" for "this subsection" in introductory provisions.
 
 <b>2020</b>—Subsec. (d). Pub. L. 116–136, §1113(b)(2)(A)(ii), struck out subsec. (d) which related to modification of plan confirmed before Mar. 27, 2020, where debtor experienced material financial hardship due to coronavirus disease 2019 (COVID–19) pandemic.
 
@@ -86,9 +80,9 @@ Subsec. (a)(3). Pub. L. 98–353, §533(3), substituted "plan to" for "plan, to"
 
 Pub. L. 116–260, div. FF, title X, §1001(e)(2), Dec. 27, 2020, 134 Stat. 3219, provided that the amendment made by section 1001(e)(2) is effective on the date that is 1 year after Dec. 27, 2020.
 
-Pub. L. 116–136, div. A, title I, §1113(b)(1)(D)(ii), Mar. 27, 2020, 134 Stat. 312, provided that: "The amendment made by subparagraph (C) \[amending this section\] shall apply to any case for which a plan has been confirmed under section 1325 of title 11, United States Code, before the date of enactment of this Act \[Mar. 27, 2020\]."
+Pub. L. 116–136, div. A, title I, §1113(b)(1)(D)(ii), Mar. 27, 2020, 134 Stat. 312, as amended by Pub. L. 117–5, §2(b)(2), Mar. 27, 2021, 135 Stat. 249, provided that: "The amendment made by subparagraph (C) \[amending this section\] shall apply to any case for which a plan has been confirmed under section 1325 of title 11, United States Code, before the date of enactment of the COVID–19 Bankruptcy Relief Extension Act of 2021 \[Pub. L. 117–5, approved Mar. 27, 2021\]."
 
-Amendment by section 1113(b)(2)(A)(iii) of Pub. L. 116–136, effective 1 year after Mar. 27, 2020, see section 1113(b)(2)(B) of Pub. L. 116–136, set out as a note under section 101 of this title.
+Amendment by section 1113(b)(2)(A)(iii) of Pub. L. 116–136, effective 2 years after Mar. 27, 2020, see section 1113(b)(2)(B) of Pub. L. 116–136, set out as a note under section 101 of this title.
 
 #### Effective Date of 2005 Amendment
 

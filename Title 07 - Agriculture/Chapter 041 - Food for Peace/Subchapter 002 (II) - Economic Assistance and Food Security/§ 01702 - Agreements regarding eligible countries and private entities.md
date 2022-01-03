@@ -14,6 +14,8 @@ An agreement entered into under this subchapter with a private entity shall requ
 
 (July 10, 1954, ch. 469, title I, §102, 68 Stat. 455; Apr. 25, 1955, ch. 27, 69 Stat. 44; Pub. L. 88–638, §1(3), Oct. 8, 1964, 78 Stat. 1035; Pub. L. 89–808, §2(B), Nov. 11, 1966, 80 Stat. 1526; Pub. L. 90–436, §9, July 29, 1968, 82 Stat. 451; Pub. L. 95–88, title II, §201(a), Aug. 3, 1977, 91 Stat. 545; Pub. L. 95–113, title XII, §1201, Sept. 29, 1977, 91 Stat. 955; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3634; Pub. L. 104–127, title II, §203, Apr. 4, 1996, 110 Stat. 951; Pub. L. 110–246, title III, §3005, June 18, 2008, 122 Stat. 1822.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–246, §3005(1), redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows: "have the demonstrated potential to become commercial markets for competitively priced United States agricultural commodities;".
@@ -22,7 +24,7 @@ Subsec. (c). Pub. L. 110–246, §3005(2), struck out subsec. (c) which related 
 
 <b>1996</b>—Pub. L. 104–127 amended section generally, substituting present provisions for provisions outlining eligibility of developing countries for assistance under this subchapter and factors in determining priority for assistance.
 
-<b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions authorizing Commodity Credit Corporation to finance sales from its own and private stocks, and allowing it, upon request, to serve as purchasing and/or shipping agent.
+<b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions authorizing Commodity Credit Corporation to finance sales fromits own and private stocks, and allowing it, upon request, to serve as purchasing and/or shipping agent.
 
 <b>1977</b>—Pub. L. 95–113 inserted provisions authorizing the Corporation, when requested by the purchaser of commodities, to serve as the purchasing or shipping agent, or both, in arranging the purchasing or shipping of the commodities.
 
@@ -35,6 +37,8 @@ Pub. L. 95–88 struck out proviso prohibiting the financing by the Commodity Cr
 <b>1964</b>—Subsec. (a). Pub. L. 88–638 authorized Commodity Credit Corporation to finance ocean freight charges incurred under agreements entered into after Dec. 31, 1964, to extent such charges are higher because of requirement that commodities be shipped in United States flag vessels, and provided that such agreements require balance of such charges to be paid in dollars.
 
 <b>1955</b>—Subsec. (a). Act Apr. 25, 1955, struck out requirement that exporters of privately owned stocks acquire an equivalent quantity of Commodity Credit Corporation stocks.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(ii) is unjustifiable and burdens or restricts United States commerce;
 
-> the Trade Representative shall take action authorized in subsection (c), subject to the specific direction, if any, of the President regarding any such action, and shall take all other appropriate and feasible action within the power of the President that the President may direct theTrade Representative to take under this subsection, to enforce such rights or to obtain the elimination of such act, policy, or practice. Actions may be taken that are within the power of the President with respect to trade in any goods or services, or with respect to any other area of pertinent relations with the foreign country.
+> the Trade Representative shall take action authorized in subsection (c), subject to the specific direction, if any, of the President regarding any such action, and shall take all other appropriate and feasible action within the power of the President that the President may direct the Trade Representative to take under this subsection, to enforce such rights or to obtain the elimination of such act, policy, or practice. Actions may be taken that are within the power of the President with respect to trade in any goods or services, or with respect to any other area of pertinent relations with the foreign country.
 
 (2) The Trade Representative is not required to take action under paragraph (1) in any case in which—
 
@@ -182,6 +182,8 @@ For purposes of this subchapter—
 
 (Pub. L. 93–618, title III, §301, as added Pub. L. 96–39, title IX, §901, July 26, 1979, 93 Stat. 295; amended Pub. L. 98–573, title III, §304(a)–(c), (f), Oct. 30, 1984, 98 Stat. 3002, 3005; Pub. L. 100–418, title I, §1301(a), Aug. 23, 1988, 102 Stat. 1164; Pub. L. 103–465, title III, §314(a)–(c), title VI, §621(a)(9), Dec. 8, 1994, 108 Stat. 4939, 4940, 4993; Pub. L. 104–295, §20(c)(4), Oct. 11, 1996, 110 Stat. 3528; Pub. L. 114–125, title VI, §§602(b)(1), 607, Feb. 24, 2016, 130 Stat. 184, 189.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 2416(c)(2) of this title, referred to in subsec. (d)(9), was redesignated section 2416(d)(2) of this title by Pub. L. 114–125, title VI, §602(a)(1), Feb. 24, 2016, 130 Stat. 184.
@@ -228,6 +230,8 @@ Subsecs. (c), (d). Pub. L. 98–573, §304(c), added subsec. (c) and redesignate
 
 Subsec. (e). Pub. L. 98–573, §304(c), (f), redesignated subsec. (d) as (e), inserted "For purposes of this section—" before par. (1), in par. (1) substituted provisions defining "commerce" as including, but not limited to services (including transfers of information) associated with international trade, whether or not such services are related to specific goods, and foreign direct investment by United States persons with implications for trade in goods or services for provision defining "commerce" as including, but not limited to, services associated with international trade, whether or not such services are related to specific products, and added pars. (3) to (6).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1994 Amendment
 
 Amendment by section 314(a)–(c) of Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 316(a) of Pub. L. 103–465, set out as an Effective Date note under section 3581 of this title.
@@ -246,13 +250,15 @@ Pub. L. 100–418, title I, §1301(c), Aug. 23, 1988, 102 Stat. 1176, provided t
 
 Pub. L. 96–39, title IX, §903, July 26, 1979, 93 Stat. 300, provided that: "The amendments made by sections 901 and 902 \[enacting this subchapter and amending sections 1872, 2192, and 2194 of this title\] shall take effect on the date of the enactment of this Act \[July 26, 1979\]. Any petition for review filed with the Special Representative for Trade Negotiations under section 301 of the Trade Act of 1974 (as in effect on the day before such date of enactment) \[former section 2411 of this title\] and pending on such date of enactment shall be treated as an investigation initiated on such date of enactment under section 302(b)(2) of the Trade Act of 1974 (as added by section 901 of this Act) \[section 2412(b)(2) of this title\] and any information developed by, or submitted to, the Special Representative before such date of enactment under the review shall be treated as part of the information developed during such investigation."
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 13155. Access to HIV/AIDS Pharmaceuticals and Medical Technologies
 
 Ex. Ord. No. 13155, May 10, 2000, 65 F.R. 30521, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 141 and chapter 1 of title III of the Trade Act of 1974, as amended (19 U.S.C. 2171, 2411–2420), section 307 of the Public Health Service Act (42 U.S.C. 242l), and section 104 of the Foreign Assistance Act of 1961, as amended (22 U.S.C. 2151b), and in accordance with executive branch policy on health-related intellectual property matters to promote access to essential medicines, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. (a) In administering sections 301–310 of the Trade Act of 1974 \[19 U.S.C. 2411–2420\], the United States shall not seek, through negotiation or otherwise, the revocation or revision of any intellectual property law or policy of a beneficiary sub-Saharan African country, as determined by the President, that regulates HIV/AIDS pharmaceuticals or medical technologies if the law or policy of the country:
+Section 1. <i>Policy</i>. (a) In administering sections 301–310 of the Trade Act of 1974 \[19 U.S.C. 2411–2420\], the United States shall not seek, through negotiation or otherwise, the revocation or revision of any intellectual property law or policy of a beneficiary sub-Saharan African country, as determined by the President, thatregulates HIV/AIDS pharmaceuticals or medical technologies if the law or policy of the country:
 
 (1) promotes access to HIV/AIDS pharmaceuticals or medical technologies for affected populations in that country; and
 

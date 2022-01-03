@@ -6,7 +6,7 @@ The Commission is directed to receive and to determine according to the provisio
 
 &emsp;(b) damage to, or loss or destruction of, ships or ship cargoes directly or indirectly owned by a national of the United States at the time such damage, loss, or destruction occurred, which was a direct consequence of military action by Germany or Japan during the period beginning September 1, 1939, and ending September 2, 1945; no award shall be made under this subsection in favor of any insurer or reinsurer as assignee or otherwise as successor in interest to the right of the insured;
 
-&emsp;(c) net losses under war-risk insurance or reinsurance policies or contracts, incurred in the settlement of claims for insured losses of ships directly or indirectly owned by a national of the United States at the time of the loss, damage, or destruction of such ships and at the time of the settlement of such claims, which insured losses were a direct consequence of military action by Germany or Japan during the period beginning September 1, 1939, and ending September 2, 1945; such net losses shall be determined by deducting from the aggregate of all payments made in the settlement of such insured losses the aggregate of the net amounts received by any such insurance companies on all policies of contracts of war-risk insurance or reinsurance on ships under which the insured was a national of the United States, after deducting expenses; and
+&emsp;(c) net losses under war-risk insurance or reinsurance policies or contracts, incurred in the settlement of claims for insured losses of ships directly or indirectly owned by a national of the United States at the time of the loss, damage, or destruction of such ships and at the time of the settlement of such claims, which insured losses were a direct consequence of military action by Germany or Japan during the period beginning September 1, 1939, and ending September 2, 1945; such net lossesshall be determined by deducting from the aggregate of all payments made in the settlement of such insured losses the aggregate of the net amounts received by any such insurance companies on all policies of contracts of war-risk insurance or reinsurance on ships under which the insured was a national of the United States, after deducting expenses; and
 
 &emsp;(d) loss or damage on account of—
 
@@ -25,6 +25,8 @@ The Commission is directed to receive and to determine according to the provisio
 &emsp;&emsp;(3) the loss or destruction, as a result of such action, of property on such vessel, as determined by the Commission to be reasonable, useful, necessary, or proper under the circumstances, which property was owned by any civilian national of the United States who was then a passenger on such vessel; and in the case of the death of any person suffering such loss, awards under this paragraph shall be made only to or for the benefit of the persons designated in paragraph (1) of this subsection and in the order of priority named therein.
 
 (July 3, 1948, ch. 826, title II, §202, as added Pub. L. 87–846, title I, §103, Oct. 22, 1962, 76 Stat. 1107.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

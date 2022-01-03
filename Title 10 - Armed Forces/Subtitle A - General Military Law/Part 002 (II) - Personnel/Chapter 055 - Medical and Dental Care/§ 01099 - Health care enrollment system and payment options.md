@@ -40,6 +40,8 @@ Regulations.—The Secretary of Defense, after consultation with the other admin
 
 (Added Pub. L. 99–661, div. A, title VII, §701(a)(1), Nov. 14, 1986, 100 Stat. 3896; amended Pub. L. 114–328, div. A, title VII, §701(d)(1), (j)(1)(E), Dec. 23, 2016, 130 Stat. 2186, 2192; Pub. L. 116–92, div. A, title VII, §702(a), (b)(2)(B), Dec. 20, 2019, 133 Stat. 1436.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Pub. L. 116–92, §702(b)(2)(B), inserted "and payment options" after "system" in section catchline.
@@ -49,6 +51,8 @@ Subsecs. (d), (e). Pub. L. 116–92, §702(a), added subsec. (d) and redesignate
 <b>2016</b>—Subsec. (b)(1). Pub. L. 114–328, §701(d)(1), amended par. (1) generally. Prior to amendment, text read as follows: "allow covered beneficiaries to elect a health care plan from eligible health care plans designated by the Secretary of Defense; or".
 
 Subsec. (c)(2). Pub. L. 114–328, §701(j)(1)(E), added par. (2) and struck out former par. (2) which read as follows: "The Civilian Health and Medical Program of the Uniformed Services."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2019 Amendment
 

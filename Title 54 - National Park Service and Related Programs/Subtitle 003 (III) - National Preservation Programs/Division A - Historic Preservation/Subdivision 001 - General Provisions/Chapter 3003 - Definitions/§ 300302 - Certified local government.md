@@ -1,6 +1,6 @@
 ### §300302. Certified local government
 
-In this division, the term "certified local government" means a local government whose localhistoric preservation program is certified pursuant to chapter 3025 of this title.
+In this division, the term "certified local government" means a local government whose local historic preservation program is certified pursuant to chapter 3025 of this title.
 
 (Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3188.)
 

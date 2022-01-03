@@ -10,7 +10,7 @@ Membership.—
 
 &emsp;(1)
 
-Composition.—The Committee shall be composed of individuals representing organizations that have formal agreements with the Administration to utilize the United Statesportion of the International Space Station, including allocations within partner elements.
+Composition.—The Committee shall be composed of individuals representing organizations that have formal agreements with the Administration to utilize the United States portion of the International Space Station, including allocations within partner elements.
 
 &emsp;(2)
 
@@ -26,7 +26,7 @@ In general.—The Committee shall monitor, assess, and make recommendations rega
 
 &emsp;(2)
 
-Annual report.—The Committee shall submit to the Administrator, on an annual basis or more frequently as considered necessary by a majority of the members of the Committee, a report containing the assessments and recommendations required by paragraph (1).
+Annual report.—The Committee shall submit to the Administrator, on an annualbasis or more frequently as considered necessary by a majority of the members of the Committee, a report containing the assessments and recommendations required by paragraph (1).
 
 (d)
 

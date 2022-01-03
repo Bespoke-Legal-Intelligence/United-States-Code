@@ -14,7 +14,7 @@ Except as otherwise provided in this chapter, for so long as they continue in th
 
 #### References in Text
 
-This chapter, referred to in introductory provisions, was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+This chapter, referred to in introductory provisions, was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to theCode, see Short Title note set out under section 1101 of this title and Tables.
 
 #### Amendments
 

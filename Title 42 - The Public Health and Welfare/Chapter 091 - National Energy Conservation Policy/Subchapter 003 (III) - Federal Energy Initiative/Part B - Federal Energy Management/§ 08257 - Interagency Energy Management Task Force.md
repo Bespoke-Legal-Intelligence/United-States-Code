@@ -26,6 +26,8 @@ The Task Force shall meet when the Secretary requests, but not less often than t
 
 (Pub. L. 95–619, title V, §547, Nov. 9, 1978, 92 Stat. 3279; Pub. L. 100–615, §2(a), Nov. 5, 1988, 102 Stat. 3187.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–615 amended section generally, substituting provisions relating to creation of an Interagency Energy Management Task Force for provisions relating to energy audits and retrofitting of existing Federal buildings.

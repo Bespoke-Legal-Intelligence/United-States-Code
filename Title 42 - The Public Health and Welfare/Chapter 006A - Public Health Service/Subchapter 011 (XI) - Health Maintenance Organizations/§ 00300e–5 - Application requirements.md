@@ -2,7 +2,7 @@
 
 #### (a) Submission to and approval by Secretary required for making loans and loan guarantees
 
-No loan or loan guarantee may be made under this subchapter unless an application therefor has been submitted to, and approved by, the Secretary.
+No loan or loan guarantee may be made under this subchapter unless an application thereforhas been submitted to, and approved by, the Secretary.
 
 #### (b) Application contents
 
@@ -22,13 +22,15 @@ The Secretary may not approve an application for a loan or loan guarantee under 
 
 &emsp;(7) the application is submitted in such form and manner, and contains such additional information, as the Secretary shall prescribe in regulations.
 
-> An organization making multiple applications for more than one loan or loan guarantee under this subchapter, simultaneously or over the course of time, shall not be required to submit duplicate or redundant information but shall berequired to update the specifications (required by paragraph (3)) respecting the existing or proposed health maintenance organization in such manner and with such frequency as the Secretary may by regulation prescribe. In determining, for purposes of paragraph (2), whether an applicant would be able to complete a project or undertaking without the assistance applied for, the Secretary shall not consider any asset of the applicant the obligation of which for such undertaking or project would jeopardize the fiscal soundness of the applicant.
+> An organization making multiple applications for more than one loan or loan guarantee under this subchapter, simultaneously or over the course of time, shall not be required to submit duplicate or redundant information but shall be required to update the specifications (required by paragraph (3)) respecting the existing or proposed health maintenance organization in such manner and with such frequency as the Secretary may by regulation prescribe. In determining, for purposes of paragraph (2), whether an applicant would be able to complete a project or undertaking without the assistance applied for, the Secretary shall not consider any asset of the applicant the obligation of which for such undertaking or project would jeopardize the fiscal soundness of the applicant.
 
 #### (c) Regulations
 
 The Secretary shall by regulation establish standards and procedures for health systems agencies to follow in reviewing and commenting on applications for loans and loan guarantees under this subchapter.
 
 (July 1, 1944, ch. 373, title XIII, §1306, as added Pub. L. 93–222, §2, Dec. 29, 1973, 87 Stat. 925; amended Pub. L. 94–460, title I, §§105(a)(3), 117(b)(5), (6), Oct. 8, 1976, 90 Stat. 1948, 1955; Pub. L. 95–559, §12(b), (c), Nov. 1, 1978, 92 Stat. 2140; Pub. L. 99–660, title VIII, §§803(b)(1), 805(b), 806, Nov. 14, 1986, 100 Stat. 3799, 3800.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -53,6 +55,8 @@ Subsec. (c). Pub. L. 99–660, §803(b)(1)(D), substituted "loans" for "grants, 
 Subsec. (b)(7), (8). Pub. L. 94–460, §105(a)(3), added par. (7) and redesignated former par. (7) as (8).
 
 Subsec. (c). Pub. L. 94–460, §117(b)(6), substituted "health systems agencies" for "section 314(b) areawide health planning agencies and section 314(a) State health planning agencies".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

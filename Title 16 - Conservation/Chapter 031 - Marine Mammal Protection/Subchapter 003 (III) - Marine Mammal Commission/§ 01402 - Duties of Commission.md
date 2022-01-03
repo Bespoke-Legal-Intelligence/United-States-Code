@@ -24,13 +24,15 @@ The Commission shall consult with the Secretary at such intervals as it or he ma
 
 #### (c) Availability of reports for public inspection
 
-The reports and recommendations which the Commission makes shall be matters of publicrecord and shall be available to the public at all reasonable times. All other activities of the Commission shall be matters of public record and available to the public in accordance with the provisions of section 552 of title 5.
+The reports and recommendations which the Commission makes shall be matters of public record and shall be available to the public at all reasonable times. All other activities of the Commission shall be matters of public record and available to the public in accordance with the provisions of section 552 of title 5.
 
 #### (d) Recommendations; explanation for nonadoption
 
 Any recommendations made by the Commission to the Secretary and other Federal officials shall be responded to by those individuals within one hundred and twenty days after receipt thereof. Any recommendations which are not followed or adopted shall be referred to the Commission together with a detailed explanation of the reasons why those recommendations were not followed or adopted.
 
 (Pub. L. 92–522, title II, §202, Oct. 21, 1972, 86 Stat. 1044; Pub. L. 93–205, §13(e)(4), Dec. 28, 1973, 87 Stat. 903; Pub. L. 97–58, §6(1), Oct. 9, 1981, 95 Stat. 987; Pub. L. 100–711, §5(e)(4), Nov. 23, 1988, 102 Stat. 4771.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -44,9 +46,11 @@ Section 1404 of this title, referred to in subsec. (b), was omitted from the Cod
 
 <b>1988</b>—Subsec. (a)(2). Pub. L. 100–711 inserted ", public display, or enhancing the survival or recovery of a species or stock" after "scientific research".
 
-<b>1981</b>—Subsec. (b). Pub. L. 97–58 substituted "provide each annual report required under section 1404 of this title, before submission to Congress, to the Secretary for comment" for "furnish its reports and recommendations to him, before publication, for his comment".
+<b>1981</b>—Subsec. (b). Pub. L. 97–58 substituted "provide each annual report required under section 1404 of this title, before submission to Congress, to the Secretaryfor comment" for "furnish its reports and recommendations to him, before publication, for his comment".
 
 <b>1973</b>—Subsec. (a)(6). Pub. L. 93–205 substituted "such revisions of the endangered species list and threatened species list published pursuant to section 1533(c)(1) of this title" for "of the Interior such revisions of the Endangered Species List, authorized by the Endangered Species Conservation Act of 1969,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1973 Amendment
 

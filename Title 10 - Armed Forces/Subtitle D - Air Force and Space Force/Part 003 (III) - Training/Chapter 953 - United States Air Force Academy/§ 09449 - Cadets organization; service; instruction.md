@@ -46,11 +46,15 @@ In subsection (b), the word "perform" is substituted for the words "be subject a
 
 In subsection (e), the words "members of the Air Force" are substituted for the words "private soldier, noncommissioned officer, and officer". The words "taught and" are omitted as surplusage. 10:1105 (less 1st 18 words of last sentence) is omitted as inapplicable to the Air Force.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Subsec. (d). Pub. L. 116–283 struck out subsec. (d) which read as follows: "Cadets shall be trained in the duties of members of the Air Force."
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 9349 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

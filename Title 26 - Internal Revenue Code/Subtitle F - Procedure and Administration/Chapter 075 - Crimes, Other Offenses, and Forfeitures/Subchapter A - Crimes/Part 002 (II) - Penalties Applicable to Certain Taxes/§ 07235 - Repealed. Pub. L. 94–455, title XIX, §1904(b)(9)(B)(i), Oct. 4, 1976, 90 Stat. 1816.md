@@ -1,6 +1,8 @@
 ### \[§7235. Repealed. Pub. L. 94–455, title XIX, §1904(b)(9)(B)(i), Oct. 4, 1976, 90 Stat. 1816\]
 
-Section, act Aug. 16, 1954, ch. 736, 68A Stat. 859, related to the false branding, sale, packing, or stampingof adulterated butter, the failure of wholesale dealers to keep or permit inspection of books or to render returns, the failure to comply with provisions relating to the manufacture, storage, and marking of process or renovated butter, fraud by manufacturers, and the failure to pay the special tax on dealers in adulterated butter.
+Section, act Aug. 16, 1954, ch. 736, 68A Stat. 859, related to the false branding, sale, packing, or stamping of adulterated butter, the failure of wholesale dealers to keep or permit inspection of books or to render returns, the failure to comply with provisions relating to the manufacture, storage, and marking of process or renovated butter, fraud by manufacturers, and the failure to pay the special tax on dealers in adulterated butter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of Repeal
 

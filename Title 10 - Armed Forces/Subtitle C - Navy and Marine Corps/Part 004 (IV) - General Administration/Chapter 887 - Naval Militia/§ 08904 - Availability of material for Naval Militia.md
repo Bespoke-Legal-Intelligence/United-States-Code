@@ -26,11 +26,15 @@ The words "are or may be made", before the word "available", are omitted as surp
 
 In clause (1) the word "members" is substituted for the word "personnel".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7854 of this title as this section.
 
 <b>2006</b>—Pub. L. 109–163 substituted "Navy Reserve" for "Naval Reserve" and "any State, the District of Columbia, Guam, or the Virgin Islands" for "any State, any Territory, or the District of Columbia" in introductory provisions and substituted "Navy Reserve" for "Naval Reserve" in par. (1).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

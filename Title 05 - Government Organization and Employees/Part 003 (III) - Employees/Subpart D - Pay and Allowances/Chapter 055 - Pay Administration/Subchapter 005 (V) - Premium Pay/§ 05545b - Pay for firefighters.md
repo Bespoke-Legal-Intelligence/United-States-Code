@@ -24,7 +24,7 @@
 
 &emsp;(B) an amount equal to the firefighter's basic hourly rate (as computed under paragraph (1)(B)) for all hours outside the basic 40-hour workweek that are within such firefighter's regular tour of duty (including overtime hours).
 
-(d)(1) A firefighter who is subject to this section shall receive overtime pay in accordance with section 5542, but shall not receive premium pay provided by other provisions of this subchapter.
+(d)(1) A firefighter who is subject to this section shall receive overtime pay in accordance with section 5542, but shall not receive premiumpay provided by other provisions of this subchapter.
 
 (2) For the purpose of applying section 7(k) of the Fair Labor Standards Act of 1938 to a firefighter who is subject to this section, no violation referred to in such section 7(k) shall be deemed to have occurred if the requirements of section 5542(a) are met, applying section 5542(a) as provided in subsection (f) of that section: <i>Provided</i>, That the overtime hourly rate of pay for such firefighter shall in all cases be an amount equal to one and one-half times the firefighter's hourly rate of basic pay under subsection (b)(1)(A) or (c)(1)(B) of this section, as applicable.
 
@@ -46,7 +46,7 @@ Section 7(k) of the Fair Labor Standards Act of 1938, referred to in subsec. (d)
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(3) \[title VI, §641(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–169, provided that: "The amendment in subsection (a) \[amending this section\] shall be effective as if it had been enacted as part of theFederal Firefighters Overtime Pay Reform Act of 1998 \[Pub. L. 105–277, div A, §101(h) \[title VI, §628\]\] (112 Stat. 2681–519)."
+Pub. L. 106–554, §1(a)(3) \[title VI, §641(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–169, provided that: "The amendment in subsection (a) \[amending this section\] shall be effective as if it had been enacted as part of the Federal Firefighters Overtime Pay Reform Act of 1998 \[Pub. L. 105–277, div A, §101(h) \[title VI, §628\]\] (112 Stat. 2681–519)."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

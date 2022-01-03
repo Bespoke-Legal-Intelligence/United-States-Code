@@ -44,6 +44,8 @@ Any adjustment to a partnership-related item shall be determined, and any tax at
 
 (Added Pub. L. 114–74, title XI, §1101(c)(1), Nov. 2, 2015, 129 Stat. 625; amended Pub. L. 115–141, div. U, title II, §201(c)(2), Mar. 23, 2018, 132 Stat. 1173.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 6221, added Pub. L. 97–248, title IV, §402(a), Sept. 3, 1982, 96 Stat. 648; amended Pub. L. 105–34, title XII, §1238(a), Aug. 5, 1997, 111 Stat. 1026, related to tax treatment determined at partnership level, prior to repeal by Pub. L. 114–74, title XI, §1101(a), Nov. 2, 2015, 129 Stat. 625.
@@ -51,6 +53,8 @@ A prior section 6221, added Pub. L. 97–248, title IV, §402(a), Sept. 3, 1982,
 #### Amendments
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–141 amended subsec. (a) generally. Prior to amendment, text read as follows: "Any adjustment to items of income, gain, loss, deduction, or credit of a partnership for a partnership taxable year (and any partner's distributive share thereof) shall be determined, any tax attributable thereto shall be assessed and collected, and the applicability of any penalty, addition to tax, or additional amount which relates to an adjustment to any such item or share shall be determined, at the partnership level pursuant to this subchapter."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 
@@ -66,7 +70,7 @@ In general.—Except as otherwise provided in this subsection, the amendments ma
 
 "(2)
 
-Administrative adjustment requests.—In the case of \[an\] administrative adjustment request under section 6227 of such Code \[Internal Revenue Code of 1986\], the amendments made by this section shall applyto requests with respect to returns filed for partnership taxable years beginning after December 31, 2017.
+Administrative adjustment requests.—In the case of \[an\] administrative adjustment request under section 6227 of such Code \[Internal Revenue Code of 1986\], the amendments made by this section shall apply to requests with respect to returns filed for partnership taxable years beginning after December 31, 2017.
 
 "(3)
 

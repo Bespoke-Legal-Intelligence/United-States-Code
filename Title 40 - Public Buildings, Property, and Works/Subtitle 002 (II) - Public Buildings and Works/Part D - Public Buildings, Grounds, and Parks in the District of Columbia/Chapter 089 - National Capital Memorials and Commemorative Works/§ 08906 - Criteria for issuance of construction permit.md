@@ -20,7 +20,7 @@ Donation for Perpetual Maintenance and Preservation.—
 
 &emsp;(2) Notwithstanding any other provision of law, money on deposit in the Treasury on the date of enactment of the Commemorative Works Clarification and Revision Act of 2003 provided by a sponsor for maintenance pursuant to this subsection shall be credited to a separate account in the Treasury.
 
-&emsp;(3) Money provided by a sponsor pursuant to the provisions of this subsection after the date of enactment of the Commemorative Works Clarification and Revision Act of 2003 shall be credited to a separate account with the National Park Foundation.
+&emsp;(3) Money provided by a sponsor pursuant to the provisions of this subsection after the dateof enactment of the Commemorative Works Clarification and Revision Act of 2003 shall be credited to a separate account with the National Park Foundation.
 
 &emsp;(4) Upon request of the Secretary or Administrator (as appropriate), the Secretary of the Treasury or the National Park Foundation shall make all or a portion of such moneys available to the Secretary or the Administrator (as appropriate) for the maintenance of a commemorative work. Under no circumstances may the Secretary or Administrator request funds from a separate account exceeding the total money in the account established under paragraph (2) or (3). The Secretary and the Administrator shall maintain an inventory of funds available for such purposes. Funds provided under this paragraph shall be available without further appropriation and shall remain available until expended.
 

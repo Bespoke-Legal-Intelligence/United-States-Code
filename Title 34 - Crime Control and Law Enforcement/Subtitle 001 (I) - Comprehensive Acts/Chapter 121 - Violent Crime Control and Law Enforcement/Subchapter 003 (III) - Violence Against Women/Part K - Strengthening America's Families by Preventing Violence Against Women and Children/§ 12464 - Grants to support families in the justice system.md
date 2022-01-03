@@ -72,7 +72,7 @@ The Attorney General may make a grant under this section to an applicant that—
 
 &emsp;(2) ensures that any fees charged to individuals for use of supervised visitation programs and services are based on the income of those individuals, unless otherwise provided by court order;
 
-&emsp;(3) for a court-based program, certifies that victims of domestic violence, dating violence, sexual assault, or stalking are not charged fees or any other costs related to the filing, petitioning, modifying, issuance, registration, enforcement, withdrawal, or dismissal of matters relating to the domestic violence, dating violence, sexual assault, or stalking;
+&emsp;(3) for a court-based program, certifies that victims of domestic violence, dating violence,sexual assault, or stalking are not charged fees or any other costs related to the filing, petitioning, modifying, issuance, registration, enforcement, withdrawal, or dismissal of matters relating to the domestic violence, dating violence, sexual assault, or stalking;
 
 &emsp;(4) demonstrates that adequate security measures, including adequate facilities, procedures, and personnel capable of preventing violence, and adequate standards are, or will be, in place (including the development of protocols or policies to ensure that confidential information is not shared with courts, law enforcement agencies, or child welfare agencies unless necessary to ensure the safety of any child or adult using the services of a program funded under this section), if the applicant proposes to operate supervised visitation programs and services or safe visitation exchange;
 

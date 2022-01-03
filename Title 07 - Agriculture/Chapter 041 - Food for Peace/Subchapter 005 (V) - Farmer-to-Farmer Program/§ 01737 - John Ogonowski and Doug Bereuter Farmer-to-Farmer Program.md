@@ -178,6 +178,8 @@ Notwithstanding any other provision of law, in addition to any funds that may be
 
 (July 10, 1954, ch. 469, title V, §501, as added Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3656; amended Pub. L. 102–237, title III, §301, Dec. 13, 1991, 105 Stat. 1855; Pub. L. 104–127, title II, §§224, 277(c)(1), Apr. 4, 1996, 110 Stat. 959, 979; Pub. L. 107–76, title VII, §777, Nov. 28, 2001, 115 Stat. 747; Pub. L. 107–171, title III, §3014, May 13, 2002, 116 Stat. 285; Pub. L. 108–447, div. A, title VII, §769, Dec. 8, 2004, 118 Stat. 2848; Pub. L. 110–246, title III, §3024, June 18, 2008, 122 Stat. 1830; Pub. L. 113–79, title III, §3014(a), Feb. 7, 2014, 128 Stat. 778; Pub. L. 115–334, title III, §3116, Dec. 20, 2018, 132 Stat. 4607.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (b). Pub. L. 115–334, §3116(1)(A), inserted "section 1342 of title 31 or" after "Notwithstanding" in introductory provisions.
@@ -214,7 +216,7 @@ Subsec. (d). Pub. L. 107–76, §777(2), added subsec. (d).
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–127, §277(c)(1)(A), substituted "emerging markets" for "emerging democracies" in introductory provisions.
 
-Subsec. (a)(6). Pub. L. 104–127, §224(1), added par. (6) and struck out former par. (6) which read as follows: "to the extent practicable, augment the funds available for programs established under this section through the use of foreign currencies that accrue from the sale of agricultural commodities under this chapter, and local currencies generated from other types of foreign assistance activities."
+Subsec. (a)(6). Pub. L. 104–127, §224(1), added par. (6) and struck out former par. (6) which read as follows: "to the extent practicable, augment the funds available for programs established under this section through theuse of foreign currencies that accrue from the sale of agricultural commodities under this chapter, and local currencies generated from other types of foreign assistance activities."
 
 Subsec. (b)(1). Pub. L. 104–127, §277(c)(1)(B), added par. (1) and struck out heading and text of former par. (1). Text read as follows: "The term 'emerging democracy' means a country that is taking steps toward—
 
@@ -230,6 +232,8 @@ Subsec. (c). Pub. L. 104–127, §224(2), substituted "0.4 percent of the amount
 
 <b>1991</b>—Subsec. (a)(3). Pub. L. 102–237 struck out comma after "public".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
 Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
@@ -237,6 +241,8 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 #### Effective Date
 
 Section effective Jan. 1, 1991, see section 1513 of Pub. L. 101–624, set out as an Effective Date of 1990 Amendment note under section 1691 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

@@ -8,7 +8,7 @@ In General.—The United States may obtain in a civil action an injunction again
 
 &emsp;(2) the preparation, solicitation, attempt, threat, or conspiracy to engage in conduct prohibited under section 175 of this title; or
 
-&emsp;(3) the development, production, stockpiling, transferring, acquisition, retention, or possession, or the attempted development, production, stockpiling, transferring, acquisition, retention, or possession of any biological agent, toxin, or delivery system of a type or in a quantity that under the circumstances has no apparent justification for prophylactic, protective, or other peaceful purposes.
+&emsp;(3) the development, production, stockpiling, transferring, acquisition, retention, or possession, or the attempted development, production, stockpiling, transferring, acquisition, retention, or possession of any biological agent, toxin, or delivery system of a type or in a quantity that under the circumstances has noapparent justification for prophylactic, protective, or other peaceful purposes.
 
 (b)
 

@@ -22,7 +22,7 @@
 
 (d) Appropriations available to the Department of Defense or to the Department of Homeland Security, as the case may be, may be used to carry out this section.
 
-(Added Pub. L. 85–861, §1(17), Sept. 2, 1958, 72 Stat. 1442, §716; renumbered §717, Pub. L. 87–651, title I, §103(a), Sept. 7, 1962, 76 Stat. 508; amended Pub. L. 89–348, §1(12), Nov. 8, 1965, 79 Stat. 1311; Pub. L. 89–718, §7, Nov. 2, 1966, 80 Stat. 1117; Pub. L. 96–513, title V, §511(22), Dec. 12, 1980, 94 Stat. 2921; Pub. L. 98–525, title XV, §1534, Oct. 19, 1984, 98 Stat. 2632; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title V, §561, Jan. 6, 2006, 119 Stat. 3266; Pub. L. 116–283, div. A, title IX, §924(b)(1)(F), Jan. 1, 2021, 134 Stat. 3820.)
+(Added Pub. L. 85–861, §1(17), Sept. 2, 1958, 72 Stat. 1442, §716; renumbered §717, Pub. L. 87–651, title I, §103(a), Sept. 7, 1962, 76 Stat. 508; amended Pub. L. 89–348, §1(12), Nov. 8, 1965, 79 Stat. 1311; Pub. L. 89–718, §7, Nov. 2, 1966, 80 Stat. 1117; Pub. L. 96–513, title V, §511(22), Dec. 12, 1980, 94 Stat. 2921; Pub. L. 98–525, title XV, §1534, Oct. 19,1984, 98 Stat. 2632; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title V, §561, Jan. 6, 2006, 119 Stat. 3266; Pub. L. 116–283, div. A, title IX, §924(b)(1)(F), Jan. 1, 2021, 134 Stat. 3820.)
 
 Historical and Revision Notes<br>1958
 
@@ -53,6 +53,8 @@ In subsection (c), the words "materiel, and equipment" are omitted as covered by
 #### 1962 Act
 
 This section corrects a duplication in numbering occasioned by the addition of a duplicate section 716 by Pub. L. 85–861. (The first section 716 was added by Pub. L. 85–599.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -95,6 +97,8 @@ Subsecs. (e), (f). Pub. L. 96–513, §511(22) (A), (C), redesignated subsec. (f
 <b>1966</b>—Subsec. (b). Pub. L. 89–718 repealed subsec. (b) which required the Secretary of Defense or the Secretary of the Treasury to report to the Committees on Armed Services of the Senate and House of Representatives the details of the proposed participation by members of the Armed Forces under his jurisdiction in international amateur sports competition. See also Pub. L. 89–348, §1(12), Nov. 8, 1965, 79 Stat. 1311, which earlier repealed the reporting requirement of subsec. (b).
 
 <b>1965</b>—Subsec. (b). Pub. L. 89–348 repealed provision of subsec. (b) which required the Secretary of Defense or the Secretary of the Treasury, as the case may be, to report to the Committees on the Armed Services of the Senate and House of Representatives the details of the proposed participation by members of the Armed Forces under his jurisdiction in international amateur sports competition.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

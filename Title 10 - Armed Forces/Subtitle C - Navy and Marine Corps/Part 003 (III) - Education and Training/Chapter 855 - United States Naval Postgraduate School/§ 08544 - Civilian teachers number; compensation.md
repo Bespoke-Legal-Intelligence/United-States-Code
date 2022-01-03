@@ -20,6 +20,8 @@ July 31, 1947, ch. 420, §3 (less last sentence), 61 Stat. 706; Aug. 30, 1954, c
 
 The words "as many \* \* \* as he considers necessary" are substituted for the words "such number \* \* \* as in his opinion may be necessary for the proper instruction of students in the theoretical, academic, and scientific subjects pertaining to the technical and practical aspects of the naval profession" for brevity.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 8544, act Aug. 10, 1956, ch. 1041, 70A Stat. 527, restricted performance of civil functions by commissioned officers of Regular Air Force, prior to repeal by Pub. L. 90–235, §4(a)(6), Jan. 2, 1968, 81 Stat. 759. See section 973 of this title.
@@ -29,6 +31,8 @@ A prior section 8544, act Aug. 10, 1956, ch. 1041, 70A Stat. 527, restricted per
 <b>2018</b>—Pub. L. 115–232 renumbered section 7044 of this title as this section.
 
 <b>2004</b>—Pub. L. 108–375 substituted "President of the school" for "Superintendent".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

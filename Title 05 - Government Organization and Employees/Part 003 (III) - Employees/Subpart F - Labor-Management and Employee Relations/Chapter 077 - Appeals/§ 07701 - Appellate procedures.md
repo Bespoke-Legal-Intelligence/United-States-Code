@@ -56,7 +56,7 @@
 
 > The Board, for good cause shown, may extend the 30-day period referred to in subparagraph (A) of this paragraph. One member of the Board may grant a petition or otherwise direct that a decision be reviewed by the full Board. The preceding sentence shall not apply if, by law, a decision of an administrative law judge is required to be acted upon by the Board.
 
-(2) The Director may petition the Board for a review under paragraph (1) of this subsectiononly if the Director is of the opinion that the decision is erroneous and will have a substantial impact on any civil service law, rule, or regulation under the jurisdiction of the Office.
+(2) The Director may petition the Board for a review under paragraph (1) of this subsection only if the Director is of the opinion that the decision is erroneous and will have a substantial impact on any civil service law, rule, or regulation under the jurisdiction of the Office.
 
 (f) The Board, or an administrative law judge or other employee of the Board designated to hear a case, may—
 
@@ -72,7 +72,7 @@
 
 (h) The Board may, by regulation, provide for one or more alternative methods for settling matters subject to the appellate jurisdiction of the Board which shall be applicable at the election of an applicant for employment or of an employee who is not in a unit for which a labor organization is accorded exclusive recognition, and shall be in lieu of other procedures provided for under this section. A decision under such a method shall be final, unless the Board reopens and reconsiders a case at the request of the Office of Personnel Management under subsection (e) of this section.
 
-(i)(1) Upon the submission of any appeal to the Board under this section, the Board, through reference to such categories of cases, or other means, as it determines appropriate, shall establish and announce publicly the date by which it intends to complete action on the matter. Such date shall assure expeditious consideration of the appeal, consistent with the interests of fairness and other priorities of the Board. If the Board fails to complete action on the appeal by the announced date, and the expected delay will exceed 30 days, the Board shall publicly announce the new date by which it intends to complete action on the appeal.
+(i)(1) Upon the submission of any appeal to the Board under this section, the Board, throughreference to such categories of cases, or other means, as it determines appropriate, shall establish and announce publicly the date by which it intends to complete action on the matter. Such date shall assure expeditious consideration of the appeal, consistent with the interests of fairness and other priorities of the Board. If the Board fails to complete action on the appeal by the announced date, and the expected delay will exceed 30 days, the Board shall publicly announce the new date by which it intends to complete action on the appeal.
 
 (2) Not later than March 1 of each year, the Board shall submit to the Congress a report describing the number of appeals submitted to it during the preceding fiscal year, the number of appeals on which it completed action during that year, and the number of instances during that year in which it failed to conclude a proceeding by the date originally announced, together with an explanation of the reasons therefor.
 

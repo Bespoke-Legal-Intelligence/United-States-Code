@@ -20,9 +20,13 @@ In this subtitle:
 
 (June 17, 1930, ch. 497, title VIII, §801, as added Pub. L. 106–476, title IV, §4004(a), Nov. 9, 2000, 114 Stat. 2178; amended Pub. L. 109–432, div. C, title IV, §401(a), Dec. 20, 2006, 120 Stat. 3047.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Par. (3). Pub. L. 109–432 added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 
@@ -30,5 +34,5 @@ Pub. L. 109–432, div. C, title IV, §401(g), Dec. 20, 2006, 120 Stat. 3050, pr
 
 #### Effective Date
 
-Pub. L. 106–476, title IV, §4004(b), Nov. 9, 2000, 114 Stat. 2181, provided that: "The amendment made bysubsection (a) \[enacting this subtitle\] shall take effect 30 days after the date of the enactment of this Act \[Nov. 9, 2000\]."
+Pub. L. 106–476, title IV, §4004(b), Nov. 9, 2000, 114 Stat. 2181, provided that: "The amendment made by subsection (a) \[enacting this subtitle\] shall take effect 30 days after the date of the enactment of this Act \[Nov. 9, 2000\]."
 

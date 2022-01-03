@@ -26,7 +26,7 @@ Annual Effectiveness and Compliance Reviews.—(1) The Inspector General of each
 
 &emsp;(A) the effectiveness during the preceding calendar year of voting assistance programs; and
 
-&emsp;(B) the level of compliance during the preceding calendar year with voting assistance programs of each of the Army, Navy, Air Force, Marine Corps, and Space Force.
+&emsp;(B) the level of compliance during the preceding calendar year with voting assistanceprograms of each of the Army, Navy, Air Force, Marine Corps, and Space Force.
 
 \[(d) Repealed. Pub. L. 109–364, div. A, title V, §596(a), Oct. 17, 2006, 120 Stat. 2235.\]
 
@@ -38,7 +38,7 @@ Regular Military Department Assessments.—The Secretary of each military depart
 
 Voting Assistance Officers.—(1) Voting assistance officers shall be appointed or assigned under Department of Defense regulations. Commanders at all levels are responsible for ensuring that unit voting officers are trained and equipped to provide information and assistance to members of the armed forces on voting matters. Performance evaluation reports pertaining to a member who has been assigned to serve as a voting assistance officer shall comment on the performance of the member as a voting assistance officer.
 
-(2) Under regulations and procedures (including directives) prescribed by the Secretary, a member of the armed forces appointed or assigned to duty as a voting assistance officer shall, to the maximum extent practicable, begiven the time and resources needed to perform the member's duties as a voting assistance officer during the period in advance of a general election when members and their dependents are preparing and submitting absentee ballots.
+(2) Under regulations and procedures (including directives) prescribed by the Secretary, a member of the armed forces appointed or assigned to duty as a voting assistance officer shall, to the maximum extent practicable, be given the time and resources needed to perform the member's duties as a voting assistance officer during the period in advance of a general election when members and their dependents are preparing and submitting absentee ballots.
 
 (g)
 
@@ -62,6 +62,8 @@ Registration and Voting Information for Members and Dependents.—(1) The Secret
 
 (Added Pub. L. 107–107, div. A, title XVI, §1602(a)(1), Dec. 28, 2001, 115 Stat. 1274; amended Pub. L. 107–252, title VII, §701, Oct. 29, 2002, 116 Stat. 1722; Pub. L. 108–375, div. A, title X, §1084(d)(13), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 109–364, div. A, title V, §596(a), (d), Oct. 17, 2006, 120 Stat. 2235, 2236; Pub. L. 116–283, div. A, title IX, §924(b)(1)(M), Jan. 1, 2021, 134 Stat. 3820.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Uniformed and Overseas Citizens Absentee Voting Act, referred to in subsecs. (b)(1), (e), and (i)(2), is Pub. L. 99–410, Aug. 28, 1986, 100 Stat. 924, which was formerly classified principally to subchapter I–G (§1973ff et seq.) of chapter 20 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 203 (§20301 et seq.) of Title 52. For complete classification of this Act to the Code, see Tables.
@@ -70,7 +72,7 @@ The Uniformed and Overseas Citizens Absentee Voting Act, referred to in subsecs.
 
 <b>2021</b>—Subsecs. (a), (c)(1), (3)(B). Pub. L. 116–283 substituted "Marine Corps, and Space Force" for "and Marine Corps".
 
-<b>2006</b>—Subsec. (d). Pub. L. 109–364, §596(a), struck out subsec. (d), which required the Inspector General of the Department of Defense to periodically conduct unannounced assessments of compliance with requirements of law regarding voting by members of the armed forces at Department of Defense installations.
+<b>2006</b>—Subsec. (d). Pub. L. 109–364, §596(a), struck out subsec. (d), which required the Inspector General of theDepartment of Defense to periodically conduct unannounced assessments of compliance with requirements of law regarding voting by members of the armed forces at Department of Defense installations.
 
 Subsec. (g)(2). Pub. L. 109–364, §596(d), struck out at end "Not later than April 29, 2003, the Secretary shall submit to Congress a report describing the measures to be implemented to ensure the timely transmittal and postmarking of voting materials and identifying the persons responsible for implementing such measures."
 
@@ -85,6 +87,8 @@ Subsec. (g)(2). Pub. L. 107–252, §701(b), inserted at end "The Secretary shal
 Subsec. (h). Pub. L. 107–252, §701(c), added subsec. (h).
 
 Subsec. (i). Pub. L. 107–252, §701(d), added subsec. (i).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Reporting Requirements
 

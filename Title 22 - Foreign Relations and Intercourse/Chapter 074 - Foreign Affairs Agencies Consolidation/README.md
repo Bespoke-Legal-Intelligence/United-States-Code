@@ -58,7 +58,7 @@
 | :--- | ---: |
 | [6551\.](Subchapter%20003%20%28III%29%20-%20United%20States%20Information%20Agency/Part%20C%20-%20Conforming%20Amendments/%C2%A7%2006551%20-%20References.md) | References. |
 | [6552\.](Subchapter%20003%20%28III%29%20-%20United%20States%20Information%20Agency/Part%20C%20-%20Conforming%20Amendments/%C2%A7%2006552%20-%20Application%20of%20certain%20laws.md) | Application of certain laws. |
-| [6553\.](Subchapter%20003%20%28III%29%20-%20United%20States%20Information%20Agency/Part%20C%20-%20Conforming%20Amendments/%C2%A7%2006553%20-%20Sunset%20of%20United%20States%20Advisory%20Commission%20on%20Public%20Diplomacy.md) | Sunset of United States Advisory Commission on Public Diplomacy. |
+| [6553\.](Subchapter%20003%20%28III%29%20-%20United%20States%20Information%20Agency/Part%20C%20-%20Conforming%20Amendments/%C2%A7%2006553%20-%20Continuation%20of%20United%20States%20Advisory%20Commission%20on%20Public%20Diplomacy.md) | Continuation of United States Advisory Commission on Public Diplomacy. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

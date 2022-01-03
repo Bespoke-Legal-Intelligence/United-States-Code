@@ -28,7 +28,7 @@
 
 #### (1) Establishment
 
-&emsp;Not later than 180 days after October 8, 2008, the Secretary, acting through the Director of the Centers for Disease Control and Prevention, may establish a committee to be known as the Advisory Committee on the National ALS Registry (referred to in this section as the "Advisory Committee"). The Advisory Committee shall be composed of not more than 27 members to be appointed by the Secretary, acting through the Centers for Disease Control and Prevention, of which—
+&emsp;Not later than 180 days after October 8, 2008, the Secretary, acting through the Director of the Centers for Disease Control and Prevention, may establish a committee to be known as the Advisory Committee on the National ALS Registry (referred to in this section as the "Advisory Committee"). The Advisory Committee shall be composed of not morethan 27 members to be appointed by the Secretary, acting through the Centers for Disease Control and Prevention, of which—
 
 &emsp;&emsp;(A) two-thirds of such members shall represent governmental agencies—
 
@@ -113,6 +113,8 @@ Coordination with nih and department of veterans affairs.—Consistent with appl
 For the purposes of this section, the term "national voluntary health association" means a national non-profit organization with chapters or other affiliated organizations in States throughout the United States with experience serving the population of individuals with ALS and have demonstrated experience in ALS research, care, and patient services.
 
 (July 1, 1944, ch. 373, title III, §399S, formerly §399R, as added Pub. L. 110–373, §2, Oct. 8, 2008, 122 Stat. 4047; renumbered §399S, Pub. L. 111–148, title IV, §4003(b)(2)(A), Mar. 23, 2010, 124 Stat. 544.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

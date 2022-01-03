@@ -56,6 +56,8 @@ Reference in subsection (e) to the strength of the "brigade of midshipmen" is dr
 
 In subsection (f) the word "admission" is changed to the word "appointment", since the admission of a person is a consequence of, and follows automatically from, his appointment. The statement of reasons for failure to complete the course is omitted as unnecessary.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232, §807(c)(1), renumbered section 6956 of this title as this section.
@@ -88,9 +90,11 @@ Subsec. (d). Pub. L. 101–510, §1322(a)(14)(B), redesignated subsec. (d) as (c
 
 Subsec. (e). Pub. L. 88–276, §3(2), substituted "three-fourths of those nominated" for "two-thirds of those nominated".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments andspecial rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 1973 Amendment
 

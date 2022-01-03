@@ -86,7 +86,7 @@ Standards and Guidelines.—
 
 &emsp;"(1)
 
-Authority to prescribe.—Except as provided under paragraph (2), the Secretary of Commerce shall, on the basis of standards and guidelines developed by the National Institute of Standards and Technology pursuant to paragraphs (2) and (3) of section 20(a) of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3(a)), prescribe standards and guidelines pertaining to Federal information systems.
+Authority to prescribe.—Except as provided under paragraph (2), the Secretary of Commerceshall, on the basis of standards and guidelines developed by the National Institute of Standards and Technology pursuant to paragraphs (2) and (3) of section 20(a) of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3(a)), prescribe standards and guidelines pertaining to Federal information systems.
 
 &emsp;"(2)
 
@@ -200,7 +200,7 @@ Notice.—Notice of each waiver and delegation shall be transmitted promptly to 
 
 #### Effective Date of 2002 Amendments
 
-Amendment by Pub. L. 107–347 effective Dec. 17, 2002, see section 402(b) of Pub. L. 107–347, set out as a note under section 3504 of Title 44, Public Printing and Documents.
+Amendment by Pub. L. 107–347 effective Dec. 17, 2002, see section 402(b) of Pub. L. 107–347, set out as a noteunder section 3504 of Title 44, Public Printing and Documents.
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 

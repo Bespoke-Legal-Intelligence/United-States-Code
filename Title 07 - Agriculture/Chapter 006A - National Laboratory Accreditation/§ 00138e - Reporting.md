@@ -2,13 +2,13 @@
 
 #### (a) In general
 
-Each laboratory or individual that performs, brokers, or otherwise arranges for the performance of a pesticide chemical analysis of food shall prepare and submit a report, simultaneously to the Secretary, the Secretary of Health and Human Services, and to the owner of such food, that shall contain any finding of pesticide chemical residues in such food—
+Each laboratory or individual that performs, brokers, or otherwise arranges for the performance of a pesticide chemical analysis of food shall prepare and submit a report, simultaneously to the Secretary, the Secretary of Health and Human Services, and to the owner ofsuch food, that shall contain any finding of pesticide chemical residues in such food—
 
 &emsp;(1) for which no chemical residue tolerance or exemption has been established;
 
 &emsp;(2) that is in excess of residue tolerances; or
 
-&emsp;(3) for which the chemical residue tolerance has been revoked or the chemical residue isotherwise not permitted by the Environmental Protection Agency.
+&emsp;(3) for which the chemical residue tolerance has been revoked or the chemical residue is otherwise not permitted by the Environmental Protection Agency.
 
 #### (b) Timing of report
 

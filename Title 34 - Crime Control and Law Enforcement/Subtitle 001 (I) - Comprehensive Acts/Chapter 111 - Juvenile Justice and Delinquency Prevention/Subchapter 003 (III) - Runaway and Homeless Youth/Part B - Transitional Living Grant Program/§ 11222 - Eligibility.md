@@ -44,7 +44,7 @@ In selecting eligible applicants to receive grants under this part, the Secretar
 
 In this part—
 
-&emsp;(1) the term "maternity group home" means a community-based, adult-supervised transitional living arrangement that provides pregnant or parenting youth and their children with a supportive and supervised living arrangement in which such pregnant or parenting youth are required to learn parenting skills, including child development, family budgeting, health and nutrition, and otherskills to promote their long-term economic independence in order to ensure the well-being of their children; and
+&emsp;(1) the term "maternity group home" means a community-based, adult-supervised transitional living arrangement that provides pregnant or parenting youth and their children with a supportive and supervised living arrangement in which such pregnant or parenting youth are required to learn parenting skills, including child development, family budgeting, health and nutrition, and other skills to promote their long-term economic independence in order to ensure the well-being of their children; and
 
 &emsp;(2) the term "exceptional circumstances" means circumstances in which a youth would benefit to an unusual extent from additional time in the program.
 
@@ -74,7 +74,7 @@ A prior section 322 of title III of Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 11
 
 <b>2008</b>—Subsec. (a)(1). Pub. L. 110–378, §4(a)(1), substituted "by grant, agreement, or contract, shelter" for "directly or indirectly, shelter" and "and provide, by grant, agreement, or contract, services," for "and services".
 
-Subsec. (a)(2). Pub. L. 110–378, §4(a)(2), substituted "a continuous period not to exceed 540 days, or in exceptional circumstances 635 days, except that a youth in a program under this part who has not reached 18 years of age on the last day of the 635-day period may, in exceptional circumstances and if otherwise qualified for the program, remain in the program until the youth's 18th birthday;" for "a continuous period not to exceed 540 days, except that a youth in a program under this part who is under the age of 18 years on the last day of the 540-day period may, if otherwise qualified for the program, remain in the program until the earlier of the youth's 18th birthday or the 180th day after the end of the 540-day period;".
+Subsec. (a)(2). Pub. L. 110–378, §4(a)(2), substituted "a continuous period not to exceed 540 days, or in exceptional circumstances 635 days, except that a youth in a program under this part who has not reached 18 years of age on the last day of the 635-day period may, in exceptional circumstances and if otherwise qualified for the program, remain in the program until the youth's 18th birthday;" for "a continuous period not to exceed 540 days, except that a youth in a program under thispart who is under the age of 18 years on the last day of the 540-day period may, if otherwise qualified for the program, remain in the program until the earlier of the youth's 18th birthday or the 180th day after the end of the 540-day period;".
 
 Subsec. (a)(16). Pub. L. 110–378, §4(a)(3)–(5), added par. (16).
 

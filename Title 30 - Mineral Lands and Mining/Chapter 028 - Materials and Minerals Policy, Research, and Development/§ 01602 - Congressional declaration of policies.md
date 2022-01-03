@@ -42,7 +42,7 @@ The National Science and Technology Policy, Organization, and Priorities Act of 
 
 #### Amendments
 
-<b>2020</b>—Pub. L. 116–260, §7002(m)(2), in introductory provisions, substituted "It" for "The Congress declaresthat it" and "Implementation" for "The Congress further declares that implementation".
+<b>2020</b>—Pub. L. 116–260, §7002(m)(2), in introductory provisions, substituted "It" for "The Congress declares that it" and "Implementation" for "The Congress further declares that implementation".
 
 Par. (3). Pub. L. 116–260, §7002(b)(1)(A), added par. (3) and struck out former par. (3) which read as follows: "establish a long-range assessment capability concerning materials demands, supply and needs, and provide for the policies and programs necessary to meet those needs;".
 

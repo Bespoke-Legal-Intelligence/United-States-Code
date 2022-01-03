@@ -8,6 +8,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Pub. L. 110–181, div. A, title VI, §672(c)(2), Jan. 28, 2008, 122 Stat. 185, substituted "Education loan repayment program: members of Selected Reserve" for "Education loan repayment program: enlisted members of Selected Reserve with critical specialties" in item 16301.

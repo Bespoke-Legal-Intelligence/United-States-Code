@@ -30,6 +30,8 @@ All references to individuals or organizations, unless the context otherwise req
 
 (Pub. L. 89–329, title VI, §631, as added Pub. L. 102–325, title VI, §601, July 23, 1992, 106 Stat. 736; amended Pub. L. 105–244, title I, §102(b)(8), title VI, §604(a), Oct. 7, 1998, 112 Stat. 1622, 1786; Pub. L. 110–315, title VI, §621, Aug. 14, 2008, 122 Stat. 3342; Pub. L. 111–39, title VI, §601(b), July 1, 2009, 123 Stat. 1954.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1132, Pub. L. 89–329, title VI, §622, as added Pub. L. 96–374, title VI, §601(a), Oct. 3, 1980, 94 Stat. 1470; amended Pub. L. 99–498, title VI, §614, Oct. 17, 1986, 100 Stat. 1520, defined terms used in this subchapter, prior to the general revision of this subchapter by Pub. L. 102–325.
@@ -40,7 +42,7 @@ Another prior section 1132, Pub. L. 89–329, title VI, §622, Nov. 8, 1965, 79 
 
 <b>2009</b>—Subsec. (a). Pub. L. 111–39 made technical correction to directory language of Pub. L. 110–315, §621. See 2008 Amendment notes below.
 
-<b>2008</b>—Subsec. (a)(2). Pub. L. 110–315, §621(2), (3), as amended by Pub. L. 111–39, redesignated par. (5) as (2) and substituted "comprehensive foreign language and area or international studies center" for "comprehensive language and area center". Former par. (2) redesignated (7).
+<b>2008</b>—Subsec. (a)(2). Pub. L. 110–315, §621(2), (3), as amended by Pub. L. 111–39, redesignated par. (5) as (2) and substituted "comprehensive foreign language andarea or international studies center" for "comprehensive language and area center". Former par. (2) redesignated (7).
 
 Subsec. (a)(3). Pub. L. 110–315, §621(2), (4), as amended by Pub. L. 111–39, redesignated par. (9) as (3) and substituted semicolon for period at end. Former par. (3) redesignated (4).
 
@@ -65,6 +67,8 @@ Subsec. (a)(10). Pub. L. 110–315, §621(2), (8), as amended by Pub. L. 111–3
 <b>1998</b>—Subsec. (a)(8). Pub. L. 105–244, §102(b)(8), substituted "section 1001" for "section 1141(a)" in two places and "of section 1001" for "of 1141(a)".
 
 Subsec. (a)(9). Pub. L. 105–244, §604(a), added par. (9).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

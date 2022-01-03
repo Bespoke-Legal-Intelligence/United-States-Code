@@ -10,6 +10,8 @@ Nothing in sections 7a to 7a–3 of this title shall be construed to—
 
 (Pub. L. 108–237, title II, §214, June 22, 2004, 118 Stat. 667; Pub. L. 111–190, §4, June 9, 2010, 124 Stat. 1276.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 7a to 7a–3 of this title, referred to in text, was in the original "this subtitle", meaning subtitle A (§§211–216) of title II of Pub. L. 108–237, June 22, 2004, 118 Stat. 666, which enacted this section and sections 7a, 7a–1, and 7a–3 of this title, amended sections 1, 2, and 3 of this title, and enacted provisions formerly set out in a note under section 1 of this title. For complete classification of subtitle A to the Code, see Tables.

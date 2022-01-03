@@ -28,6 +28,8 @@ For purposes of this part and parts A and B:
 
 (July 1, 1944, ch. 373, title XII, §1231, as added Pub. L. 101–590, §3, Nov. 16, 1990, 104 Stat. 2926; amended Pub. L. 102–321, title VI, §602(2), July 10, 1992, 106 Stat. 436; Pub. L. 103–183, title VI, §601(f)(4), Dec. 14, 1993, 107 Stat. 2239; Pub. L. 113–152, §2(a), Aug. 8, 2014, 128 Stat. 1825.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Par. (4). Pub. L. 113–152 amended par. (4) generally. Prior to amendment, text read as follows: "The term 'trauma' means an injury resulting from exposure to a mechanical force."
@@ -35,6 +37,8 @@ For purposes of this part and parts A and B:
 <b>1993</b>—Par. (3). Pub. L. 103–183 substituted "Puerto Rico," for "Puerto Rico;".
 
 <b>1992</b>—Pub. L. 102–321 substituted "this part and parts A and B" for "this subchapter" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

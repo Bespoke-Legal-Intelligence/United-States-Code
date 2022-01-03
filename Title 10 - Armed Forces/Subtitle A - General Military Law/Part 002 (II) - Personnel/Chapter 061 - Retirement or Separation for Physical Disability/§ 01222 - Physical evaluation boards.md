@@ -2,7 +2,7 @@
 
 (a)
 
-Response to Applications and Appeals.—The Secretary of each military department shall ensure, in the case of any member of the armed forces appearing before a physical evaluation board under that Secretary's supervision, that documents announcing a decision of the board in the case convey the findings and conclusions of the board in an orderly and itemized fashion with specific attention to each issue presented by the member in regard to that member's case. The requirement under the preceding sentenceapplies to a case both during initial consideration and upon subsequent consideration due to appeal by the member or other circumstance.
+Response to Applications and Appeals.—The Secretary of each military department shall ensure, in the case of any member of the armed forces appearing before a physical evaluation board under that Secretary's supervision, that documents announcing a decision of the board in the case convey the findings and conclusions of the board in an orderly and itemized fashion with specific attention to each issue presented by the member in regard to that member's case. The requirement under the preceding sentence applies to a case both during initial consideration and upon subsequent consideration due to appeal by the member or other circumstance.
 
 (b)
 
@@ -28,9 +28,13 @@ Standardized Staff Training and Operations.—(1) The Secretary of Defense shall
 
 (Added Pub. L. 109–364, div. A, title V, §597(a)(1), Oct. 17, 2006, 120 Stat. 2236.)
 
+#### <b>Editorial Notes</b>
+
 #### Effective Date
 
 Pub. L. 109–364, div. A, title V, §597(b), Oct. 17, 2006, 120 Stat. 2237, provided that: "Section 1222 of title 10, United States Code, as added by subsection (a), shall apply with respect to decisions rendered on cases commenced more than 120 days after the date of the enactment of this Act \[Oct. 17, 2006\]."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Quality Review of Medical Evaluation Boards, Physical Evaluation Boards, and Physical Evaluation Board Liaison Officers
 

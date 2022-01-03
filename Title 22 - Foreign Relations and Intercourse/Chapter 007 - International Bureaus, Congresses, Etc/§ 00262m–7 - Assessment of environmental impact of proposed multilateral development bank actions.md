@@ -10,7 +10,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 #### (b) Access to assessments in all member countries
 
-The Secretary of the Treasury shall seek the adoption of policies and procedures, through discussions and negotiations with the other member countries of the multilateral development banks and with the management of such banks,which result in access by governmental agencies and interested members of the public of such member countries, to environmental assessments or documentary information containing comprehensive summaries of such assessments which discuss the environmental impact of prospective projects and programs being considered by such banks. Such assessments or summaries should be made available to such governmental agencies and interested members of the public at least 120 days before scheduled board action, and public participation in review of the relevant environmental information should be encouraged.
+The Secretary of the Treasury shall seek the adoption of policies and procedures, through discussions and negotiations with the other member countries of the multilateral development banks and with the management of such banks, which result in access by governmental agencies and interested members of the public of such member countries, to environmental assessments or documentary information containing comprehensive summaries of such assessments which discuss the environmental impact of prospective projects and programs being considered by such banks. Such assessments or summaries should be made available to such governmental agencies and interested members of the public at least 120 days before scheduled board action, and public participation in review of the relevant environmental information should be encouraged.
 
 #### (c) Consideration of assessment
 
@@ -26,7 +26,7 @@ The Secretary of the Treasury, in consultation with other Federal agencies, incl
 
 &emsp;(1) instruct the United States Executive Director of each multilateral development bank to initiate discussions with the other executive directors of the respective bank and to propose that the respective bank develop and make available to member governments of, and borrowers from, the respective bank, within 18 months after December 19, 1989, a procedure for the systematic environmental assessment of development projects for which the respective bank provides financial assistance, taking into consideration the Guidelines and Principles for Environmental Impact Assessment promulgated by the United Nations Environmental Programme and other bilateral or multilateral assessment procedures; and
 
-&emsp;(2) in determining the position of the United States on any action proposed to be taken by a multilateral development bank, develop and prescribe procedures for the consideration of, among other things—
+&emsp;(2) in determining the position of the United States on any action proposed to be taken bya multilateral development bank, develop and prescribe procedures for the consideration of, among other things—
 
 &emsp;&emsp;(A) the environmental impact assessment of the action described in subsection (a);
 

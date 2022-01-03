@@ -10,6 +10,8 @@ If the Secretary believes that the collection of any tax (other than income tax,
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 836; Pub. L. 93–406, title II, §1016(a)(25), Sept. 2, 1974, 88 Stat. 931; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–222, title I, §108(b)(1)(C), Apr. 1, 1980, 94 Stat. 226; Pub. L. 96–223, title I, §101(f)(9), Apr. 2, 1980, 94 Stat. 253; Pub. L. 100–418, title I, §1941(b)(2)(N), Aug. 23, 1988, 102 Stat. 1324.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–418 substituted "and 44" for "44, and 45".
@@ -22,6 +24,8 @@ Pub. L. 96–222 substituted "the taxes imposed by chapters 41, 42, 43, and 44" 
 
 <b>1974</b>—Pub. L. 93–406 substituted ", gift, and certain excise taxes" for ", and gift taxes" in section catchline and "gift tax, and certain excise taxes)" for "and gift tax)" in subsec. (a).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–418 applicable to crude oil removed from the premises on or after Aug. 23, 1988, see section 1941(c) of Pub. L. 100–418, set out as a note under section 164 of this title.
@@ -30,7 +34,7 @@ Amendment by Pub. L. 100–418 applicable to crude oil removed from the premises
 
 Amendment by Pub. L. 96–223 applicable to periods after Feb. 29, 1980, see section 101(i) of Pub. L. 96–223, set out as a note under section 6161 of this title.
 
-Amendment by Pub. L. 96–222 effective as if included in the provisions of the Black Lung Benefits Revenue Act of 1977, Pub. L. 95–227, see section 108(b)(4) of Pub.L. 96–222, set out as a note under section 192 of this title.
+Amendment by Pub. L. 96–222 effective as if included in the provisions of the Black Lung Benefits Revenue Act of 1977, Pub. L. 95–227, see section 108(b)(4) of Pub. L. 96–222, set out as a note under section 192 of this title.
 
 #### Effective Date of 1974 Amendment
 

@@ -20,7 +20,7 @@ In carrying out the purposes of this chapter, the Administrator shall—
 
 &emsp;(2) assist operating agencies which have direct responsibilities for the prevention and treatment of juvenile delinquency in the development and promulgation of regulations, guidelines, requirements, criteria, standards, procedures, and budget requests in accordance with the policies, priorities, and objectives the Administrator establishes;
 
-&emsp;(3) conduct and support evaluations and studies of the performance and resultsachieved by Federal juvenile delinquency programs and activities;
+&emsp;(3) conduct and support evaluations and studies of the performance and results achieved by Federal juvenile delinquency programs and activities;
 
 &emsp;(4) implement Federal juvenile delinquency programs and activities among Federal departments and agencies and between Federal juvenile delinquency programs and activities and other Federal programs and activities which the Administrator determines may have an important bearing on the success of the entire Federal juvenile delinquency effort;
 
@@ -80,7 +80,7 @@ Subsec. (b)(7). Pub. L. 115–385, §201(2)(A), (B), (E), redesignated par. (6) 
 
 Subsec. (b)(5). Pub. L. 107–273, §12205(1)(B), substituted "parts D and E" for "parts C and D" wherever appearing.
 
-Subsec. (b)(7). Pub. L. 107–273, §12205(1)(C), amended par. (7) generally. Prior to amendment, par. (7) read asfollows: "not later than 1 year after November 4, 1992, issue model standards for providing health care to incarcerated juveniles."
+Subsec. (b)(7). Pub. L. 107–273, §12205(1)(C), amended par. (7) generally. Prior to amendment, par. (7) read as follows: "not later than 1 year after November 4, 1992, issue model standards for providing health care to incarcerated juveniles."
 
 Subsec. (c). Pub. L. 107–273, §12205(2), substituted "as may be appropriate to prevent the duplication of efforts, and to coordinate activities, related to the prevention of juvenile delinquency" for "and reports, and to conduct such studies and surveys, as the Administrator may deem to be necessary to carry out the purposes of this part".
 
@@ -122,7 +122,7 @@ Subsec. (e). Pub. L. 100–690, §7253(c)(1), (3), redesignated subsec. (h) as (
 
 Subsecs. (f) to (h). Pub. L. 100–690, §7253(c)(3), redesignated subsecs. (i) to (k) as (f) to (h), respectively. Former subsecs. (f) to (h) redesignated (c) to (e), respectively.
 
-Subsec. (i). Pub. L. 100–690, §7253(c)(2), (3), redesignated subsec. (l) as (i), struck out "which meets any criterion developed by the Administrator under subsection (d)(1) of this section" after "juvenile delinquency program" and substituted "subsection (c)" for "subsection (f)" in par. (1), and struck out "shall be submitted in accordance with procedure established by the Administrator under subsection (e) of this sectionand" after "under paragraph (1)" and "under subsection (e) of this section" after "Administrator may require" in par. (2). Former subsec. (i) redesignated (f).
+Subsec. (i). Pub. L. 100–690, §7253(c)(2), (3), redesignated subsec. (l) as (i), struck out "which meets any criterion developed by the Administrator under subsection (d)(1) of this section" after "juvenile delinquency program" and substituted "subsection (c)" for "subsection (f)" in par. (1), and struck out "shall be submitted in accordance with procedure established by the Administrator under subsection (e) of this section and" after "under paragraph (1)" and "under subsection (e) of this section" after "Administrator may require" in par. (2). Former subsec. (i) redesignated (f).
 
 Subsecs. (j) to (l). Pub. L. 100–690, §7253(c)(3), redesignated subsecs. (j) to (l) as (g) to (i), respectively.
 

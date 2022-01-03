@@ -62,6 +62,8 @@ In subsection (a)(7), the word "event" is substituted for "occurrence" for clari
 
 The text of 15:2041(9) is omitted because the complete title of the Secretary of Transportation is used the first time the term appears in a section.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1997</b>—Par. (6). Pub. L. 105–102 amended directory language of Pub. L. 104–152, §2(c). See 1996 Amendment note below.
@@ -70,9 +72,11 @@ The text of 15:2041(9) is omitted because the complete title of the Secretary of
 
 Pub. L. 104–152, §2(c), as amended by Pub. L. 105–102, §3(b), substituted "National Motor Vehicle Title Information System" for "National Automobile Title Information System".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1997 Amendment
 
 Pub. L. 105–102, §3(b), Nov. 20, 1997, 111 Stat. 2215, provided that the amendment made by section 3(b) is effective July 2, 1996.
 
-Amendment by Pub. L. 105–102 effective as if included in the provisions of the Act to which the amendmentrelates, see section 3(f) of Pub. L. 105–102, set out as a note under section 106 of this title.
+Amendment by Pub. L. 105–102 effective as if included in the provisions of the Act to which the amendment relates, see section 3(f) of Pub. L. 105–102, set out as a note under section 106 of this title.
 

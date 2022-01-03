@@ -28,6 +28,8 @@ This section shall not apply to a transfer made before March 4, 1931; nor to a t
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 382; Pub. L. 87–834, §18(a)(2)(D), Oct. 16, 1962, 76 Stat. 1052; Pub. L. 94–455, title XX, §2009(a), Oct. 4, 1976, 90 Stat. 1893; Pub. L. 95–600, title VII, §702(i)(1), (2), Nov. 6, 1978, 92 Stat. 2931; Pub. L. 100–203, title X, §10402(a), Dec. 22, 1987, 101 Stat. 1330–431; Pub. L. 100–647, title III, §3031(a)(1), (b)–(e), (g), Nov. 10, 1988, 102 Stat. 3634–3638; Pub. L. 101–508, title XI, §11601(a), Nov. 5, 1990, 104 Stat. 1388–490.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Subsecs. (c), (d). Pub. L. 101–508 redesignated subsec. (d) as (c) and struck out former subsec. (c) which enunciated a rule that retention of retained interest would be considered to be a retention of enjoyment of transferred property if a person held a substantial interest in an enterprise, and such person in effect transferred after Dec. 17, 1987, property having a disproportionately large share of the potential appreciation in such person's interest in the enterprise while retaining an interest in the income of, or rights in, the enterprise.
@@ -56,9 +58,11 @@ Subsecs. (b), (c). Pub. L. 95–600, §702(i)(1), added subsec. (b) and redesign
 
 <b>1962</b>—Subsec. (a). Pub. L. 87–834 struck out provisions which excepted real property situated outside of the United States.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–508, title XI, §11601(c), Nov. 5, 1990, 104 Stat. 1388–491, provided that: "The amendments made by this section \[amending this section and sections 2207B and 2501 of this title\] shall apply in the case of property transferred after December 17, 1987."
+Pub. L. 101–508, title XI, §11601(c), Nov. 5, 1990, 104 Stat. 1388–491, provided that: "The amendments madeby this section \[amending this section and sections 2207B and 2501 of this title\] shall apply in the case of property transferred after December 17, 1987."
 
 #### Effective Date of 1988 Amendment
 
@@ -78,7 +82,7 @@ Subsection (f).—If an amount is included in the gross estate of a decedent und
 
 "(4)
 
-Correction period.—If section 2036(c)(1) of the 1986 Code would (but for this paragraph) apply to anyinterest arising from a transaction entered into during the period beginning after December 17, 1987, and ending before January 1, 1990, such section shall not apply to such interest if—
+Correction period.—If section 2036(c)(1) of the 1986 Code would (but for this paragraph) apply to any interest arising from a transaction entered into during the period beginning after December 17, 1987, and ending before January 1, 1990, such section shall not apply to such interest if—
 
 &emsp;"(A) during such period, such actions are taken as are necessary to have such section 2036(c)(1) not apply to such transaction (and any such interest), or
 

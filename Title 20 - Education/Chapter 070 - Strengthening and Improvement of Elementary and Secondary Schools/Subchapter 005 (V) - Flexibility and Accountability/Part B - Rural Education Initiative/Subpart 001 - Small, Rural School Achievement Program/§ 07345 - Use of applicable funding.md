@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of law, an eligible local educational agency may usethe applicable funding that the agency is eligible to receive from the State educational agency for a fiscal year to carry out local activities authorized under any of the following provisions:
+&emsp;Notwithstanding any other provision of law, an eligible local educational agency may use the applicable funding that the agency is eligible to receive from the State educational agency for a fiscal year to carry out local activities authorized under any of the following provisions:
 
 &emsp;&emsp;(A) Part A of subchapter I.
 
@@ -56,6 +56,8 @@ Applicable funding under this section shall be available to carry out local acti
 
 (Pub. L. 89–10, title V, §5211, formerly title VI, §6211, as added Pub. L. 107–110, title VI, §601, Jan. 8, 2002, 115 Stat. 1891; renumbered title V, §5211, and amended Pub. L. 114–95, title V, §§5001(a)(3), 5003(1), Dec. 10, 2015, 129 Stat. 2039–2041.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 5211 of Pub. L. 89–10 was renumbered section 4311 and was classified to section 7221j of this title, prior to repeal by Pub. L. 114–95.
@@ -85,6 +87,8 @@ Subsec. (c). Pub. L. 114–95, §5003(1)(C), added pars. (1) and (2) and struck 
 "(2) Section 7114 of this title.
 
 "(3) Part A of subchapter V of this chapter."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

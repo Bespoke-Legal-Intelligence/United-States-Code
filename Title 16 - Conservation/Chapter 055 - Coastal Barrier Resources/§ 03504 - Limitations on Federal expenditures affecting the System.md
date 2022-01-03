@@ -12,13 +12,15 @@ Except as provided in section 3505 of this title, no new expenditures or new fin
 
 #### (b) New expenditures or new financial assistance
 
-An expenditure or financial assistance made available under authority of Federal law shall,for purposes of this chapter, be a new expenditure or new financial assistance if—
+An expenditure or financial assistance made available under authority of Federal law shall, for purposes of this chapter, be a new expenditure or new financial assistance if—
 
 &emsp;(1) in any case with respect to which specific appropriations are required, no money for construction or purchase purposes was appropriated before the date on which the relevant System unit or portion of the System unit was included within the System under this chapter or the Coastal Barrier Improvement Act of 1990; or
 
 &emsp;(2) no legally binding commitment for the expenditure or financial assistance was made before such date.
 
 (Pub. L. 97–348, §5, Oct. 18, 1982, 96 Stat. 1656; Pub. L. 101–591, §§2(b)(2), 5(c), Nov. 16, 1990, 104 Stat. 2931, 2936.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

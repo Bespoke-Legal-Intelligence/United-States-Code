@@ -6,7 +6,7 @@
 
 (2) The Attorney General shall make available funds to provide for the ongoing administrative and technological costs to federal law enforcement agencies participating in the database project.
 
-(3) The Director of the Bureau of Justice Assistance of the Office of Justice Programs may make grants to help provide for the administrative and technological costs to State and locallaw enforcement agencies participating in the data base <sup>2</sup> project.
+(3) The Director of the Bureau of Justice Assistance of the Office of Justice Programs may make grants to help provide for the administrative and technological costs to State and local law enforcement agencies participating in the data base <sup>2</sup> project.
 
 #### (b) Authorization of appropriations
 

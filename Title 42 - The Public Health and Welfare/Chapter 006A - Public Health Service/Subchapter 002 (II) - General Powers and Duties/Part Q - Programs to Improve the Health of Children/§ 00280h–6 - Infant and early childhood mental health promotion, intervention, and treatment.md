@@ -6,7 +6,7 @@ The Secretary shall—
 
 &emsp;(1) award grants to eligible entities to develop, maintain, or enhance infant and early childhood mental health promotion, intervention, and treatment programs, including—
 
-&emsp;&emsp;(A) programs for infants and children at significant risk of developing, showing early signs of, or having been diagnosed with mental illness, including a serious emotional disturbance; and
+&emsp;&emsp;(A) programs for infants and children at significant risk of developing, showing earlysigns of, or having been diagnosed with mental illness, including a serious emotional disturbance; and
 
 &emsp;&emsp;(B) multigenerational therapy and other services that support the caregiving relationship; and
 
@@ -40,7 +40,7 @@ An eligible entity seeking a grant under subsection (a) shall submit to the Secr
 
 An eligible entity may use amounts awarded under a grant under subsection (a)(1) to carry out the following:
 
-&emsp;(1) Provide age-appropriate mental health promotion and early intervention services or mental illness treatment services, which may include specialized programs, for eligible children at significant risk of developing, showing early signs of, or having been diagnosed with a mental illness, including a serious emotional disturbance. Such services may include social and behavioral services as well asmultigenerational therapy and other services that support the caregiving relationship.
+&emsp;(1) Provide age-appropriate mental health promotion and early intervention services or mental illness treatment services, which may include specialized programs, for eligible children at significant risk of developing, showing early signs of, or having been diagnosed with a mental illness, including a serious emotional disturbance. Such services may include social and behavioral services as well as multigenerational therapy and other services that support the caregiving relationship.
 
 &emsp;(2) Provide training for health care professionals with expertise in infant and early childhood mental health care with respect to appropriate and relevant integration with other disciplines such as primary care clinicians, early intervention specialists, child welfare staff, home visitors, early care and education providers, and others who work with young children and families.
 

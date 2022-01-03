@@ -12,7 +12,7 @@
 
 &emsp;(B) subject to inspection under chapter 37 of this title.
 
-(b) The fees charged for pilotage by pilots required under this section may not be more than the customary or legally established rates in the States in which the pilotage is performed.
+(b) The fees charged for pilotage by pilots required under this section may not be more thanthe customary or legally established rates in the States in which the pilotage is performed.
 
 (c) A State or political subdivision of a State may not impose on a pilot licensed under this subtitle an obligation to procure a State or other license, or adopt any other regulation that will impede the pilot in the performance of the pilot's duties under the laws of the United States.
 

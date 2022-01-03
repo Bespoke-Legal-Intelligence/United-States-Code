@@ -52,7 +52,7 @@ Tour of Duty of Joint Staff Officers.—(1) An officer who is assigned or detail
 
 (g)
 
-Composition of Joint Staff.—(1) The Joint Staff is composed of all members of the armed forces and civilian employees assigned or detailed to permanent duty in the executive part of the Department of Defense to perform the functions and duties prescribed under subsections (a) and (c).
+Composition of Joint Staff.—(1) The Joint Staff is composed of all members of the armed forces and civilian employees assigned or detailed to permanent duty in the executivepart of the Department of Defense to perform the functions and duties prescribed under subsections (a) and (c).
 
 (2) The Joint Staff does not include members of the armed forces or civilian employees assigned or detailed to permanent duty in a military department.
 
@@ -67,6 +67,8 @@ Personnel Limitations.—(1) The total number of members of the armed forces and
 (4) Each limitation in paragraphs (1) and (2) may be exceeded by a number equal to 15 percent of such limitation in time of national emergency.
 
 (Added Pub. L. 99–433, title II, §201, Oct. 1, 1986, 100 Stat. 1009; amended Pub. L. 100–180, div. A, title XIII, §1314(b)(2), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 101–510, div. A, title IX, §902, Nov. 5, 1990, 104 Stat. 1620; Pub. L. 102–484, div. A, title IX, §911(b)(2), Oct. 23, 1992, 106 Stat. 2473; Pub. L. 103–35, title II, §202(a)(8), May 31, 1993, 107 Stat. 101; Pub. L. 113–291, div. A, title X, §1071(c)(1), Dec. 19, 2014, 128 Stat. 3508; Pub. L. 114–328, div. A, title IX, §903(b)(1), Dec. 23, 2016, 130 Stat. 2344; Pub. L. 116–92, div. A, title IX, §901(a)(2)(A), Dec. 20, 2019, 133 Stat. 1541; Pub. L. 116–283, div. A, title IX, §924(b)(7)(B), Jan. 1, 2021, 134 Stat. 3822.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -95,6 +97,8 @@ Limitation on Size of Joint Staff.—(1) Effective on October 1, 1988, the total
 <b>1987</b>—Subsec. (f)(4)(B). Pub. L. 100–180, §1314(b)(2)(A), inserted "or Congress" after "by the President".
 
 Subsec. (g)(2)(B). Pub. L. 100–180, §1314(b)(2)(B), inserted "the President or" after "declared by".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2019 Amendment
 
@@ -136,7 +140,7 @@ Lead Agent.—The Secretary of Defense shall designate the Secretary of the Air 
 
 "(c)
 
-Data Collection and Analysis to Support ISR Allocation and Synchronization Processes.—In coordination with the Director of Cost Analysis and Program Evaluation, the Chairman of the Joint Chiefs of Staff shall issue guidance to the commanders of the geographical combatant commands that requires the commanders to collect sufficient and relevant data regarding the effectiveness of intelligence, surveillance, and reconnaissance measures in a manner that will—
+Data Collection and Analysis to Support ISR Allocation and Synchronization Processes.—In coordination with the Director of Cost Analysis and Program Evaluation, the Chairman of the Joint Chiefs of Staff shall issue guidance to the commanders of thegeographical combatant commands that requires the commanders to collect sufficient and relevant data regarding the effectiveness of intelligence, surveillance, and reconnaissance measures in a manner that will—
 
 &emsp;"(1) enable the standardized, objective evaluation and analysis of that data with respect to the use and effectiveness of the intelligence, surveillance, and reconnaissance capabilities provided to the commanders; and
 

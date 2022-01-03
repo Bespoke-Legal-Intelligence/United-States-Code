@@ -86,6 +86,8 @@ In subsection (b)(2), the word "date" is substituted for "time" for clarity and 
 
 In subsection (c), the words "with like effect as if made personally upon such carrier" are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a)(1). Pub. L. 115–254, §1991(f)(3), substituted "by the Administrator of the Federal Aviation Administration)" for "by the Administrator)".

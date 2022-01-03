@@ -22,7 +22,7 @@ Consistent with subsection (a), coordination of activities related to the promot
 
 #### (c) International economic activities
 
-Consistent with subsection (a), coordination of activities relating to United States participation in international financial institutions and relating to organization of multilateral efforts aimed at currency stabilization, currency convertibility, debt reduction, and comprehensive economic reform programs shall continue to be primarily the responsibility of the Secretary of the Treasury, in the Secretary's role as Chair ofthe National Advisory Council on International Monetary and Financial Policies and as the United States Governor of the international financial institutions.
+Consistent with subsection (a), coordination of activities relating to United States participation in international financial institutions and relating to organization of multilateral efforts aimed at currency stabilization, currency convertibility, debt reduction, and comprehensive economic reform programs shall continue to be primarily the responsibility of the Secretary of the Treasury, in the Secretary's role as Chair of the National Advisory Council on International Monetary and Financial Policies and as the United States Governor of the international financial institutions.
 
 #### (d) Accountability for funds
 
@@ -148,7 +148,7 @@ Clearinghouse.—A clearinghouse shall be established or designated in each prog
 
 #### "SEC. 425. RESTRICTIONS NOT APPLICABLE.
 
-"Prohibitions on the use of foreign assistance funds for assistance for the Russian Federation or forUkraine shall not apply with respect to the funds made available to carry out this subtitle.
+"Prohibitions on the use of foreign assistance funds for assistance for the Russian Federation or for Ukraine shall not apply with respect to the funds made available to carry out this subtitle.
 
 #### "SEC. 426. AUTHORIZATION OF APPROPRIATIONS.
 
@@ -234,7 +234,7 @@ Section 1. <i>Secretary of State</i>. (a) There are delegated to the Secretary o
 
 Sec. 2. <i>Coordinator</i>. There are delegated to the Coordinator designated in accordance with section 102 of the Act \[22 U.S.C. 5812\] the functions conferred upon the President by:
 
-(a) \[former\] section 104 of the Act \[22 U.S.C. 5814\], and the Coordinator is authorized to assign responsibilityfor particular aspects of the reports described in that section to the heads of appropriate agencies;
+(a) \[former\] section 104 of the Act \[22 U.S.C. 5814\], and the Coordinator is authorized to assign responsibility for particular aspects of the reports described in that section to the heads of appropriate agencies;
 
 (b) section 301 of the Act \[22 U.S.C. 5821\], insofar as it relates to determinations and directives;
 

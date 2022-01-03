@@ -30,13 +30,15 @@ Content.—The strategic plan shall include, at minimum—
 
 (c)
 
-Portal Detection Systems.—There is authorized to be appropriated to the Secretary of Homeland Security for the use of the Transportation Security Administration $250,000,000, in addition to any amounts otherwise authorized by law, for research, development, and installation of detection systems and other devices for the detection of biological, chemical, radiological, and explosive materials.
+Portal Detection Systems.—There is authorized to be appropriated to the Secretary ofHomeland Security for the use of the Transportation Security Administration $250,000,000, in addition to any amounts otherwise authorized by law, for research, development, and installation of detection systems and other devices for the detection of biological, chemical, radiological, and explosive materials.
 
 (d)
 
 Interim Action.—Until measures are implemented that enable the screening of all passengers for explosives, the Administrator of the Transportation Security Administration shall provide, by such means as the Administrator of the Transportation Security Administration considers appropriate, explosives detection screening for all passengers identified for additional screening and their personal property that will be carried aboard a passenger aircraft operated by an air carrier or foreign air carrier in air transportation or intrastate air transportation.
 
 (Added Pub. L. 108–458, title IV, §4013(a), Dec. 17, 2004, 118 Stat. 3719; amended Pub. L. 110–53, title XVI, §1607(b), Aug. 3, 2007, 121 Stat. 483; Pub. L. 115–254, div. K, title I, §1991(d)(21), Oct. 5, 2018, 132 Stat. 3637.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -48,13 +50,15 @@ Subsec. (d). Pub. L. 115–254, §1991(d)(21)(C), substituted "Administrator of 
 
 <b>2007</b>—Subsec. (b)(3). Pub. L. 110–53 added par. (3).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Movement and Redeployment of Mobile Explosives Detection Systems
 
 Pub. L. 114–113, div. F, title II, Dec. 18, 2015, 129 Stat. 2499, provided in part: "That notwithstanding any other provision of law, for the current fiscal year and each fiscal year hereafter, mobile explosives detection systems purchased and deployed using funds made available under this heading \[Transportation Security Administration, Aviation Security\] may be moved and redeployed to meet evolving passenger and baggage screening security priorities at airports".
 
 #### Issuance of Strategic Plan for Deployment and Use of Explosive Detection Equipment at Airport Screening Checkpoints
 
-Pub. L. 110–53, title XVI, §1607(a), Aug. 3, 2007, 121 Stat. 483, provided that: "Not later than 30 days after the date of enactment of this Act \[Aug. 3, 2007\], the Secretary of Homeland Security, in consultation with the Administrator of the Transportation Security Administration, shall issue the strategic plan the Secretary was required by section 44925(b) of title 49, United States Code, to have issued within 90 days after the date of enactment of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458) \[Dec. 17, 2004\]."
+Pub. L. 110–53, title XVI, §1607(a), Aug. 3, 2007, 121 Stat. 483, provided that, not later than 30 days after Aug. 3, 2007, the Secretary of Homeland Security, in consultation with the Administrator of the Transportation Security Administration, was to issue the strategic plan the Secretary was required by subsec. (b) of this section to have issued within 90 days after Dec. 17, 2004.
 
 #### Advanced Airport Checkpoint Screening Devices
 

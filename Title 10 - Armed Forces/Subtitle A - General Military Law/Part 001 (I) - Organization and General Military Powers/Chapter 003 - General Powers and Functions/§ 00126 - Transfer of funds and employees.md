@@ -8,7 +8,7 @@
 
 > and be merged with the funds already credited to that account and accounted for as one fund. Balances of appropriations credited to an account under clause (1) are subject only to such limitations as are specifically applicable to that account. Balances of appropriations credited to an account under clause (2) are subject only to such limitations as are applicable to the appropriations from which they are transferred.
 
-(b) When a function, power, or duty or an activity of a department or agency of the Department of Defense is transferred to another department or agency of that department, those civilian employees of the department or agency from which the transfer is made that the Secretary of Defense determines are needed to perform that function, power, or duty, or for that activity, as the case may be, may, with the approval of the President, be transferred to the department or agency to which that function, power, duty, or activity, as the case may be, is transferred. The authorized strength in civilian employees of a department or agency from which employees are transferred under this section is reduced by the number of employees so transferred. The authorized strength in civilian employees of a department or agency to which employees are transferred under this section is increased by the number of employees so transferred.
+(b) When a function, power, or duty or an activity of a department or agency of the Department of Defense is transferred to another department or agency of that department, those civilian employees of the department or agency from which the transfer is made that the Secretary of Defense determines are needed to perform that function, power, or duty, or for that activity, as the case may be, may, with the approval of the President, be transferred to the department or agency to which that function, power, duty, or activity, as the case may be, istransferred. The authorized strength in civilian employees of a department or agency from which employees are transferred under this section is reduced by the number of employees so transferred. The authorized strength in civilian employees of a department or agency to which employees are transferred under this section is increased by the number of employees so transferred.
 
 (Added Pub. L. 87–651, title II, §201(a), Sept. 7, 1962, 76 Stat. 516; amended Pub. L. 96–513, title V, §511(2), Dec. 12, 1980, 94 Stat. 2920.)
 
@@ -44,13 +44,19 @@ In subsection (a), the words "under authority of law" are omitted as surplusage.
 
 In subsection (b), 5 U.S.C. 172f(b) is restated to reflect more clearly its purpose to authorize "transfers of personnel" (Senate Report No. 366, 81st Congress, p. 23).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1980</b>—Subsec. (b) Pub. L. 96–513 substituted "President" for "Director of the Bureau of the Budget".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

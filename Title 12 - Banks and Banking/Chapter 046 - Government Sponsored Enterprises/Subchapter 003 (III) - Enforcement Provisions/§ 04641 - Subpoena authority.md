@@ -24,7 +24,7 @@ The attendance of witnesses and the production of documents provided for in this
 
 #### (2) Power of court
 
-&emsp;The courts described under paragraph (1) shall have the jurisdiction and power to orderand require compliance with any subpoena issued under paragraph (1).
+&emsp;The courts described under paragraph (1) shall have the jurisdiction and power to order and require compliance with any subpoena issued under paragraph (1).
 
 #### (d) Fees and expenses
 
@@ -62,7 +62,7 @@ Subsec. (a)(4). Pub. L. 110–289, §1158(a)(1)(B), struck out "issued by the Di
 
 Subsec. (b). Pub. L. 110–289, §1158(a)(2), inserted "or in any territory or other place subject to the jurisdiction of the United States" after "State". See Codification note above.
 
-Subsec. (c). Pub. L. 110–289, §1158(a)(3), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: "The Director may request the Attorney General of the United States to bring an action in the United States district court for the judicial district in which such proceeding is being conducted, or where the witness resides or conducts business, or the United States District Court for the District of Columbia, for enforcement of any subpoena or subpoena duces tecum issued pursuant to this section or may, under the direction and control of the Attorney General, bring such an action. Such courts shall have jurisdiction and power to order and require compliance therewith." See Codification note above.
+Subsec. (c). Pub. L. 110–289, §1158(a)(3), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: "The Director may requestthe Attorney General of the United States to bring an action in the United States district court for the judicial district in which such proceeding is being conducted, or where the witness resides or conducts business, or the United States District Court for the District of Columbia, for enforcement of any subpoena or subpoena duces tecum issued pursuant to this section or may, under the direction and control of the Attorney General, bring such an action. Such courts shall have jurisdiction and power to order and require compliance therewith." See Codification note above.
 
 Subsec. (d). Pub. L. 110–289, §1158(a)(4), inserted "enterprise-affiliated party" before "may allow". See Codification note above.
 

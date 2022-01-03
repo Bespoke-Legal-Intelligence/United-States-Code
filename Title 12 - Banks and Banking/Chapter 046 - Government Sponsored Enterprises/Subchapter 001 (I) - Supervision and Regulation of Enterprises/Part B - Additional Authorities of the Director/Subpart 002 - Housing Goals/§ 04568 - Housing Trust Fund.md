@@ -80,7 +80,7 @@
 
 #### (B) Grant amount
 
-&emsp;&emsp;In each fiscal year other than fiscal year 2009, the Secretary shall make a grant toeach State in an amount that is equal to the formula amount determined under paragraph (3) for that State.
+&emsp;&emsp;In each fiscal year other than fiscal year 2009, the Secretary shall make a grant to each State in an amount that is equal to the formula amount determined under paragraph (3) for that State.
 
 #### (C) Minimum State allocations
 
@@ -222,7 +222,7 @@
 
 #### (E) Prohibition of consideration of use for meeting housing goals or duty to serve
 
-&emsp;&emsp;In determining compliance with the housing goals under this subpart and the duty to serve underserved markets under section 4565 of this title, the Director may not consider any grant amounts used under this section for eligible activities under paragraph (7). The Director shall give credit toward the achievement of such housing goals and suchduty to serve underserved markets to purchases by the enterprises of mortgages for housing that receives funding from such grant amounts, but only to the extent that such purchases by the enterprises are funded other than with such grant amounts.
+&emsp;&emsp;In determining compliance with the housing goals under this subpart and the duty to serve underserved markets under section 4565 of this title, the Director may not consider any grant amounts used under this section for eligible activities under paragraph (7). The Director shall give credit toward the achievement of such housing goals and such duty to serve underserved markets to purchases by the enterprises of mortgages for housing that receives funding from such grant amounts, but only to the extent that such purchases by the enterprises are funded other than with such grant amounts.
 
 #### (d) Reduction for failure to obtain return of misused funds
 
@@ -366,7 +366,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(iii) in the case of rental housing projects under subsection (c)(7)(A), the extent to which rents for units in the project funded are affordable, especially for extremely low-income families;
 
-&emsp;&emsp;&emsp;(iv) in the case of rental housing projects under subsection (c)(7)(A), the extent ofthe duration for which such rents will remain affordable;
+&emsp;&emsp;&emsp;(iv) in the case of rental housing projects under subsection (c)(7)(A), the extent of the duration for which such rents will remain affordable;
 
 &emsp;&emsp;&emsp;(v) the extent to which the application makes use of other funding sources; and
 
@@ -390,7 +390,7 @@ Any grant under this section to a grantee by a State or State designated entity,
 
 #### References in Text
 
-Section 4103 of title 25, referred to in subsec. (c)(2), was in the original "section 4 of the Native American Housing Assistance and Self-Determination Act of 1997 (25 U.S.C. 4103)", and was translated as meaning section 4 of the Native American Housing Assistance and Self-Determination Act of 1996, to reflect the probable intent of Congress.
+Section 4103 of title 25, referred to in subsec. (c)(2), was in the original "section 4 of the Native American Housing Assistance and Self-Determination Act of 1997 (25 U.S.C. 4103)", and was translated as meaning section4 of the Native American Housing Assistance and Self-Determination Act of 1996, to reflect the probable intent of Congress.
 
 The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (c)(7)(B)(i)(II), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Title II of the Act, known as the HOME Investment Partnerships Act, is classified principally to subchapter II (§12721 et seq.) of chapter 130 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of Title 42 and Tables.
 

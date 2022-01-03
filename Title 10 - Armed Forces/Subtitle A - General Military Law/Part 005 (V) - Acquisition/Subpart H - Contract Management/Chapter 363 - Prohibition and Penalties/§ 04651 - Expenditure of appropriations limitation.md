@@ -12,6 +12,24 @@
 
 (Added Pub. L. 87–651, title II, §207(a), Sept. 7, 1962, 76 Stat. 520, §2207; amended Pub. L. 104–106, div. A, title VIII, §801, Feb. 10, 1996, 110 Stat. 389; Pub. L. 111–350, §5(b)(5), Jan. 4, 2011, 124 Stat. 3842; renumbered §4651, Pub. L. 116–283, div. A, title XVIII, §1862(b), Jan. 1, 2021, 134 Stat. 4277.)
 
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+2207
+
+5:174d.
+
+June 30, 1954, ch. 432, §719, 68 Stat. 353.
+
+The following substitutions are made: "spent" for "expended"; "United States" for "Government"; "if a contract is terminated under clause (1)" for "that in the event any such contract is so terminated"; and "has . . . that it would have had if" for "shall be entitled . . . to pursue . . . as it could pursue in the event of". The word "official" is inserted for clarity. The words "entered into after June 30, 1954" are omitted as executed.
+
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 4651, Aug. 10, 1956, ch. 1041, 70A Stat. 260; Pub. L. 99–145, title XIII, §1301(b(3)(C), Nov. 8, 1985, 99 Stat. 736, related to issuance of arms, tentage, and equipment necessary for proper military training to institutions not maintaining units of the Reserve Officers' Training Corps, prior to repeal by Pub. L. 112–239, div. A, title V, §552(b), Jan. 2, 2013, 126 Stat. 1741.
@@ -19,6 +37,12 @@ A prior section 4651, Aug. 10, 1956, ch. 1041, 70A Stat. 260; Pub. L. 99–145, 
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283 renumbered section 2207 of this title as this section.
+
+<b>2011</b>—Subsec. (b). Pub. L. 111–350 substituted "section 134 of title 41" for "section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11))".
+
+<b>1996</b>—Pub. L. 104–106 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2021 Amendment
 

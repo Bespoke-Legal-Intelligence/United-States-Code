@@ -128,7 +128,7 @@
 
 #### (A) Full waiver
 
-&emsp;&emsp;On the initiative of the Secretary or at the request of an applicant, the Secretary shall grant a full waiver, as appropriate, of the requirement to submit assessments or reports on the investigation for a drug or biological product under this subsection if the applicant certifies and the Secretary finds that—
+&emsp;&emsp;On the initiative of the Secretary or at the request of an applicant, the Secretary shallgrant a full waiver, as appropriate, of the requirement to submit assessments or reports on the investigation for a drug or biological product under this subsection if the applicant certifies and the Secretary finds that—
 
 &emsp;&emsp;&emsp;(i) necessary studies are impossible or highly impracticable (because, for example, the number of patients is so small or the patients are geographically dispersed);
 
@@ -322,7 +322,7 @@ If a person fails to submit a required assessment described in subsection (a)(2)
 
 #### (4) Review of pediatric study plans, assessments, deferrals, deferral extensions, and waivers
 
-&emsp;Consultation on initial pediatric study plans, agreed initial pediatric study plans, andassessments by the committee referred to in paragraph (1) pursuant to this section shall occur prior to approval of an application or supplement for which a pediatric assessment is required under this section. The committee shall review all requests for deferrals, deferral extensions, and waivers from the requirement to submit a pediatric assessment granted under this section and shall provide recommendations as needed to reviewing divisions, including with respect to whether such a supplement, when submitted, shall be considered for priority review.
+&emsp;Consultation on initial pediatric study plans, agreed initial pediatric study plans, and assessments by the committee referred to in paragraph (1) pursuant to this section shall occur prior to approval of an application or supplement for which a pediatric assessment is required under this section. The committee shall review all requests for deferrals, deferral extensions, and waivers from the requirement to submit a pediatric assessment granted under this section and shall provide recommendations as needed to reviewing divisions, including with respect to whether such a supplement, when submitted, shall be considered for priority review.
 
 #### (5) Retrospective review of pediatric assessments, deferrals, and waivers
 
@@ -528,7 +528,7 @@ Subsec. (m). Pub. L. 115–52, §504(a)(4), added subsec. (m).
 
 <b>2016</b>—Subsec. (e)(2)(A). Pub. L. 114–255, §3101(a)(2)(D)(i)(I)(aa), inserted "study" after "initial pediatric" in introductory and concluding provisions.
 
-Subsec. (e)(2)(B). Pub. L. 114–255, §3101(a)(2)(D)(i)(I)(bb), substituted "Content of initialpediatric study plan" for "Content of initial plan" in heading.
+Subsec. (e)(2)(B). Pub. L. 114–255, §3101(a)(2)(D)(i)(I)(bb), substituted "Content of initial pediatric study plan" for "Content of initial plan" in heading.
 
 Subsec. (e)(5). Pub. L. 114–255, §3101(a)(2)(D)(i)(II), inserted "agreed initial pediatric study" before "plan" in heading.
 
@@ -628,7 +628,7 @@ Pub. L. 108–155, §4, Dec. 3, 2003, 117 Stat. 1942, provided that:
 
 "(a)
 
-In General.—Subject to subsection (b), this Act \[enacting this section, amending sections 355, 355a, and 355b of this title and sections 262 and 284m of Title 42, The Public Health and Welfare, enacting provisions set out as a note under section 301 of this title, and amending provisions set out as notes under section 355a of this title and section 284m of Title 42\] and the amendments made by this Act take effect on the date of enactment of this Act \[Dec. 3, 2003\].
+In General.—Subject to subsection (b), this Act \[enacting this section, amending sections 355, 355a, and355b of this title and sections 262 and 284m of Title 42, The Public Health and Welfare, enacting provisions set out as a note under section 301 of this title, and amending provisions set out as notes under section 355a of this title and section 284m of Title 42\] and the amendments made by this Act take effect on the date of enactment of this Act \[Dec. 3, 2003\].
 
 "(b)
 

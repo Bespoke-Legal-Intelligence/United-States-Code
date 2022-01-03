@@ -34,7 +34,7 @@
 
 #### (b) Restriction
 
-The expenditure of funds under this chapter shall be applied only to projects for which a proposal has been approved under subsection (a), except that up to $25,000 each fiscal year may be obligated for a State to carry out an agreement with the Secretary or the Secretary of the Interior under which the personnel, services and equipment of the State and the Federal agency concerned will be made mutually available forthe enforcement of Federal and State laws pertaining to the protection of fishery resources. If otherwise applied, such funds shall be replaced by the State before the State may receive any additional funds under this chapter.
+The expenditure of funds under this chapter shall be applied only to projects for which a proposal has been approved under subsection (a), except that up to $25,000 each fiscal year may be obligated for a State to carry out an agreement with the Secretary or the Secretary of the Interior under which the personnel, services and equipment of the State and the Federal agency concerned will be made mutually available for the enforcement of Federal and State laws pertaining to the protection of fishery resources. If otherwise applied, such funds shall be replaced by the State before the State may receive any additional funds under this chapter.
 
 #### (c) Payment
 
@@ -42,9 +42,13 @@ When the Secretary determines that a project carried out under a proposal approv
 
 (Pub. L. 99–659, title III, §305, Nov. 14, 1986, 100 Stat. 3734.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a)(2)(C), (F), (3), (4)(B) and (b), was in the original "this title", meaning title III of Pub. L. 99–659, Nov. 14, 1986, 100 Stat. 3731, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 4101 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

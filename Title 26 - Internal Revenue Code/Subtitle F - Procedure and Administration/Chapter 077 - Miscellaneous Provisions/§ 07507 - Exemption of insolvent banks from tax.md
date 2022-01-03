@@ -16,7 +16,7 @@ Whenever any bank or trust company, a substantial portion of the business of whi
 
 (3) Any tax, the assessment, collection, or payment of which is barred under subsection (b), or any such tax which has been refunded shall be assessed or reassessed after full payment of such claims of depositors to the extent of the remaining assets segregated or transferred as described in subsection (b).
 
-(4) The running of the statute of limitations on the making of assessment and collection shall be suspended during, and for 90 days beyond, the period for which, pursuant to this section, assessment or collection may not be made, and a tax may be reassessed as provided in paragraphs (2) and (3) of this subsection and collected, during the time within which, had there been no abatement, collection might have been made.
+(4) The running of the statute of limitations on the making of assessment and collection shall be suspended during, and for 90 days beyond, the period for which, pursuant to this section, assessment or collection may not be made, and a tax may be reassessed as provided in paragraphs (2) and (3) of this subsection and collected, during the time within which, had therebeen no abatement, collection might have been made.
 
 #### (d) Exception of employment taxes
 
@@ -24,11 +24,15 @@ This section shall not apply to any tax imposed by chapter 21 or chapter 23.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 897; Pub. L. 94–455, title XIX, §1906(a)(50), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1831, 1834.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
 Subsec. (c). Pub. L. 94–455, §1906(a)(50), struck out "after May 28, 1938" in par. (2) after "or remitted" and in par. (3) after "been refunded".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

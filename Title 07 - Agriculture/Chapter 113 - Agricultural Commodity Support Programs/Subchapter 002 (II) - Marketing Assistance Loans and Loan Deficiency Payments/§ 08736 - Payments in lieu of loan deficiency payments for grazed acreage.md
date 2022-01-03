@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;The amount of a payment made under this section to a producer on a farm described insubsection (a)(1) shall be equal to the amount determined by multiplying—
+&emsp;The amount of a payment made under this section to a producer on a farm described in subsection (a)(1) shall be equal to the amount determined by multiplying—
 
 &emsp;&emsp;(A) the loan deficiency payment rate determined under section 8735(c) of this title in effect, as of the date of the agreement, for the county in which the farm is located; by
 
@@ -58,6 +58,8 @@ A 2008 through 2012 crop of wheat, barley, oats, or triticale planted on acreage
 
 (Pub. L. 110–234, title I, §1206, May 22, 2008, 122 Stat. 959; Pub. L. 110–246, §4(a), title I, §1206, June 18, 2008, 122 Stat. 1664, 1687.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Crop Insurance Act, referred to in subsec. (d), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§1501 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see section 1501 of this title and Tables.
@@ -65,6 +67,8 @@ The Federal Crop Insurance Act, referred to in subsec. (d), is subtitle A of tit
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

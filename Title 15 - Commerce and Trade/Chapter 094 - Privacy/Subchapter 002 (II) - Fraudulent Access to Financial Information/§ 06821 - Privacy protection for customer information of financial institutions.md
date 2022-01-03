@@ -12,7 +12,7 @@ It shall be a violation of this subchapter for any person to obtain or attempt t
 
 #### (b) Prohibition on solicitation of a person to obtain customer information from financial institution under false pretenses
 
-It shall be a violation of this subchapter to request a person to obtain customer information of a financial institution, knowing that the person will obtain, or attempt to obtain, the information from the institution in any manner described in subsection (a).
+It shall be a violation of this subchapter to request a person to obtain customer informationof a financial institution, knowing that the person will obtain, or attempt to obtain, the information from the institution in any manner described in subsection (a).
 
 #### (c) Nonapplicability to law enforcement agencies
 

@@ -25,13 +25,16 @@
 | [326\.](%C2%A7%2000326%20-%20Courts-martial%20of%20National%20Guard%20not%20in%20Federal%20service%20composition%2C%20jurisdiction%2C%20and%20procedures.md) | Courts-martial of National Guard not in Federal service: composition, jurisdiction, and procedures. |
 | [327\.](%C2%A7%2000327%20-%20Courts-martial%20of%20National%20Guard%20not%20in%20Federal%20service%20convening%20authority.md) | Courts-martial of National Guard not in Federal service: convening authority. |
 | [328\.](%C2%A7%2000328%20-%20Active%20Guard%20and%20Reserve%20duty%20Governor%27s%20authority.md) | Active Guard and Reserve duty: Governor's authority. |
-| \[329 to 335. Repealed.\] |  |
+| [329\.](%C2%A7%2000329%20-%20Prohibition%20on%20private%20funding%20for%20interstate%20deployment.md) | Prohibition on private funding for interstate deployment. |
+| \[330 to 335. Repealed.\] |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Pub. L. 117–81, div. A, title V, §512(b), Dec. 27, 2021, 135 Stat. 1683, added item 329.
 
 <b>2006</b>—Pub. L. 109–364, div. A, title V, §526(b), Oct. 17, 2006, 120 Stat. 2196, added item 328.
 
@@ -105,6 +108,7 @@ Air National Guard.—During the period ending on December 31, 2019, under regul
 - [&sect; 00326 - Courts-martial of National Guard not in Federal service composition, jurisdiction, and procedures](%C2%A7%2000326%20-%20Courts-martial%20of%20National%20Guard%20not%20in%20Federal%20service%20composition%2C%20jurisdiction%2C%20and%20procedures.md)
 - [&sect; 00327 - Courts-martial of National Guard not in Federal service convening authority](%C2%A7%2000327%20-%20Courts-martial%20of%20National%20Guard%20not%20in%20Federal%20service%20convening%20authority.md)
 - [&sect; 00328 - Active Guard and Reserve duty Governor's authority](%C2%A7%2000328%20-%20Active%20Guard%20and%20Reserve%20duty%20Governor%27s%20authority.md)
-- [&sect; 00329 to 333 - Repealed. Pub. L. 107&#8211;314, div. A, title V, &sect;512(c)(1), Dec. 2, 2002, 116 Stat. 2537](%C2%A7%2000329%20to%20333%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93314%2C%20div.%20A%2C%20title%20V%2C%20%C2%A7512%28c%29%281%29%2C%20Dec.%202%2C%202002%2C%20116%20Stat.%202537.md)
+- [&sect; 00329 - Prohibition on private funding for interstate deployment](%C2%A7%2000329%20-%20Prohibition%20on%20private%20funding%20for%20interstate%20deployment.md)
+- [&sect; 00330 to 333 - Repealed. Pub. L. 107&#8211;314, div. A, title V, &sect;512(c)(1), Dec. 2, 2002, 116 Stat. 2537](%C2%A7%2000330%20to%20333%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93314%2C%20div.%20A%2C%20title%20V%2C%20%C2%A7512%28c%29%281%29%2C%20Dec.%202%2C%202002%2C%20116%20Stat.%202537.md)
 - [&sect; 00334 - Repealed. Pub. L. 97&#8211;124, &sect;3, Dec. 29, 1981, 95 Stat. 1666](%C2%A7%2000334%20-%20Repealed.%20Pub.%20L.%2097%E2%80%93124%2C%20%C2%A73%2C%20Dec.%2029%2C%201981%2C%2095%20Stat.%201666.md)
 - [&sect; 00335 - Repealed. Pub. L. 98&#8211;525, title IV, &sect;414(b)(2)(A), Oct. 19, 1984, 98 Stat. 2519](%C2%A7%2000335%20-%20Repealed.%20Pub.%20L.%2098%E2%80%93525%2C%20title%20IV%2C%20%C2%A7414%28b%29%282%29%28A%29%2C%20Oct.%2019%2C%201984%2C%2098%20Stat.%202519.md)

@@ -18,6 +18,8 @@
 
 (Added Pub. L. 96–513, title III, §351, Dec. 12, 1980, 94 Stat. 2902, §5155; amended Pub. L. 97–22, §6(a), July 10, 1981, 95 Stat. 129; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; renumbered §5150, Pub. L. 99–433, title V, §514(a)(2), Oct. 1, 1986, 100 Stat. 1054; Pub. L. 99–661, div. A, title XIII, §1343(a)(23), Nov. 14, 1986, 100 Stat. 3994; Pub. L. 100–26, §3(7), Apr. 21, 1987, 101 Stat. 274; Pub. L. 102–190, div. A, title X, §1061(a)(22)(A), Dec. 5, 1991, 105 Stat. 1473; Pub. L. 107–314, div. A, title V, §504(a)(2), Dec. 2, 2002, 116 Stat. 2531; Pub. L. 112–239, div. A, title V, §501(b), Jan. 2, 2013, 126 Stat. 1714; Pub. L. 114–328, div. A, title V, §502(hh), Dec. 23, 2016, 130 Stat. 2105; renumbered §8090, Pub. L. 115–232, div. A, title VIII, §807(a)(2), Aug. 13, 2018, 132 Stat. 1834.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 5150 of this title as this section.
@@ -26,7 +28,7 @@
 
 Subsec. (c). Pub. L. 114–328, §502(hh)(2), struck out subsec. (c) which read as follows: "The Secretary of the Navy, whenever the needs of the service require, may convene a selection board under section 611(a) of this title to select an officer in the Nurse Corps or in the Medical Service Corps (if such corps has been established under subsection (a)) for promotion to the grade of rear admiral, in the case of an officer in the Nurse Corps, or rear admiral (lower half), in the case of an officer in the Medical Service Corps. An officer promoted pursuant to such a selection shall be appointed by the Secretary to the position of Director of the Nurse Corps or Director of the Medical Service Corps, respectively, for a term of four years, to serve at the pleasure of the Secretary."
 
-<b>2013</b>—Subsec. (c). Pub. L. 112–239 struck out at end "For the purpose of computing the total number of flag officers in the staff corps of the Navy under section 526of this title, an officer so appointed shall be considered an additional number in grade."
+<b>2013</b>—Subsec. (c). Pub. L. 112–239 struck out at end "For the purpose of computing the total number of flag officers in the staff corps of the Navy under section 526 of this title, an officer so appointed shall be considered an additional number in grade."
 
 <b>2002</b>—Subsec. (c). Pub. L. 107–314 substituted "for promotion to the grade of rear admiral, in the case of an officer in the Nurse Corps, or rear admiral (lower half), in the case of an officer in the Medical Service Corps" for "for promotion to the grade of rear admiral (lower half)" in first sentence.
 
@@ -42,6 +44,8 @@ Subsec. (c). Pub. L. 99–661, as amended by Pub. L. 100–26, substituted "rear
 
 Pub. L. 97–22 substituted "Nurse Corps or in the Medical Service Corps (if such corps has been established under subsection (a)) for promotion to the grade of commodore admiral" for "Nurse Corps or Medical Service Corps for promotion to the grade of commodore admiral or rear admiral, as appropriate", substituted "An officer promoted pursuant to such a selection shall be appointed by the Secretary to the position of Director of the Nurse Corps or Director of the Medical Service Corps, respectively, for a term of four years, to serve at the pleasure of the Secretary" for "An officer so selected shall be appointed by the President, by and with the advice and consent of the Senate, for a term of four years to serve in the position, respectively, of Director of the Nurse Corps or Director of the Medical Service Corps", and inserted provision that for the purpose of computing the total number of flag officers in the staff corps of the Navy under section 5444 of this title, an officer so appointed shall be considered an additional number in grade.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
@@ -56,7 +60,7 @@ Amendment by Pub. L. 97–86 effective Sept. 15, 1981, see section 405(f) of Pub
 
 #### Effective Date
 
-Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of this title.
+Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out asan Effective Date of 1980 Amendment note under section 101 of this title.
 
 #### Transition Provisions Under Defense Officer Personnel Management Act
 

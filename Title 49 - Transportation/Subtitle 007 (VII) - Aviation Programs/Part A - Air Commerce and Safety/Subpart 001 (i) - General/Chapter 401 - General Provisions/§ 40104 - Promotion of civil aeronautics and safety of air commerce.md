@@ -108,6 +108,8 @@ Pub. L. 103–429, §6(47)(C)
 
 Oct. 15, 1966, Pub. L. 89–670, §6(c)(1) (words after last comma), 80 Stat. 938; Jan. 12, 1983, Pub. L. 97–449, §7(b), 96 Stat. 2444.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2020</b>—Subsec. (b). Pub. L. 116–260 designated existing provisions as par. (1), inserted heading, and added par. (2).
@@ -129,6 +131,8 @@ Safety of" before "
 Air Commerce" in heading and "safety of" before "air commerce" in text.
 
 <b>1994</b>—Pub. L. 103–429 designated existing provisions as subsec. (a), inserted heading, substituted "carrying out this subsection" for "carrying out this section", and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

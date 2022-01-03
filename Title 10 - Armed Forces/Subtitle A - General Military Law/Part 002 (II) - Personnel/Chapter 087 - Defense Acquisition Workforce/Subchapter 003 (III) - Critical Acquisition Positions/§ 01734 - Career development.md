@@ -4,7 +4,7 @@
 
 Three-Year Assignment Period.—(1) Except as provided under subsection (b) and paragraph (3), the Secretary of each military department, acting through the service acquisition executive for that department, shall provide that any person who is assigned to a critical acquisition position shall be assigned to the position for not fewer than three years. Except as provided in subsection (d), the Secretary concerned may not reassign a person from such an assignment before the end of the three-year period.
 
-(2) A person may not be assigned to a critical acquisition position unless the person executes a written agreement to remain on active duty (in the case of a member of the armed forces) or toremain in Federal service (in the case of an employee) in that position for at least three years. The service obligation contained in such a written agreement shall remain in effect unless and until waived by the Secretary concerned under subsection (b).
+(2) A person may not be assigned to a critical acquisition position unless the person executes a written agreement to remain on active duty (in the case of a member of the armed forces) or to remain in Federal service (in the case of an employee) in that position for at least three years. The service obligation contained in such a written agreement shall remain in effect unless and until waived by the Secretary concerned under subsection (b).
 
 (3) The assignment period requirement of the first sentence of paragraph (1) is waived for any individual serving as a deputy program manager if the individual is assigned to a critical acquisition position upon completion of the individual's assignment as a deputy program manager.
 
@@ -26,11 +26,11 @@ Assignment Period for Program Managers.—(1) The Secretary of Defense shall pre
 
 Major Milestone Regulations.—(1) The Secretary of Defense shall issue regulations defining what constitutes major milestones for purposes of this section. The service acquisition executive of each military department shall establish major milestones at the beginning of a major defense acquisition program consistent with such regulations and shall use such milestones to determine the assignment period for program managers and deputy program managers under subsection (b).
 
-(2) The regulations shall require that major milestones be clearly definable and measurable events that mark the completion of a significant phase in a major defense acquisition program and that such milestones be the same as the milestones contained in the baseline description established for the program pursuant to section 2435(a) of this title. The Secretary shall require that the major milestones as defined in the regulations be included in the Selected Acquisition Report required for such program under section 2432 of this title.
+(2) The regulations shall require that major milestones be clearly definable and measurable events that mark the completion of a significant phase in a major defense acquisition program and that such milestones be the same as the milestones contained in the baseline description established for the program pursuant to section 4214(a) of this title. The Secretary shall require that the major milestones as defined in the regulations be included in the Selected Acquisition Report required for such program under section 4351 of this title.
 
 (d)
 
-Waiver of Assignment Period.—(1) With respect to a person assigned to a critical acquisition position, the Secretary concerned may waive the prohibition on reassignment of that person (in subsection (a)(1) or (b)(1)) and the service obligation in an agreement executed by that person (under subsection (a)(2) or (b)(2)), but only in exceptional circumstances in which a waiver is necessary for reasons permitted in regulations prescribed by the Secretary of Defense.
+Waiver of Assignment Period.—(1) With respect to a person assigned to a critical acquisition position, the Secretary concerned may waive the prohibition on reassignment of that person (in subsection (a)(1) or (b)(1)) and theservice obligation in an agreement executed by that person (under subsection (a)(2) or (b)(2)), but only in exceptional circumstances in which a waiver is necessary for reasons permitted in regulations prescribed by the Secretary of Defense.
 
 (2) With respect to each waiver granted under this subsection, the service acquisition executive (or his delegate) shall set forth in a written document the rationale for the decision to grant the waiver.
 
@@ -50,25 +50,17 @@ Exchange Program.—The Secretary of Defense shall establish, for purposes of br
 
 (h)
 
-Responsibility for Assignments.—The Secretary of each military department, acting through the service acquisition executive for that department, is responsible for making assignments of civilian and military personnel ofthat military department who are members of the acquisition workforce to critical acquisition positions.
+Responsibility for Assignments.—The Secretary of each military department, acting through the service acquisition executive for that department, is responsible for making assignments of civilian and military personnel of that military department who are members of the acquisition workforce to critical acquisition positions.
 
-(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1646; amended Pub. L. 102–484, div. A, title VIII, §812(a), (b), Oct. 23, 1992, 106 Stat. 2450; Pub. L. 104–201, div. A, title X, §1074(a)(9)(D), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 107–107, div. A, title X, §1048(e)(5), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 108–136, div. A, title VIII, §§831(b)(4), 832(b)(3), 833(2), (3), Nov. 24, 2003, 117 Stat. 1549, 1550; Pub. L. 116–92, div. A, title VIII, §861(j)(10), Dec. 20, 2019, 133 Stat. 1520; Pub. L. 116–283, div. A, title XVIII, §§1849(m), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4264, 4294.)
+(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1646; amended Pub. L. 102–484, div. A, title VIII, §812(a), (b), Oct. 23, 1992, 106 Stat. 2450; Pub. L. 104–201, div. A, title X, §1074(a)(9)(D), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 107–107, div. A, title X, §1048(e)(5), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 108–136, div. A, title VIII, §§831(b)(4), 832(b)(3), 833(2), (3), Nov. 24, 2003, 117 Stat. 1549, 1550; Pub. L. 116–92, div. A, title VIII, §861(j)(10), Dec. 20, 2019, 133 Stat. 1520; Pub. L. 116–283, div. A, title XVIII, §1849(f), formerly §1849(m), Jan. 1, 2021, 134 Stat. 4264, renumbered §1849(f) and amended Pub. L. 117–81, div. A, title XVII, §1701(o)(5)(B), (6)(D), Dec. 27, 2021, 135 Stat. 2147; Pub. L. 117–81, div. A, title XVII, §1702(a)(3), Dec. 27, 2021, 135 Stat. 2155.)
 
-#### Amendment of Section
-
-<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1849(m), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4264, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is amended as follows:</i>
-
-<i>(1) in subsection (c)(2), by striking "section 2432" and inserting "chapter 324"; and</i>
-
-<i>(2) for any other reference in the text to a source section that is redesignated by title XVIII of Pub. L. 116–283, by striking such reference and inserting a reference to the appropriate section as so redesignated.</i>
-
-<i>See 2021 Amendment notes below.</i>
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
-<b>2021</b>—Subsec. (c)(2). Pub. L. 116–283, §1883(b)(2), substituted "section 4214(a)" for "section 2435(a)".
+<b>2021</b>—Subsec. (c)(2). Pub. L. 117–81, §1702(a)(3), substituted "section 4214(a)" for "section 2435(a)".
 
-Pub. L. 116–283, §1849(m), substituted "chapter 324" for "section 2432".
+Pub. L. 116–283, §1849(f), formerly §1849(m), as renumbered and amended by Pub. L. 117–81, §1701(o)(5)(B), (6)(D), substituted "section 4351" for "section 2432".
 
 <b>2019</b>—Subsec. (e)(1). Pub. L. 116–92, §861(j)(10)(A), substituted "of the acquisition workforce" for "of the Acquisition Corps".
 
@@ -110,7 +102,11 @@ Subsec. (b)(3). Pub. L. 102–484, §812(b)(2)(B), added par. (3).
 
 Subsec. (e)(2). Pub. L. 102–484, §812(a), inserted at end "Reviews under this subsection shall be carried out after October 1, 1995, but may be carried out before that date."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2021 Amendment
+
+Amendment by section 1701(o)(5)(B), (6)(D) of Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and note below.
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 

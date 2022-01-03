@@ -18,19 +18,23 @@ If a mediation program is available under title V of the Agricultural Credit Act
 
 (Pub. L. 103–354, title II, §275, Oct. 13, 1994, 108 Stat. 3230; Pub. L. 110–234, title XII, §12032, May 22, 2008, 122 Stat. 1391; Pub. L. 110–246, §4(a), title XII, §12032, June 18, 2008, 122 Stat. 1664, 2153; Pub. L. 115–334, title XII, §12404(b)(3), Dec. 20, 2018, 132 Stat. 4975.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Agricultural Credit Act of 1987, referred to in subsec. (c), is Pub. L. 100–233, Jan. 6, 1988, 101 Stat. 1568. Title V of the Act is classified principally to chapter 82 (§5101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1988 Amendments note set out under section 2001 of Title 12, Banks and Banking, and Tables.
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
 <b>2018</b>—Subsec. (b). Pub. L. 115–334 substituted "Farm" for "Consolidated Farm" in two places.
 
 <b>2008</b>—Pub. L. 110–246, §12032, designated the three sentences of existing provisions as subsecs. (a) to (c), respectively, inserted headings, and in subsec. (c) designated part of existing provisions as par. (1) and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

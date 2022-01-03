@@ -28,7 +28,7 @@ For the initial year of implementation, license fees totaling at least $1,750,00
 
 #### (g) Grounds for denial of forwarding of license application
 
-The Secretary, in consultation with the Secretary of State, may determine that a licenseapplication should not be forwarded to the Administrator for one of the following reasons:
+The Secretary, in consultation with the Secretary of State, may determine that a license application should not be forwarded to the Administrator for one of the following reasons:
 
 &emsp;(1) where the application is not in accordance with the Treaty or the procedures established by the Secretary;
 
@@ -51,6 +51,8 @@ Notwithstanding the requirements of—
 > any vessel documented under the laws of the United States as of November 3, 1995, for which a license has been issued under subsection (a) may fish for tuna in the Treaty Area, including those waters subject to the jurisdiction of the United States in accordance with international law, subject to the provisions of the treaty <sup>3</sup> and this chapter, provided that no such vessel fishing in the Treaty Area intentionally deploys a purse seine net to encircle any dolphin or other marine mammal in the course of fishing under the provisions of the Treaty or this chapter.
 
 (Pub. L. 100–330, §9, June 7, 1988, 102 Stat. 596; Pub. L. 104–43, title VIII, §801, Nov. 3, 1995, 109 Stat. 395.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

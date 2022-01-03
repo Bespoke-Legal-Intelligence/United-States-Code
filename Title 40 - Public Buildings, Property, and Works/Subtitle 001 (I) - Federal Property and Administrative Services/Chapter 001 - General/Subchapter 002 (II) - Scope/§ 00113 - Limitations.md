@@ -24,11 +24,11 @@ Other Limitations.—Nothing in this subtitle impairs or affects the authority o
 
 &emsp;(2) an executive agency, with respect to any program conducted for purposes of resale, price support, grants to farmers, stabilization, transfer to foreign governments, or foreign aid, relief, or rehabilitation, but the agency carrying out the program shall, to the maximum extent practicable, consistent with the purposes of the program and the effective, efficient conduct of agency business, coordinate its operations with the requirements of this subtitle and with policies and regulations prescribed under this subtitle;
 
-&emsp;(3) an executive agency named in chapter 137 of title 10, and the head of the agency, with respect to the administration of that chapter;
+&emsp;(3) an executive agency named in section 3063 of title 10, and the head of the agency, with respect to the administration of the provisions of that title referred to in section 3016 of such title as "chapter 137 legacy provisions";
 
 &emsp;(4) the Secretary of Defense with respect to property required for or located in occupied territories;
 
-&emsp;(5) the Secretary of Defense with respect to the administration of section 2535 of title 10;
+&emsp;(5) the Secretary of Defense with respect to the administration of section 4881 of title 10;
 
 &emsp;(6) the Secretary of Defense and the Secretaries of the Army, Navy, and Air Force with respect to the administration of the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98 et seq.);
 
@@ -78,7 +78,7 @@ Other Limitations.—Nothing in this subtitle impairs or affects the authority o
 
 &emsp;(20) the Office of the Director of National Intelligence.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1066; Pub. L. 108–458, title I, §1080, Dec. 17, 2004, 118 Stat. 3696; Pub. L. 111–350, §5(l)(4), Jan. 4, 2011, 124 Stat. 3851.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1066; Pub. L. 108–458, title I, §1080, Dec. 17, 2004, 118 Stat. 3696; Pub. L. 111–350, §5(l)(4), Jan. 4, 2011, 124 Stat. 3851; Pub. L. 117–81, div. A, title XVII, §1702(g)(1), Dec. 27, 2021, 135 Stat. 2157.)
 
 Historical and Revision Notes
 
@@ -124,7 +124,7 @@ In subsection (e)(3), the words "chapter 137 of title 10" and "that chapter" are
 
 In subsection (e)(4), the words "Secretary of Defense" are substituted for "National Military Establishment" in section 602(d)(4) of the Federal Property and Administrative Services Act of 1949, because of section 12(a), (g) of the National Security Act Amendments of 1949 (ch. 412, 63 Stat. 591) and because of 10:113(a).
 
-In subsection (e)(5), the words "section 2535 of title 10" are substituted for "the National Industrial Reserve Act of 1948 \[50 U.S.C. 451 et seq.\]" because the National Industrial Reserve Act was renamed "Defense Industrial Reserve Act" by section 809 of the Departmentof Defense Appropriation Authorization Act, 1974 (Public Law 93–155, 87 Stat. 617), and transferred to section 2535 of title 10 by section 4235 of the Defense Conversion, Reinvestment and Transition Assistance Act of 1992, which was included as Division D in the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484, title XLII, 106 Stat. 2690).
+In subsection (e)(5), the words "section 2535 of title 10" are substituted for "the National Industrial Reserve Act of 1948 \[50 U.S.C. 451 et seq.\]" because the National Industrial Reserve Act was renamed "Defense Industrial Reserve Act" by section 809 of the Department of Defense Appropriation Authorization Act, 1974 (Public Law 93–155, 87 Stat. 617), and transferred to section 2535 of title 10 by section 4235 of the Defense Conversion, Reinvestment and Transition Assistance Act of 1992, which was included as Division D in the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484, title XLII, 106 Stat. 2690).
 
 In subsection (e)(6), the words "the Munitions Board" are omitted because sections 1 and 2 of Reorganization Plan No. 6 of 1953 (eff. June 30, 1953, 67 Stat. 638) abolished the Munitions Board and transferred the Board's functions to the Secretary of Defense.
 
@@ -164,9 +164,13 @@ The National Housing Act, referred to in subsec. (e)(10)(B)(ii), is act June 27,
 
 The Federal Deposit Insurance Act, referred to in subsec. (e)(10)(B)(ii), is act Sept. 21, 1950, ch. 967, §2, 64 Stat. 873, as amended, which is classified generally to chapter 16 (§1811 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of Title 12 and Tables.
 
-The Bonneville Project Act of 1937, referred to in subsec. (e)(18), is act Aug. 20, 1937, ch. 720, 50 Stat. 731, as amended, which is classified generally to chapter 12B (§832 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 832 of Title 16 and Tables.
+The Bonneville Project Act of 1937, referred to in subsec. (e)(18), is act Aug. 20, 1937, ch. 720, 50 Stat. 731, asamended, which is classified generally to chapter 12B (§832 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 832 of Title 16 and Tables.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (e)(3). Pub. L. 117–81, §1702(g)(1)(A), substituted "section 3063" for "chapter 137" and "the provisions of that title referred to in section 3016 of such title as 'chapter 137 legacy provisions';" for "that chapter;".
+
+Subsec. (e)(5). Pub. L. 117–81, §1702(g)(1)(B), substituted "section 4881" for "section 2535".
 
 <b>2011</b>—Subsec. (b). Pub. L. 111–350 substituted "Division B (Except Sections 1704 and 2303) of Subtitle I of Title 41" for "the Office of Federal Procurement Policy Act" in heading and "division B (Except Sections 1704 and 2303) of subtitle I of title 41" for "the Office of Federal Procurement Policy Act (41 U.S.C. 401 et seq.)" in text.
 

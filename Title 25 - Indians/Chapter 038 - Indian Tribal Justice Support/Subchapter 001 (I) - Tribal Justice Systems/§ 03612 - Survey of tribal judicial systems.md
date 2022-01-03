@@ -30,5 +30,5 @@ The non-Federal entity shall actively consult with Indian tribes and tribal orga
 
 #### Change of Name
 
-Subcommittee on Native American Affairs changed to Subcommittee on Native American and Insular Affairs.
+Subcommittee on Native American Affairs changed to Subcommittee for Indigenous Peoples of the United States.
 

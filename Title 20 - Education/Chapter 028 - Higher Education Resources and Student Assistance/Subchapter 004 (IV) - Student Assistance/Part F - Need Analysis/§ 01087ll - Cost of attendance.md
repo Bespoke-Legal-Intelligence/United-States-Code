@@ -24,7 +24,7 @@ For the purpose of this subchapter, the term "cost of attendance" means—
 
 &emsp;&emsp;(C) room and board costs (determined in accordance with paragraph (3)), except that a student may receive an allowance for such costs under this subparagraph for not more than 3 semesters or the equivalent, of which not more than 2 semesters or the equivalent may be consecutive;
 
-&emsp;(5) for a student engaged in a program of study by correspondence, only tuition and fees and, if required, books and supplies, travel, and room and board costs incurred specifically in fulfilling a required period of residential training;
+&emsp;(5) for a student engaged in a program of study by correspondence, only tuition and fees and, if required, books and supplies, travel, and room and board costs incurred specificallyin fulfilling a required period of residential training;
 
 &emsp;(6) for incarcerated students only tuition and fees and, if required, books and supplies;
 
@@ -66,7 +66,7 @@ For the purpose of this subchapter, the term "cost of attendance" means—
 
 &emsp;<i>(4) an allowance for miscellaneous personal expenses, for a student attending the institution on at least a half-time basis, as determined by the institution;</i>
 
-&emsp;<i>(5) an allowance for living expenses, including food and housing costs, to be incurred by the student attending the institution on at least a half-</i><i>time basis, as determined by the institution, which shall include—</i>
+&emsp;<i>(5) an allowance for living expenses, including food and housing costs, to be incurred by the student attending the institution on at least a half-time basis, as determined by the institution, which shall include—</i>
 
 &emsp;&emsp;<i>(A) for a student electing institutionally owned or operated food services, such as board or meal plans, a standard allowance for such services that provides the equivalent of three meals each day;</i>
 
@@ -116,6 +116,8 @@ For the purpose of this subchapter, the term "cost of attendance" means—
 
 <i>See 2020 Amendment note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2020</b>—Pub. L. 116–260 amended section generally. Prior to amendment, section consisted of pars. (1) to (13) which defined "cost of attendance".
@@ -140,6 +142,8 @@ Par. (11). Pub. L. 105–244, §471(4), substituted "engaged" for "placed".
 
 <b>1992</b>—Pub. L. 102–325 amended section generally, revising and restating as pars. (1) to (11) provisions formerly contained in pars. (1) to (9).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2020 Amendment
 
 Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
@@ -162,5 +166,5 @@ Amendment by Pub. L. 103–208 effective as if included in the Higher Education 
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–325 applicable with respect to determinations of need under this part for award years beginning on or after July 1, 1993, see section 471(b) of Pub. L. 102–325, set out as a note under section 1087kk of this title.
+Amendment by Pub. L. 102–325 applicable with respect to determinations of need under this part foraward years beginning on or after July 1, 1993, see section 471(b) of Pub. L. 102–325, set out as a note under section 1087kk of this title.
 

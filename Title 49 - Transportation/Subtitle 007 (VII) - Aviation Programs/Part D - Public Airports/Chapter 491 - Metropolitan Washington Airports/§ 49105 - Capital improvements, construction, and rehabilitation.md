@@ -48,6 +48,8 @@ Oct. 18, 1986, Pub. L. 99–500, title VI, §6006(b), 100 Stat. 1783–379.
 
 Oct. 30, 1986, Pub. L. 99–591, title VI, §6006(b), 100 Stat. 3341–382.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 49105 was renumbered section 50105 of this title.

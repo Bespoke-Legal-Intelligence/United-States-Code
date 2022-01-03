@@ -10,9 +10,11 @@ Upon receipt of a certification from the Commission under section 9005 for payme
 
 #### (c) Insufficient amounts in fund
 
-If at the time of a certification by the Commission under section 9005 for payment to the eligible candidates of a political party, the Secretary determines that the moneys in the fund are not, or may not be, sufficient to satisfy the full entitlements of the eligible candidates of all political parties, he shall withhold from such payment such amount as he determines to be necessary to assure that the eligible candidates of each political party will receive their pro rata share of their full entitlement. Amounts withheld by reason of the preceding sentence shall be paid when the Secretary determines that there are sufficient moneys in the fund to pay such amounts, or portions thereof, to all eligible candidates from whom amounts have been withheld, but, if there are not sufficient moneys in the fund to satisfy the full entitlement of the eligible candidates of all political parties, the amounts so withheld shall be paid in such manner that the eligible candidates of each political party receive their pro rata share of their full entitlement. In any case in which the Secretary determines that there are insufficient moneys in the fund to make payments under subsection (b), section 9008(i)(2), and section 9037(b), moneys shall not be made available from any other source for the purpose of making such payments.
+If at the time of a certification by the Commission under section 9005 for payment to the eligible candidates of a political party, the Secretary determines that the moneys in the fund are not, or may not be, sufficient to satisfy thefull entitlements of the eligible candidates of all political parties, he shall withhold from such payment such amount as he determines to be necessary to assure that the eligible candidates of each political party will receive their pro rata share of their full entitlement. Amounts withheld by reason of the preceding sentence shall be paid when the Secretary determines that there are sufficient moneys in the fund to pay such amounts, or portions thereof, to all eligible candidates from whom amounts have been withheld, but, if there are not sufficient moneys in the fund to satisfy the full entitlement of the eligible candidates of all political parties, the amounts so withheld shall be paid in such manner that the eligible candidates of each political party receive their pro rata share of their full entitlement. In any case in which the Secretary determines that there are insufficient moneys in the fund to make payments under subsection (b), section 9008(i)(2), and section 9037(b), moneys shall not be made available from any other source for the purpose of making such payments.
 
 (Added Pub. L. 92–178, title VIII, §801, Dec. 10, 1971, 85 Stat. 567; amended Pub. L. 93–53, §6(b), July 1, 1973, 87 Stat. 138; Pub. L. 93–443, title IV, §§403(a), 404(c)(8), Oct. 15, 1974, 88 Stat. 1291, 1292; Pub. L. 94–283, title III, §302, May 11, 1976, 90 Stat. 498; Pub. L. 94–455, title XIX, §§1906(b)(13)(A), (B), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 110–172, §11(a)(43), Dec. 29, 2007, 121 Stat. 2488; Pub. L. 113–94, §2(b)(1), Apr. 3, 2014, 128 Stat. 1085.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -26,7 +28,7 @@ Pub. L. 94–283, §302(a), redesignated subsec. (c) as (b). Former subsec. (b),
 
 Subsec. (c). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
-Pub. L. 94–283, §302(a), (b), redesignated subsec. (d) as (c) and inserted provision that moneys not be made available from other sources for the purpose of making payments whenever the Secretary or his delegate determines that there are insufficient moneys in the fund tomake payments under subsec. (b), section 9008(b)(3), and section 9037(b). Former subsec. (c) redesignated (b).
+Pub. L. 94–283, §302(a), (b), redesignated subsec. (d) as (c) and inserted provision that moneys not be made available from other sources for the purpose of making payments whenever the Secretary or his delegate determines that there are insufficient moneys in the fund to make payments under subsec. (b), section 9008(b)(3), and section 9037(b). Former subsec. (c) redesignated (b).
 
 Subsec. (d). Pub. L. 94–283, §302(a), redesignated subsec. (d) as (c).
 
@@ -41,6 +43,8 @@ Subsec. (b). Pub. L. 93–53 substituted "Presidential" for "presidential".
 Subsec. (c). Pub. L. 93–53 substituted provisions for payment "out of the fund", for such payment "out of the specific account in the fund" and struck out penultimate sentence limiting payments to eligible candidates from the account designated for them to the amounts in such account at the time of payment.
 
 Subsec. (d). Pub. L. 93–53 substituted provisions for payments to eligible candidates when there are insufficient amounts in the fund, for former provisions respecting transfers from general account to separate accounts to remedy insufficient moneys to satisfy any unpaid entitlement of the eligible candidates.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1974 Amendment
 

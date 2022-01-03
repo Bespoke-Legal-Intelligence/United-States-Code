@@ -22,7 +22,7 @@
 
 #### (3) Application of subsection
 
-&emsp;The provisions of this subsection shall apply to distilled spirits which are filled into casks or packages, as authorized by law, after entryand deposit on bonded premises, whether by recasking, filling from storage tanks, consolidation of packages, or otherwise; and the quantity filled into such casks or packages shall be deemed to be the original quantity for the purpose of this subsection, in the case of loss from such casks or packages.
+&emsp;The provisions of this subsection shall apply to distilled spirits which are filled into casks or packages, as authorized by law, after entry and deposit on bonded premises, whether by recasking, filling from storage tanks, consolidation of packages, or otherwise; and the quantity filled into such casks or packages shall be deemed to be the original quantity for the purpose of this subsection, in the case of loss from such casks or packages.
 
 #### (c) Distilled spirits not bonded
 
@@ -44,9 +44,11 @@ Distilled spirits smuggled or brought into the United States unlawfully shall, f
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1320; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, §§804(a), 807(a)(4), July 26, 1979, 93 Stat. 274, 280.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
-A prior section 5006, acts Aug. 16, 1954, ch. 736, 68A Stat. 599; Sept. 2, 1958, Pub. L. 85–859, title II, §206(a), 72 Stat. 1431, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
+A prior section 5006, acts Aug. 16, 1954, ch. 736, 68A Stat. 599; Sept. 2, 1958, Pub. L. 85–859, title II, §206(a), 72 Stat. 1431, consisted of provisions similar to thosecomprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
 
 Provisions similar to those comprising subsecs. (a)(2)(A), (3) of this section were contained in prior sections 5007(e)(1) and 5232(a), act Aug. 16, 1954, ch. 736, 68A Stat. 600, 643, prior to the general revision of this chapter by Pub. L. 85–859.
 
@@ -61,6 +63,8 @@ Subsec. (b)(1). Pub. L. 96–39, §807(a)(4)(A), (B), substituted "on bonded pre
 Subsec. (b)(2), (3). Pub. L. 96–39, §807(a)(4)(B), substituted "on bonded premises" for "in storage in internal revenue bond".
 
 <b>1976</b>—Subsecs. (a) to (c). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1979 Amendment
 

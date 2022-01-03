@@ -4,7 +4,7 @@
 
 (1) The provisions of the constitution or the laws of any State expressly limiting the rate or amount of interest, discount points, finance charges, or other charges which may be charged, taken, received, or reserved shall not apply to any loan, mortgage, credit sale, or advance which is—
 
-&emsp;(A) secured by a first lien on residential real property, by a first lien on all stock allocated to a dwelling unit in a residential cooperative housing corporation, or by a first lien on a residential manufactured home;
+&emsp;(A) secured by a first lien on residential real property, by a first lien on all stock allocated to a dwelling unit in a residential cooperativehousing corporation, or by a first lien on a residential manufactured home;
 
 &emsp;(B) made after March 31, 1980; and
 
@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(v) the requirement contained in section 527(b)(2)(D) of such Act that a creditor make or invest in loans aggregating more than $1,000,000 per year shall not apply to a creditor selling residential manufactured homes financed by loans or credit sales secured by first liens on residential manufactured homes if the creditor has an arrangement to sell such loans or credit sales in whole or in part, or if such loans or credit sales are sold in whole or in part to a lender, institution, or creditor described in section 527(b) of such Act or in this section or a creditor, as defined in section 103(f) <sup>1</sup> of the Truth in Lending Act, as such section was in effect on the day preceding March 31, 1980, if such creditor makes or invests in residential real estate loans or loans or credit sales secured by first liens on residential manufactured homes aggregating more than $1,000,000 per year; and
 
-&emsp;&emsp;(vi) the term "lender" in section 527(b)(2)(A) of such Act shall also be deemedto include any lender approved by the Secretary of Housing and Urban Development for participation in any mortgage insurance program under the National Housing Act \[12 U.S.C. 1701 et seq.\], and any individual who finances the sale or exchange of residential real property or a residential manufactured home which such individual owns and which such individual occupies or has occupied as his principal residence.
+&emsp;&emsp;(vi) the term "lender" in section 527(b)(2)(A) of such Act shall also be deemed to include any lender approved by the Secretary of Housing and Urban Development for participation in any mortgage insurance program under the National Housing Act \[12 U.S.C. 1701 et seq.\], and any individual who finances the sale or exchange of residential real property or a residential manufactured home which such individual owns and which such individual occupies or has occupied as his principal residence.
 
 (2) The provisions of the constitution or law of any State expressly limiting the rate or amount of interest which may be charged, taken, received, or reserved shall not apply to any deposit or account held by, or other obligation of a depository institution. For purposes of this paragraph, the term "depository institution" means—
 

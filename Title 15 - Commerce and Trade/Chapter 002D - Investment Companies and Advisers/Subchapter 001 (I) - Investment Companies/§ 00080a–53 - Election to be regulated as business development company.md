@@ -18,9 +18,13 @@ Whenever the Commission finds, on its own motion or upon application, that a bus
 
 (Aug. 22, 1940, ch. 686, title I, §54, as added Pub. L. 96–477, title I, §105, Oct. 21, 1980, 94 Stat. 2278; amended Pub. L. 100–181, title VI, §625, Dec. 4, 1987, 101 Stat. 1262.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1987</b>—Subsec. (a). Pub. L. 100–181 substituted "defined in section" for "defined in sections".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Parity for Business Development Companies Regarding Offering and Proxy Rules
 

@@ -12,6 +12,8 @@ In this chapter:
 
 (Pub. L. 107–12, §5, May 30, 2001, 115 Stat. 22.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in introductory provisions, was in the original "this Act", meaning Pub. L. 107–12, May. 30, 2001, 115 Stat. 20, known as the Public Safety Officer Medal of Valor Act of 2001, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 15201 of this title and Tables.

@@ -6,7 +6,7 @@ Sums authorized to be appropriated to carry out this section for each of fiscal 
 
 #### (b) Reservation of funds for planning
 
-Each State shall reserve each fiscal year 1 percent of the sums allotted to such State underthis section for such fiscal year, or $100,000, whichever amount is greater, to carry out planning under sections 1285(j) and 1313(e) of this title.
+Each State shall reserve each fiscal year 1 percent of the sums allotted to such State under this section for such fiscal year, or $100,000, whichever amount is greater, to carry out planning under sections 1285(j) and 1313(e) of this title.
 
 #### (c) Allotment period
 

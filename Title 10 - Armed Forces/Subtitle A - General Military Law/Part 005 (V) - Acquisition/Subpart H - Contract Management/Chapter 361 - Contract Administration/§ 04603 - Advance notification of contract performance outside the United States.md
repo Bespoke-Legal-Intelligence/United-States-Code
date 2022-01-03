@@ -4,7 +4,7 @@
 
 Notification.—(1) A firm that is performing a Department of Defense contract for an amount exceeding $10,000,000, or is submitting a bid or proposal for such a contract, shall notify the Department of Defense in advance of any intention of the firm or any first-tier subcontractor of the firm to perform outside the United States and Canada any part of the contract that exceeds $500,000 in value and could be performed inside the United States or Canada.
 
-(2) If a firm submitting a bid or proposal for a Department of Defense contract is required to submit a notification under this subsection, and the firm is aware, at the time it submits its bid or proposal, that the firm intends to perform outside the United States and Canada any part of the contract that exceeds $500,000 in value and could be performed inside the United States or Canada, the firm shall include the notification in its bid or proposal.
+(2) If a firm submitting a bid or proposal for a Department of Defense contract is required to submit a notification under this subsection, and the firm is aware, at the time it submits its bid or proposal, that the firm intends to perform outside the United States and Canada any partof the contract that exceeds $500,000 in value and could be performed inside the United States or Canada, the firm shall include the notification in its bid or proposal.
 
 (3) The notification by a firm under paragraph (1) with respect to a first-tier subcontractor shall be made, to the maximum extent practicable, at least 30 days before award of the subcontract.
 
@@ -42,6 +42,8 @@ Inapplicability to Certain Contracts.—This section shall not apply to contract
 
 (Added Pub. L. 102–484, div. A, title VIII, §840(a)(1), Oct. 23, 1992, 106 Stat. 2466, §2410g; amended Pub. L. 104–106, div. D, title XLIII, §4321(b)(16), Feb. 10, 1996, 110 Stat. 673; Pub. L. 111–350, §5(b)(30), Jan. 4, 2011, 124 Stat. 3845; Pub. L. 115–232, div. A, title VIII, §836(e)(7), Aug. 13, 2018, 132 Stat. 1870; renumbered §4603 and amended Pub. L. 116–283, div. A, title XVIII, §§1861(b), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4277, 4294.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior sections 4621 and 4622 were renumbered sections 7621 and 7622 of this title, respectively.
@@ -56,7 +58,27 @@ Prior sections 4624 to 4629 were renumbered sections 7624 to 7629 of this title,
 
 Subsec. (c). Pub. L. 116–283, §1883(b)(2), substituted "section 4816" for "section 2505".
 
+<b>2018</b>—Subsec. (d)(1). Pub. L. 115–232 substituted "Commercial products or commercial services (as defined in sections 103 and 103a, respectively, of title 41)" for "Commercial items (as defined in section 103 of title 41)".
+
+<b>2011</b>—Subsec. (d)(1). Pub. L. 111–350 substituted "section 103 of title 41)" for "section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)))".
+
+<b>1996</b>—Subsec. (d)(1). Pub. L. 104–106 inserted "(as defined in section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)))" before period at end.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2021 Amendment
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
+
+#### Effective Date of 1996 Amendment
+
+For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 2220 of this title.
+
+#### Effective Date
+
+Pub. L. 102–484, div. A, title VIII, §840(b), Oct. 23, 1992, 106 Stat. 2467, provided that: "Section 2410g of title 10, United States Code \[now 10 U.S.C. 4603\] (as added by subsection (a)), shall take effect 90 days after the date of the enactment of this Act \[Oct. 23, 1992\]."
 

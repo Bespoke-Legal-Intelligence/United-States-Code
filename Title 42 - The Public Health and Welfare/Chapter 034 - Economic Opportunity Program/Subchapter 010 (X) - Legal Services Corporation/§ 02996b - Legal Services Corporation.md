@@ -14,9 +14,13 @@ The Corporation, and any legal assistance program assisted by the Corporation, s
 
 (Pub. L. 88–452, title X, §1003, as added Pub. L. 93–355, §2, July 25, 1974, 88 Stat. 379; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1986</b>—Subsec. (c). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954" wherever appearing, which for purposes of codification was translated as "title 26" thus requiring no change in text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transition to Legal Services Corporation Program
 
@@ -26,7 +30,7 @@ Pub. L. 93–355, §3(a)–(d)(1), (e), July 25, 1974, 88 Stat. 389, 390, provid
 
 "(b) Within ninety days after the first meeting of the Board, all assets, liabilities, obligations, property, and records as determined by the Director of the Office of Management and Budget, in consultation with the Director of the Office of Economic Opportunity \[now the Director of the Office of Community Services\] or the head of any successor authority, to be employed directly or held or used primarily, in connection with any function of the Director of the Office of Economic Opportunity or the head of any successor authority in carrying out legal services activities under the Economic Opportunity Act of 1964 \[this chapter\], shall be transferred to the Corporation. Personnel transferred to the Corporation from the Office of Economic Opportunity or any successor authority shall be transferred in accordance with applicable laws and regulations, and shall not be reduced in compensation for one year after such transfer, except for cause. The Director of the Office of Economic Opportunity or the head of any successor authority shall take whatever action is necessary and reasonable to seek suitable employment for personnel who do not transfer to the Corporation.
 
-"(c) Collective-bargaining agreements in effect on the date of enactment of this Act \[July 25, 1974\], coveringemployees transferred to the Corporation shall continue to be recognized by the Corporation until the termination date of such agreements, or until mutually modified by the parties.
+"(c) Collective-bargaining agreements in effect on the date of enactment of this Act \[July 25, 1974\], covering employees transferred to the Corporation shall continue to be recognized by the Corporation until the termination date of such agreements, or until mutually modified by the parties.
 
 "(d)(1) Notwithstanding any other provision of law, the Director of the Office of Economic Opportunity \[now the Director of the Office of Community Services\] or the head of any successor authority shall take such action as may be necessary, in cooperation with the president of the Legal Services Corporation, including the provision (by grant or otherwise) of financial assistance to recipients and the Corporation and the furnishing of services and facilities to the Corporation—
 

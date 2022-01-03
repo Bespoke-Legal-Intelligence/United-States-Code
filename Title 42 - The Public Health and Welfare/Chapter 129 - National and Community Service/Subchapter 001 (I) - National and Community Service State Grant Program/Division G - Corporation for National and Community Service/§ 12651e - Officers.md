@@ -28,7 +28,7 @@
 
 #### (1) In general
 
-&emsp;There shall be in the Corporation a Chief Financial Officer, who shall be appointed by the Chief Executive Officer pursuant to subsections (a) and (b) of section 12651f of this title.
+&emsp;There shall be in the Corporation a Chief Financial Officer, who shall be appointed by theChief Executive Officer pursuant to subsections (a) and (b) of section 12651f of this title.
 
 #### (2) Duties
 
@@ -64,6 +64,8 @@
 
 (Pub. L. 101–610, title I, §194, as added Pub. L. 103–82, title II, §202(a), Sept. 21, 1993, 107 Stat. 882; amended Pub. L. 110–409, §4(a)(4), Oct. 14, 2008, 122 Stat. 4304; Pub. L. 111–13, title I, §1705, Apr. 21, 2009, 123 Stat. 1547; Pub. L. 112–166, §2(p), Aug. 10, 2012, 126 Stat. 1288.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Inspector General Act of 1978, referred to in subsec. (b)(2), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -87,6 +89,8 @@ Office.—There shall be in the Corporation a Chief Financial Officer, who shall
 Compensation.—The Chief Financial Officer shall be compensated at the rate provided for level IV of the Executive Schedule under section 5315 of title 5."
 
 <b>2008</b>—Subsec. (b)(3). Pub. L. 110–409 struck out par. (3). Text read as follows: "The Inspector General shall be compensated at the rate provided for level IV of the Executive Schedule under section 5315 of title 5."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

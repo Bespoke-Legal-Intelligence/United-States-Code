@@ -14,21 +14,27 @@ In this chapter:
 
 &emsp;(6) The term "Civil Reserve Air Fleet" means those aircraft allocated, or identified for allocation, to the Department of Defense under section 101 of the Defense Production Act of 1950 (50 U.S.C. 4511), or made available (or agreed to be made available) for use by the Department of Defense under a contract made under this title, as part of the program developed by the Department of Defense through which the Department of Defense augments its airlift capability by use of civil aircraft.
 
-&emsp;(7) The term "contractor" means a citizen of the United States (A) who owns or controls, or who will own or control, a new or existing aircraft and who contracts with the Secretary under section 9512 of this title to modify that aircraft by including or incorporating specified defense features in that aircraft and to commit that aircraft to the Civil Reserve Air Fleet, (B) who subsequently obtains ownership or control of a civil aircraft covered by such a contract and assumes all existing obligations under that contract, or (C) who owns or controls, or will own or control, new or existing aircraft and who, by contract, commits some or all of such aircraft to the Civil Reserve Air Fleet.
+&emsp;(7) The term "contractor" means a citizen of the United States (A) who owns or controls, or who will own or control, a new or existing aircraft and who contracts with the Secretary under section 9513 of this title to modify that aircraft by including or incorporating specified defense features in that aircraft and to commit that aircraft to the Civil Reserve Air Fleet, (B) who subsequently obtains ownership or control of a civil aircraft covered by such a contract and assumes all existing obligations under that contract, or (C) who owns or controls, or will own or control, new or existing aircraft and who, by contract, commits some or all of such aircraft to the Civil Reserve Air Fleet.
 
 &emsp;(8) The term "existing aircraft" means a civil aircraft other than a new aircraft.
 
-&emsp;(9) The term "new aircraft" means a civil aircraft that a manufacturer has not begun to assemble before the aircraft is covered by a contract under section 9512 of this title.
+&emsp;(9) The term "new aircraft" means a civil aircraft that a manufacturer has not begun to assemble before the aircraft is covered by a contract under section 9513 of this title.
 
-&emsp;(10) The term "Secretary" means the Secretary of the Air Force.
+&emsp;(10) The term "Secretary" means the Secretary of Defense.
 
 &emsp;(11) The term "defense feature" means equipment or design features included or incorporated in a civil aircraft which ensures the compatibility of such aircraft with the Department of Defense airlift system. Such term includes any equipment or design feature which enables such aircraft to be readily modified for use as an aeromedical aircraft or a cargo-convertible, cargo-capable, or passenger-cargo combined aircraft.
 
 &emsp;(12) The term "Civil Reserve Air Fleet program" means the program developed by the Department of Defense through which the Department of Defense augments its airlift capability by use of civil aircraft.
 
-(Added Pub. L. 97–86, title IX, §915(2), Dec. 1, 1981, 95 Stat. 1125; amended Pub. L. 100–180, div. A, title XII, §1231(17), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 100–456, div. A, title XII, §1233(k)(2), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 101–189, div. A, title XVI, §1636(a), Nov. 29, 1989, 103 Stat. 1609; Pub. L. 103–272, §5(b)(2), July 5, 1994, 108 Stat. 1373; Pub. L. 103–355, title III, §3031, Oct. 13, 1994, 108 Stat. 3334; Pub. L. 114–92, div. A, title X, §1085(b)(3), Nov. 25, 2015, 129 Stat. 1005; Pub. L. 114–328, div. A, title X, §1081(b)(4)(C), Dec. 23, 2016, 130 Stat. 2419.)
+(Added Pub. L. 97–86, title IX, §915(2), Dec. 1, 1981, 95 Stat. 1125; amended Pub. L. 100–180, div. A, title XII, §1231(17), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 100–456, div. A, title XII, §1233(k)(2), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 101–189, div. A, title XVI, §1636(a), Nov. 29, 1989, 103 Stat. 1609; Pub. L. 103–272, §5(b)(2), July 5, 1994, 108 Stat. 1373; Pub. L. 103–355, title III, §3031, Oct. 13, 1994, 108 Stat. 3334; Pub. L. 114–92, div. A, title X, §1085(b)(3), Nov. 25, 2015, 129 Stat. 1005; Pub. L. 114–328, div. A, title X, §1081(b)(4)(C), Dec. 23, 2016, 130 Stat. 2419; Pub. L. 117–81, div. A, title X, §1083(a)(1), (c)(1)(B), Dec. 27, 2021, 135 Stat. 1922, 1923.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Pars. (7), (9). Pub. L. 117–81, §1083(c)(1)(B), substituted "section 9513" for "section 9512".
+
+Par. (10). Pub. L. 117–81, §1083(a)(1), amended par. (10) generally. Prior to amendment, par. (10) read as follows: "The term 'Secretary' means the Secretary of the Air Force."
 
 <b>2016</b>—Par. (6). Pub. L. 114–328 substituted "(50 U.S.C. 4511)" for "(50 U.S.C. App. 2071)".
 
@@ -42,7 +48,7 @@ Pub. L. 103–355, §3031(b)(1)(A), (B), inserted " 'civil aircraft'," before "
 
 Pub. L. 103–272 substituted "section 40102(a) of title 49" for "section 101 of the Federal Aviation Act of 1958 (49 U.S.C. 1301)".
 
-Par. (6). Pub. L. 103–355, §3031(b)(2), (3), redesignated par. (7) as (6) and struck out former par. (6) which readas follows: "The term 'civil aircraft' means an aircraft other than a public aircraft."
+Par. (6). Pub. L. 103–355, §3031(b)(2), (3), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: "The term 'civil aircraft' means an aircraft other than a public aircraft."
 
 Par. (7). Pub. L. 103–355, §3031(b)(3), redesignated par. (8) as (7). Former par. (7) redesignated (6).
 
@@ -68,7 +74,9 @@ Par. (12). Pub. L. 101–189, §1636(a)(4), added par. (12).
 
 <b>1987</b>—Pars. (1) to (11). Pub. L. 100–180 inserted "The term" after each par. designation, and revised first word in quotes in pars. (1) to (6) and (8) to (10) to make initial letter of each word lowercase.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1994 Amendment
 
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 2302 of this title.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 8752 of this title.
 

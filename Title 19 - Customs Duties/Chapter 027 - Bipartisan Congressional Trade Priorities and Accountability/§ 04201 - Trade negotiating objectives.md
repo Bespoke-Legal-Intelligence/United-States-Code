@@ -30,7 +30,7 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 &emsp;(13) to take into account conditions relating to religious freedom of any party to negotiations for a trade agreement with the United States;
 
-&emsp;(14) to ensure that trade agreements do not require changes to the immigration laws ofthe United States or obligate the United States to grant access or expand access to visas issued under section 1101(a)(15) of title 8; and
+&emsp;(14) to ensure that trade agreements do not require changes to the immigration laws of the United States or obligate the United States to grant access or expand access to visas issued under section 1101(a)(15) of title 8; and
 
 &emsp;(15) to ensure that trade agreements do not establish obligations for the United States regarding greenhouse gas emissions measures, including obligations that require changes to United States laws or regulations or that would affect the implementation of such laws or regulations, other than those fulfilling the other negotiating objectives in this section.
 
@@ -84,7 +84,7 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 &emsp;&emsp;(H) eliminating state trading enterprises whenever possible;
 
-&emsp;&emsp;(I) developing, strengthening, and clarifying rules to eliminate practices that unfairly decrease United States market access opportunities or distort agricultural markets to the detriment of the United States, and ensuring that such rules are subject to efficient, timely, and effective dispute settlement, including—
+&emsp;&emsp;(I) developing, strengthening, and clarifying rules to eliminate practices that unfairly decrease United States market accessopportunities or distort agricultural markets to the detriment of the United States, and ensuring that such rules are subject to efficient, timely, and effective dispute settlement, including—
 
 &emsp;&emsp;&emsp;(i) unfair or trade distorting activities of state trading enterprises and other administrative mechanisms, with emphasis on requiring price transparency in the operation of state trading enterprises and such other mechanisms in order to end cross subsidization, price discrimination, and price undercutting;
 
@@ -280,7 +280,7 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 &emsp;&emsp;(E) to reduce or eliminate government practices or policies that unduly threaten sustainable development;
 
-&emsp;&emsp;(F) to seek market access, through the elimination of tariffs and nontariff barriers,for United States environmental technologies, goods, and services;
+&emsp;&emsp;(F) to seek market access, through the elimination of tariffs and nontariff barriers, for United States environmental technologies, goods, and services;
 
 &emsp;&emsp;(G) to ensure that labor, environmental, health, or safety policies and practices of the parties to trade agreements with the United States do not arbitrarily or unjustifiably discriminate against United States exports or serve as disguised barriers to trade;
 
@@ -330,7 +330,7 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 &emsp;&emsp;(B) to ensure that such standards level the playing field for United States persons in international trade and investment; and
 
-&emsp;&emsp;(C) to seek commitments to work jointly to encourage and support anti-corruption and anti-bribery initiatives in international trade fora, including through the Convention on Combating Bribery of Foreign Public Officials in International Business Transactions of the Organization for Economic Cooperation and Development, done at ParisDecember 17, 1997 (commonly known as the "OECD Anti-Bribery Convention").
+&emsp;&emsp;(C) to seek commitments to work jointly to encourage and support anti-corruptionand anti-bribery initiatives in international trade fora, including through the Convention on Combating Bribery of Foreign Public Officials in International Business Transactions of the Organization for Economic Cooperation and Development, done at Paris December 17, 1997 (commonly known as the "OECD Anti-Bribery Convention").
 
 #### (16) Dispute settlement and enforcement
 
@@ -396,7 +396,7 @@ The overall trade negotiating objectives of the United States for agreements sub
 
 #### (B) Definition
 
-&emsp;&emsp;In this paragraph, the term "actions to boycott, divest from, or sanction Israel" means actions by states, non-member states of the United Nations, international organizations, or affiliated agencies of international organizations that are politically motivated and are intended to penalize or otherwise limit commercial relations specifically with Israel or persons doing business in Israel or in Israeli-controlled territories.
+&emsp;&emsp;In this paragraph, the term "actions to boycott, divest from, or sanction Israel"means actions by states, non-member states of the United Nations, international organizations, or affiliated agencies of international organizations that are politically motivated and are intended to penalize or otherwise limit commercial relations specifically with Israel or persons doing business in Israel or in Israeli-controlled territories.
 
 #### (21) Good governance, transparency, the effective operation of legal regimes, and the rule of law of trading partners
 
@@ -432,6 +432,8 @@ In order to address and maintain United States competitiveness in the global eco
 
 (Pub. L. 114–26, title I, §102, June 29, 2015, 129 Stat. 320; Pub. L. 114–125, title IX, §914(a)–(c), Feb. 24, 2016, 130 Stat. 273.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (c)(4), was in the original "this title", meaning title I of Pub. L. 114–26, June 29, 2015, 129 Stat. 320, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out below and Tables.
@@ -444,6 +446,8 @@ Subsec. (a)(15). Pub. L. 114–125, §914(b), added par. (15).
 
 Subsec. (b)(22). Pub. L. 114–125, §914(c), added par. (22).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2016 Amendment
 
 Pub. L. 114–125, title IX, §914(g), Feb. 24, 2016, 130 Stat. 276, provided that: "The amendments made by this section \[amending this section and sections 4203 to 4205 of this title\] shall take effect as if included in the enactment of the Bipartisan Congressional Trade Priorities and Accountability Act of 2015 (\[title I of\] Public Law 114–26; 129 Stat. 320; 19 U.S.C. 4201 et seq.)."
@@ -452,13 +456,15 @@ Pub. L. 114–125, title IX, §914(g), Feb. 24, 2016, 130 Stat. 276, provided th
 
 Pub. L. 114–26, title I, §101, June 29, 2015, 129 Stat. 320, provided that: "This title \[enacting this chapter and amending sections 2151 to 2155, 2171, 2191, and 2212 of this title\] may be cited as the 'Bipartisan Congressional Trade Priorities and Accountability Act of 2015'."
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 13701. Delegation of Certain Authorities and Assignment of Certain Functions Under the Bipartisan Congressional Trade Priorities and Accountability Act of 2015
 
 Ex. Ord. No. 13701, July 17, 2015, 80 F.R. 43903, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Bipartisan Congressional Trade Priorities and Accountability Act of 2015 (the "Act") (Public Law 114–26) and section 301 of title 3, United States Code, I hereby order as follows:
 
-Section 1. <i>Authorities and Functions under the Act</i>. (a) Except as provided in subsections (b) and (c) of this section, the authorities granted to and functions specifically assigned to the President under title I of the Act are delegated and assigned, respectively, to the United States Trade Representative (U.S. Trade Representative).
+Section 1. <i>Authorities and Functions under the Act</i>. (a) Except as provided in subsections (b) and (c) of this section, the authorities granted to and functions specifically assigned to the President under title I of the Act are delegated and assigned, respectively, to the UnitedStates Trade Representative (U.S. Trade Representative).
 
 (b) The exercise of the following authorities of, and functions specifically assigned to, the President under, title I of the Act are not delegated or assigned under this order:
 

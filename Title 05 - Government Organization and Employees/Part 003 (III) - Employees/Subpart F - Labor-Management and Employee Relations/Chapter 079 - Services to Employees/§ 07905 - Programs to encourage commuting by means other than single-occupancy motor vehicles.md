@@ -30,7 +30,7 @@
 
 &emsp;(1) with respect to the judicial branch, be carried out by the Director of the Administrative Office of the United States Courts;
 
-&emsp;(2) with respect to the House of Representatives, be carried out by the Committee on House Administration of the House of Representatives; and
+&emsp;(2) with respect to the House of Representatives, be carried out by the Committee onHouse Administration of the House of Representatives; and
 
 &emsp;(3) with respect to the Senate, be carried out by the Committee on Rules and Administration of the Senate.
 
@@ -126,7 +126,7 @@ Pub. L. 107–68, title I, §112, Nov. 12, 2001, 115 Stat. 569, authorized an em
 
 #### Transit Subsidies; Appropriations
 
-Pub. L. 105–277, div. A, §101(f) \[title II, §210\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–359, provided that: "Funds appropriated in this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts, for the National Institutes of Health may be used to provide transit subsidies in amounts consistent with the transportation subsidy programs authorized under section 629 of Public Law 101–509 \[see note preceding section 7901 of this title\] to non-FTE bearing positions including trainees, visiting fellows and volunteers."
+Pub. L. 105–277, div. A, §101(f) \[title II, §210\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–359, provided that: "Funds appropriated in this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts, for the NationalInstitutes of Health may be used to provide transit subsidies in amounts consistent with the transportation subsidy programs authorized under section 629 of Public Law 101–509 \[see note preceding section 7901 of this title\] to non-FTE bearing positions including trainees, visiting fellows and volunteers."
 
 Similar provisions were contained in the following prior appropriations act:
 

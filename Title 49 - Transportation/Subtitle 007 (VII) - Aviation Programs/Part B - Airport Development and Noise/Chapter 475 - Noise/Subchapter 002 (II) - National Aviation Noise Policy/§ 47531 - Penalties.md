@@ -26,11 +26,15 @@ Nov. 5, 1990, Pub. L. 101–508, §9308(e), 104 Stat. 1388–383.
 
 This amends 49:47531 to correct a grammatical error and erroneous cross-references.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Pub. L. 112–95 struck out "for violating sections 47528–47530" after "Penalties" in section catchline and substituted "47529, 47530, or 47534" for "47529, or 47530" in text.
 
 <b>1994</b>—Pub. L. 103–429 substituted "section 47528" for "sections 47528" and inserted "any of" before "those" and "any of sections" before "44702–44716".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

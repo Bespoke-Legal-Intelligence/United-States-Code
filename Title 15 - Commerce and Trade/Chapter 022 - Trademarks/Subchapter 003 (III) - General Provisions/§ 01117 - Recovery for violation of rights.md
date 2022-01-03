@@ -30,7 +30,9 @@ In a case involving a violation of section 1125(d)(1) of this title, the plainti
 
 In the case of a violation referred to in this section, it shall be a rebuttable presumption that the violation is willful for purposes of determining relief if the violator, or a person acting in concert with the violator, knowingly provided or knowingly caused to be provided materially false contact information to a domain name registrar, domain name registry, or other domain name registration authority in registering, maintaining, or renewing a domain name used in connection with the violation. Nothing in this subsection limits what may be considered a willful violation under this section.
 
-(July 5, 1946, ch. 540, title VI, §35, 60 Stat. 439; Pub. L. 87–772, §19, Oct. 9, 1962, 76 Stat. 774; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 93–600, §3, Jan. 2, 1975, 88 Stat. 1955; Pub. L. 98–473, title II, §1503(2), Oct. 12, 1984, 98 Stat. 2182; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–667, title I, §129, Nov. 16, 1988, 102 Stat. 3945; Pub. L. 104–153, §7, July 2, 1996, 110 Stat. 1388; Pub. L. 106–43, §3(b), Aug. 5, 1999, 113 Stat. 219; Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3003(a)(2), (b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–549; Pub. L. 107–273, div. C, title III, §13207(a), (b)(11), Nov. 2, 2002, 116 Stat. 1906, 1908; Pub. L. 108–482, title II, §202, Dec. 23, 2004, 118 Stat. 3916; Pub. L. 110–403, title I, §§103, 104, Oct. 13, 2008, 122 Stat. 4259.)
+(July 5, 1946, ch. 540, title VI, §35, 60 Stat. 439; Pub. L. 87–772, §19, Oct. 9, 1962, 76 Stat. 774; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 93–600, §3, Jan. 2, 1975, 88 Stat. 1955; Pub. L. 98–473, title II, §1503(2), Oct. 12, 1984, 98 Stat. 2182; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–667, title I, §129, Nov. 16, 1988, 102 Stat. 3945; Pub. L. 104–153, §7, July 2, 1996, 110 Stat. 1388; Pub. L. 106–43, §3(b), Aug. 5, 1999, 113 Stat. 219; Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3003(a)(2), (b)\], Nov. 29, 1999, 113 Stat. 1536,1501A–549; Pub. L. 107–273, div. C, title III, §13207(a), (b)(11), Nov. 2, 2002, 116 Stat. 1906, 1908; Pub. L. 108–482, title II, §202, Dec. 23, 2004, 118 Stat. 3916; Pub. L. 110–403, title I, §§103, 104, Oct. 13, 2008, 122 Stat. 4259.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -70,6 +72,8 @@ Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office".
 
 <b>1962</b>—Pub. L. 87–772 substituted "1114" for "1113(1)(b)".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1999 Amendment
 
 Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3010\], Nov. 29, 1999, 113 Stat. 1536, 1501A–552, provided that: "Sections 3002(a), 3003, 3004, 3005, and 3008 of this title \[amending this section and sections 1114, 1116, 1125, and 1127 of this title, and enacting provisions set out as a note under section 1051 of this title\] shall apply to all domain names registered before, on, or after the date of the enactment of this Act \[Nov. 29, 1999\], except that damages under subsection (a) or (d) of section 35 of the Trademark Act of 1946 (15 U.S.C. 1117), as amended by section 3003 of this title, shall not be available with respect to the registration, trafficking, or use of a domain name that occurs before the date of the enactment of this Act."
@@ -103,6 +107,8 @@ Discretion of Courts in Determining Relief.—Nothing in this title shall restri
 "(c)
 
 Discretion of Courts in Determining Terms of Imprisonment.—Nothing in this title shall be construed to limit the discretion of a court to determine the appropriate term of imprisonment for an offense under applicable law."
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

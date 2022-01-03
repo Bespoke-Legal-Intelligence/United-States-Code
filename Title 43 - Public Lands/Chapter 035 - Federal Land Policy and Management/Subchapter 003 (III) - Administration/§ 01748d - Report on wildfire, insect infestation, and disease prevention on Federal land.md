@@ -1,6 +1,6 @@
 ### §1748d. Report on wildfire, insect infestation, and disease prevention on Federal land
 
-Not later than 180 days after December 20, 2018, and every year thereafter, the Secretary and the Secretary of Interior <sup>1</sup> shall submit tothe Committee on Agriculture of the House of Representatives, the Committee on Natural Resources of the House of Representatives, the Committee on Agriculture, Nutrition, and Forestry of the Senate, and the Committee on Energy and Natural Resources of the Senate a jointly written report on—
+Not later than 180 days after December 20, 2018, and every year thereafter, the Secretary and the Secretary of Interior <sup>1</sup> shall submit to the Committee on Agriculture of the House of Representatives, the Committee on Natural Resources of the House of Representatives, the Committee on Agriculture, Nutrition, and Forestry of the Senate, and the Committee on Energy and Natural Resources of the Senate a jointly written report on—
 
 &emsp;(1) the number of acres of Federal land treated by the Secretary or the Secretary of the Interior for wildfire, insect infestation, or disease prevention;
 

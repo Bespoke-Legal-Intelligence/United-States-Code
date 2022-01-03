@@ -16,6 +16,74 @@ Availability of Information Material.—The Secretary will furnish the State app
 
 Use of State Approving Agencies for Oversight Activities.—The Secretary may utilize the services of a State approving agency for conducting compliance and risk-based surveys and other such oversight purposes as the Secretary, in consultation with the State approving agencies, considers appropriate without regard to whether the Secretary or the agency approved the courses offered in the State concerned.
 
+(e)
+
+Notice of Government Action.—(1)(A) If the Secretary receives notice described in paragraph (2), or otherwise becomes aware of an action or event described in paragraph (3), with respect to an educational institution, the Secretary shall transmit such notice or provide notice of such action or event to the State approving agency for the State where the educational institution is located by not later than 30 days after the date on which the Secretary receives such notice or becomes aware of such action or event.
+
+(B) If a State approving agency receives notice as described in paragraph (2), or otherwise becomes aware of an action or event described in paragraph (3), with respect to an educational institution, other than from the Secretary pursuant to subparagraph (A) of this paragraph, the State approving agency shall immediately notify the Secretary.
+
+(C) Not later than 60 days after the date on which a State approving agency receives notice under subparagraph (A), receives notice as described in subparagraph (B), or becomes aware as described in such subparagraph, as the case may be, regarding an educational institution, such State approving agency shall—
+
+&emsp;(i) complete a risk-based survey of such educational institution; and
+
+&emsp;(ii) provide the Secretary with—
+
+&emsp;&emsp;(I) a complete report on the findings of the State approving agency with respect to the risk-based survey completed under clause (i) and any actions taken as a result of such findings; and
+
+&emsp;&emsp;(II) any supporting documentation and pertinent records.
+
+(2) Notice described in this paragraph is any of the following:
+
+&emsp;(A) Notice from the Secretary of Education of an event under paragraph (3)(A).
+
+&emsp;(B) Notice of an event under paragraph (3)(B).
+
+&emsp;(C) Notice from a State of an action taken by that State under paragraph (3)(C).
+
+&emsp;(D) Notice provided by an accrediting agency or association of an action described in paragraph (3)(D) taken by that agency or association.
+
+&emsp;(E) Notice that the Secretary of Education has placed the educational institution on provisional certification status.
+
+(3) An action or event under this paragraph is any of the following:
+
+&emsp;(A) The receipt by an educational institution of payments under the heightened cash monitoring level 2 payment method pursuant to section 487(c)(1)(B) of the Higher Education Act of 1965 (20 U.S.C. 1094).
+
+&emsp;(B) Punitive action taken by the Attorney General, the Federal Trade Commission, or any other Federal department or agency for misconduct or misleading marketing practices that would violate the standards defined by the Secretary of Veterans Affairs.
+
+&emsp;(C) Punitive action taken by a State against an educational institution.
+
+&emsp;(D) The loss, or risk of loss, by an educational institution of an accreditation from an accrediting agency or association, including notice of probation, suspension, an order to show cause relating to the educational institution's academic policies and practices or to its financial stability, or revocation of accreditation.
+
+&emsp;(E) The placement of an educational institution on provisional certification status by the Secretary of Education.
+
+(4) If a State approving agency disapproves or suspends an educational institution, the Stateapproving agency shall provide notice of such disapproval or suspension to the Secretary and to all other State approving agencies.
+
+(5) This subsection shall be carried out using amounts made available pursuant to section 3674(a)(4) of this title as long as such amounts remain available.
+
+(6) For each notice transmitted or provided to a State approving agency under paragraph (1) with respect to an educational institution, the Secretary shall ensure the careful review of—
+
+&emsp;(A) to the extent possible, the action that gave rise to such notice; and
+
+&emsp;(B) any other action against the educational institution by any Federal or State government entity or by the educational institution's accreditor.
+
+(7) In this subsection, the term "risk-based survey" means the risk-based survey developed under section 3673A of this title.
+
+(f)
+
+Outreach Activities.—(1) A State approving agency may conduct outreach activities if—
+
+&emsp;(A) the State approving agency has properly conducted its enforcement and approval of courses and programs of education under this chapter; and
+
+&emsp;(B) funds are still available to do so.
+
+(2) For purposes of paragraph (1)(A), a State approving agency shall be considered to have properly conducted its enforcement and approval of courses and programs of education under this chapter if the State approving agency has—
+
+&emsp;(A) met fulfilled <sup>1</sup> its requirements pursuant to the applicable cooperative agreements between the State approving agency and the Department relating to the oversight and approval of courses and programs of education under this chapter; and
+
+&emsp;(B) completed a risk-based survey of any course or program of education determined to be of questionable quality or at risk by any Federal or State agency or any accrediting agency.
+
+(3) Outreach activities conducted under paragraph (1) shall be carried out using amounts derived from amounts not specifically appropriated to carry out this subsection.
+
 (Added Pub. L. 88–126, §1, Sept. 23, 1963, 77 Stat. 158, §1773; amended Pub. L. 89–358, §3(a)(7), (11), Mar. 3, 1966, 80 Stat. 20, 21; Pub. L. 92–540, title IV, §403(6), Oct. 24, 1972, 86 Stat. 1090; Pub. L. 97–295, §4(51), Oct. 12, 1982, 96 Stat. 1308; Pub. L. 101–237, title IV, §423(b)(1), Dec. 18, 1989, 103 Stat. 2092; renumbered §3673, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 110–389, title III, §326(a)(1), (2)(A), (3), Oct. 10, 2008, 122 Stat. 4169; Pub. L. 111–377, title II, §203(b), Jan. 4, 2011, 124 Stat. 4125; Pub. L. 115–48, title III, §310, Aug. 16, 2017, 131 Stat. 994; Pub. L. 115–62, title V, §501(a), Sept. 29, 2017, 131 Stat. 1165; Pub. L. 116–315, title I, §§1013(b)(1), 1014(a), 1023, Jan. 5, 2021, 134 Stat. 4943, 4959.)
 
 #### Amendment of Section
@@ -27,80 +95,6 @@ Use of State Approving Agencies for Oversight Activities.—The Secretary may ut
 <i>(2) by striking "compliance and risk-based surveys" and inserting "a risk-based survey developed under section 3673A of this title".</i>
 
 <i>See 2021 Amendment note below.</i>
-
-<i>Pub. L. 116–315, title I, §1014, Jan. 5, 2021, 134 Stat. 4943, provided that, effective on Aug. 1, 2021, this section is amended by adding at the end the following new subsection:</i>
-
-<i>(e)</i>
-
-<i>Notice of Government Action.—(1)(A) If the Secretary receives notice described in paragraph (2), or otherwise becomes aware of an action or event described in paragraph (3), with respect to an educational institution, the Secretary shall transmit such notice or provide notice of such action or event to the State approving agency for the State where the educational institution is located by not later than 30 days after the date on which the Secretary receives such notice or becomes aware of such action or event.</i>
-
-<i>(B) If a State approving agency receives notice as described in paragraph (2), or otherwise becomes aware of an action or event described in paragraph (3), with respect to an educational institution, other than from the Secretary pursuant to subparagraph (A) of this paragraph, the State approving agency shall immediately notify the Secretary.</i>
-
-<i>(C) Not later than 60 days after the date on which a State approving agency receives notice under subparagraph (A), receives notice as described in subparagraph (B), or becomes aware as described in such subparagraph, as the case may be, regarding an educational institution, such State approving agency shall—</i>
-
-&emsp;<i>(i) complete a risk-based survey of such educational institution; and</i>
-
-&emsp;<i>(ii) provide the Secretary with—</i>
-
-&emsp;&emsp;<i>(I) a complete report on the findings of the State approving agency with respect to the risk-based survey completed under clause (i) and any actions taken as a result of such findings; and</i>
-
-&emsp;&emsp;<i>(II) any supporting documentation and pertinent records.</i>
-
-<i>(2) Notice described in this paragraph is any of the following:</i>
-
-&emsp;<i>(A) Notice from the Secretary of Education of an event under paragraph (3)(A).</i>
-
-&emsp;<i>(B) Notice of an event under paragraph (3)(B).</i>
-
-&emsp;<i>(C) Notice from a State of an action taken by that State under paragraph (3)(C).</i>
-
-&emsp;<i>(D) Notice provided by an accrediting agency or association of an action described in paragraph (3)(D) taken by that agency or association.</i>
-
-&emsp;<i>(E) Notice that the Secretary of Education has placed the educational institution on provisional certification status.</i>
-
-<i>(3) An action or event under this paragraph is any of the following:</i>
-
-&emsp;<i>(A) The receipt by an educational institution of payments under the heightened cash monitoring level 2 payment method pursuant to section 487(c)(1)(B) of the Higher Education Act of 1965 (20 U.S.C. 1094).</i>
-
-&emsp;<i>(B) Punitive action taken by the Attorney General, the Federal Trade Commission, or any other Federal department or agency for misconduct or misleading marketing practices that would violate the standards defined by the Secretary of Veterans Affairs.</i>
-
-&emsp;<i>(C) Punitive action taken by a State against an educational institution.</i>
-
-&emsp;<i>(D) The loss, or risk of loss, by an educational institution of an accreditation from an accrediting agency or association, including notice of probation, suspension, an order to show cause relating to the educational institution's academic policies and practices or to its financial stability, or revocation of accreditation.</i>
-
-&emsp;<i>(E) The placement of an educational institution on provisional certification status by the Secretary of Education.</i>
-
-<i>(4) If a State approving agency disapproves or suspends an educational institution, the State approving agency shall provide notice of such disapproval or suspension to the Secretary and to all other State approving agencies.</i>
-
-<i>(5) This subsection shall be carried out using amounts made available pursuant to section 3674(a)(4) of this title as long as such amounts remain available.</i>
-
-<i>(6) For each notice transmitted or provided to a State approving agency under paragraph (1) with respect to an educational institution, the Secretary shall ensure the careful review of—</i>
-
-&emsp;<i>(A) to the extent possible, the action that gave rise to such notice; and</i>
-
-&emsp;<i>(B) any other action against the educational institution by any Federal or State government entity or by the educational institution's accreditor.</i>
-
-<i>(7) In this subsection, the term "risk-based survey" means the risk-based survey developed under section 3673A of this title.</i>
-
-<i>Pub. L. 116–315, title I, §1023, Jan. 5, 2021, 134 Stat. 4959, provided that this section, as amended by section 1014 of Pub. L. 116–315 (see above), is further amended by adding at the end the following new subsection:</i>
-
-<i>(f)</i>
-
-<i>Outreach Activities.—(1) A State approving agency may conduct outreach activities if—</i>
-
-&emsp;<i>(A) the State approving agency has properly conducted its enforcement and approval of courses and programs of education under this chapter; and</i>
-
-&emsp;<i>(B) funds are still available to do so.</i>
-
-<i>(2) For purposes of paragraph (1)(A), a State approving agency shall be considered to have properly conducted its enforcement and approval of courses and programs of education under this chapter if the State approving agency has—</i>
-
-&emsp;<i>(A) met fulfilled its requirements pursuant to the applicable cooperative agreements between the State approving agency and the Department relating to the oversight and approval of courses and programs of education under this chapter; and</i>
-
-&emsp;<i>(B) completed a risk-based survey of any course or program of education determined to be of questionable quality or at risk by any Federal or State agency or any accrediting agency.</i>
-
-<i>(3) Outreach activities conducted under paragraph (1) shall be carried out using amounts derived from amounts not specifically appropriated to carry out this subsection.</i>
-
-<i>See 2021 Amendment notes below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -147,4 +141,6 @@ Pub. L. 116–315, title I, §1014(b), Jan. 5, 2021, 134 Stat. 4945, provided th
 #### Effective Date of 2011 Amendment
 
 Amendment by Pub. L. 111–377 effective Aug. 1, 2011, see section 203(e) of Pub. L. 111–377, set out as a note under section 3034 of this title.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

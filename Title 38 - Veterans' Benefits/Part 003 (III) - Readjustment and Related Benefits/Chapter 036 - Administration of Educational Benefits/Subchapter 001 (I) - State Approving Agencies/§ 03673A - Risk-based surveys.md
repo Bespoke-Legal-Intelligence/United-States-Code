@@ -2,7 +2,7 @@
 
 (a)
 
-Development Required.—The Secretary, in partnership with State approving agencies, shall develop a searchable risk-based survey for oversight of educational institutions with courses and programs of education approved under this chapter.
+Development Required.—The Secretary, in partnership with State approving agencies, shall develop a risk-based survey for oversight of educational institutions with courses and programs of education approved under this chapter.
 
 (b)
 
@@ -28,13 +28,17 @@ Scope.—(1) The scope of the risk-based survey developed under subsection (a) s
 
 (c)
 
-Database.—The Secretary, in partnership with the State approving agencies under this chapter, shall establish a database or use an existing system, as the Secretary considers appropriate, to serve as a central repository for information required for or collected during site visits for the risk-based survey developed under subsection (a), so as to improve future oversight of educational institutions with programs of education approved under this chapter.
+Database.—The Secretary, in partnership with the State approving agencies under this chapter, shall establish a searchable database or use an existing system, as the Secretary considers appropriate, to serve as a central repository for information required for or collected during site visits for the risk-based survey developed under subsection (a), so as to improve future oversight of educational institutions with programs of education approved under this chapter.
 
-(Added Pub. L. 116–315, title I, §1013(a)(1), Jan. 5, 2021, 134 Stat. 4942.)
+(Added Pub. L. 116–315, title I, §1013(a)(1), Jan. 5, 2021, 134 Stat. 4942; amended Pub. L. 117–16, §7(a)(3), (b)(1), June 8, 2021, 135 Stat. 285.)
 
 #### <b>Editorial Notes</b>
 
-#### Codification
+#### Amendments
 
-Section 1013(a)(1) of Pub. L. 116–315, which directed that "Subchapter I of chapter 36, United States Code" be amended by inserting this section after section 3673 without specifying the Code title to be amended, was executed by inserting this section after section 3673 of this title, to reflect the probable intent of Congress.
+<b>2021</b>—Pub. L. 117–16, §7(b)(1), made technical correction to directory language of Pub. L. 116–315, §1013(a)(1), which enacted this section.
+
+Subsec. (a). Pub. L. 117–16, §7(a)(3)(A), struck out "searchable" before "risk-based survey".
+
+Subsec. (c). Pub. L. 117–16, §7(a)(3)(B), inserted "searchable" before "database".
 

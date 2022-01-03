@@ -28,7 +28,7 @@ For the purposes of this section—
 
 #### (2) Boundaries
 
-&emsp;(A) The recreation area shall be comprised of the lands, waters, and submerged lands generally depicted on the map entitled "Proposed Boston Harbor Islands NRA", numbered BOHA 80,002, and dated September 1996. Such map shall be on file and available for public inspection in the appropriate offices of the National Park Service. After advising the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate, in writing, the Secretary may make minor revisions of the boundaries of the recreation area when necessary by publication of a revised drawing or other boundary description in the Federal Register.
+&emsp;(A) The recreation area shall be comprised of the lands, waters, and submerged lands generally depicted on the map entitled "Proposed Boston Harbor Islands NRA", numbered BOHA 80,002, and dated September 1996. Such map shall be on file and available for public inspection in the appropriate offices of the National Park Service. After advising the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate, in writing, the Secretary may make minor revisions of theboundaries of the recreation area when necessary by publication of a revised drawing or other boundary description in the Federal Register.
 
 &emsp;(B) The recreation area shall include the following:
 
@@ -44,7 +44,7 @@ For the purposes of this section—
 
 #### (1) In general
 
-&emsp;The recreation area shall be administered in partnership by the Secretary, the Commonwealth of Massachusetts, City of Boston and its applicable subdivisions and others in accordance with the provisions of law generally applicable to units of the National Park System, including the Act entitled "An Act to establish a National Park Service, and for other purposes", approved August 25, 1916 (39 Stat. 535; 16 U.S.C. 1, 2, 3, and 4),<sup>1</sup> and the Act of August 21, 1935 (49 Stat. 666; 16 U.S.C. 461–467) <sup>1</sup> as amended and supplemented and in accordancewith the integrated management plan specified in subsection (f).
+&emsp;The recreation area shall be administered in partnership by the Secretary, the Commonwealth of Massachusetts, City of Boston and its applicable subdivisions and others in accordance with the provisions of law generally applicable to units of the National Park System, including the Act entitled "An Act to establish a National Park Service, and for other purposes", approved August 25, 1916 (39 Stat. 535; 16 U.S.C. 1, 2, 3, and 4),<sup>1</sup> and the Act of August 21, 1935 (49 Stat. 666; 16 U.S.C. 461–467) <sup>1</sup> as amended and supplemented and in accordance with the integrated management plan specified in subsection (f).
 
 #### (2) State and local jurisdiction
 
@@ -98,7 +98,7 @@ For the purposes of this section—
 
 #### (1) Establishment
 
-&emsp;There is hereby established the Boston Harbor Islands Partnership whose purpose shall be to coordinate the activities of Federal, State, and local authorities and the private sector in the development and implementation of an integrated resource management plan for the recreation area.
+&emsp;There is hereby established the Boston Harbor Islands Partnership whose purpose shall beto coordinate the activities of Federal, State, and local authorities and the private sector in the development and implementation of an integrated resource management plan for the recreation area.
 
 #### (2) Membership
 
@@ -176,7 +176,7 @@ For the purposes of this section—
 
 #### (14) Obtaining property
 
-&emsp;The Partnership may obtain by purchase, rental, donation, or otherwise, such property, facilities, and services as may be needed to carry out its duties, except that the Partnership may not acquire any real property or interest in real property.
+&emsp;The Partnership may obtain by purchase, rental, donation, or otherwise, such property,facilities, and services as may be needed to carry out its duties, except that the Partnership may not acquire any real property or interest in real property.
 
 #### (15) Cooperative agreements
 
@@ -248,7 +248,7 @@ For the purposes of this section—
 
 #### (2) Membership
 
-&emsp;The Advisory Council shall consist of not fewer than 18 individuals, to be appointed by the Secretary, acting through the Director of the National Park Service. The Secretary shall appoint no fewer than three individuals to represent each of the following categories of entities: municipalities; educational and cultural institutions; environmental organizations; business and commercial entities, including those related to transportation, tourism and the maritime industry; and Boston Harbor-related advocacy organizations; and organizations representing Native American interests.
+&emsp;The Advisory Council shall consist of not fewer than 18 individuals, to be appointed bythe Secretary, acting through the Director of the National Park Service. The Secretary shall appoint no fewer than three individuals to represent each of the following categories of entities: municipalities; educational and cultural institutions; environmental organizations; business and commercial entities, including those related to transportation, tourism and the maritime industry; and Boston Harbor-related advocacy organizations; and organizations representing Native American interests.
 
 #### (3) Procedures
 
@@ -269,6 +269,8 @@ For the purposes of this section—
 &emsp;Amounts appropriated in any fiscal year to carry out this section may only be expended on a matching basis in a ratio of at least three non-Federal dollars to every Federal dollar. The non-Federal share of the match may be in the form of cash, services, or in-kind contributions, fairly valued.
 
 (Pub. L. 104–333, div. I, title X, §1029, Nov. 12, 1996, 110 Stat. 4232; Pub. L. 105–355, title V, §513, Nov. 6, 1998, 112 Stat. 3266; Pub. L. 106–176, title I, §126, Mar. 10, 2000, 114 Stat. 30; Pub. L. 108–352, §12, Oct. 21, 2004, 118 Stat. 1397; Pub. L. 109–241, title IX, §902(h)(1), July 11, 2006, 120 Stat. 567; Pub. L. 111–11, title VII, §7109, Mar. 30, 2009, 123 Stat. 1197; Pub. L. 111–281, title IX, §903(a)(8), Oct. 15, 2010, 124 Stat. 3010.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -307,6 +309,8 @@ Subsec. (g)(1). Pub. L. 106–176, §126(5), substituted "and revenue-raising ac
 Subsec. (h)(2). Pub. L. 106–176, §126(6), substituted "ratio" for "ration".
 
 <b>1998</b>—Subsec. (c)(3). Pub. L. 105–355 added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

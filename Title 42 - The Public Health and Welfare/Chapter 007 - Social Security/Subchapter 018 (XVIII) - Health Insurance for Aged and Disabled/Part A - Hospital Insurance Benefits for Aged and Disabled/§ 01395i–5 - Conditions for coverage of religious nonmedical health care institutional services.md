@@ -116,7 +116,7 @@ If the Secretary determines that the level of expenditures described in subsecti
 
 #### (e) Annual report
 
-At the beginning of each fiscal year (beginning with fiscal year 1999), the Secretary shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate an annual report on coverage and expenditures for services described in subsection (a) under this part and under State plans under subchapter XIX. Such report shall include—
+At the beginning of each fiscal year (beginning with fiscal year 1999), the Secretary shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate an annual report on coverage and expenditures for services described in subsection (a) under this part and under Stateplans under subchapter XIX. Such report shall include—
 
 &emsp;(1) level of expenditures described in subsection (c)(1) for the previous fiscal year and estimated for the fiscal year involved;
 
@@ -126,11 +126,15 @@ At the beginning of each fiscal year (beginning with fiscal year 1999), the Secr
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1821, as added Pub. L. 105–33, title IV, §4454(a)(2), Aug. 5, 1997, 111 Stat. 428; amended Pub. L. 108–173, title VII, §706(a), Dec. 8, 2003, 117 Stat. 2339.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2003</b>—Subsec. (a). Pub. L. 108–173, §706(a)(1), inserted "and for home health services furnished an individual by a religious nonmedical health care institution" after "religious nonmedical health care institution" in introductory provisions.
 
 Subsec. (a)(2). Pub. L. 108–173, §706(a)(2), substituted ", extended care services, or home health services" for "or extended care services" and inserted ", or receiving services from a home health agency," after "skilled nursing facility".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

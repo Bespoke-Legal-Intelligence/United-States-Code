@@ -16,7 +16,7 @@ Section 208 of this title, referred to in subsec. (a), was repealed by Pub. L. 1
 
 <b>1974</b>—Subsec. (a). Pub. L. 93–259 inserted "(including provision for the payment of an appropriate minimum wage rate)" in third sentence after "modify".
 
-<b>1958</b>—Subsec. (a). Pub. L. 85–791 substituted "transmitted by the clerk of the court to the Secretary, andthereupon the Secretary shall file in the court the record of the industry committee" for "served upon the Secretary, and thereupon the Secretary shall certify and file in the court a transcript of the record" in second sentence, and inserted "as provided in section 2112 of title 28", and substituted "petition" for "transcript" in third sentence.
+<b>1958</b>—Subsec. (a). Pub. L. 85–791 substituted "transmitted by the clerk of the court to the Secretary, and thereupon the Secretary shall file in the court the record of the industry committee" for "served upon the Secretary, and thereupon the Secretary shall certify and file in the court a transcript of the record" in second sentence, and inserted "as provided in section 2112 of title 28", and substituted "petition" for "transcript" in third sentence.
 
 <b>1955</b>—Subsec. (a). Act Aug. 12, 1955, amended subsec. (a) generally to make subsection conform to new procedure applicable to Puerto Rico and Virgin Islands.
 

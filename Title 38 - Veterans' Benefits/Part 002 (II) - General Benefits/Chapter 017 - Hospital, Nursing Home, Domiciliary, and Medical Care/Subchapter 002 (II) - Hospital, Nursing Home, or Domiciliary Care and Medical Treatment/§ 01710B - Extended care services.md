@@ -296,7 +296,7 @@ Program Authority.—The Secretary \[of Veterans Affairs\] may carry out a pilot
 
 Locations of Pilot Program.—(1) The pilot program shall be carried out in a designated health care region of the Department \[of Veterans Affairs\] selected by the Secretary for purposes of this section.
 
-"(2)(A) In addition to the health care region of the Department selected for the pilot program under paragraph (1), the Secretary may also carry out the pilot program in not more than one additional designatedhealth care region of the Department selected by the Secretary for purposes of this section.
+"(2)(A) In addition to the health care region of the Department selected for the pilot program under paragraph (1), the Secretary may also carry out the pilot program in not more than one additional designated health care region of the Department selected by the Secretary for purposes of this section.
 
 "(B) Notwithstanding subsection (f), the authority of the Secretary to provide services under the pilot program in a health care region of the Department selected under subparagraph (A) shall cease on the date that is three years after the commencement of the provision of services under the pilot program in the health care region.
 

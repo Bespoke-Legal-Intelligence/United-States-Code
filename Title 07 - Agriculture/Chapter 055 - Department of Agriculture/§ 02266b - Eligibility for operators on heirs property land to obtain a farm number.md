@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Eligible documentation
 
-&emsp;The term "eligible documentation", with respect to land for which a farm operator seeksassignment of a farm number under subsection (b)(1), includes—
+&emsp;The term "eligible documentation", with respect to land for which a farm operator seeks assignment of a farm number under subsection (b)(1), includes—
 
 &emsp;&emsp;(A) in States that have adopted a statute consisting of an enactment or adoption of the Uniform Partition of Heirs Property Act, as approved and recommended for enactment in all States by the National Conference of Commissioners on Uniform State Laws in 2010—
 
@@ -47,6 +47,8 @@ In this section:
 The Secretary shall identify alternative forms of eligible documentation that a farm operator may provide in seeking the assignment of a farm number under subsection (b)(1).
 
 (Pub. L. 115–334, title XII, §12615, Dec. 20, 2018, 132 Stat. 5014.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definition of "Secretary"
 

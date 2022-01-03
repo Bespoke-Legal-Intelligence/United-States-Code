@@ -14,6 +14,8 @@ The Commissioner of Customs <sup>1</sup> shall no later than January 31, 1991, 
 
 (Pub. L. 101–382, title I, §113, Aug. 20, 1990, 104 Stat. 639; Pub. L. 101–508, title X, §10001(d), Nov. 5, 1990, 104 Stat. 1388–386; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–508, §10001(d)(1)–(3), inserted "and" after semicolon at end of par. (1), substituted a period for semicolon at end of par. (2), and struck out pars. (3) to (5) which read as follows:
@@ -25,6 +27,8 @@ The Commissioner of Customs <sup>1</sup> shall no later than January 31, 1991, 
 "(5) report within 45 days of the beginning of any fiscal year to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate the results of each fee estimate made under paragraph (3) and each cost base and user fee methodology derivation made under paragraph (4)."
 
 Subsec. (b). Pub. L. 101–508, §10001(d)(4), substituted "Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate" for "Committees referred to in subsection (a)(5) of this section".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

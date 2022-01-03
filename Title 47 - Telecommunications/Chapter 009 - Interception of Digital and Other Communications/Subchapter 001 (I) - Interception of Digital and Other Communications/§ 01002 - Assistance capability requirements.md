@@ -30,7 +30,7 @@ Except as provided in subsections (b), (c), and (d) of this section and sections
 
 &emsp;&emsp;(A) to require any specific design of equipment, facilities, services, features, or system configurations to be adopted by any provider of a wire or electronic communication service, any manufacturer of telecommunications equipment, or any provider of telecommunications support services; or
 
-&emsp;&emsp;(B) to prohibit the adoption of any equipment, facility, service, or feature by anyprovider of a wire or electronic communication service, any manufacturer of telecommunications equipment, or any provider of telecommunications support services.
+&emsp;&emsp;(B) to prohibit the adoption of any equipment, facility, service, or feature by any provider of a wire or electronic communication service, any manufacturer of telecommunications equipment, or any provider of telecommunications support services.
 
 #### (2) Information services; private networks and interconnection services and facilities
 

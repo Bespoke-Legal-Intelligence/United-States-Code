@@ -34,6 +34,8 @@ If the Secretary of Housing and Urban Development and the Secretary of Agricultu
 
 (Pub. L. 101–625, title I, §109, Nov. 28, 1990, 104 Stat. 4093; Pub. L. 102–486, title I, §101(c)(1), Oct. 24, 1992, 106 Stat. 2786; Pub. L. 109–58, title I, §153, Aug. 8, 2005, 119 Stat. 649; Pub. L. 110–140, title IV, §481, Dec. 19, 2007, 121 Stat. 1648.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The National Housing Act, referred to in subsecs. (a)(1)(A) and (d)(1), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to chapter 13 (§1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
@@ -66,7 +68,9 @@ Subsec. (c). Pub. L. 109–58, §153(3), inserted "and the International Energy 
 
 <b>1992</b>—Pub. L. 102–486 amended section generally. Prior to amendment, section read as follows: "The Secretary of Housing and Urban Development shall, not later than one year after November 28, 1990, promulgate energy efficiency standards for new construction of public and assisted housing and single-family and multifamily residential housing (other than manufactured homes) subject to mortgages under the National Housing Act. Such standards shall meet or exceed the provisions of the most recent edition of the Model Energy Code of the Council of American Building Officials and shall be cost-effective with respect to construction and operating costs. In developing such standards the Secretary shall consult with an advisory task force composed of homebuilders, national, State, and local housing agencies (including public housing agencies), energy agencies and building code organizations and agencies, energy efficiency organizations, utility organizations, low-income housing organizations, and other parties designated by the Secretary."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub.L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 

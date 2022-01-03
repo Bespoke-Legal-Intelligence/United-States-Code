@@ -38,11 +38,15 @@ In subsection (a), the words "United States" are substituted for the word "Gover
 
 In subsection (b), the words "suitable space" are substituted for the words "proper and suitable room or rooms". The words "there is a" are substituted for the words "have been established".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4779 of this title as this section.
 
 <b>1986</b>—Subsecs. (b), (c). Pub. L. 99–661 redesignated subsec. (c) as (b) and struck out former subsec. (b) which directed the Secretary to assign suitable space for postal purposes at each military post where there was a post office.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

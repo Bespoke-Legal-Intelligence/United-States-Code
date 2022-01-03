@@ -8,13 +8,17 @@
 
 (Pub. L. 95–91, §2, Aug. 4, 1977, 91 Stat. 567.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a), (b), and (c), was in the original "this Act", meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, as amended, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title of 1997 Amendment
 
-Pub. L. 105–28, §1, July 18, 1997, 111 Stat. 245, provided that: "This Act \[amending sections 7191 and 7234 of thistitle and repealing section 776 of Title 15, Commerce and Trade\] may be cited as the 'Department of Energy Standardization Act of 1997'."
+Pub. L. 105–28, §1, July 18, 1997, 111 Stat. 245, provided that: "This Act \[amending sections 7191 and 7234 of this title and repealing section 776 of Title 15, Commerce and Trade\] may be cited as the 'Department of Energy Standardization Act of 1997'."
 
 #### Short Title of 1990 Amendment
 
@@ -32,7 +36,9 @@ For short title of subtitle D of title XXXI of div. C of Pub. L. 106–65, which
 
 For short title of section 1 \[div. C, title XXXVI\] of Pub. L. 106–398, which enacted subchapter XVI of this chapter, as the "Energy Employees Occupational Illness Compensation Program Act of 2000", see section 1 \[div. C, title XXXVI, §3601\] of Pub. L. 106–398, set out as a note under section 7384 of this title.
 
+#### <b>Executive Documents</b>
+
 #### Executive Order No. 12083
 
-Ex. Ord. No. 12083, Sept. 27, 1978, 43 F.R. 44813, as amended by Ex. Ord. No. 12121, Feb. 26, 1979, 44 F.R. 11195; Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239, which established the Energy Coordinating Committee and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, §20, Aug. 17, 1982, 47 F.R. 36100, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12083, Sept. 27, 1978, 43 F.R. 44813, as amended by Ex. Ord. No. 12121, Feb. 26, 1979, 44 F.R. 11195; Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239, which established the Energy Coordinating Committee and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, §20, Aug. 17, 1982, 47 F.R. 36100, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 

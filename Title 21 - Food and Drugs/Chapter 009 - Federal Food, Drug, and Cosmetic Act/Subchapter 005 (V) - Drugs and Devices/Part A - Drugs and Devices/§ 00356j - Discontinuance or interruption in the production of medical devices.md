@@ -96,7 +96,7 @@ If, based on notifications described in subsection (a) or any other relevant inf
 
 #### (C) Public health exception
 
-&emsp;&emsp;The Secretary may elect not to make information collected under this subsection publicly available if the Secretary determines that disclosure of such information would adversely affect the public health (such as by increasing the possibility of hoarding or other disruption of the availability of the device to patients).
+&emsp;&emsp;The Secretary may elect not to make information collected under this subsectionpublicly available if the Secretary determines that disclosure of such information would adversely affect the public health (such as by increasing the possibility of hoarding or other disruption of the availability of the device to patients).
 
 #### (h) Rule of construction
 

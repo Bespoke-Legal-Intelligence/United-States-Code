@@ -14,7 +14,7 @@ In General.—
 
 ### N−1
 
-> &emsp;where W equals overall gross weight on any group of two or more consecutive axles to the nearest five hundred pounds, L equals distance in feet between the extreme of any group of two or more consecutive axles, and N equals number of axles in group under consideration, except that two consecutive sets of tandem axles may carry a gross load of thirty-four thousand pounds each providing the overall distance between the first and last axles of such consecutive sets of tandem axles (1) is thirty-six feet or more, or (2) in the case of a motor vehicle hauling any tank trailer, dump trailer, or ocean transport container before September 1, 1989, is 30 feet or more: <i>Provided</i>, That such overall gross weight may not exceed eighty thousand pounds, including all enforcement tolerances, except for vehicles using Interstate Route 29 between Sioux City, Iowa, and the border between Iowa and South Dakota or vehicles using Interstate Route 129 between Sioux City, Iowa, and the border between Iowa and Nebraska, and except for those vehicles and loads which cannot be easily dismantled or divided and which have been issued special permits in accordance with applicableState laws, or the corresponding maximum weights permitted for vehicles using the public highways of such State under laws or regulations established by appropriate State authority in effect on July 1, 1956, except in the case of the overall gross weight of any group of two or more consecutive axles on any vehicle (other than a vehicle comprised of a motor vehicle hauling any tank trailer, dump trailer, or ocean transport container on or after September 1, 1989), on the date of enactment of the Federal-Aid Highway Amendments of 1974, whichever is the greater.
+> &emsp;where W equals overall gross weight on any group of two or more consecutive axles to the nearest five hundred pounds, L equals distance in feet between the extreme of any group of two or more consecutive axles, and N equals number of axles in group under consideration, except that two consecutive sets of tandem axles may carry a gross load of thirty-four thousand pounds each providing the overall distance between the first and last axles of such consecutive sets of tandem axles (1) is thirty-six feet or more, or (2) in the case of a motor vehicle hauling any tank trailer, dump trailer, or ocean transport container before September 1, 1989, is 30 feet or more: <i>Provided</i>, That such overall gross weight may not exceed eighty thousand pounds, including all enforcement tolerances, except for vehicles using Interstate Route 29 between Sioux City, Iowa, and the border between Iowa and South Dakota or vehicles using Interstate Route 129 between Sioux City, Iowa, and the border between Iowa and Nebraska, and except for those vehicles and loads which cannot be easily dismantled or divided and which have been issued special permits in accordance with applicable State laws, or the corresponding maximum weights permitted for vehicles using the public highways of such State under laws or regulations established by appropriate State authority in effect on July 1, 1956, except in the case of the overall gross weight of any group of two or more consecutive axles on any vehicle (other than a vehicle comprised of a motor vehicle hauling any tank trailer, dump trailer, or ocean transport container on or after September 1, 1989), on the date of enactment of the Federal-Aid Highway Amendments of 1974, whichever is the greater.
 
 &emsp;(3) Any amount which is withheld from apportionment to any State pursuant to the foregoing provisions shall lapse if not released and obligated within the availability period specified in section 118(b).
 
@@ -70,7 +70,7 @@ Reasonable Access.—No State may enact or enforce any law denying reasonable ac
 
 (c)
 
-Ocean Transport Container Defined.—For purposes of this section, the term "ocean transport container" has the meaning given the term "freight container" by the International Standards Organization in Series 1, Freight Containers, 3rd Edition (reference number IS0668–1979(E)) as in effect on the date of the enactment of this subsection.
+Ocean Transport Container Defined.—For purposes of this section, the term "ocean transport container" has the meaning given theterm "freight container" by the International Standards Organization in Series 1, Freight Containers, 3rd Edition (reference number IS0668–1979(E)) as in effect on the date of the enactment of this subsection.
 
 (d)
 
@@ -86,7 +86,7 @@ General continuation rule.—A longer combination vehicle may continue to operat
 
 &emsp;&emsp;(B)
 
-Applicability of state laws and regulations.—All such operations shall continue to be subject to, at the minimum, all State statutes, regulations, limitations and conditions, including, but not limited to, routing-specific and configuration-specific designations and all other restrictions, in force on June 1, 1991; except that subject to such regulations as may be issued by theSecretary pursuant to paragraph (5) of this subsection, the State may make minor adjustments of a temporary and emergency nature to route designations and vehicle operating restrictions in effect on June 1, 1991, for specific safety purposes and road construction.
+Applicability of state laws and regulations.—All such operations shall continue to be subject to, at the minimum, all State statutes, regulations, limitations and conditions, including, but not limited to, routing-specific and configuration-specific designations and all other restrictions, in force on June 1, 1991; except that subject to such regulations as may be issued by the Secretary pursuant to paragraph (5) of this subsection, the State may make minor adjustments of a temporary and emergency nature to route designations and vehicle operating restrictions in effect on June 1, 1991, for specific safety purposes and road construction.
 
 &emsp;&emsp;(C)
 
@@ -134,7 +134,7 @@ Limitation.—No statute or regulation shall be included on the list submitted b
 
 &emsp;&emsp;(D)
 
-Final list.—Except as modified pursuant to paragraph (1)(C) of this subsection, the list shall be published as final in the Federal Register not later than 180 days after the date of the enactment of this subsection. In publishing the final list, the Secretary shall make any revisions necessary to correct inaccuracies identified under subparagraph (B). After publication of the final list, longer combination vehicles may not operate on the Interstate System except as provided in the list.
+Final list.—Except as modified pursuant to paragraph (1)(C) of this subsection, the list shall be published as final in the Federal Register not later than 180 days after the date of the enactment of this subsection. In publishing the final list, the Secretary shall make any revisions necessary to correct inaccuracies identified under subparagraph (B). After publication of the finallist, longer combination vehicles may not operate on the Interstate System except as provided in the list.
 
 &emsp;&emsp;(E)
 
@@ -146,7 +146,7 @@ Longer combination vehicle defined.—For purposes of this section, the term "lo
 
 &emsp;(5)
 
-Regulations regarding minor adjustments.—Not later than 180 days after the dateof the enactment of this subsection, the Secretary shall issue regulations establishing criteria for the States to follow in making minor adjustments under paragraph (1)(B).
+Regulations regarding minor adjustments.—Not later than 180 days after the date of the enactment of this subsection, the Secretary shall issue regulations establishing criteria for the States to follow in making minor adjustments under paragraph (1)(B).
 
 (e)
 
@@ -220,15 +220,17 @@ Additional highway segments.—
 
 &emsp;&emsp;(A)
 
-In general.—If any segment of highway described in clauses (i) through (iv) of this subparagraph is designated as a route of the Interstate System, a vehicle that could operate legally on that segment before the date of such designation may continue to operate on that segment, without regard to any requirement under subsection (a), except that such vehicle shall not exceed a gross vehicle weight of 120,000 pounds. The highway segments referred to in this paragraph are as follows:
+In general.—If any segment of highway described in clauses (i) through (v) is designated as a route of the Interstate System, a vehicle that could operate legally on that segment before the date of such designation may continue to operate on that segment, without regard to any requirement under subsection (a), except that such vehicle shall not exceed a gross vehicle weight of 120,000 pounds. The highway segments referred to in this paragraph are as follows:
 
-&emsp;&emsp;&emsp;(i) The William H. Natcher Parkway (to be designated as a spur of Interstate Route65) from Interstate Route 65 in Bowling Green, Kentucky, to United States Route 60 in Owensboro, Kentucky.
+&emsp;&emsp;&emsp;(i) The William H. Natcher Parkway (to be designated as a spur of Interstate Route 65) from Interstate Route 65 in Bowling Green, Kentucky, to United States Route 60 in Owensboro, Kentucky.
 
 &emsp;&emsp;&emsp;(ii) The Julian M. Carroll (Purchase) Parkway (to be designated as Interstate Route 69) in Kentucky from the Tennessee state line to the interchange with Interstate Route 24, near Calvert City.
 
 &emsp;&emsp;&emsp;(iii) The Wendell H. Ford (Western Kentucky) Parkway (to be designated as a spur of Interstate Route 69) from the interchange with the William H. Natcher Parkway in Ohio County, Kentucky, west to the interchange of the Western Kentucky Parkway with the Edward T. Breathitt (Pennyrile) Parkway.
 
 &emsp;&emsp;&emsp;(iv) The Edward T. Breathitt (Pennyrile) Parkway (to be designated as a spur of Interstate Route 69) from Interstate 24, north to Interstate 69.
+
+&emsp;&emsp;&emsp;(v) The Louie B. Nunn Cumberland Expressway (to be designated as a spur of Interstate Route 65) from the interchange with Interstate Route 65 in Barren County, Kentucky, east to the interchange with United States Highway 27 in Somerset, Kentucky.
 
 &emsp;&emsp;(B)
 
@@ -346,7 +348,15 @@ Vehicles in North Dakota.—A vehicle limited or prohibited under this section f
 
 &emsp;(3) is authorized to operate on such segment under North Dakota State law.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 902; Pub. L. 86–624, §17(e), July 12, 1960, 74 Stat. 416; Pub. L. 93–643, §106, Jan. 4, 1975, 88 Stat. 2283; Pub. L. 94–280, title I, §120, May 5, 1976, 90 Stat. 438; Pub. L. 97–424, title I, §133, formerly §133(a), Jan. 6, 1983, 96 Stat. 2123, renumbered §133, Pub. L. 100–17, title I, §133(a)(3), Apr. 2, 1987, 101 Stat. 170; Pub. L. 100–17, title I, §119, Apr. 2, 1987, 101 Stat. 157; Pub. L. 100–202, §101(l) \[title III, §347(c)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–388; Pub. L. 101–427, Oct. 15, 1990, 104 Stat. 927; Pub. L. 102–240, title I, §1023(a), (b), (d), Dec. 18, 1991, 105 Stat. 1951, 1952, 1954; Pub. L. 103–331, title III, §332, Sept. 30, 1994, 108 Stat. 2493; Pub. L. 103–429, §3(3), Oct. 31, 1994, 108 Stat. 4377; Pub. L. 104–59, title III, §312(a)(1), (2), (b), Nov. 28, 1995, 109 Stat. 584; Pub. L. 104–88, title IV, §§404, 405(a)(1), Dec. 29, 1995, 109 Stat. 956; Pub. L. 105–178, title I, §§1106(c)(2)(B), 1212(d)(1), June 9, 1998, 112 Stat. 136, 194; Pub. L. 107–107, div. A, title X, §1064, Dec. 28, 2001, 115 Stat. 1233; Pub. L. 108–447, div. J, title I, §121, Dec. 8, 2004, 118 Stat. 3347; Pub. L. 109–58, title VII, §756(c), Aug. 8, 2005, 119 Stat. 832; Pub. L. 109–59, title I, §1111(b)(3), Aug. 10, 2005, 119 Stat. 1171; Pub. L. 111–117, div. A, title I, §194(a), (c), (d), (f), Dec. 16, 2009, 123 Stat. 3072, 3073; Pub. L. 112–55, div. C, title I, §125, Nov. 18, 2011, 125 Stat. 655; Pub. L. 112–141, div. A, title I, §§1404(a), 1510, 1511, July 6, 2012, 126 Stat. 557, 567; Pub. L. 113–235, div. K, title I, §125, Dec. 16, 2014, 128 Stat. 2709; Pub. L. 114–94, div. A, title I, §§1409, 1410, 1446(a)(3), Dec. 4, 2015, 129 Stat. 1411, 1437; Pub. L. 114–113, div. L, title I, §124, Dec. 18, 2015, 129 Stat. 2847; Pub. L. 115–141, div. L, title I, §§127, 129A, Mar. 23, 2018, 132 Stat. 988; Pub. L. 116–6, div. G, title IV, §§421, 422, Feb. 15, 2019, 133 Stat. 474; Pub. L. 116–94, div. H, title IV, §425(a), Dec. 20, 2019, 133 Stat. 3018.)
+(v)
+
+Operation of Vehicles on Certain North Carolina Highways.—If any segment in the State of North Carolina of United States Route 17, United States Route 29, United States Route 52, United States Route 64, United States Route 70, United States Route 74, United States Route 117, United States Route 220, United States Route 264, or United States Route 421 is designated as a route on the Interstate System, a vehicle that could operate legally on that segment before the date of such designation may continue to operate on that segment, without regard to any requirement under subsection (a).
+
+(w)
+
+Operation of Vehicles on Certain Oklahoma Highways.—If any segment of the highway referred to in paragraph (96) of section 1105(c) of the Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240; 105 Stat. 2032) is designated as a route on the Interstate System, a vehicle that could operate legally on that segment before the date of such designation may continue to operate on that segment, without any regard to any requirement under this section.
+
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 902; Pub. L. 86–624, §17(e), July 12, 1960, 74 Stat. 416; Pub. L. 93–643, §106, Jan. 4, 1975, 88 Stat. 2283; Pub. L. 94–280, title I, §120, May 5, 1976, 90 Stat. 438; Pub. L. 97–424, title I, §133, formerly §133(a), Jan. 6, 1983, 96 Stat. 2123, renumbered §133, Pub. L. 100–17, title I, §133(a)(3), Apr. 2, 1987, 101 Stat. 170; Pub. L. 100–17, title I, §119, Apr. 2, 1987, 101 Stat. 157; Pub. L. 100–202, §101(l) \[title III, §347(c)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–388; Pub. L. 101–427, Oct. 15, 1990, 104 Stat. 927; Pub. L. 102–240, title I, §1023(a), (b), (d), Dec. 18, 1991, 105 Stat. 1951, 1952, 1954; Pub. L. 103–331, title III, §332, Sept. 30, 1994, 108 Stat. 2493; Pub. L. 103–429, §3(3), Oct. 31, 1994, 108 Stat. 4377; Pub. L. 104–59, title III, §312(a)(1), (2), (b), Nov. 28, 1995, 109 Stat. 584; Pub. L. 104–88, title IV, §§404, 405(a)(1), Dec. 29, 1995, 109 Stat. 956; Pub. L. 105–178, title I, §§1106(c)(2)(B), 1212(d)(1), June 9, 1998, 112 Stat. 136, 194; Pub. L. 107–107, div. A, title X, §1064, Dec. 28, 2001, 115 Stat. 1233; Pub. L. 108–447, div. J, title I, §121, Dec. 8, 2004, 118 Stat. 3347; Pub. L. 109–58, title VII, §756(c), Aug. 8, 2005, 119 Stat. 832; Pub. L. 109–59, title I, §1111(b)(3), Aug. 10, 2005, 119 Stat. 1171; Pub. L. 111–117, div. A, title I, §194(a), (c), (d), (f), Dec. 16, 2009, 123 Stat. 3072, 3073; Pub. L. 112–55, div. C, title I, §125, Nov. 18, 2011, 125 Stat. 655; Pub. L. 112–141, div. A, title I, §§1404(a), 1510, 1511, July 6, 2012, 126 Stat. 557, 567; Pub. L. 113–235, div. K, title I, §125, Dec. 16, 2014, 128 Stat. 2709; Pub. L. 114–94, div. A, title I, §§1409, 1410, 1446(a)(3), Dec. 4, 2015, 129 Stat. 1411, 1437; Pub. L. 114–113, div. L, title I, §124, Dec. 18, 2015, 129 Stat. 2847; Pub. L. 115–141, div. L, title I, §§127, 129A, Mar. 23, 2018, 132 Stat. 988; Pub. L. 116–6, div. G, title IV, §§421, 422, Feb. 15, 2019, 133 Stat. 474; Pub. L. 116–94, div. H, title IV, §425(a), Dec. 20, 2019, 133 Stat. 3018; Pub. L. 117–58, div. A, title I, §11515, Nov. 15, 2021, 135 Stat. 599.)
 
 #### <b>Editorial Notes</b>
 
@@ -366,13 +376,19 @@ The date of the enactment of this subsection, referred to in subsec. (g), is the
 
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (i)(1)(A), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
-Section 1105(c)(57) of the Intermodal Surface Transportation Efficiency Act of 1991, referred to in subsec. (j), is section 1105(c)(57) of Pub. L. 102–240, which is not classified to the Code.
+Section 1105(c) of the Intermodal Surface Transportation Efficiency Act of 1991, referred to in subsecs. (j) and (w), is section 1105(c) of Pub. L. 102–240, which is not classified to the Code. Par. (57) was added by Pub. L. 109–59, title I, §1304(b)(5), Aug. 10, 2005, 119 Stat. 1211. Par. (96) was added by Pub. L. 117–58, div. A, title I, §11514(a)(2), Nov. 15, 2021, 135 Stat. 597.
 
 #### Codification
 
 Amendments by section 194(c), (f) of Pub. L. 111–117 were executed as if the amendments by section 194(a), (d) of Pub. L. 111–117 were still in effect, notwithstanding section 194(b), (e) of Pub. L. 111–117 which provided that the amendments by section 194(a), (d) were only effective during the 1-year period beginning on the date of enactment of Pub. L. 111–117. See 2009 Amendment notes and Effective and Termination Dates of 2009 Amendment notes below.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (l)(3)(A). Pub. L. 117–58, §11515(1)(A), substituted "clauses (i) through (v)" for "clauses (i) through (iv) of this subparagraph" in introductory provisions.
+
+Subsec. (l)(3)(A)(v). Pub. L. 117–58, §11515(1)(B), added cl. (v).
+
+Subsecs. (v), (w). Pub. L. 117–58, §11515(2), added subsecs. (v) and (w).
 
 <b>2019</b>—Subsec. (l)(3). Pub. L. 116–6, §421, added par. (3).
 
@@ -475,6 +491,10 @@ Subsec. (b). Pub. L. 97–424 added subsec. (b).
 <b>1960</b>—Pub. L. 86–624 made the laws or regulation in effect on Feb. 1, 1960, applicable, with respect to the State of Hawaii, for the purposes of this section, in lieu of those in effect on July 1, 1956.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as a note under section 101 of this title.
 
 #### Effective Date of 2015 Amendment
 

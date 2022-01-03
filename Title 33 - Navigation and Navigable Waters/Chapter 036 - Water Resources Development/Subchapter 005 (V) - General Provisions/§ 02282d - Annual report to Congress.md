@@ -40,7 +40,7 @@ Not later than February 1 of each year, the Secretary shall develop and submit t
 
 &emsp;&emsp;(A) make the notice publicly available, including on the Internet; and
 
-&emsp;&emsp;(B) provide written notification of the publication to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+&emsp;&emsp;(B) provide written notification of the publication to the Committee on Environmentand Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
 #### (c) Contents
 

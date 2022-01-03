@@ -7,6 +7,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1971</b>—Pub. L. 92–178, title V, §501, Dec. 10, 1971, 85 Stat. 535, added part IV to subchapter N of chapter 1.

@@ -10,7 +10,7 @@ Each statewide organization or consortium receiving a grant under this part shal
 
 &emsp;&emsp;(B) to communicate effectively with their children, teachers, school leaders, counselors, administrators, and other school personnel;
 
-&emsp;&emsp;(C) to become active participants in the development, implementation, and review of school-parent compacts, family engagement in education policies, and school planning and improvement;
+&emsp;&emsp;(C) to become active participants in the development, implementation, and review ofschool-parent compacts, family engagement in education policies, and school planning and improvement;
 
 &emsp;&emsp;(D) to participate in the design and provision of assistance to students who are not making academic progress;
 
@@ -41,6 +41,8 @@ Notwithstanding any other provision of this section—
 &emsp;(2) no program or center assisted under this section shall take any action that infringes in any manner on the right of parents to direct the education of their children.
 
 (Pub. L. 89–10, title IV, §4504, as added Pub. L. 114–95, title IV, §4501, Dec. 10, 2015, 129 Stat. 2019.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

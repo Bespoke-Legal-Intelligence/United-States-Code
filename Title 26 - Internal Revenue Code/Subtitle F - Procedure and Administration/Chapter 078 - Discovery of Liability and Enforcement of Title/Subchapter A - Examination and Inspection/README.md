@@ -18,6 +18,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Pub. L. 105–206, title III, §3413(d), July 22, 1998, 112 Stat. 754, added items 7612 and 7613 and struck out former item 7612 "Cross references".

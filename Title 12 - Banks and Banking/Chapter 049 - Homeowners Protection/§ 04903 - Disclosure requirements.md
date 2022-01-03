@@ -30,7 +30,7 @@
 
 #### (2) Disclosures for excepted transactions
 
-&emsp;In the case of a residential mortgage transaction described in section 4902(g)(1) of thistitle, at the time at which the transaction is consummated, the mortgagee shall provide written notice to the mortgagor that in no case may private mortgage insurance be required beyond the date that is the midpoint of the amortization period of the loan, if the mortgagor is current on payments required by the terms of the residential mortgage.
+&emsp;In the case of a residential mortgage transaction described in section 4902(g)(1) of this title, at the time at which the transaction is consummated, the mortgagee shall provide written notice to the mortgagor that in no case may private mortgage insurance be required beyond the date that is the midpoint of the amortization period of the loan, if the mortgagor is current on payments required by the terms of the residential mortgage.
 
 #### (3) Annual disclosures
 
@@ -66,7 +66,7 @@ The mortgagee or servicer may use standardized forms for the provision of disclo
 
 #### References in Text
 
-The effective date of this chapter, referred to in subsec. (b), is 1 year after July 29, 1998, see section 13 of Pub. L. 105–216, set out as an Effective Date note under section 4901 of this title.
+The effective date of this chapter, referred to in subsec. (b), is 1 year after July 29, 1998, see section 13 ofPub. L. 105–216, set out as an Effective Date note under section 4901 of this title.
 
 The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (c), is Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, as amended, which is classified principally to chapter 27 (§2601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
 

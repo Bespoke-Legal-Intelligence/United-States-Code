@@ -12,7 +12,7 @@ If the determination by a court that the taxpayer is liable for a second tier ta
 
 #### (1) Proceeding in District Court or United States Court of Federal Claims
 
-&emsp;If, not later than 90 days after the day on which the second tier tax is assessed, the first tier tax is paid in full and a claim for refund of the amount so paid is filed, no levy or proceeding in court for the collection of the second tier tax shall be made, begun, or prosecuted until a final resolution of a proceeding begun as provided in paragraph (2) (and of any supplemental proceeding with respect thereto under subsection (b)). Notwithstanding section 7421(a), the collection by levy or proceeding may be enjoined during the time such prohibition is in force by a proceeding in the proper court.
+&emsp;If, not later than 90 days after the day on which the second tier tax is assessed, the firsttier tax is paid in full and a claim for refund of the amount so paid is filed, no levy or proceeding in court for the collection of the second tier tax shall be made, begun, or prosecuted until a final resolution of a proceeding begun as provided in paragraph (2) (and of any supplemental proceeding with respect thereto under subsection (b)). Notwithstanding section 7421(a), the collection by levy or proceeding may be enjoined during the time such prohibition is in force by a proceeding in the proper court.
 
 #### (2) Suit must be brought to determine liability
 
@@ -28,11 +28,15 @@ If the determination by a court that the taxpayer is liable for a second tier ta
 
 (Added Pub. L. 96–596, §2(c)(1), Dec. 24, 1980, 94 Stat. 3472; amended Pub. L. 99–514, title XVIII, §1899A(50), Oct. 22, 1986, 100 Stat. 2961; Pub. L. 115–141, div. U, title IV, §401(a)(325)(C), Mar. 23, 2018, 132 Stat. 1200.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (c)(1). Pub. L. 115–141 substituted "United States Court of Federal Claims" for "United States Claims Court" in heading.
 
 <b>1986</b>—Subsec. (c)(1). Pub. L. 99–514 substituted "United States Claims Court" for "Court of Claims" in heading.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

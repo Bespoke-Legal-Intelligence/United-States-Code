@@ -48,6 +48,8 @@ In subsections (a) and (b), the word "member" is substituted for the words "offi
 
 In subsection (b), the words "in their own right" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283 substituted "Marine Corps, or Space Force" for "or Marine Corps" in subsecs. (a) and (b).

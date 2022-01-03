@@ -60,7 +60,7 @@ Funds available pursuant to grants, cooperative agreements, or contracts awarded
 
 &emsp;(5) to support State court planning and budgeting staffs and to provide technical assistance in resource allocation and service forecasting techniques;
 
-&emsp;(6) to support studies of the adequacy of court management systems in State and localcourts and to implement and evaluate innovative responses to problems of record management, data processing, court personnel management, reporting and transcription of court proceedings, and juror utilization and management;
+&emsp;(6) to support studies of the adequacy of court management systems in State and local courts and to implement and evaluate innovative responses to problems of record management, data processing, court personnel management, reporting and transcription of court proceedings, and juror utilization and management;
 
 &emsp;(7) to collect and compile statistical data and other information on the work of the courts and on the work of other agencies which relate to and affect the work of courts;
 
@@ -88,7 +88,7 @@ Funds available pursuant to grants, cooperative agreements, or contracts awarded
 
 #### (d) Matching fund requirements
 
-The Institute shall incorporate in any grant, cooperative agreement, or contract awarded under this section in which a State or local court (or other unit of State or local government) is the recipient, the requirement that the recipient provide a match, from private or public sources, not less than 50 per centum of the total cost of such grant, cooperative agreement, or contract, except that such requirement may be waived in exceptionally rare circumstances upon the approval of the chief justice of the highest court of the State and a majority of the Board of Directors.
+The Institute shall incorporate in any grant, cooperative agreement, or contract awarded under this section in which a State or local court (or other unit of State or local government) is the recipient, the requirement that the recipient provide a match, from private or public sources, not less than 50 per centum of the total cost of such grant, cooperative agreement, or contract, except that such requirement may be waived in exceptionally rare circumstances upon the approval of the chief justice of thehighest court of the State and a majority of the Board of Directors.
 
 #### (e) Compliance monitoring and evaluation by Institute
 
@@ -99,6 +99,8 @@ The Institute shall monitor and evaluate, or provide for independent evaluations
 The Institute shall provide for an independent study of the financial and technical assistance programs under this chapter.
 
 (Pub. L. 98–620, title II, §206, Nov. 8, 1984, 98 Stat. 3340; Pub. L. 100–690, title VII, §7321(b)(3), (4), Nov. 18, 1988, 102 Stat. 4466, 4467; Pub. L. 100–702, title VI, §§603, 604, Nov. 19, 1988, 102 Stat. 4653; Pub. L. 102–528, §§2, 3(2), Oct. 27, 1992, 106 Stat. 3461, 3462; Pub. L. 102–572, title VIII, §§802, 803(b), Oct. 29, 1992, 106 Stat. 4515, 4516.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -145,6 +147,8 @@ Pub. L. 100–690, §7321(b)(3)(B), (C), redesignated pars. (5) to (15) as (4) t
 Subsec. (d). Pub. L. 100–702, §604, which directed the substitution of "court (or other unit of State or local government)" for "judicial system", could not be executed due to prior amendment by Pub. L. 100–690, §7321(b)(4). See below.
 
 Pub. L. 100–690, §7321(b)(4), substituted "court (or other unit of State or local government)" for "judicial system".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -18,10 +18,16 @@
 | [115\.](%C2%A7%2000115%20-%20Transportation%20Security%20Oversight%20Board.md) | Transportation Security Oversight Board. |
 | [116\.](%C2%A7%2000116%20-%20National%20Surface%20Transportation%20and%20Innovative%20Finance%20Bureau.md) | National Surface Transportation and Innovative Finance Bureau. |
 | [117\.](%C2%A7%2000117%20-%20Council%20on%20Credit%20and%20Finance.md) | Council on Credit and Finance. |
+| [118\.](%C2%A7%2000118%20-%20Office%20of%20Multimodal%20Freight%20Infrastructure%20and%20Policy.md) | Office of Multimodal Freight Infrastructure and Policy. |
+| [119\.](%C2%A7%2000119%20-%20Advanced%20Research%20Projects%20Agency%E2%80%93Infrastructure.md) | Advanced Research Projects Agency–Infrastructure. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Pub. L. 117–58, div. B, title I, §21101(c), title V, §25012(b), Nov. 15, 2021, 135 Stat. 656, 867, added items 118 and 119.
 
 <b>2020</b>—Pub. L. 116–260, div. AA, title V, §512(c)(7)(B), Dec. 27, 2020, 134 Stat. 2757, substituted "Great Lakes St. Lawrence Seaway Development Corporation" for "Saint Lawrence Seaway Development Corporation" in item 110.
 
@@ -63,3 +69,5 @@
 - [&sect; 00115 - Transportation Security Oversight Board](%C2%A7%2000115%20-%20Transportation%20Security%20Oversight%20Board.md)
 - [&sect; 00116 - National Surface Transportation and Innovative Finance Bureau](%C2%A7%2000116%20-%20National%20Surface%20Transportation%20and%20Innovative%20Finance%20Bureau.md)
 - [&sect; 00117 - Council on Credit and Finance](%C2%A7%2000117%20-%20Council%20on%20Credit%20and%20Finance.md)
+- [&sect; 00118 - Office of Multimodal Freight Infrastructure and Policy](%C2%A7%2000118%20-%20Office%20of%20Multimodal%20Freight%20Infrastructure%20and%20Policy.md)
+- [&sect; 00119 - Advanced Research Projects Agency&#8211;Infrastructure](%C2%A7%2000119%20-%20Advanced%20Research%20Projects%20Agency%E2%80%93Infrastructure.md)

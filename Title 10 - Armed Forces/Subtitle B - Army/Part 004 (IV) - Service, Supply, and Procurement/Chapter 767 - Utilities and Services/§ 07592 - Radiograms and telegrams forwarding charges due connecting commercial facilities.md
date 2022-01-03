@@ -20,6 +20,8 @@ May 12, 1917, ch. 12 (proviso under "Washington-Alaska Military Cable and Telegr
 
 The words "members of" are inserted for clarity. The words "Government", "and to this end", "as may be", and "amount of such" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4592 of this title as this section.
@@ -27,6 +29,8 @@ The words "members of" are inserted for clarity. The words "Government", "and to
 <b>1996</b>—Pub. L. 104–316 substituted "of the forwarding" for ", or may file a claim with the General Accounting Office for the forwarding" in second sentence.
 
 <b>1982</b>—Pub. L. 97–258 substituted "official" for "officer".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

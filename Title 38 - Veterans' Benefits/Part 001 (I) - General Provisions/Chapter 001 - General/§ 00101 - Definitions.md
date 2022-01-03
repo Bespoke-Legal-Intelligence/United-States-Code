@@ -488,6 +488,26 @@ Amendment by Pub. L. 89–311 effective first day of second calendar month follo
 
 #### Short Title of 2021 Amendment
 
+Pub. L. 117–76, §1, Dec. 21, 2021, 135 Stat. 1517, provided that: "This Act \[amending sections 516, 3313, 3679, 3680, 3689, 3690, 3696, and 3729 of this title, enacting provisions set out as notes under sections 3679 and 3680 of this title, and amending provisions set out as notes preceding section 3001 and under sections 3031, 3103, 3485, and 3687 of this title\] may be cited as the 'Responsible Education Mitigating Options and Technical Extensions Act' or the 'REMOTE Act'."
+
+Pub. L. 117–69, §1, Nov. 30, 2021, 135 Stat. 1495, provided that: "This Act \[enacting provisions set out as a note under section 1703 of this title\] may be cited as the 'Protecting Moms Who Served Act of 2021'."
+
+Pub. L. 117–68, §1, Nov. 30, 2021, 135 Stat. 1493, provided that: "This Act \[amending section 3679 of this title and enacting provisions set out as a note under section 3679 of this title\] may be cited as the 'Colonel John M. McHugh Tuition Fairness for Survivors Act of 2021'."
+
+Pub. L. 117–67, §1, Nov. 30, 2021, 135 Stat. 1491, provided that: "This Act \[amending provisions set out as a note under section 7401 of this title\] may be cited as the 'Hire Veteran Health Heroes Act of 2021'."
+
+Pub. L. 117–62, §1, Nov. 22, 2021, 135 Stat. 1482, provided that: "This Act \[enacting provisions set out as a note under section 6303 of this title\] may be cited as the 'Veterans and Family Information Act'."
+
+Pub. L. 117–45, §1, Oct. 8, 2021, 135 Stat. 389, provided that: "This Act \[enacting provisions set out as notes under section 1114 of this title\] may be cited as the 'Veterans' Compensation Cost-of-Living Adjustment Act of 2021'."
+
+Pub. L. 117–42, §1, Sept. 30, 2021, 135 Stat. 342, provided that: "This Act \[amending section 1712C of this title and provisions set out as a note under section 8103 of this title\] may be cited as the 'Department of Veterans Affairs Expiring Authorities Act of 2021'."
+
+Pub. L. 117–37, §1, Aug. 25, 2021, 135 Stat. 329, provided that: "This Act \[amending section 1714 of this title andenacting provisions set out as notes under section 1714 of this title\] may be cited as the 'Puppies Assisting Wounded Servicemembers for Veterans Therapy Act' or the 'PAWS for Veterans Therapy Act'."
+
+Pub. L. 117–21, §1, June 30, 2021, 135 Stat. 292, provided that: "This Act \[enacting provisions set out as a note under section 1712A of this title\] may be cited as the 'Sgt. Ketchum Rural Veterans Mental Health Act of 2021'."
+
+Pub. L. 117–16, §1, June 8, 2021, 135 Stat. 280, provided that: "This Act \[amending sections 1166, 3313, 3671, 3673A, 3679, 3696, and 3698 of this title, renumbering section 1164 of this title as section 1166, enacting provisions set out as notes preceding section 3001 and under sections 3698 and 3699B of this title, and amending provisions set out as notes preceding section 3001 and under sections 2408, 3671, and 3699B of this title\] may be cited as the 'Training in High-demand Roles to Improve Veteran Employment Act' or the 'THRIVE Act'."
+
 Pub. L. 116–315, §1(a), Jan. 5, 2021, 134 Stat. 4932, provided that: "This Act \[see Tables for classification\] may be cited as the 'Johnny Isakson and David P. Roe, M.D. Veterans Health Care and Benefits Improvement Act of 2020'."
 
 Pub. L. 116–315, title IV, §4001, Jan. 5, 2021, 134 Stat. 5006, provided that: "This title \[see Tables for classification\] may be cited as the 'Navy SEAL Bill Mulder Act of 2020'."
@@ -502,7 +522,7 @@ Pub. L. 116–283, div. A, title VII, §761, Jan. 1, 2021, 134 Stat. 3724, provi
 
 Pub. L. 116–278, §1, Dec. 31, 2020, 134 Stat. 3373, provided that: "This Act \[amending section 1720G of this title and enacting provisions set out as a note under section 1720G of this title\] may be cited as the 'Transparency and Effective Accountability Measures for Veteran Caregivers Act' or the 'TEAM Veteran Caregivers Act'."
 
-Pub. L. 116–214, §1(a), Dec. 5, 2020, 134 Stat. 1026, provided that: "This Act \[enacting section 1720J of thistitle and provisions set out as notes under sections 902, 1710, 1720G, 1720J, and 6303 of this title\] may be cited as the 'Veterans Comprehensive Prevention, Access to Care, and Treatment Act of 2020' or the 'Veterans COMPACT Act of 2020'."
+Pub. L. 116–214, §1(a), Dec. 5, 2020, 134 Stat. 1026, provided that: "This Act \[enacting section 1720J of this title and provisions set out as notes under sections 902, 1710, 1720G, 1720J, and 6303 of this title\] may be cited as the 'Veterans Comprehensive Prevention, Access to Care, and Treatment Act of 2020' or the 'Veterans COMPACT Act of 2020'."
 
 Pub. L. 116–183, §1, Oct. 30, 2020, 134 Stat. 895, provided that: "This Act \[amending section 8127 of this title and enacting provisions set out as a note under section 8127 of this title\] may be cited as the 'Protecting Business Opportunities for Veterans Act of 2019'."
 
@@ -562,7 +582,7 @@ Pub. L. 115–86, §1, Nov. 21, 2017, 131 Stat. 1276, provided that: "This Act \
 
 Pub. L. 115–75, §1, Nov. 2, 2017, 131 Stat. 1244, provided that: "This Act \[enacting provisions set out as notes under section 1114 of this title\] may be cited as the 'Veterans' Compensation Cost-of-Living Adjustment Act of 2017'."
 
-Pub. L. 115–62, §1(a), Sept. 29, 2017, 131 Stat. 1159, provided that: "This Act \[amending sections 111A, 315, 322, 503, 521A, 544, 1710, 1710A, 1720G, 1729, 2021, 2021A, 2023,2031, 2033, 2044, 2061, 2066, 2101, 2108, 3313, 3673, 3720, 3732, and 3733 of this title, enacting provisions set out as notes under sections 1710C, 3313, and 3684 of this title, and amending provisions set out as notes under sections 1116, 1710, 1710C, 1712A, 3313, 3684, and 3699 of this title and section 1071 of Title 10, Armed Forces\] may be cited as the 'Department of Veterans Affairs Expiring Authorities Act of 2017'."
+Pub. L. 115–62, §1(a), Sept. 29, 2017, 131 Stat. 1159, provided that: "This Act \[amending sections 111A, 315, 322, 503, 521A, 544, 1710, 1710A, 1720G, 1729, 2021, 2021A, 2023, 2031, 2033, 2044, 2061, 2066, 2101, 2108, 3313, 3673, 3720, 3732, and 3733 of this title, enacting provisions set out as notes under sections 1710C, 3313, and 3684 of this title, and amending provisions set out as notes under sections 1116, 1710, 1710C, 1712A, 3313, 3684, and 3699 of this title and section 1071 of Title 10, Armed Forces\] may be cited as the 'Department of Veterans Affairs Expiring Authorities Act of 2017'."
 
 Pub. L. 115–55, §1, Aug. 23, 2017, 131 Stat. 1105, provided that: "This Act \[enacting sections 5104A to 5104C and 7113 of this title, amending this section and sections 5103 to 5104, 5108, 5109, 5109B, 5110, 5111, 5701, 5904, 7103 to 7105A, and 7111 of this title, repealing sections 7106 and 7109 of this title, and enacting provisions set out as notes under this section and sections 5101 and 5108 of this title\] may be cited as the 'Veterans Appeals Improvement and Modernization Act of 2017'."
 
@@ -600,7 +620,7 @@ Pub. L. 114–31, §1, July 20, 2015, 129 Stat. 428, provided that: "This Act \[
 
 Pub. L. 114–19, §1, May 22, 2015, 129 Stat. 215, provided that: "This Act \[enacting and amending provisions set out as notes under section 1701 of this section\] may be cited as the 'Construction Authorization and Choice Improvement Act'."
 
-Pub. L. 114–2, §1, Feb. 12, 2015, 129 Stat. 30, provided that: "This Act \[enacting section 1709B of this title, amending section 1710 of this title, and enacting provisions set out as notes under sections 1712A, 1720F, and 7681 of this title\] may be cited as the 'Clay Hunt Suicide Prevention for American Veterans Act' or the 'Clay Hunt SAV Act'."
+Pub. L. 114–2, §1, Feb. 12, 2015, 129 Stat. 30, provided that: "This Act \[enacting section 1709B of this title,amending section 1710 of this title, and enacting provisions set out as notes under sections 1712A, 1720F, and 7681 of this title\] may be cited as the 'Clay Hunt Suicide Prevention for American Veterans Act' or the 'Clay Hunt SAV Act'."
 
 #### Short Title of 2014 Amendment
 
@@ -620,7 +640,7 @@ Pub. L. 113–59, §1(a), Dec. 20, 2013, 127 Stat. 658, provided that: "This Act
 
 Pub. L. 113–52, §1, Nov. 21, 2013, 127 Stat. 582, provided that: "This Act \[enacting provisions set out as notes under section 1114 of this title\] may be cited as the 'Veterans' Compensation Cost-of-Living Adjustment Act of 2013'."
 
-Pub. L. 113–37, §1, Sept. 30, 2013, 127 Stat. 523, provided that: "This Act \[amending sections 322, 521A, 1710, 1729, 2013, 2021, 2023, 2044, 2061, 2101, 3732, and 5317A of this title and section 653 of Title 42, The Public Health and Welfare, enacting provisions set out as a note under section 322 of this title, and amending provisions setout as a note under section 1710 of this title\] may be cited as the 'Department of Veterans Affairs Expiring Authorities Act of 2013'."
+Pub. L. 113–37, §1, Sept. 30, 2013, 127 Stat. 523, provided that: "This Act \[amending sections 322, 521A, 1710, 1729, 2013, 2021, 2023, 2044, 2061, 2101, 3732, and 5317A of this title and section 653 of Title 42, The Public Health and Welfare, enacting provisions set out as a note under section 322 of this title, and amending provisions set out as a note under section 1710 of this title\] may be cited as the 'Department of Veterans Affairs Expiring Authorities Act of 2013'."
 
 Pub. L. 112–260, §1(a), Jan. 10, 2013, 126 Stat. 2417, provided that: "This Act \[enacting sections 111A and 2414 of this title, amending sections 111, 111A, 2302, 2306, 2308, 2404, 2411, 5503, 7253, and 7255 of this title, enacting provisions set out as notes under sections 527, 2302, 2306, 2402, 2404, 2411, 2414, 7253, and 7255 of this title, section 1144 of Title 10, Armed Forces, and section 2104 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, and amending provisions set out as a note under section 1712A of this title\] may be cited as the 'Dignified Burial and Other Veterans' Benefits Improvement Act of 2012'."
 
@@ -650,7 +670,7 @@ Pub. L. 111–377, §1(a), Jan. 4, 2011, 124 Stat. 4106, provided that: "This Ac
 
 #### Short Title of 2010 Amendment
 
-Pub. L. 111–275, §1(a), Oct. 13, 2010, 124 Stat. 2864, provided that: "This Act \[enacting sections 2021A and 2108 of this title and sections 4041 to 4043 of Title 50, War and National Defense, amending sections 107, 315, 503, 1114, 1311, 1318, 1503, 1521, 1541, 1542, 1717, 1785, 1922A, 1967, 1968, 1977, 1980, 1980A, 2021, 2044, 2106, 2301, 2303, 2306, 2402, 3120, 3313, 3316, 3318, 3319, 3321, 3485, 3512, 3684, 3692, 3729, 3732, 3733, 3901, 3902, 4102A, 4303, 4324, 5111, 5503, 5510, 5723, 5727, 7325, 7903, 8104, 8111A, 8117, and 8127 of this title, section 1316 of Title 2, The Congress, section 416 of Title 3, The President, and sections 3937, 3951 to 3953, and 3955 to 3958 of Title 50, enacting provisions set out as notes under this section and sections 107, 1114, 1318, 1503, 1521, 1922A, 1968, 1977, 1980, 1980A, 2106, 2303, 2400, 2402, 3120, 3317, 3485, 3732, 3901, 3902, 4102A, 4301, 4303, 5111, and 8127 of this title and section 2913 of Title 29, Labor, and amending provisions set out as notes under sections 1117, 1980A, and 5101 of this title\] may be cited as the 'Veterans' Benefits Act of 2010'."
+Pub. L. 111–275, §1(a), Oct. 13, 2010, 124 Stat. 2864, provided that: "This Act \[enacting sections 2021A and 2108 of this title and sections 4041 to 4043 of Title 50, War and National Defense, amending sections 107, 315, 503, 1114, 1311, 1318, 1503, 1521, 1541, 1542, 1717, 1785, 1922A, 1967, 1968, 1977, 1980, 1980A, 2021, 2044, 2106, 2301, 2303, 2306, 2402, 3120, 3313, 3316, 3318, 3319, 3321, 3485, 3512, 3684, 3692, 3729, 3732, 3733, 3901, 3902, 4102A, 4303, 4324, 5111, 5503, 5510, 5723, 5727, 7325, 7903, 8104, 8111A, 8117, and 8127 of this title, section 1316 of Title 2, The Congress, section 416 of Title 3, The President, and sections 3937, 3951 to 3953, and 3955 to 3958 of Title 50, enacting provisions set out as notes under this section and sections 107, 1114, 1318, 1503, 1521, 1922A, 1968, 1977, 1980, 1980A, 2106, 2303, 2400, 2402, 3120, 3317, 3485, 3732, 3901, 3902, 4102A, 4301, 4303, 5111, and 8127 of this title and section 2913 of Title 29, Labor, and amending provisions set out asnotes under sections 1117, 1980A, and 5101 of this title\] may be cited as the 'Veterans' Benefits Act of 2010'."
 
 Pub. L. 111–275, title I, §104(a), Oct. 13, 2010, 124 Stat. 2867, provided that: "This section \[amending section 8127 of this title and enacting provisions set out as a note under section 8127 of this title\] may be cited as the 'Veterans Small Business Verification Act'."
 
@@ -668,7 +688,7 @@ Pub. L. 111–37, §1, June 30, 2009, 123 Stat. 1927, provided that: "This Act \
 
 #### Short Title of 2008 Amendment
 
-Pub. L. 110–389, §1(a), Oct. 10, 2008, 122 Stat. 4145, provided that: "This Act \[enacting sections 321, 322, 521A, 532, 546, 1156, 3122, 4327, 4335, 5121A, 7288, and 7732A of this title and section 3956 of Title 50, War and National Defense, amending this section, sections 502, 544, 1112, 1161, 1922, 1965, 1967 to 1969, 1973, 2103, 2306, 3105, 3120, 3512, 3673, 3676, 3677, 3686, 3691, 3703, 3707, 3707A, 3710, 4103, 4110A, 4322 to 4324, 4332, 5103, 5317, 7253, 7257, 7268,7285, 7296, 7731, and 8127 of this title, section 3711 of Title 31, Money and Finance, and section 3937 of Title 50, enacting provisions set out as notes under sections 322, 521A, 1156, 1161, 1967 to 1969, 1973, 2306, 3703, 4332, 5101, 5103, 5121A, 5302A, and 7732A of this title, and amending provisions set out as notes under section 5101 of this title and section 1212 of Title 10, Armed Forces\] may be cited as the 'Veterans' Benefits Improvement Act of 2008'."
+Pub. L. 110–389, §1(a), Oct. 10, 2008, 122 Stat. 4145, provided that: "This Act \[enacting sections 321, 322, 521A, 532, 546, 1156, 3122, 4327, 4335, 5121A, 7288, and 7732A of this title and section 3956 of Title 50, War and National Defense, amending this section, sections 502, 544, 1112, 1161, 1922, 1965, 1967 to 1969, 1973, 2103, 2306, 3105, 3120, 3512, 3673, 3676, 3677, 3686, 3691, 3703, 3707, 3707A, 3710, 4103, 4110A, 4322 to 4324, 4332, 5103, 5317, 7253, 7257, 7268, 7285, 7296, 7731, and 8127 of this title, section 3711 of Title 31, Money and Finance, and section 3937 of Title 50, enacting provisions set out as notes under sections 322, 521A, 1156, 1161, 1967 to 1969, 1973, 2306, 3703, 4332, 5101, 5103, 5121A, 5302A, and 7732A of this title, and amending provisions set out as notes under section 5101 of this title and section 1212 of Title 10, Armed Forces\] may be cited as the 'Veterans' Benefits Improvement Act of 2008'."
 
 Pub. L. 110–387, §1(a), Oct. 10, 2008, 122 Stat. 4110, provided that: "This Act \[enacting sections 1729B, 2044, 7330A, and 8119 of this title, amending sections 111, 542, 1701, 1703, 1708, 1710, 1710A, 1712A, 1725, 1728, 1729, 1782, 1803, 2013, 2022, 2023, 2043, 2065, 4110, 7314, 7320, 7321, 7325, 7328, 7402, 7458, 8104, and 8117 of this title, repealing section 7368 of this title, enacting provisions set out as notes under sections 111, 1701, 1703, 1712A, 1720A, 1803, 2044, 7311, and 8119 of this title, amending provisions set out as notes under sections 1710B and 1712A of this title, and repealing provisions set out as a note under section 7333 of this title\] may be cited as the 'Veterans' Mental Health and Other Care Improvements Act of 2008'."
 
@@ -720,7 +740,7 @@ Pub. L. 108–363, §1, Oct. 25, 2004, 118 Stat. 1705, provided that: "This Act 
 
 #### Short Title of 2003 Amendments
 
-Pub. L. 108–183, §1(a), Dec. 16, 2003, 117 Stat. 2651, provided that: "This Act \[enacting sections 1821, 4113, 5109B, and 7112 of this title and section 657f of Title 15, Commerce and Trade, amending sections 103, 107, 315, 544, 1104, 1112, 1303, 1311, 1322, 1729A, 1804, 1811, 1831, 1834, 1917, 1952, 1974, 2101, 2102, 2303, 2307, 2402, 2408, 3015, 3452, 3462, 3471, 3485, 3512, 3532, 3534, 3542, 3564, 3675, 3687, 3692, 3702, 3729, 3732, 3733, 3902, 4102A, 5101, 5102, 5103, 5121, 5301, 5317, 5318, 6105, and 7723 of this title, repealing sections 3698 and 3699 of this title, enacting provisions set out as notes under sections 103, 107, 1154, 1917, 2102, 2402,3452, 3462, 3485, 3512, 3532, 3698, 3729, 4102A, 4113, 5101, 5102, 5103, 5121, 6105, and 7723 of this title, amending provisions set out as a note under section 103 of this title, and repealing provisions set out as a note under section 5101 of this title\] may be cited as the 'Veterans Benefits Act of 2003'."
+Pub. L. 108–183, §1(a), Dec. 16, 2003, 117 Stat. 2651, provided that: "This Act \[enacting sections 1821, 4113, 5109B, and 7112 of this title and section 657f of Title 15, Commerce and Trade, amending sections 103, 107, 315, 544, 1104, 1112, 1303, 1311, 1322, 1729A, 1804, 1811, 1831, 1834, 1917, 1952, 1974, 2101, 2102, 2303, 2307, 2402, 2408, 3015, 3452, 3462, 3471, 3485, 3512, 3532, 3534, 3542, 3564, 3675, 3687, 3692, 3702, 3729, 3732, 3733, 3902, 4102A, 5101, 5102, 5103, 5121, 5301, 5317, 5318, 6105, and 7723 of this title, repealing sections 3698 and 3699 of this title, enacting provisions set out as notes under sections 103, 107, 1154, 1917, 2102, 2402, 3452, 3462, 3485, 3512, 3532, 3698, 3729, 4102A, 4113, 5101, 5102, 5103, 5121, 6105, and 7723 of this title, amending provisions set out as a note under section 103 of this title, and repealing provisions set out as a note under section 5101 of this title\] may be cited as the 'Veterans Benefits Act of 2003'."
 
 Pub. L. 108–170, §1(a), Dec. 6, 2003, 117 Stat. 2042, provided that: "This Act \[enacting sections 7307 and 7364A of this title, amending sections 516, 1701, 1710, 1710A, 1712, 1718, 1720, 1722A, 1734, 2041, 2065, 7303, 7316, 7321, 7366, 7368, 7401 to 7405, 7409, 7421, 7454, 7802, 8104, 8107, 8121, 8153, and 8163 to 8165 of this title and section 1680f of Title 25, Indians, enacting provisions set out as notes under sections 7316, 7401, 7454, and 8121 of this title and section 1680f of Title 25, and amending provisions set out as notes under sections 1710B and 1712A of this title\] may be cited as the 'Veterans Health Care, Capital Asset, and Business Improvement Act of 2003'."
 
@@ -770,7 +790,7 @@ Pub. L. 106–117, title X, §1001, Nov. 30, 1999, 113 Stat. 1587, provided that
 
 Pub. L. 105–368, §1(a), Nov. 11, 1998, 112 Stat. 3315, provided that: "This Act \[see Tables for classification\] may be cited as the 'Veterans Programs Enhancement Act of 1998'."
 
-Pub. L. 105–368, title VIII, §801, Nov. 11, 1998, 112 Stat. 3352, provided that: "This title \[enacting sections 7671 to 7676 and 7681 to 7684 of this title, amending sections 7601 to 7604, 7632, and 7636 of this title, and repealingprovisions set out as a note under section 7601 of this title\] may be cited as the 'Department of Veterans Affairs Health Care Personnel Incentive Act of 1998'."
+Pub. L. 105–368, title VIII, §801, Nov. 11, 1998, 112 Stat. 3352, provided that: "This title \[enacting sections 7671 to 7676 and 7681 to 7684 of this title, amending sections 7601 to 7604, 7632, and 7636 of this title, and repealing provisions set out as a note under section 7601 of this title\] may be cited as the 'Department of Veterans Affairs Health Care Personnel Incentive Act of 1998'."
 
 Pub. L. 105–277, div. C, title XVI, §1601, Oct. 21, 1998, 112 Stat. 2681–742, provided that: "This title \[enacting section 1118 of this title, amending sections 1113 and 1117 of this title, and enacting provisions set out as a note under section 1117 of this title\] may be cited as the 'Persian Gulf War Veterans Act of 1998'."
 
@@ -842,7 +862,7 @@ Pub. L. 102–405, §1(a), Oct. 9, 1992, 106 Stat. 1972, provided that: "This Ac
 
 #### Short Title of 1991 Amendments
 
-Pub. L. 102–152, §1(a), Nov. 12, 1991, 105 Stat. 985, provided that: "This Act \[see Tables for classification\]may be cited as the 'Veterans' Compensation Rate Amendments of 1991'."
+Pub. L. 102–152, §1(a), Nov. 12, 1991, 105 Stat. 985, provided that: "This Act \[see Tables for classification\] may be cited as the 'Veterans' Compensation Rate Amendments of 1991'."
 
 Pub. L. 102–127, §1, Oct. 10, 1991, 105 Stat. 619, provided that: "This Act \[see Tables for classification\] may be cited as the 'Veterans' Educational Assistance Amendments of 1991'."
 
@@ -898,7 +918,7 @@ Pub. L. 100–253, §1, Feb. 29, 1988, 102 Stat. 20, provided that: "This Act \[
 
 Pub. L. 100–227, §1(a), Dec. 31, 1987, 101 Stat. 1552, provided that: "This Act \[see Tables for classification\] may be cited as the 'Veterans' Compensation Cost-of-Living Adjustment Act of 1987'."
 
-Pub. L. 100–198, §1(a), Dec. 21, 1987, 101 Stat. 1315, provided that: "This Act \[see Tables for classification\] may be cited as the 'Veterans' Home Loan Program Improvements and Property Rehabilitation Act of 1987'."
+Pub. L. 100–198, §1(a), Dec. 21, 1987, 101 Stat. 1315, provided that: "This Act \[see Tables for classification\]may be cited as the 'Veterans' Home Loan Program Improvements and Property Rehabilitation Act of 1987'."
 
 Pub. L. 100–48, §1, June 1, 1987, 101 Stat. 331, provided that: "This Act \[see Tables for classification\] may be cited as the 'New GI Bill Continuation Act'."
 
@@ -932,7 +952,7 @@ Pub. L. 98–160, §1(a), Nov. 21, 1983, 97 Stat. 993, provided that: "This Act 
 
 #### Short Title of 1982 Amendments
 
-Pub. L. 97–306, §1(a), Oct. 14, 1982, 96 Stat. 1429, provided that: "This Act \[see Tables for classification\]may be cited as the 'Veterans' Compensation, Education, and Employment Amendments of 1982'."
+Pub. L. 97–306, §1(a), Oct. 14, 1982, 96 Stat. 1429, provided that: "This Act \[see Tables for classification\] may be cited as the 'Veterans' Compensation, Education, and Employment Amendments of 1982'."
 
 Pub. L. 97–251, §1(a), Sept. 8, 1982, 96 Stat. 711, provided that: "This Act \[see Tables for classification\] may be cited as the 'Veterans' Administration Health-Care Programs Improvement and Extension Act of 1982'."
 
@@ -988,7 +1008,7 @@ Pub. L. 95–62, §1, July 5, 1977, 91 Stat. 262, provided: "That this Act \[see
 
 #### Short Title of 1976 Amendments
 
-Pub. L. 94–581, §1, Oct. 21, 1976, 90 Stat. 2842, provided: "That this Act \[see Tables for classification\] may be cited as the 'Veterans Omnibus Health Care Act of 1976'."
+Pub. L. 94–581, §1, Oct. 21, 1976, 90 Stat. 2842, provided: "That this Act \[see Tables for classification\] may becited as the 'Veterans Omnibus Health Care Act of 1976'."
 
 Pub. L. 94–581, title II, §201, Oct. 21, 1976, 90 Stat. 2855, provided that: "This title \[see Tables for classification\] may be cited as the 'Veterans Medical Technical and Conforming Amendments of 1976'."
 

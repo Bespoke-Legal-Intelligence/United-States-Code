@@ -4,7 +4,7 @@ Notwithstanding any other provision of law, in order to reduce or eliminate the 
 
 #### (a) Sale of inventory stock
 
-(1) The producer-owned cooperative marketing association that has entered into a loan agreement with the Commodity Credit Corporation to make price support available to producers ofFlue-cured tobacco shall offer to sell the stocks of Flue-cured tobacco of the association from the 1976 through 1984 crops as provided in this section.
+(1) The producer-owned cooperative marketing association that has entered into a loan agreement with the Commodity Credit Corporation to make price support available to producers of Flue-cured tobacco shall offer to sell the stocks of Flue-cured tobacco of the association from the 1976 through 1984 crops as provided in this section.
 
 (2) Each producer-owned cooperative marketing association that has entered into a loan agreement with the Commodity Credit Corporation to make price support available to producers of Burley tobacco shall offer to sell its stocks of Burley tobacco from the 1982 and 1984 crops as provided in this section.
 
@@ -124,9 +124,11 @@ The limitations on disclosure set forth in subsections (c) and (d) of section 13
 
 (Pub. L. 99–272, title I, §1109, Apr. 7, 1986, 100 Stat. 95; Pub. L. 107–296, title XI, §1112(b), Nov. 25, 2002, 116 Stat. 2276.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This subtitle, referred to in subsecs. (c)(3) and (d)(2)(A)(ii), is subtitle B (§§1101–1112) of title I of Pub. L. 99–272, Apr. 7, 1986, 100 Stat. 83, which enacted sections 1314g, 1314h, and 1445–3 of this title, amended sections 511d, 1301, 1312, 1314c, 1314e, 1372, 1445, 1445–1, and 1445–2 of this title, and enacted provisions set out as notes under sections 1301, 1314c, 1314e, 1314g, 1314h, 1372, 1445, 1445–1, and 1445–2 of this title. For complete classification of this subtitle to the Code, see Tables.
+This subtitle, referred to in subsecs. (c)(3) and (d)(2)(A)(ii), is subtitle B (§§1101–1112) of title I of Pub. L. 99–272, Apr. 7, 1986, 100 Stat. 83, which enacted sections 1314g, 1314h, and 1445–3 of this title, amended sections 511d, 1301, 1312, 1314c, 1314e, 1372, 1445, 1445–1, and 1445–2 of this title, and enacted provisions set out asnotes under sections 1301, 1314c, 1314e, 1314g, 1314h, 1372, 1445, 1445–1, and 1445–2 of this title. For complete classification of this subtitle to the Code, see Tables.
 
 Section 1314g of this title, referred to in subsec. (e), was repealed by Pub. L. 108–357, title VI, §611(a), Oct. 22, 2004, 118 Stat. 1522.
 
@@ -137,6 +139,8 @@ Section was enacted as part of the Consolidated Omnibus Budget Reconciliation Ac
 #### Amendments
 
 <b>2002</b>—Subsec. (c)(2)(A)(i). Pub. L. 107–296 substituted "by manufacturers of tobacco products to the Tax and Trade Bureau" for "(on ATF Form 3068) by manufacturers of tobacco products to the Bureau of Alcohol, Tobacco and Firearms".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

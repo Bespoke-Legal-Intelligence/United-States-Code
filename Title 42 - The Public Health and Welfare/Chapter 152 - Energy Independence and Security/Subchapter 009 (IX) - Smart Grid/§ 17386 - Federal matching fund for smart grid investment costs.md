@@ -6,7 +6,7 @@ The Secretary shall establish a Smart Grid Investment Matching Grant Program to 
 
 #### (b) Qualifying investments
 
-Qualifying Smart Grid investments may include any of the following made on or after December 19, 2007:
+Qualifying Smart Grid investments may include any of the following made on or after November 15, 2021:
 
 &emsp;(1) In the case of appliances covered for purposes of establishing energy conservation standards under part B of title III of the Energy Policy and Conservation Act of 1975 (42 U.S.C. 6291 et seq.), the documented expenditures incurred by a manufacturer of such appliances associated with purchasing or designing, creating the ability to manufacture, and manufacturing and installing for one calendar year, internal devices that allow the appliance to engage in Smart Grid functions.
 
@@ -24,7 +24,17 @@ Qualifying Smart Grid investments may include any of the following made on or af
 
 &emsp;(8) In the case of electric or hybrid-electric vehicles, the documented expenses for devices that allow the vehicle to engage in Smart Grid functions (but not the costs of electricity storage for the vehicle).
 
-&emsp;(9) The documented expenditures related to purchasing and implementing Smart Grid functions in such other cases as the Secretary shall identify.
+&emsp;(9) In the case of data analytics that enable software to engage in Smart Grid functions, the documented purchase costs of the data analytics.
+
+&emsp;(10) In the case of buildings, the documented expenses for devices and software, including for installation, that allow buildings to engage in demand flexibility or Smart Grid functions.
+
+&emsp;(11) In the case of utility communications, operational fiber and wireless broadband communications networks to enable data flow between distribution system components.
+
+&emsp;(12) In the case of advanced transmission technologies such as dynamic line rating, flow control devices, advanced conductors, network topology optimization, or other hardware, software, and associated protocols applied to existing transmission facilities that increase the operational transfer capacity of a transmission network, the documented expenditures to purchase and install those advanced transmission technologies.
+
+&emsp;(13) In the case of extreme weather or natural disasters, the ability to redirect or shut off power to minimize blackouts and avoid further damage.
+
+&emsp;(14) The documented expenditures related to purchasing and implementing Smart Grid functions in such other cases as the Secretary shall identify.
 
 #### (c) Investments not included
 
@@ -56,7 +66,7 @@ The term "smart grid functions" means any of the following:
 
 &emsp;(2) The ability to develop, store, send and receive digital information concerning electricity use, costs, prices, time of use, nature of use, storage, or other information relevant to device, grid, or utility operations to or from a computer or other control device.
 
-&emsp;(3) The ability to measure or monitor electricity use as a function of time of day, power quality characteristics such as voltage level, current, cycles per second, or source or type of generation and to store, synthesize or report that information by digital means.
+&emsp;(3) The ability to measure or monitor electricity use as a function of time of day, power quality characteristics such as voltage level, current, cycles per second, or source or type ofgeneration and to store, synthesize or report that information by digital means.
 
 &emsp;(4) The ability to sense and localize disruptions or changes in power flows on the grid and communicate such information instantaneously and automatically for purposes of enabling automatic protective responses to sustain reliability and security of grid operations.
 
@@ -68,7 +78,21 @@ The term "smart grid functions" means any of the following:
 
 &emsp;(8) The ability to use digital controls to manage and modify electricity demand, enable congestion management, assist in voltage control, provide operating reserves, and provide frequency regulation.
 
-&emsp;(9) Such other functions as the Secretary may identify as being necessary or useful to the operation of a Smart Grid.
+&emsp;(9) The ability to use data analytics and software-as-service to provide flexibility by improving the visibility of the electrical system to grid operators that can help quickly rebalance the electrical system with autonomous controls.
+
+&emsp;(10) The ability to facilitate the aggregation or integration of distributed energy resources to serve as assets for the grid.
+
+&emsp;(11) The ability to provide energy storage to meet fluctuating electricity demand, provide voltage support, and integrate intermittent generation sources, including vehicle-to-grid technologies.
+
+&emsp;(12) The ability of hardware, software, and associated protocols applied to existing transmission facilities to increase the operational transfer capacity of a transmission network.
+
+&emsp;(13) The ability to anticipate and mitigate impacts of extreme weather or natural disasters on grid resiliency.
+
+&emsp;(14) The ability to facilitate the integration of renewable energy resources, electric vehicle charging infrastructure, and vehicle-to-grid technologies.
+
+&emsp;(15) The ability to reliably meet increased demand from electric vehicles and the electrification of appliances and other sectors.
+
+&emsp;(16) Such other functions as the Secretary may identify as being necessary or useful to the operation of a Smart Grid.
 
 #### (e) Procedures and rules
 
@@ -90,15 +114,23 @@ The term "smart grid functions" means any of the following:
 
 There are authorized to be appropriated to the Secretary such sums as are necessary for the administration of this section and the grants to be made pursuant to this section for fiscal years 2008 through 2012.
 
-(Pub. L. 110–140, title XIII, §1306, Dec. 19, 2007, 121 Stat. 1789; Pub. L. 111–5, div. A, title IV, §405(5)–(8), Feb. 17, 2009, 123 Stat. 144.)
+(Pub. L. 110–140, title XIII, §1306, Dec. 19, 2007, 121 Stat. 1789; Pub. L. 111–5, div. A, title IV, §405(5)–(8), Feb. 17, 2009, 123 Stat. 144; Pub. L. 117–58, div. D, title I, §40107(a), Nov. 15, 2021, 135 Stat. 940.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Energy Policy and Conservation Act, referred to in subsec. (b)(1), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871. Part B of title III of the Act is classified generallyto part A (§6291 et seq.) of subchapter III of chapter 77 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
+The Energy Policy and Conservation Act, referred to in subsec. (b)(1), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871. Part B of title III of the Act is classified generally to part A (§6291 et seq.) of subchapter III of chapter 77 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
 Section 2621(d)(17) of title 16, referred to in subsec. (c)(3), was redesignated section 2621(d)(19) by Pub. L. 111–5, div. A, title IV, §408(a), Feb. 17, 2009, 123 Stat. 146.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (b). Pub. L. 117–58, §40107(a)(1)(A), substituted "November 15, 2021" for "December 19, 2007" in introductory provisions.
+
+Subsec. (b)(9) to (14). Pub. L. 117–58, §40107(a)(1)(B), (C), added pars. (9) to (13) and redesignated former par. (9) as (14).
+
+Subsec. (d)(9) to (16). Pub. L. 117–58, §40107(a)(2), added pars. (9) to (15) and redesignated former par. (9) as (16).
 
 <b>2009</b>—Subsec. (a). Pub. L. 111–5, §405(5), substituted "grants of up to one-half (50 percent)" for "reimbursement of one-fifth (20 percent)".
 
@@ -108,9 +140,15 @@ Subsec. (c)(1). Pub. L. 111–5, §405(7), substituted "utilize" for "are eligib
 
 Subsec. (e). Pub. L. 111–5, §405(8), amended subsec. (e) generally. Prior to amendment, text related to establishment of procedures by which applicants who have made qualifying Smart Grid investments can seek and obtain reimbursement of one-fifth of documented expenditures.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.
+
+#### Wage Rate Requirements
+
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) Tax imposed
 
-A tax is hereby imposed for each taxable year on the life insurance company taxable income ofevery life insurance company. Such tax shall consist of a tax computed as provided in section 11 as though the life insurance company taxable income were the taxable income referred to in section 11.
+A tax is hereby imposed for each taxable year on the life insurance company taxable income of every life insurance company. Such tax shall consist of a tax computed as provided in section 11 as though the life insurance company taxable income were the taxable income referred to in section 11.
 
 #### (b) Life insurance company taxable income
 
@@ -14,6 +14,8 @@ For purposes of this part, the term "life insurance company taxable income" mean
 
 (Added Pub. L. 98–369, div. A, title II, §211(a), July 18, 1984, 98 Stat. 720; amended Pub. L. 99–514, title X, §1011(b)(3), Oct. 22, 1986, 100 Stat. 2389; Pub. L. 115–97, title I, §§13001(b)(2)(G), 13512(b)(3), 13514(b), Dec. 22, 2017, 131 Stat. 2096, 2143.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 801, added Pub. L. 86–69, §2(a), June 25, 1959, 73 Stat. 112; amended Pub. L. 87–858, §3(a), Oct. 23, 1962, 76 Stat. 1134; Pub. L. 91–172, title I, §121(b)(5)(B), Dec. 30, 1969, 83 Stat. 541; Pub. L. 93–406, title II, §2002(g)(11), Sept. 2, 1974, 88 Stat. 970; Pub. L. 94–455, title XV, §1505(a), title XIX, §§1901(c)(6), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1738, 1803, 1834; Pub. L. 95–600, title VII, §703(j)(4), Nov. 6, 1978, 92 Stat. 2941, defined "life insurance company" and related terms, prior to the general revision of this part by Pub. L. 98–369, §211(a). See section 816 of this title.
@@ -22,7 +24,7 @@ Another prior section 801, acts Aug. 16, 1954, ch. 736, 68A Stat. 255; Mar. 13, 
 
 A prior section 802, added Pub. L. 86–69, §2(a), June 25, 1959, 73 Stat. 115; amended Pub. L. 87–858, §3(b)(1), Oct. 23, 1962, 76 Stat. 1136; Pub. L. 88–272, title II, §235(c)(1), Feb. 26, 1964, 78 Stat. 126; Pub. L. 91–172, title V, §511(c)(1), Dec. 30, 1969, 83 Stat. 637; Pub. L. 94–455, title XIX, §1901(a)(95), (b)(33)(E), Oct. 4, 1976, 90 Stat. 1780, 1801; Pub. L. 95–600, title III, §301(b)(8), Nov. 6, 1978, 92 Stat. 2821, contained provisions similar to this section, prior to the general revision of this part by Pub. L. 98–369, §211(a).
 
-Another prior section 802, acts Aug. 16, 1954, ch. 736, 68A Stat. 255; Mar. 13, 1956, ch. 83, §2, 70 Stat. 38; July 24, 1956, ch. 696, §§1, 2(b), 70 Stat. 633; Mar. 17, 1958, Pub. L. 85–345, §§1, 2(a), 72 Stat. 36, contained provision similar to this section, prior to the general revision of this part by Pub. L. 86–69, §2(a).
+Another prior section 802, acts Aug. 16, 1954, ch. 736, 68A Stat. 255; Mar. 13, 1956, ch. 83, §2, 70 Stat. 38; July24, 1956, ch. 696, §§1, 2(b), 70 Stat. 633; Mar. 17, 1958, Pub. L. 85–345, §§1, 2(a), 72 Stat. 36, contained provision similar to this section, prior to the general revision of this part by Pub. L. 86–69, §2(a).
 
 #### Amendments
 
@@ -33,6 +35,8 @@ Subsec. (a)(2)(C). Pub. L. 115–97, §13512(b)(3), which directed striking out 
 Subsec. (c). Pub. L. 115–97, §13514(b), struck out subsec. (c) which referred to section 815 of this title for taxation of distributions from pre-1984 policyholders surplus account.
 
 <b>1986</b>—Subsec. (a)(2)(C). Pub. L. 99–514 substituted "the amount allowable as a deduction under paragraph (2)" for "the amounts allowable as deductions under paragraphs (2) and (3)" in text and struck from heading "special life insurance company deduction and" before "small".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 
@@ -74,7 +78,7 @@ Qualified Group Self-Insurers' Fund.—For purposes of this section, the term 'q
 
 &emsp;"(2) each employer who is a member of the group, by written agreement, is jointly and severally bound to assume and discharge, by payment, any lawful judgment or award entered by a court of competent jurisdiction or by the State agency responsible for administering the State workers' disability compensation laws against a member of the group,
 
-&emsp;"(3) the group is prohibited by State law or regulation from using the monies collected for a purposeother than to pay, or to reserve against, claims under the State workers' disability compensation laws and expenses,
+&emsp;"(3) the group is prohibited by State law or regulation from using the monies collected for a purpose other than to pay, or to reserve against, claims under the State workers' disability compensation laws and expenses,
 
 &emsp;"(4) the group is prohibited by State law or regulation from taking projected investment income into account in determining members' premiums,
 
@@ -156,7 +160,7 @@ Fresh Start.—
 
 &emsp;"(1)
 
-In general.—Except as provided in paragraph (2), in the case of any insurance company, any change in the method of accounting (and any change in the method of computing reserves) between such company's first taxable year beginning after December 31,1983, and the preceding taxable year which is required solely by the amendments made by this subtitle \[see Effective Date note above\] shall be treated as not being a change in the method of accounting (or change in the method of computing reserves) for purposes of the Internal Revenue Code of 1986. The preceding sentence shall apply for purposes of computing the earnings and profits of any insurance company for its 1st taxable year beginning in 1984. The preceding sentence shall be applied by substituting '1985' for '1984' in the case of an insurance company which is a member of a controlled group (as defined in \[former\] section 806(d)(3)), the common parent of which is
+In general.—Except as provided in paragraph (2), in the case of any insurance company, any change in the method of accounting (and any change in the method of computing reserves) between such company's first taxable year beginning after December 31, 1983, and the preceding taxable year which is required solely by the amendments made by this subtitle \[see Effective Date note above\] shall be treated as not being a change in the method of accounting (or change in the method of computing reserves) for purposes of the Internal Revenue Code of 1986. The preceding sentence shall apply for purposes of computing the earnings and profits of any insurance company for its 1st taxable year beginning in 1984. The preceding sentence shall be applied by substituting '1985' for '1984' in the case of an insurance company which is a member of a controlled group (as defined in \[former\] section 806(d)(3)), the common parent of which is
 
 &emsp;&emsp;"(A) a company having its principal place of business in Alabama and incorporated in Delaware on November 29, 1979, or
 
@@ -278,7 +282,7 @@ Recapture of reinsurance after december 31, 1983.—If (A) insurance or annuity 
 
 &emsp;&emsp;"(i) if the amount of the reserves with respect to the recaptured contracts, computed at the date of recapture, that the reinsurer would have taken into account under \[former\] section 810(c) of the Internal Revenue Code of 1986 (as in effect on the day before the date of the enactment of this Act) exceeds the amount of the reserves with respect to the recaptured contracts, computed at the date of recapture, taken into account by the reinsurer under section 807(c) of the Internal Revenue Code of 1986 (as amended by this subtitle), such excess (but not greater than the amount of such excess if computed on January 1, 1984) shall be taken into account by the reinsurer under the method described in section 807(f)(1)(B)(ii) of the Internal Revenue Code of 1986 (as amended by this subtitle) commencing with the taxable year of recapture, and
 
-&emsp;&emsp;"(ii) the amount, if any, taken into account by the reinsurer under clause (i) for purposes of part I of subchapter L of chapter 1 of the Internal Revenue Code of 1986 shall be taken into account by the reinsured under the method described in section 807(f)(1)(B)(i) of the Internal Revenue Code of 1986 (as amended by this subtitle) commencing with the taxable year of recapture.
+&emsp;&emsp;"(ii) the amount, if any, taken into account by the reinsurer under clause (i) for purposes of part Iof subchapter L of chapter 1 of the Internal Revenue Code of 1986 shall be taken into account by the reinsured under the method described in section 807(f)(1)(B)(i) of the Internal Revenue Code of 1986 (as amended by this subtitle) commencing with the taxable year of recapture.
 
 > &emsp;The excess described in clause (i) shall be reduced by any portion of such excess to which section 807(f) of the Internal Revenue Code of 1986 applies by reason of paragraph (3) of this subsection. For purposes of this paragraph, the term 'reinsurer' refers to the taxpayer that held reserves with respect to the recaptured contracts as of the end of the taxable year preceding the first taxable year beginning after December 31, 1983, and the term 'reinsured' refers to the taxpayer to which such reserves are ultimately transferred upon termination.
 

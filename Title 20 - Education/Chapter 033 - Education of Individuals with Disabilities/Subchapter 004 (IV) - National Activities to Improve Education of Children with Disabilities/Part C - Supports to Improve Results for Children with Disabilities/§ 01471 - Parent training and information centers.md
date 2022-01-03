@@ -122,6 +122,8 @@ Each application for assistance under this section shall identify with specifici
 
 (Pub. L. 91–230, title VI, §671, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2788.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1471, Pub. L. 91–230, title VI, §671, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 135, related to congressional findings and purposes for subpart 1 of part B of former subchapter IV of this chapter, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.

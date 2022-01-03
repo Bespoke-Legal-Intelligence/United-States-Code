@@ -4,9 +4,13 @@ No dealer or exhibitor shall sell or otherwise dispose of any dog or cat within 
 
 (Pub. L. 89–544, §5, Aug. 24, 1966, 80 Stat. 351; Pub. L. 91–579, §6, Dec. 24, 1970, 84 Stat. 1561.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1970</b>—Pub. L. 91–579 inserted references to exhibitors and inserted proviso that operators of auction sales subject to section 2142 of this title shall not be required to comply with the provisions of this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1970 Amendment
 

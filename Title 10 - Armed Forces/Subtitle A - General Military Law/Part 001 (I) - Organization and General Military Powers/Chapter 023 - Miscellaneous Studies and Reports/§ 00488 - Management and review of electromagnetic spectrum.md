@@ -22,7 +22,9 @@ Reports.—(1) From time to time as the Secretary and the Chairman of the Joint 
 
 &emsp;(B) would not likely be possible within the 10-year period beginning on the date of the report.
 
-(Added Pub. L. 108–136, div. A, title X, §1054(a), Nov. 24, 2003, 117 Stat. 1615; amended Pub. L. 113–66, div. A, title X, §1072(a), (b)(1), Dec. 26,2013, 127 Stat. 868, 869; Pub. L. 113–291, div. A, title X, §1071(f)(7), Dec. 19, 2014, 128 Stat. 3510; Pub. L. 114–328, div. A, title X, §1065(a)(1), Dec. 23, 2016, 130 Stat. 2409.)
+(Added Pub. L. 108–136, div. A, title X, §1054(a), Nov. 24, 2003, 117 Stat. 1615; amended Pub. L. 113–66, div. A, title X, §1072(a), (b)(1), Dec. 26, 2013, 127 Stat. 868, 869; Pub. L. 113–291, div. A, title X, §1071(f)(7), Dec. 19, 2014, 128 Stat. 3510; Pub. L. 114–328, div. A, title X, §1065(a)(1), Dec. 23, 2016, 130 Stat. 2409.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -39,6 +41,8 @@ Subsec. (b). Pub. L. 113–66, §1072(a)(2), added subsec. (b). Former subsec. (
 Subsec. (c). Pub. L. 113–66, §1072(a)(3), designated existing provisions as par. (1) and added par. (2).
 
 Pub. L. 113–66, §1072(a)(2), redesignated subsec. (b) as (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Issuance of Instruction or Directive
 

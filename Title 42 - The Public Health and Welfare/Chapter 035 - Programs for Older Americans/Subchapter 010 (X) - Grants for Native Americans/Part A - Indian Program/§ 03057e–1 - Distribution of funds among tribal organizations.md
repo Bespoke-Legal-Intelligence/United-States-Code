@@ -28,11 +28,15 @@ If the funds appropriated to carry out this part in a fiscal year subsequent to 
 
 (Pub. L. 89–73, title VI, §614A, as added Pub. L. 102–375, title VI, §602, Sept. 30, 1992, 106 Stat. 1270; amended Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 109–365, title VI, §601(a), Oct. 17, 2006, 120 Stat. 2590.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (c). Pub. L. 109–365 added subsec. (c).
 
 <b>1993</b>—Subsec. (b). Pub. L. 103–171 substituted "Assistant Secretary" for "Commissioner" in pars. (1) and (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

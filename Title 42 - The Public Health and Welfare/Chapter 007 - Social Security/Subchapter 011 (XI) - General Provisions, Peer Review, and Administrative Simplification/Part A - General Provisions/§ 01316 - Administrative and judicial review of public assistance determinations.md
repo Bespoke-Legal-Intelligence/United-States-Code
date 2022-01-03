@@ -38,7 +38,9 @@ Whenever the Secretary determines that any item or class of items on account of 
 
 &emsp;(ii) if such a motion was filed within such period, during the 60-day period that begins on the date of the Board's decision on such motion.
 
-(Aug. 14, 1935, ch. 531, title XI, §1116, as added Pub. L. 89–97, title IV, §404(a), July 30, 1965, 79 Stat. 419; amended Pub. L. 90–248, title II, §241(c)(5), Jan. 2, 1968, 81 Stat. 917; Pub. L. 93–233, §18(z–2)(1)(C), Dec. 31, 1973, 87 Stat. 974; Pub. L. 93–647, §3(d), Jan. 4, 1975, 88 Stat. 2349; Pub. L. 97–35, title XXIII, §2353(h), Aug. 13, 1981, 95 Stat. 872; Pub. L. 98–369, div. B, title III, §2354(c)(2), title VI, §2663(e)(6), July 18, 1984, 98 Stat. 1102, 1168; Pub. L. 104–193, title I, §108(g)(3), Aug. 22, 1996, 110 Stat. 2168; Pub. L. 110–275, title II, §204(a), (b), July 15, 2008, 122 Stat. 2592, 2593.)
+(Aug. 14, 1935, ch. 531, title XI, §1116, as added Pub. L. 89–97, title IV, §404(a), July 30, 1965, 79 Stat. 419; amended Pub. L. 90–248, title II, §241(c)(5), Jan. 2, 1968, 81 Stat. 917; Pub. L. 93–233, §18(z–2)(1)(C), Dec. 31, 1973, 87 Stat. 974; Pub. L. 93–647, §3(d), Jan. 4, 1975, 88 Stat. 2349; Pub. L. 97–35, title XXIII, §2353(h), Aug. 13, 1981, 95 Stat. 872; Pub. L. 98–369, div. B, title III, §2354(c)(2),title VI, §2663(e)(6), July 18, 1984, 98 Stat. 1102, 1168; Pub. L. 104–193, title I, §108(g)(3), Aug. 22, 1996, 110 Stat. 2168; Pub. L. 110–275, title II, §204(a), (b), July 15, 2008, 122 Stat. 2592, 2593.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -93,6 +95,8 @@ Subsecs. (b), (d). Pub. L. 93–233, §18(z–2)(1)(C)(iii), (iv), inserted refe
 <b>1968</b>—Subsec. (a)(1). Pub. L. 90–248, §241(c)(5)(A), struck out "IV," after "I," and inserted "or part A of subchapter IV," after "XIX,".
 
 Subsecs. (b), (d). Pub. L. 90–248, §241(c)(5)(B), struck out "IV," after "I," and inserted ", or part A of subchapter IV," after "XIX".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

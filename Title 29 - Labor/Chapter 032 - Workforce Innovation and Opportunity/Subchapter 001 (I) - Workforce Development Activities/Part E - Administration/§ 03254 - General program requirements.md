@@ -6,7 +6,7 @@ Except as otherwise provided in this subchapter, the following conditions apply 
 
 &emsp;(2) Funds provided under this subchapter shall only be used for activities that are in addition to activities that would otherwise be available in the local area in the absence of such funds.
 
-&emsp;(3)(A) Any local area may enter into an agreement with another local area (including a local area that is a city or county within the same labor market) to pay or share the cost of educating, training, or placing individuals participating in programs assisted under this subchapter, including the provision of supportive services.
+&emsp;(3)(A) Any local area may enter into an agreement with another local area (including a local area that is a city or county within the same labor market) to pay or share the cost ofeducating, training, or placing individuals participating in programs assisted under this subchapter, including the provision of supportive services.
 
 &emsp;(B) Such agreement shall be approved by each local board for a local area entering into the agreement and shall be described in the local plan under section 3123 of this title.
 
@@ -26,7 +26,7 @@ Except as otherwise provided in this subchapter, the following conditions apply 
 
 &emsp;&emsp;(iii) interest income earned on funds received under this subchapter.
 
-&emsp;(C) For purposes of this paragraph, each entity receiving financial assistance under this subchapter shall maintain records sufficientto determine the amount of such income received and the purposes for which such income is expended.
+&emsp;(C) For purposes of this paragraph, each entity receiving financial assistance under this subchapter shall maintain records sufficient to determine the amount of such income received and the purposes for which such income is expended.
 
 &emsp;(8)(A) The Secretary shall notify the Governor and the appropriate local board and chief elected official of, and consult with the Governor and such board and official concerning, any activity to be funded by the Secretary under this subchapter within the corresponding State or local area.
 

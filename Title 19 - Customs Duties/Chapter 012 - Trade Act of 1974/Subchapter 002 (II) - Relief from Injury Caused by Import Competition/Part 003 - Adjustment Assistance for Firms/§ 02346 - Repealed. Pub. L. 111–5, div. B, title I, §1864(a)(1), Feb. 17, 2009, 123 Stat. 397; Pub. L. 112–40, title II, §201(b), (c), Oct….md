@@ -22,6 +22,8 @@ Section 233(a)(5) of Pub. L. 112–40, set out as a note preceding section 2271 
 
 <i>For termination of repeal of section beginning on July 1, 2021, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see Effective and Termination Dates of Repeal notes below.</i>
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective and Termination Dates of Repeal
 
 For revival and applicability, beginning on June 29, 2015, of the repeal of this section, as in effect on Dec. 31, 2013, see section 402(b), (c) of Pub. L. 114–27, set out as an Effective and Termination Dates of 2015 Revival note preceding section 2271 of this title.

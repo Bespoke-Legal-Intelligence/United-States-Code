@@ -32,7 +32,7 @@ Long Range Review of Effectiveness.—(1) Not later than December 31, 1999, the 
 
 &emsp;(ii) base that finding on information collected and analyzed under section 33112 <sup>1</sup> of this title;
 
-&emsp;(iii) consider the effectiveness, the extent of use, and the extent to which civil and criminal penalties under section 33115(b) of this title and section 2322 of title 18 on chop shops have been effective in substantially inhibiting operation of chop shops and motor vehicle theft;
+&emsp;(iii) consider the effectiveness, the extent of use, and the extent to which civil and criminalpenalties under section 33115(b) of this title and section 2322 of title 18 on chop shops have been effective in substantially inhibiting operation of chop shops and motor vehicle theft;
 
 &emsp;(iv) base that finding on the 3-year and 5-year reports issued by the Secretary under section 33113 of this title; and
 
@@ -113,6 +113,8 @@ In subsection (d)(2)(A)(iii), the words "civil . . . penalties under section 3
 In subsection (d)(3), the words "for the model years after model year 2000" are substituted for "Nothing in this paragraph affects exemptions granted in model year 2000 or earlier to any manufacturer" to eliminate unnecessary words. The words "at one of the following levels that the Attorney General decides" are substituted for "as determined by the Attorney General" for clarity.
 
 In subsection (e), the text of 15:2022(c)(4) (related to the standard under 15:2022(c)(1)) is omitted as obsolete because the standard under 15:2022(c)(1) has already been prescribed. See 49 C.F.R. 541.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

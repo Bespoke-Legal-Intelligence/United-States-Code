@@ -120,7 +120,7 @@ Pub. L. 95–202, title IV, §401, Nov. 23, 1977, 91 Stat. 1449, as amended by P
 
 &emsp;"(E) the members of such group had reasonable expectations that their service would be considered to be active military service.
 
-"(b)(1) No benefits shall be paid to any person for any period prior to the date of enactment of this title \[Nov.23, 1977\] as a result of the enactment of subsection (a) of this section.
+"(b)(1) No benefits shall be paid to any person for any period prior to the date of enactment of this title \[Nov. 23, 1977\] as a result of the enactment of subsection (a) of this section.
 
 "(2) The provisions of section 106(a)(2) of title 38, United States Code, relating to election of benefits, shall be applicable to persons made eligible for benefits, under laws administered by the Secretary of Veterans Affairs, as a result of implementation of the provisions of subsection (a) of this section.
 

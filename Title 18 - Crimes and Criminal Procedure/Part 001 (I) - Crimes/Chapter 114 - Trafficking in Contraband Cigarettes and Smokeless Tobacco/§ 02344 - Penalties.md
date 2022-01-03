@@ -10,7 +10,7 @@
 
 &emsp;(2) used for undercover investigative operations for the detection and prosecution of crimes, and then destroyed and not resold.
 
-(Added Pub. L. 95–575, §1, Nov. 2, 1978, 92 Stat. 2464; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100Stat. 2095; Pub. L. 103–322, title XXXIII, §330016(1)(K), (S), Sept. 13, 1994, 108 Stat. 2147, 2148; Pub. L. 109–177, title I, §121(b)(4), (d), Mar. 9, 2006, 120 Stat. 222, 223.)
+(Added Pub. L. 95–575, §1, Nov. 2, 1978, 92 Stat. 2464; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–322, title XXXIII, §330016(1)(K), (S), Sept. 13, 1994, 108 Stat. 2147, 2148; Pub. L. 109–177, title I, §121(b)(4), (d), Mar. 9, 2006, 120 Stat. 222, 223.)
 
 #### <b>Editorial Notes</b>
 

@@ -6,7 +6,7 @@ University Transportation Centers Program.—
 
 &emsp;(1)
 
-Establishment and operation.—The Secretary shall make grants under this section to eligible nonprofit institutions of higher education to establish and operate university transportation centers.
+Establishment and operation.—The Secretary of Transportation, acting through the Assistant Secretary for Research and Technology (referred to in this section as the "Secretary"), shall make grants under this section to eligible nonprofit institutions of higher education to establish and operate university transportation centers.
 
 &emsp;(2)
 
@@ -14,9 +14,9 @@ Role of centers.—The role of each university transportation center referred to
 
 &emsp;&emsp;(A) to advance transportation expertise and technology in the varied disciplines that comprise the field of transportation through education, research, and technology transfer activities;
 
-&emsp;&emsp;(B) to provide for a critical transportation knowledge base outside of the Department of Transportation; and
+&emsp;&emsp;(B) to provide for a critical multimodal transportation knowledge base outside of the Department of Transportation; and
 
-&emsp;&emsp;(C) to address critical workforce needs and educate the next generation of transportation leaders.
+&emsp;&emsp;(C) to address critical workforce needs and educate the next generation of transportation leaders with respect to the matters described in subparagraphs (A) through (G) of section 6503(c)(1).
 
 (b)
 
@@ -32,7 +32,7 @@ Restriction.—
 
 &emsp;&emsp;(A)
 
-Limitation.—A lead institution of a consortium of nonprofit institutions of higher education, as applicable, may only receive 1 grant per fiscal year for each of the transportation centers described under paragraphs (2), (3), and (4) of subsection (c).
+Limitation.—A lead institution of a consortium of nonprofit institutions of higher education, as applicable, may only receive 1 grant per fiscal year as a lead institution under this section, except as provided in subparagraph (B).
 
 &emsp;&emsp;(B)
 
@@ -48,11 +48,11 @@ General selection criteria.—
 
 &emsp;&emsp;(A)
 
-In general.—Except as otherwise provided by this section, the Secretary shall award grants under this section in nonexclusive candidate topic areas established by the Secretary that address the research priorities identified in chapter 65.
+In general.—Except as otherwise provided by this section, the Secretary shall award grants under this section in nonexclusive candidate topic areas established by the Secretary that address the research priorities described in subparagraphs (A) through (G) of section 6503(c)(1).
 
 &emsp;&emsp;(B)
 
-Criteria.—The Secretary, in consultation with the Assistant Secretary for Research and Technology and the Administrator of the Federal Highway Administration and other modal administrations as appropriate, shall select each recipient of a grant under this section through a competitive process based on the assessment of the Secretary relating to—
+Criteria.—The Secretary, in consultation with the heads of the modal administrations of the Department of Transportation, as appropriate, shall select each recipient of a grant under this section through a competitive process based on the assessment of the Secretary relating to—
 
 &emsp;&emsp;&emsp;(i) the demonstrated ability of the recipient to address each specific topic area described in the research and strategic plans of the recipient;
 
@@ -62,7 +62,7 @@ Criteria.—The Secretary, in consultation with the Assistant Secretary for Rese
 
 &emsp;&emsp;&emsp;(iv) the ability of the recipient to carry out research, education, and technology transfer activities that are multimodal and multidisciplinary in scope;
 
-&emsp;&emsp;&emsp;(v) the demonstrated commitment of the recipient to carry out transportation workforce development programs through—
+&emsp;&emsp;&emsp;(v) the demonstrated commitment of the recipient to carry out transportationworkforce development programs through—
 
 &emsp;&emsp;&emsp;&emsp;(I) degree-granting programs or programs that provide other industry-recognized credentials; and
 
@@ -86,7 +86,7 @@ In general.—The Secretary shall provide to each applicant, upon request, any m
 
 &emsp;&emsp;(B)
 
-Reports.—The Secretary shall submit to the Committees on Transportation and Infrastructure and Science, Space, and Technology of the House of Representatives and the Committee on Environment and Public Works of the Senate a report describing the overall review process under paragraph (4) that includes—
+Reports.—The Secretary shall make available to the public on a website of the Department of Transportation a report describing the overall review process under paragraph (4) that includes—
 
 &emsp;&emsp;&emsp;(i) specific criteria of evaluation used in the review;
 
@@ -188,7 +188,15 @@ Sources.—The matching amounts referred to in clause (i) may include amounts ma
 
 &emsp;&emsp;(E)
 
-Focused research.—The Secretary shall make a grant to 1 of the 10 regional university transportation centers established under this paragraph for the purpose of furthering the objectives described in subsection (a)(2) in the field of comprehensive transportation safety, congestion, connected vehicles, connected infrastructure, and autonomous vehicles.
+Focused research.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—A regional university transportation center receiving a grant under this paragraph shall carry out research focusing on 1 or more of the matters described in subparagraphs (A) through (G) of section 6503(c)(1).
+
+&emsp;&emsp;&emsp;(ii)
+
+Focused objectives.—The Secretary shall make a grant to 1 of the 10 regional university transportation centers established under this paragraph for the purpose of furthering the objectives described in subsection (a)(2) in the field of comprehensive transportation safety, congestion, connected vehicles, connected infrastructure, and autonomous vehicles, including the cybersecurity implications of technologies relating to connected vehicles, connected infrastructure, and autonomous vehicles.
 
 &emsp;(4)
 
@@ -232,15 +240,15 @@ In general.—The Secretary shall—
 
 &emsp;(2)
 
-Annual review and evaluation.—Not less frequently than annually, and consistent with the plan developed under section 6503, the Secretary shall—
+Review and evaluation.—Not less frequently than biennially, and consistent with the plan developed under section 6503, the Secretary shall—
 
 &emsp;&emsp;(A) review and evaluate the programs carried out under this section by grant recipients; and
 
-&emsp;&emsp;(B) submit to the Committees on Transportation and Infrastructure and Science, Space, and Technology of the House of Representatives and the Committees on Environment and Public Works and Commerce, Science, and Transportation of the Senate a report describing that review and evaluation.
+&emsp;&emsp;(B) make available to the public on a website of the Department of Transportation a report describing that review and evaluation.
 
 &emsp;(3)
 
-Program evaluation and oversight.—For each of fiscal years 2016 through 2020, the Secretary shall expend not more than 1 and a half percent of the amounts made available to the Secretary to carry out this section for any coordination, evaluation, and oversight activities of the Secretary under this section.
+Program evaluation and oversight.—For each of fiscal years 2022 through 2026, the Secretary shall expend not more than 1 and a half percent of the amounts made available to the Secretary to carry out this section for any coordination, evaluation, and oversight activities of the Secretary under this section.
 
 (e)
 
@@ -250,13 +258,37 @@ Limitation on Availability of Amounts.—Amounts made available to the Secretary
 
 Information Collection.—Any survey, questionnaire, or interview that the Secretary determines to be necessary to carry out reporting requirements relating to any program assessment or evaluation activity under this section, including customer satisfaction assessments, shall not be subject to chapter 35 of title 44.
 
-(Added and amended Pub. L. 105–178, title V, §5110(a), (d), June 9, 1998, 112 Stat. 441; Pub. L. 105–206, title IX, §9011(d), July 22, 1998, 112 Stat. 863; Pub. L. 109–59, title V, §5401(a), Aug. 10, 2005, 119 Stat. 1814; Pub. L. 112–141, div. E, title II, §52009(a), July 6, 2012, 126 Stat. 882; Pub. L. 114–94, div. A, title VI, §6016, Dec. 4, 2015, 129 Stat. 1571.)
+(Added and amended Pub. L. 105–178, title V, §5110(a), (d), June 9, 1998, 112 Stat. 441; Pub. L. 105–206, title IX, §9011(d), July 22, 1998, 112 Stat. 863; Pub. L. 109–59, title V, §5401(a), Aug. 10, 2005, 119 Stat. 1814; Pub. L. 112–141, div. E, title II, §52009(a), July 6, 2012, 126 Stat. 882; Pub. L. 114–94, div. A, title VI, §6016, Dec. 4, 2015, 129 Stat. 1571; Pub. L. 117–58, div. B, title V, §25017, Nov. 15, 2021, 135 Stat. 873.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 The date of enactment of this section, referred to in subsec. (c)(1), probably means the date of enactment of Pub. L. 114–94, which amended this section generally and was approved Dec. 4, 2015.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(1). Pub. L. 117–58, §25017(1)(A), inserted "of Transportation, acting through the Assistant Secretary for Research and Technology (referred to in this section as the 'Secretary')," after "The Secretary".
+
+Subsec. (a)(2)(B). Pub. L. 117–58, §25017(1)(B)(i), inserted "multimodal" after "critical".
+
+Subsec. (a)(2)(C). Pub. L. 117–58, §25017(1)(B)(ii), inserted "with respect to the matters described in subparagraphs (A) through (G) of section 6503(c)(1)" after "transportation leaders".
+
+Subsec. (b)(2)(A). Pub. L. 117–58, §25017(2)(A), substituted "as a lead institution under this section, except as provided in subparagraph (B)" for "for each of the transportation centers described under paragraphs (2), (3), and (4) of subsection (c)".
+
+Subsec. (b)(4)(A). Pub. L. 117–58, §25017(2)(B)(i), substituted "described in subparagraphs (A) through (G) of section 6503(c)(1)" for "identified in chapter 65".
+
+Subsec. (b)(4)(B). Pub. L. 117–58, §25017(2)(B)(ii), substituted "the heads of the modal administrations of the Department of Transportation," for "the Assistant Secretary for Research and Technology and the Administrator of the Federal Highway Administration and other modal administrations" in introductory provisions.
+
+Subsec. (b)(5)(B). Pub. L. 117–58, §25017(2)(C), substituted "make available to the public on a website of the Department of Transportation" for "submit to the Committees on Transportation and Infrastructure and Science, Space, and Technology of the House of Representatives and the Committee on Environment and Public Works of the Senate" in introductory provisions.
+
+Subsec. (c)(3)(E). Pub. L. 117–58, §25017(3), added cl. (i), designated existing provisions as cl. (ii) and inserted heading, and inserted ", including the cybersecurity implications of technologies relating to connected vehicles, connected infrastructure, and autonomous vehicles" after "autonomous vehicles".
+
+Subsec. (d)(2). Pub. L. 117–58, §25017(4)(A)(i), (ii), substituted "Review" for "Annual review" in heading and "biennially" for "annually" in introductory provisions.
+
+Subsec. (d)(2)(B). Pub. L. 117–58, §25017(4)(A)(iii), substituted "make available to the public on a website of the Department of Transportation" for "submit to the Committees on Transportation and Infrastructure and Science, Space, and Technology of the House of Representatives and the Committees on Environment and Public Works and Commerce, Science, and Transportation of the Senate".
+
+Subsec. (d)(3). Pub. L. 117–58, §25017(4)(B), substituted "2022 through 2026" for "2016 through 2020".
 
 <b>2015</b>—Pub. L. 114–94 amended section generally. Prior to amendment, section related to the university transportation centers program.
 
@@ -269,6 +301,8 @@ The date of enactment of this section, referred to in subsec. (c)(1), probably m
 Subsec. (i). Pub. L. 105–178, §5110(d)(2), as added by Pub. L. 105–206, inserted "Subject to section 5338(e):" before par. (1) and substituted "institutions or groups of institutions" for "institutions" wherever appearing.
 
 Subsec. (j)(4)(B). Pub. L. 105–178, §5110(d)(3), as added by Pub. L. 105–206, substituted "on behalf of a consortium which may also include West Virginia University Institute of Technology, the College of West Virginia, and Bluefield State College" for "on behalf of a consortium of West Virginia colleges and universities".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

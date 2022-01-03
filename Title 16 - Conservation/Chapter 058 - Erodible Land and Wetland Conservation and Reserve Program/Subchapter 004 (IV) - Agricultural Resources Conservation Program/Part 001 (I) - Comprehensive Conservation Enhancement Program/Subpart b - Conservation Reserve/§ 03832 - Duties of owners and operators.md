@@ -36,7 +36,7 @@ Under the terms of a contract entered into under this subpart, during the term o
 
 &emsp;&emsp;(B) to refund to the United States all rental payments and cost sharing payments received by the owner or operator, or accept such payment adjustments or make such refunds as the Secretary considers appropriate and consistent with the objectives of this subpart;
 
-> &emsp;unless the transferee of the land agrees with the Secretary to assume all obligations of thecontract, except that no refund of rental payments and cost sharing payments shall be required if the land is purchased by or for the United States Fish and Wildlife Service, or the transferee and the Secretary agree to modifications to the contract, in a case in which the modifications are consistent with the objectives of the program, as determined by the Secretary;
+> &emsp;unless the transferee of the land agrees with the Secretary to assume all obligations of the contract, except that no refund of rental payments and cost sharing payments shall be required if the land is purchased by or for the United States Fish and Wildlife Service, or the transferee and the Secretary agree to modifications to the contract, in a case in which the modifications are consistent with the objectives of the program, as determined by the Secretary;
 
 &emsp;(8) not to conduct any harvesting or grazing, nor otherwise make commercial use of the forage, on land that is subject to the contract, nor adopt any similar practice specified in the contract by the Secretary as a practice that would tend to defeat the purposes of the contract, except as provided in subsection (b) or (c) of section 3833 of this title;
 
@@ -78,6 +78,8 @@ The plan referred to in subsection (a)(1) shall set forth—
 
 (Pub. L. 99–198, title XII, §1232, as added Pub. L. 107–171, title II, §2101(a), May 13, 2002, 116 Stat. 242; amended Pub. L. 108–7, div. N, title II, §212, Feb. 20, 2003, 117 Stat. 545; Pub. L. 110–234, title II, §§2107, 2108, May 22, 2008, 122 Stat. 1032, 1033; Pub. L. 110–246, §4(a), title II, §§2107, 2108, June 18, 2008, 122 Stat. 1664, 1760, 1761; Pub. L. 113–79, title II, §2003, Feb. 7, 2014, 128 Stat. 715; Pub. L. 115–334, title II, §2205, Dec. 20, 2018, 132 Stat. 4543.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -115,6 +117,8 @@ Subsec. (a)(9) to (11). Pub. L. 110–246, §2107(1), redesignated pars. (8) to 
 Subsec. (d). Pub. L. 110–246, §2108(b), added subsec. (d).
 
 <b>2003</b>—Subsec. (a)(7)(A)(iii). Pub. L. 108–7 inserted before semicolon ", except that this clause shall not apply to the 2002 calendar year, and the Secretary shall repay the owner or operator (in a manner determined by the Secretary) for any reduction in rental payments made to the owner or operator as the result of the application of this clause to the 2002 calendar year".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

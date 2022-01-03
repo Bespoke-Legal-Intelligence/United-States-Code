@@ -42,7 +42,9 @@ Authority To Expand Placement To Include Firefighters.—(1) The Secretary may e
 
 (3) A civilian employee of the Department of Defense shall be eligible to participate in the expanded placement activities authorized under this subsection if the employee, during the six-year period beginning October 1, 1993, is terminated from such employment as a result of reductions in defense spending or the closure or realignment of a military installation, as determined by the Secretary of Defense.
 
-(Added Pub. L. 103–160, div. A, title XIII, §1332(a), Nov. 30, 1993, 107 Stat. 1793; amended Pub. L. 103–337, div. A, title V, §543(d), title XI, §1132(a)(1), Oct. 5, 1994, 108 Stat. 2771, 2872; Pub. L. 104–106, div. A, title XV, §1503(a)(11), Feb. 10, 1996, 110 Stat. 511; Pub. L. 104–201, div. A, title V, §575, Sept. 23, 1996, 110 Stat. 2535; Pub. L. 105–85, div. A, title X, §1073(a)(20), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 103–160, div. A, title XIII, §1332(a), Nov. 30, 1993, 107 Stat. 1793; amendedPub. L. 103–337, div. A, title V, §543(d), title XI, §1132(a)(1), Oct. 5, 1994, 108 Stat. 2771, 2872; Pub. L. 104–106, div. A, title XV, §1503(a)(11), Feb. 10, 1996, 110 Stat. 511; Pub. L. 104–201, div. A, title V, §575, Sept. 23, 1996, 110 Stat. 2535; Pub. L. 105–85, div. A, title X, §1073(a)(20), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -57,6 +59,8 @@ Subsec. (g)(2). Pub. L. 104–106 substituted "not later than April 3, 1994," fo
 <b>1994</b>—Pub. L. 103–337, §543(d), inserted ", and the Secretary of Transportation with respect to the Coast Guard," after "Secretary of Defense" in subsecs. (a) and (d).
 
 Pub. L. 103–337, §1132(a)(1), substituted "eligible members and former members" for "separated members" in section catchline and amended text generally, substituting subsecs. (a) to (g) for former subsecs. (a) to (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

@@ -20,6 +20,8 @@ In carrying out this section, the Secretary shall integrate and coordinate the t
 
 (Pub. L. 87–128, title III, §345, as added Pub. L. 110–234, title V, §5304, May 22, 2008, 122 Stat. 1153, and Pub. L. 110–246, §4(a), title V, §5304, June 18, 2008, 122 Stat. 1664, 1914.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
@@ -27,6 +29,8 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 #### Prior Provisions
 
 A prior section 1993, Pub. L. 87–128, title III, §345, as added Pub. L. 94–68, §9, Aug. 5, 1975, 89 Stat. 382; amended Pub. L. 103–437, §4(a)(7), Nov. 2, 1994, 108 Stat. 4582, related to testimony by Secretary of Agriculture before congressional committees, prior to repeal by Pub. L. 104–127, title VII, §750, Apr. 4, 1996, 110 Stat. 1129.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

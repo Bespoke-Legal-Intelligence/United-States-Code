@@ -104,7 +104,7 @@ Each eligible entity seeking a grant under this section shall submit an applicat
 
 Grants and contracts awarded pursuant to subsection (a) shall provide to eligible entities personnel, training, and technical assistance to develop and implement policies, practices, and procedures, making physical improvements or changes, and developing or enhancing collaborations for the purposes of—
 
-&emsp;(1) enabling victims of domestic violence, dating violence, sexual assault, and stalking with otherwise disqualifying rental, credit, or criminal histories to be eligible to obtainhousing or housing assistance, if such victims would otherwise qualify for housing or housing assistance and can provide documented evidence that demonstrates the causal connection between such violence or abuse and the victims' negative histories;
+&emsp;(1) enabling victims of domestic violence, dating violence, sexual assault, and stalking with otherwise disqualifying rental, credit, or criminal histories to be eligible to obtain housing or housing assistance, if such victims would otherwise qualify for housing or housing assistance and can provide documented evidence that demonstrates the causal connection between such violence or abuse and the victims' negative histories;
 
 &emsp;(2) permitting applicants for housing or housing assistance to provide incomplete rental and employment histories, otherwise required as a condition of admission or assistance, if the victim believes that providing such rental and employment history would endanger the victim's or the victim children's safety;
 

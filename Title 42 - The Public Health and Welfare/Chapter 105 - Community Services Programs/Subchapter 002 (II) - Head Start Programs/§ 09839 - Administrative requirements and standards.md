@@ -34,11 +34,11 @@
 
 #### (b) Development and administrative costs of programs
 
-Except as provided in subsection (f), no financial assistance shall be extended under this subchapter in any case in which the Secretary determines that the costs of developing and administering a program assisted under this subchapter exceed 15 percent of the total costs, including the required non-Federal contributions to such costs, of such program. The Secretary shall establish by regulation, criteria for determining (1) the costs of developing and administering such program; and (2) the total costs of such program. In any case in which the Secretary determines that the cost of administering such program does not exceed 15 percent of such total costs but is, in the judgment of the Secretary, excessive, the Secretary shall forthwith require the recipient of such financial assistance to take such steps prescribed by the Secretary as will eliminate such excessive administrative cost, including the sharing by one or more Head Start agencies of a common director and other administrative personnel. The Secretary may waive the limitation prescribed by this subsection for specific periods of time not to exceed 12 months whenever the Secretary determines that such a waiver is necessary in order to carry out the purposes of this subchapter.
+Except as provided in subsection (f), no financial assistance shall be extended under this subchapter in any case in which the Secretary determines that the costs of developing and administering a program assisted under this subchapter exceed 15 percent of the total costs, including the required non-Federal contributions to such costs, of such program. The Secretary shall establish by regulation, criteria for determining (1) the costs of developing and administering such program; and (2) the total costs of such program. In any case in which the Secretary determines that the cost of administering such program does not exceed 15 percent of such total costs but is, in the judgment of the Secretary, excessive, the Secretary shall forthwith require the recipient of such financial assistance to take such steps prescribed by the Secretary as will eliminate such excessive administrative cost, including the sharing by one or more Head Start agencies of a common director and other administrative personnel. The Secretary maywaive the limitation prescribed by this subsection for specific periods of time not to exceed 12 months whenever the Secretary determines that such a waiver is necessary in order to carry out the purposes of this subchapter.
 
 #### (c) Rules and regulations; special or simplified requirements for small agencies; common or joint use of facilities
 
-The Secretary shall prescribe rules or regulations to supplement subsections (a) and (f),which shall be binding on all agencies carrying on Head Start program activities with financial assistance under this subchapter. The Secretary may, where appropriate, establish special or simplified requirements for smaller agencies or agencies operating in rural areas. Policies and procedures shall be established to ensure that indirect costs attributable to the common or joint use of facilities and services by programs assisted under this subchapter and other programs shall be fairly allocated among the various programs which utilize such facilities and services.
+The Secretary shall prescribe rules or regulations to supplement subsections (a) and (f), which shall be binding on all agencies carrying on Head Start program activities with financial assistance under this subchapter. The Secretary may, where appropriate, establish special or simplified requirements for smaller agencies or agencies operating in rural areas. Policies and procedures shall be established to ensure that indirect costs attributable to the common or joint use of facilities and services by programs assisted under this subchapter and other programs shall be fairly allocated among the various programs which utilize such facilities and services.
 
 #### (d) Publication and notification of proposed rules, etc.
 
@@ -92,6 +92,8 @@ In all personnel actions of the American Indian Programs Branch of the Head Star
 
 (Pub. L. 97–35, title VI, §644, Aug. 13, 1981, 95 Stat. 502; Pub. L. 101–501, title I, §§111, 112, Nov. 3, 1990, 104 Stat. 1231; Pub. L. 102–401, §2(j), Oct. 7, 1992, 106 Stat. 1958; Pub. L. 103–218, title IV, §403, Mar. 9, 1994, 108 Stat. 96; Pub. L. 103–252, title I, §110, May 18, 1994, 108 Stat. 636; Pub. L. 105–285, title I, §106(e), Oct. 27, 1998, 112 Stat. 2712; Pub. L. 110–134, §13, Dec. 12, 2007, 121 Stat. 1414.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 In subsec. (g)(3), "sections 3141–3144, 3146, and 3147 of title 40" substituted for "the Act of March 3, 1931, as amended (40 U.S.C. 276a et seq., commonly known as the 'Davis-Bacon Act')" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
@@ -133,6 +135,8 @@ Subsec. (f). Pub. L. 102–401, §2(j)(3), added subsec. (f).
 <b>1990</b>—Subsec. (b). Pub. L. 101–501, §111, inserted "the required" before "non-Federal contributions".
 
 Subsec. (e). Pub. L. 101–501, §112, added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

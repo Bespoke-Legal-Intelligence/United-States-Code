@@ -1,5 +1,7 @@
 ### §13825. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 13825 was editorially reclassified as section 12185 of Title 34, Crime Control and Law Enforcement.

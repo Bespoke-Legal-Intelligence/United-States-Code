@@ -16,9 +16,13 @@ The Comptroller General of the United States shall have the authority to conduct
 
 (Pub. L. 99–239, title I, §110, Jan. 14, 1986, 99 Stat. 1798.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly set out as a note under section 1681 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Reporting Requirements
 

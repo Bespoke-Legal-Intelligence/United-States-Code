@@ -12,7 +12,7 @@
 
 &emsp;&emsp;&emsp;(ii) except as provided in clause (i), awards a grant to (or enters into a contract or cooperative agreement with) an entity to carry out a program for which such a position is approved under section 12573 of this title; and
 
-&emsp;&emsp;(B) shall record as an obligation an estimate of the net present value of the national service educational award, summer of service educational award, or silver scholar educational award associated with the position, based on a formula that takes into consideration historical rates of enrollment in such a program, and of earning and using nationalservice educational awards, summer of service educational awards, or silver scholar educational awards, as appropriate, for such a program and remain available.
+&emsp;&emsp;(B) shall record as an obligation an estimate of the net present value of the national service educational award, summer of service educational award, or silver scholar educational award associated with the position, based on a formula that takes into consideration historical rates of enrollment in such a program, and of earning and using national service educational awards, summer of service educational awards, or silver scholar educational awards, as appropriate, for such a program and remain available.
 
 #### (2) Formula
 
@@ -64,6 +64,8 @@ Except as provided in subsection (b), all amounts included in the National Servi
 
 (Pub. L. 101–610, title I, §149, as added Pub. L. 111–13, title I, §1406(a), Apr. 21, 2009, 123 Stat. 1519.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Domestic Volunteer Service Act of 1973, referred to in subsecs. (a)(1)(A)(i) and (b)(1)(B)(i), (ii), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394. Title I of the Act is classified generally to subchapter I (§4951 et seq.) of chapter 66 of this title. Reference to subtitle A of title I of the Act probably means part A of title I of the Act, which is classified generally to part A (§4951 et seq.) of subchapter I of chapter 66 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
@@ -71,6 +73,8 @@ The Domestic Volunteer Service Act of 1973, referred to in subsecs. (a)(1)(A)(i)
 #### Prior Provisions
 
 A prior section 149 of Pub. L. 101–610 was classified to section 12579 of this title prior to the general amendment of subtitle D of title I of Pub. L. 101–610 (former part D of this subchapter) by Pub. L. 103–82, §102(a).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

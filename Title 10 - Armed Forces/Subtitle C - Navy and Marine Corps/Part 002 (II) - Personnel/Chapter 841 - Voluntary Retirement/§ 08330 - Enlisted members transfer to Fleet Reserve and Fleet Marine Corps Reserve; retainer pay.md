@@ -70,6 +70,8 @@ In subsection (c) the words "is entitled, when not on active duty, to retainer p
 
 Subsection (d) states the rule as to the method of counting minority and short-term enlistments, in connection with determining active service, in accordance with <i>White v. United States</i>, 97 F. Supp. 698.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232, §807(b)(15), renumbered section 6330 of this title as this section.
@@ -84,7 +86,7 @@ Subsec. (c)(1). Pub. L. 115–232, §809(a), substituted "section 8333" for "sec
 
 &emsp;"(2) this section."
 
-<b>1986</b>—Subsec. (c)(1). Pub. L. 99–348, §203(b)(6)(A), substituted provision that retainer pay be computed under section 6333 for provision that retainer pay, in the case of a member who first became a member of a uniformed service, as defined in section 1407(a)(2), before Sept. 8, 1980, be at the rate of 2½ percent of the basic pay that he received at the time of transfer or, in the case of a member who served as master chief petty officer of the Navy or sergeant major of the Marine Corps, of the highest basic pay to which he was entitled while so serving, if that basic pay is higher than the basic pay received at the time of transfer, or in the case of a member who first became a member of a uniformed service, as defined in section 1407(a)(2), on or after Sept. 8, 1980, be at the rate of 2½ percent of the monthly retainer pay base computed under section 1407(d), which rates were to be multiplied by the number of years of active service in the armed forces.
+<b>1986</b>—Subsec. (c)(1). Pub. L. 99–348, §203(b)(6)(A), substituted provision that retainer pay be computed under section 6333 for provision that retainer pay, in the case of a member who first became a member of a uniformed service, as defined in section 1407(a)(2), before Sept. 8, 1980, be at the rate of 2½ percent of the basic pay thathe received at the time of transfer or, in the case of a member who served as master chief petty officer of the Navy or sergeant major of the Marine Corps, of the highest basic pay to which he was entitled while so serving, if that basic pay is higher than the basic pay received at the time of transfer, or in the case of a member who first became a member of a uniformed service, as defined in section 1407(a)(2), on or after Sept. 8, 1980, be at the rate of 2½ percent of the monthly retainer pay base computed under section 1407(d), which rates were to be multiplied by the number of years of active service in the armed forces.
 
 Subsec. (c)(4). Pub. L. 99–348, §203(b)(6)(B), struck out par. (4) which provided that in no case could a member's retainer pay be more than 75 percent of the basic pay or monthly retainer pay base upon which computation of retainer pay was based.
 
@@ -92,7 +94,7 @@ Subsec. (d). Pub. L. 99–348, §305(a)(1), designated existing provisions as pa
 
 <b>1983</b>—Subsec. (d). Pub. L. 98–94 substituted "For the purposes of subsection (c), each full month of service that is in addition to the number of full years of service creditable to a member is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded" for "For the purposes of subsections (b) and (c), a part of a year that is six months or more is counted as a whole year and a part of a year that is less than six months is disregarded".
 
-<b>1980</b>—Subsec. (c). Pub. L. 96–513 substituted "September 8, 1980" for "the date of the enactment of theDepartment of Defense Authorization Act, 1981" wherever appearing, and "master chief petty officer" for "senior enlisted advisor".
+<b>1980</b>—Subsec. (c). Pub. L. 96–513 substituted "September 8, 1980" for "the date of the enactment of the Department of Defense Authorization Act, 1981" wherever appearing, and "master chief petty officer" for "senior enlisted advisor".
 
 Pub. L. 96–342 amended subsec. (c) generally, designating existing provisions as pars. (1) to (4) and, as so amended, in par. (1) designated existing provisions as subpar. (A), as so designated, inserted provision limiting applicability to persons who became members of the uniformed services before the date of the enactment of the Department of Defense Authorization Act, 1981, and added subpar. (B), in par. (2) inserted reference to section 1402a of this title, and in par. (4) added applicability to monthly retainer pay base.
 
@@ -101,6 +103,8 @@ Pub. L. 96–342 amended subsec. (c) generally, designating existing provisions 
 <b>1958</b>—Subsec. (a). Pub. L. 85–583, §1(2), substituted "naval service" for "Regular Navy and the Regular Marine Corps, respectively,".
 
 Subsec. (b). Pub. L. 85–583, §1(3), inserted "or the Naval Reserve" after "Regular Navy" and "or the Marine Corps Reserve" after "Regular Marine Corps".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

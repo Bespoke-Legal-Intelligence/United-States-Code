@@ -22,7 +22,7 @@ Eligibility of Caregivers for Veterans.—A caregiver or family caregiver shall 
 
 (f)
 
-Eligibility of Foreign Service Officers on Mandatory Home Leave.—A Foreign Service officer on mandatory home leave may be permitted to use military lodging referred to in subsection (h).
+Eligibility of Foreign Service Officers on Mandatory Home Leave.—A Foreign Serviceofficer on mandatory home leave may be permitted to use military lodging referred to in subsection (h).
 
 (g)
 
@@ -56,6 +56,8 @@ Definitions.—In this section:
 
 (Added Pub. L. 115–232, div. A, title VI, §621(b)(1), Aug. 13, 2018, 132 Stat. 1798; amended Pub. L. 116–92, div. A, title VI, §641(a), Dec. 20, 2019, 133 Stat. 1430.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1065 was renumbered section 1063 of this title.
@@ -67,6 +69,8 @@ A prior section 1065 was renumbered section 1063 of this title.
 Subsecs. (f) to (h). Pub. L. 116–92, §641(a)(2), (3), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
 Subsec. (h)(5), (6). Pub. L. 116–92, §641(a)(4), added pars. (5) and (6).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2019 Amendment
 

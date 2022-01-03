@@ -44,6 +44,8 @@
 
 (Added Pub. L. 91–172, title I, §101(b), Dec. 30, 1969, 83 Stat. 517; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–34, title XV, §1530(c)(9), Aug. 5, 1997, 111 Stat. 1079; Pub. L. 107–16, title V, §542(e)(4), June 7, 2001, 115 Stat. 85; Pub. L. 108–357, title IV, §413(c)(30), Oct. 22, 2004, 118 Stat. 1509; Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (a)(2)(A). Pub. L. 111–312 amended subsec. (a)(2)(A) to read as if amendment by Pub. L. 107–16, §542(e)(4), had never been enacted. See 2001 Amendment note below.
@@ -56,13 +58,15 @@
 
 <b>1976</b>—Subsec. (b)(1). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–312 applicable to estates of decedents dying, and transfers made after Dec. 31, 2009, except as otherwise provided, see section 301(e) of Pub. L. 111–312, set out as an Effective and Termination Dates of 2010 Amendment note under section 121 of this title.
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
+Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31,2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
 
 #### Effective Date of 2001 Amendment
 

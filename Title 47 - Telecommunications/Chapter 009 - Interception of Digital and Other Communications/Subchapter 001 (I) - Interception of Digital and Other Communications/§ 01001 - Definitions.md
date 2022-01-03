@@ -18,7 +18,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;(B) includes—
 
-&emsp;&emsp;&emsp;(i) a service that permits a customer to retrieve stored information from, or fileinformation for storage in, information storage facilities;
+&emsp;&emsp;&emsp;(i) a service that permits a customer to retrieve stored information from, or file information for storage in, information storage facilities;
 
 &emsp;&emsp;&emsp;(ii) electronic publishing; and
 

@@ -16,7 +16,7 @@ The term "rifle" means a weapon designed or redesigned, made or remade, and inte
 
 #### (d) Shotgun
 
-The term "shotgun" means a weapon designed or redesigned, made or remade, and intended to be fired from the shoulder and designed or redesigned and made or remade to use the energy of the explosive in a fixed shotgun shell to fire through a smooth bore either a number of projectiles (ball shot) or a single projectile for each pull of the trigger, and shall include any such weapon which may be readily restored to fire a fixed shotgun shell.
+The term "shotgun" means a weapon designed or redesigned, made or remade, and intended to be fired from the shoulder and designed or redesigned and made or remade to use the energy ofthe explosive in a fixed shotgun shell to fire through a smooth bore either a number of projectiles (ball shot) or a single projectile for each pull of the trigger, and shall include any such weapon which may be readily restored to fire a fixed shotgun shell.
 
 #### (e) Any other weapon
 
@@ -24,7 +24,7 @@ The term "any other weapon" means any weapon or device capable of being conceale
 
 #### (f) Destructive device
 
-The term "destructive device" means (1) any explosive, incendiary, or poison gas (A) bomb, (B) grenade, (C) rocket having a propellent charge of more than four ounces, (D) missile having an explosive or incendiary charge of more than one-quarter ounce, (E) mine, or (F) similar device; (2) any type of weapon by whatever name known which will, or which may be readily converted to, expel a projectile by the action of an explosive or other propellant, the barrel or barrels of which have a bore of more than one-half inch in diameter, except a shotgun or shotgun shell which the Secretary finds is generally recognized as particularly suitable for sporting purposes; and (3) any combination of parts either designed or intended for use in converting any device into a destructive device as defined in subparagraphs (1) and (2) and from which a destructive device may be readily assembled. The term "destructive device" shall not include any device which is neither designed nor redesigned for use as a weapon; any device,although originally designed for use as a weapon, which is redesigned for use as a signaling, pyrotechnic, line throwing, safety, or similar device; surplus ordnance sold, loaned, or given by the Secretary of the Army pursuant to the provisions of section 7684(2), 7685, or 7686 of title 10, United States Code; or any other device which the Secretary finds is not likely to be used as a weapon, or is an antique or is a rifle which the owner intends to use solely for sporting purposes.
+The term "destructive device" means (1) any explosive, incendiary, or poison gas (A) bomb, (B) grenade, (C) rocket having a propellent charge of more than four ounces, (D) missile having an explosive or incendiary charge of more than one-quarter ounce, (E) mine, or (F) similar device; (2) any type of weapon by whatever name known which will, or which may be readily converted to, expel a projectile by the action of an explosive or other propellant, the barrel or barrels of which have a bore of more than one-half inch in diameter, except a shotgun or shotgun shell which the Secretary finds is generally recognized as particularly suitable for sporting purposes; and (3) any combination of parts either designed or intended for use in converting any device into a destructive device as defined in subparagraphs (1) and (2) and from which a destructive device may be readily assembled. The term "destructive device" shall not include any device which is neither designed nor redesigned for use as a weapon; any device, although originally designed for use as a weapon, which is redesigned for use as a signaling, pyrotechnic, line throwing, safety, or similar device; surplus ordnance sold, loaned, or given by the Secretary of the Army pursuant to the provisions of section 7684(2), 7685, or 7686 of title 10, United States Code; or any other device which the Secretary finds is not likely to be used as a weapon, or is an antique or is a rifle which the owner intends to use solely for sporting purposes.
 
 #### (g) Antique firearm
 
@@ -56,6 +56,8 @@ The term "manufacturer" means any person who is engaged in the business of manuf
 
 (Added Pub. L. 90–618, title II, §201, Oct. 22, 1968, 82 Stat. 1230; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), (J), Oct. 4, 1976, 90 Stat. 1834, 1835; Pub. L. 99–308, §109, May 19, 1986, 100 Stat. 460; Pub. L. 115–232, div. A, title VIII, §809(h)(3), Aug. 13, 2018, 132 Stat. 1842.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 5845, act Aug. 16, 1954, ch. 736, 68A Stat. 725, related to the importation of firearms into the United States or its territory, prior to the general revisions of this chapter by Pub. L. 90–618.
@@ -68,11 +70,13 @@ Provisions similar to those comprising this section were contained in prior sect
 
 <b>1986</b>—Subsec. (a)(7). Pub. L. 99–308, §109(b), substituted "any silencer (as defined in section 921 of title 18, United States Code)" for "a muffler or a silencer for any firearm whether or not such firearm is included within this definition".
 
-Subsec. (b). Pub. L. 99–308, §109(a), substituted "any part designed and intended solely and exclusively, or combination of parts designed and intended, for use in converting a weapon into a machinegun," for "any combination of parts designed and intended for use in converting a weapon into a machinegun,".
+Subsec. (b). Pub. L. 99–308, §109(a), substituted "any part designed and intended solely and exclusively, or combination of parts designed and intended, for use in converting a weapon into a machinegun," for "anycombination of parts designed and intended for use in converting a weapon into a machinegun,".
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
 Subsec. (f). Pub. L. 94–455, §1906(b)(13)(A), (J), struck out "or his delegate" after "shotgun or shotgun shell which the Secretary" and "of the Treasury or his delegate" after "or any other device which the Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

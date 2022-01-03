@@ -1,6 +1,6 @@
 ### §7631. Periodic adjustments in amount of assistance
 
-(a)(1) Whenever there is a general Federal pay increase, the Secretary shall increase the maximum monthly stipend amount, the maximum tuition reimbursement amount, the maximum Selected Reserve member stipend amount, the maximum employee incentive scholarship amount, the maximum education debt reduction payments amount, and the maximum specialty education loan repayment amount. Any such increase shall take effect with respect to any school year that ends in the fiscal year in which the pay increase takes effect.
+(a)(1) Whenever there is a general Federal pay increase, the Secretary shall increase the maximum monthly stipend amount, the maximum tuition reimbursement amount, the maximum Selected Reserve member stipend amount, the maximum employee incentive scholarship amount, the maximum education debt reduction payments amount, and the maximum specialty education loan repayment amount. Any such increase shall take effect with respect to anyschool year that ends in the fiscal year in which the pay increase takes effect.
 
 (2) The amount of any increase under paragraph (1) of this subsection is the previous maximum amount under that paragraph multiplied by the overall percentage of the adjustment in the rates of pay under the General Schedule made under the general Federal pay increase. Such amount shall be rounded to the next lower multiple of $1.
 

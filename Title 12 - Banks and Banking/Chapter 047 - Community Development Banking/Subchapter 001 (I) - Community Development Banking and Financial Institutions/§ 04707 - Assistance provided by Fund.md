@@ -38,7 +38,7 @@
 
 #### (1) In general
 
-&emsp;Financial assistance made available under this subchapter may be used by assisted community development financial institutions to serve investment areas or targeted populations by developing or supporting—
+&emsp;Financial assistance made available under this subchapter may be used by assisted community development financial institutions toserve investment areas or targeted populations by developing or supporting—
 
 &emsp;&emsp;(A) commercial facilities that promote revitalization, community stability, or job creation or retention;
 
@@ -86,7 +86,7 @@
 
 #### (2) Exception
 
-&emsp;The Fund may provide not more than $3,750,000 of assistance in addition to the amount specified in paragraph (1) during thesame 3-year period to an existing community development financial institution that proposes to establish a subsidiary or affiliate for the purpose of serving an investment area or targeted population outside of any State and outside of any metropolitan area presently served by the institution, if—
+&emsp;The Fund may provide not more than $3,750,000 of assistance in addition to the amount specified in paragraph (1) during the same 3-year period to an existing community development financial institution that proposes to establish a subsidiary or affiliate for the purpose of serving an investment area or targeted population outside of any State and outside of any metropolitan area presently served by the institution, if—
 
 &emsp;&emsp;(A) the subsidiary or affiliate—
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;After December 31, 1971, no new flood insurance coverage shall be provided under this chapter in any area (or subdivision thereof) unless an appropriate public body shall have adopted adequate land use and control measures (with effective enforcement provisions) which the Administrator finds are consistent with the comprehensive criteria for land management and use under section 4102 of this title.
+&emsp;After December 31, 1971, no new flood insurance coverage shall be provided under this chapter in any area (or subdivision thereof)unless an appropriate public body shall have adopted adequate land use and control measures (with effective enforcement provisions) which the Administrator finds are consistent with the comprehensive criteria for land management and use under section 4102 of this title.
 
 #### (2) Agricultural structures
 
@@ -76,6 +76,8 @@
 
 (Pub. L. 90–448, title XIII, §1315, Aug. 1, 1968, 82 Stat. 580; Pub. L. 91–152, title IV, §410(b), Dec. 24, 1969, 83 Stat. 397; Pub. L. 98–181, title I \[title IV, §451(d)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 103–325, title V, §§541, 580, Sept. 23, 1994, 108 Stat. 2268, 2285; Pub. L. 108–264, title I, §108, June 30, 2004, 118 Stat. 724; Pub. L. 112–141, div. F, title II, §100238(b)(1), July 6, 2012, 126 Stat. 958.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a)(1) and (c)(1), was in the original a reference to "this title" meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
@@ -98,9 +100,11 @@ Subsec. (b). Pub. L. 103–325, §541(2), added subsec. (b).
 
 <b>1969</b>—Pub. L. 91–152 substituted provisions prohibiting new flood insurance coverage after Dec. 31, 1971, unless adequate land use measures have been adopted, for provisions prohibiting such coverage after June 30, 1970, unless permanent land use measures have been adopted.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in noevent more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under section 4001 of this title.
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under section 4001 of this title.
 
 #### Transfer of Functions
 

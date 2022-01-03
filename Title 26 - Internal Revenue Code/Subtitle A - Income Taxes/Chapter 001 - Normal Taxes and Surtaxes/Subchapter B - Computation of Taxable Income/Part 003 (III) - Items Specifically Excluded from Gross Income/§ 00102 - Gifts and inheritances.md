@@ -28,9 +28,13 @@ Subsection (a) shall not exclude from gross income—
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 28; Pub. L. 99–514, title I, §122(b), Oct. 22, 1986, 100 Stat. 2110.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1986</b>—Subsec. (c). Pub. L. 99–514 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

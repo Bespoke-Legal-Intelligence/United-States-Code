@@ -4,7 +4,7 @@
 
 An individual who was a former spouse of a participant, former participant, or retired participant on November 15, 1982, and any former spouse divorced after November 15, 1982, from a participant or former participant who retired before November 15, 1982, shall be entitled, except to the extent such former spouse is disqualified under subsection (b), to an annuity—
 
-&emsp;(1) if married to the participant throughout the creditable service of the participant, equalto 50 percent of the annuity of the participant; or
+&emsp;(1) if married to the participant throughout the creditable service of the participant, equal to 50 percent of the annuity of the participant; or
 
 &emsp;(2) if not married to the participant throughout such creditable service, equal to that former spouse's pro rata share of 50 percent of such annuity.
 
@@ -68,6 +68,8 @@ Nothing in this section shall be construed to impair, reduce, or otherwise affec
 
 (Pub. L. 88–643, title II, §225, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3218; amended Pub. L. 103–178, title II, §202(a)(7), Dec. 3, 1993, 107 Stat. 2026.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 225 of Pub. L. 88–643, as added Pub. L. 100–178, title IV, §401(a), Dec. 2, 1987, 101 Stat. 1012; amended Pub. L. 100–453, title III, §302(c)(1), Sept. 29, 1988, 102 Stat. 1907; Pub. L. 102–88, title III, §307(b), Aug. 14, 1991, 105 Stat. 433, related to retirement benefits for certain other former spouses and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
@@ -77,6 +79,8 @@ A prior section 225 of Pub. L. 88–643, as added Pub. L. 100–178, title IV, �
 <b>1993</b>—Subsec. (c)(3). Pub. L. 103–178, §202(a)(7)(A), substituted "any survivor annuity" for "any other annuity".
 
 Subsec. (c)(4)(A). Pub. L. 103–178, §202(a)(7)(B), substituted "June 2, 1990" for "June 2, 1991".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1993 Amendment
 

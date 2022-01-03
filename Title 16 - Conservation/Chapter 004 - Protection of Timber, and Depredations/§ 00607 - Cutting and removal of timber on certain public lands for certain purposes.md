@@ -4,6 +4,8 @@ In the States of Alaska, Colorado, Montana, Idaho, North Dakota, and South Dakot
 
 (Mar. 3, 1891, ch. 559, 26 Stat. 1093; Mar. 3, 1891, ch. 561, §8, 26 Stat. 1099; Feb. 13, 1893, ch. 103, 27 Stat. 444; July 1, 1898, ch. 546, §1, 30 Stat. 618; Mar. 3, 1901, ch. 855, 31 Stat. 1436; Mar. 3, 1901, ch. 862, 31 Stat. 1439; Mar. 3, 1919, ch. 111, 40 Stat. 1321; Mar. 3, 1919, ch. 115, 40 Stat. 1322; Feb. 27, 1922, ch. 82, 42 Stat. 398; Aug. 21, 1935, ch. 591, 49 Stat. 665; Pub. L. 86–70, §41, June 25, 1959, 73 Stat. 151.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was derived from section 8 of act Mar. 3, 1891, ch. 561. The portion of that section set forth here, as originally enacted was as follows: "And in the States of Colorado, Montana, Idaho, North Dakota, and South Dakota, Wyoming, and in the District of Alaska and the gold and silver regions of Nevada, and the Territory of Utah, in any criminal prosecution or civil action by the United States for a trespass on such public timber lands or to recover timber or lumber cut thereon, it shall be a defense if the defendant shall show that the said timber was so cut or removed from the timber lands for use in such State or Territory by a resident thereof for agricultural, mining, manufacturing, or domestic purposes, and has not been transported out of the same; but nothing herein contained shall apply to operate to enlarge the rights of any railway company to cut timber on the public domain: <i>Provided</i>, That the Secretary of the Interior may make suitable rules and regulations to carry out the provisions of this section". It was amended to read as set forth here by act Mar. 3, 1891, ch. 559, except that after the word "Wyoming," the words "New Mexico and Arizona," were inserted by act Feb. 13, 1893, and after the word "Nevada," the words "California, Oregon, and Washington" were inserted by act Mar. 3, 1901, ch. 855.
@@ -20,7 +22,7 @@ Act Feb. 27, 1922, amended section in the manner set out in section 610 of this 
 
 Act Aug. 21, 1935, amended section in the manner set out in section 611a of this title.
 
-The portion of the section omitted here prescribed the time within which suits by the United States to annul patents should be brought, and is classified to section 2506 of Title 43, Public Lands.
+The portion of the section omitted here prescribed the time within which suits by the United States toannul patents should be brought, and is classified to section 2506 of Title 43, Public Lands.
 
 #### Amendments
 

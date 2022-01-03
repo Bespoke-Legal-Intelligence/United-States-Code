@@ -10,13 +10,15 @@ To the extent there exist within the Area as of February 20, 2003, any valid pri
 
 #### (c) Not precedent
 
-The provisions of sections 539m to 539m–12 of this title creating certain rights and interests in the National Forest System are uniquely suited to resolve the Pueblo's claim and the geographic and societal situation involved, and shall not be construed as precedent for any other situation involving management of the National Forest System.
+The provisions of sections 539m to 539m–12 of this title creating certain rights and interests inthe National Forest System are uniquely suited to resolve the Pueblo's claim and the geographic and societal situation involved, and shall not be construed as precedent for any other situation involving management of the National Forest System.
 
 #### (d) Fish and wildlife
 
 Except as provided in section 539m–6(b)(2)(B) of this title, nothing in sections 539m to 539m–12 of this title shall be construed as affecting the responsibilities of the State of New Mexico with respect to fish and wildlife, including the regulation of hunting, fishing, or trapping within the Area.
 
 (Pub. L. 108–7, div. F, title IV, §411, Feb. 20, 2003, 117 Stat. 291.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

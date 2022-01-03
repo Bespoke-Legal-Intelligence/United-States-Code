@@ -46,7 +46,7 @@
 
 #### (A) Establishment
 
-&emsp;&emsp;The Secretary and the Foundation shall establish a program, to be known as the"Coastal Aquatic Invasive Species Mitigation Grant Program", under which the Secretary and the Foundation shall award grants to eligible entities in accordance with this paragraph.
+&emsp;&emsp;The Secretary and the Foundation shall establish a program, to be known as the "Coastal Aquatic Invasive Species Mitigation Grant Program", under which the Secretary and the Foundation shall award grants to eligible entities in accordance with this paragraph.
 
 #### (B) Purposes
 
@@ -127,6 +127,8 @@
 &emsp;&emsp;Subject to appropriations, the amounts in the Fund shall be available to the Secretary and the Foundation to award grants under the Program.
 
 (Pub. L. 115–282, title IX, §903(f), Dec. 4, 2018, 132 Stat. 4357.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -34,7 +34,7 @@ The prohibitions provided in section 1106 of this title shall not apply to any o
 
 &emsp;&emsp;(cc) The term "affiliate", with respect to a covered service provider, means an entity that directly or indirectly (through one or more intermediaries) controls, is controlled by, or is under common control with, such provider, or is an officer, director, or employee of, or partner in, such provider.
 
-&emsp;&emsp;(dd)(AA) The term "compensation" means anything of monetary value, but does not include non-monetary compensation valued at $250 (or such amount as the Secretary may establish in regulations to account for inflation since December 27, 2020, as appropriate) or less, in the aggregate, during the term of the contract or arrangement.
+&emsp;&emsp;(dd)(AA) The term "compensation" means anything of monetary value, but does not include non-monetary compensation valued at$250 (or such amount as the Secretary may establish in regulations to account for inflation since December 27, 2020, as appropriate) or less, in the aggregate, during the term of the contract or arrangement.
 
 &emsp;&emsp;(BB) The term "direct compensation" means compensation received directly from a covered plan.
 
@@ -76,7 +76,7 @@ The prohibitions provided in section 1106 of this title shall not apply to any o
 
 &emsp;(v)(I) A covered service provider shall disclose the information required under clauses (iii) and (iv) to the responsible plan fiduciary not later than the date that is reasonably in advance of the date on which the contract or arrangement is entered into, and extended or renewed.
 
-&emsp;(II) A covered service provider shall disclose any change to the information required under clause (iii) and (iv) as soon as practicable, but not later than 60 days from the date on which the covered service provider is informed of such change, unless such disclosure is precluded due to extraordinary circumstances beyond the covered service provider's control, in which case the information shall be disclosed as soon as practicable.
+&emsp;(II) A covered service provider shall disclose any change to the information required underclause (iii) and (iv) as soon as practicable, but not later than 60 days from the date on which the covered service provider is informed of such change, unless such disclosure is precluded due to extraordinary circumstances beyond the covered service provider's control, in which case the information shall be disclosed as soon as practicable.
 
 &emsp;(vi)(I) Upon the written request of the responsible plan fiduciary or covered plan administrator, a covered service provider shall furnish any other information relating to the compensation received in connection with the contract or arrangement that is required for the covered plan to comply with the reporting and disclosure requirements under this chapter.
 
@@ -90,7 +90,7 @@ The prohibitions provided in section 1106 of this title shall not apply to any o
 
 &emsp;&emsp;(bb) The responsible plan fiduciary, upon discovering that the covered service provider failed to disclose the required information, requests in writing that the covered service provider furnish such information.
 
-&emsp;&emsp;(cc) If the covered service provider fails to comply with a written request described insubclause (II) within 90 days of the request, the responsible plan fiduciary notifies the Secretary of the covered service provider's failure, in accordance with subclauses (II) and (III).
+&emsp;&emsp;(cc) If the covered service provider fails to comply with a written request described in subclause (II) within 90 days of the request, the responsible plan fiduciary notifies the Secretary of the covered service provider's failure, in accordance with subclauses (II) and (III).
 
 &emsp;(II) A notice described in subclause (I)(cc) shall contain—
 
@@ -150,7 +150,7 @@ The prohibitions provided in section 1106 of this title shall not apply to any o
 
 > &emsp;Such ancillary services shall not be provided at more than reasonable compensation.
 
-&emsp;(7) The exercise of a privilege to convert securities, to the extent provided in regulations of the Secretary, but only if the plan receivesno less than adequate consideration pursuant to such conversion.
+&emsp;(7) The exercise of a privilege to convert securities, to the extent provided in regulations of the Secretary, but only if the plan receives no less than adequate consideration pursuant to such conversion.
 
 &emsp;(8) Any transaction between a plan and (i) a common or collective trust fund or pooled investment fund maintained by a party in interest which is a bank or trust company supervised by a State or Federal agency or (ii) a pooled investment fund of an insurance company qualified to do business in a State, if—
 
@@ -240,7 +240,7 @@ Foreign exchange transactions.—Any foreign exchange transactions, between a ba
 
 &emsp;&emsp;(B) at the time the foreign exchange transaction is entered into, the terms of the transaction are not less favorable to the plan than the terms generally available in comparable arm's length <sup>3</sup> foreign exchange transactions between unrelated parties, or the terms afforded by the bank or broker-dealer (or any affiliate of either) in comparable arm's-length foreign exchange transactions involving unrelated parties,
 
-&emsp;&emsp;(C) the exchange rate used by such bank or broker-dealer (or affiliate) for a particular foreign exchange transaction does not deviate by more than 3 percent from the interbank bid and asked rates for transactions of comparable size and maturity at the time of the transaction as displayed on an independent service that reports rates of exchange in the foreign currency market for such currency, and
+&emsp;&emsp;(C) the exchange rate used by such bank or broker-dealer (or affiliate) for a particular foreign exchange transaction does not deviate by more than 3 percent from the interbank bid and asked rates for transactions of comparable size and maturity at the time ofthe transaction as displayed on an independent service that reports rates of exchange in the foreign currency market for such currency, and
 
 &emsp;&emsp;(D) the bank or broker-dealer (or any affiliate of either) does not have investment discretion, or provide investment advice, with respect to the transaction.
 
@@ -258,7 +258,7 @@ Cross trading.—Any transaction described in sections 1106(a)(1)(A) and 1106(b)
 
 &emsp;&emsp;(E) each plan participating in the transaction has assets of at least $100,000,000, except that if the assets of a plan are invested in a master trust containing the assets of plans maintained by employers in the same controlled group (as defined in section 1107(d)(7) of this title), the master trust has assets of at least $100,000,000,
 
-&emsp;&emsp;(F) the investment manager provides to the plan fiduciary who authorized cross trading under subparagraph (D) a quarterly report detailing all cross trades executed by the investment manager in which the planparticipated during such quarter, including the following information, as applicable: (i) the identity of each security bought or sold; (ii) the number of shares or units traded; (iii) the parties involved in the cross-trade; and (iv) trade price and the method used to establish the trade price,
+&emsp;&emsp;(F) the investment manager provides to the plan fiduciary who authorized cross trading under subparagraph (D) a quarterly report detailing all cross trades executed by the investment manager in which the plan participated during such quarter, including the following information, as applicable: (i) the identity of each security bought or sold; (ii) the number of shares or units traded; (iii) the parties involved in the cross-trade; and (iv) trade price and the method used to establish the trade price,
 
 &emsp;&emsp;(G) the investment manager does not base its fee schedule on the plan's consent to cross trading, and no other service (other than the investment opportunities and cost savings available through a cross trade) is conditioned on the plan's consent to cross trading,
 
@@ -280,7 +280,7 @@ Cross trading.—Any transaction described in sections 1106(a)(1)(A) and 1106(b)
 
 &emsp;&emsp;(i) The term "security" has the meaning given such term by section 475(c)(2) of title 26 (without regard to subparagraph (F)(iii) and the last sentence thereof).
 
-&emsp;&emsp;(ii) The term "commodity" has the meaning given such term by section 475(e)(2) of title 26 (without regard to subparagraph (D)(iii) thereof).
+&emsp;&emsp;(ii) The term "commodity" has the meaning given such term by section 475(e)(2) oftitle 26 (without regard to subparagraph (D)(iii) thereof).
 
 &emsp;&emsp;(iii) The term "correct" means, with respect to a transaction—
 
@@ -488,7 +488,7 @@ Section 1106(b)(2) of this title shall not apply to any merger or transfer descr
 
 &emsp;&emsp;&emsp;(i) the advice is provided by a fiduciary adviser pursuant to an eligible investment advice arrangement between the plan sponsor or other fiduciary and the fiduciary adviser for the provision by the fiduciary adviser of investment advice referred to in such section,
 
-&emsp;&emsp;&emsp;(ii) the terms of the eligible investment advice arrangement require compliance by the fiduciary adviser with the requirements of this subsection, and
+&emsp;&emsp;&emsp;(ii) the terms of the eligible investment advice arrangement require compliance bythe fiduciary adviser with the requirements of this subsection, and
 
 &emsp;&emsp;&emsp;(iii) the terms of the eligible investment advice arrangement include a written acknowledgment by the fiduciary adviser that the fiduciary adviser is a fiduciary of the plan with respect to the provision of the advice.
 
@@ -510,7 +510,7 @@ Section 1106(b)(2) of this title shall not apply to any merger or transfer descr
 
 &emsp;&emsp;&emsp;(i) registered as an investment adviser under the Investment Advisers Act of 1940 (15 U.S.C. 80b–1 et seq.) or under the laws of the State in which the fiduciary maintains its principal office and place of business,
 
-&emsp;&emsp;&emsp;(ii) a bank or similar financial institution referred to in subsection (b)(4) or a savings association (as defined in section 1813(b)(1) of title 12), but only if the adviceis provided through a trust department of the bank or similar financial institution or savings association which is subject to periodic examination and review by Federal or State banking authorities,
+&emsp;&emsp;&emsp;(ii) a bank or similar financial institution referred to in subsection (b)(4) or a savings association (as defined in section 1813(b)(1) of title 12), but only if the advice is provided through a trust department of the bank or similar financial institution or savings association which is subject to periodic examination and review by Federal or State banking authorities,
 
 &emsp;&emsp;&emsp;(iii) an insurance company qualified to do business under the laws of a State,
 
@@ -562,7 +562,7 @@ Section 1106(b)(2) of this title shall not apply to any merger or transfer descr
 
 #### (3) Violations
 
-&emsp;In the event an entity described in section 1002(37)(G)(vi) of this title or any affiliate ofsuch entity violates any of the conditions of such exemption, such exemption shall not apply with respect to such entity or affiliate and all enforcement and claims available under this chapter shall apply with respect to such entity or affiliate.
+&emsp;In the event an entity described in section 1002(37)(G)(vi) of this title or any affiliate of such entity violates any of the conditions of such exemption, such exemption shall not apply with respect to such entity or affiliate and all enforcement and claims available under this chapter shall apply with respect to such entity or affiliate.
 
 #### (4) Rule of construction
 
@@ -573,10 +573,6 @@ Section 1106(b)(2) of this title shall not apply to any merger or transfer descr
 &emsp;In this subsection, the term "group health plan" has the meaning given such term in section 1191b(a) of this title.
 
 (Pub. L. 93–406, title I, §408, Sept. 2, 1974, 88 Stat. 883; Pub. L. 96–364, title III, §308, Sept. 26, 1980, 94 Stat. 1295; Pub. L. 97–354, §5(a)(43), Oct. 19, 1982, 96 Stat. 1697; Pub. L. 99–514, title XI, §1114(b)(15)(B), title XVIII, §1898(i)(1), Oct. 22, 1986, 100 Stat. 2452, 2957; Pub. L. 101–239, title VII, §§7881(l)(5), 7891(a), 7894(e)(4)(A), Dec. 19, 1989, 103 Stat. 2443, 2445, 2450; Pub. L. 101–508, title XII, §12012(b), Nov. 5, 1990, 104 Stat. 1388–571; Pub. L. 103–465, title VII, §731(c)(4)(C), Dec. 8, 1994, 108 Stat. 5004; Pub. L. 104–188, title I, §1704(n)(2), Aug. 20, 1996, 110 Stat. 1886; Pub. L. 105–34, title XV, §1506(b)(2), Aug. 5, 1997, 111 Stat. 1066; Pub. L. 106–170, title V, §535(a)(2)(C), Dec. 17, 1999, 113 Stat. 1934; Pub. L. 107–16, title VI, §612(b), June 7, 2001, 115 Stat. 100; Pub. L. 108–218, title II, §204(b)(3), Apr. 10, 2004, 118 Stat. 609; Pub. L. 108–357, title VII, §709(a)(3), Oct. 22, 2004, 118 Stat. 1551; Pub. L. 109–280, title I, §108(a)(11), formerly §107(a)(11), title VI, §§601(a)(1), (2), 611(a)(1), (c)(1), (d)(1), (e)(1), (g)(1), 612(a), Aug. 17, 2006, 120 Stat. 819, 952, 953, 967–969, 971, 972, 975, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §106(a)(1), (b)(1), Dec. 23, 2008, 122 Stat. 5106; Pub. L. 112–141, div. D, title II, §40241(b), July 6, 2012, 126 Stat. 859; Pub. L. 114–41, title II, §2007(b), July 31, 2015, 129 Stat. 459; Pub. L. 116–94, div. P, title XIII, §1302(a), Dec. 20, 2019, 133 Stat. 3204; Pub. L. 116–260, div. BB, title II, §202(a), Dec. 27, 2020, 134 Stat. 2894.)
-
-#### Applicability of 2020 Amendment
-
-<i>Amendment by section 202(a) of Pub. L. 116–260 applicable beginning 1 year after Dec. 27, 2020. See 2020 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -692,7 +688,7 @@ Amendment by Pub. L. 101–508 applicable to qualified transfers under section 4
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 7881(l)(5) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
+Amendment by section 7881(l)(5) of Pub. L. 101–239 effective, except as otherwise provided, as if included inthe provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 Amendment by section 7891(a) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
@@ -718,7 +714,7 @@ Pub. L. 109–280, title VI, §611(g)(3), Aug. 17, 2006, 120 Stat. 975, provided
 
 Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final regulations to carry out amendments made by section 1114 of Pub. L. 99–514, see section 1141 of Pub. L. 99–514, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
-Secretary authorized, effective Sept. 2, 1974, to promulgate regulations wherever provisions of this partcall for the promulgation of regulations, see sections 1031 and 1114 of this title.
+Secretary authorized, effective Sept. 2, 1974, to promulgate regulations wherever provisions of this part call for the promulgation of regulations, see sections 1031 and 1114 of this title.
 
 #### Applicability of Existing Regulations
 

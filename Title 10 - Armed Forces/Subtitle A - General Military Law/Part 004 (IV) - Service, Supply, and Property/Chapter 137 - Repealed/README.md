@@ -1,0 +1,68 @@
+### <b>\[CHAPTER 137—REPEALED\]</b>
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Definitions
+
+For definition of "Chapter 137 legacy provisions" as used throughout part V of this subtitle, see section 3016 of this title.
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [&sect; 02301 - Repealed. Pub. L. 103&#8211;355, title I, &sect;1501(a), Oct. 13, 1994, 108 Stat. 3296](%C2%A7%2002301%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93355%2C%20title%20I%2C%20%C2%A71501%28a%29%2C%20Oct.%2013%2C%201994%2C%20108%20Stat.%203296.md)
+- [&sect; 02302 - Repealed. Pub. L. 116&#8211;283, div. A, title XVIII, &sect;1806(d), Jan. 1, 2021, 134 Stat. 4155](%C2%A7%2002302%20-%20Repealed.%20Pub.%20L.%20116%E2%80%93283%2C%20div.%20A%2C%20title%20XVIII%2C%20%C2%A71806%28d%29%2C%20Jan.%201%2C%202021%2C%20134%20Stat.%204155.md)
+- [&sect; 02302a - Renumbered &sect;3571](%C2%A7%2002302a%20-%20Renumbered%20%C2%A73571.md)
+- [&sect; 02302b - Renumbered &sect;3572](%C2%A7%2002302b%20-%20Renumbered%20%C2%A73572.md)
+- [&sect; 02302c - Repealed. Pub. L. 114&#8211;328, div. A, title VIII, &sect;833(b)(5)(A)(i), Dec. 23, 2016, 130 Stat. 2285](%C2%A7%2002302c%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93328%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7833%28b%29%285%29%28A%29%28i%29%2C%20Dec.%2023%2C%202016%2C%20130%20Stat.%202285.md)
+- [&sect; 02302d - Repealed. Pub. L. 116&#8211;283, div. A, title XVIII, &sect;1881(a), Jan. 1, 2021, 134 Stat. 4293](%C2%A7%2002302d%20-%20Repealed.%20Pub.%20L.%20116%E2%80%93283%2C%20div.%20A%2C%20title%20XVIII%2C%20%C2%A71881%28a%29%2C%20Jan.%201%2C%202021%2C%20134%20Stat.%204293.md)
+- [&sect; 02302e - Renumbered &sect;4004](%C2%A7%2002302e%20-%20Renumbered%20%C2%A74004.md)
+- [&sect; 02303 - Repealed. Pub. L. 116&#8211;283, div. A, title XVIII, &sect;1807(c)(4), Jan. 1, 2021, 134 Stat. 4157](%C2%A7%2002303%20-%20Repealed.%20Pub.%20L.%20116%E2%80%93283%2C%20div.%20A%2C%20title%20XVIII%2C%20%C2%A71807%28c%29%284%29%2C%20Jan.%201%2C%202021%2C%20134%20Stat.%204157.md)
+- [&sect; 02303a - Repealed. Pub. L. 98&#8211;577, title III, &sect;302(c)(1), Oct. 30, 1984, 98 Stat. 3077](%C2%A7%2002303a%20-%20Repealed.%20Pub.%20L.%2098%E2%80%93577%2C%20title%20III%2C%20%C2%A7302%28c%29%281%29%2C%20Oct.%2030%2C%201984%2C%2098%20Stat.%203077.md)
+- [&sect; 02304 - Repealed. Pub. L. 116&#8211;283, div. A, title XVIII, &sect;1881(a), Jan. 1, 2021, 134 Stat. 4293](%C2%A7%2002304%20-%20Repealed.%20Pub.%20L.%20116%E2%80%93283%2C%20div.%20A%2C%20title%20XVIII%2C%20%C2%A71881%28a%29%2C%20Jan.%201%2C%202021%2C%20134%20Stat.%204293.md)
+- [&sect; 02304a - Renumbered &sect;3403](%C2%A7%2002304a%20-%20Renumbered%20%C2%A73403.md)
+- [&sect; 02304b - Renumbered &sect;3405](%C2%A7%2002304b%20-%20Renumbered%20%C2%A73405.md)
+- [&sect; 02304c - Renumbered &sect;3406](%C2%A7%2002304c%20-%20Renumbered%20%C2%A73406.md)
+- [&sect; 02304d - Renumbered &sect;3401](%C2%A7%2002304d%20-%20Renumbered%20%C2%A73401.md)
+- [&sect; 02304e - Renumbered &sect;3901](%C2%A7%2002304e%20-%20Renumbered%20%C2%A73901.md)
+- [&sect; 02305 - Repealed. Pub. L. 116&#8211;283, div. A, title XVIII, &sect;1881(a), Jan. 1, 2021, 134 Stat. 4293](%C2%A7%2002305%20-%20Repealed.%20Pub.%20L.%20116%E2%80%93283%2C%20div.%20A%2C%20title%20XVIII%2C%20%C2%A71881%28a%29%2C%20Jan.%201%2C%202021%2C%20134%20Stat.%204293.md)
+- [&sect; 02305a - Renumbered &sect;3241](%C2%A7%2002305a%20-%20Renumbered%20%C2%A73241.md)
+- [&sect; 02306 to 2307 - Repealed. Pub. L. 116&#8211;283, div. A, title XVIII, &sect;1881(a), Jan. 1, 2021, 134 Stat. 4293](%C2%A7%2002306%20to%202307%20-%20Repealed.%20Pub.%20L.%20116%E2%80%93283%2C%20div.%20A%2C%20title%20XVIII%2C%20%C2%A71881%28a%29%2C%20Jan.%201%2C%202021%2C%20134%20Stat.%204293.md)
+- [&sect; 02308 - Renumbered &sect;3069](%C2%A7%2002308%20-%20Renumbered%20%C2%A73069.md)
+- [&sect; 02309 - Renumbered &sect;3134](%C2%A7%2002309%20-%20Renumbered%20%C2%A73134.md)
+- [&sect; 02310 - Renumbered &sect;4751](%C2%A7%2002310%20-%20Renumbered%20%C2%A74751.md)
+- [&sect; 02311 - Renumbered &sect;3065](%C2%A7%2002311%20-%20Renumbered%20%C2%A73065.md)
+- [&sect; 02312 - Renumbered &sect;4752](%C2%A7%2002312%20-%20Renumbered%20%C2%A74752.md)
+- [&sect; 02313 - Repealed. Pub. L. 116&#8211;283, div. A, title XVIII, &sect;1881(a), Jan. 1, 2021, 134 Stat. 4293](%C2%A7%2002313%20-%20Repealed.%20Pub.%20L.%20116%E2%80%93283%2C%20div.%20A%2C%20title%20XVIII%2C%20%C2%A71881%28a%29%2C%20Jan.%201%2C%202021%2C%20134%20Stat.%204293.md)
+- [&sect; 02313a - Renumbered &sect;3847](%C2%A7%2002313a%20-%20Renumbered%20%C2%A73847.md)
+- [&sect; 02313b - Renumbered &sect;3842](%C2%A7%2002313b%20-%20Renumbered%20%C2%A73842.md)
+- [&sect; 02314, 2315 - Repealed. Pub. L. 116&#8211;283, div. A, title XVIII, &sect;1807(e)(4), Jan. 1, 2021, 134 Stat. 4159](%C2%A7%2002314%2C%202315%20-%20Repealed.%20Pub.%20L.%20116%E2%80%93283%2C%20div.%20A%2C%20title%20XVIII%2C%20%C2%A71807%28e%29%284%29%2C%20Jan.%201%2C%202021%2C%20134%20Stat.%204159.md)
+- [&sect; 02316 - Renumbered &sect;3344](%C2%A7%2002316%20-%20Renumbered%20%C2%A73344.md)
+- [&sect; 02317 - Repealed. Pub. L. 103&#8211;160, div. A, title VIII, &sect;821(a)(2), Nov. 30, 1993, 107 Stat. 1704](%C2%A7%2002317%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93160%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7821%28a%29%282%29%2C%20Nov.%2030%2C%201993%2C%20107%20Stat.%201704.md)
+- [&sect; 02318 - Renumbered &sect;3249](%C2%A7%2002318%20-%20Renumbered%20%C2%A73249.md)
+- [&sect; 02319 - Renumbered &sect;3243](%C2%A7%2002319%20-%20Renumbered%20%C2%A73243.md)
+- [&sect; 02320 to 2322 - Repealed. Pub. L. 116&#8211;283, div. A, title XVIII, &sect;1881(a), Jan. 1, 2021, 134 Stat. 4293](%C2%A7%2002320%20to%202322%20-%20Repealed.%20Pub.%20L.%20116%E2%80%93283%2C%20div.%20A%2C%20title%20XVIII%2C%20%C2%A71881%28a%29%2C%20Jan.%201%2C%202021%2C%20134%20Stat.%204293.md)
+- [&sect; 02322a - Renumbered &sect;4576](%C2%A7%2002322a%20-%20Renumbered%20%C2%A74576.md)
+- [&sect; 02323 - Repealed. Pub. L. 115&#8211;232, div. A, title VIII, &sect;812(a)(2)(A), Aug. 13, 2018, 132 Stat. 1846](%C2%A7%2002323%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93232%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7812%28a%29%282%29%28A%29%2C%20Aug.%2013%2C%202018%2C%20132%20Stat.%201846.md)
+- [&sect; 02323a - Renumbered &sect;3902](%C2%A7%2002323a%20-%20Renumbered%20%C2%A73902.md)
+- [&sect; 02324 - Repealed. Pub. L. 116&#8211;283, div. A, title XVIII, &sect;1881(a), Jan. 1, 2021, 134 Stat. 4293](%C2%A7%2002324%20-%20Repealed.%20Pub.%20L.%20116%E2%80%93283%2C%20div.%20A%2C%20title%20XVIII%2C%20%C2%A71881%28a%29%2C%20Jan.%201%2C%202021%2C%20134%20Stat.%204293.md)
+- [&sect; 02325 - Renumbered &sect;3761](%C2%A7%2002325%20-%20Renumbered%20%C2%A73761.md)
+- [&sect; 02326 - Repealed. Pub. L. 116&#8211;283, div. A, title XVIII, &sect;1881(a), Jan. 1, 2021, 134 Stat. 4293](%C2%A7%2002326%20-%20Repealed.%20Pub.%20L.%20116%E2%80%93283%2C%20div.%20A%2C%20title%20XVIII%2C%20%C2%A71881%28a%29%2C%20Jan.%201%2C%202021%2C%20134%20Stat.%204293.md)
+- [&sect; 02327 - Renumbered &sect;4871](%C2%A7%2002327%20-%20Renumbered%20%C2%A74871.md)
+- [&sect; 02328 - Renumbered &sect;3794](%C2%A7%2002328%20-%20Renumbered%20%C2%A73794.md)
+- [&sect; 02329 - Renumbered &sect;4506](%C2%A7%2002329%20-%20Renumbered%20%C2%A74506.md)
+- [&sect; 02330 - Renumbered &sect;4501](%C2%A7%2002330%20-%20Renumbered%20%C2%A74501.md)
+- [&sect; 02330a - Renumbered &sect;4505](%C2%A7%2002330a%20-%20Renumbered%20%C2%A74505.md)
+- [&sect; 02331 - Renumbered &sect;4507](%C2%A7%2002331%20-%20Renumbered%20%C2%A74507.md)
+- [&sect; 02332 - Repealed. Pub. L. 115&#8211;232, div. A, title VIII, &sect;812(a)(3)(A), Aug. 13, 2018, 132 Stat. 1847](%C2%A7%2002332%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93232%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7812%28a%29%283%29%28A%29%2C%20Aug.%2013%2C%202018%2C%20132%20Stat.%201847.md)
+- [&sect; 02333, 2334 - Repealed. Pub. L. 116&#8211;283, div. A, title XVIII, &sect;1881(a), Jan. 1, 2021, 134 Stat. 4293](%C2%A7%2002333%2C%202334%20-%20Repealed.%20Pub.%20L.%20116%E2%80%93283%2C%20div.%20A%2C%20title%20XVIII%2C%20%C2%A71881%28a%29%2C%20Jan.%201%2C%202021%2C%20134%20Stat.%204293.md)
+- [&sect; 02335 - Renumbered &sect;4660](%C2%A7%2002335%20-%20Renumbered%20%C2%A74660.md)
+- [&sect; 02336 - Renumbered &sect;2679](%C2%A7%2002336%20-%20Renumbered%20%C2%A72679.md)
+- [&sect; 02337 - Renumbered &sect;4324](%C2%A7%2002337%20-%20Renumbered%20%C2%A74324.md)
+- [&sect; 02337a - Renumbered &sect;4325](%C2%A7%2002337a%20-%20Renumbered%20%C2%A74325.md)
+- [&sect; 02338 - Renumbered &sect;3573](%C2%A7%2002338%20-%20Renumbered%20%C2%A73573.md)
+- [&sect; 02339 - Renumbered &sect;4657](%C2%A7%2002339%20-%20Renumbered%20%C2%A74657.md)
+- [&sect; 02339a - Renumbered &sect;3252](%C2%A7%2002339a%20-%20Renumbered%20%C2%A73252.md)
+- [&sect; 02339b - Renumbered &sect;8751](%C2%A7%2002339b%20-%20Renumbered%20%C2%A78751.md)
+- [&sect; 02339c - Repealed. Pub. L. 116&#8211;283, div. A, title XVIII, &sect;1881(a), Jan. 1, 2021, 134 Stat. 4293](%C2%A7%2002339c%20-%20Repealed.%20Pub.%20L.%20116%E2%80%93283%2C%20div.%20A%2C%20title%20XVIII%2C%20%C2%A71881%28a%29%2C%20Jan.%201%2C%202021%2C%20134%20Stat.%204293.md)

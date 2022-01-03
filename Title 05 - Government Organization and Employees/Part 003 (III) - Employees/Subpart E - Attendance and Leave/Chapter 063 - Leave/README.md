@@ -35,6 +35,7 @@
 | [6329a.](Subchapter%20002%20%28II%29%20-%20Other%20Paid%20Leave/%C2%A7%2006329a%20-%20Administrative%20leave.md) | Administrative leave. |
 | [6329b.](Subchapter%20002%20%28II%29%20-%20Other%20Paid%20Leave/%C2%A7%2006329b%20-%20Investigative%20leave%20and%20notice%20leave.md) | Investigative leave and notice leave. |
 | [6329c.](Subchapter%20002%20%28II%29%20-%20Other%20Paid%20Leave/%C2%A7%2006329c%20-%20Weather%20and%20safety%20leave.md) | Weather and safety leave. |
+| [6329d.](Subchapter%20002%20%28II%29%20-%20Other%20Paid%20Leave/%C2%A7%2006329d%20-%20Parental%20bereavement%20leave.md) | Parental bereavement leave. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -101,6 +102,8 @@
 
 #### Amendments
 
+<b>2021</b>—Pub. L. 117–81, div. A, title XI, §1111(b), Dec. 27, 2021, 135 Stat. 1953, which directed amendment of the table of sections for subchapter II of chapter 63 by adding item 6329d, was executed to the table of sections for this chapter, to reflect the probable intent of Congress.
+
 <b>2016</b>—Pub. L. 114–328, div. A, title XI, §1138(c)(2), (d)(4), (e)(2), Dec. 23, 2016, 130 Stat. 2462, 2469, 2470, which directed amendment of the table of sections for subchapter II of chapter 63 by adding items 6329a to 6329c, was executed to the table of sections for this chapter, to reflect the probable intent of Congress.
 
 <b>2015</b>—Pub. L. 114–75, §2(b), Nov. 5, 2015, 129 Stat. 641, added item 6329.
@@ -145,7 +148,7 @@ Now more than ever, our Nation's economic success rests on our ability to empowe
 
 Men and women both need time to care for their families and should have access to workplace flexibilities that help them succeed at work and at home. Offering family leave and other workplace flexibilities to parents can help achieve the goals of recruiting and retaining talent, lowering costly worker turnover, increasing employee engagement, boosting employee morale, and ensuring a diverse and inclusive workforce. Yet, the United States lags behind almost every other country in ensuring some form of paid parental leave to its Federal workforce; we are the only developed country in the world without it.
 
-My memorandum of June 23, 2014 (Enhancing Workplace Flexibilities and Work-Life Programs), directs the heads of executive departments and agencies (agencies) to more fully utilize workplace flexibilities and work-life programs to promote recruitment, retention, employee engagement, and workforce productivity. My Administration fully supports efforts to align the Federal Government with the parental leave policies ofleading private sector companies and other industrialized countries, and will continue to take administrative steps to modernize leave policies to better support Federal employees.
+My memorandum of June 23, 2014 (Enhancing Workplace Flexibilities and Work-Life Programs), directs the heads of executive departments and agencies (agencies) to more fully utilize workplace flexibilities and work-life programs to promote recruitment, retention, employee engagement, and workforce productivity. My Administration fully supports efforts to align the Federal Government with the parental leave policies of leading private sector companies and other industrialized countries, and will continue to take administrative steps to modernize leave policies to better support Federal employees.
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and to further build on these important goals and the work currently underway by the Office of Personnel Management (OPM) and other agencies to review existing personnel policies, I hereby direct as follows:
 

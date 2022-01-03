@@ -6,7 +6,7 @@ Pursuant to an appraisal under section 4103 of this title, the Secretary shall d
 
 #### (b) Preservation rents
 
-The Secretary shall also determine the aggregate preservation rents under this subsection for each project appraised under section 4103 of this title. The aggregate preservation rents shall be used solely for the purposes of comparison with Federal cost limits under section 4105 of this title. Actual rents received by an owner (or a qualified purchaser) shall be determined pursuant to section 4109, 4110, or 4111 of this title. The aggregate preservation rents shall be established as follows:
+The Secretary shall also determine the aggregate preservation rents under this subsection for each project appraised under section 4103 of thistitle. The aggregate preservation rents shall be used solely for the purposes of comparison with Federal cost limits under section 4105 of this title. Actual rents received by an owner (or a qualified purchaser) shall be determined pursuant to section 4109, 4110, or 4111 of this title. The aggregate preservation rents shall be established as follows:
 
 #### (1) Extension of affordability limits
 

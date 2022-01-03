@@ -20,7 +20,7 @@ Any person who—
 
 &emsp;&emsp;(B) a gross valuation overstatement as to any material matter,
 
-> shall pay, with respect to each activity described in paragraph (1), a penalty equal to $1,000 or, if the person establishes that it is lesser, 100percent of the gross income derived (or to be derived) by such person from such activity. For purposes of the preceding sentence, activities described in paragraph (1)(A) with respect to each entity or arrangement shall be treated as a separate activity and participation in each sale described in paragraph (1)(B) shall be so treated. Notwithstanding the first sentence, if an activity with respect to which a penalty imposed under this subsection involves a statement described in paragraph (2)(A), the amount of the penalty shall be equal to 50 percent of the gross income derived (or to be derived) from such activity by the person on which the penalty is imposed.
+> shall pay, with respect to each activity described in paragraph (1), a penalty equal to $1,000 or, if the person establishes that it is lesser, 100 percent of the gross income derived (or to be derived) by such person from such activity. For purposes of the preceding sentence, activities described in paragraph (1)(A) with respect to each entity or arrangement shall be treated as a separate activity and participation in each sale described in paragraph (1)(B) shall be so treated. Notwithstanding the first sentence, if an activity with respect to which a penalty imposed under this subsection involves a statement described in paragraph (2)(A), the amount of the penalty shall be equal to 50 percent of the gross income derived (or to be derived) from such activity by the person on which the penalty is imposed.
 
 #### (b) Rules relating to penalty for gross valuation overstatements
 
@@ -42,6 +42,8 @@ The penalty imposed by this section shall be in addition to any other penalty pr
 
 (Added Pub. L. 97–248, title III, §320(a), Sept. 3, 1982, 96 Stat. 611; amended Pub. L. 98–369, div. A, title I, §143(a), July 18, 1984, 98 Stat. 682; Pub. L. 101–239, title VII, §7734(a), Dec. 19, 1989, 103 Stat. 2403; Pub. L. 108–357, title VIII, §818(a), Oct. 22, 2004, 118 Stat. 1584; Pub. L. 115–141, div. U, title IV, §401(a)(314), Mar. 23, 2018, 132 Stat. 1199.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–141 substituted "$1,000" for "the $1,000" in concluding provisions.
@@ -55,6 +57,8 @@ Subsec. (a)(1)(B). Pub. L. 101–239, §7734(a)(1), inserted "(directly or indir
 Subsec. (a)(2). Pub. L. 101–239, §7734(a)(2), inserted "or causes another person to make or furnish" after "makes or furnishes" in introductory provisions.
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–369 substituted "20 percent" for "10 percent".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

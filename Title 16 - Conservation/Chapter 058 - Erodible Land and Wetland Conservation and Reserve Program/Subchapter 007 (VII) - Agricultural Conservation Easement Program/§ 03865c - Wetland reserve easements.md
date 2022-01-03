@@ -116,7 +116,7 @@ The Secretary shall provide assistance to owners of eligible land to restore, pr
 
 #### (B) Violation
 
-&emsp;&emsp;On the violation of a term or condition of a wetland reserve easement, the wetland reserve easement shall remain in force and theSecretary may require the owner to refund all or part of any payments received by the owner under the program, with interest on the payments as determined appropriate by the Secretary.
+&emsp;&emsp;On the violation of a term or condition of a wetland reserve easement, the wetland reserve easement shall remain in force and the Secretary may require the owner to refund all or part of any payments received by the owner under the program, with interest on the payments as determined appropriate by the Secretary.
 
 #### (C) Compatible uses
 
@@ -236,7 +236,7 @@ The Secretary may enter into 1 or more agreements with a State (including a poli
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may delegate any of the management, monitoring, and enforcement responsibilities of the Secretary under this section to other Federal or State agencies that have the appropriate authority, expertise, and resources necessary to carry out such delegated responsibilities, or to conservation organizations if the Secretary determines the organization has similar expertise and resources.
+&emsp;&emsp;The Secretary may delegate any of the management, monitoring, and enforcementresponsibilities of the Secretary under this section to other Federal or State agencies that have the appropriate authority, expertise, and resources necessary to carry out such delegated responsibilities, or to conservation organizations if the Secretary determines the organization has similar expertise and resources.
 
 #### (B) Limitation
 
@@ -261,6 +261,8 @@ The Secretary may enter into 1 or more agreements with a State (including a poli
 The relevant provisions of this section shall also apply to a 30-year contract.
 
 (Pub. L. 99–198, title XII, §1265C, as added Pub. L. 113–79, title II, §2301(a), Feb. 7, 2014, 128 Stat. 737; amended Pub. L. 115–334, title II, §2604, Dec. 20, 2018, 132 Stat. 4589.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

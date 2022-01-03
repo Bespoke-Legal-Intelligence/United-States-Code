@@ -10,9 +10,13 @@ The purposes of this chapter are to—
 
 (Pub. L. 95–113, title XVIII, §1801, Sept. 29, 1977, 91 Stat. 1041; Pub. L. 97–98, title XI, §1116(a), Dec. 22, 1981, 95 Stat. 1270.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1981</b>—Pub. L. 97–98 reenacted section without change.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1981 Amendment
 

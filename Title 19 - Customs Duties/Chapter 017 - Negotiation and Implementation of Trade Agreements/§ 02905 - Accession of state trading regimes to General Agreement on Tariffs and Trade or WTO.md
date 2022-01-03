@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Before any major foreign country accedes, after August 23, 1988, to the GATT 1947, or to the WTO Agreement, the President shall determine—
+Before any major foreign country accedes, after August 23, 1988, to the GATT 1947, or to theWTO Agreement, the President shall determine—
 
 &emsp;(1) whether state trading enterprises account for a significant share of—
 
@@ -62,6 +62,8 @@ For purposes of this section:
 
 (Pub. L. 100–418, title I, §1106, Aug. 23, 1988, 102 Stat. 1133; Pub. L. 103–465, title VI, §621(a)(4), Dec. 8, 1994, 108 Stat. 4993; Pub. L. 104–295, §20(f)(3), Oct. 11, 1996, 110 Stat. 3529.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–295 substituted "or WTO" for "for WTO" in section catchline.
@@ -74,9 +76,13 @@ Subsecs. (b), (c). Pub. L. 103–465, §621(a)(4)(B), inserted "1947 or the WTO 
 
 Subsec. (e). Pub. L. 103–465, §621(a)(4)(C), added subsec. (e).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 621(b) of Pub. L. 103–465, set out as a note under section 1677k of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

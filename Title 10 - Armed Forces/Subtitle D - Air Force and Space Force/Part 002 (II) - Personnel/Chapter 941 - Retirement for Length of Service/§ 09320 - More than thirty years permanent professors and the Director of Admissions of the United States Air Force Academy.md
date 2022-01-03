@@ -26,6 +26,8 @@ Aug. 7, 1947, ch. 512, §520(c) (proviso), 61 Stat. 912.
 
 The word "retire" is substituted for the words "direct the retirement of". The words "as a commissioned officer" are substituted for the word "commissioned".
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 9320 was renumbered section 9420 of this title.
@@ -35,6 +37,8 @@ A prior section 9320 was renumbered section 9420 of this title.
 <b>2018</b>—Pub. L. 115–232 renumbered section 8920 of this title as this section.
 
 <b>1996</b>—Pub. L. 104–106 substituted "permanent professors and the Director of Admissions" for "professors" in section catchline and amended text generally. Prior to amendment, text read as follows: "The Secretary of the Air Force may retire any permanent professor of the United States Air Force Academy who has more than 30 years of service as a commissioned officer."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

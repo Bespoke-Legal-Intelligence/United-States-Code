@@ -6,7 +6,7 @@ It shall be unlawful for any person engaged in commerce, in the course of such c
 
 #### (b) Burden of rebutting prima-facie case of discrimination
 
-Upon proof being made, at any hearing on a complaint under this section, that there has been discrimination in price or services or facilities furnished, the burden of rebutting the prima-facie case thus made by showing justification shall be upon the person charged with a violation of this section, and unless justification shall be affirmatively shown, the Commission is authorized to issue an order terminating the discrimination: <i>Provided, however</i>, That nothing herein contained shall prevent a seller rebutting the prima-facie case thus made by showing that his lower price or the furnishing of services or facilities to any purchaser or purchasers was made in good faith to meet an equally low price of a competitor, or the services or facilities furnished by a competitor.
+Upon proof being made, at any hearing on a complaint under this section, that there has been discrimination in price or services or facilities furnished, the burden of rebutting the prima-facie case thus made by showing justification shall be upon the person charged with a violation of this section, and unless justification shall be affirmatively shown, the Commission is authorized to issue an order terminating the discrimination: <i>Provided, however</i>, That nothing herein contained shall prevent a seller rebutting the prima-facie case thus made by showing that his lower price or the furnishing of services orfacilities to any purchaser or purchasers was made in good faith to meet an equally low price of a competitor, or the services or facilities furnished by a competitor.
 
 #### (c) Payment or acceptance of commission, brokerage, or other compensation
 
@@ -26,9 +26,13 @@ It shall be unlawful for any person engaged in commerce, in the course of such c
 
 (Oct. 15, 1914, ch. 323, §2, 38 Stat. 730; June 19, 1936, ch. 592, §1, 49 Stat. 1526.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1936</b>—Act June 19, 1936, amended section generally.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

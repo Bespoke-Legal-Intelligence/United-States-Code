@@ -7,6 +7,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1970</b>—Pub. L. 91–258, title II, §204, May 21, 1970, 84 Stat. 239, added "PART II—PROPERTY" and items 4271 and 4272.

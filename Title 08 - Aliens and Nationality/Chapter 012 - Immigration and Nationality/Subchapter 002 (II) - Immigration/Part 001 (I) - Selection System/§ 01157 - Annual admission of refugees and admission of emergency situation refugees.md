@@ -12,7 +12,7 @@
 
 #### (b) Determinations by President respecting number of admissions for humanitarian concerns
 
-If the President determines, after appropriate consultation, that (1) an unforeseen emergency refugee situation exists, (2) the admission of certain refugees in response to the emergency refugee situation is justified by grave humanitarianconcerns or is otherwise in the national interest, and (3) the admission to the United States of these refugees cannot be accomplished under subsection (a), the President may fix a number of refugees to be admitted to the United States during the succeeding period (not to exceed twelve months) in response to the emergency refugee situation and such admissions shall be allocated among refugees of special humanitarian concern to the United States in accordance with a determination made by the President after the appropriate consultation provided under this subsection.
+If the President determines, after appropriate consultation, that (1) an unforeseen emergency refugee situation exists, (2) the admission of certain refugees in response to the emergency refugee situation is justified by grave humanitarian concerns or is otherwise in the national interest, and (3) the admission to the United States of these refugees cannot be accomplished under subsection (a), the President may fix a number of refugees to be admitted to the United States during the succeeding period (not to exceed twelve months) in response to the emergency refugee situation and such admissions shall be allocated among refugees of special humanitarian concern to the United States in accordance with a determination made by the President after the appropriate consultation provided under this subsection.
 
 #### (c) Admission by Attorney General of refugees; criteria; admission status of spouse or child; applicability of other statutory requirements; termination of refugee status of alien, spouse or child
 
@@ -38,7 +38,7 @@ If the President determines, after appropriate consultation, that (1) an unfores
 
 #### (e) "Appropriate consultation" defined
 
-For purposes of this section, the term "appropriate consultation" means, with respect to the admission of refugees and allocation of refugee admissions, discussions in person by designated Cabinet-level representatives of the President with members of the Committees on the Judiciary of the Senate and of the House of Representatives to review the refugee situation or emergency refugee situation, to project the extent of possible participation of the United States therein, to discuss the reasons for believing that the proposed admission of refugees is justified by humanitarian concerns or grave humanitarian concerns or is otherwise in the nationalinterest, and to provide such members with the following information:
+For purposes of this section, the term "appropriate consultation" means, with respect to the admission of refugees and allocation of refugee admissions, discussions in person by designated Cabinet-level representatives of the President with members of the Committees on the Judiciary of the Senate and of the House of Representatives to review the refugee situation or emergency refugee situation, to project the extent of possible participation of the United States therein, to discuss the reasons for believing that the proposed admission of refugees is justifiedby humanitarian concerns or grave humanitarian concerns or is otherwise in the national interest, and to provide such members with the following information:
 
 &emsp;(1) A description of the nature of the refugee situation.
 
@@ -122,7 +122,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Iraq Refugee Crisis
 
-Pub. L. 110–181, div. A, title XII, subtitle C, Jan. 28, 2008, 122 Stat. 395, as amended by Pub. L. 110–242, §1, June 3, 2008, 122 Stat. 1567; Pub. L. 111–84, div. A, title VIII, §813(d), Oct. 28, 2009, 123 Stat. 2407; Pub. L. 111–118, div. A, title VIII, §8120(a), Dec. 19, 2009, 123 Stat. 3457; Pub. L. 111–383, div. A, title X, §1075(f)(9), (10), Jan. 7, 2011, 124 Stat. 4376; Pub. L. 113–42, §1, Oct. 4, 2013, 127 Stat. 552; Pub. L. 113–66, div. A, title XII, §1218, Dec. 26, 2013, 127 Stat. 910, provided that:
+Pub. L. 110–181, div. A, title XII, subtitle C, Jan. 28, 2008, 122 Stat. 395, as amended by Pub. L. 110–242, §1, June 3, 2008, 122 Stat. 1567; Pub. L. 111–84, div. A, title VIII, §813(d), Oct. 28, 2009, 123 Stat. 2407; Pub. L. 111–118, div. A, title VIII, §8120(a), Dec. 19, 2009, 123 Stat. 3457; Pub. L. 111–383, div. A, title X, §1075(f)(9), (10), Jan. 7, 2011, 124 Stat. 4376; Pub. L. 113–42, §1, Oct. 4, 2013, 127 Stat. 552; Pub. L. 113–66, div. A, title XII, §1218, Dec. 26, 2013, 127 Stat. 910; Pub. L. 117–31, title IV, §403(c), July 30, 2021, 135 Stat. 319, provided that:
 
 #### "SEC. 1241. SHORT TITLE.
 
@@ -236,15 +236,23 @@ Spouses and children.—An alien is described in this subsection if the alien—
 
 &emsp;"(3)
 
-Treatment of surviving spouse or child.—An alien is described in subsection (b) if the alien—
+Treatment of surviving spouse or child.—
 
-&emsp;&emsp;"(A) was the spouse or child of a principal alien described in paragraph (1) who had a petition for classification approved pursuant to this section or section 1059 of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163; 8 U.S.C. 1101 note), which included the alien as an accompanying spouse or child; and
+&emsp;&emsp;"(A)
 
-&emsp;&emsp;"(B) due to the death of the principal alien—
+In general.—An alien is described in this subsection if the alien—
 
-&emsp;&emsp;&emsp;"(i) such petition was revoked or terminated (or otherwise rendered null); and
+&emsp;&emsp;&emsp;"(i) was the spouse or child of a principal alien described in paragraph (1) who submitted an application to the Chief of Mission pursuant to this section or section 1059 of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163; 8 U.S.C. 1101 note), which included the alien as an accompanying spouse or child; and
 
-&emsp;&emsp;&emsp;"(ii) such petition would have been approved if the principal alien had survived.
+&emsp;&emsp;&emsp;"(ii) due to the death of the principal alien—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) such petition was revoked or terminated (or otherwise rendered null); and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) such petition would have been approved if the principal alien had survived.
+
+&emsp;&emsp;"(B)
+
+Employment requirements.—An application by a surviving spouse or child of a principal alien shall be subject to employment requirements set forth in paragraph (1) as of the date of the principal alien's filing of an application for the first time, or if the principal alien did not file an application, the employment requirements as of the date of the principal alien's death.
 
 &emsp;"(4)
 
@@ -334,11 +342,11 @@ Application deadline.—The principal alien seeking special immigrant status und
 
 "(d)
 
-Visa and Passport Issuance and Fees.—Neither the Secretary of State nor the Secretary of Homeland Security may charge an alien described in subsection (b) any fee in connection with an application for, or issuance of, a special immigrant visa. The Secretary of State shall make a reasonable effort to ensure that aliens described in this section who are issued special immigrant visas are provided with the appropriate series Iraqi passport necessary to enter the United States.
+Visa and Passport Issuance and Fees.—Neither the Secretary of State nor the Secretary of HomelandSecurity may charge an alien described in subsection (b) any fee in connection with an application for, or issuance of, a special immigrant visa. The Secretary of State shall make a reasonable effort to ensure that aliens described in this section who are issued special immigrant visas are provided with the appropriate series Iraqi passport necessary to enter the United States.
 
 "(e)
 
-Protection of Aliens.—The Secretary of State, in consultation with the heads of other relevant Federal agencies, shall make a reasonable effort to provide an alien described in this section who is applying for a special immigrant visa with protection or the immediate removal from Iraq, if possible, of such alien if theSecretary determines after consultation that such alien is in imminent danger.
+Protection of Aliens.—The Secretary of State, in consultation with the heads of other relevant Federal agencies, shall make a reasonable effort to provide an alien described in this section who is applying for a special immigrant visa with protection or the immediate removal from Iraq, if possible, of such alien if the Secretary determines after consultation that such alien is in imminent danger.
 
 "(f)
 
@@ -428,7 +436,7 @@ Information required.—To the extent data is available, the information referre
 
 &emsp;"(3)
 
-Executive agency defined.—In this subsection, the term 'executive agency' has the meaninggiven the term in section 4(1) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 403(1)) \[now 41 U.S.C. 133\].
+Executive agency defined.—In this subsection, the term 'executive agency' has the meaning given the term in section 4(1) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 403(1)) \[now 41 U.S.C. 133\].
 
 "(d)
 
@@ -517,6 +525,10 @@ Submission to congress.—Not later than 30 days after the date of the enactment
 #### "SEC. 1249. AUTHORIZATION OF APPROPRIATIONS.
 
 "There are authorized to be appropriated such sums as may be necessary to carry out this subtitle."
+
+\[Pub. L. 117–31, §403(c)(4), which directed amendment of section 1244(b)(3) of Pub. L. 110–181, set out above, by substituting "(A)
+
+In general.—An alien is described" for "An alien is described" before "in this subsection", was executed by making the substitution for "An alien is", to reflect the probable intent of Congress and the intervening amendment by section 403(c)(1) of Pub. L. 117–31, which had struck out the word "described" before "in this subsection".\]
 
 \[Pub. L. 110–242, §1(1), which directed amendment of section 1244(c)(1) of Pub. L. 110–181, set out above, by substituting "fiscal years 2008 through 2012" for "each of the five years beginning after the date of the enactment of this Act", was executed by making the substitution for "each of the five fiscal years beginning after the date of the enactment of this Act" to reflect the probable intent of Congress.\]
 
@@ -758,7 +770,7 @@ Establishment of Categories.—
 
 &emsp;&emsp;"(A) one or more categories of aliens who are or were nationals and residents of an independent state of the former Soviet Union or of Estonia, Latvia, or Lithuania and who share common characteristics that identify them as targets of persecution in that state on account of race, religion, nationality, membership in a particular social group, or political opinion,\[;\]
 
-&emsp;&emsp;"(B) one or more categories of aliens who are or were nationals and residents of Vietnam, Laos, or Cambodia and who share common characteristics that identify them as targets of persecution in such respective foreign state on such an account; and
+&emsp;&emsp;"(B) one or more categories of aliens who are or were nationals and residents of Vietnam, Laos, orCambodia and who share common characteristics that identify them as targets of persecution in such respective foreign state on such an account; and
 
 &emsp;&emsp;"(C) one or more categories of aliens who are or were nationals and residents of the Islamic Republic or Iran who, as members of a religious minority in Iran, share common characteristics that identify them as targets of persecution in that state on account of race, religion, nationality, membership in a particular social group, or political opinion.
 
@@ -766,7 +778,7 @@ Establishment of Categories.—
 
 &emsp;"(B) Aliens who are (or were) nationals of an independent state of the former Soviet Union or of Estonia, Latvia, or Lithuania and who are current members of, and demonstrate public, active, and continuous participation (or attempted participation) in the religious activities of, the Ukrainian Catholic Church or the Ukrainian Orthodox Church, shall be deemed a category of alien established under paragraph (1)(A).
 
-&emsp;"(C) Aliens who are (or were) nationals and residents of Vietnam, Laos, or Cambodia and who aremembers of categories of individuals determined, by the Attorney General in accordance with 'Immigration and Naturalization Service Worldwide Guidelines for Overseas Refugee Processing' (issued by the Immigration and Naturalization Service in August 1983) shall be deemed a category of alien established under paragraph (1)(B).
+&emsp;"(C) Aliens who are (or were) nationals and residents of Vietnam, Laos, or Cambodia and who are members of categories of individuals determined, by the Attorney General in accordance with 'Immigration and Naturalization Service Worldwide Guidelines for Overseas Refugee Processing' (issued by the Immigration and Naturalization Service in August 1983) shall be deemed a category of alien established under paragraph (1)(B).
 
 &emsp;"(3) Within the number of admissions of refugees allocated for for \[sic\] each of fiscal years 1990, 1991, and 1992 for refugees who are nationals of the Soviet Union under section 207(a)(3) of the Immigration and Nationality Act \[8 U.S.C. 1157(a)(3)\] and within the number of such admissions allocated for each of fiscal years 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, and 2021 for refugees who are nationals of the independent states of the former Soviet Union, Estonia, Latvia, and Lithuania under such section, notwithstanding any other provision of law, the President shall allocate one thousand of such admissions for such fiscal year to refugees who are within the category of aliens described in paragraph (2)(B).
 
@@ -812,11 +824,171 @@ Pub. L. 96–212, title II, §204(d)(1), Mar. 17, 1980, 94 Stat. 109, provided t
 
 For delegation of Congressional reporting functions of President under subsec. (d) of this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46073, set out as a note under section 301 of Title 3, The President.
 
+#### Ex. Ord. No. 12208. Consultations on the Admission of Refugees
+
+Ex. Ord. No. 12208, Apr. 15, 1980, 45 F.R. 25789, as amended by Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 13286, §49, Feb. 28, 2003, 68 F.R. 10628, provided:
+
+By the authority vested in me as President by the Constitution and laws of the United States of America, including the Refugee Act of 1980 (P.L. 96–212; 8 U.S.C. 1101 note), the Immigration and Nationality Act, as amended (8 U.S.C. 1101 et seq.), and Section 301 of Title 3 of the United States Code, it is hereby ordered as follows:
+
+1–101. Exclusive of the functions otherwise delegated, or reserved to the President, by this Order, there are hereby delegated to the Secretary of State and the Secretary of Homeland Security, or either of them, the functions of initiating and carrying out appropriate consultations with members of the Committees on the Judiciary of the Senate and of the House of Representatives for purposes of Sections 101(a)(42)(B) and 207(a), (b), (d), and (e) of the Immigration and Nationality Act,as amended (8 U.S.C. 1101(a)(42)(B) and 1157(a), (b), (d), and (e)).
+
+1–102. There are reserved to the President the following functions under the Immigration and Nationality Act, as amended \[8 U.S.C. 1101 et seq.\].
+
+(a) To specify special circumstances for purposes of qualifying persons as refugees under Section 101(a)(42)(B) \[8 U.S.C. 1101(a)(42)(B)\].
+
+(b) To make determinations under Sections 207(a)(1), 207(a)(2), 207(a)(3) and 207(b) \[8 U.S.C. 1157(a)(1) to (3) and (b)\].
+
+(c) To fix the number of refugees to be admitted under Section 207(b).
+
+1–103. Except to the extent inconsistent with this Order, all actions previously taken pursuant to any function delegated or assigned by this Order shall be deemed to have been taken and authorized by this Order.
+
+#### Ex. Ord. No. 14013. Rebuilding and Enhancing Programs To Resettle Refugees and Planning for the Impact of Climate Change on Migration
+
+Ex. Ord. No. 14013, Feb. 4, 2021, 86 F.R. 8839, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Immigration and Nationality Act, 8 U.S.C. 1101 <i>et seq</i>., I hereby order as follows:
+
+Section 1. <i>Policy</i>. The long tradition of the United States as a leader in refugee resettlement provides a beacon of hope for persecuted people around the world, promotes stability in regions experiencing conflict, and facilitates international collaboration to address the global refugee crisis. Through the United States Refugee Admissions Program (USRAP), the Federal Government, cooperating with private partners and American citizens in communities across the country, demonstrates the generosity and core values of our Nation, while benefitting from the many contributions that refugees make to our country. Accordingly, it shall be the policy of my Administration that:
+
+(a) USRAP and other humanitarian programs shall be administered in a manner that furthers our values as a Nation and is consistent with our domestic law, international obligations, and the humanitarian purposes expressed by the Congress in enacting the Refugee Act of 1980, Public Law 96–212 \[see Tables for classification\].
+
+(b) USRAP should be rebuilt and expanded, commensurate with global need and the purposes described above.
+
+(c) Delays in administering USRAP and other humanitarian programs are counter to our national interests, can raise grave humanitarian concerns, and should be minimized.
+
+(d) Security vetting for USRAP applicants and applicants for other humanitarian programs should be improved to be more efficient, meaningful, and fair, and should be complemented by sound methods of fraud detection to ensure program integrity and protect national security.
+
+(e) Although access to United States humanitarian programs is generally discretionary, the individuals applying for immigration benefits under these programs must be treated with dignity and respect, without improper discrimination on the basis of race, religion, national origin, or other grounds, and should be afforded procedural safeguards.
+
+(f) United States humanitarian programs should be administered in a manner that ensures transparency and accountability and reflects the principle that reunifying families is in the national interest.
+
+(g) My Administration shall seek opportunities to enhance access to the refugee program for people who are more vulnerable to persecution, including women, children, and other individuals who are at risk of persecution related to their gender, gender expression, or sexual orientation.
+
+(h) Executive departments and agencies (agencies) should explore the use of all available authorities for humanitarian protection to assist individuals for whom USRAP is unavailable.
+
+(i) To meet the challenges of restoring and expanding USRAP, the United States must innovate, including by effectively employing technology and capitalizing on community and private sponsorship of refugees, while continuing to partner with resettlement agencies for reception and placement.
+
+(j) The Special Immigrant Visa (SIV) programs for Iraqi and Afghan allies provide humanitarian protection to nationals of Iraq and Afghanistan experiencing an ongoing, serious threat because they provided faithful and valuable service to the United States, including its troops serving in those countries. The Federal Government should ensure that these important programs are administered without undue delay.
+
+Sec. 2. <i>Revocation, Rescission, and Reporting</i>. (a) Executive Order 13815 of October 24, 2017 (Resuming the United States Refugee Admissions Program With Enhanced Vetting Capabilities) \[former 8 U.S.C. 1182 note\], and Executive Order 13888 of September 26, 2019 (Enhancing State and Local Involvement in Refugee Resettlement) \[former 8 U.S.C. 1522 note\], are revoked.
+
+(b) The Presidential Memorandum of March 6, 2017 (Implementing Immediate Heightened Screening and Vetting of Applications for Visas and Other Immigration Benefits, Ensuring Enforcement of All Laws for Entry Into the United States, and Increasing Transparency Among Departments and Agencies of the Federal Government and for the American People) \[former 8 U.S.C. 1182 note\], is revoked.
+
+(c) Within 90 days of the date of this order \[Feb. 4, 2021\], the Secretary of State and the Secretary of Homeland Security shall provide a report to the President, through the Assistant to the President for National Security Affairs (APNSA), describing all agency actions, including memoranda or guidance documents, that were taken or issued in reliance on or in furtherance of the directives revoked by subsections (a) and (b) of this section. This report shall include recommendations regarding whether each action should be maintained, reversed, or modified, consistent with applicable law and as appropriate for the fair, efficient, and secure administration of the relevant humanitarian program or otherwise in the national interest.
+
+Sec. 3. <i>Special Immigrant Visas for Iraqi and Afghan Allies</i>. (a) Within 180 days of the date of this order, the Secretary of State, in consultation with the Secretary of Defense and the Secretary of Homeland Security, shall complete a review of the Iraqi and Afghan SIV programs and submit a report to the President with recommendations to address any concerns identified. The report shall include:
+
+(i) an assessment of agency compliance with existing law governing the SIV programs, including program eligibility requirements and procedures for administrative review;
+
+(ii) an assessment of whether there are undue delays in meeting statutory benchmarks for timely adjudication of applications, including due to insufficient staffing levels;
+
+(iii) a plan to provide training, guidance, and oversight with respect to the National Visa Center's processing of SIV applications;
+
+(iv) a plan to track the progress of the Senior Coordinators as provided under section 1245 of the Refugee Crisis in Iraq Act of 2007 (RCIA), subtitle C of title XII of Public Law 110–181 \[set out in a note above\], and section 602(b)(2)(D)(ii)(II) of the Afghan Allies Protection Act of 2009 (AAPA), title VI of division F of Public Law 111–8 \[8 U.S.C. 1101 note\], as amended; and
+
+(v) an assessment of whether adequate guidelines exist for reconsidering or reopening applications in appropriate circumstances and consistent with applicable law.
+
+(b) The Secretary of State, in consultation with the Secretary of Defense, shall also direct a review of the procedures for Chief of Mission approval of applications with the aim of, as appropriate and consistent with applicable law:
+
+(i) ensuring existing procedures and guidance are sufficient to permit prospective applicants a fair opportunity to apply and demonstrate eligibility;
+
+(ii) issuing guidance that would address situations where an applicant's employer is unable or unwilling to provide verification of the applicant's "faithful and valuable service," and provide for alternative forms of verification;
+
+(iii) revising requirements to facilitate the ability of applicants to demonstrate the existence of a qualifying contract with the United States Government and require that the supervisor verifying the applicant's "faithful and valuable service" be a United States citizen or national;
+
+(iv) ensuring that applicants are not prejudiced by delays in verifying their employment; and
+
+(v) implementing anti-fraud measures to ensure program integrity.
+
+(c) Within 180 days of the date of this order, the Secretary of State shall submit to the President the results of the review described in subsection (b) of this section.
+
+(d) Within 180 days of the date of this order, the Secretary of State, in consultation with the Secretary of Defense and the Secretary of Homeland Security, shall conduct a review and submit a report to the President identifying whether additional populations not currently provided for under section 1059 of the National Defense Authorization Act for Fiscal Year 2006, Public Law 109–163 \[8 U.S.C. 1101 note\], section 1244 of the RCIA, or section 602 of the AAPA are at risk as a result of their faithful and valuable service to the United States Government. The review should also evaluate whether it would be appropriate to seek legislation that would create a SIV program for individuals, regardless of nationality, who faithfully assisted the United States Government in conflict areas for at least 1 year or made exceptional contributions in a shorter period and have experienced or are experiencing an ongoing serious threat as a result of their service.
+
+(e) Within 180 days of the date of this order, the Secretary of State and the Secretary of Homeland Security shall ensure that appropriate policies and procedures related to the SIV programs are publicly available on their respective agency's websites, and that any revisions to such policies and procedures in the future are made publicly available on those websites within 30 days of issuance.
+
+Sec. 4. <i>Steps to Improve the Efficacy, Integrity, Security, and Transparency of USRAP</i>. (a) Consistent with the policy set forth in section 1 of this order and to facilitate this order's effective and expeditious implementation:
+
+(i) The APNSA shall designate a National Security Council Senior Director to be responsible for coordinating the agencies and vetting partners involved in USRAP.
+
+(ii) The Secretary of State shall designate a senior-level employee to have primary responsibility for overseeing refugee application processing, consistent with applicable law.
+
+(iii) The Secretary of Homeland Security shall designate a senior-level employee to have primary responsibility for coordinating the review and any revision of policies and procedures regarding the vetting and adjudication of USRAP refugee applicants, including follow-to-join refugee applicants and post-decisional processing, consistent with applicable law.
+
+(iv) The Director of the Office of Management and Budget shall assign a team of technology, process, and data experts from the United States Digital Service to assist agencies in streamlining application processing, improving the automation and effectiveness of security vetting and fraud detection, and strengthening data-driven decision-making.
+
+(b) Within 30 days of the date of this order, the Secretary of State and the Secretary of Homeland Security shall provide the President a report on the fraud detection measures in place for USRAP. The report shall also include a plan to enhance fraud detection within components at both agencies and recommendations for the development of new anti-fraud programs, as appropriate and consistent with applicable law.
+
+(c) The Secretary of Homeland Security, in consultation with the Secretary of State, shall promptly consider taking all appropriate actions, consistent with applicable law, to expand refugee vetting and adjudication capacity, including by:
+
+(i) developing more efficient processes to capture and share refugee applicant biometric data; and
+
+(ii) permitting the use of video and audio teleconferencing to conduct refugee interviews and establishing the necessary infrastructure to do so.
+
+(d) To increase refugee adjudication capacity, the Office of Personnel Management shall, consistent with applicable law, support the use of all hiring authorities, including expanded use of direct hiring authority, for positions associated with the adjudication of refugee applications.
+
+(e) Within 30 days of the date of this order, the heads of all agencies involved in the Security Advisory Opinion process and other inter-agency vetting processes for refugee applicants, including follow-to-join refugee applicants, shall submit data to the National Vetting Governance Board on the number of staff performing refugee security vetting, the thresholds for checks, and the rates at which checks have returned an objection. Such data shall be disaggregated by age range, gender, and nationality of the refugee applicant. The National Vetting Governance Board shall meet to consider if and how agency processes and staffing levels should change to improve security reviews and make refugee arrivals more efficient, and shall share any conclusions and recommendations with the heads of relevant agencies, including the Director of the Office of Management and Budget, in order to inform potential resourcing strategies where necessary.
+
+(f) Within 60 days of the date of this order, agencies responsible for the Security Advisory Opinion process shall meet to consider proposals from member agencies to adjust the list of countries and other criteria that require a Security Advisory Opinion for a refugee case.
+
+(g) The Secretary of Homeland Security, in consultation with the Secretary of State, shall consider whether to promulgate regulations and any other policies, including internal oversight mechanisms, to ensure the quality, integrity, efficiency, and fairness of the adjudication process for USRAP applicants, while also taking due account of the challenges facing refugee applicants. The Secretary of Homeland Security, in consultation with the Secretary of State, should consider adopting regulations or policies, as appropriate and consistent with applicable law, that:
+
+(i) develop mechanisms to synthesize reliable, detailed, and current country conditions that may be relied upon, where appropriate, to make specific factual and legal determinations necessary for the adjudication of refugee applications from individuals or from individuals within a designated group of applicants;
+
+(ii) ensure that refugee applicants have timely access to their own application records;
+
+(iii) permit refugee applicants to have a representative at their interview at no cost to the United States Government; and
+
+(iv) ensure, when refugee applications are denied for non-security or non-fraud-based reasons, an applicant is given a short explanation describing the basis for the denial, so that the applicant has a meaningful opportunity to present additional evidence and to request a review of the decision.
+
+&emsp;(h) The Secretary of State and the Secretary of Homeland Security shall provide the President, through the APNSA, a report describing any action taken pursuant to subsection (g) of this section within 180 days of the date such action is taken.
+
+(i) The Secretary of Homeland Security shall ensure that adjudicators are trained in the standards governing refugee claims of women, children, and other individuals who are more vulnerable to persecution due to their age, gender, gender expression, or sexual orientation.
+
+(j) The Secretary of State and the Secretary of Homeland Security shall consider taking actions, as appropriate and consistent with applicable law, to recognize as "spouses" for purposes of derivative status through USRAP individuals who are in committed life partnerships but who are unable to marry or to register their marriage due to restrictions in the law or practices of their country of origin, including for individuals in same-sex, interfaith, or camp-based marriages. The Secretary of State and the Secretary of Homeland Security shall provide the President a report, through the APNSA, describing any action taken pursuant to this subsection within 180 days of the date such action is taken.
+
+(k) Within 120 days of the date of this order, the Secretary of State and the Secretary of Health and Human Services shall, as appropriate and consistent with applicable law, deliver a plan to the President, through the APNSA, to enhance the capacity of USRAP to welcome refugees by expanding the use of community sponsorship and co-sponsorship models by refugee resettlement agencies, and by entering into new public-private partnerships.
+
+(l) The Secretary of State, in consultation with the Secretary of Homeland Security, shall consider ways to expand mechanisms under which non-governmental organizations with direct access to and knowledge of refugees abroad in camps or other settings could identify and directly refer to USRAP particularly vulnerable individuals who have a strong possibility of qualifying for admission to the United States as refugees.
+
+(m) Within 180 days of the date of this order, the Secretary of State and the Secretary of Homeland Security shall take all appropriate steps, taking into account necessary safeguards for program integrity, to ensure that the current policies and procedures related to USRAP are publicly available on their respective websites, and that any new or revised policies and procedures are made publicly available on their websites within 30 days of their adoption.
+
+(n) Within 180 days of the date of this order, the Secretary of State, in consultation with the Secretary of Homeland Security, and as appropriate and consistent with applicable law, shall develop options for improving USRAP applicants' ability to access relevant material from their case files on an expedited basis to inform timely appeals from adverse decisions.
+
+Sec. 5. <i>Improving Performance</i>. (a) The Secretary of State, in consultation with the Attorney General and the Secretary of Homeland Security, shall develop and ensure adherence to a plan that addresses USRAP processing backlogs. In developing this plan, the Secretary of Homeland Security, in consultation with the Secretary of State, the Attorney General, and the Director of National Intelligence, and in collaboration with the National Vetting Governance Board and United States Digital Service, shall conduct a review of refugee security vetting processes and develop recommendations to increase their efficiency, fairness, and effectiveness, consistent with the humanitarian goals of USRAP and the national security and foreign policy interests of the United States.
+
+(b) The plan and review described in subsection (a) of this section shall also:
+
+(i) examine whether existing vetting processes, including the Security Advisory Opinion process, can be improved to increase efficiency and provide more effective security reviews; and
+
+(ii) seek to bring national average processing times within the period described in 8 U.S.C. 1571(b).
+
+(c) Within 120 days of the date of this order, the Secretary of State, in consultation with the Attorney General, the Secretary of Homeland Security, and the Director of National Intelligence, shall submit to the President the plan described in subsection (a) of this section, including the Secretary's recommendations for process improvements.
+
+Sec. 6. <i>Climate Change and Migration</i>. Within 180 days of the date of this order, the APNSA, in consultation with the Secretary of State, the Secretary of Defense, the Secretary of Homeland Security, the Administrator of the United States Agency for International Development, and the Director of National Intelligence, shall prepare and submit to the President a report on climate change and its impact on migration, including forced migration, internal displacement, and planned relocation. This report shall include, at a minimum, discussion of the international security implications of climate-related migration; options for protection and resettlement of individuals displaced directly or indirectly from climate change; mechanisms for identifying such individuals, including through referrals; proposals for how these findings should affect use of United States foreign assistance to mitigate the negative impacts of climate change; and opportunities to work collaboratively with other countries, international organizations and bodies, non-governmental organizations, and localities to respond to migration resulting directly or indirectly from climate change. The APNSA shall work with appropriate agencies to ensure that the report, or a summary thereof, is made publicly available.
+
+Sec. 7. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Presidential Determination Concerning Admission and Adjustment of Status of Refugees
 
 Determinations by the President pursuant to this section concerning the admission and adjustment of status of refugees for particular fiscal years were contained in the following Presidential Determinations:
 
-Presidential Determination No. 2021–02, Oct. 27, 2020, 85 F.R. 71219.
+Presidential Determination No. 2022–02, Oct. 8, 2021, 86 F.R. 57527.
+
+Presidential Determination No. 2021–06, May 3, 2021, 86 F.R. 24475.
+
+Presidential Determination No. 2021–05, Apr. 16, 2021, 86 F.R. 21159.
+
+Presidential Determination No. 2021–02, Oct. 27, 2020, 85 F.R. 71219, superseded by Presidential Determination No. 2021–05, subsec. (g), Apr. 16, 2021, 86 F.R. 21160.
 
 Presidential Determination No. 2020–04, Nov. 1, 2019, 84 F.R. 65903.
 
@@ -899,20 +1071,4 @@ Presidential Determination No. 82–1, Oct. 10, 1981, 46 F.R. 55233.
 Presidential Determination No. 80–28, Sept. 30, 1980, 45 F.R. 68365.
 
 #### Ex. Ord. No. 12208. Consultations on the Admission of Refugees
-
-Ex. Ord. No. 12208, Apr. 15, 1980, 45 F.R. 25789, as amended by Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 13286, §49, Feb. 28, 2003, 68 F.R. 10628, provided:
-
-By the authority vested in me as President by the Constitution and laws of the United States of America, including the Refugee Act of 1980 (P.L. 96–212; 8 U.S.C. 1101 note), the Immigration and Nationality Act, as amended (8 U.S.C. 1101 et seq.), and Section 301 of Title 3 of the United States Code, it is hereby ordered as follows:
-
-1–101. Exclusive of the functions otherwise delegated, or reserved to the President, by this Order, there are hereby delegated to the Secretary of State and the Secretary of Homeland Security, or either of them, the functions of initiating and carrying out appropriate consultations with members of the Committees on the Judiciary of the Senate and of the House of Representatives for purposes of Sections 101(a)(42)(B) and 207(a), (b), (d), and (e) of the Immigration and Nationality Act, as amended (8 U.S.C. 1101(a)(42)(B) and 1157(a), (b), (d), and (e)).
-
-1–102. There are reserved to the President the following functions under the Immigration and Nationality Act, as amended \[8 U.S.C. 1101 et seq.\].
-
-(a) To specify special circumstances for purposes of qualifying persons as refugees under Section 101(a)(42)(B) \[8 U.S.C. 1101(a)(42)(B)\].
-
-(b) To make determinations under Sections 207(a)(1), 207(a)(2), 207(a)(3) and 207(b) \[8 U.S.C. 1157(a)(1) to (3) and (b)\].
-
-(c) To fix the number of refugees to be admitted under Section 207(b).
-
-1–103. Except to the extent inconsistent with this Order, all actions previously taken pursuant to any function delegated or assigned by this Order shall be deemed to have been taken and authorized by this Order.
 

@@ -28,7 +28,7 @@ Term; Reappointment.—The Chief of Air Force Reserve is appointed for a period 
 
 (d)
 
-Budget.—The Chief of Air Force Reserve is the official within the executive part of the Department of the Air Force who, subject to the authority, direction, and control of the Secretary of the Air Force and the Chief of Staff, is responsible for preparation, justification, and execution of the personnel, operation and maintenance, and construction budgets for the Air Force Reserve. As such, the Chief of Air Force Reserve is the director and functional manager of appropriations made for the Air Force Reserve in those areas.
+Budget.—The Chief of Air Force Reserve is the official within the executive part of the Department of the Air Force who, subject to the authority, direction, and control of the Secretary of the Air Force and the Chief of Staff, is responsible for preparation, justification, and execution of the personnel, operation and maintenance, and construction budgets for the Air Force Reserve. As such, the Chief of Air ForceReserve is the director and functional manager of appropriations made for the Air Force Reserve in those areas.
 
 (e)
 
@@ -40,11 +40,13 @@ Annual Report.—The Chief of Air Force Reserve shall submit to the Secretary of
 
 (Added Pub. L. 90–168, §2(19), Dec. 1, 1967, 81 Stat. 524, §8019; renumbered §8038 and amended Pub. L. 99–433, title V, §§521(a)(2), 522(g)(3), Oct. 1, 1986, 100 Stat. 1055, 1063; Pub. L. 103–337, div. A, title XVI, §1674(c)(1), Oct. 5, 1994, 108 Stat. 3016; Pub. L. 104–201, div. A, title XII, §1212(d), Sept. 23, 1996, 110 Stat. 2693; Pub. L. 105–85, div. A, title X, §1073(a)(65), Nov. 18, 1997, 111 Stat. 1904; Pub. L. 106–65, div. A, title V, §554(e), Oct. 5, 1999, 113 Stat. 617; Pub. L. 106–398, §1 \[\[div. A\], title V, §507(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–104; Pub. L. 107–314, div. A, title V, §501(a), Dec. 2, 2002, 116 Stat. 2529; Pub. L. 108–375, div. A, title V, §536(a), Oct. 28, 2004, 118 Stat. 1901; Pub. L. 114–328, div. A, title V, §502(ll), Dec. 23, 2016, 130 Stat. 2106; Pub. L. 115–91, div. A, title X, §1051(a)(30), Dec. 12, 2017, 131 Stat. 1562; renumbered §9038, Pub. L. 115–232, div. A, title VIII, §806(c), Aug. 13, 2018, 132 Stat. 1833.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 8038 of this title as this section.
 
-<b>2017</b>—Subsec. (f). Pub. L. 115–91 struck out par. (1) designation before "The Chief" and struck out par. (2) which read as follows: "The Secretary of Defense shall transmit the annual report of the Chief of Air Force Reserve under paragraph (1) to Congress, together with such comments on the report as the Secretary considers appropriate. The report shall be transmitted atthe same time each year that the annual report of the Secretary under section 113 of this title is submitted to Congress."
+<b>2017</b>—Subsec. (f). Pub. L. 115–91 struck out par. (1) designation before "The Chief" and struck out par. (2) which read as follows: "The Secretary of Defense shall transmit the annual report of the Chief of Air Force Reserve under paragraph (1) to Congress, together with such comments on the report as the Secretary considers appropriate. The report shall be transmitted at the same time each year that the annual report of the Secretary under section 113 of this title is submitted to Congress."
 
 <b>2016</b>—Subsec. (c). Pub. L. 114–328, in heading, struck out "; Grade" after "Reappointment", and in text, struck out par. (1) designation before "The Chief of Air Force Reserve" and struck out par. (2) which read as follows: "The Chief of Air Force Reserve, while so serving, holds the grade of lieutenant general."
 
@@ -73,6 +75,8 @@ Subsec. (c). Pub. L. 106–398 amended subsec. (c) generally. Prior to amendment
 <b>1986</b>—Pub. L. 99–433, §521(a)(2), renumbered section 8019 of this title as this section.
 
 Subsec. (a). Pub. L. 99–433, §522(g)(3), struck out the comma after "Chief of Staff".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

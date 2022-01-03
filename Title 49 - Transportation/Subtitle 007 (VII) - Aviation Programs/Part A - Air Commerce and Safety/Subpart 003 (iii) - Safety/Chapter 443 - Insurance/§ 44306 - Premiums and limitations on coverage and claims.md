@@ -50,6 +50,8 @@ In subsection (b), the word "initial" is omitted as surplus. The words "The peri
 
 In subsection (c), the words "or reinsured" are added for consistency. The words "to be paid in the event of total loss" are omitted as unnecessary because of the last sentence. The words "A claim under the policy may not be paid for more than that stated amount" are substituted for "the amount of any claim which is compromised, settled, adjusted, or paid shall in no event exceed such stated amount" to eliminate unnecessary words.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2003</b>—Subsec. (b). Pub. L. 108–176, §106(c), substituted "by the insurance carrier" for "by the air carrier".
@@ -69,6 +71,8 @@ Pub. L. 107–42, §201(d)(1), redesignated subsec. (b) as (c). Former subsec. (
 Subsec. (d). Pub. L. 107–42, §201(d)(1), redesignated subsec. (c) as (d).
 
 <b>1997</b>—Subsec. (c). Pub. L. 105–137 substituted "as determined by the Secretary in accordance with reasonable business practices in the commercial aviation insurance industry." for "as determined by the Secretary."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

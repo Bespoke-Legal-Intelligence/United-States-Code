@@ -8,7 +8,7 @@ In this chapter—
 
 &emsp;&emsp;(B) to distribute, sell, or dispose of the vehicle or part in interstate or foreign commerce.
 
-&emsp;(2) "covered major part" means a major part selected under section 33104 of this title forcoverage by the vehicle theft prevention standard prescribed under section 33102 or 33103 of this title.
+&emsp;(2) "covered major part" means a major part selected under section 33104 of this title for coverage by the vehicle theft prevention standard prescribed under section 33102 or 33103 of this title.
 
 &emsp;(3) "existing line" means a line introduced into commerce before January 1, 1990.
 
@@ -140,6 +140,8 @@ This corrects a cross-reference in 49:33101(2) by eliminating the reference to 4
 
 This makes a conforming amendment for consistency with the style of title 49.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–287 made technical amendment to directory language of Pub. L. 103–429, §6(44)(B). See 1994 Amendment note below.
@@ -147,6 +149,8 @@ This makes a conforming amendment for consistency with the style of title 49.
 <b>1994</b>—Par. (2). Pub. L. 103–429, §6(44)(B), as amended by Pub. L. 104–287, inserted "of this title" before period at end.
 
 Pub. L. 103–429, §6(44)(A), substituted "section 33104" for "sections 33102(c)(1) and 33104".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

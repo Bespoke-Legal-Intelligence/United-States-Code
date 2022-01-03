@@ -210,7 +210,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 #### (B) Filing period
 
-&emsp;&emsp;An application under this subsection may not be submitted to the Secretary until the date that is 4 years after the date on which the reference product was first licensed under subsection (a).
+&emsp;&emsp;An application under this subsection may not be submitted to the Secretary until thedate that is 4 years after the date on which the reference product was first licensed under subsection (a).
 
 #### (C) First licensure
 
@@ -288,7 +288,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 &emsp;&emsp;&emsp;Not later than 180 days after December 27, 2020, the Secretary shall publish and make available to the public in a searchable, electronic format—
 
-&emsp;&emsp;&emsp;&emsp;(I) a list of each biological product, by nonproprietary name (proper name), for which, as of December 27, 2020, a biologics license under subsection (a) or this subsection is in effect, or that, as of such date of enactment, is deemed to be licensed under this section pursuant to section 7002(e)(4) of the Biologics Price Competition and Innovation Act of 2009;
+&emsp;&emsp;&emsp;&emsp;(I) a list of each biological product, by nonproprietary name (proper name), for which, as of December 27, 2020, a biologics license under subsection (a) orthis subsection is in effect, or that, as of such date of enactment, is deemed to be licensed under this section pursuant to section 7002(e)(4) of the Biologics Price Competition and Innovation Act of 2009;
 
 &emsp;&emsp;&emsp;&emsp;(II) the date of licensure of the marketing application and the application number; and
 
@@ -346,7 +346,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 #### (C) Limitation on disclosure
 
-&emsp;&emsp;No person that receives confidential information pursuant to subparagraph (B) shall disclose any confidential information to any other person or entity, including the reference product sponsor employees, outside scientific consultants, or other outside counsel retained by the reference product sponsor, without the prior written consent of the subsection (k) applicant, which shall not be unreasonably withheld.
+&emsp;&emsp;No person that receives confidential information pursuant to subparagraph (B) shalldisclose any confidential information to any other person or entity, including the reference product sponsor employees, outside scientific consultants, or other outside counsel retained by the reference product sponsor, without the prior written consent of the subsection (k) applicant, which shall not be unreasonably withheld.
 
 #### (D) Use of confidential information
 
@@ -394,7 +394,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 &emsp;&emsp;Not later than 60 days after receipt of the list under subparagraph (A), the subsection (k) applicant—
 
-&emsp;&emsp;&emsp;(i) may provide to the reference product sponsor a list of patents to which the subsection (k) applicant believes a claim of patent infringement could reasonably be asserted by the reference product sponsor if a person not licensed by the referenceproduct sponsor engaged in the making, using, offering to sell, selling, or importing into the United States of the biological product that is the subject of the subsection (k) application;
+&emsp;&emsp;&emsp;(i) may provide to the reference product sponsor a list of patents to which the subsection (k) applicant believes a claim of patent infringement could reasonably be asserted by the reference product sponsor if a person not licensed by the reference product sponsor engaged in the making, using, offering to sell, selling, or importing into the United States of the biological product that is the subject of the subsection (k) application;
 
 &emsp;&emsp;&emsp;(ii) shall provide to the reference product sponsor, with respect to each patent listed by the reference product sponsor under subparagraph (A) or listed by the subsection (k) applicant under clause (i)—
 
@@ -470,7 +470,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 &emsp;&emsp;(A) is issued to, or exclusively licensed by, the reference product sponsor after the date that the reference product sponsor provided the list to the subsection (k) applicant under paragraph (3)(A); and
 
-&emsp;&emsp;(B) the reference product sponsor reasonably believes that, due to the issuance of such patent, a claim of patent infringement could reasonably be asserted by the reference product sponsor if a person not licensed by the reference product sponsor engaged in the making, using, offering to sell, selling, or importing into the United States of the biological product that is the subject of the subsection (k) application,
+&emsp;&emsp;(B) the reference product sponsor reasonably believes that, due to the issuance ofsuch patent, a claim of patent infringement could reasonably be asserted by the reference product sponsor if a person not licensed by the reference product sponsor engaged in the making, using, offering to sell, selling, or importing into the United States of the biological product that is the subject of the subsection (k) application,
 
 > &emsp;not later than 30 days after such issuance or licensing, the reference product sponsor shall provide to the subsection (k) applicant a supplement to the list provided by the reference product sponsor under paragraph (3)(A) that includes such patent, not later than 30 days after such supplement is provided, the subsection (k) applicant shall provide a statement to the reference product sponsor in accordance with paragraph (3)(B), and such patent shall be subject to paragraph (8).
 
@@ -522,7 +522,7 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 
 &emsp;&emsp;(A) the periods for such biological product referred to in subsection (k)(7) are deemed to be 4 years and 6 months rather than 4 years and 12 years and 6 months rather than 12 years; and
 
-&emsp;&emsp;(B) if the biological product is designated under section 526 <sup>1</sup> \[21 U.S.C. 360bb\] for a rare disease or condition, the period for such biological product referred to in section 527(a) <sup>1</sup> \[21 U.S.C. 360cc(a)\] is deemed to be 7 years and 6 months rather than 7 years.
+&emsp;&emsp;(B) if the biological product is designated under section 526 <sup>1</sup> \[21 U.S.C. 360bb\] for a rare disease or condition, the period for such biological product referred to in section 527(a) <sup>1</sup>\[21 U.S.C. 360cc(a)\] is deemed to be 7 years and 6 months rather than 7 years.
 
 #### (3) Market exclusivity for already-marketed biological products
 
@@ -551,6 +551,8 @@ The Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], including th
 &emsp;&emsp;(B) the date of issuance of the interim final rule controlling the biological product.
 
 (July 1, 1944, ch. 373, title III, §351, 58 Stat. 702; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 85–881, §2, Sept. 2, 1958, 72 Stat. 1704; Pub. L. 91–515, title II, §291, Oct. 30, 1970, 84 Stat. 1308; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 99–660, title I, §105(a), title III, §315, Nov. 14, 1986, 100 Stat. 3751, 3783; Pub. L. 102–300, §6(b)(1), June 16, 1992, 106 Stat. 240; Pub. L. 104–134, title II, §§2102(d)(2), 2104, Apr. 26, 1996, 110 Stat. 1321–319, 1321–320; Pub. L. 105–115, title I, §123(a)–(d), (g), Nov. 21, 1997, 111 Stat. 2323, 2324; Pub. L. 108–155, §2(b)(3), Dec. 3, 2003, 117 Stat. 1941; Pub. L. 110–85, title IX, §901(c), Sept. 27, 2007, 121 Stat. 939; Pub. L. 111–148, title VII, §7002(a), (b), (g)(1), Mar. 23, 2010, 124 Stat. 804, 814, 819; Pub. L. 112–144, title V, §502(a)(2), July 9, 2012, 126 Stat. 1040; Pub. L. 114–89, §2(a)(2), Nov. 25, 2015, 129 Stat. 698; Pub. L. 114–255, div. A, title III, §3031(b), Dec. 13, 2016, 130 Stat. 1100; Pub. L. 115–52, title V, §505(b)(2)(B), Aug. 18, 2017, 131 Stat. 1046; Pub. L. 116–94, div. N, title I, §§605, 606, Dec. 20, 2019, 133 Stat. 3127; Pub. L. 116–260, div. BB, title III, §§322, 325(a), Dec. 27, 2020, 134 Stat. 2933, 2936.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -622,6 +624,12 @@ Subsec. (h). Pub. L. 99–660, §105(a), added subsec. (h).
 
 <b>1958</b>—Subsec. (d). Pub. L. 85–881 struck out "made jointly by the Surgeon General, the Surgeon General of the Army, and the Surgeon General of the Navy, and approved by the Secretary" after "regulations" in first sentence.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsecs. (a), (c), (d), (h), and (k) to (n), and "Department of Health and Human Services" substituted for "Department of Health, Education, and Welfare" in subsec. (c), pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+
 #### Effective Date of 2007 Amendment
 
 Amendment by Pub. L. 110–85 effective 180 days after Sept. 27, 2007, see section 909 of Pub. L. 110–85, set out as a note under section 331 of Title 21, Food and Drugs.
@@ -639,12 +647,6 @@ Amendment by Pub. L. 105–115 effective 90 days after Nov. 21, 1997, except as 
 Pub. L. 99–660, title I, §105(b), Nov. 14, 1986, 100 Stat. 3752, provided that: "Paragraph (1) of section 351(h) of the Public Health Service Act \[former 42 U.S.C. 262(h)(1)\] as added by subsection (a) shall take effect upon the expiration of 90 days after the date of the enactment of this Act \[Nov. 14, 1986\]."
 
 Amendment by section 315 of Pub. L. 99–660 effective Dec. 22, 1987, see section 323 of Pub. L. 99–660, as amended, set out as an Effective Date note under section 300aa–1 of this title.
-
-#### Transfer of Functions
-
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
-
-References to Secretary and Department of Health, Education, and Welfare substituted for references to Federal Security Administrator and Federal Security Agency, respectively, pursuant to Reorg. Plan No. 1 of 1953, §5, set out as a note under section 3501 of this title, which transferred all functions of Federal Security Administrator to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency to Department of Health, Education, and Welfare. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20.
 
 #### Products Previously Approved Under the Federal Food, Drug, and Cosmetic Act
 
@@ -738,7 +740,7 @@ Sunset.—Beginning on October 1, 2022, this subparagraph shall have no force or
 
 "(5)
 
-Definitions.—For purposes of this subsection, the term 'biological product' has the meaning givensuch term under section 351 of the Public Health Service Act (42 U.S.C. 262) (as amended by this Act)."
+Definitions.—For purposes of this subsection, the term 'biological product' has the meaning given such term under section 351 of the Public Health Service Act (42 U.S.C. 262) (as amended by this Act)."
 
 #### Costs of Reviewing Biosimilar Biological Product Applications
 
@@ -813,6 +815,14 @@ Criminal Enforcement.—\[Amended sections 175, 177, and 178 of Title 18, Crimes
 "(c)
 
 Terrorism.—\[Amended section 2332a of Title 18.\]"
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title.
+
+References to Secretary and Department of Health, Education, and Welfare substituted for references to Federal Security Administrator and Federal Security Agency, respectively, pursuant to Reorg. Plan No. 1 of 1953, §5, set out as a note under section 3501 of this title, which transferred all functions of Federal Security Administrator to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency to Department of Health, Education, and Welfare. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

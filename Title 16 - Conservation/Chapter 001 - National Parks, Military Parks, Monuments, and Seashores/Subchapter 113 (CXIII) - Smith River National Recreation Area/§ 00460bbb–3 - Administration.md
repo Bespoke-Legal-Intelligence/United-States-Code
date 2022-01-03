@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall administer the recreation area in accordance with this subchapter and thelaws, rules, and regulations applicable to the National Forest System in furtherance of the purposes for which the recreation area was established. In administering the recreation area, the Secretary shall, consistent with the applicable area management emphasis provided under subsection (b), undertake the following:
+The Secretary shall administer the recreation area in accordance with this subchapter and the laws, rules, and regulations applicable to the National Forest System in furtherance of the purposes for which the recreation area was established. In administering the recreation area, the Secretary shall, consistent with the applicable area management emphasis provided under subsection (b), undertake the following:
 
 &emsp;(1) Provide for a broad range of recreation uses and provide recreational and interpretive services and facilities (including trails and campgrounds) for the public.
 
@@ -59,6 +59,8 @@ The Secretary shall administer the recreation area in accordance with this subch
 The river segments designated as wild and scenic rivers by the amendments made by section 10(b) of this Act shall be administered in accordance with this subchapter and the Wild and Scenic Rivers Act (16 U.S.C. 1271 et seq.). In case of conflict between the provisions of these Acts, the more restrictive provision shall apply.
 
 (Pub. L. 101–612, §5, Nov. 16, 1990, 104 Stat. 3210.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

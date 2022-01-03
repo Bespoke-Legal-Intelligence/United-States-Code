@@ -2,7 +2,7 @@
 
 #### (a) Program authorized
 
-The Secretary, acting through the Assistant Secretary, shall establish a research, training, and technical assistance resource center to provide appropriate information, training, and technical assistance to States, political subdivisions of States, federally recognized Indian tribes, tribal organizations, institutions of higher education, public organizations, or private nonprofit organizations regarding the prevention of suicide among all ages, particularly among groups that are at a high risk for suicide.
+The Secretary, acting through the Assistant Secretary, shall establish a research, training, and technical assistance resource center to provide appropriate information, training, and technical assistance to States, political subdivisions of States, federally recognized Indiantribes, tribal organizations, institutions of higher education, public organizations, or private nonprofit organizations regarding the prevention of suicide among all ages, particularly among groups that are at a high risk for suicide.
 
 #### (b) Responsibilities of the Center
 
@@ -37,6 +37,8 @@ For the purpose of carrying out this section, there are authorized to be appropr
 Not later than 2 years after December 13, 2016, the Secretary shall submit to Congress a report on the activities carried out by the center established under subsection (a) during the year involved, including the potential effects of such activities, and the States, organizations, and institutions that have worked with the center.
 
 (July 1, 1944, ch. 373, title V, §520C, as added Pub. L. 106–310, div. B, title XXXI, §3104(b), Oct. 17, 2000, 114 Stat. 1173; amended Pub. L. 108–355, §3(a), Oct. 21, 2004, 118 Stat. 1405; Pub. L. 114–255, div. B, title VI, §6001(c)(1), title IX, §9008(a), Dec. 13, 2016, 130 Stat. 1203, 1241.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

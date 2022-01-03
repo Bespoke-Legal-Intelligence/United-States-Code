@@ -84,7 +84,7 @@ After the expiration of sixty days following December 31, 1973, no Federal offic
 
 &emsp;&emsp;&emsp;(ii) information about the availability of flood insurance coverage under the national flood insurance program;
 
-&emsp;&emsp;&emsp;(iii) a mortgage interest clause similar to the clause contained in a standard flood insurance policy under the national flood insurance program; and
+&emsp;&emsp;&emsp;(iii) a mortgage interest clause similar to the clause contained in a standard floodinsurance policy under the national flood insurance program; and
 
 &emsp;&emsp;&emsp;(iv) a provision requiring an insured to file suit not later than 1 year after date of a written denial of all or part of a claim under the policy; and
 
@@ -288,7 +288,7 @@ Notwithstanding any other Federal or State law, any person who makes a loan secu
 
 &emsp;&emsp;(A) is made pursuant to the making, increasing, extending, or renewing of the loan that is initiated by the borrower;
 
-&emsp;&emsp;(B) is made pursuant to a revision or updating under section 1360(f) <sup>4</sup> \[42 U.S.C. 4101(f)\] of the floodplain areas and flood-risk zones or publication of a notice or compendia under subsection (h) or (i) of section 1360 <sup>4</sup> \[42 U.S.C. 4101(h), (i)\] that affects the area in which the improved real estate or mobile home securing the loan is located or that, in the determination of the Administrator, may reasonably be considered to require a determination under this subsection; or
+&emsp;&emsp;(B) is made pursuant to a revision or updating under section 1360(f) <sup>4</sup> \[42 U.S.C. 4101(f)\] of the floodplain areas and flood-riskzones or publication of a notice or compendia under subsection (h) or (i) of section 1360 <sup>4</sup> \[42 U.S.C. 4101(h), (i)\] that affects the area in which the improved real estate or mobile home securing the loan is located or that, in the determination of the Administrator, may reasonably be considered to require a determination under this subsection; or
 
 &emsp;&emsp;(C) results in the purchase of flood insurance coverage pursuant to the requirement under subsection (e)(2).
 
@@ -297,6 +297,8 @@ Notwithstanding any other Federal or State law, any person who makes a loan secu
 &emsp;The purchaser or transferee of such a loan may be charged the fee in the case of sale or transfer of the loan.
 
 (Pub. L. 93–234, title I, §102, Dec. 31, 1973, 87 Stat. 978; Pub. L. 98–181, title I \[title IV, §451(e)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 103–325, title V, §§522–526, 531, 582(c), Sept. 23, 1994, 108 Stat. 2257–2262, 2267, 2287; Pub. L. 110–289, div. A, title I, §1161(e), July 30, 2008, 122 Stat. 2780; Pub. L. 112–141, div. F, title II, §§100208, 100209(a), 100238(a)(1), 100239(a), 100244(a), July 6, 2012, 126 Stat. 919, 920, 958, 966; Pub. L. 112–281, §1, Jan. 14, 2013, 126 Stat. 2485; Pub. L. 113–89, §§13(a), 25(a), Mar. 21, 2014, 128 Stat. 1026, 1030.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -358,7 +360,7 @@ Subsec. (f)(5). Pub. L. 112–141, §100208, substituted "$2,000" for "$350" and
 
 Subsec. (h)(1)(B). Pub. L. 112–141, §100238(a)(1), substituted "Administrator" for "Director".
 
-<b>2008</b>—Subsec. (f)(3)(A). Pub. L. 110–289 substituted "Director of the Federal Housing Finance Agency" for "Director of the Office of Federal Housing EnterpriseOversight of the Department of Housing and Urban Development".
+<b>2008</b>—Subsec. (f)(3)(A). Pub. L. 110–289 substituted "Director of the Federal Housing Finance Agency" for "Director of the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development".
 
 <b>1994</b>—Pub. L. 103–325, §531, substituted section catchline for former section catchline.
 
@@ -371,6 +373,8 @@ Subsec. (c). Pub. L. 103–325, §522(b), inserted heading, designated existing 
 Subsecs. (d) to (h). Pub. L. 103–325, §§523–526, added subsecs. (d) to (h).
 
 <b>1983</b>—Pub. L. 98–181 substituted "Director" for "Secretary" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

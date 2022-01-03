@@ -66,7 +66,7 @@ The cutting, sale, or removal of timber within the Mount Hood National Recreatio
 
 #### (f) Road construction
 
-No new or temporary roads shall be constructed or reconstructed within the Mount Hood National Recreation Area except as necessary—
+No new or temporary roads shall be constructed or reconstructed within the MountHood National Recreation Area except as necessary—
 
 &emsp;(1) to protect the health and safety of individuals in cases of an imminent threat of flood, fire, or any other catastrophic event that, without intervention, would cause the loss of life or property;
 
@@ -100,6 +100,8 @@ Subject to valid existing rights, all Federal land within the Mount Hood Nationa
 
 (Pub. L. 111–11, title I, §1204, Mar. 30, 2009, 123 Stat. 1013.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This subtitle, referred to in subsec. (c)(2), is subtitle C (§§1201–1207) of title I of Pub. L. 111–11, Mar. 30, 2009, 123 Stat. 1007, which enacted this subchapter and section 539n of this title, amended sections 544k and 1274 of this title, enacted provisions set out as a note under section 1274 of this title, enacted provisions listed in a table of National Memorials set out under section 320301 of Title 54, National Park Service and Related Programs, and enacted and amended provisions listed in a table of Wilderness Areas set out under section 1132 of this title. For complete classification of subtitle C to the Code, see Tables.
@@ -107,6 +109,8 @@ This subtitle, referred to in subsec. (c)(2), is subtitle C (§§1201–1207) of
 Section 1202, referred to in subsec. (d)(2), is section 1202 of Pub. L. 111–11, which enacted provisions listed in a table of National Memorials set out under section 320301 of Title 54, National Park Service and Related Programs, and enacted and amended provisions listed in a table of Wilderness Areas set out under section 1132 of this title.
 
 The Wilderness Act, referred to in subsec. (d)(2), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

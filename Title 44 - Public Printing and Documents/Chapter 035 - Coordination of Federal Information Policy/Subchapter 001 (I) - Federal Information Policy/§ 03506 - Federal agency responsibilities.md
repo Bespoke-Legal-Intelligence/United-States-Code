@@ -42,7 +42,7 @@
 
 &emsp;&emsp;&emsp;(iv) includes requirements for meeting the goals of the agency open data plan, including the acquisition of technology, provision of training for employees, and the implementation of procurement standards, in accordance with existing law, regulation, and policy, that allow for the acquisition of innovative solutions from public and private sectors;
 
-&emsp;&emsp;&emsp;(v) identifies as priority data assets any data asset for which disclosure would be in the public interest and establishes a plan to evaluate each priority data asset for disclosure on the Federal Data Catalogue under section 3511 and for a determination under <sup>1</sup> 3511(a)(2)(A)(iii)(I)(bb), including anaccounting of which priority data assets have not yet been evaluated; and
+&emsp;&emsp;&emsp;(v) identifies as priority data assets any data asset for which disclosure would be in the public interest and establishes a plan to evaluate each priority data asset for disclosure on the Federal Data Catalogue under section 3511 and for a determination under <sup>1</sup> 3511(a)(2)(A)(iii)(I)(bb), including an accounting of which priority data assets have not yet been evaluated; and
 
 &emsp;&emsp;&emsp;(vi) requires the agency to comply with requirements under section 3511, including any standards established by the Director under such section, when disclosing a data asset pursuant to such section; and
 
@@ -120,7 +120,7 @@
 
 &emsp;(B) for any proposed collection of information contained in a proposed rule (to be reviewed by the Director under section 3507(d)), provide notice and comment through the notice of proposed rulemaking for the proposed rule and such notice shall have the same purposes specified under subparagraph (A)(i) through (iv);
 
-&emsp;(3) certify (and provide a record supporting such certification, including public comments received by the agency) that each collection ofinformation submitted to the Director for review under section 3507—
+&emsp;(3) certify (and provide a record supporting such certification, including public comments received by the agency) that each collection of information submitted to the Director for review under section 3507—
 
 &emsp;&emsp;(A) is necessary for the proper performance of the functions of the agency, including that the information has practical utility;
 
@@ -200,7 +200,7 @@
 
 &emsp;(6) make data available to statistical agencies and readily accessible to the public.
 
-(f) With respect to records management, each agency shall implement and enforce applicablepolicies and procedures, including requirements for archiving information maintained in electronic format, particularly in the planning, design and operation of information systems.
+(f) With respect to records management, each agency shall implement and enforce applicable policies and procedures, including requirements for archiving information maintained in electronic format, particularly in the planning, design and operation of information systems.
 
 (g) With respect to privacy and security, each agency shall—
 
@@ -280,7 +280,7 @@ Subsec. (c)(1). Pub. L. 104–106, §5125(a)(2), substituted "Chief Information 
 
 #### Effective Date of 2019 Amendment
 
-Pub. L. 115–435, title II, §202(c)(3), Jan. 14, 2019, 132 Stat. 5538, provided that: "The amendments made bythis subsection \[amending this section\] shall take effect on the date that is 1 year after the date of the enactment of this Act \[Jan. 14, 2019\]."
+Pub. L. 115–435, title II, §202(c)(3), Jan. 14, 2019, 132 Stat. 5538, provided that: "The amendments made by this subsection \[amending this section\] shall take effect on the date that is 1 year after the date of the enactment of this Act \[Jan. 14, 2019\]."
 
 #### Effective Date of 2002 Amendment
 

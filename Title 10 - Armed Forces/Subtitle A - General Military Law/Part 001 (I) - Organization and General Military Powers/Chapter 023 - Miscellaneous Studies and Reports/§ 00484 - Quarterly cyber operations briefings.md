@@ -32,7 +32,9 @@ Elements.—Each briefing under subsection (a) shall include, with respect to th
 
 Documents.—Each briefing under subsection (a) shall include a classified placemat, summarizing the elements specified in paragraphs (1), (2), (3), and (5) of subsection (b), and an unclassified memorandum, summarizing the briefing's contents.
 
-(Added Pub. L. 112–239, div. A, title IX, §939(a), Jan. 2, 2013, 126 Stat. 1888; amended Pub. L. 115–91, div. A, title XVI, §1632(a), Dec. 12, 2017, 131 Stat. 1738; Pub. L. 116–92, div. A, title XVI, §1634(a), Dec. 20, 2019, 133 Stat. 1747; Pub. L. 116–283, div. A, title XVII, §1703, Jan. 1, 2021, 134 Stat. 4081.)
+(Added Pub. L. 112–239, div. A, title IX, §939(a), Jan. 2, 2013, 126 Stat. 1888; amended Pub. L. 115–91, div. A, title XVI, §1632(a), Dec. 12, 2017,131 Stat. 1738; Pub. L. 116–92, div. A, title XVI, §1634(a), Dec. 20, 2019, 133 Stat. 1747; Pub. L. 116–283, div. A, title XVII, §1703, Jan. 1, 2021, 134 Stat. 4081.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -40,11 +42,13 @@ A prior section 484, added Pub. L. 105–85, div. A, title III, §324(a)(1), Nov
 
 #### Amendments
 
-<b>2021</b>—Subsecs. (a) to (c). Pub. L. 116–283 added subsecs. (a) to (c) and struck out former subsecs. (a) and (b)which related to required quarterly cyber operations briefings and their elements.
+<b>2021</b>—Subsecs. (a) to (c). Pub. L. 116–283 added subsecs. (a) to (c) and struck out former subsecs. (a) and (b) which related to required quarterly cyber operations briefings and their elements.
 
 <b>2019</b>—Subsec. (b)(4), (5). Pub. L. 116–92 added par. (4) and redesignated former par. (4) as (5).
 
 <b>2017</b>—Pub. L. 115–91 designated existing provisions as subsec. (a), inserted heading, substituted "congressional defense committees" for "Committees on Armed Services of the House of Representatives and the Senate", and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2019 Amendment
 

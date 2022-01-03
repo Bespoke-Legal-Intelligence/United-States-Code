@@ -26,7 +26,7 @@ Every employer shall pay to each of his employees (other than an employee to who
 
 #### (d) Prohibition of sex discrimination
 
-(1) No employer having employees subject to any provisions of this section shall discriminate, within any establishment in which such employees are employed, between employees on the basis of sex by paying wages to employees in such establishment at a rate less than the rate at which he pays wages to employees of the opposite sex in such establishment for equal work on jobs the performance of which requires equal skill, effort, and responsibility, and which are performed under similar working conditions, except where such payment is made pursuant to (i) a seniority system; (ii) a merit system; (iii) a system which measures earnings by quantity or quality of production; or (iv) a differential based on any other factor other than sex: <i>Provided</i>, That an employer who is paying a wage rate differential in violation of this subsection shallnot, in order to comply with the provisions of this subsection, reduce the wage rate of any employee.
+(1) No employer having employees subject to any provisions of this section shall discriminate, within any establishment in which such employees are employed, between employees on the basis of sex by paying wages to employees in such establishment at a rate less than the rate at which he pays wages to employees of the opposite sex in such establishment for equal work on jobs the performance of which requires equal skill, effort, and responsibility, and which are performed under similar working conditions, except where such payment is made pursuant to (i) a seniority system; (ii) a merit system; (iii) a system which measures earnings by quantity or quality of production; or (iv) a differential based on any other factor other than sex: <i>Provided</i>, That an employer who is paying a wage rate differential in violation of this subsection shall not, in order to comply with the provisions of this subsection, reduce the wage rate of any employee.
 
 (2) No labor organization, or its agents, representing employees of an employer having employees subject to any provisions of this section shall cause or attempt to cause such an employer to discriminate against an employee in violation of paragraph (1) of this subsection.
 
@@ -76,7 +76,7 @@ Subsection (a)(5), referred to in subsec. (b), was redesignated subsec. (a)(4) o
 
 The Fair Labor Standards Amendments of 1966, referred to in subsec. (b), is Pub. L. 89–601, Sept. 23, 1966, 80 Stat. 830. For complete classification of this Act to the Code, see Short Title of 1966 Amendment note set out under section 201 of this title and Tables.
 
-The Education Amendments of 1972, referred to in subsec. (b), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235.Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of Title 20 and Tables.
+The Education Amendments of 1972, referred to in subsec. (b), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of Title 20 and Tables.
 
 The Fair Labor Standards Amendments of 1974, referred to in subsec. (b), is Pub. L. 93–259, Apr. 8, 1974, 88 Stat. 55. For complete classification of this Act to the Code, see Short Title of 1974 Amendment note set out under section 201 of this title and Tables.
 
@@ -132,7 +132,7 @@ Subsec. (c)(4). Pub. L. 95–151, §2(d)(1), (2)(B), (D), redesignated par. (6) 
 
 Subsec. (c)(5), (6). Pub. L. 95–151, §2(d)(2)(B), redesignated pars. (5) and (6) as (3) and (4), respectively.
 
-<b>1974</b>—Subsec. (a)(1). Pub. L. 93–259, §2, substituted "not less than $2 an hour during the period ending December 31, 1974, not less than $2.10 an hour during theyear beginning January 1, 1975, and not less than $2.30 an hour after December 31, 1975" for "not less than $1.40 an hour during the first year from the effective date of the Fair Labor Standards Amendments of 1966 and not less than $1.60 an hour thereafter".
+<b>1974</b>—Subsec. (a)(1). Pub. L. 93–259, §2, substituted "not less than $2 an hour during the period ending December 31, 1974, not less than $2.10 an hour during the year beginning January 1, 1975, and not less than $2.30 an hour after December 31, 1975" for "not less than $1.40 an hour during the first year from the effective date of the Fair Labor Standards Amendments of 1966 and not less than $1.60 an hour thereafter".
 
 Subsec. (a)(5). Pub. L. 93–259, §4, substituted provisions for a minimum wage rate not less than: $1.60 an hour during period ending Dec. 31, 1974; $1.80, $2, and $2.20 an hour during years beginning Jan. 1, 1975, 1976, and 1977, respectively; and $2.30 an hour after Dec. 31, 1977 for former provisions for a minimum wage rate not less than $1 an hour during first year from the effective date of the Fair Labor Standards Amendments of 1966, not less than $1.15 an hour during second year from such date, and not less than $1.30 an hour thereafter.
 
@@ -246,7 +246,7 @@ In General.—Section 6 of the Fair Labor Standards Act of 1938 (29 U.S.C. 206) 
 
 Transition.—Notwithstanding subsection (a)—
 
-&emsp;"(1) the minimum wage applicable to the Commonwealth of the Northern Mariana Islands under section6(a)(1) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(a)(1)) shall be—
+&emsp;"(1) the minimum wage applicable to the Commonwealth of the Northern Mariana Islands under section 6(a)(1) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(a)(1)) shall be—
 
 &emsp;&emsp;"(A) $3.55 an hour, beginning on the 60th day after the date of enactment of this Act \[May 25, 2007\]; and
 
@@ -264,7 +264,7 @@ Pub. L. 110–28, title VIII, §8104, May 25, 2007, 121 Stat. 189, as amended by
 
 "(a)
 
-Report.—The Government Accountability Office shall assess the impact of minimum wage increases that have occurred pursuant to section 8103 \[of Pub. L. 110–28, amending this section, repealing sections 205 and 208 of this title, and enacting provisions set out as notes under this section\], and not later than April 1, 2017, shall transmit to Congress a report of its findings. The Government Accountability Office shall submit a subsequent report not later than April 1, 2020.
+Report.—The Government Accountability Office shall assess the impact of minimum wage increasesthat have occurred pursuant to section 8103 \[of Pub. L. 110–28, amending this section, repealing sections 205 and 208 of this title, and enacting provisions set out as notes under this section\], and not later than April 1, 2017, shall transmit to Congress a report of its findings. The Government Accountability Office shall submit a subsequent report not later than April 1, 2020.
 
 "(b)
 
@@ -344,7 +344,7 @@ Notice.—Each employer shall provide to any eligible employee who is to be paid
 
 "(f)
 
-Enforcement.—Any employer who violates this section shall be considered to have violated section 15(a)(3) of the Fair Labor Standards Act of 1938 (29U.S.C. 215(a)(3)). Sections 16 and 17 of such Act (29 U.S.C. 216 and 217) shall apply with respect to the violation.
+Enforcement.—Any employer who violates this section shall be considered to have violated section 15(a)(3) of the Fair Labor Standards Act of 1938 (29 U.S.C. 215(a)(3)). Sections 16 and 17 of such Act (29 U.S.C. 216 and 217) shall apply with respect to the violation.
 
 "(g)
 
@@ -454,7 +454,7 @@ Pub. L. 88–38, §2, June 10, 1963, 77 Stat. 56, provided that:
 
 &emsp;"(5) constitutes an unfair method of competition.
 
-"(b) It is hereby declared to be the policy of this Act \[amending this section, and enacting provisions set outas notes under this section\], through exercise by Congress of its power to regulate commerce among the several States and with foreign nations, to correct the conditions above referred to in such industries."
+"(b) It is hereby declared to be the policy of this Act \[amending this section, and enacting provisions set out as notes under this section\], through exercise by Congress of its power to regulate commerce among the several States and with foreign nations, to correct the conditions above referred to in such industries."
 
 #### Definition of "Administrator"
 

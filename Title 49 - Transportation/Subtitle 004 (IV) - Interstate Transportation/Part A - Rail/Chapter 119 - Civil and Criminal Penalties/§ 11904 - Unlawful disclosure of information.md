@@ -30,6 +30,8 @@
 
 This amends 49:11904(a)(2) to correct a grammatical error.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 11910 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
@@ -39,6 +41,8 @@ A prior section 11904, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1457; Pub. L. 9
 #### Amendments
 
 <b>1997</b>—Subsec. (a)(2). Pub. L. 105–102 struck out "a" before "person".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

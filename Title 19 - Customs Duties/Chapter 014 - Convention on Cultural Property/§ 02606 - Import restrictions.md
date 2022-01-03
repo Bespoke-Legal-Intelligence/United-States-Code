@@ -50,9 +50,13 @@ For purposes of subsections (b) and (c), a person shall be treated as a related 
 
 (Pub. L. 97–446, title III, §307, Jan. 12, 1983, 96 Stat. 2358.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective on the 90th day after Jan. 12, 1983, or on any date which the President shall prescribe and publish in the Federal Register, with exceptions, see section 315 of Pub. L. 97–446, set out as a note under section 2601 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

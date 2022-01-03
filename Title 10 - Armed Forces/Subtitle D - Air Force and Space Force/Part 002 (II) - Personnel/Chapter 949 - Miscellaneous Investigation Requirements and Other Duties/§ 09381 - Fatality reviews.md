@@ -32,6 +32,8 @@ Guidance.—The Secretary of Defense shall prescribe guidance, which shall be un
 
 (Added Pub. L. 108–136, div. A, title V, §576(c)(1), Nov. 24, 2003, 117 Stat. 1488, §9061; renumbered §9381, Pub. L. 115–232, div. A, title VIII, §806(b)(17), Aug. 13, 2018, 132 Stat. 1833; amended Pub. L. 116–283, div. A, title IX, §923(c)(23), Jan. 1, 2021, 134 Stat. 3813.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior sections 9381 to 9383 were repealed by Pub. L. 114–328, div. A, title XII, §1241(i)(2), Dec. 23, 2016, 130 Stat. 2508.
@@ -63,6 +65,8 @@ Section 9387, act Aug. 10, 1956, ch. 1041, 70A Stat. 570, provided for advanced 
 <b>2021</b>—Subsec. (a)(1) to (3). Pub. L. 116–283 inserted "or the Space Force" after "Air Force".
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 9061 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

@@ -12,7 +12,7 @@ Not later than January 31 of each year, the Secretary of Labor shall report to t
 
 #### Codification
 
-Section was enacted as part of the H–1B Visa Reform Act of 2004, and also as part of the L–1 Visa and H–1B Visa Reform Act and the Consolidated Appropriations Act, 2005, and not as part of the Immigration and Nationality Act which comprises this chapter.
+Section was enacted as part of the H–1B Visa Reform Act of 2004, and also as part of the L–1 Visa and H–1BVisa Reform Act and the Consolidated Appropriations Act, 2005, and not as part of the Immigration and Nationality Act which comprises this chapter.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

@@ -4,6 +4,8 @@ The Secretary of the Interior, after consulting with the Secretary of Agricultur
 
 (June 18, 1956, ch. 404, §1, 70 Stat. 292.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Appropriations
 
 Section 2 of act June 18, 1956, authorized the appropriation of $375,000 to carry out the purposes of this section.

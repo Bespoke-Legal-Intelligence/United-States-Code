@@ -22,7 +22,7 @@
 
 (2) The date of rank of an officer appointed to a higher grade under this section is determined under section 741(d) of this title.
 
-(c) Appointments under this section shall be made by the President, by and with the adviceand consent of the Senate, except that appointments under this section in the grade of first lieutenant or captain, in the case of officers of the Army, Air Force, Marine Corps, or Space Force, or lieutenant (junior grade) or lieutenant, in the case of officers of the Navy, shall be made by the President alone.
+(c) Appointments under this section shall be made by the President, by and with the advice and consent of the Senate, except that appointments under this section in the grade of first lieutenant or captain, in the case of officers of the Army, Air Force, Marine Corps, or Space Force, or lieutenant (junior grade) or lieutenant, in the case of officers of the Navy, shall be made by the President alone.
 
 (d)(1) Under regulations prescribed by the Secretary of Defense, the appointment of an officer under this section may be delayed if—
 
@@ -40,7 +40,7 @@
 
 > If no disciplinary action is taken against the officer, if the charges against the officer are withdrawn or dismissed, if the officer is not ordered removed from active duty by the Secretary concerned under chapter 60 of this title, if the officer is acquitted of the charges brought against him, or if, after a review of substantiated adverse information about the officer regarding the requirement for exemplary conduct set forth in section 7233, 8167, or 9233 of this title, as applicable, the officer is determined to be among the officers best qualified for promotion, as the case may be, then unless action to delay an appointment has also been taken under paragraph (2) the officer shall be retained on the promotion list (including an approved all-fully-qualified-officers list, if applicable) and shall, upon promotion to the next higher grade, have the same date of rank, the same effective date for the pay and allowances of the grade to which promoted, and the same position on the active-duty list as he would have had if no delay had intervened, unless the Secretary concerned determines that the officer was unqualified for promotion for any part of the delay. If the Secretary makes such a determination, the Secretary may adjust such date of rank, effective date of pay and allowances, and position on the active-duty list as the Secretary considers appropriate under the circumstances.
 
-(2) Under regulations prescribed by the Secretary of Defense, the appointment of an officer under this section may also be delayed in any case in which there is cause to believe that the officer has not met the requirement for exemplary conduct set forth in section 7233, 8167, or 9233 of this title, as applicable, or is mentally, physically, morally, or professionally unqualified to perform the duties of the grade for which he was selected for promotion. If it is later determined by a civilian official of the Department of Defense (not below the level of Secretary of a military department) that the officer is qualified for promotion to such grade and, after a review of adverse information regarding the requirement for exemplary conduct set forth in section 7233, 8167, or 9233 of this title, as applicable, the officer is determined to be among the officers best qualified for promotion to such grade, the officer shall be retained on the promotion list (including an approved all-fully-qualified-officers list, if applicable) and shall, upon such promotion, have the same date of rank, the same effective date for pay and allowances in the higher grade to which appointed, and the same position on the active-duty list as he would have had if no delay had intervened, unless the Secretary concerned determines that the officer was unqualified for promotion for any part of the delay. If the Secretary makes such a determination, the Secretary may adjust such date of rank, effective date of pay and allowances, and position on the active-duty list as the Secretary considers appropriate under the circumstances.
+(2) Under regulations prescribed by the Secretary of Defense, the appointment of an officerunder this section may also be delayed in any case in which there is cause to believe that the officer has not met the requirement for exemplary conduct set forth in section 7233, 8167, or 9233 of this title, as applicable, or is mentally, physically, morally, or professionally unqualified to perform the duties of the grade for which he was selected for promotion. If it is later determined by a civilian official of the Department of Defense (not below the level of Secretary of a military department) that the officer is qualified for promotion to such grade and, after a review of adverse information regarding the requirement for exemplary conduct set forth in section 7233, 8167, or 9233 of this title, as applicable, the officer is determined to be among the officers best qualified for promotion to such grade, the officer shall be retained on the promotion list (including an approved all-fully-qualified-officers list, if applicable) and shall, upon such promotion, have the same date of rank, the same effective date for pay and allowances in the higher grade to which appointed, and the same position on the active-duty list as he would have had if no delay had intervened, unless the Secretary concerned determines that the officer was unqualified for promotion for any part of the delay. If the Secretary makes such a determination, the Secretary may adjust such date of rank, effective date of pay and allowances, and position on the active-duty list as the Secretary considers appropriate under the circumstances.
 
 (3) In the case of an officer whose promotion is delayed pursuant to paragraph (1)(F) and whose recommendation for promotion is sustained, authorities for the promotion of the officer are specified in section 628a(f) of this title.
 
@@ -50,7 +50,9 @@
 
 (5) An appointment of an officer may not be delayed under this subsection for more than six months after the date on which the officer would otherwise have been appointed unless the Secretary concerned specifies a further period of delay. An officer's appointment may not be delayed more than 90 days after final action has been taken in any criminal case against such officer in a Federal or State court, more than 90 days after final action has been taken in any court-martial case against such officer, or more than 18 months after the date on which such officer would otherwise have been appointed, whichever is later.
 
-(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2857; amended Pub. L. 97–22, §4(d), July10, 1981, 95 Stat. 126; Pub. L. 97–295, §1(8), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 98–525, title V, §526, Oct. 19, 1984, 98 Stat. 2525; Pub. L. 107–107, div. A, title V, §505(a)(1), (c)(2)(A), (d)(1), Dec. 28, 2001, 115 Stat. 1085, 1087, 1088; Pub. L. 107–314, div. A, title X, §1062(a)(2), Dec. 2, 2002, 116 Stat. 2649; Pub. L. 109–364, div. A, title V, §511(a), (d)(1), Oct. 17, 2006, 120 Stat. 2181, 2183; Pub. L. 110–181, div. A, title X, §1063(c)(3), Jan. 28, 2008, 122 Stat. 322; Pub. L. 114–92, div. A, title V, §502(a), Nov. 25, 2015, 129 Stat. 806; Pub. L. 115–232, div. A, title V, §504(c), title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1742, 1840; Pub. L. 116–283, div. A, title V, §505(a)(3), title IX, §924(b)(3)(G), Jan. 1, 2021, 134 Stat. 3568, 3821.)
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2857; amended Pub. L. 97–22, §4(d), July 10, 1981, 95 Stat. 126; Pub. L. 97–295, §1(8), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 98–525, title V, §526, Oct. 19, 1984, 98 Stat. 2525; Pub. L. 107–107, div. A, title V, §505(a)(1), (c)(2)(A), (d)(1), Dec. 28, 2001, 115 Stat. 1085, 1087, 1088; Pub. L. 107–314, div. A, title X, §1062(a)(2), Dec. 2, 2002, 116 Stat. 2649; Pub. L. 109–364, div. A, title V, §511(a), (d)(1), Oct. 17, 2006, 120 Stat. 2181, 2183; Pub. L. 110–181, div. A, title X, §1063(c)(3), Jan. 28, 2008, 122 Stat. 322; Pub. L. 114–92, div. A, title V, §502(a), Nov. 25, 2015, 129 Stat. 806; Pub. L. 115–232, div. A, title V, §504(c), title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1742, 1840; Pub. L. 116–283, div. A, title V, §505(a)(3), title IX, §924(b)(3)(G), Jan. 1, 2021, 134 Stat. 3568, 3821.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -82,7 +84,7 @@ Pub. L. 109–364, §511(a)(1), substituted "prescribed by the Secretary of Defe
 
 Subsec. (d)(1)(E). Pub. L. 109–364, §511(a)(2)(A)–(C), added subpar. (E).
 
-Subsec. (d)(2). Pub. L. 109–364, §511(a)(3), in first sentence inserted "has not met the requirement for exemplary conduct set forth in section 3583, 5947, or 8583 of this title, as applicable, or" before "is mentally, physically," and in second sentence substituted "If it is later determined by a civilian official of the Department of Defense (not below the level of Secretary of a military department) that the officer is qualified for promotion to such grade and, after a review of adverse information regarding the requirement for exemplary conduct set forth in section 3583, 5947, or 8583 of this title, as applicable, the officer is determined to be among the officers best qualified for promotion to such grade" for "If the Secretary concerned later determines that the officer is qualified for promotion to such grade".
+Subsec. (d)(2). Pub. L. 109–364, §511(a)(3), in first sentence inserted "has not met the requirement for exemplary conduct set forth in section 3583, 5947, or 8583 of this title, as applicable, or" before "is mentally, physically," and in second sentence substituted "If it is later determined by a civilian official of the Department of Defense (not below the level of Secretary of a military department) that the officer is qualified for promotion to such grade and, after a review of adverseinformation regarding the requirement for exemplary conduct set forth in section 3583, 5947, or 8583 of this title, as applicable, the officer is determined to be among the officers best qualified for promotion to such grade" for "If the Secretary concerned later determines that the officer is qualified for promotion to such grade".
 
 Pub. L. 109–364, §511(a)(1), substituted "prescribed by the Secretary of Defense" for "prescribed by the Secretary concerned".
 
@@ -112,13 +114,15 @@ Subsec. (d)(2). Pub. L. 97–22, §4(d)(3)(C), substituted "Under regulations pr
 
 Subsec. (d)(3). Pub. L. 97–22, §4(d)(3)(D), (E), inserted ", unless it is impracticable to give such written notice before the effective date of the appointment, in which case such written notice shall be given as soon as practicable" after "grounds for the delay" and struck out "by the Secretary" after "the action taken".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by section 809(a) of Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–181, div. A, title X, §1063(c), Jan. 28, 2008, 122 Stat. 322, provided that the amendment made bysection 1063(c) is effective Oct. 17, 2006, and as if included in the John Warner National Defense Authorization Act for Fiscal Year 2007, Pub. L. 109–364, as enacted.
+Pub. L. 110–181, div. A, title X, §1063(c), Jan. 28, 2008, 122 Stat. 322, provided that the amendment made by section 1063(c) is effective Oct. 17, 2006, and as if included in the John Warner National Defense Authorization Act for Fiscal Year 2007, Pub. L. 109–364, as enacted.
 
 #### Effective Date of 2006 Amendment
 
@@ -139,6 +143,8 @@ Deadline.—The Secretary of Defense shall prescribe the regulations required by
 "(2)
 
 Savings clause for existing regulations.—Until the Secretary of Defense prescribes regulations pursuant to paragraph (1), regulations prescribed by the Secretaries of the military departments under the sections referred to in paragraph (1) shall remain in effect."
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

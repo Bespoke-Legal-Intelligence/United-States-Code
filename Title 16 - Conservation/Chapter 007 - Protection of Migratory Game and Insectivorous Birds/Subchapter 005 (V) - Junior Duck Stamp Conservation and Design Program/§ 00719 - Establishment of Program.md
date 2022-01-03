@@ -12,7 +12,7 @@ The Secretary of the Interior (in this subchapter referred to as the "Secretary"
 
 The Program shall consist of—
 
-&emsp;(1) conducting in all interested States the activities which on the day before October 6, 1994, are conducted under the program known as the Junior Duck Stamp Conservation and Design Program;
+&emsp;(1) conducting in all interested States the activities which on the day before October 6,1994, are conducted under the program known as the Junior Duck Stamp Conservation and Design Program;
 
 &emsp;(2) other activities authorized under the Program by this subchapter or any other Act; and
 
@@ -30,9 +30,13 @@ The Program shall consist of—
 
 (Pub. L. 103–340, §2, Oct. 6, 1994, 108 Stat. 3119; Pub. L. 106–316, §2(1), Oct. 19, 2000, 114 Stat. 1276.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Subsec. (c). Pub. L. 106–316 struck out "50" before "States" in pars. (1) and (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2006 Amendment
 

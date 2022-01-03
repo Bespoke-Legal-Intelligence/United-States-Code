@@ -30,13 +30,15 @@ A determination made by the Secretary under this chapter shall be final and conc
 
 #### (1) Required determination; adjustment
 
-&emsp;If the Secretary determines that expenditures under this chapter that are subject to the total allowable domestic support levels under the Uruguay Round Agreements (as defined in section 3501 of title 19) will exceed such allowable levels for any applicable reporting period, the Secretary shall, to the maximum extent practicable, make adjustments in the amount of such expenditures during that period to ensure that such expenditures do not exceed the allowable levels.
+&emsp;If the Secretary determines that expenditures under this chapter that are subject tothe total allowable domestic support levels under the Uruguay Round Agreements (as defined in section 3501 of title 19) will exceed such allowable levels for any applicable reporting period, the Secretary shall, to the maximum extent practicable, make adjustments in the amount of such expenditures during that period to ensure that such expenditures do not exceed the allowable levels.
 
 #### (2) Congressional notification
 
 &emsp;Before making any adjustment under paragraph (1), the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the determination made under that paragraph and the extent of the adjustment to be made.
 
 (Pub. L. 113–79, title I, §1601, Feb. 7, 2014, 128 Stat. 704; Pub. L. 115–334, title I, §1701, Dec. 20, 2018, 132 Stat. 4525.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

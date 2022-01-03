@@ -15,6 +15,8 @@ Subpart A—Nonresident Alien Individuals
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Pub. L. 110–245, title III, §301(f), June 17, 2008, 122 Stat. 1647, added item 877A.

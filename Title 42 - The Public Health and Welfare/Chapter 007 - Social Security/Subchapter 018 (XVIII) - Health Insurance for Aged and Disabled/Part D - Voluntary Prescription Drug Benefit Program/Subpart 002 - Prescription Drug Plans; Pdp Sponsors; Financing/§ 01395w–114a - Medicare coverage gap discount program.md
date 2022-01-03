@@ -24,7 +24,7 @@ The Secretary shall establish a Medicare coverage gap discount program (in this 
 
 #### (ii) 2012 and subsequent years
 
-&emsp;&emsp;&emsp;In order for an agreement with a manufacturer to be in effect under this sectionwith respect to plan year 2012 or a subsequent plan year, the manufacturer shall enter into such agreement (or such agreement shall be renewed under paragraph (4)(A)) not later than January 30 of the preceding year.
+&emsp;&emsp;&emsp;In order for an agreement with a manufacturer to be in effect under this section with respect to plan year 2012 or a subsequent plan year, the manufacturer shallenter into such agreement (or such agreement shall be renewed under paragraph (4)(A)) not later than January 30 of the preceding year.
 
 #### (2) Provision of appropriate data
 
@@ -239,6 +239,8 @@ In this section:
 &emsp;The term "qualified retiree prescription drug plan" has the meaning given such term in section 1395w–132(a)(2) of this title.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1860D–14A, as added Pub. L. 111–148, title III, §3301(b), Mar. 23, 2010, 124 Stat. 462; amended Pub. L. 111–152, title I, §1101(b)(2), Mar. 30, 2010, 124 Stat. 1037; Pub. L. 115–123, div. E, title XII, §§53113, 53116(b), Feb. 9, 2018, 132 Stat. 305, 307.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

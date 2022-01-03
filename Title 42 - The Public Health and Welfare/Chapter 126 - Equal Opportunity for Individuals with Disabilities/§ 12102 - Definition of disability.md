@@ -62,6 +62,8 @@ As used in this chapter:
 
 (Pub. L. 101–336, §3, July 26, 1990, 104 Stat. 329; Pub. L. 110–325, §4(a), Sept. 25, 2008, 122 Stat. 3555.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
@@ -71,6 +73,8 @@ The ADA Amendments Act of 2008, referred to in par. (4)(B), is Pub. L. 110–325
 #### Amendments
 
 <b>2008</b>—Pub. L. 110–325 amended section generally. Prior to amendment, section consisted of pars. (1) to (3) defining for purposes of this chapter "auxiliary aids and services", "disability", and "State".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

@@ -12,6 +12,8 @@ For the purpose of any competitive program under this chapter—
 
 (Pub. L. 89–10, title VIII, §8103, formerly title IX, §9103, as added Pub. L. 107–110, title IX, §901, Jan. 8, 2002, 115 Stat. 1966; renumbered title VIII, §8103, and amended Pub. L. 114–95, title VIII, §§8001(a)(1), 8004, Dec. 10, 2015, 129 Stat. 2088, 2089, 2100.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior sections 7811 to 7818 were omitted in the general amendment of former subchapter IX of this chapter by Pub. L. 107–110.
@@ -35,6 +37,8 @@ Section 7818, Pub. L. 89–10, title IX, §9118, as added Pub. L. 103–382, tit
 #### Amendments
 
 <b>2015</b>—Pub. L. 114–95, §8004, substituted "Bureau of Indian Education" for "Bureau of Indian Affairs" in section catchline and wherever appearing in text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

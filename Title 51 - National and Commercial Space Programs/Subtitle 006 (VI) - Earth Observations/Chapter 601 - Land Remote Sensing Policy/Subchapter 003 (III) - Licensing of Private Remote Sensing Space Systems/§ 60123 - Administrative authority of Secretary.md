@@ -14,13 +14,13 @@ Functions.—In order to carry out the responsibilities specified in this subcha
 
 &emsp;(5) issue subpoenas for any materials, documents, or records, or for the attendance and testimony of witnesses for the purpose of conducting a hearing under this section;
 
-&emsp;(6) seize any object, record, or report pursuant to a warrant from a magistrate based on a showing of probable cause to believe that such object, record, or report was used, is being used, or is likely to be used in violation of this chapter or the requirements of a license or regulation issued thereunder; and
+&emsp;(6) seize any object, record, or report pursuant to a warrant from a magistrate based on a showing of probable cause to believe that such object, record, or report was used, is being used, or is likely to be used in violation of thischapter or the requirements of a license or regulation issued thereunder; and
 
 &emsp;(7) make investigations and inquiries and administer to or take from any person an oath, affirmation, or affidavit concerning any matter relating to the enforcement of this chapter.
 
 (b)
 
-Review of Agency Action.—Any applicant or licensee that makes a timely request for review of an adverse action pursuant to paragraph\(1), (3), (5), or (6) of subsection (a) shall be entitled to adjudication by the Secretary on the record after an opportunity for any agency hearing with respect to such adverse action. Any final action by the Secretary under this subsection shall be subject to judicial review under chapter 7 of title 5.
+Review of Agency Action.—Any applicant or licensee that makes a timely request for review of an adverse action pursuant to paragraph (1), (3), (5), or (6) of subsection (a) shall be entitled to adjudication by the Secretary on the record after an opportunity for any agency hearing with respect to such adverse action. Any final action by the Secretary under this subsection shall be subject to judicial review under chapter 7 of title 5.
 
 (Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3415.)
 

@@ -36,9 +36,11 @@ In this part:
 
 #### (6) Venture capital
 
-&emsp;The term "venture capital" means capital in the form of equity capital investments, asthat term is defined in section 683(g)(4) of this title.
+&emsp;The term "venture capital" means capital in the form of equity capital investments, as that term is defined in section 683(g)(4) of this title.
 
 (Pub. L. 85–699, title III, §381, as added Pub. L. 110–140, title XII, §1207, Dec. 19, 2007, 121 Stat. 1774.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -18,6 +18,8 @@ Retention of Uniform as a Personal Item.—Notwithstanding section 771a of this 
 
 (Added Pub. L. 102–484, div. A, title III, §377(a)(2), Oct. 23, 1992, 106 Stat. 2386.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 775 was renumbered section 776 of this title.

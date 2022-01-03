@@ -36,6 +36,8 @@ In subsection (a), the words "of the Army" are omitted as surplusage.
 
 In subsection (b), the words "If the Chief of Staff is absent or disabled or if that office is vacant" are substituted for 10:21c (1st 18 words of last sentence). The words "the officer who is highest on the following list and" are inserted for clarity. The words "until his successor is appointed" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 3034 of this title as this section.
@@ -57,6 +59,8 @@ Subsecs. (a), (b). Pub. L. 99–433, §502(d)(1), amended subsecs. (a) and (b) g
 Subsec. (d). Pub. L. 99–433, §502(d)(2), added subsec. (d).
 
 <b>1958</b>—Subsec. (c). Pub. L. 85–599 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

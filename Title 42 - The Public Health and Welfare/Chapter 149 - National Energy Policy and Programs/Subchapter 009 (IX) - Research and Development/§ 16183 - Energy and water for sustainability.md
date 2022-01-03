@@ -72,7 +72,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(bb) to leverage existing RD\&D programs by encouraging joint solicitations, block grants, and matching programs with non-Federal entities; and
 
-&emsp;&emsp;&emsp;&emsp;(cc) to identify opportunities for domestic and international public-privatepartnerships, innovative financing mechanisms, and information and data exchange with respect to RD\&D activities;
+&emsp;&emsp;&emsp;&emsp;(cc) to identify opportunities for domestic and international public-private partnerships, innovative financing mechanisms, and information and data exchange with respect to RD\&D activities;
 
 &emsp;&emsp;&emsp;(v) identify ways to leverage existing RD\&D programs, including programs at the State and local level;
 
@@ -167,6 +167,8 @@ The Secretary shall integrate the following considerations into energy RD\&D pro
 The Secretary may provide for such additional RD\&D activities as appropriate to integrate the considerations described in subsection (b) into the RD\&D activities of the Department.
 
 (Pub. L. 116–260, div. Z, title I, §1010, Dec. 27, 2020, 134 Stat. 2438.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

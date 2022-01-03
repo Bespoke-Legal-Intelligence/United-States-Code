@@ -70,6 +70,8 @@ Effective 1 year after December 19, 2007, each swimming pool or spa drain cover 
 
 (Pub. L. 110–140, title XIV, §1404, Dec. 19, 2007, 121 Stat. 1795; Pub. L. 110–314, title II, §238(2), Aug. 14, 2008, 122 Stat. 3076.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Consumer Product Safety Act, referred to in subsec. (a), is Pub. L. 92–573, Oct. 27, 1972, 86 Stat. 1207, which is classified generally to chapter 47 (§2051 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2051 of this title and Tables.
@@ -77,6 +79,8 @@ The Consumer Product Safety Act, referred to in subsec. (a), is Pub. L. 92–573
 #### Amendments
 
 <b>2008</b>—Subsec. (b). Pub. L. 110–314 inserted at end "If a successor standard is proposed, the American Society of Mechanical Engineers shall notify the Commission of the proposed revision. If the Commission determines that the proposed revision is in the public interest, it shall incorporate the revision into the standard after providing 30 days notice to the public."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

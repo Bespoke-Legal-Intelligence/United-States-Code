@@ -12,6 +12,8 @@ Any certification, determination, or other action by the Commission made or take
 
 (Added Pub. L. 92–178, title VIII, §801, Dec. 10, 1971, 85 Stat. 570; amended Pub. L. 93–443, title IV, §404(c)(19)–(21), Oct. 15, 1974, 88 Stat. 1293; Pub. L. 98–620, title IV, §402(28)(F), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 115–141, div. U, title IV, §401(a)(339), Mar. 23, 2018, 132 Stat. 1200.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (b)(1). Pub. L. 115–141 substituted "construe" for "contrue".
@@ -21,6 +23,8 @@ Any certification, determination, or other action by the Commission made or take
 <b>1974</b>—Subsec. (a). Pub. L. 93–443, §404(c)(19), (20), substituted "Commission" for "Comptroller General" in heading and wherever appearing in text.
 
 Subsec. (b). Pub. L. 93–443, §404(c)(21), substituted "Commission" for "Comptroller General".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

@@ -20,7 +20,7 @@ It is the purpose of this section to enhance the education of children through t
 
 &emsp;(B) thereafter be made available to any commercial television licensee or permittee or cable television system operator, at a charge established by the Secretary that will assure the maximum practicable distribution of such programming, so long as such licensee, permittee, or operator does not interrupt the programming with commercial advertisements.
 
-> The Secretary may, consistent with the purpose and provisions of this section, permit the programming to be distributed to persons using other media, establish conditions relating to such distribution, and apply those conditions to any contract or grant made under this section. The Secretary may waive the requirements of subparagraph (A) if the Secretary finds that neither public television licensees and permittees nor noncommercial television licensees and permittees will have an opportunity to air such programming in the first two years after its production.
+> The Secretary may, consistent with the purpose and provisions of this section, permit the programming to be distributed to persons using other media, establish conditions relating tosuch distribution, and apply those conditions to any contract or grant made under this section. The Secretary may waive the requirements of subparagraph (A) if the Secretary finds that neither public television licensees and permittees nor noncommercial television licensees and permittees will have an opportunity to air such programming in the first two years after its production.
 
 #### (c) Criteria for contracts and grants; applications for contracts and grants
 
@@ -72,7 +72,7 @@ There are authorized to be appropriated $2,000,000 for fiscal year 1991, $4,000,
 
 For purposes of this section—
 
-&emsp;(1) the term "educational television programming for children" means any television program which is directed to an audience ofchildren who are 16 years of age or younger and which is designed for the intellectual development of those children, except that such term does not include any television program which is directed to a general audience but which might also be viewed by a significant number of children; and
+&emsp;(1) the term "educational television programming for children" means any television program which is directed to an audience of children who are 16 years of age or younger and which is designed for the intellectual development of those children, except that such term does not include any television program which is directed to a general audience but which might also be viewed by a significant number of children; and
 
 &emsp;(2) the term "person" means an individual, partnership, association, joint stock company, trust, corporation, or State or local governmental entity.
 

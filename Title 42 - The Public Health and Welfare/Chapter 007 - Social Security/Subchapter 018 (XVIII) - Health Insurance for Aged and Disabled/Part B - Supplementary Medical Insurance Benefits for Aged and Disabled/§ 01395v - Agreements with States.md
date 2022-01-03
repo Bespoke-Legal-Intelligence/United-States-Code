@@ -16,7 +16,7 @@ An agreement entered into with any State pursuant to subsection (a) may be appli
 
 #### (c) Eligible individuals
 
-For purposes of this section, an individual shall be treated as an eligible individual only if he is an eligible individual (within the meaning of section 1395o of this title) on the date an agreement covering him is entered into under subsection (a) or he becomes an eligible individual (within the meaning of such section) atany time after such date; and he shall be treated as receiving money payments described in subsection (b) if he receives such payments for the month in which the agreement is entered into or any month thereafter.
+For purposes of this section, an individual shall be treated as an eligible individual only if he is an eligible individual (within the meaning of section 1395o of this title) on the date an agreement covering him is entered into under subsection (a) or he becomes an eligible individual (within the meaning of such section) at any time after such date; and he shall be treated as receiving money payments described in subsection (b) if he receives such payments for the month in which the agreement is entered into or any month thereafter.
 
 #### (d) Monthly premiums; coverage periods
 
@@ -71,6 +71,8 @@ With respect to eligible individuals receiving money payments under the plan of 
 For provisions relating to enrollment of qualified medicare beneficiaries under part A, see section 1395i–2(g) of this title.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1843, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 312; amended Pub. L. 89–384, §4(a), (b), Apr. 8, 1966, 80 Stat. 105; Pub. L. 90–248, title II, §§222(a), (b), (e), 241(e), Jan. 2, 1968, 81 Stat. 900, 901, 917; Pub. L. 93–233, §18(l), Dec. 31, 1973, 87 Stat. 970; Pub. L. 93–445, title III, §308, Oct. 16, 1974, 88 Stat. 1358; Pub. L. 96–499, title IX, §§945(e), 947(a), (c), Dec. 5, 1980, 94 Stat. 2642, 2643; Pub. L. 98–21, title VI, §606(a)(3)(E), Apr. 20, 1983, 97 Stat. 171; Pub. L. 98–369, div. B, title III, §2354(b)(15), July 18, 1984, 98 Stat. 1101; Pub. L. 100–360, title III, §301(e)(1), July 1, 1988, 102 Stat. 749; Pub. L. 100–485, title VI, §608(d)(14)(H), Oct. 13, 1988, 102 Stat. 2416; Pub. L. 101–239, title VI, §6013(b), Dec. 19, 1989, 103 Stat. 2164; Pub. L. 101–508, title IV, §4501(d), Nov. 5, 1990, 104 Stat. 1388–165.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -134,6 +136,8 @@ Subsec. (h). Pub. L. 90–248, §222(a), added subsec. (h).
 
 Subsec. (g). Pub. L. 89–384, §4(b), added subsec. (g).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–508 applicable to calendar quarters beginning on or after Jan. 1, 1991, without regard to whether or not regulations to implement such amendment are promulgated by such date, see section 4501(f) of Pub. L. 101–508, set out as a note under section 1396a of this title.
@@ -150,7 +154,7 @@ Pub. L. 100–360, title III, §301(e)(3), July 1, 1988, 102 Stat. 750, provided
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting anyright, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2354(e)(1) of Pub. L. 98–369, set out as a note under section 1320a–1 of this title.
+Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2354(e)(1) of Pub. L. 98–369, set out as a note under section 1320a–1 of this title.
 
 #### Effective Date of 1983 Amendment; Transitional Rule
 

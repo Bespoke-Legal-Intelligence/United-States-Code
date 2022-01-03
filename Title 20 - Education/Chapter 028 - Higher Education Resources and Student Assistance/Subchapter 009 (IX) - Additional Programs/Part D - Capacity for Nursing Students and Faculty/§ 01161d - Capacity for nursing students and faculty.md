@@ -32,7 +32,7 @@ Each institution of higher education that offers a program described in subsecti
 
 &emsp;&emsp;&emsp;(ii) receive an income from the hospital or health facility, as at least a part-time employee, and release times or flexible schedules, to accommodate their program requirements, as necessary; and
 
-&emsp;&emsp;(D) upon completion of the program, recipients of scholarships described in subsection (c)(2)(B)(ii)(III) will be required to teach for two years in an accredited schoolof nursing for each year of support the individual received under this section.
+&emsp;&emsp;(D) upon completion of the program, recipients of scholarships described in subsection (c)(2)(B)(ii)(III) will be required to teach for two years in an accredited school of nursing for each year of support the individual received under this section.
 
 #### (c) Grant amount; award basis
 
@@ -54,7 +54,7 @@ Each institution of higher education that offers a program described in subsecti
 
 &emsp;&emsp;&emsp;(ii) use 40 percent of such funds to award grants under this section to institutions of higher education for the purpose of expanding accredited registered nurse programs at the baccalaureate degree level; and
 
-&emsp;&emsp;&emsp;(iii) use 40 percent of such funds to award grants under this section to institutions of higher education for the purpose of expanding accredited registered nurse programs at the associate degree level.
+&emsp;&emsp;&emsp;(iii) use 40 percent of such funds to award grants under this section to institutions ofhigher education for the purpose of expanding accredited registered nurse programs at the associate degree level.
 
 #### (B) Optional uses of funds
 
@@ -126,9 +126,13 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 (Pub. L. 89–329, title VIII, §804, as added Pub. L. 110–315, title VIII, §801, Aug. 14, 2008, 122 Stat. 3385; amended Pub. L. 111–39, title VIII, §801(2), July 1, 2009, 123 Stat. 1955.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2009</b>—Subsec. (d). Pub. L. 111–39 substituted "Definitions" for "Definition" in heading, added par. (2), and struck out former par. (2). Prior to amendment, text read as follows: "The terms 'accredited school of nursing' and 'accredited nursing program' have the meaning given those terms in section 296 of title 42."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

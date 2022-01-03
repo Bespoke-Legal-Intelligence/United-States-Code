@@ -4,6 +4,8 @@ On and after December 30, 1963, the Administrator of the Agricultural Research S
 
 (Pub. L. 88–250, title I, Dec. 30, 1963, 77 Stat. 820.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 450a of this title prior to editorial reclassification and renumbering as this section.

@@ -148,6 +148,8 @@ In subsection (b)(3), the words "by regulation" are omitted as unnecessary becau
 
 In subsection (b)(4), the word "effectiveness" is substituted for "efficacy" for clarity.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–254, §1111(a)(1), substituted ", studies, and retrospective reviews" for "and studies" in section catchline.
@@ -155,6 +157,8 @@ In subsection (b)(4), the word "effectiveness" is substituted for "efficacy" for
 Subsec. (c). Pub. L. 115–254, §1107(a), added subsec. (c).
 
 Subsec. (d). Pub. L. 115–254, §1111(a)(2), added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Savings Clause
 

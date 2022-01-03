@@ -128,7 +128,7 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 
 #### Effective Date of 1979 Amendment
 
-Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an EffectiveDate note under section 3601 of Title 22, Foreign Relations and Intercourse.
+Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an Effective Date note under section 3601 of Title 22, Foreign Relations and Intercourse.
 
 #### Effective Date of 1978 Amendment
 
@@ -153,6 +153,76 @@ Pub. L. 103–103, §1, Oct. 8, 1993, 107 Stat. 1022, provided that: "This Act \
 #### Short Title of 1988 Amendment
 
 Pub. L. 100–566, §1, Oct. 31, 1988, 102 Stat. 2834, provided that: "This Act \[enacting subchapters III and IV of this chapter, amending sections 5724 and 8112 of this title, and enacting provisions set out as notes under section 6331 of this title\] may be cited as the 'Federal Employees Leave Sharing Act of 1988'."
+
+#### Emergency Federal Employee Leave Fund
+
+Pub. L. 117–2, title IV, §4001, Mar. 11, 2021, 135 Stat. 77, provided that:
+
+"(a)
+
+Establishment; Appropriation.—There is established in the Treasury the Emergency Federal Employee Leave Fund (in this section referred to as the 'Fund'), to be administered by the Director of the Office of Personnel Management, for the purposes set forth in subsection (b). In addition to amounts otherwise available, there is appropriated for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $570,000,000, which shall be deposited into the Fund and remain available through September 30, 2022. The Fund is available for reasonable expenses incurred by the Office of Personnel Management in administering this section.
+
+"(b)
+
+Purpose.—Amounts in the Fund shall be available for reimbursement to an agency for the use of paid leave under this section by any employee of the agency who is unable to work because the employee—
+
+&emsp;"(1) is subject to a Federal, State, or local quarantine or isolation order related to COVID–19;
+
+&emsp;"(2) has been advised by a health care provider to self-quarantine due to concerns related to COVID–19;
+
+&emsp;"(3) is caring for an individual who is subject to such an order or has been so advised;
+
+&emsp;"(4) is experiencing symptoms of COVID–19 and seeking a medical diagnosis;
+
+&emsp;"(5) is caring for a son or daughter of such employee if the school or place of care of the son or daughter has been closed, if the school of such son or daughter requires or makes optional a virtual learning instruction model or requires or makes optional a hybrid of in-person and virtual learning instruction models, or the child care provider of such son or daughter is unavailable, due to COVID–19 precautions;
+
+&emsp;"(6) is experiencing any other substantially similar condition;
+
+&emsp;"(7) is caring for a family member with a mental or physical disability or who is 55 years of age or older and incapable of self-care, without regard to whether another individual other than the employee is available to care for such family member, if the place of care for such family member is closed or the direct care provider is unavailable due to COVID–19; or
+
+&emsp;"(8) is obtaining immunization related to COVID–19 or is recovering from any injury, disability, illness, or condition related to such immunization.
+
+"(c)
+
+Limitations.—
+
+&emsp;"(1)
+
+Period of availability.—Paid leave under this section may only be provided to and used by an employee during the period beginning on the date of enactment of this Act \[Mar. 11, 2021\] and ending on September 30, 2021.
+
+&emsp;"(2)
+
+Total hours; amount.—Paid leave under this section—
+
+&emsp;&emsp;"(A) shall be provided to an employee in an amount not to exceed 600 hours of paid leave for each full-time employee, and in the case of a part-time employee, employee on an uncommon tour of duty, or employee with a seasonal work schedule, in an amount not to exceed the proportional equivalent of 600 hours to the extent amounts in the Fund remain available for reimbursement;
+
+&emsp;&emsp;"(B) shall be paid at the same hourly rate as other leave payments; and
+
+&emsp;&emsp;"(C) may not be provided to an employee if the leave would result in payments greater than $2,800 in aggregate for any biweekly pay period for a full-time employee, or a proportionally equivalent biweekly limit for a part-time employee.
+
+&emsp;"(3)
+
+Relationship to other leave.—Paid leave under this section—
+
+&emsp;&emsp;"(A) is in addition to any other leave provided to an employee; and
+
+&emsp;&emsp;"(B) may not be used by an employee concurrently with any other paid leave.
+
+&emsp;"(4)
+
+Calculation of retirement benefit.—Any paid leave provided to an employee under this section shall reduce the total service used to calculate any Federal civilian retirement benefit.
+
+"(d)
+
+Employee Defined.—In this section, the term 'employee' means—
+
+&emsp;"(1) an individual in the executive branch for whom annual and sick leave is provided under subchapter I of chapter 63 of title 5, United States Code;
+
+&emsp;"(2) an individual employed by the United States Postal Service;
+
+&emsp;"(3) an individual employed by the Postal Regulatory Commission; and
+
+&emsp;"(4) an employee of the Public Defender Service for the District of Columbia and the District of Columbia Courts."
 
 #### Employees of the District of Columbia
 

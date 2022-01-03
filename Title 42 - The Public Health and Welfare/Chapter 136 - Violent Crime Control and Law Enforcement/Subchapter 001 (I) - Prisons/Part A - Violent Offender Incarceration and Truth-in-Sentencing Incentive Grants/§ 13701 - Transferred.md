@@ -1,8 +1,12 @@
 ### §13701. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 13701 was editorially reclassified as section 12101 of Title 34, Crime Control and Law Enforcement.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 1996 Amendments
 

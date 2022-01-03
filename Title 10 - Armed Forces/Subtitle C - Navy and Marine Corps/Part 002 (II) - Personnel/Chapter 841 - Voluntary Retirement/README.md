@@ -21,6 +21,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior chapter 841, consisting of sections 8491 to 8504, related to active duty in the Air Force, prior to renumbering as chapter 921 of this title.

@@ -46,7 +46,7 @@ List of passengers.—An assurance that the foreign air carrier shall provide, i
 
 &emsp;(5)
 
-Consultation regarding disposition of remains and effects.—An assurance that thefamily of each passenger will be consulted about the disposition of any remains and personal effects of the passenger that are within the control of the foreign air carrier.
+Consultation regarding disposition of remains and effects.—An assurance that the family of each passenger will be consulted about the disposition of any remains and personal effects of the passenger that are within the control of the foreign air carrier.
 
 &emsp;(6)
 
@@ -58,7 +58,7 @@ Unclaimed possessions retained.—An assurance that any unclaimed possession of 
 
 &emsp;(8)
 
-Monuments.—An assurance that the family of each passenger will be consulted about construction by the foreign air carrier of any monument to the passengers built in the United States, including any inscription on the monument.
+Monuments.—An assurance that the family of each passenger will be consulted about construction by the foreign air carrier of anymonument to the passengers built in the United States, including any inscription on the monument.
 
 &emsp;(9)
 
@@ -118,6 +118,8 @@ Limitation on Liability.—A foreign air carrier shall not be liable for damages
 
 (Added Pub. L. 105–148, §1(a), Dec. 16, 1997, 111 Stat. 2681; amended Pub. L. 106–181, title IV, §403(a)–(c)(1), Apr. 5, 2000, 114 Stat. 130; Pub. L. 108–176, title VIII, §809(b), Dec. 12, 2003, 117 Stat. 2589; Pub. L. 115–254, div. B, title V, §539(d), div. C, §1109(b), Oct. 5, 2018, 132 Stat. 3370, 3434.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this section, referred to in subsec. (c), is the date of enactment of Pub. L. 105–148, which was approved Dec. 16, 1997.
@@ -145,6 +147,8 @@ Subsec. (c)(17)(A). Pub. L. 115–254, §1109(b)(2)(E), substituted "any damage"
 Subsec. (b). Pub. L. 106–181, §403(b), substituted "major" for "significant".
 
 Subsec. (c)(15), (16). Pub. L. 106–181, §403(c)(1), added pars. (15) and (16).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

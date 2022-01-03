@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment of Centers.—(1) The Secretary shall establish four medical emergency preparedness centers in accordance with this section. Each such center shall be established at a Department medical center and shall be staffed by Department employees.
+Establishment of Centers.—(1) The Secretary shall establish four medical emergency preparedness centers in accordance with this section. Each such center shall be established ata Department medical center and shall be staffed by Department employees.
 
 (2) The Under Secretary for Health shall be responsible for supervising the operation of the centers established under this section. The Under Secretary shall provide for ongoing evaluation of the centers and their compliance with the requirements of this section.
 
@@ -16,7 +16,7 @@ Mission.—The mission of the centers shall be as follows:
 
 &emsp;(2) To provide education, training, and advice to health care professionals, including health care professionals outside the Veterans Health Administration, through the National Disaster Medical System established pursuant to section 2812 of the Public Health Service Act (42 U.S.C. 300hh–11) or through interagency agreements entered into by the Secretary for that purpose.
 
-&emsp;(3) In the event of a disaster or emergency referred to in section 1785(b) of this title, to provide such laboratory, epidemiological, medical, or other assistance as the Secretary considers appropriate to Federal, State, andlocal health care agencies and personnel involved in or responding to the disaster or emergency.
+&emsp;(3) In the event of a disaster or emergency referred to in section 1785(b) of this title, to provide such laboratory, epidemiological, medical, or other assistance as the Secretary considers appropriate to Federal, State, and local health care agencies and personnel involved in or responding to the disaster or emergency.
 
 (c)
 
@@ -66,7 +66,7 @@ Detail of Employees From Other Agencies.—Upon approval by the Secretary, the D
 
 (i)
 
-Funding.—(1) Amounts appropriated for the activities of the centers under this section shallbe appropriated separately from amounts appropriated for the Department for medical care.
+Funding.—(1) Amounts appropriated for the activities of the centers under this section shall be appropriated separately from amounts appropriated for the Department for medical care.
 
 (2) In addition to funds appropriated for a fiscal year specifically for the activities of the centers pursuant to paragraph (1), the Under Secretary for Health shall allocate to such centers from other funds appropriated for that fiscal year generally for the Department medical services account and the Department medical and prosthetics research account such amounts as the Under Secretary determines appropriate to carry out the purposes of this section. Any determination by the Under Secretary under the preceding sentence shall be made in consultation with the Assistant Secretary with responsibility for operations, preparedness, security, and law enforcement functions.
 

@@ -34,11 +34,15 @@ The State educational agency shall require only descriptions, information, assur
 
 (Pub. L. 89–10, title VIII, §8305, formerly title IX, §9305, as added Pub. L. 107–110, title IX, §901, Jan. 8, 2002, 115 Stat. 1970; renumbered title VIII, §8305, and amended Pub. L. 114–95, title VIII, §§8001(a)(3), (b)(3), 8011, Dec. 10, 2015, 129 Stat. 2088, 2089, 2102.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (b). Pub. L. 114–95, §8001(b)(3), made technical amendment to reference in original act which appears in text as reference to section 7842 of this title.
 
 Subsec. (e). Pub. L. 114–95, §8011, added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

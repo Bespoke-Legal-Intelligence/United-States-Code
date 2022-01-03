@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Historical park
 
-&emsp;The term "Historical Park" means the Ocmulgee Mounds National Historical Park in the State of Georgia, as redesignated by subsection (b)(1)(A).
+&emsp;The term "Historical Park" means the Ocmulgee Mounds National Historical Park inthe State of Georgia, as redesignated by subsection (b)(1)(A).
 
 #### (2) Map
 
@@ -86,9 +86,13 @@ In this section:
 
 (Pub. L. 116–9, title II, §2102, Mar. 12, 2019, 133 Stat. 724.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the John D. Dingell, Jr. Conservation, Management, and Recreation Act, and not as part of act June 14, 1934, which comprises this subchapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definition of "Secretary"
 

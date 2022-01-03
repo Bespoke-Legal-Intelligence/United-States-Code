@@ -42,9 +42,13 @@ In clause (1)(B)(ii), the words "the government of" are omitted for consistency 
 
 In clause (2), the words "insurance company" are omitted as being included in "insurance carrier". The words "means a person" are added because they are inclusive. The words "group or association" are omitted as being included in "person". The word "State" is substituted for "State of the United States" to eliminate unnecessary words.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2003</b>—Pub. L. 108–176 added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

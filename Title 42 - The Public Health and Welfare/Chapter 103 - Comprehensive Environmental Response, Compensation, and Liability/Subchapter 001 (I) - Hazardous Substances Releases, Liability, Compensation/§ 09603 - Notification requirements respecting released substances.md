@@ -2,7 +2,7 @@
 
 #### (a) Notice to National Response Center upon release from vessel or offshore or onshore facility by person in charge; conveyance of notice by Center
 
-Any person in charge of a vessel or an offshore or an onshore facility shall, as soon as he hasknowledge of any release (other than a federally permitted release) of a hazardous substance from such vessel or facility in quantities equal to or greater than those determined pursuant to section 9602 of this title, immediately notify the National Response Center established under the Clean Water Act \[33 U.S.C. 1251 et seq.\] of such release. The National Response Center shall convey the notification expeditiously to all appropriate Government agencies, including the Governor of any affected State.
+Any person in charge of a vessel or an offshore or an onshore facility shall, as soon as he has knowledge of any release (other than a federally permitted release) of a hazardous substance from such vessel or facility in quantities equal to or greater than those determined pursuant to section 9602 of this title, immediately notify the National Response Center established under the Clean Water Act \[33 U.S.C. 1251 et seq.\] of such release. The National Response Center shall convey the notification expeditiously to all appropriate Government agencies, including the Governor of any affected State.
 
 #### (b) Penalties for failure to notify; use of notice or information pursuant to notice in criminal case
 
@@ -58,7 +58,7 @@ Within one hundred and eighty days after December 11, 1980, any person who owns 
 
 #### (ii) Inclusions
 
-&emsp;&emsp;&emsp;The term "animal waste" includes animal waste that is mixed or commingled with bedding, compost, feed, soil, or any other material typically found with such waste.
+&emsp;&emsp;&emsp;The term "animal waste" includes animal waste that is mixed or commingledwith bedding, compost, feed, soil, or any other material typically found with such waste.
 
 #### (B) Farm
 
@@ -88,6 +88,8 @@ No notification shall be required under subsection (a) or (b) of this section fo
 
 (Pub. L. 96–510, title I, §103, Dec. 11, 1980, 94 Stat. 2772; Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 99–499, title I, §§103, 109(a)(1), (2), Oct. 17, 1986, 100 Stat. 1617, 1632, 1633; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 115–141, div. S, title XI, §1102, Mar. 23, 2018, 132 Stat. 1147.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Clean Water Act, referred to in subsec. (a), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, also known as the Federal Water Pollution Control Act, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
@@ -98,7 +100,7 @@ The Solid Waste Disposal Act, referred to in subsecs. (c) and (f)(1), is title I
 
 This chapter, referred to in subsec. (d)(3), was in the original "this Act", meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
 
-The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (e)(1)(A), is act June 25, 1947,ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
+The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (e)(1)(A), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
 
 #### Amendments
 
@@ -112,6 +114,8 @@ Subsec. (d)(2). Pub. L. 99–499, §109(a)(2), substituted "in accordance with t
 
 <b>1980</b>—Subsec. (b)(2). Pub. L. 96–561 substituted "Magnuson Fishery Conservation and Management Act" for "Fishery Conservation and Management Act of 1976".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1996 Amendment
 
 Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
@@ -122,7 +126,9 @@ Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300, provided tha
 
 #### Application
 
-Pub. L. 115–141, div. S, title XI, §1103, Mar. 23, 2018, 132 Stat. 1148, provided that: "Nothing in this title \[see Short Title of 2018 Amendment note set out under section 9601 of this title\] or an amendment made by this title affects, or supersedes or modifies the responsibility or authority of any Federal official or employee to comply with or enforce, any requirement under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.), other than the hazardous substance notification requirements under section 103 of that Act (42 U.S.C. 9603) with respect to air emissions from animal waste at farms."
+Pub. L. 115–141, div. S, title XI, §1103, Mar. 23, 2018, 132 Stat. 1148, provided that: "Nothing in this title \[seeShort Title of 2018 Amendment note set out under section 9601 of this title\] or an amendment made by this title affects, or supersedes or modifies the responsibility or authority of any Federal official or employee to comply with or enforce, any requirement under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.), other than the hazardous substance notification requirements under section 103 of that Act (42 U.S.C. 9603) with respect to air emissions from animal waste at farms."
+
+#### <b>Executive Documents</b>
 
 #### Contiguous Zone of United States
 

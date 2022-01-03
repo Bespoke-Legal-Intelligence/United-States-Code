@@ -70,7 +70,7 @@ The size of lease tracts may be up to sixty thousand acres, as determined by the
 
 #### (1) In general
 
-&emsp;For the purpose of conservation of the natural resources of all or part of any oil or gas pool, field, reservoir, or like area, lessees (including representatives) of the pool, field, reservoir, or like area may unite with each other, or jointly or separately with others, in collectively adopting and operating under a unit agreement for all or part of the pool, field, reservoir, or like area (whether or not any other part of the oil or gas pool, field, reservoir, or like area is already subject to any cooperative or unit plan of development or operation), if the Secretary determines the action to be necessary or advisable in the public interest. Indetermining the public interest, the Secretary should consider, among other things, the extent to which the unit agreement will minimize the impact to surface resources of the leases and will facilitate consolidation of facilities.
+&emsp;For the purpose of conservation of the natural resources of all or part of any oil or gas pool, field, reservoir, or like area, lessees (including representatives) of the pool, field, reservoir, or like area may unite with each other, or jointly or separately with others, in collectively adopting and operating under a unit agreement for all or part of the pool, field, reservoir, or like area (whether or not any other part of the oil or gas pool, field, reservoir, or like area is already subject to any cooperative or unit plan of development or operation), if the Secretary determines the action to be necessary or advisable in the public interest. In determining the public interest, the Secretaryshould consider, among other things, the extent to which the unit agreement will minimize the impact to surface resources of the leases and will facilitate consolidation of facilities.
 
 #### (2) Consultation
 
@@ -154,6 +154,8 @@ As soon as practicable after August 8, 2005, the Secretary shall issue regulatio
 
 (Pub. L. 94–258, title I, §107, formerly Pub. L. 96–514, title I, Dec. 12, 1980, 94 Stat. 2964; Pub. L. 98–620, title IV, §402(41), Nov. 8, 1984, 98 Stat. 3360; Pub. L. 105–83, title I, §128, Nov. 14, 1997, 111 Stat. 1568; renumbered Pub. L. 94–258, title I, §107, and amended Pub. L. 109–58, title III, §347(a)(2), (b), Aug. 8, 2005, 119 Stat. 704.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsecs. (a), (b), (i)(5), and (l) is Pub. L. 94–258, Apr. 5, 1976, 90 Stat. 303, known as the Naval Petroleum Reserves Production Act of 1976, which enacted this chapter and section 7420 of Title 10, Armed Forces, and amended section 6244 of this title and sections 7421 to 7436 and 7438 of Title 10. For complete classification of this Act to the Code, see Short Title note set out under section 6501 of this title and Tables.
@@ -178,9 +180,11 @@ A prior section 107 of Pub. L. 94–258 was renumbered 108 and is classified to 
 
 <b>2005</b>—Pub. L. 109–58 amended section catchline and revised and restructured text into subsecs. (a) to (p). Amendments by Pub. L. 109–58, §347(b)(2) to (7), were executed by disregarding the second set of closed quotation marks in each such paragraph to reflect the probable intent of Congress. Prior to amendment, text related to competitive leasing of oil and gas and consisted of four undesignated pars.
 
-<b>1997</b>—Pub. L. 105–83, in first par., substituted cls. (8) to (11) and two concluding provisos for "(8) each lease shall be issued for an initial period of up to ten years, and shall be extended for so long thereafter as oil or gas is produced from the lease in paying quantities, or as drilling or reworking operations, as approved by the Secretary, are conducted thereon; and (9) all receipts from sales, rentals, bonuses, and royalties on leases issued pursuant to this Act shall be paid into the Treasury of the United States: <i>Provided</i>, That 50 per centum thereof shall be paid by the Secretary of the Treasury semiannually, as soon as practicable after March 30 and September 30 each year, to the State of Alaska for (a) planning, (b) construction, maintenance, and operation of essential public facilities, and (c) other necessary provisions of public service: <i>Provided</i><i>further</i>, That in the allocation of such funds, the State shall give priority to use by subdivisions of the State most directly or severely impacted by development of oil and gas leased under this Act."
+<b>1997</b>—Pub. L. 105–83, in first par., substituted cls. (8) to (11) and two concluding provisos for "(8) each lease shall be issued for an initial period of up to ten years, and shall be extended for so long thereafter as oil or gas is produced from the lease in paying quantities, or as drilling or reworking operations, as approved by the Secretary, are conducted thereon; and (9) all receipts from sales, rentals, bonuses, and royalties on leases issued pursuant to this Act shall be paid into the Treasury of the United States: <i>Provided</i>, That 50 per centum thereof shall be paid by the Secretary of the Treasury semiannually, as soon as practicable after March 30 and September 30 each year, to the State of Alaska for (a) planning, (b) construction, maintenance,and operation of essential public facilities, and (c) other necessary provisions of public service: <i>Provided further</i>, That in the allocation of such funds, the State shall give priority to use by subdivisions of the State most directly or severely impacted by development of oil and gas leased under this Act."
 
 <b>1984</b>—Pub. L. 98–620 struck out provision in third par. that required that any proceeding on such action be assigned for hearing at the earliest possible date and be expedited by the Court.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

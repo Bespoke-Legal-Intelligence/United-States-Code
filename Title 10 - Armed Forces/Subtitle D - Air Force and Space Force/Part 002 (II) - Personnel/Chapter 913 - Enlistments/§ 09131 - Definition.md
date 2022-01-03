@@ -20,11 +20,15 @@ Historical and Revision Notes
 
 The revised section is inserted for clarity.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 8251 of this title as this section.
 
 <b>1987</b>—Pub. L. 100–180 inserted ", the term" after "In this chapter".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

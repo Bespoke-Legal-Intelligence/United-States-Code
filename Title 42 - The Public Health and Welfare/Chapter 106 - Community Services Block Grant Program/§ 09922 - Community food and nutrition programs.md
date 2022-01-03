@@ -14,7 +14,7 @@ The Secretary may, through grants to public and private, nonprofit agencies, pro
 
 #### (1) Not to exceed $6,000,000 in appropriations
 
-&emsp;Of the amount appropriated for a fiscal year to carry out this section (but not to exceed $6,000,000), the Secretary shall distribute funds for grants under subsection (a) as follows:
+&emsp;Of the amount appropriated for a fiscal year to carry out this section (but not to exceed$6,000,000), the Secretary shall distribute funds for grants under subsection (a) as follows:
 
 #### (A) Allotments
 
@@ -80,9 +80,13 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 (Pub. L. 97–35, title VI, §681, as added Pub. L. 105–285, title II, §201, Oct. 27, 1998, 112 Stat. 2752.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 681 of Pub. L. 97–35 was classified to section 9910 of this title, prior to the general amendment of this chapter by Pub. L. 105–285.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

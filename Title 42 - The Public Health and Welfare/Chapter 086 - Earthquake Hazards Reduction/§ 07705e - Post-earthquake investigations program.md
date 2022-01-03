@@ -8,11 +8,15 @@ There is established within the United States Geological Survey a post-earthquak
 
 &emsp;(3) analysis by each of the Program agencies of the effectiveness of the earthquake hazards mitigation programs and actions relating to its area of responsibility under the Program, and how those programs and actions could be strengthened.
 
-(Pub. L. 95–124, §11, as added Pub. L. 101–614, §11(a), Nov. 16, 1990, 104 Stat. 3239; amended Pub.L. 115–307, §2(c)(1)(B), Dec. 11, 2018, 132 Stat. 4409.)
+(Pub. L. 95–124, §11, as added Pub. L. 101–614, §11(a), Nov. 16, 1990, 104 Stat. 3239; amended Pub. L. 115–307, §2(c)(1)(B), Dec. 11, 2018, 132 Stat. 4409.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>2018</b>—Par. (2). Pub. L. 115–307 substituted "lifeline infrastructure" for "lifelines".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

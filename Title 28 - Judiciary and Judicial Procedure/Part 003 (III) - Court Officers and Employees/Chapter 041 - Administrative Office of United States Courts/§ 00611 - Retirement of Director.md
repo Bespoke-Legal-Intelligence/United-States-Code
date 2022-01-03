@@ -34,7 +34,7 @@ Subsec. (e). Pub. L. 100–702, §1004(a), added subsec. (e).
 
 Pub. L. 100–702, title X, §1004(b), Nov. 19, 1988, 102 Stat. 4666, provided that: "The amendments made by this section \[amending this section and section 627 of this title\] shall apply to cost-of-living increases that go into effect on or after the date of enactment of this title \[Nov. 19, 1988\] with respect to any annuity being paid or becoming payable on or after such date."
 
-Pub. L. 100–702, title X, §1006(b), Nov. 19, 1988, 102 Stat. 4667, provided that: "The amendments made by this section \[amending this section and section 627 of this title\] shall apply to persons holding the offices ofDirector of the Administrative Office of the United States Courts, Director of the Federal Judicial Center, and Administrative Assistant to the Chief Justice on the date of enactment of this title \[Nov. 19, 1988\]."
+Pub. L. 100–702, title X, §1006(b), Nov. 19, 1988, 102 Stat. 4667, provided that: "The amendments made by this section \[amending this section and section 627 of this title\] shall apply to persons holding the offices of Director of the Administrative Office of the United States Courts, Director of the Federal Judicial Center, and Administrative Assistant to the Chief Justice on the date of enactment of this title \[Nov. 19, 1988\]."
 
 #### Retroactive Effect
 

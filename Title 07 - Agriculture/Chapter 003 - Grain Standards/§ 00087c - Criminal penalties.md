@@ -8,6 +8,8 @@
 
 (Aug. 11, 1916, ch. 313, pt. B, §14, as added Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 767; amended Pub. L. 94–582, §17, Oct. 21, 1976, 90 Stat. 2884; Pub. L. 103–156, §§8, 12(m), Nov. 24, 1993, 107 Stat. 1527, 1529; Pub. L. 103–354, title II, §293(a)(7), Oct. 13, 1994, 108 Stat. 3237.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (b). Pub. L. 103–354 substituted "Secretary" for "Administrator" wherever appearing.
@@ -18,11 +20,13 @@ Subsec. (a). Pub. L. 103–156, §§8, 12(m)(1), substituted "the person" for "h
 
 Subsec. (b). Pub. L. 103–156, §12(m)(2), substituted "the Administrator" for "he" in three places.
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–582 inserted "(except an offense prohibited by paragraphs (a)(7), (a)(8), and (b)(4) in which case he shall be subject to the general penal statutes in Title 18 relating to crimes and offenses against the United States)", increased the punishment for misdemeanors from six months to twelve months and the fine from $3,000 to $10,000, and denominated subsequent offenses as felonies, substituting "but, for each subsequent offense subject to this subsection, such person shall be guilty of a felony and shall, on conviction thereof, be subject to imprisonment for not more than five years, or a fine of not more than $20,000, or both such imprisonment and fine" for "but if such offense is committed after one conviction of such person under this section has become final, such person shall be subject to imprisonment for not more than one year, or a fine of not more than $5,000, or both such imprisonment and fine".
+<b>1976</b>—Subsec. (a). Pub. L. 94–582 inserted "(except an offense prohibited by paragraphs (a)(7), (a)(8), and (b)(4)in which case he shall be subject to the general penal statutes in Title 18 relating to crimes and offenses against the United States)", increased the punishment for misdemeanors from six months to twelve months and the fine from $3,000 to $10,000, and denominated subsequent offenses as felonies, substituting "but, for each subsequent offense subject to this subsection, such person shall be guilty of a felony and shall, on conviction thereof, be subject to imprisonment for not more than five years, or a fine of not more than $20,000, or both such imprisonment and fine" for "but if such offense is committed after one conviction of such person under this section has become final, such person shall be subject to imprisonment for not more than one year, or a fine of not more than $5,000, or both such imprisonment and fine".
 
 Subsec. (b). Pub. L. 94–582 substituted "Administrator" for "Secretary" and inserted provision that nothing in this chapter shall be construed as requiring the Administrator to report any violation of this chapter for prosecution when he believes that institution of a proceeding under section 86 of this title will obtain compliance with this chapter and he institutes such a proceeding.
 
 Subsec. (c). Pub. L. 94–582 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

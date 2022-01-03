@@ -1,6 +1,6 @@
 ### §715. Review of applications
 
-Applications for grants in excess of $100,000 in the aggregate authorized to be funded under thischapter, other than grants primarily for the purpose of conducting dissemination or conferences, shall be reviewed by panels of experts which shall include a majority of non-Federal members. Non-Federal members may be provided travel, per diem, and consultant fees not to exceed the daily equivalent of the rate of pay for level 4 of the Senior Executive Service Schedule under section 5382 of title 5.
+Applications for grants in excess of $100,000 in the aggregate authorized to be funded under this chapter, other than grants primarily for the purpose of conducting dissemination or conferences, shall be reviewed by panels of experts which shall include a majority of non-Federal members. Non-Federal members may be provided travel, per diem, and consultant fees not to exceed the daily equivalent of the rate of pay for level 4 of the Senior Executive Service Schedule under section 5382 of title 5.
 
 (Pub. L. 93–112, §18, formerly §16, as added Pub. L. 105–220, title IV, §403, Aug. 7, 1998, 112 Stat. 1114; renumbered §18, Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(a)(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412.)
 

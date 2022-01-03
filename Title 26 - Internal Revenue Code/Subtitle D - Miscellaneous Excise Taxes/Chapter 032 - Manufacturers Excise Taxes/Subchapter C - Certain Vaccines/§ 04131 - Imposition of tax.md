@@ -22,7 +22,9 @@ The tax imposed by this section shall apply—
 
 &emsp;(2) during periods after the date of the enactment of the Revenue Reconciliation Act of 1993.
 
-(Added Pub. L. 100–203, title IX, §9201(a), Dec. 22, 1987, 101 Stat. 1330–327; amended Pub. L. 103–66, title XIII, §13421(a), Aug. 10, 1993, 107 Stat. 565;Pub. L. 105–34, title IX, §904(a), Aug. 5, 1997, 111 Stat. 873.)
+(Added Pub. L. 100–203, title IX, §9201(a), Dec. 22, 1987, 101 Stat. 1330–327; amended Pub. L. 103–66, title XIII, §13421(a), Aug. 10, 1993, 107 Stat. 565; Pub. L. 105–34, title IX, §904(a), Aug. 5, 1997, 111 Stat. 873.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -54,6 +56,8 @@ In general.—The amount of the tax imposed by subsection (a) shall be determine
 Combinations of vaccines.—If any taxable vaccine is included in more than 1 category of vaccines in the table contained in paragraph (1), the amount of the tax imposed by subsection (a) on such vaccine shall be the sum of the amounts determined under such table for each category in which such vaccine is so included."
 
 <b>1993</b>—Subsec. (c). Pub. L. 103–66 amended subsec. (c) generally. Prior to amendment, subsec. (c) related to termination of tax if amounts collected exceeded projected fund liability.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1997 Amendment
 

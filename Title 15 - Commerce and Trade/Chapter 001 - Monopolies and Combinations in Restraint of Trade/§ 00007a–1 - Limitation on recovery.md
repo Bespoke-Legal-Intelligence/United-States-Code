@@ -26,13 +26,15 @@ The court shall consider, in making the determination concerning satisfactory co
 
 #### (d) Cooperation after expiration of stay or protective order
 
-If the Antitrust Division does obtain a stay or protective order in a civil action based on conduct covered by an antitrust leniency agreement, once the stay or protective order, or a portion thereof, expires or is terminated, the antitrust leniency applicant and cooperating individuals shall provide without unreasonable delay any cooperation described in paragraphs (1) and (2) of subsection (b) that was prohibited by the expired or terminated stay or protective order, or the expired or terminated portion thereof, in order for the cooperation to be deemed satisfactory under such paragraphs.
+If the Antitrust Division does obtain a stay or protective order in a civil action based on conduct covered by an antitrust leniency agreement, once the stay or protective order, or a portion thereof, expires or is terminated, the antitrust leniency applicant and cooperating individuals shall provide without unreasonabledelay any cooperation described in paragraphs (1) and (2) of subsection (b) that was prohibited by the expired or terminated stay or protective order, or the expired or terminated portion thereof, in order for the cooperation to be deemed satisfactory under such paragraphs.
 
 #### (e) Continuation
 
-Nothing in this section shall be construed to modify, impair, or supersede the provisions of sections 15, 15a, and 15c of this title relating tothe recovery of costs of suit, including a reasonable attorney's fee, and interest on damages, to the extent that such recovery is authorized by such sections.
+Nothing in this section shall be construed to modify, impair, or supersede the provisions of sections 15, 15a, and 15c of this title relating to the recovery of costs of suit, including a reasonable attorney's fee, and interest on damages, to the extent that such recovery is authorized by such sections.
 
 (Pub. L. 108–237, title II, §213, June 22, 2004, 118 Stat. 666; Pub. L. 111–190, §3, June 9, 2010, 124 Stat. 1275.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

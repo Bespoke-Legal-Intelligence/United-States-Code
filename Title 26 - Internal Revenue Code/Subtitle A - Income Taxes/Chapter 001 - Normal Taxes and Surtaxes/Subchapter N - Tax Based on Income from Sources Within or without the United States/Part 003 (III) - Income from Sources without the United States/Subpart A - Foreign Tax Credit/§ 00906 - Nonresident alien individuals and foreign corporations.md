@@ -22,6 +22,8 @@ A nonresident alien individual or a foreign corporation engaged in trade or busi
 
 (Added Pub. L. 89–809, title I, §106(a)(1), Nov. 13, 1966, 80 Stat. 1568; amended Pub. L. 98–369, div. A, title VIII, §801(d)(3), July 18, 1984, 98 Stat. 996; Pub. L. 99–514, title XII, §1241(c), title XVIII, §1876(d)(3), Oct. 22, 1986, 100 Stat. 2580, 2899; Pub. L. 100–647, title I, §1012(q)(10), Nov. 10, 1988, 102 Stat. 3524; Pub. L. 110–172, §11(g)(11), Dec. 29, 2007, 121 Stat. 2490; Pub. L. 115–97, title I, §14301(c)(22), (23), Dec. 22, 2017, 131 Stat. 2223.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Subsec. (a). Pub. L. 115–97, §14301(c)(22), struck out "(or deemed, under section 902, paid or accrued during the taxable year)" after "paid or accrued during the taxable year".
@@ -30,7 +32,7 @@ Subsec. (b)(4), (5). Pub. L. 115–97, §14301(c)(23), struck out pars. (4) and 
 
 "(4) For purposes of sections 902(a) and 78, a foreign corporation choosing the benefits of this subpart which receives dividends shall, with respect to such dividends, be treated as a domestic corporation.
 
-"(5) For purposes of section 902, any income, war profits, and excess profits taxes paid or accrued (or deemed paid or accrued) to any foreign country or possession of the United States with respect to income effectively connected with the conduct of a trade or business within the United States shall not be taken into account, and any accumulated profits attributable to such income shall not be taken into account."
+"(5) For purposes of section 902, any income, war profits, and excess profits taxes paid or accrued (or deemed paid or accrued) to any foreign country or possession of the United States with respect to income effectively connected with the conduct of a trade or business within the United States shall not be taken intoaccount, and any accumulated profits attributable to such income shall not be taken into account."
 
 <b>2007</b>—Subsec. (b)(5) to (7). Pub. L. 110–172 redesignated pars. (6) and (7) as (5) and (6), respectively, and struck out former par. (5) which read as follows: "No credit shall be allowed under this section for any income, war profits, and excess profits taxes paid or accrued with respect to the foreign trade income (within the meaning of section 923(b)) of a FSC."
 
@@ -41,6 +43,8 @@ Subsec. (b)(4), (5). Pub. L. 115–97, §14301(c)(23), struck out pars. (4) and 
 Pub. L. 99–514, §1241(c), added par. (6) relating to credit against tax imposed by section 884.
 
 <b>1984</b>—Subsec. (b)(5). Pub. L. 98–369 added par. (5).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 
@@ -54,7 +58,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Amendment by section 1241(c) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1241(e) of Pub. L. 99–514, set out as an Effective Date note under section 884 of this title.
 
-Amendment by section 1876(d)(3) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L.98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by section 1876(d)(3) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 

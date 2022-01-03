@@ -84,7 +84,9 @@ In the case of returns of tax required under authority of part II of this subcha
 
 &emsp;In the case of any return of tax imposed by section 4181 or subtitle E (relating to taxes on alcohol, tobacco, and firearms), subsection (a) shall apply (and this subsection shall not apply).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 752; Pub. L. 89–713, §1(a), Nov. 2, 1966, 80 Stat. 1107; Pub. L. 91–614, title I, §101(i), Dec. 31, 1970, 84 Stat. 1838; Pub. L. 94–455, title X, §§1051(h)(4), 1052(c)(6), 1053(d)(4), title XII, §1204(c)(3), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1647, 1648, 1649, 1697, 1834; Pub. L. 95–615, §§202(g)(5), formerly §202(f)(5), 207(b), Nov. 8, 1978, 92 Stat. 3100, 3108, renumbered §202(g)(5), Pub. L. 96–222, title I, §108(a)(1)(A), Apr. 1, 1980, 94 Stat. 223; Pub. L. 97–34, title I, §§111(b)(3), 112(b)(6), Aug. 13, 1981, 95 Stat. 194, 195; Pub. L. 99–514, title XII, §1272(d)(10), title XVIII, §1879(r)(1), Oct. 22, 1986, 100 Stat. 2594, 2912; Pub. L. 100–203, title X, §10713(b)(2)(A), Dec. 22, 1987, 101 Stat. 1330–470; Pub. L. 101–239, title VII, §7841(f), Dec. 19, 1989,103 Stat. 2429; Pub. L. 115–141, div. U, title IV, §401(a)(266), (d)(1)(D)(xviii), Mar. 23, 2018, 132 Stat. 1197, 1208.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 752; Pub. L. 89–713, §1(a), Nov. 2, 1966, 80 Stat. 1107; Pub. L. 91–614, title I, §101(i), Dec. 31, 1970, 84 Stat. 1838; Pub. L. 94–455, title X, §§1051(h)(4), 1052(c)(6), 1053(d)(4), title XII, §1204(c)(3), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1647, 1648, 1649, 1697, 1834; Pub. L. 95–615, §§202(g)(5), formerly §202(f)(5), 207(b), Nov. 8, 1978, 92 Stat. 3100, 3108, renumbered §202(g)(5), Pub. L. 96–222, title I, §108(a)(1)(A), Apr. 1, 1980, 94 Stat. 223; Pub. L. 97–34, title I, §§111(b)(3), 112(b)(6), Aug. 13, 1981, 95 Stat. 194, 195; Pub. L. 99–514, title XII, §1272(d)(10), title XVIII, §1879(r)(1), Oct. 22, 1986, 100 Stat. 2594, 2912; Pub. L. 100–203, title X, §10713(b)(2)(A), Dec. 22, 1987, 101 Stat. 1330–470; Pub. L. 101–239, title VII, §7841(f), Dec. 19, 1989, 103 Stat. 2429; Pub. L. 115–141, div. U, title IV, §401(a)(266), (d)(1)(D)(xviii), Mar. 23, 2018, 132 Stat. 1197, 1208.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -118,13 +120,15 @@ Pub. L. 94–455, §§1051(h)(4), 1204(c)(3)(B), 1906(b)(13)(A), substituted "se
 
 <b>1970</b>—Subsec. (b)(3). Pub. L. 91–614, §101(i)(1), substituted provisions requiring an estate tax return to be filed in the internal revenue district in which the decedent was domiciled at the time of his death or at a service center serving that district, as the Secretary or his delegate may determine by regulations, and in the case of a decedent who was not domiciled in an internal revenue district, or who had no domicile, his return is to be filed at such place as the Secretary or his delegate designates for provisions requiring estate tax returns to be filed in the internal revenue district in which the decedent was domiciled at the time of his death or, if there was no such domicile in an internal revenue district, then at such place as the Secretary or his delegate by regulations designates.
 
-Subsec. (b)(4). Pub. L. 91–614, §101(i)(2), permitted the executor, who desires to file an estate tax return in person, to do so by hand carrying it to the appropriate internal revenue district office.
+Subsec. (b)(4). Pub. L. 91–614, §101(i)(2), permitted the executor, who desires to file an estate tax return inperson, to do so by hand carrying it to the appropriate internal revenue district office.
 
 <b>1966</b>—Subsec. (b)(1). Pub. L. 89–713, §1(a)(1), authorized the Secretary to promulgate regulations allowing individuals to file tax returns either in the internal revenue district in which the taxpayer's legal residence or principal place of business is located or at a service center serving that district, designated as subpar. (B)(1) the existing provisions which authorized the Secretary to prescribe the place without limitations as to the Secretary's range of alternative choices for the filing of returns of persons who have no legal residence or principal place of business in any internal revenue district, and added subpar. (B)(ii) to (iv).
 
 Subsec. (b)(2). Pub. L. 89–713, §1(a)(1), authorized the Secretary to promulgate regulations allowing corporations to file tax returns either in the internal revenue district in which is located the principal place of business or principal office or agency of the corporation or at a service center serving that district, designated as subpar. (B)(i) the existing provisions which authorized the Secretary to prescribe the place without limitations as to the Secretary's range of alternative choices for the filing of returns of corporations having no principal place of business or principal office or agency of the corporation, and added subpar. (B)(ii), (iii).
 
 Subsec. (b)(4), (5). Pub. L. 89–713, §1(a)(2), (3), added par. (4), redesignated former par. (4) as (5), and, in par. (5), substituted "paragraph (1), (2), (3), or (4)" for "paragraph (1), (2), or (3)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1987 Amendment
 
@@ -152,7 +156,7 @@ Amendment by section 1052(c)(6) of Pub. L. 94–455, applicable with respect to 
 
 Amendment by section 1053(d)(4) of Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1977, see section 1053(e) of Pub. L. 94–455, set out as a note under section 1504 of this title.
 
-Amendment by section 1204(c)(3) of Pub. L. 94–455 applicable with respect to action taken under section6851, 6861, or 6862 of this title where notice and demand takes place after Feb. 28, 1977, see section 1204(d) of Pub. L. 94–455, as amended, set out as a note under section 6851 of this title.
+Amendment by section 1204(c)(3) of Pub. L. 94–455 applicable with respect to action taken under section 6851, 6861, or 6862 of this title where notice and demand takes place after Feb. 28, 1977, see section 1204(d) of Pub. L. 94–455, as amended, set out as a note under section 6851 of this title.
 
 #### Effective Date of 1970 Amendment
 

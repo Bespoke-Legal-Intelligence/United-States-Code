@@ -28,7 +28,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary, in consultation with the individuals and entities described in paragraph (2), shall identify or facilitate the development of common indicators that could be used to identify potentially fraudulent recovery housing operators.
+&emsp;The Secretary, in consultation with the individuals and entities described in paragraph\(2), shall identify or facilitate the development of common indicators that could be used to identify potentially fraudulent recovery housing operators.
 
 #### (2) Consultation
 
@@ -86,7 +86,7 @@ Nothing in this section shall be construed to provide the Secretary with the aut
 
 In this section:
 
-&emsp;(1) The term "recovery housing" means a shared living environment free from alcohol and illicit drug use and centered on peer support and connection to services that promotesustained recovery from substance use disorders.
+&emsp;(1) The term "recovery housing" means a shared living environment free from alcohol and illicit drug use and centered on peer support and connection to services that promote sustained recovery from substance use disorders.
 
 &emsp;(2) The terms "Indian tribe" and "tribal organization" have the meanings given those terms in section 5304 of title 25.
 
@@ -97,6 +97,8 @@ In this section:
 To carry out this section, there is authorized to be appropriated $3,000,000 for the period of fiscal years 2019 through 2021.
 
 (July 1, 1944, ch. 373, title V, §550, as added Pub. L. 115–271, title VII, §7031, Oct. 24, 2018, 132 Stat. 4014.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

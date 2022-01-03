@@ -24,6 +24,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2009</b>—Pub. L. 111–84, div. A, title V, §512(a)(2), Oct. 28, 2009, 123 Stat. 2281, added item 1177.
@@ -49,6 +51,28 @@ Pub. L. 104–106, div. A, title V, §§563(a)(1)(B), 567(a)(2), Feb. 10, 1996, 
 <b>1968</b>—Pub. L. 90–235, §3(a)(1)(B), Jan. 2, 1968, 81 Stat. 757, added items 1169 to 1172.
 
 <b>1962</b>—Pub. L. 87–651, title I, §106(c), Sept. 7, 1962, 76 Stat. 508, added item 1168.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Limitation on Certain Discharges Solely on the Basis of Failure To Obey Lawful Order To Receive COVID–19 Vaccine
+
+Pub. L. 117–81, div. A, title VII, §736, Dec. 27, 2021, 135 Stat. 1800, provided that:
+
+"(a)
+
+Limitation.—During the period of time beginning on August 24, 2021, and ending on the date that is two years after the date of the enactment of this Act \[Dec. 27, 2021\], any administrative discharge of a covered member, on the sole basis that the covered member failed to obey a lawful order to receive a vaccine for COVID–19, shall be—
+
+&emsp;"(1) an honorable discharge; or
+
+&emsp;"(2) a general discharge under honorable conditions.
+
+"(b)
+
+Definitions.—In this section:
+
+&emsp;"(1) The terms 'Armed Forces' and 'military departments' have the meanings given such terms in section 101 of title 10, United States Code.
+
+&emsp;"(2) The term 'covered member' means a member of an Armed Force under the jurisdiction of the Secretary of a military department."
 
 #### Limitations and Requirements in Connection With Separations for Members of the Armed Forces Who Suffer From Mental Health Conditions in Connection With a Sex-Related, Intimate Partner Violence-Related, or Spousal-Abuse Offense
 

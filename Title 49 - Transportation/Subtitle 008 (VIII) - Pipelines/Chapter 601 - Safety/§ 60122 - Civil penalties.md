@@ -128,6 +128,8 @@ In subsection (d), the words "imposed or compromised under this section" are sub
 
 In subsection (f), the words "Separate penalties . . . prescribed under this chapter . . . may not be imposed under this chapter" are substituted for "Nothing in this title shall be construed to authorize . . . penalties" for clarity.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2020</b>—Subsec. (b)(1)(D). Pub. L. 116–260 added subpar. (D).
@@ -153,6 +155,8 @@ Subsec. (b). Pub. L. 107–355, §8(b)(2), substituted "under this section—" a
 &emsp;"(3) good faith in attempting to comply; and
 
 &emsp;"(4) other matters that justice requires."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Comptroller General Study
 

@@ -10,7 +10,7 @@ The Secretary may award grants to States, transplant centers, qualified organ pr
 
 #### (b) Preference
 
-The Secretary shall, in carrying out subsection (a), give preference to those individuals that the Secretary determines are more likely to be otherwise unable to meet such expenses.
+The Secretary shall, in carrying out subsection (a), give preference to those individualsthat the Secretary determines are more likely to be otherwise unable to meet such expenses.
 
 #### (c) Certain circumstances
 
@@ -43,6 +43,8 @@ For purposes of this section:
 For the purpose of carrying out this section, there is authorized to be appropriated $5,000,000 for each of the fiscal years 2005 through 2009.
 
 (July 1, 1944, ch. 373, title III, §377, as added Pub. L. 101–616, title II, §206(a), Nov. 16, 1990, 104 Stat. 3285; amended Pub. L. 108–216, §3, Apr. 5, 2004, 118 Stat. 584.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

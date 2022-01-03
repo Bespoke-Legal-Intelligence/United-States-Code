@@ -90,11 +90,11 @@ Master credit agreement.—The term "master credit agreement" means a conditiona
 
 &emsp;&emsp;&emsp;(ii) receiving an investment grade rating from a rating agency;
 
-&emsp;&emsp;&emsp;(iii) compliance with such other requirements as are specified under the TIFIA program, including sections 602(c) and 603(b)(1); and
+&emsp;&emsp;&emsp;(iii) compliance with such other requirements as are specified under the TIFIAprogram, including sections 602(c) and 603(b)(1); and
 
 &emsp;&emsp;&emsp;(iv) the availability of funds to carry out the TIFIA program; and
 
-&emsp;&emsp;(E) require that contingent commitments result in a financial close and obligation of credit assistance not later than 3 years after the date of entry into the master credit agreement, or release of the commitment, unless otherwise extended by the Secretary.
+&emsp;&emsp;(E) require that contingent commitments result in a financial close and obligation of credit assistance not later than 5 years after the date of entry into the master credit agreement, or release of the commitment, unless otherwise extended by the Secretary.
 
 &emsp;(11)
 
@@ -134,13 +134,45 @@ Project.—The term "project" means—
 
 &emsp;&emsp;&emsp;(iv) is composed of related highway, surface transportation, transit, rail, or intermodal capital improvement projects eligible for assistance under this section in order to meet the eligible project cost threshold under section 602, by grouping related projects together for that purpose, subject to the condition that the credit assistance for the projects is secured by a common pledge;
 
-&emsp;&emsp;(E) a project to improve or construct public infrastructure that is located within walking distance of, and accessible to, a fixed guideway transit facility, passenger rail station, intercity bus station, or intermodal facility, including a transportation, public utility, or capital project described in section 5302(3)(G)(v) of title 49, and related infrastructure; and
+&emsp;&emsp;(E) a project to improve or construct public infrastructure—
 
-&emsp;&emsp;(F) the capitalization of a rural projects fund.
+&emsp;&emsp;&emsp;(i) that—
+
+&emsp;&emsp;&emsp;&emsp;(I) is located within walking distance of, and accessible to, a fixed guideway transit facility, passenger rail station, intercity bus station, or intermodal facility, including a transportation, public utility, or capital project described in section 5302(4)(G)(v) <sup>1</sup> of title 49, and related infrastructure; or
+
+&emsp;&emsp;&emsp;&emsp;(II) is a project for economic development, including commercial and residential development, and related infrastructure and activities—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) that incorporates private investment;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) that is physically or functionally related to a passenger rail station or multimodal station that includes rail service;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) for which the project sponsor has a high probability of commencing the contracting process for construction by not later than 90 days after the date on which credit assistance under the TIFIA program is provided for the project; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(dd) that has a high probability of reducing the need for financial assistance under any other Federal program for the relevant passenger rail station or service by increasing ridership, tenant lease payments, or other activities that generate revenue exceeding costs; and
+
+&emsp;&emsp;&emsp;(ii) for which, by not later than September 30, 2026, the Secretary has—
+
+&emsp;&emsp;&emsp;&emsp;(I) received a letter of interest; and
+
+&emsp;&emsp;&emsp;&emsp;(II) determined that the project is eligible for assistance;
+
+&emsp;&emsp;(F) the capitalization of a rural projects fund;
+
+&emsp;&emsp;(G) an eligible airport-related project (as defined in section 40117(a) of title 49) for which, not later than September 30, 2025, the Secretary has—
+
+&emsp;&emsp;&emsp;(i) received a letter of interest; and
+
+&emsp;&emsp;&emsp;(ii) determined that the project is eligible for assistance; and
+
+&emsp;&emsp;(H) a project for the acquisition of plant and wildlife habitat pursuant to a conservation plan that—
+
+&emsp;&emsp;&emsp;(i) has been approved by the Secretary of the Interior pursuant to section 10 of the Endangered Species Act of 1973 (16 U.S.C. 1539); and
+
+&emsp;&emsp;&emsp;(ii) in the judgment of the Secretary, would mitigate the environmental impacts of transportation infrastructure projects otherwise eligible for assistance under this title.
 
 &emsp;(13)
 
-Project obligation.—The term "project obligation" means any note, bond, debenture, or other debt obligation issued by an obligor in connection with the financing of a project, other than a Federal credit instrument.
+Project obligation.—The term "project obligation" means any note, bond, debenture, or other debt obligation issued by an obligorin connection with the financing of a project, other than a Federal credit instrument.
 
 &emsp;(14)
 
@@ -196,7 +228,7 @@ TIFIA program.—The term "TIFIA program" means the transportation infrastructur
 
 Treatment of Chapter.—For purposes of this title, this chapter shall be treated as being part of chapter 1.
 
-(Added Pub. L. 105–178, title I, §1503(a), June 9, 1998, 112 Stat. 241, §181; renumbered §601 and amended Pub. L. 109–59, title I, §§1601(a), 1602(b)(1), (5), (d), Aug. 10, 2005, 119 Stat. 1239, 1246, 1247; Pub. L. 109–291, §4(b)(6), Sept. 29, 2006, 120 Stat. 1338; Pub. L. 110–244, title I, §101(r), June 6, 2008, 122 Stat. 1577; Pub. L. 112–141, div. A, title II, §2002, July 6, 2012, 126 Stat. 607; Pub. L. 114–94, div. A, title II, §2001(a), Dec. 4, 2015, 129 Stat. 1439.)
+(Added Pub. L. 105–178, title I, §1503(a), June 9, 1998, 112 Stat. 241, §181; renumbered §601 and amended Pub. L. 109–59, title I, §§1601(a), 1602(b)(1), (5), (d), Aug. 10, 2005, 119 Stat. 1239, 1246, 1247; Pub. L. 109–291, §4(b)(6), Sept. 29, 2006, 120 Stat. 1338; Pub. L. 110–244, title I, §101(r), June 6, 2008, 122 Stat. 1577; Pub. L. 112–141, div. A, title II, §2002, July 6, 2012, 126 Stat. 607; Pub. L. 114–94, div. A, title II, §2001(a), Dec. 4, 2015, 129 Stat. 1439; Pub. L. 117–58, div. A, title II, §12001(a), div. C, §30001(b)(1), Nov. 15, 2021, 135 Stat. 617, 890.)
 
 #### <b>Editorial Notes</b>
 
@@ -212,6 +244,14 @@ The Federal Credit Reform Act of 1990, referred to in subsec. (a)(20)(B), is tit
 
 #### Amendments
 
+<b>2021</b>—Subsec. (a)(10)(E). Pub. L. 117–58, §12001(a)(1), substituted "5 years" for "3 years".
+
+Subsec. (a)(12)(E). Pub. L. 117–58, §30001(b)(1), substituted "section 5302(4)(G)(v)" for "section 5302(3)(G)(v)".
+
+Pub. L. 117–58, §12001(a)(2)(A), added subpar. (E) and struck out former subpar. (E) which read as follows: "a project to improve or construct public infrastructure that is located within walking distance of, and accessible to, a fixed guideway transit facility, passenger rail station, intercity bus station, or intermodal facility, including a transportation, public utility, or capital project described in section 5302(3)(G)(v) of title 49, and related infrastructure; and".
+
+Subsec. (a)(12)(G), (H). Pub. L. 117–58, §12001(a)(2)(B), (C), added subpars. (G) and (H).
+
 <b>2015</b>—Subsec. (a). Pub. L. 114–94, §2001(a)(1), in introductory provisions, substituted "The" for "In this chapter, the" and inserted "to sections 601 through 609" after "apply".
 
 Subsec. (a)(2)(D). Pub. L. 114–94, §2001(a)(2), added subpar. (D).
@@ -224,7 +264,7 @@ Subsec. (a)(10)(A). Pub. L. 114–94, §2001(a)(4)(B), substituted "subject to�
 
 Subsec. (a)(10)(D)(ii). Pub. L. 114–94, §2001(a)(4)(C)(ii), added cl. (ii). Former cl. (ii) redesignated (iii).
 
-Subsec. (a)(10)(D)(iii). Pub. L. 114–94, §2001(a)(4)(C)(i), (iii), redesignated cl. (ii) as (iii) and substituted "under the TIFIA program, including sections 602(c) and 603(b)(1)" for "in section 602(c)". Former cl. (iii) redesignated (iv).
+Subsec. (a)(10)(D)(iii). Pub. L. 114–94, §2001(a)(4)(C)(i), (iii), redesignated cl. (ii) as (iii) and substituted "under the TIFIA program, including sections 602(c) and603(b)(1)" for "in section 602(c)". Former cl. (iii) redesignated (iv).
 
 Subsec. (a)(10)(D)(iv). Pub. L. 114–94, §2001(a)(4)(C)(i), (iv), redesignated cl. (iii) as (iv) and substituted "the TIFIA program" for "this chapter".
 
@@ -262,13 +302,101 @@ Pars. (11) to (15). Pub. L. 109–59, §1601(a)(2), redesignated pars. (12) to (
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2021 Amendment
+
+Amendment by section 12001(a) of Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as a note under section 101 of this title.
+
 #### Effective Date of 2015 Amendment
 
-Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a noteunder section 5313 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2012 Amendment
 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
+
+#### Value for Money Analysis
+
+Pub. L. 117–58, div. G, title VII, §70701, Nov. 15, 2021, 135 Stat. 1286, provided that:
+
+"(a)
+
+In General.—Notwithstanding any other provision of law, in the case of a project described in subsection (b), the entity carrying out the project shall, during the planning and project development process and prior to signing any Project Development Agreement, conduct a value for money analysis or comparable analysis of the project, which shall include an evaluation of—
+
+&emsp;"(1) the life-cycle cost and project delivery schedule;
+
+&emsp;"(2) the costs of using public funding versus private financing for the project;
+
+&emsp;"(3) a description of the key assumptions made in developing the analysis, including—
+
+&emsp;&emsp;"(A) an analysis of any Federal grants or loans and subsidies received or expected (including tax depreciation costs);
+
+&emsp;&emsp;"(B) the key terms of the proposed public-private partnership agreement, if applicable (including the expected rate of return for private debt and equity), and major compensation events;
+
+&emsp;&emsp;"(C) a discussion of the benefits and costs associated with the allocation of risk;
+
+&emsp;&emsp;"(D) the determination of risk premiums assigned to various project delivery scenarios;
+
+&emsp;&emsp;"(E) assumptions about use, demand, and any user fee revenue generated by the project; and
+
+&emsp;&emsp;"(F) any externality benefits for the public generated by the project;
+
+&emsp;"(4) a forecast of user fees and other revenues expected to be generated by the project, if applicable; and
+
+&emsp;"(5) any other information the Secretary of Transportation determines to be appropriate.
+
+"(b)
+
+Project Described.—A project referred to in subsection (a) is a transportation project—
+
+&emsp;"(1) with an estimated total cost of more than $750,000,000;
+
+&emsp;"(2) carried out—
+
+&emsp;&emsp;"(A) by a public entity that is a State, territory, Indian Tribe, unit of local government, transit agency, port authority, metropolitan planning organization, airport authority, or other political subdivision of a State or local government; and
+
+&emsp;&emsp;"(B) in a State in which there is in effect a State law authorizing the use and implementation of public-private partnerships for transportation projects; and
+
+&emsp;"(3)(A) that intends to submit a letter of interest, or has submitted a letter of interest after the date of enactment of this Act \[Nov. 15, 2021\], to be carried out with—
+
+&emsp;&emsp;"(i) assistance under the TIFIA \[Transportation Infrastructure Finance and Innovation Act of 1998, Pub. L. 105–178\] program under chapter 6 of title 23, United States Code; or
+
+&emsp;&emsp;"(ii) assistance under the Railroad Rehabilitation and Improvement Financing Program of the Federal Railroad Administration established under chapter 224 of title 49, United States Code; and
+
+&emsp;"(B) that is anticipated to generate user fees or other revenues that could support the capital and operating costs of such project.
+
+"(c)
+
+Reporting Requirements.—
+
+&emsp;"(1)
+
+Project reports.—For each project described in subsection (b), the entity carrying out the project shall—
+
+&emsp;&emsp;"(A) include the results of the analysis under subsection (a) on the website of the project; and
+
+&emsp;&emsp;"(B) submit the results of the analysis to the Build America Bureau and the Secretary of Transportation.
+
+&emsp;"(2)
+
+Report to congress.—The Secretary of Transportation, in coordination with the Build America Bureau, shall, not later than 2 years after the date of enactment of this Act—
+
+&emsp;&emsp;"(A) compile the analyses submitted under paragraph (1)(B); and
+
+&emsp;&emsp;"(B) submit to Congress a report that—
+
+&emsp;&emsp;&emsp;"(i) includes the analyses submitted under paragraph (1)(B);
+
+&emsp;&emsp;&emsp;"(ii) describes—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the use of private financing for projects described in subsection (b); and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the costs and benefits of conducting a value for money analysis; and
+
+&emsp;&emsp;&emsp;"(iii) identifies best practices for private financing of projects described in subsection (b).
+
+"(d)
+
+Guidance.—The Secretary of Transportation, in coordination with the Build America Bureau, shall issue guidance on performance benchmarks, risk premiums, and expected rates of return on private financing for projects described in subsection (b)."
 
 #### Regional Infrastructure Accelerator Demonstration Program
 
@@ -378,7 +506,7 @@ In general.—
 
 &emsp;&emsp;"(A)
 
-Purpose of agreements.—Subject to this section, the Secretary may enter into cooperative agreements with the States of California, Florida, Missouri, and \[sic\] Rhode Island, and Texas for the establishment of State infrastructure banks and multistate infrastructure banks for making loans and providing other assistance to public and private entities carrying out or proposing to carry out projects eligible for assistance under this section, provided that Texas may not compete for funds previously allocated or appropriated to any other State.
+Purpose of agreements.—Subject to this section, the Secretary may enter into cooperative agreements with the States of California, Florida, Missouri, and \[sic\] Rhode Island, and Texas for the establishment of State infrastructure banks andmultistate infrastructure banks for making loans and providing other assistance to public and private entities carrying out or proposing to carry out projects eligible for assistance under this section, provided that Texas may not compete for funds previously allocated or appropriated to any other State.
 
 &emsp;&emsp;"(B)
 
@@ -396,7 +524,7 @@ Funding.—
 
 Contribution.—Notwithstanding any other provision of law, the Secretary may allow, subject to subsection (h)(1), a State that enters into a cooperative agreement under this section to contribute to the infrastructure bank established by the State not to exceed—
 
-&emsp;&emsp;"(A)(i) the total amount of funds apportioned to the State under each of \[former\] paragraphs (1), (3), and (4) of section 104(b) and \[former\] section 144 oftitle 23, United States Code, excluding funds set aside under paragraphs (1) and (2) of \[former\] section 133(d) of such title; and
+&emsp;&emsp;"(A)(i) the total amount of funds apportioned to the State under each of \[former\] paragraphs (1), (3), and (4) of section 104(b) and \[former\] section 144 of title 23, United States Code, excluding funds set aside under paragraphs (1) and (2) of \[former\] section 133(d) of such title; and
 
 &emsp;&emsp;"(ii) the total amount of funds allocated to the State under \[former\] section 105 of such title;
 
@@ -516,7 +644,7 @@ United States Not Obligated.—
 
 &emsp;"(1)
 
-In general.—The contribution of Federal funds to an infrastructure bank established under this section shall not be construed as a commitment, guarantee, or obligation on the part of the United States to any third party. No third party shall have anyright against the United States for payment solely by virtue of the contribution.
+In general.—The contribution of Federal funds to an infrastructure bank established under this section shall not be construed as a commitment, guarantee, or obligation on the part of the United States to any third party. No third party shall have any right against the United States for payment solely by virtue of the contribution.
 
 &emsp;"(2)
 
@@ -685,4 +813,6 @@ Other assistance.—The term 'other assistance' includes any use of funds in an 
 &emsp;"(4)
 
 State.—The term 'State' has the meaning such term has under section 101 of title 23, United States Code."
+
+<i><sup>1</sup></i><i> So in original. Probably should be "section 5302(4)(G)(vi)".</i>
 

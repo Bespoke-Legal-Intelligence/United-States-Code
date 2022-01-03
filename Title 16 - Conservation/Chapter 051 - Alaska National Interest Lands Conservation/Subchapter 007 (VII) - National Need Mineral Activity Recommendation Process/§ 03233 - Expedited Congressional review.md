@@ -10,7 +10,7 @@ This subsection is enacted by Congress—
 
 #### (b) Resolution
 
-For purposes of this section, the term "resolution" means a joint resolution, the resolvingclause of which is as follows: "That the House of Representatives and Senate approve the recommendation of the President for              in              submitted to the Congress on              19    .", the first blank space therein to be filled in with appropriate activity, the second blank space therein to be filled in with the name or description of the area of land affected by the activity, and the third blank space therein to be filled with the date on which the President submits his recommendation to the House of Representatives and the Senate. Such resolution may also include material relating to the application and effect of the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] to the recommendation.
+For purposes of this section, the term "resolution" means a joint resolution, the resolving clause of which is as follows: "That the House of Representatives and Senate approve the recommendation of the President for              in              submitted to the Congress on              19    .", the first blank space therein to be filled in with appropriate activity, the second blank space therein to be filled in with the name or description of the area of land affected by the activity, and the third blank space therein to be filled with the date on which the President submits his recommendation to the House of Representatives and the Senate. Such resolution may also include material relating to the application and effect of the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\] to the recommendation.
 
 #### (c) Referral
 
@@ -21,6 +21,8 @@ A resolution once introduced with respect to such Presidential recommendation sh
 Except as otherwise provided in this section the provisions of section 719f(d) of title 15 shall apply to the consideration of the resolution.
 
 (Pub. L. 96–487, title XV, §1503, Dec. 2, 1980, 94 Stat. 2550.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

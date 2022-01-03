@@ -12,7 +12,7 @@ The partnership shall facilitate the establishment of a Civic Health Assessment 
 
 &emsp;(2) obtaining civic health data relating to the Civic Health Assessment, in accordance with subsection (d); and
 
-&emsp;(3) conducting related analyses, and reporting the data and analyses, as described inparagraphs (4) and (5) of subsection (d) and subsections (e) and (f).
+&emsp;(3) conducting related analyses, and reporting the data and analyses, as described in paragraphs (4) and (5) of subsection (d) and subsections (e) and (f).
 
 #### (c) Selection of indicators for Civic Health Assessment
 
@@ -130,9 +130,13 @@ Nothing in this chapter shall be construed to authorize the development, impleme
 
 (Pub. L. 101–610, title I, §179A, as added Pub. L. 111–13, title I, §1608(a), Apr. 21, 2009, 123 Stat. 1534.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (h), was in the original "this Act", meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

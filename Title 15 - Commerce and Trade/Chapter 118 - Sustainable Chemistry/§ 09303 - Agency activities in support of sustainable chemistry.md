@@ -20,7 +20,7 @@ The activities described in subsection (a) shall—
 
 &emsp;&emsp;(E) grants, loans, and loan guarantees to aid in the technology transfer and commercialization of sustainable chemicals, materials, processes, and products;
 
-&emsp;(2) collect and disseminate information on sustainable chemistry research, development, technology transfer, and commercialization, including information on accomplishments and best practices;
+&emsp;(2) collect and disseminate information on sustainable chemistry research, development,technology transfer, and commercialization, including information on accomplishments and best practices;
 
 &emsp;(3) expand the education and training of students at appropriate levels of education, professional scientists and engineers, and other professionals involved in all aspects of sustainable chemistry and engineering appropriate to that level of education and training, including through—
 

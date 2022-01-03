@@ -28,7 +28,7 @@
 
 Subsec. (i). Pub. L. 115–282, §123(b)(2), substituted "section 2121" for "section 271".
 
-<b>2006</b>—Subsec. (f). Pub. L. 109–241 substituted "Original appointments under this section in the grades of lieutenant commander and above shall be made by the President by and with the advice and consent of the Senate. Original appointments under this section in the grades of ensign through lieutenant shall be made by the President alone." for "An appointment under this section to a grade above captain shall be made by the President by and with the advice and consent of the Senate. An appointment under this section to grade above lieutenant commander of an officer in the Coast Guard Reserve shall be made by the President, by and with the advice and consent of the Senate."
+<b>2006</b>—Subsec. (f). Pub. L. 109–241 substituted "Original appointments under this section in the grades of lieutenant commander and above shall be made by the President by and with the advice and consent of the Senate. Original appointments under this section in the grades of ensign through lieutenant shall be made by the President alone." for "An appointment under thissection to a grade above captain shall be made by the President by and with the advice and consent of the Senate. An appointment under this section to grade above lieutenant commander of an officer in the Coast Guard Reserve shall be made by the President, by and with the advice and consent of the Senate."
 
 <b>1983</b>—Subsec. (d). Pub. L. 97–417 repealed subsec. (d) which had established the grade of commodore in the Coast Guard for the purposes of this section.
 

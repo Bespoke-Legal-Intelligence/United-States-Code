@@ -90,6 +90,8 @@ The authority to select averages and statistically valid samples shall rest excl
 
 (June 17, 1930, ch. 497, title VII, §777A, as added Pub. L. 98–573, title VI, §620(a), Oct. 30, 1984, 98 Stat. 3039; amended Pub. L. 103–465, title II, §§229(a), 269(a), (b)(1), Dec. 8, 1994, 108 Stat. 4889, 4916; Pub. L. 112–99, §2(a), Mar. 13, 2012, 126 Stat. 265.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Subsec. (f). Pub. L. 112–99 added subsec. (f).
@@ -99,6 +101,8 @@ The authority to select averages and statistically valid samples shall rest excl
 Pub. L. 103–465, §269(a), added subsec. (e).
 
 Pub. L. 103–465, §229(a), amended section generally, substituting present provisions for provisions authorizing use of averaging or generally recognized sampling techniques for purposes of determining United States price or foreign market value and for purposes of annual reviews under section 1675 of this title, and providing for selection of samples and averages by administering authority.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

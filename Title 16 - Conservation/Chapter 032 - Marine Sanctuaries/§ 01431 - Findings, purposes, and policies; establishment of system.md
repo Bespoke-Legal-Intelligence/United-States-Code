@@ -46,6 +46,8 @@ There is established the National Marine Sanctuary System, which shall consist o
 
 (Pub. L. 92–532, title III, §301, Oct. 23, 1972, 86 Stat. 1061; Pub. L. 96–332, §1, Aug. 29, 1980, 94 Stat. 1057; Pub. L. 98–498, title I, §102, Oct. 19, 1984, 98 Stat. 2296; Pub. L. 102–587, title II, §2101, Nov. 4, 1992, 106 Stat. 5039; Pub. L. 104–283, §9(a), Oct. 11, 1996, 110 Stat. 3367; Pub. L. 106–513, §3, Nov. 13, 2000, 114 Stat. 2381.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Pub. L. 106–513, §3(a), inserted "; establishment of system" at end of section catchline.
@@ -100,6 +102,8 @@ Subsec. (b). Pub. L. 102–587, §2101(b), amended subsec. (b) generally. Prior 
 
 <b>1980</b>—Pub. L. 96–332 inserted provisions defining "State".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title of 2000 Amendment
 
 Pub. L. 106–513, §1, Nov. 13, 2000, 114 Stat. 2381, provided that: "This Act \[enacting section 1445c of this title and amending this section and sections 1432 to 1434, 1436, 1437, and 1439 to 1445b of this title\] may be cited as the 'National Marine Sanctuaries Amendments Act of 2000'."
@@ -130,6 +134,8 @@ Pub. L. 113–281, title VI, §610, Dec. 18, 2014, 128 Stat. 3064, as amended by
 
 For statement of Congressional findings, policy, and declaration of purpose of Pub. L. 92–532 which enacted this chapter and chapter 27 of Title 33, Navigation and Navigable Waters, see section 1401 of Title 33.
 
+#### <b>Executive Documents</b>
+
 #### Environmental Effects Abroad of Major Federal Actions
 
 For provisions relating to environmental effects abroad of major federal actions, see Ex. Ord. No. 12114, Jan. 4, 1979, 44 F.R. 1957, set out as a note under section 4321 of Title 42, The Public Health and Welfare.
@@ -146,7 +152,7 @@ Ex. Ord. No. 11752, Dec. 17, 1973, 38 F.R. 34793, set out as a note under sectio
 
 Ex. Ord. No. 13158, May 26, 2000, 65 F.R. 34909, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America and in furtherance of the purposes of the National Marine Sanctuaries Act (16 U.S.C. 1431 <i>et seq</i>.), National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd-ee) \[16 U.S.C. 668dd–668ee\], National Park Service Organic Act (\[former\] 16 U.S.C. 1 <i>et seq</i>.) \[see 18 U.S.C. 1865(a), 54 U.S.C. 100101(a), 100301 et seq., 100751(a), 100752, 100753, 102101\], National Historic Preservation Act (\[former\] 16 U.S.C. 470 <i>et seq</i>.) \[see 54 U.S.C. 300101 et seq.\], Wilderness Act (16 U.S.C. 1131 <i>et seq</i>.), Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 <i>et seq</i>.), Coastal Zone Management Act \[of 1972\] (16 U.S.C. 1451 <i>et seq</i>.), Endangered Species Act of 1973 (16 U.S.C. 1531 <i>et seq</i>.), Marine Mammal Protection Act \[of 1972\] (16 U.S.C. 1362 \[1361\] <i>et seq</i>.), Clean Water Act of 1977 (33 U.S.C. 1251 <i>et seq</i>.), National Environmental Policy Act \[of 1969\], as amended (42 U.S.C. 4321 <i>et seq</i>.), Outer Continental Shelf LandsAct (42 \[43\] U.S.C. 1331 <i>et seq</i>.), and other pertinent statutes, it is ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America and in furtherance of the purposes of the National Marine Sanctuaries Act (16 U.S.C. 1431 <i>et seq</i>.), National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd-ee) \[16 U.S.C. 668dd–668ee\], National Park Service Organic Act (\[former\] 16 U.S.C. 1 <i>et seq</i>.) \[see 18 U.S.C. 1865(a), 54 U.S.C. 100101(a), 100301 et seq., 100751(a), 100752, 100753, 102101\], National Historic Preservation Act (\[former\] 16 U.S.C. 470 <i>et seq</i>.) \[see 54 U.S.C. 300101 et seq.\], Wilderness Act (16 U.S.C. 1131 <i>et seq</i>.), Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 <i>et seq</i>.), Coastal Zone Management Act \[of 1972\] (16 U.S.C. 1451 <i>et seq</i>.), Endangered Species Act of 1973 (16 U.S.C. 1531 <i>et seq</i>.), Marine Mammal Protection Act \[of 1972\] (16 U.S.C. 1362 \[1361\] <i>et seq</i>.), Clean Water Act of 1977 (33 U.S.C. 1251 <i>et seq</i>.), National Environmental Policy Act \[of 1969\], as amended (42 U.S.C. 4321 <i>et seq</i>.), Outer Continental Shelf Lands Act (42 \[43\] U.S.C. 1331 <i>et seq</i>.), and other pertinent statutes, it is ordered as follows:
 
 Section 1. <i>Purpose</i>. This Executive Order will help protect the significant natural and cultural resources within the marine environment for the benefit of present and future generations by strengthening and expanding the Nation's system of marine protected areas (MPAs). An expanded and strengthened comprehensive system of marine protected areas throughout the marine environment would enhance the conservation of our Nation's natural and cultural marine heritage and the ecologically and economically sustainable use of the marine environment for future generations. To this end, the purpose of this order is to, consistent with domestic and international law: (a) strengthen the management, protection, and conservation of existing marine protected areas and establish new or expanded MPAs; (b) develop a scientifically based, comprehensive national system of MPAs representing diverse U.S. marine ecosystems, and the Nation's natural and cultural resources; and (c) avoid causing harm to MPAs through federally conducted, approved, or funded activities.
 
@@ -182,13 +188,13 @@ Sec. 4. <i>National System of MPAs</i>. (a) To the extent permitted by law and s
 
 (d) The Secretary of Commerce and the Secretary of the Interior shall establish and jointly manage a website for information on MPAs and Federal agency reports required by this order. They shall also publish and maintain a list of MPAs that meet the definition of MPA for the purposes of this order.
 
-(e) The Department of Commerce's National Oceanic and Atmospheric Administration shall establish a Marine Protected Area Center to carry out, in cooperation with the Department of the Interior, the requirements of subsection 4(a) of this order, coordinate the website established pursuant to subsection 4(d) of this order, and partner with governmental and nongovernmental entities to conduct necessary research, analysis, and exploration. The goal of the MPA Center shall be, in cooperation with the Department of the Interior, to develop a framework for a national system of MPAs, and to provide Federal, State, territorial, tribal, and local governments with the information, technologies, and strategies to support the system. This national system framework and the work of the MPA Center is intended to support, not interfere with, agencies' independent exercise of their own existing authorities.
+(e) The Department of Commerce's National Oceanic and Atmospheric Administration shall establish a Marine Protected Area Center to carry out, in cooperation with the Department of the Interior, the requirements of subsection 4(a) of this order, coordinate the website established pursuant to subsection 4(d) of this order, and partner with governmental and nongovernmental entities to conduct necessary research, analysis, andexploration. The goal of the MPA Center shall be, in cooperation with the Department of the Interior, to develop a framework for a national system of MPAs, and to provide Federal, State, territorial, tribal, and local governments with the information, technologies, and strategies to support the system. This national system framework and the work of the MPA Center is intended to support, not interfere with, agencies' independent exercise of their own existing authorities.
 
 (f) To better protect beaches, coasts, and the marine environment from pollution, the Environmental Protection Agency (EPA), relying upon existing Clean Water Act \[33 U.S.C. 1251 et seq.\] authorities, shall expeditiously propose new science-based regulations, as necessary, to ensure appropriate levels of protection for the marine environment. Such regulations may include the identification of areas that warrant additional pollution protections and the enhancement of marine water quality standards. The EPA shall consult with the Federal agencies identified in subsection 4(a) of this order, States, territories, tribes, and the public in the development of such new regulations.
 
 Sec. 5. <i>Agency Responsibilities</i>. Each Federal agency whose actions affect the natural or cultural resources that are protected by an MPA shall identify such actions. To the extent permitted by law and to the maximum extent practicable, each Federal agency, in taking such actions, shall avoid harm to the natural and cultural resources that are protected by an MPA. In implementing this section, each Federal agency shall refer to the MPAs identified under subsection 4(d) of this order.
 
-Sec. 6. <i>Accountability</i>. Each Federal agency that is required to take actions under this order shall prepare and make public annually a concise description of actions taken by it in the previous year to implement the order, including a description of written comments byany person or organization stating that the agency has not complied with this order and a response to such comments by the agency.
+Sec. 6. <i>Accountability</i>. Each Federal agency that is required to take actions under this order shall prepare and make public annually a concise description of actions taken by it in the previous year to implement the order, including a description of written comments by any person or organization stating that the agency has not complied with this order and a response to such comments by the agency.
 
 Sec. 7. <i>International Law</i>. Federal agencies taking actions pursuant to this Executive Order must act in accordance with international law and with Presidential Proclamation 5928 of December 27, 1988, on the Territorial Sea of the United States of America \[43 U.S.C. 1331 note\], Presidential Proclamation 5030 of March 10, 1983, on the Exclusive Economic Zone of the United States of America \[16 U.S.C. 1453 note\], and Presidential Proclamation 7219 of September 2, 1999, on the Contiguous Zone of the United States \[43 U.S.C. 1331 note\].
 

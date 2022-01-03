@@ -32,13 +32,15 @@ Funds allotted to a State under this section—
 
 (Pub. L. 93–247, title II, §203, as added Pub. L. 104–235, title I, §121, Oct. 3, 1996, 110 Stat. 3082; amended Pub. L. 108–36, title I, §123, June 25, 2003, 117 Stat. 815; Pub. L. 111–320, title I, §134, Dec. 20, 2010, 124 Stat. 3479.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 5116i of this title, referred to in subsecs. (a) and (b)(1), was in the original "section 210", and was translated as meaning section 209 of Pub. L. 93–247 to reflect the probable intent of Congress and the redesignation of section 210 as 209 by Pub. L. 111–320, title I, §141, Dec. 20, 2010, 124 Stat. 3482.
 
 #### Prior Provisions
 
-A prior section 5116b, Pub. L. 93–247, title II, §203, formerly Pub. L. 98–473, title IV, §404, Oct. 12, 1984, 98 Stat. 2197; renumbered §203 of Pub. L. 93–247, and amended Pub. L. 101–126, §§2(a), 3(a)(3), (c)(1), 4(c), 5, Oct. 25, 1989, 103 Stat. 764, 766–768; Pub. L. 102–295, title I, §122, May 28, 1992, 106 Stat. 198, authorized Secretary to make grants and authorized appropriations to carry out this subchapter, prior to the general amendment of this subchapter by Pub. L. 103–252, §401(a).
+A prior section 5116b, Pub. L. 93–247, title II, §203, formerly Pub. L. 98–473, title IV, §404, Oct. 12, 1984, 98 Stat.2197; renumbered §203 of Pub. L. 93–247, and amended Pub. L. 101–126, §§2(a), 3(a)(3), (c)(1), 4(c), 5, Oct. 25, 1989, 103 Stat. 764, 766–768; Pub. L. 102–295, title I, §122, May 28, 1992, 106 Stat. 198, authorized Secretary to make grants and authorized appropriations to carry out this subchapter, prior to the general amendment of this subchapter by Pub. L. 103–252, §401(a).
 
 #### Amendments
 

@@ -18,7 +18,7 @@ Congress makes the following findings:
 
 It is the sense of the Congress that—
 
-&emsp;(1) Congress and the President should work together, without undue delay and in concert with the international community, to make comprehensive debt relief available to the world's poorest countries in a manner that promotes economic growth and poverty alleviation;
+&emsp;(1) Congress and the President should work together, without undue delay and in concert with the international community, to makecomprehensive debt relief available to the world's poorest countries in a manner that promotes economic growth and poverty alleviation;
 
 &emsp;(2) this program of bilateral and multilateral debt relief should be designed to strengthen and expand the private sector, encourage increased trade and investment, support the development of free markets, and promote broad-scale economic growth in beneficiary countries;
 

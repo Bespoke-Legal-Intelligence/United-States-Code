@@ -48,7 +48,7 @@ The functions of the Foundation shall be the planning, development, and implemen
 
 #### (4) Meetings
 
-&emsp;The Board shall meet at the call of the Chairman and there shall be at least twomeetings each year. A majority of the voting members of the Board serving at any one time shall constitute a quorum for the transaction of business. The Foundation shall have an official seal, which shall be judicially noticed. Voting membership on the Board shall not be deemed to be an office within the meaning of the laws of the United States.
+&emsp;The Board shall meet at the call of the Chairman and there shall be at least two meetings each year. A majority of the voting members of the Board serving at any one time shall constitute a quorum for the transaction of business. The Foundation shall have an official seal, which shall be judicially noticed. Voting membership on the Board shall not be deemed to be an office within the meaning of the laws of the United States.
 
 #### (d) Compensation and expenses
 
@@ -80,7 +80,7 @@ The Foundation shall have the power to enter into contracts, to execute instrume
 
 #### (1) In general
 
-&emsp;In carrying out the provisions of this section, the Board may adopt bylaws, rules, and regulations necessary for the administration of its functions and may hire officers and employees and contract for any other necessary services. Such officers and employees shall be appointed without regard to the provisions of title 5 governing appointments in the competitive service and may be paid without regard to the provisions of chapters 51 and 53 of such title relating to classification and General Schedule pay rates.
+&emsp;In carrying out the provisions of this section, the Board may adopt bylaws, rules, and regulations necessary for the administration of its functions and may hire officers and employees and contract for any other necessary services. Such officers and employees shall be appointed without regard to the provisions oftitle 5 governing appointments in the competitive service and may be paid without regard to the provisions of chapters 51 and 53 of such title relating to classification and General Schedule pay rates.
 
 #### (2) Services
 

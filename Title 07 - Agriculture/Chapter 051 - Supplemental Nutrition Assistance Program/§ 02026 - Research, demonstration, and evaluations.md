@@ -106,7 +106,7 @@ Response to waivers.—
 
 &emsp;(i)
 
-Response.—Not later than 60 days after the date of receiving a request for a waiver under subparagraph (A), the Secretary shall provide a response that—
+Response.—Not later than 60 days after the date of receiving a request for a waiverunder subparagraph (A), the Secretary shall provide a response that—
 
 &emsp;&emsp;(I) approves the waiver request;
 
@@ -130,7 +130,7 @@ Notice of denial.—On denial of a waiver request under clause (i)(III), the Sec
 
 (C) A State seeking such a waiver shall provide assurances that the resulting employment and training program shall meet the requirements of subsections (a)(19) and (g) of section 402 <sup>1</sup> of such Act (42 U.S.C. 602) (but not including the provision of transitional benefits under clauses (ii) through (vii) of section 402(g)(1)(A) <sup>1</sup>) and sections 481 through 487 <sup>1</sup> of such Act (42 U.S.C. 681 through 687). Each reference to "aid to families with dependent children" in such sections shall be deemed to be a reference to supplemental nutrition assistance program benefits for purposes of the demonstration project.
 
-(D) Notwithstanding the other provisions of this paragraph, participation in an employmentand training activity in which supplemental nutrition assistance program benefits are converted to cash shall occur only with the consent of the participant.
+(D) Notwithstanding the other provisions of this paragraph, participation in an employment and training activity in which supplemental nutrition assistance program benefits are converted to cash shall occur only with the consent of the participant.
 
 (E) For the purposes of any project conducted under this paragraph, the provisions of this chapter affecting the rights of recipients may be waived to the extent necessary to conform to the provisions of section 402, and sections 481 through 487,<sup>1</sup> of the Social Security Act.
 
@@ -210,7 +210,7 @@ The Secretary shall conduct a study of the effects of reductions made in benefit
 
 #### (f) Demonstration projects for development and use of intelligent benefit cards to pay benefits
 
-In order to encourage States to plan, design, develop, and implement a system for making supplemental nutrition assistance program benefits available through the use of intelligent benefit cards or other automated or electronic benefit delivery systems, the Secretary may conduct one or more pilot or experimental projects, subject to the restrictions imposed by subsection (b)(1) and section 2016(f)(2) of this title, designed to test whether the use of such cards or systems can enhance the efficiency and effectiveness of program operations while ensuring that individuals receive correct benefit amounts on a timely basis. Intelligent benefit cards developed under such a demonstration project shall contain information, encoded on a computer chip embedded in a credit card medium, including the eligibility of the individual and the amount of benefits to which such individual is entitled. Any other automated or electronic benefit delivery system developed under such a demonstration project shall be able to use a plastic card to access such information from a data file.
+In order to encourage States to plan, design, develop, and implement a system for making supplemental nutrition assistance program benefits available through the use of intelligentbenefit cards or other automated or electronic benefit delivery systems, the Secretary may conduct one or more pilot or experimental projects, subject to the restrictions imposed by subsection (b)(1) and section 2016(f)(2) of this title, designed to test whether the use of such cards or systems can enhance the efficiency and effectiveness of program operations while ensuring that individuals receive correct benefit amounts on a timely basis. Intelligent benefit cards developed under such a demonstration project shall contain information, encoded on a computer chip embedded in a credit card medium, including the eligibility of the individual and the amount of benefits to which such individual is entitled. Any other automated or electronic benefit delivery system developed under such a demonstration project shall be able to use a plastic card to access such information from a data file.
 
 #### (g) Study of effectiveness of employment and training programs
 
@@ -228,7 +228,7 @@ The Secretary shall conduct a sufficient number of demonstration projects to eva
 
 &emsp;(1) any licensed vehicle that is used to produce earned income, necessary for transportation of an elderly or physically disabled household member, or used as the household's home; and
 
-&emsp;(2) one licensed vehicle used to obtain, continue, or seek employment (including travel toand from work), used to pursue employment-related education or training, or used to secure food or the benefits of the supplemental nutrition assistance program.
+&emsp;(2) one licensed vehicle used to obtain, continue, or seek employment (including travel to and from work), used to pursue employment-related education or training, or used to secure food or the benefits of the supplemental nutrition assistance program.
 
 #### (i) Testing resource accumulation
 
@@ -520,6 +520,8 @@ Subject to the requirements of this chapter, including protections under section
 
 (Pub. L. 88–525, §17, as added Pub. L. 93–86, §3(n), Aug. 10, 1973, 87 Stat. 248; amended Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 977; Pub. L. 95–400, Sept. 30, 1978, 92 Stat. 856; Pub. L. 96–249, title I, §§130–132(a), 133, May 26, 1980, 94 Stat. 367, 368; Pub. L. 97–98, title XIII, §§1328–1330, Dec. 22, 1981, 95 Stat. 1289, 1290; Pub. L. 97–253, title I, §§152(c), 181, 182, 190(d), Sept. 8, 1982, 96 Stat. 776, 784, 785, 787; Pub. L. 99–114, §4, Oct. 1, 1985, 99 Stat. 488; Pub. L. 99–157, §2, Nov. 15, 1985, 99 Stat. 818; Pub. L. 99–182, §2, Dec. 13, 1985, 99 Stat. 1173; Pub. L. 99–198, title XV, §1540, Dec. 23, 1985, 99 Stat. 1588; Pub. L. 100–435, title V, §§504, 505, Sept. 19, 1988, 102 Stat. 1673; Pub. L. 101–624, title XVII, §§1729(b), 1731, 1754–1759, Nov. 28, 1990, 104 Stat. 3790, 3798–3800, 3802; Pub. L. 102–237, title IX, §941(8), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 103–66, title XIII, §13925, Aug. 10, 1993, 107 Stat. 675; Pub. L. 103–225, title II, §204, Mar. 25, 1994, 108 Stat. 109; Pub. L. 104–127, title IV, §401(c), (d), Apr. 4, 1996, 110 Stat. 1026; Pub. L. 104–193, title I, §109(d), title VIII, §§815(b)(1), 850–852, 854(c)(2), Aug. 22, 1996, 110 Stat. 2169, 2317, 2336–2338, 2342; Pub. L. 105–18, title VII, \[(b)\], June 12, 1997, 111 Stat. 217; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(2)(C), (f)(2)(C)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–418, 2681–429; Pub. L. 107–171, title IV, §§4112(b)(4), 4116(b), 4122(b), 4123(a), May 13, 2002, 116 Stat. 313, 316, 324; Pub. L. 110–234, title IV, §§4001(b), 4002(a)(9), 4115(b)(12), 4141, 4406(a)(5), May 22, 2008, 122 Stat. 1092, 1094, 1108, 1117, 1141; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4002(a)(9), 4115(b)(12), 4141, 4406(a)(5), June 18, 2008, 122 Stat. 1664, 1853, 1855, 1869, 1879, 1902; Pub. L. 113–79, title IV, §§4022(b)(3), 4023, Feb. 7, 2014, 128 Stat. 808, 809; Pub. L. 113–128, title V, §512(l)(3), July 22, 2014, 128 Stat. 1709; Pub. L. 115–334, title IV, §§4005(e), 4014, 4015(a), 4022(7), Dec. 20, 2018, 132 Stat. 4634, 4643–4645, 4653.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Social Security Act, referred to in subsecs. (b)(1)(B)(v), (vi), (2)(A), (B), (I), (d)(1)(B), (3)(C), and (m)(2)(A)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title IV, part A of title IV, title XVI, and title XIX of the Act are classified generally to subchapter IV (§601 et seq.), part A (§601 et seq.) of subchapter IV, subchapter XVI (§1381 et seq.), and subchapter XIX (§1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Part F of title IV of the Act was classified generally to part F (§681 et seq.) of subchapter IV of chapter 7 of Title 42, prior to repeal by Pub. L. 104–193, title I, §108(e), Aug. 22, 1996, 110 Stat. 2167. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
@@ -727,6 +729,8 @@ Subsec. (e). Pub. L. 96–249, §133, added subsec. (e).
 <b>1978</b>—Subsec. (b)(2). Pub. L. 95–400 required issuance of an interim report no later than Oct. 1, 1979, and substituted requirement for issuance of a final report no later than Oct. 1, 1980, for prior requirement of a final report no later than eighteen months following Sept. 29, 1977.
 
 <b>1977</b>—Pub. L. 95–113 substituted provisions relating to research, demonstrations, and evaluations for provisions relating to the purchase with coupons of hunting and fishing equipment for procuring food by members of eligible households living in Alaska.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

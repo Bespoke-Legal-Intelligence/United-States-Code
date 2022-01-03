@@ -22,6 +22,8 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §902(j); added Sept. 5, 1961, Pu
 
 The words "or threatens" are omitted as being included in "intimidating". The words "(including any steward or stewardess)" are omitted as being included in "attendant". The words "fined under title 18" are substituted for "fined not more than $10,000" for consistency with title 18. The words "deadly or" are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2001</b>—Pub. L. 107–56 inserted "or attempts or conspires to do such an act," before "shall be fined under title 18,".

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Attorney General shall make grants to promote the use of forensic DNA technology toidentify missing persons and unidentified human remains.
+The Attorney General shall make grants to promote the use of forensic DNA technology to identify missing persons and unidentified human remains.
 
 #### (b) Requirement
 

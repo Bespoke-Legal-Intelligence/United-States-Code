@@ -26,6 +26,8 @@ This section (other than subsection (e) <sup>1</sup>) shall be effective during
 
 (Pub. L. 104–127, title I, §145, Apr. 4, 1996, 110 Stat. 917.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is comprised of section 145 of Pub. L. 104–127. Subsec. (e) of section 145 of Pub. L. 104–127 repealed section 1446e–1 of this title and enacted provisions set out as a note under section 1446e–1 of this title.

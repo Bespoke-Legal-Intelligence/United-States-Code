@@ -36,7 +36,7 @@ There is hereby established the Pinelands National Reserve which shall consist o
 
 #### (d) State planning entity for development of comprehensive management plan; membership; representation of interests; assistance and grants to State
 
-Within thirty days after November 10, 1978, the Secretary of the Interior (hereinafter referred to as the "Secretary") shall request the Governor of the State of New Jersey to establish, within ninety days of such request, a planning entity to develop a comprehensive management plan for the Pinelands National Reserve. In order to carry out the purposes of this section, such planning entity shall be composed of fifteen members to be appointed as follows: one member appointed by the Secretary; one member from each of the seven counties in the Pinelands National Reserve to be appointed by the respective governing bodies of each county; and seven members to be appointed by the Governor. The membership of the planning entity shall include residents of the Pinelands National Reserve who represent economic activities such as agriculture in the area, as well as residents of New Jersey who represent conservation interests. The Secretary shall provide technical assistanceand grants to the State for the development of the plan or revisions thereof: <i>Provided</i>, That such grants shall not exceed 75 percent of the cost of developing the plan, shall be made only upon application of the Governor, on behalf of the planning entity, and shall be subject to such other conditions as the Secretary may deem appropriate to assure State and local interim protection of the area.
+Within thirty days after November 10, 1978, the Secretary of the Interior (hereinafter referred to as the "Secretary") shall request the Governor of the State of New Jersey to establish, within ninety days of such request, a planning entity to develop a comprehensive management plan for the Pinelands National Reserve. In order to carry out the purposes of this section, such planning entity shall be composed of fifteen members to be appointed as follows: one member appointed by the Secretary; one member from each of the seven counties in the Pinelands National Reserve to be appointed by the respective governing bodies of each county; and seven members to be appointed by the Governor. The membership of the planning entity shall include residents of the Pinelands National Reserve who represent economic activities such as agriculture in the area, as well as residents of New Jersey who represent conservation interests. The Secretary shall provide technical assistance and grants to the State for the development of the plan or revisions thereof: <i>Provided</i>, That such grants shall not exceed 75 percent of the cost of developing the plan, shall be made only upon application of the Governor, on behalf of the planning entity, and shall be subject to such other conditions as the Secretary may deem appropriate to assure State and local interim protection of the area.
 
 #### (e) Planning entity consultations; public hearings
 
@@ -152,7 +152,7 @@ Nothing in this section shall be construed to limit or prohibit any Federal acti
 
 &emsp;(B) lands that are within the areas protected by the management plan and that are threatened by adverse development or have critical ecological values; or
 
-&emsp;(C) lands that have limited practical use because of their location in the Reserve and that are held by landowners who both own less than50 acres in the Reserve and have exhausted existing remedies to secure relief.
+&emsp;(C) lands that have limited practical use because of their location in the Reserve and that are held by landowners who both own less than 50 acres in the Reserve and have exhausted existing remedies to secure relief.
 
 > Additional funds contributed by the State to the Pinelands Development Bank after enactment of this Act, not to exceed $5,000,000, may be counted as part of the State share of land acquisition funds.
 
@@ -187,6 +187,8 @@ Nothing in this section shall be construed to limit or prohibit any Federal acti
 &emsp;The Secretary may enter into such contracts and agreements with the State of New Jersey and other public and private entities as may be necessary and appropriate to carry out the authorities and responsibilities of the Secretary under this subsection. For purposes of this subsection, there is authorized to be appropriated not more than $500,000 to prepare and complete the study pursuant to paragraph (1) and $3,000,000 to implement the recommendations of such study upon its approval by the Congress, the Federal share of which may not exceed 75 percent of the total cost.
 
 (Pub. L. 95–625, title V, §502, Nov. 10, 1978, 92 Stat. 3492; Pub. L. 100–486, Oct. 13, 1988, 102 Stat. 2429; Pub. L. 113–287, §5(d)(10), Dec. 19, 2014, 128 Stat. 3265.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

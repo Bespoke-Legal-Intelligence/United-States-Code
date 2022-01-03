@@ -134,7 +134,9 @@
 
 &emsp;Any reference in this subsection to section 922, 923, or 927 shall be treated as a reference to such section as in effect before its repeal by the FSC Repeal and Extraterritorial Income Exclusion Act of 2000.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 73; Pub. L. 87–834, §5(c), Oct. 16, 1962, 76 Stat. 977; Pub. L. 89–809, title I, §104(d), (e), Nov. 13, 1966, 80 Stat. 1558; Pub. L. 98–369, div. A, title VIII, §801(b)(1), (2)(B), July 18, 1984, 98 Stat. 994, 995; Pub. L. 99–514, title XII, §1226(a), title XVIII, §1876(d)(1), (j), Oct. 22, 1986, 100 Stat. 2559, 2898, 2900; Pub. L. 100–203, title X, §10221(d)(1), Dec. 22, 1987, 101 Stat. 1330–409; Pub. L. 100–647, title I, §§1006(e)(16), 1012(l)(2), (3), (bb)(9)(A), Nov. 10, 1988, 102 Stat. 3403, 3513, 3537; Pub. L. 101–239,title VII, §7811(i)(14), Dec. 19, 1989, 103 Stat. 2411; Pub. L. 108–357, title IV, §413(c)(3), Oct. 22, 2004, 118 Stat. 1507; Pub. L. 110–172, §11(g)(3), (4), Dec. 29, 2007, 121 Stat. 2490; Pub. L. 114–113, div. Q, title III, §326(a), Dec. 18, 2015, 129 Stat. 3103; Pub. L. 115–97, title I, §§13002(b), 14301(c)(2), (3), Dec. 22, 2017, 131 Stat. 2100, 2222.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 73; Pub. L. 87–834, §5(c), Oct. 16, 1962, 76 Stat. 977; Pub. L. 89–809, title I, §104(d), (e), Nov. 13, 1966, 80 Stat. 1558; Pub. L. 98–369, div. A, title VIII, §801(b)(1), (2)(B), July 18, 1984, 98 Stat. 994, 995; Pub. L. 99–514, title XII, §1226(a), title XVIII, §1876(d)(1), (j), Oct. 22, 1986, 100 Stat. 2559, 2898, 2900; Pub. L. 100–203, title X, §10221(d)(1), Dec. 22, 1987, 101 Stat. 1330–409; Pub. L. 100–647, title I, §§1006(e)(16), 1012(l)(2), (3), (bb)(9)(A), Nov. 10, 1988, 102 Stat. 3403, 3513, 3537; Pub. L. 101–239, title VII, §7811(i)(14), Dec. 19, 1989, 103 Stat. 2411; Pub. L. 108–357, title IV, §413(c)(3), Oct. 22, 2004, 118 Stat. 1507; Pub. L. 110–172, §11(g)(3), (4), Dec. 29, 2007, 121 Stat. 2490; Pub. L. 114–113, div. Q, title III, §326(a), Dec. 18, 2015, 129 Stat. 3103; Pub. L. 115–97, title I, §§13002(b), 14301(c)(2), (3), Dec. 22, 2017, 131 Stat. 2100, 2222.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -190,6 +192,8 @@ Subsecs. (b), (c). Pub. L. 89–809, §104(e)(1), (3), added subsec. (b), redesi
 
 <b>1962</b>—Subsec. (b). Pub. L. 87–834 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2017 Amendment
 
 Amendment by section 13002(b) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 13002(f) of Pub. L. 115–97, set out as a note under section 243 of this title.
@@ -198,11 +202,11 @@ Amendment by section 14301(c)(2), (3) of Pub. L. 115–97 applicable to taxable 
 
 #### Effective Date of 2015 Amendment
 
-Pub. L. 114–113, div. Q, title III, §326(b), Dec. 18, 2015, 129 Stat. 3104, provided that: "The amendment made by this section \[amending this section\] shall apply to dividends received from regulated investment companiesand real estate investment trusts on or after the date of the enactment of this Act \[Dec. 18, 2015\]."
+Pub. L. 114–113, div. Q, title III, §326(b), Dec. 18, 2015, 129 Stat. 3104, provided that: "The amendment made by this section \[amending this section\] shall apply to dividends received from regulated investment companies and real estate investment trusts on or after the date of the enactment of this Act \[Dec. 18, 2015\]."
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
+Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31,2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
 
 #### Effective Date of 1989 Amendment
 

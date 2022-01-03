@@ -12,13 +12,15 @@ Within four years after December 2, 1980, and within every three-year period the
 
 &emsp;(5) comments on the Secretary's report by the State, the local advisory councils and regional advisory councils established by the Secretary or the State pursuant to section 3115 of this title, and other appropriate persons and organizations;
 
-&emsp;(6) a description of those actions taken, or which may need to be taken in the future, topermit the opportunity for continuation of activities relating to subsistence uses on the public lands; and
+&emsp;(6) a description of those actions taken, or which may need to be taken in the future, to permit the opportunity for continuation of activities relating to subsistence uses on the public lands; and
 
 &emsp;(7) such other recommendations the Secretary deems appropriate.
 
 > A notice of the report shall be published in the Federal Register and the report shall be made available to the public.
 
 (Pub. L. 96–487, title VIII, §813, Dec. 2, 1980, 94 Stat. 2428.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Reporting Requirements
 

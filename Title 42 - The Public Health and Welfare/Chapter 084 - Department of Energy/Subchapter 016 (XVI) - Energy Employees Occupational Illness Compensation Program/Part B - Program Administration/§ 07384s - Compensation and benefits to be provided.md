@@ -62,7 +62,9 @@ The compensation provided under this section, when authorized or approved by the
 
 This section shall take effect on July 31, 2001, unless Congress otherwise provides in an Act enacted before that date.
 
-(Pub. L. 106–398, §1 \[div. C, title XXXVI, §3628\], Oct. 30, 2000, 114 Stat. 1654, 1654A–506; Pub. L.107–107, div. C, title XXXI, §3151(a)(4)(A), Dec. 28, 2001, 115 Stat. 1372.)
+(Pub. L. 106–398, §1 \[div. C, title XXXVI, §3628\], Oct. 30, 2000, 114 Stat. 1654, 1654A–506; Pub. L. 107–107, div. C, title XXXI, §3151(a)(4)(A), Dec. 28, 2001, 115 Stat. 1372.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -71,6 +73,8 @@ This section shall take effect on July 31, 2001, unless Congress otherwise provi
 "(1) Subject to the provisions of this section, if a covered employee dies before the effective date specified in subsection (f) of this section, whether or not the death is a result of that employee's occupational illness, a survivor of that employee may, on behalf of that survivor and any other survivors of that employee, receive the compensation provided for under this section.
 
 "(2) The right to receive compensation under this section shall be afforded to survivors in the same order of precedence as that set forth in section 8109 of title 5."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2001 Amendment
 

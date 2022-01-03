@@ -38,7 +38,7 @@ The Panama Canal Act Amendments of 1996, referred to in subsec. (b)(3), is subti
 
 The Panama Canal Transition Facilitation Act of 1997, referred to in subsec. (b)(3), is subtitle B of title XXXV of div. C of Pub. L. 105–85, Nov. 18, 1997, 111 Stat. 2062. For complete classification of this Act to the Code, see Short Title of 1997 Amendment note set out under section 3601 of this title and Tables.
 
-The Panama Canal Commission Authorization Act for Fiscal Year 1999, referred to in subsec. (b)(3), is title XXXV of div. C of Pub. L. 105–261, Oct. 17, 1998, 112 Stat. 2267, which amended this section and sections 3612, 3612b, 3620, 3642, 3657, 3664, 3671, 3723, 3731, 3751, 3771, 3772, 3776, 3779, and 3862 of this title, repealed sections 3646, 3647, and 3663 of this title, and enacted provisions set out as notes under section 3657 of this title. For complete classification of this Act to the Code, see Tables.
+The Panama Canal Commission Authorization Act for Fiscal Year 1999, referred to in subsec. (b)(3), is title XXXV of div. C of Pub. L. 105–261, Oct. 17, 1998, 112 Stat. 2267, which amended this section and sections 3612,3612b, 3620, 3642, 3657, 3664, 3671, 3723, 3731, 3751, 3771, 3772, 3776, 3779, and 3862 of this title, repealed sections 3646, 3647, and 3663 of this title, and enacted provisions set out as notes under section 3657 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

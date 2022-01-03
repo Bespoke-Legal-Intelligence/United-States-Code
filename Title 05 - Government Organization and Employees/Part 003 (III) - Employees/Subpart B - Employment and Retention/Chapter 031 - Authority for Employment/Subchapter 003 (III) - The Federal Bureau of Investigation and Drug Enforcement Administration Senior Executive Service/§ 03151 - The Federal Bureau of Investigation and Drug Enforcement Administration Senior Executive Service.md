@@ -64,7 +64,7 @@ Provisions of this title governing appointments and other personnel actions in t
 
 #### Amendments
 
-<b>2005</b>—Subsec. (b). Pub. L. 109–108 struck out par. (1) designation before "Except as provided", redesignatedsubpars. (A) and (B) as pars. (1) and (2), respectively, and struck out former par. (2) which read as follows:
+<b>2005</b>—Subsec. (b). Pub. L. 109–108 struck out par. (1) designation before "Except as provided", redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, and struck out former par. (2) which read as follows:
 
 "(A) Notwithstanding any other provision of this section, an individual may not be selected for the FBI–DEA Senior Executive Service unless such individual is a career employee in the civil service.
 

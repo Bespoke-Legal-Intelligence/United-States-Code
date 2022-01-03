@@ -58,7 +58,7 @@ This section may be cited as the "Broadband Interagency Coordination Act of 2020
 
 &emsp;&emsp;&emsp;&emsp;(IV) each entity that has received or will receive funds under the programs described in paragraph (2) to provide broadband service in the area; and
 
-&emsp;&emsp;&emsp;(ii) if a covered agency designates any information provided to another coveredagency under clause (i) as confidential, the other covered agency shall protect the confidentiality of that information;
+&emsp;&emsp;&emsp;(ii) if a covered agency designates any information provided to another covered agency under clause (i) as confidential, the other covered agency shall protect the confidentiality of that information;
 
 &emsp;&emsp;(C) consider basing the distribution of funds for broadband deployment under the programs described in paragraph (2) on standardized data regarding broadband coverage; and
 

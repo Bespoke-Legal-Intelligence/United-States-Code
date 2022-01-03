@@ -30,6 +30,8 @@
 
 (Feb. 16, 1938, ch. 30, title III, §359k, as added Pub. L. 110–234, title I, §1403(j), May 22, 2008, 122 Stat. 988, and Pub. L. 110–246, §4(a), title I, §1403(j), June 18, 2008, 122 Stat. 1664, 1717.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
@@ -37,6 +39,8 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 #### Prior Provisions
 
 A prior section 1359kk, act Feb. 16, 1938, ch. 30, title III, §359k, as added Pub. L. 107–171, title I, §1403, May 13, 2002, 116 Stat. 204, related to reallocation of sugar quota import shortfalls in 2002 through 2007 calendar years, prior to repeal by Pub. L. 110–234, title I, §1403(i), May 22, 2008, 122 Stat. 988; Pub. L. 110–246, §4, title I, §1403(i), June 18, 2008, 122 Stat. 1664, 1716, effective May 22, 2008.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

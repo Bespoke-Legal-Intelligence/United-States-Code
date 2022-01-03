@@ -16,7 +16,7 @@ In this chapter:
 
 #### (3) Community conservation
 
-&emsp;The term "community conservation" means an approach to conservation that recognizes the rights of local people to manage, or benefit directly and indirectly from wildlife and other natural resources in a long-term biologically viable manner and includes—
+&emsp;The term "community conservation" means an approach to conservation that recognizesthe rights of local people to manage, or benefit directly and indirectly from wildlife and other natural resources in a long-term biologically viable manner and includes—
 
 &emsp;&emsp;(A) devolving management and governance to local communities to create positive conditions for resource use that takes into account current and future ecological requirements; and
 
@@ -24,7 +24,7 @@ In this chapter:
 
 #### (4) Country of concern
 
-&emsp;The term "country of concern" refers to a foreign country specially designated by theSecretary of State pursuant to subsection (b) of section 7621 of this title as a major source of wildlife trafficking products or their derivatives, a major transit point of wildlife trafficking products or their derivatives, or a major consumer of wildlife trafficking products, in which the government has actively engaged in or knowingly profited from the trafficking of endangered or threatened species.
+&emsp;The term "country of concern" refers to a foreign country specially designated by the Secretary of State pursuant to subsection (b) of section 7621 of this title as a major source of wildlife trafficking products or their derivatives, a major transit point of wildlife trafficking products or their derivatives, or a major consumer of wildlife trafficking products, in which the government has actively engaged in or knowingly profited from the trafficking of endangered or threatened species.
 
 #### (5) Focus country
 
@@ -60,6 +60,8 @@ In this chapter:
 
 (Pub. L. 114–231, §2, Oct. 7, 2016, 130 Stat. 949.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 114–231, Oct. 7, 2016, 130 Stat. 949, known as the Eliminate, Neutralize, and Disrupt Wildlife Trafficking Act of 2016, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
@@ -67,6 +69,8 @@ This chapter, referred to in text, was in the original "this Act", meaning Pub. 
 Executive Order 13648, referred to in pars. (2) and (11), is Ex. Ord. No. 13648, July 1, 2013, 78 F.R. 40621, which is set out as a note under section 1531 of this title.
 
 Section 7621 of this title, referred to in par. (11), was in the original a reference to "section 201" but probably should be a reference "section 301", meaning section 301 of Pub. L. 114–231, which is classified to section 7631 of this title and relates to the Presidential Task Force on Wildlife Trafficking.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

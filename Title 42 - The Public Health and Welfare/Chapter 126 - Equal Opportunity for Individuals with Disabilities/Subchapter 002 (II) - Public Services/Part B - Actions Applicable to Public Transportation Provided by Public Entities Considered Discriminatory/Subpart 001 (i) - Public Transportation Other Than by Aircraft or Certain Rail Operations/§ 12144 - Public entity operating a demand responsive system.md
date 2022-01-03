@@ -4,6 +4,8 @@ If a public entity operates a demand responsive system, it shall be considered d
 
 (Pub. L. 101–336, title II, §224, July 26, 1990, 104 Stat. 342.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective July 26, 1990, see section 231(b) of Pub. L. 101–336, set out as a note under section 12141 of this title.

@@ -208,6 +208,8 @@ The Secretary is authorized to designate financial institutions, including but n
 
 (Pub. L. 116–136, div. A, title IV, §4003, Mar. 27, 2020, 134 Stat. 470; Pub. L. 116–260, div. N, title X, §§1003(b)(1), 1004, Dec. 27, 2020, 134 Stat. 2146.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Credit Reform Act of 1990, referred to in subsec. (a), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
@@ -229,6 +231,8 @@ Subsec. (b)(3). Pub. L. 116–260, §1003(b)(1)(B)(iii), substituted "0" for "$1
 Subsec. (b)(4). Pub. L. 116–260, §1003(b)(1)(B)(iv), substituted "$0" for "$454,000,000,000" in introductory provisions.
 
 Subsec. (e). Pub. L. 116–260, §1004, substituted "Notwithstanding any other provision of law, amounts" for "Amounts" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 

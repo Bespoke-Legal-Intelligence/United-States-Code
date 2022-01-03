@@ -48,7 +48,7 @@ In the case that an individual requests under paragraph (a)(1)(i)(A) of section 
 
 #### (2) Regulations
 
-&emsp;The Secretary shall promulgate regulations on what information shall be collected abouteach disclosure referred to in paragraph (1), not later than 6 months after the date on which the Secretary adopts standards on accounting for disclosure described in the <sup>3</sup> section 300jj–12(b)(2)(B)(iv) of this title, as added by section 13101.<sup>2</sup> Such regulations shall only require such information to be collected through an electronic health record in a manner that takes into account the interests of the individuals in learning the circumstances under which their protected health information is being disclosed and takes into account the administrative burden of accounting for such disclosures.
+&emsp;The Secretary shall promulgate regulations on what information shall be collected about each disclosure referred to in paragraph (1), not later than 6 months after the date on which the Secretary adopts standards on accounting for disclosure described in the <sup>3</sup> section 300jj–12(b)(2)(B)(iv) of this title, as added by section 13101.<sup>2</sup> Such regulations shall only require such information to be collected through an electronic health record in a manner that takes into account the interests of the individuals in learning the circumstances under which their protected health information is being disclosed and takes into account the administrative burden of accounting for such disclosures.
 
 #### (3) Process
 
@@ -110,7 +110,7 @@ In the case that an individual requests under paragraph (a)(1)(i)(A) of section 
 
 &emsp;Not later than 18 months after February 17, 2009, the Secretary shall promulgate regulations to carry out this subsection. In promulgating such regulations, the Secretary—
 
-&emsp;&emsp;(A) shall evaluate the impact of restricting the exception described in paragraph (2)(A) to require that the price charged for the purposes described in such paragraph reflectsthe costs of the preparation and transmittal of the data for such purpose, on research or public health activities, including those conducted by or for the use of the Food and Drug Administration; and
+&emsp;&emsp;(A) shall evaluate the impact of restricting the exception described in paragraph (2)(A) to require that the price charged for the purposes described in such paragraph reflects the costs of the preparation and transmittal of the data for such purpose, on research or public health activities, including those conducted by or for the use of the Food and Drug Administration; and
 
 &emsp;&emsp;(B) may further restrict the exception described in paragraph (2)(A) to require that the price charged for the purposes described in such paragraph reflects the costs of the preparation and transmittal of the data for such purpose, if the Secretary finds that such further restriction will not impede such research or public health activities.
 
@@ -122,13 +122,15 @@ In the case that an individual requests under paragraph (a)(1)(i)(A) of section 
 
 In applying section 164.524 of title 45, Code of Federal Regulations, in the case that a covered entity uses or maintains an electronic health record with respect to protected health information of an individual—
 
-&emsp;(1) the individual shall have a right to obtain from such covered entity a copy of such information in an electronic format and, if the individual chooses, to direct the covered entity to transmit such copy directly to an entity or person designated by the individual, provided that any such choice is clear, conspicuous, and specific;
+&emsp;(1) the individual shall have a right to obtain from such covered entity a copy of such information in an electronic format and, if the individual chooses, to direct the covered entity to transmit such copy directly to an entityor person designated by the individual, provided that any such choice is clear, conspicuous, and specific;
 
 &emsp;(2) if the individual makes a request to a business associate for access to, or a copy of, protected health information about the individual, or if an individual makes a request to a business associate to grant such access to, or transmit such copy directly to, a person or entity designated by the individual, a business associate may provide the individual with such access or copy, which may be in an electronic form, or grant or transmit such access or copy to such person or entity designated by the individual; and
 
 &emsp;(3) notwithstanding paragraph (c)(4) of such section, any fee that the covered entity may impose for providing such individual with a copy of such information (or a summary or explanation of such information) if such copy (or summary or explanation) is in an electronic form shall not be greater than the entity's labor costs in responding to the request for the copy (or summary or explanation).
 
 (Pub. L. 111–5, div. A, title XIII, §13405, Feb. 17, 2009, 123 Stat. 264; Pub. L. 114–255, div. A, title IV, §4006(b), Dec. 13, 2016, 130 Stat. 1183.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -139,6 +141,8 @@ Section 300jj–12(b)(2)(B)(iv) of this title, as added by section 13101, referr
 #### Amendments
 
 <b>2016</b>—Subsec. (e)(2), (3). Pub. L. 114–255 added par. (2) and redesignated former par. (2) as (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

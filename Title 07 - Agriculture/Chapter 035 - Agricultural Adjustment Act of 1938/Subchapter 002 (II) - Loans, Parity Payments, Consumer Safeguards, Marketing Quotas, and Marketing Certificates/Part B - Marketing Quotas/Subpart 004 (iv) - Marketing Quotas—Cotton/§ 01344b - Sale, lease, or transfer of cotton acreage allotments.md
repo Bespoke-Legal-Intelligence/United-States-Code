@@ -2,7 +2,7 @@
 
 #### (a) Authority for calendar years 1966 through 1970; transfer periods
 
-Notwithstanding any other provision of law, the Secretary, if he determines that it will not impair the effective operation of the program involved, (1) may permit the owner and operator of any farm for which a cotton acreage allotment is established to sell or lease all or any part or the right to all or any part of such allotment (excluding that part of the allotment which the Secretary determines was apportionedto the farm from the national acreage reserve) to any other owner or operator of a farm for transfer to such farm; (2) may permit the owner of a farm to transfer all or any part of such allotment to any other farm owned or controlled by him; <i>Provided</i>, That the authority granted under this section may be exercised for the calendar years 1966 through 1970, but all transfers hereunder shall be for such period of years as the parties thereto may agree.
+Notwithstanding any other provision of law, the Secretary, if he determines that it will not impair the effective operation of the program involved, (1) may permit the owner and operator of any farm for which a cotton acreage allotment is established to sell or lease all or any part or the right to all or any part of such allotment (excluding that part of the allotment which the Secretary determines was apportioned to the farm from the national acreage reserve) to any other owner or operator of a farm for transfer to such farm; (2) may permit the owner of a farm to transfer all or any part of such allotment to any other farm owned or controlled by him; <i>Provided</i>, That the authority granted under this section may be exercised for the calendar years 1966 through 1970, but all transfers hereunder shall be for such period of years as the parties thereto may agree.
 
 #### (b) Requisite conditions for transfer of acreage allotments
 
@@ -36,7 +36,9 @@ The Secretary shall by regulations authorize the exchange between farms in the s
 
 The provisions of this section relating to cotton shall apply only to upland cotton.
 
-(Feb. 16, 1938, ch. 30, title III, §344a, as added Pub. L. 89–321, title IV, §405, Nov. 3, 1965, 79 Stat.1197; amended Pub. L. 90–559, §1(2), Oct. 11, 1968, 82 Stat. 996; Pub. L. 91–524, title VI, §601(3)(1), Nov. 30, 1970, 84 Stat. 1372; Pub. L. 93–86, §1(19)(C), (D), Aug. 10, 1973, 87 Stat. 233.)
+(Feb. 16, 1938, ch. 30, title III, §344a, as added Pub. L. 89–321, title IV, §405, Nov. 3, 1965, 79 Stat. 1197; amended Pub. L. 90–559, §1(2), Oct. 11, 1968, 82 Stat. 996; Pub. L. 91–524, title VI, §601(3)(1), Nov. 30, 1970, 84 Stat. 1372; Pub. L. 93–86, §1(19)(C), (D), Aug. 10, 1973, 87 Stat. 233.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -45,6 +47,8 @@ The provisions of this section relating to cotton shall apply only to upland cot
 <b>1970</b>—Subsec. (a). Pub. L. 91–524 temporarily directed Secretary to permit certain types of transfers of all or part of farm base acreage allotments between farms in same State. See Effective and Termination Dates of 1970 Amendment note below.
 
 <b>1968</b>—Subsec. (a). Pub. L. 90–559 provided for a one year extension, substituting "1966 through 1970" for "1966, 1967, 1968, and 1969".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1973 Amendment
 

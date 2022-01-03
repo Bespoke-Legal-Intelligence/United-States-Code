@@ -28,13 +28,15 @@ Motor vehicle or engine part manufacturer.—The term "motor vehicle or engine p
 
 &emsp;(10)
 
-Nonroad engine.—The term "nonroad engine" means an internal combustion engine (including the fuel system) that is not used in a motor vehicle or a vehicle used solely forcompetition, or that is not subject to standards promulgated under section 7411 of this title or section 7521 of this title.
+Nonroad engine.—The term "nonroad engine" means an internal combustion engine (including the fuel system) that is not used in a motor vehicle or a vehicle used solely for competition, or that is not subject to standards promulgated under section 7411 of this title or section 7521 of this title.
 
 &emsp;(11)
 
 Nonroad vehicle.—The term "nonroad vehicle" means a vehicle that is powered by a nonroad engine and that is not a motor vehicle or a vehicle used solely for competition.
 
 (July 14, 1955, ch. 360, title II, §216, formerly §208, as added Pub. L. 89–272, title I, §101(8), Oct. 20, 1965, 79 Stat. 994; renumbered §212, and amended Pub. L. 90–148, §2, Nov. 21, 1967, 81 Stat. 503; renumbered §213, and amended Pub. L. 91–604, §§8(a), 10(d), 11(a)(2)(A), Dec. 31, 1970, 84 Stat. 1694, 1703, 1705; renumbered §214, Pub. L. 93–319, §10, June 22, 1974, 88 Stat. 261; renumbered §216, Pub. L. 95–95, title II, §224(d), Aug. 7, 1977, 91 Stat. 767; Pub. L. 101–549, title II, §223, Nov. 15, 1990, 104 Stat. 2503.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

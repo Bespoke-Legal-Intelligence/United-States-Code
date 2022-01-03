@@ -14,7 +14,7 @@ Section was formerly classified to section 61g of this title prior to editorial 
 
 <b>2019</b>—Pub. L. 116–94 repealed Pub. L. 94–59, §105. See 1975 Amendment note below.
 
-<b>1977</b>—Pub. L. 95–26 substituted "April 1, 1977" for "July 1, 1975". Provisions covering the compensation ofthe incumbent holding the office of Secretary for the Majority of the Senate on July 1, 1975, were dropped as executed. See successor provisions set out as a note below.
+<b>1977</b>—Pub. L. 95–26 substituted "April 1, 1977" for "July 1, 1975". Provisions covering the compensation of the incumbent holding the office of Secretary for the Majority of the Senate on July 1, 1975, were dropped as executed. See successor provisions set out as a note below.
 
 <b>1975</b>—Pub. L. 94–59, which increased annual rate of compensation of both Secretary for Majority of Senate and Secretary for Minority of Senate from $38,190 to $39,500 and substituted provisions excepting incumbent Secretary for Majority holding office on July 1, 1975, from mandatory payment of $39,500 rate but authorizing payment to him as long as he occupies that position at a maximum annual rate of compensation not to exceed $39,500 for provisions excepting Secretary for Majority holding office on June 15, 1974, from mandatory payment of the $38,190 rate but authorizing payment to him as long as he occupied that position at a maximum annual rate of compensation not to exceed $38,190, was repealed by Pub. L. 116–94. See above.
 

@@ -10,6 +10,8 @@ Nothing in sections 459h to 459h–10 of this title <sup>1</sup> or any other p
 
 (Pub. L. 91–660, §3, Jan. 8, 1971, 84 Stat. 1968; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §137(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–232.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 459h to 459h–10 of this title, referred to in subsec. (b), was in the original "this title", and was translated as reading "this Act", meaning Pub. L. 91–660, which enacted sections 459h to 459h–10 of this title, to reflect the probable intent of Congress, because Pub. L. 91–660 does not contain titles.

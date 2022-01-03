@@ -9,6 +9,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Pub. L. 108–357, title IV, §413(c)(31), Oct. 22, 2004, 118 Stat. 1509, struck out item for part III "Foreign personal holding companies".

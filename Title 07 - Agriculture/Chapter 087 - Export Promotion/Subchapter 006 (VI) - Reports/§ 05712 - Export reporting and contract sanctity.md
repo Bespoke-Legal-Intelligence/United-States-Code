@@ -54,6 +54,8 @@ Notwithstanding any other provision of law, the President shall not prohibit or 
 
 <i>For termination of amendment by section 942 of Pub. L. 106–78, see Termination Date of 1999 Amendment note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 602 of Pub. L. 95–501 enacted section 1765b–1 of this title prior to the complete revision of Pub. L. 95–501 by Pub. L. 101–624.
@@ -67,6 +69,8 @@ A prior section 602 of Pub. L. 95–501 enacted section 1765b–1 of this title 
 <b>1991</b>—Subsec. (a)(1). Pub. L. 102–237, §327(1), substituted "designate produced" for "designate as produced" in introductory provisions.
 
 Subsec. (a)(2). Pub. L. 102–237, §327(2), struck out "in accordance with subsection (c)" after "shall remain confidential".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination Date of 1999 Amendment
 

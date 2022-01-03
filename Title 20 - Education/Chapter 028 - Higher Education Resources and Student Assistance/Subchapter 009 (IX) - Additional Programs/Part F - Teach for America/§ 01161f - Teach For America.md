@@ -70,7 +70,7 @@ In carrying out the grant program under subsection (b), the Secretary shall ente
 
 #### (C) Requirements
 
-&emsp;&emsp;The Secretary shall provide for such a study not less than once every three years,and each such study shall include multiple placement sites and multiple schools within placement sites.
+&emsp;&emsp;The Secretary shall provide for such a study not less than once every three years, and each such study shall include multiple placement sites and multiple schools within placement sites.
 
 #### (D) Peer review standards
 
@@ -90,7 +90,7 @@ In carrying out the grant program under subsection (b), the Secretary shall ente
 
 #### (B) Review requirements
 
-&emsp;&emsp;Not later than 90 days after the grantee receives funds to carry out this section for the first fiscal year in which funds become available to carry out this section after August 14, 2008, the independent auditor shall complete the review required by this paragraph.
+&emsp;&emsp;Not later than 90 days after the grantee receives funds to carry out this section for thefirst fiscal year in which funds become available to carry out this section after August 14, 2008, the independent auditor shall complete the review required by this paragraph.
 
 #### (C) Report
 
@@ -114,11 +114,15 @@ In carrying out the grant program under subsection (b), the Secretary shall ente
 
 (Pub. L. 89–329, title VIII, §806, as added Pub. L. 110–315, title VIII, §801, Aug. 14, 2008, 122 Stat. 3390; amended Pub. L. 114–95, title IX, §9214(c)(12), Dec. 10, 2015, 129 Stat. 2164.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (a)(2). Pub. L. 114–95, §9214(c)(12)(A), struck out par. (2). Text read as follows: "The term 'highly qualified' has the meaning given the term in section 7801 of this title or section 1401 of this title."
 
 Subsec. (c)(1). Pub. L. 114–95, §9214(c)(12)(B), substituted "teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 1412(a)(14)(C) of this title," for "highly qualified teachers".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

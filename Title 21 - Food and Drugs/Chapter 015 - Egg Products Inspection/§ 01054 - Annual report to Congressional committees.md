@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) the number of inspectors employed by the Department of Agriculture in the calendar year concerned who were assigned to inspect plants referred to in paragraph (B) hereof and the frequency with which each such plant was inspected by such inspectors;
 
-&emsp;&emsp;(D) the number of inspectors that were licensed by each country from which any imports were received and that were assigned, during the calendar year concerned, to inspect such imports and the facilities inwhich such imports were handled; and the frequency and effectiveness of such inspections;
+&emsp;&emsp;(D) the number of inspectors that were licensed by each country from which any imports were received and that were assigned, during the calendar year concerned, to inspect such imports and the facilities in which such imports were handled; and the frequency and effectiveness of such inspections;
 
 &emsp;&emsp;(E) the total volume of eggs and egg products which was imported into the United States during the calendar year concerned from each country, including a separate itemization of the volume of each major category of such imports from each country during such year, and a detailed report of rejections of plants and products because of failure to meet appropriate standards prescribed by this chapter; and
 

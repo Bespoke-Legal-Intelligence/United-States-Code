@@ -4,7 +4,7 @@
 
 The Secretary shall, by rule, within 60 days after December 22, 1975, prescribe guidelines for the preparation of a State energy conservation feasibility report. The Secretary shall invite the Governor of each State to submit, within 3 months after the effective date of such guidelines, such a report. Such report shall include—
 
-&emsp;(1) an assessment of the feasibility of establishing a State energy conservation goal, which goal shall consist of a reduction, as a result of the implementation of the State energy conservation plan described in this section, of 5 percent or more in the total amount of energy consumed in such State in the year 1980 from the projected energy consumption for such State in the year 1980, and
+&emsp;(1) an assessment of the feasibility of establishing a State energy conservation goal,which goal shall consist of a reduction, as a result of the implementation of the State energy conservation plan described in this section, of 5 percent or more in the total amount of energy consumed in such State in the year 1980 from the projected energy consumption for such State in the year 1980, and
 
 &emsp;(2) a proposal by such State for the development of a State energy conservation plan to achieve such goal.
 
@@ -28,9 +28,19 @@ Each proposed State energy conservation plan to be eligible for Federal assistan
 
 &emsp;(4) mandatory thermal efficiency standards and insulation requirements for new and renovated buildings (except buildings owned or leased by the United States);
 
-&emsp;(5) a traffic law or regulation which, to the maximum extent practicable consistent with safety, permits the operator of a motor vehicle to turn such vehicle right at a red stop light after stopping and to turn such vehicle left from a one-way street onto a one-way street at a red light after stopping; and
+&emsp;(5) a traffic law or regulation which, to the maximum extent practicable consistent with safety, permits the operator of a motor vehicle to turn such vehicle right at a red stop light after stopping and to turn such vehicle left from a one-way street onto a one-way street at a red light after stopping;
 
-&emsp;(6) procedures for ensuring effective coordination among various local, State, and Federal energy conservation programs within the State, including any program administered within the Office of Technical and Financial Assistance of the Department of Energy and the Low Income Home Energy Assistance Program administered by the Department of Health and Human Services.
+&emsp;(6) procedures for ensuring effective coordination among various local, State, and Federal energy conservation programs within the State, including any program administered within the Office of Technical and Financial Assistance of the Department of Energy and the Low Income Home Energy Assistance Program administered by the Department of Health and Human Services; and
+
+&emsp;(7) the mandatory conduct of activities to support transmission and distribution planning, including—
+
+&emsp;&emsp;(A) support for local governments and Indian Tribes;
+
+&emsp;&emsp;(B) feasibility studies for transmission line routes and alternatives;
+
+&emsp;&emsp;(C) preparation of necessary project design and permits; and
+
+&emsp;&emsp;(D) outreach to affected stakeholders.
 
 #### (d) Optional features of plans
 
@@ -40,7 +50,7 @@ Each proposed State energy conservation plan may include—
 
 &emsp;(2) restrictions on the use of decorative or nonessential lighting;
 
-&emsp;(3) programs to increase transportation energy efficiency, including programs to accelerate the use of alternative transportation fuels for State government vehicles, fleet vehicles, taxies, mass transit, and privately owned vehicles;
+&emsp;(3) programs to increase transportation energy efficiency, including programs to help reduce carbon emissions in the transportation sector by 2050 and accelerate the use of alternative transportation fuels for, and the electrification of, State government vehicles, fleet vehicles, taxis and ridesharing services, mass transit, school buses, ferries, and privately owned passenger and medium- and heavy-duty vehicles;
 
 &emsp;(4) programs of public education to promote energy conservation;
 
@@ -78,9 +88,11 @@ Each proposed State energy conservation plan may include—
 
 &emsp;(15) support for prefeasibility and feasibility studies for projects that utilize renewable energy and energy efficiency resource technologies in order to facilitate access to capital and credit for such projects;
 
-&emsp;(16) programs to facilitate and encourage the voluntary use of renewable energy technologies for eligible participants in Federal agency programs, including the Rural Electrification Administration and the Farmers Home Administration; and
+&emsp;(16) programs to facilitate and encourage the voluntary use of renewable energy technologies for eligible participants in Federal agency programs, including the Rural Electrification Administration and the Farmers Home Administration;
 
-&emsp;(17) any other appropriate method or programs to conserve and to promote efficiency in the use of energy.
+&emsp;(17) programs that promote the installation and use of demand-response technology and demand-response practices; and
+
+&emsp;(18) any other appropriate method or programs to conserve and to promote efficiency in the use of energy.
 
 #### (e) Standby plans
 
@@ -126,9 +138,17 @@ The Governor of any State may submit to the Secretary a State energy conservatio
 
 The Secretary shall, at least once every 3 years, invite the Governor of each State to review and, if necessary, revise the energy conservation plan of such State submitted under subsection (b) or (e). Such reviews should consider the energy conservation plans of other States within the region, and identify opportunities and actions carried out in pursuit of common energy conservation goals.
 
-(Pub. L. 94–163, title III, §362, Dec. 22, 1975, 89 Stat. 933; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 101–440, §§3(a), 4(a), (b), Oct. 18, 1990, 104 Stat. 1006–1008; Pub. L. 102–486, title I, §141(b), (c)(1), Oct. 24, 1992, 106 Stat. 2841; Pub. L. 105–244, title I, §102(a)(13)(E), Oct. 7, 1998, 112 Stat. 1620; Pub. L. 105–388, §5(a)(8), Nov. 13, 1998, 112 Stat. 3478; Pub. L. 109–58, title I, §123(a), Aug. 8, 2005, 119 Stat. 616.)
+(Pub. L. 94–163, title III, §362, Dec. 22, 1975, 89 Stat. 933; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 101–440, §§3(a), 4(a), (b), Oct. 18, 1990, 104 Stat. 1006–1008; Pub. L. 102–486, title I, §141(b), (c)(1), Oct. 24, 1992, 106 Stat. 2841; Pub. L. 105–244, title I, §102(a)(13)(E), Oct. 7, 1998, 112 Stat. 1620; Pub. L. 105–388, §5(a)(8), Nov. 13, 1998, 112 Stat. 3478; Pub. L. 109–58, title I, §123(a), Aug. 8, 2005, 119 Stat. 616; Pub. L. 117–58, div. D, title I, §§40104(b), 40109(a), (b), Nov. 15, 2021, 135 Stat. 932, 944.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (c)(7). Pub. L. 117–58, §40109(a), added par. (7).
+
+Subsec. (d)(3). Pub. L. 117–58, §40109(b), added par. (3) and struck out former par. (3) which read as follows: "programs to increase transportation energy efficiency, including programs to accelerate the use of alternative transportation fuels for State government vehicles, fleet vehicles, taxies, mass transit, and privately owned vehicles;".
+
+Subsec. (d)(17), (18). Pub. L. 117–58, §40104(b), added par. (17) and redesignated former par. (17) as (18).
 
 <b>2005</b>—Subsec. (g). Pub. L. 109–58 added subsec. (g).
 
@@ -152,6 +172,8 @@ Subsec. (f). Pub. L. 101–440, §4(b), added subsec. (f).
 
 <b>1978</b>—Subsecs. (a), (b), (e). Pub. L. 95–619 substituted "Secretary" for "Administrator", meaning Administrator of the Federal Energy Administration, wherever appearing.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
@@ -159,6 +181,10 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 #### Effective Date of 1992 Amendment
 
 Pub. L. 102–486, title I, §141(c)(2), Oct. 24, 1992, 106 Stat. 2841, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect January 1, 1995."
+
+#### Wage Rate Requirements
+
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of this title.
 
 #### Study Regarding Impact of Permitting Right and Left Turns on Red Lights
 

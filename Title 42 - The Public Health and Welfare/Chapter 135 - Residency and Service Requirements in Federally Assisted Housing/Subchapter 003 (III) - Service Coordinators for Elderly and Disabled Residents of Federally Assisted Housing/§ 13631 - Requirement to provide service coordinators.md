@@ -20,7 +20,7 @@ Each service coordinator of a covered federally assisted housing project provide
 
 #### (c) Included services
 
-Supportive services referred to under subsection (b)(1) may include health-related services, mental health services, services for nonmedical counseling, meals, transportation, personal care, bathing, toileting, housekeeping, chore assistance, safety, group and socialization activities, assistance with medications (in accordance with any applicable State laws), case management, personal emergency response, education and outreach regarding telemarketing fraud in accordance with the standards issued under subsection (f), and other appropriate services. The services may be provided through any agency of the Federal Government or any other public or private department, agency, or organization.
+Supportive services referred to under subsection (b)(1) may include health-related services, mental health services, services for nonmedical counseling, meals, transportation, personal care, bathing, toileting, housekeeping, chore assistance, safety, group and socializationactivities, assistance with medications (in accordance with any applicable State laws), case management, personal emergency response, education and outreach regarding telemarketing fraud in accordance with the standards issued under subsection (f), and other appropriate services. The services may be provided through any agency of the Federal Government or any other public or private department, agency, or organization.
 
 #### (d) Covered federally assisted housing
 
@@ -60,6 +60,8 @@ To the extent only that this section applies to service coordinators for covered
 
 (Pub. L. 102–550, title VI, §671, Oct. 28, 1992, 106 Stat. 3826; Pub. L. 106–569, title VIII, §851(b), (c)(2), Dec. 27, 2000, 114 Stat. 3024.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This subtitle, referred to in subsecs. (b) and (d), means subtitle E of title VI of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3826, which enacted this subchapter, amended sections 1437f, 1437g, and 8011 of this title and section 1701q of Title 12, Banks and Banking, and enacted provisions set out as a note under section 1701q of Title 12.
@@ -75,6 +77,8 @@ Subsec. (d). Pub. L. 106–569, §851(b)(2), inserted closing parenthesis after 
 Subsec. (e). Pub. L. 106–569, §851(b)(3), added subsec. (e).
 
 Subsec. (f). Pub. L. 106–569, §851(c)(2)(B), added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

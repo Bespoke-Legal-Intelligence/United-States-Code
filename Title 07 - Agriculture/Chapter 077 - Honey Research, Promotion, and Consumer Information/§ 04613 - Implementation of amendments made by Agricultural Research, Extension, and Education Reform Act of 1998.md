@@ -2,7 +2,7 @@
 
 #### (a) Issuance of amended order
 
-To implement the amendments made to this chapter by section 605 of the Agricultural Research, Extension, and Education Reform Act of 1998 (other than subsection (m) of that section), the Secretary shall issue an amended orderunder section 4603 of this title that reflects those amendments.
+To implement the amendments made to this chapter by section 605 of the Agricultural Research, Extension, and Education Reform Act of 1998 (other than subsection (m) of that section),the Secretary shall issue an amended order under section 4603 of this title that reflects those amendments.
 
 #### (b) Proposal of amended order
 
@@ -73,6 +73,8 @@ If adoption of the amended order is not approved—
 If the amended order becomes effective, any referendum otherwise required to be conducted under section 4612(c) of this title shall not be held before the date that is 5 years after the date of the referendum conducted under this section.
 
 (Pub. L. 98–590, §14, as added Pub. L. 105–185, title VI, §605(m), June 23, 1998, 112 Stat. 602.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

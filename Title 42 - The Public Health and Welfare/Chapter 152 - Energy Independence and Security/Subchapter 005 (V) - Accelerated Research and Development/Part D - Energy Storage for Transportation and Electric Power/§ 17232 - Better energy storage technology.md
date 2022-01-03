@@ -86,7 +86,7 @@ In this section:
 
 &emsp;&emsp;(I) energy storage use cases from individual and combination technology applications, including value from various-use cases and energy storage services; and
 
-&emsp;&emsp;(J) advanced manufacturing technologies that have the potential to improve UnitedStates competitiveness in energy storage manufacturing or reduce United States dependence on critical materials.
+&emsp;&emsp;(J) advanced manufacturing technologies that have the potential to improve United States competitiveness in energy storage manufacturing or reduce United States dependence on critical materials.
 
 #### (3) Testing and validation
 
@@ -172,7 +172,11 @@ In this section:
 
 #### (1) Demonstration projects
 
-&emsp;Not later than September 30, 2023, the Secretary shall, to the maximum extent practicable, enter into agreements to carry out 3 energy storage system demonstration projects, including at least 1 energy storage system demonstration project designed to further the development of technologies described in clause (v) or (vi) of subsection (b)(2)(A).
+&emsp;Not later than September 30, 2023, the Secretary shall, to the maximum extent practicable, enter into agreements to carry out 3 energy storage system demonstration projects, including—
+
+&emsp;&emsp;(A) at least 1 energy storage system demonstration project designed to further the development of technologies described in clause (v) or (vi) of subsection (b)(2)(A); and
+
+&emsp;&emsp;(B) 1 project to demonstrate second-life applications of electric vehicle batteries as aggregated energy storage installations to provide services to the electric grid, in accordance with paragraph (3).
 
 #### (2) Energy storage pilot grant program
 
@@ -182,7 +186,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) a State energy office (as defined in section 15821(a) of this title);
 
-&emsp;&emsp;&emsp;(ii) an Indian Tribe (as defined in section 4103 of title 25;
+&emsp;&emsp;&emsp;(ii) an Indian Tribe (as defined in section 4103 of title 25; <sup>1</sup>
 
 &emsp;&emsp;&emsp;(iii) a Tribal organization (as defined in section 3765 of title 38);
 
@@ -248,11 +252,37 @@ In this section:
 
 &emsp;&emsp;&emsp;(xii) To improve energy efficiency.
 
-#### (3) Reports
+#### (3) Demonstration of electric vehicle battery second-life applications for grid services
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall enter into an agreement to carry out a project to demonstrate second-life applications of electric vehicle batteries as aggregated energy storage installations to provide services to the electric grid.
+
+#### (B) Purposes
+
+&emsp;&emsp;The purposes of the project under subparagraph (A) shall be—
+
+&emsp;&emsp;&emsp;(i) to demonstrate power safety and the reliability of the applications demonstrated under the program;
+
+&emsp;&emsp;&emsp;(ii) to demonstrate the ability of electric vehicle batteries—
+
+&emsp;&emsp;&emsp;&emsp;(I) to provide ancillary services for grid stability and management; and
+
+&emsp;&emsp;&emsp;&emsp;(II) to reduce the peak loads of homes and businesses;
+
+&emsp;&emsp;&emsp;(iii) to extend the useful life of electric vehicle batteries and the components of electric vehicle batteries prior to the collection, recycling, and reprocessing of the batteries and components; and
+
+&emsp;&emsp;&emsp;(iv) to increase acceptance of, and participation in, the use of second-life applications of electric vehicle batteries by utilities.
+
+#### (C) Priority
+
+&emsp;&emsp;In selecting a project to carry out under subparagraph (A), the Secretary shall give priority to projects in which the demonstration of the applicable second-life applications is paired with 1 or more facilities that could particularly benefit from increased resiliency and lower energy costs, such as a multi-family affordable housing facility, a senior care facility, and a community health center.
+
+#### (4) Reports
 
 &emsp;Not less frequently than once every 3 years for the duration of the programs under paragraphs (1) and (2), the Secretary shall submit to Congress and make publicly available a report describing the performance of those programs.
 
-#### (4) No project ownership interest
+#### (5) No project ownership interest
 
 &emsp;The Federal Government shall not hold any equity or other ownership interest in any energy storage system that is part of a project under this subsection unless the holding is agreed to by each participant of the project.
 
@@ -282,7 +312,7 @@ In this section:
 
 &emsp;&emsp;(B) ensure regional diversity among projects; and
 
-&emsp;&emsp;(C) consider bulk power level, distribution power level, behind-the-meter, microgrid\(gridconnected or islanded mode), and off-grid applications.
+&emsp;&emsp;(C) consider bulk power level, distribution power level, behind-the-meter, microgrid (gridconnected or islanded mode), and off-grid applications.
 
 #### (4) Joint program
 
@@ -336,9 +366,59 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(II) will be carried out in the field.
 
-#### (e) Omitted
+#### (e) Pumped storage hydropower wind and solar integration and system reliability initiative
 
-#### (f) Coordination
+#### (1) Definition of eligible entity
+
+&emsp;In this subsection, the term "eligible entity" means—
+
+&emsp;&emsp;(A)(i) an electric utility, including—
+
+&emsp;&emsp;&emsp;(I) a political subdivision of a State, such as a municipally owned electric utility; or
+
+&emsp;&emsp;&emsp;(II) an instrumentality of a State composed of municipally owned electric utilities;
+
+&emsp;&emsp;(ii) an electric cooperative; or
+
+&emsp;&emsp;(iii) an investor-owned utility;
+
+&emsp;&emsp;(B) an Indian Tribe or Tribal organization;
+
+&emsp;&emsp;(C) a State energy office;
+
+&emsp;&emsp;(D) an institution of higher education; and
+
+&emsp;&emsp;(E) a consortium of the entities described in subparagraphs (A) through (D).
+
+#### (2) Demonstration project
+
+#### (A) In general
+
+&emsp;&emsp;Not later than September 30, 2023, the Secretary shall, to the maximum extent practicable, enter into an agreement with an eligible entity to provide financial assistance to the eligible entity to carry out project design, transmission studies, power market assessments, and permitting for a pumped storage hydropower project to facilitate the long-duration storage of intermittent renewable electricity.
+
+#### (B) Project requirements
+
+&emsp;&emsp;To be eligible for financial assistance under subparagraph (A), a project shall—
+
+&emsp;&emsp;&emsp;(i) be designed to provide not less than 1,000 megawatts of storage capacity;
+
+&emsp;&emsp;&emsp;(ii) be able to provide energy and capacity for use in more than 1 organized electricity market;
+
+&emsp;&emsp;&emsp;(iii) be able to store electricity generated by intermittent renewable electricity projects located on Tribal land; and
+
+&emsp;&emsp;&emsp;(iv) have received a preliminary permit from the Federal Energy Regulatory Commission.
+
+#### (C) Matching requirement
+
+&emsp;&emsp;An eligible entity receiving financial assistance under subparagraph (A) shall provide matching funds equal to or greater than the amount of financial assistance provided under that subparagraph.
+
+#### (3) Authorization of appropriations
+
+&emsp;There is authorized to be appropriated to carry out this subsection $2,000,000 for each of fiscal years 2022 through 2026.
+
+#### (f) Omitted
+
+#### (g) Coordination
 
 To the maximum extent practicable, the Secretary shall coordinate the activities under this section (including activities conducted pursuant to the amendments made by this section) among the offices and employees of the Department, other Federal agencies, and other relevant entities—
 
@@ -348,7 +428,7 @@ To the maximum extent practicable, the Secretary shall coordinate the activities
 
 &emsp;(3) to increase domestic manufacturing and production of energy storage systems, such as those within the Department and within the National Institute of Standards and Technology.
 
-#### (g) Authorization of appropriations
+#### (h) Authorization of appropriations
 
 There are authorized to be appropriated—
 
@@ -358,11 +438,29 @@ There are authorized to be appropriated—
 
 &emsp;(3) to carry out subsection (d), $30,000,000 for each of fiscal years 2021 through 2025, to remain available until expended.
 
-(Pub. L. 116–260, div. Z, title III, §3201, Dec. 27, 2020, 134 Stat. 2517.)
+(Pub. L. 116–260, div. Z, title III, §3201, Dec. 27, 2020, 134 Stat. 2517; Pub. L. 117–58, div. D, title I, §40112, title III, §40334, Nov. 15, 2021, 135 Stat. 946, 1024.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
 Section was enacted as part of the Energy Act of 2020, and not as part of the Energy Independence and Security Act of 2007 which comprises this chapter.
 
-Section is comprised of section 3201 of div. Z of Pub. L. 116–260. Subsec. (e) of section 3201 of div. Z of Pub. L. 116–260 amended section 17231 of this title.
+Section is comprised of section 3201 of div. Z of Pub. L. 116–260. Subsec. (f) of section 3201 of div. Z of Pub. L. 116–260 amended section 17231 of this title. Section 40334(1) of Pub. L. 117–58, which directed amendment of section 3201 of the Energy Policy Act of 2020 by redesignating subsections (e) through (g) as subsections (f) through (h), respectively, was executed by making the amendment to section 3201 of div. Z of Pub. L. 116–260, known as the Energy Act of 2020, to reflect the probable intent of Congress.
+
+#### Amendments
+
+<b>2021</b>—Subsec. (c)(1). Pub. L. 117–58, §40112(1), substituted "including—" for "including", inserted subpar. (A) designation before "at least", and added subpar. (B).
+
+Subsec. (c)(3) to (5). Pub. L. 117–58, §40112(2), (3), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
+
+Subsecs. (e) to (h). Pub. L. 117–58, §40334, which directed amendment of section 3201 of the Energy Policy Act of 2020 by adding subsec. (e) and redesignating former subsecs. (e) to (g) as (f) to (h), respectively, was executed to this section, which is section 3201 of the Energy Act of 2020, to reflect the probable intent of Congress.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Wage Rate Requirements
+
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of this title.
+
+<i><sup>1</sup></i><i> So in original. A closing parenthesis probably should precede the semicolon.</i>
 

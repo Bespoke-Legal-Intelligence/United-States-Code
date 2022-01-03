@@ -32,7 +32,7 @@ The report required by subsection (a) shall include the following:
 
 #### (c) Annual updates
 
-The President shall submit to Congress in writing on an annual basis a report describingand assessing progress in the implementation of the strategy described in subsection (a).
+The President shall submit to Congress in writing on an annual basis a report describing and assessing progress in the implementation of the strategy described in subsection (a).
 
 #### (d) Form
 

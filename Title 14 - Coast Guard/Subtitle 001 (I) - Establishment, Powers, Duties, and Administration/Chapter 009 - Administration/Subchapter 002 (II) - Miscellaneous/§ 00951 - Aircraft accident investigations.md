@@ -48,7 +48,7 @@ Definitions.—For purposes of this section—
 
 &emsp;(2) the term "safety investigation" means an investigation by Coast Guard personnel of an aircraft accident referred to in subsection (a) that is conducted solely to determine the cause of the accident and to obtain information that may prevent the occurrence of similar accidents.
 
-(Added Pub. L. 112–213, title II, §214(a), Dec. 20, 2012, 126 Stat. 1553, §678; amended Pub. L. 115–232, div. C, title XXXV, §3531(c)(5), Aug. 13, 2018, 132 Stat. 2320; renumbered §951, Pub. L.115–282, title I, §107(b), Dec. 4, 2018, 132 Stat. 4205.)
+(Added Pub. L. 112–213, title II, §214(a), Dec. 20, 2012, 126 Stat. 1553, §678; amended Pub. L. 115–232, div. C, title XXXV, §3531(c)(5), Aug. 13, 2018, 132 Stat. 2320; renumbered §951, Pub. L. 115–282, title I, §107(b), Dec. 4, 2018, 132 Stat. 4205.)
 
 #### <b>Editorial Notes</b>
 

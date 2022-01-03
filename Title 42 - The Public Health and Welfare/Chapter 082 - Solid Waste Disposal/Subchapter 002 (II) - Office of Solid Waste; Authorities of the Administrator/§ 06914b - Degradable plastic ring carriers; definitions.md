@@ -8,13 +8,17 @@ As used in this title—
 
 (Pub. L. 100–556, title I, §102, Oct. 28, 1988, 102 Stat. 2779.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This title, referred to in text, is title I of Pub. L. 100–556, Oct. 28, 1988, 102 Stat. 2779, which enacted sections 6914b and 6914b–1 of this title, and provisions setout as a note under section 6914b of this title. For complete classification of this title to the Code, see Tables.
+This title, referred to in text, is title I of Pub. L. 100–556, Oct. 28, 1988, 102 Stat. 2779, which enacted sections 6914b and 6914b–1 of this title, and provisions set out as a note under section 6914b of this title. For complete classification of this title to the Code, see Tables.
 
 #### Codification
 
 Section was not enacted as part of the Solid Waste Disposal Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Congressional Findings
 

@@ -126,7 +126,7 @@ Data and Findings.—
 
 &emsp;(1)
 
-In general.—As a participant in a testing program established under subsection (a),an owner or operator shall submit to the Secretary detailed findings and a summary of data collected as a result of participation in the testing program.
+In general.—As a participant in a testing program established under subsection (a), an owner or operator shall submit to the Secretary detailed findings and a summary of data collected as a result of participation in the testing program.
 
 &emsp;(2)
 

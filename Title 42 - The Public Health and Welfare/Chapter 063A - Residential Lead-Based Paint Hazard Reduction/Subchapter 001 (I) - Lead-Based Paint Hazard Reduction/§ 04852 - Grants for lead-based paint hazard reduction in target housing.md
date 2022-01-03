@@ -2,7 +2,7 @@
 
 #### (a) General authority
 
-The Secretary is authorized to provide grants to eligible applicants to evaluate and reduce lead-based paint hazards in housing that is not federally assisted housing, federally owned housing, or public housing, in accordance with the provisions of this section. Grants shall only be made under this section to provide assistance for housing which meets the following criteria—
+The Secretary is authorized to provide grants to eligible applicants to evaluate and reduce lead-based paint hazards in housing that is not federally assisted housing, federally owned housing, or public housing, in accordance with theprovisions of this section. Grants shall only be made under this section to provide assistance for housing which meets the following criteria—
 
 &emsp;(1) for grants made to assist rental housing, at least 50 percent of the units must be occupied by or made available to families with incomes at or below 50 percent of the area median income level and the remaining units shall be occupied or made available to families with incomes at or below 80 percent of the area median income level, and in all cases the landlord shall give priority in renting units assisted under this section, for not less than 3 years following the completion of lead abatement activities, to families with a child under the age of six years, except that buildings with five or more units may have 20 percent of the units occupied by families with incomes above 80 percent of area median income level;
 
@@ -137,6 +137,8 @@ Effective 2 years after the date of promulgation of regulations under section 26
 For the purposes of carrying out this chapter, there are authorized to be appropriated $125,000,000 for fiscal year 1993 and $250,000,000 for fiscal year 1994.
 
 (Pub. L. 102–550, title X, §1011, Oct. 28, 1992, 106 Stat. 3901; Pub. L. 103–233, title III, §305(a), Apr. 11, 1994, 108 Stat. 370; Pub. L. 104–134, title I, §101(e) \[title II, §217\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–290; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

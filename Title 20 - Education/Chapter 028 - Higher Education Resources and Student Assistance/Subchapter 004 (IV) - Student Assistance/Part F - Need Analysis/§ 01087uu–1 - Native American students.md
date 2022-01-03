@@ -2,7 +2,7 @@
 
 In determining family contributions for Native American students, computations performed pursuant to this part shall exclude—
 
-&emsp;(1) any income and assets of $2,000 or less per individual payment received by the student\(and spouse) and student's parents under Public Law 98–64 (25 U.S.C. 117a et seq.; 97 Stat. 365) (commonly known as the "Per Capita Act") or the Indian Tribal Judgment Funds Use or Distribution Act (25 U.S.C. 1401 et seq.); and
+&emsp;(1) any income and assets of $2,000 or less per individual payment received by the student (and spouse) and student's parents under Public Law 98–64 (25 U.S.C. 117a et seq.; 97 Stat. 365) (commonly known as the "Per CapitaAct") or the Indian Tribal Judgment Funds Use or Distribution Act (25 U.S.C. 1401 et seq.); and
 
 &emsp;(2) any income received by the student (and spouse) and student's parents under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.) or the Maine Indian Claims Settlement Act of 1980 (25 U.S.C. 1721 et seq.).<sup>1</sup>
 
@@ -28,6 +28,8 @@ In determining family contributions for Native American students, computations p
 
 <i>See 2020 Amendment note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Public Law 98–64, referred to in par. (1), is Pub. L. 98–64, Aug. 2, 1983, 97 Stat. 365, commonly known as the Per Capita Act, which enacted sections 117a to 117c of Title 25, Indians, and repealed section 117 of Title 25. For complete classification of this Act to the Code, see Tables.
@@ -42,7 +44,7 @@ The Maine Indian Claims Settlement Act of 1980, referred to in par. (2), is Pub.
 
 <b>2020</b>—Pub. L. 116–260 amended section generally. Prior to amendment, text read as follows: "In determining family contributions for Native American students, computations performed pursuant to this part shall exclude—
 
-&emsp;"(1) any income and assets of $2,000 or less per individual payment received by the student (and spouse) and student's parents under Public Law 98–64 (25 U.S.C. 117a et seq.; 97 Stat. 365) (commonly known as the "Per Capita Act") or the Indian Tribal Judgment Funds Use or Distribution Act (25 U.S.C. 1401 et seq.); and
+&emsp;"(1) any income and assets of $2,000 or less per individual payment received by the student (and spouse) and student's parents under Public Law 98–64 (25 U.S.C. 117a et seq.; 97 Stat. 365) (commonly known as the 'Per Capita Act') or the Indian Tribal Judgment Funds Use or Distribution Act (25 U.S.C. 1401 et seq.); and
 
 &emsp;"(2) any income received by the student (and spouse) and student's parents under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.) or the Maine Indian Claims Settlement Act of 1980 (25 U.S.C. 1721 et seq.)."
 
@@ -51,6 +53,8 @@ The Maine Indian Claims Settlement Act of 1980, referred to in par. (2), is Pub.
 Par. (2). Pub. L. 111–39, §406(a)(5)(B), substituted "Alaska" for "Alaskan" and inserted "(43 U.S.C. 1601 et seq.)" after "Native Claims Settlement Act" and "of 1980 (25 U.S.C. 1721 et seq.)" after "Maine Indian Claims Settlement Act".
 
 <b>1992</b>—Pub. L. 102–325 amended section generally, reenacting provisions without change.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 

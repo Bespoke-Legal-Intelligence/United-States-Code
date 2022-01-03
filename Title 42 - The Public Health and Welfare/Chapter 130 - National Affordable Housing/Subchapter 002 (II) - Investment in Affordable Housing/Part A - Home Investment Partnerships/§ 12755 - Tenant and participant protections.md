@@ -22,13 +22,15 @@ The owner of rental housing assisted under this subchapter shall adopt written t
 
 &emsp;(3) give reasonable consideration to the housing needs of families that would have a preference under section 1437d(c)(4)(A) of this title, and
 
-&emsp;(4) provide for (A) the selection of tenants from a written waiting list in the chronological order of their application, insofar as is practicable, and (B) for <sup>2</sup> the prompt notification in writing of any rejected applicant of the grounds for any rejection.
+&emsp;(4) provide for (A) the selection of tenants from a written waiting list in the chronological order of their application, insofar as is practicable, and (B) for <sup>1</sup> the prompt notification in writing of any rejected applicant of the grounds for any rejection.
 
 (Pub. L. 101–625, title II, §225, Nov. 28, 1990, 104 Stat. 4113; Pub. L. 114–113, div. L, title II, §235, Dec. 18, 2015, 129 Stat. 2896.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>2015</b>—Subsec. (b). Pub. L. 114–113 inserted at end "Such 30-day waiting period is not required if the grounds for the termination or refusal to renew involve a direct threat to the safety of the tenants or employees of the housing, or an imminent and serious threat to the property (and the termination or refusal to renew is in accordance with the requirements of State or local law)."
 
-<i><sup>2</sup></i><i> So in original. The word "for" probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The word "for" probably should not appear.</i>
 

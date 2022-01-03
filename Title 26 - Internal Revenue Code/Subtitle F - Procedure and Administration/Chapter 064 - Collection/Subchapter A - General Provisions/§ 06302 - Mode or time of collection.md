@@ -102,6 +102,8 @@ If, under regulations prescribed by the Secretary, a person is required to make 
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 775; June 29, 1956, ch. 462, title II, §206(b), 70 Stat. 391; Pub. L. 94–455, title XIX, §1906(a)(17), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1825, 1834; Pub. L. 95–147, §3(a), Oct. 28, 1977, 91 Stat. 1228; Pub. L. 95–600, title I, §105(e), Nov. 6, 1978, 92 Stat. 2776; Pub. L. 96–223, title I, §101(c)(2), Apr. 2, 1980, 94 Stat. 250; Pub. L. 98–369, div. A, title X, §1015(c), July 18, 1984, 98 Stat. 1018; Pub. L. 100–418, title I, §1941(b)(2)(G), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 100–647, title VI, §6107(a), Nov. 10, 1988, 102 Stat. 3712; Pub. L. 101–239, title VII, §§7502(a), 7507(a), 7632(a), Dec. 19, 1989, 103 Stat. 2362, 2369, 2379; Pub. L. 101–508, title XI, §§11217(b)(1), 11334(a), 11801(c)(22)(A), Nov. 5, 1990, 104 Stat. 1388–437, 1388–470, 1388–528; Pub. L. 103–66, title XIII, §13242(d)(15), Aug. 10, 1993, 107 Stat. 524; Pub. L. 103–182, title V, §523(a), Dec. 8, 1993, 107 Stat. 2161; Pub. L. 103–465, title VII, §712(a), (d), Dec. 8, 1994, 108 Stat. 4999, 5001; Pub. L. 104–188, title I, §§1702(c)(3), 1704(t)(52), Aug. 20, 1996, 110 Stat. 1869, 1890; Pub. L. 111–226, title II, §219(b)(2), Aug. 10, 2010, 124 Stat. 2403; Pub. L. 111–237, §2(a), Aug. 16, 2010, 124 Stat. 2497; Pub. L. 113–295, div. A, title II, §221(a)(110), Dec. 19, 2014, 128 Stat. 4053; Pub. L. 115–141, div. U, title IV, §401(a)(279), Mar. 23, 2018, 132 Stat. 1197.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (e)(2)(A). Pub. L. 115–141 substituted "section 4251" for "sections 4251".
@@ -114,7 +116,7 @@ If, under regulations prescribed by the Secretary, a person is required to make 
 
 > with respect to".
 
-Subsec. (f)(1). Pub. L. 113–295, §221(a)(110)(B), struck out last sentence which read as follows: "In the case of taxes imposed by sections 4261 and 4271, this paragraph shall not apply to periods before January 1, 1997."
+Subsec. (f)(1). Pub. L. 113–295, §221(a)(110)(B), struck out last sentence which read as follows: "In the case oftaxes imposed by sections 4261 and 4271, this paragraph shall not apply to periods before January 1, 1997."
 
 Subsec. (h)(2). Pub. L. 113–295, §221(a)(110)(C)(i), redesignated par. (3) as (2) and struck out former par. (2) which related to phase-in of the electronic fund transfer system.
 
@@ -152,7 +154,7 @@ Special rule where due date falls on saturday, sunday, or holiday.—If, but for
 
 Subsecs. (h), (i). Pub. L. 103–182 added subsec. (h) and redesignated former subsec. (h) as (i).
 
-<b>1990</b>—Subsec. (b). Pub. L. 101–508, §11801(c)(22)(A), which directed the substitution of "chapter 21, 31, 32, or33, or by section 4481" for "chapter 21" and all that follows down through "chapter 37,", was executed by making the substitution for "chapters 21, 31, 32, 33, section 4481 of chapter 36, section 4501(a) of chapter 37" to reflect the probable intent of Congress. See 1996 Amendment note above.
+<b>1990</b>—Subsec. (b). Pub. L. 101–508, §11801(c)(22)(A), which directed the substitution of "chapter 21, 31, 32, or 33, or by section 4481" for "chapter 21" and all that follows down through "chapter 37,", was executed by making the substitution for "chapters 21, 31, 32, 33, section 4481 of chapter 36, section 4501(a) of chapter 37" to reflect the probable intent of Congress. See 1996 Amendment note above.
 
 Subsec. (e). Pub. L. 101–508, §11217(b)(1), inserted "communications services and" before "airline" in heading and "section 4251 or" after "imposed by" in text.
 
@@ -189,6 +191,8 @@ Subsec. (b). Pub. L. 94–455, §1906(a)(17), (b)(13)(A), substituted "section 4
 Subsec. (c). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary" wherever appearing.
 
 <b>1956</b>—Subsec. (b). Act June 29, 1956, inserted reference to section 4481 of chapter 36.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 
@@ -242,7 +246,7 @@ Amendment by Pub. L. 100–418 applicable to crude oil removed from the premises
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 applicable with respect to articles sold by manufacturer, producer, or importerafter Sept. 30, 1984, see section 1015(e) of Pub. L. 98–369, set out as an Effective Date note under section 4162 of this title.
+Amendment by Pub. L. 98–369 applicable with respect to articles sold by manufacturer, producer, or importer after Sept. 30, 1984, see section 1015(e) of Pub. L. 98–369, set out as an Effective Date note under section 4162 of this title.
 
 #### Effective Date of 1980 Amendment
 

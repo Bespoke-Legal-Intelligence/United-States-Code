@@ -20,9 +20,13 @@ If the amount of an estimated countervailing duty deposited under section 1671e(
 
 (June 17, 1930, ch. 497, title VII, §707, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 161; amended Pub. L. 103–465, title II, §264(c)(10), Dec. 8, 1994, 108 Stat. 4914.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–465 substituted "1671b(d)(1)(B)" for "1671b(d)(2)" in heading and text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

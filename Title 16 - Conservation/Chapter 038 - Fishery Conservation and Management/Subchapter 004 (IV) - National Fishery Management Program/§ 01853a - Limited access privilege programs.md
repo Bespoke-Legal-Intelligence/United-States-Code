@@ -74,7 +74,7 @@ Limited access privilege, quota share, or other limited access system authorizat
 
 &emsp;&emsp;&emsp;&emsp;(III) consist of residents who conduct commercial or recreational fishing, processing, or fishery-dependent support businesses within the Council's management area; and
 
-&emsp;&emsp;&emsp;&emsp;(IV) develop and submit a community sustainability plan to the Council and the Secretary that demonstrates how the plan will address the social and economic development needs of coastal communities, including those that have not historically had the resources to participate in the fishery, for approvalbased on criteria developed by the Council that have been approved by the Secretary and published in the Federal Register.
+&emsp;&emsp;&emsp;&emsp;(IV) develop and submit a community sustainability plan to the Council and the Secretary that demonstrates how the plan will address the social and economic development needs of coastal communities, including those that have not historically had the resources to participate in the fishery, for approval based on criteria developed by the Council that have been approved by the Secretary and published in the Federal Register.
 
 #### (ii) Failure to comply with plan
 
@@ -172,7 +172,7 @@ Limited access privilege, quota share, or other limited access system authorizat
 
 #### (B) Petition
 
-&emsp;&emsp;A group of fishermen constituting more than 50 percent of the permit holders, or holding more than 50 percent of the allocation, in the fishery for which a limited access privilege program to harvest fish is sought, may submit a petition to the Secretary requesting that the relevant Council or Councils with authority over the fishery be authorized to initiate the development of the program. Any such petition shall clearly state the fishery to which the limited access privilege program would apply. For multispecies permits in the Gulf of Mexico, only those participants who have substantially fished the species proposed to be included in the limited access program shall be eligible to sign a petition for such a program and shall serve as the basis for determining the percentage described in the first sentence of this subparagraph.
+&emsp;&emsp;A group of fishermen constituting more than 50 percent of the permit holders, or holding more than 50 percent of the allocation, in the fishery for which a limited access privilege program to harvest fish is sought, may submit a petition to the Secretary requesting that the relevant Council or Councils with authority over the fisherybe authorized to initiate the development of the program. Any such petition shall clearly state the fishery to which the limited access privilege program would apply. For multispecies permits in the Gulf of Mexico, only those participants who have substantially fished the species proposed to be included in the limited access program shall be eligible to sign a petition for such a program and shall serve as the basis for determining the percentage described in the first sentence of this subparagraph.
 
 #### (C) Certification by Secretary
 
@@ -222,7 +222,7 @@ In establishing a limited access privilege program, a Council shall—
 
 &emsp;(1) develop a methodology and the means to identify and assess the management, data collection and analysis, and enforcement programs that are directly related to and in support of the program; and
 
-&emsp;(2) provide, under section 1854(d)(2) of this title, for a program of fees paid by limited access privilege holders that will cover the costs of management, data collection and analysis, and enforcement activities.
+&emsp;(2) provide, under section 1854(d)(2) of this title, for a program of fees paid by limited access privilege holders that will cover the costsof management, data collection and analysis, and enforcement activities.
 
 #### (f) Characteristics
 
@@ -266,6 +266,8 @@ The requirements of this section shall not apply to any quota program, including
 
 (Pub. L. 94–265, title III, §303A, as added Pub. L. 109–479, title I, §106(a)(2), Jan. 12, 2007, 120 Stat. 3586; amended Pub. L. 110–161, div. B, title V, §529, Dec. 26, 2007, 121 Stat. 1930.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (b), (c)(1)(G), (9), (g)(2), and (h), was in the original "this Act", meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
@@ -277,6 +279,8 @@ The Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 
 <b>2007</b>—Subsec. (c)(4)(A)(iii). Pub. L. 110–161, §529(1), substituted "association, among willing parties" for "association".
 
 Subsec. (i). Pub. L. 110–161, §529(2)–(4), struck out designation and heading of par. (1), redesignated subpars. (A) to (C) of former par. (1) as pars. (1) to (3), respectively, realigned margins, and struck out heading and text of former par. (2). Text of former par. (2) read as follows: "The requirements of this section, other than subparagraphs (A) and (B) of subsection (c)(1) and subparagraphs (A), (B), and (C) of paragraph (1) of this subsection, shall not apply to any proposal authorized under section 302(f) of the Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006 that is submitted within the timeframe prescribed by that section."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

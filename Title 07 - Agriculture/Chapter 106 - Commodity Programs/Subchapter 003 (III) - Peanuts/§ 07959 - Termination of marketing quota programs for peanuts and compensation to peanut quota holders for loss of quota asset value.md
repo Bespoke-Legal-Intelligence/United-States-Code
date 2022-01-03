@@ -64,7 +64,7 @@ The provisions of section 590h(g) of title 16, relating to assignment of payment
 
 #### (6) Limitation on quantity of quota held
 
-&emsp;A person shall be considered an eligible peanut quota holder for purposes of this section only with respect to that number of permanent pounds that qualifies the person as a peanut quota holder under one of the preceding paragraphs. The determination of the peanut poundage amount for which the person qualifies shall be made based on the 2001 crop quota levels and shall take into account sales of the farm that occurred before May 13, 2002, and any permanent transfers of quota that took place before that date, consistent with the preceding paragraphs. The Secretary shall not take into account, or allow eligibility for, quotas for seed, granted as experimental quotas, or obtained by temporary lease or transfer.
+&emsp;A person shall be considered an eligible peanut quota holder for purposes of this section only with respect to that number of permanent pounds that qualifies the person as a peanut quota holder under one of the preceding paragraphs. The determination of the peanut poundage amount for which the person qualifies shall be made based on the 2001 crop quota levels and shall take into account sales of the farm that occurred before May 13, 2002, and any permanent transfers of quota that took place before that date, consistent with the preceding paragraphs. The Secretary shall not take into account, or allow eligibility for,quotas for seed, granted as experimental quotas, or obtained by temporary lease or transfer.
 
 #### (g) Successions in payment eligibility and attachment of eligibility to persons
 
@@ -77,6 +77,8 @@ The provisions of section 590h(g) of title 16, relating to assignment of payment
 &emsp;If a person eligible for payments under this section dies, in the case of an individual, or ceases to exist, in the case of other persons, the payment eligibility of the person shall pass to the person's personal or organizational successor, as determined by the Secretary.
 
 (Pub. L. 107–171, title I, §1309, May 13, 2002, 116 Stat. 179.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

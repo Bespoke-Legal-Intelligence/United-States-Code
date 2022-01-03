@@ -76,7 +76,7 @@ All departments, agencies, and other entities of the executive branch of the Fed
 
 #### (c) Armed Forces recruitment offices
 
-(1) Each State and the Secretary of Defense shall jointly develop and implement procedures for persons to apply to register to vote at recruitment offices of the Armed Forces of the United States.
+(1) Each State and the Secretary of Defense shall jointly develop and implement proceduresfor persons to apply to register to vote at recruitment offices of the Armed Forces of the United States.
 
 (2) A recruitment office of the Armed Forces of the United States shall be considered to be a voter registration agency designated under subsection (a)(2) for all purposes of this chapter.
 
@@ -98,9 +98,9 @@ Section was formerly classified to section 1973gg–5 of Title 42, The Public He
 
 #### Ex. Ord. No. 12926. Implementation of National Voter Registration Act of 1993
 
-Ex. Ord. No. 12926, Sept. 12, 1994, 59 F.R. 47227, provided:
+Ex. Ord. No. 12926, Sept. 12, 1994, 59 F.R. 47227, as amended by Ex. Ord. No. 14019, §4(a), Mar. 7, 2021, 86 F.R. 13624, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, including section 301 of title 3, United States Code, and in order to ensure, as required by section 7(b) of the National Voter Registration Act of 1993 (42 U.S.C. 1973gg \[sic\]) \[52 U.S.C. 20506(b)\] ("the Act"), that departments, agencies, and other entities of the executive branch of the Federal Government cooperate with the States in carrying out the Act's requirements, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, and in order to ensure, as required by section 7(b) of the National Voter Registration Act of 1993 (42 U.S.C. 1973gg \[sic\]) \[52 U.S.C. 20506(b)\] ("the Act"), that departments, agencies, and other entities of the executive branch of the Federal Government cooperate with the States in carrying out the Act's requirements, it is hereby ordered as follows:
 
 Section 1. <i>Assistance to States</i>. To the greatest extent practicable, departments, agencies, and other entities of the executive branch of the Federal Government that provide, in whole or in part, funding, grants, or assistance for, or with respect to the administration of, any program of public assistance or services to persons with disabilities within the meaning of section 7(a) of the Act shall: (a) provide, to State agencies administering any such program, guidance for the implementation of the requirements of section 7 of the Act, including guidance for use and distribution of voter registration forms in connection with applications for service;
 
@@ -110,9 +110,5 @@ Section 1. <i>Assistance to States</i>. To the greatest extent practicable, depa
 
 Sec. 2. <i>Armed Forces Recruitment Offices</i>. The Secretary of Defense is directed to work with the appropriate State elections authorities in each State to develop procedures for persons to apply to register to vote at Armed Forces recruitment offices as required by section 7(c) of the Act.
 
-Sec. 3. <i>Acceptance of Designation</i>. To the greatest extent practicable, departments, agencies, or other entities of the executive branch of the Federal Government, if requested to be designated as a voter registration agency pursuant to section 7(a)(3)(B)(ii) of the Act, shall: (a) agree to such a designation if agreement is consistent with the department's, agency's, or entity's legal authority and availability of funds; and
-
-(b) ensure that all of its offices that are located in a particular State will have available to the public at least one of the national voter registration forms that are required under the Act to be available in that State.
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Sec. 3. <i>Acceptance of Designation</i>. \[Superseded by Ex. Ord. No. 14019, Mar. 7, 2021, 86 F.R. 13623, set out as a note preceding section 20101 of this title, see section 4(a) of Ex. Ord. No. 14019.\]
 

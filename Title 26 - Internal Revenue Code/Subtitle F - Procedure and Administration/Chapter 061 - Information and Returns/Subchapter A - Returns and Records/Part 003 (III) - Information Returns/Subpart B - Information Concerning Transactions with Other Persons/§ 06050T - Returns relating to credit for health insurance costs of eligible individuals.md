@@ -14,7 +14,7 @@ A return is described in this subsection if such return—
 
 &emsp;&emsp;(A) the name, address, and TIN of each individual referred to in subsection (a),
 
-&emsp;&emsp;(B) the number of months for which amounts were entitled to be received with respect to such individual under section 7527\(relating to advance payment of credit for health insurance costs of eligible individuals),
+&emsp;&emsp;(B) the number of months for which amounts were entitled to be received with respect to such individual under section 7527 (relating to advance payment of credit for health insurance costs of eligible individuals),
 
 &emsp;&emsp;(C) the amount entitled to be received for each such month, and
 
@@ -31,6 +31,8 @@ Every person required to make a return under subsection (a) shall furnish to eac
 > The written statement required under the preceding sentence shall be furnished on or before January 31 of the year following the calendar year for which the return under subsection (a) is required to be made.
 
 (Added Pub. L. 107–210, div. A, title II, §202(c)(1), Aug. 6, 2002, 116 Stat. 962.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -16,7 +16,7 @@ The Congress finds that—
 
 &emsp;(6) census data, national polls, and other studies have documented that people with disabilities, as a group, occupy an inferior status in our society, and are severely disadvantaged socially, vocationally, economically, and educationally;
 
-&emsp;(7) the Nation's proper goals regarding individuals with disabilities are to assure equality of opportunity, full participation, independent living, and economic self-sufficiency for such individuals; and
+&emsp;(7) the Nation's proper goals regarding individuals with disabilities are to assure equalityof opportunity, full participation, independent living, and economic self-sufficiency for such individuals; and
 
 &emsp;(8) the continuing existence of unfair and unnecessary discrimination and prejudice denies people with disabilities the opportunity to compete on an equal basis and to pursue those opportunities for which our free society is justifiably famous, and costs the United States billions of dollars in unnecessary expenses resulting from dependency and nonproductivity.
 
@@ -34,6 +34,8 @@ It is the purpose of this chapter—
 
 (Pub. L. 101–336, §2, July 26, 1990, 104 Stat. 328; Pub. L. 110–325, §3, Sept. 25, 2008, 122 Stat. 3554.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
@@ -43,6 +45,8 @@ This chapter, referred to in subsec. (b), was in the original "this Act", meanin
 <b>2008</b>—Subsec. (a)(1). Pub. L. 110–325, §3(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "some 43,000,000 Americans have one or more physical or mental disabilities, and this number is increasing as the population as a whole is growing older;".
 
 Subsec. (a)(7) to (9). Pub. L. 110–325, §3(2), (3), redesignated pars. (8) and (9) as (7) and (8), respectively, and struck out former par. (7) which read as follows: "individuals with disabilities are a discrete and insular minority who have been faced with restrictions and limitations, subjected to a history of purposeful unequal treatment, and relegated to a position of political powerlessness in our society, based on characteristics that are beyond the control of such individuals and resulting from stereotypic assumptions not truly indicative of the individual ability of such individuals to participate in, and contribute to, society;".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 
@@ -88,7 +92,7 @@ Purposes.—The purposes of this Act \[see Short Title of 2008 Amendment note ab
 
 &emsp;"(2) to reject the requirement enunciated by the Supreme Court in Sutton v. United Air Lines, Inc., 527 U.S. 471 (1999) and its companion cases that whether an impairment substantially limits a major life activity is to be determined with reference to the ameliorative effects of mitigating measures;
 
-&emsp;"(3) to reject the Supreme Court's reasoning in Sutton v. United Air Lines, Inc., 527 U.S. 471 (1999) with regard to coverage under the third prong of the definition of disability and to reinstate the reasoning of the Supreme Court in School Board of Nassau County v. Arline, 480 U.S. 273 (1987) which set forth a broad view of the third prong of the definition of handicap under the Rehabilitation Act of 1973;
+&emsp;"(3) to reject the Supreme Court's reasoning in Sutton v. United Air Lines, Inc., 527 U.S. 471 (1999) withregard to coverage under the third prong of the definition of disability and to reinstate the reasoning of the Supreme Court in School Board of Nassau County v. Arline, 480 U.S. 273 (1987) which set forth a broad view of the third prong of the definition of handicap under the Rehabilitation Act of 1973;
 
 &emsp;"(4) to reject the standards enunciated by the Supreme Court in Toyota Motor Manufacturing, Kentucky, Inc. v. Williams, 534 U.S. 184 (2002), that the terms 'substantially' and 'major' in the definition of disability under the ADA 'need to be interpreted strictly to create a demanding standard for qualifying as disabled,' and that to be substantially limited in performing a major life activity under the ADA 'an individual must have an impairment that prevents or severely restricts the individual from doing activities that are of central importance to most people's daily lives';
 

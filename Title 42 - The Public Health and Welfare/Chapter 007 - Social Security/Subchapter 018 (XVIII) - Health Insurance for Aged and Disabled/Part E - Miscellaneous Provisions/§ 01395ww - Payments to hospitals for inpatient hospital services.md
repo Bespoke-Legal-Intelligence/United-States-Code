@@ -82,7 +82,7 @@
 
 &emsp;(ii) in the case of any other hospital, the operating costs for that hospital for its third full cost reporting period for which it receives payments under this subsection,
 
-> increased (in a compounded manner) for each succeeding fiscal year (through the fiscal yearinvolved) by the market basket percentage increase for the fiscal year.
+> increased (in a compounded manner) for each succeeding fiscal year (through the fiscal year involved) by the market basket percentage increase for the fiscal year.
 
 (D) For purposes of this paragraph, the term "expected costs", with respect to the cost reporting period ending in a fiscal year, means the lesser of the operating costs of inpatient hospital services or target amount per discharge for the previous cost reporting period updated by the market basket percentage increase (as defined in paragraph (3)(B)(iii)) for the fiscal year.
 
@@ -198,7 +198,7 @@
 
 (II) For fiscal years 2005 and 2006, each subsection (d) hospital shall submit to the Secretary quality data (for a set of 10 indicators established by the Secretary as of November 1, 2003) that relate to the quality of care furnished by the hospital in inpatient settings in a form and manner, and at a time, specified by the Secretary for purposes of this clause, but with respect to fiscal year 2005, the Secretary shall provide for a 30-day grace period for the submission of data by a hospital.
 
-(viii)(I) For purposes of clause (i) for fiscal year 2007 and each subsequent fiscal year, in thecase of a subsection (d) hospital that does not submit, to the Secretary in accordance with this clause, data required to be submitted on measures selected under this clause with respect to such a fiscal year, the applicable percentage increase under clause (i) for such fiscal year shall be reduced by 2.0 percentage points (or, beginning with fiscal year 2015, by one-quarter of such applicable percentage increase (determined without regard to clause (ix), (xi), or (xii))). Such reduction shall apply only with respect to the fiscal year involved and the Secretary shall not take into account such reduction in computing the applicable percentage increase under clause (i) for a subsequent fiscal year, and the Secretary and the Medicare Payment Advisory Commission shall carry out the requirements under section 5001(b) of the Deficit Reduction Act of 2005.
+(viii)(I) For purposes of clause (i) for fiscal year 2007 and each subsequent fiscal year, in the case of a subsection (d) hospital that does not submit, to the Secretary in accordance with this clause, data required to be submitted on measures selected under this clause with respect to such a fiscal year, the applicable percentage increase under clause (i) for such fiscal year shall be reduced by 2.0 percentage points (or, beginning with fiscal year 2015, by one-quarter of such applicable percentage increase (determined without regard to clause (ix), (xi), or (xii))). Such reduction shall apply only with respect to the fiscal year involved and the Secretary shall not take into account such reduction in computing the applicable percentage increase under clause (i) for a subsequent fiscal year, and the Secretary and the Medicare Payment Advisory Commission shall carry out the requirements under section 5001(b) of the Deficit Reduction Act of 2005.
 
 (II) Each subsection (d) hospital shall submit data on measures selected under this clause to the Secretary in a form and manner, and at a time, specified by the Secretary for purposes of this clause. The Secretary may require hospitals to submit data on measures that are not used for the determination of value-based incentive payments under subsection (o).
 
@@ -218,7 +218,7 @@
 
 (bb) In the case of a specified area or medical topic determined appropriate by the Secretary for which a feasible and practical measure has not been endorsed by the entity with a contract under section 1395aaa(a) of this title, the Secretary may specify a measure that is not so endorsed as long as due consideration is given to measures that have been endorsed or adopted by a consensus organization identified by the Secretary.
 
-(X) To the extent practicable, the Secretary shall, with input from consensus organizations and other stakeholders, take steps to ensure that the measures specified by the Secretary under this clause are coordinated and aligned with quality measures applicable to—
+(X) To the extent practicable, the Secretary shall, with input from consensus organizationsand other stakeholders, take steps to ensure that the measures specified by the Secretary under this clause are coordinated and aligned with quality measures applicable to—
 
 &emsp;(aa) physicians under section 1395w–4(k) of this title; and
 
@@ -230,7 +230,7 @@
 
 (bb) The Secretary shall not include on the Hospital Compare internet website any measures based on the questions appearing on the Hospital Consumer Assessment of Healthcare Providers and Systems survey in 2018 or 2019 about communication by hospital staff with an individual about such individual's pain.
 
-(ix)(I) For purposes of clause (i) for fiscal year 2015 and each subsequent fiscal year, in the case of an eligible hospital (as defined in subsection (n)(6)) that is not a meaningful EHR user (as defined in subsection (n)(3)) for an EHR reporting period for such fiscal year, three-quarters of the applicable percentage increase otherwise applicable under clause (i) (determined without regard to clause (viii), (xi), or (xii)) for such fiscal year shall be reduced by 331/3 percent for fiscal year 2015, 662/3 percent for fiscal year 2016, and 100 percent for fiscal year 2017 and each subsequent fiscal year. Such reduction shall apply only with respect to the fiscal year involved andthe Secretary shall not take into account such reduction in computing the applicable percentage increase under clause (i) for a subsequent fiscal year.
+(ix)(I) For purposes of clause (i) for fiscal year 2015 and each subsequent fiscal year, in the case of an eligible hospital (as defined in subsection (n)(6)) that is not a meaningful EHR user (as defined in subsection (n)(3)) for an EHR reporting period for such fiscal year, three-quarters of the applicable percentage increase otherwise applicable under clause (i) (determined without regard to clause (viii), (xi), or (xii)) for such fiscal year shall be reduced by 331/3 percent for fiscal year 2015, 662/3 percent for fiscal year 2016, and 100 percent for fiscal year 2017 and each subsequent fiscal year. Such reduction shall apply only with respect to the fiscal year involved and the Secretary shall not take into account such reduction in computing the applicable percentage increase under clause (i) for a subsequent fiscal year.
 
 (II) The Secretary may, on a case-by-case basis (and, with respect to the application of subclause (I) for fiscal year 2017, for categories of subsection (d) hospitals, as established by the Secretary and posted on the Internet website of the Centers for Medicare \& Medicaid Services prior to December 15, 2015, an application for which must be submitted to the Secretary by not later than April 1, 2016), exempt an eligible hospital from the application of subclause (I) with respect to a fiscal year if the Secretary determines, subject to annual renewal, that requiring such hospital to be a meaningful EHR user during such fiscal year would result in a significant hardship, such as in the case of a hospital in a rural area without sufficient Internet access. The Secretary shall exempt an eligible hospital from the application of the payment adjustment under subclause (I) with respect to a fiscal year, subject to annual renewal, if the Secretary determines that compliance with the requirement for being a meaningful EHR user is not possible because the certified EHR technology used by such hospital is decertified under a program kept or recognized pursuant to section 300jj–11(c)(5) of this title. In no case may a hospital be granted an exemption under this subclause for more than 5 years.
 
@@ -304,7 +304,7 @@
 
 &emsp;(ii) with respect to a later cost reporting period, the target amount for the preceding 12-month cost reporting period, increased by the applicable percentage increase under subparagraph (B)(ii) for that later cost reporting period.
 
-> There shall be substituted for the base cost reporting period described in clause (i) a hospital's cost reporting period (if any) beginning during fiscal year 1987 if such substitution results in an increase in the target amount for the hospital.
+> There shall be substituted for the base cost reporting period described in clause (i) a hospital's cost reporting period (if any) beginning duringfiscal year 1987 if such substitution results in an increase in the target amount for the hospital.
 
 (F)(i) In the case of a hospital (or unit described in the matter following clause (v) of subsection (d)(1)(B)) that received payment under this subsection for inpatient hospital services furnished during cost reporting periods beginning before October 1, 1990, that is within a class of hospital described in clause (iii), and that elects (in a form and manner determined by the Secretary) this subparagraph to apply to the hospital, the target amount for the hospital's 12-month cost reporting period beginning during fiscal year 1998 is equal to the average described in clause (ii).
 
@@ -420,7 +420,7 @@
 
 (7)(A) Notwithstanding paragraph (1), in the case of a hospital or unit that is within a class of hospital described in subparagraph (B) which first receives payments under this section on or after October 1, 1997—
 
-&emsp;(i) for each of the first 2 cost reporting periods for which the hospital has a settled costreport, the amount of the payment with respect to operating costs described in paragraph (1) under part A on a per discharge or per admission basis (as the case may be) is equal to the lesser of—
+&emsp;(i) for each of the first 2 cost reporting periods for which the hospital has a settled cost report, the amount of the payment with respect to operating costs described in paragraph (1) under part A on a per discharge or per admission basis (as the case may be) is equal to the lesser of—
 
 &emsp;&emsp;(I) the amount of operating costs for such respective period, or
 
@@ -492,7 +492,7 @@
 
 &emsp;&emsp;(iv) the refusal to provide emergency services to any person who is in need of emergency services if the hospital provides such services;
 
-&emsp;(D) any change by the State in the system which has the effect of materially reducing payments to hospitals can only take effect upon 60 days notice to the Secretary and to the hospitals the payment to which is likely to be materially affected by the change; and
+&emsp;(D) any change by the State in the system which has the effect of materially reducing payments to hospitals can only take effectupon 60 days notice to the Secretary and to the hospitals the payment to which is likely to be materially affected by the change; and
 
 &emsp;(E) the State has provided the Secretary with satisfactory assurances that in the development of the system the State has consulted with local governmental officials concerning the impact of the system on public hospitals.
 
@@ -540,7 +540,7 @@
 
 &emsp;(v)(I) a hospital that the Secretary has classified, at any time on or before December 31, 1990,<sup>3</sup> (or, in the case of a hospital that, as of December 19, 1989, is located in a State operating a demonstration project under section 1395f(b) of this title, on or before December 31, 1991) for purposes of applying exceptions and adjustments to payment amounts under this subsection, as a hospital involved extensively in treatment for or research on cancer,
 
-&emsp;(II) a hospital that was recognized as a comprehensive cancer center or clinical cancer research center by the National Cancer Institute of the National Institutes of Health as of April 20, 1983, that is located in a State which, as of December 19, 1989, was not operating a demonstration project under section 1395f(b) of this title, that applied and was denied, on or before December 31, 1990, for classification as a hospital involved extensively in treatment for or research on cancer under this clause (as in effect on the day before August 5, 1997), that as of August 5, 1997, is licensed for less than 50 acute care beds, and that demonstrates for the 4-year period ending on December 31, 1996, that at least 50 percent of its total discharges have a principal finding of neoplastic disease, as defined in subparagraph (E), or
+&emsp;(II) a hospital that was recognized as a comprehensive cancer center or clinical cancer research center by the National Cancer Institute of the National Institutes of Health as of April 20, 1983, that is located in a State which, as of December 19, 1989, was not operating a demonstration project under section 1395f(b) of this title, that applied and was denied, on or before December 31, 1990, for classification as a hospital involved extensively in treatment for or research on cancer under this clause (as in effect on the day before August 5, 1997), that as of August 5, 1997, is licensed for less than 50 acute care beds, and that demonstrates for the 4-year period ending on December 31, 1996, thatat least 50 percent of its total discharges have a principal finding of neoplastic disease, as defined in subparagraph (E), or
 
 &emsp;(III) a hospital that was recognized as a clinical cancer research center by the National Cancer Institute of the National Institutes of Health as of February 18, 1998, that has never been reimbursed for inpatient hospital services pursuant to a reimbursement system under a demonstration project under section 1395f(b) of this title, that is a freestanding facility organized primarily for treatment of and research on cancer and is not a unit of another hospital, that as of December 21, 2000, is licensed for 162 acute care beds, and that demonstrates for the 4-year period ending on June 30, 1999, that at least 50 percent of its total discharges have a principal finding of neoplastic disease, as defined in subparagraph (E), or
 
@@ -600,7 +600,7 @@ Computing urban and rural averages.—The Secretary shall compute an average of 
 
 &emsp;&emsp;(ii) for all subsection (d) hospitals located in a rural area within the United States or that region, respectively.
 
-> &emsp;For purposes of this subsection, the term "region" means one of the nine census divisions, comprising the fifty States and the District of Columbia, established by the Bureau of the Census for statistical and reporting purposes; the term "urban area" means an area within a Metropolitan Statistical Area (as defined by the Office of Management and Budget) or within such similar area as the Secretary has recognized under subsection (a) by regulation; the term "large urban area" means, with respect to a fiscal year, such an urban area which the Secretary determines (in the publications described in subsection (e)(5) before the fiscal year) has a population of more than 1,000,000 (as determined by the Secretary basedon the most recent available population data published by the Bureau of the Census); and the term "rural area" means any area outside such an area or similar area. A hospital located in a Metropolitan Statistical Area shall be deemed to be located in the region in which the largest number of the hospitals in the same Metropolitan Statistical Area are located, or, at the option of the Secretary, the region in which the majority of the inpatient discharges (with respect to which payments are made under this subchapter) from hospitals in the same Metropolitan Statistical Area are made.
+> &emsp;For purposes of this subsection, the term "region" means one of the nine census divisions, comprising the fifty States and the District of Columbia, established by the Bureau of the Census for statistical and reporting purposes; the term "urban area" means an area within a Metropolitan Statistical Area (as defined by the Office of Management and Budget) or within such similar area as the Secretary has recognized under subsection (a) by regulation; the term "large urban area" means, with respect to a fiscal year, such an urban area which the Secretary determines (in the publications described in subsection (e)(5) before the fiscal year) has a population of more than 1,000,000 (as determined by the Secretary based on the most recent available population data published by the Bureau of the Census); and the term "rural area" means any area outside such an area or similar area. A hospital located in a Metropolitan Statistical Area shall be deemed to be located in the region in which the largest number of the hospitals in the same Metropolitan Statistical Area are located, or, at the option of the Secretary, the region in which the majority of the inpatient discharges (with respect to which payments are made under this subchapter) from hospitals in the same Metropolitan Statistical Area are made.
 
 &emsp;(E)
 
@@ -634,13 +634,13 @@ Adjusting for different area wage levels.—The Secretary shall adjust the propo
 
 &emsp;(A)
 
-Updating previous standardized amounts.—(i) For discharges occurring in a fiscal year beginning before October 1, 1987, the Secretary shall compute an average standardized amount for hospitals located in an urban area and for hospitals located in a rural area within the United States and for hospitals located in an urban area and for hospitals located in a rural area within each region, equal to the respective average standardized amount computed for the previous fiscal year under paragraph (2)(D) or under this subparagraph, increased for the fiscal year involved by the applicable percentage increase under subsection (b)(3)(B). With respect to discharges occurring on or after October 1, 1987, the Secretary shall compute urban and rural averages on the basis of discharge weighting rather than hospital weighting, making appropriate adjustments to ensure that computation on such basis does not result in total payments under this section that are greater or less than the total payments that would have been made under this section but for this sentence, and making appropriate changes in the manner of determining the reductions under subparagraph (C)(ii).
+Updating previous standardized amounts.—(i) For discharges occurring in afiscal year beginning before October 1, 1987, the Secretary shall compute an average standardized amount for hospitals located in an urban area and for hospitals located in a rural area within the United States and for hospitals located in an urban area and for hospitals located in a rural area within each region, equal to the respective average standardized amount computed for the previous fiscal year under paragraph (2)(D) or under this subparagraph, increased for the fiscal year involved by the applicable percentage increase under subsection (b)(3)(B). With respect to discharges occurring on or after October 1, 1987, the Secretary shall compute urban and rural averages on the basis of discharge weighting rather than hospital weighting, making appropriate adjustments to ensure that computation on such basis does not result in total payments under this section that are greater or less than the total payments that would have been made under this section but for this sentence, and making appropriate changes in the manner of determining the reductions under subparagraph (C)(ii).
 
 &emsp;(ii) For discharges occurring in a fiscal year beginning on or after October 1, 1987, and ending on or before September 30, 1994, the Secretary shall compute an average standardized amount for hospitals located in a large urban area, for hospitals located in a rural area, and for hospitals located in other urban areas, within the United States and within each region, equal to the respective average standardized amount computed for the previous fiscal year under this subparagraph increased by the applicable percentage increase under subsection (b)(3)(B)(i) with respect to hospitals located in the respective areas for the fiscal year involved.
 
 &emsp;(iii) For discharges occurring in the fiscal year beginning on October 1, 1994, the average standardized amount for hospitals located in a rural area shall be equal to the average standardized amount for hospitals located in an urban area. For discharges occurring on or after October 1, 1994, the Secretary shall adjust the ratio of the labor portion to non-labor portion of each average standardized amount to equal such ratio for the national average of all standardized amounts.
 
-&emsp;(iv)(I) Subject to subclause (II), for discharges occurring in a fiscal year beginning onor after October 1, 1995, the Secretary shall compute an average standardized amount for hospitals located in a large urban area and for hospitals located in other areas within the United States and within each region equal to the respective average standardized amount computed for the previous fiscal year under this subparagraph increased by the applicable percentage increase under subsection (b)(3)(B)(i) with respect to hospitals located in the respective areas for the fiscal year involved.
+&emsp;(iv)(I) Subject to subclause (II), for discharges occurring in a fiscal year beginning on or after October 1, 1995, the Secretary shall compute an average standardized amount for hospitals located in a large urban area and for hospitals located in other areas within the United States and within each region equal to the respective average standardized amount computed for the previous fiscal year under this subparagraph increased by the applicable percentage increase under subsection (b)(3)(B)(i) with respect to hospitals located in the respective areas for the fiscal year involved.
 
 &emsp;(II) For discharges occurring in a fiscal year (beginning with fiscal year 2004), the Secretary shall compute a standardized amount for hospitals located in any area within the United States and within each region equal to the standardized amount computed for the previous fiscal year under this subparagraph for hospitals located in a large urban area (or, beginning with fiscal year 2005, for all hospitals in the previous fiscal year) increased by the applicable percentage increase under subsection (b)(3)(B)(i) for the fiscal year involved.
 
@@ -688,7 +688,7 @@ Adjusting for different area wage levels.—
 
 &emsp;&emsp;(i)
 
-In general.—Except as provided in clause (ii) or (iii), the Secretary shall adjust the proportion, (as estimated by the Secretary from time to time) of hospitals' costs which are attributable to wages and wage-related costs, of the DRG prospective payment rates computed under subparagraph (D) for area differences in hospital wage levels by a factor (established by the Secretary) reflecting the relative hospital wage level in the geographic area of the hospital compared tothe national average hospital wage level. Not later than October 1, 1990, and October 1, 1993 (and at least every 12 months thereafter), the Secretary shall update the factor under the preceding sentence on the basis of a survey conducted by the Secretary (and updated as appropriate) of the wages and wage-related costs of subsection (d) hospitals in the United States. Not less often than once every 3 years the Secretary (through such survey or otherwise) shall measure the earnings and paid hours of employment by occupational category and shall exclude data with respect to the wages and wage-related costs incurred in furnishing skilled nursing facility services. Any adjustments or updates made under this subparagraph for a fiscal year (beginning with fiscal year 1991) shall be made in a manner that assures that the aggregate payments under this subsection in the fiscal year are not greater or less than those that would have been made in the year without such adjustment. The Secretary shall apply the previous sentence for any period as if the amendments made by section 403(a)(1) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 and the amendments made by section 10324(a)(1) of the Patient Protection and Affordable Care Act had not been enacted.
+In general.—Except as provided in clause (ii), (iii), or (iv), the Secretary shall adjust the proportion, (as estimated by the Secretary from time to time) of hospitals' costs which are attributable to wages and wage-related costs, of the DRG prospective payment rates computed under subparagraph (D) for area differences in hospital wage levels by a factor (established by the Secretary) reflecting the relative hospital wage level in the geographic area of the hospital compared to the national average hospital wage level. Not later than October 1, 1990, and October 1, 1993 (and at least every 12 months thereafter), the Secretary shall update the factor under the preceding sentence on the basis of a survey conducted by the Secretary (and updated as appropriate) of the wages and wage-related costs of subsection (d) hospitals in the United States. Not less often than once every 3 years the Secretary (through such survey or otherwise) shall measure the earnings and paid hours of employment by occupational category and shall exclude data with respect to the wages and wage-related costs incurred in furnishing skilled nursing facility services. Any adjustments or updates made under this subparagraph for a fiscal year (beginning with fiscal year 1991) shall be made in a manner that assures that the aggregate payments under this subsection in the fiscal year are not greater or less than those that would have been made in the year without such adjustment. The Secretary shall apply the previous sentence for any period as if the amendments made by section 403(a)(1) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003, the amendments made by section 10324(a)(1) of the Patient Protection and Affordable Care Act, and the amendments made by section 9831(a) of the American Rescue Plan Act of 2021 had not been enacted.
 
 &emsp;&emsp;(ii)
 
@@ -713,6 +713,26 @@ Frontier county defined.—In this clause, the term "frontier county" means a co
 &emsp;&emsp;&emsp;(IV)
 
 Limitation.—This clause shall not apply to any hospital located in a State that receives a non-labor related share adjustment under paragraph (5)(H).
+
+&emsp;&emsp;(iv)
+
+Floor on area wage index for hospitals in all-urban states.—
+
+&emsp;&emsp;&emsp;(I)
+
+In general.—For discharges occurring on or after October 1, 2021, the area wage index applicable under this subparagraph to any hospital in an all-urban State (as defined in subclause (IV)) may not be less than the minimum area wage index for the fiscal year for hospitals in that State, as established under subclause (II).
+
+&emsp;&emsp;&emsp;(II)
+
+Minimum area wage index.—For purposes of subclause (I), the Secretary shall establish a minimum area wage index for a fiscal year for hospitals in each all-urban State using the methodology described in section 412.64(h)(4)(vi) of title 42, Code of Federal Regulations, as in effect for fiscal year 2018.
+
+&emsp;&emsp;&emsp;(III)
+
+Waiving budget neutrality.—Pursuant to the fifth sentence of clause (i), this clause shall not be applied in a budget neutral manner.
+
+&emsp;&emsp;&emsp;(IV)
+
+All-urban state defined.—In this clause, the term "all-urban State" means a State in which there are no rural areas (as defined in paragraph (2)(D)) or a Statein which there are no hospitals classified as rural under this section.
 
 (4)(A) The Secretary shall establish a classification of inpatient hospital discharges by diagnosis-related groups and a methodology for classifying specific hospital discharges within these groups.
 
@@ -760,7 +780,7 @@ Limitation.—This clause shall not apply to any hospital located in a State tha
 
 (ii) For cases which are not included in clause (i), a subsection (d) hospital may request additional payments in any case where charges, adjusted to cost, exceed a fixed multiple of the applicable DRG prospective payment rate, or exceed such other fixed dollar amount, whichever is greater, or, for discharges in fiscal years beginning on or after October 1, 1994, exceed the sum of the applicable DRG prospective payment rate plus any amounts payable under subparagraphs (B) and (F) plus a fixed dollar amount determined by the Secretary.
 
-(iii) The amount of such additional payment under clauses (i) and (ii) shall be determined by the Secretary and shall (except as payments under clause (i) are required to be reduced to take into account the requirements of clause (v)) approximate the marginal cost of care beyond the cutoff point applicable under clause (i) or (ii).
+(iii) The amount of such additional payment under clauses (i) and (ii) shall be determined by the Secretary and shall (except as payments under clause (i) are required to be reduced totake into account the requirements of clause (v)) approximate the marginal cost of care beyond the cutoff point applicable under clause (i) or (ii).
 
 (iv) The total amount of the additional payments made under this subparagraph for discharges in a fiscal year may not be less than 5 percent nor more than 6 percent of the total payments projected or estimated to be made based on DRG prospective payment rates for discharges in that year.
 
@@ -844,7 +864,7 @@ Limitation.—This clause shall not apply to any hospital located in a State tha
 
 &emsp;(xii) For discharges occurring on or after July 1, 2023, insofar as an additional payment amount under this subparagraph is attributable to resident positions distributed to a hospital under subsection (h)(9), the indirect teaching adjustment factor shall be computed in the same manner as provided under clause (ii) with respect to such resident positions.
 
-(C)(i) The Secretary shall provide for such exceptions and adjustments to the payment amounts established under this subsection (other than under paragraph (9)) as the Secretary deems appropriate to take into account the special needs of regional and national referral centers (including those hospitals of 275 or more beds located in rural areas). A hospital which is classified as a rural hospital may appeal to the Secretary to be classified as a rural referral center under this clause on the basis ofcriteria (established by the Secretary) which shall allow the hospital to demonstrate that it should be so reclassified by reason of certain of its operating characteristics being similar to those of a typical urban hospital located in the same census region and which shall not require a rural osteopathic hospital to have more than 3,000 discharges in a year in order to be classified as a rural referral center. Such characteristics may include wages, scope of services, service area, and the mix of medical specialties. The Secretary shall publish the criteria not later than August 17, 1984, for implementation by October 1, 1984. An appeal allowed under this clause must be submitted to the Secretary (in such form and manner as the Secretary may prescribe) during the quarter before the first quarter of the hospital's cost reporting period (or, in the case of a cost reporting period beginning during October 1984, during the first quarter of that period), and the Secretary must make a final determination with respect to such appeal within 60 days after the date the appeal was submitted. Any payment adjustments necessitated by a reclassification based upon the appeal shall be effective at the beginning of such cost reporting period.
+(C)(i) The Secretary shall provide for such exceptions and adjustments to the payment amounts established under this subsection (other than under paragraph (9)) as the Secretary deems appropriate to take into account the special needs of regional and national referral centers (including those hospitals of 275 or more beds located in rural areas). A hospital which is classified as a rural hospital may appeal to the Secretary to be classified as a rural referral center under this clause on the basis of criteria (established by the Secretary) which shall allow the hospital to demonstrate that it should be so reclassified by reason of certain of its operating characteristics being similar to those of a typical urban hospital located in the same census region and which shall not require a rural osteopathic hospital to have more than 3,000 discharges in a year in order to be classified as a rural referral center. Such characteristics may include wages, scope of services, service area, and the mix of medical specialties. The Secretary shall publish the criteria not later than August 17, 1984, for implementation by October 1, 1984. An appeal allowed under this clause must be submitted to the Secretary (in such form and manner as the Secretary may prescribe) during the quarter before the first quarter of the hospital's cost reporting period (or, in the case of a cost reporting period beginning during October 1984, during the first quarter of that period), and the Secretary must make a final determination with respect to such appeal within 60 days after the date the appeal was submitted. Any payment adjustments necessitated by a reclassification based upon the appeal shall be effective at the beginning of such cost reporting period.
 
 (ii) The Secretary shall provide, under clause (i), for the classification of a rural hospital as a regional referral center if the hospital has a case mix index equal to or greater than the median case mix index for hospitals (other than hospitals with approved teaching programs) located in an urban area in the same region (as defined in paragraph (2)(D)), has at least 5,000 discharges a year or, if less, the median number of discharges in urban hospitals in the region in which the hospital is located (or, in the case of a rural osteopathic hospital, meets the criterion established by the Secretary under clause (i) with respect to the annual number of discharges for such hospitals), and meets any other criteria established by the Secretary under clause (i).
 
@@ -894,7 +914,7 @@ Limitation.—This clause shall not apply to any hospital located in a State tha
 
 &emsp;(IV) is located in a rural area, is classified as a rural referral center under subparagraph (C), and is classified as a sole community hospital under subparagraph (D), is equal to 10 percent or, if greater, the percent determined in accordance with the applicable formula described in clause (viii) or, subject to clause (xiv) and for discharges occurring on or after April 1, 2001, the greater of the percentages determined under clause (x) or (xi);
 
-&emsp;(V) is located in a rural area, is classified as a rural referral center under subparagraph (C), and is not classified as a sole community hospital under subparagraph (D), is equal to the percent determined in accordance with the applicable formula described in clause (viii) or, subject to clause (xiv) and for discharges occurring on or after April 1, 2001, is equal to the percent determined in accordance with clause (xi); or
+&emsp;(V) is located in a rural area, is classified as a rural referral center under subparagraph (C), and is not classified as a sole community hospital under subparagraph (D), is equal to the percent determined in accordance with the applicable formula described in clause (viii) or, subject to clause (xiv) and for discharges occurring on or after April 1, 2001, is equal to thepercent determined in accordance with clause (xi); or
 
 &emsp;(VI) is located in a rural area, is classified as a sole community hospital under subparagraph (D), and is not classified as a rural referral center under subparagraph (C), is 10 percent or, subject to clause (xiv) and for discharges occurring on or after April 1, 2001, is equal to the percent determined in accordance with clause (x).
 
@@ -956,7 +976,7 @@ Limitation.—This clause shall not apply to any hospital located in a State tha
 
 (x) Subject to clause (xiv), for purposes of clause (iv)(VI) (relating to sole community hospitals), in the case of a hospital for a cost reporting period with a disproportionate patient percentage (as defined in clause (vi)) that—
 
-&emsp;(I) is less than 19.3, the disproportionate share adjustment percentage is determined in accordance with the following formula: (P−15)(.65) + 2.5;
+&emsp;(I) is less than 19.3, the disproportionate share adjustment percentage is determined inaccordance with the following formula: (P−15)(.65) + 2.5;
 
 &emsp;(II) is equal to or exceeds 19.3, but is less than 30.0, such adjustment percentage is equal to 5.25 percent; or
 
@@ -998,7 +1018,7 @@ Limitation.—This clause shall not apply to any hospital located in a State tha
 
 (ii) The amount determined under this clause is—
 
-&emsp;(I) for discharges occurring during the 36-month period beginning with the first day of the cost reporting period that begins on or after April 1, 1990, the amount by which thehospital's target amount for the cost reporting period (as defined in subsection (b)(3)(D)) exceeds the amount determined under paragraph (1)(A)(iii); and
+&emsp;(I) for discharges occurring during the 36-month period beginning with the first day of the cost reporting period that begins on or after April 1, 1990, the amount by which the hospital's target amount for the cost reporting period (as defined in subsection (b)(3)(D)) exceeds the amount determined under paragraph (1)(A)(iii); and
 
 &emsp;(II) for discharges occurring during any subsequent cost reporting period (or portion thereof) and before October 1, 1994, or discharges occurring on or after October 1, 1997, and before October 1, 2022, 50 percent (or 75 percent in the case of discharges occurring on or after October 1, 2006) of the amount by which the hospital's target amount for the cost reporting period or for discharges in the fiscal year (as defined in subsection (b)(3)(D)) exceeds the amount determined under paragraph (1)(A)(iii).
 
@@ -1018,7 +1038,7 @@ Limitation.—This clause shall not apply to any hospital located in a State tha
 
 &emsp;(IV) for which not less than 60 percent of its inpatient days or discharges during the cost reporting period beginning in fiscal year 1987, or two of the three most recently audited cost reporting periods for which the Secretary has a settled cost report, were attributable to inpatients entitled to benefits under part A.
 
-> Subclause (I)(bb) shall apply for purposes of payment under clause (ii) only for discharges of a hospital occurring on or after the effective date of a determination of medicare-dependent small rural hospital status made by the Secretary with respect to the hospital after February 9, 2018. For purposes of applying subclause (II) of paragraph (8)(E)(ii) under subclause (I)(bb), such subclause (II) shall be applied by inserting "as of January 1, 2018," after "such State" each place it appears.
+> Subclause (I)(bb) shall apply for purposes of payment under clause (ii) only for discharges of a hospital occurring on or after the effective date of a determination of medicare-dependent small rural hospital status made by the Secretary with respect to the hospital after February 9,2018. For purposes of applying subclause (II) of paragraph (8)(E)(ii) under subclause (I)(bb), such subclause (II) shall be applied by inserting "as of January 1, 2018," after "such State" each place it appears.
 
 (H) The Secretary may provide for such adjustments to the payment amounts under this subsection as the Secretary deems appropriate to take into account the unique circumstances of hospitals located in Alaska and Hawaii.
 
@@ -1086,7 +1106,7 @@ Limitation.—This clause shall not apply to any hospital located in a State tha
 
 &emsp;(III) The Secretary shall provide for a meeting at which organizations representing hospitals, physicians, such individuals, manufacturers, and any other interested party may present comments, recommendations, and data to the clinical staff of the Centers for Medicare \& Medicaid Services before publication of a notice of proposed rulemaking regarding whether service or technology represents a substantial improvement.
 
-(ix) Before establishing any add-on payment under this subparagraph with respect to a new technology, the Secretary shall seek to identify one or more diagnosis-related groups associated with such technology, based on similar clinical or anatomical characteristics and the cost of the technology. Within such groups the Secretary shall assign an eligible new technology into a diagnosis-related group where the average costs of care most closely approximate the costs of care of using the new technology. No add-on payment under this subparagraph shall be made with respect to such new technology and thisclause shall not affect the application of paragraph (4)(C)(iii).
+(ix) Before establishing any add-on payment under this subparagraph with respect to a new technology, the Secretary shall seek to identify one or more diagnosis-related groups associated with such technology, based on similar clinical or anatomical characteristics and the cost of the technology. Within such groups the Secretary shall assign an eligible new technology into a diagnosis-related group where the average costs of care most closely approximate the costs of care of using the new technology. No add-on payment under this subparagraph shall be made with respect to such new technology and this clause shall not affect the application of paragraph (4)(C)(iii).
 
 (L)(i) In establishing the mechanism under subparagraph (K), the Secretary may establish new-technology groups into which a new medical service or technology will be classified if, based on the estimated average costs incurred with respect to discharges involving such service or technology, the DRG prospective payment rate otherwise applicable to such discharges under this subsection is inadequate.
 
@@ -1102,7 +1122,7 @@ Limitation.—This clause shall not apply to any hospital located in a State tha
 
 (ii) For purposes of this subparagraph, the term "allogeneic hematopoietic stem cell transplant" means, with respect to an individual, the intravenous infusion of hematopoietic cells derived from bone marrow, peripheral blood stem cells, or cord blood, but not including embryonic stem cells, of a donor to an individual that are or may be used to restore hematopoietic function in such individual having an inherited or acquired deficiency or defect.
 
-(6) The Secretary shall provide for publication in the Federal Register, on or before the August 1 before each fiscal year (beginning with fiscal year 1984), of a description of the methodology and data used in computing the adjusted DRG prospective payment rates under this subsection, including any adjustments required under subsection (e)(1)(B).
+(6) The Secretary shall provide for publication in the Federal Register, on or before the August 1 before each fiscal year (beginning with fiscalyear 1984), of a description of the methodology and data used in computing the adjusted DRG prospective payment rates under this subsection, including any adjustments required under subsection (e)(1)(B).
 
 (7) There shall be no administrative or judicial review under section 1395oo of this title or otherwise of—
 
@@ -1228,7 +1248,7 @@ Limitation.—This clause shall not apply to any hospital located in a State tha
 
 &emsp;&emsp;(II) the weighting factor (determined under paragraph (4)(B)) for that diagnosis-related group.
 
-&emsp;(iv)(I) The Secretary shall adjust the proportion (as estimated by the Secretary from time to time) of hospitals' costs which are attributable to wages and wage-related costs, of the Puerto Rico DRG prospective payment rate computed under clause (iii) for area differences in hospital wage levels by a factor (established by the Secretary) reflecting the relative hospital wage level in the geographic area of the hospital compared to the Puerto Rico average hospital wage level. The second and third sentences of paragraph (3)(E)(i) shall apply to subsection (d) Puerto Rico hospitals under this clause in the same manner as they apply to subsection (d) hospitals under such paragraph and, for purposes of this clause, anyreference in such paragraph to a subsection (d) hospital is deemed a reference to a subsection (d) Puerto Rico hospital.
+&emsp;(iv)(I) The Secretary shall adjust the proportion (as estimated by the Secretary from time to time) of hospitals' costs which are attributable to wages and wage-related costs, of the Puerto Rico DRG prospective payment rate computed under clause (iii) for area differences in hospital wage levels by a factor (established by the Secretary) reflecting the relative hospital wage level in the geographic area of the hospital compared to the Puerto Rico average hospital wage level. The second and third sentences of paragraph (3)(E)(i) shall apply to subsection (d) Puerto Rico hospitals under this clause in the same manner as they apply to subsection (d) hospitals under such paragraph and, for purposes of this clause, any reference in such paragraph to a subsection (d) hospital is deemed a reference to a subsection (d) Puerto Rico hospital.
 
 &emsp;(II) For discharges occurring on or after October 1, 2004, the Secretary shall substitute "62 percent" for the proportion described in the first sentence of clause (i), unless the application of this subclause would result in lower payments to a hospital than would otherwise be made.
 
@@ -1250,7 +1270,7 @@ Limitation.—This clause shall not apply to any hospital located in a State tha
 
 &emsp;(iii) on or after April 1, 2004, and before October 1, 2004, the applicable Puerto Rico percentage is 37.5 percent and the applicable Federal percentage is 62.5 percent;
 
-&emsp;(iv) on or after October 1, 2004, and before January 1, 2016, the applicable Puerto Rico percentage is 25 percent and the applicable Federal percentage is 75 percent; and
+&emsp;(iv) on or after October 1, 2004, and before January 1, 2016, the applicable Puerto Ricopercentage is 25 percent and the applicable Federal percentage is 75 percent; and
 
 &emsp;(v) on or after January 1, 2016, the applicable Puerto Rico percentage is 0 percent and the applicable Federal percentage is 100 percent.
 
@@ -1284,7 +1304,7 @@ Limitation.—This clause shall not apply to any hospital located in a State tha
 
 (ii) Notwithstanding clause (i), if the Secretary uses a method for making adjustments to the DRG prospective payment rate for area differences in hospital wage levels under paragraph (3)(E) that is not based on the use of Metropolitan Statistical Area classifications, the Secretary may revise the guidelines published under clause (i) to the extent such guidelines are used to determine the appropriateness of the geographic area in which the hospital is determined to be located for purposes of making such adjustments.
 
-(iii) Under the guidelines published by the Secretary under clause (i), in the case of a hospital which has ever been classified by the Secretary as a rural referral center under paragraph (5)(C), the Board may not reject the application of thehospital under this paragraph on the basis of any comparison between the average hourly wage of the hospital and the average hourly wage of hospitals in the area in which it is located.
+(iii) Under the guidelines published by the Secretary under clause (i), in the case of a hospital which has ever been classified by the Secretary as a rural referral center under paragraph (5)(C), the Board may not reject the application of the hospital under this paragraph on the basis of any comparison between the average hourly wage of the hospital and the average hourly wage of hospitals in the area in which it is located.
 
 (iv) The Secretary shall publish the guidelines described in clause (i) by July 1, 1990.
 
@@ -1296,7 +1316,7 @@ Limitation.—This clause shall not apply to any hospital located in a State tha
 
 &emsp;(II) an average of the average hourly wage amount for hospitals in such area from the most recently published hospital wage survey data of the Secretary (as of the date on which the hospital applies for reclassification) and such amount from each of the two immediately preceding surveys.
 
-(E)(i) The Board shall have full power and authority to make rules and establish procedures, not inconsistent with the provisions of this subchapter or regulations of the Secretary, which are necessary or appropriate to carry out the provisions of this paragraph. In the course of any hearing the Board may administer oaths and affirmations. The provisions of subsections (d) and (e) of section 405 of this title with respect to subpenas shall apply to the Board to the same extent as such provisions apply to the Secretary with respect to subchapter II.
+(E)(i) The Board shall have full power and authority to make rules and establish procedures, not inconsistent with the provisions of this subchapter or regulations of the Secretary, which are necessary or appropriate to carry out the provisions of this paragraph. In the course of any hearing the Board may administer oaths and affirmations. The provisions of subsections (d) and (e) of section 405 of this title with respect to subpenas shall apply to the Board to thesame extent as such provisions apply to the Secretary with respect to subchapter II.
 
 (ii) The Board is authorized to engage such technical assistance and to receive such information as may be required to carry out its functions, and the Secretary shall, in addition, make available to the Board such secretarial, clerical, and other assistance as the Board may require to carry out its functions.
 
@@ -1400,7 +1420,7 @@ Temporary applicable percentage increase.—For discharges occurring in fiscal y
 
 &emsp;(ii) the number of hospital employees residing in the qualifying county who are employed in such higher wage index area divided by the total number of hospital employees residing in the qualifying county who are employed in any higher wage index area.
 
-(E) The process under this paragraph may be based upon the process used by the Medicare Geographic Classification Review Board under paragraph (10). As the Secretary determines to be appropriate to carry out such process, the Secretary may require hospitals (including subsection (d) hospitals and other hospitals) andcritical access hospitals, as required under section 1395cc(a)(1)(T) of this title, to submit data regarding the location of residence, or the Secretary may use data from other sources.
+(E) The process under this paragraph may be based upon the process used by the Medicare Geographic Classification Review Board under paragraph (10). As the Secretary determines to be appropriate to carry out such process, the Secretary may require hospitals (including subsection (d) hospitals and other hospitals) and critical access hospitals, as required under section 1395cc(a)(1)(T) of this title, to submit data regarding the location of residence, or the Secretary may use data from other sources.
 
 (F) A wage index increase under this paragraph shall be effective for a period of 3 fiscal years, except that the Secretary shall establish procedures under which a subsection (d) hospital may elect to waive the application of such wage index increase.
 
@@ -1422,7 +1442,7 @@ Temporary applicable percentage increase.—For discharges occurring in fiscal y
 
 > are not greater or less than—
 
-&emsp;(ii) the target percentage (as defined in subsection (d)(1)(C)) of the payment amounts which would have been payable for such services for those same hospitals for that fiscal year under this section under the law as in effect before April 20, 1983 (excluding payments made under section 1395cc(a)(1)(F) of this title);
+&emsp;(ii) the target percentage (as defined in subsection (d)(1)(C)) of the payment amountswhich would have been payable for such services for those same hospitals for that fiscal year under this section under the law as in effect before April 20, 1983 (excluding payments made under section 1395cc(a)(1)(F) of this title);
 
 > except that the adjustment made under this subparagraph shall apply only to subsection (d) hospitals and shall not apply for purposes of making computations under subsection (d)(2)(B)(ii) or subsection (d)(3)(A).
 
@@ -1454,7 +1474,7 @@ Temporary applicable percentage increase.—For discharges occurring in fiscal y
 
 &emsp;(A) the April 1 before each fiscal year (beginning with fiscal year 1986), the Secretary's proposed recommendations under paragraph (4) for that fiscal year for public comment, and
 
-&emsp;(B) the August 1 before such fiscal year after such consideration of public comment on theproposal as is feasible in the time available, the Secretary's final recommendations under such paragraph for that year.
+&emsp;(B) the August 1 before such fiscal year after such consideration of public comment on the proposal as is feasible in the time available, the Secretary's final recommendations under such paragraph for that year.
 
 > The Secretary shall include in the publication referred to in subparagraph (A) for a fiscal year the report of the Commission's recommendations submitted under paragraph (3) for that fiscal year. To the extent that the Secretary's recommendations under paragraph (4) differ from the Commission's recommendations for that fiscal year, the Secretary shall include in the publication referred to in subparagraph (A) an explanation of the Secretary's grounds for not following the Commission's recommendations.
 
@@ -1516,7 +1536,7 @@ Temporary applicable percentage increase.—For discharges occurring in fiscal y
 
 (B) Subparagraph (A) shall not apply to payments with respect to the capital-related costs of any hospital that is a sole community hospital (as defined in subsection (d)(5)(D)(iii)) or a critical access hospital (as defined in section 1395x(mm)(1) of this title).
 
-(4) In determining the amount of the payments that are attributable to portions of cost reporting periods occurring during fiscal years 1998 through 2002 and that may be made under this subchapter with respect to capital-related costs of inpatient hospital services of a hospital which is described in clause (i), (ii), or (iv) of subsection (d)(1)(B) or a unit described in the matter after clause (v) of such subsection, the Secretary shall reduce the amounts of such payments otherwise determined under this subchapter by 15 percent.
+(4) In determining the amount of the payments that are attributable to portions of cost reporting periods occurring during fiscal years1998 through 2002 and that may be made under this subchapter with respect to capital-related costs of inpatient hospital services of a hospital which is described in clause (i), (ii), or (iv) of subsection (d)(1)(B) or a unit described in the matter after clause (v) of such subsection, the Secretary shall reduce the amounts of such payments otherwise determined under this subchapter by 15 percent.
 
 #### (h) Payments for direct graduate medical education costs
 
@@ -1554,7 +1574,7 @@ Temporary applicable percentage increase.—For discharges occurring in fiscal y
 
 #### (ii) Freeze in update for fiscal years 1994 and 1995
 
-&emsp;&emsp;&emsp;For cost reporting periods beginning during fiscal year 1994 or fiscal year 1995, theapproved FTE resident amount for a hospital shall not be updated under clause (i) for a resident who is not a primary care resident (as defined in paragraph (5)(H)) or a resident enrolled in an approved medical residency training program in obstetrics and gynecology.
+&emsp;&emsp;&emsp;For cost reporting periods beginning during fiscal year 1994 or fiscal year 1995, the approved FTE resident amount for a hospital shall not be updated under clause (i) for a resident who is not a primary care resident (as defined in paragraph (5)(H)) or a resident enrolled in an approved medical residency training program in obstetrics and gynecology.
 
 #### (iii) Floor for locality adjusted national average per resident amount
 
@@ -1660,7 +1680,7 @@ Temporary applicable percentage increase.—For discharges occurring in fiscal y
 
 &emsp;&emsp;&emsp;&emsp;(I) the aggregate approved amount (as defined in subparagraph (B)) for that period; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the fraction of the total number of inpatient-bed days (as established by theSecretary) during the period which are attributable to such enrolled individuals.
+&emsp;&emsp;&emsp;&emsp;(II) the fraction of the total number of inpatient-bed days (as established by the Secretary) during the period which are attributable to such enrolled individuals.
 
 #### (ii) Applicable percentage
 
@@ -1750,7 +1770,7 @@ Temporary applicable percentage increase.—For discharges occurring in fiscal y
 
 #### (II) Limitation to 3 FTE residents for any hospital
 
-&emsp;&emsp;&emsp;&emsp;The total number of individuals counted under subclause (I) for a hospital may not exceed 3 full-time equivalent residents.
+&emsp;&emsp;&emsp;&emsp;The total number of individuals counted under subclause (I) for a hospital maynot exceed 3 full-time equivalent residents.
 
 #### (G) Counting interns and residents for FY 1998 and subsequent years
 
@@ -1778,7 +1798,7 @@ Temporary applicable percentage increase.—For discharges occurring in fiscal y
 
 &emsp;&emsp;&emsp;(IV) In applying this clause in the case of a hospital that, as of December 27, 2020, has a limitation under subparagraph (F), based on a cost reporting period beginning on or after October 1, 1997, and before such date, of no more than 3.0 full-time-equivalent residents, the Secretary shall adjust the limitation in the manner applicable to a new approved medical residency training program if the Secretary determines the hospital begins training more than 3.0 full-time-equivalent residents in a program year beginning on or after such date and before the date that is 5 years after such date.
 
-&emsp;&emsp;&emsp;(V) An adjustment to the limitation applicable to a hospital made pursuant to subclause (III) or (IV) shall be made in a manner consistent with the methodology, as appropriate, in section 413.79(e) of title42, Code of Federal Regulations (or any successor regulation). As appropriate, the Secretary may consider information from any cost reporting periods necessary to make such an adjustment to the limitation.
+&emsp;&emsp;&emsp;(V) An adjustment to the limitation applicable to a hospital made pursuant to subclause (III) or (IV) shall be made in a manner consistent with the methodology, as appropriate, in section 413.79(e) of title 42, Code of Federal Regulations (or any successor regulation). As appropriate, the Secretary may consider information from any cost reporting periods necessary to make such an adjustment to the limitation.
 
 #### (ii) Aggregation
 
@@ -1796,7 +1816,7 @@ Temporary applicable percentage increase.—For discharges occurring in fiscal y
 
 #### (II) Cost reporting periods beginning on or after October 1, 2022
 
-&emsp;&emsp;&emsp;&emsp;For cost reporting periods beginning on or after October 1, 2022, in the case of a hospital not located in a rural area that established or establishes a medical residency training program (or rural tracks) in a rural area or establishes an accredited program where greater than 50 percent of the program occurs in a rural area, the Secretary shall <sup>11</sup> consistent with the principles of subparagraphs (F) and (G) and subject to paragraphs (7) and (8), prescribe rules for the application of such subparagraphs with respect to such a program and, in accordance with such rules, adjust in an appropriate manner the limitation under subparagraph (F) for such hospital and each such hospital located in a rural area that participates in such a training.
+&emsp;&emsp;&emsp;&emsp;For cost reporting periods beginning on or after October 1, 2022, in the case of a hospital not located in a rural area that established or establishes a medical residency training program (or ruraltracks) in a rural area or establishes an accredited program where greater than 50 percent of the program occurs in a rural area, the Secretary shall <sup>11</sup> consistent with the principles of subparagraphs (F) and (G) and subject to paragraphs (7) and (8), prescribe rules for the application of such subparagraphs with respect to such a program and, in accordance with such rules, adjust in an appropriate manner the limitation under subparagraph (F) for such hospital and each such hospital located in a rural area that participates in such a training.
 
 #### (v) Special provider agreement
 
@@ -1830,7 +1850,7 @@ Temporary applicable percentage increase.—For discharges occurring in fiscal y
 
 #### (IV) Limitation
 
-&emsp;&emsp;&emsp;&emsp;The aggregate number of increases in the otherwise applicable resident limitsfor hospitals under this clause shall be equal to the number of resident positions in the approved medical residency programs that closed on or after the date described in subclause (I).
+&emsp;&emsp;&emsp;&emsp;The aggregate number of increases in the otherwise applicable resident limits for hospitals under this clause shall be equal to the number of resident positions in the approved medical residency programs that closed on or after the date described in subclause (I).
 
 #### (V) Administration
 
@@ -1850,7 +1870,7 @@ Temporary applicable percentage increase.—For discharges occurring in fiscal y
 
 #### (A) Approved medical residency training program
 
-&emsp;&emsp;The term "approved medical residency training program" means a residency or other postgraduate medical training program participation in which may be counted toward certification in a specialty or subspecialty and includes formal postgraduate training programs in geriatric medicine approved by the Secretary.
+&emsp;&emsp;The term "approved medical residency training program" means a residency orother postgraduate medical training program participation in which may be counted toward certification in a specialty or subspecialty and includes formal postgraduate training programs in geriatric medicine approved by the Secretary.
 
 #### (B) Consumer price index
 
@@ -1898,7 +1918,7 @@ Temporary applicable percentage increase.—For discharges occurring in fiscal y
 
 &emsp;&emsp;&emsp;On or after July 1, 1989, if the Accreditation Council on Graduate Medical Education, in its Directory of Residency Training Programs—
 
-&emsp;&emsp;&emsp;&emsp;(I) increases the minimum number of years of formal training necessary to satisfy the requirements for a specialty, above the period specified in its 1985–1986 Directory, the Secretary may increasethe period of board eligibility for that specialty, but not to exceed the period of board eligibility specified in that later Directory, or
+&emsp;&emsp;&emsp;&emsp;(I) increases the minimum number of years of formal training necessary to satisfy the requirements for a specialty, above the period specified in its 1985–1986 Directory, the Secretary may increase the period of board eligibility for that specialty, but not to exceed the period of board eligibility specified in that later Directory, or
 
 &emsp;&emsp;&emsp;&emsp;(II) decreases the minimum number of years of formal training necessary to satisfy the requirements for a specialty, below the period specified in its 1985–1986 Directory, the Secretary may decrease the period of board eligibility for that specialty, but not below the period of board eligibility specified in that later Directory.
 
@@ -1958,7 +1978,7 @@ Temporary applicable percentage increase.—For discharges occurring in fiscal y
 
 &emsp;&emsp;&emsp;(ii) the amount of the reduction in payment under subsection (d)(5)(B) for the hospital that is attributable to the reduction in number of residents effected under the plan below 95 percent of the number of full-time equivalent residents in such programs of the hospital as of June 30, 1997.
 
-> &emsp;&emsp;The determination of the amounts under clauses (i) and (ii) for any year shall be made on the basis of the provisions of this subchapter in effect on the application deadlinedate for the first calendar year to which the reduction plan applies.
+> &emsp;&emsp;The determination of the amounts under clauses (i) and (ii) for any year shall be made on the basis of the provisions of this subchapter in effect on the application deadline date for the first calendar year to which the reduction plan applies.
 
 #### (B) Approval of plan applications
 
@@ -1988,7 +2008,7 @@ Temporary applicable percentage increase.—For discharges occurring in fiscal y
 
 #### (i) Individual hospital applicants
 
-&emsp;&emsp;&emsp;In the case of a qualifying entity described in subparagraph (C)(i), the number of full-time equivalent residents in all the approved medical residency training programs operated by or through the entity shall be reduced as follows:
+&emsp;&emsp;&emsp;In the case of a qualifying entity described in subparagraph (C)(i), the numberof full-time equivalent residents in all the approved medical residency training programs operated by or through the entity shall be reduced as follows:
 
 &emsp;&emsp;&emsp;&emsp;(I) If the base number of residents exceeds 750 residents, by a number equal to at least 20 percent of such base number.
 
@@ -2062,7 +2082,7 @@ Temporary applicable percentage increase.—For discharges occurring in fiscal y
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Except as provided in subclause (II), if a hospital's reference resident level (specified in clause (ii)) is less than the otherwise applicable resident limit (as defined in subparagraph (C)(ii)), effective for portions of cost reporting periods occurring on or after July 1, 2005, the otherwise applicable resident limit shall be reduced by 75 percent of the difference between such otherwise applicable resident limit and such reference resident level.
+&emsp;&emsp;&emsp;&emsp;Except as provided in subclause (II), if a hospital's reference resident level\(specified in clause (ii)) is less than the otherwise applicable resident limit (as defined in subparagraph (C)(ii)), effective for portions of cost reporting periods occurring on or after July 1, 2005, the otherwise applicable resident limit shall be reduced by 75 percent of the difference between such otherwise applicable resident limit and such reference resident level.
 
 #### (II) Exception for small rural hospitals
 
@@ -2160,7 +2180,7 @@ Temporary applicable percentage increase.—For discharges occurring in fiscal y
 
 &emsp;&emsp;&emsp;&emsp;(I) a hospital located in a rural area (as defined in subsection (d)(2)(D)(ii)) with fewer than 250 acute care inpatient beds;
 
-&emsp;&emsp;&emsp;&emsp;(II) a hospital that was part of a qualifying entity which had a voluntary residency reduction plan approved under paragraph (6)(B) or under the authority of section 402 of Public Law 90–248, if the hospital demonstrates to the Secretary that it has a specified plan in place forfilling the unused positions by not later than 2 years after March 23, 2010; or
+&emsp;&emsp;&emsp;&emsp;(II) a hospital that was part of a qualifying entity which had a voluntary residency reduction plan approved under paragraph (6)(B) or under the authority of section 402 of Public Law 90–248, if the hospital demonstrates to the Secretary that it has a specified plan in place for filling the unused positions by not later than 2 years after March 23, 2010; or
 
 &emsp;&emsp;&emsp;&emsp;(III) a hospital described in paragraph (4)(H)(v).
 
@@ -2230,7 +2250,7 @@ Temporary applicable percentage increase.—For discharges occurring in fiscal y
 
 #### (G) Application of per resident amounts for primary care and nonprimary care
 
-&emsp;&emsp;With respect to additional residency positions in a hospital attributable to the increase provided under this paragraph, theapproved FTE per resident amounts are deemed to be equal to the hospital per resident amounts for primary care and nonprimary care computed under paragraph (2)(D) for that hospital.
+&emsp;&emsp;With respect to additional residency positions in a hospital attributable to the increase provided under this paragraph, the approved FTE per resident amounts are deemed to be equal to the hospital per resident amounts for primary care and nonprimary care computed under paragraph (2)(D) for that hospital.
 
 #### (H) Definitions
 
@@ -2258,7 +2278,7 @@ Temporary applicable percentage increase.—For discharges occurring in fiscal y
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For fiscal year 2023, and for each succeeding fiscal year until the aggregate number of full-time equivalent residency positions distributed under this paragraph is equal to the aggregate number of such positions made available (as specified in clause (ii)(I)), the Secretary shall, subject to the succeeding provisions of this paragraph, increase the otherwise applicable resident limit for each qualifying hospital (as defined in subparagraph (F)) that submits a timely application under this subparagraph by such number as the Secretary may approve effective beginning July 1 of the fiscal year of the increase.
+&emsp;&emsp;&emsp;For fiscal year 2023, and for each succeeding fiscal year until the aggregate number of full-time equivalent residency positions distributed under this paragraphis equal to the aggregate number of such positions made available (as specified in clause (ii)(I)), the Secretary shall, subject to the succeeding provisions of this paragraph, increase the otherwise applicable resident limit for each qualifying hospital (as defined in subparagraph (F)) that submits a timely application under this subparagraph by such number as the Secretary may approve effective beginning July 1 of the fiscal year of the increase.
 
 #### (ii) Number available for distribution
 
@@ -2300,7 +2320,7 @@ Temporary applicable percentage increase.—For discharges occurring in fiscal y
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) new medical schools that received "Candidate School" status from the Liaison Committee on Medical Education or that received "Pre-Accreditation" status from the American Osteopathic Association Commission on Osteopathic College Accreditation on or after January 1, 2000, and that have achieved or continue to progress toward "Full Accreditation" status (as such term is defined by the Liaison Committee on Medical Education) or toward "Accreditation" status (as such term is defined by the American Osteopathic Association Commission on Osteopathic College Accreditation); or
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) additional locations and branch campuses established on or after January 1, 2000, by medical schools with "Full Accreditation" status (as suchterm is defined by the Liaison Committee on Medical Education) or "Accreditation" status (as such term is defined by the American Osteopathic Association Commission on Osteopathic College Accreditation).
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) additional locations and branch campuses established on or after January 1, 2000, by medical schools with "Full Accreditation" status (as such term is defined by the Liaison Committee on Medical Education) or "Accreditation" status (as such term is defined by the American Osteopathic Association Commission on Osteopathic College Accreditation).
 
 &emsp;&emsp;&emsp;&emsp;(IV) Hospitals that serve areas designated as health professional shortage areas under section 254e(a)(1)(A) of this title, as determined by the Secretary.
 
@@ -2366,7 +2386,7 @@ The Secretary shall reduce any payment amounts otherwise determined under this s
 
 &emsp;&emsp;For purposes of subparagraph (A), for a cost reporting period beginning—
 
-&emsp;&emsp;&emsp;(i) on or after October 1, 2000, and before October 1, 2001, the "TEFRA percentage"is 662/3 percent and the "prospective payment percentage" is 331/3 percent; and
+&emsp;&emsp;&emsp;(i) on or after October 1, 2000, and before October 1, 2001, the "TEFRA percentage" is 662/3 percent and the "prospective payment percentage" is 331/3 percent; and
 
 &emsp;&emsp;&emsp;(ii) on or after October 1, 2001, and before October 1, 2002, the "TEFRA percentage" is 331/3 percent and the "prospective payment percentage" is 662/3 percent.
 
@@ -2394,7 +2414,7 @@ The Secretary shall reduce any payment amounts otherwise determined under this s
 
 #### (B) Weighting factors
 
-&emsp;&emsp;For each case mix group the Secretary shall assign an appropriate weighting which reflects the relative facility resources used with respect to patients classified within that group compared to patients classified within other groups.
+&emsp;&emsp;For each case mix group the Secretary shall assign an appropriate weighting which reflects the relative facility resources used with respect to patients classified withinthat group compared to patients classified within other groups.
 
 #### (C) Adjustments for case mix
 
@@ -2428,7 +2448,7 @@ The Secretary shall reduce any payment amounts otherwise determined under this s
 
 #### (B) Budget neutral rates
 
-&emsp;&emsp;The Secretary shall establish the prospective payment amounts under this subsection for payment units during fiscal years 2001and 2002 at levels such that, in the Secretary's estimation, the amount of total payments under this subsection for such fiscal years (including any payment adjustments pursuant to paragraphs (4) and (6) but not taking into account any payment adjustment resulting from an election permitted under paragraph (1)(F)) shall be equal to 98 percent for fiscal year 2001 and 100 percent for fiscal year 2002 of the amount of payments that would have been made under this subchapter during the fiscal years for operating and capital costs of rehabilitation facilities had this subsection not been enacted. In establishing such payment amounts, the Secretary shall consider the effects of the prospective payment system established under this subsection on the total number of payment units from rehabilitation facilities and other factors described in subparagraph (A).
+&emsp;&emsp;The Secretary shall establish the prospective payment amounts under this subsection for payment units during fiscal years 2001 and 2002 at levels such that, in the Secretary's estimation, the amount of total payments under this subsection for such fiscal years (including any payment adjustments pursuant to paragraphs (4) and (6) but not taking into account any payment adjustment resulting from an election permitted under paragraph (1)(F)) shall be equal to 98 percent for fiscal year 2001 and 100 percent for fiscal year 2002 of the amount of payments that would have been made under this subchapter during the fiscal years for operating and capital costs of rehabilitation facilities had this subsection not been enacted. In establishing such payment amounts, the Secretary shall consider the effects of the prospective payment system established under this subsection on the total number of payment units from rehabilitation facilities and other factors described in subparagraph (A).
 
 #### (C) Increase factor
 
@@ -2658,7 +2678,7 @@ The Secretary shall reduce any payment amounts otherwise determined under this s
 
 #### (ii) Special rule
 
-&emsp;&emsp;&emsp;The application of this subparagraph may result in such annual update being less than 0.0 for a rate year, and may result in payment rates under the system described in paragraph (1) for a rate year being less than such payment rates for the preceding rate year.
+&emsp;&emsp;&emsp;The application of this subparagraph may result in such annual update beingless than 0.0 for a rate year, and may result in payment rates under the system described in paragraph (1) for a rate year being less than such payment rates for the preceding rate year.
 
 #### (B) Noncumulative application
 
@@ -2694,7 +2714,7 @@ The Secretary shall reduce any payment amounts otherwise determined under this s
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For the rate year beginning on the specified application date (as defined in subsection (a)(2)(E) of section 1395lll of this title), as applicable with respect to long-term care hospitals and quality measures under subsection (c)(1) of such section and measures under subsection (d)(1) of such section, and each subsequent rate year, in addition to the data on the quality measures described in subparagraph (C), each long-term care hospital (other than a hospital classified under subsection (d)(1)(B)(vi)) shall submit to the Secretary data on the quality measures under suchsubsection (c)(1) and any necessary data specified by the Secretary under such subsection (d)(1).
+&emsp;&emsp;&emsp;For the rate year beginning on the specified application date (as defined in subsection (a)(2)(E) of section 1395lll of this title), as applicable with respect to long-term care hospitals and quality measures under subsection (c)(1) of such section and measures under subsection (d)(1) of such section, and each subsequent rate year, in addition to the data on the quality measures described in subparagraph (C), each long-term care hospital (other than a hospital classified under subsection (d)(1)(B)(vi)) shall submit to the Secretary data on the quality measures under such subsection (c)(1) and any necessary data specified by the Secretary under such subsection (d)(1).
 
 #### (ii) Standardized patient assessment data
 
@@ -2800,7 +2820,7 @@ The Secretary shall reduce any payment amounts otherwise determined under this s
 
 #### (D) Inclusion of subsection (d) Puerto Rico hospitals
 
-&emsp;&emsp;In this paragraph, any reference in this paragraph to a subsection (d) hospital shall be deemed to include a reference to a subsection (d) Puerto Rico hospital.
+&emsp;&emsp;In this paragraph, any reference in this paragraph to a subsection (d) hospital shallbe deemed to include a reference to a subsection (d) Puerto Rico hospital.
 
 #### (E) Temporary exception for certain severe wound discharges from certain long-term care hospitals
 
@@ -2850,7 +2870,7 @@ The Secretary shall reduce any payment amounts otherwise determined under this s
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For a discharge occurring in a cost reporting period beginning during fiscal year2018, subparagraph (A)(i) shall not apply (and payment shall be made to a long-term care hospital without regard to this paragraph) if such discharge—
+&emsp;&emsp;&emsp;For a discharge occurring in a cost reporting period beginning during fiscal year 2018, subparagraph (A)(i) shall not apply (and payment shall be made to a long-term care hospital without regard to this paragraph) if such discharge—
 
 &emsp;&emsp;&emsp;&emsp;(I) is from a long-term care hospital identified by the last sentence of subsection (d)(1)(B);
 
@@ -2994,7 +3014,7 @@ The Secretary shall reduce any payment amounts otherwise determined under this s
 
 #### (iii) Reporting on measures using EHR
 
-&emsp;&emsp;&emsp;Subject to subparagraph (B)(ii) and using such certified EHR technology, the eligible hospital submits information for such period, in a form and manner specified by the Secretary, on such clinical quality measures and such other measures as selectedby the Secretary under subparagraph (B)(i).
+&emsp;&emsp;&emsp;Subject to subparagraph (B)(ii) and using such certified EHR technology, the eligible hospital submits information for such period, in a form and manner specified by the Secretary, on such clinical quality measures and such other measures as selected by the Secretary under subparagraph (B)(i).
 
 > &emsp;&emsp;The Secretary shall seek to improve the use of electronic health records and health care quality over time.
 
@@ -3192,7 +3212,7 @@ The Secretary shall reduce any payment amounts otherwise determined under this s
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), the Secretary shall develop a methodology for assessing the total performance of each hospital based on performance standards with respect to the measures selected under paragraph (2) for a performance period (as established under paragraph (4)). Using such methodology, the Secretary shall provide for an assessment (in this subsection referred to as the "hospital performance score") for each hospital for each performance period.
+&emsp;&emsp;Subject to subparagraph (B), the Secretary shall develop a methodology for assessingthe total performance of each hospital based on performance standards with respect to the measures selected under paragraph (2) for a performance period (as established under paragraph (4)). Using such methodology, the Secretary shall provide for an assessment (in this subsection referred to as the "hospital performance score") for each hospital for each performance period.
 
 #### (B) Application
 
@@ -3434,7 +3454,7 @@ The Secretary shall reduce any payment amounts otherwise determined under this s
 
 #### (1) In general
 
-&emsp;With respect to payment for discharges from an applicable hospital (as defined in paragraph (5)(C)) occurring during a fiscal year beginning on or after October 1, 2012, in order to account for excess readmissions in the hospital, the Secretary shall make payments (in addition to the payments described in paragraph (2)(A)(ii)) for such a discharge to such hospital under subsection (d) (or section 1395f(b)(3) of this title, as the case may be) in an amount equal to the product of—
+&emsp;With respect to payment for discharges from an applicable hospital (as defined in paragraph (5)(C)) occurring during a fiscal year beginning on or after October 1, 2012, in order to account for excess readmissions in the hospital, the Secretary shall make payments (in addition to the payments described in paragraph (2)(A)(ii)) for such a discharge to such hospital undersubsection (d) (or section 1395f(b)(3) of this title, as the case may be) in an amount equal to the product of—
 
 &emsp;&emsp;(A) the base operating DRG payment amount (as defined in paragraph (2)) for the discharge; and
 
@@ -3510,7 +3530,7 @@ The Secretary shall reduce any payment amounts otherwise determined under this s
 
 #### (i) Consideration of recommendations in IMPACT reports
 
-&emsp;&emsp;&emsp;The Secretary may take into account the studies conducted and the recommendations made by the Secretary under section 2(d)(1) of the IMPACT Act of 2014 (Public Law 113–185; 42 U.S.C. 1395lll note) with respect to the application under this subsection of risk adjustment methodologies. Nothing in this clause shall be construed as precluding consideration of the use of groupings of hospitals.
+&emsp;&emsp;&emsp;The Secretary may take into account the studies conducted and the recommendations made by the Secretary under section 2(d)(1) of the IMPACT Act of2014 (Public Law 113–185; 42 U.S.C. 1395lll note) with respect to the application under this subsection of risk adjustment methodologies. Nothing in this clause shall be construed as precluding consideration of the use of groupings of hospitals.
 
 #### (ii) Consideration of exclusion of patient cases based on V or other appropriate codes
 
@@ -3550,7 +3570,7 @@ The Secretary shall reduce any payment amounts otherwise determined under this s
 
 #### (ii) Exclusion of certain readmissions
 
-&emsp;&emsp;&emsp;For purposes of clause (i), with respect to a hospital, excess readmissions shall not include readmissions for an applicable condition for which there are fewer than aminimum number (as determined by the Secretary) of discharges for such applicable condition for the applicable period and such hospital.
+&emsp;&emsp;&emsp;For purposes of clause (i), with respect to a hospital, excess readmissions shall not include readmissions for an applicable condition for which there are fewer than a minimum number (as determined by the Secretary) of discharges for such applicable condition for the applicable period and such hospital.
 
 #### (5) Definitions
 
@@ -3764,7 +3784,7 @@ The Secretary shall reduce any payment amounts otherwise determined under this s
 
 #### (1) Development of HCPCS version of MS–DRG codes
 
-&emsp;Not later than January 1, 2018, the Secretary shall develop HCPCS versions for MS–DRGsthat are similar to the ICD–10–PCS for such MS–DRGs such that, to the extent possible, the MS–DRG assignment shall be similar for a claim coded with the HCPCS version as an identical claim coded with a ICD–10–PCS code.
+&emsp;Not later than January 1, 2018, the Secretary shall develop HCPCS versions for MS–DRGs that are similar to the ICD–10–PCS for such MS–DRGs such that, to the extent possible, the MS–DRG assignment shall be similar for a claim coded with the HCPCS version as an identical claim coded with a ICD–10–PCS code.
 
 #### (2) Coverage of surgical MS–DRGs
 
@@ -3792,7 +3812,9 @@ The Secretary shall reduce any payment amounts otherwise determined under this s
 
 &emsp;&emsp;The term "ICD–10–PCS" means the International Classification of Diseases, 10th Revision, Procedure Coding System, and includes any subsequent revision of such International Classification of Diseases, Procedure Coding System.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1886, as added and amended Pub. L. 97–248, title I, §§101(a)(1), 110, Sept. 3, 1982, 96 Stat. 331, 339; Pub. L. 97–448, title III, §309(b)(13)–(15), Jan. 12, 1983, 96 Stat. 2409; Pub. L. 98–21, title VI, §601(a)(1), (2), (b), (c), (d)(2), (e), Apr. 20, 1983, 97 Stat. 149, 150, 152; Pub. L. 98–369, div. B, title III, §§2307(b)(1), 2310(a), 2311(a)–(c), 2312(a), (b), 2313(a), (b), (d), 2315(a)–(c), 2354(b)(42)–(44), July 18, 1984, 98 Stat. 1073, 1075–1080, 1102; Pub. L. 98–617, §3(b)(9), Nov. 8, 1984, 98 Stat. 3296; Pub. L. 99–272, title IX, §§9101(b), (c), 9102(a)–(c), 9104(a), (b), 9105(a)–(c), 9106(a), 9107(a), 9109(a), 9111(a), 9127(a), 9202(a), Apr. 7, 1986, 100 Stat. 153–155, 157–162, 170, 171; Pub. L. 99–349, title II, §206, July 2, 1986, 100 Stat. 749; Pub. L. 99–509, title IX, §§9302(a)(1), (2), (b)(1), (c), (d)(1)(A), (e), 9303, 9304(a)–(c), 9306(a)–(c), 9307(c)(1), 9314(a), 9320(g), 9321(e)(2), Oct. 21, 1986, 100 Stat. 1982–1985, 1988, 1995, 2005, 2015, 2018; Pub. L. 99–514, §2, title XVIII, §1895(b)(1)(A)–(C), (2)(A)–(C), (3), (9), Oct. 22, 1986, 100 Stat. 2095, 2931–2933; Pub. L. 100–93, §8(c)(4), Aug. 18, 1987, 101 Stat. 693; Pub. L. 100–203, title IV, §§4002(a)–(f)(1), 4003(a)–(c), 4004(a), 4005(a)(1), (c)(1), (d)(1)(A), 4006(a)–(b)(2), 4007(b)(1), 4009(d)(1), (j)(1)–(6)(B), 4083(b)(1), Dec. 22, 1987, 101 Stat. 1330–42 to 1330–44, 1330–46, 1330–47, 1330–49, 1330–52, 1330–53, 1330–57 to 1330–59, 1330–129, as amended Pub. L. 100–360, title IV, §411(b)(1)(E), (3), (4)(C)(i), (5)(B), (6)(B), (8)(B), July 1, 1988, 102 Stat. 769, 770, 772; Pub. L. 100–360, title IV, §411(b)(1)(A)–(D), (F)–(H)(i), (4)(A), (B), (5)(A), July 1, 1988, 102 Stat. 768–770; Pub. L. 100–485, title VI, §608(d)(18)(A), (B), Oct. 13, 1988, 102 Stat. 2418; Pub. L. 100–647, title I, §1018(r)(1), title VIII, §§8401, 8403(a), Nov. 10, 1988, 102 Stat. 3586, 3798; Pub. L. 101–234, title III, §301(b)(3), (c)(3), Dec. 13, 1989, 103 Stat. 1985, 1986; Pub. L. 101–239, title VI, §§6002, 6003(a)(1), (b)–(c)(3), (e)(1), (2)(B)–(E), (f), (g)(2), (4)–(h)(4), (6), 6004(a)(1), (2), (b)(1), 6011(a), 6015(a), 6022, Dec. 19, 1989, 103 Stat. 2140–2144, 2151, 2154–2157, 2159–2161, 2164, 2167; Pub. L. 101–403, title I, §115(b)(1), Oct. 1, 1990, 104 Stat. 870; Pub. L. 101–508, title IV, §§4001, 4002(a)(1), (b)(1)–(4), (c)(1), (2), (e)(1), (g)(1), (2), (h)(1)(A), (2)(B), 4003(a), 4005(a)(1), (c)(1)(B), (2), 4008(f)(1), (m)(2)(A), Nov. 5, 1990, 104 Stat. 1388–31 to 1388–38, 1388–40, 1388–42, 1388–45, 1388–53; Pub. L. 103–66, title XIII, §§13501(a), (b)(1), (c), (e)(1), (f), 13502, 13506, 13563(a), (b)(1), (c)(1), Aug. 10, 1993, 107 Stat. 572, 574, 575, 577, 579, 605; Pub. L. 103–432, title I, §§101(a)(1), (b), (c), 102(b)(1)(B), 105, 108–110(a), (c), 153(a), Oct. 31, 1994, 108 Stat. 4400–4402, 4405, 4407, 4408, 4437; Pub. L. 105–33, title IV, §§4022(b)(1)(A), 4201(c)(1), (4), 4202(a), 4204(a)(1), (2), 4401(a), 4402, 4403(a), 4405(a)–(c), 4406, 4407, 4411–4415(c), 4416, 4417(a)(1), (b)(1), 4418(a), 4419(a)(1), 4421(a), (b), 4621–4626(a), 4627(a), 4644(a)(1), (b)(1), (c)(1), Aug. 5, 1997, 111 Stat. 354, 373–375, 397, 398, 400, 401, 403–410, 413, 475–480, 483, 488; Pub. L. 106–113, div. B, §1000(a)(6) \[title I, §§111(a), (c), 112(a), 121(a), 122, 125(a), title III, §§311, 312(a), 321(b), (e), (f), (h), (k)(15)–(17), title IV, §§401(a), 402(a), 404(a), (b)(1), 405–407(a)(2), (b)(1), (2), (c)(1), title V, §541\], Nov. 29, 1999, 113 Stat. 1536, 1501A–329 to 1501A–332, 1501A–362 to 150A–366, 1501A–368, 1501A–369, 1501A–372 to 1501A–374, 1501A–391; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §152(a), (b)\], §1(a)(6) \[title II, §§211, 212(a), 213(a), title III, §§301(a), (e)(1), 302(a), (c), (d), 303(a), (c), (d)(1), 304(a), (c)(2), 305(a), (b), 307(a)(1), title V, §§511, 512(a), 533(b)(1), (3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–251, 2763A–252, 2763A–483, 2763A–485, 2763A–491 to 2763A–496, 2763A–533, 2763A–548, 2763A–550; Pub. L. 108–173, title IV, §§401(a)–(c), 402, 403, 406, 407(a), 422(a), (b)(1), title V, §§501(a), (b), 502(a), (b), 503(a)–(d)(1), 504, 505(a), title VII, §§711, 736(a)(9), (15), (c)(6), Dec. 8, 2003, 117 Stat. 2262–2265, 2269, 2270, 2284, 2286, 2289–2293, 2340, 2355, 2356; Pub. L. 109–171, title V, §§5001(a), (c), 5002(a), 5003(a)(1), (2)(A), (b)–(d), Feb. 8, 2006, 120 Stat. 28, 30–32; Pub. L. 109–432, div. B, title I, §§106(c), 109(a)(2), title II, §205(b)(1), Dec. 20, 2006, 120 Stat. 2983, 2985, 2989; Pub. L. 110–161, div. G, title II, §225(a),\(b)(1), Dec. 26, 2007, 121 Stat. 2189; Pub. L. 110–173, title I, §§114(e)(1), 115(a)(1), Dec. 29, 2007, 121 Stat. 2504, 2506; Pub. L. 110–275, title I, §122, July 15, 2008, 122 Stat. 2514; Pub. L. 111–5, div. B, title IV, §4102(a)(1), (b)(1), Feb. 17, 2009, 123 Stat. 477, 482; Pub. L. 111–148, title III, §§3001(a)(1)–(3), 3004(a), (b), 3008(a), 3025(a), 3124(a), (b)(1), 3125, 3133, 3401(a), (c), (d), (f), title V, §§5503(a), (b), 5504(a), (b), 5505(a), (b), 5506(a), (b), (e), title X, §§10309, 10314, 10316, 10319(a)–(c), (e), 10322(a), 10324(a), 10335, Mar. 23, 2010, 124 Stat. 353–360, 368, 369, 376, 408, 424, 425, 432, 480–483, 655, 658–663, 942, 944, 946, 948, 949, 952, 959, 974; Pub. L. 111–152, title I, §§1104–1105(d), Mar. 30, 2010, 124 Stat. 1047, 1048; Pub. L. 111–192, title I, §102(a), June 25, 2010, 124 Stat. 1281; Pub. L. 111–309, title II, §203, Dec. 15, 2010, 124 Stat. 3289; Pub. L. 112–40, title II, §261(a)(3)(A), Oct. 21, 2011, 125 Stat. 423; Pub. L. 112–240, title VI, §§605–606(b)(1), Jan. 2, 2013, 126 Stat. 2349; Pub. L. 113–67, div. B, title I, §§1105–1106(b)(1), title II, §1206(a)(1), (c), Dec. 26, 2013, 127 Stat. 1197, 1200, 1204; Pub. L. 113–93, title I, §§105–106(b)(1), 112(a), Apr. 1, 2014, 128 Stat. 1042, 1044; Pub. L. 113–185, §2(c)(2), (3), Oct. 6, 2014, 128 Stat. 1963, 1964; Pub. L. 114–10, title I, §106(b)(2)(B), title II, §§204–205(b)(1), title IV, §411(b), (e), Apr. 16, 2015, 129 Stat. 139, 144, 145, 161, 162; Pub. L. 114–113, div. H, title II, §231, div. O, title VI, §§601–602(b)(1), Dec. 18, 2015, 129 Stat. 2626, 3023, 3024; Pub. L. 114–115, §4(b), Dec. 28, 2015, 129 Stat. 3133; Pub. L. 114–255, div. A, title IV, §4002(b)(2), div. C, title XV, §§15001—15002(b), 15004(b), 15008(a), (b), (d)(2), 15009(a), 15010(a), Dec. 13, 2016, 130 Stat. 1161, 1315—1317, 1319, 1321–1323; Pub. L. 115–123, div. E, title II, §§50204(a), 50205(a), (b)(1), title IV, §50413, title X, §51005, title XII, §53109(a), Feb. 9, 2018, 132 Stat. 181–183, 221, 296, 303; Pub. L. 115–141, div. G, title IV, §429, Mar. 23, 2018, 132 Stat. 693; Pub. L. 115–271, title VI, §6104, Oct. 24, 2018, 132 Stat. 4006; Pub. L. 116–94, div. N, title I, §108, Dec. 20, 2019, 133 Stat. 3102; Pub. L. 116–136, div. A, title III, §3710(a), Mar. 27, 2020, 134 Stat. 422; Pub. L. 116–260, div. CC, title I, §§126(a)–(c), 127, 131(a)–(c), Dec. 27, 2020, 134 Stat. 2967–2970, 2974, 2976.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1886, as added and amended Pub. L. 97–248, title I, §§101(a)(1), 110, Sept. 3, 1982, 96 Stat. 331, 339; Pub. L. 97–448, title III, §309(b)(13)–(15), Jan. 12, 1983, 96 Stat. 2409; Pub. L. 98–21, title VI, §601(a)(1), (2), (b), (c), (d)(2), (e), Apr. 20, 1983, 97 Stat. 149, 150, 152; Pub. L. 98–369, div. B, title III, §§2307(b)(1), 2310(a), 2311(a)–(c), 2312(a), (b), 2313(a), (b), (d), 2315(a)–(c), 2354(b)(42)–(44), July 18, 1984, 98 Stat. 1073, 1075–1080, 1102; Pub. L. 98–617, §3(b)(9), Nov. 8, 1984, 98 Stat. 3296; Pub. L. 99–272, title IX, §§9101(b), (c), 9102(a)–(c), 9104(a), (b), 9105(a)–(c), 9106(a), 9107(a), 9109(a), 9111(a), 9127(a), 9202(a), Apr. 7, 1986, 100 Stat. 153–155, 157–162, 170, 171; Pub. L. 99–349, title II, §206, July 2, 1986, 100 Stat. 749; Pub. L. 99–509, title IX, §§9302(a)(1), (2), (b)(1), (c), (d)(1)(A), (e), 9303, 9304(a)–(c), 9306(a)–(c), 9307(c)(1), 9314(a), 9320(g), 9321(e)(2), Oct. 21, 1986, 100 Stat. 1982–1985, 1988, 1995, 2005, 2015, 2018; Pub. L. 99–514, §2, title XVIII, §1895(b)(1)(A)–(C), (2)(A)–(C), (3), (9), Oct. 22, 1986, 100 Stat. 2095, 2931–2933; Pub. L. 100–93, §8(c)(4), Aug. 18, 1987, 101 Stat. 693; Pub. L. 100–203, title IV, §§4002(a)–(f)(1), 4003(a)–(c), 4004(a), 4005(a)(1), (c)(1), (d)(1)(A), 4006(a)–(b)(2), 4007(b)(1), 4009(d)(1), (j)(1)–(6)(B), 4083(b)(1), Dec. 22, 1987, 101 Stat. 1330–42 to 1330–44, 1330–46, 1330–47, 1330–49, 1330–52, 1330–53, 1330–57 to 1330–59, 1330–129, as amended Pub. L. 100–360, title IV, §411(b)(1)(E), (3), (4)(C)(i), (5)(B), (6)(B), (8)(B), July 1, 1988, 102 Stat. 769, 770, 772; Pub. L. 100–360, title IV, §411(b)(1)(A)–(D), (F)–(H)(i), (4)(A), (B), (5)(A), July 1, 1988, 102 Stat. 768–770; Pub. L. 100–485, title VI, §608(d)(18)(A), (B), Oct. 13, 1988, 102 Stat. 2418; Pub. L. 100–647, title I, §1018(r)(1), title VIII, §§8401, 8403(a), Nov. 10, 1988, 102 Stat. 3586, 3798; Pub. L. 101–234, title III, §301(b)(3), (c)(3), Dec. 13, 1989, 103 Stat. 1985, 1986; Pub. L. 101–239, title VI, §§6002, 6003(a)(1), (b)–(c)(3), (e)(1), (2)(B)–(E), (f), (g)(2), (4)–(h)(4), (6), 6004(a)(1), (2), (b)(1), 6011(a), 6015(a), 6022, Dec. 19, 1989, 103 Stat. 2140–2144, 2151, 2154–2157, 2159–2161, 2164, 2167; Pub. L. 101–403, title I, §115(b)(1), Oct. 1, 1990, 104 Stat. 870; Pub. L. 101–508, title IV, §§4001, 4002(a)(1), (b)(1)–(4), (c)(1), (2), (e)(1), (g)(1), (2), (h)(1)(A), (2)(B), 4003(a), 4005(a)(1), (c)(1)(B), (2), 4008(f)(1), (m)(2)(A), Nov. 5, 1990, 104 Stat. 1388–31 to 1388–38, 1388–40, 1388–42, 1388–45, 1388–53; Pub. L. 103–66, title XIII, §§13501(a), (b)(1), (c), (e)(1), (f), 13502, 13506, 13563(a), (b)(1), (c)(1), Aug. 10, 1993, 107 Stat. 572, 574, 575, 577, 579, 605; Pub. L. 103–432, title I, §§101(a)(1), (b), (c), 102(b)(1)(B), 105, 108–110(a), (c), 153(a), Oct. 31, 1994, 108 Stat. 4400–4402, 4405, 4407, 4408, 4437; Pub. L. 105–33, title IV, §§4022(b)(1)(A), 4201(c)(1), (4), 4202(a), 4204(a)(1), (2), 4401(a), 4402, 4403(a), 4405(a)–(c), 4406, 4407, 4411–4415(c), 4416, 4417(a)(1), (b)(1), 4418(a), 4419(a)(1), 4421(a), (b), 4621–4626(a), 4627(a), 4644(a)(1), (b)(1), (c)(1), Aug. 5, 1997, 111 Stat. 354, 373–375, 397, 398, 400, 401, 403–410, 413, 475–480, 483, 488; Pub. L. 106–113, div. B, §1000(a)(6) \[title I, §§111(a), (c), 112(a), 121(a), 122, 125(a), title III, §§311, 312(a), 321(b), (e), (f), (h), (k)(15)–(17), title IV, §§401(a), 402(a), 404(a), (b)(1), 405–407(a)(2), (b)(1), (2), (c)(1), title V, §541\], Nov. 29, 1999, 113 Stat. 1536, 1501A–329 to 1501A–332, 1501A–362 to 150A–366, 1501A–368, 1501A–369, 1501A–372 to 1501A–374, 1501A–391; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §152(a), (b)\], §1(a)(6) \[title II, §§211, 212(a), 213(a), title III, §§301(a), (e)(1), 302(a), (c), (d), 303(a), (c), (d)(1), 304(a), (c)(2), 305(a), (b), 307(a)(1), title V, §§511, 512(a), 533(b)(1), (3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–251, 2763A–252, 2763A–483, 2763A–485, 2763A–491 to 2763A–496, 2763A–533, 2763A–548, 2763A–550; Pub. L. 108–173, title IV, §§401(a)–(c), 402, 403, 406, 407(a), 422(a), (b)(1), title V, §§501(a), (b), 502(a), (b), 503(a)–(d)(1), 504, 505(a), title VII, §§711, 736(a)(9), (15), (c)(6), Dec. 8, 2003, 117 Stat. 2262–2265, 2269, 2270, 2284, 2286, 2289–2293, 2340, 2355, 2356; Pub. L. 109–171, title V, §§5001(a), (c), 5002(a), 5003(a)(1), (2)(A), (b)–(d), Feb. 8, 2006, 120 Stat. 28, 30–32; Pub. L. 109–432, div. B, title I, §§106(c), 109(a)(2), title II, §205(b)(1), Dec. 20, 2006, 120 Stat. 2983, 2985, 2989; Pub. L. 110–161, div. G, title II, §225(a), (b)(1), Dec. 26, 2007, 121 Stat. 2189; Pub. L. 110–173, title I, §§114(e)(1), 115(a)(1), Dec. 29, 2007, 121 Stat. 2504, 2506; Pub. L. 110–275, title I, §122, July 15, 2008, 122 Stat. 2514; Pub. L. 111–5, div. B, title IV, §4102(a)(1), (b)(1), Feb. 17, 2009, 123 Stat. 477, 482; Pub. L. 111–148, title III, §§3001(a)(1)–(3), 3004(a), (b), 3008(a), 3025(a), 3124(a), (b)(1), 3125, 3133, 3401(a), (c), (d), (f), title V, §§5503(a), (b), 5504(a), (b), 5505(a), (b), 5506(a), (b), (e), title X, §§10309, 10314, 10316, 10319(a)–(c), (e), 10322(a), 10324(a), 10335, Mar. 23, 2010, 124 Stat. 353–360, 368, 369, 376, 408, 424, 425, 432, 480–483, 655, 658–663, 942, 944, 946, 948, 949, 952, 959, 974; Pub. L. 111–152, title I, §§1104–1105(d), Mar. 30, 2010, 124 Stat. 1047, 1048; Pub. L. 111–192, title I, §102(a), June 25, 2010, 124 Stat. 1281; Pub. L. 111–309, title II, §203, Dec. 15, 2010, 124 Stat. 3289; Pub. L. 112–40, title II, §261(a)(3)(A), Oct. 21, 2011, 125 Stat. 423; Pub. L. 112–240, title VI, §§605–606(b)(1), Jan. 2, 2013, 126 Stat. 2349; Pub. L. 113–67, div. B, title I, §§1105–1106(b)(1), title II, §1206(a)(1), (c), Dec. 26, 2013, 127 Stat. 1197, 1200, 1204; Pub. L. 113–93, title I, §§105–106(b)(1), 112(a), Apr. 1, 2014, 128 Stat. 1042, 1044; Pub. L. 113–185, §2(c)(2), (3), Oct. 6, 2014, 128 Stat. 1963, 1964; Pub. L. 114–10, title I, §106(b)(2)(B), title II, §§204–205(b)(1), title IV, §411(b), (e), Apr. 16, 2015, 129 Stat. 139, 144, 145, 161, 162; Pub. L. 114–113, div. H, title II, §231, div. O, title VI, §§601–602(b)(1), Dec. 18, 2015, 129 Stat. 2626, 3023, 3024; Pub. L. 114–115, §4(b), Dec. 28, 2015, 129 Stat. 3133; Pub. L. 114–255, div. A, title IV, §4002(b)(2), div. C, title XV, §§15001—15002(b), 15004(b), 15008(a), (b), (d)(2), 15009(a), 15010(a), Dec. 13, 2016, 130 Stat. 1161, 1315—1317, 1319, 1321–1323; Pub. L. 115–123, div. E, title II, §§50204(a), 50205(a), (b)(1), title IV, §50413, title X, §51005, title XII, §53109(a), Feb. 9, 2018, 132 Stat. 181–183, 221, 296, 303; Pub. L. 115–141, div. G, title IV, §429, Mar. 23, 2018, 132 Stat. 693; Pub. L. 115–271, title VI, §6104, Oct. 24, 2018, 132 Stat. 4006; Pub. L. 116–94, div. N, title I, §108, Dec. 20, 2019, 133 Stat. 3102; Pub. L. 116–136, div. A, title III, §3710(a), Mar. 27, 2020, 134 Stat. 422; Pub. L. 116–260, div. CC, title I, §§126(a)–(c), 127, 131(a)–(c), Dec. 27, 2020, 134 Stat. 2967–2970, 2974, 2976; Pub. L. 117–2, title IX, §9831, Mar. 11, 2021, 135 Stat. 221.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -3828,6 +3850,8 @@ The Omnibus Budget Reconciliation Act of 1990, referred to in subsec. (d)(3)(C)(
 
 The Patient Protection and Affordable Care Act, referred to in subsecs. (d)(3)(E)(i) and (r)(2)(B)(i)(I), is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119. Section 10324(a)(1) of the Act amended this section. For complete classification of this Act to the Code, see Short Title note set out under section 18001 of this title and Tables.
 
+Section 9831(a) of the American Rescue Plan Act of 2021, referred to in subsec. (d)(3)(E)(i), is section 9831(a) of Pub. L. 117–2, which amended subsec. (d)(3)(E)(i), (iv) of this section.
+
 Section 9304 of the Omnibus Budget Reconciliation Act of 1986, referred to in subsec. (e)(1)(C)(ii), is section 9304 of Pub. L. 99–509, which enacted subsecs. (d)(9) and (e)(1)(C) of this section and amended subsec. (d)(5)(C)(i)(I), (ii) of this section.
 
 Section 4628 of the Balanced Budget Act of 1997, referred to in subsec. (h)(6)(C)(iii), is section 4628 of Pub. L. 105–33, which is set out as a note below.
@@ -3847,6 +3871,12 @@ The Health Care and Education Reconciliation Act of 2010, referred to in subsec.
 Section 124 of the Medicare, Medicaid, and SCHIP Balanced Budget Refinement Act of 1999, referred to in subsec. (s)(1), is section 1000(a)(6) \[title I, §124\] of Pub. L. 106–113, which enacted provisions set out as a note under this section.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (d)(3)(E)(i). Pub. L. 117–2, §9831(b), substituted ", the amendments" for "and the amendments" and inserted ", and the amendments made by section 9831(a) of the American Rescue Plan Act of 2021" after "the Patient Protection and Affordable Care Act".
+
+Pub. L. 117–2, §9831(a)(1), substituted ", (iii), or (iv)" for "or (iii)".
+
+Subsec. (d)(3)(E)(iv). Pub. L. 117–2, §9831(a)(2), added cl. (iv).
 
 <b>2020</b>—Subsec. (d)(4)(C)(iv). Pub. L. 116–136 added cl. (iv).
 
@@ -3930,7 +3960,7 @@ Subsec. (o)(2)(B)(iii). Pub. L. 115–271, §6104(b), added cl. (iii).
 
 <b>2016</b>—Subsec. (b)(3)(B)(ix)(II). Pub. L. 114–255, §4002(b)(2), inserted after first sentence "The Secretary shall exempt an eligible hospital from the application of the payment adjustment under subclause (I) with respect to a fiscal year, subject to annual renewal, if the Secretary determines that compliance with the requirement for being a meaningful EHR user is not possible because the certified EHR technology used by such hospital is decertified under a program kept or recognized pursuant to section 300jj–11(c)(5) of this title."
 
-Subsec. (d)(1)(B). Pub. L. 114–255, §15008(b), in concluding provisions, inserted "(as in effect as of suchdate)" after "clause (iv)" and "(or, in the case of a hospital described in clause (iv)(II), as so in effect, shall be classified under clause (vi) on and after the effective date of such clause (vi) and for cost reporting periods beginning on or after January 1, 2015, shall not be subject to subsection (m) as of the date of such classification)" after "so classified".
+Subsec. (d)(1)(B). Pub. L. 114–255, §15008(b), in concluding provisions, inserted "(as in effect as of such date)" after "clause (iv)" and "(or, in the case of a hospital described in clause (iv)(II), as so in effect, shall be classified under clause (vi) on and after the effective date of such clause (vi) and for cost reporting periods beginning on or after January 1, 2015, shall not be subject to subsection (m) as of the date of such classification)" after "so classified".
 
 Subsec. (d)(1)(B)(iv). Pub. L. 114–255, §15008(a), struck out subcl. (I) designation before "a hospital" and redesignated subcl. (II) as cl. (vi).
 
@@ -4270,7 +4300,7 @@ Pub. L. 111–148, §10316(1)(B), substituted "2013" for "2012".
 
 Subsec. (r)(2)(B)(i)(II). Pub. L. 111–148, §10316(1)(C), substituted comma for period at end.
 
-Subsec. (r)(2)(B)(ii). Pub. L. 111–152, §1104(2)(C), substituted "minus 0.2 percentage points for each of fiscal years 2018 and 2019" for "and, for each of 2018 and 2019, minus 1.5 percentage points" in concluding provisions.
+Subsec. (r)(2)(B)(ii). Pub. L. 111–152, §1104(2)(C), substituted "minus 0.2 percentage points for each of fiscalyears 2018 and 2019" for "and, for each of 2018 and 2019, minus 1.5 percentage points" in concluding provisions.
 
 Pub. L. 111–148, §10316(2), struck out "(divided by 100)" after "change" in introductory provisions, substituted "2013" for "2012" in subcl. (I), substituted comma for period at end of subcl. (II), and inserted concluding provisions.
 
@@ -4552,7 +4582,7 @@ Subsec. (h)(2)(D)(iii). Pub. L. 106–554, §1(a)(6) \[title V, §511\], in head
 
 Subsec. (j)(1)(A). Pub. L. 106–554, §1(a)(6) \[title III, §305(b)(1)(A)\], inserted "other than a facility making an election under subparagraph (F)" before "in a cost reporting period" in introductory provisions.
 
-Subsec. (j)(1)(B). Pub. L. 106–554, §1(a)(6) \[title III, §305(b)(1)(B)\], inserted "or, in the case of a facility making an election under subparagraph (F), for any cost reporting period described in such subparagraph," after "2002,".
+Subsec. (j)(1)(B). Pub. L. 106–554, §1(a)(6) \[title III, §305(b)(1)(B)\], inserted "or, in the case of a facilitymaking an election under subparagraph (F), for any cost reporting period described in such subparagraph," after "2002,".
 
 Subsec. (j)(1)(F). Pub. L. 106–554, §1(a)(6) \[title III, §305(b)(1)(C)\], added subpar. (F).
 
@@ -4792,7 +4822,7 @@ Subsec. (d)(5)(D)(iii)(III). Pub. L. 103–432, §102(b)(1)(B)(i), substituted "
 
 Subsec. (d)(5)(D)(v). Pub. L. 103–432, §102(b)(1)(B)(ii), substituted "in the case of a hospital located in a rural area and designated" for "in the case of a hospital designated".
 
-Subsec. (d)(5)(G)(ii)(I). Pub. L. 103–432, §105(a)(1), substituted "the 36-month period beginning with the firstday of the cost reporting period that begins" for "the first 3 12-month cost reporting periods that begin".
+Subsec. (d)(5)(G)(ii)(I). Pub. L. 103–432, §105(a)(1), substituted "the 36-month period beginning with the first day of the cost reporting period that begins" for "the first 3 12-month cost reporting periods that begin".
 
 Subsec. (d)(5)(I). Pub. L. 103–432, §109, designated existing provisions as cl. (i) and added cl. (ii).
 
@@ -4944,7 +4974,7 @@ Subsec. (d)(3)(D)(i)(I). Pub. L. 101–508, §4002(c)(2)(B)(iv)(II), substituted
 
 Subsec. (d)(3)(D)(ii). Pub. L. 101–508, §4002(c)(2)(B)(v), substituted "other areas" for "a rural area" in introductory provisions and in subcl. (I).
 
-Subsec. (d)(4)(D). Pub. L. 101–508, §4002(g)(2)(A), struck out subpar. (D) which read as follows: "The Commission (established under subsection (e)(2) of this section) shall consult with and make recommendationsto the Secretary with respect to the need for adjustments under subparagraph (C), based upon its evaluation of scientific evidence with respect to new practices, including the use of new technologies and treatment modalities. The Commission shall report to the Congress with respect to its evaluation of any adjustments made by the Secretary under subparagraph (C)."
+Subsec. (d)(4)(D). Pub. L. 101–508, §4002(g)(2)(A), struck out subpar. (D) which read as follows: "The Commission (established under subsection (e)(2) of this section) shall consult with and make recommendations to the Secretary with respect to the need for adjustments under subparagraph (C), based upon its evaluation of scientific evidence with respect to new practices, including the use of new technologies and treatment modalities. The Commission shall report to the Congress with respect to its evaluation of any adjustments made by the Secretary under subparagraph (C)."
 
 Subsec. (d)(5)(B)(ii). Pub. L. 101–508, §4002(b)(3)(B)(A), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "For purposes of clause (i)(II), the indirect teaching adjustment factor for discharges occurring—
 
@@ -4966,7 +4996,7 @@ Subsec. (d)(5)(F)(vii)(II). Pub. L. 101–508, §4002(b)(1)(B), substituted "hos
 
 Subsec. (d)(8)(C)(i). Pub. L. 101–508, §4002(h)(1)(A)(i), substituted "area, or by treating hospitals located in one  urban  area  as  being  located  in  another  urban area—" for "area—".
 
-Subsec. (d)(8)(C)(i)(II). Pub. L. 101–508, §4002(h)(1)(A)(ii), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: "reduces the wage index for that urban area by more than 1 percentage point (as applied under this subsection), the Secretary shall calculate and apply such wage index under this subsection separately to hospitals located in such urban area (excluding all the hospitals so treated) and to the hospitals so treated (as if each affected rural county were a separate urban area)."
+Subsec. (d)(8)(C)(i)(II). Pub. L. 101–508, §4002(h)(1)(A)(ii), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: "reduces the wage index for that urban area by more than 1 percentage point (as applied under this subsection), the Secretary shall calculate and apply such wage index under this subsection separately to hospitals located in suchurban area (excluding all the hospitals so treated) and to the hospitals so treated (as if each affected rural county were a separate urban area)."
 
 Subsec. (d)(8)(C)(ii) to (iv). Pub. L. 101–508, §4002(h)(1)(A)(iii), (iv), redesignated cls. (iii) and (iv) as (ii) and (iii), respectively, and struck out former cl. (ii) which read as follows: "If the application of subparagraph (B) or a decision of the Medicare Geographic Classification Review Board or the Secretary under paragraph (10), by reclassifying a county from a rural to an urban area or by reclassifying an urban county from one urban area to another urban area—
 
@@ -5026,7 +5056,7 @@ Subsec. (c)(4). Pub. L. 101–239, §6022, substituted "the aggregate rate of in
 
 Subsec. (d)(1)(B)(v). Pub. L. 101–239, §6004(a)(1), added cl. (v).
 
-Subsec. (d)(3)(E). Pub. L. 101–239, §6003(h)(6), substituted "October 1, 1990, and October 1, 1993 (and at least every 12 months thereafter)" for "October 1, 1990 (and at least every 36 months thereafter)" and inserted at end "Any adjustments or updates made under this subparagraph for a fiscal year (beginning with fiscal year 1991) shall be made in a manner that assures that the aggregate payments under this subsection in the fiscal year are not greater or less than those that would have been made in the year without such adjustment."
+Subsec. (d)(3)(E). Pub. L. 101–239, §6003(h)(6), substituted "October 1, 1990, and October 1, 1993 (and at least every 12 months thereafter)" for "October 1, 1990 (and at least every 36 months thereafter)" and insertedat end "Any adjustments or updates made under this subparagraph for a fiscal year (beginning with fiscal year 1991) shall be made in a manner that assures that the aggregate payments under this subsection in the fiscal year are not greater or less than those that would have been made in the year without such adjustment."
 
 Subsec. (d)(4)(C). Pub. L. 101–239, §6003(b), designated existing provisions as cl. (i) and added cls. (ii) to (iv).
 
@@ -5170,7 +5200,7 @@ Subsec. (b)(3)(B)(i). Pub. L. 100–203, §4002(e)(1), struck out "subparagraph 
 
 Subsec. (b)(3)(B)(i)(II). Pub. L. 100–203, §4002(a), struck out "and for fiscal year 1988, the market basket percentage increase (as defined in clause (ii)) minus 2.0 percentage points, and" after "1.15 percent,".
 
-Subsec. (b)(3)(B)(i)(III) to (V). Pub. L. 100–203, §4002(a), added subcls. (III) to (V) and struck out formersubcl. (III) which read "for fiscal year 1989 and subsequent fiscal years, the percentage determined by the Secretary pursuant to subsection (e)(4) of this section."
+Subsec. (b)(3)(B)(i)(III) to (V). Pub. L. 100–203, §4002(a), added subcls. (III) to (V) and struck out former subcl. (III) which read "for fiscal year 1989 and subsequent fiscal years, the percentage determined by the Secretary pursuant to subsection (e)(4) of this section."
 
 Subsec. (b)(3)(B)(ii), (iii). Pub. L. 100–203, §4002(e)(2), (3), added cl. (ii), redesignated former cl. (ii) as (iii), and substituted "For purposes of this subparagraph" for "For purposes of clause (i)".
 
@@ -5186,7 +5216,7 @@ Pub. L. 100–203, §4002(b), in second sentence inserted definition of "large u
 
 Subsec. (d)(3). Pub. L. 100–203, §4002(c)(1)(A), substituted "large urban, other urban, or rural areas" for "urban or rural areas" in second sentence.
 
-Subsec. (d)(3)(A)(i). Pub. L. 100–203, §4002(c)(1)(B), (C), as amended by Pub. L. 100–360, §411(b)(1)(E)(ii), designated existing provisions as cl. (i), substituted "For discharges occuring \[sic\] in a fiscal year beginning before October 1, 1987, the Secretary" for "The Secretary" and "the fiscal year involved" for "each of fiscal years 1985, 1986, 1987, and 1988", struck out ", and adjusted for subsequent fiscal years in accordance with the final determination of the Secretary under subsection (e)(4) of this section, and adjusted to reflect the most recent case-mix data available", and added cls. (ii) and (iii).
+Subsec. (d)(3)(A)(i). Pub. L. 100–203, §4002(c)(1)(B), (C), as amended by Pub. L. 100–360, §411(b)(1)(E)(ii), designated existing provisions as cl. (i), substituted "For discharges occuring \[sic\] in a fiscal year beginning before October 1, 1987, the Secretary" for "The Secretary" and "the fiscal year involved" for "each of fiscal years 1985, 1986, 1987, and 1988", struck out ", and adjusted for subsequent fiscal years in accordance withthe final determination of the Secretary under subsection (e)(4) of this section, and adjusted to reflect the most recent case-mix data available", and added cls. (ii) and (iii).
 
 Subsec. (d)(3)(C)(ii). Pub. L. 100–203, §4003(c), substituted "1990" for "1989" in subcls. (I) and (II).
 
@@ -5250,7 +5280,7 @@ Subsec. (f)(3). Pub. L. 100–93 amended par. (3) generally. Prior to amendment,
 
 Subsec. (g)(1). Pub. L. 100–203, §4006(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "If the Congress does not enact legislation, after April 20, 1983, and before October 1, 1987, respecting the payment under this subchapter for capital-related costs for inpatient hospital services, no payment may be made under this subchapter for capital-related costs of capital expenditures (as defined in section 1320a–1(g) of this title and except as provided in section 1320a–1(j) of this title) for inpatient hospital services in a State, which expenditures are obligated after September 30, 1987, unless the State has an agreement with the Secretary under section 1320a–1(b) of this title and under the agreement the State has recommended approval of the capital expenditures."
 
-Subsec. (g)(3)(A)(ii) to (iv). Pub. L. 100–203, §4006(a), as amended by Pub. L. 100–360, §411(b)(5)(B), substituted "on or after October 1, 1987, and before January 1, 1988," for ", and", at end of cl. (ii), added cls. (iii) and (iv), and struck out former cl. (iii) which read as follows: "10 percent for payments attributable to portions of cost reporting periods or discharges (as the case may be) occurring during fiscal year 1989."
+Subsec. (g)(3)(A)(ii) to (iv). Pub. L. 100–203, §4006(a), as amended by Pub. L. 100–360, §411(b)(5)(B), substituted"on or after October 1, 1987, and before January 1, 1988," for ", and", at end of cl. (ii), added cls. (iii) and (iv), and struck out former cl. (iii) which read as follows: "10 percent for payments attributable to portions of cost reporting periods or discharges (as the case may be) occurring during fiscal year 1989."
 
 Subsec. (g)(3)(C). Pub. L. 100–203, §4006(b)(2)(B), struck out subpar. (C) which read as follows: "If the Secretary provides, under subsection (a)(4) of this section, for the inclusion of other capital-related costs in operating costs of inpatient hospital services, the Secretary shall provide—
 
@@ -5294,7 +5324,7 @@ Pub. L. 99–272, §9105(b), added cl. (iv).
 
 Subsec. (d)(3)(A). Pub. L. 99–509, §9302(a)(2)(A), (c), substituted "1986, 1987, and 1988" for "and 1986" and inserted provisions relating to the computation of urban and rural averages with respect to discharges occurring on or after October 1, 1987.
 
-Pub. L. 99–509, §9307(c)(1)(A), struck out Pub. L. 99–514, §1895(b)(1)(B), which had directed insertion of "If the formula under paragraph (5)(B) for determining payments for the indirect costs of medical education ischanged for any fiscal year, the Secretary shall readjust the standardized amounts previously determined for each hospital to take into account the changes in that formula."
+Pub. L. 99–509, §9307(c)(1)(A), struck out Pub. L. 99–514, §1895(b)(1)(B), which had directed insertion of "If the formula under paragraph (5)(B) for determining payments for the indirect costs of medical education is changed for any fiscal year, the Secretary shall readjust the standardized amounts previously determined for each hospital to take into account the changes in that formula."
 
 Pub. L. 99–272, §9101(c)(1), substituted "for each of fiscal years 1985 and 1986" for "for fiscal year 1985".
 
@@ -5310,7 +5340,7 @@ Pub. L. 99–509, §9307(c)(1)(A), struck out Pub. L. 99–514, §1895(b)(1)(C),
 
 &emsp;"(II) that sum using the factor specified in paragraph (5)(B)(ii)(II)."
 
-Subsec. (d)(3)(C)(iii). Pub. L. 99–509, §9307(c)(1)(B)(i), as amended by Pub. L. 100–203, §4009(j)(6)(A), struck out Pub. L. 99–514, §1895(b)(2)(B), which had added cl. (iii) reading as follows: "The Secretary shall further reduce each of the average standardized amounts by reducing the standardized amount for each hospital (as previously determined without regard to this clause) by a proportion equal to the proportion (established by the Secretary) of the amount of payments under this subsection based on DRG prospective payment amounts which are additional payments described in paragraph (5)(F) (relating to disproportionate share payments) for subsection (d) hospitals."
+Subsec. (d)(3)(C)(iii). Pub. L. 99–509, §9307(c)(1)(B)(i), as amended by Pub. L. 100–203, §4009(j)(6)(A), struck out Pub. L. 99–514, §1895(b)(2)(B), which had added cl. (iii) reading as follows: "The Secretary shall further reduce each of the average standardized amounts by reducingthe standardized amount for each hospital (as previously determined without regard to this clause) by a proportion equal to the proportion (established by the Secretary) of the amount of payments under this subsection based on DRG prospective payment amounts which are additional payments described in paragraph (5)(F) (relating to disproportionate share payments) for subsection (d) hospitals."
 
 Subsec. (d)(3)(D)(i)(I), (ii)(I). Pub. L. 99–272, §9104(b)(3), inserted "or reduced" after "(B), and adjusted".
 
@@ -5396,7 +5426,7 @@ Subsec. (a)(4). Pub. L. 98–369, §2312(b), temporarily inserted ", costs of a
 
 Subsec. (b)(3)(A)(ii). Pub. L. 98–369, §2354(b)(43), inserted "of" after "in the case".
 
-Subsec. (b)(3)(B). Pub. L. 98–369, §2310(a), substituted "one-quarter of 1 percentage point" for "1 percentage point" and inserted provision that in determining the percentage change under subsec. (e) of this section with respect to discharges occurring in any cost reporting period or fiscal year beginning on or after Oct. 1, 1985, and before Oct. 1, 1986, the Secretary may not establish a percentage increase which exceeds the applicable percentage increase otherwise determined for that period or fiscal year under the preceding sentence.
+Subsec. (b)(3)(B). Pub. L. 98–369, §2310(a), substituted "one-quarter of 1 percentage point" for "1 percentage point" and inserted provision that in determining the percentage change under subsec. (e) of this section withrespect to discharges occurring in any cost reporting period or fiscal year beginning on or after Oct. 1, 1985, and before Oct. 1, 1986, the Secretary may not establish a percentage increase which exceeds the applicable percentage increase otherwise determined for that period or fiscal year under the preceding sentence.
 
 Subsec. (c)(4)(A). Pub. L. 98–369, §2315(a), substituted "(D), and (E)" for "and (D)".
 
@@ -5454,7 +5484,7 @@ Subsec. (b)(6)(C). Pub. L. 97–448, §309(b)(15), substituted "under this subch
 
 Subsec. (c)(1). Pub. L. 98–21, §601(c)(1), added subpars. (D) and (E) and provisions following subpar. (E).
 
-Subsec. (c)(3)(A). Pub. L. 98–21, §601(c)(2)(A), substituted "meets the requirements of subparagraphs (A), (D), and (E) of paragraph (1) and, if applicable, the requirements of paragraph (5)," for "meets the requirement of paragraph (1)(A)".
+Subsec. (c)(3)(A). Pub. L. 98–21, §601(c)(2)(A), substituted "meets the requirements of subparagraphs (A),\(D), and (E) of paragraph (1) and, if applicable, the requirements of paragraph (5)," for "meets the requirement of paragraph (1)(A)".
 
 Subsec. (c)(3)(B). Pub. L. 98–21, §601(c)(2)(B), inserted "(or, if applicable, in paragraph (5))".
 
@@ -5465,6 +5495,8 @@ Subsec. (d). Pub. L. 98–21, §601(d)(2), (e), added subsec. (d) and redesignat
 Subsecs. (e) to (g). Pub. L. 98–21, §601(e), added subsecs. (e) to (g).
 
 <b>1982</b>—Subsec. (d). Pub. L. 97–248, §110, added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -5512,7 +5544,7 @@ Pub. L. 110–173, title I, §114(e)(2), Dec. 29, 2007, 121 Stat. 2505, provided
 
 Pub. L. 110–173, title I, §115(a)(2), Dec. 29, 2007, 121 Stat. 2506, provided that: "The amendment made by paragraph (1) \[amending this section\] shall not apply to payment units occurring before April 1, 2008."
 
-Pub. L. 110–161, div. G, title II, §225(b)(2), Dec. 26, 2007, 121 Stat. 2189, provided that: "Subject to paragraph (3) \[section 225(b) of title II of div. G of Pub. L. 110–161 doesnot contain a par. (3)\], the amendments made by paragraph (1) \[amending this section\] shall take effect as if included in the enactment of section 422 of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 (Public Law 108–173)."
+Pub. L. 110–161, div. G, title II, §225(b)(2), Dec. 26, 2007, 121 Stat. 2189, provided that: "Subject to paragraph (3) \[section 225(b) of title II of div. G of Pub. L. 110–161 does not contain a par. (3)\], the amendments made by paragraph (1) \[amending this section\] shall take effect as if included in the enactment of section 422 of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 (Public Law 108–173)."
 
 #### Effective Date of 2006 Amendment
 
@@ -5604,7 +5636,7 @@ Pub. L. 105–33, title IV, §4417(a)(2), Aug. 5, 1997, 111 Stat. 408, provided 
 
 Pub. L. 105–33, title IV, §4417(b)(2), Aug. 5, 1997, 111 Stat. 408, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to cost reporting periods beginning on or after the date of the enactment of this Act \[Aug. 5, 1997\]."
 
-Pub. L. 105–33, title IV, §4419(a)(2), Aug. 5, 1997, 111 Stat. 409, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to hospitals or units that first qualify as a hospital or unit described in section 1886(d)(1)(B) (42 U.S.C. 1395ww(d)(1)(B)) for cost reporting periods beginning on or after October 1, 1997."
+Pub. L. 105–33, title IV, §4419(a)(2), Aug. 5, 1997, 111 Stat. 409, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to hospitals or units that first qualify as a hospital orunit described in section 1886(d)(1)(B) (42 U.S.C. 1395ww(d)(1)(B)) for cost reporting periods beginning on or after October 1, 1997."
 
 Pub. L. 105–33, title IV, §4421(c), Aug. 5, 1997, 111 Stat. 413, provided that: "The amendments made by this section \[amending this section\] shall apply to cost reporting periods beginning on or after October 1, 2000, except that the Secretary of Health and Human Services may require the submission of data under section 1886(j)(2)(D) of the Social Security Act \[42 U.S.C. 1395ww(j)(2)(D)\] (as added by subsection (a)) on and after the date of the enactment of this section \[Aug. 5, 1997\]."
 
@@ -5654,7 +5686,7 @@ Pub. L. 101–508, title IV, §4008(f)(2), Nov. 5, 1990, 104 Stat. 1388–45, pr
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–239, title VI, §6003(a)(2), Dec. 19, 1989, 103 Stat. 2140, provided that: "The amendments made byparagraph (1) \[amending this section\] shall apply to payments for discharges occurring on or after January 1, 1990."
+Pub. L. 101–239, title VI, §6003(a)(2), Dec. 19, 1989, 103 Stat. 2140, provided that: "The amendments made by paragraph (1) \[amending this section\] shall apply to payments for discharges occurring on or after January 1, 1990."
 
 Pub. L. 101–239, title VI, §6003(c)(4), Dec. 19, 1989, 103 Stat. 2142, provided that: "The amendments made by this subsection \[amending this section\] shall apply with respect to discharges occurring on or after April 1, 1990."
 
@@ -5742,7 +5774,7 @@ Pub. L. 100–203, title IV, §4005(c)(2)(A), Dec. 22, 1987, 101 Stat. 1330–49
 
 Pub. L. 100–203, title IV, §4005(d)(1)(B), Dec. 22, 1987, 101 Stat. 1330–49, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall apply to discharges occurring on or after April 1, 1988."
 
-Pub. L. 100–203, title IV, §4006(b)(3), Dec. 22, 1987, 101 Stat. 1330–53, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect on October 1, 1987. The amendments made by paragraph (2) \[amending this section\] shall apply to cost reporting periods beginning on or after October 1, 1987."
+Pub. L. 100–203, title IV, §4006(b)(3), Dec. 22, 1987, 101 Stat. 1330–53, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect on October 1, 1987. The amendments made by paragraph\(2) \[amending this section\] shall apply to cost reporting periods beginning on or after October 1, 1987."
 
 Pub. L. 100–203, title IV, §4007(b)(2), Dec. 22, 1987, 101 Stat. 1330–53, as amended by Pub. L. 100–360, title IV, §411(b)(6)(B), July 1, 1988, 102 Stat. 770, provided that: "The amendment made by paragraph (1)(C) \[amending this section\] shall apply to hospital cost reporting periods beginning on or after October 1, 1989."
 
@@ -5818,7 +5850,7 @@ PPS-exempt hospitals.—In the case of a hospital that is not a subsection (d) h
 
 &emsp;"(A) the amendment made by subsection (b) \[amending this section\] shall apply to cost reporting periods beginning on or after October 1, 1985;
 
-&emsp;"(B) notwithstanding subparagraph (A), for the hospital's cost reporting period beginning during fiscal year 1986, payment under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] shall be made as though the applicable percentage increase described in section 1886(b)(3)(B) \[42 U.S.C. 1395ww(b)(3)(B)\] were equal to 5/24 of 1 percent; and
+&emsp;"(B) notwithstanding subparagraph (A), for the hospital's cost reporting period beginning during fiscalyear 1986, payment under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] shall be made as though the applicable percentage increase described in section 1886(b)(3)(B) \[42 U.S.C. 1395ww(b)(3)(B)\] were equal to 5/24 of 1 percent; and
 
 &emsp;"(C) for cost reporting periods beginning on or after October 1, 1986, the applicable percentage increase (as so defined) with respect to the cost reporting period beginning during fiscal year 1986 shall be deemed to have been ½ percent.
 
@@ -5884,7 +5916,7 @@ Pub. L. 99–272, title IX, §9202(b), Apr. 7, 1986, 100 Stat. 175, provided tha
 
 Amendment by Pub. L. 98–617 effective as if originally included in the Deficit Reduction Act of 1984, Pub. L. 98–369, see section 3(c) of Pub. L. 98–617, set out as a note under section 1395f of this title.
 
-Pub. L. 98–369, div. B, title III, §2307(b)(2), July 18, 1984, 98 Stat. 1074, provided that: "The amendmentmade by paragraph (1) \[amending this section\] shall apply to cost reporting periods beginning on or after October 1, 1984."
+Pub. L. 98–369, div. B, title III, §2307(b)(2), July 18, 1984, 98 Stat. 1074, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to cost reporting periods beginning on or after October 1, 1984."
 
 Pub. L. 98–369, div. B, title III, §2310(b), July 18, 1984, 98 Stat. 1075, provided that: "The amendments made by this section \[amending this section\] shall apply to cost reporting periods beginning in, and discharges occurring in, fiscal year 1985 and thereafter."
 
@@ -5896,7 +5928,7 @@ Pub. L. 98–369, div. B, title III, §2311(d), July 18, 1984, 98 Stat. 1077, pr
 
 Pub. L. 98–369, div. B, title III, §2312(c), July 18, 1984, 98 Stat. 1078, as amended by Pub. L. 99–509, title IX, §9320(a), Oct. 21, 1986, 100 Stat. 2013; Pub. L. 100–360, title IV, §411(p), July 1, 1988, as added by Pub. L. 100–485, title VI, §608(d)(29), Oct. 13, 1988, 102 Stat. 2424, provided that: "The amendments made by subsections (a) and (b) \[amending this section\] shall apply to cost reporting periods beginning on or after October 1, 1984, and before January 1, 1989. In the case of a cost reporting period that begins before January 1, 1989, but ends after such date, additional payments under the amendment made by subsection (a) shall be proportionately reduced to reflect the portion of the period occurring after such date."
 
-Amendment by section 2313(a), (b), (d) of Pub. L. 98–369 effective July 18, 1984, see section 2313(e) of Pub. L. 98–369, set out as an Effective Date of 1984 Amendment note under section 1395y of this title.
+Amendment by section 2313(a), (b), (d) of Pub. L. 98–369 effective July 18, 1984, see section 2313(e) of Pub.L. 98–369, set out as an Effective Date of 1984 Amendment note under section 1395y of this title.
 
 Pub. L. 98–369, div. B, title III, §2315(g), July 18, 1984, 98 Stat. 1080, provided that: "The amendments made by this section \[amending this section and sections 1395i–2 and 1395cc of this title and enacting and amending provisions set out as notes under this section\] shall be effective as though they had been included in the enactment of the Social Security Amendments of 1983 (Public Law 98–21)."
 
@@ -5932,7 +5964,7 @@ Pub. L. 101–508, title IV, §4003(c), Nov. 5, 1990, 104 Stat. 1388–39, provi
 
 Pub. L. 98–369, div. B, title III, §2315(f)(2), July 18, 1984, 98 Stat. 1080, provided that: "Notwithstanding section 604(c) of the Social Security Amendments of 1983 \[section 604(c) of Pub. L. 98–21, set out above\], the Secretary of Health and Human Services shall cause to be published in the Federal Register proposed regulations to carry out subsection (c) of section 1886 of the Social Security Act \[42 U.S.C. 1395ww(c)\] not later than July 1, 1984, and allow for a period of 45 days for public comment thereon. After consideration of the comments received, the Secretary shall cause to be published in the Federal Register final regulations to carry out such subsection not later than October 1, 1984."
 
-Pub. L. 97–248, title I, §101(b)(2)(A), Sept. 3, 1982, 96 Stat. 335, provided that: "The Secretary of Health andHuman Services shall first issue such final regulations (whether on an interim or other basis) before October 1, 1982, as may be necessary to implement such amendments \[amendments by section 101(a) of Pub. L. 97–248, enacting this section and amending section 1395x of this title\] on a timely basis. If such regulations are promulgated on an interim final basis, the Secretary shall take such steps as may be necessary to provide opportunity for public comment, and appropriate revision based thereon, so as to provide that such regulations are not on an interim basis later than March 31, 1983."
+Pub. L. 97–248, title I, §101(b)(2)(A), Sept. 3, 1982, 96 Stat. 335, provided that: "The Secretary of Health and Human Services shall first issue such final regulations (whether on an interim or other basis) before October 1, 1982, as may be necessary to implement such amendments \[amendments by section 101(a) of Pub. L. 97–248, enacting this section and amending section 1395x of this title\] on a timely basis. If such regulations are promulgated on an interim final basis, the Secretary shall take such steps as may be necessary to provide opportunity for public comment, and appropriate revision based thereon, so as to provide that such regulations are not on an interim basis later than March 31, 1983."
 
 #### Construction of 2010 Amendment
 
@@ -5940,7 +5972,7 @@ Pub. L. 111–192, title I, §102(e), June 25, 2010, 124 Stat. 1282, provided th
 
 Pub. L. 111–148, title V, §5504(c), Mar. 23, 2010, 124 Stat. 660, provided that: "The amendments made by this section \[amending this section\] shall not be applied in a manner that requires reopening of any settled hospital cost reports as to which there is not a jurisdictionally proper appeal pending as of the date of the enactment of this Act \[Mar. 23, 2010\] on the issue of payment for indirect costs of medical education under section 1886(d)(5)(B) of the Social Security Act (42 U.S.C. 1395ww(d)(5)(B)) or for direct graduate medical education costs under section 1886(h) of such Act (42 U.S.C. 1395ww(h))."
 
-Pub. L. 111–148, title V, §5505(d), title X, §10501(j), Mar. 23, 2010, 124 Stat. 999, provided that: "The amendments made by this section \[amending this section\] shall not be applied in a manner that requires reopening of any settled cost reports as to which there is not a jurisdictionally proper appeal pending as of the date of the enactment of this Act \[Mar. 23, 2010\] on the issue of payment for indirect costs of medical education under section 1886(d)(5)(B) of the Social Security Act (42 U.S.C. 1395ww(d)(5)(B)) or for direct graduate medical education costs under section 1886(h) of such Act (42 U.S.C. 1395ww(h))."
+Pub. L. 111–148, title V, §5505(d), title X, §10501(j), Mar. 23, 2010, 124 Stat. 999, provided that: "The amendments made by this section \[amending this section\] shall not be applied in a manner that requires reopening of any settled cost reports as to which there is nota jurisdictionally proper appeal pending as of the date of the enactment of this Act \[Mar. 23, 2010\] on the issue of payment for indirect costs of medical education under section 1886(d)(5)(B) of the Social Security Act (42 U.S.C. 1395ww(d)(5)(B)) or for direct graduate medical education costs under section 1886(h) of such Act (42 U.S.C. 1395ww(h))."
 
 Pub. L. 111–148, title V, §5506(c), Mar. 23, 2010, 124 Stat. 662, provided that: "The amendments made by this section \[amending this section\] shall not be applied in a manner that requires reopening of any settled hospital cost reports as to which there is not a jurisdictionally proper appeal pending as of the date of the enactment of this Act \[Mar. 23, 2010\] on the issue of payment for indirect costs of medical education under section 1886(d)(5)(B) of the Social Security Act (42 U.S.C. 1395ww(d)(5)(B)) or for direct graduate medical education costs under section 1886(h) of such Act (42 U.S.C. Section \[sic\] 1395ww(h))."
 
@@ -5994,7 +6026,7 @@ Applicable hospital defined.—In this subsection, the term 'applicable hospital
 
 #### Implementation of Amendment by Pub. L. 114–113
 
-Pub. L. 114–113, div. O, title VI, §602(c), Dec. 18, 2015, 129 Stat. 3024, provided that: "Notwithstanding any other provision of law, the Secretary of Health and Human Services may implement the amendments made by this section \[amending this section and section1395w–23 of this title\] by program instruction or otherwise."
+Pub. L. 114–113, div. O, title VI, §602(c), Dec. 18, 2015, 129 Stat. 3024, provided that: "Notwithstanding any other provision of law, the Secretary of Health and Human Services may implement the amendments made by this section \[amending this section and section 1395w–23 of this title\] by program instruction or otherwise."
 
 #### Calculation of Length of Stay Excluding Cases Paid on a Site Neutral Basis
 
@@ -6016,7 +6048,7 @@ Pub. L. 113–67, div. B, title II, §1206(d), Dec. 26, 2013, 127 Stat. 1204, pr
 
 "(1)
 
-Evaluation.—As part of the annual rulemaking for fiscal year 2015 or fiscal year 2016 to carry out the payment rates under subsection (d) of section 1886 of the Social Security Act (42 U.S.C. 1395ww), the Secretary shall evaluate both the payment rates and regulations governing hospitals which are classified under subclause (II) of subsection (d)(1)(B)(iv) of such section.
+Evaluation.—As part of the annual rulemaking for fiscal year 2015 or fiscal year 2016 to carry out thepayment rates under subsection (d) of section 1886 of the Social Security Act (42 U.S.C. 1395ww), the Secretary shall evaluate both the payment rates and regulations governing hospitals which are classified under subclause (II) of subsection (d)(1)(B)(iv) of such section.
 
 "(2)
 
@@ -6084,7 +6116,7 @@ In General.—From the amount available under subsection (b), the Secretary of H
 
 "(b)
 
-Amounts Available.—There shall be available from the Federal Hospital Insurance Trust Fund$400,000,000 for payments under this section for fiscal years 2011 and 2012.
+Amounts Available.—There shall be available from the Federal Hospital Insurance Trust Fund $400,000,000 for payments under this section for fiscal years 2011 and 2012.
 
 "(c)
 
@@ -6108,7 +6140,7 @@ Establishment.—
 
 &emsp;&emsp;"(i)
 
-In general.—Not later than 2 years after the date of enactment of this Act \[Mar. 23, 2010\], the Secretary of Health and Human Services (in this subsection referred to as the 'Secretary') shall establish a demonstration program under which the Secretary establishes a value-based purchasing program under the Medicare program under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] for critical access hospitals (as defined in paragraph (1) of section 1861(mm) of such Act (42 U.S.C. 1395x(mm))) with respect to inpatient critical access hospital services (as defined in paragraph (2) of such section) in order to test innovative methods of measuring and rewarding quality and efficient health care furnished by such hospitals.
+In general.—Not later than 2 years after the date of enactment of this Act \[Mar. 23, 2010\], the Secretary of Health and Human Services (in this subsection referred to as the 'Secretary') shall establish a demonstration program under which the Secretary establishes a value-based purchasing program under the Medicare program under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] for critical access hospitals (as defined in paragraph (1) of section 1861(mm) of such Act (42 U.S.C. 1395x(mm))) with respect to inpatient critical access hospital services (as defined in paragraph (2) ofsuch section) in order to test innovative methods of measuring and rewarding quality and efficient health care furnished by such hospitals.
 
 &emsp;&emsp;"(ii)
 
@@ -6212,7 +6244,7 @@ Use of Particular Criteria for Determining Reclassifications.—Notwithstanding 
 
 #### Application of Budget Neutrality on a National Basis in the Calculation of the Medicare Hospital Wage Index Floor
 
-Pub. L. 111–148, title III, §3141, Mar. 23, 2010, 124 Stat. 441, provided that: "In the case of discharges occurring on or after October 1, 2010, for purposes of applying section 4410 of the Balanced Budget Act of 1997 \[section 4410 of Pub. L. 105–33, set out as a note under this section\] (42 U.S.C. 1395ww note) and paragraph (h)(4) of section 412.64 of title 42, Code of Federal Regulations, the Secretary of Health and Human Services shall administer subsection (b) of such section 4410 and paragraph (e) of such section 412.64 in the same manner as the Secretary administered such subsection (b) and paragraph (e) for discharges occurring during fiscal year 2008 (through a uniform, national adjustment to the area wage index)."
+Pub. L. 111–148, title III, §3141, Mar. 23, 2010, 124 Stat. 441, provided that: "In the case of discharges occurringon or after October 1, 2010, for purposes of applying section 4410 of the Balanced Budget Act of 1997 \[section 4410 of Pub. L. 105–33, set out as a note under this section\] (42 U.S.C. 1395ww note) and paragraph (h)(4) of section 412.64 of title 42, Code of Federal Regulations, the Secretary of Health and Human Services shall administer subsection (b) of such section 4410 and paragraph (e) of such section 412.64 in the same manner as the Secretary administered such subsection (b) and paragraph (e) for discharges occurring during fiscal year 2008 (through a uniform, national adjustment to the area wage index)."
 
 #### Effect on Temporary FTE Cap Adjustments
 
@@ -6406,7 +6438,7 @@ No application of very short-stay outlier policy.—The Secretary shall not appl
 
 No application of one-time adjustment to standard amount.—The Secretary shall not, for the 5-year period beginning on the date of the enactment of this Act, make the one-time prospective adjustment to long-term care hospital prospective payment rates provided for in section 412.523(d)(3) of title 42, Code of Federal Regulations, or any similar provision."
 
-\[Pub. L. 111–5, div. B, title IV, §4302(c), Feb. 17, 2009, 123 Stat. 496, provided that: "The amendments made by this section \[amending Pub. L. 110–173, §114(c), set out above, and Pub. L. 110–173, §114(d), set out below\] shall be effective and apply as if included in the enactmentof the Medicare, Medicaid, and SCHIP Extension Act of 2007 (Public Law 110–173)."\]
+\[Pub. L. 111–5, div. B, title IV, §4302(c), Feb. 17, 2009, 123 Stat. 496, provided that: "The amendments made by this section \[amending Pub. L. 110–173, §114(c), set out above, and Pub. L. 110–173, §114(d), set out below\] shall be effective and apply as if included in the enactment of the Medicare, Medicaid, and SCHIP Extension Act of 2007 (Public Law 110–173)."\]
 
 #### Moratorium on the Establishment of Long-Term Care Hospitals, Long-Term Care Satellite Facilities and on the Increase of Long-Term Care Hospital Beds in Existing Long-Term Care Hospitals or Satellite Facilities
 
@@ -6424,7 +6456,7 @@ In general.—During the 5-year period (and for the period beginning on the date
 
 Exception for certain long-term care hospitals.—The moratorium under paragraph (1)(A) shall not apply to a long-term care hospital that as of the date of the enactment of this Act—
 
-&emsp;"(A) began its qualifying period for payment as a long-term care hospital under section 412.23(e) of title 42, Code of Federal Regulations, on or before the date of the enactment of this Act;
+&emsp;"(A) began its qualifying period for payment as a long-term care hospital under section 412.23(e) of title42, Code of Federal Regulations, on or before the date of the enactment of this Act;
 
 &emsp;"(B) has a binding written agreement with an outside, unrelated party for the actual construction, renovation, lease, or demolition for a long-term care hospital, and has expended, before the date of the enactment of this Act, at least 10 percent of the estimated cost of the project (or, if less, $2,500,000); or
 
@@ -6502,7 +6534,7 @@ In general.—Subject to subparagraph (B), the previous provisions of this subse
 
 &emsp;"(B)
 
-Continuation.—As of the date specified in subparagraph (A), the Secretary shall determine whetherto continue to guarantee, through continued medical review and sampling under this paragraph, recovery of at least 75 percent of overpayments received by long-term care hospitals due to medically unnecessary admissions and continued stays.
+Continuation.—As of the date specified in subparagraph (A), the Secretary shall determine whether to continue to guarantee, through continued medical review and sampling under this paragraph, recovery of at least 75 percent of overpayments received by long-term care hospitals due to medically unnecessary admissions and continued stays.
 
 "(5)
 
@@ -6518,7 +6550,7 @@ Special exception reclassifications.—The Secretary of Health and Human Service
 
 "(3)
 
-Use of particular wage index.—For purposes of implementation of this subsection \[par. (1) of this subsection amended section 106(a) of Pub. L. 109–432, set out below\] in fiscal years 2008 and 2009, the Secretary shall use the hospital wage index that was promulgated by the Secretary in the Federal Register on October 10, 2007 (72 Fed. Reg. 57634), and any subsequent corrections."
+Use of particular wage index.—For purposes of implementation of this subsection \[par. (1) of this subsection amended section 106(a) of Pub. L. 109–432, set out below\] in fiscal years 2008 and 2009, the Secretaryshall use the hospital wage index that was promulgated by the Secretary in the Federal Register on October 10, 2007 (72 Fed. Reg. 57634), and any subsequent corrections."
 
 #### Correction of Application of Wage Index During Tax Relief and Health Care Act Extension
 
@@ -6580,7 +6612,7 @@ Pub. L. 109–171, title V, §5001(b), Feb. 8, 2006, 120 Stat. 29, provided that
 
 "(1)
 
-In general.—The Secretary of Health and Human Services shall develop a plan to implement avalue based purchasing program for payments under the Medicare program for subsection (d) hospitals beginning with fiscal year 2009.
+In general.—The Secretary of Health and Human Services shall develop a plan to implement a value based purchasing program for payments under the Medicare program for subsection (d) hospitals beginning with fiscal year 2009.
 
 "(2)
 
@@ -6856,7 +6888,7 @@ In general.—The term 'rural community hospital' means a hospital (as defined i
 
 &emsp;&emsp;"(B)
 
-Treatment of psychiatric and rehabilitation units.—For purposes of subparagraph (A)(ii), beds in a psychiatric or rehabilitation unit of the hospital which is a distinct part of the hospital shall not be counted.
+Treatment of psychiatric and rehabilitation units.—For purposes of subparagraph (A)(ii), beds in a psychiatric or rehabilitation unit of thehospital which is a distinct part of the hospital shall not be counted.
 
 &emsp;"(2)
 
@@ -6948,7 +6980,7 @@ Interim report.—Not later than 18 months after the date of the enactment of th
 
 &emsp;"(2)
 
-Final report.—Not later than 3 years after the date of the enactment of this Act \[Dec. 8, 2003\], the Commission shall submit to Congress a final report on all matters studied under subsection (a)."
+Final report.—Not later than 3 years after the date of the enactment of this Act \[Dec. 8, 2003\], theCommission shall submit to Congress a final report on all matters studied under subsection (a)."
 
 #### GAO Study and Report on Appropriateness of Payments Under the Prospective Payment System for Inpatient Hospital Services
 
@@ -7028,7 +7060,7 @@ Transitional Extension.—Any reclassification of a county or other area made by
 
 "(g)
 
-Disregarding Hospital Reclassifications for Purposes of Group Reclassifications.—For purposesof the reclassification of a group of hospitals in a geographic area under section 1886(d) of the Social Security Act \[42 U.S.C. 1395ww(d)\] for purposes of discharges occurring beginning on October 1, 2007, and ending on the last date of the extension of reclassifications under section 106(a) of the Medicare Improvement\[s\] and Extension Act of 2006 (division B of Public Law 109–432) \[set out above\], a hospital reclassified under this section (including any such reclassification which is extended under section 106(a) of the Medicare Improvements and Extension Act of 2006) \[div. B of Pub. L. 109–432, set out as a note under this section\] shall not be taken into account and shall not prevent the other hospitals in such area from continuing such a group for such purpose."
+Disregarding Hospital Reclassifications for Purposes of Group Reclassifications.—For purposes of the reclassification of a group of hospitals in a geographic area under section 1886(d) of the Social Security Act \[42 U.S.C. 1395ww(d)\] for purposes of discharges occurring beginning on October 1, 2007, and ending on the last date of the extension of reclassifications under section 106(a) of the Medicare Improvement\[s\] and Extension Act of 2006 (division B of Public Law 109–432) \[set out above\], a hospital reclassified under this section (including any such reclassification which is extended under section 106(a) of the Medicare Improvements and Extension Act of 2006) \[div. B of Pub. L. 109–432, set out as a note under this section\] shall not be taken into account and shall not prevent the other hospitals in such area from continuing such a group for such purpose."
 
 #### Exception to Initial Residency Period for Geriatric Residency or Fellowship Programs
 
@@ -7040,7 +7072,7 @@ Clarification of Congressional Intent.—Congress intended section 1886(h)(5)(F)
 
 "(b)
 
-Interim Final Regulatory Authority and Effective Date.—The Secretary \[of Health and Human Services\] shall promulgate interim final regulations consistent with the congressional intent expressed in this section after notice and pending opportunity for public comment to be effective for cost reporting periods beginning on or after October 1, 2003."
+Interim Final Regulatory Authority and Effective Date.—The Secretary \[of Health and Human Services\] shall promulgate interim final regulationsconsistent with the congressional intent expressed in this section after notice and pending opportunity for public comment to be effective for cost reporting periods beginning on or after October 1, 2003."
 
 #### Treatment of Volunteer Supervision
 
@@ -7394,7 +7426,7 @@ Hospitals covered.—A hospital described in this paragraph for a cost reporting
 
 &emsp;"(A) that is described in paragraph (3) for such period;
 
-&emsp;"(B) that is located in a State in which the amount of the aggregate payments under section 1886(d) of such Act \[42 U.S.C. 1395ww(d)\] for hospitals located in the State and described in paragraph (3) for their cost reporting periods beginning during fiscal year 1995 is less than the aggregate allowable operating costs of inpatient hospital services (as defined in section 1886(a)(4) of such Act) for all such hospitals in such State with respect to such cost reporting periods; and
+&emsp;"(B) that is located in a State in which the amount of the aggregate payments under section 1886(d) ofsuch Act \[42 U.S.C. 1395ww(d)\] for hospitals located in the State and described in paragraph (3) for their cost reporting periods beginning during fiscal year 1995 is less than the aggregate allowable operating costs of inpatient hospital services (as defined in section 1886(a)(4) of such Act) for all such hospitals in such State with respect to such cost reporting periods; and
 
 &emsp;"(C) with respect to which the payments under section 1886(d) of such Act (42 U.S.C. 1395ww(d)) for discharges occurring in the cost reporting period involved, as estimated by the Secretary, is less than the allowable operating costs of inpatient hospital services (as defined in section 1886(a)(4) of such Act (42 U.S.C. 1395ww(a)(4))\[)\] for such hospital for such period, as estimated by the Secretary.
 
@@ -7462,7 +7494,7 @@ Pub. L. 105–33, title IV, §4410, Aug. 5, 1997, 111 Stat. 402, provided that:
 
 "(a)
 
-In General.—For purposes of section 1886(d)(3)(E) of the Social Security Act (42 U.S.C. 1395ww(d)(3)(E)) for discharges occurring on or after October 1, 1997, the area wage index applicable under such section to any hospital which is not located in a ruralarea (as defined in section 1886(d)(2)(D) of such Act (42 U.S.C. 1395ww(d)(2)(D))\[)\] may not be less than the area wage index applicable under such section to hospitals located in rural areas in the State in which the hospital is located.
+In General.—For purposes of section 1886(d)(3)(E) of the Social Security Act (42 U.S.C. 1395ww(d)(3)(E)) for discharges occurring on or after October 1, 1997, the area wage index applicable under such section to any hospital which is not located in a rural area (as defined in section 1886(d)(2)(D) of such Act (42 U.S.C. 1395ww(d)(2)(D))\[)\] may not be less than the area wage index applicable under such section to hospitals located in rural areas in the State in which the hospital is located.
 
 "(b)
 
@@ -7470,7 +7502,7 @@ Implementation.—The Secretary of Health and Human Services shall adjust the ar
 
 "(c)
 
-Exclusion of Certain Wages.—In the case of a hospital that is owned by a municipality and that was reclassified as an urban hospital under section 1886(d)(10) of the Social Security Act \[42 U.S.C. 1395ww(d)(10)\] for fiscal year 1996, in calculating the hospital's average hourly wage for purposes of geographic reclassification under such section for fiscal year 1998, the Secretary of Health and Human Services shall exclude the general service wages and hours of personnel associated with a skilled nursing facility that is owned by the hospital of the same municipality and that is physically separated from the hospital to the extent that such wages and hours of such personnel are not shared with the hospital and are separately documented. A hospital that applied for and was denied reclassification as an urban hospital for fiscal year 1998, but that would have received reclassification had the exclusion required by this section been applied to it, shall be reclassified as an urban hospital for fiscal year 1998."
+Exclusion of Certain Wages.—In the case of a hospital that is owned by a municipality and that was reclassified as an urban hospital under section 1886(d)(10) of the Social Security Act \[42 U.S.C. 1395ww(d)(10)\] for fiscal year 1996, in calculating the hospital's average hourly wage for purposes of geographic reclassification under such section for fiscal year 1998, the Secretary of Health and Human Services shall exclude the general service wages and hours of personnel associated with a skilled nursing facility that is owned by the hospital of the same municipality and that is physically separated from the hospital to the extent that such wages and hours of such personnel are not shared with the hospital and are separately documented. A hospital that applied for and was denied reclassification as an urban hospital for fiscal year 1998, but that would have received reclassification had the exclusion required by this section been applied toit, shall be reclassified as an urban hospital for fiscal year 1998."
 
 #### Report on Effect of Amendments by Pub. L. 105–33, §4415, on Psychiatric Hospitals
 
@@ -7680,7 +7712,7 @@ Pub. L. 105–33, title IV, §4629, Aug. 5, 1997, 111 Stat. 484, provided that:
 
 "(a)
 
-In General.—The Medicare Payment Advisory Commission (established under section 1805 of the Social Security Act \[42 U.S.C. 1395b–6\] and in this section referred to as the 'Commission') shall examine and develop recommendations on whether and to what extent medicare payment policies and other Federal policies regarding teaching hospitals and graduate medical education should be changed. Such recommendations shall include recommendations regarding each of the following:
+In General.—The Medicare Payment Advisory Commission (established under section 1805 of the Social Security Act \[42 U.S.C. 1395b–6\] and in this section referred to as the 'Commission') shall examine and develop recommendations on whether and to what extent medicare payment policies and other Federal policiesregarding teaching hospitals and graduate medical education should be changed. Such recommendations shall include recommendations regarding each of the following:
 
 &emsp;"(1) Possible methodologies for making payments for graduate medical education and the selection of entities to receive such payments. Matters considered under this paragraph shall include—
 
@@ -7746,7 +7778,7 @@ Pub. L. 105–33, title IV, §4644(c)(2), Aug. 5, 1997, 111 Stat. 488, provided 
 
 #### No Standardized Amount Adjustments for Fiscal Years 1992 or 1993
 
-Pub. L. 103–66, title XIII, §13501(b)(2), Aug. 10, 1993, 107 Stat. 574, provided that: "The Secretary of Health and Human Services shall not revise the fiscal year 1992 or fiscal year 1993 standardized amounts pursuant to subsections (d)(3)(B) and (d)(8)(D) of section 1886 of the Social Security Act \[42 U.S.C. 1395ww(d)(3)(B), (d)(8)(D)\] toaccount for the amendment made by paragraph (1) \[amending this section\]."
+Pub. L. 103–66, title XIII, §13501(b)(2), Aug. 10, 1993, 107 Stat. 574, provided that: "The Secretary of Health and Human Services shall not revise the fiscal year 1992 or fiscal year 1993 standardized amounts pursuant to subsections (d)(3)(B) and (d)(8)(D) of section 1886 of the Social Security Act \[42 U.S.C. 1395ww(d)(3)(B), (d)(8)(D)\] to account for the amendment made by paragraph (1) \[amending this section\]."
 
 #### Extension of Regional Referral Center Classifications Through Fiscal Year 1994; Reclassification
 
@@ -7928,7 +7960,7 @@ University Hospital Nursing Education.—
 
 &emsp;"(1)
 
-In general.—The reasonable costs incurred by a hospital (or by an educational institution related to the hospital by common ownership or control) during a cost reporting period for clinical training (as defined by the Secretary) conducted on the premises of the hospital under approved nursing and allied health education programs that are not operated by the hospital shall be allowable as reasonable costs underpart B of title XVIII of the Social Security Act and reimbursed under such part on a pass-through basis.
+In general.—The reasonable costs incurred by a hospital (or by an educational institution related to the hospital by common ownership or control) during a cost reporting period for clinical training (as defined by the Secretary) conducted on the premises of the hospital under approved nursing and allied health education programs that are not operated by the hospital shall be allowable as reasonable costs under part B of title XVIII of the Social Security Act and reimbursed under such part on a pass-through basis.
 
 &emsp;"(2)
 
@@ -8076,7 +8108,7 @@ Period of applicability.—A hospital may not receive an additional payment unde
 
 #### Legislative Proposal Eliminating Separate Average Standardized Amounts
 
-Pub. L. 101–239, title VI, §6003(i), Dec. 19, 1989, 103 Stat. 2158, directed Secretary of Health and HumanServices to design a legislative proposal eliminating the system of determining separate average standardized amounts for subsection (d) hospitals classified as being located in large urban, other urban, or rural areas, prior to repeal by Pub. L. 105–362, title VI, §601(b)(4), Nov. 10, 1998, 112 Stat. 3286.
+Pub. L. 101–239, title VI, §6003(i), Dec. 19, 1989, 103 Stat. 2158, directed Secretary of Health and Human Services to design a legislative proposal eliminating the system of determining separate average standardized amounts for subsection (d) hospitals classified as being located in large urban, other urban, or rural areas, prior to repeal by Pub. L. 105–362, title VI, §601(b)(4), Nov. 10, 1998, 112 Stat. 3286.
 
 #### Determination and Recommendations of Payments for Costs of Administering Blood Clotting Factors to Individuals With Hemophilia
 
@@ -8092,7 +8124,7 @@ Recommendations on Payments.—The Prospective Payment Assessment Commission and
 
 #### Publication of Instructions Relating to Exceptions and Adjustments in Target Amounts
 
-Pub. L. 101–239, title VI, §6015(b), Dec. 19, 1989, 103 Stat. 2164, provided that: "By not later than 180 days after the date of enactment of this Act \[Dec. 19, 1989\], the Secretary of Health and Human Services shall publish instructions specifying the application process to be used in providing exceptions and adjustments under section 1886(b)(4)(A) of the Social Security Act \[42 U.S.C. 1395ww(b)(4)(A)\]."
+Pub. L. 101–239, title VI, §6015(b), Dec. 19, 1989, 103 Stat. 2164, provided that: "By not later than 180 days after the date of enactment of this Act \[Dec. 19, 1989\],the Secretary of Health and Human Services shall publish instructions specifying the application process to be used in providing exceptions and adjustments under section 1886(b)(4)(A) of the Social Security Act \[42 U.S.C. 1395ww(b)(4)(A)\]."
 
 #### Delay in Recoupment of Certain Nursing and Allied Education Costs
 
@@ -8152,7 +8184,7 @@ Pub. L. 100–360, title I, §104(c), July 1, 1988, 102 Stat. 688, as amended by
 
 "(1) PPS
 
-hospitals.—In adjusting DRG prospective payment rates under section 1886(d) of the Social Security Act \[42 U.S.C. 1395ww(d)\], outlier cutoff points under section 1886(d)(5)(A) of such Act, and weighting factors under section 1886(d)(4) of such Act for discharges occurring on or after October 1, 1988, and before January 1, 1990, the Secretary of Health and HumanServices shall, to the extent appropriate, take into consideration the reductions in payments to hospitals by (or on behalf of) medicare beneficiaries resulting from the elimination of a day limitation on medicare inpatient hospital services (under the amendments made by section 101 \[amending section 1395d of this title\]).
+hospitals.—In adjusting DRG prospective payment rates under section 1886(d) of the Social Security Act \[42 U.S.C. 1395ww(d)\], outlier cutoff points under section 1886(d)(5)(A) of such Act, and weighting factors under section 1886(d)(4) of such Act for discharges occurring on or after October 1, 1988, and before January 1, 1990, the Secretary of Health and Human Services shall, to the extent appropriate, take into consideration the reductions in payments to hospitals by (or on behalf of) medicare beneficiaries resulting from the elimination of a day limitation on medicare inpatient hospital services (under the amendments made by section 101 \[amending section 1395d of this title\]).
 
 "(2) PPS-
 
@@ -8488,7 +8520,7 @@ Exception.—Paragraphs (1) and (2) shall not be construed to apply to any regul
 
 #### Maintaining Current Outlier Policy in Fiscal Year 1987
 
-Pub. L. 99–509, title IX, §9302(b)(3), Oct. 21, 1986, 100 Stat. 1982, provided that: "For payments made under section 1886(d) of the Social Security Act \[42 U.S.C. 1395ww(d)\] for discharges occurring in fiscal year 1987—
+Pub. L. 99–509, title IX, §9302(b)(3), Oct. 21, 1986, 100 Stat. 1982, provided that: "For payments made undersection 1886(d) of the Social Security Act \[42 U.S.C. 1395ww(d)\] for discharges occurring in fiscal year 1987—
 
 &emsp;"(A) the proportions under paragraph (3)(B) for hospitals located in urban and rural areas shall be established at such levels as produce the same total dollar reduction under such paragraph as if this section had not been enacted; and
 
@@ -8536,7 +8568,7 @@ Not including capital-related regulations in budget baseline.—Any reference in
 
 "(3)
 
-Exception.—Paragraph (1) shall not apply to any regulation issued for the sole purpose of implementing section 1861(v)(1)(O) and 1886(g)(2) of the Social Security Act \[42 U.S.C. 1395x(v)(1)(O), 1395ww(g)(2)\] and section 1886(g)(3)(A) and (B) of the Social Security Act \[42U.S.C. 1395ww(g)(3)(A), (B)\] (as amended by section 9303(a) of this Act).
+Exception.—Paragraph (1) shall not apply to any regulation issued for the sole purpose of implementing section 1861(v)(1)(O) and 1886(g)(2) of the Social Security Act \[42 U.S.C. 1395x(v)(1)(O), 1395ww(g)(2)\] and section 1886(g)(3)(A) and (B) of the Social Security Act \[42 U.S.C. 1395ww(g)(3)(A), (B)\] (as amended by section 9303(a) of this Act).
 
 "(4)
 
@@ -8734,7 +8766,7 @@ Pub. L. 98–21, title VI, §601(g), Apr. 20, 1983, 97 Stat. 163, provided that:
 
 #### Reports, Experiments, and Demonstration Projects Related to Inclusion in Prospective Payment Amounts of Inpatient Hospital Service Capital-Related Costs
 
-Pub. L. 98–21, title VI, §603(a), Apr. 20, 1983, 97 Stat. 166, as amended by Pub. L. 98–369, div. B, title III, §2317, July 18, 1984, 98 Stat. 1081; Pub. L. 99–509, title IX, §9305(i)(1), Oct. 21, 1986, 100 Stat. 1993; Pub. L. 104–66, title I, §1061(d), Dec. 21, 1995, 109 Stat. 720, directed Secretary of Health and Human Services to report to Congress within 18 months after Apr. 20, 1983, on legislation by which capital-related costs associated with inpatient hospital services could be included within the prospective payment amounts computed under subsec.\(d) of this section, further provided that the Secretary was to study and report to Congress on reimbursement of sole community hospitals based on variations in occupancy, on coordination of an information transfer between parts A and B of this subchapter, on treatment of uncompensated care costs and adjustments appropriate for large rural teaching hospitals, and on advisability of having hospitals make cost-of-care information to certain patients, and further provided that the Secretary was to study and report to Congress on a method for including hospitals outside the 50 States and the District of Columbia under a prospective payment system.
+Pub. L. 98–21, title VI, §603(a), Apr. 20, 1983, 97 Stat. 166, as amended by Pub. L. 98–369, div. B, title III, §2317, July 18, 1984, 98 Stat. 1081; Pub. L. 99–509, title IX, §9305(i)(1), Oct. 21, 1986, 100 Stat. 1993; Pub. L. 104–66, title I, §1061(d), Dec. 21, 1995, 109 Stat. 720, directed Secretary of Health and Human Services to report to Congress within 18 months after Apr. 20, 1983, on legislation by which capital-related costs associated with inpatient hospital services could be included within the prospective payment amounts computed under subsec. (d) of this section, further provided that the Secretary was to study and report to Congress on reimbursement of sole community hospitals based on variations in occupancy, on coordination of an information transfer between parts A and B of this subchapter, on treatment of uncompensated care costs and adjustments appropriate for large rural teaching hospitals, and on advisability of having hospitals make cost-of-care information to certain patients, and further provided that the Secretary was to study and report to Congress on a method for including hospitals outside the 50 States and the District of Columbia under a prospective payment system.
 
 #### Inapplicability of Coordination of Federal Information Policy to the Collection of Information
 

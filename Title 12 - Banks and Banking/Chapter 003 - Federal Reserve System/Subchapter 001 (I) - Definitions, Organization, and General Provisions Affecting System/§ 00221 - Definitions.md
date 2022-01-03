@@ -6,7 +6,7 @@ The terms "national bank" and "national banking association" used in this chapte
 
 The terms "bonds and notes of the United States", "bonds and notes of the Government of the United States", and "bonds or notes of the United States" used in this chapter shall be held to include certificates of indebtedness and Treasury bills issued under section 3104 of title 31.
 
-(Dec. 23, 1913, ch. 6, §1 (pars.), 38 Stat. 251; Aug. 23, 1935, ch. 614, title II, §203(a), 49 Stat. 704; Pub.L. 86–70, §8(a), June 25, 1959, 73 Stat. 142; Pub. L. 97–258, §2(c), Sept. 13, 1982, 96 Stat. 1058; Pub. L. 109–351, title VII, §725(a)(1), Oct. 13, 2006, 120 Stat. 2001; Pub. L. 109–356, title I, §123(a)(1), Oct. 16, 2006, 120 Stat. 2028.)
+(Dec. 23, 1913, ch. 6, §1 (pars.), 38 Stat. 251; Aug. 23, 1935, ch. 614, title II, §203(a), 49 Stat. 704; Pub. L. 86–70, §8(a), June 25, 1959, 73 Stat. 142; Pub. L. 97–258, §2(c), Sept. 13, 1982, 96 Stat. 1058; Pub. L. 109–351, title VII, §725(a)(1), Oct. 13, 2006, 120 Stat. 2001; Pub. L. 109–356, title I, §123(a)(1), Oct. 16, 2006, 120 Stat. 2028.)
 
 #### <b>Editorial Notes</b>
 

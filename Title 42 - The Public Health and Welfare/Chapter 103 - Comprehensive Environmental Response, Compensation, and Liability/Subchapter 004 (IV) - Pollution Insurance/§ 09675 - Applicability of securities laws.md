@@ -10,13 +10,15 @@ The ownership interests of members of a risk retention group shall be considered
 
 #### (b) Investment Company Act
 
-A risk retention group shall not be considered to be an investment company for purposes of theInvestment Company Act of 1940 (15 U.S.C. 80a–1 et seq.).
+A risk retention group shall not be considered to be an investment company for purposes of the Investment Company Act of 1940 (15 U.S.C. 80a–1 et seq.).
 
 #### (c) Blue sky law
 
 The ownership interests of members in a risk retention group shall not be considered securities for purposes of any State blue sky law.
 
 (Pub. L. 96–510, title IV, §405, as added Pub. L. 99–499, title II, §210(a), formerly §210, Oct. 17, 1986, 100 Stat. 1719; renumbered §210(a), Pub. L. 99–563, §11(c)(1), Oct. 27, 1986, 100 Stat. 3177.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -6,9 +6,13 @@
 
 (Pub. L. 95–39, title III, §303, June 3, 1977, 91 Stat. 189.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was not enacted as part of the Energy Reorganization Act of 1974 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

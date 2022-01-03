@@ -2,7 +2,7 @@
 
 #### (a) Plan for continued operational program; submittal to Congress
 
-Consistent with and in furtherance of the purposes of the Division of Cultural Research of the Southwest Cultural Resources Center, operated by the National Park Service, the Secretary shall continue such research and data gathering activities as may be appropriate to further the purposes of this subchapter and knowledge of the Chaco culture. The Secretary shall submit in writing within six months of the effective date of this section, to the Committee on Interior and Insular Affairs of the United States House of Representatives and the Committee on Energy and Natural Resources of the UnitedStates Senate, a plan for the continued operational program of the Division. The Secretary is authorized and encouraged to establish a committee composed of professional archeologists and others with related professional expertise including the designee of the Governor of the State of New Mexico to advise the Secretary in matters related to the surveying, excavation, curation, interpretation, protection, and management of the cultural resources of the historical park and archeological protection sites.
+Consistent with and in furtherance of the purposes of the Division of Cultural Research of the Southwest Cultural Resources Center, operated by the National Park Service, the Secretary shall continue such research and data gathering activities as may be appropriate to further the purposes of this subchapter and knowledge of the Chaco culture. The Secretary shall submit in writing within six months of the effective date of this section, to the Committee on Interior and Insular Affairs of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate, a plan for the continued operational program of the Division. The Secretary is authorized and encouraged to establish a committee composed of professional archeologists and others with related professional expertise including the designee of the Governor of the State of New Mexico to advise the Secretary in matters related to the surveying, excavation, curation, interpretation, protection, and management of the cultural resources of the historical park and archeological protection sites.
 
 #### (b) Computer-generated data base; furnishing of information to Federal and private groups
 
@@ -14,9 +14,13 @@ The head of any Federal agency having direct or indirect jurisdiction over a pro
 
 (Pub. L. 96–550, title V, §507, Dec. 19, 1980, 94 Stat. 3230.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The effective date of this section, referred to in subsec. (a), probably means the date of enactment of Pub. L. 96–550, which was approved Dec. 19, 1980.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

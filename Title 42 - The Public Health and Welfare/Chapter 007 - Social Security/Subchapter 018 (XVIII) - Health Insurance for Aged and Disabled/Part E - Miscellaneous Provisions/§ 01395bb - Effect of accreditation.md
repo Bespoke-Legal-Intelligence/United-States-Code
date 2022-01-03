@@ -22,7 +22,7 @@ The Secretary may not disclose any accreditation survey (other than a survey wit
 
 #### (c) Deficiencies
 
-Notwithstanding any other provision of this subchapter, if the Secretary finds that a provider entity has significant deficiencies (as defined in regulations pertaining to health and safety), the entity shall, after the date of notice of such finding to the entity and for such period as may be prescribed in regulations, be deemed not to meet the conditions or requirements the entity has been treated as meeting pursuant to subsection (a)(1).
+Notwithstanding any other provision of this subchapter, if the Secretary finds that a provider entity has significant deficiencies (as defined in regulations pertaining to health and safety), the entity shall, after the date of noticeof such finding to the entity and for such period as may be prescribed in regulations, be deemed not to meet the conditions or requirements the entity has been treated as meeting pursuant to subsection (a)(1).
 
 #### (d) State or local accreditation
 
@@ -38,7 +38,9 @@ With respect to an accreditation body that has received approval from the Secret
 
 &emsp;(3) Performance reviews (as defined in section 488.8(a) of title 42 of the Code of Federal Regulations, or a successor regulation).
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1865, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 326; amended Pub. L. 92–603, title II, §§234(h), 244(b), Oct. 30, 1972, 86 Stat. 1413, 1423; Pub. L. 97–248, title I, §§122(g)(4), 128(d)(3), Sept. 3, 1982, 96 Stat. 362, 367; Pub. L. 98–369, div. B,title III, §§2345(a), 2346(a), July 18, 1984, 98 Stat. 1096; Pub. L. 99–509, title IX, §§9305(c)(3), 9320(h)(3), Oct. 21, 1986, 100 Stat. 1990, 2016; Pub. L. 100–203, title IV, §§4025(b), 4072(d), Dec. 22, 1987, 101 Stat. 1330–117, as amended Pub. L. 100–360, title IV, §411(d)(4)(B)(ii), July 1, 1988, 102 Stat. 774; Pub. L. 100–360, title II, §§204(c)(3), (d)(3), July 1, 1988, 102 Stat. 728, 729; Pub. L. 100–485, title VI, §608(d)(20)(D), Oct. 13, 1988, 102 Stat. 2420; Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §§6003(g)(3)(C)(iv), 6019(a)–(c), 6115(c), Dec. 19, 1989, 103 Stat. 2153, 2165, 2166, 2219; Pub. L. 101–508, title IV, §4163(c)(3), Nov. 5, 1990, 104 Stat. 1388–100; Pub. L. 103–432, title I, §145(c)(4), Oct. 31, 1994, 108 Stat. 4427; Pub. L. 104–134, title I, §101(d) \[title V, §516(b), (c)(2)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–246, 1321–247; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 108–173, title VII, §736(a)(12), Dec. 8, 2003, 117 Stat. 2355; Pub. L. 110–275, title I, §125(a), (b)(1), July 15, 2008, 122 Stat. 2519; Pub. L. 115–123, div. E, title IV, §50403(a)(1), Feb. 9, 2018, 132 Stat. 217; Pub. L. 116–260, div. CC, title IV, §407(a)(2), Dec. 27, 2020, 134 Stat. 3007.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1865, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 326; amended Pub. L. 92–603, title II, §§234(h), 244(b), Oct. 30, 1972, 86 Stat. 1413, 1423; Pub. L. 97–248, title I, §§122(g)(4), 128(d)(3), Sept. 3, 1982, 96 Stat. 362, 367; Pub. L. 98–369, div. B, title III, §§2345(a), 2346(a), July 18, 1984, 98 Stat. 1096; Pub. L. 99–509, title IX, §§9305(c)(3), 9320(h)(3), Oct. 21, 1986, 100 Stat. 1990, 2016; Pub. L. 100–203, title IV, §§4025(b), 4072(d), Dec. 22, 1987, 101 Stat. 1330–117, as amended Pub. L. 100–360, title IV, §411(d)(4)(B)(ii), July 1, 1988, 102 Stat. 774; Pub. L. 100–360, title II, §§204(c)(3), (d)(3), July 1, 1988, 102 Stat. 728, 729; Pub. L. 100–485, title VI, §608(d)(20)(D), Oct. 13, 1988, 102 Stat. 2420; Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §§6003(g)(3)(C)(iv), 6019(a)–(c), 6115(c), Dec. 19, 1989, 103 Stat. 2153, 2165, 2166, 2219; Pub. L. 101–508, title IV, §4163(c)(3), Nov. 5, 1990, 104 Stat. 1388–100; Pub. L. 103–432, title I, §145(c)(4), Oct. 31, 1994, 108 Stat. 4427; Pub. L. 104–134, title I, §101(d) \[title V, §516(b), (c)(2)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–246, 1321–247; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 108–173, title VII, §736(a)(12), Dec. 8, 2003, 117 Stat. 2355; Pub. L. 110–275, title I, §125(a), (b)(1), July 15, 2008, 122 Stat. 2519; Pub. L. 115–123, div. E, title IV, §50403(a)(1), Feb. 9, 2018, 132 Stat. 217; Pub. L. 116–260, div. CC, title IV, §407(a)(2), Dec. 27, 2020, 134 Stat. 3007.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -104,13 +106,15 @@ Pub. L. 99–509, §9320(h)(3), substituted "paragraphs (12) and (13)" for "para
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–369, §2346(a), in provisions following par. (4), substituted "section 1395k(a)(2)(F)(i), 1395x(e), 1395x(f), 1395x(j), 1395x(o), 1395x(p)(4)(A) or (B), paragraphs (11) and (12) of section 1395x(s), section 1395x(aa)(2), 1395x(cc)(2), or 1395x(dd)(2) of this title" for "section 1395x(e), (j), (o), or (dd) of this title", and substituted "entity" for "institution or agency" in two places.
 
-Pub. L. 98–369, §2345(a), struck out "(on a confidential basis)" after "release to the Secretary" in par. (2), andinserted provision that the Secretary may not disclose any accreditation survey made and released to him by the Joint Commission on Accreditation of Hospitals, the American Osteopathic Association, or any other national accreditation body, of an entity accredited by such body, in provisions following par. (4).
+Pub. L. 98–369, §2345(a), struck out "(on a confidential basis)" after "release to the Secretary" in par. (2), and inserted provision that the Secretary may not disclose any accreditation survey made and released to him by the Joint Commission on Accreditation of Hospitals, the American Osteopathic Association, or any other national accreditation body, of an entity accredited by such body, in provisions following par. (4).
 
 <b>1982</b>—Subsec. (a). Pub. L. 97–248, §122(g)(4), substituted "(o), or (dd)" for "or (o)".
 
 Subsec. (b). Pub. L. 97–248, §128(d)(3), substituted "a hospital" for "an institution" and "the hospital" for "such institution".
 
 <b>1972</b>—Pub. L. 92–603 designated existing provisions as subsec. (a), inserted reference to subsec. (b) of this section in opening provisions, redesignated existing provisions as pars. (1) and (3) and added pars. (2) and (4) and in provisions following par. (4) inserted provisions for the imposition of a standard which the Secretary determines is at least equivalent to the standard promulgated by the Secretary as described in par. (4), and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment; Transition Rule
 
@@ -156,7 +160,7 @@ For effective date of amendment by section 4072(d) of Pub. L. 100–203, see sec
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 9305(c)(3) of Pub. L. 99–509 applicable to hospitals as of one year after Oct. 21, 1986, see section 9305(c)(4) of Pub. L. 99–509, set out as a note under section 1395x of this title.
+Amendment by section 9305(c)(3) of Pub. L. 99–509 applicable to hospitals as of one year after Oct. 21, 1986,see section 9305(c)(4) of Pub. L. 99–509, set out as a note under section 1395x of this title.
 
 Amendment by section 9320(h)(3) of Pub. L. 99–509 applicable to services furnished on or after Jan. 1, 1989, with exceptions for hospitals located in rural areas which meet certain requirements related to certified registered nurse anesthetists, see section 9320(i), (k) of Pub. L. 99–509, as amended, set out as notes under section 1395k of this title.
 
@@ -182,5 +186,5 @@ Pub. L. 115–123, div. E, title IV, §50403(a)(2), Feb. 9, 2018, 132 Stat. 218,
 
 #### Authority To Recognize the Joint Commission as a National Accreditation Body
 
-Pub. L. 110–275, title I, §125(c), July 15, 2008, 122 Stat. 2519, provided that: "The Secretary of Health andHuman Services may recognize the Joint Commission as a national accreditation body under section 1865 of the Social Security Act (42 U.S.C. 1395bb), as amended by this section, upon such terms and conditions, and upon submission of such information, as the Secretary may require."
+Pub. L. 110–275, title I, §125(c), July 15, 2008, 122 Stat. 2519, provided that: "The Secretary of Health and Human Services may recognize the Joint Commission as a national accreditation body under section 1865 of the Social Security Act (42 U.S.C. 1395bb), as amended by this section, upon such terms and conditions, and upon submission of such information, as the Secretary may require."
 

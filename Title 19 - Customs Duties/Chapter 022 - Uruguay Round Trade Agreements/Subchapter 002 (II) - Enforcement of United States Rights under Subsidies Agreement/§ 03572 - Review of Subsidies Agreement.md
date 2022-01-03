@@ -86,6 +86,8 @@ The Secretary of Commerce, in consultation with other appropriate departments an
 
 (Pub. L. 103–465, title II, §282, Dec. 8, 1994, 108 Stat. 4927; Pub. L. 104–295, §20(b)(16), Oct. 11, 1996, 110 Stat. 3527.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is comprised of section 282 of Pub. L. 103–465. Subsec. (c)(4) of section 282 of Pub. L. 103–465 amended section 2191 of this title.
@@ -93,6 +95,8 @@ Section is comprised of section 282 of Pub. L. 103–465. Subsec. (c)(4) of sect
 #### Amendments
 
 <b>1996</b>—Subsec. (d). Pub. L. 104–295 realigned margins.
+
+#### <b>Executive Documents</b>
 
 #### Uruguay Round Agreements: Entry Into Force
 

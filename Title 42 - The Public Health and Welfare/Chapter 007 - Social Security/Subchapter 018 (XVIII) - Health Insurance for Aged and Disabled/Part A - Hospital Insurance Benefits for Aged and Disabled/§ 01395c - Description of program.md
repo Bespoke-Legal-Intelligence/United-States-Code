@@ -1,8 +1,10 @@
 ### §1395c. Description of program
 
-The insurance program for which entitlement is established by sections 426 and 426–1 of this title provides basic protection against the costs of hospital, related post-hospital, home health services, and hospice care in accordance with this part for (1) individuals who are age 65 or over and are eligible for retirement benefits under subchapter II of this chapter (or would be eligible for such benefits if certain government employment were covered employment under such subchapter) or under the railroad retirement system, (2) individuals under age 65 who have been entitled for not less than 24 months to benefits under subchapter II of this chapter (or would have been so entitled to such benefits if certain government employment were covered employment under such subchapter) or under the railroad retirement system on the basis of a disability, and (3) certain individuals who do not meet the conditions specified in either clause (1) or (2) but who are medically determined to have end stage renal disease.
+The insurance program for which entitlement is established by sections 426 and 426–1 of this title provides basic protection against the costs of hospital, related post-hospital, home health services, and hospice care in accordance with this part for (1) individuals who are age 65 or over and are eligible for retirement benefits under subchapter II of this chapter (or would be eligible for such benefits if certain governmentemployment were covered employment under such subchapter) or under the railroad retirement system, (2) individuals under age 65 who have been entitled for not less than 24 months to benefits under subchapter II of this chapter (or would have been so entitled to such benefits if certain government employment were covered employment under such subchapter) or under the railroad retirement system on the basis of a disability, and (3) certain individuals who do not meet the conditions specified in either clause (1) or (2) but who are medically determined to have end stage renal disease.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1811, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 291; amended Pub. L. 92–603, title II, §201(a)(2), Oct. 30, 1972, 86 Stat. 1371; Pub. L. 95–292, §4(a), June 13, 1978, 92 Stat. 315; Pub. L. 96–265, title I, §103(a)(2), June 9, 1980, 94 Stat. 444; Pub. L. 96–473, §2(b), Oct. 19, 1980, 94 Stat. 2263; Pub. L. 96–499, title IX, §930(a), Dec. 5, 1980, 94 Stat. 2631; Pub. L. 97–248, title I, §122(a)(1), title II, §278(b)(3), Sept. 3, 1982, 96 Stat. 356, 561; Pub. L. 99–272, title XIII, §13205(b)(2)(C)(i), Apr. 7, 1986, 100 Stat. 317; Pub. L. 100–360, title I, §104(d)(1), July 1, 1988, 102 Stat. 688; Pub. L. 101–234, title I, §101(a), Dec. 13, 1989, 103 Stat. 1979.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -25,6 +27,8 @@ Pub. L. 96–265 substituted "not less than 24 months" for "not less than 24 con
 <b>1978</b>—Pub. L. 95–292 inserted references to section 426–1 of this title and to individuals who do not meet the conditions specified in either clause (1) or (2) but who are medically determined to have end stage renal disease.
 
 <b>1972</b>—Pub. L. 92–603 designated existing provisions as cl. (1) and added cl. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1989 Amendment
 
@@ -138,7 +142,7 @@ Pub. L. 90–248, title I, §142, Jan. 2, 1968, 81 Stat. 855, provided that:
 
 &emsp;"(1) the hospital did not have an agreement in effect under section 1866 of such Act \[42 U.S.C. 1395cc\] but would have been eligible for payment under part A of title XVIII of such Act \[42 U.S.C. 1395c et seq.\] with respect to such services if at the time such services were furnished the hospital had such an agreement in effect;
 
-&emsp;"(2) the hospital (A) meets the requirements of paragraphs (5) and (7) of section 1861(e) of such Act \[42 U.S.C. 1395x(e)(5), (7)\], (B) is not primarily engaged in providing the services described in section 1961(j)(1)(A) of such Act \[42 U.S.C. 1395x(j)(1)(A)\], and (C) is primarily engaged in providing, by or under the supervision of individuals referred to in paragraph (1) of section 1861(r) of such Act \[42 U.S.C. 1395x(r)(1)\], toinpatients (i) diagnostic services and therapeutic services for medical diagnosis, treatment, and care of injured, disabled, or sick persons, or (ii) rehabilitation services for the rehabilitation of injured, disabled, or sick persons;
+&emsp;"(2) the hospital (A) meets the requirements of paragraphs (5) and (7) of section 1861(e) of such Act \[42 U.S.C. 1395x(e)(5), (7)\], (B) is not primarily engaged in providing the services described in section 1961(j)(1)(A) of such Act \[42 U.S.C. 1395x(j)(1)(A)\], and (C) is primarily engaged in providing, by or under the supervision of individuals referred to in paragraph (1) of section 1861(r) of such Act \[42 U.S.C. 1395x(r)(1)\], to inpatients (i) diagnostic services and therapeutic services for medical diagnosis, treatment, and care of injured, disabled, or sick persons, or (ii) rehabilitation services for the rehabilitation of injured, disabled, or sick persons;
 
 &emsp;"(3) the hospital did not meet the requirements that must be met to permit payment to the hospital under part A of title XVIII of such Act \[42 U.S.C. 1395c et seq.\]; and
 
@@ -152,7 +156,7 @@ Pub. L. 90–248, title I, §142, Jan. 2, 1968, 81 Stat. 855, provided that:
 
 &emsp;"(3) for more than—
 
-&emsp;&emsp;"(A) 90 days in any spell of illness, but only if (i) prior to January 1, 1969, the hospital furnishing such services entered into an agreement under section 1866 of the Social Security Act \[42 U.S.C. 1395cc\] and (ii) the hospital's plan for utilization review, as provided for in section 1861(k) of such Act \[42 U.S.C. 1395x(k)\], has, in accordance with section 1814 of such Act \[42 U.S.C. 1395f\], been applied to the services furnished such individual, or
+&emsp;&emsp;"(A) 90 days in any spell of illness, but only if (i) prior to January 1, 1969, the hospital furnishingsuch services entered into an agreement under section 1866 of the Social Security Act \[42 U.S.C. 1395cc\] and (ii) the hospital's plan for utilization review, as provided for in section 1861(k) of such Act \[42 U.S.C. 1395x(k)\], has, in accordance with section 1814 of such Act \[42 U.S.C. 1395f\], been applied to the services furnished such individual, or
 
 &emsp;&emsp;"(B) 20 days in any spell of illness, if the hospital did not meet the conditions of clauses (i) and (ii) of subparagraph (A).
 

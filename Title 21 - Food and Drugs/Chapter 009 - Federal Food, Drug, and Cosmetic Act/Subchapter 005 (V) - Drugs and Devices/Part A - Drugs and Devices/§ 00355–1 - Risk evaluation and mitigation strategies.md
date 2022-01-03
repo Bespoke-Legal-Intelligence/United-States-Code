@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(D) The expected or actual duration of treatment with the drug.
 
-&emsp;&emsp;(E) The seriousness of any known or potential adverse events that may be related to the drug and the background incidence of such events in the population likely to use the drug.
+&emsp;&emsp;(E) The seriousness of any known or potential adverse events that may be related tothe drug and the background incidence of such events in the population likely to use the drug.
 
 &emsp;&emsp;(F) Whether the drug is a new molecular entity.
 
@@ -74,7 +74,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(i) death;
 
-&emsp;&emsp;&emsp;(ii) an adverse drug experience that places the patient at immediate risk of death from the adverse drug experience asit occurred (not including an adverse drug experience that might have caused death had it occurred in a more severe form);
+&emsp;&emsp;&emsp;(ii) an adverse drug experience that places the patient at immediate risk of death from the adverse drug experience as it occurred (not including an adverse drug experience that might have caused death had it occurred in a more severe form);
 
 &emsp;&emsp;&emsp;(iii) inpatient hospitalization or prolongation of existing hospitalization;
 
@@ -254,7 +254,7 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 #### (6) Additional mechanisms to assure access
 
-&emsp;The mechanisms under section 360bbb of this title to provide for expanded access for patients with serious or life-threatening diseases or conditions may be used to provide access for patients with a serious or life-threatening disease or condition, the treatment of which is not an approved use for the drug, to a drug that is subject to elements to assure safe use under this subsection. The Secretary shall promulgate regulations for how a physician may provide the drug under the mechanisms of section 360bbb of this title.
+&emsp;The mechanisms under section 360bbb of this title to provide for expanded access for patients with serious or life-threatening diseases or conditions may be used to provide access for patients with a serious or life-threatening disease or condition, the treatment of which is not an approved use for the drug, to a drugthat is subject to elements to assure safe use under this subsection. The Secretary shall promulgate regulations for how a physician may provide the drug under the mechanisms of section 360bbb of this title.
 
 #### (7) Repealed. Pub. L. 113–5, title III, §302(c)(1), Mar. 13, 2013, 127 Stat. 185
 
@@ -322,7 +322,7 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 #### (iii) REMS modification due to safety labeling changes
 
-&emsp;&emsp;&emsp;Not later than 60 days after the Secretary receives a proposed modification to an approved risk evaluation and mitigation strategy to conform the strategy to approved safety labeling changes, including safety labeling changes initiated by the responsible person in accordance with FDA regulatory requirements, or to a safety labeling change that the Secretary has directed the holder of the application to make pursuant to section 355(o)(4) of this title, the Secretary shall review and act on such proposed modification to the approved strategy.
+&emsp;&emsp;&emsp;Not later than 60 days after the Secretary receives a proposed modification toan approved risk evaluation and mitigation strategy to conform the strategy to approved safety labeling changes, including safety labeling changes initiated by the responsible person in accordance with FDA regulatory requirements, or to a safety labeling change that the Secretary has directed the holder of the application to make pursuant to section 355(o)(4) of this title, the Secretary shall review and act on such proposed modification to the approved strategy.
 
 #### (iv) Guidance
 
@@ -384,7 +384,7 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 #### (F) Recommendation of the Board
 
-&emsp;&emsp;Not later than 5 days after any such meeting, the Drug Safety Oversight Board shall provide a written recommendation on resolving the dispute to the Secretary. Not later than 5 days after the Board provides such written recommendation to the Secretary, the Secretary shall make the recommendation available to the public.
+&emsp;&emsp;Not later than 5 days after any such meeting, the Drug Safety Oversight Board shallprovide a written recommendation on resolving the dispute to the Secretary. Not later than 5 days after the Board provides such written recommendation to the Secretary, the Secretary shall make the recommendation available to the public.
 
 #### (G) Action by the Secretary
 
@@ -524,7 +524,7 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 #### (k) Waiver in public health emergencies
 
-The Secretary may waive any requirement of this section with respect to a qualified countermeasure (as defined in section 247d–6a(a)(2) oftitle 42) to which a requirement under this section has been applied, if the Secretary determines that such waiver is required to mitigate the effects of, or reduce the severity of, the circumstances under which—
+The Secretary may waive any requirement of this section with respect to a qualified countermeasure (as defined in section 247d–6a(a)(2) of title 42) to which a requirement under this section has been applied, if the Secretary determines that such waiver is required to mitigate the effects of, or reduce the severity of, the circumstances under which—
 
 &emsp;(1) a determination described in subparagraph (A), (B), or (C) of section 360bbb–3(b)(1) of this title has been made by the Secretary of Homeland Security, the Secretary of Defense, or the Secretary, respectively; or
 
@@ -536,7 +536,7 @@ The provision of samples of a covered product to an eligible product developer (
 
 #### (m) Separate REMS
 
-When used in this section, the term "different, comparable aspect of the elements to assure safe use" means a risk evaluation and mitigation strategy for a drug that is the subject of an application under section 355(j) of this title that uses different methods or operational means than the strategy required under subsection (a) for the applicable listed drug, or other application under section 355(j) of this title with the same such listed drug, but achieves the same level of safety as such strategy.
+When used in this section, the term "different, comparable aspect of the elements to assure safeuse" means a risk evaluation and mitigation strategy for a drug that is the subject of an application under section 355(j) of this title that uses different methods or operational means than the strategy required under subsection (a) for the applicable listed drug, or other application under section 355(j) of this title with the same such listed drug, but achieves the same level of safety as such strategy.
 
 (June 25, 1938, ch. 675, §505–1, as added Pub. L. 110–85, title IX, §901(b), Sept. 27, 2007, 121 Stat. 926; amended Pub. L. 112–144, title XI, §1132(a), (b), July 9, 2012, 126 Stat. 1119, 1120; Pub. L. 113–5, title III, §302(c), Mar. 13, 2013, 127 Stat. 185; Pub. L. 114–255, div. A, title III, §§3075(c), 3101(a)(2)(C), Dec. 13, 2016, 130 Stat. 1139, 1153; Pub. L. 115–52, title VI, §606, Aug. 18, 2017, 131 Stat. 1049; Pub. L. 115–271, title III, §§3032(a)–(c), 3041(a), Oct. 24, 2018, 132 Stat. 3940–3942; Pub. L. 116–94, div. N, title I, §610(d), (f), Dec. 20, 2019, 133 Stat. 3135, 3136.)
 
@@ -676,7 +676,7 @@ Updates.—The Commissioner of Food and Drugs shall periodically—
 
 "(e)
 
-Statement To Accompany Guidelines and Recommendations.—The Commissioner of Food and Drugs shall ensure that opioid analgesic prescribing guidelines and other recommendations developed under thissection are accompanied by a clear statement that such guidelines or recommendations, as applicable—
+Statement To Accompany Guidelines and Recommendations.—The Commissioner of Food and Drugs shall ensure that opioid analgesic prescribing guidelines and other recommendations developed under this section are accompanied by a clear statement that such guidelines or recommendations, as applicable—
 
 &emsp;"(1) are intended to help inform clinical decisionmaking by prescribers and patients; and
 
@@ -692,7 +692,7 @@ Pub. L. 114–198, title I, §106(b), July 22, 2016, 130 Stat. 703, provided tha
 
 #### Guidance
 
-Pub. L. 112–144, title XI, §1132(c), July 9, 2012, 126 Stat. 1122, provided that: "Not later than 1 year after the date of enactment of this Act \[July 9, 2012\], the Secretary of Health and Human Services shall issue guidance that, for purposes of section 505–1(h)(2)(A) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355–1(h)(2)(A)), describes the types of modifications to approved risk evaluation and mitigation strategies that shall be considered to be minor modifications of such strategies."
+Pub. L. 112–144, title XI, §1132(c), July 9, 2012, 126 Stat. 1122, provided that: "Not later than 1 year afterthe date of enactment of this Act \[July 9, 2012\], the Secretary of Health and Human Services shall issue guidance that, for purposes of section 505–1(h)(2)(A) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355–1(h)(2)(A)), describes the types of modifications to approved risk evaluation and mitigation strategies that shall be considered to be minor modifications of such strategies."
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a semicolon.</i>
 

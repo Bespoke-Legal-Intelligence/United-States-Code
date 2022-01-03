@@ -264,7 +264,7 @@ Annual update.—
 
 &emsp;&emsp;&emsp;"(i)
 
-In general.—Not later than one year after the date on which the goal described in subparagraph (A) is made publicly available, and eachyear thereafter, the Administrator shall aggregate the reported cost savings of each covered agency and optimization improvements achieved to date through the FDCCI and compare the savings to the projected cost savings and optimization improvements developed under subparagraph (A).
+In general.—Not later than one year after the date on which the goal described in subparagraph (A) is made publicly available, and each year thereafter, the Administrator shall aggregate the reported cost savings of each covered agency and optimization improvements achieved to date through the FDCCI and compare the savings to the projected cost savings and optimization improvements developed under subparagraph (A).
 
 &emsp;&emsp;&emsp;"(ii)
 
@@ -356,7 +356,7 @@ Findings.—Congress finds the following:
 
 &emsp;"(5) Electronic Government has its impact through improved Government performance and outcomes within and across agencies.
 
-&emsp;"(6) Electronic Government is a critical element in the management of Government, to be implemented as part of a management framework that also addresses finance, procurement, human capital, andother challenges to improve the performance of Government.
+&emsp;"(6) Electronic Government is a critical element in the management of Government, to be implemented as part of a management framework that also addresses finance, procurement, human capital, and other challenges to improve the performance of Government.
 
 &emsp;"(7) To take full advantage of the improved Government performance that can be achieved through the use of Internet-based technology requires strong leadership, better organization, improved interagency collaboration, and more focused oversight of agency compliance with statutes related to information resource management.
 

@@ -4,7 +4,7 @@
 
 Within 7 days after being notified by the Commission of an affirmative determination under section 1673d(b) of this title, the administering authority shall publish an antidumping duty order which—
 
-&emsp;(1) directs customs officers to assess an antidumping duty equal to the amount by which the normal value of the merchandise exceeds the export price (or the constructed export price) of the merchandise, within 6 months after the date on which the administering authority receives satisfactory information upon which the assessment may be based, but in no event later than—
+&emsp;(1) directs customs officers to assess an antidumping duty equal to the amount by which the normal value of the merchandise exceeds the export price (or the constructed exportprice) of the merchandise, within 6 months after the date on which the administering authority receives satisfactory information upon which the assessment may be based, but in no event later than—
 
 &emsp;&emsp;(A) 12 months after the end of the annual accounting period of the manufacturer or exporter within which the merchandise is entered, or withdrawn from warehouse, for consumption, or
 
@@ -62,7 +62,7 @@ Within 7 days after being notified by the Commission of an affirmative determina
 
 #### (3) Determinations to be basis of antidumping duty
 
-&emsp;The administering authority shall publish notice in the Federal Register of the results of its determination of normal value and export price (or the constructed export price), and that determination shall be the basis for the assessment of antidumping duties on entries of merchandise to which the notice under this subsection applies and also shall be the basis for the deposit of estimated antidumping duties on future entries of merchandise of manufacturers, producers, or exporters described in paragraph (1) to which the order issued under subsection (a) applies.
+&emsp;The administering authority shall publish notice in the Federal Register of the results ofits determination of normal value and export price (or the constructed export price), and that determination shall be the basis for the assessment of antidumping duties on entries of merchandise to which the notice under this subsection applies and also shall be the basis for the deposit of estimated antidumping duties on future entries of merchandise of manufacturers, producers, or exporters described in paragraph (1) to which the order issued under subsection (a) applies.
 
 #### (4) Provision of business proprietary information; written comments
 
@@ -84,6 +84,8 @@ Within 7 days after being notified by the Commission of an affirmative determina
 
 (June 17, 1930, ch. 497, title VII, §736, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 172; amended Pub. L. 99–514, title XVIII, §1886(a)(7), Oct. 22, 1986, 100 Stat. 2922; Pub. L. 100–418, title I, §1325, Aug. 23, 1988, 102 Stat. 1201; Pub. L. 103–465, title II, §§218(b)(2), 219(c)(9), 233(a)(1)(C), (2)(A)(iii), (5)(W)–(Y), Dec. 8, 1994, 108 Stat. 4855, 4857, 4898, 4900.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (a)(1). Pub. L. 103–465, §233(a)(1)(C), (2)(A)(iii), substituted "normal value" for "foreign market value" and "export price (or the constructed export price)" for "United States price".
@@ -103,6 +105,8 @@ Subsec. (d). Pub. L. 103–465, §218(b)(2), added subsec. (d).
 Subsec. (c)(4). Pub. L. 100–418, §1325(b), added par. (4).
 
 <b>1986</b>—Subsec. (c)(1). Pub. L. 99–514 inserted ", and was sold to any person that is not related to such manufacturer, producer, or exporter," before "on or after the date".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

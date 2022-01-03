@@ -6,7 +6,9 @@ The amount of the tax imposed by section 2601 is—
 
 &emsp;(2) the applicable rate (determined under subchapter E).
 
-(Added Pub. L. 94–455, title XX, §2006(a), Oct. 4, 1976, 90 Stat. 1879; amended Pub. L. 95–600, titleVII, §702(h)(2), (n)(4), Nov. 6, 1978, 92 Stat. 2931, 2936; Pub. L. 97–34, title IV, §403(a)(2)(B), Aug. 13, 1981, 95 Stat. 301; Pub. L. 99–514, title XIV, §1431(a), Oct. 22, 1986, 100 Stat. 2718.)
+(Added Pub. L. 94–455, title XX, §2006(a), Oct. 4, 1976, 90 Stat. 1879; amended Pub. L. 95–600, title VII, §702(h)(2), (n)(4), Nov. 6, 1978, 92 Stat. 2931, 2936; Pub. L. 97–34, title IV, §403(a)(2)(B), Aug. 13, 1981, 95 Stat. 301; Pub. L. 99–514, title XIV, §1431(a), Oct. 22, 1986, 100 Stat. 2718.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -19,6 +21,8 @@ The amount of the tax imposed by section 2601 is—
 Subsec. (d)(1)(A). Pub. L. 95–600, §702(n)(4)(A), inserted "(or at the same time as the death of a beneficiary of the trust assigned to a higher generation than such deemed transferor)" after "such deemed transferor".
 
 Subsec. (d)(2)(A). Pub. L. 95–600, §702(n)(4)(B), inserted "(or beneficiary)" after "the deemed transferor".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

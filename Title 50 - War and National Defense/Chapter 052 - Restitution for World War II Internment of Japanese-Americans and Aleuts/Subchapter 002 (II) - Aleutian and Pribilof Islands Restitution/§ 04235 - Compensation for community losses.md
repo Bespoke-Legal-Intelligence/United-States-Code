@@ -50,7 +50,7 @@ Subject to the availability of funds appropriated to the Fund, the Secretary sha
 
 #### (1) Inventory and assessment of property
 
-&emsp;The Administrator shall make an inventory and assessment of real and personal church property of affected Aleut villages which was damaged or destroyed during World War II. In making such inventory and assessment, the Administrator shall consult with the trustees of the trust established under subsection (b), residents of affected Aleut villages, affected church members and leaders, and the clergy of the churches involved. Within 1 year after August 10, 1988, the Administrator shall submit such inventory and assessment, together with an estimate of the present replacement value of lost or destroyed furnishings and artifacts, to the Secretary.
+&emsp;The Administrator shall make an inventory and assessment of real and personal church property of affected Aleut villages which was damaged or destroyed during World War II. In making such inventory and assessment, the Administrator shall consult with the trusteesof the trust established under subsection (b), residents of affected Aleut villages, affected church members and leaders, and the clergy of the churches involved. Within 1 year after August 10, 1988, the Administrator shall submit such inventory and assessment, together with an estimate of the present replacement value of lost or destroyed furnishings and artifacts, to the Secretary.
 
 #### (2) Review by the Secretary; deposit in the trust
 
@@ -76,6 +76,8 @@ Subject to the availability of funds appropriated to the Fund, the Secretary sha
 
 (Pub. L. 100–383, title II, §205, Aug. 10, 1988, 102 Stat. 912; Pub. L. 103–402, §1(a), Oct. 22, 1994, 108 Stat. 4174.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 1989c–4 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
@@ -83,6 +85,8 @@ Section was formerly classified to section 1989c–4 of the former Appendix to t
 #### Amendments
 
 <b>1994</b>—Subsec. (d)(4). Pub. L. 103–402 substituted "$4,700,000" for "$1,400,000".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Reestablishment of Fund; Use of Funds
 

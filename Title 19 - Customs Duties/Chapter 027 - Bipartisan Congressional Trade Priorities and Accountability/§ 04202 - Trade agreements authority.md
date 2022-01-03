@@ -32,7 +32,7 @@
 
 &emsp;No proclamation may be made under paragraph (1) that—
 
-&emsp;&emsp;(A) reduces any rate of duty (other than a rate of duty that does not exceed 5 percent ad valorem on June 29, 2015) to a rate of duty which is less than 50 percent of the rate of such duty that applies on June 29, 2015;
+&emsp;&emsp;(A) reduces any rate of duty (other than a rate of duty that does not exceed 5 percent ad valorem on June 29, 2015) to a rate of dutywhich is less than 50 percent of the rate of such duty that applies on June 29, 2015;
 
 &emsp;&emsp;(B) reduces the rate of duty below that applicable under the Uruguay Round Agreements or a successor agreement, on any import sensitive agricultural product; or
 
@@ -42,7 +42,7 @@
 
 #### (A) Aggregate reduction
 
-&emsp;&emsp;Except as provided in subparagraph (B), the aggregate reduction in the rate of dutyon any article which is in effect on any day pursuant to a trade agreement entered into under paragraph (1) shall not exceed the aggregate reduction which would have been in effect on such day if—
+&emsp;&emsp;Except as provided in subparagraph (B), the aggregate reduction in the rate of duty on any article which is in effect on any day pursuant to a trade agreement entered into under paragraph (1) shall not exceed the aggregate reduction which would have been in effect on such day if—
 
 &emsp;&emsp;&emsp;(i) a reduction of 3 percent ad valorem or a reduction of 1/10 of the total reduction, whichever is greater, had taken effect on the effective date of the first reduction proclaimed under paragraph (1) to carry out such agreement with respect to such article; and
 
@@ -104,13 +104,13 @@
 
 #### (3) Bills qualifying for trade authorities procedures
 
-&emsp;(A) The provisions of section 2191 of this title (in this chapter referred to as "trade authorities procedures") apply to a bill of either House of Congress which contains provisions described in subparagraph (B) to the same extent as such section 2191 applies to implementing bills under that section. A bill to which this paragraph applies shall hereafter in this chapter be referred to as an "implementing bill".
+&emsp;(A) The provisions of section 2191 of this title (in this chapter referred to as "trade authorities procedures") apply to a bill of either House of Congress which contains provisions described in subparagraph (B) to the same extent as such section 2191 applies to implementing bills under that section. A bill to which this paragraph applies shall hereafter inthis chapter be referred to as an "implementing bill".
 
 &emsp;(B) The provisions referred to in subparagraph (A) are—
 
 &emsp;&emsp;(i) a provision approving a trade agreement entered into under this subsection and approving the statement of administrative action, if any, proposed to implement such trade agreement; and
 
-&emsp;&emsp;(ii) if changes in existing laws or new statutory authority are required to implement such trade agreement or agreements, only such provisions as are strictly necessary or appropriate to implement such trade agreement or agreements, either repealing oramending existing laws or providing new statutory authority.
+&emsp;&emsp;(ii) if changes in existing laws or new statutory authority are required to implement such trade agreement or agreements, only such provisions as are strictly necessary or appropriate to implement such trade agreement or agreements, either repealing or amending existing laws or providing new statutory authority.
 
 #### (c) Extension disapproval process for congressional trade authorities procedures
 
@@ -176,15 +176,19 @@
 
 #### (d) Commencement of negotiations
 
-In order to contribute to the continued economic expansion of the United States, the President shall commence negotiations covering tariff and nontariff barriers affecting any industry, product, or service sector, and expand existing sectoral agreements to countries that are not parties to those agreements, in cases where the President determines that such negotiations are feasible and timely and would benefit the United States. Such sectors include agriculture, commercial services, intellectual property rights, industrial and capital goods, government procurement, information technology products, environmental technology and services, medicalequipment and services, civil aircraft, and infrastructure products. In so doing, the President shall take into account all of the negotiating objectives set forth in section 4201 of this title.
+In order to contribute to the continued economic expansion of the United States, the President shall commence negotiations covering tariff and nontariff barriers affecting any industry, product, or service sector, and expand existing sectoral agreements to countries that are not parties to those agreements, in cases where the President determines that such negotiations are feasible and timely and would benefit the United States. Such sectors include agriculture, commercial services, intellectual property rights, industrial and capital goods, government procurement, information technology products, environmental technology and services, medical equipment and services, civil aircraft, and infrastructure products. In so doing, the President shall take into account all of the negotiating objectives set forth in section 4201 of this title.
 
 (Pub. L. 114–26, title I, §103, June 29, 2015, 129 Stat. 333.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 This chapter, referred to in text, was in the original "this title", meaning title I of Pub. L. 114–26, June 29, 2015, 129 Stat. 320, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under section 4201 of this title and Tables.
 
 The Bipartisan Congressional Trade Priorities and Accountability Act of 2015, referred to in subsec. (c)(5)(A), is title I of Pub. L. 114–26, June 29, 2015, 129 Stat. 320, which is classified principally to this chapter. Section 103 of the Act is classified to this section. For complete classification of title I to the Code, see Short Title note set out under section 4201 of this title and Tables.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

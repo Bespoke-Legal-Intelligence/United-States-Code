@@ -10,6 +10,8 @@ Designation of Common Supply or Service Agency.—Any agency of the Department o
 
 (Added Pub. L. 99–433, title III, §301(a)(2), Oct. 1, 1986, 100 Stat. 1019; amended Pub. L. 100–26, §7(i)(1), Apr. 21, 1987, 101 Stat. 282.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Subsection (d) of section 125 of this title, referred to in subsec. (b), was repealed by section 301(b)(1) of Pub. L. 99–433.
@@ -21,6 +23,346 @@ A prior section 191 was renumbered section 202 of this title and subsequently re
 #### Amendments
 
 <b>1987</b>—Subsec. (b). Pub. L. 100–26 substituted "October 1, 1986" for "the date of the enactment of the Goldwater-Nichols Department of Defense Reorganization Act of 1986".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Mission Management Pilot Program
+
+Pub. L. 117–81, div. A, title VIII, §871, Dec. 27, 2021, 135 Stat. 1855, provided that:
+
+"(a)
+
+In General.—Subject to the availability of appropriations, the Secretary of Defense shall establish a pilot program to identify lessons learned and improved mission outcomes achieved by quickly delivering solutions that fulfill critical operational needs arising from cross-service missions undertaken by combatant commands through the use of a coordinated and iterative approach to develop, evaluate, and transition such solutions.
+
+"(b)
+
+Missions Selection.—
+
+&emsp;"(1)
+
+In general.—Except as provided in paragraph (3), the Deputy Secretary of Defense shall select missions with respect to which to carry out the pilot program.
+
+&emsp;"(2)
+
+Selection criteria.—When selecting missions under paragraph (1), the Deputy Secretary of Defense shall—
+
+&emsp;&emsp;"(A) select missions with critical cross-service operational needs; and
+
+&emsp;&emsp;"(B) consider—
+
+&emsp;&emsp;&emsp;"(i) the strategic importance of the critical cross-service operational needs to the operational plans of the relevant combatant commands; and
+
+&emsp;&emsp;&emsp;"(ii) the advice of key stakeholders, including the Joint Staff, regarding mission selection.
+
+&emsp;"(3)
+
+Initial mission.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than four months after the date of the enactment of this section \[Dec. 27, 2021\], the Director of the Strategic Capabilities Office shall select the initial mission under the pilot program that has critical cross-service operational needs and which is of strategic importance to the operational plans of the United States Indo-Pacific Command.
+
+&emsp;&emsp;"(B)
+
+Responsibility.—The mission selected under subparagraph (A) shall be established within the Strategic Capabilities Office of the Department of Defense, in coordination with the Office of the Under Secretary of Defense for Research and Engineering.
+
+&emsp;&emsp;"(C)
+
+Mission selection approval.—The mission selected by the Director of the Strategic Capabilities Office under subparagraph (A) shall be subject to the approval of the Technology Cross-Functional Team of the Strategic Capabilities Office that is chaired by the Under Secretary of Defense for Research and Engineering.
+
+"(c)
+
+Mission Managers.—
+
+&emsp;"(1)
+
+In general.—A mission manager shall carry out the pilot program with respect to each mission.
+
+&emsp;"(2)
+
+Responsibilities.—With respect to each mission, the relevant mission manager shall—
+
+&emsp;&emsp;"(A) identify critical cross-service, cross-program, and cross-domain operational needs by enumerating the options available to the combatant command responsible for carrying out such mission and determining the resiliency of such options to threats from adversaries;
+
+&emsp;&emsp;"(B) in coordination with the military services and appropriate Defense Agencies and Field Activities, develop and deliver solutions, including software and information technology solutions and other functionalities unaligned with any one weapon system of a covered Armed Service, to—
+
+&emsp;&emsp;&emsp;"(i) fulfill critical cross-service, cross-program, and cross-domain operational needs; and
+
+&emsp;&emsp;&emsp;"(ii) address future changes to existing critical cross-service, cross-program, and cross-domain operational needs by providing additional capabilities;
+
+&emsp;&emsp;"(C) work with the combatant command responsible for such mission and the related planning organizers, program managers of a covered Armed Force, and defense research and development activities to carry out iterative testing and support to initial operational fielding of the solutions described in subparagraph (B);
+
+&emsp;&emsp;"(D) conduct research, development, test, evaluation, and transition support activities with respect to the delivery of the solutions described in subparagraph (B);
+
+&emsp;&emsp;"(E) seek to integrate existing, emerging, and new capabilities available to the Department of Defense in the development of the solutions described in subparagraph (B), including by incenting and working with program managers of a covered Armed Force; and
+
+&emsp;&emsp;"(F) provide to the Deputy Secretary of Defense mission management activity updates and reporting on the use of funds under the pilot program with respect to such mission.
+
+&emsp;"(3)
+
+Appointment.—Each mission selected under subsection (b) shall have a mission manager—
+
+&emsp;&emsp;"(A) appointed at the time of mission approval; and
+
+&emsp;&emsp;"(B) who may be from any suitable organization, except that the mission manager with respect the initial mission under (b)(3) shall be the Director of the Strategic Capabilities Office.
+
+&emsp;"(4)
+
+Iterative approach.—The mission manager shall, to the extent practicable, carry out the pilot program with respect to each mission selected under subsection (b) by integrating existing, emerging, and new military capabilities, and managing a portfolio of small, iterative development and support to initial operational fielding efforts.
+
+&emsp;"(5)
+
+Other program management responsibilities.—The activities undertaken by the mission manager with respect to a mission, including mission management, do not supersede or replace the program management responsibilities of any other individual that are related to such missions.
+
+"(d)
+
+Data Collection Requirement.—The Deputy Secretary of Defense shall develop and implement a plan to collect and analyze data on the pilot program for the purposes of—
+
+&emsp;"(1) developing and sharing best practices for applying emerging technology and supporting new operational concepts to improve outcomes on key military missions and operational challenges; and
+
+&emsp;"(2) providing information to the leadership of the Department on the implementation of the pilot program and related policy issues.
+
+"(e)
+
+Assessments.—During the five-year period beginning on the date of the enactment of this Act \[Dec. 27, 2021\], the Deputy Secretary of Defense shall regularly assess—
+
+&emsp;"(1) the authorities required by the mission managers to effectively and efficiently carry out the pilot program with respect to the missions selected under subsection (b); and
+
+&emsp;"(2) whether the mission managers have access to sufficient funding to carry out the research, development, test, evaluation, and support to initial operational fielding activities required to deliver solutions fulfilling the critical cross-service, cross-program, and cross-domain operational needs of the missions.
+
+"(f)
+
+Briefings.—
+
+&emsp;"(1)
+
+Semiannual briefing.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than July 1, 2022, and every six months thereafter until the date that is five years after the date of the enactment of this Act, the mission manager shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on the progress of the pilot program with respect to each mission selected under subsection (b), the anticipated mission outcomes, and the funds used to carry out the pilot program with respect to such mission.
+
+&emsp;&emsp;"(B)
+
+Initial briefing.—The Deputy Secretary of Defense shall include in the first briefing submitted under subparagraph (A) a briefing on the implementation of the pilot program, including—
+
+&emsp;&emsp;&emsp;"(i) the actions taken to implement the pilot program;
+
+&emsp;&emsp;&emsp;"(ii) an assessment of the pilot program;
+
+&emsp;&emsp;&emsp;"(iii) requests for Congress to provide authorities required to successfully carry out the pilot program; and
+
+&emsp;&emsp;&emsp;"(iv) a description of the data plan required under subsection (d).
+
+&emsp;"(2)
+
+Annual briefing.—Not later than one year after the date on which the pilot program is established, and annually thereafter until the date that is five years after the date of the enactment of this Act, the Deputy Secretary of Defense shall submit to the congressional defense committees a briefing on the pilot program, including—
+
+&emsp;&emsp;"(A) the data collected and analysis performed under subsection (d);
+
+&emsp;&emsp;"(B) lessons learned;
+
+&emsp;&emsp;"(C) the priorities for future activities of the pilot program; and
+
+&emsp;&emsp;"(D) such other information as the Deputy Secretary determines appropriate.
+
+&emsp;"(3)
+
+Recommendation.—Not later than two years after the date of the enactment of this Act, the Deputy Secretary of Defense shall submit to Congress a briefing on the recommendations of the Deputy Secretary with respect to the pilot program and shall concurrently submit to Congress—
+
+&emsp;&emsp;"(A) a written assessment of the pilot program;
+
+&emsp;&emsp;"(B) a written recommendation on continuing or expanding the mission integration pilot program;
+
+&emsp;&emsp;"(C) requests for Congress to provide authorities required to successfully carry out the pilot program; and
+
+&emsp;&emsp;"(D) the data collected and analysis performed under subsection (d).
+
+"(g)
+
+Transition.—Beginning in fiscal year 2025, the Deputy Secretary of Defense may transition responsibilities for research, development, test, evaluation, and support to initial operational fielding activities started under the pilot program to other elements of the Department for purposes of delivering solutions fulfilling critical cross-service, cross-program, and cross-domain operational needs.
+
+"(h)
+
+Termination Date.—The pilot program shall terminate on the date that is five years after the date of the enactment of this Act.
+
+"(i)
+
+Rule of Construction.—Nothing in this section shall be construed as providing any authority not otherwise provided by law to procure, or enter agreements to procure, any goods, materials, or services.
+
+"(j)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Covered armed force.—The term 'covered Armed Force' means—
+
+&emsp;&emsp;"(A) the Army;
+
+&emsp;&emsp;"(B) the Navy;
+
+&emsp;&emsp;"(C) the Air Force;
+
+&emsp;&emsp;"(D) the Marine Corps; or
+
+&emsp;&emsp;"(E) the Space Force.
+
+&emsp;"(2)
+
+Cross-functional teams of the strategic capabilities office.—The term 'Cross-Functional Teams of the Strategic Capabilities Office' means the teams established in the Strategic Capabilities Office of the Department of Defense pursuant to section 233(b) of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 133 Stat. 1277; 10 U.S.C. 132 note).
+
+&emsp;"(3)
+
+Cross-service.—The term 'cross-service' means pertaining to multiple covered Armed Forces.
+
+&emsp;"(4)
+
+Cross-domain.—The term 'cross-domain' means pertaining to multiple operational domains of land, maritime, air, space, and cyberspace.
+
+&emsp;"(4)\[(5)\]
+
+Cross-service operational need.—The term 'cross-service operational need' means an operational need arising from a mission undertaken by a combatant command which involves multiple covered Armed Forces.
+
+&emsp;"(5)\[(6)\]
+
+Defense agency; military department.—The terms 'Defense Agency' and 'military department' have the meanings given such terms in section 101(a) of title 10, United States Code.
+
+&emsp;"(6)\[(7)\]
+
+Field activity.—The term 'Field Activity' has the meaning given the term 'Department of Defense Field Activity' in section 101(a) of title 10, United States Code.
+
+&emsp;"(7)\[(8)\]
+
+Mission management.—The term 'mission management' means the integration of materiel, digital, and operational elements to improve defensive and offensive options and outcomes for a specific mission or operational challenge.
+
+&emsp;"(8)\[(9)\]
+
+Pilot program.—The term 'pilot program' means the pilot program established under subsection (a)."
+
+#### Establishment of Mission-Oriented Pilot Programs To Close Significant Capabilities Gaps
+
+Pub. L. 117–81, div. A, title VIII, §872, Dec. 27, 2021, 135 Stat. 1859, provided that:
+
+"(a)
+
+In General.—The Secretary of Defense shall establish, within the Strategic Capabilities Office of the Office of the Secretary of Defense, not fewer than two mission-oriented integration pilot programs with the objective of closing significant capabilities gaps by developing and implementing capabilities and by synchronizing and integrating missions across covered Armed Forces and Defense Agencies.
+
+"(b)
+
+Elements.—The pilot programs established under subsection (a) shall—
+
+&emsp;"(1) seek to address specific outstanding operational challenges of high importance to the operational plans of the United States Indo-Pacific Command and the United States European Command;
+
+&emsp;"(2) be designed to leverage industry cost sharing by using sources such as private equity and venture capital funding to develop technologies and overall capabilities that resolve significant capability gaps for delivery to the Department of Defense, as a product or as a service;
+
+&emsp;"(3) not later than three years after the date on which the pilot program commences, demonstrate the efficacy of the solutions being developed under the pilot program;
+
+&emsp;"(4) deliver an operational capability not later than five years after the pilot program commences;
+
+&emsp;"(5) provide an operationally relevant solution for—
+
+&emsp;&emsp;"(A)(i) maintaining resilient aircraft operations in and around Guam in the face of evolving regional threats, including large salvo supersonic and hypersonic missile threats; or
+
+&emsp;&emsp;"(ii) an operational challenge of similar strategic importance and relevance to the responsibilities and plans of the United States Indo-Pacific Command or the United States European Command; and
+
+&emsp;&emsp;"(B)(i) providing a resilient logistic and resupply capability in the face of evolving regional threats, including operations within an anti-access-area denial environment; or
+
+&emsp;&emsp;"(ii) an operational challenge of similar strategic importance and relevance to the responsibilities and plans of the United States Indo-Pacific Command; and
+
+&emsp;"(6) incorporate—
+
+&emsp;&emsp;"(A) existing and planned Department of Defense systems and capabilities to achieve mission objectives; and
+
+&emsp;&emsp;"(B) to the extent practicable, technologies that have military applications and the potential for nonmilitary applications.
+
+"(c)
+
+Role of Strategic Capabilities Office.—
+
+&emsp;"(1)
+
+In general.—With respect to the pilot programs established under subsection (a), the Director of the Strategic Capabilities Office, in consultation with the Under Secretary of Defense for Research and Engineering, shall—
+
+&emsp;&emsp;"(A) assign mission managers or program managers—
+
+&emsp;&emsp;&emsp;"(i) to coordinate and collaborate with entities awarded contracts or agreements under the pilot program, parties to cost sharing agreements for such awarded contracts or agreements, combatant commands, and military departments to define mission requirements and solutions; and
+
+&emsp;&emsp;&emsp;"(ii) to coordinate and monitor pilot program implementation;
+
+&emsp;&emsp;"(B) provide technical assistance for pilot program activities, including developing and implementing metrics, which shall be used—
+
+&emsp;&emsp;&emsp;"(i) to assess each operational challenge such pilot programs are addressing; and
+
+&emsp;&emsp;&emsp;"(ii) to characterize the resilience of solutions being developed under the pilot programs to known threats and single points of failure;
+
+&emsp;&emsp;"(C) provide operational use case expertise to the entities awarded contracts or agreements under the pilot program and parties to cost sharing agreements for such awarded contracts or agreements;
+
+&emsp;&emsp;"(D) serve as the liaison between the Armed Forces, the combatant commanders, and the participants in the pilot programs; and
+
+&emsp;&emsp;"(E) use flexible acquisition practices and authorities, including—
+
+&emsp;&emsp;&emsp;"(i) the authorities under section\[s\] 2371 and 2371b of title 10, United States Code \[now 10 U.S.C. 4021, 4022\];
+
+&emsp;&emsp;&emsp;"(ii) payments for demonstrated progress;
+
+&emsp;&emsp;&emsp;"(iii) authorities under the Defense Production Act of 1950 (50 U.S.C. 4501 et seq.); and
+
+&emsp;&emsp;&emsp;"(iv) other acquisition practices that support efficient and effective access to emerging technologies and capabilities, including technologies and capabilities from companies funded with private investment.
+
+&emsp;"(2)
+
+Reports to congress.—Not later than 180 days after the date of the enactment of this Act \[Dec. 27, 2021\], and every 180 days thereafter, the Director of the Strategic Capabilities Office shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the pilot programs.
+
+"(d)
+
+Additional Authorities.—The Secretary of Defense shall assess authorities required for such mission managers and program managers to effectively and efficiently fulfill their responsibilities under the pilot programs, including the delegation of personnel hiring and contracting authorities.
+
+"(e)
+
+Data.—The Secretary of Defense shall establish mechanisms to collect and analyze data on the implementation of the pilot programs for the purposes of—
+
+&emsp;"(1) developing and sharing best practices for achieving goals established for the pilot programs; and
+
+&emsp;"(2) providing information to the Secretary and the congressional defense committees on—
+
+&emsp;&emsp;"(A) the implementation of the pilot programs; and
+
+&emsp;&emsp;"(B) related policy issues.
+
+"(f)
+
+Recommendations.—Not later than two years after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees a recommendation with respect to continuing or expanding the pilot program.
+
+"(g)
+
+Transition of Pilot Program Responsibilities.—Beginning in fiscal year 2025, the Secretary may transition the responsibility for the pilot programs to another organization.
+
+"(h)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Covered armed force.—The term 'covered Armed Force' means—
+
+&emsp;&emsp;"(A) the Army;
+
+&emsp;&emsp;"(B) the Navy;
+
+&emsp;&emsp;"(C) the Air Force;
+
+&emsp;&emsp;"(D) the Marine Corps; or
+
+&emsp;&emsp;"(E) the Space Force.
+
+&emsp;"(2)
+
+Defense agency.—The term 'Defense Agency' has the meaning given such term in section 101(a) of title 10, United States Code.
+
+&emsp;"(3)
+
+Mission manager.—The term 'mission manager' means an individual that, with respect to a mission under a pilot program established under subsection (a), shall have the responsibilities described in subparagraphs (B) through (F) of section 871(c)(2) of this Act \[set out in a note above\]."
 
 #### Actions To Increase the Efficiency and Transparency of the Defense Logistics Agency
 

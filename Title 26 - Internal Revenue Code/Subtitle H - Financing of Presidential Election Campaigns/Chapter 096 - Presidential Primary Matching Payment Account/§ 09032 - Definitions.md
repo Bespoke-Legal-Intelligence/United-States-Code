@@ -2,7 +2,7 @@
 
 For purposes of this chapter—
 
-&emsp;(1) The term "authorized committee" means, with respect to the candidates of a political party for President and Vice Presidentof the United States, any political committee which is authorized in writing by such candidates to incur expenses to further the election of such candidates. Such authorization shall be addressed to the chairman of such political committee, and a copy of such authorization shall be filed by such candidates with the Commission. Any withdrawal of any authorization shall also be in writing and shall be addressed and filed in the same manner as the authorization.
+&emsp;(1) The term "authorized committee" means, with respect to the candidates of a political party for President and Vice President of the United States, any political committee which is authorized in writing by such candidates to incur expenses to further the election of such candidates. Such authorization shall be addressed to the chairman of such political committee, and a copy of such authorization shall be filed by such candidates with the Commission. Any withdrawal of any authorization shall also be in writing and shall be addressed and filed in the same manner as the authorization.
 
 &emsp;(2) The term "candidate" means an individual who seeks nomination for election to be President of the United States. For purposes of this paragraph, an individual shall be considered to seek nomination for election if he (A) takes the action necessary under the law of a State to qualify himself for nomination for election, (B) receives contributions or incurs qualified campaign expenses, or (C) gives his consent for any other person to receive contributions or to incur qualified campaign expenses on his behalf. The term "candidate" shall not include any individual who is not actively conducting campaigns in more than one State in connection with seeking nomination for election to be President of the United States.
 
@@ -44,6 +44,8 @@ For purposes of this chapter—
 
 (Added Pub. L. 93–443, title IV, §408(c), Oct. 15, 1974, 88 Stat. 1297; amended Pub. L. 94–283, title I, §115(c)(2), title III, §306(b)(1), May 11, 1976, 90 Stat. 495, 500; Pub. L. 110–172, §11(a)(42)(C), Dec. 29, 2007, 121 Stat. 2488.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 306(a)(1) of the Federal Election Campaign Act of 1971, referred to in par. (3), is classified to section 30106(a)(1) of Title 52, Voting and Elections.
@@ -55,6 +57,8 @@ Section 306(a)(1) of the Federal Election Campaign Act of 1971, referred to in p
 <b>1976</b>—Par. (2). Pub. L. 94–283, §306(b)(1), inserted provision that "candidate" shall not include any individual who is not actively conducting campaigns in more than one State in connection with seeking nomination for election to be President of the United States.
 
 Par. (3). Pub. L. 94–283, §115(c)(2), substituted "309(a)(1)" for "310(a)(1)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

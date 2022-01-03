@@ -18,6 +18,8 @@ Operation and Maintenance Funds.—The provision described in this subsection is
 
 (Added Pub. L. 105–85, div. A, title II, §242(a), Nov. 18, 1997, 111 Stat. 1666; amended Pub. L. 116–283, div. A, title IX, §923(e)(21), Jan. 1, 2021, 134 Stat. 3819.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Subsecs. (c), (d). Pub. L. 116–283 inserted "or the Space Force" after "the Air Force".

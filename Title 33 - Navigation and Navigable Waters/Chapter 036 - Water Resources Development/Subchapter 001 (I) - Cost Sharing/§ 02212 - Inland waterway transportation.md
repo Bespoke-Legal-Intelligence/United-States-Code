@@ -38,7 +38,7 @@ Any Federal responsibility—
 
 &emsp;(2) with respect to the portion of the project authorized by section 844 allocated to inland navigation,
 
-> which responsibility is not provided for in subsection (a) of this section shall be paid only from amounts appropriated from the general fund of the Treasury.
+> which responsibility is not provided for in subsection (a) of this section shall be paid onlyfrom amounts appropriated from the general fund of the Treasury.
 
 (Pub. L. 99–662, title I, §102, Nov. 17, 1986, 100 Stat. 4084; Pub. L. 113–121, title II, §2013, June 10, 2014, 128 Stat. 1271.)
 

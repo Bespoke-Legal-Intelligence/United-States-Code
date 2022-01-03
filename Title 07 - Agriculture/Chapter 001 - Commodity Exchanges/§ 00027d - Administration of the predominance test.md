@@ -34,7 +34,7 @@ Before commencing a rulemaking or making a determination pursuant to a rule issu
 
 #### (4) Standard of review
 
-&emsp;The court shall determine to affirm and enforce or set aside a rule or determination of the Commodity Futures Trading Commission under this section, based on the determination of the court as to whether—
+&emsp;The court shall determine to affirm and enforce or set aside a rule or determination ofthe Commodity Futures Trading Commission under this section, based on the determination of the court as to whether—
 
 &emsp;&emsp;(A) the subject product is predominantly a banking product; and
 
@@ -49,6 +49,8 @@ Before commencing a rulemaking or making a determination pursuant to a rule issu
 &emsp;Any aggrieved party may seek judicial review pursuant to section 6(c) of the Commodity Exchange Act \[7 U.S.C. 9\] of a determination or rulemaking by the Commodity Futures Trading Commission under this section.
 
 (Pub. L. 106–554, §1(a)(5) \[title IV, §406\], Dec. 21, 2000, 114 Stat. 2763, 2763A–459.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

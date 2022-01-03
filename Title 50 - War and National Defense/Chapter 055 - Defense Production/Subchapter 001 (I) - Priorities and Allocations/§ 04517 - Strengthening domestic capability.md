@@ -18,9 +18,9 @@ Utilizing the authority of subchapter II of this chapter or any other provision 
 
 &emsp;&emsp;(B) restricting contract solicitations to domestic sources pursuant to—
 
-&emsp;&emsp;&emsp;(i) section 2304(b)(1)(B) or section 2304(c)(3) of title 10;
+&emsp;&emsp;&emsp;(i) section 3203(a)(1)(B) or 3204(a)(3) of title 10;
 
-&emsp;&emsp;&emsp;(ii) section 3303(a)(1)(B) of title 41 or section 3304(a)(3) of title 41; or
+&emsp;&emsp;&emsp;(ii) section 3303(a)(1)(B) or 3304(a)(3) of title 41; or
 
 &emsp;&emsp;&emsp;(iii) other statutory authority;
 
@@ -28,19 +28,27 @@ Utilizing the authority of subchapter II of this chapter or any other provision 
 
 &emsp;&emsp;(D) developing substitutes for a critical component or a critical technology item.
 
-(Sept. 8, 1950, ch. 932, title I, §107, as added Pub. L. 102–558, title I, §111, Oct. 28, 1992, 106 Stat. 4201; amended Pub. L. 111–67, §6, Sept. 30, 2009, 123 Stat. 2009.)
+(Sept. 8, 1950, ch. 932, title I, §107, as added Pub. L. 102–558, title I, §111, Oct. 28, 1992, 106 Stat. 4201; amended Pub. L. 111–67, §6, Sept. 30, 2009, 123 Stat. 2009; Pub. L. 117–81, div. A, title XVII, §1702(k)(4), Dec. 27, 2021, 135 Stat. 2160.)
 
 #### Termination of Section
 
 <i>For termination of section, see section 4564(a) of this title.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 2077 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 
-In subsec. (b)(2)(B)(ii), "section 3303(a)(1)(B) of title 41 or section 3304(a)(3) of title 41" substituted for "section 303(b)(1)(B) or section 303(c)(3) of the Federal Property and Administrative Services Act of 1949" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b)(2)(B)(ii), "section 3303(a)(1)(B) of title 41 or section 3304(a)(3) of title 41" substituted for "section303(b)(1)(B) or section 303(c)(3) of the Federal Property and Administrative Services Act of 1949" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (b)(2)(B)(i), (ii). Pub. L. 117–81, §1702(k)(4), which directed the amendment of section 107(b)(2)(B) of the Defense Production Act by adding cls. (i) and (ii) and striking out former cls. (i) and (ii), was executed by making amendments to this section, section 107(b)(2)(B) of the Defense Production Act of 1950, to reflect the probable intent of Congress. Prior to amendment, cls. (i) and (ii) read as follows:
+
+&emsp;"(i) section 2304(b)(1)(B) or section 2304(c)(3) of title 10;
+
+&emsp;"(ii) section 3303(a)(1)(B) of title 41 or section 3304(a)(3) of title 41; or".
 
 <b>2009</b>—Subsec. (a). Pub. L. 111–67, §6(1), inserted "restore," after "modernize," and "materials," after "items,".
 
@@ -56,9 +64,13 @@ Definition.—Any component identified as critical by a National Security Assess
 
 Subsec. (b)(1). Pub. L. 111–67, §6(2)(C), substituted ", critical technology items, essential materials, and industrial resources" for "or critical technology items".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section deemed to have become effective Mar. 1, 1992, see section 304 of Pub. L. 102–558, set out as an Effective Date of 1992 Amendment note under section 4502 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

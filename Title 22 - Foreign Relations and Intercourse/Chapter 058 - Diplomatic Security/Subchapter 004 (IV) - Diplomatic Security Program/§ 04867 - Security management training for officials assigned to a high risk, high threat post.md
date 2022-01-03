@@ -26,7 +26,7 @@ Officials referred to in subsection (a) are the following:
 
 &emsp;(4) Individuals holding a position in grades GS–14 or GS–15.
 
-&emsp;(5) Personal services contractors and other contractors serving in positions or capacitiessimilar to the officials described in paragraphs (1) through (4).
+&emsp;(5) Personal services contractors and other contractors serving in positions or capacities similar to the officials described in paragraphs (1) through (4).
 
 #### (d) Effective date
 

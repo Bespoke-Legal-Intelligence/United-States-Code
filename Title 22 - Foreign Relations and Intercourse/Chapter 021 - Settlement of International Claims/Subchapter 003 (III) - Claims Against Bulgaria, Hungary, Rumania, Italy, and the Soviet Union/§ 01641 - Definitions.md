@@ -32,5 +32,5 @@ Reorganization Plan Numbered 1 of 1954, referred to in par. (8), is Reorg. Plan 
 
 #### Transfer of Foreign Claims Settlement Commission of the United States as Separate Agency Within Department of Justice
 
-For provisions transferring Foreign Claims Settlement Commission of the United States as a separate agency within the Department of Justice, see section 1622a et seq. of this title.
+For provisions transferring Foreign Claims Settlement Commission of the United States as a separateagency within the Department of Justice, see section 1622a et seq. of this title.
 

@@ -122,7 +122,7 @@ Before providing confirmation of fraud protection data to a permitted entity, th
 
 #### (B) Prices fixed by Commissioner
 
-&emsp;&emsp;The Commissioner shall establish the amount to be paid by the users under this paragraph, including the costs of any services or work performed, such as any appropriate upgrades, maintenance, and associated direct and indirect administrative costs, in support of carrying out the purposes described in this section, by reimbursement or in advance as determined by the Commissioner. The amount of suchprices shall be periodically adjusted by the Commissioner to ensure that amounts collected are sufficient to fully offset the cost of the administration of this section.
+&emsp;&emsp;The Commissioner shall establish the amount to be paid by the users under this paragraph, including the costs of any services or work performed, such as any appropriate upgrades, maintenance, and associated direct and indirect administrative costs, in support of carrying out the purposes described in this section, by reimbursement or in advance as determined by the Commissioner. The amount of such prices shall be periodically adjusted by the Commissioner to ensure that amounts collected are sufficient to fully offset the cost of the administration of this section.
 
 #### (2) Initial development
 
@@ -137,6 +137,8 @@ Before providing confirmation of fraud protection data to a permitted entity, th
 &emsp;The Commissioner shall annually submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on the amount of indirect costs to the Social Security Administration arising as a result of the implementation of this section.
 
 (Pub. L. 115–174, title II, §215, May 24, 2018, 132 Stat. 1323.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

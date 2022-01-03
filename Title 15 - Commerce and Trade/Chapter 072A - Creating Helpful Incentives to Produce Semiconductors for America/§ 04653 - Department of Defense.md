@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Subject to the availability of appropriations for such purposes, the Secretary of Defense, in consultation with the Secretary of Commerce,the Secretary of Energy, the Secretary of Homeland Security, and the Director of National Intelligence, shall establish a public-private partnership through which the Secretary shall work to incentivize the formation of one or more consortia of companies (or other such partnerships of private-sector entities, as appropriate) to ensure the development and production of measurably secure microelectronics, including integrated circuits, logic devices, memory, and the packaging and testing practices that support these microelectronic components by the Department of Defense, the intelligence community, critical infrastructure sectors, and other national security applications. Such incentives may include the use of grants under section 4652 of this title, and providing incentives for the creation, expansion, or modernization of one or more commercially competitive and sustainable microelectronics manufacturing or advanced research and development facilities in the United States.
+&emsp;Subject to the availability of appropriations for such purposes, the Secretary of Defense, in consultation with the Secretary of Commerce, the Secretary of Energy, the Secretary of Homeland Security, and the Director of National Intelligence, shall establish a public-private partnership through which the Secretary shall work to incentivize the formationof one or more consortia of companies (or other such partnerships of private-sector entities, as appropriate) to ensure the development and production of measurably secure microelectronics, including integrated circuits, logic devices, memory, and the packaging and testing practices that support these microelectronic components by the Department of Defense, the intelligence community, critical infrastructure sectors, and other national security applications. Such incentives may include the use of grants under section 4652 of this title, and providing incentives for the creation, expansion, or modernization of one or more commercially competitive and sustainable microelectronics manufacturing or advanced research and development facilities in the United States.
 
 #### (2) Risk mitigation requirements
 
@@ -42,7 +42,7 @@
 
 #### (4) Nontraditional defense contractors and commercial entities
 
-&emsp;Arrangements entered into to carry out paragraph (1) shall be in such form as the Secretary of Defense determines appropriate to encourage industry participation of nontraditional defense contractors or commercial entities and may include a contract, a grant, a cooperative agreement, a commercial agreement, the use of other transaction authority under section 2371 of title 10 or another such arrangement.
+&emsp;Arrangements entered into to carry out paragraph (1) shall be in such form as the Secretary of Defense determines appropriate to encourage industry participation of nontraditional defense contractors or commercial entities and may include a contract, a grant, a cooperative agreement, a commercial agreement, the use of other transaction authority under section 2371 <sup>2</sup> of title 10 or another such arrangement.
 
 #### (5) Implementation
 
@@ -80,7 +80,7 @@
 
 #### (1) In general
 
-&emsp;Subject to the availability of appropriations for such purposes, the Secretary of Defense may establish a national network for microelectronics research and development—
+&emsp;Subject to the availability of appropriations for such purposes, the Secretary of Defense shall establish a national network for microelectronics research and development—
 
 &emsp;&emsp;(A) to enable the laboratory to fabrication transition of microelectronics innovations in the United States; and
 
@@ -96,15 +96,39 @@
 
 &emsp;&emsp;(C) conduct other relevant activities deemed necessary by the Secretary of Defense for accomplishing the purposes of the national network for microelectronics research and development.
 
-(Pub. L. 116–283, div. H, title XCIX, §9903, Jan. 1, 2021, 134 Stat. 4849.)
+#### (3) Selection of entities
+
+#### (A) In general
+
+&emsp;&emsp;In carrying out paragraph (1), the Secretary shall, through a competitive process, select two or more entities to carry out the activities described in paragraph (2) as part of the network established under paragraph (1).
+
+#### (B) Geographic diversity
+
+&emsp;&emsp;The Secretary shall, to the extent practicable, ensure that the entities selected under subparagraph (A) collectively represent the geographic diversity of the United States.
+
+(Pub. L. 116–283, div. H, title XCIX, §9903, Jan. 1, 2021, 134 Stat. 4849; Pub. L. 117–81, div. A, title II, §217, Dec. 27, 2021, 135 Stat. 1596.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
-Section 224 of the National Defense Authorization Act for Fiscal Year 2020, referred to in subsec. (a)(2)(E), is section 224 of Pub. L. 116–92, which is set out as a note under section 2302 of Title 10, Armed Forces.
+Section 224 of the National Defense Authorization Act for Fiscal Year 2020, referred to in subsec. (a)(2)(E), is section 224 of Pub. L. 116–92, which is set out as a note preceding section 4501 of Title 10, Armed Forces.
+
+Section 2371 of title 10, referred to in subsec. (a)(4), was renumbered section 4021 of Title 10, Armed Forces, by Pub. L. 116–283, §1841(b)(1), as amended by Pub. L. 117–81, §1701(u)(2)(B), Dec. 27, 2021, 135 Stat. 2151.
+
+#### Amendments
+
+<b>2021</b>—Subsec. (b)(1). Pub. L. 117–81, §217(1), substituted "shall" for "may" in introductory provisions.
+
+Subsec. (b)(3). Pub. L. 117–81, §217(2), added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Congressional Defense Committees" Defined
 
 For definition of "congressional defense committees", see section 3 of Pub. L. 116–283, listed in a table under section 101 of Title 10, Armed Forces.
 
 <i><sup>1</sup></i><i> So in original.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

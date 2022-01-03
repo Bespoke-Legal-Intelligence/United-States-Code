@@ -4,7 +4,7 @@
 
 (2)(A) In any case in which the Secretary determines, at the conclusion of such veteran's pursuit of a vocational rehabilitation program under this chapter, that such veteran has been rehabilitated to the point of employability, such veteran shall be paid a subsistence allowance, as prescribed in this section for full-time training for the type of program that the veteran was pursuing, for two months while satisfactorily following a program of employment services provided under section 3104(a)(5) of this title.
 
-(B) In any case in which the Secretary determines that a veteran described in subparagraph (A) has been displaced as the result of a naturalor other disaster while being paid a subsistence allowance under that subparagraph, as determined by the Secretary, the Secretary may extend the payment of a subsistence allowance under such subparagraph for up to an additional two months while the veteran is satisfactorily following a program of employment services described in such subparagraph.
+(B) In any case in which the Secretary determines that a veteran described in subparagraph (A) has been displaced as the result of a natural or other disaster while being paid a subsistence allowance under that subparagraph, as determined by the Secretary, the Secretary may extend the payment of a subsistence allowance under such subparagraph for up to an additional two months while the veteran is satisfactorily following a program of employment services described in such subparagraph.
 
 (3) A subsistence allowance may not be paid under this chapter to a veteran for any period during which such veteran is being provided with an initial evaluation under section 3106(a) of this title or during which such veteran is being provided only with counseling or with placement or postplacement services under section 3105(b) of this title.
 
@@ -163,7 +163,7 @@ Section effective Oct. 1, 1980, and during period beginning on Oct. 1, 1980, and
 
 Pub. L. 116–140, §8, Apr. 28, 2020, 134 Stat. 634, provided that: "In the case of any veteran whom the Secretary of Veterans Affairs determines is satisfactorily following a program of employment services provided under section 3104(a)(5) of title 38, United States Code, during the covered period, the Secretary may pay the veteran a subsistence allowance, as prescribed in section 3108 of such title for full-time training for the type of program that the veteran was pursuing, for two additional months."
 
-\[The term "covered period" as used in section 8 of Pub. L. 116–140, set out above, means Mar. 1, 2020, to Dec. 21, 2021, see section 2 of Pub. L. 116–140, set out as a note under section 3031 of this title.\]
+\[The term "covered period" as used in section 8 of Pub. L. 116–140, set out above, means Mar. 1, 2020, to June 1, 2022, see section 2 of Pub. L. 116–140, set out as a note under section 3031 of this title.\]
 
 #### Applicability of Subsection (g)(1) to Apportionments Made Before October 17, 1980
 

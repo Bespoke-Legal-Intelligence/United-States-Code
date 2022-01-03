@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-There are authorized to be appropriated such sums as may be necessary for each of fiscal years 1999 through 2003 to carry out the provisions of this chapter (other than sections 9922 and 9923 of this title).
+There are authorized to be appropriated such sums as may be necessary for each of fiscalyears 1999 through 2003 to carry out the provisions of this chapter (other than sections 9922 and 9923 of this title).
 
 #### (b) Reservations
 
@@ -19,6 +19,8 @@ Of the amounts appropriated under subsection (a) for each fiscal year, the Secre
 &emsp;(3) 9 percent for carrying out section 9921 of this title (relating to discretionary activities) and section 9917(b)(2) of this title.
 
 (Pub. L. 97–35, title VI, §674, as added Pub. L. 105–285, title II, §201, Oct. 27, 1998, 112 Stat. 2730.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

@@ -58,7 +58,7 @@
 
 #### (3) Testing by accredited laboratories
 
-&emsp;When requested by an importer of record of merchandise, the Customs Service shall authorize the release to the importer of a representative sample of the merchandise for testing, at the expense of the importer, by a laboratory accredited under paragraph (1). The testing results from a laboratory accredited under paragraph (1) that are submitted by an importer of record with respect to merchandise in an entry shall, in the absence of testing results obtained from a Customs Service laboratory, be accepted by the Customs Service if the importer of record certifies that the sample tested was taken from the merchandise in the entry. Nothing in this subsection shall be construed to limit in any way or preclude the authority of the Customs Service to test or analyze any sample or merchandise independently.
+&emsp;When requested by an importer of record of merchandise, the Customs Service shall authorize the release to the importer of a representative sample of the merchandise for testing, at the expense of the importer, by a laboratory accredited under paragraph (1). The testing results from a laboratory accredited under paragraph (1) that are submitted by an importer of record with respect to merchandise in an entry shall, in the absence of testing results obtained from a Customs Service laboratory, be accepted by the Customs Service if the importer of record certifies that the sample tested was taken from the merchandise inthe entry. Nothing in this subsection shall be construed to limit in any way or preclude the authority of the Customs Service to test or analyze any sample or merchandise independently.
 
 #### (4) Availability of testing procedure, methodologies, and information
 
@@ -108,7 +108,7 @@ Except in the case of merchandise with respect to which the determination of adm
 
 #### (3) Testing results
 
-&emsp;Upon request by the importer or other party having an interest in detained merchandise, the Customs Service shall provide the partywith copies of the results of any testing conducted by the Customs Service on the merchandise and a description of the testing procedures and methodologies (unless such procedures or methodologies are proprietary to the holder of a copyright or patent or were developed by the Customs Service for enforcement purposes). The results and test description shall be in sufficient detail to permit the duplication and analysis of the testing and the results.
+&emsp;Upon request by the importer or other party having an interest in detained merchandise, the Customs Service shall provide the party with copies of the results of any testing conducted by the Customs Service on the merchandise and a description of the testing procedures and methodologies (unless such procedures or methodologies are proprietary to the holder of a copyright or patent or were developed by the Customs Service for enforcement purposes). The results and test description shall be in sufficient detail to permit the duplication and analysis of the testing and the results.
 
 #### (4) Seizure and forfeiture
 
@@ -123,6 +123,8 @@ Except in the case of merchandise with respect to which the determination of adm
 &emsp;(C) Notwithstanding section 2639 of title 28, once an action respecting a detention is commenced, unless the Customs Service establishes by a preponderance of the evidence that an admissibility decision has not been reached for good cause, the court shall grant the appropriate relief which may include, but is not limited to, an order to cancel the detention and release the merchandise.
 
 (June 17, 1930, ch. 497, title IV, §499, 46 Stat. 728; June 25, 1938, ch. 679, §§15, 16(a), 52 Stat. 1084; Pub. L. 91–271, title III, §301(k), June 2, 1970, 84 Stat. 289; Pub. L. 103–182, title VI, §613(a), Dec. 8, 1993, 107 Stat. 2171.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -148,6 +150,8 @@ All of the foregoing sections of the Revised Statutes were repealed by act Sept.
 
 <b>1938</b>—Act June 25, 1938, amended section generally and among other changes inserted provision relating to invalidity of appraisements made after effective date of Customs Administrative Act of 1938.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1970 Amendment
 
 For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 91–271, set out as a note under section 1500 of this title.
@@ -160,9 +164,13 @@ Amendment by act June 25, 1938, effective on thirtieth day following June 25, 19
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
-Functions of all other officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Existing Laboratories
 
 Pub. L. 103–182, title VI, §613(b), Dec. 8, 1993, 107 Stat. 2174, which related to accreditation of private testing laboratories, was repealed by Pub. L. 116–113, title VI, §601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Functions of all other officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
 

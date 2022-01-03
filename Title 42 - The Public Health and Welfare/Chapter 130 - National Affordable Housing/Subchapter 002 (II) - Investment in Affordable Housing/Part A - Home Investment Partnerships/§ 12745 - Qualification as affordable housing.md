@@ -38,7 +38,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For the purpose of providing affordable housing appropriate for families described insubparagraph (B), the Secretary may, upon the application of the project owner, waive the applicability of subparagraph (A) of paragraph (1) with respect to a dwelling unit if—
+&emsp;&emsp;For the purpose of providing affordable housing appropriate for families described in subparagraph (B), the Secretary may, upon the application of the project owner, waive the applicability of subparagraph (A) of paragraph (1) with respect to a dwelling unit if—
 
 &emsp;&emsp;&emsp;(i) the unit is occupied by such a family, on whose behalf tenant-based assistance is provided under section 1437f of this title;
 
@@ -78,6 +78,8 @@ Housing that is for homeownership shall qualify as affordable housing under this
 
 (Pub. L. 101–625, title II, §215, Nov. 28, 1990, 104 Stat. 4101; Pub. L. 102–550, title II, §§208, 209, Oct. 28, 1992, 106 Stat. 3754; Pub. L. 103–233, title II, §203, Apr. 11, 1994, 108 Stat. 364; Pub. L. 105–276, title V, §599B(b), Oct. 21, 1998, 112 Stat. 2660; Pub. L. 106–569, title IX, §904, Dec. 27, 2000, 114 Stat. 3027.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsec. (a)(1)(E), (3), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079, known as the Cranston-Gonzalez National Affordable Housing Act. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
@@ -109,6 +111,8 @@ Subsec. (b)(4). Pub. L. 102–550, §209, added par. (4) and struck out former p
 &emsp;&emsp;"(i) to provide the owner with a fair return on investment, including any improvements, and
 
 &emsp;&emsp;"(ii) to ensure that the housing will remain affordable to a reasonable range of low income homebuyers; and".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

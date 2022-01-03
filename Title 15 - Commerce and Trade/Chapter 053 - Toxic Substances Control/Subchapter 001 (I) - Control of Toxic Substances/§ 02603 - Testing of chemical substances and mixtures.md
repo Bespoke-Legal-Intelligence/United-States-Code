@@ -30,7 +30,7 @@ Additional testing authority.—In addition to the authority provided under para
 
 &emsp;&emsp;(ii) to implement a requirement imposed in a rule, order, or consent agreement under subsection (e) or (f) of section 2604 of this title or in a rule promulgated under section 2605(a) of this title;
 
-&emsp;&emsp;(iii) at the request of a Federal implementing authority under another Federallaw, to meet the regulatory testing needs of that authority with regard to toxicity and exposure; or
+&emsp;&emsp;(iii) at the request of a Federal implementing authority under another Federal law, to meet the regulatory testing needs of that authority with regard to toxicity and exposure; or
 
 &emsp;&emsp;(iv) pursuant to section 2611(a)(2) of this title; and
 
@@ -70,7 +70,7 @@ Tiered testing.—When requiring the development of new information under this s
 
 &emsp;(i) Each person who manufactures or intends to manufacture such substance or mixture if the Administrator makes a finding described in subsection (a)(1)(A)(i)(II) or (a)(1)(A)(ii)(II) with respect to the manufacture of such substance or mixture.
 
-&emsp;(ii) Each person who processes or intends to process such substance or mixture if the Administrator makes a finding described in subsection (a)(1)(A)(i)(II) or (a)(1)(A)(ii)(II) withrespect to the processing of such substance or mixture.
+&emsp;(ii) Each person who processes or intends to process such substance or mixture if the Administrator makes a finding described in subsection (a)(1)(A)(i)(II) or (a)(1)(A)(ii)(II) with respect to the processing of such substance or mixture.
 
 &emsp;(iii) Each person who manufactures or processes or intends to manufacture or process such substance or mixture if the Administrator makes a finding described in subsection (a)(1)(A)(i)(II) or (a)(1)(A)(ii)(II) with respect to the distribution in commerce, use, or disposal of such substance or mixture.
 
@@ -80,7 +80,7 @@ Tiered testing.—When requiring the development of new information under this s
 
 #### (c) Exemption
 
-(1) Any person required by a rule or order under subsection (a) to conduct tests and submit information on a chemical substance or mixture may apply to the Administrator (in such form and manner as the Administrator shall prescribe) for an exemption from such requirement.
+(1) Any person required by a rule or order under subsection (a) to conduct tests and submit information on a chemical substance or mixture may apply to the Administrator (in such formand manner as the Administrator shall prescribe) for an exemption from such requirement.
 
 (2) If, upon receipt of an application under paragraph (1), the Administrator determines that—
 
@@ -122,7 +122,7 @@ Tiered testing.—When requiring the development of new information under this s
 
 #### (d) Notice
 
-Upon the receipt of any information pursuant to a rule, order, or consent agreement under subsection (a), the Administrator shall publish a notice of the receipt of such information in the Federal Register within 15 days of its receipt. Subject to section 2613 of this title, each such notice shall (1) identify the chemical substance or mixture for which information has been received; (2) list the uses or intended uses of such substance or mixture and the information required by the applicable protocols and methodologies for the development of information; and (3) describe the nature of the information developed. Except as otherwise provided in section 2613 of this title, such information shall be made available by the Administrator for examination by any person.
+Upon the receipt of any information pursuant to a rule, order, or consent agreement under subsection (a), the Administrator shall publish a notice of the receipt of such information in the Federal Register within 15 days of its receipt. Subject to section 2613 of this title, each such notice shall (1) identify the chemical substanceor mixture for which information has been received; (2) list the uses or intended uses of such substance or mixture and the information required by the applicable protocols and methodologies for the development of information; and (3) describe the nature of the information developed. Except as otherwise provided in section 2613 of this title, such information shall be made available by the Administrator for examination by any person.
 
 #### (e) Priority list
 
@@ -146,7 +146,7 @@ Upon the receipt of any information pursuant to a rule, order, or consent agreem
 
 > The recommendations of the committee shall be in the form of a list of chemical substances and mixtures which shall be set forth, either by individual substance or mixture or by groups of substances or mixtures, in the order in which the committee determines the Administrator should take action under subsection (a) with respect to the substances and mixtures. In establishing such list, the committee shall give priority attention to those chemical substances and mixtures which are known to cause or contribute to or which are suspected of causing or contributing to cancer, gene mutations, or birth defects. The committee shall designate chemical substances and mixtures on the list with respect to which the committee determines the Administrator should, within 12 months of the date on which such substances and mixtures are first designated, initiate a proceeding under subsection (a). The total number of chemical substances and mixtures on the list which are designated under the preceding sentence may not, at any time, exceed 50.
 
-(B) As soon as practicable but not later than nine months after January 1, 1977, the committee shall publish in the Federal Register and transmit to the Administrator the list and designations required by subparagraph (A) together with the reasons for the committee's inclusion of each chemical substance or mixture on the list. At least every six months after the date of the transmission to the Administrator of the list pursuant to the preceeding <sup>1</sup> sentence, the committee shall make such revisions in the list as it determines to be necessary and shall transmit them to the Administrator together with the committee's reasons for the revisions. Upon receipt of any such revision, the Administrator shall publish in the Federal Register the list with such revision, the reasons for such revision, and the designations made under subparagraph (A). The Administrator shall provide reasonable opportunity to any interested person to file with the Administrator written comments on the committee's list, any revision of such list by the committee, and designations made by the committee, and shall make such comments availableto the public. Within the 12-month period beginning on the date of the first inclusion on the list of a chemical substance or mixture designated by the committee under subparagraph (A) the Administrator shall with respect to such chemical substance or mixture issue an order, enter into a consent agreement, or initiate a rulemaking proceeding under subsection (a), or, if such an order or consent agreement is not issued or such a proceeding is not initiated within such period, publish in the Federal Register the Administrator's reason for not issuing such an order, entering into such a consent agreement, or initiating such a proceeding.
+(B) As soon as practicable but not later than nine months after January 1, 1977, the committee shall publish in the Federal Register and transmit to the Administrator the list and designations required by subparagraph (A) together with the reasons for the committee's inclusion of each chemical substance or mixture on the list. At least every six months after the date of the transmission to the Administrator of the list pursuant to the preceeding <sup>1</sup> sentence, the committee shall make such revisions in the list as it determines to be necessary and shall transmit them to the Administrator together with the committee's reasons for the revisions. Upon receipt of any such revision, the Administrator shall publish in the Federal Register the list with such revision, the reasons for such revision, and the designations made under subparagraph (A). The Administrator shall provide reasonable opportunity to any interested person to file with the Administrator written comments on the committee's list, any revision of such list by the committee, and designations made by the committee, and shall make such comments available to the public. Within the 12-month period beginning on the date of the first inclusion on the list of a chemical substance or mixture designated by the committee under subparagraph (A) the Administrator shall with respect to such chemical substance or mixture issue an order, enter into a consent agreement, or initiate a rulemaking proceeding under subsection (a), or, if such an order or consent agreement is not issued or such a proceeding is not initiated within such period, publish in the Federal Register the Administrator's reason for not issuing such an order, entering into such a consent agreement, or initiating such a proceeding.
 
 (2)(A) The committee established by paragraph (1)(A) shall consist of ten members as follows:
 
@@ -166,7 +166,7 @@ Upon the receipt of any information pursuant to a rule, order, or consent agreem
 
 &emsp;(viii) One member appointed by the Secretary of Commerce from officers or employees of the Department of Commerce.
 
-&emsp;(ix) One member appointed by the Chairman of the Consumer Product Safety Commission from Commissioners or employees of the Commission.
+&emsp;(ix) One member appointed by the Chairman of the Consumer Product Safety Commissionfrom Commissioners or employees of the Commission.
 
 &emsp;(x) One member appointed by the Commissioner of Food and Drugs from employees of the Food and Drug Administration.
 
@@ -196,7 +196,7 @@ Upon the receipt of—
 
 #### (g) Petition for protocols and methodologies for the development of information
 
-A person intending to manufacture or process a chemical substance for which notice is required under section 2604(a) of this title and who is not required under a rule, order, or consent agreement under subsection (a) to conduct tests and submit information on such substance may petition the Administrator to prescribe protocols and methodologies for the development of information for such substance. The Administrator shall by order either grant or deny anysuch petition within 60 days of its receipt. If the petition is granted, the Administrator shall prescribe such protocols and methodologies for such substance within 75 days of the date the petition is granted. If the petition is denied, the Administrator shall publish, subject to section 2613 of this title, in the Federal Register the reasons for such denial.
+A person intending to manufacture or process a chemical substance for which notice is required under section 2604(a) of this title and who is not required under a rule, order, or consent agreement under subsection (a) to conduct tests and submit information on such substance may petition the Administrator to prescribe protocols and methodologies for the development of information for such substance. The Administrator shall by order either grant or deny any such petition within 60 days of its receipt. If the petition is granted, the Administrator shall prescribe such protocols and methodologies for such substance within 75 days of the date the petition is granted. If the petition is denied, the Administrator shall publish, subject to section 2613 of this title, in the Federal Register the reasons for such denial.
 
 #### (h) Reduction of testing on vertebrates
 
@@ -271,6 +271,8 @@ A person intending to manufacture or process a chemical substance for which noti
 &emsp;&emsp;This paragraph authorizes, but does not require, the Administrator to review the means by which a person conducted testing described in subparagraph (A).
 
 (Pub. L. 94–469, title I, §4, Oct. 11, 1976, 90 Stat. 2006; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 114–182, title I, §§4, 19(d), June 22, 2016, 130 Stat. 449, 505.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -399,6 +401,8 @@ Pub. L. 114–182, §4(8), substituted "Petition for protocols and methodologies
 Pub. L. 114–182, §4(1), substituted "protocols and methodologies" for "standards" in two places.
 
 Subsec. (h). Pub. L. 114–182, §4(9), added subsec. (h).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

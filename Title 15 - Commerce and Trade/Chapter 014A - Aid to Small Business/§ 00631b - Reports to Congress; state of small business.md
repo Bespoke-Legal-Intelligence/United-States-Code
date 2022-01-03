@@ -2,7 +2,7 @@
 
 #### (a) Report on Small Business and Competition
 
-The President shall transmit to the Congress not later than January 20 of each year a Report on Small Business and Competition which shall—
+The President shall transmit to the Congress not later than January 20 of each year a Reporton Small Business and Competition which shall—
 
 &emsp;(1) examine the current role of small business in the economy on an industry-by-industry basis;
 
@@ -40,11 +40,13 @@ The information and data required to be reported pursuant to subsection (a) shal
 
 (Pub. L. 96–302, title III, §303, July 2, 1980, 94 Stat. 848; Pub. L. 100–533, title V, §503, Oct. 25, 1988, 102 Stat. 2697; Pub. L. 100–590, title I, §124, Nov. 3, 1988, 102 Stat. 3000; Pub. L. 101–574, title III, §305, Nov. 15, 1990, 104 Stat. 2829; Pub. L. 105–135, title VI, §604(c), title VII, §705, Dec. 2, 1997, 111 Stat. 2633, 2637; Pub. L. 106–50, title VI, §602, Aug. 17, 1999, 113 Stat. 248.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Internal Revenue Code, referred to in subsec. (a)(4), is classified to Title 26, Internal Revenue Code.
 
-The Employee Retirement Income Security Act, referred to in subsec. (a)(4), is Pub. L. 93–406, Sept. 2, 1974,88 Stat. 829, as amended, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act, referred to in subsec. (a)(4), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 The Securities Act of 1933, referred to in subsec. (a)(4), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
@@ -68,9 +70,11 @@ Subsec. (e)(3). Pub. L. 106–50, §602(3), added par. (3) relating to small bus
 
 Subsec. (e)(3). Pub. L. 105–135, §604(c), added par. (3).
 
-<b>1990</b>—Subsec. (a)(2). Pub. L. 101–574 added par. (2) and struck out former par. (2) which read as follows: "present current and historical data on production, employment, investment, and other economic variables for small business in the economy as a whole and for small business in each sector of the economy;".
+<b>1990</b>—Subsec. (a)(2). Pub. L. 101–574 added par. (2) and struck out former par. (2) which read as follows:"present current and historical data on production, employment, investment, and other economic variables for small business in the economy as a whole and for small business in each sector of the economy;".
 
 <b>1988</b>—Subsec. (e). Pub. L. 100–533 and Pub. L. 100–590 added subsecs. (e) which were identical, except that the subsec. (e) added by Pub. L. 100–533, which is set out as text of this section, contained the phrase ", by gender," in par. (1).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

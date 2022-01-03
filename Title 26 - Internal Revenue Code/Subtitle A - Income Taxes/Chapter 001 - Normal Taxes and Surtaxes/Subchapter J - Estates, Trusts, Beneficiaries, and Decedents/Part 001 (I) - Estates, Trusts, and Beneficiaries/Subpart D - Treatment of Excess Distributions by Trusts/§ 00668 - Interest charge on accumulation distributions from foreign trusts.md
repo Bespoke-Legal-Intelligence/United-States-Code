@@ -60,6 +60,8 @@ The interest charge determined under this section shall not be allowed as a dedu
 
 (Added Pub. L. 94–455, title X, §1014(b), Oct. 4, 1976, 90 Stat. 1617; amended Pub. L. 101–508, title XI, §11802(f)(3), Nov. 5, 1990, 104 Stat. 1388–530; Pub. L. 104–188, title I, §1906(a), Aug. 20, 1996, 110 Stat. 1914.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 668, acts Aug. 16, 1954, ch. 736, 68A Stat. 225; Oct. 16, 1962, Pub. L. 87–834, §7(d), 76 Stat. 986; Dec. 30, 1969, Pub. L. 91–172, title III, §331(a), 83 Stat. 594, related to treatment of amounts deemed distributed in preceding years, prior to repeal by Pub. L. 94–455, title VII, §701(a)(3), Oct. 4, 1976, 90 Stat. 1577. See section 667 of this title.
@@ -74,6 +76,8 @@ A prior section 668, acts Aug. 16, 1954, ch. 736, 68A Stat. 225; Oct. 16, 1962, 
 
 <b>1990</b>—Subsec. (c). Pub. L. 101–508 substituted heading for one which read "Special rules" and amended text generally, restating provisions of former par. (1) as entire subsection and striking out former par. (2) which provided that for purposes of this section, undistributed net income existing in a trust as of January 1, 1977, would be treated as allocated under section 666(a) to the first taxable year beginning after December 31, 1976.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1996 Amendment
 
 Pub. L. 104–188, title I, §1906(d)(1), Aug. 20, 1996, 110 Stat. 1916, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to distributions after the date of the enactment of this Act \[Aug. 20, 1996\]."
@@ -84,5 +88,5 @@ Pub. L. 94–455, title X, §1014(d), Oct. 4, 1976, 90 Stat. 1617, provided that
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certaintransactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 

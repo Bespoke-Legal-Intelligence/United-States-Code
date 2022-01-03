@@ -126,7 +126,7 @@ Section 1. <i>Policy</i>. Human trafficking is a form of modern slavery. Through
 
 Twenty-first century technology and the proliferation of the internet and mobile devices have helped facilitate the crime of child sex trafficking and other forms of child exploitation. Consequently, the number of reports to the National Center for Missing and Exploited Children of online photos and videos of children being sexually abused is at record levels.
 
-The Federal Government is committed to preventing human trafficking and the online sexual exploitation of children. Effectively combating these crimes requires a comprehensive and coordinated response to prosecute human traffickers and individuals who sexually exploit children online, to protect and support victims of human trafficking and child exploitation, and to provide prevention education to raise awareness and helplower the incidence of human trafficking and child exploitation into, from, and within the United States.
+The Federal Government is committed to preventing human trafficking and the online sexual exploitation of children. Effectively combating these crimes requires a comprehensive and coordinated response to prosecute human traffickers and individuals who sexually exploit children online, to protect and support victims of human trafficking and child exploitation, and to provide prevention education to raise awareness and help lower the incidence of human trafficking and child exploitation into, from, and within the United States.
 
 To this end, it shall be the policy of the executive branch to prioritize its resources to vigorously prosecute offenders, to assist victims, and to provide prevention education to combat human trafficking and online sexual exploitation of children.
 

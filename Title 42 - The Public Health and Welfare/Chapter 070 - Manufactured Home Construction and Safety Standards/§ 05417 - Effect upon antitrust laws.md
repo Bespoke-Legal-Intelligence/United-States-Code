@@ -1,8 +1,10 @@
 ### §5417. Effect upon antitrust laws
 
-Nothing contained in this chapter shall be deemed to exempt from the antitrust laws of the United States any conduct that would otherwise be unlawful under such laws, or to prohibit under the antitrust laws of the United States any conduct that would be lawful under suchlaws. As used in this section, the term "antitrust laws" includes, but is not limited to, the Act of July 2, 1890, as amended; the Act of October 14, 1914, as amended; the Federal Trade Commission Act (15 U.S.C. 41 et seq.); and sections 73 and 74 of the Act of August 27, 1894, as amended.
+Nothing contained in this chapter shall be deemed to exempt from the antitrust laws of the United States any conduct that would otherwise be unlawful under such laws, or to prohibit under the antitrust laws of the United States any conduct that would be lawful under such laws. As used in this section, the term "antitrust laws" includes, but is not limited to, the Act of July 2, 1890, as amended; the Act of October 14, 1914, as amended; the Federal Trade Commission Act (15 U.S.C. 41 et seq.); and sections 73 and 74 of the Act of August 27, 1894, as amended.
 
 (Pub. L. 93–383, title VI, §618, Aug. 22, 1974, 88 Stat. 711.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -13,6 +15,8 @@ Act of October 14, 1914, as amended, referred to in text, is act Oct. 15, 1914, 
 The Federal Trade Commission Act, referred to in text, is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of Title 15. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
 
 Sections 73 and 74 of the Act of August 27, 1894, referred to in text, are classified to sections 8 and 9 of Title 15.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

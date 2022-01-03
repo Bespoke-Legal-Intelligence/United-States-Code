@@ -4,7 +4,7 @@
 
 #### (1) Consultation
 
-&emsp;To ensure the efficient and industry-wide implementation of the assistance capability requirements under section 1002 of this title, the Attorney General, in coordination with other Federal, State, and local law enforcement agencies, shall consult with appropriate associations and standard-setting organizations of the telecommunications industry, with representatives of users of telecommunications equipment, facilities, and services, and with State utility commissions.
+&emsp;To ensure the efficient and industry-wide implementation of the assistance capability requirements under section 1002 of this title, the Attorney General, in coordination withother Federal, State, and local law enforcement agencies, shall consult with appropriate associations and standard-setting organizations of the telecommunications industry, with representatives of users of telecommunications equipment, facilities, and services, and with State utility commissions.
 
 #### (2) Compliance under accepted standards
 

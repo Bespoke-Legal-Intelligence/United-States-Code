@@ -96,7 +96,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) Activities to foster economic stability by helping fathers improve their economic status by providing activities such as work first services, job search, job training, subsidized employment, job retention, job enhancement, and encouraging education, including career-advancing education, dissemination of employment materials, coordination with existing employment services such as welfare-to-work programs, referrals to local employment training initiatives, and other methods.
 
-&emsp;&emsp;&emsp;&emsp;(IV) Activities to promote responsible fatherhood that are conducted through a contract with a nationally recognized, nonprofit fatherhood promotion organization, such as the development, promotion, and distribution of a media campaign to encourage the appropriate involvement of parents in the life of any child and specifically the issue of responsible fatherhood, and the development of a national clearinghouse to assist States and communities in efforts to promote and support marriage and responsible fatherhood.
+&emsp;&emsp;&emsp;&emsp;(IV) Activities to promote responsible fatherhood that are conducted through a contract with a nationally recognized, nonprofit fatherhood promotion organization, such as the development, promotion, and distribution of a media campaign to encourage the appropriate involvement of parents in the life of any child and specifically the issue of responsible fatherhood, and the development ofa national clearinghouse to assist States and communities in efforts to promote and support marriage and responsible fatherhood.
 
 #### (D) Appropriation
 
@@ -174,7 +174,7 @@
 
 #### (ii) National average level of State welfare spending per poor person
 
-&emsp;&emsp;&emsp;The term "national average level of State welfare spending per poor person" means, with respect to a fiscal year, an amount equal to—
+&emsp;&emsp;&emsp;The term "national average level of State welfare spending per poor person"means, with respect to a fiscal year, an amount equal to—
 
 &emsp;&emsp;&emsp;&emsp;(I) the total amount required to be paid to the States under former section 603 of this title (as in effect during fiscal year 1994) for fiscal year 1994; divided by
 
@@ -262,7 +262,7 @@
 
 &emsp;&emsp;&emsp;A State shall be entitled to receive from the Secretary of Labor a grant for each fiscal year specified in subparagraph (H) of this paragraph for which the State is a welfare-to-work State, in an amount that does not exceed the lesser of—
 
-&emsp;&emsp;&emsp;&emsp;(I) 2 times the total of the expenditures by the State (excluding qualified State expenditures (as defined in section609(a)(7)(B)(i) of this title) and any expenditure described in subclause (I), (II), or (IV) of section 609(a)(7)(B)(iv) of this title) during the period permitted under subparagraph (C)(vii) of this paragraph for the expenditure of funds under the grant for activities described in subparagraph (C)(i) of this paragraph; or
+&emsp;&emsp;&emsp;&emsp;(I) 2 times the total of the expenditures by the State (excluding qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title) and any expenditure described in subclause (I), (II), or (IV) of section 609(a)(7)(B)(iv) of this title) during the period permitted under subparagraph (C)(vii) of this paragraph for the expenditure of funds under the grant for activities described in subparagraph (C)(i) of this paragraph; or
 
 &emsp;&emsp;&emsp;&emsp;(II) the allotment of the State under clause (iii) of this subparagraph for the fiscal year.
 
@@ -316,7 +316,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) any amount reserved pursuant to subparagraph (E) for the immediately preceding fiscal year that has not been obligated; and
 
-&emsp;&emsp;&emsp;&emsp;(II) any available amount for the immediately preceding fiscal year that has not been obligated by a State, other thanfunds reserved by the State for distribution under clause (vi)(III) and funds distributed pursuant to clause (vi)(I) in any State in which the service delivery area is the State.
+&emsp;&emsp;&emsp;&emsp;(II) any available amount for the immediately preceding fiscal year that has not been obligated by a State, other than funds reserved by the State for distribution under clause (vi)(III) and funds distributed pursuant to clause (vi)(I) in any State in which the service delivery area is the State.
 
 #### (v) State percentage
 
@@ -432,7 +432,7 @@
 
 #### (i) Allowable activities
 
-&emsp;&emsp;&emsp;An entity to which funds are provided under this paragraph shall use the funds to move individuals into and keep individuals in lasting unsubsidized employment by means of any of the following:
+&emsp;&emsp;&emsp;An entity to which funds are provided under this paragraph shall use the funds tomove individuals into and keep individuals in lasting unsubsidized employment by means of any of the following:
 
 &emsp;&emsp;&emsp;&emsp;(I) The conduct and administration of community service or work experience programs.
 
@@ -532,11 +532,11 @@
 
 #### (ix) Regulations
 
-&emsp;&emsp;&emsp;Within 90 days after August 5, 1997, the Secretary of Labor, after consultation with the Secretary of Health and Human Services and the Secretary of Housing and Urban Development, shall prescribe such regulations as may be necessary to implement this paragraph.
+&emsp;&emsp;&emsp;Within 90 days after August 5, 1997, the Secretary of Labor, after consultation with the Secretary of Health and HumanServices and the Secretary of Housing and Urban Development, shall prescribe such regulations as may be necessary to implement this paragraph.
 
 #### (x) Reporting requirements
 
-&emsp;&emsp;&emsp;The Secretary of Labor, in consultation with the Secretary of Health and Human Services, States, and organizations thatrepresent State or local governments, shall establish requirements for the collection and maintenance of financial and participant information and the reporting of such information by entities carrying out activities under this paragraph.
+&emsp;&emsp;&emsp;The Secretary of Labor, in consultation with the Secretary of Health and Human Services, States, and organizations that represent State or local governments, shall establish requirements for the collection and maintenance of financial and participant information and the reporting of such information by entities carrying out activities under this paragraph.
 
 #### (D) Definitions
 
@@ -554,7 +554,7 @@
 
 #### (iii) Service delivery area
 
-&emsp;&emsp;&emsp;As used in this paragraph, the term "service delivery area" shall have the meaning given such term for purposes of the Job Training Partnership Act or.<sup>6</sup>
+&emsp;&emsp;&emsp;As used in this paragraph, the term "service delivery area" shall have the meaning given such term for purposes of the Job Training Partnership Act or.<sup>5</sup>
 
 #### (E) Funding for Indian tribes
 
@@ -616,7 +616,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) if the employer has terminated the employment of any regular employee or otherwise caused an involuntary reduction in its workforce with the intention of filling the vacancy so created with the participant; or
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) if the employer has caused an involuntary reduction to less than fulltime in hours of any employee in the same or a substantially equivalent job.
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) if the employer has caused an involuntary reduction to less than full time in hours of any employee in the same or a substantially equivalent job.
 
 #### (ii) Health and safety
 
@@ -802,7 +802,123 @@
 
 &emsp;The Secretary shall annually report to the Congress on the status of the Fund.
 
-(Aug. 14, 1935, ch. 531, title IV, §403, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2115; amended Pub. L. 104–327, §1(b), Oct. 19, 1996, 110 Stat. 4002; Pub. L. 105–33, title V, §§5001(a)(1), 5502, 5514(c), Aug. 5, 1997, 111 Stat. 577, 606, 620; Pub. L. 105–78, title VI, §608, Nov. 13, 1997, 111 Stat. 1522; Pub. L. 105–89, title IV, §404(a), (b), Nov. 19, 1997, 111 Stat. 2134; Pub. L. 105–200, title IV, §408, July 16, 1998, 112 Stat. 672; Pub. L. 105–277, div. A, §101(f) \[title I, §102, title VIII, §405(d)(30), (f)(22)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–346, 2681–425, 2681–432; Pub. L. 105–306, §6(a), Oct. 28, 1998, 112 Stat. 2928; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §§801(a), (b)(1), (c), 802, 803, 804(b), 805(a)(2), (b), 806\], Nov. 29, 1999, 113 Stat. 1535, 1501A–280, 1501A–281, 1501A–283 to 1501A–286; Pub. L. 106–246, div. B, title II, §2402, July 13, 2000, 114 Stat. 555; Pub. L. 106–554, §1(a)(1) \[title I, §§103, 107(a)–(b)(4), (c), title V, §513\], Dec. 21, 2000, 114 Stat. 2763, 2763A–11, 2763A–12, 2763A–71; Pub. L. 107–147, title VI, §§616, 617, Mar. 9, 2002, 116 Stat. 62; Pub. L. 108–40, §3(a), (c)–(e), June 30, 2003, 117 Stat. 836, 837; Pub. L. 108–89, title I, §101(b)(1), (2), Oct. 1, 2003, 117 Stat. 1131; Pub. L. 108–210, §2(b), Mar. 31, 2004, 118 Stat. 564; Pub. L. 108–262, §2(b), June 30, 2004, 118 Stat. 696; Pub. L. 108–308, §2(b)(1), (2), Sept. 30, 2004, 118 Stat. 1135; Pub. L. 109–4, §2(b), Mar. 25, 2005, 119 Stat. 17; Pub. L. 109–19, §2(b), July 1, 2005, 119 Stat. 344; Pub. L. 109–68, §2(b)(2)(A), (B), Sept. 21, 2005, 119 Stat. 2003; Pub. L. 109–161, §2(b), Dec. 30, 2005, 119 Stat. 2958; Pub. L. 109–171, title VII, §§7101(b)(1), (2), 7103(a), Feb. 8, 2006, 120 Stat. 135, 138; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(V), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 110–275, title III, §301(b), July 15, 2008, 122 Stat. 2594; Pub. L. 111–5, div. B, title II, §§2101(a), 2102(b), Feb. 17, 2009, 123 Stat. 446, 449; Pub. L. 111–242, §131(b)(1), (2), Sept. 30, 2010, 124 Stat. 2612; Pub. L. 111–291, title VIII, §811(b)–(d), Dec. 8, 2010, 124 Stat. 3159; Pub. L. 112–96, title IV, §4002(a), (b), Feb. 22, 2012, 126 Stat. 194, 195; Pub. L. 112–275, §9(a), Jan. 14, 2013, 126 Stat. 2465; Pub. L. 113–128, title V, §512(dd)(1), July 22, 2014, 128 Stat. 1717; Pub. L. 115–31, div. M, title I, §102(a)(1), (2), (b), (c)(2), May 5, 2017, 131 Stat. 800, 803.)
+#### (c) Pandemic emergency assistance
+
+#### (1) Appropriation
+
+&emsp;In addition to amounts otherwise available, there is appropriated for fiscal year 2021, out of any money in the Treasury of the United States not otherwise appropriated, $1,000,000,000, to remain available until expended, to carry out this subsection.
+
+#### (2) Reservation of funds for technical assistance
+
+&emsp;Of the amount specified in paragraph (1), the Secretary shall reserve $2,000,000 for administrative expenses and the provision of technical assistance to States and Indian tribes with respect to the use of funds provided under this subsection.
+
+#### (3) Allotments
+
+#### (A) 50 states and the District of Columbia
+
+#### (i) Total amount to be allotted
+
+&emsp;&emsp;&emsp;The Secretary shall allot a total of 92.5 percent of the amount specified in paragraph (1) that is not reserved under paragraph (2) among the States that are not a territory and that are operating a program funded under this part, in accordance with clause (ii) of this subparagraph.
+
+#### (ii) Allotment formula
+
+&emsp;&emsp;&emsp;The Secretary shall allot to each such State the sum of the following percentages of the total amount described in clause (i):
+
+&emsp;&emsp;&emsp;&emsp;(I) 50 percent, multiplied by—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the population of children in the State, determined on the basis of the most recent population estimates as determined by the Bureau of the Census; divided by
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the total population of children in the States that are not territories, as so determined; plus
+
+&emsp;&emsp;&emsp;&emsp;(II) 50 percent, multiplied by—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the total amount expended by the State for basic assistance, non-recurrent short term benefits, and emergency assistance in fiscal year 2019, as reported by the State under section 611 of this title; divided by
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the total amount expended by the States that are not territories for basic assistance, non-recurrent short term benefits, and emergency assistance in fiscal year 2019, as so reported by the States.
+
+#### (B) Territories and Indian Tribes
+
+&emsp;&emsp;The Secretary shall allot among the territories and Indian tribes otherwise eligible for a grant under this part such portions of 7.5 percent of the amount specified in paragraph (1) that are not reserved under paragraph (2) as the Secretary deems appropriate based on the needs of the territory or Indian tribe involved.
+
+#### (C) Expenditure commitment requirement
+
+&emsp;&emsp;To receive the full amount of funding payable under this subsection, a State or Indian tribe shall inform the Secretary as to whether it intends to use all of its allotment under this paragraph and provide that information—
+
+&emsp;&emsp;&emsp;(i) in the case of a State that is not a territory, within 45 days after March 11, 2021; or
+
+&emsp;&emsp;&emsp;(ii) in the case of a territory or an Indian tribe, within 90 days after such date.
+
+#### (4) Grants
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall provide funds to each State and Indian tribe to which an amount is allotted under paragraph (3), from the amount so allotted.
+
+#### (B) Treatment of unused funds
+
+#### (i) Reallotment
+
+&emsp;&emsp;&emsp;The Secretary shall reallot in accordance with paragraph (3) all funds provided to any State or Indian tribe under this subsection that are unused, among the other States and Indian tribes eligible for funds under this subsection. For purposes of paragraph (3), the Secretary shall treat the funds as if included in the amount specified in paragraph (1).
+
+#### (ii) Provision
+
+&emsp;&emsp;&emsp;The Secretary shall provide funds to each such other State or Indian tribe in an amount equal to the amount so reallotted.
+
+#### (5) Recipient of funds provided for territories
+
+&emsp;In the case of a territory not operating a program funded under this part, the Secretaryshall provide the funds required to be provided to the territory under this subsection, to the agency that administers the bulk of local human services programs in the territory.
+
+#### (6) Use of funds
+
+#### (A) In general
+
+&emsp;&emsp;A State or Indian tribe to which funds are provided under this subsection may use the funds only for non-recurrent short term benefits, whether in the form of cash or in other forms.
+
+#### (B) Limitation on use for administrative expenses
+
+&emsp;&emsp;A State to which funds are provided under this subsection shall not expend more than 15 percent of the funds for administrative purposes.
+
+#### (C) Nonsupplantation
+
+&emsp;&emsp;Funds provided under this subsection shall be used to supplement and not supplant other Federal, State, or tribal funds for services and activities that promote the purposes of this part.
+
+#### (D) Expenditure deadline
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Except as provided in clause (ii), a State or Indian tribe to which funds are provided under this subsection shall expend the funds not later than the end of fiscal year 2022.
+
+#### (ii) Exception for reallotted funds
+
+&emsp;&emsp;&emsp;A State or Indian tribe to which funds are provided under paragraph (4)(B) shall expend the funds within 12 months after receipt.
+
+#### (7) Suspension of territory spending cap
+
+&emsp;Section 1308 of this title shall not apply with respect to any funds provided under this subsection.
+
+#### (8) Definitions
+
+&emsp;In this subsection:
+
+#### (A) Applicable period
+
+&emsp;&emsp;The term "applicable period" means the period that begins with April 1, 2021, and ends with September 30, 2022.
+
+#### (B) Non-recurrent short term benefits
+
+&emsp;&emsp;The term "non-recurrent short term benefits" has the meaning given the term in OMB approved Form ACF–196R, published on July 31, 2014.
+
+#### (C) State
+
+&emsp;&emsp;The term "State" means the 50 States of the United States, the District of Columbia, and the territories.
+
+#### (D) Territory
+
+&emsp;&emsp;The term "territory" means the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+
+(Aug. 14, 1935, ch. 531, title IV, §403, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2115; amended Pub. L. 104–327, §1(b), Oct. 19, 1996, 110 Stat. 4002; Pub. L. 105–33, title V, §§5001(a)(1), 5502, 5514(c), Aug. 5, 1997, 111 Stat. 577, 606, 620; Pub. L. 105–78, title VI, §608, Nov. 13, 1997, 111 Stat. 1522; Pub. L. 105–89, title IV, §404(a), (b), Nov. 19, 1997, 111 Stat. 2134; Pub. L. 105–200, title IV, §408, July 16, 1998, 112 Stat. 672; Pub. L. 105–277, div. A, §101(f) \[title I, §102, title VIII, §405(d)(30), (f)(22)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–346, 2681–425, 2681–432; Pub. L. 105–306, §6(a), Oct. 28, 1998, 112 Stat. 2928; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §§801(a), (b)(1), (c), 802, 803, 804(b), 805(a)(2), (b), 806\], Nov. 29, 1999, 113 Stat. 1535, 1501A–280, 1501A–281, 1501A–283 to 1501A–286; Pub. L. 106–246, div. B, title II, §2402, July 13, 2000, 114 Stat. 555; Pub. L. 106–554, §1(a)(1) \[title I, §§103, 107(a)–(b)(4), (c), title V, §513\], Dec. 21, 2000, 114 Stat. 2763, 2763A–11, 2763A–12, 2763A–71; Pub. L. 107–147, title VI, §§616, 617, Mar. 9, 2002, 116 Stat. 62; Pub. L. 108–40, §3(a), (c)–(e), June 30, 2003, 117 Stat. 836, 837; Pub. L. 108–89, title I, §101(b)(1), (2), Oct. 1, 2003, 117 Stat. 1131; Pub. L. 108–210, §2(b), Mar. 31, 2004, 118 Stat. 564; Pub. L. 108–262, §2(b), June 30, 2004, 118 Stat. 696; Pub. L. 108–308, §2(b)(1), (2), Sept. 30, 2004, 118 Stat. 1135; Pub. L. 109–4, §2(b), Mar. 25, 2005, 119 Stat. 17; Pub. L. 109–19, §2(b), July 1, 2005, 119 Stat. 344; Pub. L. 109–68, §2(b)(2)(A), (B), Sept. 21, 2005, 119 Stat. 2003; Pub. L. 109–161, §2(b), Dec. 30, 2005, 119 Stat. 2958; Pub. L. 109–171, title VII, §§7101(b)(1), (2), 7103(a), Feb. 8, 2006, 120 Stat. 135, 138; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(V), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 110–275, title III, §301(b), July 15, 2008, 122 Stat. 2594; Pub. L. 111–5, div. B, title II, §§2101(a), 2102(b), Feb. 17, 2009, 123 Stat. 446, 449; Pub. L. 111–242, §131(b)(1), (2), Sept. 30, 2010, 124 Stat. 2612; Pub. L. 111–291, title VIII, §811(b)–(d), Dec. 8, 2010, 124 Stat. 3159; Pub. L. 112–96, title IV, §4002(a), (b), Feb. 22, 2012, 126 Stat. 194, 195; Pub. L. 112–275, §9(a), Jan. 14, 2013, 126 Stat. 2465; Pub. L. 113–128, title V, §512(dd)(1), July 22, 2014, 128 Stat. 1717; Pub. L. 115–31, div. M, title I, §102(a)(1), (2), (b), (c)(2), May 5, 2017, 131 Stat. 800, 803; Pub. L. 117–2, title IX, §9201, Mar. 11, 2021, 135 Stat. 124.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -812,7 +928,7 @@ Section 103 of the Personal Responsibility and Work Opportunity Reconciliation A
 
 The Food and Nutrition Act of 2008, referred to in subsec. (a)(5)(C)(iii)(II)(dd), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
-The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(5)(D)(ii), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(5)(D)(ii), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§3111 et seq.) of chapter 32 ofTitle 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
 The Job Training Partnership Act, referred to in subsec. (a)(5)(D)(iii), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, which was classified generally to chapter 19 (§1501 et seq.) of Title 29, Labor, and was repealed by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to former section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, were deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and, effective July 1, 2000, were deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. The Workforce Investment Act of 1998 was repealed by Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. For complete classification of the Job Training Partnership Act and the Workforce Investment Act of 1998 to the Code, see Tables.
 
@@ -824,9 +940,11 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Prior Provisions
 
-A prior section 603, acts Aug. 14, 1935, ch. 531, title IV, §403, 49 Stat. 628; Aug. 10, 1939, ch. 666, title IV, §402, 53 Stat. 1380; Aug. 10, 1946, ch. 951, title V, §502, 60 Stat.992; June 14, 1948, ch. 468, §3(b), 62 Stat. 439; Aug. 28, 1950, ch. 809, title III, pt. 2, §322(a), pt. 6, §361(c), (d), 64 Stat. 550, 558; July 18, 1952, ch. 945, §8(b), 66 Stat. 778; Sept. 1, 1954, ch. 1206, title III, §303(a), 68 Stat. 1097; Aug. 1, 1956, ch. 836, title III, §§302, 312(c), 342, 351(a), 70 Stat. 847, 849, 852, 854; Aug. 28, 1958, Pub. L. 85–840, title V, §502, 72 Stat. 1048; July 25, 1962, Pub. L. 87–543, title I, §§101(a)(2), (b)(2)(A)–(C), 104(a)(3)(C), 108(b), (c), 76 Stat. 174, 180, 185, 190; July 30, 1965, Pub. L. 89–97, title I, §122, title IV, §401(c), 79 Stat. 353, 415; Jan. 2, 1968, Pub. L. 90–248, title II, §§201(c)–(e)(3), 205(b), 206(a), 207(b), 208, 241(b)(2), (3), 81 Stat. 879, 880, 892–894, 916; June 28, 1968, Pub. L. 90–364, title III, §301, 82 Stat. 273; July 9, 1969, Pub. L. 91–41, §3, 83 Stat. 45; Dec. 28, 1971, Pub. L. 92–223, §3(a)(8), (9), 85 Stat. 805; Oct. 20, 1972, Pub. L. 92–512, title III, §301(b)–(d), 86 Stat. 946, 947; Oct. 30, 1972, Pub. L. 92–603, title II, §§299E(d), 299F, 86 Stat. 1462, 1463; Jan. 4, 1975, Pub. L. 93–647, §§3(a)(3), (4), (e)(2), 5(b), 101(c)(6)(A), 88 Stat. 2348–2350, 2360; Aug. 9, 1975, Pub. L. 94–88, title II, §204, 89 Stat. 435; Nov. 12, 1977, Pub. L. 95–171, §3(a)(1), 91 Stat. 1354; Dec. 20, 1977, Pub. L. 95–216, title IV, §§401, 402(a), 91 Stat. 1559, 1560; June 9, 1980, Pub. L. 96–265, title IV, §§401(g), (h), 406(a), 407(c), 94 Stat. 462, 465, 467; Aug. 13, 1981, Pub. L. 97–35, title XXI, §§2181(a)(1), 2184(b)(1), title XXIII, §§2307(b), 2315(b), 2317(a), 2319(a)–(c), 2353(b)(1), (d), 95 Stat. 815, 817, 848, 855–857, 872; Sept. 3, 1982, Pub. L. 97–248, title I, §§154(b), 156(a)–(c), 157(a), 96 Stat. 397–399; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(c)(2), (j)(2)(B)(i), (3)(B)(i), 98 Stat. 1166, 1170, 1171; Aug. 16, 1984, Pub. L. 98–378, §9(b), 98 Stat. 1316; Nov. 6, 1986, Pub. L. 99–603, title I, §121(b)(1), 100 Stat. 3390; Dec. 22, 1987, Pub. L. 100–203, title IX, §9102(c), 101 Stat. 1330–300; Oct. 13, 1988, Pub. L. 100–485, title II, §§201(c), (d), 202(b)(4)–(6), 204(b)(2), title III, §§302(b)(2), 304(b)(2), title VI, §§601(c)(1), 606, 609(a), 102 Stat. 2372, 2377, 2381, 2384, 2393, 2407, 2410, 2424; Dec. 19, 1989, Pub. L. 101–239, title VIII, §8004(b), 103 Stat. 2460; Nov. 5, 1990, Pub. L. 101–508, title V, §5081(b), 104 Stat. 1388–235; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13741(a), 107 Stat. 663; July 27, 1995, Pub. L. 104–19, title I, 109 Stat. 215; Apr. 26, 1996, Pub. L. 104–134, title III, 110 Stat. 1321–355; Aug. 22, 1996, Pub. L. 104–193, title I, §103(c)(2)(B), 110 Stat. 2161; June 12, 1997, Pub. L. 105–18, title II, 111 Stat. 204, related to payments to States with approved plans for aid and services to needy families with children, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620, effective July 1, 1997.
+A prior section 603, acts Aug. 14, 1935, ch. 531, title IV, §403, 49 Stat. 628; Aug. 10, 1939, ch. 666, title IV, §402, 53 Stat. 1380; Aug. 10, 1946, ch. 951, title V, §502, 60 Stat. 992; June 14, 1948, ch. 468, §3(b), 62 Stat. 439; Aug. 28, 1950, ch. 809, title III, pt. 2, §322(a), pt. 6, §361(c), (d), 64 Stat. 550, 558; July 18, 1952, ch. 945, §8(b), 66 Stat. 778; Sept. 1, 1954, ch. 1206, title III, §303(a), 68 Stat. 1097; Aug. 1, 1956, ch. 836, title III, §§302, 312(c), 342, 351(a), 70 Stat. 847, 849, 852, 854; Aug. 28, 1958, Pub. L. 85–840, title V, §502, 72 Stat. 1048; July 25, 1962, Pub. L. 87–543, title I, §§101(a)(2), (b)(2)(A)–(C), 104(a)(3)(C), 108(b), (c), 76 Stat. 174, 180, 185, 190; July 30, 1965, Pub. L. 89–97, title I, §122, title IV, §401(c), 79 Stat. 353, 415; Jan. 2, 1968, Pub. L. 90–248, title II, §§201(c)–(e)(3), 205(b), 206(a), 207(b), 208, 241(b)(2), (3), 81 Stat. 879, 880, 892–894, 916; June 28, 1968, Pub. L. 90–364, title III, §301, 82 Stat. 273; July 9, 1969, Pub. L. 91–41, §3, 83 Stat. 45; Dec. 28, 1971, Pub. L. 92–223, §3(a)(8), (9), 85 Stat. 805; Oct. 20, 1972, Pub. L. 92–512, title III, §301(b)–(d), 86 Stat. 946, 947; Oct. 30, 1972, Pub. L. 92–603, title II, §§299E(d), 299F, 86 Stat. 1462, 1463; Jan. 4, 1975, Pub. L. 93–647, §§3(a)(3), (4), (e)(2), 5(b), 101(c)(6)(A), 88 Stat. 2348–2350, 2360; Aug. 9, 1975, Pub. L. 94–88, title II, §204, 89 Stat. 435; Nov. 12, 1977, Pub. L. 95–171, §3(a)(1), 91 Stat. 1354; Dec. 20, 1977, Pub. L. 95–216, title IV, §§401, 402(a), 91 Stat. 1559, 1560; June 9, 1980, Pub. L. 96–265, title IV, §§401(g), (h), 406(a), 407(c), 94 Stat. 462, 465, 467; Aug. 13, 1981, Pub. L. 97–35, title XXI, §§2181(a)(1), 2184(b)(1), title XXIII, §§2307(b), 2315(b), 2317(a), 2319(a)–(c), 2353(b)(1), (d), 95 Stat. 815, 817, 848, 855–857, 872; Sept. 3, 1982, Pub. L. 97–248, title I, §§154(b), 156(a)–(c), 157(a), 96 Stat. 397–399; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(c)(2), (j)(2)(B)(i), (3)(B)(i), 98 Stat. 1166, 1170, 1171; Aug. 16, 1984, Pub. L. 98–378, §9(b), 98 Stat. 1316; Nov. 6, 1986, Pub. L. 99–603, title I, §121(b)(1), 100 Stat. 3390; Dec. 22, 1987, Pub. L. 100–203, title IX, §9102(c), 101 Stat. 1330–300; Oct. 13, 1988, Pub. L. 100–485, title II, §§201(c), (d), 202(b)(4)–(6), 204(b)(2), title III, §§302(b)(2), 304(b)(2), title VI, §§601(c)(1), 606, 609(a), 102 Stat. 2372, 2377, 2381, 2384, 2393, 2407, 2410, 2424; Dec. 19, 1989, Pub. L. 101–239, title VIII, §8004(b), 103 Stat. 2460; Nov. 5, 1990, Pub. L. 101–508, title V, §5081(b), 104 Stat. 1388–235; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13741(a), 107 Stat. 663; July 27, 1995, Pub. L. 104–19, title I, 109 Stat. 215; Apr. 26, 1996, Pub. L. 104–134, title III, 110 Stat. 1321–355; Aug. 22, 1996, Pub. L. 104–193, title I, §103(c)(2)(B), 110 Stat. 2161; June 12, 1997, Pub. L. 105–18, title II, 111 Stat. 204, related to payments to States with approved plans for aid and services to needy families with children, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620, effective July 1, 1997.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (c). Pub. L. 117–2 added subsec. (c).
 
 <b>2017</b>—Subsec. (a)(1)(A). Pub. L. 115–31, §102(a)(1), substituted "each of fiscal years 2017 and 2018" for "fiscal year 2012".
 
@@ -1092,6 +1210,8 @@ Secretary.—The term 'Secretary' means the Secretary of the Treasury."
 
 Subsec. (b)(4)(A)(ii)(I). Pub. L. 104–327, §1(b)(2), inserted "the sum of" before "the expenditures" and ", and any additional qualified State expenditures, as defined in section 609(a)(7)(B)(i) of this title, for child care assistance made under the Child Care and Development Block Grant Act of 1990" before "; exceeds".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2014 Amendment
 
 Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
@@ -1168,5 +1288,5 @@ Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §801(f)\], Nov. 29, 1999,
 
 <i><sup>4</sup></i><i> So in original. The period probably should be a semicolon.</i>
 
-<i><sup>6</sup></i><i> So in original.</i>
+<i><sup>5</sup></i><i> So in original.</i>
 

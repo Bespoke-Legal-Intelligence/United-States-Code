@@ -28,7 +28,7 @@ In the performance of, and with respect to, the functions, powers, and duties ve
 
 &emsp;(10) upon purchase by the Administration of any deferred participation entered into under section 636 of this title, continue to charge a rate of interest not to exceed that initially charged by the participating institution on the amount so purchased for the remaining term of the indebtedness;
 
-&emsp;(11) make such investigations as he deems necessary to determine whether a recipient of or participant in any assistance under this chapter or any other person has engaged or is about to engage in any acts or practices which constitute or will constitute a violation of any provision of this chapter, or of any rule or regulation under this chapter, or of any order issued under this chapter. The Administration shall permit any person to file with it a statement in writing, under oath or otherwise as the Administration shall determine, as to all the facts and circumstances concerning the matter to be investigated. For the purpose of any investigation, the Administration is empowered to administer oaths and affirmations, subpena witnesses, compel their attendance, take evidence, and require the production of any books, papers, and documents which are relevant to the inquiry. Such attendance of witnesses and the production of any such records may be required from any place in the United States. In case of contumacy by, or refusal to obey a subpena issued to, any person, including a recipient or participant, the Administration may invoke the aid of any court of the United States within the jurisdiction of which such investigation or proceeding is carried on, or where such person resides or carries on business, in requiring the attendance and testimony of witnesses and the production ofbooks, papers, and documents; and such court may issue an order requiring such person to appear before the Administration, there to produce records, if so ordered, or to give testimony touching the matter under investigation. Any failure to obey such order of the court may be punished by such court as a contempt thereof. All process in any such case may be served in the judicial district whereof such person is an inhabitant or wherever he may be found;
+&emsp;(11) make such investigations as he deems necessary to determine whether a recipient of or participant in any assistance under this chapter or any other person has engaged or is about to engage in any acts or practices which constitute or will constitute a violation of any provision of this chapter, or of any rule or regulation under this chapter, or of any order issued under this chapter. The Administration shall permit any person to file with it a statement in writing, under oath or otherwise as the Administration shall determine, as to all the facts and circumstances concerning the matter to be investigated. For the purpose of any investigation, the Administration is empowered to administer oaths and affirmations, subpena witnesses, compel their attendance, take evidence, and require the production of any books, papers, and documents which are relevant to the inquiry. Such attendance of witnesses and the production of any such records may be required from any place in the United States. In case of contumacy by, or refusal to obey a subpena issued to, any person, including a recipient or participant, the Administration may invoke the aid of any court of the United States within the jurisdiction of which such investigation or proceeding is carried on, or where such person resides or carries on business, in requiring the attendance and testimony of witnesses and the production of books, papers, and documents; and such court may issue an order requiring such person to appear before the Administration, there to produce records, if so ordered, or to give testimony touching the matter under investigation. Any failure to obey such order of the court may be punished by such court as a contempt thereof. All process in any such case may be served in the judicial district whereof such person is an inhabitant or wherever he may be found;
 
 &emsp;(12) impose, retain, and use only those fees which are specifically authorized by law or which are in effect on September 30, 1994, and in the amounts and at the rates in effect on such date, except that the Administrator may, subject to approval in appropriations Acts, impose, retain, and utilize, additional fees—
 
@@ -82,7 +82,7 @@ Section 3324(a) and (b) of title 31 shall not apply to prepayments of rentals ma
 
 (1) The guaranteed portion of any loan made pursuant to this chapter may be sold by the lender, and by any subsequent holder, consistent with regulations on such sales as the Administration shall establish, subject to the following limitations:
 
-&emsp;(A) prior to the Administration's approval of the sale, or upon any subsequent resale, of any loan guaranteed by the Administration, if the lender certifies that such loan has been properly closed and that the lender has substantially complied with the provisions of the guarantee agreement and the regulations of the Administration, the Administration shall review and approve only materials not previously approved;
+&emsp;(A) prior to the Administration's approval of the sale, or upon any subsequent resale, of any loan guaranteed by the Administration, if thelender certifies that such loan has been properly closed and that the lender has substantially complied with the provisions of the guarantee agreement and the regulations of the Administration, the Administration shall review and approve only materials not previously approved;
 
 &emsp;(B) all fees due the Administration on a guaranteed loan shall have been paid in full prior to any sale; and
 
@@ -102,7 +102,7 @@ Section 3324(a) and (b) of title 31 shall not apply to prepayments of rentals ma
 
 (3) The full faith and credit of the United States is pledged to the payment of all amounts which may be required to be paid under any guarantee of such trust certificates issued by the Administration or its agent pursuant to this subsection.
 
-(4)(A) The Administration may collect a fee for any loan guarantee sold into the secondary market under subsection (f) in an amount equal to not more than 50 percent of the portion of the sale price that exceeds 110 percent of the outstanding principal amount of the portion of the loan guaranteed by the Administration. Any such fee imposed by the Administration shall be collected by the Administration or by the agent which carries out on behalf of the Administration the central registration functions required by subsection (h) of this section and shall be paid to the Administration and used solely to reduce the subsidy on loans guaranteed under section 636(a) of this title: <i>Provided</i>, That such fee shall not be charged to the borrower whose loan is guaranteed: and, <i>Provided further</i>, That nothing herein shall preclude any agent of the Administration from collecting a fee approvedby the Administration for the functions described in subsection (h)(2).<sup>1</sup>
+(4)(A) The Administration may collect a fee for any loan guarantee sold into the secondary market under subsection (f) in an amount equal to not more than 50 percent of the portion of the sale price that exceeds 110 percent of the outstanding principal amount of the portion of the loan guaranteed by the Administration. Any such fee imposed by the Administration shall be collected by the Administration or by the agent which carries out on behalf of the Administration the central registration functions required by subsection (h) of this section and shall be paid to the Administration and used solely to reduce the subsidy on loans guaranteed under section 636(a) of this title: <i>Provided</i>, That such fee shall not be charged to the borrower whose loan is guaranteed: and, <i>Provided further</i>, That nothing herein shall preclude any agent of the Administration from collecting a fee approved by the Administration for the functions described in subsection (h)(2).<sup>1</sup>
 
 (B) The Administration is authorized to impose and collect, either directly or through a fiscal and transfer agent, a reasonable penalty on late payments of the fee authorized under subparagraph (A) in an amount not to exceed 5 percent of such fee per month plus interest.
 
@@ -204,11 +204,27 @@ Section 3324(a) and (b) of title 31 shall not apply to prepayments of rentals ma
 
 &emsp;&emsp;An individual serving as a Judge in the Office of Hearings and Appeals (as that position and office are designated in section 134.101 of title 13, Code of Federal Regulations) on the effective date of this subsection shall be considered as qualified to be, and redesignated as, a Hearing Officer.
 
-#### (4) Hearing Officer defined
+#### (4) Determinations regarding status of concerns
+
+#### (A) In general
+
+&emsp;&emsp;Not later than 2 days after the date on which a final determination that a business concern does not meet the requirements of the status such concern claims to hold is made, such concern or the Administrator, as applicable, shall update the status of such concern in the System for Award Management (or any successor system).
+
+#### (B) Administrator updates
+
+&emsp;&emsp;If such concern fails to update the status of such concern as described in subparagraph (A), not later than 2 days after such failure the Administrator shall make such update.
+
+#### (C) Notification
+
+&emsp;&emsp;A concern required to make an update described under subparagraph (A) shall notify a contracting officer for each contract with respect to which such concern has an offer or bid pending of the determination made under subparagraph (A), if the concern finds, in good faith, that such determination affects the eligibility of the concern to perform such a contract.
+
+#### (5) Hearing Officer defined
 
 &emsp;In this subsection, the term "Hearing Officer" means an individual appointed or redesignated under this subsection who is an attorney licensed by a State, commonwealth, territory or possession of the United States, or the District of Columbia.
 
-(Pub. L. 85–536, §2\[5\], July 18, 1958, 72 Stat. 385; Pub. L. 87–305, §4, Sept. 26, 1961, 75 Stat. 666; Pub. L. 87–367, title I, §103(3), Oct. 4, 1961, 75 Stat. 787; Pub. L. 92–310, title II, §224(a), June 6, 1972, 86 Stat. 206; Pub. L. 93–386, §§3(1), 10, Aug. 23, 1974, 88 Stat. 745, 749; Pub. L. 94–305, title II, §208, June 4, 1976, 90 Stat. 671; Pub. L. 95–89, title III, §303, Aug. 4, 1977, 91 Stat. 558; Pub. L. 95–510, §103, Oct. 24, 1978, 92 Stat. 1781; Pub. L. 96–302, title I, §114, July 2, 1980, 94 Stat. 838; Pub. L. 98–352, §2, July 10, 1984, 98 Stat. 329; Pub. L. 100–590, title I, §113, Nov. 3, 1988, 102 Stat. 2997; Pub. L. 102–140, title VI, §609(a), Oct. 28, 1991, 105 Stat. 825; Pub. L. 102–564, title III, §307(d), Oct. 28, 1992, 106 Stat. 4264; Pub. L. 103–81, §3(a), Aug. 13, 1993, 107 Stat. 780; Pub. L. 103–282, §2, July 22, 1994, 108 Stat. 1422; Pub. L. 103–403, title VI, §602, Oct. 22, 1994, 108 Stat. 4202; Pub. L. 104–36, §4(b), Oct. 12, 1995, 109 Stat. 297; Pub. L. 104–208, div. D, title I, §103(e), title II, §§205(a), 208(i)(1), Sept. 30, 1996, 110 Stat. 3009–727, 3009–738, 3009–747; Pub. L. 106–554, §1(a)(9) \[title II, §209\], Dec. 21, 2000, 114 Stat. 2763, 2763A–683; Pub. L. 108–306, §3, Sept. 24, 2004, 118 Stat. 1131; Pub. L. 108–447, div. K, title I, §131, Dec. 8, 2004, 118 Stat. 3452; Pub. L. 111–240, title I, §1117, Sept. 27, 2010, 124 Stat. 2509; Pub. L. 114–92, div. A, title VIII, §869(a)(1), Nov. 25, 2015, 129 Stat. 936; Pub. L. 114–328, div. A, title XVIII, §1833(a), Dec. 23, 2016, 130 Stat. 2661; Pub. L. 115–232, div. A, title VIII, §862(b)(2), Aug. 13, 2018, 132 Stat. 1898.)
+(Pub. L. 85–536, §2\[5\], July 18, 1958, 72 Stat. 385; Pub. L. 87–305, §4, Sept. 26, 1961, 75 Stat. 666; Pub. L. 87–367, title I, §103(3), Oct. 4, 1961, 75 Stat. 787; Pub. L. 92–310, title II, §224(a), June 6, 1972, 86 Stat. 206; Pub. L. 93–386, §§3(1), 10, Aug. 23, 1974, 88 Stat. 745, 749; Pub. L. 94–305, title II, §208, June 4, 1976, 90 Stat. 671; Pub. L. 95–89, title III, §303, Aug. 4, 1977, 91 Stat. 558; Pub. L. 95–510, §103, Oct. 24, 1978, 92 Stat. 1781; Pub. L. 96–302, title I, §114, July 2, 1980, 94 Stat. 838; Pub. L. 98–352, §2, July 10, 1984, 98 Stat. 329; Pub. L. 100–590, title I, §113, Nov. 3, 1988, 102 Stat. 2997; Pub. L. 102–140, title VI, §609(a), Oct. 28, 1991, 105 Stat. 825; Pub. L. 102–564, title III, §307(d), Oct. 28, 1992, 106 Stat. 4264; Pub. L. 103–81, §3(a), Aug. 13, 1993, 107 Stat. 780; Pub. L. 103–282, §2, July 22, 1994, 108 Stat. 1422; Pub. L. 103–403, title VI, §602, Oct. 22, 1994, 108 Stat. 4202; Pub. L. 104–36, §4(b), Oct. 12, 1995, 109 Stat. 297; Pub. L. 104–208, div. D, title I, §103(e), title II, §§205(a), 208(i)(1), Sept. 30, 1996, 110 Stat. 3009–727, 3009–738, 3009–747; Pub. L. 106–554, §1(a)(9) \[title II, §209\], Dec. 21, 2000, 114 Stat. 2763, 2763A–683; Pub. L. 108–306, §3, Sept. 24, 2004, 118 Stat. 1131; Pub. L. 108–447, div. K, title I, §131, Dec. 8, 2004, 118 Stat. 3452; Pub. L. 111–240, title I, §1117, Sept. 27, 2010, 124 Stat. 2509; Pub. L. 114–92, div. A, title VIII, §869(a)(1), Nov. 25, 2015, 129 Stat. 936; Pub. L. 114–328, div. A, title XVIII, §1833(a), Dec. 23, 2016, 130 Stat. 2661; Pub. L. 115–232, div. A, title VIII, §862(b)(2), Aug. 13, 2018, 132 Stat. 1898; Pub. L. 117–81, div. A, title VIII, §863, Dec. 27, 2021, 135 Stat. 1852.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -234,9 +250,11 @@ Prior similar provisions were contained in section 205 of act July 30, 1953, ch.
 
 #### Amendments
 
+<b>2021</b>—Subsec. (i)(4), (5). Pub. L. 117–81 added par. (4) and redesignated former par. (4) as (5).
+
 <b>2018</b>—Subsec. (b)(7). Pub. L. 115–232 inserted ", including loans guaranteed under paragraph (15) or (35) of section 636(a) of this title" after "deferred participation loans".
 
-<b>2016</b>—Subsec. (i)(1)(B). Pub. L. 114–328 amended subpar. (B) generally. Prior to amendment, text read asfollows: "The Office of Hearings and Appeals shall only hear appeals of matters as described in this chapter, the Small Business Investment Act of 1958 (15 U.S.C. 661 et seq.), and title 13 of the Code of Federal Regulations."
+<b>2016</b>—Subsec. (i)(1)(B). Pub. L. 114–328 amended subpar. (B) generally. Prior to amendment, text read as follows: "The Office of Hearings and Appeals shall only hear appeals of matters as described in this chapter, the Small Business Investment Act of 1958 (15 U.S.C. 661 et seq.), and title 13 of the Code of Federal Regulations."
 
 <b>2015</b>—Subsec. (i). Pub. L. 114–92 added subsec. (i).
 
@@ -290,11 +308,13 @@ Subsec. (e). Pub. L. 93–386, §10, added subsec. (e).
 
 Subsec. (d). Pub. L. 87–305 added subsec. (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1996 Amendment
 
 Amendment by sections 103 and 205 of Pub. L. 104–208 effective Oct. 1, 1996, see section 3 of Pub. L. 104–208, set out as a note under section 633 of this title.
 
-Pub. L. 104–208, div. D, title II, §208(j), Sept. 30, 1996, 110 Stat. 3009–747, provided that: "This section \[amending this section, sections 80a–18, 662, 681 to 683, 687, 687b, 687d, 687k to 687m, and 697f of this title, and section 1431 of Title 12, Banks and Banking, repealing sections 687i and 687j of this title, enacting provisions set out as notes under sections 681 and 683 of this title, and amending provisions set out as a note under section 631 of this title\] and the amendments made by this section shall become effective on the date of enactment of this Act \[Sept. 30, 1996\]."
+Pub. L. 104–208, div. D, title II, §208(j), Sept. 30, 1996, 110 Stat. 3009–747, provided that: "This section \[amending this section, sections 80a–18, 662, 681 to 683, 687, 687b, 687d, 687k to 687m, and 697f of this title, and section 1431 of Title 12, Banks and Banking, repealing sections 687iand 687j of this title, enacting provisions set out as notes under sections 681 and 683 of this title, and amending provisions set out as a note under section 631 of this title\] and the amendments made by this section shall become effective on the date of enactment of this Act \[Sept. 30, 1996\]."
 
 #### Effective Date of 1995 Amendment
 
@@ -332,6 +352,10 @@ Pub. L. 98–352, §3, July 10, 1984, 98 Stat. 331, provided that:
 
 "(c) The Small Business Administration shall not implement any of the provisions under section 5(g) of the Small Business Act, as amended \[15 U.S.C. 634(g)\], until final rules and regulations become effective."
 
+#### Authority for the Office of Hearings and Appeals To Decide Appeals Relating to Qualified HUBZone Small Business Concerns
+
+Pub. L. 117–81, div. A, title VIII, §864, Dec. 27, 2021, 135 Stat. 1852, provided that: "Not later than 1 year after the date of the enactment of this Act \[Dec. 27, 2021\], the Administrator of the Small Business Administration shall issue a rule authorizing the Office of Hearings and Appeals of the Administration to decide all appeals from formal protest determinations in connection with the status of a concern as a qualified HUBZone small business concern (as such term is defined in section 31(b) of the Small Business Act (15 U.S.C. 657a(b))\[)\]."
+
 #### Asset Sales
 
 Pub. L. 105–135, title V, §505, Dec. 2, 1997, 111 Stat. 2624, provided that: "In connection with the Administration's implementation of a program to sell to the private sector loans and other assets held by the Administration, the Administration shall provide to the Committees a copy of the draft and final plans describing the sale and the anticipated benefits resulting from such sale."
@@ -346,11 +370,11 @@ Pub. L. 103–81, §6, Aug. 13, 1993, 107 Stat. 782, provided that: "The Adminis
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 #### Viability of Secondary Markets
 
-Pub. L. 102–366, title II, §226, Sept. 4, 1992, 106 Stat. 1001, provided that: "The Administrator of the Small Business Administration is authorized and directed totake such actions in the awarding of contracts as is deemed necessary to assure the continued long-term viability of the secondary markets in loans, debentures or other securities guaranteed by the Administration."
+Pub. L. 102–366, title II, §226, Sept. 4, 1992, 106 Stat. 1001, provided that: "The Administrator of the Small Business Administration is authorized and directed to take such actions in the awarding of contracts as is deemed necessary to assure the continued long-term viability of the secondary markets in loans, debentures or other securities guaranteed by the Administration."
 
 #### Small Business Loan Secondary Market Study
 

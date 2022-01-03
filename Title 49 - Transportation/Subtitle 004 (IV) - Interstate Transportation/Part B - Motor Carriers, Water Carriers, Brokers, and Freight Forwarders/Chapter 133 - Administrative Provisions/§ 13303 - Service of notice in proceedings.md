@@ -10,13 +10,17 @@ Filing With State.—A motor carrier providing transportation under this part sh
 
 (c)
 
-Notice.—A notice to a motor carrier, freight forwarder, or broker shall be served personally or by mail on the motor carrier, freight forwarder, or broker or on its designated agent. Service by mail on the designated agent shall be made at the address filed for the agent. When notice is given by mail, the date of mailing is considered to be the time when the notice is served. If a motor carrier, freight forwarder, or broker does not have a designated agent, service may be made by posting a copy of the notice at the headquarters of the Department of Transportation.
+Notice.—A notice to a motor carrier, freight forwarder, or broker shall be served personally or by mail on the motor carrier, freight forwarder, or broker or on its designated agent. Service by mail on the designated agent shall be made at the address filed for the agent. When notice is given by mail, the date of mailing is considered to be the time when the notice is served. If a motor carrier, freight forwarder, or broker does not have a designated agent, servicemay be made by posting a copy of the notice at the headquarters of the Department of Transportation.
 
 (Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 858.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 10329 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

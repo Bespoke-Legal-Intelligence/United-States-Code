@@ -22,11 +22,11 @@ The Secretary of Agriculture may transfer to the Rural Development Disaster Assi
 
 #### (f) Transfer of other appropriations to Fund
 
-Unless otherwise specifically provided in an appropriations Act, the Secretary of Agriculture may transfer to or within the Rural Development Disaster Assistance Fund, and merge with other amounts generally appropriated to the Fund, the available unobligated balance of any amounts that are appropriated for fiscal year 2009 or any subsequent fiscal year for programs and activities of the Rural Development Mission Area to respond to a disaster and are designated by the Congress as an emergency requirement if, in advance of the transfer, the Secretary determines that the unobligated amounts are no longer needed to respond to the disaster for which the amounts were originally appropriated and the Secretary provides a certification of this determination to the Committees on Appropriations of the House of Representatives and the Senate. A transfer of unobligated amounts with respect to a disaster may not be made under this subsection until after the end of the two-year period beginning on the date on which the amounts were originally appropriated for that disaster.
+Unless otherwise specifically provided in an appropriations Act, the Secretary of Agriculture may transfer to or within the Rural Development Disaster Assistance Fund, and merge withother amounts generally appropriated to the Fund, the available unobligated balance of any amounts that are appropriated for fiscal year 2009 or any subsequent fiscal year for programs and activities of the Rural Development Mission Area to respond to a disaster and are designated by the Congress as an emergency requirement if, in advance of the transfer, the Secretary determines that the unobligated amounts are no longer needed to respond to the disaster for which the amounts were originally appropriated and the Secretary provides a certification of this determination to the Committees on Appropriations of the House of Representatives and the Senate. A transfer of unobligated amounts with respect to a disaster may not be made under this subsection until after the end of the two-year period beginning on the date on which the amounts were originally appropriated for that disaster.
 
 #### (g) Administrative expenses
 
-In addition to any other funds available to the Secretary of Agriculture to cover administrative costs, the Secretary may use up to 3 percentof the amounts allocated from the Rural Development Disaster Assistance Fund for a specific disaster to cover administrative costs of Rural Development's State and local offices in the areas affected by the disaster to carry out disaster related activities.
+In addition to any other funds available to the Secretary of Agriculture to cover administrative costs, the Secretary may use up to 3 percent of the amounts allocated from the Rural Development Disaster Assistance Fund for a specific disaster to cover administrative costs of Rural Development's State and local offices in the areas affected by the disaster to carry out disaster related activities.
 
 #### (h) Limitation on per disaster obligations
 
@@ -37,6 +37,8 @@ Amounts in the Rural Development Disaster Assistance Fund, except for amounts de
 The Secretary of Agriculture shall submit, on a quarterly basis, to the Committees on Appropriations of the House of Representatives and the Senate a report describing the status of the Rural Development Disaster Assistance Fund and any transactions that have affected the Fund since the previous report.
 
 (Pub. L. 110–329, div. B, title I, §10101, Sept. 30, 2008, 122 Stat. 3586; Pub. L. 111–80, title VII, §702, Oct. 21, 2009, 123 Stat. 2118.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

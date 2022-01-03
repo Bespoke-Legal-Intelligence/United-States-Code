@@ -20,9 +20,13 @@ July 15, 1870, ch. 294, §20, 16 Stat. 319; Mar. 1, 1875, ch. 115, 18 Stat. 337.
 
 The word "prescribe" is substituted for the words "make and publish". 10:16 (last 35 words) is omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 3061 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

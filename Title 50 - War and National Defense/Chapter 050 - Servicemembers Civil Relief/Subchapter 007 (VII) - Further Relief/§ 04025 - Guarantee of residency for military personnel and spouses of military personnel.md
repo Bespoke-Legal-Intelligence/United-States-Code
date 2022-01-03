@@ -26,13 +26,15 @@ For the purposes of voting for any Federal office (as defined in section 30101 o
 
 (Oct. 17, 1940, ch. 888, title VII, §705, as added Pub. L. 108–189, §1, Dec. 19, 2003, 117 Stat. 2865; amended Pub. L. 111–97, §2(a), Nov. 11, 2009, 123 Stat. 3007; Pub. L. 115–407, title III, §303(a), Dec. 31, 2018, 132 Stat. 5373.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 595 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
 
-<b>2018</b>—Subsec. (b). Pub. L. 115–407 substituted "State or local office—" for "State or local office, a person who is absent from a State because the person is accompanying the person's spouse who is absent from that same State in compliance with military or navalorders shall not, solely by reason of that absence—" in introductory provisions, added pars. (1) and (2), and struck out former pars. (1) to (3) which read as follows:
+<b>2018</b>—Subsec. (b). Pub. L. 115–407 substituted "State or local office—" for "State or local office, a person who is absent from a State because the person is accompanying the person's spouse who is absent from that same State in compliance with military or naval orders shall not, solely by reason of that absence—" in introductory provisions, added pars. (1) and (2), and struck out former pars. (1) to (3) which read as follows:
 
 "(1) be deemed to have lost a residence or domicile in that State, without regard to whether or not the person intends to return to that State;
 
@@ -45,6 +47,8 @@ Section was formerly classified to section 595 of the former Appendix to this ti
 #### Effective Date of 2018 Amendment
 
 Pub. L. 115–407, title III, §303(b), Dec. 31, 2018, 132 Stat. 5374, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on the date that is 90 days after the date of the enactment of this Act \[Dec. 31, 2018\]."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

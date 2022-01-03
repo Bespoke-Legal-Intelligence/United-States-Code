@@ -6,7 +6,7 @@ Not later than one year after November 9, 1978, and annually thereafter for ten 
 
 #### (b) Secretary
 
-Not later than eighteen months after November 9, 1978, and annually thereafter for ten years, the Secretary shall submit a report to the President and the Congress containing—
+Not later than eighteen months after November 9, 1978, and annually thereafter for ten years,the Secretary shall submit a report to the President and the Congress containing—
 
 &emsp;(1) a summary of the reports submitted under subsection (a),
 
@@ -16,7 +16,9 @@ Not later than eighteen months after November 9, 1978, and annually thereafter f
 
 (Pub. L. 95–617, title I, §116, Nov. 9, 1978, 92 Stat. 3128.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This chapter, referred to in subsec. (b)(3), was in the original "this title", meaning title I (§101 et seq.) of Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3120, which enacted subchapters I to IV of this chapter and section 6808 of Title 42, The Public Health and Welfare, and amendedsections 6802 to 6807 of Title 42. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in subsec. (b)(3), was in the original "this title", meaning title I (§101 et seq.) of Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3120, which enacted subchapters I to IV of this chapter and section 6808 of Title 42, The Public Health and Welfare, and amended sections 6802 to 6807 of Title 42. For complete classification of title I to the Code, see Tables.
 

@@ -6,7 +6,7 @@ Development Contract.—
 
 &emsp;(1)
 
-Determining whether proposals are necessary.—The Secretary of Defense shallensure that, in preparing a solicitation for the award of a development contract for a major system, the head of an agency consider requiring in the solicitation that an offeror include in its offer proposals described in paragraph (2). In determining whether to require such proposals, the head of the agency shall give due consideration to the purposes for which the system is being procured and the technology necessary to meet the system's required capabilities. If such proposals are required, the head of the agency shall consider them in evaluating the offeror's price.
+Determining whether proposals are necessary.—The Secretary of Defense shall ensure that, in preparing a solicitation for the award of a development contract for a major system, the head of an agency consider requiring in the solicitation that an offeror include in its offer proposals described in paragraph (2). In determining whether to require such proposals, the head of the agency shall give due consideration to the purposes for which the system is being procured and the technology necessary to meet the system's required capabilities. If such proposals are required, the head of the agency shall consider them in evaluating the offeror's price.
 
 &emsp;(2)
 
@@ -28,7 +28,7 @@ Determining whether proposals are necessary.—The Secretary of Defense shall en
 
 Contents of proposals.—Proposals referred to in the first sentence of paragraph (1) are proposals identifying opportunities to ensure that the United States will be able to obtain on a competitive basis items procured in connection with the system that are likely to be reprocured in substantial quantities during the service life of the system. Proposals submitted in response to such requirement may include the following:
 
-&emsp;&emsp;(A) Proposals to provide to the United States the right to use technical data to be provided under the contract for competitive reprocurement of the item, together with the cost to the United States, if any, of acquiring such technical data and the right to use such data.
+&emsp;&emsp;(A) Proposals to provide to the United States the right to use technical data to beprovided under the contract for competitive reprocurement of the item, together with the cost to the United States, if any, of acquiring such technical data and the right to use such data.
 
 &emsp;&emsp;(B) Proposals for the qualification or development of multiple sources of supply for the item.
 
@@ -54,6 +54,8 @@ Evaluation.—In considering offers in response to a solicitation requiring prop
 
 (Added and amended Pub. L. 116–283, div. A, title XVIII, §1811(g), Jan. 1, 2021, 134 Stat. 4173.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 The text of subsec. (d) of section 2305 of this title, which was transferred to this section and amended by Pub. L. 116–283, §1811(g)(2)–(6) was based on Pub. L. 98–525, title XII, §1213(a), Oct. 19, 1984, 98 Stat. 2591; Pub. L. 100–456, div. A, title VIII, §806, Sept. 29, 1988, 102 Stat. 2010.
@@ -66,7 +68,7 @@ A prior section 3210 was renumbered section 7110 of this title.
 
 A prior section 3211, acts Aug. 10, 1956, ch. 1041, 70A Stat. 175; Sept. 2, 1958, Pub. L. 85–861, §1(67), 72 Stat. 1463; Nov. 8, 1967, Pub. L. 90–130, §1(9)(F), 81 Stat. 375, prescribed authorized strength of Regular Army in officers in each regular grade on promotion lists set forth in section 3296 of this title, prior to repeal by Pub. L. 96–513, title II, §202, title VII, §701, Dec. 12, 1980, 94 Stat. 2878, 2955, effective Sept. 15, 1981. See section 521 et seq. of this title.
 
-A prior section 3212, acts Aug. 10, 1956, ch. 1041, 70A Stat. 175; Sept. 2, 1958, Pub. L. 85–861, §1(68), 72 Stat. 1463; June 30, 1960, Pub. L. 86–559, §1(6), 74 Stat. 265; Nov. 8, 1967, Pub. L. 90–130, §1(9)(G), 81 Stat. 375; Dec. 12, 1980, Pub. L. 96–513, title V, §502(6), 94 Stat. 2909, related to temporary increases in authorized strength in grades of Army Reserve and Army National Guard of United States, prior to repeal by Pub. L. 103–337, div. A, titleXVI, §§1662(a)(3), 1691, Oct. 5, 1994, 108 Stat. 2988, 3026, effective Dec. 1, 1994. See section 12009 of this title.
+A prior section 3212, acts Aug. 10, 1956, ch. 1041, 70A Stat. 175; Sept. 2, 1958, Pub. L. 85–861, §1(68), 72 Stat. 1463; June 30, 1960, Pub. L. 86–559, §1(6), 74 Stat. 265; Nov. 8, 1967, Pub. L. 90–130, §1(9)(G), 81 Stat. 375; Dec. 12, 1980, Pub. L. 96–513, title V, §502(6), 94 Stat. 2909, related to temporary increases in authorized strength in grades of Army Reserve and Army National Guard of United States, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§1662(a)(3), 1691, Oct. 5, 1994, 108 Stat. 2988, 3026, effective Dec. 1, 1994. See section 12009 of this title.
 
 Prior sections 3213 and 3214 were repealed by Pub. L. 96–513, title II, §202, title VII, §701, Dec. 12, 1980, 94 Stat. 2878, 2955, effective Sept. 15, 1981.
 
@@ -99,6 +101,8 @@ Subsec. (b). Pub. L. 116–283, §1811(g)(2), (4), redesignated subsec. (a)(2) a
 Subsec. (c). Pub. L. 116–283, §1811(g)(2), (5), redesignated subsec. (a)(3) as (c), inserted heading, and substituted "subsections (a) and (b)" for "paragraphs (1) and (2)".
 
 Subsec. (d). Pub. L. 116–283, §1811(g)(2), (6), redesignated subsec. (a)(4) as (d), inserted subsec. heading, and substituted "subsection (a)(2) or (b)(2)" for "paragraph (1)(B) or (2)(B)" in introductory provisions; redesignated subpar. (A) and its cls. (i) and (ii) as par. (1) and subpars. (A) and (B), respectively, inserted par. heading, and realigned margins; and redesignated subpar. (B) as par. (2), inserted heading, realigned margin, and substituted "subsection (a)(2) or (b)(2)" for "paragraph (1)(B) or (2)(B)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

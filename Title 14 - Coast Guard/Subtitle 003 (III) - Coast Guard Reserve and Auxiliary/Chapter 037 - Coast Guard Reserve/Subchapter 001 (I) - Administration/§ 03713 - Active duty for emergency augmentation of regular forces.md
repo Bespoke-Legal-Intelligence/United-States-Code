@@ -34,7 +34,7 @@ Provisions similar to those in this section were contained in section 764 of thi
 
 <b>2007</b>—Subsec. (a). Pub. L. 110–53 substituted "section 2(16) of the Homeland Security Act of 2002 (6 U.S.C. 101(16))" for "section 2(15) of the Homeland Security Act of 2002 (6 U.S.C. 101(15))".
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–241, §206(1)–(4), substituted "during a, or to aid in prevention of an imminent," for "during a", "catastrophe, act of terrorism\(as defined in section 2(15) of the Homeland Security Act of 2002 (6 U.S.C. 101(15))), or transportation security incident as defined in section 70101 of title 46," for "or catastrophe,", "60 days in any 4-month period" for "thirty days in any four-month period", and "120 days in any 2-year period" for "sixty days in any two-year period".
+<b>2006</b>—Subsec. (a). Pub. L. 109–241, §206(1)–(4), substituted "during a, or to aid in prevention of an imminent," for "during a", "catastrophe, act of terrorism (as defined in section 2(15) of the Homeland Security Act of 2002 (6 U.S.C. 101(15))), or transportation security incident as defined in section 70101 of title 46," for "or catastrophe,", "60 days in any 4-month period" for "thirty days in any four-month period", and "120 days in any 2-year period" for "sixty days in any two-year period".
 
 Subsec. (e). Pub. L. 109–241, §206(5), added subsec. (e).
 

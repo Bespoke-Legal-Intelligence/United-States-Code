@@ -18,9 +18,13 @@ Historical and Revision Notes
 
 R.S. 4622 (as applicable to procedure for interrogating witnesses).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7661 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

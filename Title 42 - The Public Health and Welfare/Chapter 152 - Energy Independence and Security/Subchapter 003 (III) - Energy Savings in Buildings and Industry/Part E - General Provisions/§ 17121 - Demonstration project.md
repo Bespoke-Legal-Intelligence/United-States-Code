@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Federal Director and the Commercial Director shall establish guidelines to implement a demonstration project to contribute to the research goals of the Office of Commercial High-Performance Green Buildings and the Office of Federal High-Performance Green Buildings.
+The Federal Director and the Commercial Director shall establish guidelines to implement ademonstration project to contribute to the research goals of the Office of Commercial High-Performance Green Buildings and the Office of Federal High-Performance Green Buildings.
 
 #### (b) Projects
 
@@ -100,11 +100,15 @@ There is authorized to be appropriated to carry out the demonstration project de
 
 (Pub. L. 110–140, title IV, §491, Dec. 19, 2007, 121 Stat. 1649.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This title, referred to in subsec. (b), is title IV of Pub. L. 110–140, Dec. 19, 2007, 121 Stat. 1596, which enacted this subchapter, part C (§6341 et seq.) of subchapter III of chapter 77 of this title, sections 6371h–1 and 7628 of this title, and subchapter V (§2695 et seq.) of chapter 53 of Title 15, Commerce and Trade, amended sections 6832, 6834, 6862, 6872, 8253, 8254, and 12709 of this title, and enacted provisions set out as notes under sections 6834 and 6872 of this title. For complete classification of title IV to the Code, see Tables.
 
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (d), is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

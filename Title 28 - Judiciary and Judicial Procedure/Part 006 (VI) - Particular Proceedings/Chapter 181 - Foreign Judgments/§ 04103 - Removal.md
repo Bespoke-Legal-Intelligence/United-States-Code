@@ -1,6 +1,6 @@
 ### §4103. Removal
 
-In addition to removal allowed under section 1441, any action brought in a State domestic court to enforce a foreign judgment for defamation in which—
+In addition to removal allowed under section 1441, any action brought in a State domesticcourt to enforce a foreign judgment for defamation in which—
 
 &emsp;(1) any plaintiff is a citizen of a State different from any defendant;
 

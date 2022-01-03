@@ -146,6 +146,8 @@ Notwithstanding any other provision of law, gross income includes benefits paid 
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 30; Pub. L. 87–792, §7(e), Oct. 10, 1962, 76 Stat. 829; Pub. L. 88–272, title II, §205(a), Feb. 26, 1964, 78 Stat. 38; Pub. L. 94–455, title V, §505(a), title XIX, §1901(c)(2), Oct. 4, 1976, 90 Stat. 1566, 1803; Pub. L. 95–600, title III, §366(a), title VII, §701(c)(1), Nov. 6, 1978, 92 Stat. 2855, 2899; Pub. L. 96–222, title I, §103(a)(13)(B), (C), Apr. 1, 1980, 94 Stat. 213; Pub. L. 96–605, title II, §201(b)(1), Dec. 28, 1980, 94 Stat. 3527; Pub. L. 96–613, §5(b)(1), Dec. 28, 1980, 94 Stat. 3581; Pub. L. 97–34, title I, §§103(c)(2), 111(b)(4), Aug. 13, 1981, 95 Stat. 188, 194; Pub. L. 97–248, title II, §202(b)(3)(C), Sept. 3, 1982, 96 Stat. 421; Pub. L. 98–21, title I, §122(b), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–76, title II, §241(a), Aug. 12, 1983, 97 Stat. 430; Pub. L. 98–369, div. A, title IV, §423(b)(2), July 18, 1984, 98 Stat. 800; Pub. L. 99–514, title XI, §1151(c)(2), title XIII, §1301(j)(9), Oct. 22, 1986, 100 Stat. 2503, 2658; Pub. L. 101–140, title II, §203(a)(1), Nov. 8, 1989, 103 Stat. 830; Pub. L. 108–311, title II, §207(9), Oct. 4, 2004, 118 Stat.1177; Pub. L. 110–458, title I, §124(a), Dec. 23, 2008, 122 Stat. 5114; Pub. L. 111–152, title I, §1004(d)(1), Mar. 30, 2010, 124 Stat. 1035; Pub. L. 113–295, div. A, title II, §221(a)(16), Dec. 19, 2014, 128 Stat. 4039; Pub. L. 114–113, div. Q, title III, §305(a)–(c), Dec. 18, 2015, 129 Stat. 3088; Pub. L. 115–141, div. U, title IV, §401(a)(36), Mar. 23, 2018, 132 Stat. 1186.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 2(a) of the Railroad Unemployment Insurance Act, referred to in subsec. (i), is classified to section 352(a) of Title 45, Railroads.
@@ -210,6 +212,8 @@ Subsec. (e)(2). Pub. L. 94–455, §1901(c)(2), struck out "a territory" after "
 
 <b>1962</b>—Subsec. (g). Pub. L. 87–792 added subsec. (g).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
 Pub. L. 114–113, div. Q, title III, §305(d), Dec. 18, 2015, 129 Stat. 3089, provided that: "The amendments made by this section \[amending this section\] shall apply to payments after the date of the enactment of this Act \[Dec. 18, 2015\]."
@@ -228,7 +232,7 @@ Amendment by Pub. L. 108–311 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–140 effective as if included in section 1151 of Pub. L. 99–514, see section 203(c) of Pub. L. 101–140, set out as a note under section 79 of this title.
+Amendment by Pub. L. 101–140 effective as if included in section 1151 of Pub. L. 99–514, see section 203(c) ofPub. L. 101–140, set out as a note under section 79 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -300,7 +304,7 @@ Pub. L. 95–30, title III, §301(d), May 23, 1977, 91 Stat. 152, provided that:
 
 Pub. L. 95–30, title III, §301(e), May 23, 1977, 91 Stat. 152, as amended by Pub. L. 95–600, title VII, §701(c)(2)(B), Nov. 6, 1978, 92 Stat. 2900; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by this section \[enacting and amending provisions set out as notes under this section\] shall take effect on October 4, 1976, but shall not apply—
 
-&emsp;"(1) with respect to any taxpayer who makes or has made an election under section 105(d)(6) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] or under section 505(d) of the Tax Reform Act of 1976 \[set out below\] (as such sections were in effect before the enactment of this Act \[May 23, 1977\]) for a taxableyear beginning in 1976, if such election is not revoked under subsection (c) of this section \[set out above\], and
+&emsp;"(1) with respect to any taxpayer who makes or has made an election under section 105(d)(6) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] or under section 505(d) of the Tax Reform Act of 1976 \[set out below\] (as such sections were in effect before the enactment of this Act \[May 23, 1977\]) for a taxable year beginning in 1976, if such election is not revoked under subsection (c) of this section \[set out above\], and
 
 &emsp;"(2) with respect to any taxpayer (other than a taxpayer described in paragraph (1)) who has an annuity starting date at the beginning of a taxable year beginning in 1976 by reason of the amendments made by section 505 of the Tax Reform Act of 1976 \[amending this section and section 104 of this title and enacting provisions set out as notes under this section\] (as in effect before the enactment of this Act \[May 23, 1977\]), unless such person elects (in such manner as the Secretary of the Treasury or his delegate may by regulations prescribe) to have such amendments apply."
 

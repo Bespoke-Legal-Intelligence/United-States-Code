@@ -10,7 +10,7 @@ Whenever member banks are required to obtain reports from affiliates, or wheneve
 
 This section was not enacted as part of R.S. §5240 which comprises this subchapter. Act Dec. 23, 1913, derived from R.S. §5240.
 
-#### <b>Statutory Notes and Related Subsidiaries</b>
+#### <b>Executive Documents</b>
 
 #### Exception as to Transfer of Functions
 

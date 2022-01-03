@@ -26,6 +26,8 @@ In subsection (a) the word "shall" is substituted for the words "authorized and 
 
 In subsection (b) the word "covered" is substituted for the word "deposited".
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior sections 8392 to 8396 were repealed by Pub. L. 103–337, div. A, title XVI, §1629(c)(1), Oct. 5, 1994, 108 Stat. 2963, effective Oct. 1, 1996.
@@ -43,6 +45,8 @@ Section 8396, added Pub. L. 96–513, title II, §206(b), Dec. 12, 1980, 94 Stat
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 6522 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

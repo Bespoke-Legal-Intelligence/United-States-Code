@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For the purposes of this subchapter, a State shall have primary enforcement responsibility for pesticide use violations during any period forwhich the Administrator determines that such State—
+For the purposes of this subchapter, a State shall have primary enforcement responsibility for pesticide use violations during any period for which the Administrator determines that such State—
 
 &emsp;(1) has adopted adequate pesticide use laws and regulations, except that the Administrator may not require a State to have pesticide use laws that are more stringent than this subchapter;
 
@@ -20,6 +20,8 @@ The Administrator shall have primary enforcement responsibility for those States
 
 (June 25, 1947, ch. 125, §26, as added Pub. L. 95–396, §24(2), Sept. 30, 1978, 92 Stat. 836; amended Pub. L. 100–532, title VIII, §801(o), (q)(1)(D), Oct. 25, 1988, 102 Stat. 2683; Pub. L. 102–237, title X, §1006(a)(11), Dec. 13, 1991, 105 Stat. 1895.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 26 of act June 25, 1947, ch. 125, was renumbered section 34 and is classified to section 136x of this title.
@@ -33,6 +35,8 @@ A prior section 26 of act June 25, 1947, ch. 125, was renumbered section 34 and 
 Subsec. (b). Pub. L. 100–532, §801(o)(3), (q)(1)(D), inserted heading and substituted "136i" for "136b" in two places.
 
 Subsec. (c). Pub. L. 100–532, §801(o)(4), inserted heading.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

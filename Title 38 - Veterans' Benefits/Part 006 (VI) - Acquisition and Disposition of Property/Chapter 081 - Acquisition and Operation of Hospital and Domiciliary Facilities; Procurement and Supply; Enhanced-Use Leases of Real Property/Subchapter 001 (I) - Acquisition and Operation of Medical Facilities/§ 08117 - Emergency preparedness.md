@@ -10,7 +10,7 @@ Readiness of Department Medical Centers.—(1) The Secretary shall take appropri
 
 &emsp;(B) the provision of training in the use of such equipment to staff of such centers;
 
-&emsp;(C) organizing, training, and equipping the staff of such centers to support the activities carried out by the Secretary of Health and Human Services under section 2801 of the Public Health Service Act in the event of a publichealth emergency and incidents covered by the National Response Plan developed pursuant to section 502(6) <sup>1</sup> of the Homeland Security Act of 2002, or any successor plan; and
+&emsp;(C) organizing, training, and equipping the staff of such centers to support the activities carried out by the Secretary of Health and Human Services under section 2801 of the Public Health Service Act in the event of a public health emergency and incidents covered by the National Response Plan developed pursuant to section 502(6) <sup>1</sup> of the Homeland Security Act of 2002, or any successor plan; and
 
 &emsp;(D) providing medical logistical support to the National Disaster Medical System and the Secretary of Health and Human Services as necessary, on a reimbursable basis, and in coordination with other designated Federal agencies.
 
@@ -80,7 +80,7 @@ Authorization of Appropriations.—There are authorized to be appropriated, $155
 
 Section 2801 of the Public Health Service Act, referred to in subsec. (a)(1), is classified to section 300hh of Title 42, The Public Health and Welfare.
 
-Section 502 of the Homeland Security Act of 2002, referred to in subsec. (a)(2)(C), probably means section 502 of Pub. L. 107–296 prior to its redesignation as section 504 by Pub. L. 109–295, §611(8), and reclassification assection 314 of Title 6, Domestic Security, and not section 506 of Pub. L. 107–296 which was redesignated section 502 by Pub. L. 109–295, §611(9), and is classified to section 312 of Title 6. Provisions relating to the National Response Plan are contained in section 314(a)(6) of Title 6.
+Section 502 of the Homeland Security Act of 2002, referred to in subsec. (a)(2)(C), probably means section 502 of Pub. L. 107–296 prior to its redesignation as section 504 by Pub. L. 109–295, §611(8), and reclassification as section 314 of Title 6, Domestic Security, and not section 506 of Pub. L. 107–296 which was redesignated section 502 by Pub. L. 109–295, §611(9), and is classified to section 312 of Title 6. Provisions relating to the National Response Plan are contained in section 314(a)(6) of Title 6.
 
 Section 154(b)(1) of the Public Health Security and Bioterrorism Preparedness and Response Act of 2002, referred to in subsec. (b)(2), is section 154(b)(1) of Pub. L. 107–188, which is set out as a note below.
 
@@ -102,7 +102,7 @@ Subsec. (a)(2)(C), (D). Pub. L. 109–417, §306(a)(1)(B), added subpars. (C) an
 
 Subsec. (c). Pub. L. 109–417, §306(a)(2), substituted "a public health emergency. The Secretary shall, through existing medical procurement contracts, and on a reimbursable basis, make available as necessary, medical supplies, equipment, and pharmaceuticals in response to a public health emergency in support of the Secretary of Health and Human Services." for "a chemical or biological attack or other terrorist attack."
 
-Subsec. (d). Pub. L. 109–417, §306(a)(3), struck out "develop and" before "implement curricula", substituted "public health emergencies" for "biological, chemical, or radiological attacks", and inserted "consistent with section 319F(a) of the Public Health Service Act" before period at end.
+Subsec. (d). Pub. L. 109–417, §306(a)(3), struck out "develop and" before "implement curricula", substituted "public health emergencies" for "biological, chemical,or radiological attacks", and inserted "consistent with section 319F(a) of the Public Health Service Act" before period at end.
 
 Subsec. (e)(1). Pub. L. 109–417, §306(a)(4)(A), substituted "2812" for "2811(b)".
 

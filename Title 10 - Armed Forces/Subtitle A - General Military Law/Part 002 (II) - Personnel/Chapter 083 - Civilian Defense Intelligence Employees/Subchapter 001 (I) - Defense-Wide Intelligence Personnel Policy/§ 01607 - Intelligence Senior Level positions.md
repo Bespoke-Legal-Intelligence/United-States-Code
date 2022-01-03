@@ -20,6 +20,8 @@ Award of Rank to Employees in Intelligence Senior Level Positions.—The Preside
 
 (Added Pub. L. 104–201, div. A, title XVI, §1632(b), Sept. 23, 1996, 110 Stat. 2747; amended Pub. L. 107–306, title V, §503, Nov. 27, 2002, 116 Stat. 2407.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Grade GS–15 of the General Schedule, referred to in subsec. (a)(1), is set out under section 5332 of Title 5, Government Organization and Employees.
@@ -33,6 +35,8 @@ Provisions similar to those in this section were contained in section 1604(f)(1)
 #### Amendments
 
 <b>2002</b>—Subsec. (c). Pub. L. 107–306 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

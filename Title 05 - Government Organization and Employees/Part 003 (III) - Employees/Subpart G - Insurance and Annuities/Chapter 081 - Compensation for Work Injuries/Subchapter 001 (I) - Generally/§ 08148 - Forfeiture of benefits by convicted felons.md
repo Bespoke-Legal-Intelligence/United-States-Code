@@ -16,7 +16,7 @@
 
 #### Prior Provisions
 
-A prior section 8148, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 555, provided for a report to Congress by Secretary of Labor at beginning of each regular session covering work for preceding fiscal year under this subchapter, prior to repeal by Pub. L. 90–83, §1(69), Sept. 11, 1967, 81 Stat. 213.
+A prior section 8148, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 555, provided for a report to Congress by Secretary of Labor at beginning of each regular sessioncovering work for preceding fiscal year under this subchapter, prior to repeal by Pub. L. 90–83, §1(69), Sept. 11, 1967, 81 Stat. 213.
 
 #### Amendments
 
@@ -26,5 +26,5 @@ A prior section 8148, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 555, provided fo
 
 #### Effective Date
 
-Pub. L. 103–333, title I, §101(c), Sept. 30, 1994, 108 Stat. 2548, provided that: "The amendments made by thissection \[enacting this section and amending section 1920 of Title 18, Crimes and Criminal Procedure\] shall take effect on the date of the enactment of this Act \[Sept. 30, 1994\]. The amendments made by subsection (a) \[enacting this section\] shall apply to claims filed before, on, or after the date of enactment of this Act, and shall apply only to individuals convicted after such date of enactment."
+Pub. L. 103–333, title I, §101(c), Sept. 30, 1994, 108 Stat. 2548, provided that: "The amendments made by this section \[enacting this section and amending section 1920 of Title 18, Crimes and Criminal Procedure\] shall take effect on the date of the enactment of this Act \[Sept. 30, 1994\]. The amendments made by subsection (a) \[enacting this section\] shall apply to claims filed before, on, or after the date of enactment of this Act, and shall apply only to individuals convicted after such date of enactment."
 

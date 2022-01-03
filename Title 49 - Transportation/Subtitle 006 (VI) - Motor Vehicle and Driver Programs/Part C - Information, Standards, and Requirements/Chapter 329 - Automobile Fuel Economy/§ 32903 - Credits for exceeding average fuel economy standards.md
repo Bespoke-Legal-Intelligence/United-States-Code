@@ -152,6 +152,8 @@ In subsection (b)(2)(A) is substituted for 15:2002(l)(1)(C)(i)–(iii) to elimin
 
 In subsection (e), the words "as provided in this section for passenger automobiles" are substituted for "as provided for under paragraph (1)" for clarity. The text of 15:2002(l)(2) (last sentence) is omitted as expired.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2007</b>—Subsec. (a). Pub. L. 110–140, §104(a)(1), substituted "subsections (a) through (d) of section 32902" for "section 32902(b)–(d) of this title" in introductory provisions.
@@ -161,6 +163,8 @@ Subsec. (a)(2). Pub. L. 110–140, §104(a)(2), substituted "paragraph (1)" for 
 Subsecs. (b)(2)(B), (c)(1). Pub. L. 110–140, §104(a)(1), substituted "subsections (a) through (d) of section 32902" for "section 32902(b)–(d) of this title".
 
 Subsecs. (f) to (h). Pub. L. 110–140, §104(a)(3), (4), added subsecs. (f) and (g) and redesignated former subsec. (f) as (h).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

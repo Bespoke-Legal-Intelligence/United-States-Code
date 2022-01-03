@@ -26,7 +26,9 @@ Of the funds provided to a State library administrative agency under section 912
 
 Each State library administrative agency receiving funds under this part may apportion the funds available for the priorities described in subsection (a) as appropriate to meet the needs of the individual State.
 
-(Pub. L. 94–462, title II, §231, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–301; amended Pub. L. 108–81, title II, §206, Sept. 25, 2003, 117 Stat. 999; Pub. L. 111–340, title II, §205, Dec. 22, 2010, 124 Stat. 3600; Pub. L. 115–410, §12, Dec. 31, 2018, 132 Stat. 5417.)
+(Pub. L. 94–462, title II, §231, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\],Sept. 30, 1996, 110 Stat. 3009–233, 3009–301; amended Pub. L. 108–81, title II, §206, Sept. 25, 2003, 117 Stat. 999; Pub. L. 111–340, title II, §205, Dec. 22, 2010, 124 Stat. 3600; Pub. L. 115–410, §12, Dec. 31, 2018, 132 Stat. 5417.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

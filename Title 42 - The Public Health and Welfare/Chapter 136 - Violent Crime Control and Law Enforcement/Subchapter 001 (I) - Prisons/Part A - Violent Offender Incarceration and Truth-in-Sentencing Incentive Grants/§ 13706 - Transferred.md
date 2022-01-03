@@ -1,5 +1,7 @@
 ### §13706. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 13706 was editorially reclassified as section 12106 of Title 34, Crime Control and Law Enforcement.

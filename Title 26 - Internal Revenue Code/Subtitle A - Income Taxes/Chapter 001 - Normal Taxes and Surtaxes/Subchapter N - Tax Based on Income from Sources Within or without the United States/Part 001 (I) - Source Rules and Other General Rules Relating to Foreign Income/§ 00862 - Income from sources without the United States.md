@@ -28,6 +28,8 @@ From the items of gross income specified in subsection (a) there shall be deduct
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 276; Pub. L. 92–178, title III, §314(b), Dec. 10, 1971, 85 Stat. 528; Pub. L. 94–455, title X, §1036(b), title XIX, §1901(b)(26)(C), Oct. 4, 1976, 90 Stat. 1633, 1798; Pub. L. 95–30, title I, §102(b)(10), May 23, 1977, 91 Stat. 138; Pub. L. 97–34, title VIII, §831(a)(2), Aug. 13, 1981, 95 Stat. 352; Pub. L. 99–514, title I, §104(b)(12), title XII, §1211(b)(1)(C), Oct. 22, 1986, 100 Stat. 2105, 2536; Pub. L. 100–647, title I, §1012(e)(4), Nov. 10, 1988, 102 Stat. 3500; Pub. L. 101–239, title VII, §7811(i)(2), Dec. 19, 1989, 103 Stat. 2409; Pub. L. 111–240, title II, §2122(b), Sept. 27, 2010, 124 Stat. 2568.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (a)(9). Pub. L. 111–240 added par. (9).
@@ -54,17 +56,19 @@ Subsec. (a)(7). Pub. L. 94–455, §1036(b), added par. (7).
 
 <b>1971</b>—Subsec. (c). Pub. L. 92–178 added subsec. (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–240 applicable to guarantees issued after Sept. 27, 2010, see section 2122(d) of Pub. L. 111–240, set out as a note under section 861 of this title.
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, seesection 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to whichsuch amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 

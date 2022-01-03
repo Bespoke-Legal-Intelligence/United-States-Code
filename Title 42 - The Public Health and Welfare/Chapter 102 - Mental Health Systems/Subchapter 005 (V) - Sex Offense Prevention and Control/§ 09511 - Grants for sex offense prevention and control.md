@@ -46,7 +46,7 @@ The Secretary shall appoint an advisory committee to advise, consult with, and m
 
 #### (c) Submission and approval of application; form, manner and contents
 
-No grant may be made under subsection (a) unless an application therefor is submitted toand approved by the Secretary. The application shall be submitted in such form and manner and contain such information as the Secretary may prescribe.
+No grant may be made under subsection (a) unless an application therefor is submitted to and approved by the Secretary. The application shall be submitted in such form and manner and contain such information as the Secretary may prescribe.
 
 #### (d) Authorization of appropriations
 
@@ -58,6 +58,8 @@ For purposes of subsection (a), the term "sex offense" includes statutory and at
 
 (Pub. L. 96–398, title VI, §601(a)–(e), Oct. 7, 1980, 94 Stat. 1602, 1603; Pub. L. 97–35, title IX, §902(f)(20), Aug. 13, 1981, 95 Stat. 560; Pub. L. 99–646, §87(d)(3)–(7), Nov. 10, 1986, 100 Stat. 3624; Pub. L. 99–654, §3(b)(3)–(7), Nov. 14, 1986, 100 Stat. 3663, 3664.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1986</b>—Pub. L. 99–646, §87(d)(3), and Pub. L. 99–654, §3(b)(3), amended section catchline identically, substituting "sex offense" for "rape".
@@ -67,6 +69,8 @@ Subsec. (a). Pub. L. 99–646, §87(d)(4)–(6), and Pub. L. 99–654, §3(b)(4)
 Subsec. (e). Pub. L. 99–646, §87(d)(7), and Pub. L. 99–654, §3(b)(7), amended subsec. (e) identically, substituting "the term 'sex offense' " for "the term 'rape' ".
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–35 in par. (5) struck out "community mental health centers and other" after "Assistance to", and struck out par. (6) which related to provision of consultation and education services.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendments
 

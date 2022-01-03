@@ -34,7 +34,7 @@ Section 14(a) of the Federal Advisory Committee Act (relating to termination) sh
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(2), (b), was in the original "this Act", meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+This chapter, referred to in subsecs. (a)(2), (b), was in the original "this Act", meaning Pub. L. 93–406, knownas the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 Section 1143(b) of this title, referred to in subsec. (b), was omitted from the Code.
 

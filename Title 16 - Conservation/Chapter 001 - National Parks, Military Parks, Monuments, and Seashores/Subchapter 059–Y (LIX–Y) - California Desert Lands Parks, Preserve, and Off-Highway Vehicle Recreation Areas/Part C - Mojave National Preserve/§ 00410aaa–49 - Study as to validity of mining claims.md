@@ -6,7 +6,7 @@
 
 (2) At the end of the period specified in paragraph (1), or sooner if so requested by the holder or holders of the claims specified in such paragraph, the Secretary shall determine whether there has been a discovery of valuable minerals on such claims and whether, if such discovery had been made on or before July 1, 1994, such claims would have been valid as of such date under the mining laws of the United States in effect on such date.
 
-(3) If the Secretary, pursuant to paragraph (2), makes an affirmative determination concerning the claims specified in paragraph (1), the holder or holders of such claims shall be permitted to continue to operate such claims subject only to such regulations as applied on July 1, 1994 to the exercise of valid existing rights on patented mining claims within a unit of the National Park System.
+(3) If the Secretary, pursuant to paragraph (2), makes an affirmative determination concerningthe claims specified in paragraph (1), the holder or holders of such claims shall be permitted to continue to operate such claims subject only to such regulations as applied on July 1, 1994 to the exercise of valid existing rights on patented mining claims within a unit of the National Park System.
 
 (Pub. L. 103–433, title V, §509, Oct. 31, 1994, 108 Stat. 4491.)
 

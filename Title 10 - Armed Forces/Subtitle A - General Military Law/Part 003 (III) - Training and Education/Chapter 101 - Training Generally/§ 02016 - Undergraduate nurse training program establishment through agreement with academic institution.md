@@ -34,6 +34,8 @@ Military Service Commitment.—The Secretary of Defense shall encourage members 
 
 (Added Pub. L. 111–84, div. A, title V, §525(b)(1), Oct. 28, 2009, 123 Stat. 2286; amended Pub. L. 111–383, div. A, title V, §551(a)–(c), Jan. 7, 2011, 124 Stat. 4219.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Subsec. (a)(1). Pub. L. 111–383, §551(a), substituted "a bachelor of science degree in nursing" for "a nursing degree".
@@ -45,6 +47,8 @@ Subsec. (d). Pub. L. 111–383, §551(c), amended subsec. (d) generally. Prior t
 &emsp;"(1) be one of the ten largest military installations in the United States, in terms of the number of active duty personnel assigned to the installation and family members residing on or in the vicinity of the installations; and
 
 &emsp;"(2) have a military treatment facility with inpatient capability designated as a medical center located on the installation or within 10 miles of the installation."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Plan and Pilot Program To Establish Undergraduate Nurse Training Program
 

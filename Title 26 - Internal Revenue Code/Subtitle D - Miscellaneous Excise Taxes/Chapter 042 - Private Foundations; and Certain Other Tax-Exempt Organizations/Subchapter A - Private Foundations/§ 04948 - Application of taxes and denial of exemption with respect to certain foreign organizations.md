@@ -34,11 +34,15 @@ Section 507 (relating to termination of private foundation status), section 508 
 
 (Added Pub. L. 91–172, title I, §101(b), Dec. 30, 1969, 83 Stat. 518; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 108–357, title IV, §413(c)(30), Oct. 22, 2004, 118 Stat. 1509.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Subsec. (c)(4). Pub. L. 108–357 struck out "556(b)(2)," after "545(b)(2)," in introductory provisions.
 
 <b>1976</b>—Subsec. (c). Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

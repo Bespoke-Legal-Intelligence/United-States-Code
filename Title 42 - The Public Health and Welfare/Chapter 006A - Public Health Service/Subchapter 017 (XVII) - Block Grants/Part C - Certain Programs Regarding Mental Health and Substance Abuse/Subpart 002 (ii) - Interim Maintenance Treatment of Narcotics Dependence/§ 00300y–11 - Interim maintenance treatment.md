@@ -22,7 +22,7 @@ Subject to the following subsections of this section, for the purpose of reducin
 
 &emsp;&emsp;(B) The preponderance of scientific research indicates that the medically supervised dispensing of methadone is not an effective method of reducing the extent of dependence on heroin and other morphine-like drugs.
 
-&emsp;&emsp;(C) The preponderance of available data indicates that, of treatment programs that dispense methadone as part of comprehensive treatment, a substantial majority admit all individuals seeking services to the programs not later than 14 days after the individuals seek admission to the programs.
+&emsp;&emsp;(C) The preponderance of available data indicates that, of treatment programs that dispense methadone as part of comprehensive treatment, a substantial majority admit all individuals seeking services to theprograms not later than 14 days after the individuals seek admission to the programs.
 
 #### (2) Evaluation by Secretary
 
@@ -62,6 +62,8 @@ For purposes of this section:
 
 (July 1, 1944, ch. 373, title XIX, §1976, as added Pub. L. 102–321, title II, §204, July 10, 1992, 106 Stat. 412.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 300y–11, act July 1, 1944, ch. 373, title XIX, §1932, as added Aug. 13, 1981, Pub. L. 97–35, title IX, §901, 95 Stat. 559; amended Jan. 4, 1983, Pub. L. 97–414, §8(v), 96 Stat. 2063, related to applicability of other provisions and promulgation of regulations, prior to repeal by Pub. L. 99–280, §5, Apr. 24, 1986, 100 Stat. 400.
@@ -85,6 +87,8 @@ Section 300y–25, act July 1, 1944, ch. 373, title XIX, §1935, as added Nov. 4
 Section 300y–26, act July 1, 1944, ch. 373, title XIX, §1936, as added Nov. 4, 1988, Pub. L. 100–607, title IV, §408(a), 102 Stat. 3119, provided for applications, requirements of the application, and description of activities.
 
 Section 300y–27, act July 1, 1944, ch. 373, title XIX, §1937, as added Nov. 4, 1988, Pub. L. 100–607, title IV, §408(a), 102 Stat. 3120; amended Aug. 16, 1989, Pub. L. 101–93, §5(f)(1)(B), 103 Stat. 612, provided for termination of this part effective Jan. 1, 1991.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

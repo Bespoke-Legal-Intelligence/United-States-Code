@@ -22,6 +22,8 @@ Historical and Revision Notes
 
 In the section, the words "Secretary of Defense" and "Defense Mapping Agency" are substituted for "Secretary of the Navy" and "United States Naval Oceanographic Office", respectively, for consistency with 10:2791. The words "under such regulations as he prescribes" are omitted as unnecessary.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 451 was renumbered section 481 of this title.
@@ -37,6 +39,8 @@ Par. (2). Pub. L. 116–283, §1621(b)(1)(C), amended par. (2) generally. Prior 
 <b>2003</b>—Par. (1). Pub. L. 108–136 substituted "National Geospatial-Intelligence Agency" for "National Imagery and Mapping Agency".
 
 <b>1996</b>—Pub. L. 104–201 renumbered section 2792 of this title as this section and substituted "National Imagery and Mapping Agency" for "Defense Mapping Agency" in par. (1).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

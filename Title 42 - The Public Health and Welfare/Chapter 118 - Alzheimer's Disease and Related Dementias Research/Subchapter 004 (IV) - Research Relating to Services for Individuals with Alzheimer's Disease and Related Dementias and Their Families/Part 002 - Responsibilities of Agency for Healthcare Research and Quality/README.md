@@ -2,6 +2,8 @@ Part 2—
 
 Responsibilities of Agency for Healthcare Research and Quality
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 106–129, §2(b)(2), Dec. 6, 1999, 113 Stat. 1670, substituted "Agency for Healthcare Research and Quality" for "Agency for Health Care Policy and Research" in part heading.

@@ -14,7 +14,7 @@ The annual percentage rate applicable to any extension of consumer credit shall 
 
 #### (b) Computation of rate of finance charges for balances within a specified range
 
-Where a creditor imposes the same finance charge for balances within a specified range, the annual percentage rate shall be computed on themedian balance within the range, except that if the Bureau determines that a rate so computed would not be meaningful, or would be materially misleading, the annual percentage rate shall be computed on such other basis as the Bureau may be regulation require.
+Where a creditor imposes the same finance charge for balances within a specified range, the annual percentage rate shall be computed on the median balance within the range, except that if the Bureau determines that a rate so computed would not be meaningful, or would be materially misleading, the annual percentage rate shall be computed on such other basis as the Bureau may be regulation require.
 
 #### (c) Allowable tolerances for purposes of compliance with disclosure requirements
 
@@ -30,6 +30,8 @@ In the case of creditors determining the annual percentage rate in a manner othe
 
 (Pub. L. 90–321, title I, §107, May 29, 1968, 82 Stat. 149; Pub. L. 96–221, title VI, §607, Mar. 31, 1980, 94 Stat. 170; Pub. L. 111–203, title X, §1100A(2), July 21, 2010, 124 Stat. 2107.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–203 substituted "Bureau" for "Board" wherever appearing.
@@ -39,6 +41,8 @@ In the case of creditors determining the annual percentage rate in a manner othe
 Subsec. (e). Pub. L. 96–221, §607(b), struck out reference to subsection (c) of this section.
 
 Subsec. (f). Pub. L. 96–221, §607(c), struck out subsec. (f) setting forth requirements for form of expressing percentage rates prior to Jan. 1, 1971.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

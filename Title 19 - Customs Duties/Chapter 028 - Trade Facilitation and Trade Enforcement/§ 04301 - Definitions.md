@@ -132,6 +132,8 @@ In this chapter:
 
 (Pub. L. 114–125, §2, Feb. 24, 2016, 130 Stat. 124.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 114–125, Feb. 24, 2016, 130 Stat. 122, known as the Trade Facilitation and Trade Enforcement Act of 2015, which, for purposes of defined terms, is classified principally to this chapter. For complete classification of Pub. L. 114–125 to the Code, see Short Title note set out below and Tables.
@@ -174,6 +176,8 @@ The Bipartisan Congressional Trade Priorities and Accountability Act of 2015, re
 
 The Trade Preferences Extension Act of 2015, referred to in par. (4)(Y), is Pub. L. 114–27, June 29, 2015, 129 Stat. 362. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note set out under section 2101 of this title and Tables.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title
 
 Pub. L. 114–125, §1(a), Feb. 24, 2016, 130 Stat. 122, provided that: "This Act \[see Tables for classification\] may be cited as the 'Trade Facilitation and Trade Enforcement Act of 2015'."
@@ -183,6 +187,8 @@ Pub. L. 114–125, title IV, §401, Feb. 24, 2016, 130 Stat. 155, provided that:
 Pub. L. 114–125, title VIII, §801, Feb. 24, 2016, 130 Stat. 199, provided that: "This title \[see Tables for classification\] may be cited as the 'U.S. Customs and Border Protection Authorization Act'."
 
 Pub. L. 114–125, title VIII, §811, Feb. 24, 2016, 130 Stat. 217, provided that: "This subtitle \[subtitle B (§§811–819) of title VIII of Pub. L. 114–125, enacting subchapter VII of this chapter and amending section 8311 of Title 7, Agriculture, section 1356 of Title 8, Aliens and Nationality, and section 44901 of Title 49, Transportation\] may be cited as the 'Preclearance Authorization Act of 2015'."
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13785. Establishing Enhanced Collection and Enforcement of Antidumping and Countervailing Duties and Violations of Trade and Customs Laws
 
@@ -272,7 +278,7 @@ Section 1. <i>Policy</i>. E-commerce, including transactions involving smaller e
 
 It is the policy of the United States Government to protect consumers, intellectual property rights holders, businesses, and workers from counterfeit goods, narcotics (including synthetic opioids such as fentanyl), and other contraband now being introduced into the United States as a result of the recent growth in e-commerce. The United States Government must also protect the revenue of the United States from individuals and entities who evade customs duties, taxes, and fees.
 
-It is the policy of the United States Government that any person who knowingly, or with gross negligence, imports, or facilitates the importation of, merchandise into the United States in material violation of Federal law evidences conduct of so serious and compelling anature that it should be referred to U.S. Customs and Border Protection (CBP) of the Department of Homeland Security for a determination whether such conduct affects that person's present responsibility to participate in transactions with the Federal Government.
+It is the policy of the United States Government that any person who knowingly, or with gross negligence, imports, or facilitates the importation of, merchandise into the United States in material violation of Federal law evidences conduct of so serious and compelling a nature that it should be referred to U.S. Customs and Border Protection (CBP) of the Department of Homeland Security for a determination whether such conduct affects that person's present responsibility to participate in transactions with the Federal Government.
 
 It is the policy of the United States Government, as reflected in Executive Order 12549 of February 18, 1986 (Debarment and Suspension) \[31 U.S.C. 6101 note\], and elsewhere, to protect the public interest and ensure the integrity of Federal programs by transacting only with presently responsible persons. In furtherance of this policy, the nonprocurement debarment and suspension system enables executive departments and agencies to exclude from Federal programs persons who are not presently responsible. CBP implements this system by suspending and debarring persons who flout the customs laws, among other persons who lack present responsibility. To achieve the policy goals stated herein, the United States Government shall consider all appropriate actions that it can take to ensure that persons that CBP suspends or debars are excluded from participating in the importation of merchandise into the United States.
 
@@ -288,7 +294,7 @@ Sec. 3. <i>Responsibilities of Express Consignment Operators, Carriers, Hub Faci
 
 (b) The Secretary of Homeland Security, through the Commissioner of CBP, shall consider appropriate measures, consistent with applicable law, to ensure that express consignment operators, carriers, hub facilities, and licensed customs brokers cease to facilitate business activity that requires an importer of record number by any person who may not obtain an importer of record number, as provided by any criteria established by the Secretary under section 2 of this order. Depending on the criteria established, such consideration shall include whether CBP may take any of the following measures: limiting an express consignment operator's, carrier's, or hub facility's participation in any CBP trusted trader programs; taking appropriate action with regard to an express consignment operator's, carrier's, or hub facility's operating privileges; or suspending or revoking a customs broker's license.
 
-Sec. 4. <i>Items Sent to the United States through the International Postal Network</i>. (a) The United States Postal Service (USPS) should collaborate with the Secretary of State to notify the international postal network, via circular or the functional equivalent, of the policy of the United States Government set forth in section 1 of this order and the key provisions of this order. USPS should make all reasonable efforts to include provisions regarding any criteria for participating in the importer of record program established under section 2 of this order in any new contractual instruments it executes with international posts.
+Sec. 4. <i>Items Sent to the United States through the International Postal Network</i>. (a) The United States Postal Service (USPS) should collaborate with the Secretary of State to notify the international postal network, via circular or the functional equivalent, of the policy of the United States Government set forth in section 1 of this order and the key provisions of this order. USPS should make all reasonable efforts to include provisions regarding any criteria for participating in the importer of record program established under section 2 ofthis order in any new contractual instruments it executes with international posts.
 
 (b) Within 90 days from the date of this order \[Jan. 31, 2020\], the Secretary of Homeland Security, through the Commissioner of CBP, and in consultation with USPS, shall submit to the President a report on any appropriate measures the Federal Government could take, including negotiating with international posts, to prevent the importation or attempted importation into the United States through the international postal network of shipments containing goods, when such importation or attempted importation is known to have been facilitated by any person who may not obtain an importer of record number under any criteria established by the Secretary under section 2 of this order.
 
@@ -298,7 +304,7 @@ Sec. 5. <i>Non-Compliant International Posts</i>. (a) The Secretary of Homeland 
 
 (c) Consistent with applicable law, the Secretary of Homeland Security, through the Commissioner of CBP, in consultation with USPS, may require additional information for any shipment from any international post that for six or more consecutive quarters is deemed a non-compliant international post. The Secretary of Homeland Security, through the Commissioner of CBP, shall, to the extent consistent with applicable law and international agreements, implement all appropriate measures to prevent importation into the United States of any shipments dispatched from any international post that is deemed a non-compliant international post for six or more consecutive quarters and for which the additional information required consistent with this subsection is not promptly provided. USPS should collaborate with CBP in implementing these measures.
 
-(d) The Secretary of Homeland Security, through the Commissioner of CBP, and in consultation with USPS, shall, to the maximum extent permitted by applicable law, take measures to protect the United States from shipments from any international post that for eight or more consecutive quarters is deemed a non-compliant international post. To the extent consistent with applicable law and as appropriate, such measures might include preventing the importation into the United States of shipments dispatched from such posts, regardless of whether additional information required by CBP is provided. Within 90 days of the date of this order, the Secretary of Homeland Security, through the Commissioner of CBP, and in consultation with USPS, shallsubmit a report to the President analyzing what measures CBP may take consistent with its existing authorities.
+(d) The Secretary of Homeland Security, through the Commissioner of CBP, and in consultation with USPS, shall, to the maximum extent permitted by applicable law, take measures to protect the United States from shipments from any international post that for eight or more consecutive quarters is deemed a non-compliant international post. To the extent consistent with applicable law and as appropriate, such measures might include preventing the importation into the United States of shipments dispatched from such posts, regardless of whether additional information required by CBP is provided. Within 90 days of the date of this order, the Secretary of Homeland Security, through the Commissioner of CBP, and in consultation with USPS, shall submit a report to the President analyzing what measures CBP may take consistent with its existing authorities.
 
 (e) Within 90 days of the date of this order, the Secretary of Homeland Security, through the Commissioner of CBP, shall publish and regularly update appropriate guidance related to CBP's implementation of this section, including the process by which an international post is deemed a non-compliant international post and the process by which an international post is removed from the list of non-compliant international posts.
 
@@ -334,7 +340,7 @@ Sec. 9. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 (b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
 
-(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against theUnited States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

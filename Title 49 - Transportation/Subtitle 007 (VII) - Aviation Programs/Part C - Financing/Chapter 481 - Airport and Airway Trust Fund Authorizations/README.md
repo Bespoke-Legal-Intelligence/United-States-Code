@@ -19,6 +19,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–254, div. B, title I, §115, Oct. 5, 2018, 132 Stat. 3201, struck out item 48112 "Adjustment to AIP program funding".

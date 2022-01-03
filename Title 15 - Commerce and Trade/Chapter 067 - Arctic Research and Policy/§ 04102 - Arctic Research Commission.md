@@ -28,7 +28,7 @@ The President shall establish an Arctic Research Commission (hereafter referred 
 
 &emsp;(C) two shall be appointed for a term of four years.
 
-(3) Any vacancy occurring in the membership of the Commission shall be filled, after notice ofthe vacancy is published in the Federal Register, in the manner provided by the preceding provisions of this section, for the remainder of the unexpired term.
+(3) Any vacancy occurring in the membership of the Commission shall be filled, after notice of the vacancy is published in the Federal Register, in the manner provided by the preceding provisions of this section, for the remainder of the unexpired term.
 
 (4) A member may serve after the expiration of the member's term of office until the President appoints a successor.
 
@@ -46,11 +46,15 @@ The President shall establish an Arctic Research Commission (hereafter referred 
 
 (Pub. L. 98–373, title I, §103, July 31, 1984, 98 Stat. 1243; Pub. L. 101–609, §§2, 3, Nov. 16, 1990, 104 Stat. 3125.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Subsec. (b)(1). Pub. L. 101–609, §2, in introductory provisions, substituted "seven" for "five", in subpar. (A), substituted "four" for "three", and in subpar. (C), substituted "two members" for "one member".
 
 Subsec. (d)(1). Pub. L. 101–609, §3, substituted "GS–18" for "GS–16".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

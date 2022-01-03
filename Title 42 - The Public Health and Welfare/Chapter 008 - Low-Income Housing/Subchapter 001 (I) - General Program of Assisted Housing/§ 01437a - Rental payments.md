@@ -2,7 +2,7 @@
 
 #### (a) Families included; rent options; minimum amount; occupancy by police officers and over-income families
 
-(1) Dwelling units assisted under this chapter shall be rented only to families who are low-income families at the time of their initial occupancy of such units. Reviews of family income shall be made at least annually; except that, in the case of any family with a fixed income, as defined by the Secretary, after the initial review of the family's income, the public housing agency or owner shall not be required to conduct a review of the family's income for any year for which such family certifies, in accordance with such requirements as the Secretary shall establish, which shall include policies to adjust for inflation-based income changes, that 90 percent or more of the income of the family consists of fixed income, and that the sources of such income have not changed since the previous year, except that the public housing agency or owner shall conduct a review of each such family's income not less than once every 3 years. Except as provided in paragraph (2) and subject to the requirement under paragraph (3), a family shall pay as rent for a dwelling unit assisted under this chapter (other than a family assisted under section 1437f(o) or (y) of this title or paying rent under section 1437f(c)(3)(B) <sup>1</sup> of this title) the highest of the following amounts, rounded to the nearest dollar:
+(1) Dwelling units assisted under this chapter shall be rented only to families who are low-income families at the time of their initial occupancy of such units. Reviews of family income shall be made at least annually; except that, inthe case of any family with a fixed income, as defined by the Secretary, after the initial review of the family's income, the public housing agency or owner shall not be required to conduct a review of the family's income for any year for which such family certifies, in accordance with such requirements as the Secretary shall establish, which shall include policies to adjust for inflation-based income changes, that 90 percent or more of the income of the family consists of fixed income, and that the sources of such income have not changed since the previous year, except that the public housing agency or owner shall conduct a review of each such family's income not less than once every 3 years. Except as provided in paragraph (2) and subject to the requirement under paragraph (3), a family shall pay as rent for a dwelling unit assisted under this chapter (other than a family assisted under section 1437f(o) or (y) of this title or paying rent under section 1437f(c)(3)(B) <sup>1</sup> of this title) the highest of the following amounts, rounded to the nearest dollar:
 
 &emsp;(A) 30 per centum of the family's monthly adjusted income;
 
@@ -24,7 +24,7 @@ In general.—A family residing in a public housing dwelling shall pay as monthl
 
 &emsp;&emsp;(ii)
 
-Authority to retain flat and ceiling rents.—Notwithstanding clause (i) or any other provision of law, any public housing agency that is administering flat rents or ceiling rents pursuant to any authority referred to in section 519(d) of the Quality Housing and Work Responsibility Act of 1998 before the effective day of such Act may continue to charge rent in accordance with such rent provisions after such effective date, except that the agency shall provide for families residing in public housing dwelling units owned or operated by the agency to elect annually whether to pay rent under such provisions or in accordance with one ofthe rent options referred to in subparagraph (A).
+Authority to retain flat and ceiling rents.—Notwithstanding clause (i) or any other provision of law, any public housing agency that is administering flat rents or ceiling rents pursuant to any authority referred to in section 519(d) of the Quality Housing and Work Responsibility Act of 1998 before the effective day of such Act may continue to charge rent in accordance with such rent provisions after such effective date, except that the agency shall provide for families residing in public housing dwelling units owned or operated by the agency to elect annually whether to pay rent under such provisions or in accordance with one of the rent options referred to in subparagraph (A).
 
 &emsp;(B)
 
@@ -90,7 +90,7 @@ Requirement.—Notwithstanding paragraph (1) of this subsection, the method for 
 
 &emsp;&emsp;&emsp;(II) each family who is assisted under the certificate or moderate rehabilitation program under section 1437f of this title; and
 
-&emsp;&emsp;&emsp;(III) each family who is assisted under the voucher program under section 1437f ofthis title, and the agency shall reduce the monthly assistance payment on behalf of such family as may be necessary to ensure payment of such minimum monthly rental amount.
+&emsp;&emsp;&emsp;(III) each family who is assisted under the voucher program under section 1437f of this title, and the agency shall reduce the monthly assistance payment on behalf of such family as may be necessary to ensure payment of such minimum monthly rental amount.
 
 &emsp;&emsp;(ii) The Secretary shall require each family who is assisted under any other program for rental assistance under section 1437f of this title to pay such minimum monthly rental amount, which amount shall be determined by the Secretary.
 
@@ -236,7 +236,7 @@ Minors, students, and persons with disabilities.—$480 for each member of the f
 
 &emsp;&emsp;(v)
 
-Child support payments.—Any payment made by a member of the family for the support and maintenance of any child who does not reside in the household, except that the amount excluded under this clause may not exceed $480 for each child for whom such payment is made; except that this clause shall apply only to the extent approved in appropriations Acts.
+Child support payments.—Any payment made by a member of the family for the support and maintenance of any child who does not reside in the household, except that the amount excluded under this clause may not exceed $480 for each child for whom such payment is made; except that thisclause shall apply only to the extent approved in appropriations Acts.
 
 &emsp;&emsp;(vi)
 
@@ -326,7 +326,7 @@ Operating fund.—The term "Operating Fund" means the fund established under sec
 
 When used in reference to public housing:
 
-(1) The term "development" means any or all undertakings necessary for planning, land acquisition, demolition, construction, or equipment, in connection with a low-income housing project. The term "development cost" comprises the costs incurred by a public housing agency in such undertakings and their necessary financing (including the payment of carrying charges), and in otherwise carrying out the development of such project, but does not include the costs associated with the demolition of or remediation of environmental hazards associated with public housing units that will not be replaced on the project site, or other extraordinary site costs as determined by the Secretary. Construction activity in connection with a low-income housing project may be confined to the reconstruction, remodeling, or repair of existing buildings.
+(1) The term "development" means any or all undertakings necessary for planning, land acquisition, demolition, construction, or equipment, in connection with a low-income housing project. The term "development cost" comprises the costs incurred by a public housing agency in such undertakings and their necessary financing (including the payment of carrying charges), and in otherwise carrying out the development of such project, but does not include the costsassociated with the demolition of or remediation of environmental hazards associated with public housing units that will not be replaced on the project site, or other extraordinary site costs as determined by the Secretary. Construction activity in connection with a low-income housing project may be confined to the reconstruction, remodeling, or repair of existing buildings.
 
 (2) The term "operation" means any or all undertakings appropriate for management, operation, services, maintenance, security (including the cost of security personnel), or financing in connection with a low-income housing project. The term also means the financing of tenant programs and services for families residing in low-income housing projects, particularly where there is maximum feasible participation of the tenants in the development and operation of such tenant programs and services. As used in this paragraph, the term "tenant programs and services" includes the development and maintenance of tenant organizations which participate in the management of low-income housing projects; the training of tenants to manage and operate such projects and the utilization of their services in project management and operation; counseling on household management, housekeeping, budgeting, money management, child care, and similar matters; advice as to resources for job training and placement, education, welfare, health, and other community services; services which are directly related to meeting tenant needs and providing a wholesome living environment; and referral to appropriate agencies in the community when necessary for the provision of such services. To the maximum extent available and appropriate, existing public and private agencies in the community shall be used for the provision of such services.
 
@@ -344,7 +344,7 @@ When used in reference to public housing:
 
 #### (2) Phase-in of rent increases
 
-&emsp;Upon the expiration of the 12-month period referred to in paragraph (1), the rent payableby a family described in paragraph (3) may be increased due to the continued employment of the family member described in paragraph (3)(B), except that during the 12-month period beginning upon such expiration the amount of the increase may not be greater than 50 percent of the amount of the total rent increase that would be applicable but for this paragraph.
+&emsp;Upon the expiration of the 12-month period referred to in paragraph (1), the rent payable by a family described in paragraph (3) may be increased due to the continued employment of the family member described in paragraph (3)(B), except that during the 12-month period beginning upon such expiration the amount of the increase may not be greater than 50 percent of the amount of the total rent increase that would be applicable but for this paragraph.
 
 #### (3) Eligible families
 
@@ -454,7 +454,7 @@ When used in reference to public housing:
 
 &emsp;<i>"(A)</i>
 
-<i>Use of current year income.—In determining family income for initial occupancy or provision of housing assistance pursuant to clause (i) of paragraph (6)(A) or pursuant to reviews pursuant to clause (iii) or (iv) of such paragraph, a public housing agency or owner shall use the income of the family as estimated by the agency or owner for the upcoming year.</i>
+<i>Use of current year income.—In determining family income for initial occupancy or</i><i>provision of housing assistance pursuant to clause (i) of paragraph (6)(A) or pursuant to reviews pursuant to clause (iii) or (iv) of such paragraph, a public housing agency or owner shall use the income of the family as estimated by the agency or owner for the upcoming year.</i>
 
 &emsp;<i>"(B)</i>
 
@@ -480,7 +480,7 @@ When used in reference to public housing:
 
 <i>"(4)</i>
 
-<i>Income.—The term 'income' means, with respect to a family, income received from all sources</i><i>by each member of the household who is 18 years of age or older or is the head of household or spouse of the head of the household, plus unearned income by or on behalf of each dependent who is less than 18 years of age, as determined in accordance with criteria prescribed by the Secretary, in consultation with the Secretary of Agriculture, subject to the following requirements:</i>
+<i>Income.—The term 'income' means, with respect to a family, income received from all sources by each member of the household who is 18 years of age or older or is the head of household or spouse of the head of the household, plus unearned income by or on behalf of each dependent who is less than 18 years of age, as determined in accordance with criteria prescribed by the Secretary, in consultation with the Secretary of Agriculture, subject to the following requirements:</i>
 
 &emsp;<i>"(A)</i>
 
@@ -530,7 +530,7 @@ When used in reference to public housing:
 
 &emsp;<i>"(B)</i>
 
-<i>Minors, students, and persons with disabilities.—$480 for each member of the family residing in the household (other than the head of the household or his or her spouse) who is less than 18 years of age or is attending school or vocational training on a full-time basis, or who is 18 years of age or older and is a person with disabilities.</i>
+<i>Minors, students, and persons with disabilities.—$480 for each member of the family residing in the household (other than the head of the household or his or her spouse) who is less</i><i>than 18 years of age or is attending school or vocational training on a full-time basis, or who is 18 years of age or older and is a person with disabilities.</i>
 
 &emsp;<i>"(C)</i>
 
@@ -557,6 +557,8 @@ When used in reference to public housing:
 <i>(4) by redesignating subsection (f) as subsection (d).</i>
 
 <i>See 2016 Amendment notes below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -600,7 +602,7 @@ Subsec. (b)(4), (5). Pub. L. 114–201, §102(c), added pars. (4) and (5) and st
 
 Subsecs. (d) to (f). Pub. L. 114–201, §102(a)(2), (3), redesignated subsec. (f) as (d) and struck out former subsecs. (d) and (e) which related to disallowance of earned income from rent determinations and individual savings accounts, respectively.
 
-<b>2015</b>—Subsec. (a)(1). Pub. L. 114–94 inserted before period at end of second sentence "; except that, in the case of any family with a fixed income, as defined by the Secretary, after the initial review of the family's income, the public housing agency or owner shall not be required to conduct a review of the family's income for any year for which such family certifies, in accordance with such requirements as the Secretary shall establish, which shall include policies to adjust for inflation-based income changes, that 90 percent or more of the income of the family consists of fixed income, and that the sources of such income have not changed since the previous year, except that the public housing agency or owner shall conduct a review of each such family's income not less than once every 3 years".
+<b>2015</b>—Subsec. (a)(1). Pub. L. 114–94 inserted before period at end of second sentence "; except that, in the case of any family with a fixed income, as defined by the Secretary, after the initial review of the family's income, the public housing agency or owner shall not be required to conduct a review of the family's income for any year for which such family certifies, in accordance with such requirements as the Secretary shall establish, which shall include policies to adjust for inflation-based income changes, that 90 percent or more ofthe income of the family consists of fixed income, and that the sources of such income have not changed since the previous year, except that the public housing agency or owner shall conduct a review of each such family's income not less than once every 3 years".
 
 <b>2014</b>—Subsec. (a)(2)(B)(i). Pub. L. 113–235, §238(3), substituted "If" for "Public housing agencies must comply by June 1, 2014, with the requirement of this clause, except that if" in concluding provisions.
 
@@ -634,7 +636,7 @@ Subsec. (a)(4), (5). Pub. L. 105–276, §524(a), added pars. (4) and (5).
 
 Subsec. (b)(1). Pub. L. 105–276, §506(1), inserted after second sentence "The term 'public housing' includes dwelling units in a mixed finance project that are assisted by a public housing agency with capital or operating assistance."
 
-Subsec. (b)(2). Pub. L. 105–276, §508(c)(1), substituted "limits for Westchester and Rockland Counties" for "limits for Westchester County", inserted "each" before "such county", substituted "include Westchester or Rockland Counties" for "include Westchester County" and "included Westchester and Rockland Counties" for "included Westchester County", and inserted at end"In determining areas that are designated as difficult development areas for purposes of the low-income housing tax credit, the Secretary shall include Westchester and Rockland Counties, New York, in the New York City metropolitan area."
+Subsec. (b)(2). Pub. L. 105–276, §508(c)(1), substituted "limits for Westchester and Rockland Counties" for "limits for Westchester County", inserted "each" before "such county", substituted "include Westchester or Rockland Counties" for "include Westchester County" and "included Westchester and Rockland Counties" for "included Westchester County", and inserted at end "In determining areas that are designated as difficult development areas for purposes of the low-income housing tax credit, the Secretary shall include Westchester and Rockland Counties, New York, in the New York City metropolitan area."
 
 Subsec. (b)(3)(A). Pub. L. 105–276, §506(2)(A), struck out at end "In determining priority for admission to housing under this chapter, the Secretary shall give preference to single persons who are elderly, disabled, or displaced persons before single persons who are eligible under clause (v) of the first sentence."
 
@@ -790,7 +792,7 @@ Subsec. (b)(5)(C). Pub. L. 98–479, §102(b)(3), designated existing provision 
 
 <b>1983</b>—Subsec. (a). Pub. L. 98–181, §206(a), in provisions preceding par. (1), inserted provision requiring annual review of family income, and inserted "(other than a family assisted under section 1437f(o) of this title)".
 
-Subsec. (b)(2). Pub. L. 98–181, §206(b), qualified the term "very low-income families" in authorizing the Secretary to establish, where necessary, variations inincome ceilings higher or lower than 50 per centum of the median for the area.
+Subsec. (b)(2). Pub. L. 98–181, §206(b), qualified the term "very low-income families" in authorizing the Secretary to establish, where necessary, variations in income ceilings higher or lower than 50 per centum of the median for the area.
 
 Subsec. (b)(3). Pub. L. 98–181, §202, inserted provision at end of par. (3) authorizing increase from 15 to 30 per centum in the single person occupancy limitation for nonoccupancy of the involved dwelling units.
 
@@ -803,6 +805,8 @@ Subsec. (b)(5). Pub. L. 98–181, §206(c), amended par. (5) generally, substitu
 <b>1978</b>—Par. (2)(D). Pub. L. 95–557 substituted "15 per cent" for "10 per cent".
 
 <b>1976</b>—Par. (2). Pub. L. 94–375 struck out "and" before cl. (C), added cl. (D), and two provisos relating to the percentage of units to be occupied by single persons and the priority to be given to single persons who are elderly, handicapped, or displaced, following cl. (D).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 
@@ -820,7 +824,7 @@ Amendment by title V of Pub. L. 105–276 effective and applicable beginning upo
 
 Pub. L. 105–276, title V, §507(d), Oct. 21, 1998, 112 Stat. 2526, provided that: "The amendments under this section \[amending this section\] are made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\]."
 
-Pub. L. 105–276, title V, §508(c)(2), Oct. 21, 1998, 112 Stat. 2529, provided that: "The amendments made by this paragraph \[probably means this subsection, amending this section\] are made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\]."
+Pub. L. 105–276, title V, §508(c)(2), Oct. 21, 1998, 112 Stat. 2529, provided that: "The amendments made bythis paragraph \[probably means this subsection, amending this section\] are made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\]."
 
 Pub. L. 105–276, title V, §524(b), Oct. 21, 1998, 112 Stat. 2568, provided that: "The amendment made by this paragraph \[probably means this section, amending this section\] is made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\]."
 
@@ -870,7 +874,7 @@ Amendment by Pub. L. 95–557 effective Oct. 1, 1978, see section 206(h) of Pub.
 
 Section effective on such date or dates as the Secretary of Housing and Urban Development shall prescribe, but not later than eighteen months after Aug. 22, 1974, except that all of the provisions of par. (1) shall become effective on the same date, see section 201(b) of Pub. L. 93–383, set out as a note under section 1437 of this title.
 
-The Department of Housing and Urban Development adopted an interim rule, 24 CFR 860.409, Sept. 26, 1975, 40 F.R. 44326, which provided: "The effective date of section 3(1) of the United States Housing Act of 1937, as amended \[par. (1) of this section\], shall be the date that these regulations \[sections 860.401 to 860.409 of Title 24, CFR\] are published in the Federal Register (September 26, 1975)."
+The Department of Housing and Urban Development adopted an interim rule, 24 C.F.R. 860.409, Sept. 26, 1975, 40 F.R. 44326, which provided: "The effective date of section 3(1) of the United States Housing Act of 1937, as amended \[par. (1) of this section\], shall be the date that these regulations \[sections 860.401 to 860.409 of Title 24, C.F.R.\] are published in the Federal Register (September 26, 1975)."
 
 #### Regulations
 
@@ -905,10 +909,6 @@ Pub. L. 105–276, title V, §508(b)(2), Oct. 21, 1998, 112 Stat. 2528, provided
 #### Construction of 2020 Amendment
 
 Pub. L. 116–260, div. Q, title I, §101(j), Dec. 27, 2020, 134 Stat. 2165, provided that: "Nothing in the amendments made by this section \[amending this section, sections 1437f, 1484, 1485, 8013, and 12905 of this title, and section 1701q of Title 12, Banks and Banking\] shall be construed to preempt or limit the applicability of any State or local law relating to the installation and maintenance of carbon monoxide alarms or detectors in housing that requires standards that are more stringent than the standards described in the amendments made by this section."
-
-#### Termination of Trust Territory of the Pacific Islands
-
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
 #### Carbon Monoxide Alarms or Detectors in Federally Assisted Housing
 
@@ -1077,6 +1077,12 @@ Prior provisions for determining rent payable by tenants occupying assisted hous
 #### Establishment of Increased Monthly Rental Charge for Family Occupying Low-Income Housing Unit; Adjustment Factors
 
 Pub. L. 93–383, title II, §202, Aug. 22, 1974, 88 Stat. 667, provided that: "To the extent that section 3(1) of the United States Housing Act of 1937, as amended by section 201(a) of this Act \[par. (1) of this section\], would require the establishment of an increased monthly rental charge for any family which occupies a low-income housing unit as of the effective date of such section 3(1) (other than by reason of the provisions relating to welfare assistance payments) \[see Effective Date note set out above\], the required adjustment shall be made, in accordance with regulations of the Secretary, as follows: (A) the first adjustment shall not exceed $5 and shall become effective as of the month following the month of the first review of the family's income pursuant to section 6(c)(2) of such Act \[section 1437d(c)(2) of this title\] which occurs at least six months after the effective date of such section 3(1), and (B) subsequent adjustments, each of which shall not exceed $5, shall be made at six-month intervals over whatever period is necessary to effect the full required increase in the family's rental charge."
+
+#### <b>Executive Documents</b>
+
+#### Termination of Trust Territory of the Pacific Islands
+
+For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -6,7 +6,7 @@
 
 (2) The Chairman of the Commission shall be the principal executive officer of the Commission, and he shall exercise all of the executive and administrative functions of the Commission, including functions of the Commission with respect to (a) the appointment and supervision of personnel employed under the Commission (other than personnel employed regularly and full time in the immediate offices of commissioners other than the Chairman, and except as otherwise provided in this chapter), (b) the distribution of business among such personnel and among administrative units of the Commission, and (c) the use and expenditure of funds.
 
-(3) In carrying out any of his functions under the provisions of this section the Chairman shall be governed by general policies of the Commission and by such regulatory decisions, findings, and determinations as the Commission may by law be authorized to make.
+(3) In carrying out any of his functions under the provisions of this section the Chairman shall be governed by general policies of the Commission and by such regulatory decisions, findings,and determinations as the Commission may by law be authorized to make.
 
 (4) The appointment by the Chairman of the heads of major administrative units under the Commission shall be subject to the approval of the Commission.
 
@@ -44,6 +44,8 @@ In addition to other functions and personnel transferred to the Commission, ther
 
 (Pub. L. 93–438, title II, §201, Oct. 11, 1974, 88 Stat. 1242; Pub. L. 94–79, title II, §§201–203, Aug. 9, 1975, 89 Stat. 413, 414; Pub. L. 95–209, §2, Dec. 13, 1977, 91 Stat. 1482; Pub. L. 99–386, title I, §109, Aug. 22, 1986, 100 Stat. 822.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a)(2) and (g)(2), was in the original "the Energy Reorganization Act of 1974", and "this Act", respectively, meaning Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, as amended, which enacted this chapter, amended sections 5313 to 5316 of Title 5, Government Organization and Employees, repealed sections 2031 and 2032 of this title, and enacted provisions set out as notes under section 5801 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
@@ -60,9 +62,9 @@ The Atomic Energy Act of 1954, as amended, referred to in subsec. (g), is act Au
 
 Subsec. (c). Pub. L. 94–79, §§202, 203, provided for appointment for remainder of term where vacancy occurs prior to expiration of term of predecessor appointee and designated July 1, 1975, as commencement date of initial appointees for purpose of determining expiration date of terms of office.
 
-#### Transfer of Functions
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
-For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg. Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out below.
+#### Transfer of Functions
 
 Energy Research and Development Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of this title.
 
@@ -154,7 +156,7 @@ Pub. L. 97–415, §13, Jan. 4, 1983, 96 Stat. 2074, provided that:
 
 &emsp;"(5) conditioning the issuance of construction permits for commercial nuclear powerplants on the permittee entering into contracts or other arrangements with an independent inspector to audit the quality assurance program to verify quality assurance performance.
 
-> For purposes of paragraph (5), the term 'independent inspector' means a person or other entity having no responsibility for the design or construction of the plant involved. The study shall also include an analysis ofquality assurance and quality control programs at representative sites at which such programs are operating satisfactorily and an assessment of the reasons therefor.
+> For purposes of paragraph (5), the term 'independent inspector' means a person or other entity having no responsibility for the design or construction of the plant involved. The study shall also include an analysis of quality assurance and quality control programs at representative sites at which such programs are operating satisfactorily and an assessment of the reasons therefor.
 
 "(c) For purposes of—
 
@@ -177,6 +179,12 @@ Pub. L. 95–601, §7, Nov. 6, 1978, 92 Stat. 2950, directed Commission to under
 #### Plutonium Shipments Restrictions
 
 Pub. L. 94–79, title II, §201, Aug. 9, 1975, 89 Stat. 413, provided in part that: "The Nuclear Regulatory Commission shall not license any shipments by air transport of plutonium in any form, whether exports, imports or domestic shipments: <i>Provided, however</i>, That any plutonium in any form contained in a medical device designed for individual human application is not subject to this restriction. This restriction shall be in force until the Nuclear Regulatory Commission has certified to the Joint Committee on Atomic Energy of the Congress that a safe container has been developed and tested which will not rupture under crash and blast-testing equivalent to the crash and explosion of a high-flying aircraft."
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg. Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out below.
 
 #### <b>REORGANIZATION PLAN NO. 1 OF 1980</b>
 
@@ -224,7 +232,7 @@ Section 1. (a) Those functions of the Nuclear Regulatory Commission, hereinafter
 
 &emsp;(v) Director of Standards Development.
 
-(3) The Chairman or a member of the Commission shall initiate the appointment of the Members of theAdvisory Committee on Reactor Safeguards, subject to the approval of the Commission. The provisions for appointment of the Chairman of the Advisory Committee on Reactor Safeguards and the term of the members shall not be affected by the provisions of this Reorganization Plan.
+(3) The Chairman or a member of the Commission shall initiate the appointment of the Members of the Advisory Committee on Reactor Safeguards, subject to the approval of the Commission. The provisions for appointment of the Chairman of the Advisory Committee on Reactor Safeguards and the term of the members shall not be affected by the provisions of this Reorganization Plan.
 
 (4) The Commission shall delegate the function of appointing, removing and supervising the staff of the following offices or successor offices to the respective heads of such offices: General Counsel, Secretary of the Commission, Office of Policy Evaluation, Office of Inspector and Auditor. The Commission shall delegate the functions of appointing, removing and supervising the staff of the following panels and committee to the respective Chairmen thereof: Atomic Safety and Licensing Board Panel, Atomic Safety and Licensing Appeal Panel and Advisory Committee on Reactor Safeguards.
 
@@ -266,7 +274,7 @@ Sec. 4. (a) The Chairman may make such delegations and provide for such reportin
 
 (c) The function of the Directors of Nuclear Reactor Regulations, Nuclear Material Safety and Safeguards, and Nuclear Regulatory Research of reporting directly to the Commission is hereby transferred so that such officers report to the Executive Director for Operations. The function of receiving such reports is hereby transferred from the Commission to the Executive Director for Operations.
 
-(d) The heads of the Commission level offices or successor offices, of General Counsel, Secretary to the Commission, Office of Policy Evaluation, Office of Inspector and Auditor, the Atomic Safety and Licensing Board Panel and Appeal Panel, and Advisory Committee on Reactor Safeguards shall continue to report directly to the Commission and the Commission shall continue to receive such reports.
+(d) The heads of the Commission level offices or successor offices, of General Counsel, Secretary to the Commission, Office of Policy Evaluation, Office of Inspector and Auditor, the Atomic Safety and Licensing Board Panel and Appeal Panel, and Advisory Committee on Reactor Safeguards shall continue to reportdirectly to the Commission and the Commission shall continue to receive such reports.
 
 Sec. 5. The provisions of this Reorganization Plan shall take effect October 1, 1980, or at such earlier time or times as the President shall specify, but no sooner than the earliest time allowable under Section 906 of Title 5 of the United States Code.
 
@@ -308,7 +316,7 @@ Under the Plan, the Chairman would act as the principal executive officer and sp
 
 #### emergency management
 
-The Nuclear Regulatory Commission's ability to respond decisively and responsibly to any nuclear emergency must be fully ensured in advance. Experience has shown that the Commission as a whole cannot deal expeditiously with emergencies or communicate in a clear, unified voice to civil authorities or to the public. But present law prevents the Commission from delegating its emergency authority to one of its members. The Plan would correct this situation by specifically authorizing the Chairman to act for the Commission in an emergency. In order to ensure flexibility, the Chairman would be permitted to delegate his authority to deal with a particular emergency to any other Commissioner. Plans for dealing with various contingencies would be approved by the Commission in advance. The Commission would also receive a report from the Chairman or his designee describing the management of the emergency once it was over.
+The Nuclear Regulatory Commission's ability to respond decisively and responsibly to any nuclear emergency must be fully ensured in advance. Experience has shown that the Commission as a whole cannot deal expeditiously with emergencies or communicate in a clear, unified voice to civil authorities or to the public. But present law prevents the Commission from delegating its emergency authority to one of its members. The Plan would correct this situation by specifically authorizing the Chairman to act for the Commission in an emergency. In order to ensure flexibility, the Chairman would be permitted to delegate his authority todeal with a particular emergency to any other Commissioner. Plans for dealing with various contingencies would be approved by the Commission in advance. The Commission would also receive a report from the Chairman or his designee describing the management of the emergency once it was over.
 
 #### actions not included in this plan
 

@@ -30,6 +30,8 @@ The multistate economic issues referred to in subsection (a) shall include—
 
 (Pub. L. 87–128, title III, §383C, as added Pub. L. 110–234, title VI, §6026(c)(1)(B), May 22, 2008, 122 Stat. 1178, and Pub. L. 110–246, §4(a), title VI, §6026(c)(1)(B), June 18, 2008, 122 Stat. 1664, 1940.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
@@ -37,6 +39,8 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 #### Prior Provisions
 
 A prior section 383C of Pub. L. 87–128, title III, was renumbered section 383D and is classified to section 2009bb–2 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

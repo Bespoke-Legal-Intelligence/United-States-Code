@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) may bring an action in a United States district court to seek, and the court shall have jurisdiction to impose, a civil penalty to be paid by the person who committed such violation; and
 
-&emsp;&emsp;(B) may, subject to subsection (b)(1), bring an action in a United States district court toseek, and the court shall have jurisdiction to impose, a civil penalty to be paid by a person who, at the time of the violation, directly or indirectly controlled the person who committed such violation.
+&emsp;&emsp;(B) may, subject to subsection (b)(1), bring an action in a United States district court to seek, and the court shall have jurisdiction to impose, a civil penalty to be paid by a person who, at the time of the violation, directly or indirectly controlled the person who committed such violation.
 
 #### (2) Amount of penalty for person who committed violation
 
@@ -124,6 +124,8 @@ An individual described in section 101(f) of the Ethics in Government Act of 197
 
 (June 6, 1934, ch. 404, title I, §21A, as added Pub. L. 100–704, §3(a)(2), Nov. 19, 1988, 102 Stat. 4677; amended Pub. L. 101–429, title II, §202(b), Oct. 15, 1990, 104 Stat. 938; Pub. L. 106–554, §1(a)(5) \[title II, §205(a)(4), title III, §303(k), (l)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–426, 2763A–456, 2763A–457; Pub. L. 107–204, title III, §308(d)(2), July 30, 2002, 116 Stat. 785; Pub. L. 111–203, title VII, §762(d)(7), title IX, §923(b)(2), July 21, 2010, 124 Stat. 1761, 1850; Pub. L. 112–105, §§4(b)(2), 9(b)(2)(B), 12, Apr. 4, 2012, 126 Stat. 292, 297, 300.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a) and (d)(4), (5), was in the original "this title", and this chapter, referred to in subsecs. (g)(1) and (h)(1), was in the original "this Act". See References in Text note set out under section 78a of this title.
@@ -146,7 +148,7 @@ Subsec. (i). Pub. L. 112–105, §12, added subsec (i).
 
 <b>2010</b>—Subsec. (a)(1). Pub. L. 111–203, §762(d)(7)(A), struck out "(as defined in section 206B of the Gramm-Leach-Bliley Act)" after "security-based swap agreement" in introductory provisions.
 
-Subsec. (d)(1). Pub. L. 111–203, §923(b)(2)(A), struck out "(subject to subsection (e) of this section)" after "shall" and inserted "and section 78u–6 of this title" after "section 7246 of this title".
+Subsec. (d)(1). Pub. L. 111–203, §923(b)(2)(A), struck out "(subject to subsection (e) of this section)" after"shall" and inserted "and section 78u–6 of this title" after "section 7246 of this title".
 
 Subsec. (e). Pub. L. 111–203, §923(b)(2)(B), (C), redesignated subsec. (f) as (e) and struck out former subsec. (e). Prior to amendment, text of subsec. (e) read as follows: "Notwithstanding the provisions of subsection (d)(1) of this section, there shall be paid from amounts imposed as a penalty under this section and recovered by the Commission or the Attorney General, such sums, not to exceed 10 percent of such amounts, as the Commission deems appropriate, to the person or persons who provide information leading to the imposition of such penalty. Any determinations under this subsection, including whether, to whom, or in what amount to make payments, shall be in the sole discretion of the Commission, except that no such payment shall be made to any member, officer, or employee of any appropriate regulatory agency, the Department of Justice, or a self-regulatory organization. Any such determination shall be final and not subject to judicial review."
 
@@ -165,6 +167,8 @@ Pub. L. 106–554, §1(a)(5) \[title II, §205(a)(4)\], substituted "standardize
 Subsec. (g). Pub. L. 106–554, §1(a)(5) \[title III, §303(l)\], added subsec. (g).
 
 <b>1990</b>—Pub. L. 101–429 inserted "for insider trading" in section catchline.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

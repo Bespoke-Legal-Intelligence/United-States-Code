@@ -20,7 +20,7 @@ There is established within the Department a Homeland Security Science and Techn
 
 #### (2) National Research Council
 
-&emsp;The Under Secretary for Science and Technology may enter into an arrangement for the National Research Council to select members of the Advisory Committee, but only if the panel used by the National Research Council reflects the representation described in paragraph (1).
+&emsp;The Under Secretary for Science and Technology may enter into an arrangement for theNational Research Council to select members of the Advisory Committee, but only if the panel used by the National Research Council reflects the representation described in paragraph (1).
 
 #### (c) Terms of office
 
@@ -50,7 +50,7 @@ A majority of the members of the Advisory Committee not having a conflict of int
 
 #### (g) Conflict of interest rules
 
-The Advisory Committee shall establish rules for determining when 1 of its members has aconflict of interest in a matter being considered by the Advisory Committee.
+The Advisory Committee shall establish rules for determining when 1 of its members has a conflict of interest in a matter being considered by the Advisory Committee.
 
 #### (h) Reports
 

@@ -4,11 +4,13 @@ During the current fiscal year and thereafter, funds appropriated for constructi
 
 (Pub. L. 103–139, title VIII, §8104, Nov. 11, 1993, 107 Stat. 1463.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified as a note under section 403j of this title prior to editorial reclassification as this section.
 
-Section was enacted as part of the Department of Defense Appropriations Act, 1994, and not as part of the Central Intelligence Agency Act of 1949 which comprises this chapter.
+Section was enacted as part of the Department of Defense Appropriations Act, 1994, and not as part of theCentral Intelligence Agency Act of 1949 which comprises this chapter.
 
 #### Prior Provisions
 

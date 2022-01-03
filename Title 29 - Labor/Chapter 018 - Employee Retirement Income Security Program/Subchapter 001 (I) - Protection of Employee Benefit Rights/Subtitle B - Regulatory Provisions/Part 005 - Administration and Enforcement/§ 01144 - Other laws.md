@@ -66,7 +66,7 @@ Nothing in this subchapter shall be construed to alter, amend, modify, invalidat
 
 #### (e) Automatic contribution arrangements
 
-(1) Notwithstanding any other provision of this section, this subchapter shall supersede anylaw of a State which would directly or indirectly prohibit or restrict the inclusion in any plan of an automatic contribution arrangement. The Secretary may prescribe regulations which would establish minimum standards that such an arrangement would be required to satisfy in order for this subsection to apply in the case of such arrangement.
+(1) Notwithstanding any other provision of this section, this subchapter shall supersede any law of a State which would directly or indirectly prohibit or restrict the inclusion in any plan of an automatic contribution arrangement. The Secretary may prescribe regulations which would establish minimum standards that such an arrangement would be required to satisfy in order for this subsection to apply in the case of such arrangement.
 
 (2) For purposes of this subsection, the term "automatic contribution arrangement" means an arrangement—
 
@@ -110,7 +110,7 @@ Pub. L. 105–200, §401(h)(2)(A)(i), amended directory language of Pub. L. 103�
 
 Pub. L. 104–191 added par. (9).
 
-<b>1993</b>—Subsec. (b)(7). Pub. L. 103–66, §4301(c)(4)(A), as amended by Pub. L. 105–200, §401(h)(1)(A)(i), inserted ", qualified medical child support orders (within the meaning of section 1169(a)(2)(A) of this title), and the provisions of law referred to in section 1169(a)(2)(B)(ii) of this title to the extent enforced by qualified medical child support orders" before period at end.
+<b>1993</b>—Subsec. (b)(7). Pub. L. 103–66, §4301(c)(4)(A), as amended by Pub. L. 105–200, §401(h)(1)(A)(i), inserted ", qualified medical child support orders (within the meaning of section 1169(a)(2)(A) of this title), and theprovisions of law referred to in section 1169(a)(2)(B)(ii) of this title to the extent enforced by qualified medical child support orders" before period at end.
 
 Subsec. (b)(8). Pub. L. 103–66, §4301(c)(4)(B), added par. (8) and struck out former par. (8) which read as follows: "Subsection (a) of this section shall not apply to any State law mandating that an employee benefit plan not include any provision which has the effect of limiting or excluding coverage or payment for any health care for an individual who would otherwise be covered or entitled to benefits or services under the terms of the employee benefit plan, because that individual is provided, or is eligible for, benefits or services pursuant to a plan under title XIX of the Social Security Act, to the extent such law is necessary for the State to be eligible to receive reimbursement under title XIX of that Act."
 

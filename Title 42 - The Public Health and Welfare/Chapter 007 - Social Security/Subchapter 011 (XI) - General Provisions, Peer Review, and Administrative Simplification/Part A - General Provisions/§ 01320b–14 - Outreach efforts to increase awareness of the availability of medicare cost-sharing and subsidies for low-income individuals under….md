@@ -6,7 +6,7 @@
 
 &emsp;The Commissioner of Social Security (in this section referred to as the "Commissioner") shall conduct outreach efforts to—
 
-&emsp;&emsp;(A) identify individuals entitled to benefits under the medicare program under subchapter XVIII who may be eligible for medical assistance for payment of the cost of medicare cost-sharing under the medicaid program pursuant to sections 1396a(a)(10)(E) and 1396u–3 of this title <sup>1</sup> for the transitional assistance under section 1395w–141(f) of thistitle, or for premium and cost-sharing subsidies under section 1395w–114 of this title; and
+&emsp;&emsp;(A) identify individuals entitled to benefits under the medicare program under subchapter XVIII who may be eligible for medical assistance for payment of the cost of medicare cost-sharing under the medicaid program pursuant to sections 1396a(a)(10)(E) and 1396u–3 of this title <sup>1</sup> for the transitional assistance under section 1395w–141(f) of this title, or for premium and cost-sharing subsidies under section 1395w–114 of this title; and
 
 &emsp;&emsp;(B) notify such individuals of the availability of such medical assistance, program, and subsidies under such sections.
 
@@ -46,7 +46,7 @@
 
 &emsp;&emsp;(D) Provide information on how the individual may obtain assistance in completing such application and an application under the Medicare Savings Program, including information on how the individual may contact the State health insurance assistance program (SHIP).
 
-&emsp;&emsp;(E) Make the application described in subparagraph (B) and the information described in subparagraphs (A) and (D) available at local offices of the Social Security Administration.
+&emsp;&emsp;(E) Make the application described in subparagraph (B) and the information described in subparagraphs (A) and (D) available atlocal offices of the Social Security Administration.
 
 #### (2) Training personnel in explaining benefit programs and assisting in completing LIS application
 
@@ -66,7 +66,7 @@
 
 #### (i) Initial Medicare Savings Program costs
 
-&emsp;&emsp;&emsp;There are hereby appropriated to the Commissioner to carry out this subsection, out of any funds in the Treasury not otherwise appropriated, $24,100,000. The amountappropriated under ths <sup>2</sup> clause shall be available on October 1, 2008, and shall remain available until expended.
+&emsp;&emsp;&emsp;There are hereby appropriated to the Commissioner to carry out this subsection, out of any funds in the Treasury not otherwise appropriated, $24,100,000. The amount appropriated under ths <sup>2</sup> clause shall be available on October 1, 2008, and shall remain available until expended.
 
 #### (ii) Additional amount for low-income subsidy activities
 
@@ -112,6 +112,8 @@
 
 (Aug. 14, 1935, ch. 531, title XI, §1144, as added Pub. L. 106–554, §1(a)(6) \[title IX, §911(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–583; amended Pub. L. 108–173, title I, §103(g), Dec. 8, 2003, 117 Stat. 2160; Pub. L. 110–275, title I, §113(a), July 15, 2008, 122 Stat. 2503.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1320b–14, act Aug. 14, 1935, ch. 531, title XI, §1144, as added Pub. L. 103–66, title XIII, §13581(a), Aug. 10, 1993, 107 Stat. 609; Pub. L. 105–34, title XV, §1503(e), Aug. 5, 1997, 111 Stat. 1063, related to Medicare and Medicaid Coverage Data Bank, prior to repeal by Pub. L. 104–226, §1(a), Oct. 2, 1996, 110 Stat. 3033.
@@ -134,13 +136,15 @@ Subsec. (b)(1)(A). Pub. L. 108–173, §103(g)(3)(A), inserted ", for transitio
 
 Subsec. (b)(2). Pub. L. 108–173, §103(g)(3)(B), inserted ", program, and subsidies" after "medical assistance".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
 Pub. L. 110–275, title I, §113(c), July 15, 2008, 122 Stat. 2506, provided that: "Except as otherwise provided, the amendments made by this section \[amending this section and section 1396u–5 of this title\] shall take effect on January 1, 2010."
 
 #### Effective Date
 
-Pub. L. 106–554, §1(a)(6) \[title IX, §911(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–584, provided that: "Theamendments made by subsection (a) \[enacting this section and amending section 1396d of this title\] shall take effect one year after the date of the enactment of this Act \[Dec. 21, 2000\]."
+Pub. L. 106–554, §1(a)(6) \[title IX, §911(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–584, provided that: "The amendments made by subsection (a) \[enacting this section and amending section 1396d of this title\] shall take effect one year after the date of the enactment of this Act \[Dec. 21, 2000\]."
 
 #### GAO Report
 

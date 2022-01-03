@@ -48,7 +48,7 @@ As used in this section—
 
 &emsp;(3) the term "felony" means a criminal offense punishable by death or imprisonment for more than one year;
 
-&emsp;(4) the term "imprisoned" means an individual is confined in or otherwise restricted to a jail-type institution, a half-way house, atreatment facility, or another institution, on a full or part-time basis, pursuant to the sentence imposed as the result of a conviction;
+&emsp;(4) the term "imprisoned" means an individual is confined in or otherwise restricted to a jail-type institution, a half-way house, a treatment facility, or another institution, on a full or part-time basis, pursuant to the sentence imposed as the result of a conviction;
 
 &emsp;(5) the term "misdemeanor" means a criminal offense other than a felony;
 
@@ -62,7 +62,7 @@ As used in this section—
 
 #### References in Text
 
-The Controlled Substances Act, referred to in subsec. (e)(2)(A), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+The Controlled Substances Act, referred to in subsec. (e)(2)(A), is title II of Pub. L. 91–513, Oct. 27, 1970, 84Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
 The Controlled Substances Import and Export Act, referred to in subsec. (e)(2)(A), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, as amended, which is classified principally to subchapter II (§951 et seq.) of chapter 13 of Title 21. For complete classification of this Act to the Code, see Short Title note set out under section 951 of Title 21 and Tables.
 

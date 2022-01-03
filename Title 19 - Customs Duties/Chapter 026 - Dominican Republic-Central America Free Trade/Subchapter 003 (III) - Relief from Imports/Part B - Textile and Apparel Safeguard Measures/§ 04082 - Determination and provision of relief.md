@@ -26,7 +26,7 @@
 
 #### (2) Nature of relief
 
-&emsp;The relief that the President is authorized to provide under this subsection with respect toimports of an article is an increase in the rate of duty imposed on the article to a level that does not exceed the lesser of—
+&emsp;The relief that the President is authorized to provide under this subsection with respect to imports of an article is an increase in the rate of duty imposed on the article to a level that does not exceed the lesser of—
 
 &emsp;&emsp;(A) the column 1 general rate of duty imposed under the HTS on like articles at the time the import relief is provided; or
 
@@ -38,7 +38,9 @@
 
 <i>For termination of section by section 107(d) of Pub. L. 109–53, see Effective and Termination Dates note below.</i>
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective and Termination Dates
 
-Section effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on the date the Agreement ceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as a note under section 4001 of this title.
+Section effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on the date the Agreement ceases to be inforce with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as a note under section 4001 of this title.
 

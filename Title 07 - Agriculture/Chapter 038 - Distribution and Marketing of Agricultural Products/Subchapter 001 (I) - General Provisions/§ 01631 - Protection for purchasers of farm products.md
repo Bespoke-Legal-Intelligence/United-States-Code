@@ -34,7 +34,7 @@ For the purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) arranged within each such product—
 
-&emsp;&emsp;&emsp;&emsp;(I) in alphabetical order according to the last name of the individual debtors, or, in the case of debtors doing businessother than as individuals, the first word in the name of such debtors; and
+&emsp;&emsp;&emsp;&emsp;(I) in alphabetical order according to the last name of the individual debtors, or, in the case of debtors doing business other than as individuals, the first word in the name of such debtors; and
 
 &emsp;&emsp;&emsp;&emsp;(II) in numerical order according to the social security number, or other approved unique identifier, of the individual debtors or, in the case of debtors doing business other than as individuals, the Internal Revenue Service taxpayer identification number, or other approved unique identifier, of such debtors, except that the numerical list containing social security or taxpayer identification numbers may be encrypted for security purposes if the Secretary of State provides a method by which an effective search of the encrypted numbers may be conducted to determine whether the farm product at issue is subject to 1 or more liens; and
 
@@ -94,7 +94,7 @@ For the purposes of this section—
 
 &emsp;&emsp;(G) is accompanied by the requisite filing fee set by the Secretary of State; and
 
-&emsp;&emsp;(H) substantially complies with the requirements of this subparagraph eventhough it contains minor errors that are not seriously misleading.
+&emsp;&emsp;(H) substantially complies with the requirements of this subparagraph even though it contains minor errors that are not seriously misleading.
 
 &emsp;(5) <sup>2</sup> The term "farm product" means an agricultural commodity such as wheat, corn, soybeans, or a species of livestock such as cattle, hogs, sheep, horses, or poultry used or produced in farming operations, or a product of such crop or livestock in its unmanufactured state (such as ginned cotton, wool-clip, maple syrup, milk, and eggs), that is in the possession of a person engaged in farming operations.
 
@@ -160,7 +160,7 @@ What constitutes receipt, as used in this section, shall be determined by the la
 
 #### (g) Commission merchants or selling agents: sales free of or subject to security interest; law governing "receipt"
 
-(1) Except as provided in paragraph (2) and notwithstanding any other provision of Federal, State, or local law, a commission merchant or selling agent who sells, in the ordinary course of business, a farm product for others, shall not be subject to a security interest created by the seller in such farm product even though the security interest is perfected and even though thecommission merchant or selling agent knows of the existence of such interest.
+(1) Except as provided in paragraph (2) and notwithstanding any other provision of Federal, State, or local law, a commission merchant or selling agent who sells, in the ordinary course of business, a farm product for others, shall not be subject to a security interest created by the seller in such farm product even though the security interest is perfected and even though the commission merchant or selling agent knows of the existence of such interest.
 
 (2) A commission merchant or selling agent who sells a farm product for others shall be subject to a security interest created by the seller in such farm product if—
 
@@ -202,7 +202,7 @@ What constitutes receipt, as used in this section, shall be determined by the la
 
 #### (h) Security agreements; identity lists; notice of identity or accounting for proceeds; violations
 
-(1) A security agreement in which a person engaged in farming operations creates a security interest in a farm product may require the person to furnish to the secured party a list of the buyers, commission merchants, and selling agents to or through whom the person engaged in farming operations may sell such farm product.
+(1) A security agreement in which a person engaged in farming operations creates a security interest in a farm product may require the person to furnish to the secured party a list of the buyers, commission merchants, and selling agents to or through whom the person engagedin farming operations may sell such farm product.
 
 (2) If a security agreement contains a provision described in paragraph (1) and such person engaged in farming operations sells the farm product collateral to a buyer or through a commission merchant or selling agent not included on such list, the person engaged in farming operations shall be subject to paragraph (3) unless the person—
 
@@ -222,6 +222,8 @@ This section shall become effective 12 months after December 23, 1985.
 
 (Pub. L. 99–198, title XIII, §1324, Dec. 23, 1985, 99 Stat. 1535; Pub. L. 104–127, title VI, §662, Apr. 4, 1996, 110 Stat. 1107; Pub. L. 107–171, title X, §10604, May 13, 2002, 116 Stat. 512; Pub. L. 108–447, div. A, title VII, §776, Dec. 8, 2004, 118 Stat. 2849; Pub. L. 110–234, title XIV, §14215, May 22, 2008, 122 Stat. 1466; Pub. L. 110–246, §4(a), title XIV, §14215, June 18, 2008, 122 Stat. 1664, 2228.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -230,7 +232,7 @@ Section was enacted as part of the Food Security Act of 1985, and not as part of
 
 #### Amendments
 
-<b>2008</b>—Subsec. (c)(2)(C)(ii)(II). Pub. L. 110–246, §14215(1), inserted ", except that the numerical list containing social security or taxpayer identification numbers may be encrypted for security purposes if the Secretary ofState provides a method by which an effective search of the encrypted numbers may be conducted to determine whether the farm product at issue is subject to 1 or more liens" after "such debtors".
+<b>2008</b>—Subsec. (c)(2)(C)(ii)(II). Pub. L. 110–246, §14215(1), inserted ", except that the numerical list containing social security or taxpayer identification numbers may be encrypted for security purposes if the Secretary of State provides a method by which an effective search of the encrypted numbers may be conducted to determine whether the farm product at issue is subject to 1 or more liens" after "such debtors".
 
 Subsec. (c)(2)(E). Pub. L. 110–246, §14215(2), substituted "subparagraph (C)" for "paragraph (C)", inserted "except that—" after "an interest", and added cls. (i) and (ii) before semicolon at end.
 
@@ -290,9 +292,13 @@ Subsec. (g)(2)(A)(v). Pub. L. 107–171, §10604(c)(4), inserted "contains" befo
 
 Subsec. (c)(4)(B), (C). Pub. L. 104–127, §662(2), inserted "other than in the case of an electronically reproduced copy of the statement," before "is".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Termination of Trust Territory of the Pacific Islands
 

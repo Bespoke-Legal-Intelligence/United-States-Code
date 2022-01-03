@@ -2,7 +2,7 @@
 
 #### (a) Grounds for refusal of services
 
-The Secretary may (for such period, or indefinitely, as the Secretary deems necessary to effectuate the purposes of this chapter) refuse toprovide official inspection or the services related to weighing otherwise available under this chapter with respect to any grain offered for such services, or owned, wholly or in part, by any person if the Secretary determines (1) that the individual (or in case such person is a partnership, any general partner; or in case such person is a corporation, any officer, director, or holder or owner of more than 10 per centum of the voting stock; or in case such person is an unincorporated association or other business entity, any officer or director thereof; or in case of any such business entity, any individual who is otherwise responsibly connected with the business) has knowingly committed any violation of section 87b of this title, or has been convicted of any violation of other Federal law with respect to the handling, weighing, or official inspection of grain, or that official inspection or the services related to weighing have been refused for any of the above-specified causes (for a period which has not expired) to such person, or any other person conducting a business with which the former was, at the time such cause existed, or is responsibly connected; and (2) that providing such service with respect to such grain would be inimical to the integrity of the service.
+The Secretary may (for such period, or indefinitely, as the Secretary deems necessary to effectuate the purposes of this chapter) refuse to provide official inspection or the services related to weighing otherwise available under this chapter with respect to any grain offered for such services, or owned, wholly or in part, by any person if the Secretary determines (1) that the individual (or in case such person is a partnership, any general partner; or in case such person is a corporation, any officer, director, or holder or owner of more than 10 per centum of the voting stock; or in case such person is an unincorporated association or other business entity, any officer or director thereof; or in case of any such business entity, any individual who is otherwise responsibly connected with the business) has knowingly committed any violation of section 87b of this title, or has been convicted of any violation of other Federal law with respect to the handling, weighing, or official inspection of grain, or that official inspection or the services related to weighing have been refused for any of the above-specified causes (for a period which has not expired) to such person, or any other person conducting a business with which the former was, at the time such cause existed, or is responsibly connected; and (2) that providing such service with respect to such grain would be inimical to the integrity of the service.
 
 #### (b) Persons responsibly connected with a business
 
@@ -10,7 +10,7 @@ For purposes of subsection (a) of this section, a person shall be deemed to be r
 
 #### (c) Civil penalties
 
-In addition to, or in lieu of, penalties provided under section 87c of this title, or in addition to, or in lieu of, refusal of official inspection or services related to weighing in accordance with this section, the Secretary may assess against any person who has knowingly committed any violation of section 87b of this title or has been convicted of any violation of other Federal law with respect to the handling, weighing, or official inspection of grain a civil penalty not to exceed $75,000 for each such violation as the Secretary determines is appropriate to effectuate the objectives stated in section 74 of this title.
+In addition to, or in lieu of, penalties provided under section 87c of this title, or in addition to,or in lieu of, refusal of official inspection or services related to weighing in accordance with this section, the Secretary may assess against any person who has knowingly committed any violation of section 87b of this title or has been convicted of any violation of other Federal law with respect to the handling, weighing, or official inspection of grain a civil penalty not to exceed $75,000 for each such violation as the Secretary determines is appropriate to effectuate the objectives stated in section 74 of this title.
 
 #### (d) Opportunity for hearing; temporary refusal without hearing pending final determination
 
@@ -21,6 +21,8 @@ Before official inspection or services related to weighing is refused to any per
 Moneys received in payment of such civil penalties shall be deposited in the general fund of the United States Treasury. Upon any failure to pay the penalties assessed under this section, the Secretary may request the Attorney General of the United States to institute a civil action to collect the penalties in the appropriate court identified in subsection (h) of section 87f of this title for the jurisdiction in which the respondent is found or resides or transacts business, and such court shall have jurisdiction to hear and decide any such action.
 
 (Aug. 11, 1916, ch. 313, pt. B, §10, 39 Stat. 485; Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 765; Pub. L. 94–582, §12, Oct. 21, 1976, 90 Stat. 2879; Pub. L. 103–156, §12(i), Nov. 24, 1993, 107 Stat. 1528; Pub. L. 103–354, title II, §293(a)(7), Oct. 13, 1994, 108 Stat. 3237.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -41,6 +43,8 @@ Subsec. (d). Pub. L. 94–582 redesignated provisions of former subsec. (c) as (
 Subsec. (e). Pub. L. 94–582 added subsec. (e).
 
 <b>1968</b>—Pub. L. 90–487 substituted provisions authorizing the Secretary to refuse official inspection and affording an opportunity for a hearing in such a case, for provisions setting the penalty for interference with the execution of official duties.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

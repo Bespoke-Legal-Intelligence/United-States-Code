@@ -12,9 +12,13 @@
 
 (Pub. L. 85–804, §3, Aug. 28, 1958, 72 Stat. 972; Pub. L. 89–607, §3, Sept. 27, 1966, 80 Stat. 851.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1966</b>—Subsec. (b). Pub. L. 89–607 provided for exemption of certain contracts with foreign contractors from the requirement for an examination-of-records clause, such determination to be reported to Congress.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Exemption of Functions
 

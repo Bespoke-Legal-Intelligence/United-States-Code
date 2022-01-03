@@ -58,7 +58,7 @@ Any statement, declaration, notification, or disclosure required under this sect
 
 #### (1) In general
 
-&emsp;For purposes of sections 802(52) and 882(c)(6)(B) of this title, the Secretary shallnotify the Attorney General, at such times and in such manner as the Secretary and the Attorney General determine appropriate, of the Indian tribes or tribal organizations with which the Secretary has contracted or compacted under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 5301 et seq.\] for the tribes or tribal organizations to provide pharmacy services.
+&emsp;For purposes of sections 802(52) and 882(c)(6)(B) of this title, the Secretary shall notify the Attorney General, at such times and in such manner as the Secretary and the Attorney General determine appropriate, of the Indian tribes or tribal organizations with which the Secretary has contracted or compacted under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 5301 et seq.\] for the tribes or tribal organizations to provide pharmacy services.
 
 #### (2) Designations
 

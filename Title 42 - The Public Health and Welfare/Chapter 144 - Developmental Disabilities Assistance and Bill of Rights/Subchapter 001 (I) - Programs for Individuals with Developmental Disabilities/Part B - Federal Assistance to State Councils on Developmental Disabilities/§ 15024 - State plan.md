@@ -154,7 +154,7 @@ In order to be approved by the Secretary under this section, a State plan shall 
 
 #### (N) Other assurances
 
-&emsp;&emsp;The plan shall contain such additional information and assurances as the Secretarymay find necessary to carry out the provisions (including the purpose) of this part.
+&emsp;&emsp;The plan shall contain such additional information and assurances as the Secretary may find necessary to carry out the provisions (including the purpose) of this part.
 
 #### (d) Public input and review, submission, and approval
 
@@ -171,6 +171,8 @@ In order to be approved by the Secretary under this section, a State plan shall 
 &emsp;The Secretary shall approve any State plan and, as appropriate, amendments of such plan that comply with the provisions of subsections (a), (b), and (c) and this subsection. The Secretary may take final action to disapprove a State plan after providing reasonable notice and an opportunity for a hearing to the State.
 
 (Pub. L. 106–402, title I, §124, Oct. 30, 2000, 114 Stat. 1696; Pub. L. 108–364, §3(a)(1), Oct. 25, 2004, 118 Stat. 1736.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -66,6 +66,8 @@ Grants made under this subchapter may be used to pay not more than 80 percent of
 
 (Pub. L. 101–501, title IX, §934, Nov. 3, 1990, 104 Stat. 1277; Pub. L. 103–252, title IV, §402(b), May 18, 1994, 108 Stat. 673.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 12339 of this title, referred to in subsecs. (e) and (g)(3), was repealed by Pub. L. 103–252, title IV, §401(b)(1), May 18, 1994, 108 Stat. 672.
@@ -78,9 +80,13 @@ Section 5304 of title 25, referred to in subsec. (f), has been amended, and subs
 
 Subsec. (d). Pub. L. 103–252, §402(b)(2), struck out heading and text of subsec. (d). Text read as follows: "There are authorized to be appropriated to carry out section 12339 of this title, $30,000,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 through 1994."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective Oct. 1, 1990, see section 1001(a) of Pub. L. 101–501, set out as an Effective Date of 1990 Amendment note under section 8621 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Termination of Trust Territory of the Pacific Islands
 

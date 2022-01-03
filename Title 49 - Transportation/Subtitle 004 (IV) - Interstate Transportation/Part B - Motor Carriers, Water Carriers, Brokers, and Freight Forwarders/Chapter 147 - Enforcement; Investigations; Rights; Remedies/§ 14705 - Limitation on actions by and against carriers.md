@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—A carrier providing transportation or service subject to jurisdiction underchapter 135 must begin a civil action to recover charges for transportation or service provided by the carrier within 18 months after the claim accrues.
+In General.—A carrier providing transportation or service subject to jurisdiction under chapter 135 must begin a civil action to recover charges for transportation or service provided by the carrier within 18 months after the claim accrues.
 
 (b)
 
@@ -14,7 +14,7 @@ Damages.—A person must file a complaint with the Board or Secretary, as applic
 
 (d)
 
-Extensions.—The limitation periods under subsection (b) of this section are extended for 6 months from the time written notice is given to the claimant by the carrier of disallowance of any part of the claim specified in the notice if a written claim is given to the carrier within those limitation periods. The limitation periods under subsections (b) and (c) of this section are extended for 90 days from the time the carrier begins a civil action under subsection (a) to recover charges related to the same transportation or service, or collects (without beginning a civil action under that subsection) the charge for that transportation or service if that action is begun or collection is made within the appropriate period.
+Extensions.—The limitation periods under subsection (b) of this section are extended for 6 months from the time written notice is given to the claimant by the carrier of disallowance of any part of the claim specified in the notice if a written claim is given to the carrier within those limitation periods. The limitation periodsunder subsections (b) and (c) of this section are extended for 90 days from the time the carrier begins a civil action under subsection (a) to recover charges related to the same transportation or service, or collects (without beginning a civil action under that subsection) the charge for that transportation or service if that action is begun or collection is made within the appropriate period.
 
 (e)
 
@@ -36,9 +36,13 @@ Accrual Date.—A claim related to a shipment of property accrues under this sec
 
 (Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 907.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 11706 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

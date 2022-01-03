@@ -1,8 +1,10 @@
 ### §313. Duties of Secretary of Commerce
 
-The Secretary of Commerce shall have charge of the forecasting of weather, the issue of storm warnings, the display of weather and flood signals for the benefit of agriculture, commerce, and navigation, the gauging and reporting of rivers, the maintenance and operation of seacoast telegraph lines and the collection and transmission of marine intelligence for the benefit of commerce and navigation, the reporting of temperature and rain-fall conditions for the cotton interests, the display of frost and cold-wave signals, the distribution of meteorological information in the interests of agriculture and commerce, and the taking of such meteorological observations as may be necessary to establish and record the climatic conditions of the United States, or as are essential for the proper execution of the foregoing duties.
+The Secretary of Commerce shall have charge of the forecasting of weather, the issue of stormwarnings, the display of weather and flood signals for the benefit of agriculture, commerce, and navigation, the gauging and reporting of rivers, the maintenance and operation of seacoast telegraph lines and the collection and transmission of marine intelligence for the benefit of commerce and navigation, the reporting of temperature and rain-fall conditions for the cotton interests, the display of frost and cold-wave signals, the distribution of meteorological information in the interests of agriculture and commerce, and the taking of such meteorological observations as may be necessary to establish and record the climatic conditions of the United States, or as are essential for the proper execution of the foregoing duties.
 
 (Oct. 1, 1890, ch. 1266, §3, 26 Stat. 653; May 20, 1926, ch. 344, §5 (e), 44 Stat. 571; June 23, 1938, ch. 601, title XI, §1107(k), 52 Stat. 1029; 1940 Reorg. Plan No. IV, §8, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1236; 1965 Reorg. Plan No. 2, §§1, 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -10,13 +12,11 @@ The Secretary of Commerce shall have charge of the forecasting of weather, the i
 
 <b>1926</b>—Act May 20, 1926, inserted second paragraph relating to duties as to air navigation.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Repeals
 
 Pub. L. 85–726, title XIV, §1401(b), Aug. 23, 1958, 72 Stat. 806, repealed act June 23, 1938, ch. 601, title XI, §1107(k), 52 Stat. 1029, cited to the credit of this section.
-
-#### Transfer of Functions
-
-Office of Chief of Weather Bureau abolished and functions transferred to Secretary of Commerce by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318. Reorg. Plan No. IV of 1940 transferred Weather Bureau from Department of Agriculture to Department of Commerce. For further details, see notes set out under section 311 of this title.
 
 #### Use of Funds for Hurricane Reconnaissance Program
 
@@ -72,7 +72,7 @@ Management Plans.—(1) The Secretary of Defense and the Secretary of Commerce s
 
 "(2) The Secretary of Defense and the Secretary of Commerce, in consultation with the Tropical Cyclone Research Advisory Committee established by section 107(a)(2), shall jointly develop and, within 4 years after the date of enactment of this Act, submit to the Congress a management plan providing for continued tropical cyclone surveillance and reconnaissance which will adequately protect the citizens of the coastal areas of the United States.
 
-"(3) The management plans and programs required by this section shall in every sense provide for at least the same degree and quality of protection (such as early warning capability and accuracy of fixing a storm's location) as currently exists with a combination of satellite technology and manned reconnaissance flights. Additionally, such plans and programs shall in no way allow any reduction in the level, quality, timeliness, sustainability, or area served (including the State of Hawaii) of both the existing principal and back-uptropical cyclone reconnaissance and tracking systems."
+"(3) The management plans and programs required by this section shall in every sense provide for at least the same degree and quality of protection (such as early warning capability and accuracy of fixing a storm's location) as currently exists with a combination of satellite technology and manned reconnaissance flights. Additionally, such plans and programs shall in no way allow any reduction in the level, quality, timeliness, sustainability, or area served (including the State of Hawaii) of both the existing principal and back-up tropical cyclone reconnaissance and tracking systems."
 
 #### United States Weather Research Program
 
@@ -266,7 +266,7 @@ Termination.—The Committee shall terminate on December 31, 1999.
 
 "(a)
 
-Report.—The Secretary shall prepare a report on the proposed modernization of the National WeatherService and transmit the report, not later than 6 months after the date of enactment of this Act \[Oct. 29, 1992\], to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives.
+Report.—The Secretary shall prepare a report on the proposed modernization of the National Weather Service and transmit the report, not later than 6 months after the date of enactment of this Act \[Oct. 29, 1992\], to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives.
 
 "(b)
 
@@ -326,9 +326,15 @@ Act June 16, 1948, ch. 483, 62 Stat. 470, as amended Oct. 19, 1980, Pub. L. 96�
 
 "
 
-Sec. 2. The Chief of the Weather Bureau is empowered to make such expenditures at the seat of government and elsewhere as may be necessary to carry out the purposes of this Act and as from time to time may be appropriated for by Congress, including expendituresfor the development and purchase of special meteorological instruments and other equipment (including motor vehicles and aircraft), without regard to the provisions of section 3709 of the Revised Statutes \[now 41 U.S.C. 6101\]. There is hereby authorized to be appropriated such sums as are necessary for the purpose of carrying out the provisions of this Act.
+Sec. 2. The Chief of the Weather Bureau is empowered to make such expenditures at the seat of government and elsewhere as may be necessary to carry out the purposes of this Act and as from time to time may be appropriated for by Congress, including expenditures for the development and purchase of special meteorological instruments and other equipment (including motor vehicles and aircraft), without regard to the provisions of section 3709 of the Revised Statutes \[now 41 U.S.C. 6101\]. There is hereby authorized to be appropriated such sums as are necessary for the purpose of carrying out the provisions of this Act.
 
 "
 
 Sec. 3. Any executive department or independent establishment is hereby authorized to cooperate with the Chief of the Weather Bureau in carrying out the purposes of this Act, and for such purposes may lend or transfer to the Chief of the Weather Bureau any officer or employee of such department or establishment and any property, equipment, lands, or buildings under its control."
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Office of Chief of Weather Bureau abolished and functions transferred to Secretary of Commerce by Reorg.Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318. Reorg. Plan No. IV of 1940 transferred Weather Bureau from Department of Agriculture to Department of Commerce. For further details, see notes set out under section 311 of this title.
 

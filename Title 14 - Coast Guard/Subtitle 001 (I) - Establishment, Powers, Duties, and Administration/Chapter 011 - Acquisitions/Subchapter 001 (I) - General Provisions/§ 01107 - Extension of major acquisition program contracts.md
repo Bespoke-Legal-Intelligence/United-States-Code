@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Notwithstanding section 1105(a)(2) of this title and section 2304 of title 10, and subject to subsections (b) and (c) of this section, the Secretary may acquire additional units procured under a Coast Guard major acquisition program contract, by extension of such contract without competition, if the Director of the Cost Analysis Division of the Department of Homeland Security determines that the costs that would be saved through award of a new contract in accordance with such sections would not exceed the costs of such an award.
+In General.—Notwithstanding section 1105(a)(2) of this title and section 2304 <sup>1</sup> of title 10, and subject to subsections (b) and (c) of this section, the Secretary may acquire additional units procured under a Coast Guard major acquisition program contract, by extension of such contract without competition, if the Director of the Cost Analysis Division of the Department of Homeland Security determines that the costs that would be saved through award of a new contract in accordance with such sections would not exceed the costs of such an award.
 
 (b)
 
@@ -10,7 +10,7 @@ Limitation on Number of Additional Units.—The number of additional units acqui
 
 (c)
 
-Determination of Costs Upon Request.—The Director of the Cost Analysis Division of the Department of Homeland Security shall, at the request of the Secretary, determine for purposes of this section—
+Determination of Costs Upon Request.—The Director of the Cost Analysis Division ofthe Department of Homeland Security shall, at the request of the Secretary, determine for purposes of this section—
 
 &emsp;(1) the costs that would be saved through award of a new major acquisition program contract in accordance with section 1105(a)(2) for the acquisition of a number of additional units specified by the Secretary; and
 
@@ -24,9 +24,15 @@ Number of Extensions.—A contract may be extended under this section more than 
 
 #### <b>Editorial Notes</b>
 
+#### References in Text
+
+Section 2304 of this title, referred to in subsec. (a), was repealed by Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1881(a), Jan. 1, 2021, 134 Stat. 4151, 4293, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law. Subsecs. (a) to (l) of section 2304 were transferred to various provisions in chapter 221 of this title, with the same effective date and conditions, by Pub. L. 116–283, div. A, title XVIII, §1811(c)(2)–(5), (d)(2)–(9), Jan. 1, 2021, 134 Stat. 4165–4170.
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282, §108(b), renumbered section 579 of this title as this section.
 
 Subsecs. (a), (c)(1). Pub. L. 115–282, §123(b)(2), substituted "section 1105(a)(2)" for "section 564(a)(2)".
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

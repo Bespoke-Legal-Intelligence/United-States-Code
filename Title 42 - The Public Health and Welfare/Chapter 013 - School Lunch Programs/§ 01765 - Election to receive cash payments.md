@@ -6,6 +6,8 @@
 
 (June 4, 1946, ch. 281, §16, as added Pub. L. 94–105, §12, Oct. 7, 1975, 89 Stat. 515; amended Pub. L. 101–147, title III, §309, Nov. 10, 1989, 103 Stat. 915; Pub. L. 105–336, title I, §101(b), Oct. 31, 1998, 112 Stat. 3144.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Child Nutrition Act of 1966, referred to in subsec. (a), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of this title and Tables.
@@ -15,6 +17,8 @@ The Child Nutrition Act of 1966, referred to in subsec. (a), is Pub. L. 89–642
 <b>1998</b>—Subsec. (a). Pub. L. 105–336 substituted "1755(c)" for "1755(e)".
 
 <b>1989</b>—Pub. L. 101–147 inserted "Election to receive cash payments" as section catchline.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

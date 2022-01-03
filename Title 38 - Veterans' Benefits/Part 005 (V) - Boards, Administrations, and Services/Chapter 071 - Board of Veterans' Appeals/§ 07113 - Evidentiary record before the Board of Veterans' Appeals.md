@@ -6,7 +6,7 @@ Cases With No Request for a Hearing or Additional Evidence.—For cases in which
 
 (b)
 
-Cases With a Request for a Hearing.—(1) Except as provided in paragraph (2), for cases in which a hearing is requested in the notice of disagreement, the evidentiary record before the Board shall be limited to the evidence of record at the time of the decision of the agency of original jurisdiction on appeal.
+Cases With a Request for a Hearing.—(1) Except as provided in paragraph (2), for cases inwhich a hearing is requested in the notice of disagreement, the evidentiary record before the Board shall be limited to the evidence of record at the time of the decision of the agency of original jurisdiction on appeal.
 
 (2) The evidentiary record before the Board for cases described in paragraph (1) shall include each of the following, which the Board shall consider in the first instance:
 
@@ -30,5 +30,5 @@ Cases With No Request for a Hearing and With a Request for Additional Evidence.�
 
 #### Effective Date
 
-Section applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decisionunder section 5104 of this title on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as an Effective Date of 2017 Amendment note under section 101 of this title, and bracketed note thereunder.
+Section applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under section 5104 of this title on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as an Effective Date of 2017 Amendment note under section 101 of this title, and bracketed note thereunder.
 

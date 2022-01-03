@@ -18,11 +18,11 @@
 
 &emsp;(A) shall give priority to applicants who will be entering their final year in a course of training;
 
-&emsp;(B) shall give priority to applicants pursuing a course of education or training toward a career in an occupation for which the Inspector General of the Department has, in the most current determination published in the Federal Register pursuant to section 7412(a) of this title, determined that there is one of the largest staffing shortages throughout the Department with respect to such occupation; and
+&emsp;(B) shall give priority to applicants pursuing a course of education or training toward a career in an occupation for which the Inspector General of the Department has, in the mostcurrent determination published in the Federal Register pursuant to section 7412(a) of this title, determined that there is one of the largest staffing shortages throughout the Department with respect to such occupation; and
 
 &emsp;(C) shall ensure an equitable allocation of scholarships to persons enrolled in the second year of a program leading to an associate degree in nursing.
 
-(6)(A) Of the scholarships awarded under this subchapter, the Secretary shall ensure that not less than 50 scholarships are awarded each year to individuals who are accepted for enrollment or enrolled (as described in section 7602 of this title) in a program of education or training leading to employment as a physician or dentistuntil such date as the Secretary determines that the staffing shortage of physicians and dentists in the Department is less than 500.
+(6)(A) Of the scholarships awarded under this subchapter, the Secretary shall ensure that not less than 50 scholarships are awarded each year to individuals who are accepted for enrollment or enrolled (as described in section 7602 of this title) in a program of education or training leading to employment as a physician or dentist until such date as the Secretary determines that the staffing shortage of physicians and dentists in the Department is less than 500.
 
 (B) After such date, the Secretary shall ensure that of the scholarships awarded under this subchapter, a number of scholarships is awarded each year to individuals referred to in subparagraph (A) in an amount equal to not less than ten percent of the staffing shortage of physicians and dentists in the Department, as determined by the Secretary.
 

@@ -52,11 +52,53 @@ In taking action under subsection (b)(1), the Commission shall place on the list
 
 Executive Order No. 13873, referred to in subsec. (c)(2), is Ex. Ord. No. 13873, May 15, 2019, 84 F.R. 22689, which is listed in a table under section 1701 of Title 50, War and National Defense.
 
-Section 889(f)(3) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019, referred to in subsec. (c)(3), is section 889(f)(3) of Pub. L. 115–232, which is set out in a note preceding section 3901 of Title 41, Public Contracts.
+Section 889(f)(3) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019, referredto in subsec. (c)(3), is section 889(f)(3) of Pub. L. 115–232, which is set out in a note preceding section 3901 of Title 41, Public Contracts.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 
 Pub. L. 116–124, §1, Mar. 12, 2020, 134 Stat. 158, provided that: "This Act \[enacting this chapter\] may be cited as the 'Secure and Trusted Communications Networks Act of 2019'."
+
+#### Secure Equipment
+
+Pub. L. 117–55, Nov. 11, 2021, 135 Stat. 423, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the 'Secure Equipment Act of 2021'.
+
+#### "SEC. 2. UPDATES TO EQUIPMENT AUTHORIZATION PROCESS OF FEDERAL COMMUNICATIONS COMMISSION.
+
+"(a)
+
+Rulemaking.—
+
+&emsp;"(1)
+
+In general.—Not later than 1 year after the date of the enactment of this Act \[Nov. 11, 2021\], the Commission shall adopt rules in the proceeding initiated in the Notice of Proposed Rulemaking in the matter of Protecting Against National Security Threats to the Communications Supply Chain through the Equipment Authorization Program (ET Docket No. 21–232; FCC 21–73; adopted June 17, 2021), in accordance with paragraph (2), to update the equipment authorization procedures of the Commission.
+
+&emsp;"(2)
+
+Updates required.—In the rules adopted under paragraph (1), the Commission shall clarify that the Commission will no longer review or approve any application for equipment authorization for equipment that is on the list of covered communications equipment or services published by the Commission under section 2(a) of the Secure and Trusted Communications Networks Act of 2019 (47 U.S.C. 1601(a)).
+
+&emsp;"(3)
+
+Applicability.—
+
+&emsp;&emsp;"(A)
+
+In general.—In the rules adopted under paragraph (1), the Commission may not provide for review or revocation of any equipment authorization granted before the date on which such rules are adopted on the basis of the equipment being on the list described in paragraph (2).
+
+&emsp;&emsp;"(B)
+
+Rule of construction.—Nothing in this section may be construed to prohibit the Commission, other than in the rules adopted under paragraph (1), from—
+
+&emsp;&emsp;&emsp;"(i) examining the necessity of review or revocation of any equipment authorization on the basis of the equipment being on the list described in paragraph (2); or
+
+&emsp;&emsp;&emsp;"(ii) adopting rules providing for any such review or revocation.
+
+"(b)
+
+Definition.—In this section, the term 'Commission' means the Federal Communications Commission."
 

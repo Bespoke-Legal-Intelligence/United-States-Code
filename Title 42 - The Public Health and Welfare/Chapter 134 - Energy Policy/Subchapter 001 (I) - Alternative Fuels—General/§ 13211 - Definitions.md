@@ -46,7 +46,7 @@ Inclusions.—The term "alternative fueled vehicle" includes—
 
 &emsp;&emsp;(B) a motor vehicle, other than an automobile, that operates solely on alternative fuel;
 
-&emsp;(7) the term "domestic" means derived from resources within the several States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, or any other Commonwealth, territory, or possession of theUnited States, including the outer Continental Shelf, as such term is defined in the Outer Continental Shelf Lands Act \[43 U.S.C. 1331 et seq.\], or from resources within a Nation with which there is in effect a free trade agreement requiring national treatment for trade;
+&emsp;(7) the term "domestic" means derived from resources within the several States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, or any other Commonwealth, territory, or possession of the United States, including the outer Continental Shelf, as such term is defined in the Outer Continental Shelf Lands Act \[43 U.S.C. 1331 et seq.\], or from resources within a Nation with which there is in effect a free trade agreement requiring national treatment for trade;
 
 &emsp;(8) the term "dual fueled vehicle" means—
 
@@ -88,7 +88,9 @@ Inclusions.—The term "alternative fueled vehicle" includes—
 
 &emsp;(14) the term "replacement fuel" means the portion of any motor fuel that is methanol, ethanol, or other alcohols, natural gas, liquefied petroleum gas, hydrogen, coal derived liquid fuels, fuels (other than alcohol) derived from biological materials, electricity (including electricity from solar energy), ethers, or any other fuel the Secretary determines, by rule, is substantially not petroleum and would yield substantial energy security benefits and substantial environmental benefits.
 
-(Pub. L. 102–486, title III, §301, Oct. 24, 1992, 106 Stat. 2866; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §122\], Dec. 21, 2000, 114 Stat. 2763, 2763A–229; Pub. L. 109–58, title VII, §707, Aug. 8, 2005, 119 Stat. 818; Pub. L. 110–181, div. B, title XXVIII, §2862, Jan. 28, 2008, 122 Stat. 559.)
+(Pub. L. 102–486, title III, §301, Oct. 24, 1992, 106 Stat. 2866; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §122\], Dec. 21, 2000, 114 Stat. 2763, 2763A–229; Pub. L. 109–58, title VII, §707, Aug. 8, 2005, 119Stat. 818; Pub. L. 110–181, div. B, title XXVIII, §2862, Jan. 28, 2008, 122 Stat. 559.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -2,7 +2,7 @@
 
 As used in this chapter the term—
 
-&emsp;(a) "double criminality" means that at the time of transfer of an offender the offense for which he has been sentenced is still an offense in the transferring country and is also an offense in the receiving country. With regard to a country which has a federal form of government, an act shall be deemed to be an offense in that country if it is an offense under the federal laws or the laws of any state or province thereof;
+&emsp;(a) "double criminality" means that at the time of transfer of an offender the offense for which he has been sentenced is still an offense in the transferring country and is also an offense in the receiving country. With regard to a country which has a federal form of government, an act shall be deemed to be an offensein that country if it is an offense under the federal laws or the laws of any state or province thereof;
 
 &emsp;(b) "imprisonment" means a penalty imposed by a court under which the individual is confined to an institution;
 
@@ -14,7 +14,7 @@ As used in this chapter the term—
 
 &emsp;(d) "juvenile delinquency" means—
 
-&emsp;&emsp;(1) a violation of the laws of the United States or a State thereof or of a foreign country committed by a juvenile whichwould have been a crime if committed by an adult; or
+&emsp;&emsp;(1) a violation of the laws of the United States or a State thereof or of a foreign country committed by a juvenile which would have been a crime if committed by an adult; or
 
 &emsp;&emsp;(2) noncriminal acts committed by a juvenile for which supervision or treatment by juvenile authorities of the United States, a State thereof, or of the foreign country concerned is authorized;
 

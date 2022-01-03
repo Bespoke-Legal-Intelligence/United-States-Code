@@ -2,7 +2,7 @@
 
 (a)
 
-Development and Use of Criteria Required.—The Secretary, in consultation with the Assistant Secretary of Accountability and Whistleblower Protection, shall develop criteria that—
+Development and Use of Criteria Required.—The Secretary, in consultation with the Assistant Secretary of Accountability andWhistleblower Protection, shall develop criteria that—
 
 &emsp;(1) the Secretary shall use as a critical element in any evaluation of the performance of a supervisory employee; and
 

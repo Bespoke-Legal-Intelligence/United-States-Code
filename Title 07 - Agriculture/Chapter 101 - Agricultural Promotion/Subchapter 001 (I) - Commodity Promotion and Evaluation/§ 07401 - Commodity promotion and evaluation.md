@@ -146,11 +146,13 @@ The Secretary shall annually provide to the Committee on Agriculture of the Hous
 
 (Pub. L. 104–127, title V, §501, Apr. 4, 1996, 110 Stat. 1029; Pub. L. 107–171, title X, §10607, May 13, 2002, 116 Stat. 514; Pub. L. 113–79, title X, §10004(d), (e), Feb. 7, 2014, 128 Stat. 942, 943; Pub. L. 113–235, div. A, title VII, §747, Dec. 16, 2014, 128 Stat. 2170.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Public Law 89–502, referred to in subsec. (a)(2), is Pub. L. 89–502, July 13, 1966, 80 Stat. 279, as amended, known as the Cotton Research and Promotion Act, which is classified generally to chapter 53 (§2101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2101 of this title and Tables.
 
-Public Law 91–670, referred to in subsec. (a)(3), is Pub. L. 91–670, Jan. 11, 1971, 84 Stat. 2040, as amended. Title III of Pub. L. 91–670, known as the Potato Research and Promotion Act, is classified generally to chapter 58\(§2611 et seq.) of this title. For complete classification of title III to the Code, see Short Title note set out under section 2611 of this title and Tables.
+Public Law 91–670, referred to in subsec. (a)(3), is Pub. L. 91–670, Jan. 11, 1971, 84 Stat. 2040, as amended. TitleIII of Pub. L. 91–670, known as the Potato Research and Promotion Act, is classified generally to chapter 58 (§2611 et seq.) of this title. For complete classification of title III to the Code, see Short Title note set out under section 2611 of this title and Tables.
 
 Public Law 93–428, referred to in subsec. (a)(4), is Pub. L. 93–428, Oct. 1, 1974, 88 Stat. 1171, as amended, known as the Egg Research and Consumer Information Act, which is classified generally to chapter 60 (§2701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
@@ -181,6 +183,8 @@ Subsec. (f)(1)(C)(ii)(II). Pub. L. 113–235 substituted "a commodity promotion 
 <b>2002</b>—Subsec. (a)(19). Pub. L. 107–171, §10607(b), added par. (19).
 
 Subsec. (e). Pub. L. 107–171, §10607(a), added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

@@ -58,7 +58,7 @@ Strategic Plan To Meet Health Care Demand.—(1) Not later than 1 year after the
 
 &emsp;(C) assess the needs of the Department based on identified services that provide management of conditions or disorders related to military service for which there is limited experience or access in the national market, the overall health of veterans throughout their lifespan, or other services as the Secretary determines appropriate;
 
-&emsp;(D) consult with key stakeholders within the Department, the heads of other Federal agencies, and other relevant governmental and nongovernmental entities, including State,local, and tribal government officials, members of Congress, veterans service organizations, private sector representatives, academics, and other policy experts;
+&emsp;(D) consult with key stakeholders within the Department, the heads of other Federal agencies, and other relevant governmental and nongovernmental entities, including State, local, and tribal government officials, members of Congress, veterans service organizations, private sector representatives, academics, and other policy experts;
 
 &emsp;(E) identify emerging issues, trends, problems, and opportunities that could affect health care services furnished under the laws administered by the Secretary;
 

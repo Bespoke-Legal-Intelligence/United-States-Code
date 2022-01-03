@@ -40,6 +40,8 @@
 
 (Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 817; amended Pub. L. 104–287, §5(24), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 114–110, §11(d), Dec. 18, 2015, 129 Stat. 2234.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 10713 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
@@ -61,6 +63,8 @@ Section 10713, added Pub. L. 96–448, title II, §208(a), Oct. 14, 1980, 94 Sta
 <b>2015</b>—Subsec. (h). Pub. L. 114–110 struck out subsec. (h) which related to certain contracts for the transportation of agricultural commodities.
 
 <b>1996</b>—Subsec. (e). Pub. L. 104–287 substituted "October 1, 1980," for "the effective date of the Staggers Rail Act of 1980".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

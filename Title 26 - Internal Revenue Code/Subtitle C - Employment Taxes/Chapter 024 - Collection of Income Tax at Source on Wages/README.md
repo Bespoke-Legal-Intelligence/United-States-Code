@@ -12,6 +12,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1983</b>—Pub. L. 98–67, title I, §§102(a), 104(d)(4), Aug. 5, 1983, 97 Stat. 369, 380, added item 3406 and repealed amendments made by Pub. L. 97–248. See 1982 Amendment note below.

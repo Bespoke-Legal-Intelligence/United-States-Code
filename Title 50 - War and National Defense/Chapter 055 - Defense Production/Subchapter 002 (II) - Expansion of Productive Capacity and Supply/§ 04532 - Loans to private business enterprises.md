@@ -58,6 +58,8 @@ Loans under this section may be—
 
 <i>For termination of section, see section 4564(a) of this title.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 2092 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
@@ -66,17 +68,21 @@ Section was formerly classified to section 2092 of the former Appendix to this t
 
 A prior section 302 of act Sept. 8, 1950, ch. 932, title III, 64 Stat. 801; June 30, 1952, ch. 530, title I, §104, 66 Stat. 298; Pub. L. 93–155, title VIII, §807(b), Nov. 16, 1973, 87 Stat. 615; Pub. L. 96–294, title I, §104(c), June 30, 1980, 94 Stat. 618; Pub. L. 98–265, §§3(b), 4(b), Apr. 17, 1984, 98 Stat. 149, 151; Pub. L. 102–558, title I, §121(b), Oct. 28, 1992, 106 Stat. 4204, related to loans to private business enterprises, prior to the general amendment of title III of this Act by Pub. L. 111–67.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Increasing Access to Materials Necessary for National Security and Pandemic Recovery
 
 Pub. L. 116–136, div. A, title IV, §4017, Mar. 27, 2020, 134 Stat. 482, provided that: "Notwithstanding any other provision of law—
 
 &emsp;"(1) during the 2-year period beginning on the date of enactment of this Act \[Mar. 27, 2020\], the requirements described in sections 303(a)(6)(C) and 304(e) of the Defense Production Act of 1950 (50 U.S.C. 4533(a)(6)(C), 4534(e)) shall not apply; and
 
-&emsp;"(2) during the 1-year period beginning on the date of enactment of this Act, the requirements described in sections 302(d)(1) and 303(a)(6)(B) of the Defense Production Act of 1950 (50 U.S.C. 4532(d)(1), 4533(a)(6)(B)) shall not apply."
+&emsp;"(2) during the 1-year period beginning on the date of enactment of this Act, the requirements described in sections 302(d)(1) and 303(a)(6)(B) of the DefenseProduction Act of 1950 (50 U.S.C. 4532(d)(1), 4533(a)(6)(B)) shall not apply."
 
 #### Legislative Waiver of Loan Limitations
 
 Requirement described in subsec. (c)(1) of this section waived for the two-year period beginning with Mar. 27, 2020, see provision of title III of div. B of Pub. L. 116–136, set out as a note under section 4531 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

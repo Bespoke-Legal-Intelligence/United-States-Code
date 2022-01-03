@@ -40,9 +40,13 @@ The Trade Representative shall promptly publish in the Federal Register notice o
 
 (Pub. L. 93–618, title III, §307, as added Pub. L. 100–418, title I, §1301(a), Aug. 23, 1988, 102 Stat. 1174; amended Pub. L. 114–125, title VI, §602(b)(4), Feb. 24, 2016, 130 Stat. 184.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Subsec. (c)(3). Pub. L. 114–125 inserted "or if a request is submitted to the Trade Representative under section 2416(c)(2) of this title to reinstate action," after "under section 2411 of this title," in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -60,7 +60,7 @@ In this section:
 
 #### (3) Knowingly
 
-&emsp;The term "knowingly", with respect to conduct, a circumstance, or a result, means thata person has actual knowledge, or should have known, of the conduct, the circumstance, or the result.
+&emsp;The term "knowingly", with respect to conduct, a circumstance, or a result, means that a person has actual knowledge, or should have known, of the conduct, the circumstance, or the result.
 
 (Pub. L. 114–122, title II, §201B, as added Pub. L. 116–92, div. F, title LXXI, §7121(a), Dec. 20, 2019, 133 Stat. 2245.)
 
@@ -68,7 +68,7 @@ In this section:
 
 #### References in Text
 
-The International Emergency Economic Powers Act, referred to in subsec. (b)(1), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (b)(1), is title II of Pub. L. 95–223,Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 #### <b>Executive Documents</b>
 

@@ -54,9 +54,13 @@ To help fulfill the objectives of the Agency Plans, the head of each applicable 
 
 (Pub. L. 116–270, §4, Dec. 31, 2020, 134 Stat. 3327.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 This section was enacted as part of the HBCU Propelling Agency Relationships Towards a New Era of Results for Students Act or the HBCU PARTNERS Act, and not as part of the Higher Education Act of 1965 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Findings and Purposes
 

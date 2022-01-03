@@ -2,7 +2,7 @@
 
 #### (a) "Civilian American citizen" defined
 
-As used in subsections (b) and (f) of this section, the term "civilian American citizen" means any person who, being then a citizen of the United States, was captured by the Imperial Japanese Government on or after December 7, 1941, at Midway, Guam, Wake Island, the Philippine Islands, or any Territory or possession of the United States attacked or invaded by such government, or while in transit to or from any such place, or who went into hiding at any such place in order to avoid capture or internment by such government; except (1) a person who at any time voluntarily gave aid to, collaborated with, or in any manner served such government, or (2) a person who at the time of his capture or entrance into hiding was a regularly appointed, enrolled, enlisted, or inducted member of any military or naval force.
+As used in subsections (b) and (f) of this section, the term "civilian American citizen" means any person who, being then a citizen of the United States, was captured by the Imperial Japanese Government on or after December 7, 1941, at Midway, Guam, Wake Island, the Philippine Islands, or any Territory or possession of the United States attacked or invaded by such government, or while in transit to or from any such place, or who went into hiding at any such place in order to avoid capture or internment by such government; except (1) a person who at any time voluntarily gave aid to, collaborated with, or in any manner served such government, or (2)a person who at the time of his capture or entrance into hiding was a regularly appointed, enrolled, enlisted, or inducted member of any military or naval force.
 
 #### (b) Payment of detention benefits
 
@@ -36,7 +36,7 @@ Any claim allowed by the Commission under this section (except under subsections
 
 &emsp;(A) the average weekly wage of any such civilian American citizen, whether employed, self-employed, or not employed, shall be deemed to have been $37.50;
 
-&emsp;(B) the provisions of such Act \[42 U.S.C. 1701 et seq.\],<sup>1</sup> shall be applicable whether or notany such civilian American citizen was employed;
+&emsp;(B) the provisions of such Act \[42 U.S.C. 1701 et seq.\],<sup>1</sup> shall be applicable whether or not any such civilian American citizen was employed;
 
 &emsp;(C) notice of injury or death shall not be required; and limitation provisions with respect to the filing of claims for injury, disability, or death shall not begin to run until July 3, 1948; and
 
@@ -52,7 +52,7 @@ Any claim allowed by the Commission under this section (except under subsections
 
 (7) No person, except a widow or a child, shall be entitled to benefits for disability with respect to himself, and to death benefits on account of the death of another.
 
-(8) If a civilian American citizen or his dependent receives or has received from the United States any payments on account of the same injury or death, or from his employer, in the form of wages, or payments in lieu of wages, or in any form of support or compensation (including workmen's compensation) in respect to the same objects, the benefits under this section shall be diminished by the amount of such payments in the following manner: (A) Benefits on account of injury or disability shall be reduced by the amount of payments to the injured person on account of the same injury or disability; and (B) benefits on account of death shall be reduced by the amount of payments to the dependents of the deceased civilian American citizen on account of the same death.
+(8) If a civilian American citizen or his dependent receives or has received from the United States any payments on account of the same injury or death, or from his employer, in the form of wages, or payments in lieu of wages, or in anyform of support or compensation (including workmen's compensation) in respect to the same objects, the benefits under this section shall be diminished by the amount of such payments in the following manner: (A) Benefits on account of injury or disability shall be reduced by the amount of payments to the injured person on account of the same injury or disability; and (B) benefits on account of death shall be reduced by the amount of payments to the dependents of the deceased civilian American citizen on account of the same death.
 
 (9) This subsection shall take effect as of December 7, 1941, and the right of individuals to benefits shall be held to have begun to accrue as though this subsection had been in effect as of such date.
 
@@ -76,7 +76,7 @@ Any claim allowed by the Commission under this section (except under subsections
 
 &emsp;(C) child or children of the deceased (in equal shares) if there is no widow or dependent husband.
 
-(5) Any claim allowed by the Commission under this subsection shall be certified to the Secretary of the Treasury for payment out offunds appropriated pursuant to this subsection, and shall be paid by the Secretary of the Treasury to the person entitled thereto, except that where any person entitled to payment under this subsection is under any legal disability, payment may be made in accordance with the provisions of subsection (e) of this section.
+(5) Any claim allowed by the Commission under this subsection shall be certified to the Secretary of the Treasury for payment out of funds appropriated pursuant to this subsection, and shall be paid by the Secretary of the Treasury to the person entitled thereto, except that where any person entitled to payment under this subsection is under any legal disability, payment may be made in accordance with the provisions of subsection (e) of this section.
 
 (6) Each claim filed under this subsection must be filed not later than one year from whichever of the following dates last occurs:
 
@@ -94,7 +94,7 @@ Any claim allowed by the Commission under this section (except under subsections
 
 #### (h) Benefits for Guamanians killed or captured at Wake Island on or after December 7, 1941
 
-In the case of any Guamanian killed or captured by the Imperial Japanese Government on or after December 7, 1941, at Wake Island, benefits shall be granted under subsections (a) through (f) of this section in the same manner and to the same extent as apply in the case of civilian American citizens so killed or captured. Claims for benefits under subsections (a) through (e) of this section must be filed within six months after August 31, 1962, and the time limitation applicable to any individual by subsection (f) shall not begin to run until August 31, 1962, with respect to any individual who is entitled to such benefits solely by reason of this subsection. The preceding sentence shall not be construed to affect the right of any individual to receive such benefits with respect to any period prior to August 31, 1962.
+In the case of any Guamanian killed or captured by the Imperial Japanese Government on or after December 7, 1941, at Wake Island, benefits shall be granted under subsections (a) through (f) of this section in the same manner and to the same extent as apply in the case ofcivilian American citizens so killed or captured. Claims for benefits under subsections (a) through (e) of this section must be filed within six months after August 31, 1962, and the time limitation applicable to any individual by subsection (f) shall not begin to run until August 31, 1962, with respect to any individual who is entitled to such benefits solely by reason of this subsection. The preceding sentence shall not be construed to affect the right of any individual to receive such benefits with respect to any period prior to August 31, 1962.
 
 #### (i) Detention benefits for civilian internees in Southeast Asia; definitions; authority of Commission; claim for benefits; rate of compensation; persons entitled to payments; certification for payment; filing date; determination of claims; appropriations
 
@@ -128,9 +128,11 @@ In the case of any Guamanian killed or captured by the Imperial Japanese Governm
 
 > The Commission shall complete its determinations for each claim filed under this subsection at the earliest practicable date, but not later than one year after the date on which such claim was filed.
 
-(7) There are authorized to be appropriated such amounts as may be necessary to carry outthe purposes of this subsection, including necessary administrative expenses.
+(7) There are authorized to be appropriated such amounts as may be necessary to carry out the purposes of this subsection, including necessary administrative expenses.
 
 (July 3, 1948, ch. 826, title I, §5, 62 Stat. 1242; 1950 Reorg. Plan No. 19, §1, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1271; Apr. 9, 1952, ch. 168, §1, 66 Stat. 49; Aug. 21, 1954, ch. 784, §1, 68 Stat. 759; Aug. 31, 1954, ch. 1162, title I, §§101 (a)–(c), 102(a), 68 Stat. 1033, 1034; Pub. L. 87–617, Aug. 31, 1962, 76 Stat. 413; Pub. L. 87–846, title I, §102, Oct. 22, 1962, 76 Stat. 1107; Pub. L. 91–289, §3, June 24, 1970, 84 Stat. 324; Pub. L. 94–383, Aug. 12, 1976, 90 Stat. 1122.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -170,11 +172,17 @@ Subsec. (g). Act Aug. 21, 1954, §1(a), added subsec. (g).
 
 <b>1952</b>—Subsec. (e). Act Apr. 9, 1952, allowed the award for the benefit of claimant to be paid to the claimant's natural or legal guardian, committee, conservator, or curator, or to such other person as is charged with the care of the claimant, and permitted the payment of an award payable to a minor, directly to such minor.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Transfer of Functions
+
+For provisions transferring Foreign Claims Settlement Commission of the United States to Department of Justice, as a separate agency, see section 1622a et seq. of Title 22, Foreign Relations and Intercourse.
+
+#### <b>Executive Documents</b>
+
 #### Transfer of Functions
 
 "Secretary of Labor" substituted for "Federal Security Administrator" in subsec. (f)(6) pursuant to Reorg. Plan No. 19 of 1950, §1, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1271, which transferred functions of Federal Security Administrator and Federal Security Agency under this section to Secretary of Labor, with power to delegate, and was set out in the Appendix to Title 5, Government Organization and Employees, prior to repeal by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 662. See section 8145 of Title 5, Government Organization and Employees.
-
-For provisions transferring Foreign Claims Settlement Commission of the United States to Department of Justice, as a separate agency, see section 1622a et seq. of Title 22, Foreign Relations and Intercourse.
 
 War Claims Commission, including offices of its members, abolished and functions transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1 of 1954, §§2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out in the Appendix to Title 5, Government Organization and Employees. See, also, section 4101 of this title and notes thereunder.
 

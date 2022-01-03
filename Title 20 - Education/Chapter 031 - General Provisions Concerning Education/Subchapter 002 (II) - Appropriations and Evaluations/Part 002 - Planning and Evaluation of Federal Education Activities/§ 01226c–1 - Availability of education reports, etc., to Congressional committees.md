@@ -4,6 +4,8 @@ Any evaluation report or data or information collected in preparation of such re
 
 (Pub. L. 95–561, title XV, §1523, Nov. 1, 1978, 92 Stat. 2378; Pub. L. 103–437, §7(b), Nov. 2, 1994, 108 Stat. 4587.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of Education Amendments of 1978, and not as part of General Education Provisions Act which comprises this chapter.
@@ -11,6 +13,8 @@ Section was enacted as part of Education Amendments of 1978, and not as part of 
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–437 substituted "Labor and Human Resources" for "Human Resources".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

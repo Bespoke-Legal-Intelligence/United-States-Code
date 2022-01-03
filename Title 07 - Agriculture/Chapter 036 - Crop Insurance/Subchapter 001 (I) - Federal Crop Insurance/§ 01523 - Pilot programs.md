@@ -32,7 +32,7 @@
 
 &emsp;The Corporation may—
 
-&emsp;&emsp;(A) approve a pilot program under this section to be conducted on a regional, State, or national basis after considering the interestsof affected producers and the interests of, and risks to, the Corporation;
+&emsp;&emsp;(A) approve a pilot program under this section to be conducted on a regional, State, or national basis after considering the interests of affected producers and the interests of, and risks to, the Corporation;
 
 &emsp;&emsp;(B) operate the pilot program, including any modifications of the pilot program, for a period of up to 4 years;
 
@@ -108,7 +108,7 @@
 
 #### (1) Purpose
 
-&emsp;The purpose of the pilot program established under this subsection is to determine whether approved insurance providers will compete to market policies or plans of insurance with reduced rates of premium, in a manner that maintains the financial soundness of approved insurance providers and is consistent with the integrity of the Federal crop insurance program.
+&emsp;The purpose of the pilot program established under this subsection is to determine whetherapproved insurance providers will compete to market policies or plans of insurance with reduced rates of premium, in a manner that maintains the financial soundness of approved insurance providers and is consistent with the integrity of the Federal crop insurance program.
 
 #### (2) Establishment
 
@@ -302,7 +302,7 @@
 
 #### (F) Approved insurance providers
 
-&emsp;&emsp;Any policy or plan of insurance approved under this subsection may be sold only by the approved insurance provider that submits the application and by any additional approved insurance provider that—
+&emsp;&emsp;Any policy or plan of insurance approved under this subsection may be sold only bythe approved insurance provider that submits the application and by any additional approved insurance provider that—
 
 &emsp;&emsp;&emsp;(i) agrees to pay maintenance fees or other payments to the approved insurance provider that submitted the application in an amount agreed to by the applicant and the additional approved insurance provider, on the condition that the fees or payments shall be reasonable and appropriate to ensure that the policies or plans of insurance may be made available by additional approved insurance providers; and
 
@@ -352,6 +352,8 @@
 
 (Feb. 16, 1938, ch. 30, title V, §523, as added Pub. L. 106–224, title I, §132(a), June 20, 2000, 114 Stat. 383; amended Pub. L. 107–171, title X, §10004, May 13, 2002, 116 Stat. 487; Pub. L. 110–234, title XII, §§12025(a), 12033(c)(2)(B), May 22, 2008, 122 Stat. 1389, 1405; Pub. L. 110–246, §4(a), title XII, §§12025(a), 12033(c)(2)(B), June 18, 2008, 122 Stat. 1664, 2151, 2167; Pub. L. 113–79, title XI, §§11025, 11026, Feb. 7, 2014, 128 Stat. 974; Pub. L. 115–123, div. F, §60101(c)(1), Feb. 9, 2018, 132 Stat. 312; Pub. L. 115–334, title XI, §11124, Dec. 20, 2018, 132 Stat. 4935.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1522(e)(4) of this title, referred to in subsec. (c)(1), was repealed by Pub. L. 113–79, title XI, §11022(b)(3), Feb. 7, 2014, 128 Stat. 973.
@@ -383,6 +385,8 @@ Pub. L. 110–246, §12025(a), added subsec. (f).
 Subsecs. (g), (h). Pub. L. 110–246, §12025(a), added subsecs. (g) and (h).
 
 <b>2002</b>—Subsec. (e). Pub. L. 107–171 added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

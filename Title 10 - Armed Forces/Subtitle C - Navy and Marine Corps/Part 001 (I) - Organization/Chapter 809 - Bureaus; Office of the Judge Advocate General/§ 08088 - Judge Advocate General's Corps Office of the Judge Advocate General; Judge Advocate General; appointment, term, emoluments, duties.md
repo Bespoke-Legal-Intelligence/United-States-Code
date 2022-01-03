@@ -22,7 +22,7 @@
 
 &emsp;(2) the ability of judge advocates of the Navy assigned or attached to, or performing duty with, military units to give independent legal advice to commanders.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 289, §5148; Pub. L. 87–649, §14c(20), Sept. 7, 1962, 76 Stat. 501; Pub. L. 90–179, §2(1), Dec. 8, 1967, 81 Stat. 546; Pub. L. 96–513, title III, §343, Dec. 12, 1980, 94 Stat. 2901; Pub. L. 103–337, div. A, title V, §504(b)(1), Oct. 5, 1994, 108 Stat. 2750; Pub. L. 108–375, div. A, title V, §574(b)(1), Oct. 28, 2004, 118 Stat. 1922; Pub. L. 109–163, div. A, title V, §508(b), title X, §1057(a)(2), Jan. 6, 2006, 119 Stat. 3229, 3440; Pub. L. 110–181, div. A, title V, §543(b), Jan. 28, 2008, 122 Stat. 115; Pub. L. 114–328, div. A, title V, §502(ff), Dec. 23, 2016, 130 Stat. 2105; renumbered §8088, Pub. L. 115–232, div. A, title VIII, §807(a)(2), Aug. 13, 2018, 132 Stat. 1834.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 289, §5148; Pub. L. 87–649, §14c(20), Sept. 7, 1962, 76 Stat. 501; Pub. L. 90–179, §2(1), Dec. 8, 1967, 81 Stat. 546; Pub. L. 96–513, title III, §343, Dec. 12, 1980, 94 Stat. 2901; Pub. L. 103–337, div. A, title V, §504(b)(1), Oct. 5, 1994, 108 Stat. 2750; Pub. L. 108–375, div. A, title V, §574(b)(1), Oct. 28, 2004, 118 Stat. 1922; Pub. L. 109–163, div. A, title V, §508(b), title X, §1057(a)(2), Jan. 6, 2006, 119 Stat. 3229, 3440; Pub. L. 110–181, div. A, title V, §543(b), Jan. 28, 2008, 122 Stat. 115; Pub. L. 114–328, div. A, title V, §502(ff), Dec. 23, 2016, 130 Stat. 2105; renumbered§8088, Pub. L. 115–232, div. A, title VIII, §807(a)(2), Aug. 13, 2018, 132 Stat. 1834.)
 
 Historical and Revision Notes
 
@@ -62,6 +62,8 @@ In subsection (c), clauses (1) and (4) are substituted for the words "and perfor
 
 Subsection (c)(2) is substituted for the reference, in 5 U.S.C. 428, to courts-martial and courts of inquiry, since the Uniform Code of Military Justice has superseded prior law as to the duties of the Judge Advocates General relating to these courts.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 5148 of this title as this section.
@@ -78,7 +80,7 @@ Pub. L. 109–163, §508(b), substituted "The Judge Advocate General, while so s
 
 <b>1994</b>—Subsec. (b). Pub. L. 103–337, §504(b)(1)(A), added last sentence and struck out former last sentence which read as follows: "While so serving, the Judge Advocate General of the Navy shall be entitled to the rank and grade of rear admiral or major general, as appropriate, unless entitled to a higher rank and grade under another provision of law."
 
-Subsec. (c). Pub. L. 103–337, §504(b)(1)(B), added subsec. (c) and struck out former subsec. (c) which read as follows: "The Judge Advocate General of the Navy isentitled to the same rank and privileges of retirement as provided for chiefs of bureaus in section 5133 of this title."
+Subsec. (c). Pub. L. 103–337, §504(b)(1)(B), added subsec. (c) and struck out former subsec. (c) which read as follows: "The Judge Advocate General of the Navy is entitled to the same rank and privileges of retirement as provided for chiefs of bureaus in section 5133 of this title."
 
 <b>1980</b>—Subsec. (b). Pub. L. 96–513 inserted provision entitling Judge Advocate General of Navy to rank and grade of rear admiral or major general, as appropriate.
 
@@ -87,6 +89,8 @@ Subsec. (c). Pub. L. 103–337, §504(b)(1)(B), added subsec. (c) and struck out
 Subsecs. (a) to (d). Pub. L. 90–179, §2(1)(B), (C), added subsec. (a), redesignated existing subsecs. (a) to (c) as (b) to (d), respectively, and in subsec. (b) as so redesignated substituted "judge advocates" for "officers".
 
 <b>1962</b>—Subsec. (b). Pub. L. 87–649 struck out ", pay, allowances," after "same rank". See Title 37, Pay and Allowances of the Uniformed Services.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

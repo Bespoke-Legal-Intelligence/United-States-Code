@@ -4,7 +4,7 @@ Before any violation of this chapter is reported by the Secretary to any United 
 
 (June 25, 1938, ch. 675, §305, 52 Stat. 1045.)
 
-#### <b>Statutory Notes and Related Subsidiaries</b>
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

@@ -1,8 +1,10 @@
 ### §1962. Congressional statement of policy
 
-In order to meet the rapidly expanding demands for water throughout the Nation, it is hereby declared to be the policy of the Congress to encourage the conservation, development, and utilization of water and related land resources of the United States on a comprehensive and coordinated basis by the Federal Government, States, localities, and private enterprise with the cooperation of all affected Federal agencies, States, local governments, individuals, corporations, business enterprises, and others concerned.
+In order to meet the rapidly expanding demands for water throughout the Nation, it is hereby declared to be the policy of the Congress to encourage the conservation, development, and utilization of water and related land resources of the United States on a comprehensive and coordinated basis by the Federal Government, States, localities, and private enterprise with the cooperation of all affected Federal agencies, States, local governments, individuals,corporations, business enterprises, and others concerned.
 
 (Pub. L. 89–80, §2, July 22, 1965, 79 Stat. 244.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 1974 Amendment
 
@@ -11,6 +13,58 @@ Pub. L. 93–251, title I, §109, Mar. 16, 1974, 88 Stat. 49, provided that: "Th
 #### Short Title
 
 Pub. L. 89–80, §1, July 22, 1965, 79 Stat. 244, provided that: "This Act \[enacting this chapter\] may be cited as the 'Water Resources Planning Act'."
+
+#### Water Reuse Interagency Working Group
+
+Pub. L. 117–58, div. E, title II, §50218, Nov. 15, 2021, 135 Stat. 1179, provided that:
+
+"(a)
+
+In General.—Not later than 180 days after the date of enactment of this Act \[Nov. 15, 2021\], the Administrator \[of the Environmental Protection Agency\] shall establish a Water Reuse Interagency Working Group (referred to in this section as the 'Working Group').
+
+"(b)
+
+Purpose.—The purpose of the Working Group is to develop and coordinate actions, tools, and resources to advance water reuse across the United States, including through the implementation of the February 2020 National Water Reuse Action Plan, which creates opportunities for water reuse in the mission areas of each of the Federal agencies included in the Working Group under subsection (c) (referred to in this section as the 'Action Plan').
+
+"(c)
+
+Chairperson; Membership.—The Working Group shall be—
+
+&emsp;"(1) chaired by the Administrator; and
+
+&emsp;"(2) comprised of senior representatives from such Federal agencies as the Administrator determines to be appropriate.
+
+"(d)
+
+Duties of the Working Group.—In carrying out this section, the Working Group shall—
+
+&emsp;"(1) with respect to water reuse, leverage the expertise of industry, the research community, nongovernmental organizations, and government;
+
+&emsp;"(2) seek to foster water reuse as an important component of integrated water resources management;
+
+&emsp;"(3) conduct an assessment of new opportunities to advance water reuse and annually update the Action Plan with new actions, as necessary, to pursue those opportunities;
+
+&emsp;"(4) seek to coordinate Federal programs and policies to support the adoption of water reuse;
+
+&emsp;"(5) consider how each Federal agency can explore and identify opportunities to support water reuse through the programs and activities of that Federal agency; and
+
+&emsp;"(6) consult, on a regular basis, with representatives of relevant industries, the research community, and nongovernmental organizations.
+
+"(e)
+
+Report.—Not less frequently than once every 2 years, the Administrator shall submit to Congress a report on the activities and findings of the Working Group.
+
+"(f)
+
+Sunset.—
+
+&emsp;"(1)
+
+In general.—Subject to paragraph (2), the Working Group shall terminate on the date that is 6 years after the date of enactment of this Act.
+
+&emsp;"(2)
+
+Extension.—The Administrator may extend the date of termination of the Working Group under paragraph (1)."
 
 #### United States-Mexico Transboundary Aquifer Assessment
 
@@ -22,7 +76,7 @@ Pub. L. 109–448, Dec. 22, 2006, 120 Stat. 3328, provided that:
 
 #### "SEC. 2. PURPOSE.
 
-"The purpose of this Act is to direct the Secretary of the Interior to establish a United States-Mexicotransboundary aquifer assessment program to systematically assess priority transboundary aquifers.
+"The purpose of this Act is to direct the Secretary of the Interior to establish a United States-Mexico transboundary aquifer assessment program to systematically assess priority transboundary aquifers.
 
 #### "SEC. 3. DEFINITIONS.
 
@@ -168,7 +222,7 @@ Coordination With States, Tribes, and Other Entities.—The Secretary shall coor
 
 "(b)
 
-New Activity.—After the date of enactment of this Act \[Dec. 22, 2006\], the Secretary shall not initiateany new field studies or analyses under the program before consulting with, and coordinating the activity with, any Participating State water resource agencies that have jurisdiction over the aquifer.
+New Activity.—After the date of enactment of this Act \[Dec. 22, 2006\], the Secretary shall not initiate any new field studies or analyses under the program before consulting with, and coordinating the activity with, any Participating State water resource agencies that have jurisdiction over the aquifer.
 
 "(c)
 
@@ -222,7 +276,7 @@ In General.—There are authorized to be appropriated to carry out this Act $50,
 
 "(b)
 
-Distribution of Funds.—Of the amounts made available under subsection (a), 50 percent shall be made available to the water resources research institutes to provide funding to appropriate entities in the Participating States (including Sandia National Laboratories, State agencies, universities, the Tri-Regional Planning Group, and other relevant organizations) and to implement cooperative agreements entered into with appropriate entities in Mexico to conduct specific authorized activities in furtherance of the program, including the binational collection and exchange of scientific data.
+Distribution of Funds.—Of the amounts made available under subsection (a), 50 percent shall be made available to the water resources research institutes toprovide funding to appropriate entities in the Participating States (including Sandia National Laboratories, State agencies, universities, the Tri-Regional Planning Group, and other relevant organizations) and to implement cooperative agreements entered into with appropriate entities in Mexico to conduct specific authorized activities in furtherance of the program, including the binational collection and exchange of scientific data.
 
 "(c)
 
@@ -241,6 +295,8 @@ Pub. L. 97–370, title VI, §619, Dec. 18, 1982, 96 Stat. 1811.
 Pub. L. 97–103, title VI, §619, Dec. 23, 1981, 95 Stat. 1490.
 
 Pub. L. 96–528, title VI, §622, Dec. 15, 1980, 94 Stat. 3118.
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 12113
 
@@ -274,7 +330,7 @@ Ex. Ord. No. 13956, Oct. 13, 2020, 85 F.R. 65647, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
-Section 1. <i>Purpose</i>. Abundant, safe, and reliable supplies of water are critical to quality of life for allAmericans, fueling our economy, providing food for our citizens and the world, generating energy, protecting public health, supporting rich and diverse wildlife and plant species, and affording recreational opportunities. While America is blessed with abundant natural resources, those resources must be effectively managed, and our water infrastructure must be modernized to meet the needs of current and future generations.
+Section 1. <i>Purpose</i>. Abundant, safe, and reliable supplies of water are critical to quality of life for all Americans, fueling our economy, providing food for our citizens and the world, generating energy, protecting public health, supporting rich and diverse wildlife and plant species, and affording recreational opportunities. While America is blessed with abundant natural resources, those resources must be effectively managed, and our water infrastructure must be modernized to meet the needs of current and future generations.
 
 Executive departments and agencies (agencies) that engage in water-related matters, including water storage and supply, water quality and restoration activities, water infrastructure, transportation on our rivers and inland waterways, and water forecasting, must work together where they have joint or overlapping responsibilities. This order will ensure that agencies do that more efficiently and effectively to improve our country's water resource management, modernize our water infrastructure, and prioritize the availability of clean, safe, and reliable water supplies.
 
@@ -330,7 +386,7 @@ Sec. 5. <i>Improving Water Resource Management</i>. Federal agencies engage in a
 
 (d) Actions to improve water data management, research, modeling, and forecasting, including through:
 
-(i) aligning efforts and developing research plans among the Secretary of the Interior, the Secretary of Agriculture, the Administrator of the National Oceanic and Atmospheric Administration, and the Secretary ofthe Army, through the Assistant Secretary of the Army (Civil Works), to ensure that America remains a global leader for water-related science and technology capabilities;
+(i) aligning efforts and developing research plans among the Secretary of the Interior, the Secretary of Agriculture, the Administrator of the National Oceanic and Atmospheric Administration, and the Secretary of the Army, through the Assistant Secretary of the Army (Civil Works), to ensure that America remains a global leader for water-related science and technology capabilities;
 
 (ii) implementing common methods of water forecasting, including the use of snow monitoring tools, on a national and basin scale, supported by weather forecasting on all scales;
 
@@ -342,7 +398,7 @@ Sec. 6. <i>Report</i>. Within 1 year of submitting the report required by sectio
 
 Sec. 7. <i>Integrated Infrastructure Planning</i>. Agencies oversee a number of programs to enhance coordination of cross-agency water infrastructure planning and to protect taxpayer investments. Within 150 days of the date of this order, the Water Subcabinet shall identify and recommend actions and priorities to the Director of OMB, the Chairman of CEQ, and the Assistant to the President for Economic Policy to support integrated planning and coordination among agencies to maintain and modernize our Nation's water infrastructure, including for drinking water, desalination, water reuse, wastewater, irrigation, flood control, transportation on our rivers and inland waterways, and water storage and conveyance. The recommendations shall consider water infrastructure programs that are funded by the Department of Defense through the Army Corps of Engineers, and by the Department of the Interior, the Department of Agriculture, the Department of Energy, the EPA, the Federal Emergency Management Agency, the Economic Development Administration, and other agencies, as appropriate. Such programs include the EPA's Water Infrastructure Finance and Innovation Act program, established pursuant to the Water Resources Reform and Development Act of 2014 (Public Law 113–121) and amended by the America's Water Infrastructure Act of 2018 (Public Law 115–270), which modernizes the aging water infrastructure of the United States, improves public health protections, and creates jobs; the Department of Agriculture's rural development programs, which make and support investments in water infrastructure; and the Department of Agriculture's Natural Resources Conservation Service programs, which promote source water protection, improve water quality, and assist with developing new water infrastructure projects.
 
-Sec. 8. <i>Water Sector Workforce</i>. Trained water-sector professionals are vital to protecting public health and the environment through strategic planning, operation and maintenance of treatment facilities, and implementation of water management programs. Within 150 days of the date of this order, the Water Subcabinet, in consultation with the Secretary of Labor, the Secretary of Health and Human Services, the Secretary of Education, the Secretary of Veterans Affairs, and the heads of other agencies, as appropriate, shall identify actions and develop recommendations to improve interagency coordination and provide assistance and technical support to State, local, tribal, and territorial governments in order to enhance the recruitment, training, and retention of water professionals within drinking water, desalination, water reuse, wastewater, flood control, hydropower, and delivery and storage sectors. Such recommendations shall be submitted to the Chairman of CEQ, the Assistant to the President for Domestic Policy, the Assistant to the President for Economic Policy, and the Chairman of the Council of Economic Advisers.
+Sec. 8. <i>Water Sector Workforce</i>. Trained water-sector professionals are vital to protecting public health and the environment through strategic planning, operation and maintenance of treatment facilities, and implementation of water management programs. Within 150days of the date of this order, the Water Subcabinet, in consultation with the Secretary of Labor, the Secretary of Health and Human Services, the Secretary of Education, the Secretary of Veterans Affairs, and the heads of other agencies, as appropriate, shall identify actions and develop recommendations to improve interagency coordination and provide assistance and technical support to State, local, tribal, and territorial governments in order to enhance the recruitment, training, and retention of water professionals within drinking water, desalination, water reuse, wastewater, flood control, hydropower, and delivery and storage sectors. Such recommendations shall be submitted to the Chairman of CEQ, the Assistant to the President for Domestic Policy, the Assistant to the President for Economic Policy, and the Chairman of the Council of Economic Advisers.
 
 Sec. 9. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
 

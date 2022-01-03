@@ -2,7 +2,7 @@
 
 #### (a) Garnishment requirements
 
-Notwithstanding any provision of State law, a guaranty agency, or the Secretary in the case of loans made, insured or guaranteed under this subchapter that are held by the Secretary, may garnish the disposable pay of an individual to collect the amount owed by the individual, if he or she is not currently making required repayment under a repayment agreement with the Secretary, or, in the case of a loan guaranteed under part B on which the guaranty agency received reimbursement from the Secretary under section 1078(c) of this title, with the guaranty agency holding the loan, as appropriate, provided that—
+Notwithstanding any provision of State law, a guaranty agency, or the Secretary in the case ofloans made, insured or guaranteed under this subchapter that are held by the Secretary, may garnish the disposable pay of an individual to collect the amount owed by the individual, if he or she is not currently making required repayment under a repayment agreement with the Secretary, or, in the case of a loan guaranteed under part B on which the guaranty agency received reimbursement from the Secretary under section 1078(c) of this title, with the guaranty agency holding the loan, as appropriate, provided that—
 
 &emsp;(1) the amount deducted for any pay period may not exceed 15 percent of disposable pay, except that a greater percentage may be deducted with the written consent of the individual involved;
 
@@ -38,11 +38,15 @@ For the purpose of this section, the term "disposable pay" means that part of th
 
 (Pub. L. 89–329, title IV, §488A, as added Pub. L. 102–164, title VI, §605(a), Nov. 15, 1991, 105 Stat. 1066; amended Pub. L. 105–244, title IV, §490A, Oct. 7, 1998, 112 Stat. 1753; Pub. L. 109–171, title VIII, §8024, Feb. 8, 2006, 120 Stat. 180.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (a)(1). Pub. L. 109–171 substituted "15 percent" for "10 percent".
 
 <b>1998</b>—Subsecs. (d), (e). Pub. L. 105–244 added subsec. (d) and redesignated former subsec. (d) as (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

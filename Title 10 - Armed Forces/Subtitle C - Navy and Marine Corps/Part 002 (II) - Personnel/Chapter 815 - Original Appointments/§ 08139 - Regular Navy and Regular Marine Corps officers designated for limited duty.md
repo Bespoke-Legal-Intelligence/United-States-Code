@@ -30,7 +30,7 @@
 
 &emsp;(C) is designated for limited duty under subsection (a) of section 8146 of this title; and
 
-&emsp;(D) is serving in the grade of lieutenant commander or commander, or in the grade of major or lieutenant colonel, under a temporary appointment under subsection (d) of section 8146 of this title.
+&emsp;(D) is serving in the grade of lieutenant commander or commander, or in the grade ofmajor or lieutenant colonel, under a temporary appointment under subsection (d) of section 8146 of this title.
 
 (d) To be eligible for an appointment under this section a member must have the qualifications specified in section 532(a) of this title and have completed at least 8 years of active naval service, excluding active duty for training in a reserve component.
 
@@ -68,6 +68,8 @@ In subsections (a) and (b) the authority to make appointments under this section
 
 The word "male" is inserted to limit the application of the section to men. Authority to appoint women is covered in §5590 of this title.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232, §807(b)(4), renumbered section 5589 of this title as this section.
@@ -89,6 +91,8 @@ Subsec. (b). Pub. L. 96–513, §325(2), substituted "as regular officers of the
 Subsec. (c). Pub. L. 96–513, §325(3), inserted "the qualifications specified in section 532(a) of this title and have".
 
 <b>1961</b>—Subsec. (e)(3). Pub. L. 87–123 struck out "be designated for supply duty or" before "be assigned to".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

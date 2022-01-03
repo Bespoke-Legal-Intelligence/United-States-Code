@@ -6,7 +6,7 @@ In order to facilitate visitor travel, provide scenic overlooks for public enjoy
 
 #### (b) Exchange or sale of lands in Leelanau County
 
-Except as provided in subsection (c), any lands in Leelanau County acquired by the Secretary under this section before October 22, 1982, which are within the parkway zone depicted on the map specified in section 460x–1(a) of this title but which are not within, or contiguous to, thelakeshore zone as depicted on such map may be exchanged by the Secretary for other lands of approximately equal value in the lakeshore. If the Secretary is unable to effect such an exchange, such lands may be offered for sale to the person who owned such lands immediately before their acquisition by the Secretary. If such previous owner declines such offer, the Secretary may sell such lands to any buyer. Proceeds from any sale under this subsection shall be credited to the account established under section 17 of this Act.
+Except as provided in subsection (c), any lands in Leelanau County acquired by the Secretary under this section before October 22, 1982, which are within the parkway zone depicted on the map specified in section 460x–1(a) of this title but which are not within, or contiguous to, the lakeshore zone as depicted on such map may be exchanged by the Secretary for other lands of approximately equal value in the lakeshore. If the Secretary is unable to effect such an exchange, such lands may be offered for sale to the person who owned such lands immediately before their acquisition by the Secretary. If such previous owner declines such offer, the Secretary may sell such lands to any buyer. Proceeds from any sale under this subsection shall be credited to the account established under section 17 of this Act.
 
 #### (c) Administration of certain lands as Resource Preservation Areas
 
@@ -57,6 +57,8 @@ If the owner of the area designated as "The Kettle" in the General Management Pl
 The Secretary may, upon request in writing by any owner or occupier of lands in the lakeshore, provide services, such as road maintenance, subject to reimbursement.
 
 (Pub. L. 91–479, §12, Oct. 21, 1970, 84 Stat. 1080; Pub. L. 97–361, §3, Oct. 22, 1982, 96 Stat. 1722; Pub. L. 103–437, §6(d)(17), Nov. 2, 1994, 108 Stat. 4584.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

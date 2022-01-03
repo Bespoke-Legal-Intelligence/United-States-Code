@@ -58,7 +58,7 @@
 
 #### (5) Provision to other entities
 
-&emsp;No community water system shall be required under State or local law to provide an assessment described in this section (or revision thereof) to any State, regional, or local governmental entity solely by reason of the requirement set forth in paragraph (3) that the system submit a certification to the Administrator.
+&emsp;No community water system shall be required under State or local law to provide an assessment described in this section (or revision thereof) to any State, regional, or local governmental entity solely by reason of therequirement set forth in paragraph (3) that the system submit a certification to the Administrator.
 
 #### (b) Emergency response plan
 
@@ -154,6 +154,8 @@ In this section—
 
 (July 1, 1944, ch. 373, title XIV, §1433, as added Pub. L. 107–188, title IV, §401, June 12, 2002, 116 Stat. 682; amended Pub. L. 115–270, title II, §2013(a), Oct. 23, 2018, 132 Stat. 3850.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Emergency Planning and Community Right-To-Know Act of 1986, referred to in subsec. (c), is Pub. L. 99–499, title III, Oct. 17, 1986, 100 Stat. 1728, which is classified generally to chapter 116 (§11001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 11001 of this title and Tables.
@@ -163,6 +165,8 @@ Section 12(d) of the National Technology Transfer and Advancement Act of 1995, r
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–270 amended section generally. Prior to amendment, section related to terrorist and other intentional acts.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Sensitive Information
 

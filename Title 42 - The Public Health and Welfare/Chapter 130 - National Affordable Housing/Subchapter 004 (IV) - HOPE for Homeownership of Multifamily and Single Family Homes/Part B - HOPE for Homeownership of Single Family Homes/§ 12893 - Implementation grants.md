@@ -42,7 +42,7 @@ Implementation grants may be used for activities to carry out homeownership prog
 
 &emsp;&emsp;(A) cash contributions from non-Federal resources which may not include funds from a grant made under section 5306(b) or section 5306(d) of this title;
 
-&emsp;&emsp;(B) payment of administrative expenses, as defined by the Secretary, from non-Federalresources, including funds from a grant made under section 5306(b) or section 5306(d) of this title;
+&emsp;&emsp;(B) payment of administrative expenses, as defined by the Secretary, from non-Federal resources, including funds from a grant made under section 5306(b) or section 5306(d) of this title;
 
 &emsp;&emsp;(C) the value of taxes, fees, or other charges that are normally and customarily imposed but are waived, foregone, or deferred in a manner that facilitates the implementation of a homeownership program assisted under this part;
 
@@ -70,7 +70,7 @@ Implementation grants may be used for activities to carry out homeownership prog
 
 &emsp;&emsp;(D) an identification and description of the properties to be acquired under the homeownership program and a description of the composition of potential eligible families, including family size and income;
 
-&emsp;&emsp;(E) a description of and commitment for the resources that are expected to be made available to provide the matching funding required under subsection (c) and of other resources that are expected to be made available in support of the homeownership program;
+&emsp;&emsp;(E) a description of and commitment for the resources that are expected to be made available to provide the matching funding required under subsection (c) and of otherresources that are expected to be made available in support of the homeownership program;
 
 &emsp;&emsp;(F) identification and description of the financing proposed for any (i) rehabilitation and (ii) acquisition (I) of the project, where applicable, by an entity for transfer to eligible families, and (II) by eligible families of ownership interests in, or shares representing, units in the project;
 
@@ -106,7 +106,9 @@ The Secretary shall establish selection criteria for assistance under this part,
 
 The Secretary shall notify each applicant, not later than 6 months after the date of the submission of the application, whether the application is approved or not approved.
 
-(Pub. L. 101–625, title IV, §443, Nov. 28, 1990, 104 Stat. 4174; Pub. L. 102–550, title X, §1012(j)(2),Oct. 28, 1992, 106 Stat. 3906; Pub. L. 103–233, title II, §221, Apr. 11, 1994, 108 Stat. 366.)
+(Pub. L. 101–625, title IV, §443, Nov. 28, 1990, 104 Stat. 4174; Pub. L. 102–550, title X, §1012(j)(2), Oct. 28, 1992, 106 Stat. 3906; Pub. L. 103–233, title II, §221, Apr. 11, 1994, 108 Stat. 366.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -121,6 +123,8 @@ The Age Discrimination Act of 1975, referred to in subsec. (d)(2)(K), is title I
 <b>1994</b>—Subsec. (c)(1). Pub. L. 103–233 substituted "25 percent" for "33 percent".
 
 <b>1992</b>—Subsec. (b)(4) to (11). Pub. L. 102–550 added par. (4) and redesignated former pars. (4) to (10) as (5) to (11), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

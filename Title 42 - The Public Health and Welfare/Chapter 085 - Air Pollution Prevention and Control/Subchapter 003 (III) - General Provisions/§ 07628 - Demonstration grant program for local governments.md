@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(A) standards for monitoring and verification of operational cost savings through the application of cost-effective technologies and practices reported by grantees under this section;
 
-&emsp;&emsp;(B) standards for grantees to implement training programs, and to provide technical assistance and education, relating to the retrofit of buildings using cost-effective technologies and practices; and
+&emsp;&emsp;(B) standards for grantees to implement training programs, and to provide technicalassistance and education, relating to the retrofit of buildings using cost-effective technologies and practices; and
 
 &emsp;&emsp;(C) a requirement that each local government that receives a grant under this section shall achieve facility-wide cost savings, through renovation of existing local government buildings using cost-effective technologies and practices, of at least 40 percent as compared to the baseline operational costs of the buildings before the renovation (as calculated assuming a 3-year, weather-normalized average).
 
@@ -67,6 +67,8 @@ The program under this section shall terminate on September 30, 2012.
 In this section, the terms "cost-effective technologies and practices" and "operating <sup>1</sup> cost savings" shall have the meanings defined in section 17061 of this title.
 
 (July 14, 1955, ch. 360, title III, §329, as added Pub. L. 110–140, title IV, §493, Dec. 19, 2007, 121 Stat. 1652.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

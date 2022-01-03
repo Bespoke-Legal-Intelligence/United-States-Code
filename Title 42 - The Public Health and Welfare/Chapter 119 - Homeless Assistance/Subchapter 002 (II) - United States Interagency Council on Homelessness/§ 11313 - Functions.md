@@ -42,7 +42,7 @@ The Council shall—
 
 &emsp;(12) develop constructive alternatives to criminalizing homelessness and laws and policies that prohibit sleeping, feeding, sitting, resting, or lying in public spaces when there are no suitable alternatives, result in the destruction of a homeless person's property without due process, or are selectively enforced against homeless persons; and
 
-&emsp;(13) not later than the expiration of the 6-month period beginning upon completion of the study requested in a letter to the Acting Comptroller General from the Chair and Ranking Member of the House Financial Services Committee and several other members regarding various definitions of homelessness in Federal statutes, convene a meeting of representatives of all Federal agencies and committees of the House of Representatives and the Senate having jurisdiction over any Federal program to assist homeless individuals or families, local and State governments, academic researchers who specialize in homelessness, nonprofit housing and service providers that receive funding under any Federal program to assist homeless individuals or families, organizations advocating on behalf of such nonprofit providers and homeless persons receiving housing or services under any such Federal program, and homeless persons receiving housing or services under any such Federal program, at which meeting such representatives shall discuss all issues relevant to whether the definitions of "homeless" under paragraphs (1) through (4) of section 11302(a) of this title, as amended by section 1003 of the Homeless Emergency Assistance and Rapid Transition to Housing Act of 2009, should be modified by the Congress, including whether there is a compelling need for a uniform definition of homelessness under Federal law, the extent to which the differences in such definitions create barriers for individuals to accessing services and to collaboration between agencies, and the relative availability, and barriers to access by persons defined as homeless, of mainstream programs identified by the Government Accountability Office in the two reports identified in paragraph (7) of this subsection; and shall submit transcripts of such meeting, and any majority and dissenting recommendations from such meetings, to each committee of the House of Representatives and the Senate having jurisdiction over any Federal program to assist homeless individuals or families not later than the expiration of the 60-day period beginning upon conclusion of such meeting.
+&emsp;(13) not later than the expiration of the 6-month period beginning upon completion of the study requested in a letter to the Acting Comptroller General from the Chair and Ranking Member of the House Financial Services Committee and several other members regarding various definitions of homelessness in Federal statutes, convene a meeting of representatives of all Federal agencies and committees of the House of Representatives and the Senate having jurisdiction over any Federal program to assist homeless individuals or families, local and State governments, academic researchers who specialize in homelessness, nonprofit housing and service providers that receive funding under any Federal program to assist homeless individuals or families, organizations advocating on behalf of such nonprofit providers and homeless persons receiving housing or services under any such Federal program, and homeless persons receiving housing or services under any such Federal program, at which meeting such representatives shall discuss all issues relevant to whether the definitions of "homeless" under paragraphs (1) through (4) of section 11302(a) of this title, as amended by section 1003 of the Homeless Emergency Assistance and Rapid Transition to Housing Act of 2009, should be modified by the Congress, including whether there is a compelling need for a uniform definition of homelessness under Federal law, the extent to which the differences in such definitions create barriers for individuals to accessing services and to collaboration between agencies, and the relative availability, and barriers to access by persons defined as homeless, of mainstream programs identified by the Government Accountability Office in the two reports identified in paragraph (7) of this subsection; and shall submit transcripts of such meeting, and any majority and dissenting recommendations from such meetings, to each committee of the House of Representativesand the Senate having jurisdiction over any Federal program to assist homeless individuals or families not later than the expiration of the 60-day period beginning upon conclusion of such meeting.
 
 #### (b) Authority
 
@@ -84,6 +84,8 @@ Not later than 90 days after November 7, 1988, the head of each Federal agency t
 
 (Pub. L. 100–77, title II, §203, July 22, 1987, 101 Stat. 487; Pub. L. 100–628, title II, §§201–203, Nov. 7, 1988, 102 Stat. 3227, 3228; Pub. L. 111–22, div. B, §1004(a)(3), (4), May 20, 2009, 123 Stat. 1666, 1668.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a)(5)(B) and (e), was in the original "this Act", meaning Pub. L. 100–77, July 22, 1987, 101 Stat. 482, known as the McKinney-Vento Homeless Assistance Act. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
@@ -98,7 +100,7 @@ Subsec. (a)(5). Pub. L. 111–22, §1004(a)(3)(A), (C), redesignated par. (4) as
 
 Subsec. (a)(6) to (13). Pub. L. 111–22, §1004(a)(3)(A), (D)–(G), added pars. (6) to (8), par. (9) relating to joint Federal agency and other initiatives to fulfill the goals of the agency, and pars. (12) and (13), redesignated former par. (5) as par. (9) relating to collection and dissemination of information, and redesignated former pars. (6) and (7) as (10) and (11), respectively.
 
-Subsec. (b)(1). Pub. L. 111–22, §1004(a)(4), substituted "national" for "Federal" and "and pay for expenses ofattendance at meetings which are concerned with the functions or activities for which the appropriation is made;" for "; and".
+Subsec. (b)(1). Pub. L. 111–22, §1004(a)(4), substituted "national" for "Federal" and "and pay for expenses of attendance at meetings which are concerned with the functions or activities for which the appropriation is made;" for "; and".
 
 <b>1988</b>—Subsec. (a)(4). Pub. L. 100–628, §202(1), substituted "(by at least 2, but in no case more than 5, regional coordinators employed by the Council, each having responsibility for interaction and coordination of the activities of the Council within the 10 standard Federal regions)" for ", through personnel employed by the Council in each of the 10 standard Federal regions," in introductory provisions.
 
@@ -111,6 +113,8 @@ Subsec. (a)(4)(A) to (D). Pub. L. 100–628, §202(2), added subpars. (A) to (D)
 Subsec. (a)(7). Pub. L. 100–628, §201, added par. (7).
 
 Subsec. (e). Pub. L. 100–628, §203, added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 
@@ -177,6 +181,8 @@ Pub. L. 100–404, title I, Aug. 19, 1988, 102 Stat. 1017.
 #### Nonimplementation of Subsection (a)(5)
 
 Pub. L. 100–202, §101(f) \[title I\], Dec. 22, 1987, 101 Stat. 1329–187, 1329–191, provided: "That the provision in section 203(a)(4) \[now 203(a)(5)\] of such Act \[Pub. L. 100–77, 42 U.S.C. 11313(a)(5)\] that relates to employment of personnel in the regions shall not be implemented."
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 12848
 

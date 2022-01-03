@@ -22,7 +22,7 @@ General Schedule, referred to in text, is set out under section 5332 of this tit
 
 <b>1992</b>—Par. (2). Pub. L. 102–378 substituted "GS–8" for "GS–8,".
 
-<b>1990</b>—Pub. L. 101–263 inserted "the" before "National" in section catchline and amended text generally. Priorto amendment, text read as follows: "The Secretary of the Smithsonian Institution shall fix the per annum rates of basic pay of positions on the police force of the National Zoological Park in accordance with the following provisions:
+<b>1990</b>—Pub. L. 101–263 inserted "the" before "National" in section catchline and amended text generally. Prior to amendment, text read as follows: "The Secretary of the Smithsonian Institution shall fix the per annum rates of basic pay of positions on the police force of the National Zoological Park in accordance with the following provisions:
 
 &emsp;"(1) Private—not more than the rate for GS–7, Step 5;
 

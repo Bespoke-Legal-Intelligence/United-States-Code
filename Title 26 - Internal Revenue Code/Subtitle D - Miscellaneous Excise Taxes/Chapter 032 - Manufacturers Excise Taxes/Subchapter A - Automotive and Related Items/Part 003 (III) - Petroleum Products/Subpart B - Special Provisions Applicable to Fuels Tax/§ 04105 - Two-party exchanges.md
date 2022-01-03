@@ -18,9 +18,13 @@ The term "two-party exchange" means a transaction, other than a sale, in which t
 
 (Added Pub. L. 108–357, title VIII, §866(a), Oct. 22, 2004, 118 Stat. 1621.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior sections 4111 to 4113, 4121, and 4131 of this title constituted a former subchapter B of this chapter, see Prior Provisions note set out preceding section 4121 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

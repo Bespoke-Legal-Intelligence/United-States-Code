@@ -14,9 +14,13 @@
 
 (Pub. L. 90–247, title IV, §454, as added Pub. L. 95–561, title XII, §1232, Nov. 1, 1978, 92 Stat. 2349; amended Pub. L. 100–297, title III, §3501(a), Apr. 28, 1988, 102 Stat. 354.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–297 amended section generally, substituting provisions relating to remedies for existing violations for provisions relating to cease and desist orders. See section 1234e of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

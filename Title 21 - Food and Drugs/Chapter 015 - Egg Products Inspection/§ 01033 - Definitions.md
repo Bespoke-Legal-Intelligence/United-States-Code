@@ -16,7 +16,7 @@ For purposes of this chapter—
 
 &emsp;(3) if it consists in whole or in part of any filthy, putrid, or decomposed substance, or if it is otherwise unfit for human food;
 
-&emsp;(4) if it has been prepared, packaged, or held under insanitary conditions whereby it may have become contaminated with filth, or whereby it may have been rendered injurious to health;
+&emsp;(4) if it has been prepared, packaged, or held under insanitary conditions whereby it may have become contaminated with filth, orwhereby it may have been rendered injurious to health;
 
 &emsp;(5) if it is an egg which has been subjected to incubation or the product of any egg which has been subjected to incubation;
 
@@ -52,7 +52,7 @@ For purposes of this chapter—
 
 (5) The term "inedible" means eggs of the following descriptions: black rots, yellow rots, white rots, mixed rots (addled eggs), sour eggs, eggs with green whites, eggs with stuck yolks, moldy eggs, musty eggs, eggs showing blood rings, and eggs containing embryo chicks (at or beyond the blood ring stage).
 
-(6) The term "leaker" means an egg that has a crack or break in the shell and shell membranes to the extent that the egg contents areexposed or are exuding or free to exude through the shell.
+(6) The term "leaker" means an egg that has a crack or break in the shell and shell membranes to the extent that the egg contents are exposed or are exuding or free to exude through the shell.
 
 (7) The term "loss" means an egg that is unfit for human food because it is smashed or broken so that its contents are leaking; or overheated, frozen, or contaminated; or an incubator reject; or because it contains a bloody white, large meat spots, a large quantity of blood, or other foreign material.
 

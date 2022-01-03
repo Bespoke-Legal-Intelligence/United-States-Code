@@ -1,6 +1,6 @@
 ### §50105. Fraudulent use of "Made in America" label
 
-If the Secretary of Transportation decides that a person intentionally affixed a "Made in America" label to goods sold in or shipped to the United States that are not made in the United States, the Secretary shall declare theperson ineligible, for not less than 3 nor more than 5 years, to receive a contract or grant from the United States Government related to a contract made under section 106(k), 44502(a)(2), or 44509, subchapter I of chapter 471 (except section 47127), or chapter 481 (except sections 48102(e), 48106, 48107, and 48110) of this title or subtitle B of title IX of the Omnibus Budget Reconciliation Act of 1990 (Public Law 101–508, 104 Stat. 1388–353). The Secretary may bring a civil action to enforce this section in any district court of the United States.
+If the Secretary of Transportation decides that a person intentionally affixed a "Made in America" label to goods sold in or shipped to the United States that are not made in the United States, the Secretary shall declare the person ineligible, for not less than 3 nor more than 5 years, to receive a contract or grant from the United States Government related to a contract made under section 106(k), 44502(a)(2), or 44509, subchapter I of chapter 471 (except section 47127), or chapter 481 (except sections 48102(e), 48106, 48107, and 48110) of this title or subtitle B of title IX of the Omnibus Budget Reconciliation Act of 1990 (Public Law 101–508, 104 Stat. 1388–353). The Secretary may bring a civil action to enforce this section in any district court of the United States.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1300, §49105; renumbered §50105 and amended Pub. L. 104–287, §5(88)(D), (89), Oct. 11, 1996, 110 Stat. 3398.)
 
@@ -25,6 +25,8 @@ Nov. 5, 1990, Pub. L. 101–508, §9130, 104 Stat. 1388–372; Oct. 31, 1992, Pu
 #### Pub. L. 104–287, §5(89)
 
 This makes a clarifying amendment to 49:50101(a) and (b)(3), 50102, 50104(b)(1), and 50105, as redesignated by clause (88)(D) of this section, because 49:47106(d) was struck by section 108(1) of the Federal Aviation Administration Authorization Act of 1994 (Public Law 103–305, 108 Stat. 1573).
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

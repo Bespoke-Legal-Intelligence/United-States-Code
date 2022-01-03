@@ -2,7 +2,7 @@
 
 #### (a) Operations in United States
 
-The Secretary of Agriculture either independently or in cooperation with States or political subdivisions thereof, farmers' associations, and similar organizations and individuals, is authorized to carry out operations or measures in the United States to eradicate, suppress, control, and to prevent or retard the spread of undesirable species and subspecies of honeybees.
+The Secretary of Agriculture either independently or in cooperation with States or politicalsubdivisions thereof, farmers' associations, and similar organizations and individuals, is authorized to carry out operations or measures in the United States to eradicate, suppress, control, and to prevent or retard the spread of undesirable species and subspecies of honeybees.
 
 #### (b) Cooperation with certain foreign governments; measure and character; consultation with Secretary of State
 
@@ -13,6 +13,8 @@ The Secretary of Agriculture is authorized to cooperate with the Governments of 
 In performing the operations or measures authorized in this chapter, the cooperating foreign country, State, or local agency shall be responsible for the authority to carry out such operations or measures on all lands and properties within the foreign country or State, other than those owned or controlled by the Federal Government of the United States, and for such other facilities and means as in the discretion of the Secretary of Agriculture are necessary.
 
 (Aug. 31, 1922, ch. 301, §3, as added Pub. L. 94–319, §3, June 25, 1976, 90 Stat. 709.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Indemnification for Beekeepers
 

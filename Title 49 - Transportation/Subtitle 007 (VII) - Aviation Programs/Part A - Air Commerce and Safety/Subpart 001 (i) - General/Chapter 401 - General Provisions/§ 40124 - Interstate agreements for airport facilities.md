@@ -8,9 +8,13 @@ Congress consents to a State making an agreement, not in conflict with a law of 
 
 This restates 49:44502(e) as 49:40121 \[now 40124\] to provide a more appropriate place in title 49.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1997</b>—Pub. L. 105–102 amended Pub. L. 104–287, renumbering section 40121 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1997 Amendment
 

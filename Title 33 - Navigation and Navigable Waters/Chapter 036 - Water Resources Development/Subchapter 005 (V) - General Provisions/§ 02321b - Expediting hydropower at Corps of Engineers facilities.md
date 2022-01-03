@@ -52,7 +52,7 @@ Not later than 2 years after June 10, 2014, and biennially thereafter, the Secre
 
 &emsp;&emsp;(B) modifying releases from the project; and
 
-&emsp;&emsp;(C) other changes included in the written request submitted under that paragraph thatenhance the usage of the project to facilitate production of non-Federal hydropower, consistent with authorized project purposes.
+&emsp;&emsp;(C) other changes included in the written request submitted under that paragraph that enhance the usage of the project to facilitate production of non-Federal hydropower, consistent with authorized project purposes.
 
 #### (4) Cost share
 

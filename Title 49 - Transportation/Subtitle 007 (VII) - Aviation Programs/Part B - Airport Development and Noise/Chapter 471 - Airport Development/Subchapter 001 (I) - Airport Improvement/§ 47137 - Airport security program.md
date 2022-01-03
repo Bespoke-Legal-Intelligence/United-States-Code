@@ -34,9 +34,13 @@ Authorization of Appropriations.—Of the amounts made available to the Secretar
 
 (Added Pub. L. 106–181, title I, §134(a), Apr. 5, 2000, 114 Stat. 83; amended Pub. L. 108–176, title I, §157, Dec. 12, 2003, 117 Stat. 2508.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2003</b>—Subsecs. (e) to (g). Pub. L. 108–176 added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

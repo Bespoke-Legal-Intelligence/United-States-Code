@@ -116,7 +116,7 @@ If the Secretary determines that a recipient of funds under this section has fai
 
 #### (1) In general
 
-&emsp;In approving applications under this section, the Secretary shall give special considerationto applications from institutions of higher education or consortia of such institutions for programs that show the greatest promise of success based on—
+&emsp;In approving applications under this section, the Secretary shall give special consideration to applications from institutions of higher education or consortia of such institutions for programs that show the greatest promise of success based on—
 
 &emsp;&emsp;(A) the extent to which programs in the academic discipline with respect to which the application is made have satisfactorily met the needs of public and private sector employers;
 
@@ -132,11 +132,15 @@ If the Secretary determines that a recipient of funds under this section has fai
 
 (Pub. L. 89–329, title VIII, §833, as added Pub. L. 110–315, title VIII, §801, Aug. 14, 2008, 122 Stat. 3415; amended Pub. L. 111–39, title VIII, §801(11), July 1, 2009, 123 Stat. 1956.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2009</b>—Subsec. (e)(1). Pub. L. 111–39, §801(11)(A), substituted "based on" for "because of" in introductory provisions.
 
 Subsec. (e)(1)(D). Pub. L. 111–39, §801(11)(B), substituted "purpose of this part" for "purposes of this section".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

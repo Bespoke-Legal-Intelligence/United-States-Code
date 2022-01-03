@@ -14,6 +14,8 @@ The court shall have jurisdiction to affirm the action of the Secretary or to se
 
 (Pub. L. 94–385, title IV, §419, Aug. 14, 1976, 90 Stat. 1157; Pub. L. 96–294, title V, §577(2), (3), June 30, 1980, 94 Stat. 760.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1980</b>—Subsecs. (a) to (c). Pub. L. 96–294 substituted "Secretary" for "Administrator" wherever appearing, and "Secretary's" for "Administrator's".

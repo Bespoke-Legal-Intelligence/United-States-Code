@@ -26,5 +26,5 @@ Act Mar. 2, 1911, ch. 192, §9, 36 Stat. 1011.
 
 #### Change of Name
 
-Change of name of Architect of the Capitol, functions abolished, transferred, etc., by prior acts, see Prior Provisions and Change of Name notes set out under section 1801 of this title.
+Change of name of Architect of the Capitol, functions abolished, transferred, etc., by prior acts, see PriorProvisions and Change of Name notes set out under section 1801 of this title.
 

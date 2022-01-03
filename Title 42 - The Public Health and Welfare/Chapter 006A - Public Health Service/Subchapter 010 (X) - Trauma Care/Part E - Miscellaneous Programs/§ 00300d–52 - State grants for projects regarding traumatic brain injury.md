@@ -44,7 +44,7 @@ The Secretary, acting through the Administrator for the Administration for Commu
 
 #### (d) Application for grant
 
-The Secretary may make a grant under subsection (a) only if an application for the grant issubmitted to the Secretary and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this section.
+The Secretary may make a grant under subsection (a) only if an application for the grant is submitted to the Secretary and the application is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this section.
 
 #### (e) Use of State and American Indian consortium grants
 
@@ -90,7 +90,7 @@ The Secretary may make a grant under subsection (a) only if an application for t
 
 &emsp;&emsp;(E) tailor existing State or American Indian consortium systems to provide accommodations to the needs of individuals with traumatic brain injury (including systems administered by the State or American Indian consortium departments responsible for health, mental health, labor/employment, education, intellectual disabilities or developmental disorders, transportation, and correctional systems);
 
-&emsp;&emsp;(F) improve data sets coordinated across systems and other needs identified by a State or American Indian consortium plan supported by its advisory council; and
+&emsp;&emsp;(F) improve data sets coordinated across systems and other needs identified by aState or American Indian consortium plan supported by its advisory council; and
 
 &emsp;&emsp;(G) develop capacity within targeted communities.
 
@@ -114,7 +114,9 @@ For purposes of this section:
 
 For the purpose of carrying out this section, there are authorized to be appropriated $7,321,000 for each of fiscal years 2020 through 2024.
 
-(July 1, 1944, ch. 373, title XII, §1252, as added Pub. L. 104–166, §3, July 29, 1996, 110 Stat. 1446; amended Pub. L. 106–310, div. A, title XIII, §1304,Oct. 17, 2000, 114 Stat. 1139; Pub. L. 110–23, §14, May 3, 2007, 121 Stat. 99; Pub. L. 110–206, §6(a), Apr. 28, 2008, 122 Stat. 716; Pub. L. 111–256, §2(f)(6), Oct. 5, 2010, 124 Stat. 2644; Pub. L. 113–196, §3, Nov. 26, 2014, 128 Stat. 2052; Pub. L. 115–377, §3, Dec. 21, 2018, 132 Stat. 5114.)
+(July 1, 1944, ch. 373, title XII, §1252, as added Pub. L. 104–166, §3, July 29, 1996, 110 Stat. 1446; amended Pub. L. 106–310, div. A, title XIII, §1304, Oct. 17, 2000, 114 Stat. 1139; Pub. L. 110–23, §14, May 3, 2007, 121 Stat. 99; Pub. L. 110–206, §6(a), Apr. 28, 2008, 122 Stat. 716; Pub. L. 111–256, §2(f)(6), Oct. 5, 2010, 124 Stat. 2644; Pub. L. 113–196, §3, Nov. 26, 2014, 128 Stat. 2052; Pub. L. 115–377, §3, Dec. 21, 2018, 132 Stat. 5114.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -183,6 +185,8 @@ Subsec. (i). Pub. L. 106–310, §1304(5), (8), redesignated subsec. (g) as (i),
 Subsec. (j). Pub. L. 106–310, §1304(9), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "For the purpose of carrying out this section, there is authorized to be appropriated $5,000,000 for each of the fiscal years 1997 through 1999."
 
 Pub. L. 106–310, §1304(5), redesignated subsec. (h) as (j).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

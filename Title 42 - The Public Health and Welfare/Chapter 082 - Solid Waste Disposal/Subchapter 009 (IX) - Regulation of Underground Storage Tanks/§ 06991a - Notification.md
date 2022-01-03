@@ -56,6 +56,8 @@ Each State shall make 2 separate inventories of all underground storage tanks in
 
 (Pub. L. 89–272, title II, §9002, as added Pub. L. 98–616, title VI, §601(a), Nov. 8, 1984, 98 Stat. 3278; amended Pub. L. 99–499, title II, §205(b), Oct. 17, 1986, 100 Stat. 1696; Pub. L. 109–58, title XV, §1526(c), Aug. 8, 2005, 119 Stat. 1098.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Subsec. (d). Pub. L. 109–58 added subsec. (d).

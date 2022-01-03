@@ -68,7 +68,7 @@ Subsection (a) shall not apply to any deduction allowable to the taxpayer withou
 
 #### (6) Treatment of rental to employer
 
-&emsp;Paragraphs (1) and (3) shall not apply to any item which is attributable to the rental of the dwelling unit (or any portion thereof) by the taxpayer to his employer during any period in which the taxpayer uses the dwelling unit (or portion) in performing services as an employee of the employer.
+&emsp;Paragraphs (1) and (3) shall not apply to any item which is attributable to the rental of thedwelling unit (or any portion thereof) by the taxpayer to his employer during any period in which the taxpayer uses the dwelling unit (or portion) in performing services as an employee of the employer.
 
 #### (d) Use as residence
 
@@ -124,7 +124,7 @@ Subsection (a) shall not apply to any deduction allowable to the taxpayer withou
 
 #### (D) Qualified ownership interest
 
-&emsp;&emsp;For purposes of this paragraph, the term "qualified ownership interest" means an undivided interest for more than 50 years inthe entire dwelling unit and appurtenant land being acquired in the transaction to which the shared equity financing agreement relates.
+&emsp;&emsp;For purposes of this paragraph, the term "qualified ownership interest" means an undivided interest for more than 50 years in the entire dwelling unit and appurtenant land being acquired in the transaction to which the shared equity financing agreement relates.
 
 #### (4) Rental of principal residence
 
@@ -146,7 +146,7 @@ Subsection (a) shall not apply to any deduction allowable to the taxpayer withou
 
 #### (1) In general
 
-&emsp;In any case where a taxpayer who is an individual or an S corporation uses a dwelling unit for personal purposes on any day during the taxable year (whether or not he is treated under this section as using such unit as a residence), the amount deductible under this chapter with respect to expenses attributable to the rental of the unit (or portion thereof) for the taxable year shall not exceed an amount which bears the same relationship to such expenses as the number of days during each year that the unit (or portion thereof) is rented at a fair rental bears to the total number of days during such year that the unit (or portion thereof) is used.
+&emsp;In any case where a taxpayer who is an individual or an S corporation uses a dwelling unit for personal purposes on any day during the taxable year (whether or not he is treated under this section as using such unit as a residence), the amount deductible under this chapter with respect to expenses attributableto the rental of the unit (or portion thereof) for the taxable year shall not exceed an amount which bears the same relationship to such expenses as the number of days during each year that the unit (or portion thereof) is rented at a fair rental bears to the total number of days during such year that the unit (or portion thereof) is used.
 
 #### (2) Exception for deductions otherwise allowable
 
@@ -192,13 +192,15 @@ Notwithstanding any other provision of this section or section 183, if a dwellin
 
 (Added Pub. L. 94–455, title VI, §601(a), Oct. 4, 1976, 90 Stat. 1569; amended Pub. L. 95–30, title III, §306(a), (b), May 23, 1977, 91 Stat. 152, 153; Pub. L. 95–600, title VII, §701(h)(1), Nov. 6, 1978, 92 Stat. 2904; Pub. L. 97–119, title I, §113(a)–(d), Dec. 29, 1981, 95 Stat. 1641, 1642; Pub. L. 97–216, title II, §215(b), July 18, 1982, 96 Stat. 194; Pub. L. 97–354, §5(a)(26), Oct. 19, 1982, 96 Stat. 1694; Pub. L. 99–514, title I, §143(b), (c), Oct. 22, 1986, 100 Stat. 2120; Pub. L. 100–647, title I, §1001(h)(1), (2), Nov. 10, 1988, 102 Stat. 3352; Pub. L. 104–188, title I, §§1113(a), 1704(t)(39), Aug. 20, 1996, 110 Stat. 1759, 1889; Pub. L. 105–34, title III, §312(d)(1), title IX, §932(a), Aug. 5, 1997, 111 Stat. 839, 881.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of the Tax Reduction and Simplification Act of 1977, referred to in subsec. (c)(4)(B), is the date of enactment of Pub. L. 95–30, 91 Stat. 126, which was May 23, 1977.
 
 #### Amendments
 
-<b>1997</b>—Subsec. (c)(1). Pub. L. 105–34, §932(a), inserted at end "For purposes of subparagraph (A), the term 'principal place of business' includes a place of business which is used by the taxpayer for the administrative ormanagement activities of any trade or business of the taxpayer if there is no other fixed location of such trade or business where the taxpayer conducts substantial administrative or management activities of such trade or business."
+<b>1997</b>—Subsec. (c)(1). Pub. L. 105–34, §932(a), inserted at end "For purposes of subparagraph (A), the term 'principal place of business' includes a place of business which is used by the taxpayer for the administrative or management activities of any trade or business of the taxpayer if there is no other fixed location of such trade or business where the taxpayer conducts substantial administrative or management activities of such trade or business."
 
 Subsec. (d)(4)(A). Pub. L. 105–34, §312(d)(1), substituted "section 121" for "section 1034".
 
@@ -216,7 +218,7 @@ Subsec. (c)(6). Pub. L. 99–514, §143(b), added par. (6).
 
 Subsec. (f)(2). Pub. L. 97–354, §5(a)(26)(C), substituted "shareholders of S corporation" for "electing small business corporation" in subsec. heading, substituted "an S corporation" for "an electing small business corporation" and "any shareholder of the S corporation" for "any shareholder of the electing small business corporation".
 
-Subsec. (f)(4). Pub. L. 97–216 struck out ", etc." after "section 162(a)(2)" in heading, struck out "(A) In general.—" before "Nothing in this section", and struck out subpar. (B) which directed the Secretary to prescribe amounts deductible (without substantiation) pursuant to last sentence of section 162(a) and that no other provisions of this title could permit such a deduction for any taxable year of amounts in excess of the amounts determined to be appropriate under the circumstances.
+Subsec. (f)(4). Pub. L. 97–216 struck out ", etc." after "section 162(a)(2)" in heading, struck out "(A) In general.—" before "Nothing in this section", and struck out subpar. (B) which directed the Secretary to prescribe amounts deductible (without substantiation) pursuant to last sentence of section 162(a) and that no other provisions of this title could permit such a deduction for any taxable year of amounts in excess of theamounts determined to be appropriate under the circumstances.
 
 <b>1981</b>—Subsec. (c)(1)(A). Pub. L. 97–119, §113(c), substituted "the principal place of business for any trade or business of the taxpayer" for "as the taxpayer's principal place of business".
 
@@ -229,6 +231,8 @@ Subsec. (f)(4). Pub. L. 97–119, §113(b)(1), added par. (4).
 <b>1978</b>—Subsec. (d)(3). Pub. L. 95–600 added par. (3).
 
 <b>1977</b>—Subsec. (c)(4), (5). Pub. L. 95–30 added par. (4), redesignated former par. (4) as (5) and substituted "paragraph (1), (2), or (4)" for "paragraph (1) or (2)" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1997 Amendment
 

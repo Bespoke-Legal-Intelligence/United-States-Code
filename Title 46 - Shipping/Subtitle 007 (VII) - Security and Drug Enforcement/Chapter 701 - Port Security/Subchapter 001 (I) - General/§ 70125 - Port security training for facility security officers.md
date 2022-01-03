@@ -62,7 +62,7 @@ Requirements.—The training program shall provide validated training that—
 
 Continuing Security Training.—The Secretary, in coordination with the Secretary of Transportation, shall work with State and local law enforcement agencies and industry stakeholders to develop and certify the following additional security training requirements for Federal, State, and local officials with security responsibilities at United States seaports:
 
-&emsp;(1) A program to familiarize them with port and shipping operations, requirements of the Maritime Transportation Security Act of 2002 (Public Law 107–295), and other port and cargo security programs that educates and trains them with respect to their roles and responsibilities.
+&emsp;(1) A program to familiarize them with port and shipping operations, requirements of the Maritime Transportation Security Act of 2002 (Public Law 107–295), and other port and cargo security programs that educates and trainsthem with respect to their roles and responsibilities.
 
 &emsp;(2) A program to familiarize them with dangers and potential issues with respect to shipments of hazardous and especially hazardous cargoes.
 

@@ -164,6 +164,8 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 <i>See 2017 Amendment note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1374, added Pub. L. 85–866, title I, §64(a), Sept. 2, 1958, 72 Stat. 1653; amended Pub. L. 86–376, §2(b), Sept. 23, 1959, 73 Stat. 699; Pub. L. 94–455, title XIX, §1901(a)(150), Oct. 4, 1976, 90 Stat. 1788, related to allowance to shareholders of corporation net operating loss, prior to the general revision of this subchapter by section 2 of Pub. L. 97–354.
@@ -232,6 +234,8 @@ Subsec. (c)(4). Pub. L. 98–369, §102(d)(1), added par. (4).
 
 <b>1983</b>—Subsec. (d). Pub. L. 97–448 substituted "this section" for "subsections (a)(2) and (b)(2)".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2017 Amendment
 
 Amendment by section 12002 of Pub. L. 115–97 applicable in general to taxable years beginning after Dec. 31, 2017, and amendment by section 12002(c) applicable to taxable years beginning after Dec. 31, 2021, see section 12002(d) of Pub. L. 115–97, set out as a note under section 53 of this title.
@@ -280,7 +284,7 @@ Amendment by section 102(d)(1) of Pub. L. 98–369 applicable to positions estab
 
 Amendment by section 474(r)(27) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
 
-Amendment by section 721(u) of Pub. L. 98–369 effective as if included in the Subchapter S Revision Act of 1982, Pub. L. 97–354, see section 721(y)(1) of Pub. L. 98–369, set out as a note under section 1361 of this title.
+Amendment by section 721(u) of Pub. L. 98–369 effective as if included in the Subchapter S Revision Act of1982, Pub. L. 97–354, see section 721(y)(1) of Pub. L. 98–369, set out as a note under section 1361 of this title.
 
 #### Effective Date of 1983 Amendment
 

@@ -88,7 +88,7 @@ Peace Corps
 
 1–104. The function of determining the portion of living allowances constituting basic compensation, conferred upon the President by Section 201(a) of Public Law 87–293 (26 U.S.C. 912(3)), is hereby delegated to the Director and shall be performed in consultation with the Secretary of the Treasury.
 
-1–105. The functions of prescribing regulations and making determinations (relating to appointment ofPeace Corps employees in the Foreign Service System), conferred upon the President by Section 5 of Public Law 89–135 (79 Stat. 551) \[probably means section 5(b) of Pub. L. 89–134, Aug. 24, 1965, 79 Stat. 551, set out as a note under section 2506 of this title\], are hereby delegated to the Director.
+1–105. The functions of prescribing regulations and making determinations (relating to appointment of Peace Corps employees in the Foreign Service System), conferred upon the President by Section 5 of Public Law 89–135 (79 Stat. 551) \[probably means section 5(b) of Pub. L. 89–134, Aug. 24, 1965, 79 Stat. 551, set out as a note under section 2506 of this title\], are hereby delegated to the Director.
 
 1–106. The functions of prescribing conditions, conferred upon the President by the second sentence of Section 5(e), as amended (22 U.S.C. 2504(e)), and the third proviso of Section 6 of the Act (22 U.S.C. 2505) (relating to providing health care in Government facilities) and hereinabove delegated to the Director, shall be exercised in consultation with the head of the United States Government agency responsible for the facility.
 
@@ -140,7 +140,7 @@ Incidental Provisions
 
 National Voluntary Action Program
 
-1–501. The National Voluntary Action Program to encourage and stimulate more widespread and effective voluntary action for solving public domestic problems, established in the Executive Branch of the Government by Section 1 of Executive Order No. 11470 of May 26, 1969 \[formerly set out as a note under section 2701 of Title 42, the Public Health and Welfare\], is continued in ACTION. That program shall supplement corresponding action by private and other non-Federal organizations such as the National Center for Voluntary Action. As used in this Order, the term "voluntary action" means the contribution or application of non-governmental resources of all kinds (time, money, goods, services, and skills) by private and other organizations of all types (profit and nonprofit, national and local, occupational, and altruistic) and by individual citizens.
+1–501. The National Voluntary Action Program to encourage and stimulate more widespread and effective voluntary action for solving public domestic problems, established in the Executive Branch of the Governmentby Section 1 of Executive Order No. 11470 of May 26, 1969 \[formerly set out as a note under section 2701 of Title 42, the Public Health and Welfare\], is continued in ACTION. That program shall supplement corresponding action by private and other non-Federal organizations such as the National Center for Voluntary Action. As used in this Order, the term "voluntary action" means the contribution or application of non-governmental resources of all kinds (time, money, goods, services, and skills) by private and other organizations of all types (profit and nonprofit, national and local, occupational, and altruistic) and by individual citizens.
 
 #### 1–6.
 
@@ -162,7 +162,7 @@ Director of ACTION
 
 1–604. The head of each Federal department or agency, or a designated representative, shall keep the Director of ACTION informed of proposed budgets, plans, and programs of that department or agency affecting voluntary action programs.
 
-1–605. Under the direction of the President and subject to the responsibilities of the Secretary of State,the Director of ACTION shall be responsible for the general direction of those ACTION functions, which jointly serve ACTION domestic volunteer components and the Peace Corps, and for advising the Director of the Peace Corps to ensure that the functions delegated under this Order to the Director of the Peace Corps are carried out.
+1–605. Under the direction of the President and subject to the responsibilities of the Secretary of State, the Director of ACTION shall be responsible for the general direction of those ACTION functions, which jointly serve ACTION domestic volunteer components and the Peace Corps, and for advising the Director of the Peace Corps to ensure that the functions delegated under this Order to the Director of the Peace Corps are carried out.
 
 #### 1–7.
 

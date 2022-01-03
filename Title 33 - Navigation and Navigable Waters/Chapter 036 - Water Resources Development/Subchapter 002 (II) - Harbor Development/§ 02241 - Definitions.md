@@ -56,7 +56,7 @@ For purposes of this subchapter—
 
 #### (8) United States
 
-&emsp;The term "United States" means all areas included within the territorial boundaries of the United States, including the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Northern Mariana Islands, and any other territory or possessionover which the United States exercises jurisdiction.
+&emsp;The term "United States" means all areas included within the territorial boundaries of the United States, including the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Northern Mariana Islands, and any other territory or possession over which the United States exercises jurisdiction.
 
 (Pub. L. 99–662, title II, §214, Nov. 17, 1986, 100 Stat. 4108; Pub. L. 104–303, title II, §201(e), Oct. 12, 1996, 110 Stat. 3672; Pub. L. 116–260, div. AA, title V, §512(c)(5)(C), Dec. 27, 2020, 134 Stat. 2756.)
 
@@ -79,6 +79,8 @@ Par. (2)(C). Pub. L. 104–303, §201(e)(2), substituted "or rights-of-way," for
 #### Increases in Non-Federal Share of Costs
 
 Amendment by Pub. L. 104–303 not to increase, or result in increase of, non-Federal share of costs of expanding any confined dredged material disposal facility that is operated by Secretary and authorized for cost recovery through collection of tolls, any confined dredged material disposal facility for which invitation for bids for construction was issued before Oct. 12, 1996, and expanding any confined dredged material disposal facility constructed under section 1293a of this title if capacity of confined dredged material disposal facility was exceeded in less than 6 years, see section 201(g) of Pub. L. 104–303, set out as a note under section 2211 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Termination of Trust Territory of the Pacific Islands
 

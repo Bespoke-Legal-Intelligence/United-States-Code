@@ -15,10 +15,16 @@
 | [22906\.](%C2%A7%2022906%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [22907\.](%C2%A7%2022907%20-%20Consolidated%20rail%20infrastructure%20and%20safety%20improvements.md) | Consolidated rail infrastructure and safety improvements. |
 | [22908\.](%C2%A7%2022908%20-%20Restoration%20and%20enhancement%20grants.md) | Restoration and enhancement grants. |
+| [22909\.](%C2%A7%2022909%20-%20Railroad%20Crossing%20Elimination%20Program.md) | Railroad Crossing Elimination Program. |
+| [22910\.](%C2%A7%2022910%20-%20Interstate%20Rail%20Compacts%20Grant%20Program.md) | Interstate Rail Compacts Grant Program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Pub. L. 117–58, div. B, title II, §§22305(b), 22306(b), Nov. 15, 2021, 135 Stat. 723, 724, added items 22909 and 22910.
 
 <b>2019</b>—Pub. L. 115–420, §7(a)(2), (3), (5), Jan. 3, 2019, 132 Stat. 5445, 5446, renumbered chapter 244 of this title as this chapter and amended analysis generally, substituting items 22901 to 22908 for former items 24401 to 24408, respectively.
 
@@ -37,3 +43,5 @@
 - [&sect; 22906 - Authorization of appropriations](%C2%A7%2022906%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 22907 - Consolidated rail infrastructure and safety improvements](%C2%A7%2022907%20-%20Consolidated%20rail%20infrastructure%20and%20safety%20improvements.md)
 - [&sect; 22908 - Restoration and enhancement grants](%C2%A7%2022908%20-%20Restoration%20and%20enhancement%20grants.md)
+- [&sect; 22909 - Railroad Crossing Elimination Program](%C2%A7%2022909%20-%20Railroad%20Crossing%20Elimination%20Program.md)
+- [&sect; 22910 - Interstate Rail Compacts Grant Program](%C2%A7%2022910%20-%20Interstate%20Rail%20Compacts%20Grant%20Program.md)

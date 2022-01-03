@@ -6,9 +6,11 @@ Congress finds that there is increasing evidence of a relationship between diet 
 
 #### (b) Declaration of policy
 
-It is declared to be the policy of the United States that the Department of Agriculture conduct research in the fields of human nutrition and the nutritive value of foods and conduct human nutrition education activities, as provided in this subchapter.
+It is declared to be the policy of the United States that the Department of Agriculture conduct research in the fields of human nutritionand the nutritive value of foods and conduct human nutrition education activities, as provided in this subchapter.
 
 (Pub. L. 95–113, title XIV, §1421, Sept. 29, 1977, 91 Stat. 999.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

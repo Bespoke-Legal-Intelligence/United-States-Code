@@ -24,6 +24,8 @@ Aug. 1, 1956, ch. 837, §302, 70 Stat. 868.
 
 The word "territorial" is substituted for the words "military or naval", since the subsection could only apply to that type of command, installation, or district. Clause (2) is substituted for 38:1132(2).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1982</b>—Par. (2). Pub. L. 97–258 substituted "official" for "officer".

@@ -42,9 +42,13 @@ For purposes of this chapter—
 
 (Pub. L. 96–270, §11, June 14, 1980, 94 Stat. 496.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 198 of the Elementary and Secondary Education Act of 1965, referred to in pars. (4)(A), (5)(A), and (9), is section 198 of Pub. L. 89–10, title I, as added by Pub. L. 95–561, title I, §101(a), Nov. 1, 1978, 92 Stat. 2198, which was classified to section 2854 of this title prior to the general amendment of Pub. L. 89–10 by Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 140. For definitions, see section 7801 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Termination of Trust Territory of the Pacific Islands
 

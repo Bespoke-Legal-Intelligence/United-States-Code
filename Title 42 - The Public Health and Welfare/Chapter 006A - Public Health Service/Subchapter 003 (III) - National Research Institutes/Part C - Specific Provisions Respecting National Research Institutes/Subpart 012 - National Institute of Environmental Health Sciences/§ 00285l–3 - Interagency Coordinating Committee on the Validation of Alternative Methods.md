@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-With respect to the interagency coordinating committee that is known as the Interagency Coordinating Committee on the Validation of Alternative Methods (referred to in sections 285l–2 to 285l–5 of this title as "ICCVAM") and that was established by the Director of the National Institute of Environmental Health Sciences for purposes of section 285l–1(b) of this title, the Director of the Institute shall designate such committee as a permanent interagency coordinating committee of the Institute under the National Toxicology Program Interagency Center for the Evaluation of Alternative Toxicological Methods. Sections 285l–2 to 285l–5 of this title may not be construed as affecting the authorities of such Director regarding ICCVAM that were in effect on the day before December 19, 2000, except to the extent inconsistent with sections 285l–2 to 285l–5 of this title.
+With respect to the interagency coordinating committee that is known as the Interagency Coordinating Committee on the Validation of Alternative Methods (referred to in sections 285l–2to 285l–5 of this title as "ICCVAM") and that was established by the Director of the National Institute of Environmental Health Sciences for purposes of section 285l–1(b) of this title, the Director of the Institute shall designate such committee as a permanent interagency coordinating committee of the Institute under the National Toxicology Program Interagency Center for the Evaluation of Alternative Toxicological Methods. Sections 285l–2 to 285l–5 of this title may not be construed as affecting the authorities of such Director regarding ICCVAM that were in effect on the day before December 19, 2000, except to the extent inconsistent with sections 285l–2 to 285l–5 of this title.
 
 #### (b) Purposes
 
@@ -104,6 +104,8 @@ The ICCVAM shall, consistent with the purposes described in subsection (b), carr
 
 (Pub. L. 106–545, §3, Dec. 19, 2000, 114 Stat. 2721.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (d)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -111,6 +113,8 @@ The Federal Advisory Committee Act, referred to in subsec. (d)(1), is Pub. L. 92
 #### Codification
 
 Section was enacted as part of the ICCVAM Authorization Act of 2000, and not as part of the Public Health Service Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Advisory Committees
 

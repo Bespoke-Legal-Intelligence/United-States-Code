@@ -92,9 +92,13 @@ After notice and opportunity for public hearing, the Administrator shall promulg
 
 (July 14, 1955, ch. 360, title III, §319, as added Pub. L. 95–95, title III, §309, Aug. 7, 1977, 91 Stat. 781; amended Pub. L. 109–59, title VI, §6013(a), Aug. 10, 2005, 119 Stat. 1882.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Pub. L. 109–59 designated existing provisions as subsec. (a), inserted heading, substituted "After notice and opportunity for public hearing" for "Not later than one year after August 7, 1977, and after notice and opportunity for public hearing", and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

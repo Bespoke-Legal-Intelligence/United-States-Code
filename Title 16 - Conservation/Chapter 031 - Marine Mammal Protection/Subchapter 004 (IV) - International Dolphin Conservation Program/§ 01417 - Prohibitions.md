@@ -24,13 +24,15 @@ It is unlawful—
 
 #### (2) Criminal penalty
 
-&emsp;A person that knowingly and willfully violates subsection (a)(5) or (a)(6) shall be subject to a criminal penalty under section 1375(b) of this title.
+&emsp;A person that knowingly and willfully violates subsection (a)(5) or (a)(6) shall be subjectto a criminal penalty under section 1375(b) of this title.
 
 #### (c) Civil forfeitures
 
 Any vessel (including its fishing gear, appurtenances, stores, and cargo) used, and any fish (or its fair market value) taken or retained, in any manner, in connection with or as a result of the commission of any act prohibited by this section shall be subject to forfeiture to the United States in the manner provided in section 1860 of this title.
 
 (Pub. L. 92–522, title III, §307, as added Pub. L. 102–523, §2(a), Oct. 26, 1992, 106 Stat. 3431; amended Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 105–42, §6(d), Aug. 15, 1997, 111 Stat. 1136.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -65,6 +67,8 @@ Subsec. (d). Pub. L. 105–42, §6(d)(3), struck out heading and text of subsec.
 &emsp;"(4) in the case of tuna or a product that contains tuna harvested outside the eastern tropical Pacific Ocean by a purse seine vessel in a fishery in which the Secretary has determined that a regular and significant association occurs between marine mammals and tuna, and in which tuna is harvested through the use of purse seine nets deployed on or to encircle marine mammals, it is accompanied by a written statement executed by the captain of the vessel and by an observer, certifying that no purse seine net was intentionally deployed on or to encircle marine mammals during the particular voyage on which the tuna was harvested."
 
 <b>1996</b>—Subsec. (c). Pub. L. 104–208 made technical amendment to reference in original act which appears in text as reference to section 1860 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1997 Amendment
 

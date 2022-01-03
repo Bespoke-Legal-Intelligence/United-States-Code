@@ -28,6 +28,8 @@ The Director, in his capacity as ex officio member of the Board, shall, except w
 
 (May 10, 1950, ch. 171, §5, 64 Stat. 151; Pub. L. 86–232, §3, Sept. 8, 1959, 73 Stat. 467; Pub. L. 90–407, §3, July 18, 1968, 82 Stat. 362; Pub. L. 99–159, title I, §109(b), Nov. 22, 1985, 99 Stat. 889; Pub. L. 103–437, §15(c)(1), Nov. 2, 1994, 108 Stat. 4591; Pub. L. 105–207, title II, §202(a)(2), July 29, 1998, 112 Stat. 873.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Subsec. (e)(2). Pub. L. 105–207 added par. (2) and struck out former par. (2), which read as follows: "Any delegation of authority or imposition of conditions under the preceding sentence shall be effective only for such period of time, not exceeding two years, as the Board may specify, and shall be promptly published in the Federal Register and reported to the Committees on Labor and Human Resources and Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives. On October 1 of each odd-numbered year the Board shall submit to the Congress a concise report which explains and justifies any actions taken by the Board under this subsection to delegate its authority or impose conditions within the preceding two years. The provisions of this subsection shall cease to be effective at the end of fiscal year 1989."
@@ -44,6 +46,8 @@ Subsecs. (c) to (f). Pub. L. 90–407 added subsecs. (c) to (f).
 
 <b>1959</b>—Subsec. (b). Pub. L. 86–232 provided for delegation of authority from the Board or the Executive Committee to the Director.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
@@ -53,12 +57,6 @@ Committee on Science of House of Representatives changed to Committee on Science
 #### Effective Date of 1968 Amendment
 
 Amendment by Pub. L. 90–407, insofar as related to rates of basic pay, effective on first day of first calendar month which begins on or after July 18, 1968, see section 15(a)(4), set out as a note under section 5313 of Title 5, Government Organization and Employees.
-
-#### Transfer of Functions
-
-Authority of Director of National Science Foundation, from time to time, to make appropriate provisions authorizing performance by any other officer, or by any agency or employee, of National Science Foundation of any of his functions (including functions delegated to him by National Science Board), see Reorg. Plan No. 5 of 1965, eff. July 27, 1965, 30 F.R. 9355, 79 Stat. 1323, set out in the Appendix to Title 5, Government Organization and Employees.
-
-Office of Director of National Science Foundation established under provisions of this section abolished and functions transferred to Director of National Science Foundation appointed pursuant to Reorg. Plan No. 2 of 1962, see section 22 (a), (b) of Reorg. Plan No. 2 of 1962, eff. June 8, 1962, 27 F.R. 5419, 76 Stat. 1253, set out as a note under section 1861 of this title.
 
 #### Study on Research and Development Funding Data Discrepancies
 
@@ -72,7 +70,7 @@ Pub. L. 96–516, §20, Dec. 12, 1980, 94 Stat. 3010, provided that: "The Direct
 
 Pub. L. 95–434, §8, Oct. 10, 1978, 92 Stat. 1050, provided that:
 
-"(a) The Director of the National Science Foundation, in consultation with the Director of the Office of Science and Technology Policy, the Secretary of Energy, the Administrator of the National Aeronautics and Space Administration, and technical experts in public agencies, private organizations, and academic institutions, is authorized to determine the need to provide support under this Act for a study of the feasibility of transmitting solar energy to Earth by using orbital structures manufactured from lunar or asteroidal materials, and the impact of such a feasibility study, if any, on existing National Science Foundation programs.
+"(a) The Director of the National Science Foundation, in consultation with the Director of the Office ofScience and Technology Policy, the Secretary of Energy, the Administrator of the National Aeronautics and Space Administration, and technical experts in public agencies, private organizations, and academic institutions, is authorized to determine the need to provide support under this Act for a study of the feasibility of transmitting solar energy to Earth by using orbital structures manufactured from lunar or asteroidal materials, and the impact of such a feasibility study, if any, on existing National Science Foundation programs.
 
 "(b)(1) If the Foundation determines that such a feasibility study is necessary, the Foundation is authorized to conduct such a study directly or by grants or contracts with public agencies, private organizations, or academic institutions.
 
@@ -95,4 +93,12 @@ Pub. L. 94–86, §4, Aug. 9, 1975, 89 Stat. 430, authorized the Director of the
 #### Continuation of Existing Offices, Procedures, and Organization of the National Science Foundation
 
 Amendment by Pub. L. 90–407 intended to continue in effect the existing offices, procedures, and organization of the Foundation, see section 16 of Pub. L. 90–407, set out as a note under section 1862 of this title.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Authority of Director of National Science Foundation, from time to time, to make appropriate provisions authorizing performance by any other officer, or by any agency or employee, of National Science Foundation of any of his functions (including functions delegated to him by National Science Board), see Reorg. Plan No. 5 of 1965, eff. July 27, 1965, 30 F.R. 9355, 79 Stat. 1323, set out in the Appendix to Title 5, Government Organization and Employees.
+
+Office of Director of National Science Foundation established under provisions of this section abolished and functions transferred to Director of National Science Foundation appointed pursuant to Reorg. Plan No. 2 of 1962, see section 22 (a), (b) of Reorg. Plan No. 2 of 1962, eff. June 8, 1962, 27 F.R. 5419, 76 Stat. 1253, set out as a note under section 1861 of this title.
 

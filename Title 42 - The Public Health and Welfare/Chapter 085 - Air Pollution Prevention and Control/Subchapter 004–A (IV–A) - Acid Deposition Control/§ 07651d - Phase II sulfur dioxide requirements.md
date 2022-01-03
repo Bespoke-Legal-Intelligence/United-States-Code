@@ -36,7 +36,7 @@
 
 (2) After January 1, 2000, it shall be unlawful for any existing coal-fired utility unit the lesser of whose actual or allowable 1985 sulfur dioxide emissions rate is equal to, or greater than, 0.60 lbs/mmBtu and less than 1.20 lbs/mmBtu to exceed an annual sulfur dioxide tonnage emissions limitation equal to the product of the unit's baseline multiplied by (A) the lesser of its actual 1985 emissions rate or its allowable 1985 emissions rate, and (B) a numerical factor of 120 percent, divided by 2,000, unless the owner or operator of such unit holds allowances to emit not less than the unit's total annual emissions.
 
-(3)(A) In addition to allowances allocated pursuant to paragraph (1) and section 7651b(a)(1) of this title as basic Phase II allowance allocations, at the election of the designated representative of the operating company, beginning January 1, 2000, and for each calendar year thereafter until and including 2009, the Administrator shall allocate annually for each unit subject to the emissions limitation requirements of paragraph (1) allowances from the reserve created pursuant to subsection (a)(2) in an amount equal to the amount by which (i) the product of the lesser of 0.60 lbs/mmBtu or the unit's allowable 1985 emissions rate multiplied by the unit's baseline adjusted to reflect operation at a 60percent capacity factor, divided by 2,000, exceeds (ii) the number of allowances allocated for the unit pursuant to paragraph (1) and section 7651b(a)(1) of this title as basic Phase II allowance allocations.
+(3)(A) In addition to allowances allocated pursuant to paragraph (1) and section 7651b(a)(1) of this title as basic Phase II allowance allocations, at the election of the designated representative of the operating company, beginning January 1, 2000, and for each calendar year thereafter until and including 2009, the Administrator shall allocate annually for each unit subject to the emissions limitation requirements of paragraph (1) allowances from the reserve created pursuant to subsection (a)(2) in an amount equal to the amount by which (i) the product of the lesser of 0.60 lbs/mmBtu or the unit's allowable 1985 emissions rate multiplied by the unit's baseline adjusted to reflect operation at a 60 percent capacity factor, divided by 2,000, exceeds (ii) the number of allowances allocated for the unit pursuant to paragraph (1) and section 7651b(a)(1) of this title as basic Phase II allowance allocations.
 
 (B) In addition to allowances allocated pursuant to paragraph (2) and section 7651b(a)(1) of this title as basic Phase II allowance allocations, at the election of the designated representative of the operating company, beginning January 1, 2000, and for each calendar year thereafter until and including 2009, the Administrator shall allocate annually for each unit subject to the emissions limitation requirements of paragraph (2) allowances from the reserve created pursuant to subsection (a)(2) in an amount equal to the amount by which (i) the product of the lesser of the unit's actual 1985 emissions rate or its allowable 1985 emissions rate multiplied by the unit's baseline adjusted to reflect operation at a 60 percent capacity factor, divided by 2,000, exceeds (ii) the number of allowances allocated for the unit pursuant to paragraph (2) and section 7651b(a)(1) of this title as basic Phase II allowance allocations.
 
@@ -52,7 +52,7 @@ After January 1, 2000, it shall be unlawful for any existing oil and gas-fired u
 
 #### (f) Oil and gas-fired units less than 0.60 lbs/mmBtu
 
-(1) After January 1, 2000, it shall be unlawful for any oil and gas-fired existing utility unit the lesser of whose actual or allowable 1985 emission rate is less than 0.60 lbs/mmBtu and whose average annual fuel consumption during the period 1980 through 1989 on a Btu basis was 90 percent or less in the form of natural gas to exceed an annual sulfur dioxide tonnage emissions limitation equal to the product of the unit's baseline multiplied by (A) the lesser of 0.60 lbs/mmBtu or the unit's allowable 1985 emissions, and (B) a numerical factor of 120 percent, divided by 2,000, unless the owner or operator of such unit holds allowances to emit not less than the unit's total annual emissions.
+(1) After January 1, 2000, it shall be unlawful for any oil and gas-fired existing utility unit the lesser of whose actual or allowable 1985 emissionrate is less than 0.60 lbs/mmBtu and whose average annual fuel consumption during the period 1980 through 1989 on a Btu basis was 90 percent or less in the form of natural gas to exceed an annual sulfur dioxide tonnage emissions limitation equal to the product of the unit's baseline multiplied by (A) the lesser of 0.60 lbs/mmBtu or the unit's allowable 1985 emissions, and (B) a numerical factor of 120 percent, divided by 2,000, unless the owner or operator of such unit holds allowances to emit not less than the unit's total annual emissions.
 
 (2) In addition to allowances allocated pursuant to paragraph (1) as basic Phase II allowance allocations and section 7651b(a)(1) of this title, beginning January 1, 2000, the Administrator shall,<sup>3</sup> in the case of any unit operated by a utility that furnishes electricity, electric energy, steam, and natural gas within an area consisting of a city and 1 contiguous county, and in the case of any unit owned by a State authority, the output of which unit is furnished within that same area consisting of a city and 1 contiguous county, the Administrator shall allocate for each unit in the utility its pro rata share of 7,000 allowances and for each unit in the State authority its pro rata share of 2,000 allowances.
 
@@ -92,7 +92,7 @@ TABLE B
 
 &emsp;(ii) the facility is the subject of a State regulatory authority order requiring an electric utility to enter into a power sales agreement with, purchase capacity from, or (for purposes of establishing terms and conditions of the electric utility's purchase of power) enter into arbitration concerning, the facility;
 
-&emsp;(iii) an electric utility has issued a letter of intent or similar instrument committing to purchase power from the facility at a previously offered or lower price and a power sales agreement is executed within a reasonable period of time; or
+&emsp;(iii) an electric utility has issued a letter of intent or similar instrument committing topurchase power from the facility at a previously offered or lower price and a power sales agreement is executed within a reasonable period of time; or
 
 &emsp;(iv) the facility has been selected as a winning bidder in a utility competitive bid solicitation.
 
@@ -108,7 +108,7 @@ TABLE B
 
 (1) In addition to allowances allocated pursuant to this section and section 7651b(a)(1) of this title as basic Phase II allowance allocations, beginning January 1, 2000, the Administrator shall allocate annually allowances for each unit, subject to an emissions limitation requirement under this section, and located in a State that—
 
-&emsp;(A) has experienced a growth in population in excess of 25 percent between 1980 and 1988 according to State Population and HouseholdEstimates, With Age, Sex, and Components of Change: 1981–1988 allocated by the United States Department of Commerce, and
+&emsp;(A) has experienced a growth in population in excess of 25 percent between 1980 and 1988 according to State Population and Household Estimates, With Age, Sex, and Components of Change: 1981–1988 allocated by the United States Department of Commerce, and
 
 &emsp;(B) had an installed electrical generating capacity of more than 30,000,000 kw in 1988,
 
@@ -121,6 +121,8 @@ TABLE B
 Beginning January 1, 2000, in addition to allowances allocated pursuant to this section and section 7651b(a)(1) of this title as basic Phase II allowance allocations, the Administrator shall allocate annually for each existing municipally owned oil and gas-fired utility unit with nameplate capacity equal to, or less than, 40 MWe, the lesser of whose actual or allowable 1985 sulfur dioxide emission rate is less than 1.20 lbs/mmBtu, allowances in an amount equal to the product of the unit's annual fuel consumption on a Btu basis at a 60 percent capacity factor multiplied by the lesser of its allowable 1985 emission rate or its actual 1985 emission rate, divided by 2,000.
 
 (July 14, 1955, ch. 360, title IV, §405, as added Pub. L. 101–549, title IV, §401, Nov. 15, 1990, 104 Stat. 2605.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -16,7 +16,7 @@ The Secretary shall make available religious freedom issue briefs under subsecti
 
 #### (1) In general
 
-&emsp;The Commission shall make publicly available, to the extent practicable, online and inofficial publications, lists of persons it determines are imprisoned or detained, have disappeared, been placed under house arrest, been tortured, or subjected to forced renunciations of faith for their religious activity or religious freedom advocacy by the government of a foreign country that the Commission recommends for designation as a country of particular concern for religious freedom under section 6442(b)(1)(A)(ii) of this title or by a non-state actor that the Commission recommends for designation as an entity of particular concern for religious freedom under section 6442a of this title and include as much publicly available information as practicable on the conditions and circumstances of such persons.
+&emsp;The Commission shall make publicly available, to the extent practicable, online and in official publications, lists of persons it determines are imprisoned or detained, have disappeared, been placed under house arrest, been tortured, or subjected to forced renunciations of faith for their religious activity or religious freedom advocacy by the government of a foreign country that the Commission recommends for designation as a country of particular concern for religious freedom under section 6442(b)(1)(A)(ii) of this title or by a non-state actor that the Commission recommends for designation as an entity of particular concern for religious freedom under section 6442a of this title and include as much publicly available information as practicable on the conditions and circumstances of such persons.
 
 #### (2) Discretion
 

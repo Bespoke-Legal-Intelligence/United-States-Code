@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [7451\.](%C2%A7%2007451%20-%20Fee%20for%20filing%20petition.md) | Fee for filing petition. |
+| [7451\.](%C2%A7%2007451%20-%20Petitions.md) | Petitions. |
 | [7452\.](%C2%A7%2007452%20-%20Representation%20of%20parties.md) | Representation of parties. |
 | [7453\.](%C2%A7%2007453%20-%20Rules%20of%20practice%2C%20procedure%2C%20and%20evidence.md) | Rules of practice, procedure, and evidence. |
 | [7454\.](%C2%A7%2007454%20-%20Burden%20of%20proof%20in%20fraud%2C%20foundation%20manager%2C%20and%20transferee%20cases.md) | Burden of proof in fraud and transferee cases.<sup>1</sup> |
@@ -26,7 +26,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Pub. L. 117–58, div. H, title V, §80503(b)(2), Nov. 15, 2021, 135 Stat. 1336, substituted "Petitions" for "Fee for filing petition" in item 7451.
 
 <b>2015</b>—Pub. L. 114–113, div. Q, title IV, §431(b), Dec. 18, 2015, 129 Stat. 3125, added item 7466.
 
@@ -49,7 +53,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 07451 - Fee for filing petition](%C2%A7%2007451%20-%20Fee%20for%20filing%20petition.md)
+- [&sect; 07451 - Petitions](%C2%A7%2007451%20-%20Petitions.md)
 - [&sect; 07452 - Representation of parties](%C2%A7%2007452%20-%20Representation%20of%20parties.md)
 - [&sect; 07453 - Rules of practice, procedure, and evidence](%C2%A7%2007453%20-%20Rules%20of%20practice%2C%20procedure%2C%20and%20evidence.md)
 - [&sect; 07454 - Burden of proof in fraud, foundation manager, and transferee cases](%C2%A7%2007454%20-%20Burden%20of%20proof%20in%20fraud%2C%20foundation%20manager%2C%20and%20transferee%20cases.md)

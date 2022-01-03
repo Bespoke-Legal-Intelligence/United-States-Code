@@ -1,6 +1,6 @@
 ### §377. Revision of United States Pharmacopoeia; development of analysis and mechanical and physical tests
 
-The Secretary, in carrying into effect the provisions of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], is authorized on and after July 12, 1943, to cooperate with associations and scientific societies in the revision of the United States Pharmacopoeia and in the development of methods of analysis and mechanical and physical tests necessary to carry out the work of the Food and Drug Administration.
+The Secretary, in carrying into effect the provisions of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], is authorized on and after July 12, 1943, to cooperate with associations and scientific societies in the revision ofthe United States Pharmacopoeia and in the development of methods of analysis and mechanical and physical tests necessary to carry out the work of the Food and Drug Administration.
 
 (July 12, 1943, ch. 221, title II, 57 Stat. 500; 1953 Reorg. Plan No. 1, §5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631.)
 
@@ -14,7 +14,7 @@ The Federal Food, Drug, and Cosmetic Act, referred to in text, is act June 25, 1
 
 Section was enacted as part of the Labor-Federal Security Appropriation Act, 1944, and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.
 
-#### <b>Statutory Notes and Related Subsidiaries</b>
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

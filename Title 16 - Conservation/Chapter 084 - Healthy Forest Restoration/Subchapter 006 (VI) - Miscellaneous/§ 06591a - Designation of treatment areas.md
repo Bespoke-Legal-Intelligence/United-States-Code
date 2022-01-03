@@ -24,7 +24,7 @@ To be designated a landscape-scale area under subsection (b), the area shall be�
 
 &emsp;(1) experiencing declining forest health, based on annual forest health surveys conducted by the Secretary;
 
-&emsp;(2) at risk of experiencing substantially increased tree mortality over the next 15 yearsdue to insect or disease infestation, based on the most recent National Insect and Disease Risk Map published by the Forest Service; or
+&emsp;(2) at risk of experiencing substantially increased tree mortality over the next 15 years due to insect or disease infestation, based on the most recent National Insect and Disease Risk Map published by the Forest Service; or
 
 &emsp;(3) in an area in which the risk of hazard trees poses an imminent risk to public infrastructure, health, or safety.
 
@@ -69,6 +69,8 @@ To be designated a landscape-scale area under subsection (b), the area shall be�
 The Secretary shall carry out projects under subsection (d) in a manner that maximizes the retention of old-growth and large trees, as appropriate for the forest type, to the extent that the trees promote stands that are resilient to insects and disease.
 
 (Pub. L. 108–148, title VI, §602, as added Pub. L. 113–79, title VIII, §8204, Feb. 7, 2014, 128 Stat. 915; amended Pub. L. 115–334, title VIII, §§8407(b), 8408, Dec. 20, 2018, 132 Stat. 4846, 4847.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

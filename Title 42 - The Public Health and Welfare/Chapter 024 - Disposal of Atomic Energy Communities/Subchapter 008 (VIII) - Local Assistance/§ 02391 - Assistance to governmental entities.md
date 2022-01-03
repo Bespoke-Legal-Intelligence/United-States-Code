@@ -36,6 +36,8 @@ In exercising the authority of subsection (a) the Administrator shall assure tha
 
 (Aug. 4, 1955, ch. 543, ch. 9, §91, 69 Stat. 481; Pub. L. 90–190, §2, Dec. 14, 1967, 81 Stat. 576; Pub. L. 94–187, title VI, §601(1)–(6), Dec. 31, 1975, 89 Stat. 1077, 1078; Pub. L. 95–238, title II, §205(a), Feb. 25, 1978, 92 Stat. 60; Pub. L. 104–106, div. C, title XXXI, §3161(c), Feb. 10, 1996, 110 Stat. 627.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Act of September 30, 1950, referred to in subsec. (c), is act Sept. 30, 1950, ch. 1124, 64 Stat. 1100, as amended, popularly known as the Educational Agencies Financial Aid Act, which was classified generally to chapter 13 (§236 et seq.) of Title 20, Education, prior to repeal by Pub. L. 103–382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965. For complete classification of this Act to the Code, see Tables.
@@ -62,6 +64,8 @@ Subsec. (d). Pub. L. 90–190, §2(2), inserted "(or not less than six months pr
 
 Subsec. (e). Pub. L. 90–190, §2(3), added subsec. (e).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transfer of Functions
 
 Energy Research and Development Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of this title.
@@ -76,7 +80,7 @@ Environmental Restoration.—If the Secretary of Energy determines under any aut
 
 "(b)
 
-Conveyance or Transfer.—If the Secretary determines under any authority previously established bylaw that environmental restoration or remediation cannot reasonably be expected to be completed with respect to a parcel of land described in subsection (c) by September 30, 2022, the Secretary shall not convey or transfer the parcel of land.
+Conveyance or Transfer.—If the Secretary determines under any authority previously established by law that environmental restoration or remediation cannot reasonably be expected to be completed with respect to a parcel of land described in subsection (c) by September 30, 2022, the Secretary shall not convey or transfer the parcel of land.
 
 "(c)
 
@@ -150,9 +154,9 @@ Use of Conveyed or Transferred Land.—The parcels of land conveyed or transferr
 
 "(i)
 
-Treatment of Conveyances and Transfers.—(1) The purpose of the conveyances and transfers under this section is to fulfill the obligations of the United States with respect to Los Alamos National Laboratory, New Mexico, under sections 91 and 94 of the Atomic Energy Community Act of 1955 (42 U.S.C. 2391, 2394).
+Treatment of Conveyances and Transfers.—(1) The purpose of the conveyances and transfers under this section is to fulfill the obligations of the UnitedStates with respect to Los Alamos National Laboratory, New Mexico, under sections 91 and 94 of the Atomic Energy Community Act of 1955 (42 U.S.C. 2391, 2394).
 
-"(2) Upon the completion of the conveyance or transfer of the parcels of land available for conveyance or transfer under this section, the Secretary shall makeno further payments with respect to Los Alamos National Laboratory under section 91 or section 94 of the Atomic Energy Community Act of 1955.
+"(2) Upon the completion of the conveyance or transfer of the parcels of land available for conveyance or transfer under this section, the Secretary shall make no further payments with respect to Los Alamos National Laboratory under section 91 or section 94 of the Atomic Energy Community Act of 1955.
 
 "(j)
 

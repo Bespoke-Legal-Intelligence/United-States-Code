@@ -32,6 +32,8 @@ The Board of Trustees of Gallaudet University and the Board of Trustees or other
 
 (Pub. L. 99–371, title II, §204, formerly title IV, §404, Aug. 4, 1986, 100 Stat. 790; renumbered title II, §204, and amended Pub. L. 102–421, title I, §§101(b)(5), (6), 134, Oct. 16, 1992, 106 Stat. 2151, 2157; Pub. L. 103–73, title II, §204(c), Aug. 11, 1993, 107 Stat. 735; Pub. L. 105–244, title IX, §917, Oct. 7, 1998, 112 Stat. 1831; Pub. L. 110–315, title IX, §906, Aug. 14, 2008, 122 Stat. 3453.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to this section were contained in section 691f of this title prior to repeal by Pub. L. 99–371.
@@ -57,6 +59,8 @@ Par. (3). Pub. L. 103–73, §204(c)(3), amended par. (3) generally. Prior to am
 Par. (6). Pub. L. 103–73, §204(c)(4), substituted "Program funds are" for "Program is".
 
 <b>1992</b>—Pub. L. 102–421, §134, amended section generally, substituting present provisions for provisions requiring annual reports from Board of Trustees of Gallaudet University and National Technical Institute for the Deaf and providing for an annual monitoring and evaluation report.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

@@ -2,13 +2,15 @@
 
 (a)
 
-Guidance for Timely Consideration and Action.—The Secretary concerned may provide guidance, within guidelines provided by the Secretary of Defense, for commanders regarding their authority to make a timely determination, and to take action, regarding whether a member of the armed forces serving on active duty who is alleged to have committed an offense under section 920, 920b, 920c, or 930 of this title (article 120, 120b, 120c, or 130 of the Uniform Code of Military Justice) or an attempt to commit such an offense as punishable under section 880 of this title (article 80 of the Uniform Code of MilitaryJustice) should be temporarily reassigned or removed from a position of authority or from an assignment, not as a punitive measure, but solely for the purpose of maintaining good order and discipline within the member's unit.
+Guidance for Timely Consideration and Action.—The Secretary concerned may provide guidance, within guidelines provided by the Secretary of Defense, for commanders regarding their authority to make a timely determination, and to take action, regarding whether a member of the armed forces serving on active duty who is alleged to have committed an offense under section 920, 920b, 920c, or 930 of this title (article 120, 120b, 120c, or 130 of the Uniform Code of Military Justice) or an attempt to commit such an offense as punishable under section 880 of this title (article 80 of the Uniform Code of Military Justice) should be temporarily reassigned or removed from a position of authority or from an assignment, not as a punitive measure, but solely for the purpose of maintaining good order and discipline within the member's unit.
 
 (b)
 
 Time for Determination.—A determination described in subsection (a) may be made at any time after receipt of notification of an unrestricted report of a sexual assault or other sex-related offense that identifies the member as an alleged perpetrator.
 
 (Added Pub. L. 113–66, div. A, title XVII, §1713(a), Dec. 26, 2013, 127 Stat. 963; amended Pub. L. 113–291, div. A, title X, §1071(f)(8), Dec. 19, 2014, 128 Stat. 3510; Pub. L. 115–91, div. A, title X, §1081(c)(2)(B), Dec. 12, 2017, 131 Stat. 1599.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -19,6 +21,8 @@ A prior section 674 was renumbered section 12306 of this title.
 <b>2017</b>—Subsec. (a). Pub. L. 115–91 substituted "920b, 920c, or 930" for "920a, 920b, 920c, or 925" and "120b, 120c, or 130" for "120a, 120b, 120c, or 125".
 
 <b>2014</b>—Subsec. (b). Pub. L. 113–291 substituted "after receipt" for "afer receipt".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 

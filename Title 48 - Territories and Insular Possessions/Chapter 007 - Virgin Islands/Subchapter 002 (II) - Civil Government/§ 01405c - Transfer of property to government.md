@@ -22,6 +22,8 @@ Nothing in this subchapter shall be construed to affect or impair in any manner 
 
 (June 22, 1936, ch. 699, §4, 49 Stat. 1808; Aug. 7, 1939, ch. 515, 53 Stat. 1242; Oct. 31, 1951, ch. 654, §1(127), 65 Stat. 706; Pub. L. 97–357, title III, §306, Oct. 19, 1982, 96 Stat. 1709.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1982</b>—Subsec. (d). Pub. L. 97–357 substituted "legislature" for "Legislative Assembly" wherever appearing.
@@ -29,6 +31,8 @@ Nothing in this subchapter shall be construed to affect or impair in any manner 
 <b>1951</b>—Subsec. (f). Act Oct. 31, 1951, repealed subsec. (f) which authorized the Secretary of the Interior to lease or sell any property under his administrative supervision in the Virgin Islands not needed for public purposes.
 
 <b>1939</b>—Act Aug. 7, 1939, designated existing provisions as subsecs. (a), (b), (e), and (f) and added subsecs. (c) and (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Construction of Virgin Islands Projects by Secretary of the Army
 
@@ -46,6 +50,8 @@ Limitation on Statutory Construction.—Nothing in this section shall be constru
 
 Termination Date.—Subsection (a) shall not be effective after the last day of the 3-year period beginning on the date of the enactment of this Act \[Nov. 28, 1990\]; except that the Secretary shall complete construction of any project commenced under subsection (a) before such day."
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 9170. Certain Navigation Laws Made Applicable to Virgin Islands
 
 Ex. Ord. No. 9170, eff. May 21, 1942, 7 F.R. 384, provided in part:
@@ -54,7 +60,7 @@ It is ordered that all of the navigation and vessel inspection laws of the Unite
 
 (1) The coastwise laws of the United States.
 
-(2) The act of Congress approved June 7, 1897 (30 Stat. 96), as amended by the acts of February 19, 1900 (31Stat. 30), May 25, 1914 (38 Stat. 381), March 1, 1933 (47 Stat. 1417), Aug. 21, 1935 (49 Stat. 668, 669), May 20, 1936 (49 Stat. 1367), and April 22, 1940 (54 Stat. 150).
+(2) The act of Congress approved June 7, 1897 (30 Stat. 96), as amended by the acts of February 19, 1900 (31 Stat. 30), May 25, 1914 (38 Stat. 381), March 1, 1933 (47 Stat. 1417), Aug. 21, 1935 (49 Stat. 668, 669), May 20, 1936 (49 Stat. 1367), and April 22, 1940 (54 Stat. 150).
 
 (3) So much of the vessel inspection laws of the United States as requires the inspection as a passenger vessel of any cargo vessel, foreign or domestic, when carrying more than twelve passengers or persons in addition to the crew.
 

@@ -10,9 +10,13 @@ It shall be the duty of the Commission—
 
 (Pub. L. 86–380, §5, Sept. 24, 1959, 73 Stat. 705.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 2375 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Reporting Requirements
 
@@ -20,5 +24,5 @@ For termination, effective May 15, 2000, of provisions in cl. (3) of this sectio
 
 #### Study and Report to Congress of Effect on Funds Available for Housing and State and Local Bond Markets of Full Deposit Insurance for Public Funds; Submission Date; Authorization of Appropriations
 
-Pub. L. 93–495, title I, §101(f), Oct. 28, 1974, 88 Stat. 1502, required the Advisory Commission on Intergovernmental Relations to conduct a study of the impact of section 101 of Pub. L. 93–495 \[amending sections 1464, 1724, 1728, 1757, 1787, 1813, 1817 and 1821 of Title 12, Banks and Banking, and enacting provision set out as a note under section 1813 of Title 12\] on funds available for housing and on State and local bond markets, and to make a report to the Congress of the results of its study not later than two years after Oct. 28, 1974, and authorized the appropriation of such sums as may be necessary to carry out section 101(f) of Pub. L. 93–495.
+Pub. L. 93–495, title I, §101(f), Oct. 28, 1974, 88 Stat. 1502, required the Advisory Commission on Intergovernmental Relations to conduct a study of the impact of section 101 of Pub. L. 93–495 \[amending sections 1464, 1724, 1728, 1757, 1787, 1813, 1817 and 1821 of Title 12, Banks and Banking, and enacting provision set out as a note under section 1813 of Title 12\] on funds available for housing and on State and local bond markets, and tomake a report to the Congress of the results of its study not later than two years after Oct. 28, 1974, and authorized the appropriation of such sums as may be necessary to carry out section 101(f) of Pub. L. 93–495.
 

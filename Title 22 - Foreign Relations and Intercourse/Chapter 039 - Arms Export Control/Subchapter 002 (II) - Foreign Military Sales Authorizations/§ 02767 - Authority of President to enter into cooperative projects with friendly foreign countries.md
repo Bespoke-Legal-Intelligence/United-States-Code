@@ -38,7 +38,7 @@ The President may enter into contracts or incur other obligations for a cooperat
 
 (1) For those cooperative projects entered into on or after the effective date <sup>1</sup> of the International Security and Development Cooperation Act of 1985, the President may reduce or waive the charge or charges which would otherwise be considered appropriate under section 2761(e) of this title in connection with sales under sections 2761 and 2762 of this title when such sales are made as part of such cooperative project, if the other participants agree to reduce or waive corresponding charges.
 
-(2) Notwithstanding provisions of section 2761(e)(1)(A) and section 2792(b) of this title, administrative surcharges shall not be increased on other sales made under this chapter in orderto compensate for reductions or waivers of such surcharges under this section. Funds received pursuant to such other sales shall not be available to reimburse the costs incurred by the United States Government for which reduction or waiver is approved by the President under this section.
+(2) Notwithstanding provisions of section 2761(e)(1)(A) and section 2792(b) of this title, administrative surcharges shall not be increased on other sales made under this chapter in order to compensate for reductions or waivers of such surcharges under this section. Funds received pursuant to such other sales shall not be available to reimburse the costs incurred by the United States Government for which reduction or waiver is approved by the President under this section.
 
 #### (f) Transmission of numbered certification to Congress respecting proposed agreement; contents
 
@@ -86,7 +86,7 @@ The authority under this section is in addition to the authority under sections 
 
 The effective date of the International Security and Development Cooperation Act of 1985 and the effective date of the amendment to this section made by the International Security and Development Cooperation Act of 1985, referred to in subsecs. (e)(1) and (i), respectively, is October 1, 1985, see section 1301 of Pub. L. 99–83, set out as an Effective Date of 1985 Amendment note under section 2151–1 of this title.
 
-This chapter, referred to in subsec. (e)(2), was in the original "this Act", meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to theCode, see Short Title note set out under section 2751 of this title and Tables.
+This chapter, referred to in subsec. (e)(2), was in the original "this Act", meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 The amendment made to this section made by the International Security and Development Cooperation Act of 1985, referred to in subsec. (i), means the general amendment of this section by section 115(a) of Pub. L. 99–83. See 1985 Amendment note below.
 
@@ -160,9 +160,9 @@ Definitions.—In this section:
 
 &emsp;"(1) The term 'engineering and manufacturing development' has the meaning given that term in Department of Defense Instruction 5000.02.
 
-&emsp;"(2) The term 'major weapon system' has the meaning given that term in section 2379(f) of title 10, United States Code."
+&emsp;"(2) The term 'major weapon system' has the meaning given that term in section 2379(f) of title 10, United States Code \[now 10 U.S.C. 3455(f)\]."
 
-\[Pub. L. 116–92, §902(84), which directed the amendment of section 836(a)(2) of Pub. L. 112–81, set out above, by substituting "the Under Secretary of Defense for Acquisition and Sustainment, the Under Secretary of Defense for Research and Engineering," for "the Under Secretary of Defense for Acquisition, Technology, and Logistics, the Assistant Secretary of Defense for Research,", was executed by making the substitution for "the Under Secretary of Defense for Acquisition, Technology, and Logistics, the AssistantSecretary of Defense for Research and Engineering," to reflect the probable intent of Congress.\]
+\[Pub. L. 116–92, §902(84), which directed the amendment of section 836(a)(2) of Pub. L. 112–81, set out above, by substituting "the Under Secretary of Defense for Acquisition and Sustainment, the Under Secretary of Defense for Research and Engineering," for "the Under Secretary of Defense for Acquisition, Technology, and Logistics, the Assistant Secretary of Defense for Research,", was executed by making the substitution for "the Under Secretary of Defense for Acquisition, Technology, and Logistics, the Assistant Secretary of Defense for Research and Engineering," to reflect the probable intent of Congress.\]
 
 #### <b>Executive Documents</b>
 

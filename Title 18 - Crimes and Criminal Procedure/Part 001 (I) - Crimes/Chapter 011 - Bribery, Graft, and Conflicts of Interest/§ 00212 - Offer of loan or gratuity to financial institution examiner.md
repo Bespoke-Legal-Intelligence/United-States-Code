@@ -20,7 +20,7 @@ Definitions.—In this section:
 
 Examiner.—The term "examiner" means any person—
 
-&emsp;&emsp;(A) appointed by a Federal financial institution regulatory agency or pursuant to the laws of any State to examine a financial institution; or
+&emsp;&emsp;(A) appointed by a Federal financial institution regulatory agency or pursuant to thelaws of any State to examine a financial institution; or
 
 &emsp;&emsp;(B) elected under the law of any State to conduct examinations of any financial institutions.
 

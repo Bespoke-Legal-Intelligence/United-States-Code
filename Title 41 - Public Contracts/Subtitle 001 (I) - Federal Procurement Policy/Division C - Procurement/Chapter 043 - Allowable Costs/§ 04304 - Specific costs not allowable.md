@@ -34,7 +34,7 @@ Specific Costs.—The following costs are not allowable under a covered contract
 
 &emsp;(13) Costs of severance pay paid by the contractor to foreign nationals employed by the contractor under a service contract performed outside the United States, to the extent that the amount of severance pay paid in any case exceeds the amount paid in the industry involved under the customary or prevailing practice for firms in that industry providing similar services in the United States, as determined under the Federal Acquisition Regulation.
 
-&emsp;(14) Costs of severance pay paid by the contractor to a foreign national employed by the contractor under a service contract performed in a foreign country if the termination of the employment of the foreign national is the result of the closing of, or the curtailment of activities at, a Federal Government facility inthat country at the request of the government of that country.
+&emsp;(14) Costs of severance pay paid by the contractor to a foreign national employed by the contractor under a service contract performedin a foreign country if the termination of the employment of the foreign national is the result of the closing of, or the curtailment of activities at, a Federal Government facility in that country at the request of the government of that country.
 
 &emsp;(15) Costs incurred by a contractor or subcontractor, or personal service <sup>1</sup> contractor in connection with any criminal, civil, or administrative proceeding commenced by the Federal Government or a State, to the extent provided in section 4310 of this title.
 
@@ -102,9 +102,9 @@ June 30, 1949, ch. 288, title III, §306(e), as added Pub. L. 100–700, §8(a)(
 
 #### Effective Date of 2013 Amendment
 
-Amendment by Pub. L. 113–67 applicable only with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 daysafter Dec. 26, 2013, see section 702(c) of Pub. L. 113–67, set out as a note under section 2324 of Title 10, Armed Forces.
+Pub. L. 113–67, div. A, title VII, §702(c), Dec. 26, 2013, 127 Stat. 1189, provided that: "This section \[amending this section and former section 2324 of Title 10, Armed Forces, repealing section 1127 of this title, and enacting provisions set out as a note under this section\] and the amendments made by this section shall apply only with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after the date of the enactment of this Act \[Dec. 26, 2013\]."
 
-Amendment by Pub. L. 113–66 applicable with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after Dec. 26, 2013, see section 811(d) of Pub. L. 113–66, set out as a note under section 2324 of Title 10, Armed Forces.
+Pub. L. 113–66, div. A, title VIII, §811(d), Dec. 26, 2013, 127 Stat. 806, provided that: "The amendments made by this section \[amending this section and former section 2324 of Title 10, Armed Forces, and repealing section 1127 of this title\] shall apply with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after the date of the enactment of this Act \[Dec. 26, 2013\]."
 
 #### Reports
 
@@ -156,7 +156,7 @@ Definitions.—In this section:
 
 &emsp;"(1) The term 'employee' includes officers and directors of a contractor.
 
-&emsp;"(2) The term 'covered contract' has the meaning given such term in section 2324(l) of title 10, United States Code (as amended by section 2101(c) \[2101(d)\]), and section 306(l) of the Federal Property and Administrative Services Act of 1949 (as added by section 2151) \[see 41 U.S.C. 4301(2)\].
+&emsp;"(2) The term 'covered contract' has the meaning given such term in section 2324(l) of title 10, United States Code \[see 10 U.S.C. 3741\] (as amended by section 2101(c) \[2101(d)\]), and section 306(l) of the Federal Property and Administrative Services Act of 1949 (as added by section 2151) \[see 41 U.S.C. 4301(2)\].
 
 "(c)
 

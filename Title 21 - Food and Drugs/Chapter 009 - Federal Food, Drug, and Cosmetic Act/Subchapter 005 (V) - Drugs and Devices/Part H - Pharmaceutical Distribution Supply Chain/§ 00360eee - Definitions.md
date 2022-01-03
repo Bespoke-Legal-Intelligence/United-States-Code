@@ -36,7 +36,7 @@ In this part:
 
 #### (5) Distribute or distribution
 
-&emsp;The term "distribute" or "distribution" means the sale, purchase, trade, delivery, handling, storage, or receipt of a product, and does not include the dispensing of a product pursuant to a prescription executed in accordance with section 353(b)(1) of this title or the dispensing of a product approved under section 360b(b) of this title.
+&emsp;The term "distribute" or "distribution" means the sale, purchase, trade, delivery, handling, storage, or receipt of a product, and does not include the dispensing of a productpursuant to a prescription executed in accordance with section 353(b)(1) of this title or the dispensing of a product approved under section 360b(b) of this title.
 
 #### (6) Exclusive distributor
 
@@ -118,7 +118,7 @@ In this part:
 
 #### (18) Returns processor or reverse logistics provider
 
-&emsp;The term "returns processor" or "reverse logistics provider" means a person who owns or operates an establishment that dispositions or otherwise processes saleable or nonsaleable product received from an authorized trading partner such that the product may be processed for credit to the purchaser, manufacturer, or seller or disposed of for no further distribution.
+&emsp;The term "returns processor" or "reverse logistics provider" means a person who owns oroperates an establishment that dispositions or otherwise processes saleable or nonsaleable product received from an authorized trading partner such that the product may be processed for credit to the purchaser, manufacturer, or seller or disposed of for no further distribution.
 
 #### (19) Specific patient need
 

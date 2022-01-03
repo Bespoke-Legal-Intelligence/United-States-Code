@@ -86,7 +86,7 @@ Under regulations prescribed by the Secretary, an officer participating in a pro
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), an officer who participates in a program under this section is entitled, while participating in the program, to the travel and transportation allowances authorized by section 474 of title 37 for—
+&emsp;&emsp;Subject to subparagraph (B), an officer who participates in a program under thissection is entitled, while participating in the program, to the travel and transportation allowances authorized by section 474 <sup>1</sup> of title 37 for—
 
 &emsp;&emsp;&emsp;(i) travel performed from the residence of the officer, at the time of release from active duty to participate in the program, to the location in the United States designated by the officer as the officer's residence during the period of participation in the program; and
 
@@ -123,4 +123,12 @@ An officer participating in a program under this section shall, while participat
 &emsp;(2) retirement or separation for physical disability under the provisions of subchapter III.
 
 (Pub. L. 107–372, title II, §236, as added Pub. L. 116–259, title III, §307(a), Dec. 23, 2020, 134 Stat. 1174.)
+
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+Section 474 of title 37, referred to in subsec. (f)(4)(A), was repealed by Pub. L. 117–81, div. A, title VI, §604(a), Dec. 27, 2021, 135 Stat. 1767.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

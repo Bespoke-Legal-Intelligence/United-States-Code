@@ -2,7 +2,7 @@
 
 (a)
 
-Correction of Military Records.—The Secretary of a military department may correct a person's military records in accordance with a recommendation made by a special board. Any such correction may be made effective as of the effective date of the action taken on a report of a previous selection board that resulted in the action corrected in the person's military records.
+Correction of Military Records.—The Secretary of a military department may correct a person's military records in accordance with a recommendation made by a special board. Anysuch correction may be made effective as of the effective date of the action taken on a report of a previous selection board that resulted in the action corrected in the person's military records.
 
 (b)
 
@@ -109,6 +109,8 @@ Existing Jurisdiction.—Nothing in this section limits—
 &emsp;(2) the authority of the Secretary of a military department to correct a military record under section 1552 of this title.
 
 (Added Pub. L. 107–107, div. A, title V, §503(a)(1), Dec. 28, 2001, 115 Stat. 1080.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -4,9 +4,13 @@ It shall be unlawful for any person to introduce or deliver for introduction int
 
 (Aug. 2, 1956, ch. 890, §1, 70 Stat. 953.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For date this section takes effect, referred to in text, see Effective Date note below.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

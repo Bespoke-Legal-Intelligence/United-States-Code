@@ -32,9 +32,11 @@ So much of 34 U.S.C. 901a as authorizes a commuted ration for enlisted members o
 
 In subsection (a) reference to the Coast and Geodetic Survey is omitted since there are no enlisted personnel in that service, and reference to the Coast Guard is omitted as covered by 14 U.S.C. 478.
 
-In subsections (a) and (b) the words "or furlough therefrom" are omitted as surplusage, and the words "for each day" are inserted to make clear the fact that a ration is a daily allowance of food and that, in subsection (b), the commuted ration is credited on a daily basis. The words "and cadets" are omitted as there areno cadets in the Navy or Marine Corps entitled to a Navy ration. Aviation cadets are entitled to the basic allowance for subsistence prescribed for officers (34 U.S.C. 850c).
+In subsections (a) and (b) the words "or furlough therefrom" are omitted as surplusage, and the words "for each day" are inserted to make clear the fact that a ration is a daily allowance of food and that, in subsection (b), the commuted ration is credited on a daily basis. The words "and cadets" are omitted as there are no cadets in the Navy or Marine Corps entitled to a Navy ration. Aviation cadets are entitled to the basic allowance for subsistence prescribed for officers (34 U.S.C. 850c).
 
 In subsection (c) the words "prescribed by law" and "in accordance with law" are omitted as surplusage.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -46,9 +48,11 @@ In subsection (c) the words "prescribed by law" and "in accordance with law" are
 
 Subsec. (c). Pub. L. 87–649 struck out provisions which permitted the Secretary to prescribe regulations for the allowance of the commuted value of the ration. See section 422(b) of Title 37, Pay and Allowances of the Uniformed Services.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments andspecial rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 1997 Amendment
 

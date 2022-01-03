@@ -62,6 +62,8 @@
 
 (Pub. L. 93–577, §6, Dec. 31, 1974, 88 Stat. 1881; Pub. L. 95–238, title II, §206(a), Feb. 25, 1978, 92 Stat. 61; Pub. L. 102–486, title XXIII, §2303(a), Oct. 24, 1992, 106 Stat. 3092; Pub. L. 109–58, title X, §1009(b)(4), Aug. 8, 2005, 119 Stat. 935; Pub. L. 116–260, div. Z, title III, §3006(d), Dec. 27, 2020, 134 Stat. 2513.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Energy Reorganization Act of 1974, referred to in subsec. (a), is Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, as amended, which is classified principally to chapter 73 (§5801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
@@ -74,7 +76,7 @@ Section 5914 of this title, referred to in subsecs. (a), (b)(1), and (c), was om
 
 The Geothermal Energy Research, Development, and Demonstration Act of 1974 (Public Law 93–410), referred to in subsec. (b)(3)(F), was classified generally to chapter 24 (§1101 et seq.) of Title 30, Mineral Lands and Mining, prior to repeal by Pub. L. 116–260, div. Z, title III, §3002(i)(3), Dec. 27, 2020, 134 Stat. 2495.
 
-The Solar Heating and Cooling Demonstration Act of 1974, referred to in subsec. (b)(3)(I), is Pub. L. 93–409, Sept. 3, 1974, 88 Stat. 1069, was classified generally to subchapter I (§5501 et seq.) of chapter 71 of this title,prior to repeal by Pub. L. 116–260, div. Z, title III, §3006(e)(1), Dec. 27, 2020, 134 Stat. 2513.
+The Solar Heating and Cooling Demonstration Act of 1974, referred to in subsec. (b)(3)(I), is Pub. L. 93–409, Sept. 3, 1974, 88 Stat. 1069, was classified generally to subchapter I (§5501 et seq.) of chapter 71 of this title, prior to repeal by Pub. L. 116–260, div. Z, title III, §3006(e)(1), Dec. 27, 2020, 134 Stat. 2513.
 
 The Renewable Energy and Energy Efficiency Technology Competitiveness Act of 1989, referred to in subsec. (b)(3)(Q), is Pub. L. 101–218, Dec. 11, 1989, 103 Stat. 1859, which is classified principally to chapter 125 (§12001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12001 of this title and Tables.
 
@@ -107,6 +109,8 @@ Subsec. (c). Pub. L. 102–486, §2303(a)(3)(B), inserted at end "Such program s
 Pub. L. 102–486, §2303(a)(3)(A), substituted "Secretary, in consultation with the Advisory Board established under section 2302 of the Energy Policy Act of 1992," for "Administrator".
 
 <b>1978</b>—Subsec. (c). Pub. L. 95–238 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Nonapplicability of Title II of Pub. L. 95–238 to Any Authorization or Appropriation for Military Application of Nuclear Energy, Etc.; Definitions
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Appointment of Inspector General.—There shall be an Inspector General for the Commissions appointed in accordance with section 3(a) of the Inspector General Act of 1978 (5 U.S.C. App.). All of the Commissions shall be subject to a single Inspector General.
+Appointment of Inspector General.—There shall be an Inspector General for the Commissions appointed in accordance with section3(a) of the Inspector General Act of 1978 (5 U.S.C. App.). All of the Commissions shall be subject to a single Inspector General.
 
 (b)
 

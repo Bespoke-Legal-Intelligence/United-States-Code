@@ -28,9 +28,13 @@ R.S. 565; R.S. 4637.
 
 Reference to the court is omitted from 34 U.S.C. 1147 and from the revised section in view of the 1948 Act.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7679 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

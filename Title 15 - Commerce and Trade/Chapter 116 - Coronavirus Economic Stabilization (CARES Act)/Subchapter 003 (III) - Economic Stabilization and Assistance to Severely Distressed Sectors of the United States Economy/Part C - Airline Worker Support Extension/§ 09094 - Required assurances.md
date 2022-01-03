@@ -28,7 +28,7 @@ To be eligible for financial assistance under this part, a passenger air carrier
 
 An agreement or certification under this section shall require a passenger air carrier or contractor to perform the following actions:
 
-&emsp;(1) In the case of a passenger air carrier or contractor that received financial assistance under title IV of the CARES Act \[15 U.S.C. 9041 et seq., 9071 et seq.\]—
+&emsp;(1) In the case of a passenger air carrier or contractor that received financial assistance under title IV of the CARES Act \[15 U.S.C. 9041 et seq., 9071 et seq.\] —
 
 &emsp;&emsp;(A) recall (as defined in section 9091 of this title), not later than 72 hours after executing such agreement or certification, any employees involuntarily furloughed by such passenger air carrier or contractor between October 1, 2020, and the date such passenger air carrier or contractor enters into an agreement with the Secretary with respect to financial assistance under this part;
 
@@ -54,9 +54,11 @@ An agreement or certification under this section shall require a passenger air c
 
 (Pub. L. 116–260, div. N, title IV, §404, Dec. 27, 2020, 134 Stat. 2055.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This part, referred to in text, was in the original "this subtitle", meaning subtitle A (§§401–412) of titleIV of div. N of Pub. L. 116–260, Dec. 27, 2020, 134 Stat. 2052, which enacted this part and amended sections 9041, 9071, and 9074 of this title. For complete classification of subtitle A to the Code, see Tables.
+This part, referred to in text, was in the original "this subtitle", meaning subtitle A (§§401–412) of title IV of div. N of Pub. L. 116–260, Dec. 27, 2020, 134 Stat. 2052, which enacted this part and amended sections 9041, 9071, and 9074 of this title. For complete classification of subtitle A to the Code, see Tables.
 
 Title IV of the CARES Act, referred to in subsec. (b), is title IV of div. A of Pub. L. 116–136, Mar. 27, 2020, 134 Stat. 469, which is classified principally to parts A (§9041 et seq.) and B (§9071 et seq.) of this subchapter. For complete classification of title IV to the Code, see Tables.
 

@@ -50,6 +50,8 @@ Every employer required under subsection (a) to deduct the tax shall be liable f
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 431; Aug. 31, 1954, ch. 1164, pt. II, §206(a), 68 Stat. 1040; Pub. L. 86–28, pt. II, §201(b), May 19, 1959, 73 Stat. 29; Pub. L. 88–133, title II, §202, Oct. 5, 1963,77 Stat. 221; Pub. L. 89–212, §§2(a), 4, Sept. 29, 1965, 79 Stat. 858, 861; Pub. L. 89–700, title III, §301(iii), (v), Oct. 30, 1966, 80 Stat. 1088; Pub. L. 93–69, title I, §102(b), July 10, 1973, 87 Stat. 162; Pub. L. 94–455, title XIX, §§1903(a)(7), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1807, 1834; Pub. L. 98–76, title II, §225(a)(2), (c)(1)(A), (B), (2)–(5), Aug. 12, 1983, 97 Stat. 425; Pub. L. 101–508, title V, §5124(b), Nov. 5, 1990, 104 Stat. 1388–285.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Subsec. (d). Pub. L. 101–508 added subsec. (d).
@@ -80,6 +82,8 @@ Subsec. (c). Pub. L. 89–212, §2(a)(2), added subsec. (c).
 
 <b>1954</b>—Subsec. (a). Act Aug. 31, 1954, substituted "$350" for "$300" wherever appearing.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–508 applicable to coverage provided after Dec. 31, 1990, see section 5124(c) of Pub. L. 101–508, set out as a note under section 3102 of this title.
@@ -90,7 +94,7 @@ Amendment by Pub. L. 98–76 applicable to remuneration paid after Dec. 31, 1984
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1903(a)(7) of Pub. L. 94–455 applicable with respect to compensation paid for servicesrendered after Dec. 31, 1976, see section 1903(d) of Pub. L. 94–455, set out as a note under section 3201 of this title.
+Amendment by section 1903(a)(7) of Pub. L. 94–455 applicable with respect to compensation paid for services rendered after Dec. 31, 1976, see section 1903(d) of Pub. L. 94–455, set out as a note under section 3201 of this title.
 
 #### Effective Date of 1973 Amendment
 
@@ -106,5 +110,5 @@ Amendment by Pub. L. 86–28 effective, except as otherwise provided, first day 
 
 #### Effective Date of 1954 Amendment
 
-Amendment by act Aug. 31, 1954, effective as if enacted as a part of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], see section 407 of act Aug. 31, 1954, as amended, set out as a note under section 3201 of this title.
+Amendment by act Aug. 31, 1954, effective as if enacted as a part of the Internal Revenue Code of 1986\[formerly I.R.C. 1954\], see section 407 of act Aug. 31, 1954, as amended, set out as a note under section 3201 of this title.
 

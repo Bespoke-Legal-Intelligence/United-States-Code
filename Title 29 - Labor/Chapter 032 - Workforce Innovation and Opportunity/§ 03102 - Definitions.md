@@ -66,7 +66,7 @@ In this Act, and the core program provisions that are not in this Act, except as
 
 #### (10) Community-based organization
 
-&emsp;The term "community-based organization" means a private nonprofit organization (which may include a faith-based organization), that is representative of a community or a significant segment of a community and that has demonstrated expertise and effectiveness in the field of workforce development.
+&emsp;The term "community-based organization" means a private nonprofit organization (whichmay include a faith-based organization), that is representative of a community or a significant segment of a community and that has demonstrated expertise and effectiveness in the field of workforce development.
 
 #### (11) Competitive integrated employment
 
@@ -134,7 +134,7 @@ In this Act, and the core program provisions that are not in this Act, except as
 
 &emsp;&emsp;(A)(i) has been dependent on the income of another family member but is no longer supported by that income; or
 
-&emsp;&emsp;(ii) is the dependent spouse of a member of the Armed Forces on active duty (as defined in section 101(d)(1) of title 10) and whose family income is significantly reduced because of a deployment (as defined in section 991(b) of title 10 or pursuant to paragraph (4)of such section), a call or order to active duty pursuant to a provision of law referred to in section 101(a)(13)(B) of title 10, a permanent change of station, or the service-connected (as defined in section 101(16) of title 38) death or disability of the member; and
+&emsp;&emsp;(ii) is the dependent spouse of a member of the Armed Forces on active duty (as defined in section 101(d)(1) of title 10) and whose family income is significantly reduced because of a deployment (as defined in section 991(b) of title 10 or pursuant to paragraph (4) of such section), a call or order to active duty pursuant to a provision of law referred to in section 101(a)(13)(B) of title 10, a permanent change of station, or the service-connected (as defined in section 101(16) of title 38) death or disability of the member; and
 
 &emsp;&emsp;(B) is unemployed or underemployed and is experiencing difficulty in obtaining or upgrading employment.
 
@@ -498,7 +498,7 @@ In this Act, and the core program provisions that are not in this Act, except as
 
 #### (71) Youth workforce investment activity
 
-&emsp;The term "youth workforce investment activity" means an activity described in section 3164 of this title that is carried out for eligibleyouth (or as described in section 3164(a)(3)(A) of this title).
+&emsp;The term "youth workforce investment activity" means an activity described in section 3164 of this title that is carried out for eligible youth (or as described in section 3164(a)(3)(A) of this title).
 
 (Pub. L. 113–128, §3, July 22, 2014, 128 Stat. 1429; Pub. L. 114–95, title IX, §9215(yyy)(1), Dec. 10, 2015, 129 Stat. 2191.)
 
@@ -506,7 +506,7 @@ In this Act, and the core program provisions that are not in this Act, except as
 
 #### References in Text
 
-This Act, referred to in text, is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§2801 et seq.) of this title and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+This Act, referred to in text, is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§2801 et seq.) of this title and chapter 73 (§9201 et seq.) of Title 20, Education, and madeamendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 The National Apprenticeship Act, referred to in par. (7)(B), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, which is classified generally to chapter 4C (§50 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 50 of this title and Tables.
 

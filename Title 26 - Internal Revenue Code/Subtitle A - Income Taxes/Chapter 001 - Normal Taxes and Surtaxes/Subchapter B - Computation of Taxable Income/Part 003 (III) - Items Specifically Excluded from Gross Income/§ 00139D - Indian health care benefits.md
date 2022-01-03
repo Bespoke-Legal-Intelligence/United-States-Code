@@ -14,7 +14,7 @@ For purposes of this section, the term "qualified Indian health care benefit" me
 
 &emsp;(3) coverage under accident or health insurance (or an arrangement having the effect of accident or health insurance), or an accident or health plan, provided by an Indian tribe or tribal organization for medical care to a member of an Indian tribe, include a spouse or dependent of such a member, and
 
-&emsp;(4) any other medical care provided by an Indian tribe or tribal organization that supplements, replaces, or substitutes for a program or service relating to medical care provided bythe Federal government to Indian tribes or members of such a tribe.
+&emsp;(4) any other medical care provided by an Indian tribe or tribal organization that supplements, replaces, or substitutes for a program or service relating to medical care provided by the Federal government to Indian tribes or members of such a tribe.
 
 #### (c) Definitions
 
@@ -46,6 +46,8 @@ Subsection (a) shall not apply to the amount of any qualified Indian health care
 
 (Added Pub. L. 111–148, title IX, §9021(a), Mar. 23, 2010, 124 Stat. 873.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 4(l) of the Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(2), is classified to section 5304(l) of Title 25, Indians.
@@ -53,6 +55,8 @@ Section 4(l) of the Indian Self-Determination and Education Assistance Act, refe
 #### Codification
 
 Another section 139D, added Pub. L. 111–148, title X, §10108(f)(1), Mar. 23, 2010, 124 Stat. 913, related to free choice vouchers, prior to repeal by Pub. L. 112–10, div. B, title VIII, §1858(b)(2)(A), Apr. 15, 2011, 125 Stat. 168, effective as if included in the provisions of, and the amendments made by, the provisions of Pub. L. 111–148 to which it relates, see section 1858(d) of Pub. L. 112–10, set out as an Effective Date of 2011 Amendment note under section 36B of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -2,7 +2,7 @@
 
 #### (a) Classification and attainment dates for 1989 nonattainment areas
 
-(1) Each area designated nonattainment for ozone pursuant to section 7407(d) of this title shall be classified at the time of such designation, under table 1, by operation of law, as a Marginal Area, a Moderate Area, a Serious Area, a Severe Area, or an Extreme Area based on the design value for the area. The design value shall be calculated according to the interpretation methodology issued by the Administrator most recently before November 15, 1990. For each area classified under this subsection, the primary standard attainment date for ozone shall be as expeditiously as practicable but not later than the date provided in table 1.
+(1) Each area designated nonattainment for ozone pursuant to section 7407(d) of this titleshall be classified at the time of such designation, under table 1, by operation of law, as a Marginal Area, a Moderate Area, a Serious Area, a Severe Area, or an Extreme Area based on the design value for the area. The design value shall be calculated according to the interpretation methodology issued by the Administrator most recently before November 15, 1990. For each area classified under this subsection, the primary standard attainment date for ozone shall be as expeditiously as practicable but not later than the date provided in table 1.
 
 TABLE 1
 
@@ -40,7 +40,7 @@ TABLE 1
 
 #### (2) Reclassification upon failure to attain
 
-&emsp;(A) Within 6 months following the applicable attainment date (including any extensionthereof) for an ozone nonattainment area, the Administrator shall determine, based on the area's design value (as of the attainment date), whether the area attained the standard by that date. Except for any Severe or Extreme area, any area that the Administrator finds has not attained the standard by that date shall be reclassified by operation of law in accordance with table 1 of subsection (a) to the higher of—
+&emsp;(A) Within 6 months following the applicable attainment date (including any extension thereof) for an ozone nonattainment area, the Administrator shall determine, based on the area's design value (as of the attainment date), whether the area attained the standard by that date. Except for any Severe or Extreme area, any area that the Administrator finds has not attained the standard by that date shall be reclassified by operation of law in accordance with table 1 of subsection (a) to the higher of—
 
 &emsp;&emsp;(i) the next higher classification for the area, or
 
@@ -56,7 +56,7 @@ TABLE 1
 
 #### (4) Failure of Severe Areas to attain standard
 
-&emsp;(A) If any Severe Area fails to achieve the national primary ambient air quality standard for ozone by the applicable attainment date (including any extension thereof), the fee provisions under section 7511d of this title shall apply within the area, the percent reduction requirements of section 7511a(c)(2)(B) and (C) of this title (relating to reasonable further progress demonstration and NO<sub>x</sub> control) shall continue to apply to the area, and the State shall demonstrate that such percent reduction has been achieved in each 3-year interval after such failure until the standard is attained. Any failure to make such a demonstration shall be subject to the sanctions provided under this part.
+&emsp;(A) If any Severe Area fails to achieve the national primary ambient air quality standardfor ozone by the applicable attainment date (including any extension thereof), the fee provisions under section 7511d of this title shall apply within the area, the percent reduction requirements of section 7511a(c)(2)(B) and (C) of this title (relating to reasonable further progress demonstration and NO<sub>x</sub> control) shall continue to apply to the area, and the State shall demonstrate that such percent reduction has been achieved in each 3-year interval after such failure until the standard is attained. Any failure to make such a demonstration shall be subject to the sanctions provided under this part.
 
 &emsp;(B) In addition to the requirements of subparagraph (A), if the ozone design value for a Severe Area referred to in subparagraph (A) is above 0.140 ppm for the year of the applicable attainment date, or if the area has failed to achieve its most recent milestone under section 7511a(g) of this title, the new source review requirements applicable under this subpart in Extreme Areas shall apply in the area and the term <sup>1</sup> "major source" and "major stationary source" shall have the same meaning as in Extreme Areas.
 
@@ -71,6 +71,8 @@ TABLE 1
 (2) Any reference in this subpart to "next higher classification" or comparable terms shall be considered a reference to the classification related to the next higher set of design values in table 1.
 
 (July 14, 1955, ch. 360, title I, §181, as added Pub. L. 101–549, title I, §103, Nov. 15, 1990, 104 Stat. 2423.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Exemptions for Stripper Wells
 

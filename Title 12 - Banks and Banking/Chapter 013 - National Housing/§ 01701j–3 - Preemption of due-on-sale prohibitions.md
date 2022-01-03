@@ -28,7 +28,7 @@ For the purpose of this section—
 
 &emsp;(A) a State, by a State law enacted by the State legislature prior to the close of such 3-year period, with respect to real property loans originated in the State by lenders other than national banks, Federal savings and loan associations, Federal savings banks, and Federal credit unions, may otherwise regulate such contracts, in which case subsection (b) shall apply only if such State law so provides; and
 
-&emsp;(B) the Comptroller of the Currency with respect to real property loans originated by national banks or the National Credit Union Administration Board with respect to real property loans originated by Federal credit unions may, by regulation prescribed prior to the close of such period, otherwise regulate such contracts, in which case subsection (b) shall apply only if such regulation so provides.
+&emsp;(B) the Comptroller of the Currency with respect to real property loans originated by national banks or the National Credit Union Administration Board with respect to real property loans originated by Federal credit unions may, by regulation prescribed prior to the close of such period, otherwise regulate suchcontracts, in which case subsection (b) shall apply only if such regulation so provides.
 
 (2)(A) For any contract to which subsection (b) does not apply pursuant to this subsection, a lender may require any successor or transferee of the borrower to meet customary credit standards applied to loans secured by similar property, and the lender may declare the loan due and payable pursuant to the terms of the contract upon transfer to any successor or transferee of the borrower who fails to meet such customary credit standards.
 
@@ -62,7 +62,7 @@ With respect to a real property loan secured by a lien on residential real prope
 
 (1) The Federal Home Loan Bank Board, in consultation with the Comptroller of the Currency and the National Credit Union Administration Board, is authorized to issue rules and regulations and to publish interpretations governing the implementation of this section.
 
-(2) Notwithstanding the provisions of subsection (d), the rules and regulations prescribedunder this section may permit a lender to exercise its option pursuant to a due-on-sale clause with respect to a real property loan and any related agreement pursuant to which a borrower obtains the right to receive future income.
+(2) Notwithstanding the provisions of subsection (d), the rules and regulations prescribed under this section may permit a lender to exercise its option pursuant to a due-on-sale clause with respect to a real property loan and any related agreement pursuant to which a borrower obtains the right to receive future income.
 
 #### (f) Effective date for enforcement of Corporation-owned loans with due-on-sale options
 
@@ -86,11 +86,13 @@ Section was enacted as part of the Thrift Institutions Restructuring Act and als
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
-#### Termination of Trust Territory of the Pacific Islands
-
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
 #### Transfer of Functions
 
 Federal Home Loan Bank Board abolished and functions transferred, see sections 401 to 406 of Pub. L. 101–73, set out as a note under section 1437 of this title.
+
+#### <b>Executive Documents</b>
+
+#### Termination of Trust Territory of the Pacific Islands
+
+For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 

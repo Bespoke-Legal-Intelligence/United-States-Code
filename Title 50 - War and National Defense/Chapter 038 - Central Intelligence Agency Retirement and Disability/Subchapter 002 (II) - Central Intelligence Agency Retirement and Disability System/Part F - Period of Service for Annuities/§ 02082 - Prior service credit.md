@@ -122,9 +122,9 @@ A participant may, subject to the provisions of this section, include in the par
 
 #### (3) Effect of entitlement before September 8, 1982
 
-&emsp;(A) The annuity recomputation required by paragraph (1) shall not apply to any participant who was entitled to an annuity under this subchapter on or before September 8, 1982, or who is entitled to a deferred annuity based on separation from the Agency occurring on or before such date. Instead of an annuity recomputation, the annuity of such participant shall be reduced at age 62 by an amount equal to a fraction of the participant's old-age or survivors' insurance benefits under section 402 of title 42. The reduction shall be determined by multiplying the participant's monthly Social Security benefit by a fraction, the numerator of which is the participant's total military wages and deemed additional wages (within the meaning of section 429 of title 42) that were subject to Social Security deductions and the denominator of which is the total of all the participant's wages, including military wages, and all self-employment income that were subject to Social Security deductions before the calendar year in which the determination month occurs.
+&emsp;(A) The annuity recomputation required by paragraph (1) shall not apply to any participant who was entitled to an annuity under this subchapter on or before September 8, 1982, or who is entitled to a deferred annuity based on separation from the Agency occurring on or before such date. Instead of an annuity recomputation, the annuity of such participant shall be reduced at age 62 by an amount equal to a fraction of the participant's old-age or survivors' insurance benefits under section 402 of title 42. The reduction shall be determinedby multiplying the participant's monthly Social Security benefit by a fraction, the numerator of which is the participant's total military wages and deemed additional wages (within the meaning of section 429 of title 42) that were subject to Social Security deductions and the denominator of which is the total of all the participant's wages, including military wages, and all self-employment income that were subject to Social Security deductions before the calendar year in which the determination month occurs.
 
-&emsp;(B) The reduction determined in accordance with subparagraph (A) shall not be greaterthan the reduction that would be required under paragraph (1) if such paragraph applied to the participant. The new formula shall be applicable to any annuity payment payable after October 1, 1982, including annuity payments to participants who had previously reached age 62 and whose annuities had already been recomputed.
+&emsp;(B) The reduction determined in accordance with subparagraph (A) shall not be greater than the reduction that would be required under paragraph (1) if such paragraph applied to the participant. The new formula shall be applicable to any annuity payment payable after October 1, 1982, including annuity payments to participants who had previously reached age 62 and whose annuities had already been recomputed.
 
 &emsp;(C) For purposes of this paragraph, the term "determination month" means—
 
@@ -163,6 +163,8 @@ For the purpose of survivor annuities, deposits authorized by subsections (b) an
 
 (Pub. L. 88–643, title II, §252, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3229; amended Pub. L. 105–33, title VII, §7001(c)(3), Aug. 5, 1997, 111 Stat. 659; Pub. L. 106–346, §101(a) \[title V, §505(c)(2)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–53; Pub. L. 116–92, div. E, title LXII, §6202(a)(2)(A)(ii), (c), Dec. 20, 2019, 133 Stat. 2185, 2186.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Chapter 67 of title 10, referred to in subsec. (e)(3)(B), was transferred to part II of subtitle E of Title 10, Armed Forces, renumbered as chapter 1223, and amended generally by Pub. L. 103–337, div. A, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 2998. A new chapter 67 (§1331) of Title 10 was added by section 1662(j)(7) of Pub. L. 103–337.
@@ -181,9 +183,11 @@ Subsec. (h)(4). Pub. L. 116–92, §6202(a)(2)(A)(ii), substituted "2031(l)" for
 
 <b>1997</b>—Subsec. (h)(1). Pub. L. 105–33 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "Each participant who has performed military service before the date of separation on which entitlement to an annuity under this subchapter is based may pay to the Agency an amount equal to 7 percent of the amount of basic pay paid under section 204 of title 37 to the participant for each period of military service after December 1956. The amount of such payments shall be based on such evidence of basic pay for military service as the participant may provide or, if the Director determines sufficient evidence has not been provided to adequately determine basic pay for military service, such payment shall be based upon estimates of such basic pay provided to the Director under paragraph (4)."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
-Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see section 204(c)(3) of Title 42, The Public Health and Welfare.
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready ReserveCorps, see section 204(c)(3) of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 2019 Amendment
 
@@ -195,7 +199,7 @@ Amendment by Pub. L. 106–346 effective upon the close of calendar year 2000 an
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–33 effective Oct. 1, 1997, see section 7001(f) of Pub. L. 105–33, set out as a noteunder section 8334 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 105–33 effective Oct. 1, 1997, see section 7001(f) of Pub. L. 105–33, set out as a note under section 8334 of Title 5, Government Organization and Employees.
 
 #### Effective Date
 

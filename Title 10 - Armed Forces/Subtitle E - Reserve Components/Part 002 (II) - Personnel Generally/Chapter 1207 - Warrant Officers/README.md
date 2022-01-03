@@ -5,9 +5,11 @@
 | [12241\.](%C2%A7%2012241%20-%20Warrant%20officers%20grades%3B%20appointment%2C%20how%20made%3B%20term.md) | Warrant officers: grades; appointment, how made; term. |
 | [12242\.](%C2%A7%2012242%20-%20Warrant%20officers%20promotion.md) | Warrant officers: promotion. |
 | [12243\.](%C2%A7%2012243%20-%20Warrant%20officers%20suspension%20of%20laws%20for%20promotion%20or%20mandatory%20retirement%20or%20separation%20during%20war%20or%20emergency.md) | Warrant officers: suspension of laws for promotion or mandatory retirement or separation during war or emergency. |
-| [12244\.](%C2%A7%2012244%20-%20Warrant%20officers%20discharge%20or%20retirement%20for%20years%20of%20service%20or%20for%20age.md) | Warrant officers: discharge or retirement for years of service or for age. |
+| [12244\.](%C2%A7%2012244%20-%20Warrant%20officers%20discharge%20or%20retirement%20for%20years%20of%20service%20or%20for%20age.md) | Warrant officers: discharge or retirement for years of service or for age.<br> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

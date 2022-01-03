@@ -28,6 +28,8 @@ June 26, 1946, ch. 495, §1 (proviso), 60 Stat. 312.
 
 In subsection (a), the words "now or after December 14, 1942, established at" are omitted as surplusage. The word "precedence" is omitted as covered by the word "rank". The words "pay, allowances" are omitted, since they are determined by the grade held. The words "from time to time", "shall be known", and "operate in any case or on any account" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 7432 was renumbered section 8732 of this title.
@@ -35,6 +37,8 @@ A prior section 7432 was renumbered section 8732 of this title.
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4332 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

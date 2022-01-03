@@ -6,7 +6,7 @@ The Congress finds and declares that—
 
 &emsp;(1) education is important to, and makes a significant contribution to, the readjustment of incarcerated individuals to society; and
 
-&emsp;(2) there is a growing need for immediate action by the Federal Government to assist State and local educational programs for criminal offenders in correctional institutions.
+&emsp;(2) there is a growing need for immediate action by the Federal Government to assistState and local educational programs for criminal offenders in correctional institutions.
 
 #### (b) Statement of purpose
 
@@ -56,6 +56,8 @@ As used in this section—
 
 (Pub. L. 96–88, title II, §212, formerly §214, as added Pub. L. 101–392, title VI, §602(a)(3), Sept. 25, 1990, 104 Stat. 840; amended Pub. L. 103–322, title II, §20408(a), Sept. 13, 1994, 108 Stat. 1827; renumbered §212, Pub. L. 103–382, title II, §271(a)(2), Oct. 20, 1994, 108 Stat. 3929.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 212 of Pub. L. 96–88 was renumbered section 211 and is classified to section 3422 of this title.
@@ -63,6 +65,8 @@ A prior section 212 of Pub. L. 96–88 was renumbered section 211 and is classif
 #### Amendments
 
 <b>1994</b>—Subsec. (d). Pub. L. 103–322 substituted "under subsection (c)" for "under subsection (a)" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

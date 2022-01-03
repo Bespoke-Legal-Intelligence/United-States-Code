@@ -46,6 +46,8 @@
 
 (Added Pub. L. 98–94, title XII, §1253(a)(1), Sept. 24, 1983, 97 Stat. 699; amended Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 104–106, div. A, title IX, §903(f)(3), title X, §1040(a)–(d)(1), Feb. 10, 1996, 110 Stat. 402, 433; Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 113–66, div. A, title VI, §641, Dec. 26, 2013, 127 Stat. 787.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2013</b>—Subsec. (b). Pub. L. 113–66 inserted ", or threaten to take or fail to take," after "take or fail to take".
@@ -61,6 +63,8 @@ Subsec. (d). Pub. L. 104–106, §903(a), (f)(3), which directed amendment of su
 Subsec. (e). Pub. L. 104–106, §1040(b), inserted before period at end of second sentence "and to permit the reporting of alleged violations of subsection (b) directly to the Inspector General of the Department of Defense".
 
 <b>1987</b>—Subsec. (a). Pub. L. 100–26 inserted "The term" after each par. designation and struck out uppercase letter of first word after first quotation marks in each par. and substituted lowercase letter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -84,7 +88,7 @@ Application to Certain Current Employees.—In the case of a nonappropriated fun
 
 "(c)
 
-Nonappropriated Fund Instrumentality Employee Defined.—For purposes of this section, the term 'nonappropriated fund instrumentality employee' has the meaning given such term in section 1587(a)(1) of title 10, United States Code."
+Nonappropriated Fund Instrumentality Employee Defined.—For purposes of this section, the term 'nonappropriated fund instrumentality employee'has the meaning given such term in section 1587(a)(1) of title 10, United States Code."
 
 #### Uniform Health Benefits Program for Employees of Department of Defense Assigned to Nonappropriated Fund Instrumentalities
 

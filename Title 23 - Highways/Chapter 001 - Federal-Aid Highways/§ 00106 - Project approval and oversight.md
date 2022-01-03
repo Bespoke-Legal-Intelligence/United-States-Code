@@ -150,7 +150,7 @@ Use of life-cycle cost analysis.—The Secretary shall develop recommendations f
 
 &emsp;(2)
 
-Life-cycle cost analysis defined.—In this subsection, the term "life-cycle cost analysis" means a process for evaluating the total economic worth of a usable project segment by analyzing initial costs and discounted future costs, such as maintenance, user costs, reconstruction, rehabilitation, restoring, and resurfacing costs, over the life of the project segment.
+Life-cycle cost analysis defined.—In this subsection, the term "life-cycle cost analysis" means a process for evaluating the total economic worth of a usable project segment by analyzing initial costs and discounted futurecosts, such as maintenance, user costs, reconstruction, rehabilitation, restoring, and resurfacing costs, over the life of the project segment.
 
 (g)
 
@@ -182,7 +182,27 @@ Project costs.—The Secretary shall develop minimum standards for estimating pr
 
 &emsp;(3)
 
-Project delivery.—The Secretary shall perform annual reviews that address elements of the project delivery system of a State, which elements include one or more activities that are involved in the life cycle of a project from conception to completion of the project.
+Project delivery.—
+
+&emsp;&emsp;(A)
+
+In general.—The Secretary shall perform reviews that address elements of the project delivery system of a State, which elements include one or more activities that are involved in the life cycle of a project from conception to completion of the project.
+
+&emsp;&emsp;(B)
+
+Frequency.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—Except as provided in clauses (ii) and (iii), the Secretary shall carry out a review under subparagraph (A) not less frequently than once every 2 years.
+
+&emsp;&emsp;&emsp;(ii)
+
+Consultation with state.—The Secretary, after consultation with a State, may make a determination to carry out a review under subparagraph (A) for that State less frequently than provided under clause (i).
+
+&emsp;&emsp;&emsp;(iii)
+
+Cause.—If the Secretary determines that there is a specific reason to require a review more frequently than provided under clause (i) with respect to a State, the Secretary may carry out a review more frequently than provided under that clause.
 
 &emsp;(4)
 
@@ -240,9 +260,11 @@ Financial plan.—A financial plan—
 
 &emsp;&emsp;(B) shall provide for the annual submission of updates to the Secretary that are based on reasonable assumptions, as determined by the Secretary, of future increases in the cost to complete the project;
 
-&emsp;&emsp;(C) may include a phasing plan that identifies fundable incremental improvements or phases that will address the purpose and the need of the project in the short term in the event there are insufficient financial resources to complete the entire project. If a phasing plan is adopted for a project pursuant to this section, the project shall be deemed to satisfy the fiscal constraint requirements in the statewide and metropolitan planning requirements in sections 134 and 135; and
+&emsp;&emsp;(C) may include a phasing plan that identifies fundable incremental improvements or phases that will address the purpose and the need of the project in the short term in the event there are insufficient financial resources to complete the entire project. If a phasing plan is adopted for a project pursuant to this section, the project shall be deemed to satisfy the fiscal constraint requirements in the statewide and metropolitan planning requirements in sections 134 and 135;
 
-&emsp;&emsp;(D) shall assess the appropriateness of a public-private partnership to deliver the project.
+&emsp;&emsp;(D) for a project in which the project sponsor intends to carry out the project through a public-private partnership agreement, shall include a detailed value for money analysis or similar comparative analysis for the project; and
+
+&emsp;&emsp;(E) shall assess the appropriateness of a public-private partnership to deliver the project.
 
 (i)
 
@@ -286,7 +308,7 @@ Activities.—In carrying out paragraph (2), the Secretary shall—
 
 Comprehensive plan.—The Secretary shall develop and publish on the public website of the Department of Transportation a detailed and comprehensive plan for the implementation of paragraph (2).
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 892; Pub. L. 88–157, §7(a), Oct. 24, 1963, 77 Stat. 278; Pub. L. 91–605, title I, §§106(e), 142, Dec. 31, 1970, 84 Stat. 1717, 1737; Pub. L. 94–280, title I, §114, May 5, 1976, 90 Stat. 436; Pub. L. 100–17, title I, §133(b)(4), Apr. 2, 1987, 101 Stat. 171; Pub. L. 102–240, title I, §§1016(b), 1018(a), Dec. 18, 1991, 105 Stat. 1945, 1948; Pub. L. 104–59, title III, §303, Nov. 28, 1995, 109 Stat. 578; Pub. L. 105–178, title I, §1305(a)–(c), June 9, 1998, 112 Stat. 227–229; Pub. L. 109–59, title I, §1904(a), Aug. 10, 2005, 119 Stat. 1465; Pub. L. 112–141, div. A, title I, §1503(a), July 6, 2012, 126 Stat. 561; Pub. L. 114–94, div. A, title II, §2002(b), Dec. 4, 2015, 129 Stat. 1446.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 892; Pub. L. 88–157, §7(a), Oct. 24, 1963, 77 Stat. 278; Pub. L. 91–605, title I, §§106(e), 142, Dec. 31, 1970, 84 Stat. 1717, 1737; Pub. L. 94–280, title I, §114, May 5, 1976, 90 Stat. 436; Pub. L. 100–17, title I, §133(b)(4), Apr. 2, 1987, 101 Stat. 171; Pub. L. 102–240, title I, §§1016(b), 1018(a), Dec. 18, 1991, 105 Stat. 1945, 1948; Pub. L. 104–59, title III, §303, Nov. 28, 1995, 109 Stat. 578; Pub. L. 105–178, title I, §1305(a)–(c), June 9, 1998, 112 Stat. 227–229; Pub. L. 109–59, title I, §1904(a), Aug. 10, 2005, 119 Stat. 1465; Pub. L. 112–141, div. A, title I, §1503(a), July 6, 2012, 126 Stat. 561; Pub. L. 114–94, div. A, title II, §2002(b), Dec. 4, 2015, 129 Stat. 1446; Pub. L. 117–58, div. A, title I, §§11307(f), 11508(d)(1), Nov. 15, 2021, 135 Stat. 534, 587.)
 
 #### <b>Editorial Notes</b>
 
@@ -295,6 +317,10 @@ Comprehensive plan.—The Secretary shall develop and publish on the public webs
 Executive Order No. 12893, referred to in subsec. (f)(1), is set out as a note under section 501 of Title 31, Money and Finance.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (g)(3). Pub. L. 117–58, §11307(f), designated existing provisions as subpar. (A) and inserted heading, struck out "annual" before "reviews", and added subpar. (B).
+
+Subsec. (h)(3)(D), (E). Pub. L. 117–58, §11508(d)(1), added subpar. (D) and redesignated former subpar. (D) as (E).
 
 <b>2015</b>—Subsec. (b)(1). Pub. L. 114–94 inserted "(including payments made pursuant to a long-term concession agreement, such as availability payments)" after "construction of the project".
 
@@ -342,7 +368,7 @@ Subsec. (j). Pub. L. 112–141, §1503(a)(5), added subsec. (j).
 
 <b>2005</b>—Subsec. (e). Pub. L. 109–59, §1904(a)(1), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: "For such projects as the Secretary determines advisable, plans, specifications, and estimates for proposed projects on any Federal-aid highway shall be accompanied by a value engineering analysis or other cost reduction analysis."
 
-Subsecs. (g) to (i). Pub. L. 109–59, §1904(a)(2), added subsecs. (g) to (i) and struck out former subsecs. (g) and (h) which related to establishment of a value engineering analysis program for projects with an estimated total cost of $25,000,000 or more and requirement that recipient of assistance for a project with an estimated total cost of $1,000,000,000 or more submit an annual financial plan for the project.
+Subsecs. (g) to (i). Pub. L. 109–59, §1904(a)(2), added subsecs. (g) to (i) and struck out former subsecs. (g) and (h) which related to establishment of a value engineering analysis program for projects with an estimated total cost of $25,000,000 or more and requirement thatrecipient of assistance for a project with an estimated total cost of $1,000,000,000 or more submit an annual financial plan for the project.
 
 <b>1998</b>—Pub. L. 105–178, §1305(a)(1), substituted "Project approval and oversight" for "Plans, specifications, and estimates" in section catchline.
 
@@ -390,6 +416,12 @@ Subsec. (d). Pub. L. 91–605, §142, added subsec. (d).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, except as otherwise provided, see section 10003 of Pub. L. 117–58, set out as a note under section 101 of this title.
+
+Amendment by section 11508(d)(1) of Pub. L. 117–58 only applicable to a public-private partnership agreement entered into on or after Nov. 15, 2021, see section 11508(e) of Pub. L. 117–58, set out in a Requirements for Transportation Projects Carried Out Through Public-Private Partnerships note below.
+
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
@@ -401,6 +433,148 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 #### Effective Date of 1991 Amendment
 
 Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as a note under section 104 of this title.
+
+#### Improved Federal-State Stewardship and Oversight Agreements
+
+Pub. L. 117–58, div. A, title I, §11307(a)–(e), Nov. 15, 2021, 135 Stat. 532–534, provided that:
+
+"(a)
+
+Definition of Template.—In this section, the term 'template' means a template created by the Secretary \[of Transportation\] for Federal-State stewardship and oversight agreements that—
+
+&emsp;"(1) includes all standard terms found in stewardship and oversight agreements, including any terms in an attachment to the agreement;
+
+&emsp;"(2) is developed in accordance with section 106 of title 23, United States Code, or any other applicable authority; and
+
+&emsp;"(3) may be developed with consideration of relevant regulations, guidance, or policies.
+
+"(b)
+
+Request for Comment.—
+
+&emsp;"(1)
+
+In general.—Not later than 60 days after the date of enactment of this Act \[Nov. 15, 2021\], the Secretary shall publish in the Federal Register the template and a notice requesting public comment on ways to improve the template.
+
+&emsp;"(2)
+
+Comment period.—The Secretary shall provide a period of not less than 60 days for public comment on the notice under paragraph (1).
+
+&emsp;"(3)
+
+Certain issues.—The notice under paragraph (1) shall allow comment on any aspect of the template and shall specifically request public comment on—
+
+&emsp;&emsp;"(A) whether the template should be revised to delete standard terms requiring approval by the Secretary of the policies, procedures, processes, or manuals of the States, or other State actions, if Federal law (including regulations) does not specifically require an approval;
+
+&emsp;&emsp;"(B) opportunities to modify the template to allow adjustments to the review schedules for State practices or actions, including through risk-based approaches, program reviews, process reviews, or other means; and
+
+&emsp;&emsp;"(C) any other matters that the Secretary determines to be appropriate.
+
+"(c)
+
+Notice of Action; Updates.—
+
+&emsp;"(1)
+
+In general.—Not later than 1 year after the date of enactment of this Act, after considering the comments received in response to the Federal Register notice under subsection (b), the Secretary shall publish in the Federal Register a notice that—
+
+&emsp;&emsp;"(A) describes any proposed changes to be made, and any alternatives to such changes, to the template;
+
+&emsp;&emsp;"(B) addresses comments in response to which changes were not made to the template; and
+
+&emsp;&emsp;"(C) prescribes a schedule and a plan to execute a process for implementing the changes referred to in subparagraph (A).
+
+&emsp;"(2)
+
+Approval requirements.—In addressing comments under paragraph (1)(B), the Secretary shall include an explanation of the basis for retaining any requirement for approval of State policies, procedures, processes, or manuals, or other State actions, if Federal law (including regulations) does not specifically require the approval.
+
+&emsp;"(3)
+
+Implementation.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than 60 days after the date on which the notice under paragraph (1) is published, the Secretary shall make changes to the template in accordance with—
+
+&emsp;&emsp;&emsp;"(i) the changes described in the notice under paragraph (1)(A); and
+
+&emsp;&emsp;&emsp;"(ii) the schedule and plan described in the notice under paragraph (1)(C).
+
+&emsp;"(B)
+
+Updates.—Not later than 1 year after the date on which the revised template under subparagraph (A) is published, the Secretary shall update existing agreements with States according to the template updated under subparagraph (A).
+
+"(d)
+
+Inclusion of Non-standard Terms.—Nothing in this section precludes the inclusion in a Federal-State stewardship and oversight agreement of non-standard terms to address a State-specific matter, including risk-based stewardship and Department \[of Transportation\] oversight involvement in individual projects of division interest.
+
+"(e)
+
+Compliance With Non-statutory Terms.—
+
+&emsp;"(1)
+
+In general.—The Secretary shall not enforce or otherwise require a State to comply with approval requirements that are not required by Federal law (including regulations) in a Federal-State stewardship and oversight agreement.
+
+&emsp;"(2)
+
+Approval authority.—Notwithstanding any other provision of law, the Secretary shall not assert approval authority over any matter in a Federal-State stewardship and oversight agreement reserved to States."
+
+#### Requirements for Transportation Projects Carried Out Through Public-Private Partnerships
+
+Pub. L. 117–58, div. A, title I, §11508, Nov. 15, 2021, 135 Stat. 587, provided that:
+
+"(a)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Project.—The term 'project' means a project (as defined in section 101 of title 23, United States Code) that—
+
+&emsp;&emsp;"(A) is carried out, in whole or in part, using Federal financial assistance; and
+
+&emsp;&emsp;"(B) has an estimated total cost of $100,000,000 or more.
+
+&emsp;"(2)
+
+Public-private partnership.—The term 'public-private partnership' means an agreement between a public agency and a private entity to finance, build, and maintain or operate a project.
+
+"(b)
+
+Requirements for Projects Carried Out Through Public-private Partnerships.—With respect to a public-private partnership, as a condition of receiving Federal financial assistance for a project, the Secretary \[of Transportation\] shall require the public partner, not later than 3 years after the date of opening of the project to traffic—
+
+&emsp;"(1) to conduct a review of the project, including a review of the compliance of the private partner with the terms of the public-private partnership agreement;
+
+&emsp;"(2)(A) to certify to the Secretary that the private partner of the public-private partnership is meeting the terms of the public-private partnership agreement for the project; or
+
+&emsp;"(B) to notify the Secretary that the private partner of the public-private partnership has not met 1 or more of the terms of the public-private partnership agreement for the project, including a brief description of each violation of the public-private partnership agreement; and
+
+&emsp;"(3) to make publicly available the certification or notification, as applicable, under paragraph (2) in a form that does not disclose any proprietary or confidential business information.
+
+"(c)
+
+Notification.—If the Secretary provides Federal financial assistance to a project carried out through a public-private partnership, not later than 30 days after the date on which the Federal financial assistance is first obligated, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a notification of the Federal financial assistance made available for the project.
+
+"(d)
+
+Value for Money Analysis.—
+
+&emsp;"(1)
+
+Project approval and oversight.—\[Amended this section.\]
+
+&emsp;"(2)
+
+Surface transportation block grant program.—\[Amended section 133 of this title.\]
+
+&emsp;"(3)
+
+TIFIA.—\[Amended section 602 of this title.\]
+
+"(e)
+
+Applicability.—This section and the amendments made by this section shall only apply to a public-private partnership agreement entered into on or after the date of enactment of this Act \[Nov. 15, 2021\]."
 
 #### Assumption of Authorities
 

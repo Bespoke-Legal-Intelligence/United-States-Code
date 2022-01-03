@@ -10,9 +10,11 @@ Unless the necessity for a permanent road is set forth in the forest development
 
 #### (c) Standards of roadway construction
 
-Roads constructed on National Forest System lands shall be designed to standards appropriatefor the intended uses, considering safety, cost of transportation, and impacts on land and resources.
+Roads constructed on National Forest System lands shall be designed to standards appropriate for the intended uses, considering safety, cost of transportation, and impacts on land and resources.
 
 (Pub. L. 93–378, §10, formerly §9, Aug. 17, 1974, 88 Stat. 479, renumbered §10 and amended Pub. L. 94–588, §§2, 8, Oct. 22, 1976, 90 Stat. 2949, 2956; Pub. L. 97–100, title II, §201, Dec. 23, 1981, 95 Stat. 1405.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -20,9 +22,7 @@ Roads constructed on National Forest System lands shall be designed to standards
 
 <b>1976</b>—Pub. L. 94–588, §8, designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
-#### Transfer of Functions
-
-For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this subchapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 1601 of this title.
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### County Payment Mitigation; Transportation System Moratorium
 
@@ -57,4 +57,10 @@ Pub. L. 105–174, title III, §3006, May 1, 1998, 112 Stat. 85, provided that:
 &emsp;"(B) an inventory of all roads within the National Forest System and the uses which they serve, in a format that will inform and facilitate the development of a long-term Forest Service transportation policy; and
 
 &emsp;"(C) a comprehensive and detailed analysis of the economic and social effects of the moratorium referred to in subsection (a)(2) on county, State, and regional levels."
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this subchapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 1601 of this title.
 

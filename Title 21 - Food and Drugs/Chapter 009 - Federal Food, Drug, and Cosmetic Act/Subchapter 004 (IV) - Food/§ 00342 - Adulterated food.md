@@ -4,7 +4,7 @@ A food shall be deemed to be adulterated—
 
 #### (a) Poisonous, insanitary, etc., ingredients
 
-(1) If it bears or contains any poisonous or deleterious substance which may render it injurious to health; but in case the substance is not an added substance such food shall not be considered adulterated under this clause if the quantity of such substance in such food does not ordinarily render it injurious to health.<sup>1</sup> (2)(A) if it bears or contains any added poisonous or added deleterious substance (other than a substance that is a pesticide chemical residue in or on a raw agricultural commodity or processed food, a food additive, a color additive, or a new animal drug) that is unsafe within the meaning of section 346 of this title; or (B) if it bears or contains a pesticide chemical residue that is unsafe within the meaning of section 346a(a) of this title; or (C) if it is or if it bears or contains (i) any food additive that is unsafe within the meaning of section 348 of this title; or (ii) a new animal drug (or conversion product thereof) that is unsafe within the meaning of section 360b ofthis title; or (3) if it consists in whole or in part of any filthy, putrid, or decomposed substance, or if it is otherwise unfit for food; or (4) if it has been prepared, packed, or held under insanitary conditions whereby it may have become contaminated with filth, or whereby it may have been rendered injurious to health; or (5) if it is, in whole or in part, the product of a diseased animal or of an animal which has died otherwise than by slaughter; or (6) if its container is composed, in whole or in part, of any poisonous or deleterious substance which may render the contents injurious to health; or (7) if it has been intentionally subjected to radiation, unless the use of the radiation was in conformity with a regulation or exemption in effect pursuant to section 348 of this title.
+(1) If it bears or contains any poisonous or deleterious substance which may render it injurious to health; but in case the substance is not an added substance such food shall not be considered adulterated under this clause if the quantity of such substance in such food does not ordinarily render it injurious to health.<sup>1</sup> (2)(A) if it bears or contains any added poisonous or added deleterious substance (other than a substance that is a pesticide chemical residue in or on a raw agricultural commodity or processed food, a food additive, a color additive, or a new animal drug) that is unsafe within the meaning of section 346 of this title; or (B) if it bears or contains a pesticide chemical residue that is unsafe within the meaning of section 346a(a) of this title; or (C) if it is or if it bears or contains (i) any food additive that is unsafe within the meaning of section 348 of this title; or (ii) a new animal drug (or conversion product thereof) that is unsafe within the meaning of section 360b of this title; or (3) if it consists in whole or in part of any filthy, putrid, or decomposed substance, or if it is otherwise unfit for food; or (4) if it has been prepared, packed, or held under insanitary conditions whereby it may have become contaminated with filth, or whereby it may have been rendered injurious to health; or (5) if it is, in whole or in part, the product of a diseased animal or of an animal which has died otherwise than by slaughter; or (6) if its container is composed, in whole or in part, of any poisonous or deleterious substance which may render the contents injurious to health; or (7) if it has been intentionally subjected to radiation, unless the use of the radiation was in conformity with a regulation or exemption in effect pursuant to section 348 of this title.
 
 #### (b) Absence, substitution, or addition of constituents
 
@@ -52,7 +52,7 @@ If it is oleomargarine or margarine or butter and any of the raw material used t
 
 (1) If it is a dietary supplement and it has been prepared, packed, or held under conditions that do not meet current good manufacturing practice regulations, including regulations requiring, when necessary, expiration date labeling, issued by the Secretary under subparagraph (2).
 
-(2) The Secretary may by regulation prescribe good manufacturing practices for dietary supplements. Such regulations shall be modeled after current good manufacturing practice regulations for food and may not impose standards for which there is no current and generally available analytical methodology. No standardof current good manufacturing practice may be imposed unless such standard is included in a regulation promulgated after notice and opportunity for comment in accordance with chapter 5 of title 5.
+(2) The Secretary may by regulation prescribe good manufacturing practices for dietary supplements. Such regulations shall be modeled after current good manufacturing practice regulations for food and may not impose standards for which there is no current and generally available analytical methodology. No standard of current good manufacturing practice may be imposed unless such standard is included in a regulation promulgated after notice and opportunity for comment in accordance with chapter 5 of title 5.
 
 #### (h) Reoffer of food previously denied admission
 
@@ -160,11 +160,7 @@ Par. (c) effective Jan. 1, 1940, see act June 23, 1939, ch. 242, 53 Stat. 853, s
 
 #### Short Title
 
-Pub. L. 88–625, §1, Oct. 3, 1964, 78 Stat. 1002, provided: "That this Act \[amending provisions set out as a noteunder this section and section 135 of Title 7, Agriculture\] may be cited as the 'Food Additives Transitional Provisions Amendment of 1964'."
-
-#### Transfer of Functions
-
-For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under section 321 of this title.
+Pub. L. 88–625, §1, Oct. 3, 1964, 78 Stat. 1002, provided: "That this Act \[amending provisions set out as a note under this section and section 135 of Title 7, Agriculture\] may be cited as the 'Food Additives Transitional Provisions Amendment of 1964'."
 
 #### Updating Guidance Relating to Fish and Fisheries Products Hazards and Controls
 
@@ -217,6 +213,12 @@ Public Access.—Any report prepared under this section shall be made available 
 #### Domestic Fish or Fish Product Compliance With Food Safety Standards or Procedures Deemed To Have Met Requirements for Federal Commodity Purchase Programs
 
 Pub. L. 104–180, title VII, §733, Aug. 6, 1996, 110 Stat. 1601, provided that: "Hereafter, notwithstanding any other provision of law, any domestic fish or fish product produced in compliance with food safety standards or procedures accepted by the Food and Drug Administration as satisfying the requirements of the 'Procedures for the Safe and Sanitary Processing and Importing of Fish and Fish Products' (published by the Food and Drug Administration as a final regulation in the Federal Register of December 18, 1995), shall be deemed to have met any inspection requirements of the Department of Agriculture or other Federal agency for any Federal commodity purchase program, including the program authorized under section 32 of the Act of August 24, 1935 (7 U.S.C. 612c) except that the Department of Agriculture or other Federal agency may utilize lot inspection to establish a reasonable degree of certainty that fish or fish products purchased under a Federal commodity purchase program, including the program authorized under section 32 of the Act of August 24, 1935 (7 U.S.C. 612c), meet Federal product specifications."
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under section 321 of this title.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be "; or".</i>
 

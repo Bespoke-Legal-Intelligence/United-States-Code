@@ -24,7 +24,7 @@ If in package form unless it bears a label containing (1) the name and place of 
 
 #### (f) Prominence of information on label
 
-If any word, statement, or other information required by or under authority of this chapter toappear on the label or labeling is not prominently placed thereon with such conspicuousness (as compared with other words, statements, designs, or devices, in the labeling) and in such terms as to render it likely to be read and understood by the ordinary individual under customary conditions of purchase and use.
+If any word, statement, or other information required by or under authority of this chapter to appear on the label or labeling is not prominently placed thereon with such conspicuousness (as compared with other words, statements, designs, or devices, in the labeling) and in such terms as to render it likely to be read and understood by the ordinary individual under customary conditions of purchase and use.
 
 #### (g) Representation as to definition and standard of identity
 
@@ -58,7 +58,7 @@ If it purports to be or is represented as—
 
 #### (i) Label where no representation as to definition and standard of identity
 
-Unless its label bears (1) the common or usual name of the food, if any there be, and (2) in case it is fabricated from two or more ingredients, the common or usual name of each such ingredient and if the food purports to be a beverage containing vegetable or fruit juice, a statement with appropriate prominence on the information panel of the total percentage of such fruit or vegetable juice contained in the food; except that spices, flavorings, and colors not required to be certified under section 379e(c) of this title <sup>1</sup> unless sold as spices, flavorings, or such colors, may be designated as spices, flavorings, and colorings without naming each. To the extent that compliance with the requirements of clause (2) of this paragraph is impracticable, or results in deception or unfair competition, exemptions shall be established by regulations promulgated by the Secretary.
+Unless its label bears (1) the common or usual name of the food, if any there be, and (2) in case it is fabricated from two or more ingredients, the common or usual name of each such ingredient and if the food purports to be a beverage containing vegetable or fruit juice, a statement with appropriate prominence on the information panel of the total percentage of such fruit or vegetable juice contained in the food; except that spices, flavorings, and colors not required to be certified under section 379e(c) of this title <sup>1</sup> unless sold as spices, flavorings, or such colors, may be designated as spices, flavorings, and colorings without naming each. To the extent that compliance with the requirements of clause\(2) of this paragraph is impracticable, or results in deception or unfair competition, exemptions shall be established by regulations promulgated by the Secretary.
 
 #### (j) Representation for special dietary use
 
@@ -116,7 +116,7 @@ If its packaging or labeling is in violation of an applicable regulation issued 
 
 (4)(A) The Secretary shall provide for furnishing the nutrition information required by subparagraphs (1) and (2) with respect to raw agricultural commodities and raw fish by issuing voluntary nutrition guidelines, as provided by clause (B) or by issuing regulations that are mandatory as provided by clause (D).
 
-(B)(i) Upon the expiration of 12 months after November 8, 1990, the Secretary, after providing an opportunity for comment, shall issue guidelines for food retailers offering raw agricultural commodities or raw fish to provide nutrition information specified in subparagraphs (1) and (2). Such guidelines shall take into account the actions taken by food retailers during such 12-month period to provide to consumers nutrition information on raw agricultural commodities and raw fish. Such guidelines shall only apply—
+(B)(i) Upon the expiration of 12 months after November 8, 1990, the Secretary, after providing an opportunity for comment, shall issue guidelines for food retailers offering raw agriculturalcommodities or raw fish to provide nutrition information specified in subparagraphs (1) and (2). Such guidelines shall take into account the actions taken by food retailers during such 12-month period to provide to consumers nutrition information on raw agricultural commodities and raw fish. Such guidelines shall only apply—
 
 &emsp;(I) in the case of raw agricultural commodities, to the 20 varieties of vegetables most frequently consumed during a year and the 20 varieties of fruit most frequently consumed during a year, and
 
@@ -130,7 +130,7 @@ If its packaging or labeling is in violation of an applicable regulation issued 
 
 (ii) If the Secretary finds that there is substantial compliance with the guidelines, the Secretary shall issue a report and make a determination of the type required in subclause (i) every two years.
 
-(D)(i) If the Secretary determines that there is not substantial compliance with the guidelines issued under clause (A), the Secretary shall atthe time such determination is made issue proposed regulations requiring that any person who offers raw agricultural commodities or raw fish to consumers provide, in a manner prescribed by regulations, the nutrition information required by subparagraphs (1) and (2). The Secretary shall issue final regulations imposing such requirements 6 months after issuing the proposed regulations. The final regulations shall become effective 6 months after the date of their promulgation.
+(D)(i) If the Secretary determines that there is not substantial compliance with the guidelines issued under clause (A), the Secretary shall at the time such determination is made issue proposed regulations requiring that any person who offers raw agricultural commodities or raw fish to consumers provide, in a manner prescribed by regulations, the nutrition information required by subparagraphs (1) and (2). The Secretary shall issue final regulations imposing such requirements 6 months after issuing the proposed regulations. The final regulations shall become effective 6 months after the date of their promulgation.
 
 (ii) Regulations issued under subclause (i) may require that the nutrition information required by subparagraphs (1) and (2) be provided for more than 20 varieties of vegetables, 20 varieties of fruit, and 20 varieties of fish most frequently consumed during a year if the Secretary finds that a larger number of such products are frequently consumed. Such regulations shall permit such information to be provided in a single location in each area in which raw agricultural commodities and raw fish are offered for sale. Such regulations may provide that information shall be expressed as an average or range per serving of the same type of raw agricultural commodity or raw fish. The Secretary shall develop and make available to the persons who offer such food to consumers the information required by subparagraphs (1) and (2).
 
@@ -168,7 +168,7 @@ If its packaging or labeling is in violation of an applicable regulation issued 
 
 &emsp;(IV) in the case of a food product which was sold in the 12-month period preceding the period for which an exemption was claimed, fewer than 100,000 units of such product were sold in the United States during such preceding period, or in the case of a food product which was not sold in the 12-month period preceding the period for which such exemption is claimed, fewer than 100,000 units of such product are reasonably anticipated to be sold in the United States during the period for which such exemption is claimed.
 
-(ii) During the 12-month period after the applicable date referred to in this sentence, the requirements of subparagraphs (1) and (2) shall not apply to any food product which was first introduced into interstate commerce before May 8, 1994, if the labeling for such product does notprovide nutrition information or make a claim subject to paragraph (r), if such person provided the notice described in subclause (iii), and if—
+(ii) During the 12-month period after the applicable date referred to in this sentence, the requirements of subparagraphs (1) and (2) shall not apply to any food product which was first introduced into interstate commerce before May 8, 1994, if the labeling for such product does not provide nutrition information or make a claim subject to paragraph (r), if such person provided the notice described in subclause (iii), and if—
 
 &emsp;(I) during the 12-month period preceding May 8, 1994, the person who claims for such product an exemption from such subparagraphs employed fewer than an average of 300 full-time equivalent employees and fewer than 600,000 units of such product were sold in the United States,
 
@@ -218,7 +218,7 @@ Restaurants, Retail Food Establishments, and Vending Machines.—
 
 &emsp;(i)
 
-General requirements for restaurants and similar retail food establishments.—Except for food described in subclause (vii), in the case of food that is a standard menu item that is offered for sale in a restaurant or similar retail food establishment that is part of a chain with 20 or more locations doing businessunder the same name (regardless of the type of ownership of the locations) and offering for sale substantially the same menu items, the restaurant or similar retail food establishment shall disclose the information described in subclauses (ii) and (iii).
+General requirements for restaurants and similar retail food establishments.—Except for food described in subclause (vii), in the case of food that is a standard menu item that is offered for sale in a restaurant or similar retail food establishment that is part of a chain with 20 or more locations doing business under the same name (regardless of the type of ownership of the locations) and offering for sale substantially the same menu items, the restaurant or similar retail food establishment shall disclose the information described in subclauses (ii) and (iii).
 
 &emsp;(ii)
 
@@ -356,7 +356,7 @@ Definition.—In this clause, the term "menu" or "menu board" means the primary 
 
 &emsp;(vi) may not be made if the Secretary by regulation prohibits the claim because the claim is misleading in light of the level of another nutrient in the food.
 
-(B) If a claim described in subparagraph (1)(A) is made with respect to a nutrient in a food andthe Secretary makes a determination that the food contains a nutrient at a level that increases to persons in the general population the risk of a disease or health-related condition that is diet related, the label or labeling of such food shall contain, prominently and in immediate proximity to such claim, the following statement: "See nutrition information for \_\_\_\_\_\_ content." The blank shall identify the nutrient associated with the increased disease or health-related condition risk. In making the determination described in this clause, the Secretary shall take into account the significance of the food in the total daily diet.
+(B) If a claim described in subparagraph (1)(A) is made with respect to a nutrient in a food and the Secretary makes a determination that the food contains a nutrient at a level that increases to persons in the general population the risk of a disease or health-related condition that is diet related, the label or labeling of such food shall contain, prominently and in immediate proximity to such claim, the following statement: "See nutrition information for \_\_\_\_\_\_ content." The blank shall identify the nutrient associated with the increased disease or health-related condition risk. In making the determination described in this clause, the Secretary shall take into account the significance of the food in the total daily diet.
 
 (C) Subparagraph (2)(A) does not apply to a claim described in subparagraph (1)(A) and contained in the label or labeling of a food if such claim is contained in the brand name of such food and such brand name was in use on such food before October 25, 1989, unless the brand name contains a term defined by the Secretary under subparagraph (2)(A)(i). Such a claim is subject to paragraph (a).
 
@@ -376,7 +376,7 @@ Definition.—In this clause, the term "menu" or "menu board" means the primary 
 
 &emsp;(iv) the claim is stated in a manner so that the claim is an accurate representation of the authoritative statement referred to in subclause (i) and so that the claim enables the public to comprehend the information provided in the claim and to understand the relative significance of such information in the context of a total daily diet.
 
-> For purposes of this clause, a statement shall be regarded as an authoritative statement of a scientific body described in subclause (i) only if the statement is published by the scientific body and shall not include a statement of an employee of the scientific body made in the individual capacity of the employee.
+> For purposes of this clause, a statement shall be regarded as an authoritative statement of a scientific body described in subclause (i) only if the statement is published by the scientific bodyand shall not include a statement of an employee of the scientific body made in the individual capacity of the employee.
 
 (H) A claim submitted under the requirements of clause (G) may be made until—
 
@@ -394,7 +394,7 @@ Definition.—In this clause, the term "menu" or "menu board" means the primary 
 
 &emsp;(ii) if the food for which the claim is made does not contain, as determined by the Secretary by regulation, any nutrient in an amount which increases to persons in the general population the risk of a disease or health-related condition which is diet related, taking into account the significance of the food in the total daily diet, except that the Secretary may by regulation permit such a claim based on a finding that such a claim would assist consumers in maintaining healthy dietary practices and based on a requirement that the label contain a disclosure of the type required by subparagraph (2)(B).
 
-(B)(i) The Secretary shall promulgate regulations authorizing claims of the type described in subparagraph (1)(B) only if the Secretary determines, based on the totality of publicly available scientific evidence (including evidence fromwell-designed studies conducted in a manner which is consistent with generally recognized scientific procedures and principles), that there is significant scientific agreement, among experts qualified by scientific training and experience to evaluate such claims, that the claim is supported by such evidence.
+(B)(i) The Secretary shall promulgate regulations authorizing claims of the type described in subparagraph (1)(B) only if the Secretary determines, based on the totality of publicly available scientific evidence (including evidence from well-designed studies conducted in a manner which is consistent with generally recognized scientific procedures and principles), that there is significant scientific agreement, among experts qualified by scientific training and experience to evaluate such claims, that the claim is supported by such evidence.
 
 (ii) A regulation described in subclause (i) shall describe—
 
@@ -430,7 +430,7 @@ Definition.—In this clause, the term "menu" or "menu board" means the primary 
 
 (ii) Any person may petition the Secretary for permission to use in a claim described in subparagraph (1)(A) terms that are consistent with the terms defined by the Secretary under subparagraph (2)(A)(i). Within 90 days of the submission of such a petition, the Secretary shall issue a final decision denying the petition or granting such permission.
 
-(iii) Any person may petition the Secretary for permission to use an implied claim described in subparagraph (1)(A) in a brand name. After publishing notice of an opportunity to commenton the petition in the Federal Register and making the petition available to the public, the Secretary shall grant the petition if the Secretary finds that such claim is not misleading and is consistent with terms defined by the Secretary under subparagraph (2)(A)(i). The Secretary shall grant or deny the petition within 100 days of the date it is submitted to the Secretary and the petition shall be considered granted if the Secretary does not act on it within such 100 days.
+(iii) Any person may petition the Secretary for permission to use an implied claim described in subparagraph (1)(A) in a brand name. After publishing notice of an opportunity to comment on the petition in the Federal Register and making the petition available to the public, the Secretary shall grant the petition if the Secretary finds that such claim is not misleading and is consistent with terms defined by the Secretary under subparagraph (2)(A)(i). The Secretary shall grant or deny the petition within 100 days of the date it is submitted to the Secretary and the petition shall be considered granted if the Secretary does not act on it within such 100 days.
 
 (B) A petition under clause (A)(i) respecting a claim described in subparagraph (1)(A) or (1)(B) shall include an explanation of the reasons why the claim meets the requirements of this paragraph and a summary of the scientific data which supports such reasons.
 
@@ -558,7 +558,7 @@ If—
 
 &emsp;(ii) a determination by the Secretary that the ingredient does not cause an allergic response that poses a risk to human health under a premarket approval or notification program under section 348 of this title.
 
-(B) The food ingredient may be introduced or delivered for introduction into interstate commerce as a food ingredient that is not a major food allergen 90 days after the date of receipt of the notification by the Secretary, unless the Secretary determines within the 90-day period that the notification does not meet the requirements of this paragraph, or there is insufficient scientific evidence to determine that the food ingredient does not contain allergenic protein ordoes not cause an allergenic response that poses a risk to human health.
+(B) The food ingredient may be introduced or delivered for introduction into interstate commerce as a food ingredient that is not a major food allergen 90 days after the date of receipt of the notification by the Secretary, unless the Secretary determines within the 90-day period that the notification does not meet the requirements of this paragraph, or there is insufficient scientific evidence to determine that the food ingredient does not contain allergenic protein or does not cause an allergenic response that poses a risk to human health.
 
 (C) The Secretary shall promptly post to a public site all notifications received under this subparagraph within 14 days of receipt and promptly post any objections thereto by the Secretary.
 
@@ -606,7 +606,7 @@ Par. (r)(2)(G), (H). Pub. L. 105–115, §304, added cls. (G) and (H).
 
 Par. (r)(3)(C), (D). Pub. L. 105–115, §303, added cls. (C) and (D).
 
-Par. (r)(4)(A)(i). Pub. L. 105–115, §302, inserted after second sentence "If the Secretary does not act within such 100 days, the petition shall be deemed to be denied unless an extension is mutually agreed upon by the Secretary and the petitioner.", inserted "or the petition is deemed to be denied" after "If the Secretary denies the petition", and inserted at end "If the Secretary does not act within such 90 days, the petition shall be deemed to be denied unless an extension is mutually agreed upon by the Secretary and the petitioner. If the Secretary issues a proposed regulation, the rulemaking shall be completed within 540 days of the date the petition is received by the Secretary. If the Secretary does not issue a regulation within such 540 days, the Secretary shall provide the Committee on Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate the reasons action on the regulation did not occur within such 540 days."
+Par. (r)(4)(A)(i). Pub. L. 105–115, §302, inserted after second sentence "If the Secretary does not act withinsuch 100 days, the petition shall be deemed to be denied unless an extension is mutually agreed upon by the Secretary and the petitioner.", inserted "or the petition is deemed to be denied" after "If the Secretary denies the petition", and inserted at end "If the Secretary does not act within such 90 days, the petition shall be deemed to be denied unless an extension is mutually agreed upon by the Secretary and the petitioner. If the Secretary issues a proposed regulation, the rulemaking shall be completed within 540 days of the date the petition is received by the Secretary. If the Secretary does not issue a regulation within such 540 days, the Secretary shall provide the Committee on Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate the reasons action on the regulation did not occur within such 540 days."
 
 Par. (r)(7). Pub. L. 105–115, §301, added subpar. (7).
 
@@ -710,7 +710,7 @@ Pub. L. 101–535, §10(a), Nov. 8, 1990, 104 Stat. 2365, as amended by Pub. L. 
 
 &emsp;&emsp;"(i) the date of the promulgation of all final regulations required to implement section 403(q) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 343(q)\], or
 
-&emsp;&emsp;"(ii) if such regulations are not promulgated, the date proposed regulations are to be considered as such final regulations \[Nov. 8, 1992, see 57 F.R. 56347\],
+&emsp;&emsp;"(ii) if such regulations are not promulgated, the date proposed regulations are to be considered assuch final regulations \[Nov. 8, 1992, see 57 F.R. 56347\],
 
 > &emsp;except that section 403(q)(4) of such Act shall take effect as prescribed by such section,
 
@@ -728,7 +728,7 @@ Pub. L. 101–535, §10(a), Nov. 8, 1990, 104 Stat. 2365, as amended by Pub. L. 
 
 "(3)(A) If the Secretary finds that a person who is subject to section 403(q)(4) of such Act is unable to comply with the requirements of such section upon the effective date of final regulations to implement section 403(q) of such Act or of proposed regulations to be considered as such final regulations because the Secretary has not made available to such person the information required by such section, the Secretary shall delay the application of such section to such person for such time as the Secretary may require to provide such information.
 
-"(B) If the Secretary finds that compliance with section 403(q) or 403(r)(2) of such Act would cause an undueeconomic hardship, the Secretary may delay the application of such sections for no more than one year."
+"(B) If the Secretary finds that compliance with section 403(q) or 403(r)(2) of such Act would cause an undue economic hardship, the Secretary may delay the application of such sections for no more than one year."
 
 Pub. L. 101–535, §10(c), Nov. 8, 1990, 104 Stat. 2367, as amended by Pub. L. 102–108, §1, Aug. 17, 1991, 105 Stat. 549; Pub. L. 102–571, title I, §107(17), Oct. 29, 1992, 106 Stat. 4500, provided that:
 
@@ -794,7 +794,7 @@ Pub. L. 101–535, §9, Nov. 8, 1990, 104 Stat. 2365, provided that: "The amendm
 
 Pub. L. 101–535, §2(b), Nov. 8, 1990, 104 Stat. 2356, as amended by Pub. L. 102–571, title II, §202(a)(2)(A), (B), Oct. 29, 1992, 106 Stat. 4500, 4501, provided that:
 
-"(1) The Secretary of Health and Human Services shall issue proposed regulations to implement section 403(q) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 343(q)\] within 12 months after the date of the enactment of this Act \[Nov. 8, 1990\], except that the Secretary shall issue, not later than June 15, 1993, proposed regulations that are applicable to dietary supplements of vitamins, minerals, herbs, or other similar nutritional substances to implement such section. Not later than 24 months after the date of the enactment of this Act, the Secretary shall issue final regulations to implement the requirements of such section, except that the Secretary shall issue, not later than December 31,1993, such a final regulation applicable to dietary supplements of vitamins, minerals, herbs, or other similar nutritional substances..\[sic\] Such regulations shall—
+"(1) The Secretary of Health and Human Services shall issue proposed regulations to implement section 403(q) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 343(q)\] within 12 months after the date of the enactment of this Act \[Nov. 8, 1990\], except that the Secretary shall issue, not later than June 15, 1993, proposed regulations that are applicable to dietary supplements of vitamins, minerals, herbs, or other similar nutritional substances to implement such section. Not later than 24 months after the date of the enactment of this Act, the Secretary shall issue final regulations to implement the requirements of such section, except that the Secretary shall issue, not later than December 31, 1993, such a final regulation applicable to dietary supplements of vitamins, minerals, herbs, or other similar nutritional substances..\[sic\] Such regulations shall—
 
 &emsp;"(A) require the required information to be conveyed to the public in a manner which enables the public to readily observe and comprehend such information and to understand its relative significance in the context of a total daily diet,
 
@@ -853,10 +853,6 @@ Pub. L. 101–535, §3(b), Nov. 8, 1990, 104 Stat. 2360, as amended by Pub. L. 1
 "(2) If the Secretary does not promulgate final regulations under paragraph (1)(B) upon the expiration of 24 months after the date of the enactment of this Act, the proposed regulations issued in accordance with paragraph (1)(A) shall be considered as the final regulations upon the expiration of such 24 months, except that the proposed regulations applicable to dietary supplements of vitamins, minerals, herbs, or other similar nutritional substances shall not be considered to be final regulations until December 31, 1993. There shall be promptly published in the Federal Register notice of the new status of the proposed regulations \[see 57 F.R. 56347\]."
 
 \[For construction of amendment made by section 202(a)(2)(B) of Pub. L. 102–571 to section 3(b) of Pub. L. 101–535 set out above, see section 202(a)(2)(C) of Pub. L. 102–571 set out above following section 2(b) of Pub. L. 101–535.\]
-
-#### Transfer of Functions
-
-For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under section 321 of this title.
 
 #### Labeling Exemption for Single Ingredient Foods and Products
 
@@ -920,7 +916,7 @@ Composition.—The Commission shall be composed of 7 members who shall be appoin
 
 &emsp;"(2)
 
-Expertise requirement.—The members of the Commission shall consist of individuals with expertise and experience in dietary supplements and in the manufacture, regulation, distribution, and use of such supplements. At least three of the members of the Commission shall be qualified by scientific training and experience to evaluate the benefits to health of the use of dietary supplements and one of such three members shall have experience in pharmacognosy, medical botany, traditional herbal medicine, or other related sciences. Members and staff of the Commission shall be without bias on the issue of dietary supplements.
+Expertise requirement.—The members of the Commission shall consist of individuals with expertise and experience in dietary supplements and in the manufacture, regulation, distribution, and use ofsuch supplements. At least three of the members of the Commission shall be qualified by scientific training and experience to evaluate the benefits to health of the use of dietary supplements and one of such three members shall have experience in pharmacognosy, medical botany, traditional herbal medicine, or other related sciences. Members and staff of the Commission shall be without bias on the issue of dietary supplements.
 
 "(c)
 
@@ -996,7 +992,7 @@ Pub. L. 101–535, §2(c), Nov. 8, 1990, 104 Stat. 2357, provided that: "The Sec
 
 #### Studies Concerning Carcinogenic and Other Toxic Substances in Food and Impurities in and Toxicity of Saccharin
 
-Pub. L. 95–203, §2, Nov. 23, 1977, 91 Stat. 1451, directed Secretary of Health, Education, and Welfare to conduct a study concerning carcinogenic and other toxic substances in food and impurities in and toxicity of saccharin and make a report respecting the carcinogenic and other substances to Committee on Human Resources of the Senate within 12 months of Nov. 23, 1977, and a report respecting saccharin to such committee within 15 months of Nov. 23, 1977.
+Pub. L. 95–203, §2, Nov. 23, 1977, 91 Stat. 1451, directed Secretary of Health, Education, and Welfare to conducta study concerning carcinogenic and other toxic substances in food and impurities in and toxicity of saccharin and make a report respecting the carcinogenic and other substances to Committee on Human Resources of the Senate within 12 months of Nov. 23, 1977, and a report respecting saccharin to such committee within 15 months of Nov. 23, 1977.
 
 #### Report to Congressional Committees Respecting Action Taken Pursuant to Former Par. (o)(2)
 
@@ -1005,6 +1001,12 @@ Pub. L. 95–203, §4(a)(3), Nov. 23, 1977, 91 Stat. 1453, provided that the Sec
 #### State or Territorial Requirements
 
 Pub. L. 86–537, §2, June 29, 1960, 74 Stat. 251, provided that: "Nothing in the amendments made by the first section of this Act \[amending this section\] shall affect any requirement of the laws of any State or Territory."
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under section 321 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

@@ -14,13 +14,15 @@ It is unlawful for any person who is a United States citizen or national, or a f
 
 (Pub. L. 96–320, title III, §301, Aug. 3, 1980, 94 Stat. 994; Pub. L. 98–623, title VI, §602(a)(9), Nov. 8, 1984, 98 Stat. 3411.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in pars. (1) and (2), was in the original "this Act", meaning Pub. L. 96–320, Aug. 3, 1980, 94 Stat. 974, known as the Ocean Thermal Energy Conversion Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9101 of this title and Tables.
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–623 substituted "in or on board an ocean thermal energy conversion facility or plantship or on board any vessel" for "on board an ocean thermal energy conversion facility or plantship or other vessel" in provisions preceding par. (1).
+<b>1984</b>—Pub. L. 98–623 substituted "in or on board an ocean thermal energy conversion facility or plantshipor on board any vessel" for "on board an ocean thermal energy conversion facility or plantship or other vessel" in provisions preceding par. (1).
 
 Par. (2). Pub. L. 98–623 substituted "to enter or board" for "to board".
 

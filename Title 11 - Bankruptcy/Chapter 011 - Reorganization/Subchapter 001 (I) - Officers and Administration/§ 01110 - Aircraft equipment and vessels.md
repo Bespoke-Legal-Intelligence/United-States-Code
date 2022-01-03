@@ -28,7 +28,7 @@
 
 &emsp;(B) includes all records and documents relating to such equipment that are required, under the terms of the security agreement, lease, or conditional sale contract, to be surrendered or returned by the debtor in connection with the surrender or return of such equipment.
 
-(4) Paragraph (1) applies to a secured party, lessor, or conditional vendor acting in its ownbehalf or acting as trustee or otherwise in behalf of another party.
+(4) Paragraph (1) applies to a secured party, lessor, or conditional vendor acting in its own behalf or acting as trustee or otherwise in behalf of another party.
 
 (b) The trustee and the secured party, lessor, or conditional vendor whose right to take possession is protected under subsection (a) may agree, subject to the approval of the court, to extend the 60-day period specified in subsection (a)(1).
 

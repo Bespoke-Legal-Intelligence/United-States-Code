@@ -6,6 +6,8 @@
 
 (Added Pub. L. 90–235, §1(a)(1)(A), Jan. 2, 1968, 81 Stat. 753; amended Pub. L. 101–189, div. A, title VI, §653(a)(3), Nov. 29, 1989, 103 Stat. 1462.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1989</b>—Subsec. (a). Pub. L. 101–189 substituted "armed forces" for "Armed Forces of the United States".

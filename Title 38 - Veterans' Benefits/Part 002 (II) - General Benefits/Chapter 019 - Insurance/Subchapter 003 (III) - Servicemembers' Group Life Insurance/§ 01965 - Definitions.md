@@ -20,7 +20,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(C) full-time duty as a member, cadet, or midshipman of the Reserve Officers Training Corps while attending field training or practice cruises; and
 
-&emsp;&emsp;(D) in the case of members of the National Guard or Air National Guard of any State,full-time duty under sections 316, 502, 503, 504, or 505 of title 32, United States Code.
+&emsp;&emsp;(D) in the case of members of the National Guard or Air National Guard of any State, full-time duty under sections 316, 502, 503, 504, or 505 of title 32, United States Code.
 
 &emsp;(3) The term "inactive duty training" means—
 
@@ -32,7 +32,7 @@ For the purpose of this subchapter—
 
 &emsp;(5) The term "member" means—
 
-&emsp;&emsp;(A) a person on active duty, active duty for training, or inactive duty training in the uniformed services in a commissioned, warrant, or enlisted rank, or grade, or as a cadet or midshipman of the United States Military Academy, United States Naval Academy, United States Air Force Academy, or the United States Coast Guard Academy;
+&emsp;&emsp;(A) a person on active duty, active duty for training, or inactive duty training in theuniformed services in a commissioned, warrant, or enlisted rank, or grade, or as a cadet or midshipman of the United States Military Academy, United States Naval Academy, United States Air Force Academy, or the United States Coast Guard Academy;
 
 &emsp;&emsp;(B) a person who volunteers for assignment to the Ready Reserve of a uniformed service and is assigned to a unit or position in which such person may be required to perform active duty, or active duty for training, and each year will be scheduled to perform at least twelve periods of inactive duty training that is creditable for retirement purposes under chapter 1223 of title 10 (or under chapter 67 of that title as in effect before the effective date of the Reserve Officer Personnel Management Act);
 
@@ -160,7 +160,7 @@ Pub. L. 92–185, §2, Dec. 15, 1971, 85 Stat. 643, provided that: "The provisio
 
 Amendment by Pub. L. 91–291 effective June 25, 1970, see section 14(a) of Pub. L. 91–291, set out as a note under section 1317 of this title.
 
-Pub. L. 91–291, §14(b), June 25, 1970, 84 Stat. 333, provided that: "The provisions of section 765(7), (8), and (9) \[now 1765(7), (8), and (9)\] of title 38, United States Code, as added by the first section of this Act shall apply only to servicemen's group life insurance in effect onthe life of an insured member who dies on and after the date of enactment of this Act \[June 25, 1970\]."
+Pub. L. 91–291, §14(b), June 25, 1970, 84 Stat. 333, provided that: "The provisions of section 765(7), (8), and (9) \[now 1765(7), (8), and (9)\] of title 38, United States Code, as added by the first section of this Act shall apply only to servicemen's group life insurance in effect on the life of an insured member who dies on and after the date of enactment of this Act \[June 25, 1970\]."
 
 #### Transfer of Functions
 
@@ -172,7 +172,7 @@ Pub. L. 104–275, title IV, §405(a), Oct. 9, 1996, 110 Stat. 3339, provided th
 
 #### References to Servicemen's Group Life Insurance or Advisory Council on Servicemen's Group Life Insurance
 
-Pub. L. 104–275, title IV, §405(d), Oct. 9, 1996, 110 Stat. 3340, provided that: "Any reference to Servicemen's Group Life Insurance or to the Advisory Council on Servicemen's Group Life Insurance in any Federal law, Executive order, regulation, delegation of authority, or other document of the Federal Government shall be deemed to refer to Servicemembers' Group Life Insurance or the Advisory Council on Servicemembers' Group Life Insurance, respectively."
+Pub. L. 104–275, title IV, §405(d), Oct. 9, 1996, 110 Stat. 3340, provided that: "Any reference to Servicemen's Group Life Insurance or to the Advisory Council on Servicemen's Group Life Insurance in any Federal law, Executive order, regulation, delegation of authority, or other document of the Federal Government shall bedeemed to refer to Servicemembers' Group Life Insurance or the Advisory Council on Servicemembers' Group Life Insurance, respectively."
 
 <i><sup>1</sup></i><i> See Change of Name note below.</i>
 

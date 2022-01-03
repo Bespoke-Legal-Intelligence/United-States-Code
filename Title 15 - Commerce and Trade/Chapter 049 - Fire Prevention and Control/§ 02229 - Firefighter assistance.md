@@ -224,7 +224,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;Two or more entities may submit an application under paragraph (1) for a grant underthis section to fund a joint program or initiative, including acquisition of shared equipment or vehicles.
+&emsp;&emsp;Two or more entities may submit an application under paragraph (1) for a grant under this section to fund a joint program or initiative, including acquisition of shared equipment or vehicles.
 
 #### (B) Nonexclusivity
 
@@ -320,7 +320,7 @@ In awarding grants under this section, the Administrator of FEMA shall ensure th
 
 #### (2) Applications from nonaffiliated EMS organizations
 
-&emsp;In the case of an application submitted under subsection (e)(1) by a nonaffiliated EMS organization, the Administrator of FEMA shall consider the extent to which other sources of Federal funding are available to the applicant to provide the assistance requested in such application.
+&emsp;In the case of an application submitted under subsection (e)(1) by a nonaffiliated EMS organization, the Administrator of FEMA shall consider the extent to which othersources of Federal funding are available to the applicant to provide the assistance requested in such application.
 
 #### (3) Awarding fire prevention and safety grants to certain organizations that are not fire departments
 
@@ -346,7 +346,7 @@ In awarding grants under this section, the Administrator of FEMA shall ensure th
 
 &emsp;&emsp;&emsp;&emsp;(IV) the strategic plan the recipient proposes to carry out under the grant;
 
-&emsp;&emsp;&emsp;(ii) give special consideration in selecting recipients under subparagraph (A) to an applicant for a grant that consists of a partnership between—
+&emsp;&emsp;&emsp;(ii) give special consideration in selecting recipients under subparagraph (A) <sup>2</sup> to an applicant for a grant that consists of a partnership between—
 
 &emsp;&emsp;&emsp;&emsp;(I) a national fire service organization or a national fire safety organization; and
 
@@ -390,7 +390,7 @@ In awarding grants under this section, the Administrator of FEMA shall ensure th
 
 &emsp;&emsp;In the case that an applicant seeking a grant to carry out an activity under subsection (c) serves a jurisdiction of—
 
-&emsp;&emsp;&emsp;(i) more than 20,000 residents but not more than 1,000,000 residents, the application shall agree to make available non-Federal funds in an amount equal to not less than 10 percent of the grant awarded to such applicant under such subsection; and
+&emsp;&emsp;&emsp;(i) more than 20,000 residents but not more than 1,000,000 residents, the application <sup>3</sup> shall agree to make available non-Federal funds in an amount equal to not less than 10 percent of the grant awarded to such applicant under such subsection; and
 
 &emsp;&emsp;&emsp;(ii) 20,000 residents or fewer, the applicant shall agree to make available non-Federal funds in an amount equal to not less than 5 percent of the grant awarded to such applicant under such subsection.
 
@@ -434,7 +434,7 @@ In awarding grants under this section, the Administrator of FEMA shall ensure th
 
 &emsp;&emsp;&emsp;&emsp;(I) Changes in rates of unemployment from previous years.
 
-&emsp;&emsp;&emsp;&emsp;(II) Whether the rates of unemployment of the relevant communities are currently and have consistently exceeded <sup>2</sup> the annual national average rates of unemployment.
+&emsp;&emsp;&emsp;&emsp;(II) Whether the rates of unemployment of the relevant communities are currently and have consistently exceeded <sup>4</sup> the annual national average rates of unemployment.
 
 &emsp;&emsp;&emsp;&emsp;(III) Changes in percentages of individuals eligible to receive food stamps from previous years.
 
@@ -500,7 +500,7 @@ The Alaska Village Initiatives, a non-profit organization incorporated in the St
 
 #### (o) Training standards
 
-If an applicant for a grant under this section is applying for such grant to purchase training that does not meet or exceed any applicable national voluntary consensus standards, including those developed under section 747 of title 6, the applicant shall submit to the Administrator of FEMA an explanation of the reasons that the training proposed to be purchased will serve the needs of the applicant better than training that meets or exceeds such standards.
+If an applicant for a grant under this section is applying for such grant to purchase training that does not meet or exceed any applicable national voluntary consensus standards, including those developed under section 747 of title 6, theapplicant shall submit to the Administrator of FEMA an explanation of the reasons that the training proposed to be purchased will serve the needs of the applicant better than training that meets or exceeds such standards.
 
 #### (p) Ensuring effective use of grants
 
@@ -567,6 +567,8 @@ If an applicant for a grant under this section is applying for such grant to pur
 The authority to award assistance and grants under this section shall expire on September 30, 2024.
 
 (Pub. L. 93–498, §33, as added Pub. L. 106–398, §1 \[\[div. A\], title XVII, §1701(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–360; amended Pub. L. 107–107, div. A, title X, §1061, Dec. 28, 2001, 115 Stat. 1231; Pub. L. 108–7, div. K, title IV, §421, Feb. 20, 2003, 117 Stat. 526; Pub. L. 108–169, title II, §205, Dec. 6, 2003, 117 Stat. 2040; Pub. L. 108–375, div. C, title XXXVI, §3602, Oct. 28, 2004, 118 Stat. 2195; Pub. L. 112–239, div. A, title XVIII, §1803, Jan. 2, 2013, 126 Stat. 2100; Pub. L. 115–98, §3, Jan. 3, 2018, 131 Stat. 2239.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -660,6 +662,8 @@ Subsec. (e). Pub. L. 107–107, §1061(a), reenacted heading without change and 
 
 &emsp;"(2) $300,000,000 for fiscal year 2002."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transfer of Functions
 
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
@@ -706,5 +710,9 @@ Elements.—The framework required under subsection (a) shall include the follow
 
 <i><sup>1</sup></i><i> So in original.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be "are currently exceeding and have consistently exceeded".</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "clause (i)".</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be "applicant".</i>
+
+<i><sup>4</sup></i><i> So in original. Probably should be "are currently exceeding and have consistently exceeded".</i>
 

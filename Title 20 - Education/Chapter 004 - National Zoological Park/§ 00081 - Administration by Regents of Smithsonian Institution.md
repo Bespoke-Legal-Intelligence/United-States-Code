@@ -4,9 +4,13 @@ The National Zoological Park is placed under the direction of the Regents of the
 
 (Apr. 30, 1890, ch. 173, §2, 26 Stat. 78; Pub. L. 87–360, Oct. 4, 1961, 75 Stat. 779.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1961</b>—Pub. L. 87–360 inserted "and improve" after "administer".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Central Parking Facility
 

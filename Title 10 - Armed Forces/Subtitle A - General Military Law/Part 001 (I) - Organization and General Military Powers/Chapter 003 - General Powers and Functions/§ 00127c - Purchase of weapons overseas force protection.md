@@ -18,6 +18,8 @@ Semiannual Congressional Report.—In any case in which the authority provided i
 
 (Added Pub. L. 109–163, div. A, title XII, §1231(a), Jan. 6, 2006, 119 Stat. 3467.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Another section 127c was renumbered section 127d of this title prior to being renumbered section 331 of this title.

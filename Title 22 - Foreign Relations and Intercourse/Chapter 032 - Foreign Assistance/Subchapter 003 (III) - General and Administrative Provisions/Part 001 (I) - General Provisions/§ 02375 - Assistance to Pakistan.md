@@ -32,7 +32,7 @@ The President may waive the prohibitions of section 2799aa of this title with re
 
 (3) The restrictions of this subsection shall continue to apply to contracts for the delivery of F–16 aircraft to Pakistan.
 
-(4) Notwithstanding the restrictions contained in this subsection, military equipment, technology, or defense services, other than F–16 aircraft, may be transferred to Pakistan pursuantto contracts or cases entered into before October 1, 1990.
+(4) Notwithstanding the restrictions contained in this subsection, military equipment, technology, or defense services, other than F–16 aircraft, may be transferred to Pakistan pursuant to contracts or cases entered into before October 1, 1990.
 
 #### (f) Storage costs
 
@@ -104,9 +104,9 @@ Congressional Findings.—Congress finds the following:
 
 &emsp;"(1) A democratic, stable, and prosperous Pakistan that is a full and reliable partner in the struggle against the Taliban, al Qaeda, and other terrorist groups, and is a responsible steward of its nuclear weapons and technology, is vital to the national security of the United States.
 
-&emsp;"(2) Since September 11, 2001, the Government of Pakistan has been a critical ally and an importantpartner in removing the Taliban regime in Afghanistan and combating al Qaeda.
+&emsp;"(2) Since September 11, 2001, the Government of Pakistan has been a critical ally and an important partner in removing the Taliban regime in Afghanistan and combating al Qaeda.
 
-&emsp;"(3) Pakistan has made great sacrifices in the shared struggle against al Qaeda-affiliated terrorist groups, engaging in military operations that have led to the deaths of hundreds of Pakistani security personnel and enduring acts of terrorism that have killed hundreds of Pakistani civilians.
+&emsp;"(3) Pakistan has made great sacrifices in the shared struggle against al Qaeda-affiliated terroristgroups, engaging in military operations that have led to the deaths of hundreds of Pakistani security personnel and enduring acts of terrorism that have killed hundreds of Pakistani civilians.
 
 &emsp;"(4) Publicly-stated goals of the Government of Pakistan and the national interests of the United States are in close agreement in many areas, including—
 

@@ -18,9 +18,13 @@ Setoff.—The United States Government may deduct the amount of a civil penalty 
 
 (Added Pub. L. 106–181, title V, §511(a), Apr. 5, 2000, 114 Stat. 142; amended Pub. L. 115–254, div. B, title III, §339(a), Oct. 5, 2018, 132 Stat. 3282.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–254 inserted "or sexually" after "physically" in two places and substituted "$35,000" for "$25,000".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -17,6 +17,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232, div. A, title VIII, §806(e)(2), Aug. 13, 2018, 132 Stat. 1834, redesignated items for chapters 931 to 953 as 961 to 983, respectively.

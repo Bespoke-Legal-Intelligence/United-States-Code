@@ -12,7 +12,7 @@
 
 &emsp;(3) Take charge of all property of the United States used by the Court or its members;
 
-&emsp;(4) Disburse funds appropriated for work upon the Supreme Court building and groundsunder the jurisdiction of the Architect of the Capitol upon certified vouchers submitted by the Architect;
+&emsp;(4) Disburse funds appropriated for work upon the Supreme Court building and grounds under the jurisdiction of the Architect of the Capitol upon certified vouchers submitted by the Architect;
 
 &emsp;(5) Disburse funds appropriated for the purchase of books, pamphlets, periodicals and other publications, and for their repair, binding, and rebinding, upon vouchers certified by the librarian of the Court;
 

@@ -14,7 +14,7 @@ Each Office of Minority Health established in an agency listed in subsection (a)
 
 #### (d) References
 
-Except as otherwise specified, any reference in Federal law to an Office of Minority Health (inthe Department of Health and Human Services) is deemed to be a reference to the Office of Minority Health in the Office of the Secretary.
+Except as otherwise specified, any reference in Federal law to an Office of Minority Health (in the Department of Health and Human Services) is deemed to be a reference to the Office of Minority Health in the Office of the Secretary.
 
 #### (e) Funding
 
@@ -27,6 +27,8 @@ Except as otherwise specified, any reference in Federal law to an Office of Mino
 &emsp;The purposes for which amounts made available under paragraph <sup>3</sup> may be expended by a minority health office include the costs of employing staff for such office.
 
 (July 1, 1944, ch. 373, title XVII, §1707A, as added Pub. L. 111–148, title X, §10334(b)(1), Mar. 23, 2010, 124 Stat. 972.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Construction
 

@@ -20,6 +20,8 @@ This section does not apply with respect to causes of action arising under—
 
 (Pub. L. 96–39, title IV, §441, July 26, 1979, 93 Stat. 248; Pub. L. 103–182, title III, §351(b)(2)(A), Dec. 8, 1993, 107 Stat. 2122; Pub. L. 104–295, §21(b)(1), Oct. 11, 1996, 110 Stat. 3529.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–295 amended directory language of Pub. L. 103–182. See 1993 Amendment note below.

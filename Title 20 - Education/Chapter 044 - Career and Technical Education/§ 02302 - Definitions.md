@@ -146,7 +146,7 @@ Unless otherwise specified, in this chapter:
 
 &emsp;&emsp;&emsp;(iv) An Indian Tribe, Tribal organization, or Tribal educational agency.
 
-&emsp;&emsp;&emsp;(v) An institution of higher education whose most common degree awarded is anassociate degree, or a consortium of such institutions.
+&emsp;&emsp;&emsp;(v) An institution of higher education whose most common degree awarded is an associate degree, or a consortium of such institutions.
 
 &emsp;&emsp;&emsp;(vi) An institution of higher education whose most common degree awarded is a bachelor's or higher degree, or a consortium of such institutions.
 
@@ -258,7 +258,7 @@ Unless otherwise specified, in this chapter:
 
 #### (33) Non-traditional fields
 
-&emsp;The term "non-traditional fields" means occupations or fields of work, such as careers in computer science, technology, and other current and emerging high skill occupations, for which individuals from one gender comprise less than 25 percent of the individuals employed in each such occupation or field of work.
+&emsp;The term "non-traditional fields" means occupations or fields of work, such as careers in computer science, technology, and other current and emerging high skill occupations, for which individuals from one gender compriseless than 25 percent of the individuals employed in each such occupation or field of work.
 
 #### (34) Outlying area
 
@@ -488,6 +488,8 @@ Unless otherwise specified, in this chapter:
 
 (Pub. L. 88–210, §3, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 685; amended Pub. L. 110–315, title IX, §941(k)(2)(D)(i), Aug. 14, 2008, 122 Stat. 3466; Pub. L. 114–95, title IX, §9215(n)(1), Dec. 10, 2015, 129 Stat. 2168; Pub. L. 115–224, §7, July 31, 2018, 132 Stat. 1565; Pub. L. 116–6, div. H, title II, §201(a), Feb. 15, 2019, 133 Stat. 475.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Indian Self-Determination and Education Assistance Act, referred to in par. (20)(F), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
@@ -498,7 +500,7 @@ The Social Security Act, referred to in par. (36)(B)(i)(II), is act Aug. 14, 193
 
 The Individuals with Disabilities Education Act, referred to in par. (38)(B), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
-The Rehabilitation Act of 1973, referred to in par. (38)(B)(ii), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355,which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in par. (38)(B)(ii), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
 The Americans with Disabilities Act of 1990, referred to in par. (38)(B)(ii), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
@@ -587,6 +589,8 @@ Par. (19). Pub. L. 114–95, §9215(n)(1)(C), made technical amendment to refere
 Par. (27). Pub. L. 114–95, §9215(n)(1)(D), made technical amendment to reference in original act which appears in text as reference to section 7801 of this title.
 
 <b>2008</b>—Par. (33). Pub. L. 110–315 made technical amendment to reference in original act which appears in text as reference to section 1801(a) of title 25.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2019 Amendment
 

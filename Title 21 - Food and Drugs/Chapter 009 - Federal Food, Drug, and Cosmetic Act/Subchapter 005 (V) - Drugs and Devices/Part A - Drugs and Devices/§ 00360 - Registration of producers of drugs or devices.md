@@ -34,7 +34,7 @@ The Secretary may assign a registration number to any person or any establishmen
 
 #### (f) Availability of registrations for inspection
 
-The Secretary shall make available for inspection, to any person so requesting, any registration filed pursuant to this section; except that any list submitted pursuant to paragraph (3) ofsubsection (j) and the information accompanying any list or notice filed under paragraph (1) or (2) of that subsection shall be exempt from such inspection unless the Secretary finds that such an exemption would be inconsistent with protection of the public health.
+The Secretary shall make available for inspection, to any person so requesting, any registration filed pursuant to this section; except that any list submitted pursuant to paragraph (3) of subsection (j) and the information accompanying any list or notice filed under paragraph\(1) or (2) of that subsection shall be exempt from such inspection unless the Secretary finds that such an exemption would be inconsistent with protection of the public health.
 
 #### (g) Exclusions from application of section
 
@@ -104,7 +104,7 @@ The foregoing subsections of this section shall not apply to—
 
 &emsp;&emsp;(ii) the number of such domestic establishments and the number of such foreign establishments that the Secretary inspected in the previous calendar year;
 
-&emsp;&emsp;(B) with respect to establishments that manufacture, prepare, propagate, compound, or process an active ingredient of a drug or a finished drug product, the number of each such type of establishment; and
+&emsp;&emsp;(B) with respect to establishments that manufacture, prepare, propagate, compound,or process an active ingredient of a drug or a finished drug product, the number of each such type of establishment; and
 
 &emsp;&emsp;(C) the percentage of the budget of the Food and Drug Administration used to fund the inspections described under subparagraph (A).
 

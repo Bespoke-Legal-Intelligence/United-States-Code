@@ -18,7 +18,7 @@ The purposes of this chapter are—
 
 &emsp;(8) to improve Federal, State, and international coordination for detection, warnings, and outreach for tsunami and other coastal impacts.
 
-(Pub. L. 109–424, §3, Dec. 20, 2006, 120 Stat. 2902; Pub. L. 109–479, title VIII, §803, Jan. 12, 2007, 120Stat. 3653; Pub. L. 115–25, title V, §§503, 512(a), Apr. 18, 2017, 131 Stat. 115, 128.)
+(Pub. L. 109–424, §3, Dec. 20, 2006, 120 Stat. 2902; Pub. L. 109–479, title VIII, §803, Jan. 12, 2007, 120 Stat. 3653; Pub. L. 115–25, title V, §§503, 512(a), Apr. 18, 2017, 131 Stat. 115, 128.)
 
 #### <b>Editorial Notes</b>
 

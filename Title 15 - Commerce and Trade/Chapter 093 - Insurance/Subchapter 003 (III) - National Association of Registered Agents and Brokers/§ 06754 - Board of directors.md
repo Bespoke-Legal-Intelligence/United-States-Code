@@ -42,7 +42,7 @@ The Board shall have such of the powers and authority of the Association as may 
 
 #### (D) Service through term
 
-&emsp;&emsp;If a Board member appointed under paragraph (1)(A) ceases to be a State insurance commissioner during the term of the Boardmember, the Board member shall cease to be a Board member.
+&emsp;&emsp;If a Board member appointed under paragraph (1)(A) ceases to be a State insurance commissioner during the term of the Board member, the Board member shall cease to be a Board member.
 
 #### (3) Private sector representatives
 
@@ -139,6 +139,8 @@ The Board shall issue and enforce an ethical conduct code to address permissible
 &emsp;Board members may be reimbursed only by the Association for travel expenses, including per diem in lieu of subsistence, at rates consistent with rates authorized for employees of Federal agencies under subchapter I of chapter 57 of title 5, while away from home or regular places of business in performance of services for the Association.
 
 (Pub. L. 106–102, title III, §324, as added Pub. L. 114–1, title II, §202(a), Jan. 12, 2015, 129 Stat. 20.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

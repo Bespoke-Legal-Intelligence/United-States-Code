@@ -4,6 +4,8 @@ The purpose of this subpart is to enable the Secretary to provide a Federal prog
 
 (July 1, 1944, ch. 373, title VII, §701, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 292, act July 1, 1944, ch. 373, title VII, §700, as added Oct. 12, 1976, Pub. L. 94–484, title II, §201(b), 90 Stat. 2246, set forth limitations on use of appropriations, prior to repeal by Pub. L. 97–35, title XXVII, §2715, Aug. 13, 1981, 95 Stat. 913.
@@ -11,6 +13,8 @@ A prior section 292, act July 1, 1944, ch. 373, title VII, §700, as added Oct. 
 Another prior section 292, act July 1, 1944, ch. 373, title VII, §701, as added July 30, 1956, ch. 779, §2, 70 Stat. 717; amended Sept. 24, 1963, Pub. L. 88–129, §2(a), 77 Stat. 164, stated Congressional findings and declaration of policy respecting grants for construction of health research facilities, prior to repeal by Pub. L. 94–484, title II, §201(a), Oct. 12, 1976, 90 Stat. 2246.
 
 A prior section 701 of act July 1, 1944, was classified to section 292a of this title prior to the general revision of this subchapter by Pub. L. 102–408.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -42,5 +46,5 @@ Conforming Amendments.—\[Amended section 292o of this title.\]"
 
 #### Study on Effectiveness of Health Professions Programs
 
-Pub. L. 102–408, title III, §309, Oct. 13, 1992, 106 Stat. 2089, directed the Comptroller General to conduct a study of the programs carried out under this subchapter and subchapter VI of this chapter for the purpose of determining the effectiveness of such programsin increasing the number of primary care providers (physicians, physician assistants, nurse midwives, nurse practitioners and general dentists), nurses and allied health personnel, improving the geographic distribution of health professionals in medically underserved and rural areas, and recruiting and retaining as students in health professions schools individuals who are members of a minority group, and report to the Congress not later than Jan. 1, 1994, on findings and recommendations made as a result of the study relevant to the reauthorization of such programs.
+Pub. L. 102–408, title III, §309, Oct. 13, 1992, 106 Stat. 2089, directed the Comptroller General to conduct a study of the programs carried out under this subchapter and subchapter VI of this chapter for the purpose of determining the effectiveness of such programs in increasing the number of primary care providers (physicians, physician assistants, nurse midwives, nurse practitioners and general dentists), nurses and allied health personnel, improving the geographic distribution of health professionals in medically underserved and rural areas, and recruiting and retaining as students in health professions schools individuals who are members of a minority group, and report to the Congress not later than Jan. 1, 1994, on findings and recommendations made as a result of the study relevant to the reauthorization of such programs.
 

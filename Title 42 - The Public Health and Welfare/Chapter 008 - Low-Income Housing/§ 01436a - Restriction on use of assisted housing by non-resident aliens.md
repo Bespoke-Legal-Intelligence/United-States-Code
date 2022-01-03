@@ -4,7 +4,7 @@
 
 Notwithstanding any other provision of law, the applicable Secretary may not make financial assistance available for the benefit of any alien unless that alien is a resident of the United States and is—
 
-&emsp;(1) an alien lawfully admitted for permanent residence as an immigrant as defined by section 1101(a)(15) and (20) of title 8, excluding, among others, alien visitors, tourists, diplomats, and students who enter the UnitedStates temporarily with no intention of abandoning their residence in a foreign country;
+&emsp;(1) an alien lawfully admitted for permanent residence as an immigrant as defined by section 1101(a)(15) and (20) of title 8, excluding, among others, alien visitors, tourists, diplomats, and students who enter the United States temporarily with no intention of abandoning their residence in a foreign country;
 
 &emsp;(2) an alien who entered the United States prior to June 30, 1948, or such subsequent date as is enacted by law, has continuously maintained his or her residence in the United States since then, and is not ineligible for citizenship, but who is deemed to be lawfully admitted for permanent residence as a result of an exercise of discretion by the Attorney General pursuant to section 1259 of title 8;
 
@@ -90,7 +90,7 @@ The following conditions apply with respect to financial assistance being or to 
 
 &emsp;&emsp;&emsp;&emsp;(II) in the case of any individual applying for financial assistance on or after September 30, 1996, deny the application for such assistance on the basis of the immigration status of that individual; and
 
-&emsp;&emsp;&emsp;(iii) the applicable Secretary shall not be liable for the consequences of any action,delay, or failure of the Service to conduct such verification.
+&emsp;&emsp;&emsp;(iii) the applicable Secretary shall not be liable for the consequences of any action, delay, or failure of the Service to conduct such verification.
 
 &emsp;(5) If the applicable Secretary determines, after complying with the requirements of paragraph (4), that such an individual is not in a satisfactory immigration status, the applicable Secretary shall—
 
@@ -146,7 +146,7 @@ For purposes of this section, the term "applicable Secretary" means—
 
 &emsp;&emsp;(B) in carrying out subsection (d)—
 
-&emsp;&emsp;&emsp;(i) may initiate procedures to affirmatively establish or verify the eligibility of an individual or family under this section at any time at which the public housingagency determines that such eligibility is in question, regardless of whether or not that individual or family is at or near the top of the waiting list of the public housing agency;
+&emsp;&emsp;&emsp;(i) may initiate procedures to affirmatively establish or verify the eligibility of an individual or family under this section at any time at which the public housing agency determines that such eligibility is in question, regardless of whether or not that individual or family is at or near the top of the waiting list of the public housing agency;
 
 &emsp;&emsp;&emsp;(ii) may affirmatively establish or verify the eligibility of an individual or family under this section in accordance with the procedures set forth in section 1324a(b)(1) of title 8; and
 
@@ -157,6 +157,8 @@ For purposes of this section, the term "applicable Secretary" means—
 &emsp;For purposes of this subsection, with respect to a family, the term "eligibility" means the eligibility of each family member.
 
 (Pub. L. 96–399, title II, §214, Oct. 8, 1980, 94 Stat. 1637; Pub. L. 97–35, title III, §329(a), Aug. 13, 1981, 95 Stat. 408; Pub. L. 99–603, title I, §121(a)(2), Nov. 6, 1986, 100 Stat. 3386; Pub. L. 100–242, title I, §164(a)–(f)(1), Feb. 5, 1988, 101 Stat. 1860–1863; Pub. L. 104–193, title IV, §441(a), Aug. 22, 1996, 110 Stat. 2276; Pub. L. 104–208, div. C, title III, §308(g)(7)(D)(ii), title V, §§572–576, Sept. 30, 1996, 110 Stat. 3009–624, 3009–684, 3009–685, 3009–687; Pub. L. 105–276, title V, §592(a), Oct. 21, 1998, 112 Stat. 2653; Pub. L. 106–504, §3(b), Nov. 13, 2000, 114 Stat. 2312; Pub. L. 114–201, title I, §113, July 29, 2016, 130 Stat. 804.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -222,7 +224,7 @@ Subsec. (d). Pub. L. 104–208, §574(1), inserted "or to be" after "being" in i
 
 Pub. L. 104–193, §441(a)(3), substituted "applicable Secretary" for "Secretary" wherever appearing in pars. (2) to (6).
 
-Pub. L. 104–193, §441(a)(1), (4), substituted "the term 'applicable Secretary' " for "the term 'Secretary' " and"applicable Secretary" for "Secretary of Housing and Urban Development" in closing provisions.
+Pub. L. 104–193, §441(a)(1), (4), substituted "the term 'applicable Secretary' " for "the term 'Secretary' " and "applicable Secretary" for "Secretary of Housing and Urban Development" in closing provisions.
 
 Subsec. (d)(1)(A). Pub. L. 104–208, §574(2), inserted at end "If the declaration states that the individual is not a citizen or national of the United States and that the individual is younger than 62 years of age, the declaration shall be verified by the Immigration and Naturalization Service. If the declaration states that the individual is a citizen or national of the United States, the Secretary of Housing and Urban Development, or the agency administering assistance covered by this section, may request verification of the declaration by requiring presentation of documentation that the Secretary considers appropriate, including a United States passport, resident alien card, alien registration card, social security card, or other documentation."
 
@@ -297,6 +299,8 @@ Subsec. (g). Pub. L. 100–242, §164(f)(1), added subsec. (g).
 <b>1981</b>—Subsec. (a). Pub. L. 97–35 substituted provisions relating to restrictions on use of assisted housing by resident aliens meeting further conditions for provisions relating to prohibition on financial assistance to nonimmigrant student-aliens.
 
 Subsec. (b). Pub. L. 97–35 struck out "(1)" after "(b)" and par. (2) which defined "nonimmigrant student-alien".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

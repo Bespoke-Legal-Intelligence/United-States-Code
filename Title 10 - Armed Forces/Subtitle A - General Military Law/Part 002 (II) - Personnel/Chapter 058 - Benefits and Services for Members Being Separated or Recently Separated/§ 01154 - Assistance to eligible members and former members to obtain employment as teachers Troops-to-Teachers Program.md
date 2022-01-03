@@ -52,7 +52,7 @@ Additional terms.—The terms "elementary school", "local educational agency", "
 
 (b)
 
-Program Authorization.—The Secretary of Defense may carry out a Troops-to-Teachers Program—
+Program Authorization.—The Secretary of Defense shall carry out a Troops-to-Teachers Program—
 
 &emsp;(1) to assist eligible members of the armed forces described in subsection (d) to meet the requirements necessary to become a teacher in a school described in paragraph (2); and
 
@@ -192,7 +192,7 @@ Reimbursement Under Certain Circumstances.—
 
 Reimbursement required.—A participant who is paid a stipend or bonus under this subsection shall be subject to the repayment provisions of section 373 of title 37 under the following circumstances:
 
-&emsp;&emsp;(A) The participant fails to meet the requirements necessary to become a teacher in a school described in subsection (b)(2) or toobtain employment as an elementary school teacher, secondary school teacher, or career or technical teacher as required by the participation agreement under subsection (e)(1).
+&emsp;&emsp;(A) The participant fails to meet the requirements necessary to become a teacher in a school described in subsection (b)(2) or to obtain employment as an elementary school teacher, secondary school teacher, or career or technical teacher as required by the participation agreement under subsection (e)(1).
 
 &emsp;&emsp;(B) The participant voluntarily leaves, or is terminated for cause from, employment as an elementary school teacher, secondary school teacher, or career or technical teacher during the three years of required service in violation of the participation agreement.
 
@@ -228,9 +228,33 @@ Assistance to states.—(A) Subject to subparagraph (B), the Secretary may make 
 
 (i)
 
+Annual Report.—(1) Not later than December 1, 2022, and annually thereafter, the Secretary of Defense shall submit to the appropriate congressional committees a report on the Program.
+
+(2) The report required under paragraph (1) shall include the following elements:
+
+&emsp;(A) The total cost of the Program for the most recent fiscal year.
+
+&emsp;(B) The total number of teachers placed during such fiscal year and the locations of such placements.
+
+&emsp;(C) An assessment of the STEM backgrounds of the teachers placed, the number of placements in high-need schools, and any other metric or information the Secretary considers appropriate to illustrate the cost and benefits of the program to members of the armed forces, veterans, and local educational agencies.
+
+(3) In this subsection, the term "appropriate congressional committees" means—
+
+&emsp;(A) the Committee on Armed Services and the Committee on Help, Education, Labor, and Pensions of the Senate; and
+
+&emsp;(B) the Committee on Armed Services and the Committee on Education and Labor of the House of Representatives.
+
+(j)
+
 Limitation on Total Fiscal-year Obligations.—The total amount obligated by the Secretary under the Program for any fiscal year may not exceed $15,000,000.
 
-(Added Pub. L. 112–239, div. A, title V, §541(b)(1), Jan. 2, 2013, 126 Stat. 1729; amended Pub. L. 113–291, div. A, title X, §1071(f)(14), Dec. 19, 2014, 128 Stat. 3510; Pub. L. 114–95, title IX, §9215(uuu)(2), Dec. 10, 2015, 129 Stat. 2190; Pub. L. 115–232, div. A, title V, §554, Aug. 13, 2018, 132 Stat. 1773.)
+(k)
+
+Sunset.—The Program shall terminate on July 1, 2025, with respect to the selection of new participants for the program. Participants in the Program as of that date may complete their program, and remain eligible for benefits under this section.
+
+(Added Pub. L. 112–239, div. A, title V, §541(b)(1), Jan. 2, 2013, 126 Stat. 1729; amended Pub. L. 113–291, div. A, title X, §1071(f)(14), Dec. 19, 2014, 128 Stat. 3510; Pub. L. 114–95, title IX, §9215(uuu)(2), Dec. 10, 2015, 129 Stat. 2190; Pub. L. 115–232, div. A, title V, §554, Aug. 13, 2018, 132 Stat. 1773; Pub. L. 117–81, div. A, title V, §551, Dec. 27, 2021, 135 Stat. 1734.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -246,6 +270,12 @@ The Higher Education Act of 1965, referred to in subsec. (e)(4), is Pub. L. 89�
 
 #### Amendments
 
+<b>2021</b>—Subsec. (b). Pub. L. 117–81, §551(a), substituted "shall" for "may" in introductory provisions.
+
+Subsecs. (i), (j). Pub. L. 117–81, §551(b), added subsec. (i) and redesignated former subsec. (i) as (j).
+
+Subsec. (k). Pub. L. 117–81, §551(c), added subsec. (k).
+
 <b>2018</b>—Subsec. (d)(2)(B). Pub. L. 115–232, §554(a), inserted "(A)(iii)," after "(A)(i)," and "transferred to the Retired Reserve, or" after "member is retired," and substituted "separated or released" for "separated, or released".
 
 Subsec. (d)(3)(D). Pub. L. 115–232, §554(b), inserted ", the transfer of the member to the Retired Reserve," after "retirement of the member" and "transfer," after "after the retirement,".
@@ -257,6 +287,8 @@ Subsec. (a)(3)(C). Pub. L. 114–95, §9215(uuu)(2)(B), substituted "section 521
 Subsec. (a)(8). Pub. L. 114–95, §9215(uuu)(2)(C), substituted "section 8101 of the Elementary and Secondary Education Act of 1965" for "section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801)".
 
 <b>2014</b>—Subsec. (a)(2)(A)(ii). Pub. L. 113–291 substituted "20 U.S.C. 1411" for "20 U.S.C.1411".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

@@ -4,9 +4,13 @@ A tax is hereby imposed on every generation-skipping transfer (within the meanin
 
 (Added Pub. L. 94–455, title XX, §2006(a), Oct. 4, 1976, 90 Stat. 1879; amended Pub. L. 99–514, title XIV, §1431(a), Oct. 22, 1986, 100 Stat. 2718.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1986</b>—Pub. L. 99–514 amended section generally, substituting "(within the meaning of subchapter B)" for "in the amount determined under section 2602".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 
@@ -56,7 +60,7 @@ Treatment of transfers in trust.—For purposes of subparagraph (A), a transfer 
 
 &emsp;&emsp;&emsp;"(ii) the assets of the trust will be includible in the gross estate of the grandchild if the grandchild dies before the trust is terminated, and
 
-&emsp;&emsp;&emsp;"(iii) all of the income of the trust for periods after the grandchild has attained age 21 will bedistributed to (or for the benefit of) such grandchild not less frequently than annually.
+&emsp;&emsp;&emsp;"(iii) all of the income of the trust for periods after the grandchild has attained age 21 will be distributed to (or for the benefit of) such grandchild not less frequently than annually.
 
 &emsp;&emsp;"(C)
 
@@ -98,7 +102,7 @@ In general.—For purposes of chapter 13 of the Internal Revenue Code of 1986 (a
 
 &emsp;&emsp;"(C) an election under this subsection applies to such transfer.
 
-> &emsp;Any transfer treated as a direct skip by reason of the preceding sentence shall be subject to Federal estate tax on the grandchild's death in the same manner as if the contingent gift over had been to the grandchild's estate.
+> &emsp;Any transfer treated as a direct skip by reason of the preceding sentence shall be subject to Federal estatetax on the grandchild's death in the same manner as if the contingent gift over had been to the grandchild's estate.
 
 &emsp;"(2)
 

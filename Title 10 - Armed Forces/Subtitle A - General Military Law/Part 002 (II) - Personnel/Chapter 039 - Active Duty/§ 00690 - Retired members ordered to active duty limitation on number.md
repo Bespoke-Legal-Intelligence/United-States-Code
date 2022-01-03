@@ -26,6 +26,8 @@ Waiver for Periods of War or National Emergency.—Subsection (a) does not apply
 
 (Added Pub. L. 104–201, div. A, title V, §521(a), Sept. 23, 1996, 110 Stat. 2516; amended Pub. L. 106–65, div. A, title V, §507, Oct. 5, 1999, 113 Stat. 591; Pub. L. 107–107, div. A, title V, §509(b), Dec. 28, 2001, 115 Stat. 1091.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 690 was renumbered section 12321 of this title.
@@ -37,6 +39,8 @@ Provisions similar to those in subsecs. (a) and (c) of this section were contain
 <b>2001</b>—Subsec. (b)(2)(E). Pub. L. 107–107 added subpar. (E).
 
 <b>1999</b>—Subsec. (b)(2)(D). Pub. L. 106–65 added subpar. (D).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2001 Amendment
 

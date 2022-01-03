@@ -30,7 +30,7 @@
 
 &emsp;&emsp;&emsp;(i) set forth the Government's strategy for drug interdiction;
 
-&emsp;&emsp;&emsp;(ii) state the specific roles and responsibilities of the relevant National Drug Control Program agencies for implementing that strategy; and
+&emsp;&emsp;&emsp;(ii) state the specific roles and responsibilities of the relevant National DrugControl Program agencies for implementing that strategy; and
 
 &emsp;&emsp;&emsp;(iii) identify the specific resources required to enable the relevant National Drug Control Program agencies to implement that strategy.
 

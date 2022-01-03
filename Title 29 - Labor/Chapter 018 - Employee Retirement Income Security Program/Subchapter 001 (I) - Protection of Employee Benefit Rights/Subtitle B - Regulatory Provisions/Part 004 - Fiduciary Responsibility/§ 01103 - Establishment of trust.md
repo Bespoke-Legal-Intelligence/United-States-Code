@@ -70,7 +70,7 @@ Paragraph (2), (3), or (4), referred to in subsec. (c)(1), probably should be a 
 
 #### Amendments
 
-<b>2015</b>—Subsec. (c)(1). Pub. L. 114–41 substituted "July 31, 2015" for "July 6, 2012". Amendment was executed toreflect the probable intent of Congress notwithstanding an extra closing quotation mark in the directory language.
+<b>2015</b>—Subsec. (c)(1). Pub. L. 114–41 substituted "July 31, 2015" for "July 6, 2012". Amendment was executed to reflect the probable intent of Congress notwithstanding an extra closing quotation mark in the directory language.
 
 <b>2012</b>—Subsec. (c)(1). Pub. L. 112–141 substituted "July 6, 2012" for "August 17, 2006".
 
@@ -124,7 +124,7 @@ Amendment by Pub. L. 101–508 applicable to qualified transfers under section 4
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 7881(k) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
+Amendment by section 7881(k) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates,see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 

@@ -156,7 +156,7 @@ In general.—The Secretary shall develop a continuous risk assessment program t
 
 &emsp;(2)
 
-Method for assessment.—The Secretary, in coordination with stakeholders andthe public, shall develop a standard method for conducting risk assessments under paragraph (1) that includes the collection and management of all information necessary to identify and analyze potential hazardous navigational trends within a vessel traffic service area.
+Method for assessment.—The Secretary, in coordination with stakeholders and the public, shall develop a standard method for conducting risk assessments under paragraph (1) that includes the collection and management of all information necessary to identify and analyze potential hazardous navigational trends within a vessel traffic service area.
 
 &emsp;(3)
 
@@ -266,7 +266,7 @@ International and inland navigation rules test.—
 
 &emsp;&emsp;(A)
 
-In general.—All personnel assigned, employed, or working in a vessel trafficservice center with responsibilities that include communicating, interacting, or directing vessels within a vessel traffic service area, as determined under the national policy developed under subsection (b), shall be required to pass a United States international and inland navigation rules test developed by the Secretary.
+In general.—All personnel assigned, employed, or working in a vessel traffic service center with responsibilities that include communicating, interacting, or directing vessels within a vessel traffic service area, as determined under the national policy developed under subsection (b), shall be required to pass a United States international and inland navigation rules test developed by the Secretary.
 
 &emsp;&emsp;(B)
 

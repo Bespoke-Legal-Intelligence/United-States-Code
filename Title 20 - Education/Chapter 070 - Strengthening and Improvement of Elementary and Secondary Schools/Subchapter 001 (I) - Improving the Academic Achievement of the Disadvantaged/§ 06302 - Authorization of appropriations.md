@@ -14,7 +14,7 @@ There are authorized to be appropriated to carry out the activities described in
 
 #### (b) State assessments
 
-There are authorized to be appropriated to carry out the activities described in part B, $378,000,000 for each of fiscal years 2017 through 2020.
+There are authorized to be appropriated to carry out the activities described in part B,$378,000,000 for each of fiscal years 2017 through 2020.
 
 #### (c) Education of migratory children
 
@@ -34,6 +34,8 @@ It is the sense of Congress that if legislation is enacted that revises the limi
 
 (Pub. L. 89–10, title I, §1002, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1440; amended Pub. L. 114–95, title I, §1002, Dec. 10, 2015, 129 Stat. 1814.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 6302, Pub. L. 89–10, title I, §1002, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3522; amended Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §1602\], Dec. 21, 2000, 114 Stat. 2763, 2763A–328, authorized appropriations, prior to the general amendment of this subchapter by Pub. L. 107–110.
@@ -43,6 +45,8 @@ A prior section 1002 of Pub. L. 89–10 was renumbered section 9002 and was clas
 #### Amendments
 
 <b>2015</b>—Pub. L. 114–95 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (i) relating to authorization of appropriations for fiscal years 2002 through 2007.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

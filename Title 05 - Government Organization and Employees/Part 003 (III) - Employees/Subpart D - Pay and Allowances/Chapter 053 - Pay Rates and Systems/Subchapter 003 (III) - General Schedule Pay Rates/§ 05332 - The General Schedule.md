@@ -6,7 +6,7 @@
 
 (b) When payment is made on the basis of an hourly, daily, weekly, or biweekly rate, the rate is computed from the appropriate annual rate of basic pay named by subsection (a) of this section in accordance with the rules prescribed by section 5504(b) of this title.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 467; Pub. L. 90–83, §1(18), Sept. 11, 1967, 81 Stat. 199; Pub. L. 90–206, title II, §202(a), Dec. 16, 1967, 81 Stat. 624; Pub. L. 95–454, title V, §503(e), Oct. 13, 1978, 92 Stat. 1184; Pub. L. 98–615, title II, §204(a)(1), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 102–378, §2(29), Oct. 2, 1992, 106 Stat. 1350; Pub. L. 103–89, §3(b)(1)(F), Sept. 30, 1993, 107 Stat. 982.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 467; Pub. L. 90–83, §1(18), Sept. 11, 1967, 81 Stat. 199; Pub. L. 90–206, title II, §202(a), Dec. 16, 1967, 81 Stat. 624; Pub. L. 95–454, title V, §503(e), Oct. 13, 1978, 92 Stat. 1184; Pub. L. 98–615, title II, §204(a)(1), Nov.8, 1984, 98 Stat. 3216; Pub. L. 102–378, §2(29), Oct. 2, 1992, 106 Stat. 1350; Pub. L. 103–89, §3(b)(1)(F), Sept. 30, 1993, 107 Stat. 982.)
 
 Historical and Revision Notes<br>1966
 
@@ -136,7 +136,7 @@ Pub. L. 93–549, Dec. 26, 1974, 88 Stat. 1743, provided that no officer or empl
 
 #### 1970 Increase in Pay Rates
 
-Pub. L. 91–231, Apr. 15, 1970, 84 Stat. 195, known as the Federal Employees Salary Act of 1970, and effective on the first day of the first pay period beginning on or after Dec. 27, 1969, provided for an increase in the rates of basic pay, basic compensation, and salaries contained in the General Schedule, the Postal Field Service Schedule and Rural Carrier Schedule, the schedule relating to certain positions within the Department of Medicine and Surgery of the Veterans' Administration, and the Foreign Service schedules, and also for employees of Agricultural Stabilization and Conservation County Committees, for certain employees of the Legislative and Judicial Branches, for United States Attorneys, and for other employees of the United States Government and the government of the District of Columbia whose rates of pay were fixed by administrative action and not otherwise increased.
+Pub. L. 91–231, Apr. 15, 1970, 84 Stat. 195, known as the Federal Employees Salary Act of 1970, and effective onthe first day of the first pay period beginning on or after Dec. 27, 1969, provided for an increase in the rates of basic pay, basic compensation, and salaries contained in the General Schedule, the Postal Field Service Schedule and Rural Carrier Schedule, the schedule relating to certain positions within the Department of Medicine and Surgery of the Veterans' Administration, and the Foreign Service schedules, and also for employees of Agricultural Stabilization and Conservation County Committees, for certain employees of the Legislative and Judicial Branches, for United States Attorneys, and for other employees of the United States Government and the government of the District of Columbia whose rates of pay were fixed by administrative action and not otherwise increased.
 
 #### Initial Adjustment of 1967
 
@@ -154,9 +154,9 @@ Pub. L. 90–206, title II, §218, Dec. 16, 1967, 81 Stat. 638, provided for ret
 
 #### <b>Executive Documents</b>
 
-#### Ex. Ord. No. 13970. Adjustments of Certain Rates of Pay
+#### Ex. Ord. No. 14061. Adjustments of Certain Rates of Pay
 
-Ex. Ord. No. 13970, Dec. 31, 2020, 86 F.R. 421, provided:
+Ex. Ord. No. 14061, Dec. 22, 2021, 86 F.R. 73601, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
@@ -180,7 +180,7 @@ Sec. 3. <i>Certain Executive, Legislative, and Judicial Salaries</i>. The rates 
 
 Sec. 4. <i>Uniformed Services</i>. The rates of monthly basic pay (37 U.S.C. 203(a)) for members of the uniformed services, as adjusted under 37 U.S.C. 1009, and the rate of monthly cadet or midshipman pay (37 U.S.C. 203(c)) are set forth on Schedule 8 attached hereto and made a part hereof.
 
-Sec. 5. <i>Locality-Based Comparability Payments.</i>
+Sec. 5. <i>Locality-Based Comparability Payments</i>.
 
 (a) Pursuant to section 5304 of title 5, United States Code, and my authority to implement an alternative level of comparability payments under section 5304a of title 5, United States Code, locality-based comparability payments shall be paid in accordance with Schedule 9 attached hereto and made a part hereof.
 
@@ -188,13 +188,13 @@ Sec. 5. <i>Locality-Based Comparability Payments.</i>
 
 Sec. 6. <i>Administrative Law Judges</i>. Pursuant to section 5372 of title 5, United States Code, the rates of basic pay for administrative law judges are set forth on Schedule 10 attached hereto and made a part hereof.
 
-Sec. 7. <i>Effective Dates</i>. Schedule 8 is effective January 1, 2021. The other schedules contained herein are effective on the first day of the first applicable pay period beginning on or after January 1, 2021.
+Sec. 7. <i>Effective Dates</i>. Schedule 8 is effective January 1, 2022. The other schedules contained herein are effective on the first day of the first applicable pay period beginning on or after January 1, 2022.
 
-Sec. 8. <i>Prior Order Superseded</i>. Executive Order 13901 of December 26, 2019, is superseded as of the effective dates specified in section 7 of this order.
+Sec. 8. <i>Prior Order Superseded</i>. Executive Order 13970 of December 31, 2020, is superseded as of the effective dates specified in section 7 of this order.
 
-Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-Schedule 1<br><i>General Schedule</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 2021)
+Schedule 1<br><i>General Schedule</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 2022)
 
 &nbsp;
 
@@ -220,335 +220,335 @@ Schedule 1<br><i>General Schedule</i><br>(Effective on the first day of the firs
 
 GS–1
 
-$19,738
+$20,172
 
-$20,400
+$20,849
 
-$21,056
+$21,519
 
-$21,709
+$22,187
 
-$22,365
+$22,857
 
-$22,749
+$23,249
 
-$23,398
+$23,913
 
-$24,052
+$24,581
 
-$24,078
+$24,608
 
-$24,690
+$25,234
 
 GS–2
 
-22,194
+22,682
 
-22,722
+23,222
 
-23,457
+23,973
 
-24,078
+24,608
 
-24,349
+24,886
 
-25,065
+25,618
 
-25,781
+26,350
 
-26,497
+27,082
 
-27,213
+27,814
 
-27,929
+28,546
 
 GS–3
 
-24,216
+24,749
 
-25,023
+25,574
 
-25,830
+26,399
 
-26,637
+27,224
 
-27,444
+28,049
 
-28,251
+28,874
 
-29,058
+29,699
 
-29,865
+30,524
 
-30,672
+31,349
 
-31,479
+32,174
 
 GS–4
 
-27,184
+27,782
 
-28,090
+28,708
 
-28,996
+29,634
 
-29,902
+30,560
 
-30,808
+31,486
 
-31,714
+32,412
 
-32,620
+33,338
 
-33,526
+34,264
 
-34,432
+35,190
 
-35,338
+36,116
 
 GS–5
 
-30,414
+31,083
 
-31,428
+32,119
 
-32,442
+33,155
 
-33,456
+34,191
 
-34,470
+35,227
 
-35,484
+36,263
 
-36,498
+37,299
 
-37,512
+38,335
 
-38,526
+39,371
 
-39,540
+40,407
 
 GS–6
 
-33,903
+34,649
 
-35,033
+35,804
 
-36,163
+36,959
 
-37,293
+38,114
 
-38,423
+39,269
 
-39,553
+40,424
 
-40,683
+41,579
 
-41,813
+42,734
 
-42,943
+43,889
 
-44,073
+45,044
 
 GS–7
 
-37,674
+38,503
 
-38,930
+39,786
 
-40,186
+41,069
 
-41,442
+42,352
 
-42,698
+43,635
 
-43,954
+44,918
 
-45,210
+46,201
 
-46,466
+47,484
 
-47,722
+48,767
 
-48,978
+50,050
 
 GS–8
 
-41,723
+42,641
 
-43,114
+44,062
 
-44,505
+45,483
 
-45,896
+46,904
 
-47,287
+48,325
 
-48,678
+49,746
 
-50,069
+51,167
 
-51,460
+52,588
 
-52,851
+54,009
 
-54,242
+55,430
 
 GS–9
 
-46,083
+47,097
 
-47,619
+48,667
 
-49,155
+50,237
 
-50,691
+51,807
 
-52,227
+53,377
 
-53,763
+54,947
 
-55,299
+56,517
 
-56,835
+58,087
 
-58,371
+59,657
 
-59,907
+61,227
 
 GS–10
 
-50,748
+51,864
 
-52,440
+53,593
 
-54,132
+55,322
 
-55,824
+57,051
 
-57,516
+58,780
 
-59,208
+60,509
 
-60,900
+62,238
 
-62,592
+63,967
 
-64,284
+65,696
 
-65,976
+67,425
 
 GS–11
 
-55,756
+56,983
 
-57,615
+58,882
 
-59,474
+60,781
 
-61,333
+62,680
 
-63,192
+64,579
 
-65,051
+66,478
 
-66,910
+68,377
 
-68,769
+70,276
 
-70,628
+72,175
 
-72,487
+74,074
 
 GS–12
 
-66,829
+68,299
 
-69,057
+70,576
 
-71,285
+72,853
 
-73,513
+75,130
 
-75,741
+77,407
 
-77,969
+79,684
 
-80,197
+81,961
 
-82,425
+84,238
 
-84,653
+86,515
 
-86,881
+88,792
 
 GS–13
 
-79,468
+81,216
 
-82,117
+83,923
 
-84,766
+86,630
 
-87,415
+89,337
 
-90,064
+92,044
 
-92,713
+94,751
 
-95,362
+97,458
 
-98,011
+100,165
 
-100,660
+102,872
 
-103,309
+105,579
 
 GS–14
 
-93,907
+95,973
 
-97,037
+99,172
 
-100,167
+102,371
 
-103,297
+105,570
 
-106,427
+108,769
 
-109,557
+111,968
 
-112,687
+115,167
 
-115,817
+118,366
 
-118,947
+121,565
 
-122,077
+124,764
 
 GS–15
 
-110,460
+112,890
 
-114,142
+116,653
 
-117,824
+120,416
 
-121,506
+124,179
 
-125,188
+127,942
 
-128,870
+131,705
 
-132,552
+135,468
 
-136,234
+139,231
 
-139,916
+142,994
 
-143,598
+146,757
 
-Schedule 2<br><i>Foreign Service Schedule</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 2021)
+Schedule 2<br><i>Foreign Service Schedule</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 2022)
 
 Step
 
@@ -572,285 +572,285 @@ Class 9
 
 1
 
-$110,460
+$112,890
 
-$89,505
+$91,475
 
-$72,526
+$74,122
 
-$58,767
+$60,061
 
-$47,619
+$48,667
 
-$42,570
+$43,507
 
-$38,056
+$38,894
 
-$34,021
+$34,770
 
-$30,414
+$31,083
 
 2
 
-113,774
+116,277
 
-92,190
+94,219
 
-74,702
+76,346
 
-60,530
+61,863
 
-49,048
+50,127
 
-43,847
+44,812
 
-39,198
+40,061
 
-35,042
+35,813
 
-31,326
+32,015
 
 3
 
-117,187
+119,765
 
-94,956
+97,046
 
-76,943
+78,636
 
-62,346
+63,719
 
-50,519
+51,631
 
-45,163
+46,157
 
-40,374
+41,263
 
-36,093
+36,887
 
-32,266
+32,976
 
 4
 
-120,703
+123,358
 
-97,805
+99,957
 
-79,251
+80,995
 
-64,216
+65,630
 
-52,035
+53,180
 
-46,517
+47,541
 
-41,585
+42,501
 
-37,176
+37,994
 
-33,234
+33,965
 
 5
 
-124,324
+127,059
 
-100,739
+102,956
 
-81,629
+83,425
 
-66,143
+67,599
 
-53,596
+54,775
 
-47,913
+48,968
 
-42,832
+43,776
 
-38,291
+39,134
 
-34,231
+34,984
 
 6
 
-128,053
+130,870
 
-103,761
+106,045
 
-84,078
+85,928
 
-68,127
+69,627
 
-55,203
+56,418
 
-49,350
+50,437
 
-44,117
+45,089
 
-39,440
+40,308
 
-35,258
+36,034
 
 7
 
-131,895
+134,797
 
-106,874
+109,226
 
-86,600
+88,506
 
-70,171
+71,716
 
-56,860
+58,111
 
-50,831
+51,950
 
-45,441
+46,441
 
-40,623
+41,517
 
-36,316
+37,115
 
 8
 
-135,852
+138,840
 
-110,080
+112,503
 
-89,198
+91,161
 
-72,276
+73,867
 
-58,565
+59,854
 
-52,356
+53,508
 
-46,804
+47,835
 
-41,842
+42,763
 
-37,405
+38,228
 
 9
 
-139,927
+143,006
 
-113,382
+115,878
 
-91,874
+93,896
 
-74,444
+76,083
 
-60,322
+61,650
 
-53,926
+55,113
 
-48,208
+49,270
 
-43,097
+44,046
 
-38,528
+39,375
 
 10
 
-143,598
+146,757
 
-116,784
+119,354
 
-94,630
+96,712
 
-76,678
+78,366
 
-62,132
+63,499
 
-55,544
+56,767
 
-49,654
+50,748
 
-44,390
+45,367
 
-39,683
+40,556
 
 11
 
-143,598
+146,757
 
-120,287
+122,935
 
-97,469
+99,614
 
-78,978
+80,717
 
-63,996
+65,404
 
-57,211
+58,470
 
-51,144
+52,270
 
-45,721
+46,728
 
-40,874
+41,773
 
 12
 
-143,598
+146,757
 
-123,896
+126,623
 
-100,393
+102,602
 
-81,347
+83,138
 
-65,916
+67,367
 
-58,927
+60,224
 
-52,678
+53,838
 
-47,093
+48,130
 
-42,100
+43,026
 
 13
 
-143,598
+146,757
 
-127,613
+130,421
 
-103,405
+105,680
 
-83,788
+85,633
 
-67,893
+69,388
 
-60,695
+62,031
 
-54,259
+55,454
 
-48,506
+49,574
 
-43,363
+44,317
 
 14
 
-143,598
+146,757
 
-131,441
+134,334
 
-106,507
+108,851
 
-86,301
+88,202
 
-69,930
+71,469
 
-62,515
+63,891
 
-55,887
+57,117
 
-49,961
+51,061
 
-44,664
+45,646
 
-Schedule 3<br><i>Veterans Health Administration Schedules, Department of Veterans Affairs</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 2021)
+Schedule 3<br><i>Veterans Health Administration Schedules, Department of Veterans Affairs</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 2022)
 
 &nbsp;
 
@@ -868,121 +868,121 @@ Maximum
 
 &nbsp;
 
-$132,552
+$135,468
 
-$199,300 <sup>2</sup>
+$203,700 <sup>2</sup>
 
-Physician, Dentist, and Podiatrist Base and Longevity Schedule <sup>3</sup>
+Physician, Podiatrist, and Dentist Base and Longevity Pay Schedule <sup>3</sup>
 
 Physician Grade
 
-$108,645
+$111,035
 
-$159,353
+$162,849
 
 Dentist Grade
 
-108,645
+111,035
 
-159,353
+162,849
 
 Podiatrist Grade
 
-108,645
+111,035
 
-159,353
+162,849
 
 Chiropractor and Optometrist Schedule
 
 Chief Grade
 
-$110,460
+$112,890
 
-$143,598
+$146,757
 
 Senior Grade
 
-93,907
+95,973
 
-122,077
+124,764
 
 Intermediate Grade
 
-79,468
+81,216
 
-103,309
+105,579
 
 Full Grade
 
-66,829
+68,299
 
-86,881
+88,792
 
 Associate Grade
 
-55,756
+56,983
 
-72,487
+74,074
 
 Expanded-Function Dental Auxiliary Schedule <sup>4</sup>
 
 Director Grade
 
-$110,460
+$112,890
 
-$143,598
+$146,757
 
 Assistant Director Grade
 
-93,907
+95,973
 
-122,077
+124,764
 
 Chief Grade
 
-79,468
+81,216
 
-103,309
+105,579
 
 Senior Grade
 
-66,829
+68,299
 
-86,881
+88,792
 
 Intermediate Grade
 
-55,756
+56,983
 
-72,487
+74,074
 
 Full Grade
 
-46,083
+47,097
 
-59,907
+61,227
 
 Associate Grade
 
-39,656
+40,528
 
-51,554
+52,687
 
 Junior Grade
 
-33,903
+34,649
 
-44,073
+45,044
 
 <sup>1</sup> This schedule does not apply to the Director of Nursing Service or any incumbents who are physicians or dentists.
 
-<sup>2</sup> Pursuant to 38 U.S.C. 7404(a)(3)(B), these positions are covered by a certified performance appraisal system and the maximum rate of basic pay may not exceed the rate of basic pay for level II of the Executive Schedule. For positions that are not covered by a certified performance appraisal system, the maximum rate of basic pay may not exceed the rate of basic pay for level III of the Executive Schedule.
+<sup>2</sup> Pursuant to 38 U.S.C. 7404(a)(3)(B), for positions that are covered by a certified performance appraisal system, the maximum rate of basic pay may not exceed the rate of basic pay payable for level II of the Executive Schedule. For positions that are not covered by a certified performance appraisal system, the maximum rate of basic pay may not exceed the rate of basic pay payable for level III of the Executive Schedule.
 
-<sup>3</sup> Pursuant to 38 U.S.C. 7431, Veterans Health Administration physicians, podiatrists, and dentists paid under the Physician, Dentist and Podiatrist Base and Longevity schedule may also be paid market pay and performance pay.
+<sup>3</sup> Pursuant to 38 U.S.C. 7431, Veterans Health Administration physicians, podiatrists, and dentists paid under the Physician, Podiatrist, and Dentist Base and Longevity Pay schedule may also be paid market pay and performance pay.
 
 <sup>4</sup> Pursuant to section 301(a) of Public Law 102–40 \[38 U.S.C. 7451 note\], these positions are paid according to the Nurse Schedule in 38 U.S.C. 4107(b), as in effect on August 14, 1990, with subsequent adjustments.
 
-Schedule 4<br><i>Senior Executive Service</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 2021)
+Schedule 4<br><i>Senior Executive Service</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 2022)
 
 &nbsp;
 
@@ -998,17 +998,17 @@ Maximum
 
 Agencies with a Certified SES Performance Appraisal System
 
-$132,552
+$135,468
 
-$199,300
+$203,700
 
 Agencies without a Certified SES Performance Appraisal System
 
-$132,552
+$135,468
 
-$183,300
+$187,300
 
-Schedule 5<br><i>Executive Schedule</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 2021)
+Schedule 5<br><i>Executive Schedule</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 2022)
 
 &nbsp;
 
@@ -1016,25 +1016,25 @@ Schedule 5<br><i>Executive Schedule</i><br>(Effective on the first day of the fi
 
 Level I
 
-$221,400
+$226,300
 
 Level II
 
-199,300
+203,700
 
 Level III
 
-183,300
+187,300
 
 Level IV
 
-172,500
+176,300
 
 Level V
 
-161,700
+165,300
 
-Schedule 6<br><i>Vice President and Members of Congress</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 2021)
+Schedule 6<br><i>Vice President and Members of Congress</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 2022)
 
 &nbsp;
 
@@ -1042,7 +1042,7 @@ Schedule 6<br><i>Vice President and Members of Congress</i><br>(Effective on the
 
 Vice President
 
-$255,800
+$261,400
 
 Senators
 
@@ -1076,7 +1076,7 @@ Speaker of the House of Representatives
 
 223,500
 
-Schedule 7<br><i>Judicial Salaries</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 2021)
+Schedule 7<br><i>Judicial Salaries</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 2022)
 
 &nbsp;
 
@@ -1084,25 +1084,25 @@ Schedule 7<br><i>Judicial Salaries</i><br>(Effective on the first day of the fir
 
 Chief Justice of the United States
 
-$280,500
+$286,700
 
 Associate Justices of the Supreme Court
 
-268,300
+274,200
 
 Circuit Judges
 
-231,800
+236,900
 
 District Judges
 
-218,600
+223,400
 
 Judges of the Court of International Trade
 
-218,600
+223,400
 
-Schedule 8<br><i>Pay of the Uniformed Services</i><br>(Effective January 1, 2021)
+Schedule 8<br><i>Pay of the Uniformed Services</i><br>(Effective January 1, 2022)
 
 part i—monthly basic pay<br>Years of Service (computed under 37 U.S.C. 205)<br>Commissioned Officers
 
@@ -1124,99 +1124,99 @@ O–9
 
 O–8
 
-$11,329.50
+$11,635.50
 
-$11,701.20
+$12,017.10
 
-$11,947.50
+$12,270.00
 
-$12,016.20
+$12,340.50
 
-$12,323.40
+$12,656.10
 
 O–7
 
-9,414.30
+9,668.40
 
-9,851.40
+10,117.50
 
-10,053.90
+10,325.40
 
-10,215.00
+10,490.70
 
-10,506.00
+10,789.80
 
 O–6 <sup>2</sup>
 
-7,139.10
+7,332.00
 
-7,842.90
+8,054.70
 
-8,357.70
+8,583.30
 
-8,357.70
+8,583.30
 
-8,389.80
+8,616.30
 
 O–5
 
-5,951.40
+6,112.20
 
-6,704.40
+6,885.30
 
-7,168.20
+7,361.70
 
-7,255.50
+7,451.40
 
-7,545.60
+7,749.30
 
 O–4
 
-5,135.10
+5,273.70
 
-5,943.90
+6,104.40
 
-6,341.10
+6,512.40
 
-6,429.00
+6,602.70
 
-6,797.10
+6,980.70
 
 O–3 <sup>3</sup>
 
-4,514.70
+4,636.50
 
-5,117.70
+5,256.00
 
-5,523.30
+5,672.40
 
-6,022.80
+6,185.40
 
-6,311.70
+6,482.10
 
 O–2 <sup>3</sup>
 
-3,901.20
+4,006.50
 
-4,442.70
+4,562.70
 
-5,116.80
+5,255.10
 
-5,289.90
+5,432.70
 
-5,398.50
+5,544.30
 
 O–1 <sup>3</sup>
 
-3,385.80
+3,477.30
 
-3,524.40
+3,619.50
 
-4,260.60
+4,375.50
 
-4,260.60
+4,375.50
 
-4,260.60
+4,375.50
 
 &nbsp;
 
@@ -1236,99 +1236,99 @@ O–9
 
 O–8
 
-$12,836.70
+$13,183.20
 
-$12,956.40
+$13,306.20
 
-$13,443.60
+$13,806.60
 
-$13,584.00
+$13,950.90
 
-$14,004.00
+$14,382.00
 
 O–7
 
-10,794.00
+11,085.30
 
-11,126.70
+11,427.00
 
-11,458.20
+11,767.50
 
-11,791.20
+12,109.50
 
-12,836.70
+13,183.20
 
 O–6 <sup>2</sup>
 
-8,749.20
+8,985.30
 
-8,796.90
+9,034.50
 
-8,796.90
+9,034.50
 
-9,296.70
+9,547.80
 
-10,180.50
+10,455.30
 
 O–5
 
-7,718.40
+7,926.90
 
-8,099.40
+8,318.10
 
-8,379.60
+8,605.80
 
-8,740.80
+8,976.90
 
-9,293.10
+9,543.90
 
 O–4
 
-7,192.20
+7,386.30
 
-7,684.20
+7,891.80
 
-8,066.70
+8,284.50
 
-8,332.50
+8,557.50
 
-8,485.50
+8,714.70
 
 O–3 <sup>3</sup>
 
-6,628.20
+6,807.30
 
-6,832.80
+7,017.30
 
-7,169.40
+7,362.90
 
-7,345.20
+7,543.50
 
-7,345.20
+7,543.50
 
 O–2 <sup>3</sup>
 
-5,398.50
+5,544.30
 
-5,398.50
+5,544.30
 
-5,398.50
+5,544.30
 
-5,398.50
+5,544.30
 
-5,398.50
+5,544.30
 
 O–1 <sup>3</sup>
 
-4,260.60
+4,375.50
 
-4,260.60
+4,375.50
 
-4,260.60
+4,375.50
 
-4,260.60
+4,375.50
 
-4,260.60
+4,375.50
 
 &nbsp;
 
@@ -1344,119 +1344,119 @@ Over 26
 
 O–10 <sup>1</sup>
 
-<sup>1</sup> $16,608.30
+<sup>1</sup> $16,974.90
 
-<sup>1</sup> $16,608.30
+<sup>1</sup> $16,974.90
 
-<sup>1</sup> $16,608.30
+<sup>1</sup> $16,974.90
 
-<sup>1</sup> $16,608.30
+<sup>1</sup> $16,974.90
 
 O–9
 
-16,012.50
+16,444.80
 
-16,243.80
+16,682.40
 
-16,576.80
+<sup>1</sup> 16,974.90
 
-<sup>1</sup> 16,608.30
+<sup>1</sup> 16,974.90
 
 O–8
 
-$14,611.80
+$15,006.30
 
-15,171.90
+15,581.40
 
-15,546.00
+15,965.70
 
-15,546.00
+15,965.70
 
-15,546.00
+15,965.70
 
 O–7
 
-13,719.30
+14,089.80
 
-13,719.30
+14,089.80
 
-13,719.30
+14,089.80
 
-13,719.30
+14,089.80
 
-13,789.80
+14,162.10
 
 O–6 <sup>2</sup>
 
-10,699.20
+10,988.10
 
-11,217.60
+11,520.60
 
-11,512.80
+11,823.60
 
-11,811.90
+12,130.80
 
-12,390.90
+12,725.40
 
 O–5
 
-9,555.90
+9,813.90
 
-9,816.00
+10,080.90
 
-10,111.20
+10,384.20
 
-10,111.20
+10,384.20
 
-10,111.20
+10,384.20
 
 O–4
 
-8,573.70
+8,805.30
 
-8,573.70
+8,805.30
 
-8,573.70
+8,805.30
 
-8,573.70
+8,805.30
 
-8,573.70
+8,805.30
 
 O–3 <sup>3</sup>
 
-7,345.20
+7,543.50
 
-7,345.20
+7,543.50
 
-7,345.20
+7,543.50
 
-7,345.20
+7,543.50
 
-7,345.20
+7,543.50
 
 O–2 <sup>3</sup>
 
-5,398.50
+5,544.30
 
-5,398.50
+5,544.30
 
-5,398.50
+5,544.30
 
-5,398.50
+5,544.30
 
-5,398.50
+5,544.30
 
 O–1 <sup>3</sup>
 
-4,260.60
+4,375.50
 
-4,260.60
+4,375.50
 
-4,260.60
+4,375.50
 
-4,260.60
+4,375.50
 
-4,260.60
+4,375.50
 
 &nbsp;
 
@@ -1472,123 +1472,123 @@ Over 36
 
 O–10 <sup>1</sup>
 
-<sup>1</sup> $16,608.30
+<sup>1</sup> 16,974.90
 
-<sup>1</sup> $16,608.30
+<sup>1</sup> $16,974.90
 
-<sup>1</sup> $16,608.30
+<sup>1</sup> $16,974.90
 
-<sup>1</sup> $16,608.30
+<sup>1</sup> $16,974.90
 
-<sup>1</sup> $16,608.30
+<sup>1</sup> $16,974.90
 
 O–9
 
-<sup>1</sup> 16,608.30
+<sup>1</sup> 16,974.90
 
-<sup>1</sup> 16,608.30
+<sup>1</sup> 16,974.90
 
-<sup>1</sup> 16,608.30
+<sup>1</sup> 16,974.90
 
-<sup>1</sup> 16,608.30
+<sup>1</sup> 16,974.90
 
-<sup>1</sup> 16,608.30
+<sup>1</sup> 16,974.90
 
 O–8
 
-15,546.00
+15,965.70
 
-15,935.40
+16,365.60
 
-15,935.40
+16,365.60
 
-16,333.20
+16,774.20
 
-16,333.20
+16,774.20
 
 O–7
 
-13,789.80
+14,162.10
 
-14,065.80
+14,445.60
 
-14,065.80
+14,445.60
 
-14,065.80
+14,445.60
 
-14,065.80
+14,445.60
 
 O–6 <sup>2</sup>
 
-12,390.90
+12,725.40
 
-12,638.40
+12,979.50
 
-12,638.40
+12,979.50
 
-12,638.40
+12,979.50
 
-12,638.40
+12,979.50
 
 O–5
 
-10,111.20
+10,384.20
 
-10,111.20
+10,384.20
 
-10,111.20
+10,384.20
 
-10,111.20
+10,384.20
 
-10,111.20
+10,384.20
 
 O–4
 
-8,573.70
+8,805.30
 
-8,573.70
+8,805.30
 
-8,573.70
+8,805.30
 
-8,573.70
+8,805.30
 
-8,573.70
+8,805.30
 
 O–3 <sup>3</sup>
 
-7,345.20
+7,543.50
 
-7,345.20
+7,543.50
 
-7,345.20
+7,543.50
 
-7,345.20
+7,543.50
 
-7,345.20
+7,543.50
 
 O–2 <sup>3</sup>
 
-5,398.50
+5,544.30
 
-5,398.50
+5,544.30
 
-5,398.50
+5,544.30
 
-5,398.50
+5,544.30
 
-5,398.50
+5,544.30
 
 O–1 <sup>3</sup>
 
-4,260.60
+4,375.50
 
-4,260.60
+4,375.50
 
-4,260.60
+4,375.50
 
-4,260.60
+4,375.50
 
-4,260.60
+4,375.50
 
 &nbsp;
 
@@ -1598,67 +1598,67 @@ Over 40
 
 O–10 <sup>1</sup>
 
-<sup>1</sup> $16,608.30
+<sup>1</sup> $16,974.90
 
-<sup>1</sup> $16,608.30
+<sup>1</sup> $16,974.90
 
 O–9
 
-<sup>1</sup> 16,608.30
+<sup>1</sup> 16,974.90
 
-<sup>1</sup> 16,608.30
+<sup>1</sup> 16,974.90
 
 O–8
 
-16,333.20
+16,774.20
 
-16,333.20
+16,774.20
 
 O–7
 
-14,065.80
+14,445.60
 
-14,065.80
+14,445.60
 
 O–6 <sup>2</sup>
 
-12,638.40
+12,979.50
 
-12,638.40
+12,979.50
 
 O–5
 
-10,111.20
+10,384.20
 
-10,111.20
+10,384.20
 
 O–4
 
-8,573.70
+8,805.30
 
-8,573.70
+8,805.30
 
 O–3 <sup>3</sup>
 
-7,345.20
+7,543.50
 
-7,345.20
+7,543.50
 
 O–2 <sup>3</sup>
 
-5,398.50
+5,544.30
 
-5,398.50
+5,544.30
 
 O–1 <sup>3</sup>
 
-4,260.60
+4,375.50
 
-4,260.60
+4,375.50
 
-<sup>1</sup> Basic pay is limited to the rate of basic pay for level II of the Executive Schedule in effect during calendar year 2021, which is $16,608.30 per month, for officers at pay grades O–7 through O–10. This includes officers serving as Chairman or Vice Chairman of the Joint Chiefs of Staff, Chief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force, Commandant of the Marine Corps, Chief of Space Operations, Commandant of the Coast Guard, Chief of the National Guard Bureau, or commander of a unified or specified combatant command (as defined in 10 U.S.C. 161(c)).
+<sup>1</sup> Basic pay is limited to the rate of basic pay for level II of the Executive Schedule in effect during calendar year 2022, which is $16,974.90 per month for officers at pay grades O–7 through O–10. This includes officers serving as Chairman or Vice Chairman of the Joint Chiefs of Staff, Chief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force, Commandant of the Marine Corps, Chief of Space Operations, Commandant of the Coast Guard, Chief of the National Guard Bureau, or commander of a unified or specified combatant command (as defined in 10 U.S.C. 161(c)).
 
-<sup>2</sup> Basic pay is limited to the rate of basic pay for level V of the Executive Schedule in effect during calendar year 2021, which is $13,475.10 per month, for officers at pay grades O–6 and below.
+<sup>2</sup> Basic pay is limited to the rate of basic pay for level V of the Executive Schedule in effect during calendar year 2022, which is $13,775.10 per month, for officers at pay grades O–6 and below.
 
 <sup>3</sup> Does not apply to commissioned officers who have been credited with over 4 years of active duty service as an enlisted member or warrant officer.
 
@@ -1666,33 +1666,33 @@ Commissioned Officers With Over 4 Years Active Duty Service as an Enlisted Membe
 
 | Pay Grade | Over 4 | Over 6 | Over 8 | Over 10 |
 | :--- | :---: | :---: | :---: | ---: |
-| O–3E | $6,022.80 | $6,311.70 | $6,628.20 | $6,832.80 |
-| O–2E | 5,289.90 | 5,398.50 | 5,570.40 | 5,860.50 |
-| O–1E | 4,260.60 | 4,549.50 | 4,717.50 | 4,889.70 |
+| O–3E | $6,185.40 | $6,482.10 | $6,807.30 | $7,017.30 |
+| O–2E | 5,432.70 | 5,544.30 | 5,720.70 | 6,018.60 |
+| O–1E | 4,375.50 | 4,672.20 | 4,845.00 | 5,021.70 |
 |  |  |  |  |  |
 | &nbsp; | Over 12 | Over 14 | Over 16 | Over 18 |
 |  |  |  |  |  |
-| O–3E | $7,169.40 | $7,453.50 | $7,617.00 | $7,839.00 |
-| O–2E | 6,084.90 | 6,251.70 | 6,251.70 | 6,251.70 |
-| O–1E | 5,058.30 | 5,289.90 | 5,289.90 | 5,289.90 |
+| O–3E | $7,362.90 | $7,654.80 | $7,822.80 | $8,050.80 |
+| O–2E | 6,249.30 | 6,420.60 | 6,420.60 | 6,420.60 |
+| O–1E | 5,194.80 | 5,432.70 | 5,432.70 | 5,432.70 |
 |  |  |  |  |  |
 | &nbsp; | Over 20 | Over 22 | Over 24 | Over 26 |
 |  |  |  |  |  |
-| O–3E | $7,839.00 | $7,839.00 | $7,839.00 | $7,839.00 |
-| O–2E | 6,251.70 | 6,251.70 | 6,251.70 | 6,251.70 |
-| O–1E | 5,289.90 | 5,289.90 | 5,289.90 | 5,289.90 |
+| O–3E | $8,050.80 | $8,050.80 | $8,050.80 | $8,050.80 |
+| O–2E | 6,420.60 | 6,420.60 | 6,420.60 | 6,420.60 |
+| O–1E | 5,432.70 | 5,432.70 | 5,432.70 | 5,432.70 |
 |  |  |  |  |  |
 | &nbsp; | Over 28 | Over 30 | Over 32 | Over 34 |
 |  |  |  |  |  |
-| O–3E | $7,839.00 | $7,839.00 | $7,839.00 | $7,839.00 |
-| O–2E | 6,251.70 | 6,251.70 | 6,251.70 | 6,251.70 |
-| O–1E | 5,289.90 | 5,289.90 | 5,289.90 | 5,289.90 |
+| O–3E | $8,050.80 | $8,050.80 | $8,050.80 | $8,050.80 |
+| O–2E | 6,420.60 | 6,420.60 | 6,420.60 | 6,420.60 |
+| O–1E | 5,432.70 | 5,432.70 | 5,432.70 | 5,432.70 |
 |  |  |  |  |  |
 | &nbsp; | Over 36 | Over 38 | Over 40 |  |
 |  |  |  |  |  |
-| O–3E | $7,839.00 | $7,839.00 | $7,839.00 |  |
-| O–2E | 6,251.70 | 6,251.70 | 6,251.70 |  |
-| O–1E | 5,289.90 | 5,289.90 | 5,289.90 |  |
+| O–3E | $8,050.80 | $8,050.80 | $8,050.80 |  |
+| O–2E | 6,420.60 | 6,420.60 | 6,420.60 |  |
+| O–1E | 5,432.70 | 5,432.70 | 5,432.70 |  |
 
 <sup>4</sup> Reservists with at least 1,460 points as an enlisted member, a warrant officer, or a warrant officer and an enlisted member which are creditable toward reserve retirement also qualify for these rates.
 
@@ -1701,42 +1701,42 @@ Warrant Officers
 | Pay Grade | 2 or less | Over 2 | Over 3 | Over 4 | Over 6 |
 | :--- | :---: | :---: | :---: | :---: | ---: |
 | W–5 |  |  |  |  |  |
-| W–4 | $4,665.90 | $5,018.70 | $5,162.70 | $5,304.60 | $5,548.80 |
-| W–3 | 4,261.20 | 4,438.50 | 4,620.90 | 4,680.30 | 4,870.80 |
-| W–2 | 3,770.40 | 4,127.10 | 4,236.60 | 4,312.20 | 4,556.40 |
-| W–1 | 3,309.30 | 3,666.00 | 3,761.40 | 3,963.90 | 4,203.00 |
+| W–4 | $4,791.90 | $5,154.30 | $5,302.20 | $5,447.70 | $5,698.50 |
+| W–3 | 4,376.40 | 4,558.20 | 4,745.70 | 4,806.60 | 5,002.20 |
+| W–2 | 3,872.10 | 4,238.40 | 4,350.90 | 4,428.60 | 4,679.40 |
+| W–1 | 3,398.70 | 3,765.00 | 3,863.10 | 4,071.00 | 4,316.40 |
 |  |  |  |  |  |  |
 | &nbsp; | Over 8 | Over 10 | Over 12 | Over 14 | Over 16 |
 |  |  |  |  |  |  |
 | W–5 |  |  |  |  |  |
-| W–4 | $5,790.30 | $6,035.10 | $6,402.60 | $6,725.10 | $7,032.00 |
-| W–3 | 5,246.40 | 5,637.30 | 5,821.50 | 6,034.80 | 6,253.80 |
-| W–2 | 4,936.50 | 5,125.20 | 5,310.30 | 5,537.10 | 5,714.40 |
-| W–1 | 4,555.80 | 4,720.20 | 4,950.90 | 5,177.40 | 5,355.60 |
+| W–4 | $5,946.60 | $6,198.00 | $6,575.40 | $6,906.60 | $7,221.90 |
+| W–3 | 5,388.00 | 5,789.40 | 5,978.70 | 6,197.70 | 6,422.70 |
+| W–2 | 5,069.70 | 5,263.50 | 5,453.70 | 5,686.50 | 5,868.60 |
+| W–1 | 4,678.80 | 4,847.70 | 5,084.70 | 5,317.20 | 5,500.20 |
 |  |  |  |  |  |  |
 | &nbsp; | Over 18 | Over 20 | Over 22 | Over 24 | Over 26 |
 |  |  |  |  |  |  |
-| W–5 |  | $8,296.20 | $8,716.80 | $9,030.60 | $9,377.10 |
-| W–4 | $7,283.40 | 7,528.50 | 7,888.20 | 8,183.70 | 8,520.90 |
-| W–3 | 6,648.90 | 6,915.00 | 7,074.30 7,243.50 | 7,474.50 |  |
-| W–2 | 5,874.60 | 6,066.90 | 6,193.20 | 6,293.10 | 6,293.10 |
-| W–1 | 5,519.40 | 5,718.60 | 5,718.60 | 5,718.60 | 5,718.60 |
+| W–5 |  | $8,520.30 | $8,952.30 | $9,274.50 | $9,630.30 |
+| W–4 | $7,480.20 | 7,731.90 | 8,101.20 | 8,404.80 | 8,751.00 |
+| W–3 | 6,828.30 | 7,101.60 | 7,265.40 | 7,439.10 | 7,676.40 |
+| W–2 | 6,033.30 | 6,230.70 | 6,360.30 | 6,462.90 | 6,462.90 |
+| W–1 | 5,668.50 | 5,873.10 | 5,873.10 | 5,873.10 | 5,873.10 |
 |  |  |  |  |  |  |
 | &nbsp; | Over 28 | Over 30 | Over 32 | Over 34 | Over 36 |
 |  |  |  |  |  |  |
-| W–5 | $9,377.10 | $9,846.90 | $9,846.90 | $10,338.60 | $10,338.60 |
-| W–4 | 8,520.90 | 8,691.00 | 8,691.00 | 8,691.00 | 8,691.00 |
-| W–3 | 7,474.50 | 7,474.50 | 7,474.50 | 7,474.50 | 7,474.50 |
-| W–2 | 6,293.10 | 66,293.10 | 6,293.10 | 6,293.10 | 6,293.10 |
-| W–1 | 5,718.60 | 5,718.60 | 5,718.60 | 5,718.60 | 5,718.60 |
+| W–5 | $9,630.30 | $10,112.70 | $10,112.70 | $10,617.60 | $10,617.60 |
+| W–4 | 8,751.00 | 8,925.60 | 8,925.60 | 8,925.60 | 8,925.60 |
+| W–3 | 7,676.40 | 7,676.40 | 7,676.40 | 7,676.40 | 7,676.40 |
+| W–2 | 6,462.90 | 6,462.90 | 6,462.90 | 6,462.90 | 6,462.90 |
+| W–1 | 5,873.10 | 5,873.10 | 5,873.10 | 5,873.10 | 5,873.10 |
 |  |  |  |  |  |  |
 | &nbsp; | Over 38 | Over 40 |  |  |  |
 |  |  |  |  |  |  |
-| W–5 | $10,856.40 | $10,856.40 |  |  |  |
-| W–4 | 8,691.00 | 8,691.00 |  |  |  |
-| W–3 | 7,474.50 | 7,474.50 |  |  |  |
-| W–2 | 6,293.10 | 6,293.10 |  |  |  |
-| W–1 | 5,718.60 | 5,718.60 |  |  |  |
+| W–5 | $11,149.50 | $11,149.50 |  |  |  |
+| W–4 | 8,925.60 | 8,925.60 |  |  |  |
+| W–3 | 7,676.40 | 7,676.40 |  |  |  |
+| W–2 | 6,462.90 | 6,462.90 |  |  |  |
+| W–1 | 5,873.10 | 5,873.10 |  |  |  |
 
 Enlisted Members
 
@@ -1744,68 +1744,68 @@ Enlisted Members
 | :--- | :---: | :---: | :---: | :---: | ---: |
 | E–9 <sup>1</sup> |  |  |  |  |  |
 | E–8 |  |  |  |  |  |
-| E–7 | $3,207.60 | $3,501.00 | $3,635.40 | $3,812.40 | $3,951.30 |
-| E–6 | 2,774.40 | 3,053.10 | 3,188.10 | 3,318.90 | 3,455.40 |
-| E–5 | 2,541.60 | 2,712.90 | 2,844.00 | 2,978.10 | 3,187.20 |
-| E–4 | 2,330.40 | 2,449.80 | 2,582.40 | 2,713.50 | 2,829.00 |
-| E–3 | 2,103.90 | 2,236.20 | 2,371.80 | 2,371.80 | 2,371.80 |
-| E–2 | 2,000.70 | 2,000.70 | 2,000.70 | 2,000.70 | 2,000.70 |
-| E–1 <sup>2</sup> | 1,785.00 | 1,785.00 | 1,785.00 | 1,785.00 | 1,785.00 |
-| E–1 <sup>3</sup> | 1,650.30 |  |  |  |  |
+| E–7 | $3,294.30 | $3,595.50 | $3,733.50 | $3,915.30 | $4,058.10 |
+| E–6 | 2,849.40 | 3,135.60 | 3,274.20 | 3,408.60 | 3,548.70 |
+| E–5 | 2,610.30 | 2,786.10 | 2,920.80 | 3,058.50 | 3,273.30 |
+| E–4 | 2,393.40 | 2,515.80 | 2,652.00 | 2,786.70 | 2,905.50 |
+| E–3 | 2,160.60 | 2,296.50 | 2,435.70 | 2,435.70 | 2,435.70 |
+| E–2 | 2,054.70 | 2,054.70 | 2,054.70 | 2,054.70 | 2,054.70 |
+| E–1 <sup>2</sup> | 1,833.30 | 1,833.30 | 1,833.30 | 1,833.30 | 1,833.30 |
+| E–1 <sup>3</sup> | 1,695.00 |  |  |  |  |
 |  |  |  |  |  |  |
 | &nbsp; | Over 8 | Over 10 | Over 12 | Over 14 | Over 16 |
 |  |  |  |  |  |  |
-| E–9 <sup>1</sup> |  | $5,637.00 | $5,764.80 | $5,925.90 | $6,114.90 |
-| E–8 | $4,614.60 | 4,818.60 | 4,944.90 | 5,096.10 | 5,260.50 |
-| E–7 | 4,189.50 | 4,323.90 | 4,561.80 | 4,760.10 | 4,895.10 |
-| E–6 | 3,762.60 | 3,882.90 | 4,114.50 | 4,185.30 | 4,236.90 |
-| E–5 | 3,405.60 | 3,585.30 | 3,606.90 | 3,606.90 | 3,606.90 |
-| E–4 | 2,829.00 | 2,829.00 | 2,829.00 | 2,829.00 | 2,829.00 |
-| E–3 | 2,371.80 | 2,371.80 | 2,371.80 | 2,371.80 | 2,371.80 |
-| E–2 | 2,000.70 | 2,000.70 | 2,000.70 | 2,000.70 | 2,000.70 |
-| E–1 <sup>2</sup> | 1,785.00 | 1,785.00 | 1,785.00 | 1,785.00 | 1,785.00 |
+| E–9 <sup>1</sup> |  | $5,789.10 | $5,920.50 | $6,085.80 | $6,279.90 |
+| E–8 | $4,739.10 | 4,948.80 | 5,078.40 | 5,233.80 | 5,402.40 |
+| E–7 | 4,302.60 | 4,440.60 | 4,685.10 | 4,888.50 | 5,027.40 |
+| E–6 | 3,864.30 | 3,987.60 | 4,225.50 | 4,298.40 | 4,351.20 |
+| E–5 | 3,497.70 | 3,682.20 | 3,704.40 | 3,704.40 | 3,704.40 |
+| E–4 | 2,905.50 | 2,905.50 | 2,905.50 | 2,905.50 | 2,905.50 |
+| E–3 | 2,435.70 | 2,435.70 | 2,435.70 | 2,435.70 | 2,435.70 |
+| E–2 | 2,054.70 | 2,054.70 | 2,054.70 | 2,054.70 | 2,054.70 |
+| E–1 <sup>2</sup> | 1,833.30 | 1,833.30 | 1,833.30 | 1,833.30 | 1,833.30 |
 | E–1 <sup>3</sup> |  |  |  |  |  |
 |  |  |  |  |  |  |
 | &nbsp; | Over 18 | Over 20 | Over 22 | Over 24 | Over 26 |
 |  |  |  |  |  |  |
-| E–9 <sup>1</sup> | $6,306.60 | $6,612.00 | $6,871.50 | $7,143.30 | $7,560.30 |
-| E–8 | 5,556.30 | 5,706.30 | 5,961.60 | 6,103.50 | 6,451.80 |
-| E–7 | 5,039.10 | 5,094.90 | 5,282.40 | 5,382.90 | 5,765.40 |
-| E–6 | 4,297.20 | 4,297.20 | 4,297.20 | 4,297.20 | 4,297.20 |
-| E–5 | 3,606.90 | 3,606.90 | 3,606.90 | 3,606.90 | 3,606.90 |
-| E–4 | 2,829.00 | 2,829.00 | 2,829.00 | 2,829.00 | 2,829.00 |
-| E–3 | 2,371.80 | 2,371.80 | 2,371.80 | 2,371.80 | 2,371.80 |
-| E–2 | 2,000.70 | 2,000.70 | 2,000.70 | 2,000.70 | 2,000.70 |
-| E–1 <sup>2</sup> | 1,785.00 | 1,785.00 | 1,785.00 | 1,785.00 | 1,785.00 |
+| E–9 <sup>1</sup> | $6,477.00 | $6,790.50 | $7,056.90 | $7,336.20 | $7,764.30 |
+| E–8 | 5,706.30 | 5,860.50 | 6,122.70 | 6,268.20 | 6,626.10 |
+| E–7 | 5,175.30 | 5,232.60 | 5,424.90 | 5,528.10 | 5,921.10 |
+| E–6 | 4,413.30 | 4,413.30 | 4,413.30 | 4,413.30 | 4,413.30 |
+| E–5 | 3,704.40 | 3,704.40 | 3,704.40 | 3,704.40 | 3,704.40 |
+| E–4 | 2,905.50 | 2,905.50 | 2,905.50 | 2,905.50 | 2,905.50 |
+| E–3 | 2,435.70 | 2,435.70 | 2,435.70 | 2,435.70 | 2,435.70 |
+| E–2 | 2,054.70 | 2,054.70 | 2,054.70 | 2,054.70 | 2,054.70 |
+| E–1 <sup>2</sup> | 1,833.30 | 1,833.30 | 1,833.30 | 1,833.30 | 1,833.30 |
 | E–1 <sup>3</sup> |  |  |  |  |  |
 |  |  |  |  |  |  |
 | &nbsp; | Over 28 | Over 30 | Over 32 | Over 34 | Over 36 |
 |  |  |  |  |  |  |
-| E–9 <sup>1</sup> | $7,560.30 | $7,937.70 | $7,937.70 | $8,334.90 | $8,334.90 |
-| E–8 | 6,451.80 | 6,581.40 | 6,581.40 | 6,581.40 | 6,581.40 |
-| E–7 | 5,765.40 | 5,765.40 | 5,765.40 | 5,765.40 | 5,765.40 |
-| E–6 | 4,297.20 | 4,297.20 | 4,297.20 | 4,297.20 | 4,297.20 |
-| E–5 | 3,606.90 | 3,606.90 | 3,606.90 | 3,606.90 | 3,606.90 |
-| E–4 | 2,829.00 | 2,829.00 | 2,829.00 | 2,829.00 | 2,829.00 |
-| E–3 | 2,371.80 | 2,371.80 | 2,371.80 | 2,371.80 | 2,371.80 |
-| E–2 | 2,000.70 | 2,000.70 | 2,000.70 | 2,000.70 | 2,000.70 |
-| E–1 <sup>2</sup> | 1,785.00 | 1,785.00 | 1,785.00 | 1,785.00 | 1,785.00 |
+| E–9 <sup>1</sup> | $7,764.30 | $8,151.90 | $8,151.90 | $8,559.90 | $8,559.90 |
+| E–8 | 6,626.10 | 6,759.00 | 6,759.00 | 6,759.00 | 6,759.00 |
+| E–7 | 5,921.10 | 5,921.10 | 5,921.10 | 5,921.10 | 5,921.10 |
+| E–6 | 4,413.30 | 4,413.30 | 4,413.30 | 4,413.30 | 4,413.30 |
+| E–5 | 3,704.40 | 3,704.40 | 3,704.40 | 3,704.40 | 3,704.40 |
+| E–4 | 2,905.50 | 2,905.50 | 2,905.50 | 2,905.50 | 2,905.50 |
+| E–3 | 2,435.70 | 2,435.70 | 2,435.70 | 2,435.70 | 2,435.70 |
+| E–2 | 2,054.70 | 2,054.70 | 2,054.70 | 2,054.70 | 2,054.70 |
+| E–1 <sup>2</sup> | 1,833.30 | 1,833.30 | 1,833.30 | 1,833.30 | 1,833.30 |
 | E–1 <sup>3</sup> |  |  |  |  |  |
 |  |  |  |  |  |  |
 | &nbsp; | Over 38 | Over 40 |  |  |  |
 |  |  |  |  |  |  |
-| E–9 <sup>1</sup> | $8,752.50 | $8,752.50 |  |  |  |
-| E–8 | 6,581.40 | 6,581.40 |  |  |  |
-| E–7 | 5,765.40 | 5,765.40 |  |  |  |
-| E–6 | 4,297.20 | 4,297.20 |  |  |  |
-| E–5 | 3,606.90 | 3,606.90 |  |  |  |
-| E–4 | 2,829.00 | 2,829.00 |  |  |  |
-| E–3 | 2,371.80 | 2,371.80 |  |  |  |
-| E–2 | 2,000.70 | 2,000.70 |  |  |  |
-| E–1 <sup>2</sup> | 1,785.00 | 1,785.00 |  |  |  |
+| E–9 <sup>1</sup> | $8,988.90 | $8,988.90 |  |  |  |
+| E–8 | 6,759.00 | 6,759.00 |  |  |  |
+| E–7 | 5,921.10 | 5,921.10 |  |  |  |
+| E–6 | 4,413.30 | 4,413.30 |  |  |  |
+| E–5 | 3,704.40 | 3,704.40 |  |  |  |
+| E–4 | 2,905.50 | 2,905.50 |  |  |  |
+| E–3 | 2,435.70 | 2,435.70 |  |  |  |
+| E–2 | 2,054.70 | 2,054.70 |  |  |  |
+| E–1 <sup>2</sup> | 1,833.30 | 1,833.30 |  |  |  |
 | E–1 <sup>3</sup> |  |  |  |  |  |
 
-<sup>1</sup> For noncommissioned officers serving as Sergeant Major of the Army, Master Chief Petty Officer of the Navy or Coast Guard, Chief Master Sergeant of the Air Force, Sergeant Major of the Marine Corps, Senior Enlisted Advisor of the Space Force, Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff, or Senior Enlisted Advisor to the Chief of the National Guard Bureau, basic pay for this grade is $9,109.50 per month, regardless of cumulative years of service under 37 U.S.C. 205.
+<sup>1</sup> For noncommissioned officers serving as Sergeant Major of the Army, Master Chief Petty Officer of the Navy or Coast Guard, Chief Master Sergeant of the Air Force, Sergeant Major of the Marine Corps, Senior Enlisted Advisor of the Space Force, Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff, or Senior Enlisted Advisor to the Chief of the National Guard Bureau, basic pay for this grade is $9,355.50 per month, regardless of cumulative years of service under 37 U.S.C. 205.
 
 <sup>2</sup> Applies to personnel who have served 4 months or more on active duty.
 
@@ -1813,9 +1813,9 @@ Enlisted Members
 
 part ii—rate of monthly cadet or midshipman pay
 
-The rate of monthly cadet or midshipman pay authorized by 37 U.S.C. 203(c) is $1,185.00.
+The rate of monthly cadet or midshipman pay authorized by 37 U.S.C. 203(c) is $1,217.10.
 
-Schedule 9<br><i>Locality-Based Comparability Payments</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 2021)
+Schedule 9<br><i>Locality-Based Comparability Payments</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 2022)
 
 Locality Pay Area <sup>1</sup>
 
@@ -1823,223 +1823,223 @@ Rate
 
 Alaska
 
-29\.67%
+30\.42%
 
 Albany-Schenectady, NY–MA
 
-17\.88%
+18\.68%
 
 Albuquerque-Santa Fe-Las Vegas, NM
 
-16\.68%
+17\.14%
 
 Atlanta-Athens-Clarke County-Sandy Springs, GA–AL
 
-22\.16%
+22\.63%
 
 Austin-Round Rock, TX
 
-18\.17%
+18\.80%
 
 Birmingham-Hoover-Talladega, AL
 
-16\.26%
+16\.81%
 
 Boston-Worcester-Providence, MA–RI–NH–ME
 
-29\.11%
+30\.09%
 
 Buffalo-Cheektowaga, NY
 
-20\.20%
+20\.78%
 
 Burlington-South Burlington, VT
 
-16\.89%
+17\.62%
 
 Charlotte-Concord, NC–SC
 
-17\.44%
+18\.06%
 
 Chicago-Naperville, IL–IN–WI
 
-28\.59%
+29\.18%
 
 Cincinnati-Wilmington-Maysville, OH–KY–IN
 
-20\.55%
+20\.94%
 
 Cleveland-Akron-Canton, OH
 
-20\.82%
+21\.25%
 
 Colorado Springs, CO
 
-17\.78%
+18\.42%
 
 Columbus-Marion-Zanesville, OH
 
-20\.02%
+20\.69%
 
 Corpus Christi-Kingsville-Alice, TX
 
-16\.56%
+16\.82%
 
 Dallas-Fort Worth, TX–OK
 
-24\.98%
+25\.68%
 
 Davenport-Moline, IA–IL
 
-17\.04%
+17\.58%
 
 Dayton-Springfield-Sidney, OH
 
-19\.18%
+19\.93%
 
 Denver-Aurora, CO
 
-27\.13%
+28\.10%
 
 Des Moines-Ames-West Des Moines, IA
 
-15\.95%
+16\.52%
 
 Detroit-Warren-Ann Arbor, MI
 
-27\.32%
+27\.86%
 
 Harrisburg-Lebanon, PA
 
-17\.20%
+17\.90%
 
 Hartford-West Hartford, CT–MA
 
-29\.49%
+30\.20%
 
 Hawaii
 
-19\.56%
+20\.40%
 
 Houston-The Woodlands, TX
 
-33\.32%
+33\.96%
 
 Huntsville-Decatur-Albertville, AL
 
-19\.85%
+20\.45%
 
 Indianapolis-Carmel-Muncie, IN
 
-16\.92%
+17\.26%
 
 Kansas City-Overland Park-Kansas City, MO–KS
 
-17\.13%
+17\.67%
 
 Laredo, TX
 
-18\.88%
+19\.85%
 
 Las Vegas-Henderson, NV–AZ
 
-17\.68%
+18\.25%
 
 Los Angeles-Long Beach, CA
 
-32\.41%
+33\.61%
 
 Miami-Fort Lauderdale-Port St. Lucie, FL
 
-23\.51%
+23\.80%
 
 Milwaukee-Racine-Waukesha, WI
 
-20\.96%
+21\.32%
 
 Minneapolis-St. Paul, MN–WI
 
-24\.66%
+25\.49%
 
 New York-Newark, NY–NJ–CT–PA
 
-33\.98%
+35\.06%
 
 Omaha-Council Bluffs-Fremont, NE–IA
 
-16\.33%
+16\.93%
 
 Palm Bay-Melbourne-Titusville, FL
 
-16\.73%
+17\.01%
 
 Philadelphia-Reading-Camden, PA–NJ–DE–MD
 
-26\.04%
+26\.95%
 
 Phoenix-Mesa-Scottsdale, AZ
 
-20\.12%
+20\.84%
 
 Pittsburgh-New Castle-Weirton, PA–OH–WV
 
-19\.40%
+19\.90%
 
 Portland-Vancouver-Salem, OR–WA
 
-23\.74%
+24\.34%
 
 Raleigh-Durham-Chapel Hill, NC
 
-20\.49%
+20\.94%
 
 Richmond, VA
 
-19\.95%
+20\.64%
 
 Sacramento-Roseville, CA–NV
 
-26\.37%
+27\.30%
 
 San Antonio-New Braunfels-Pearsall, TX
 
-16\.77%
+17\.39%
 
 San Diego-Carlsbad, CA
 
-29\.77%
+30\.87%
 
 San Jose-San Francisco-Oakland, CA
 
-41\.44%
+42\.74%
 
 Seattle-Tacoma, WA
 
-27\.02%
+28\.28%
 
 St. Louis-St. Charles-Farmington, MO–IL
 
-17\.65%
+18\.35%
 
 Tucson-Nogales, AZ
 
-17\.19%
+17\.77%
 
 Virginia Beach-Norfolk, VA–NC
 
-16\.51%
+17\.18%
 
 Washington-Baltimore-Arlington, DC–MD–VA–WV–PA
 
-30\.48%
+31\.53%
 
 Rest of U.S.
 
-15\.95%
+16\.20%
 
 <sup>1</sup> Locality Pay Areas are defined in 5 CFR 531.603.
 
-Schedule 10<br><i>Administrative Law Judges</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 2021)
+Schedule 10<br><i>Administrative Law Judges</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 2022)
 
 &nbsp;
 
@@ -2047,37 +2047,39 @@ Schedule 10<br><i>Administrative Law Judges</i><br>(Effective on the first day o
 
 AL–3/A
 
-$115,100
+$117,600
 
 AL–3/B
 
-123,900
+126,600
 
 AL–3/C
 
-132,800
+135,700
 
 AL–3/D
 
-141,800
+144,900
 
 AL–3/E
 
-150,800
+154,100
 
 AL–3/F
 
-159,400
+162,900
 
 AL–2
 
-168,200
+171,900
 
 AL–1
 
-172,500
+176,300
 
 #### Prior adjustments of certain rates of pay were contained in the following:
+
+Ex. Ord. No. 13970, Dec. 31, 2020, 86 F.R. 421, effective Jan. 1, 2021, superseded by Ex. Ord. No. 14061.
 
 Ex. Ord. No. 13901, Dec. 26, 2019, 84 F.R. 72213, effective Jan. 1, 2020, superseded by Ex. Ord. No. 13970.
 
@@ -2201,7 +2203,7 @@ On November 29, 2010, I proposed a two-year freeze in the pay of civilian Federa
 
 Despite the sacrifices that I knew a pay freeze would entail for our dedicated civil servants, I concluded that a two-year freeze in the upward statutory adjustment of pay schedules is a necessary first step in our effort to address the challenge of our fiscal reality. The Congress responded to my proposal by including such a freeze in the Continuing Appropriations and Surface Transportation Extensions Act, 2011 (H.R. 3082) \[Pub. L. 111–322\], which I signed into law today (the "Act"). The Act freezes statutory pay adjustments for all executive branch pay schedules for a two-year period. It also generally prohibits executive departments and agencies from providing any base salary increases at all to senior executives or senior level employees, including performance-based increases.
 
-While this legislation will prevent adjustments in executive branch pay schedules that are made by statute, some laws allow such adjustments to be made by agency heads as an exercise of administrative discretion. In order to ensure consistent treatment of executivebranch employees and to promote the fiscal purposes of my original proposal, agency heads who have such discretion should not provide any upward adjustments in Federal employees' pay schedules or rates during the two-year period covered by the statutory pay freeze.
+While this legislation will prevent adjustments in executive branch pay schedules that are made by statute, some laws allow such adjustments to be made by agency heads as an exercise of administrative discretion. In order to ensure consistent treatment of executive branch employees and to promote the fiscal purposes of my original proposal, agency heads who have such discretion should not provide any upward adjustments in Federal employees' pay schedules or rates during the two-year period covered by the statutory pay freeze.
 
 Accordingly, you should suspend any increases to any pay systems or pay schedules covering executive branch employees that could otherwise take effect as a result of an exercise of administrative discretion during the period beginning on January 1, 2011, and ending on December 31, 2012. You also should forgo any general increases (including general increases for a geographic area, such as locality pay) in covered employees' rates of pay that could otherwise take effect as a result of the exercise of administrative discretion during the same period. To the extent that an agency pay system provides performance-based increases in lieu of general increases, funds allocated for those performance-based increases should be correspondingly reduced to reflect the freezing of the employees' base pay schedule.
 

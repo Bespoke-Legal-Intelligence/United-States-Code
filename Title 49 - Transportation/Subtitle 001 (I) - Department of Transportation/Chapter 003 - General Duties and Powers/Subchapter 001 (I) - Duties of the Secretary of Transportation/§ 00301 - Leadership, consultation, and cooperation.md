@@ -42,6 +42,8 @@ In the introductory clause before "shall", the words "in carrying out the purpos
 
 In clause (4), the word "compiling" is substituted for "gathering" for consistency.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Par. (9). Pub. L. 105–178 added par. (9).
@@ -52,9 +54,281 @@ Par. (6). Pub. L. 102–240, §§5002(a), 6017, redesignated par. (5) as (6) and
 
 Pars. (7), (8). Pub. L. 102–240, §5002(a), redesignated pars. (6) and (7) as (7) and (8), respectively.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Geomatic Data
+
+Pub. L. 117–58, div. A, title I, §11308, Nov. 15, 2021, 135 Stat. 534, provided that:
+
+"(a)
+
+In General.—The Secretary \[of Transportation\] shall develop guidance for the acceptance and use of information obtained from a non-Federal entity through geomatic techniques, including remote sensing and land surveying, cartography, geographic information systems, global navigation satellite systems, photogrammetry, or other remote means.
+
+"(b)
+
+Considerations.—In carrying out this section, the Secretary shall ensure that acceptance or use of information described in subsection (a) meets the data quality and operational requirements of the Secretary.
+
+"(c)
+
+Public Comment.—Before issuing any final guidance under subsection (a), the Secretary shall provide to the public—
+
+&emsp;"(1) notice of the proposed guidance; and
+
+&emsp;"(2) an opportunity to comment on the proposed guidance.
+
+"(d)
+
+Savings Clause.—Nothing in this section—
+
+&emsp;"(1) requires the Secretary to accept or use information that the Secretary determines does not meet the guidance developed under this section; or
+
+&emsp;"(2) changes the current statutory or regulatory requirements of the Department \[of Transportation\]."
+
+#### Risk and System Resilience
+
+Pub. L. 117–58, div. B, title V, §25007, Nov. 15, 2021, 135 Stat. 849, provided that:
+
+"(a)
+
+In General.—The Secretary \[of Transportation\], in consultation with appropriate Federal, State, and local agencies, shall develop a process for quantifying annual risk in order to increase system resilience with respect to the surface transportation system of the United States by measuring—
+
+&emsp;"(1) resilience to threat probabilities by type of hazard and geographical location;
+
+&emsp;"(2) resilience to asset vulnerabilities with respect to each applicable threat; and
+
+&emsp;"(3) anticipated consequences from each applicable threat to each asset.
+
+"(b)
+
+Use by State, Regional, Tribal, and Local Entities.—
+
+&emsp;"(1)
+
+In general.—The Secretary shall provide the process developed under subsection (a) to State departments of transportation, metropolitan planning organizations, Indian Tribes, local governments, and other relevant entities.
+
+&emsp;"(2)
+
+Guidance and technical assistance.—The Secretary shall provide to the entities described in paragraph (1) guidance and technical assistance on the use of the process referred to in that paragraph.
+
+"(c)
+
+Research.—
+
+&emsp;"(1)
+
+In general.—The Secretary shall—
+
+&emsp;&emsp;"(A) identify and support fundamental research to develop a framework and quantitative models to support compilation of information for risk-based analysis of transportation assets by standardizing the basis for quantifying annual risk and increasing system resilience; and
+
+&emsp;&emsp;"(B) build on existing resilience research, including studies conducted by—
+
+&emsp;&emsp;&emsp;"(i) the Transportation Research Board of the National Academies of Sciences, Engineering, and Medicine; and
+
+&emsp;&emsp;&emsp;"(ii) the National Institute of Standards and Technology.
+
+&emsp;"(2)
+
+Use of existing facilities.—In carrying out paragraph (1), the Secretary shall use existing research facilities available to the Secretary, including the Turner–Fairbank Highway Research Center and University Transportation Centers established under section 5505 of title 49, United States Code."
+
+#### Safety Data Initiative
+
+Pub. L. 117–58, div. B, title V, §25011, Nov. 15, 2021, 135 Stat. 857, provided that:
+
+"(a)
+
+Definition of Eligible Entity.—In this section, the term 'eligible entity' means—
+
+&emsp;"(1) a State;
+
+&emsp;"(2) a unit of local government;
+
+&emsp;"(3) a transit agency or authority;
+
+&emsp;"(4) a metropolitan planning organization;
+
+&emsp;"(5) any other subdivision of a State or local government;
+
+&emsp;"(6) an institution of higher education; and
+
+&emsp;"(7) a multi-State or multijurisdictional group.
+
+"(b)
+
+Safety Data Initiative.—
+
+&emsp;"(1)
+
+Establishment.—The Secretary \[of Transportation\] shall establish an initiative, to be known as the 'Safety Data Initiative', to promote the use of data integration, data visualization, and advanced analytics for surface transportation safety through the development of innovative practices and products for use by Federal, State, and local entities.
+
+&emsp;"(2)
+
+Activities.—
+
+&emsp;&emsp;"(A)
+
+Applied research.—
+
+&emsp;&emsp;&emsp;"(i)
+
+In general.—The Secretary shall support and carry out applied research to develop practices and products that will encourage the integration and use of traditional and new sources of safety data and safety information to improve policy and decisionmaking at the Federal, State, and local government levels.
+
+&emsp;&emsp;&emsp;"(ii)
+
+Methodology.—In carrying out clause (i), the Secretary may—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) carry out demonstration programs;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) award grants and provide incentives to eligible entities;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) enter into partnerships with—
+
+&emsp;&emsp;&emsp;"(aa) eligible entities;
+
+&emsp;&emsp;&emsp;"(bb) private sector entities; and
+
+&emsp;&emsp;&emsp;"(cc) National Laboratories; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) use any other tools, strategies, or methods that will result in the effective use of data and information for safety purposes.
+
+&emsp;&emsp;"(B)
+
+Tools and practices.—In carrying out subparagraph (A), the Secretary, to the maximum extent practicable, shall—
+
+&emsp;&emsp;&emsp;"(i) develop safety analysis tools for State and local governments, with a particular focus on State and local governments with limited capacity to perform safety analysis;
+
+&emsp;&emsp;&emsp;"(ii)(I) identify innovative State and local government practices;
+
+&emsp;&emsp;&emsp;"(II) incubate those practices for further development; and
+
+&emsp;&emsp;&emsp;"(III) replicate those practices nationwide; and
+
+&emsp;&emsp;&emsp;"(iii) transfer to State and local governments the results of the applied research carried out under that subparagraph.
+
+&emsp;&emsp;"(C)
+
+Data sharing.—
+
+&emsp;&emsp;&emsp;"(i)
+
+In general.—To inform the creation of information useful for safety policy and decisionmaking, the Secretary shall—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) encourage the sharing of data between and among Federal, State, and local transportation agencies; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) leverage data from private sector entities.
+
+&emsp;&emsp;&emsp;"(ii)
+
+Goals.—The goals of the data-sharing activities under clause (i) shall include—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the creation of data ecosystems to reduce barriers to the efficient integration and analysis of relevant datasets for use by safety professionals; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the establishment of procedures adequate to ensure sufficient security, privacy, and confidentiality as needed to promote the sharing of sensitive or proprietary data.
+
+&emsp;&emsp;&emsp;"(iii)
+
+Management of data ecosystems.—A data ecosystem described in clause (ii)(I) may be managed by—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the Director of the Bureau of Transportation Statistics;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) 1 or more trusted third parties, as determined by the Secretary; or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) 1 or more other entities or partnerships capable of securing, managing, and analyzing sensitive or proprietary data.
+
+&emsp;"(3)
+
+Plan.—
+
+&emsp;&emsp;"(A)
+
+In general.—The Safety Data Initiative shall be carried out pursuant to a plan to be jointly established by—
+
+&emsp;&emsp;&emsp;"(i) the Under Secretary of Transportation for Policy;
+
+&emsp;&emsp;&emsp;"(ii) the Chief Information Officer of the Department \[of Transportation\];
+
+&emsp;&emsp;&emsp;"(iii) the Administrator of the National Highway Traffic Safety Administration;
+
+&emsp;&emsp;&emsp;"(iv) the Administrator of the Federal Highway Administration;
+
+&emsp;&emsp;&emsp;"(v) the Administrator of the Federal Motor Carrier Safety Administration;
+
+&emsp;&emsp;&emsp;"(vi) the Administrator of the Federal Transit Administration; and
+
+&emsp;&emsp;&emsp;"(vii) the Administrator of the Federal Railroad Administration.
+
+&emsp;&emsp;"(B)
+
+Requirement.—The plan established under subparagraph (A) shall include details regarding the means by which tools and innovations developed by projects carried out under the Safety Data Initiative will be transferred to the appropriate program of the Department for further implementation.
+
+&emsp;&emsp;"(C)
+
+Deadline.—Not later than 1 year after the date of enactment of this Act \[Nov. 15, 2021\], the Secretary shall direct the officials described in clauses (i) through (vii) of subparagraph (A) to establish, by a date determined by the Secretary, the plan referred to in that subparagraph.
+
+&emsp;"(4)
+
+Termination.—The Safety Data Initiative shall terminate on the later of—
+
+&emsp;&emsp;"(A) the date that is 1 year after the date of enactment of this Act; and
+
+&emsp;&emsp;"(B) the date on which the Secretary makes the direction to officials described in paragraph (3)(C)."
+
+#### GAO Cybersecurity Recommendations
+
+Pub. L. 117–58, div. B, title V, §25022, Nov. 15, 2021, 135 Stat. 878, provided that:
+
+"(a)
+
+Cybersecurity Risk Management.—Not later than 3 years after the date of enactment of this Act \[Nov. 15, 2021\], the Secretary \[of Transportation\] shall implement the recommendation for the Department \[of Transportation\] made by the Comptroller General of the United States in the report entitled 'Cybersecurity: Agencies Need to Fully Establish Risk Management Programs and Address Challenges', numbered GAO–19–384, and dated July 2019—
+
+&emsp;"(1) by developing a cybersecurity risk management strategy for the systems and information of the Department \[of Transportation\];
+
+&emsp;"(2) by updating policies to address an organization-wide risk assessment; and
+
+&emsp;"(3) by updating the processes for coordination between cybersecurity risk management functions and enterprise risk management functions.
+
+"(b)
+
+Work Roles.—Not later than 3 years after the date of enactment of this Act \[Nov. 15, 2021\], the Secretary shall implement the recommendation of the Comptroller General of the United States in the report entitled 'Cybersecurity Workforce: Agencies Need to Accurately Categorize Positions to Effectively Identify Critical Staffing Needs', numbered GAO–19–144, and dated March 2019, by—
+
+&emsp;"(1) reviewing positions in the Department; and
+
+&emsp;"(2) assigning appropriate work roles in accordance with the National Initiative for Cybersecurity Education Cybersecurity Workforce Framework.
+
+"(c)
+
+GAO Review.—
+
+&emsp;"(1)
+
+Report.—Not later than 18 months after the date of enactment of this Act, the Comptroller General of the United States shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that examines the approach of the Department to managing cybersecurity for the systems and information of the Department.
+
+&emsp;"(2)
+
+Contents.—The report under paragraph (1) shall include an evaluation of—
+
+&emsp;&emsp;"(A) the roles, responsibilities, and reporting relationships of the senior officials of the Department with respect to cybersecurity at the components of the Department;
+
+&emsp;&emsp;"(B) the extent to which officials of the Department—
+
+&emsp;&emsp;&emsp;"(i) establish requirements for, share information with, provide resources to, and monitor the performance of managers with respect to cybersecurity within the components of the Department; and
+
+&emsp;&emsp;&emsp;"(ii) hold managers accountable for cybersecurity within the components of the Department; and
+
+&emsp;&emsp;"(C) other aspects of cybersecurity, as the Comptroller General of the United States determines to be appropriate."
+
+#### Performance Measurement, Transparency, and Accountability
+
+Pub. L. 117–58, div. B, title VII, §27001, Nov. 15, 2021, 135 Stat. 884, provided that: "For each grant awarded under this Act \[div. B of Pub. L. 117–58, see Tables for classification\], or an amendment made by this Act, the Secretary may—
+
+&emsp;"(1) develop metrics to assess the effectiveness of the activities funded by the grant;
+
+&emsp;"(2) establish standards for the performance of the activities funded by the grant that are based on the metrics developed under paragraph (1); and
+
+&emsp;"(3) not later than the date that is 4 years after the date of the initial award of the grant and every 2 years thereafter until the date on which Federal financial assistance is discontinued for the applicable activity, conduct an assessment of the activity funded by the grant to confirm whether the performance is meeting the standards for performance established under paragraph (2)."
+
 #### National Advisory Committee on Travel and Tourism Infrastructure
 
-Pub. L. 114–94, div. A, title I, §1431, Dec. 4, 2015, 129 Stat. 1427, provided that:
+Pub. L. 114–94, div. A, title I, §1431, Dec. 4, 2015, 129 Stat. 1427, as amended by Pub. L. 117–58, div. B, title V, §25018(a), Nov. 15, 2021, 135 Stat. 874, provided that:
 
 "(a)
 
@@ -122,21 +396,27 @@ Role of Committee.—The Committee shall—
 
 "(e)
 
-National Travel and Tourism Infrastructure Strategic Plan.—Not later than 3 years after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary, in consultation with the Committee, State departments of transportation, and other appropriate public and private transportation stakeholders, shall develop and post on the public Internet website of the Department a national travel and tourism infrastructure strategic plan that includes—
+National Travel and Tourism Infrastructure Strategic Plan.—Not later than 180 days after the date of enactment of the Surface Transportation Investment Act of 2021 \[Nov. 15, 2021\], the Secretary, in consultation with the Committee, State departments of transportation, and other appropriate public and private transportation stakeholders, shall develop and post on the public Internet website of the Department a national travel and tourism infrastructure strategic plan—
 
-&emsp;"(1) an assessment of the condition and performance of the national transportation network;
+&emsp;"(1) to develop an immediate-term and long-term strategy, including policy recommendations across all modes of transportation, for the Department and other agencies to use infrastructure investments to revive the travel and tourism industry and the overall travel and tourism economy in the wake of the Coronavirus Disease 2019 (COVID–19) pandemic; and
 
-&emsp;"(2) an identification of the issues on the national transportation network that create significant congestion problems and barriers to long-haul passenger travel and tourism;
+&emsp;"(2) that includes—
 
-&emsp;"(3) forecasts of long-haul passenger travel and tourism volumes for the 20-year period beginning in the year during which the plan is issued;
+&emsp;&emsp;"(A) an assessment of the condition and performance of the national transportation network, including consideration of the impacts of the COVID–19 pandemic;
 
-&emsp;"(4) an identification of the major transportation facilities and corridors for current and forecastedlong-haul travel and tourism volumes, the identification of which shall be revised, as appropriate, in subsequent plans;
+&emsp;&emsp;"(B) an identification of the issues on the national transportation network that create significant congestion problems and barriers to long-haul passenger travel and tourism;
 
-&emsp;"(5) an assessment of statutory, regulatory, technological, institutional, financial, and other barriers to improved long-haul passenger travel performance (including opportunities for overcoming the barriers);
+&emsp;&emsp;"(C) forecasts of long-haul passenger travel and tourism volumes for the 20-year period beginning in the year during which the plan is issued;
 
-&emsp;"(6) best practices for improving the performance of the national transportation network; and
+&emsp;&emsp;"(D) an identification of the major transportation facilities and corridors of regional significance for current and forecasted long-haul travel and tourism volumes, the identification of which shall be revised, as appropriate, in subsequent plans;
 
-&emsp;"(7) strategies to improve intermodal connectivity for long-haul passenger travel and tourism."
+&emsp;&emsp;"(E) an assessment of statutory, regulatory, technological, institutional, financial, and other barriers to improved long-haul passenger travel performance (including opportunities for overcoming the barriers);
+
+&emsp;&emsp;"(F) best practices for improving the performance of the national transportation network;
+
+&emsp;&emsp;"(G) strategies to improve intermodal connectivity for long-haul passenger travel and tourism; and
+
+&emsp;&emsp;"(H) an identification of possible infrastructure investments that create recovery opportunities for small, underserved, minority, and rural businesses in the travel and tourism industry, including efforts to preserve and protect the scenic, but often less-traveled, roads that promote tourism and economic development throughout the United States."
 
 #### Collaboration and Support
 
@@ -182,25 +462,7 @@ Pub. L. 109–59, title I, §1926, Aug. 10, 2005, 119 Stat. 1483, as amended by 
 
 #### Coordinated Transportation Services
 
-Pub. L. 105–178, title III, §3034, June 9, 1998, 112 Stat. 386, provided that:
-
-"(a)
-
-Study.—The Comptroller General shall conduct a study of Federal departments and agencies (other than the Department of Transportation) that receive Federal financial assistance for non-emergency transportation services.
-
-"(b)
-
-Contents.—In conducting the study, the Comptroller General shall—
-
-&emsp;"(1) identify each Federal department and agency (other than the Department of Transportation) that has received Federal financial assistance for non-emergency transportation services in any of the 3 fiscal years preceding the date of enactment of this Act \[June 9, 1998\];
-
-&emsp;"(2) identify the amount of such assistance received by each Federal department and agency in such fiscal years; and
-
-&emsp;"(3) identify the projects and activities funded using such financial assistance.
-
-"(c)
-
-Report.—Not later than 1 year after the date of enactment of this Act, the Comptroller General shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report containing the results of the study and any recommendations for enhanced coordination between the Department of Transportation and other Federal departments and agencies that provide funding for non-emergency transportation."
+Pub. L. 105–178, title III, §3034, June 9, 1998, 112 Stat. 386, provided that, not later than 1 year after June 9, 1998, the Comptroller General would transmit to Congress the results of a study of Federal departments and agencies (other than the Department of Transportation) receiving Federal financial assistance for non-emergency transportation services and any recommendations for enhanced coordination between the Department of Transportation and other Federal departments and agencies that provide non-emergency transportation funding.
 
 #### Establishment of Nationwide Differential Global Positioning System
 
@@ -216,7 +478,7 @@ Pub. L. 105–66, title III, §346, Oct. 27, 1997, 111 Stat. 1449, provided that
 
 &emsp;"(3) modify the positioning system operated by the Coast Guard at the time of the establishment of the NDGPS to integrate the reference stations made available pursuant to subsection (a);
 
-&emsp;"(4) in cooperation with the Secretary of Commerce, ensure that the reference stations referred to in paragraph (3) are compatible with, and integratedinto, the Continuously Operating Reference Station (commonly referred to as 'CORS') system of the National Geodetic Survey of the Department of Commerce; and
+&emsp;"(4) in cooperation with the Secretary of Commerce, ensure that the reference stations referred to in paragraph (3) are compatible with, and integrated into, the Continuously Operating Reference Station (commonly referred to as 'CORS') system of the National Geodetic Survey of the Department of Commerce; and
 
 &emsp;"(5) in cooperation with the Secretary of Commerce, investigate the use of the NDGPS reference stations for the Global Positioning System Integrated Precipitable Water Vapor System of the National Oceanic and Atmospheric Administration.
 
@@ -271,6 +533,8 @@ Pub. L. 102–240, title VI, §6020, Dec. 18, 1991, 105 Stat. 2184, directed Sec
 #### Long-Range National Transportation Strategic Planning Study
 
 Pub. L. 100–457, title III, §317(b), Sept. 30, 1988, 102 Stat. 2149, directed Department of Transportation to undertake a long-range, multi-modal national transportation strategic planning study, such study to forecast long-term needs and costs for developing and maintaining facilities and services to achieve a desired national transportation program for moving people and goods in the year 2015 and to include detailed analyses of transportation needs within six to nine metropolitan areas that have diverse population, development, and demographic patterns, including at least one interstate metropolitan area, with study to be submitted to Congress on or before Oct. 1, 1989. Similar provisions were contained in the following prior appropriation act: Pub. L. 100–202, §101(l) \[title III, §317(b)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–381.
+
+#### <b>Executive Documents</b>
 
 #### Commercial Expendable Launch Vehicle Activities
 

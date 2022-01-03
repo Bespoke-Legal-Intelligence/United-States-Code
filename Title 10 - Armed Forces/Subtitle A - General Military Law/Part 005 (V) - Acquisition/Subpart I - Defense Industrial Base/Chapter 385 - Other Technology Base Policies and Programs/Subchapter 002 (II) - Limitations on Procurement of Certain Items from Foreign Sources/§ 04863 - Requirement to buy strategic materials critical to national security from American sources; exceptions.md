@@ -144,7 +144,7 @@ Additional Definitions.—In this section:
 
 &emsp;(6) The term "assemblies" means items forming a portion of a system or subsystem that can be provisioned and replaced as an entity and which incorporates multiple, replaceable parts.
 
-&emsp;(7) The term "commercial derivative military article" means an item procured by the Department of Defense that is or will be produced using the same production facilities, a common supply chain, and the same or similar production processes that are used for the production of articles predominantly used by thegeneral public or by nongovernmental entities for purposes other than governmental purposes.
+&emsp;(7) The term "commercial derivative military article" means an item procured by the Department of Defense that is or will be produced using the same production facilities, a common supply chain, and the same or similar production processes that are used for the production of articles predominantly used by the general public or by nongovernmental entities for purposes other than governmental purposes.
 
 &emsp;(8) The term "subsystem" means a functional grouping of items that combine to perform a major function within an end item, such as electrical power, attitude control, and propulsion.
 
@@ -152,17 +152,101 @@ Additional Definitions.—In this section:
 
 &emsp;(10) The term "subcontract" includes a subcontract at any tier.
 
-(Added Pub. L. 109–364, div. A, title VIII, §842(a)(1), Oct. 17, 2006, 120 Stat. 2335, §2533b; amended Pub. L. 110–181, div. A, title VIII, §804(a)–(f), Jan. 28, 2008, 122 Stat. 208–211; Pub. L. 111–350, §5(b)(39), Jan. 4, 2011, 124 Stat. 3845; Pub. L. 111–383, div. A, title X, §1075(f)(2), Jan. 7, 2011, 124 Stat. 4376; Pub. L. 113–291, div. A, title X, §1071(a)(10), Dec. 19, 2014, 128 Stat. 3505; Pub. L. 115–232, div. A, title VIII, §837(c), Aug. 13, 2018, 132 Stat. 1875; Pub. L. 116–92, div. A, title IX, §902(77), Dec. 20, 2019, 133 Stat. 1552; renumbered §4863 and amended Pub. L. 116–283, div. A, title XVIII, §§1870(c)(2), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4285, 4294.)
+(Added Pub. L. 109–364, div. A, title VIII, §842(a)(1), Oct. 17, 2006, 120 Stat. 2335, §2533b; amended Pub. L. 110–181, div. A, title VIII, §804(a)–(f), Jan. 28, 2008, 122 Stat. 208–211; Pub. L. 111–350, §5(b)(39), Jan. 4, 2011, 124 Stat. 3845; Pub. L. 111–383, div. A, title X, §1075(f)(2), Jan. 7, 2011, 124 Stat. 4376; Pub. L. 113–291, div. A, title X, §1071(a)(10), Dec. 19, 2014, 128 Stat. 3505; Pub. L. 115–232, div. A, title VIII, §837(c), Aug. 13, 2018, 132 Stat. 1875; Pub. L. 116–92, div. A, title IX, §902(77), Dec. 20, 2019, 133 Stat. 1552; renumbered §4863 and amended Pub. L. 116–283, div. A, title XVIII, §§1870(c)(2), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4285, 4294; Pub. L. 117–81, div. A, title XVII, §1701(d)(18), Dec. 27, 2021, 135 Stat. 2138.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283, §1870(c)(2), renumbered section 2533b of this title as this section.
 
-Subsec. (c)(2). Pub. L. 116–283, §1883(b)(2), substituted "section 3204(a)(2)" for "section 2304(c)(2)".
+Subsec. (c)(2). Pub. L. 117–81, §1701(d)(18)(A), which directed the substitution of "section 3204(a)(2)" for "section 2304(c)(2)", could not be executed because of the intervening amendment by Pub. L. 116–283, §1883(b)(2). See note below.
 
-Subsec. (f). Pub. L. 116–283, §1883(b)(2), substituted "section 3205" for "section 2304(g)".
+Pub. L. 116–283, §1883(b)(2), substituted "section 3204(a)(2)" for "section 2304(c)(2)".
+
+Subsec. (f). Pub. L. 117–81, §1701(d)(18)(B), which directed the substitution of "section 3205" for "section 2304(g)", could not be executed because of the intervening amendment by Pub. L. 116–283, §1883(b)(2). See note below.
+
+Pub. L. 116–283, §1883(b)(2), substituted "section 3205" for "section 2304(g)".
+
+<b>2019</b>—Subsec. (k)(2)(A). Pub. L. 116–92 substituted "Under Secretary of Defense for Acquisition and Sustainment" for "Under Secretary of Defense for Acquisition, Technology, and Logistics".
+
+<b>2018</b>—Subsec. (h). Pub. L. 115–232, §837(c)(1), substituted "Products" for "Items" in heading.
+
+Subsec. (h)(1), (3). Pub. L. 115–232, §837(c)(2), substituted "commercial products" for "commercial items".
+
+<b>2014</b>—Subsec. (h)(1). Pub. L. 113–291, §1071(a)(10)(A)(i), substituted "sections 1906 and 1907 of title 41" for "sections 34 and 35 of the Office of Federal Procurement Policy Act (41 U.S.C. 430 and 431)".
+
+Subsec. (h)(2). Pub. L. 113–291, §1071(a)(10)(A)(ii), substituted "section 104 of title 41" for "section 35(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 431(c))" in introductory provisions.
+
+Subsec. (m)(2). Pub. L. 113–291, §1071(a)(10)(B)(i), substituted "section 105 of title 41" for "section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403)".
+
+Subsec. (m)(3). Pub. L. 113–291, §1071(a)(10)(B)(ii), substituted "section 131 of title 41" for "section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403)".
+
+Subsec. (m)(5). Pub. L. 113–291, §1071(a)(10)(B)(iii), substituted "section 104 of title 41" for "section 35(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 431(c))".
+
+<b>2011</b>—Subsec. (a)(2). Pub. L. 111–383, §1075(f)(2)(A), made technical amendment to directory language of Pub. L. 110–181, §804(a)(3). See 2008 Amendment note below.
+
+Subsec. (h). Pub. L. 111–350, §5(b)(39)(A), which directed substitution of "section 1906 of title 41" for "section 34 of the Office of Federal Procurement Policy Act (41 U.S.C. 430)", could not be executed because the words "section 34 of the Office of Federal Procurement Policy Act (41 U.S.C. 430)" did not appear in text.
+
+Subsec. (j). Pub. L. 111–350, §5(b)(39)(B), which directed substitution of "section 105 of title 41" for "section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403)" in subsec. (j), could not be executed because the words "section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403)" did not appear in subsec. (j) after the amendment by Pub. L. 110–181, §804(d).
+
+Subsec. (m)(3) to (10). Pub. L. 111–383, §1075(f)(2)(B), made technical amendment to directory language of Pub. L. 110–181, §804(e). See 2008 Amendment note below.
+
+<b>2008</b>—Subsec. (a). Pub. L. 110–181, §804(a)(1), substituted "Except as provided in subsections (b) through (m), the acquisition by the Department of Defense of the following items is prohibited:" for "Except as provided in subsections (b) through (j), funds appropriated or otherwise available to the Department of Defense may not be used for procurement of—" in introductory provisions.
+
+Subsec. (a)(1). Pub. L. 110–181, §804(a)(2), substituted "The following" for "the following" and substituted period for "; or" at end.
+
+Subsec. (a)(2). Pub. L. 110–181, §804(a)(3), as amended by Pub. L. 111–383, §1075(f)(2)(A), substituted "A specialty" for "a specialty".
+
+Subsec. (c). Pub. L. 110–181, §804(f)(1), substituted "Acquisitions" for "Procurements" in heading and pars. (1) and (2).
+
+Subsec. (d). Pub. L. 110–181, §804(f)(2), substituted "acquisition" for "procurement" in introductory provisions and par. (1).
+
+Subsec. (f). Pub. L. 110–181, §804(f)(3), substituted "acquisitions" for "procurements".
+
+Subsec. (g). Pub. L. 110–181, §804(c), (f)(3), substituted "acquisitions" for "procurements" and "electronic components, unless the Secretary of Defense, upon the recommendation of the Strategic Materials Protection Board pursuant to section 187 of this title, determines that the domestic availability of a particular electronic component is critical to national security." for "commercially available electronic components whose specialty metal content is de minimis in value compared to the overall value of the lowest level electronic component produced that contains such specialty metal."
+
+Subsec. (h). Pub. L. 110–181, §804(b), amended heading and text generally. Prior to amendment, text read as follows: "This section applies to procurements of commercial items notwithstanding section 34 of the Office of Federal Procurement Policy Act (41 U.S.C. 430)."
+
+Subsecs. (i) to (m). Pub. L. 110–181, §804(d), added subsecs. (i) to (k) and redesignated former subsecs. (i) and (j) as (l) and (m), respectively.
+
+Subsec. (m)(3) to (10). Pub. L. 110–181, §804(e), as amended by Pub. L. 111—383, §1075(f)(2)(B), added pars. (3) to (10).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2021 Amendment
 
+Amendment by Pub. L. 117–81 to take effect immediately after the amendments made by title XVIII of Pub. L. 116–283 have taken effect, see section 1701(a)(3) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and note below.
+
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+#### Effective Date of 2011 Amendment
+
+Pub. L. 111–383, div. A, title X, §1075(f)(2), Jan. 7, 2011, 124 Stat. 4376, provided that the amendment made by section 1075(f)(2) is effective as of January 28, 2008, and as if included in Public Law 110–181 as enacted.
+
+#### Effective Date
+
+Pub. L. 109–364, div. A, title VIII, §842(a)(4)(A), Oct. 17, 2006, 120 Stat. 2337, provided that: "Section 2533b of title 10, United States Code \[now 10 U.S.C. 4863\], as added by paragraph (1), shall apply with respect to contracts entered into after the date occurring 30 days after the date of the enactment of this Act \[Oct. 17, 2006\]."
+
+#### Regulations
+
+Pub. L. 110–181, div. A, title VIII, §804(g), Jan. 28, 2008, 122 Stat. 211, provided that: "Not later than 120 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall prescribe regulations on the implementation of this section \[amending this section and enacting provisions formerly set out as a note under section 2533b\] and the amendments made by this section, including specific guidance on how thresholds established in subsections (h)(3), (i) and (j) of section 2533b of title 10, United States Code \[now 10 U.S.C. 4863\], as amended by this section, should be implemented."
+
+#### Requirements Relating to Waivers of Certain Domestic Source Limitations Relating to Specialty Metals
+
+Pub. L. 110–181, div. A, title VIII, §884, Jan. 28, 2008, 122 Stat. 264, provided that:
+
+"(a)
+
+Notice Requirement.—At least 30 days prior to making a domestic nonavailability determination pursuant to section 2533b(b) of title 10, United States Code \[now 10 U.S.C. 4863(b)\], that would apply to more than one contract of the Department of Defense, the Secretary of Defense shall, to the maximum extent practicable and in a manner consistent with the protection of national security information and confidential business information—
+
+&emsp;"(1) publish a notice on the website maintained by the General Services Administration known as FedBizOpps.gov (or any successor site) of the Secretary's intent to make the domestic nonavailability determination; and
+
+&emsp;"(2) solicit information relevant to such notice from interested parties, including producers of specialty metal mill products.
+
+"(b)
+
+Determination.—(1) The Secretary shall take into consideration all information submitted pursuant to subsection (a) in making a domestic nonavailability determination pursuant to section 2533b(b) of title 10, United States Code \[now 10 U.S.C. 4863(b)\], that would apply to more than one contract of the Department of Defense, and may also consider other relevant information that cannot be made part of the public record consistent with the protection of national security information and confidential business information.
+
+"(2) The Secretary shall ensure that any such determination and the rationale for such determination is made publicly available to the maximum extent consistent with the protection of national security information and confidential business information."
 

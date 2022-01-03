@@ -10,7 +10,7 @@ The Director of the Office of Educational Technology (hereafter in this section 
 
 &emsp;(1) in support of the overall national technology policy and in consultation with other Federal departments or agencies which the Director determines appropriate, provide leadership to the Nation in the use of technology to promote achievement of the National Education Goals and to increase opportunities for all students to achieve State content and challenging State student performance standards;
 
-&emsp;(2) review all programs and training functions administered by the Department and recommend policies in order to promote increased use of technology and technology planning throughout all such programs and functions;
+&emsp;(2) review all programs and training functions administered by the Department andrecommend policies in order to promote increased use of technology and technology planning throughout all such programs and functions;
 
 &emsp;(3) review all relevant programs supported by the Department to ensure that such programs are coordinated with and support the national long-range technology plan developed pursuant to section 5862(b) <sup>1</sup> of this title; and
 
@@ -26,9 +26,13 @@ The Secretary may obtain the services of experts and consultants in accordance w
 
 (Pub. L. 96–88, title II, §218, formerly §216, as added Pub. L. 103–227, title II, §233(a), Mar. 31, 1994, 108 Stat. 154; renumbered §218, Pub. L. 107–110, title X, §1072(e)(3), Jan. 8, 2002, 115 Stat. 2090.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 5862 of this title, referred to in subsec. (b)(3), was repealed by Pub. L. 103–382, title III, §361(a), Oct. 20, 1994, 108 Stat. 3974.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Office of Training Technology Transfer
 

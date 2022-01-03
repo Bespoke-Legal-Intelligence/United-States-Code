@@ -266,7 +266,7 @@ Obligation of Funds in Fiscal Year 2000.—The Secretary shall obligate, from th
 
 "(c)
 
-Reports.—(1) Not later than 120 days after the date of the enactment of this Act \[Nov. 30, 1999\], the Secretary shall submit to Congress a report on the establishment of the national cemeteries under subsection (a). The report shall set forth the following:
+Reports.—(1) Not later than 120 days after the date of the enactment of this Act \[Nov. 30, 1999\], theSecretary shall submit to Congress a report on the establishment of the national cemeteries under subsection (a). The report shall set forth the following:
 
 &emsp;"(A) The six areas of the United States determined by the Secretary to be most in need of the establishment of a new national cemetery.
 

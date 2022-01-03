@@ -92,7 +92,7 @@
 
 #### (4) Attorneys in the office of the General Counsel
 
-&emsp;The General Counsel shall appoint, and fix the compensation of, and may remove, such additional attorneys as may be necessary to enable the General Counsel to perform the General Counsel's duties.
+&emsp;The General Counsel shall appoint, and fix the compensation of, and may remove, such additional attorneys as may be necessary toenable the General Counsel to perform the General Counsel's duties.
 
 #### (5) Term
 
@@ -174,7 +174,7 @@
 
 &emsp;&emsp;(A) a former covered employee may only request such services if the practice that may be a violation of part A of subchapter II occurred during the employment or service of the employee; and
 
-&emsp;&emsp;(B) a covered employee described in this paragraph may only request such services before the expiration of the 180-day period described in section 1402(d) of this title.
+&emsp;&emsp;(B) a covered employee described in this paragraph may only request such servicesbefore the expiration of the 180-day period described in section 1402(d) of this title.
 
 #### (5) Restrictions
 
@@ -206,7 +206,7 @@ In carrying out the functions of the Office, the Executive Director may procure 
 
 This chapter, referred to in subsecs. (a)(4), (c)(3), and (d)(2)(B)(i), (5)(A), (B), was in the original "this Act", meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
 
-Part A of subchapter II, referred to in subsec. (d)(2)(B), (3)(B), (4)(A), was in the original "part A of title II", meaning part A (§§201–207) of title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, which is classifiedprincipally to part A of subchapter II of this chapter. For complete classification of part A to the Code, see Tables.
+Part A of subchapter II, referred to in subsec. (d)(2)(B), (3)(B), (4)(A), was in the original "part A of title II", meaning part A (§§201–207) of title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, which is classified principally to part A of subchapter II of this chapter. For complete classification of part A to the Code, see Tables.
 
 #### Amendments
 

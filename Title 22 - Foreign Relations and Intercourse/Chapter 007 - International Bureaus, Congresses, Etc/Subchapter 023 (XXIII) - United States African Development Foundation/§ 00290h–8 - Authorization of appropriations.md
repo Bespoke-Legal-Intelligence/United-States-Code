@@ -2,7 +2,7 @@
 
 There are authorized to be appropriated to carry out this subchapter, in addition to amounts otherwise available for that purpose, $3,872,000 for fiscal year 1986 and $3,872,000 for fiscal year 1987. Funds appropriated under this section are authorized to remain available until expended.
 
-(Pub. L. 96–533, title V, §510, Dec. 16, 1980, 94 Stat. 3155; Pub. L. 97–113, title III, §313, Dec. 29,1981, 95 Stat. 1536; Pub. L. 99–83, title VIII, §810(a), Aug. 8, 1985, 99 Stat. 264.)
+(Pub. L. 96–533, title V, §510, Dec. 16, 1980, 94 Stat. 3155; Pub. L. 97–113, title III, §313, Dec. 29, 1981, 95 Stat. 1536; Pub. L. 99–83, title VIII, §810(a), Aug. 8, 1985, 99 Stat. 264.)
 
 #### <b>Editorial Notes</b>
 

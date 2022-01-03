@@ -46,6 +46,8 @@ The National Council shall cease to exist on December 31, 1991.
 
 (Pub. L. 99–659, title II, §206, Nov. 14, 1986, 100 Stat. 3718; Pub. L. 101–627, title VII, §701, Nov. 28, 1990, 104 Stat. 4463.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Senior Executive Service, referred to in subsec. (d), see section 5382 of Title 5, Government Organization and Employees.
@@ -54,7 +56,9 @@ Senior Executive Service, referred to in subsec. (d), see section 5382 of Title 
 
 <b>1990</b>—Subsec. (g). Pub. L. 101–627 substituted "December 31, 1991" for "October 1, 1990".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Continuity of Council Functions, Contracts, and Personnel
 
-Pub. L. 101–627, title VII, §705, Nov. 28, 1990, 104 Stat. 4464, provided that: "All current functions, contracts inforce, and existing personnel of the National Fish and Seafood Promotional Council as of September 30, 1990, are reauthorized and extended, and shall continue as if uninterrupted, notwithstanding section 206(g) of the Fish and Seafood Promotion Act of 1986 (16 U.S.C. 4005(g)) as in effect on September 30, 1990."
+Pub. L. 101–627, title VII, §705, Nov. 28, 1990, 104 Stat. 4464, provided that: "All current functions, contracts in force, and existing personnel of the National Fish and Seafood Promotional Council as of September 30, 1990, are reauthorized and extended, and shall continue as if uninterrupted, notwithstanding section 206(g) of the Fish and Seafood Promotion Act of 1986 (16 U.S.C. 4005(g)) as in effect on September 30, 1990."
 

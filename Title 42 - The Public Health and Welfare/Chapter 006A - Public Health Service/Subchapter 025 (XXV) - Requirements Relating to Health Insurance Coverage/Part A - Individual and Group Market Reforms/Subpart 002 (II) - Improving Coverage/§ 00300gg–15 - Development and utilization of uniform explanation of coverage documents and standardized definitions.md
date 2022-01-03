@@ -34,7 +34,7 @@ The standards for the summary of benefits and coverage developed under subsectio
 
 &emsp;&emsp;(E) the renewability and continuation of coverage provisions;
 
-&emsp;&emsp;(F) a coverage facts label that includes examples to illustrate common benefits scenarios, including pregnancy and serious or chronic medical conditions and related cost sharing, such scenarios to be based on recognized clinical practice guidelines;
+&emsp;&emsp;(F) a coverage facts label that includes examples to illustrate common benefits scenarios, including pregnancy and serious or chronic medical conditions and related costsharing, such scenarios to be based on recognized clinical practice guidelines;
 
 &emsp;&emsp;(G) a statement of whether the plan or coverage—
 
@@ -102,9 +102,13 @@ An entity described in subsection (d)(3) that willfully fails to provide the inf
 
 (July 1, 1944, ch. 373, title XXVII, §2715, as added and amended Pub. L. 111–148, title I, §1001(5), title X, §10101(b), Mar. 23, 2010, 124 Stat. 132, 884.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–148, §10101(b), substituted "and providing to applicants, enrollees, and policyholders or certificate holders" for "and providing to enrollees".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

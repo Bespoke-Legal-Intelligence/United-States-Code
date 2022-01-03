@@ -14,7 +14,7 @@ For the purposes of this section, the term "nonindustrial private forest lands" 
 
 #### (d) Implementation
 
-In carrying out the Program the Secretary, in consultation with State foresters or equivalent State officials, shall provide financial, technical, educational, and related assistance to State foresters or equivalent State officials, including assistance to help such State foresters or equivalent officials to provide financial assistance to other State and local natural resource entities, both public and private, and land-grant universities for the delivery of information and professional assistance to owners of nonindustrial private forest lands. Such information and assistance shall be directed to help such owners understand and evaluate alternative actions they might take, including—
+In carrying out the Program the Secretary, in consultation with State foresters or equivalent State officials, shall provide financial, technical, educational, and related assistance toState foresters or equivalent State officials, including assistance to help such State foresters or equivalent officials to provide financial assistance to other State and local natural resource entities, both public and private, and land-grant universities for the delivery of information and professional assistance to owners of nonindustrial private forest lands. Such information and assistance shall be directed to help such owners understand and evaluate alternative actions they might take, including—
 
 &emsp;(1) managing and enhancing the productivity of timber, fish and wildlife habitat, water quality, wetlands, recreational resources, and the aesthetic value of forest lands;
 
@@ -51,6 +51,8 @@ The Secretary, in consultation with State foresters or equivalent State official
 There are hereby authorized to be appropriated $25,000,000 for each of the fiscal years 1991 through 1995, and such sums as may be necessary thereafter, to carry out this section.
 
 (Pub. L. 95–313, §5, as added Pub. L. 101–624, title XII, §1215(2), Nov. 28, 1990, 104 Stat. 3525; amended Pub. L. 102–237, title X, §1018(a)(1), Dec. 13, 1991, 105 Stat. 1905.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

@@ -42,10 +42,6 @@
 
 &emsp;&emsp;(E) oversee the use of funds provided by such grants in fulfilling such implementation plans.
 
-#### (4) Reports
-
-&emsp;The Assistant Secretary and the Administrator shall provide an annual report to Congress by the first day of October of each year on the activities of the Office to improve coordination and communication with respect to the implementation of 9–1–1 services, E9–1–1 services, and Next Generation 9–1–1 services.
-
 #### (b) 9–1–1, E9–1–1, and Next Generation 9–1–1 implementation grants
 
 #### (1) Matching grants
@@ -86,7 +82,7 @@
 
 #### (1) Designated 9–1–1 charges
 
-&emsp;For the purposes of this subsection, the term "designated 9–1–1 charges" means any taxes, fees, or other charges imposed by a State or other taxing jurisdiction that are designated or presented as dedicated to deliver or improve9–1–1 services, E9–1–1 services, or Next Generation 9–1–1 services.
+&emsp;For the purposes of this subsection, the term "designated 9–1–1 charges" means any taxes,fees, or other charges imposed by a State or other taxing jurisdiction that are designated or presented as dedicated to deliver or improve 9–1–1 services, E9–1–1 services, or Next Generation 9–1–1 services.
 
 #### (2) Certification
 
@@ -178,11 +174,13 @@ In this section, the following definitions shall apply:
 
 &emsp;The term "State" means any State of the United States, the District of Columbia, Puerto Rico, American Samoa, Guam, the United States Virgin Islands, the Northern Mariana Islands, and any other territory or possession of the United States.
 
-(Pub. L. 102–538, title I, §158, as added Pub. L. 108–494, title I, §104, Dec. 23, 2004, 118 Stat. 3987; amended Pub. L. 110–53, title XXIII, §2303, Aug. 3, 2007, 121 Stat. 543; Pub. L. 110–283, title I, §102, July 23, 2008, 122 Stat. 2623; Pub. L. 112–96, title VI, §6503, Feb. 22, 2012, 126 Stat. 237.)
+(Pub. L. 102–538, title I, §158, as added Pub. L. 108–494, title I, §104, Dec. 23, 2004, 118 Stat. 3987; amended Pub. L. 110–53, title XXIII, §2303, Aug. 3, 2007, 121 Stat. 543; Pub. L. 110–283, title I, §102, July 23, 2008, 122 Stat. 2623; Pub. L. 112–96, title VI, §6503, Feb. 22, 2012, 126 Stat. 237; Pub. L. 117–58, div. B, title IV, §24215, Nov. 15, 2021, 135 Stat. 829.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(4). Pub. L. 117–58 struck out par. (4). Text read as follows: "The Assistant Secretary and the Administrator shall provide an annual report to Congress by the first day of October of each year on the activities of the Office to improve coordination and communication with respect to the implementation of 9–1–1 services, E9–1–1 services, and Next Generation 9–1–1 services."
 
 <b>2012</b>—Pub. L. 112–96 amended section generally. Prior to amendment, section established a joint program to facilitate coordination and communication between Federal, State, and local emergency communications systems, emergency personnel, public safety organizations, telecommunications carriers, and telecommunications equipment manufacturers and vendors involved in the implementation of E–911 services and created an E–911 Implementation Coordination Office.
 
@@ -193,6 +191,18 @@ Subsecs. (d) to (f). Pub. L. 110–283, § 102(2), (3), added subsec. (d) and re
 <b>2007</b>—Subsec. (b)(4). Pub. L. 110–53 inserted at end "Within 180 days after August 3, 2007, the Assistant Secretary and the Administrator shall jointly issue regulations updating the criteria to allow a portion of the funds to be used to give priority to grants that are requested by public safety answering points that were not capable of receiving 911 calls as of August 3, 2007, for the incremental cost of upgrading from Phase I to Phase II compliance. Such grants shall be subject to all other requirements of this section."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Next Generation 911
+
+Pub. L. 117–58, div. B, title IV, §24113(a), Nov. 15, 2021, 135 Stat. 818, provided that:
+
+"(1)
+
+In general.—Not later than 1 year after the date of enactment of this Act \[Nov. 15, 2021\], the Secretary shall implement the recommendations of the Comptroller General of the United States contained in the report entitled 'Next Generation 911: National 911 Program Could Strengthen Efforts to Assist States', numbered GAO–18–252, and dated January 1, 2018, by requiring that the Administrator of the National Highway Traffic Safety Administration, in collaboration with the appropriate Federal agencies, shall determine the roles and responsibilities of the Federal agencies participating in the initiative entitled 'National NG911 Roadmap initiative' to carry out the national-level tasks with respect which each agency has jurisdiction.
+
+"(2)
+
+Implementation plan.—The Administrator of the National Highway Traffic Safety Administration shall develop an implementation plan to support the completion of national-level tasks under the National NG911 Roadmap initiative."
 
 #### Findings
 

@@ -6,11 +6,13 @@ The authority to acquire land, water, and interests therein within the park boun
 
 &emsp;(1) The reservation until October 9, 1967, of all oil, gas, and mineral rights or interests, including the right to lease, explore for, produce, store, and remove oil, gas, and other minerals from such lands;
 
-&emsp;(2) In the event that on or before said date, oil, gas, or other minerals are being produced in commercial quantities anywhere within the boundary fixed in section 410i of this title but outside the area designated in sections 410e to 410h of this title, the time of the reservation provided in subsection (1) above shall automatically extend for all owners within said boundary and outside of said area regardless of whether such production is from land in which such owners have an interest, for so long as oil, gas, or other minerals are produced in commercial quantities anywhere within said boundary and outside of said area. To exercise this reservation, the owners, their lessees, agents, employees, and assigns shall have such right of ingress to and egress from such land and water as may be necessary; and
+&emsp;(2) In the event that on or before said date, oil, gas, or other minerals are being produced in commercial quantities anywhere within the boundary fixed in section 410i of this title but outside the area designated in sections 410e to 410h of this title, the time of the reservation provided in subsection (1) above shall automatically extend for all owners within said boundary and outside of said area regardless of whether such production is from land in which such owners have an interest, for so long as oil, gas, or other minerals are produced in commercial quantities anywhere within said boundary and outside of said area. To exercise this reservation, the owners, their lessees,agents, employees, and assigns shall have such right of ingress to and egress from such land and water as may be necessary; and
 
 &emsp;(3) After the termination of the reserved rights of owners as set forth in subsections (1) and (2) of this section, a further reservation of the right to customary royalties, applying at the time of production, in any oil, gas, or other minerals which may be produced from such land and water at any time before January 1, 1985, should production ever be authorized by the Federal Government or its assigns.
 
 (Pub. L. 85–482, §2, July 2, 1958, 72 Stat. 284; Pub. L. 91–428, §2, Sept. 26, 1970, 84 Stat. 885.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

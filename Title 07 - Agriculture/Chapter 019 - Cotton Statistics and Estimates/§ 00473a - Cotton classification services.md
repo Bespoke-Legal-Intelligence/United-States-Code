@@ -30,7 +30,7 @@ The Secretary of Agriculture (referred to in this section as the "Secretary") sh
 
 #### (d) Crediting of fees
 
-Any fees collected under this section and under section 473d of this title, late paymentpenalties, the proceeds from the sales of samples, and interest earned from the investment of such funds shall—
+Any fees collected under this section and under section 473d of this title, late payment penalties, the proceeds from the sales of samples, and interest earned from the investment of such funds shall—
 
 &emsp;(1) be credited to the current appropriation account that incurs the cost of services provided under this section and section 473d of this title; and
 
@@ -53,6 +53,8 @@ Notwithstanding any other provision of law, the Secretary may enter into long-te
 To the extent that financing is not available from fees and the proceeds from the sales of samples, there are authorized to be appropriated such sums as are necessary to carry out this section.
 
 (Mar. 3, 1927, ch. 337, §3a, as added Apr. 13, 1937, ch. 75, 50 Stat. 62; amended Pub. L. 97–35, title I, §156(b), Aug. 13, 1981, 95 Stat. 373; Pub. L. 98–403, §1, Aug. 28, 1984, 98 Stat. 1479; Pub. L. 100–108, §2, Aug. 20, 1987, 101 Stat. 728; Pub. L. 102–237, title I, §120(a)–(c), Dec. 13, 1991, 105 Stat. 1842, 1843; Pub. L. 104–127, title IX, §912(a), Apr. 4, 1996, 110 Stat. 1185; Pub. L. 107–171, title X, §10801(a), May 13, 2002, 116 Stat. 525; Pub. L. 110–234, title XIV, §14201, May 22, 2008, 122 Stat. 1457; Pub. L. 110–246, §4(a), title XIV, §14201, June 18, 2008, 122 Stat. 1664, 2219.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -84,9 +86,11 @@ Pub. L. 102–237, §120(a), amended first sentence generally. Prior to amendmen
 
 <b>1981</b>—Pub. L. 97–35 substituted provisions effective for fiscal years ending Sept. 30, 1982, 1983, and 1984, requiring the Secretary to make classification services available to producers, and to set and collect fees, for provisions authorizing the Secretary to determine and make available classification procedures.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 ofPub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Effective and Termination Dates of 1991 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Discriminatory practices prohibited; employees or applicants for employment subject to coverage
 
-All personnel actions affecting employees or applicants for employment (except with regard to aliens employed outside the limits of the United States) in military departments as defined in section 102 of title 5, in executive agencies as defined in section 105 of title 5 (includingemployees and applicants for employment who are paid from nonappropriated funds), in the United States Postal Service and the Postal Regulatory Commission, in those units of the Government of the District of Columbia having positions in the competitive service, and in those units of the judicial branch of the Federal Government having positions in the competitive service, in the Smithsonian Institution, and in the Government Publishing Office, the Government Accountability Office, and the Library of Congress shall be made free from any discrimination based on race, color, religion, sex, or national origin.
+All personnel actions affecting employees or applicants for employment (except with regard to aliens employed outside the limits of the United States) in military departments as defined in section 102 of title 5, in executive agencies as defined in section 105 of title 5 (including employees and applicants for employment who are paid from nonappropriated funds), in the United States Postal Service and the Postal Regulatory Commission, in those units of the Government of the District of Columbia having positions in the competitive service, and in those units of the judicial branch of the Federal Government having positions in the competitive service, in the Smithsonian Institution, and in the Government Publishing Office, the Government Accountability Office, and the Library of Congress shall be made free from any discrimination based on race, color, religion, sex, or national origin.
 
 #### (b) Equal Employment Opportunity Commission; enforcement powers; issuance of rules, regulations, etc.; annual review and approval of national and regional equal employment opportunity plans; review and evaluation of equal employment opportunity programs and publication of progress reports; consultations with interested parties; compliance with rules, regulations, etc.; contents of national and regional equal employment opportunity plans; authority of Librarian of Congress
 
@@ -24,7 +24,7 @@ Except as otherwise provided in this subsection, the Equal Employment Opportunit
 
 #### (c) Civil action by employee or applicant for employment for redress of grievances; time for bringing of action; head of department, agency, or unit as defendant
 
-Within 90 days of receipt of notice of final action taken by a department, agency, or unit referred to in subsection (a), or by the Equal Employment Opportunity Commission upon an appeal from a decision or order of such department, agency, or unit on a complaint of discrimination based on race, color, religion, sex or national origin, brought pursuant to subsection (a) of this section, Executive Order 11478 or any succeeding Executive orders, or after one hundred and eighty days from the filing of the initial charge with the department, agency, or unit or with the Equal Employment Opportunity Commission on appeal from a decision or order of such department, agency, or unit until such time as final action may be taken by a department, agency, or unit, an employee or applicant for employment, if aggrieved by the final disposition of his complaint, or by the failure to take final action on his complaint, may file a civil action as provided in section 2000e–5 of this title, in which civil action the head of the department, agency, or unit, as appropriate, shall be the defendant.
+Within 90 days of receipt of notice of final action taken by a department, agency, or unit referred to in subsection (a), or by the Equal Employment Opportunity Commission upon an appeal from a decision or order of such department, agency, or unit on a complaint of discrimination based on race, color, religion, sex or national origin, brought pursuant to subsection\(a) of this section, Executive Order 11478 or any succeeding Executive orders, or after one hundred and eighty days from the filing of the initial charge with the department, agency, or unit or with the Equal Employment Opportunity Commission on appeal from a decision or order of such department, agency, or unit until such time as final action may be taken by a department, agency, or unit, an employee or applicant for employment, if aggrieved by the final disposition of his complaint, or by the failure to take final action on his complaint, may file a civil action as provided in section 2000e–5 of this title, in which civil action the head of the department, agency, or unit, as appropriate, shall be the defendant.
 
 #### (d) Section 2000e–5(f) through (k) of this title applicable to civil actions
 
@@ -39,6 +39,8 @@ Nothing contained in this Act shall relieve any Government agency or official of
 Section 2000e–5(e)(3) of this title shall apply to complaints of discrimination in compensation under this section.
 
 (Pub. L. 88–352, title VII, §717, as added Pub. L. 92–261, §11, Mar. 24, 1972, 86 Stat. 111; amended 1978 Reorg. Plan No. 1, §3, eff. Jan. 1, 1979, 43 F.R. 19807, 92 Stat. 3781; Pub. L. 96–191, §8(g), Feb. 15, 1980, 94 Stat. 34; Pub. L. 102–166, title I, §114, Nov. 21, 1991, 105 Stat. 1079; Pub. L. 104–1, title II, §201(c)(1), Jan. 23, 1995, 109 Stat. 8; Pub. L. 105–220, title III, §341(a), Aug. 7, 1998, 112 Stat. 1092; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242; Pub. L. 111–2, §5(c)(2), Jan. 29, 2009, 123 Stat. 7; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -64,6 +66,8 @@ Subsec. (d). Pub. L. 102–166, §114(2), inserted before the period ", and the
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–191 struck out "(other than the General Accounting Office)" after "in executive agencies".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 "Government Publishing Office" substituted for "Government Printing Office" in subsec. (a) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.
@@ -87,6 +91,8 @@ Amendment by Pub. L. 102–166 effective Nov. 21, 1991, except as otherwise prov
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–191 effective Oct. 1, 1980, see section 10(a) of Pub. L. 96–191.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 
@@ -112,7 +118,7 @@ Sec. 2. <i>Requirements Applicable to Employing Departments and Agencies.</i>
 
 &emsp;(a) The term "employee" shall include an employee, applicant for employment, or former employee covered by section 717 of the Civil Rights Act of 1964, as amended (42 U.S.C. 2000e–16).
 
-&emsp;(b) Genetic monitoring means the periodic examination of employees to evaluate acquired modifications to their genetic material, such as chromosomal damage or evidence of increased occurrence of mutations, that may have developed in the course ofemployment due to exposure to toxic substances in the workplace, in order to identify, evaluate, respond to the effects of, or control adverse environmental exposures in the workplace.
+&emsp;(b) Genetic monitoring means the periodic examination of employees to evaluate acquired modifications to their genetic material, such as chromosomal damage or evidence of increased occurrence of mutations, that may have developed in the course of employment due to exposure to toxic substances in the workplace, in order to identify, evaluate, respond to the effects of, or control adverse environmental exposures in the workplace.
 
 &emsp;(c) Genetic services means health services, including genetic tests, provided to obtain, assess, or interpret genetic information for diagnostic or therapeutic purposes, or for genetic education or counseling.
 
@@ -162,7 +168,7 @@ Sec. 3. <i>Exceptions.</i>
 
 &emsp;&emsp;(3) such current disease, or medical condition or disorder could prevent the applicant or employee from performing the essential functions of the position held or desired; and
 
-&emsp;&emsp;(4) the information defined in section 1–201(e)(1)(C) of this order will not be disclosed to persons other than medical personnel involved in or responsible for assessing whether further medical evaluation is needed to diagnose a current disease, or medical condition or disorder, or under the terms of section 1–301(b) of this order.
+&emsp;&emsp;(4) the information defined in section 1–201(e)(1)(C) of this order will not be disclosed topersons other than medical personnel involved in or responsible for assessing whether further medical evaluation is needed to diagnose a current disease, or medical condition or disorder, or under the terms of section 1–301(b) of this order.
 
 &emsp;(b) The employing department or agency may request, collect, or purchase protected genetic information with respect to an employee, or any information about a request for or receipt of genetic services by such employee if:
 

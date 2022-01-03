@@ -44,13 +44,13 @@ Reporting.—Not later than December 31, 1995, and annually thereafter, the Admi
 
 &emsp;(5)
 
-Authorization of appropriations.—There is authorized to be appropriated to the Administrator, $5,000,000 for each of fiscal years 2021 through 2023, to carry out this subsection. Amounts appropriated under the preceding sentence for any fiscal year shall remain available until expended.
+Authorization of appropriations.—There is authorized to be appropriated to theAdministrator, $5,000,000 for each of fiscal years 2021 through 2023, to carry out this subsection. Amounts appropriated under the preceding sentence for any fiscal year shall remain available until expended.
 
 (f)
 
 Application of Certain Regulations to Alaska.—In amending title 14, Code of Federal Regulations, in a manner affecting intrastate aviation in Alaska, the Administrator of the Federal Aviation Administration shall consider the extent to which Alaska is not served by transportation modes other than aviation, and shall establish such regulatory distinctions as the Administrator considers appropriate.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1110; Pub. L. 103–305, title II, §202, Aug. 23, 1994, 108 Stat. 1582; Pub. L. 106–181, title I, §156(a), Apr. 5, 2000, 114 Stat. 89; Pub. L. 107–71, title I, §140(c), Nov. 19, 2001, 115 Stat. 641; Pub. L. 112–95, title II, §207, Feb. 14, 2012, 126 Stat. 39; Pub. L. 115–254, div. K, title I, §1991(c)(2), Oct. 5, 2018, 132 Stat.3627; Pub. L. 116–260, div. V, title I, §119(g), Dec. 27, 2020, 134 Stat. 2342.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1110; Pub. L. 103–305, title II, §202, Aug. 23, 1994, 108 Stat. 1582; Pub. L. 106–181, title I, §156(a), Apr. 5, 2000, 114 Stat. 89; Pub. L. 107–71, title I, §140(c), Nov. 19, 2001, 115 Stat. 641; Pub. L. 112–95, title II, §207, Feb. 14, 2012, 126 Stat. 39; Pub. L. 115–254, div. K, title I, §1991(c)(2), Oct. 5, 2018, 132 Stat. 3627; Pub. L. 116–260, div. V, title I, §119(g), Dec. 27, 2020, 134 Stat. 2342.)
 
 Historical and Revision Notes
 
@@ -116,6 +116,8 @@ In subsection (c), the words "department, agency, and instrumentality" are subst
 
 In subsection (d), the text of 49 App.:1354(e) (last sentence) is omitted because of 49:322(a).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2020</b>—Subsec. (e)(1). Pub. L. 116–260, §119(g)(1), inserted "The Administrator may also provide technical assistance related to all aviation safety-related training and operational services in connection with bilateral and multilateral agreements, including further bolstering the components of airmanship." after "safety or efficiency."
@@ -139,6 +141,8 @@ Subsec. (d). Pub. L. 107–71, §140(c)(2), inserted "Under Secretary of Transpo
 <b>2000</b>—Subsec. (f). Pub. L. 106–181 added subsec. (f).
 
 <b>1994</b>—Subsec. (e). Pub. L. 103–305 added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

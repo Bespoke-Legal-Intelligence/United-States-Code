@@ -6,7 +6,7 @@
 
 &emsp;(A) Information that is in the officer's official military personnel file and that is provided to the selection board in accordance with the regulations prescribed by the Secretary of Defense pursuant to paragraph (1).
 
-&emsp;(B) Other information that is determined by the Secretary of the military department concerned, after review by that Secretary in accordance with standards and procedures set out in the regulations prescribed by the Secretary of Defense pursuant to paragraph (1), tobe substantiated, relevant information that could reasonably and materially affect the deliberations of the selection board.
+&emsp;(B) Other information that is determined by the Secretary of the military department concerned, after review by that Secretary in accordance with standards and procedures set out in the regulations prescribed by the Secretary of Defense pursuant to paragraph (1), to be substantiated, relevant information that could reasonably and materially affect the deliberations of the selection board.
 
 &emsp;(C) Subject to such limitations as may be prescribed in those regulations, information communicated to the board by the officer in accordance with this section, section 614(b) of this title (including any comment on information referred to in subparagraph (A) regarding that officer), or other applicable law.
 
@@ -58,11 +58,13 @@
 
 (c) The Secretary of Defense, with the advice and assistance of the Chairman of the Joint Chiefs of Staff, shall furnish to the Secretaries of the military departments guidelines for the purpose of ensuring that each selection board convened under section 611(a) of this title gives appropriate consideration to the performance of officers who are serving on, or have served on, the Joint Staff or are joint qualified officers.
 
-(d) Information or guidelines furnished to a selection board under subsection (b) may not bemodified, withdrawn, or supplemented after the board submits the report to the Secretary of the military department concerned pursuant to section 617(a) of this title, except that, in the case of a report returned to a board pursuant to section 618(a)(2) of this title for further proceedings because of a determination by the Secretary of the military department concerned that the board acted contrary to law, regulation, or guidelines, the Secretary may modify, withdraw, or supplement such information or guidelines as part of a written explanation to the board as provided in that section.
+(d) Information or guidelines furnished to a selection board under subsection (b) may not be modified, withdrawn, or supplemented after the board submits the report to the Secretary of the military department concerned pursuant to section 617(a) of this title, except that, in the case of a report returned to a board pursuant to section 618(a)(2) of this title for further proceedings because of a determination by the Secretary of the military department concerned that the board acted contrary to law, regulation, or guidelines, the Secretary may modify, withdraw, or supplement such information or guidelines as part of a written explanation to the board as provided in that section.
 
 (e) The Secretary of each military department, under uniform regulations prescribed by the Secretary of Defense, shall include in guidelines furnished to a selection board convened under section 611(a) of this title that is considering officers in a health-professions competitive category for promotion to a grade below colonel or, in the case of the Navy, captain, a direction that the board give consideration to an officer's clinical proficiency and skill as a health professional to at least as great an extent as the board gives to the officer's administrative and management skills.
 
 (Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2852; amended Pub. L. 99–433, title IV, §402(b), Oct. 1, 1986, 100 Stat. 1030; Pub. L. 100–456, div. A, title V, §501(a), Sept. 29, 1988, 102 Stat. 1965; Pub. L. 101–189, div. A, title V, §519, Nov. 29, 1989, 103 Stat. 1444; Pub. L. 102–190, div. A, title V, §504(a)(1), Dec. 5, 1991, 105 Stat. 1355; Pub. L. 102–484, div. A, title X, §1052(7), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 109–163, div. A, title V, §506(a), Jan. 6, 2006, 119 Stat. 3227; Pub. L. 111–383, div. A, title V, §522(b), Jan. 7, 2011, 124 Stat. 4215; Pub. L. 116–92, div. A, title V, §502(a), (b), Dec. 20, 2019, 133 Stat. 1344; Pub. L. 116–283, div. A, title V, §505(c)(1), (2), Jan. 1, 2021, 134 Stat. 3572.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -107,6 +109,8 @@ Subsec. (d). Pub. L. 102–484, §1052(7)(B), substituted "subsection (b)" for "
 Subsec. (c). Pub. L. 100–456, §501(a)(2), added subsec. (c).
 
 <b>1986</b>—Pub. L. 99–433 designated existing provisions as subsec. (a), added par. (5), redesignated former par. (5) as (6), and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2019 Amendment
 

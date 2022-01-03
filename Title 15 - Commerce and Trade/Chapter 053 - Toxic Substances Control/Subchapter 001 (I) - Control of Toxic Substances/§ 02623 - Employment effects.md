@@ -32,9 +32,13 @@ The Administrator shall evaluate on a continuing basis the potential effects on 
 
 (Pub. L. 94–469, title I, §24, Oct. 11, 1976, 90 Stat. 2045; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 114–182, title I, §19(p), June 22, 2016, 130 Stat. 510.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Subsec. (b)(2)(B)(ii), (iii). Pub. L. 114–182 redesignated cl. (iii) as (ii) and struck out former cl. (ii) which read as follows: "such hearings shall be held in accordance with section 2605(c)(3) of this title, and".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

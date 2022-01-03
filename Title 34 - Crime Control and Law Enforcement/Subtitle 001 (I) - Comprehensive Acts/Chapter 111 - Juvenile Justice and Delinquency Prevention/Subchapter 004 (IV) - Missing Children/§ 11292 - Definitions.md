@@ -32,7 +32,7 @@ Par. (4). Pub. L. 115–267, §2(b)(2)–(4), and Pub. L. 115–393, §202(b)(2)
 
 Pub. L. 109–248, which directed amendment of "Section 403(1) of the Comprehensive Crime Control Act of 1984 (42 U.S.C. 5772)" by substituting a semicolon at end for "if—" through subpar. (B), was executed by substituting a semicolon for "if—"and subpars. (A) and (B) of par. (1) of this section, which is section 403 of the Juvenile Justice and Delinquency Prevention Act of 1974, Pub. L. 93–415, as added by section 660 of the Comprehensive Crime Control Act of 1984, to reflect the probable intent of Congress. Prior to amendment, subpars. (A) and (B) read as follows:
 
-"(A) the circumstances surrounding such individual's disappearance indicate that such individual may possibly have been removed by another from the control ofsuch individual's legal custodian without such custodian's consent; or
+"(A) the circumstances surrounding such individual's disappearance indicate that such individual may possibly have been removed by another from the control of such individual's legal custodian without such custodian's consent; or
 
 "(B) the circumstances of the case strongly indicate that such individual is likely to be abused or sexually exploited;".
 

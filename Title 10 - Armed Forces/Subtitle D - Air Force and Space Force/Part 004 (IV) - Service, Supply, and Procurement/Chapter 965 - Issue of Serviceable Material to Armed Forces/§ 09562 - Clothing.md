@@ -20,6 +20,8 @@ R.S. 1296 (less 1st 9 words).
 
 The words "members of the Air Force" are substituted for the words "troops of the United States".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283 inserted "and members of the Space Force" after "the Air Force".

@@ -22,6 +22,8 @@
 
 (June 4, 1956, ch. 358, §3, 70 Stat. 242; Pub. L. 99–659, title IV, §405(a), Nov. 14, 1986, 100 Stat. 3737; Pub. L. 106–562, title III, §301, Dec. 23, 2000, 114 Stat. 2806.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Subsec. (a)(3). Pub. L. 106–562 added par. (3).
@@ -31,6 +33,8 @@
 &emsp;"(a) one shall be an official of the United States Government; and
 
 &emsp;"(b) two shall be persons residing in Great Lakes States, duly qualified by reason of knowledge of the fisheries of the Great Lakes, of whom one shall be an official of a Great Lakes State: <i>Provided, however</i>, That the Commissioners appointed under this subsection shall not be residents of the same State."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination and Transitional Service of Incumbent Commissioners
 

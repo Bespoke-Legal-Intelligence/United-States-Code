@@ -154,9 +154,13 @@ Out of any amounts of the Treasury not otherwise appropriated, there is appropri
 
 (Pub. L. 116–260, div. N, title VII, §762, Dec. 27, 2020, 134 Stat. 2111.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Consolidated Appropriations Act, 2021, and not as part of title I of Pub. L. 113–79 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definition
 

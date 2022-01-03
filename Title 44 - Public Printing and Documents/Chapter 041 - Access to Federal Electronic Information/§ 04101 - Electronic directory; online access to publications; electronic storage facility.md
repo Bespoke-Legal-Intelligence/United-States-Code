@@ -40,5 +40,5 @@ Pub. L. 103–40, §3, June 8, 1993, 107 Stat. 113, required the Public Printer 
 
 #### Operational Deadline
 
-Pub. L. 103–40, §4(a), June 8, 1993, 107 Stat. 113, provided that the electronic sites referred to in this section were to be operational not later than one year after June 8, 1993.
+Pub. L. 103–40, §4(a), June 8, 1993, 107 Stat. 113, provided that: "The directory, the system of access, and the electronic storage facility referred to in section 4101 of title 44, United States Code, as added by section 2(a), shall be operational not later than one year after the date of the enactment of this Act \[June 8, 1993\]."
 

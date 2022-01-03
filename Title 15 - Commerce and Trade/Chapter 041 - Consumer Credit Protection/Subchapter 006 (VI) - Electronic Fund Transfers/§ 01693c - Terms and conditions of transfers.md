@@ -42,6 +42,8 @@ For any account of a consumer made accessible to electronic fund transfers prior
 
 (Pub. L. 90–321, title IX, §905, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3730; amended Pub. L. 106–102, title VII, §703, Nov. 12, 1999, 113 Stat. 1464; Pub. L. 111–203, title X, §1084(1), July 21, 2010, 124 Stat. 2081.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For effective date of this subchapter, referred to in subsec. (c), see section 921 of Pub. L. 90–321, set out as an Effective Date note under section 1693 of this title.
@@ -51,6 +53,8 @@ For effective date of this subchapter, referred to in subsec. (c), see section 9
 <b>2010</b>—Subsecs. (a), (b). Pub. L. 111–203 substituted "Bureau" for "Board" wherever appearing.
 
 <b>1999</b>—Subsec. (a)(10). Pub. L. 106–102 added par. (10).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

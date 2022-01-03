@@ -50,9 +50,17 @@ In subsection (b)(3), the word "persons" is substituted for "parties" as being m
 
 In subsection (b)(6), the words "transportation objectives" are substituted for "these objectives" for clarity and consistency. The words "full and appropriate" and "for approval" are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Subsec. (b)(4). Pub. L. 102–240 inserted ", through research and development or otherwise" after "advances in transportation".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Short Title of 2021 Amendment
+
+Pub. L. 117–58, div. B, §20001, Nov. 15, 2021, 135 Stat. 652, provided that: "This division \[see Tables for classification\] may be cited as the 'Surface Transportation Investment Act of 2021'."
 
 #### Short Title of 2018 Amendment
 
@@ -91,6 +99,18 @@ Pub. L. 111–314, §4(d)(8), Dec. 18, 2010, 124 Stat. 3443, provided that: "In 
 #### Congressional Declaration of Policy Regarding National Intermodal Transportation System
 
 Pub. L. 102–240, §2, Dec. 18, 1991, 105 Stat. 1914, which provided that it was the policy of the United States to develop a National Intermodal Transportation System consisting of all forms of transportation in a unified, interconnected manner, a National Highway System, improvements in public transportation achieving goals for improved air quality, energy conservation, international competitiveness, and mobility for elderly persons, persons with disabilities, and economically disadvantaged persons, was repealed and reenacted as section 5501 of this title by Pub. L. 103–272, §§1(d), 7(b), July 5, 1994, 108 Stat. 848, 1379.
+
+#### Definitions of Terms in Div. B of Pub. L. 117–58
+
+Pub. L. 117–58, div. B, §20002, Nov. 15, 2021, 135 Stat. 652, provided that: "In this division \[see Short Title of 2021 Amendment note set out above\]:
+
+&emsp;"(1)
+
+Department.—The term 'Department' means the Department of Transportation.
+
+&emsp;"(2)
+
+Secretary.—The term 'Secretary' means the Secretary of Transportation."
 
 #### Definitions of Terms in Title I of Div. K of Pub. L. 115–254
 
@@ -136,6 +156,8 @@ Pub. L. 106–159, §2, Dec. 9, 1999, 113 Stat. 1749, provided that: "In this Ac
 
 Pub. L. 102–240, §3, Dec. 18, 1991, 105 Stat. 1915, provided that: "As used in this Act \[see Short Title of 1991 Amendment note set out above\], the term 'Secretary' means the Secretary of Transportation."
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 13330. Human Service Transportation Coordination
 
 Ex. Ord. No. 13330, Feb. 24, 2004, 69 F.R. 9185, provided:
@@ -152,7 +174,7 @@ Section 1. This order is issued consistent with the following findings and princ
 
 (d) A broad range of Federal program funding allows for the purchase or provision of transportation services and resources for persons who are transportation-disadvantaged. Yet, in too many communities, these services and resources are fragmented, unused, or altogether unavailable.
 
-(e) Federally assisted community transportation services should be seamless, comprehensive, and accessible to those who rely on them for their lives and livelihoods. For persons with mobility limitations relatedto advanced age, persons with disabilities, and persons struggling for self-sufficiency, transportation within and between our communities should be as available and affordable as possible.
+(e) Federally assisted community transportation services should be seamless, comprehensive, and accessible to those who rely on them for their lives and livelihoods. For persons with mobility limitations related to advanced age, persons with disabilities, and persons struggling for self-sufficiency, transportation within and between our communities should be as available and affordable as possible.
 
 (f) The development, implementation, and maintenance of responsive, comprehensive, coordinated community transportation systems is essential for persons with disabilities, persons with low incomes, and older adults who rely on such transportation to fully participate in their communities.
 

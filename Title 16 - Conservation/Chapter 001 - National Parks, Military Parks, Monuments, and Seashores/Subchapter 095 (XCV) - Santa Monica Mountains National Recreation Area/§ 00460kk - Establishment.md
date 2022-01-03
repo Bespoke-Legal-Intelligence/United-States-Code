@@ -22,13 +22,13 @@ There is hereby established the Santa Monica Mountains National Recreation Area 
 
 (B) The Secretary shall negotiate, and carry out, and exchange with the city of Los Angeles (acting through its department of water and power) certain federally owned lands managed by the Bureau of Land Management in the vicinity of the Haiwee Reservoir in Inyo County for certain lands owned by the city of Los Angeles which are associated with the Upper Franklin Reservoir in the city of Los Angeles. Lands acquired by the Secretary pursuant to such exchange shall be transferred without cost to the administrative jurisdiction of the National Park Service for inclusion within the recreation area. The Secretary shall include in such exchange a provision for an easement to be granted to the city of Los Angeles for the existing water pipeline associated with the Upper Franklin Reservoir and for the city of Los Angeles to provide for replacement water to maintain the water elevations of the Franklin Reservoir to the current levels. The values of lands exchanged under this provision shall be equal, or shall be equalized, in the same manner as provided in section 1716 of title 43.
 
-(C) The city shall assume full responsibility for the protection of cultural resources and shalldevelop a cultural resource management program for the public lands to be transferred to the city in the vicinity of the Haiwee Reservoir. The program shall be developed in consultation with the Secretary of the Interior, the California State Historic Preservation Officer, and the Advisory Council on Historic Preservation.
+(C) The city shall assume full responsibility for the protection of cultural resources and shall develop a cultural resource management program for the public lands to be transferred to the city in the vicinity of the Haiwee Reservoir. The program shall be developed in consultation with the Secretary of the Interior, the California State Historic Preservation Officer, and the Advisory Council on Historic Preservation.
 
 (3) The Administrator of the General Services Administration is hereby authorized and directed to transfer the site generally known as Nike Site 78 to the Secretary for inclusion in the recreation area: <i>Provided</i>, That the county of Los Angeles shall be permitted to continue to use without charge the facilities together with sufficient land as in the determination of the Secretary shall be necessary to continue to maintain and operate a fire suppression and training facility and shall be excused from payment for any use of the land and facilities on the site prior to November 10, 1978. At such time as the county of Los Angeles, California, relinquishes control of such facilities and adjacent land or ceases the operation of the fire suppression and training facility, the land and facilities shall be managed by the Secretary as a part of the recreation area.
 
 #### (d) Identification and revision of areas: public ownership for critical purposes; land and area plan: submission to Congressional committees
 
-(1) Within six months after November 10, 1978, the Secretary shall identify the lands, waters, and interests within the recreation area which must be acquired and held in public ownership for the following critical purposes: preservation of beaches and coastal uplands; protection of undeveloped inland stream drainage basins; connection of existing State and local government parks and other publicly owned lands to enhance their potential for public recreation use; protection of existing park roads and scenic corridors, including such right-of-way as is necessary for the protection of the Mulholland Scenic Parkway Corridor; protection of the public health and welfare; and development and interpretation of historic sites and recreation areas in connection therewith, to include, but not be limited to, parks, picnic areas, scenic overlooks, hiking trails, bicycle trails, and equestrian trails. The Secretary may from time to time revise the identification of such areas, and any such revisions shall become effective in the same manner as herein provided for revisions in the boundaries of the recreation area.
+(1) Within six months after November 10, 1978, the Secretary shall identify the lands, waters, and interests within the recreation area which must be acquired and held in public ownership for the following critical purposes: preservation of beaches and coastal uplands; protection of undeveloped inland stream drainage basins; connection of existing State and local government parks and other publicly owned lands to enhance their potential for public recreation use; protection of existing park roads and scenic corridors, including such right-of-way as is necessary for the protection of the Mulholland Scenic Parkway Corridor; protection of the public healthand welfare; and development and interpretation of historic sites and recreation areas in connection therewith, to include, but not be limited to, parks, picnic areas, scenic overlooks, hiking trails, bicycle trails, and equestrian trails. The Secretary may from time to time revise the identification of such areas, and any such revisions shall become effective in the same manner as herein provided for revisions in the boundaries of the recreation area.
 
 (2) By January 1, 1980, the Secretary shall submit, in writing, to the committees referred to in subsection (c) and to the Committees on Appropriations of the United States Congress a detailed plan which shall indicate—
 
@@ -56,7 +56,7 @@ For the purposes of this section, the term "improved property" means—
 
 #### (g) Owner's reservation of right of use and occupancy for fixed term of years or life; election of term; fair market value; termination; notification
 
-The owner of an improved property, as defined in this section, on the date of its acquisition, as a condition of such acquisition, may retain for herself or himself, her or his heirs and assigns, a right of use and occupancy of the improved property for noncommercial residential or agriculture purposes, as the case may be, for a definite term of not more than twenty-five years, or, in lieu thereof, for a term ending at the death of the owner or the death of her or his spouse, whichever is later. The owner shall elect the term to be reserved. Unless the property is wholly or partially donated, the Secretary shall pay to the owner the fair market value of the property on the date of its acquisition, less the fair market value on that date of the right retained by the owner. A right retained by the owner pursuant to this section shall be subject to termination by the Secretary upon his determination that it is being exercised in a manner inconsistent with the purposes of this section, and it shall terminate by operation of law upon notification by the Secretary to the holder of the right of such determination and tendering tohim the amount equal to the fair market value of that portion which remains unexpired.
+The owner of an improved property, as defined in this section, on the date of its acquisition, as a condition of such acquisition, may retain for herself or himself, her or his heirs and assigns, a right of use and occupancy of the improved property for noncommercial residential or agriculture purposes, as the case may be, for a definite term of not more than twenty-five years, or, in lieu thereof, for a term ending at the death of the owner or the death of her or his spouse, whichever is later. The owner shall elect the term to be reserved. Unless the property is wholly or partially donated, the Secretary shall pay to the owner the fair market value of the property on the date of its acquisition, less the fair market value on that date of the right retained by the owner. A right retained by the owner pursuant to this section shall be subject to termination by the Secretary upon his determination that it is being exercised in a manner inconsistent with the purposes of this section, and it shall terminate by operation of law upon notification by the Secretary to the holder of the right of such determination and tendering to him the amount equal to the fair market value of that portion which remains unexpired.
 
 #### (h) Hardship sale offers
 
@@ -72,7 +72,7 @@ The Secretary may enter into cooperative agreements with the State of California
 
 #### (k) Donations
 
-Notwithstanding any other provision of law, the Secretary is authorized to accept donations of funds, property, or services from individuals, foundations, corporations, or public entities for the purpose of land acquisition and providing services and facilities which the Secretary deems consistent with the purposes of this section.
+Notwithstanding any other provision of law, the Secretary is authorized to accept donationsof funds, property, or services from individuals, foundations, corporations, or public entities for the purpose of land acquisition and providing services and facilities which the Secretary deems consistent with the purposes of this section.
 
 #### (l) Report of Advisory Commission to Secretary
 
@@ -110,7 +110,7 @@ The Secretary, after giving careful consideration to the recommendations set for
 
 &emsp;(A) the planning commission has afforded adequate opportunity, including public hearings, for public involvement in the preparation and review of the plan, and public comments were received and considered in the plan or revision as presented to him;
 
-&emsp;(B) the State and local units of government identified in the plan as responsible for implementing its provisions have the necessary authority to implement the plan and such Stateand local units of government have indicated their intention to use such authority to implement the plan;
+&emsp;(B) the State and local units of government identified in the plan as responsible for implementing its provisions have the necessary authority to implement the plan and such State and local units of government have indicated their intention to use such authority to implement the plan;
 
 &emsp;(C) the plan, if implemented, would preserve significant natural, historical, and archeological benefits and, consistent with such benefits, provide increased recreational opportunities for persons residing in the greater Los Angeles-southern California metropolitan area; and
 
@@ -122,7 +122,7 @@ The Secretary, after giving careful consideration to the recommendations set for
 
 &emsp;(A) provide grants to the State and through the State to local governmental bodies for acquisition of lands, waters, and interests therein identified in paragraph (2)(B), and for development of essential public facilities, except that such grants shall be made only for the acquisition of lands, waters, and interests therein, and related essential public facilities, for park, recreation, and conservation purposes; and
 
-&emsp;(B) provide, subject to agreements that in the opinion of the Secretary will assure additional preservation of the lands and waters of the zone, such funds as may be necessary to retire bonded indebtedness for water and sewer and other utilities already incurred by property owners which in the opinion of the Secretary would if left outstanding contribute to further development of the zone in a manner inconsistent with the approved plan developed by the planning commission.
+&emsp;(B) provide, subject to agreements that in the opinion of the Secretary will assure additional preservation of the lands and waters of the zone, such funds as may be necessary to retire bonded indebtedness for water and sewer and other utilities already incurred by property owners which in the opinion of the Secretary would if left outstanding contribute to further development of the zone in a mannerinconsistent with the approved plan developed by the planning commission.
 
 > No grant for acquisition of land may be made under subparagraph (A) unless the Secretary receives satisfactory assurances that such lands acquired under subparagraph (A) shall not be converted to other than park, recreation, and conservation purposes without the approval of the Secretary and without provision for suitable replacement land.
 
@@ -182,6 +182,8 @@ Within two years from the date of establishment of the recreation area pursuant 
 
 (Pub. L. 95–625, title V, §507, Nov. 10, 1978, 92 Stat. 3501; Pub. L. 96–87, title IV, §401(j), Oct. 12, 1979, 93 Stat. 666; Pub. L. 96–199, title I, §118, Mar. 5, 1980, 94 Stat. 71; Pub. L. 98–572, Oct. 30, 1984, 98 Stat. 2946; Pub. L. 103–437, §6(d)(5), Nov. 2, 1994, 108 Stat. 4583; Pub. L. 107–236, §§2, 3, Oct. 9, 2002, 116 Stat. 1483.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsecs. (i) and (q)(4), means Pub. L. 95–625, Nov. 10, 1978, 92 Stat. 3467, known as the National Parks and Recreation Act of 1978. For complete classification of this Act to the Code, see Tables.
@@ -205,6 +207,8 @@ Subsec. (n)(5). Pub. L. 107–236, §3(3), substituted "laws," for "laws" in sec
 <b>1980</b>—Subsec. (q)(2)(E). Pub. L. 96–199 increased from 5 to 9 the number of members appointed by the Secretary of the Interior.
 
 <b>1979</b>—Subsec. (f)(1). Pub. L. 96–87 substituted "construction of which was begun before January 1, 1978" for "construction of which was begun before January 1, 1976".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Anthony C. Beilenson Visitor Center
 

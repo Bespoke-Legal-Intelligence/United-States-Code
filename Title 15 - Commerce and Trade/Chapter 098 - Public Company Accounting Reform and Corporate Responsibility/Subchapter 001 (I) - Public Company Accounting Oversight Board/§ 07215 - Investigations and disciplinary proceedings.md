@@ -122,7 +122,7 @@ The Board shall establish, by rule, subject to the requirements of this section,
 
 #### (2) Public hearings
 
-&emsp;Hearings under this section shall not be public, unless otherwise ordered by the Board for good cause shown, with the consent of the parties to such hearing.
+&emsp;Hearings under this section shall not be public, unless otherwise ordered by the Board forgood cause shown, with the consent of the parties to such hearing.
 
 #### (3) Supporting statement
 
@@ -186,11 +186,11 @@ The Board shall establish, by rule, subject to the requirements of this section,
 
 #### (A) Association with a public accounting firm
 
-&emsp;&emsp;It shall be unlawful for any person that is suspended or barred from being associated with a registered public accounting firmunder this subsection willfully to become or remain associated with any registered public accounting firm, or for any registered public accounting firm that knew, or, in the exercise of reasonable care should have known, of the suspension or bar, to permit such an association, without the consent of the Board or the Commission.
+&emsp;&emsp;It shall be unlawful for any person that is suspended or barred from being associated with a registered public accounting firm under this subsection willfully to become or remain associated with any registered public accounting firm, or for any registered public accounting firm that knew, or, in the exercise of reasonable care should have known, of the suspension or bar, to permit such an association, without the consent of the Board or the Commission.
 
 #### (B) Association with an issuer, broker, or dealer
 
-&emsp;&emsp;It shall be unlawful for any person that is suspended or barred from being associated with a registered public accounting firm under this subsection willfully to become or remain associated with any issuer, broker, or dealer in an accountancy or a financial management capacity, and for any issuer, broker, or dealer that knew, or in the exercise of reasonable care should have known, of such suspension or bar, to permit such an association, without the consent of the Board or the Commission.
+&emsp;&emsp;It shall be unlawful for any person that is suspended or barred from being associated with a registered public accounting firm under this subsection willfully to become or remain associated with any issuer, broker, or dealer in an accountancy or a financial management capacity, and for any issuer, broker, or dealer that knew, or in the exercise of reasonable care should have known, of such suspension or bar, to permit such anassociation, without the consent of the Board or the Commission.
 
 #### (d) Reporting of sanctions
 
@@ -226,6 +226,8 @@ The Board shall establish, by rule, subject to the requirements of this section,
 
 (Pub. L. 107–204, title I, §105, July 30, 2002, 116 Stat. 759; Pub. L. 110–289, div. A, title I, §1161(h), July 30, 2008, 122 Stat. 2781; Pub. L. 111–203, title IX, §§929F(h), 981(b), (c), 982(f), (i), (j), July 21, 2010, 124 Stat. 1855, 1926, 1927, 1929–1931.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsecs. (b)(1), (5)(B)(ii), (C)(i), (6) and (c)(3)(B), (4), (6)(A), is Pub. L. 107–204, July 30, 2002, 116 Stat. 745, known as the Sarbanes-Oxley Act of 2002. For complete classification of this Act to the Code, see Tables.
@@ -249,6 +251,8 @@ Subsec. (c)(6)(B). Pub. L. 111–203, §929F(h)(2), in introductory provisions, 
 Subsec. (c)(7)(B). Pub. L. 111–203, §982(f), in heading, inserted ", broker, or dealer" after "issuer" and, in text, substituted "a registered public accounting firm under this subsection" for "an issuer under this subsection" and "any issuer, broker, or dealer" for "any issuer" in two places.
 
 <b>2008</b>—Subsec. (b)(5)(B)(ii)(II). Pub. L. 110–289 inserted "and the Director of the Federal Housing Finance Agency," after "Commission,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

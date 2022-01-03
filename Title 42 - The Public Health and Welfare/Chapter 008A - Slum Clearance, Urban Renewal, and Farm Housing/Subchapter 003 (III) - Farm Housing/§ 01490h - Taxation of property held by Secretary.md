@@ -10,9 +10,13 @@ All property subject to a lien held by the United States or the title to which i
 
 (July 15, 1949, ch. 338, title V, §528, as added Pub. L. 95–128, title V, §512(a), Oct. 12, 1977, 91 Stat. 1142; amended Pub. L. 98–479, title II, §204(c)(3), Oct. 17, 1984, 98 Stat. 2233.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Pub. L. 98–479 substituted "property held by Secretary" for "Farmers Home Administration-held property" in section catchline.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

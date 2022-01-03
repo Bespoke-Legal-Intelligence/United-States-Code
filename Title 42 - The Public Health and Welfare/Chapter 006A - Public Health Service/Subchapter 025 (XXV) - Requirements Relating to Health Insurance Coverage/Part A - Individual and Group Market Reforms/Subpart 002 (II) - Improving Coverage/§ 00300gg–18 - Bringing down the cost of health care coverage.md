@@ -2,7 +2,7 @@
 
 #### (a) Clear accounting for costs
 
-A health insurance issuer offering group or individual health insurance coverage (including a grandfathered health plan) shall, with respect to each plan year, submit to the Secretary a report concerning the ratio of the incurred loss (or incurred claims) plus the loss adjustment expense (or change in contract reserves) to earned premiums. Such report shall include the percentage of total premium revenue, after accounting for collections or receipts for risk adjustment and risk corridors and payments of reinsurance, that such coverage expends—
+A health insurance issuer offering group or individual health insurance coverage (including a grandfathered health plan) shall, with respect to each plan year, submit to the Secretary a report concerning the ratio of the incurred loss (or incurred claims) plus the loss adjustment expense (or change in contract reserves) to earned premiums. Such report shall include the percentage of total premium revenue, after accounting forcollections or receipts for risk adjustment and risk corridors and payments of reinsurance, that such coverage expends—
 
 &emsp;(1) on reimbursement for clinical services provided to enrollees under such coverage;
 
@@ -60,11 +60,15 @@ Each hospital operating within the United States shall for each year establish (
 
 (July 1, 1944, ch. 373, title XXVII, §2718, as added and amended Pub. L. 111–148, title I, §1001(5), title X, §10101(f), Mar. 23, 2010, 124 Stat. 136, 885.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–148, §10101(f), amended section generally. Prior to amendment, the section related to clear accounting for costs, ensuring that consumers receive value for premiums, standard hospital charges, and definitions.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Section effective for plan years beginning on or after the date that is 6 months after Mar. 23, 2010, see section 1004 of Pub. L. 111–148, set out as a note under section 300gg–11 of this title.
+Section effective for plan years beginning on or after the date that is 6 months after Mar. 23, 2010, see section1004 of Pub. L. 111–148, set out as a note under section 300gg–11 of this title.
 

@@ -22,7 +22,7 @@ If the terms of any federally related mortgage loan require the borrower to make
 
 #### (B) Time of submission
 
-&emsp;&emsp;The statement required under subparagraph (A) shall be submitted to the borrower at closing with respect to the property for which the mortgage loan is made or notlater than the expiration of the 45-day period beginning on the date of the establishment of the escrow account.
+&emsp;&emsp;The statement required under subparagraph (A) shall be submitted to the borrower at closing with respect to the property for which the mortgage loan is made or not later than the expiration of the 45-day period beginning on the date of the establishment of the escrow account.
 
 #### (C) Initial statement at closing
 
@@ -32,7 +32,7 @@ If the terms of any federally related mortgage loan require the borrower to make
 
 #### (A) In general
 
-&emsp;&emsp;Any servicer that has established or continued an escrow account in connection with a federally related mortgage loan shall submit to the borrower for which the escrow account has been established or continued a statement clearly itemizing, for each period described in subparagraph (B) (during which the servicer services the escrow account), the amount of the borrower's current monthly payment, the portion of the monthly payment being placed in the escrow account, the total amount paid into the escrow account during the period, the total amount paid out of the escrow account during the period for taxes, insurance premiums, and other charges (as separately identified), and the balance in the escrow account at the conclusion of the period.
+&emsp;&emsp;Any servicer that has established or continued an escrow account in connection witha federally related mortgage loan shall submit to the borrower for which the escrow account has been established or continued a statement clearly itemizing, for each period described in subparagraph (B) (during which the servicer services the escrow account), the amount of the borrower's current monthly payment, the portion of the monthly payment being placed in the escrow account, the total amount paid into the escrow account during the period, the total amount paid out of the escrow account during the period for taxes, insurance premiums, and other charges (as separately identified), and the balance in the escrow account at the conclusion of the period.
 
 #### (B) Time of submission
 

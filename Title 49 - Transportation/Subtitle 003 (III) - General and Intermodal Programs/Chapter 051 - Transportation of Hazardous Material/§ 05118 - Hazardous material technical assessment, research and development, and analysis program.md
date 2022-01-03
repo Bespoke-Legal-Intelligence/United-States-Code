@@ -58,6 +58,8 @@ Research.—Research conducted under this subsection may include activities rela
 
 (Added Pub. L. 112–141, div. C, title III, §33007(a), July 6, 2012, 126 Stat. 835; amended Pub. L. 114–94, div. A, title VI, §6014, Dec. 4, 2015, 129 Stat. 1570.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 5118, Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 777; Pub. L. 108–426, §2(c)(2), Nov. 30, 2004, 118 Stat. 2424, related to employment of additional hazardous material safety inspectors, prior to repeal by Pub. L. 109–59, title VII, §7115(h), Aug. 10, 2005, 119 Stat. 1901.
@@ -67,6 +69,8 @@ A prior section 5118, Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 777; Pu
 <b>2015</b>—Subsec. (a)(2)(C). Pub. L. 114–94, §6014(1), added subpar. (C).
 
 Subsec. (c). Pub. L. 114–94, §6014(2), added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

@@ -62,6 +62,8 @@ Any election under this subchapter, and any revocation under section 1362(d)(1),
 
 (Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1685; amended Pub. L. 104–188, title I, §§1306–1307(b), Aug. 20, 1996, 110 Stat. 1780; Pub. L. 108–311, title IV, §407(a), Oct. 4, 2004, 118 Stat. 1190.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1377, added Pub. L. 85–866, title I, §64(a), Sept. 2, 1958, 72 Stat. 1656; amended Pub. L. 94–455, title IX, §902(b)(1), title XIX, §1901(b)(32)(B)(iv), Oct. 4, 1976, 90 Stat. 1608, 1800, related to special rules applicable to earnings and profits of electing small business corporations, prior to the general revision of this subchapter by section 2 of Pub. L. 97–354.
@@ -80,9 +82,11 @@ Subsec. (b)(2)(A) to (C). Pub. L. 104–188, §1307(b), added subpar. (A), redes
 
 "(B) a closing agreement, or".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–311 effective as if included in the provisions of the Small Business Job ProtectionAct of 1996, Pub. L. 104–188, to which such amendment relates, see section 407(c) of Pub. L. 108–311, set out as a note under section 401 of this title.
+Amendment by Pub. L. 108–311 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which such amendment relates, see section 407(c) of Pub. L. 108–311, set out as a note under section 401 of this title.
 
 #### Effective Date of 1996 Amendments
 

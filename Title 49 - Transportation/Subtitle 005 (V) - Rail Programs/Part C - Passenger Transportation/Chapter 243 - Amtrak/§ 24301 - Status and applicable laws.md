@@ -58,7 +58,7 @@ Exemption From Additional Taxes.—(1) In this subsection—
 
 &emsp;(B) "Amtrak" includes a rail carrier subsidiary of Amtrak and a lessor or lessee of Amtrak or one of its rail carrier subsidiaries.
 
-(2) Amtrak is not required to pay an additional tax because of an expenditure to acquire or improve real property, equipment, a facility, or right-of-way material or structures used in providing rail passenger transportation, even if that use is indirect.
+(2) Amtrak is not required to pay an additional tax because of an expenditure to acquire or improve real property, equipment, a facility,or right-of-way material or structures used in providing rail passenger transportation, even if that use is indirect.
 
 (l)
 
@@ -246,6 +246,8 @@ In subsection (m)(2), the word "vehicles" is substituted for "conveyances" for c
 
 In subsection (n), the words "uniformed services" are substituted for "Armed Forces or commissioned services" for consistency in the revised title and with other titles of the Code.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 20102(2), referred to in subsec. (a)(1), was redesignated section 20102(3) by Pub. L. 110–432, div. A, §2(b)(1), Oct. 16, 2008, 122 Stat. 4850.
@@ -294,7 +296,7 @@ Subsec. (e). Pub. L. 105–134, §110(a), inserted at end "Section 552 of title 
 
 Subsec. (f). Pub. L. 105–134, §106(b), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: "The laws of the District of Columbia govern leases and contracts of Amtrak, regardless of where they are executed."
 
-Subsec. (l)(1). Pub. L. 105–134, §208, inserted heading and substituted in text "Amtrak, a rail carrier subsidiary of Amtrak, and any passenger or other customer of Amtrak or such subsidiary, are" for "Amtrak or a rail carrier subsidiary of Amtrak is", "tax, fee, head charge, or other charge, imposed or levied by aState, political subdivision, or local taxing authority on Amtrak, a rail carrier subsidiary of Amtrak, or on persons traveling in intercity rail passenger transportation or on mail or express transportation provided by Amtrak or such a subsidiary, or on the carriage of such persons, mail, or express, or on the sale of any such transportation, or on the gross receipts derived therefrom" for "tax or fee imposed by a State, a political subdivision of a State, or a local taxing authority and levied on it", and "In the case of a tax or fee that Amtrak was required to pay as of September 10, 1982, Amtrak is not exempt from such tax or fee if it was assessed before April 1, 1997." for "However, Amtrak is not exempt under this subsection from a tax or fee that it was required to pay as of September 10, 1982."
+Subsec. (l)(1). Pub. L. 105–134, §208, inserted heading and substituted in text "Amtrak, a rail carrier subsidiary of Amtrak, and any passenger or other customer of Amtrak or such subsidiary, are" for "Amtrak or a rail carrier subsidiary of Amtrak is", "tax, fee, head charge, or other charge, imposed or levied by a State, political subdivision, or local taxing authority on Amtrak, a rail carrier subsidiary of Amtrak, or on persons traveling in intercity rail passenger transportation or on mail or express transportation provided by Amtrak or such a subsidiary, or on the carriage of suchpersons, mail, or express, or on the sale of any such transportation, or on the gross receipts derived therefrom" for "tax or fee imposed by a State, a political subdivision of a State, or a local taxing authority and levied on it", and "In the case of a tax or fee that Amtrak was required to pay as of September 10, 1982, Amtrak is not exempt from such tax or fee if it was assessed before April 1, 1997." for "However, Amtrak is not exempt under this subsection from a tax or fee that it was required to pay as of September 10, 1982."
 
 Subsec. (m)(1)(A). Pub. L. 105–134, §402, substituted "2001" for "1996".
 
@@ -305,6 +307,8 @@ Subsec. (c)(2)(A). Pub. L. 104–88, §308(g)(1)(B), substituted "section 10721 
 Subsec. (c)(2)(B). Pub. L. 104–88, §308(g)(1)(C), substituted "Transportation Board under part A of subtitle IV" for "Interstate Commerce Commission under any provision of subtitle IV of this title applicable to a carrier subject to subchapter I of chapter 105".
 
 Subsec. (d). Pub. L. 104–88, §308(g)(2), substituted "rail carrier subject to part A of subtitle IV" for "common carrier subject to subchapter I of chapter 105".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1995 Amendment
 

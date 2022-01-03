@@ -30,9 +30,13 @@ July 3, 1944, ch. 399, §2 (as applicable to duration of stay), 58 Stat. 724.
 
 July 3, 1944, ch. 399, §4 (8th sentence and proviso of 9th sentence), 58 Stat. 724.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7727 of this title as this section and substituted "section 8895 or 8896" for "section 7725 or 7726".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

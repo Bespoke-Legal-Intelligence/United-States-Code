@@ -10,9 +10,13 @@ Continuation of Authority To Administer Program for Existing Federal Credit Inst
 
 (Added Pub. L. 106–181, title II, §210(a), Apr. 5, 2000, 114 Stat. 101.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this subchapter, referred to in subsec. (a), is the date of enactment of Pub. L. 106–181, which was approved Apr. 5, 2000.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

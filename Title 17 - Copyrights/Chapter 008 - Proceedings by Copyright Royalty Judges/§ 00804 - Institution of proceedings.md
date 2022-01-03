@@ -64,9 +64,9 @@ Section 1004 proceedings.—A petition described in subsection (a) to initiate p
 
 &emsp;(8)
 
-Proceedings concerning distribution of royalty fees.—With respect to proceedings under section 801(b)(3) concerning the distribution of royalty fees in certain circumstancesunder section 111, 119, or 1007, the Copyright Royalty Judges shall, upon a determination that a controversy exists concerning such distribution, cause to be published in the Federal Register notice of commencement of proceedings under this chapter.
+Proceedings concerning distribution of royalty fees.—With respect to proceedings under section 801(b)(3) concerning the distribution of royalty fees in certain circumstances under section 111, 119, or 1007, the Copyright Royalty Judges shall, upon a determination that a controversy exists concerning such distribution, cause to be published in the Federal Register notice of commencement of proceedings under this chapter.
 
-(Added Pub. L. 108–419, §3(a), Nov. 30, 2004, 118 Stat. 2357; amended Pub. L. 109–303, §3(12), (13), Oct. 6, 2006, 120 Stat. 1481; Pub. L. 111–175, title I, §104(f), May 27, 2010, 124 Stat. 1238; Pub. L. 115–264, title I, §103(g)(4), (i), Oct. 11, 2018, 132 Stat. 3725.)
+(Added Pub. L. 108–419, §3(a), Nov. 30, 2004, 118 Stat. 2357; amended Pub. L. 109–303, §3(12), (13), Oct. 6, 2006, 120 Stat. 1481; Pub. L. 111–175, titleI, §104(f), May 27, 2010, 124 Stat. 1238; Pub. L. 115–264, title I, §103(g)(4), (i), Oct. 11, 2018, 132 Stat. 3725.)
 
 #### <b>Editorial Notes</b>
 

@@ -36,9 +36,13 @@
 
 (Pub. L. 90–321, title I, §187, as added Pub. L. 104–208, div. A, title II, §2605(b)(1), Sept. 30, 1996, 110 Stat. 3009–471; amended Pub. L. 111–203, title X, §1100A(2), (10), July 21, 2010, 124 Stat. 2107, 2109.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–203, §1100A(2), (10), substituted "Bureau" for "Board", "the Bureau" for "the Board", and "The Bureau" for "The Board " wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 
@@ -62,7 +66,7 @@ Shorter period.—The Board may shorten the time period referred to in subparagr
 
 "(D)
 
-Compliance before effective date.—Any lessor may comply with any means of disclosure provided for in section 127 \[187\] of the Truth in Lending Act (asadded by paragraph (1) of this subsection) before the effective date of such requirement.
+Compliance before effective date.—Any lessor may comply with any means of disclosure provided for in section 127 \[187\] of the Truth in Lending Act (as added by paragraph (1) of this subsection) before the effective date of such requirement.
 
 "(E)
 

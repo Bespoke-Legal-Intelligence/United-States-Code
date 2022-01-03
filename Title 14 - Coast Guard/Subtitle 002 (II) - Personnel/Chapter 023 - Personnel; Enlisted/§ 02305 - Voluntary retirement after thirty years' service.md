@@ -22,5 +22,3 @@ The authority to approve was granted to the Commandant in lieu of the Secretary.
 
 <b>1984</b>—Pub. L. 98–557 substituted reference to enlisted member for reference to enlisted man.
 
-i
-

@@ -4,7 +4,7 @@
 
 #### (1) Subgrants
 
-&emsp;A local educational agency may receive a subgrant under this part for any fiscal year only if such agency has on file with the State educational agency a plan, approved by the State educational agency, that—
+&emsp;A local educational agency may receive a subgrant under this part for any fiscal yearonly if such agency has on file with the State educational agency a plan, approved by the State educational agency, that—
 
 &emsp;&emsp;(A) is developed with timely and meaningful consultation with teachers, principals, other school leaders, paraprofessionals, specialized instructional support personnel, charter school leaders (in a local educational agency that has charter schools), administrators (including administrators of programs described in other parts of this subchapter), other appropriate school personnel, and with parents of children in schools served under this part; and
 
@@ -54,7 +54,7 @@ To ensure that all children receive a high-quality education, and to close the a
 
 &emsp;&emsp;(D) identifying and implementing instructional and other strategies intended to strengthen academic programs and improve school conditions for student learning;
 
-&emsp;(2) how the local educational agency will identify and address, as required under Stateplans as described in section 6311(g)(1)(B) of this title, any disparities that result in low-income students and minority students being taught at higher rates than other students by ineffective, inexperienced, or out-of-field teachers;
+&emsp;(2) how the local educational agency will identify and address, as required under State plans as described in section 6311(g)(1)(B) of this title, any disparities that result in low-income students and minority students being taught at higher rates than other students by ineffective, inexperienced, or out-of-field teachers;
 
 &emsp;(3) how the local educational agency will carry out its responsibilities under paragraphs (1) and (2) of section 6311(d) of this title;
 
@@ -192,7 +192,7 @@ For local educational agencies using funds under this part for the purposes desc
 
 &emsp;&emsp;&emsp;(ii) the child's level of English proficiency, how such level was assessed, and the status of the child's academic achievement;
 
-&emsp;&emsp;&emsp;(iii) the methods of instruction used in the program in which their child is, or will be, participating and the methods of instruction used in other available programs, including how such programs differ in content, instructional goals, and the use of English and a native language in instruction;
+&emsp;&emsp;&emsp;(iii) the methods of instruction used in the program in which their child is, or willbe, participating and the methods of instruction used in other available programs, including how such programs differ in content, instructional goals, and the use of English and a native language in instruction;
 
 &emsp;&emsp;&emsp;(iv) how the program in which their child is, or will be, participating will meet the educational strengths and needs of their child;
 
@@ -244,6 +244,8 @@ For local educational agencies using funds under this part for the purposes desc
 
 (Pub. L. 89–10, title I, §1112, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1462; amended Pub. L. 107–279, title IV, §404(d)(2), Nov. 5, 2002, 116 Stat. 1985; Pub. L. 109–270, §2(f)(2), Aug. 12, 2006, 120 Stat. 747; Pub. L. 110–134, §29(a), Dec. 12, 2007, 121 Stat. 1448; Pub. L. 114–95, title I, §1006, Dec. 10, 2015, 129 Stat. 1852.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Individuals with Disabilities Education Act, referred to in subsec. (a)(1)(B), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
@@ -256,7 +258,7 @@ The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(1)(B), 
 
 The Head Start Act, referred to in subsec. (a)(1)(B), is subchapter B (§635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 
-The McKinney-Vento Homeless Assistance Act, referred to in subsecs. (a)(1)(B) and (b)(6), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, which is classified principally to chapter 119 (§11301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
+The McKinney-Vento Homeless Assistance Act, referred to in subsecs. (a)(1)(B) and (b)(6), is Pub. L.100–77, July 22, 1987, 101 Stat. 482, which is classified principally to chapter 119 (§11301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
 
 The Adult Education and Family Literacy Act, referred to in subsec. (a)(1)(B), is title II of Pub. L. 113–128, July 22, 2014, 128 Stat. 1608, which is classified generally to subchapter II (§3271 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
@@ -275,6 +277,8 @@ Subsec. (c)(2)(B). Pub. L. 110–134, §29(a)(2), substituted "education perform
 <b>2006</b>—Subsec. (a)(1). Pub. L. 109–270 substituted "Carl D. Perkins Career and Technical Education Act of 2006" for "Carl D. Perkins Vocational and Technical Education Act of 1998".
 
 <b>2002</b>—Subsec. (b)(1)(F). Pub. L. 107–279 substituted "section 9622(b)(2) of this title" for "section 9010(b)(2) of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

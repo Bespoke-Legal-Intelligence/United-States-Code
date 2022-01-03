@@ -38,9 +38,11 @@ The President may waive the requirements of this section, and any parts thereof,
 
 #### (e) Sense of Congress
 
-It is the sense of Congress that a central feature of counter proliferation activities, consistent with the President's Proliferation Security Initiative, should include the physicalinterdiction, by air, sea, or land, of weapons of mass destruction, their delivery systems, and related materials and technologies, and enhanced law enforcement activities to identify and disrupt proliferation networks, activities, organizations, and persons.
+It is the sense of Congress that a central feature of counter proliferation activities, consistent with the President's Proliferation Security Initiative, should include the physical interdiction, by air, sea, or land, of weapons of mass destruction, their delivery systems, and related materials and technologies, and enhanced law enforcement activities to identify and disrupt proliferation networks, activities, organizations, and persons.
 
 (July 26, 1947, ch. 343, title I, §119A, as added Pub. L. 108–458, title I, §1022, Dec. 17, 2004, 118 Stat. 3675; amended Pub. L. 111–259, title IV, §407(a), Oct. 7, 2010, 124 Stat. 2721.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -56,11 +58,15 @@ Section was formerly classified to section 404o–1 of this title prior to edito
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–259 designated existing provisions as par. (1), substituted "The" for "Not later than 18 months after December 17, 2004, the", and added pars. (2) and (3).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 For Determination by President that section take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of this title.
 
 Section effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 3001 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

@@ -64,7 +64,7 @@
 
 &emsp;A member of a board under this subsection—
 
-&emsp;&emsp;(A) may, at the discretion of the Commission, be reimbursed for actual and necessaryexpenses incurred in the performance of the official duties of the board from any funds available to the Commission in accordance with applicable Senate regulations for such expenses; and
+&emsp;&emsp;(A) may, at the discretion of the Commission, be reimbursed for actual and necessary expenses incurred in the performance of the official duties of the board from any funds available to the Commission in accordance with applicable Senate regulations for such expenses; and
 
 &emsp;&emsp;(B) shall not, by virtue of such member's service on the board, be deemed to be an officer, employee, or agent of the Senate and may not bind the Senate in any contract or obligation.
 

@@ -48,7 +48,7 @@ For the purposes of this chapter—
 
 #### References in Text
 
-Section 1831f(f)(1) of this title, referred to in par. (5)(A), was redesignated section 1831f(g)(1) of this titleby Pub. L. 102–242, title III, §301(a)(4), Dec. 19, 1991, 105 Stat. 2344.
+Section 1831f(f)(1) of this title, referred to in par. (5)(A), was redesignated section 1831f(g)(1) of this title by Pub. L. 102–242, title III, §301(a)(4), Dec. 19, 1991, 105 Stat. 2344.
 
 This chapter, referred to in par. (6), was in the original "this title", and was translated as meaning "this subtitle", which is subtitle F of title II of Pub. L. 102–242, Dec. 19, 1991, 105 Stat. 2334, which enacted this chapter, to reflect the probable intent of Congress.
 

@@ -1,6 +1,6 @@
 ### §5122. Payment to depositors
 
-(a) The Secretary of the Treasury shall determine the fineness, weight, and value of each deposit and bar under section 5121 of this title. Thevalue and the amount of charges under subsection (b) of this section shall be based on the fineness and weight of the bullion. The Secretary shall give the depositor a statement of the charges and the net amount of the deposit to be paid in money or bars of the same species of bullion as that deposited.
+(a) The Secretary of the Treasury shall determine the fineness, weight, and value of each deposit and bar under section 5121 of this title. The value and the amount of charges under subsection (b) of this section shall be based on the fineness and weight of the bullion. The Secretary shall give the depositor a statement of the charges and the net amount of the deposit to be paid in money or bars of the same species of bullion as that deposited.
 
 (b) The Secretary shall impose a charge equal to the average cost of material, labor, waste, and use of machinery of a United States mint or assay office for—
 
@@ -72,5 +72,5 @@ In subsection (b), the words "Secretary shall impose a charge" are substituted f
 
 In subsection (c), the words "person designated by the depositor" are substituted for "his order" for clarity. The words "an unavoidable delay in determining the value of a deposit" are substituted for "delay in manipulating a refractory deposit, or for any other unavoidable cause" in 31:357 for clarity.
 
-In subsection (d), the words "the Secretary to pay depositors" are substituted for "the several mints and assay offices of the United States to make returns to depositors" because of the source provisions restated in section 321(c) of the revised title. The words "when the state of the Treasury will admit thereof" are omitted as surplus. The words "under such rules and regulations as may be prescribed by the said Secretary" are omitted as unnecessary because of section 321(b) of the revised title. The text of 31:358(last sentence) is omitted as surplus.
+In subsection (d), the words "the Secretary to pay depositors" are substituted for "the several mints andassay offices of the United States to make returns to depositors" because of the source provisions restated in section 321(c) of the revised title. The words "when the state of the Treasury will admit thereof" are omitted as surplus. The words "under such rules and regulations as may be prescribed by the said Secretary" are omitted as unnecessary because of section 321(b) of the revised title. The text of 31:358(last sentence) is omitted as surplus.
 

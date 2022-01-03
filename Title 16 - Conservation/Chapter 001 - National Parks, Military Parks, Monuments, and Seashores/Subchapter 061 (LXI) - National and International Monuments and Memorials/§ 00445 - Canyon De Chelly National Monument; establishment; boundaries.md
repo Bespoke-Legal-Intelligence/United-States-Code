@@ -6,9 +6,13 @@ All lands in Del Muerto, De Chelly, and Monument Canyons, in the canyons tributa
 
 (Feb. 14, 1931, ch. 188, §1, 46 Stat. 1161; Mar. 1, 1933, ch. 161, 47 Stat. 1419.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1933</b>—Act Mar. 1, 1933, redescribed lands referred to in second par.
+
+#### <b>Executive Documents</b>
 
 #### Establishment of Monument; Boundaries
 

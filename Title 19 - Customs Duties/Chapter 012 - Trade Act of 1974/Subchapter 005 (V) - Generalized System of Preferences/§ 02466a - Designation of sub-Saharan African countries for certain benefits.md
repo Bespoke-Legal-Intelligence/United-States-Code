@@ -58,7 +58,7 @@
 
 #### (1) In general
 
-&emsp;In carrying out subsection (a)(2), the President shall publish annually in the Federal Register a notice of review and request for public comments on whether beneficiary sub-Saharan African countries are meeting the eligibility requirements set forth in section 104 of the African Growth and Opportunity Act \[19 U.S.C. 3703\] and the eligibility criteria set forth in section 2462 of this title.
+&emsp;In carrying out subsection (a)(2), the President shall publish annually in the FederalRegister a notice of review and request for public comments on whether beneficiary sub-Saharan African countries are meeting the eligibility requirements set forth in section 104 of the African Growth and Opportunity Act \[19 U.S.C. 3703\] and the eligibility criteria set forth in section 2462 of this title.
 
 #### (2) Public hearing
 
@@ -110,9 +110,11 @@ For purposes of this subchapter—
 
 &emsp;(1) the terms "beneficiary sub-Saharan African country" and "beneficiary sub-Saharan African countries" mean a country or countries listed in section 107 of the African Growth and Opportunity Act \[19 U.S.C. 3706\] that the President has determined is eligible under subsection (a) of this section.
 
-&emsp;(2) the term "former beneficiary sub-Saharan African country" means a country that,after being designated as a beneficiary sub-Saharan African country under the African Growth and Opportunity Act \[19 U.S.C. 3701 et seq.\], ceased to be designated as such a country by reason of its entering into a free trade agreement with the United States.
+&emsp;(2) the term "former beneficiary sub-Saharan African country" means a country that, after being designated as a beneficiary sub-Saharan African country under the African Growth and Opportunity Act \[19 U.S.C. 3701 et seq.\], ceased to be designated as such a country by reason of its entering into a free trade agreement with the United States.
 
 (Pub. L. 93–618, title V, §506A, as added Pub. L. 106–200, title I, §111(a), May 18, 2000, 114 Stat. 257; amended Pub. L. 108–274, §7(a)(2), July 13, 2004, 118 Stat. 823; Pub. L. 114–27, title I, §§104(a), (b), 105, June 29, 2015, 129 Stat. 365.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -134,6 +136,8 @@ Subsecs. (d), (e). Pub. L. 114–27, §105(c), added subsec. (d) and redesignate
 
 Subsec. (c). Pub. L. 108–274, §7(a)(2)(B), substituted "subchapter—" for "subchapter,", inserted par. (1) designation before "the terms", and added par. (2).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
 Pub. L. 114–27, title I, §104(d), June 29, 2015, 129 Stat. 365, provided that: "The amendments made by subsections (a) and (b) \[amending this section\] take effect on the date of the enactment of this Act \[June 29, 2015\] and apply with respect to any article described in section 503(b)(1)(B) through (G) of the Trade Act of 1974 \[19 U.S.C. 2463(b)(1)(B) through (G)\] that is the growth, product, or manufacture of a beneficiary sub-Saharan African country and that is imported into the customs territory of the United States on or after the date that is 30 days after such date of enactment."
@@ -143,6 +147,8 @@ Pub. L. 114–27, title I, §104(d), June 29, 2015, 129 Stat. 365, provided that
 #### Modifications to the Harmonized Tariff Schedule
 
 Pub. L. 114–27, title I, §104(c), June 29, 2015, 129 Stat. 365, provided that: "The President may proclaim such modifications as may be necessary to the Harmonized Tariff Schedule of the United States (HTS) to add the special tariff treatment symbol 'D' in the 'Special' subcolumn of the HTS for each article classified under a heading or subheading with the special tariff treatment symbol 'A' or 'A\*' in the 'Special' subcolumn of the HTS."
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13720. Delegation of Certain Authorities and Assignment of Certain Functions Under the Trade Preferences Extension Act of 2015
 

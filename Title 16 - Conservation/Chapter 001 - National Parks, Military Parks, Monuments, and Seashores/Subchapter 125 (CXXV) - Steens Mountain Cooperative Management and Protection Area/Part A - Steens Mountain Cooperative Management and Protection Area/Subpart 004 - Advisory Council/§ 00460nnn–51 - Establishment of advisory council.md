@@ -20,7 +20,7 @@ The advisory council shall consist of 12 voting members, to be appointed by the 
 
 &emsp;(6) A person who participates in what is commonly called dispersed recreation, such as hiking, camping, nature viewing, nature photography, bird watching, horse back riding, or trail walking, appointed from nominees submitted by the Oregon State Director of the Bureau of Land Management.
 
-&emsp;(7) A person who is a recreational permit holder or is a representative of a commercial recreation operation in the Cooperative Management and Protection Area, appointed from nominees submitted jointly by the Oregon State Director of the Bureau of Land Management and the county court for Harney County, Oregon.
+&emsp;(7) A person who is a recreational permit holder or is a representative of a commercialrecreation operation in the Cooperative Management and Protection Area, appointed from nominees submitted jointly by the Oregon State Director of the Bureau of Land Management and the county court for Harney County, Oregon.
 
 &emsp;(8) A person who participates in what is commonly called mechanized or consumptive recreation, such as hunting, fishing, off-road driving, hang gliding, or parasailing, appointed from nominees submitted by the Oregon State Director of the Bureau of Land Management.
 
@@ -67,6 +67,8 @@ The Secretary shall appoint one person, nominated by the Governor of Oregon, to 
 The advisory committee <sup>2</sup> shall be subject to the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.) and the Federal Advisory Committee Act (5 U.S.C. App.).
 
 (Pub. L. 106–399, title I, §131, Oct. 30, 2000, 114 Stat. 1664.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

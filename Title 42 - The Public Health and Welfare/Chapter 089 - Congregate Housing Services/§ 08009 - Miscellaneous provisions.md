@@ -16,13 +16,15 @@ No service provided to a public housing resident or to a resident of a housing p
 
 #### (c) Individuals receiving aid considered residents of own household
 
-Individuals receiving services assisted under this chapter shall be deemed to be residents oftheir own households, and not to be residents of a public institution, for the purpose of any other program or provision of State or Federal law.
+Individuals receiving services assisted under this chapter shall be deemed to be residents of their own households, and not to be residents of a public institution, for the purpose of any other program or provision of State or Federal law.
 
 #### (d) Regulations
 
 The Secretary may issue regulations to carry out the provisions of this chapter.
 
 (Pub. L. 95–557, title IV, §410, Oct. 31, 1978, 92 Stat. 2109.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

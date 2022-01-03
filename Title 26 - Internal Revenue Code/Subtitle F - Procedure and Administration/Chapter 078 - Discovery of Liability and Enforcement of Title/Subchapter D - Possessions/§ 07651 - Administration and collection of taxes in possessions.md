@@ -30,6 +30,8 @@ Except as otherwise provided in this subchapter, and except as otherwise provide
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 906; Pub. L. 91–513, title III, §1102(j), Oct. 27, 1970, 84 Stat. 1293; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title I, §130(c), title VIII, §801(d)(9), July 18, 1984, 98 Stat. 661, 997; Pub. L. 99–514, title XII, §1275(b), Oct. 22, 1986, 100 Stat. 2598; Pub. L. 110–172, §11(a)(34)(B), Dec. 29, 2007, 121 Stat. 2487.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 28(a) of the Revised Organic Act of the Virgin Islands, referred to in introductory provisions and par. (4), is classified to section 1642 of Title 48, Territories and Insular Possessions.
@@ -50,6 +52,8 @@ Pub. L. 98–369, §130(c), inserted "(other than section 881(b)(1))".
 
 <b>1970</b>—Pub. L. 91–513 struck out reference to exceptions provided for in sections 4705(b), 4735, and 4762 (relating to taxes on narcotic drugs and marihuana) in provisions preceding par. (1).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 1277 of Pub. L. 99–514, set out as a note under section 931 of this title.
@@ -66,7 +70,7 @@ Amendment by Pub. L. 91–513 effective on first day of seventh calendar month t
 
 #### Savings Provision
 
-Prosecutions for any violation of law occurring, and civil seizures or forfeitures and injunctive proceedings commenced, prior to the effective date of amendment of this section by section 1102 of Pub. L. 91–513 not to be affected or abated by reason thereof, see section 1103of Pub. L. 91–513, set out as a note under sections 171 to 174 of Title 21, Food and Drugs.
+Prosecutions for any violation of law occurring, and civil seizures or forfeitures and injunctive proceedings commenced, prior to the effective date of amendment of this section by section 1102 of Pub. L. 91–513 not to be affected or abated by reason thereof, see section 1103 of Pub. L. 91–513, set out as a note under sections 171 to 174 of Title 21, Food and Drugs.
 
 #### Compensation to Guam and Virgin Islands for Unexpected Revenue Losses Occasioned by Tax Reduction Act of 1975 and Tax Reform Act of 1976
 

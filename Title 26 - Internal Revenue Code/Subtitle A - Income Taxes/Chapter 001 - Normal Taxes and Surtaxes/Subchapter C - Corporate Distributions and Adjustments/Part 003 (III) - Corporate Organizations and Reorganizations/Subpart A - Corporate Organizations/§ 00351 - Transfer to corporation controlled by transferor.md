@@ -66,7 +66,7 @@ This section shall not apply to—
 
 &emsp;&emsp;&emsp;(viii) any other asset specified in regulations prescribed by the Secretary.
 
-> &emsp;The Secretary may prescribe regulations that, under appropriate circumstances, treat any asset described in clauses (i) through (v) as not so listed.
+> &emsp;The Secretary may prescribe regulations that, under appropriate circumstances, treat anyasset described in clauses (i) through (v) as not so listed.
 
 #### (2) Title 11 or similar case
 
@@ -164,6 +164,8 @@ If—
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 111; Pub. L. 89–809, title II, §203(a), (b), Nov. 13, 1966, 80 Stat. 1577; Pub. L. 94–455, title XIX, §1901(a)(48)(A), (B), Oct. 4, 1976, 90 Stat. 1772; Pub. L. 96–589, §5(e), Dec. 24, 1980, 94 Stat. 3406; Pub. L. 97–248, title II, §226(a)(1)(B), Sept. 3, 1982, 96 Stat. 491; Pub. L. 100–647, title I, §1018(d)(5)(G), Nov. 10, 1988, 102 Stat. 3580; Pub. L. 101–239, title VII, §7203(a), (b), Dec. 19, 1989, 103 Stat. 2333; Pub. L. 101–508, title XI, §11704(a)(3), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 105–34, title X, §§1002(a), 1012(c)(1), 1014(a), Aug. 5, 1997, 111 Stat. 909, 916, 919; Pub. L. 105–206, title VI, §6010(c)(3)(A), (e)(1), July 22, 1998, 112 Stat. 813, 814; Pub. L. 105–277, div. J, title IV, §4003(f)(1), Oct. 21, 1998, 112 Stat. 2681–910; Pub. L. 106–36, title III, §3001(d)(1), June 25, 1999, 113 Stat. 183; Pub. L. 107–147, title IV, §417(9), Mar. 9, 2002, 116 Stat. 56; Pub. L. 108–357, title VIII, §899(a), Oct. 22, 2004, 118 Stat. 1649; Pub. L. 109–135, title IV, §403(kk), Dec. 21, 2005, 119 Stat. 2632.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Subsec. (g)(3)(A). Pub. L. 109–135 inserted at end "If there is not a real and meaningful likelihood that dividends beyond any limitation or preference will actually be paid, the possibility of such payments will be disregarded in determining whether stock is limited and preferred as to dividends."
@@ -186,7 +188,7 @@ If—
 
 Subsec. (c)(2). Pub. L. 105–277 inserted ", or the fact that the corporation whose stock was distributed issues additional stock," after "dispose of part or all of the distributed stock".
 
-Subsec. (g)(1)(A) to (C). Pub. L. 105–206, §6010(e)(1), inserted "and" at end of subpar. (A), added subpar. (B),and struck out former subpars. (B) and (C) which read as follows:
+Subsec. (g)(1)(A) to (C). Pub. L. 105–206, §6010(e)(1), inserted "and" at end of subpar. (A), added subpar. (B), and struck out former subpars. (B) and (C) which read as follows:
 
 "(B) subsection (b) shall apply to such transferor, and
 
@@ -226,6 +228,8 @@ Subsec. (d). Pub. L. 94–455, §1901(a)(48)(B), among other changes, substitute
 
 Subsecs. (d), (e). Pub. L. 89–809, §203(b), added subsec. (d) and redesignated former subsec. (d) as (e).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2005 Amendment
 
 Amendment by Pub. L. 109–135 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
@@ -236,7 +240,7 @@ Pub. L. 108–357, title VIII, §899(b), Oct. 22, 2004, 118 Stat. 1649, provided
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–36, title III, §3001(e), June 25, 1999, 113 Stat. 184, provided that: "The amendments made by this section \[amending this section and sections 357, 358, 362, 368, 584, and 1031 of this title\] shall apply to transfers after October 18, 1998."
+Pub. L. 106–36, title III, §3001(e), June 25, 1999, 113 Stat. 184, provided that: "The amendments made by this section \[amending this section and sections 357,358, 362, 368, 584, and 1031 of this title\] shall apply to transfers after October 18, 1998."
 
 #### Effective Date of 1998 Amendments
 

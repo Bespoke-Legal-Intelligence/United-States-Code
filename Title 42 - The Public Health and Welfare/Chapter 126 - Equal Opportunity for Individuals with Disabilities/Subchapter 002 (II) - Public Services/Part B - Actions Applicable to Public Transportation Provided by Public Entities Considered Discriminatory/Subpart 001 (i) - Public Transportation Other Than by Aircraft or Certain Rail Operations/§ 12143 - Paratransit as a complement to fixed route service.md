@@ -18,7 +18,7 @@ Not later than 1 year after July 26, 1990, the Secretary shall issue final regul
 
 &emsp;&emsp;(ii) to any individual with a disability who needs the assistance of a wheelchair lift or other boarding assistance device (and is able with such assistance) to board, ride, and disembark from any vehicle which is readily accessible to and usable by individuals with disabilities if the individual wants to travel on a route on the system during the hours of operation of the system at a time (or within a reasonable period of such time) when such a vehicle is not being used to provide designated public transportation on the route; and
 
-&emsp;&emsp;(iii) to any individual with a disability who has a specific impairment-related condition which prevents such individual fromtraveling to a boarding location or from a disembarking location on such system;
+&emsp;&emsp;(iii) to any individual with a disability who has a specific impairment-related condition which prevents such individual from traveling to a boarding location or from a disembarking location on such system;
 
 &emsp;&emsp;(B) to one other individual accompanying the individual with the disability; and
 
@@ -36,7 +36,7 @@ Not later than 1 year after July 26, 1990, the Secretary shall issue final regul
 
 #### (4) Undue financial burden limitation
 
-&emsp;The regulations issued under this section shall provide that, if the public entity is able to demonstrate to the satisfaction of the Secretary that the provision of paratransit and other special transportation services otherwise required under this section would impose an undue financial burden on the public entity, the public entity, notwithstanding any other provision of this section (other than paragraph (5)), shall only be required to provide such services to the extent that providing such services would not impose such a burden.
+&emsp;The regulations issued under this section shall provide that, if the public entity is able to demonstrate to the satisfaction of the Secretary that the provision of paratransit and other special transportation services otherwise required under this section would imposean undue financial burden on the public entity, the public entity, notwithstanding any other provision of this section (other than paragraph (5)), shall only be required to provide such services to the extent that providing such services would not impose such a burden.
 
 #### (5) Additional services
 
@@ -103,6 +103,8 @@ Nothing in this section shall be construed as preventing a public entity—
 &emsp;(3) from providing such services to individuals in addition to those individuals to whom such services are required to be provided by this section.
 
 (Pub. L. 101–336, title II, §223, July 26, 1990, 104 Stat. 340.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

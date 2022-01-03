@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may make grants to States or their designees to develop or operate the State's traumatic brain injury surveillance system or registry to determine the incidence and prevalence of traumatic brain injury and related disability, to ensure the uniformity of reporting under such system or registry, to link individuals with traumatic brain injury to services and supports, and to link such individuals with academic institutions to conduct applied research that will support the development of such surveillance systemsand registries as may be necessary. A surveillance system or registry under this section shall provide for the collection of data concerning—
+The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may make grants to States or their designees to develop or operate the State's traumatic brain injury surveillance system or registry to determine the incidence and prevalence of traumatic brain injury and related disability, to ensure the uniformity of reporting under such system or registry, to link individuals with traumatic brain injury to services and supports, and to link such individuals with academic institutions to conduct applied research that will support the development of such surveillance systems and registries as may be necessary. A surveillance system or registry under this section shall provide for the collection of data concerning—
 
 &emsp;(1) demographic information about each traumatic brain injury;
 
@@ -21,6 +21,8 @@ Not later than 18 months after April 28, 2008, the Secretary, acting through the
 The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may implement concussion data collection and analysis to determine the prevalence and incidence of concussion.
 
 (July 1, 1944, ch. 373, title III, §393C, formerly §393B, as added Pub. L. 106–310, div. A, title XIII, §1301(b), Oct. 17, 2000, 114 Stat. 1137; renumbered §393C and amended Pub. L. 110–206, §§2(3), 3(b), (c), Apr. 28, 2008, 122 Stat. 714, 715; Pub. L. 115–377, §2(1), Dec. 21, 2018, 132 Stat. 5114.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

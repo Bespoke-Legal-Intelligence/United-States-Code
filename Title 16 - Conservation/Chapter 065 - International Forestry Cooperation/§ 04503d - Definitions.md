@@ -16,6 +16,8 @@ As used in this chapter (unless the context otherwise requires):
 
 (Pub. L. 101–513, title VI, §608, as added Pub. L. 102–574, §2(a)(2), Oct. 29, 1992, 106 Stat. 4595.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For Oct. 1, 1994, as the date the Compact of Free Association with the Republic of Palau enters into effect, referred to in par. (3), see Proc. No. 6726, Sept. 27, 1994, 59 F.R. 49777, set out as a note under section 1931 of Title 48, Territories and Insular Possessions.

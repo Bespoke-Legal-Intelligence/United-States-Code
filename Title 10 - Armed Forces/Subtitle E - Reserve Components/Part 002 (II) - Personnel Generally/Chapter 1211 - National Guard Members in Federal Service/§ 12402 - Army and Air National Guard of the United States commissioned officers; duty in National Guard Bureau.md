@@ -6,7 +6,9 @@
 
 (2) The number of officers of the Air National Guard of the United States in grades below brigadier general who are ordered to active duty in the National Guard Bureau may not be more than 40 percent of the number of officers of the Air Force authorized for duty in that Bureau and, to the extent practicable, shall not exceed 40 percent of the number of officers of the Air Force serving in that Bureau in any grade below brigadier general.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1662(f)(1), Oct. 5, 1994, 108 Stat. 2993; amendedPub. L. 104–106, div. A, title XV, §1501(b)(18)(B), Feb. 10, 1996, 110 Stat. 497.)
+(Added Pub. L. 103–337, div. A, title XVI, §1662(f)(1), Oct. 5, 1994, 108 Stat. 2993; amended Pub. L. 104–106, div. A, title XV, §1501(b)(18)(B), Feb. 10, 1996, 110 Stat. 497.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -15,6 +17,8 @@ Provisions similar to those in this section were contained in sections 3496 and 
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–106 inserted "the" in section catchline.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

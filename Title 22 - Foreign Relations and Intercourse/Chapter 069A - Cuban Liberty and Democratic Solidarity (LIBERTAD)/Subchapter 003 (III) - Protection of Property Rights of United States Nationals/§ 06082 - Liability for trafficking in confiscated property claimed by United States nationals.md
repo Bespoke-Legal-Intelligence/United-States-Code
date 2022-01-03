@@ -58,7 +58,7 @@
 
 &emsp;(A) Except as otherwise provided in this paragraph, actions may be brought under paragraph (1) with respect to property confiscated before, on, or after March 12, 1996.
 
-&emsp;(B) In the case of property confiscated before March 12, 1996, a United States national may not bring an action under this section on a claim to the confiscated property unless suchnational acquires ownership of the claim before March 12, 1996.
+&emsp;(B) In the case of property confiscated before March 12, 1996, a United States national may not bring an action under this section on a claim to the confiscated property unless such national acquires ownership of the claim before March 12, 1996.
 
 &emsp;(C) In the case of property confiscated on or after March 12, 1996, a United States national who, after the property is confiscated, acquires ownership of a claim to the property by assignment for value, may not bring an action on the claim under this section.
 
@@ -70,7 +70,7 @@
 
 &emsp;(C) A United States national, other than a United States national bringing an action under this section on a claim certified under title V of the International Claims Settlement Act of 1949, may not bring an action on a claim under this section before the end of the 2-year period beginning on March 12, 1996.
 
-&emsp;(D) An interest in property for which a United States national has a claim certified under title V of the International Claims Settlement Act of 1949 may not be the subject of a claim in an action under this section by any other person. Any person bringing an action under this section whose claim has not been so certified shall have the burden of establishing for the court that the interest in property that is the subject of the claim is not the subject of a claim so certified.
+&emsp;(D) An interest in property for which a United States national has a claim certified under title V of the International Claims Settlement Act of 1949 may not be the subject of a claim in an action under this section by anyother person. Any person bringing an action under this section whose claim has not been so certified shall have the burden of establishing for the court that the interest in property that is the subject of the claim is not the subject of a claim so certified.
 
 #### (6) Inapplicability of act of state doctrine
 
@@ -114,7 +114,7 @@ In an action brought under this section, any judgment against an agency or instr
 
 &emsp;&emsp;(A) any United States national that brings an action under this section may not bring any other civil action or proceeding under the common law, Federal law, or the law of any of the several States, the District of Columbia, or any commonwealth, territory, or possession of the United States, that seeks monetary or nonmonetary compensation by reason of the same subject matter; and
 
-&emsp;&emsp;(B) any person who brings, under the common law or any provision of law other than this section, a civil action or proceeding for monetary or nonmonetary compensation arising out of a claim for which an action would otherwise be cognizable under thissection may not bring an action under this section on that claim.
+&emsp;&emsp;(B) any person who brings, under the common law or any provision of law other than this section, a civil action or proceeding for monetary or nonmonetary compensation arising out of a claim for which an action would otherwise be cognizable under this section may not bring an action under this section on that claim.
 
 #### (2) Treatment of certified claimants
 
@@ -126,7 +126,7 @@ In an action brought under this section, any judgment against an agency or instr
 
 &emsp;&emsp;(iii) if there is no recovery in the action, the United States national may receive payment on the certified claim under a claims agreement described in clause (i) to the same extent as any certified claimant who does not bring an action under this section.
 
-&emsp;(B) In the event some or all actions brought under this section are consolidated by judicial or other action in such manner as to create a pool of assets available to satisfy the claims in such actions, including a pool of assets in a proceeding in bankruptcy, every claimant whose claim in an action so consolidated was certified by the Foreign Claims Settlement Commission under title V of the International Claims Settlement Act of 1949 \[22 U.S.C. 1643 et seq.\] shall be entitled to payment in full of its claim from the assets in such pool before any payment is made from the assets in such pool with respect to any claim not so certified.
+&emsp;(B) In the event some or all actions brought under this section are consolidated by judicial or other action in such manner as to create a pool of assets available to satisfy the claims in such actions, including a pool of assets in aproceeding in bankruptcy, every claimant whose claim in an action so consolidated was certified by the Foreign Claims Settlement Commission under title V of the International Claims Settlement Act of 1949 \[22 U.S.C. 1643 et seq.\] shall be entitled to payment in full of its claim from the assets in such pool before any payment is made from the assets in such pool with respect to any claim not so certified.
 
 #### (g) Deposit of excess payments by Cuba under claims agreement
 

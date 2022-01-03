@@ -10,6 +10,8 @@
 
 (June 9, 1930, ch. 416, §3, 46 Stat. 527; Pub. L. 94–588, §18, Oct. 22, 1976, 90 Stat. 2962; Pub. L. 108–447, div. E, title III, §318, Dec. 8, 2004, 118 Stat. 3096; Pub. L. 109–54, title IV, §412, Aug. 2, 2005, 119 Stat. 551.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Subsec. (a). Pub. L. 109–54 added cl. (5).
@@ -20,7 +22,7 @@
 
 > was partially executed by designating existing text as subsec. (a) and substituting "The Secretary of Agriculture may, when in his or her" for "The Secretary of Agriculture may, when in his". However, the provisions relating to subsec. (b) were not inserted, because of missing directory language.
 
-Subsec. (a). Pub. L. 108–447, §318(2), substituted "may direct. The Secretary of Agriculture" for "may direct:<i>Provided</i>, That any portion of any deposit found to be in excess of the cost of doing said work shall, upon the determination that it is so in excess, be transferred to miscellaneous receipts, forest reserve fund, as a national-forest receipt of the fiscal year in which such transfer is made: <i>Provided further</i>, That the Secretary of Agriculture".
+Subsec. (a). Pub. L. 108–447, §318(2), substituted "may direct. The Secretary of Agriculture" for "may direct: <i>Provided</i>, That any portion of any deposit found to be in excess of the cost of doing said work shall, upon the determination that it is so in excess, be transferred to miscellaneous receipts, forest reserve fund, as a national-forest receipt of the fiscal year in which such transfer is made: <i>Provided further</i>, That the Secretary of Agriculture".
 
 Subsec. (c). Pub. L. 108–447, §318(3), added subsec. (c).
 

@@ -58,7 +58,7 @@ Pre-plan.—Prior to the date on which the plan required by subsection (b) of th
 
 &emsp;&emsp;(C) identification of high priority coastal wetlands restoration projects in Louisiana needed to address the areas identified in subparagraph (B) and that would provide for the long-term conservation of restored wetlands and dependent fish and wildlife populations;
 
-&emsp;&emsp;(D) a listing of such coastal wetlands restoration projects, in order of priority, to be submitted annually, incorporating anyproject identified previously in lists produced and submitted under subsection (a) of this section;
+&emsp;&emsp;(D) a listing of such coastal wetlands restoration projects, in order of priority, to be submitted annually, incorporating any project identified previously in lists produced and submitted under subsection (a) of this section;
 
 &emsp;&emsp;(E) a detailed description of each proposed coastal wetlands restoration project, including a justification for including such project on the list;
 
@@ -125,6 +125,8 @@ The Secretary shall, with the funds made available in accordance with this chapt
 &emsp;Notwithstanding paragraphs (1) and (2), upon approval of the conservation plan under section 3953 of this title and a determination by the Secretary that a reduction in the non-Federal share is warranted, amounts made available in accordance with section 3955 of this title to carry out coastal wetlands restoration projects under this section in calendar years 1996 and 1997 shall provide 90 percent of the cost of such projects.
 
 (Pub. L. 101–646, title III, §303, Nov. 29, 1990, 104 Stat. 4779; Pub. L. 104–303, title V, §532, Oct. 12, 1996, 110 Stat. 3774.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

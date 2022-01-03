@@ -24,7 +24,7 @@
 
 (4)(A) With respect to physical searches authorized by this subsection, the Attorney General may direct a specified landlord, custodian, or other specified person to—
 
-&emsp;(i) furnish all information, facilities, or assistance necessary to accomplish the physical search in such a manner as will protect its secrecy and produce a minimum of interference with the services that such landlord, custodian, or other person is providing the target of the physical search; and
+&emsp;(i) furnish all information, facilities, or assistance necessary to accomplish the physicalsearch in such a manner as will protect its secrecy and produce a minimum of interference with the services that such landlord, custodian, or other person is providing the target of the physical search; and
 
 &emsp;(ii) maintain under security procedures approved by the Attorney General and the Director of National Intelligence any records concerning the search or the aid furnished that such person wishes to retain.
 
@@ -40,13 +40,15 @@ The Foreign Intelligence Surveillance Court shall have jurisdiction to hear appl
 
 #### (d) Court of review; record; transmittal to Supreme Court
 
-The court of review established under section 1803(b) of this title shall have jurisdiction to review the denial of any application made underthis subchapter. If such court determines that the application was properly denied, the court shall provide for the record a written statement of each reason for its decision and, on petition of the United States for a writ of certiorari, the record shall be transmitted under seal to the Supreme Court, which shall have jurisdiction to review such decision.
+The court of review established under section 1803(b) of this title shall have jurisdiction to review the denial of any application made under this subchapter. If such court determines that the application was properly denied, the court shall provide for the record a written statement of each reason for its decision and, on petition of the United States for a writ of certiorari, the record shall be transmitted under seal to the Supreme Court, which shall have jurisdiction to review such decision.
 
 #### (e) Expeditious conduct of proceedings; security measures for maintenance of records
 
 Judicial proceedings under this subchapter shall be concluded as expeditiously as possible. The record of proceedings under this subchapter, including applications made and orders granted, shall be maintained under security measures established by the Chief Justice of the United States in consultation with the Attorney General and the Director of National Intelligence.
 
 (Pub. L. 95–511, title III, §302, as added Pub. L. 103–359, title VIII, §807(a)(3), Oct. 14, 1994, 108 Stat. 3444; amended Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 110–261, title I, §109(b)(2)(B), July 10, 2008, 122 Stat. 2465; Pub. L. 111–259, title VIII, §806(a)(2), Oct. 7, 2010, 124 Stat. 2748; Pub. L. 115–118, title II, §205(a)(2), (b)(3), Jan. 19, 2018, 132 Stat. 21, 22.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -59,6 +61,8 @@ Subsec. (d). Pub. L. 115–118, §205(b)(3), struck out "immediately" after "the
 <b>2008</b>—Subsec. (c). Pub. L. 110–261 inserted "(except when sitting en banc)" after "except that no judge".
 
 <b>2004</b>—Subsecs. (a)(3), (4)(A)(ii), (e). Pub. L. 108–458, as amended by Pub. L. 111–259, substituted "Director of National Intelligence" for "Director of Central Intelligence".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 
@@ -74,13 +78,15 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 
 Section effective 90 days after Oct. 14, 1994, with exception for certain physical searches approved by the Attorney General to gather foreign intelligence information, see section 807(c) of Pub. L. 103–359, set out as a note under section 1821 of this title.
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 12949. Foreign Intelligence Physical Searches
 
 Ex. Ord. No. 12949, Feb. 9, 1995, 60 F.R. 8169, as amended by Ex. Ord. No. 13383, §2, July 15, 2005, 70 F.R. 41933; Ex. Ord. No. 13475, §2, Oct. 7, 2008, 73 F.R. 60095, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States, including sections 302 and 303 of the Foreign Intelligence Surveillance Act of 1978 ("Act") (50 U.S.C. 1801, <i>et seq</i>.), as amended by Public Law 103–359 \[50 U.S.C. 1822, 1823\], and in order to provide for the authorization of physical searches for foreign intelligence purposes as set forth in the Act, it is hereby ordered as follows:
 
-Section 1. Pursuant to section 302(a)(1) of the Act, the Attorney General is authorized to approve physical searches, without a court order, to acquire foreign intelligence information for periods of up to one year, if the Attorney General makes the certifications required by that section.
+Section 1. Pursuant to section 302(a)(1) of the Act, the Attorney General is authorized to approve physicalsearches, without a court order, to acquire foreign intelligence information for periods of up to one year, if the Attorney General makes the certifications required by that section.
 
 Sec. 2. Pursuant to section 302(b) of the Act, the Attorney General is authorized to approve applications to the Foreign Intelligence Surveillance Court under section 303 of the Act to obtain orders for physical searches for the purpose of collecting foreign intelligence information.
 

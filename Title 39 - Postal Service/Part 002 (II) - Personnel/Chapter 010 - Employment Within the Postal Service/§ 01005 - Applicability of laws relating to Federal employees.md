@@ -34,7 +34,7 @@
 
 (c) Officers and employees of the Postal Service shall be covered by subchapter I of chapter 81 of title 5, relating to compensation for work injuries.
 
-(d)(1) Officers and employees of the Postal Service (other than the Governors) shall be covered by chapters 83 and 84 of title 5. The PostalService shall withhold from pay and shall pay into the Civil Service Retirement and Disability Fund the amounts specified in or determined under such chapter 83 and subchapter II of such chapter 84, respectively. The Postal Service shall pay into the Federal Retirement Thrift Savings Fund the amounts specified in or determined under subchapters III and VII of such chapter 84.
+(d)(1) Officers and employees of the Postal Service (other than the Governors) shall be covered by chapters 83 and 84 of title 5. The Postal Service shall withhold from pay and shall pay into the Civil Service Retirement and Disability Fund the amounts specified in or determined under such chapter 83 and subchapter II of such chapter 84, respectively. The Postal Service shall pay into the Federal Retirement Thrift Savings Fund the amounts specified in or determined under subchapters III and VII of such chapter 84.
 
 (2) The provisions of subsections (i) and (m)(2) of section 8344 and subsections (f) and (j)(2) of section 8468 of title 5 shall apply with respect to the Postal Service. For purposes of so applying such provisions—
 
@@ -94,7 +94,7 @@ Amendment by section 1916(b)(1) of Pub. L. 111–84 effective Oct. 28, 2009, wit
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–496 effective Dec. 23, 2004, and applicable to contracts that take effect with respect to the calendar year 2006, see section 7 of Pub. L. 108–496, set out as an Effective Date note under section8951 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 108–496 effective Dec. 23, 2004, and applicable to contracts that take effect with respect to the calendar year 2006, see section 7 of Pub. L. 108–496, set out as an Effective Date note under section 8951 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1987 Amendment
 

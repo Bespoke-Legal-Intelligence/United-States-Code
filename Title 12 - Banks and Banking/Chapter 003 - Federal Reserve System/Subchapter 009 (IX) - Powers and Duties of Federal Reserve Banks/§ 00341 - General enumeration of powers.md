@@ -10,7 +10,7 @@ Third. To make contracts.
 
 Fourth. To sue and be sued, complain and defend, in any court of law or equity.
 
-Fifth. To appoint by its board of directors a president, vice presidents, and such officers and employees as are not otherwise provided for in this chapter, to define their duties, requirebonds for them and fix the penalty thereof, and to dismiss at pleasure such officers or employees. The president shall be the chief executive officer of the bank and shall be appointed by the Class B and Class C directors of the bank, with the approval of the Board of Governors of the Federal Reserve System, for a term of 5 years; and all other executive officers and all employees of the bank shall be directly responsible to the president. The first vice president of the bank shall be appointed in the same manner and for the same term as the president, and shall, in the absence or disability of the president or during a vacancy in the office of president, serve as chief executive officer of the bank. Whenever a vacancy shall occur in the office of the president or the first vice president, it shall be filled in the manner provided for original appointments; and the person so appointed shall hold office until the expiration of the term of his predecessor.
+Fifth. To appoint by its board of directors a president, vice presidents, and such officers and employees as are not otherwise provided for in this chapter, to define their duties, require bonds for them and fix the penalty thereof, and to dismiss at pleasure such officers or employees. The president shall be the chief executive officer of the bank and shall be appointed by the Class B and Class C directors of the bank, with the approval of the Board of Governors of the Federal Reserve System, for a term of 5 years; and all other executive officers and all employees of the bank shall be directly responsible to the president. The first vice president of the bank shall be appointed in the same manner and for the same term as the president, and shall, in the absence or disability of the president or during a vacancy in the office of president, serve as chief executive officer of the bank. Whenever a vacancy shall occur in the office of the president or the first vice president, it shall be filled in the manner provided for original appointments; and the person so appointed shall hold office until the expiration of the term of his predecessor.
 
 Sixth. To prescribe by its board of directors, bylaws not inconsistent with law, regulating the manner in which its general business may be conducted, and the privileges granted to it by law may be exercised and enjoyed.
 
@@ -51,6 +51,8 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 #### Effective Date of 1935 Amendment
 
 Act Aug. 23, 1935, ch. 614, title II, §201, 49 Stat. 703, provided that the amendment made by that section is effective Mar. 1, 1936.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

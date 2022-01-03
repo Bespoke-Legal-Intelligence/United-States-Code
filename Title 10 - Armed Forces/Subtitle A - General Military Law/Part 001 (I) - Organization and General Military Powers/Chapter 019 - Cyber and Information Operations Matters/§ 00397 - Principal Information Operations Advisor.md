@@ -12,7 +12,7 @@ Responsibilities.—The Principal Information Operations Advisor shall have the 
 
 &emsp;(2) Overall integration and supervision of the deterrence of, conduct of, and defense against information operations.
 
-&emsp;(3) Promulgation of policies to ensure adequate coordination and deconfliction with theDepartment of State, the intelligence community (as such term is defined in section 3 of the National Security Act of 1947 (50 U.S.C. 3003)), and other relevant agencies and departments of the Federal Government.
+&emsp;(3) Promulgation of policies to ensure adequate coordination and deconfliction with the Department of State, the intelligence community (as such term is defined in section 3 of the National Security Act of 1947 (50 U.S.C. 3003)), and other relevant agencies and departments of the Federal Government.
 
 &emsp;(4) Coordination with the head of the Global Engagement Center to support the purpose of the Center (as set forth by section 1287(a)(2) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 22 U.S.C. 2656 note)) and liaison with the Center and other relevant Federal Government entities to support such purpose.
 
@@ -26,6 +26,8 @@ Responsibilities.—The Principal Information Operations Advisor shall have the 
 
 (Added Pub. L. 116–92, div. A, title XVI, §1631(a)(1), Dec. 20, 2019, 133 Stat. 1741; amended Pub. L. 116–283, div. A, title X, §1081(a)(16), Jan. 1, 2021, 134 Stat. 3871.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The enactment of this Act, referred to in subsec. (a), probably means the date of enactment of Pub. L. 116–92, which added this section and was approved Dec. 20, 2019.
@@ -33,6 +35,8 @@ The enactment of this Act, referred to in subsec. (a), probably means the date o
 #### Amendments
 
 <b>2021</b>—Subsec. (b)(5). Pub. L. 116–283 substituted "persons" for "Persons".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Conducting of Military Operations in the Information Environment
 
@@ -64,7 +68,7 @@ Quarterly Information Operations Briefings.—(1) Not less frequently than once 
 
 "(e)
 
-Rule of Construction.—Nothing in this section may be construed to limit, expand, or otherwise alter the authority of the Secretary to conduct military operations, including clandestine operations, in the information environment, to authorize specific military operations, or to limit, expand, or otherwise alter or otherwise affect the War Powers Resolution (50 U.S.C. 1541 et seq.) or an authorization for use of military force that was in effect on the day before the date of the enactment of this Act \[Dec. 20, 2019\].
+Rule of Construction.—Nothing in this section may be construed to limit, expand, or otherwise alter the authority of the Secretary to conduct military operations, including clandestine operations, in the information environment, to authorize specific military operations, or to limit, expand, or otherwise alter or otherwise affect the War Powers Resolution (50 U.S.C. 1541et seq.) or an authorization for use of military force that was in effect on the day before the date of the enactment of this Act \[Dec. 20, 2019\].
 
 "(f)
 
@@ -94,7 +98,7 @@ Strategy and posture review required.—Not later than 270 days after the date o
 
 &emsp;&emsp;"(D) develop and persistently manage a joint lexicon for terms related to information operations, including 'information operations', 'information environment', 'operations in the information environment', and 'information related capabilities'\[;\] and \[sic\]
 
-&emsp;&emsp;"(E) determine the collective set of combat capabilities that will be treated as part of operations in the information environment, including cyber warfare, space warfare, military information supportoperations, electronic warfare, public affairs, and civil affairs; and
+&emsp;&emsp;"(E) determine the collective set of combat capabilities that will be treated as part of operations in the information environment, including cyber warfare, space warfare, military information support operations, electronic warfare, public affairs, and civil affairs; and
 
 &emsp;&emsp;"(F) designate a Department of Defense entity to develop, apply, and continually refine an assessment capability for defining and measuring the impact of Department information operations, which entity shall be organizationally independent of Department components performing or otherwise engaged in operational support to Department information operations.
 

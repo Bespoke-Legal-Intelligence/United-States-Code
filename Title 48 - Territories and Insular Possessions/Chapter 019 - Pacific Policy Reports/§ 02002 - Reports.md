@@ -6,7 +6,7 @@ Not later than one year after January 14, 1986, and each five years thereafter, 
 
 #### (b) Contents
 
-The reports required in subsection (a) of this section shall set forth clearly defined policiesregarding United States, and United States associated, noncontiguous Pacific areas, including—
+The reports required in subsection (a) of this section shall set forth clearly defined policies regarding United States, and United States associated, noncontiguous Pacific areas, including—
 
 &emsp;(1) the role of and impacts on the noncontiguous Pacific areas in the formulation and conduct of foreign policy;
 
@@ -24,9 +24,13 @@ The reports required in subsection (a) of this section shall set forth clearly d
 
 (Pub. L. 99–239, title III, §302, Jan. 14, 1986, 99 Stat. 1837.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly set out as a note under section 1681 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Reporting Requirements
 

@@ -16,7 +16,7 @@ For purposes of this section:
 
 &emsp;(6) The term "person" means any natural person, partnership, corporation, association, or other legal entity, including any person acting under color or authority of State law.
 
-&emsp;(7) The term "violation" means any act or omission constituting an unfair or deceptive act or practice in or affecting commerce\(within the meaning of section 45(a)(1) of this title) or any antitrust violation.
+&emsp;(7) The term "violation" means any act or omission constituting an unfair or deceptive act or practice in or affecting commerce (within the meaning of section 45(a)(1) of this title) or any antitrust violation.
 
 &emsp;(8) The term "antitrust violation" means—
 
@@ -34,7 +34,7 @@ For the purpose of investigations performed pursuant to this section with respec
 
 #### (c) Issuance of demand; contents; service; verified return; sworn certificate; answers; taking of oral testimony
 
-(1) Whenever the Commission has reason to believe that any person may be in possession, custody, or control of any documentary material or tangible things, or may have any information, relevant to unfair or deceptive acts or practices in or affecting commerce (within the meaning of section 45(a)(1) of this title), or to antitrust violations, the Commission may, before the institution of any proceedings under this subchapter, issue in writing, and cause to be served upon such person, a civil investigative demand requiring such person to produce such documentary material for inspection and copying or reproduction, to submit such tangible things, to file written reports or answers to questions, to give oral testimony concerning documentary material or other information, or to furnish any combination of such material, answers, or testimony.
+(1) Whenever the Commission has reason to believe that any person may be in possession, custody, or control of any documentary material or tangible things, or may have any information, relevant to unfair or deceptive acts or practices in or affecting commerce (within the meaning of section 45(a)(1) of this title), or to antitrust violations, the Commission may, before the institution of any proceedings under this subchapter, issue in writing, and cause to be served upon such person, a civil investigative demand requiring such person to produce such documentarymaterial for inspection and copying or reproduction, to submit such tangible things, to file written reports or answers to questions, to give oral testimony concerning documentary material or other information, or to furnish any combination of such material, answers, or testimony.
 
 (2) Each civil investigative demand shall state the nature of the conduct constituting the alleged violation which is under investigation and the provision of law applicable to such violation.
 
@@ -78,7 +78,7 @@ For the purpose of investigations performed pursuant to this section with respec
 
 &emsp;(A) delivering a duly executed copy of such demand or petition to any partner, executive officer, managing agent, or general agent of such partnership, corporation, association, or other legal entity, or to any agent of such partnership, corporation, association, or other legal entity authorized by appointment or by law to receive service of process on behalf of such partnership, corporation, association, or other legal entity;
 
-&emsp;(B) delivering a duly executed copy of such demand or petition to the principal office orplace of business of the partnership, corporation, association, or other legal entity to be served; or
+&emsp;(B) delivering a duly executed copy of such demand or petition to the principal office or place of business of the partnership, corporation, association, or other legal entity to be served; or
 
 &emsp;(C) depositing a duly executed copy in the United States mails, by registered or certified mail, return receipt requested, duly addressed to such partnership, corporation, association, or other legal entity at its principal office or place of business.
 
@@ -92,7 +92,7 @@ For the purpose of investigations performed pursuant to this section with respec
 
 (11) The production of documentary material in response to a civil investigative demand shall be made under a sworn certificate, in such form as the demand designates, by the person, if a natural person, to whom the demand is directed or, if not a natural person, by any person having knowledge of the facts and circumstances relating to such production, to the effect that all of the documentary material required by the demand and in the possession, custody, or control of the person to whom the demand is directed has been produced and made available to the custodian.
 
-(12) The submission of tangible things in response to a civil investigative demand shall be made under a sworn certificate, in such form as the demand designates, by the person to whom the demand is directed or, if not a natural person, by any person having knowledge of the facts and circumstances relating to such production, to the effect that all of the tangible things required by the demand and in the possession, custody, or control of the person to whom the demand is directed have been submitted to the custodian.
+(12) The submission of tangible things in response to a civil investigative demand shall be made under a sworn certificate, in such form as the demand designates, by the person to whom the demand is directed or, if not a natural person, by any person having knowledge of thefacts and circumstances relating to such production, to the effect that all of the tangible things required by the demand and in the possession, custody, or control of the person to whom the demand is directed have been submitted to the custodian.
 
 (13) Each reporting requirement or question in a civil investigative demand shall be answered separately and fully in writing under oath, unless it is objected to, in which event the reasons for the objection shall be stated in lieu of an answer, and it shall be submitted under a sworn certificate, in such form as the demand designates, by the person, if a natural person, to whom the demand is directed or, if not a natural person, by any person responsible for answering each reporting requirement or question, to the effect that all information required by the demand and in the possession, custody, control, or knowledge of the person to whom the demand is directed has been submitted.
 
@@ -154,9 +154,11 @@ The provisions of this section shall not—
 
 (Sept. 26, 1914, ch. 311, §20, as added Pub. L. 96–252, §13, May 28, 1980, 94 Stat. 380; amended Pub. L. 103–312, §7, Aug. 26, 1994, 108 Stat. 1693; Pub. L. 103–438, §3(e)(2)(B), Nov. 2, 1994, 108 Stat. 4598.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Clayton Act, referred to in subsec. (a)(8)(B), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, whichis classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of this title, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of this title and Tables.
+The Clayton Act, referred to in subsec. (a)(8)(B), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of this title, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of this title and Tables.
 
 The International Antitrust Enforcement Assistance Act of 1994, referred to in subsec. (a)(8)(C), is Pub. L. 103–438, Nov. 2, 1994, 108 Stat. 4597, which is classified principally to chapter 88 (§6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
@@ -183,6 +185,8 @@ Subsec. (c)(4) to (14). Pub. L. 103–312, §7(b)(2), added pars. (4) and (12) a
 Subsec. (g). Pub. L. 103–312, §7(c), inserted ", tangible things" after "documentary material".
 
 Subsec. (j)(1). Pub. L. 103–312, §7(d), inserted before semicolon at end ", any proceeding under section 11(b) of the Clayton Act (15 U.S.C. 21(b)), or any adjudicative proceeding under any other provision of law".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

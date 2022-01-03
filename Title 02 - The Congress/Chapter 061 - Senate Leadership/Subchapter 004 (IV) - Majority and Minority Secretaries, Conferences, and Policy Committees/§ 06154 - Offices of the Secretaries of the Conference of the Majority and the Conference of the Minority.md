@@ -60,7 +60,7 @@ Pub. L. 116–260, div. I, title I, §104, Dec. 27, 2020, 134 Stat. 1631, provid
 
 &emsp;"(3) any reference to the Secretary of the applicable conference under section 207(e)(9)(M) of title 18, United States Code, shall be deemed to refer to the Assistant Leader of the applicable conference.
 
-"(d) For purposes of any individual employed by the Office of the Assistant Leader of the applicable conference during the covered period and with respect to any practice that occurs during the covered period, any reference to the Office of the Secretary of the applicable conference under section 220(e)(2)(C) of the Congressional Accountability Act of 1995 (2 U.S.C. 1351(e)(2)(C)) shall be deemed to be a reference to the Office of the Assistant Leader of the applicable conference.
+"(d) For purposes of any individual employed by the Office of the Assistant Leader of the applicable conference during the covered period and with respect to any practice that occurs during the covered period, any reference to the Office of the Secretary of the applicable conference under section 220(e)(2)(C) of the Congressional Accountability Act of 1995 (2 U.S.C. 1351(e)(2)(C))shall be deemed to be a reference to the Office of the Assistant Leader of the applicable conference.
 
 "(e) Nothing in this section shall be construed to have any effect on the continuation of any procedure or action initiated under the Congressional Accountability Act of 1995 (2 U.S.C. 1301 et seq.) or section 207 of title 18, United States Code."
 

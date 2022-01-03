@@ -22,7 +22,7 @@ Where—
 
 #### (c) Exception to subsection (b) payment adjustment
 
-There shall be no adjustment as provided in subsection (b) (nor shall there be recovery) in any case where the incorrect payment has been made (including payments under section 1395f(e) of this title) with respect to an individual who is without fault or where the adjustment (or recovery) would be made by decreasing payments to which another person who is without fault is entitled as provided in subsection (b)(4), if such adjustment (or recovery) would defeat the purposes of subchapter II or subchapter XVIII or would be against equity and good conscience. Adjustment or recovery of an incorrect payment (or only such part of an incorrect payment as the Secretary determines to be inconsistent with the purposes of this subchapter) against an individual who is without fault shall be deemed to be against equity and good conscience if (A) the incorrect payment was made for expenses incurred for items or services for which payment may not be made under this subchapter by reason of the provisions of paragraph (1) or (9) of section 1395y(a) of this title and (B) if the Secretary's determination that such payment was incorrect was made subsequent to the fifth year following the year in which notice of such payment was sent to such individual; except that the Secretary may reduce such five-year period to not less than one year if he finds such reduction is consistent with the objectives of this subchapter.
+There shall be no adjustment as provided in subsection (b) (nor shall there be recovery) in any case where the incorrect payment has been made (including payments under section 1395f(e) of this title) with respect to an individual who is without fault or where the adjustment (or recovery) would be made by decreasing payments to which another person who is without fault is entitled as provided in subsection (b)(4), if such adjustment (or recovery) would defeat the purposes of subchapter II or subchapter XVIII or would be against equity and good conscience. Adjustment or recovery of an incorrect payment (or only such part of an incorrect payment as the Secretary determines to be inconsistentwith the purposes of this subchapter) against an individual who is without fault shall be deemed to be against equity and good conscience if (A) the incorrect payment was made for expenses incurred for items or services for which payment may not be made under this subchapter by reason of the provisions of paragraph (1) or (9) of section 1395y(a) of this title and (B) if the Secretary's determination that such payment was incorrect was made subsequent to the fifth year following the year in which notice of such payment was sent to such individual; except that the Secretary may reduce such five-year period to not less than one year if he finds such reduction is consistent with the objectives of this subchapter.
 
 #### (d) Liability of certifying or disbursing officer for failure to recoup
 
@@ -40,7 +40,7 @@ If an individual, who received services for which payment may be made to such in
 
 &emsp;(4) if there is no person who meets the requirements of paragraph (1), (2), or (3), or if each person who meets such requirements dies before the payment due him under this subchapter is completed, to the parent or parents, if any, of the deceased individual who were, for the month in which the deceased individual died, entitled to monthly benefits on the basis of the same wages and self-employment income as was the deceased individual (and, in case there is more than one such parent, in equal parts to each such parent);
 
-&emsp;(5) if there is no person who meets the requirements of paragraph (1), (2), (3), or (4), orif each person who meets such requirements dies before the payment due him under this subchapter is completed, to the person, if any, determined by the Secretary to be the surviving spouse of the deceased individual;
+&emsp;(5) if there is no person who meets the requirements of paragraph (1), (2), (3), or (4), or if each person who meets such requirements dies before the payment due him under this subchapter is completed, to the person, if any, determined by the Secretary to be the surviving spouse of the deceased individual;
 
 &emsp;(6) if there is no person who meets the requirements of paragraph (1), (2), (3), (4), or (5), or if each person who meets such requirements dies before the payment due him under this subchapter is completed, to the person or persons, if any, determined by the Secretary to be the child or children of the deceased individual (and, in case there is more than one such child, in equal parts to each such child);
 
@@ -68,6 +68,8 @@ Notwithstanding subsection (f) or any other provision of law, the Secretary shal
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1870, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 331; amended Pub. L. 90–248, title I, §154(b), (c), Jan. 2, 1968, 81 Stat. 862; Pub. L. 92–603, title II, §§261(a), 266, 281(a), (b), Oct. 30, 1972, 86 Stat. 1448, 1450, 1454, 1455; Pub. L. 93–445, title III, §309, Oct. 16, 1974, 88 Stat. 1358; Pub. L. 96–499, title IX, §954(a), Dec. 5, 1980, 94 Stat. 2647; Pub. L. 97–248, title I, §128(d)(1), Sept. 3, 1982, 96 Stat. 367; Pub. L. 100–203, title IV, §§4039(h)(7), 4096(a)(2), Dec, 22, 1987, 101 Stat. 1330–139, as amended Pub. L. 100–360, title IV, §411(e)(3), July 1, 1988, 102 Stat. 776; Pub. L. 100–360, title IV, §411(j)(4)(B), July 1, 1988, 102 Stat. 791; Pub. L. 108–173, title IX, §939(a), Dec. 8, 2003, 117 Stat. 2416; Pub. L. 112–240, title VI, §638(a), Jan. 2, 2013, 126 Stat. 2357.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Railroad Retirement Act of 1974, referred to in subsec. (b), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
@@ -92,7 +94,7 @@ Subsec. (f)(1), (2). Pub. L. 100–203, §4096(a)(2), substituted "to the terms 
 
 <b>1974</b>—Subsec. (b). Pub. L. 93–445 substituted "Railroad Retirement Act of 1974" for "Railroad Retirement Act of 1937", wherever appearing.
 
-<b>1972</b>—Subsec. (b). Pub. L. 92–603, §281(a), required that provider of services or other person be without faultwith respect to payment of excess over correct amount as prerequisite to adjustment or recovery of incorrect payments.
+<b>1972</b>—Subsec. (b). Pub. L. 92–603, §281(a), required that provider of services or other person be without fault with respect to payment of excess over correct amount as prerequisite to adjustment or recovery of incorrect payments.
 
 Subsec. (c). Pub. L. 92–603, §§261(a), 281(b), substituted "or where the adjustment (or recovery) would be made by decreasing payments to which another person who is without fault is entitled as provided in subsection (b)(4), if" for "and where", inserted reference to subchapter XVIII of this chapter, and inserted provisions covering the adjustment or recovery of incorrect payments against individuals who are without fault.
 
@@ -101,6 +103,8 @@ Subsec. (g). Pub. L. 92–603, §266, added subsec. (g).
 <b>1968</b>—Pub. L. 90–248, §154(b), provided for settlement of claims for benefits on behalf of deceased individuals in section catchline.
 
 Subsecs. (e), (f). Pub. L. 90–248, §154(c), added subsecs. (e) and (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2013 Amendment
 

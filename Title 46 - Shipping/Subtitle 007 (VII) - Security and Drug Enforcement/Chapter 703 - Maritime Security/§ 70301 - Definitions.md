@@ -32,7 +32,7 @@ Historical and Revision Notes
 
 Pub. L. 99–399, title IX, §911, Aug. 27, 1986, 100 Stat. 892.
 
-In paragraph (2), the term "vessel of the United States" is omitted because the definition of that term in 46 U.S.C. 2101 is being moved to chapter 1 of the revised title and will apply generally throughout the title.
+In paragraph (2), the term "vessel of the United States" is omitted because the definition of that termin 46 U.S.C. 2101 is being moved to chapter 1 of the revised title and will apply generally throughout the title.
 
 In paragraph (3), the definition of "Secretary" is new. The functions of the Secretary of Transportation under this chapter were carried out by the Coast Guard, and its functions have been transferred to the Department of Homeland Security (except when operating as a service in the Navy) by section 888 of the Homeland Security Act of 2002 (Pub. L. 107–296, 116 Stat. 2249).
 

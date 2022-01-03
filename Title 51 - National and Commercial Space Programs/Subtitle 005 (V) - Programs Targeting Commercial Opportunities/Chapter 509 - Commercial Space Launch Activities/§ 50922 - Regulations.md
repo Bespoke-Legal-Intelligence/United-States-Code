@@ -48,7 +48,7 @@ Effective Date.—(1) Licenses for the launch or reentry of launch vehicles or r
 
 The date of the enactment of this section, referred to in subsecs. (a) and (b), is the date of enactment of Pub. L. 105–303, which was approved Oct. 28, 1998.
 
-The Commercial Space Launch Amendments Act of 2004, referred to in subsecs. (c) and (d), is Pub. L. 108–492, Dec. 23, 2004, 118 Stat. 3974, which was approved Dec. 23, 2004. For complete classification of this Act to the Code, see Short Title of 2004 Act note set out under section 10101 of this title and Tables.
+The Commercial Space Launch Amendments Act of 2004, referred to in subsecs. (c) and (d), is Pub. L. 108–492, Dec. 23, 2004, 118 Stat. 3974, which was approvedDec. 23, 2004. For complete classification of this Act to the Code, see Short Title of 2004 Act note set out under section 10101 of this title and Tables.
 
 #### Amendments
 

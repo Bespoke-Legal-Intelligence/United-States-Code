@@ -24,13 +24,15 @@
 
 #### (b) Projects for medically underserved populations; eligible grantees; maximum amounts; authorization of appropriations
 
-(1) The Secretary may make grants to public and nonprofit private entities for projects for (A) construction or modernization of outpatient medical facilities which are located apart fromhospitals and which will provide services for medically underserved populations, and (B) conversion of existing facilities into outpatient medical facilities or facilities for long-term care to provide services for such populations.
+(1) The Secretary may make grants to public and nonprofit private entities for projects for (A) construction or modernization of outpatient medical facilities which are located apart from hospitals and which will provide services for medically underserved populations, and (B) conversion of existing facilities into outpatient medical facilities or facilities for long-term care to provide services for such populations.
 
 (2) The amount of any grant under paragraph (1) may not exceed 80 per centum of the cost of the project for which the grant is made unless the project is located in an area determined by the Secretary to be an urban or rural poverty area, in which case the grant may cover up to 100 per centum of such costs.
 
 (3) There are authorized to be appropriated for grants under paragraph (1) $15,000,000 for the fiscal year ending September 30, 1981, and $15,000,000 for the fiscal year ending September 30, 1982.
 
 (July 1, 1944, ch. 373, title XVI, §1610, formerly §1625, as added Pub. L. 93–641, §4, Jan. 4, 1975, 88 Stat. 2268; amended Pub. L. 95–83, title I, §103(b), Aug. 1, 1977, 91 Stat. 383; renumbered §1610 and amended Pub. L. 96–79, title II, §§201(c), 203(b), Oct. 4, 1979, 93 Stat. 631, 635.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -47,6 +49,8 @@ Subsec. (c). Pub. L. 96–79, §201(c), redesignated subsec. (c) as par. (2) of 
 Subsec. (d). Pub. L. 96–79, §201(c), struck out subsec. (d) which related to provisions making available 22 per centum of sums appropriated under former section 300p–3 of this title for subsec. (a) grants, including an additional appropriations authorization of $67,500,000 for such grants for fiscal year ending Sept. 30, 1978.
 
 <b>1977</b>—Subsec. (d). Pub. L. 95–83 authorized additional grant appropriations of $67,500,000 for fiscal year ending Sept. 30, 1978.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1979 Amendment
 

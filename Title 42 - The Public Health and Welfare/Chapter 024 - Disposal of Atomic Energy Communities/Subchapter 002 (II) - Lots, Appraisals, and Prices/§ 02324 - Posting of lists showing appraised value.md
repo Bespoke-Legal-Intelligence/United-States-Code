@@ -4,6 +4,8 @@ Lists showing the appraised value of each parcel of property to be offered for s
 
 (Aug. 4, 1955, ch. 543, ch. 3, §34, 69 Stat. 474.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transfer of Functions
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.

@@ -2,7 +2,7 @@
 
 #### (a) Reinstatement of health insurance
 
-A servicemember who, by reason of military service as defined in section 4023(a)(1) of thistitle, is entitled to the rights and protections of this chapter shall also be entitled upon termination or release from such service to reinstatement of any health insurance that—
+A servicemember who, by reason of military service as defined in section 4023(a)(1) of this title, is entitled to the rights and protections of this chapter shall also be entitled upon termination or release from such service to reinstatement of any health insurance that—
 
 &emsp;(1) was in effect on the day before such service commenced; and
 
@@ -38,6 +38,8 @@ An application under this section must be filed not later than 120 days after th
 
 (Oct. 17, 1940, ch. 888, title VII, §704, as added Pub. L. 108–189, §1, Dec. 19, 2003, 117 Stat. 2864; amended Pub. L. 109–233, title III, §302, June 15, 2006, 120 Stat. 406.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 594 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
@@ -51,6 +53,8 @@ A prior section 704 of act Oct. 17, 1940, ch. 888, art. VII, as added Pub. L. 10
 <b>2006</b>—Subsec. (b)(3). Pub. L. 109–233, §302(b), substituted "in a case in which the" for "if the".
 
 Subsec. (e). Pub. L. 109–233, §302(a), added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

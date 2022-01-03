@@ -28,6 +28,8 @@ Any reference in a law, map, regulation, document, paper, or other record of the
 
 (Pub. L. 106–554, §1(a)(4) \[div. B, title IV, §401\], Dec. 21, 2000, 114 Stat. 2763, 2763A–266.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Miscellaneous Appropriations Act, 2001, and also as part of the Consolidated Appropriations Act, 2001, and not as part of the Department of Energy Organization Act which comprises this chapter.

@@ -18,7 +18,7 @@
 
 (1) Each report required under subsection (a) shall include, but not be limited to, an assessment by the Commission regarding—
 
-&emsp;(A) the actual effect, during the period covered by the report, of this chapter on the United States economy generally as well as on those specific domestic industries which produce articles that are like, or directly competitive with, articles being imported into the United States from beneficiary countries;
+&emsp;(A) the actual effect, during the period covered by the report, of this chapter on the United States economy generally as well as onthose specific domestic industries which produce articles that are like, or directly competitive with, articles being imported into the United States from beneficiary countries;
 
 &emsp;(B) the probable future effect that this chapter will have on the United States economy generally, as well as on such domestic industries, before the provisions of this chapter terminate; and
 
@@ -37,6 +37,8 @@
 (2) The Commission shall provide an opportunity for the submission by the public, either orally or in writing, or both, of information relating to matters that will be addressed in the reports.
 
 (Pub. L. 102–182, title II, §206, Dec. 4, 1991, 105 Stat. 1243; Pub. L. 106–200, title II, §211(d)(2), May 18, 2000, 114 Stat. 287.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

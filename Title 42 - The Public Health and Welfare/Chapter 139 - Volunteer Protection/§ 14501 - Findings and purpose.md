@@ -10,7 +10,7 @@ The Congress finds and declares that—
 
 &emsp;(3) the contribution of these programs to their communities is thereby diminished, resulting in fewer and higher cost programs than would be obtainable if volunteers were participating;
 
-&emsp;(4) because Federal funds are expended on useful and cost-effective social service programs, many of which are national in scope,depend heavily on volunteer participation, and represent some of the most successful public-private partnerships, protection of volunteerism through clarification and limitation of the personal liability risks assumed by the volunteer in connection with such participation is an appropriate subject for Federal legislation;
+&emsp;(4) because Federal funds are expended on useful and cost-effective social service programs, many of which are national in scope, depend heavily on volunteer participation, and represent some of the most successful public-private partnerships, protection of volunteerism through clarification and limitation of the personal liability risks assumed by the volunteer in connection with such participation is an appropriate subject for Federal legislation;
 
 &emsp;(5) services and goods provided by volunteers and nonprofit organizations would often otherwise be provided by private entities that operate in interstate commerce;
 
@@ -33,6 +33,8 @@ The Congress finds and declares that—
 The purpose of this chapter is to promote the interests of social service program beneficiaries and taxpayers and to sustain the availability of programs, nonprofit organizations, and governmental entities that depend on volunteer contributions by reforming the laws to provide certain protections from liability abuses related to volunteers serving nonprofit organizations and governmental entities.
 
 (Pub. L. 105–19, §2, June 18, 1997, 111 Stat. 218.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

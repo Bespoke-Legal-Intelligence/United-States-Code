@@ -8,6 +8,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Pub. L. 114–92, div. A, title X, §1073(c)(2), Nov. 25, 2015, 129 Stat. 996, struck out item 10542 "Army National Guard combat readiness: annual report".

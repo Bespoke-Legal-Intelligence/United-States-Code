@@ -24,7 +24,7 @@ The Alien Property Custodian is authorized and directed (after the payment of de
 
 #### (e) Issuance of certificates
 
-The Secretary of the Treasury is authorized and directed to issue to the Alien Property Custodian, upon such terms and conditions andunder such regulations as the Secretary of the Treasury may prescribe, one or more participating certificates, bearing interest payable annually (as nearly as may be) at the rate of 5 per centum per annum, as evidence of the investment by the Alien Property Custodian under subsection (a), and one or more non-interest bearing participating certificates, as evidence of the investment by the Alien Property Custodian under subsection (b). All such certificates shall evidence a participating interest, in accordance with, and subject to the priorities of, the provisions of section 4 of the Settlement of War Claims Act of 1928, in the funds in the German special deposit account created by such section, except that—
+The Secretary of the Treasury is authorized and directed to issue to the Alien Property Custodian, upon such terms and conditions and under such regulations as the Secretary of the Treasury may prescribe, one or more participating certificates, bearing interest payable annually (as nearly as may be) at the rate of 5 per centum per annum, as evidence of the investment by the Alien Property Custodian under subsection (a), and one or more non-interest bearing participating certificates, as evidence of the investment by the Alien Property Custodian under subsection (b). All such certificates shall evidence a participating interest, in accordance with, and subject to the priorities of, the provisions of section 4 of the Settlement of War Claims Act of 1928, in the funds in the German special deposit account created by such section, except that—
 
 (1) The United States shall assume no liability, directly or indirectly, for the payment of any such certificates, or of the interest thereon, except out of funds in such special deposit account available therefor, and all such certificates shall so state on their face; and
 
@@ -36,9 +36,11 @@ Any amount of principal or interest paid to the Alien Property Custodian in acco
 
 #### (g) Transfers of money and proceeds of property owned by Austrian or Hungarian Governments
 
-The Alien Property Custodian is authorized and directed (after the payment of debts under section 4309 of this title) to transfer to the Secretary of the Treasury, for deposit in the special deposit account (Austrian or Hungarian, as the case may be), created by section 7 of the Settlement of War Claims Act of 1928, all money and the proceeds of all property, including all income, dividends, interest, annuities, and earnings accumulated in respect thereof, owned by the Austrian Government or any corporation all the stock of which was owned by or on behalf of the Austrian Government (including the property of the Imperial Royal Tobacco Monopoly, also known under the name of K. K. Oesterreichische Tabak Regie), or owned by the Hungarian Government or by any corporation all the stock of which was owned by or on behalf of the Hungarian Government.
+The Alien Property Custodian is authorized and directed (after the payment of debts under section 4309 of this title) to transfer to the Secretary of the Treasury, for deposit in the special deposit account (Austrian or Hungarian, as the case may be), created by section 7 of the Settlement of War Claims Act of 1928, all money and the proceeds of all property, including all income, dividends, interest, annuities, and earnings accumulated in respect thereof, owned by the Austrian Government or any corporation all the stock of which was owned by or on behalf of the Austrian Government (including the property of the Imperial Royal Tobacco Monopoly, also known under the name of K. K. Oesterreichische Tabak Regie), or owned by the Hungarian Government or by any corporationall the stock of which was owned by or on behalf of the Hungarian Government.
 
 (Oct. 6, 1917, ch. 106, §25, as added Mar. 10, 1928, ch. 167, §10, 45 Stat. 268; amended Feb. 21, 1929, ch. 291, 45 Stat. 1255; Mar. 10, 1930, ch. 75, §2, 46 Stat. 84.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -55,6 +57,8 @@ Section was formerly classified to section 25 of the former Appendix to this tit
 <b>1930</b>—Subsec. (d)(1). Act Mar. 10, 1930, substituted "three years" for "two years".
 
 <b>1929</b>—Subsec. (d)(1). Act Feb. 21, 1929, substituted "two years" for "one year".
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

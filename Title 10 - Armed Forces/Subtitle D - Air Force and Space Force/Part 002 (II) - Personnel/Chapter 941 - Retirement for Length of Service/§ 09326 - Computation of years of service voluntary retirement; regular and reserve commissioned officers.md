@@ -12,7 +12,7 @@
 
 (d) Section 972(b) of this title excludes from computation of an officer's years of service for purposes of this section any time identified with respect to that officer under that section.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 552, §8926; Pub. L. 86–197, §1(8), Aug. 25, 1959, 73 Stat. 426; Pub. L. 101–189, div. A, title VI, §652(a)(7), Nov. 29, 1989, 103 Stat. 1461; Pub. L. 104–106, div. A, title V, §561(d)(4)(B), Feb. 10, 1996, 110 Stat. 323; renumbered §9326 and amended Pub. L. 115–232, div. A, title VIII, §§806(b)(13), 809(a), Aug. 13, 2018, 132 Stat. 1833, 1840; Pub. L. 116–283, div. A, title IX, §923(c)(19), Jan. 1, 2021, 134 Stat. 3812.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 552, §8926; Pub. L. 86–197, §1(8), Aug. 25, 1959, 73 Stat. 426; Pub. L.101–189, div. A, title VI, §652(a)(7), Nov. 29, 1989, 103 Stat. 1461; Pub. L. 104–106, div. A, title V, §561(d)(4)(B), Feb. 10, 1996, 110 Stat. 323; renumbered §9326 and amended Pub. L. 115–232, div. A, title VIII, §§806(b)(13), 809(a), Aug. 13, 2018, 132 Stat. 1833, 1840; Pub. L. 116–283, div. A, title IX, §923(c)(19), Jan. 1, 2021, 134 Stat. 3812.)
 
 Historical and Revision Notes
 
@@ -80,6 +80,8 @@ In subsection (b), the words "as a member of the Medical Reserve Corps", in 10:9
 
 Subsection (c) is substituted for 10:953a (less 1st sentence).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283, §923(c)(19)(B), which directed amendment of subsec. (a) by substituting "the officer's" for "his" wherever appearing, was executed by making the substitution wherever appearing in this section to reflect the probable intent of Congress.
@@ -107,6 +109,8 @@ Subsec. (a)(3), (4). Pub. L. 101–189, §652(a)(7)(A)(iii), struck out pars. (3
 Subsec. (d). Pub. L. 101–189, §652(a)(7)(B), struck out subsec. (d) which read as follows: "For the purpose of determining whether an Air Force nurse or medical specialist may be retired under section 8911 of this title, all service computed under section 8683 of this title, shall be treated as if it was service as a commissioned officer."
 
 <b>1959</b>—Subsec. (d). Pub. L. 86–197 added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

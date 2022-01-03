@@ -16,6 +16,8 @@ This subchapter shall not affect the right of a servicemember to take action dur
 
 (Oct. 17, 1940, ch. 888, title V, §506, as added Pub. L. 108–189, §1, Dec. 19, 2003, 117 Stat. 2857.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 566 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
@@ -23,6 +25,8 @@ Section was formerly classified to section 566 of the former Appendix to this ti
 #### Prior Provisions
 
 A prior section 506 of act Oct. 17, 1940, ch. 888, art. V, 54 Stat. 1188; Pub. L. 102–12, §9(21), Mar. 18, 1991, 105 Stat. 41, related to mineral permits and leases and the suspension of operations and term of permits and leases, prior to the general amendment of this Act by Pub. L. 108–189. See section 3995 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

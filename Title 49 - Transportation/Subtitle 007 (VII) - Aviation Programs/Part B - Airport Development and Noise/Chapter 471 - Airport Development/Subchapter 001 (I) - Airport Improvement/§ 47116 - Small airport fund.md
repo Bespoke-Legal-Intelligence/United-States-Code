@@ -26,7 +26,7 @@ Priority Consideration for Certain Projects.—
 
 &emsp;(1)
 
-Construction of new runways.—In making grants to sponsors described in subsection (b)(2), the Secretary shall give priority consideration to multi-year projects for construction of new runways that the Secretary finds are cost beneficial and would increase capacity in a region of the United States.
+Construction of new runways.—In making grants to sponsors described in subsection (b)(2), the Secretary shall give priority consideration to multi-year projects for constructionof new runways that the Secretary finds are cost beneficial and would increase capacity in a region of the United States.
 
 &emsp;(2)
 
@@ -80,6 +80,8 @@ In subsection (b), before clause (1), the words "under this subsection" are omit
 
 In subsection (c), the word "pilot" is added for consistency with section 47128 of the revised title.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (d)(2). Pub. L. 115–254, §154, amended par. (2) generally. Prior to amendment, text read as follows: "In making grants to sponsors described in subsection (b)(1), the Secretary shall give priority consideration to airport development projects to support operations by turbine powered aircraft if the non-Federal share of the project is at least 40 percent."
@@ -100,6 +102,8 @@ Subsec. (b). Pub. L. 106–6, §8(b)(2), added pars. (1) and (2) and redesignate
 
 <b>1996</b>—Subsec. (d). Pub. L. 104–264 added subsec. (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2003 Amendment
 
 Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
@@ -110,5 +114,5 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 #### Effective Date of 1996 Amendment
 
-Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal yearsbeginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 

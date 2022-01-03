@@ -4,6 +4,8 @@ No return may be made pursuant to section 4309 or 4329 of this title unless noti
 
 (Oct. 6, 1917, ch. 106, §33, as added Dec. 18, 1941, ch. 593, title III, §305, as added Aug. 8, 1946, ch. 878, §1, 60 Stat. 925; amended Aug. 5, 1947, ch. 499, §3, 61 Stat. 786; July 1, 1948, ch. 794, 62 Stat. 1218; Feb. 9, 1954, ch. 4, 68 Stat. 7; Aug. 23, 1954, ch. 830, §2, 68 Stat. 768; Pub. L. 87–846, title II, §204(b), Oct. 22, 1962, 76 Stat. 1115.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 33 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
@@ -12,7 +14,7 @@ Prior to classification as section 33, section was formerly classified to sectio
 
 #### Amendments
 
-<b>1962</b>—Pub. L. 87–846 struck out before period at end of first sentence "; except that return may be made to successor organizations designated pursuant to section4329(h) of this title if notice of claim is filed before the expiration of one year from the effective date of this Act".
+<b>1962</b>—Pub. L. 87–846 struck out before period at end of first sentence "; except that return may be made to successor organizations designated pursuant to section 4329(h) of this title if notice of claim is filed before the expiration of one year from the effective date of this Act".
 
 <b>1954</b>—Act Aug. 23, 1954, inserted before period at end of first sentence "; except that return may be made to successor organizations designated pursuant to section 4329(h) of this title if notice of claim is filed before the expiration of one year from the effective date of this Act".
 
@@ -21,6 +23,8 @@ Act Feb. 9, 1954, substituted "not later than one year from February 9, 1954" fo
 <b>1948</b>—Act July 1, 1948, amended section generally, extending time for filing claims under section 4309 or 4329 of this title.
 
 <b>1947</b>—Act Aug. 5, 1947, provided that notice of certain claims could be filed by Aug. 8, 1948, or that Italian notice of claim could be filed by July 31, 1949.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

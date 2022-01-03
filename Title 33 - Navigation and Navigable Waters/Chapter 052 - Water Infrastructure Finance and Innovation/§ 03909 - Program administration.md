@@ -66,7 +66,7 @@ Not later than 180 days after the date on which the Administrator receives a com
 
 #### (2) Duties
 
-&emsp;The Administrator may act as an agent for the head of another Federal agency under paragraph (1), subject to the terms of any agreement entered into by the Administratorand the head of such other agency under such clause.
+&emsp;The Administrator may act as an agent for the head of another Federal agency under paragraph (1), subject to the terms of any agreement entered into by the Administrator and the head of such other agency under such clause.
 
 #### (3) Transfer of funds
 

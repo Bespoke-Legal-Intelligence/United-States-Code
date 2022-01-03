@@ -56,7 +56,7 @@ Not later than thirty-six months after November 8, 1984, the Administrator shall
 
 #### (5) Alaska Native villages
 
-&emsp;Upon certification by the Governor of the State of Alaska that application of the requirements described in paragraph (1) to a solid waste landfill unit of a Native village (as defined in section 1602 of title 43) or unit that is located in or near a small, remote Alaska village would be infeasible, or would not be cost-effective, or is otherwise inappropriate because of the remote location of the unit, the State may exempt the unit from some or all ofthose requirements. This paragraph shall apply only to solid waste landfill units that dispose of less than 20 tons of municipal solid waste daily, based on an annual average.
+&emsp;Upon certification by the Governor of the State of Alaska that application of the requirements described in paragraph (1) to a solid waste landfill unit of a Native village (as defined in section 1602 of title 43) or unit that is located in or near a small, remote Alaska village would be infeasible, or would not be cost-effective, or is otherwise inappropriate because of the remote location of the unit, the State may exempt the unit from some or all of those requirements. This paragraph shall apply only to solid waste landfill units that dispose of less than 20 tons of municipal solid waste daily, based on an annual average.
 
 #### (6) Further revisions of guidelines and criteria
 
@@ -64,9 +64,13 @@ Not later than thirty-six months after November 8, 1984, the Administrator shall
 
 (Pub. L. 89–272, title II, §4010, as added Pub. L. 98–616, title III, §302(a)(1), Nov. 8, 1984, 98 Stat. 3267; amended Pub. L. 104–119, §3(a), Mar. 26, 1996, 110 Stat. 831.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (c). Pub. L. 104–119 designated existing provisions as par. (1), inserted heading, and added pars. (2) to (6).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Reinstatement of Regulatory Exemption
 

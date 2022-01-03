@@ -336,7 +336,7 @@ The purposes of the Center shall be to—
 
 #### (12) Bylaws
 
-&emsp;The Board shall adopt, and may from time to time amend, any bylaw that is necessary for the proper management and functioning of the Center.
+&emsp;The Board shall adopt, and may from time to time amend, any bylaw that is necessaryfor the proper management and functioning of the Center.
 
 #### (13) Public hearings
 
@@ -368,7 +368,7 @@ The purposes of the Center shall be to—
 
 #### (2) Other officers and employees
 
-&emsp;The Board may select and appoint officers, attorneys, employees, and agents who shall bevested with such powers and duties as the Board may determine.
+&emsp;The Board may select and appoint officers, attorneys, employees, and agents who shall be vested with such powers and duties as the Board may determine.
 
 #### (3) Delegation
 
@@ -414,6 +414,8 @@ To carry out this section, the Board may consult with—
 
 (Aug. 14, 1946, ch. 966, title II, §210, formerly Pub. L. 87–128, title III, §375, as added Pub. L. 104–127, title VII, §759, Apr. 4, 1996, 110 Stat. 1132; amended Pub. L. 106–78, title VIII, §816, Oct. 22, 1999, 113 Stat. 1182; Pub. L. 106–387, §1(a) \[title VII, §756\], Oct. 28, 2000, 114 Stat. 1549, 1549A–43; Pub. L. 107–76, title VII, §731, Nov. 28, 2001, 115 Stat. 736; Pub. L. 108–7, div. A, title VII, §728, Feb. 20, 2003, 117 Stat. 42; Pub. L. 108–199, div. A, title VII, §726, Jan. 23, 2004, 118 Stat. 35; Pub. L. 108–447, div. A, title VII, §725, Dec. 8, 2004, 118 Stat. 2842; Pub. L. 110–234, title XI, §11009(a), (b)(1), May 22, 2008, 122 Stat. 1359; Pub. L. 110–246, §4(a), title XI, §11009(a), (b)(1), June 18, 2008, 122 Stat. 1664, 2120, 2121; renumbered act Aug. 14, 1946, §210, and amended Pub. L. 113–79, title XII, §12102(b), Feb. 7, 2014, 128 Stat. 979.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsec. (i)(2)(C), probably means the Consolidated Farm and Rural Development Act, title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 294, which is classified principally to chapter 50 (§1921 et seq.) of this title and of which this section was formerly a part prior to renumbering by Pub. L. 113–79. For classification of this Act to the Code, see Short Title note set out under section 1921 of this title and Tables.
@@ -456,7 +458,7 @@ Subsec. (e)(3)(D). Pub. L. 106–78, §816(b)(1)(C), (F), redesignated subpar. (
 
 Subsec. (e)(3)(E). Pub. L. 106–78, §816(b)(1)(F), redesignated subpar. (F) as (E). Former subpar. (E) redesignated (D).
 
-Pub. L. 106–78, §816(b)(1)(D), added subpar. (E) and struck out heading and text of former subpar. (E). Textread as follows: "The Center may not use more than 3 percent of the amounts in the Fund for a fiscal year for the administration of the Center."
+Pub. L. 106–78, §816(b)(1)(D), added subpar. (E) and struck out heading and text of former subpar. (E). Text read as follows: "The Center may not use more than 3 percent of the amounts in the Fund for a fiscal year for the administration of the Center."
 
 Subsec. (e)(3)(F) to (H). Pub. L. 106–78, §816(b)(1)(F), redesignated subpars. (G) and (H) as (F) and (G), respectively. Former subpar. (F) redesignated (E).
 
@@ -475,6 +477,8 @@ Subsec. (f)(5)(C). Pub. L. 106–78, §816(c)(2), added subpar. (C) and struck o
 Subsec. (f)(6)(B). Pub. L. 106–78, §816(c)(3), added subpar. (B) and struck out heading and text of former subpar. (B). Text read as follows: "A member elected to fill a vacancy for an unexpired term may be reelected for 1 full term."
 
 Subsec. (j). Pub. L. 106–78, §816(d), added subsec. (j).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

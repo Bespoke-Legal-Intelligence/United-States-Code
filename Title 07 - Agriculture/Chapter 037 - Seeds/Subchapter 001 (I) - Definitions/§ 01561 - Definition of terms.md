@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(C) commerce within the District of Columbia.
 
-&emsp;(4) For the purposes of this chapter with respect to labeling for treatment, variety and origin (but not in anywise limiting the foregoing definition), seeds shall be considered to be in interstate commerce, or delivered for transportation in interstate commerce, if such seeds are part of, or delivered for transportation in, that current of commerce usual in the transportation and/or merchandising of seeds, whereby such seeds are sent from one State with the expectation that they will end their transit in another, including, in addition to cases within the above general description, all cases where seeds are transported or delivered for transportation to another State, or for processing or cleaning for seeding purposes within the State and shipment outside the State of the processed or cleaned seeds. Seeds normally in such current of commerce shall not be considered out of such current through resort being had to any means or device intended to remove transactions in respect thereto from the provisions of this chapter.
+&emsp;(4) For the purposes of this chapter with respect to labeling for treatment, variety and origin (but not in anywise limiting the foregoing definition), seeds shall be considered to be in interstate commerce, or delivered for transportation in interstate commerce, if such seeds are part of, or delivered for transportation in, that current of commerce usual in the transportation and/or merchandising of seeds, whereby such seeds are sent from one State with the expectation that they will endtheir transit in another, including, in addition to cases within the above general description, all cases where seeds are transported or delivered for transportation to another State, or for processing or cleaning for seeding purposes within the State and shipment outside the State of the processed or cleaned seeds. Seeds normally in such current of commerce shall not be considered out of such current through resort being had to any means or device intended to remove transactions in respect thereto from the provisions of this chapter.
 
 &emsp;(5) The term "foreign commerce" means commerce between the United States, its possessions, or any Territory of the United States, and any foreign country.
 
@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(B) "Vegetable seeds" shall include the seeds of those crops that are or may be grown in gardens or on truck farms and are or may be generally known and sold under the name of vegetable seeds.
 
-&emsp;(8) For the purpose of subchapter II, the term "weed seeds" means the seeds or bulbletsof plants recognized as weeds either by the law or rules and regulations of—
+&emsp;(8) For the purpose of subchapter II, the term "weed seeds" means the seeds or bulblets of plants recognized as weeds either by the law or rules and regulations of—
 
 &emsp;&emsp;(A) The State into which the seed is offered for transportation, or transported; or
 
@@ -78,7 +78,9 @@
 
 &emsp;(24) The term "seed certifying agency" means (A) an agency authorized under the laws of a State, Territory, or possession, to officially certify seed and which has standards and procedures approved by the Secretary (after due notice, hearings, and full consideration of the views of farmer users of certified seed and other interested parties) to assure the genetic purity and identity of the seed certified, or (B) an agency of a foreign country determined by the Secretary of Agriculture to adhere to procedures and standards for seed certification comparable to those adhered to generally by seed certifying agencies under (A).
 
-(Aug. 9, 1939, ch. 615, title I, §101, 53 Stat. 1275; June 25, 1948, ch. 646, §1, 62 Stat. 870; Aug. 1, 1956,ch. 852, §1, 70 Stat. 908; Pub. L. 85–581, §§1–3, Aug. 1, 1958, 72 Stat. 476; Pub. L. 89–686, §§1–3, 19, Oct. 15, 1966, 80 Stat. 975, 979; Pub. L. 91–89, §1, Oct. 17, 1969, 83 Stat. 134; Pub. L. 97–439, §5(a), Jan. 8, 1983, 96 Stat. 2288.)
+(Aug. 9, 1939, ch. 615, title I, §101, 53 Stat. 1275; June 25, 1948, ch. 646, §1, 62 Stat. 870; Aug. 1, 1956, ch. 852, §1, 70 Stat. 908; Pub. L. 85–581, §§1–3, Aug. 1, 1958, 72 Stat. 476; Pub. L. 89–686, §§1–3, 19, Oct. 15, 1966, 80 Stat. 975, 979; Pub. L. 91–89, §1, Oct. 17, 1969, 83 Stat. 134; Pub. L. 97–439, §5(a), Jan. 8, 1983, 96 Stat. 2288.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -122,6 +124,8 @@ Subsec. (a)(25). Pub. L. 85–581, §3, added par. (25).
 
 Subsec. (a)(9)(A)(ii). Act Aug. 1, 1956, §1(b), inserted "Guam" after "Puerto Rico".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1958 Amendment
 
 Pub. L. 85–581, §16, provided that: "This Act, and the amendments \[amending sections 1561, 1562, 1571 to 1574, 1581, 1582, and 1586 of this title\] made hereby, shall take effect upon the date of enactment \[Aug. 1, 1958\]."
@@ -129,6 +133,8 @@ Pub. L. 85–581, §16, provided that: "This Act, and the amendments \[amending 
 #### Effective Date
 
 See section 1610 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Admission of Alaska and Hawaii to Statehood
 

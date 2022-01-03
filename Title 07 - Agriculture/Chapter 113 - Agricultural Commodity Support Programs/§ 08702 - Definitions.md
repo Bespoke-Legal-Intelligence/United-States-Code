@@ -108,6 +108,8 @@ In this chapter (other than subchapter III):
 
 (Pub. L. 110–234, title I, §1001, May 22, 2008, 122 Stat. 936; Pub. L. 110–246, §4(a), title I, §1001, June 18, 2008, 122 Stat. 1664.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this title", meaning title I of Pub. L. 110–246, June 18, 2008, 122 Stat. 1664, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
@@ -121,6 +123,8 @@ Section 8713 of this title, referred to in par. (5), was repealed by Pub. L. 113
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -50,7 +50,7 @@ Execution.—(1) The Secretary may carry out projects under the program through 
 
 (d)
 
-Competition and Cost Sharing.—(1) In accordance with the policy stated in section 4008 of this title, competitive procedures shall be used for awarding all grants and entering into all contracts, cooperative agreements, and other transactions under the program.
+Competition and Cost Sharing.—(1) In accordance with the policy stated in section 4008 <sup>1</sup> of this title, competitive procedures shall be used for awarding all grants and entering into all contracts, cooperative agreements, and other transactions under the program.
 
 (2) Under the competitive procedures used, the factors to be considered in the evaluation of each proposed grant, contract, cooperative agreement, or other transaction for a project under the program shall include the extent to which that proposed transaction provides for the proposed recipient to share in the cost of the project. For a project for which the Government receives an offer from only one offeror, the contracting officer shall negotiate the ratio of contract recipient cost to Government cost that represents the best value to the Government.
 
@@ -70,6 +70,12 @@ Five-Year Strategic Plan.—(1) The Secretary shall develop a plan for the progr
 
 (Added Pub. L. 103–160, div. A, title VIII, §801(a)(1), Nov. 30, 1993, 107 Stat. 1700, §2525; amended Pub. L. 103–337, div. A, title II, §256(a)(1), Oct. 5, 1994, 108 Stat. 2704; Pub. L. 104–106, div. A, title II, §276(a), title X, §1081(e), title XV, §1503(a)(28), Feb. 10, 1996, 110 Stat. 241, 454, 512; Pub. L. 105–85, div. A, title II, §211(a), (b), Nov. 18, 1997, 111 Stat. 1657; Pub. L. 105–261, div. A, title II, §213, Oct. 17, 1998, 112 Stat. 1947; Pub. L. 106–65, div. A, title II, §216, Oct. 5, 1999, 113 Stat. 543; renumbered §2521, Pub. L. 106–398, §1 \[\[div. A\], title III, §344(c)(1)(A)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–71; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–314, div. A, title II, §213, Dec. 2, 2002, 116 Stat. 2481; Pub. L. 108–136, div. A, title X, §1031(a)(24), Nov. 24, 2003, 117 Stat. 1598; Pub. L. 110–181, div. A, title II, §238(a), Jan. 28, 2008, 122 Stat. 48; Pub. L. 111–84, div. A, title II, §212, Oct. 28, 2009, 123 Stat. 2225; Pub. L. 112–239, div. A, title X, §1076(c)(2)(A)(i), Jan. 2, 2013, 126 Stat. 1949; Pub. L. 113–291, div. A, title II, §212, Dec. 19, 2014, 128 Stat. 3325; Pub. L. 116–92, div. A, title IX, §902(76), Dec. 20, 2019, 133 Stat. 1552; renumbered §4841 and amended Pub. L. 116–283, div. A, title XVIII, §1869(b), (c)(1), Jan. 1, 2021, 134 Stat. 4283.)
 
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+Section 4008 of this title, referred to in subsec. (d)(1), probably should be a reference to section 4024 of this title. Section 4008 was originally enacted by transferring section 2374 of this title to that section by Pub. L. 116–283, div. A, title XVIII, §1841(c), Jan. 1, 2021, 134 Stat. 4243, effective Jan. 1, 2022. However, Pub. L. 117–81, div. A, title XVII, §1701(u)(2)(B), (D), Dec. 27, 2021, 135 Stat. 2151, amended Pub. L. 116–283, effective as if included therein, so as to eliminate that transfer, thereby omitting section 4008 before it took effect, and instead transferred section 2374 of this title to section 4024 of this title. See Codification note set out under section 4008 of this title.
+
 #### Prior Provisions
 
 A prior section 4841 was renumbered section 7841 of this title.
@@ -84,7 +90,345 @@ Subsec. (d)(1). Pub. L. 116–283, §1869(b)(2)(B), substituted "section 4008" f
 
 Subsecs. (e), (f). Pub. L. 116–283, §1869(c)(1), redesignated subsec. (f) as (e), transferred it to appear after subsec. (d) and transferred subsec. (e), related to Joint Defense Manufacturing Technology Panel, to section 4842 of this title.
 
+<b>2019</b>—Subsec. (a). Pub. L. 116–92, §902(76)(A), substituted "The Under Secretary of Defense for Research and Engineering" for "The Under Secretary of Defense for Acquisition, Technology, and Logistics".
+
+Subsec. (e)(4)(D). Pub. L. 116–92, §902(76)(B), substituted "Under Secretary of Defense for Research and Engineering" for "Under Secretary of Defense for Acquisition, Technology, and Logistics".
+
+Subsec. (e)(5). Pub. L. 116–92, §902(76)(C), substituted "Under Secretary of Defense for Research and Engineering" for "Under Secretary of Defense for Acquisition, Technology, and Logistics".
+
+<b>2014</b>—Subsec. (e)(5). Pub. L. 113–291, §212(a), substituted "one or more individuals designated by the Under Secretary of Defense for Acquisition, Technology, and Logistics for purposes of this paragraph" for "the Assistant Secretary of Defense for Research and Engineering".
+
+Subsec. (f)(3). Pub. L. 113–291, §212(b), substituted "not less frequently than once every four years" for "on a biennial basis".
+
+<b>2013</b>—Subsec. (e)(5). Pub. L. 112–239 substituted "Assistant Secretary of Defense for Research and Engineering" for "Director of Defense Research and Engineering".
+
+<b>2009</b>—Subsecs. (e), (f). Pub. L. 111–84 added subsec. (e) and redesignated former subsec. (e) as (f).
+
+<b>2008</b>—Subsec. (e). Pub. L. 110–181 added subsec. (e).
+
+<b>2003</b>—Subsec. (e). Pub. L. 108–136 struck out heading and text of subsec. (e) which related to preparation and maintenance of a five-year plan for the Manufacturing Technology Program by the Secretary of Defense.
+
+<b>2002</b>—Subsec. (e)(1). Pub. L. 107–314, §213(a), substituted "prepare and maintain a five-year plan for the program." for "prepare a five-year plan for the program which establishes—
+
+&emsp;"(A) the overall manufacturing technology goals, milestones, priorities, and investment strategy for the program; and
+
+&emsp;"(B) for each of the five fiscal years covered by the plan, the objectives of, and funding for the program by, each military department and each Defense Agency participating in the program."
+
+Subsec. (e)(2). Pub. L. 107–314, §213(a), substituted "establish" for "include" in introductory provisions and amended subpars. (A) and (B) generally. Prior to amendment, text read as follows:
+
+"(A) An assessment of the effectiveness of the program, including a description of all completed projects and status of implementation.
+
+"(B) An assessment of the extent to which the costs of projects are being shared by the following:
+
+&emsp;"(i) Commercial enterprises in the private sector.
+
+&emsp;"(ii) Department of Defense program offices, including weapon system program offices.
+
+&emsp;"(iii) Departments and agencies of the Federal Government outside the Department of Defense.
+
+&emsp;"(iv) Institutions of higher education.
+
+&emsp;"(v) Other institutions not operated for profit.
+
+&emsp;"(vi) Other sources."
+
+Subsec. (e)(3). Pub. L. 107–314, §213(b), substituted "biennially" for "annually" and "for each even-numbered fiscal year" for "for a fiscal year".
+
+<b>2001</b>—Subsec. (a). Pub. L. 107–107 substituted "Under Secretary of Defense for Acquisition, Technology, and Logistics" for "Under Secretary of Defense for Acquisition and Technology".
+
+<b>2000</b>—Pub. L. 106–398 renumbered section 2525 of this title as section 2521.
+
+<b>1999</b>—Subsec. (a). Pub. L. 106–65, §216(a), in first sentence, inserted "through the development and application of advanced manufacturing technologies and processes that will reduce the acquisition and supportability costs of defense weapon systems and reduce manufacturing and repair cycle times across the life cycles of such systems" after "title".
+
+Subsec. (b)(4). Pub. L. 106–65, §216(b), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "to promote dual-use manufacturing processes;".
+
+Subsec. (c)(2) to (6). Pub. L. 106–65, §216(c), added pars. (2) to (4), redesignated former par. (2) as (5), and added par. (6).
+
+Subsec. (d). Pub. L. 106–65, §216(d), struck out "(A)" before "In accordance with" in par. (1), redesignated par. (1)(B) as par. (2), substituted "Under the competitive procedures used, the factors to be considered in theevaluation of each proposed grant, contract, cooperative agreement, or other transaction for a project under the program shall include the extent to which that proposed transaction provides for the proposed recipient to share in the cost of the project." for "For each grant awarded and each contract, cooperative agreement, or other transaction entered into on a cost-share basis under the program, the ratio of contract recipient cost to Government cost shall be determined by competitive procedures.", and struck out former pars. (2) and (3) which required grants, contracts, cooperative agreements, and other transactions to be awarded or entered into on a cost-sharing basis unless the Secretary of Defense made certain determinations and specified as a goal that at least 25 percent of the funds available for the program for each fiscal year be used for grants, contracts, cooperative agreements, and other transactions on a cost-share basis under which the ratio of recipient cost to Government cost was two to one.
+
+Subsec. (e)(2)(A). Pub. L. 106–65, §216(e)(1), inserted ", including a description of all completed projects and status of implementation" before period at end.
+
+Subsec. (e)(2)(C). Pub. L. 106–65, §216(e)(2), added subpar. (C).
+
+<b>1998</b>—Subsec. (d)(1). Pub. L. 105–261, §213(a), designated existing provisions as subpar. (A), substituted "In accordance with the policy stated in section 2374 of this title, competitive" for "Competitive", and added subpar. (B).
+
+Subsec. (d)(2). Pub. L. 105–261, §213(b), designated existing provisions as subpar. (A), redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, and added subpars. (B) and (C).
+
+Subsec. (d)(3). Pub. L. 105–261, §213(c)(2), substituted "As a goal, at least" for "At least" and "should" for "shall" and inserted at end "The Secretary of Defense, in coordination with the Secretaries of the military departments and upon recommendation of the Under Secretary of Defense for Acquisition and Technology, shall establish annual objectives to meet such goal."
+
+Subsec. (d)(4). Pub. L. 105–261, §213(c)(1), struck out par. (4) which read as follows: "If the requirement of paragraph (3) cannot be met by July 15 of a fiscal year, the Under Secretary of Defense for Acquisition and Technology may waive the requirement and obligate the balance of the funds available for the program for that fiscal year on a cost-share basis under which the ratio of recipient cost to Government cost is less than two to one. Before implementing any such waiver, the Under Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives the reasons for the waiver."
+
+Subsec. (e)(2). Pub. L. 105–261, §213(d), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The plan shall include an assessment of the effectiveness of the program."
+
+<b>1997</b>—Subsec. (c)(2). Pub. L. 105–85, §211(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The Secretary shall seek, to the extent practicable, the participation of manufacturers of manufacturing equipment in the projects under the program."
+
+Subsec. (e). Pub. L. 105–85, §211(b), added subsec. (e).
+
+<b>1996</b>—Pub. L. 104–106, §276(a)(1), amended section catchline, as amended by Pub. L. 104–106, §§1503(a)(28), 1506, by striking out "Science and" after "Manufacturing".
+
+Pub. L. 104–106, §1503(a)(28), substituted "Science and Technology Program" for "science and technology program" in section catchline.
+
+Subsec. (a). Pub. L. 104–106, §276(a)(2), struck out "Science and" after "Manufacturing" and inserted after first sentence "The Secretary shall use the joint planning process of the directors of the Department of Defense laboratories in establishing the program."
+
+Subsec. (b). Pub. L. 104–106, §1081(e), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "
+
+Purpose.—The purpose of the program is to enhance the capability of industry to meet the manufacturing needs of the Department of Defense."
+
+Subsec. (c). Pub. L. 104–106, §276(a)(3), designated existing provisions as par. (1) and added par. (2).
+
+Subsec. (d)(2)(C). Pub. L. 104–106, §276(a)(4)(A), added subpar. (C).
+
+Subsec. (d)(3), (4). Pub. L. 104–106, §276(a)(4)(B), added pars. (3) and (4).
+
+<b>1994</b>—Pub. L. 103–337 substituted "Manufacturing science and technology program" for "Industrial Preparedness Manufacturing Technology Program" as section catchline and amended text generally. Prior to amendment, text read as follows: "The Secretary of Defense shall establish an Industrial Preparedness Manufacturing Technology program to enhance the capability of industry to meet the manufacturing needs of the Department of Defense."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2021 Amendment
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+#### Administration of Manufacturing Innovation Institutes Funded by the Department of Defense
+
+Pub. L. 116–92, div. A, title II, §227, Dec. 20, 2019, 133 Stat. 1270, provided that:
+
+"(a)
+
+In General.—The Secretary of Defense shall make such changes to the administration of covered institutes so as—
+
+&emsp;"(1) to encourage covered institutes to leverage existing workforce development programs across the Federal Government and State governments in order to build successful workforce development programs;
+
+&emsp;"(2) to develop metrics to evaluate the workforce development performed by the covered institutes, including metrics on job quality, career pathways, wages and benefits, and efforts to support veterans, and progress in aligning workforce skillsets with the current and long-term needs of the Department of Defense and the defense industrial base;
+
+&emsp;"(3) to allow metrics to vary between covered institutes and be updated and evaluated continuously in order to more accurately evaluate covered institutes with different goals and missions;
+
+&emsp;"(4) to encourage covered institutes to consider developing technologies that were previously funded by Federal Government investment for early-stage research and development and expand cross-government coordination and collaboration to achieve this goal;
+
+&emsp;"(5) to provide an opportunity for increased Department of Defense input and oversight from senior-level military and civilian personnel on future technology roadmaps produced by covered institutes;
+
+&emsp;"(6) to reduce the barriers to collaboration between and among multiple covered institutes;
+
+&emsp;"(7) to use contracting vehicles that can increase flexibility, reduce barriers for contracting with subject-matter experts and small and medium enterprises, enhance partnerships between covered institutes, and reduce the time to award contracts at covered institutes; and
+
+&emsp;"(8) to overcome barriers to the adoption of manufacturing processes and technologies developed by the covered institutes by the defense and commercial industrial base, particularly small and medium enterprises, by engaging with public and private sector partnerships and appropriate government programs and activities, including the Hollings Manufacturing Extension Partnership.
+
+"(b)
+
+Coordination With Other Activities.—The Secretary shall carry out this section in coordination with activities undertaken under—
+
+&emsp;"(1) the Manufacturing Technology Program established under section 2521 of title 10, United States Code \[now 10 U.S.C. 4841, 4842\];
+
+&emsp;"(2) the Manufacturing Engineering Education Program established under section 2196 of such title \[now 10 U.S.C. 4843\];
+
+&emsp;"(3) the Defense Manufacturing Community Support Program established under section 846 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232) \[10 U.S.C. 4811 note\];
+
+&emsp;"(4) manufacturing initiatives of the Secretary of Commerce, the head of the National Office of the Manufacturing USA Network, the Secretary of Energy, and such other government and private sector organizations as the Secretary of Defense considers appropriate; and
+
+&emsp;"(5) such other activities as the Secretary considers appropriate.
+
+"(c)
+
+Definition of Covered Institute.—In this section, the term 'covered institute' means a manufacturing innovation institute that is funded by the Department of Defense."
+
+#### Advanced Manufacturing Activities
+
+Pub. L. 115–232, div. A, title II, §229, Aug. 13, 2018, 132 Stat. 1688, provided that:
+
+"(a)
+
+Designation.—The Under Secretary of Defense for Acquisition and Sustainment and the Under Secretary of Defense for Research and Engineering shall jointly, in coordination with Secretaries of the military departments, establish at least one activity per military service to demonstrate advanced manufacturing techniques and capabilities at depot-level activities or military arsenal facilities of the military departments.
+
+"(b)
+
+Purposes.—The activities established pursuant to subsection (a) shall—
+
+&emsp;"(1) support efforts to implement advanced manufacturing techniques and capabilities;
+
+&emsp;"(2) identify improvements to sustainment methods for component parts and other logistics needs;
+
+&emsp;"(3) identify and implement appropriate information security protections to ensure security of advanced manufacturing;
+
+&emsp;"(4) aid in the procurement of advanced manufacturing equipment and support services;
+
+&emsp;"(5) enhance partnerships between the defense industrial base and Department of Defense laboratories, academic institutions, and industry; and
+
+&emsp;"(6) to the degree practicable, include an educational or training component to build an advanced manufacturing workforce.
+
+"(c)
+
+Cooperative Agreements and Partnerships.—
+
+&emsp;"(1)
+
+In general.—The Under Secretaries may enter into a cooperative agreement and use public-private and public-public partnerships to facilitate development of advanced manufacturing techniques in support of the defense industrial base.
+
+&emsp;"(2)
+
+Requirements.—A cooperative agreement entered into under paragraph (1) and a partnership used under such paragraph shall facilitate—
+
+&emsp;&emsp;"(A) development and implementation of advanced manufacturing techniques and capabilities;
+
+&emsp;&emsp;"(B) appropriate sharing of information in the adaptation of advanced manufacturing, including technical data rights;
+
+&emsp;&emsp;"(C) implementation of appropriate information security protections into advanced manufacturing tools and techniques; and
+
+&emsp;&emsp;"(D) support of necessary workforce development.
+
+"(d)
+
+Authorities.—In carrying out this section, the Under Secretaries may use the following authorities:
+
+&emsp;"(1) Section 2196 of title 10, United States Code \[now 10 U.S.C. 4843\], relating to the Manufacturing Engineering Education Program.
+
+&emsp;"(2) Section 2368 of such title \[now 10 U.S.C. 4124\], relating to centers for science, technology, and engineering partnership.
+
+&emsp;"(3) Section 2374a of such title \[now 10 U.S.C. 4025\], relating to prizes for advanced technology achievements.
+
+&emsp;"(4) Section 2474 of such title, relating to centers of industrial and technical excellence.
+
+&emsp;"(5) Section 2521 of such title \[now 10 U.S.C. 4841, 4842\], relating to the Manufacturing Technology Program.
+
+&emsp;"(6) Section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a) and section 6305 of title 31, United States Code, relating to cooperative research and development agreements.
+
+&emsp;"(7) Such other authorities as the Under Secretaries considers appropriate."
+
+#### Limitation on Use of Funds for Defense-Wide Manufacturing Science and Technology Program
+
+Pub. L. 110–181, div. A, title II, §214, Jan. 28, 2008, 122 Stat. 36, as amended by Pub. L. 111–383, div. A, title IX, §901(l)(2), Jan. 7, 2011, 124 Stat. 4326; Pub. L. 112–239, div. A, title X, §1076(c)(2)(F), Jan. 2, 2013, 126 Stat. 1950, provided that: "No funds available to the Office of the Secretary of Defense for any fiscal year may be obligated or expended for the defense-wide manufacturing science and technology program unless the Assistant Secretary of Defense for Research and Engineering ensures each of the following:
+
+&emsp;"(1) A component of the Department of Defense has requested and evaluated—
+
+&emsp;&emsp;"(A) competitive proposals, for each project under the program that is not a project covered by subparagraph (B); and
+
+&emsp;&emsp;"(B) proposals from as many sources as is practicable under the circumstances, for a project under the program if the disclosure of the needs of the Department of Defense with respect to that project would compromise the national security.
+
+&emsp;"(2) Each project under the program is carried out—
+
+&emsp;&emsp;"(A) in accordance with the statutory requirements of the Manufacturing Technology Program established by section 2521 of title 10, United States Code \[now 10 U.S.C. 4841, 4842\]; and
+
+&emsp;&emsp;"(B) in compliance with all requirements of any directive that applies to manufacturing technology.
+
+&emsp;"(3) An implementation plan has been developed."
+
+\[Pub. L. 111–383, div. A, title IX, §901(l)(2), Jan. 7, 2011, 124 Stat. 4326, which directed amendment of section 214 of Pub. L. 110–181, set out above, by substituting "Assistant Secretary of Defense for Research and Engineering" for "Director of Defense Research and Engineering", was executed by making the substitution for "Director, Defense Research and Engineering," to reflect the probable intent of Congress.\]
+
+#### Initial Development and Submission of Plan
+
+Pub. L. 110–181, div. A, title II, §238(b), Jan. 28, 2008, 122 Stat. 48, provided that:
+
+"(1)
+
+Development.—The Secretary of Defense shall develop the strategic plan required by subsection (e) of section 2521 of title 10, United States Code \[now 10 U.S.C. 4841(e)\] (as added by subsection (a) of this section), so that the plan goes into effect at the beginning of fiscal year 2009.
+
+"(2)
+
+Submission.—Not later than the date on which the budget of the President for fiscal year 2010 is submitted to Congress under section 1105 of title 31, United States Code, the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives the plan specified in paragraph (1)."
+
+#### High-Performance Defense Manufacturing Technology Research and Development
+
+Pub. L. 109–163, div. A, title II, subtitle D, Jan. 6, 2006, 119 Stat. 3175, as amended by Pub. L. 112–239, div. A, title X, §1076(c)(2)(A)(ii), Jan. 2, 2013, 126 Stat. 1949, provided that:
+
+#### "SEC. 241. PILOT PROGRAM FOR IDENTIFICATION AND TRANSITION OF ADVANCED MANUFACTURING PROCESSES AND TECHNOLOGIES.
+
+"(a)
+
+Pilot Program Required.—The Under Secretary of Defense for Acquisition, Technology, and Logisticsshall conduct a pilot program under the authority of section 2521 of title 10, United States Code \[now 10 U.S.C. 4841\], to identify and transition advanced manufacturing processes and technologies the utilization of which would achieve significant productivity and efficiency gains in the defense manufacturing base.
+
+"(b)
+
+Consideration of Defense Priorities.—In carrying out subsection (a), the Under Secretary shall take into consideration the defense priorities established in the most current Joint Warfighting Science and Technology plan, as required under section 270 of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; \[former\] 10 U.S.C. 2501 note).
+
+"(c)
+
+Identification for Transition.—In identifying manufacturing processes and technologies for transition to the defense manufacturing base under the pilot program, the Under Secretary shall select the most promising transformational technologies and manufacturing processes, in consultation with the Assistant Secretary of Defense for Research and Engineering, the Joint Defense Manufacturing Technology Panel, and other such entities as may be appropriate, including the Director of the Small Business Innovation Research Program.
+
+#### "SEC. 242. TRANSITION OF TRANSFORMATIONAL MANUFACTURING PROCESSES AND TECHNOLOGIES TO DEFENSE MANUFACTURING BASE.
+
+"(a)
+
+Prototypes and Test Beds.—The Under Secretary of Defense for Acquisition, Technology, and Logistics shall undertake the development of prototypes and test beds to validate the manufacturing processes and technologies selected for transition under the pilot program under section 241.
+
+"(b)
+
+Diffusion of Enhancements.—The Under Secretary shall seek the cooperation of industry in adopting such manufacturing processes and technologies through the following:
+
+&emsp;"(1) The Manufacturing Extension Partnership Program.
+
+&emsp;"(2) The identification of incentives for industry to incorporate and utilize such manufacturing processes and technologies.
+
+#### "SEC. 243. MANUFACTURING TECHNOLOGY STRATEGIES.
+
+"(a)
+
+In General.—The Under Secretary of Defense for Acquisition, Technology, and Logistics may—
+
+&emsp;"(1) identify an area of technology where the development of an industry-prepared roadmap for new manufacturing and technology processes applicable to defense manufacturing requirements would be beneficial to the Department of Defense; and
+
+&emsp;"(2) establish a task force, and act in cooperation, with the private sector to map the strategy for the development of manufacturing processes and technologies needed to support technology development in the area identified under paragraph (1).
+
+"(b)
+
+Commencement of Roadmapping.—The Under Secretary shall commence any roadmapping identified pursuant to subsection (a)(1) not later than January 2007.
+
+#### "SEC. 244. REPORT.
+
+"(a)
+
+In General.—Not later than December 31, 2007, the Under Secretary of the Defense for Acquisition, Technology, and Logistics shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the actions undertaken by the Under Secretary under this subtitle during fiscal year 2006.
+
+"(b)
+
+Elements.—The report under subsection (a) shall include—
+
+&emsp;"(1) a comprehensive description of the actions undertaken under this subtitle during fiscal year 2006;
+
+&emsp;"(2) an assessment of effectiveness of such actions in enhancing research and development on manufacturing technologies and processes, and the implementation of such within the defense manufacturing base; and
+
+&emsp;"(3) such recommendations as the Under Secretary considers appropriate for additional actions to be undertaken in order to increase the effectiveness of the actions undertaken under this subtitle in enhancing manufacturing activities within the defense manufacturing base.
+
+#### "SEC. 245. DEFINITIONS.
+
+"In this subtitle:
+
+&emsp;"(1)
+
+Defense manufacturing base.—The term 'defense manufacturing base' includes any supplier of the Department of Defense, including a supplier of raw materials.
+
+&emsp;"(2)
+
+Manufacturing extension partnership program.—The term 'Manufacturing Extension Partnership Program' means the Manufacturing Extension Partnership Program of the Department of Commerce.
+
+&emsp;"(3)
+
+Small business innovation research program.—The term 'Small Business Innovation Research Program' has the meaning given that term in section 2500(11) of title 10, United States Code \[now 10 U.S.C. 4801(11)\]."
+
+#### Participation in Manufacturing Extension Program
+
+Pub. L. 108–87, title VIII, §8062, Sept. 30, 2003, 117 Stat. 1086, provided that: "Notwithstanding any other provision of law, the Naval shipyards of the United States shall be eligible to participate in any manufacturing extension program financed by funds appropriated in this or any other Act or hereafter in any other Act."
+
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 107–248, title VIII, §8063, Oct. 23, 2002, 116 Stat. 1550.
+
+Pub. L. 107–117, div. A, title VIII, §8068, Jan. 10, 2002, 115 Stat. 2262.
+
+Pub. L. 106–259, title VIII, §8067, Aug. 9, 2000, 114 Stat. 689.
+
+Pub. L. 106–79, title VIII, §8070, Oct. 25, 1999, 113 Stat. 1245.
+
+Pub. L. 105–262, title VIII, §8070, Oct. 17, 1998, 112 Stat. 2312.
+
+Pub. L. 105–56, title VIII, §8076, Oct. 8, 1997, 111 Stat. 1236.
+
+Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8085\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–105.
+
+Pub. L. 104–61, title VIII, §8064, Dec. 1, 1995, 109 Stat. 664.
+
+Pub. L. 103–335, title VIII, §8071, Sept. 30, 1994, 108 Stat. 2635.
+
+Pub. L. 103–139, title VIII, §8083A, Nov. 11, 1993, 107 Stat. 1459.
+
+Pub. L. 102–396, title IX, §9112, Oct. 6, 1992, 106 Stat. 1929.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

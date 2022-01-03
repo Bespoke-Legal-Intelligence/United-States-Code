@@ -48,7 +48,7 @@ Notwithstanding any other provision of Federal or State law, upon the determinat
 
 #### (d) Report to Congress
 
-On the earlier of the date of a submission made to Congress under section 5612(c) of this title, or within 30 days of the date of a determination under subsection (a), the Secretary shall provide written notice of the determination of the Corporation and the Board of Governors to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives, including a description of the basis for the determination.
+On the earlier of the date of a submission made to Congress under section 5612(c) of this title, or within 30 days of the date of a determination under subsection (a), the Secretaryshall provide written notice of the determination of the Corporation and the Board of Governors to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives, including a description of the basis for the determination.
 
 (Pub. L. 111–203, title XI, §1104, July 21, 2010, 124 Stat. 2120.)
 

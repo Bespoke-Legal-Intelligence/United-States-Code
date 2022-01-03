@@ -6,7 +6,7 @@
 
 (c) The Director shall appoint and fix the compensation of such secretarial and clerical personnel as he may deem necessary, subject to the provisions of title 5, United States Code, governing appointments in competitive service without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates.
 
-(d) The Director may procure personal services as authorized by section 3109 of title 5, United States Code, at rates not to exceed the daily equivalent of the highest rate payable under General Schedule pay rates, section 5332, title 5, United States Code. (e) The Director is authorized to incur necessary travel and other miscellaneous expenses incident to the operation of the Center.
+(d) The Director may procure personal services as authorized by section 3109 of title 5, United States Code, at rates not to exceed the daily equivalent of the highest rate payable underGeneral Schedule pay rates, section 5332, title 5, United States Code. (e) The Director is authorized to incur necessary travel and other miscellaneous expenses incident to the operation of the Center.
 
 (Added Pub. L. 90–219, title I, §101, Dec. 20, 1967, 81 Stat. 666; amended Pub. L. 102–572, title VI, §602(b), Oct. 29, 1992, 106 Stat. 4514.)
 
@@ -26,7 +26,7 @@ The Civil Service Retirement Act, referred to in subsec. (b), is act May 29, 193
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payableunder specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 #### Effective Date of 1992 Amendment
 

@@ -6,7 +6,7 @@ Subject to subsection (b), the President shall cause to be published in the Fede
 
 #### (1) Determinations of governments, officials, and entities of particular concern
 
-&emsp;Any designation of a country of particular concern for religious freedom under section 6442(b)(1) of this title, together with, when applicable and to the extent practicable, the identities of the officials or entities determined to be responsible for the violations under section 6442(b)(2) of this title. Any designation of a non-state actor as an entity ofparticular concern for religious freedom under section 6442a of this title and, if applicable and to the extent practicable, the identities of individuals determined to be responsible for violations described in subsection (f) of such section.
+&emsp;Any designation of a country of particular concern for religious freedom under section 6442(b)(1) of this title, together with, when applicable and to the extent practicable, the identities of the officials or entities determined to be responsible for the violations under section 6442(b)(2) of this title. Any designation of a non-state actor as an entity of particular concern for religious freedom under section 6442a of this title and, if applicable and to the extent practicable, the identities of individuals determined to be responsible for violations described in subsection (f) of such section.
 
 #### (2) Presidential actions
 

@@ -54,6 +54,8 @@ In subsection (b), the word "thereof" is substituted for the words "of either of
 
 In subsection (c), 10:1409 (words after 3d semicolon) is omitted as executed. The words "hereinbefore authorized" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (b). Pub. L. 116–92, §582(b)(1)(A), substituted "subsection (c)" for "subsection (d)" in introductory provisions.
@@ -73,6 +75,8 @@ Subsec. (d)(1). Pub. L. 113–66, §562(a)(2), substituted "three years" for "tw
 <b>1960</b>—Subsec. (b). Pub. L. 86–582, §1(1)(A), substituted "Except as provided in subsection (d), no" for "No."
 
 Subsec. (d). Pub. L. 86–582, §1(1)(B), added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

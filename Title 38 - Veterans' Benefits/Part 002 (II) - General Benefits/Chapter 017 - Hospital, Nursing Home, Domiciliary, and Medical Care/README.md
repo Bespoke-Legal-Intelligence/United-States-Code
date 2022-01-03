@@ -81,7 +81,7 @@
 | [1729A.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001729A%20-%20Department%20of%20Veterans%20Affairs%20Medical%20Care%20Collections%20Fund.md) | Department of Veterans Affairs Medical Care Collections Fund. |
 | [1729B.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001729B%20-%20Consolidated%20patient%20accounting%20centers.md) | Consolidated patient accounting centers. |
 | [1730\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001730%20-%20Community%20residential%20care.md) | Community residential care. |
-| [1730A.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001730A%20-%20Prohibition%20on%20collection%20of%20copayments%20from%20catastrophically%20disabled%20veterans.md) | Prohibition on collection of copayments from catastrophically disabled veterans. |
+| [1730A.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001730A%20-%20Prohibition%20on%20collection%20of%20copayments%20from%20certain%20veterans.md) | Prohibition on collection of copayments from certain veterans. |
 | [1730B.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001730B%20-%20Access%20to%20State%20prescription%20drug%20monitoring%20programs.md) | Access to State prescription drug monitoring programs. |
 | [1730C.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions%20Relating%20to%20Hospital%20and%20Nursing%20Home%20Care%20and%20Medical%20Treatment%20of%20Veterans/%C2%A7%2001730C%20-%20Licensure%20of%20health%20care%20professionals%20providing%20treatment%20via%20telemedicine.md) | Licensure of health care professionals providing treatment via telemedicine. |
 
@@ -148,10 +148,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Amendment of Analysis
-
-<i>Pub. L. 116–315, title III, §3002(b), (c), Jan. 5, 2021, 134 Stat. 4991, provided that, effective one year after Jan. 5, 2021, this analysis is amended by striking item 1730A and inserting new item 1730A "Prohibition on collection of copayments from certain veterans". See 2021 Amendment note below.</i>
-
 #### <b>Editorial Notes</b>
 
 #### Amendments
@@ -178,7 +174,7 @@ Pub. L. 114–218, §2(a)(2), July 29, 2016, 130 Stat. 843, added item 1712C.
 
 <b>2012</b>—Pub. L. 112–154, title I, §§102(b)(2), 103(b), 106(b), 108(a)(2), Aug. 6, 2012, 126 Stat. 1168, 1169, 1173, 1174, added items 1709, 1709A, 1722B, and 1787.
 
-<b>2010</b>—Pub. L. 111–163, title I, §§101(a)(2), 103(c), title II, §206(b), title V, §511(b), May 5, 2010, 124 Stat. 1137, 1140, 1146, 1164, added items 1720G, 1730A, 1782, and 1786 andstruck out former item 1782 "Counseling, training, and mental health services for immediate family members".
+<b>2010</b>—Pub. L. 111–163, title I, §§101(a)(2), 103(c), title II, §206(b), title V, §511(b), May 5, 2010, 124 Stat. 1137, 1140, 1146, 1164, added items 1720G, 1730A, 1782, and 1786 and struck out former item 1782 "Counseling, training, and mental health services for immediate family members".
 
 <b>2008</b>—Pub. L. 110–387, title IV, §406(b), Oct. 10, 2008, 122 Stat. 4130, added item 1729B.
 
@@ -224,7 +220,7 @@ Pub. L. 102–83, §4(a)(5), Aug. 6, 1991, 105 Stat. 404, substituted "non-Depar
 
 Pub. L. 101–366, title II, §201(a)(2), Aug. 15, 1990, 104 Stat. 438, added item 620C.
 
-<b>1988</b>—Pub. L. 100–322, title I, §§101(h)(2), 115(g)(2), May 20, 1988, 102 Stat. 492, 502, substituted "Eligibility for outpatient services" for "Eligibility for medical treatment" in item 612, substituted "Home health services; invalid" for "Invalid" in item 617, and struck out item 620C "Community based psychiatric residential treatment for chronically mentally ill veterans".
+<b>1988</b>—Pub. L. 100–322, title I, §§101(h)(2), 115(g)(2), May 20, 1988, 102 Stat. 492, 502, substituted "Eligibility for outpatient services" for "Eligibility for medical treatment" in item 612, substituted "Home health services; invalid" for "Invalid" in item 617, and struck out item620C "Community based psychiatric residential treatment for chronically mentally ill veterans".
 
 <b>1987</b>—Pub. L. 100–6, §2(b), Feb. 12, 1987, 101 Stat. 94, added item 620C.
 

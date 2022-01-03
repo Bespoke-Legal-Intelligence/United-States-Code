@@ -36,7 +36,7 @@ In the case of any partnership regularly carrying on a trade or business (within
 
 #### (2) Certain foreign partnerships required to file return
 
-&emsp;Except as provided in regulations prescribed by the Secretary, this section shall apply to a foreign partnership for any taxable year if for such year, such partnership has—
+&emsp;Except as provided in regulations prescribed by the Secretary, this section shall apply to aforeign partnership for any taxable year if for such year, such partnership has—
 
 &emsp;&emsp;(A) gross income derived from sources within the United States, or
 
@@ -46,9 +46,11 @@ In the case of any partnership regularly carrying on a trade or business (within
 
 #### (f) Electing investment partnerships
 
-In the case of any electing investment partnership (as defined in section 743(e)(6)),<sup>1</sup> the information required under subsection (b) to be furnished to any partner to whom section 743(e)(2) applies shall include such information as is necessary to enable the partner to computethe amount of losses disallowed under section 743(e).
+In the case of any electing investment partnership (as defined in section 743(e)(6)),<sup>1</sup> the information required under subsection (b) to be furnished to any partner to whom section 743(e)(2) applies shall include such information as is necessary to enable the partner to compute the amount of losses disallowed under section 743(e).
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 741; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title IV, §403, Sept. 3, 1982, 96 Stat. 669; Pub. L. 99–514, title XV, §1501(c)(16), title XVIII, §1811(b)(1)(A), Oct. 22, 1986, 100 Stat. 2740, 2832; Pub. L. 100–647, title V, §5074(a), Nov. 10, 1988, 102 Stat. 3682; Pub. L. 105–34, title XI, §1141(a), title XII, §1223(a), Aug. 5, 1997, 111 Stat. 980, 1019; Pub. L. 108–357, title VIII, §833(b)(4)(B), Oct. 22, 2004, 118 Stat. 1590; Pub. L. 114–74, title XI, §1101(e), (f)(1), Nov. 2, 2015, 129 Stat. 637; Pub. L. 114–113, div. Q, title IV, §411(d), Dec. 18, 2015, 129 Stat. 3122; Pub. L. 115–141, div. U, title II, §206(a), Mar. 23, 2018, 132 Stat. 1178.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -81,6 +83,8 @@ Subsec. (c). Pub. L. 99–514, §1811(b)(1)(A)(ii), added subsec. (c).
 Subsec. (b). Pub. L. 97–248, §403(a), added subsec. (b).
 
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 
@@ -118,7 +122,7 @@ Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning 
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Returns Required From All Partnerships With United States Partners
 

@@ -20,9 +20,13 @@ July 3, 1944, ch. 399, §4 (10th sentence), 58 Stat. 724.
 
 The words "The Secretary of the Navy may restrict a certificate" are substituted for the words "Any certificate \* \* \* by the Secretary of the Navy \* \* \* may, in his discretion, be restricted." The words "the production of" are inserted for clarity. The words "in which event" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7728 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

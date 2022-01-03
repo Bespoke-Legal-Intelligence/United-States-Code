@@ -116,7 +116,7 @@ The Director shall—
 
 #### (9) Reimbursement
 
-&emsp;The Director is authorized to reimburse travel or other expenses for non-Federal personnel who attend activities related to training sponsored by FLETC, at travel and perdiem rates established by the General Services Administration.
+&emsp;The Director is authorized to reimburse travel or other expenses for non-Federal personnel who attend activities related to training sponsored by FLETC, at travel and per diem rates established by the General Services Administration.
 
 #### (10) Student support
 
@@ -136,7 +136,7 @@ The Director shall—
 
 #### (B) No reduction in retirement pay
 
-&emsp;&emsp;A Federal annuitant employed pursuant to this paragraph shall not be subject to any reduction in pay for annuity allocable to the period of actual employment under the provisions of section 8344 or 8468 of title 5 or similar provision of any other retirement system for employees.
+&emsp;&emsp;A Federal annuitant employed pursuant to this paragraph shall not be subject to any reduction in pay for annuity allocable to theperiod of actual employment under the provisions of section 8344 or 8468 of title 5 or similar provision of any other retirement system for employees.
 
 #### (C) Re-employed annuitants
 

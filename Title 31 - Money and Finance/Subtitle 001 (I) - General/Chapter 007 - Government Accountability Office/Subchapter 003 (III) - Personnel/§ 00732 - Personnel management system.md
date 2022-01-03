@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(E) the appropriate distribution of agency funds between annual adjustments under this section and performance-based compensation; and
 
-&emsp;&emsp;(F) such other criteria as the Comptroller General considers appropriate, including, but not limited to, the funding level for the Office, amounts allocated for performance-based compensation, and the extent to which the Office is succeeding in fulfilling its mission and accomplishing its strategic plan;
+&emsp;&emsp;(F) such other criteria as the Comptroller General considers appropriate, including, but not limited to, the funding level for theOffice, amounts allocated for performance-based compensation, and the extent to which the Office is succeeding in fulfilling its mission and accomplishing its strategic plan;
 
 > &emsp;notwithstanding any other provision of this paragraph, an adjustment under this paragraph shall not be applied in the case of any officer or employee whose performance is not at a satisfactory level, as determined by the Comptroller General for purposes of such adjustment;
 
@@ -142,7 +142,7 @@
 
 &emsp;(D) the term "nonpermanent merit pay" means any amount payable under section 731(b) which does not constitute basic pay.
 
-(2)(A) Notwithstanding any other provision of this chapter, if (disregarding this subsection) the pay increase that would otherwise take effect with respect to a covered officer or employee in a year would be less than the required minimum percentage for such officer or employee in such year, the Comptroller General shall provide for a further increase in the rate of basic pay of such officer or employee.
+(2)(A) Notwithstanding any other provision of this chapter, if (disregarding this subsection) the pay increase that would otherwise take effect with respect to a covered officer or employee in a year would be less than the required minimum percentage for such officer or employee in such year, the Comptroller Generalshall provide for a further increase in the rate of basic pay of such officer or employee.
 
 (B) The further increase under this subsection—
 
@@ -246,7 +246,7 @@ Subsec. (b)(6). Pub. L. 108–271, §3(c), substituted "title 5, except as provi
 
 Subsec. (c)(3). Pub. L. 108–271, §3(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "except as provided under section 733(a)(3)(B) of this title or section 5349(a) of title 5, basic pay rates of officers and employees of the Office shall be adjusted at the same time and to the same extent as basic pay rates of the General Schedule are adjusted;".
 
-Subsec. (c)(5). Pub. L. 108–271, §4, amended par. (5) generally. Prior to amendment, par. (5) read as follows: "officers and employees of the Office are entitled to grade and basic pay retention consistent with subchapter VI of chapter 53 of title 5."
+Subsec. (c)(5). Pub. L. 108–271, §4, amended par. (5) generally. Prior to amendment, par. (5) read as follows: "officers and employees of the Office are entitled tograde and basic pay retention consistent with subchapter VI of chapter 53 of title 5."
 
 Subsec. (d)(1). Pub. L. 108–271, §4, amended par. (1) generally. Prior to amendment, par. (1) read as follows: "for a system to appraise the performance of officers and employees of the General Accounting Office that meets the requirements of section 4302 of title 5;".
 
@@ -318,7 +318,7 @@ Pub. L. 110–323, §3, Sept. 22, 2008, 122 Stat. 3540, provided that:
 
 "(a)
 
-Applicability.—This section applies in the case of any individual who, as of the date of the enactmentof this Act \[Sept. 22, 2008\], is an officer or employee of the Government Accountability Office, excluding—
+Applicability.—This section applies in the case of any individual who, as of the date of the enactment of this Act \[Sept. 22, 2008\], is an officer or employee of the Government Accountability Office, excluding—
 
 &emsp;"(1) an officer or employee described in subparagraph (A), (B), or (C) of section 4(c)(1) \[set out as a note below\]; and
 

@@ -48,15 +48,17 @@
 
 Notwithstanding subsection (b), a State may reimburse any adversely affected worker for necessary expenses incurred by the worker in participating in a job search program approved by the Secretary.
 
-(Pub. L. 93–618, title II, §237, Jan. 3, 1975, 88 Stat. 2023; Pub. L. 97–35, title XXV, §2507, Aug. 13,1981, 95 Stat. 886; Pub. L. 98–369, div. B, title VI, §2672(a), July 18, 1984, 98 Stat. 1172; Pub. L. 99–272, title XIII, §13005(a), Apr. 7, 1986, 100 Stat. 303; Pub. L. 107–210, div. A, title I, §121, Aug. 6, 2002, 116 Stat. 942; Pub. L. 111–5, div. B, title I, §1833(a), Feb. 17, 2009, 123 Stat. 386; Pub. L. 112–40, title II, §§201(b), (c), 214(d), Oct. 21, 2011, 125 Stat. 403, 406; Pub. L. 114–27, title IV, §402(b), (c), June 29, 2015, 129 Stat. 374.)
+(Pub. L. 93–618, title II, §237, Jan. 3, 1975, 88 Stat. 2023; Pub. L. 97–35, title XXV, §2507, Aug. 13, 1981, 95 Stat. 886; Pub. L. 98–369, div. B, title VI, §2672(a), July 18, 1984, 98 Stat. 1172; Pub. L. 99–272, title XIII, §13005(a), Apr. 7, 1986, 100 Stat. 303; Pub. L. 107–210, div. A, title I, §121, Aug. 6, 2002, 116 Stat. 942; Pub. L. 111–5, div. B, title I, §1833(a), Feb. 17, 2009, 123 Stat. 386; Pub. L. 112–40, title II, §§201(b), (c), 214(d), Oct. 21, 2011, 125 Stat. 403, 406; Pub. L. 114–27, title IV, §402(b), (c), June 29, 2015, 129 Stat. 374.)
 
 #### Reversion to Provisions in Effect on January 1, 2014
 
 <i>For reversion, beginning on July 1, 2021, to provisions in effect on Jan. 1, 2014, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see Codification and Effective and Termination Dates of 2015 Revival notes below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
-Section 233 of Pub. L. 112–40, which provided for the Jan. 1, 2014, revival of this section as in effect on Feb. 13, 2011, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, and the provisions of this section, as in effect on Dec. 31, 2013, were temporarily revived, effective June 29, 2015, until July 1, 2021, by Pub. L. 114–27, §§402(b), (c), 406. See 2011 and 2015 Amendment notes, Effective and Termination Dates of 2011 Revival notes, and Effective and Termination Dates of 2015 Revival notes below.
+Section 233 of Pub. L. 112–40, which provided for the Jan. 1, 2014, revival of this section as in effect on Feb. 13, 2011, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, and the provisions of this section, as in effect on Dec. 31, 2013, were temporarily revived, effective June 29, 2015, until July 1, 2021, by Pub. L. 114–27, §§402(b), (c), 406. See 2011 and 2015Amendment notes, Effective and Termination Dates of 2011 Revival notes, and Effective and Termination Dates of 2015 Revival notes below.
 
 Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of amendment by Pub. L. 111–5, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and the provisions of this section, as amended by Pub. L. 111–5 and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by Pub. L. 112–40, §§201(b), (c), 233. See 2009 and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, and Effective and Termination Dates of 2011 Revival notes below.
 
@@ -91,6 +93,8 @@ Subsec. (b)(2). Pub. L. 111–5, §§1833(a)(2)(B), 1893, temporarily substitute
 Subsec. (b)(1). Pub. L. 97–35, §2507(2)(A), inserted "who has been totally separated" after "to assist an adversely affected worker".
 
 Subsec. (b)(3). Pub. L. 97–35, §2507(2)(B), amended par. (3) generally, substituting the 182-day period for a reasonable period of time and inserting provision relating to 365 days after certification.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective and Termination Dates of 2015 Revival
 

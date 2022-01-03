@@ -14,19 +14,29 @@ In the case of any State plan which has been approved under this subchapter by t
 
 <i>Pub. L. 92–603, title III, §303(a), (b), Oct. 30, 1972, 86 Stat. 1484, provided that this section is repealed effective Jan. 1, 1974, except with respect to Puerto Rico, Guam, and the Virgin Islands.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>1968</b>—Pub. L. 90–248 inserted "(or, in his discretion, that payments will be limited to categories under or parts of the State plan not affected by such failure)" after "further payments will not be made to the State" and substituted in last sentence "further payments to such State (or shall limit payments to categories under or parts of the State plan not affected by such failure)" for "further certification to the Secretary of the Treasury with respect to such State".
+<b>1968</b>—Pub. L. 90–248 inserted "(or, in his discretion, that payments will be limited to categories under orparts of the State plan not affected by such failure)" after "further payments will not be made to the State" and substituted in last sentence "further payments to such State (or shall limit payments to categories under or parts of the State plan not affected by such failure)" for "further certification to the Secretary of the Treasury with respect to such State".
 
 <b>1960</b>—Pub. L. 86–778 substituted "State plan which has been approved under this subchapter" for "State plan for old-age assistance which has been approved".
 
 <b>1950</b>—Act Aug. 28, 1950, substituted "Administrator" for "Board", and "he", "him", or "his" for "it", or "its", wherever appearing.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+"Secretary of Health and Human Services" substituted in text for "Secretary of Health, Education, and Welfare" pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+
 #### Effective Date of 1960 Amendment
 
 Amendment by Pub. L. 86–778 effective Oct. 1, 1960, see section 604 of Pub. L. 86–778, set out as a note under section 301 of this title.
 
+#### <b>Executive Documents</b>
+
 #### Transfer of Functions
 
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 

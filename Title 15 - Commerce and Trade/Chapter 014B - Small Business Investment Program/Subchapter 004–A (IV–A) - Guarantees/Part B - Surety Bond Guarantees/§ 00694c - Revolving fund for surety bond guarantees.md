@@ -6,17 +6,21 @@
 
 (Pub. L. 85–699, title IV, §412, as added Pub. L. 93–386, §6(a)(4), Aug. 23, 1974, 88 Stat. 747; amended Pub. L. 94–305, title I, §113, June 4, 1976, 90 Stat. 667; Pub. L. 95–14, §4, Mar. 24, 1977, 91 Stat. 25; Pub. L. 95–89, title I, §105, Aug. 4, 1977, 91 Stat. 556; Pub. L. 96–302, title I, §111, July 2, 1980, 94 Stat. 837; Pub. L. 100–590, title II, §208, Nov. 3, 1988, 102 Stat. 3009.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–590 designated existing provisions as subsec. (a) and added subsec. (b).
 
 <b>1980</b>—Pub. L. 96–302 repealed investment of idle funds provision, which is covered in section 694–2 of this title.
 
-<b>1977</b>—Pub. L. 95–89 prohibited payment of administrative expenses from the fund and deleted provisions which authorized: a $110,000,000 appropriation of capital for the fund; and payment during the fiscal year into the Treasury as miscellaneous receipts, from the fund, of interest on the cumulative amount of appropriationsavailable as capital to the fund less the average undisbursed cash balance in the fund during the year.
+<b>1977</b>—Pub. L. 95–89 prohibited payment of administrative expenses from the fund and deleted provisions which authorized: a $110,000,000 appropriation of capital for the fund; and payment during the fiscal year into the Treasury as miscellaneous receipts, from the fund, of interest on the cumulative amount of appropriations available as capital to the fund less the average undisbursed cash balance in the fund during the year.
 
 Pub. L. 95–14 substituted "$110,000,000" for "$56,500,000".
 
 <b>1976</b>—Pub. L. 94–305 substituted "$56,500,000" for "$35,000,000".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

@@ -30,7 +30,7 @@ Minor changes in phraseology were made.
 
 #### References in Text
 
-Section 230(e)(2) of the Communications Act of 1934, referred to in text, was redesignated section 230(f)(2) of the Communications Act of 1934 by Pub. L. 105–277, div. C, title XIV, §1404(a)(2), Oct. 21, 1998, 112 Stat. 2681–739,and is classified to section 230(f)(2) of Title 47, Telecommunications.
+Section 230(e)(2) of the Communications Act of 1934, referred to in text, was redesignated section 230(f)(2) of the Communications Act of 1934 by Pub. L. 105–277, div. C, title XIV, §1404(a)(2), Oct. 21, 1998, 112 Stat. 2681–739, and is classified to section 230(f)(2) of Title 47, Telecommunications.
 
 #### Amendments
 

@@ -26,7 +26,7 @@ Export credit guarantees authorized by this section shall not be used for foreig
 
 #### (d) Restrictions
 
-The Commodity Credit Corporation shall not make credit guarantees available in connectionwith sales of agricultural commodities to any obligor that the Secretary determines cannot adequately service the debt associated with such sale.
+The Commodity Credit Corporation shall not make credit guarantees available in connection with sales of agricultural commodities to any obligor that the Secretary determines cannotadequately service the debt associated with such sale.
 
 #### (e) Terms
 
@@ -77,6 +77,8 @@ The Secretary and the United States Trade Representative shall consult on a regu
 &emsp;&emsp;(D) notwithstanding any other provision of this section, administer and carry out (only after consulting with the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition and Forestry of the Senate) the program pursuant to such terms as may be agreed between the parties to address the World Trade Organization dispute WTO/DS267 to the extent not superseded by any applicable international undertakings on officially supported export credits to which the United States is a party.
 
 (Pub. L. 95–501, title II, §202, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3673; amended Pub. L. 102–237, title III, §334, Dec. 13, 1991, 105 Stat. 1859; Pub. L. 102–511, title VII, §§708, 709(a), Oct. 24, 1992, 106 Stat. 3351; Pub. L. 104–127, title II, §§243(a), 277(c)(3), Apr. 4, 1996, 110 Stat. 965, 979; Pub. L. 107–171, title III, §3102(a)–(c), May 13, 2002, 116 Stat. 289; Pub. L. 110–246, title III, §3101(a), (c), June 18, 2008, 122 Stat. 1831, 1832; Pub. L. 113–79, title III, §3101(a), Feb. 7, 2014, 128 Stat. 778.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -158,6 +160,8 @@ Subsec. (k). Pub. L. 102–511, §709(a)(2), added subsec. (k).
 
 <b>1991</b>—Subsec. (i). Pub. L. 102–237 substituted "issued by the Commodity Credit Corporation under this section if it is determined by the Corporation, at the time of the assignment, that" for "or proceeds payable under a credit guarantee issued by the Commodity Credit Corporation under this section if it is determined by the Corporation that".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
@@ -231,6 +235,8 @@ Emerging Market.—In this section and section 1543 \[7 U.S.C. 3293\], the term 
 &emsp;"(1) is taking steps toward a market-oriented economy through the food, agriculture, or rural business sectors of its economy; and
 
 &emsp;"(2) has the potential to provide a viable and significant market for United States agricultural commodities or products of United States agricultural commodities."
+
+#### <b>Executive Documents</b>
 
 #### Presidential Determination of Emerging Democracies
 

@@ -52,13 +52,15 @@ For the purposes of this section, "action to collect the amount, or any part the
 
 #### (d) Restricting or closing by creditor of account regarded by obligor to contain a billing error
 
-Pursuant to regulations of the Bureau, a creditor operating an open end consumer credit plan may not, prior to the sending of the written explanation or clarification required under paragraph (B)(ii), restrict or close an account with respect to which the obligor has indicated pursuant to subsection (a) that he believes such account to contain a billing error solely because ofthe obligor's failure to pay the amount indicated to be in error. Nothing in this subsection shall be deemed to prohibit a creditor from applying against the credit limit on the obligor's account the amount indicated to be in error.
+Pursuant to regulations of the Bureau, a creditor operating an open end consumer credit plan may not, prior to the sending of the written explanation or clarification required under paragraph (B)(ii), restrict or close an account with respect to which the obligor has indicated pursuant to subsection (a) that he believes such account to contain a billing error solely because of the obligor's failure to pay the amount indicated to be in error. Nothing in this subsection shall be deemed to prohibit a creditor from applying against the credit limit on the obligor's account the amount indicated to be in error.
 
 #### (e) Effect of noncompliance with requirements by creditor
 
 Any creditor who fails to comply with the requirements of this section or section 1666a of this title forfeits any right to collect from the obligor the amount indicated by the obligor under paragraph (2) of subsection (a) of this section, and any finance charges thereon, except that the amount required to be forfeited under this subsection may not exceed $50.
 
 (Pub. L. 90–321, title I, §161, as added Pub. L. 93–495, title III, §306, Oct. 28, 1974, 88 Stat. 1512; amended Pub. L. 96–221, title VI §§613(g), 620, Mar. 31, 1980, 94 Stat. 177, 184; Pub. L. 111–203, title X, §§1087, 1100A(2), July 21, 2010, 124 Stat. 2086, 2107.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -73,6 +75,8 @@ Pub L. 111–203, §1100A(2), which directed the substitution of "Bureau" for "B
 Subsec. (b)(6), (7). Pub. L. 96–221, §620(a), added par. (6) and redesignated former par. (6) as (7).
 
 Subsec. (c). Pub. L. 96–221, §620(b), inserted provisions respecting finance charges on amounts in dispute.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

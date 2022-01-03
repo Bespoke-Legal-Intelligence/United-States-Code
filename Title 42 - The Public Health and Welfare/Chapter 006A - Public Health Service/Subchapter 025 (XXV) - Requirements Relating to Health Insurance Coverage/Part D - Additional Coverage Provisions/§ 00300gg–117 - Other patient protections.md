@@ -44,6 +44,8 @@ If a group health plan, or a health insurance issuer offering group or individua
 
 (July 1, 1944, ch. 373, title XXVII, §2799A–7, as added Pub. L. 116–260, div. BB, title I, §102(a)(2), Dec. 27, 2020, 134 Stat. 2770.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section applicable with respect to plan years beginning on or after Jan. 1, 2022, see section 102(e) of Pub. L. 116–260, set out as an Effective Date of 2020 Amendment note under section 8902 of Title 5, Government Organization and Employees.

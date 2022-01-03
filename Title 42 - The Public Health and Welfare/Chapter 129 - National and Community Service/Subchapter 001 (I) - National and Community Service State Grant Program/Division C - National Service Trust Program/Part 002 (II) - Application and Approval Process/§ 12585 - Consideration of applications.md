@@ -38,7 +38,7 @@ The criteria required to be applied in evaluating applications submitted under s
 
 &emsp;&emsp;(B) of multiple funding sources or private funding for the program.
 
-&emsp;(4) The quality of the leadership of the national service program, the past performanceof the program, and the extent to which the program builds on existing programs.
+&emsp;(4) The quality of the leadership of the national service program, the past performance of the program, and the extent to which the program builds on existing programs.
 
 &emsp;(5) The extent to which participants of the national service program are recruited from among residents of the communities in which projects are to be conducted, and the extent to which participants and community residents are involved in the design, leadership, and operation of the program.
 
@@ -126,6 +126,8 @@ In making competitive awards under section 12581(d) of this title, the Corporati
 
 (Pub. L. 101–610, title I, §133, as added Pub. L. 103–82, title I, §101(b), Sept. 21, 1993, 107 Stat. 805; amended Pub. L. 111–13, title I, §1311, Apr. 21, 2009, 123 Stat. 1509.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 133 of Pub. L. 101–610 was renumbered section 199K and is classified to section 12655l of this title.
@@ -149,6 +151,8 @@ Subsec. (f)(1). Pub. L. 111–13, §1311(4)(A), substituted "section 12581(e)" f
 Subsec. (f)(3). Pub. L. 111–13, §1311(4)(B), substituted "section 12581(e)" for "section 12581(a)" and "section 12581(f) of this title" for "paragraph (3) of such subsection".
 
 Subsec. (g). Pub. L. 111–13, §1311(5), redesignated subsec. (f) as (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

@@ -10,9 +10,11 @@ Before condemnation proceedings are instituted pursuant to this subchapter or su
 
 #### (c) Return to original owner in certain cases
 
-If any real property acquired under this subchapter or subchapter X is retained after June 30, 1954, without having been used for the purposes of this Act, the Secretary of Housing and Urban Development shall, if the original owner desires the property and pays the fair value thereof, return such property to the owner. In the event the Secretary of Housing and Urban Development and the original owner do not agree as to the fair value of the property, the fair value shall be determined by three appraisers, one of whom shall be chosen by the Secretary of Housing and Urban Development, one by the original owner, and the third by the first two appraisers; the expenses of such determination shall be paid in equal shares by the Government and the original owner.
+If any real property acquired under this subchapter or subchapter X is retained after June 30, 1954, without having been used for the purposes of this Act, the Secretary of Housing and Urban Development shall, if the original owner desires the property and pays the fair value thereof, return such property to the owner. Inthe event the Secretary of Housing and Urban Development and the original owner do not agree as to the fair value of the property, the fair value shall be determined by three appraisers, one of whom shall be chosen by the Secretary of Housing and Urban Development, one by the original owner, and the third by the first two appraisers; the expenses of such determination shall be paid in equal shares by the Government and the original owner.
 
-(Sept. 1, 1951, ch. 378, title III, §305, 65 Stat. 305; June 30, 1953, ch. 170, §17, 67 Stat. 125; Pub. L.89–174, §5(a), Sept. 9, 1965, 79 Stat. 669; Pub. L. 97–214, §10(b)(1), July 12, 1982, 96 Stat. 175.)
+(Sept. 1, 1951, ch. 378, title III, §305, 65 Stat. 305; June 30, 1953, ch. 170, §17, 67 Stat. 125; Pub. L. 89–174, §5(a), Sept. 9, 1965, 79 Stat. 669; Pub. L. 97–214, §10(b)(1), July 12, 1982, 96 Stat. 175.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -33,6 +35,8 @@ In subsec. (b), "section 3114(a) to (d) of title 40" substituted for "the first 
 <b>1982</b>—Subsec. (a). Pub. L. 97–214 struck out reference to section 1136 of the Revised Statutes, which had been enacted as sections 4774 and 9774 of title 10 by act Aug. 10, 1956, ch. 1041, as amended by Pub. L. 93–166, §509(c), (e), Nov. 29, 1973, 87 Stat. 677, 678.
 
 <b>1953</b>—Subsec. (c). Act June 30, 1953, substituted "June 30, 1954" for "June 30, 1953".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1982 Amendment
 

@@ -70,6 +70,8 @@ In subsection (b)(2), the words "or a judge thereof" are omitted as surplus.
 
 In subsection (c), the word "duly" is omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–254, §1991(g)(3)(C), substituted "Administrator of the Transportation Security Administration" for "Under Secretary" wherever appearing.
@@ -80,7 +82,7 @@ Subsec. (a)(1). Pub. L. 115–254, §1991(g)(3)(A)(ii), substituted "Administrat
 
 Subsecs. (b), (c). Pub. L. 115–254, §1991(g)(3)(B), substituted "Administrator of the Federal Aviation Administration" for "Administrator" wherever appearing.
 
-<b>2001</b>—Subsec. (a). Pub. L. 107–71, §140(d)(6), in introductory provisions, inserted "the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary," after "Transportation," and "Under Secretary," after "Secretary," and substituted ", Under Secretary, or Administrator" for "or Administrator".
+<b>2001</b>—Subsec. (a). Pub. L. 107–71, §140(d)(6), in introductory provisions, inserted "the Under Secretary of Transportation for Security with respect to securityduties and powers designated to be carried out by the Under Secretary," after "Transportation," and "Under Secretary," after "Secretary," and substituted ", Under Secretary, or Administrator" for "or Administrator".
 
 Subsec. (a)(1). Pub. L. 107–71, §140(d)(6)(B) inserted "Under Secretary," after "Secretary,".
 

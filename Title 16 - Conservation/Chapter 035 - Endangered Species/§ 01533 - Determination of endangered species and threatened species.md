@@ -200,7 +200,7 @@ The Secretary may, by regulation of commerce or taking, and to the extent he dee
 
 (1) The Secretary shall implement a system in cooperation with the States to monitor effectively for not less than five years the status of all species which have recovered to the point at which the measures provided pursuant to this chapter are no longer necessary and which, in accordance with the provisions of this section, have been removed from either of the lists published under subsection (c).
 
-(2) The Secretary shall make prompt use of the authority under paragraph 7 <sup>2</sup> of subsection (b) of this section to prevent a significant risk to the well being of any such recovered species.
+(2) The Secretary shall make prompt use of the authority under paragraph 7 <sup>1</sup> of subsection (b) of this section to prevent a significant risk to the well being of any such recovered species.
 
 #### (h) Agency guidelines; publication in Federal Register; scope; proposals and amendments: notice and opportunity for comments
 
@@ -214,13 +214,15 @@ The Secretary shall establish, and publish in the Federal Register, agency guide
 
 &emsp;(4) a system for developing and implementing, on a priority basis, recovery plans under subsection (f) of this section.
 
-> The Secretary shall provide to the public notice of, and opportunity to submit written comments on, any guideline (including any amendment thereto) proposed to be established under this subsection.
+> The Secretary shall provide to the public notice of, and opportunity to submit written commentson, any guideline (including any amendment thereto) proposed to be established under this subsection.
 
 #### (i) Submission to State agency of justification for regulations inconsistent with State agency's comments or petition
 
 If, in the case of any regulation proposed by the Secretary under the authority of this section, a State agency to which notice thereof was given in accordance with subsection (b)(5)(A)(ii) files comments disagreeing with all or part of the proposed regulation, and the Secretary issues a final regulation which is in conflict with such comments, or if the Secretary fails to adopt a regulation pursuant to an action petitioned by a State agency under subsection (b)(3), the Secretary shall submit to the State agency a written justification for his failure to adopt regulations consistent with the agency's comments or petition.
 
 (Pub. L. 93–205, §4, Dec. 28, 1973, 87 Stat. 886; Pub. L. 94–359, §1, July 12, 1976, 90 Stat. 911; Pub. L. 95–632, §§11, 13, Nov. 10, 1978, 92 Stat. 3764, 3766; Pub. L. 96–159, §3, Dec. 28, 1979, 93 Stat. 1225; Pub. L. 97–304, §2(a), Oct. 13, 1982, 96 Stat. 1411; Pub. L. 100–478, title I, §§1002–1004, Oct. 7, 1988, 102 Stat. 2306, 2307; Pub. L. 108–136, div. A, title III, §318, Nov. 24, 2003, 117 Stat. 1433.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -304,6 +306,8 @@ Subsec. (g). Pub. L. 95–632, §11(5), added subsec. (g).
 
 <b>1976</b>—Subsec. (f)(2)(B)(ii). Pub. L. 94–359 substituted "subsection (b)(1)(A)" for "subsection (b)(A), (B), and (C)".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1982 Amendment
 
 Pub. L. 97–304, §2(b), Oct. 13, 1982, 96 Stat. 1416, provided that:
@@ -321,6 +325,4 @@ Pub. L. 97–304, §2(b), Oct. 13, 1982, 96 Stat. 1416, provided that:
 Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 <i><sup>1</sup></i><i> So in original. Probably should be paragraph "(7)".</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be paragraph "(7)".</i>
 

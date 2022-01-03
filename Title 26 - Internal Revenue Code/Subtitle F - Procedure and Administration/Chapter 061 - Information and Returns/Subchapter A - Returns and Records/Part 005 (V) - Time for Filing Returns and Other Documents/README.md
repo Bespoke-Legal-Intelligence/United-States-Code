@@ -10,6 +10,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–418, title I, §1941(b)(3)(C), Aug. 23, 1988, 102 Stat. 1324, struck out item 6076 "Time for filing return of windfall profit tax".

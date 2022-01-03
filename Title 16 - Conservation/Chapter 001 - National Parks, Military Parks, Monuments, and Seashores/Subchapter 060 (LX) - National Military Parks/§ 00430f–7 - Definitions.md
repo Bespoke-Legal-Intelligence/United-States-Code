@@ -20,6 +20,8 @@ In sections 430f–6 to 430f–12 of this title:
 
 (Pub. L. 106–271, §3, Sept. 22, 2000, 114 Stat. 793; Pub. L. 110–161, div. F, title I, §127(1), Dec. 26, 2007, 121 Stat. 2122.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2007</b>—Par. (1). Pub. L. 110–161 substituted "304A/80009, and dated April 2007" for "304/80,007, and dated October 1998".

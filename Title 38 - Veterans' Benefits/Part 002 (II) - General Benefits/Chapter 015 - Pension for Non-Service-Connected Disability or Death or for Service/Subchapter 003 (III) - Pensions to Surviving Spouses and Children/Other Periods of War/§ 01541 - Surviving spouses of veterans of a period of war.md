@@ -16,7 +16,7 @@
 
 (f) No pension shall be paid under this section to a surviving spouse of a veteran unless the spouse was married to the veteran—
 
-&emsp;(1) before (A) December 14, 1944, in the case of a surviving spouse of a Mexican border period or World War I veteran, (B) January 1, 1957, in the case of a surviving spouse of aWorld War II veteran, (C) February 1, 1965, in the case of a surviving spouse of a Korean conflict veteran, (D) May 8, 1985, in the case of a surviving spouse of a Vietnam era veteran, or (E) January 1, 2001, in the case of a surviving spouse of a veteran of the Persian Gulf War;
+&emsp;(1) before (A) December 14, 1944, in the case of a surviving spouse of a Mexican border period or World War I veteran, (B) January 1, 1957, in the case of a surviving spouse of a World War II veteran, (C) February 1, 1965, in the case of a surviving spouse of a Korean conflict veteran, (D) May 8, 1985, in the case of a surviving spouse of a Vietnam era veteran, or (E) January 1, 2001, in the case of a surviving spouse of a veteran of the Persian Gulf War;
 
 &emsp;(2) for one year or more; or
 
@@ -122,7 +122,7 @@ Subsec. (d). Pub. L. 93–177, §2, substituted "$18" for "$17".
 
 <b>1971</b>—Subsec. (b). Pub. L. 92–198, §1(c), substituted formula for computing monthly pension rates of widow without child by providing for a maximum monthly pension for each group within designated income category and for computing each individual's monthly pension by reducing the maximum rate by a specified number of cents for each dollar by which the minimum income limitation for that group is exceeded, for table setting out income and pension rates, and raised the maximum income from $2,300 to $2,600.
 
-Subsec. (c). Pub. L. 92–198, §1(d), substituted formula for computing monthly pension rates of widow with one child by providing for a maximum monthly pension for each group with designated annual income category and for computing each individual's monthly benefit rate by reducing the maximum rate by a specified number of cents for each dollar by which the minimum income limitation for that group is exceeded, for table setting out income and pension rates, and further providing that whenever the monthly rate payable is less than the amount payable to the child under section 542 of this title, the widow would be paid at the child's rate, and raised the maximum income from $3,500 to $3,800.
+Subsec. (c). Pub. L. 92–198, §1(d), substituted formula for computing monthly pension rates of widow with one child by providing for a maximum monthly pension foreach group with designated annual income category and for computing each individual's monthly benefit rate by reducing the maximum rate by a specified number of cents for each dollar by which the minimum income limitation for that group is exceeded, for table setting out income and pension rates, and further providing that whenever the monthly rate payable is less than the amount payable to the child under section 542 of this title, the widow would be paid at the child's rate, and raised the maximum income from $3,500 to $3,800.
 
 Subsec. (d). Pub. L. 92–198, §1(e), substituted "$17" for "$16".
 

@@ -1,6 +1,6 @@
 ### §9191. Non-regular officers: status
 
-A commissioned officer of the Air Force, other than of the Regular Air Force, who is on active duty in any commissioned grade has the rights and privileges, and is entitled to the benefits, provided by law for a commissioned officer of the Air Force Reserve—
+A commissioned officer of the Air Force, other than of the Regular Air Force, who is on activeduty in any commissioned grade has the rights and privileges, and is entitled to the benefits, provided by law for a commissioned officer of the Air Force Reserve—
 
 &emsp;(1) whose reserve grade is that in which the officer not of the Regular Air Force is serving;
 
@@ -26,9 +26,13 @@ Aug. 7, 1947, ch. 512, §515(h), 61 Stat. 908.
 
 The first 12 words are substituted for 10:506d(h) (1st 11 words). The words "has the rights and privileges, and is entitled to the benefits" are substituted for the words "shall be entitled \* \* \* to the same rights, privileges, and benefits". Clause (1) is substituted for the words "in a grade the same as such 'active-duty grade' ". The words "as the officer not of the Regular Air Force" are substituted for the words "holding appointment in the Army Reserve". The words "his reserve grade" are substituted for the words "the grade held in the Army".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 8491 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

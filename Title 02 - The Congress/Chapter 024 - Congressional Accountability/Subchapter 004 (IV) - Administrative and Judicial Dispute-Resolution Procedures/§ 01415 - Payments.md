@@ -94,7 +94,7 @@ Funds to correct violations of section 1311(a)(3), 1331, or 1341 of this title m
 
 #### (B) Garnishment or other collection of wages
 
-&emsp;&emsp;On the expiration of that 270-day period, the amount of the reimbursable portion of an award or settlement described in paragraph (1) (reduced by any amount the individual has reimbursed, taking into account any amounts withheld or transferred under paragraph (2) or (3)) shall be treated as a claim of the United States and transferred to the Secretary of the Treasury for collection. Upon that transfer, the Secretary of the Treasury shall collect the claim, in accordance with section 3711 of title 31, including by administrative wage garnishment of the wages of the individual described in subparagraph (A) from the position described in subparagraph (A)(iii). The Secretary of the Treasury shall transfer the collected amount to the account described in subsection (a).
+&emsp;&emsp;On the expiration of that 270-day period, the amount of the reimbursable portion of an award or settlement described in paragraph (1) (reduced by any amount the individual has reimbursed, taking into account any amounts withheld or transferred under paragraph (2) or (3)) shall be treated as a claim of the United States and transferred to the Secretary of the Treasury for collection. Upon that transfer, the Secretary of the Treasury shall collect the claim, in accordance with section 3711 of title 31, including by administrative wage garnishment of the wages of the individual described in subparagraph (A) from the position described in subparagraph (A)(iii). The Secretary of theTreasury shall transfer the collected amount to the account described in subsection (a).
 
 #### (5) Notification to Office of Personnel Management and Secretary of the Treasury
 
@@ -154,7 +154,7 @@ Funds to correct violations of section 1311(a)(3), 1331, or 1341 of this title m
 
 #### (2) Reimbursement by office
 
-&emsp;Not later than 180 days after receiving a notification from the Executive Director under paragraph (1), the head of the employing office involved shall transfer to the account described in subsection (a), out of any funds available for operating expenses of the office, a payment equal to the amount specified in the notification.
+&emsp;Not later than 180 days after receiving a notification from the Executive Director underparagraph (1), the head of the employing office involved shall transfer to the account described in subsection (a), out of any funds available for operating expenses of the office, a payment equal to the amount specified in the notification.
 
 #### (3) Timetable and procedures for reimbursement
 

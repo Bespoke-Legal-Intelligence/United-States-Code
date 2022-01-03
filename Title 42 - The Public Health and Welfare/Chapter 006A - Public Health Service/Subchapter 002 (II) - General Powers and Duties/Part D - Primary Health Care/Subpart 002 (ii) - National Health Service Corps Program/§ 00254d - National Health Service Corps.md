@@ -20,7 +20,7 @@
 
 &emsp;(C) The term "health professional shortage area" has the meaning given such term in section 254e(a) of this title.
 
-&emsp;(D) The term "primary health services" means health services regarding family medicine, internal medicine, pediatrics, obstetricsand gynecology, dentistry, or mental health, that are provided by physicians or other health professionals.
+&emsp;(D) The term "primary health services" means health services regarding family medicine, internal medicine, pediatrics, obstetrics and gynecology, dentistry, or mental health, that are provided by physicians or other health professionals.
 
 &emsp;(E)(i) The term "behavioral and mental health professionals" means health service psychologists, licensed clinical social workers, licensed professional counselors, marriage and family therapists, psychiatric nurse specialists, and psychiatrists.
 
@@ -52,7 +52,7 @@
 
 > For purposes of subparagraphs (A) and (B), the term "monthly pay" includes special pay received under chapter 5 of title 37.
 
-(2) In the case of a member of the Corps who is directly engaged in the delivery of health services in a health professional shortage area in accordance with a service obligation incurred under the Scholarship Program or the Loan Repayment Program, the adjustment in pay authorized by paragraph (1) may be made for such a member only upon satisfactory completion ofsuch service obligation, and the first 36 months of such member's being so engaged in the delivery of health services shall, for purposes of paragraph (1)(A), be deemed to begin upon such satisfactory completion.
+(2) In the case of a member of the Corps who is directly engaged in the delivery of health services in a health professional shortage area in accordance with a service obligation incurred under the Scholarship Program or the Loan Repayment Program, the adjustment in pay authorized by paragraph (1) may be made for such a member only upon satisfactory completion of such service obligation, and the first 36 months of such member's being so engaged in the delivery of health services shall, for purposes of paragraph (1)(A), be deemed to begin upon such satisfactory completion.
 
 (3) A member of the Corps described in subparagraph (C) of subsection (a)(1) shall when assigned to an entity under section 254f of this title be subject to the personnel system of such entity, except that such member shall receive during the period of assignment the income that the member would receive if the member was a member of the Corps described in subparagraph (B) of such subsection.
 
@@ -119,6 +119,8 @@ For the purposes of this subpart and subpart III:
 &emsp;(6) The terms "half time" and "half-time" mean a minimum of 20 hours per week (not to exceed 39 hours per week) in a clinical practice, for a minimum of 45 weeks per year.
 
 (July 1, 1944, ch. 373, title III, §331, as added Pub. L. 94–484, title IV, §407(b)(3), Oct. 12, 1976, 90 Stat. 2268; amended Pub. L. 97–35, title XXVII, §2701, Aug. 13, 1981, 95 Stat. 902; Pub. L. 100–177, title II, §202(b), title III, §301, Dec. 1, 1987, 101 Stat. 996, 1003; Pub. L. 100–607, title VI, §629(a)(2), Nov. 4, 1988, 102 Stat. 3146; Pub. L. 101–597, title I, §101, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3013, 3035; Pub. L. 107–251, title III, §301, Oct. 26, 2002, 116 Stat. 1642; Pub. L. 109–417, title II, §206(c)(2), Dec. 19, 2006, 120 Stat. 2853; Pub. L. 111–148, title X, §10501(n)(1), (2), Mar. 23, 2010, 124 Stat. 1002, 1003.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -202,7 +204,9 @@ Subsec. (d). Pub. L. 97–35, §2701(d), in par. (1) inserted reference to membe
 
 Subsec. (g). Pub. L. 97–35, §2701(e), substituted provisions relating to conversion from Corps member to commissioned officer and retirement credits, for provisions relating to school participation in development of administrative guidelines.
 
-Subsec. (h). Pub. L. 97–35, §2701(f), in par. (1) substituted "Health and Human Services" for "Health, Education, and Welfare", in par. (2) substituted "254l" for "294t", and in par. (3) inserted reference to Commonwealth with respect to the Northern Mariana Islands.
+Subsec. (h). Pub. L. 97–35, §2701(f), in par. (1) substituted "Health and Human Services" for "Health, Education, and Welfare", in par. (2) substituted "254l"for "294t", and in par. (3) inserted reference to Commonwealth with respect to the Northern Mariana Islands.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -211,10 +215,6 @@ Reference to Reserve Corps of the Public Health Service deemed to be a reference
 #### Effective Date of 1990 Amendment
 
 Pub. L. 101–597, title V, §501, Nov. 16, 1990, 104 Stat. 3036, provided that: "This Act and the amendments made by this Act \[enacting sections 254f–1, 254o–1, and 254r of this title, amending this section, sections 242a, 254e to 254i, 254k, 254l to 254q–1, 254s, 294h, 294n, 294aa, 295g–1, 296m, 1320c–5, 1395l, 1395u, 1395x, 3505d, and 9840 of this title, and section 2123 of Title 10, Armed Forces, and enacting provisions set out as notes under sections 201, 254l–1, and 254o of this title\] shall take effect October 1, 1990, or upon the date of the enactment of this Act \[Nov. 16, 1990\], whichever occurs later."
-
-#### Termination of Trust Territory of the Pacific Islands
-
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
 #### Special Report on Present and Future Direction of National Health Service Corps; Submission to Congress Not Later Than February 1, 1979
 
@@ -232,7 +232,13 @@ Pub. L. 94–484, title IV, §407(c), Oct. 12, 1976, 90 Stat. 2278, provided tha
 
 "(C) In the case of any physician or dentist member of the Corps who was providing health care and services on September 30, 1977, under an assignment made under section 329(b) of such Act (as in effect on September 30, 1977) \[former 42 U.S.C. 254b(b)\], the number of the months during which such member provided such care and services before October 1, 1977, shall be counted in determining the application of the additional pay provisions of section 331(d) of such Act (as added by subsection (b) of this section) \[42 U.S.C. 254d(d)\] to such number.
 
-"(3) The amendment made by subsection (b) which established an Advisory Council previously established under section 329 of the Public Health Service Act \[former 42 U.S.C. 254b\] shall not be construed as requiring the establishment of a new Advisory Council under such section 337 \[42 U.S.C. 254j\], and the amendment made by such subsection with respect to the composition of such Advisory Council shall apply with respect to appointments made to the Advisory Council after October 1, 1977, and the Secretary of Health, Education, and Welfare \[now Health and Human Services\] shall make appointments to the Advisory Council after suchdate in a manner which will bring about, at the earliest feasible time, the Advisory Council composition prescribed by the amendment."
+"(3) The amendment made by subsection (b) which established an Advisory Council previously established under section 329 of the Public Health Service Act \[former 42 U.S.C. 254b\] shall not be construed as requiring the establishment of a new Advisory Council under such section 337 \[42 U.S.C. 254j\], and the amendment made by such subsection with respect to the composition of such Advisory Council shall apply with respect to appointments made to the Advisory Council after October 1, 1977, and the Secretary of Health, Education, and Welfare \[now Health and Human Services\] shall make appointments to the Advisory Council after such date in a manner which will bring about, at the earliest feasible time, the Advisory Council composition prescribed by the amendment."
+
+#### <b>Executive Documents</b>
+
+#### Termination of Trust Territory of the Pacific Islands
+
+For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
 <i><sup>1</sup></i><i> See Change of Name note below.</i>
 

@@ -6,6 +6,8 @@
 
 (Pub. L. 90–321, title IX, §921, formerly §918, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3740; amended Pub. L. 97–375, title II, §209(a), Dec. 21, 1982, 96 Stat. 1825; renumbered §919, Pub. L. 111–24, title IV, §401(1), May 22, 2009, 123 Stat. 1751; renumbered §920, renumbered §921, and amended Pub. L. 111–203, title X, §§1073(a)(3), 1075(a)(1), 1084(1), July 21, 2010, 124 Stat. 2060, 2068, 2081.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For effective date of this subchapter, referred to in subsec. (a), see section 921 of Pub. L. 90–321, set out as an Effective Date note under section 1693 of this title.
@@ -14,7 +16,7 @@ Section 1693o of this title, referred to in subsec. (a), was in the original "se
 
 #### Codification
 
-Renumbering of section 918 of Pub. L. 90–321 as section 919 by section 401(1) of Pub. L. 111–24 was executed prior to the renumberings of section 919 of Pub. L. 90–321 as section 920 and then as section 921 by sections 1073(a)(3) and 1075(a)(1) of Pub. L. 111–203 as the probable intent of Congress, notwithstanding section 403 of Pub. L. 111–24, set out as an Effective Date note under section 1693l–1 of this title and section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking, which provided that the renumbering by Pub. L. 111–24 was effective 15 months after May 22, 2009, and the renumberings by Pub. L. 111–203 were effective 1 day after July 21, 2010.
+Renumbering of section 918 of Pub. L. 90–321 as section 919 by section 401(1) of Pub. L. 111–24 was executed prior to the renumberings of section 919 of Pub. L. 90–321 as section 920 and then as section 921 by sections 1073(a)(3) and 1075(a)(1) of Pub. L. 111–203 as the probable intent of Congress, notwithstanding section 403 of Pub. L. 111–24, set out as an Effective Date note under section 1693l–1 of this title and section 4 of Pub. L. 111–203, set out as an Effective Date note under section5301 of Title 12, Banks and Banking, which provided that the renumbering by Pub. L. 111–24 was effective 15 months after May 22, 2009, and the renumberings by Pub. L. 111–203 were effective 1 day after July 21, 2010.
 
 #### Prior Provisions
 
@@ -27,6 +29,8 @@ Another prior section 921 of Pub. L. 90–321 was renumbered section 923 and is 
 <b>2010</b>—Pub. L. 111–203, §1084(1), substituted "Bureau" for "Board" wherever appearing.
 
 <b>1982</b>—Subsec. (a). Pub. L. 97–375 struck out requirement that the Attorney General make a report on the same terms as the Board, and that such report also contain an analysis of the impact of this subchapter on the operation, workload, and efficiency of the Federal courts, and substituted "necessary and appropriate" for "necessary or appropriate".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

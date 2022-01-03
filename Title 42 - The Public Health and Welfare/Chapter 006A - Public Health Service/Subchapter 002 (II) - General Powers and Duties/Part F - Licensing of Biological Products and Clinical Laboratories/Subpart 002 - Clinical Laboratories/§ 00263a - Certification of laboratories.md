@@ -70,7 +70,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 #### (B) Changes
 
-&emsp;&emsp;If a laboratory makes changes in the examinations and other procedures performed by it only with respect to examinations and procedures which are described in paragraph (3), the laboratory shall report such changes to the Secretary not later than 6 months after the change has been put into effect. If a laboratory proposes to make changes in the examinations and procedures performed by it such that the laboratory will perform an examination or procedure not described in paragraph (3), the laboratory shall reportsuch change to the Secretary before the change takes effect.
+&emsp;&emsp;If a laboratory makes changes in the examinations and other procedures performed by it only with respect to examinations and procedures which are described in paragraph (3), the laboratory shall report such changes to the Secretary not later than 6 months after the change has been put into effect. If a laboratory proposes to make changes in the examinations and procedures performed by it such that the laboratory will perform an examination or procedure not described in paragraph (3), the laboratory shall report such change to the Secretary before the change takes effect.
 
 #### (C) Effect
 
@@ -176,7 +176,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall establish standards for the proficiency testing programs for laboratories issued a certificate under this section which are conducted by the Secretary, conducted by an organization approved under subparagraph (C), or conducted by an approved accrediting body. The standards shall require that a laboratory issued a certificate under this section be tested for each examination and procedure conducted within a category of examinations or procedures for which it has received a certificate, except for examinations and procedures for which the Secretary has determined that a proficiency test cannot reasonably be developed. The testing shall be conducted on a quarterly basis, except where the Secretary determines for technical and scientific reasons that a particular examination or procedure may be tested less frequently (but not less often than twice per year).
+&emsp;&emsp;The Secretary shall establish standards for the proficiency testing programs for laboratories issued a certificate under this section which are conducted by the Secretary, conducted by an organization approved under subparagraph (C), or conducted by an approved accrediting body. The standards shall require that a laboratory issued a certificateunder this section be tested for each examination and procedure conducted within a category of examinations or procedures for which it has received a certificate, except for examinations and procedures for which the Secretary has determined that a proficiency test cannot reasonably be developed. The testing shall be conducted on a quarterly basis, except where the Secretary determines for technical and scientific reasons that a particular examination or procedure may be tested less frequently (but not less often than twice per year).
 
 #### (B) Criteria
 
@@ -202,7 +202,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 #### (F) Testing results
 
-&emsp;&emsp;The Secretary shall establish a system to make the results of the proficiency testingprograms subject to the standards established by the Secretary under subparagraph (A) available, on a reasonable basis, upon request of any person. The Secretary shall include with results made available under this subparagraph such explanatory information as may be appropriate to assist in the interpretation of such results.
+&emsp;&emsp;The Secretary shall establish a system to make the results of the proficiency testing programs subject to the standards established by the Secretary under subparagraph (A) available, on a reasonable basis, upon request of any person. The Secretary shall include with results made available under this subparagraph such explanatory information as may be appropriate to assist in the interpretation of such results.
 
 #### (4) National standards for quality assurance in cytology services
 
@@ -296,7 +296,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 &emsp;&emsp;(B) a laboratory has engaged in an action described in subparagraph (D) or (E) of paragraph (1),
 
-> &emsp;the Secretary may suspend or limit the certificate of the laboratory before holding a hearing under paragraph (1) regarding such failure or refusal. The opportunity for a hearing shall be provided no later than 60 days from the effective date of the suspension or limitation. A suspension or limitation under this paragraph shall stay in effect until the decision of the Secretary made after the hearing under paragraph (1).
+> &emsp;the Secretary may suspend or limit the certificate of the laboratory before holding a hearing under paragraph (1) regarding such failure or refusal. The opportunity for a hearing shall be provided no later than 60 days from the effective date of the suspension or limitation. A suspension or limitation under this paragraph shall stay in effect until thedecision of the Secretary made after the hearing under paragraph (1).
 
 #### (3) Ineligibility to own or operate laboratories after revocation
 
@@ -318,7 +318,7 @@ Whenever the Secretary has reason to believe that continuation of any activity b
 
 #### (2) Additional evidence
 
-&emsp;If the petitioner applies to the court for leave to adduce additional evidence, and shows to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for the failure to adduce such evidence in the proceeding before the Secretary, the court may order such additional evidence (and evidence in rebuttal of such additional evidence) to be taken before the Secretary, and to be adduced upon the hearing in such manner and upon such terms and conditions as the court may deem proper. The Secretary may modify the findings of the Secretary as to the facts, or make new findings, by reason of the additional evidence so taken, and the Secretary shall file such modified or new findings, and the recommendations of the Secretary, if any, for the modificationor setting aside of his original action, with the return of such additional evidence.
+&emsp;If the petitioner applies to the court for leave to adduce additional evidence, and shows to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for the failure to adduce such evidence in the proceeding before the Secretary, the court may order such additional evidence (and evidence in rebuttal of such additional evidence) to be taken before the Secretary, and to be adduced upon the hearing in such manner and upon such terms and conditions as the court may deem proper. The Secretary may modify the findings of the Secretary as to the facts, or make new findings, by reason of the additional evidence so taken, and the Secretary shall file such modified or new findings, and the recommendations of the Secretary, if any, for the modification or setting aside of his original action, with the return of such additional evidence.
 
 #### (3) Judgment of court
 
@@ -396,6 +396,8 @@ In carrying out this section, the Secretary shall consult with appropriate priva
 
 (July 1, 1944, ch. 373, title III, §353, as added Pub. L. 90–174, §5(a), Dec. 5, 1967, 81 Stat. 536; amended Pub. L. 100–578, §2, Oct. 31, 1988, 102 Stat. 2903; Pub. L. 105–115, title I, §123(h), Nov. 21, 1997, 111 Stat. 2324; Pub. L. 112–202, §2, Dec. 4, 2012, 126 Stat. 1483.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Social Security Act, referred to in subsecs. (i)(3) and (n)(6), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Social Security Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
@@ -420,7 +422,9 @@ Subsec. (i)(4). Pub. L. 112–202, §2(2)(B), substituted "may have its certific
 
 &emsp;"(C) the Secretary has determined pose no reasonable risk of harm to the patient if performed incorrectly."
 
-<b>1988</b>—Pub. L. 100–578 substituted "Certification of laboratories" for "Licensing of laboratories" in section catchline, and amended text generally, revising and restating as subsecs. (a) to (q) provisions of former subsecs. (a) to (l).
+<b>1988</b>—Pub. L. 100–578 substituted "Certification of laboratories" for "Licensing of laboratories" in sectioncatchline, and amended text generally, revising and restating as subsecs. (a) to (q) provisions of former subsecs. (a) to (l).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1997 Amendment
 

@@ -110,7 +110,7 @@ The amount of a grant under this section may not exceed—
 
 #### (f) Subgrants
 
-A State or eligible entity that receives a grant under this section may make a subgrant, as the State or eligible entity determines is necessaryto carry out the activities funded using a grant under this section.
+A State or eligible entity that receives a grant under this section may make a subgrant, as the State or eligible entity determines is necessary to carry out the activities funded using a grant under this section.
 
 #### (g) Reapplication
 

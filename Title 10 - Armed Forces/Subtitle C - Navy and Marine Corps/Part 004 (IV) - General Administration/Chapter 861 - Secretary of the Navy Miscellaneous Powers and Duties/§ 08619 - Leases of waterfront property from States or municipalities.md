@@ -18,9 +18,13 @@ Historical and Revision Notes
 
 July 1, 1918, ch. 114, 40 Stat. 705 (2d par.).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7219 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

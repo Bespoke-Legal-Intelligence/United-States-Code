@@ -16,7 +16,7 @@ For the purposes of this chapter—
 
 #### References in Text
 
-This chapter, referred to in introductory provisions, was in the original "this title", meaning title III ofPub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 6201 of this title and Tables.
+This chapter, referred to in introductory provisions, was in the original "this title", meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
 This chapter, referred to in par. (2), was in the original "this Act", and was translated as reading "this title", meaning title III of Pub. L. 103–236, to reflect the probable intent of Congress. See above.
 

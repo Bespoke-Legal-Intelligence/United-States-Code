@@ -8,6 +8,8 @@
 
 (Added Pub. L. 97–86, title IX, §905(a)(1), Dec. 1, 1981, 95 Stat. 1115, §371; amended Pub. L. 100–456, div. A, title XI, §1104(a), Sept. 29, 1988, 102 Stat. 2043; renumbered §271, Pub. L. 114–328, div. A, title XII, §1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 271, added Pub. L. 85–861, §1(5)(A), Sept. 2, 1958, 72 Stat. 1438; amended Pub. L. 95–485, title IV, §405(b), Oct. 20, 1978, 92 Stat. 1615, related to system of continuous screening of units and members of Ready Reserve, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§1661(a)(2)(A), 1691, Oct. 5, 1994, 108 Stat. 2979, 3026, effective Dec. 1, 1994. See section 10149 of this title.
@@ -18,13 +20,15 @@ A prior section 271, added Pub. L. 85–861, §1(5)(A), Sept. 2, 1958, 72 Stat. 
 
 <b>1988</b>—Pub. L. 100–456 amended section generally, designating existing provisions as subsec. (a), inserting reference to military training, and adding subsecs. (b) and (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title of 1986 Amendment
 
 Pub. L. 99–570, title III, §3051, Oct. 27, 1986, 100 Stat. 3207–74, provided that: "This subtitle \[subtitle A (§§3051–3059) of title III of Pub. L. 99–570, enacting section 379 of this title, amending sections 374 and 911 of this title, enacting provisions set out as notes under sections 374, 525, and 9441 of this title, and repealing provisions set out as a note under section 89 of Title 14, Coast Guard\] may be cited as the 'Defense Drug Interdiction Assistance Act'."
 
 #### Enhancement of Information Sharing and Coordination of Military Training Between Department of Homeland Security and Department of Defense
 
-Pub. L. 114–328, div. A, title X, §1014, Dec. 23, 2016, 130 Stat. 2386, as amended by Pub. L. 116–92, div. A, title X, §1053, Dec. 20, 2019, 133 Stat. 1591, provided that:
+Pub. L. 114–328, div. A, title X, §1014, Dec. 23, 2016, 130 Stat. 2386, as amended by Pub. L. 116–92, div. A, title X, §1053, Dec. 20, 2019, 133 Stat. 1591; Pub. L. 117–81, div. A, title X, §1063, Dec. 27, 2021, 135 Stat. 1909, provided that:
 
 "(a)
 
@@ -48,7 +52,7 @@ Coordination of training.—To the maximum extent practicable, the Secretary of 
 
 "(c)
 
-Sharing of Certain Information.—Not later than 180 days after the date of the enactment of this Act, the Secretary of Homeland Security and the Secretary of Defense shall jointly formulate guidance toensure that the information relevant to civilian law enforcement matters that is collected by the Armed Forces during the normal course of military training or operations in proximity to the international borders of the United States is provided promptly to relevant officials in accordance with section 271 of title 10, United States Code.
+Sharing of Certain Information.—Not later than 180 days after the date of the enactment of this Act, the Secretary of Homeland Security and the Secretary of Defense shall jointly formulate guidance to ensure that the information relevant to civilian law enforcement matters that is collected by the Armed Forces during the normal course of military training or operations in proximity to the international borders of the United States is provided promptly to relevant officials in accordance with section 271 of title 10, United States Code.
 
 "(d)
 
@@ -112,11 +116,11 @@ Department of homeland security report.—Not later than March 31 of each year, 
 
 &emsp;"(3)
 
-Termination.—The requirement to submit a report under paragraph (1) or (2) shall terminate on December 31, 2022."
+Termination.—The requirement to submit a report under paragraph (1) or (2) shall terminate on December 31, 2023."
 
 #### Authority for Joint Task Forces to Provide Support to Law Enforcement Agencies Conducting Counter-Terrorism Activities
 
-Pub. L. 108–136, div. A, title X, §1022, Nov. 24, 2003, 117 Stat. 1594, as amended by Pub. L. 109–163, div. A, title X, §1022, Jan. 6, 2006, 119 Stat. 3427; Pub. L. 110–181, div. A, title X, §1021, Jan. 28, 2008, 122 Stat. 304; Pub. L. 110–417, \[div. A\], title X, §1022, Oct. 14, 2008, 122 Stat. 4586; Pub. L. 111–84, div. A, title X, §1012, Oct. 28, 2009, 123 Stat. 2441; Pub. L. 111–383, div. A, title X, §1012(a)–(b)(2), Jan. 7, 2011, 124 Stat. 4346, 4347; Pub. L. 112–81, div. A, title X, §1004(a), Dec. 31, 2011, 125 Stat. 1556; Pub. L. 112–239, div. A, title X, §1011, Jan. 2, 2013, 126 Stat. 1907; Pub. L. 113–66, div. A, title X, §1012, Dec. 26, 2013, 127 Stat. 844; Pub. L. 113–291, div. A, title X, §1014, Dec. 19, 2014, 128 Stat. 3484; Pub. L. 115–91, div. A, title X, §1081(i), Dec. 12, 2017, 131 Stat. 1601; Pub. L. 116–92, div. A, title X, §1022, Dec. 20, 2019, 133 Stat. 1578, provided that:
+Pub. L. 108–136, div. A, title X, §1022, Nov. 24, 2003, 117 Stat. 1594, as amended by Pub. L. 109–163, div. A, title X, §1022, Jan. 6, 2006, 119 Stat. 3427; Pub. L. 110–181, div. A, title X, §1021, Jan. 28, 2008, 122 Stat. 304; Pub. L. 110–417, \[div. A\], title X, §1022, Oct. 14, 2008, 122 Stat. 4586; Pub. L. 111–84, div. A, title X, §1012, Oct. 28, 2009, 123 Stat. 2441; Pub. L. 111–383, div. A, title X, §1012(a)–(b)(2), Jan. 7, 2011, 124 Stat. 4346, 4347; Pub. L. 112–81, div. A, title X, §1004(a), Dec. 31, 2011, 125 Stat. 1556; Pub. L. 112–239, div. A, title X, §1011, Jan. 2, 2013, 126 Stat. 1907; Pub. L. 113–66, div. A, title X, §1012, Dec. 26, 2013, 127 Stat. 844; Pub. L. 113–291, div. A, title X, §1014, Dec. 19, 2014, 128 Stat. 3484; Pub. L. 115–91, div. A, title X, §1081(i), Dec. 12, 2017, 131 Stat. 1601; Pub. L. 116–92, div. A, title X, §1022, Dec. 20, 2019, 133 Stat. 1578; Pub. L. 117–81, div. A, title X, §1008, Dec. 27, 2021, 135 Stat. 1889, provided that:
 
 "(a)
 
@@ -124,7 +128,7 @@ Authority.—A joint task force of the Department of Defense that provides suppo
 
 "(b)
 
-Availability of Funds.—During fiscal years 2006 through 2022, funds for drug interdiction and counter-drug activities that are available to a joint task force to support counter-drug activities may also be used to provide the counter-terrorism or counter-transnational organized crime support authorized by subsection (a).
+Availability of Funds.—During fiscal years 2006 through 2027, funds for drug interdiction and counter-drug activities that are available to a joint task force to support counter-drug activities may also be used to provide the counter-terrorism or counter-transnational organized crime support authorized by subsection (a).
 
 "(c)
 
@@ -140,11 +144,9 @@ Annual Report.—Not later than December 31 of each year in which the authority 
 
 "(d)
 
-Conditions.—(1) Any support provided under subsection (a) may only be provided in the geographic area of responsibility of the joint task force.
+Conditions.—(1) Support for counter-terrorism or counter-transnational organized crime activities provided under subsection (a) may only be provided if the Secretary of Defense determines that the objectives of using the counter-drug funds of any joint task force to provide such support relate significantly to the objectives of providing support for counter-drug activities by that joint task force or any other joint task force.
 
-"(2)(A) Support for counter-terrorism or counter-transnational organized crime activities provided under subsection (a) may only be provided if the Secretary of Defense determines that the objectives of using the counter-drug funds of any joint task force to provide such support relate significantly to the objectives of providing support for counter-drug activities by that joint task force or any other joint task force.
-
-"(B) The Secretary of Defense may waive the requirements of subparagraph (A) if the Secretary determines that such a waiver is vital to the national security interests of the United States. The Secretary shall promptly submit to the congressional defense committees notice in writing of any waiver issued under this subparagraph, together with a description of the vitalnational security interests associated with the support covered by such waiver.
+"(2) The Secretary of Defense may waive the requirements of paragraph (1) if the Secretary determines that such a waiver is vital to the national security interests of the United States. The Secretary shall promptly submit to the congressional defense committees notice in writing of any waiver issued under this subparagraph, together with a description of the vital national security interests associated with the support covered by such waiver.
 
 "(e)
 

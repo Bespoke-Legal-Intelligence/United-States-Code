@@ -10,9 +10,13 @@ Appearance as Witness Not Barred.—Subsection (a) does not prohibit officers or
 
 (Added and amended Pub. L. 105–178, title VII, §7104(a), (c), June 9, 1998, 112 Stat. 466; Pub. L. 105–206, title IX, §9012(a), July 22, 1998, 112 Stat. 864.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–178, §7104(c), as added by Pub. L. 105–206, inserted "for the National Highway Traffic Safety Administration" after "Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

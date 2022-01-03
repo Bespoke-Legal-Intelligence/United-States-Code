@@ -34,7 +34,7 @@ In general.—The Secretary shall compute, at least once each year, the total nu
 
 &emsp;(2)
 
-Rounding fractions.—Subject to subsection (a), in making the computations under paragraph (1), any fraction shall be rounded to the nearest whole number.
+Rounding fractions.—Subject to subsection (a), in making the computations underparagraph (1), any fraction shall be rounded to the nearest whole number.
 
 &emsp;(3)
 
@@ -48,7 +48,7 @@ Use of Numbers; Temporary Increases.—The numbers resulting from computations u
 
 Officers Serving Coast Guard Academy and Reserve.—The number of officers authorized to be serving on active duty in each grade of the permanent commissioned teaching staff of the Coast Guard Academy and of the Reserve serving in connection with organizing, administering, recruiting, instructing, or training the reserve components shall be prescribed by the Secretary.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 497, §42; July 20, 1956, ch. 647, §2, 70 Stat. 588; Pub. L. 86–474, §1(2), May 14, 1960, 74 Stat. 144; Pub. L. 88–130, §1(2), Sept. 24, 1963, 77 Stat. 174; Pub. L. 89–444, §1(2), June 9, 1966, 80 Stat. 195; Pub. L. 90–385, July 5, 1968, 82 Stat. 293; Pub. L. 92–451, §1(2), Oct. 2, 1972, 86 Stat. 755; Pub. L. 93–174, §1(2), Dec. 5, 1973, 87 Stat. 692; Pub. L. 96–23, §4, June 13, 1979, 93 Stat. 68; Pub. L. 97–417, §2(2), Jan. 4, 1983, 96 Stat. 2085; Pub. L. 97–449, §5(b), Jan. 12, 1983, 96Stat. 2442; Pub. L. 98–557, §25(a)(1), Oct. 30, 1984, 98 Stat. 2872; Pub. L. 99–145, title V, §514(c)(1), Nov. 8, 1985, 99 Stat. 629; Pub. L. 103–206, title II, §201, Dec. 20, 1993, 107 Stat. 2420; Pub. L. 108–293, title II, §214, Aug. 9, 2004, 118 Stat. 1037; Pub. L. 111–281, title II, §204(a), Oct. 15, 2010, 124 Stat. 2910; Pub. L. 113–281, title II, §201, Dec. 18, 2014, 128 Stat. 3024; renumbered §2103, Pub. L. 115–282, title I, §112(b), Dec. 4, 2018, 132 Stat. 4216; Pub. L. 116–283, div. G, title LVXXXII \[LXXXII\], §8217, Jan. 1, 2021, 134 Stat. 4653.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 497, §42; July 20, 1956, ch. 647, §2, 70 Stat. 588; Pub. L. 86–474, §1(2), May 14, 1960, 74 Stat. 144; Pub. L. 88–130, §1(2), Sept. 24, 1963, 77 Stat. 174; Pub. L. 89–444, §1(2), June 9, 1966, 80 Stat. 195; Pub. L. 90–385, July 5, 1968, 82 Stat. 293; Pub. L. 92–451, §1(2), Oct. 2, 1972, 86 Stat. 755; Pub. L. 93–174, §1(2), Dec. 5, 1973, 87 Stat. 692; Pub. L. 96–23, §4, June 13, 1979, 93 Stat. 68; Pub. L. 97–417, §2(2), Jan. 4, 1983, 96 Stat. 2085; Pub. L. 97–449, §5(b), Jan. 12, 1983, 96 Stat. 2442; Pub. L. 98–557, §25(a)(1), Oct. 30, 1984, 98 Stat. 2872; Pub. L. 99–145, title V, §514(c)(1), Nov. 8, 1985, 99 Stat. 629; Pub. L. 103–206, title II, §201, Dec. 20, 1993, 107 Stat. 2420; Pub. L. 108–293, title II, §214, Aug. 9, 2004, 118 Stat. 1037; Pub. L. 111–281, title II, §204(a), Oct. 15, 2010, 124 Stat. 2910; Pub. L. 113–281, title II, §201, Dec. 18, 2014, 128 Stat. 3024; renumbered §2103, Pub. L. 115–282, title I, §112(b), Dec. 4, 2018, 132 Stat. 4216; Pub. L. 116–283, div. G, title LVXXXII \[LXXXII\], §8217, Jan. 1, 2021, 134 Stat. 4653.)
 
 #### Historical and Revision Notes
 

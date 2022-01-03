@@ -44,7 +44,7 @@ The President, with respect to any agreement that is subject to the provisions o
 
 #### (3) Negotiations regarding the fishing industry
 
-&emsp;Before initiating, or continuing, negotiations which directly relate to fish or shellfish trade with any country, the President shall consult with the Committee on Ways and Means and the Committee on Resources of the House of Representatives, and the Committee on Finance and the Committee on Commerce, Science, and Transportation of the Senate, and shall keep the Committees apprised of negotiations on an ongoing and timely basis.
+&emsp;Before initiating, or continuing, negotiations which directly relate to fish or shellfish trade with any country, the President shall consult with the Committee on Ways and Means and the Committee on Resources of theHouse of Representatives, and the Committee on Finance and the Committee on Commerce, Science, and Transportation of the Senate, and shall keep the Committees apprised of negotiations on an ongoing and timely basis.
 
 #### (c) Negotiations regarding textiles
 
@@ -138,6 +138,8 @@ The report required under section 135(e)(1) of the Trade Act of 1974 \[19 U.S.C.
 
 (Pub. L. 107–210, div. B, title XXI, §2104, Aug. 6, 2002, 116 Stat. 1008.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Tariff Act of 1930, referred to in subsec. (d)(3)(A)(i), is act June 17, 1930, ch. 497, 46 Stat. 590, as amended. Title VII of the Act is classified generally to subtitle IV (§1671 et seq.) of chapter 4 of this title. For complete classification of this Act to the Code, see section 1654 of this title and Tables.
@@ -146,9 +148,13 @@ The Trade Act of 1974, referred to in subsec. (d)(3)(A)(i), is Pub. L. 93–618,
 
 Sections 2104(d)(3) and 2102(b)(14) of the Bipartisan Trade Promotion Authority Act of 2002, referred to in subsec. (d)(3)(C)(ii), are classified to subsec. (d)(3) of this section and section 3802(b)(14) of this title, respectively.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

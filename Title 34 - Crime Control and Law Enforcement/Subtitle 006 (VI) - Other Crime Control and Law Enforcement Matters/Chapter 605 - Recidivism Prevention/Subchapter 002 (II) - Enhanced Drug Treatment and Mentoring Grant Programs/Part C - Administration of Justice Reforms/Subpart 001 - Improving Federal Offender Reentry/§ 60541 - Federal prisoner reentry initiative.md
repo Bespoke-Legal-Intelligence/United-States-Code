@@ -66,7 +66,7 @@ The Attorney General shall take such steps as are necessary to modify the proced
 
 #### (B) Tracking
 
-&emsp;&emsp;In carrying out this paragraph, the Director shall quantitatively track the progressin responding to the reentry needs and deficits of individual inmates.
+&emsp;&emsp;In carrying out this paragraph, the Director shall quantitatively track the progress in responding to the reentry needs and deficits of individual inmates.
 
 #### (C) Annual report
 
@@ -134,7 +134,7 @@ The Attorney General, in consultation with the Secretary of Labor, shall take su
 
 #### (B) Placement in home detention
 
-&emsp;&emsp;In carrying out a pilot program as described in subparagraph (A), the Attorney General may release some or all eligible elderly offenders and eligible terminally ill offenders from Bureau of Prisons facilities to home detention, upon written request from either the Bureau of Prisons or an eligibleelderly offender or eligible terminally ill offender.
+&emsp;&emsp;In carrying out a pilot program as described in subparagraph (A), the Attorney General may release some or all eligible elderly offenders and eligible terminally ill offenders from Bureau of Prisons facilities to home detention, upon written request from either the Bureau of Prisons or an eligible elderly offender or eligible terminally ill offender.
 
 #### (C) Waiver
 

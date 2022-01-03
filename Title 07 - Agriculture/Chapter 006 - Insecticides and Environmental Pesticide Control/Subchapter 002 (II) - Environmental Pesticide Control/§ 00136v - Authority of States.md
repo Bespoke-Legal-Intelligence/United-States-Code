@@ -18,7 +18,9 @@ Such State shall not impose or continue in effect any requirements for labeling 
 
 (4) If the Administrator finds, in accordance with standards set forth in regulations issued under section 136w of this title, that a State is not capable of exercising adequate controls to assure that State registration under this section will be in accord with the purposes of this subchapter or has failed to exercise adequate controls, the Administrator may suspend the authority of the State to register pesticides until such time as the Administrator is satisfied that the State can and will exercise adequate controls. Prior to any such suspension, the Administrator shall advise the State of the Administrator's intention to suspend and the reasons therefor and provide the State time to respond.
 
-(June 25, 1947, ch. 125, §24, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 997; amended Pub. L. 95–396, §22, Sept. 30, 1978, 92 Stat. 835; Pub. L. 100–532, title VIII, §801(m), Oct. 25, 1988, 102 Stat. 2682.)
+(June 25, 1947, ch. 125, §24, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 997; amendedPub. L. 95–396, §22, Sept. 30, 1978, 92 Stat. 835; Pub. L. 100–532, title VIII, §801(m), Oct. 25, 1988, 102 Stat. 2682.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -39,6 +41,8 @@ Subsec. (c)(2). Pub. L. 95–396 incorporated existing text in provisions design
 Subsec. (c)(3). Pub. L. 95–396 added par. (3).
 
 Subsec. (c)(4). Pub. L. 95–396 incorporated existing text in provisions designated par. (4) and authorized suspension of registration authority of the State based on findings of inability or failure to exercise adequate controls following an indication of intention to suspend and reasons for the suspension and provision for time to respond.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

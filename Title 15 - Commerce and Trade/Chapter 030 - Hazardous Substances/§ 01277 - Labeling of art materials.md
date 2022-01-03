@@ -8,7 +8,7 @@ On and after the last day of the 2-year period beginning on November 18, 1988, t
 
 The following shall apply with respect to the standard of the American Society for Testing and Materials referred to in subsection (a):
 
-&emsp;(1) The term "art material or art material product" shall mean any substance marketedor represented by the producer or repackager as suitable for use in any phase of the creation of any work of visual or graphic art of any medium. The term does not include economic poisons subject to the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\] or drugs, devices, or cosmetics subject to the Federal Food, Drug, and Cosmetics Act \[21 U.S.C. 301 et seq.\].
+&emsp;(1) The term "art material or art material product" shall mean any substance marketed or represented by the producer or repackager as suitable for use in any phase of the creation of any work of visual or graphic art of any medium. The term does not include economic poisons subject to the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\] or drugs, devices, or cosmetics subject to the Federal Food, Drug, and Cosmetics Act \[21 U.S.C. 301 et seq.\].
 
 &emsp;(2) The standard referred to in subsection (a) as modified by this subsection applies to art materials intended for users of any age.
 
@@ -20,7 +20,7 @@ The following shall apply with respect to the standard of the American Society f
 
 &emsp;(6) If an art material producer or repackager becomes newly aware of any significant information regarding the hazards of an art material or ways to protect against the hazard, this new information must be incorporated into the labels of such art materials that are manufactured after 12 months from the date of discovery. If a producer or repackager reformulates an art material, the new formulation must be evaluated and labeled in accordance with the standard referred to in subsection (a) as modified by this subsection.
 
-&emsp;(7) If the Commission determines that an art material in a container equal to or smaller than one fluid ounce (30 ml) (if the product is sold by volume) or one ounce net weight (28 g) (if the product is sold by weight) has the potential for producing chronic adverse health effects with customary or reasonably foreseeable use despite its small size, the Commission may require the art material to carry a label which conveys all the information required under the standard referred to in subsection (a) as modified by this subsection for art materials in a container greater than one fluid ounce or one ounce net weight. If the information cannot fit on the package label, the Commission shall require the art material to have a package insert which conveys all this information. If the art material has a package insert, the label on the product shall include a signal word in conformance with paragraph 5 of the standard referred to in subsection (a), a list of potentially harmful or sensitizing components, and the statement "see package insert before use". For purposes of this subsection, the term "package insert" means a display of written, printed, or graphic matter upon a leaflet or suitable material accompanying the art material. This requirement is in addition to, and is not meant to supersede, the requirement of paragraph 5.8 of the standard designated D–4236.
+&emsp;(7) If the Commission determines that an art material in a container equal to or smaller than one fluid ounce (30 ml) (if the product is sold by volume) or one ounce net weight (28 g) (if the product is sold by weight) has the potential for producing chronic adverse health effects with customary or reasonably foreseeable use despite its small size, the Commission may require the art material to carry a label which conveys all the information required under the standard referred to in subsection\(a) as modified by this subsection for art materials in a container greater than one fluid ounce or one ounce net weight. If the information cannot fit on the package label, the Commission shall require the art material to have a package insert which conveys all this information. If the art material has a package insert, the label on the product shall include a signal word in conformance with paragraph 5 of the standard referred to in subsection (a), a list of potentially harmful or sensitizing components, and the statement "see package insert before use". For purposes of this subsection, the term "package insert" means a display of written, printed, or graphic matter upon a leaflet or suitable material accompanying the art material. This requirement is in addition to, and is not meant to supersede, the requirement of paragraph 5.8 of the standard designated D–4236.
 
 &emsp;(8) In determining whether an art material has the potential for producing chronic adverse health effects, including carcinogenicity and potential carcinogenicity, a toxicologist shall take into account opinions of various regulatory agencies and scientific bodies.
 
@@ -44,7 +44,7 @@ If the Commission determines that a revision proposed by the American Society fo
 
 > Where appropriate, criteria used for assessing risks to children may be the same as those used for adults.
 
-(3) The Commission shall periodically review the guidelines established under paragraph (1) todetermine whether the guidelines reflect relevant changes in scientific knowledge and in the formulations of art materials, and shall amend the guidelines to reflect such changes.
+(3) The Commission shall periodically review the guidelines established under paragraph (1) to determine whether the guidelines reflect relevant changes in scientific knowledge and in the formulations of art materials, and shall amend the guidelines to reflect such changes.
 
 #### (e) Informational and educational materials; development and distribution
 
@@ -55,6 +55,8 @@ The Commission shall develop informational and educational materials about art m
 The Commission may bring an action under section 1267 of this title to enjoin the purchase of any art material required to be labeled under this chapter which is for use by children in pre-kindergarten, kindergarten, or grades 1 through 6.
 
 (Pub. L. 86–613, §23, as added Pub. L. 100–695, Nov. 18, 1988, 102 Stat. 4568.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

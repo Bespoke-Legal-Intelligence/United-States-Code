@@ -12,7 +12,7 @@ Section 2713, Pub. L. 88–452, title I, §103, as added Pub. L. 93–644, §4, 
 
 A prior section 2713, Pub. L. 83–452, title I, §103, Aug. 20, 1964, 78 Stat. 508; Pub. L. 89–253, §§2, 3, Oct. 9, 1965, 79 Stat. 973; Pub. L. 89–794, title I, §§101, 102, Nov. 8, 1966, 80 Stat. 1451; Pub. L. 90–222, title I, §101, Dec. 23, 1967, 81 Stat. 673, covered eligibility of individuals for Job Corps, prior to repeal by Pub. L. 93–203, title VI, §614, Dec. 28, 1973, 87 Stat. 883.
 
-Section 2714, Pub. L. 88–452, title I, §104, as added Pub. L. 93–644, §4, Jan. 4, 1975, 88 Stat. 2293; amendedPub. L. 94–341, §2(a)(5), July 6, 1976, 90 Stat. 803, related to public announcement of projects.
+Section 2714, Pub. L. 88–452, title I, §104, as added Pub. L. 93–644, §4, Jan. 4, 1975, 88 Stat. 2293; amended Pub. L. 94–341, §2(a)(5), July 6, 1976, 90 Stat. 803, related to public announcement of projects.
 
 A prior section 2714, Pub. L. 88–452, title I, §104, Aug. 20, 1964, 78 Stat. 509; Pub. L. 80–253, §§4, 5, Oct. 9, 1965, 79 Stat. 973; Pub. L. 89–794, title I, §§103–108, Nov. 8, 1966, 80 Stat. 1452, 1453; Pub. L. 90–222, title I, §101, Dec. 23, 1967, 81 Stat. 673, provided for screening and selection of applicants for Job Corps, prior to repeal by Pub. L. 93–203, title VI, §614, Dec. 28, 1973, 87 Stat. 883.
 
@@ -23,6 +23,8 @@ A prior section 2715, Pub. L. 88–452, title I, §105, Aug. 20, 1964, 78 Stat. 
 Section 2716, Pub. L. 88–452, title I, §106, as added Pub. L. 95–568, §3(b), Nov. 2, 1978, 92 Stat. 2425, set forth authorization of appropriations.
 
 A prior section 2716, Pub. L. 88–452, title I, §106, Aug. 20, 1964, 78 Stat. 510; Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 662; Pub. L. 90–83, §10(b), Sept. 11, 1967, 81 Stat. 223; Pub. L. 90–222, title I, §101, Dec. 23, 1967, 81 Stat. 674, related to enrollment and assignment of Job Corps enrollees, prior to repeal by Pub. L. 93–203, title VI, §614, Dec. 28, 1973, 87 Stat. 883.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of Repeal
 

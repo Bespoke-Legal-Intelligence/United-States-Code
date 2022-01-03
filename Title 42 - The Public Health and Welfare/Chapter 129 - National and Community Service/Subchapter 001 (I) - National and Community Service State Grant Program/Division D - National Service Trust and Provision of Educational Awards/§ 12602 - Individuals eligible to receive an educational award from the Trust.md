@@ -42,7 +42,7 @@ An individual may not receive, through national service educational awards and s
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), an individual eligible to receive a national service educational award or a silver scholar educational award under this section may not use such award after the end of the 7-year period beginning on the date the individual completes the term ofservice in an approved national service position or an approved silver scholar position, as applicable, that is the basis of the award. Subject to paragraph (2), an individual eligible to receive a summer of service educational award under this section may not use such award after the end of the 10-year period beginning on the date the individual completes the term of service in an approved summer of service position that is the basis of the award.
+&emsp;Subject to paragraph (2), an individual eligible to receive a national service educational award or a silver scholar educational award under this section may not use such award after the end of the 7-year period beginning on the date the individual completes the term of service in an approved national service position or an approved silver scholar position, as applicable, that is the basis of the award. Subject to paragraph (2), an individual eligible to receive a summer of service educational award under this section may not use such award after the end of the 10-year period beginning on the date the individual completes the term of service in an approved summer of service position that is the basis of the award.
 
 #### (2) Exception
 
@@ -93,9 +93,11 @@ An individual may not receive, through national service educational awards and s
 
 #### (f) Authority to establish demonstration programs
 
-The Corporation may establish by regulation demonstration programs for the creation and evaluation of innovative volunteer and community service programs.
+The Corporation may establish by regulation demonstration programs for the creation andevaluation of innovative volunteer and community service programs.
 
 (Pub. L. 101–610, title I, §146, as added Pub. L. 103–82, title I, §102(a), Sept. 21, 1993, 107 Stat. 818; amended Pub. L. 103–304, §3(b)(4), Aug. 23, 1994, 108 Stat. 1567; Pub. L. 111–13, title I, §1402, Apr. 21, 2009, 123 Stat. 1512.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -142,6 +144,8 @@ Subsec. (d)(3). Pub. L. 111–13, §1402(5)(C), added par. (3).
 Subsec. (e)(1). Pub. L. 111–13, §1402(6), inserted "or under section 12563(c)(8) of this title" after "qualifying under this section" and ", a summer of service educational award, or a silver scholar educational award" after "to receive a national service educational award".
 
 <b>1994</b>—Subsec. (a)(3). Pub. L. 103–304 struck out second par. (3) which read as follows: "has received a high school diploma, or the equivalent of such diploma, at the time the individual uses the national service educational award, unless this requirement has been waived based on an individual education assessment conducted by the program; and".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

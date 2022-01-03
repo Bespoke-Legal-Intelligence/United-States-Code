@@ -16,6 +16,8 @@ In authorizing the operation of vending facilities on Federal property, priority
 
 (June 20, 1936, ch. 638, §1, 49 Stat. 1559; Aug. 3, 1954, ch. 655, §4(a), 68 Stat. 663; Pub. L. 93–516, title II, §202, Dec. 7, 1974, 88 Stat. 1623; Pub. L. 93–651, title II, §202, Nov. 21, 1974, 89 Stat. 2–8.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 The content of Pub. L. 93–516, including provisions thereof which amended and enacted various sections of this chapter, were originally contained in H.R. 14225, 93rd Congress, Second Session, which was pocket-vetoed during the 31-day intrasession adjournment of the 93rd Congress for the Congressional elections in November, 1974. See 1974 Amendment note below.
@@ -26,9 +28,11 @@ Pursuant to an order of the United States District Court for the District of Col
 
 <b>1974</b>—Subsec. (a). Pub. L. 93–516 designated first sentence of existing provisions as subsec. (a), substituted "purposes" for "purpose", "vending facilities" for "vending stands", and struck out "where such vending stands may be properly and satisfactorily operated by blind persons". An identical amendment was made by Pub. L. 93–651. See Codification note above.
 
-Subsec. (b). Pub. L. 93–516 designated second sentence of existing provisions as subsec. (b), in the provisions preceding par. (1) of subsec. (b) as so designated, substituted reference to vending facilities for reference to vending stands, substituted provisions requiring that priority be given to blind persons for provisions requiring that preference be given so far as feasible to blind persons, substituted provisions authorizing the Secretary after consultation with the Administrator of General Services, and other heads of departments, agencies, or instrumentalities of the United States in control of maintenance, operation, and protection of Federal property to prescribe regulations for provisions authorizing the head of each department or agency in control of the maintenance, operation, and protection of Federal property after consultation with the Secretary and with the approval of the President to prescribe regulations, struck out provisions that such regulations assure such preference including assignment of vending machine income to achieve and protect such preference for such blind persons without unduly inconveniencing such departments and agencies or adversely affecting the interests of the United States, and added pars. (1) and (2) and provisions following par. (2). An identical amendment was made by Pub. L. 93–651. See Codification note above.
+Subsec. (b). Pub. L. 93–516 designated second sentence of existing provisions as subsec. (b), in the provisions preceding par. (1) of subsec. (b) as so designated, substituted reference to vending facilities for reference to vending stands, substituted provisions requiring that priority be given to blind persons for provisions requiring that preference be given so far as feasible to blind persons, substituted provisions authorizing the Secretary after consultation with the Administrator of General Services, and other heads of departments, agencies, or instrumentalities of the United States in control of maintenance, operation, and protection of Federal property to prescribe regulations for provisions authorizing the head of each department or agency in control of the maintenance, operation, and protection of Federal property after consultation with the Secretary and with the approval of the President to prescribe regulations, struck out provisions that such regulations assure such preference including assignmentof vending machine income to achieve and protect such preference for such blind persons without unduly inconveniencing such departments and agencies or adversely affecting the interests of the United States, and added pars. (1) and (2) and provisions following par. (2). An identical amendment was made by Pub. L. 93–651. See Codification note above.
 
 <b>1954</b>—Act Aug. 3, 1954, provided that in authorizing the operation of vending stands preference shall be given, so far as feasible, to blind persons.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1954 Amendment
 

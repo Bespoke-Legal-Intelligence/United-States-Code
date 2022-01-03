@@ -36,13 +36,17 @@ Water carriers.—The Secretary or Board, as applicable, may not exempt a water 
 
 (f)
 
-Continuation of Certain Existing Exemptions for Water Carriers.—The Secretary or Board, as applicable, shall not regulate or exercise jurisdiction under this part over the transportation by water carrier in the non-contiguous domestic trade of any cargo or type of cargo or service which was not subject to regulation by, or under the jurisdiction of, either the Federal Maritime Commission or Interstate Commerce Commission under Federal law in effect on November 1, 1995.
+Continuation of Certain Existing Exemptions for Water Carriers.—The Secretary orBoard, as applicable, shall not regulate or exercise jurisdiction under this part over the transportation by water carrier in the non-contiguous domestic trade of any cargo or type of cargo or service which was not subject to regulation by, or under the jurisdiction of, either the Federal Maritime Commission or Interstate Commerce Commission under Federal law in effect on November 1, 1995.
 
 (Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 866.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 10505 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

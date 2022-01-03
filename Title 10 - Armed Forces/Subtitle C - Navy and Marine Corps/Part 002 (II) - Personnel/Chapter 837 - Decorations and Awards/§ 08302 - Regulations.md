@@ -26,6 +26,8 @@ July 2, 1926, ch. 721, §12 (1st 9 words of 1st sentence), 44 Stat. 789; July 30
 
 The words "further", "from time to time any and all rules", "orders which he shall deem necessary", and "to execute full purpose and intention thereof" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 8302, act Aug. 10, 1956, ch. 1041, 70A Stat. 513, related to promotion to captain, major, or lieutenant colonel of commissioned medical, dental, or veterinary officers in Regular Air Force upon examination of professional fitness and effect upon failure of promotion, prior to repeal by Pub. L. 96–513, title II, §204, Dec. 12, 1980, 94 Stat. 2880, effective Sept. 15, 1981. See sections 631 and 632 of this title.
@@ -33,6 +35,8 @@ A prior section 8302, act Aug. 10, 1956, ch. 1041, 70A Stat. 513, related to pro
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 6252 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

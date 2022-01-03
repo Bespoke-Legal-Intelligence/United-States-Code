@@ -74,7 +74,7 @@ In this section:
 
 #### (4) Adjacent land status
 
-&emsp;For each parcel of land on the priority list, the Secretary shall include in the priority list whether resolving the issue of public access or egress to the land would require acquisition of an easement, right-of-way, or fee title from—
+&emsp;For each parcel of land on the priority list, the Secretary shall include in the priority listwhether resolving the issue of public access or egress to the land would require acquisition of an easement, right-of-way, or fee title from—
 
 &emsp;&emsp;(A) another Federal agency;
 
@@ -124,9 +124,13 @@ In considering public access and egress under subsections (b) and (c), the Secre
 
 (Pub. L. 116–9, title IV, §4105, Mar. 12, 2019, 133 Stat. 759.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Land Policy and Management Act of 1976, referred to in subsec. (a)(3)(D), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43, Public Lands, and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definition of "Secretary"
 

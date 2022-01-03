@@ -22,6 +22,8 @@ For purposes of this chapter:
 
 (Pub. L. 103–297, §7, Aug. 16, 1994, 108 Stat. 1550; Pub. L. 107–56, title X, §1011(b)(3), Oct. 26, 2001, 115 Stat. 396.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2001</b>—Par. (4). Pub. L. 107–56 inserted ", or a charitable contribution, donation, or gift of money or any other thing of value," after "services" in introductory provisions.

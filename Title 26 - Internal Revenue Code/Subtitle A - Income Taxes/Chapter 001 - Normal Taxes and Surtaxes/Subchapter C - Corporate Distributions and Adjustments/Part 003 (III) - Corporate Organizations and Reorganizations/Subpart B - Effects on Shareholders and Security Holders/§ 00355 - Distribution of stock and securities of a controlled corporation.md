@@ -254,7 +254,7 @@
 
 &emsp;&emsp;&emsp;(ii) such person is treated under subparagraph (A) as holding any stock or securities by reason of holding such interest,
 
-> &emsp;&emsp;such stock or securities shall be treated as acquired by purchase by such person on the later of the date of the purchase of the interest in such entity or the date such stock orsecurities are acquired by purchase by such entity.
+> &emsp;&emsp;such stock or securities shall be treated as acquired by purchase by such person on the later of the date of the purchase of the interest in such entity or the date such stock or securities are acquired by purchase by such entity.
 
 #### (9) Regulations
 
@@ -426,7 +426,7 @@ Except as provided in regulations, this section (or so much of section 356 as re
 
 #### (II) Look-thru rule
 
-&emsp;&emsp;&emsp;&emsp;The distributing or controlled corporation shall, for purposes of applying thissubsection, be treated as owning its ratable share of the assets of any 20-percent controlled entity.
+&emsp;&emsp;&emsp;&emsp;The distributing or controlled corporation shall, for purposes of applying this subsection, be treated as owning its ratable share of the assets of any 20-percent controlled entity.
 
 #### (III) 20-percent controlled entity
 
@@ -496,7 +496,9 @@ Except as provided in regulations, this section (or so much of section 356 as re
 
 > &emsp;&emsp;A controlled corporation will be treated as meeting the requirements of clauses (ii) and (iii) if the stock of such corporation was distributed by a taxable REIT subsidiary in a transaction to which this section (or so much of section 356 as relates to this section) applies and the assets of such corporation consist solely of the stock or assets held by one or more taxable REIT subsidiaries of the distributing corporation meeting the requirements of clauses (ii) and (iii). For purposes of clause (iii), control of a partnership means ownership of at least 80 percent of the profits interest and at least 80 percent of the capital interests.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 113; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–589, §4(e)(2), Dec. 24, 1980, 94 Stat. 3403; Pub. L. 100–203, title X, §10223(b), Dec. 22, 1987, 101 Stat. 1330–411; Pub. L. 100–647, title I, §1018(d)(5)(C), title II, §2004(k)(1), Nov. 10, 1988, 102 Stat. 3580, 3605; Pub. L. 101–508, title XI,§§11321(a), 11702(e)(2), Nov. 5, 1990, 104 Stat. 1388–460, 1388–515; Pub. L. 104–188, title I, §1704(t)(31), Aug. 20, 1996, 110 Stat. 1889; Pub. L. 105–34, title X, §§1012(a), (b)(1), 1014(c), (e)(1), (2), Aug. 5, 1997, 111 Stat. 914, 916, 921; Pub. L. 105–206, title VI, §6010(c)(2), July 22, 1998, 112 Stat. 813; Pub. L. 109–222, title II, §202, title V, §507(a), May 17, 2006, 120 Stat. 348, 358; Pub. L. 109–432, div. A, title IV, §410(a), Dec. 20, 2006, 120 Stat. 2963; Pub. L. 110–172, §4(b)(1), (2), Dec. 29, 2007, 121 Stat. 2476; Pub. L. 113–295, div. A, title II, §221(a)(50), Dec. 19, 2014, 128 Stat. 4045; Pub. L. 114–113, div. Q, title III, §311(a), Dec. 18, 2015, 129 Stat. 3090; Pub. L. 115–141, div. U, title I, §101(m), title IV, §401(a)(65), Mar. 23, 2018, 132 Stat. 1165, 1187.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 113; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–589, §4(e)(2), Dec. 24, 1980, 94 Stat. 3403; Pub. L. 100–203, title X, §10223(b), Dec. 22, 1987, 101 Stat. 1330–411; Pub. L. 100–647, title I, §1018(d)(5)(C), title II, §2004(k)(1), Nov. 10, 1988, 102 Stat. 3580, 3605; Pub. L. 101–508, title XI, §§11321(a), 11702(e)(2), Nov. 5, 1990, 104 Stat. 1388–460, 1388–515; Pub. L. 104–188, title I, §1704(t)(31), Aug. 20, 1996, 110 Stat. 1889; Pub. L. 105–34, title X, §§1012(a), (b)(1), 1014(c), (e)(1), (2), Aug. 5, 1997, 111 Stat. 914, 916, 921; Pub. L. 105–206, title VI, §6010(c)(2), July 22, 1998, 112 Stat. 813; Pub. L. 109–222, title II, §202, title V, §507(a), May 17, 2006, 120 Stat. 348, 358; Pub. L. 109–432, div. A, title IV, §410(a), Dec. 20, 2006, 120 Stat. 2963; Pub. L. 110–172, §4(b)(1), (2), Dec. 29, 2007, 121 Stat. 2476; Pub. L. 113–295, div. A, title II, §221(a)(50), Dec. 19, 2014, 128 Stat. 4045; Pub. L. 114–113, div. Q, title III, §311(a), Dec. 18, 2015, 129 Stat. 3090; Pub. L. 115–141, div. U, title I, §101(m), title IV, §401(a)(65), Mar. 23, 2018, 132 Stat. 1165, 1187.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -607,6 +609,8 @@ Subsec. (b)(2)(D)(ii). Pub. L. 100–203, §10223(b)(2), substituted "such distr
 Subsec. (a)(4). Pub. L. 96–589, §4(e)(2), designated existing provisions as subpar. (A), substituted "exchange if any property" for "distribution if any property", inserted provisions excluding property to which paragraph (3)(C) applies, and added subpar. (B).
 
 <b>1976</b>—Subsec. (a)(1)(D)(ii). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 
@@ -734,5 +738,5 @@ Amendment by Pub. L. 96–589 applicable to bankruptcy cases or similar judicial
 
 #### Termination of Tax Increase Prevention and Reconciliation Act of 2005 and Tax Relief and Health Care Act of 2006 Amendments
 
-Pub. L. 110–172, §4(b)(3), Dec. 29, 2007, 121 Stat. 2476, provided that: "The Internal Revenue Code of 1986 shall be applied and administered as if the amendments made by section 202 of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222, amending this section\] and by section 410 of division A of the Tax Relief and Health Care Act of 2006 \[Pub. L. 109–432, amending this section\] had never been enacted."
+Pub. L. 110–172, §4(b)(3), Dec. 29, 2007, 121 Stat. 2476, provided that: "The Internal Revenue Code of 1986 shall be applied and administered as if the amendments made by section 202 of the Tax Increase Prevention andReconciliation Act of 2005 \[Pub. L. 109–222, amending this section\] and by section 410 of division A of the Tax Relief and Health Care Act of 2006 \[Pub. L. 109–432, amending this section\] had never been enacted."
 

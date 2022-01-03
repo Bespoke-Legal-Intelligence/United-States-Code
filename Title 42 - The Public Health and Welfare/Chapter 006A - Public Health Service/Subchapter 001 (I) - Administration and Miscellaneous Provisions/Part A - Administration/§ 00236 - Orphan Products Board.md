@@ -6,7 +6,7 @@ There is established in the Department of Health and Human Services a board for 
 
 #### (b) Function
 
-The function of the Board shall be to promote the development of drugs and devices for rare diseases or conditions and the coordination among Federal, other public, and private agencies in carrying out their respective functions relating to the development of such articles for such diseases or conditions.
+The function of the Board shall be to promote the development of drugs and devices for rare diseases or conditions and the coordinationamong Federal, other public, and private agencies in carrying out their respective functions relating to the development of such articles for such diseases or conditions.
 
 #### (c) Duties with respect to drugs for rare diseases or conditions
 
@@ -48,6 +48,8 @@ The Board shall submit to the Committee on Labor and Human Resources of the Sena
 
 (July 1, 1944, ch. 373, title II, §227, as added Pub. L. 97–414, §3, Jan. 4, 1983, 96 Stat. 2051; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–321, title I, §163(b)(1), July 10, 1992, 106 Stat. 375; Pub. L. 102–531, title III, §312(d)(1), Oct. 27, 1992, 106 Stat. 3504.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(1)(A), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended. Subchapter B of the Federal Food, Drug, and Cosmetic Act probably means subchapter B of chapter V of the Federal Food, Drug, and Cosmetic Act which is classified generally to part B (section 360aa et seq.) of subchapter V of chapter 9 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
@@ -68,9 +70,11 @@ Subsec. (c)(3). Pub. L. 102–531 substituted "Centers for Disease Control and P
 
 Pub. L. 102–321, §163(b)(1)(B), struck out ", the Alcohol, Drug Abuse, and Mental Health Administration," after "National Institutes of Health".
 
-Subsec. (e). Pub. L. 102–321, §163(b)(1)(C), (D), in concluding provisions, struck out "and the Administrator of the Alcohol, Drug Abuse, and Mental Health Administration" after "National Institutes of Health" the first place appearing and "and the Alcohol, DrugAbuse, and Mental Health Administration" after "National Institutes of Health" the second place appearing.
+Subsec. (e). Pub. L. 102–321, §163(b)(1)(C), (D), in concluding provisions, struck out "and the Administrator of the Alcohol, Drug Abuse, and Mental Health Administration" after "National Institutes of Health" the first place appearing and "and the Alcohol, Drug Abuse, and Mental Health Administration" after "National Institutes of Health" the second place appearing.
 
 <b>1986</b>—Subsec. (e). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

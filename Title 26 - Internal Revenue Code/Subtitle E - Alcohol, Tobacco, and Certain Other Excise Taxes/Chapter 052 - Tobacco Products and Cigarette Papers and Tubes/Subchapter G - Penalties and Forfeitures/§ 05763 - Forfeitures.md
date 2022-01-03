@@ -24,6 +24,8 @@ All property intended for use in violating the provisions of this chapter, or re
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 718; Pub. L. 85–859, title II, §202, Sept. 2, 1958, 72 Stat. 1426; Pub. L. 89–44, title V, §502(b)(13), June 21, 1965, 79 Stat. 152; Pub. L. 94–455, title XIX, §1905(b)(7)(C), Oct. 4, 1976, 90 Stat. 1823; Pub. L. 105–33, title IX, §9302(h)(2)(A), (B), Aug. 5, 1997, 111 Stat. 674.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1997</b>—Subsec. (b). Pub. L. 105–33 inserted "qualified importers," after "manufacturers," in heading and "or importer" after "manufacturer" in text.
@@ -44,9 +46,11 @@ Subsecs. (b), (c). Pub. L. 85–859 included property of export warehouse propri
 
 Subsec. (d). Pub. L. 85–859 included property intended for use, or used, in violating regulations under this chapter.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–33 applicable to articles removed, as defined in section 5702(j) of this title, after Dec. 31, 1999, with transition rule, see section 9302(i) of Pub. L. 105–33, set out as a note under section 5701 of this title.
+Amendment by Pub. L. 105–33 applicable to articles removed, as defined in section 5702(j) of this title, afterDec. 31, 1999, with transition rule, see section 9302(i) of Pub. L. 105–33, set out as a note under section 5701 of this title.
 
 #### Effective Date of 1976 Amendment
 

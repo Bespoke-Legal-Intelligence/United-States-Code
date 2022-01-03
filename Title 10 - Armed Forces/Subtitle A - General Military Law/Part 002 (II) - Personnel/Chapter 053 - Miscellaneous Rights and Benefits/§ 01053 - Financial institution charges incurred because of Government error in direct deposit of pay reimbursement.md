@@ -16,6 +16,8 @@
 
 (Added Pub. L. 99–661, div. A, title VI, §662(a)(1), Nov. 14, 1986, 100 Stat. 3893; amended Pub. L. 101–189, div. A, title VI, §664(a)(1)–(3)(A), Nov. 29, 1989, 103 Stat. 1466; Pub. L. 102–25, title VII, §701(e)(8)(A), Apr. 6, 1991, 105 Stat. 115; Pub. L. 104–106, div. A, title XV, §1501(c)(8), Feb. 10, 1996, 110 Stat. 499; Pub. L. 105–261, div. A, title V, §564(a), Oct. 17, 1998, 112 Stat. 2029; Pub. L. 106–398, §1 \[\[div. A\], title V, §579(c)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–141.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Pub. L. 106–398 substituted "Financial institution charges incurred because of Government error in direct deposit of pay: reimbursement" for "Reimbursement for financial institution charges incurred because of Government error in direct deposit of pay" in section catchline.
@@ -32,6 +34,8 @@ Subsec. (a). Pub. L. 101–189, §664(a)(1), amended subsec. (a) generally. Prio
 
 Subsec. (d). Pub. L. 101–189, §664(a)(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "In this section, the term 'financial institution' has the meaning given that term in section 3332 of title 31."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1996 Amendment
 
 Pub. L. 104–106, div. A, title XV, §1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
@@ -42,5 +46,5 @@ Pub. L. 101–189, div. A, title VI, §664(c), Nov. 29, 1989, 103 Stat. 1467, pr
 
 #### Effective Date
 
-Pub. L. 99–661, div. A, title VI, §662(c), Nov. 14, 1986, 100 Stat. 3894, provided that: "Section 1053 of title 10, United States Code, as added by subsection (a), shall apply only with respect to charges levied as a result of errors occurring on or after the date of the enactment of this Act \[Nov. 14, 1986\]."
+Pub. L. 99–661, div. A, title VI, §662(c), Nov. 14, 1986, 100 Stat. 3894, provided that: "Section 1053 of title 10, United States Code, as added by subsection (a), shall apply only with respect to charges levied as a result oferrors occurring on or after the date of the enactment of this Act \[Nov. 14, 1986\]."
 

@@ -66,7 +66,7 @@ As used in subsection (c)(1), an effective system for providing competent legal 
 
 &emsp;&emsp;&emsp;(II) fail to comply with such requirements as such program, entity, or selection committee or similar entity may establish regarding participation in training programs; or
 
-&emsp;&emsp;&emsp;(III) during the past 5 years, have been sanctioned by a bar association or courtfor ethical misconduct relating to the attorney's conduct as defense counsel in a criminal case in Federal or State court; and
+&emsp;&emsp;&emsp;(III) during the past 5 years, have been sanctioned by a bar association or court for ethical misconduct relating to the attorney's conduct as defense counsel in a criminal case in Federal or State court; and
 
 &emsp;&emsp;(F) ensure funding for the cost of competent legal representation by the defense team and outside experts selected by counsel, who shall be compensated—
 

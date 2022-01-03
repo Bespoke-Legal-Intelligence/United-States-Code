@@ -18,6 +18,7 @@
 | [517\.](%C2%A7%2000517%20-%20National%20architecture%20and%20standards.md) | National architecture and standards. |
 | [518\.](%C2%A7%2000518%20-%20Vehicle-to-vehicle%20and%20vehicle-to-infrastructure%20communications%20systems%20deployment.md) | Vehicle-to-vehicle and vehicle-to-infrastructure communications systems deployment. |
 | [519\.](%C2%A7%2000519%20-%20Infrastructure%20development.md) | Infrastructure development. |
+| [520\.](%C2%A7%2000520%20-%20Transportation%20Resilience%20and%20Adaptation%20Centers%20of%20Excellence.md) | Transportation Resilience and Adaptation Centers of Excellence. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -28,6 +29,8 @@
 A prior chapter 5, added Pub. L. 90–495, §30, Aug. 23, 1968, 82 Stat. 830, consisting of sections 501 to 512, related to highway relocation assistance, prior to repeal by Pub. L. 91–646, title II, §220(a)(10), Jan. 2, 1971, 84 Stat. 1903. See section 4601 et seq. of Title 42, The Public Health and Welfare. For Effective Date of Repeal and Savings Provisions, see sections 221 and 220(b) of Pub. L. 91–646, set out as notes under sections 4601 and 4621, respectively, of Title 42.
 
 #### Amendments
+
+<b>2021</b>—Pub. L. 117–58, div. A, title III, §13009(b), Nov. 15, 2021, 135 Stat. 644, added item 520.
 
 <b>2015</b>—Pub. L. 114–94, div. A, title VI, §§6010(b), 6019(d)(1)(B), Dec. 4, 2015, 129 Stat. 1568, 1581, struck out item 508 "Transportation research and development strategic planning", substituted "National ITS program plan" for "National ITS Program Plan" in item 512, and added item 519.
 
@@ -62,3 +65,4 @@ Pub. L. 109–59, title V, §§5201(a)(2), 5207(c), 5208(b), 5209(c), 5211(c), 5
 - [&sect; 00517 - National architecture and standards](%C2%A7%2000517%20-%20National%20architecture%20and%20standards.md)
 - [&sect; 00518 - Vehicle-to-vehicle and vehicle-to-infrastructure communications systems deployment](%C2%A7%2000518%20-%20Vehicle-to-vehicle%20and%20vehicle-to-infrastructure%20communications%20systems%20deployment.md)
 - [&sect; 00519 - Infrastructure development](%C2%A7%2000519%20-%20Infrastructure%20development.md)
+- [&sect; 00520 - Transportation Resilience and Adaptation Centers of Excellence](%C2%A7%2000520%20-%20Transportation%20Resilience%20and%20Adaptation%20Centers%20of%20Excellence.md)

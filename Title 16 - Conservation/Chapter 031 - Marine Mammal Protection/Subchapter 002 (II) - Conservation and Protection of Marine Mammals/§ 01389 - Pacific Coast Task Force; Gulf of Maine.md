@@ -22,7 +22,7 @@ Notwithstanding any other provision of this subchapter, the Secretary may permit
 
 (2) A Pinniped-Fishery Interaction Task Force established under paragraph (1) shall consist of designated employees of the Department of Commerce, scientists who are knowledgeable about the pinniped interaction that the application addresses, representatives of affected conservation and fishing community organizations, Indian Treaty tribes, the States, and such other organizations as the Secretary deems appropriate.
 
-(3) Within 60 days after establishment, and after reviewing public comments in response tothe Federal Register notice under paragraph (1), the Pinniped-Fishery Interaction Task Force shall—
+(3) Within 60 days after establishment, and after reviewing public comments in response to the Federal Register notice under paragraph (1), the Pinniped-Fishery Interaction Task Force shall—
 
 &emsp;(A) recommend to the Secretary whether to approve or deny the proposed intentional lethal taking of the pinniped or pinnipeds, including along with the recommendation a description of the specific pinniped individual or individuals, the proposed location, time, and method of such taking, criteria for evaluating the success of the action, and the duration of the intentional lethal taking authority; and
 
@@ -98,7 +98,7 @@ The Secretary shall not approve the intentional lethal taking of any pinniped fr
 
 #### (5) Suspension of permitting authority
 
-&emsp;If, 5 years after December 18, 2018, the Secretary, after consulting with State and tribalfishery managers, determines that lethal removal authority is no longer necessary to protect salmonid and other fish species from sea lion predation, the Secretary shall suspend the issuance of permits under this subsection.
+&emsp;If, 5 years after December 18, 2018, the Secretary, after consulting with State and tribal fishery managers, determines that lethal removal authority is no longer necessary to protect salmonid and other fish species from sea lion predation, the Secretary shall suspend the issuance of permits under this subsection.
 
 #### (6) Eligible entity defined
 
@@ -118,7 +118,7 @@ The Secretary shall not approve the intentional lethal taking of any pinniped fr
 
 #### (C) Additional delegation authority
 
-&emsp;&emsp;The Secretary may allow an eligible entity described in subparagraph (A)(i) to delegate its authority under a permit under this subsection to any entity described in subclause (i) or (ii) of subparagraph (A) with respect to removal in the mainstem of the Columbia River above river mile 112 and below McNary Dam, in the Columbia River tributaries in the State of Washington, or in tributaries in the State of Oregon above Bonneville Dam and below McNary Dam.
+&emsp;&emsp;The Secretary may allow an eligible entity described in subparagraph (A)(i) to delegate its authority under a permit under this subsection to any entity described in subclause (i) or (ii) of subparagraph (A) with respect toremoval in the mainstem of the Columbia River above river mile 112 and below McNary Dam, in the Columbia River tributaries in the State of Washington, or in tributaries in the State of Oregon above Bonneville Dam and below McNary Dam.
 
 #### (D) Committee requirements
 
@@ -166,7 +166,7 @@ The Secretary shall not approve the intentional lethal taking of any pinniped fr
 
 &emsp;(D) other issues the Secretary considers relevant.
 
-(2) Subject to the availability of appropriations, the Secretary may, not later than 18months after the commencement of the study under this subsection, transmit a report on the results of the study to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Merchant Marine and Fisheries of the House of Representatives.
+(2) Subject to the availability of appropriations, the Secretary may, not later than 18 months after the commencement of the study under this subsection, transmit a report on the results of the study to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Merchant Marine and Fisheries of the House of Representatives.
 
 (3) The study conducted under this subsection may not be used by the Secretary as a reason for delaying or deferring a determination or consideration under subsection (c) or (d).
 
@@ -192,6 +192,8 @@ The Secretary shall establish a Pinniped-Fishery Interaction Task Force to advis
 
 (Pub. L. 92–522, title I, §120, as added Pub. L. 103–238, §23, Apr. 30, 1994, 108 Stat. 562; amended Pub. L. 115–329, §3, Dec. 18, 2018, 132 Stat. 4475.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Endangered Species Act of 1973, referred to in subsecs. (b)(1)(A), (B), (e)(1), and (f)(1)(A), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
@@ -201,6 +203,8 @@ The Federal Advisory Committee Act, referred to in subsecs. (f)(6)(D)(iv) and (i
 #### Amendments
 
 <b>2018</b>—Subsec. (f). Pub. L. 115–329 amended subsec. (f) generally. Prior to amendment, subsec. (f) related to a scientific investigation and report on the impact of California sea lions and Pacific harbor seals.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 

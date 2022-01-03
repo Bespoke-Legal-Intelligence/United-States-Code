@@ -120,13 +120,15 @@ In selecting applicants for grants under the Program, the Secretary shall give p
 
 #### (2) Funding for innovative wood product facilities
 
-&emsp;Not more than 25 percent of funds provided as grants under the Program for a fiscal year may go to applicants proposing innovative wood product facilities, unless the Secretary has received an insufficient number of qualified proposals for community wood energy systems.
+&emsp;Not more than 25 percent of funds provided as grants under the Program for a fiscal yearmay go to applicants proposing innovative wood product facilities, unless the Secretary has received an insufficient number of qualified proposals for community wood energy systems.
 
 #### (h) Funding
 
 There is authorized to be appropriated to carry out the Program $25,000,000 for each of fiscal years 2019 through 2023.
 
 (Pub. L. 107–171, title IX, §9013, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1332, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2094; amended Pub. L. 112–240, title VII, §701(f)(12), Jan. 2, 2013, 126 Stat. 2366; Pub. L. 113–79, title IX, §9012, Feb. 7, 2014, 128 Stat. 938; Pub. L. 115–334, title VIII, §8644, Dec. 20, 2018, 132 Stat. 4873.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -145,6 +147,8 @@ Subsec. (d). Pub. L. 113–79, §9012(c), designated existing provisions as par.
 Subsec. (e). Pub. L. 113–79, §9012(d), substituted "2018" for "2013".
 
 <b>2013</b>—Subsec. (e). Pub. L. 112–240 substituted "2013" for "2012".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2013 Amendment
 

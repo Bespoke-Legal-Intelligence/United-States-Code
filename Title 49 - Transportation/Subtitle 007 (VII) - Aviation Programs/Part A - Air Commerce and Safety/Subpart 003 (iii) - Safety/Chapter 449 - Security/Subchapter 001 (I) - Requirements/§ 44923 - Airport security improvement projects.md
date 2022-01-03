@@ -2,7 +2,7 @@
 
 (a)
 
-Grant Authority.—Subject to the requirements of this section, the Administrator of theTransportation Security Administration shall make grants to airport sponsors—
+Grant Authority.—Subject to the requirements of this section, the Administrator of the Transportation Security Administration shall make grants to airport sponsors—
 
 &emsp;(1) for projects to replace baggage conveyer systems related to aviation security;
 
@@ -82,13 +82,15 @@ Leveraged Funding.—For purposes of this section, a grant under subsection (a) 
 
 (Added Pub. L. 108–176, title VI, §605(a), Dec. 12, 2003, 117 Stat. 2566; amended Pub. L. 108–458, title IV, §4019(e)(1), Dec. 17, 2004, 118 Stat. 3722; Pub. L. 110–53, title XVI, §§1603(a), 1604(a), Aug. 3, 2007, 121 Stat. 480; Pub. L. 115–254, div. K, title I, §1991(d)(19), Oct. 5, 2018, 132 Stat. 3636.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–254, §1991(d)(19)(B), substituted "Administrator of the Transportation Security Administration" for "Under Secretary" wherever appearing.
 
 Subsec. (a). Pub. L. 115–254, §1991(d)(19)(A), in introductory provisions, substituted "Administrator of the Transportation Security Administration" for "Under Secretary for Border and Transportation Security of the Department of Homeland Security".
 
-Subsec. (e). Pub. L. 115–254, §1991(d)(19)(C), struck out par. (1) designation and heading before "The Government's share" and struck out par. (2). Prior to amendment, text of par. (2) read as follows: "The Under Secretary shall revise letters of intent issued before the date of enactment of this section to reflect the cost share established in this subsection with respect to grants made after September 30, 2003."
+Subsec. (e). Pub. L. 115–254, §1991(d)(19)(C), struck out par. (1) designation and heading before "The Government's share" and struck out par. (2). Prior to amendment, text of par. (2) read as follows: "The Under Secretary shall revise letters of intent issued before the date of enactment of this section to reflect the costshare established in this subsection with respect to grants made after September 30, 2003."
 
 Subsec. (j). Pub. L. 115–254, §1991(d)(19)(D), struck out subsec. (j) which authorized appropriations for fiscal years 2005 to 2011.
 
@@ -108,25 +110,15 @@ Subsec. (j). Pub. L. 110–53, §1604(a)(5), redesignated subsec. (i) as (j).
 
 <b>2004</b>—Subsec. (i)(1). Pub. L. 108–458 substituted "$400,000,000 for each of fiscal years 2005, 2006, and 2007" for "$250,000,000 for each of fiscal years 2004 through 2007".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as an Effective Date of 2003 Amendment note under section 106 of this title.
 
 #### Prioritization of Projects
 
-Pub. L. 110–53, title XVI, §1604(b), Aug. 3, 2007, 121 Stat. 480, provided that:
-
-"(1)
-
-In general.—The Administrator of the Transportation Security Administration shall establish a prioritization schedule for airport security improvement projects described in section 44923 of title 49, United States Code, based on risk and other relevant factors, to be funded under that section. The schedule shall include both hub airports referred to in paragraphs (29), (31), and (42) of section 40102\[(a)\] of such title and nonhub airports (as defined in section 47102(13) \[now section 47102(14)\] of such title).
-
-"(2)
-
-Airports that have incurred eligible costs.—The schedule shall include airports that have incurred eligible costs associated with development of partial or completed in-line baggage systems before the date of enactment of this Act \[Aug. 3, 2007\] in reasonable anticipation of receiving a grant under section 44923 of title 49, United States Code, in reimbursement of those costs but that have not received such a grant.
-
-"(3)
-
-Report.—Not later than 180 days after the date of enactment of this Act, the Administrator shall provide a copy of the prioritization schedule, a corresponding timeline, and a description of the funding allocation under section 44923 of title 49, United States Code, to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Homeland Security of the House of Representatives."
+Pub. L. 110–53, title XVI, §1604(b), Aug. 3, 2007, 121 Stat. 480, required the Administrator of the Transportation Security Administration to establish a prioritization schedule for airport security improvement projects described in this section based on risk and other relevant factors, to be funded under this section, and to provide to Congress, not later than 180 days after Aug. 3, 2007, a copy of the prioritization schedule, a corresponding timeline, and a description of the funding allocation under this section.
 
 #### Period of Reimbursement
 

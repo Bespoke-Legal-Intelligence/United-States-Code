@@ -6,7 +6,7 @@ Any person who is found by the Director, after notice and opportunity for a hear
 
 #### (b) Hearings
 
-Hearings for the assessment of civil penalties under subsection (a) shall be conducted in accordance with section 554 of title 5. For the purposes of conducting any such hearing, the Director may issue subpenas for the attendance and testimony of witnesses and the production of relevant papers, books, and documents, and may administer oaths. Witnesses summoned shall bepaid the same fees and mileage that are paid to witnesses in the courts of the United States. In case of contumacy or refusal to obey a subpena served upon any person pursuant to this subsection, the district court of the United States for any district in which such person is found, resides, or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the Director or to appear and produce documents before the Director, or both, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
+Hearings for the assessment of civil penalties under subsection (a) shall be conducted in accordance with section 554 of title 5. For the purposes of conducting any such hearing, the Director may issue subpenas for the attendance and testimony of witnesses and the production of relevant papers, books, and documents, and may administer oaths. Witnesses summoned shall be paid the same fees and mileage that are paid to witnesses in the courts of the United States. In case of contumacy or refusal to obey a subpena served upon any person pursuant to this subsection, the district court of the United States for any district in which such person is found, resides, or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the Director or to appear and produce documents before the Director, or both, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
 
 #### (c) Review
 
@@ -17,6 +17,8 @@ Upon the failure of any person against whom a civil penalty is assessed under su
 The assessment of a civil penalty under subsection (a) for any act shall not be deemed to preclude the assessment of a civil penalty for such act under any other law, including, but not limited to, the Marine Mammal Protection Act of 1972 \[16 U.S.C. 1361 et seq.\], the Endangered Species Act of 1973 \[16 U.S.C. 1531 et seq.\], and the Migratory Bird Treaty Act \[16 U.S.C. 703 et seq.\].
 
 (Pub. L. 95–541, §8, Oct. 28, 1978, 92 Stat. 2054.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

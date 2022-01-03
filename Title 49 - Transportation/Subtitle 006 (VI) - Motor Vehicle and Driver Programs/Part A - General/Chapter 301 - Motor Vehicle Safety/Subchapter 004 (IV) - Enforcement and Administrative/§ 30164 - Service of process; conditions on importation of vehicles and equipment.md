@@ -50,7 +50,7 @@ Exception.—The requirements of subsections (c) and (d) shall not apply to orig
 
 (f)
 
-Rulemaking.—In issuing regulations under this section, the Secretary shall seek to reduceduplicative requirements by coordinating with the Department of Homeland Security.
+Rulemaking.—In issuing regulations under this section, the Secretary shall seek to reduce duplicative requirements by coordinating with the Department of Homeland Security.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 968; Pub. L. 112–141, div. C, title I, §31208(2), July 6, 2012, 126 Stat. 761.)
 
@@ -76,7 +76,9 @@ Sept. 9, 1966, Pub. L. 89–563, §110(e), 80 Stat. 724.
 
 In subsection (a), the words "A manufacturer offering . . . shall" are substituted for "It shall be the duty of every manufacturer offering . . . to" to eliminate unnecessary words. The words "into the United States", "all . . . orders, decisions and requirements", and "for and on behalf of said manufacturer" are omitted as surplus. The words "The designation may be changed in the same way as originally made" are substituted for "which designation may from time to time be changed by like writing, similarly filed" for clarity.
 
-In subsection (b), the words "An agent may be served" are substituted for "Service of all administrative and judicial processes, notices, orders, decisions and requirements may be made upon said manufacturer by service upon such designated agent" to eliminate unnecessary words. The words "Service on the agent is deemed to be service on the manufacturer" are substituted for "with like effects as if made personally upon said manufacturer", and the words "If a manufacturer does not designate an agent" are substituted for "and in default of such designation of such agent", for clarity. The words "of process, notice, order, requirement or decision in any proceeding before the Secretary or in any judicial proceeding for enforcement of this subchapter or any standards prescribed pursuant to this subchapter" and "order, requirement or decision" are omitted as surplus.
+In subsection (b), the words "An agent may be served" are substituted for "Service of all administrative and judicial processes, notices, orders, decisions and requirements may be made upon said manufacturer by service upon such designated agent" to eliminate unnecessary words. The words "Service on the agent is deemed to be service on the manufacturer" are substituted for "with like effects as if made personally upon said manufacturer", and the words "If a manufacturer does not designate an agent" are substituted for"and in default of such designation of such agent", for clarity. The words "of process, notice, order, requirement or decision in any proceeding before the Secretary or in any judicial proceeding for enforcement of this subchapter or any standards prescribed pursuant to this subchapter" and "order, requirement or decision" are omitted as surplus.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -87,6 +89,8 @@ The date of enactment of the Motor Vehicle and Highway Safety Improvement Act of
 <b>2012</b>—Pub. L. 112–141, §31208(2)(A), inserted "; conditions on importation of vehicles and equipment" after "process" in section catchline.
 
 Subsecs. (c) to (f). Pub. L. 112–141, §31208(2)(B), added subsecs. (c) to (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

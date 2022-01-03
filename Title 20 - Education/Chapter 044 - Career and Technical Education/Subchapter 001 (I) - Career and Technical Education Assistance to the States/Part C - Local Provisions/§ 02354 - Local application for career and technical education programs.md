@@ -2,7 +2,7 @@
 
 #### (a) Local application required
 
-Any eligible recipient desiring financial assistance under this part shall, in accordance with requirements established by the eligible agency (in consultation with such other educational training entities as the eligible agency determines to be appropriate) submit a local application to the eligible agency. Such local application shall cover the same period of time as the period of time applicable to the State plan submitted under section 2342 of this title.
+Any eligible recipient desiring financial assistance under this part shall, in accordance with requirements established by the eligible agency (in consultation with such other educational training entities as the eligible agencydetermines to be appropriate) submit a local application to the eligible agency. Such local application shall cover the same period of time as the period of time applicable to the State plan submitted under section 2342 of this title.
 
 #### (b) Contents
 
@@ -126,6 +126,8 @@ An eligible recipient receiving financial assistance under this part shall consu
 
 (Pub. L. 88–210, title I, §134, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 732; amended Pub. L. 113–128, title V, §512(e)(5), July 22, 2014, 128 Stat. 1707; Pub. L. 114–95, title IX, §9215(n)(8), Dec. 10, 2015, 129 Stat. 2170; Pub. L. 115–224, title I, §133, July 31, 2018, 132 Stat. 1612.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 2354, Pub. L. 88–210, title I, §134, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3114, related to local plan for vocational and technical education programs, prior to the general amendment of this chapter by Pub. L. 109–270.
@@ -134,7 +136,7 @@ A prior section 2354, Pub. L. 88–210, title I, §134, as added Pub. L. 105–3
 
 <b>2018</b>—Pub. L. 115–224, §133(1), substituted "Local application" for "Local plan" in section catchline.
 
-Subsec. (a). Pub. L. 115–224, §133(2), substituted "Local Application" for "Local plan" in heading and "local application" for "local plan" in two places in text.
+Subsec. (a). Pub. L. 115–224, §133(2), substituted "Local Application" for "Local plan" in heading and"local application" for "local plan" in two places in text.
 
 Subsecs. (b) to (e). Pub. L. 115–224, §133(3), added subsecs. (b) to (e) and struck out former subsec. (b) which related to contents of local plans.
 
@@ -143,6 +145,8 @@ Subsecs. (b) to (e). Pub. L. 115–224, §133(3), added subsecs. (b) to (e) and 
 Subsec. (b)(3)(E). Pub. L. 114–95, §9215(n)(8)(B), substituted "in order to provide a well-rounded education (as defined in section 7801 of this title)" for "in core academic subjects (as defined in section 7801 of this title)".
 
 <b>2014</b>—Subsec. (b)(5). Pub. L. 113–128 substituted "entities participating in activities described in section 3122 of title 29 (if applicable)" for "entities participating in activities described in section 2832 of title 29 (if applicable)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

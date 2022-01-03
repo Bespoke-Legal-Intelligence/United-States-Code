@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(A) is a citizen or national of the United States, or
 
-&emsp;&emsp;(B) is an alien who is lawfully admitted for permanent residence, is granted the status of an alien lawfully admitted for temporaryresidence under section 1160(a) or 1255a(a)(1) of this title, is admitted as a refugee under section 1157 of this title, or is granted asylum under section 1158 of this title; but does not include (i) an alien who fails to apply for naturalization within six months of the date the alien first becomes eligible (by virtue of period of lawful permanent residence) to apply for naturalization or, if later, within six months after November 6, 1986, and (ii) an alien who has applied on a timely basis, but has not been naturalized as a citizen within 2 years after the date of the application, unless the alien can establish that the alien is actively pursuing naturalization, except that time consumed in the Service's processing the application shall not be counted toward the 2-year period.
+&emsp;&emsp;(B) is an alien who is lawfully admitted for permanent residence, is granted the status of an alien lawfully admitted for temporary residence under section 1160(a) or 1255a(a)(1) of this title, is admitted as a refugee under section 1157 of this title, or is granted asylum under section 1158 of this title; but does not include (i) an alien who fails to apply for naturalization within six months of the date the alien first becomes eligible (by virtue of period of lawful permanent residence) to apply for naturalization or, if later, within six months after November 6, 1986, and (ii) an alien who has applied on a timely basis, but has not been naturalized as a citizen within 2 years after the date of the application, unless the alien can establish that the alien is actively pursuing naturalization, except that time consumed in the Service's processing the application shall not be counted toward the 2-year period.
 
 #### (4) Additional exception providing right to prefer equally qualified citizens
 
@@ -62,7 +62,7 @@
 
 #### (3) Compensation
 
-&emsp;The Special Counsel is entitled to receive compensation at a rate not to exceed the rate now or hereafter provided for grade GS–17 of the General Schedule, under section 5332 of title 5.
+&emsp;The Special Counsel is entitled to receive compensation at a rate not to exceed the ratenow or hereafter provided for grade GS–17 of the General Schedule, under section 5332 of title 5.
 
 #### (4) Regional offices
 
@@ -72,7 +72,7 @@
 
 #### (1) By Special Counsel
 
-&emsp;The Special Counsel shall investigate each charge received and, within 120 days of the date of the receipt of the charge, determine whether or not there is reasonable cause to believe that the charge is true and whether or not to bring a complaint with respect to the charge before an administrative law judge.The Special Counsel may, on his own initiative, conduct investigations respecting unfair immigration-related employment practices and, based on such an investigation and subject to paragraph (3), file a complaint before such a judge.
+&emsp;The Special Counsel shall investigate each charge received and, within 120 days of the date of the receipt of the charge, determine whether or not there is reasonable cause to believe that the charge is true and whether or not to bring a complaint with respect to the charge before an administrative law judge. The Special Counsel may, on his own initiative, conduct investigations respecting unfair immigration-related employment practices and, based on such an investigation and subject to paragraph (3), file a complaint before such a judge.
 
 #### (2) Private actions
 
@@ -116,7 +116,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If, upon the preponderance of the evidence, an administrative law judge determines that any person or entity named in the complaint has engaged in or is engaging in any such unfair immigration-related employment practice, then the judge shall state his findings of fact and shall issue and cause to be served on such person or entity an order which requires such person or entity to cease and desist from such unfair immigration-related employment practice.
+&emsp;&emsp;If, upon the preponderance of the evidence, an administrative law judge determines that any person or entity named in the complaint has engaged in or is engaging in any suchunfair immigration-related employment practice, then the judge shall state his findings of fact and shall issue and cause to be served on such person or entity an order which requires such person or entity to cease and desist from such unfair immigration-related employment practice.
 
 #### (B) Contents of order
 
@@ -124,7 +124,7 @@
 
 &emsp;&emsp;&emsp;(i) to comply with the requirements of section 1324a(b) of this title with respect to individuals hired (or recruited or referred for employment for a fee) during a period of up to three years;
 
-&emsp;&emsp;&emsp;(ii) to retain for the period referred to in clause (i) and only for purposes consistent with section 1324a(b)(5) of this title, the name and address of each individual whoapplies, in person or in writing, for hiring for an existing position, or for recruiting or referring for a fee, for employment in the United States;
+&emsp;&emsp;&emsp;(ii) to retain for the period referred to in clause (i) and only for purposes consistent with section 1324a(b)(5) of this title, the name and address of each individual who applies, in person or in writing, for hiring for an existing position, or for recruiting or referring for a fee, for employment in the United States;
 
 &emsp;&emsp;&emsp;(iii) to hire individuals directly and adversely affected, with or without back pay;
 
@@ -186,7 +186,7 @@ In any complaint respecting an unfair immigration-related employment practice, a
 
 #### (4) Awarding of attorney's fees
 
-&emsp;In any judicial proceeding under subsection (i) or this subsection, the court, in its discretion, may allow a prevailing party, other thanthe United States, a reasonable attorney's fee as part of costs but only if the losing party's argument is without reasonable foundation in law and fact.
+&emsp;In any judicial proceeding under subsection (i) or this subsection, the court, in its discretion, may allow a prevailing party, other than the United States, a reasonable attorney's fee as part of costs but only if the losing party's argument is without reasonable foundation in law and fact.
 
 #### (k) Termination dates
 

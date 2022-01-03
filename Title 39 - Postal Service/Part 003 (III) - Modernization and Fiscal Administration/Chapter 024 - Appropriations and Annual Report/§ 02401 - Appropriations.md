@@ -48,7 +48,7 @@
 
 Enactment of the Postal Accountability and Enhancement Act, referred to in subsec. (d), means the enactment of Pub. L. 109–435, which was approved Dec. 20, 2006.
 
-Former chapter 67 of title 39, referred to in subsec. (g), means chapter 67 (§4551 et seq.) of former Title 39,The Postal Service, prior to the general revision and reenactment of Title 39 by Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 719.
+Former chapter 67 of title 39, referred to in subsec. (g), means chapter 67 (§4551 et seq.) of former Title 39, The Postal Service, prior to the general revision and reenactment of Title 39 by Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 719.
 
 #### Amendments
 
@@ -108,7 +108,7 @@ Pub. L. 103–123, title VII, §703(b), Oct. 28, 1993, 107 Stat. 1267, provided 
 
 Pub. L. 103–123, title VII, §704(c)(2), Oct. 28, 1993, 107 Stat. 1271, provided that: "The amendments made by subsection (b) \[amending this section\] shall apply with respect to appropriations for fiscal years beginning after September 30, 1993."
 
-Amendment by Pub. L. 103–31 effective (1) with respect to a State that, on May 20, 1993, has a provision in the constitution of the State that would preclude compliance with section 20501 et seq. of Title 52, Votingand Elections, unless the State maintained separate Federal and State official lists of eligible voters, on the later of Jan. 1, 1996, or the date that is 120 days after the date by which, under the constitution of the State as in effect on May 20, 1993, it would be legally possible to adopt and place into effect any amendments to the constitution of the State that are necessary to permit compliance with section 20501 et seq. of Title 52 without requiring a special election, and (2) with respect to a State not described in cl. (1) on Jan. 1, 1995, see section 13 of Pub. L. 103–31, set out as an Effective Date note under section 20501 of Title 52.
+Amendment by Pub. L. 103–31 effective (1) with respect to a State that, on May 20, 1993, has a provision in the constitution of the State that would preclude compliance with section 20501 et seq. of Title 52, Voting and Elections, unless the State maintained separate Federal and State official lists of eligible voters, on the later of Jan. 1, 1996, or the date that is 120 days after the date by which, under the constitution of the State as in effect on May 20, 1993, it would be legally possible to adopt and place into effect any amendments to the constitution of the State that are necessary to permit compliance with section 20501 et seq. of Title 52 without requiring a special election, and (2) with respect to a State not described in cl. (1) on Jan. 1, 1995, see section 13 of Pub. L. 103–31, set out as an Effective Date note under section 20501 of Title 52.
 
 #### Effective Date of 1990 Amendment
 

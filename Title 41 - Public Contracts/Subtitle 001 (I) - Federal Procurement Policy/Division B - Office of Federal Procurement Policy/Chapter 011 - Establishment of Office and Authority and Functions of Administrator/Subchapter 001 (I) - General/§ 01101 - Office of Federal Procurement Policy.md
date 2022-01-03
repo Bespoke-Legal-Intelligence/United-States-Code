@@ -14,7 +14,7 @@ Purposes.—The purposes of the Office of Federal Procurement Policy are to—
 
 (c)
 
-Authorization of Appropriations.—Necessary amounts may be appropriated each fiscalyear for the Office of Federal Procurement Policy to carry out the responsibilities of the Office for that fiscal year.
+Authorization of Appropriations.—Necessary amounts may be appropriated each fiscal year for the Office of Federal Procurement Policy to carry out the responsibilities of the Office for that fiscal year.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3684.)
 

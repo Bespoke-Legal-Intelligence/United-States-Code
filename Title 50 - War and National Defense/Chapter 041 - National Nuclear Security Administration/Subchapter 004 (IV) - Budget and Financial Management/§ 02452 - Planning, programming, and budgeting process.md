@@ -28,9 +28,13 @@ The Administrator shall submit to Congress each year, at or about the time that 
 
 (Pub. L. 106–65, div. C, title XXXII, §3252, Oct. 5, 1999, 113 Stat. 966; Pub. L. 106–398, §1 \[div. C, title XXXI, §3158(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–469.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Pub. L. 106–398 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -38,13 +42,5 @@ Section effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as
 
 #### First Report on Assessment of Prior Plans; GAO Report
 
-Pub. L. 106–398, §1 \[div. C, title XXXI, §3158(b), (c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–469, provided that:
-
-"(b)
-
-Effective Date of Requirement to Assess Prior Plan.—The first report submitted under paragraph (2) of subsection (c) of such section \[subsec. (c)(2) of this section\] (as added by subsection (a)) shall be the report on the plan prepared with respect to the budget submitted in calendar year 2001.
-
-"(c)
-
-GAO Report.—Not later than March 15, 2001, the Comptroller General shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] an assessment of the adequacy of the planning, programming, and budgeting processes of the National Nuclear Security Administration."
+Pub. L. 106–398, §1 \[div. C, title XXXI, §3158(b), (c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–469, provided that the first report submitted under subsec. (c)(2) of this section was to be the report prepared with respect to the budget submitted in calendar year 2001, and that, not later than Mar. 15, 2001, the Comptroller General wouldsubmit to Congress an assessment of the adequacy of the planning, programming, and budgeting processes of the National Nuclear Security Administration.
 

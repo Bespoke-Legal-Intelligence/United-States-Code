@@ -46,13 +46,13 @@ On the request of the Council, the Secretary may detail, with or without reimbur
 
 #### (h) Technical assistance
 
-On the request of the Council, the Secretary shall provide such technical assistance to theCouncil as the Council determines to be necessary to carry out its duties.
+On the request of the Council, the Secretary shall provide such technical assistance to the Council as the Council determines to be necessary to carry out its duties.
 
 #### (i) Termination
 
 Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply with respect to the Council.
 
-(Pub. L. 93–112, title II, §205, as added Pub. L. 105–220, title IV, §405, Aug. 7, 1998, 112 Stat. 1182; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §§401(16), 402(b)(11)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412, 2681–414; Pub. L. 113–128, title IV, §436, July 22, 2014, 128 Stat. 1671.)
+(Pub. L. 93–112, title II, §205, as added Pub. L. 105–220, title IV, §405, Aug. 7, 1998, 112 Stat. 1182; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §§401(16), 402(b)(11)\], Oct. 21, 1998, 112 Stat.2681–337, 2681–412, 2681–414; Pub. L. 113–128, title IV, §436, July 22, 2014, 128 Stat. 1671.)
 
 #### <b>Editorial Notes</b>
 

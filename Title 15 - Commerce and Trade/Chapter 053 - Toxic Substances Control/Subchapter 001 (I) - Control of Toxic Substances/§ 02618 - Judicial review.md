@@ -28,7 +28,7 @@ If in an action under this section to review a rule, or an order under section 2
 
 &emsp;&emsp;(II) an order under section 2603, 2604(e), 2604(f), or 2605(i)(1) of this title, the standard for review prescribed by paragraph (2)(E) of such section 706 shall not apply and the court shall hold unlawful and set aside such order if the court finds that the order is not supported by substantial evidence in the record taken as a whole; and
 
-&emsp;(ii) the court may not review the contents and adequacy of any statement of basis and purpose required by section 553(c) of title 5 to be incorporated in the rule or order, except as part of the record, taken as a whole.
+&emsp;(ii) the court may not review the contents and adequacy of any statement of basis andpurpose required by section 553(c) of title 5 to be incorporated in the rule or order, except as part of the record, taken as a whole.
 
 (2) The judgment of the court affirming or setting aside, in whole or in part, any rule or order reviewed in accordance with this section shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification, as provided in section 1254 of title 28.
 
@@ -40,7 +40,9 @@ The decision of the court in an action commenced under subsection (a), or of the
 
 The remedies as provided in this section shall be in addition to and not in lieu of any other remedies provided by law.
 
-(Pub. L. 94–469, title I, §19, Oct. 11, 1976, 90 Stat. 2039; renumbered title I and amended Pub. L. 99–519, §3(b)(2), (c)(1), Oct. 22, 1986, 100 Stat. 2989; Pub. L. 102–550, title X, §1021(b)(8), Oct. 28, 1992,106 Stat. 3923; Pub. L. 114–182, title I, §§14, 19(m), June 22, 2016, 130 Stat. 498, 508.)
+(Pub. L. 94–469, title I, §19, Oct. 11, 1976, 90 Stat. 2039; renumbered title I and amended Pub. L. 99–519, §3(b)(2), (c)(1), Oct. 22, 1986, 100 Stat. 2989; Pub. L. 102–550, title X, §1021(b)(8), Oct. 28, 1992, 106 Stat. 3923; Pub. L. 114–182, title I, §§14, 19(m), June 22, 2016, 130 Stat. 498, 508.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -75,6 +77,8 @@ Subsec. (c)(2). Pub. L. 114–182, §19(m)(3)(B), substituted "any rule or order
 Subsec. (a)(3)(B). Pub. L. 102–550, §1021(b)(8)(B), inserted before semicolon at end "and in the case of a rule under subchapter IV, the finding required for the issuance of such a rule".
 
 <b>1986</b>—Subsec. (a)(1)(A). Pub. L. 99–519 inserted reference to subchapter II of this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

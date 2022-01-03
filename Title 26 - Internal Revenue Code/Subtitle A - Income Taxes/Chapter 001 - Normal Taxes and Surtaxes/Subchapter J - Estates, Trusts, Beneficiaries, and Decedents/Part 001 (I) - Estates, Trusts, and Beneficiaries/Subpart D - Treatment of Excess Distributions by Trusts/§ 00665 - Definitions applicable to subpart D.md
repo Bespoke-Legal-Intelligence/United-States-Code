@@ -56,6 +56,8 @@ For purposes of this subpart—
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 223; Pub. L. 87–834, §7(b), Oct. 16, 1962, 76 Stat. 985; Pub. L. 91–172, title III, §331(a), Dec. 30, 1969, 83 Stat. 592; Pub. L. 92–178, title III, §306(a), Dec. 10, 1971, 85 Stat. 524; Pub. L. 94–455, title VII, §§701(b), (c), (d)(2), (3), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1577, 1578, 1834; Pub. L. 95–600, title VII, §701(q)(1)(A), Nov. 6, 1978, 92 Stat. 2909; Pub. L. 99–514, title XVIII, §1847(b)(16), Oct. 22, 1986, 100 Stat. 2857; Pub. L. 101–508, title XI, §11802(f)(2), Nov. 5, 1990, 104 Stat. 1388–530; Pub. L. 104–188, title I, §1904(b)(1), (c)(2), Aug. 20, 1996, 110 Stat. 1912; Pub. L. 105–34, title V, §507(a), title XVI, §1604(g)(2), Aug. 5, 1997, 111 Stat. 856, 1099.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this subsection, referred to in subsec. (c)(1), is the date of enactment of Pub. L. 105–34, which was approved Aug. 5, 1997.
@@ -96,7 +98,7 @@ Subsecs. (d), (e). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delega
 
 Subsec. (e)(1). Pub. L. 94–455, §701(d)(2), struck out provision that preceding taxable year does not include any taxable year of the trust which begins before Jan. 1, 1969, in the case of a capital gain distribution made during a taxable year beginning after Dec. 31, 1968.
 
-Subsecs. (f), (g). Pub. L. 94–455, §701(d)(3), struck out subsec. (f) which related to undistributed capital gains,and subsec. (g) which related to capital gain distribution.
+Subsecs. (f), (g). Pub. L. 94–455, §701(d)(3), struck out subsec. (f) which related to undistributed capital gains, and subsec. (g) which related to capital gain distribution.
 
 <b>1971</b>—Subsec. (g). Pub. L. 92–178 struck out "for such taxable year" after "undistributed capital gain" in introductory text.
 
@@ -116,6 +118,8 @@ Subsecs. (f), (g). Pub. L. 91–172 added subsecs. (f) and (g).
 
 Subsecs. (c) to (e). Pub. L. 87–834, §7(b)(2), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1997 Amendment
 
 Pub. L. 105–34, title V, §507(c)(1), Aug. 5, 1997, 111 Stat. 857, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply to distributions in taxable years beginning after the date of the enactment of this Act \[Aug. 5, 1997\]."
@@ -130,7 +134,7 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–600, title VII, §701(q)(3)(A), Nov. 6, 1978, 92 Stat. 2910, provided that: "The amendments made by paragraph (1) \[amending this section and section 667 of this title\] shall apply to distributions made in taxable years beginning after December 31, 1975."
+Pub. L. 95–600, title VII, §701(q)(3)(A), Nov. 6, 1978, 92 Stat. 2910, provided that: "The amendments made byparagraph (1) \[amending this section and section 667 of this title\] shall apply to distributions made in taxable years beginning after December 31, 1975."
 
 #### Effective Date of 1976 Amendment
 

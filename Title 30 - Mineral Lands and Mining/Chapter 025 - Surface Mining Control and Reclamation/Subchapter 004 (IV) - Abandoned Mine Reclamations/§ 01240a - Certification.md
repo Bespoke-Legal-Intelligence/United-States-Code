@@ -14,7 +14,7 @@ If the Secretary has concurred in a State or tribal certification under subsecti
 
 &emsp;(1) which were mined or processed for minerals or which were affected by such mining or processing, and abandoned or left in an inadequate reclamation status prior to August 3, 1977; and
 
-&emsp;(2) for which there is no continuing reclamation responsibility under State or other Federal laws. In determining the eligibility under this subsection of Federal lands, waters, and facilities under the jurisdiction of the Forest Service or Bureau of Land Management, in lieu of the August 3, 1977, date referred to in paragraph (1) the applicable date shall be August 28, 1974, and November 26, 1980, respectively.
+&emsp;(2) for which there is no continuing reclamation responsibility under State or other Federal laws. In determining the eligibility under this subsection of Federal lands, waters, and facilities under the jurisdiction of the Forest Service or Bureau of Land Management, inlieu of the August 3, 1977, date referred to in paragraph (1) the applicable date shall be August 28, 1974, and November 26, 1980, respectively.
 
 #### (c) Priorities
 
@@ -88,7 +88,7 @@ The provisions of sections 1237 and 1238 of this title shall apply to subsection
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding section 1231(f)(3)(B) of this title, from funds referred to in section 1232(i)(2) of this title, the Secretary shall pay to each certified State or Indian tribe an amount equal to the sum of the aggregate unappropriated amount allocated on or after October 1, 2007, to the certified State or Indian tribe under subparagraph (A) or (B) of section 1232(g)(1) of this title.
+&emsp;&emsp;Notwithstanding section 1231(f)(3)(B) of this title, from funds referred to in section1232(i)(2) of this title, the Secretary shall pay to each certified State or Indian tribe an amount equal to the sum of the aggregate unappropriated amount allocated on or after October 1, 2007, to the certified State or Indian tribe under subparagraph (A) or (B) of section 1232(g)(1) of this title.
 
 #### (B) Certified State or Indian tribe defined
 
@@ -118,7 +118,7 @@ The provisions of sections 1237 and 1238 of this title shall apply to subsection
 
 &emsp;&emsp;The grants shall be allocated based on the amount of coal historically produced before August 3, 1977, in the same manner as under section 1232(g)(5) of this title.
 
-(Pub. L. 95–87, title IV, §411, as added Pub. L. 101–508, title VI, §6010(2), Nov. 5, 1990, 104 Stat.1388–296; amended Pub. L. 109–432, div. C, title II, §206, Dec. 20, 2006, 120 Stat. 3016; Pub. L. 112–141, div. F, title I, §100125, July 6, 2012, 126 Stat. 915; Pub. L. 112–175, §142, Sept. 28, 2012, 126 Stat. 1321; Pub. L. 113–40, §10(d), Oct. 2, 2013, 127 Stat. 546; Pub. L. 114–94, div. D, title XLIII, §43001, Dec. 4, 2015, 129 Stat. 1762.)
+(Pub. L. 95–87, title IV, §411, as added Pub. L. 101–508, title VI, §6010(2), Nov. 5, 1990, 104 Stat. 1388–296; amended Pub. L. 109–432, div. C, title II, §206, Dec. 20, 2006, 120 Stat. 3016; Pub. L. 112–141, div. F, title I, §100125, July 6, 2012, 126 Stat. 915; Pub. L. 112–175, §142, Sept. 28, 2012, 126 Stat. 1321; Pub. L. 113–40, §10(d), Oct. 2, 2013, 127 Stat. 546; Pub. L. 114–94, div. D, title XLIII, §43001, Dec. 4, 2015, 129 Stat. 1762.)
 
 #### <b>Editorial Notes</b>
 

@@ -10,9 +10,13 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 (Added Pub. L. 99–514, title XIV, §1431(a), Oct. 22, 1986, 100 Stat. 2729; amended Pub. L. 100–647, title I, §1014(g)(10), Nov. 10, 1988, 102 Stat. 3565.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Par. (3). Pub. L. 100–647 added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

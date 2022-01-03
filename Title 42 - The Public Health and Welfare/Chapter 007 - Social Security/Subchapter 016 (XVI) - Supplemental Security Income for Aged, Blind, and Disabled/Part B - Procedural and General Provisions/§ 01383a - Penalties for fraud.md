@@ -34,9 +34,11 @@ Whoever—
 
 #### (c) Prohibition on certification as representative payee
 
-Any person or entity convicted of a violation of subsection (a) of this section or of section 408 of this title may not be certified as a representative payee under section 1383(a)(2) of this title.
+Any person or entity convicted of a violation of subsection (a) of this section or of section 408of this title may not be certified as a representative payee under section 1383(a)(2) of this title.
 
 (Aug. 14, 1935, ch. 531, title XVI, §1632, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1478; amended Pub. L. 98–460, §16(c)(1), Oct. 9, 1984, 98 Stat. 1810; Pub. L. 103–296, title II, §206(c)(1), (2), Aug. 15, 1994, 108 Stat. 1513; Pub. L. 108–203, title II, §209(c), Mar. 2, 2004, 118 Stat. 515; Pub. L. 114–74, title VIII, §813(a)(3), (b)(3), Nov. 2, 2015, 129 Stat. 603.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -52,7 +54,7 @@ Subsec. (c). Pub. L. 108–203, §209(c)(1), (3), redesignated subsec. (b) as (c
 
 Subsec. (b). Pub. L. 103–296, §206(c)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 
-"(b)(1) Any person or other entity who is convicted of a violation of any of the provisions of paragraphs (1) through (4) of subsection (a) of this section, if such violation is committed by such person or entity in his role as, or in applying to become, a payee under section 1383(a)(2) of this title on behalf of another individual\(other than such person's eligible spouse), in lieu of the penalty set forth in subsection (a) of this section—
+"(b)(1) Any person or other entity who is convicted of a violation of any of the provisions of paragraphs (1) through (4) of subsection (a) of this section, if such violation is committed by such person or entity in his role as, or in applying to become, a payee under section 1383(a)(2) of this title on behalf of another individual (other than such person's eligible spouse), in lieu of the penalty set forth in subsection (a) of this section—
 
 &emsp;"(A) upon his first such conviction, shall be guilty of a misdemeanor and shall be fined not more than $5,000 or imprisoned for not more than one year, or both; and
 
@@ -63,6 +65,8 @@ Subsec. (b). Pub. L. 103–296, §206(c)(2), amended subsec. (b) generally. Prio
 "(3) Any person or entity convicted of a felony under this section or under section 408 of this title may not be certified as a payee under section 1383(a)(2) of this title."
 
 <b>1984</b>—Pub. L. 98–460 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

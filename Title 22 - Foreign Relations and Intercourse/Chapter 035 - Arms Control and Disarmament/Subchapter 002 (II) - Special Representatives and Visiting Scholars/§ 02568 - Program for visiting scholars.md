@@ -2,7 +2,7 @@
 
 A program for visiting scholars in the fields of arms control, nonproliferation, and disarmament shall be established by the Secretary of State in order to obtain the services of scholars from the faculties of recognized institutions of higher learning. The purpose of the program will be to give specialists in the physical sciences and other disciplines relevant to the Department of State's activities an opportunity for active participation in the arms control, nonproliferation, and disarmament activities of the Department of State and to gain for the Department of State the perspective and expertise such persons can offer. Each fellow in the program shall be appointed for a term of one year, except that such term may be extended for a 1-year period.
 
-(Pub. L. 87–297, title II, §202, formerly §28, as added Pub. L. 98–202, §3, Dec. 2, 1983, 97 Stat. 1381; amended Pub. L. 103–236, title VII, §719(b), Apr. 30, 1994, 108 Stat. 501; renumbered §202 andamended Pub. L. 105–277, div. G, subdiv. A, title XII, §1223(5), (21), Oct. 21, 1998, 112 Stat. 2681–769, 2681–772.)
+(Pub. L. 87–297, title II, §202, formerly §28, as added Pub. L. 98–202, §3, Dec. 2, 1983, 97 Stat. 1381; amended Pub. L. 103–236, title VII, §719(b), Apr. 30, 1994, 108 Stat. 501; renumbered §202 and amended Pub. L. 105–277, div. G, subdiv. A, title XII, §1223(5), (21), Oct. 21, 1998, 112 Stat. 2681–769, 2681–772.)
 
 #### <b>Editorial Notes</b>
 

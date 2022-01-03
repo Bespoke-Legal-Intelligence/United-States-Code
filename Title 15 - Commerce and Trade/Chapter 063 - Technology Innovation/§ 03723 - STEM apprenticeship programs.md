@@ -38,6 +38,8 @@ The Secretary of Commerce may provide a grant to an eligible recipient that has 
 
 (Pub. L. 96–480, §28, as added Pub. L. 114–329, title III, §312(e), Jan. 6, 2017, 130 Stat. 3014.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Developing STEM Apprenticeships
 
 Pub. L. 114–329, title III, §312(a)–(d), Jan. 6, 2017, 130 Stat. 3013, 3014, provided that:
@@ -52,7 +54,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;&emsp;"(B) to expand registered apprenticeships.
 
-&emsp;"(2) The lack of data on the value and impact of employer-provided worker training, which is likely substantial, hinders the ability of the Federal Government to formulate policy related to workforce training.
+&emsp;"(2) The lack of data on the value and impact of employer-provided worker training, which is likelysubstantial, hinders the ability of the Federal Government to formulate policy related to workforce training.
 
 &emsp;"(3) The Secretary of Commerce has initiated—
 

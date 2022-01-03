@@ -284,6 +284,8 @@ For purposes of this section—
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title and Internal Revenue Notices listed in a table under section 401 of this title.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Subsection (d)(1) of such section, referred to in subsec. (c)(2)(A), means section 219(d)(1) of this title, which was repealed by Pub. L. 116–94, div. O, title I, §107(a), Dec. 20, 2019, 133 Stat. 3148.
@@ -318,7 +320,7 @@ Subsec. (e). Pub. L. 110–245, §109(b), amended subsec. (e), as in effect afte
 
 > For purposes of section 408(d)(3)(B), there shall be disregarded any qualified rollover contribution from an individual retirement plan (other than a Roth IRA) to a Roth IRA."
 
-Pub. L. 110–245, §109(a), amended subsec. (e), as in effect before amendment by section 824(a) of Pub. L.109–280, by reenacting heading without change and amending text to read as follows: "For purposes of this section—
+Pub. L. 110–245, §109(a), amended subsec. (e), as in effect before amendment by section 824(a) of Pub. L. 109–280, by reenacting heading without change and amending text to read as follows: "For purposes of this section—
 
 &emsp;"(1)
 
@@ -370,7 +372,7 @@ Subsec. (d)(3). Pub. L. 109–280, §824(b)(2)(E), substituted "an eligible reti
 
 Subsec. (d)(3)(A). Pub. L. 109–280, §824(b)(2)(A), substituted "sections 402(c), 403(b)(8), 408(d)(3), and 457(e)(16)" for "section 408(d)(3)" in introductory provisions.
 
-Subsec. (d)(3)(A)(iii). Pub. L. 109–222, §512(b)(1), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: "unless the taxpayer elects not to have this clause apply for any taxable year, any amount required to be included in gross income for such taxable year by reason of this paragraph for any distribution before January 1, 1999, shall be so included ratably over the 4-taxable year period beginning with such taxable year."
+Subsec. (d)(3)(A)(iii). Pub. L. 109–222, §512(b)(1), amended cl. (iii) generally. Prior to amendment, cl.\(iii) read as follows: "unless the taxpayer elects not to have this clause apply for any taxable year, any amount required to be included in gross income for such taxable year by reason of this paragraph for any distribution before January 1, 1999, shall be so included ratably over the 4-taxable year period beginning with such taxable year."
 
 Subsec. (d)(3)(B). Pub. L. 109–280, §824(b)(2)(B), substituted "eligible retirement plan (as defined by section 402(c)(8)(B))" for "individual retirement plan".
 
@@ -446,9 +448,11 @@ Subsec. (d)(7). Pub. L. 105–206, §6005(b)(7), added par. (7).
 
 Subsec. (f). Pub. L. 105–206, §6005(b)(9), added subsec. (f).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2019 Amendment
 
-Amendment by Pub. L. 116–94 applicable to contributions made for taxable years beginning after Dec. 31, 2019, see section 107(d)(1) of div. O of Pub. L. 116–94, set out in a note under section 219 of this title.
+Amendment by Pub. L. 116–94 applicable to contributions made for taxable years beginning after Dec. 31,2019, see section 107(d)(1) of div. O of Pub. L. 116–94, set out in a note under section 219 of this title.
 
 #### Effective Date of 2017 Amendment
 

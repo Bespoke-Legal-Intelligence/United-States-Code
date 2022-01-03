@@ -54,7 +54,7 @@ Periodic Reports.—The uniform forms for periodic reports required under subsec
 
 &emsp;(3) number of full-time employees as of the date of the order for relief and at the end of each reporting period since the case was filed;
 
-&emsp;(4) cash receipts, cash disbursements and profitability of the debtor for the most recent period and cumulatively since the date of the order for relief;
+&emsp;(4) cash receipts, cash disbursements and profitability of the debtor for the most recentperiod and cumulatively since the date of the order for relief;
 
 &emsp;(5) compliance with title 11, whether or not tax returns and tax payments since the date of the order for relief have been timely filed and made;
 
@@ -74,7 +74,7 @@ For the effective date of this section, referred to in subsec. (a), see Effectiv
 
 <b>2019</b>—Subsec. (a)(1). Pub. L. 116–54, §4(b)(2)(A), inserted "subchapter V of chapter 11 and" after "cases under".
 
-Subsec. (d). Pub. L. 116–54, §4(b)(2)(B), inserted "subchapter V of chapter 11 and" after "trustees under" inintroductory provisions and "subchapter V of chapter 11 and" after "cases under" in concluding provisions.
+Subsec. (d). Pub. L. 116–54, §4(b)(2)(B), inserted "subchapter V of chapter 11 and" after "trustees under" in introductory provisions and "subchapter V of chapter 11 and" after "cases under" in concluding provisions.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

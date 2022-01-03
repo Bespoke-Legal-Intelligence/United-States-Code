@@ -102,7 +102,7 @@ Except as otherwise specifically provided in this chapter, as used in this chapt
 
 &emsp;&emsp;(ii) by the Office of Senate Chief Counsel for Employment of the Senate, in the case of assistance and representation in connection with a claim filed under subchapter IV (including all subsequent proceedings under such subchapter in connection with the claim) at a time when the chair of the Commission is a Senator, and in the case of assistance and representation in connection with any subsequent claim under subchapter IV related to the initial claim where the subsequent claim involves the same parties.
 
-&emsp;(B) Legal assistance and representation under this chapter, including assistance and representation with respect to the proposal or acceptance of the disposition of a claim underthis chapter, shall be provided to the United States Commission on International Religious Freedom by the Office of Senate Chief Counsel for Employment of the Senate, in the case of assistance and representation in connection with a claim filed under subchapter IV (including all subsequent proceedings under such subchapter in connection with such claim).
+&emsp;(B) Legal assistance and representation under this chapter, including assistance and representation with respect to the proposal or acceptance of the disposition of a claim under this chapter, shall be provided to the United States Commission on International Religious Freedom by the Office of Senate Chief Counsel for Employment of the Senate, in the case of assistance and representation in connection with a claim filed under subchapter IV (including all subsequent proceedings under such subchapter in connection with such claim).
 
 #### (3) Definitions
 
@@ -176,7 +176,7 @@ In General.—Except as otherwise provided in this Act \[See Short Title of 2018
 
 "(b)
 
-No Effect on Pending Proceedings.—Nothing in this Act or the amendments made by this Act may be construed to affect any proceeding or payment of an award or settlement relating to a claim under title IV of the Congressional Accountability Act of 1995 (2 U.S.C. 1401 et seq.) which is pending as of the date after that 180-day period. If, as of that date, an employee has begun any of the proceedings under that title that wereavailable to the employee prior to that date, the employee may complete, or initiate and complete, all such proceedings, and such proceedings shall remain in effect with respect to, and provide the exclusive proceedings for, the claim involved until the completion of all such proceedings."
+No Effect on Pending Proceedings.—Nothing in this Act or the amendments made by this Act may be construed to affect any proceeding or payment of an award or settlement relating to a claim under title IV of the Congressional Accountability Act of 1995 (2 U.S.C. 1401 et seq.) which is pending as of the date after that 180-day period. If, as of that date, an employee has begun any of the proceedings under that title that were available to the employee prior to that date, the employee may complete, or initiate and complete, all such proceedings, and such proceedings shall remain in effect with respect to, and provide the exclusive proceedings for, the claim involved until the completion of all such proceedings."
 
 Pub. L. 115–141, div. I, title I, §153(c), Mar. 23, 2018, 132 Stat. 787, provided that: "This section \[amending this section and sections 1314 to 1316, 1331, 1341, 1351, 1401, 1404, and 1415 of this title\] and the amendments made by this section—
 
@@ -208,7 +208,7 @@ Pub. L. 114–6, §1, Mar. 20, 2015, 129 Stat. 81, provided that: "This Act \[am
 
 #### Short Title
 
-Pub. L. 104–1, §1(a), Jan. 23, 1995, 109 Stat. 3, provided that: "This Act \[enacting this chapter, amending sections 1201, 1202, 1219, 1220, and 1831 of this title, section 6381 of Title 5, Government Organization and Employees, sections 203, 633a, 2611, and 2617 of Title 29, Labor, and sections 2000e–16 and 12209 of Title 42, The Public Health and Welfare, repealing sections 60m, 60n, 1203 to 1218, 1221, 1223, and 1224 of this title, and enacting provisions set out as a note under section 751 of Title 31, Money and Finance\] may be cited as the 'Congressional Accountability Act of 1995'."
+Pub. L. 104–1, §1(a), Jan. 23, 1995, 109 Stat. 3, provided that: "This Act \[enacting this chapter, amending sections 1201, 1202, 1219, 1220, and 1831 of this title, section 6381 of Title 5, Government Organization and Employees, sections 203, 633a, 2611, and 2617 of Title 29, Labor, and sections 2000e–16 and 12209 of Title 42, The Public Health and Welfare, repealing sections 60m, 60n, 1203 to1218, 1221, 1223, and 1224 of this title, and enacting provisions set out as a note under section 751 of Title 31, Money and Finance\] may be cited as the 'Congressional Accountability Act of 1995'."
 
 #### Construction of 2010 Amendment
 

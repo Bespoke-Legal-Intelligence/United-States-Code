@@ -66,7 +66,7 @@ The Secretary, in making awards under this section, shall give consideration to�
 
 #### (3) Annual report
 
-&emsp;Not later than 1 year after December 31, 2018, and annually thereafter, the Secretary shall submit an annual report to Congress on the data collected under this subsection in a manner that, at a minimum, prevents the disclosure of individually identifiable information consistent with all applicable privacy laws and regulations.
+&emsp;Not later than 1 year after December 31, 2018, and annually thereafter, the Secretary shall submit an annual report to Congress onthe data collected under this subsection in a manner that, at a minimum, prevents the disclosure of individually identifiable information consistent with all applicable privacy laws and regulations.
 
 #### (f) Sharing best practices
 
@@ -81,6 +81,8 @@ In this section, the term "human trafficking" has the meaning given the term "se
 There is authorized to be appropriated to carry out this section, $4,000,000 for each of fiscal years 2020 through 2024.
 
 (July 1, 1944, ch. 373, title XII, §1254, as added Pub. L. 115–398, §2, Dec. 31, 2018, 132 Stat. 5328.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -10,7 +10,7 @@ Except as otherwise provided in subsection (b)—
 
 (3)(A)
 
-In general.—(i) Unless the standard is changed as provided in subparagraph (B), regulations under paragraph (1) of this subsection applicable to emissions of hydrocarbons, carbonmonoxide, oxides of nitrogen, and particulate matter from classes or categories of heavy-duty vehicles or engines manufactured during or after model year 1983 shall contain standards which reflect the greatest degree of emission reduction achievable through the application of technology which the Administrator determines will be available for the model year to which such standards apply, giving appropriate consideration to cost, energy, and safety factors associated with the application of such technology.
+In general.—(i) Unless the standard is changed as provided in subparagraph (B), regulations under paragraph (1) of this subsection applicable to emissions of hydrocarbons, carbon monoxide, oxides of nitrogen, and particulate matter from classes or categories of heavy-duty vehicles or engines manufactured during or after model year 1983 shall contain standards which reflect the greatest degree of emission reduction achievable through the application of technology which the Administrator determines will be available for the model year to which such standards apply, giving appropriate consideration to cost, energy, and safety factors associated with the application of such technology.
 
 (ii) In establishing classes or categories of vehicles or engines for purposes of regulations under this paragraph, the Administrator may base such classes or categories on gross vehicle weight, horsepower, type of fuel used, or other appropriate factors.
 
@@ -18,7 +18,7 @@ In general.—(i) Unless the standard is changed as provided in subparagraph (B)
 
 Revised standards for heavy duty trucks.—(i) On the basis of information available to the Administrator concerning the effects of air pollutants emitted from heavy-duty vehicles or engines and from other sources of mobile source related pollutants on the public health and welfare, and taking costs into account, the Administrator may promulgate regulations under paragraph (1) of this subsection revising any standard promulgated under, or before the date of, the enactment of the Clean Air Act Amendments of 1990 (or previously revised under this subparagraph) and applicable to classes or categories of heavy-duty vehicles or engines.
 
-(ii) Effective for the model year 1998 and thereafter, the regulations under paragraph (1) of this subsection applicable to emissions of oxides of nitrogen (NO<sub>x</sub>) from gasoline and diesel-fueled heavy duty trucks shall contain standards which provide that such emissions may not exceed 4.0 grams per brake horsepower hour (gbh).
+(ii) Effective for the model year 1998 and thereafter, the regulations under paragraph (1) of thissubsection applicable to emissions of oxides of nitrogen (NO<sub>x</sub>) from gasoline and diesel-fueled heavy duty trucks shall contain standards which provide that such emissions may not exceed 4.0 grams per brake horsepower hour (gbh).
 
 (C)
 
@@ -94,7 +94,7 @@ After Fifth
 
 &emsp;(B) Repealed. Pub. L. 101–549, title II, §230(1), Nov. 15, 1990, 104 Stat. 2529.
 
-&emsp;(C) The term "heavy duty vehicle" means a truck, bus, or other vehicle manufactured primarily for use on the public streets, roads, and highways (not including any vehicle operated exclusively on a rail or rails) which has a gross vehicle weight (as determined under regulations promulgated by the Administrator) in excess of six thousand pounds. Such term includes any such vehicle which has special features enabling off-street or off-highway operation and use.
+&emsp;(C) The term "heavy duty vehicle" means a truck, bus, or other vehicle manufactured primarily for use on the public streets, roads, and highways (not including any vehicle operated exclusively on a rail or rails) which has agross vehicle weight (as determined under regulations promulgated by the Administrator) in excess of six thousand pounds. Such term includes any such vehicle which has special features enabling off-street or off-highway operation and use.
 
 (3) <sup>2</sup> Upon the petition of any manufacturer, the Administrator, after notice and opportunity for public hearing, may waive the standard required under subparagraph (B) of paragraph (1) to not exceed 1.5 grams of oxides of nitrogen per vehicle mile for any class or category of light-duty vehicles or engines manufactured by such manufacturer during any period of up to four model years beginning after the model year 1980 if the manufacturer demonstrates that such waiver is necessary to permit the use of an innovative power train technology, or innovative emission control device or system, in such class or category of vehicles or engines and that such technology or system was not utilized by more than 1 percent of the light-duty vehicles sold in the United States in the 1975 model year. Such waiver may be granted only if the Administrator determines—
 
@@ -132,7 +132,7 @@ In the event of a new power source or propulsion system for new motor vehicles o
 
 #### (f) <sup>4</sup> High altitude regulations
 
-(1) The high altitude regulation in effect with respect to model year 1977 motor vehicles shall not apply to the manufacture, distribution, or sale of 1978 and later model year motor vehicles. Any future regulation affecting the sale or distribution of motor vehicles or engines manufactured before the model year 1984 in high altitude areas of the country shall take effect no earlier than model year 1981.
+(1) The high altitude regulation in effect with respect to model year 1977 motor vehicles shallnot apply to the manufacture, distribution, or sale of 1978 and later model year motor vehicles. Any future regulation affecting the sale or distribution of motor vehicles or engines manufactured before the model year 1984 in high altitude areas of the country shall take effect no earlier than model year 1981.
 
 (2) Any such future regulation applicable to high altitude vehicles or engines shall not require a percentage of reduction in the emissions of such vehicles which is greater than the required percentage of reduction in emissions from motor vehicles as set forth in subsection (b). This percentage reduction shall be determined by comparing any proposed high altitude emission standards to high altitude emissions from vehicles manufactured during model year 1970. In no event shall regulations applicable to high altitude vehicles manufactured before the model year 1984 establish a numerical standard which is more stringent than that applicable to vehicles certified under non-high altitude conditions.
 
@@ -384,7 +384,7 @@ CO
 
 \*Emission levels are expressed in grams per mile (GPM). For vehicles and engines subject to this subsection for purposes of subsection (d) and any reference thereto, the useful life of such vehicles and engines shall be a period of 10 years or 100,000 miles (or the equivalent), whichever first occurs.
 
-> Such study shall also consider other standards and useful life periods which are more stringentor less stringent than those set forth in table 3 (but more stringent than those referred to in subsections (g) and (h)).
+> Such study shall also consider other standards and useful life periods which are more stringent or less stringent than those set forth in table 3 (but more stringent than those referred to in subsections (g) and (h)).
 
 (2)(A) As part of the study under paragraph (1), the Administrator shall examine the need for further reductions in emissions in order to attain or maintain the national ambient air quality standards, taking into consideration the waiver provisions of section 7543(b) of this title. As part of such study, the Administrator shall also examine—
 
@@ -426,7 +426,7 @@ CO
 
 (D) Nothing in this paragraph shall be construed by the Administrator or by a court as a presumption that any standards (or useful life period) set forth in Table 3 shall be promulgated in the rulemaking required under this paragraph. The action required of the Administrator in accordance with this paragraph shall be treated as a nondiscretionary duty for purposes of section 7604(a)(2) of this title (relating to citizen suits).
 
-(E) Unless the Administrator determines not to promulgate more stringent standards as provided in subparagraph (B) or to postpone the effective date of standards referred to in Table 3 in paragraph (1) or to establish alternative standards as provided in subparagraph (C), effective with respect to model years commencing after January 1, 2003, the regulations under subsection (a) applicable to emissions of nonmethane hydrocarbons (NMHC), oxides of nitrogen (NO<sub>x</sub>), and carbon monoxide (CO) from motor vehicles and motor vehicle engines in theclasses specified in Table 3 in paragraph (1) above shall contain standards which provide that emissions may not exceed the pending emission levels specified in Table 3 in paragraph (1).
+(E) Unless the Administrator determines not to promulgate more stringent standards as provided in subparagraph (B) or to postpone the effective date of standards referred to in Table 3 in paragraph (1) or to establish alternative standards as provided in subparagraph (C), effective with respect to model years commencing after January 1, 2003, the regulations under subsection (a) applicable to emissions of nonmethane hydrocarbons (NMHC), oxides of nitrogen (NO<sub>x</sub>), and carbon monoxide (CO) from motor vehicles and motor vehicle engines in the classes specified in Table 3 in paragraph (1) above shall contain standards which provide that emissions may not exceed the pending emission levels specified in Table 3 in paragraph (1).
 
 #### (j) Cold CO standard
 
@@ -482,7 +482,7 @@ The Administrator shall promulgate (and from time to time revise) regulations ap
 
 #### (1) Study
 
-&emsp;Not later than 18 months after November 15, 1990, the Administrator shall complete a study of the need for, and feasibility of, controlling emissions of toxic air pollutants which are unregulated under this chapter and associated with motor vehicles and motor vehicle fuels, and the need for, and feasibility of, controlling such emissions and the means and measures for such controls. The study shall focus onthose categories of emissions that pose the greatest risk to human health or about which significant uncertainties remain, including emissions of benzene, formaldehyde, and 1,3 butadiene. The proposed report shall be available for public review and comment and shall include a summary of all comments.
+&emsp;Not later than 18 months after November 15, 1990, the Administrator shall complete a study of the need for, and feasibility of, controlling emissions of toxic air pollutants which are unregulated under this chapter and associated with motor vehicles and motor vehicle fuels, and the need for, and feasibility of, controlling such emissions and the means and measures for such controls. The study shall focus on those categories of emissions that pose the greatest risk to human health or about which significant uncertainties remain, including emissions of benzene, formaldehyde, and 1,3 butadiene. The proposed report shall be available for public review and comment and shall include a summary of all comments.
 
 #### (2) Standards
 
@@ -528,7 +528,7 @@ The Administrator shall promulgate (and from time to time revise) regulations ap
 
 #### (f) <sup>5</sup> Model years after 1990
 
-For model years prior to model year 1994, the regulations under subsection (a) applicable to buses other than those subject to standards under section 7554 of this title shall contain astandard which provides that emissions of particulate matter (PM) from such buses may not exceed the standards set forth in the following table:
+For model years prior to model year 1994, the regulations under subsection (a) applicable to buses other than those subject to standards under section 7554 of this title shall contain a standard which provides that emissions of particulate matter (PM) from such buses may not exceed the standards set forth in the following table:
 
 pm standard for buses
 
@@ -551,6 +551,8 @@ Standard\*
 \*Standards are expressed in grams per brake horsepower hour (g/bhp/hr).
 
 (July 14, 1955, ch. 360, title II, §202, as added Pub. L. 89–272, title I, §101(8), Oct. 20, 1965, 79 Stat. 992; amended Pub. L. 90–148, §2, Nov. 21, 1967, 81 Stat. 499; Pub. L. 91–604, §6(a), Dec. 31, 1970, 84 Stat. 1690; Pub. L. 93–319, §5, June 22, 1974, 88 Stat. 258; Pub. L. 95–95, title II, §§201, 202(b), 213(b), 214(a), 215–217, 224(a), (b), (g), title IV, §401(d), Aug. 7, 1977, 91 Stat. 751–753, 758–761, 765, 767, 769, 791; Pub. L. 95–190, §14(a)(60)–(65), (b)(5), Nov. 16, 1977, 91 Stat. 1403, 1405; Pub. L. 101–549, title II, §§201–207, 227(b), 230(1)–(5), Nov. 15, 1990, 104 Stat. 2472–2481, 2507, 2529.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -604,7 +606,7 @@ Subsec. (b)(2). Pub. L. 101–549, §203(d), amended par. (2) generally. Prior t
 
 Subsec. (b)(3). Pub. L. 101–549, §230(4), redesignated par. (6) relating to waiver of standards for oxides of nitrogen as par. (3), struck out subpar. (A) designation before "Upon the petition", redesignated former cls. (i) to (iii) as subpars. (A) to (C), respectively, and struck out former subpar. (B) which authorized the Administrator to waive the standard under subsec. (b)(1)(B) of this section for emissions of oxides of nitrogen from light-duty vehicles and engines beginning in model year 1981 after providing notice and opportunity for a public hearing, and set forth conditions under which a waiver could be granted.
 
-Subsec. (b)(3)(B). Pub. L. 101–549, §230(1), in the par. (3) defining terms for purposes of this part struck out subpar. (B) which defined "light duty vehicles and engines".
+Subsec. (b)(3)(B). Pub. L. 101–549, §230(1), in the par. (3) defining terms for purposes of this part struck outsubpar. (B) which defined "light duty vehicles and engines".
 
 Subsec. (b)(4). Pub. L. 101–549, §230(2), struck out par. (4) which read as follows: "On July 1 of 1971, and of each year thereafter, the Administrator shall report to the Congress with respect to the development of systems necessary to implement the emission standards established pursuant to this section. Such reports shall include information regarding the continuing effects of such air pollutants subject to standards under this section on the public health and welfare, the extent and progress of efforts being made to develop the necessary systems, the costs associated with development and application of such systems, and following such hearings as he may deem advisable, any recommendations for additional congressional action necessary to achieve the purposes of this chapter. In gathering information for the purposes of this paragraph and in connection with any hearing, the provisions of section 7607(a) of this title (relating to subpenas) shall apply."
 
@@ -680,6 +682,8 @@ Subsecs. (c) to (e). Pub. L. 91–604 added subsecs. (c) to (e).
 
 <b>1967</b>—Pub. L. 90–148 reenacted section without change.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1977 Amendment
 
 Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d) of Pub. L. 95–95, set out as a note under section 7401 of this title.
@@ -705,6 +709,8 @@ Pub. L. 95–95, title IV, §403(f), Aug. 7, 1977, 91 Stat. 793, provided that: 
 #### Study on Emission of Sulfur-Bearing Compounds From Motor Vehicles and Motor Vehicle and Aircraft Engines
 
 Pub. L. 95–95, title IV, §403(g), Aug. 7, 1977, 91 Stat. 793, provided that the Administrator of the Environmental Protection Agency conduct a study and report to the Congress by the date one year after Aug. 7, 1977, on the emission of sulfur-bearing compounds from motor vehicles and motor vehicle engines and aircraft engines.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13432. Cooperation Among Agencies in Protecting the Environment With Respect to Greenhouse Gas Emissions From Motor Vehicles, Nonroad Vehicles, and Nonroad Engines
 
@@ -767,6 +773,56 @@ Sec. 6. <i>General Provisions</i>. (a) This order shall be implemented in accord
 (b) This order shall not be construed to impair or otherwise affect the functions of the Director of the Office of Management and Budget relating to budget, administrative, and legislative proposals.
 
 (c) This order is not intended to, and does not, create any right, benefit or privilege, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, instrumentalities, or entities, its officers or employees, or any other person.
+
+#### Ex. Ord. No. 14037. Strengthening American Leadership in Clean Cars and Trucks
+
+Ex. Ord. No. 14037, Aug. 5, 2021, 86 F.R. 43583, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to promote the interests of American workers, businesses, consumers, and communities, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. America must lead the world on clean and efficient cars and trucks. That means bolstering our domestic market by setting a goal that 50 percent of all new passenger cars and light trucks sold in 2030 be zero-emission vehicles, including battery electric, plug-in hybrid electric, or fuel cell electric vehicles. My Administration will prioritize setting clear standards, expanding key infrastructure, spurring critical innovation, and investing in the American autoworker. This will allow us to boost jobs—with good pay and benefits—across the United States along the full supply chain for the automotive sector, from parts and equipment manufacturing to final assembly.
+
+It is the policy of my Administration to advance these objectives in order to improve our economy and public health, boost energy security, secure consumer savings, advance environmental justice, and address the climate crisis.
+
+Sec. 2. <i>Light-, Medium-, and Certain Heavy-Duty Vehicles Multi-Pollutant and Fuel Economy Standards for 2027 and Later.</i>
+
+(a) The Administrator of the Environmental Protection Agency (EPA) shall, as appropriate and consistent with applicable law, consider beginning work on a rulemaking under the Clean Air Act (42 U.S.C. 7401–7671q) to establish new multi-pollutant emissions standards, including for greenhouse gas emissions, for light- and medium-duty vehicles beginning with model year 2027 and extending through and including at least model year 2030.
+
+(b) The Secretary of Transportation shall, as appropriate and consistent with applicable law, consider beginning work on a rulemaking under the Energy Independence and Security Act of 2007 (Public Law 110–140, 121 Stat. 1492) (EISA) \[see Tables for classification\] to establish new fuel economy standards for passenger cars and light-duty trucks beginning with model year 2027 and extending through and including at least model year 2030.
+
+(c) The Secretary of Transportation shall, as appropriate and consistent with applicable law, consider beginning work on a rulemaking under EISA to establish new fuel efficiency standards for heavy-duty pickup trucks and vans beginning with model year 2028 and extending through and including at least model year 2030.
+
+Sec. 3. <i>Heavy-Duty Engines and Vehicles Multi-Pollutant Standards for 2027 and Later</i>. (a) The Administrator of the EPA shall, as appropriate and consistent with applicable law, consider beginning work on a rulemaking under the Clean Air Act to establish new oxides of nitrogen standards for heavy-duty engines and vehicles beginning with model year 2027 and extending through and including at least model year 2030.
+
+(b) The Administrator of the EPA shall, as appropriate and consistent with applicable law, and in consideration of the role that zero-emission heavy-duty vehicles might have in reducing emissions from certain market segments, consider updating the existing greenhouse gas emissions standards for heavy-duty engines and vehicles beginning with model year 2027 and extending through and including at least model year 2029.
+
+Sec. 4. <i>Medium- and Heavy-Duty Engines and Vehicles Greenhouse Gas and Fuel Efficiency Standards as Soon as 2030 and Later</i>. (a) The Administrator of the EPA shall, as appropriate and consistent with applicable law, consider beginning work on a rulemaking under the Clean Air Act to establish new greenhouse gas emissions standards for heavy-duty engines and vehicles to begin as soon as model year 2030.
+
+(b) The Secretary of Transportation shall, as appropriate and consistent with applicable law, consider beginning work on a rulemaking under EISA to establish new fuel efficiency standards for medium- and heavy-duty engines and vehicles to begin as soon as model year 2030.
+
+Sec. 5. <i>Rulemaking Targets</i>. (a) With respect to the rulemaking described in section 3(a) of this order, the Administrator of the EPA shall, as appropriate and consistent with applicable law, consider issuing a notice of proposed rulemaking by January 2022 and any final rulemaking by December 2022.
+
+(b) With respect to the other rulemakings described in section 2 and section 4 of this order, the Secretary of Transportation and the Administrator of the EPA shall, as appropriate and consistent with applicable law, consider issuing any final rulemakings no later than July 2024.
+
+Sec. 6. <i>Coordination and Engagement</i>. (a) The Secretary of Transportation and the Administrator of the EPA shall coordinate, as appropriate and consistent with applicable law, during the consideration of any rulemakings pursuant to this order.
+
+(b) The Secretary of Transportation and the Administrator of the EPA shall consult with the Secretaries of Commerce, Labor, and Energy on ways to achieve the goals laid out in section 1 of this order, to accelerate innovation and manufacturing in the automotive sector, to strengthen the domestic supply chain for that sector, and to grow jobs that provide good pay and benefits.
+
+(c) Given the significant expertise and historical leadership demonstrated by the State of California with respect to establishing emissions standards for light-, medium-, and heavy-duty vehicles, the Administrator of the EPA shall coordinate the agency's activities pursuant to sections 2 through 4 of this order, as appropriate and consistent with applicable law, with the State of California as well as other States that are leading the way in reducing vehicle emissions, including by adopting California's standards.
+
+(d) In carrying out any of the actions described in this order, the Secretary of Transportation and the Administrator of the EPA shall seek input from a diverse range of stakeholders, including representatives from labor unions, States, industry, environmental justice organizations, and public health experts.
+
+Sec. 7. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

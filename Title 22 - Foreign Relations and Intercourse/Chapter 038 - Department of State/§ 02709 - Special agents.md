@@ -10,7 +10,7 @@ Under such regulations as the Secretary of State may prescribe, special agents o
 
 &emsp;&emsp;(B) identity theft or document fraud affecting or relating to the programs, functions, or authorities of the Department of State; or
 
-&emsp;&emsp;(C) Federal offenses committed within the special maritime and territorial jurisdictionof the United States (as defined in section 7(9) of title 18), except as such jurisdiction relates to the premises of United States military missions and related residences;
+&emsp;&emsp;(C) Federal offenses committed within the special maritime and territorial jurisdiction of the United States (as defined in section 7(9) of title 18), except as such jurisdiction relates to the premises of United States military missions and related residences;
 
 &emsp;(2) obtain and execute search and arrest warrants, as well as obtain and serve subpoenas and summonses issued under the authority of the United States;
 

@@ -8,7 +8,7 @@ No State other than the home State of an insured may require any premium tax pay
 
 #### (1) In general
 
-&emsp;The States may enter into a compact or otherwise establish procedures to allocate among the States the premium taxes paid to an insured's home State described in subsection (a).
+&emsp;The States may enter into a compact or otherwise establish procedures to allocate amongthe States the premium taxes paid to an insured's home State described in subsection (a).
 
 #### (2) Effective date
 
@@ -31,6 +31,8 @@ No State other than the home State of an insured may require any premium tax pay
 To facilitate the payment of premium taxes among the States, an insured's home State may require surplus lines brokers and insureds who have independently procured insurance to annually file tax allocation reports with the insured's home State detailing the portion of the nonadmitted insurance policy premium or premiums attributable to properties, risks, or exposures located in each State. The filing of a nonadmitted insurance tax allocation report and the payment of tax may be made by a person authorized by the insured to act as its agent.
 
 (Pub. L. 111–203, title V, §521, July 21, 2010, 124 Stat. 1589.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

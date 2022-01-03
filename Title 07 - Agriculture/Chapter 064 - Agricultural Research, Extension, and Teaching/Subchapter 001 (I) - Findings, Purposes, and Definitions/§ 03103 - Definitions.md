@@ -270,6 +270,8 @@ Teaching and education.—The terms "teaching" and "education" mean formal class
 
 (Pub. L. 95–113, title XIV, §1404, Sept. 29, 1977, 91 Stat. 983; Pub. L. 97–98, title XIV, §1404, Dec. 22, 1981, 95 Stat. 1297; Pub. L. 99–198, title XIV, §1403, Dec. 23, 1985, 99 Stat. 1544; Pub. L. 101–624, title XVI, §1603, Nov. 28, 1990, 104 Stat. 3705; Pub. L. 102–237, title IV, §402(3), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–127, title VIII, §§802(b)(1), 815(b), 820(a), 853(b)(1), Apr. 4, 1996, 110 Stat. 1159, 1167, 1168, 1172; Pub. L. 105–185, title II, §§221, 226(c)(1), June 23, 1998, 112 Stat. 537, 543; Pub. L. 107–171, title VII, §7502(a), May 13, 2002, 116 Stat. 463; Pub. L. 110–234, title VII, §7101(a), May 22, 2008, 122 Stat. 1212; Pub. L. 110–246, §4(a), title VII, §7101(a), June 18, 2008, 122 Stat. 1664, 1973; Pub. L. 113–79, title VII, §§7101, 7111(b)(1), Feb. 7, 2014, 128 Stat. 862, 873; Pub. L. 115–334, title VII, §7102(a), Dec. 20, 2018, 132 Stat. 4779.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For definition of "this chapter", referred to in text, see note set out under section 3102 of this title.
@@ -292,7 +294,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2018</b>—Par. (14)(A). Pub. L. 115–334, §7102(a)(1), amended subpar. (A) generally. Prior to amendment, text read as follows: "The terms 'NLGCA Institution' and 'non-land-grant college of agriculture' mean a public college or university offering a baccalaureate or higher degree in the study of food and agricultural sciences."
+<b>2018</b>—Par. (14)(A). Pub. L. 115–334, §7102(a)(1), amended subpar. (A) generally. Prior to amendment, text readas follows: "The terms 'NLGCA Institution' and 'non-land-grant college of agriculture' mean a public college or university offering a baccalaureate or higher degree in the study of food and agricultural sciences."
 
 Par. (14)(C). Pub. L. 115–334, §7102(a)(2), inserted "any institution designated under" after "include" in introductory provisions, redesignated subcls. (I) to (III) of cl. (ii) as cls. (i) to (iii), respectively, and struck out former cl. (i), which read "Hispanic-serving agricultural colleges and universities; or", introductory provisions of former cl. (ii) which read "any institution designated under—", and subcl. (IV) of former cl. (ii) which read "Public Law 87–788 (commonly known as the 'McIntire-Stennis Cooperative Forestry Act') (16 U.S.C. 582a et seq.)."
 
@@ -370,7 +372,7 @@ Par. (17). Pub. L. 105–185, §221(c)(2), substituted "The term" for "the term"
 
 Par. (3). Pub. L. 104–127, §820(a), inserted "ornamental fish," after "reptile,".
 
-Par. (9). Pub. L. 104–127, §815(b), amended par. (9) generally. Prior to amendment, par. (9) read as follows:"the term 'Joint Council' means the Joint Council on Food and Agricultural Sciences;".
+Par. (9). Pub. L. 104–127, §815(b), amended par. (9) generally. Prior to amendment, par. (9) read as follows: "the term 'Joint Council' means the Joint Council on Food and Agricultural Sciences;".
 
 Pars. (16) to (18). Pub. L. 104–127, §853(b)(1), inserted "and" at end of par. (16), substituted a period for "; and" at end of par. (17), and struck out par. (18) which read as follows: "the term 'Technology Board' means the Agricultural Science and Technology Review Board established in section 3123a of this title."
 
@@ -382,13 +384,15 @@ Pars. (17), (18). Pub. L. 101–624, §1603(1), (3), added pars. (17) and (18).
 
 <b>1985</b>—Par. (8)(J). Pub. L. 99–198 added subpar. (J).
 
-<b>1981</b>—Par. (8). Pub. L. 97–98, §1404(1), substituted in provision preceding subpar. (A) "basic, applied, and developmental research, extension, and teaching activities in the food, agricultural, renewable natural resources, forestry, and physical and social sciences, in the broadest sense of these terms, including but not limited to, activities relating to" for "sciences relating to food and agriculture in the broadest sense, including the social, economic, and political considerations of", in subpar. (E) "including consumer affairs, food and nutrition, clothing and textiles, housing, and family well-being and financial management;" for "human nutrition, and family life; and", and in subpar. (F) "community welfare and development" for "and community development", and added subpars. (G) to (I).
+<b>1981</b>—Par. (8). Pub. L. 97–98, §1404(1), substituted in provision preceding subpar. (A) "basic, applied, and developmental research, extension, and teaching activities in the food, agricultural, renewable natural resources, forestry, and physical and social sciences, in the broadest sense of these terms, including but notlimited to, activities relating to" for "sciences relating to food and agriculture in the broadest sense, including the social, economic, and political considerations of", in subpar. (E) "including consumer affairs, food and nutrition, clothing and textiles, housing, and family well-being and financial management;" for "human nutrition, and family life; and", and in subpar. (F) "community welfare and development" for "and community development", and added subpars. (G) to (I).
 
 Par. (12). Pub. L. 97–98, §1404(2), struck out "except as provided in subchapter VII of this chapter," before "the term" and included within term "State" American Samoa, the Commonwealth of the Northern Marianas, and the Trust Territory of the Pacific Islands.
 
 Par. (14). Pub. L. 97–98, §1404(4), struck out reference to laboratory training, inserted reference to practicum experience and matters relating to formal classroom instruction, laboratory instruction, and practicum experience, and substituted provision that the teaching be conducted at colleges or universities offering baccalaureate or higher degrees for provision that the teaching be conducted at colleges and universities leading to a baccalaureate and other recognized degrees.
 
 Pars. (15), (16). Pub. L. 97–98, §1404(5), added pars. (15) and (16).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 
@@ -401,10 +405,6 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 #### Effective Date
 
 Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
-
-#### Termination of Trust Territory of the Pacific Islands
-
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
 #### Construction of 2002 Amendment
 
@@ -427,4 +427,10 @@ In general.—Not later than 90 days after the date of the enactment of this Act
 "(2)
 
 Revocation.—An NLGCA Institution that the Secretary determines under subparagraph (A) to be not in compliance shall have the designation of such institution revoked."
+
+#### <b>Executive Documents</b>
+
+#### Termination of Trust Territory of the Pacific Islands
+
+For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 

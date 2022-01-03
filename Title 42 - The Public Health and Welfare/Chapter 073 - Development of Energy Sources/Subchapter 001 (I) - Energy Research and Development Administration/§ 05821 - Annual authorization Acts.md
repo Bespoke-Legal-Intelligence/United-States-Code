@@ -68,7 +68,9 @@ When so specified in appropriation Acts, any moneys received by the Administrati
 
 When so specified in an appropriation Act, transfers of sums from the "Operating expenses" appropriation made pursuant to an annual authorization Act may be made to other agencies of the Government for the performance of the work for which the appropriation is made, and in such cases the sums so transferred may be merged with the appropriations to which they are transferred.
 
-(Pub. L. 93–438, title I, §111, as added Pub. L. 95–238, title II, §201, Feb. 25, 1978, 92 Stat. 56; amended Pub. L. 103–437, §15(c)(7), Nov. 2, 1994, 108 Stat. 4592.)
+(Pub. L. 93–438, title I, §111, as added Pub. L. 95–238, title II, §201, Feb. 25, 1978, 92 Stat. 56;amended Pub. L. 103–437, §15(c)(7), Nov. 2, 1994, 108 Stat. 4592.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -115,6 +117,8 @@ Pub. L. 88–332, §104, June 30, 1964, 78 Stat. 229.
 #### Amendments
 
 <b>1994</b>—Subsec. (b)(1). Pub. L. 103–437 substituted "Committee on Science, Space, and Technology" for "Committee on Science and Technology".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Nonapplicability of Title II of Pub. L. 95–238 to Any Authorization or Appropriation for Military Application of Nuclear Energy, Etc.; Definitions
 

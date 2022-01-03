@@ -10,7 +10,7 @@ The Congress finds that—
 
 &emsp;(3) this public ceremony was held in the same Kossuth Square where the first mass rally of the 1956 revolution was held;
 
-&emsp;(4) as a further symbol of Hungary's faithfulness to the legacy of the revolution of 1956, the declaration by the acting President was made from the same balcony from which Imre Nagy, the martyred Prime Minister of the revolutionary government of 1956, addressed the citizens of Budapest 33 years before;
+&emsp;(4) as a further symbol of Hungary's faithfulness to the legacy of the revolution of 1956, thedeclaration by the acting President was made from the same balcony from which Imre Nagy, the martyred Prime Minister of the revolutionary government of 1956, addressed the citizens of Budapest 33 years before;
 
 &emsp;(5) the heroic revolt and freedom fight of the Hungarian people in 1956 was an inspirational event, reminding a generation of Americans of the sacrifices people are willing to undertake as the price of liberty; and
 

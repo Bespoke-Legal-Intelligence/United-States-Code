@@ -12,9 +12,11 @@ The purposes of the Foundation are—
 
 &emsp;(2) to undertake and conduct such other activities as will further the conservation and management of the fish, wildlife, and plant resources of the United States, and its territories and possessions, for present and future generations of Americans; and
 
-&emsp;(3) to participate with, and otherwise assist, foreign governments, entities, and individualsin undertaking and conducting activities that will further the conservation and management of the fish, wildlife, and plant resources of other countries.
+&emsp;(3) to participate with, and otherwise assist, foreign governments, entities, and individuals in undertaking and conducting activities that will further the conservation and management of the fish, wildlife, and plant resources of other countries.
 
 (Pub. L. 98–244, §2, Mar. 26, 1984, 98 Stat. 107; Pub. L. 100–240, §1(a), Jan. 11, 1988, 101 Stat. 1785; Pub. L. 103–232, title I, §102, Apr. 11, 1994, 108 Stat. 336; Pub. L. 106–408, title II, §202, Nov. 1, 2000, 114 Stat. 1777.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -23,6 +25,8 @@ The purposes of the Foundation are—
 <b>1994</b>—Subsec. (b)(1). Pub. L. 103–232 inserted before semicolon at end "and the National Oceanic and Atmospheric Administration".
 
 <b>1988</b>—Subsec. (b)(3). Pub. L. 100–240 added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2008 Amendment
 

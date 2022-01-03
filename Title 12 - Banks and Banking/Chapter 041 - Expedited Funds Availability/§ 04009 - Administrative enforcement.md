@@ -26,7 +26,7 @@ Compliance with the requirements imposed under this chapter, including regulatio
 
 #### (2) Enforcement authority under other Acts
 
-&emsp;In addition to its powers under any provision of law specifically referred to in subsection (a)of this section, each of the agencies referred to in such subsection may exercise, for purposes of enforcing compliance with any requirement imposed under this chapter, any other authority conferred on it by law.
+&emsp;In addition to its powers under any provision of law specifically referred to in subsection (a) of this section, each of the agencies referred to in such subsection may exercise, for purposes of enforcing compliance with any requirement imposed under this chapter, any other authority conferred on it by law.
 
 #### (c) Enforcement by Board
 
@@ -60,7 +60,7 @@ The Federal Credit Union Act, referred to in subsec. (a)(3), is act June 26, 193
 
 <b>1991</b>—Subsec. (a). Pub. L. 102–242, §212(h)(2), inserted at end "The terms used in paragraph (1) that are not defined in this chapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act (12 U.S.C. 1813(s)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101)."
 
-Subsec. (a)(1). Pub. L. 102–242, §212(h)(1), added par. (1) and struck out former par. (1) which read as follows: "section 8 of the Federal Deposit Insurance Act in the case of—
+Subsec. (a)(1). Pub. L. 102–242, §212(h)(1), added par. (1) and struck out former par. (1) which read as follows:"section 8 of the Federal Deposit Insurance Act in the case of—
 
 &emsp;"(A) national banks, by the Comptroller of the Currency;
 

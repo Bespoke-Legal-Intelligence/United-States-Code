@@ -16,7 +16,7 @@ Grants for Presidential Centers of Historical Excellence.—
 
 &emsp;(1)
 
-In general.—The Archivist, with the recommendation of the Commission, may makegrants, on a competitive basis and in accordance with this subsection, to eligible entities to promote the historical preservation of, and public access to, historical records and documents relating to any former President who does not have a Presidential archival depository currently managed and maintained by the Federal Government pursuant to section 2112 (commonly known as the "Presidential Libraries Act of 1955").
+In general.—The Archivist, with the recommendation of the Commission, may make grants, on a competitive basis and in accordance with this subsection, to eligible entities to promote the historical preservation of, and public access to, historical records and documents relating to any former President who does not have a Presidential archival depository currently managed and maintained by the Federal Government pursuant to section 2112 (commonly known as the "Presidential Libraries Act of 1955").
 
 &emsp;(2)
 

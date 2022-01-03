@@ -12,7 +12,7 @@ The designated payor of each plan shall pay the premiums imposed by the corporat
 
 #### (c) Civil action to recover premium penalty and interest
 
-If any designated payor fails to pay a premium when due, the corporation is authorized to bring a civil action in any district court of the United States within the jurisdiction of which the plan assets are located, the plan is administered, or in which a defendant resides or is found for therecovery of the amount of the premium penalty, and interest, and process may be served in any other district. The district courts of the United States shall have jurisdiction over actions brought under this subsection by the corporation without regard to the amount in controversy.
+If any designated payor fails to pay a premium when due, the corporation is authorized to bring a civil action in any district court of the United States within the jurisdiction of which the plan assets are located, the plan is administered, or in which a defendant resides or is found for the recovery of the amount of the premium penalty, and interest, and process may be served in any other district. The district courts of the United States shall have jurisdiction over actions brought under this subsection by the corporation without regard to the amount in controversy.
 
 #### (d) Basic benefits guarantee not stopped by designated payor's failure to pay premiums when due
 
@@ -28,7 +28,7 @@ The corporation shall not cease to guarantee basic benefits on account of the fa
 
 (2) If the contributing sponsor of any single-employer plan is a member of a controlled group, each member of such group shall be jointly and severally liable for any premiums required to be paid by such contributing sponsor. For purposes of the preceding sentence, the term "controlled group" means any group treated as a single employer under subsection (b), (c), (m), or (o) of section 414 of title 26.
 
-(Pub. L. 93–406, title IV, §4007, Sept. 2, 1974, 88 Stat. 1013; Pub. L. 96–364, title IV, §§402(a)(3), 403(b), Sept. 26, 1980, 94 Stat. 1298, 1300; Pub. L. 100–203, title IX, §9331(c), Dec. 22, 1987, 101 Stat. 1330–368; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445; Pub. L. 109–280, title IV, §406(a), Aug. 17, 2006, 120 Stat. 929.)
+(Pub. L. 93–406, title IV, §4007, Sept. 2, 1974, 88 Stat. 1013; Pub. L. 96–364, title IV, §§402(a)(3),403(b), Sept. 26, 1980, 94 Stat. 1298, 1300; Pub. L. 100–203, title IX, §9331(c), Dec. 22, 1987, 101 Stat. 1330–368; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445; Pub. L. 109–280, title IV, §406(a), Aug. 17, 2006, 120 Stat. 929.)
 
 #### <b>Editorial Notes</b>
 

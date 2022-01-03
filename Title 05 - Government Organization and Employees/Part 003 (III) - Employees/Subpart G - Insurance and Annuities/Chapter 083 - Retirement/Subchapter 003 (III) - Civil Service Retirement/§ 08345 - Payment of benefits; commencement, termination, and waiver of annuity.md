@@ -162,7 +162,7 @@ Subsec. (h). Pub. L. 94–183 added subsec. (h).
 
 #### Effective Date of 2020 Amendment
 
-Amendment by Pub. L. 116–126 effective on Mar. 18, 2020, and applicable on and after the effective date of regulations promulgated under section 3(b)(1) of Pub. L. 116–126, see sections 4 and 3(b) of Pub. L. 116–126, set out respectively as an Effective Date of 2020 Amendmentnote and a Regulations note under section 8331 of this title.
+Amendment by Pub. L. 116–126 effective on Mar. 18, 2020, and applicable on and after the effective date of regulations promulgated under section 3(b)(1) of Pub. L. 116–126, see sections 4 and 3(b) of Pub. L. 116–126, set outrespectively as an Effective Date of 2020 Amendment note and a Regulations note under section 8331 of this title.
 
 #### Effective Date of 1994 Amendment
 

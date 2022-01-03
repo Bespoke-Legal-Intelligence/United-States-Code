@@ -18,7 +18,7 @@ Limitation on obligation of funds before definitization.—
 
 &emsp;&emsp;(A)
 
-50 percent limitation.—Except as provided in subparagraph (B), the contracting officer for an undefinitized contractual action may not obligate with respect to such contractual action an amount that is equal to more than 50 percent of the negotiated overall ceiling price until the contractual terms, specifications, and price are definitized for such contractual action.
+50 percent limitation.—Except as provided in subparagraph (B), the contracting officer for an undefinitized contractual action may not obligate with respect to suchcontractual action an amount that is equal to more than 50 percent of the negotiated overall ceiling price until the contractual terms, specifications, and price are definitized for such contractual action.
 
 &emsp;&emsp;(B)
 
@@ -60,9 +60,11 @@ Waiver authority.—The requirement under paragraph (1) may be waived in accorda
 
 (Added and amended Pub. L. 116–283, div. A, title XVIII, §1819(a), (c), Jan. 1, 2021, 134 Stat. 4189.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
-The text of subsec. (b) of section 2326 of this title, which was transferred to this section, redesignated as subsec. (a), and amended by Pub. L. 116–283, §1819(c)(1), (2), was based on Pub. L. 99–500, §101(c) \[title X,§908(d)(1)(A)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–140, and Pub. L. 99–591, §101(c) \[title X, §908(d)(1)(A)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–140; Pub. L. 99–661, div. A, title IX, formerly title IV, §908(d)(1)(A), Nov. 14, 1986, 100 Stat. 3920, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 103–355, title I, §1505(a), (b), Oct. 13, 1994, 108 Stat. 3298; Pub. L. 105–85, div. A, title VIII, §803(a), Nov. 18, 1997, 111 Stat. 1831; Pub. L. 115–91, div. A, title VIII, §815(b), Dec. 12, 2017, 131 Stat. 1462. Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical subsections.
+The text of subsec. (b) of section 2326 of this title, which was transferred to this section, redesignated as subsec. (a), and amended by Pub. L. 116–283, §1819(c)(1), (2), was based on Pub. L. 99–500, §101(c) \[title X, §908(d)(1)(A)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–140, and Pub. L. 99–591, §101(c) \[title X, §908(d)(1)(A)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–140; Pub. L. 99–661, div. A, title IX, formerly title IV, §908(d)(1)(A), Nov. 14, 1986, 100 Stat. 3920, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 103–355, title I, §1505(a), (b), Oct. 13, 1994, 108 Stat. 3298; Pub. L. 105–85, div. A, title VIII, §803(a), Nov. 18, 1997, 111 Stat. 1831; Pub. L. 115–91, div. A, title VIII, §815(b), Dec. 12, 2017, 131 Stat. 1462. Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical subsections.
 
 The text of subsec. (c) of section 2326 of this title, which was transferred to this section, redesignated as subsec. (b), and amended by Pub. L. 116–283, §1819(c)(1), (3), was based on Pub. L. 115–91, div. A, title VIII, §815(a)(2), Dec. 12, 2017, 131 Stat. 1462.
 
@@ -92,7 +94,23 @@ Subsec. (c)(1). Pub. L. 116–283, §1819(c)(4)(A), (B), inserted heading and su
 
 Subsec. (c)(2). Pub. L. 116–283, §1819(c)(4)(C), (D), inserted heading and substituted "subsection (a)(3)" for "subsection (b)(4)".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
+Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an EffectiveDate of 2021 Amendment note preceding section 3001 of this title.
+
+#### Relaxation of Undefinitized Contract Action Limitations and Restrictions Related to National Emergency for Coronavirus Disease 2019
+
+Pub. L. 116–136, div. B, title III, §13004, Mar. 27, 2020, 134 Stat. 522, provided that:
+
+"(a) Section 2326(b)(3) of title 10, United States Code \[now 10 U.S.C. 3372(a)(2)(B)\], shall not apply to any undefinitized contract action of the Department of Defense related to the national emergency for the Coronavirus Disease 2019 (COVID–19).
+
+"(b) In this section, the term 'undefinitized contract action' has the meaning given that term in section 2326(j)(6) of title 10, United States Code \[probably means section 2326(j)(1) of title 10, now 10 U.S.C. 3377(b)(1), which defines "undefinitized contractual action"\]."
+
+Pub. L. 116–136, div. B, title III, §13005, Mar. 27, 2020, 134 Stat. 522, provided that:
+
+"(a) The head of an agency may waive the provisions of section 2326(b) of title 10, United States Code \[now 10 U.S.C. 3372(a)\], with respect to a contract of such agency if the head of the agency determines that the waiver is necessary due to the national emergency for the Coronavirus Disease 2019 (COVID–19).
+
+"(b) In this section, the term 'head of an agency' has the meaning given that term in section 2302(2) \[probably means section 2302(1); now 10 U.S.C. 3004\] of title 10, United States Code."
 

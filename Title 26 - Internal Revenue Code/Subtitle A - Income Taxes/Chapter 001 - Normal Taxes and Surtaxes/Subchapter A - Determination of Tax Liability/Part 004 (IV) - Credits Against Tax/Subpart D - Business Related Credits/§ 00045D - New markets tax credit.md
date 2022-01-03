@@ -150,7 +150,7 @@ For purposes of this section—
 
 #### (2) Targeted populations
 
-&emsp;The Secretary shall prescribe regulations under which 1 or more targeted populations (within the meaning of section 103(20) of the Riegle Community Development and Regulatory Improvement Act of 1994 (12 U.S.C. 4702(20))) may be treated as low-income communities. Such regulations shall include procedures for determining which entities arequalified active low-income community businesses with respect to such populations.
+&emsp;The Secretary shall prescribe regulations under which 1 or more targeted populations (within the meaning of section 103(20) of the Riegle Community Development and Regulatory Improvement Act of 1994 (12 U.S.C. 4702(20))) may be treated as low-income communities. Such regulations shall include procedures for determining which entities are qualified active low-income community businesses with respect to such populations.
 
 #### (3) Areas not within census tracts
 
@@ -206,7 +206,7 @@ For purposes of this section—
 
 #### (3) Carryover of unused limitation
 
-&emsp;If the new markets tax credit limitation for any calendar year exceeds the aggregate amount allocated under paragraph (2) for such year, such limitation for the succeeding calendar year shall be increased by the amount of such excess. No amount may be carried under the preceding sentence to any calendar year after 2030.
+&emsp;If the new markets tax credit limitation for any calendar year exceeds the aggregateamount allocated under paragraph (2) for such year, such limitation for the succeeding calendar year shall be increased by the amount of such excess. No amount may be carried under the preceding sentence to any calendar year after 2030.
 
 #### (g) Recapture of credit in certain cases
 
@@ -242,7 +242,7 @@ For purposes of this section—
 
 #### (B) No credits against tax
 
-&emsp;&emsp;Any increase in tax under this subsection shall not be treated as a tax imposed by thischapter for purposes of determining the amount of any credit under this chapter or for purposes of section 55.
+&emsp;&emsp;Any increase in tax under this subsection shall not be treated as a tax imposed by this chapter for purposes of determining the amount of any credit under this chapter or for purposes of section 55.
 
 #### (h) Basis reduction
 
@@ -265,6 +265,8 @@ The Secretary shall prescribe such regulations as may be appropriate to carry ou
 &emsp;(6) which ensure that non-metropolitan counties receive a proportional allocation of qualified equity investments.
 
 (Added Pub. L. 106–554, §1(a)(7) \[title I, §121(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–605; amended Pub. L. 108–357, title II, §§221(a), (b), 223(a), Oct. 22, 2004, 118 Stat. 1431, 1432; Pub. L. 109–432, div. A, title I, §102(a), (b), Dec. 20, 2006, 120 Stat. 2934; Pub. L. 110–343, div. C, title III, §302, Oct. 3, 2008, 122 Stat. 3866; Pub. L. 111–5, div. B, title I, §1403(a), Feb. 17, 2009, 123 Stat. 352; Pub. L. 111–312, title VII, §733(a), (b), Dec. 17, 2010, 124 Stat. 3317, 3318; Pub. L. 112–240, title III, §305(a), (b), Jan. 2, 2013, 126 Stat. 2329; Pub. L. 113–295, div. A, title I, §115(a), (b), Dec. 19, 2014, 128 Stat. 4014; Pub. L. 114–113, div. Q, title I, §141(a), (b), Dec. 18, 2015, 129 Stat. 3056; Pub. L. 115–141, div. U, title IV, §401(a)(18), (d)(4)(B)(iii), Mar. 23, 2018, 132 Stat. 1185, 1209; Pub. L. 116–94, div. Q, title I, §141(a), (b), Dec. 20, 2019, 133 Stat. 3234; Pub. L. 116–260, div. EE, title I, §112(a), (b), Dec. 27, 2020, 134 Stat. 3050.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -315,6 +317,8 @@ Subsec. (i)(6). Pub. L. 109–432, §102(b), added par. (6).
 Subsec. (e)(4). Pub. L. 108–357, §221(b), added par. (4).
 
 Subsec. (e)(5). Pub. L. 108–357, §223(a), added par. (5).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 

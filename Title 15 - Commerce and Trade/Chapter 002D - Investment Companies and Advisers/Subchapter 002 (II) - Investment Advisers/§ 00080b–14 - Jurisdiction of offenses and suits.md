@@ -14,6 +14,8 @@ The district courts of the United States and the United States courts of any Ter
 
 (Aug. 22, 1940, ch. 686, title II, §214, 54 Stat. 856; Pub. L. 100–181, title VII, §707, Dec. 4, 1987, 101 Stat. 1264; Pub. L. 101–429, title IV, §403, Oct. 15, 1990, 104 Stat. 951; Pub. L. 111–203, title IX, §§929E(d), 929P(b)(3), July 21, 2010, 124 Stat. 1853, 1865.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Rules of Civil Procedure, referred to in subsec. (a), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
@@ -28,6 +30,8 @@ Pub. L. 111–203, §929E(d), inserted "In any action or proceeding instituted b
 
 <b>1987</b>—Pub. L. 100–181 substituted "sections 1254, 1291, 1292, and 1294 of title 28" for "sections 128 and 240 of the Judicial Code, as amended, and section 7, as amended, of the Act entitled 'An Act to establish a court of appeals for the District of Columbia', approved February 9, 1893".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
@@ -36,7 +40,9 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 Amendment by Pub. L. 101–429 effective Oct. 15, 1990, with provisions relating to civil penalties and accounting and disgorgement, see section 1(c)(1), (2) of Pub. L. 101–429, set out in a note under section 77g of this title.
 
+#### <b>Executive Documents</b>
+
 #### Transfer of Functions
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2,eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 

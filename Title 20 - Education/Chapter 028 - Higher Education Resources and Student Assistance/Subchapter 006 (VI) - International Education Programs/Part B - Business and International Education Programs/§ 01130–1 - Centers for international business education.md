@@ -44,7 +44,7 @@ Each grant made under this section may be used to pay the Federal share of the c
 
 &emsp;&emsp;(B) interdisciplinary programs which provide business, finance, management, communications systems, and other professional training for foreign language and international studies faculty and degree candidates;
 
-&emsp;&emsp;(C) programs, such as intensive language programs, available to members of the business community and other professionals which are designed to develop or enhance their international skills, awareness, and expertise;
+&emsp;&emsp;(C) programs, such as intensive language programs, available to members of the business community and other professionals which are designed to develop or enhancetheir international skills, awareness, and expertise;
 
 &emsp;&emsp;(D) collaborative programs, activities, or research involving other institutions of higher education, local educational agencies, professional associations, businesses, firms, or consortia thereof, to promote the development of international skills, awareness, and expertise among current and prospective members of the business community and other professionals;
 
@@ -136,6 +136,8 @@ Grants under this section shall be made on such conditions as the Secretary dete
 
 (Pub. L. 89–329, title VI, §612, as added Pub. L. 100–418, title VI, §6261(2), Aug. 23, 1988, 102 Stat. 1520; amended Pub. L. 102–325, title VI, §601, July 23, 1992, 106 Stat. 729; Pub. L. 105–244, title VI, §602(b), Oct. 7, 1998, 112 Stat. 1783; Pub. L. 110–315, title VI, §§610, 611(a), Aug. 14, 2008, 122 Stat. 3338, 3339.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 612 of Pub. L. 89–329 was renumbered section 613 and is classified to section 1130a of this title.
@@ -168,7 +170,9 @@ Subsec. (c)(2)(C). Pub. L. 105–244, §602(b)(1)(B), inserted "foreign language
 
 Subsec. (d)(2)(G). Pub. L. 105–244, §602(b)(2), inserted ", such as a representative of a community college in the region served by the center" before the period.
 
-<b>1992</b>—Pub. L. 102–325 amended section generally, substituting present provisions for provisions relating togrants for establishing and operating international business education centers in subsec. (a), costs to be covered by Federal funds in subsec. (b), scope of programs and activities in subsec. (c), center advisory council in subsec. (d), duration of grants and allotment of Federal and non-Federal shares in subsec. (e), and conditions for grants in subsec. (f).
+<b>1992</b>—Pub. L. 102–325 amended section generally, substituting present provisions for provisions relating to grants for establishing and operating international business education centers in subsec. (a), costs to be covered by Federal funds in subsec. (b), scope of programs and activities in subsec. (c), center advisory council in subsec. (d), duration of grants and allotment of Federal and non-Federal shares in subsec. (e), and conditions for grants in subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

@@ -16,6 +16,8 @@ Covered Officers.—This section applies to the following officers:
 
 (Added Pub. L. 109–163, div. A, title V, §509(c)(1), Jan. 6, 2006, 119 Stat. 3230; amended Pub. L. 116–283, div. A, title IX, §924(b)(3)(U), Jan. 1, 2021, 134 Stat. 3821.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Subsec. (a). Pub. L. 116–283 substituted "Marine Corps, or Space Force" for "or Marine Corps".

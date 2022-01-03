@@ -20,6 +20,8 @@ Aug. 21, 1941, ch. 384, §4 (less 1st sentence), 55 Stat. 653; May 29, 1954, ch.
 
 10:593 (2d sentence) is omitted as executed. The words "within each warrant officer grade" are inserted for clarity, since section 745 of this title covers rank between warrant officers in different warrant officer grades.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior sections 7225 to 7228 were renumbered sections 8625 to 8628 of this title, respectively.
@@ -27,6 +29,8 @@ Prior sections 7225 to 7228 were renumbered sections 8625 to 8628 of this title,
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 3575 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

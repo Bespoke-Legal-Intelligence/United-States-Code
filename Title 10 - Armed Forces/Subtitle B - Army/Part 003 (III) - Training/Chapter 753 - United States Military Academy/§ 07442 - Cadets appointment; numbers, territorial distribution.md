@@ -10,7 +10,7 @@
 
 &emsp;(4) Five cadets from each congressional district, nominated by the Representative from the district.
 
-&emsp;(5) Five cadets from the District of Columbia, nominated by the Delegate to the Houseof Representatives from the District of Columbia.
+&emsp;(5) Five cadets from the District of Columbia, nominated by the Delegate to the House of Representatives from the District of Columbia.
 
 &emsp;(6) Four cadets from the Virgin Islands, nominated by the Delegate in Congress from the Virgin Islands.
 
@@ -52,7 +52,7 @@
 
 (e) If the annual quota of cadets under subsection (b)(1), (2), (3) is not filled, the Secretary may fill the vacancies by nominating for appointment other candidates from any of these sources who were found best qualified on examination for admission and not otherwise nominated.
 
-(f) Each candidate for admission nominated under paragraphs (3) through (9) of subsection (a) must be domiciled in the State, or in the congressional district, from which he is nominated, or in the District of Columbia, Puerto Rico, American Samoa, Guam, or the Virgin Islands, if nominated from one of those places.
+(f) Each candidate for admission nominated under paragraphs (3) through (9) of subsection (a) must be domiciled in the State, or in thecongressional district, from which he is nominated, or in the District of Columbia, Puerto Rico, American Samoa, Guam, or the Virgin Islands, if nominated from one of those places.
 
 (g) The Secretary of the Army may limit the number of cadets authorized to be appointed under this section to the number that can be adequately accommodated at the Academy, as determined by the Secretary after consulting with the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, subject to the following:
 
@@ -78,7 +78,7 @@
 
 &emsp;(4) The limitations provided for in this subsection do not affect the operation of subsection (e).
 
-(h) The Superintendent shall furnish to any Member of Congress, upon the written request ofsuch Member, the name of the Congressman or other nominating authority responsible for the nomination of any named or identified person for appointment to the Academy.
+(h) The Superintendent shall furnish to any Member of Congress, upon the written request of such Member, the name of the Congressman or other nominating authority responsible for the nomination of any named or identified person for appointment to the Academy.
 
 (i) For purposes of the limitation in subsection (a) establishing the aggregate authorized strength of the Corps of Cadets, the Secretary of the Army may for any year permit a variance in that limitation by not more than one percent. In applying that limitation, and any such variance, the last day of an academic year shall be considered to be graduation day.
 
@@ -164,13 +164,15 @@ In subsection (b), the words "from whatever source of admission", in 10:1092a, a
 
 In subsection (c), the first 15 words are substituted for the words "all of which cadets shall be". The words "domiciled in" are substituted for the words "actual residents of" to conform to opinions of the Judge Advocate General of the Army (R. 29, 83; J.A.G. 351.11, Feb. 10, 1925).
 
-In subsection (e)(4), the words "armed forces" are substituted for the description of the land or naval forces. The date February 1, 1955, fixed by Proclamation No. 3080 (Jan. 7, 1955; 20 F.R. 173), is substituted for the words "such date as shall thereafter be determined by Presidential proclamation or concurrent resolution of the Congress under section 745 of title 38". The words"including male and female members of \* \* \* and all components thereof" are omitted as surplusage.
+In subsection (e)(4), the words "armed forces" are substituted for the description of the land or naval forces. The date February 1, 1955, fixed by Proclamation No. 3080 (Jan. 7, 1955; 20 F.R. 173), is substituted for the words "such date as shall thereafter be determined by Presidential proclamation or concurrent resolution of the Congress under section 745 of title 38". The words "including male and female members of \* \* \* and all components thereof" are omitted as surplusage.
 
 In subsection (f), the words "whether a death is service-connected" are substituted for the words "as to the service connection of the cause of death".
 
 In subsection (g), the words "(National Guard of the United States, the Air National Guard of the United States, the Army Reserve, and the Air Force Reserve)", "Regular components", "by members of the National Guard of the United States and the Air National Guard of the United States" and "established at the competitive entrance examination" are omitted as surplusage. The word "grades" is substituted for the words "proficiency averages".
 
 In subsection (h), the words "or shall hereafter be" are omitted as surplusage.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -254,7 +256,7 @@ Subsec. (h). Pub. L. 96–513 substituted "The" for "Effective beginning with no
 
 <b>1975</b>—Subsecs. (a)(1), (8), (b)(1), (c). Pub. L. 94–106 substituted "children" for "sons" wherever appearing.
 
-<b>1973</b>—Subsec. (a)(6). Pub. L. 93–171, §1(1), substituted "One cadet from the Virgin Islands, nominated by theDelegate in Congress from the Virgin Islands" for "Five cadets from each Territory, nominated by the Delegate in Congress from the Territory".
+<b>1973</b>—Subsec. (a)(6). Pub. L. 93–171, §1(1), substituted "One cadet from the Virgin Islands, nominated by the Delegate in Congress from the Virgin Islands" for "Five cadets from each Territory, nominated by the Delegate in Congress from the Territory".
 
 Subsec. (a)(9). Pub. L. 93–171, §1(2), struck out reference to Guam and Virgin Islands.
 
@@ -285,6 +287,8 @@ Subsec. (b)(3). Pub. L. 89–650, §1(4), substituted "reserve components of the
 Subsec. (c). Pub. L. 87–633, §1(2), inserted references to American Samoa, Guam, and the Virgin Islands, and substituted "clauses (1)–(5) and (10)" for "clauses (1)–(5)."
 
 <b>1958</b>—Subsec. (c). Pub. L. 85–861 inserted a comma after "district".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

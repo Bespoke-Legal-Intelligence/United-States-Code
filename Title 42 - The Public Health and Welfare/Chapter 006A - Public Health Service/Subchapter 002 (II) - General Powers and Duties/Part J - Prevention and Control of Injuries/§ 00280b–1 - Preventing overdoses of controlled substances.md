@@ -70,7 +70,7 @@
 
 &emsp;&emsp;(C) award grants to States, localities, and Indian tribes for purposes of carrying out such activity; and
 
-&emsp;&emsp;(D) coordinate with the Assistant Secretary for Mental Health and Substance Use to collect data pursuant to section 290aa–4(d)(1)(A) of this title (relating to the number of individuals admitted to emergency departments as a result of the abuse of alcohol or other drugs).
+&emsp;&emsp;(D) coordinate with the Assistant Secretary for Mental Health and Substance Useto collect data pursuant to section 290aa–4(d)(1)(A) of this title (relating to the number of individuals admitted to emergency departments as a result of the abuse of alcohol or other drugs).
 
 #### (2) Controlled substance overdose data collection and analysis activities
 
@@ -105,6 +105,8 @@ In this section:
 For purposes of carrying out this section, section 280g–3 of this title, and section 290bb–25g of this title, there is authorized to be appropriated $496,000,000 for each of fiscal years 2019 through 2023.
 
 (July 1, 1944, ch. 373, title III, §392A, as added Pub. L. 115–271, title VII, §7161(a), Oct. 24, 2018, 132 Stat. 4059.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

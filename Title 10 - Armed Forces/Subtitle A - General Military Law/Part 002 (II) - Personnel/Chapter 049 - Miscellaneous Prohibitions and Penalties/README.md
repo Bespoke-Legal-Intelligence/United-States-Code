@@ -22,6 +22,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Pub. L. 116–92, div. A, title IX, §921(b), Dec. 20, 2019, 133 Stat. 1561, added item 988.
@@ -84,6 +86,28 @@ Pub. L. 95–485, title VIII, §815(b), Oct. 20, 1978, 92 Stat. 1626, added item
 
 <b>1958</b>—Pub. L. 85–861, §1(20), Sept. 2, 1958, 72 Stat. 1442, added items 971 and 972.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Enhancement of Recusal for Conflicts of Personal Interest Requirements for Department of Defense Officers and Employees
+
+Pub. L. 117–81, div. A, title XI, §1117, Dec. 27, 2021, 135 Stat. 1955, provided that:
+
+"(a)
+
+In General.—Except as provided in subsection (b), in addition to the prohibition set forth in section 208 of title 18, United States Code, an officer or employee of the Department of Defense may not knowingly participate personally and substantially in any particular matter involving specific parties where any of the following organizations is a party or represents a party to the matter:
+
+&emsp;"(1) Any organization, including a trade organization, for which the officer or employee has served as an employee, officer, director, trustee, or general partner in the past 2 years.
+
+&emsp;"(2) Any organization with which the officer or employee is seeking employment.
+
+"(b)
+
+Authorization.—An agency designee may authorize the officer or employee to participate in a matter described in paragraph (a) based on a determination, made in light of all relevant circumstances, that the interest of the Government in the officer or employee's participation outweighs the concern that a reasonable person may question the integrity of the agency's programs and operations.
+
+"(c)
+
+Construction.—Nothing in this section shall be construed to terminate, alter, or make inapplicable any other prohibition or limitation in law or regulation on the participation of officers or employees of the Department of Defense in particular matters having an effect on their or related financial or other personal interests."
+
 #### Prohibition on Lobbying Activities With Respect to the Department of Defense by Certain Officers of the Armed Forces and Civilian Employees of the Department Following Separation From Military Service or Employment With the Department
 
 Pub. L. 115–91, div. A, title X, §1045, Dec. 12, 2017, 131 Stat. 1555, provided that:
@@ -102,7 +126,7 @@ Covered individuals.—An individual described in this paragraph is the followin
 
 &emsp;&emsp;"(A) An officer of the Armed Forces in grade O–9 or higher at the time of retirement or separation from the Armed Forces.
 
-&emsp;&emsp;"(B) A civilian employee of the Department of Defense who had a civilian grade equivalent to a military grade specified in subparagraph (A) at the time of the employee's retirement or separation from service with the Department.
+&emsp;&emsp;"(B) A civilian employee of the Department of Defense who had a civilian grade equivalent to amilitary grade specified in subparagraph (A) at the time of the employee's retirement or separation from service with the Department.
 
 "(b)
 

@@ -26,11 +26,15 @@ Nov. 5, 1990, Pub. L. 101–508, §9308(f), 104 Stat. 1388–383.
 
 This amends 49:47532 to correct an erroneous cross-reference.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Pub. L. 112–95 inserted "or 47534" after "47528–47531".
 
 <b>1994</b>—Pub. L. 103–429 inserted "any of" before "sections".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

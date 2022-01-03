@@ -54,7 +54,7 @@ Limitation.—The Secretary may not conduct an enforcement proceeding under subs
 
 (g)
 
-Technology Development Grants.—The Secretary may make grants to any organization or entity (not including for-profit entities) for the development of technologies that will facilitate the prevention of pipeline damage causedby demolition, excavation, tunneling, or construction activities, with emphasis on wireless and global positioning technologies having potential for use in connection with notification systems and underground facility locating and marking services. Funds provided under this subsection may not be used for lobbying or in direct support of litigation. The Secretary may also support such technology development through cooperative agreements with trade associations, academic institutions, and other organizations.
+Technology Development Grants.—The Secretary may make grants to any organization or entity (not including for-profit entities) for the development of technologies that will facilitate the prevention of pipeline damage caused by demolition, excavation, tunneling, or construction activities, with emphasis on wireless and global positioning technologies having potential for use in connection with notification systems and underground facility locating and marking services. Funds provided under this subsection may not be used for lobbying or in direct support of litigation. The Secretary may also support such technology development through cooperative agreements with trade associations, academic institutions, and other organizations.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1318; Pub. L. 104–287, §5(91), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 104–304, §20(d), Oct. 12, 1996, 110 Stat. 3804; Pub. L. 107–355, §§3(b), 21(2), Dec. 17, 2002, 116 Stat. 2986, 3010; Pub. L. 109–468, §2(a)(1), (e), Dec. 29, 2006, 120 Stat. 3486, 3489.)
 
@@ -106,6 +106,8 @@ In subsection (d), before clause (1), the words "When apportioning the amount ap
 
 This amends 49:60114(a)(9) to clarify the restatement of 49 App.:1687(b) by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1319), because the requirement for substantially the same sanctions was not intended to include criminal penalties.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsecs. (d) to (g). Pub. L. 109–468 added subsecs. (d) to (g).
@@ -133,6 +135,8 @@ Apportionment.—When apportioning the amount appropriated to carry out section 
 &emsp;"(1) shall consider whether a State has adopted or is seeking adoption of a one-call notification system under this section; and
 
 &emsp;"(2) shall withhold part of a payment under section 60107 of this title when the Secretary decides a State has not adopted, or is not seeking adoption of, a one-call notification system."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

@@ -30,6 +30,8 @@ The Institute may provide financial assistance, in the form of summer stipends d
 
 (Pub. L. 89–329, title VI, §626, as added Pub. L. 110–315, title VI, §617(2), Aug. 14, 2008, 122 Stat. 3341.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 626 of Pub. L. 89–329 was renumbered section 627, and is classified to section 1131d of this title.

@@ -40,7 +40,7 @@ The Administrator shall provide Federal leadership necessary to prepare for, pro
 
 &emsp;&emsp;(B) preparedness, by planning, training, and building the emergency management profession to prepare effectively for, mitigate against, respond to, and recover from any hazard;
 
-&emsp;&emsp;(C) response, by conducting emergency operations to save lives and property throughpositioning emergency equipment, personnel, and supplies, through evacuating potential victims, through providing food, water, shelter, and medical care to those in need, and through restoring critical public services; and
+&emsp;&emsp;(C) response, by conducting emergency operations to save lives and property through positioning emergency equipment, personnel, and supplies, through evacuating potential victims, through providing food, water, shelter, and medical care to those in need, and through restoring critical public services; and
 
 &emsp;&emsp;(D) recovery, by rebuilding communities so individuals, businesses, and governments can function on their own, return to normal life, and protect against future hazards;
 
@@ -136,7 +136,7 @@ Section 1. <i>Policy</i>. To ensure that the Federal Government appropriately su
 
 Sec. 2. <i>Establishment of Council</i>. (a) There is hereby established, within the Department of Homeland Security for administrative purposes, the Interagency Coordinating Council on Emergency Preparedness and Individuals with Disabilities (the "Council"). The Council shall consist exclusively of the following members or their designees:
 
-&emsp;(i) the heads of executive departments, the Administrator of the Environmental Protection Agency, the Administrator of General Services, the Director of the Office of Personnel Management, and the Commissioner of Social Security; and
+&emsp;(i) the heads of executive departments, the Administrator of the Environmental Protection Agency, theAdministrator of General Services, the Director of the Office of Personnel Management, and the Commissioner of Social Security; and
 
 &emsp;(ii) any other agency head as the Secretary of Homeland Security may, with the concurrence of the agency head, designate.
 

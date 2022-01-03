@@ -38,6 +38,8 @@ Nothing in this section shall increase or decrease the taxes imposed by this cha
 
 (Added Pub. L. 87–834, §8(c), Oct. 16, 1962, 76 Stat. 996, §826; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title III, §301(b)(10), Nov. 6, 1978, 92 Stat. 2822; renumbered §835 and amended Pub. L. 99–514, title X, §1024(a)(3), (c)(9), Oct. 22, 1986, 100 Stat. 2405, 2407; Pub. L. 100–647, title I, §1010(f)(2), (3), Nov. 10, 1988, 102 Stat. 3454.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–647, §1010(f)(2), substituted "section 831(a)" for "section 821(a)".
@@ -55,6 +57,8 @@ Subsecs. (f) to (h). Pub. L. 99–514, §1024(c)(9)(A), redesignated subsecs. (f
 <b>1978</b>—Subsec. (c)(1). Pub. L. 95–600 substituted "the tax imposed by section 11" for "the taxes imposed by section 11(b) and (c)".
 
 <b>1976</b>—Subsecs. (a), (b), (c)(2), (e), (g). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

@@ -10,9 +10,13 @@ The Board shall, for a class of rail carriers providing transportation subject t
 
 (Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 834.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 11143, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1426, related to depreciation charges, prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

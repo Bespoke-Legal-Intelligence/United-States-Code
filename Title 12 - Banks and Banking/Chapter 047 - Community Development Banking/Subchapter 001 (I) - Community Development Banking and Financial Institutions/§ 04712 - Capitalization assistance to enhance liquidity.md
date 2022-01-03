@@ -22,7 +22,7 @@
 
 #### (3) Construction of Federal Government funds
 
-&emsp;For purposes of this subsection, notwithstanding section 105(a)(9) of the Housing and Community Development Act of 1974 \[42 U.S.C. 5305(a)(9)\], funds provided pursuant to such Act shall be considered to be Federal Government funds.
+&emsp;For purposes of this subsection, notwithstanding section 105(a)(9) of the Housing and Community Development Act of 1974 \[42 U.S.C.5305(a)(9)\], funds provided pursuant to such Act shall be considered to be Federal Government funds.
 
 #### (b) Selection
 
@@ -62,5 +62,5 @@ Any proceeds from the sale of loans by an organization assisted under this secti
 
 #### References in Text
 
-The Housing and Community Development Act of 1974, referred to in subsec. (a)(3), is Pub. L. 93–383, Aug.22, 1974, 88 Stat. 633, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 42, The Public Health and Welfare, and Tables.
+The Housing and Community Development Act of 1974, referred to in subsec. (a)(3), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 42, The Public Health and Welfare, and Tables.
 

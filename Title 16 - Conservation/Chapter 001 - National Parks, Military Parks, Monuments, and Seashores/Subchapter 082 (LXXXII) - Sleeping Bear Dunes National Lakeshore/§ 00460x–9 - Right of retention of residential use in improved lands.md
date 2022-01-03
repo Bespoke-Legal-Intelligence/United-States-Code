@@ -16,7 +16,7 @@ Any person who is—
 
 #### (c) Limitation on use in instrument evidencing right; Secretary's power of termination of right
 
-Any deed or other instrument used to transfer title to property, with respect to which a right of use and occupancy is retained under this section, and any instrument evidencing any right of use and occupancy retained by any occupier under this section, shall provide that such property shall not be used for any purpose which is incompatible with purposes of this subchapter, or which impairs the usefulness and attractiveness of such area, and if it should be so used, that the Secretary many <sup>1</sup> terminate such right. In the event the Secretary exercises his power of termination under this subsection he shall pay to the owner of the right terminated an amount equal to the value of that portion of such right which remained unexpired on the date of such termination.
+Any deed or other instrument used to transfer title to property, with respect to which a right of use and occupancy is retained under this section, and any instrument evidencing any right of use and occupancy retained by any occupier under this section, shall provide that such property shall not be used for any purpose which isincompatible with purposes of this subchapter, or which impairs the usefulness and attractiveness of such area, and if it should be so used, that the Secretary many <sup>1</sup> terminate such right. In the event the Secretary exercises his power of termination under this subsection he shall pay to the owner of the right terminated an amount equal to the value of that portion of such right which remained unexpired on the date of such termination.
 
 #### (d) Transfer of right to member of immediate family; owner option to terminate; payment by Secretary; "member of the immediate family" defined
 
@@ -27,6 +27,8 @@ Any deed or other instrument used to transfer title to property, with respect to
 (3) As used in this subchapter, the term "member of the immediate family" means spouse, brother, sister, or child, including persons bearing such relationships through adoption, and step-child.
 
 (Pub. L. 91–479, §10, Oct. 21, 1970, 84 Stat. 1079; Pub. L. 97–361, §1, Oct. 22, 1982, 96 Stat. 1720.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

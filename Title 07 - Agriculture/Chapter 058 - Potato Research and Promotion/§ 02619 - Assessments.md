@@ -22,6 +22,8 @@ All information obtained pursuant to subsections (a) and (b) of this section sha
 
 (Pub. L. 91–670, title III, §310, Jan. 11, 1971, 84 Stat. 2044; Pub. L. 101–624, title XIX, §1942, Nov. 28, 1990, 104 Stat. 3867; Pub. L. 102–237, title VIII, §804, Dec. 13, 1991, 105 Stat. 1882.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Subsec. (a)(2). Pub. L. 102–237 substituted "(2) When" for "(2) when".

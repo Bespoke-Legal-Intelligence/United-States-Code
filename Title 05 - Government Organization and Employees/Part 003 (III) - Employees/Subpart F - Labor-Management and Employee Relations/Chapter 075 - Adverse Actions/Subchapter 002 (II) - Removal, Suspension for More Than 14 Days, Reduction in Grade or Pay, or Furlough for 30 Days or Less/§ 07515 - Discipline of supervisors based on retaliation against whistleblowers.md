@@ -20,7 +20,7 @@ Proposed Disciplinary Actions.—
 
 &emsp;(1)
 
-In general.—Subject to section 1214(f), if the head of the agency in which a supervisor is employed, an administrative law judge, the Merit Systems Protection Board, the Special Counsel, a judge of the United States, or the Inspector General of the agency in which a supervisor is employed has determined that the supervisor committed a prohibited personnel action, the head of the agency in which the supervisor is employed, consistent with the procedures required under paragraph (2)—
+In general.—Subject to section 1214(f), if the head of the agency in which a supervisor isemployed, an administrative law judge, the Merit Systems Protection Board, the Special Counsel, a judge of the United States, or the Inspector General of the agency in which a supervisor is employed has determined that the supervisor committed a prohibited personnel action, the head of the agency in which the supervisor is employed, consistent with the procedures required under paragraph (2)—
 
 &emsp;&emsp;(A) for the first prohibited personnel action committed by the supervisor—
 

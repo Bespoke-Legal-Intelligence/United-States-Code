@@ -22,7 +22,7 @@ In this section:
 
 #### (5) Map
 
-&emsp;The term "Map" means the map entitled "Paterson Great Falls National HistoricalPark–Proposed Boundary", numbered T03/80,001, and dated May 2008.
+&emsp;The term "Map" means the map entitled "Paterson Great Falls National Historical Park–Proposed Boundary", numbered T03/80,001, and dated May 2008.
 
 #### (6) Park
 
@@ -322,13 +322,15 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 (Pub. L. 111–11, title VII, §7001, Mar. 30, 2009, 123 Stat. 1183; Pub. L. 113–291, div. B, title XXX, §3037(a), Dec. 19, 2014, 128 Stat. 3782; Pub. L. 114–289, title VI, §601(i), Dec. 16, 2016, 130 Stat. 1491.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 No act with the title "Hinchliffe Stadium Heritage Act", referred to in subsec. (b)(3)(B), has been enacted. However, a bill, H.R. 2430, entitled the "Hinchliffe Stadium Heritage Act", was passed by the House of Representatives on July 22, 2014, during the 113th Congress. Section 3 of that bill contained provisions similar to section 3037(b) of Pub. L. 113–291, set out as a note below.
 
-The National Park Service Organic Act (16 U.S.C. 1 et seq.), referred to in subsec. (c)(1)(B)(i), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under section 100101 of Title 54, National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
+The National Park Service Organic Act (16 U.S.C. 1 et seq.), referred to in subsec. (c)(1)(B)(i), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under section 100101 of Title 54, National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimesand Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
-The Act of August 21, 1935 (16 U.S.C. 461 et seq.), referred to in subsec. (c)(1)(B)(ii), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the Historic Sites Act of 1935 and also as the Historic Sites, Buildings, and Antiquities Act, which enacted sections 461 to 467 of this title. The Act was repealed and restated as section 1866(a) of Title 18, Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by Pub.L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
+The Act of August 21, 1935 (16 U.S.C. 461 et seq.), referred to in subsec. (c)(1)(B)(ii), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the Historic Sites Act of 1935 and also as the Historic Sites, Buildings, and Antiquities Act, which enacted sections 461 to 467 of this title. The Act was repealed and restated as section 1866(a) of Title 18, Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
 Section 14(b) of the Federal Advisory Committee Act, referred to in subsec. (e)(9), is section 14(b) of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -347,6 +349,8 @@ Subsec. (b)(4). Pub. L. 113–291, §3037(a)(2), substituted "The Map and the ma
 Subsec. (c)(4)(A). Pub. L. 113–291, §3037(a)(3)(A), substituted "Except as provided in subparagraphs (B) and (C), the Secretary" for "The Secretary".
 
 Subsec. (c)(4)(C). Pub. L. 113–291, §3037(a)(3)(B), added subpar. (C).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Additional Considerations for Hinchliffe Stadium
 

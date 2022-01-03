@@ -42,7 +42,7 @@ Qualified guarantee.—The term "qualified guarantee", with respect to a major p
 
 &emsp;(3)
 
-Qualified account control agreement.—The term "qualified account control agreement", with respect to a guarantee of a donor, means an agreement among the donor,the Secretary of the Air Force, and a major United States investment management firm that—
+Qualified account control agreement.—The term "qualified account control agreement", with respect to a guarantee of a donor, means an agreement among the donor, the Secretary of the Air Force, and a major United States investment management firm that—
 
 &emsp;&emsp;(A) ensures the availability of sufficient funds or other financial resources to pay the amount guaranteed during the period of the guarantee;
 
@@ -68,9 +68,11 @@ Major united states investment management firm.—The term "major United States 
 
 &emsp;&emsp;(A) is headquartered in the United States; and
 
-&emsp;&emsp;(B) holds for the account of others investment assets in a total amount considered by the Secretary of the Air Force to qualify the firm as a major investment management firm.
+&emsp;&emsp;(B) holds for the account of others investment assets in a total amount considered bythe Secretary of the Air Force to qualify the firm as a major investment management firm.
 
 (Added Pub. L. 106–65, div. B, title XXVIII, §2871(c)(1), Oct. 5, 1999, 113 Stat. 875, §9356; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(17)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–291; Pub. L. 108–136, div. A, title X, §1031(a)(59), Nov. 24, 2003, 117 Stat. 1603; renumbered §9456, Pub. L. 115–232, div. A, title VIII, §806(a)(3), Aug. 13, 2018, 132 Stat. 1832.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -79,6 +81,8 @@ Major united states investment management firm.—The term "major United States 
 <b>2003</b>—Subsec. (c). Pub. L. 108–136 inserted before period at end "or, if earlier, the expiration of 14 days following the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title".
 
 <b>2000</b>—Subsec. (e)(5). Pub. L. 106–398 inserted a closing parenthesis after "80b–2)" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

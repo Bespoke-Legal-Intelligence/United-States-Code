@@ -32,6 +32,8 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, §509; added Dec. 22, 1975, Pub. 
 
 In subsection (a), the word "prescribed" is substituted for "established" for consistency.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–429 renumbered section 32918 of this title as this section.

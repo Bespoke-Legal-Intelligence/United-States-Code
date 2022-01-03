@@ -10,7 +10,7 @@ Congress finds and declares that—
 
 #### (b) Program
 
-To carry out the policy set forth in subsection (a), the President is authorized to provide assistance to increase the availability of financial services to micro, small, and medium-sized enterprises and households lacking full access tocredit and other financial services, including through—
+To carry out the policy set forth in subsection (a), the President is authorized to provide assistance to increase the availability of financial services to micro, small, and medium-sized enterprises and households lacking full access to credit and other financial services, including through—
 
 &emsp;(1) loans and guarantees to financial intermediaries for the purpose of expanding the availability of savings and credit to poor and low-income households;
 
@@ -34,7 +34,7 @@ The Administrator of the Agency shall establish criteria for determining which f
 
 #### (d) Additional requirement
 
-Assistance provided under this section may only be used to support programs for micro, small, and medium-sized enterprises and households and may not be used to support programs not directly related to the purposes described in subsection (b).
+Assistance provided under this section may only be used to support programs for micro, small, and medium-sized enterprises and households and may not be used to support programsnot directly related to the purposes described in subsection (b).
 
 #### (e) Procurement provision
 
@@ -190,7 +190,7 @@ Pub. L. 106–309, title I, §102, Oct. 17, 2000, 114 Stat. 1079, provided that:
 
 &emsp;"(B) The United States should seek to improve coordination among G–7 countries in the support of the microenterprise sector in order to leverage the investment of the United States with that of other donor nations.
 
-&emsp;"(18) Through increased support for microenterprise, especially credit for the poorest, the United States can continue to play a leadership role in the global effort to expand financial services and opportunity to 100,000,000 of the poorest families on the planet."
+&emsp;"(18) Through increased support for microenterprise, especially credit for the poorest, the UnitedStates can continue to play a leadership role in the global effort to expand financial services and opportunity to 100,000,000 of the poorest families on the planet."
 
 #### Purposes of 2000 Amendment
 

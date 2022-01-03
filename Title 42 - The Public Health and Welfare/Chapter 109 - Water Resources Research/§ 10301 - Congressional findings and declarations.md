@@ -22,11 +22,15 @@ The Congress finds and declares that—
 
 (Pub. L. 98–242, title I, §102, Mar. 22, 1984, 98 Stat. 97; Pub. L. 104–147, §1, May 24, 1996, 110 Stat. 1375.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Par. (2). Pub. L. 104–147, §1(1), inserted ", productivity of natural resources and agricultural systems," after "environmental quality".
 
 Pars. (8), (9). Pub. L. 104–147, §1(2)–(4), added pars. (8) and (9).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2007 Amendment
 
@@ -152,7 +156,7 @@ Grants.—Subject to the availability of appropriations, the Secretary shall pro
 
 &emsp;&emsp;"(A) optimizing energy resource production by reducing the quantity of produced water generated; or
 
-&emsp;&emsp;"(B) increasing the extent to which produced water may be recovered and made suitable for use for irrigation, municipal, or industrial uses, or other purposes without adversely affecting water quality or the environment.
+&emsp;&emsp;"(B) increasing the extent to which produced water may be recovered and made suitable for usefor irrigation, municipal, or industrial uses, or other purposes without adversely affecting water quality or the environment.
 
 &emsp;"(2)
 
@@ -212,7 +216,7 @@ Authorization of Appropriations.—There are authorized to be appropriated—
 
 #### Desalination Research, Studies, and Demonstration Projects
 
-Pub. L. 104–298, Oct. 11, 1996, 110 Stat. 3622, as amended by Pub. L. 108–7, div. D, title II, §210, Feb. 20, 2003, 117 Stat. 146; Pub. L. 109–13, div. A, title VI, §6015, May 11, 2005, 119 Stat. 284; Pub. L. 109–103, title II, §206, Nov. 19, 2005, 119 Stat. 2268; Pub. L. 109–289, div. B, title II, §20312, as added by Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 19; Pub. L. 112–74, div. B, title II, §204, Dec. 23, 2011, 125 Stat. 865; Pub. L. 114–322, title III, §§3801, 4009(a), Dec. 16, 2016, 130 Stat. 1846, 1867; Pub. L. 116–260, div. FF, title XI, §1112, Dec. 27, 2020, 134 Stat. 3251, provided that:
+Pub. L. 104–298, Oct. 11, 1996, 110 Stat. 3622, as amended by Pub. L. 108–7, div. D, title II, §210, Feb. 20, 2003, 117 Stat. 146; Pub. L. 109–13, div. A, title VI, §6015, May 11, 2005, 119 Stat. 284; Pub. L. 109–103, title II, §206, Nov. 19, 2005, 119 Stat. 2268; Pub. L. 109–289, div. B, title II, §20312, as added by Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 19; Pub. L. 112–74, div. B, title II, §204, Dec. 23, 2011, 125 Stat. 865; Pub. L. 114–322, title III, §§3801, 4009(a), Dec. 16, 2016, 130 Stat. 1846, 1867; Pub. L. 116–260, div. FF, title XI, §1112, Dec. 27, 2020, 134 Stat. 3251; Pub. L. 117–58, div. D, title IX, §40908, Nov. 15, 2021, 135 Stat. 1126, provided that:
 
 #### "SECTION 1. SHORT TITLE.
 
@@ -246,7 +250,7 @@ Secretary.—The term 'Secretary' means the Secretary of the Interior.
 
 "(a)
 
-In General.—In order to determine the most cost-effective and technologically efficient means by which usable water can be produced from saline water or water otherwise impaired or contaminated, the Secretary is authorized to award grants and to enter intocontracts, to the extent provided in advance in appropriation Acts, to conduct, encourage, and assist in the financing of research to develop processes for converting saline water into water suitable for beneficial uses. Awards of research grants and contracts under this section shall be made on the basis of a competitive, merit-reviewed process. Research and study topics authorized by this section include—
+In General.—In order to determine the most cost-effective and technologically efficient means by which usable water can be produced from saline water or water otherwise impaired or contaminated, the Secretary is authorized to award grants and to enter into contracts, to the extent provided in advance in appropriation Acts, to conduct, encourage, and assist in the financing of research to develop processes for converting saline water into water suitable for beneficial uses. Awards of research grants and contracts under this section shall be made on the basis of a competitive, merit-reviewed process. Research and study topics authorized by this section include—
 
 &emsp;"(1) investigating desalination processes;
 
@@ -304,7 +308,7 @@ In General.—In order to further demonstrate the feasibility of desalination pr
 
 Desalination plants and modules.—Conduct or contract for technical work, including the design, construction, and testing of plants and modules to develop desalination processes and concepts, including modules specifically designed for brine management.
 
-&emsp;"(1) \[sic, probably should be "(2)"\]
+&emsp;"(2)
 
 Projects.—
 
@@ -431,6 +435,8 @@ Coordination of Federal Desalination Research and Development.—The White House
 "(c)
 
 Other Desalination Programs.—The authorization provided for in this Act shall not prohibit other agencies from carrying out separately authorized programs for desalination research or operations."
+
+\[For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of this title.\]
 
 #### Ogallala Aquifer
 
@@ -570,7 +576,7 @@ Sec. 309. (a) For each of the fiscal years ending September 30, 1987, through Se
 
 " '(b) Funds made available under this title for distribution to the States of the High Plains region shall be distributed equally among the States.' " \[As amended Pub. L. 101–397, §1(o), Sept. 28, 1990, 104 Stat. 854.\]
 
-\[For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 17th and 18thitems on page 72 identify reporting provisions which, as subsequently amended, are contained in sections 306 and 308 of Pub. L. 98–242, set out in the note above), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.\]
+\[For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 17th and 18th items on page 72 identify reporting provisions which, as subsequently amended, are contained in sections 306 and 308 of Pub. L. 98–242, set out in the note above), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.\]
 
 #### Desalting Plants
 
@@ -578,7 +584,7 @@ Pub. L. 95–84, §2, Aug. 2, 1977, 91 Stat. 400; Pub. L. 95–467, title II, §
 
 "(a) The Secretary of the Interior is authorized and directed to demonstrate the engineering and economic viability of membrane and phase-change desalting processes. Such demonstrations shall include the study, design, construction, operation, and maintenance of desalting plants at locations in the United States (which may include the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, the Virgin Islands, the Mariana Islands, and the Trust Territory of the Pacific Islands): <i>Provided</i>, That at least two such plants shall demonstrate desalting of brackish ground water: <i>And provided further</i>, That the plants constructed pursuant to this section shall be for the purpose of showing that the technology being demonstrated is ready for application; such plants shall be sufficient to demonstrate the specific application of the technology, and shall be significantly different in operation and process so as not to duplicate any other demonstration plant constructed pursuant to this section. The Secretary is further authorized to conduct such demonstrations or any portion thereof by means of cooperative agreements (as defined and authorized by \[former\] 41 U.S.C. 504 et seq. (the Federal Grant and Cooperative Agreement Act of 1977; Public Law 95–224) \[see 31 U.S.C. 6301 et seq.\]) with duly authorized non-Federal public entities. Title to demonstration facilities constructed by the non-Federal public entity under a cooperative agreement shall vest in the non-Federal public entity.
 
-"(b) Funds appropriated pursuant to the authority provided by this section \[this note\] may not be expended until thirty calendar days (excluding days on which either the House of Representatives or the Senate is not in session because of an adjournment of more than three calendar days to a day certain) have elapsed following transmittal of a report to the chairman of the Committee on Interior and Insular Affairs \[now Committee on Natural Resources\] of the House of Representatives and the chairman of the Committee on Environment and Public Works of the United States Senate. Such report shall present information that includes, but is not limited to, how the plant being proposed differs from others, if any, already constructed under this section, the location of the demonstration plant, the characteristics of the water proposed to be desalted, the process to be utilized, the water supply problems confronting the area in which the plant will be located, alternative sources of water and their probable cost, the capacity of the plant, the initial investment cost of the demonstration plant, the annual operating cost of the demonstration plant, the source of energy for the plant and its cost, the means of reject brine disposal and its environmental consequences, and the unit cost of product water, considering the amortization of all components of the demonstration plant and ancillary facilities. Such report shall be accompanied by a proposed contract (or cooperative agreement) between the Secretary and a duly authorized non-Federal entity, in which such entity shall agree to provide not less than 15 per centum and not more than 35 per centum of the total cost of the demonstration; such cost to include, without being limited to, necessary water rights, water supplies, rights-of-way, power source interconnections, brine disposal facilities, land, construction, ancillary facilities, and the operation and maintenance costs for a period of four years following final acceptance of the construction of the plant from the plant contractor. The contributions of the non-Federal entity under such proposed contract may be in-kind. During the participation by the Secretary in the construction and the operation and maintenance of such demonstration, access to the demonstration and its operating data will not be denied to the Secretary or his representatives. The period of participation by the Secretary in the operation and maintenance of any such demonstration shall be four years. The Secretary is authorized to include in the proposed contract a provision for conveying, as appropriate, and in such amounts as are appropriate, rights, title, and interest of the Federal Government in the demonstration project to the non-Federal public entity.
+"(b) Funds appropriated pursuant to the authority provided by this section \[this note\] may not be expended until thirty calendar days (excluding days on which either the House of Representatives or the Senate is not in session because of an adjournment of more than three calendar days to a day certain) have elapsedfollowing transmittal of a report to the chairman of the Committee on Interior and Insular Affairs \[now Committee on Natural Resources\] of the House of Representatives and the chairman of the Committee on Environment and Public Works of the United States Senate. Such report shall present information that includes, but is not limited to, how the plant being proposed differs from others, if any, already constructed under this section, the location of the demonstration plant, the characteristics of the water proposed to be desalted, the process to be utilized, the water supply problems confronting the area in which the plant will be located, alternative sources of water and their probable cost, the capacity of the plant, the initial investment cost of the demonstration plant, the annual operating cost of the demonstration plant, the source of energy for the plant and its cost, the means of reject brine disposal and its environmental consequences, and the unit cost of product water, considering the amortization of all components of the demonstration plant and ancillary facilities. Such report shall be accompanied by a proposed contract (or cooperative agreement) between the Secretary and a duly authorized non-Federal entity, in which such entity shall agree to provide not less than 15 per centum and not more than 35 per centum of the total cost of the demonstration; such cost to include, without being limited to, necessary water rights, water supplies, rights-of-way, power source interconnections, brine disposal facilities, land, construction, ancillary facilities, and the operation and maintenance costs for a period of four years following final acceptance of the construction of the plant from the plant contractor. The contributions of the non-Federal entity under such proposed contract may be in-kind. During the participation by the Secretary in the construction and the operation and maintenance of such demonstration, access to the demonstration and its operating data will not be denied to the Secretary or his representatives. The period of participation by the Secretary in the operation and maintenance of any such demonstration shall be four years. The Secretary is authorized to include in the proposed contract a provision for conveying, as appropriate, and in such amounts as are appropriate, rights, title, and interest of the Federal Government in the demonstration project to the non-Federal public entity.
 
 "(c) There is authorized to be appropriated, to remain available until expended, for the fiscal year ending September 30, 1978, and thereafter, the sum of $50,000,000 to finance the total Federal share of the cost of the demonstration plants authorized by this section; such cost to include, without being limited to, necessary water rights, water supplies, rights-of-way, power source interconnections, brine disposal facilities, land, construction, ancillary facilities, and the operation and maintenance costs for the four-year period of Federal participation in such costs.
 

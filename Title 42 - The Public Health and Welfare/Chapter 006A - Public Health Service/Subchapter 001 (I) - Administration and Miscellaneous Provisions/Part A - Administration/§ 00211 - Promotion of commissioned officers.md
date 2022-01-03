@@ -26,11 +26,11 @@ Officers in a professional category of the Regular Corps, found pursuant to subs
 
 #### (f) Reexamination upon failure of promotion; effective date of promotion
 
-If an officer who has completed the years of service required for promotion to a grade under paragraph (2) of subsection (d) fails to receive such promotion, he shall (unless he has already been twice examined for promotion to such grade) be once reexamined for promotion to such grade. If he is thereupon promoted (otherwise than under subsection (e)), the effective date of such promotion shall be one year later than it would have been but for such failure. Upon the effective date of any permanent promotion of such officer to such grade, he shall be considered as having had only the length of service required for such promotion which he previously failed to receive.
+If an officer who has completed the years of service required for promotion to a grade under paragraph (2) of subsection (d) fails to receive such promotion, he shall (unless he has already been twice examined for promotion to such grade) be once reexamined for promotion to such grade. If he is thereupon promoted (otherwise than under subsection (e)), the effective date of such promotion shall be one year later than itwould have been but for such failure. Upon the effective date of any permanent promotion of such officer to such grade, he shall be considered as having had only the length of service required for such promotion which he previously failed to receive.
 
 #### (g) Separation from service upon failure of promotion
 
-If, for reasons other than physical disability, an officer of the Regular Corps in the warrant officer (W–1) grade or junior assistant grade isfound pursuant to subsection (c) not to be qualified for promotion he shall be separated from the Service. If, for reasons other than physical disability, an officer of the Regular Corps in the chief warrant officer (W–2), chief warrant officer (W–3), assistant, senior assistant, or full grade, after having been twice examined for promotion (other than promotion to a restricted grade), fails to be promoted—
+If, for reasons other than physical disability, an officer of the Regular Corps in the warrant officer (W–1) grade or junior assistant grade is found pursuant to subsection (c) not to be qualified for promotion he shall be separated from the Service. If, for reasons other than physical disability, an officer of the Regular Corps in the chief warrant officer (W–2), chief warrant officer (W–3), assistant, senior assistant, or full grade, after having been twice examined for promotion (other than promotion to a restricted grade), fails to be promoted—
 
 &emsp;(1) if in the chief warrant officer (W–2) or assistant grade he shall be separated from the Service and paid six months' basic pay and allowances;
 
@@ -66,13 +66,15 @@ Any commissioned officer of the Regular Corps in any grade in any professional c
 
 #### (l) Determination of requirements of Service by Secretary; assignment of Reserve Officers to professional categories; temporary promotions; termination of temporary promotions
 
-Whenever the number of officers of the Regular Corps on active duty, plus the number of officers of the Ready Reserve Corps who have been on active duty for thirty days or more, exceeds the authorized strength of the Regular Corps, the Secretary shall determine the requirements of the Service in each grade in each category, based upon the total number of officers so serving on active duty and the tasks being performed by the Service; and the Surgeon General shall thereupon assign each officer of the Ready Reserve Corps on active duty to a professionalcategory. If the Secretary finds that the number of officers fixed under section 210b(c) of this title for any grade and category (or the number of officers, including officers of the Ready Reserve Corps, on active duty in such grade in such category, if such number is greater than the number fixed under section 210b(c) of this title) is insufficient to meet such requirements of the Service, officers of either the Regular Corps or the Ready Reserve Corps may be recommended for temporary promotion to such grade in such category. Any such promotion may be terminated at any time, as may be directed by the President.
+Whenever the number of officers of the Regular Corps on active duty, plus the number of officers of the Ready Reserve Corps who have been on active duty for thirty days or more, exceeds the authorized strength of the Regular Corps, the Secretary shall determine the requirements of the Service in each grade in each category, based upon the total number of officers so serving on active duty and the tasks being performed by the Service; and the Surgeon General shall thereupon assign each officer of the Ready Reserve Corps on active duty to a professional category. If the Secretary finds that the number of officers fixed under section 210b(c) of this title for any grade and category (or the number of officers, including officers of the Ready Reserve Corps, on active duty in such grade in such category, if such number is greater than the number fixed under section 210b(c) of this title) is insufficient to meet such requirements of the Service, officers of either the Regular Corps or the Ready Reserve Corps may be recommended for temporary promotion to such grade in such category. Any such promotion may be terminated at any time, as may be directed by the President.
 
 #### (m) Acceptance of promotion; oath and affidavit
 
 Any officer of the Regular Corps, or any officer of the Ready Reserve Corps on active duty, who is promoted to a higher grade shall, unless he expressly declines such promotion, be deemed for all purposes to have accepted such promotion; and shall not be required to renew his oath of office, or to execute a new affidavit as required by section 3332 of title 5.
 
 (July 1, 1944, ch. 373, title II, §210, 58 Stat. 687; Feb. 28, 1948, ch. 83, §6(a), 62 Stat. 42; Oct. 12, 1949, ch. 681, title V, §521(c), 63 Stat. 835; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Apr. 27, 1956, ch. 211, §4(a), 70 Stat. 117; Pub. L. 86–415, §5(c), Apr. 8, 1960, 74 Stat. 34; Pub. L. 87–649, §11(2), Sept. 7, 1962, 76 Stat. 497; Pub. L. 96–76, title III, §307, Sept. 29, 1979, 93 Stat. 585; Pub. L. 96–342, title VIII, §813(h)(1), Sept. 8, 1980, 94 Stat. 1110; Pub. L. 99–348, title II, §207(a), July 1, 1986, 100 Stat. 701; Pub. L. 112–166, §2(ff)(2), Aug. 10, 2012, 126 Stat. 1290; Pub. L. 116–136, div. A, title III, §3214(e)(3), Mar. 27, 2020, 134 Stat. 373.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -106,6 +108,12 @@ Subsec. (g). Pub. L. 96–76, §307(b), in provision before par. (1), inserted a
 
 <b>1948</b>—Act Feb. 28, 1948, amended subsecs. (a) to (c) generally and added subsecs. (d) to (m).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsec. (l) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+
 #### Effective Date of 2012 Amendment
 
 Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
@@ -122,11 +130,13 @@ Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 
 
 Amendment by act Oct. 12, 1949, effective Oct. 1, 1949, see section 533(a) of act Oct. 12, 1949, set out as a note under section 854a of Title 33, Navigation and Navigable Waters.
 
+#### <b>Executive Documents</b>
+
 #### Transfer of Functions
 
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title.
 
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20.
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
 #### Delegation of Functions
 

@@ -12,7 +12,7 @@ Selection of Locations.—(1) To be selected by the Secretary under this section
 
 (c)
 
-Annual Report.—Not later than 180 days after the date of the enactment of this section, and each year thereafter, the Secretary shall submit to Congress a report on the counseling services provided under this section. Such report shall include, for the year covered by the report—
+Annual Report.—Not later than 180 days after the date of the enactment of this section,and each year thereafter, the Secretary shall submit to Congress a report on the counseling services provided under this section. Such report shall include, for the year covered by the report—
 
 &emsp;(1) the average ratio of counselors providing such services to individuals who received such services at each location where such services were provided;
 

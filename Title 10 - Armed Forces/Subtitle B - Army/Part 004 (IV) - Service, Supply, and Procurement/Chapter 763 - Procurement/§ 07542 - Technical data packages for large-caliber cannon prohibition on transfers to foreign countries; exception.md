@@ -76,6 +76,8 @@ Arsenal Defined.—In this section, the term "arsenal" means a Government-owned,
 
 (Added Pub. L. 99–500, §101(c) \[title IX, §9036(b)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–107, and Pub. L. 99–591, §101(c) \[title IX, §9036(b)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–107, §4542; Pub. L. 99–661, div. A, title XII, §1203(a)(1), Nov. 14, 1986, 100 Stat. 3968; amended Pub. L. 101–189, div. A, title VIII, §806, Nov. 29, 1989, 103 Stat. 1489; Pub. L. 102–190, div. A, title X, §§1061(a)(24), 1086, Dec. 5, 1991, 105 Stat. 1473, 1483; renumbered §7542, Pub. L. 115–232, div. A, title VIII, §808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
@@ -110,15 +112,17 @@ Subsec. (f)(1). Pub. L. 101–189, §806(c), inserted "or a cooperative project"
 
 Subsecs. (g), (h). Pub. L. 101–189, §806(b)(1), redesignated subsecs. (e) and (f) as (g) and (h), respectively.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
 #### Effective Date
 
-Pub. L. 99–500, §101(c) \[title IX, §9036(c)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–108, Pub. L. 99–591, §101(c) \[titleIX, §9036(c)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–108, and Pub. L. 99–661, div. A, title XII, §1203(b), Nov. 14, 1986, 100 Stat. 3969, provided that: "Section 4542 \[now 7542\] of title 10, United States Code, as added by subsection (a), shall apply with respect to funds appropriated for fiscal years after fiscal year 1986."
+Pub. L. 99–500, §101(c) \[title IX, §9036(c)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–108, Pub. L. 99–591, §101(c) \[title IX, §9036(c)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–108, and Pub. L. 99–661, div. A, title XII, §1203(b), Nov. 14, 1986,100 Stat. 3969, provided that: "Section 4542 \[now 7542\] of title 10, United States Code, as added by subsection (a), shall apply with respect to funds appropriated for fiscal years after fiscal year 1986."
 
 #### Rule of Construction for Duplicate Authorization and Appropriation Provisions of Public Laws 99–500, 99–591, and 99–661
 
-For rule of construction for certain duplicate provisions of Public Laws 99–500, 99–591, and 99–661, see Pub. L. 100–26, §6, Apr. 21, 1987, 101 Stat. 274, set out as a note under section 2302 of this title.
+For rule of construction for certain duplicate provisions of Public Laws 99–500, 99–591, and 99–661, see Pub. L. 100–26, §6, Apr. 21, 1987, 101 Stat. 274, set out as a note under section 101 of this title.
 

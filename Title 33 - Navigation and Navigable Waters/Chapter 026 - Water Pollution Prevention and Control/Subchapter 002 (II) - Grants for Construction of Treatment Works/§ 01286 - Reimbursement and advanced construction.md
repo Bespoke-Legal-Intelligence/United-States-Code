@@ -14,7 +14,7 @@ No publicly owned treatment works shall receive any payment or reimbursement und
 
 #### (d) Allocation of funds
 
-The Administrator shall allocate to each qualified project under subsection (a) of this section each fiscal year for which funds are appropriated under subsection (e) of this section an amount which bears the same ratio to the unpaid balance of the reimbursement due such project as the total of such funds for such year bears to the total unpaid balance of reimbursement due all such approved projects on the date of enactment of such appropriation. The Administrator shall allocate to each qualified project under subsection (b) of this section each fiscal year for which funds are appropriated under subsection (e) of this section an amount which bears the same ratio to the unpaid balance of the reimbursement due such project as the total of such funds for such year bears to the total unpaid balance of reimbursement due all such approved projects on the date of enactment of such appropriation.
+The Administrator shall allocate to each qualified project under subsection (a) of this section each fiscal year for which funds are appropriated under subsection (e) of this section an amount which bears the same ratio to the unpaid balance of the reimbursement due such project as the total of such funds for such year bears to the total unpaid balance of reimbursement due all such approved projects on the dateof enactment of such appropriation. The Administrator shall allocate to each qualified project under subsection (b) of this section each fiscal year for which funds are appropriated under subsection (e) of this section an amount which bears the same ratio to the unpaid balance of the reimbursement due such project as the total of such funds for such year bears to the total unpaid balance of reimbursement due all such approved projects on the date of enactment of such appropriation.
 
 #### (e) Authorization of appropriations
 
@@ -28,7 +28,7 @@ There is authorized to be appropriated to carry out subsection (a) of this secti
 
 &emsp;(B) unless such payment is for a project which, on the basis of an approved funding priority list of such State, is eligible to receive such payment based on the allotment and appropriation for such fiscal year.
 
-> To the extent that sufficient funds are not appropriated to pay the full Federal share with respect to a project for which obligations under the provisions of this subsection have beenmade, the Administrator shall reduce the Federal share to such amount less than 75 per centum as such appropriations do provide.
+> To the extent that sufficient funds are not appropriated to pay the full Federal share with respect to a project for which obligations under the provisions of this subsection have been made, the Administrator shall reduce the Federal share to such amount less than 75 per centum as such appropriations do provide.
 
 (2) In determining the allotment for any fiscal year under this subchapter, any treatment works project constructed in accordance with this section and without the aid of Federal funds shall not be considered completed until an application under the provisions of this subsection with respect to such project has been approved by the Administrator, or the availability of funds from which this project is eligible for reimbursement has expired, whichever first occurs.
 

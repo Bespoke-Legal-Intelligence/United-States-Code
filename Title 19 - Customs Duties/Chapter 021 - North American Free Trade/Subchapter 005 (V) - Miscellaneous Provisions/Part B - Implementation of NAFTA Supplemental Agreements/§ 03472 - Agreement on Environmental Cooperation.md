@@ -20,11 +20,15 @@ As used in this section—
 
 (Pub. L. 103–182, title V, §532, Dec. 8, 1993, 107 Stat. 2164; Pub. L. 116–113, title VI, §601, Jan. 29, 2020, 134 Stat. 78; Pub. L. 116–260, div. O, title VI, §601(a)(1), (2), Dec. 27, 2020, 134 Stat. 2149.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2020</b>—Pub. L. 116–260, §601(a)(1), (2), provided that section 601 of Pub. L. 116–113 does not apply to this section and revived the provisions of this section as if such section 601 had not been enacted. See below.
 
 Pub. L. 116–113, §601, which repealed this section effective on the date the USMCA entered into force (July 1, 2020), was made inapplicable to this section by section 601(a)(1), (2) of Pub. L. 116–260.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 
@@ -47,6 +51,8 @@ Provisions specified.—The provisions specified in this paragraph are the follo
 &emsp;"(B) Part 2 of subtitle D of title V of such Act (as amended by section 831 of the United States-Mexico-Canada Agreement Implementation Act) \[22 U.S.C. 290m et seq.\]."
 
 \[Section 601(a)(1), (2) of Pub. L. 116–260, set out above, effective on July 1, 2020, see section 601(h) of Pub. L. 116–260, set out as an Effective Date of 2020 Amendment note under section 81c of this title.\]
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 12915. Federal Implementation of the North American Agreement on Environmental Cooperation
 
@@ -114,9 +120,11 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of Governmental Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation
 
-Term of Governmental Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Governmental Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Previous extensions of term of Governmental Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, extended term until Sept. 30, 2021.
 
 Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, extended term until Sept. 30, 2019.
 
@@ -124,9 +132,11 @@ Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30,
 
 #### Extension of Term of National Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation
 
-Term of National Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of National Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Previous extensions of term of National Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, extended term until Sept. 30, 2021.
 
 Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, extended term until Sept. 30, 2019.
 

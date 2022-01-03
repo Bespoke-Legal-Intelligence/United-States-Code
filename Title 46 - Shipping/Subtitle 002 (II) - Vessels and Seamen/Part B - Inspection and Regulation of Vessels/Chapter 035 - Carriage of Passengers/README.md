@@ -11,6 +11,7 @@
 | [3507\.](%C2%A7%2003507%20-%20Passenger%20vessel%20security%20and%20safety%20requirements.md) | Passenger vessel security and safety requirements. |
 | [3508\.](%C2%A7%2003508%20-%20Crime%20scene%20preservation%20training%20for%20passenger%20vessel%20crewmembers.md) | Crime scene preservation training for passenger vessel crewmembers. |
 | [3509\.](%C2%A7%2003509%20-%20Medical%20standards.md) | Medical standards. |
+| [3510\.](%C2%A7%2003510%20-%20Additional%20medical%20and%20safety%20standards.md) | Additional medical and safety standards. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -22,7 +23,9 @@ Chapter 35 consolidates the laws that have specific application to the carriage 
 
 #### Amendments
 
-<b>2021</b>—Pub. L. 116–283, div. G, title LVXXXIII \[LXXXIII\], §8322(b), Jan. 1, 2021, 134 Stat. 4702, added item 3509.
+<b>2021</b>—Pub. L. 117–14, §3(b), May 24, 2021, 135 Stat. 276, added item 3510.
+
+Pub. L. 116–283, div. G, title LVXXXIII \[LXXXIII\], §8322(b), Jan. 1, 2021, 134 Stat. 4702, added item 3509.
 
 <b>2016</b>—Pub. L. 114–120, title III, §306(a)(3), Feb. 8, 2016, 130 Stat. 54, inserted a period at end of items 3507 and 3508.
 
@@ -42,3 +45,4 @@ Chapter 35 consolidates the laws that have specific application to the carriage 
 - [&sect; 03507 - Passenger vessel security and safety requirements](%C2%A7%2003507%20-%20Passenger%20vessel%20security%20and%20safety%20requirements.md)
 - [&sect; 03508 - Crime scene preservation training for passenger vessel crewmembers](%C2%A7%2003508%20-%20Crime%20scene%20preservation%20training%20for%20passenger%20vessel%20crewmembers.md)
 - [&sect; 03509 - Medical standards](%C2%A7%2003509%20-%20Medical%20standards.md)
+- [&sect; 03510 - Additional medical and safety standards](%C2%A7%2003510%20-%20Additional%20medical%20and%20safety%20standards.md)

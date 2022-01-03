@@ -208,7 +208,7 @@ For purposes of this section:
 
 &emsp;In carrying out the pilot program under this subsection, the Director shall—
 
-&emsp;&emsp;(A) require State substance abuse agencies to submit to the Director applications, in such form and manner and containing such information as specified by the Director, to be eligible to receive a grant under the program;
+&emsp;&emsp;(A) require State substance abuse agencies to submit to the Director applications, insuch form and manner and containing such information as specified by the Director, to be eligible to receive a grant under the program;
 
 &emsp;&emsp;(B) identify, based on such submitted applications, State substance abuse agencies that are eligible for such grants;
 
@@ -271,6 +271,8 @@ For purposes of this section:
 For the purpose of carrying out this section, there are authorized to be appropriated $29,931,000 for each of fiscal years 2019 through 2023. Of the amounts made available for a year pursuant to the previous sentence to carry out this section, not more than 25 percent of such amounts shall be made available for such year to carry out subsection (r), other than paragraph (5) of such subsection. Notwithstanding the preceding sentence, no funds shall be made available to carry out subsection (r) for a fiscal year unless the amount made available to carry out this section for such fiscal year is more than the amount made available to carry out this section for fiscal year 2016.
 
 (July 1, 1944, ch. 373, title V, §508, as added Pub. L. 102–321, title I, §108(a), July 10, 1992, 106 Stat. 336; amended Pub. L. 106–310, div. B, title XXXIII, §3301(a), Oct. 17, 2000, 114 Stat. 1207; Pub. L. 114–198, title V, §501, July 22, 2016, 130 Stat. 724; Pub. L. 114–255, div. B, title VI, §§6001(c)(2), 6006(b), Dec. 13, 2016, 130 Stat. 1203, 1212; Pub. L. 115–271, title VII, §7062(b), Oct. 24, 2018, 132 Stat. 4020.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -339,6 +341,8 @@ Pub. L. 114–198, §501(b)(2), substituted "$16,900,000 for each of fiscal year
 Subsec. (s). Pub. L. 114–198, §501(c)(1)(A), (2), redesignated subsec. (r) as (s) and inserted at end "Of the amounts made available for a year pursuant to the previous sentence to carry out this section, not more than 25 percent of such amounts shall be made available for such year to carry out subsection (r), other than paragraph (5) of such subsection. Notwithstanding the preceding sentence, no funds shall be made available to carry out subsection (r) for a fiscal year unless the amount made available to carry out this section for such fiscal year is more than the amount made available to carry out this section for fiscal year 2016."
 
 <b>2000</b>—Subsec. (r). Pub. L. 106–310 reenacted heading without change and amended text generally, substituting provisions authorizing appropriations for fiscal years 2001 to 2003 for provisions authorizing appropriations for fiscal years 1993 and 1994 and authorizing appropriations from the special forfeiture fund of the Director of the Office of National Drug Control Policy.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

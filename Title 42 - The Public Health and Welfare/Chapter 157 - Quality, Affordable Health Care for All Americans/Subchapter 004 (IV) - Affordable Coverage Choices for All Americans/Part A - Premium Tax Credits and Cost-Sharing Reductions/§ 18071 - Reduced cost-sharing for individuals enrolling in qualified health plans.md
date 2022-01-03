@@ -54,7 +54,7 @@ In this section, the term "eligible insured" means an individual—
 
 &emsp;The Secretary shall establish procedures under which the issuer of a qualified health plan to which this section applies shall further reduce cost-sharing under the plan in a manner sufficient to—
 
-&emsp;&emsp;(A) in the case of an eligible insured whose household income is not less than 100 percent but not more than 150 percent of the poverty line for a family of the size involved, increase the plan's share of the total allowed costs of benefits provided under the plan to 94 percent of such costs;
+&emsp;&emsp;(A) in the case of an eligible insured whose household income is not less than 100 percent but not more than 150 percent of the poverty line for a family of the size involved,increase the plan's share of the total allowed costs of benefits provided under the plan to 94 percent of such costs;
 
 &emsp;&emsp;(B) in the case of an eligible insured whose household income is more than 150 percent but not more than 200 percent of the poverty line for a family of the size involved, increase the plan's share of the total allowed costs of benefits provided under the plan to 87 percent of such costs; and
 
@@ -128,9 +128,17 @@ In this section, the term "eligible insured" means an individual—
 
 #### (3) Secretarial authority
 
-&emsp;The Secretary, in consultation with the Secretary of the Treasury, shall prescribe rules setting forth the methods by which calculations of family size and household income are made for purposes of this subsection. Such rules shall be designed to ensure that the least burden is placed on individuals enrolling in qualified health plans through an Exchange and taxpayers eligible for the credit allowable under this section.
+&emsp;The Secretary, in consultation with the Secretary of the Treasury, shall prescribe rulessetting forth the methods by which calculations of family size and household income are made for purposes of this subsection. Such rules shall be designed to ensure that the least burden is placed on individuals enrolling in qualified health plans through an Exchange and taxpayers eligible for the credit allowable under this section.
 
-#### (f) Definitions and special rules
+#### (f) Special rule for individuals who receive unemployment compensation during 2021
+
+For purposes of this section, in the case of an individual who has received, or has been approved to receive, unemployment compensation for any week beginning during 2021, for the plan year in which such week begins—
+
+&emsp;(1) such individual shall be treated as meeting the requirements of subsection (b)(2), and
+
+&emsp;(2) for purposes of subsections (c) and (d), there shall not be taken into account any household income of the individual in excess of 133 percent of the poverty line for a family of the size involved.
+
+#### (g) Definitions and special rules
 
 In this section:
 
@@ -140,15 +148,19 @@ In this section:
 
 #### (2) Limitations on reduction
 
-&emsp;No cost-sharing reduction shall be allowed under this section with respect to coverage forany month unless the month is a coverage month with respect to which a credit is allowed to the insured (or an applicable taxpayer on behalf of the insured) under section 36B of such title.
+&emsp;No cost-sharing reduction shall be allowed under this section with respect to coverage for any month unless the month is a coverage month with respect to which a credit is allowed to the insured (or an applicable taxpayer on behalf of the insured) under section 36B of such title.
 
 #### (3) Data used for eligibility
 
 &emsp;Any determination under this section shall be made on the basis of the taxable year for which the advance determination is made under section 18082 of this title and not the taxable year for which the credit under section 36B of title 26 is allowed.
 
-(Pub. L. 111–148, title I, §1402, Mar. 23, 2010, 124 Stat. 220; Pub. L. 111–152, title I, §1001(b), Mar. 30, 2010, 124 Stat. 1031.)
+(Pub. L. 111–148, title I, §1402, Mar. 23, 2010, 124 Stat. 220; Pub. L. 111–152, title I, §1001(b), Mar. 30, 2010, 124 Stat. 1031; Pub. L. 117–2, title II, §2305(a), Mar. 11, 2021, 135 Stat. 39.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsecs. (f), (g). Pub. L. 117–2 added subsec. (f) and redesignated former subsec. (f) as (g).
 
 <b>2010</b>—Subsec. (c)(1)(B)(i)(I). Pub. L. 111–152, §1001(b)(1)(A), substituted "94" for "90".
 
@@ -161,6 +173,12 @@ Subsec. (c)(2)(A). Pub. L. 111–152, §1001(b)(2)(A)(i), substituted "94" for "
 Subsec. (c)(2)(B). Pub. L. 111–152, §1001(b)(2)(B)(i), substituted "87" for "80".
 
 Subsec. (c)(2)(C). Pub. L. 111–152, §1001(b)(2)(A)(ii), (B)(ii), (C), added subpar. (C).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Pub. L. 117–2, title II, §2305(b), Mar. 11, 2021, 135 Stat. 40, provided that: "The amendment made by this section \[amending this section\] shall apply to plan years beginning after December 31, 2020."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "out-of-pocket".</i>
 

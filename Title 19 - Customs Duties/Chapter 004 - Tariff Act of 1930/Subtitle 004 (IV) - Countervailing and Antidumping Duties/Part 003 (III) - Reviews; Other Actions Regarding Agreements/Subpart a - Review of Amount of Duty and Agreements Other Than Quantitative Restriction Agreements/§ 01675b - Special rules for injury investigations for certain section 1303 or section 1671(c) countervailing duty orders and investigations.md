@@ -16,7 +16,7 @@
 
 #### (2) Description of countervailing duty orders
 
-&emsp;A countervailing duty order described in this paragraph is an order issued under section 1303 <sup>1</sup> of this title or section 1671(c) of this title with respect to which the requirement of an affirmative determination of material injurywas not applicable at the time such order was issued.
+&emsp;A countervailing duty order described in this paragraph is an order issued under section1303 <sup>1</sup> of this title or section 1671(c) of this title with respect to which the requirement of an affirmative determination of material injury was not applicable at the time such order was issued.
 
 #### (3) Requirements of request for investigation
 
@@ -86,7 +86,7 @@
 
 #### (4) Countervailing duty orders with respect to which no request for injury investigation is made
 
-&emsp;If, with respect to a countervailing duty order described in subsection (a), a request for an investigation is not made within the time required by subsection (a)(3), the Commission shall notify the administering authority that a negative determination has been made under subsection (a) and the provisions of paragraph (3)(B) shall apply with respect to the order.
+&emsp;If, with respect to a countervailing duty order described in subsection (a), a request for an investigation is not made within the time required by subsection (a)(3), the Commissionshall notify the administering authority that a negative determination has been made under subsection (a) and the provisions of paragraph (3)(B) shall apply with respect to the order.
 
 #### (c) Pending and suspended countervailing duty investigations
 
@@ -128,6 +128,8 @@ The administering authority or the Commission, as the case may be, shall publish
 
 (June 17, 1930, ch. 497, title VII, §753, as added Pub. L. 103–465, title II, §271(a), Dec. 8, 1994, 108 Stat. 4918; amended Pub. L. 104–295, §39, Oct. 11, 1996, 110 Stat. 3540.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1303 of this title, referred to in subsecs. (a)(2) and (c), is defined in section 1677(26) of this title to mean section 1303 as in effect on the day before Jan. 1, 1995.
@@ -138,13 +140,17 @@ Section 1303 of this title, referred to in subsecs. (a)(2) and (c), is defined i
 
 Subsecs. (a)(2), (c). Pub. L. 104–295 inserted "or section 1671(c) of this title" after "section 1303 of this title" and struck out "under section 1303(a)(2) of this title" after "material injury".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as an Effective Date of 1994 Amendment note under section 1671 of this title.
 
+#### <b>Executive Documents</b>
+
 #### Uruguay Round Agreements: Entry Into Force
 
-The Uruguay Round Agreements, including the World Trade Organization Agreement and agreements annexed to that Agreement, as referred to in section 3511(d) of this title, entered into force with respect to the United States on Jan. 1, 1995. See note set out under section 3511 of this title.
+The Uruguay Round Agreements, including the World Trade Organization Agreement and agreements annexed to that Agreement, as referred to in section 3511(d) of this title, entered into force with respect tothe United States on Jan. 1, 1995. See note set out under section 3511 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

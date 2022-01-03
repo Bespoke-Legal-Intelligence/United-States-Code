@@ -22,6 +22,8 @@ Oct. 27, 1986, Pub. L. 99–570, §12002, 100 Stat. 3207–170.
 
 The words "Effective July 1, 1987" are omitted as executed. The words after "issued a driver's license" are omitted as expired.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Pub. L. 109–59 inserted "and may have only one learner's permit at any time" before period at end.

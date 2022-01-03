@@ -30,7 +30,7 @@ As part of the Program, the Director of the National Institute of Standards and 
 
 #### (3) Report to Congress
 
-&emsp;Not later than 2 years after December 21, 2018, the Director of the National Institute of Standards and Technology shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee onScience, Space, and Technology of the House of Representatives a report summarizing the findings of the consortium.
+&emsp;Not later than 2 years after December 21, 2018, the Director of the National Institute of Standards and Technology shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report summarizing the findings of the consortium.
 
 #### (c) Funding
 

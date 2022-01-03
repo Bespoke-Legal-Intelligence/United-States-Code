@@ -40,9 +40,11 @@ Not later than 180 days after November 9, 2000, the Administrator, in consultati
 
 #### (f) Authorization of appropriations
 
-There is authorized to be appropriated to the Administrator to carry out this section, in addition to amounts otherwise available to carry out this section, $10,000,000 for each of fiscal years 2014 through 2023, to remain available until expended.
+There is authorized to be appropriated to the Administrator to carry out this section, in addition to amounts otherwise available to carry out this section, $10,000,000 for each of fiscal years2014 through 2023, to remain available until expended.
 
 (July 10, 1954, ch. 469, title II, §208, as added Pub. L. 106–472, title III, §310(a), Nov. 9, 2000, 114 Stat. 2075; amended Pub. L. 107–171, title III, §3008, May 13, 2002, 116 Stat. 283; Pub. L. 110–246, title III, §3013, June 18, 2008, 122 Stat. 1826; Pub. L. 113–79, title III, §3007, Feb. 7, 2014, 128 Stat. 775; Pub. L. 115–334, title III, §3108, Dec. 20, 2018, 132 Stat. 4604.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -59,6 +61,8 @@ Subsec. (f). Pub. L. 115–334, §3108(2), substituted "2023" for "2018".
 <b>2008</b>—Subsec. (f). Pub. L. 110–246 substituted "$8,000,000" for "$3,000,000" and "2012" for "2007".
 
 <b>2002</b>—Subsec. (f). Pub. L. 107–171 substituted "through 2007" for "and 2002".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

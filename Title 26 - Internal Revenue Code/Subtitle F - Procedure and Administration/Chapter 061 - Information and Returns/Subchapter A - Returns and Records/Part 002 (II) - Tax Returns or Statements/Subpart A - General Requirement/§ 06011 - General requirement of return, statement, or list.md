@@ -44,7 +44,7 @@ The Secretary may by regulations require any individual who receives allowances 
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall require that any individual income tax return prepared by a taxreturn preparer be filed on magnetic media if—
+&emsp;&emsp;The Secretary shall require that any individual income tax return prepared by a tax return preparer be filed on magnetic media if—
 
 &emsp;&emsp;&emsp;(i) such return is filed by such tax return preparer, and
 
@@ -120,7 +120,9 @@ Any organization required to file an annual return under this section which rela
 
 &emsp;&emsp;<b>For requirement that returns of income, estate, and gift taxes be made whether or not there is tax liability, see subparts B and C.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 732; Pub. L. 85–859, title I, §161, Sept. 2, 1958, 72 Stat. 1305; Pub. L. 88–563, §3(a), Sept. 2, 1964, 78 Stat. 843; Pub. L. 89–44, title I, §101(b)(6), June 21, 1965, 79 Stat. 136; Pub. L. 90–59, §4(b), July 31, 1967, 81 Stat. 154; Pub. L. 91–128, §4 (f), (g), Nov. 26, 1969, 83 Stat. 267; Pub. L. 92–178, title V, §504(a), Dec. 10, 1971, 85 Stat. 550; Pub. L. 94–455, title XIX, §§1904(b)(10)(A)(ii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1817, 1834; Pub. L. 95–615, §207(c), Nov. 8, 1978, 92 Stat. 3108; Pub. L. 97–248, title III, §319, Sept. 3, 1982, 96 Stat. 610; Pub. L. 98–67, title I, §109(a), Aug. 5, 1983, 97 Stat. 383; Pub. L. 98–369, div. A, title VIII, §801(d)(12), July 18, 1984, 98 Stat. 997; Pub. L. 99–514, title XVIII, §1899A(52), Oct. 22, 1986, 100 Stat. 2961; Pub. L. 100–647, title I, §1015(q)(1), Nov. 10, 1988, 102 Stat. 3572; Pub. L. 101–239, title VII, §7713(a), Dec. 19, 1989, 103 Stat. 2394; Pub. L. 105–34, title XII, §1224, Aug. 5, 1997, 111 Stat. 1019; Pub. L. 105–206, title II, §2001(c), July 22, 1998, 112 Stat. 723; Pub. L. 109–222, title V, §516(b)(2), May 17, 2006, 120 Stat. 371; Pub. L. 110–172, §11(g)(19), Dec. 29, 2007, 121 Stat. 2491; Pub. L. 111–92, §17(a), (b), Nov. 6, 2009, 123 Stat. 2996; Pub. L. 111–147, title V, §522(a), Mar. 18, 2010, 124 Stat. 112; Pub. L. 113–295, div. A, title II, §220(t), Dec. 19, 2014, 128 Stat. 4036; Pub. L. 115–141, div. U, title III, §301(a), Mar. 23, 2018, 132 Stat. 1183; Pub. L. 116–25, title II, §2301(a)–(c),title III, §3101(b)(2), July 1, 2019, 133 Stat. 1012, 1013, 1015; Pub. L. 116–94, div. O, title II, §202(d)(1), Dec. 20, 2019, 133 Stat. 3163.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 732; Pub. L. 85–859, title I, §161, Sept. 2, 1958, 72 Stat. 1305; Pub. L. 88–563, §3(a), Sept. 2, 1964, 78 Stat. 843; Pub. L. 89–44, title I, §101(b)(6), June 21, 1965, 79 Stat. 136; Pub. L. 90–59, §4(b), July 31, 1967, 81 Stat. 154; Pub. L. 91–128, §4 (f), (g), Nov. 26, 1969, 83 Stat. 267; Pub. L. 92–178, title V, §504(a), Dec. 10, 1971, 85 Stat. 550; Pub. L. 94–455, title XIX, §§1904(b)(10)(A)(ii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1817, 1834; Pub. L. 95–615, §207(c), Nov. 8, 1978, 92 Stat. 3108; Pub. L. 97–248, title III, §319, Sept. 3, 1982, 96 Stat. 610; Pub. L. 98–67, title I, §109(a), Aug. 5, 1983, 97 Stat. 383; Pub. L. 98–369, div. A, title VIII, §801(d)(12), July 18, 1984, 98 Stat. 997; Pub. L. 99–514, title XVIII, §1899A(52), Oct. 22, 1986, 100 Stat. 2961; Pub. L. 100–647, title I, §1015(q)(1), Nov. 10, 1988, 102 Stat. 3572; Pub. L. 101–239, title VII, §7713(a), Dec. 19, 1989, 103 Stat. 2394; Pub. L. 105–34, title XII, §1224, Aug. 5, 1997, 111 Stat. 1019; Pub. L. 105–206, title II, §2001(c), July 22, 1998, 112 Stat. 723; Pub. L. 109–222, title V, §516(b)(2), May 17, 2006, 120 Stat. 371; Pub. L. 110–172, §11(g)(19), Dec. 29, 2007, 121 Stat. 2491; Pub. L. 111–92, §17(a), (b), Nov. 6, 2009, 123 Stat. 2996; Pub. L. 111–147, title V, §522(a), Mar. 18, 2010, 124 Stat. 112; Pub. L. 113–295, div. A, title II, §220(t), Dec. 19, 2014, 128 Stat. 4036; Pub. L. 115–141, div. U, title III, §301(a), Mar. 23, 2018, 132 Stat. 1183; Pub. L. 116–25, title II, §2301(a)–(c), title III, §3101(b)(2), July 1, 2019, 133 Stat. 1012, 1013, 1015; Pub. L. 116–94, div. O, title II, §202(d)(1), Dec. 20, 2019, 133 Stat. 3163.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -198,6 +200,8 @@ Subsec. (d)(3). Pub. L. 91–128, §4(g), eased recordkeeping requirements by pr
 
 <b>1958</b>—Subsecs. (c), (d). Pub. L. 85–859 added subsec. (c) and redesignated former subsec. (c) as (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2019 Amendment
 
 Pub. L. 116–94, div. O, title II, §202(d)(2), Dec. 20, 2019, 133 Stat. 3163, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to returns required to be filed with respect to plan years beginning after December 31, 2019."
@@ -208,7 +212,7 @@ Amendment by section 3101(b)(2) of Pub. L. 116–25 applicable to taxable years 
 
 #### Effective Date of 2018 Amendment
 
-Pub. L. 115–141, div. U, title III, §301(b), Mar. 23, 2018, 132 Stat. 1183, provided that: "The amendments madeby this section \[amending this section\] shall take effect as if included in section 1101 of the Bipartisan Budget Act of 2015 \[Pub. L. 114–74\]."
+Pub. L. 115–141, div. U, title III, §301(b), Mar. 23, 2018, 132 Stat. 1183, provided that: "The amendments made by this section \[amending this section\] shall take effect as if included in section 1101 of the Bipartisan Budget Act of 2015 \[Pub. L. 114–74\]."
 
 #### Effective Date of 2010 Amendment
 
@@ -220,7 +224,7 @@ Pub. L. 111–92, §17(c), Nov. 6, 2009, 123 Stat. 2996, provided that: "The ame
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–222 applicable to disclosures the due date for which are after May 17, 2006, see section 516(d)(2) of Pub. L. 109–222, set out as an Effective Date note under section 4965 of this title.
+Amendment by Pub. L. 109–222 applicable to disclosures the due date for which are after May 17, 2006, seesection 516(d)(2) of Pub. L. 109–222, set out as an Effective Date note under section 4965 of this title.
 
 #### Effective Date of 1997 Amendment
 

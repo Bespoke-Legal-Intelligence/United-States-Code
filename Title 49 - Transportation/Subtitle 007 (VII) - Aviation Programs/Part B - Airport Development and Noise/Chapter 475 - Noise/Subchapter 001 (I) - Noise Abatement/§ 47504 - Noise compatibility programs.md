@@ -68,7 +68,7 @@ Soundproofing and acquisition of certain residential buildings and properties.�
 
 &emsp;(D) to an airport operator and unit of local government referred to in paragraph (1)(A) or (1)(B) of this subsection to soundproof a building in the noise impact area surrounding the airport that is used primarily for educational or medical purposes and that the Secretary decides is adversely affected by airport noise;
 
-&emsp;(E) to an airport operator of a congested airport (as defined in section 47175) and a unit oflocal government referred to in paragraph (1)(B) of this subsection to carry out a project to mitigate noise in the area surrounding the airport if the project is included as a commitment in a record of decision of the Federal Aviation Administration for an airport capacity enhancement project (as defined in section 47175) even if that airport has not met the requirements of part 150 of title 14, Code of Federal Regulations; and
+&emsp;(E) to an airport operator of a congested airport (as defined in section 47175) and a unit of local government referred to in paragraph (1)(B) of this subsection to carry out a project to mitigate noise in the area surrounding the airport if the project is included as a commitment in a record of decision of the Federal Aviation Administration for an airport capacity enhancement project (as defined in section 47175) even if that airport has not met the requirements of part 150 of title 14, Code of Federal Regulations; and
 
 &emsp;(F) to an airport operator of a congested airport (as defined in section 47175) and a unit of local government referred to in paragraph (1)(B) to carry out a project to mitigate noise, if the project—
 
@@ -110,7 +110,7 @@ Grants for Assessment of Flight Procedures.—
 
 &emsp;(1)
 
-In general.—In accordance with subsection (c)(1), the Secretary may make a grant to an airport operator to assist in completing environmental review and assessment activities for proposals to implement flight procedures at such airport that have been approved as part of an airport noise compatibility program under subsection (b).
+In general.—In accordance with subsection (c)(1), the Secretary may make a grantto an airport operator to assist in completing environmental review and assessment activities for proposals to implement flight procedures at such airport that have been approved as part of an airport noise compatibility program under subsection (b).
 
 &emsp;(2)
 
@@ -190,6 +190,8 @@ In subsection (d), the words "by the Secretary or the Administrator of the Feder
 
 This redesignates 49:47504(c)(1)(C) and (D) as 49:47504(c)(2)(C) and (D) because the subject matter is similar to that of 49:47504(c)(2)(A) and (B) that was added by section 119(2) of the Federal Aviation Administration Authorization Act of 1994 (Public Law 103–305, 108 Stat. 1580).
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 301(d)(4)(B) of the Airport and Airway Safety and Capacity Expansion Act of 1987, referred to in subsec. (c)(2)(A)(i), is section 301(d)(4)(B) of Pub. L. 100–223, which was set out as a note under section 2104 of former Title 49, Transportation, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379.
@@ -231,6 +233,8 @@ Subsec. (c)(4). Pub. L. 103–305, §119(3), struck out "paragraph (1) of" befor
 Pub. L. 103–305, §119(1), redesignated par. (3) as (4). Former par. (4) redesignated (5).
 
 Subsec. (c)(5). Pub. L. 103–305, §119(1), redesignated par. (4) as (5).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

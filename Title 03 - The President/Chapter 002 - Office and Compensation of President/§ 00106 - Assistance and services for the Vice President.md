@@ -16,7 +16,7 @@
 
 > Notwithstanding such section 3109(b), temporary services of any expert or consultant described in such section 3109(b) may be procured under paragraph (2) of this subsection for a period in excess of one year if the Vice President determines such procurement is necessary.
 
-(b) In order to carry out the executive duties and responsibilities referred to in subsection (a),there are authorized to be appropriated each fiscal year to the Vice President such sums as may be necessary for—
+(b) In order to carry out the executive duties and responsibilities referred to in subsection (a), there are authorized to be appropriated each fiscal year to the Vice President such sums as may be necessary for—
 
 &emsp;(1) the official expenses of the Office of the Vice President;
 
@@ -84,7 +84,7 @@ Sec. 4. The Special Assistant shall be appointed by the President and shall serv
 
 Sec. 5. (a) The Special Assistant shall have such staff and other assistance as may be necessary to carry out his duties under this Order.
 
-(b) The Special Assistant shall be provided with such office space as may be necessary to carry out his duties under this Order, and shall also be provided with such office space, and maintenance thereof, as may be necessary for the use of former Presidents at the seat of Government when they are engaged in any effort of interest or concern to the President.
+(b) The Special Assistant shall be provided with such office space as may be necessary to carry out his dutiesunder this Order, and shall also be provided with such office space, and maintenance thereof, as may be necessary for the use of former Presidents at the seat of Government when they are engaged in any effort of interest or concern to the President.
 
 Sec. 6. (a) The compensation and expenses of the Special Assistant and members of his staff shall be paid from the appropriation under the heading "Special" in the Executive Office Appropriation Act, 1969, or any corresponding appropriation which may be made for subsequent fiscal years, or from such other appropriated funds as may be available under law.
 

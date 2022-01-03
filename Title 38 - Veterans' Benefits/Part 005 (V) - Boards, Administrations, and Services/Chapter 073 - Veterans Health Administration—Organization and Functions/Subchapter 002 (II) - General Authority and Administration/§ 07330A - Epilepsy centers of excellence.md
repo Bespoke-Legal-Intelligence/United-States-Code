@@ -46,7 +46,7 @@ Epilepsy Center of Excellence Defined.—In this section, the term "epilepsy cen
 
 &emsp;(4) The capability to conduct effectively evaluations of the activities of such center.
 
-&emsp;(5) The capability to assist in the expansion of the Department's use of information systems and databases to improve the quality anddelivery of care for veterans enrolled within the Department's health care system.
+&emsp;(5) The capability to assist in the expansion of the Department's use of information systems and databases to improve the quality and delivery of care for veterans enrolled within the Department's health care system.
 
 &emsp;(6) The capability to assist in the expansion of the Department telehealth program to develop, transmit, monitor, and review neurological diagnostic tests.
 
@@ -90,5 +90,5 @@ Authorization of Appropriations.—(1) There are authorized to be appropriated $
 
 The date of the enactment of the Veterans' Mental Health and Other Care Improvements Act of 2008, referred to in subsec. (a)(1), is the date of enactment of Pub. L. 110–387, which was approved Oct. 10, 2008.
 
-The Federal Advisory Committee Act, referred to in subsec. (c)(5), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (c)(5), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770,which is set out in the Appendix to Title 5, Government Organization and Employees.
 

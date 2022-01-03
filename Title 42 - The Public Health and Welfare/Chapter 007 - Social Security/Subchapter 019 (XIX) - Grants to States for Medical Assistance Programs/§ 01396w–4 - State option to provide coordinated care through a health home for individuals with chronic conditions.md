@@ -62,7 +62,7 @@ The Secretary shall establish standards for qualification as a designated provid
 
 #### (C) Best practices
 
-&emsp;&emsp;Not later than October 1, 2020, the Secretary shall make publicly available on theinternet website of the Centers for Medicare \& Medicaid Services best practices for designing and implementing an SUD-focused State plan amendment, based on the experiences of States that have State plan amendments approved under this section that include SUD-eligible individuals.
+&emsp;&emsp;Not later than October 1, 2020, the Secretary shall make publicly available on the internet website of the Centers for Medicare \& Medicaid Services best practices for designing and implementing an SUD-focused State plan amendment, based on the experiences of States that have State plan amendments approved under this section that include SUD-eligible individuals.
 
 #### (D) Definitions
 
@@ -84,7 +84,7 @@ The Secretary shall establish standards for qualification as a designated provid
 
 #### (d) Hospital referrals
 
-A State shall include in the State plan amendment a requirement for hospitals that are participating providers under the State plan or a waiver of such plan to establish procedures for referring any eligible individuals with chronic conditions who seek or need treatment in a hospital emergency department to designated providers.
+A State shall include in the State plan amendment a requirement for hospitals that are participating providers under the State plan or awaiver of such plan to establish procedures for referring any eligible individuals with chronic conditions who seek or need treatment in a hospital emergency department to designated providers.
 
 #### (e) Coordination
 
@@ -190,6 +190,8 @@ In this section:
 
 (Aug. 14, 1935, ch. 531, title XIX, §1945, as added Pub. L. 111–148, title II, §2703(a), Mar. 23, 2010, 124 Stat. 319; amended Pub. L. 115–271, title I, §1006(a), Oct. 24, 2018, 132 Stat. 3913.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 5001 of Public Law 111–5, referred to in subsec. (c)(3)(B), is section 5001 of Pub. L. 111–5, div. B, title V, Feb. 17, 2009, 123 Stat. 496, which was formerly set out as a note under section 1396d of this title.
@@ -199,6 +201,8 @@ Section 5001 of Public Law 111–5, referred to in subsec. (c)(3)(B), is section
 <b>2018</b>—Subsec. (c)(1). Pub. L. 115–271, §1006(a)(1), inserted "subject to paragraph (4)," after "except that,".
 
 Subsec. (c)(4). Pub. L. 115–271, §1006(a)(2), added par. (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Survey and Interim Report
 

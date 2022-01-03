@@ -10,7 +10,7 @@ Action of Judicial Conference.—The Judicial Conference, or the standing commit
 
 (c)
 
-No Judicial Review.—Except as expressly provided in this section and section 352(c), allorders and determinations, including denials of petitions for review, shall be final and conclusive and shall not be judicially reviewable on appeal or otherwise.
+No Judicial Review.—Except as expressly provided in this section and section 352(c), all orders and determinations, including denials of petitions for review, shall be final and conclusive and shall not be judicially reviewable on appeal or otherwise.
 
 (Added Pub. L. 107–273, div. C, title I, §11042(a), Nov. 2, 2002, 116 Stat. 1853.)
 

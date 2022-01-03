@@ -38,6 +38,8 @@ It shall be the duty of the Joint Committee—
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 927; Pub. L. 105–206, title IV, §4002(a), July 22, 1998, 112 Stat. 784; Pub. L. 108–311, title III, §321(b), Oct. 4, 2004, 118 Stat. 1182; Pub. L. 115–141, div. U, title IV, §401(b)(57), Mar. 23, 2018, 132 Stat. 1205.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Par. (3)(C). Pub. L. 115–141 struck out subpar. (C) which read as follows: "To report, for each calendar year after 1998 and before 2005, to the Committees on Finance, Appropriations, and Governmental Affairs of the Senate, and to the Committees on Ways and Means, Appropriations, and Government Reform and Oversight of the House of Representatives, with respect to the matters addressed in the joint review referred to in section 8021(f)(2)."
@@ -57,6 +59,8 @@ It shall be the duty of the Joint Committee—
 &emsp;"(vi) the annual filing season."
 
 <b>1998</b>—Par. (3). Pub. L. 105–206 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "To report, from time to time, to the Committee on Finance and the Committee on Ways and Means, and, in its discretion, to the Senate or the House of Representatives, or both, the results of its investigations, together with such recommendation as it may deem advisable."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 
@@ -100,7 +104,7 @@ Tax complexity analysis.—For purposes of this subsection, the term 'tax comple
 
 &emsp;&emsp;"(v) the extent to which the provision may result in disagreements between taxpayers and the Internal Revenue Service; and
 
-&emsp;&emsp;"(vi) any expected impact on the Internal Revenue Service from the provision (including the impact on internal training, revision of the Internal Revenue Manual, reprogramming of computers, and the extent to which the Internal Revenue Service would be required to divert or redirect resources in response to the provision).
+&emsp;&emsp;"(vi) any expected impact on the Internal Revenue Service from the provision (including the impact on internal training, revision of the Internal Revenue Manual, reprogramming of computers, and the extent to which the Internal Revenue Servicewould be required to divert or redirect resources in response to the provision).
 
 "(3)
 
@@ -116,7 +120,7 @@ Pub. L. 94–455, title V, §507, Oct. 4, 1976, 90 Stat. 1569, mandated a full a
 
 #### Study of Expanded Participation in Individual Retirement Accounts
 
-Pub. L. 94–455, title XV, §1509, Oct. 4, 1976, 90 Stat. 1741, directed Joint Committee on Taxation to carry out study with respect to broadening class of individuals eligible to claim deduction for retirement savings under section 219 or 220 of this title, and to report itsfindings to Committee on Ways and Means of the House of Representatives and to Committee on Finance of the Senate.
+Pub. L. 94–455, title XV, §1509, Oct. 4, 1976, 90 Stat. 1741, directed Joint Committee on Taxation to carry out study with respect to broadening class of individuals eligible to claim deduction for retirement savings under section 219 or 220 of this title, and to report its findings to Committee on Ways and Means of the House of Representatives and to Committee on Finance of the Senate.
 
 #### Tax Incentives Study
 

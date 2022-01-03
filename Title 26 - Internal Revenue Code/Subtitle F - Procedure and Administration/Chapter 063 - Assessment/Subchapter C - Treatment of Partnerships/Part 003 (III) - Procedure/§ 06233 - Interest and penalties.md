@@ -12,7 +12,7 @@
 
 #### (2) Determination of amount of interest
 
-&emsp;The interest computed under this paragraph with respect to any partnership adjustment is the interest which would be determined under chapter 67 for the period beginning on the day after the return due date for the reviewed year and ending on the return due date for the adjustment year (or, if earlier, the date payment of the imputed underpayment is made). Proper adjustments in the amount determined under the preceding sentence shall be made for adjustments required for partnership taxable years after the reviewed year and before the adjustment year by reason of such partnership adjustment.
+&emsp;The interest computed under this paragraph with respect to any partnership adjustment is the interest which would be determined under chapter 67 for the period beginning on the dayafter the return due date for the reviewed year and ending on the return due date for the adjustment year (or, if earlier, the date payment of the imputed underpayment is made). Proper adjustments in the amount determined under the preceding sentence shall be made for adjustments required for partnership taxable years after the reviewed year and before the adjustment year by reason of such partnership adjustment.
 
 #### (3) Penalties
 
@@ -46,6 +46,8 @@ For rules allowing deposits to suspend running of interest on potential underpay
 
 (Added Pub. L. 114–74, title XI, §1101(c)(1), Nov. 2, 2015, 129 Stat. 633; amended Pub. L. 115–141, div. U, title II, §206(i), Mar. 23, 2018, 132 Stat. 1180.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 6233, added Pub. L. 98–369, div. A, title VII, §714(p)(1), July 18, 1984, 98 Stat. 964; amended Pub. L. 104–188, title I, §1307(c)(3)(B), Aug. 20, 1996, 110 Stat. 1782, related to extension to entities filing partnership returns, prior to repeal by Pub. L. 114–74, title XI, §1101(a), Nov. 2, 2015, 129 Stat. 625.
@@ -53,6 +55,8 @@ A prior section 6233, added Pub. L. 98–369, div. A, title VII, §714(p)(1), Ju
 #### Amendments
 
 <b>2018</b>—Subsec. (c). Pub. L. 115–141 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

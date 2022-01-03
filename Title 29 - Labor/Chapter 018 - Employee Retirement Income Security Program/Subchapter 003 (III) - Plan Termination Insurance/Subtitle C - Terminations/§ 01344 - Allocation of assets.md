@@ -18,7 +18,7 @@ In the case of the termination of a single-employer plan, the plan administrator
 
 &emsp;(4) Fourth—
 
-&emsp;&emsp;(A) to all other benefits (if any) of individuals under the plan guaranteed under this subchapter (determined without regard to section 1322b(a) of this title), and
+&emsp;&emsp;(A) to all other benefits (if any) of individuals under the plan guaranteed under thissubchapter (determined without regard to section 1322b(a) of this title), and
 
 &emsp;&emsp;(B) to the additional benefits (if any) which would be determined under subparagraph (A) if section 1322(b)(5)(B) of this title did not apply.
 
@@ -52,7 +52,7 @@ For purposes of subsection (a)—
 
 #### (c) Increase or decrease in value of assets
 
-Any increase or decrease in the value of the assets of a single-employer plan occurring during the period beginning on the later of (1) the date a trustee is appointed under section 1342(b) of this title or (2) the date on which the plan is terminated is to be allocated between the plan and the corporation in the manner determined by the court (in the case of a court-appointed trustee) or as agreed upon by the corporation and the plan administrator in any other case. Any increase or decrease in the value of the assets of a single-employer plan occurring afterthe date on which the plan is terminated shall be credited to, or suffered by, the corporation.
+Any increase or decrease in the value of the assets of a single-employer plan occurring during the period beginning on the later of (1) the date a trustee is appointed under section 1342(b) of this title or (2) the date on which the plan is terminated is to be allocated between the plan and the corporation in the manner determined by the court (in the case of a court-appointed trustee) or as agreed upon by the corporation and the plan administrator in any other case. Any increase or decrease in the value of the assets of a single-employer plan occurring after the date on which the plan is terminated shall be credited to, or suffered by, the corporation.
 
 #### (d) Distribution of residual assets; restrictions on reversions pursuant to recently amended plans; assets attributable to employee contributions; calculation of remaining assets
 
@@ -64,7 +64,7 @@ Any increase or decrease in the value of the assets of a single-employer plan oc
 
 &emsp;(C) the plan provides for such a distribution in these circumstances.
 
-(2)(A) In determining the extent to which a plan provides for the distribution of plan assets to the employer for purposes of paragraph (1)(C), any such provision, and any amendment increasing the amount which may be distributed to the employer, shall not be treated as effective before the end of the fifth calendar year following the date of the adoption of such provision or amendment.
+(2)(A) In determining the extent to which a plan provides for the distribution of plan assets to the employer for purposes of paragraph (1)(C), any such provision, and any amendment increasing the amount which may be distributed to theemployer, shall not be treated as effective before the end of the fifth calendar year following the date of the adoption of such provision or amendment.
 
 (B) A distribution to the employer from a plan shall not be treated as failing to satisfy the requirements of this paragraph if the plan has been in effect for fewer than 5 years and the plan has provided for such a distribution since the effective date of the plan.
 
@@ -216,7 +216,7 @@ Amendment by section 408(b)(2) of Pub. L. 109–280 applicable for any terminati
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable to reversions occurring after Sept. 30, 1990, but not applicable to any reversion after Sept. 30, 1990, if (1) in the case of plans subject to subchapter III of this chapter, notice of intent to terminate under such subchapter was provided to participants (or if no participants, to Pension Benefit Guaranty Corporation) before Oct. 1, 1990, (2) in the case of plans subject to subchapter I of this chapter (and not subchapter III), notice of intent to reduce future accruals under section 1054(h) of this title was provided to participants in connection with termination before Oct. 1, 1990, (3) in the case of plans not subject to subchapter I or III of this chapter, a request for a determination letter with respect to termination was filed with Secretary of the Treasury or Secretary's delegate before Oct. 1, 1990, or (4) in the case of plans not subject to subchapter I or III of this chapter and having only one participant, a resolution terminating the plan was adopted by employer before Oct. 1, 1990, see section 12003 of Pub. L. 101–508, set out as a note under section 4980 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 101–508 applicable to reversions occurring after Sept. 30, 1990, but not applicableto any reversion after Sept. 30, 1990, if (1) in the case of plans subject to subchapter III of this chapter, notice of intent to terminate under such subchapter was provided to participants (or if no participants, to Pension Benefit Guaranty Corporation) before Oct. 1, 1990, (2) in the case of plans subject to subchapter I of this chapter (and not subchapter III), notice of intent to reduce future accruals under section 1054(h) of this title was provided to participants in connection with termination before Oct. 1, 1990, (3) in the case of plans not subject to subchapter I or III of this chapter, a request for a determination letter with respect to termination was filed with Secretary of the Treasury or Secretary's delegate before Oct. 1, 1990, or (4) in the case of plans not subject to subchapter I or III of this chapter and having only one participant, a resolution terminating the plan was adopted by employer before Oct. 1, 1990, see section 12003 of Pub. L. 101–508, set out as a note under section 4980 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1989 Amendment
 

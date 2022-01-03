@@ -18,7 +18,7 @@ The President, acting through the Secretary and the Administrator of the Environ
 
 &emsp;(7) existing and prospective governmental policies and laws affecting the coal industry with the view of determining what, if any, changes in and implementation of such policies and laws may be advisable in order to consolidate, coordinate, and provide an effective and equitable national energy policy consistent with other national policies; and
 
-&emsp;(8) the most efficient use of the Nation's coal resources considering economic (including capital and consumer costs, and balance ofpayments), social (including employment), environmental, technological, national defense, and other aspects.
+&emsp;(8) the most efficient use of the Nation's coal resources considering economic (including capital and consumer costs, and balance of payments), social (including employment), environmental, technological, national defense, and other aspects.
 
 #### (b) Report
 
@@ -41,6 +41,8 @@ Within 18 months after the effective date of this chapter, the President shall s
 There is hereby authorized to be appropriated to the Secretary for allocation between the Department of Energy and the Environmental Protection Agency for fiscal years 1979 and 1980, not to exceed $18,000,000, for use in carrying out the purposes of this section.
 
 (Pub. L. 95–620, title VII, §741, Nov. 9, 1978, 92 Stat. 3339.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

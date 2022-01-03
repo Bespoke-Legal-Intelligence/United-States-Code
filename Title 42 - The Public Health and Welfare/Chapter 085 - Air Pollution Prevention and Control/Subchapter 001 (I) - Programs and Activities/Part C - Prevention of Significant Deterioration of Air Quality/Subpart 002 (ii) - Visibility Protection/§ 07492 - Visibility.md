@@ -2,7 +2,7 @@
 
 #### (a) Studies
 
-(1) The Administrator, in conjunction with the National Park Service and other appropriate Federal agencies, shall conduct research to identify and evaluate sources and source regions ofboth visibility impairment and regions that provide predominantly clean air in class I areas. A total of $8,000,000 per year for 5 years is authorized to be appropriated for the Environmental Protection Agency and the other Federal agencies to conduct this research. The research shall include—
+(1) The Administrator, in conjunction with the National Park Service and other appropriate Federal agencies, shall conduct research to identify and evaluate sources and source regions of both visibility impairment and regions that provide predominantly clean air in class I areas. A total of $8,000,000 per year for 5 years is authorized to be appropriated for the Environmental Protection Agency and the other Federal agencies to conduct this research. The research shall include—
 
 &emsp;(A) expansion of current visibility related monitoring in class I areas;
 
@@ -62,7 +62,7 @@ A Visibility Transport Commission—
 
 #### (e) Duties of Administrator
 
-(1) The Administrator shall, taking into account the studies pursuant to subsection (a)(1)and the reports pursuant to subsection (d)(2) and any other relevant information, within eighteen months of receipt of the report referred to in subsection (d)(2) of this section, carry out the Administrator's regulatory responsibilities under section 7491 of this title, including criteria for measuring "reasonable progress" toward the national goal.
+(1) The Administrator shall, taking into account the studies pursuant to subsection (a)(1) and the reports pursuant to subsection (d)(2) and any other relevant information, within eighteen months of receipt of the report referred to in subsection (d)(2) of this section, carry out the Administrator's regulatory responsibilities under section 7491 of this title, including criteria for measuring "reasonable progress" toward the national goal.
 
 (2) Any regulations promulgated under section 7491 of this title pursuant to this subsection shall require affected States to revise within 12 months their implementation plans under section 7410 of this title to contain such emission limits, schedules of compliance, and other measures as may be necessary to carry out regulations promulgated pursuant to this subsection.
 
@@ -71,6 +71,8 @@ A Visibility Transport Commission—
 The Administrator pursuant to subsection (c)(1) shall, within 12 months, establish a visibility transport commission for the region affecting the visibility of the Grand Canyon National Park.
 
 (July 14, 1955, ch. 360, title I, §169B, as added Pub. L. 101–549, title VIII, §816, Nov. 15, 1990, 104 Stat. 2695.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

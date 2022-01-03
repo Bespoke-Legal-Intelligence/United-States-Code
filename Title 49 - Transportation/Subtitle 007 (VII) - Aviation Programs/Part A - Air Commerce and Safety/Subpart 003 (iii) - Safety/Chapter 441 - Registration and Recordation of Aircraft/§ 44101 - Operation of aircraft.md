@@ -48,6 +48,8 @@ In subsection (a), the words "Except as provided in subsection (b) of this secti
 
 In subsection (b), before clause (1), the words "A person may operate an aircraft in the United States that is not registered" are substituted for "may be operated and navigated without being so registered" and "may . . . permit the operation and navigation of aircraft without registration" for clarity. In clause (2), the words "identified in a way" are substituted for "identified, by the agency having jurisdiction over them, in a manner" to eliminate unnecessary words.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2004 Amendment
 
 Pub. L. 108–297, §7, Aug. 9, 2004, 118 Stat. 1097, provided that: "This Act \[see Short Title of 2004 Amendment note set out under section 40101 of this title\], including any amendments made by this Act, shall take effect on the date the Cape Town Treaty (as defined in section 44113 of title 49, United States Code) enters into force with respect to the United States and shall not apply to any registration or recordation that was made before such effective date under chapter 441 of such title or any legal rights relating to such registration or recordation." \[The Cape Town Treaty entered into force with respect to the United States on Mar. 1, 2006. See 71 F.R. 8457.\]
@@ -86,7 +88,7 @@ Economic analysis.—The Administrator shall not be required to prepare an econo
 
 "(d)
 
-Applicability of Treaty.—Notwithstanding parts 47.37(a)(3)(ii) and 47.47(a)(2) of title 14, of the Codeof Federal Regulations, Articles IX(5) and XIII of the Cape Town Treaty shall apply to the matters described in subsection (b) until the earlier of the effective date of the final rule under this section or December 31, 2004."
+Applicability of Treaty.—Notwithstanding parts 47.37(a)(3)(ii) and 47.47(a)(2) of title 14, of the Code of Federal Regulations, Articles IX(5) and XIII of the Cape Town Treaty shall apply to the matters described in subsection (b) until the earlier of the effective date of the final rule under this section or December 31, 2004."
 
 #### Cape Town Treaty; Findings and Purpose
 

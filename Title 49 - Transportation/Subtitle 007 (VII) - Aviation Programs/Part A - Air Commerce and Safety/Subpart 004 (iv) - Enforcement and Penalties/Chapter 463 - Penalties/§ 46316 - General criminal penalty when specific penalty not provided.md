@@ -48,6 +48,8 @@ In subsection (b), reference to 49 App.:ch. 20, subch. VII is omitted as unneces
 
 This amends 49:46316(b) to make it easier to include future sections in the cross-reference by restating it in terms of chapters.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–254 substituted "Administrator of the Transportation Security Administration with respect to security duties and powers designated to be carried out by the Administrator of the Transportation Security Administration or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator of the Federal Aviation Administration" for "Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or the Administrator of the Federal Aviation Administration with respect to aviation safety duties and powers designated to be carried out by the Administrator".
@@ -57,6 +59,8 @@ This amends 49:46316(b) to make it easier to include future sections in the cros
 <b>1997</b>—Subsec. (b). Pub. L. 105–102 amended directory language of Pub. L. 104–287. See 1996 Amendment note below.
 
 <b>1996</b>—Subsec. (b). Pub. L. 104–287, as amended by Pub. L. 105–102, substituted "chapter 447 (except section 44718(a)), and chapter 449 (except sections 44902, 44903(d), 44904, and 44907–44909)" for "and sections 44701(a) and (b), 44702–44716, 44901, 44903(b) and (c), 44905, 44906, 44912–44915, and 44932–44938".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1997 Amendment
 

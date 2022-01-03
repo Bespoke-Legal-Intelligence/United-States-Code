@@ -98,9 +98,11 @@ For purposes of this section, the following definitions shall apply:
 
 #### (3) Covered security
 
-&emsp;The term "covered security" means a security that satisfies the standards for a covered security specified in paragraph (1) or (2) of section 77r(b) of this title at the time during which it is alleged that the misrepresentation, omission, or manipulative or deceptive conduct occurred, except that such term shall not include any debt security that is exempt from registration under this subchapter pursuant to rules issued by the Commission under section 77d(2) <sup>1</sup> of this title.
+&emsp;The term "covered security" means a security that satisfies the standards for a covered security specified in paragraph (1) or (2) of section 77r(b) of this title at the time during which it is alleged that the misrepresentation, omission, or manipulative or deceptive conduct occurred, except that such term shall not include any debt security that is exempt from registration under this subchapter pursuant torules issued by the Commission under section 77d(2) <sup>1</sup> of this title.
 
 (May 27, 1933, ch. 38, title I, §16, 48 Stat. 84; Pub. L. 105–353, title I, §101(a)(1), Nov. 3, 1998, 112 Stat. 3227.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -109,6 +111,8 @@ Section 77d(2) of this title, referred to in subsec. (f)(3), was redesignated se
 #### Amendments
 
 <b>1998</b>—Pub. L. 105–353 amended section catchline and text generally. Prior to amendment, text read as follows: "The rights and remedies provided by this subchapter shall be in addition to any and all other rights and remedies that may exist at law or in equity."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

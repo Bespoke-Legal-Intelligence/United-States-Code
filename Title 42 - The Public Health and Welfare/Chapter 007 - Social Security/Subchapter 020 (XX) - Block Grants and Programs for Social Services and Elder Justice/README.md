@@ -1,5 +1,7 @@
 ### SUBCHAPTER XX—BLOCK GRANTS AND PROGRAMS FOR SOCIAL SERVICES AND ELDER JUSTICE
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 <b>2018</b>—Pub. L. 115–123, div. E, title VIII, §50802(1), Feb. 9, 2018, 132 Stat. 269, substituted "AND PROGRAMS" for "TO STATES" in subchapter heading.

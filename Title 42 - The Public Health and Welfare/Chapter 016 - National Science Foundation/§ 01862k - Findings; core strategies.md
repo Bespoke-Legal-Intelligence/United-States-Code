@@ -38,9 +38,13 @@ In carrying out activities designed to achieve the goals described in subsection
 
 (Pub. L. 105–207, title I, §101, July 29, 1998, 112 Stat. 869.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the National Science Foundation Authorization Act of 1998, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Indirect Costs
 
@@ -108,7 +112,7 @@ Definitions.—In this section:
 
 &emsp;"(1)
 
-Educationally useful federal equipment.—The term 'educationally useful Federal equipment' means computers and related peripheral tools and research equipment that is appropriate for use in schools.
+Educationally useful federal equipment.—The term 'educationally useful Federal equipment'means computers and related peripheral tools and research equipment that is appropriate for use in schools.
 
 &emsp;"(2)
 

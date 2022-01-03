@@ -138,7 +138,7 @@
 
 &emsp;&emsp;(B) prohibits or restricts an employee or applicant for employment from disclosing to Congress, the Special Counsel, the Inspector General of an agency, or any other agency component responsible for internal investigation or review any information that relates to any violation of any law, rule, or regulation, or mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety, or any other whistleblower protection; or
 
-&emsp;(14) access the medical record of another employee or an applicant for employment as a part of, or otherwise in furtherance of, any conduct described in paragraphs (1) through (13).
+&emsp;(14) access the medical record of another employee or an applicant for employment as apart of, or otherwise in furtherance of, any conduct described in paragraphs (1) through (13).
 
 > This subsection shall not be construed to authorize the withholding of information from Congress or the taking of any personnel action against an employee who discloses information to Congress. For purposes of paragraph (8), (i) any presumption relating to the performance of a duty by an employee whose conduct is the subject of a disclosure as defined under subsection (a)(2)(D) may be rebutted by substantial evidence, and (ii) a determination as to whether an employee or applicant reasonably believes that such employee or applicant has disclosed information that evidences any violation of law, rule, regulation, gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety shall be made by determining whether a disinterested observer with knowledge of the essential facts known to and readily ascertainable by the employee or applicant could reasonably conclude that the actions of the Government evidence such violations, mismanagement, waste, abuse, or danger.
 
@@ -392,7 +392,7 @@ Pub. L. 112–199, title I, §104(b)(3), Nov. 27, 2012, 126 Stat. 1467, provided
 
 #### Disclosure of Censorship Related to Research, Analysis, or Technical Information
 
-Pub. L. 112–199, title I, §110, Nov. 27, 2012, 126 Stat. 1471, as amended by Pub. L. 115–73, title I, §107(a)(2)(C),Oct. 26, 2017, 131 Stat. 1239; Pub. L. 115–91, div. A, title X, §1097(b)(3)(C), Dec. 12, 2017, 131 Stat. 1618, provided that:
+Pub. L. 112–199, title I, §110, Nov. 27, 2012, 126 Stat. 1471, as amended by Pub. L. 115–73, title I, §107(a)(2)(C), Oct. 26, 2017, 131 Stat. 1239; Pub. L. 115–91, div. A, title X, §1097(b)(3)(C), Dec. 12, 2017, 131 Stat. 1618, provided that:
 
 "(a)
 
@@ -490,7 +490,7 @@ Memorandum of President of the United States, June 17, 2009, 74 F.R. 29393, prov
 
 Memorandum for the Heads of Executive Departments and Agencies
 
-Millions of hard-working, dedicated, and patriotic public servants are employed by the Federal Government as part of the civilian workforce, and many of these devoted Americans have same-sex domestic partners. Leading companies in the private sector are free to provide to same-sex domestic partners the same benefits they provide to married people of the opposite sex. Executive departments and agencies, however, mayonly provide benefits on that basis if they have legal authorization to do so. My Administration is not authorized by Federal law to extend a number of available Federal benefits to the same-sex partners of Federal employees. Within existing law, however, my Administration, in consultation with the Secretary of State, who oversees our Foreign Service employees, and the Director of the Office of Personnel Management, who oversees human resource management for our civil service employees, has identified areas in which statutory authority exists to achieve greater equality for the Federal workforce through extension to same-sex domestic partners of benefits currently available to married people of the opposite sex. Extending available benefits will help the Federal Government compete with the private sector to recruit and retain the best and the brightest employees.
+Millions of hard-working, dedicated, and patriotic public servants are employed by the Federal Government as part of the civilian workforce, and many of these devoted Americans have same-sex domestic partners. Leading companies in the private sector are free to provide to same-sex domestic partners the same benefits they provide to married people of the opposite sex. Executive departments and agencies, however, may only provide benefits on that basis if they have legal authorization to do so. My Administration is not authorized by Federal law to extend a number of available Federal benefits to the same-sex partners of Federal employees. Within existing law, however, my Administration, in consultation with the Secretary of State, who oversees our Foreign Service employees, and the Director of the Office of Personnel Management, who oversees human resource management for our civil service employees, has identified areas in which statutory authority exists to achieve greater equality for the Federal workforce through extension to same-sex domestic partners of benefits currently available to married people of the opposite sex. Extending available benefits will help the Federal Government compete with the private sector to recruit and retain the best and the brightest employees.
 
 I hereby request the following:
 
@@ -546,7 +546,7 @@ Section 1. <i>Immediate Actions To Extend Benefits</i>. Agencies should immediat
 
 (c) All agencies offering any of the benefits specified by OPM in implementing guidance under section 3 of this memorandum, including credit union membership, access to fitness facilities, and access to planning and counseling services, should take all appropriate action to provide the same level of benefits that is provided to employees' spouses and their children to employees' same-sex domestic partners and their children.
 
-(d) All agencies with authority to provide benefits to employees outside of the context of title 5, UnitedStates Code should take all appropriate actions to ensure that the benefits being provided to employees' spouses and their children are also being provided, at an equivalent level wherever permitted by law, to their employees' same-sex domestic partners and their children.
+(d) All agencies with authority to provide benefits to employees outside of the context of title 5, United States Code should take all appropriate actions to ensure that the benefits being provided to employees' spouses and their children are also being provided, at an equivalent level wherever permitted by law, to their employees' same-sex domestic partners and their children.
 
 Sec. 2. <i>Continuing Obligation To Provide New Benefits</i>. In the future, all agencies that provide new benefits to the spouses of Federal employees and their children should, to the extent permitted by law, also provide them to the same-sex domestic partners of their employees and those same-sex domestic partners' children. This section applies to appropriated and nonappropriated fund instrumentalities of such agencies.
 

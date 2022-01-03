@@ -14,11 +14,11 @@ Prior Notification Required.—
 
 &emsp;(1)
 
-In general.—The President shall transmit the notification required by subsection (a) by not later than 60 days before the date on which the President commences a reduction, consolidation, or withdrawal of the nuclear forces of the United States that are based in Europe described in such notification.
+In general.—The President shall transmit the notification required by subsection (a) by not later than 120 days before the date on which the President commences a reduction, consolidation, or withdrawal of the nuclear forces of the United States that are based in Europe described in such notification.
 
 &emsp;(2)
 
-Exception.—The limitation in paragraph (1) shall not apply to a reduction, consolidation, or withdrawal of nuclear weapons of the United States that are based in Europe made to ensure the safety, security, reliability, and credibility of such weapons.
+Exception.—The limitation in paragraph (1) shall not apply to a reduction, consolidation, or withdrawal of nuclear weapons of theUnited States that are based in Europe made to ensure the safety, security, reliability, and credibility of such weapons.
 
 (c)
 
@@ -28,5 +28,11 @@ Appropriate Congressional Committees Defined.—In this section, the term "appro
 
 &emsp;(2) the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
 
-(Added Pub. L. 112–239, div. A, title X, §1037(b)(1), Jan. 2, 2013, 126 Stat. 1926.)
+(Added Pub. L. 112–239, div. A, title X, §1037(b)(1), Jan. 2, 2013, 126 Stat. 1926; amended Pub. L. 117–81, div. A, title XVI, §1635, Dec. 27, 2021, 135 Stat. 2091.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2021</b>—Subsec. (b)(1). Pub. L. 117–81 substituted "120 days" for "60 days".
 

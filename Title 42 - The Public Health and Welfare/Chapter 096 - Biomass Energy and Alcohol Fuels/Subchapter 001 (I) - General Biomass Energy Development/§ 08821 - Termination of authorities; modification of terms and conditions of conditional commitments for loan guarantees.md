@@ -4,6 +4,8 @@ No insured loan, loan guarantee, price guarantee, or purchase agreement may be c
 
 (Pub. L. 96–294, title II, §221, June 30, 1980, 94 Stat. 696; Pub. L. 99–24, §1(a), Apr. 16, 1985, 99 Stat. 50; Pub. L. 99–190, §101(a), Dec. 19, 1985, 99 Stat. 1185; Pub. L. 99–272, title VII, §7301, Apr. 7, 1986, 100 Stat. 143; Pub. L. 99–500, §101(h) \[title III, §318\], Oct. 18, 1986, 100 Stat. 1783–242, 1783–286, and Pub. L. 99–591, §101(h) \[title III, §318\], Oct. 30, 1986, 100 Stat. 3341–242, 3341–287; Pub. L. 100–202, §106, Dec. 22, 1987, 101 Stat. 1329–433.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in text, is Pub. L. 96–294, June 30, 1980, 94 Stat. 611, as amended, known as the Energy Security Act. For complete classification of this Act to the Code, see Short Title note set out under section 8801 of this title and Tables.
@@ -26,9 +28,11 @@ Pub. L. 99–272 made amendment substantially identical to that by Pub. L. 99–
 
 Pub. L. 99–24 inserted ", except that all conditional commitments for loan guarantees under this subchapter which were in existence on September 30, 1984, are hereby extended through September 30, 1985".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1985 Amendment
 
-Pub. L. 100–202, §106, Dec. 22, 1987, 101 Stat. 1329–434, provided that the amendment made by that section is effective on date of enactment \[Dec. 19, 1985\] of the "pertinent joint resolution" making continuing appropriations for fiscal year 1986 \[Pub. L. 99–190\].
+Pub. L. 100–202, §106, Dec. 22, 1987, 101 Stat. 1329–434, provided that the amendment made by that section iseffective on date of enactment \[Dec. 19, 1985\] of the "pertinent joint resolution" making continuing appropriations for fiscal year 1986 \[Pub. L. 99–190\].
 
 #### Pending Conditional Commitments
 

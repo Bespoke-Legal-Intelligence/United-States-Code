@@ -200,7 +200,7 @@
 
 #### (B) Corporations
 
-&emsp;&emsp;Upon an application submitted under subparagraph (A), the Secretary may take the action described in subparagraph (D) if the Secretary, after an informal hearing, finds that—
+&emsp;&emsp;Upon an application submitted under subparagraph (A), the Secretary may take the action described in subparagraph (D) if theSecretary, after an informal hearing, finds that—
 
 &emsp;&emsp;&emsp;(i) the person making the application under subparagraph (A) has demonstrated that the felony conviction which was the basis for such person's debarment involved the commission of an offense which was not authorized, requested, commanded, performed, or recklessly tolerated by the board of directors or by a high managerial agent acting on behalf of the person within the scope of the board's or agent's office or employment,
 
@@ -266,7 +266,7 @@ The Secretary shall publish in the Federal Register the name of any person debar
 
 #### (B) Extension
 
-&emsp;&emsp;If, at the end of the period described in subparagraph (A), the Secretary determines that a person has been criminally charged for an action described in subparagraph (B) of paragraph (1), the Secretary may extend the period of denial of approval of an application for a period not to exceed 18 months. The Secretary shall terminate such extension if the charges have been dismissed, if a judgment of acquittal has been entered, or if the Secretary determines that the finding described in subparagraph (A) was in error.
+&emsp;&emsp;If, at the end of the period described in subparagraph (A), the Secretary determines that a person has been criminally chargedfor an action described in subparagraph (B) of paragraph (1), the Secretary may extend the period of denial of approval of an application for a period not to exceed 18 months. The Secretary shall terminate such extension if the charges have been dismissed, if a judgment of acquittal has been entered, or if the Secretary determines that the finding described in subparagraph (A) was in error.
 
 #### (3) Informal hearing
 
@@ -324,7 +324,7 @@ The Secretary may not take any action under subsection (a), (b), (c), (d)(3), (g
 
 #### (2) Exception
 
-&emsp;Any person that is the subject of an adverse decision under clause (iii) or (iv) of subsection (b)(2)(B) may obtain a review of such decision by the United States District Court for the District of Columbia or a district court of the United States for the district in which the person resides, by filing in such court (within 30 days following the date the person is notified of the Secretary's decision) a complaint requesting that the decision be modified or set aside. In such an action, the court shall determine the matter de novo.
+&emsp;Any person that is the subject of an adverse decision under clause (iii) or (iv) of subsection\(b)(2)(B) may obtain a review of such decision by the United States District Court for the District of Columbia or a district court of the United States for the district in which the person resides, by filing in such court (within 30 days following the date the person is notified of the Secretary's decision) a complaint requesting that the decision be modified or set aside. In such an action, the court shall determine the matter de novo.
 
 #### (k) Certification
 
@@ -348,7 +348,7 @@ Any application for approval of a drug product shall include—
 
 #### (2) Effective dates
 
-&emsp;Subsection (a), subparagraph (A) of subsection (b)(2), clauses (i) and (ii) of subsection\(b)(2)(B), and subsection (b)(3)(A) shall not apply to a conviction which occurred more than 5 years before the initiation of an agency action proposed to be taken under subsection (a) or (b). Clauses (iii) and (iv) of subsection (b)(2)(B), subsection (b)(3)(B), and subsections (f) and (g) shall not apply to an act or action which occurred more than 5 years before the initiation of an agency action proposed to be taken under subsection (b), (f), or (g). Clause (iv) of subsection (b)(2)(B) shall not apply to an action which occurred before June 1, 1992. Subsection (k) shall not apply to applications submitted to the Secretary before June 1, 1992.
+&emsp;Subsection (a), subparagraph (A) of subsection (b)(2), clauses (i) and (ii) of subsection (b)(2)(B), and subsection (b)(3)(A) shall not apply to a conviction which occurred more than 5 years before the initiation of an agency action proposed to be taken under subsection (a) or (b). Clauses (iii) and (iv) of subsection (b)(2)(B), subsection (b)(3)(B), and subsections (f) and (g) shall not apply to an act or action which occurred more than 5 years before the initiation of an agency action proposed to be taken under subsection (b), (f), or (g). Clause (iv) of subsection (b)(2)(B) shall not apply to an action which occurred before June 1, 1992. Subsection (k) shall not apply to applications submitted to the Secretary before June 1, 1992.
 
 #### (m) Devices; mandatory debarment regarding third-party inspections and reviews
 

@@ -6,9 +6,11 @@ No provision of this chapter shall be interpreted as providing for the impositio
 
 #### (b) Chemical or biological weapons
 
-No provision of this subchapter shall be exercised or interpreted to require action or compliance by any private person to assist in any way in the production of or other involvement in chemical or biological warfare capabilities, unless authorized by the President (or the President's designee who is serving in a position at level I of the Executive Schedule in accordancewith section 5312 of title 5) without further redelegation.
+No provision of this subchapter shall be exercised or interpreted to require action or compliance by any private person to assist in any way in the production of or other involvement in chemical or biological warfare capabilities, unless authorized by the President (or the President's designee who is serving in a position at level I of the Executive Schedule in accordance with section 5312 of title 5) without further redelegation.
 
 (Sept. 8, 1950, ch. 932, title I, §104, as added Pub. L. 102–558, title I, §112, Oct. 28, 1992, 106 Stat. 4202.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -22,9 +24,13 @@ Section was formerly classified to section 2074 of the former Appendix to this t
 
 A prior section 104 of act Sept. 8, 1950, ch. 932, title I, as added July 31, 1951, ch. 275, title I, §101(c), 65 Stat. 132; amended June 30, 1952, ch. 530, §103, 66 Stat. 297, related to limitations on imports of fats and oils, prior to termination at close of June 30, 1953, pursuant to section 4564(a) of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section deemed to have become effective Mar. 1, 1992, see section 304 of Pub. L. 102–558, set out as an Effective Date of 1992 Amendment note under section 4502 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Authority
 

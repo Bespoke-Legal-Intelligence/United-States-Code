@@ -28,7 +28,7 @@
 
 #### (1) Study
 
-&emsp;Not later than one year after February 17, 2009, the Secretary, in consultation with the Federal Trade Commission, shall conduct a study, and submit a report under paragraph (2), on privacy and security requirements for entities that are not covered entities or business associates as of February 17, 2009, including—
+&emsp;Not later than one year after February 17, 2009, the Secretary, in consultation with the Federal Trade Commission, shall conduct astudy, and submit a report under paragraph (2), on privacy and security requirements for entities that are not covered entities or business associates as of February 17, 2009, including—
 
 &emsp;&emsp;(A) requirements relating to security, privacy, and notification in the case of a breach of security or privacy (including the applicability of an exemption to notification in the case of individually identifiable health information that has been rendered unusable, unreadable, or indecipherable through technologies or methodologies recognized by appropriate professional organization or standard setting bodies to provide effective security for the information) that should be applied to—
 
@@ -67,6 +67,8 @@ Not later than 5 years after February 17, 2009, the Government Accountability Of
 The Secretary shall study the definition of "psychotherapy notes" in section 164.501 of title 45, Code of Federal Regulations, with regard to including test data that is related to direct responses, scores, items, forms, protocols, manuals, or other materials that are part of a mental health evaluation, as determined by the mental health professional providing treatment or evaluation in such definitions and may, based on such study, issue regulations to revise such definition.
 
 (Pub. L. 111–5, div. A, title XIII, §13424, Feb. 17, 2009, 123 Stat. 276.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

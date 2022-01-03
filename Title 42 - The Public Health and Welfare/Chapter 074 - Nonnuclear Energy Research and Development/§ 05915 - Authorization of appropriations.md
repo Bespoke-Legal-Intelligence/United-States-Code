@@ -1,12 +1,16 @@
 ### §5915. Authorization of appropriations
 
-There may be appropriated to the Secretary to carry out the purposes of this chapter such sumsas may be authorized in annual authorization Acts.
+There may be appropriated to the Secretary to carry out the purposes of this chapter such sums as may be authorized in annual authorization Acts.
 
 (Pub. L. 93–577, §16, Dec. 31, 1974, 88 Stat. 1894; Pub. L. 109–58, title X, §1009(b)(10), Aug. 8, 2005, 119 Stat. 935.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>2005</b>—Pub. L. 109–58, in section catchline, substituted "Authorization of appropriations" for "Appropriation authorization", and in text, substituted "There may be appropriated to the Secretary" for "(a) There may be appropriated to the Administrator" and struck out subsecs. (b) and (c), which related to amounts to be made available to the Council on Environmental Quality and the Water Resources Council and amounts which might be appropriated for demonstration projects.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Alternative Fuels Production; Energy Security Reserve Fund
 

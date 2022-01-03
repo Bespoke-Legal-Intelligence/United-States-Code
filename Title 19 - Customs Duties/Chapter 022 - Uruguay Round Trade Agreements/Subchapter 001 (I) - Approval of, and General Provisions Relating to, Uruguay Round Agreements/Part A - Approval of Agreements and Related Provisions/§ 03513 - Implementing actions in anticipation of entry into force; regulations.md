@@ -8,7 +8,7 @@ After December 8, 1994—
 
 &emsp;(2) other appropriate officers of the United States Government may issue such regulations,
 
-> as may be necessary to ensure that any provision of this Act, or amendment made by this Act, that takes effect on the date any of theUruguay Round Agreements enters into force with respect to the United States is appropriately implemented on such date. Such proclamation or regulation may not have an effective date earlier than the date of entry into force with respect to the United States of the agreement to which the proclamation or regulation relates.
+> as may be necessary to ensure that any provision of this Act, or amendment made by this Act, that takes effect on the date any of the Uruguay Round Agreements enters into force with respect to the United States is appropriately implemented on such date. Such proclamation or regulation may not have an effective date earlier than the date of entry into force with respect to the United States of the agreement to which the proclamation or regulation relates.
 
 #### (b) Regulations
 
@@ -16,9 +16,13 @@ Any interim regulation necessary or appropriate to carry out any action proposed
 
 (Pub. L. 103–465, title I, §103, Dec. 8, 1994, 108 Stat. 4819.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsec. (a), is Pub. L. 103–465, Dec. 8, 1994, 108 Stat. 4809, known as the Uruguay Round Agreements Act. For complete classification of this Act to the Code, see Short Title note set out under section 3501 of this title and Tables.
+
+#### <b>Executive Documents</b>
 
 #### Uruguay Round Agreements: Entry Into Force
 

@@ -32,6 +32,8 @@ Aug. 8, 1953, ch. 393, §4(c), 67 Stat. 503.
 
 The words "of any person who elects an annuity" are substituted for the words "of an active or retired member who has made an election". The words "in each individual case" and "designated in section 8" are omitted as surplusage. The words "and as of the date of election in the case of a retired member" are omitted as executed. 37:373(c) (1st 23 words of last sentence) is omitted as otherwise covered by the language of the revised section.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (b). Pub. L. 104–106 made technical correction to directory language of Pub. L. 90–485, §1(6). See 1968 Amendment note below.
@@ -43,6 +45,8 @@ The words "of any person who elects an annuity" are substituted for the words "o
 <b>1967</b>—Subsec. (a). Pub. L. 90–207 inserted "but without regard to any increase in that pay to reflect changes in the Consumer Price Index" after "that pay".
 
 <b>1961</b>—Pub. L. 87–381 designated existing provisions as subsec. (a), added subsec. (b), and inserted "; withdrawal for severe financial hardship" in section catchline.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

@@ -32,9 +32,9 @@
 
 &emsp;&emsp;(D) the extent to which the agency uses methods and combinations of methods that are appropriate to agency divisions and the corresponding research questions being addressed, including an appropriate combination of formative and summative evaluation research and analysis approaches;
 
-&emsp;&emsp;(E) the extent to which evaluation and research capacity is present within the agency to include personnel and agency processes for planning and implementing evaluation activities, disseminating best practices and findings, and incorporating employee views and feedback; and
+&emsp;&emsp;(E) the extent to which evaluation and research capacity is present within the agency to include personnel and agency processesfor planning and implementing evaluation activities, disseminating best practices and findings, and incorporating employee views and feedback; and
 
-&emsp;&emsp;(F) the extent to which the agency has the capacity to assist agency staff and programoffices to develop the capacity to use evaluation research and analysis approaches and data in the day-to-day operations.
+&emsp;&emsp;(F) the extent to which the agency has the capacity to assist agency staff and program offices to develop the capacity to use evaluation research and analysis approaches and data in the day-to-day operations.
 
 (b) The strategic plan shall cover a period of not less than 4 years following the fiscal year in which the plan is submitted. As needed, the head of the agency may make adjustments to the strategic plan to reflect significant changes in the environment in which the agency is operating, with appropriate notification of Congress.
 

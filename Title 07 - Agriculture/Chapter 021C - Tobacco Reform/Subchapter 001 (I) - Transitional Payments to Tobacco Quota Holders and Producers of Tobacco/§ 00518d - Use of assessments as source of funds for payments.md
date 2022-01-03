@@ -68,7 +68,7 @@ In this section:
 
 #### (1) Notification of assessments
 
-&emsp;The Secretary shall provide each manufacturer or importer subject to an assessmentunder subsection (b) with written notice setting forth the amount to be assessed against the manufacturer or importer for each quarterly payment period. The notice for a quarterly period shall be provided not later than 30 days before the date payment is due under paragraph (3).
+&emsp;The Secretary shall provide each manufacturer or importer subject to an assessment under subsection (b) with written notice setting forth the amount to be assessed against the manufacturer or importer for each quarterly payment period. The notice for a quarterly period shall be provided not later than 30 days before the date payment is due under paragraph (3).
 
 #### (2) Content
 
@@ -198,9 +198,13 @@ The authority provided by this section to impose assessments terminates on Septe
 
 (Pub. L. 108–357, title VI, §625, Oct. 22, 2004, 118 Stat. 1529.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Harmonized Tariff Schedule of the United States, referred to in subsec. (a)(2)(B), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
+The Harmonized Tariff Schedule of the United States, referred to in subsec. (a)(2)(B), is not set out in theCode. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

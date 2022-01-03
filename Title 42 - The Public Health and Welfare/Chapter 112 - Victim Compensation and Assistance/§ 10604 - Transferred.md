@@ -1,8 +1,12 @@
 ### §10604. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 10604 was editorially reclassified as section 20110 of Title 34, Crime Control and Law Enforcement.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Reports on Amounts Received and Distributed From Fines for Violations of Trade Secrets Provisions
 

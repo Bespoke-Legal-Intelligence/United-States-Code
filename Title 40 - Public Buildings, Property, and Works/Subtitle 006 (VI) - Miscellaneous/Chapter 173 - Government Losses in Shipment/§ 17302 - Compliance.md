@@ -6,7 +6,7 @@ Prescribing Regulations.—With the approval of the President, the Secretary of 
 
 (b)
 
-Compliance.—Each executive department, independent establishment, agency, wholly owned Government corporation, officer, and employee of the Government, and each person acting for, or at the direction of, the executive department, independent establishment, agency,wholly owned Government corporation, officer, or employee, must comply with the regulations when making any shipment of valuables.
+Compliance.—Each executive department, independent establishment, agency, wholly owned Government corporation, officer, and employee of the Government, and each person acting for, or at the direction of, the executive department, independent establishment, agency, wholly owned Government corporation, officer, or employee, must comply with the regulations when making any shipment of valuables.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1280.)
 

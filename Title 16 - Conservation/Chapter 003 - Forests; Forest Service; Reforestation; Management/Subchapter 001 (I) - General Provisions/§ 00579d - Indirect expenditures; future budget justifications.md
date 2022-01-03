@@ -4,6 +4,8 @@ The Forest Service shall implement and adhere to the definitions of indirect exp
 
 (Pub. L. 107–63, title II, Nov. 5, 2001, 115 Stat. 452.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Public Law 105–277, referred to in text, is Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681, known as the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999. For complete classification of this Act to the Code, see Tables.
@@ -19,6 +21,8 @@ Provisions similar to this section were contained in the following prior appropr
 Pub. L. 106–291, title II, Oct. 11, 2000, 114 Stat. 973.
 
 Pub. L. 106–113, div. B, §1000(a)(3) \[title II\], Nov. 29, 1999, 113 Stat. 1535, 1501A–178.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions of Indirect Expenditures
 

@@ -4,7 +4,7 @@
 
 #### (1) Filing of claim
 
-&emsp;To commence a proceeding under this subchapter, a covered employee alleging a violation of law made applicable under part A of subchapter II shall file a claim with the Office. The Office shall not accept a claim which isfiled after the deadline applicable under subsection (d).
+&emsp;To commence a proceeding under this subchapter, a covered employee alleging a violation of law made applicable under part A of subchapter II shall file a claim with the Office. The Office shall not accept a claim which is filed after the deadline applicable under subsection (d).
 
 #### (2) Contents of claim
 
@@ -76,5 +76,5 @@ This chapter, referred to in subsecs. (a)(3)(A) and (b)(1), was in the original 
 
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–397 effective upon expiration of the 180-day period beginning on Dec. 21, 2018,with provisions for effect on pending proceedings, see section 401 of Pub. L. 115–397, set out as a note under section 1301 of this title.
+Amendment by Pub. L. 115–397 effective upon expiration of the 180-day period beginning on Dec. 21, 2018, with provisions for effect on pending proceedings, see section 401 of Pub. L. 115–397, set out as a note under section 1301 of this title.
 

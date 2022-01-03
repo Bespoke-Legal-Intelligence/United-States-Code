@@ -24,7 +24,7 @@ A homeownership program under this subchapter shall provide, and include a plan,
 
 #### (d) Acquisition and rehabilitation limitations
 
-Acquisition or rehabilitation of public housing projects under a homeownership program underthis subchapter may not consist of acquisition or rehabilitation of less than the whole public housing project in a project consisting of more than 1 building. The provisions of this subsection may be waived upon a finding by the Secretary that the sale of less than all the buildings in a project is feasible and will not result in a hardship to any tenants of the project who are not included in the homeownership program.
+Acquisition or rehabilitation of public housing projects under a homeownership program under this subchapter may not consist of acquisition or rehabilitation of less than the whole publichousing project in a project consisting of more than 1 building. The provisions of this subsection may be waived upon a finding by the Secretary that the sale of less than all the buildings in a project is feasible and will not result in a hardship to any tenants of the project who are not included in the homeownership program.
 
 #### (e) Financing
 
@@ -78,6 +78,8 @@ The application shall include a plan ensuring that the unit—
 
 (Sept. 1, 1937, ch. 896, title III, §304, as added Pub. L. 101–625, title IV, §411, Nov. 28, 1990, 104 Stat. 4153; amended Pub. L. 102–550, title I, §181(g)(1)(A), Oct. 28, 1992, 106 Stat. 3736; Pub. L. 104–19, title I, §1002(b), July 27, 1995, 109 Stat. 236; Pub. L. 105–276, title V, §531(b)(1), Oct. 21, 1998, 112 Stat. 2573.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The National Housing Act, referred to in subsec. (e)(1), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Title II of the Act is classified principally to subchapter II (§1707 et seq.) of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
@@ -91,6 +93,8 @@ This subchapter, referred to in subsec. (e)(3), was in the original "this subtit
 <b>1995</b>—Subsec. (g). Pub. L. 104–19 struck out subsec. (g) which prohibited transfer of projects without plan for replacement housing.
 
 <b>1992</b>—Subsec. (d). Pub. L. 102–550 struck out "(not including scattered site single family housing of a public housing agency)" after "housing project".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

@@ -16,13 +16,17 @@
 
 (Pub. L. 95–95, title IV, §402, Aug. 7, 1977, 91 Stat. 791; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Clean Air Act Amendments of 1977, and not as part of the National Environmental Policy Act of 1969 which comprises this chapter.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
-"Department of Health and Human Services" substituted for "Department of Health, Education, andWelfare" in subsec. (b)(4) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+"Department of Health and Human Services" substituted for "Department of Health, Education, and Welfare" in subsec. (b)(4) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
 #### Effective Date
 

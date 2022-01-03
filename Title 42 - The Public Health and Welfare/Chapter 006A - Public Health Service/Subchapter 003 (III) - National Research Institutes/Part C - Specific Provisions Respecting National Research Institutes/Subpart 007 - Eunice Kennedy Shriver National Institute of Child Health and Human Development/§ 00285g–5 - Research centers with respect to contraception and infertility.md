@@ -2,7 +2,7 @@
 
 #### (a) Grants and contracts
 
-The Director of the Institute, after consultation with the advisory council for the Institute, shall make grants to, or enter into contracts with, public or nonprofit private entities for the development and operation of centers to conduct activities for the purpose of improving methods of contraception and centers to conduct activities for the purpose of improving methods of diagnosis and treatment of infertility.
+The Director of the Institute, after consultation with the advisory council for the Institute, shall make grants to, or enter into contractswith, public or nonprofit private entities for the development and operation of centers to conduct activities for the purpose of improving methods of contraception and centers to conduct activities for the purpose of improving methods of diagnosis and treatment of infertility.
 
 #### (b) Number of centers
 
@@ -34,7 +34,7 @@ The Director of the Institute shall, as appropriate, provide for the coordinatio
 
 #### (e) Facilities
 
-Each center assisted under subsection (a) shall use the facilities of a single institution, or beformed from a consortium of cooperating institutions, meeting such requirements as may be prescribed by the Director of the Institute.
+Each center assisted under subsection (a) shall use the facilities of a single institution, or be formed from a consortium of cooperating institutions, meeting such requirements as may be prescribed by the Director of the Institute.
 
 #### (f) Period of support
 
@@ -42,9 +42,13 @@ Support of a center under subsection (a) may be for a period not exceeding 5 yea
 
 (July 1, 1944, ch. 373, title IV, §452A, as added Pub. L. 103–43, title X, §1001, June 10, 1993, 107 Stat. 165; amended Pub. L. 109–482, title I, §103(b)(29), Jan. 15, 2007, 120 Stat. 3688.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2007</b>—Subsec. (g). Pub. L. 109–482 struck out subsec. (g) which read as follows: "For the purpose of carrying out this section, there are authorized to be appropriated $30,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 and 1996."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

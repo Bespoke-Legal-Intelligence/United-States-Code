@@ -40,6 +40,8 @@ Grade and Rank.—The Vice Chairman, while so serving, holds the grade of genera
 
 (Added Pub. L. 99–433, title II, §201, Oct. 1, 1986, 100 Stat. 1008; amended Pub. L. 100–456, div. A, title V, §519(a)(1), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 102–484, div. A, title IX, §911(b)(1), Oct. 23, 1992, 106 Stat. 2473; Pub. L. 114–328, div. A, title IX, §921(d)(1), (2), Dec. 23, 2016, 130 Stat. 2354.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 664(f) of this title, referred to in subsec. (b)(1)(B), was redesignated as section 664(d) of this title by Pub. L. 114–328, div. A, title V, §510(g)(1), Dec. 23, 2016, 130 Stat. 2111.
@@ -57,6 +59,8 @@ Subsecs. (f), (g). Pub. L. 102–484, §911(b)(1)(B), (C), redesignated subsec. 
 Participation in JCS Meetings.—The Vice Chairman may participate in all meetings of the Joint Chiefs of Staff, but may not vote on a matter before the Joint Chiefs of Staff except when acting as Chairman."
 
 <b>1988</b>—Subsec. (b)(1)(B). Pub. L. 100–456 substituted "completed a full tour of duty in a joint duty assignment (as defined in section 664(f) of this title)" for "served in at least one joint duty assignment (as defined under section 668(b) of this title)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2016 Amendment
 

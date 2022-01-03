@@ -24,7 +24,7 @@ The Working Group shall—
 
 &emsp;(2) encourage, where appropriate, the adoption and implementation of best practices and protocols regarding the care and treatment of sexual assault survivors and the preservation of evidence among hospital administrators, physicians, forensic examiners, and other medical associations and leaders in the medical community;
 
-&emsp;(3) develop recommendations to promote the coordination of the dissemination and implementation of best practices regarding the care and treatment of sexual assault survivors and the preservation of evidence to State attorneys general, United States attorneys, heads of State law enforcement agencies, forensic laboratory directors and managers, and other leaders in the law enforcement community;
+&emsp;(3) develop recommendations to promote the coordination of the dissemination and implementation of best practices regarding the care and treatment of sexual assault survivors and the preservation of evidence to State attorneys general, United States attorneys, heads of State law enforcement agencies, forensiclaboratory directors and managers, and other leaders in the law enforcement community;
 
 &emsp;(4) develop and implement, where practicable, incentives to encourage the adoption or implementation of best practices regarding the care and treatment of sexual assault survivors and the preservation of evidence among State attorneys general, United States attorneys, heads of State law enforcement agencies, forensic laboratory directors and managers, and other leaders in the law enforcement community;
 

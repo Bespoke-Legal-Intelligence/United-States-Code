@@ -12,6 +12,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–152, title I, §1402(a)(3), Mar. 30, 2010, 124 Stat. 1062, which directed amendment of the "table of chapters for subtitle A of chapter 1 of the Internal Revenue Code of 1986" by adding item for chapter 2A, was executed by adding item for chapter 2A to the table of chapters for this subtitle to reflect the probable intent of Congress.

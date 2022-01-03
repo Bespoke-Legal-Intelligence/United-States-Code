@@ -20,7 +20,7 @@ For purposes of this chapter—
 
 #### (C) 1974 UMWA Benefit Plan
 
-&emsp;&emsp;The term "1974 UMWA Benefit Plan" means a UMWA Benefit Plan, participationin which is substantially limited to individuals who retired on or after January 1, 1976.
+&emsp;&emsp;The term "1974 UMWA Benefit Plan" means a UMWA Benefit Plan, participation in which is substantially limited to individuals who retired on or after January 1, 1976.
 
 #### (2) 1950 UMWA Pension Plan
 
@@ -112,7 +112,7 @@ For purposes of this section—
 
 #### (7) Business
 
-&emsp;For purposes of this chapter, a person shall be considered to be in business if such personconducts or derives revenue from any business activity, whether or not in the coal industry.
+&emsp;For purposes of this chapter, a person shall be considered to be in business if such person conducts or derives revenue from any business activity, whether or not in the coal industry.
 
 #### (8) Successor in interest
 
@@ -138,6 +138,8 @@ For purposes of this chapter, the term "enactment date" means the date of the en
 
 (Added Pub. L. 102–486, title XIX, §19143(a), Oct. 24, 1992, 106 Stat. 3037; amended Pub. L. 109–432, div. C, title II, §211(d), Dec. 20, 2006, 120 Stat. 3023; Pub. L. 115–141, div. U, title IV, §401(a)(343), Mar. 23, 2018, 132 Stat. 1200.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this chapter, referred to in subsec. (d), is the date of the enactment of Pub. L. 102–486, which was approved Oct. 24, 1992.
@@ -147,6 +149,8 @@ The date of the enactment of this chapter, referred to in subsec. (d), is the da
 <b>2018</b>—Subsec. (a)(4). Pub. L. 115–141 substituted "section 9712" for "section 9713A".
 
 <b>2006</b>—Subsec. (c)(8). Pub. L. 109–432 added par. (8).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

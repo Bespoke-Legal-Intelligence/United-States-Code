@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) in the case of—
 
-&emsp;&emsp;&emsp;(i) a sale or exchange of an original issue discount obligation, the amount of the original issue discount accruing while such obligation was held by the nonresident alien individual (to the extent such discount was not theretofore taken into account under clause (ii)), and
+&emsp;&emsp;&emsp;(i) a sale or exchange of an original issue discount obligation, the amount of theoriginal issue discount accruing while such obligation was held by the nonresident alien individual (to the extent such discount was not theretofore taken into account under clause (ii)), and
 
 &emsp;&emsp;&emsp;(ii) a payment on an original issue discount obligation, an amount equal to the original issue discount accruing while such obligation was held by the nonresident alien individual (except that such original issue discount shall be taken into account under this clause only to the extent such discount was not theretofore taken into account under this clause and only to the extent that the tax thereon does not exceed the payment less the tax imposed by subparagraph (A) thereon), and
 
@@ -84,7 +84,7 @@ For purposes of this section, a nonresident alien individual who (without regard
 
 #### (2) Exclusion
 
-&emsp;Income received during the taxable year which would be excluded from gross incomeunder this subsection but for the requirement of paragraph (1)(B) shall not be included in gross income if—
+&emsp;Income received during the taxable year which would be excluded from gross income under this subsection but for the requirement of paragraph (1)(B) shall not be included in gross income if—
 
 &emsp;&emsp;(A) the recipient's country of residence grants a substantially equivalent exclusion to residents and citizens of the United States; or
 
@@ -152,7 +152,7 @@ For purposes of this section and section 881—
 
 #### (A) In general
 
-&emsp;&emsp;The term "portfolio interest" shall not include any interest described in paragraph (2) which is received by a 10-percent shareholder.
+&emsp;&emsp;The term "portfolio interest" shall not include any interest described in paragraph (2)which is received by a 10-percent shareholder.
 
 #### (B) 10-Percent shareholder
 
@@ -604,7 +604,9 @@ For purposes of this subsection and subsection (i)(2)(B)—
 
 &emsp;&emsp;<b>(7) For special tax treatment of gain or loss from the disposition by a nonresident alien individual of a United States real property interest, see section 897.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 278; Pub. L. 85–866, title I, §§40(a), 41(a), Sept. 2, 1958, 72 Stat. 1638, 1639; Pub. L. 86–437, §2(b), Apr. 22, 1960, 74 Stat. 79; Pub. L. 87–256, §110(b), Sept. 21, 1961, 75 Stat. 535; Pub. L. 88–272, title I, §113(b), title II, §201(d)(12), Feb. 26, 1964, 78 Stat. 24, 32; Pub. L. 89–809, title I, §103(a)(1), Nov. 13, 1966, 80 Stat. 1547; Pub. L. 92–178, title III, §313(a), (b), Dec. 10, 1971, 85 Stat. 526, 527; Pub. L. 93–406, title II, §2005(c)(8), Sept. 2, 1974, 88 Stat. 992; Pub. L. 94–455, title X, §1012(a)(2), title XIX, §§1901(b)(3)(I), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1613, 1793, 1834; Pub. L. 95–600, title IV, §§401(b)(3), 421(e)(4), Nov. 6, 1978, 92 Stat. 2867, 2876; Pub. L. 96–222, title I, §104(a)(4)(H)(v), Apr. 1, 1980, 94 Stat. 217; Pub. L. 96–499, title XI, §1122(c)(1), Dec. 5, 1980, 94 Stat. 2687; Pub. L. 96–605, title II, §227(a), Dec. 28, 1980, 94 Stat. 3530; Pub. L. 97–34, title VII, §725(c)(1), Aug. 13, 1981, 95 Stat. 346; Pub. L. 98–21, title I, §121(c)(1), title III, §335(b)(2)(B), Apr. 20, 1983, 97 Stat. 82, 130; Pub. L. 98–369, div. A, title I, §§42(a)(9), 127(a), 128(a), title IV, §412(b)(1), July 18, 1984, 98 Stat. 557, 648, 653, 792; Pub. L. 99–272, title XII, §12103(b), Apr. 7, 1986, 100 Stat. 285; Pub. L. 99–514, title III, §301(b)(9), title XII, §§1211(b)(4), (5), 1214(c)(1), title XVIII, §1810(d)(1)(A), (2), (3)(A), (B), (e)(2)(A), Oct. 22, 1986, 100 Stat. 2217, 2536, 2542, 2825, 2826; Pub. L. 100–647, title I, §1001(d)(2)(B), title VI, §6134(a)(1), Nov. 10, 1988, 102 Stat. 3350, 3721; Pub. L. 102–318, title V, §521(b)(28)–(30), July 3, 1992, 106 Stat. 312; Pub. L. 103–66, title XIII, §§13113(d)(5), 13237(a)(1), (c)(1), Aug. 10, 1993, 107 Stat. 430, 506, 508; Pub. L. 103–296, title III, §320(a)(1)(A), Aug. 15, 1994, 108 Stat. 1535; Pub. L. 103–465, title VII, §733(a), Dec. 8, 1994, 108 Stat. 5006; Pub. L. 104–188, title I, §§1401(b)(10), 1954(b)(1), Aug. 20, 1996, 110 Stat. 1789, 1928; Pub. L. 105–206, title VI, §6023(10), July 22, 1998, 112 Stat. 825; Pub. L. 106–170, title V, §532(b)(2), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 106–554, §1(a)(7) \[title III, §319(11)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 108–357, title IV, §§409(a), 411(a)(1), Oct. 22, 2004, 118 Stat. 1500; Pub. L. 109–222, title V, §505(c)(2), May 17, 2006, 120 Stat. 356; Pub. L. 110–343, div. C, title II, §206(a), (b), Oct. 3, 2008, 122 Stat. 3865; Pub. L. 111–147, title V, §§502(b)(1), (2)(A), 541(a), Mar. 18, 2010, 124 Stat. 107, 115; Pub. L. 111–226, title II, §217(b), Aug. 10, 2010, 124 Stat. 2400; Pub. L. 111–312, title VII, §748(a), Dec. 17, 2010, 124 Stat. 3320; Pub. L. 111–325, title III, §§301(f), 302(b)(2), 308(b)(3), Dec. 22, 2010, 124 Stat. 3544, 3548, 3551; Pub. L. 112–240, title III, §320(a), Jan. 2, 2013, 126 Stat. 2332; Pub. L. 113–295, div. A, title I, §132(a), title II, §221(a)(71), Dec. 19, 2014, 128 Stat. 4018, 4048; Pub. L. 114–113, div. Q, title I, §125(a), Dec. 18, 2015, 129 Stat. 3054; Pub. L. 115–141, div. U, title IV, §401(b)(29), Mar. 23, 2018, 132 Stat. 1203.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 278; Pub. L. 85–866, title I, §§40(a), 41(a), Sept. 2, 1958, 72 Stat. 1638, 1639; Pub. L. 86–437, §2(b), Apr. 22, 1960, 74 Stat. 79; Pub. L. 87–256, §110(b), Sept. 21, 1961, 75 Stat. 535; Pub. L. 88–272, title I, §113(b), title II, §201(d)(12), Feb. 26, 1964, 78 Stat. 24, 32; Pub. L. 89–809, title I, §103(a)(1), Nov. 13, 1966, 80 Stat. 1547; Pub. L. 92–178, title III, §313(a), (b), Dec. 10, 1971, 85 Stat. 526, 527; Pub. L. 93–406, title II, §2005(c)(8), Sept. 2, 1974, 88 Stat. 992; Pub. L. 94–455, title X, §1012(a)(2), title XIX, §§1901(b)(3)(I), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1613, 1793, 1834; Pub. L. 95–600, title IV, §§401(b)(3), 421(e)(4), Nov. 6, 1978, 92 Stat. 2867, 2876; Pub. L. 96–222, title I, §104(a)(4)(H)(v), Apr. 1, 1980, 94 Stat. 217; Pub. L. 96–499, title XI, §1122(c)(1), Dec. 5, 1980, 94 Stat. 2687; Pub. L. 96–605, title II, §227(a), Dec. 28, 1980, 94 Stat. 3530; Pub. L. 97–34, title VII, §725(c)(1), Aug. 13, 1981, 95 Stat. 346; Pub. L. 98–21, title I, §121(c)(1), title III, §335(b)(2)(B), Apr. 20, 1983, 97 Stat. 82, 130; Pub. L. 98–369, div. A, title I, §§42(a)(9), 127(a), 128(a), title IV, §412(b)(1), July 18, 1984, 98 Stat. 557, 648, 653, 792; Pub. L. 99–272, title XII, §12103(b), Apr. 7, 1986, 100 Stat. 285; Pub. L. 99–514, title III, §301(b)(9), title XII, §§1211(b)(4), (5), 1214(c)(1), title XVIII, §1810(d)(1)(A), (2), (3)(A), (B), (e)(2)(A), Oct. 22, 1986, 100 Stat. 2217, 2536, 2542, 2825, 2826; Pub. L. 100–647, title I, §1001(d)(2)(B), title VI, §6134(a)(1), Nov. 10, 1988, 102 Stat. 3350, 3721; Pub. L. 102–318, title V, §521(b)(28)–(30), July 3, 1992, 106 Stat. 312; Pub. L. 103–66, title XIII, §§13113(d)(5), 13237(a)(1), (c)(1), Aug. 10, 1993, 107 Stat. 430, 506, 508; Pub. L. 103–296, title III, §320(a)(1)(A), Aug. 15, 1994, 108 Stat. 1535; Pub. L. 103–465, title VII, §733(a), Dec. 8, 1994, 108 Stat. 5006; Pub. L. 104–188, title I, §§1401(b)(10), 1954(b)(1), Aug. 20, 1996, 110 Stat. 1789, 1928; Pub. L. 105–206, title VI, §6023(10), July 22, 1998, 112 Stat. 825; Pub. L. 106–170, title V, §532(b)(2), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 106–554, §1(a)(7) \[title III, §319(11)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 108–357, title IV, §§409(a), 411(a)(1), Oct. 22, 2004, 118 Stat. 1500; Pub. L. 109–222, title V, §505(c)(2), May 17, 2006, 120 Stat. 356; Pub. L. 110–343, div. C, title II, §206(a), (b), Oct. 3, 2008, 122 Stat. 3865; Pub. L. 111–147, title V, §§502(b)(1), (2)(A), 541(a), Mar. 18, 2010, 124 Stat. 107, 115; Pub. L. 111–226, title II,§217(b), Aug. 10, 2010, 124 Stat. 2400; Pub. L. 111–312, title VII, §748(a), Dec. 17, 2010, 124 Stat. 3320; Pub. L. 111–325, title III, §§301(f), 302(b)(2), 308(b)(3), Dec. 22, 2010, 124 Stat. 3544, 3548, 3551; Pub. L. 112–240, title III, §320(a), Jan. 2, 2013, 126 Stat. 2332; Pub. L. 113–295, div. A, title I, §132(a), title II, §221(a)(71), Dec. 19, 2014, 128 Stat. 4018, 4048; Pub. L. 114–113, div. Q, title I, §125(a), Dec. 18, 2015, 129 Stat. 3054; Pub. L. 115–141, div. U, title IV, §401(b)(29), Mar. 23, 2018, 132 Stat. 1203.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -788,6 +790,8 @@ Subsec. (b). Pub. L. 88–272, §§113(b)(1), (3), 201(d)(12), substituted "$19,
 
 Subsec. (b). Pub. L. 85–866, §41(a), inserted last par. covering former provisions of par. (3), which was struck out by the amendment, and containing new provisions with references to credits under section 34 and 35 and exclusion under section 116 of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
 Pub. L. 114–113, div. Q, title I, §125(b), Dec. 18, 2015, 129 Stat. 3054, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2014."
@@ -864,7 +868,7 @@ Pub. L. 103–296, title III, §320(c), Aug. 15, 1994, 108 Stat. 1535, provided 
 
 Amendment by section 13113(d)(5) of Pub. L. 103–66 applicable to stock issued after Aug. 10, 1993, see section 13113(e) of Pub. L. 103–66, set out as a note under section 53 of this title.
 
-Pub. L. 103–66, title XIII, §13237(d), Aug. 10, 1993, 107 Stat. 508, provided that: "The amendments made bythis section \[amending this section and sections 881, 1441, 1442, and 2105 of this title\] shall apply to interest received after December 31, 1993; except that the amendments made by subsection (b) \[amending section 2105 of this title\] shall apply to the estates of decedents dying after December 31, 1993."
+Pub. L. 103–66, title XIII, §13237(d), Aug. 10, 1993, 107 Stat. 508, provided that: "The amendments made by this section \[amending this section and sections 881, 1441, 1442, and 2105 of this title\] shall apply to interest received after December 31, 1993; except that the amendments made by subsection (b) \[amending section 2105 of this title\] shall apply to the estates of decedents dying after December 31, 1993."
 
 #### Effective Date of 1992 Amendment
 
@@ -920,7 +924,7 @@ Definitions.—
 
 &emsp;&emsp;"(i) The term 'applicable CFC' has the meaning given such term by section 121(b)(2)(D) of this Act \[set out as a note under section 904 of this title\], except that such section shall be applied by substituting 'the date of interest payment' for 'March 31, 1984,' in clause (i) thereof.
 
-&emsp;&emsp;"(ii) The term 'United States affiliate obligation' means an obligation described in section 121(b)(2)(F) of this Act \[set out as a note under section 904 of this title\] which was issued before June 22, 1984."
+&emsp;&emsp;"(ii) The term 'United States affiliate obligation' means an obligation described in section121(b)(2)(F) of this Act \[set out as a note under section 904 of this title\] which was issued before June 22, 1984."
 
 \[Pub. L. 100–647, title VI, §6128(b), Nov. 10, 1988, 102 Stat. 3716, provided that: "The amendment made by subsection (a) \[amending section 127(g) of Pub. L. 98–369, set out above\] shall apply to taxable years ending after the date of the enactment of this Act \[Nov. 10, 1988\]."\]
 
@@ -954,7 +958,7 @@ Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1978 Amendment
 
-Amendment by section 401(b)(3) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978,see section 401(c) of Pub. L. 95–600, set out as a note under section 3 of this title.
+Amendment by section 401(b)(3) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 401(c) of Pub. L. 95–600, set out as a note under section 3 of this title.
 
 Amendment by section 421(e)(4) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 421(g) of Pub. L. 95–600, set out as a note under section 5 of this title.
 
@@ -1006,7 +1010,7 @@ Pub. L. 85–866, title I, §41(c), Sept. 2, 1958, 72 Stat. 1639, provided that:
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
+For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certaintransactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 

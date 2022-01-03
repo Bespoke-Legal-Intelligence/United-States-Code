@@ -8,43 +8,43 @@ There is established the State Small Business Credit Initiative, to be administe
 
 #### (1) In general
 
-&emsp;Not later than 30 days after September 27, 2010, the Secretary shall allocate Federal funds to participating States so that each State is eligible to receive an amount equal to the average of the respective amounts that the State—
+&emsp;Not later than 30 days after March 11, 2021, the Secretary shall allocate Federal funds to participating States so that each State is eligible to receive an amount equal to what the State would receive under the 2021 allocation, as determined under paragraph (2).
 
-&emsp;&emsp;(A) would receive under the 2009 allocation, as determined under paragraph (2); and
-
-&emsp;&emsp;(B) would receive under the 2010 allocation, as determined under paragraph (3).
-
-#### (2) 2009 allocation formula
+#### (2) 2021 allocation formula
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall determine the 2009 allocation by allocating Federal funds among the States in the proportion that each such State's 2008 State employment decline bears to the aggregate of the 2008 State employment declines for all States.
+&emsp;&emsp;With respect to States other than Tribal governments, the Secretary shall determine the 2021 allocation by allocating Federal funds among the States in the proportion that each such State's 2020 State employment decline bears to the aggregate of the 2020 State employment declines for all States.
 
 #### (B) Minimum allocation
 
 &emsp;&emsp;The Secretary shall adjust the allocations under subparagraph (A) for each State to the extent necessary to ensure that no State receives less than 0.9 percent of the Federal funds.
 
-#### (C) 2008 state employment decline defined
+#### (C) <sup>1</sup> 2020 State employment decline defined
 
-&emsp;&emsp;In this paragraph and with respect to a State, the term "2008 State employment decline" means the excess (if any) of—
+&emsp;&emsp;In this paragraph and with respect to a State, the term "2020 State employment decline" means the excess (if any) of—
 
-&emsp;&emsp;&emsp;(i) the number of individuals employed in such State determined for December 2007; over
+&emsp;&emsp;&emsp;(i) the number of individuals employed in such State determined for December 2019; over
 
-&emsp;&emsp;&emsp;(ii) the number of individuals employed in such State determined for December 2008.
+&emsp;&emsp;&emsp;(ii) the number of individuals employed in such State determined for December 2020.
 
-#### (3) 2010 allocation formula
+#### (C) <sup>1</sup> Separate allocation for Tribal governments
 
-#### (A) In general
+#### (i) In general
 
-&emsp;&emsp;The Secretary shall determine the 2010 allocation by allocating Federal funds among the States in the proportion that each such State's 2009 unemployment number bears to the aggregate of the 2009 unemployment numbers for all of the States.
+&emsp;&emsp;&emsp;With respect to States that are Tribal governments, the Secretary shall determine the 2021 allocation by allocating $500,000,000 among the Tribal governments in the proportion the Secretary determines appropriate, including with consideration to available employment and economic data regarding each such Tribal government.
 
-#### (B) Minimum allocation
+#### (ii) Notice of intent; timing of allocation
 
-&emsp;&emsp;The Secretary shall adjust the allocations under subparagraph (A) for each State to the extent necessary to ensure that no State receives less than 0.9 percent of the Federal funds.
+&emsp;&emsp;&emsp;With respect to allocations to States that are Tribal governments, the Secretary may—
 
-#### (C) 2009 unemployment number defined
+&emsp;&emsp;&emsp;&emsp;(I) require Tribal governments that individually or jointly wish to participate in the Program to file a notice of intent with the Secretary not later than 30 days after March 11, 2021; and
 
-&emsp;&emsp;In this paragraph and with respect to a State, the term "2009 unemployment number" means the number of individuals within such State who were determined to be unemployed by the Bureau of Labor Statistics for December 2009.
+&emsp;&emsp;&emsp;&emsp;(II) notwithstanding paragraph (1), allocate Federal funds to participating Tribal governments not later than 60 days after March 11, 2021.
+
+#### (D) Employment data
+
+&emsp;&emsp;If the Secretary determines that employment data with respect to a State is unavailable from the Bureau of Labor Statistics of the Department of Labor, the Secretary shall consider such other economic and employment data that is otherwise available for purposes of determining the employment data of such State.
 
 #### (c) Availability of allocated amount
 
@@ -60,7 +60,7 @@ The amount allocated by the Secretary to each participating State under subsecti
 
 &emsp;&emsp;&emsp;(ii) transfer to the participating State the first 1/3 when the Secretary approves the State for participation under section 5703 of this title; and
 
-&emsp;&emsp;&emsp;(iii) transfer to the participating State each successive 1/3 when the State has certified to the Secretary that it has expended, transferred, or obligated 80 percent of the last transferred 1/3 for Federal contributions to, or for the account of, State programs.
+&emsp;&emsp;&emsp;(iii) transfer to the participating State each successive 1/3 when the State has certified to the Secretary that it has expended, transferred, or obligated 80 percent of the last transferred 1/3 for Federal contributions to, or for the account of, State programs that have delivered loans or investments to eligible businesses.
 
 #### (B) Authority to withhold pending audit
 
@@ -70,7 +70,7 @@ The amount allocated by the Secretary to each participating State under subsecti
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Inspector General of the Department of the Treasury shall carry out an audit of the participating State's use of allocated Federal funds transferred to the State.
+&emsp;&emsp;&emsp;The Inspector General of the Department of the Treasury shall carry out an audit ofthe participating State's use of allocated Federal funds transferred to the State.
 
 #### (ii) Recoupment of misused transferred funds required
 
@@ -104,9 +104,19 @@ The amount allocated by the Secretary to each participating State under subsecti
 
 &emsp;&emsp;(D) in the case of each successive 1/3 transferred, for paying administrative costs incurred by the State in implementing an approved State program in an amount not to exceed 3 percent of that successive 1/3.
 
-#### (4) Termination of availability of amounts not transferred within 2 years of participation
+#### (4) Termination of availability of amounts not transferred
 
-&emsp;Any portion of a participating State's allocated amount that has not been transferred to the State under this section by the end of the 2-year period beginning on the date that the Secretary approves the State for participation may be deemed by the Secretary to be no longer allocated to the State and no longer available to the State and shall be returned to the General Fund of the Treasury.
+#### (A) In general
+
+&emsp;&emsp;Any portion of a participating State's allocated amount that has not been transferred to the State under this section may be deemed by the Secretary to be no longer allocated to the State and no longer available to the State and shall be returned to the general fund of the Treasury or reallocated as described under subparagraph (B), if—
+
+&emsp;&emsp;&emsp;(i) the second 1/3 of a State's allocated amount has not been transferred to the State before the end of the end of the 3-year period beginning on the date that the Secretary approves the State for participation; or
+
+&emsp;&emsp;&emsp;(ii) the last 1/3 of a State's allocated amount has not been transferred to the State before the end of the end of the 6-year period beginning on the date that the Secretary approves the State for participation.
+
+#### (B) Reallocation
+
+&emsp;&emsp;Any amount deemed by the Secretary to be no longer allocated to a State and no longer available to such State under subparagraph (A) may be reallocated by the Secretary to other participating States. In making such a reallocation, the Secretary shall not take into account the minimum allocation requirements under subsection (b)(2)(B) or the specific allocation for Tribal governments described under subsection (b)(2)(C).
 
 #### (5) Transferred amounts not assistance
 
@@ -124,5 +134,67 @@ The amount allocated by the Secretary to each participating State under subsecti
 
 &emsp;&emsp;&emsp;(ii) in the case of the last 1/3, an amount equal to 34 percent of a participating State's allocated amount.
 
-(Pub. L. 111–240, title III, §3003, Sept. 27, 2010, 124 Stat. 2570.)
+#### (d) Additional allocations to support business enterprises owned and controlled by socially and economically disadvantaged individuals
+
+Of the amounts appropriated for fiscal year 2021 to carry out the Program, the Secretary shall—
+
+&emsp;(1) allocate $1,500,000,000 to States from funds allocated under this section and, by regulation or other guidance, prescribe Program requirements that the funds be expended for business enterprises owned and controlled by socially and economically disadvantaged individuals; and
+
+&emsp;(2) allocate such amounts to States based on the needs of business enterprises owned and controlled by socially and economically disadvantaged individuals, as determined by the Secretary, in each State, and not subject to the allocation formula described under subsection (b).
+
+#### (e) Incentive allocations to support business enterprises owned and controlled by socially and economically disadvantaged individuals
+
+Of the amounts appropriated for fiscal year 2021 to carry out the Program, the Secretary shall set aside $1,000,000,000 for an incentive program under which the Secretary shall increase the second 1/3 and last 1/3 allocations for States that demonstrate robust support, as determined by the Secretary, for business concerns owned and controlled by socially and economically disadvantaged individuals in the deployment of prior allocation amounts.
+
+#### (f) Additional allocations to support very small businesses
+
+#### (1) In general
+
+&emsp;Of the amounts appropriated to carry out the Program, the Secretary shall allocate not less than $500,000,000 to States from funds allocated under this section to be expended for very small businesses.
+
+#### (2) Very small business defined
+
+&emsp;In this subsection, the term "very small business"—
+
+&emsp;&emsp;(A) means a business with fewer than 10 employees; and
+
+&emsp;&emsp;(B) may include independent contractors and sole proprietors.
+
+(Pub. L. 111–240, title III, §3003, Sept. 27, 2010, 124 Stat. 2570; Pub. L. 117–2, title III, §3301(a)(1)(A), (b), (c), Mar. 11, 2021, 135 Stat. 67, 69, 70.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2021</b>—Subsec. (b)(1). Pub. L. 117–2, §3301(a)(1)(A)(i)(I), amended par. (1) generally. Prior to amendment, par. (1) required allocation of funds by 30 days after Sept. 27, 2010.
+
+Subsec. (b)(2). Pub. L. 117–2, §3301(a)(1)(A)(ii)(II)(bb), substituted "2020" for "2008" wherever appearing.
+
+Pub. L. 117–2, §3301(a)(1)(A)(i)(II)(aa), substituted "2021" for "2009" in heading and in subpar. (A).
+
+Subsec. (b)(2)(A). Pub. L. 117–2, §3301(a)(1)(A)(i)(II)(cc), substituted "With respect to States other than Tribal governments, the Secretary" for "The Secretary".
+
+Subsec. (b)(2)(C). Pub. L. 117–2, §3301(a)(1)(A)(i)(II)(ee), added subpar. (C) relating to separate allocation for tribal governments.
+
+Subsec. (b)(2)(C)(i). Pub. L. 117–2, §3301(a)(1)(A)(i)(II)(dd), substituted "2019" for "2007" in cl. (i) of subpar. (C) defining 2020 State employment decline.
+
+Subsec. (b)(2)(D). Pub. L. 117–2, §3301(a)(1)(A)(i)(II)(ee), added subpar. (D).
+
+Subsec. (b)(3). Pub. L. 117–2, §3301(a)(1)(A)(i)(III), struck out par. (3) which provided for the 2010 allocation formula.
+
+Subsec. (c)(1)(A)(iii). Pub. L. 117–2, §3301(a)(1)(A)(ii)(I), inserted before period at end "that have delivered loans or investments to eligible businesses".
+
+Subsec. (c)(4). Pub. L. 117–2, §3301(a)(1)(A)(ii)(II), amended par. (4) generally. Prior to amendment, text read as follows: "Any portion of a participating State's allocated amount that has not been transferred to the State under this section by the end of the 2-year period beginning on the date that the Secretary approves the State for participation may be deemed by the Secretary to be no longer allocated to the State and no longer available to the State and shall be returned to the General Fund of the Treasury."
+
+Subsecs. (d), (e). Pub. L. 117–2, §3301(b), added subsecs. (d) and (e).
+
+Subsec. (f). Pub. L. 117–2, §3301(c), added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 117–2 applicable with respect to funds appropriated under section 3301 of Pub. L. 117–2 and funds appropriated on and after Mar. 11, 2021, see section 3301(g) of Pub. L. 117–2, set out as a note under section 5701 of this title.
+
+<i><sup>1</sup></i><i> So in original. Two subpars. (C) have been enacted.</i>
 

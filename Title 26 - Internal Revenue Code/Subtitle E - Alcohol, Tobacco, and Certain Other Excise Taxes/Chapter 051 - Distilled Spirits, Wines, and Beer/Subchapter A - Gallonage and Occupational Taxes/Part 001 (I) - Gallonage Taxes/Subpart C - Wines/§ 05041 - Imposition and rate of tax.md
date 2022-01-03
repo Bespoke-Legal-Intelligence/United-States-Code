@@ -2,7 +2,7 @@
 
 #### (a) Imposition
 
-There is hereby imposed on all wines (including imitation, substandard, or artificial wine, and compounds sold as wine) having not in excess of 24 percent of alcohol by volume, in bond in, produced in, or imported into, the United States, taxes at the rates shown in subsection (b), such taxes to be determined as of the time of removal for consumption or sale. All wines containing more than 24 percent of alcohol by volume shall be classed as distilled spirits and taxed accordingly. Subject to subsection (h), still wines shall include those wines containingnot more than 0.392 gram of carbon dioxide per hundred milliliters of wine; except that the Secretary may by regulations prescribe such tolerances to this maximum limitation as may be reasonably necessary in good commercial practice.
+There is hereby imposed on all wines (including imitation, substandard, or artificial wine, and compounds sold as wine) having not in excess of 24 percent of alcohol by volume, in bond in, produced in, or imported into, the United States, taxes at the rates shown in subsection (b), such taxes to be determined as of the time of removal for consumption or sale. All wines containing more than 24 percent of alcohol by volume shall be classed as distilled spirits and taxed accordingly. Subject to subsection (h), still wines shall include those wines containing not more than 0.392 gram of carbon dioxide per hundred milliliters of wine; except that the Secretary may by regulations prescribe such tolerances to this maximum limitation as may be reasonably necessary in good commercial practice.
 
 #### (b) Rates of tax
 
@@ -170,7 +170,7 @@ For purposes of subsection (b)(6), the term "hard cider" means a wine—
 
 &emsp;&emsp;&emsp;(iv) which contains less than 8.5 percent alcohol by volume.
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1331; amended Pub. L. 86–75, §3(a)(5), June 30, 1959, 73 Stat. 157; Pub. L. 86–564, title II, §202(a)(7), June 30, 1960, 74 Stat. 290; Pub. L. 87–72, §3(a)(7), June 30, 1961, 75 Stat. 193; Pub. L. 87–508, §3(a)(6), June 28, 1962, 76 Stat. 114; Pub. L. 88–52, §3(a)(7), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, §2(a)(7), June 30, 1964, 78 Stat. 237; Pub. L. 89–44, title V, §501(c), title VIII, §806(a), June 21, 1965, 79 Stat. 150, 162; Pub. L. 93–490, §6(a), Oct. 26, 1974, 88 Stat. 1468; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 100–647, title VI, §6101(a), Nov. 10, 1988, 102 Stat. 3710; Pub. L. 101–508, title XI, §11201(b)(1), (2),Nov. 5, 1990, 104 Stat. 1388–415, 1388–416; Pub. L. 104–188, title I, §1702(b)(5), Aug. 20, 1996, 110 Stat. 1868; Pub. L. 105–34, title IX, §908(a), (b), Aug. 5, 1997, 111 Stat. 876; Pub. L. 105–206, title VI, §6009(a), July 22, 1998, 112 Stat. 812; Pub. L. 114–113, div. Q, title III, §335(a), Dec. 18, 2015, 129 Stat. 3109; Pub. L. 115–97, title I, §§13804(a)–(c), 13805(a), 13806(a), Dec. 22, 2017, 131 Stat. 2173–2175; Pub. L. 116–94, div. Q, title I, §144(d)(1), (2), (e)(1), (f)(1), (j)(1), Dec. 20, 2019, 133 Stat. 3235; Pub. L. 116–260, div. EE, title I, §§106(d)(1), (2), (e)(1), (f)(1), 107(c)(1), Dec. 27, 2020, 134 Stat. 3043, 3044, 3047.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1331; amended Pub. L. 86–75, §3(a)(5), June 30, 1959, 73 Stat. 157; Pub. L. 86–564, title II, §202(a)(7), June 30, 1960, 74 Stat. 290; Pub. L. 87–72, §3(a)(7), June 30, 1961, 75 Stat. 193; Pub. L. 87–508, §3(a)(6), June 28, 1962, 76 Stat. 114; Pub. L. 88–52, §3(a)(7), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, §2(a)(7), June 30, 1964, 78 Stat. 237; Pub. L. 89–44, title V, §501(c), title VIII, §806(a), June 21, 1965, 79 Stat. 150, 162; Pub. L. 93–490, §6(a), Oct. 26, 1974, 88 Stat. 1468; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 100–647, title VI, §6101(a), Nov. 10, 1988, 102 Stat. 3710; Pub. L. 101–508, title XI, §11201(b)(1), (2), Nov. 5, 1990, 104 Stat. 1388–415, 1388–416; Pub. L. 104–188, title I, §1702(b)(5), Aug. 20, 1996, 110 Stat. 1868; Pub. L. 105–34, title IX, §908(a), (b), Aug. 5, 1997, 111 Stat. 876; Pub. L. 105–206, title VI, §6009(a), July 22, 1998, 112 Stat. 812; Pub. L. 114–113, div. Q, title III, §335(a), Dec. 18, 2015, 129 Stat. 3109; Pub. L. 115–97, title I, §§13804(a)–(c), 13805(a), 13806(a), Dec. 22, 2017, 131 Stat. 2173–2175; Pub. L. 116–94, div. Q, title I, §144(d)(1), (2), (e)(1), (f)(1), (j)(1), Dec. 20, 2019, 133 Stat. 3235; Pub. L. 116–260, div. EE, title I, §§106(d)(1), (2), (e)(1), (f)(1), 107(c)(1), Dec. 27, 2020, 134 Stat. 3043, 3044, 3047.)
 
 #### Amendment of Subsection (c)
 
@@ -184,7 +184,7 @@ For purposes of subsection (b)(6), the term "hard cider" means a wine—
 
 &emsp;&emsp;&emsp;<i>(i) paragraph (1) shall not apply, and</i>
 
-&emsp;&emsp;&emsp;<i>(ii) the amount determined under subparagraph (B) shall be allowed as a refund, determined for periods not less frequently than quarterly, to the importer in the same manner as if such amount were an overpayment of tax imposed by this section.</i>
+&emsp;&emsp;&emsp;<i>(ii) the amount determined under subparagraph (B) shall be allowed as a refund, determined for periods not less frequently than</i><i>quarterly, to the importer in the same manner as if such amount were an overpayment of tax imposed by this section.</i>
 
 #### <i>(B) Amount of refund</i>
 
@@ -207,6 +207,8 @@ For purposes of subsection (b)(6), the term "hard cider" means a wine—
 &emsp;&emsp;<i>For purposes of refunds allowed under this paragraph, section 6611(e) shall be applied by substituting "90 days" for "45 days" each place it appears.</i>
 
 <i>See 2020 Amendment note below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -240,7 +242,7 @@ Subsec. (c)(7). Pub. L. 116–260, §107(c)(1), added par. (7). Former par. (7) 
 
 Pub. L. 116–260, §106(d)(1)(F), amended par. (7) generally. Prior to amendment, text read as follows: "The Secretary may prescribe such regulations as may be necessary to carry out the purposes of this subsection, including regulations—
 
-&emsp;"(A) to prevent the credit provided in this subsection from benefiting any person who producesmore than 250,000 wine gallons of wine during a calendar year, and
+&emsp;"(A) to prevent the credit provided in this subsection from benefiting any person who produces more than 250,000 wine gallons of wine during a calendar year, and
 
 &emsp;"(B) to assure proper reduction of such credit for persons producing more than 150,000 wine gallons of wine during a calendar year."
 
@@ -326,6 +328,8 @@ Subsec. (b). Pub. L. 89–44, §501(c)(1)–(5), struck out provisions at end of
 
 <b>1959</b>—Subsec. (b). Pub. L. 86–75 substituted "July 1, 1960" for "July 1, 1959" in five places.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2020 Amendment
 
 Pub. L. 116–260, div. EE, title I, §106(d)(3), Dec. 27, 2020, 134 Stat. 3044, provided that: "The amendments made by this subsection \[amending this section\] shall apply to wine removed after December 31, 2020."
@@ -352,7 +356,7 @@ Pub. L. 115–97, title I, §13804(d), Dec. 22, 2017, 131 Stat. 2175, provided t
 
 Pub. L. 115–97, title I, §13805(b), Dec. 22, 2017, 131 Stat. 2175, provided that: "The amendments made by this section \[amending this section\] shall apply to wine removed after December 31, 2017."
 
-Pub. L. 115–97, title I, §13806(b), Dec. 22, 2017, 131 Stat. 2175, provided that: "The amendments made by thissection \[amending this section\] shall apply to wine removed after December 31, 2017."
+Pub. L. 115–97, title I, §13806(b), Dec. 22, 2017, 131 Stat. 2175, provided that: "The amendments made by this section \[amending this section\] shall apply to wine removed after December 31, 2017."
 
 #### Effective Date of 2015 Amendment
 

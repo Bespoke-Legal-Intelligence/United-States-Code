@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—A covered official may treat a covered relative of a covered employee under the jurisdiction of that covered official in the same manner the Secretary of a military department treats, under section 481f(d) of title 37, next of kin and family members of a member of the armed forces who dies while located or serving overseas.
+Authority.—A covered official may treat a covered relative of a covered employee under the jurisdiction of that covered official in the same manner the Secretary of a military department treats, under section 481f(d) <sup>1</sup> of title 37, next of kin and family members of a member of the armed forces who dies while located or serving overseas.
 
 (b)
 
@@ -29,4 +29,10 @@ Definitions.—In this section:
 &emsp;&emsp;(C) one or more additional family members of the covered employee, at the discretion of the Secretary a sibling of the covered employee.
 
 (Added Pub. L. 116–283, div. A, title XI, §1104(a)(1), Jan. 1, 2021, 134 Stat. 3889.)
+
+#### References in Text
+
+Section 481f of title 37, referred to in subsec. (a), was repealed by Pub. L. 117–81, div. A, title VI, §604(a), Dec. 27, 2021, 135 Stat. 1767.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

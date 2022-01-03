@@ -2,7 +2,7 @@
 
 (1) The Administrator is authorized to award scholarships in accordance with the provisions of this section for undergraduate study by persons who plan to enter an occupation involving the operation and maintenance of treatment works. Such scholarships shall be awarded for such periods as the Administrator may determine but not to exceed four academic years.
 
-(2) The Administrator shall allocate scholarships under this section among institutions of higher education with programs approved under the provisions of this section for the use of individuals accepted into such programs in such manner and according to such plan as will insofar as practicable—
+(2) The Administrator shall allocate scholarships under this section among institutions ofhigher education with programs approved under the provisions of this section for the use of individuals accepted into such programs in such manner and according to such plan as will insofar as practicable—
 
 &emsp;(A) provide an equitable distribution of such scholarships throughout the United States; and
 
@@ -16,7 +16,7 @@
 
 &emsp;(C) that the application describes the relation of such program to any program, activity, research, or development set forth by the applicant in an application, if any, submitted pursuant to section 1260 of this title; and
 
-&emsp;(D) that the application contains satisfactory assurances that (i) the institution will recommend to the Administrator for the award of scholarships under this section, for study in such program, only persons who have demonstrated to the satisfaction of the institution a serious intent, upon completing theprogram, to enter an occupation involving the operation and maintenance of treatment works, and (ii) the institution will make reasonable continuing efforts to encourage recipients of scholarships under this section, enrolled in such program, to enter occupations involving the operation and maintenance of treatment works upon completing the program.
+&emsp;(D) that the application contains satisfactory assurances that (i) the institution will recommend to the Administrator for the award of scholarships under this section, for study in such program, only persons who have demonstrated to the satisfaction of the institution a serious intent, upon completing the program, to enter an occupation involving the operation and maintenance of treatment works, and (ii) the institution will make reasonable continuing efforts to encourage recipients of scholarships under this section, enrolled in such program, to enter occupations involving the operation and maintenance of treatment works upon completing the program.
 
 (4)(A) The Administrator shall pay to persons awarded scholarships under this section such stipends (including such allowances for subsistence and other expenses for such persons and their dependents) as he may determine to be consistent with prevailing practices under comparable federally supported programs.
 

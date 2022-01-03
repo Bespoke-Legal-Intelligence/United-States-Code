@@ -4,11 +4,15 @@ The Secretary may establish reasonable charges and fees and issue permits for pu
 
 (Pub. L. 87–714, §4, Sept. 28, 1962, 76 Stat. 654; Pub. L. 95–616, §3(e), Nov. 8, 1978, 92 Stat. 3111; Pub. L. 98–473, title II, §221, Oct. 12, 1984, 98 Stat. 2028.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Pub. L. 98–473 substituted "misdemeanor" for "petty offense (18 U.S.C. 1)".
 
 <b>1978</b>—Pub. L. 95–616 provided for designation of enforcement personnel.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

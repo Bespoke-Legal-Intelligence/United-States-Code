@@ -74,7 +74,7 @@ The Secretary shall certify that assistance within the jurisdiction of the Depar
 
 #### (e) Administrative remedies
 
-If the Secretary receives or obtains information providing a reasonable basis to believe that a violation of subsection (b) or (c) has occurred, the Secretary shall—
+If the Secretary receives or obtains information providing a reasonable basis to believe thata violation of subsection (b) or (c) has occurred, the Secretary shall—
 
 &emsp;(1) in the case of a selection that has not been made, determine whether to terminate the selection process or take other appropriate actions; and
 
@@ -128,7 +128,7 @@ If the Secretary receives or obtains information providing a reasonable basis to
 
 #### (1) In general
 
-&emsp;After exhausting all administrative remedies established by the Secretary under subsection (g)(1), a person against whom the Secretary has imposed a civil money penalty under subsection (f) may obtain a review of the penalty and such ancillary issues as may be addressed in the notice of determination toimpose a penalty under subsection (g)(1)(A) in the appropriate court of appeals of the United States, by filing in such court, within 20 days after the entry of such order or determination, a written petition praying that the order or determination of the Secretary be modified or be set aside in whole or in part.
+&emsp;After exhausting all administrative remedies established by the Secretary under subsection (g)(1), a person against whom the Secretary has imposed a civil money penalty under subsection (f) may obtain a review of the penalty and such ancillary issues as may be addressed in the notice of determination to impose a penalty under subsection (g)(1)(A) in the appropriate court of appeals of the United States, by filing in such court, within 20 days after the entry of such order or determination, a written petition praying that the order or determination of the Secretary be modified or be set aside in whole or in part.
 
 #### (2) Objections not raised in hearing
 
@@ -178,6 +178,8 @@ This section shall take effect on the date specified in regulations implementing
 
 (Pub. L. 101–235, title I, §102, Dec. 15, 1989, 103 Stat. 1990; Pub. L. 110–289, div. B, title VIII, §2834(a), July 30, 2008, 122 Stat. 2869.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The National Housing Act, referred to in subsec. (d), is act June 27, 1934, ch. 847, 48 Stat. 1246. Title II of the Act is classified generally to subchapter II (§1707 et seq.) of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
@@ -189,6 +191,8 @@ Section was enacted as part of the Department of Housing and Urban Development R
 #### Amendments
 
 <b>2008</b>—Subsec. (d). Pub. L. 110–289 inserted ", as such term is defined in subsection (m), except that for purposes of this subsection such term shall not include any mortgage insurance provided pursuant to title II of the National Housing Act (12 U.S.C. 1707 et seq.)" after "Department" and "such" after "amount of".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Subsidy Layering Review
 

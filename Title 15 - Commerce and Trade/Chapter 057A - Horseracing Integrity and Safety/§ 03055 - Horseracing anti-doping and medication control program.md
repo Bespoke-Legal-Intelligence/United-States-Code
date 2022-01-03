@@ -96,7 +96,7 @@ Except as provided in subsections (e) and (f), the horseracing anti-doping and m
 
 #### (B) Condition
 
-&emsp;&emsp;In order for a unanimous vote described in subparagraph (A) to effect a modification of the prohibition in subsection (d), the vote must include unanimous adoption of each of the following findings:
+&emsp;&emsp;In order for a unanimous vote described in subparagraph (A) to effect a modification ofthe prohibition in subsection (d), the vote must include unanimous adoption of each of the following findings:
 
 &emsp;&emsp;&emsp;(i) That the modification is warranted.
 
@@ -110,7 +110,7 @@ Except as provided in subsections (e) and (f), the horseracing anti-doping and m
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), only during the three-year period beginning on the program effective date, a State racing commission may submit to the Authority, at such time and in such manner as the Authority may require, a request for an exemption fromthe prohibition in subsection (d) with respect to the use of furosemide on covered horses during such period.
+&emsp;Except as provided in paragraph (2), only during the three-year period beginning on the program effective date, a State racing commission may submit to the Authority, at such time and in such manner as the Authority may require, a request for an exemption from the prohibition in subsection (d) with respect to the use of furosemide on covered horses during such period.
 
 #### (2) Exceptions
 
@@ -171,6 +171,8 @@ Except as provided in subsections (e) and (f), the horseracing anti-doping and m
 &emsp;&emsp;The Authority shall not approve any proposed modification that renders an anti-doping and medication control rule less stringent than the baseline anti-doping and medication control rules described in paragraph (2) (including by increasing permitted medication thresholds, adding permitted medications, removing prohibited medications, or weakening enforcement mechanisms) without the approval of the anti-doping and medication control enforcement agency.
 
 (Pub. L. 116–260, div. FF, title XII, §1206, Dec. 27, 2020, 134 Stat. 3263.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -26,9 +26,13 @@ For purposes of this section—
 
 (Added Pub. L. 98–369, div. A, title I, §41(a), July 18, 1984, 98 Stat. 553; amended Pub. L. 100–647, title I, §1006(u)(3), Nov. 10, 1988, 102 Stat. 3427.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–647 substituted "paragraph (7)" for "paragraph (6)" in pars. (1) and (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

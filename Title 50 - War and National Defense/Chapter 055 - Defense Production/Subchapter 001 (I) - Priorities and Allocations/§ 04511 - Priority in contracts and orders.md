@@ -12,7 +12,7 @@ The powers granted in this section shall not be used to control the general dist
 
 (1) Notwithstanding any other provision of this chapter, the President may, by rule or order, require the allocation of, or the priority performance under contracts or orders (other than contracts of employment) relating to, materials, equipment, and services in order to maximize domestic energy supplies if he makes the findings required by paragraph (3) of this subsection.
 
-(2) The authority granted by this subsection may not be used to require priority performanceof contracts or orders, or to control the distribution of any supplies of materials, services, and facilities in the marketplace, unless the President finds that—
+(2) The authority granted by this subsection may not be used to require priority performance of contracts or orders, or to control the distribution of any supplies of materials, services, and facilities in the marketplace, unless the President finds that—
 
 &emsp;(A) such materials, services, and facilities are scarce, critical, and essential—
 
@@ -39,6 +39,8 @@ The head of each Federal agency to which the President delegates authority under
 #### Termination of Section
 
 <i>For termination of section, see section 4564(a) of this title.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -72,15 +74,43 @@ Subsec. (c)(2) to (4). Pub. L. 102–99, §6(3), (4), added par. (2), redesignat
 
 <b>1953</b>—Subsec. (a). Act June 30, 1953, struck out provisions which related to slaughtering of livestock and allocation of meat and meat products.
 
-Subsec. (b). Act June 30, 1953, retained priorities and allocation authority for defense production but generally to discontinue such authority with respect to the civilian market except in the special cases where, because of shortages and demands of the defense effort, there otherwise would be a significant dislocation in the civilian market resulting in appreciable hardship.
+Subsec. (b). Act June 30, 1953, retained priorities and allocation authority for defense production but generally to discontinue such authority with respect to the civilian market except in the special cases where,because of shortages and demands of the defense effort, there otherwise would be a significant dislocation in the civilian market resulting in appreciable hardship.
 
 <b>1952</b>—Act June 30, 1952, redesignated existing provisions as subsec. (a), inserted provisions relating to meat and meat products, and added subsec. (b).
 
 <b>1951</b>—Act July 31, 1951, inserted provision relating to slaughtering of livestock.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1991 Amendment
 
 Pub. L. 102–99, §7, Aug. 17, 1991, 105 Stat. 490, provided that: "This Act \[see Tables for classification\] shall take effect on October 20, 1990."
+
+#### COVID–19 Emergency Medical Supplies Enhancement
+
+Pub. L. 117–2, title III, §3101, Mar. 11, 2021, 135 Stat. 53, provided that:
+
+"(a)
+
+Supporting Enhanced Use of the Defense Production Act of 1950.—In addition to funds otherwise available, there is appropriated, for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $10,000,000,000, to remain available until September 30, 2025, to carry out titles I, III , and VII of such Act \[50 U.S.C. 4511 et seq., 4531 et seq., and 4551 et seq.\] in accordance with subsection (b).
+
+"(b)
+
+Medical Supplies and Equipment.—
+
+&emsp;"(1)
+
+Testing, ppe, vaccines, and other materials.—Except as provided in paragraph (2), amounts appropriated in subsection (a) shall be used for the purchase, production (including the construction, repair, and retrofitting of government-owned or private facilities as necessary), or distribution of medical supplies and equipment (including durable medical equipment) related to combating the COVID–19 pandemic, including—
+
+&emsp;&emsp;"(A) in vitro diagnostic products for the detection of SARS–CoV–2 or the diagnosis of the virus that causes COVID–19, and the reagents and other materials necessary for producing, conducting, or administering such products, and the machinery, equipment, laboratory capacity, or other technology necessary to produce such products;
+
+&emsp;&emsp;"(B) face masks and personal protective equipment, including face shields, nitrile gloves, N–95 filtering facepiece respirators, and any other masks or equipment (including durable medical equipment) needed to respond to the COVID–19 pandemic, and the materials, machinery, additional manufacturing lines or facilities, or other technology necessary to produce such equipment; and
+
+&emsp;&emsp;"(C) drugs, devices, and biological products that are approved, cleared, licensed, or authorized for use in treating or preventing COVID–19 and symptoms related to COVID–19, and any materials, manufacturing machinery, additional manufacturing or fill-finish lines or facilities, technology, or equipment (including durable medical equipment) necessary to produce or use such drugs, biological products, or devices (including syringes, vials, or other supplies or equipment related to delivery, distribution, or administration).
+
+&emsp;"(2)
+
+Responding to public health emergencies.—After September 30, 2022, amounts appropriated in subsection (a) may be used for any activity authorized by paragraph (1), or any other activity necessary to meet critical public health needs of the United States, with respect to any pathogen that the President has determined has the potential for creating a public health emergency."
 
 #### Report on Industry Preparedness
 
@@ -89,6 +119,8 @@ Pub. L. 110–53, title X, §1002(b), Aug. 3, 2007, 121 Stat. 375, provided that
 #### Presidential Authority To Issue Orders Relating to Domestic Energy Supplies
 
 Pub. L. 94–163, title I, §104(b), Dec. 22, 1975, 89 Stat. 879, as amended by Pub. L. 99–58, title I, §101(b), July 2, 1985, 99 Stat. 102; Pub. L. 101–46, §1(2), June 30, 1989, 103 Stat. 132; Pub. L. 101–262, §2(a), Mar. 31, 1990, 104 Stat. 124; Pub. L. 101–360, §2(a), Aug. 10, 1990, 104 Stat. 421; Pub. L. 101–383, §2(1), Sept. 15, 1990, 104 Stat. 727; Pub. L. 105–388, §6, Nov. 13, 1998, 112 Stat. 3479; Pub. L. 106–469, title I, §103(2), Nov. 9, 2000, 114 Stat. 2029, provided that: "The expiration of the Defense Production Act of 1950 \[50 U.S.C. 4501 et seq.\] or any amendment of such Act after the date of enactment of this Act \[Dec. 22, 1975\] shall not affect the authority of the President under section 101(c) of such Act \[50 U.S.C. 4511(c)\], as amended by subsection (a) of this section and in effect on the date of enactment of this Act, unless Congress by law expressly provides to the contrary."
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 
@@ -134,7 +166,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. In Proclamation 9994 of March 13, 2020 (Declaring a National Emergency Concerning the Novel Coronavirus Disease (COVID–19) Outbreak) \[50 U.S.C. 1621 note\], I declared a national emergency recognizing the threat that the novel (new) coronavirus known as SARS–CoV–2 poses to our Nation's healthcare systems. In recognizing the public health risk, I noted that on March 11, 2020, the World Health Organization announced that the outbreak of COVID–19 (the disease caused by SARS–CoV–2) can be characterized as a pandemic. I also noted that while the Federal Government, along with State and local governments, have taken preventive and proactive measures to slow the spread of the virus and to treat those affected, the spread of COVID–19 within our Nation's communities threatens to strain our Nation's healthcare systems.
 
-To deal with this threat, on March 18, 2020, I issued Executive Order 13909 (Prioritizing and Allocating Health and Medical Resources to Respond to the Spread of COVID–19) \[set out above\], in which I delegated to the Secretary of Health and Human Services the prioritization and allocation authority under section 101 of the Act with respect to health and medical resources needed to respond to the spread of COVID–19. And on March 23, 2020, I issued Executive Order 13910 (Preventing Hoarding of Health and Medical Resources to Respond to the Spread of COVID–19) \[50 U.S.C. 4512note\], in which I delegated to the Secretary of Health and Human Services the authority under section 102 of the Act to combat hoarding and price gouging with respect to such resources.
+To deal with this threat, on March 18, 2020, I issued Executive Order 13909 (Prioritizing and Allocating Health and Medical Resources to Respond to the Spread of COVID–19) \[set out above\], in which I delegated to the Secretary of Health and Human Services the prioritization and allocation authority under section 101 of the Act with respect to health and medical resources needed to respond to the spread of COVID–19. And on March 23, 2020, I issued Executive Order 13910 (Preventing Hoarding of Health and Medical Resources to Respond to the Spread of COVID–19) \[50 U.S.C. 4512 note\], in which I delegated to the Secretary of Health and Human Services the authority under section 102 of the Act to combat hoarding and price gouging with respect to such resources.
 
 To ensure that our healthcare systems are able to surge capacity and capability to respond to the spread of COVID–19, it is the policy of the United States to expand domestic production of health and medical resources needed to respond to the spread of COVID–19, including personal protective equipment and ventilators. Accordingly, I am delegating authority under title III of the Act \[50 U.S.C. 4531 et seq.\] to guarantee loans by private institutions, make loans, make provision for purchases and commitments to purchase, and take additional actions to create, maintain, protect, expand, and restore domestic industrial base capabilities to produce such resources. To enable greater cooperation among private businesses in expanding production of and distributing such resources, I am also delegating my authority under section 708(c) and (d) of the Act (50 U.S.C. 4558(c), (d)) to provide for the making of voluntary agreements and plans of action by the private sector.
 
@@ -148,7 +180,7 @@ Sec. 2. <i>Delegation of Authority Under Title III of the Act</i>. (a) Notwithst
 
 (e) Before exercising the authority delegated under this section with respect to health or medical resources, the Secretary of Homeland Security shall consult with the Secretary of Health and Human Services.
 
-Sec. 3. <i>Delegation of Authority Under Title VII of the Act</i>. (a) Notwithstanding Executive Order 13603, the Secretary of Health and Human Services and the Secretary of Homeland Security are each delegated, with respect to responding to the spread of COVID–19 within the United States, the authority of the President conferred by section 708(c)(1) and (d) of the Act \[50 U.S.C. 4558(c)(1) and (d)\]. The Secretary of Health and Human Services shall provide to the Secretary of Homeland Security notice of any use of such delegated authority.
+Sec. 3. <i>Delegation of Authority Under Title VII of the Act</i>. (a) Notwithstanding Executive Order 13603, theSecretary of Health and Human Services and the Secretary of Homeland Security are each delegated, with respect to responding to the spread of COVID–19 within the United States, the authority of the President conferred by section 708(c)(1) and (d) of the Act \[50 U.S.C. 4558(c)(1) and (d)\]. The Secretary of Health and Human Services shall provide to the Secretary of Homeland Security notice of any use of such delegated authority.
 
 (b) The delegation made in this section is made upon the condition that the Secretary of Health and Human Services or the Secretary of Homeland Security consult with the Attorney General and with the Federal Trade Commission, and obtain the prior approval of the Attorney General, after consultation by the Attorney General with the Federal Trade Commission, as required by section 708(c)(2) of the Act, except when such consultation is waived under subsection (c) of section 3 of this order and section 708(c)(3) of the Act.
 
@@ -196,7 +228,7 @@ Such closures threaten the continued functioning of the national meat and poultr
 
 Accordingly, I find that meat and poultry in the food supply chain meet the criteria specified in section 101(b) of the Act (50 U.S.C. 4511(b)). Under the delegation of authority provided in this order, the Secretary of Agriculture shall take all appropriate action under that section to ensure that meat and poultry processors continue operations consistent with the guidance for their operations jointly issued by the CDC and OSHA. Under the delegation of authority provided in this order, the Secretary of Agriculture may identify additional specific food supply chain resources that meet the criteria of section 101(b).
 
-Sec. 2. <i>Ensuring the Continued Supply of Meat and Poultry</i>. (a) Notwithstanding Executive Order 13603 of March 16, 2012 (National Defense Resources Preparedness) \[50 U.S.C. 4553 note\], the authority of the President to require performance of contracts or orders (other than contracts of employment) to promote the national defense over performance of any other contracts or orders, to allocate materials, services, and facilities as deemed necessary or appropriate to promote the national defense, and to implement the Act in subchapter III of chapter 55 of title 50, United States Code (50 U.S.C. 4554, 4555, 4556, 4559, 4560), is delegated to the Secretary of Agriculture with respect to food supply chain resources, including meat and poultry, during the national emergency caused by the outbreak of COVID–19 within the United States.
+Sec. 2. <i>Ensuring the Continued Supply of Meat and Poultry</i>. (a) Notwithstanding Executive Order 13603 ofMarch 16, 2012 (National Defense Resources Preparedness) \[50 U.S.C. 4553 note\], the authority of the President to require performance of contracts or orders (other than contracts of employment) to promote the national defense over performance of any other contracts or orders, to allocate materials, services, and facilities as deemed necessary or appropriate to promote the national defense, and to implement the Act in subchapter III of chapter 55 of title 50, United States Code (50 U.S.C. 4554, 4555, 4556, 4559, 4560), is delegated to the Secretary of Agriculture with respect to food supply chain resources, including meat and poultry, during the national emergency caused by the outbreak of COVID–19 within the United States.
 
 (b) The Secretary of Agriculture shall use the authority under section 101 of the Act, in consultation with the heads of such other executive departments and agencies as he deems appropriate, to determine the proper nationwide priorities and allocation of all the materials, services, and facilities necessary to ensure the continued supply of meat and poultry, consistent with the guidance for the operations of meat and poultry processing facilities jointly issued by the CDC and OSHA.
 

@@ -24,9 +24,13 @@ The purpose of this subchapter is to reduce the adverse effects of acid depositi
 
 (July 14, 1955, ch. 360, title IV, §401, as added Pub. L. 101–549, title IV, §401, Nov. 15, 1990, 104 Stat. 2584.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Another section 401 of act July 14, 1955, as added by Pub. L. 91–604, §14, Dec. 31, 1970, 84 Stat. 1709, is set out as a Short Title note under section 7401 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Acid Deposition Standards
 
@@ -52,7 +56,7 @@ Election.—Regulations promulgated under section 405(b) of the Clean Air Act \[
 
 #### Sense of Congress on Emission Reductions Costs
 
-Pub. L. 101–549, title IV, §407, Nov. 15, 1990, 104 Stat. 2633, provided that: "It is the sense of the Congress that the Clean Air Act Amendments of 1990 \[Pub. L. 101–549, see Tables for classification\], through the allowance program, allocates the costs of achieving the required reductions in emissions of sulfur dioxide and oxides of nitrogen among sources in the United States. Broad based taxes and emissions fees that would provide for payment of the costs of achieving required emissions reductions by any party or parties other than the sources required to achieve the reductions are undesirable."
+Pub. L. 101–549, title IV, §407, Nov. 15, 1990, 104 Stat. 2633, provided that: "It is the sense of the Congress that the Clean Air Act Amendments of 1990 \[Pub. L. 101–549,see Tables for classification\], through the allowance program, allocates the costs of achieving the required reductions in emissions of sulfur dioxide and oxides of nitrogen among sources in the United States. Broad based taxes and emissions fees that would provide for payment of the costs of achieving required emissions reductions by any party or parties other than the sources required to achieve the reductions are undesirable."
 
 #### Monitoring of Acid Rain Program in Canada
 

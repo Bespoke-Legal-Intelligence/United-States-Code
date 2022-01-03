@@ -1,12 +1,12 @@
 ### §728a. Training and services for employers
 
-A State may expend payments received under section 731 of this title to educate and provideservices to employers who have hired or are interested in hiring individuals with disabilities under programs carried out under this subchapter, including—
+A State may expend payments received under section 731 of this title to educate and provide services to employers who have hired or are interested in hiring individuals with disabilities under programs carried out under this subchapter, including—
 
 &emsp;(1) providing training and technical assistance to employers regarding the employment of individuals with disabilities, including disability awareness, and the requirements of the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.) and other employment-related laws;
 
 &emsp;(2) working with employers to—
 
-&emsp;&emsp;(A) provide opportunities for work-based learning experiences (including internships, short-term employment, apprenticeships, and fellowships), and opportunities for pre-employment transition services;
+&emsp;&emsp;(A) provide opportunities for work-based learning experiences (including internships,short-term employment, apprenticeships, and fellowships), and opportunities for pre-employment transition services;
 
 &emsp;&emsp;(B) recruit qualified applicants who are individuals with disabilities;
 

@@ -10,11 +10,11 @@ The Bank is also authorized to issue its obligations to the Secretary of the Tre
 
 #### (c) Authority of Federal Financing Bank to require Secretary of the Treasury to purchase obligations of the Bank
 
-The Bank may require the Secretary of the Treasury to purchase obligations of the Bank issued pursuant to subsection (b) in such amounts as will not cause the holding by theSecretary of the Treasury resulting from such required purchases to exceed $5,000,000,000 at any one time. This subsection shall not be construed as limiting the authority of the Secretary to purchase obligations of the Bank in excess of such amount.
+The Bank may require the Secretary of the Treasury to purchase obligations of the Bank issued pursuant to subsection (b) in such amounts as will not cause the holding by the Secretary of the Treasury resulting from such required purchases to exceed $5,000,000,000 at any one time. This subsection shall not be construed as limiting the authority of the Secretary to purchase obligations of the Bank in excess of such amount.
 
 #### (d) Bank obligations as lawful investments
 
-Obligations of the Bank issued pursuant to this section shall be lawful investments, and may be accepted as security for all fiduciary, trust, and public funds, the investment or deposit of which shall be under the authority or control of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any territory or possession of the United States, or any agency or instrumentality of any of the foregoing, or any officer or officers thereof.
+Obligations of the Bank issued pursuant to this section shall be lawful investments, and may be accepted as security for all fiduciary,trust, and public funds, the investment or deposit of which shall be under the authority or control of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any territory or possession of the United States, or any agency or instrumentality of any of the foregoing, or any officer or officers thereof.
 
 (Pub. L. 93–224, §9, Dec. 29, 1973, 87 Stat. 939.)
 

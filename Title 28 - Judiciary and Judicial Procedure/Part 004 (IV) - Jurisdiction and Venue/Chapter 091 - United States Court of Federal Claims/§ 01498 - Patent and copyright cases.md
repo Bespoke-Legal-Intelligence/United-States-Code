@@ -4,7 +4,7 @@
 
 For the purposes of this section, the use or manufacture of an invention described in and covered by a patent of the United States by a contractor, a subcontractor, or any person, firm, or corporation for the Government and with the authorization or consent of the Government, shall be construed as use or manufacture for the United States.
 
-The court shall not award compensation under this section if the claim is based on the use ormanufacture by or for the United States of any article owned, leased, used by, or in the possession of the United States prior to July 1, 1918.
+The court shall not award compensation under this section if the claim is based on the use or manufacture by or for the United States of any article owned, leased, used by, or in the possession of the United States prior to July 1, 1918.
 
 A Government employee shall have the right to bring suit against the Government under this section except where he was in a position to order, influence, or induce use of the invention by the Government. This section shall not confer a right of action on any patentee or any assignee of such patentee with respect to any invention discovered or invented by a person while in the employment or service of the United States, where the invention was related to the official functions of the employee, in cases in which such functions included research and development, or in the making of which Government time, materials or facilities were used.
 
@@ -18,7 +18,7 @@ Except as otherwise provided by law, no recovery shall be had for any infringeme
 
 (e) Subsections (b) and (c) of this section apply to exclusive rights in mask works under chapter 9 of title 17, and to exclusive rights in designs under chapter 13 of title 17, to the same extent as such subsections apply to copyrights.
 
-(June 25, 1948, ch. 646, 62 Stat. 941; May 24, 1949, ch. 139, §87, 63 Stat. 102; Oct. 31, 1951, ch. 655, §50(c), 65 Stat. 727; July 17, 1952, ch. 930, 66 Stat. 757; Pub. L. 86–726, §§1, 4, Sept. 8, 1960, 74 Stat. 855, 856; Pub. L. 91–577, title III, §143(d), Dec. 24, 1970, 84 Stat. 1559; Pub. L. 94–553, title I, §105(c), Oct. 19, 1976, 90 Stat. 2599; Pub. L. 97–164, title I, §133(d), Apr. 2, 1982, 96 Stat. 40; Pub. L. 100–702, title X, §1020(a)(6), Nov. 19, 1988, 102 Stat. 4671; Pub. L. 102–572, title IX, §902(a), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–308, §1(a), Oct. 19, 1996, 110 Stat. 3814; Pub. L. 105–147, §3, Dec. 16, 1997, 111 Stat. 2680; Pub. L. 105–304, title V, §503(d), Oct. 28, 1998, 112 Stat. 2917.)
+(June 25, 1948, ch. 646, 62 Stat. 941; May 24, 1949, ch. 139, §87, 63 Stat. 102; Oct. 31, 1951, ch. 655, §50(c), 65 Stat. 727; July 17, 1952, ch. 930, 66 Stat. 757; Pub. L. 86–726, §§1, 4, Sept. 8, 1960, 74 Stat. 855, 856; Pub. L. 91–577, title III, §143(d), Dec. 24, 1970, 84 Stat. 1559; Pub. L. 94–553, title I, §105(c), Oct. 19, 1976, 90 Stat. 2599; Pub. L. 97–164, title I, §133(d), Apr. 2, 1982, 96 Stat. 40; Pub. L. 100–702, title X, §1020(a)(6), Nov. 19, 1988, 102 Stat. 4671; Pub. L. 102–572, title IX, §902(a), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–308, §1(a), Oct. 19, 1996, 110 Stat. 3814; Pub. L. 105–147, §3, Dec. 16, 1997, 111Stat. 2680; Pub. L. 105–304, title V, §503(d), Oct. 28, 1998, 112 Stat. 2917.)
 
 #### Historical and Revision Notes
 

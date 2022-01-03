@@ -132,7 +132,7 @@ If, during the term of a contract entered into under this subpart, an owner or o
 
 #### (1) Transition to covered farmer or rancher
 
-&emsp;In the case of a contract modification approved in order to facilitate the transfer of land subject to a contract from a contract holder to a beginning farmer or rancher, a veteran farmer or rancher (as defined in section 2279(e) <sup>1</sup> of title 7), or a socially disadvantaged farmer or rancher (in this subsection referred to as a "covered farmer or rancher"), the Secretary shall—
+&emsp;In the case of a contract modification approved in order to facilitate the transfer of land subject to a contract from a contractholder to a beginning farmer or rancher, a veteran farmer or rancher (as defined in section 2279(e) <sup>1</sup> of title 7), or a socially disadvantaged farmer or rancher (in this subsection referred to as a "covered farmer or rancher"), the Secretary shall—
 
 &emsp;&emsp;(A) beginning on the date that is 2 years before the date of termination of the contract—
 
@@ -187,6 +187,8 @@ The Secretary shall not consider an owner or operator to be in violation of a te
 The Secretary may terminate or modify a contract entered into under this subpart if eligible land that is subject to such contract is transferred into the agricultural conservation easement program under subchapter VII.
 
 (Pub. L. 99–198, title XII, §1235, as added Pub. L. 107–171, title II, §2101(a), May 13, 2002, 116 Stat. 249; amended Pub. L. 110–234, title II, §2111, May 22, 2008, 122 Stat. 1035; Pub. L. 110–246, §4(a), title II, §2111, June 18, 2008, 122 Stat. 1664, 1763; Pub. L. 113–79, title II, §2006, Feb. 7, 2014, 128 Stat. 719; Pub. L. 115–334, title II, §2208, Dec. 20, 2018, 132 Stat. 4549.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -249,6 +251,8 @@ Subsecs. (g), (h). Pub. L. 113–79, §2006(c), added subsecs. (g) and (h).
 <b>2008</b>—Subsec. (c)(1)(B)(iii), (iv). Pub. L. 110–246, §2111(a), added cl. (iii) and redesignated former cl. (iii) as (iv).
 
 Subsec. (f). Pub. L. 110–246, §2111(b), added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

@@ -54,6 +54,8 @@ Such refund shall be made on submission of proof satisfactory to the Board that 
 
 (Pub. L. 94–294, §8, May 28, 1976, 90 Stat. 532; Pub. L. 99–198, title XVI, §1601(b), Dec. 23, 1985, 99 Stat. 1604.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in provisions preceding par. 1 of subsec. (c), was in the original "this subtitle", and was translated as reading "this Act" to reflect the probable intent of Congress.
@@ -63,6 +65,8 @@ Section 2906(a) of this title, referred to in subsec. (f)(1), was in the origina
 #### Amendments
 
 <b>1985</b>—Pub. L. 99–198 amended section generally, substituting provisions relating to refunds for provisions relating to required terms and conditions in orders.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1985 Amendment
 

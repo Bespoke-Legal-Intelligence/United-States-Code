@@ -4,6 +4,8 @@ It is the policy of the United States to provide, within constitutional limitati
 
 (Pub. L. 90–284, title VIII, §801, Apr. 11, 1968, 82 Stat. 81.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1988 Amendment
 
 Pub. L. 100–430, §13(a), Sept. 13, 1988, 102 Stat. 1636, provided that: "This Act and the amendments made by this Act \[see Short Title of 1988 Amendment note below\] shall take effect on the 180th day beginning after the date of the enactment of this Act \[Sept. 13, 1988\]."
@@ -14,7 +16,7 @@ Pub. L. 104–76, §1, Dec. 28, 1995, 109 Stat. 787, provided that: "This Act \[
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–430, §1, Sept. 13, 1988, 102 Stat. 1619, provided that: "This Act \[enacting sections 3610 to 3614a ofthis title, amending sections 3602, 3604 to 3608, 3615 to 3619, and 3631 of this title and sections 2341 and 2342 of Title 28, Judiciary and Judicial Procedure, repealing former sections 3610 to 3613 of this title, and enacting provisions set out as notes under this section and section 3602 of this title\] may be cited as the 'Fair Housing Amendments Act of 1988'."
+Pub. L. 100–430, §1, Sept. 13, 1988, 102 Stat. 1619, provided that: "This Act \[enacting sections 3610 to 3614a of this title, amending sections 3602, 3604 to 3608, 3615 to 3619, and 3631 of this title and sections 2341 and 2342 of Title 28, Judiciary and Judicial Procedure, repealing former sections 3610 to 3613 of this title, and enacting provisions set out as notes under this section and section 3602 of this title\] may be cited as the 'Fair Housing Amendments Act of 1988'."
 
 #### Short Title
 
@@ -24,7 +26,7 @@ Section 800 of Pub. L. 90–284, title VIII, as added by Pub. L. 100–430, §4,
 
 #### Separability
 
-Pub. L. 100–430, §14, Sept. 13, 1988, 102 Stat. 1636, provided that: "If any provision of this Act \[see Short Title of 1988 Amendment note above\] or the application thereof to any person or circumstances is held invalid, the remainder of the Act and the application of the provision to other persons not similarly situated or to other circumstances shall not be affected thereby."
+Pub. L. 100–430, §14, Sept. 13, 1988, 102 Stat. 1636, provided that: "If any provision of this Act \[see Short Title of 1988 Amendment note above\] or the applicationthereof to any person or circumstances is held invalid, the remainder of the Act and the application of the provision to other persons not similarly situated or to other circumstances shall not be affected thereby."
 
 #### Disclaimer of Preemptive Effect on Other Acts
 

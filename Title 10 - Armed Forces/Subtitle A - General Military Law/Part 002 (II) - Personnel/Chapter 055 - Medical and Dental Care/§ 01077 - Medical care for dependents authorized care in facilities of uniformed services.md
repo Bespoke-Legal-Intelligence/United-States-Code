@@ -106,7 +106,7 @@
 
 &emsp;&emsp;(i) furnished pursuant to the prescription, order, or recommendation (as applicable) of a physician or other health care professional qualified to make such prescription, order, or recommendation, for the dietary management of a covered disease or condition;
 
-&emsp;&emsp;(ii) a specially formulated and processed product (as opposed to a naturally occurring foodstuff used in its natural state) for the partial or exclusive feeding of an individual by means of oral intake or enteral feeding by tube;
+&emsp;&emsp;(ii) a specially formulated and processed product (as opposed to a naturally occurringfoodstuff used in its natural state) for the partial or exclusive feeding of an individual by means of oral intake or enteral feeding by tube;
 
 &emsp;&emsp;(iii) intended for the dietary management of an individual who, because of therapeutic or chronic medical needs, has limited or impaired capacity to ingest, digest, absorb, or metabolize ordinary foodstuffs or certain nutrients, or who has other special medically determined nutrient requirements, the dietary management of which cannot be achieved by the modification of the normal diet alone;
 
@@ -165,6 +165,8 @@ June 7, 1956, ch. 374, §103(f), (g), (h), 70 Stat. 251, 252.
 37:403(h) (clause (4)).
 
 In subsection (a), clause (6) is inserted to reflect subsection (b).
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -252,6 +254,8 @@ Subsec. (b)(3). Pub. L. 98–525, §1401(e)(3), added par. (3).
 
 <b>1966</b>—Pub. L. 89–614 authorized an improved health benefits program for dependents of active duty members of the uniformed services in facilities of such services, expanding health care to be provided to include: hospitalization, outpatient care, and drugs in clauses (1) to (3) of subsec. (a) (hospitalization being limited by former subsec. (b) to treatment of nervous or mental disturbances or chronic diseases or for elective medical and surgical treatment to one year period in special cases); treatment of mental and surgical conditions in clause (4) minus acute condition restriction of former subsec. (a)(2); treatment of nervous, mental, and chronic conditions in clause (5) formerly restricted as stated above; clause (6) reenactment of former subsec. (a)(3); physical, including eye, examinations in clause (7) reenacting former subsec. (a)(4) immunization provisions; clause (8) reenactment of former subsec. (a)(5); diagnostic tests and services, including laboratory and X-ray examinations (diagnosis being covered in former subsec. (a)(1)); dental care provisions in clauses (10) to (12) (provided in former subsec. (d)) as (1) emergency care to relieve pain and suffering, but not including permanent restorative work or dental prosthesis, (2) care as a necessary adjunct to medical or surgical treatment, and care outside the United States, and in remote areas inside the United States, where adequate civilian facilities are unavailable; ambulance service and home calls in clause 13 (covering former subsec. (c)(2), (3)); durable equipment on loan basis in clause (14); and to exclude in subsec. (b)(1) (incorporating last sentence of former subsec. (b)) custodial care; subsec. (b)(2)(A) reenactment of former subsec. (e)(1); and permitted in subsec. (b)(2)(B) artificial limbs and eyes to be provided.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2016 Amendment
 
 Pub. L. 114–328, div. A, title VII, §714(b), Dec. 23, 2016, 130 Stat. 2221, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply to health care provided under chapter 55 of such title \[meaning title 10, United States Code\] on or after the date that is one year after the date of the enactment of this Act \[Dec. 23, 2016\]."
@@ -320,7 +324,7 @@ State defined.—In this subsection, the term 'State' means each of the several 
 
 Report.—Not later than January 1, 2021, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report detailing, with respect to the period beginning on the date of the enactment of this Act and ending on the date of the report, the following:
 
-&emsp;"(1) The number of children who were tested by the Department of Defense for the level of lead in the blood of the child, and of such number, the number who were found to have an elevated blood lead level.
+&emsp;"(1) The number of children who were tested by the Department of Defense for the level of lead in theblood of the child, and of such number, the number who were found to have an elevated blood lead level.
 
 &emsp;"(2) The number of children who were screened by the Department of Defense for an elevated risk of lead exposure.
 
@@ -350,7 +354,7 @@ Elements.—The review under paragraph (1) shall include an assessment of the fo
 
 &emsp;&emsp;"(A) The availability, quality, and effectiveness of Department of Defense programs intended to meet the mental health care needs of military children.
 
-&emsp;&emsp;"(B) The availability, quality, and effectiveness of Department of Defense programs intended to promote resiliency in military children in coping withdeployment cycles, injury, or death of military parents.
+&emsp;&emsp;"(B) The availability, quality, and effectiveness of Department of Defense programs intended to promote resiliency in military children in coping with deployment cycles, injury, or death of military parents.
 
 &emsp;&emsp;"(C) The extent of access to, adequacy, and availability of mental health care and counseling services for military children in military medical treatment facilities, in family assistance centers, through Military OneSource, under the TRICARE program, and in Department of Defense Education Activity schools.
 

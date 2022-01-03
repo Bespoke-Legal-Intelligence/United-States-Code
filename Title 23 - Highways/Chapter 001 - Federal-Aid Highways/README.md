@@ -6,7 +6,7 @@
 | [102\.](%C2%A7%2000102%20-%20Program%20efficiencies.md) | Program efficiencies. |
 | [103\.](%C2%A7%2000103%20-%20National%20Highway%20System.md) | National Highway System. |
 | [104\.](%C2%A7%2000104%20-%20Apportionment.md) | Apportionment. |
-| [105\.](%C2%A7%2000105%20-%20Additional%20deposits%20into%20Highway%20Trust%20Fund.md) | Additional deposits into Highway Trust Fund. |
+| \[105. | Repealed.\] |
 | [106\.](%C2%A7%2000106%20-%20Project%20approval%20and%20oversight.md) | Project approval and oversight. |
 | [107\.](%C2%A7%2000107%20-%20Acquisition%20of%20rights-of-way%E2%80%94Interstate%20System.md) | Acquisition of rights-of-way—Interstate System. |
 | [108\.](%C2%A7%2000108%20-%20Advance%20acquisition%20of%20real%20property.md) | Advance acquisition of real property. |
@@ -18,14 +18,14 @@
 | [114\.](%C2%A7%2000114%20-%20Construction.md) | Construction. |
 | [115\.](%C2%A7%2000115%20-%20Advance%20construction.md) | Advance construction. |
 | [116\.](%C2%A7%2000116%20-%20Maintenance.md) | Maintenance. |
-| [117\.](%C2%A7%2000117%20-%20Nationally%20significant%20freight%20and%20highway%20projects.md) | Nationally significant freight and highway projects. |
+| [117\.](%C2%A7%2000117%20-%20Nationally%20significant%20multimodal%20freight%20and%20highway%20projects.md) | Nationally significant multimodal freight and highway projects. |
 | [118\.](%C2%A7%2000118%20-%20Availability%20of%20funds.md) | Availability of funds. |
 | [119\.](%C2%A7%2000119%20-%20National%20highway%20performance%20program.md) | National highway performance program. |
 | [120\.](%C2%A7%2000120%20-%20Federal%20share%20payable.md) | Federal share payable. |
 | [121\.](%C2%A7%2000121%20-%20Payment%20to%20States%20for%20construction.md) | Payment to States for construction. |
 | [122\.](%C2%A7%2000122%20-%20Payments%20to%20States%20for%20bond%20and%20other%20debt%20instrument%20financing.md) | Payments to States for bond and other debt instrument financing. |
 | [123\.](%C2%A7%2000123%20-%20Relocation%20of%20utility%20facilities.md) | Relocation of utility facilities. |
-| \[124. | Repealed.\] |
+| [124\.](%C2%A7%2000124%20-%20Bridge%20investment%20program.md) | Bridge investment program. |
 | [125\.](%C2%A7%2000125%20-%20Emergency%20relief.md) | Emergency relief. |
 | [126\.](%C2%A7%2000126%20-%20Transferability%20of%20Federal-aid%20highway%20funds.md) | Transferability of Federal-aid highway funds. |
 | [127\.](%C2%A7%2000127%20-%20Vehicle%20weight%20limitations%E2%80%94Interstate%20System.md) | Vehicle weight limitations—Interstate System. |
@@ -40,7 +40,7 @@
 | [136\.](%C2%A7%2000136%20-%20Control%20of%20junkyards.md) | Control of junkyards. |
 | [137\.](%C2%A7%2000137%20-%20Fringe%20and%20corridor%20parking%20facilities.md) | Fringe and corridor parking facilities. |
 | [138\.](%C2%A7%2000138%20-%20Preservation%20of%20parklands.md) | Preservation of parklands. |
-| [139\.](%C2%A7%2000139%20-%20Efficient%20environmental%20reviews%20for%20project%20decisionmaking.md) | Efficient environmental reviews for project decisionmaking. |
+| [139\.](%C2%A7%2000139%20-%20Efficient%20environmental%20reviews%20for%20project%20decisionmaking%20and%20One%20Federal%20Decision.md) | Efficient environmental reviews for project decisionmaking and One Federal Decision. |
 | [140](%C2%A7%2000140%20-%20Nondiscrimination.md) | Nondiscrimination. |
 | [141\.](%C2%A7%2000141%20-%20Enforcement%20of%20requirements.md) | Enforcement of requirements. |
 | [142\.](%C2%A7%2000142%20-%20Public%20transportation.md) | Public transportation. |
@@ -58,7 +58,7 @@
 | [154\.](%C2%A7%2000154%20-%20Open%20container%20requirements.md) | Open container requirements. |
 | \[155. | Repealed.\] |
 | [156\.](%C2%A7%2000156%20-%20Proceeds%20from%20the%20sale%20or%20lease%20of%20real%20property.md) | Proceeds from the sale or lease of real property. |
-| \[157. | Repealed.\] |
+| [157\.](%C2%A7%2000157%20-%20National%20Environmental%20Policy%20Act%20of%201969%20reporting%20program.md) | National Environmental Policy Act of 1969 reporting program. |
 | [158\.](%C2%A7%2000158%20-%20National%20minimum%20drinking%20age.md) | National minimum drinking age. |
 | [159\.](%C2%A7%2000159%20-%20Revocation%20or%20suspension%20of%20drivers%27%20licenses%20of%20individuals%20convicted%20of%20drug%20offenses.md) | Revocation or suspension of drivers' licenses of individuals convicted of drug offenses. |
 | \[160. | Repealed.\] |
@@ -72,12 +72,20 @@
 | [168\.](%C2%A7%2000168%20-%20Integration%20of%20planning%20and%20environmental%20review.md) | Integration of planning and environmental review. |
 | [169\.](%C2%A7%2000169%20-%20Development%20of%20programmatic%20mitigation%20plans.md) | Development of programmatic mitigation plans. |
 | [170\.](%C2%A7%2000170%20-%20Funding%20flexibility%20for%20transportation%20emergencies.md) | Funding flexibility for transportation emergencies. |
+| [171\.](%C2%A7%2000171%20-%20Wildlife%20crossings%20pilot%20program.md) | Wildlife crossings pilot program. |
+| [172\.](%C2%A7%2000172%20-%20Wildlife-vehicle%20collision%20reduction%20and%20habitat%20connectivity%20improvement.md) | Wildlife-vehicle collision reduction and habitat connectivity improvement. |
+| [173\.](%C2%A7%2000173%20-%20Rural%20surface%20transportation%20grant%20program.md) | Rural surface transportation grant program. |
+| [174\.](%C2%A7%2000174%20-%20State%20human%20capital%20plans.md) | State human capital plans. |
+| [175\.](%C2%A7%2000175%20-%20Carbon%20reduction%20program.md) | Carbon reduction program. |
+| [176\.](%C2%A7%2000176%20-%20Promoting%20Resilient%20Operations%20for%20Transformative%2C%20Efficient%2C%20and%20Cost-saving%20Transportation%20%28PROTECT%29%20program.md) | Promoting Resilient Operations for Transformative, Efficient, and Cost-saving Transportation (PROTECT) program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Pub. L. 117–58, div. A, title I, §§11110(b), 11118(b), 11123(b)(2), 11123(c)(2), 11132(b), 11203(b), 11301(b), 11312(b), 11403(b), 11405(b), 11501(b), Nov. 15, 2021, 135 Stat. 475, 495, 502, 505, 514, 520, 530, 539, 558, 575, 578, added items 124, 157, and 171 to 176, substituted "Nationally significant multimodal freight and highway projects" for "Nationally significant freight and highway projects" in item 117 and "Efficient environmental reviews for project decisionmaking and One Federal Decision" for "Efficient environmental reviews for project decisionmaking" in item 139, and struck out item 105 "Additional deposits into Highway Trust Fund".
 
 <b>2015</b>—Pub. L. 114–94, div. A, title I, §§1105(b), 1109(c)(6)(A), 1116(b), 1403(b), 1413(b), Dec. 4, 2015, 129 Stat. 1337, 1344, 1356, 1409, 1418, substituted "Surface transportation block grant program" for "Surface transportation program" in item 133, "National highway freight program" for "National freight program" in item 167, and added items 105, 117, and 151.
 
@@ -101,13 +109,13 @@ Pub. L. 105–178, title I, §§1104(b), 1105(b), 1106(c)(2)(A), 1114(b)(1), 120
 
 <b>1995</b>—Pub. L. 104–59, title II, §205(d)(2), title III, §§311(c), 320(b), Nov. 28, 1995, 109 Stat. 577, 584, 590, substituted "Payments" for "Payment" and "and other debt instrument financing" for "retirement" in item 122, struck out item 154 "National maximum speed limit", and added item 161.
 
-<b>1991</b>—Pub. L. 102–240, title I, §§1007(a)(2), 1008(c), 1009(e)(2), 1014(b), 1016(f)(3), 1024(c)(1), 1025(b), 1031(a)(2), Dec. 18, 1991, 105 Stat. 1930, 1933, 1934, 1942, 1946, 1962, 1965, 1973, substituted "Program efficiencies" for "Authorizations" in item 102, substituted "maintenance program" for "System resurfacing" in item 119, added item 133, substituted "Metropolitan planning" for "Transportation planning in certain urban areas" in item 134, substituted "Statewide planning" for "Traffic operations improvement programs" in item 135, substituted "Congestion mitigation and air quality improvement program" for "Truck lanes" in item 149, and added items 153 and 160.
+<b>1991</b>—Pub. L. 102–240, title I, §§1007(a)(2), 1008(c), 1009(e)(2), 1014(b), 1016(f)(3), 1024(c)(1), 1025(b), 1031(a)(2), Dec. 18, 1991, 105 Stat. 1930, 1933, 1934, 1942, 1946, 1962, 1965, 1973, substituted "Program efficiencies" for "Authorizations" in item 102, substituted "maintenance program" for "System resurfacing" in item 119, added item 133, substituted "Metropolitan planning" for "Transportation planning in certain urban areas" initem 134, substituted "Statewide planning" for "Traffic operations improvement programs" in item 135, substituted "Congestion mitigation and air quality improvement program" for "Truck lanes" in item 149, and added items 153 and 160.
 
 Pub. L. 102–143, title III, §333(b), (c), Oct. 28, 1991, 105 Stat. 947, added item 159 and repealed Pub. L. 101–516, §333(b), which added former item 159. See 1990 Amendment note below.
 
 <b>1990</b>—Pub. L. 101–516, title III, §333(b), Nov. 5, 1990, 104 Stat. 2186, which added item 159, was repealed by Pub. L. 102–143, title III, §333(c), Oct. 28, 1991, 105 Stat. 947. Section 333(d) of Pub. L. 102–143 provided that the amendments made by section 333 of Pub. L. 101–516 shall be treated as having not been enacted into law.
 
-<b>1987</b>—Pub. L. 100–17, title I, §§113(d)(2), 114(e)(5), 125(b)(1), 126(b), 133(b)(1), Apr. 2, 1987, 101 Stat. 150, 153, 167, 171, substituted "Advance construction" for "Construction by States in advance of apportionment" in item 115, and "Availability of funds" for "Availability of sums apportioned" in item 118, struck out "and width" after "Vehicle weight" in item 127, substituted "Carpool and vanpool projects" for identical words in item 146, "National bridge inspection program" for"Pavement marking demonstration program" in item 151, and "Income from airspace rights-of-way" for "Highways crossing Federal projects" in item 156.
+<b>1987</b>—Pub. L. 100–17, title I, §§113(d)(2), 114(e)(5), 125(b)(1), 126(b), 133(b)(1), Apr. 2, 1987, 101 Stat. 150, 153, 167, 171, substituted "Advance construction" for "Construction by States in advance of apportionment" in item 115, and "Availability of funds" for "Availability of sums apportioned" in item 118, struck out "and width" after "Vehicle weight" in item 127, substituted "Carpool and vanpool projects" for identical words in item 146, "National bridge inspection program" for "Pavement marking demonstration program" in item 151, and "Income from airspace rights-of-way" for "Highways crossing Federal projects" in item 156.
 
 <b>1984</b>—Pub. L. 98–363, §6(b), July 17, 1984, 98 Stat. 437, added item 158.
 
@@ -148,7 +156,7 @@ Pub. L. 89–139, §4(b), Aug. 28, 1965, 79 Stat. 579, added item 135.
 - [&sect; 00102 - Program efficiencies](%C2%A7%2000102%20-%20Program%20efficiencies.md)
 - [&sect; 00103 - National Highway System](%C2%A7%2000103%20-%20National%20Highway%20System.md)
 - [&sect; 00104 - Apportionment](%C2%A7%2000104%20-%20Apportionment.md)
-- [&sect; 00105 - Additional deposits into Highway Trust Fund](%C2%A7%2000105%20-%20Additional%20deposits%20into%20Highway%20Trust%20Fund.md)
+- [&sect; 00105 - Repealed. Pub. L. 117&#8211;58, div. A, title I, &sect;11501(a), Nov. 15, 2021, 135 Stat. 578](%C2%A7%2000105%20-%20Repealed.%20Pub.%20L.%20117%E2%80%9358%2C%20div.%20A%2C%20title%20I%2C%20%C2%A711501%28a%29%2C%20Nov.%2015%2C%202021%2C%20135%20Stat.%20578.md)
 - [&sect; 00106 - Project approval and oversight](%C2%A7%2000106%20-%20Project%20approval%20and%20oversight.md)
 - [&sect; 00107 - Acquisition of rights-of-way&#8212;Interstate System](%C2%A7%2000107%20-%20Acquisition%20of%20rights-of-way%E2%80%94Interstate%20System.md)
 - [&sect; 00108 - Advance acquisition of real property](%C2%A7%2000108%20-%20Advance%20acquisition%20of%20real%20property.md)
@@ -160,14 +168,14 @@ Pub. L. 89–139, §4(b), Aug. 28, 1965, 79 Stat. 579, added item 135.
 - [&sect; 00114 - Construction](%C2%A7%2000114%20-%20Construction.md)
 - [&sect; 00115 - Advance construction](%C2%A7%2000115%20-%20Advance%20construction.md)
 - [&sect; 00116 - Maintenance](%C2%A7%2000116%20-%20Maintenance.md)
-- [&sect; 00117 - Nationally significant freight and highway projects](%C2%A7%2000117%20-%20Nationally%20significant%20freight%20and%20highway%20projects.md)
+- [&sect; 00117 - Nationally significant multimodal freight and highway projects](%C2%A7%2000117%20-%20Nationally%20significant%20multimodal%20freight%20and%20highway%20projects.md)
 - [&sect; 00118 - Availability of funds](%C2%A7%2000118%20-%20Availability%20of%20funds.md)
 - [&sect; 00119 - National highway performance program](%C2%A7%2000119%20-%20National%20highway%20performance%20program.md)
 - [&sect; 00120 - Federal share payable](%C2%A7%2000120%20-%20Federal%20share%20payable.md)
 - [&sect; 00121 - Payment to States for construction](%C2%A7%2000121%20-%20Payment%20to%20States%20for%20construction.md)
 - [&sect; 00122 - Payments to States for bond and other debt instrument financing](%C2%A7%2000122%20-%20Payments%20to%20States%20for%20bond%20and%20other%20debt%20instrument%20financing.md)
 - [&sect; 00123 - Relocation of utility facilities](%C2%A7%2000123%20-%20Relocation%20of%20utility%20facilities.md)
-- [&sect; 00124 - Repealed. Pub. L. 112&#8211;141, div. A, title I, &sect;1519(b)(1)(A), July 6, 2012, 126 Stat. 575](%C2%A7%2000124%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93141%2C%20div.%20A%2C%20title%20I%2C%20%C2%A71519%28b%29%281%29%28A%29%2C%20July%206%2C%202012%2C%20126%20Stat.%20575.md)
+- [&sect; 00124 - Bridge investment program](%C2%A7%2000124%20-%20Bridge%20investment%20program.md)
 - [&sect; 00125 - Emergency relief](%C2%A7%2000125%20-%20Emergency%20relief.md)
 - [&sect; 00126 - Transferability of Federal-aid highway funds](%C2%A7%2000126%20-%20Transferability%20of%20Federal-aid%20highway%20funds.md)
 - [&sect; 00127 - Vehicle weight limitations&#8212;Interstate System](%C2%A7%2000127%20-%20Vehicle%20weight%20limitations%E2%80%94Interstate%20System.md)
@@ -182,7 +190,7 @@ Pub. L. 89–139, §4(b), Aug. 28, 1965, 79 Stat. 579, added item 135.
 - [&sect; 00136 - Control of junkyards](%C2%A7%2000136%20-%20Control%20of%20junkyards.md)
 - [&sect; 00137 - Fringe and corridor parking facilities](%C2%A7%2000137%20-%20Fringe%20and%20corridor%20parking%20facilities.md)
 - [&sect; 00138 - Preservation of parklands](%C2%A7%2000138%20-%20Preservation%20of%20parklands.md)
-- [&sect; 00139 - Efficient environmental reviews for project decisionmaking](%C2%A7%2000139%20-%20Efficient%20environmental%20reviews%20for%20project%20decisionmaking.md)
+- [&sect; 00139 - Efficient environmental reviews for project decisionmaking and One Federal Decision](%C2%A7%2000139%20-%20Efficient%20environmental%20reviews%20for%20project%20decisionmaking%20and%20One%20Federal%20Decision.md)
 - [&sect; 00140 - Nondiscrimination](%C2%A7%2000140%20-%20Nondiscrimination.md)
 - [&sect; 00141 - Enforcement of requirements](%C2%A7%2000141%20-%20Enforcement%20of%20requirements.md)
 - [&sect; 00142 - Public transportation](%C2%A7%2000142%20-%20Public%20transportation.md)
@@ -200,7 +208,7 @@ Pub. L. 89–139, §4(b), Aug. 28, 1965, 79 Stat. 579, added item 135.
 - [&sect; 00154 - Open container requirements](%C2%A7%2000154%20-%20Open%20container%20requirements.md)
 - [&sect; 00155 - Repealed. Pub. L. 112&#8211;141, div. A, title I, &sect;1519(b)(1)(A), July 6, 2012, 126 Stat. 575](%C2%A7%2000155%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93141%2C%20div.%20A%2C%20title%20I%2C%20%C2%A71519%28b%29%281%29%28A%29%2C%20July%206%2C%202012%2C%20126%20Stat.%20575.md)
 - [&sect; 00156 - Proceeds from the sale or lease of real property](%C2%A7%2000156%20-%20Proceeds%20from%20the%20sale%20or%20lease%20of%20real%20property.md)
-- [&sect; 00157 - Repealed. Pub. L. 112&#8211;141, div. A, title I, &sect;1519(b)(1)(A), July 6, 2012, 126 Stat. 575](%C2%A7%2000157%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93141%2C%20div.%20A%2C%20title%20I%2C%20%C2%A71519%28b%29%281%29%28A%29%2C%20July%206%2C%202012%2C%20126%20Stat.%20575.md)
+- [&sect; 00157 - National Environmental Policy Act of 1969 reporting program](%C2%A7%2000157%20-%20National%20Environmental%20Policy%20Act%20of%201969%20reporting%20program.md)
 - [&sect; 00158 - National minimum drinking age](%C2%A7%2000158%20-%20National%20minimum%20drinking%20age.md)
 - [&sect; 00159 - Revocation or suspension of drivers' licenses of individuals convicted of drug offenses](%C2%A7%2000159%20-%20Revocation%20or%20suspension%20of%20drivers%27%20licenses%20of%20individuals%20convicted%20of%20drug%20offenses.md)
 - [&sect; 00160 - Repealed. Pub. L. 112&#8211;141, div. A, title I, &sect;1519(b)(1)(A), July 6, 2012, 126 Stat. 575](%C2%A7%2000160%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93141%2C%20div.%20A%2C%20title%20I%2C%20%C2%A71519%28b%29%281%29%28A%29%2C%20July%206%2C%202012%2C%20126%20Stat.%20575.md)
@@ -214,4 +222,10 @@ Pub. L. 89–139, §4(b), Aug. 28, 1965, 79 Stat. 579, added item 135.
 - [&sect; 00168 - Integration of planning and environmental review](%C2%A7%2000168%20-%20Integration%20of%20planning%20and%20environmental%20review.md)
 - [&sect; 00169 - Development of programmatic mitigation plans](%C2%A7%2000169%20-%20Development%20of%20programmatic%20mitigation%20plans.md)
 - [&sect; 00170 - Funding flexibility for transportation emergencies](%C2%A7%2000170%20-%20Funding%20flexibility%20for%20transportation%20emergencies.md)
+- [&sect; 00171 - Wildlife crossings pilot program](%C2%A7%2000171%20-%20Wildlife%20crossings%20pilot%20program.md)
+- [&sect; 00172 - Wildlife-vehicle collision reduction and habitat connectivity improvement](%C2%A7%2000172%20-%20Wildlife-vehicle%20collision%20reduction%20and%20habitat%20connectivity%20improvement.md)
+- [&sect; 00173 - Rural surface transportation grant program](%C2%A7%2000173%20-%20Rural%20surface%20transportation%20grant%20program.md)
+- [&sect; 00174 - State human capital plans](%C2%A7%2000174%20-%20State%20human%20capital%20plans.md)
+- [&sect; 00175 - Carbon reduction program](%C2%A7%2000175%20-%20Carbon%20reduction%20program.md)
+- [&sect; 00176 - Promoting Resilient Operations for Transformative, Efficient, and Cost-saving Transportation (PROTECT) program](%C2%A7%2000176%20-%20Promoting%20Resilient%20Operations%20for%20Transformative%2C%20Efficient%2C%20and%20Cost-saving%20Transportation%20%28PROTECT%29%20program.md)
 - [&sect; 00181 to 190 - Renumbered &sect;&sect;601 to 610](%C2%A7%2000181%20to%20190%20-%20Renumbered%20%C2%A7%C2%A7601%20to%20610.md)

@@ -15,13 +15,17 @@
 | [<b>110.</b>](Chapter%20110%20-%20Educational%20Assistance%20for%20Members%20Held%20as%20Captives%20and%20Their%20Dependents/README.md) | <b>Educational Assistance for Members Held as Captives and Their Dependents</b> | <b>2181</b> |
 | [<b>111.</b>](Chapter%20111%20-%20Support%20of%20Science%2C%20Mathematics%2C%20and%20Engineering%20Education/README.md) | <b>Support of Science, Mathematics, and Engineering Education</b> | <b>2191</b> |
 | [<b>112.</b>](Chapter%20112%20-%20Cyber%20Scholarship%20Program/README.md) | <b>Cyber Scholarship Program</b> | <b>2200</b> |
-| [<b>113.</b>](Chapter%20113%20-%20Defense%20Civilian%20Training%20Corps/README.md) | <b>Defense Civilian Training Corps</b> | <b>2200g.</b><b><sup>1</sup></b> |
+| [<b>113.</b>](Chapter%20113%20-%20Defense%20Civilian%20Training%20Corps/README.md) | <b>Defense Civilian Training Corps</b> | <b>2200g</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>2021</b>—Pub. L. 116–283, div. A, title X, §1081(c)(8), Jan. 1, 2021, 134 Stat. 3873, amended Pub. L. 116–92, §1731(a)(2). See 2019 Amendment note below.
+<b>2021</b>—Pub. L. 117–81, div. A, title X, §1081(a)(25), Dec. 27, 2021, 135 Stat. 1921, struck out period after "2200g" in item for chapter 113.
+
+Pub. L. 116–283, div. A, title X, §1081(c)(8), Jan. 1, 2021, 134 Stat. 3873, amended Pub. L. 116–92, §1731(a)(2). See 2019 Amendment note below.
 
 Pub. L. 116–283, div. A, title X, §1081(a)(2), Jan. 1, 2021, 134 Stat. 3870, which directed the amendment of the table of chapters "at the beginning of part IV" of this subtitle by adding item for chapter 113, was executed in the analysis for this part to reflect the probable intent of Congress.
 
@@ -56,8 +60,6 @@ Pub. L. 96–342, title IX, §901(b), Sept. 8, 1980, 94 Stat. 1114, added item f
 <b>1972</b>—Pub. L. 92–426, §2(b), Sept. 21, 1972, 86 Stat. 719, added items for chapters 104 and 105.
 
 <b>1964</b>—Pub. L. 88–647, title I, §101(2), title II, §201(2), Oct. 13, 1964, 78 Stat. 1064, 1069, added items for chapters 102 and 103.
-
-<i><sup>1</sup></i><i> So in original. The period probably should not appear.</i>
 
 
 ---

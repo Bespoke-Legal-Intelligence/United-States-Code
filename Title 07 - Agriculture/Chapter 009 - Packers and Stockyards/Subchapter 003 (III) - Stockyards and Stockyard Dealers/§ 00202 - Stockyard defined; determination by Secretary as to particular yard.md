@@ -6,11 +6,15 @@
 
 (Aug. 15, 1921, ch. 64, title III, §302, 42 Stat. 163; Pub. L. 85–909, §2(2), Sept. 2, 1958, 72 Stat. 1750; Pub. L. 90–446, §1(a), July 31, 1968, 82 Stat. 474.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1968</b>—Subsec. (a). Pub. L. 90–446 substituted "operated, or managed for profit or nonprofit as a public market for livestock producers, feeders, market agencies, and buyers" for "or operated for compensation or profit as a public market".
 
 <b>1958</b>—Subsec. (a). Pub. L. 85–909 struck out "Said sections shall not apply to a stockyard of which the area normally available for handling livestock, exclusive of runs, alleys, or passage ways, is less than twenty thousand square feet."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transportation of Livestock
 

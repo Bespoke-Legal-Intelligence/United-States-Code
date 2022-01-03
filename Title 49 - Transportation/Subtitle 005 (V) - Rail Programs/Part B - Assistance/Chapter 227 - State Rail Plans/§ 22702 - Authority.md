@@ -18,9 +18,13 @@ Requirements.—The Secretary shall establish the minimum requirements for the p
 
 (Added Pub. L. 110–432, div. B, title III, §303(a), Oct. 16, 2008, 122 Stat. 4948; amended Pub. L. 114–94, div. A, title XI, §11315(a)(1), Dec. 4, 2015, 129 Stat. 1674.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (b)(4). Pub. L. 114–94 substituted "4 years for acceptance by the Secretary" for "5 years for reapproval by the Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

@@ -56,7 +56,7 @@ The Financial Stability Oversight Board shall report to the appropriate committe
 
 #### (h) Termination
 
-The Financial Stability Oversight Board, and its authority under this section, shall terminate on the expiration of the 15-day period beginning upon the later of—
+The Financial Stability Oversight Board, and its authority under this section, shall terminateon the expiration of the 15-day period beginning upon the later of—
 
 &emsp;(1) the date that the last troubled asset acquired by the Secretary under section 5211 of this title has been sold or transferred out of the ownership or control of the Federal Government; or
 

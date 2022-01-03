@@ -18,6 +18,8 @@ Staff.—The Office shall have not less than five professional staff members.
 
 (Added Pub. L. 104–106, div. A, title V, §568(a)(1), Feb. 10, 1996, 110 Stat. 330; amended Pub. L. 111–383, div. A, title IX, §901(h), Jan. 7, 2011, 124 Stat. 4323; Pub. L. 112–239, div. A, title X, §1076(f)(21), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 114–328, div. A, title IX, §933(a)(1), (4)(A), Dec. 23, 2016, 130 Stat. 2364.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this subchapter were contained in Pub. L. 99–145, title VIII, Nov. 8, 1985, 99 Stat. 678, as amended, which was set out as a note under section 113 of this title, prior to repeal by Pub. L. 104–106, §568(e)(1).
@@ -32,11 +34,205 @@ Subsec. (a). Pub. L. 114–328, §933(a)(1), substituted "Office of Military Fam
 
 <b>2011</b>—Subsec. (a). Pub. L. 111–383 substituted "the Director" for "the Office" before "of the Secretary" and "The office shall be headed by the Director of Family Policy, who shall serve within the office of the Under Secretary of Defense for Personnel and Readiness." for "The Office shall be under the Assistant Secretary of Defense for Force Management and Personnel."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2011 Amendment
 
 Amendment by Pub. L. 111–383 effective Jan. 1, 2011, see section 901(p) of Pub. L. 111–383, set out as a note under section 131 of this title.
 
-#### Expansion of Period of Availability of Military OneSource Program for Retired and Discharged Members of the Armed Forces and Their Immediate Families
+#### Activities To Improve Family Violence Prevention and Response
+
+Pub. L. 117–81, div. A, title V, §549(c), (d), (g), Dec. 27, 2021, 135 Stat. 1715, 1719, 1721, provided that:
+
+"(c)
+
+Implementation of Comptroller General Recommendations.—
+
+&emsp;"(1)
+
+In general.—Consistent with the recommendations set forth in the report of the Comptroller General of the United States titled 'Domestic Abuse: Actions Needed to Enhance DOD's Prevention, Response, and Oversight' (GAO–21–289), the Secretary of Defense, in consultation with the Secretaries of the military departments, shall carry out the activities specified in subparagraphs (A) through (K).
+
+&emsp;&emsp;"(A)
+
+Domestic abuse data.—Not later than 180 days after the date of the enactment of this Act \[Dec. 27, 2021\], the Secretary of Defense, in consultation with the Secretaries of the military departments, shall carry out each of the following:
+
+&emsp;&emsp;&emsp;"(i) Issue guidance to the Secretaries of the military departments to clarify and standardize the process for collecting and reporting data on domestic abuse in the Armed Forces, including—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) data on the numbers and types of domestic abuse incidents involving members of the Armed Forces; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) data for inclusion in the reports required to be submitted under section 574 of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 130 Stat. 2141).
+
+&emsp;&emsp;&emsp;"(ii) Develop a quality control process to ensure the accurate and complete reporting of data on allegations of abuse involving a member of the Armed Forces, including allegations of abuse that do not meet the Department of Defense definition of domestic abuse.
+
+&emsp;&emsp;&emsp;"(iii) Expand the scope of any reporting to Congress that includes data on domestic abuse in the Armed Forces to include data on and analysis of the types of allegations of domestic abuse.
+
+&emsp;&emsp;"(B)
+
+Domestic violence and command action data.—Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense, in consultation with the Secretaries of the military departments, shall—
+
+&emsp;&emsp;&emsp;"(i) evaluate the organizations and elements of the Department of Defense that are responsible for tracking domestic violence incidents and the command actions taken in response to such incidents to determine if there are actions that may be carried out to—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) eliminate gaps and redundancies in the activities of such organizations;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) ensure consistency in the approaches of such organizations to the tracking of such incidents and actions; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) otherwise improve the tracking of such incidents and actions across the Department;
+
+&emsp;&emsp;&emsp;"(ii) based on the evaluation under clause (i), clarify or adjust—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the duties of such organizations and elements; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the manner in which such organizations and elements coordinate their activities; and
+
+&emsp;&emsp;&emsp;"(iii) issue guidance to the Secretaries of the military departments to clarify and standardize the information required to be collected and reported to the database on domestic violence incidents under section 1562 of title 10, United States Code.
+
+&emsp;&emsp;"(C)
+
+Regulations for violation of civilian orders of protection.—The Secretary of Defense shall revise or issue regulations (as applicable) to ensure that each Secretary of a military department provides, to any member of the Armed Forces under the jurisdiction of such Secretary who is subject to a civilian order of protection, notice that the violation of such order may be punishable under chapter 47 of title 10, United States Code (the Uniform Code of Military Justice).
+
+&emsp;&emsp;"(D)
+
+Agreements with civilian victim service organizations.—
+
+&emsp;&emsp;&emsp;"(i)
+
+Guidance required.—The Secretary of Defense, in consultation with the Secretaries of the military departments, shall issue guidance pursuant to which personnel of a Family Advocacy Program at a military installation may enter into memoranda of understanding with qualified civilian victim service organizations for purposes of providing services to victims of domestic abuse in accordance with clause (ii).
+
+&emsp;&emsp;&emsp;"(ii)
+
+Contents of agreement.—A memorandum of understanding entered into under clause (i) shall provide that personnel of a Family Advocacy Program at a military installation may refer a victim of domestic abuse to a qualified civilian victim service organization if such personnel determine that—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the services offered at the installation are insufficient to meet the victim's needs; or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) such a referral would otherwise benefit the victim.
+
+&emsp;&emsp;"(E)
+
+Screening and reporting of initial allegations.—The Secretary of Defense, in consultation with the Secretaries of the military departments, shall develop and implement a standardized process—
+
+&emsp;&emsp;&emsp;"(i) to ensure consistency in the manner in which allegations of domestic abuse are screened and documented at military installations, including by ensuring that allegations of domestic abuse are documented regardless of the severity of the incident; and
+
+&emsp;&emsp;&emsp;"(ii) to ensure consistency in the form and manner in which such allegations are presented to Incident Determination Committees.
+
+&emsp;&emsp;"(F)
+
+Implementation and oversight of incident determination committees.—
+
+&emsp;&emsp;&emsp;"(i)
+
+Implementation.—The Secretary of Defense, in consultation with the Secretaries of the military departments, shall ensure that Incident Determination Committees are fully implemented within each Armed Force.
+
+&emsp;&emsp;&emsp;"(ii)
+
+Oversight and monitoring.—The Secretary of Defense shall—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) direct the Under Secretary of Defense for Personnel and Readiness to conduct oversight of the activities of the Incident Determination Committees of the Armed Forces on an ongoing basis; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) establish a formal process through which the Under Secretary will monitor Incident Determination Committees to ensure that the activities of such Committees are conducted in an \[sic\] consistent manner in accordance with the applicable policies of the Department of Defense and the Armed Forces.
+
+&emsp;&emsp;"(G)
+
+Reasonable suspicion standard for incident reporting.—Not later than 90 days after the date of the enactment of the Act, the Secretary of Defense, in consultation with the Secretaries of the military departments, shall issue regulations—
+
+&emsp;&emsp;&emsp;"(i) under which the personnel of a Family Advocacy Program shall be required to report an allegation of domestic abuse to an Incident Determination Committee if there is reasonable suspicion that the abuse occurred; and
+
+&emsp;&emsp;&emsp;"(ii) that fully define and establish standardized criteria for determining whether an allegation of abuse meets the reasonable suspicion standard referred to in clause (i).
+
+&emsp;&emsp;"(H)
+
+Guidance for victim risk assessment.—The Secretary of Defense, in consultation with the Secretaries of the military departments, shall issue guidance that—
+
+&emsp;&emsp;&emsp;"(i) identifies the risk assessment tools that must be used by Family Advocacy Program personnel to assess reports of domestic abuse; and
+
+&emsp;&emsp;&emsp;"(ii) establishes minimum qualifications for the personnel responsible for using such tools.
+
+&emsp;&emsp;"(I)
+
+Improving family advocacy program awareness campaigns.—The Secretary of Defense, in consultation with the Secretaries of the military departments, shall develop and implement—
+
+&emsp;&emsp;&emsp;"(i) a communications strategy to support the Armed Forces in increasing awareness of the options and resources available for reporting incidents of domestic abuse; and
+
+&emsp;&emsp;&emsp;"(ii) metrics to evaluate the effectiveness of domestic abuse awareness campaigns within the Department of Defense and the Armed Forces, including by identifying a target audience and defining measurable objectives for such campaigns.
+
+&emsp;&emsp;"(J)
+
+Assessment of the disposition model for domestic violence.—As part of the independent analysis required by section 549C of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283) \[134 Stat. 3625\] the Secretary of Defense shall include an assessment of—
+
+&emsp;&emsp;&emsp;"(i) the risks and consequences of the disposition model for domestic violence in effect as of the date of the enactment of this Act, including the risks and consequences of such model with respect to—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the eligibility of victims for transitional compensation and other benefits; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the eligibility of perpetrators of domestic violence to possess firearms and any related effects on the military service of such individuals; and
+
+&emsp;&emsp;&emsp;"(ii) the feasibility and advisability of establishing alternative disposition models for domestic violence, including an assessment of the advantages and disadvantages of each proposed model.
+
+&emsp;&emsp;"(K)
+
+Family advocacy program training.—
+
+&emsp;&emsp;&emsp;"(i)
+
+Training for commanders and senior enlisted advisors.—The Secretary of Defense, in consultation with the Secretaries of the military departments, shall—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) ensure that the Family Advocacy Program training provided to installation-level commanders and senior enlisted advisors of the Armed Forces meets the applicable requirements of the Department of Defense; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) shall provide such additional guidance and sample training materials as may be necessary to improve the consistency of such training.
+
+&emsp;&emsp;&emsp;"(ii)
+
+Training for chaplains.—The Secretary of Defense shall—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) require that chaplains of the Armed Forces receive Family Advocacy Program training;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) establish content requirements and learning objectives for such training; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) provide such additional guidance and sample training materials as may be necessary to effectively implement such training.
+
+&emsp;&emsp;&emsp;"(iii)
+
+Training completion data.—The Secretary of Defense, in consultation with the Secretaries of the military departments, shall develop a process to ensure the quality and completeness of data indicating whether members of the Armed Forces who are required to complete Family Advocacy Program training, including installation-level commanders and senior enlisted advisors, have completed such training.
+
+&emsp;"(2)
+
+General implementation date.—Except as otherwise provided in paragraph (1), the Secretary of Defense shall complete the implementation of the activities specified in such paragraph by not later than one year after the date of the enactment of this Act.
+
+&emsp;"(3)
+
+Quarterly status briefing.—Not later than 90 days after the date of the enactment of this Act and on a quarterly basis thereafter until the date on which all of the activities specified in paragraph (1) have been implemented, the Secretary of Defense shall provide to the appropriate congressional committees a briefing on the status of the implementation of such activities.
+
+"(d)
+
+Information on Services for Military Families.—Each Secretary of a military department shall ensure that a military family member who reports an incident of domestic abuse or child abuse and neglect to a Family Advocacy Program under the jurisdiction of such Secretary receives comprehensive information, in a clear and easily understandable format, on the services available to such family member in connection with such incident. Such information shall include a complete guide to the following:
+
+&emsp;"(1) The Family Advocacy Program of the Armed Force or military department concerned.
+
+&emsp;"(2) Military law enforcement services, including an explanation of the process that follows a report of an incident of domestic abuse or child abuse or neglect.
+
+&emsp;"(3) Other applicable victim services.
+
+"(g)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'appropriate congressional committees' means the Committees on Armed Services of the Senate and the House of Representatives.
+
+&emsp;"(2) The term 'civilian order of protection' has the meaning given that term in section 1561a of title 10, United States Code.
+
+&emsp;"(3) The term 'disposition model for domestic violence' means the process to determine—
+
+&emsp;&emsp;"(A) the disposition of charges of an offense of domestic violence under section 928b of title 10, United States Code (article 128b of the Uniform Code of Military Justice); and
+
+&emsp;&emsp;"(B) consequences of such disposition for members of the Armed Forces determined to have committed such offense and the victims of such offense.
+
+&emsp;"(4) The term 'Incident Determination Committee' means a committee established at a military installation that is responsible for reviewing reported incidents of domestic abuse and determining whether such incidents constitute harm to the victims of such abuse according to the applicable criteria of the Department of Defense.
+
+&emsp;"(5) The term 'qualified civilian victim service organization' means an organization outside the Department of Defense that—
+
+&emsp;&emsp;"(A) is approved by the Secretary of Defense for the purpose of providing legal or other services to victims of domestic abuse; and
+
+&emsp;&emsp;"(B) is located in a community surrounding a military installation.
+
+&emsp;"(6) The term 'risk assessment tool' means a process or technology that may be used to evaluate a report of an incident of domestic abuse to determine the likelihood that the abuse will escalate or recur."
 
 #### Family Readiness: Definitions; Communication Strategy; Review; Report
 
@@ -58,7 +254,7 @@ Communication Strategy.—Not later than 180 days after the date of the enactmen
 
 "(c)
 
-Review.—Not later than 90 days after the date of the enactment of this Act, the Secretary of Defense shall conduct a review of current programs, policies, services, resources, and practices of the Department for military families as outlined in recommendation four of the report described in subsection (a).
+Review.—Not later than 90 days after the date of the enactment of this Act, the Secretary of Defenseshall conduct a review of current programs, policies, services, resources, and practices of the Department for military families as outlined in recommendation four of the report described in subsection (a).
 
 "(d)
 
@@ -178,6 +374,8 @@ Report.—Not later than three years after the date on which the pilot program c
 
 Termination of Pilot Program.—The pilot program shall terminate upon submission of the report required by subsection (b)(2)."
 
+#### Expansion of Period of Availability of Military OneSource Program for Retired and Discharged Members of the Armed Forces and Their Immediate Families
+
 Pub. L. 115–232, div. A, title V, §558, Aug. 13, 2018, 132 Stat. 1775, provided that:
 
 "(a)
@@ -232,7 +430,7 @@ Elements.—The policy required by this section shall provide for the following:
 
 #### Provision of Information on Naturalization Through Military Service
 
-Pub. L. 115–91, div. A, title V, §530, Dec. 12, 2017, 131 Stat. 1383, provided that: "The Secretary of Defenseshall ensure that members of the Army, Navy, Air Force, and Marine Corps who are aliens lawfully admitted to the United States for permanent residence are informed of the availability of naturalization through service in the Armed Forces under section 328 of the Immigration and Nationality Act (8 U.S.C. 1439) and the process by which to pursue naturalization. The Secretary shall ensure that resources are available to assist qualified members of the Armed Forces to navigate the application and naturalization process."
+Pub. L. 115–91, div. A, title V, §530, Dec. 12, 2017, 131 Stat. 1383, provided that: "The Secretary of Defense shall ensure that members of the Army, Navy, Air Force, and Marine Corps who are aliens lawfully admitted to the United States for permanent residence are informed of the availability of naturalization through service in the Armed Forces under section 328 of the Immigration and Nationality Act (8 U.S.C. 1439) and the process by which to pursue naturalization. The Secretary shall ensure that resources are available to assist qualified members of the Armed Forces to navigate the application and naturalization process."
 
 #### Support for Programs Providing Camp Experience for Children of Military Families
 
@@ -264,7 +462,7 @@ Contents.—Each application submitted under paragraph (1) shall include the fol
 
 "(c)
 
-Use of Support.—Support provided by the Secretary of Defense to an organization pursuant to subsection (a) shall be used by the organization to support attendance at a camp, or camp-like setting, of children of military families described in subsection (a)."
+Use of Support.—Support provided by the Secretary of Defense to an organization pursuant to subsection (a) shall be used by the organization to supportattendance at a camp, or camp-like setting, of children of military families described in subsection (a)."
 
 #### Establishment of Online Resources To Provide Information About Benefits and Services Available to Members of the Armed Forces and Their Families
 
@@ -436,6 +634,8 @@ Department of Defense Programs and Activities.—The Secretary of Defense shall�
 
 &emsp;"(3) seek the assistance and support of appropriate civilian organizations, associations, and other entities (A) in carrying out the annual celebration of the American military family, and (B) in sustaining other, longer-term efforts to support the American military family."
 
+#### <b>Executive Documents</b>
+
 #### Supporting New American Service Members, Veterans, and Their Families
 
 Memorandum of President of the United States, Dec. 22, 2016, 81 F.R. 95849, provided:
@@ -448,7 +648,7 @@ New American service members are undoubtedly a critical element of our national 
 
 Over the past decade, the Departments of Defense, Veterans Affairs, and Homeland Security have strengthened partnerships to provide services and opportunities to service members, veterans, and their families interacting with the U.S. immigration system. Indeed, since 2001, more than 110,000 service members have been naturalized and many were assisted in the process through partnerships such as the "Naturalization at Basic Training Initiative," which gives non-citizen enlistees the opportunity to naturalize during basic training. Despite these efforts, service members, veterans, and their families still face barriers to accessing immigration benefits and other assistance for which they may be eligible.
 
-In light of the sacrifices that all of these individuals make and have made for our country, it is critical that executive departments and agencies (agencies) enhancecollaboration and streamline processes to ensure that they receive the services and benefits they need and have earned. Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, and to address the issues facing new American service members, veterans, and their families, I hereby direct as follows:
+In light of the sacrifices that all of these individuals make and have made for our country, it is critical that executive departments and agencies (agencies) enhance collaboration and streamline processes to ensure that they receive the services and benefits they need and have earned. Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, and to address the issues facing new American service members, veterans, and their families, I hereby direct as follows:
 
 Section 1. <i>Interagency Working Group to Support New American Service Members, Veterans, and their Families</i>. There is established a Working Group to Support New American Service Members, Veterans, and their Families (Working Group) to coordinate records, benefits, and immigration and citizenship services for these service members, veterans, and their families. The Working Group shall convene its first meeting within 10 days of the date of this memorandum.
 
@@ -480,7 +680,7 @@ Sec. 2. <i>Mission and Functions of the Working Group</i>. (a) The Working Group
 
 (b) Within 30 days of the date of this memorandum, the Working Group shall develop an initial 3-year strategic action plan that details broad approaches to be taken to enhance access to services and benefits. This initial plan shall be supplemented by a more detailed plan, to be published within 120 days of the date of this memorandum that discusses the steps to be taken in greater detail. The Working Group shall also report periodically on its accomplishments and ongoing initiatives.
 
-Sec. 3. <i>Outreach</i>. Consistent with the objectives of this memorandum and applicable law, the Working Group shall seek the views of representatives of private and nonprofit organizations; veterans and military service organizations; State, tribal, and local government agencies; elected officials; and other interested persons to inform the Working Group's plans.
+Sec. 3. <i>Outreach</i>. Consistent with the objectives of this memorandum and applicable law, the Working Group shall seek the views of representatives of privateand nonprofit organizations; veterans and military service organizations; State, tribal, and local government agencies; elected officials; and other interested persons to inform the Working Group's plans.
 
 Sec. 4. <i>General Provisions</i>. (a) The heads of agencies shall assist and provide information to the Working Group, consistent with applicable law, as may be necessary to carry out the functions of the Working Group. Each agency and office shall bear its own expense for carrying out activities related to the Working Group.
 

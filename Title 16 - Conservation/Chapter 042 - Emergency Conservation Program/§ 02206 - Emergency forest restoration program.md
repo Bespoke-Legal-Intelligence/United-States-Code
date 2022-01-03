@@ -44,7 +44,9 @@ Payments made under subsection (b) shall not exceed 75 percent of the total cost
 
 There are authorized to be appropriated to the Secretary such funds as may be necessary to carry out this section. Amounts so appropriated shall remain available until expended.
 
-(Pub. L. 95–334, title IV, §407, as added Pub. L. 110–234, title VIII, §8203(a), May 22, 2008, 122 Stat. 1290, and Pub. L. 110–246, §4(a), title VIII, §8203(a), June 18, 2008, 122 Stat. 1664, 2051; amended Pub. L. 115–334, title II, §2403(a)(2)(B), Dec. 20, 2018, 132 Stat. 4571.)
+(Pub. L. 95–334, title IV, §407, as added Pub. L. 110–234, title VIII, §8203(a), May 22, 2008, 122 Stat.1290, and Pub. L. 110–246, §4(a), title VIII, §8203(a), June 18, 2008, 122 Stat. 1664, 2051; amended Pub. L. 115–334, title II, §2403(a)(2)(B), Dec. 20, 2018, 132 Stat. 4571.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -53,6 +55,8 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 #### Amendments
 
 <b>2018</b>—Subsec. (a)(4). Pub. L. 115–334 struck out par. (4). Text read as follows: "The term 'Secretary' means the Secretary of Agriculture."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

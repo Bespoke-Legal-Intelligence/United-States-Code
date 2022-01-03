@@ -12,43 +12,65 @@ Eligible Projects.—Funds apportioned to a State under section 104(b)(2) for th
 
 &emsp;&emsp;(A) highways, bridges, tunnels, including designated routes of the Appalachian development highway system and local access roads under section 14501 of title 40;
 
-&emsp;&emsp;(B) ferry boats and terminal facilities eligible for funding under section 129(c);
+&emsp;&emsp;(B) ferry boats and terminal facilities—
+
+&emsp;&emsp;&emsp;(i) that are eligible for funding under section 129(c); or
+
+&emsp;&emsp;&emsp;(ii) that are privately or majority-privately owned, but that the Secretary determines provide a substantial public transportation benefit or otherwise meet the foremost needs of the surface transportation system described in section 101(b)(3)(D);
 
 &emsp;&emsp;(C) transit capital projects eligible for assistance under chapter 53 of title 49;
 
 &emsp;&emsp;(D) infrastructure-based intelligent transportation systems capital improvements, including the installation of vehicle-to-infrastructure communication equipment;
 
-&emsp;&emsp;(E) truck parking facilities eligible for funding under section 1401 of MAP–21 (23 U.S.C. 137 note); and
+&emsp;&emsp;(E) truck parking facilities eligible for funding under section 1401 of MAP–21 (23 U.S.C. 137 note);
 
-&emsp;&emsp;(F) border infrastructure projects eligible for funding under section 1303 of SAFETEA–LU (23 U.S.C. 101 note).
+&emsp;&emsp;(F) border infrastructure projects eligible for funding under section 1303 of SAFETEA–LU (23 U.S.C. 101 note); and
+
+&emsp;&emsp;(G) wildlife crossing structures.
 
 &emsp;(2) Operational improvements and capital and operating costs for traffic monitoring, management, and control facilities and programs.
 
-&emsp;(3) Environmental measures eligible under sections 119(g), 328, and 329 and transportation control measures listed in section 108(f)(1)(A) (other than clause (xvi) of that section) of the Clean Air Act (42 U.S.C. 7408(f)(1)(A)).
+&emsp;(3) Environmental measures eligible under sections 119(g), 148(a)(4)(B)(xvii), 328, and 329 and transportation control measures listed in section 108(f)(1)(A) (other than clause (xvi) of that section) of the Clean Air Act (42 U.S.C. 7408(f)(1)(A)).
 
-&emsp;(4) Highway and transit safety infrastructure improvements and programs, including railway-highway grade crossings.
+&emsp;(5) <sup>1</sup> Highway and transit safety infrastructure improvements and programs, including projects eligible under section 130 and installation of safety barriers and nets on bridges.
 
-&emsp;(5) Fringe and corridor parking facilities and programs in accordance with section 137 and carpool projects in accordance with section 146.
+&emsp;(6) Fringe and corridor parking facilities and programs in accordance with section 137 and carpool projects in accordance with section 146.
 
-&emsp;(6) Recreational trails projects eligible for funding under section 206, pedestrian and bicycle projects in accordance with section 217 (including modifications to comply with accessibility requirements under the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.)), and the safe routes to school program under section 1404 of SAFETEA–LU (23 U.S.C. 402 note).
+&emsp;(7) Recreational trails projects eligible for funding under section 206 including the maintenance and restoration of existing recreational trails,,<sup>2</sup> pedestrian and bicycle projects in accordance with section 217 (including modifications to comply with accessibility requirements under the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.)), and the safe routes to school program under section 208.
 
-&emsp;(7) Planning, design, or construction of boulevards and other roadways largely in the right-of-way of former Interstate System routes or other divided highways.
+&emsp;(8) Planning, design, or construction of boulevards and other roadways largely in the right-of-way of former Interstate System routes or other divided highways.
 
-&emsp;(8) Development and implementation of a State asset management plan for the National Highway System and a performance-based management program for other public roads.
+&emsp;(9) Development and implementation of a State asset management plan for the National Highway System and a performance-based management program for other public roads.
 
-&emsp;(9) Protection (including painting, scour countermeasures, seismic retrofits, impact protection measures, security countermeasures, and protection against extreme events) for bridges (including approaches to bridges and other elevated structures) and tunnels on public roads, and inspection and evaluation of bridges and tunnels and other highway assets.
+&emsp;(10) Protection (including painting, scour countermeasures, seismic retrofits, impact protection measures, security countermeasures, and protection against extreme events) for bridges (including approaches to bridges and other elevated structures) and tunnels on public roads, and inspection and evaluation of bridges and tunnels and other highway assets.
 
-&emsp;(10) Surface transportation planning programs, highway and transit research and development and technology transfer programs, and workforce development, training, and education under chapter 5 of this title.
+&emsp;(11) Surface transportation planning programs, highway and transit research and development and technology transfer programs, and workforce development, training, and education under chapter 5 of this title.
 
-&emsp;(11) Surface transportation infrastructure modifications to facilitate direct intermodal interchange, transfer, and access into and out of a port terminal.
+&emsp;(12) Surface transportation infrastructure modifications to facilitate direct intermodalinterchange, transfer, and access into and out of a port terminal.
 
-&emsp;(12) Projects and strategies designed to support congestion pricing, including electronic toll collection and travel demand management strategies and programs.
+&emsp;(13) Projects and strategies designed to support congestion pricing, including electronic toll collection and travel demand management strategies and programs.
 
-&emsp;(13) At the request of a State, and upon Secretarial approval of credit assistance under chapter 6, subsidy and administrative costs necessary to provide an eligible entity Federal credit assistance under chapter 6 with respect to a project eligible for assistance under this section.
+&emsp;(14) Projects and strategies designed to reduce the number of wildlife-vehicle collisions, including project-related planning, design, construction, monitoring, and preventative maintenance.
 
-&emsp;(14) The creation and operation by a State of an office to assist in the design, implementation, and oversight of public-private partnerships eligible to receive funding under this title and chapter 53 of title 49, and the payment of a stipend to unsuccessful private bidders to offset their proposal development costs, if necessary to encourage robust competition in public-private partnership procurements.
+&emsp;(15) The installation of electric vehicle charging infrastructure and vehicle-to-grid infrastructure.
 
-&emsp;(15) Any type of project eligible under this section as in effect on the day before the date of enactment of the FAST Act, including projects described under section 101(a)(29) as in effect on such day.
+&emsp;(16) The installation and deployment of current and emerging intelligent transportation technologies, including the ability of vehicles to communicate with infrastructure, buildings, and other road users.
+
+&emsp;(17) Planning and construction of projects that facilitate intermodal connections between emerging transportation technologies, such as magnetic levitation and hyperloop.
+
+&emsp;(18) Protective features, including natural infrastructure, to enhance the resilience of a transportation facility otherwise eligible for assistance under this section.
+
+&emsp;(19) Measures to protect a transportation facility otherwise eligible for assistance under this section from cybersecurity threats.
+
+&emsp;(20) At the request of a State, and upon Secretarial approval of credit assistance under chapter 6, subsidy and administrative costs necessary to provide an eligible entity Federal credit assistance under chapter 6 with respect to a project eligible for assistance under this section.
+
+&emsp;(21) The creation and operation by a State of an office to assist in the design, implementation, and oversight, including conducting value for money analyses or similar comparative analyses, of public-private partnerships eligible to receive funding under this title and chapter 53 of title 49, and the payment of a stipend to unsuccessful private bidders to offset their proposal development costs, if necessary to encourage robust competition in public-private partnership procurements.
+
+&emsp;(22) Any type of project eligible under this section as in effect on the day before the date of enactment of the FAST Act, including projects described under section 101(a)(29) as in effect on such day.
+
+&emsp;(23) Rural barge landing, dock, and waterfront infrastructure projects in accordance with subsection (j).
+
+&emsp;(24) Projects to enhance travel and tourism.
 
 (c)
 
@@ -56,11 +78,13 @@ Location of Projects.—A surface transportation block grant project may not be 
 
 &emsp;(1) for a bridge or tunnel project (other than the construction of a new bridge or tunnel at a new location);
 
-&emsp;(2) for a project described in paragraphs (4) through (11) of subsection (b);
+&emsp;(2) for a project described in paragraphs (5) through (15) and paragraph (23) of subsection (b);
 
-&emsp;(3) for a project described in section 101(a)(29), as in effect on the day before the date of enactment of the FAST Act; and
+&emsp;(3) for a project described in section 101(a)(29), as in effect on the day before the date of enactment of the FAST Act;
 
-&emsp;(4) as approved by the Secretary.
+&emsp;(4) for a bridge project for the replacement of a low water crossing (as defined by the Secretary) with a bridge; and
+
+&emsp;(5) as approved by the Secretary.
 
 (d)
 
@@ -68,15 +92,17 @@ Allocations of Apportioned Funds to Areas Based on Population.—
 
 &emsp;(1)
 
-Calculation.—Of the funds apportioned to a State under section 104(b)(2) (after the reservation of funds under subsection (h))—
+Calculation.—Of the funds apportioned to a State under section 104(b)(2) (after the set aside of funds under subsection (h))—
 
-&emsp;&emsp;(A) the percentage specified in paragraph (6) for a fiscal year shall be obligated under this section, in proportion to their relative shares of the population of the State—
+&emsp;&emsp;(A) 55 percent for each of fiscal years 2022 through 2026 shall be obligated under this section, in proportion to their relative shares of the population of the State—
 
 &emsp;&emsp;&emsp;(i) in urbanized areas of the State with an urbanized area population of over 200,000;
 
-&emsp;&emsp;&emsp;(ii) in areas of the State other than urban areas with a population greater than 5,000; and
+&emsp;&emsp;&emsp;(ii) in urbanized areas of the State with an urbanized area population of not less than 50,000 and not more than 200,000;
 
-&emsp;&emsp;&emsp;(iii) in other areas of the State; and
+&emsp;&emsp;&emsp;(iii) in urban areas of the State with a population not less than 5,000 and not more than 49,999; and
+
+&emsp;&emsp;&emsp;(iv) in other areas of the State with a population less than 5,000; and
 
 &emsp;&emsp;(B) the remainder may be obligated in any area of the State.
 
@@ -86,7 +112,19 @@ Metropolitan areas.—Funds attributed to an urbanized area under paragraph (1)(
 
 &emsp;(3)
 
-Consultation with regional transportation planning organizations.—For purposes of paragraph (1)(A)(iii), before obligating funding attributed to an area with a population greater than 5,000 and less than 200,000, a State shall consult with the regional transportation planning organizations that represent the area, if any.
+Local consultation.—
+
+&emsp;&emsp;(A)
+
+Consultation with metropolitan planning organizations.—For purposes of clause (ii) of paragraph (1)(A), a State shall—
+
+&emsp;&emsp;&emsp;(i) establish a process to consult with all metropolitan planning organizations in the State that represent an urbanized area described in that clause; and
+
+&emsp;&emsp;&emsp;(ii) describe how funds allocated for areas described in that clause will be allocated equitably among the applicable urbanized areas during the period of fiscal years 2022 through 2026.
+
+&emsp;&emsp;(B)
+
+Consultation with regional transportation planning organizations.—For purposes of clauses (iii) and (iv) of paragraph (1)(A), before obligating funding attributed to an area with a population less than 50,000, a State shall consult with the regional transportation planning organizations that represent the area, if any.
 
 &emsp;(4)
 
@@ -104,27 +142,13 @@ Other factors.—The State may obligate the funds described in subparagraph (A) 
 
 Applicability of planning requirements.—Programming and expenditure of funds for projects under this section shall be consistent with sections 134 and 135.
 
-&emsp;(6)
-
-Percentage.—The percentage referred to in paragraph (1)(A) is—
-
-&emsp;&emsp;(A) for fiscal year 2016, 51 percent;
-
-&emsp;&emsp;(B) for fiscal year 2017, 52 percent;
-
-&emsp;&emsp;(C) for fiscal year 2018, 53 percent;
-
-&emsp;&emsp;(D) for fiscal year 2019, 54 percent; and
-
-&emsp;&emsp;(E) for fiscal year 2020, 55 percent.
-
 (e)
 
 Obligation Authority.—
 
 &emsp;(1)
 
-In general.—A State that is required to obligate in an urbanized area with an urbanized area population of over 200,000 individuals under subsection (d) funds apportioned to the State under section 104(b)(2) shall make available during the period of fiscal years 2016 through 2020 an amount of obligation authority distributed to the State for Federal-aid highways and highway safety construction programs for use in the area that is equal to the amount obtained by multiplying—
+In general.—A State that is required to obligate in an urbanized area with an urbanized area population of over 200,000 individuals under subsection (d) funds apportioned to the State under section 104(b)(2) shall make available during the period of fiscal years 2022 through 2026 an amount of obligation authority distributed to the State for Federal-aid highways and highway safety construction programs for use in the area that is equal to the amount obtained by multiplying—
 
 &emsp;&emsp;(A) the aggregate amount of funds that the State is required to obligate in the area under subsection (d) during the period; and
 
@@ -144,7 +168,7 @@ Bridges Not on Federal-aid Highways.—
 
 &emsp;(1)
 
-Definition of off-system bridge.—In this subsection, the term "off-system bridge" means a highway bridge located on a public road, other than a bridge on a Federal-aid highway.
+Definition of off-system bridge.—In this subsection, the term "off-system bridge" means a highway bridge or low water crossing (as defined by the Secretary) located on a public road, other than a bridge or low water crossing (as defined by the Secretary) on a Federal-aid highway.
 
 &emsp;(2)
 
@@ -152,7 +176,7 @@ Special rule.—
 
 &emsp;&emsp;(A)
 
-Set-aside.—Of the amounts apportioned to a State for fiscal year 2013 and each fiscal year thereafter under this section, the State shall obligate for activities described in subsection (b)(2) for off-system bridges an amount that is not less than 15 percent of the amount of funds apportioned to the State for the highway bridge program for fiscal year 2009, except that amounts allocated under subsection (d) shall not be obligated to carry out this subsection.
+Set-aside.—Of the amounts apportioned to a State for fiscal year 2013 and each fiscal year thereafter under this section, the State shall obligate for activities described in paragraphs (1)(A) and (10) of subsection (b) for off-system bridges, projects and activities described in subsection (b)(1)(A) for the replacement of low water crossings with bridges, and projects and activities described in subsection (b)(10) for low water crossings (as defined by the Secretary), an amount that is not less than 20 percent of the amount of funds apportioned to the State for the highway bridge program for fiscal year 2009, except that amounts allocated under subsection (d) shall not be obligated to carry out this subsection.
 
 &emsp;&emsp;(B)
 
@@ -160,7 +184,7 @@ Reduction of expenditures.—The Secretary, after consultation with State and lo
 
 &emsp;(3)
 
-Credit for bridges not on federal-aid highways.—Notwithstanding any other provision of law, with respect to any project not on a Federal-aid highway for the replacement of a bridge or rehabilitation of a bridge that is wholly funded from State and local sources, is eligible for Federal funds under this section, is noncontroversial, is certified by the State to have been carried out in accordance with all standards applicable to such projects under this section, and is determined by the Secretary upon completion to be no longer a deficient bridge—
+Credit for bridges not on federal-aid highways.—Notwithstanding any other provision of law, with respect to any project not on a Federal-aid highway for the replacement of a bridge, rehabilitation of a bridge, or replacement of a low water crossing (as defined by the Secretary) with a bridge that is wholly funded from State and local sources, is eligible for Federal funds under this section, is noncontroversial, is certified by the State to have been carried out in accordance with all standards applicable to such projects under this section, and is determined by the Secretary upon completion to be no longer a deficient bridge or, in the case of a replacement of a low water crossing with a bridge, is determined by the Secretary on completion to have improved the safety of the location—
 
 &emsp;&emsp;(A) any amount expended after the date of enactment of this subsection from State and local sources for the project in excess of 20 percent of the cost of construction of the project may be credited to the non-Federal share of the cost of other bridge projects in the State that are eligible for Federal funds under this section; and
 
@@ -168,13 +192,17 @@ Credit for bridges not on federal-aid highways.—Notwithstanding any other prov
 
 (g)
 
-Special Rule for Areas of Less Than 5,000
+Special Rule for Areas of Less Than 50,000
 
 Population.—
 
 &emsp;(1)
 
-Special rule.—Notwithstanding subsection (c), and except as provided in paragraph (2), up to 15 percent of the amounts required to be obligated by a State under subsection (d)(1)(A)(ii) for each of fiscal years 2016 through 2020 may be obligated on roads functionally classified as minor collectors.
+In general.—Notwithstanding subsection (c), and except as provided in paragraph (2), up to 15 percent of the amounts required to be obligated by a State under clauses (iii) and (iv) of subsection (d)(1)(A) for each fiscal year may be obligated on—
+
+&emsp;&emsp;(A) roads functionally classified as rural minor collectors or local roads; or
+
+&emsp;&emsp;(B) on critical rural freight corridors designated under section 167(e).
 
 &emsp;(2)
 
@@ -186,13 +214,9 @@ STP Set-Aside.—
 
 &emsp;(1)
 
-Reservation of funds.—Of the funds apportioned to a State under section 104(b)(2) for each fiscal year, the Secretary shall reserve an amount such that—
+In general.—Of the funds apportioned to a State under section 104(b)(2) for fiscal year 2022 and each fiscal year thereafter—
 
-&emsp;&emsp;(A) the Secretary reserves a total under this subsection of—
-
-&emsp;&emsp;&emsp;(i) $835,000,000 for each of fiscal years 2016 and 2017; and
-
-&emsp;&emsp;&emsp;(ii) $850,000,000 for each of fiscal years 2018 through 2020; and
+&emsp;&emsp;(A) the Secretary shall set aside an amount equal to 10 percent to carry out this subsection; and
 
 &emsp;&emsp;(B) the State's share of that total is determined by multiplying the amount under subparagraph (A) by the ratio that—
 
@@ -202,29 +226,49 @@ Reservation of funds.—Of the funds apportioned to a State under section 104(b)
 
 &emsp;(2)
 
-Allocation within a state.—Funds reserved for a State under paragraph (1) shall be obligated within that State in the manner described in subsection (d), except that, for purposes of this paragraph (after funds are made available under paragraph (5))—
+Allocation within a state.—
 
-&emsp;&emsp;(A) for each fiscal year, the percentage referred to in paragraph (1)(A) of that subsection shall be deemed to be 50 percent; and
+&emsp;&emsp;(A)
 
-&emsp;&emsp;(B) the following provisions shall not apply:
+In general.—Except as provided in subparagraph (B), funds set aside for a State under paragraph (1) shall be obligated within that State in the manner described in subsection (d), except that, for purposes of this paragraph (after funds are made available under paragraph (5))—
 
-&emsp;&emsp;&emsp;(i) Paragraph (3) of subsection (d).
+&emsp;&emsp;&emsp;(i) for fiscal year 2022 and each fiscal year thereafter, the percentage referred to in paragraph (1)(A) of that subsection shall be deemed to be 59 percent; and
 
-&emsp;&emsp;&emsp;(ii) Subsection (e).
+&emsp;&emsp;&emsp;(ii) paragraph (3) of subsection (d) shall not apply.
+
+&emsp;&emsp;(B)
+
+Local control.—A State may allocate up to 100 percent of the funds referred to in subparagraph (A)(i) if—
+
+&emsp;&emsp;&emsp;(i) the State submits to the Secretary a plan that describes—
+
+&emsp;&emsp;&emsp;&emsp;(I) how funds will be allocated to counties, metropolitan planning organizations, regional transportation planning organizations as described in section 135(m), or local governments;
+
+&emsp;&emsp;&emsp;&emsp;(II) how the entities described in subclause (I) will carry out a competitive process to select projects for funding and report selected projects to the State;
+
+&emsp;&emsp;&emsp;&emsp;(III) the legal, financial, and technical capacity of the entities described in subclause (I);
+
+&emsp;&emsp;&emsp;&emsp;(IV) how input was gathered from the entities described in subclause (I) to ensure those entities will be able to comply with the requirements of this subsection; and
+
+&emsp;&emsp;&emsp;&emsp;(V) how the State will comply with paragraph (8); and
+
+&emsp;&emsp;&emsp;(ii) the Secretary approves the plan submitted under clause (i).
 
 &emsp;(3)
 
-Eligible projects.—Funds reserved under this subsection may be obligated for projects or activities described in section 101(a)(29) or 213, as such provisions were in effect on the day before the date of enactment of the FAST Act.
+Eligible projects.—Funds set aside under this subsection may be obligated for—
+
+&emsp;&emsp;(A) projects or activities described in section 101(a)(29) or 213, as those provisions were in effect on the day before the date of enactment of the FAST Act (Public Law 114–94; 129 Stat. 1312);
+
+&emsp;&emsp;(B) projects and activities under the safe routes to school program under section 208; and
+
+&emsp;&emsp;(C) activities in furtherance of a vulnerable road user safety assessment (as defined in section 148(a)).
 
 &emsp;(4)
 
 Access to funds.—
 
 &emsp;&emsp;(A)
-
-In general.—A State or metropolitan planning organization required to obligate funds in accordance with paragraph (2) shall develop a competitive process to allow eligible entities to submit projects for funding that achieve the objectives of this subsection. A metropolitan planning organization for an area described in subsection (d)(1)(A)(i) shall select projects under such process in consultation with the relevant State.
-
-&emsp;&emsp;(B)
 
 Eligible entity defined.—In this paragraph, the term "eligible entity" means—
 
@@ -240,15 +284,31 @@ Eligible entity defined.—In this paragraph, the term "eligible entity" means�
 
 &emsp;&emsp;&emsp;(vi) a tribal government;
 
-&emsp;&emsp;&emsp;(vii) a nonprofit entity responsible for the administration of local transportation safety programs; and
+&emsp;&emsp;&emsp;(vii) a metropolitan planning organization that serves an urbanized area with a population of 200,000 or fewer;
 
-&emsp;&emsp;&emsp;(viii) any other local or regional governmental entity with responsibility for or oversight of transportation or recreational trails (other than a metropolitan planning organization or a State agency) that the State determines to be eligible, consistent with the goals of this subsection.
+&emsp;&emsp;&emsp;(viii) a nonprofit entity;
+
+&emsp;&emsp;&emsp;(ix) any other local or regional governmental entity with responsibility for or oversight of transportation or recreational trails (other than a metropolitan planning organization that serves an urbanized area with a population of over 200,000 or a State agency) that the State determines to be eligible, consistent with the goals of this subsection; and
+
+&emsp;&emsp;&emsp;(x) a State, at the request of an entity described in clauses (i) through (ix).
+
+&emsp;&emsp;(B)
+
+Competitive process.—A State or metropolitan planning organization required to obligate funds in accordance with paragraph (2) shall develop a competitive process to allow eligible entities to submit projects for funding that achieve the objectives of this subsection.
+
+&emsp;&emsp;(C)
+
+Selection.—A metropolitan planning organization for an area described in subsection (d)(1)(A)(i) shall select projects under the competitive process described in subparagraph (B) in consultation with the relevant State.
+
+&emsp;&emsp;(D)
+
+Prioritization.—The competitive process described in subparagraph (B) shall include prioritization of project location and impact in high-need areas as defined by the State, such as low-income, transit-dependent, rural, or other areas.
 
 &emsp;(5)
 
 Continuation of certain recreational trails projects.—For each fiscal year, a State shall—
 
-&emsp;&emsp;(A) obligate an amount of funds reserved under this section equal to the amount of the funds apportioned to the State for fiscal year 2009 under section 104(h)(2), as in effect on the day before the date of enactment of MAP–21, for projects relating to recreational trails under section 206;
+&emsp;&emsp;(A) obligate an amount of funds set aside under this subsection equal to the amount of the funds apportioned to the State for fiscal year 2009 under section 104(h)(2), as in effect on the day before the date of enactment of MAP–21, for projects relating to recreational trails under section 206;
 
 &emsp;&emsp;(B) return 1 percent of those funds to the Secretary for the administration of that program; and
 
@@ -264,15 +324,61 @@ Recreational trails.—A State may opt out of the recreational trails program un
 
 &emsp;&emsp;(B)
 
-Large urbanized areas.—A metropolitan planning area may use not to exceed 50 percent of the funds reserved under this subsection for an urbanized area described in subsection (d)(1)(A)(i) for any purpose eligible under subsection (b).
+Large urbanized areas.—A metropolitan planning area may use not to exceed 50 percent of the funds set aside under this subsection for an urbanized area described in subsection (d)(1)(A)(i) for any purpose eligible under subsection (b).
+
+&emsp;&emsp;(C)
+
+Improving accessibility and efficiency.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—A State may use an amount equal to not more than 5 percent of the funds set aside for the State under this subsection, after allocating funds in accordance with paragraph (2)(A), to improve the ability of applicants to access funding for projects under this subsection in an efficient and expeditious manner by providing—
+
+&emsp;&emsp;&emsp;&emsp;(I) to applicants for projects under this subsection application assistance, technical assistance, and assistance in reducing the period of time between the selection of the project and the obligation of funds for the project; and
+
+&emsp;&emsp;&emsp;&emsp;(II) funding for 1 or more full-time State employee positions to administer this subsection.
+
+&emsp;&emsp;&emsp;(ii)
+
+Use of funds.—Amounts used under clause (i) may be expended—
+
+&emsp;&emsp;&emsp;&emsp;(I) directly by the State; or
+
+&emsp;&emsp;&emsp;&emsp;(II) through contracts with State agencies, private entities, or nonprofit entities.
 
 &emsp;(7)
+
+Federal share.—
+
+&emsp;&emsp;(A)
+
+Required aggregate non-federal share.—The average annual non-Federal share of the total cost of all projects for which funds are obligated under this subsection in a State for a fiscal year shall be not less than the average non-Federal share of the cost of the projects that would otherwise apply.
+
+&emsp;&emsp;(B)
+
+Flexible financing.—Subject to subparagraph (A), notwithstanding section 120—
+
+&emsp;&emsp;&emsp;(i) funds made available to carry out section 148 may be credited toward the non-Federal share of the costs of a project under this subsection if the project—
+
+&emsp;&emsp;&emsp;&emsp;(I) is an eligible project described in section 148(e)(1); and
+
+&emsp;&emsp;&emsp;&emsp;(II) is consistent with the State strategic highway safety plan (as defined in section 148(a));
+
+&emsp;&emsp;&emsp;(ii) the non-Federal share for a project under this subsection may be calculated on a project, multiple-project, or program basis; and
+
+&emsp;&emsp;&emsp;(iii) the Federal share of the cost of an individual project in this section may be up to 100 percent.
+
+&emsp;&emsp;(C)
+
+Requirement.—Subparagraph (B) shall only apply to a State if the State has adequate financial controls, as certified by the Secretary, to account for the average annual non-Federal share under this paragraph.
+
+&emsp;(8)
 
 Annual reports.—
 
 &emsp;&emsp;(A)
 
-In general.—Each State or metropolitan planning organization responsible for carrying out the requirements of this subsection shall submit to the Secretary an annual report that describes—
+In general.—Each State or metropolitan planning organization responsible for carrying out the requirements of this subsection shall submit to the Secretary an annual report that includes—
 
 &emsp;&emsp;&emsp;(i) the number of project applications received for each fiscal year, including—
 
@@ -280,7 +386,21 @@ In general.—Each State or metropolitan planning organization responsible for c
 
 &emsp;&emsp;&emsp;&emsp;(II) the types of projects to be carried out, expressed as percentages of the total apportionment of the State under this subsection; and
 
-&emsp;&emsp;&emsp;(ii) the number of projects selected for funding for each fiscal year, including the aggregate cost and location of projects selected.
+&emsp;&emsp;&emsp;(ii) a list of each project selected for funding for each fiscal year, including, for each project—
+
+&emsp;&emsp;&emsp;&emsp;(I) the fiscal year during which the project was selected;
+
+&emsp;&emsp;&emsp;&emsp;(II) the fiscal year in which the project is anticipated to be funded;
+
+&emsp;&emsp;&emsp;&emsp;(III) the recipient;
+
+&emsp;&emsp;&emsp;&emsp;(IV) the location, including the congressional district;
+
+&emsp;&emsp;&emsp;&emsp;(V) the type;
+
+&emsp;&emsp;&emsp;&emsp;(VI) the cost; and
+
+&emsp;&emsp;&emsp;&emsp;(VII) a brief description.
 
 &emsp;&emsp;(B)
 
@@ -290,15 +410,47 @@ Public availability.—The Secretary shall make available to the public, in a us
 
 Treatment of Projects.—Notwithstanding any other provision of law, projects funded under this section (excluding those carried out under subsection (h)(5)) shall be treated as projects on a Federal-aid highway under this chapter.
 
-(Added Pub. L. 102–240, title I, §1007(a)(1), Dec. 18, 1991, 105 Stat. 1927; amended Pub. L. 103–429, §3(4), Oct. 31, 1994, 108 Stat. 4377; Pub. L. 104–59, title III, §§315, 316, Nov. 28, 1995, 109 Stat. 586, 587; Pub. L. 105–178, title I, §§1108(a)–(e), 1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 138–140, 193; Pub. L. 109–59, title I, §1113(a)–(b)(2), (c)–(e), title VI, §6006(a)(2), Aug. 10, 2005, 119 Stat. 1171, 1172, 1872; Pub. L. 112–141, div. A, title I, §§1108, 1519(c)(7), formerly §1519(c)(8), July 6, 2012, 126 Stat. 440, 576, renumbered §1519(c)(7), Pub. L. 114–94, div. A, title I, §1446(d)(5)(B), Dec. 4, 2015, 129 Stat. 1438; Pub. L. 114–94, div. A, title I, §§1109(b), 1407(b), 1446(d)(5)(C), Dec. 4, 2015, 129 Stat. 1338, 1410, 1438.)
+(j)
+
+Rural Barge Landing, Dock, and Waterfront Infrastructure Projects.—
+
+&emsp;(1)
+
+In general.—A State may use not more than 5 percent of the funds apportioned to the State under section 104(b)(2) for eligible rural barge landing, dock, and waterfront infrastructure projects described in paragraph (2).
+
+&emsp;(2)
+
+Eligible projects.—An eligible rural barge landing, dock, or waterfront infrastructure project referred to in paragraph (1) is a project for the planning, designing, engineering, or construction of a barge landing, dock, or other waterfront infrastructure in a rural community or a Native village (as defined in section 3 of the Alaska Native Claims Settlement Act (43 U.S.C. 1602)) that is off the road system.
+
+(k)
+
+Projects in Rural Areas.—
+
+&emsp;(1)
+
+Set aside.—Notwithstanding subsection (c), in addition to the activities described in subsections (b) and (g), of the amounts apportioned to a State for each fiscal year to carry out this section, not more than 15 percent may be—
+
+&emsp;&emsp;(A) used on eligible projects under subsection (b) or maintenance activities on roads functionally classified as rural minor collectors or local roads, ice roads, or seasonal roads; or
+
+&emsp;&emsp;(B) transferred to—
+
+&emsp;&emsp;&emsp;(i) the Appalachian Highway System Program under 14501 <sup>3</sup> of title 40; or
+
+&emsp;&emsp;&emsp;(ii) the Denali access system program under section 309 of the Denali Commission Act of 1998 (42 U.S.C. 3121 note; Public Law 105–277).
+
+&emsp;(2)
+
+Savings clause.—Amounts allocated under subsection (d) shall not be used to carry out this subsection, except at the request of the applicable metropolitan planning organization.
+
+(Added Pub. L. 102–240, title I, §1007(a)(1), Dec. 18, 1991, 105 Stat. 1927; amended Pub. L. 103–429, §3(4), Oct. 31, 1994, 108 Stat. 4377; Pub. L. 104–59, title III, §§315, 316, Nov. 28, 1995, 109 Stat. 586, 587; Pub. L. 105–178, title I, §§1108(a)–(e), 1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 138–140, 193; Pub. L. 109–59, title I, §1113(a)–(b)(2), (c)–(e), title VI, §6006(a)(2), Aug. 10, 2005, 119 Stat. 1171, 1172, 1872; Pub. L. 112–141, div. A, title I, §§1108, 1519(c)(7), formerly §1519(c)(8), July 6, 2012, 126 Stat. 440, 576, renumbered §1519(c)(7), Pub. L. 114–94, div. A, title I, §1446(d)(5)(B), Dec. 4, 2015, 129 Stat. 1438; Pub. L. 114–94, div. A, title I, §§1109(b), 1407(b), 1446(d)(5)(C), Dec. 4, 2015, 129Stat. 1338, 1410, 1438; Pub. L. 117–58, div. A, title I, §§11109(a), (b)(1), 11508(d)(2), Nov. 15, 2021, 135 Stat. 461, 465, 588.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (b)(6), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (b)(7), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
-The date of enactment of the FAST Act, referred to in subsecs. (b)(15), (c)(3), and (h)(3), is the date of enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
+The date of enactment of the FAST Act, referred to in subsecs. (b)(22), (c)(3), and (h)(3)(A), is the date of enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
 
 The date of enactment of MAP–21, referred to in subsec. (h)(1)(B)(i), (5)(A), is deemed to be Oct. 1, 2012, see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title.
 
@@ -307,6 +459,108 @@ The date of enactment of MAP–21, referred to in subsec. (h)(1)(B)(i), (5)(A), 
 A prior section 133, Pub. L. 87–866, §5(a), Oct. 23, 1962, 76 Stat. 1146, provided for relocation assistance for persons displaced by Federal-aid highway construction, prior to repeal by Pub. L. 90–495, §37, Aug. 23, 1968, 82 Stat. 836, effective July 1, 1970. See section 501 et seq. of this title.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (b)(1)(B). Pub. L. 117–58, §11109(a)(1)(A)(i), inserted dash after "facilities", cl. (i) designation and "that are" before "eligible", and "or" at end and added cl. (ii).
+
+Subsec. (b)(1)(G). Pub. L. 117–58, §11109(a)(1)(A)(ii)–(iv), added subpar. (G).
+
+Subsec. (b)(3). Pub. L. 117–58, §11109(a)(1)(B), inserted "148(a)(4)(B)(xvii)," after "119(g),".
+
+Subsec. (b)(4), (5). Pub. L. 117–58, §11109(a)(1)(C), (D), redesignated par. (4) as (5) and substituted "projects eligible under section 130 and installation of safety barriers and nets on bridges" for "railway-highway grade crossings". Former par. (5) redesignated (6).
+
+Subsec. (b)(6). Pub. L. 117–58, §11109(a)(1)(C), redesignated par. (5) as (6). Former par. (6) redesignated (7).
+
+Subsec. (b)(7). Pub. L. 117–58, §11109(a)(1)(C), (E), redesignated par. (6) as (7), inserted "including the maintenance and restoration of existing recreational trails," after "section 206", and substituted "the safe routes to school program under section 208" for "the safe routes to school program under section 1404 of SAFETEA–LU (23 U.S.C. 402 note)". Former par. (7) redesignated (8).
+
+Subsec. (b)(8) to (13). Pub. L. 117–58, §11109(a)(1)(C), redesignated pars. (7) to (12) as (8) to (13), respectively. Former par. (13) redesignated (20).
+
+Subsec. (b)(14) to (19). Pub. L. 117–58, §11109(a)(1)(F), added pars. (14) to (19). Former pars. (14) and (15) redesignated (21) and (22), respectively.
+
+Subsec. (b)(20). Pub. L. 117–58, §11109(a)(1)(C), redesignated par. (13) as (20).
+
+Subsec. (b)(21). Pub. L. 117–58, §11508(d)(2), inserted ", including conducting value for money analyses or similar comparative analyses," after "oversight".
+
+Pub. L. 117–58, §11109(a)(1)(C), redesignated par. (14) as (21).
+
+Subsec. (b)(22). Pub. L. 117–58, §11109(a)(1)(C), redesignated par. (15) as (22).
+
+Subsec. (b)(23), (24). Pub. L. 117–58, §11109(a)(1)(G), added pars. (23) and (24).
+
+Subsec. (c)(2). Pub. L. 117–58, §11109(a)(2)(A), substituted "paragraphs (5) through (15) and paragraph (23)" for "paragraphs (4) through (11)".
+
+Subsec. (c)(4), (5). Pub. L. 117–58, §11109(a)(2)(B)–(D), added par. (4) and redesignated former par. (4) as (5).
+
+Subsec. (d)(1). Pub. L. 117–58, §11109(a)(3)(A)(i), substituted "set aside" for "reservation" in introductory provisions.
+
+Subsec. (d)(1)(A). Pub. L. 117–58, §11109(a)(3)(A)(ii)(I), substituted "55 percent for each of fiscal years 2022 through 2026" for "the percentage specified in paragraph (6) for a fiscal year" in introductory provisions.
+
+Subsec. (d)(1)(A)(ii) to (iv). Pub. L. 117–58, §11109(a)(3)(A)(ii)(II), added cls. (ii) to (iv) and struck out former cls. (ii) and (iii) which read as follows:
+
+"(ii) in areas of the State other than urban areas with a population greater than 5,000; and
+
+"(iii) in other areas of the State; and".
+
+Subsec. (d)(3). Pub. L. 117–58, §11109(a)(3)(B), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: "For purposes of paragraph (1)(A)(iii), before obligating funding attributed to an area with a population greater than 5,000 and less than 200,000, a State shall consult with the regional transportation planning organizations that represent the area, if any."
+
+Subsec. (d)(6). Pub. L. 117–58, §11109(a)(3)(C), struck out par. (6) which specified percentages from 51 to 55 percent for fiscal years 2016 to 2020 to be obligated pursuant to subsec. (d)(1)(A) of this section.
+
+Subsec. (e)(1). Pub. L. 117–58, §11109(a)(4), substituted "fiscal years 2022 through 2026" for "fiscal years 2016 through 2020".
+
+Subsec. (f)(1). Pub. L. 117–58, §11109(a)(5)(A), inserted "or low water crossing (as defined by the Secretary)" after "a highway bridge" and after "other than a bridge".
+
+Subsec. (f)(2)(A). Pub. L. 117–58, §11109(a)(5)(B), substituted "activities described in paragraphs (1)(A) and (10) of subsection (b) for off-system bridges, projects and activities described in subsection (b)(1)(A) for the replacement of low water crossings with bridges, and projects and activities described in subsection (b)(10) for low water crossings (as defined by the Secretary)," for "activities described in subsection (b)(2) for off-system bridges" and "20 percent" for "15 percent".
+
+Subsec. (f)(3). Pub. L. 117–58, §11109(a)(5)(C), in introductory provisions, substituted "bridge, rehabilitation of a bridge, or replacement of a low water crossing (as defined by the Secretary) with a bridge" for "bridge or rehabilitation of a bridge" and inserted "or, in the case of a replacement of a low water crossing with a bridge, is determined by the Secretary on completion to have improved the safety of the location" after "no longer a deficient bridge".
+
+Subsec. (g). Pub. L. 117–58, §11109(a)(6)(A), substituted "Less Than 50,000" for "Less Than 5,000" in heading.
+
+Subsec. (g)(1). Pub. L. 117–58, §11109(a)(6)(B), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "Notwithstanding subsection (c), and except as provided in paragraph (2), up to 15 percent of the amounts required to be obligated by a State under subsection (d)(1)(A)(ii) for each of fiscal years 2016 through 2020 may be obligated on roads functionally classified as minor collectors."
+
+Subsec. (h)(1). Pub. L. 117–58, §11109(b)(1)(A), substituted "In general" for "Reservation of funds" in heading and "for fiscal year 2022 and each fiscal year thereafter—" for "for each fiscal year, the Secretary shall reserve an amount such that—" in introductory provisions.
+
+Subsec. (h)(1)(A). Pub. L. 117–58, §11109(b)(1)(A)(ii), substituted "the Secretary shall set aside an amount equal to 10 percent to carry out this subsection; and" for "the Secretary reserves a total under this subsection of—
+
+&emsp;"(i) $835,000,000 for each of fiscal years 2016 and 2017; and
+
+&emsp;"(ii) $850,000,000 for each of fiscal years 2018 through 2020; and".
+
+Subsec. (h)(2). Pub. L. 117–58, §11109(b)(1)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "Funds reserved for a State under paragraph (1) shall be obligated within that State in the manner described in subsection (d), exceptthat, for purposes of this paragraph (after funds are made available under paragraph (5))—
+
+&emsp;"(A) for each fiscal year, the percentage referred to in paragraph (1)(A) of that subsection shall be deemed to be 50 percent; and
+
+&emsp;"(B) the following provisions shall not apply:
+
+&emsp;&emsp;"(i) Paragraph (3) of subsection (d).
+
+&emsp;&emsp;"(ii) Subsection (e)."
+
+Subsec. (h)(3). Pub. L. 117–58, §11109(b)(1)(C), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: "Funds reserved under this subsection may be obligated for projects or activities described in section 101(a)(29) or 213, as such provisions were in effect on the day before the date of enactment of the FAST Act."
+
+Subsec. (h)(4)(A). Pub. L. 117–58, §11109(b)(1)(D)(i), (ii), redesignated subpar. (B) as (A) and struck out former subpar. (A). Prior to amendment, text of subpar. (A) read as follows: "A State or metropolitan planning organization required to obligate funds in accordance with paragraph (2) shall develop a competitive process to allow eligible entities to submit projects for funding that achieve the objectives of this subsection. A metropolitan planning organization for an area described in subsection (d)(1)(A)(i) shall select projects under such process in consultation with the relevant State."
+
+Subsec. (h)(4)(A)(vii). Pub. L. 117–58, §11109(b)(1)(D)(iii)(II), added cl. (vii). Former cl. (vii) redesignated (viii).
+
+Subsec. (h)(4)(A)(viii). Pub. L. 117–58, §11109(b)(1)(D)(iii)(I), (III), redesignated cl. (vii) as (viii) and substituted "entity;" for "entity responsible for the administration of local transportation safety programs; and". Former cl. (viii) redesignated (ix).
+
+Subsec. (h)(4)(A)(ix). Pub. L. 117–58, §11109(b)(1)(D)(iii)(I), (IV), redesignated cl. (viii) as (ix), inserted "that serves an urbanized area with a population of over 200,000" after "metropolitan planning organization" and substituted "; and" for period at end.
+
+Subsec. (h)(4)(A)(x). Pub. L. 117–58, §11109(b)(1)(D)(iii)(V), added cl. (x).
+
+Subsec. (h)(4)(B) to (D). Pub. L. 117–58, §11109(b)(1)(D)(iv), added subpars. (B) to (D). Former subpar. (B) redesignated (A).
+
+Subsec. (h)(5)(A). Pub. L. 117–58, §11109(b)(1)(E), substituted "set aside under this subsection" for "reserved under this section".
+
+Subsec. (h)(6)(B). Pub. L. 117–58, §11109(b)(1)(F)(i), substituted "set aside" for "reserved".
+
+Subsec. (h)(6)(C). Pub. L. 117–58, §11109(b)(1)(F)(ii), added subpar. (C).
+
+Subsec. (h)(7), (8). Pub. L. 117–58, §11109(b)(1)(G), (H), added par. (7) and redesignated former par. (7) as (8).
+
+Subsec. (h)(8)(A). Pub. L. 117–58, §11109(b)(1)(I)(i), substituted "includes" for "describes" in introductory provisions.
+
+Subsec. (h)(8)(A)(ii). Pub. L. 117–58, §11109(b)(1)(I)(ii), added cl. (ii) and struck out former cl. (ii) which read as follows: "the number of projects selected for funding for each fiscal year, including the aggregate cost and location of projects selected."
+
+Subsecs. (j), (k). Pub. L. 117–58, §11109(a)(7), added subsecs. (j) and (k).
 
 <b>2015</b>—Pub. L. 114–94, §1109(b)(2), substituted "Surface transportation block grant program" for "Surface transportation program" in section catchline.
 
@@ -358,7 +612,7 @@ Subsec. (b)(7). Pub. L. 112–141, §1108(a)(6), added par. (7) and struck out f
 
 Pub. L. 112–141, §1108(a)(3), redesignated par. (4) as (7). Former par. (7) redesignated (10).
 
-Subsec. (b)(8) to (10). Pub. L. 112–141, §1108(a)(3), redesignated pars. (5) to (7) as (8) to (10), respectively. Former pars. (8) to (10) redesignated (11) to (13), respectively.
+Subsec. (b)(8) to (10). Pub. L. 112–141, §1108(a)(3), redesignated pars. (5) to (7) as (8) to (10), respectively.Former pars. (8) to (10) redesignated (11) to (13), respectively.
 
 Subsec. (b)(11). Pub. L. 112–141, §1108(a)(3), (7), redesignated par. (8) as (11) and substituted "alternatives" for "enhancement activities". Former par. (11) redesignated (14).
 
@@ -424,7 +678,7 @@ Subsec. (d)(3)(D). Pub. L. 105–178, §1108(b)(1), substituted "Hawaii and Alas
 
 Subsec. (d)(5)(C). Pub. L. 105–178, §1212(a)(2)(A)(i), substituted "State transportation department" for "State highway department".
 
-Subsec. (e)(2). Pub. L. 105–178, §1108(c), added par. (2) and struck out heading and text of former par. (2). Text read as follows: "The Governor of each State shall certify before the beginning of each quarter of a fiscal year that the State will meet all the requirements of this section and shall notify the Secretary of the amount of obligations expected to be incurred for surface transportation program projects during such quarter. A State may request adjustment to the obligation amounts later in each of such quarters. Acceptance of the notification and certification shall be deemed a contractual obligation of the United States for the payment of the surface transportation program funds expected to be obligated by the State in such quarter for projects not subject to review by the Secretary under this chapter."
+Subsec. (e)(2). Pub. L. 105–178, §1108(c), added par. (2) and struck out heading and text of former par. (2). Text read as follows: "The Governor of each State shall certify before the beginning of each quarter of a fiscal year that the State will meet all the requirements of this section and shall notify the Secretary of theamount of obligations expected to be incurred for surface transportation program projects during such quarter. A State may request adjustment to the obligation amounts later in each of such quarters. Acceptance of the notification and certification shall be deemed a contractual obligation of the United States for the payment of the surface transportation program funds expected to be obligated by the State in such quarter for projects not subject to review by the Secretary under this chapter."
 
 Subsec. (e)(3)(A). Pub. L. 105–178, §1108(d), struck out at end "Payments shall not exceed the Federal share of costs incurred as of the date the State requests payments."
 
@@ -436,7 +690,7 @@ Subsec. (f). Pub. L. 105–178, §1108(e), as amended by Pub. L. 109–59, §111
 
 &emsp;"(1) the aggregate amount of funds which the State is required to obligate in such area under subsection (d) during such period; by
 
-&emsp;"(2) the ratio of the aggregate amount of obligation authority distributed to the State for Federal-aid highways and highway safety construction duringsuch period to the total sums apportioned to the State for Federal-aid highways and highway safety construction (excluding sums not subject to an obligation limitation) during such period."
+&emsp;"(2) the ratio of the aggregate amount of obligation authority distributed to the State for Federal-aid highways and highway safety construction during such period to the total sums apportioned to the State for Federal-aid highways and highway safety construction (excluding sums not subject to an obligation limitation) during such period."
 
 <b>1995</b>—Subsec. (d)(5). Pub. L. 104–59, §315, added par. (5).
 
@@ -447,6 +701,12 @@ Subsec. (e)(5). Pub. L. 104–59, §316(2), added par. (5).
 <b>1994</b>—Subsec. (b)(2). Pub. L. 103–429 substituted "chapter 53 of title 49" for "the Federal Transit Act".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, except as otherwise provided, see section 10003 of Pub. L. 117–58, set out as a note under section 101 of this title.
+
+Amendment by section 11508(d)(2) of Pub. L. 117–58 only applicable to a public-private partnership agreement entered into on or after Nov. 15, 2021, see section 11508(e) of Pub. L. 117–58, set out in a Requirements for Transportation Projects Carried Out Through Public-Private Partnerships note under section 106 of this title.
 
 #### Effective Date of 2015 Amendment
 
@@ -499,4 +759,10 @@ Suspension.—The Secretary may suspend the application of paragraph (1) if the 
 #### Encouragement of Use of Youth Conservation or Service Corps
 
 Pub. L. 105–178, title I, §1108(g), June 9, 1998, 112 Stat. 141, provided that: "The Secretary shall encourage the States to enter into contracts and cooperative agreements with qualified youth conservation or service corps to perform appropriate transportation enhancement activities under chapter 1 of title 23, United States Code."
+
+<i><sup>1</sup></i><i> So in original. There is no par. (4).</i>
+
+<i><sup>2</sup></i><i> So in original.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be preceded by "section".</i>
 

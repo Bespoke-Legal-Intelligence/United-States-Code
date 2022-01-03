@@ -162,7 +162,7 @@ Subsec. (c)(3). Pub. L. 94–183 substituted "after October 31, 1969" for "on or
 
 <b>1969</b>—Subsec. (b). Pub. L. 91–93, §204(a), increased the annuity payable from the Fund by 1 percent.
 
-Subsec. (c)(2). Pub. L. 91–93, §204(b), increased the minimum survivor annuity for children of a deceased Federal employee, substituting dollar and percentage references to $900, $1,080, $2,700, $3,240, and 60 and 75 percent for prior references to $600, $720, $1,800, $2,160 and 40 and 50 percent respectively, such new increases to commence on or after the first day of the first month that begins on or after Oct. 20, 1969, the date of enactment of the Civil Service Retirement Amendments of 1969, whereas prior provisions were for computation of a child's annuity commencing after effective date of first increase under this section based on employee annuity that commenced after Oct. 1, 1956, or was payable at death.
+Subsec. (c)(2). Pub. L. 91–93, §204(b), increased the minimum survivor annuity for children of a deceased Federal employee, substituting dollar and percentagereferences to $900, $1,080, $2,700, $3,240, and 60 and 75 percent for prior references to $600, $720, $1,800, $2,160 and 40 and 50 percent respectively, such new increases to commence on or after the first day of the first month that begins on or after Oct. 20, 1969, the date of enactment of the Civil Service Retirement Amendments of 1969, whereas prior provisions were for computation of a child's annuity commencing after effective date of first increase under this section based on employee annuity that commenced after Oct. 1, 1956, or was payable at death.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -240,7 +240,7 @@ Pub. L. 98–369, div. B, title II, §2201(a), July 18, 1984, 98 Stat. 1058, pro
 
 #### Cost-of-Living Adjustments During Fiscal Years 1983, 1984, and 1985
 
-Pub. L. 97–253, title III, §301(a)–(c), Sept. 8, 1982, 96 Stat. 790, 791, as amended by Pub. L. 98–270, title I, §201(c), Apr. 18, 1984, 98 Stat. 158; Pub. L. 98–396, title I, Aug. 22, 1984, 98 Stat. 1403, provided that:
+Pub. L. 97–253, title III, §301(a)–(c), Sept. 8, 1982, 96 Stat. 790, 791, as amended by Pub. L. 98–270, title I,§201(c), Apr. 18, 1984, 98 Stat. 158; Pub. L. 98–396, title I, Aug. 22, 1984, 98 Stat. 1403, provided that:
 
 "(a)(1) Except as provided in paragraph (3), the cost-of-living increase under any Government retirement system in annuity or retired or retainer pay of any early retiree taking effect in each of fiscal years 1983, 1984, and 1985, shall be equal to one-half of the assumed increase in the price index for that year.
 

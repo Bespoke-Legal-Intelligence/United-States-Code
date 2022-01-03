@@ -2,7 +2,7 @@
 
 #### (a) Methods of acquisition
 
-The Secretary is authorized to acquire lands, waters, and interests therein within the boundaries of the Chaco Culture National Historical Park (hereinafter referred to as the "park") and the archeological protection sites as identified in section 410ii–1 of this title by donation, purchase with donated or appropriated funds, or exchange. Property owned by the State of New Mexico or any political subdivision thereof, may be acquired by exchange or donation only. Property held in trust for the benefit of any Indian tribe or for the benefit of any individual member thereof may be acquired only with the consentof such owner or beneficial owner as the case may be.
+The Secretary is authorized to acquire lands, waters, and interests therein within the boundaries of the Chaco Culture National Historical Park (hereinafter referred to as the "park") and the archeological protection sites as identified in section 410ii–1 of this title by donation, purchase with donated or appropriated funds, or exchange. Property owned by the State of New Mexico or any political subdivision thereof, may be acquired by exchange or donation only. Property held in trust for the benefit of any Indian tribe or for the benefit of any individual member thereof may be acquired only with the consent of such owner or beneficial owner as the case may be.
 
 #### (b) Conveyance by tribal authorities
 
@@ -25,6 +25,8 @@ The respective tribal authorities are authorized to convey by exchange, purchase
 All Federal lands, waters, and interests therein excluded from the boundaries of Chaco Canyon National Monument by this subchapter may be exchanged for non-Federal property to be acquired pursuant to this subchapter. Any lands so excluded shall be managed by the Secretary under the provisions of the Federal Land Policy and Management Act of 1976 \[43 U.S.C. 1701 et seq.\]. Transfer of administration of such lands to the Bureau of Land Management shall not be considered a withdrawal as that term is defined in section 103(j) of the Federal Land Policy and Management Act of 1976 \[43 U.S.C. 1702(j)\].
 
 (Pub. L. 96–550, title V, §504, Dec. 19, 1980, 94 Stat. 3228; Pub. L. 104–11, §4, May 18, 1995, 109 Stat. 159.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

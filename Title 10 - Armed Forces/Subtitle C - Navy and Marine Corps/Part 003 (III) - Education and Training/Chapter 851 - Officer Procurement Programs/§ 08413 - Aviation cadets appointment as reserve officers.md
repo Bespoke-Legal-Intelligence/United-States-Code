@@ -28,6 +28,8 @@ Aug. 4, 1942, ch. 547, §8, 56 Stat. 738.
 
 In subsection (a) the proviso is omitted as unnecessary. Section 1 of the Act of April 28, 1950, ch. 120, 64 Stat. 90, terminated service credit for lump-sum payments granted under §12 of the Act of August 4, 1942, ch. 547, 56 Stat. 738, and thereby removed the only consequences of the proviso. The words "section 6023(b) of this title" are substituted for the words "law for designation or appointment as naval aviators" to provide specific reference to those requirements. The words "and designated a naval aviator" are added for clarity and to authorize specifically the designation, which is implied in 34 U.S.C. 850f.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 6913 of this title as this section.
@@ -35,6 +37,8 @@ In subsection (a) the proviso is omitted as unnecessary. Section 1 of the Act of
 <b>2006</b>—Subsec. (a). Pub. L. 109–163 substituted "Navy Reserve" for "Naval Reserve".
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted "section 2003" for "section 6023(b)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

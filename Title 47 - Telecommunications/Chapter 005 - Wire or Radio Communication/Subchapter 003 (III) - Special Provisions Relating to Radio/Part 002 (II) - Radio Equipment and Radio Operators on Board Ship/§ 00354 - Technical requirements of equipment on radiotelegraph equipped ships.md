@@ -20,7 +20,7 @@ The radiotelegraph station and the radio direction finding apparatus required by
 
 &emsp;(i) The radio direction finding apparatus shall be efficient and capable of receiving signals with the minimum of receiver noise and of taking bearings from which the true bearing and direction may be determined. It shall be capable of receiving signals on the radiotelegraph frequencies assigned by the radio regulations annexed to the International Telecommunication Convention in force for the purposes of distress, direction finding, and maritime radio beacons, and, in installations made after May 26, 1965, such other frequencies as the Commission may for safety purposes designate.
 
-(June 19, 1934, ch. 652, title III, §355, formerly §354, as added May 20, 1937, ch. 229, §10(b), 50Stat. 193; amended 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; renumbered §355 and amended Aug. 13, 1954, ch. 729, §2(a)(1), (c), 68 Stat. 706; Pub. L. 89–121, §6, Aug. 13, 1965, 79 Stat. 514.)
+(June 19, 1934, ch. 652, title III, §355, formerly §354, as added May 20, 1937, ch. 229, §10(b), 50 Stat. 193; amended 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; renumbered §355 and amended Aug. 13, 1954, ch. 729, §2(a)(1), (c), 68 Stat. 706; Pub. L. 89–121, §6, Aug. 13, 1965, 79 Stat. 514.)
 
 #### <b>Editorial Notes</b>
 
@@ -38,7 +38,7 @@ Subsec. (d). Pub. L. 89–121 redesignated former subsec. (c) as (d), and substi
 
 Subsec. (e). Pub. L. 89–121 redesignated former subsec. (d) as (e), and inserted provisions requiring the reserve installation to have a minimum normal range of 100 nautical miles. Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 89–121 redesignated former subsec. (e) as (f), and substituted "electrical energy" for "power" and "operate the main installation over the normal range required by subsection (e) of this section as well as for the purpose of charging any batteries forming part of the radiotelegraph station" for "operate the main radio installation efficiently under normal conditions over the range specified in subsection (d) of this section". Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 89–121 redesignated former subsec. (e) as (f), and substituted "electrical energy" for"power" and "operate the main installation over the normal range required by subsection (e) of this section as well as for the purpose of charging any batteries forming part of the radiotelegraph station" for "operate the main radio installation efficiently under normal conditions over the range specified in subsection (d) of this section". Former subsec. (f) redesignated (g).
 
 Subsec. (g). Pub. L. 89–121 redesignated former subsec. (f) as (g), directed that the reserve source of energy and its switchboard shall be as high as practicable in the ship and readily accessible to the radio officer, and eliminated provisions which stated that for the emergency or reserve installation the normal range shall be at least 100 nautical miles. Former subsec. (g) redesignated (h).
 
@@ -63,6 +63,8 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 Coast Guard transferred to Department of Transportation, and functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of all other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, §6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in former section 3 (now 103) of Title 14, Coast Guard. See section 108 of Title 49, Transportation.
 
 #### <b>Executive Documents</b>
+
+#### Transfer of Functions
 
 "Commandant of the Coast Guard" substituted in subsec. (b) for "Bureau of Marine Inspection and Navigation, Department of Commerce" on authority of Reorg. Plan No. 3 of 1946, §§101–104, set out in the Appendix to Title 5.
 

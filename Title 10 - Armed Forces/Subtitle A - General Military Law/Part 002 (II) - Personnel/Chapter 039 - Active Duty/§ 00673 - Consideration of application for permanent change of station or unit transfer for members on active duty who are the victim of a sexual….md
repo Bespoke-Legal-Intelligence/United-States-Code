@@ -10,6 +10,8 @@ Regulations.—The Secretary concerned shall issue regulations to carry out this
 
 (Added Pub. L. 112–81, div. A, title V, §582(a), Dec. 31, 2011, 125 Stat. 1432; amended Pub. L. 113–66, div. A, title X, §1091(a)(8), title XVII, §1712, Dec. 26, 2013, 127 Stat. 876, 963; Pub. L. 115–91, div. A, title X, §1081(c)(2)(A), Dec. 12, 2017, 131 Stat. 1599; Pub. L. 116–283, div. A, title V, §531(a), Jan. 1, 2021, 134 Stat. 3601.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 673 was renumbered section 12302 of this title.
@@ -23,6 +25,8 @@ A prior section 673 was renumbered section 12302 of this title.
 <b>2013</b>—Subsec. (a). Pub. L. 113–66, §1091(a)(8), inserted "of the Uniform Code of Military Justice" after "120c".
 
 Subsec. (b). Pub. L. 113–66, §1712, substituted "The Secretary concerned" for "The Secretaries of the military departments".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2021 Amendment
 

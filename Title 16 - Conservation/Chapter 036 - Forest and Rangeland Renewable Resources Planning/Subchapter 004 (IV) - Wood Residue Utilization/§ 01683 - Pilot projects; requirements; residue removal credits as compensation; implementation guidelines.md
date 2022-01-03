@@ -12,9 +12,11 @@ The Secretary may carry out pilot wood residue utilization projects under which 
 
 &emsp;(5) Wood residues shall be collected from a site so as to avoid soil depletion or erosion giving full consideration to the protection of wildlife habitat.
 
-&emsp;(6) For the purposes of section 500 of this title, (A) any residue removal credit applied under this section shall be considered as "money received" or "moneys received", respectively, and (B) the "money received" or "moneys received", respectively, from thesales of wood residues removed to points of prospective use shall be the proceeds of the sales less the sum of any residue removal credit applied with respect to such residues plus any costs incurred by the Forest Service in processing and storing such residues.
+&emsp;(6) For the purposes of section 500 of this title, (A) any residue removal credit applied under this section shall be considered as "money received" or "moneys received", respectively, and (B) the "money received" or "moneys received", respectively, from the sales of wood residues removed to points of prospective use shall be the proceeds of the sales less the sum of any residue removal credit applied with respect to such residues plus any costs incurred by the Forest Service in processing and storing such residues.
 
 (Pub. L. 96–554, §4, Dec. 19, 1980, 94 Stat. 3257.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

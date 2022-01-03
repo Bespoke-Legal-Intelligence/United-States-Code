@@ -6,13 +6,13 @@
 
 &emsp;(2) "medical quality assurance record" means the proceedings, records, minutes, and reports that emanate from quality assurance program activities described in paragraph (1) and are produced or compiled by the Coast Guard as part of a medical quality assurance program.
 
-&emsp;(3) "health care provider" means any military or civilian health care professional who, under regulations prescribed by the Secretary, is granted clinical practice privileges to provide health care services in a military medical or dental treatment facility or who is licensed or certified to perform health care services by a governmental board or agency or professional health care society or organization.
+&emsp;(3) "health care provider" means any military or civilian health care professional who, under regulations prescribed by the Secretary, is granted clinical practice privileges to provide health care services in a military medicalor dental treatment facility or who is licensed or certified to perform health care services by a governmental board or agency or professional health care society or organization.
 
 (b) Medical quality assurance records created by or for the Coast Guard as part of a medical quality assurance program are confidential and privileged. The records may not be disclosed to any person or entity except as provided in subsection (d).
 
 (c)(1) Medical quality assurance records are not subject to discovery and may not be admitted into evidence in any judicial or administrative proceeding, except as provided in subsection (d).
 
-(2) Except as provided in this section, an individual who reviews or creates medical quality assurance records for the Coast Guard or who participates in any proceeding that reviews orcreates the records may not testify in any judicial or administrative proceeding with respect to the records or with respect to any finding, recommendation, evaluation, opinion, or action taken by that person in connection with the records.
+(2) Except as provided in this section, an individual who reviews or creates medical quality assurance records for the Coast Guard or who participates in any proceeding that reviews or creates the records may not testify in any judicial or administrative proceeding with respect to the records or with respect to any finding, recommendation, evaluation, opinion, or action taken by that person in connection with the records.
 
 (d)(1) Subject to paragraph (2), a medical quality assurance record may be disclosed, and an individual referred to in subsection (c) may testify in connection with a record only as follows:
 

@@ -52,7 +52,7 @@ Election of Incentive.—A National Call to Service participant shall elect in t
 
 Payment of Bonus Amounts.—(1) Payment to a National Call to Service participant of the bonus elected by the National Call to Service participant under subsection (e)(1) shall be made in such time and manner as the Secretary of Defense shall prescribe.
 
-(2)(A) Payment of outstanding principal and interest on the qualifying student loans of a National Call to Service participant, as elected under subsection (e)(2), shall be made in such time and manner as the Secretary of Defense shall prescribe.
+(2)(A) Payment of outstanding principal and interest on the qualifying student loans of a National Call to Service participant, as elected under subsection (e)(2), shall be made in suchtime and manner as the Secretary of Defense shall prescribe.
 
 (B) Payment under this paragraph of the outstanding principal and interest on the qualifying student loans of a National Call to Service participant shall be made to the holder of such student loans, as identified by the National Call to Service participant to the Secretary of the military department concerned for purposes of such payment.
 
@@ -60,7 +60,7 @@ Payment of Bonus Amounts.—(1) Payment to a National Call to Service participan
 
 (h)
 
-Coordination With Montgomery GI Bill Benefits.—(1)(A) Subject to subparagraph (B), a National Call to Service participant who electsan incentive under paragraph (3) or (4) of subsection (e) is not entitled to additional educational assistance under chapter 1606 of this title or to basic educational assistance under subchapter II of chapter 30 of title 38.
+Coordination With Montgomery GI Bill Benefits.—(1)(A) Subject to subparagraph (B), a National Call to Service participant who elects an incentive under paragraph (3) or (4) of subsection (e) is not entitled to additional educational assistance under chapter 1606 of this title or to basic educational assistance under subchapter II of chapter 30 of title 38.
 
 (B) If a National Call to Service participant meets all eligibility requirements specified in chapter 1606 of this title or chapter 30 of title 38 for entitlement to allowances for educational assistance under either such chapter, the participant may become eligible for allowances for educational assistance benefits under either such chapter up to the maximum allowance provided less the total amount of allowance paid under paragraph (3) or (4) of subsection (e).
 
@@ -100,9 +100,11 @@ Definitions.—In this section:
 
 (Added Pub. L. 107–314, div. A, title V, §531(a)(1), Dec. 2, 2002, 116 Stat. 2541; amended Pub. L. 108–136, div. A, title V, §535(a), Nov. 24, 2003, 117 Stat. 1474; Pub. L. 109–163, div. A, title V, §545, title VI, §687(c)(1), Jan. 6, 2006, 119 Stat. 3254, 3333; Pub. L. 109–364, div. A, title X, §1071(e)(2), Oct. 17, 2006, 120 Stat. 2401; Pub. L. 115–91, div. A, title VI, §618(a)(1)(A), Dec. 12, 2017, 131 Stat. 1426.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The National and Community Service Act of 1990, referred to in subsec. (l)(1), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended. Subtitle C of title I of the Act is classified generally to division C (§12571 et seq.) of subchapter I of chapter 129 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
+The National and Community Service Act of 1990, referred to in subsec. (l)(1), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended. Subtitle C of title I ofthe Act is classified generally to division C (§12571 et seq.) of subchapter I of chapter 129 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
 #### Prior Provisions
 
@@ -125,6 +127,8 @@ Subsec. (h)(2). Pub. L. 109–163, §545(c), amended par. (2) generally. Prior t
 Subsec. (i). Pub. L. 109–163, §687(c)(1), amended heading and text of subsec. (i) generally. Prior to amendment, text consisted of pars. (1) to (4) which related to pro rata repayments by failed National Call to Service participants, the nature of the debt owed, waiver and discharge in bankruptcy.
 
 <b>2003</b>—Subsec. (j). Pub. L. 108–136 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "Amounts for payment of incentives under subsection (e), including payment of allowances for educational assistance under that subsection, shall be derived from amounts available to the Secretary of the military department concerned for payment of pay, allowances, and other expenses of the members of the armed force concerned."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

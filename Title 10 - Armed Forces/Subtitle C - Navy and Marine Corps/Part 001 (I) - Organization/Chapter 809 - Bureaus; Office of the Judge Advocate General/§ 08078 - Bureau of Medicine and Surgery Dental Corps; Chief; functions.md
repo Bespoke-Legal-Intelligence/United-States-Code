@@ -36,6 +36,8 @@ Dec. 28, 1945, ch. 604, §2, 59 Stat. 666.
 
 Dec. 28, 1945, ch. 604, §3, 59 Stat. 666; Aug. 7, 1947, ch. 512, §427, 61 Stat. 880; Oct. 18, 1951, ch. 513, 65 Stat. 450.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 5133 of this title, referred to in subsec. (b), was repealed by Pub. L. 114–328, div. A, title V, §502(z)(1), Dec. 23, 2016, 130 Stat. 2104.
@@ -80,6 +82,8 @@ Subsec. (d). Pub. L. 109–364, §593(b), amended subsec. (d) generally. Prior t
 
 <b>1962</b>—Subsec. (b). Pub. L. 87–649 struck out "pay, allowances, and" after "entitled to the same". See Title 37, Pay and Allowances of the Uniformed Services.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
@@ -94,7 +98,7 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to pre
 
 #### Effective Date of 1962 Amendment
 
-Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as an EffectiveDate note preceding section 101 of Title 37, Pay and Allowances of the Uniformed Services.
+Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as an Effective Date note preceding section 101 of Title 37, Pay and Allowances of the Uniformed Services.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

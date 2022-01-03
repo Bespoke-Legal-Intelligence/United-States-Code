@@ -118,7 +118,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;No stock shall be taken into account for purposes of applying this paragraph unlessit is non-readily-tradable stock (within the meaning of paragraph (7)(B)).
+&emsp;&emsp;&emsp;No stock shall be taken into account for purposes of applying this paragraph unless it is non-readily-tradable stock (within the meaning of paragraph (7)(B)).
 
 #### (ii) Special application where only holding company stock is non-readily-tradable stock
 
@@ -180,7 +180,7 @@
 
 #### (i) Stock in qualifying lending and finance business treated as stock in an active trade or business company
 
-&emsp;&emsp;&emsp;For purposes of this section, any asset used in a qualifying lending and finance business shall be treated as an asset which is used in carrying on a trade or business.
+&emsp;&emsp;&emsp;For purposes of this section, any asset used in a qualifying lending and financebusiness shall be treated as an asset which is used in carrying on a trade or business.
 
 #### (ii) 5-year deferral for principal not to apply
 
@@ -272,7 +272,7 @@ If the time for payment of any amount of tax has been extended under this sectio
 
 &emsp;&emsp;&emsp;(ii) for purposes of subparagraph (A), the value of the interest in the closely held business shall be considered to be such value reduced by the value of the stock redeemed.
 
-> &emsp;&emsp;This subparagraph shall apply only if, on or before the date prescribed by subsection (a)(3) for the payment of the first installment which becomes due after the date ofthe distribution (or, if earlier, on or before the day which is 1 year after the date of the distribution), there is paid an amount of the tax imposed by section 2001 not less than the amount of money and other property distributed.
+> &emsp;&emsp;This subparagraph shall apply only if, on or before the date prescribed by subsection (a)(3) for the payment of the first installment which becomes due after the date of the distribution (or, if earlier, on or before the day which is 1 year after the date of the distribution), there is paid an amount of the tax imposed by section 2001 not less than the amount of money and other property distributed.
 
 &emsp;&emsp;(C) Subparagraph (A)(i) does not apply to an exchange of stock pursuant to a plan of reorganization described in subparagraph (D), (E), or (F) of section 368(a)(1) nor to an exchange to which section 355 (or so much of section 356 as relates to section 355) applies; but any stock received in such an exchange shall be treated for purposes of subparagraph (A)(i) as an interest qualifying under subsection (a)(1).
 
@@ -308,7 +308,7 @@ If the time for payment of any amount of tax has been extended under this sectio
 
 &emsp;&emsp;&emsp;(ii) the amount of tax imposed for the taxable year on the estate under chapter 1; and
 
-&emsp;&emsp;&emsp;(iii) the amount of the tax imposed by section 2001 (including interest) paid by the executor during the taxable year (other than any amount paid pursuant to this paragraph).
+&emsp;&emsp;&emsp;(iii) the amount of the tax imposed by section 2001 (including interest) paid bythe executor during the taxable year (other than any amount paid pursuant to this paragraph).
 
 &emsp;&emsp;(C) For purposes of this paragraph, if any stock in a corporation is treated as stock in another corporation by reason of subsection (b)(8)(A), any dividends paid by such other corporation to the corporation shall be treated as paid to the estate of the decedent to the extent attributable to the stock qualifying under subsection (a)(1).
 
@@ -388,6 +388,8 @@ The Secretary shall prescribe such regulations as may be necessary to the applic
 
 (Added Pub. L. 94–455, title XX, §2004(a), Oct. 4, 1976, 90 Stat. 1862; amended Pub. L. 95–600, title V, §512(a), (b), Nov. 6, 1978, 92 Stat. 2882, 2883; Pub. L. 97–34, title IV, §422(a), (c), (e)(5)(A), (B), Aug. 13, 1981, 95 Stat. 314–316; Pub. L. 97–448, title I, §104(c), (d)(1)(B), Jan. 12, 1983, 96 Stat. 2382, 2383; Pub. L. 98–369, div. A, title V, §544(b)(4), title X, §1021(a)–(d), July 18, 1984, 98 Stat. 894, 1024–1026; Pub. L. 99–514, title XIV, §1432(e), Oct. 22, 1986, 100 Stat. 2730; Pub. L. 104–188, title I, §1704(t)(15), Aug. 20, 1996, 110 Stat. 1888; Pub. L. 105–34, title V, §503(c)(1), Aug. 5, 1997, 111 Stat. 853; Pub. L. 105–206, title VI, §6007(c), July 22, 1998, 112 Stat. 809; Pub. L. 106–554, §1(a)(7) \[title III, §319(18)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–647; Pub. L. 107–16, title V, §§571(a), 572(a), 573(a), June 7, 2001, 115 Stat. 92, 93.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 6166 was renumbered section 6166A of this title and later repealed by Pub. L. 97–34, title IV, §422(d), Aug. 13, 1981, 95 Stat. 315.
@@ -428,7 +430,7 @@ Subsec. (j)(6). Pub. L. 98–369, §544(b)(4), added par. (6).
 
 <b>1983</b>—Subsec. (b)(3). Pub. L. 97–448, §104(c)(1), substituted "35-percent requirement" for "65-percent requirement".
 
-Subsec. (g)(1)(B)(i). Pub. L. 97–448, §104(c)(2), substituted "the redemption of such stock, and the withdrawal of money or other property distributed in such redemption, shall not be treated as a distribution or withdrawal for purposes of subparagraph (A), and" for "subparagraph (A)(i) does not apply with respect to the stock redeemed; and for purposes of such subparagraphthe interest in the closely held business shall be considered to be such interest reduced by the value of the stock redeemed, and".
+Subsec. (g)(1)(B)(i). Pub. L. 97–448, §104(c)(2), substituted "the redemption of such stock, and the withdrawal of money or other property distributed in such redemption, shall not be treated as a distribution or withdrawal for purposes of subparagraph (A), and" for "subparagraph (A)(i) does not apply with respect to the stock redeemed; and for purposes of such subparagraph the interest in the closely held business shall be considered to be such interest reduced by the value of the stock redeemed, and".
 
 Subsec. (g)(1)(B)(ii). Pub. L. 97–448, §104(c)(2), substituted "for purposes of subparagraph (A), the value of the interest in the closely held business shall be considered to be such value reduced by the value of the stock redeemed" for "subparagraph (A)(ii) does not apply with respect to withdrawals of money and other property distributed; and for purposes of such subparagraph the value of the trade or business shall be considered to be such value reduced by the amount of money and other property distributed".
 
@@ -449,6 +451,8 @@ Subsec. (g)(3). Pub. L. 97–34, §422(c)(2), substituted as heading "Failure to
 <b>1978</b>—Subsec. (b)(2)(D). Pub. L. 95–600, §512(a), added subpar. (D).
 
 Subsec. (b)(7). Pub. L. 95–600, §512(b), added par. (7).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2001 Amendment
 
@@ -472,7 +476,7 @@ Amendment by Pub. L. 99–514 applicable to generation-skipping transfers (withi
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 544(b)(4) of Pub. L. 98–369 applicable to estates of decedents which are required to file returns on a date (including any extensions) after July 18, 1984, see section 544(d) of Pub. L. 98–369, set out as a note under section 2002 of this title.
+Amendment by section 544(b)(4) of Pub. L. 98–369 applicable to estates of decedents which are required tofile returns on a date (including any extensions) after July 18, 1984, see section 544(d) of Pub. L. 98–369, set out as a note under section 2002 of this title.
 
 Pub. L. 98–369, div. A, title X, §1021(e), July 18, 1984, 98 Stat. 1026, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
@@ -520,7 +524,7 @@ Pub. L. 95–600, title V, §512(c), Nov. 6, 1978, 92 Stat. 2883, provided that:
 
 #### Effective Date
 
-Pub. L. 94–455, title XX, §2004(g), Oct. 4, 1976, 90 Stat. 1872, provided that: "The amendments made by this section \[enacting this section and section 6324A of this title and amending sections 303, 2011, 2204, 6136, 6161,6503, 6601, and 7403 of this title\] shall apply to the estates of decedents dying after December 31, 1976."
+Pub. L. 94–455, title XX, §2004(g), Oct. 4, 1976, 90 Stat. 1872, provided that: "The amendments made by this section \[enacting this section and section 6324A of this title and amending sections 303, 2011, 2204, 6136, 6161, 6503, 6601, and 7403 of this title\] shall apply to the estates of decedents dying after December 31, 1976."
 
 #### Land Diverted Under 1983 Payment-in-Kind Program
 

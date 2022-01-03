@@ -10,7 +10,7 @@ Third. Such as shall be conveyed to it in satisfaction of debts previously contr
 
 Fourth. Such as it shall purchase at sales under judgments, decrees, or mortgages held by the association, or shall purchase to secure debts due to it.
 
-But no such association shall hold the possession of any real estate under mortgage, or thetitle and possession of any real estate purchased to secure any debts due to it, for a longer period than five years except as otherwise provided in this section.
+But no such association shall hold the possession of any real estate under mortgage, or the title and possession of any real estate purchased to secure any debts due to it, for a longer period than five years except as otherwise provided in this section.
 
 For real estate in the possession of a national banking association upon application by the association, the Comptroller of the Currency may approve the possession of any such real estate by such association for a period longer than five years, but not to exceed an additional five years, if (1) the association has made a good faith attempt to dispose of the real estate within the five-year period, or (2) disposal within the five-year period would be detrimental to the association. Upon notification by the association to the Comptroller of the Currency that such conditions exist that require the expenditure of funds for the development and improvement of such real estate, and subject to such conditions and limitations as the Comptroller of the Currency shall prescribe, the association may expend such funds as are needed to enable such association to recover its total investment.
 

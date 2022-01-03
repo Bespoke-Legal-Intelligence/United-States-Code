@@ -40,9 +40,13 @@ As used in this section, the term "entry" includes a withdrawal from warehouse f
 
 <i>For termination of section by section 107(d) of Pub. L. 109–53, see Effective and Termination Dates note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (a)(2). Pub. L. 109–280 inserted "or any other CAFTA–DR country" after "that country".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

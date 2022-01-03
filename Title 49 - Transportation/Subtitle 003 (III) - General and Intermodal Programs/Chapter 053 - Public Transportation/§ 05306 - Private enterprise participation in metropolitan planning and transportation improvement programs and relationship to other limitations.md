@@ -38,6 +38,8 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §8(m); added Nov. 6, 1978, Pub. L
 
 In subsection (a), the words "(through modernization, extension, addition, or otherwise)" are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Subsec. (a). Pub. L. 109–59 inserted ", as determined by local policies, criteria, and decisionmaking," after "feasible".

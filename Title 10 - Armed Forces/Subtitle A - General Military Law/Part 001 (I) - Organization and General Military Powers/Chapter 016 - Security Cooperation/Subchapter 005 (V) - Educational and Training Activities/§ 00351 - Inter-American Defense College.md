@@ -48,6 +48,8 @@ Logistic Support, Supplies, and Services Defined.—In this section, the term "l
 
 (Added Pub. L. 115–232, div. A, title XII, §1207(a), Aug. 13, 2018, 132 Stat. 2019.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 351 was renumbered section 261 of this title.

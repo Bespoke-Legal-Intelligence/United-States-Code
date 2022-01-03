@@ -2,7 +2,7 @@
 
 (a)
 
-Decisions Made Before October 1, 1988.—For each eligible place for which a decision was made before October 1, 1988, under section 419 of the Federal Aviation Act of 1958, establishing the level of essential air transportation, the level of basic essential air service for that place shall be the level established by the Secretary of Transportation for that place by not later than December 29, 1988.
+Decisions Made Before October 1, 1988.—For each eligible place for which a decision wasmade before October 1, 1988, under section 419 of the Federal Aviation Act of 1958, establishing the level of essential air transportation, the level of basic essential air service for that place shall be the level established by the Secretary of Transportation for that place by not later than December 29, 1988.
 
 (b)
 
@@ -128,6 +128,8 @@ In section (b)(2), the words "that appears to deprive" are substituted for "whic
 
 In subsection (c)(1), before clause (A), the words "an air carrier may apply to provide basic essential air service to the place for compensation" are substituted for "applications may be submitted by any air carrier that is willing to provide such service to such point for compensation" for clarity and to eliminate unnecessary words.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 419 of the Federal Aviation Act of 1958, referred to in subsec. (a), is section 419 of Pub. L. 85–726, which was classified to section 1389 of former Title 49, Transportation, and was repealed and reenacted as this subchapter by Pub. L. 103–272, §§1(e), 7(b), July 5, 1994, 108 Stat. 1143, 1379.
@@ -145,6 +147,8 @@ Subsec. (f). Pub. L. 112–95, §424, added subsec. (f).
 Subsecs. (g), (h). Pub. L. 112–95, §425, added subsecs. (g) and (h).
 
 <b>2000</b>—Subsec. (e). Pub. L. 106–181 inserted before period at end ", to the extent such adjustments are to a level not less than the basic essential air service level established under subsection (a) for the airport that serves the community".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

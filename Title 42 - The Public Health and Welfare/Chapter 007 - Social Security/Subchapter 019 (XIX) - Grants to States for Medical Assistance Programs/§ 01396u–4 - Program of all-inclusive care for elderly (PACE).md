@@ -44,7 +44,7 @@
 
 &emsp;&emsp;&emsp;(i) to entities subject to a demonstration project waiver under subsection (h); and
 
-&emsp;&emsp;&emsp;(ii) after the date the report under section 4804(b) of the Balanced Budget Act of 1997 is submitted, unless the Secretary determines that any of the findings describedin subparagraph (A), (B), (C), or (D) of paragraph (2) of such section are true.
+&emsp;&emsp;&emsp;(ii) after the date the report under section 4804(b) of the Balanced Budget Act of 1997 is submitted, unless the Secretary determines that any of the findings described in subparagraph (A), (B), (C), or (D) of paragraph (2) of such section are true.
 
 #### (4) "PACE program agreement" defined
 
@@ -98,7 +98,7 @@
 
 &emsp;Under a PACE program agreement, a PACE provider shall—
 
-&emsp;&emsp;(A) provide to PACE program eligible individuals, regardless of source of payment and directly or under contracts with other entities, at a minimum—
+&emsp;&emsp;(A) provide to PACE program eligible individuals, regardless of source of payment anddirectly or under contracts with other entities, at a minimum—
 
 &emsp;&emsp;&emsp;(i) all items and services covered under subchapter XVIII (for individuals enrolled under section 1395eee of this title) and all items and services covered under this subchapter, but without any limitation or condition as to amount, duration, or scope and without application of deductibles, copayments, coinsurance, or other cost-sharing that would otherwise apply under such subchapter or this subchapter, respectively; and
 
@@ -116,7 +116,7 @@
 
 &emsp;&emsp;(A) a written plan of quality assurance and improvement, and procedures implementing such plan, in accordance with regulations, and
 
-&emsp;&emsp;(B) written safeguards of the rights of enrolled participants (including a patient bill of rights and procedures for grievances and appeals) in accordance with regulations andwith other requirements of this subchapter and Federal and State law designed for the protection of patients.
+&emsp;&emsp;(B) written safeguards of the rights of enrolled participants (including a patient bill of rights and procedures for grievances and appeals) in accordance with regulations and with other requirements of this subchapter and Federal and State law designed for the protection of patients.
 
 #### (3) Treatment of medicare services furnished by noncontract physicians and other entities
 
@@ -158,7 +158,7 @@
 
 #### (4) Continuation of eligibility
 
-&emsp;An individual who is a PACE program eligible individual may be deemed to continue to be such an individual notwithstanding a determination that the individual no longer meets the requirement of subsection (a)(5)(B) if, in accordance with regulations, in the absence of continued coverage under a PACE program the individual reasonably would be expected to meet such requirement within the succeeding 6-month period.
+&emsp;An individual who is a PACE program eligible individual may be deemed to continue to be such an individual notwithstanding a determination that the individual no longer meetsthe requirement of subsection (a)(5)(B) if, in accordance with regulations, in the absence of continued coverage under a PACE program the individual reasonably would be expected to meet such requirement within the succeeding 6-month period.
 
 #### (5) Enrollment; disenrollment
 
@@ -258,7 +258,7 @@
 
 #### (ii) Requirements during trial period
 
-&emsp;&emsp;&emsp;During the first 3 years of operation of a PACE program (either under this sectionor under a PACE demonstration waiver program), the PACE provider shall provide such additional data as the Secretary specifies in regulations in order to perform the oversight required under paragraph (4)(A).
+&emsp;&emsp;&emsp;During the first 3 years of operation of a PACE program (either under this section or under a PACE demonstration waiver program), the PACE provider shall provide such additional data as the Secretary specifies in regulations in order to perform the oversight required under paragraph (4)(A).
 
 #### (B) Development of outcome measures
 
@@ -332,7 +332,7 @@
 
 #### (7) Procedures for termination or imposition of sanctions
 
-&emsp;Under regulations, the provisions of section 1395w–27(h) of this title (or for periods beforeJanuary 1, 1999, section 1395mm(i)(9) of this title) shall apply to termination and sanctions respecting a PACE program agreement and PACE provider under this subsection in the same manner as they apply to a termination and sanctions with respect to a contract and a Medicare+Choice organization under part C of subchapter XVIII (or for such periods an eligible organization under section 1395mm of this title).
+&emsp;Under regulations, the provisions of section 1395w–27(h) of this title (or for periods before January 1, 1999, section 1395mm(i)(9) of this title) shall apply to termination and sanctions respecting a PACE program agreement and PACE provider under this subsection in the same manner as they apply to a termination and sanctions with respect to a contract and a Medicare+Choice organization under part C of subchapter XVIII (or for such periods an eligible organization under section 1395mm of this title).
 
 #### (8) Timely consideration of applications for PACE program provider status
 
@@ -372,7 +372,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In issuing such regulations and subject to subparagraph (B), the Secretary may apply with respect to PACE programs, providers, and agreements such requirements of part C of subchapter XVIII (or, for periods before January 1, 1999, section 1395mm of this title) and sections 1396b(m) and 1396u–2 of this title relating to protection of beneficiaries and program integrity as would apply to Medicare+Choice organizations under such part C (or for such periods eligible organizations under risk-sharing contracts under section 1395mm of this title) and to medicaid managed care organizations under prepaid capitation agreements under section 1396b(m) of this title.
+&emsp;&emsp;In issuing such regulations and subject to subparagraph (B), the Secretary may apply with respect to PACE programs, providers, and agreements such requirements of part C of subchapter XVIII (or, for periods beforeJanuary 1, 1999, section 1395mm of this title) and sections 1396b(m) and 1396u–2 of this title relating to protection of beneficiaries and program integrity as would apply to Medicare+Choice organizations under such part C (or for such periods eligible organizations under risk-sharing contracts under section 1395mm of this title) and to medicaid managed care organizations under prepaid capitation agreements under section 1396b(m) of this title.
 
 #### (B) Considerations
 
@@ -428,6 +428,8 @@ Nothing in this section or section 1395eee of this title shall be construed as p
 
 (Aug. 14, 1935, ch. 531, title XIX, §1934, as added Pub. L. 105–33, title IV, §4802(a)(3), Aug. 5, 1997, 111 Stat. 539; amended Pub. L. 106–554, §1(a)(6) \[title IX, §902(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–583; Pub. L. 108–173, title II, §236(b)(2), Dec. 8, 2003, 117 Stat. 2211.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Internal Revenue Code of 1986, referred to in subsec. (a)(3)(A)(i), is classified generally to Title 26, Internal Revenue Code.
@@ -440,7 +442,7 @@ Section 9220 of the Consolidated Omnibus Budget Reconciliation Act of 1985, refe
 
 Section 9412(b) of the Omnibus Budget Reconciliation Act of 1986, referred to in subsecs. (a)(7)(B) and (e)(1)(B)(i), is section 9412(b) of Pub. L. 99–509, title IX, Oct. 21, 1986, 100 Stat. 2062, which was not classified to the Code and was repealed by Pub. L. 105–33, title IV, §4803(d), Aug. 5, 1997, 111 Stat. 550, subject to transition provisions.
 
-For the effective date of this section, referred to in subsec. (a)(9)(B), see section 4803 of Pub. L. 105–33, set out as a Transition; Regulations note under section 1395eee of this title.
+For the effective date of this section, referred to in subsec. (a)(9)(B), see section 4803 of Pub. L. 105–33, setout as a Transition; Regulations note under section 1395eee of this title.
 
 #### Prior Provisions
 
@@ -451,6 +453,8 @@ A prior section 1934 of act Aug. 14, 1935, was renumbered section 1939 and is cl
 <b>2003</b>—Subsec. (b)(3), (4). Pub. L. 108–173 added pars. (3) and (4).
 
 <b>2000</b>—Subsec. (f)(2)(C). Pub. L. 106–554 added subpar. (C).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

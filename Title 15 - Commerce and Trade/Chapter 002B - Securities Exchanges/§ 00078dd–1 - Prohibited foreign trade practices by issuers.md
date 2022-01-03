@@ -38,7 +38,7 @@ It shall be an affirmative defense to actions under subsection (a) or (g) that�
 
 &emsp;(1) the payment, gift, offer, or promise of anything of value that was made, was lawful under the written laws and regulations of the foreign official's, political party's, party official's, or candidate's country; or
 
-&emsp;(2) the payment, gift, offer, or promise of anything of value that was made, was a reasonable and bona fide expenditure, such as travel and lodging expenses, incurred by or onbehalf of a foreign official, party, party official, or candidate and was directly related to—
+&emsp;(2) the payment, gift, offer, or promise of anything of value that was made, was a reasonable and bona fide expenditure, such as travel and lodging expenses, incurred by or on behalf of a foreign official, party, party official, or candidate and was directly related to—
 
 &emsp;&emsp;(A) the promotion, demonstration, or explanation of products or services; or
 
@@ -74,7 +74,7 @@ For purposes of this section:
 
 &emsp;&emsp;(i) an organization that is designated by Executive order pursuant to section 288 of title 22; or
 
-&emsp;&emsp;(ii) any other international organization that is designated by the President by Executive order for the purposes of this section,effective as of the date of publication of such order in the Federal Register.
+&emsp;&emsp;(ii) any other international organization that is designated by the President by Executive order for the purposes of this section, effective as of the date of publication of such order in the Federal Register.
 
 &emsp;(2)(A) A person's state of mind is "knowing" with respect to conduct, a circumstance, or a result if—
 
@@ -106,6 +106,8 @@ For purposes of this section:
 
 (June 6, 1934, ch. 404, title I, §30A, as added Pub. L. 95–213, title I, §103(a), Dec. 19, 1977, 91 Stat. 1495; amended Pub. L. 100–418, title V, §5003(a), Aug. 23, 1988, 102 Stat. 1415; Pub. L. 105–366, §2(a)–(c), Nov. 10, 1998, 112 Stat. 3302, 3303.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Subsec. (a)(1)(A). Pub. L. 105–366, §2(a)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows:
@@ -130,6 +132,8 @@ Subsec. (g). Pub. L. 105–366, §2(c)(1), added subsec. (g).
 
 <b>1988</b>—Pub. L. 100–418 substituted "Prohibited foreign trade" for "Foreign corrupt" in section catchline and amended text generally, revising and restating provisions of subsec. (a) relating to prohibitions, adding subsecs. (b) to (e), and redesignating provisions of subsec. (b) relating to definitions as subsec. (f) and amending those provisions generally.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Treatment of International Organizations Providing Commercial Communications Services
 
 Pub. L. 105–366, §5, Nov. 10, 1998, 112 Stat. 3309, provided that:
@@ -142,7 +146,7 @@ Definition.—For purposes of this section:
 
 International organization providing commercial communications services.—The term 'international organization providing commercial communications services' means—
 
-&emsp;&emsp;"(A) the International Telecommunications Satellite Organization established pursuant to theAgreement Relating to the International Telecommunications Satellite Organization; and
+&emsp;&emsp;"(A) the International Telecommunications Satellite Organization established pursuant to the Agreement Relating to the International Telecommunications Satellite Organization; and
 
 &emsp;&emsp;"(B) the International Mobile Satellite Organization established pursuant to the Convention on the International Maritime Satellite Organization.
 
@@ -286,7 +290,7 @@ Report to congress.—(A) Within 1 year after the date of the enactment of this 
 
 &emsp;"(i) the progress of the negotiations referred to in paragraph (1),\[;\]
 
-&emsp;"(ii) those steps which the executive branch and the Congress should consider taking in the event that these negotiations do not successfully eliminate any competitive disadvantage of United States businesses that results when persons from other countries commit the acts described in paragraph (1); and
+&emsp;"(ii) those steps which the executive branch and the Congress should consider taking in the event that these negotiations do not successfully eliminate any competitive disadvantage of United States businessesthat results when persons from other countries commit the acts described in paragraph (1); and
 
 &emsp;"(iii) possible actions that could be taken to promote cooperation by other countries in international efforts to prevent bribery of foreign officials, candidates, or parties in third countries.
 
@@ -299,6 +303,8 @@ Report to congress.—(A) Within 1 year after the date of the enactment of this 
 &emsp;"(iii) an assessment of the current and future role of private initiatives in curtailing such acts."
 
 \[For delegation of functions of the President under section 5003(d)(1) of Pub. L. 100–418 to the Secretary of State, see section 3–101 of Ex. Ord. No. 12661, Dec. 27, 1988, 54 F.R. 779, set out as a note under section 2901 of Title 19, Customs Duties.\]
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13259. Designation of Public International Organizations for Purposes of the Securities Exchange Act of 1934 and the Foreign Corrupt Practices Act of 1977
 

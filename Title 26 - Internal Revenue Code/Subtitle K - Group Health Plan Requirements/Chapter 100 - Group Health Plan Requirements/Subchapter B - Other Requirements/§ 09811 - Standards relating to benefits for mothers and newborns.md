@@ -16,7 +16,7 @@
 
 #### (2) Exception
 
-&emsp;Paragraph (1)(A) shall not apply in connection with any group health plan in any case in which the decision to discharge the mother or her newborn child prior to the expiration ofthe minimum length of stay otherwise required under paragraph (1)(A) is made by an attending provider in consultation with the mother.
+&emsp;Paragraph (1)(A) shall not apply in connection with any group health plan in any case in which the decision to discharge the mother or her newborn child prior to the expiration of the minimum length of stay otherwise required under paragraph (1)(A) is made by an attending provider in consultation with the mother.
 
 #### (b) Prohibitions
 
@@ -50,7 +50,7 @@ Nothing in this section shall be construed to prevent a group health plan from n
 
 #### (e) Preemption; exception for health insurance coverage in certain States
 
-The requirements of this section shall not apply with respect to health insurance coverage if there is a State law (including a decision, rule, regulation, or other State action having the effect of law) for a State that regulates such coverage that is described in any of the following paragraphs:
+The requirements of this section shall not apply with respect to health insurance coverage if there is a State law (including a decision, rule, regulation, or other State action havingthe effect of law) for a State that regulates such coverage that is described in any of the following paragraphs:
 
 &emsp;(1) Such State law requires such coverage to provide for at least a 48-hour hospital length of stay following a normal vaginal delivery and at least a 96-hour hospital length of stay following a caesarean section.
 
@@ -60,9 +60,13 @@ The requirements of this section shall not apply with respect to health insuranc
 
 (Added Pub. L. 105–34, title XV, §1531(a)(4), Aug. 5, 1997, 111 Stat. 1081; amended Pub. L. 105–206, title VI, §6015(e), July 22, 1998, 112 Stat. 821.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Subsecs. (e), (f). Pub. L. 105–206 redesignated subsec. (f) as (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

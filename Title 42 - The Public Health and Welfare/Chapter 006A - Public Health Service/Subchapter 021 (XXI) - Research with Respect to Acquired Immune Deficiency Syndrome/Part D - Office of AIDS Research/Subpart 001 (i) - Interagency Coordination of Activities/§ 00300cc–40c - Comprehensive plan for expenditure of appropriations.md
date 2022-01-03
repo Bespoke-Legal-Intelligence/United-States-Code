@@ -74,6 +74,8 @@ With respect to AIDS activities of the agencies of the National Institutes of He
 
 (July 1, 1944, ch. 373, title XXIII, §2353, as added Pub. L. 103–43, title XVIII, §1801(a)(3), June 10, 1993, 107 Stat. 194.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 300cc–40b of this title.

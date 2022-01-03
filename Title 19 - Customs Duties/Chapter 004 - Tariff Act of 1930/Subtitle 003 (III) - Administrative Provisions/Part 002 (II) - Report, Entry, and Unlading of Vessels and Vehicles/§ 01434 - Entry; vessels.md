@@ -32,7 +32,9 @@ The Secretary may by regulation—
 
 &emsp;(3) authorize the Customs Service to permit entry or preliminary entry of any vessel to be made at a place other than a designated port of entry, under such conditions as may be prescribed.
 
-(June 17, 1930, ch. 497, title IV, §434, 46 Stat. 711; Aug. 5, 1935, ch. 438, title III. §301, 49 Stat. 527; Pub. L. 91–271, title III, §301(b), June 2, 1970, 84Stat. 287; Pub. L. 103–182, title VI, §653, Dec. 8, 1993, 107 Stat. 2210; Pub. L. 106–476, title I, §1452(a)(2), Nov. 9, 2000, 114 Stat. 2167.)
+(June 17, 1930, ch. 497, title IV, §434, 46 Stat. 711; Aug. 5, 1935, ch. 438, title III. §301, 49 Stat. 527; Pub. L. 91–271, title III, §301(b), June 2, 1970, 84 Stat. 287; Pub. L. 103–182, title VI, §653, Dec. 8, 1993, 107 Stat. 2210; Pub. L. 106–476, title I, §1452(a)(2), Nov. 9, 2000, 114 Stat. 2167.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -58,6 +60,8 @@ Special provisions to facilitate the entry of steamships running in an establish
 
 <b>1935</b>—Act Aug. 5, 1935, inserted "or document in lieu thereof" after "indicated in the register".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–476, except as otherwise provided, applicable with respect to goods entered, or withdrawn from warehouse, for consumption, on or after the 15th day after Nov. 9, 2000, see section 1471 of Pub. L. 106–476, set out as a note under section 58c of this title.
@@ -68,5 +72,5 @@ For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs andBorder Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 

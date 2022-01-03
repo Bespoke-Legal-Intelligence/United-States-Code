@@ -6,7 +6,7 @@
 
 &emsp;(2) a creditor that extends credit to the debtor at the time of the commencement of the case, and obtains, at such time and with respect to such credit, an execution against the debtor that is returned unsatisfied at such time, whether or not such a creditor exists; or
 
-&emsp;(3) a bona fide purchaser of real property, other than fixtures, from the debtor, against whom applicable law permits such transfer to be perfected, that obtains the status of a bonafide purchaser and has perfected such transfer at the time of the commencement of the case, whether or not such a purchaser exists.
+&emsp;(3) a bona fide purchaser of real property, other than fixtures, from the debtor, against whom applicable law permits such transfer to be perfected, that obtains the status of a bona fide purchaser and has perfected such transfer at the time of the commencement of the case, whether or not such a purchaser exists.
 
 (b)(1) Except as provided in paragraph (2), the trustee may avoid any transfer of an interest of the debtor in property or any obligation incurred by the debtor that is voidable under applicable law by a creditor holding an unsecured claim that is allowable under section 502 of this title or that is not allowable only under section 502(e) of this title.
 

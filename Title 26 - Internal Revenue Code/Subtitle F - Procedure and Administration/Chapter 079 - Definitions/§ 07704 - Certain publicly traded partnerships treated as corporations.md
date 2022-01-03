@@ -24,7 +24,7 @@ For purposes of this section, the term "publicly traded partnership" means any p
 
 #### (3) Exception not to apply to certain partnerships which could qualify as regulated investment companies
 
-&emsp;This subsection shall not apply to any partnership which would be described in section 851(a) if such partnership were a domestic corporation. To the extent provided in regulations, the preceding sentence shall not apply to any partnership a principal activity of which is the buying and selling of commodities (not described in section 1221(a)(1)), or options, futures, or forwards with respect to commodities.
+&emsp;This subsection shall not apply to any partnership which would be described in section 851(a) if such partnership were a domestic corporation. To the extent provided in regulations, the preceding sentence shall not apply to any partnership a principal activity ofwhich is the buying and selling of commodities (not described in section 1221(a)(1)), or options, futures, or forwards with respect to commodities.
 
 #### (d) Qualifying income
 
@@ -134,13 +134,15 @@ As of the 1st day that a partnership is treated as a corporation under this sect
 
 (Added Pub. L. 100–203, title X, §10211(a), Dec. 22, 1987, 101 Stat. 1330–403; amended Pub. L. 100–647, title II, §2004(f)(1), (3)–(5), Nov. 10, 1988, 102 Stat. 3602, 3603; Pub. L. 105–34, title IX, §964(a), Aug. 5, 1997, 111 Stat. 892; Pub. L. 105–206, title VI, §6009(b)(1), July 22, 1998, 112 Stat. 812; Pub. L. 106–170, title V, §532(c)(2)(V)–(Y), Dec. 17, 1999, 113 Stat. 1931; Pub. L. 108–357, title III, §331(e), Oct. 22, 2004, 118 Stat. 1476; Pub. L. 110–343, div. B, title I, §116(a), title II, §208(a), Oct. 3, 2008, 122 Stat. 3831, 3840.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 10211(c)(2) of the Revenue Reconciliation Act of 1987, referred to in subsec. (g)(2)(A), probably means section 10211(c)(2) of the Revenue Act of 1987, title X of Pub. L. 100–203, which is set out as a note below.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (d)(1)(E). Pub. L. 110–343, §208(a), substituted ", industrial source carbon dioxide, or thetransportation or storage of any fuel described in subsection (b), (c), (d), or (e) of section 6426, or any alcohol fuel defined in section 6426(b)(4)(A) or any biodiesel fuel as defined in section 40A(d)(1)" for "or industrial source carbon dioxide".
+<b>2008</b>—Subsec. (d)(1)(E). Pub. L. 110–343, §208(a), substituted ", industrial source carbon dioxide, or the transportation or storage of any fuel described in subsection (b), (c), (d), or (e) of section 6426, or any alcohol fuel defined in section 6426(b)(4)(A) or any biodiesel fuel as defined in section 40A(d)(1)" for "or industrial source carbon dioxide".
 
 Pub. L. 110–343, §116(a), inserted "or industrial source carbon dioxide" before comma at end.
 
@@ -159,6 +161,8 @@ Subsec. (d)(1). Pub. L. 100–647, §2004(f)(4), inserted at end "For purposes o
 Subsec. (d)(3). Pub. L. 100–647, §2004(f)(5), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "The term 'real property rent' means amounts which would qualify as rent from real property under section 856(d) if such section were applied without regard to paragraph (2)(C) thereof (relating to independent contractor requirements)."
 
 Subsec. (e)(4). Pub. L. 100–647, §2004(f)(1), inserted "or to pay such amounts" before "as may be required".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

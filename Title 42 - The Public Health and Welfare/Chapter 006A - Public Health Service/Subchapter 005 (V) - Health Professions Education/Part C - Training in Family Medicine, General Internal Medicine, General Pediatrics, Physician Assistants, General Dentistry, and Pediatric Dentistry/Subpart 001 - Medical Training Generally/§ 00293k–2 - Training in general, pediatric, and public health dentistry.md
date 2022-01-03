@@ -52,7 +52,7 @@ With respect to training provided for under this section, the Secretary shall gi
 
 &emsp;(4) Qualified applicants that establish formal relationships with Federally qualified health centers, rural health centers, or accredited teaching facilities and that conduct training of students, residents, fellows, or faculty at the center or facility.
 
-&emsp;(5) Qualified applicants that conduct teaching programs targeting vulnerable populationssuch as older adults, homeless individuals, victims of abuse or trauma, individuals with mental health or substance use disorders, individuals with disabilities, and individuals with HIV/AIDS, and in the risk-based clinical disease management of all populations.
+&emsp;(5) Qualified applicants that conduct teaching programs targeting vulnerable populations such as older adults, homeless individuals, victims of abuse or trauma, individuals with mental health or substance use disorders, individuals with disabilities, and individuals with HIV/AIDS, and in the risk-based clinical disease management of all populations.
 
 &emsp;(6) Qualified applicants that include educational activities in cultural competency and health literacy.
 
@@ -77,6 +77,8 @@ For the purpose of carrying out subsections (a) and (b), there is authorized to 
 An entity that receives an award under this section may carry over funds from 1 fiscal year to another without obtaining approval from the Secretary. In no case may any funds be carried over pursuant to the preceding sentence for more than 3 years.
 
 (July 1, 1944, ch. 373, title VII, §748, as added Pub. L. 111–148, title V, §5303(2), Mar. 23, 2010, 124 Stat. 618; amended Pub. L. 116–136, div. A, title III, §3401(4), Mar. 27, 2020, 134 Stat. 386.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

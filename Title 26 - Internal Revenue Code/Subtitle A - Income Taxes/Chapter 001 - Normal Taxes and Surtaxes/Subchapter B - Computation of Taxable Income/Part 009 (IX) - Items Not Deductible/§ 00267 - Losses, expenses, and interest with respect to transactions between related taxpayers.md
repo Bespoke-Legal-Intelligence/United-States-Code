@@ -78,7 +78,7 @@ For purposes of determining, in applying subsection (b), the ownership of stock�
 
 &emsp;(4) The family of an individual shall include only his brothers and sisters (whether by the whole or half blood), spouse, ancestors, and lineal descendants; and
 
-&emsp;(5) Stock constructively owned by a person by reason of the application of paragraph (1) shall, for the purpose of applying paragraph (1), (2), or (3), be treated as actually owned by such person, but stock constructively owned by an individual by reason of the application of paragraph (2) or (3) shall not be treated as owned by him for the purpose of again applying either of such paragraphs in order to make another the constructive owner of such stock.
+&emsp;(5) Stock constructively owned by a person by reason of the application of paragraph (1) shall, for the purpose of applying paragraph\(1), (2), or (3), be treated as actually owned by such person, but stock constructively owned by an individual by reason of the application of paragraph (2) or (3) shall not be treated as owned by him for the purpose of again applying either of such paragraphs in order to make another the constructive owner of such stock.
 
 #### (d) Amount of gain where loss previously disallowed
 
@@ -238,11 +238,13 @@ Subsection (a)(1) shall not apply to any transfer described in section 1041(a) (
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 78; Pub. L. 95–628, §2(a), Nov. 10, 1978, 92 Stat. 3627; Pub. L. 97–354, §3(h), Oct. 19, 1982, 96 Stat. 1689; Pub. L. 98–369, div. A, title I, §174(a)–(b)(4), title VII, §721(s), July 18, 1984, 98 Stat. 704–707, 970; Pub. L. 99–514, title VIII, §§803(b)(5), 806(c)(2), title XVIII, §§1812(c)(1), (2), (3)(C), (4)(A), 1842(a), Oct. 22, 1986, 100 Stat. 2356, 2364, 2834, 2835, 2852; Pub. L. 100–647, title I, §§1006(e)(9), 1008(e)(6), Nov. 10, 1988, 102 Stat. 3401, 3441; Pub. L. 105–34, title XIII, §1308(a), title XVI, §1604(e)(1), Aug. 5, 1997, 111 Stat. 1041, 1098; Pub. L. 106–170, title V, §532(c)(2)(C), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 108–357, title VIII, §841(b), Oct. 22, 2004, 118 Stat. 1598; Pub. L. 111–325, title III, §306(b), Dec. 22, 2010, 124 Stat. 3549; Pub. L. 113–295, div. A, title II, §221(a)(44), Dec. 19, 2014, 128 Stat. 4044; Pub. L. 114–113, div. Q, title III, §345(a), Dec. 18, 2015, 129 Stat. 3115.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (d). Pub. L. 114–113 amended subsec. (d) generally. Prior to amendment, text read as follows: "If—
 
-&emsp;"(1) in the case of a sale or exchange of property to the taxpayer a loss sustained by the transferor is not allowable to the transferor as a deduction by reason of subsection (a)(1); and
+&emsp;"(1) in the case of a sale or exchange of property to the taxpayer a loss sustained by the transferor is notallowable to the transferor as a deduction by reason of subsection (a)(1); and
 
 &emsp;"(2) the taxpayer sells or otherwise disposes of such property (or of other property the basis of which in his hands is determined directly or indirectly by reference to such property) at a gain,
 
@@ -305,6 +307,8 @@ Pub. L. 98–369, §721(s), in closing provision of par. (1) substituted "then a
 Subsec. (f). Pub. L. 97–354, §3(h)(2), added subsec. (f).
 
 <b>1978</b>—Subsec. (e). Pub. L. 95–628 added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

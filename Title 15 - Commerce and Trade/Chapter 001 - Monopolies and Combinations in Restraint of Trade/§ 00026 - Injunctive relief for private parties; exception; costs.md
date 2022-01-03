@@ -4,15 +4,19 @@ Any person, firm, corporation, or association shall be entitled to sue for and h
 
 (Oct. 15, 1914, ch. 323, §16, 38 Stat. 737; Pub. L. 94–435, title III, §302(3), Sept. 30, 1976, 90 Stat. 1396; Pub. L. 104–88, title III, §318(3), Dec. 29, 1995, 109 Stat. 949.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The antitrust laws, referred to in text, are defined in section 12 of this title.
 
 #### Amendments
 
-<b>1995</b>—Pub. L. 104–88 substituted "for injunctive relief against any common carrier subject to the jurisdiction of the Surface Transportation Board under subtitle IV of title 49" for "in equity for injunctive relief against any common carrier subject to the provisions of the Act to regulate commerce, approved February fourth, eighteen hundred and eighty-seven, in respect of any matter subject to the regulation, supervision, or other jurisdiction of the Interstate Commerce Commission."
+<b>1995</b>—Pub. L. 104–88 substituted "for injunctive relief against any common carrier subject to the jurisdictionof the Surface Transportation Board under subtitle IV of title 49" for "in equity for injunctive relief against any common carrier subject to the provisions of the Act to regulate commerce, approved February fourth, eighteen hundred and eighty-seven, in respect of any matter subject to the regulation, supervision, or other jurisdiction of the Interstate Commerce Commission."
 
 <b>1976</b>—Pub. L. 94–435 inserted provision authorizing court to award costs, including attorneys' fees, to a successful plaintiff.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1995 Amendment
 

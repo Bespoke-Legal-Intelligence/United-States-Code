@@ -10,7 +10,7 @@ As used in sections 459c to 459c–7 of this title, the term "improved property"
 
 #### (c) Payment deferral; scheduling; interest rate
 
-In acquiring those lands authorized by the Ninety-fifth Congress for the purposes of sections 459c to 459c–7 of this title, the Secretary may, when agreed upon by the landowner involved, defer payment or schedule payments over a period of ten years and pay interest on the unpaid balance at a rate not exceeding that paid by the Treasury of the United States for borrowing purposes.
+In acquiring those lands authorized by the Ninety-fifth Congress for the purposes of sections 459c to 459c–7 of this title, the Secretary may, when agreed upon by the landowner involved, defer payment or schedule payments over a period of ten years and pay interest onthe unpaid balance at a rate not exceeding that paid by the Treasury of the United States for borrowing purposes.
 
 #### (d) Lands donated by State of California
 
@@ -22,11 +22,13 @@ Notwithstanding any other provision of law, no fee or admission charge may be le
 
 (Pub. L. 87–657, §5, formerly §6, Sept. 13, 1962, 76 Stat. 541; renumbered §5, Pub. L. 91–223, §2(c), Apr. 3, 1970, 84 Stat. 90; amended Pub. L. 95–625, title III, §318(b)–(d), Nov. 10, 1978, 92 Stat. 3487; Pub. L. 96–199, title I, §101(a)(2)–(4), Mar. 5, 1980, 94 Stat. 67.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–199, §101(a)(2), substituted "Except for property which the Secretary specifically determines is needed for interpretive or resources management purposes of the seashore, the" for "The" in first sentence.
 
-Subsec. (b). Pub. L. 96–199, §101(a)(3), inserted "or, in the case of areas inserted by action of the Ninety-sixthCongress, May 1, 1979," after "May 1, 1978" and "that were in existence or under construction as of May 1, 1978" after "related to the above uses of the property".
+Subsec. (b). Pub. L. 96–199, §101(a)(3), inserted "or, in the case of areas inserted by action of the Ninety-sixth Congress, May 1, 1979," after "May 1, 1978" and "that were in existence or under construction as of May 1, 1978" after "related to the above uses of the property".
 
 Subsecs. (d), (e). Pub. L. 96–199, §101(a)(4), added subsecs. (d) and (e).
 

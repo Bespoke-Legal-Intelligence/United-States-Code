@@ -48,6 +48,8 @@ As a condition of receiving a grant under subsection (a), an office of health in
 
 (July 1, 1944, ch. 373, title XXVII, §2793, as added Pub. L. 111–148, title I, §1002, Mar. 23, 2010, 124 Stat. 138.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective for fiscal years beginning with fiscal year 2010, see section 1004(a) of Pub. L. 111–148, set out as a note under section 300gg–11 of this title.

@@ -10,7 +10,7 @@ Individuals enrolled as volunteers for periods of full-time service, or, as the 
 
 #### (c) Subsequent Government employment
 
-Any period of service of a volunteer enrolled in a program for a period of service of at least one year under part A of subchapter I of this chapter, and any period of full-time service of a volunteer enrolled in a program for a period of service of at least one year under part B (as such part was in effect on the day before April 21, 2009) or C of subchapter I of this chapter, shall be credited in connection with subsequent employment in the same manner as a like period of civilian employment by the United States Government—
+Any period of service of a volunteer enrolled in a program for a period of service of at least one year under part A of subchapter I of this chapter, and any period of full-time service of avolunteer enrolled in a program for a period of service of at least one year under part B (as such part was in effect on the day before April 21, 2009) or C of subchapter I of this chapter, shall be credited in connection with subsequent employment in the same manner as a like period of civilian employment by the United States Government—
 
 &emsp;(1) for the purposes of any Act establishing a retirement system for civilian employees of any United States Government agency; and
 
@@ -42,9 +42,11 @@ Notwithstanding any other provision of law, all references in any other law to p
 
 (Pub. L. 93–113, title IV, §415, Oct. 1, 1973, 87 Stat. 411; Pub. L. 96–143, §§11, 18(c)(2), Dec. 13, 1979, 93 Stat. 1078, 1083; Pub. L. 96–465, title II, §2206(h), Oct. 17, 1980, 94 Stat. 2163; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–551, §10(i)(9), Oct. 27, 1986, 100 Stat. 3078; Pub. L. 103–82, title III, §366, Sept. 21, 1993, 107 Stat. 908; Pub. L. 111–13, title II, §2152, Apr. 21, 2009, 123 Stat. 1591.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This chapter, referred to in subsecs. (a) to (e) and (f)(1), was in the original "this Act", meaning Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, known as the Domestic Volunteer Service Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
+This chapter, referred to in subsecs. (a) to (e) and (f)(1), was in the original "this Act", meaning Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, known as the DomesticVolunteer Service Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 
 The Social Security Act, referred to in subsec. (b)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
@@ -70,11 +72,13 @@ Subsec. (d). Pub. L. 99–551 substituted "the Director" for "he" before "shall 
 
 Subsec. (c)(2). Pub. L. 96–465, §2206(h)(2), substituted "Foreign Service Act of 1980" for "Foreign Service Act of 1946".
 
-<b>1979</b>—Subsec. (b). Pub. L. 96–143, §11(a), substituted in provisions preceding cl. (1) "as volunteers for periods offull-time service, or, as the Director deems appropriate in accordance with regulations, for periods of part-time service of not less than 20 hours per week for not less than 26 consecutive weeks, under subchapter I of this chapter" for "in programs under subchapter I of this chapter for periods of service of at least one year" and in cl. (4)(A) "the annual rate of pay of a volunteer enrolled for a period of full-time service under such subchapter I shall be deemed to be that received under the entrance salary for a grade GS–7 employee, and the annual rate of pay of a volunteer enrolled for a period of part-time service under such subchapter I shall be deemed to be such entry salary or an appropriate portion thereof as determined by the Director" for "the monthly pay of a volunteer shall be deemed that received under the entrance salary for a grade GS–7 employee" and added cl. (5).
+<b>1979</b>—Subsec. (b). Pub. L. 96–143, §11(a), substituted in provisions preceding cl. (1) "as volunteers for periods of full-time service, or, as the Director deems appropriate in accordance with regulations, for periods of part-time service of not less than 20 hours per week for not less than 26 consecutive weeks, under subchapter I of this chapter" for "in programs under subchapter I of this chapter for periods of service of at least one year" and in cl. (4)(A) "the annual rate of pay of a volunteer enrolled for a period of full-time service under such subchapter I shall be deemed to be that received under the entrance salary for a grade GS–7 employee, and the annual rate of pay of a volunteer enrolled for a period of part-time service under such subchapter I shall be deemed to be such entry salary or an appropriate portion thereof as determined by the Director" for "the monthly pay of a volunteer shall be deemed that received under the entrance salary for a grade GS–7 employee" and added cl. (5).
 
 Subsec. (c)(2). Pub. L. 96–143, §18(c)(2), substituted "Office of Personnel Management" for "Civil Service Commission".
 
 Subsec. (f). Pub. L. 96–143, §11(b), added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 
@@ -91,6 +95,8 @@ Amendment by Pub. L. 99–551 effective Oct. 1, 1986, except as otherwise provid
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of Title 22, Foreign Relations and Intercourse.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 11561. Delegation of Authority
 

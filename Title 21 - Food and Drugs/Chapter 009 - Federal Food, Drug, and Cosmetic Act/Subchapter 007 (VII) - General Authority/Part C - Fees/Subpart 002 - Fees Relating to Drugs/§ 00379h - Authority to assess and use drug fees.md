@@ -32,7 +32,7 @@ Beginning in fiscal year 2018, the Secretary shall assess and collect fees in ac
 
 #### (F) Exception for designated orphan drug
 
-&emsp;&emsp;A human drug application for a prescription drug product that has been designatedas a drug for a rare disease or condition pursuant to section 360bb of this title shall not be subject to a fee under subparagraph (A), unless the human drug application includes an indication for other than a rare disease or condition.
+&emsp;&emsp;A human drug application for a prescription drug product that has been designated as a drug for a rare disease or condition pursuant to section 360bb of this title shall not be subject to a fee under subparagraph (A), unless the human drug application includes an indication for other than a rare disease or condition.
 
 #### (G) Refund of fee if application withdrawn
 
@@ -190,7 +190,7 @@ Beginning in fiscal year 2018, the Secretary shall assess and collect fees in ac
 
 #### (C) Notice of rationale
 
-&emsp;&emsp;If an adjustment under subparagraph (A) or (B) is made, the rationale for the amountof the increase or decrease (as applicable) in fee revenue and fees shall be contained in the annual Federal Register notice under paragraph (5) establishing fee revenue and fees for the fiscal year involved.
+&emsp;&emsp;If an adjustment under subparagraph (A) or (B) is made, the rationale for the amount of the increase or decrease (as applicable) in fee revenue and fees shall be contained in the annual Federal Register notice under paragraph (5) establishing fee revenue and fees for the fiscal year involved.
 
 #### (4) Additional direct cost adjustment
 
@@ -270,7 +270,7 @@ A human drug application or supplement submitted by a person subject to fees und
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2)(C), fees authorized under subsection (a) shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriations Acts. Such fees are authorized to remain available until expended. Such sums as may be necessary may be transferred from the Food and Drug Administration salaries andexpenses appropriation account without fiscal year limitation to such appropriation account for salaries and expenses with such fiscal year limitation. The sums transferred shall be available solely for the process for the review of human drug applications.
+&emsp;Subject to paragraph (2)(C), fees authorized under subsection (a) shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriations Acts. Such fees are authorized to remain available until expended. Such sums as may be necessary may be transferred from the Food and Drug Administration salaries and expenses appropriation account without fiscal year limitation to such appropriation account for salaries and expenses with such fiscal year limitation. The sums transferred shall be available solely for the process for the review of human drug applications.
 
 #### (2) Collections and appropriation acts
 
@@ -288,7 +288,7 @@ A human drug application or supplement submitted by a person subject to fees und
 
 &emsp;&emsp;&emsp;(i) are not more than 3 percent below the level specified in subparagraph (A)(ii); or
 
-&emsp;&emsp;&emsp;(ii)(I) are more than 3 percent below the level specified in subparagraph (A)(ii), and fees assessed for the fiscal year following the subsequent fiscal year are decreased by the amount in excess of 3 percent by which such costs fell below the level specified in such subparagraph; and
+&emsp;&emsp;&emsp;(ii)(I) are more than 3 percent below the level specified in subparagraph (A)(ii), andfees assessed for the fiscal year following the subsequent fiscal year are decreased by the amount in excess of 3 percent by which such costs fell below the level specified in such subparagraph; and
 
 &emsp;&emsp;&emsp;(II) such costs are not more than 5 percent below the level specified in such subparagraph.
 
@@ -358,7 +358,7 @@ Subsec. (a)(1)(F). Pub. L. 115–52, §102(a)(1)(F), struck out "or indication" 
 
 Subsec. (a)(2). Pub. L. 115–52, §102(a)(1)(G)–(I), redesignated par. (3) as (2), substituted "Prescription drug program fee" for "Prescription drug product fee" in heading, and struck out former par. (2) which related to prescription drug establishment fee.
 
-Subsec. (a)(2)(A). Pub. L. 115–52, §102(a)(1)(J), substituted "Except as provided in subparagraphs (B) and (C), each person who is named as the applicant in a human drug application, and who, after September 1, 1992, had pending before the Secretary a human drug application or supplement, shall pay the annual prescription drug program fee established for a fiscal year under subsection (c)(5) for each prescription drug product that is identified in such a human drug application approved as of October 1 of such fiscal year." for "Except as provided in subparagraph (B), each person who is named as the applicant in a human drug application, and who, after September 1, 1992, had pending before the Secretary a human drug application or supplement, shall pay for each such prescription drug product the annual fee established under subsection (c)(4)."
+Subsec. (a)(2)(A). Pub. L. 115–52, §102(a)(1)(J), substituted "Except as provided in subparagraphs (B) and\(C), each person who is named as the applicant in a human drug application, and who, after September 1, 1992, had pending before the Secretary a human drug application or supplement, shall pay the annual prescription drug program fee established for a fiscal year under subsection (c)(5) for each prescription drug product that is identified in such a human drug application approved as of October 1 of such fiscal year." for "Except as provided in subparagraph (B), each person who is named as the applicant in a human drug application, and who, after September 1, 1992, had pending before the Secretary a human drug application or supplement, shall pay for each such prescription drug product the annual fee established under subsection (c)(4)."
 
 Subsec. (a)(2)(B). Pub. L. 115–52, §102(a)(1)(K), inserted "for certain prescription drug products" after "Exception" in heading and substituted "A prescription drug program fee shall not be assessed for a prescription drug product" for "A prescription drug product shall not be assessed a fee" in introductory provisions.
 
@@ -422,7 +422,7 @@ Subsec. (g)(2)(C). Pub. L. 112–144, §103(4)(B)(iii), added subpar. (C).
 
 Subsec. (g)(3). Pub. L. 112–144, §103(4)(C), substituted "fiscal years 2013 through 2017" for "fiscal years 2008 through 2012".
 
-Subsec. (g)(4). Pub. L. 112–144, §103(4)(D), substituted "fiscal years 2013 through 2015" for "fiscal years 2008 through 2010", "fiscal year 2016" for "fiscal year 2011", "fiscal years 2013 through 2016" for "fiscal years 2008 through 2011", and "fiscal year 2017" for "fiscal year 2012".
+Subsec. (g)(4). Pub. L. 112–144, §103(4)(D), substituted "fiscal years 2013 through 2015" for "fiscal years 2008through 2010", "fiscal year 2016" for "fiscal year 2011", "fiscal years 2013 through 2016" for "fiscal years 2008 through 2011", and "fiscal year 2017" for "fiscal year 2012".
 
 <b>2007</b>—Subsec. (a). Pub. L. 110–85, §103(a)(1), substituted "2008" for "2003" in introductory provisions.
 
@@ -470,7 +470,7 @@ Subsec. (g)(1). Pub. L. 110–85, §103(h)(1), substituted "Fees authorized unde
 
 Subsec. (g)(3). Pub. L. 110–85, §103(e)(1), amended par. (3) generally. Prior to amendment, par. (3) authorized appropriations for fiscal years 2003 to 2007.
 
-Subsec. (g)(4). Pub. L. 110–85, §103(e)(2), reenacted heading without change and amended text generally.Prior to amendment, text read as follows: "Any amount of fees collected for a fiscal year under this section that exceeds the amount of fees specified in appropriation Acts for such fiscal year shall be credited to the appropriation account of the Food and Drug Administration as provided in paragraph (1), and shall be subtracted from the amount of fees that would otherwise be authorized to be collected under this section pursuant to appropriation Acts for a subsequent fiscal year."
+Subsec. (g)(4). Pub. L. 110–85, §103(e)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "Any amount of fees collected for a fiscal year under this section that exceeds the amount of fees specified in appropriation Acts for such fiscal year shall be credited to the appropriation account of the Food and Drug Administration as provided in paragraph (1), and shall be subtracted from the amount of fees that would otherwise be authorized to be collected under this section pursuant to appropriation Acts for a subsequent fiscal year."
 
 Subsec. (k). Pub. L. 110–85, §103(f), added subsec. (k).
 
@@ -558,7 +558,7 @@ Subsec. (a)(2). Pub. L. 105–115, §103(a)(3), reenacted heading without change
 
 > shall be subject to the annual fee established in subsection (b) of this section for each such establishment, payable on or before January 31 of each year."
 
-Subsec. (a)(3)(A). Pub. L. 105–115, §103(a)(4)(A), substituted, in cl. (i), "has been submitted for listing" for "is listed" and, in closing provisions, "Such fee shall be payable for the fiscal year in which the product is first submitted for listing under section 360 of this title, or is submitted for relisting under section 360 of this title if the product has been withdrawn from listing and relisted. After such fee is paid for that fiscal year, such fee shall be payable on or before January 31 of each year. Such fee shall be paid only once for each product for a fiscal year in which the fee is payable." for "Such fee shall be payable at the time of the first such listing of such product in each calendar year. Such fee shall be paid only once each year for each listed prescription drug product irrespective of the number of times such product is listed under section 360 of this title."
+Subsec. (a)(3)(A). Pub. L. 105–115, §103(a)(4)(A), substituted, in cl. (i), "has been submitted for listing" for "is listed" and, in closing provisions, "Such fee shall be payable for the fiscal year in which the product is first submitted for listing under section 360 of this title, or is submitted for relisting under section 360 of this titleif the product has been withdrawn from listing and relisted. After such fee is paid for that fiscal year, such fee shall be payable on or before January 31 of each year. Such fee shall be paid only once for each product for a fiscal year in which the fee is payable." for "Such fee shall be payable at the time of the first such listing of such product in each calendar year. Such fee shall be paid only once each year for each listed prescription drug product irrespective of the number of times such product is listed under section 360 of this title."
 
 Subsec. (a)(3)(B). Pub. L. 105–115, §103(a)(4)(B), substituted "355(j) of this title, under an abbreviated application filed under section 357 of this title (as in effect on the day before November 21, 1997), or under an abbreviated new drug application pursuant to regulations in effect prior to the implementation of the Drug Price Competition and Patent Term Restoration Act of 1984." for "355(j) of this title.".
 
@@ -610,7 +610,7 @@ Amendment by Pub. L. 112–144 effective Oct. 1, 2012, with fees under this subp
 
 #### Effective Date of 2007 Amendment
 
-Pub. L. 110–85, title I, §103(h)(2), Sept. 27, 2007, 121 Stat. 832, provided that: "Paragraph (1) \[amending thissection\] shall take effect as if included in section 504 of the Prescription Drug User Fee Amendments of 2002 (Public Law 107–188; 116 Stat. 687) \[amending this section\]."
+Pub. L. 110–85, title I, §103(h)(2), Sept. 27, 2007, 121 Stat. 832, provided that: "Paragraph (1) \[amending this section\] shall take effect as if included in section 504 of the Prescription Drug User Fee Amendments of 2002 (Public Law 107–188; 116 Stat. 687) \[amending this section\]."
 
 Amendment by Pub. L. 110–85 effective Oct. 1, 2007, with fees under this subpart to be assessed for all human drug applications received on or after Oct. 1, 2007, see section 107 of Pub. L. 110–85, set out as an Effective and Termination Dates of 2007 Amendment note under section 379g of this title.
 
@@ -628,5 +628,5 @@ Section to terminate Oct. 1, 2022, see section 104(a) of Pub. L. 115–52, set o
 
 #### Special Rule for Waivers and Refunds
 
-Pub. L. 105–115, title I, §103(h), Nov. 21, 1997, 111 Stat. 2304, provided that: "Any requests for waivers or refunds for fees assessed under section 736 of the Federal Food, Drug, and Cosmetic Act (42 U.S.C. 379h) prior to the date of enactment of this Act \[Nov. 21, 1997\] shall be submitted in writing to the Secretary of Health and Human Services within 1 year after the date of enactment of this Act. Any requests for waivers or refunds pertaining to a fee for a human drug application or supplement accepted for filing prior to October 1, 1997 or to a product or establishment fee required by such Act for a fiscal year prior to fiscal year 1998, shall be evaluated according to the terms of the Prescription Drug User Fee Act of 1992 \[see section 101(a) of Pub. L. 102–571, set out as a Short Title of 1992 Amendment note under section 301 of this title\] (as in effect on September 30, 1997) and part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 379g et seq.\] (as in effect on September 30, 1997). The term 'person' in such Acts shall continue to include an affiliate thereof."
+Pub. L. 105–115, title I, §103(h), Nov. 21, 1997, 111 Stat. 2304, provided that: "Any requests for waivers or refunds for fees assessed under section 736 of the Federal Food, Drug, and Cosmetic Act (42 U.S.C. 379h) prior to the date of enactment of this Act \[Nov. 21, 1997\] shall be submitted in writing to the Secretary of Health and Human Services within 1 year after the date of enactment of this Act. Any requests for waivers or refunds pertaining to a fee for a human drug application or supplement accepted for filing prior to October 1, 1997 or to a product or establishment fee required by such Act for a fiscal year prior to fiscal year 1998, shall be evaluated according to the terms of the Prescription Drug UserFee Act of 1992 \[see section 101(a) of Pub. L. 102–571, set out as a Short Title of 1992 Amendment note under section 301 of this title\] (as in effect on September 30, 1997) and part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 379g et seq.\] (as in effect on September 30, 1997). The term 'person' in such Acts shall continue to include an affiliate thereof."
 

@@ -90,7 +90,7 @@
 
 #### (D) Acting members
 
-&emsp;&emsp;A vacancy in the Board may be filled with an appointment of an acting member by the Chairperson of the Board for up to 1 year while a nominee is named and awaits confirmation in accordance with paragraph (3)(B).
+&emsp;&emsp;A vacancy in the Board may be filled with an appointment of an acting member by theChairperson of the Board for up to 1 year while a nominee is named and awaits confirmation in accordance with paragraph (3)(B).
 
 #### (6) Chairperson
 
@@ -132,9 +132,13 @@
 
 (Pub. L. 110–140, title IX, §922, Dec. 19, 2007, 121 Stat. 1733.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is comprised of section 922 of Pub. L. 110–140. Subsec. (b)(4)(B) of section 922 of Pub. L. 110–140 amended section 5314 of Title 5, Government Organization and Employees.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -12,7 +12,7 @@
 
 &emsp;(E) research into, and development of, methods of training students or faculty, including the preparation of teaching materials and the planning of curriculum.
 
-(b)(1) The Administrator may pay 100 per centum of any additional cost of construction of treatment works required for a facility to train and upgrade waste treatment works operation and maintenance personnel and for the costs of other State treatment works operator training programs, including mobile training units, classroom rental, specialized instructors, and instructional material.
+(b)(1) The Administrator may pay 100 per centum of any additional cost of construction oftreatment works required for a facility to train and upgrade waste treatment works operation and maintenance personnel and for the costs of other State treatment works operator training programs, including mobile training units, classroom rental, specialized instructors, and instructional material.
 
 (2) The Administrator shall make no more than one grant for such additional construction in any State (to serve a group of States, where, in his judgment, efficient training programs require multi-State programs), and shall make such grant after consultation with and approval by the State or States on the basis of (A) the suitability of such facility for training operation and maintenance personnel for treatment works throughout such State or States; and (B) a commitment by the State agency or agencies to carry out at such facility a program of training approved by the Administrator. In any case where a grant is made to serve two or more States, the Administrator is authorized to make an additional grant for a supplemental facility in each such State.
 

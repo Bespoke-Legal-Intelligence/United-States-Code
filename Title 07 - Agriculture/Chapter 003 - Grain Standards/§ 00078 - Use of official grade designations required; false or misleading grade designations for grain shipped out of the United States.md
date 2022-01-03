@@ -1,10 +1,12 @@
 ### §78. Use of official grade designations required; false or misleading grade designations for grain shipped out of the United States
 
-(a) Whenever standards relating to kind, class, quality, or condition of grain are effective under section 76 of this title for any grain no person shall in any sale, offer for sale, or consignment for sale, which involves the shipment of such grain in interstate or foreign commerce, describe such grain as being of any grade in any advertising, price quotation, other negotiation of sale, contract of sale, invoice, bill of lading, other document, or description on bags or other containers of the grain, other than by an official grade designation, with or without additional information as to specified factors: <i>Provided</i>, That the description of such grain by any proprietary brand name or trademark that does not resemble an official grade designation, or with respect to interstate commerce, by the use of one or more grade factor designations set forth in the official United States standards for grain, or by other criteria shall not be deemed to be a description of grain as being of any grade.
+(a) Whenever standards relating to kind, class, quality, or condition of grain are effective under section 76 of this title for any grain no person shall in any sale, offer for sale, or consignment for sale, which involves the shipment of such grain in interstate or foreign commerce, describe such grain as being of any grade in any advertising, price quotation, other negotiation of sale, contract of sale, invoice, bill of lading, other document, or description on bags or other containers of the grain, other than by an official grade designation, with or without additional information as to specified factors: <i>Provided</i>, That the description of such grain by any proprietary brand name or trademark that does not resemble an official grade designation, or with respect to interstate commerce, by the use of one or more grade factor designations set forthin the official United States standards for grain, or by other criteria shall not be deemed to be a description of grain as being of any grade.
 
 (b) No person shall, in any sale, offer for sale, or consignment for sale, of any grain which involves the shipment of such grain from the United States to any place outside thereof, knowingly describe such grain by any official grade designation, or other description, which is false or misleading.
 
 (Aug. 11, 1916, ch. 313, pt. B, §6, 39 Stat. 484; Pub. L. 85–509, July 11, 1958, 72 Stat. 352; Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 763; Pub. L. 94–582, §7, Oct. 21, 1976, 90 Stat. 2870; Pub. L. 95–113, title XVI, §1606(c), Sept. 29, 1977, 91 Stat. 1030.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -15,6 +17,8 @@
 <b>1968</b>—Pub. L. 90–487 substituted provisions requiring the use of official grade designations and prohibiting the use of false or misleading description of grain shipped out of the United States, for provisions allowing the appeal to the Secretary from official grading, authorizing the payment of additional fees for employees required in making appeal inspections, and making the findings prima facie evidence of the grain's true grade.
 
 <b>1958</b>—Pub. L. 85–509 authorized payment of employees assigned to perform appeal inspection for all overtime, night, or holiday work, and permitted acceptance of reimbursement for any sums paid for such work.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1977 Amendment
 

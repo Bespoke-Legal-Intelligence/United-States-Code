@@ -116,6 +116,8 @@ As used in this chapter—
 
 (Pub. L. 101–624, title XIX, §1907, Nov. 28, 1990, 104 Stat. 3839; Pub. L. 102–237, title VIII, §802(1), Dec. 13, 1991, 105 Stat. 1882.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Par. (22). Pub. L. 102–237 substituted "in-shell" for "inshell".

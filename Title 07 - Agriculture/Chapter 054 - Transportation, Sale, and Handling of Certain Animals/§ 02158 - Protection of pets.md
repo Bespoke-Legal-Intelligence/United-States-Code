@@ -4,7 +4,7 @@
 
 #### (1) Requirement
 
-&emsp;In the case of each dog or cat acquired by an entity described in paragraph (2), such entity shall hold and care for such dog or cat for a period of not less than five days to enable such dog or cat to be recovered by its original owner or adopted by other individuals before such entity sells such dog or cat to a dealer.
+&emsp;In the case of each dog or cat acquired by an entity described in paragraph (2), such entityshall hold and care for such dog or cat for a period of not less than five days to enable such dog or cat to be recovered by its original owner or adopted by other individuals before such entity sells such dog or cat to a dealer.
 
 #### (2) Entities described
 
@@ -81,6 +81,8 @@
 Not later than 180 days after November 28, 1990, the Secretary shall promulgate regulations to carry out this section.
 
 (Pub. L. 89–544, §28, as added Pub. L. 101–624, title XXV, §2503(2), Nov. 28, 1990, 104 Stat. 4066; amended Pub. L. 102–237, title X, §1004, Dec. 13, 1991, 105 Stat. 1894.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

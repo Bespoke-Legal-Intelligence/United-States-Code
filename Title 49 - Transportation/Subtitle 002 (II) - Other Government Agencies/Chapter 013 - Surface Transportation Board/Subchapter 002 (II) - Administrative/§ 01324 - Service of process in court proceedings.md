@@ -10,6 +10,8 @@ Changing Designation.—A designation under this section may be changed at any t
 
 (Added Pub. L. 104–88, title II, §201(a), Dec. 29, 1995, 109 Stat. 937, §724; renumbered §1324 and amended Pub. L. 114–110, §§3(a)(5), 8(b), Dec. 18, 2015, 129 Stat. 2228, 2232.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Pub. L. 114–110, §3(a)(3), renumbered section 724 of this title as this section.

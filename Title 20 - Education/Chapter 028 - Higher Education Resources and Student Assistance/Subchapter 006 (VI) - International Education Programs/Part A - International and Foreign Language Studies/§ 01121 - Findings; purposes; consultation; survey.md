@@ -22,7 +22,7 @@ Congress finds as follows:
 
 The purposes of this part are—
 
-&emsp;(1)(A) to support centers, programs, and fellowships in institutions of higher education in the United States for producing increased numbers of trained personnel and research inforeign languages, area studies, and other international studies;
+&emsp;(1)(A) to support centers, programs, and fellowships in institutions of higher education in the United States for producing increased numbers of trained personnel and research in foreign languages, area studies, and other international studies;
 
 &emsp;(B) to develop a pool of international experts to meet national needs;
 
@@ -60,6 +60,8 @@ The Secretary shall assist grantees in developing a survey to administer to stud
 
 (Pub. L. 89–329, title VI, §601, as added Pub. L. 105–244, title VI, §601, Oct. 7, 1998, 112 Stat. 1774; amended Pub. L. 110–315, title VI, §601, Aug. 14, 2008, 122 Stat. 3333.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1121, Pub. L. 89–329, title VI, §601, as added Pub. L. 96–374, title VI, §601(a), Oct. 3, 1980, 94 Stat. 1464; amended Pub. L. 99–498, title VI, §601, Oct. 17, 1986, 100 Stat. 1514; Pub. L. 102–325, title VI, §601, July 23, 1992, 106 Stat. 720, set out findings of Congress and purpose of this part, prior to the general amendment of this part by Pub. L. 105–244.
@@ -75,6 +77,8 @@ Subsec. (a)(3). Pub. L. 110–315, §601(2), struck out "post-Cold War" after "D
 Subsec. (b)(1)(D). Pub. L. 110–315, §601(3), inserted ", including through linkages with overseas institutions" before semicolon.
 
 Subsecs. (c), (d). Pub. L. 110–315, §601(4), added subsecs. (c) and (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

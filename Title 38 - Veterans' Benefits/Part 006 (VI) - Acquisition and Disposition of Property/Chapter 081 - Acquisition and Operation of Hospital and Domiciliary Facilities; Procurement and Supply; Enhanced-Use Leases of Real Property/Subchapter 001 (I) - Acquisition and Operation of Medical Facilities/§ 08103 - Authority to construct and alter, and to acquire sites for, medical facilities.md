@@ -8,7 +8,7 @@
 
 &emsp;(3) in order to assure compliance with section 8110(a)(2) of this title, in the case of any outpatient medical facility for which it is proposed to lease space and for which a qualified lessor and an appropriate leasing arrangement are available, shall execute a lease for such facility within 12 months after funds are made available for such purpose.
 
-(b) Whenever the Secretary considers it to be in the interest of the United States to construct a new medical facility to replace an existing medical facility, the Secretary (1) may demolish the existing facility and use the site on which it is located for the site of the new medical facility, or (2) if in the judgment of the Secretary it is more advantageous to construct such medical facility on a different site in the same locality, may exchange such existing facility and the site of such existing facility for the different site.
+(b) Whenever the Secretary considers it to be in the interest of the United States to constructa new medical facility to replace an existing medical facility, the Secretary (1) may demolish the existing facility and use the site on which it is located for the site of the new medical facility, or (2) if in the judgment of the Secretary it is more advantageous to construct such medical facility on a different site in the same locality, may exchange such existing facility and the site of such existing facility for the different site.
 
 (c) Whenever the Secretary determines that any site acquired for the construction of a medical facility is not suitable for that purpose, the Secretary may exchange such site for another site to be used for that purpose or may sell such site.
 
@@ -80,7 +80,7 @@
 
 (6) In this subsection:
 
-&emsp;(A) The term "covered certification program" means, with respect to employees of the Department of Veterans Affairs who are members of occupational series relating toconstruction or facilities management, or employees of the Department who award or administer contracts for major construction, minor construction, or nonrecurring maintenance, including as contract specialists or contracting officers' representatives, a program to certify knowledge and skills relating to construction or facilities management and to ensure that such employees maintain adequate expertise relating to industry standards and best practices for the acquisition of design and construction services.
+&emsp;(A) The term "covered certification program" means, with respect to employees of the Department of Veterans Affairs who are members of occupational series relating to construction or facilities management, or employees of the Department who award or administer contracts for major construction, minor construction, or nonrecurring maintenance, including as contract specialists or contracting officers' representatives, a program to certify knowledge and skills relating to construction or facilities management and to ensure that such employees maintain adequate expertise relating to industry standards and best practices for the acquisition of design and construction services.
 
 &emsp;(B) The term "covered training curriculum" means, with respect to employees specified in subparagraph (A), a training curriculum relating to construction or facilities management.
 
@@ -128,7 +128,7 @@ Section effective Oct. 1, 1979, but not applicable with respect to the acquisiti
 
 #### Communities Helping Invest Through Property and Improvements Needed for Veterans
 
-Pub. L. 114–294, Dec. 16, 2016, 130 Stat. 1504, provided that:
+Pub. L. 114–294, Dec. 16, 2016, 130 Stat. 1504, as amended by Pub. L. 117–42, §4, Sept. 30, 2021, 135 Stat. 342, provided that:
 
 #### "SECTION 1. SHORT TITLE.
 
@@ -170,7 +170,7 @@ Entities described.—Entities described in this paragraph are the following:
 
 &emsp;"(3)
 
-Limitation.—The Secretary may accept not more than five donations of real property and facility improvements under the pilot program and as described in this section.
+Limitation.—The Secretary may accept not more than five donations of real property and facilityimprovements under the pilot program and as described in this section.
 
 "(b)
 
@@ -184,7 +184,7 @@ Conditions for Acceptance of Property.—The Secretary may accept the donation o
 
 &emsp;&emsp;&emsp;"(i) meeting a need of the Department as part of the long-range capital planning process of the Department; and
 
-&emsp;&emsp;&emsp;"(ii) the location for a Department facility project that is included on the Strategic Capital Investment Planning process priority list in themost recent budget submitted to Congress by the President pursuant to section 1105(a) of title 31, United States Code; and
+&emsp;&emsp;&emsp;"(ii) the location for a Department facility project that is included on the Strategic Capital Investment Planning process priority list in the most recent budget submitted to Congress by the President pursuant to section 1105(a) of title 31, United States Code; and
 
 &emsp;"(2) an entity described in subsection (a)(2) has entered into or is willing to enter into a formal agreement with the Secretary in accordance with subsection (c) under which the entity agrees to independently donate the real property, improvements, goods, or services, for the Department facility project in an amount acceptable to the Secretary and at no additional cost to the Federal Government.
 
@@ -260,7 +260,7 @@ Biennial Report of Comptroller General of the United States.—Not less frequent
 
 "(i)
 
-Termination.—The authority for the Secretary to accept donations under the pilot program shall terminate on the date that is 5 years after the date of the enactment of this Act \[Dec. 16, 2016\].
+Termination.—The authority for the Secretary to accept donations under the pilot program shall terminate on December 16, 2026.
 
 "(j)
 

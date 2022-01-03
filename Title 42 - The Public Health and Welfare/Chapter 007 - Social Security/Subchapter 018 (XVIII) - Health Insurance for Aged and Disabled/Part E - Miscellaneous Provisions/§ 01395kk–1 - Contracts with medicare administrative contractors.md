@@ -70,7 +70,7 @@
 
 #### (A) Nonduplication of duties
 
-&emsp;&emsp;In entering into contracts under this section, the Secretary shall assure that functions of medicare administrative contractors in carrying out activities under parts A and B do not duplicate activities carried out under a contract entered into under the Medicare Integrity Program under section 1395ddd of this title. The previous sentenceshall not apply with respect to the activity described in section 1395ddd(b)(5) of this title (relating to prior authorization of certain items of durable medical equipment under section 1395m(a)(15) of this title).
+&emsp;&emsp;In entering into contracts under this section, the Secretary shall assure that functions of medicare administrative contractors in carrying out activities under parts A and B do not duplicate activities carried out under a contract entered into under the Medicare Integrity Program under section 1395ddd of this title. The previous sentence shall not apply with respect to the activity described in section 1395ddd(b)(5) of this title (relating to prior authorization of certain items of durable medical equipment under section 1395m(a)(15) of this title).
 
 #### (B) Construction
 
@@ -90,7 +90,7 @@
 
 #### (B) Renewal of contracts
 
-&emsp;&emsp;The Secretary may renew a contract with a medicare administrative contractor under this section from term to term without regard to section 6101 of title 41 or any other provision of law requiring competition, if the medicare administrative contractor has met or exceeded the performance requirements applicable with respect to the contract and contractor, except that the Secretary shall provide for the application of competitive procedures under such a contract not less frequently than once every 10 years.
+&emsp;&emsp;The Secretary may renew a contract with a medicare administrative contractor under this section from term to term without regard to section 6101 of title 41 or any other provision of law requiring competition, if the medicare administrative contractor has met or exceeded the performance requirements applicable with respect to the contract and contractor, except that the Secretary shall provide for the application ofcompetitive procedures under such a contract not less frequently than once every 10 years.
 
 #### (C) Transfer of functions
 
@@ -158,7 +158,7 @@
 
 &emsp;&emsp;(A) to furnish to the Secretary such timely information and reports as the Secretary may find necessary in performing his functions under this subchapter; and
 
-&emsp;&emsp;(B) to maintain such records and afford such access thereto as the Secretary finds necessary to assure the correctness and verification of the information and reports under subparagraph (A) and otherwise to carry out the purposes of this subchapter.
+&emsp;&emsp;(B) to maintain such records and afford such access thereto as the Secretary findsnecessary to assure the correctness and verification of the information and reports under subparagraph (A) and otherwise to carry out the purposes of this subchapter.
 
 #### (5) Surety bond
 
@@ -202,7 +202,7 @@
 
 #### (B) Conditions
 
-&emsp;&emsp;The Secretary may not provide indemnification under subparagraph (A) insofar as the liability for such costs arises directlyfrom conduct that is determined by the judicial proceeding or by the Secretary to be criminal in nature, fraudulent, or grossly negligent. If indemnification is provided by the Secretary with respect to a contractor before a determination that such costs arose directly from such conduct, the contractor shall reimburse the Secretary for costs of indemnification.
+&emsp;&emsp;The Secretary may not provide indemnification under subparagraph (A) insofar as the liability for such costs arises directly from conduct that is determined by the judicial proceeding or by the Secretary to be criminal in nature, fraudulent, or grossly negligent. If indemnification is provided by the Secretary with respect to a contractor before a determination that such costs arose directly from such conduct, the contractor shall reimburse the Secretary for costs of indemnification.
 
 #### (C) Scope of indemnification
 
@@ -262,7 +262,7 @@
 
 #### (f) Incentives to improve contractor performance in provider education and outreach
 
-The Secretary shall use specific claims payment error rates or similar methodology ofmedicare administrative contractors in the processing or reviewing of medicare claims in order to give such contractors an incentive to implement effective education and outreach programs for providers of services and suppliers.
+The Secretary shall use specific claims payment error rates or similar methodology of medicare administrative contractors in the processing or reviewing of medicare claims in order to give such contractors an incentive to implement effective education and outreach programs for providers of services and suppliers.
 
 #### (g) Communications with beneficiaries, providers of services and suppliers
 
@@ -276,7 +276,7 @@ The Secretary shall use specific claims payment error rates or similar methodolo
 
 #### (3) Response to toll-free lines
 
-&emsp;The Secretary shall ensure that each medicare administrative contractor shall provide, for those providers of services and suppliers which submit claims to the contractor for claims processing and for those individuals entitled to benefits under part A or enrolled under part B, or both, with respect to whom claims are submitted for claims processing, a toll-free telephone number at which such individuals, providers of services, and suppliers may obtain information regarding billing, coding, claims, coverage, and other appropriate information under this subchapter.
+&emsp;The Secretary shall ensure that each medicare administrative contractor shall provide, for those providers of services and suppliers which submit claims to the contractor for claims processing and for those individuals entitled to benefits under part A or enrolled under part B, or both, with respect to whom claims are submitted for claims processing, atoll-free telephone number at which such individuals, providers of services, and suppliers may obtain information regarding billing, coding, claims, coverage, and other appropriate information under this subchapter.
 
 #### (4) Monitoring of contractor responses
 
@@ -366,6 +366,8 @@ The Secretary shall use specific claims payment error rates or similar methodolo
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1874A, as added and amended Pub. L. 108–173, title IX, §§911(a)(1), 912(a), 921(b)(1), (c)(1), 934(a), 940A(b), Dec. 8, 2003, 117 Stat. 2378, 2387–2389, 2406, 2417; Pub. L. 111–152, title I, §1302, Mar. 30, 2010, 124 Stat. 1057; Pub. L. 114–10, title V, §§505(a), 509(a), (c), Apr. 16, 2015, 129 Stat. 166, 170; Pub. L. 114–115, §7(a), Dec. 28, 2015, 129 Stat. 3134.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 3544 of title 44, referred to in subsec. (e)(1), (2)(C)(iii), was repealed by Pub. L. 113–283, §2(a), Dec. 18, 2014, 128 Stat. 3073. Provisions similar to section 3544 of title 44 are now contained in section 3554 of title 44, as enacted by Pub. L. 113–283.
@@ -397,6 +399,8 @@ Subsec. (f). Pub. L. 108–173, §921(b)(1), added subsec. (f).
 Subsec. (g). Pub. L. 108–173, §921(c)(1), added subsec. (g).
 
 Subsec. (h). Pub. L. 108–173, §934(a), added subsec. (h).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 
@@ -514,7 +518,7 @@ Pub. L. 108–173, title IX, §912(b), Dec. 8, 2003, 117 Stat. 2388, provided th
 
 "(1)
 
-In general.—The provisions of section 1874A(e)(2) of the Social Security Act \[42 U.S.C.1395kk–1(e)(2)\] (other than subparagraph (B)), as added by subsection (a), shall apply to each fiscal intermediary under section 1816 of the Social Security Act (42 U.S.C. 1395h) and each carrier under section 1842 of such Act (42 U.S.C. 1395u) in the same manner as they apply to medicare administrative contractors under such provisions.
+In general.—The provisions of section 1874A(e)(2) of the Social Security Act \[42 U.S.C. 1395kk–1(e)(2)\] (other than subparagraph (B)), as added by subsection (a), shall apply to each fiscal intermediary under section 1816 of the Social Security Act (42 U.S.C. 1395h) and each carrier under section 1842 of such Act (42 U.S.C. 1395u) in the same manner as they apply to medicare administrative contractors under such provisions.
 
 "(2)
 

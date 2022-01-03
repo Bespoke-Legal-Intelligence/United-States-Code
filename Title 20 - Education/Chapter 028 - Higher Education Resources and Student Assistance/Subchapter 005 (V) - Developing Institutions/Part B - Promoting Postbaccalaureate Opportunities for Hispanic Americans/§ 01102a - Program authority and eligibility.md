@@ -2,7 +2,7 @@
 
 #### (a) Program authorized
 
-Subject to the availability of funds appropriated to carry out this part, the Secretary shall award grants, on a competitive basis, to eligible institutions to enable the eligible institutions to carry out the authorized activities described in section 1102b of this title.
+Subject to the availability of funds appropriated to carry out this part, the Secretaryshall award grants, on a competitive basis, to eligible institutions to enable the eligible institutions to carry out the authorized activities described in section 1102b of this title.
 
 #### (b) Eligibility
 
@@ -13,6 +13,8 @@ For the purposes of this part, an "eligible institution" means an institution of
 &emsp;(2) offers a postbaccalaureate certificate or postbaccalaureate degree granting program.
 
 (Pub. L. 89–329, title V, §512, as added Pub. L. 110–315, title V, §502(a)(3), Aug. 14, 2008, 122 Stat. 3332.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

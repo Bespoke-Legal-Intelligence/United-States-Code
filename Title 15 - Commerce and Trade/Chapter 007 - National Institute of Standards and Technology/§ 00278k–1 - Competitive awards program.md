@@ -56,7 +56,7 @@ Recipients of awards under this section shall not be required to provide a match
 
 #### (g) Global marketplace projects
 
-In making an award under this section, the Director, in consultation with the MEP Advisory Board and the Secretary, may take into consideration whether an application has significantpotential for enhancing the competitiveness of small and medium-sized United States manufacturers in the global marketplace.
+In making an award under this section, the Director, in consultation with the MEP Advisory Board and the Secretary, may take into consideration whether an application has significant potential for enhancing the competitiveness of small and medium-sized United States manufacturers in the global marketplace.
 
 #### (h) Duration
 
@@ -67,6 +67,8 @@ The duration of an award under this section shall be for not more than 3 years.
 The terms used in this section have the meanings given the terms in section 278k of this title.
 
 (Mar. 3, 1901, ch. 872, §25A, as added Pub. L. 114–329, title V, §501(c), Jan. 6, 2017, 130 Stat. 3031.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

@@ -36,7 +36,7 @@ The Secretary of Housing and Urban Development (in this section referred to as t
 
 #### (2) Capacity enhancement
 
-&emsp;The Secretary shall use funds made available under this section to help establish, organize, and build the capacity of fair housing enforcement organizations, particularly in those areas of the country which are currently underserved by fair housing enforcement organizations as well as those areas where large concentrations of protected classes exist. For purposes of meeting the objectives of this paragraph, the Secretary may enter into contractsor cooperative agreements with qualified fair housing enforcement organizations. The Secretary shall establish annual goals which reflect the national need for private fair housing enforcement organizations.
+&emsp;The Secretary shall use funds made available under this section to help establish, organize, and build the capacity of fair housing enforcement organizations, particularly in those areas of the country which are currently underserved by fair housing enforcement organizations as well as those areas where large concentrations of protected classes exist. For purposes of meeting the objectives of this paragraph, the Secretary may enter into contracts or cooperative agreements with qualified fair housing enforcement organizations. The Secretary shall establish annual goals which reflect the national need for private fair housing enforcement organizations.
 
 #### (d) Education and outreach
 
@@ -74,7 +74,7 @@ The Secretary of Housing and Urban Development (in this section referred to as t
 
 (2) The Secretary shall, for use during the demonstration authorized in this section, establish guidelines for testing activities funded under the private enforcement initiative of the fair housing initiatives program. The purpose of such guidelines shall be to ensure that investigations in support of fair housing enforcement efforts described in subsection (a)(1) shall develop credible and objective evidence of discriminatory housing practices. Such guidelines shall apply only to activities funded under this section, shall not be construed to limit or otherwise restrict the use of facts secured through testing not funded under this section in any legal proceeding under Federal fair housing laws, and shall not be used to restrict individuals or entities, including those participating in the fair housing initiatives program, from pursuing any right or remedy guaranteed by Federal law. Not later than 6 months after the end of the demonstration period authorized in this section,<sup>1</sup> the Secretary shall submit to Congress the evaluation of the Secretary of the effectiveness of such guidelines in achieving the purposes of this section.
 
-(3) Such regulations shall include provisions governing applications for assistance under this section, and shall require each such application to contain—
+(3) Such regulations shall include provisions governing applications for assistance under thissection, and shall require each such application to contain—
 
 &emsp;(A) a description of the assisted activities proposed to be undertaken by the applicant, together with the estimated costs and schedule for completion of such activities;
 
@@ -146,7 +146,9 @@ Not later than 180 days after the close of each fiscal year in which assistance 
 
 &emsp;(5) any findings, conclusions, or recommendations of the Secretary as a result of the funded activities.
 
-(Pub. L. 100–242, title V, §561, Feb. 5, 1988, 101 Stat. 1942; Pub. L. 101–625, title IX, §953, Nov. 28, 1990, 104 Stat. 4419; Pub. L. 102–550, title IX, §905(b), Oct. 28, 1992, 106 Stat. 3869; Pub. L. 104–66, title I, §1071(d), Dec. 21, 1995, 109 Stat. 720.)
+(Pub. L. 100–242, title V, §561, Feb. 5, 1988, 101 Stat. 1942; Pub. L. 101–625, title IX, §953, Nov. 28, 1990, 104 Stat. 4419; Pub. L. 102–550, title IX, §905(b), Oct. 28, 1992, 106 Stat. 3869; Pub. L.104–66, title I, §1071(d), Dec. 21, 1995, 109 Stat. 720.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -179,6 +181,8 @@ Subsecs. (i), (j). Pub. L. 102–550, §905(b)(4), added subsecs. (i) and (j).
 <b>1990</b>—Subsec. (d). Pub. L. 101–625, §953(a), amended first sentence generally. Prior to amendment, first sentence read as follows: "There are authorized to be appropriated to carry out the provisions of this section, including any program evaluations, $5,000,000 for fiscal year 1988, and $5,000,000 for fiscal year 1989, of which not more than $3,000,000 in each year shall be for the private enforcement initiative demonstration."
 
 Subsec. (e). Pub. L. 101–625, §953(b), substituted "1992" for "1989".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

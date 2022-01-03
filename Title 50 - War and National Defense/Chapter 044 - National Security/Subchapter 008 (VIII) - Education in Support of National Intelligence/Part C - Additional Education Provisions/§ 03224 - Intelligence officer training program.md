@@ -36,7 +36,7 @@ An institution of higher education seeking a grant under this section shall subm
 
 #### (e) Reports
 
-An institution of higher education that receives a grant under this section shall submit to the Director regular reports regarding the use of such grant, including—
+An institution of higher education that receives a grant under this section shall submit tothe Director regular reports regarding the use of such grant, including—
 
 &emsp;(1) a description of the benefits to students who participate in the course of study funded by such grant;
 
@@ -84,6 +84,8 @@ Study abroad program.—The term "study abroad program" means a program of study
 
 (July 26, 1947, ch. 343, title X, §1024, as added Pub. L. 111–259, title III, §313(a), Oct. 7, 2010, 124 Stat. 2665; amended Pub. L. 112–18, title III, §304, June 8, 2011, 125 Stat. 226; Pub. L. 113–293, title III, §306, Dec. 19, 2014, 128 Stat. 3997; Pub. L. 114–113, div. M, title VII, §712, Dec. 18, 2015, 129 Stat. 2934.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 441p of this title prior to editorial reclassification and renumbering as this section.
@@ -107,6 +109,8 @@ Subsecs. (c) to (f). Pub. L. 112–18, §304(2), (3), added subsec. (c) and rede
 Subsec. (g). Pub. L. 112–18, §304(2), redesignated subsec. (f) as (g).
 
 Subsec. (g)(2) to (4). Pub. L. 112–18, §304(4), added pars. (2) and (4) and redesignated former par. (2) as (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Findings Regarding Improvement of Equality of Employment Opportunities in the Intelligence Community
 

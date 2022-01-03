@@ -30,9 +30,9 @@
 
 #### (b) Commission approval
 
-(1) No transfer of contractual interests authorized by the rule required under subsection (a)(1)may take effect unless the Commission issues a certificate of public convenience and necessity for such transfer if such natural gas is to be resold by the person to whom such contractual interests are to be transferred. Such certificate shall be issued by the Commission in accordance with the requirements of this subsection and those of section 7 of the Natural Gas Act \[15 U.S.C. 717f\], and the provisions of such Act \[15 U.S.C. 717 et seq.\] applicable to the determination of satisfaction of the public convenience and necessity requirements of such section.
+(1) No transfer of contractual interests authorized by the rule required under subsection (a)(1) may take effect unless the Commission issues a certificate of public convenience and necessity for such transfer if such natural gas is to be resold by the person to whom such contractual interests are to be transferred. Such certificate shall be issued by the Commission in accordance with the requirements of this subsection and those of section 7 of the Natural Gas Act \[15 U.S.C. 717f\], and the provisions of such Act \[15 U.S.C. 717 et seq.\] applicable to the determination of satisfaction of the public convenience and necessity requirements of such section.
 
-(2) The rule required under subsection (a)(1) shall set forth guidelines for the application on a regional or national basis (as the Commission determines appropriate) of the criteria specified in subsection (e)(2) and (3) to determine the maximum consideration permitted as just compensation under this section.
+(2) The rule required under subsection (a)(1) shall set forth guidelines for the application on a regional or national basis (as the Commission determines appropriate) of the criteria specifiedin subsection (e)(2) and (3) to determine the maximum consideration permitted as just compensation under this section.
 
 #### (c) Restrictions on transfers unenforceable
 
@@ -80,7 +80,7 @@ For purposes of this section—
 
 &emsp;(10) The term "facility" means any electric powerplant, or major fuel burning installation, as such terms are defined in the Powerplant and Industrial Fuel Use Act of 1978 \[42 U.S.C. 8301 et seq.\].
 
-&emsp;(11) The term "curtailment plan" means a plan (including any modification of such plan required by the Natural Gas Policy Act of 1978 \[15 U.S.C. 3301 et seq.\] ), in effect under theNatural Gas Act or State law, which provides for recognizing and implementing priorities of service during periods of curtailed deliveries by any local distribution company, intrastate pipeline, or interstate pipeline.
+&emsp;(11) The term "curtailment plan" means a plan (including any modification of such plan required by the Natural Gas Policy Act of 1978 \[15 U.S.C. 3301 et seq.\] ), in effect under the Natural Gas Act or State law, which provides for recognizing and implementing priorities of service during periods of curtailed deliveries by any local distribution company, intrastate pipeline, or interstate pipeline.
 
 &emsp;(12) The term "interstate commerce" has the same meaning as such term has under the Natural Gas Act.
 
@@ -106,6 +106,8 @@ No supplier of natural gas under any contract, with respect to which contractual
 
 (Pub. L. 95–617, title VI, §606, Nov. 9, 1978, 92 Stat. 3167.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Natural Gas Act, referred to in subsecs. (a)(2)(A)(i)(II), (b)(1), (c), (e)(5), (9), (11), (12), (f)(2), (3), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to this chapter (§717 et seq.). For complete classification of this Act to the Code, see section 717w of this title and Tables.
@@ -117,6 +119,8 @@ The Natural Gas Policy Act of 1978, referred to in subsec. (e)(11), is Pub. L. 9
 #### Codification
 
 Section was enacted as part of the Public Utility Regulatory Policies Act of 1978, and not as part of the Natural Gas Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

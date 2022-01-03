@@ -226,11 +226,11 @@ Authorized pay.—(A) Retired members employed under paragraph (1) of this subse
 
 #### Consideration of Maritime Administration Vessels
 
-Pub. L. 101–225, title II, §213, Dec. 12, 1989, 103 Stat. 1914, provided that: "Before acquiring a vessel for use by the Coast Guard, the Secretary of Transportation or the Commandant of the Coast Guard, as appropriate, shall review the inventory of vessels acquired by the Secretary or the Secretary of Commerce as the result of a default under title XI of the Merchant Marine Act, 1936 (\[former\] 46 App. U.S.C. 1271–1279c) \[see 46 U.S.C. 53701 et seq.\], to determine whether any of those vessels are suitable for use by the Coast Guard."
+Pub. L. 101–225, title II, §213, Dec. 12, 1989, 103 Stat. 1914, provided that: "Before acquiring a vessel for use by the Coast Guard, the Secretary of Transportation or the Commandant of the Coast Guard, as appropriate, shall review the inventory of vessels acquired by the Secretary or the Secretary of Commerce as the result of a default under title XI of the Merchant Marine Act,1936 (\[former\] 46 App. U.S.C. 1271–1279c) \[see 46 U.S.C. 53701 et seq.\], to determine whether any of those vessels are suitable for use by the Coast Guard."
 
 #### Lifesaving Equipment on Passenger Ferries
 
-Pub. L. 98–557, §10, Oct. 30, 1984, 98 Stat. 2863, provided that: "The Secretary of the department in which theCoast Guard is operating shall proceed vigorously with efforts to develop improved lifesaving equipment for use on passenger ferries."
+Pub. L. 98–557, §10, Oct. 30, 1984, 98 Stat. 2863, provided that: "The Secretary of the department in which the Coast Guard is operating shall proceed vigorously with efforts to develop improved lifesaving equipment for use on passenger ferries."
 
 #### Aircraft
 

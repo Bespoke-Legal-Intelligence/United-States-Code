@@ -4,7 +4,7 @@
 
 #### (1) United States law to prevail in conflict
 
-&emsp;No provision of any of the Uruguay Round Agreements, nor the application of any such provision to any person or circumstance, thatis inconsistent with any law of the United States shall have effect.
+&emsp;No provision of any of the Uruguay Round Agreements, nor the application of any such provision to any person or circumstance, that is inconsistent with any law of the United States shall have effect.
 
 #### (2) Construction
 
@@ -66,7 +66,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;No State law, or the application of such a State law, may be declared invalid as to anyperson or circumstance on the ground that the provision or application is inconsistent with any of the Uruguay Round Agreements, except in an action brought by the United States for the purpose of declaring such law or application invalid.
+&emsp;&emsp;No State law, or the application of such a State law, may be declared invalid as to any person or circumstance on the ground that the provision or application is inconsistent with any of the Uruguay Round Agreements, except in an action brought by the United States for the purpose of declaring such law or application invalid.
 
 #### (B) Procedures governing action
 
@@ -82,7 +82,7 @@
 
 #### (C) Reports to congressional committees
 
-&emsp;&emsp;At least 30 days before the United States brings an action described in subparagraph (A), the Trade Representative shall provide a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate—
+&emsp;&emsp;At least 30 days before the United States brings an action described in subparagraph\(A), the Trade Representative shall provide a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate—
 
 &emsp;&emsp;&emsp;(i) describing the proposed action;
 
@@ -127,6 +127,8 @@
 The statement of administrative action approved by the Congress under section 3511(a) of this title shall be regarded as an authoritative expression by the United States concerning the interpretation and application of the Uruguay Round Agreements and this Act in any judicial proceeding in which a question arises concerning such interpretation or application.
 
 (Pub. L. 103–465, title I, §102, Dec. 8, 1994, 108 Stat. 4815.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

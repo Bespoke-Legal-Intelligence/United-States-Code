@@ -26,7 +26,7 @@ For purposes of subsection (a) the recoverable amount is the excess of the amoun
 
 #### (c) Payments made on or after death or disability of participant; waiver of recovery in case of hardship
 
-(1) In the event of a distribution described in section 1343(b)(7) <sup>1</sup> of this title the 3-year period referred to in subsection (b) shall not end sooner than the date on which the corporation is notified of the distribution.
+(1) In the event of a distribution described in section 1343(b)(7) <sup>1</sup> of this title the 3-year period referred to in subsection (b) shall not end soonerthan the date on which the corporation is notified of the distribution.
 
 (2) The trustee shall not recover any payment made from a plan after or on account of the death of a participant, or to a participant who is disabled (within the meaning of section 72(m)(7) of title 26).
 

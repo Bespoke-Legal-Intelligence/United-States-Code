@@ -4,9 +4,13 @@ To facilitate the administration of the programs and activities of the Forest Se
 
 (Pub. L. 94–148, §1, Dec. 12, 1975, 89 Stat. 804.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 "Section 3324(a) and (b) of title 31" substituted in text for "the Act of January 31, 1823 (Rev. Stat. 3648, as amended; 31 U.S.C. 529)" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Forest Service Partnership Agreements
 
@@ -24,7 +28,7 @@ Agreements Authorized.—The Secretary of Agriculture may enter into an agreemen
 
 &emsp;"(4) To operate facilities (including providing the services of Forest Service employees to staff facilities) in any public or private building or on land not under the jurisdiction, custody, or control of the Administrator of General Services for the sale or distribution of educational and interpretive materials, products, programs, and services, pertaining to National Forest System lands, private lands, and lands administered by other public entities.
 
-&emsp;"(5) To sell health and safety products, visitor convenience items, or other similar items (as determined by the Secretary) in facilities not under the jurisdiction, custody, or control of the Administrator of General Services on or in the vicinity of National Forest System lands.
+&emsp;"(5) To sell health and safety products, visitor convenience items, or other similar items (as determinedby the Secretary) in facilities not under the jurisdiction, custody, or control of the Administrator of General Services on or in the vicinity of National Forest System lands.
 
 &emsp;"(6) To collect funds on behalf of cooperators from the sale of materials, products, programs, and services, as authorized by a preceding paragraph, when the collection of such funds is incidental to other duties of Forest Service employees.
 

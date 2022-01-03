@@ -10,7 +10,7 @@
 
 &emsp;(ii) is a plan described in section 1060(a) of this title that covers fewer than 1,000 participants, but only if no single employer in the plan has 100 or more participants covered by the plan.
 
-(B) Nothing contained in this paragraph shall preclude the Secretary from requiring any information or data from any such plan to which this part applies where he finds such data or information is necessary to carry out the purposes of this subchapter nor shall the Secretary be precluded from revoking provisions for simplified reports for any such plan if he finds it necessary to do so in order to carry out the objectives of this subchapter.
+(B) Nothing contained in this paragraph shall preclude the Secretary from requiring any information or data from any such plan to which this part applies where he finds such data or information is necessary to carry out the purposes of this subchapter nor shall the Secretary be precluded from revoking provisions for simplified reports for any such plan if he finds it necessaryto do so in order to carry out the objectives of this subchapter.
 
 (3) The Secretary may by regulation exempt any welfare benefit plan from all or part of the reporting and disclosure requirements of this subchapter, or may provide for simplified reporting and disclosure if he finds that such requirements are inappropriate as applied to welfare benefit plans.
 
@@ -70,7 +70,7 @@ The Secretary may by regulation require that the administrator of any employee b
 
 &emsp;&emsp;(C) a list of the employers that contributed more than 5 percent of the total contributions to the plan during such plan year;
 
-&emsp;&emsp;(D) the number of participants under the plan on whose behalf no contributions weremade by an employer as an employer of the participant for such plan year and for each of the 2 preceding plan years;
+&emsp;&emsp;(D) the number of participants under the plan on whose behalf no contributions were made by an employer as an employer of the participant for such plan year and for each of the 2 preceding plan years;
 
 &emsp;&emsp;(E) whether the plan was in critical or endangered status under section 1085 of this title for such plan year and, if so, include—
 
@@ -102,7 +102,7 @@ The Secretary may by regulation require that the administrator of any employee b
 
 &emsp;&emsp;<b>For regulations respecting coordination of reports to the Secretaries of Labor and the Treasury, see section 1204 of this title.</b>
 
-(Pub. L. 93–406, title I, §104, Sept. 2, 1974, 88 Stat. 847; Pub. L. 99–272, title XI, §11016(b)(2), Apr. 7, 1986, 100 Stat. 273; Pub. L. 100–203, title IX, §9342(a)(2), Dec. 22, 1987, 101 Stat. 1330–371; Pub. L. 101–239, title VII, §7894(b)(3), (4), Dec. 19, 1989, 103 Stat. 2448; Pub. L. 104–191, title I, §101(c)(1), Aug. 21, 1996, 110 Stat. 1951; Pub. L. 104–204, title VI, §603(b)(3)(D), Sept. 26, 1996, 110 Stat. 2938; Pub. L. 105–34, title XV, §1503(c)(1), (2)(A), (d)(1)–(3), Aug. 5, 1997, 111 Stat. 1062; Pub. L. 109–280, title V, §§503(c)(1), (d), 504(a), Aug. 17, 2006, 120 Stat. 943–945; Pub. L. 110–458, title I, §105(c)(1), Dec. 23, 2008, 122 Stat. 5105; Pub. L. 116–94, div. O, title I, §101(d)(2), Dec. 20, 2019, 133 Stat. 3145.)
+(Pub. L. 93–406, title I, §104, Sept. 2, 1974, 88 Stat. 847; Pub. L. 99–272, title XI, §11016(b)(2), Apr. 7, 1986, 100 Stat. 273; Pub. L. 100–203, title IX, §9342(a)(2), Dec. 22, 1987, 101 Stat. 1330–371; Pub. L. 101–239, title VII, §7894(b)(3), (4), Dec. 19, 1989,103 Stat. 2448; Pub. L. 104–191, title I, §101(c)(1), Aug. 21, 1996, 110 Stat. 1951; Pub. L. 104–204, title VI, §603(b)(3)(D), Sept. 26, 1996, 110 Stat. 2938; Pub. L. 105–34, title XV, §1503(c)(1), (2)(A), (d)(1)–(3), Aug. 5, 1997, 111 Stat. 1062; Pub. L. 109–280, title V, §§503(c)(1), (d), 504(a), Aug. 17, 2006, 120 Stat. 943–945; Pub. L. 110–458, title I, §105(c)(1), Dec. 23, 2008, 122 Stat. 5105; Pub. L. 116–94, div. O, title I, §101(d)(2), Dec. 20, 2019, 133 Stat. 3145.)
 
 #### <b>Editorial Notes</b>
 

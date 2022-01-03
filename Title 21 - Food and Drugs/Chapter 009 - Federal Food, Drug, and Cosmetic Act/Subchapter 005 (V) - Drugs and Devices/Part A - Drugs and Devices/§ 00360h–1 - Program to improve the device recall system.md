@@ -26,7 +26,7 @@ The program established under subsection (a)(1) shall, at a minimum, identify—
 
 In this section, the term "recall" means—
 
-&emsp;(1) the removal from the market of a device pursuant to an order of the Secretary under subsection (b) or (e) of section 360h of this title; or
+&emsp;(1) the removal from the market of a device pursuant to an order of the Secretary undersubsection (b) or (e) of section 360h of this title; or
 
 &emsp;(2) the correction or removal from the market of a device at the initiative of the manufacturer or importer of the device that is required to be reported to the Secretary under section 360i(g) of this title.
 

@@ -4,17 +4,23 @@ The Corporation, including its franchise, its capital, reserves, and surplus, an
 
 (Feb. 16, 1938, ch. 30, title V, §511, 52 Stat. 75; Pub. L. 103–354, title I, §108, Oct. 13, 1994, 108 Stat. 3197.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–354 inserted at end "A contract of insurance of the Corporation, and a contract of insurance reinsured by the Corporation, shall be exempt from taxation imposed by any State, municipality, or local taxing authority."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–354 effective Oct. 13, 1994, and applicable to provision of crop insurance under Federal Crop Insurance Act (7 U.S.C. 1501 et seq.) beginning with 1995 crop year, with such Act, as in effect on the day before Oct. 13, 1994, to continue to apply with respect to 1994 crop year, see section 120 of Pub. L. 103–354, set out as a note under section 1502 of this title.
 
+#### <b>Executive Documents</b>
+
 #### Transfer of Functions
 
-Administration of program of Federal Crop Insurance Corporation transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, §501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100. See note set out under section 1503 of this title.
+Administration of program of Federal Crop Insurance Corporation transferred to Secretary of Agriculture by1946 Reorg. Plan No. 3, §501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100. See note set out under section 1503 of this title.
 
 Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Conservation and Adjustment Administration, see note set out under section 1503 of this title.
 

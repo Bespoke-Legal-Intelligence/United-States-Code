@@ -1,6 +1,6 @@
 ### §9505. Performance awards for senior executives
 
-(a) Before September 30, 2013, Internal Revenue Service senior executives who have program management responsibility over significant functions of the Internal Revenue Service may be paid a performance bonus without regard to the limitation in section 5384(b)(2) if the Secretary of the Treasury finds such award warranted based on the executive's performance.
+(a) Before September 30, 2013, Internal Revenue Service senior executives who have program management responsibility over significant functions of the Internal Revenue Servicemay be paid a performance bonus without regard to the limitation in section 5384(b)(2) if the Secretary of the Treasury finds such award warranted based on the executive's performance.
 
 (b) In evaluating an executive's performance for purposes of an award under this section, the Secretary of the Treasury shall take into account the executive's contributions toward the successful accomplishment of goals and objectives established under the Government Performance and Results Act of 1993, subtitle III of title 40, Revenue Procedure 64–22 (as in effect on July 30, 1997), taxpayer service surveys, and other performance metrics or plans established in consultation with the Internal Revenue Service Oversight Board.
 

@@ -114,7 +114,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The amount of student loan payments made under service agreements under thissection on behalf of an eligible employee may not exceed—
+&emsp;&emsp;The amount of student loan payments made under service agreements under this section on behalf of an eligible employee may not exceed—
 
 &emsp;&emsp;&emsp;(i) $833 in any month; or
 
@@ -198,7 +198,7 @@ In this section:
 
 #### (B) Office subaccounts
 
-&emsp;&emsp;The Secretary shall ensure that, within the account established under subparagraph\(A), a separate subaccount is established for each employing office to be used by each such office to make student loan payments under this section. Such student loan payments shall be made from any funds available to the employing office for student loan payments that are contained in the subaccount for the office.
+&emsp;&emsp;The Secretary shall ensure that, within the account established under subparagraph (A), a separate subaccount is established for each employing office to be used by each such office to make student loan payments under this section. Such student loan payments shall be made from any funds available to the employing office for student loan payments that are contained in the subaccount for the office.
 
 #### (C) Limitation
 
@@ -214,7 +214,7 @@ In this section:
 
 #### (3) Limitation
 
-&emsp;Student loan payments may be made under this section only with respect to the amount of student loan indebtedness of the eligible employee that is outstanding on the date on which the employee and the employing office enter into a service agreement under this section. Such payments may not be made under this section on a student loan that is in default or arrears.
+&emsp;Student loan payments may be made under this section only with respect to the amountof student loan indebtedness of the eligible employee that is outstanding on the date on which the employee and the employing office enter into a service agreement under this section. Such payments may not be made under this section on a student loan that is in default or arrears.
 
 #### (4) Payment on multiple loans
 

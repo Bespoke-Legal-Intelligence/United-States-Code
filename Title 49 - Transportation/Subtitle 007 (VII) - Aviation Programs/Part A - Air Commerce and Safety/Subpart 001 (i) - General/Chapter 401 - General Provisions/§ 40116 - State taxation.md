@@ -154,6 +154,8 @@ In subsection (f)(2), before clause (A), the words "as such an employee" are omi
 
 This amends 49:40116(d)(2)(A)(iv) to conform to the style of title 49 and to set out the effective date for this clause.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this clause, referred to in subsec. (d)(2)(A)(v), is the date of enactment of Pub. L. 115–254, which was approved Oct. 5, 2018.
@@ -171,6 +173,8 @@ Pub. L. 104–287 substituted "levy" for "Levy".
 <b>1994</b>—Subsec. (d)(2)(A)(iv). Pub. L. 103–305, §112(e), added cl. (iv).
 
 Subsec. (f)(3). Pub. L. 103–305, §208, added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

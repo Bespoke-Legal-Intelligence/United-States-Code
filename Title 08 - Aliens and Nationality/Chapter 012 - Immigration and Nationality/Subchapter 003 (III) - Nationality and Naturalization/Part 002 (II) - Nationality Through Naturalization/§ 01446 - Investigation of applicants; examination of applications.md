@@ -14,7 +14,7 @@ The record of the examination upon any application for naturalization may, in th
 
 #### (d) Determination to grant or deny application
 
-The employee designated to conduct any such examination shall make a determination as to whether the application should be granted or denied, with reasons therefor.
+The employee designated to conduct any such examination shall make a determination as towhether the application should be granted or denied, with reasons therefor.
 
 #### (e) Withdrawal of application
 

@@ -4,11 +4,15 @@ All animals delivered for transportation, transported, purchased, or sold, in co
 
 (Pub. L. 89–544, §11, Aug. 24, 1966, 80 Stat. 351; Pub. L. 91–579, §12, Dec. 24, 1970, 84 Stat. 1562; Pub. L. 94–279, §5, Apr. 22, 1976, 90 Stat. 418.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Pub. L. 94–279 substituted "in commerce" for "affecting commerce".
 
 <b>1970</b>—Pub. L. 91–579 applied marking and identification requirements to dealers and exhibitors for animals, as defined, instead of only to dogs and cats when movements are affecting commerce, but limited such requirements for research facilities to only live dogs and cats.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1970 Amendment
 

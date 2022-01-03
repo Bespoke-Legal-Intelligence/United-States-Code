@@ -64,7 +64,7 @@ A local educational agency that desires to receive a subgrant under this section
 
 #### (2) Need
 
-&emsp;In determining need under paragraph (1), the State educational agency may consider the number of homeless children and youths enrolled in early childhood education and other preschool programs, elementary schools, and secondary schools, within the area served by the local educational agency, and shall consider the needs of such children and youths and the ability of the local educational agency to meet such needs. The State educational agency may also consider the following:
+&emsp;In determining need under paragraph (1), the State educational agency may consider the number of homeless children and youths enrolled in early childhood education and other preschool programs, elementary schools, andsecondary schools, within the area served by the local educational agency, and shall consider the needs of such children and youths and the ability of the local educational agency to meet such needs. The State educational agency may also consider the following:
 
 &emsp;&emsp;(A) The extent to which the proposed use of funds will facilitate the identification, enrollment, retention, and educational success of homeless children and youths.
 
@@ -134,6 +134,8 @@ A local educational agency may use funds awarded under this section for activiti
 
 (Pub. L. 100–77, title VII, §723, as added Pub. L. 107–110, title X, §1032, Jan. 8, 2002, 115 Stat. 2001; amended Pub. L. 114–95, title IX, §9103, Dec. 10, 2015, 129 Stat. 2134.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(2), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended generally. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
@@ -193,6 +195,8 @@ Subsec. (d)(12). Pub. L. 114–95, §9103(4)(G), substituted "specialized instru
 Subsec. (d)(13). Pub. L. 114–95, §9103(4)(H), inserted before period at end "and parental mental health or substance abuse problems".
 
 Subsec. (d)(16). Pub. L. 114–95, §9103(4)(I), inserted before period at end "and participate fully in school activities".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

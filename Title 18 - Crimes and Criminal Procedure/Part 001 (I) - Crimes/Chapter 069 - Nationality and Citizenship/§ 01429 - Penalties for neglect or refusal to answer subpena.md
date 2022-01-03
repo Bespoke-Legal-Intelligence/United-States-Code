@@ -1,6 +1,6 @@
 ### §1429. Penalties for neglect or refusal to answer subpena
 
-Any person who has been subpenaed under the provisions of subsection (d) of section 336 of the Immigration and Nationality Act to appear at the final hearing of an application for naturalization, and who shall neglect or refuse to so appear and to testify, if in the power of such person to do so, shall be fined under this title or imprisoned not more than five years, or both.
+Any person who has been subpenaed under the provisions of subsection (d) of section 336 of theImmigration and Nationality Act to appear at the final hearing of an application for naturalization, and who shall neglect or refuse to so appear and to testify, if in the power of such person to do so, shall be fined under this title or imprisoned not more than five years, or both.
 
 (Added June 27, 1952, ch. 477, title IV, §402(b), 66 Stat. 276; amended Pub. L. 97–116, §18(u)(1), Dec. 29, 1981, 95 Stat. 1621; Pub. L. 101–649, title IV, §407(c)(21), Nov. 29, 1990, 104 Stat. 5041; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 

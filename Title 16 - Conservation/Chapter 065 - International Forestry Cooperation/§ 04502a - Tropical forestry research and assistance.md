@@ -38,6 +38,8 @@ As used in this section:
 
 (Pub. L. 102–574, §3, Oct. 29, 1992, 106 Stat. 4596.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For Oct. 1, 1994, as the date the Compact of Free Association with the Republic of Palau enters into effect, referred to in subsec. (c)(2), see Proc. No. 6726, Sept. 27, 1994, 59 F.R. 49777, set out as a note under section 1931 of Title 48, Territories and Insular Possessions.
@@ -46,7 +48,9 @@ For Oct. 1, 1994, as the date the Compact of Free Association with the Republic 
 
 Section was enacted as part of the Hawaii Tropical Forest Recovery Act, and not as part of the International Forestry Cooperation Act of 1990 which comprises this chapter.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Authorization of Appropriations
 
-Pub. L. 102–574, §5, Oct. 29, 1992, 106 Stat. 4599, provided that: "There are authorized to be appropriatedsuch sums as are necessary to carry out sections 3 and 4 \[enacting this section and provisions set out as a note under 4503a of this title\]."
+Pub. L. 102–574, §5, Oct. 29, 1992, 106 Stat. 4599, provided that: "There are authorized to be appropriated such sums as are necessary to carry out sections 3 and 4 \[enacting this section and provisions set out as a note under 4503a of this title\]."
 

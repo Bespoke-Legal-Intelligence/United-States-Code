@@ -44,7 +44,7 @@ Level of Air Transportation.—(1) If the Secretary designates a place under sub
 
 (d)
 
-Compensation Payments.—(1) The Secretary shall pay compensation under this section when and in the way the Secretary decidesis appropriate. The Secretary shall continue to pay compensation under this section only as long as—
+Compensation Payments.—(1) The Secretary shall pay compensation under this section when and in the way the Secretary decides is appropriate. The Secretary shall continue to pay compensation under this section only as long as—
 
 &emsp;(A) the air carrier maintains the level of air transportation established by the Secretary under subsection (c)(1) of this section;
 
@@ -134,6 +134,8 @@ In subsection (d), the text of 49 App.:1389(d)(5) is omitted as unnecessary beca
 
 In subsection (f), the word "prescribe" is substituted for "establish" for consistency in the revised title and with other titles of the United States Code.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 401 of the Federal Aviation Act of 1958, referred to in subsec. (b)(1), is section 401 of Pub. L. 85–726, which was classified to section 1371 of former Title 49, Transportation, and was repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation. For disposition of section 1371 of former Title 49, see Table at the beginning of Title 49.
@@ -145,6 +147,8 @@ The date of enactment of this subsection, referred to in subsec. (h), is the dat
 <b>2018</b>—Subsec. (h). Pub. L. 115–254 added subsec. (h).
 
 <b>2000</b>—Subsec. (b). Pub. L. 106–181 inserted concluding provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

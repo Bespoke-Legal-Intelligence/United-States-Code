@@ -26,7 +26,7 @@ Definitions.—For purposes of this section—
 
 &emsp;(9) the term "sexually explicit conduct" means actual or simulated—
 
-&emsp;&emsp;(A) sexual intercourse, including sexual contact in the manner of genital-genital, oral-genital, anal-genital, or oral-anal contact, whether between persons of the same or of opposite sex; sexual contact means the intentional touching, either directly or through clothing, of the genitalia, anus, groin, breast, inner thigh, or buttocks of any person with an intent to abuse, humiliate,harass, degrade, or arouse or gratify sexual desire of any person;
+&emsp;&emsp;(A) sexual intercourse, including sexual contact in the manner of genital-genital, oral-genital, anal-genital, or oral-anal contact, whether between persons of the same or of opposite sex; sexual contact means the intentional touching, either directly or through clothing, of the genitalia, anus, groin, breast, inner thigh, or buttocks of any person with an intent to abuse, humiliate, harass, degrade, or arouse or gratify sexual desire of any person;
 
 &emsp;&emsp;(B) bestiality;
 
@@ -114,7 +114,7 @@ Videotaped deposition of child.—(A) In a proceeding involving an alleged offen
 
 Handling of videotape.—The complete record of the examination of the child, including the image and voices of all persons who in any way participate in the examination, shall be made and preserved on video tape in addition to being stenographically recorded. The videotape shall be transmitted to the clerk of the court in which the action is pending and shall be made available for viewing to the prosecuting attorney, the defendant, and the defendant's attorney during ordinary business hours.
 
-&emsp;(C) If at the time of trial the court finds that the child is unable to testify as for a reason described in subparagraph (B)(i), the court may admit into evidence the child's videotaped deposition in lieu of the child's testifying at the trial. The court shall support a ruling under this subparagraph with findings on the record.
+&emsp;(C) If at the time of trial the court finds that the child is unable to testify as for a reason described in subparagraph (B)(i), the court may admit into evidence the child's videotaped deposition in lieu of the child's testifying at the trial. The court shall support aruling under this subparagraph with findings on the record.
 
 &emsp;(D) Upon timely receipt of notice that new evidence has been discovered after the original videotaping and before or during trial, the court, for good cause shown, may order an additional videotaped deposition. The testimony of the child shall be restricted to the matters specified by the court as the basis for granting the order.
 

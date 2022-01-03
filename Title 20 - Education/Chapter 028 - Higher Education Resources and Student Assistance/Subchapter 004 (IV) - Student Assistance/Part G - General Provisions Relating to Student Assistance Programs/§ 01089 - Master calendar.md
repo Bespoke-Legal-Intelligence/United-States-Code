@@ -80,6 +80,8 @@ Prior to the beginning of each award year, the Secretary shall provide to instit
 
 (Pub. L. 89–329, title IV, §482, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1477; amended Pub. L. 100–50, §15(2), June 3, 1987, 101 Stat. 355; Pub. L. 102–325, title IV, §482, July 23, 1992, 106 Stat. 612; Pub. L. 103–208, §2(h)(7), Dec. 20, 1993, 107 Stat. 2476; Pub. L. 104–66, title I, §1042(b), Dec. 21, 1995, 109 Stat. 715; Pub. L. 105–244, title IV, §481, Oct. 7, 1998, 112 Stat. 1732; Pub. L. 110–315, title I, §103(b)(9), title IV, §482(a), Aug. 14, 2008, 122 Stat. 3089, 3271; Pub. L. 111–39, title IV, §407(b)(2), July 1, 2009, 123 Stat. 1950.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1089, Pub. L. 89–329, title IV, §482, as added Pub. L. 96–374, title IV, §451(a), Oct. 3, 1980, 94 Stat. 1445; amended Pub. L. 97–35, title V, §533(a)(1), (2), (b), Aug. 13, 1981, 95 Stat. 453; Pub. L. 99–272, title XVI, §16031, Apr. 7, 1986, 100 Stat. 354, related to analysis of student's need for financial assistance, prior to the general revision of this part by Pub. L. 99–498.
@@ -102,7 +104,7 @@ Subsec. (e). Pub. L. 110–315, §482(a)(2), added subsec. (e).
 
 <b>1998</b>—Subsec. (a)(3), (4). Pub. L. 105–244, §481(a), added pars. (3) and (4).
 
-Subsec. (c). Pub. L. 105–244, §481(b), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: "Any regulatory changes initiated by the Secretary affecting the programs pursuant to this subchapter that have not been published in final form by December 1 prior to the start of the award year shall not become effective until the beginning of thesecond award year after such December 1 date. For award year 1994–95, this subsection shall not require a delay in the effectiveness of regulatory changes affecting parts B, G, and H of this subchapter that are published in final form by May 1, 1994."
+Subsec. (c). Pub. L. 105–244, §481(b), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: "Any regulatory changes initiated by the Secretary affecting the programs pursuant to this subchapter that have not been published in final form by December 1 prior to the start of the award year shall not become effective until the beginning of the second award year after such December 1 date. For award year 1994–95, this subsection shall not require a delay in the effectiveness of regulatory changes affecting parts B, G, and H of this subchapter that are published in final form by May 1, 1994."
 
 <b>1995</b>—Subsec. (d). Pub. L. 104–66, in first sentence substituted "a deadline included in the calendar described in subsection (a) is not met" for "the items specified in the calendar have been completed and provide all relevant forms, rules, and instructions with such notice" and after first sentence struck out "When a deadline included in the calendar is not met, the Secretary, within 7 days, shall submit to the Committee on Labor and Human Resources of the Senate and the Committee on Education and Labor of the House of Representatives a written report, including proper documentation, as to why the deadline was not adhered to and a detailed plan for ensuring that subsequent dates are met."
 
@@ -115,6 +117,8 @@ Subsec. (b). Pub. L. 102–325, §482(b)(2), substituted "subpart 3" for "subpar
 Subsec. (c). Pub. L. 102–325, §482(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "Any additional regulatory changes initiated by the Secretary affecting the general administration of the programs pursuant to this subchapter that have not been published in final form by December 1 prior to the start of the award year shall not become effective until the beginning of the second award year after the December 1 date."
 
 <b>1987</b>—Subsec. (b). Pub. L. 100–50 inserted reference to section 1087bb(j) of this title and part E of this subchapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 
@@ -152,7 +156,7 @@ Pub. L. 110–315, title IV, §402(b), Aug. 14, 2008, 122 Stat. 3191, provided t
 
 Pub. L. 110–227, §11, May 7, 2008, 122 Stat. 752, as amended by Pub. L. 110–315, title IV, §402(c)(1), Aug. 14, 2008, 122 Stat. 3191, provided that: "Sections 482 and 492 of the Higher Education Act of 1965 (20 U.S.C. 1089, 1098a) shall not apply to amendments made by this Act \[see Tables for classification\], or to any regulations promulgated under such amendments."
 
-\[Pub. L. 110–315, title IV, §402(c)(2), Aug. 14, 2008, 122 Stat. 3191, provided that: "The amendment made by paragraph (1) \[amending section 11 of Pub. L. 110–227, set out above\] shall take effect as if enacted as part of the Ensuring Continued Access to Student Loans Act of 2008 \[Pub. L. 110–227\]."\]
+\[Pub. L. 110–315, title IV, §402(c)(2), Aug. 14, 2008, 122 Stat. 3191, provided that: "The amendment made by paragraph (1) \[amending section 11 of Pub. L. 110–227, set out above\] shall take effect as if enacted as part ofthe Ensuring Continued Access to Student Loans Act of 2008 \[Pub. L. 110–227\]."\]
 
 #### Establishment of Separate Systems of Need Analysis for Academic Years 1983–1984 Through 1987–1988
 

@@ -8,7 +8,7 @@
 
 #### (2) Limited review of agency compliance or noncompliance
 
-&emsp;(A) Agency compliance or noncompliance with the provisions of sections 1532 and1533(a)(1) and (2) of this title shall be subject to judicial review only under section 706(1) of title 5, and only as provided under subparagraph (B).
+&emsp;(A) Agency compliance or noncompliance with the provisions of sections 1532 and 1533(a)(1) and (2) of this title shall be subject to judicial review only under section 706(1) of title 5, and only as provided under subparagraph (B).
 
 &emsp;(B) If an agency fails to prepare the written statement (including the preparation of the estimates, analyses, statements, or descriptions) under section 1532 of this title or the written plan under section 1533(a)(1) and (2) of this title, a court may compel the agency to prepare such written statement.
 
@@ -42,5 +42,5 @@ Except as provided in subsection (a)—
 
 #### References in Text
 
-This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 104–4, Mar. 22, 1995, 109 Stat. 48, known as the Unfunded Mandates Reform Act of 1995. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of this title and Tables.
+This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 104–4, Mar. 22,1995, 109 Stat. 48, known as the Unfunded Mandates Reform Act of 1995. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of this title and Tables.
 

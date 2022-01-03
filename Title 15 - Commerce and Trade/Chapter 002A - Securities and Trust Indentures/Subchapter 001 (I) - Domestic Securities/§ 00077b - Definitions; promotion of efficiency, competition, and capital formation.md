@@ -4,7 +4,7 @@
 
 When used in this subchapter, unless the context otherwise requires—
 
-&emsp;(1) The term "security" means any note, stock, treasury stock, security future, security-based swap, bond, debenture, evidence of indebtedness, certificate of interest or participation in any profit-sharing agreement, collateral-trust certificate, preorganization certificate or subscription, transferable share, investment contract, voting-trust certificate, certificate of deposit for a security, fractional undivided interest in oil, gas, or other mineral rights, any put, call, straddle, option, or privilege on any security, certificate of deposit, or group or index of securities (including any interest therein or based on the value thereof), or any put, call, straddle, option, or privilege entered into on a national securities exchangerelating to foreign currency, or, in general, any interest or instrument commonly known as a "security", or any certificate of interest or participation in, temporary or interim certificate for, receipt for, guarantee of, or warrant or right to subscribe to or purchase, any of the foregoing.
+&emsp;(1) The term "security" means any note, stock, treasury stock, security future, security-based swap, bond, debenture, evidence of indebtedness, certificate of interest or participation in any profit-sharing agreement, collateral-trust certificate, preorganization certificate or subscription, transferable share, investment contract, voting-trust certificate, certificate of deposit for a security, fractional undivided interest in oil, gas, or other mineral rights, any put, call, straddle, option, or privilege on any security, certificate of deposit, or group or index of securities (including any interest therein or based on the value thereof), or any put, call, straddle, option, or privilege entered into on a national securities exchange relating to foreign currency, or, in general, any interest or instrument commonly known as a "security", or any certificate of interest or participation in, temporary or interim certificate for, receipt for, guarantee of, or warrant or right to subscribe to or purchase, any of the foregoing.
 
 &emsp;(2) The term "person" means an individual, a corporation, a partnership, an association, a joint-stock company, a trust, any unincorporated organization, or a government or political subdivision thereof. As used in this paragraph the term "trust" shall include only a trust where the interest or interests of the beneficiary or beneficiaries are evidenced by a security.
 
@@ -46,7 +46,7 @@ When used in this subchapter, unless the context otherwise requires—
 
 &emsp;(19) The term "emerging growth company" means an issuer that had total annual gross revenues of less than $1,000,000,000 (as such amount is indexed for inflation every 5 years by the Commission to reflect the change in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics, setting the threshold to the nearest 1,000,000) during its most recently completed fiscal year. An issuer that is an emerging growth company as of the first day of that fiscal year shall continue to be deemed an emerging growth company until the earliest of—
 
-&emsp;&emsp;(A) the last day of the fiscal year of the issuer during which it had total annual grossrevenues of $1,000,000,000 (as such amount is indexed for inflation every 5 years by the Commission to reflect the change in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics, setting the threshold to the nearest 1,000,000) or more;
+&emsp;&emsp;(A) the last day of the fiscal year of the issuer during which it had total annual gross revenues of $1,000,000,000 (as such amount is indexed for inflation every 5 years by the Commission to reflect the change in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics, setting the threshold to the nearest 1,000,000) or more;
 
 &emsp;&emsp;(B) the last day of the fiscal year of the issuer following the fifth anniversary of the date of the first sale of common equity securities of the issuer pursuant to an effective registration statement under this subchapter;
 
@@ -60,6 +60,8 @@ Whenever pursuant to this subchapter the Commission is engaged in rulemaking and
 
 (May 27, 1933, ch. 38, title I, §2, 48 Stat. 74; June 6, 1934, ch. 404, title II, §201, 48 Stat. 905; Aug. 10, 1954, ch. 667, title I, §§1–4, 68 Stat. 683, 684; Pub. L. 86–70, §12(a), June 25, 1959, 73 Stat. 143; Pub. L. 86–624, §7(a), July 12, 1960, 74 Stat. 412; Pub. L. 91–547, §27(a), Dec. 14, 1970, 84 Stat. 1433; Pub. L. 96–477, title VI, §603, Oct. 21, 1980, 94 Stat. 2294; Pub. L. 97–303, §1, Oct. 13, 1982, 96 Stat. 1409; Pub. L. 100–181, title II, §§201, 202, Dec. 4, 1987, 101 Stat. 1252; Pub. L. 104–290, title I, §106(a), Oct. 11, 1996, 110 Stat. 3424; Pub. L. 105–353, title III, §301(a)(1), Nov. 3, 1998, 112 Stat. 3235; Pub. L. 106–554, §1(a)(5) \[title II, §208(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–434; Pub. L. 111–203, title VII, §768(a), July 21, 2010, 124 Stat. 1800; Pub. L. 112–106, title I, §§101(a), 105(a), Apr. 5, 2012, 126 Stat. 307, 310.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Investment Company Act of 1940, referred to in subsec. (a)(15)(i), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
@@ -68,7 +70,7 @@ The Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(
 
 #### Codification
 
-Words "Philippine Islands" deleted from definition of term "Territory" under authority of Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, 60 Stat. 1352, which granted independence to the Philippine Islands. Proc. No. 2695 was issued pursuant to section 1394 of Title 22, Foreign Relations and Intercourse, and is set out as a note under that section.
+Words "Philippine Islands" deleted from definition of term "Territory" under authority of Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, 60 Stat. 1352, which grantedindependence to the Philippine Islands. Proc. No. 2695 was issued pursuant to section 1394 of Title 22, Foreign Relations and Intercourse, and is set out as a note under that section.
 
 #### Amendments
 
@@ -110,9 +112,11 @@ Par. (6). Pub. L. 100–181, §202, struck out reference to Canal Zone.
 
 <b>1934</b>—Act June 6, 1934, amended pars. (1), (4), and (10).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2012 Amendment
 
-Pub. L. 112–106, title I, §101(d), Apr. 5, 2012, 126 Stat. 308, provided that: "Notwithstanding section 2(a)(19) ofthe Securities Act of 1933 \[15 U.S.C. 77b(a)(19)\] and section 3(a)(80) of the Securities Exchange Act of 1934 \[15 U.S.C. 78c(a)(80)\], an issuer shall not be an emerging growth company for purposes of such Acts \[15 U.S.C. 77a et seq., 78a et seq.\] if the first sale of common equity securities of such issuer pursuant to an effective registration statement under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] occurred on or before December 8, 2011."
+Pub. L. 112–106, title I, §101(d), Apr. 5, 2012, 126 Stat. 308, provided that: "Notwithstanding section 2(a)(19) of the Securities Act of 1933 \[15 U.S.C. 77b(a)(19)\] and section 3(a)(80) of the Securities Exchange Act of 1934 \[15 U.S.C. 78c(a)(80)\], an issuer shall not be an emerging growth company for purposes of such Acts \[15 U.S.C. 77a et seq., 78a et seq.\] if the first sale of common equity securities of such issuer pursuant to an effective registration statement under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] occurred on or before December 8, 2011."
 
 #### Effective Date of 2010 Amendment
 
@@ -125,10 +129,6 @@ Amendment by Pub. L. 91–547 effective Dec. 14, 1970, see section 30 of Pub. L.
 #### Effective Date of 1954 Amendment
 
 Act Aug. 10, 1954, ch. 667, §501, 68 Stat. 689, provided that: "This Act \[amending this section and sections 77c to 77e, 77j, 77l, 77q, 77v, 77ccc to 77fff, 77xxx, 78k, 78l, 80a–2 and 80a–24 of this title\] shall take effect sixty days after the date of its enactment \[Aug. 10, 1954\]."
-
-#### Transfer of Functions
-
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 #### Adjusting the Accredited Investor Standard
 
@@ -165,6 +165,12 @@ Subsequent reviews.—Not earlier than 4 years after the date of enactment of th
 &emsp;&emsp;"(B)
 
 Adjustment or modification.—Upon completion of a review under subparagraph (A), the Commission may, by notice and comment rulemaking, make such adjustments to the definition of the term 'accredited investor', as defined in section 230.215 of title 17, Code of Federal Regulations, or any successor thereto, as such term applies to natural persons, as the Commission may deem appropriate for the protection of investors, in the public interest, and in light of the economy."
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

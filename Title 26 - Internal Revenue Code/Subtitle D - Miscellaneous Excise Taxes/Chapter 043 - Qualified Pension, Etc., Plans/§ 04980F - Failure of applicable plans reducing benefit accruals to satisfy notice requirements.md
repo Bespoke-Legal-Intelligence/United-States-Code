@@ -8,7 +8,7 @@ There is hereby imposed a tax on the failure of any applicable pension plan to m
 
 #### (1) In general
 
-&emsp;The amount of the tax imposed by subsection (a) on any failure with respect to any applicable individual shall be $100 for each dayin the noncompliance period with respect to such failure.
+&emsp;The amount of the tax imposed by subsection (a) on any failure with respect to any applicable individual shall be $100 for each day in the noncompliance period with respect to such failure.
 
 #### (2) Noncompliance period
 
@@ -110,6 +110,8 @@ The Secretary may by regulations allow any notice under subsection (e) to be pro
 
 (Added Pub. L. 107–16, title VI, §659(a)(1), June 7, 2001, 115 Stat. 137; amended Pub. L. 107–147, title IV, §411(u)(1), Mar. 9, 2002, 116 Stat. 51; Pub. L. 109–280, title V, §502(c)(2), Aug. 17, 2006, 120 Stat. 941.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (e)(1). Pub. L. 109–280 inserted "and to each employer who has an obligation to contribute to the plan" before period at end.
@@ -119,6 +121,8 @@ The Secretary may by regulations allow any notice under subsection (e) to be pro
 Subsec. (f)(2)(A). Pub. L. 107–147, §411(u)(1)(B), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "any defined benefit plan, or".
 
 Subsec. (f)(3). Pub. L. 107–147, §411(u)(1)(C), struck out "significantly" before "reduces" and before "reducing".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

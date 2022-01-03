@@ -76,7 +76,7 @@ The Office, in consultation with the Chesapeake Executive Council, shall—
 
 #### (A) Support
 
-&emsp;&emsp;The Director shall make grants under this subsection to pay the Federal share of the cost of projects that are carried out by entities eligible under paragraph (3) for the restoration of fisheries and habitats in the Chesapeake Bay.
+&emsp;&emsp;The Director shall make grants under this subsection to pay the Federal share of thecost of projects that are carried out by entities eligible under paragraph (3) for the restoration of fisheries and habitats in the Chesapeake Bay.
 
 #### (B) Federal share
 
@@ -114,7 +114,7 @@ The Office, in consultation with the Chesapeake Executive Council, shall—
 
 #### (d) Chesapeake Executive Council
 
-For purposes of this section, "Chesapeake Executive Council" means the representatives from the Commonwealth of Virginia, the State of Maryland, the Commonwealth of Pennsylvania, the Environmental Protection Agency,the District of Columbia, and the Chesapeake Bay Commission, who are signatories to the Chesapeake Bay Agreement, and any future signatories to that Agreement.
+For purposes of this section, "Chesapeake Executive Council" means the representatives from the Commonwealth of Virginia, the State of Maryland, the Commonwealth of Pennsylvania, the Environmental Protection Agency, the District of Columbia, and the Chesapeake Bay Commission, who are signatories to the Chesapeake Bay Agreement, and any future signatories to that Agreement.
 
 #### (e) Authorization of appropriations
 
@@ -122,9 +122,13 @@ There is authorized to be appropriated to the Department of Commerce for the Che
 
 (Pub. L. 102–567, title III, §307, Oct. 29, 1992, 106 Stat. 4284; Pub. L. 107–372, title IV, §401(a), Dec. 19, 2002, 116 Stat. 3096.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Pub. L. 107–372 substituted "Chesapeake Bay Office" for "Chesapeake Bay Estuarine Resources Office" in section catchline and amended text generally, substituting provisions establishing Office, describing functions, establishing habitat restoration small watershed grants program, and authorizing appropriations, for provisions establishing Office, describing functions, and requiring identification of funding request in President's annual budget.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Multiple Species Management Strategy
 

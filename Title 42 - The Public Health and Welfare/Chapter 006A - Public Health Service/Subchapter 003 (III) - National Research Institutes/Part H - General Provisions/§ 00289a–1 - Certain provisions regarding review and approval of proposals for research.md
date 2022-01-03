@@ -42,7 +42,7 @@
 
 &emsp;(B) A statement issued under subparagraph (A) shall include a request that interested individuals submit to the Secretary recommendations specifying the particular individuals who should be appointed to the advisory board involved. The Secretary shall consider such recommendations in making appointments to the board.
 
-&emsp;(C) The Secretary may not make appointments to an advisory board under paragraph\(1) until the expiration of the 30-day period beginning on the date on which the statement required in subparagraph (A) is made with respect to the board.
+&emsp;(C) The Secretary may not make appointments to an advisory board under paragraph (1) until the expiration of the 30-day period beginning on the date on which the statement required in subparagraph (A) is made with respect to the board.
 
 #### (5) Ethics advisory boards
 
@@ -86,9 +86,13 @@
 
 (July 1, 1944, ch. 373, title IV, §492A, as added Pub. L. 103–43, title I, §101, June 10, 1993, 107 Stat. 126; amended Pub. L. 109–482, title I, §102(e), Jan. 15, 2007, 120 Stat. 3684.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2007</b>—Subsec. (a)(2). Pub. L. 109–482 inserted before period at end ", and unless a majority of the voting members of the appropriate advisory council under section 284a of this title, or as applicable, of the advisory council under section 282(k) of this title, has recommended the proposal for approval".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -102,5 +106,5 @@ Amendment by Pub. L. 109–482 applicable only with respect to amounts appropria
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 

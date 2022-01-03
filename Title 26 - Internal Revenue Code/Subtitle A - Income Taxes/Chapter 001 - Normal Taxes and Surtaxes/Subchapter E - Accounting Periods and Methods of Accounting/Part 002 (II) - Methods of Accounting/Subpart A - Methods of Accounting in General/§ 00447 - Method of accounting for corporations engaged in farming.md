@@ -52,7 +52,7 @@ Any change in method of accounting made pursuant to this section shall be treate
 
 &emsp;&emsp;(B) a qualified partnership acquired substantially all the assets of a qualified farming trade or business from one of its partners in a transaction to which section 721 applies,
 
-> &emsp;the transferee corporation or qualified partnership shall be deemed to have computed its taxable income on an annual accrual method of accounting during the period for which the transferor corporation or partnership computed its taxable income from such trade or business on an annual accrual method.
+> &emsp;the transferee corporation or qualified partnership shall be deemed to have computed its taxable income on an annual accrual method of accounting during the period for which thetransferor corporation or partnership computed its taxable income from such trade or business on an annual accrual method.
 
 #### (4) Qualified partnership defined
 
@@ -89,6 +89,8 @@ Any change in method of accounting made pursuant to this section shall be treate
 &emsp;&emsp;&emsp;Unless the Secretary otherwise consents, an election under this subparagraph may be made only for the corporation's 1st taxable year which begins after December 31, 1986, and during which the corporation engages in a farming business. Any such election, once made, may be revoked only with the consent of the Secretary.
 
 (Added Pub. L. 94–455, title II, §207(c)(1)(A), Oct. 4, 1976, 90 Stat. 1538; amended Pub. L. 95–600, title III, §§351(a), 353(a), title VII, §§701(l)(1), 703(d), Nov. 6, 1978, 92 Stat. 2846, 2847, 2906, 2939; Pub. L. 97–248, title II, §230(a), Sept. 3, 1982, 96 Stat. 495; Pub. L. 97–354, §5(a)(28), (29), Oct. 19, 1982, 96 Stat. 1695; Pub. L. 99–514, title VIII, §803(b)(7), Oct. 22, 1986, 100 Stat. 2356; Pub. L. 100–203, title X, §10205(a)–(c), Dec. 22, 1987, 101 Stat. 1330–395 to 1330–397; Pub. L. 100–647, title I, §1008(b)(5), (6), Nov. 10, 1988, 102 Stat. 3438; Pub. L. 101–508, title XI, §11702(b), Nov. 5, 1990, 104 Stat. 1388–514; Pub. L. 105–34, title X, §1081(a), Aug. 5, 1997, 111 Stat. 949; Pub. L. 115–97, title I, §13102(a)(5), Dec. 22, 2017, 131 Stat. 2102.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -150,7 +152,7 @@ Subsec. (i). Pub. L. 100–203, §10205(b), added subsec. (i).
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–514, §803(b)(7)(B), which directed that subsec. (a) be amended by striking out "and with the capitalization of preproductive period of expenses described in subsection (b)", was executed by striking out "and with the capitalization of preproductive period expenses described in subsection (b)" after "accrual method of accounting", as the probable intent of Congress.
 
-Subsec. (b). Pub. L. 99–514, §803(b)(7)(A), in amending subsec. (b) generally, substituted in heading "period of expenses" for "period expenses" and in text the crossreference to section 263A for former par. (1) defining "preproductive period expenses", par. (2) relating to exceptions, and par. (3) defining "preproductive period".
+Subsec. (b). Pub. L. 99–514, §803(b)(7)(A), in amending subsec. (b) generally, substituted in heading "period of expenses" for "period expenses" and in text the cross reference to section 263A for former par. (1) defining "preproductive period expenses", par. (2) relating to exceptions, and par. (3) defining "preproductive period".
 
 Subsec. (g)(1). Pub. L. 99–514, §803(b)(7)(C), substituted "Notwithstanding subsection (a) or section 263A, if" for "If".
 
@@ -171,6 +173,8 @@ Subsec. (f)(3). Pub. L. 95–600, §701(l)(1), struck out "(except as otherwise 
 Subsec. (g)(2). Pub. L. 95–600, §703(d), substituted "preproductive period expenses" for "preproductive expenses".
 
 Subsec. (h). Pub. L. 95–600, §351(a), added subsec. (h).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 

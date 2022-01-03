@@ -6,13 +6,15 @@ In issuing preliminary permits hereunder or original licenses where no prelimina
 
 #### (b) Development of water resources by United States; reports
 
-Whenever, in the judgment of the Commission, the development of any water resources for public purposes should be undertaken by the UnitedStates itself, the Commission shall not approve any application for any project affecting such development, but shall cause to be made such examinations, surveys, reports, plans, and estimates of the cost of the proposed development as it may find necessary, and shall submit its findings to Congress with such recommendations as it may find appropriate concerning such development.
+Whenever, in the judgment of the Commission, the development of any water resources for public purposes should be undertaken by the United States itself, the Commission shall not approve any application for any project affecting such development, but shall cause to be made such examinations, surveys, reports, plans, and estimates of the cost of the proposed development as it may find necessary, and shall submit its findings to Congress with such recommendations as it may find appropriate concerning such development.
 
 #### (c) Assumption of project by United States after expiration of license
 
 Whenever, after notice and opportunity for hearing, the Commission determines that the United States should exercise its right upon or after the expiration of any license to take over any project or projects for public purposes, the Commission shall not issue a new license to the original licensee or to a new licensee but shall submit its recommendation to Congress together with such information as it may consider appropriate.
 
 (June 10, 1920, ch. 285, pt. I, §7, 41 Stat. 1067; renumbered pt. I and amended, Aug. 26, 1935, ch. 687, title II, §§205, 212, 49 Stat. 842, 847; Pub. L. 90–451, §1, Aug. 3, 1968, 82 Stat. 616; Pub. L. 99–495, §2, Oct. 16, 1986, 100 Stat. 1243; Pub. L. 115–325, title II, §201(a), Dec. 18, 2018, 132 Stat. 4459.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -27,6 +29,8 @@ Additional provisions in the section as enacted by act June 10, 1920, directing 
 <b>1968</b>—Subsec. (c). Pub. L. 90–451 added subsec. (c).
 
 <b>1935</b>—Act Aug. 26, 1935, §205, amended section generally, striking out "navigation and" before "water resources" wherever appearing, and designating paragraphs as subsecs. (a) and (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

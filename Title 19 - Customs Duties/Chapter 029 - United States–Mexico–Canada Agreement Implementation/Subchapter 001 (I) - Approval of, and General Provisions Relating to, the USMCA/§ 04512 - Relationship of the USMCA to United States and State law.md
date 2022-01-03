@@ -40,7 +40,9 @@ No person other than the United States—
 
 (Pub. L. 116–113, title I, §102, Jan. 29, 2020, 134 Stat. 15.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This Act, referred to in subsec. (a)(2), is Pub. L. 116–113, Jan. 29, 2020, 134 Stat. 11, known as the UnitedStates-Mexico-Canada Agreement Implementation Act. For complete classification of this Act to the Code, see Short Title note set out under section 4501 of this title and Tables.
+This Act, referred to in subsec. (a)(2), is Pub. L. 116–113, Jan. 29, 2020, 134 Stat. 11, known as the United States-Mexico-Canada Agreement Implementation Act. For complete classification of this Act to the Code, see Short Title note set out under section 4501 of this title and Tables.
 

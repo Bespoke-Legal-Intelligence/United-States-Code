@@ -22,7 +22,7 @@ Tennessee valley authority.—Notwithstanding paragraph (1), a decision of the b
 
 &emsp;(3)
 
-Review of arbitration.—An award by an arbitrator under this chapter shall be reviewed pursuant to sections 9 to 13 of title 9, except that the court may set aside or limit any award that is found to violate limitations imposed by Federal statute.
+Review of arbitration.—An award by an arbitrator under this chapter shall be reviewed pursuant to sections 9 to 13 of title 9, exceptthat the court may set aside or limit any award that is found to violate limitations imposed by Federal statute.
 
 (b)
 

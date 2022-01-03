@@ -1,0 +1,26 @@
+### §3510. Additional medical and safety standards
+
+(a)
+
+Automated External Defibrillators.—Not later than 1 year after the date of enactment of this section, the Secretary, in consultation with the Secretary of Health and Human Services and other appropriate Federal agencies, shall promulgate regulations to—
+
+&emsp;(1) require that the owner of a vessel to which section 3507 applies install, and maintain in working order, automated external defibrillators on such vessel;
+
+&emsp;(2) require that such defibrillators be placed throughout such vessel in clearly designated locations;
+
+&emsp;(3) require that such defibrillators are available for passenger and crew access in the event of an emergency; and
+
+&emsp;(4) require that automated external defibrillators, or adjacent equipment, allow passengers and crew to easily contact medical staff of the vessel.
+
+(b)
+
+Definition of Owner.—In this section, the term "owner" has the meaning given such term in section 3507.
+
+(Added Pub. L. 117–14, §3(a), May 24, 2021, 135 Stat. 275.)
+
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+The date of enactment of this section, referred to in subsec. (a), is the date of enactment of Pub. L. 117–14, which was approved May 24, 2021.
+

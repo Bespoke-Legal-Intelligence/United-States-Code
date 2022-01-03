@@ -38,6 +38,8 @@ As used in this subchapter:
 
 (Oct. 31, 1949, ch. 792, title VI, §602, as added Pub. L. 100–387, title I, §101(a), Aug. 11, 1988, 102 Stat. 926; amended Pub. L. 108–447, div. A, title VII, §785(b)(1), Dec. 8, 2004, 118 Stat. 2850; Pub. L. 109–97, title VII, §784(b)(1), Nov. 10, 2005, 119 Stat. 2162; Pub. L. 115–334, title XII, §12104, Dec. 20, 2018, 132 Stat. 4942.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 5304 of title 25, referred to in par. (1)(B)(i), (iii), has been amended, and subsecs. (b) and (c) of section 5304 no longer define the terms "Indian tribe" and "tribal organization". However, such terms are defined elsewhere in that section.
@@ -53,6 +55,8 @@ Section 1985(e)(1)(D)(ii) of this title, referred to in par. (5), was redesignat
 <b>2005</b>—Par. (2). Pub. L. 109–97, in introductory provisions, inserted "horses, deer," after "bison," and struck out "equine animals used for food or in the production of food," before "fish".
 
 <b>2004</b>—Par. (2). Pub. L. 108–447 inserted "elk, reindeer, bison," after "means cattle," in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2005 Amendment
 
@@ -82,7 +86,7 @@ Pub. L. 109–97, title VII, §784(a), Nov. 10, 2005, 119 Stat. 2162, provided t
 
 Section inapplicable to 2014 through 2018 crops of covered commodities, cotton, and sugar and inapplicable to milk during period beginning Feb. 7, 2014, through Dec. 31, 2018, see section 9092(b)(12) of this title.
 
-Section inapplicable to 2008 through 2012 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning June 18, 2008, through Dec. 31, 2012, see section 8782(b)(12) of this title.
+Section inapplicable to 2008 through 2012 crops of covered commodities, peanuts, and sugar and inapplicableto milk during period beginning June 18, 2008, through Dec. 31, 2012, see section 8782(b)(12) of this title.
 
 Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(b)(12) of this title.
 

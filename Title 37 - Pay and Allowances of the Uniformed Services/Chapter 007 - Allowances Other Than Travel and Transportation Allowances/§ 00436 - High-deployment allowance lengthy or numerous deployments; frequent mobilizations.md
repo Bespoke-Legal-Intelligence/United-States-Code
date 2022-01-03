@@ -40,7 +40,7 @@ National Security Waiver.—No allowance may be paid under this section to a mem
 
 (g)
 
-Authority to Exclude Certain Duty Assignments.—The Secretary concerned may exclude members serving in specified duty assignments from eligibility for the high-deployment allowance while serving in those assignments. Any such specification of duty assignments may only be made with the approval of the Secretary of Defense, acting through the Under Secretary of Defense for Personnel and Readiness. Specification of a particular duty assignment for purposes of this subsection may not be implemented so as to apply to the member serving in that position at the time of such specification.
+Authority to Exclude Certain Duty Assignments.—The Secretary concerned may exclude members serving in specified duty assignments from eligibility for the high-deployment allowance while serving in those assignments. Any such specification of duty assignments may only be made with the approval of the Secretaryof Defense, acting through the Under Secretary of Defense for Personnel and Readiness. Specification of a particular duty assignment for purposes of this subsection may not be implemented so as to apply to the member serving in that position at the time of such specification.
 
 (h)
 

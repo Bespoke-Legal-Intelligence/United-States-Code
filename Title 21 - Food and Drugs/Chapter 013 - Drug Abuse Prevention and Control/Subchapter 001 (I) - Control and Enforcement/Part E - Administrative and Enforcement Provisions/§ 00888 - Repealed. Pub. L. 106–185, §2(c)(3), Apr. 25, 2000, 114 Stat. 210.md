@@ -8,5 +8,5 @@ Section was classified to section 881–1 of this title prior to renumbering by 
 
 #### Effective Date of Repeal
 
-Repeal applicable to any forfeiture proceeding commenced on or after the date that is 120 days after Apr.25, 2000, see section 21 of Pub. L. 106–185, set out as an Effective Date of 2000 Amendment note under section 1324 of Title 8, Aliens and Nationality.
+Repeal applicable to any forfeiture proceeding commenced on or after the date that is 120 days after Apr. 25, 2000, see section 21 of Pub. L. 106–185, set out as an Effective Date of 2000 Amendment note under section 1324 of Title 8, Aliens and Nationality.
 

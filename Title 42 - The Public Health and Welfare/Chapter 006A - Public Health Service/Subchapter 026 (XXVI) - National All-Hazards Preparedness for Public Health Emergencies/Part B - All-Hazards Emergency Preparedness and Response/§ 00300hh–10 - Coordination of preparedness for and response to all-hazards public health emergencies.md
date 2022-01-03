@@ -68,7 +68,7 @@ Subject to the authority of the Secretary, the Assistant Secretary for Preparedn
 
 #### (5) Logistics
 
-&emsp;In coordination with the Secretary of Veterans Affairs, the Secretary of Homeland Security, the General Services Administration, and other public and private entities, provide logistical support for medical and public health aspects of Federal responses to public health emergencies. Such logistical support shall include working with other relevant Federal, State, local, Tribal, and territorial public health officials and private sector entities to identify the critical infrastructure assets, systems, and networks needed for the proper functioning of the health care and public health sectors that need to be maintained through any emergency or disaster, including entities capable of assisting with, responding to, and mitigating the effect of a public health emergency, including a public health emergency determined by the Secretary pursuant to section 247d(a) of this title or an emergency or major disaster declared by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act or the National Emergencies Act, including by establishing methods to exchange critical information and deliver products consumed or used to preserve, protect, or sustain life, health, or safety, and sharing of specialized expertise.
+&emsp;In coordination with the Secretary of Veterans Affairs, the Secretary of Homeland Security, the General Services Administration, and other public and private entities, provide logistical support for medical and public health aspects of Federal responses to public health emergencies. Such logistical support shall include working with other relevant Federal, State, local, Tribal, and territorial public health officials and private sector entities to identify the critical infrastructure assets, systems, and networks needed for the properfunctioning of the health care and public health sectors that need to be maintained through any emergency or disaster, including entities capable of assisting with, responding to, and mitigating the effect of a public health emergency, including a public health emergency determined by the Secretary pursuant to section 247d(a) of this title or an emergency or major disaster declared by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act or the National Emergencies Act, including by establishing methods to exchange critical information and deliver products consumed or used to preserve, protect, or sustain life, health, or safety, and sharing of specialized expertise.
 
 #### (6) Leadership
 
@@ -76,7 +76,7 @@ Subject to the authority of the Secretary, the Assistant Secretary for Preparedn
 
 #### (7) Countermeasures budget plan
 
-&emsp;Develop, and update not later than March 15 of each year, a coordinated 5-year budget plan based on the medical countermeasure priorities described in subsection (d), including with respect to chemical, biological, radiological, and nuclear agent or agents that may present a threat to the Nation, including such agents that are novel or emerging infectious diseases, and the corresponding efforts to develop qualified countermeasures (as defined in section 247d–6a of this title), security countermeasures (as defined in section 247d–6b of this title), and qualified pandemic or epidemic products (as defined in section 247d–6d of thistitle) for each such threat. Each such plan shall—
+&emsp;Develop, and update not later than March 15 of each year, a coordinated 5-year budget plan based on the medical countermeasure priorities described in subsection (d), including with respect to chemical, biological, radiological, and nuclear agent or agents that may present a threat to the Nation, including such agents that are novel or emerging infectious diseases, and the corresponding efforts to develop qualified countermeasures (as defined in section 247d–6a of this title), security countermeasures (as defined in section 247d–6b of this title), and qualified pandemic or epidemic products (as defined in section 247d–6d of this title) for each such threat. Each such plan shall—
 
 &emsp;&emsp;(A) include consideration of the entire medical countermeasures enterprise, including—
 
@@ -180,7 +180,7 @@ The Assistant Secretary for Preparedness and Response shall—
 
 &emsp;&emsp;&emsp;(iv) whether, with respect to each procurement that is approved by the President under section 247d–6b(c)(6) of this title, a contract was entered into within one year after such approval by the President; and
 
-&emsp;&emsp;&emsp;(v) with respect to section 247d–6a(d) of this title, for the 2-year period for which the report is submitted, the number of persons who were paid amounts totaling $100,000 or greater and the number of persons who were paid amounts totaling at least $50,000 but less than $100,000; and
+&emsp;&emsp;&emsp;(v) with respect to section 247d–6a(d) of this title, for the 2-year period for whichthe report is submitted, the number of persons who were paid amounts totaling $100,000 or greater and the number of persons who were paid amounts totaling at least $50,000 but less than $100,000; and
 
 &emsp;&emsp;(K) be made publicly available.
 
@@ -231,6 +231,8 @@ In carrying out subsections (b)(7) and (d), the Secretary shall ensure that info
 &emsp;&emsp;The Assistant Secretary for Preparedness and Response, in accordance with subsection (b)(7), shall document amounts expended for purposes of carrying out this subsection, including amounts appropriated under the heading "Public Health and Social Services Emergency Fund" under the heading "Office of the Secretary" under title II of division H of the Consolidated Appropriations Act, 2018 (Public Law 115–141) and allocated to carrying out section 247d–7e(c)(4)(F) of this title.
 
 (July 1, 1944, ch. 373, title XXVIII, §2811, as added Pub. L. 109–417, title I, §102(a)(3), Dec. 19, 2006, 120 Stat. 2833; amended Pub. L. 113–5, title I, §102(a), Mar. 13, 2013, 127 Stat. 163; Pub. L. 114–255, div. A, title III, §3083, Dec. 13, 2016, 130 Stat. 1141; Pub. L. 116–22, title III, §302(a), (b), title IV, §§401, 402(b), 404(b), title V, §501, title VII, §703(b), June 24, 2019, 133 Stat. 934, 942, 943, 948, 950, 963.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -287,6 +289,8 @@ Subsec. (b)(7). Pub. L. 113–5, §102(a)(1)(C), added par. (7).
 Subsec. (c). Pub. L. 113–5, §102(a)(2), added subsec. (c) and struck out former subsec. (c) which directed that the Assistant Secretary would have authority over and responsibility for the National Disaster Medical System and the Hospital Preparedness Cooperative Agreement Program, would exercise the responsibilities and authorities of the Secretary with respect to the coordination of the Medical Reserve Corps, the Emergency System for Advance Registration of Volunteer Health Professionals, the Strategic National Stockpile, and the Cities Readiness Initiative, and would assume other duties as determined appropriate by the Secretary.
 
 Subsecs. (d), (e). Pub. L. 113–5, §102(a)(3), added subsecs. (d) and (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

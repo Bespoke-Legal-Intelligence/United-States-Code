@@ -104,7 +104,7 @@ The Secretary shall make loans available to processors of domestically grown sug
 
 #### (5) Loan conversion
 
-&emsp;If the processor does not forfeit the collateral as described in paragraph (4), but instead further processes the in-process sugars and syrups into raw cane sugar or refined beet sugar and repays the loan on the in-process sugars and syrups, the processor may obtain a loan under subsection (a) or (b) for the raw cane sugar or refined beet sugar, as appropriate.
+&emsp;If the processor does not forfeit the collateral as described in paragraph (4), but instead further processes the in-process sugars andsyrups into raw cane sugar or refined beet sugar and repays the loan on the in-process sugars and syrups, the processor may obtain a loan under subsection (a) or (b) for the raw cane sugar or refined beet sugar, as appropriate.
 
 #### (6) Term of loan
 
@@ -154,7 +154,7 @@ The Secretary shall make loans available to processors of domestically grown sug
 
 #### (B) Tariff-rate quotas
 
-&emsp;&emsp;Subparagraph (A) shall not apply to sugars, syrups, or molasses that are within thequantities of tariff-rate quotas that are subject to the lower rate of duties.
+&emsp;&emsp;Subparagraph (A) shall not apply to sugars, syrups, or molasses that are within the quantities of tariff-rate quotas that are subject to the lower rate of duties.
 
 #### (4) Collection of information on Mexico
 
@@ -180,13 +180,15 @@ The Secretary shall make loans available to processors of domestically grown sug
 
 #### (h) Substitution of refined sugar
 
-For purposes of Additional U.S. Note 6 to chapter 17 of the Harmonized Tariff Schedule of the United States and the reexport programs and polyhydric alcohol program administered by the Secretary, all refined sugars (whether derived from sugar beets or sugarcane) produced by cane sugar refineries and beet sugar processors shall be fully substitutable for the export of sugar and sugar-containing products under those programs.
+For purposes of Additional U.S. Note 6 to chapter 17 of the Harmonized Tariff Schedule of the United States and the reexport programs and polyhydric alcohol program administered by the Secretary, all refined sugars (whether derived from sugar beets or sugarcane) producedby cane sugar refineries and beet sugar processors shall be fully substitutable for the export of sugar and sugar-containing products under those programs.
 
 #### (i) Effective period
 
 This section shall be effective only for the 2008 through 2023 crops of sugar beets and sugarcane.
 
 (Pub. L. 104–127, title I, §156, Apr. 4, 1996, 110 Stat. 931; Pub. L. 106–387, §1(a) \[title VIII, §836\], Oct. 28, 2000, 114 Stat. 1549, 1549A–62; Pub. L. 107–171, title I, §1401(a), May 13, 2002, 116 Stat. 183; Pub. L. 110–234, title I, §1401(a), May 22, 2008, 122 Stat. 977; Pub. L. 110–246, §4(a), title I, §1401(a), June 18, 2008, 122 Stat. 1664, 1705; Pub. L. 113–79, title I, §1301(a), Feb. 7, 2014, 128 Stat. 687; Pub. L. 115–334, title I, §1301(a), Dec. 20, 2018, 132 Stat. 4511.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -220,6 +222,8 @@ Pub. L. 106–387, §1(a) \[title VIII, §836(1)(A)\], substituted "nonrecourse"
 
 Subsec. (e)(2), (3). Pub. L. 106–387, §1(a) \[title VIII, §836(2)–(4)\], redesignated par. (3) as (2), substituted "The Secretary shall" for "If the Secretary is required under paragraph (2) to make nonrecourse loans available during a fiscal year or to change recourse loans into nonrecourse loans, the Secretary shall", and struck out heading and text of former par. (2). Text read as follows: "During any fiscal year in which the tariff rate quota for imports of sugar into the United States is established at, or is increased to, a level in excess of 1,500,000 short tons raw value, the Secretary shall carry out this section by making available nonrecourse loans. Any recourse loan previously made available by the Secretary under this section during the fiscal year shall be changed by the Secretary into a nonrecourse loan."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
@@ -230,7 +234,7 @@ Pub. L. 107–171, title I, §1401(b), May 13, 2002, 116 Stat. 187, provided tha
 
 #### Regulations
 
-Pub. L. 106–387, §1(a) \[title VIII, §840\], Oct. 28, 2000, 114 Stat. 1549, 1549A–63, provided that: "As soon as practicable after the date of enactment of this Act \[Oct. 28, 2000\], the Secretary and the Commodity Credit Corporation, as appropriate, shall issue such regulations as are necessary to implement sections 804, 805, 806, 809,810, 811, 812, 814, 815, 816, 836, 837, 838, 839, 841, 843, 844, and 845 of this title \[amending this section and section 3720B of Title 31, Money and Finance, enacting provisions set out as notes under section 3720B of Title 31, and amending provisions set out as a note under section 1421 of this title\]: <i>Provided</i>, That the issuance of the regulations shall be made without regard to: (1) the notice and comment provisions of section 553 of title 5, United States Code; (2) the Statement of Policy of the Secretary of Agriculture effective July 24, 1971 (36 Fed. Reg. 13804), relating to notices of proposed rulemaking and public participation in rulemaking; and (3) chapter 35 of title 44, United States Code (commonly known as the 'Paperwork Reduction Act'): <i>Provided further</i>, That in carrying out this section, the Secretary shall use the authority provided under section 808 of title 5, United States Code."
+Pub. L. 106–387, §1(a) \[title VIII, §840\], Oct. 28, 2000, 114 Stat. 1549, 1549A–63, provided that: "As soon as practicable after the date of enactment of this Act \[Oct. 28, 2000\], the Secretary and the Commodity Credit Corporation, as appropriate, shall issue such regulations as are necessary to implement sections 804, 805, 806, 809, 810, 811, 812, 814, 815, 816, 836, 837, 838, 839, 841, 843, 844, and 845 of this title \[amending this section and section 3720B of Title 31, Money and Finance, enacting provisions set out as notes under section 3720B of Title 31, and amending provisions set out as a note under section 1421 of this title\]: <i>Provided</i>, That the issuance of the regulations shall be made without regard to: (1) the notice and comment provisions of section 553 of title 5, United States Code; (2) the Statement of Policy of the Secretary of Agriculture effective July 24, 1971 (36 Fed. Reg. 13804), relating to notices of proposed rulemaking and public participation in rulemaking; and (3) chapter 35 of title 44, United States Code (commonly known as the 'Paperwork Reduction Act'): <i>Provided further</i>, That in carrying out this section, the Secretary shall use the authority provided under section 808 of title 5, United States Code."
 
 #### Loans for 2007 Crop Year
 

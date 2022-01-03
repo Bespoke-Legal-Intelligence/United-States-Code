@@ -94,7 +94,7 @@ The regulations under subsection (b) shall—
 
 &emsp;&emsp;&emsp;(bb) In the case of any subsequent shipment, documentation demonstrating that a statistically valid sample of the shipment was tested for authenticity and degradation.
 
-&emsp;&emsp;(ii) In the case of a prescription drug that is not shipped directly from the first foreign recipient of the prescription drug from the manufacturer, documentation demonstrating that each batch in each shipmentoffered for importation into the United States was statistically sampled and tested for authenticity and degradation.
+&emsp;&emsp;(ii) In the case of a prescription drug that is not shipped directly from the first foreign recipient of the prescription drug from the manufacturer, documentation demonstrating that each batch in each shipment offered for importation into the United States was statistically sampled and tested for authenticity and degradation.
 
 &emsp;&emsp;(K) Certification from the importer or manufacturer of the prescription drug that the prescription drug—
 
@@ -245,6 +245,10 @@ A prior section 384, act June 25, 1938, ch. 675, §804, as added Pub. L. 106–3
 #### Change of Name
 
 "Commissioner of U.S. Customs and Border Protection" substituted for "Commissioner of Customs" in subsec. (b) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under section 211 of Title 6, Domestic Security.
+
+#### Effective Date
+
+For certification by Secretary of Health and Human Services pursuant to subsec. (l)(1) of this section, see 85 F.R. 62094, 62096 (Oct. 1, 2020); 166 Cong. Rec. S6652 (daily ed. Nov. 10, 2020) (citing Executive Communication EC–5822); 166 Cong. Rec. H5866 (daily ed. Nov. 17, 2020) (citing Executive Communication EC–5624).
 
 #### Transfer of Functions
 

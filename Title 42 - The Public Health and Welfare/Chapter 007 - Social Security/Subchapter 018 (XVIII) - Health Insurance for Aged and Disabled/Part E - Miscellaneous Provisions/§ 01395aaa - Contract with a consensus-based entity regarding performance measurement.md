@@ -204,11 +204,11 @@ The requirements described in this subsection are the following:
 
 #### (7) Membership fees
 
-&emsp;If the entity requires a membership fee for participation in the functions of the entity,such fees shall be reasonable and adjusted based on the capacity of the potential member to pay the fee. In no case shall membership fees pose a barrier to the participation of individuals or groups with low or nominal resources to participate in the functions of the entity.
+&emsp;If the entity requires a membership fee for participation in the functions of the entity, such fees shall be reasonable and adjusted based on the capacity of the potential member to pay the fee. In no case shall membership fees pose a barrier to the participation of individuals or groups with low or nominal resources to participate in the functions of the entity.
 
 #### (d) Funding
 
-(1) For purposes of carrying out this section, the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title (in such proportion as the Secretary determines appropriate), of $10,000,000 to the Centers for Medicare \& Medicaid Services Program Management Account for each of fiscal years 2009 through 2013. Amounts transferred under the preceding sentence shall remain available until expended.
+(1) For purposes of carrying out this section, the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title (in such proportion as the Secretary determines appropriate),of $10,000,000 to the Centers for Medicare \& Medicaid Services Program Management Account for each of fiscal years 2009 through 2013. Amounts transferred under the preceding sentence shall remain available until expended.
 
 (2) For purposes of carrying out this section and section 1395aaa–1 of this title (other than subsections (e) and (f)), the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund under section 1395i of this title and the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title, in such proportion as the Secretary determines appropriate, to the Centers for Medicare \& Medicaid Services Program Management Account of $5,000,000 for fiscal year 2014, $30,000,000 for each of fiscal years 2015 through 2017, $7,500,000 for each of fiscal years 2018 and 2019, $20,000,000 for fiscal year 2020, $26,000,000 for fiscal year 2021, $20,000,000 for fiscal year 2022, and $20,000,000 for fiscal year 2023. Amounts transferred under the preceding sentence shall remain available until expended. Amounts transferred for each of fiscal years 2018, 2019, 2020, 2021, 2022, and 2023, shall be in addition to any unobligated funds transferred for a preceding fiscal year that are available under the preceding sentence.
 
@@ -254,7 +254,7 @@ The requirements described in this subsection are the following:
 
 &emsp;&emsp;&emsp;&emsp;(II) paragraph (1)(E) shall also include detailed information on the specific amounts obligated or expended on each of the activities described in clause (ii); and
 
-&emsp;&emsp;&emsp;&emsp;(III) paragraph (1)(F) shall also include detailed information on the specific quality measurement activities requiredand future funding needed for each of the activities described in clause (ii).
+&emsp;&emsp;&emsp;&emsp;(III) paragraph (1)(F) shall also include detailed information on the specific quality measurement activities required and future funding needed for each of the activities described in clause (ii).
 
 #### (ii) Activities described
 
@@ -279,6 +279,8 @@ The requirements described in this subsection are the following:
 &emsp;The annual report required under paragraph (1) shall be separate from the annual report required under subsection (e).
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1890, as added Pub. L. 110–275, title I, §183(a)(1), July 15, 2008, 122 Stat. 2583; amended Pub. L. 111–148, title III, §§3003(b), 3014(a), title X, §§10304, 10322(b), Mar. 23, 2010, 124 Stat. 367, 384, 938, 954; Pub. L. 112–240, title VI, §609(a), Jan. 2, 2013, 126 Stat. 2349; Pub. L. 113–67, div. B, title I, §1109, Dec. 26, 2013, 127 Stat. 1197; Pub. L. 113–93, title I, §109, Apr. 1, 2014, 128 Stat. 1043; Pub. L. 114–10, title II, §207, Apr. 16, 2015, 129 Stat. 145; Pub. L. 115–123, div. E, title II, §50206(a)–(c)(1), Feb. 9, 2018, 132 Stat. 183–185; Pub. L. 116–59, div. B, title IV, §1401, Sept. 27, 2019, 133 Stat. 1105; Pub. L. 116–69, div. B, title IV, §1401(a), Nov. 21, 2019, 133 Stat. 1138; Pub. L. 116–94, div. N, title I, §102(a), Dec. 20, 2019, 133 Stat. 3096; Pub. L. 116–136, div. A, title III, §3802(a), Mar. 27, 2020, 134 Stat. 427; Pub. L. 116–159, div. C, title II, §2202, Oct. 1, 2020, 134 Stat. 730; Pub. L. 116–215, div. B, title I, §1103, Dec. 11, 2020, 134 Stat. 1042; Pub. L. 116–260, div. CC, title I, §102, Dec. 27, 2020, 134 Stat. 2940.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -328,7 +330,7 @@ Pub. L. 116–59 substituted "$7,500,000 for each of fiscal years 2018 and 2019,
 
 <b>2018</b>—Subsec. (b)(5)(A). Pub. L. 115–123, §50206(c)(1), substituted "containing the following:" for "containing a description of—" in introductory provisions, inserted "(i) A description of—", redesignated former cls. (i) to (vi) as subcls. (I) to (VI), respectively, of cl. (i), realigned margins, and added cls. (ii) and (iii).
 
-Subsec. (d)(2). Pub. L. 115–123, §50206(a), substituted "2014," for "2014 and" and inserted ", and $7,500,000 foreach of fiscal years 2018 and 2019" after "through 2017" and "Amounts transferred for each of fiscal years 2018 and 2019 shall be in addition to any unobligated funds transferred for a preceding fiscal year that are available under the preceding sentence." after "until expended."
+Subsec. (d)(2). Pub. L. 115–123, §50206(a), substituted "2014," for "2014 and" and inserted ", and $7,500,000 for each of fiscal years 2018 and 2019" after "through 2017" and "Amounts transferred for each of fiscal years 2018 and 2019 shall be in addition to any unobligated funds transferred for a preceding fiscal year that are available under the preceding sentence." after "until expended."
 
 Subsec. (e). Pub. L. 115–123, §50206(b), added subsec. (e).
 
@@ -355,6 +357,8 @@ Subsec. (b)(7)(B). Pub. L. 111–148, §10304, which directed substitution of "q
 Subsec. (b)(7)(B)(i)(I). Pub. L. 111–148, §10322(b), inserted "1395ww(s)(4)(D)," after "1395ww(o)(2),".
 
 Subsec. (b)(8). Pub. L. 111–148, §3014(a)(1), added par. (8).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 

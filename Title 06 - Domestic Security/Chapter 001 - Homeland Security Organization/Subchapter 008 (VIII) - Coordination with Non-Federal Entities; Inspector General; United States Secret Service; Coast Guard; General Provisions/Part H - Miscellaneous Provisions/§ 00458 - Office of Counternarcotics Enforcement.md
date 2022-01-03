@@ -40,7 +40,7 @@ Nothing in this section shall be construed to authorize direct control of the op
 
 #### (1) Annual budget review
 
-&emsp;The Director of the Office of Counternarcotics Enforcement shall, not later than 30days after the submission by the President to Congress of any request for expenditures for the Department, submit to the Committees on Appropriations and the authorizing committees of jurisdiction of the House of Representatives and the Senate a review and evaluation of such request. The review and evaluation shall—
+&emsp;The Director of the Office of Counternarcotics Enforcement shall, not later than 30 days after the submission by the President to Congress of any request for expenditures for the Department, submit to the Committees on Appropriations and the authorizing committees of jurisdiction of the House of Representatives and the Senate a review and evaluation of such request. The review and evaluation shall—
 
 &emsp;&emsp;(A) identify any request or subpart of any request that affects or may affect the counternarcotics activities of the Department or any of its subdivisions, or that affects the ability of the Department or any subdivision of the Department to meet its responsibility to stop the entry of illegal drugs into the United States;
 

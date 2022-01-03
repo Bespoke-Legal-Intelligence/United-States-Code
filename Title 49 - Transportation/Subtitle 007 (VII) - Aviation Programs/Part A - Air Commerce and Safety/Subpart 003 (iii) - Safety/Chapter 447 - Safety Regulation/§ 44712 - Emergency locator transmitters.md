@@ -36,7 +36,7 @@ In general.—Subject to paragraph (2), on and after January 1, 2002, subsection
 
 &emsp;&emsp;(C) aircraft when used in flight operations related to the design and testing, manufacture, preparation, and delivery of aircraft;
 
-&emsp;&emsp;(D) aircraft when used in research and development if the aircraft holds a certificate from the Administrator of the Federal Aviation Administration to carry out such research and development;
+&emsp;&emsp;(D) aircraft when used in research and development if the aircraft holds a certificatefrom the Administrator of the Federal Aviation Administration to carry out such research and development;
 
 &emsp;&emsp;(E) aircraft when used in showing compliance with regulations, crew training, exhibition, air racing, or market surveys;
 
@@ -104,11 +104,15 @@ In subsection (b), the word "used" is substituted for "engaged" for consistency.
 
 In subsection (c), the words "prescribe regulations" are substituted for "shall issue regulations . . . as he prescribes in such regulations" to eliminate unnecessary words. The words "such limitations and" and "from such aircraft" are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Subsec. (b). Pub. L. 106–181, §501(a)(1), substituted "Prior to January 1, 2002, subsection (a)" for "Subsection (a) of this section" in introductory provisions.
 
 Subsecs. (c) to (e). Pub. L. 106–181, §501(a)(2), (3), added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

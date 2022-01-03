@@ -36,7 +36,7 @@ Information and research facilities.—In carrying out this subchapter, the Admi
 
 (5) The Administrator shall carry out a study of methods of underground injection which do not result in the degradation of underground drinking water sources.
 
-(6) The Administrator shall carry out a study of methods of preventing, detecting, and dealing with surface spills of contaminants which maydegrade underground water sources for public water systems.
+(6) The Administrator shall carry out a study of methods of preventing, detecting, and dealing with surface spills of contaminants which may degrade underground water sources for public water systems.
 
 (7) The Administrator shall carry out a study of virus contamination of drinking water sources and means of control of such contamination.
 
@@ -46,9 +46,25 @@ Information and research facilities.—In carrying out this subchapter, the Admi
 
 (10) The Administrator shall carry out a study of the reaction of chlorine and humic acids and the effects of the contaminants which result from such reaction on public health and on the safety of drinking water, including any carcinogenic effect.
 
+(11)
+
+Compliance Evaluation.—
+
+&emsp;(A)
+
+In general.—Not later than 1 year after November 15, 2021, the Administrator shall—
+
+&emsp;&emsp;(i) evaluate, based on the compliance data found in the Safe Drinking Water Information System of the Administrator, the compliance of community water systems and wastewater systems with environmental, health, and safety requirements under this subchapter, including water quality sampling, testing, and reporting requirements; and
+
+&emsp;&emsp;(ii) submit to Congress a report describing trends seen as a result of the evaluation under clause (i), including trends that demonstrate how the characteristics of community water systems and wastewater systems correlate to trends in compliance or noncompliance with the requirements described in that clause.
+
+&emsp;(B)
+
+Requirement.—To the extent practicable, in carrying out subparagraph (A), the Administrator shall determine whether, in aggregate, community water systems and wastewater systems maintain asset management plans.
+
 #### (b) Emergency situations
 
-The Administrator is authorized to provide technical assistance and to make grants to States, or publicly owned water systems to assist in responding to and alleviating any emergency situation affecting public water systems (including sources of water for such systems) which the Administrator determines to present substantial danger to the public health. Grants provided under this subsection shall be used only to support those actions which (i) are necessary for preventing, limiting or mitigating danger to the public health in such emergency situation and (ii) would not, in the judgment of the Administrator, be taken without such emergency assistance. The Administrator may carry out the program authorized under this subsection as part of, and in accordance with the terms and conditions of, any other program of assistance for environmental emergencies which the Administrator is authorized to carry out under any other provision of law. No limitation on appropriations for any such other program shall apply to amounts appropriated under this subsection.
+The Administrator is authorized to provide technical assistance and to make grants to States, or publicly owned water systems to assist in responding to and alleviating any emergency situation (including an emergency situation resulting from a cybersecurity event) affecting public water systems (including sources of water for such systems) which the Administrator determines to present substantial danger to the public health, including a threat to public health resulting from contaminants, such as, but not limited to, heightened exposure to lead in drinking water. Grants provided under this subsection shall be used only to support those actions which (i) are necessary for preventing, limiting or mitigating danger to the public health in such emergency situation and (ii) would not, in the judgment of the Administrator, be taken without such emergency assistance. The Administrator may carry out the program authorized under this subsection as part of, and in accordance with the terms and conditions of, any other program of assistance for environmental emergencies which the Administrator is authorized to carry out under any other provision of law. No limitation on appropriations for any such other program shall apply to amounts appropriated under this subsection.
 
 #### (c) Establishment of training programs and grants for training; training fees
 
@@ -70,19 +86,21 @@ The Administrator shall—
 
 #### (d) Authorization of appropriations
 
-There are authorized to be appropriated to carry out subsection (b) not more than $35,000,000 for the fiscal year 2002 and such sums as may be necessary for each fiscal year thereafter.
+There is authorized to be appropriated to carry out subsection (b) $35,000,000 for each of fiscal years 2022 through 2026.
 
 #### (e) Technical assistance to small public water systems
 
 (1) The Administrator may provide technical assistance to small public water systems to enable such systems to achieve and maintain compliance with applicable national primary drinking water regulations.
 
-(2) Such assistance may include circuit-rider and multi-State regional technical assistance programs, training, and preliminary engineering evaluations.
+(2) Such assistance may include circuit-rider and multi-State regional technical assistanceprograms, training, and preliminary engineering evaluations.
 
 (3) The Administrator shall ensure that technical assistance pursuant to this subsection is available in each State.
 
 (4) Each nonprofit organization receiving assistance under this subsection shall consult with the State in which the assistance is to be expended or otherwise made available before using assistance to undertake activities to carry out this subsection.
 
-(5) There are authorized to be appropriated to the Administrator to be used for such technical assistance $15,000,000 for each of the fiscal years 2015 through 2020.
+(5)
+
+Authorization of appropriations.—There is authorized to be appropriated to the Administrator to carry out this subsection $15,000,000 for each of fiscal years 2022 through 2026.
 
 (6) No portion of any State loan fund established under section 300j–12 of this title (relating to State loan funds) and no portion of any funds made available under this subsection may be used for lobbying expenses.
 
@@ -104,15 +122,37 @@ Preference.—To ensure that technical assistance funding is used in a manner th
 
 Limitation.—No grant or cooperative agreement provided or otherwise made available under this section may be used for litigation pursuant to section 300j–8 of this title.
 
-#### (f) Technical assistance for innovative water technologies
+#### (f) State-based nonprofit organizations
+
+#### (1) In general
+
+&emsp;The Administrator may provide technical assistance consistent with the authority provided under subsection (e) to State-based nonprofit organizations that are governed by community water systems.
+
+#### (2) Communication
+
+&emsp;Each State-based nonprofit organization that receives funding under paragraph (1) shall, before using that funding to undertake activities to carry out this subsection, consult with the State in which the assistance is to be expended or otherwise made available.
+
+#### (g) Technical assistance for innovative water technologies
 
 (1) The Administrator may provide technical assistance to public water systems to facilitate use of innovative water technologies.
 
 (2) There are authorized to be appropriated to the Administrator for use in providing technical assistance under paragraph (1) $10,000,000 for each of fiscal years 2017 through 2021.
 
-(July 1, 1944, ch. 373, title XIV, §1442, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1682; amended Pub. L. 95–190, §§2(a), 3(a), (b), (e)(1), 4, 9, 10(b), 13, Nov. 16, 1977, 91 Stat. 1393–1395, 1397–1399; Pub. L. 96–63, §1, Sept. 6, 1979, 93 Stat. 411; Pub. L. 96–502, §5, Dec. 5, 1980, 94 Stat. 2738; Pub. L. 99–339, title I, §107, title III, §§301(a), (g), 304(a), June 19, 1986, 100 Stat. 651, 663, 665, 667; Pub. L. 104–66, title II, §2021(h), Dec. 21, 1995, 109 Stat. 727; Pub. L. 104–182, title I, §§121, 122, Aug. 6, 1996, 110 Stat. 1651; Pub. L. 107–188, title IV, §403(4), June 12, 2002, 116 Stat. 687; Pub. L. 114–98, §4, Dec. 11, 2015, 129 Stat. 2200; Pub. L. 114–322, title II, §§2109(a), (b), 2112(a), Dec. 16, 2016, 130 Stat. 1729.)
+(July 1, 1944, ch. 373, title XIV, §1442, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1682; amended Pub. L. 95–190, §§2(a), 3(a), (b), (e)(1), 4, 9, 10(b), 13, Nov. 16, 1977, 91 Stat. 1393–1395, 1397–1399; Pub. L. 96–63, §1, Sept. 6, 1979, 93 Stat. 411; Pub. L. 96–502, §5, Dec. 5, 1980, 94 Stat. 2738; Pub. L. 99–339, title I, §107, title III, §§301(a), (g), 304(a), June 19, 1986, 100 Stat. 651, 663, 665, 667; Pub. L. 104–66, title II, §2021(h), Dec. 21, 1995, 109 Stat. 727; Pub. L. 104–182, title I, §§121, 122, Aug. 6, 1996, 110 Stat. 1651; Pub. L. 107–188, title IV, §403(4), June 12, 2002, 116 Stat. 687; Pub. L. 114–98, §4, Dec. 11, 2015, 129 Stat. 2200; Pub. L. 114–322, title II, §§2109(a), (b), 2112(a), Dec. 16, 2016, 130 Stat. 1729; Pub. L. 117–58, div. E, title I, §50101, Nov. 15, 2021, 135 Stat. 1135.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(11). Pub. L. 117–58, §50101(1), added par. (11).
+
+Subsec. (b). Pub. L. 117–58, §50101(2), inserted "(including an emergency situation resulting from a cybersecurity event)" after "any emergency situation" and ", including a threat to public health resulting from contaminants, such as, but not limited to, heightened exposure to lead in drinking water" after "substantial danger to the public health".
+
+Subsec. (d). Pub. L. 117–58, §50101(3), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: "There are authorized to be appropriated to carry out subsection (b) not more than $35,000,000 for the fiscal year 2002 and such sums as may be necessary for each fiscal year thereafter."
+
+Subsec. (e)(5). Pub. L. 117–58, §50101(4), added par. (5) and struck out former par. (5) which read as follows: "There are authorized to be appropriated to the Administrator to be used for such technical assistance $15,000,000 for each of the fiscal years 2015 through 2020."
+
+Subsecs. (f), (g). Pub. L. 117–58, §50101(5), (6), added subsec. (f) and redesignated former subsec. (f) as (g).
 
 <b>2016</b>—Subsec. (a)(1)(F). Pub. L. 114–322, §2109(a), added subpar. (F).
 
@@ -130,7 +170,7 @@ Subsec. (e)(8). Pub. L. 114–98, §4(3), added par. (8).
 
 <b>2002</b>—Subsec. (b). Pub. L. 107–188, §403(4)(A), which directed substitution of "this subsection" for "this subparagraph", was executed by making the substitution in three places to reflect the probable intent of Congress.
 
-Subsec. (d). Pub. L. 107–188, §403(4)(B), amended subsec. (d) generally, substituting provisions relating to authorization of appropriations to carry out subsec. (b) in fiscal year 2002 and subsequent fiscal years for provisions relating to authorization of appropriations to carry out this section in fiscal year 1991 and earlier.
+Subsec. (d). Pub. L. 107–188, §403(4)(B), amended subsec. (d) generally, substituting provisions relating toauthorization of appropriations to carry out subsec. (b) in fiscal year 2002 and subsequent fiscal years for provisions relating to authorization of appropriations to carry out this section in fiscal year 1991 and earlier.
 
 <b>1996</b>—Subsec. (a)(2). Pub. L. 104–182, §121(4)(A), added heading and text of par. (2) and struck out former par. (2) which read as follows: "(2)(A) The Administrator shall, to the maximum extent feasible, provide technical assistance to the States and municipalities in the establishment and administration of public water system supervision programs (as defined in section 300j–2(c)(1) of this title)."
 
@@ -154,7 +194,7 @@ Subsec. (e). Pub. L. 104–182, §122, amended subsec. (e) generally. Prior to a
 
 > shall be utilized for technical assistance to public water systems owned or operated by Indian tribes."
 
-<b>1995</b>—Subsecs. (c) to (g). Pub. L. 104–66 redesignated subsecs. (d), (f), and (g) as (c), (d), and (e), respectively, and struck out former subsec. (c) which read as follows: "Not later than eighteen months after November 16, 1977, the Administrator shall submit a report to Congress on the present and projected future availability of an adequate and dependable supply of safe drinking water to meet present and projected future need. Such report shall include an analysis of the future demandfor drinking water and other competing uses of water, the availability and use of methods to conserve water or reduce demand, the adequacy of present measures to assure adequate and dependable supplies of safe drinking water, and the problems (financial, legal, or other) which need to be resolved in order to assure the availability of such supplies for the future. Existing information and data complied by the National Water Commission and others shall be utilized to the extent possible."
+<b>1995</b>—Subsecs. (c) to (g). Pub. L. 104–66 redesignated subsecs. (d), (f), and (g) as (c), (d), and (e), respectively, and struck out former subsec. (c) which read as follows: "Not later than eighteen months after November 16, 1977, the Administrator shall submit a report to Congress on the present and projected future availability of an adequate and dependable supply of safe drinking water to meet present and projected future need. Such report shall include an analysis of the future demand for drinking water and other competing uses of water, the availability and use of methods to conserve water or reduce demand, the adequacy of present measures to assure adequate and dependable supplies of safe drinking water, and the problems (financial, legal, or other) which need to be resolved in order to assure the availability of such supplies for the future. Existing information and data complied by the National Water Commission and others shall be utilized to the extent possible."
 
 <b>1986</b>—Subsec. (e). Pub. L. 99–339, §304(a), struck out subsec. (e) which authorized the Administrator to make grants to public water systems which are required, under State or local law, to meet standards relating to drinking turbidity which are more stringent than the standards in effect under this subchapter.
 
@@ -180,11 +220,13 @@ Subsecs. (c), (d). Pub. L. 95–190, §§3(b), 4, added subsecs. (c) and (d). Fo
 
 Subsec. (e). Pub. L. 95–190, §§2(a), 3(b), redesignated former subsec. (c) as (e) and inserted provisions authorizing appropriations for fiscal years 1978 and 1979, and provisions relating to appropriations for subsec. (a)(2)(B) of this section and for research.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Report on Innovative Water Technologies
 
 Pub. L. 114–322, title II, §2109(c), Dec. 16, 2016, 130 Stat. 1729, provided that: "Not later than 1 year after the date of enactment of the Water and Waste Act of 2016 \[Dec. 16, 2016\], and not less frequently than every 5 years thereafter, the Administrator \[of the Environmental Protection Agency\] shall report to Congress on—
 
-&emsp;"(1) the amount of funding used to provide technical assistance under section 1442(f) of the Safe Drinking Water Act \[42 U.S.C. 300j–1(f)\] to deploy innovative water technologies;
+&emsp;"(1) the amount of funding used to provide technical assistance under section 1442(f) \[now 1442(g)\] of the Safe Drinking Water Act \[42 U.S.C. 300j–1(g)\] to deploy innovative water technologies;
 
 &emsp;"(2) the barriers impacting greater use of innovative water technologies; and
 
@@ -194,7 +236,7 @@ Pub. L. 114–322, title II, §2109(c), Dec. 16, 2016, 130 Stat. 1729, provided 
 
 Pub. L. 114–98, §2, Dec. 11, 2015, 129 Stat. 2199, provided that: "Congress finds that—
 
-&emsp;"(1) the Safe Drinking Water Act Amendments of 1996 (Public Law 104–182) \[see Short Title of 1996 Amendments note set out under section 201 of this title\] authorized technical assistance for small and rural communities to assist those communities in complying with regulations promulgated pursuant to the Safe Drinking Water Act (42 U.S.C. 300f et seq.);
+&emsp;"(1) the Safe Drinking Water Act Amendments of 1996 (Public Law 104–182) \[see Short Title of 1996 Amendments note set out under section 201 of this title\] authorized technical assistance for small andrural communities to assist those communities in complying with regulations promulgated pursuant to the Safe Drinking Water Act (42 U.S.C. 300f et seq.);
 
 &emsp;"(2) technical assistance and compliance training—
 

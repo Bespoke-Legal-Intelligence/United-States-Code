@@ -4,9 +4,13 @@ Beginning in fiscal year 2007 and for each fiscal year thereafter, the Secretary
 
 (Pub. L. 109–108, title II, Nov. 22, 2005, 119 Stat. 2311.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is from the Department of Commerce and Related Agencies Appropriations Act, 2006, which is title II of the Science, State, Justice, Commerce, and Related Agencies Appropriations Act, 2006.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Similar Provisions
 

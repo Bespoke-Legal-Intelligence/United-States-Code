@@ -18,7 +18,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary may not make a grant under subsection (a) unless the State agrees that,with respect to the costs of making payments on behalf of individuals under contracts made pursuant to paragraph (2) of such subsection, the State will make available (directly or through donations from public or private entities) non-Federal contributions in cash toward such costs in an amount equal to not less than $1 for each $1 of Federal funds provided in the grant.
+&emsp;The Secretary may not make a grant under subsection (a) unless the State agrees that, with respect to the costs of making payments on behalf of individuals under contracts made pursuant to paragraph (2) of such subsection, the State will make available (directly or through donations from public or private entities) non-Federal contributions in cash toward such costs in an amount equal to not less than $1 for each $1 of Federal funds provided in the grant.
 
 #### (2) Determination of amount of non-Federal contribution
 
@@ -78,7 +78,7 @@ The Secretary may not make a grant under subsection (a) unless an application fo
 
 #### (1) In general
 
-&emsp;The Secretary may not make payments under subsection (a) to a State for any fiscal year subsequent to the first fiscal year of such payments unless the Secretary determines that, for the immediately preceding fiscal year, the State has complied with each of the agreements made by the State under this section.
+&emsp;The Secretary may not make payments under subsection (a) to a State for any fiscalyear subsequent to the first fiscal year of such payments unless the Secretary determines that, for the immediately preceding fiscal year, the State has complied with each of the agreements made by the State under this section.
 
 #### (2) Reduction in grant relative to number of breached contracts
 
@@ -127,6 +127,8 @@ For purposes of this section, the term "State" means each of the 50 States, the 
 &emsp;There are authorized to be appropriated to carry out this subsection, such sums as may be necessary for each of fiscal years 2007 through 2010.
 
 (July 1, 1944, ch. 373, title III, §338I, formerly §338H, as added Pub. L. 100–177, title II, §203, Dec. 1, 1987, 101 Stat. 999; renumbered §338I and amended Pub. L. 101–597, title II, §204, title III, §301, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3027, 3029, 3035; Pub. L. 105–392, title IV, §408, Nov. 13, 1998, 112 Stat. 3589; Pub. L. 107–251, title III, §315, Oct. 26, 2002, 116 Stat. 1653; Pub. L. 109–417, title II, §203(b), Dec. 19, 2006, 120 Stat. 2849; Pub. L. 110–355, §3(e), Oct. 8, 2008, 122 Stat. 3994.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

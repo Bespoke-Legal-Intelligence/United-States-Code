@@ -32,6 +32,8 @@ The level of price support for any commodity shall be determined upon the basis 
 
 (Oct. 31, 1949, ch. 792, title IV, §401, 63 Stat. 1054; Aug. 28, 1954, ch. 1041, title II, §§206, 207, 68 Stat. 901; Pub. L. 88–297, title I, §103(c), Apr. 11, 1964, 78 Stat. 175; Pub. L. 99–198, title IX, §903(a), Dec. 23, 1985, 99 Stat. 1444; Pub. L. 100–707, title I, 109(a)(1), Nov. 23, 1988, 102 Stat. 4708.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsec. (b), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, known as the Agricultural Act of 1949, which is classified principally to this chapter (§1421 et seq.). For complete classification of this Act to the Code, see Short Title note below and Tables.
@@ -49,6 +51,8 @@ The Disaster Relief and Emergency Assistance Act, referred to in subsec. (c), is
 <b>1954</b>—Subsec. (c). Act Aug. 28, 1954, §206, provided a program for diverted acres.
 
 Subsec. (e). Act Aug. 28, 1954, §207, added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 
@@ -118,7 +122,7 @@ Performance standards for employment and training programs.—The amendments mad
 
 &emsp;"(4)
 
-Recovery of claims caused by nonfraudulent household errors.—The amendment made by section 911 of this Act \[amending section 2022 of this title\] shall take effect on the date of enactment of this Act \[Dec. 13, 1991\].
+Recovery of claims caused by nonfraudulent household errors.—The amendment made bysection 911 of this Act \[amending section 2022 of this title\] shall take effect on the date of enactment of this Act \[Dec. 13, 1991\].
 
 &emsp;"(5)
 
@@ -182,9 +186,9 @@ Pub. L. 98–258, §1, Apr. 10, 1984, 98 Stat. 130, provided: "That this Act \[e
 
 Pub. L. 98–180, §1, Nov. 29, 1983, 97 Stat. 1128, provided: "That this Act \[enacting sections 511r, 4501 to 4514, and 4531 to 4538 of this title, amending section 608c, 1314b, 1314b–1, 1314b–2, 1314c, 1314d, 1314e, 1379, 1445, 1445–1, 1445–2, and 1446 of this title, and enacting provisions set out as notes under this section and sections 1314b, 1314c, 1314e, 1427, 1445, 1446, and 1727g of this title\] may be cited as the 'Dairy and Tobacco Adjustment Act of 1983'."
 
-Pub. L. 98–180, title I, §101, Nov. 29, 1983, 97 Stat. 1128, provided that: "This title \[enacting sections 4501 to 4513 of this title, amending section 1446 of this title, and enacting provisions set out as notes under section 1446 of this title\] may be cited as the 'Dairy Production Stabilization Act of 1983'."
+Pub. L. 98–180, title I, §101, Nov. 29, 1983, 97 Stat. 1128, provided that: "This title \[enacting sections 4501 to 4513of this title, amending section 1446 of this title, and enacting provisions set out as notes under section 1446 of this title\] may be cited as the 'Dairy Production Stabilization Act of 1983'."
 
-Pub. L. 98–180, title II, §201, Nov. 29, 1983, 97 Stat. 1143, provided that: "This title \[enacting section 511r of thistitle, amending sections 1314b, 1314b–1, 1314b–2, 1314c, 1314d, 1314e, 1379, 1445, 1445–1, and 1445–2 of this title, and enacting provisions set out as notes under sections 1314b, 1314c, 1314e, and 1445 of this title\] may be cited as the 'Tobacco Adjustment Act of 1983'."
+Pub. L. 98–180, title II, §201, Nov. 29, 1983, 97 Stat. 1143, provided that: "This title \[enacting section 511r of this title, amending sections 1314b, 1314b–1, 1314b–2, 1314c, 1314d, 1314e, 1379, 1445, 1445–1, and 1445–2 of this title, and enacting provisions set out as notes under sections 1314b, 1314c, 1314e, and 1445 of this title\] may be cited as the 'Tobacco Adjustment Act of 1983'."
 
 Pub. L. 98–88, §1, Aug. 26, 1983, 97 Stat. 494, provided: "That this Act \[amending sections 1308, 1427, 1441, and 1444 of this title, repealing section 1347 of this title, and enacting provisions set out as notes under sections 1342, 1347, and 1444 of this title\] may be cited as the 'Extra Long Staple Cotton Act of 1983'."
 
@@ -230,10 +234,6 @@ Pub. L. 101–624, title XXV, §2518, formerly §2519, Nov. 28, 1990, 104 Stat. 
 
 Pub. L. 98–180, title III, §305, Nov. 29, 1983, 97 Stat. 1152, provided that: "Except as otherwise provided in this Act \[see Short Title of 1983 Amendment note above\], if any provision of this Act or the application thereof to any person or circumstances is held invalid, the validity of the remainder of this Act and of the application of such provision to other persons and circumstances shall not be affected thereby."
 
-#### Exceptions From Transfer of Functions
-
-Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, §1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
-
 #### Inapplicability of Section
 
 Section inapplicable to 2014 through 2018 crops of covered commodities, cotton, and sugar and inapplicable to milk during period beginning Feb. 7, 2014, through Dec. 31, 2018, see section 9092(b)(10) of this title.
@@ -258,9 +258,9 @@ Pub. L. 106–224, title II, subtitle A, June 20, 2000, 114 Stat. 398, as amende
 
 Pub. L. 106–113, div. B, §1000(a)(5) \[title I\], Nov. 29, 1999, 113 Stat. 1536, 1501A–290, provided for an additional amount for specialty crop assistance authorized by section 803(c)(1) of Public Law 106–78, formerly set out in a note below.
 
-Pub. L. 106–113, div. B, §1000(a)(5) \[title I\], Nov. 29, 1999, 113 Stat. 1536, 1501A–290, as amended by Pub. L.106–387, §1(a) \[title VIII, §802\], Oct. 28, 2000, 114 Stat. 1549, 1549A–49, provided for an additional amount for livestock assistance authorized by section 805 of Public Law 106–78, formerly set out in a note below.
+Pub. L. 106–113, div. B, §1000(a)(5) \[title I\], Nov. 29, 1999, 113 Stat. 1536, 1501A–290, as amended by Pub. L. 106–387, §1(a) \[title VIII, §802\], Oct. 28, 2000, 114 Stat. 1549, 1549A–49, provided for an additional amount for livestock assistance authorized by section 805 of Public Law 106–78, formerly set out in a note below.
 
-Pub. L. 106–78, title VIII, Oct. 22, 1999, 113 Stat. 1175, as amended by Pub. L. 106–113, div. B, §1000(a)(5) \[title I, §102\], Nov. 29, 1999, 113 Stat. 1536, 1501A–291, provided for emergency market loss payments and other disaster assistance to producers of crops and livestock in 1999.
+Pub. L. 106–78, title VIII, Oct. 22, 1999, 113 Stat. 1175, as amended by Pub. L. 106–113, div. B, §1000(a)(5) \[titleI, §102\], Nov. 29, 1999, 113 Stat. 1536, 1501A–291, provided for emergency market loss payments and other disaster assistance to producers of crops and livestock in 1999.
 
 Pub. L. 106–31, title I, §101, May 21, 1999, 113 Stat. 61, provided for crop loss assistance for multiyear losses due to disasters in two crop years during the five-crop year period beginning with the 1994 crop year.
 
@@ -302,7 +302,7 @@ Pub. L. 101–508, title I, §1302, Nov. 5, 1990, 104 Stat. 1388–12, as amende
 
 #### Repayment of Advance Deficiency Payments
 
-Pub. L. 101–220, §14, Dec. 12, 1989, 103 Stat. 1885, provided that effective only for the 1988 crops of wheat,feed grains, upland cotton, and rice, produced by producers that qualified for assistance under section 201(a) of Pub. L. 100–387 or section 101(a) of Pub. L. 101–82 (set out below), if the Secretary of Agriculture determines that any portion of the advance deficiency payment made to producers for such crop under section 1445b–2 of this title had to be refunded, such refund could not be required to be made prior to July 31, 1990.
+Pub. L. 101–220, §14, Dec. 12, 1989, 103 Stat. 1885, provided that effective only for the 1988 crops of wheat, feed grains, upland cotton, and rice, produced by producers that qualified for assistance under section 201(a) of Pub. L. 100–387 or section 101(a) of Pub. L. 101–82 (setout below), if the Secretary of Agriculture determines that any portion of the advance deficiency payment made to producers for such crop under section 1445b–2 of this title had to be refunded, such refund could not be required to be made prior to July 31, 1990.
 
 #### Pilot Project on Clean Grain Premiums
 
@@ -329,4 +329,10 @@ Pub. L. 97–98, title XI, §1112, Dec. 22, 1981, 95 Stat. 1267, directed Secret
 #### Studies in Rice Price Support; Report to Congress; Termination Date
 
 Act Aug. 28, 1954, ch. 1041, title III, §315, 68 Stat. 905, directed Secretary of Agriculture to study various two-price systems of price support and marketing which could be made applicable to rice and to submit to Congress on or before Mar. 1, 1955, a detailed report thereon.
+
+#### <b>Executive Documents</b>
+
+#### Exceptions From Transfer of Functions
+
+Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, §1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 

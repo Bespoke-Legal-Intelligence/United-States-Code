@@ -8,6 +8,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1970</b>—Pub. L. 91–258, title II, §205(c)(4), May 21, 1970, 84 Stat. 242, substituted "Transportation by Air" for "Transportation of Persons by Air" in subchapter heading, inserted part I to III headings in subchapter analysis, inserted "PART I—PERSONS" as analysis heading preceding section 4261, struck out item 4263, and redesignated item 4264 as 4263.

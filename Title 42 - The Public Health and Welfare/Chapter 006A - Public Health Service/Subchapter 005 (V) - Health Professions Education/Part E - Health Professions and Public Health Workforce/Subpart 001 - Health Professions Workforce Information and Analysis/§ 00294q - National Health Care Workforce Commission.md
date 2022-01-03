@@ -66,7 +66,7 @@ There is hereby established the National Health Care Workforce Commission (in th
 
 #### (D) Ethical disclosure
 
-&emsp;&emsp;The Comptroller General shall establish a system for public disclosure by members of the Commission of financial and other potential conflicts of interest relating to such members. Members of the Commission shall be treated as employees of Congress for purposes of applying title I of the Ethics in Government Act of 1978 \[5 U.S.C. App.\]. Members of the Commission shall not be treated as special government employees under title 18.
+&emsp;&emsp;The Comptroller General shall establish a system for public disclosure by members of the Commission of financial and other potential conflicts of interest relating to suchmembers. Members of the Commission shall be treated as employees of Congress for purposes of applying title I of the Ethics in Government Act of 1978 \[5 U.S.C. App.\]. Members of the Commission shall not be treated as special government employees under title 18.
 
 #### (3) Terms
 
@@ -126,9 +126,9 @@ There is hereby established the National Health Care Workforce Commission (in th
 
 &emsp;&emsp;(B) health care workforce education and training capacity, including the number of students who have completed education and training, including registered apprenticeships; the number of qualified faculty; the education and training infrastructure; and the education and training demands, with projected demands during the subsequent 10 and 25 year periods;
 
-&emsp;&emsp;(C) the education loan and grant programs in titles VII and VIII of the Public Health Service Act (42 U.S.C. 292 et seq. and 296 et seq.), with recommendations on whether such programs should become part of the Higher Education Act of 1965 (20 U.S.C. 1001 et seq <sup>2</sup> );
+&emsp;&emsp;(C) the education loan and grant programs in titles VII and VIII of the Public Health Service Act (42 U.S.C. 292 et seq. and 296 et seq.), with recommendations on whethersuch programs should become part of the Higher Education Act of 1965 (20 U.S.C. 1001 et seq <sup>2</sup> );
 
-&emsp;&emsp;(D) the implications of new and existing Federal policies which affect the health care workforce, including Medicare and Medicaid graduate medical education policies, titles VII and VIII of the Public Health Service Act (42 U.S.C. 292 et seq. and 296 et seq.), the National Health Service Corps (with recommendations for aligning such programs with national health workforce prioritiesand goals), and other health care workforce programs, including those supported through the Workforce Innovation and Opportunity Act, the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.), the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.), and any other Federal health care workforce programs;
+&emsp;&emsp;(D) the implications of new and existing Federal policies which affect the health care workforce, including Medicare and Medicaid graduate medical education policies, titles VII and VIII of the Public Health Service Act (42 U.S.C. 292 et seq. and 296 et seq.), the National Health Service Corps (with recommendations for aligning such programs with national health workforce priorities and goals), and other health care workforce programs, including those supported through the Workforce Innovation and Opportunity Act, the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.), the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.), and any other Federal health care workforce programs;
 
 &emsp;&emsp;(E) the health care workforce needs of special populations, such as minorities, rural populations, medically underserved populations, gender specific needs, individuals with disabilities, and geriatric and pediatric populations with recommendations for new and existing Federal policies to meet the needs of these special populations; and
 
@@ -198,7 +198,7 @@ There is hereby established the National Health Care Workforce Commission (in th
 
 #### (2) Obtaining official data
 
-&emsp;The Commission, consistent with established privacy rules, may secure directly from any department or agency of the ExecutiveBranch information necessary to enable the Commission to carry out this section.
+&emsp;The Commission, consistent with established privacy rules, may secure directly from any department or agency of the Executive Branch information necessary to enable the Commission to carry out this section.
 
 #### (3) Detail of Federal Government employees
 
@@ -266,7 +266,7 @@ In this section:
 
 &emsp;The term "health professionals" includes—
 
-&emsp;&emsp;(A) dentists, dental hygienists, primary care providers, specialty physicians, nurses, nurse practitioners, physician assistants, psychologists and other behavioral and mental health professionals (including substance abuse prevention and treatment providers), social workers, physical and occupational therapists, optometrists, ophthalmologists,<sup>5</sup> public health professionals, clinical pharmacists, allied health professionals, doctors of chiropractic, community health workers, school nurses, certified nurse midwives, podiatrists, licensed complementary and alternative medicine providers, the EMS workforce (including professional and volunteer ambulance personnel and firefighters whoperform emergency medical services), and integrative health practitioners;
+&emsp;&emsp;(A) dentists, dental hygienists, primary care providers, specialty physicians, nurses, nurse practitioners, physician assistants, psychologists and other behavioral and mental health professionals (including substance abuse prevention and treatment providers), social workers, physical and occupational therapists, optometrists, ophthalmologists,<sup>5</sup>public health professionals, clinical pharmacists, allied health professionals, doctors of chiropractic, community health workers, school nurses, certified nurse midwives, podiatrists, licensed complementary and alternative medicine providers, the EMS workforce (including professional and volunteer ambulance personnel and firefighters who perform emergency medical services), and integrative health practitioners;
 
 &emsp;&emsp;(B) national representatives of health professionals;
 
@@ -277,6 +277,8 @@ In this section:
 &emsp;&emsp;(E) any other health professional the Comptroller General of the United States determines appropriate.
 
 (Pub. L. 111–148, title V, §5101, title X, §10501(a), Mar. 23, 2010, 124 Stat. 592, 993; Pub. L. 113–128, title V, §512(y), July 22, 2014, 128 Stat. 1716.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -323,6 +325,8 @@ Section 294q–3, act July 1, 1944, ch. 373, title VII, §747, formerly §745, a
 Subsec. (d)(4)(A)(iv), (v). Pub. L. 111–148, §10501(a)(2), added cl. (iv) and redesignated former cl. (iv) as (v).
 
 Subsec. (i)(2)(A), (C). Pub. L. 111–148, §10501(a)(3), which directed insertion of "optometrists, ophthalmologists," after "occupational therapists," in subpar. (B) of subsec. (i)(2), was executed by making the insertion in subpars. (A) and (C). The words "occupational therapists," do not appear in subpar. (B).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

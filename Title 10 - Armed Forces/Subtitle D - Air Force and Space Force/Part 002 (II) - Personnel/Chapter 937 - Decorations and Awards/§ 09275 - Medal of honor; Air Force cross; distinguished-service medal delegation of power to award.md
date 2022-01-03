@@ -20,6 +20,8 @@ July 9, 1918, ch. 143 (16th par., less words after semicolon, under "Ordnance De
 
 The words "under such conditions, regulations, and limitations as he shall prescribe" are omitted as surplusage. The words "his authority" are substituted for the words "the power conferred upon him by sections 1403, 1406–1408, 1409–1412, 1416, 1420, 1422, 1423, and 1424 of this title".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283 inserted before period at end ", or to an equivalent commander of a separate space force or higher unit in the field".
@@ -27,6 +29,8 @@ The words "under such conditions, regulations, and limitations as he shall presc
 <b>2018</b>—Pub. L. 115–232 renumbered section 8745 of this title as this section.
 
 <b>1960</b>—Pub. L. 86–593 substituted "Air Force cross" for "distinguished-service cross" in section catchline and in text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

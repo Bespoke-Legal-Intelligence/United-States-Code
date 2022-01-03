@@ -18,6 +18,8 @@ In this section, the term "cruel, inhuman, or degrading treatment or punishment"
 
 (Pub. L. 109–148, div. A, title X, §1003, Dec. 30, 2005, 119 Stat. 2739; Pub. L. 109–163, div. A, title XIV, §1403, Jan. 6, 2006, 119 Stat. 3475.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date "December 30, 2005", referred to in subsec. (c), was in the original "the date of the enactment of this Act" and was translated as the date of enactment of Pub. L. 109–148.
@@ -25,6 +27,8 @@ The date "December 30, 2005", referred to in subsec. (c), was in the original "t
 #### Codification
 
 Pub. L. 109–148 and Pub. L. 109–163 enacted identical sections.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 
@@ -68,6 +72,8 @@ Definition.—In this section, the term 'appropriate congressional committees' m
 
 &emsp;"(2) with respect to the Senate, the Committee on Foreign Relations, the Committee on Armed Services, the Committee on the Judiciary, and the Select Committee on Intelligence."
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 13491. Ensuring Lawful Interrogations
 
 Ex. Ord. No. 13491, Jan. 22, 2009, 74 F.R. 4893, provided:
@@ -100,7 +106,7 @@ Sec. 2. <i>Definitions</i>. As used in this order:
 
 (g) The terms "detention facilities" and "detention facility" in section 4(a) of this order do not refer to facilities used only to hold people on a short-term, transitory basis.
 
-Sec. 3. <i>Standards and Practices for Interrogation of Individuals in the Custody or Control of the United States in Armed Conflicts</i>.
+Sec. 3. <i>Standards and Practices for Interrogation of Individuals in the Custody or Control of the United States in Armed Conflicts.</i>
 
 (a) <i>Common Article 3 Standards as a Minimum Baseline</i>. Consistent with the requirements of the Federal torture statute, 18 U.S.C. 2340–2340A, section 1003 of the Detainee Treatment Act of 2005, 42 U.S.C. 2000dd, the Convention Against Torture, Common Article 3, and other laws regulating the treatment and interrogation of individuals detained in any armed conflict, such persons shall in all circumstances be treated humanely and shall not be subjected to violence to life and person (including murder of all kinds, mutilation, cruel treatment, and torture), nor to outrages upon personal dignity (including humiliating and degrading treatment), whenever such individuals are in the custody or under the effective control of an officer, employee, or other agent of the United States Government or detained within a facility owned, operated, or controlled by a department or agency of the United States.
 
@@ -108,13 +114,13 @@ Sec. 3. <i>Standards and Practices for Interrogation of Individuals in the Custo
 
 (c) <i>Interpretations of Common Article 3 and the Army Field Manual</i>. From this day forward, unless the Attorney General with appropriate consultation provides further guidance, officers, employees, and other agents of the United States Government may, in conducting interrogations, act in reliance upon Army Field Manual 2–22.3, but may not, in conducting interrogations, rely upon any interpretation of the law governing interrogation—including interpretations of Federal criminal laws, the Convention Against Torture, Common Article 3, Army Field Manual 2–22.3, and its predecessor document, Army Field Manual 34–52—issued by the Department of Justice between September 11, 2001, and January 20, 2009.
 
-Sec. 4. <i>Prohibition of Certain Detention Facilities, and Red Cross Access to Detained Individuals</i>.
+Sec. 4. <i>Prohibition of Certain Detention Facilities, and Red Cross Access to Detained Individuals.</i>
 
 (a) <i>CIA Detention</i>. The CIA shall close as expeditiously as possible any detention facilities that it currently operates and shall not operate any such detention facility in the future.
 
 (b) <i>International Committee of the Red Cross Access to Detained Individuals</i>. All departments and agencies of the Federal Government shall provide the International Committee of the Red Cross with notification of, and timely access to, any individual detained in any armed conflict in the custody or under the effective control of an officer, employee, or other agent of the United States Government or detained within a facility owned, operated, or controlled by a department or agency of the United States Government, consistent with Department of Defense regulations and policies.
 
-Sec. 5. <i>Special Interagency Task Force on Interrogation and Transfer Policies</i>.
+Sec. 5. <i>Special Interagency Task Force on Interrogation and Transfer Policies.</i>
 
 (a) <i>Establishment of Special Interagency Task Force</i>. There shall be established a Special Task Force on Interrogation and Transfer Policies (Special Task Force) to review interrogation and transfer policies.
 

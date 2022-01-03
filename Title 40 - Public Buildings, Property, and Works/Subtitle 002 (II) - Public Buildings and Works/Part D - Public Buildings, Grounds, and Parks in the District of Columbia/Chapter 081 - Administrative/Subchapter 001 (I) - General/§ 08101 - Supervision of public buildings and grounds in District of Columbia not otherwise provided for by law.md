@@ -6,7 +6,7 @@ In General.—Under regulations the President prescribes, the Administrator of G
 
 (b)
 
-Notice of Unlawful Occupancy.—If the Administrator, or the officer under the direction of the Administrator who is in immediate charge of those public buildings and grounds, decides that an individual is unlawfully occupying any part of that public land, the Administratoror officer in charge shall notify the United States marshal for the District of Columbia in writing of the unlawful occupation.
+Notice of Unlawful Occupancy.—If the Administrator, or the officer under the direction of the Administrator who is in immediate charge of those public buildings and grounds, decides that an individual is unlawfully occupying any part of that public land, the Administrator or officer in charge shall notify the United States marshal for the District of Columbia in writing of the unlawful occupation.
 
 (c)
 

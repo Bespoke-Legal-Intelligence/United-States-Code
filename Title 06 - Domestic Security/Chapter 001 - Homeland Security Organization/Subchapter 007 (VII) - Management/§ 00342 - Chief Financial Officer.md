@@ -44,7 +44,7 @@ The Chief Financial Officer shall perform functions as specified in chapter 9 of
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may allocate or reallocate the functions of the Office, or discontinue the Office, in accordance with section 452(a) of this title.
+&emsp;&emsp;The Secretary may allocate or reallocate the functions of the Office, or discontinuethe Office, in accordance with section 452(a) of this title.
 
 #### (B) Exemption from limitations
 
@@ -62,7 +62,7 @@ In any case in which appropriations available to the Department or any officer o
 
 <b>2004</b>—Pub. L. 108–330, §§6, 7, designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
 
-Pub. L. 108–330, §3(d)(1)(B), substituted "shall perform functions as specified in chapter 9 of title 31 and, withrespect to all such functions and other responsibilities that may be assigned to the Chief Financial Officer from time to time, shall also report to the Under Secretary for Management" for "shall report to the Secretary, or to another official of the Department, as the Secretary may direct".
+Pub. L. 108–330, §3(d)(1)(B), substituted "shall perform functions as specified in chapter 9 of title 31 and, with respect to all such functions and other responsibilities that may be assigned to the Chief Financial Officer from time to time, shall also report to the Under Secretary for Management" for "shall report to the Secretary, or to another official of the Department, as the Secretary may direct".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

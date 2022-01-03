@@ -32,6 +32,8 @@ To implement this purpose the Secretary of the Interior may designate as the Nez
 
 (Pub. L. 89–19, §2, May 15, 1965, 79 Stat. 110; Pub. L. 102–576, §2(2), Oct. 30, 1992, 106 Stat. 4770.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Pub. L. 102–576 inserted provision listing 13 sites to be designated as Nez Perce National Historical Park, as described in documents dated 1990 and 1991, and provision relating to lands added to Big Hole National Battlefield, Montana.

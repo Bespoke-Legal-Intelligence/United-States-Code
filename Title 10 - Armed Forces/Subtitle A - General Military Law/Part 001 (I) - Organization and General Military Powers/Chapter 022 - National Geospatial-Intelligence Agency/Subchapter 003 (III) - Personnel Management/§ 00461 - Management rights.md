@@ -2,7 +2,7 @@
 
 (a)
 
-Scope.—If there is no obligation under the provisions of chapter 71 of title 5 for the head of an agency of the United States to consult or negotiate with a labor organization on a particular matter by reason of that matter being covered by a provision of law or a Governmentwide regulation, the Director of the National Geospatial-Intelligence Agency is not obligated to consult or negotiate with a labor organization on that matter even if that provision of law or regulation is inapplicable to the National Geospatial-Intelligence Agency.
+Scope.—If there is no obligation under the provisions of chapter 71 of title 5 for the head of an agency of the United States to consult or negotiate with a labor organization on a particular matter by reason of that matter being covered by a provision of law or a Governmentwide regulation, the Director of the National Geospatial-Intelligence Agency is not obligated to consultor negotiate with a labor organization on that matter even if that provision of law or regulation is inapplicable to the National Geospatial-Intelligence Agency.
 
 (b)
 
@@ -16,6 +16,8 @@ Termination of Bargaining Unit Coverage of Position Modified To Affect National 
 
 (Added Pub. L. 104–201, div. A, title XI, §1112(a)(2), Sept. 23, 1996, 110 Stat. 2681; amended Pub. L. 108–136, div. A, title IX, §921(d)(2)(A), (C), Nov. 24, 2003, 117 Stat. 1568.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2003</b>—Subsec. (a). Pub. L. 108–136, §921(d)(2)(A), substituted "National Geospatial-Intelligence Agency" for "National Imagery and Mapping Agency" in two places.
@@ -23,6 +25,8 @@ Termination of Bargaining Unit Coverage of Position Modified To Affect National 
 Subsec. (b). Pub. L. 108–136, §921(d)(2)(C), substituted "The Director of the National Geospatial-Intelligence Agency" for "The National Imagery and Mapping Agency" and "on September 30, 1996" for "on the day before the date on which employees and positions of the Defense Mapping Agency in that bargaining unit became employees and positions of the National Imagery and Mapping Agency under the National Imagery and Mapping Agency Act of 1996 (title XI of the National Defense Authorization Act for Fiscal Year 1997)".
 
 Subsec. (c). Pub. L. 108–136, §921(d)(2)(A), substituted "National Geospatial-Intelligence Agency" for "National Imagery and Mapping Agency" in two places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -4,6 +4,8 @@ The provisions of the Act of January 26, 1915, entitled "An Act to establish the
 
 (June 9, 1926, ch. 515, §3, 44 Stat. 714.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Act of January 26, 1915, entitled "An Act to establish the Rocky Mountain National Park in the State of Colorado, and for other purposes,", referred to in text, is act Jan. 26, 1915, ch. 19, 38 Stat. 798, which enacted sections 191 and 193 to 195a of this title. For complete classification of this Act to the Code, see Tables.
@@ -12,7 +14,7 @@ The Act of August 25, 1916, entitled "An Act to establish a national–park serv
 
 Hereby, referred to in text, means by act June 9, 1926, which is classified to sections 192a, 196, and 197 of this title.
 
-The Federal Power Act, referred to in text, was in the original the "Act of June 10, 1920, entitled 'an Act to create a Federal power commission; to provide for the improvement of navigation, the development of water power; the use of the public lands in relation thereto; and to repeal section 18 of the River and Harbor Appropriation Act, approved August 8, 1917, and for other purposes' ", and was redesignated the Federal Power Act by section 791a of this title. The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, and is classified generally to chapter 12 (§791a et seq.) of this title. For complete classification of this Act to the Code, see section 791a of this title and Tables.
+The Federal Power Act, referred to in text, was in the original the "Act of June 10, 1920, entitled 'an Act to create a Federal power commission; to provide for theimprovement of navigation, the development of water power; the use of the public lands in relation thereto; and to repeal section 18 of the River and Harbor Appropriation Act, approved August 8, 1917, and for other purposes' ", and was redesignated the Federal Power Act by section 791a of this title. The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, and is classified generally to chapter 12 (§791a et seq.) of this title. For complete classification of this Act to the Code, see section 791a of this title and Tables.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

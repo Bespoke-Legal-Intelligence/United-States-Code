@@ -2,7 +2,7 @@
 
 #### (a) Disclosure of information
 
-Information concerning the nature and location of any archaeological resource for which the excavation or removal requires a permit or other permission under this chapter or underany other provision of Federal law may not be made available to the public under subchapter II of chapter 5 of title 5 or under any other provision of law unless the Federal land manager concerned determines that such disclosure would—
+Information concerning the nature and location of any archaeological resource for which the excavation or removal requires a permit or other permission under this chapter or under any other provision of Federal law may not be made available to the public under subchapter II of chapter 5 of title 5 or under any other provision of law unless the Federal land manager concerned determines that such disclosure would—
 
 &emsp;(1) further the purposes of this chapter or chapter 3125 of title 54, and
 
@@ -21,6 +21,8 @@ Notwithstanding the provisions of subsection (a), upon the written request of th
 > the Federal land manager concerned shall provide to the Governor information concerning the nature and location of archaeological resources within the State of the requesting Governor.
 
 (Pub. L. 96–95, §9, Oct. 31, 1979, 93 Stat. 727; Pub. L. 113–287, §5(d)(8), Dec. 19, 2014, 128 Stat. 3265.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

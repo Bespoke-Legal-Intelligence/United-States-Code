@@ -22,7 +22,7 @@ Minimum requirements.—The committee established under section 15102,<sup>1</su
 
 (b)
 
-Employee Status.—A member of a committee established under this chapter or to which this chapter applies shall not be considered an employee of the Federal Government by reason of service on such committee, except for the purposes of the following:
+Employee Status.—A member of a committee established under this chapter or towhich this chapter applies shall not be considered an employee of the Federal Government by reason of service on such committee, except for the purposes of the following:
 
 &emsp;(1) Chapter 81 of title 5.
 
@@ -134,7 +134,7 @@ Special rule for reappointments.—
 
 &emsp;&emsp;(A)
 
-Reappointment.—Notwithstanding paragraphs (1) and (2), the Secretary may reappoint a member of a committee established under this chapter or to which this chapter applies for any term, other than the first term of the member, without soliciting, receiving, or considering nominations for such appointment.
+Reappointment.—Notwithstanding paragraphs (1) and (2), the Secretary may reappoint a member of a committee established under this chapter or to which this chapter applies for any term, other than thefirst term of the member, without soliciting, receiving, or considering nominations for such appointment.
 
 &emsp;&emsp;(B)
 
@@ -222,7 +222,7 @@ Observers.—
 
 &emsp;(1)
 
-In general.—Any Federal agency with matters under such agency's administrative jurisdiction related to the function of a committee established under this chapter <sup>1</sup> may designate a representative to—
+In general.—Any Federal agency with matters under such agency's administrative jurisdiction related to the function of a committee established under this chapter <sup>2</sup> may designate a representative to—
 
 &emsp;&emsp;(A) attend any meeting of such committee; and
 
@@ -258,7 +258,7 @@ Savings Clause.—Nothing in this section shall preclude the Secretary from taki
 
 #### Amendments
 
-<b>2021</b>—Pub. L. 116–283, §8331(b), inserted "or to which this chapter applies" after "committee established under this chapter" wherever appearing. The phrase "committee established under this chapter" in subsec. (k) was added subsequent to this amendment, andtherefore the inserted phrase does not appear there. See subsec. (k) Amendment note below.
+<b>2021</b>—Pub. L. 116–283, §8331(b), inserted "or to which this chapter applies" after "committee established under this chapter" wherever appearing. The phrase "committee established under this chapter" in subsec. (k) was added subsequent to this amendment, and therefore the inserted phrase does not appear there. See subsec. (k) Amendment note below.
 
 Subsec. (a). Pub. L. 116–283, §8335(a)(2)(A), designated existing provisions as par. (1), inserted heading, substituted "Except as provided in paragraph (2), each" for "Each", and added par. (2).
 
@@ -284,5 +284,5 @@ Subsec. (n). Pub. L. 116–283, §8335(a)(2)(H), added subsec. (n).
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by "or to which this chapter applies".</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by "or to which this chapter applies".</i>
 

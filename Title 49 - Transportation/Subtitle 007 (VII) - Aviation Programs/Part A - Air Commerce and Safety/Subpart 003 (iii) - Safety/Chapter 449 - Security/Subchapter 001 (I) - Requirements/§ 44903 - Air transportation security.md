@@ -20,7 +20,7 @@ Law enforcement personnel.—The term "law enforcement personnel" means individu
 
 (b)
 
-Protection Against Violence and Piracy.—The Administrator shall prescribe regulations to protect passengers and property on an aircraft operating in air transportation or intrastate air transportation against an act of criminal violence or aircraft piracy. When prescribing a regulation under this subsection, the Administrator shall—
+Protection Against Violence and Piracy.—The Administrator shall prescribe regulations to protect passengers and property on an aircraft operating in air transportation or intrastate air transportation against an act of criminal violence or aircraft piracy. When prescribinga regulation under this subsection, the Administrator shall—
 
 &emsp;(1) consult with the Secretary of Transportation, the Attorney General, the heads of other departments, agencies, and instrumentalities of the United States Government, and State and local authorities;
 
@@ -72,7 +72,7 @@ Exclusive Responsibility Over Passenger Safety.—The Administrator has the excl
 
 (f)
 
-Government and Industry Consortia.—The Administrator may establish at airports such consortia of government and aviation industry representatives as the Administrator may designate to provide advice on matters related to aviation security and safety. Such consortia shall not be considered Federal advisory committees for purposes of the Federal Advisory Committee Act (5 U.S.C. App.).
+Government and Industry Consortia.—The Administrator may establish at airports such consortia of government and aviation industry representatives as the Administratormay designate to provide advice on matters related to aviation security and safety. Such consortia shall not be considered Federal advisory committees for purposes of the Federal Advisory Committee Act (5 U.S.C. App.).
 
 (g)
 
@@ -178,7 +178,7 @@ Program requirements.—The program shall—
 
 &emsp;&emsp;&emsp;(i) establish a credential or a system that incorporates biometric technology and other applicable technologies;
 
-&emsp;&emsp;&emsp;(ii) establish a system for law enforcement officers who need to be armed whentraveling by commercial aircraft on a regular basis and for those who need to be armed during temporary travel assignments;
+&emsp;&emsp;&emsp;(ii) establish a system for law enforcement officers who need to be armed when traveling by commercial aircraft on a regular basis and for those who need to be armed during temporary travel assignments;
 
 &emsp;&emsp;&emsp;(iii) comply with other uniform credentialing initiatives, including the Homeland Security Presidential Directive 12;
 
@@ -230,7 +230,7 @@ False non-match.—The term "false non-match" means the rejection of a valid ide
 
 &emsp;&emsp;(F)
 
-Secure area of an airport.—The term "secure area of an airport" means the sterile area and the Secure Identification Display Area of an airport (as such terms are defined in section 1540.5 of title 49, Code of Federal Regulations, or any successor regulation to such section).
+Secure area of an airport.—The term "secure area of an airport" means the sterilearea and the Secure Identification Display Area of an airport (as such terms are defined in section 1540.5 of title 49, Code of Federal Regulations, or any successor regulation to such section).
 
 (i)
 
@@ -340,7 +340,7 @@ Aircraft charter customer and lessee prescreening.—
 
 In general.—The Administrator Administrator <sup>2</sup> shall establish a process by which operators of aircraft to be used in charter air transportation with a maximum takeoff weight greater than 12,500 pounds and lessors of aircraft with a maximum takeoff weight greater than 12,500 pounds may—
 
-&emsp;&emsp;&emsp;&emsp;(I) request the Department of Homeland Security to use the advanced passenger prescreening system to compare information about any individual seeking to charter an aircraft with a maximum takeoff weight greater than 12,500 pounds, any passenger proposed to be transported aboard such aircraft, and any individual seeking to lease an aircraft with a maximum takeoff weight greater than 12,500 pounds to the automatic selectee and no fly lists, utilizingall appropriate records in the consolidated and integrated terrorist watchlist maintained by the Federal Government; and
+&emsp;&emsp;&emsp;&emsp;(I) request the Department of Homeland Security to use the advanced passenger prescreening system to compare information about any individual seeking to charter an aircraft with a maximum takeoff weight greater than 12,500 pounds, any passenger proposed to be transported aboard such aircraft, and any individual seeking to lease an aircraft with a maximum takeoff weight greater than 12,500 pounds to the automatic selectee and no fly lists, utilizing all appropriate records in the consolidated and integrated terrorist watchlist maintained by the Federal Government; and
 
 &emsp;&emsp;&emsp;&emsp;(II) refuse to charter or lease an aircraft with a maximum takeoff weight greater than 12,500 pounds to or transport aboard such aircraft any persons identified on such watch list.
 
@@ -394,7 +394,7 @@ In general.—Paragraph (1) and the other requirements of this chapter do not ap
 
 &emsp;&emsp;(B)
 
-Security procedures.—The Secretary of Defense, in consultation with the Secretary of Homeland Security and the Secretary of Transportation, shall establish security procedures relating to the operation of aircraft when employed to provide charter transportation to members of the armed forces to or from an airport described in section 44903(c).
+Security procedures.—The Secretary of Defense, in consultation with the Secretary of Homeland Security and the Secretary of Transportation, shall establish security procedures relating to the operationof aircraft when employed to provide charter transportation to members of the armed forces to or from an airport described in section 44903(c).
 
 &emsp;&emsp;(C)
 
@@ -492,6 +492,8 @@ In subsection (c)(2)(A), before clause (i), the words "under this section" are o
 
 In subsection (e), the words "Notwithstanding any other provisions of law", "the commission of", "considered", and "the moment when" before "such door" are omitted as surplus. The words "to allow passengers to leave" are substituted for "disembarkation", and the words "the aircraft" are added, for clarity. The words "departments, agencies, and instrumentalities of the Government" are substituted for "Federal departments and agencies" for consistency in the revised title and with other titles of the Code. The words "as may be . . . the purposes of" are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -520,7 +522,7 @@ Subsec. (h)(4)(E). Pub. L. 115–254, §1991(d)(3)(D)(ii)(III), struck out ", n
 
 Subsec. (h)(5). Pub. L. 115–254, §1991(d)(3)(D)(iii), substituted "Administrator" for "Assistant Secretary of Homeland Security (Transportation Security Administration)" in introductory provisions.
 
-Subsec. (h)(6)(A). Pub. L. 115–254, §1991(d)(3)(D)(iv)(I), substituted "The" for "Not later than 18 months afterthe date of enactment of the Implementing Recommendations of the 9/11 Commission Act of 2007, the" in introductory provisions.
+Subsec. (h)(6)(A). Pub. L. 115–254, §1991(d)(3)(D)(iv)(I), substituted "The" for "Not later than 18 months after the date of enactment of the Implementing Recommendations of the 9/11 Commission Act of 2007, the" in introductory provisions.
 
 Subsec. (h)(6)(A)(i). Pub. L. 115–254, §1991(d)(3)(D)(iv)(II), substituted "paragraph" for "section".
 
@@ -574,7 +576,7 @@ Subsec. (j)(2)(C) to (H). Pub. L. 108–458, §4012(a)(1), added subpars. (C) to
 
 Pub. L. 107–296, §1406(2), redesignated subsec. (h), relating to authority to arm flight deck crews with less-than-lethal weapons, as (i).
 
-Subsec. (i). Pub. L. 107–296, §1406(2), redesignated subsec. (h), relating to authority to arm flight deck crews with less-than-lethal weapons, as (i). Former subsec. (i) redesignated (j).
+Subsec. (i). Pub. L. 107–296, §1406(2), redesignated subsec. (h), relating to authority to arm flight deck crewswith less-than-lethal weapons, as (i). Former subsec. (i) redesignated (j).
 
 Subsec. (i)(1). Pub. L. 107–296, §1405(b)(1), substituted "If the Under Secretary" for "If the Secretary" and "the Under Secretary may" for "the Secretary may".
 
@@ -625,6 +627,8 @@ Subsec. (i). Pub. L. 107–71, §136, added subsec. (i).
 Subsec. (f). Pub. L. 106–181 added subsec. (f).
 
 Subsec. (g). Pub. L. 106–528, §4, added subsec. (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 
@@ -728,7 +732,7 @@ Sunset.—The Task Force established pursuant to subsection (a) shall terminate 
 
 "(a)
 
-In General.—Not later than two years after the date of the enactment of this Act \[Oct. 5, 2018\], the Attorney General, in coordination with relevant Federal agencies, shall establish a streamlined process, based on the plan required under section 339A(e) of this Act,for individuals involved in incidents of alleged sexual misconduct onboard aircraft to report such allegations of sexual misconduct to law enforcement in a manner that protects the privacy and confidentiality of individuals involved in such allegations.
+In General.—Not later than two years after the date of the enactment of this Act \[Oct. 5, 2018\], the Attorney General, in coordination with relevant Federal agencies, shall establish a streamlined process, based on the plan required under section 339A(e) of this Act, for individuals involved in incidents of alleged sexual misconduct onboard aircraft to report such allegations of sexual misconduct to law enforcement in a manner that protects the privacy and confidentiality of individuals involved in such allegations.
 
 "(b)
 
@@ -834,7 +838,7 @@ Pub. L. 115–254, div. K, title I, §1934, Oct. 5, 2018, 132 Stat. 3572, provid
 
 "(a)
 
-Cooperative Efforts to Enhance Airport Security Awareness.—Not later than 180 days after thedate of enactment of this Act \[Oct. 5, 2018\], the Administrator shall consult with air carriers, foreign air carriers, airport operators, and labor unions representing credentialed employees to enhance security awareness of credentialed airport populations regarding insider threats to aviation security and best practices related to airport access controls.
+Cooperative Efforts to Enhance Airport Security Awareness.—Not later than 180 days after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator shall consult with air carriers, foreign air carriers, airport operators, and labor unions representing credentialed employees to enhance security awareness of credentialed airport populations regarding insider threats to aviation security and best practices related to airport access controls.
 
 "(b)
 
@@ -954,7 +958,7 @@ Cooperation by Administrator.—In carrying out subsection (a), the Administrato
 
 "(c)
 
-Administrative Burdens.—The Administrator shall review the regulations and compliance policies related to the Law Enforcement Officer ReimbursementProgram and, if necessary, revise such regulations and policies to reduce any administrative burdens on applicants or recipients of such awards.
+Administrative Burdens.—The Administrator shall review the regulations and compliance policies related to the Law Enforcement Officer Reimbursement Program and, if necessary, revise such regulations and policies to reduce any administrative burdens on applicants or recipients of such awards.
 
 "(d)
 
@@ -1112,7 +1116,7 @@ Federal Air Marshal Service Coordination.—
 
 &emsp;"(1)
 
-In general.—The Administrator shall ensure that the rules identified in subsection (c) are takeninto account for Federal Air Marshal mission scheduling.
+In general.—The Administrator shall ensure that the rules identified in subsection (c) are taken into account for Federal Air Marshal mission scheduling.
 
 &emsp;"(2)
 
@@ -1330,7 +1334,7 @@ National Institute of Standards and Technology Information Security Standards.�
 
 "(e)
 
-Cybersecurity Research and Development.—Not later than 1 year after the date of enactment ofthis Act, the Administrator, in consultation with other agencies as appropriate, shall establish a cybersecurity research and development plan for the national airspace system, including—
+Cybersecurity Research and Development.—Not later than 1 year after the date of enactment of this Act, the Administrator, in consultation with other agencies as appropriate, shall establish a cybersecurity research and development plan for the national airspace system, including—
 
 &emsp;"(1) any proposal for research and development cooperation with international partners;
 

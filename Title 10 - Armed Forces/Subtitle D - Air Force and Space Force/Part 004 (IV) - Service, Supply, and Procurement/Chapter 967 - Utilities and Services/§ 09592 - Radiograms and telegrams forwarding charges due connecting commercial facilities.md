@@ -20,6 +20,8 @@ May 12, 1917, ch. 12 (proviso under "Washington-Alaska Military Cable and Telegr
 
 The words "members of the Air Force" are substituted for the words "Signal Corps", since the Air Force does not have organic corps created by statute. The words "Government", "and to this end", "as may be", and "amount of such" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–316 substituted "of the forwarding" for ", or may file a claim with the General Accounting Office for the forwarding" in second sentence.

@@ -6,7 +6,7 @@ Nothing in this Act shall affect the right of the President to establish naval d
 
 #### (b) Navigation; flood control; power production
 
-Nothing in this Act shall affect the use, development, improvement, or control by or under the constitutional authority of the United States of the lands transferred by section 1705 of this title, and the navigable waters overlying such lands, for the purposes of navigation or flood control or the production of power, or be construed as the release or relinquishment of any rights of the United States arising under the constitutional authority of Congress to regulate or improve navigation, or to provide for flood control or the production of power.
+Nothing in this Act shall affect the use, development, improvement, or control by or under the constitutional authority of the United States of the lands transferred by section 1705 of this title, and the navigable waters overlying such lands, for the purposes of navigation orflood control or the production of power, or be construed as the release or relinquishment of any rights of the United States arising under the constitutional authority of Congress to regulate or improve navigation, or to provide for flood control or the production of power.
 
 #### (c) Navigational servitude and powers of regulation for purposes of commerce, navigation, national defense, and international affairs
 
@@ -17,6 +17,8 @@ The United States retains all of its navigational servitude and rights in and po
 Nothing in this Act shall affect the status of lands beyond the three-mile limit described in section 1705 of this title.
 
 (Pub. L. 93–435, §2, Oct. 5, 1974, 88 Stat. 1211; Pub. L. 113–34, §1(a), Sept. 18, 2013, 127 Stat. 518.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

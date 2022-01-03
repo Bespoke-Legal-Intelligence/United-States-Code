@@ -329,6 +329,8 @@ Asset Protection Allowances for Families and Students
 
 <i>See 2020 Amendment note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2020</b>—Pub. L. 116–260 amended section generally. Prior to amendment, section related to family contribution for independent students without dependents other than a spouse.
@@ -363,7 +365,7 @@ Subsec. (b)(1)(A)(iv)(III). Pub. L. 105–244, §474(b)(3), substituted "$8,000"
 
 Subsec. (b)(1)(C). Pub. L. 100–50, §14(13)(B), redesignated subpar. (B) as (C). Former subpar. (C) redesignated (D).
 
-Subsec. (b)(1)(D). Pub. L. 100–50, §14(15), which directed that subsec. (b)(1)(C) be amended by inserting "plus the amount of veterans' benefits paid during theaward period under chapters 32, 34, and 35 of title 28", was executed to subpar. (D) to reflect the probable intent of Congress and the intervening redesignation of subpar. (C) as (D) by section 14(13)(B) of Pub. L. 100–50.
+Subsec. (b)(1)(D). Pub. L. 100–50, §14(15), which directed that subsec. (b)(1)(C) be amended by inserting "plus the amount of veterans' benefits paid during the award period under chapters 32, 34, and 35 of title 28", was executed to subpar. (D) to reflect the probable intent of Congress and the intervening redesignation of subpar. (C) as (D) by section 14(13)(B) of Pub. L. 100–50.
 
 Pub. L. 100–50, §14(13)(A), (B), redesignated subpar. (C) as (D) and substituted "subparagraph (C)" for "subparagraph (B)".
 
@@ -390,6 +392,8 @@ Subsec. (c)(2)(C). Pub. L. 100–50, §14(4), added table and struck out former 
 | $325,001 or more | $169,000 plus 100 percent of NW over $325,000". |
 
 Pub. L. 100–50, §14(1), substituted "section 1087rr of this title" for "section 1087ss of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 

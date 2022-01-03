@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is hereby established in the House of Representatives an office to be known as the"Office of Interparliamentary Affairs" (hereafter in this section referred to as the "Office").
+There is hereby established in the House of Representatives an office to be known as the "Office of Interparliamentary Affairs" (hereafter in this section referred to as the "Office").
 
 #### (b) Duties
 
@@ -40,7 +40,7 @@ The duties of the Office are as follows:
 
 #### (2) Compensation
 
-&emsp;Any employee of the Office appointed under this subsection shall be paid at an annual rate determined by the Director with the approval of the Speaker or in accordance with policies approved by the Speaker.
+&emsp;Any employee of the Office appointed under this subsection shall be paid at an annual ratedetermined by the Director with the approval of the Speaker or in accordance with policies approved by the Speaker.
 
 #### (e) Omitted
 

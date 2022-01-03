@@ -2,7 +2,7 @@
 
 #### (a) Establishment of account
 
-The Secretary shall maintain in the Presidential Election Campaign Fund established bysection 9006(a), in addition to any account which he maintains under such section, a separate account to be known as the Presidential Primary Matching Payment Account. The Secretary shall deposit into the matching payment account, for use by the candidate of any political party who is eligible to receive payments under section 9033, the amount available after the Secretary determines that amounts for payments under section 9006(c) and for payments under section 9008(i)(2) are available for such payments.
+The Secretary shall maintain in the Presidential Election Campaign Fund established by section 9006(a), in addition to any account which he maintains under such section, a separate account to be known as the Presidential Primary Matching Payment Account. The Secretary shall deposit into the matching payment account, for use by the candidate of any political party who is eligible to receive payments under section 9033, the amount available after the Secretary determines that amounts for payments under section 9006(c) and for payments under section 9008(i)(2) are available for such payments.
 
 #### (b) Payments from the matching payment account
 
@@ -10,11 +10,15 @@ Upon receipt of a certification from the Commission under section 9036, but not 
 
 (Added Pub. L. 93–443, title IV, §408(c), Oct. 15, 1974, 88 Stat. 1300; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 113–94, §2(b)(2), Apr. 3, 2014, 128 Stat. 1085.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Subsec. (a). Pub. L. 113–94 substituted "section 9008(i)(2)" for "section 9008(b)(3)".
 
 <b>1976</b>—Subsec. (b). Pub. L. 94–455 struck out "or his delegate" after "Secretary" in three places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

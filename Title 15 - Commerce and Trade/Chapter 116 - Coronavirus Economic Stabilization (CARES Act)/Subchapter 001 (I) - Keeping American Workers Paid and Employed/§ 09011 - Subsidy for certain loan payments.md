@@ -164,7 +164,7 @@ A borrower may not receive assistance under subsection (c) for more than 1 cover
 
 #### (B) Guidance
 
-&emsp;&emsp;Not later than 21 days after the date of enactment of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act the Administrator shall issue guidance on implementing the modifications to the assistance provided under this section under the amendments made by such Act.
+&emsp;&emsp;Not later than 21 days after the date of enactment of the Economic Aid to Hard-HitSmall Businesses, Nonprofits, and Venues Act the Administrator shall issue guidance on implementing the modifications to the assistance provided under this section under the amendments made by such Act.
 
 #### (2) Publication of list
 
@@ -208,6 +208,8 @@ There is authorized to be appropriated to the Administrator $17,000,000,000 to c
 
 (Pub. L. 116–136, div. A, title I, §1112, Mar. 27, 2020, 134 Stat. 309; Pub. L. 116–260, div. N, title III, §325(a), Dec. 27, 2020, 134 Stat. 2032.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1102, referred to in subsec. (a)(1)(A)(ii), means section 1102 of Pub. L. 116–136.
@@ -216,7 +218,7 @@ The Small Business Investment Act of 1958, referred to in subsec. (a)(1)(B), is 
 
 This Act, referred to in subsec. (b)(3), is div. A of Pub. L. 116–136, Mar. 27, 2020, 134 Stat. 286. For complete classification of this Act to the Code, see Tables.
 
-The National Emergencies Act, referred to in subsec. (b)(3), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§1601 etseq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
+The National Emergencies Act, referred to in subsec. (b)(3), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
 
 The date of enactment of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act, referred to in subsec. (h)(1), (4), (5), is the date of enactment of title III of div. N of Pub. L. 116–260, which was approved Dec. 27, 2020.
 
@@ -236,9 +238,11 @@ Subsec. (c)(4) to (9). Pub. L. 116–260, §325(a)(1)(B), added pars. (4) to (9)
 
 Subsecs. (f) to (i). Pub. L. 116–260, §325(a)(2), (3), added subsecs. (f) to (h) and redesignated former subsec. (f) as (i).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2020 Amendment
 
-Pub. L. 116–260, div. N, title III, §325(b), Dec. 27, 2020, 134 Stat. 2036, provided that: "The amendments made by subsection (a) \[amending this section\] shall be effective as if included in the CARES Act (Public Law 116–136; 134 Stat. 281)."
+Pub. L. 116–260, div. N, title III, §325(b), Dec. 27, 2020, 134 Stat. 2036, provided that: "The amendments madeby subsection (a) \[amending this section\] shall be effective as if included in the CARES Act (Public Law 116–136; 134 Stat. 281)."
 
 #### Clarification of Tax Treatment of Certain Loan Forgiveness and Other Business Financial Assistance
 

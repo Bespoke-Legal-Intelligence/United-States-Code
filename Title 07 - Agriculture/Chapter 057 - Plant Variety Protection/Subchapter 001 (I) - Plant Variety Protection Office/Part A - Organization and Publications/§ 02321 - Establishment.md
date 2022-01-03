@@ -4,9 +4,13 @@ There is hereby established in the Department of Agriculture an office to be kno
 
 (Pub. L. 91–577, title I, §1, Dec. 24, 1970, 84 Stat. 1542; Pub. L. 96–574, §1, Dec. 22, 1980, 94 Stat. 3350.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1980</b>—Pub. L. 96–574 substituted "an office" for "a bureau".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

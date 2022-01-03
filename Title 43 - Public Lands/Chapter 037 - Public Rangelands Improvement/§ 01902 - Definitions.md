@@ -2,7 +2,7 @@
 
 As used in this chapter—
 
-(a) The terms "rangelands" or "public rangelands" means lands administered by the Secretary of the Interior through the Bureau of Land Management or the Secretary of Agriculture through the Forest Service in the sixteen contiguous Western States on which there is domestic livestock grazing or which the Secretary concerned determines may be suitable for domestic livestock grazing.
+(a) The terms "rangelands" or "public rangelands" means lands administered by the Secretary of the Interior through the Bureau ofLand Management or the Secretary of Agriculture through the Forest Service in the sixteen contiguous Western States on which there is domestic livestock grazing or which the Secretary concerned determines may be suitable for domestic livestock grazing.
 
 (b) The term "allotment management plan" is the same as defined in section 1702(k) of this title, except that as used in this chapter such term applies to the sixteen contiguous Western States.
 

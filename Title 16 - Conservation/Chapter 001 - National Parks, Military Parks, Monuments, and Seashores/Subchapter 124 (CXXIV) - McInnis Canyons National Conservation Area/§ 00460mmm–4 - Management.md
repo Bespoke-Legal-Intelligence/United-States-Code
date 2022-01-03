@@ -54,7 +54,7 @@ Subject to valid existing rights, lands designated as wilderness by this subchap
 
 #### (2) Area and time closures
 
-&emsp;The head of the Colorado Division of Wildlife (in reference to land within the State of Colorado), the head of the Utah Division of Wildlife (in reference to land within the State of Utah), or the Secretary after consultation with the Colorado Division of Wildlife (in reference to land within the State of Colorado) or the head of the Utah Division of Wildlife (in referenceto land within the State of Utah), may issue regulations designating zones where, and establishing limited periods when, hunting, trapping, or fishing shall be prohibited in the Conservation Area or the Wilderness for reasons of public safety, administration, or public use and enjoyment.
+&emsp;The head of the Colorado Division of Wildlife (in reference to land within the State of Colorado), the head of the Utah Division of Wildlife (in reference to land within the State of Utah), or the Secretary after consultation with the Colorado Division of Wildlife (in reference to land within the State of Colorado) or the head of the Utah Division of Wildlife (in reference to land within the State of Utah), may issue regulations designating zones where, and establishing limited periods when, hunting, trapping, or fishing shall be prohibited in the Conservation Area or the Wilderness for reasons of public safety, administration, or public use and enjoyment.
 
 #### (g) Grazing
 
@@ -88,7 +88,7 @@ Subject to valid existing rights, lands designated as wilderness by this subchap
 
 #### (i) No buffer zones
 
-The Congress does not intend for the establishment of the Conservation Area or the Wilderness to lead to the creation of protective perimeters or buffer zones around the Conservation Area or the Wilderness. The fact that there may be activities or uses on lands outside the Conservation Area or the Wilderness that would not be allowed in the Conservation Area or the Wilderness shall not preclude such activities or uses on such lands up to the boundary of the Conservation Area or the Wilderness consistent with other applicable laws.
+The Congress does not intend for the establishment of the Conservation Area or the Wildernessto lead to the creation of protective perimeters or buffer zones around the Conservation Area or the Wilderness. The fact that there may be activities or uses on lands outside the Conservation Area or the Wilderness that would not be allowed in the Conservation Area or the Wilderness shall not preclude such activities or uses on such lands up to the boundary of the Conservation Area or the Wilderness consistent with other applicable laws.
 
 #### (j) Acquisition of land
 
@@ -153,6 +153,8 @@ The Secretary may establish minimal interpretive facilities or sites in cooperat
 &emsp;&emsp;(iii) the operation of the mineral leasing, mineral materials, and geothermal leasing laws.
 
 (Pub. L. 106–353, §6, Oct. 24, 2000, 114 Stat. 1375.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

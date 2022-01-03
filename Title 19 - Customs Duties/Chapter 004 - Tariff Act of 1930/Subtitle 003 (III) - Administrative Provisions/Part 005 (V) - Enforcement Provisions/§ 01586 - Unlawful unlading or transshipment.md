@@ -6,7 +6,7 @@ The master of any vessel from a foreign port or place, or of a hovering vessel w
 
 #### (b) Penalty for transshipment to any vessel for purpose of unlawful entry
 
-The master of any vessel from a foreign port or place, or of a hovering vessel which has received or delivered merchandise while outside the territorial sea, who allows any merchandise\(including sea stores), the importation of which into the United States is prohibited, or which consists of any spirits, wines, or other alcoholic liquors, to be unladen from his vessel at any place upon the high seas adjacent to the customs waters of the United States to be transshipped to or placed in or received on any vessel of any description, with knowledge, or under circumstances indicating the purpose to render it possible, that such merchandise, or any part thereof, may be introduced, or attempted to be introduced, into the United States in violation of law, shall be liable to a penalty equal to twice the value of the merchandise but not less than $10,000, and the vessel from which the merchandise is so unladen, and its cargo and such merchandise, shall be seized and forfeited.
+The master of any vessel from a foreign port or place, or of a hovering vessel which has received or delivered merchandise while outside the territorial sea, who allows any merchandise (including sea stores), the importation of which into the United States is prohibited, or which consists of any spirits, wines, or other alcoholic liquors, to be unladen from his vessel at any place upon the high seas adjacent to the customs waters of the United States to be transshipped to or placed in or received on any vessel of any description, with knowledge, or under circumstances indicating the purpose to render it possible, that such merchandise, or any partthereof, may be introduced, or attempted to be introduced, into the United States in violation of law, shall be liable to a penalty equal to twice the value of the merchandise but not less than $10,000, and the vessel from which the merchandise is so unladen, and its cargo and such merchandise, shall be seized and forfeited.
 
 #### (c) Penalty for unlawful transshipment to any vessel of United States
 
@@ -25,6 +25,8 @@ Whoever, at any place, if a citizen of the United States, or at any place in the
 Whenever any part of the cargo or stores of a vessel has been unladen or transshipped because of accident, stress of weather, or other necessity, the master of such vessel and the master of any vessel to which such cargo or stores has been transshipped shall, as soon as possible thereafter, notify the Customs Service at the district within which such unlading or transshipment has occurred, or the Customs Service at the district at which such vessel shall first arrive thereafter, and shall furnish proof that such unlading or transshipment was made necessary by accident, stress of weather, or other unavoidable cause, and if the Customs Service is satisfied that the unlading or transshipment was in fact due to accident, stress of weather, or other necessity, the penalties described in this section shall not be incurred.
 
 (June 17, 1930, ch. 497, title IV, §586, 46 Stat. 749; Aug. 5, 1935, ch. 438, title II, §205, 49 Stat. 524; Pub. L. 91–271, title III, §301(b), June 2, 1970, 84 Stat. 287; Pub. L. 99–570, title III, §3119, Oct. 27, 1986, 100 Stat. 3207–84; Pub. L. 103–182, title VI, §620, Dec. 8, 1993, 107 Stat. 2180.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -50,11 +52,13 @@ Pub. L. 99–570, §3119(2)(B), which directed that "15 years" be substituted fo
 
 <b>1935</b>—Act Aug. 5, 1935, redesignated existing provisions as subsecs. (a) and (f) and added subsecs. (b) to (e).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1970 Amendment
 
 For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 91–271, set out as a note under section 1500 of this title.
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs andBorder Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 

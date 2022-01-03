@@ -30,7 +30,7 @@
 
 &emsp;&emsp;&emsp;(ii) offering academic courses and clinical teaching experiences designed to prepare stipend recipients to teach in elementary schools and secondary schools served by a high need local educational agency, including such preparation as is necessary to meet requirements for teacher certification or licensing; and
 
-&emsp;&emsp;&emsp;(iii) offering programs to stipend recipients, both during and after matriculation in the program for which the stipend is received, to enable recipients to become better mathematics and science teachers, tofulfill the service requirements of this section, and to exchange ideas with others in the students' fields.
+&emsp;&emsp;&emsp;(iii) offering programs to stipend recipients, both during and after matriculation in the program for which the stipend is received, to enable recipients to become better mathematics and science teachers, to fulfill the service requirements of this section, and to exchange ideas with others in the students' fields.
 
 #### (4) Eligibility requirement
 
@@ -174,7 +174,7 @@ As a condition of acceptance of a scholarship or stipend under this section, a r
 
 #### (C) Retain percentage
 
-&emsp;&emsp;An eligible entity may retain a percentage of any repayment the eligible entity collects to defray administrative costs associated with the collection. The Director shall establish a single, fixed percentage that will apply to all eligible entities.
+&emsp;&emsp;An eligible entity may retain a percentage of any repayment the eligible entity collectsto defray administrative costs associated with the collection. The Director shall establish a single, fixed percentage that will apply to all eligible entities.
 
 #### (g) Failure to complete service obligation
 
@@ -264,6 +264,8 @@ Not less than 2 years after August 9, 2007, the Director, in consultation with t
 
 (Pub. L. 107–368, §10, Dec. 19, 2002, 116 Stat. 3049; Pub. L. 110–69, title VII, §7030, Aug. 9, 2007, 121 Stat. 698; Pub. L. 114–59, §4(b), Oct. 7, 2015, 129 Stat. 541; Pub. L. 115–91, div. A, title XVI, §1649C, Dec. 12, 2017, 131 Stat. 1756; Pub. L. 115–303, §2(a)(1), Dec. 11, 2018, 132 Stat. 4399; Pub. L. 116–115, §3(d), Feb. 11, 2020, 134 Stat. 107; Pub. L. 116–283, div. E, title LIV, §5401(e)(2)(C), Jan. 1, 2021, 134 Stat. 4543.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Higher Education Act of 1965, referred to in subsec. (g)(2)(C), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Parts B and D of title IV of the Act are classified to parts B (§1071 et seq.) and D (§1087a et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
@@ -295,6 +297,8 @@ Subsec. (i)(7). Pub. L. 115–91, §1649C(2), amended par. (7) generally. Prior 
 <b>2015</b>—Subsec. (i)(5). Pub. L. 114–59 inserted "computer science," after "means a science,".
 
 <b>2007</b>—Pub. L. 110–69 amended section generally, substituting provisions relating to the Robert Noyce Teacher Scholarship Program, consisting of subsecs. (a) to (l), for former provisions relating to the Robert Noyce Scholarship Program, consisting of subsecs. (a) to (i). See Codification note above.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

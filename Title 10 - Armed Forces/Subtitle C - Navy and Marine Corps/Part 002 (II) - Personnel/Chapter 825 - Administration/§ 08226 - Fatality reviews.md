@@ -28,9 +28,11 @@ Matters To Be Included.—The report of a fatality review under subsection (a) s
 
 (c) OSD
 
-Guidance.—The Secretary of Defense shall prescribe guidance, which shall be uniform for the military departments, for the conduct of reviews by the Secretary under subsection (a).
+Guidance.—The Secretary of Defense shall prescribe guidance, which shall be uniformfor the military departments, for the conduct of reviews by the Secretary under subsection (a).
 
 (Added Pub. L. 108–136, div. A, title V, §576(b)(1), Nov. 24, 2003, 117 Stat. 1487, §6036; renumbered §8226, Pub. L. 115–232, div. A, title VIII, §807(b)(7), Aug. 13, 2018, 132 Stat. 1834.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -39,6 +41,8 @@ A prior section 8230, added Pub. L. 85–861, §1(164)(B), Sept. 2, 1958, 72 Sta
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 6036 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

@@ -14,7 +14,7 @@ As used in this chapter—
 
 &emsp;(6) the terms "National Nutrition Monitoring Advisory Council" and "Council" mean the advisory body established under section 5331 of this title;
 
-&emsp;(7) the term "nutrition monitoring and related research" means the set of activities necessary to provide timely information about the role and status of factors that bear on the contribution that nutrition makes to the health of the people of the United States, including—
+&emsp;(7) the term "nutrition monitoring and related research" means the set of activities necessary to provide timely information about the role and status of factors that bear on the contribution that nutrition makes to thehealth of the people of the United States, including—
 
 &emsp;&emsp;(A) dietary, nutritional, and health status measurements;
 

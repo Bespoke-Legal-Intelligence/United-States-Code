@@ -4,7 +4,7 @@
 
 Offense.—Except as provided in subsection (b), whoever, with respect to services covered by a health care benefit program, in or affecting interstate or foreign commerce, knowingly and willfully—
 
-&emsp;(1) solicits or receives any remuneration (including any kickback, bribe, or rebate) directly or indirectly, overtly or covertly, incash or in kind, in return for referring a patient or patronage to a recovery home, clinical treatment facility, or laboratory; or
+&emsp;(1) solicits or receives any remuneration (including any kickback, bribe, or rebate) directly or indirectly, overtly or covertly, in cash or in kind, in return for referring a patient or patronage to a recovery home, clinical treatment facility, or laboratory; or
 
 &emsp;(2) pays or offers any remuneration (including any kickback, bribe, or rebate) directly or indirectly, overtly or covertly, in cash or in kind—
 

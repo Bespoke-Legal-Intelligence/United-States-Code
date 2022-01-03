@@ -8,7 +8,7 @@ The permit program required by section 7502(b)(6) <sup>1</sup> of this title sh
 
 &emsp;&emsp;(A) by the time the source is to commence operation, sufficient offsetting emissions reductions have been obtained, such that total allowable emissions from existing sources in the region, from new or modified sources which are not major emitting facilities, and from the proposed source will be sufficiently less than total emissions from existing sources (as determined in accordance with the regulations under this paragraph) prior to the application for such permit to construct or modify so as to represent (when considered together with the plan provisions required under section 7502 of this title) reasonable further progress (as defined in section 7501 of this title); or
 
-&emsp;&emsp;(B) in the case of a new or modified major stationary source which is located in a zone (within the nonattainment area) identified by the Administrator, in consultation with the Secretary of Housing and Urban Development, as a zone to which economic development should be targeted, that emissions of such pollutant resulting from the proposed new or modified major stationary source will not cause or contribute to emissions levels which exceed the allowance permitted for such pollutant for such area from new or modified major stationary sources under section 7502(c) of this title;
+&emsp;&emsp;(B) in the case of a new or modified major stationary source which is located in a zone (within the nonattainment area) identified by the Administrator, in consultation with the Secretary of Housing and Urban Development, as a zone to which economic development should be targeted, that emissions of such pollutant resulting from the proposednew or modified major stationary source will not cause or contribute to emissions levels which exceed the allowance permitted for such pollutant for such area from new or modified major stationary sources under section 7502(c) of this title;
 
 &emsp;(2) the proposed source is required to comply with the lowest achievable emission rate;
 
@@ -32,7 +32,7 @@ Any growth allowance included in an applicable implementation plan to meet the r
 
 #### (d) Control technology information
 
-The State shall provide that control technology information from permits issued underthis section will be promptly submitted to the Administrator for purposes of making such information available through the RACT/BACT/LAER clearinghouse to other States and to the general public.
+The State shall provide that control technology information from permits issued under this section will be promptly submitted to the Administrator for purposes of making such information available through the RACT/BACT/LAER clearinghouse to other States and to the general public.
 
 #### (e) Rocket engines or motors
 
@@ -47,6 +47,8 @@ The permitting authority of a State shall allow a source to offset by alternativ
 &emsp;(4) The source will comply with an alternative measure, imposed by the permitting authority, designed to offset any emission increases beyond permitted levels not directly offset by the source. In lieu of imposing any alternative offset measures, the permitting authority may impose an emissions fee to be paid to such authority of a State which shall be an amount no greater than 1.5 times the average cost of stationary source control measures adopted in that area during the previous 3 years. The permitting authority shall utilize the fees in a manner that maximizes the emissions reductions in that area.
 
 (July 14, 1955, ch. 360, title I, §173, as added Pub. L. 95–95, title I, §129(b), Aug. 7, 1977, 91 Stat. 748; amended Pub. L. 95–190, §14(a)(57), (58), Nov. 16, 1977, 91 Stat. 1403; Pub. L. 101–549, title I, §102(c), Nov. 15, 1990, 104 Stat. 2415.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -75,6 +77,8 @@ Subsecs. (c) to (e). Pub. L. 101–549, §102(c)(10), added subsecs. (c) to (e).
 <b>1977</b>—Par. (1)(A). Pub. L. 95–190, §14(a)(57), inserted "or modified" after "from new" and "applicable" before "implementation plan", and substituted "source" for "facility" wherever appearing.
 
 Par. (4). Pub. L. 95–190, §14(a)(58), added par. (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Failure To Attain National Primary Ambient Air Quality Standards Under Clean Air Act
 

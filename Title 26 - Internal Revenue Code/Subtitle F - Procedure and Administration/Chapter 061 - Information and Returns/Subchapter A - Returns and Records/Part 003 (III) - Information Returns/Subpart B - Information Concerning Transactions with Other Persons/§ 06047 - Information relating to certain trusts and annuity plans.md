@@ -16,7 +16,7 @@ Every individual on whose behalf contributions have been paid as an owner-employ
 
 #### (c) Other programs
 
-To the extent provided by regulations prescribed by the Secretary, the provisions of this section apply with respect to any payment described in section 219 and to transactions of any trust described in section 408(a) or under an individual retirement annuity described in section 408(b).
+To the extent provided by regulations prescribed by the Secretary, the provisions of thissection apply with respect to any payment described in section 219 and to transactions of any trust described in section 408(a) or under an individual retirement annuity described in section 408(b).
 
 #### (d) Reports by employers, plan administrators, etc.
 
@@ -64,6 +64,8 @@ This section shall not apply to any information which is required to be reported
 
 (Added Pub. L. 87–792, §7(m)(1), Oct. 10, 1962, 76 Stat. 830; amended Pub. L. 93–406, title II, §§1031(c)(3), 2002(g)(8), Sept. 2, 1974, 88 Stat. 947, 970; Pub. L. 94–455, title XV, §1501(b)(9), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1737, 1834; Pub. L. 97–34, title III, §311(h)(8), Aug. 13, 1981, 95 Stat. 282; Pub. L. 97–248, title III, §334(b), Sept. 3, 1982, 96 Stat. 626; Pub. L. 97–448, title I, §103(c)(12)(C), Jan. 12, 1983, 96 Stat. 2377; Pub. L. 98–369, div. A, title IV, §491(d)(47), (57), July 18, 1984, 98 Stat. 852; Pub. L. 99–514, title XV, §1501(d)(1)(D), title XVIII, §1848(e)(2), Oct. 22, 1986, 100 Stat. 2740, 2857; Pub. L. 101–239, title VII, §7301(e), Dec. 19, 1989, 103 Stat. 2349; Pub. L. 102–318, title V, §522(b)(2)(D), (E), July 3, 1992, 106 Stat. 314; Pub. L. 104–188, title I, §§1455(b)(2), (d)(1), 1602(b)(6), Aug. 20, 1996, 110 Stat. 1818, 1834; Pub. L. 107–16, title VI, §617(d)(2), June 7, 2001, 115 Stat. 106; Pub. L. 115–97, title I, §13520(c)(2), Dec. 22, 2017, 131 Stat. 2151.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Subsec. (g). Pub. L. 115–97, §13520(c)(2)(B), added subsec. (g). Former subsec. (g) redesignated (h).
@@ -88,7 +90,7 @@ Subsec. (e)(1) to (3). Pub. L. 104–188, §1602(b)(6), added pars. (1) and (2) 
 
 "(3) both such employer or plan administrator and such person,".
 
-Subsec. (f)(1). Pub. L. 104–188, §1455(d)(1), amended par. (1) generally. Prior to amendment, par. (1) read asfollows: "For provisions relating to penalties for failure to file a return required by this section, see section 6652(e)."
+Subsec. (f)(1). Pub. L. 104–188, §1455(d)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "For provisions relating to penalties for failure to file a return required by this section, see section 6652(e)."
 
 <b>1992</b>—Subsec. (d)(1)(A). Pub. L. 102–318, §522(b)(2)(E), which directed the substitution of "section 3405(d)(3)" for "section 3405(d)(1)", could not be executed because of the prior amendment by Pub. L. 102–318, §522(b)(2)(D). See below.
 
@@ -117,6 +119,8 @@ Subsec. (d). Pub. L. 94–455, §1501(b)(9), inserted "or 220(a)" after "section
 <b>1974</b>—Subsec. (d). Pub. L. 93–406, §2002(g)(8), added subsec. (d). Former subsec. (d) redesignated (e).
 
 Subsec. (e). Pub. L. 93–406, §§1031(c)(3), 2002(g)(8), redesignated former subsec. (d) as (e), and inserted reference to section 6652(f) covering provisions relating to penalties for failure to file a return required by this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 
@@ -190,5 +194,5 @@ For provisions directing that if any amendments made by subtitle B \[§§521–5
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

@@ -64,7 +64,7 @@ Reimbursement.—Upon approval of the Secretary, the sponsor of a current or for
 
 (g)
 
-Designation of General Aviation Airports.—Notwithstanding any other provision ofthis section, 3 of the airports bearing designations under subsection (a) may be general aviation airports that were former military installations closed or realigned under a section referred to in subsection (a)(1).
+Designation of General Aviation Airports.—Notwithstanding any other provision of this section, 3 of the airports bearing designations under subsection (a) may be general aviation airports that were former military installations closed or realigned under a section referred to in subsection (a)(1).
 
 (h)
 
@@ -130,6 +130,8 @@ This sets out the date of enactment of 49:47118(a) (last sentence).
 
 This makes a clarifying amendment to 49:47118(e) because 49:47109(c) was struck by section 114(b) of the Federal Aviation Administration Authorization Act of 1994 (Public Law 103–305, 108 Stat. 1579).
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 201 of the Defense Authorization Amendments and Base Closure and Realignment Act, referred to in subsec. (a)(1)(B), is section 201 of Pub. L. 100–526, which is set out in a note under section 2687 of Title 10, Armed Forces.
@@ -182,11 +184,13 @@ Subsec. (e). Pub. L. 104–287, §5(83)(B), substituted "Not" for "Notwithstandi
 
 Subsec. (f). Pub. L. 104–264, §124(c), amended subsec. (f) by substituting "Utilities, and Hangars" for "and Utilities" in heading and "for fiscal years beginning after September 30, 1992," for "for the fiscal years ending September 30, 1993–1996," and "utilities, and hangars" for "and utilities" in text.
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–305, §116(b), substituted "15" for "12" and inserted at end "The Secretary may only designate an airport for such grants (other than an airport designated for such grants on or before the date of the enactment of this sentence) if the Secretary finds that grants under such section for projects at such airport would reduce delays at an airport with more than 20,000 hours of annual delays in commercial passenger aircraft takeoffs and landings."
+<b>1994</b>—Subsec. (a). Pub. L. 103–305, §116(b), substituted "15" for "12" and inserted at end "The Secretary may only designate an airport for such grants (other thanan airport designated for such grants on or before the date of the enactment of this sentence) if the Secretary finds that grants under such section for projects at such airport would reduce delays at an airport with more than 20,000 hours of annual delays in commercial passenger aircraft takeoffs and landings."
 
 Subsec. (d). Pub. L. 103–305, §116(c), struck out at end "If an airport does not have a level of passengers getting on aircraft during that 5-year period that qualifies the airport as a small hub airport (as defined on January 1, 1990) or reliever airport, the Secretary may redesignate the airport for grants for additional fiscal years that the Secretary decides."
 
 Subsec. (f). Pub. L. 103–305, §116(d), substituted "September 30, 1993–1996" for "September 30, 1993–1995".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

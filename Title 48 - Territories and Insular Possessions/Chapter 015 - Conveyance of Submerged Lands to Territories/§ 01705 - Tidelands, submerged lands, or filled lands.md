@@ -2,7 +2,7 @@
 
 #### (a) Conveyance to Guam, the Commonwealth of the Northern Mariana Islands, Virgin Islands, and American Samoa
 
-Subject to valid existing rights, all right, title, and interest of the United States in lands permanently or periodically covered by tidal waters up to but not above the line of mean high tide and seaward to a line three geographical miles distant from the coastlines of the territories of Guam, the Commonwealth of the Northern Mariana Islands, the Virgin Islands, and American Samoa, as heretofore or hereafter modified by accretion, erosion, and reliction, and in artificially made, filled in, or reclaimed lands which were formerly permanently or periodically covered by tidal waters, are hereby conveyed to the governments of Guam, the Commonwealth of the Northern Mariana Islands, the Virgin Islands, and American Samoa, as the case may be, to be administered in trust for the benefit of the people thereof.
+Subject to valid existing rights, all right, title, and interest of the United States in landspermanently or periodically covered by tidal waters up to but not above the line of mean high tide and seaward to a line three geographical miles distant from the coastlines of the territories of Guam, the Commonwealth of the Northern Mariana Islands, the Virgin Islands, and American Samoa, as heretofore or hereafter modified by accretion, erosion, and reliction, and in artificially made, filled in, or reclaimed lands which were formerly permanently or periodically covered by tidal waters, are hereby conveyed to the governments of Guam, the Commonwealth of the Northern Mariana Islands, the Virgin Islands, and American Samoa, as the case may be, to be administered in trust for the benefit of the people thereof.
 
 #### (b) Retention of certain lands and mineral rights by United States
 
@@ -44,6 +44,8 @@ No conveyance shall be made by the Secretary pursuant to subsection (a) or (b) o
 
 (Pub. L. 93–435, §1, Oct. 5, 1974, 88 Stat. 1210; Pub. L. 96–205, title VI, §607, Mar. 12, 1980, 94 Stat. 91; Pub. L. 103–437, §17(b), Nov. 2, 1994, 108 Stat. 4595; Pub. L. 113–34, §1(a), Sept. 18, 2013, 127 Stat. 518.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The authorization for the construction by the Navy of the Ammunition Pier under the Military Construction Authorization Act, 1971, (84 Stat. 1204), as amended by section 201 of the Military Construction Act, 1973 (86 Stat. 1135), referred to in subsec. (b)(iii), is contained in section 201 of Pub. L. 91–511, Oct. 26, 1970, 84 Stat. 1204, as amended by section 201 of Pub. L. 92–545, Oct. 25, 1972, 86 Stat. 1138, which is not classified to the Code.
@@ -66,9 +68,13 @@ The date of enactment of this subsection, referred to in subsec. (d)(1), is the 
 
 Subsec. (d). Pub. L. 96–205, §607(a), added subsec. (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### References to "Date of Enactment"
 
 Pub. L. 113–34, §1(b), Sept. 18, 2013, 127 Stat. 518, provided that: "For the purposes of the amendment made by subsection (a) \[amending this section and section 1706 of this title\], each reference in Public Law 93–435 \[see Tables for classification\] to the 'date of enactment' shall be considered to be a reference to the date of the enactment of this section \[Sept. 18, 2013\]."
+
+#### <b>Executive Documents</b>
 
 #### Proc. No. 4346. Reserving Certain Lands Adjacent to and Enlarging Boundaries of Buck Island Reef National Monument in Virgin Islands
 
@@ -80,7 +86,7 @@ These thirty acres of submerged lands are presently owned in fee by the United S
 
 Under Section 2 of the Act of June 8, 1906, 34 Stat. 225 (16 U.S.C. 431) \[see 54 U.S.C. 320301(a)–(c)\], the President is authorized to declare by public Proclamation objects of historic or scientific interest that are situated upon the lands owned or controlled by the Government of the United States to be national monuments, and may reserve as a part thereof parcels of land, the limits of which in all cases shall be confined to the smallest area compatible with the proper care and management of the objects to be protected. The aforementioned thirty acres of submerged lands are contiguous to the site of the Buck Island Reef National Monument, constitute a part of the ecological community of the Buck Island Reef, and will not enlarge the monument boundaries beyond the smallest area compatible with its proper care and management.
 
-NOW, THEREFORE, I, GERALD R. FORD, President of the United States of America, by virtue of the authority vested in me by Section 1(b)(vii) of Public Law93–435 (88 Stat. 1210) \[subsec. (b)(vii) of this section\], do hereby proclaim that the lands hereinafter described are excepted from the transfer to the Government of the Virgin Islands under Section 1(a) of Public Law 93–435 \[subsec. (a) of this section\]; and, by virtue of the authority vested in me by Section 2 of the Act of June 8, 1906, 34 Stat. 225 (16 U.S.C. 431) \[see 54 U.S.C. 320301(a)–(c)\], do hereby proclaim that, subject to valid existing rights, the lands hereinafter described are hereby added to and made a part of the Buck Island Reef National Monument, and Proclamation No. 3443 of December 28, 1961, establishing the Buck Island Reef National Monument is amended accordingly.
+NOW, THEREFORE, I, GERALD R. FORD, President of the United States of America, by virtue of the authority vested in me by Section 1(b)(vii) of Public Law 93–435 (88 Stat. 1210) \[subsec. (b)(vii) of this section\], do hereby proclaim that the lands hereinafter described are excepted from the transfer to the Government of the Virgin Islands under Section 1(a) of Public Law 93–435 \[subsec. (a) of this section\]; and, by virtue of the authority vested in me by Section 2 of the Act of June 8, 1906, 34 Stat. 225 (16 U.S.C. 431) \[see 54 U.S.C. 320301(a)–(c)\], do hereby proclaim that, subject to valid existing rights, the lands hereinafter described are hereby added to and made a part of the Buck Island Reef National Monument, and Proclamation No. 3443 of December 28, 1961, establishing the Buck Island Reef National Monument is amended accordingly.
 
 Beginning at latitude 17°47′30″ N. longitude 64°36′32″ W; thence approximately 1000 feet to latitude 17°47′27″ N, longitude 64°36′22″ W; thence approximately 900 feet to latitude 17°47′18″ N, longitude 64°36′22″ W; thence approximately 1000 feet to latitude 17°47′15″ N, longitude 64°36′32″ W; thence approximately 1500 feet to latitude 17°47′30″ N, longitude 64°36′32″ W, then place of beginning, embracing an area of approximately 30 acres.
 
@@ -94,7 +100,7 @@ Proc. No. 4347, eff. Feb. 1, 1975, 40 F.R. 5129, provided:
 
 The submerged lands surrounding the Rose Atoll National Wildlife Refuge in American Samoa are necessary for the protection of the Atoll's marine life, including the green sea and hawksbill turtles. The submerged lands in Apra Harbor and those adjacent to Inapsan Beach and Urano Point in Guam, and certain submerged lands on the west coast of St. Croix, United States Virgin Islands are required for national defense purposes. These submerged lands in American Samoa, Guam and the United States Virgin Islands will be conveyed to the Government of those territories, on February 3, 1975, pursuant to Section 1(a) of Public Law 93–435 (88 Stat. 1210) \[subsec. (a) of this section\], unless the President, under Section 1(b)(vii) of that Act \[subsec (b)(vii) of this section\], designates otherwise.
 
-NOW, THEREFORE, I GERALD R. FORD, President of the United States of America, by virtue of authority vested in me by Section 1(b)(vii) of Public Law 93–435 (88 Stat. 1210) \[subsec. (b)(vii) of this section\], do hereby proclaim that the lands hereinafter described are excepted from the transfer to the Government of American Samoa, the Government of Guam and the Government of the United States Virgin Islands under Section 1(a) of Public Law 93–425. \[subsec. (a) of this section\].
+NOW, THEREFORE, I GERALD R. FORD, President of the United States of America, by virtue of authorityvested in me by Section 1(b)(vii) of Public Law 93–435 (88 Stat. 1210) \[subsec. (b)(vii) of this section\], do hereby proclaim that the lands hereinafter described are excepted from the transfer to the Government of American Samoa, the Government of Guam and the Government of the United States Virgin Islands under Section 1(a) of Public Law 93–425. \[subsec. (a) of this section\].
 
 <i>American Samoa</i>. The submerged lands adjacent to Rose Atoll located 78 miles east-southeast of Tau Island in the Manua Group at latitude 14°32′52″ south and longitude 168°08′34″ west, which lands shall be under the joint administrative jurisdiction of the Department of Commerce and the Department of the Interior.
 
@@ -118,7 +124,7 @@ NOW, THEREFORE, I, BARACK OBAMA, President of the United States of America, by v
 
 the submerged lands adjacent to the islands of Farallon de Pajaros (Uracas), Maug, and Asuncion permanently covered by tidal waters up to the mean low water line and extending three geographical miles seaward from the mean high tide line; and
 
-the submerged lands adjacent to the islands of Tinian and Farallon de Medinilla permanently or periodicallycovered by tidal waters up to the line of mean high tide and extending seaward to a line three geographical miles distant from those areas of the coastline that are adjacent to the leased lands described in the Lease.
+the submerged lands adjacent to the islands of Tinian and Farallon de Medinilla permanently or periodically covered by tidal waters up to the line of mean high tide and extending seaward to a line three geographical miles distant from those areas of the coastline that are adjacent to the leased lands described in the Lease.
 
 Nothing in this proclamation is intended to affect the authority of the Secretary of the Interior (Secretary) under section 1(b) of the Act to subsequently convey the submerged lands adjacent to the islands of Farallon de Pajaros (Uracas), Maug, and Asuncion when the Secretary, the Secretary of Commerce, and the Government of the Commonwealth of the Northern Mariana Islands have entered into an agreement for coordination of management that ensures the protection of the marine national monument within the excepted area described above. Furthermore, nothing in this proclamation is intended to affect the authority of the Secretary under section 1(b) of the Act to subsequently convey the submerged lands adjacent to the land leased by the United States on the islands of Tinian or Farallon de Medinilla when the Secretary of the Navy and the Government of the Commonwealth of the Northern Mariana Islands have entered into an agreement that ensures protection of military training within the excepted area.
 

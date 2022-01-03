@@ -16,7 +16,7 @@
 
 &emsp;(7) The terms "physician" and "medical care" and "hospitalization" include osteopathic practitioners or the services of osteopathic practitioners and hospitals within the scope of their practice as defined by State law.
 
-&emsp;(8)(A) The "Federal percentage" for any State (other than Puerto Rico, the Virgin Islands, and Guam) shall be 100 per centum less the State percentage; and the State percentage shall be that percentage which bears the same ratio to 50 per centum as the square of the per capita income of such State bears to the square of the per capita income of the United States; except that the Federal percentage shall in no case be less than 50 per centum or more than 65 per centum.
+&emsp;(8)(A) The "Federal percentage" for any State (other than Puerto Rico, the Virgin Islands, and Guam) shall be 100 per centum less the State percentage; and the State percentage shall be that percentage which bears the same ratio to 50 per centum as the square of the per capita income of such State bears to the square of the per capita income of theUnited States; except that the Federal percentage shall in no case be less than 50 per centum or more than 65 per centum.
 
 &emsp;(B) The Federal percentage for each State (other than Puerto Rico, the Virgin Islands, and Guam) shall be promulgated by the Secretary between October 1 and November 30 of each year, on the basis of the average per capita income of each State and of the United States for the three most recent calendar years for which satisfactory data are available from the Department of Commerce. Such promulgation shall be conclusive for each of the four quarters in the period beginning October 1 next succeeding such promulgation: <i>Provided</i>, That the Secretary shall promulgate such percentages as soon as possible after August 28, 1958, which promulgation shall be conclusive for each of the eleven quarters in the period beginning October 1, 1958, and ending with the close of June 30, 1961.
 
@@ -50,7 +50,9 @@
 
 (d) Nothing in this chapter shall be construed as authorizing any Federal official, agent, or representative, in carrying out any of the provisions of this chapter, to take charge of any child over the objection of either of the parents of such child, or of the person standing in loco parentis to such child.
 
-(Aug. 14, 1935, ch. 531, title XI, §1101, 49 Stat. 647; Aug. 10, 1939, ch. 666, title VIII, §801, 53 Stat. 1398; Aug. 10, 1946, ch. 951, title IV, §401(a), 60 Stat. 986; June 14, 1948, ch. 468, §2(a), 62 Stat. 438; Aug. 28, 1950, ch. 809, title IV, §403(a)(1), (2), (b), 64 Stat. 559; Aug. 1, 1956, ch. 836, title III, §333, 70 Stat. 852; Pub. L. 85–840, title V, §§505, 506, Aug. 28, 1958, 72 Stat. 1050, 1051; Pub. L. 86–70, §32(a), (d), June 25, 1959, 73 Stat. 149; Pub. L. 86–624, §30(a), (d), July 12, 1960, 74 Stat. 419, 420; Pub. L. 86–778, title V, §541, Sept. 13, 1960, 74 Stat. 985; Pub. L. 87–543, title I, §153, July 25, 1962, 76 Stat. 206; Pub. L. 89–97, title I, §121(c)(1), July 30, 1965, 79 Stat. 352; Pub. L. 92–603, title II, §272(a), Oct. 30, 1972, 86 Stat. 1451; Pub. L. 93–233, §18(z–2)(1)(A), Dec. 31, 1973, 87 Stat. 973; Pub. L. 94–273, §22, Apr. 21, 1976, 90 Stat. 379; Pub. L. 94–566, title I, §116(a), Oct. 20, 1976, 90 Stat. 2672; Pub. L. 95–142, §5(c)(2), (l)(2), Oct. 25, 1977, 91 Stat. 1184, 1191; Pub. L. 97–35, title XXI, §§2162(a)(1), 2193(c)(2), title XXIII, §2352(b), Aug. 13, 1981, 95 Stat. 806, 827, 871; Pub. L. 97–248, title I, §§136(a), 160(c), Sept. 3, 1982, 96 Stat. 375, 400; Pub. L. 98–369, div. B, title VI, §2663(e)(1), (j)(1), July 18, 1984, 98 Stat. 1167, 1170; Pub. L. 99–272, title IX, §9528(a), Apr. 7, 1986, 100 Stat. 219; Pub.L. 99–514, §2, title XVIII, §§1883(c)(1), 1895(c)(6), Oct. 22, 1986, 100 Stat. 2095, 2918, 2936; Pub. L. 100–203, title IX, §9135(a)(1), (b)(1), Dec. 22, 1987, 101 Stat. 1330–315; Pub. L. 100–485, title VI, §601(a), Oct. 13, 1988, 102 Stat. 2407; Pub. L. 103–296, title I, §108(b)(1), Aug. 15, 1994, 108 Stat. 1481; Pub. L. 105–33, title IV, §4901(b)(1), Aug. 5, 1997, 111 Stat. 570.)
+(Aug. 14, 1935, ch. 531, title XI, §1101, 49 Stat. 647; Aug. 10, 1939, ch. 666, title VIII, §801, 53 Stat. 1398; Aug. 10, 1946, ch. 951, title IV, §401(a), 60 Stat. 986; June 14, 1948, ch. 468, §2(a), 62 Stat. 438; Aug. 28, 1950, ch. 809, title IV, §403(a)(1), (2), (b), 64 Stat. 559; Aug. 1, 1956, ch. 836, title III, §333, 70 Stat. 852; Pub. L. 85–840, title V, §§505, 506, Aug. 28, 1958, 72 Stat. 1050, 1051; Pub. L. 86–70, §32(a), (d), June 25, 1959, 73 Stat. 149; Pub. L. 86–624, §30(a), (d), July 12, 1960, 74 Stat. 419, 420; Pub. L. 86–778, title V, §541, Sept. 13, 1960, 74 Stat. 985; Pub. L. 87–543, title I, §153, July 25, 1962, 76 Stat. 206; Pub. L. 89–97, title I, §121(c)(1), July 30, 1965, 79 Stat. 352; Pub. L. 92–603, title II, §272(a), Oct. 30, 1972, 86 Stat. 1451; Pub. L. 93–233, §18(z–2)(1)(A), Dec. 31, 1973, 87 Stat. 973; Pub. L. 94–273, §22, Apr. 21, 1976, 90 Stat. 379; Pub. L. 94–566, title I, §116(a), Oct. 20, 1976, 90 Stat. 2672; Pub. L. 95–142, §5(c)(2), (l)(2), Oct. 25, 1977, 91 Stat. 1184, 1191; Pub. L. 97–35, title XXI, §§2162(a)(1), 2193(c)(2), title XXIII, §2352(b), Aug. 13, 1981, 95 Stat. 806, 827, 871; Pub. L. 97–248, title I, §§136(a), 160(c), Sept. 3, 1982, 96 Stat. 375, 400; Pub. L. 98–369, div. B, title VI, §2663(e)(1), (j)(1), July 18, 1984, 98 Stat. 1167, 1170; Pub. L. 99–272, title IX, §9528(a), Apr. 7, 1986, 100 Stat. 219; Pub. L. 99–514, §2, title XVIII, §§1883(c)(1), 1895(c)(6), Oct. 22, 1986, 100 Stat. 2095, 2918, 2936; Pub. L. 100–203, title IX, §9135(a)(1), (b)(1), Dec. 22, 1987, 101 Stat. 1330–315; Pub. L. 100–485, title VI, §601(a), Oct. 13, 1988, 102 Stat. 2407; Pub. L. 103–296, title I, §108(b)(1), Aug. 15, 1994, 108 Stat.1481; Pub. L. 105–33, title IV, §4901(b)(1), Aug. 5, 1997, 111 Stat. 570.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -146,13 +148,19 @@ Subsec. (a)(7). Act Aug. 28, 1950, §403(b), added par. (7).
 
 <b>1939</b>—Subsec. (a)(1). Act Aug. 10, 1939, redefined "State".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsec. (a)(6) and (8)(B) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of this title.
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–485, title VI, §601(d), Oct. 13, 1988, 102 Stat. 2408, provided that: "The amendments made by thissection \[amending this section and sections 603, 1308, and 1318 of this title\] shall become effective on October 1, 1988."
+Pub. L. 100–485, title VI, §601(d), Oct. 13, 1988, 102 Stat. 2408, provided that: "The amendments made by this section \[amending this section and sections 603, 1308, and 1318 of this title\] shall become effective on October 1, 1988."
 
 #### Effective Date of 1987 Amendment
 
@@ -222,7 +230,7 @@ Pub. L. 86–624, §47(b), July 12, 1960, 74 Stat. 423, provided that: "The amen
 
 #### Effective Date of 1959 Amendment
 
-Amendment by section 32(a) of Pub. L. 86–70 applicable in the case of promulgations of Federal shares, allotment percentages, allotment ratios, and Federal percentages, as the case may be, made after satisfactory data are available from the Department of Commerce for a full year on the per capita income of Alaska, and amendment by section 32(d) of Pub. L. 86–70 effective Jan. 3, 1959, see Pub. L. 86–70, §47(a), (d), June 25, 1959, 73 Stat. 153.
+Amendment by section 32(a) of Pub. L. 86–70 applicable in the case of promulgations of Federal shares, allotment percentages, allotment ratios, and Federal percentages, as the case may be, made after satisfactory data are available from the Department of Commerce for a full year on the per capita income of Alaska, and amendment by section 32(d) of Pub. L. 86–70 effectiveJan. 3, 1959, see Pub. L. 86–70, §47(a), (d), June 25, 1959, 73 Stat. 153.
 
 #### Effective Date of 1958 Amendment
 
@@ -251,14 +259,6 @@ Act Aug. 10, 1939, ch. 666, title VIII, §801, 53 Stat. 1398, provided that the 
 The provisions of subsecs. (a)(1), (3), (6), (c) of this section were incorporated into sections 1426(d) to (f), 1427, 1607(i) to (k), and 1608 of former Title 26, Internal Revenue Code of 1939, by act Feb. 10, 1939, ch. 2, 53 Stat. 1. Section 4 of the act of Feb. 10, 1939, provided that all laws and parts of laws codified into the Internal Revenue Code of 1939, to the extent that they related exclusively to internal revenue, were repealed. See enacting sections preceding section 1 of former Title 26.
 
 Provisions of the Internal Revenue Code of 1939 were generally repealed by section 7851 of Title 26, Internal Revenue Code of 1954 (act Aug. 16, 1954, ch. 736, 68A Stat. 3). See, also, section 7807 of said Title 26, I.R.C. 1954, respecting rules in effect upon enactment of I.R.C. 1954. The I.R.C. 1954 was redesignated I.R.C. 1986 by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095. Said repealed sections are covered by sections 3121, 3123, 3306, 3307, 7701 of Title 26.
-
-#### Transfer of Functions
-
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and Office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
-
-#### Termination of Trust Territory of the Pacific Islands
-
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
 #### Provisions Relating to Federal Security Administrator
 
@@ -290,11 +290,11 @@ Pub. L. 90–248, title IV, §404, Jan. 2, 1968, 81 Stat. 933, as amended by Pub
 
 Pub. L. 89–97, title I, §110, July 30, 1965, 79 Stat. 340, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, provided that: "As used in this Act, and in the provisions of the Social Security Act amended by this Act \[see Short Title of 1965 Amendment note set out under section 1305 of this title\], the term 'Secretary', unless the context otherwise requires, means the Secretary of Health and Human Services."
 
-Pub. L. 88–156, §6, Oct. 24, 1963, 77 Stat. 276, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, provided that: "As used in the amendments to the Social Security Act made by this Act \[see Short Title of 1963 Amendment note set out under section 1305of this title\], the term 'Secretary' means the Secretary of Health and Human Services."
+Pub. L. 88–156, §6, Oct. 24, 1963, 77 Stat. 276, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, provided that: "As used in the amendments to the Social Security Act made by this Act \[see Short Title of 1963 Amendment note set out under section 1305 of this title\], the term 'Secretary' means the Secretary of Health and Human Services."
 
 Pub. L. 87–543, title II, §201, July 25, 1962, 76 Stat. 208, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, provided that: "As used in this Act and in the provisions of the Social Security Act amended by this Act \[see Short Title of 1962 Amendment note set out under section 1305 of this title\], the term 'Secretary', unless the context otherwise requires, means the Secretary of Health and Human Services."
 
-Pub. L. 87–64, title III, §304, June 30, 1961, 75 Stat. 143, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, provided that: "As used in this title and title I, and in the provisions of the Social Security Act amended thereby \[see Short Title of 1961 Amendment note set out under section 1305 of this title\], the term 'Secretary', unless the context otherwise requires, means the Secretary of Health and Human Services."
+Pub. L. 87–64, title III, §304, June 30, 1961, 75 Stat. 143, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, provided that: "As used in this titleand title I, and in the provisions of the Social Security Act amended thereby \[see Short Title of 1961 Amendment note set out under section 1305 of this title\], the term 'Secretary', unless the context otherwise requires, means the Secretary of Health and Human Services."
 
 Pub. L. 86–778, title VII, §709, Sept. 13, 1960, 74 Stat. 997, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, provided that: "As used in this Act and the provisions of the Social Security Act amended by this Act \[see Short Title of 1960 Amendment note set out under section 1305 of this title\] the term 'Secretary', unless the context otherwise requires, means the Secretary of Health and Human Services."
 
@@ -303,4 +303,14 @@ Pub. L. 85–840, title VII, §702, Aug. 28, 1958, 72 Stat. 1056, as amended by 
 Act Aug. 1, 1956, ch. 836, title I, §119, 70 Stat. 836, as amended Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695, provided that: "As used in this Act and in the provisions of the Social Security Act set forth in this Act \[see Short Title of 1956 Amendment note set out under section 1305 of this title\], the term 'Secretary' means the Secretary of Health and Human Services."
 
 Act Sept. 1, 1954, ch. 1206, title I, §114, 68 Stat. 1087, as amended Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695, provided that: "As used in the provisions of the Social Security Act amended by this title \[42 U.S.C. 402, 403, 415, 421\], the term 'Secretary' means the Secretary of Health and Human Services."
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and Office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
+
+#### Termination of Trust Territory of the Pacific Islands
+
+For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 

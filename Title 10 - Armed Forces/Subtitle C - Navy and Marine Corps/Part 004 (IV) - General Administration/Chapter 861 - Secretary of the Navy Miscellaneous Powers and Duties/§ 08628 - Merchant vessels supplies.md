@@ -24,9 +24,13 @@ Historical and Revision Notes
 
 June 4, 1954, ch. 264, §3, 68 Stat. 176.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7228 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

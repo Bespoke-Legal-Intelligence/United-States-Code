@@ -6,7 +6,7 @@ Except as otherwise provided in this section, in the case of the taxes imposed b
 
 #### (b) Guam
 
-The return and payment of the taxes imposed by this chapter on the income of individuals who are officers or employees of the Government of Guam or any political subdivision thereof or of any instrumentality of any one or more of the foregoing which is wholly owned thereby, and those imposed on such Government or political subdivision or instrumentality with respect to having such individuals in its employ, may be made by the Governor of Guam or by such agents as he may designate. The person making such return may, for convenience of administration, make payments of the tax imposed undersection 3111 with respect to the service of such individuals without regard to the contribution and benefit base limitation in section 3121(a)(1).
+The return and payment of the taxes imposed by this chapter on the income of individuals who are officers or employees of the Government of Guam or any political subdivision thereof or of any instrumentality of any one or more of the foregoing which is wholly owned thereby, and those imposed on such Government or political subdivision or instrumentality with respect to having such individuals in its employ, may be made by the Governor of Guam or by such agents as he may designate. The person making such return may, for convenience of administration, make payments of the tax imposed under section 3111 with respect to the service of such individuals without regard to the contribution and benefit base limitation in section 3121(a)(1).
 
 #### (c) American Samoa
 
@@ -17,6 +17,8 @@ The return and payment of the taxes imposed by this chapter on the income of ind
 In the case of the taxes imposed by this chapter with respect to service performed in the employ of the District of Columbia or in the employ of any instrumentality which is wholly owned thereby, the return and payment of the taxes may be made by the Mayor of the District of Columbia or such agents as he may designate. The person making such return may, for convenience of administration, make payments of the tax imposed by section 3111 with respect to such service without regard to the contribution and benefit base limitation in section 3121(a)(1).
 
 (Added Pub. L. 86–778, title I, §103(q)(1), Sept. 13, 1960, 74 Stat. 939; amended Pub. L. 89–97, title III, §§317(c)(1), (2), 320(b)(4), July 30, 1965, 79 Stat. 389, 393; Pub. L. 90–248, title I, §108(b)(4), Jan. 2, 1968, 81 Stat. 835; Pub. L. 92–5, title II, §203(b)(4), Mar. 17, 1971, 85 Stat. 11; Pub. L. 92–336, title II, §203(b)(4), July 1, 1972, 86 Stat. 419; Pub. L. 93–66, title II, §203(b)(4), (d), July 9, 1973, 87 Stat. 153; Pub. L. 93–233, §5(b)(4), (d), Dec. 31, 1973, 87 Stat. 954; Pub. L. 94–455, title XIX, §1903(a)(5), Oct. 4, 1976, 90 Stat. 1807; Pub. L. 99–272, title XIII, §13205(a)(2)(A)(i), (ii), Apr. 7, 1986, 100 Stat. 315; Pub. L. 101–508, title XI, §11331(d)(2), Nov. 5, 1990, 104 Stat. 1388–468; Pub. L. 103–66, title XIII, §13207(d)(4), Aug. 10, 1993, 107 Stat. 468.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -54,6 +56,8 @@ Pub. L. 92–336, §203(b)(4)(C), effective with respect to remuneration paid af
 
 Subsec. (c). Pub. L. 89–97, §317(c)(1), added subsec. (c) and inserted reference to District of Columbia in section catchline.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–66 applicable to 1994 and later calendar years, see section 13207(e) of Pub. L. 103–66, set out as a note under section 1402 of this title.
@@ -82,7 +86,7 @@ Amendment by Pub. L. 92–5 applicable only with respect to remuneration paid af
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–248 applicable only with respect to remuneration paid after December 1967, seesection 108(c) of Pub. L. 90–248, set out as a note under section 409 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 90–248 applicable only with respect to remuneration paid after December 1967, see section 108(c) of Pub. L. 90–248, set out as a note under section 409 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1965 Amendment
 
@@ -92,5 +96,5 @@ Amendment by section 320(b)(4) of Pub. L. 89–97 applicable with respect to rem
 
 #### Effective Date
 
-Section applicable only with respect to (1) service in the employ of the Government of Guam or any political subdivision thereof, or any instrumentality of any one or more of the foregoing wholly owned thereby, which is performed after 1960 and after the calendar quarter in which the Secretary of the Treasury receives a certification by the Governor of Guam that legislation has been enacted by the Government of Guam expressing its desire to have the insurance system established by title II of the Social Security Act (42 U.S.C. 401 et seq.) extended to the officers and employees of such Government and such political subdivisions and instrumentalities, and (2) service in the employ of the Government of American Samoa or any political subdivision thereof or any instrumentality of any one or more of the foregoing wholly owned thereby, which is performed after 1960 and after the calendar quarter in which the Secretary of the Treasury receives a certification by the Governor of American Samoa that the Government of American Samoa desires to have the insurance system established by title II of the Social Security Act extended to the officers and employees of such Government and such political subdivisions and instrumentalities, see section 103(v)(1) of Pub. L. 86–778, set out as an Effective Date of 1960 Amendment note under section 402 of Title 42, The Public Health and Welfare.
+Section applicable only with respect to (1) service in the employ of the Government of Guam or any political subdivision thereof, or any instrumentality of any one or more of the foregoing wholly owned thereby, which is performed after 1960 and after the calendar quarter in which the Secretary of the Treasury receives a certification by the Governor of Guam that legislation has been enacted by the Government of Guam expressing its desire to have the insurance system established by title II of the Social Security Act (42 U.S.C. 401 et seq.) extended to the officers and employees of such Government and such political subdivisions and instrumentalities, and (2) service in the employ of the Governmentof American Samoa or any political subdivision thereof or any instrumentality of any one or more of the foregoing wholly owned thereby, which is performed after 1960 and after the calendar quarter in which the Secretary of the Treasury receives a certification by the Governor of American Samoa that the Government of American Samoa desires to have the insurance system established by title II of the Social Security Act extended to the officers and employees of such Government and such political subdivisions and instrumentalities, see section 103(v)(1) of Pub. L. 86–778, set out as an Effective Date of 1960 Amendment note under section 402 of Title 42, The Public Health and Welfare.
 

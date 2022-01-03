@@ -14,9 +14,11 @@ The Secretary is authorized to issue such rules and regulations as the Secretary
 
 #### (d) Availability of funds appropriated under repealed statutory authorities relating to investigation, etc., in reforestation and forest products
 
-Funds appropriated under the authority of the McSweeney-McNary Act shall be available for expenditure for the programs authorized under this subchapter.
+Funds appropriated under the authority of the McSweeney-McNary Act shall be available forexpenditure for the programs authorized under this subchapter.
 
 (Pub. L. 95–307, §8, June 30, 1978, 92 Stat. 356.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

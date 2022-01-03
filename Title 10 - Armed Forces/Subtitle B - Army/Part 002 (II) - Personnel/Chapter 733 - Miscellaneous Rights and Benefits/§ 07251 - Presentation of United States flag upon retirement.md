@@ -14,11 +14,15 @@ No Cost to Recipient.—The presentation of a flag under this section shall be a
 
 (Added Pub. L. 105–261, div. A, title VI, §644(a)(1), Oct. 17, 1998, 112 Stat. 2048, §3681; amended Pub. L. 106–65, div. A, title VI, §652(e), Oct. 5, 1999, 113 Stat. 666; renumbered §7251, Pub. L. 115–232, div. A, title VIII, §808(b)(9), Aug. 13, 2018, 132 Stat. 1838.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 3681 of this title as this section.
 
 <b>1999</b>—Subsec. (b). Pub. L. 106–65 substituted "under this section or any other provision of law providing for the presentation of a United States flag incident to release from active service for retirement." for "under this section or section 6141 or 8681 of this title or section 516 of title 14."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

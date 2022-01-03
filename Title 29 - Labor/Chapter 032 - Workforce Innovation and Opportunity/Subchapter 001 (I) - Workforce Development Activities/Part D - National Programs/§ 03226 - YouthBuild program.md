@@ -50,7 +50,7 @@ In this section:
 
 #### (4) Homeless individual
 
-&emsp;The term "homeless individual" means a homeless individual (as defined in section 12473(6) of title 34) or a homeless child or youth (as defined in section 11434a(2) of title 42).
+&emsp;The term "homeless individual" means a homeless individual (as defined in section12473(6) of title 34) or a homeless child or youth (as defined in section 11434a(2) of title 42).
 
 #### (5) Housing development agency
 
@@ -368,7 +368,7 @@ Act of August 16, 1937, commonly known as the National Apprenticeship Act, refer
 
 Section 11360(29) of title 42, referred to in subsec. (b)(11), was redesignated section 11360(31) of title 42 by Pub. L. 116–260, div. Q, title I, §102(a)(1)(A), Dec. 27, 2020, 134 Stat. 2165.
 
-The Fair Housing Act, referred to in subsec. (c)(3)(B)(xxi), is title VIII of Pub. L. 90–284, Apr. 11, 1968,82 Stat. 81, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
+The Fair Housing Act, referred to in subsec. (c)(3)(B)(xxi), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -428,7 +428,7 @@ Transfer and Allocations of Appropriations.—Except as otherwise provided in th
 
 "(i)
 
-Transfers.—The Director of the Office of Management and Budget, at such time or times as the Director shall provide, is authorized to make such determinations as may be necessary with regard to the functions transferred by this section, and to make such dispositions of assets, liabilities, grants, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds used, held, arising from, available to, or to be made available in connection with such functions, subject to section 1531 of title 31, United States Code, as may be necessary to carry out the provisions of this section. The Director of the Office of Management and Budget shall provide for the termination of the affairs of all entities terminated by this section and for such further measures and dispositions as may be necessary to effectuate the purposes of this section.
+Transfers.—The Director of the Office of Management and Budget, at such time or times as the Director shall provide, is authorized to make such determinations as may be necessary with regard to the functions transferred by this section, and to make such dispositions of assets, liabilities, grants, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds used, held, arising from, available to, or to be made available in connection with such functions, subject to section 1531 of title 31, United States Code, as may be necessaryto carry out the provisions of this section. The Director of the Office of Management and Budget shall provide for the termination of the affairs of all entities terminated by this section and for such further measures and dispositions as may be necessary to effectuate the purposes of this section.
 
 "(j)
 

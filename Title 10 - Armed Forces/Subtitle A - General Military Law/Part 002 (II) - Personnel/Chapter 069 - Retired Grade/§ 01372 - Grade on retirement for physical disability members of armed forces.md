@@ -30,6 +30,8 @@ Oct. 12, 1949, ch. 681, §§402(d) (104th through 128th words, as applicable to 
 
 Clause (1) is substituted for 37:272(d) (104th through 128th words, as applicable to retired grade). The words "if his name was not carried on that list" are substituted for the words "whichever is earlier".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pars. (3), (4). Pub. L. 104–201 substituted "a physical examination" for "his physical examination for promotion".

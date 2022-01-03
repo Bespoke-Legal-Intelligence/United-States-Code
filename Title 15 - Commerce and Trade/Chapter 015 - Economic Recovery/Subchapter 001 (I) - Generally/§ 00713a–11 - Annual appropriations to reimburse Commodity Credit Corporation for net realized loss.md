@@ -4,9 +4,13 @@ There is authorized to be appropriated annually for each fiscal year by means of
 
 (Pub. L. 87–155, §2, Aug. 17, 1961, 75 Stat. 391; Pub. L. 100–203, title I, §1506(a), Dec. 22, 1987, 101 Stat. 1330–28.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1987</b>—Pub. L. 100–203 substituted "by means of a current, indefinite appropriation" for ", commencing with the fiscal year ending June 30, 1961".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1987 Amendment
 
@@ -14,5 +18,5 @@ Pub. L. 100–203, title I, §1506(c), Dec. 22, 1987, 101 Stat. 1330–29, provi
 
 #### Operating Expenses
 
-Pub. L. 100–203, title I, §1506(b), Dec. 22, 1987, 101 Stat. 1330–29, provided that: "No funds may be appropriated for operating expenses of the Commodity Credit Corporation except as authorized under section 2 of Public Law 87–155 \[15 U.S.C. 713a–11\] to reimburse the Corporation for net realized losses."
+Pub. L. 100–203, title I, §1506(b), Dec. 22, 1987, 101 Stat. 1330–29, provided that: "No funds may be appropriatedfor operating expenses of the Commodity Credit Corporation except as authorized under section 2 of Public Law 87–155 \[15 U.S.C. 713a–11\] to reimburse the Corporation for net realized losses."
 

@@ -60,6 +60,8 @@ The President's Board of Advisors shall report annually to the President on the 
 
 (Pub. L. 116–270, §5, Dec. 31, 2020, 134 Stat. 3328.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (b)(2)(C), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.

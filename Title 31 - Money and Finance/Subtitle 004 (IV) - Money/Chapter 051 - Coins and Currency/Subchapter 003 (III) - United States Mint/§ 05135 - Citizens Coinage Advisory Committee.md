@@ -86,7 +86,7 @@ Chairperson.—The Chairperson of the Advisory Committee shall be appointed for 
 
 &emsp;(7)
 
-Pay and expenses.—Members of the Advisory Committee shall serve without pay for such service but each member of the Advisory Committee shall be reimbursed from the United States Mint Public Enterprise Fund for travel, lodging, meals, and incidental expenses incurred in connection with attendance of such members at meetings of the Advisory Committee in the same amounts and under the same conditions as employees of the United States Mint who engage in official travel, as determined by the Secretary.
+Pay and expenses.—Members of the Advisory Committee shall serve without pay forsuch service but each member of the Advisory Committee shall be reimbursed from the United States Mint Public Enterprise Fund for travel, lodging, meals, and incidental expenses incurred in connection with attendance of such members at meetings of the Advisory Committee in the same amounts and under the same conditions as employees of the United States Mint who engage in official travel, as determined by the Secretary.
 
 &emsp;(8)
 
@@ -128,7 +128,7 @@ Expenses.—The expenses of the Advisory Committee that the Secretary of the Tre
 
 (e)
 
-Administrative Support, Technical Services, and Advice.—Upon the request of the Advisory Committee, or as necessary for the Advisory Committee to carry out the responsibilitiesof the Advisory Committee under this section, the Director of the United States Mint shall provide to the Advisory Committee the administrative support, technical services, and advice that the Secretary of the Treasury determines to be reasonable and appropriate.
+Administrative Support, Technical Services, and Advice.—Upon the request of the Advisory Committee, or as necessary for the Advisory Committee to carry out the responsibilities of the Advisory Committee under this section, the Director of the United States Mint shall provide to the Advisory Committee the administrative support, technical services, and advice that the Secretary of the Treasury determines to be reasonable and appropriate.
 
 (f)
 

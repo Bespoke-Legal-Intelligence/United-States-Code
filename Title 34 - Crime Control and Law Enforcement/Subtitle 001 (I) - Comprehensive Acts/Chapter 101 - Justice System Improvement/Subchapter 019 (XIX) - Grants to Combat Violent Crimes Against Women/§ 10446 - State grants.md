@@ -12,7 +12,7 @@ Of the amounts appropriated for the purposes of this subchapter—
 
 &emsp;(2) 2.5 percent shall be available for grants for State domestic violence coalitions under section 10441(c) of this title, with the coalition for each State, the coalition for the District of Columbia, the coalition for the Commonwealth of Puerto Rico, the coalition for Guam, the coalition for American Samoa, the coalition for the United States Virgin Islands, and the coalition for the Commonwealth of the Northern Mariana Islands.,<sup>1</sup> each receiving an amount equal to 1/56 of the total amount made available under this paragraph for each fiscal year;
 
-&emsp;(3) 2.5 percent shall be available for grants for State sexual assault coalitions under section 10441(c) of this title, with the coalition for each State, the coalition for the District of Columbia, the coalition for the Commonwealth of Puerto Rico, coalitions for Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands, each receiving an amount equal to 1/56 of the total amount made available under this paragraph for each fiscal year;
+&emsp;(3) 2.5 percent shall be available for grants for State sexual assault coalitions under section 10441(c) of this title, with the coalition for each State, the coalition for the District ofColumbia, the coalition for the Commonwealth of Puerto Rico, coalitions for Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands, each receiving an amount equal to 1/56 of the total amount made available under this paragraph for each fiscal year;
 
 &emsp;(4) 1/56 shall be available for grants under section 10441(d) of this title;
 
@@ -180,7 +180,7 @@ A State may use any returned or remaining funds for any authorized purpose under
 
 #### References in Text
 
-This subchapter, referred to in the second subsec. (c)(4), the second place it appears, and in subsec. (f), was in the original "this subtitle", and was translated as reading "this part", meaning part T of title I of Pub. L. 90–351, to reflect the probable intent of Congress. Title I of Pub. L. 90–351 does not contain subtitles.
+This subchapter, referred to in the second subsec. (c)(4), the second place it appears, and in subsec. (f), was in the original "this subtitle", and was translated as reading "this part", meaning part T of title I of Pub.L. 90–351, to reflect the probable intent of Congress. Title I of Pub. L. 90–351 does not contain subtitles.
 
 The date of enactment of this Act, referred to in subsec. (c)(5), probably means the date of enactment of Pub. L. 113–4, which added subsec. (c)(5) and which was approved Mar. 7, 2013.
 

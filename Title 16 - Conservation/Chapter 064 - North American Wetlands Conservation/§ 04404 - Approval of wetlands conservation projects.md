@@ -16,7 +16,7 @@ The Council shall recommend wetlands conservation projects to the Migratory Bird
 
 &emsp;(6) the substantiality of the character and design of the wetlands conservation project; and
 
-&emsp;(7) the recommendations of any partnerships among public agencies and private entities in Canada, Mexico, or the United States which are participating actively in carrying out one or more wetlands conservation projects under this chapter, the Plan, or the Agreement.
+&emsp;(7) the recommendations of any partnerships among public agencies and private entities inCanada, Mexico, or the United States which are participating actively in carrying out one or more wetlands conservation projects under this chapter, the Plan, or the Agreement.
 
 #### (b) Recommendations to Migratory Bird Conservation Commission
 
@@ -44,6 +44,8 @@ The Migratory Bird Conservation Commission shall submit annually to the appropri
 
 (Pub. L. 101–233, §5, Dec. 13, 1989, 103 Stat. 1972; Pub. L. 101–593, title I, §112(4), Nov. 16, 1990, 104 Stat. 2962; Pub. L. 107–308, §8(a)(8)–(11), Dec. 2, 2002, 116 Stat. 2448.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Endangered Species Act of 1973, referred to in subsec. (a)(5), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
@@ -61,6 +63,8 @@ Subsec. (d). Pub. L. 107–308, §8(a)(10), substituted "2 Council members" for 
 Subsec. (f). Pub. L. 107–308, §8(a)(11), substituted "subsection (e)" for "subsection (d)".
 
 <b>1990</b>—Subsec. (b). Pub. L. 101–593 inserted at end "Solely for the purpose of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), recommendations by the Council for carrying out wetlands conservation projects under section 4405(a) of this title shall be considered Federal actions requiring the preparation of environmental assessments or, where appropriate, environmental impact statements."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Reporting Requirements
 

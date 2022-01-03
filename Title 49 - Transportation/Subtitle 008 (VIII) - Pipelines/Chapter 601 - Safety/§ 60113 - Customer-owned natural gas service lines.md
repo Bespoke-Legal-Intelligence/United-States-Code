@@ -34,6 +34,8 @@ Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, §18(b); added Oct. 24, 1992, Pub
 
 Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, §3(k); added Oct. 24, 1992, Pub. L. 102–508, §115(c), 106 Stat. 3297.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–304 struck out subsec. (a) designation and heading, substituted "standards" for "regulations", and struck out subsec. (b), which read as follows:
@@ -42,13 +44,15 @@ Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, §3(k); added Oct. 24, 1992, Pub.
 
 Actions To Promote Safety.—Not later than one year after submitting the report required under section 115(b) of the Pipeline Safety Act of 1992 (Public Law 102–508, 106 Stat. 3296), the Secretary, considering the report and in cooperation and coordination with appropriate State and local authorities, shall take appropriate action to promote the adoption of measures to improve the safety of customer-owned natural gas service lines."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Maintenance of Customer-Owned Service Lines
 
 Pub. L. 102–508, title I, §115(b), Oct. 24, 1992, 106 Stat. 3296, provided that:
 
 "(1)
 
-DOT safety review.—Within 18 months after the date of the enactment of this Act \[Oct. 24, 1992\], the Secretary of Transportation shall conduct a review of Department of Transportation and State rules, policies, procedures, and other measures with respect to the safety of customer-owned natural gas service lines, including the effectiveness of such rules, policies, procedures, and other measures. The Secretary of Transportation shall include in the review an evaluation of the extent to which lack of maintenance of customer-owned natural gas service lines raises safety concerns and shall make recommendations regarding maintenance of such lines, including the need for any legislative changes or regulatory action. In conducting the review and developing the recommendations, the Secretary of Transportation shall consider the following factors: State and local law, including law governing private property and rights, and including State pipeline safety regulation of distribution operators; the views of State and local regulatory authorities; the extent of operator compliance with the program for advising customers regarding maintenance of such lines required under section 18(b) of the Natural Gas Pipeline Safety Act of 1968 \[see subsec. (a) of this section\]; available accident information; the recommendations of the National Transportation Safety Board; costs; the civil liability implications of distribution operators taking responsibility for customer-owned service lines; andwhether the service line maintenance information program required under such section 18(b) sufficiently addresses safety risks and concerns involving customer-owned service lines.
+DOT safety review.—Within 18 months after the date of the enactment of this Act \[Oct. 24, 1992\], the Secretary of Transportation shall conduct a review of Department of Transportation and State rules, policies, procedures, and other measures with respect to the safety of customer-owned natural gas service lines, including the effectiveness of such rules, policies, procedures, and other measures. The Secretary of Transportation shall include in the review an evaluation of the extent to which lack of maintenance of customer-owned natural gas service lines raises safety concerns and shall make recommendations regarding maintenance of such lines, including the need for any legislative changes or regulatory action. In conducting the review and developing the recommendations, the Secretary of Transportation shall consider the following factors: State and local law, including law governing private property and rights, and including State pipeline safety regulation of distribution operators; the views of State and local regulatory authorities; the extent of operator compliance with the program for advising customers regarding maintenance of such lines required under section 18(b) of the Natural Gas Pipeline Safety Act of 1968 \[see subsec. (a) of this section\]; available accident information; the recommendations of the National Transportation Safety Board; costs; the civil liability implications of distribution operators taking responsibility for customer-owned service lines; and whether the service line maintenance information program required under such section 18(b) sufficiently addresses safety risks and concerns involving customer-owned service lines.
 
 "(2)
 

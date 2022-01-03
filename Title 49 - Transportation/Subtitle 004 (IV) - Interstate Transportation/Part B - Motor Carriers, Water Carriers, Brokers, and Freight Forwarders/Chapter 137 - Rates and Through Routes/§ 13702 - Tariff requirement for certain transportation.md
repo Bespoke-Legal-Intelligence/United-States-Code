@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Except when providing transportation for charitable purposes withoutcharge, a carrier subject to jurisdiction under chapter 135 may provide transportation or service that is—
+In General.—Except when providing transportation for charitable purposes without charge, a carrier subject to jurisdiction under chapter 135 may provide transportation or service that is—
 
 &emsp;(1) in noncontiguous domestic trade, except with regard to bulk cargo, forest products, recycled metal scrap, waste paper, and paper waste; or
 
@@ -82,9 +82,13 @@ Invalidation.—The Board may invalidate a tariff prepared by a carrier or carri
 
 (Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 868.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in sections 10761 and 10762 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -68,9 +68,11 @@ If the sums appropriated for any fiscal year under 7492(a) <sup>1</sup> of this
 
 (Pub. L. 89–10, title VI, §6113, formerly title VII, §7113, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1908, renumbered title VI, §6113, and amended Pub. L. 114–95, title VI, §§6001(a), (b)(1), (3), §6002(e), Dec. 10, 2015, 129 Stat. 2046, 2049.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Indian Self-Determination Act, referred to in subsec. (d)(1)(A)(ii), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§5321 et seq.) of chapter 46 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
+The Indian Self-Determination Act, referred to in subsec. (d)(1)(A)(ii), is title I of Pub. L. 93–638, Jan. 4,1975, 88 Stat. 2206, which is classified principally to subchapter I (§5321 et seq.) of chapter 46 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 The Tribally Controlled Schools Act of 1988, referred to in subsec. (d)(1)(A)(ii), is part B (§5201–5212) of title V of Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 385, as amended, which is classified generally to chapter 27 (§2501 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 25 and Tables.
 
@@ -95,6 +97,8 @@ Subsec. (d)(1)(A)(i). Pub. L. 114–95, §6002(e)(2)(B), substituted "Bureau of 
 Subsec. (d)(2). Pub. L. 114–95, §6001(b)(3)(C), made technical amendment to references in original act which appear in text as references to sections 7424, 7424(c)(4), 7428(c), and 7429 of this title.
 
 Subsec. (e). Pub. L. 114–95, §6001(b)(3)(D), substituted "7492(a) of this title" for "section 7492(a) of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

@@ -66,7 +66,9 @@
 
 &emsp;For the purpose of awarding grants under subsection (b), there are authorized to be appropriated $13,000,000 for each of the fiscal years 2007 through 2009, $13,650,000 for fiscal year 2010, $14,333,000 for fiscal year 2011, $15,049,000 for fiscal year 2012, and $15,802,000 for fiscal year 2013.
 
-(July 1, 1944, ch. 373, title XXVI, §2692, formerly title VII, §776, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2050; amended Pub. L. 102–531, title III, §313(a)(4), Oct. 27, 1992, 106 Stat. 3507; renumbered title XXVI, §2692, and amended Pub. L. 104–146, §3(h), May 20, 1996, 110 Stat. 1363; Pub. L. 104–166, §5(2), July 29, 1996, 110 Stat. 1449; Pub. L. 106–345, title IV, §402(a)(1), (b), (c), Oct. 20, 2000, 114 Stat. 1348, 1349; Pub. L. 109–415, title VI, §602, title VII, §§702(3), 703, Dec. 19, 2006, 120 Stat. 2817, 2820; Pub. L. 111–87, §2(a)(1), (3)(A), (f)(1), Oct. 30, 2009, 123 Stat. 2885, 2886.)
+(July 1, 1944, ch. 373, title XXVI, §2692, formerly title VII, §776, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2050; amended Pub.L. 102–531, title III, §313(a)(4), Oct. 27, 1992, 106 Stat. 3507; renumbered title XXVI, §2692, and amended Pub. L. 104–146, §3(h), May 20, 1996, 110 Stat. 1363; Pub. L. 104–166, §5(2), July 29, 1996, 110 Stat. 1449; Pub. L. 106–345, title IV, §402(a)(1), (b), (c), Oct. 20, 2000, 114 Stat. 1348, 1349; Pub. L. 109–415, title VI, §602, title VII, §§702(3), 703, Dec. 19, 2006, 120 Stat. 2817, 2820; Pub. L. 111–87, §2(a)(1), (3)(A), (f)(1), Oct. 30, 2009, 123 Stat. 2885, 2886.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -114,7 +116,7 @@ Subsec. (a)(1)(B). Pub. L. 104–146, §3(h)(2)(B)(iv), inserted "and" after sem
 
 Pub. L. 104–146, §3(h)(2)(B)(i), (ii), redesignated subpar. (A) as (B) and struck out former subpar. (B) which read as follows: "to train practitioners to provide for the health care needs of such individuals;".
 
-Subsec. (a)(1)(C), (D). Pub. L. 104–146, §3(h)(2)(B)(i), (ii), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: "with respectto improving clinical skills in the diagnosis, treatment, and prevention of such disease, to educate and train the health professionals and clinical staff of schools of medicine, osteopathic medicine, and dentistry; and".
+Subsec. (a)(1)(C), (D). Pub. L. 104–146, §3(h)(2)(B)(i), (ii), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: "with respect to improving clinical skills in the diagnosis, treatment, and prevention of such disease, to educate and train the health professionals and clinical staff of schools of medicine, osteopathic medicine, and dentistry; and".
 
 Subsec. (c). Pub. L. 104–166, §5(2)(B), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: "For purposes of this section:
 
@@ -137,6 +139,8 @@ Dental schools.—For the purpose of grants under subsection (b) of this section
 Pub. L. 104–146, §3(h)(4), added subsec. (d) relating to authorization of appropriations for fiscal years 1996 through 2000.
 
 <b>1992</b>—Subsec. (a)(3). Pub. L. 102–531, which directed the substitution of "No grant" for "no grant" in par. (3), could not be executed because the words "no grant" did not appear in par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment; Revival of Section
 

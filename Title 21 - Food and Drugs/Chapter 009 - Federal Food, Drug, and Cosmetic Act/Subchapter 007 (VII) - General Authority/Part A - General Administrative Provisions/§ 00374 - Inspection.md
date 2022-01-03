@@ -2,7 +2,7 @@
 
 #### (a) Right of agents to enter; scope of inspection; notice; promptness; exclusions
 
-(1) For purposes of enforcement of this chapter, officers or employees duly designated by the Secretary, upon presenting appropriate credentials and a written notice to the owner, operator, or agent in charge, are authorized (A) to enter, at reasonable times, any factory, warehouse, or establishment in which food, drugs, devices, tobacco products, or cosmetics are manufactured, processed, packed, or held, for introduction into interstate commerce or after such introduction, or to enter any vehicle being used to transport or hold such food, drugs, devices, tobacco products, or cosmetics in interstate commerce; and (B) to inspect, at reasonable times and within reasonable limits and in a reasonable manner, such factory, warehouse, establishment, or vehicle and all pertinent equipment, finished and unfinished materials, containers, and labeling therein. In the case of any person (excluding farms and restaurants) who manufactures, processes, packs, transports, distributes, holds, or imports foods, the inspection shall extend to all records and other information described in section 350c of this title, when the standard for records inspection under paragraph (1) or (2) of section 350c(a) of this title applies, subject to the limitations established in section 350c(d) of this title. In the case of any factory, warehouse, establishment, or consulting laboratory in which prescription drugs, nonprescription drugs intended for human use, restricted devices, or tobacco products are manufactured, processed, packed, or held, the inspection shall extend to all things therein (including records, files, papers, processes, controls, and facilities) bearing on whether prescription drugs, nonprescription drugs intended for human use, restricted devices, or tobacco products which are adulterated or misbranded within the meaning of this chapter, or which may not be manufactured, introduced into interstate commerce, or sold, or offered for sale by reason of any provision of this chapter, have been or are being manufactured, processed, packed, transported, or held in any such place, or otherwise bearing on violation of this chapter. No inspection authorized by the preceding sentence or by paragraph (3) shall extend to financial data, sales data other than shipment data, pricing data, personnel data (other than data as to qualification of technical and professional personnel performing functions subject to this chapter), and research data (other than data relating to new drugs, antibiotic drugs, devices, and tobacco products and subject to reporting and inspection under regulations lawfully issued pursuant to section 355(i) or (k) of this title, section 360i of this title, section 360j(g) of this title, or subchapter IX and data relating to other drugs, devices, or tobacco products which in the case of a new drug would be subject to reporting or inspection under lawful regulations issued pursuant to section 355(j) of this title). A separate notice shall be given for each such inspection, but a notice shall not be required for each entry made during the period covered by the inspection. Each such inspection shall be commenced and completed with reasonable promptness.
+(1) For purposes of enforcement of this chapter, officers or employees duly designated by the Secretary, upon presenting appropriate credentials and a written notice to the owner, operator, or agent in charge, are authorized (A) to enter, at reasonable times, any factory, warehouse, or establishment in which food, drugs, devices, tobacco products, or cosmetics are manufactured, processed, packed, or held, for introduction into interstate commerce or after such introduction, or to enter any vehicle being used to transport or hold such food, drugs, devices, tobacco products, or cosmetics in interstate commerce; and (B) to inspect, at reasonable times and within reasonable limits and in a reasonable manner, such factory, warehouse, establishment, or vehicle and all pertinent equipment, finished and unfinished materials, containers, and labeling therein. In the case of any person (excluding farms and restaurants) who manufactures, processes, packs, transports, distributes, holds, or imports foods, the inspection shall extend to all records and other information described in section 350c of this title, when the standard for records inspection under paragraph (1) or (2) of section 350c(a) of this title applies, subject to the limitations established in section 350c(d) of this title. In the case of any factory, warehouse, establishment, or consulting laboratory in which prescription drugs, nonprescription drugs intended for human use,restricted devices, or tobacco products are manufactured, processed, packed, or held, the inspection shall extend to all things therein (including records, files, papers, processes, controls, and facilities) bearing on whether prescription drugs, nonprescription drugs intended for human use, restricted devices, or tobacco products which are adulterated or misbranded within the meaning of this chapter, or which may not be manufactured, introduced into interstate commerce, or sold, or offered for sale by reason of any provision of this chapter, have been or are being manufactured, processed, packed, transported, or held in any such place, or otherwise bearing on violation of this chapter. No inspection authorized by the preceding sentence or by paragraph (3) shall extend to financial data, sales data other than shipment data, pricing data, personnel data (other than data as to qualification of technical and professional personnel performing functions subject to this chapter), and research data (other than data relating to new drugs, antibiotic drugs, devices, and tobacco products and subject to reporting and inspection under regulations lawfully issued pursuant to section 355(i) or (k) of this title, section 360i of this title, section 360j(g) of this title, or subchapter IX and data relating to other drugs, devices, or tobacco products which in the case of a new drug would be subject to reporting or inspection under lawful regulations issued pursuant to section 355(j) of this title). A separate notice shall be given for each such inspection, but a notice shall not be required for each entry made during the period covered by the inspection. Each such inspection shall be commenced and completed with reasonable promptness.
 
 (2) The provisions of the third sentence of paragraph (1) shall not apply to—
 
@@ -34,7 +34,7 @@
 
 #### (c) Receipt for samples taken
 
-If the officer or employee making any such inspection of a factory, warehouse, or other establishment has obtained any sample in the course of the inspection, upon completion of the inspection and prior to leaving the premises he shall give to the owner, operator, or agent in charge a receipt describing the samples obtained.
+If the officer or employee making any such inspection of a factory, warehouse, or other establishment has obtained any sample in the courseof the inspection, upon completion of the inspection and prior to leaving the premises he shall give to the owner, operator, or agent in charge a receipt describing the samples obtained.
 
 #### (d) Analysis of samples furnished owner
 
@@ -164,7 +164,7 @@ Every person required under section 360i or 360j(g) of this title to maintain re
 
 &emsp;(ii) of the amounts appropriated for salaries and expenses of the Food and Drug Administration for the fiscal year preceding the first prior fiscal year (referred to in this subparagraph as the "second prior fiscal year"), the amount obligated by the Secretary for inspections of device establishments by the Secretary was less than the adjusted base amount applicable to such second prior fiscal year.
 
-(B)(i) Subject to clause (ii), the Comptroller General of the United States shall determine the amount that was obligated by the Secretary for fiscal year 2002 for compliance activities of the Food and Drug Administration with respect to devices (referred to in this subparagraph as the "compliance budget"), and of such amount, the amount that was obligated for inspections by the Secretary of device establishments (referred to in this subparagraph as the "inspection budget").
+(B)(i) Subject to clause (ii), the Comptroller General of the United States shall determine the amount that was obligated by the Secretary for fiscal year 2002 for compliance activities of theFood and Drug Administration with respect to devices (referred to in this subparagraph as the "compliance budget"), and of such amount, the amount that was obligated for inspections by the Secretary of device establishments (referred to in this subparagraph as the "inspection budget").
 
 (ii) For purposes of determinations under clause (i), the Comptroller General shall not include in the compliance budget or the inspection budget any amounts obligated for inspections of device establishments conducted as part of the process of reviewing applications under section 360e of this title.
 
@@ -198,7 +198,7 @@ Every person required under section 360i or 360j(g) of this title to maintain re
 
 (13) The Secretary shall include in the annual report required under section 393(g) of this title the names of all accredited persons and the particular activities under this subsection for which each such person is accredited and the name of each accredited person whose accreditation has been withdrawn during the year.
 
-(14) Notwithstanding any provision of this subsection, this subsection does not have any legal effect on any agreement described in section383(b) of this title between the Secretary and a foreign country.
+(14) Notwithstanding any provision of this subsection, this subsection does not have any legal effect on any agreement described in section 383(b) of this title between the Secretary and a foreign country.
 
 (15)(A) Notwithstanding any other provision of this subsection, the Secretary may recognize auditing organizations that are recognized by organizations established by governments to facilitate international harmonization for purposes of conducting inspections of—
 
@@ -344,7 +344,7 @@ Subsec. (e). Pub. L. 94–295, §6(d), added subsec. (e).
 
 Subsec. (b). Pub. L. 87–781, §201(b), inserted "consulting laboratory" after "warehouse".
 
-<b>1953</b>—Act Aug. 7, 1953, designated existing provisions as subsec. (a) and amended them by substituting provisions permitting entry and inspection upon presentation of appropriate credentials and a written notice to the owner, operator, or agent in charge for provisions which authorized entry and inspection only after making a request and obtaining permission from the owner, operator, or custodian, and inserting provisions requiring a separate written notice for each inspection but not for each entry made during the period covered by the inspection, and directing that the inspection shall be conducted within reasonable limits, in a reasonable manner and completed with reasonable promptness, and added subsecs. (b) to (d).
+<b>1953</b>—Act Aug. 7, 1953, designated existing provisions as subsec. (a) and amended them by substituting provisions permitting entry and inspection upon presentation of appropriate credentials and a written notice to the owner, operator, or agent in charge for provisions which authorized entry and inspection only after making a request and obtaining permission from the owner, operator, or custodian, and inserting provisions requiring a separate written notice for each inspection but not for each entry made during the period covered by the inspection, and directing that the inspectionshall be conducted within reasonable limits, in a reasonable manner and completed with reasonable promptness, and added subsecs. (b) to (d).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -363,10 +363,6 @@ Amendment by Pub. L. 87–781 effective Oct. 10, 1962, see section 203 of Pub. L
 #### Construction of 2011 Amendment
 
 Nothing in amendment by Pub. L. 111–353 to be construed to apply to certain alcohol-related facilities, to alter jurisdiction and authorities established under certain other Acts, or in a manner inconsistent with international agreements to which the United States is a party, see sections 2206, 2251, and 2252 of this title.
-
-#### Transfer of Functions
-
-For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under section 321 of this title.
 
 #### Guidance
 
@@ -406,7 +402,7 @@ Pub. L. 115–52, title VIII, §806, Aug. 18, 2017, 131 Stat. 1073, provided tha
 
 &emsp;&emsp;"(C) where the drug that is the subject of the application is a drug—
 
-&emsp;&emsp;&emsp;"(i) for which there are not more than 3 other approved applications under section 505(j) of theFederal Food, Drug, and Cosmetic Act (21 U.S.C. 355(j)) that reference the same listed drug and for which there are less than 6 abbreviated new drug applications tentatively approved; or
+&emsp;&emsp;&emsp;"(i) for which there are not more than 3 other approved applications under section 505(j) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(j)) that reference the same listed drug and for which there are less than 6 abbreviated new drug applications tentatively approved; or
 
 &emsp;&emsp;&emsp;"(ii) that is included on the list under section 506E of such Act (21 U.S.C. 356e);
 
@@ -417,4 +413,10 @@ Pub. L. 115–52, title VIII, §806, Aug. 18, 2017, 131 Stat. 1073, provided tha
 #### Authority of Secretary Prior to October 10, 1962
 
 Pub. L. 87–781, title II, §201(d), Oct. 10, 1962, 76 Stat. 793, provided that: "Nothing in the amendments made by subsections (a) and (b) of this section \[amending this section\] shall be construed to negate or derogate from any authority of the Secretary existing prior to the enactment of this Act \[Oct. 10, 1962\]."
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under section 321 of this title.
 

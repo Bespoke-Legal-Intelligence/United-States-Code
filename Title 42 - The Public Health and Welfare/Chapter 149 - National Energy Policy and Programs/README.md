@@ -79,7 +79,8 @@
 |  |  |
 | :--- | ---: |
 | [15881\.](Subchapter%20002%20%28II%29%20-%20Renewable%20Energy/Part%20C%20-%20Hydroelectric/%C2%A7%2015881%20-%20Hydroelectric%20production%20incentives.md) | Hydroelectric production incentives. |
-| [15882\.](Subchapter%20002%20%28II%29%20-%20Renewable%20Energy/Part%20C%20-%20Hydroelectric/%C2%A7%2015882%20-%20Hydroelectric%20efficiency%20improvement.md) | Hydroelectric efficiency improvement. |
+| [15882\.](Subchapter%20002%20%28II%29%20-%20Renewable%20Energy/Part%20C%20-%20Hydroelectric/%C2%A7%2015882%20-%20Hydroelectric%20efficiency%20improvement%20incentives.md) | Hydroelectric efficiency improvement incentives. |
+| [15883\.](Subchapter%20002%20%28II%29%20-%20Renewable%20Energy/Part%20C%20-%20Hydroelectric/%C2%A7%2015883%20-%20Maintaining%20and%20enhancing%20hydroelectricity%20incentives.md) | Maintaining and enhancing hydroelectricity incentives. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -103,7 +104,7 @@
 | [15904\.](Subchapter%20003%20%28III%29%20-%20Oil%20and%20Gas/Part%20A%20-%20Production%20Incentives/%C2%A7%2015904%20-%20Incentives%20for%20natural%20gas%20production%20from%20deep%20wells%20in%20the%20shallow%20waters%20of%20the%20Gulf%20of%20Mexico.md) | Incentives for natural gas production from deep wells in the shallow waters of the Gulf of Mexico. |
 | [15905\.](Subchapter%20003%20%28III%29%20-%20Oil%20and%20Gas/Part%20A%20-%20Production%20Incentives/%C2%A7%2015905%20-%20Royalty%20relief%20for%20deep%20water%20production.md) | Royalty relief for deep water production. |
 | [15906\.](Subchapter%20003%20%28III%29%20-%20Oil%20and%20Gas/Part%20A%20-%20Production%20Incentives/%C2%A7%2015906%20-%20North%20Slope%20Science%20Initiative.md) | North Slope Science Initiative. |
-| [15907\.](Subchapter%20003%20%28III%29%20-%20Oil%20and%20Gas/Part%20A%20-%20Production%20Incentives/%C2%A7%2015907%20-%20Orphaned%2C%20abandoned%2C%20or%20idled%20wells%20on%20Federal%20land.md) | Orphaned, abandoned, or idled wells on Federal land. |
+| [15907\.](Subchapter%20003%20%28III%29%20-%20Oil%20and%20Gas/Part%20A%20-%20Production%20Incentives/%C2%A7%2015907%20-%20Orphaned%20well%20site%20plugging%2C%20remediation%2C%20and%20restoration.md) | Orphaned well site plugging, remediation, and restoration. |
 | [15908\.](Subchapter%20003%20%28III%29%20-%20Oil%20and%20Gas/Part%20A%20-%20Production%20Incentives/%C2%A7%2015908%20-%20Preservation%20of%20geological%20and%20geophysical%20data.md) | Preservation of geological and geophysical data. |
 | [15909\.](Subchapter%20003%20%28III%29%20-%20Oil%20and%20Gas/Part%20A%20-%20Production%20Incentives/%C2%A7%2015909%20-%20Gas%20hydrate%20production%20incentive.md) | Gas hydrate production incentive. |
 | [15910\.](Subchapter%20003%20%28III%29%20-%20Oil%20and%20Gas/Part%20A%20-%20Production%20Incentives/%C2%A7%2015910%20-%20Enhanced%20oil%20and%20natural%20gas%20production%20through%20carbon%20dioxide%20injection.md) | Enhanced oil and natural gas production through carbon dioxide injection. |
@@ -133,6 +134,7 @@
 | :--- | ---: |
 | [15941\.](Subchapter%20003%20%28III%29%20-%20Oil%20and%20Gas/Part%20C%20-%20Miscellaneous/%C2%A7%2015941%20-%20Great%20Lakes%20oil%20and%20gas%20drilling%20ban.md) | Great Lakes oil and gas drilling ban. |
 | [15942\.](Subchapter%20003%20%28III%29%20-%20Oil%20and%20Gas/Part%20C%20-%20Miscellaneous/%C2%A7%2015942%20-%20NEPA%20review.md) | NEPA review. |
+| [15943\.](Subchapter%20003%20%28III%29%20-%20Oil%20and%20Gas/Part%20C%20-%20Miscellaneous/%C2%A7%2015943%20-%20Certain%20gathering%20lines%20located%20on%20Federal%20land%20and%20Indian%20land.md) | Certain gathering lines located on Federal land and Indian land. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -266,8 +268,8 @@
 
 |  |  |
 | :--- | ---: |
-| [16091\.](Subchapter%20007%20%28VII%29%20-%20Vehicles%20and%20Fuels/Part%20C%20-%20Clean%20School%20Buses/%C2%A7%2016091%20-%20Clean%20school%20bus%20program%201.md) | Clean school bus program. |
-| [16091a.](Subchapter%20007%20%28VII%29%20-%20Vehicles%20and%20Fuels/Part%20C%20-%20Clean%20School%20Buses/%C2%A7%2016091a%20-%20Clean%20school%20bus%20program%201.md) | Clean school bus program. |
+| [16091\.](Subchapter%20007%20%28VII%29%20-%20Vehicles%20and%20Fuels/Part%20C%20-%20Clean%20School%20Buses/%C2%A7%2016091%20-%20Clean%20school%20bus%20program.md) | Clean school bus program. |
+| [16091a.](Subchapter%20007%20%28VII%29%20-%20Vehicles%20and%20Fuels/Part%20C%20-%20Clean%20School%20Buses/%C2%A7%2016091a%20-%20Clean%20school%20bus%20program.md) | Clean school bus program. |
 | [16092\.](Subchapter%20007%20%28VII%29%20-%20Vehicles%20and%20Fuels/Part%20C%20-%20Clean%20School%20Buses/%C2%A7%2016092%20-%20Diesel%20truck%20retrofit%20and%20fleet%20modernization%20program.md) | Diesel truck retrofit and fleet modernization program. |
 | [16093\.](Subchapter%20007%20%28VII%29%20-%20Vehicles%20and%20Fuels/Part%20C%20-%20Clean%20School%20Buses/%C2%A7%2016093%20-%20Fuel%20cell%20school%20buses.md) | Fuel cell school buses. |
 
@@ -319,7 +321,7 @@
 | [16151\.](Subchapter%20008%20%28VIII%29%20-%20Hydrogen/%C2%A7%2016151%20-%20Purposes.md) | Purposes. |
 | [16152\.](Subchapter%20008%20%28VIII%29%20-%20Hydrogen/%C2%A7%2016152%20-%20Definitions.md) | Definitions. |
 | [16153\.](Subchapter%20008%20%28VIII%29%20-%20Hydrogen/%C2%A7%2016153%20-%20Plan.md) | Plan. |
-| [16154\.](Subchapter%20008%20%28VIII%29%20-%20Hydrogen/%C2%A7%2016154%20-%20Programs.md) | Programs. |
+| [16154\.](Subchapter%20008%20%28VIII%29%20-%20Hydrogen/%C2%A7%2016154%20-%20Clean%20hydrogen%20research%20and%20development%20program.md) | Clean hydrogen research and development program. |
 | [16155\.](Subchapter%20008%20%28VIII%29%20-%20Hydrogen/%C2%A7%2016155%20-%20Hydrogen%20and%20Fuel%20Cell%20Technical%20Task%20Force.md) | Hydrogen and Fuel Cell Technical Task Force. |
 | [16156\.](Subchapter%20008%20%28VIII%29%20-%20Hydrogen/%C2%A7%2016156%20-%20Technical%20Advisory%20Committee.md) | Technical Advisory Committee. |
 | [16157\.](Subchapter%20008%20%28VIII%29%20-%20Hydrogen/%C2%A7%2016157%20-%20Demonstration.md) | Demonstration. |
@@ -327,10 +329,16 @@
 | [16159\.](Subchapter%20008%20%28VIII%29%20-%20Hydrogen/%C2%A7%2016159%20-%20Disclosure.md) | Disclosure. |
 | [16160\.](Subchapter%20008%20%28VIII%29%20-%20Hydrogen/%C2%A7%2016160%20-%20Reports.md) | Reports. |
 | [16161\.](Subchapter%20008%20%28VIII%29%20-%20Hydrogen/%C2%A7%2016161%20-%20Solar%20and%20wind%20technologies.md) | Solar and wind technologies. |
+| [16161a.](Subchapter%20008%20%28VIII%29%20-%20Hydrogen/%C2%A7%2016161a%20-%20Regional%20clean%20hydrogen%20hubs.md) | Regional clean hydrogen hubs. |
+| [16161b.](Subchapter%20008%20%28VIII%29%20-%20Hydrogen/%C2%A7%2016161b%20-%20National%20clean%20hydrogen%20strategy%20and%20roadmap.md) | National clean hydrogen strategy and roadmap. |
+| [16161c.](Subchapter%20008%20%28VIII%29%20-%20Hydrogen/%C2%A7%2016161c%20-%20Clean%20hydrogen%20manufacturing%20and%20recycling.md) | Clean hydrogen manufacturing and recycling. |
+| [16161d.](Subchapter%20008%20%28VIII%29%20-%20Hydrogen/%C2%A7%2016161d%20-%20Clean%20hydrogen%20electrolysis%20program.md) | Clean hydrogen electrolysis program. |
+| [16161e.](Subchapter%20008%20%28VIII%29%20-%20Hydrogen/%C2%A7%2016161e%20-%20Laboratory%20management.md) | Laboratory management. |
 | [16162\.](Subchapter%20008%20%28VIII%29%20-%20Hydrogen/%C2%A7%2016162%20-%20Technology%20transfer.md) | Technology transfer. |
 | [16163\.](Subchapter%20008%20%28VIII%29%20-%20Hydrogen/%C2%A7%2016163%20-%20Miscellaneous%20provisions.md) | Miscellaneous provisions. |
 | [16164\.](Subchapter%20008%20%28VIII%29%20-%20Hydrogen/%C2%A7%2016164%20-%20Cost%20sharing.md) | Cost sharing. |
 | [16165\.](Subchapter%20008%20%28VIII%29%20-%20Hydrogen/%C2%A7%2016165%20-%20Savings%20clause.md) | Savings clause. |
+| [16166\.](Subchapter%20008%20%28VIII%29%20-%20Hydrogen/%C2%A7%2016166%20-%20Clean%20hydrogen%20production%20qualifications.md) | Clean hydrogen production qualifications. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -497,11 +505,18 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part J—Ultra-Deepwater and Unconventional Natural Gas and Other Petroleum Resources
+#### Part J—Carbon Dioxide Transportation Infrastructure Finance and Innovation
 
-|  |
-| :--- |
-| 16371 to 16378. Repealed. |
+|  |  |
+| :--- | ---: |
+| [16371\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20J%20-%20Carbon%20Dioxide%20Transportation%20Infrastructure%20Finance%20and%20Innovation/%C2%A7%2016371%20-%20Definitions.md) | Definitions. |
+| [16372\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20J%20-%20Carbon%20Dioxide%20Transportation%20Infrastructure%20Finance%20and%20Innovation/%C2%A7%2016372%20-%20Determination%20of%20eligibility%20and%20project%20selection.md) | Determination of eligibility and project selection. |
+| [16373\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20J%20-%20Carbon%20Dioxide%20Transportation%20Infrastructure%20Finance%20and%20Innovation/%C2%A7%2016373%20-%20Secured%20loans.md) | Secured loans. |
+| [16374\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20J%20-%20Carbon%20Dioxide%20Transportation%20Infrastructure%20Finance%20and%20Innovation/%C2%A7%2016374%20-%20Future%20growth%20grants.md) | Future growth grants. |
+| [16375\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20J%20-%20Carbon%20Dioxide%20Transportation%20Infrastructure%20Finance%20and%20Innovation/%C2%A7%2016375%20-%20Program%20administration.md) | Program administration. |
+| [16376\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20J%20-%20Carbon%20Dioxide%20Transportation%20Infrastructure%20Finance%20and%20Innovation/%C2%A7%2016376%20-%20State%20and%20local%20permits.md) | State and local permits. |
+| [16377\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20J%20-%20Carbon%20Dioxide%20Transportation%20Infrastructure%20Finance%20and%20Innovation/%C2%A7%2016377%20-%20Regulations.md) | Regulations. |
+| [16378\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20J%20-%20Carbon%20Dioxide%20Transportation%20Infrastructure%20Finance%20and%20Innovation/%C2%A7%2016378%20-%20Authorization%20of%20appropriations%3B%20contract%20authority.md) | Authorization of appropriations; contract authority. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

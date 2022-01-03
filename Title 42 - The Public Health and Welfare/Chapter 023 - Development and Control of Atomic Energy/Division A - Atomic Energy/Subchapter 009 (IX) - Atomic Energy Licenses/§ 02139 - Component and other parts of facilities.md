@@ -14,6 +14,8 @@ The Commission shall not issue an export license under the authority of subsecti
 
 (Aug. 1, 1946, ch. 724, title I, §109, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 939; amended Pub. L. 87–615, §9, Aug. 29, 1962, 76 Stat. 411; Pub. L. 89–645, §1(b), Oct. 13, 1966, 80 Stat. 891; Pub. L. 95–242, title III, §309(a), Mar. 10, 1978, 92 Stat. 141; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 105–277, div. G, title XII, §1225(d)(2), Oct. 21, 1998, 112 Stat. 2681–774.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Subsec. (b). Pub. L. 105–277 struck out "and the Director" after "Energy, and Commerce".
@@ -26,6 +28,8 @@ Subsecs. (b), (c). Pub. L. 95–242 added subsecs. (b) and (c).
 
 <b>1962</b>—Pub. L. 87–615 substituted "section 2014(t)(2) or 2014(aa)(2)" for "section 2014(p)(2) or 2014(v)(2)".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–277 effective on earlier of Apr. 1, 1999, or date of abolition of the United States Arms Control and Disarmament Agency pursuant to reorganization plan described in section 6601 of Title 22, Foreign Relations and Intercourse, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of Title 22.
@@ -37,6 +41,8 @@ Amendment by Pub. L. 95–242 effective Mar. 10, 1978, except as otherwise provi
 #### Exports Contracted for Prior to Nov. 1, 1977, Made Within One Year of Mar. 10, 1978; Savings Provision
 
 Pub. L. 95–242, title III, §309(d), Mar. 10, 1978, 92 Stat. 142, provided that: "The amendments to section 109 of the 1954 Act \[42 U.S.C. 2139\] made by this section shall not affect the approval of exports contracted for prior to November 1, 1977, which are made within one year of the date of enactment of such amendments \[Mar. 10, 1978\]."
+
+#### <b>Executive Documents</b>
 
 #### Performance of Functions Pending Development of Procedures
 

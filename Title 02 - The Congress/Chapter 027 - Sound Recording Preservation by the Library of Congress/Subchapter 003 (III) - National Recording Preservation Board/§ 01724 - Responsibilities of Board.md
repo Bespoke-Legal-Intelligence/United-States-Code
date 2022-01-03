@@ -18,7 +18,7 @@ The Board shall conduct a study and issue a report on the following issues:
 
 &emsp;(2) Taking into account the research and other activities carried out by or on behalf of the National Audio-Visual Conservation Center at Culpeper, Virginia—
 
-&emsp;&emsp;(A) the methodology and standards needed to make the transition from analog "openreel" preservation of sound recordings to digital preservation of sound recordings; and
+&emsp;&emsp;(A) the methodology and standards needed to make the transition from analog "open reel" preservation of sound recordings to digital preservation of sound recordings; and
 
 &emsp;&emsp;(B) standards for access to preserved sound recordings by researchers, educators, and other interested parties.
 

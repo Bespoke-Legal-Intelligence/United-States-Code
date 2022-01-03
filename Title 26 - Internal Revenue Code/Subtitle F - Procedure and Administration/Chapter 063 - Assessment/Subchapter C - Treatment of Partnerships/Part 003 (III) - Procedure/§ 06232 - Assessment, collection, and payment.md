@@ -84,6 +84,8 @@ If no proceeding under section 6234 is begun with respect to any notice of a fin
 
 (Added Pub. L. 114–74, title XI, §1101(c)(1), Nov. 2, 2015, 129 Stat. 632; amended Pub. L. 115–141, div. U, title II, §§205(a), 206(g), (p)(4)–(6), Mar. 23, 2018, 132 Stat. 1177, 1179, 1182.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 6232, added Pub. L. 97–248, title IV, §402(a), Sept. 3, 1982, 96 Stat. 666, related to extension of subchapter provisions, respecting tax treatment of partnership items, to windfall profit tax, prior to repeal by Pub. L. 100–418, title I, §1941(b)(1), Aug. 23, 1988, 102 Stat. 1323.
@@ -101,6 +103,8 @@ Subsec. (d)(1)(A). Pub. L. 115–141, §206(p)(5), substituted "an item" for "a 
 Subsec. (e). Pub. L. 115–141, §206(p)(6), struck out "thereof" after "subsection (b)".
 
 Subsec. (f). Pub. L. 115–141, §205(a), added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;(i) use return information disclosed under section 6103(l)(13) of title 26, pursuant to approval provided under section 1098h of this title, to determine the borrower's continued eligibility for the loan discharge described in subparagraph (B);
 
-&emsp;&emsp;&emsp;(ii) allow the borrower, at any time, to opt out of disclosure under such section 6103(l)(13) and instead provide such information as the Secretary may require to determine the borrower's continued eligibility for such loan discharge; and
+&emsp;&emsp;&emsp;(ii) allow the borrower, at any time, to opt out of disclosure under such section6103(l)(13) and instead provide such information as the Secretary may require to determine the borrower's continued eligibility for such loan discharge; and
 
 &emsp;&emsp;&emsp;(iii) provide the borrower with an opportunity to update the return information so disclosed before determination of such borrower's continued eligibility for such loan discharge.
 
@@ -74,7 +74,9 @@ The Secretary shall pay to the holder of a loan described in section 1078(a)(1)(
 
 If a student on whose behalf a parent has received a loan described in section 1078–2 of this title dies, then the Secretary shall discharge the borrower's liability on the loan by repaying the amount owed on the loan.
 
-(Pub. L. 89–329, title IV, §437, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1414; amended Pub. L. 102–325, title IV, §428, July 23, 1992, 106 Stat. 551; Pub. L. 103–208,§2(c)(63)–(65), Dec. 20, 1993, 107 Stat. 2469; Pub. L. 105–244, title IV, §431, Oct. 7, 1998, 112 Stat. 1709; Pub. L. 109–171, title VIII, §8012, Feb. 8, 2006, 120 Stat. 166; Pub. L. 110–315, title I, §103(b)(7), title IV, §§432(b)(4), 437(a), (b), Aug. 14, 2008, 122 Stat. 3089, 3246, 3257, 3258; Pub. L. 111–39, title IV, §402(e)(1), July 1, 2009, 123 Stat. 1942; Pub. L. 116–91, §5, Dec. 19, 2019, 133 Stat. 1193.)
+(Pub. L. 89–329, title IV, §437, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1414; amended Pub. L. 102–325, title IV, §428, July 23, 1992, 106 Stat. 551; Pub. L. 103–208, §2(c)(63)–(65), Dec. 20, 1993, 107 Stat. 2469; Pub. L. 105–244, title IV, §431, Oct. 7, 1998, 112 Stat. 1709; Pub. L. 109–171, title VIII, §8012, Feb. 8, 2006, 120 Stat. 166; Pub. L. 110–315, title I, §103(b)(7), title IV, §§432(b)(4), 437(a), (b), Aug. 14, 2008, 122 Stat. 3089, 3246, 3257, 3258; Pub. L. 111–39, title IV, §402(e)(1), July 1, 2009, 123 Stat. 1942; Pub. L. 116–91, §5, Dec. 19, 2019, 133 Stat. 1193.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -124,6 +126,8 @@ Subsec. (c)(4). Pub. L. 103–208, §2(c)(65), inserted at end "The amount disch
 
 <b>1992</b>—Pub. L. 102–325 amended section generally, substituting subsecs. (a) to (d) for former subsecs. (a) and (b) which related to repayment by Secretary of loans of bankrupt, deceased, or disabled borrowers.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2009 Amendment
 
 Pub. L. 111–39, title IV, §402(e)(2), July 1, 2009, 123 Stat. 1943, provided that: "The amendments made by paragraph (1) \[amending this section\] shall be effective as if enacted as part of the amendments in section 437(a) of the Higher Education Opportunity Act (Public Law 110–315) \[amending this section\], and shall take effect on July 1, 2010."
@@ -144,6 +148,8 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
+#### <b>Executive Documents</b>
+
 #### Discharging the Federal Student Loan Debt of Totally and Permanently Disabled Veterans
 
 Memorandum of President of the United States, Aug. 21, 2019, 84 F.R. 44677, provided:
@@ -154,7 +160,7 @@ Since our Founding, the United States has been blessed with men and women willin
 
 The Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\], as amended by the Higher Education Opportunity Act in 2008 and other acts (Higher Education Act), honors veterans who are totally and permanently disabled as a result of their service to the Nation by providing for the discharge of their Federal student loan debt. Borrowers who have been determined by the Secretary of Veterans Affairs to be unemployable due to a service-connected condition and who provide documentation of that determination to the Secretary of Education are entitled to the discharge of such debt.
 
-For the last decade, veterans seeking loan discharges have been required to submit an application to the Secretary of Education with proof of their disabilities obtained from the Department of Veterans Affairs. The process has been overly complicated and difficult, and prevented too many of our veterans from receiving the relief for which they are eligible. This has inflicted significant hardship and serious harm on these veterans and has frustrated the intent of the Congress that their Federal student loan debt be discharged.
+For the last decade, veterans seeking loan discharges have been required to submit an application to the Secretary of Education with proof of their disabilities obtained from the Department of Veterans Affairs. The process has been overly complicated and difficult, and prevented too many of our veterans from receiving therelief for which they are eligible. This has inflicted significant hardship and serious harm on these veterans and has frustrated the intent of the Congress that their Federal student loan debt be discharged.
 
 Only half of the approximately 50,000 totally and permanently disabled veterans who currently qualify for the discharge of their Federal student loan debt have availed themselves of the benefits provided to them by the Higher Education Act. This has created a serious and critical problem for disabled veterans, who must deal with the day-to-day consequences of their service-connected injuries, and for our military, as readiness and recruitment suffer when we do not take care of our veterans. There is a pressing need to quickly and effectively resolve this problem. Therefore, my Administration will take prompt action to ensure that all totally and permanently disabled veterans are able to obtain, with minimal burden, the Federal student loan debt discharges to which they are legally entitled.
 

@@ -18,7 +18,7 @@ The Secretary of Defense shall enter into a memorandum of understanding with Sem
 
 &emsp;(3) That Sematech, in conducting research and development activities pursuant to the memorandum of understanding, cooperate with and draw on the expertise of the national laboratories of the Department of Energy and of colleges and universities in the United States in the field of semiconductor manufacturing technology.
 
-&emsp;(4) That an independent, commercial auditor be retained (A) to determine the extent to which the funds made available to Sematech by the United States for the research and development activities of Sematech have been expended in a manner that is consistent with the purposes of this subchapter, the charter of Sematech, and the annual operating plan of Sematech, and (B) to submit to the Secretary of Defense, Sematech, and the Comptroller General of the United States an annual report containing the findings and determinations of such auditor.
+&emsp;(4) That an independent, commercial auditor be retained (A) to determine the extent to which the funds made available to Sematech by the United States for the research and development activities of Sematech have been expended in a manner that is consistent with the purposes of this subchapter, the charter ofSematech, and the annual operating plan of Sematech, and (B) to submit to the Secretary of Defense, Sematech, and the Comptroller General of the United States an annual report containing the findings and determinations of such auditor.
 
 &emsp;(5) That (A) the Secretary of Defense be permitted to use intellectual property, trade secrets, and technical data owned and developed by Sematech in the same manner as a participant in Sematech and to transfer such intellectual property, trade secrets, and technical data to Department of Defense contractors for use in connection with Department of Defense requirements, and (B) the Secretary not be permitted to transfer such property to any person for commercial use.
 
@@ -26,19 +26,23 @@ The Secretary of Defense shall enter into a memorandum of understanding with Sem
 
 #### (c) Construction of memorandum of understanding
 
-The memorandum of understanding entered into under subsection (b) shall not be considered to be a contract for the purpose of any law or regulation relating to the formation, content, and administration of contracts awarded by the Federal Government and subcontracts under such contracts, including section 2306a of title 10, section 719 of the Defense Production Act of 1950 (50 U.S.C. App. 2168),<sup>1</sup> and the Federal Acquisition Regulations, and such provisions of law and regulation shall not apply with respect to the memorandum of understanding.
+The memorandum of understanding entered into under subsection (b) shall not be considered to be a contract for the purpose of any law or regulation relating to the formation, content, and administration of contracts awarded by the Federal Government and subcontracts under such contracts, including chapter 271 of title 10, section 719 of the Defense Production Act of 1950 (50 U.S.C. App. 2168),<sup>1</sup> and the Federal Acquisition Regulations, and such provisions of law and regulation shall not apply with respect to the memorandum of understanding.
 
 #### (d) Funding for FY88
 
 Of the amounts appropriated to the Defense Agencies for fiscal year 1988 for research, development, test, and evaluation, $100,000,000 may be obligated only to make grants under this section.
 
-(Pub. L. 100–180, div. A, title II, §272, Dec. 4, 1987, 101 Stat. 1068; Pub. L. 103–160, div. A, title II, §263(c)(2), Nov. 30, 1993, 107 Stat. 1610.)
+(Pub. L. 100–180, div. A, title II, §272, Dec. 4, 1987, 101 Stat. 1068; Pub. L. 103–160, div. A, title II, §263(c)(2), Nov. 30, 1993, 107 Stat. 1610; Pub. L. 117–81, div. A, title XVII, §1702(e)(7), Dec. 27, 2021, 135 Stat. 2157.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 Section 719 of the Defense Production Act of 1950, referred to in subsec. (c), is section 719 of act Sept. 8, 1950, ch. 932, title VII, as added Pub. L. 91–379, title I, §103, Aug. 15, 1970, 84 Stat. 796, which was formerly classified to section 2168 of the former Appendix to Title 50, War and National Defense, prior to repeal by Pub. L. 100–679, §5(b), Nov. 17, 1988, 102 Stat. 4063.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (c). Pub. L. 117–81 substituted "chapter 271" for "section 2306a".
 
 <b>1993</b>—Subsec. (b)(1)(B). Pub. L. 103–160 substituted "Semiconductor Technology Council" for "Advisory Council on Federal Participation in Sematech".
 

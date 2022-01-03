@@ -6,7 +6,7 @@ In the case of a participant or beneficiary who is in a group health plan or gro
 
 &emsp;(1) the cost-sharing requirement with respect to such services shall be the same requirement that would apply if such services were provided by such a participating provider, and any coinsurance or deductible shall be based on rates that would apply for such services if they were furnished by such a participating provider;
 
-&emsp;(2) such cost-sharing amounts shall be counted towards the in-network deductibleand in-network out-of-pocket maximum amount under the plan or coverage for the plan year (and such in-network deductible shall be applied) with respect to such items and services so furnished in the same manner as if such cost-sharing payments were with respect to items and services furnished by a participating provider; and
+&emsp;(2) such cost-sharing amounts shall be counted towards the in-network deductible and in-network out-of-pocket maximum amount under the plan or coverage for the plan year (and such in-network deductible shall be applied) with respect to such items and services so furnished in the same manner as if such cost-sharing payments were with respect to items and services furnished by a participating provider; and
 
 &emsp;(3) the group health plan or health insurance issuer, respectively, shall—
 
@@ -38,7 +38,7 @@ In the case of a participant or beneficiary who is in a group health plan or gro
 
 #### (C) Clarification
 
-&emsp;&emsp;A nonparticipating provider may not, with respect to an item or service furnished by such provider, submit a notification under paragraph (1)(B) if such provider is exempt from the requirement under subsection (a) of section 300gg–132 of title 42 with respect tosuch item or service pursuant to subsection (b) of such section.
+&emsp;&emsp;A nonparticipating provider may not, with respect to an item or service furnished by such provider, submit a notification under paragraph (1)(B) if such provider is exempt from the requirement under subsection (a) of section 300gg–132 of title 42 with respect to such item or service pursuant to subsection (b) of such section.
 
 #### (3) Treatment of batching of services
 
@@ -84,7 +84,7 @@ In the case of a participant or beneficiary who is in a group health plan or gro
 
 &emsp;&emsp;&emsp;&emsp;(I) the qualifying payment amounts (as defined in section 1185e(a)(3)(E) of this title) for the applicable year for items and services that are comparable to the qualified IDR air ambulance service and that are furnished in the same geographic region (as defined by the Secretary for purposes of such subsection) as such qualified IDR air ambulance service; and
 
-&emsp;&emsp;&emsp;&emsp;(II) subject to clause (iii), information on any circumstance described in clause (ii), such information as requested in subparagraph (B)(i)(II), and any additional information provided in subparagraph (B)(ii).
+&emsp;&emsp;&emsp;&emsp;(II) subject to clause (iii), information on any circumstance described in clause\(ii), such information as requested in subparagraph (B)(i)(II), and any additional information provided in subparagraph (B)(ii).
 
 #### (ii) Additional circumstances
 
@@ -104,7 +104,7 @@ In the case of a participant or beneficiary who is in a group health plan or gro
 
 #### (iii) Prohibition on consideration of certain factors
 
-&emsp;&emsp;&emsp;In determining which offer is the payment amount to be applied with respect toqualified IDR air ambulance services furnished by a provider, the certified IDR entity with respect to such determination shall not consider usual and customary charges, the amount that would have been billed by such provider with respect to such services had the provisions of section 300gg–135 of title 42 not applied, or the payment or reimbursement rate for such services furnished by such provider payable by a public payor, including under the Medicare program under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\], under the Medicaid program under title XIX of such Act \[42 U.S.C. 1396 et seq.\], under the Children's Health Insurance Program under title XXI of such Act \[42 U.S.C. 1397aa et seq.\], under the TRICARE program under chapter 55 of title 10, or under chapter 17 of title 38.
+&emsp;&emsp;&emsp;In determining which offer is the payment amount to be applied with respect to qualified IDR air ambulance services furnished by a provider, the certified IDR entity with respect to such determination shall not consider usual and customary charges, the amount that would have been billed by such provider with respect to such services had the provisions of section 300gg–135 of title 42 not applied, or the payment or reimbursement rate for such services furnished by such provider payable by a public payor, including under the Medicare program under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\], under the Medicaid program under title XIX of such Act \[42 U.S.C. 1396 et seq.\], under the Children's Health Insurance Program under title XXI of such Act \[42 U.S.C. 1397aa et seq.\], under the TRICARE program under chapter 55 of title 10, or under chapter 17 of title 38.
 
 #### (D) Effects of determination
 
@@ -140,7 +140,7 @@ In the case of a participant or beneficiary who is in a group health plan or gro
 
 #### (B) Information with respect to requests
 
-&emsp;&emsp;For purposes of subparagraph (A), the information described in this subparagraph is, with respect to a notification under the IDR process of a nonparticipating provider, group health plan, or health insurance issuer offering group health insurance coverage—
+&emsp;&emsp;For purposes of subparagraph (A), the information described in this subparagraph is, with respect to a notification under the IDR process of a nonparticipating provider, grouphealth plan, or health insurance issuer offering group health insurance coverage—
 
 &emsp;&emsp;&emsp;(i) a description of each air ambulance service included in such notification;
 

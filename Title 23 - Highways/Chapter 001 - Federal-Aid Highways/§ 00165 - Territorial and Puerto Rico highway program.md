@@ -4,9 +4,29 @@
 
 Division of Funds.—Of funds made available in a fiscal year for the territorial and Puerto Rico highway program—
 
-&emsp;(1) $158,000,000 shall be for the Puerto Rico highway program under subsection (b); and
+&emsp;(1) for the Puerto Rico highway program under subsection (b)—
 
-&emsp;(2) $42,000,000 shall be for the territorial highway program under subsection (c).
+&emsp;&emsp;(A) $173,010,000 shall be for fiscal year 2022;
+
+&emsp;&emsp;(B) $176,960,000 shall be for fiscal year 2023;
+
+&emsp;&emsp;(C) $180,120,000 shall be for fiscal year 2024;
+
+&emsp;&emsp;(D) $183,675,000 shall be for fiscal year 2025; and
+
+&emsp;&emsp;(E) $187,230,000 shall be for fiscal year 2026; and
+
+&emsp;(2) for the territorial highway program under subsection (c)—
+
+&emsp;&emsp;(A) $45,990,000 shall be for fiscal year 2022;
+
+&emsp;&emsp;(B) $47,040,000 shall be for fiscal year 2023;
+
+&emsp;&emsp;(C) $47,880,000 shall be for fiscal year 2024;
+
+&emsp;&emsp;(D) $48,825,000 shall be for fiscal year 2025; and
+
+&emsp;&emsp;(E) $49,770,000 shall be for fiscal year 2026.
 
 (b)
 
@@ -52,7 +72,7 @@ Eligible uses of funds.—Of amounts allocated to Puerto Rico for the Puerto Ric
 
 &emsp;&emsp;&emsp;(ii) at least 25 percent shall be available only for purposes eligible under section 148; and
 
-&emsp;&emsp;&emsp;(iii) any remaining funds may be obligated for activities eligible under chapter 1.
+&emsp;&emsp;&emsp;(iii) any remaining funds may be obligated for activities eligible under chapter 1 and preventative maintenance on the National Highway System.
 
 &emsp;(3)
 
@@ -192,9 +212,9 @@ Prohibition on use of funds for routine maintenance.—None of the funds made av
 
 &emsp;(7)
 
-Location of projects.—Territorial highway program projects (other than those described in paragraphs (1) through (4) of section 133(c) and section 133(b)(12)) may not be undertaken on roads functionally classified as local.
+Location of projects.—Territorial highway program projects (other than those described in paragraphs (1), (2), (3), and (5) of section 133(c) and section 133(b)(13)) may not be undertaken on roads functionally classified as local.
 
-(Added Pub. L. 109–59, title I, §1120(a), Aug. 10, 2005, 119 Stat. 1191; amended Pub. L. 112–141, div. A, title I, §1114(a), July 6, 2012, 126 Stat. 464; Pub. L. 114–94, div. A, title I, §§1109(c)(5), 1115, 1446(a)(11), Dec. 4, 2015, 129 Stat. 1343, 1349, 1438.)
+(Added Pub. L. 109–59, title I, §1120(a), Aug. 10, 2005, 119 Stat. 1191; amended Pub. L. 112–141, div. A, title I, §1114(a), July 6, 2012, 126 Stat. 464; Pub. L. 114–94, div. A, title I, §§1109(c)(5), 1115, 1446(a)(11), Dec. 4, 2015, 129 Stat. 1343, 1349, 1438; Pub. L. 117–58, div. A, title I, §11126, Nov. 15, 2021, 135 Stat. 506.)
 
 #### <b>Editorial Notes</b>
 
@@ -203,6 +223,16 @@ Location of projects.—Territorial highway program projects (other than those d
 Section 215 as in effect on the day before the enactment of this section and section 215 of this title as in effect on the day before the date of enactment of this subsection, referred to in subsec. (c)(5)(A), (D), probably mean section 215 of this title as in effect on the day before the date of enactment of Pub. L. 112–141, which was approved July 6, 2012, and which amended this section generally and repealed section 215.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a). Pub. L. 117–58, §11126(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
+
+"(1) $158,000,000 shall be for the Puerto Rico highway program under subsection (b); and
+
+"(2) $42,000,000 shall be for the territorial highway program under subsection (c)."
+
+Subsec. (b)(2)(C)(iii). Pub. L. 117–58, §11126(2), inserted "and preventative maintenance on the National Highway System" after "chapter 1".
+
+Subsec. (c)(7). Pub. L. 117–58, §11126(3), substituted "paragraphs (1), (2), (3), and (5) of section 133(c) and section 133(b)(13)" for "paragraphs (1) through (4) of section 133(c) and section 133(b)(12)".
 
 <b>2015</b>—Subsec. (a)(1). Pub. L. 114–94, §1115(1), substituted "$158,000,000" for "$150,000,000".
 
@@ -215,6 +245,10 @@ Subsec. (c)(7). Pub. L. 114–94, §1446(a)(11), substituted "paragraphs (1) thr
 <b>2012</b>—Pub. L. 112–141 amended section generally. Prior to amendment, section related to Puerto Rico highway program.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as a note under section 101 of this title.
 
 #### Effective Date of 2015 Amendment
 

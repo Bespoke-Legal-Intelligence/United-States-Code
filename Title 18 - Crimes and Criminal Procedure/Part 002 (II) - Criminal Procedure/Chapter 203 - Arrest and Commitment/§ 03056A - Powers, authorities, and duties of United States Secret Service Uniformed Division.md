@@ -14,7 +14,7 @@
 
 &emsp;(6) The temporary official residence of the Vice President and grounds in the District of Columbia.
 
-&emsp;(7) Foreign diplomatic missions located in metropolitan areas (other than the District of Columbia) in the United States where there are located twenty or more such missions headed by full-time officers, except that such protection shall be provided only—
+&emsp;(7) Foreign diplomatic missions located in metropolitan areas (other than the District ofColumbia) in the United States where there are located twenty or more such missions headed by full-time officers, except that such protection shall be provided only—
 
 &emsp;&emsp;(A) on the basis of extraordinary protective need;
 

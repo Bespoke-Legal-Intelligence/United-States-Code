@@ -4,6 +4,8 @@ The Secretary may report any violation of this chapter to the Attorney General o
 
 (Aug. 15, 1921, ch. 64, title IV, §404, 42 Stat. 168; Aug. 15, 1921, ch. 64, title V, §503, as added Aug. 14, 1935, ch. 532, 49 Stat. 649.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1935</b>—Act Aug. 15, 1921, title V, §503, as added Aug. 14, 1935, purported to insert "or any live poultry dealer or handler" after "packer" but word "packer" does not appear in this section.

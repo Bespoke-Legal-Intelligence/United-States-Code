@@ -8,9 +8,13 @@ For purposes of this subtitle—
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 281; Pub. L. 89–809, title I, §103(e)(1), Nov. 13, 1966, 80 Stat. 1551.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1966</b>—Pub. L. 89–809 designated existing provisions as par. (1), substituted reference to nonresident alien individuals or foreign corporations for reference simply to nonresident alien individuals, and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1966 Amendment
 

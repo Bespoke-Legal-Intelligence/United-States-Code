@@ -56,7 +56,7 @@ In general.—Except as provided in subclause (II), the duties of a Chief Inform
 
 &emsp;&emsp;&emsp;&emsp;(II)
 
-Non-major information technology investments.—For a contract or agreement for a non-major information technology investment, as defined in the annual information technology capital planning guidance of the Office of Management and Budget, the Chief Information Officer of a covered agency other than the Department of Defense maydelegate the approval of the contract or agreement under clause (i) to an individual who reports directly to the Chief Information Officer.
+Non-major information technology investments.—For a contract or agreement for a non-major information technology investment, as defined in the annual information technology capital planning guidance of the Office of Management and Budget, the Chief Information Officer of a covered agency other than the Department of Defense may delegate the approval of the contract or agreement under clause (i) to an individual who reports directly to the Chief Information Officer.
 
 &emsp;(2)
 

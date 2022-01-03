@@ -50,9 +50,13 @@ Notwithstanding any other provision of law, the members of the Interagency Envir
 
 (Pub. L. 116–113, title VIII, §811, Jan. 29, 2020, 134 Stat. 90.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This subchapter, referred to in subsec. (a), was in the original "this title", meaning title VIII of Pub. L. 116–113, Jan. 29, 2020, 134 Stat. 90, which is classified principally to this subchapter. For complete classification of title VIII to the Code, see Tables.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13907. Establishment of the Interagency Environment Committee for Monitoring and Enforcement Under Section 811 of the United States-Mexico-Canada Agreement Implementation Act
 
@@ -66,7 +70,7 @@ Sec. 2. <i>Membership</i>. The Committee shall be composed of the United States 
 
 Sec. 3. <i>Committee Decision-making</i>. The Committee shall endeavor to make any decision on an action or determination under sections 812, 813, and 814 of the Act \[19 U.S.C. 4712, 4713, and 4714\] by consensus, which shall be deemed to exist where no Committee member objects to the proposed action or determination. If the Committee is unable to reach a consensus on a proposed action or determination and the Chair determines that allotting further time will cause a decision to be unduly delayed, the Committee shall decide the matter by majority vote of its members.
 
-Sec. 4. <i>Implementing Measures</i>. The heads of the executive departments and agencies set forth in section 2 ofthis order, in consultation with the Committee, may prescribe such regulations as are necessary to carry out the authorities of the respective department or agency as provided for under subtitle A of title VIII of the Act \[19 U.S.C. 4711 et seq.\].
+Sec. 4. <i>Implementing Measures</i>. The heads of the executive departments and agencies set forth in section 2 of this order, in consultation with the Committee, may prescribe such regulations as are necessary to carry out the authorities of the respective department or agency as provided for under subtitle A of title VIII of the Act \[19 U.S.C. 4711 et seq.\].
 
 Sec. 5. <i>General Provisions</i>. (a) Each executive department and agency shall bear its own expenses incurred in connection with the Committee's functions described in sections 811, 812, 813, 814, and 816 of the Act \[19 U.S.C. 4711, 4712, 4713, 4714, and 4716\].
 

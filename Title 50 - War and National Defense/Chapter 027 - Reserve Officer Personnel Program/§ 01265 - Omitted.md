@@ -1,5 +1,7 @@
 ### §1265. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act Sept. 3, 1954, ch. 1257, title III, §328, 68 Stat. 1163, which provided for retention of officers to complete 20 years of service.

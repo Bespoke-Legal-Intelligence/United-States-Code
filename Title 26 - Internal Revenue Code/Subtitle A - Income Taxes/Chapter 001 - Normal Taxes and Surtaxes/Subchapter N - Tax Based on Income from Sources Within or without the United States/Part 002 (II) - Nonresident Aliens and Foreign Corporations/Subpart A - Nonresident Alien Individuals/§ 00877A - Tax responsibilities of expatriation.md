@@ -68,7 +68,7 @@ For purposes of this subtitle—
 
 #### (5) Waiver of certain rights
 
-&emsp;No election may be made under paragraph (1) unless the taxpayer makes an irrevocable waiver of any right under any treaty of the United States which would preclude assessment or collection of any tax imposed by reason of this section.
+&emsp;No election may be made under paragraph (1) unless the taxpayer makes an irrevocablewaiver of any right under any treaty of the United States which would preclude assessment or collection of any tax imposed by reason of this section.
 
 #### (6) Elections
 
@@ -212,7 +212,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term "covered expatriate" means an expatriate who meets the requirements ofsubparagraph (A), (B), or (C) of section 877(a)(2).
+&emsp;&emsp;The term "covered expatriate" means an expatriate who meets the requirements of subparagraph (A), (B), or (C) of section 877(a)(2).
 
 #### (B) Exceptions
 
@@ -254,7 +254,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) the date the individual renounces his United States nationality before a diplomatic or consular officer of the United States pursuant to paragraph (5) of section 349(a) of the Immigration and Nationality Act (8 U.S.C. 1481(a)(5)),
 
-&emsp;&emsp;(B) the date the individual furnishes to the United States Department of State a signed statement of voluntary relinquishment of United States nationality confirming the performance of an act of expatriation specified in paragraph (1), (2), (3), or (4) of section 349(a) of the Immigration and Nationality Act (8 U.S.C. 1481(a)(1)–(4)),
+&emsp;&emsp;(B) the date the individual furnishes to the United States Department of State a signedstatement of voluntary relinquishment of United States nationality confirming the performance of an act of expatriation specified in paragraph (1), (2), (3), or (4) of section 349(a) of the Immigration and Nationality Act (8 U.S.C. 1481(a)(1)–(4)),
 
 &emsp;&emsp;(C) the date the United States Department of State issues to the individual a certificate of loss of nationality, or
 
@@ -292,11 +292,13 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
-(Added Pub. L. 110–245, title III, §301(a), June 17, 2008, 122 Stat. 1638; amended Pub. L. 113–295, div. B, title I, §102(e)(2), Dec. 19, 2014, 128 Stat. 4062; Pub. L. 115–97, title I, §11002(d)(1)(BB), Dec. 22,2017, 131 Stat. 2060; Pub. L. 115–141, div. U, title IV, §401(a)(154), Mar. 23, 2018, 132 Stat. 1191.)
+(Added Pub. L. 110–245, title III, §301(a), June 17, 2008, 122 Stat. 1638; amended Pub. L. 113–295, div. B, title I, §102(e)(2), Dec. 19, 2014, 128 Stat. 4062; Pub. L. 115–97, title I, §11002(d)(1)(BB), Dec. 22, 2017, 131 Stat. 2060; Pub. L. 115–141, div. U, title IV, §401(a)(154), Mar. 23, 2018, 132 Stat. 1191.)
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -307,6 +309,8 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 <b>2014</b>—Subsec. (e)(2). Pub. L. 113–295, §102(e)(2)(A), inserted "a qualified ABLE program (as defined in section 529A)," after "529),".
 
 Subsec. (g)(6). Pub. L. 113–295, §102(e)(2)(B), inserted "529A(c)(3)," after "529(c)(6),".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 

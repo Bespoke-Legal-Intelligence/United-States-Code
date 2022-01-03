@@ -64,6 +64,8 @@ June 30, 1950, ch. 421, §3, 64 Stat. 304.
 
 The word "agreement" is substituted for the word "articles". The words "Hereafter", "appointed to the United States Military Academy", "engage", and 10: 1092c (1st 25 words of clause (2) are omitted as surplusage. The word "separated" is substituted for the words "discharged by competent authority". The words "if he is permitted to resign" are substituted for the words "in the event of the acceptance of his resignation", since a resignation is effective only when accepted. The first 32 words of clause (3) are substituted for 10:1092c (last 29 words of clause (3)). The last sentence is substituted for the words "with the consent of his parents or guardian if he be a minor, and if any he have".
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 9448 was renumbered section 9498 of this title.
@@ -110,11 +112,13 @@ Subsec. (d). Pub. L. 101–189, §1622(e)(5), inserted "the term" after "In this
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–525, §541(c), struck out ", unless sooner separated," in introductory text before "he will"; inserted in cl. (1) "unless sooner separated from the Academy,"; and inserted ", unless sooner separated from the service," in cls. (2) and (3).
 
-Subsec. (a)(3). Pub. L. 98–525, §542(d), substituted "at least the sixth anniversary and, at the direction of theSecretary of Defense, up to the eighth anniversary" for "the sixth anniversary".
+Subsec. (a)(3). Pub. L. 98–525, §542(d), substituted "at least the sixth anniversary and, at the direction of the Secretary of Defense, up to the eighth anniversary" for "the sixth anniversary".
 
 <b>1964</b>—Pub. L. 88–647 designated existing provisions as subsec. (a) and added subsec. (b).
 
 Subsec. (a)(2). Pub. L. 88–276 substituted "five" for "three".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

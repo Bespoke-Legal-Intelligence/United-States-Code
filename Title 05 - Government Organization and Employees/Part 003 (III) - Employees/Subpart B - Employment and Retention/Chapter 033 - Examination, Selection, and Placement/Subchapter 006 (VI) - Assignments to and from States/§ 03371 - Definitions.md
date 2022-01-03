@@ -14,9 +14,9 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(B) any general or special purpose agency of such a political subdivision, instrumentality, or authority; and
 
-&emsp;&emsp;(C) any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village as defined in the Alaska Native Claims Settlement Act (85 Stat. 688), which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians and includes any tribal organization as defined in section 4 of the Indian Self-Determination and Education Assistance Act;
+&emsp;&emsp;(C) any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village as defined in the Alaska Native Claims Settlement Act (85 Stat. 688), which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians and includes any tribal organization as defined in section 4 of theIndian Self-Determination and Education Assistance Act;
 
-&emsp;(3) "Federal agency" means an Executive agency, military department, a court of the United States, the Administrative Office of the United States Courts, the Library of Congress, the Botanic Garden, the Government Publishing Office, the Congressional Budget Office, the United States Postal Service, the Postal Regulatory Commission, the Office of the Architect of the Capitol, the Office ofTechnology Assessment, and such other similar agencies of the legislative and judicial branches as determined appropriate by the Office of Personnel Management; and
+&emsp;(3) "Federal agency" means an Executive agency, military department, a court of the United States, the Administrative Office of the United States Courts, the Library of Congress, the Botanic Garden, the Government Publishing Office, the Congressional Budget Office, the United States Postal Service, the Postal Regulatory Commission, the Office of the Architect of the Capitol, the Office of Technology Assessment, and such other similar agencies of the legislative and judicial branches as determined appropriate by the Office of Personnel Management; and
 
 &emsp;(4) "other organization" means—
 
@@ -68,10 +68,6 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 Pub. L. 91–648, title IV, §404, Jan. 5, 1971, 84 Stat. 1925, provided that: "This title \[enacting this subchapter and repealing sections 1881 to 1888 of Title 7, Agriculture, section 869b of Title 20, Education, and section 246(f) of Title 42, The Public Health and Welfare, (less applicability to commissioned officers of the Public Health Service)\] shall become effective sixty days after the date of enactment of this Act \[Jan. 5, 1971\]."
 
-#### Termination of Trust Territory of the Pacific Islands
-
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
 #### Employee Exchange Program Between Federal Employees and Employees of State and Local Governments
 
 Pub. L. 108–196, §3, Dec. 19, 2003, 117 Stat. 2896, provided that:
@@ -113,4 +109,10 @@ Written Agreement.—An employee shall enter into a written agreement regarding 
 #### Declaration of Purpose
 
 Pub. L. 91–648, title IV, §401, Jan. 5, 1971, 84 Stat. 1920, as amended by Pub. L. 95–454, title VI, §602(b), Oct. 13, 1978, 92 Stat. 1189, provided that: "The purpose of this title \[see Effective Date note above\] is to provide for the temporary assignment of personnel between the Federal Government and State and local governments, institutions of higher education, and other organizations."
+
+#### <b>Executive Documents</b>
+
+#### Termination of Trust Territory of the Pacific Islands
+
+For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 

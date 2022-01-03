@@ -50,6 +50,8 @@ The following rules shall apply to charges for health care services provided by 
 
 (July 1, 1944, ch. 373, title III, §334, as added Pub. L. 107–251, title III, §305, Oct. 26, 2002, 116 Stat. 1647; amended Pub. L. 108–163, §2(i), Dec. 6, 2003, 117 Stat. 2022.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Social Security Act, referred to in subsecs. (a)(2) and (b)(2)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
@@ -61,6 +63,8 @@ A prior section 254g, act July 1, 1944, ch. 373, title III, §334, as added Pub.
 #### Amendments
 
 <b>2003</b>—Subsec. (b)(1)(B). Pub. L. 108–163 inserted "the payment of" after "applied to".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

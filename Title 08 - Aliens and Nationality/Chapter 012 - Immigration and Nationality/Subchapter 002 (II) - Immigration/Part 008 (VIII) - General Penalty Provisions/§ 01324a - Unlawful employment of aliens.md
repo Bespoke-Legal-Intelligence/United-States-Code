@@ -50,7 +50,7 @@
 
 #### (ii) Rebuttal of presumption
 
-&emsp;&emsp;&emsp;The presumption established by clause (i) may be rebutted by the employer only through the presentation of clear and convincing evidence that the employer did not know (and could not reasonably have known) that the individual at the time of hiring or afterward was an alien not authorized to work in the United States.
+&emsp;&emsp;&emsp;The presumption established by clause (i) may be rebutted by the employer onlythrough the presentation of clear and convincing evidence that the employer did not know (and could not reasonably have known) that the individual at the time of hiring or afterward was an alien not authorized to work in the United States.
 
 #### (iii) Exception
 
@@ -198,7 +198,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 #### (E) Limited denial of verification
 
-&emsp;&emsp;A verification that an employee or prospective employee is eligible to be employed in the United States may not be withheld or revoked under the system for any reason other than that the employee or prospective employee is an unauthorized alien.
+&emsp;&emsp;A verification that an employee or prospective employee is eligible to be employed in the United States may not be withheld orrevoked under the system for any reason other than that the employee or prospective employee is an unauthorized alien.
 
 #### (F) Limited use for law enforcement purposes
 
@@ -396,7 +396,7 @@ Subsec. (b)(3). Pub. L. 108–390, §1(a)(3), inserted "a paper, microfiche, mic
 
 Subsec. (a)(7). Pub. L. 104–208, §412(d), added par. (7).
 
-Subsec. (b)(1)(B). Pub. L. 104–208, §412(a)(1)(A), (B), redesignated cl. (v) as (ii), substituted ", alien registration card, or other document designated by the Attorney General, if the document" for "or other alien registration card, if the card" in introductory provisionsof that cl., and struck out former cls. (ii) to (iv) which read as follows:
+Subsec. (b)(1)(B). Pub. L. 104–208, §412(a)(1)(A), (B), redesignated cl. (v) as (ii), substituted ", alien registration card, or other document designated by the Attorney General, if the document" for "or other alien registration card, if the card" in introductory provisions of that cl., and struck out former cls. (ii) to (iv) which read as follows:
 
 "(ii) certificate of United States citizenship;
 
@@ -472,13 +472,13 @@ Pub. L. 104–208, div. C, title IV, §412(e), Sept. 30, 1996, 110 Stat. 3009–
 
 "(1) The amendments made by subsection (a) \[amending this section\] shall apply with respect to hiring (or recruitment or referral) occurring on or after such date (not later than 18 months after the date of the enactment of this Act \[Sept. 30, 1996\]) as the Secretary of Homeland Security shall designate.
 
-"(2) The amendment made by subsection (b) \[amending this section\] shall apply to individuals hired on or after 60 days after the date of the enactment of this Act.
+"(2) The amendment made by subsection (b) \[amending this section\] shall apply to individuals hired on orafter 60 days after the date of the enactment of this Act.
 
 "(3) The amendment made by subsection (c) \[amending this section\] shall take effect on the date of the enactment of this Act.
 
 "(4) The amendment made by subsection (d) \[amending this section\] applies to hiring occurring before, on, or after the date of the enactment of this Act, but no penalty shall be imposed under subsection (e) or (f) of section 274A of the Immigration and Nationality Act \[subsecs. (e) and (f) of this section\] for such hiring occurring before such date."
 
-\[Pub. L. 105–54, §3(b), Oct. 6, 1997, 111 Stat. 1176, provided that: "The amendment made by subsection (a)\[amending section 412(e) of div. C of Pub. L. 104–208, set out above\] shall take effect as if included in the enactment of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[div. C of Pub. L. 104–208\]."\]
+\[Pub. L. 105–54, §3(b), Oct. 6, 1997, 111 Stat. 1176, provided that: "The amendment made by subsection (a) \[amending section 412(e) of div. C of Pub. L. 104–208, set out above\] shall take effect as if included in the enactment of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[div. C of Pub. L. 104–208\]."\]
 
 #### Effective Date of 1994 Amendment
 
@@ -788,7 +788,7 @@ Citizen Attestation Pilot Program.—
 
 &emsp;"(1)
 
-In general.—Except as provided in paragraphs (3) through (5), the procedures applicable under the citizen attestation pilot program under this subsection shall be the same procedures as those under the E-Verify Program under subsection (a).
+In general.—Except as provided in paragraphs (3) through (5), the procedures applicable under thecitizen attestation pilot program under this subsection shall be the same procedures as those under the E-Verify Program under subsection (a).
 
 &emsp;"(2)
 
@@ -874,7 +874,7 @@ Secondary Verification Process in Case of Tentative Nonconfirmation.—In cases 
 
 Design and Operation of System.—The confirmation system shall be designed and operated—
 
-&emsp;"(1) to maximize its reliability and ease of use by persons and other entities making elections under section 402(a) of this division consistent with insulating and protecting the privacy and security of the underlying information;
+&emsp;"(1) to maximize its reliability and ease of use by persons and other entities making elections undersection 402(a) of this division consistent with insulating and protecting the privacy and security of the underlying information;
 
 &emsp;"(2) to respond to all inquiries made by such persons and entities on whether individuals are authorized to be employed and to register all times when such inquiries are not received;
 
@@ -946,7 +946,7 @@ Report on Expansion.—Not later than June 1, 2004, the Secretary of Homeland Se
 
 \[Pub. L. 110–329, div. A, §143, Sept. 30, 2008, 122 Stat. 3580, as amended by Pub. L. 111–8, div. J, §101, Mar. 11, 2009, 123 Stat. 988, provided that: "Section 401(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[Pub. L. 104–208\] (8 U.S.C. 1324a note) \[set out above\] shall be applied by substituting \['\]September 30, 2009\['\] for 'the 11-year period beginning on the first day the pilot program is in effect'."\]
 
-\[Pub. L. 107–128, §3, Jan. 16, 2002, 115 Stat. 2407, provided that: "The amendment made by this Act \[amending section 401(b) of Pub. L. 104–208, set out above\] shall take effect on the date of the enactment of this Act \[Jan. 16, 2002\]."\]
+\[Pub. L. 107–128, §3, Jan. 16, 2002, 115 Stat. 2407, provided that: "The amendment made by this Act \[amending section 401(b) of Pub. L. 104–208, set out above\] shalltake effect on the date of the enactment of this Act \[Jan. 16, 2002\]."\]
 
 #### Report on Additional Authority or Resources Needed for Enforcement of Employer Sanctions Provisions
 
@@ -1012,7 +1012,7 @@ Pub. L. 99–603, title IV, §402, Nov. 6, 1986, 100 Stat. 3441, provided that: 
 
 &emsp;"(1) an analysis of the adequacy of the employment verification system provided under subsection (b) of that section;
 
-&emsp;"(2) a description of the status of the development and implementation of changes in that system under subsection (d) of that section, including the results of any demonstration projects conducted under paragraph (4) of such subsection; and
+&emsp;"(2) a description of the status of the development and implementation of changes in that system undersubsection (d) of that section, including the results of any demonstration projects conducted under paragraph (4) of such subsection; and
 
 &emsp;"(3) an analysis of the impact of the enforcement of that section on—
 
@@ -1060,7 +1060,7 @@ Sec. 4. (a) Whenever the Secretary of Homeland Security or the Attorney General 
 
 (c) The scope of the debarment generally should be limited to those organizational units of a Federal contractor that the Secretary of Homeland Security or the Attorney General finds are not in compliance with the INA employment provisions.
 
-(d) The period of the debarment shall be for 1 year and may be extended for additional periods of 1 year if, using the procedures established pursuant to 8 U.S.C. 1324a(e), the Secretary of Homeland Security or the Attorney General determines that the organizational unit of the Federal contractor continues to be in violation of the INA employment provisions.
+(d) The period of the debarment shall be for 1 year and may be extended for additional periods of 1 year if, using the procedures established pursuant to 8 U.S.C. 1324a(e), the Secretary of Homeland Security or the Attorney General determines that the organizational unitof the Federal contractor continues to be in violation of the INA employment provisions.
 
 (e) The Administrator of General Services shall list a debarred contractor or an organizational unit thereof on the List of Parties Excluded from Federal Procurement and Nonprocurement Programs and the contractor or an organizational unit thereof shall be ineligible to participate in any procurement or nonprocurement activities.
 

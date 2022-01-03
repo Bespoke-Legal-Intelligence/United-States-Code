@@ -40,7 +40,7 @@ In this section:
 
 #### (c) Implementation and regulations
 
-The Secretary, the Secretary of Health and Human Services, the Secretary of Commerce,and the Secretary of Homeland Security shall promulgate such regulations as the Secretaries determine to be necessary to implement and enforce this section.
+The Secretary, the Secretary of Health and Human Services, the Secretary of Commerce, and the Secretary of Homeland Security shall promulgate such regulations as the Secretaries determine to be necessary to implement and enforce this section.
 
 #### (d) Enforcement
 
@@ -52,6 +52,8 @@ An importer that fails to comply with this section shall—
 
 (Pub. L. 89–544, §18, as added Pub. L. 110–234, title XIV, §14210(a), May 22, 2008, 122 Stat. 1464, and Pub. L. 110–246, §4(a), title XIV, §14210(a), June 18, 2008, 122 Stat. 1664, 2226.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
@@ -59,6 +61,8 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 #### Prior Provisions
 
 A prior section 2148, Pub. L. 89–544, §18, Aug. 24, 1966, 80 Stat. 352, prohibited any construction of this chapter which would authorize the Secretary to promulgate rules, regulations, or orders for the handling, care, treatment, or inspection of animals during research or experimentation, prior to repeal by Pub. L. 91–579, §§19, 23, Dec. 24, 1970, 84 Stat. 1564, 1565, effective one year after Dec. 24, 1970. See section 2143 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

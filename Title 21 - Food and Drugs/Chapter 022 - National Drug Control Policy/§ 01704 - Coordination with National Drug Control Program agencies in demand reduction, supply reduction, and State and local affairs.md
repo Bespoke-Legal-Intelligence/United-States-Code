@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Upon the request of the Director, the head of any National Drug Control Program agencyshall cooperate with and provide to the Director any statistics, studies, reports, and other information prepared or collected by the agency concerning the responsibilities of the agency under the National Drug Control Strategy that relate to—
+&emsp;Upon the request of the Director, the head of any National Drug Control Program agency shall cooperate with and provide to the Director any statistics, studies, reports, and other information prepared or collected by the agency concerning the responsibilities of the agency under the National Drug Control Strategy that relate to—
 
 &emsp;&emsp;(A) drug control; or
 

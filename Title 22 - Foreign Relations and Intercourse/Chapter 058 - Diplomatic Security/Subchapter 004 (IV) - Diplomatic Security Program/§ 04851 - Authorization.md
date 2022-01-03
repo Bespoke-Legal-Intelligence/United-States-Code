@@ -32,7 +32,7 @@ Section 2696(d) of this title shall not apply with respect to any amounts author
 
 #### (e) Security requirements of other foreign affairs agencies
 
-Based solely on security requirements and within the total amount of funds available forsecurity, the Secretary of State shall ensure that an equitable level of funding is provided for the security requirements of other foreign affairs agencies.
+Based solely on security requirements and within the total amount of funds available for security, the Secretary of State shall ensure that an equitable level of funding is provided for the security requirements of other foreign affairs agencies.
 
 #### (f) Insufficiency of funds
 
@@ -70,7 +70,7 @@ Section is comprised of section 401 of Pub. L. 99–399. Subsecs. (a)(2) and (h)
 
 <b>1994</b>—Subsec. (a)(3). Pub. L. 103–236, §101(c), struck out heading and text of par. (3). Text read as follows: "There is authorized to be appropriated for the Department of State for 'Acquisition and Maintenance of Buildings Abroad' for each of the fiscal years 1988 through 1990, $417,962,000 to carry out diplomatic security construction, acquisition, and operations pursuant to the Department of State's Supplemental Diplomatic Security Program. Authorizations of appropriations under this paragraph shall remain available until the appropriations are made."
 
-Subsec. (c). Pub. L. 103–236, §122(b), struck out heading and text of subsec. (c). Text read as follows: "Amounts made available for capital projects pursuant to subsection (a) of this section shall be treated as a reprogramming of funds under section 2706 of this title and shall not be available for obligation or expenditure except in compliance with the procedures applicable to such reprogramming."
+Subsec. (c). Pub. L. 103–236, §122(b), struck out heading and text of subsec. (c). Text read as follows:"Amounts made available for capital projects pursuant to subsection (a) of this section shall be treated as a reprogramming of funds under section 2706 of this title and shall not be available for obligation or expenditure except in compliance with the procedures applicable to such reprogramming."
 
 Subsec. (h)(3). Pub. L. 103–236, §122(b), struck out heading and text of par. (3). Text read as follows: "Amounts made available for furniture, furnishings, and equipment pursuant to subsection (a) of this section shall be treated as a reprogramming of funds under section 2706 of this title and shall not be available for obligation or expenditure except in compliance with the procedures applicable to such reprogramming."
 
@@ -81,6 +81,16 @@ Subsec. (h)(3). Pub. L. 103–236, §122(b), struck out heading and text of par.
 #### Effective Date of 1994 Amendment
 
 Pub. L. 103–236, title I, §101(c), Apr. 30, 1994, 108 Stat. 388, provided that the amendment made by that section is effective Oct. 1, 1995.
+
+#### Embassy Security Requests and Deficiencies
+
+Pub. L. 117–81, div. E, title LII, §5209, Dec. 27, 2021, 135 Stat. 2357, provided that: "The Secretary of State shall provide to the appropriate congressional committees, the Committee on Armed Services of the House of Representatives, and the Committee on Armed Services of the Senate upon request information on physical security deficiencies at United States diplomatic posts, including relating to the following:
+
+&emsp;"(1) Requests made over the previous year by United States diplomatic posts for security upgrades.
+
+&emsp;"(2) Significant security deficiencies at United States diplomatic posts that are not operating out of a new embassy compound or new consulate compound."
+
+\[For definition of "appropriate congressional committees" as used in section 5209 of Pub. L. 117–81, set out above, see section 5002 of Pub. L. 117–81, set out as a note under section 263c of this title.\]
 
 #### Construction Security Certification
 

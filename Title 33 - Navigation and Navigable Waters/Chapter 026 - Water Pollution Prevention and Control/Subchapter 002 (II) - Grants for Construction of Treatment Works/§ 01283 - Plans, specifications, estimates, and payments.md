@@ -58,7 +58,7 @@ At the request of a grantee under this subchapter, the Administrator is authoriz
 
 &emsp;&emsp;(C) contain assurances by the applicant that (i) engineering and management assistance will be provided to manage the project; (ii) the proposed treatment works will be an operable unit and will meet all the requirements of this subchapter; and (iii) not later than 1 year after the date specified as the date of completion of construction of the treatment works, the treatment works will be operating so as to meet the requirements of any applicable permit for such treatment works under section 1342 of this title;
 
-&emsp;&emsp;(D) require the applicant to obtain a bond from the contractor in an amount determined necessary by the Administrator toprotect the Federal interest in the project; and
+&emsp;&emsp;(D) require the applicant to obtain a bond from the contractor in an amount determined necessary by the Administrator to protect the Federal interest in the project; and
 
 &emsp;&emsp;(E) contain such other terms and conditions as are necessary to assure compliance with this subchapter (except as provided in paragraph (4) of this subsection).
 

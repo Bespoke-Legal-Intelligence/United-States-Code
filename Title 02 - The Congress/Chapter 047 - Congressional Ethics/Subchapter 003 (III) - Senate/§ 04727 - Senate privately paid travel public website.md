@@ -16,7 +16,7 @@ The Secretary of the Senate shall maintain the information posted on the public 
 
 #### (c) Extension of authority
 
-If the Secretary of the Senate is unable to meet the deadline established under subsection\(a), the Committee on Rules and Administration of the Senate may grant an extension of the Secretary of the Senate.
+If the Secretary of the Senate is unable to meet the deadline established under subsection (a), the Committee on Rules and Administration of the Senate may grant an extension of the Secretary of the Senate.
 
 #### (e) <sup>1</sup> Authorization of appropriations
 

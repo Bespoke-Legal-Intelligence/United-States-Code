@@ -20,6 +20,8 @@ If the amount of an estimated antidumping duty deposited under section 1673e(a)(
 
 (June 17, 1930, ch. 497, title VII, §737, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 173; amended Pub. L. 103–465, title II, §219(c)(10), Dec. 8, 1994, 108 Stat. 4857; Pub. L. 104–295, §40, Oct. 11, 1996, 110 Stat. 3541.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–295, §40(1), substituted "deposit, or the amount of any bond or other security, required" for "deposit collected" in introductory provisions.
@@ -29,6 +31,8 @@ Subsec. (a)(1). Pub. L. 104–295, §40(2), substituted "that the cash deposit, 
 Subsec. (a)(2). Pub. L. 104–295, §40(3), substituted "refunded or released, to the extent that the cash deposit, bond, or other security" for "refunded, to the extent the cash deposit".
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–465 substituted "1673b(d)(1)(B)" for "1673b(d)(2)" in heading and text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

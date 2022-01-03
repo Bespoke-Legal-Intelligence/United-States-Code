@@ -54,6 +54,8 @@ Covered Contract Defined.—In this section, the term "covered contract", with r
 
 (Added Pub. L. 115–91, div. A, title VIII, §834(a)(1), Dec. 12, 2017, 131 Stat. 1469, §2443; renumbered §4328 and amended Pub. L. 116–283, div. A, title XVIII, §1848(e), Jan. 1, 2021, 134 Stat. 4259.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior sections 4331 to 4338 were renumbered sections 7431 to 7438 of this title, respectively.
@@ -80,7 +82,49 @@ Prior sections 4346 to 4349 were renumbered sections 7446 to 7449 of this title,
 
 Pub. L. 116–283, §1848(e)(1), renumbered section 2443 of this title as this section. Section was inserted after section 4325 of this title to reflect the probable intent of Congress, notwithstanding directory language inserting it after section "4235".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2021 Amendment
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+#### Effective Date
+
+Pub. L. 115–91, div. A, title VIII, §834(b), Dec. 12, 2017, 131 Stat. 1470, provided that: "Subsections (c) and (d) of section 2443 of title 10, United States Code \[now 10 U.S.C. 4328\], as added by subsection (a), shall apply with respect to any covered contract (as defined in that section) for which the contract solicitation is issued on or after the date occurring one year after the date of the enactment of this Act \[Dec. 12, 2017\]."
+
+#### Implementation of Recommendations of the Independent Study on Consideration of Sustainment in Weapons Systems Life Cycle
+
+Pub. L. 115–232, div. A, title VIII, §832, Aug. 13, 2018, 132 Stat. 1857, provided that:
+
+"(a)
+
+Implementation Required.—Not later than 18 months after the date of the enactment of this Act \[Aug. 13, 2018\], the Secretary of Defense shall, except as provided under subsection (b), commence implementation of each recommendation submitted as part of the independent assessment produced under section 844 of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 130 Stat. 2290).
+
+"(b)
+
+Exceptions.—
+
+&emsp;"(1)
+
+Delayed implementation.—The Secretary of Defense may commence implementation of a recommendation described under subsection (a) later than the date required under such subsection if the Secretary provides the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] with a specific justification for the delay in implementation of such recommendation.
+
+&emsp;"(2)
+
+Nonimplementation.—The Secretary of Defense may opt not to implement a recommendation described under subsection (a) if the Secretary provides to the congressional defense committees—
+
+&emsp;&emsp;"(A) the reasons for the decision not to implement the recommendation; and
+
+&emsp;&emsp;"(B) a summary of the alternative actions the Secretary plans to take to address the purposes underlying the recommendation.
+
+"(c)
+
+Implementation Plans.—For each recommendation that the Secretary is implementing, or that the Secretary plans to implement, the Secretary shall submit to the congressional defense committees—
+
+&emsp;"(1) a summary of actions that have been taken to implement the recommendation; and
+
+&emsp;"(2) a schedule, with specific milestones, for completing the implementation of the recommendation."
+
+#### Engineering Change Authorized
+
+Pub. L. 115–91, div. A, title VIII, §834(c), Dec. 12, 2017, 131 Stat. 1470, provided that: "Subject to the availability of appropriations, the Secretary of Defense may fund engineering changes to the design of a weapon system in the engineering and manufacturing development phase or in the production phase of an acquisition program to improve reliability or maintainability of the weapon system and reduce projected operating and support costs."
 

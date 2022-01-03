@@ -6,7 +6,7 @@ In the determination of the dividends paid deduction for purposes of the accumul
 
 #### (b) Personal holding company tax
 
-In the determination of the dividends paid deduction for purposes of the personal holdingcompany tax imposed by section 541, a dividend paid after the close of any taxable year and on or before the 15th day of the fourth month following the close of such taxable year shall, to the extent the taxpayer elects in its return for the taxable year, be considered as paid during such taxable year. The amount allowed as a dividend by reason of the application of this subsection with respect to any taxable year shall not exceed either—
+In the determination of the dividends paid deduction for purposes of the personal holding company tax imposed by section 541, a dividend paid after the close of any taxable year and on or before the 15th day of the fourth month following the close of such taxable year shall, to the extent the taxpayer elects in its return for the taxable year, be considered as paid during such taxable year. The amount allowed as a dividend by reason of the application of this subsection with respect to any taxable year shall not exceed either—
 
 &emsp;(1) The undistributed personal holding company income of the corporation for the taxable year, computed without regard to this subsection, or
 
@@ -17,6 +17,8 @@ In the determination of the dividends paid deduction for purposes of the persona
 For the purpose of applying section 562(a), with respect to distributions under subsection (a) or (b) of this section, a distribution made after the close of a taxable year and on or before the 15th day of the fourth month following the close of the taxable year shall be considered as made on the last day of such taxable year.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 199; Pub. L. 91–172, title IX, §914(a), Dec. 30, 1969, 83 Stat. 723; Pub. L. 101–239, title VII, §7401(b), Dec. 19, 1989, 103 Stat. 2356; Pub. L. 108–357, title IV, §413(c)(10), Oct. 22, 2004, 118 Stat. 1507; Pub. L. 114–41, title II, §2006(a)(2)(B), July 31, 2015, 129 Stat. 457.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -31,6 +33,8 @@ Subsec. (d). Pub. L. 101–239, §7401(b)(2), substituted "subsection (a), (b), 
 Pub. L. 101–239, §7401(b)(1), redesignated former subsec. (c) as (d).
 
 <b>1969</b>—Subsec. (b)(2). Pub. L. 91–172 substituted "20 percent" for "10 percent".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

@@ -14,6 +14,8 @@ It shall be unlawful for any person—
 
 (Aug. 9, 1939, ch. 615, title III, §304, formerly §306, 53 Stat. 1285; Pub. L. 85–581, §15, Aug. 1, 1958, 72 Stat. 479; renumbered §304, Pub. L. 97–439, §5(b)(4), Jan. 8, 1983, 96 Stat. 2288; Pub. L. 103–465, title IV, §441(4), Dec. 8, 1994, 108 Stat. 4973.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (a)(4) to (7). Pub. L. 103–465, §441(4)(A), struck out pars. (4) to (7) which read as follows:
@@ -30,9 +32,11 @@ Subsecs. (b), (c). Pub. L. 103–465, §441(4)(B), (C), redesignated subsec. (c)
 
 <b>1958</b>—Subsec. (c). Pub. L. 85–581 added subsec. (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 effective on the date of entry into force of the WTO Agreement with respect to the United States (Jan. 1, 1995), except as otherwise provided, see section 451 of Pub. L. 103–465, set out as an Effective Date note under section 3601 of Title 19, Customs Duties.
+Amendment by Pub. L. 103–465 effective on the date of entry into force of the WTO Agreement with respect tothe United States (Jan. 1, 1995), except as otherwise provided, see section 451 of Pub. L. 103–465, set out as an Effective Date note under section 3601 of Title 19, Customs Duties.
 
 #### Effective Date
 

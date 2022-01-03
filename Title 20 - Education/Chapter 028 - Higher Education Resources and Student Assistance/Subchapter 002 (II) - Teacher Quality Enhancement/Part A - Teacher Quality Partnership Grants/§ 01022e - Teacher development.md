@@ -2,7 +2,7 @@
 
 #### (a) Annual goals
 
-Each institution of higher education that conducts a traditional teacher preparation program (including programs that offer any ongoing professional development programs) or alternative routes to State certification or licensure program, and that enrolls students receiving Federal assistance under this chapter, shall set annual quantifiable goals for increasing the number of prospective teachers trained in teacher shortage areas designated by the Secretary or by the State educational agency, including mathematics, science, special education, and instruction of limited English proficient students.
+Each institution of higher education that conducts a traditional teacher preparation program (including programs that offer any ongoing professional development programs) or alternative routes to State certification or licensure program, and that enrolls students receiving Federal assistance under this chapter, shall set annual quantifiable goals for increasing the number of prospective teachers trained in teacher shortage areas designated by the Secretary or by the State educational agency, includingmathematics, science, special education, and instruction of limited English proficient students.
 
 #### (b) Assurances
 
@@ -23,6 +23,8 @@ Each institution described in subsection (a) shall provide assurances to the Sec
 Nothing in this section shall be construed to require an institution to create a new teacher preparation area of concentration or degree program or adopt a specific curriculum in complying with this section.
 
 (Pub. L. 89–329, title II, §206, as added Pub. L. 110–315, title II, §201(2), Aug. 14, 2008, 122 Stat. 3152.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

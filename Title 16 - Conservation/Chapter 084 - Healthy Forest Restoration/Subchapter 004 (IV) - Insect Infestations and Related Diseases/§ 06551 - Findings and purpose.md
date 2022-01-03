@@ -36,7 +36,7 @@ Congress finds that—
 
 &emsp;(4)(A) the emerald ash borer is a nonnative, invasive pest that has quickly become a major threat to hardwood forests because an emerald ash borer infestation is almost always fatal to affected trees; and
 
-&emsp;(B) the emerald ash borer pest threatens to destroy more than 692,000,000 ash trees in forests in Michigan and Ohio alone, and between5 and 10 percent of urban street trees in the Upper Midwest;
+&emsp;(B) the emerald ash borer pest threatens to destroy more than 692,000,000 ash trees in forests in Michigan and Ohio alone, and between 5 and 10 percent of urban street trees in the Upper Midwest;
 
 &emsp;(5)(A) epidemic populations of Southern pine beetles are ravaging forests in Alabama, Arkansas, Florida, Georgia, Kentucky, Mississippi, North Carolina, South Carolina, Tennessee, and Virginia; and
 

@@ -8,7 +8,7 @@
 
 #### (b) Contributions
 
-(1) It shall be unlawful for an eligible candidate of a major party in a presidential electionor any of his authorized committees knowingly and willfully to accept any contribution to defray qualified campaign expenses, except to the extent necessary to make up any deficiency in payments received out of the fund on account of the application of section 9006(c), or to defray expenses which would be qualified campaign expenses but for subparagraph (C) of section 9002(11).
+(1) It shall be unlawful for an eligible candidate of a major party in a presidential election or any of his authorized committees knowingly and willfully to accept any contribution to defray qualified campaign expenses, except to the extent necessary to make up any deficiency in payments received out of the fund on account of the application of section 9006(c), or to defray expenses which would be qualified campaign expenses but for subparagraph (C) of section 9002(11).
 
 (2) It shall be unlawful for an eligible candidate of a political party (other than a major party) in a presidential election or any of his authorized committees knowingly and willfully to accept and expend or retain contributions to defray qualified campaign expenses in an amount which exceeds the qualified campaign expenses incurred with respect to such election by such eligible candidate and his authorized committees.
 
@@ -58,9 +58,11 @@
 
 (Added Pub. L. 92–178, title VIII, §801, Dec. 10, 1971, 85 Stat. 570; amended Pub. L. 93–53, §6(c), July 1, 1973, 87 Stat. 139; Pub. L. 93–443, title IV, §§404(c)(22), 406(b)(2)–(6), Oct. 15, 1974, 88 Stat. 1293, 1296; Pub. L. 94–283, title III, §307(f), May 11, 1976, 90 Stat. 502; Pub. L. 94–455, title XIX, §1906(b)(13)(C), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 113–94, §2(c)(2), Apr. 3, 2014, 128 Stat. 1086.)
 
+#### <b>Editorial Notes</b>
+
 #### Constitutionality
 
-For information regarding constitutionality of certain provisions of this section, as added by section 801 of Pub. L. 92–178, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For information regarding constitutionality of certain provisions of this section, as added by section 801 of Pub. L. 92–178, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
 
 #### Amendments
 
@@ -87,6 +89,8 @@ Subsec. (e)(1). Pub. L. 93–443, §406(b)(6), inserted provision making it unla
 Subsec. (e)(3). Pub. L. 93–443, §406(b)(6), inserted requirement of payment, by any person accepting any kickback or illegal payment in connection with any expense incurred by the national committee of a major or minor party with respect to a presidential nominating convention, to the Secretary for deposit in the general fund of the Treasury.
 
 <b>1973</b>—Subsec. (b)(1). Pub. L. 93–53 substituted section "9006(d)" for "9006(c)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1974 Amendment
 

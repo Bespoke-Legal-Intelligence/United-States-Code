@@ -1,5 +1,7 @@
 ### §432. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 432 was editorially reclassified as section 5941 of this title.

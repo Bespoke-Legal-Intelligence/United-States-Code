@@ -6,6 +6,8 @@
 
 (Added Pub. L. 99–433, title I, §108, Oct. 1, 1986, 100 Stat. 998, §140; renumbered §141, Pub. L. 103–160, div. A, title IX, §901(a)(1), Nov. 30, 1993, 107 Stat. 1726.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Inspector General Act of 1978, referred to in text, is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -20,37 +22,39 @@ Another prior section 141 of this title was contained in chapter 5 of this title
 
 <b>1993</b>—Pub. L. 103–160 renumbered section 140 of this title as this section.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Inspector General Oversight of Diversity and Inclusion in Department of Defense; Supremacist, Extremist, or Criminal Gang Activity in the Armed Forces
 
-Pub. L. 116–283, div. A, title V, §554, Jan. 1, 2021, 134 Stat. 3633, provided that:
+Pub. L. 116–283, div. A, title V, §554, Jan. 1, 2021, 134 Stat. 3633, as amended by Pub. L. 117–81, div. A, title V, §549K, Dec. 27, 2021, 135 Stat. 1731, provided that:
 
 "(a)
 
-Establishment of Additional Deputy Inspector General of the Department of Defense.—
+Establishment of Additional Assistant Inspector General of the Department of Defense.—
 
 &emsp;"(1)
 
-In general.—Not later than 90 days after the date of the enactment of this Act \[Jan. 1, 2021\], the Secretary of Defense shall appoint, in the Office of the Inspector General of the Department of Defense, an additional Deputy Inspector General who—
+In general.—Not later than 90 days after the date of the enactment of this Act \[Jan. 1, 2021\], the Inspector General of the Department of Defense shall appoint, in the Office of the Inspector General of the Department of Defense, an additional Assistant Inspector General who—
 
-&emsp;&emsp;"(A) shall be a member of the Senior Executive Service of the Department; and
+&emsp;&emsp;"(A) shall be a member of the Senior Executive Service; and
 
-&emsp;&emsp;"(B) shall report directly to and serve under the authority, direction, and control of the Inspector General.
+&emsp;&emsp;"(B) shall be under the authority, direction, and control of the Inspector General.
 
 &emsp;"(2)
 
 Duties.—Subject to the Inspector General Act of 1978 (Public Law 95–452; 5 U.S.C. App.), the Deputy Inspector General shall have the following duties:
 
-&emsp;&emsp;"(A) Conducting and supervising audits, investigations, and evaluations of policies, programs, systems, and processes of the Department—
+&emsp;&emsp;"(A) Developing and carrying out a plan for the conduct of comprehensive oversight, including through the conduct and supervision of audits, investigations, and inspections, of policies, programs, systems, and processes of the Department—
 
 &emsp;&emsp;&emsp;"(i) to determine the effect of such policies, programs, systems, and processes regarding personnel on diversity and inclusion in the Department; and
 
-&emsp;&emsp;&emsp;"(ii) to prevent and respond to supremacist, extremist, and criminal gang activity of a member of the Armed Forces, including the duties of the Inspector General under subsection (b).
+&emsp;&emsp;&emsp;"(ii) to prevent and respond to supremacist, extremist, and criminal gang activity of a member of the Armed Forces.
 
-&emsp;&emsp;"(B) Additional duties prescribed by the Secretary or Inspector General.
+&emsp;&emsp;"(B) Additional duties prescribed by the Inspector General.
 
 &emsp;"(3)
 
-Coordination of efforts.—In carrying out the duties under paragraph (2), the Deputy Inspector General shall coordinate with, and receive the cooperation of the following:
+Coordination of efforts.—In carrying out the duties under paragraph (2), the Assistant Inspector General shall coordinate with, and receive the cooperation of the following:
 
 &emsp;&emsp;"(A) The Inspector General of the Army.
 
@@ -66,23 +70,23 @@ Reports.—
 
 &emsp;&emsp;"(A)
 
-One-time report.—Not later than 180 days after the date of the enactment of this Act, the Inspector General shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report describing, with respect to the Deputy Inspector General appointed under this subsection:
+One-time report.—Not later than 180 days after the date of the enactment of this Act, the Inspector General shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report describing, with respect to the Assistant Inspector General appointed under this subsection:
 
-&emsp;&emsp;&emsp;"(i) the duties and responsibilities to be assigned to such Deputy Inspector General;
+&emsp;&emsp;&emsp;"(i) the duties and responsibilities to be assigned to such Assistant Inspector General;
 
-&emsp;&emsp;&emsp;"(ii) the organization, structure, staffing, and funding of the office established to support such Deputy Inspector General in the execution of such duties and responsibilities;
+&emsp;&emsp;&emsp;"(ii) the organization, structure, staffing, and funding of the office established to support such Assistant Inspector General in the execution of such duties and responsibilities;
 
-&emsp;&emsp;&emsp;"(iii) challenges to the establishment of such Deputy Inspector General and such office, including any shortfalls in personnel and funding; and
+&emsp;&emsp;&emsp;"(iii) challenges to the establishment of such Assistant Inspector General and such office, including any shortfalls in personnel and funding; and
 
-&emsp;&emsp;&emsp;"(iv) the date by which the Inspector General expects such Deputy Inspector General and the office will reach full operational capability.
+&emsp;&emsp;&emsp;"(iv) the date by which the Inspector General expects such Assistant Inspector General and the office will reach full operational capability.
 
 &emsp;&emsp;"(B)
 
-Semiannual reports.—Not later than 30 days after the end of the second and fourth quarters of each fiscal year beginning in fiscal year 2022, the Deputy Inspector General shall submit to the Secretary and the Inspector General a report including a summary of the activities of the Deputy Inspector General during the two fiscal quarters preceding the date of the report.
+Semiannual reports.—Not later than 30 days after the end of the second and fourth quarters of each fiscal year beginning in fiscal year 2022, the Inspector General shall submit to the Secretary a report including a summary of the activities of the Assistant Inspector General during the two fiscal quarters preceding the date of the report, for inclusion in the next semiannual report of the Inspector General under section 5 of the Inspector General Act of 1978 (5 U.S.C. App.)..\[sic\]
 
 &emsp;&emsp;"(C)
 
-Annual reports.—The Deputy Inspector General shall submit, through the Secretary and Inspector General, to the Committees on Armed Services of the Senate and the House of Representatives annual reports presenting findings and recommendations regarding—
+Annual reports.—The Inspector General shall submit, through the Secretary, to the Committees on Armed Services of the Senate and the House of Representatives annual reports presenting findings and recommendations regarding—
 
 &emsp;&emsp;&emsp;"(i) the effects of policies, programs, systems, and processes of the Department, regarding personnel, on diversity and inclusion in the Department; and
 
@@ -90,11 +94,11 @@ Annual reports.—The Deputy Inspector General shall submit, through the Secreta
 
 &emsp;&emsp;"(D)
 
-Occasional reports.—The Deputy Inspector General shall, from time to time, submit to the Secretary and the Inspector General additional reports as the Secretary or Inspector General may direct.
+Occasional reports.—The Inspector General shall, from time to time, submit to the Secretary additional reports as the Inspector General may determine.
 
 &emsp;&emsp;"(E)
 
-Online publication.—The Deputy Inspector General shall publish each report under this paragraph on a publicly accessible website of the Department not later than 21 days after submittingsuch report to the Secretary, Inspector General, or the Committees on Armed Services of the Senate and the House of Representatives.
+Online publication.—The Inspector General shall publish each report under this paragraph on a publicly accessible website consistent with the requirements of the Inspector General Act of 1978 (5 U.S.C. App.)..\[sic\]
 
 "(b)
 
@@ -163,4 +167,10 @@ Definitions.—In this subsection:
 &emsp;&emsp;"(B) The term 'covered Armed Force' means an Armed Force under the jurisdiction of the Secretary of a military department.
 
 &emsp;&emsp;"(C) The term 'prohibited activity' means an activity prohibited under Department of Defense Instruction 1325.06, titled 'Handling Dissident and Protest Activities Among Members of the Armed Forces', or any successor instruction."
+
+\[Pub. L. 117–81, §549K, which directed amendment of section 554(a) of Pub. L. 116–283, set out above, by substituting "
+
+assistant" for "
+
+deputy" in section heading, was executed by substituting "Assistant" for "Deputy" in subsec. heading, to reflect the probable intent of Congress.\]
 

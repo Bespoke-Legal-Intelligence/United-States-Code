@@ -88,7 +88,7 @@ In subsection (a), the word "agency" is substituted for "department of the Gover
 
 In subsection (b), before clause (1), the words "buy or lease" are substituted for "purchase or hire" for consistency. In clause (1)(C), the words "section 101 of title 5" are used because of section 7(b) of the Act of September 6, 1966 (Pub. L. 89–554, 80 Stat. 631).
 
-In subsection (c)(1), before clause (A), the word "agency" is substituted for "department" for consistency. The words "total cost" are substituted for "cost" because of the restatement. The words "(except costs required only for transportation)" are substituted for "which shall be in addition to the amount required for transportation" for clarity. Clause (A) is substitutedfor "completely equipped for operation" and 31:638a(c)(1)(2d sentence) to eliminate unnecessary words.
+In subsection (c)(1), before clause (A), the word "agency" is substituted for "department" for consistency. The words "total cost" are substituted for "cost" because of the restatement. The words "(except costs required only for transportation)" are substituted for "which shall be in addition to the amount required for transportation" for clarity. Clause (A) is substituted for "completely equipped for operation" and 31:638a(c)(1)(2d sentence) to eliminate unnecessary words.
 
 In subsection (c)(2), the words "Notwithstanding any other provisions of law" are omitted as surplus.
 

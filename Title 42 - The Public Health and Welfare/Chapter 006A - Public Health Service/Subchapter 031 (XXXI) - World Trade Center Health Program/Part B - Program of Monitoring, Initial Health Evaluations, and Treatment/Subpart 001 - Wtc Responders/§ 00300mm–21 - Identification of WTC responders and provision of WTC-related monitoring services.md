@@ -126,19 +126,23 @@
 
 #### (1) In general
 
-&emsp;In the case of an enrolled WTC responder (other than one described in subsection (a)(2)(A)(ii)), the WTC Program shall provide for monitoring benefits that include monitoring consistent with protocols approved bythe WTC Program Administrator and including clinical examinations and long-term health monitoring and analysis. In the case of an enrolled WTC responder who is an active member of the Fire Department of New York City, the responder shall receive such benefits as part of the individual's periodic company medical exams.
+&emsp;In the case of an enrolled WTC responder (other than one described in subsection (a)(2)(A)(ii)), the WTC Program shall provide for monitoring benefits that include monitoring consistent with protocols approved by the WTC Program Administrator and including clinical examinations and long-term health monitoring and analysis. In the case of an enrolled WTC responder who is an active member of the Fire Department of New York City, the responder shall receive such benefits as part of the individual's periodic company medical exams.
 
 #### (2) Provision of monitoring benefits
 
 &emsp;The monitoring benefits under paragraph (1) shall be provided through the Clinical Center of Excellence for the type of individual involved or, in the case of an individual residing outside the New York metropolitan area, under an arrangement under section 300mm–23 of this title.
 
-(July 1, 1944, ch. 373, title XXXIII, §3311, as added Pub. L. 111–347, title I, §101, Jan. 2, 2011, 124 Stat. 3635; amended Pub. L. 114–113, div. O, title III, §302(d), Dec. 18, 2015, 129 Stat. 2999; Pub. L. 116–59, div. B, title VI, §1602(a), Sept. 27, 2019, 133 Stat. 1107.)
+(July 1, 1944, ch. 373, title XXXIII, §3311, as added Pub. L. 111–347, title I, §101, Jan. 2, 2011,124 Stat. 3635; amended Pub. L. 114–113, div. O, title III, §302(d), Dec. 18, 2015, 129 Stat. 2999; Pub. L. 116–59, div. B, title VI, §1602(a), Sept. 27, 2019, 133 Stat. 1107.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>2019</b>—Subsec. (a)(4)(A). Pub. L. 116–59 substituted "75,000" for "25,000".
 
 <b>2015</b>—Subsec. (a)(4)(B)(i)(II). Pub. L. 114–113 struck out "through the end of fiscal year 2020" after "who are enrolled".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Rule of Construction
 

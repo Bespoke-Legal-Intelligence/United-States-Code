@@ -1,5 +1,7 @@
 ### §701. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, Pub. L. 88–204, §2, Dec. 16, 1963, 77 Stat. 363, related to congressional findings and declaration of policy.

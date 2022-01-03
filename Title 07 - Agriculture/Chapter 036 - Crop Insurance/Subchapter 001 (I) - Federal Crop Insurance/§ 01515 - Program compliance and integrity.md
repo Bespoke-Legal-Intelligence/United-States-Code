@@ -66,7 +66,7 @@
 
 #### (D) Late payment of debt
 
-&emsp;&emsp;In the case of a producer that has inadvertently failed to pay a debt due as specified by regulations of the Corporation and has been determined to be ineligible for crop insurance pursuant to the terms of the policy as a result of that failure, the Corporation may determine to allow the producer to pay the debt and purchase the crop insurance after the sales closing date, in accordance with procedures and limitations established by the Corporation.
+&emsp;&emsp;In the case of a producer that has inadvertently failed to pay a debt due as specified by regulations of the Corporation and has been determined to be ineligible for cropinsurance pursuant to the terms of the policy as a result of that failure, the Corporation may determine to allow the producer to pay the debt and purchase the crop insurance after the sales closing date, in accordance with procedures and limitations established by the Corporation.
 
 #### (d) Identification and elimination of fraud, waste, and abuse
 
@@ -132,7 +132,7 @@ The Secretary shall establish procedures under which the Corporation shall consu
 
 &emsp;The Secretary shall establish procedures under which the Corporation will be able to identify the following:
 
-&emsp;&emsp;(A) Any agent engaged in the sale of coverage offered under this subchapter where the loss claims associated with such sales by the agent are equal to or greater than 150 percent (or an appropriate percentage specified by the Corporation) of the mean for all loss claims associated with such sales by all other agents operating in the same area, as determined by the Corporation.
+&emsp;&emsp;(A) Any agent engaged in the sale of coverage offered under this subchapter wherethe loss claims associated with such sales by the agent are equal to or greater than 150 percent (or an appropriate percentage specified by the Corporation) of the mean for all loss claims associated with such sales by all other agents operating in the same area, as determined by the Corporation.
 
 &emsp;&emsp;(B) Any person performing loss adjustment services relative to coverage offered under this subchapter where such loss adjustments performed by the person result in accepted or denied claims equal to or greater than 150 percent (or an appropriate percentage specified by the Corporation) of the mean for accepted or denied claims (as applicable) for all other persons performing loss adjustment services in the same area, as determined by the Corporation.
 
@@ -322,6 +322,8 @@ The Secretary shall establish procedures under which the Corporation shall consu
 
 (Feb. 16, 1938, ch. 30, title V, §515, as added Pub. L. 103–354, title I, §109, Oct. 13, 1994, 108 Stat. 3197; amended Pub. L. 106–224, title I, §121(a), June 20, 2000, 114 Stat. 372; Pub. L. 110–234, title XII, §§12021, 12033(c)(2), May 22, 2008, 122 Stat. 1382, 1405; Pub. L. 110–246, §4(a), title XII, §§12021, 12033(c)(2), June 18, 2008, 122 Stat. 1664, 2144, 2167; Pub. L. 110–398, §1(c), Oct. 13, 2008, 122 Stat. 4214; Pub. L. 113–79, title XI, §§11019, 11020, Feb. 7, 2014, 128 Stat. 966, 968; Pub. L. 115–334, title XI, §§11115–11117, Dec. 20, 2018, 132 Stat. 4925.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Agricultural Market Transition Act, referred to in subsec. (h)(3)(B)(ii), is title I of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 896, as amended, which is classified principally to chapter 100 (§7201 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 7201 of this title and Tables.
@@ -377,6 +379,8 @@ Subsec. (k). Pub. L. 110–246, §12021(b), added subsec. (k) and struck out for
 Subsec. (k)(1). Pub. L. 110–398 substituted "2010, and not more than $9,000,000 for fiscal year 2011" for "2011".
 
 <b>2000</b>—Pub. L. 106–224 amended section generally, substituting present provisions for provisions which had authorized establishment of Advisory Committee for Federal Crop Insurance, described primary responsibility, membership of Committee, and administrative provisions, required annual report regarding progress toward implementation and improved crop insurance coverage, soundness of program, and rate of participation, and set forth termination of authority on Sept. 30, 1998.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

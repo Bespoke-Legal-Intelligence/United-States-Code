@@ -4,7 +4,7 @@ The Congress hereby finds that—
 
 (a) The Nation is suffering from a shortage of environmentally acceptable forms of energy.
 
-(b) Compounding this energy shortage is our past and present failure to formulate a comprehensive and aggressive research and development program designed to make available toAmerican consumers our large domestic energy reserves including fossil fuels, nuclear fuels, geothermal resources, solar energy, and other forms of energy. This failure is partially because the unconventional energy technologies have not been judged to be economically competitive with traditional energy technologies.
+(b) Compounding this energy shortage is our past and present failure to formulate a comprehensive and aggressive research and development program designed to make available to American consumers our large domestic energy reserves including fossil fuels, nuclear fuels, geothermal resources, solar energy, and other forms of energy. This failure is partially because the unconventional energy technologies have not been judged to be economically competitive with traditional energy technologies.
 
 (c) The urgency of the Nation's energy challenge will require commitments similar to those undertaken in the Manhattan and Apollo projects; it will require that the Nation undertake a research, development, and demonstration program in nonnuclear energy technologies with a total Federal investment which may reach or exceed $20,000,000,000 over the next decade.
 
@@ -13,6 +13,8 @@ The Congress hereby finds that—
 (e) The Nation's future energy needs can be met if a national commitment is made now to dedicate the necessary financial resources, to enlist our scientific and technological capabilities, and to accord the proper priority to developing new nonnuclear energy options to serve national needs, conserve vital resources, and protect the environment.
 
 (Pub. L. 93–577, §2, Dec. 31, 1974, 88 Stat. 1879.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

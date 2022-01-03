@@ -94,7 +94,7 @@
 
 &emsp;&emsp;&emsp;(ii) data, research, or other information used to inform the determination to establish the goal.
 
-&emsp;&emsp;(K) A description of the current prevalence of illicit drug use in the United States, including both the availability of illicit drugsand the prevalence of substance use disorders.
+&emsp;&emsp;(K) A description of the current prevalence of illicit drug use in the United States, including both the availability of illicit drugs and the prevalence of substance use disorders.
 
 &emsp;&emsp;(L) Such other statistical data and information as the Director considers appropriate to demonstrate and assess trends relating to illicit drug use, the effects and consequences of illicit drug use (including the effects on children), supply reduction, demand reduction, drug-related law enforcement, and the implementation of the National Drug Control Strategy.
 
@@ -250,7 +250,7 @@ If the Director does not submit a National Drug Control Strategy to Congress in 
 
 &emsp;&emsp;&emsp;&emsp;(IV) the known and estimated levels of domestic production in the calendar year and each of the previous three calendar years, including the levels of domestic production if the drug is a prescription drug, as determined under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], for which a listing is in effect under section 812 of this title;
 
-&emsp;&emsp;&emsp;&emsp;(V) the average street price for the calendar year and the highest known street price during the preceding 10-year period; and
+&emsp;&emsp;&emsp;&emsp;(V) the average street price for the calendar year and the highest known streetprice during the preceding 10-year period; and
 
 &emsp;&emsp;&emsp;&emsp;(VI) to the extent practicable, related prosecutions by State, local, and Tribal governments; <sup>2</sup>
 
@@ -394,7 +394,7 @@ Subsecs. (c), (d). Pub. L. 109–469, §202, added subsecs. (c) and (d).
 
 #### Effective Date of 2019 Amendment
 
-Amendment by section 2(c)(1)(B) of Pub. L. 116–74 effective as if included in the enactment of subtitle K oftitle VIII of Pub. L. 115–271, see section 2(c)(2) of Pub. L. 116–74, set out as a note under section 1522 of this title.
+Amendment by section 2(c)(1)(B) of Pub. L. 116–74 effective as if included in the enactment of subtitle K of title VIII of Pub. L. 115–271, see section 2(c)(2) of Pub. L. 116–74, set out as a note under section 1522 of this title.
 
 #### Requirement for Southwest Border Counternarcotics Strategy
 

@@ -70,5 +70,5 @@ Amendment by Pub. L. 113–37 effective Oct. 1, 2013, see section 4(a) of Pub. L
 
 #### Study of Outcome Effectiveness of Grant Program for Homeless Veterans With Special Needs
 
-Pub. L. 107–95, §7, Dec. 21, 2001, 115 Stat. 919, required the Secretary of Veterans Affairs to conduct a study of the effectiveness during fiscal year 2002 through fiscal year 2004 of the grant program under this section in meeting the needs of homeless veterans with special needs and to submit to Congress a report on the study not later than Mar. 31, 2005.
+Pub. L. 107–95, §7, Dec. 21, 2001, 115 Stat. 919, required the Secretary of Veterans Affairs to conduct a study ofthe effectiveness during fiscal year 2002 through fiscal year 2004 of the grant program under this section in meeting the needs of homeless veterans with special needs and to submit to Congress a report on the study not later than Mar. 31, 2005.
 

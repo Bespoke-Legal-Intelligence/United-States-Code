@@ -12,7 +12,7 @@
 
 #### (b) Privacy safeguards
 
-The Security Executive Agent and the Suitability and Credentialing Executive Agent shallensure that the Program includes such safeguards for privacy as the Security Executive Agent and the Suitability and Credentialing Executive Agent consider appropriate.
+The Security Executive Agent and the Suitability and Credentialing Executive Agent shall ensure that the Program includes such safeguards for privacy as the Security Executive Agent and the Suitability and Credentialing Executive Agent consider appropriate.
 
 #### (c) Provision of information to the Federal Government
 
@@ -80,6 +80,8 @@ Not later than 1 year after December 20, 2019, the Security Executive Agent and 
 
 (Pub. L. 116–92, div. E, title LXVI, §6611, Dec. 20, 2019, 133 Stat. 2218.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Trusted Information Provider Program for National Security Positions and Positions of Trust
 
 Pub. L. 115–232, div. A, title IX, §941, Aug. 13, 2018, 132 Stat. 1941, provided that:
@@ -94,7 +96,7 @@ Privacy Safeguards.—The Security Executive Agent and the Suitability/Credentia
 
 "(c)
 
-Provision of Information to the Federal Government.—The program required by subsection (a) shall include requirements that enable Investigative Service Providers and agencies of the Federal Government to leverage certain pre-employment information gathered during the employment or military recruiting process, and other relevant security or human resources information obtained during employment with or for the Federal Government, that satisfy Federal investigative standards, while safeguarding personnel privacy.
+Provision of Information to the Federal Government.—The program required by subsection (a)shall include requirements that enable Investigative Service Providers and agencies of the Federal Government to leverage certain pre-employment information gathered during the employment or military recruiting process, and other relevant security or human resources information obtained during employment with or for the Federal Government, that satisfy Federal investigative standards, while safeguarding personnel privacy.
 
 "(d)
 

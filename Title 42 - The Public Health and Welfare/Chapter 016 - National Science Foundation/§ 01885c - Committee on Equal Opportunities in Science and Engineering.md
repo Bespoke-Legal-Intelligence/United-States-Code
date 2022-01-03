@@ -26,6 +26,8 @@ Every 2 years, the Committee shall prepare and submit to the Director a report o
 
 (Pub. L. 96–516, §36, Dec. 12, 1980, 94 Stat. 3012; Pub. L. 99–159, title I, §111(b)(8), Nov. 22, 1985, 99 Stat. 893; Pub. L. 100–570, title I, §105(c), Oct. 31, 1988, 102 Stat. 2868; Pub. L. 105–207, title II, §202(d)(2), July 29, 1998, 112 Stat. 874; Pub. L. 114–329, title III, §313, Jan. 6, 2017, 130 Stat. 3014.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 1885 to 1885d of this title, referred to in subsec. (a), was in the original "this Act", meaning sections 31 et seq. of Pub. L. 96–516, as amended, known as the Science and Engineering Equal Opportunities Act, which enacted sections 1885 to 1885d of this title and provisions set out as notes under sections 1861 and 1885 of this title. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 1861 of this title and Tables.
@@ -42,7 +44,7 @@ Section was enacted as part of the Science and Engineering Equal Opportunities A
 
 Subsec. (b). Pub. L. 105–207, §202(d)(2)(B), struck out "with the concurrence of the National Science Board" after "the Director" and substituted "In addition, the Chairman of the National Science Board may designate a member of the Board as a member of the Committee." for "The Chairperson of the National Science Board Committee on Minorities and Women shall be an ex officio member of the Committee."
 
-Subsec. (c). Pub. L. 105–207, §202(d)(2)(C), (D), added subsec. (c) and struck out former subsec. (c) which read as follows: "There shall be a subcommittee of the Committee which shall be known as the Subcommittee onWomen in Science and Engineering. The Subcommittee on Women in Science and Engineering shall have responsibility for all Committee matters relating to (1) the participation in and opportunities for the education, training, and research of women in science and engineering and (2) the impact of science and engineering on women. The Subcommittee shall be composed of all the women members of the Committee and such other members of the Committee as the Committee may designate."
+Subsec. (c). Pub. L. 105–207, §202(d)(2)(C), (D), added subsec. (c) and struck out former subsec. (c) which readas follows: "There shall be a subcommittee of the Committee which shall be known as the Subcommittee on Women in Science and Engineering. The Subcommittee on Women in Science and Engineering shall have responsibility for all Committee matters relating to (1) the participation in and opportunities for the education, training, and research of women in science and engineering and (2) the impact of science and engineering on women. The Subcommittee shall be composed of all the women members of the Committee and such other members of the Committee as the Committee may designate."
 
 Subsec. (d). Pub. L. 105–207, §202(d)(2)(F), struck out "additional" after "organize such".
 
@@ -57,6 +59,8 @@ Subsecs. (e), (f). Pub. L. 105–207, §202(d)(2)(E), redesignated subsec. (f) a
 Subsec. (a). Pub. L. 99–159 substituted "Engineering" for "Technology" and "scientific, engineering, and professional" for "scientific engineering, professional, and technical".
 
 Subsecs. (c), (d). Pub. L. 99–159, §111(b)(8)(A), substituted "Engineering" for "Technology" and "engineering" for "technology" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Advisory Committees
 

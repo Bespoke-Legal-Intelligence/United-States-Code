@@ -32,7 +32,7 @@ The information required under paragraphs (1) and (2) of subsection (b) shall be
 
 If United States Armed Forces are introduced into hostilities, or into situations where imminent involvement in hostilities is clearly indicated by the circumstances, against any country, organization, or person pursuant to statutory or constitutional authorities other than Authorization for Use of Military Force, the President shall comply with the reporting requirements under—
 
-&emsp;(1) this section to the same extent and in the same manner as if such actions had been taken under Authorization for Use of Military Force;
+&emsp;(1) this section to the same extent and in the same manner as if such actions had beentaken under Authorization for Use of Military Force;
 
 &emsp;(2) the War Powers Resolution (50 U.S.C. 1541 et seq.); and
 
@@ -44,6 +44,8 @@ At least once during each 180-day period described in subsection (a), the Presid
 
 (Pub. L. 116–92, div. A, title XII, §1285, Dec. 20, 2019, 133 Stat. 1709.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Authorization for Use of Military Force, referred to in text, is Pub. L. 107–40, Sept. 18, 2001, 115 Stat. 224, which is set out as a note under section 1541 of this title.
@@ -54,7 +56,23 @@ The War Powers Resolution, referred to in subsec. (d)(2), is Pub. L. 93–148, N
 
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2020, and not as part of the War Powers Resolution which comprises this chapter.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### "Congressional Defense Committees" Defined
 
 Congressional defense committees means the Committees on Armed Services and Appropriations of the Senate and the House of Representatives, see section 3 of Pub. L. 116–92, 133 Stat. 1231. See note under section 101 of Title 10, Armed Forces.
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Authority Under Section 1285 of the National Defense Authorization Act for Fiscal Year 2020
+
+Memorandum of President of the United States, July 19, 2021, 86 F.R. 39939, provided:
+
+Memorandum for the Secretary of Defense
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, I hereby delegate to the Secretary of Defense the authority and functions vested in the President by section 1285(a) through (e) of Public Law 116–92 \[50 U.S.C. 1550(a) to (e)\] on the use of military force and support of partner forces to the Congress.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

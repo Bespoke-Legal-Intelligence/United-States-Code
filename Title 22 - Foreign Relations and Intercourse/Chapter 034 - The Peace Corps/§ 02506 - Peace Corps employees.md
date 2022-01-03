@@ -102,7 +102,7 @@ Subsec. (a)(5), (6). Pub. L. 99–83, §1103(a)(2), added pars. (5) and (6).
 
 <b>1984</b>—Subsec. (a)(2). Pub. L. 98–473 inserted provision that subparagraphs (A) and (B) do not apply with respect to foreign national employees.
 
-<b>1980</b>—Subsec. (a)(1). Pub. L. 96–465, §2202(b)(1)(A), substituted "which are not authorized to utilize the Foreign Service personnel system, who shall receive compensation at any of the rates established under section 402 or 403 of the Foreign Service Act of 1980" for ", who shall receive compensation at any of the rates provided for persons appointed to the Foreign Service Reserve and Staff under the Foreign Service Act of 1946, as amended (22 U.S.C. 801 et seq.)" and "section 310" for "section 528" and struck out reference to the applicability of section 1005 of the Foreign Service Act of 1946.
+<b>1980</b>—Subsec. (a)(1). Pub. L. 96–465, §2202(b)(1)(A), substituted "which are not authorized to utilize the Foreign Service personnel system, who shall receive compensation at any of the rates established under section 402 or 403 of the Foreign Service Act of 1980" for ", who shall receive compensation at any of the rates provided for persons appointed to the Foreign Service Reserve and Staff under the Foreign Service Act of 1946, as amended (22 U.S.C. 801 et seq.)" and "section 310" for"section 528" and struck out reference to the applicability of section 1005 of the Foreign Service Act of 1946.
 
 Subsec. (a)(2). Pub. L. 96–465, §2202(b)(1)(B), among other changes, substituted references to the Foreign Service Act of 1980 for references to the Foreign Service Act of 1946 and references to class 9 for class 10, and inserted provision relating to section 206(a)(1) of title 29.
 
@@ -124,7 +124,7 @@ Subsecs. (d), (e). Pub. L. 89–134, §4(c), (d), redesignated subsecs. (d) and 
 
 <b>1963</b>—Subsec. (b). Pub. L. 88–200 struck out "so" before "employed".
 
-<b>1962</b>—Subsec. (b). Pub. L. 87–793 substituted "but not in excess of the highest grade 18 of such general schedule" for "and of these not to exceed two may be compensated at a rate in excess of the highest rate providedfor grades of such general schedule but not in excess of $19,000 per year".
+<b>1962</b>—Subsec. (b). Pub. L. 87–793 substituted "but not in excess of the highest grade 18 of such general schedule" for "and of these not to exceed two may be compensated at a rate in excess of the highest rate provided for grades of such general schedule but not in excess of $19,000 per year".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

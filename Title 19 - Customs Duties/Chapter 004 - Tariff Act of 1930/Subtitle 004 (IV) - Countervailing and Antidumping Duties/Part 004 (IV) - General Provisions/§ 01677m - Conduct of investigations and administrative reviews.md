@@ -70,7 +70,7 @@ If the administering authority or the Commission declines to accept into the rec
 
 #### (g) Public comment on information
 
-Information that is submitted on a timely basis to the administering authority or the Commission during the course of a proceeding under this subtitle shall be subject to comment by other parties to the proceeding within such reasonable time as the administering authority or the Commission shall provide. The administering authority and the Commission, before making a final determination under section 1671d, 1673d, 1675, or 1675b of this title shall cease collecting information and shall provide the parties with a final opportunity to comment on the information obtained by the administering authority or the Commission (as the case may be) upon which the parties have not previously had an opportunity to comment. Comments containing new factual information shall be disregarded.
+Information that is submitted on a timely basis to the administering authority or the Commission during the course of a proceeding under this subtitle shall be subject to comment by other parties to the proceeding within such reasonable time as the administering authority or the Commission shall provide. The administering authority and the Commission, before making a final determination under section 1671d, 1673d, 1675, or 1675b of this title shall cease collecting information and shall provide the parties with a final opportunity to comment on the information obtained by the administering authority or the Commission (as the case may be) upon which the parties have not previously hadan opportunity to comment. Comments containing new factual information shall be disregarded.
 
 #### (h) Termination of investigation or revocation of order for lack of interest
 
@@ -96,9 +96,13 @@ The administering authority shall verify all information relied upon in making�
 
 (June 17, 1930, ch. 497, title VII, §782, as added Pub. L. 103–465, title II, §231(a), Dec. 8, 1994, 108 Stat. 4893; amended Pub. L. 114–27, title V, §506, June 29, 2015, 129 Stat. 386.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (a). Pub. L. 114–27 designated existing provisions as par. (1) and inserted heading, redesignated former par. (1) and subpars. (A) and (B) as subpar. (A) and cls. (i) and (ii), respectively, added par. (2), and redesignated former par. (2) as subpar. (B) of par. (1) and amended it generally. Prior to amendment, subpar. (B) of par. (1) read as follows: "the number of exporters or producers who have submitted such information is not so large that individual examination of such exporters or producers would be unduly burdensome and inhibit the timely completion of the investigation."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

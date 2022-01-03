@@ -60,7 +60,7 @@
 
 > &emsp;except that if a parent fails to provide the notice required under paragraph (1)(B)(i) in timely fashion, the 60-day period under this subparagraph shall be based on the date under clause (i), irrespective of whether or not any notice under paragraph (1)(B)(ii) is provided.
 
-(d)(1)(A) Except as provided in paragraphs (4), (5), and (6), an individual receiving continued coverage under this section shall be required to pay currently into the Employees Health Benefits Fund, under arrangements satisfactory to the Office, an amount equal to the sum of—
+(d)(1)(A) Except as provided in paragraphs (4), (5), and (6), an individual receiving continuedcoverage under this section shall be required to pay currently into the Employees Health Benefits Fund, under arrangements satisfactory to the Office, an amount equal to the sum of—
 
 &emsp;(i) the employee and agency contributions which would be required in the case of an employee enrolled in the same health benefits plan and level of benefits; and
 
@@ -118,11 +118,11 @@
 
 &emsp;(i) identified in pre-reduction-in-force planning as no longer required, and which is expected to be eliminated under formal reduction-in-force procedures as a result of the termination of the Space Shuttle Program; or
 
-&emsp;(ii) encumbered by an employee who has received official certification from the National Aeronautics and Space Administration consistent with the Administration's career transition assistance program regulations that theposition is being abolished as a result of the termination of the Space Shuttle Program.
+&emsp;(ii) encumbered by an employee who has received official certification from the National Aeronautics and Space Administration consistent with the Administration's career transition assistance program regulations that the position is being abolished as a result of the termination of the Space Shuttle Program.
 
 (e)(1) Continued coverage under this section may not extend beyond—
 
-&emsp;(A) in the case of an individual whose continued coverage is based on separation from service, the date which is 18 months after the effective date of the separation;
+&emsp;(A) in the case of an individual whose continued coverage is based on separation fromservice, the date which is 18 months after the effective date of the separation;
 
 &emsp;(B) in the case of an individual whose continued coverage is based on ceasing to meet the requirements for being considered an unmarried dependent child, the date which is 36 months after the date on which the individual first ceases to meet those requirements, subject to paragraph (2); or
 

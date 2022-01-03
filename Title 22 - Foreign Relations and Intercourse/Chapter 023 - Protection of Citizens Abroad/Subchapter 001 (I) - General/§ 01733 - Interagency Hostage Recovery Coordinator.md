@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) Coordinate activities of the Federal Government relating to each hostage situation described in paragraph (1) to ensure efforts to secure the release of hostages are properly resourced and correct lines of authority are established and maintained.
 
-&emsp;&emsp;(B) Chair a fusion cell consisting of appropriate personnel of the Federal Government with purview over each hostage situation described in paragraph (1).
+&emsp;&emsp;(B) Chair a fusion cell consisting of appropriate personnel of the Federal Governmentwith purview over each hostage situation described in paragraph (1).
 
 &emsp;&emsp;(C) Ensure sufficient representation of each Federal agency and department at each fusion cell established under subparagraph (B) and issue procedures for adjudication and appeal.
 

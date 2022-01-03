@@ -8,7 +8,7 @@ For the purposes of this chapter, the term—
 
 &emsp;(3) "subdivision" means any land which is located in any State or in a foreign country and is divided or is proposed to be divided into lots, whether contiguous or not, for the purpose of sale or lease as part of a common promotional plan;
 
-&emsp;(4) "common promotional plan" means a plan, undertaken by a single developer or a group of developers acting in concert, to offer lots for sale or lease; where such land is offered for sale by such a developer or group of developers acting in concert, and such land iscontiguous or is known, designated, or advertised as a common unit or by a common name, such land shall be presumed, without regard to the number of lots covered by each individual offering, as being offered for sale or lease as part of a common promotional plan;
+&emsp;(4) "common promotional plan" means a plan, undertaken by a single developer or a group of developers acting in concert, to offer lots for sale or lease; where such land is offered for sale by such a developer or group of developers acting in concert, and such land is contiguous or is known, designated, or advertised as a common unit or by a common name, such land shall be presumed, without regard to the number of lots covered by each individual offering, as being offered for sale or lease as part of a common promotional plan;
 
 &emsp;(5) "developer" means any person who, directly or indirectly, sells or leases, or offers to sell or lease, or advertises for sale or lease any lots in a subdivision;
 
@@ -28,6 +28,8 @@ For the purposes of this chapter, the term—
 
 (Pub. L. 90–448, title XIV, §1402, Aug. 1, 1968, 82 Stat. 590; Pub. L. 93–383, title VIII, §812(a), Aug. 22, 1974, 88 Stat. 736; Pub. L. 96–153, title IV, §401, Dec. 21, 1979, 93 Stat. 1122; Pub. L. 100–628, title X, §1089(a), Nov. 7, 1988, 102 Stat. 3283; Pub. L. 111–203, title X, §1098A(4), July 21, 2010, 124 Stat. 2105.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Par. (1). Pub. L. 111–203, §1098A(4)(A), added par. (1) and struck out former par. (1) which read as follows: " 'Secretary' means the Secretary of Housing and Urban Development;".
@@ -43,6 +45,8 @@ Pars. (4) to (11). Pub. L. 96–153 added par. (4) and redesignated former pars.
 <b>1974</b>—Par. (3). Pub. L. 93–383, §812(a)(1), inserted ", located in any State or in a foreign country" after "any land".
 
 Par. (7). Pub. L. 93–383, §812(a)(2), inserted "or between any foreign country and any State" after "States".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

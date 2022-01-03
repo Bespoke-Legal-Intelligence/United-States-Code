@@ -24,7 +24,7 @@ Congress makes the following findings:
 
 #### (2) Interagency effort
 
-&emsp;For purposes of carrying out this subsection, the Director of OSTP, in coordination with theDirector of the National Security Council and using the President's Council of Advisors on Science and Technology coordinating mechanism, shall develop an overall strategy for review by the President, with recommendations for proposed international collaborative efforts to address this challenge.
+&emsp;For purposes of carrying out this subsection, the Director of OSTP, in coordination with the Director of the National Security Council and using the President's Council of Advisors on Science and Technology coordinating mechanism, shall develop an overall strategy for review by the President, with recommendations for proposed international collaborative efforts to address this challenge.
 
 (Pub. L. 111–267, title XII, §1202, Oct. 11, 2010, 124 Stat. 2841.)
 

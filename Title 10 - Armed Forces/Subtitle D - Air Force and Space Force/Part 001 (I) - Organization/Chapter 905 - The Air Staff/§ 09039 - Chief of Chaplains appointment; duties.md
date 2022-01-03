@@ -22,6 +22,8 @@ Grade of Chief of Chaplains.—The Chief of Chaplains, while so serving, holds t
 
 (Added Pub. L. 112–239, div. A, title V, §508(a), Jan. 2, 2013, 126 Stat. 1716, §8039; amended Pub. L. 114–328, div. A, title V, §502(mm), Dec. 23, 2016, 130 Stat. 2106; renumbered §9039 and amended Pub. L. 115–232, div. A, title V, §510(c), title VIII, §§806(c), 809(a), Aug. 13, 2018, 132 Stat. 1751, 1833, 1840; Pub. L. 116–283, div. A, title IX, §923(b)(8), Jan. 1, 2021, 134 Stat. 3809.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Subsec. (a). Pub. L. 116–283 substituted "for the Air Force and the Space Force" for "in the Air Force".
@@ -35,6 +37,8 @@ Subsec. (c). Pub. L. 115–232, §510(c), added subsec. (c).
 <b>2016</b>—Subsec. (a)(1). Pub. L. 114–328, §502(mm)(1), redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: "are serving in the grade of colonel or above;".
 
 Subsec. (c). Pub. L. 114–328, §502(mm)(2), struck out subsec. (c). Text read as follows: "An officer appointed as Chief of Chaplains who holds a lower regular grade may be appointed in the regular grade of major general."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

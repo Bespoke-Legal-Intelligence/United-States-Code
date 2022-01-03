@@ -36,7 +36,9 @@ In subsection (a) the words "members of the naval service" are substituted for t
 
 In subsection (b) reference to R.S. 4813 (24 U.S.C. 6) is omitted because the Administrator of Veterans' Affairs held in Decision Number 571 (July 27, 1944) that R.S. 4813 was repealed by implication. Since this decision is binding on the Secretary of the Navy (see 38 U.S.C. 11a–2), the deductions from pension accounts authorized by R.S. 4813 may not be made.
 
-In subsection (c) the words "each retired enlisted member of the naval service" are substituted for the words "retired enlisted men" and the words "is entitled to" are substituted for the words "shall receive" to conform to terminology used throughout this title. The words "equal in value to the hospital ration" are substituted for the words "prescribed by law for enlisted men of the Regular Navy" to show that the amount of the allowance is the value of the hospital ration. The words "for each day" are inserted to make it clear that the ration allowance is credited on a daily basis. The words "under this section" are substituted for the words "in a Federal hospital in accordance with law" because this section is the only authority for the hospitalization of members of the Fleet Reserve and Fleet Marine Corps Reserve and retired enlisted members of the naval service in Federal hospitals, other than navalhospitals, under conditions entitling the members to a ration allowance. The subsistence of a member of the Fleet Reserve or Fleet Marine Corps Reserve or a retired enlisted member of the naval service while hospitalized in naval hospitals is covered by §6086 of this title.
+In subsection (c) the words "each retired enlisted member of the naval service" are substituted for the words "retired enlisted men" and the words "is entitled to" are substituted for the words "shall receive" to conform to terminology used throughout this title. The words "equal in value to the hospital ration" are substituted for the words "prescribed by law for enlisted men of the Regular Navy" to show that the amount of the allowance is the value of the hospital ration. The words "for each day" are inserted to make it clear that the ration allowance is credited on a daily basis. The words "under this section" are substituted for the words "in a Federal hospital in accordance with law" because this section is the only authority for the hospitalization of members of the Fleet Reserve and Fleet Marine Corps Reserve and retired enlisted members of the naval service in Federal hospitals, other than naval hospitals, under conditions entitling the members to a ration allowance. The subsistence of a member of the Fleet Reserve or Fleet Marine Corps Reserve or a retired enlisted member of the naval service while hospitalized in naval hospitals is covered by §6086 of this title.
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -49,6 +51,8 @@ A prior section 8281 was renumbered section 9151 of this title.
 <b>1980</b>—Subsec. (b). Pub. L. 96–513 substituted "section 4812 of the Revised Statutes (24 U.S.C. 16)" for "section 16 of title 24".
 
 <b>1958</b>—Subsec. (c). Pub. L. 85–861 repealed subsec. (c) which related to a ration allowance for members of the Fleet Reserve of the Fleet Marine Corps Reserve and retired enlisted members of the naval service.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

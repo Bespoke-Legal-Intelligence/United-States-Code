@@ -22,7 +22,7 @@ As soon as is practicable after August 13, 1981, the Corporation shall provide t
 
 #### (d) Placement
 
-The Board shall, through distribution of copies of the central register (or portions thereof) torailroads and representatives of classes or crafts of employees and through publication of employment information derived from vacancy notices filed with the Board, promote the placement of former railroad employees possessing requisite skills and experience in appropriate positions with other railroads.
+The Board shall, through distribution of copies of the central register (or portions thereof) to railroads and representatives of classes or crafts of employees and through publication of employment information derived from vacancy notices filed with the Board, promote the placement of former railroad employees possessing requisite skills and experience in appropriate positions with other railroads.
 
 #### (e) Employment applications
 

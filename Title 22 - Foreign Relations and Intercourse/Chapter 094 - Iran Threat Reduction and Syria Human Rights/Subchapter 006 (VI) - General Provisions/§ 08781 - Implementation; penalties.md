@@ -14,7 +14,7 @@ The President may exercise all authorities provided under sections 1702 and 1704
 
 #### (1) In general
 
-&emsp;The penalties provided for in subsections (b) and (c) of section 1705 of title 50 shall apply toa person that violates, attempts to violate, conspires to violate, or causes a violation of a provision specified in paragraph (2) of this subsection, or an order or regulation prescribed under such a provision, to the same extent that such penalties apply to a person that commits an unlawful act described in section 1705(a) of title 50.
+&emsp;The penalties provided for in subsections (b) and (c) of section 1705 of title 50 shall apply to a person that violates, attempts to violate, conspires to violate, or causes a violation of a provision specified in paragraph (2) of this subsection, or an order or regulation prescribed under such a provision, to the same extent that such penalties apply to a person that commits an unlawful act described in section 1705(a) of title 50.
 
 #### (2) Provisions specified
 

@@ -1,6 +1,6 @@
 ### §2005. Reports and studies for Congress
 
-The Secretary shall provide to the Committee on Science of the House of Representatives and the Committee on Energy and Natural Resources of the Senate copies of any report or study that the Department of Energy prepares at the direction of any committee of Congress relating to the methane hydrate research anddevelopment program implemented under this chapter.
+The Secretary shall provide to the Committee on Science of the House of Representatives and the Committee on Energy and Natural Resources of the Senate copies of any report or study that the Department of Energy prepares at the direction of any committee of Congress relating to the methane hydrate research and development program implemented under this chapter.
 
 (Pub. L. 106–193, §6, as added Pub. L. 109–58, title IX, §968(a), Aug. 8, 2005, 119 Stat. 898.)
 

@@ -22,15 +22,19 @@ In subsection (a) the word "receive" and the words "from individuals or others" 
 
 Subsection (b) is rewritten for clarity and to conform to a similar statement appearing in 5 U.S.C. 150s.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7222 of this title as this section.
 
-<b>2000</b>—Pub. L. 106–398 amended section catchline and text generally. Prior to amendment, section related toacceptance and administration of gifts, bequests, and loans for the benefit of the Naval Historical Center.
+<b>2000</b>—Pub. L. 106–398 amended section catchline and text generally. Prior to amendment, section related to acceptance and administration of gifts, bequests, and loans for the benefit of the Naval Historical Center.
 
 <b>1996</b>—Pub. L. 104–201, §1073(b)(2)(A), substituted "Naval Historical Center Fund" for "Office of Naval Records and History gift fund" in section catchline.
 
 Subsecs. (a), (c). Pub. L. 104–201, §1073(b)(1), substituted "Naval Historical Center" for "Office of Naval Records and History" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

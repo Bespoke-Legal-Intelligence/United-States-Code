@@ -1,6 +1,6 @@
 ### §531. Original appointments of commissioned officers
 
-(a)(1) Original appointments in the grades of second lieutenant, first lieutenant, and captain in the Regular Army, Regular Air Force, and Regular Marine Corps in the grades of ensign, lieutenant (junior grade), and lieutenant in the Regular Navy, and in the equivalent grades in the Regular Space Force shall be made by the President alone.
+(a)(1) Original appointments in the grades of second lieutenant, first lieutenant, and captain in the Regular Army, Regular Air Force, and Regular Marine Corps in the grades of ensign, lieutenant (junior grade), and lieutenant in theRegular Navy, and in the equivalent grades in the Regular Space Force shall be made by the President alone.
 
 (2) Original appointments in the grades of major, lieutenant colonel, and colonel in the Regular Army, Regular Air Force, and Regular Marine Corps in the grades of lieutenant commander, commander, and captain in the Regular Navy, and in the equivalent grades in the Regular Space Force shall be made by the President, by and with the advice and consent of the Senate.
 
@@ -9,6 +9,8 @@
 (c) Subject to the authority, direction, and control of the President, an original appointment as a commissioned officer in the Regular Army, Regular Air Force, Regular Navy, Regular Marine Corps, or Regular Space Force may be made by the Secretary of Defense in the case of a reserve commissioned officer upon the transfer of such officer from the reserve active-status list of a reserve component of the armed forces to the active-duty list of an armed force, notwithstanding the requirements of subsection (a).
 
 (Added Pub. L. 96–513, title I, §104(a), Dec. 12, 1980, 94 Stat. 2845; amended Pub. L. 97–22, §3(a), July 10, 1981, 95 Stat. 124; Pub. L. 108–375, div. A, title V, §501(a)(4), (c)(5), Oct. 28, 2004, 118 Stat. 1873, 1874; Pub. L. 116–92, div. A, title V, §501(a), Dec. 20, 2019, 133 Stat. 1343; Pub. L. 116–283, div. A, title IX, §924(b)(4)(A), (13), Jan. 1, 2021, 134 Stat. 3822, 3823.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -25,6 +27,8 @@ Subsec. (c). Pub. L. 116–283, §924(b)(4)(A), substituted "Regular Marine Corp
 Subsec. (c). Pub. L. 108–375, §501(c)(5), added subsec. (c).
 
 <b>1981</b>—Pub. L. 97–22 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 
@@ -56,13 +60,15 @@ Program Required.—(1) Not later than September 30, 1991, the Secretary of each
 
 Report on Implementation.—Not later than April 1, 1990, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the actions taken by the Secretaries of the military departments to implement the program required by this section."
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 13384. Assignment of Functions Relating to Original Appointments as Commissioned Officers and Chief Warrant Officer Appointments in the Armed Forces
 
 Ex. Ord. No. 13384, July 27, 2005, 70 F.R. 43739, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, it is hereby ordered as follows:
 
-Section 1. <i>Assignment of Functions to the Secretary of Defense</i>. The Secretary of Defense shall perform the functions of the President under the following provisions of title 10, United States Code:
+Section 1. <i>Assignment of Functions to the Secretary of Defense</i>. The Secretary of Defense shall perform thefunctions of the President under the following provisions of title 10, United States Code:
 
 (a) subsection 531(a)(1); and
 

@@ -46,7 +46,7 @@ The Commission may constitute such advisory committees as it deems advisable. Th
 
 #### (1) Power to hold hearings
 
-&emsp;The Commission, or on the authorization of the Commission, any subcommittee of two or more members of the Commission, at least one of whom shall be of each major political party, may, for the purpose of carrying out this chapter, hold such hearings and act at such times and places as the Commission or such authorized subcommittee deems advisable. Each member of the Commission shall have the power to administer oaths and affirmations in connection with the proceedings of the Commission. The holding of a hearing by the Commission or the appointment of a subcommittee to hold a hearing pursuant to this paragraph must be approved by a majority of the Commission, or by a majority of the members present at a meeting when a quorum is present.
+&emsp;The Commission, or on the authorization of the Commission, any subcommittee of two or more members of the Commission, at least one of whom shall be of each major political party,may, for the purpose of carrying out this chapter, hold such hearings and act at such times and places as the Commission or such authorized subcommittee deems advisable. Each member of the Commission shall have the power to administer oaths and affirmations in connection with the proceedings of the Commission. The holding of a hearing by the Commission or the appointment of a subcommittee to hold a hearing pursuant to this paragraph must be approved by a majority of the Commission, or by a majority of the members present at a meeting when a quorum is present.
 
 #### (2) Power to issue subpoenas
 
@@ -65,6 +65,8 @@ The Commission may constitute such advisory committees as it deems advisable. Th
 Nothing in this chapter or any other Act shall be construed as authorizing the Commission, its advisory committees, or any other person under its supervision or control to study and collect, make appraisals of, or serve as a clearinghouse for any information about laws and policies of the Federal Government or any other governmental authority in the United States, with respect to abortion.
 
 (Pub. L. 98–183, §3, Nov. 30, 1983, 97 Stat. 1302; Pub. L. 102–167, §5, Nov. 26, 1991, 105 Stat. 1101; Pub. L. 103–419, §2, Oct. 25, 1994, 108 Stat. 4339.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

@@ -6,7 +6,7 @@
 
 (B) An extension of the delimiting period applicable to an eligible veteran may be granted under subparagraph (A) of this paragraph by reason of the veteran's mental or physical disability only if the veteran submits an application for such extension to the Secretary within one year after (i) the last date of the delimiting period otherwise applicable to the veteran under paragraph (1) of this subsection, or (ii) the termination date of the period of the veteran's mental or physical disability, whichever is later.
 
-(3) When an extension of the applicable delimiting period is granted an eligible veteran underparagraph (2) of this subsection, the delimiting period with respect to such veteran shall again begin to run on the first day after such veteran's recovery from such disability on which it is reasonably feasible, as determined in accordance with regulations prescribed by the Secretary, for such veteran to initiate or resume pursuit of a program of education with educational assistance under this chapter.
+(3) When an extension of the applicable delimiting period is granted an eligible veteran under paragraph (2) of this subsection, the delimiting period with respect to such veteran shall again begin to run on the first day after such veteran's recovery from such disability on which it is reasonably feasible, as determined in accordance with regulations prescribed by the Secretary, for such veteran to initiate or resume pursuit of a program of education with educational assistance under this chapter.
 
 (4) For purposes of paragraph (1) of this subsection, a veteran's last discharge or release from active duty shall not include any discharge or release from a period of active duty of less than 90 days of continuous service unless the individual involved is discharged or released for a service-connected disability, for a medical condition which preexisted such service and which the Secretary determines is not service connected, for hardship, or as a result of a reduction in force as described in section 3011(a)(1)(A)(ii)(III) of this title.
 
@@ -14,7 +14,7 @@
 
 (2)(A) Any contributions which were made by a veteran disenrolled under paragraph (1) of this subsection and remain in the fund shall be refunded to the veteran after notice of disenrollment is transmitted to the veteran and the veteran applies for such refund.
 
-(B) If no application for refund of contributions under subparagraph (A) of this paragraph is received from a disenrolled veteran within one year after the date the notice referred to in such subparagraph is transmitted to the veteran, it shall be presumed that the veteran's whereabouts is unknown and the funds shall be transferred to the Secretary for payments for entitlement earned under subchapter II of chapter 30.
+(B) If no application for refund of contributions under subparagraph (A) of this paragraph is received from a disenrolled veteran within one year after the date the notice referred to in suchsubparagraph is transmitted to the veteran, it shall be presumed that the veteran's whereabouts is unknown and the funds shall be transferred to the Secretary for payments for entitlement earned under subchapter II of chapter 30.
 
 (c)(1) Subject to paragraph (3), the amount of educational assistance payable under this chapter for a licensing or certification test described in section 3452(b) of this title is the lesser of $2,000 or the fee charged for the test.
 
@@ -56,7 +56,7 @@ Subsec. (a)(4). Pub. L. 101–237, §420(a)(2)(A), added par. (4).
 
 <b>1983</b>—Pub. L. 98–160 struck out the comma after "title 31" and substituted "such section" for "section 1322(a)".
 
-<b>1982</b>—Pub. L. 97–258 substituted "section 1322(a) of title 31" and "section 1322(a)" for "subsection (a) ofsection 725s of title 31" and "the last proviso of that subsection", respectively.
+<b>1982</b>—Pub. L. 97–258 substituted "section 1322(a) of title 31" and "section 1322(a)" for "subsection (a) of section 725s of title 31" and "the last proviso of that subsection", respectively.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

@@ -4,6 +4,8 @@ It shall be the province and duty of said Department to foster, promote, and dev
 
 (Feb. 14, 1903, ch. 552, §3, 32 Stat. 826; Pub. L. 97–31, §12(7), Aug. 6, 1981, 95 Stat. 154.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 596 of Title 5 prior to the general revision and enactment of Title 5 by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
@@ -11,6 +13,8 @@ Section was formerly classified to section 596 of Title 5 prior to the general r
 #### Amendments
 
 <b>1981</b>—Pub. L. 97–31 struck out references to shipping and transportation facilities.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Assistance to Fishery Participants
 
@@ -41,6 +45,8 @@ Appropriations.—In addition to funds that are otherwise made available to assi
 Emergency Requirement.—The amount provided by this section is designated by the Congress as being for an emergency requirement pursuant to section 251(b)(2)(A)(i) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 901(b)(2)(A)(i)\]."
 
 \[For definition of "coronavirus" as used in section 12005 of Pub. L. 116–136, set out above, see section 23005 of Pub. L. 116–136, set out as a note under section 162b of Title 2, The Congress.\]
+
+#### <b>Executive Documents</b>
 
 #### Emergency Preparedness Functions
 
@@ -132,7 +138,7 @@ Sec. 6. <i>Global Entrepreneurship Summit</i>. (a) The Secretary of State shall 
 
 (b) State shall coordinate with Commerce, USAID, and SBA to identify and carry out programs and activities that will further the goals of the GES to the extent permitted by law and within existing appropriations.
 
-Sec. 7. <i>Accelerating Entrepreneurship and Economic Opportunity by Expanding Internet Access Globally</i>. State, in coordination with other agencies, multilateral institutions, foreign countries, and stakeholders, shall work to actively promote global Internet connectivity. Specifically, the Global Connect Initiative shall focus on encouraging foreign countries to prioritize Internet connectivity in development plans, promoting the formation of region-specific multi-sector working groups to ensure technical and regulatory best practices, and encouraging the development of digital literacy programs in developing nations.
+Sec. 7. <i>Accelerating Entrepreneurship and Economic Opportunity by Expanding Internet Access Globally</i>. State, incoordination with other agencies, multilateral institutions, foreign countries, and stakeholders, shall work to actively promote global Internet connectivity. Specifically, the Global Connect Initiative shall focus on encouraging foreign countries to prioritize Internet connectivity in development plans, promoting the formation of region-specific multi-sector working groups to ensure technical and regulatory best practices, and encouraging the development of digital literacy programs in developing nations.
 
 Sec. 8. <i>Global Connect International Connectivity Steering Group</i>. (a) In order to ensure a coordinated and consistent approach in agency implementation of the goals set forth in section 7 of this order, there is hereby established a Global Connect International Connectivity Steering Group (Steering Group), chaired by State.
 

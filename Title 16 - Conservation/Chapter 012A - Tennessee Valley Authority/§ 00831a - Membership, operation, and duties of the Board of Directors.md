@@ -176,6 +176,8 @@ In appointing members of the Board, the President shall—
 
 (May 18, 1933, ch. 32, §2, as added Pub. L. 108–447, div. C, title VI, §601, Dec. 8, 2004, 118 Stat. 2963; amended Pub. L. 110–161, div. C, title IV, §401, Dec. 26, 2007, 121 Stat. 1971.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section, act May 18, 1933, ch. 32, §2, 48 Stat. 59, related to the Directors of the Authority, prior to repeal by Pub. L. 108–447, div. C, title VI, §601, Dec. 8, 2004, 118 Stat. 2963.
@@ -183,6 +185,8 @@ A prior section, act May 18, 1933, ch. 32, §2, 48 Stat. 59, related to the Dire
 #### Amendments
 
 <b>2007</b>—Subsec. (f)(2). Pub. L. 110–161 substituted "stipends under paragraph (1)(A)" for "stipend under paragraph (1)(A)(i)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Appointments; Effective Date; Transition
 
@@ -229,6 +233,8 @@ Transition.—A person who is serving as a member of the board of directors of t
 &emsp;"(1) shall continue to serve until the end of the current term of the member; but
 
 &emsp;"(2) after the effective date specified in subsection (b), shall serve under the terms of the Tennessee Valley Authority Act of 1933 \[16 U.S.C. 831 et seq.\] (as amended by this title)."
+
+#### <b>Executive Documents</b>
 
 #### Emergency Preparedness Functions
 

@@ -56,7 +56,7 @@ A sponsor of a device may request that the Secretary designate such device for e
 
 &emsp;&emsp;(E) expedite the Secretary's review of manufacturing and quality systems compliance, as applicable;
 
-&emsp;&emsp;(F) disclose to the sponsor, not less than 5 business days in advance, the topics of any consultation the Secretary intends to undertake with external experts or an advisory committee concerning the sponsor's deviceand provide the sponsor the opportunity to recommend such external experts;
+&emsp;&emsp;(F) disclose to the sponsor, not less than 5 business days in advance, the topics of any consultation the Secretary intends to undertake with external experts or an advisory committee concerning the sponsor's device and provide the sponsor the opportunity to recommend such external experts;
 
 &emsp;&emsp;(G) provide for advisory committee input, as the Secretary determines appropriate (including in response to the request of the sponsor) for applications submitted under section 360e(c) of this title; and
 

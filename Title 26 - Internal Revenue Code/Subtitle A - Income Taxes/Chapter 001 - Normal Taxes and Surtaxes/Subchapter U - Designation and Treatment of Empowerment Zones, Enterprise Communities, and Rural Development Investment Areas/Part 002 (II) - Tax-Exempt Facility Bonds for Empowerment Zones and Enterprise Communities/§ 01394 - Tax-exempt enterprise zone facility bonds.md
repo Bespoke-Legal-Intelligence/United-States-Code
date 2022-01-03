@@ -50,7 +50,7 @@ For purposes of this section—
 
 #### (iii) Reduced requirements after testing period
 
-&emsp;&emsp;&emsp;A business shall not fail to be treated as an enterprise zone business for any taxable year beginning after the testing period by reason of failing to meet any requirement of subsection (b) or (c) of section 1397C if at least 35 percent of the employees of such business for such year are residents of an empowerment zone, an enterprise community, or a qualified low-income community within an applicable nominating jurisdiction. The preceding sentence shall not apply to any business which is not a qualified business by reason of paragraph (1), (4), or (5) of section 1397C(d).
+&emsp;&emsp;&emsp;A business shall not fail to be treated as an enterprise zone business for any taxableyear beginning after the testing period by reason of failing to meet any requirement of subsection (b) or (c) of section 1397C if at least 35 percent of the employees of such business for such year are residents of an empowerment zone, an enterprise community, or a qualified low-income community within an applicable nominating jurisdiction. The preceding sentence shall not apply to any business which is not a qualified business by reason of paragraph (1), (4), or (5) of section 1397C(d).
 
 #### (C) Qualified low-income community
 
@@ -202,9 +202,11 @@ The requirements of sections 147(c)(1)(A) and 147(d) shall not apply to any bond
 
 (Added Pub. L. 103–66, title XIII, §13301(a), Aug. 10, 1993, 107 Stat. 548; amended Pub. L. 104–188, title I, §1703(n)(7), Aug. 20, 1996, 110 Stat. 1877; Pub. L. 105–34, title IX, §§953(a), 955(a), (b), Aug. 5, 1997, 111 Stat. 887, 889, 890; Pub. L. 106–554, §1(a)(7) \[title I, §§115(a), 116(b)(3), (4)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–601, 2763A–603; Pub. L. 107–147, title IV, §417(16), Mar. 9, 2002, 116 Stat. 56; Pub. L. 113–295, div. A, title II, §220(o), (p), Dec. 19, 2014, 128 Stat. 4036; Pub. L. 114–113, div. Q, title I, §171(b)–(d), Dec. 18, 2015, 129 Stat. 3070, 3071; Pub. L. 115–141, div. U, title IV, §401(a)(195), Mar. 23, 2018, 132 Stat. 1193.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-Section 103(20) of the Riegle Community Development and Regulatory Improvement Act of 1994, referredto in subsec. (b)(3)(C)(ii), is classified to section 4702(20) of Title 12, Banks and Banking.
+Section 103(20) of the Riegle Community Development and Regulatory Improvement Act of 1994, referred to in subsec. (b)(3)(C)(ii), is classified to section 4702(20) of Title 12, Banks and Banking.
 
 #### Prior Provisions
 
@@ -255,6 +257,8 @@ Subsec. (b)(3). Pub. L. 105–34, §955(b), amended heading and text of par. (3)
 Subsec. (f). Pub. L. 105–34, §953(a), added subsec. (f).
 
 <b>1996</b>—Subsec. (e)(2). Pub. L. 104–188, which directed that par. (2) be amended by striking "(i)" and inserting "(A)" and by striking "(ii)" and inserting "(B)", could not be executed, because par. (2) contained neither "(i)" nor "(ii)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

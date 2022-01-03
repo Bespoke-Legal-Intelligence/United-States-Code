@@ -32,7 +32,7 @@
 
 &emsp;&emsp;&emsp;(i) which is effectively controlled (directly or indirectly) by the same person or persons who control the private foundation in question, or
 
-&emsp;&emsp;&emsp;(ii) substantially all of the contributions to which were made (directly or indirectly) by the same person or persons described in subparagraph (A), (B), or (C), or members of their families (within the meaning of subsection (d)), who made (directly or indirectly) substantially all of the contributions to the private foundation in question, and
+&emsp;&emsp;&emsp;(ii) substantially all of the contributions to which were made (directly or indirectly)by the same person or persons described in subparagraph (A), (B), or (C), or members of their families (within the meaning of subsection (d)), who made (directly or indirectly) substantially all of the contributions to the private foundation in question, and
 
 &emsp;&emsp;(I) only for purposes of section 4941, a government official (as defined in subsection (c)).
 
@@ -84,6 +84,8 @@ For purposes of subsection (a)(1), the family of any individual shall include on
 
 (Added Pub. L. 91–172, title I, §101(b), Dec. 30, 1969, 83 Stat. 515; amended Pub. L. 95–227, §4(c)(2)(B), Feb. 10, 1978, 92 Stat. 22; Pub. L. 98–369, div. A, title III, §306(a), July 18, 1984, 98 Stat. 784; Pub. L. 99–514, title XVI, §1606(a), Oct. 22, 1986, 100 Stat. 2771; Pub. L. 105–206, title I, §1101(c)(1), July 22, 1998, 112 Stat. 696; Pub. L. 106–554, §1(a)(7) \[title III, §319(16)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–647.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Subsec. (c)(3)(B). Pub. L. 106–554 substituted "the lowest rate of basic pay for the Senior Executive Service under section 5382" for "the lowest rate of compensation prescribed for GS–16 of the General Schedule under section 5332".
@@ -96,6 +98,8 @@ For purposes of subsection (a)(1), the family of any individual shall include on
 
 <b>1978</b>—Subsecs. (a)(1), (b). Pub. L. 95–227 substituted "subchapter" for "chapter".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1986 Amendment
 
 Pub. L. 99–514, title XVI, §1606(b), Oct. 22, 1986, 100 Stat. 2771, provided that: "The amendment made by this section \[amending this section\] shall apply to compensation received after December 31, 1985."
@@ -106,5 +110,5 @@ Pub. L. 98–369, div. A, title III, §306(c), July 18, 1984, 98 Stat. 784, prov
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–227 applicable with respect to contributions, acts, and expenditures made after Dec. 31, 1977, in and for taxable years beginning after such date, see section 4(f) of Pub. L. 95–227, set out as an Effective Date note under section 192 of this title.
+Amendment by Pub. L. 95–227 applicable with respect to contributions, acts, and expenditures made afterDec. 31, 1977, in and for taxable years beginning after such date, see section 4(f) of Pub. L. 95–227, set out as an Effective Date note under section 192 of this title.
 

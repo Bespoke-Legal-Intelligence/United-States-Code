@@ -36,7 +36,7 @@ No part of the financial resources, income, or assets of the Institute or of any
 
 The Institute shall not make loans to its directors, officers, employees, or agents, or to any legal entity created by the Institute. A director, officer, employee, or agent who votes for or assents to the making of a loan or who participates in the making of a loan shall be jointly and severally liable to the Institute for the amount of the loan until repayment thereof.
 
-(Pub. L. 98–525, title XVII, §1707, Oct. 19, 1984, 98 Stat. 2656; Pub. L. 100–569, title III, §301(b), Oct.31, 1988, 102 Stat. 2864; Pub. L. 101–520, title III, §319(c), Nov. 5, 1990, 104 Stat. 2285; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(c)(2), Oct. 21, 1998, 112 Stat. 2681–773.)
+(Pub. L. 98–525, title XVII, §1707, Oct. 19, 1984, 98 Stat. 2656; Pub. L. 100–569, title III, §301(b), Oct. 31, 1988, 102 Stat. 2864; Pub. L. 101–520, title III, §319(c), Nov. 5, 1990, 104 Stat. 2285; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(c)(2), Oct. 21, 1998, 112 Stat. 2681–773.)
 
 #### <b>Editorial Notes</b>
 

@@ -76,7 +76,7 @@ In managing the National Student Loan Data System, the Secretary shall take acti
 
 &emsp;&emsp;(B) ensure that the data in the data system are not being used for marketing purposes; and
 
-&emsp;&emsp;(C) monitor the use of the data system by guaranty agencies and eligible lenders to determine whether an agency or lender is accessing the records of students in which the agency or lender has no existing financial interest; and
+&emsp;&emsp;(C) monitor the use of the data system by guaranty agencies and eligible lenders to determine whether an agency or lender is accessing the records of students in which the agency or lender has no existing financial interest;
 
 &emsp;(6) developing standardized protocols for limiting access to the data system that include—
 
@@ -84,21 +84,53 @@ In managing the National Student Loan Data System, the Secretary shall take acti
 
 &emsp;&emsp;(B) defining the steps necessary for determining whether, and how, to deny or restrict access to the data system; and
 
-&emsp;&emsp;(C) determining the steps necessary to reopen access to the data system following a denial or restriction of access.
+&emsp;&emsp;(C) determining the steps necessary to reopen access to the data system following a denial or restriction of access; and
 
-#### (e) Reports to Congress
+&emsp;(7) preventing access to the data system and any other system used to administer a program under this subchapter by any person or entity for the purpose of assisting a student in managing loan repayment or applying for any repayment plan, consolidation loan, or other benefit authorized by this subchapter, unless such access meets the requirements described in subsection (e).
+
+#### (e) Requirements for third-party data system access
+
+#### (1) In general
+
+&emsp;As provided in paragraph (7) of subsection (d), an authorized person or entity described in paragraph (2) may access the data system and any other system used to administer a program under this subchapter if that access—
+
+&emsp;&emsp;(A) is in compliance with terms of service, information security standards, and a code of conduct which shall be established by the Secretary and published in the Federal Register;
+
+&emsp;&emsp;(B) is obtained using an access device (as defined in section 1029(e)(1) of title 18) issued by the Secretary to the authorized person or entity; and
+
+&emsp;&emsp;(C) is obtained without using any access device (as defined in section 1029(e)(1) of title 18) issued by the Secretary to a student, borrower, or parent.
+
+#### (2) Authorized person or entity
+
+&emsp;An authorized person or entity described in this paragraph means—
+
+&emsp;&emsp;(A) a guaranty agency, eligible lender, or eligible institution, or a third-party organization acting on behalf of a guaranty agency, eligible lender, or eligible institution, that is in compliance with applicable Federal law (including regulations and guidance); or
+
+&emsp;&emsp;(B) a licensed attorney representing a student, borrower, or parent, or another individual who works for a Federal, State, local, or Tribal government or agency, or for a nonprofit organization, providing financial or student loan repayment counseling to a student, borrower, or parent, if—
+
+&emsp;&emsp;&emsp;(i) that attorney or other individual has never engaged in unfair, deceptive, or abusive practices, as determined by the Secretary;
+
+&emsp;&emsp;&emsp;(ii) that attorney or other individual does not work for an entity that has engaged in unfair, deceptive, or abusive practices (including an entity that is owned or operated by a person or entity that engaged in such practices), as determined by the Secretary;
+
+&emsp;&emsp;&emsp;(iii) system access is provided only through a separate point of entry; and
+
+&emsp;&emsp;&emsp;(iv) the attorney or other individual has consent from the relevant student, borrower, or parent to access the system.
+
+#### (f) Reports to Congress
 
 #### (1) Annual report
 
 &emsp;Not later than September 30 of each fiscal year, the Secretary shall prepare and submit to the authorizing committees a report describing—
 
-&emsp;&emsp;(A) the effectiveness of existing privacy safeguards in protecting student and parent information in the data system;
+&emsp;&emsp;(A) the effectiveness of existing privacy safeguards in protecting student, borrower, and parent information in the data system;
 
 &emsp;&emsp;(B) the success of any new authorization protocols in more effectively preventing abuse of the data system;
 
-&emsp;&emsp;(C) the ability of the Secretary to monitor how the system is being used, relative to the intended purposes of the data system; and
+&emsp;&emsp;(C) the reduction in improper data system access as described in subsection (d)(7);
 
-&emsp;&emsp;(D) any protocols developed under subsection (d)(6) during the preceding fiscal year.
+&emsp;&emsp;(D) the ability of the Secretary to monitor how the system is being used, relative to the intended purposes of the data system; and
+
+&emsp;&emsp;(E) any protocols, codes of conduct, terms of service, or information security standards developed under paragraphs <sup>1</sup> (6) or (7) of subsection (d) during the preceding fiscal year.
 
 #### (2) Study
 
@@ -114,11 +146,11 @@ In managing the National Student Loan Data System, the Secretary shall take acti
 
 &emsp;&emsp;Not later than three years after August 14, 2008, the Secretary shall prepare and submit a report on the findings of the study under subparagraph (A) to the authorizing committees.
 
-#### (f) Standardization of data reporting
+#### (g) Standardization of data reporting
 
 #### (1) In general
 
-&emsp;The Secretary shall by regulation prescribe standards and procedures (including relevant definitions) that require all lenders and guaranty agencies to report information on all aspects of loans made under this subchapter in uniform formats in order to permit the directcomparison of data submitted by individual lenders, servicers or guaranty agencies.
+&emsp;The Secretary shall by regulation prescribe standards and procedures (including relevant definitions) that require all lenders and guaranty agencies to report information on all aspects of loans made under this subchapter in uniform formats in order to permit the direct comparison of data submitted by individual lenders, servicers or guaranty agencies.
 
 #### (2) Activities
 
@@ -130,7 +162,7 @@ In managing the National Student Loan Data System, the Secretary shall take acti
 
 &emsp;&emsp;(C) publish the specifications selected to be used to encourage the automation of exchanges of information between all parties involved in loans under this subchapter.
 
-#### (g) Common identifiers
+#### (h) Common identifiers
 
 The Secretary shall, not later than July 1, 1993—
 
@@ -138,67 +170,13 @@ The Secretary shall, not later than July 1, 1993—
 
 &emsp;(2) modify the design or operation of the system authorized by this section to ensure that data relating to any institution is readily accessible and can be used in a form compatible with the integrated postsecondary education data system (IPEDS).
 
-#### (h) Integration of databases
+#### (i) Integration of databases
 
 The Secretary shall integrate the National Student Loan Data System with the Pell Grant applicant and recipient databases as of January 1, 1994, and any other databases containing information on participation in programs under this subchapter.
 
 (Pub. L. 89–329, title IV, §485B, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1486; amended Pub. L. 100–50, §15(13), June 3, 1987, 101 Stat. 357; Pub. L. 101–239, title II, §2008, Dec. 19, 1989, 103 Stat. 2121; Pub. L. 101–610, title II, §204, Nov. 16, 1990, 104 Stat. 3172; Pub. L. 102–325, title IV, §487, July 23, 1992, 106 Stat. 623; Pub. L. 103–208, §2(h)(38)–(41), Dec. 20, 1993, 107 Stat. 2478; Pub. L. 105–244, title IV, §487, Oct. 7, 1998, 112 Stat. 1746; Pub. L. 110–315, title IV, §489, Aug. 14, 2008, 122 Stat. 3303; Pub. L. 111–39, title IV, §407(b)(7), July 1, 2009, 123 Stat. 1952; Pub. L. 116–251, §4, Dec. 22, 2020, 134 Stat. 1130.)
 
-#### Amendment of Section
-
-<i>Pub. L. 116–251, §§4, 6, Dec. 22, 2020, 134 Stat. 1130, 1132, provided that, effective 180 days after Dec. 22, 2020, this section is amended as follows:</i>
-
-<i>(1) in subsection (d), by striking "and" after the semicolon in paragraph (5)(C), by striking the period at the end of paragraph (6)(C) and inserting "; and", and by adding at the end the following:</i>
-
-&emsp;<i>"(7) preventing access to the data system and any other system used to administer a program under this subchapter by any person or entity for the purpose of assisting a student in managing loan repayment or applying for any repayment plan, consolidation loan, or other benefit authorized by this subchapter, unless such access meets the requirements described in subsection (e).";</i>
-
-<i>(2) by redesignating subsections (e) through (h) as subsections (f) through (i), respectively;</i>
-
-<i>(3) by inserting after subsection (d) the following:</i>
-
-#### <i>"(e) Requirements for third-party data system access</i>
-
-#### <i>"(1) In general</i>
-
-&emsp;<i>"As provided in paragraph (7) of subsection (d), an authorized person or entity described in paragraph (2) may access the data system and any other system used to administer a program under this subchapter if that access—</i>
-
-&emsp;&emsp;<i>"(A) is in compliance with terms of service, information security standards, and a code of conduct which shall be established by the Secretary and published in the Federal Register;</i>
-
-&emsp;&emsp;<i>"(B) is obtained using an access device (as defined in section 1029(e)(1) of title 18) issued by the Secretary to the authorized person or entity; and</i>
-
-&emsp;&emsp;<i>"(C) is obtained without using any access device (as defined in section 1029(e)(1) of title 18) issued by the Secretary to a student, borrower, or parent.</i>
-
-#### <i>"(2) Authorized person or entity</i>
-
-&emsp;<i>"An authorized person or entity described in this paragraph means—</i>
-
-&emsp;&emsp;<i>"(A) a guaranty agency, eligible lender, or eligible institution, or a third-party organization acting on behalf of a guaranty agency, eligible lender, or eligible institution, that is in compliance with applicable Federal law (including regulations and guidance); or</i>
-
-&emsp;&emsp;<i>"(B) a licensed attorney representing a student, borrower, or parent, or another individual who works for a Federal, State, local, or Tribal government or agency, or for a nonprofit organization, providing financial or student loan repayment counseling to a student, borrower, or parent, if—</i>
-
-&emsp;&emsp;&emsp;<i>"(i) that attorney or other individual has never engaged in unfair, deceptive, or abusive practices, as determined by the Secretary;</i>
-
-&emsp;&emsp;&emsp;<i>"(ii) that attorney or other individual does not work for an entity that has engaged in unfair, deceptive, or abusive practices (including an entity that is owned or operated by a person or entity that engaged in such practices), as determined by the Secretary;</i>
-
-&emsp;&emsp;&emsp;<i>"(iii) system access is provided only through a separate point of entry; and</i>
-
-&emsp;&emsp;&emsp;<i>"(iv) the attorney or other individual has consent from the relevant student, borrower, or parent to access the system."; and</i>
-
-<i>(4) in subsection (f)(1), as redesignated:</i>
-
-<i>(A) in subparagraph (A), by striking "student and parent" and inserting "student, borrower, and parent";</i>
-
-<i>(B) by redesignating subparagraphs (C) and (D) as subparagraphs (D) and (E), respectively;</i>
-
-<i>(C) by inserting after subparagraph (B) the following:</i>
-
-&emsp;&emsp;<i>"(C) the reduction in improper data system access as described in subsection (d)(7);"; and</i>
-
-<i>(D) by striking subparagraph (E), as redesignated, and inserting the following:</i>
-
-&emsp;&emsp;<i>"(E) any protocols, codes of conduct, terms of service, or information security standards developed under paragraphs (6) or (7) of subsection (d) during the preceding fiscal year."</i>
-
-<i>See 2020 Amendment notes below.</i>
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -266,6 +244,8 @@ Subsec. (b)(2)(D). Pub. L. 100–50, §15(13)(B), substituted "of any borrower" 
 
 Subsec. (b)(3). Pub. L. 100–50, §15(13)(C), substituted "public agency" for "Federal agency".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2020 Amendment
 
 Amendment by Pub. L. 116–251 effective 180 days after Dec. 22, 2020, see section 6 of Pub. L. 116–251, set out as a note under section 1018 of this title.
@@ -285,4 +265,6 @@ Amendment by Pub. L. 103–208 effective as if included in the Higher Education 
 #### Effective Date of 1987 Amendment
 
 Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

@@ -54,7 +54,7 @@ The President is further authorized to provide for the establishment and trainin
 
 #### (f) Use of confidential information for speculation
 
-Whoever, being an officer or employee of the United States or any department or agency thereof (including any Member of the Senate or House of Representatives), receives, by virtue of his office or employment, confidential information, and (1) uses such information in speculating directly or indirectly on any commodity exchange, or (2) discloses such information for the purpose of aiding any other person so to speculate, shall be fined not more than $10,000 or imprisoned not more than one year, or both. As used in this section, the term "speculate" shall not include a legitimate hedging transaction, or a purchase or sale which is accompanied by actual delivery of the commodity.
+Whoever, being an officer or employee of the United States or any department or agency thereof (including any Member of the Senate or House of Representatives), receives, by virtue of his office or employment, confidential information, and (1) uses such information in speculating directly or indirectly on any commodity exchange, or (2) discloses such information for the purpose of aiding any other person so to speculate, shall be fined not more than $10,000 or imprisoned not more than one year, or both. Asused in this section, the term "speculate" shall not include a legitimate hedging transaction, or a purchase or sale which is accompanied by actual delivery of the commodity.
 
 #### (g) Printing and distribution of reports
 
@@ -65,6 +65,8 @@ The President, when he deems such action necessary, may make provision for the p
 #### Termination of Section
 
 <i>For termination of section, see section 4564(a) of this title.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -112,6 +114,8 @@ Subsecs. (e) to (g). Act Aug. 9, 1955, §8, added subsec. (e) and redesignated f
 
 <b>1951</b>—Subsec. (f). Act July 31, 1951, added subsec. (f).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–558 deemed to have become effective Mar. 1, 1992, see section 304 of Pub. L. 102–558, set out as a note under section 4502 of this title.
@@ -123,6 +127,8 @@ Amendment by Pub. L. 94–152 effective at close of Nov. 30, 1975, see section 9
 #### Effective Date of 1955 Amendments
 
 Amendment by act Aug. 9, 1955, effective as of close of July 31, 1955, see section 11 of act Aug. 9, 1955, set out as a note under section 4502 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

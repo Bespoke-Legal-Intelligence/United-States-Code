@@ -2,7 +2,7 @@
 
 (a)
 
-Cap on Headquarters Management Personnel.—The total number of members of the armed forces and civilian employees assigned or detailed to permanent duty in the management headquarters activities or management headquarters support activities in the Defense Agencies and Department of Defense Field Activities may not exceed the number that is the number of such members and employees assigned or detailed to such duty on September 30, 1989.
+Cap on Headquarters Management Personnel.—The total number of members of the armed forces and civilian employees assigned or detailed to permanent duty in the managementheadquarters activities or management headquarters support activities in the Defense Agencies and Department of Defense Field Activities may not exceed the number that is the number of such members and employees assigned or detailed to such duty on September 30, 1989.
 
 (b)
 
@@ -30,6 +30,8 @@ Definitions.—In this section, the terms "management headquarters activities" a
 
 (Added Pub. L. 99–433, title III, §301(a)(2), Oct. 1, 1986, 100 Stat. 1021; amended Pub. L. 100–180, div. A, title XIII, §1314(b)(3), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 101–189, div. A, title XVI, §1622(h)(1), Nov. 29, 1989, 103 Stat. 1605; Pub. L. 113–66, div. A, title IX, §906, Dec. 26, 2013, 127 Stat. 818.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2013</b>—Subsec. (f). Pub. L. 113–66 substituted "Instruction 5100.73, titled 'Major DoD Headquarters Activities'." for "Directive 5100.73, entitled 'Department of Defense Management Headquarters and Headquarters Support Activities' and dated January 7, 1985."
@@ -37,6 +39,8 @@ Definitions.—In this section, the terms "management headquarters activities" a
 <b>1989</b>—Subsecs. (a), (b). Pub. L. 101–189 substituted "The" for "After September 30, 1989, the".
 
 <b>1987</b>—Subsec. (e)(2). Pub. L. 100–180 inserted "the President or" after "declared by".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Exceptions and Adjustments to Limitations on Personnel
 
@@ -76,7 +80,7 @@ Defense Agencies and DOD Field Activities.—(1)(A) Not later than September 30,
 
 "(C) If the number of members and employees reduced under subparagraph (A) or (B) is in excess of the reduction required to be made by that subparagraph, such excess number may be applied to the number required to be reduced under paragraph (2).
 
-"(2)(A) Not later than September 30, 1988, the Secretary of Defense shall reduce the total number of members of the Armed Forces and civilian employees assigned or detailed to permanent duty in the Defense Agencies and Department of Defense Field Activities, other than members and employees assigned or detailed to duty in management headquarters activities or management headquarters support activities, by a number that is at least 5 percent of the total number of such members and employees assigned or detailed to such duty on September 30, 1986.
+"(2)(A) Not later than September 30, 1988, the Secretary of Defense shall reduce the total number of members of the Armed Forces and civilian employeesassigned or detailed to permanent duty in the Defense Agencies and Department of Defense Field Activities, other than members and employees assigned or detailed to duty in management headquarters activities or management headquarters support activities, by a number that is at least 5 percent of the total number of such members and employees assigned or detailed to such duty on September 30, 1986.
 
 "(B) Not later than September 30, 1989, the Secretary shall carry out an additional reduction in such members and employees of not less than 5 percent of the number of such members and employees assigned or detailed to such duty on September 30, 1988.
 

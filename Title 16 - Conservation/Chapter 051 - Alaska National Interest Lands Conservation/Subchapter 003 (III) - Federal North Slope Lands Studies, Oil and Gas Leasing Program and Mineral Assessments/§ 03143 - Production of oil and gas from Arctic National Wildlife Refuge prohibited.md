@@ -4,6 +4,8 @@ Production of oil and gas from the Arctic National Wildlife Refuge is prohibited
 
 (Pub. L. 96–487, title X, §1003, Dec. 2, 1980, 94 Stat. 2452.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Oil and Gas Program
 
 Pub. L. 115–97, title II, §20001, Dec. 22, 2017, 131 Stat. 2235, provided that:
@@ -46,7 +48,7 @@ Management.—Except as otherwise provided in this section, the Secretary shall 
 
 &emsp;"(4)
 
-Royalties.—Notwithstanding the Mineral Leasing Act (30 U.S.C. 181 et seq.), the royalty ratefor leases issued pursuant to this section shall be 16.67 percent.
+Royalties.—Notwithstanding the Mineral Leasing Act (30 U.S.C. 181 et seq.), the royalty rate for leases issued pursuant to this section shall be 16.67 percent.
 
 &emsp;"(5)
 

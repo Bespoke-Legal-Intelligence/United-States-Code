@@ -4,6 +4,8 @@
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1407; amended Pub. L. 96–39, title VIII, §807(a)(57), July 26, 1979, 93 Stat. 289.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 5663, act Aug. 16, 1954, ch. 736, 68A Stat. 695, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
@@ -11,6 +13,8 @@ A prior section 5663, act Aug. 16, 1954, ch. 736, 68A Stat. 695, consisted of pr
 #### Amendments
 
 <b>1979</b>—Pub. L. 96–39 struck out reference to penalties for rectified products under part I of this subchapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1979 Amendment
 

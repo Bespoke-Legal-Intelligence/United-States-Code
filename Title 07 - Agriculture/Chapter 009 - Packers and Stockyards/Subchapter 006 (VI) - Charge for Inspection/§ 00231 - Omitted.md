@@ -1,8 +1,10 @@
 ### §231. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
-Section, act July 22, 1942, ch. 516, 56 Stat. 689, was from the Department of Agriculture Appropriation Act, 1943, and provided for fees for inspection of brands appearing upon livestock. See section 217a of this title. Similar provisions were contained in the following prior appropriation acts:
+Section, act July 22, 1942, ch. 516, 56 Stat. 689, was from the Department of Agriculture Appropriation Act,1943, and provided for fees for inspection of brands appearing upon livestock. See section 217a of this title. Similar provisions were contained in the following prior appropriation acts:
 
 July 1, 1941, ch. 267, 55 Stat. 432.
 

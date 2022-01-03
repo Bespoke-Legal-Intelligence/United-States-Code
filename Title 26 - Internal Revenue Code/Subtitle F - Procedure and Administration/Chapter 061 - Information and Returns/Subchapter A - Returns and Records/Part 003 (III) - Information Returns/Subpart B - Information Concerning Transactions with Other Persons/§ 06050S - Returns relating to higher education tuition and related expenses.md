@@ -52,7 +52,7 @@ For purposes of this section—
 
 #### (d) Statements to be furnished to individuals with respect to whom information is required
 
-Every person required to make a return under subsection (a) shall furnish to each individual whose name is required to be set forth in such return under subparagraph (A) of subsection (b)(2) a written statement showing—
+Every person required to make a return under subsection (a) shall furnish to each individualwhose name is required to be set forth in such return under subparagraph (A) of subsection (b)(2) a written statement showing—
 
 &emsp;(1) the name, address, and phone number of the information contact of the person required to make such return, and
 
@@ -73,6 +73,8 @@ Except to the extent provided in regulations prescribed by the Secretary, in the
 The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this section. No penalties shall be imposed under part II of subchapter B of chapter 68 with respect to any return or statement required under this section until such time as such regulations are issued.
 
 (Added and amended Pub. L. 105–34, title II, §§201(c)(1), 202(c), Aug. 5, 1997, 111 Stat. 804, 808; Pub. L. 105–206, title III, §3712(a), (b), title VI, §6004(a)(2), July 22, 1998, 112 Stat. 781, 792; Pub. L. 107–16, title IV, §412(a)(2), June 7, 2001, 115 Stat. 63; Pub. L. 107–131, §1, Jan. 16, 2002, 115 Stat. 2410; Pub. L. 114–27, title VIII, §804(c), June 29, 2015, 129 Stat. 416; Pub. L. 114–113, div. Q, title II, §§211(b), 212(a), Dec. 18, 2015, 129 Stat. 3085, 3086.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -134,13 +136,15 @@ Subsec. (d)(2). Pub. L. 105–206, §3712(b)(1), struck out "aggregate" before "
 
 Subsec. (e). Pub. L. 105–206, §3712(b)(2), inserted "(without regard to subsection (g)(2) thereof)" after "section 25A".
 
-<b>1997</b>—Subsec. (a)(2). Pub. L. 105–34, §202(c)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "which is engaged in a trade or business and which, in the course of such trade or business, makes payments during any calendar year to any individual which constitute reimbursements or refunds (or similar amounts) of qualified tuition and related expenses of such individual,".
+<b>1997</b>—Subsec. (a)(2). Pub. L. 105–34, §202(c)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "which is engaged in a trade or business and which, in the course of such trade or business, makes payments during any calendar year to any individualwhich constitute reimbursements or refunds (or similar amounts) of qualified tuition and related expenses of such individual,".
 
 Subsec. (b)(2)(A). Pub. L. 105–34, §202(c)(2)(A), inserted "or interest" after "payments".
 
 Subsec. (b)(2)(C)(iii). Pub. L. 105–34, §202(c)(2)(B), added cl. (iii).
 
 Subsec. (e). Pub. L. 105–34, §202(c)(3), inserted at end ", and except as provided in regulations, the term 'qualified education loan' has the meaning given such term by section 221(e)(1)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

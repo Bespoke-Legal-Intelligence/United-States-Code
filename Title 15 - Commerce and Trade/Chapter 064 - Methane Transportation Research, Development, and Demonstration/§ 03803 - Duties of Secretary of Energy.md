@@ -6,7 +6,7 @@ The Secretary shall designate prior to February 1, 1981, an appropriate organiza
 
 #### (b) Monitoring and management of program; agreements with other Federal departments and agencies
 
-The Secretary shall have the responsibility for monitoring and assuring proper management of the program. The Secretary may enter into agreements or arrangements with the National Aeronautics and Space Administration, the Department of Transportation, the Environmental Protection Agency, or any other Federal department or agency, pursuant to which such department or agency shall conduct specified parts or aspects of the program as the Secretary deemsnecessary or appropriate and within the particular competence of such agency, to the extent that such agency has capabilities which would enable it to contribute to the success of the program and attainment of the purposes of this chapter.
+The Secretary shall have the responsibility for monitoring and assuring proper management of the program. The Secretary may enter into agreements or arrangements with the National Aeronautics and Space Administration, the Department of Transportation, the Environmental Protection Agency, or any other Federal department or agency, pursuant to which such department or agency shall conduct specified parts or aspects of the program as the Secretary deems necessary or appropriate and within the particular competence of such agency, to the extent that such agency has capabilities which would enable it to contribute to the success of the program and attainment of the purposes of this chapter.
 
 #### (c) Assurances respecting scope of program activities
 
@@ -49,6 +49,8 @@ In assuring the effective management of this program, the Secretary shall have s
 (6) The provisions and requirements of this subsection shall not apply with respect to any contract, grant, or project which was entered into, made, or formally approved and initiated prior to the enactment of this chapter, or with respect to any renewal or extension thereof.
 
 (Pub. L. 96–512, §4, Dec. 12, 1980, 94 Stat. 2828; Pub. L. 97–375, title I, §106(c), Dec. 21, 1982, 96 Stat. 1820; Pub. L. 103–437, §5(b)(5), Nov. 2, 1994, 108 Stat. 4582.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

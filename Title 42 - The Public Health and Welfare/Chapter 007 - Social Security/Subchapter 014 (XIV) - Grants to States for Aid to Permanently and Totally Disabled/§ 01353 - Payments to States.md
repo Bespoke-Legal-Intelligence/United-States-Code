@@ -16,11 +16,13 @@
 
 &emsp;(3) The Secretary of the Treasury shall thereupon, through the Fiscal Service of the Treasury Department, and prior to audit or settlement by the Government Accountability Office, pay to the State, at the time or times fixed by the Secretary of Health and Human Services, the amount so certified.
 
-(Aug. 14, 1935, ch. 531, title XIV, §1403, as added Aug. 28, 1950, ch. 809, title III, pt. 5, §351, 64 Stat. 556; amended July 18, 1952, ch. 945, §8(d), 66 Stat. 779; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Aug. 1, 1956, ch. 836, title III, §§304, 314(c), 344, 70 Stat. 847, 850, 854; Pub. L. 85–840, title V, §504, Aug. 28, 1958, 72 Stat. 1049; Pub. L. 87–64, title III, §303(c), June 30, 1961, 75 Stat. 143; Pub. L. 87–543, title I, §§101(a)(4), (b)(4), 132(c), July 25, 1962, 76 Stat. 178, 181, 195; Pub. L. 89–97, title I, §122, title IV, §401(e), July 30, 1965, 79 Stat. 353, 415; Pub. L. 90–248, title II, §212(c), Jan. 2, 1968, 81 Stat. 897; Pub. L. 92–512, title III, §301(b), (d), Oct. 20, 1972, 86 Stat. 946, 947; Pub. L. 93–647, §§3(e)(2), 5(d), Jan. 4, 1975, 88 Stat. 2349, 2350; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L.97–35, title XXI, §2184(c)(2), title XXV, §2353(l), Aug. 13, 1981, 95 Stat. 817, 873; Pub. L. 99–603, title I, §121(b)(4), Nov. 6, 1986, 100 Stat. 3391; Pub. L. 103–66, title XIII, §13741(b), Aug. 10, 1993, 107 Stat. 663; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Aug. 14, 1935, ch. 531, title XIV, §1403, as added Aug. 28, 1950, ch. 809, title III, pt. 5, §351, 64 Stat. 556; amended July 18, 1952, ch. 945, §8(d), 66 Stat. 779; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Aug. 1, 1956, ch. 836, title III, §§304, 314(c), 344, 70 Stat. 847, 850, 854; Pub. L. 85–840, title V, §504, Aug. 28, 1958, 72 Stat. 1049; Pub. L. 87–64, title III, §303(c), June 30, 1961, 75 Stat. 143; Pub. L. 87–543, title I, §§101(a)(4), (b)(4), 132(c), July 25, 1962, 76 Stat. 178, 181, 195; Pub. L. 89–97, title I, §122, title IV, §401(e), July 30, 1965, 79 Stat. 353, 415; Pub. L. 90–248, title II, §212(c), Jan. 2, 1968, 81 Stat. 897; Pub. L. 92–512, title III, §301(b), (d), Oct. 20, 1972, 86 Stat. 946, 947; Pub. L. 93–647, §§3(e)(2), 5(d), Jan. 4, 1975, 88 Stat. 2349, 2350; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 97–35, title XXI, §2184(c)(2), title XXV, §2353(l), Aug. 13, 1981, 95 Stat. 817, 873; Pub. L. 99–603, title I, §121(b)(4), Nov. 6, 1986, 100 Stat. 3391; Pub. L. 103–66, title XIII, §13741(b), Aug. 10, 1993, 107 Stat. 663; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### Repeal of Section
 
 <i>Pub. L. 92–603, title III, §303(a), (b), Oct. 30, 1972, 86 Stat. 1484, provided that this section is repealed effective Jan. 1, 1974, except with respect to Puerto Rico, Guam, and the Virgin Islands.</i>
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -72,7 +74,7 @@ Subsec. (c). Pub. L. 87–543, §101(b)(4)(C), added subsec. (c).
 
 <b>1961</b>—Subsec. (a). Pub. L. 87–64 substituted "$31" for "$30" and "$66" for "$65" in cl. (1), and "$35.50" for "$35" in cl. (2).
 
-<b>1958</b>—Subsec. (a). Pub. L. 85–840 increased the payments to the States to four-fifths of the first $30 of theaverage monthly payment per recipient, including assistance in the form of money payments and in the form of medical or any other type of remedial care, plus the Federal percentage of the amount by which the expenditures exceed the maximum which may be counted under cl. (A), but excluding that part of the average monthly payment per recipient in excess of $65, increased the average monthly payment to Puerto Rico and the Virgin Islands from $30 to $35, excluded Guam from the provisions which authorize an average monthly payment of $65 and included Guam within the provisions which authorize an average monthly payment of $35, and permitted the counting of individuals with respect to whom expenditures were made as old-age assistance in the form of medical or any other type of remedial care in determining the total number of recipients.
+<b>1958</b>—Subsec. (a). Pub. L. 85–840 increased the payments to the States to four-fifths of the first $30 of the average monthly payment per recipient, including assistance in the form of money payments and in the form of medical or any other type of remedial care, plus the Federal percentage of the amount by which the expenditures exceed the maximum which may be counted under cl. (A), but excluding that part of the average monthly payment per recipient in excess of $65, increased the average monthly payment to Puerto Rico and the Virgin Islands from $30 to $35, excluded Guam from the provisions which authorize an average monthly payment of $65 and included Guam within the provisions which authorize an average monthly payment of $35, and permitted the counting of individuals with respect to whom expenditures were made as old-age assistance in the form of medical or any other type of remedial care in determining the total number of recipients.
 
 <b>1956</b>—Subsec. (a). Act Aug. 1, 1956, §304, substituted "during such quarter as aid to the permanently and totally disabled in the form of money payments under the State plan" for "during such quarter as aid to the permanently and totally disabled under the State plan" in cls. (1) and (2), "who received aid to the permanently and totally disabled in the form of money payments for each month" for "who received aid to the permanently and totally disabled for such month" in par. (A) of cl. (1), and inserted cl. (4).
 
@@ -81,6 +83,12 @@ Act Aug. 1, 1956, §314(c), struck out ", which shall be used exclusively as ai
 Act Aug. 1, 1956, §344, substituted "October 1, 1956" for "October 1, 1952", struck out ", which shall be used exclusively as aid to the permanently and totally disabled," after "the Virgin Islands, an amount" in cls. (1) and (2), and substituted "$60" for "$55", "the product of $30" for "the product of $25", "Secretary of Health, Education, and Welfare" for "Secretary", and "including services which are provided by the staff of the State agency (or of the local agency administering the State plan in the political subdivision) to applicants for and recipients of such aid to help them attain self-support or self-care" for "which amount shall be used for paying the costs of administering the State plan or for aid to the permanently and totally disabled, or both, and for no other purpose".
 
 <b>1952</b>—Subsec. (a). Act July 18, 1952, increased the Federal share of the State's average monthly payment to four-fifths of the first $25 plus one-half of the remainder within individual maximums of $55, and changed formulas for computing the Federal share of public assistance for Puerto Rico and the Virgin Islands.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsec. (b) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
 #### Effective Date of 1993 Amendment
 
@@ -132,10 +140,6 @@ Amendment by section 344 of act Aug. 1, 1956, effective only for period beginnin
 
 Amendment by act July 18, 1952, effective for period beginning Oct. 1, 1952, and ending Sept. 30, 1956, see section 8(e) of act July 18, 1952, set out as a note set out under section 303 of this title.
 
-#### Transfer of Functions
-
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfareand all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and Office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
-
 #### Nonduplication of Payments to States: Prohibition of Payments After December 31, 1969
 
 Prohibition of payments under this subchapter to States with respect to aid or assistance in form of medical or other type of remedial care for any period for which States received payments under subchapter XIX of this chapter or for any period after Dec. 31, 1969, see section 121(b) of Pub. L. 89–97, set out as a note under section 1396b of this title.
@@ -143,4 +147,10 @@ Prohibition of payments under this subchapter to States with respect to aid or a
 #### Election of Payments Under Combined State Plan Rather Than Separate Plans
 
 Payments to States under combined State plan under subchapter XVI or this chapter as precluding payment under State plan conforming to this subchapter, see section 141(b) of Pub. L. 87–543, set out as a note under section 1382e of this title.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and Office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 

@@ -46,7 +46,7 @@
 
 &emsp;&emsp;(J) using mathematicians, scientists, and engineers employed by private businesses to help recruit and train mathematics and science teachers;
 
-&emsp;&emsp;(K) developing science, technology, engineering, and mathematics educational programs and materials and conducting science, technology, engineering, and mathematics enrichment programs for students, including after-school programs and summer programs, with an emphasis on including and serving students described in subsection (b)(2)(G);
+&emsp;&emsp;(K) developing science, technology, engineering, and mathematics educational programs and materials and conducting science, technology, engineering, and mathematics enrichment programs for students, including after-school programs and summer programs, with an emphasis on including andserving students described in subsection (b)(2)(G);
 
 &emsp;&emsp;(L) providing research opportunities in business or academia for students and teachers;
 
@@ -122,7 +122,7 @@
 
 &emsp;&emsp;&emsp;(v) be content-based and build on school year curricula that are experiment-oriented, content-based, and grounded in current research;
 
-&emsp;&emsp;&emsp;(vi) ensure that the pedagogy component is designed around specific strategies that are relevant to teaching the subject and content on which teachers are being trained, which may include training teachers in the essential components of reading instruction for adolescents in order to improve student reading skills within the subject areas of science, technology, engineering, and mathematics;
+&emsp;&emsp;&emsp;(vi) ensure that the pedagogy component is designed around specific strategies that are relevant to teaching the subject and content on which teachers are beingtrained, which may include training teachers in the essential components of reading instruction for adolescents in order to improve student reading skills within the subject areas of science, technology, engineering, and mathematics;
 
 &emsp;&emsp;&emsp;(vii) be a multiyear program that is conducted for a period of not less than 2 weeks per year;
 
@@ -230,6 +230,8 @@ In this section—
 
 (Pub. L. 107–368, §9, Dec. 19, 2002, 116 Stat. 3044; Pub. L. 110–69, title VII, §§7028, 7029, Aug. 9, 2007, 121 Stat. 696, 697; Pub. L. 114–95, title IX, §9215(ggg)(2), Dec. 10, 2015, 129 Stat. 2186; Pub. L. 114–329, title II, §204(a)(3)(C), Jan. 6, 2017, 130 Stat. 2999.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 9813 of title 20, referred to in subsec. (a)(3)(I), was repealed by Pub. L. 114–329, title II, §205(b), Jan. 6, 2017, 130 Stat. 3001.
@@ -250,7 +252,7 @@ Section was enacted as part of the National Science Foundation Authorization Act
 
 <b>2015</b>—Subsec. (a)(10)(A)(iii)(III). Pub. L. 114–95, §9215(ggg)(2)(A), which directed substitution of "(as described in section 1114(a)(1)(A))" for "(as described in section 1114(a)(1) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6314(a)(1))" was executed by making the substitution for "(as described in section 1114(a)(1) of the Elementary and Secondary Education Act of 1965)" to reflect the probable intent of Congress.
 
-Subsec. (c)(4). Pub. L. 114–95, §9215(ggg)(2)(B), substituted "other programs with similar purposes" for "the program authorized under part B of title II of theElementary and Secondary Education Act of 1965 (20 U.S.C. 6601 et seq.)".
+Subsec. (c)(4). Pub. L. 114–95, §9215(ggg)(2)(B), substituted "other programs with similar purposes" for "the program authorized under part B of title II of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6601 et seq.)".
 
 <b>2007</b>—Subsec. (a)(2)(A). Pub. L. 110–69, §7028(1), substituted "the department, college, or program of education at an institution of higher education, a State educational agency," for "a State educational agency".
 
@@ -275,6 +277,8 @@ Subsec. (c)(2). Pub. L. 110–69, §7028(8), added par. (2) and struck out forme
 "(B) Materials developed under the program established under subsection (a) of this section that are demonstrated to be effective shall be made widely available to the public."
 
 Subsec. (d). Pub. L. 110–69, §7028(9), added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -336,7 +340,7 @@ Eligible nonprofit organization.—The term 'eligible nonprofit organization' me
 
 &emsp;"(7)
 
-Foundation.—The term 'Foundation' means the National Science Foundation established undersection 2 of the National Science Foundation Act of 1950 (42 U.S.C. 1861).
+Foundation.—The term 'Foundation' means the National Science Foundation established under section 2 of the National Science Foundation Act of 1950 (42 U.S.C. 1861).
 
 &emsp;"(8)
 
@@ -348,7 +352,7 @@ High-need local educational agency.—The term 'high-need local educational agen
 
 &emsp;&emsp;&emsp;"(i) more than 34 percent of the academic classroom teachers at the secondary level (across all academic subjects) do not have an undergraduate degree with a major or minor in, or a graduate degree in, the academic field in which they teach the largest percentage of their classes; or
 
-&emsp;&emsp;&emsp;"(ii) more than 34 percent of the teachers in two of the academic departments do not have an undergraduate degree with a major or minor in, or a graduate degree in, the academic field in which they teach the largest percentage of their classes.
+&emsp;&emsp;&emsp;"(ii) more than 34 percent of the teachers in two of the academic departments do not have an undergraduate degree with a major or minor in, ora graduate degree in, the academic field in which they teach the largest percentage of their classes.
 
 &emsp;&emsp;"(C) It has at least one school whose teacher attrition rate has been 15 percent or more over the last three school years.
 

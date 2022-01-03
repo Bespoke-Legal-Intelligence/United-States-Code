@@ -62,6 +62,8 @@ For purposes of this section—
 
 (Pub. L. 103–465, title IV, §405, Dec. 8, 1994, 108 Stat. 4961; Pub. L. 104–295, §11, Oct. 11, 1996, 110 Stat. 3520; Pub. L. 116–113, title II, §201(a), Jan. 29, 2020, 134 Stat. 19.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2020</b>—Subsec. (e). Pub. L. 116–113 amended subsec. (e) generally. Prior to amendment, text read as follows: "The President may exempt from any duty imposed under this section any good originating in a NAFTA country (as determined in accordance with section 3332 of this title)."
@@ -69,6 +71,8 @@ For purposes of this section—
 <b>1996</b>—Subsec. (b)(1). Pub. L. 104–295, §11(1), substituted "1(b)" for "1(a)".
 
 Subsec. (b)(2). Pub. L. 104–295, §11(2), substituted "1(a)" for "1(b)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 
@@ -95,6 +99,8 @@ Transition from nafta treatment.—In the case of a good entered for consumption
 #### Effective Date
 
 Section effective on the date of entry into force of the WTO Agreement with respect to the United States (Jan. 1, 1995), except as otherwise provided, see section 451 of Pub. L. 103–465, set out as a note under section 3601 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Uruguay Round Agreements: Entry Into Force
 

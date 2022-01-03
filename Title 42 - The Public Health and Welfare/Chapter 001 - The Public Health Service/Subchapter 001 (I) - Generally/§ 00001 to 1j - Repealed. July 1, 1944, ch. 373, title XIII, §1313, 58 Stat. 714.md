@@ -12,7 +12,7 @@ Section 1d, act Nov. 11, 1943, ch. 298, §4, 57 Stat. 587, provided for temporar
 
 Section 1e, act Nov. 11, 1943, ch. 298, §5, 58 Stat. 588, provided for review of record of officers above grade of assistant surgeon and their separation from service. See section 211 of this title.
 
-Section 1f, act Nov. 11, 1943, ch. 298, §6, 58 Stat. 588, provided for an acting Surgeon General during absence of Surgeon General and Assistant to Surgeon General. See section 206 of this title.
+Section 1f, act Nov. 11, 1943, ch. 298, §6, 58 Stat. 588, provided for an acting Surgeon General during absenceof Surgeon General and Assistant to Surgeon General. See section 206 of this title.
 
 Section 1g, act Nov. 11, 1943, ch. 298, §7, 57 Stat. 588, provided for death and disability benefits of commissioned officers during war and for transfer of Service to military forces. See sections 213 and 217 of this title.
 
@@ -21,6 +21,8 @@ Section 1h, act Nov. 11, 1943, ch. 298, §8, 57 Stat. 589, provided for commissi
 Section 1i, act Nov. 11, 1943, ch. 298, §9, 57 Stat. 589, provided for beneficiaries' benefits where commissioned officer lost his life on active duty between Dec. 7, 1941, and Nov. 11, 1943.
 
 Section 1j, act Nov. 11, 1943, ch. 298, §11, 57 Stat. 589, provided for transfer of appropriations to continue transferred functions. See note set out under section 201 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Renumbering and Repeal of Repealing Act
 

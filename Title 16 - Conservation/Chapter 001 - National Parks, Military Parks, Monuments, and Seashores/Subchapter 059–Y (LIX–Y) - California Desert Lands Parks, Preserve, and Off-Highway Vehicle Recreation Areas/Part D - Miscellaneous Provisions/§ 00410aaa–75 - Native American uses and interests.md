@@ -8,7 +8,7 @@ The Secretary shall ensure access to areas designated under this Act by members 
 
 #### (1) In general
 
-&emsp;In accordance with applicable law, including Public Law 95–341 (commonly known as the "American Indian Religious Freedom Act") (42 U.S.C. 1996 \[, 1996a\]), and subject to paragraph (2), the Secretary, on request of an Indian Tribe or Indian religious community, shall temporarily close to general public use any portion of an area designated as a national monument, special management area, wild and scenic river, area of critical environmental concern, or National Park System unit under this Act (referred to in this subsection as a "designated area") to protect the privacy of traditional cultural and religious activities in the designated area by members of the Indian Tribe or Indian religious community.
+&emsp;In accordance with applicable law, including Public Law 95–341 (commonly known as the "American Indian Religious Freedom Act") (42 U.S.C. 1996 \[, 1996a\]), and subject to paragraph (2), the Secretary, on request of an Indian Tribe or Indian religious community, shall temporarily close to general public use any portion of an area designated as a national monument, special management area, wild and scenic river, area of critical environmental concern, or National Park System unit under this Act (referred to in this subsection as a "designated area") to protect the privacy of traditional cultural and religious activitiesin the designated area by members of the Indian Tribe or Indian religious community.
 
 #### (2) Limitation
 
@@ -78,6 +78,8 @@ Subject to valid existing rights, all Federal land within the area administrativ
 
 (Pub. L. 103–433, title VII, §705, Oct. 31, 1994, 108 Stat. 4498; Pub. L. 116–9, title I, §1454, Mar. 12, 2019, 133 Stat. 714.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsecs. (a) and (b)(1), is defined in section 3 of Pub. L. 103–433, which is set out as a Definitions note under section 410aaa of this title.
@@ -93,6 +95,8 @@ The Religious Freedom Restoration Act of 1993, referred to in subsec. (d)(3)(B)(
 #### Amendments
 
 <b>2019</b>—Pub. L. 116–9 added subsecs. (a), (b), (d), and (e), redesignated former subsec. (b) as (c), and struck out former subsec. (a) which related to access to park system units and wilderness areas by Indian people for traditional cultural and religious purposes.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

@@ -2,7 +2,7 @@
 
 #### (a) Research and development
 
-The Administrator is authorized to exercise his powers in such manner as to insure the continued conduct of research and development and related activities in areas or fields deemed by the Administrator to be pertinent to the acquisition of an expanded fund of scientific, technical, and practical knowledge in energy matters. To this end, the Administrator is authorized to make arrangements (including contracts, agreements, and loans) for the conduct of research and development activities with private or public institutions or persons, including participation in joint or cooperative projects of a research, developmental, or experimental nature; to make payments (in lump sum or installments, and in advance or by way of reimbursement, with necessary adjustments on account of overpayments or underpayments); and generally to take such steps as he may deem necessary or appropriate to perform functions now or hereafter vested in him. Such functions of the Administrator under this chapter as are applicable to the nuclear activities transferred pursuant to this subchapter shall be subject to the provisions of the Atomic Energy Act of 1954, as amended \[42 U.S.C. 2011 et seq.\], and to other authority applicable to such nuclear activities. The nonnuclear responsibilities and functions of the Administrator referred to in sections 5813 and 5814 of this title shall be carried out pursuant to the provisions of this chapter, applicable authority existing immediately before the effective date of this chapter, or in accordance with the provisions of chapter 4 of the Atomic Energy Act of 1954, as amended (42 U.S.C. 2051–2053).
+The Administrator is authorized to exercise his powers in such manner as to insure the continued conduct of research and development and related activities in areas or fields deemed by the Administrator to be pertinent to the acquisition of an expanded fund of scientific, technical, and practical knowledge in energy matters. To this end, the Administrator is authorized to make arrangements (including contracts, agreements, and loans) for the conduct of research and development activities with private or public institutions or persons, including participation in joint or cooperative projects of a research, developmental, or experimental nature; to make payments (in lump sum or installments, and in advance or by way of reimbursement, with necessary adjustments on account of overpayments or underpayments); and generally to take such steps as he may deem necessary or appropriate to perform functions now or hereafter vested in him. Such functions of the Administrator under this chapter as are applicable to the nuclear activities transferred pursuant to this subchapter shall be subject to the provisions of the Atomic Energy Act of 1954, asamended \[42 U.S.C. 2011 et seq.\], and to other authority applicable to such nuclear activities. The nonnuclear responsibilities and functions of the Administrator referred to in sections 5813 and 5814 of this title shall be carried out pursuant to the provisions of this chapter, applicable authority existing immediately before the effective date of this chapter, or in accordance with the provisions of chapter 4 of the Atomic Energy Act of 1954, as amended (42 U.S.C. 2051–2053).
 
 #### (b) Facilities and real property
 
@@ -50,11 +50,13 @@ The Administrator is authorized to accept, hold, administer, and utilize gifts, 
 
 (Pub. L. 93–438, title I, §107, Oct. 11, 1974, 88 Stat. 1240.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, known as the Energy Reorganization Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
-The Atomic Energy Act of 1954, referred to in subsecs. (a) and (e), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of this title. Chapters 4 and 12 of the Atomic Energy Act of 1954, are classified generally to subchapters III (§2051 et seq.) and XI (§2161 et seq.), respectively, of division A of chapter 23 of this title. For complete classification ofthis Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+The Atomic Energy Act of 1954, referred to in subsecs. (a) and (e), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of this title. Chapters 4 and 12 of the Atomic Energy Act of 1954, are classified generally to subchapters III (§2051 et seq.) and XI (§2161 et seq.), respectively, of division A of chapter 23 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
 The effective date of this chapter, referred to in subsec. (a), refers to the effective date of Pub. L. 93–438. See section 312 of Pub. L. 93–438, set out as an Effective Date; Interim Appointments note under section 5801 of this title.
 
@@ -63,6 +65,8 @@ Reorganization Plan Numbered 18 of 1950, referred to in subsec. (b), is Reorg. P
 #### Codification
 
 In subsec. (b), "chapter 33 of title 40" substituted for "the Public Buildings Act of 1959, as amended" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

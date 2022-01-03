@@ -104,11 +104,15 @@ For purposes of this section—
 
 (Added Pub. L. 103–66, title XIII, §13206(a)(1), Aug. 10, 1993, 107 Stat. 462; amended Pub. L. 108–357, title VIII, §888(c)(2), Oct. 22, 2004, 118 Stat. 1643; Pub. L. 115–141, div. U, title IV, §401(a)(176)(B), Mar. 23, 2018, 132 Stat. 1192.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (d)(5)(C). Pub. L. 115–141 substituted "section 461(k)(4)" for "section 464(e)(2)" in introductory provisions.
 
 <b>2004</b>—Subsec. (d)(1). Pub. L. 108–357 struck out "; except that the term 'personal property' shall include stock" before period at end.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

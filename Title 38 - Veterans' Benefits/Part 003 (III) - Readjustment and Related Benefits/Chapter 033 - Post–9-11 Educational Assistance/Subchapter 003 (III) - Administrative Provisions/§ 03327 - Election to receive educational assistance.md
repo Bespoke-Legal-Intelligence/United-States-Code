@@ -16,7 +16,7 @@ Educational Assistance.—An individual may elect to receive educational assista
 
 &emsp;&emsp;(D) is entitled to educational assistance under chapter 107, 1606, or 1607 of title 10 but has not used any entitlement under such chapter;
 
-&emsp;&emsp;(E) is a member of the Armed Forces who is eligible for receipt of basic educational assistance under chapter 30 of this title and ismaking contributions toward such assistance under section 3011(b) or 3012(c) of this title; or
+&emsp;&emsp;(E) is a member of the Armed Forces who is eligible for receipt of basic educational assistance under chapter 30 of this title and is making contributions toward such assistance under section 3011(b) or 3012(c) of this title; or
 
 &emsp;&emsp;(F) is a member of the Armed Forces who is not entitled to basic educational assistance under chapter 30 of this title by reason of an election under section 3011(c)(1) or 3012(d)(1) of this title; and
 

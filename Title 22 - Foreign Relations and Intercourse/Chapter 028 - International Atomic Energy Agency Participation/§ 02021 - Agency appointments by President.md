@@ -46,7 +46,7 @@ Pub. L. 107–228, div. B, title XIII, §1341, Sept. 30, 2002, 116 Stat. 1451, p
 
 #### Short Title
 
-Pub. L. 85–177, §1, Aug. 28, 1957, 71 Stat. 453, provided that: "This Act \[enacting this chapter and amending section 2074 of Title 42, The Public Health and Welfare\] may be cited as the 'International Atomic Energy Agency Participation Act of 1957'."
+Pub. L. 85–177, §1, Aug. 28, 1957, 71 Stat. 453, provided that: "This Act \[enacting this chapter and amendingsection 2074 of Title 42, The Public Health and Welfare\] may be cited as the 'International Atomic Energy Agency Participation Act of 1957'."
 
 #### Reporting Requirements
 

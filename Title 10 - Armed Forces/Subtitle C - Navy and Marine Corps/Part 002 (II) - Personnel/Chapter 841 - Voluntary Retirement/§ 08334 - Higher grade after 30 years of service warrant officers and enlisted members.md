@@ -8,7 +8,7 @@
 
 &emsp;(2) enlisted members of the Regular Navy and Regular Marine Corps; and
 
-&emsp;(3) reserve enlisted members of the Navy and Marine Corps who, at the time of retirementor transfer to the Fleet Reserve or Fleet Marine Corps Reserve, are serving on active duty.
+&emsp;(3) reserve enlisted members of the Navy and Marine Corps who, at the time of retirement or transfer to the Fleet Reserve or Fleet Marine Corps Reserve, are serving on active duty.
 
 (c) An enlisted member of the naval service who is advanced on the retired list under this section is entitled to recompute his retired or retainer pay under formula A of the following table, and a warrant officer of the naval service so advanced is entitled to recompute his retired pay under formula B of that table. The amount recomputed, if not a multiple of $1, shall be rounded to the next lower multiple of $1.
 
@@ -23,11 +23,15 @@
 
 (Added Pub. L. 100–180, div. A, title V, §512(b), Dec. 4, 1987, 101 Stat. 1089, §6334; amended Pub. L. 101–189, div. A, title XVI, §1622(g), Nov. 29, 1989, 103 Stat. 1605; renumbered §8334, Pub. L. 115–232, div. A, title VIII, §807(b)(15), Aug. 13, 2018, 132 Stat. 1836.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 6334 of this title as this section.
 
 <b>1989</b>—Subsec. (a). Pub. L. 101–189 substituted "December 4, 1987" for "the date of the enactment of this section".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

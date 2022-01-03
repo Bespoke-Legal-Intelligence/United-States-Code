@@ -24,7 +24,7 @@ The President shall instruct the United States Federal Government representative
 
 &emsp;Not more than an aggregate of $5,000,000 in grants may be made under this subsection.
 
-(Pub. L. 103–182, title V, §546, as added Pub. L. 108–215, §1(b), Apr. 5, 2004, 118 Stat. 579; amendedPub. L. 116–113, title VI, §601, Jan. 29, 2020, 134 Stat. 78; Pub. L. 116–260, div. O, title VI, §601(a)(1), (2), Dec. 27, 2020, 134 Stat. 2149.)
+(Pub. L. 103–182, title V, §546, as added Pub. L. 108–215, §1(b), Apr. 5, 2004, 118 Stat. 579; amended Pub. L. 116–113, title VI, §601, Jan. 29, 2020, 134 Stat. 78; Pub. L. 116–260, div. O, title VI, §601(a)(1), (2), Dec. 27, 2020, 134 Stat. 2149.)
 
 #### <b>Editorial Notes</b>
 

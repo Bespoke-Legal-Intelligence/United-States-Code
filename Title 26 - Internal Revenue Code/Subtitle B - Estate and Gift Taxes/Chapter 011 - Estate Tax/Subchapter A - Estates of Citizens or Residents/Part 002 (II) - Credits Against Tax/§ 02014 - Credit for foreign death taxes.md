@@ -58,7 +58,7 @@ The credit provided in this section shall be allowed only for such taxes as were
 
 #### (f) Additional limitation in cases involving a deduction under section 2053(d)
 
-In any case where a deduction is allowed under section 2053(d) for an estate, succession, legacy, or inheritance tax imposed by and actually paid to any foreign country upon a transfer by the decedent for public, charitable, or religious uses described in section 2055, the property described in subparagraphs (A), (B), and (C) of paragraphs (1) and (2) of subsection (b) of this section shall not include any property in respect of which such deduction is allowed under section 2053(d).
+In any case where a deduction is allowed under section 2053(d) for an estate, succession, legacy, or inheritance tax imposed by and actually paid to any foreign country upon a transfer by the decedent for public, charitable, or religious uses described in section 2055, the property describedin subparagraphs (A), (B), and (C) of paragraphs (1) and (2) of subsection (b) of this section shall not include any property in respect of which such deduction is allowed under section 2053(d).
 
 #### (g) Possession of United States deemed a foreign country
 
@@ -78,6 +78,8 @@ Whenever the President finds that—
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 378; Pub. L. 85–866, title I, §102(c)(2), Sept. 2, 1958, 72 Stat. 1674; Pub. L. 86–175, §2, Aug. 21, 1959, 73 Stat. 397; Pub. L. 89–809, title I, §106(b)(3), Nov. 13, 1966, 80 Stat. 1570; Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XX, §2001(c)(1)(G), Oct. 4, 1976, 90 Stat. 1834, 1852; Pub. L. 107–16, title V, §532(c)(3), June 7, 2001, 115 Stat. 74.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2001</b>—Subsec. (b)(2). Pub. L. 107–16 struck out ", 2011," after "sections 2010" in introductory provisions.
@@ -93,6 +95,8 @@ Subsec. (h). Pub. L. 89–809 added subsec. (h).
 <b>1959</b>—Subsecs. (f), (g). Pub. L. 86–175 added subsec. (f) and redesignated former subsec. (f) as (g).
 
 <b>1958</b>—Subsec. (f). Pub. L. 85–866 added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2001 Amendment
 

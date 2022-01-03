@@ -20,7 +20,7 @@ The Secretary, in consultation and coordination, as appropriate, with other Fede
 
 #### (c) Protection of sensitive information
 
-The Secretary shall take appropriate measures to ensure that there are in effect effective procedures to prevent the unauthorized disclosure of any trade secret or confidential information that is obtained by the Secretary pursuant to this section.
+The Secretary shall take appropriate measures to ensure that there are in effect effectiveprocedures to prevent the unauthorized disclosure of any trade secret or confidential information that is obtained by the Secretary pursuant to this section.
 
 #### (d) Limitations
 
@@ -44,7 +44,7 @@ The Federal Meat Inspection Act, referred to in subsec. (d)(2), is titles I to V
 
 The Poultry Products Inspection Act, referred to in subsec. (d)(2), is Pub. L. 85–172, Aug. 28, 1957, 71 Stat. 441, which is classified generally to chapter 10 (§451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 451 of this title and Tables.
 
-The Egg Products Inspection Act, referred to in subsec. (d)(2), is Pub. L. 91–597, Dec. 29, 1970, 84 Stat. 1620,which is classified principally to chapter 15 (§1031 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1031 of this title and Tables.
+The Egg Products Inspection Act, referred to in subsec. (d)(2), is Pub. L. 91–597, Dec. 29, 1970, 84 Stat. 1620, which is classified principally to chapter 15 (§1031 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1031 of this title and Tables.
 
 #### Amendments
 

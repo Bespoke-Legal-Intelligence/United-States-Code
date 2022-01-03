@@ -4,6 +4,8 @@ Except as provided in section 12402(b) of this title, the President may assign t
 
 (Added Pub. L. 103–337, div. A, title XVI, §1661(c)(1)(A), Oct. 5, 1994, 108 Stat. 2982; amended Pub. L. 104–106, div. A, title XV, §1501(b)(6), Feb. 10, 1996, 110 Stat. 496.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in sections 3541 and 8541 of this title, prior to repeal by Pub. L. 103–337, §1661(c)(2).
@@ -11,6 +13,8 @@ Provisions similar to those in this section were contained in sections 3541 and 
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–106 substituted "12402(b)" for "124402(b)" and "Air Force" for "Air Forces".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

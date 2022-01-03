@@ -16,6 +16,8 @@ There are authorized to be appropriated to carry out this chapter (other than se
 
 (Pub. L. 88–210, §9, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 691; amended Pub. L. 115–224, §10, July 31, 2018, 132 Stat. 1576.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 2307, Pub. L. 88–210, §8, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3083, related to authorization of appropriations, prior to the general amendment of this chapter by Pub. L. 109–270.
@@ -23,6 +25,8 @@ A prior section 2307, Pub. L. 88–210, §8, as added Pub. L. 105–332, §1(b),
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–224 amended section generally. Prior to amendment, text read as follows: "There is authorized to be appropriated to carry out this chapter (other than sections 2324, 2327, and 2328 of this title, and subchapter II) such sums as may be necessary for each of the fiscal years 2007 through 2012."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

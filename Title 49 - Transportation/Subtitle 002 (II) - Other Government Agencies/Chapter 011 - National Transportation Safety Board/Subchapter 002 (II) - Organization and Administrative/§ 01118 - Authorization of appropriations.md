@@ -6,7 +6,7 @@ In General.—There are authorized to be appropriated for the purposes of this c
 
 (b)
 
-Emergency Fund.—The Board has an emergency fund of $2,000,000 available for necessary expenses of the Board, not otherwise provided for, for accident investigations. In addition, there are authorized to be appropriated such sums as may be necessary to increase the fund to, and maintain the fund at, a level not to exceed $4,000,000.
+Emergency Fund.—The Board has an emergency fund of $2,000,000 available for necessary expenses of the Board, not otherwise provided for, for accident investigations. In addition, there are authorized to be appropriated suchsums as may be necessary to increase the fund to, and maintain the fund at, a level not to exceed $4,000,000.
 
 (c)
 
@@ -62,6 +62,8 @@ In subsection (a), the words "to the National Transportation Safety Board" are a
 
 In subsection (b)(2), the words "amounts equal to amounts expended annually out of the fund" are substituted for "to replenish the fund annually" for clarity.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–254 amended subsec. (a) generally. Prior to amendment, text read as follows: "There are authorized to be appropriated for the purposes of this chapter $57,000,000 for fiscal year 2000, $65,000,000 for fiscal year 2001, $72,000,000 for fiscal year 2002, $73,325,000 for fiscal year 2003, $78,757,000 for fiscal year 2004, $83,011,000 for fiscal year 2005, $87,539,000 for fiscal year 2006, $81,594,000 for fiscal year 2007, and $92,625,000 for fiscal year 2008. Such sums shall remain available until expended."
@@ -86,7 +88,7 @@ In General.—There is authorized to be appropriated for the purposes of this ch
 
 "(b)
 
-Emergency Fund.—The Board has an emergency fund of $1,000,000 available for necessary expenses of theBoard, not otherwise provided for, for accident investigations. The following amounts may be appropriated to the fund:
+Emergency Fund.—The Board has an emergency fund of $1,000,000 available for necessary expenses of the Board, not otherwise provided for, for accident investigations. The following amounts may be appropriated to the fund:
 
 &emsp;"(1) $1,000,000 to establish the fund.
 
@@ -99,6 +101,8 @@ Availability of Amounts.—Amounts appropriated under this section remain availa
 <b>1996</b>—Subsec. (a). Pub. L. 104–291 struck out "and" after "1995," and inserted ", $42,400,00 for fiscal year 1997, $44,400,000 for fiscal year 1998, and $46,600,000 for fiscal year 1999." before period at end of first sentence.
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–411 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "Not more than $38,800,000 may be appropriated to the National Transportation Safety Board for the fiscal year ending September 30, 1993, to carry out this chapter."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

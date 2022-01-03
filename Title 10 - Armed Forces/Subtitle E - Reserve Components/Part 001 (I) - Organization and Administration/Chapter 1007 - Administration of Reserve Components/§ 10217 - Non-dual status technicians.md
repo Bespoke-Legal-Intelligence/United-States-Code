@@ -56,6 +56,8 @@ Conversion of Positions.—(1) No individual may be newly hired or employed, or 
 
 (Added Pub. L. 105–85, div. A, title V, §523(a)(1), Nov. 18, 1997, 111 Stat. 1736; amended Pub. L. 106–65, div. A, title V, §523, Oct. 5, 1999, 113 Stat. 598; Pub. L. 106–398, §1 \[\[div. A\], title IV, §414(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–94; Pub. L. 107–314, div. A, title IV, §414(d), Dec. 2, 2002, 116 Stat. 2527; Pub. L. 108–136, div. A, title IV, §415, Nov. 24, 2003, 117 Stat. 1453; Pub. L. 111–383, div. A, title V, §513, title X, §1075(b)(53), Jan. 7, 2011, 124 Stat. 4210, 4372; Pub. L. 112–239, div. A, title X, §1076(e)(7), (f)(45), Jan. 2, 2013, 126 Stat. 1951, 1955; Pub. L. 114–92, div. A, title X, §1053(b)(1), Nov. 25, 2015, 129 Stat. 981; Pub. L. 114–328, div. A, title X, §1084(b), Dec. 23, 2016, 130 Stat. 2421; Pub. L. 116–92, div. A, title XVII, §1731(a)(62), Dec. 20, 2019, 133 Stat. 1816.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 8016 of the Department of Defense Appropriations Act, 1996 (Public Law 104–61; 109 Stat. 654), referred to in subsec. (b)(4), was set out as a note under section 10101 of this title prior to repeal by Pub. L. 105–85, div. A, title V, §522(e), Nov. 18, 1997, 111 Stat. 1735.
@@ -98,6 +100,8 @@ Subsec. (a)(1), (2). Pub. L. 106–65, §523(a)(1)(B), added pars. (1) and (2) a
 
 Subsec. (c). Pub. L. 106–65, §523(a)(2), added subsec. (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1999 Amendment
 
 Pub. L. 106–65, div. A, title V, §525, Oct. 5, 1999, 113 Stat. 600, provided that: "The amendments made by sections 523 and 524 \[amending this section and section 709 of Title 32, National Guard\] shall take effect 180 days after the date of the receipt by Congress of the plan required by section 523(d) of the National Defense Authorization Act for Fiscal Year 1998 (Public Law 105–85; 111 Stat. 1737) \[set out below\] \[plan received by Congress from Under Secretary of Defense, Personnel and Readiness on Sept. 21, 1999, see Cong. Rec., vol. 145, pt. 15, p. 21975, Ex. Comm. 4276\] or a report by the Secretary of Defense providing an alternative proposal to the plan required by that section."
@@ -128,7 +132,7 @@ Plan for Full Utilization of Military Technicians (Dual Status).—(1) Not later
 
 Definitions for Categories of Military Technicians.—In this section \[enacting this section\]:
 
-&emsp;"(1) The term 'non-dual status military technician' has the meaning given that term in section 10217 oftitle 10, United States Code, as added by subsection (a).
+&emsp;"(1) The term 'non-dual status military technician' has the meaning given that term in section 10217 of title 10, United States Code, as added by subsection (a).
 
 &emsp;"(2) The term 'military technician (dual status)' has the meaning given the term in section 10216(a) of such title."
 

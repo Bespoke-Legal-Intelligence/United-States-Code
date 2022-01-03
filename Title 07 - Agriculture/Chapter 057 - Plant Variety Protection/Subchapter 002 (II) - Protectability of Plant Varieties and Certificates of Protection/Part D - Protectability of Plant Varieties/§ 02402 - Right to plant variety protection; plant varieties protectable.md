@@ -38,6 +38,8 @@ The breeder of any sexually reproduced, tuber propagated, or asexually reproduce
 
 (Pub. L. 91–577, title II, §42, Dec. 24, 1970, 84 Stat. 1547; Pub. L. 103–349, §3, Oct. 6, 1994, 108 Stat. 3138; Pub. L. 104–127, title IX, §913(a), Apr. 4, 1996, 110 Stat. 1186; Pub. L. 115–334, title X, §10108(b), Dec. 20, 2018, 132 Stat. 4906.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–334 substituted ", tuber propagated, or asexually reproduced" for "or tuber propagated" in introductory provisions.
@@ -45,6 +47,8 @@ The breeder of any sexually reproduced, tuber propagated, or asexually reproduce
 <b>1996</b>—Subsec. (a)(1)(B)(i). Pub. L. 104–127 inserted ", except that in the case of a tuber propagated plant variety the Secretary may waive the 4-year limitation for a period ending 1 year after April 4, 1996" after "filing".
 
 <b>1994</b>—Pub. L. 103–349 amended section generally, substituting present provisions for substantially similar former provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

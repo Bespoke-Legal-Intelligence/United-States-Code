@@ -4,11 +4,15 @@ The Secretary shall establish in the Department of Health and Human Services a N
 
 (July 1, 1944, ch. 373, title XXI, §2101, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3756.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 300aa–1, act July 1, 1944, §2102, was successively renumbered by subsequent acts and transferred, see section 238a of this title.
 
 A prior section 2101 of act July 1, 1944, was successively renumbered by subsequent acts and transferred, see section 238 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -34,7 +38,7 @@ Pub. L. 101–239, title VI, §6601(t), Dec. 19, 1989, 103 Stat. 2293, as amende
 
 #### Related Studies
 
-Pub. L. 99–660, title III, §312, Nov. 14, 1986, 100 Stat. 3779, directed Secretary of Health and Human Services, not later than 3 years after the effective date of this title (see Effective Date note above), to conduct, through studies by the Institute of Medicine of the National Academy of Sciences or other appropriate nonprofit private groups or associations, a review of pertussis vaccines and related illnesses and conditions and MMR vaccines, vaccines containing material intended to prevent or confer immunity against measles, mumps, and rubella disease, and related illnesses and conditions, make specific findings and report these findings in the Federal Register not later than 3 years after the effective date of this title, and at the same time these findings are published in the Federal Register, propose regulations as a result of such findings, and not later than 42 months after the effective date of this title, promulgate such proposed regulations withsuch modifications as may be necessary after opportunity for public hearing.
+Pub. L. 99–660, title III, §312, Nov. 14, 1986, 100 Stat. 3779, directed Secretary of Health and Human Services, not later than 3 years after the effective date of this title (see Effective Date note above), to conduct, through studies by the Institute of Medicine of the National Academy of Sciences or other appropriate nonprofit private groups or associations, a review of pertussis vaccines and related illnesses and conditions and MMR vaccines, vaccines containing material intended to prevent or confer immunity against measles, mumps, and rubella disease, and related illnesses and conditions, make specific findings and report these findings in the Federal Register not later than 3 years after the effective date of this title, and at the same time these findings are published in the Federal Register, propose regulations as a result of such findings, and not later than 42 months after the effective date of this title, promulgate such proposed regulations with such modifications as may be necessary after opportunity for public hearing.
 
 #### Study of Other Vaccine Risks
 

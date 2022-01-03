@@ -208,7 +208,7 @@
 
 #### (4) Assembled and finished products
 
-&emsp;Not later than 1 year after February 7, 2014, the Secretary shall begin issuing criteria fordetermining which assembled and finished products may qualify to receive the label under paragraph (1).
+&emsp;Not later than 1 year after February 7, 2014, the Secretary shall begin issuing criteria for determining which assembled and finished products may qualify to receive the label under paragraph (1).
 
 #### (c) Recognition
 
@@ -320,13 +320,15 @@ A procuring agency (as defined in subsection (a)(1)) shall not establish regulat
 
 #### (l) Biobased product inclusion
 
-In this section, the term "biobased product" (as defined in section 8101 of this title) includes, with respect to forestry materials, forest products that meet biobased content requirements, notwithstanding the market share the product holds, the age of the product, or whether the market for the product is new or emerging.
+In this section, the term "biobased product" (as defined in section 8101 of this title) includes, with respect to forestry materials, forest products that meet biobased content requirements,notwithstanding the market share the product holds, the age of the product, or whether the market for the product is new or emerging.
 
 #### (m) Rural development mission area
 
 In carrying out this section, except as provided in subsection (g), the Secretary shall act through the rural development mission area.
 
 (Pub. L. 107–171, title IX, §9002, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1305, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2067; amended Pub. L. 112–240, title VII, §701(f)(1), Jan. 2, 2013, 126 Stat. 2364; Pub. L. 113–79, title IX, §9002(a), Feb. 7, 2014, 128 Stat. 926; Pub. L. 115–334, title IX, §9002, Dec. 20, 2018, 132 Stat. 4883.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -392,6 +394,8 @@ Subsec. (j). Pub. L. 113–79, §9002(a)(7), added subsec. (j).
 
 <b>2013</b>—Subsec. (h)(2). Pub. L. 112–240 substituted "2013" for "2012".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2013 Amendment
 
 Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of this title.
@@ -399,6 +403,8 @@ Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of P
 #### Effective Date
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Driving Innovation and Creating Jobs in Rural America Through Biobased and Sustainable Product Procurement
 
@@ -410,7 +416,7 @@ The BioPreferred program—established by the Farm Security and Rural Investment
 
 The Federal Government, with leadership from the Department of Agriculture (USDA), has made significant strides in implementing the BioPreferred program. It is one of the key elements in my efforts to promote sustainable acquisition throughout the Government under \[former\] Executive Order 13514 of October 5, 2009 (Federal Leadership in Environmental, Energy, and Economic Performance). Further efforts will drive innovation and economic growth and create jobs at marginal cost to the American public.
 
-The goal of this memorandum is to ensure that executive departments and agencies (agencies) effectively execute Federal procurement requirements for biobased products, including those requirements identified in \[former\] Executive Order 13514 and prescribed in the 2002 Farm Bill, as amended by the 2008 Farm Bill. It is vital that these efforts are in accord and carefully coordinated with other Federal procurement requirements.
+The goal of this memorandum is to ensure that executive departments and agencies (agencies) effectivelyexecute Federal procurement requirements for biobased products, including those requirements identified in \[former\] Executive Order 13514 and prescribed in the 2002 Farm Bill, as amended by the 2008 Farm Bill. It is vital that these efforts are in accord and carefully coordinated with other Federal procurement requirements.
 
 Therefore, I direct that agencies take the following steps to significantly increase Federal procurement of biobased and other sustainable products.
 
@@ -460,7 +466,7 @@ Sec. 6. <i>Jobs Creation Research</i>. Biobased products are creating jobs acros
 
 Sec. 7. <i>Education and Outreach</i>. In compliance with the 2002 Farm Bill, several agencies established agency promotion programs to support the biobased products procurement preference. The Federal Acquisition Institute has added biobased procurement training to its course offerings. To assure both formal and informal educational and outreach instruction on the BioPreferred program are in place and being implemented by each agency, I direct:
 
-(a) the Secretary of Agriculture to update all existing USDA BioPreferred and related sustainable acquisitiontraining materials within 1 year of the date of this memorandum;
+(a) the Secretary of Agriculture to update all existing USDA BioPreferred and related sustainable acquisition training materials within 1 year of the date of this memorandum;
 
 (b) the Senior Sustainability Officers and Chief Acquisition Officers of agencies to work cooperatively with the Secretary of Agriculture to immediately implement such BioPreferred program agency education and outreach programs as are necessary to meet the requirements of this memorandum and relevant statutes; and
 

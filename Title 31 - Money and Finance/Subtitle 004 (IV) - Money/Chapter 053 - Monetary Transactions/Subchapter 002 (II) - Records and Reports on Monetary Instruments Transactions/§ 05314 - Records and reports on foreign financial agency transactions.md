@@ -52,7 +52,7 @@ In subsection (a), before clause (1), the words "currency or other", "legitimate
 
 In subsection (b), the words "or a regulation under this section" are added because of the restatement. The words "or does not apply" and "uniform" in clause (2) are omitted as surplus. In clause (5), the words "carry out" are substituted for "the application of" for consistency.
 
-In subsection (c), the words "produce or otherwise . . . the contents of" and "in compliance with a subpena or summons duly authorized and issued or . . .may otherwise be" are omitted as surplus. The words "under a regulation" are added because of the restatement.
+In subsection (c), the words "produce or otherwise . . . the contents of" and "in compliance with a subpena or summons duly authorized and issued or . . . may otherwise be" are omitted as surplus. The words "under a regulation" are added because of the restatement.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

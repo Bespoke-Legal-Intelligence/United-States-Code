@@ -12,7 +12,7 @@
 
 (3) Effective 180 days after the publication of such list, no person or vessel may employ fishing gear or engage in a fishery not included on such list without giving 90 days advance written notice to the appropriate Council, or the Secretary with respect to a fishery to which section 1852(a)(3) of this title applies. A signed return receipt shall serve as adequate evidence of such notice and as the date upon which the 90-day period begins.
 
-(4) A Council may submit to the Secretary any proposed changes to such list or such guidelines the Council deems appropriate. The Secretary shall publish a revised list, after notice and an opportunity for public comment, upon receiving any such proposed changes from a Council.
+(4) A Council may submit to the Secretary any proposed changes to such list or such guidelines the Council deems appropriate. The Secretary shall publish a revised list, after notice and anopportunity for public comment, upon receiving any such proposed changes from a Council.
 
 (5) A Council may request the Secretary to promulgate emergency regulations under subsection (c) to prohibit any persons or vessels from using an unlisted fishing gear or engaging in an unlisted fishery if the appropriate Council, or the Secretary for fisheries to which section 1852(a)(3) of this title applies, determines that such unlisted gear or unlisted fishery would compromise the effectiveness of conservation and management efforts under this chapter.
 
@@ -54,7 +54,7 @@
 
 &emsp;(A) shall be published in the Federal Register together with the reasons therefor;
 
-&emsp;(B) shall, except as provided in subparagraph (C), remain in effect for not more than 180 days after the date of publication, and may be extended by publication in the Federal Register for one additional period of not more than 186 days, provided the public has had an opportunity to comment on the emergency regulation or interim measure, and, in the case of a Council recommendation for emergency regulations or interim measures, the Council is actively preparing a fishery management plan, plan amendment, or proposed regulations to address the emergency or overfishing on a permanent basis;
+&emsp;(B) shall, except as provided in subparagraph (C), remain in effect for not more than 180 days after the date of publication, and may be extended by publication in the Federal Register for one additional period of not more than 186 days, provided the public has had an opportunity to comment on the emergency regulation or interim measure, and, in the case of a Council recommendation for emergency regulations or interim measures, theCouncil is actively preparing a fishery management plan, plan amendment, or proposed regulations to address the emergency or overfishing on a permanent basis;
 
 &emsp;(C) that responds to a public health emergency or an oil spill may remain in effect until the circumstances that created the emergency no longer exist, <i>Provided</i>, That the public has an opportunity to comment after the regulation is published, and, in the case of a public health emergency, the Secretary of Health and Human Services concurs with the Secretary's action; and
 
@@ -90,13 +90,13 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.),<sup>1</sup> the Re
 
 (B) No later than 180 days after October 11, 1996, the Secretary shall promulgate regulations establishing procedures, developed in cooperation with the Administrative Conference of the United States, for the establishment and operation of fishery negotiation panels. Such procedures shall be comparable to the procedures for negotiated rulemaking established by subchapter III of chapter 5 of title 5.
 
-(2) If a negotiation panel submits a report, such report shall specify all the areas whereconsensus was reached by the panel, including, if appropriate, proposed conservation and management measures, as well as any other information submitted by members of the negotiation panel. Upon receipt, the Secretary shall publish such report in the Federal Register for public comment.
+(2) If a negotiation panel submits a report, such report shall specify all the areas where consensus was reached by the panel, including, if appropriate, proposed conservation and management measures, as well as any other information submitted by members of the negotiation panel. Upon receipt, the Secretary shall publish such report in the Federal Register for public comment.
 
 (3) Nothing in this subsection shall be construed to require either a Council or the Secretary, whichever is appropriate, to use all or any portion of a report from a negotiation panel established under this subsection in the development of specific conservation and management measures for the fishery for which the panel was established.
 
 #### (h) Central registry system for limited access system permits
 
-(1) Within 6 months after October 11, 1996, the Secretary shall establish an exclusive central registry system (which may be administered on a regional basis) for limited access system permits established under section 1853(b)(6) of this title or other Federal law, including limited access privileges, which shall provide for the registration of title to, and interests in, such permits, as well as for procedures for changes in the registration of title to such permits upon the occurrence of involuntary transfers, judicial or nonjudicial foreclosure of interests, enforcement of judgments thereon, and related matters deemed appropriate by the Secretary. Such registry system shall—
+(1) Within 6 months after October 11, 1996, the Secretary shall establish an exclusive central registry system (which may be administered on a regional basis) for limited access system permits established under section 1853(b)(6) of this title or other Federal law, including limited access privileges, which shall provide for the registration of title to, and interests in, such permits, as well as for procedures for changes in the registration of title to such permits upon the occurrence of involuntary transfers, judicial or nonjudicial foreclosure of interests, enforcement of judgments thereon, and related mattersdeemed appropriate by the Secretary. Such registry system shall—
 
 &emsp;(A) provide a mechanism for filing notice of a nonjudicial foreclosure or enforcement of a judgment by which the holder of a senior security interest acquires or conveys ownership of a permit, and in the event of a nonjudicial foreclosure, by which the interests of the holders of junior security interests are released when the permit is transferred;
 
@@ -156,7 +156,7 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.),<sup>1</sup> the Re
 
 #### (iv) Regulation of harvest
 
-&emsp;&emsp;&emsp;The harvest of allocations under the program for fisheries with individual quotas or fishing cooperatives shall be regulated by the Secretary in a manner no more restrictive than for other participants in the applicable sector, including with respect to the harvest of nontarget species.
+&emsp;&emsp;&emsp;The harvest of allocations under the program for fisheries with individual quotasor fishing cooperatives shall be regulated by the Secretary in a manner no more restrictive than for other participants in the applicable sector, including with respect to the harvest of nontarget species.
 
 #### (C) Allocations to entities
 
@@ -348,9 +348,11 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.),<sup>1</sup> the Re
 
 #### (2) Cure
 
-&emsp;If the Secretary makes a determination that such actions are not consistent with the plan, the Secretary shall, in consultation with the Council, and after notifying the affected State, develop and implement measures to cure the inconsistency pursuant to section 1856(b) of this title.
+&emsp;If the Secretary makes a determination that such actions are not consistent with the plan,the Secretary shall, in consultation with the Council, and after notifying the affected State, develop and implement measures to cure the inconsistency pursuant to section 1856(b) of this title.
 
 (Pub. L. 94–265, title III, §305, Apr. 13, 1976, 90 Stat. 354; Pub. L. 96–561, title II, §235, Dec. 22, 1980, 94 Stat. 3299; Pub. L. 97–453, §8, Jan. 12, 1983, 96 Stat. 2490; Pub. L. 101–627, title I, §§110(b)(2), 111(a)(1), (b), Nov. 28, 1990, 104 Stat. 4451, 4452; Pub. L. 104–297, title I, §§110(a)–(d), 111(a), Oct. 11, 1996, 110 Stat. 3587–3590, 3592; Pub. L. 109–241, title IV, §416(a), July 11, 2006, 120 Stat. 540; Pub. L. 109–479, §3(d)(3), title I, §§108–110, 116(b)(1), Jan. 12, 2007, 120 Stat. 3578, 3594–3596, 3606; Pub. L. 116–283, div. G, title LVXXXIV \[LXXXIV\], §8423, Jan. 1, 2021, 134 Stat. 4729.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -402,7 +404,7 @@ Subsec. (b). Pub. L. 104–297, §110(a)(3), added subsec. (b). Former subsec. (
 
 Subsec. (c). Pub. L. 104–297, §110(b)(1), inserted "and interim measures" after "actions" in heading.
 
-Subsec. (c)(1). Pub. L. 104–297, §110(b)(2)(C), which directed insertion of "or overfishing" after "emergency",was executed by making the insertion after "the emergency" to reflect the probable intent of Congress.
+Subsec. (c)(1). Pub. L. 104–297, §110(b)(2)(C), which directed insertion of "or overfishing" after "emergency", was executed by making the insertion after "the emergency" to reflect the probable intent of Congress.
 
 Pub. L. 104–297, §110(b)(2)(A), (B), substituted "or that interim measures are needed to reduce overfishing for" for "involving" and inserted "or interim measures" after "emergency regulations".
 
@@ -446,9 +448,11 @@ Subsec. (h). Pub. L. 97–453, §8(5), added subsec. (h).
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–561 inserted "a notice of availability of" after "Federal Register (A)".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2007 Amendment
 
-Pub. L. 109–479, title I, §116(b)(2), Jan. 12, 2007, 120 Stat. 3606, provided that: "The allocation percentage in subclause (I) of section 305(i)(1)(B)(ii) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1855(i)(1)(B)(ii)), as amended by paragraph (1) ofthis subsection, shall be in effect in 2007 with respect to any sector of a fishery to which such subclause applies and in which a fishing cooperative is established in 2007, and such sector's 2007 allocation shall be reduced by a pro rata amount to accomplish such increased allocation to the program. For purposes of section 305(i)(1) of that Act \[16 U.S.C. 1855(i)(1)\] and of this subsection \[amending this section\], the term 'fishing cooperative' means a fishing cooperative whether or not authorized by a fishery management council or Federal agency, if a majority of the participants in the sector are participants in the fishing cooperative."
+Pub. L. 109–479, title I, §116(b)(2), Jan. 12, 2007, 120 Stat. 3606, provided that: "The allocation percentage in subclause (I) of section 305(i)(1)(B)(ii) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1855(i)(1)(B)(ii)), as amended by paragraph (1) of this subsection, shall be in effect in 2007 with respect to any sector of a fishery to which such subclause applies and in which a fishing cooperative is established in 2007, and such sector's 2007 allocation shall be reduced by a pro rata amount to accomplish such increased allocation to the program. For purposes of section 305(i)(1) of that Act \[16 U.S.C. 1855(i)(1)\] and of this subsection \[amending this section\], the term 'fishing cooperative' means a fishing cooperative whether or not authorized by a fishery management council or Federal agency, if a majority of the participants in the sector are participants in the fishing cooperative."
 
 #### Termination of Administrative Conference of United States
 
@@ -456,7 +460,7 @@ For termination of Administrative Conference of United States, see provision of 
 
 #### No Interruption of Existing Allocations
 
-Pub. L. 109–241, title IV, §416(b), July 11, 2006, 120 Stat. 545, provided that: "The amendment made by subsection (a) \[amending this section\] shall not be construed or implemented in a way that causes any interruption in the allocations of fishery resources to the western Alaska community development quota program or in the opportunity of an entity participating in that program to harvest its share of such allocations."
+Pub. L. 109–241, title IV, §416(b), July 11, 2006, 120 Stat. 545, provided that: "The amendment made by subsection (a) \[amending this section\] shall not be construed or implemented in a way that causes any interruption in the allocations of fishery resources to thewestern Alaska community development quota program or in the opportunity of an entity participating in that program to harvest its share of such allocations."
 
 #### Eligibility To Participate in Western Alaska Community Development Quota Program
 

@@ -22,7 +22,7 @@ Each public housing agency shall consult with the appropriate public housing res
 
 #### (1) Development
 
-&emsp;Each public housing agency shall develop and carry out a 5-year plan in conjunctionwith the Secretary for the removal of public housing units identified under subsection (a) from the inventory of the public housing agency and the annual contributions contract.
+&emsp;Each public housing agency shall develop and carry out a 5-year plan in conjunction with the Secretary for the removal of public housing units identified under subsection (a) from the inventory of the public housing agency and the annual contributions contract.
 
 #### (2) Approval
 
@@ -118,6 +118,8 @@ The Secretary shall take appropriate actions to ensure removal of any public hou
 
 (Sept. 1, 1937, ch. 896, title I, §33, as added Pub. L. 105–276, title V, §537(a), Oct. 21, 1998, 112 Stat. 2588.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Title I of the Housing and Community Development Act of 1992, referred to in subsec. (c)(2)(B), is title I of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3681. For complete classification of title I to the Code, see Tables.
@@ -125,6 +127,8 @@ Title I of the Housing and Community Development Act of 1992, referred to in sub
 Section 1437l of this title, referred to in subsec. (f)(1), (2), was repealed by Pub. L. 105–276, title V, §522(a), Oct. 21, 1998, 112 Stat. 2564.
 
 Section 503(a) of the Quality Housing and Work Responsibility Act of 1998, referred to in subsec. (f)(1), (3), is section 503(a) of Pub. L. 105–276, which is set out as an Effective Date of 1998 Amendment note under section 1437 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

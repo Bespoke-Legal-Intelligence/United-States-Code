@@ -22,7 +22,7 @@ For purposes of carrying out this chapter, the United States Marshals Service's 
 
 &emsp;(1) make the case management system or other system that provides access to a list of individuals who have provided advanced notice of international travel available to the Angel Watch Center;
 
-&emsp;(2) provide the Angel Watch Center a determination of compliance with title I of the Adam Walsh Child Protection and Safety Act of 2006 (42 U.S.C. 16901 et seq.) <sup>1</sup> for the list of individuals transmitted under section 21503(e)(1)(C) of this title;
+&emsp;(2) provide the Angel Watch Center a determination of compliance with title I of the Adam Walsh Child Protection and Safety Act of 2006 (42 U.S.C. 16901 et seq.) <sup>1</sup> for the list ofindividuals transmitted under section 21503(e)(1)(C) of this title;
 
 &emsp;(3) make available to the Angel Watch Center information on travel by sex offenders in a timely manner; and
 

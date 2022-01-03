@@ -42,7 +42,9 @@ Whenever the Assistant Secretary determines not to approve an application submit
 
 Whenever the Assistant Secretary approves an application of a nonprofit private or public organization under this part funds shall be awarded for not less than 12 months.
 
-(Pub. L. 89–73, title VI, §624, as added Pub. L. 100–175, title I, §171, Nov. 29, 1987, 101 Stat. 962; amended Pub. L. 102–375, title I, §102(b)(4), titleVI, §603, Sept. 30, 1992, 106 Stat. 1201, 1270; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990.)
+(Pub. L. 89–73, title VI, §624, as added Pub. L. 100–175, title I, §171, Nov. 29, 1987, 101 Stat. 962; amended Pub. L. 102–375, title I, §102(b)(4), title VI, §603, Sept. 30, 1992, 106 Stat. 1201, 1270; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -51,6 +53,8 @@ Whenever the Assistant Secretary approves an application of a nonprofit private 
 <b>1992</b>—Subsec. (a)(3). Pub. L. 102–375, §603, inserted before semicolon at end "and with the activities carried out under subchapter III in the same geographical area".
 
 Subsec. (a)(7). Pub. L. 102–375, §102(b)(4), substituted "information and assistance" for "information and referral".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

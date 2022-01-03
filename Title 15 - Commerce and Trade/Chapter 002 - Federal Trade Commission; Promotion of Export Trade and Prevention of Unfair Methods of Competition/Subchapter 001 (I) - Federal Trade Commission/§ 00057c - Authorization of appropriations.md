@@ -4,19 +4,23 @@ There are authorized to be appropriated to carry out the functions, powers, and 
 
 (Sept. 26, 1914, ch. 311, §25, formerly §20, as added Pub. L. 93–367, title II, §207, Jan. 4, 1975, 88 Stat. 2203; amended Pub. L. 94–299, §1, May 29, 1976, 90 Stat. 588; renumbered §24 and amended Pub. L. 96–252, §§13, 17, May 28, 1980, 94 Stat. 380, 391; renumbered §25 and amended Pub. L. 103–312, §§2, 14, Aug. 26, 1994, 108 Stat. 1691, 1697; Pub. L. 104–216, §2, Oct. 1, 1996, 110 Stat. 3019.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 25 of act Sept. 26, 1914, was renumbered section 28 and is classified to section 58 of this title.
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–216 struck out "and" before "not to exceed $102,000,000" and inserted before period at end"; not to exceed $107,000,000 for fiscal year 1997; and not to exceed $111,000,000 for fiscal year 1998".
+<b>1996</b>—Pub. L. 104–216 struck out "and" before "not to exceed $102,000,000" and inserted before period at end "; not to exceed $107,000,000 for fiscal year 1997; and not to exceed $111,000,000 for fiscal year 1998".
 
 <b>1994</b>—Pub. L. 103–312, §14, amended section generally. Prior to amendment, section read as follows: "There are authorized to be appropriated to carry out the functions, powers, and duties of the Federal Trade Commission not to exceed $42,000,000 for the fiscal year ending June 30, 1975; not to exceed $47,091,000 for the fiscal year ending June 30, 1976; not to exceed $50,000,000 for the fiscal year ending in 1977; not to exceed $70,000,000 for the fiscal year ending September 30, 1980; not to exceed $75,000,000 for the fiscal year ending September 30, 1981; and not to exceed $80,000,000 for the fiscal year ending September 30, 1982."
 
 <b>1980</b>—Pub. L. 96–252, §17, substituted "1977; not to exceed $70,000,000 for the fiscal year ending September 30, 1980; not to exceed $75,000,000 for the fiscal year ending September 30, 1981; and not to exceed $80,000,000 for the fiscal year ending September 30, 1982" for "1977. For fiscal years ending after 1977, there may be appropriated to carry out such functions, powers, and duties, only such sums as the Congress may hereafter authorize by law".
 
 <b>1976</b>—Pub. L. 94–299 substituted "$47,091,000" for "$46,000,000".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 
@@ -36,9 +40,9 @@ Contents of Notice to Congress.—The notice required in subsection (a) shall in
 
 #### Restriction on Use of Funds To Cancel Registration of Trademarks
 
-Section 18 of Pub. L. 96–252 prohibited the Federal Trade Commission from using any funds authorized to be appropriated to carry out this subchapter for fiscal year 1980, 1981, or 1982 (or 1983 as extended by Pub. L. 97–377, title I §101(d), Dec. 21, 1982, 96 Stat. 1870), under this section, for the purpose of taking any action under 15 U.S.C. 1064 with respect to the cancellation of the registration of any mark on the ground that such mark has become the common descriptive name of an article or substance.
+Pub. L. 96–252, §18, May 28, 1980, 94 Stat. 391, prohibited the Federal Trade Commission from using any funds authorized to be appropriated to carry out this subchapter for fiscal year 1980, 1981, or 1982 (or 1983 as extended by Pub. L. 97–377, title I §101(d), Dec. 21, 1982, 96 Stat. 1870), under this section, for the purpose of taking any action under 15 U.S.C. 1064 with respect to the cancellation of the registration of any mark on the ground that such mark has become the common descriptive name of an article or substance.
 
 #### Restriction on Use of Funds Respecting Study, Investigation, or Prosecution of any Agricultural Cooperative or Study or Investigation of any Agricultural Marketing Orders
 
-Section 20 of Pub. L. 96–252 prohibited the Federal Trade Commission from using any funds authorized to be appropriated to carry out this subchapter for fiscal year 1980, 1981, or 1982 (or 1983 as extended by Pub. L. 97–377, title I §101(d), Dec. 21, 1982, 96 Stat. 1870), under this section, for the purpose of conducting any study, investigation, or prosecution of any agricultural cooperative for any conduct which, because of the provisions of the Capper-Volstead Act (7 U.S.C. 291 et seq.), was not a violation of any Federal antitrust Act or this subchapter or for the purpose of conducting any study or investigation of any agricultural marketing orders.
+Pub. L. 96–252, §20, May 28, 1980, 94 Stat. 393, prohibited the Federal Trade Commission from using any funds authorized to be appropriated to carry out this subchapter for fiscal year 1980, 1981, or 1982 (or 1983 as extended by Pub. L. 97–377, title I §101(d), Dec. 21, 1982, 96 Stat. 1870), under this section, for the purpose of conducting any study, investigation, or prosecution of any agricultural cooperative for any conduct which, because of the provisions of the Capper-Volstead Act (7 U.S.C. 291 et seq.), was not a violation of any Federal antitrust Act or this subchapter or for the purpose of conducting any study or investigation of any agricultural marketing orders.
 

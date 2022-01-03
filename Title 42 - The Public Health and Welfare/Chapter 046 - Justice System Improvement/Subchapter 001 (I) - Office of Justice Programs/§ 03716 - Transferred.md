@@ -1,8 +1,12 @@
 ### §3716. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 3716 was editorially reclassified as section 30503 of Title 34, Crime Control and Law Enforcement.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

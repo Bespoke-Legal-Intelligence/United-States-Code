@@ -26,7 +26,7 @@ In making contracts or other arrangements for scientific or engineering research
 
 #### (f) Transfer of research and education funds of other Government departments or agencies
 
-Funds available to any department or agency of the Government for scientific or engineering research or education, or the provision of facilities therefor, shall be available for transfer, with the approval of the head of the department or agency involved, in whole or in part, to the Foundation for such use as is consistent with the purposes for which such funds were provided, and funds so transferred shall be expendable by the Foundation for the purposes for which the transfer was made.
+Funds available to any department or agency of the Government for scientific or engineeringresearch or education, or the provision of facilities therefor, shall be available for transfer, with the approval of the head of the department or agency involved, in whole or in part, to the Foundation for such use as is consistent with the purposes for which such funds were provided, and funds so transferred shall be expendable by the Foundation for the purposes for which the transfer was made.
 
 #### (g) "United States" defined
 
@@ -55,6 +55,8 @@ Notwithstanding any other provision of law, the authorization of any appropriati
 (3) Violation of this subsection is punishable by a fine of not more than $10,000, imprisonment for not more than 5 years, or both.
 
 (May 10, 1950, ch. 171, §14, 64 Stat. 154; renumbered §15, Pub. L. 85–510, §2, July 11, 1958, 72 Stat. 353; amended Pub. L. 86–232, §8, Sept. 8, 1959, 73 Stat. 469; renumbered §14 and amended Pub. L. 90–407, §§11(2), 12, July 18, 1968, 82 Stat. 365, 366; Pub. L. 91–120, §3, Nov. 18, 1969, 83 Stat. 203; Pub. L. 95–99, §12(c), formerly §14(c), Aug. 15, 1977, 91 Stat. 835, renumbered §12(c), Pub. L. 99–159, title I, §109(h), Nov. 22, 1985, 99 Stat. 890; Pub. L. 99–159, title I, §§109(e)(1), 110(a)(18), Nov. 22, 1985, 99 Stat. 889, 891; Pub. L. 100–570, title I, §§106, 107, Oct. 31, 1988, 102 Stat. 2868, 2869; Pub. L. 101–589, title II, §251, Nov. 16, 1990, 104 Stat. 2894; Pub. L. 102–139, title III, Oct. 28, 1991, 105 Stat. 774; Pub. L. 104–66, title II, §2141(b), Dec. 21, 1995, 109 Stat. 731; Pub. L. 105–207, title II, §202(a)(3), July 29, 1998, 112 Stat. 873; Pub. L. 107–368, §15(b), Dec. 19, 2002, 116 Stat. 3058.)
+
+#### <b>Editorial Notes</b>
 
 #### References of Text
 
@@ -112,9 +114,7 @@ Subsec. (i). Pub. L. 90–407, §12, struck out subsec. (i) which provided for t
 
 <b>1959</b>—Subsec. (d). Pub. L. 86–232 increased compensation for $25 to $50 per diem.
 
-#### Transfer of Functions
-
-Authority of Director of National Science Foundation, from time to time, to make appropriate provisions authorizing performance by any other officer, or by any agency or employee, of National Science Foundation of any of his functions (including functions delegated to him by National Science Board), see Reorg. Plan No. 5 of 1965, eff. July 27, 1965, 30 F.R. 9355, 79 Stat. 1323, set out in the Appendix to Title 5, Government Organization and Employees.
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### References to Maximum Rate Under 5 U.S.C. 5376
 
@@ -126,7 +126,7 @@ Pub. L. 94–471, §7, Oct. 11, 1976, 90 Stat. 2056, provided that:
 
 "(a) The Director of the National Science Foundation shall initiate an intensive search for qualified women, members of minority groups, and handicapped individuals to fill executive level positions in the National Science Foundation. In carrying out the requirement of this subsection, the Director shall work closely with organizations which have been active in seeking greater recognition and utilization of the scientific and technical capabilities of minorities, women, and handicapped individuals. The Director shall improve the representation of minorities, women, and handicapped individuals on advisory committees, review panels, and all other mechanisms by which the scientific community provides assistance to the Foundation. The Director of the National Science Foundation shall report quarterly to the Congress on the status of minorities, women, and handicapped individuals and activities undertaken pursuant to this section.
 
-"(b) Notwithstanding any other provision of this or any other Act, the National Science Foundation shall, with funds available from the program "Minorities, Women, and Handicapped Individuals in Science" conduct experimental forums, conferences, workshops or other activities designed to improve scientific literacy and to encourage and assist minorities, women, and handicapped individuals to undertake and to advance in careers in scientific research and science education.
+"(b) Notwithstanding any other provision of this or any other Act, the National Science Foundation shall, with funds available from the program 'Minorities, Women, and Handicapped Individuals in Science' conduct experimental forums, conferences, workshops or other activities designed to improve scientific literacy and to encourage and assist minorities, women, and handicapped individuals to undertake and to advance in careers in scientific research and science education.
 
 "(c)(1) In order to promote increased participation by minorities in careers in science and engineering, the National Science Foundation is authorized and directed to make available planning and study grants for programs including, but not limited to, Minority Centers for Graduate Education in Science and Engineering in accordance with this subsection.
 
@@ -146,11 +146,17 @@ Pub. L. 94–471, §7, Oct. 11, 1976, 90 Stat. 2056, provided that:
 
 &emsp;"(G) will develop joint educational programs with nearby undergraduate institutions of higher education which have a substantial minority student enrollment.
 
-"(3) The Director, in consultation with groups which have been active in seeking greater recognition of the scientific and technical capabilities of minorities, shall establish criteria for the award of the grants, and shall report to the Committee on Science and Technology of the House of Representatives \[now Committee on Science, Space, and Technology\] and the Committee on Labor and Public Welfare \[now Committee on Health, Education, Labor, and Pensions\] of the Senate on the results of activities including an evaluation and assessment of the entire program carried out under this subsection, not later than March 1, 1977."
+"(3) The Director, in consultation with groups which have been active in seeking greater recognition of thescientific and technical capabilities of minorities, shall establish criteria for the award of the grants, and shall report to the Committee on Science and Technology of the House of Representatives \[now Committee on Science, Space, and Technology\] and the Committee on Labor and Public Welfare \[now Committee on Health, Education, Labor, and Pensions\] of the Senate on the results of activities including an evaluation and assessment of the entire program carried out under this subsection, not later than March 1, 1977."
 
 #### Continuation of Existing Offices, Procedures, and Organization of the National Science Foundation
 
 Amendment by Pub. L. 90–407 intended to continue in effect the existing offices, procedures, and organization of the Foundation, see section 16 of Pub. L. 90–407, set out as a note under section 1862 of this title.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Authority of Director of National Science Foundation, from time to time, to make appropriate provisions authorizing performance by any other officer, or by any agency or employee, of National Science Foundation of any of his functions (including functions delegated to him by National Science Board), see Reorg. Plan No. 5 of 1965, eff. July 27, 1965, 30 F.R. 9355, 79 Stat. 1323, set out in the Appendix to Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

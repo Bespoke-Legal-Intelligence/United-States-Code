@@ -4,13 +4,15 @@ Not later than December 15 following the issuance of the marketing quota proclam
 
 (Feb. 16, 1938, ch. 30, title III, §343, 52 Stat. 56; Apr. 7, 1938, ch. 107, §8, 52 Stat. 203; July 26, 1939, ch. 376, 53 Stat. 1125; July 3, 1948, ch. 827, title II, §207(c), 62 Stat. 1257; Aug. 29, 1949, ch. 518, §1, 63 Stat. 670; Oct. 31, 1949, ch. 792, title IV, §415(e), 63 Stat. 1058; Pub. L. 97–77, §2(c), Nov. 13, 1981, 95 Stat. 1069; Pub. L. 99–157, §4, Nov. 15, 1985, 99 Stat. 818.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Provision that if marketing quotas were proclaimed for the 1950 crop, farmers eligible to vote in the referendum with respect to such crop were to be those farmers who had produced cotton in the 1948 calendar year was omitted from the Code.
 
 #### Amendments
 
-<b>1985</b>—Pub. L. 99–157 amended last sentence generally, substituting "August 1, 1986, may be conducted not later than thirty-one days after adjournment sine die of the first session of the Ninety-ninth Congress" for "August 1, 1982, may be conducted not later than the earlier of the following: (1) thirty days after adjournment sine die of the first session of the Ninety-seventh Congress, or (2) January 1, 1982".
+<b>1985</b>—Pub. L. 99–157 amended last sentence generally, substituting "August 1, 1986, may be conducted notlater than thirty-one days after adjournment sine die of the first session of the Ninety-ninth Congress" for "August 1, 1982, may be conducted not later than the earlier of the following: (1) thirty days after adjournment sine die of the first session of the Ninety-seventh Congress, or (2) January 1, 1982".
 
 <b>1981</b>—Pub. L. 97–77 inserted provision that the referendum with respect to the national marketing quota for cotton for the marketing year beginning Aug. 1, 1982, be conducted not later than the earlier of the following: (1) thirty days after adjournment sine die of the first session of the Ninety-seventh Congress, or (2) Jan. 1, 1982.
 
@@ -23,6 +25,8 @@ Subsec. (a). Act Oct. 31, 1949, repealed amendatory provisions of act July 3, 19
 <b>1939</b>—Subsec. (b). Act July 26, 1939, inserted last sentence.
 
 <b>1938</b>—Subsec. (c). Act Apr. 7, 1938, substituted "for any year" for "for 1938 and 1939".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1948 Amendment
 

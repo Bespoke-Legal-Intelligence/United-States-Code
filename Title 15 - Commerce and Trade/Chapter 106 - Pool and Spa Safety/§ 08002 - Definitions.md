@@ -36,6 +36,8 @@ In this chapter:
 
 (Pub. L. 110–140, title XIV, §1403, Dec. 19, 2007, 121 Stat. 1795; Pub. L. 110–314, title II, §238(1), Aug. 14, 2008, 122 Stat. 3076; Pub. L. 112–10, div. B, title V, §1576(a), Apr. 15, 2011, 125 Stat. 139.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 2052(10) of this title, referred to in par. (8), was redesignated section 2052(15) of this title by Pub. L. 110–314, title II, §235(b)(4), Aug. 14, 2008, 122 Stat. 3074.
@@ -45,6 +47,8 @@ Section 2052(10) of this title, referred to in par. (8), was redesignated sectio
 <b>2011</b>—Par. (8). Pub. L. 112–10 inserted at end "For purposes of eligibility for the grants authorized under section 8004 of this title, such term shall also include any political subdivision of a State."
 
 <b>2008</b>—Par. (8). Pub. L. 110–314 added par. (8).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

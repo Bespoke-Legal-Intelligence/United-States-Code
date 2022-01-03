@@ -2,7 +2,7 @@
 
 #### (a) Enforcement
 
-A civil action to enforce the provisions of sections 539m to 539m–12 of this title may bebrought to the extent permitted under chapter 7 of title 5. Judicial review shall be based on the administrative record and subject to the applicable standard of review set forth in section 706 of title 5.
+A civil action to enforce the provisions of sections 539m to 539m–12 of this title may be brought to the extent permitted under chapter 7 of title 5. Judicial review shall be based on the administrative record and subject to the applicable standard of review set forth in section 706 of title 5.
 
 #### (b) Waiver
 
@@ -13,6 +13,8 @@ A civil action may be brought against the Pueblo for declaratory judgment or inj
 Venue for any civil action provided for in this section, as well as any civil action to contest the constitutionality of sections 539m to 539m–12 of this title, shall lie only in the United States District Court for the District of New Mexico.
 
 (Pub. L. 108–7, div. F, title IV, §412, Feb. 20, 2003, 117 Stat. 291.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

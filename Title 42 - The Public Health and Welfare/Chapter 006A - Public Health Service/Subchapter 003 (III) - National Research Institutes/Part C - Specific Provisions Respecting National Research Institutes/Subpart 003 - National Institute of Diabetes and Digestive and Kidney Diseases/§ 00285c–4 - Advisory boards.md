@@ -26,7 +26,7 @@ Each Advisory Board shall be composed of eighteen appointed members and nonvotin
 
 #### (c) Compensation
 
-Members of an Advisory Board who are officers or employees of the Federal Governmentshall serve as members of the Advisory Board without compensation in addition to that received in their regular public employment. Other members of the Board shall receive compensation at rates not to exceed the daily equivalent of the annual rate in effect for grade GS–18 of the General Schedule for each day (including traveltime) they are engaged in the performance of their duties as members of the Board.
+Members of an Advisory Board who are officers or employees of the Federal Government shall serve as members of the Advisory Board without compensation in addition to that received in their regular public employment. Other members of the Board shall receive compensation at rates not to exceed the daily equivalent of the annual rate in effect for grade GS–18 of the General Schedule for each day (including traveltime) they are engaged in the performance of their duties as members of the Board.
 
 #### (d) Term of office; vacancy
 
@@ -64,6 +64,8 @@ The National Diabetes Advisory Board and the National Digestive Diseases Advisor
 
 (July 1, 1944, ch. 373, title IV, §430, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 844; amended Pub. L. 100–607, title I, §131, Nov. 4, 1988, 102 Stat. 3056; Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 102–531, title III, §312(d)(6), Oct. 27, 1992, 106 Stat. 3504; Pub. L. 103–43, title XX, §2008(b)(5), June 10, 1993, 107 Stat. 211; Pub. L. 105–362, title VI, §601(a)(1)(C), Nov. 10, 1998, 112 Stat. 3285; Pub. L. 110–154, §1(b)(6), Dec. 21, 2007, 121 Stat. 1827.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2007</b>—Subsec. (b)(2)(B). Pub. L. 110–154 substituted "Eunice Kennedy Shriver National Institute of Child Health and Human Development" for "National Institute of Child Health and Human Development".
@@ -85,6 +87,8 @@ The National Diabetes Advisory Board and the National Digestive Diseases Advisor
 Pub. L. 102–405 substituted "Under Secretary for Health" for "Chief Medical Director".
 
 <b>1988</b>—Subsecs. (k), (l). Pub. L. 100–607 redesignated subsec. (l) as (k) and struck out former subsec. (k) which read as follows: "Each Advisory Board shall expire on September 30, 1988."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Advisory Boards
 

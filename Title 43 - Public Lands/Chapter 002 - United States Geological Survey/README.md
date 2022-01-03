@@ -14,6 +14,7 @@
 | [31i.](%C2%A7%2000031i%20-%20Report%20on%20resource%20research%20activities.md) | Report on resource research activities. |
 | [31j.](%C2%A7%2000031j%20-%20Biological%20research%20activity%20of%20Survey%3B%20review%20and%20report%20by%20National%20Academy%20of%20Sciences.md) | Biological research activity of Survey; review and report by National Academy of Sciences. |
 | [31k.](%C2%A7%2000031k%20-%20National%20Volcano%20Early%20Warning%20and%20Monitoring%20System.md) | National Volcano Early Warning and Monitoring System. |
+| 31<i>l.</i> | Earth Mapping Resources Initiative. |
 | [32\.](%C2%A7%2000032%20-%20Acting%20Director.md) | Acting Director. |
 | [33\.](%C2%A7%2000033%20-%20Repealed.%20Aug.%2010%2C%201956%2C%20ch.%201041%2C%20%C2%A753%2C%2070A%20Stat.%20641.md) | Repealed. |
 | [34\.](%C2%A7%2000034%20-%20Scientific%20employees.md) | Scientific employees. |
@@ -40,6 +41,7 @@
 | [50b.](%C2%A7%2000050b%20-%20Recording%20of%20obligations%20against%20accounts%20receivable%20and%20crediting%20of%20amounts%20received%3B%20work%20involving%20cooperation%20with%20State%2C%20Territory%E2%80%A6.md) | Recording of obligations against accounts receivable and crediting of amounts received; work involving cooperation with State, Territory, etc. |
 | [50c.](%C2%A7%2000050c%20-%20Payment%20of%20costs%20incidental%20to%20utilization%20of%20services%20of%20volunteers.md) | Payment of costs incidental to utilization of services of volunteers. |
 | [50d.](%C2%A7%2000050d%20-%20Services%20of%20students%20or%20recent%20graduates.md) | Services of students or recent graduates. |
+| [50e.](%C2%A7%2000050e%20-%20USGS%20energy%20and%20minerals%20research%20facility.md) | USGS energy and minerals research facility. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -60,6 +62,7 @@
 - [&sect; 00031i - Report on resource research activities](%C2%A7%2000031i%20-%20Report%20on%20resource%20research%20activities.md)
 - [&sect; 00031j - Biological research activity of Survey; review and report by National Academy of Sciences](%C2%A7%2000031j%20-%20Biological%20research%20activity%20of%20Survey%3B%20review%20and%20report%20by%20National%20Academy%20of%20Sciences.md)
 - [&sect; 00031k - National Volcano Early Warning and Monitoring System](%C2%A7%2000031k%20-%20National%20Volcano%20Early%20Warning%20and%20Monitoring%20System.md)
+- [&sect; 00031l - Earth Mapping Resources Initiative](%C2%A7%2000031l%20-%20Earth%20Mapping%20Resources%20Initiative.md)
 - [&sect; 00032 - Acting Director](%C2%A7%2000032%20-%20Acting%20Director.md)
 - [&sect; 00033 - Repealed. Aug. 10, 1956, ch. 1041, &sect;53, 70A Stat. 641](%C2%A7%2000033%20-%20Repealed.%20Aug.%2010%2C%201956%2C%20ch.%201041%2C%20%C2%A753%2C%2070A%20Stat.%20641.md)
 - [&sect; 00034 - Scientific employees](%C2%A7%2000034%20-%20Scientific%20employees.md)
@@ -88,3 +91,4 @@
 - [&sect; 00050b - Recording of obligations against accounts receivable and crediting of amounts received; work involving cooperation with State, Territory&#8230;](%C2%A7%2000050b%20-%20Recording%20of%20obligations%20against%20accounts%20receivable%20and%20crediting%20of%20amounts%20received%3B%20work%20involving%20cooperation%20with%20State%2C%20Territory%E2%80%A6.md)
 - [&sect; 00050c - Payment of costs incidental to utilization of services of volunteers](%C2%A7%2000050c%20-%20Payment%20of%20costs%20incidental%20to%20utilization%20of%20services%20of%20volunteers.md)
 - [&sect; 00050d - Services of students or recent graduates](%C2%A7%2000050d%20-%20Services%20of%20students%20or%20recent%20graduates.md)
+- [&sect; 00050e - USGS energy and minerals research facility](%C2%A7%2000050e%20-%20USGS%20energy%20and%20minerals%20research%20facility.md)

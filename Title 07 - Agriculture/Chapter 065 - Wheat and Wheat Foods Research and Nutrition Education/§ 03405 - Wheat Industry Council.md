@@ -4,7 +4,7 @@ Any order issued pursuant to this chapter shall contain such terms and condition
 
 #### (a) Establishment; powers
 
-&emsp;for the establishment and appointment by the Secretary of a Wheat Industry Council which shall consist of not more than twenty members and alternates therefor, and for the definition of its powers and duties which shall include only the powers enumerated in this section, and shall specifically include the powers to (1) administer such order in accordance with its terms and provisions, (2) make rules and regulations to effectuate the terms and provisions of such order, (3) receive, investigate, and report to the Secretary complaints of violations of such order, and (4) recommend to the Secretary amendments to such order. The term of an appointment to the Council shall be for two years with no member serving more than three consecutive terms, except that initial appointments shall be proportionately for two-year and three-year terms;
+&emsp;for the establishment and appointment by the Secretary of a Wheat Industry Councilwhich shall consist of not more than twenty members and alternates therefor, and for the definition of its powers and duties which shall include only the powers enumerated in this section, and shall specifically include the powers to (1) administer such order in accordance with its terms and provisions, (2) make rules and regulations to effectuate the terms and provisions of such order, (3) receive, investigate, and report to the Secretary complaints of violations of such order, and (4) recommend to the Secretary amendments to such order. The term of an appointment to the Council shall be for two years with no member serving more than three consecutive terms, except that initial appointments shall be proportionately for two-year and three-year terms;
 
 #### (b) Membership
 
@@ -43,6 +43,8 @@ Any order issued pursuant to this chapter shall contain such terms and condition
 &emsp;that the Council members, and alternates therefor, shall serve without compensation, but shall be reimbursed for their reasonable expenses incurred in performing their duties as members of the Council.
 
 (Pub. L. 95–113, title XVII, §1706, Sept. 29, 1977, 91 Stat. 1034.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

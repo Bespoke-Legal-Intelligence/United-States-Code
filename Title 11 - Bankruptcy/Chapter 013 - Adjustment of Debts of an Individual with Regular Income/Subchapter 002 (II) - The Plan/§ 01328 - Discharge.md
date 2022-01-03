@@ -50,19 +50,7 @@
 
 &emsp;(2) there is pending any proceeding in which the debtor may be found guilty of a felony of the kind described in section 522(q)(1)(A) or liable for a debt of the kind described in section 522(q)(1)(B).
 
-(i) Subject to subsection (d), after notice and a hearing, the court may grant a discharge of debts dischargeable under subsection (a) to a debtor who has not completed payments to the trustee or a creditor holding a security interest in the principal residence of the debtor if—
-
-&emsp;(1) the debtor defaults on not more than 3 monthly payments due on a residential mortgage under section 1322(b)(5) on or after March 13, 2020, to the trustee or creditor caused by a material financial hardship due, directly or indirectly, by the coronavirus disease 2019 (COVID–19) pandemic; or
-
-&emsp;(2)(A) the plan provides for the curing of a default and maintenance of payments on a residential mortgage under section 1322(b)(5); and
-
-&emsp;(B) the debtor has entered into a forbearance agreement or loan modification agreement with the holder or servicer (as defined in section 6(i) of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2605(i)) <sup>1</sup> of the mortgage described in subparagraph (A).
-
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2650; Pub. L. 98–353, title III, §532, July 10, 1984, 98 Stat. 389; Pub. L. 101–508, title III, §3007(b)(1), Nov. 5, 1990, 104 Stat. 1388–28; Pub. L. 101–581, §§2(b), 3, Nov. 15, 1990, 104 Stat. 2865; Pub. L. 101–647, title XXXI, §§3102(b), 3103, Nov. 29, 1990, 104 Stat. 4916; Pub. L. 103–394, title III, §302, title V, §501(d)(38), Oct. 22, 1994, 108 Stat. 4132, 4147; Pub. L. 109–8, title I, §106(c), title II, §213(11), title III, §§312(2), 314(b), 330(d), title VII, §707, Apr. 20, 2005, 119 Stat. 38, 53, 87, 88, 102, 126; Pub. L. 116–260, div. FF, title X, §1001(b), Dec. 27, 2020, 134 Stat. 3217.)
-
-#### Amendment of Subsection (i)
-
-<i>Pub. L. 116–260, div. FF, title X, §1001(b)(2), Dec. 27, 2020, 134 Stat. 3217, provided that, effective on the date that is 1 year after Dec. 27, 2020, this section is amended by striking subsection (i). See 2020 Amendment note below.</i>
 
 #### Historical and Revision Notes
 
@@ -104,7 +92,7 @@ Pub. L. 109–8, §314(b), added pars. (1) to (4) and struck out former pars. (1
 
 "(3) for restitution, or a criminal fine, included in a sentence on the debtor's conviction of a crime."
 
-Pub. L. 109–8, §213(11), inserted ", and in the case of a debtor who is required by a judicial or administrative order, or by statute, to pay a domestic support obligation, after such debtor certifies that all amounts payable under such order or such statute that are due on or before the date of the certification (including amounts due before the petition was filed, but only to the extent provided for by the plan) have been paid" after "completion by the debtor of all payments under the plan" in introductory provisions.
+Pub. L. 109–8, §213(11), inserted ", and in the case of a debtor who is required by a judicial or administrativeorder, or by statute, to pay a domestic support obligation, after such debtor certifies that all amounts payable under such order or such statute that are due on or before the date of the certification (including amounts due before the petition was filed, but only to the extent provided for by the plan) have been paid" after "completion by the debtor of all payments under the plan" in introductory provisions.
 
 Subsec. (a)(2). Pub. L. 109–8, §707, substituted "section 507(a)(8)(C) or in paragraph (1)(B), (1)(C)," for "paragraph".
 
@@ -161,6 +149,4 @@ Pub. L. 101–508, title III, §3007(b)(2), Nov. 5, 1990, 104 Stat. 1388–29, p
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by another closing parenthesis.</i>
 

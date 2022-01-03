@@ -50,7 +50,7 @@ The following Federal standards are hereby established:
 
 #### (4) Seasonal rates
 
-&emsp;The rates charged by an electric utility for providing electric service to each class of electric consumers shall be on a seasonal basis which reflects the costs of providing service to such class of consumers at different seasons ofthe year to the extent that such costs vary seasonally for such utility.
+&emsp;The rates charged by an electric utility for providing electric service to each class of electric consumers shall be on a seasonal basis which reflects the costs of providing service to such class of consumers at different seasons of the year to the extent that such costs vary seasonally for such utility.
 
 #### (5) Interruptible rates
 
@@ -68,7 +68,7 @@ The following Federal standards are hereby established:
 
 #### (7) Integrated resource planning
 
-&emsp;Each electric utility shall employ integrated resource planning. All plans or filings before a State regulatory authority to meet the requirements of this paragraph must be updated on a regular basis, must provide the opportunity for public participation and comment, and contain a requirement that the plan be implemented.
+&emsp;Each electric utility shall employ integrated resource planning. All plans or filings before a State regulatory authority to meet the requirements of this paragraph must be updated on a regular basis, must provide the opportunity for public participation and comment,and contain a requirement that the plan be implemented.
 
 #### (8) Investments in conservation and demand management
 
@@ -112,7 +112,7 @@ The following Federal standards are hereby established:
 
 #### (14) Time-based metering and communications
 
-&emsp;(A) Not later than 18 months after August 8, 2005, each electric utility shall offer each of its customer classes, and provide individual customers upon customer request, a time-based rate schedule under which the rate charged by the electric utility varies during different time periods and reflects the variance, if any, in the utility's costs of generating and purchasing electricity at the wholesale level. The time-based rate schedule shall enable the electric consumer to manage energy use and cost through advanced metering and communications technology.
+&emsp;(A) Not later than 18 months after August 8, 2005, each electric utility shall offer each of its customer classes, and provide individual customers upon customer request, a time-based rate schedule under which the rate charged by the electric utility varies during differenttime periods and reflects the variance, if any, in the utility's costs of generating and purchasing electricity at the wholesale level. The time-based rate schedule shall enable the electric consumer to manage energy use and cost through advanced metering and communications technology.
 
 &emsp;(B) The types of time-based rate schedules that may be offered under the schedule referred to in subparagraph (A) include, among others—
 
@@ -230,7 +230,37 @@ The following Federal standards are hereby established:
 
 &emsp;&emsp;Purchasers shall be able to access their own information at any time through the Internet and on other means of communication elected by that utility for Smart Grid applications. Other interested persons shall be able to access information not specific to any purchaser through the Internet. Information specific to any purchaser shall be provided solely to that purchaser.
 
-(Pub. L. 95–617, title I, §111, Nov. 9, 1978, 92 Stat. 3121; Pub. L. 102–486, title I, §111(a), (b), title VII, §712, Oct. 24, 1992, 106 Stat. 2795, 2910; Pub. L. 109–58, title XII, §§1251(a), 1252(a), 1254(a), Aug. 8, 2005, 119 Stat. 962, 963, 970; Pub. L. 110–140, title V, §532(a), title XIII, §1307(a), Dec. 19, 2007, 121 Stat. 1665, 1791; Pub. L. 111–5, div. A, title IV, §408(a), Feb. 17, 2009, 123 Stat. 146.)
+#### (20) Demand-response practices
+
+#### (A) In general
+
+&emsp;&emsp;Each electric utility shall promote the use of demand-response and demand flexibility practices by commercial, residential, and industrial consumers to reduce electricity consumption during periods of unusually high demand.
+
+#### (B) Rate recovery
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Each State regulatory authority shall consider establishing rate mechanisms allowing an electric utility with respect to which the State regulatory authority has ratemaking authority to timely recover the costs of promoting demand-response and demand flexibility practices in accordance with subparagraph (A).
+
+#### (ii) Nonregulated electric utilities
+
+&emsp;&emsp;&emsp;A nonregulated electric utility may establish rate mechanisms for the timely recovery of the costs of promoting demand-response and demand flexibility practices in accordance with subparagraph (A).
+
+#### (21) Electric vehicle charging programs
+
+&emsp;Each State shall consider measures to promote greater electrification of the transportation sector, including the establishment of rates that—
+
+&emsp;&emsp;(A) promote affordable and equitable electric vehicle charging options for residential, commercial, and public electric vehicle charging infrastructure;
+
+&emsp;&emsp;(B) improve the customer experience associated with electric vehicle charging, including by reducing charging times for light-, medium-, and heavy-duty vehicles;
+
+&emsp;&emsp;(C) accelerate third-party investment in electric vehicle charging for light-, medium-, and heavy-duty vehicles; and
+
+&emsp;&emsp;(D) appropriately recover the marginal costs of delivering electricity to electric vehicles and electric vehicle charging infrastructure.
+
+(Pub. L. 95–617, title I, §111, Nov. 9, 1978, 92 Stat. 3121; Pub. L. 102–486, title I, §111(a), (b), title VII, §712, Oct. 24, 1992, 106 Stat. 2795, 2910; Pub. L. 109–58, title XII, §§1251(a), 1252(a), 1254(a), Aug. 8, 2005, 119 Stat. 962, 963, 970; Pub. L. 110–140, title V, §532(a), title XIII, §1307(a), Dec. 19, 2007, 121 Stat. 1665, 1791; Pub. L. 111–5, div. A, title IV, §408(a), Feb. 17, 2009, 123 Stat. 146; Pub. L. 117–58, div. D, title I, §40104(a)(1), title IV, §40431(a), Nov. 15, 2021, 135 Stat. 930, 1047.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -239,6 +269,10 @@ This chapter, referred to in subsecs. (a) and (c), was in the original "this tit
 Section 79z–5a of title 15, referred to in subsec. (d)(10)(A)(ii), was repealed by Pub. L. 109–58, title XII, §1263, Aug. 8, 2005, 119 Stat. 974.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (d)(20). Pub. L. 117–58, §40104(a)(1), added par. (20).
+
+Subsec. (d)(21). Pub. L. 117–58, §40431(a), added par. (21).
 
 <b>2009</b>—Subsec. (d)(16) to (19). Pub. L. 111–5 redesignated par. (16) relating to consideration of smart grid investments as (18) and par. (17) relating to smart grid information as (19).
 
@@ -258,6 +292,8 @@ Subsec. (d)(7) to (9). Pub. L. 102–486, §111(a), added pars. (7) to (9).
 
 Subsec. (d)(10). Pub. L. 102–486, §712, added par. (10).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2007 Amendment
 
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
@@ -265,6 +301,10 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 #### State Authorities; Construction
 
 Nothing in amendment by section 712 of Pub. L. 102–486 to be construed as affecting or intending to affect, or in any way to interfere with, authority of any State or local government relating to environmental protection or siting of facilities, see section 731 of Pub. L. 102–486, set out as a note under section 796 of this title.
+
+#### Wage Rate Requirements
+
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of Title 42, The Public Health and Welfare.
 
 #### Report to President and Congress on Encouragement of Integrated Resource Planning and Investments in Conservation and Energy Efficiency by Electric Utilities
 

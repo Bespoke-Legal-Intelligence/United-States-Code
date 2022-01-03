@@ -52,6 +52,8 @@ Act
 
 The amendment reflects the repeal of section 3638 of this title and the enactment of a similar provision in section 972 of this title.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 3683 of this title, referred to in subsec. (a), was repealed (subject to a savings clause) by Pub. L. 99–145, title XIII, §1301(b)(1)(A), (C), Nov. 8, 1985, 99 Stat. 735.
@@ -80,9 +82,11 @@ Subsec. (a). Pub. L. 96–343, §9(a)(2)(B), substituted "an enlisted" for "a re
 
 <b>1958</b>—Subsec. (b). Pub. L. 85–861 substituted "section 972 of this title" for "section 3638 of this title".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments andspecial rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 1996 Amendment
 

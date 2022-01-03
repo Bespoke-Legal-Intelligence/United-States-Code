@@ -20,9 +20,13 @@ May 20, 1908, ch. 182, 35 Stat. 171.
 
 The words "in the form" and "by States, municipalities, or otherwise" are omitted as surplusage. The words "the appropriation for the maintenance and operation of vessels" are substituted for the words "the appropriation 'Equipment of Vessels' " to identify by a general description, rather than by a specific appropriation title, the appropriation authorized to be used.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7221 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

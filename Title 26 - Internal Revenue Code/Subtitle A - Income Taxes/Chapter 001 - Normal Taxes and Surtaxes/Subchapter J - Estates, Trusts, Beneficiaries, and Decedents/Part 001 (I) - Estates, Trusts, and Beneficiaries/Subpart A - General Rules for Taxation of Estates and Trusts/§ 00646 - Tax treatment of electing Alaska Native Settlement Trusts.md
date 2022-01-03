@@ -14,7 +14,7 @@ Except as provided in subsection (f)(1)(B)(ii)—
 
 #### (2) Capital gain
 
-&emsp;In the case of an electing Settlement Trust with a net capital gain for the taxable year, a tax is hereby imposed on such gain at the rate of tax which would apply to such gain if the taxpayer were subject to a tax on its other taxable income at only the lowest rate specified in section 1(c).
+&emsp;In the case of an electing Settlement Trust with a net capital gain for the taxable year, atax is hereby imposed on such gain at the rate of tax which would apply to such gain if the taxpayer were subject to a tax on its other taxable income at only the lowest rate specified in section 1(c).
 
 > Any such tax shall be in lieu of the income tax otherwise imposed by this chapter on such income or gain.
 
@@ -90,7 +90,7 @@ Amounts distributed by an electing Settlement Trust during any taxable year shal
 
 &emsp;&emsp;(B) at any time after such disposition of stock is first permitted, such corporation transfers assets to a Settlement Trust,
 
-> &emsp;paragraph (1)(B) shall be applied to such trust on and after the date of the transfer in the same manner as if the trust permitted dispositions of beneficial interests in the trust in a manner not permitted by such section 7(h).
+> &emsp;paragraph (1)(B) shall be applied to such trust on and after the date of the transfer in thesame manner as if the trust permitted dispositions of beneficial interests in the trust in a manner not permitted by such section 7(h).
 
 #### (3) Certain distributions
 
@@ -110,7 +110,7 @@ For purposes of this section—
 
 #### (2) Native Corporation
 
-&emsp;The term "Native Corporation" has the meaning given such term by section 3(m) ofthe Alaska Native Claims Settlement Act (43 U.S.C. 1602(m)).
+&emsp;The term "Native Corporation" has the meaning given such term by section 3(m) of the Alaska Native Claims Settlement Act (43 U.S.C. 1602(m)).
 
 #### (3) Settlement Common Stock
 
@@ -134,6 +134,8 @@ Any loss that would otherwise be recognized by a shareholder upon a disposition 
 
 (Added Pub. L. 107–16, title VI, §671(a), June 7, 2001, 115 Stat. 144.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1(c), referred to in subsec. (b), to be treated, for purposes of the rate of tax, as a reference to the corresponding rate bracket under section 1(j)(2)(C) of this title, see section 1(j)(2)(F) of this title.
@@ -143,6 +145,8 @@ The date of the enactment of this section, referred to in subsec. (c)(2)(A), is 
 #### Prior Provisions
 
 A prior section 646 was renumbered section 645 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

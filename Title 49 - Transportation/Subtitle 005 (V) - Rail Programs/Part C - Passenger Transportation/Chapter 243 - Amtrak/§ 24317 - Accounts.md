@@ -6,15 +6,27 @@ Purpose.—The purpose of this section is to—
 
 &emsp;(1) promote the effective use and stewardship by Amtrak of Amtrak revenues, Federal, State, and third party investments, appropriations, grants and other forms of financial assistance, and other sources of funds; and
 
-&emsp;(2) enhance the transparency of the assignment of revenues and costs among Amtrak business lines while ensuring the health of the Northeast Corridor and National Network.
+&emsp;(2) enhance the transparency of the assignment of revenues, including Federal grant funds, and costs among Amtrak service lines while ensuring the health of the Northeast Corridor and National Network.
 
 (b)
 
-Account Structure.—Not later than 180 days after the date of enactment of the Passenger Rail Reform and Investment Act of 2015, the Secretary of Transportation, in consultationwith Amtrak, shall define an account structure and improvements to accounting methodologies, as necessary, to support, at a minimum, the Northeast Corridor and the National Network.
+Account Structure.—
+
+&emsp;(1)
+
+In general.—The Secretary of Transportation, in consultation with Amtrak, shall define, maintain, and periodically update an account structure and improvements to accounting methodologies, as necessary, to support the Northeast Corridor and the National Network.
+
+&emsp;(2)
+
+Notification of substantive changes.—The Secretary shall notify the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Appropriations of the Senate, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Appropriations of the House of Representatives regarding any substantive changes made to the account structure, including changes to—
+
+&emsp;&emsp;(A) the service lines described in section 24320(b)(1); and
+
+&emsp;&emsp;(B) the asset lines described in section 24320(c)(1).
 
 (c)
 
-Financial Sources.—In defining the account structure and improvements to accounting methodologies required under subsection (b), the Secretary shall ensure, to the greatest extent practicable, that Amtrak assigns the following:
+Financial Sources.—In defining, maintaining, and updating the account structure and improvements to accounting methodologies required under subsection (b), the Secretary shall ensure, to the greatest extent practicable, that Amtrak assigns the following:
 
 &emsp;(1) For the Northeast Corridor account, all revenues, appropriations, grants and other forms of financial assistance, compensation, and other sources of funds associated with the Northeast Corridor, including—
 
@@ -34,7 +46,7 @@ Financial Sources.—In defining the account structure and improvements to accou
 
 (d)
 
-Financial Uses.—In defining the account structure and improvements to accounting methodologies required under subsection (b), the Secretary shall ensure, to the greatest extent practicable, that amounts assigned to the Northeast Corridor and National Network accounts shall be used by Amtrak for the following:
+Financial Uses.—In defining, maintaining, and updating the account structure and improvements to accounting methodologies required under subsection (b), the Secretary shall ensure, to the greatest extent practicable, that amounts assigned to the Northeast Corridor and National Network accounts shall be used by Amtrak for the following:
 
 &emsp;(1) For the Northeast Corridor, all associated costs, including—
 
@@ -42,7 +54,7 @@ Financial Uses.—In defining the account structure and improvements to accounti
 
 &emsp;&emsp;(B) capital activities as described in section 24904(a)(2)(E);
 
-&emsp;&emsp;(C) acquiring, rehabilitating, manufacturing, remanufacturing, overhauling, or improving equipment and associated facilities used for intercity rail passenger transportation by Northeast Corridor train services;
+&emsp;&emsp;(C) acquiring, rehabilitating, manufacturing, remanufacturing, overhauling, or improving equipment and associated facilitiesused for intercity rail passenger transportation by Northeast Corridor train services;
 
 &emsp;&emsp;(D) payment of principal and interest on loans for capital projects described in this paragraph or for capital leases attributable to the Northeast Corridor;
 
@@ -64,17 +76,11 @@ Implementation and Reporting.—
 
 &emsp;(1)
 
-In general.—Not later than 1 year after the date of enactment of the Passenger Rail Reform and Investment Act of 2015, Amtrak, in consultation with the Secretary, shall implement any account structures and improvements defined under subsection (b) so that Amtrak is able to produce profit and loss statements for each of the business lines described in section 24320(b)(1) and, as appropriate, each of the asset categories described in section 24320(c)(1) that identify sources and uses of—
-
-&emsp;&emsp;(A) revenues;
-
-&emsp;&emsp;(B) appropriations; and
-
-&emsp;&emsp;(C) transfers between business lines.
+In general.—Amtrak, in consultation with the Secretary of Transportation, shall maintain and implement any account structures and improvements defined under subsection (b) to enable Amtrak to produce sources and uses statements for each of the service lines described in section 24320(b)(1) and, as appropriate, each of the asset lines described in section 24320(c)(1), that identify sources and uses of revenues, appropriations, and transfers between accounts.
 
 &emsp;(2)
 
-Updated profit and loss statements.—Not later than 1 month after the implementation under paragraph (1), and monthly thereafter, Amtrak shall submit updated profit and loss statements for each of the business lines and asset categories to the Secretary.
+Updated sources and uses statements.—Not later than 30 days after the implementation of subsection (b), and monthly thereafter, Amtrak shall submit to the Secretary of Transportation updated sources and uses statements for each of the service lines and asset lines referred to in paragraph (1). The Secretary and Amtrak may agree to a different frequency of reporting.
 
 (f)
 
@@ -98,7 +104,7 @@ In general.—If Amtrak determines that a transfer between the accounts defined 
 
 &emsp;(2)
 
-Report.—Not later than 5 days after the Amtrak Board of Directors receives notification from Amtrak under paragraph (1)(A), the Board shall transmit to the Secretary, the Committee on Transportation and Infrastructure and the Committee on Appropriations ofthe House of Representatives, and the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate, a report that includes—
+Report.—Not later than 5 days after the Amtrak Board of Directors receives notification from Amtrak under paragraph (1)(A), the Board shall transmit to the Secretary, the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives, and the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate, a report that includes—
 
 &emsp;&emsp;(A) the amount of the transfer; and
 
@@ -114,21 +120,33 @@ Notifications.—Not later than 5 days after the date that Amtrak notifies the A
 
 (h)
 
-Report.—Not later than 2 years after the date of enactment of the Passenger Rail Reform and Investment Act of 2015, Amtrak shall submit to the Secretary a report assessing the account and reporting structure established under this section and providing any recommendations for further action. Not later than 180 days after the date of receipt of such report, the Secretary shall provide an assessment that supplements Amtrak's report and submit the Amtrak report with the supplemental assessment to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
-
-(i)
-
 Definition of Northeast Corridor.—Notwithstanding section 24102, for purposes of this section, the term "Northeast Corridor" means the Northeast Corridor main line between Boston, Massachusetts, and the District of Columbia, and facilities and services used to operate and maintain that line.
 
-(Added Pub. L. 114–94, div. A, title XI, §11201(a), Dec. 4, 2015, 129 Stat. 1625.)
+(Added Pub. L. 114–94, div. A, title XI, §11201(a), Dec. 4, 2015, 129 Stat. 1625; amended Pub. L. 117–58, div. B, title II, §22205, Nov. 15, 2021, 135 Stat. 699.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
-
-The date of enactment of the Passenger Rail Reform and Investment Act of 2015, referred to in subsecs. (b), (e)(1), and (h), is the date of enactment of title XI of div. A of Pub. L. 114–94, which was approved Dec. 4, 2015.
 
 Section 11101 of the Passenger Rail Reform and Investment Act of 2015, referred to in subsec. (c)(1)(A), (2)(A), is section 11101 of title XI of div. A of Pub. L. 114–94, Dec. 4, 2015, 129 Stat. 1622, which is not classified to the Code.
 
 Section 209 of the Passenger Rail Investment and Improvement Act of 2008 (42 U.S.C. 24101 note), referred to in subsec. (c)(2)(B), probably means section 209 of div. B of Pub. L. 110–432, which is set out as a note under section 24101 of this title.
+
+#### Amendments
+
+<b>2021</b>—Subsec. (a)(2). Pub. L. 117–58, §22205(1), substituted ", including Federal grant funds, and costs among Amtrak service lines" for "and costs among Amtrak business lines".
+
+Subsec. (b). Pub. L. 117–58, §22205(2), amended subsec. (b) generally. Prior to amendment, text read as follows: "Not later than 180 days after the date of enactment of the Passenger Rail Reform and Investment Act of 2015, the Secretary of Transportation, in consultation with Amtrak, shall define an account structure and improvements to accounting methodologies, as necessary, to support, at a minimum, the Northeast Corridor and the National Network."
+
+Subsec. (c). Pub. L. 117–58, §22205(3), inserted ", maintaining, and updating" after "defining" in introductory provisions.
+
+Subsec. (d). Pub. L. 117–58, §22205(4), inserted ", maintaining, and updating" after "defining" in introductory provisions.
+
+Subsec. (e). Pub. L. 117–58, §22205(5), amended subsec. (e) generally. Prior to amendment, subsec. (e) related to implementation of account structures and improvements and reporting of updated profit and loss statements for each of business lines and asset categories to Secretary.
+
+Subsecs. (h), (i). Pub. L. 117–58, §22205(6), (7), redesignated subsec. (i) as (h) and struck out former subsec. (h). Prior to amendment, text of subsec. (h) read as follows: "Not later than 2 years after the date of enactment of the Passenger Rail Reform and Investment Act of 2015, Amtrak shall submit to the Secretary a report assessing the account and reporting structure established under this section and providing any recommendations for further action. Not later than 180 days after the date of receipt of such report, the Secretary shall provide an assessment that supplements Amtrak's report and submit the Amtrak report with the supplemental assessment to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

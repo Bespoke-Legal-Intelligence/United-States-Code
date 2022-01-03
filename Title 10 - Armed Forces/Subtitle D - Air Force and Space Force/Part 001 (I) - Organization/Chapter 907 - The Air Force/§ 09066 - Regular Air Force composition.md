@@ -32,6 +32,8 @@ Sept. 19, 1951, ch. 407, §302, 65 Stat. 329; Apr. 1, 1954, ch. 127, §7, 68 Sta
 
 In subsection (b), the words "holding appointments or enlisted in the Regular Air Force as now or hereafter provided by law", "and such other persons as are now or may hereafter be specified by law", and "commissioned \* \* \* warrant officers" are omitted as surplusage, since the revised section lists all persons in the Regular Air Force. 10:1832(b) (last sentence) is omitted as executed.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Pub. L. 116–92 renumbered section 9075 of this title as this section.
@@ -39,6 +41,8 @@ In subsection (b), the words "holding appointments or enlisted in the Regular Ai
 <b>2018</b>—Pub. L. 115–232 renumbered section 8075 of this title as section 9075 of this title.
 
 <b>1958</b>—Subsec. (b)(2). Pub. L. 85–600 included the registrar of the Air Force Academy.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

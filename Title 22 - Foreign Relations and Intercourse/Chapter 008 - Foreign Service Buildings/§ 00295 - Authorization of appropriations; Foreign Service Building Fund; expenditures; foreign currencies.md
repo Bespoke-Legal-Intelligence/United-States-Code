@@ -1,6 +1,6 @@
 ### §295. Authorization of appropriations; Foreign Service Building Fund; expenditures; foreign currencies
 
-(a) For the purpose of carrying into effect the provisions of this chapter there is authorized to be appropriated an amount not exceeding $10,000,000, and the appropriations made pursuant to this authorization shall constitute a fund to be known as the Foreign Service Building Fund, to remain available until expended. Under this authorization not more than $2,000,000 shall be appropriated for any one year, but within the total authorization provided in this chapter the Secretary of State may enter into contracts for the acquisition of the buildings and grounds authorized by this chapter. In the case of the buildings and grounds authorized by this chapter, after the initial alterations, repairs, and furnishing have been completed, subsequent expenditures for such purposes may be made out of the appropriations authorized by this chapter in amounts authorized by the Congress each fiscal year.
+(a) For the purpose of carrying into effect the provisions of this chapter there is authorized to be appropriated an amount not exceeding $10,000,000, and the appropriations made pursuant to this authorization shall constitute a fund to be known as the Foreign Service Building Fund, to remain available until expended. Under this authorization not more than $2,000,000 shall be appropriated for any one year, but within the total authorization provided in this chapter the Secretary of State may enter into contracts for the acquisition of the buildings and grounds authorized by this chapter. In the case of the buildings and grounds authorized by this chapter, after the initial alterations, repairs, andfurnishing have been completed, subsequent expenditures for such purposes may be made out of the appropriations authorized by this chapter in amounts authorized by the Congress each fiscal year.
 
 (b) For the purpose of carrying into effect the provisions of this chapter there is authorized to be appropriated, in addition to amounts previously authorized, an amount not to exceed $90,000,000, which shall be available exclusively for payments representing the value, in whole or in part, of property or credits in accordance with the provisions of section 295b <sup>1</sup> of this title. Sums appropriated pursuant to this authorization shall remain available until expended.
 
@@ -54,7 +54,7 @@
 
 &emsp;&emsp;(A) for use in Africa, not to exceed $850,000, of which not to exceed $631,000 may be appropriated for the fiscal year 1974;
 
-&emsp;&emsp;(B) for use in the American Republics, not to exceed $240,000, of which not to exceed$240,000 may be appropriated for the fiscal year 1974;
+&emsp;&emsp;(B) for use in the American Republics, not to exceed $240,000, of which not to exceed $240,000 may be appropriated for the fiscal year 1974;
 
 &emsp;&emsp;(C) for use in Europe, not to exceed $682,000, of which not to exceed $204,000 may be appropriated for the fiscal year 1974;
 
@@ -114,7 +114,7 @@ Date of enactment of this section, referred to in subsec. (d), probably means th
 
 <b>1993</b>—Subsec. (j). Pub. L. 103–199 struck out subsec. (j) which read as follows: "For the purpose of carrying into effect the provisions of this chapter in the Union of Soviet Socialist Republics, there is authorized to be appropriated, in addition to amounts authorized prior to July 12, 1976, $30,000,000, which amount is authorized to remain available until expended."
 
-<b>1977</b>—Subsec. (h)(1). Pub. L. 95–45 substituted "$225,000" for "$6,725,000" in subpar. (A), "$12,885,000" for "$8,005,000" in subpar. (B), "$3,400,000" for"$3,745,000" in subpar. (C), "$150,000" for "$420,000" in subpar. (D), added subpar. (E), authorizing an appropriation of not to exceed $17,200,000 for facilities for the United States Agency for International Development for fiscal year 1977, and struck out subpars. which had authorized appropriations for Africa, the American Republics, and East Asia for fiscal year 1977.
+<b>1977</b>—Subsec. (h)(1). Pub. L. 95–45 substituted "$225,000" for "$6,725,000" in subpar. (A), "$12,885,000" for "$8,005,000" in subpar. (B), "$3,400,000" for "$3,745,000" in subpar. (C), "$150,000" for "$420,000" in subpar. (D), added subpar. (E), authorizing an appropriation of not to exceed $17,200,000 for facilities for the United States Agency for International Development for fiscal year 1977, and struck out subpars. which had authorized appropriations for Africa, the American Republics, and East Asia for fiscal year 1977.
 
 <b>1976</b>—Subsec. (h)(2). Pub. L. 94–350, §109(1), increased appropriations authorization for fiscal years 1976 and 1977 to $73,058,000 from $71,600,000.
 

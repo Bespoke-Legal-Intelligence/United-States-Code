@@ -60,7 +60,7 @@
 
 &emsp;&emsp;&emsp;(ii) that meet the criteria described in paragraph (1); and
 
-&emsp;&emsp;(B) a plan for expeditiously completing the projects under the authorities described insubparagraph (A), subject to available funding.
+&emsp;&emsp;(B) a plan for expeditiously completing the projects under the authorities described in subparagraph (A), subject to available funding.
 
 (Pub. L. 113–121, title I, §1011, June 10, 2014, 128 Stat. 1217; Pub. L. 114–322, title I, §1322(a), Dec. 16, 2016, 130 Stat. 1706.)
 

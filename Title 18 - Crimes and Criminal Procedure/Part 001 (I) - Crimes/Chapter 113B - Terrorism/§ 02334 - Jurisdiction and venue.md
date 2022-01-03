@@ -58,7 +58,7 @@ Exception for certain activities and locations.—In determining whether a defen
 
 &emsp;&emsp;(C) any activity involving officials of the United States that the Secretary of State determines is in the national interest of the United States if the Secretary reports to the appropriate congressional committees annually on the use of the authority under this subparagraph;
 
-&emsp;&emsp;(D) any activity undertaken exclusively for the purpose of meetings with officials ofthe United States or other foreign governments, or participation in training and related activities funded or arranged by the United States Government;
+&emsp;&emsp;(D) any activity undertaken exclusively for the purpose of meetings with officials of the United States or other foreign governments, or participation in training and related activities funded or arranged by the United States Government;
 
 &emsp;&emsp;(E) any activity related to legal representation—
 

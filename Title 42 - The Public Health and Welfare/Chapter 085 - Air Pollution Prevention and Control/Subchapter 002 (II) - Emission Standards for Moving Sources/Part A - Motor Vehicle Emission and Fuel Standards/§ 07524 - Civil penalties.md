@@ -50,19 +50,23 @@ The Administrator may commence a civil action to assess and recover any civil pe
 
 (July 14, 1955, ch. 360, title I, §205, as added Pub. L. 89–272, title I, §101(8), Oct. 20, 1965, 79 Stat. 994; amended Pub. L. 90–148, §2, Nov. 21, 1967, 81 Stat. 500; Pub. L. 91–604, §7(c), Dec. 31, 1970, 84 Stat. 1694; Pub. L. 95–95, title II, §219(c), Aug. 7, 1977, 91 Stat. 762; Pub. L. 101–549, title II, §228(c), Nov. 15, 1990, 104 Stat. 2508.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 1857f–4 of this title.
 
 #### Amendments
 
-<b>1990</b>—Pub. L. 101–549 amended section generally. Prior to amendment, section read as follows: "Any person who violates paragraph (1), (2), or (4) of section 7522(a) of this title or any manufacturer, dealer, or other person who violates paragraph (3)(A) of section 7522(a) of this title shall be subject to a civil penalty of not more than $10,000. Any person who violates paragraph (3)(B) of such section 7522(a) shall be subject to a civil penalty of not more than $2,500. Any such violation with respect to paragraph (1), (3), or (4) of section 7522(a) of this title shall constitute a separate offense with respect to each motor vehicle or motor vehicle engine."
+<b>1990</b>—Pub. L. 101–549 amended section generally. Prior to amendment, section read as follows: "Any person who violates paragraph (1), (2), or (4) of section 7522(a) of this title or any manufacturer, dealer, or other person who violates paragraph (3)(A) of section 7522(a) of this title shall be subject to a civil penalty of not more than $10,000. Any person who violates paragraph (3)(B)of such section 7522(a) shall be subject to a civil penalty of not more than $2,500. Any such violation with respect to paragraph (1), (3), or (4) of section 7522(a) of this title shall constitute a separate offense with respect to each motor vehicle or motor vehicle engine."
 
 <b>1977</b>—Pub. L. 95–95 substituted "Any person who violates paragraph (1), (2), or (4) of section 7522(a) of this title, or any manufacturer, dealer, or other person who violates paragraph (3)(A) of section 7522(a) of this title" for "Any person who violates paragraph (1), (2), (3), or (4) of section 7522(a) of this title" in provisions covering the civil penalty of $10,000, and inserted provisions for a civil penalty of not more than $2,500 for violations of par. (3)(B) of section 7522(a) of this title.
 
 <b>1970</b>—Pub. L. 91–604 increased the upper limit of the allowable fine from "$1,000" to "$10,000".
 
 <b>1967</b>—Pub. L. 90–148 reenacted section without change.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1977 Amendment
 

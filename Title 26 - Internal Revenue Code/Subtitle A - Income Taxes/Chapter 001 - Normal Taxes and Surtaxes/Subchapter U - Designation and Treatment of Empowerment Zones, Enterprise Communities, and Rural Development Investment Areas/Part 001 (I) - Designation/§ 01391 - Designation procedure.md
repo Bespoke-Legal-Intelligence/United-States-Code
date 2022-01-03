@@ -154,7 +154,7 @@ No area may be designated under this section unless the application for such des
 
 #### (1) In general
 
-&emsp;In addition to the areas designated under subsections (a) and (g), the appropriate Secretaries may designate in the aggregate an additional 9 nominated areas as empowerment zones under this section, subject to the availability of eligible nominated areas. Of that number, not more than seven may be designated in urban areas and not more than 2 may be designated in rural areas.
+&emsp;In addition to the areas designated under subsections (a) and (g), the appropriate Secretaries may designate in the aggregate an additional 9 nominated areas as empowermentzones under this section, subject to the availability of eligible nominated areas. Of that number, not more than seven may be designated in urban areas and not more than 2 may be designated in rural areas.
 
 #### (2) Period designations may be made and take effect
 
@@ -169,6 +169,8 @@ No area may be designated under this section unless the application for such des
 &emsp;The number of areas which may be designated as empowerment zones under this subsection shall be increased by 1 for each area which ceases to be an empowerment zone by reason of section 1400E(e).<sup>1</sup> Each additional area designated by reason of the preceding sentence shall have the same urban or rural character as the area it is replacing.
 
 (Added Pub. L. 103–66, title XIII, §13301(a), Aug. 10, 1993, 107 Stat. 543; amended Pub. L. 105–34, title IX, §§951(a), 952(a), (d), Aug. 5, 1997, 111 Stat. 885–887; Pub. L. 106–554, §1(a)(7) \[title I, §§111, 112, title III, §319(13)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–600, 2763A–601, 2763A–646; Pub. L. 111–312, title VII, §753(a), Dec. 17, 2010, 124 Stat. 3321; Pub. L. 112–240, title III, §327(a), Jan. 2, 2013, 126 Stat. 2334; Pub. L. 113–295, div. A, title I, §139(a), Dec. 19, 2014, 128 Stat. 4020; Pub. L. 114–113, div. Q, title I, §171(a)(1), Dec. 18, 2015, 129 Stat. 3069; Pub. L. 115–123, div. D, title I, §40311(a)(1), Feb. 9, 2018, 132 Stat. 147; Pub. L. 115–141, div. U, title IV, §401(a)(194), Mar. 23, 2018, 132 Stat. 1193; Pub. L. 116–94, div. Q, title I, §118(a), Dec. 20, 2019, 133 Stat. 3229; Pub. L. 116–260, div. EE, title I, §118(a), Dec. 27, 2020, 134 Stat. 3051.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -220,9 +222,11 @@ Subsecs. (e), (f). Pub. L. 105–34, §952(d)(1), substituted "this section" for
 
 Subsec. (g). Pub. L. 105–34, §952(a), added subsec. (g).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2020 Amendment
 
-Pub. L. 116–260, div. EE, title I, §118(e), Dec. 27, 2020, 134 Stat. 3051, provided that: "The amendments made by this section \[amending this section and sections1397A and 1397B of this title\] shall apply to taxable years beginning after December 31, 2020."
+Pub. L. 116–260, div. EE, title I, §118(e), Dec. 27, 2020, 134 Stat. 3051, provided that: "The amendments made by this section \[amending this section and sections 1397A and 1397B of this title\] shall apply to taxable years beginning after December 31, 2020."
 
 #### Effective Date of 2019 Amendment
 

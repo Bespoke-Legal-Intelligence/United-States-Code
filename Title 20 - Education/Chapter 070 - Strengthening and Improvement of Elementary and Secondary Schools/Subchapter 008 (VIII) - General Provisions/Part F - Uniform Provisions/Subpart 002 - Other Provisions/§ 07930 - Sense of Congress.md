@@ -4,7 +4,7 @@
 
 The Congress finds as follows:
 
-&emsp;(1) This chapter prohibits the Federal Government from mandating, directing, or controlling a State, local educational agency, or school's curriculum, program of instruction, or allocation of State and local resources, andfrom mandating a State or any subdivision thereof to spend any funds or incur any costs not paid for under this chapter.
+&emsp;(1) This chapter prohibits the Federal Government from mandating, directing, or controlling a State, local educational agency, or school's curriculum, program of instruction, or allocation of State and local resources, and from mandating a State or any subdivision thereof to spend any funds or incur any costs not paid for under this chapter.
 
 &emsp;(2) This chapter prohibits the Federal Government from funding the development, pilot testing, field testing, implementation, administration, or distribution of any federally sponsored national test in reading, mathematics, or any other subject, unless specifically and explicitly authorized by law.
 
@@ -13,6 +13,8 @@ The Congress finds as follows:
 It is the sense of the Congress that States and local educational agencies retain the rights and responsibilities of determining educational curriculum, programs of instruction, and assessments for elementary and secondary education.
 
 (Pub. L. 89–10, title VIII, §8549A, as added Pub. L. 114–95, title VIII, §8041, Dec. 10, 2015, 129 Stat. 2121.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

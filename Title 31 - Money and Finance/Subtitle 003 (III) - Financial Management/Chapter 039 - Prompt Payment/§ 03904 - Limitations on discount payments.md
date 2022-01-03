@@ -18,7 +18,7 @@ Historical and Revision Notes
 
 May 21, 1982, Pub. L. 97–177, §3, 96 Stat. 86.
 
-The word "otherwise" is omitted as surplus. The words "may pay the discounted amount" are substituted for "may make payment in an amount equal to the discounted price" to eliminate unnecessary words. The words "on such unpaid amount" and "theregulations prescribed pursuant to" are omitted as surplus. The words "specified in the contract that the discounted amount may be paid" are substituted for "of the specified period of time described in subsection (a)" for clarity.
+The word "otherwise" is omitted as surplus. The words "may pay the discounted amount" are substituted for "may make payment in an amount equal to the discounted price" to eliminate unnecessary words. The words "on such unpaid amount" and "the regulations prescribed pursuant to" are omitted as surplus. The words "specified in the contract that the discounted amount may be paid" are substituted for "of the specified period of time described in subsection (a)" for clarity.
 
 #### <b>Editorial Notes</b>
 

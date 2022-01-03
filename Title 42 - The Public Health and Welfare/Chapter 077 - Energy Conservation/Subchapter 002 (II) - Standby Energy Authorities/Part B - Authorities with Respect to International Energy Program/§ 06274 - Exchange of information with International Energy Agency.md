@@ -6,9 +6,9 @@
 
 (2)(A) Except as provided in subparagraph (B) of this paragraph, any such information or data which is geological or geophysical information or a trade secret or commercial or financial information to which section 552(b)(9) or (b)(4) of title 5 applies shall, prior to such transmittal, be aggregated, accumulated, or otherwise reported in such manner as to avoid, to the fullest extent feasible, identification of any person from whom the United States obtained such information or data, and in the case of geological or geophysical information, a competitive disadvantage to such person.
 
-(B)(i) Notwithstanding subparagraph (A) of this paragraph, during an international energy supply emergency, any such information or data with respect to the international allocation of petroleum products may be made available to the International Energy Agency is otherwise authorized to be made available to such Agency by paragraph (1) of this subsection.
+(B)(i) Notwithstanding subparagraph (A) of this paragraph, during an international energysupply emergency, any such information or data with respect to the international allocation of petroleum products may be made available to the International Energy Agency is otherwise authorized to be made available to such Agency by paragraph (1) of this subsection.
 
-(ii) Subparagraph (A) shall not apply to information described in subparagraph (A) (other than geological or geophysical information) if the President certifies, after opportunity for presentation of views by interested persons, that the International Energy Agency has adopted and is implementing security measures which assure that such information will not be disclosed by such Agency or its employees to any person or foreign country without having been aggregated, accumulated, or otherwise reportedin such manner as to avoid identification of any person from whom the United States obtained such information or data.
+(ii) Subparagraph (A) shall not apply to information described in subparagraph (A) (other than geological or geophysical information) if the President certifies, after opportunity for presentation of views by interested persons, that the International Energy Agency has adopted and is implementing security measures which assure that such information will not be disclosed by such Agency or its employees to any person or foreign country without having been aggregated, accumulated, or otherwise reported in such manner as to avoid identification of any person from whom the United States obtained such information or data.
 
 (3)(A) Within 90 days after December 22, 1975, and periodically thereafter, the President shall review the operation of this section and shall determine whether other signatory nations to the international energy program are transmitting information and data to the International Energy Agency in substantial compliance with such program. If the President determines that other nations are not so complying, paragraph (2)(B)(ii) shall not apply until he determines other nations are so complying.
 
@@ -44,6 +44,8 @@ The authority under this section to transmit information shall be subject to any
 
 (Pub. L. 94–163, title II, §254, Dec. 22, 1975, 89 Stat. 899; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 96–72, §22(b)(2), Sept. 29, 1979, 93 Stat. 535.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The provisions of such Acts relating to their expiration, referred to in subsec. (d), means section 11(g) of Pub. L. 93–319, June 22, 1974, 88 Stat. 246, the Energy Supply and Environmental Coordination Act, which enacted section 796(g) of Title 15, and section 30 of Pub. L. 93–275, May 7, 1974, 88 Stat. 97, the Federal Energy Administration Act of 1974, which is set out as a note under section 761 of Title 15.
@@ -55,6 +57,8 @@ Section 12 of the Export Administration Act of 1979, referred to in subsec. (e)(
 <b>1979</b>—Subsec. (e)(3). Pub. L. 96–72 substituted "12" for "7" and "1979" for "1969".
 
 <b>1978</b>—Subsecs. (a)(1), (c). Pub. L. 95–619 substituted "Secretary" for "Administrator", meaning Administrator of the Federal Energy Administration, wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1979 Amendment
 

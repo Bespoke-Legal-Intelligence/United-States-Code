@@ -8,7 +8,7 @@
 
 &emsp;(2) the number of employees employed in such offices who are paid at a rate of basic pay which is equal to or greater than the minimum rate of basic pay then currently paid for GS–16 of the General Schedule of section 5332 of title 5 but which is less than the rate then currently paid for level V of the Executive Schedule of section 5316 of title V <sup>1</sup> and the aggregate amount paid to such employees;
 
-&emsp;(3) the number of employees employed in such offices who are paid at a rate of basic paywhich is less than the minimum rate then currently paid for GS–16 of the General Schedule of section 5332 of title V <sup>1</sup>, and the aggregate amount paid to such employees;
+&emsp;(3) the number of employees employed in such offices who are paid at a rate of basic pay which is less than the minimum rate then currently paid for GS–16 of the General Schedule of section 5332 of title V <sup>1</sup>, and the aggregate amount paid to such employees;
 
 &emsp;(4) the number of individuals detailed under section 112 of this title for more than 30 days to each such office, the number of days in excess of 30 each individual was detailed, and the aggregate amount of reimbursement made as provided by the provisions of section 112 of this title; and
 

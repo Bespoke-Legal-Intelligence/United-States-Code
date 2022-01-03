@@ -90,6 +90,8 @@ The change \[in subsec. (b)\] reflects the opinion of the Judge Advocate General
 
 The change \[in subsec. (f)\] reflects the opinion of the Assistant General Counsel (Fiscal Matters), Department of Defense (July 19, 1957), that section 1304, Revised Statutes (formerly 10 U.S.C. 872), the source law for this section, applied to warrant officers as well as to commissioned officers.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Subsec. (a). Pub. L. 116–283 inserted "or the Space Force" after "member of the Air Force".
@@ -98,7 +100,7 @@ The change \[in subsec. (f)\] reflects the opinion of the Assistant General Coun
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–181 made technical correction to directory language of Pub. L. 109–364, §673(c)(1). See 2006 Amendment note below.
 
-<b>2006</b>—Pub. L. 109–163 amended section catchline and text generally. Prior to amendment, text read as follows: "If he considers it in the best interest of theUnited States, the Secretary may have remitted or cancelled any part of an enlisted member's indebtedness to the United States or any of its instrumentalities remaining unpaid before, or at the time of, that member's honorable discharge."
+<b>2006</b>—Pub. L. 109–163 amended section catchline and text generally. Prior to amendment, text read as follows: "If he considers it in the best interest of the United States, the Secretary may have remitted or cancelled any part of an enlisted member's indebtedness to the United States or any of its instrumentalities remaining unpaid before, or at the time of, that member's honorable discharge."
 
 Subsec. (a). Pub. L. 109–364, §673(e)(3), substituted "The Secretary of the Air Force" for "If the Secretary considers it to be in the best interest of the United States, the Secretary" and inserted before period at end ", but only if the Secretary considers such action to be in the best interest of the United States".
 
@@ -119,6 +121,8 @@ Subsecs. (b) to (d). Pub. L. 109–364, §673(c)(2), redesignated subsecs. (c) a
 <b>1958</b>—Subsec. (b). Pub. L. 85–861, §33(a)(45)(A), substituted "his pay for that month" for "his basic pay for that month".
 
 Subsec. (f). Pub. L. 85–861, §33(a)(45)(B), substituted "an officer" for "a commissioned officer" in two places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2016 Amendment
 

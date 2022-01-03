@@ -6,6 +6,8 @@
 
 (June 16, 1938, ch. 459, §§1, 2, 52 Stat. 708.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Subsecs. (a) and (b) of this section constitute sections 1 and 2, respectively, of act June 16, 1938.

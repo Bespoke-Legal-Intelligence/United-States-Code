@@ -4,9 +4,13 @@ A determination that an individual is dead or a determination that he has been d
 
 (Dec. 2, 1942, ch. 668, title II, §206, 56 Stat. 1034; Pub. L. 85–608, title I, §104, Aug. 8, 1958, 72 Stat. 537.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1958</b>—Pub. L. 85–608 substituted "a hostile force or person" for "the enemy".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1958 Amendment
 

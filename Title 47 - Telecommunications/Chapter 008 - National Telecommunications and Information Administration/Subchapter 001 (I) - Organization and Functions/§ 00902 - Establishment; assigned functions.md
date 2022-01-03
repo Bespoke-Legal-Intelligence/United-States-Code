@@ -70,7 +70,7 @@
 
 &emsp;&emsp;&emsp;(iii) conducting research and analysis of electromagnetic propagation, radio systems characteristics, and operating techniques affecting the utilization of the electromagnetic spectrum in coordination with specialized, related research and analysis performed by other Federal agencies in their areas of responsibility; and
 
-&emsp;&emsp;&emsp;(iv) conducting research and analysis in the general field of telecommunications sciences in support of assigned functionsand in support of other Government agencies.
+&emsp;&emsp;&emsp;(iv) conducting research and analysis in the general field of telecommunications sciences in support of assigned functions and in support of other Government agencies.
 
 &emsp;&emsp;(M) The authority to conduct studies and make recommendations concerning the impact of the convergence of computer and communications technology.
 

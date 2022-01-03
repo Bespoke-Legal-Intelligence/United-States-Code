@@ -38,11 +38,15 @@ For purposes of this section—
 
 (Added Pub. L. 97–248, title III, §310(b)(4)(A), Sept. 3, 1982, 96 Stat. 598; amended Pub. L. 99–514, title XIII, §1301(j)(5), Oct. 22, 1986, 100 Stat. 2657; Pub. L. 111–147, title V, §502(e), Mar. 18, 2010, 124 Stat. 108.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (b)(1). Pub. L. 111–147 amended par. (1) generally. Prior to amendment, text read as follows: "The term 'registration-required obligation' has the same meaning as when used in section 163(f), except that such term shall not include any obligation required to be registered under section 149(a)."
 
 <b>1986</b>—Subsec. (b)(1). Pub. L. 99–514 substituted "section 149(a)" for "section 103(j)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

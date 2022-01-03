@@ -6,7 +6,7 @@
 
 #### (A) General programming authority
 
-&emsp;&emsp;The Foundation is authorized to identify and conduct, directly or by contract, such programs, activities, and services as the Foundation considers appropriate to carryout the purposes described in section 5604 of this title, which may include—
+&emsp;&emsp;The Foundation is authorized to identify and conduct, directly or by contract, such programs, activities, and services as the Foundation considers appropriate to carry out the purposes described in section 5604 of this title, which may include—
 
 &emsp;&emsp;&emsp;(i) awarding scholarships, fellowships, internships, and grants, by national competition, to eligible individuals, as determined by the Foundation and in accordance with paragraphs (2), (3), and (4), for study in fields related to the environment or Native American and Alaska Native health care and tribal policy;
 
@@ -34,7 +34,7 @@
 
 #### (2) Scholarships
 
-&emsp;(A) Scholarships shall be awarded to outstanding undergraduate students who intend to pursue careers related to the environment and to outstanding Native American and Alaska Native undergraduate students who intend to pursue careers in health care and tribal public policy.
+&emsp;(A) Scholarships shall be awarded to outstanding undergraduate students who intendto pursue careers related to the environment and to outstanding Native American and Alaska Native undergraduate students who intend to pursue careers in health care and tribal public policy.
 
 &emsp;(B) An eligible individual awarded a scholarship under this chapter may receive payments under this chapter only during such periods as the Foundation finds that the eligible individual is maintaining satisfactory proficiency and devoting full time to study or research and is not engaging in gainful employment other than employment approved by the Foundation pursuant to regulations of the Board.
 
@@ -76,7 +76,7 @@
 
 #### (7) Repository
 
-&emsp;The Foundation shall provide direct or indirect assistance from the proceeds of the Trust Fund to the Center to maintain the current site of the repository for the papers of Morris K. Udall and Stewart L. Udall and other suchpublic papers as may be appropriate and assure such papers' availability to the public.
+&emsp;The Foundation shall provide direct or indirect assistance from the proceeds of the Trust Fund to the Center to maintain the current site of the repository for the papers of Morris K. Udall and Stewart L. Udall and other such public papers as may be appropriate and assure such papers' availability to the public.
 
 #### (8) Coordination
 
@@ -116,6 +116,8 @@ Any funds received by the Foundation in the form of donations or grants, as well
 
 (Pub. L. 102–259, §7, Mar. 19, 1992, 106 Stat. 81; Pub. L. 105–156, §§5, 9(b), Feb. 11, 1998, 112 Stat. 9, 12; Pub. L. 111–90, §6, Nov. 3, 2009, 123 Stat. 2977; Pub. L. 116–94, div. P, title III, §305, Dec. 20, 2019, 133 Stat. 3188.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (a)(1)(A). Pub. L. 116–94, §305(1)(A)(i), added subpar. (A) and struck out former subpar. (A) which read as follows: "The Foundation, in consultation with the Center, is authorized to identify and conduct such programs, activities, and services as the Foundation considers appropriate to carry out the purposes described in section 5604 of this title. The Foundation shall have the authority to award scholarships, fellowships, internships, and grants and fund the Center to carry out and manage other programs, activities and services."
@@ -153,6 +155,8 @@ Subsec. (b). Pub. L. 111–90, §6(2), added subsec. (b) and struck out former s
 Subsec. (a)(6). Pub. L. 105–156, §9(b), substituted "Trust Fund" for "Fund".
 
 Subsec. (a)(7). Pub. L. 105–156, §5(2), inserted "and Training" after "Conflict Resolution".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### References to United States Institute for Environmental Conflict Resolution
 

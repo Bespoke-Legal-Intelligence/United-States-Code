@@ -36,7 +36,7 @@ The Secretary shall formulate and administer a farmer owned reserve program unde
 
 #### (2) 90-day period
 
-&emsp;If interest is levied on the loans under paragraph (1), the interest may be charged for a period of 90 days after the last day on which the price of wheat or feed grains was equal to or in excess of 105 percent of the established price for the commodities.
+&emsp;If interest is levied on the loans under paragraph (1), the interest may be charged for a period of 90 days after the last day on which theprice of wheat or feed grains was equal to or in excess of 105 percent of the established price for the commodities.
 
 #### (3) Rate of interest
 
@@ -108,7 +108,7 @@ The Secretary may, with the concurrence of the owner of grain stored under this 
 
 #### (j) Management of grain
 
-Whenever grain is stored under this section, the Secretary may buy and sell at an equivalent price, allowing for the customary location and grade differentials, substantially equivalent quantities of grain in different locations or warehouses to the extent needed to properly handle, rotate, distribute, and locate the commodities that the Commodity Credit Corporation owns or controls. The purchases to offset sales shall be made within 2 market days following the sales. The Secretary shall make a daily list available showing the price, location, and quantity of the transactions.
+Whenever grain is stored under this section, the Secretary may buy and sell at an equivalent price, allowing for the customary location and grade differentials, substantially equivalent quantities of grain in different locations or warehouses to the extent needed to properly handle, rotate, distribute, and locate the commodities that the Commodity Credit Corporation owns or controls. The purchases to offset sales shall be made within 2 market days following the sales. The Secretary shall make adaily list available showing the price, location, and quantity of the transactions.
 
 #### (k) Use of Commodity Credit Corporation
 
@@ -134,7 +134,9 @@ In announcing the terms and conditions of the producer storage program under thi
 
 Notwithstanding any other provision of law, this section shall become effective December 1, 1990.
 
-(Oct. 31, 1949, ch. 792, title I, §110, as added Pub. L. 95–113, title XI, §1101, Sept. 29, 1977, 91 Stat. 951; amended Pub. L. 96–234, §§1, 2, Apr. 11, 1980, 94 Stat. 333; Pub. L. 96–494, title II, §§203(a), 204, 205, Dec. 3, 1980, 94 Stat. 2571, 2572; Pub. L. 97–24, §2, July 23, 1981, 95 Stat. 143; Pub. L. 97–98, title X, §1001, Dec. 22, 1981, 95 Stat. 1257; Pub. L. 99–198, title X, §1012(a), Dec. 23, 1985, 99 Stat.1455; Pub. L. 100–203, title I, §1108, Dec. 22, 1987, 101 Stat. 1330–6; Pub. L. 100–387, title III, §303(b), Aug. 11, 1988, 102 Stat. 947; Pub. L. 101–624, title XI, §1123, title XX, §2010, Nov. 28, 1990, 104 Stat. 3503, 3932; Pub. L. 102–237, title I, §113(7), Dec. 13, 1991, 105 Stat. 1837.)
+(Oct. 31, 1949, ch. 792, title I, §110, as added Pub. L. 95–113, title XI, §1101, Sept. 29, 1977, 91 Stat. 951; amended Pub. L. 96–234, §§1, 2, Apr. 11, 1980, 94 Stat. 333; Pub. L. 96–494, title II, §§203(a), 204, 205, Dec. 3, 1980, 94 Stat. 2571, 2572; Pub. L. 97–24, §2, July 23, 1981, 95 Stat. 143; Pub. L. 97–98, title X, §1001, Dec. 22, 1981, 95 Stat. 1257; Pub. L. 99–198, title X, §1012(a), Dec. 23, 1985, 99 Stat. 1455; Pub. L. 100–203, title I, §1108, Dec. 22, 1987, 101 Stat. 1330–6; Pub. L. 100–387, title III, §303(b), Aug. 11, 1988, 102 Stat. 947; Pub. L. 101–624, title XI, §1123, title XX, §2010, Nov. 28, 1990, 104 Stat. 3503, 3932; Pub. L. 102–237, title I, §113(7), Dec. 13, 1991, 105 Stat. 1837.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -182,7 +184,7 @@ Subsec. (c). Pub. L. 97–98 substituted provision prescribing rate of interest 
 
 Subsec. (d). Pub. L. 97–98 added subsec. (d) and redesignated former subsec. (d) as (e).
 
-Subsec. (e). Pub. L. 97–98 redesignated former subsec. (d) as (e) and substituted provision authorizing Secretary to place an upper limit on the amount of wheat and feed grains placed in the reserve, with such upper limit not less than seven hundred million bushels for wheat and one billion bushels for feed grains, for provision authorizing the maximum amount of wheat storedas not less than three hundred million bushels nor more than seven hundred million bushels, with authority for Secretary to adjust this amount as necessary to meet commitments by the United States pursuant to international agreements. Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 97–98 redesignated former subsec. (d) as (e) and substituted provision authorizing Secretary to place an upper limit on the amount of wheat and feed grains placed in the reserve, with such upper limit not less than seven hundred million bushels for wheat and one billion bushels for feed grains, for provision authorizing the maximum amount of wheat stored as not less than three hundred million bushels nor more than seven hundred million bushels, with authority for Secretary to adjust this amount as necessary to meet commitments by the United States pursuant to international agreements. Former subsec. (e) redesignated (f).
 
 Subsec. (f). Pub. L. 97–98 redesignated former subsec. (e) as (f) and substituted in provision preceding par. (1) "the program authorized" for "the extended loan program authorized", "110 per centum" for "105 per centum", "Secretary may encourage repayment" for "Secretary may call for repayment", and "clause (5) of the third sentence of subsection (b) of this section. The foregoing restriction" for "clause (6) of the second sentence of subsection (b) of this section: <i>Provided</i>, That such restriction" and in provision following par. (3) "clause (5) of the third sentence" for "clause (5) of the second sentence". Former subsec. (f) redesignated (g).
 
@@ -209,6 +211,8 @@ Pub. L. 96–234, §1(1), (2), redesignated former subsec. (d) as (e) and added 
 Subsec. (e)(3). Pub. L. 96–494, §205(3), in provisions preceding subpar. (A), substituted "sales of corn" for "sales of corn when sold at not less than the release level under the extended loan program", and inserted "when sold at not less than the price at which producers may repay producer storage loans and redeem corn prior to the maturity dates of loans, as determined under clause (5) of the second sentence of subsection (b) of this section, or, whenever the fuel conversion price (as defined in section 4005 of this title) for corn exceeds such price, at not less than the fuel conversion price".
 
 Subsecs. (f) to (h). Pub. L. 96–234, §1(1), redesignated former subsecs. (e) to (g) as (f) to (h), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

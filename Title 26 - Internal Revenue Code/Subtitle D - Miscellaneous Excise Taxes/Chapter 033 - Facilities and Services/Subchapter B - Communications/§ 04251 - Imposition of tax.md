@@ -52,11 +52,13 @@ For purposes of subsections (a) and (b), in the case of communications services 
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 503; Pub. L. 85–859, title I, §133(a), Sept. 2, 1958, 72 Stat. 1289; Pub. L. 86–75, §5, June 30, 1959, 73 Stat. 158; Pub. L. 86–564, title II, §202(a)(2), June 30, 1960, 74 Stat. 290; Pub. L. 87–72, §3(a)(2), June 30, 1961, 75 Stat. 193; Pub. L. 87–508, §3(a)(2), June 28, 1962, 76 Stat. 114; Pub. L. 88–52, §3(a)(2), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, §2(a)(2), June 30, 1964, 78 Stat. 237; Pub. L. 89–44, title III, §302, title VII, §701(b)(2)(B), June 21, 1965, 79 Stat. 145, 156; Pub. L. 89–368, title II, §202(a), Mar. 15, 1966, 80 Stat. 66; Pub. L. 90–285, §1(a)(3), Apr. 12, 1968, 82 Stat. 92; Pub. L. 90–364, title I, §105(b)(1), (2), June 28, 1968, 82 Stat. 265; Pub. L. 91–172, title VII, §702(b)(1), (2), Dec. 30, 1969, 83 Stat. 660; Pub. L. 91–614, title II, §201(b)(1), (2), Dec. 31, 1970, 84 Stat. 1843; Pub. L. 96–499, title XI, §1151, Dec. 5, 1980, 94 Stat. 2694; Pub. L. 97–34, title VIII, §821, Aug. 13, 1981, 95 Stat. 351; Pub. L. 97–248, title II, §282(a), Sept. 3, 1982, 96 Stat. 568; Pub. L. 98–369, div. A, title I, §26, July 18, 1984, 98 Stat. 507; Pub. L. 99–514, title XVIII, §1801(b), Oct. 22, 1986, 100 Stat. 2785; Pub. L. 100–203, title X, §10501, Dec. 22, 1987, 101 Stat. 1330–438; Pub. L. 101–508, title XI, §11217(a), Nov. 5, 1990, 104 Stat. 1388–437; Pub. L. 105–34, title X, §1034(a), Aug. 5, 1997, 111 Stat. 937; Pub. L. 105–206, title VI, §6010(i), July 22, 1998, 112 Stat. 815.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 This subchapter, relating to the tax on communications, was repealed by Pub. L. 90–364, title I, §105(b)(3), June 28, 1968, 82 Stat. 266, as amended by Pub. L. 91–172, title VII, §702(b)(3), Dec. 30, 1969, 83 Stat. 660; Pub. L. 91–614, title II, §201(b)(3), Dec. 31, 1970, 84 Stat. 1843, effective with respect to amounts paid pursuant to bills first rendered on or after Jan. 1, 1982. In the case of communications services rendered before Nov. 1, 1981, for which a bill has not been rendered before Jan. 1, 1982, a bill shall be treated as having been first rendered on Dec. 31, 1981.
 
-Pub. L. 96–499, title XI, §1151, Dec. 5, 1980, 94 Stat. 2694; Pub. L. 97–34, title VIII, §821, Aug. 13, 1981, 95 Stat. 351; Pub. L. 97–248, title II, §282(a), Sept. 3, 1982, 96 Stat. 568; Pub. L. 98–369, div. A, title I, §26, July 18, 1984, 98 Stat. 507; Pub. L. 99–514, title XVIII, §1801(b), Oct. 22, 1986, 100 Stat. 2785; Pub. L. 100–203, title X, §10501, Dec. 22, 1987, 101 Stat. 1330–438; Pub. L. 101–508, title XI, §11217(a), Nov. 5, 1990, 104 Stat. 1388–437, amended this section, relating to the imposition of the tax on communications, extending the date in (and finally eliminating) provisions which had reduced the tax to zero after a specified date, without amending Pub. L. 90–364, title I, §105(b)(3), June 28, 1968, 82 Stat. 266, which, as amended, had repealed this subchapter, effective with respect to amounts paid pursuant to bills first rendered on or after Jan. 1, 1982.
+Pub. L. 96–499, title XI, §1151, Dec. 5, 1980, 94 Stat. 2694; Pub. L. 97–34, title VIII, §821, Aug. 13, 1981, 95 Stat. 351; Pub. L. 97–248, title II, §282(a), Sept. 3, 1982, 96 Stat. 568; Pub. L. 98–369, div. A, title I, §26, July 18, 1984, 98 Stat. 507; Pub. L. 99–514, title XVIII, §1801(b), Oct. 22, 1986, 100 Stat. 2785; Pub. L. 100–203, title X, §10501, Dec. 22, 1987, 101 Stat. 1330–438; Pub. L. 101–508, title XI, §11217(a), Nov. 5, 1990, 104 Stat. 1388–437, amended thissection, relating to the imposition of the tax on communications, extending the date in (and finally eliminating) provisions which had reduced the tax to zero after a specified date, without amending Pub. L. 90–364, title I, §105(b)(3), June 28, 1968, 82 Stat. 266, which, as amended, had repealed this subchapter, effective with respect to amounts paid pursuant to bills first rendered on or after Jan. 1, 1982.
 
 #### Amendments
 
@@ -120,7 +122,7 @@ Pub. L. 90–285 substituted "April 30, 1968" and "May 1, 1968" for "March 31, 1
 
 Subsec. (b). Pub. L. 90–364, §105(b)(2), substituted "1973" for "1969".
 
-Subsec. (c). Pub. L. 90–364, §105(b)(2), extended provisions calling for treatment of bills not rendered beforethe end of a year for service rendered before November 1 of that year as having been first rendered on December 31 of that year so as to include years subsequent to 1968 and struck out special provision for the application of subsec. (a) in the case of communication services rendered before March 1, 1968, for which a bill was not rendered before May 1, 1968.
+Subsec. (c). Pub. L. 90–364, §105(b)(2), extended provisions calling for treatment of bills not rendered before the end of a year for service rendered before November 1 of that year as having been first rendered on December 31 of that year so as to include years subsequent to 1968 and struck out special provision for the application of subsec. (a) in the case of communication services rendered before March 1, 1968, for which a bill was not rendered before May 1, 1968.
 
 Pub. L. 90–285 substituted "March 1, 1968," for "February 1, 1968", "May 1, 1968" for "April 1, 1968", "April 30, 1968" for "March 31, 1968", and "February 29, 1968" for "January 31, 1968".
 
@@ -147,6 +149,8 @@ Subsec. (c). Pub. L. 89–44, §302, added subsec. (c).
 <b>1959</b>—Pub. L. 86–75 designated former provisions as subsec. (a) and added subsec. (b).
 
 <b>1958</b>—Pub. L. 85–859 redesignated "local telephone service" as "general telephone service", "long distance telephone service" as "toll telephone service" and "leased wire, teletypewriter or talking circuit special service" as "teletypewriter exchange service" and "wire mileage service".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 
@@ -184,7 +188,7 @@ Pub. L. 85–859, title I, §133(b), Sept. 2, 1958, 72 Stat. 1292, as amended by
 
 "(1) Subject to the provisions of paragraph (2), the amendment made by subsection (a) \[amending this section and sections 4252 to 4254 of this title\] shall apply with respect to amounts paid on or after the effective date prescribed in section (1)(c) of this Act for services rendered on or after such date.
 
-"(2) The amendment made by subsection (a) \[amending this section and sections 4252 to 4254 of this title\] shall not apply with respect to amounts paid pursuant to bills rendered before the effective date prescribed in section 1(c) of this Act. In the case of amounts paid pursuant to bills rendered on or after such date for services for which no previous bill was rendered, such amendments shall apply except with respect to such services as were rendered more than 2 months before such date. In the case of services rendered more than 2 months before such date the provisions of subchapter Bof chapter 33 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] in effect at the time such services were rendered shall apply to the amounts paid for such services."
+"(2) The amendment made by subsection (a) \[amending this section and sections 4252 to 4254 of this title\] shall not apply with respect to amounts paid pursuant to bills rendered before the effective date prescribed in section 1(c) of this Act. In the case of amounts paid pursuant to bills rendered on or after such date for services for which no previous bill was rendered, such amendments shall apply except with respect to such services as were rendered more than 2 months before such date. In the case of services rendered more than 2 months before such date the provisions of subchapter B of chapter 33 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] in effect at the time such services were rendered shall apply to the amounts paid for such services."
 
 #### Plan Amendments Not Required Until January 1, 1989
 

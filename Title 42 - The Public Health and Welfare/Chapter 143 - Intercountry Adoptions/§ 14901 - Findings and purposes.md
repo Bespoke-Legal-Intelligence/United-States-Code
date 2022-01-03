@@ -22,9 +22,13 @@ The purposes of this chapter are—
 
 (Pub. L. 106–279, §2, Oct. 6, 2000, 114 Stat. 825.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 106–279, Oct. 6, 2000, 114 Stat. 825, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Dates; Transition Rule
 
@@ -36,7 +40,7 @@ Effective Dates.—
 
 &emsp;"(1)
 
-Provisions effective upon enactment.—Sections 2, 3, 101 through 103, 202 through 205, 401(a), 403, 503, and 505(a) \[enacting this section and sections 14902, 14911 to 14913, 14922 to 14924, 14941(a), 14943, and 14953 of this title and amending section 622 of thistitle\] shall take effect on the date of the enactment of this Act \[Oct. 6, 2000\].
+Provisions effective upon enactment.—Sections 2, 3, 101 through 103, 202 through 205, 401(a), 403, 503, and 505(a) \[enacting this section and sections 14902, 14911 to 14913, 14922 to 14924, 14941(a), 14943, and 14953 of this title and amending section 622 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 6, 2000\].
 
 &emsp;"(2)
 

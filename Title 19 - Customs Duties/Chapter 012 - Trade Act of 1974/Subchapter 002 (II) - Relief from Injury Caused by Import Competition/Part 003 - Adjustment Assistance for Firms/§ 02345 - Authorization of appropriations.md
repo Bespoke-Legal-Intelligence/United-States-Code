@@ -6,13 +6,15 @@ There are authorized to be appropriated to the Secretary to carry out the provis
 
 #### (b) Personnel
 
-Of the amounts appropriated pursuant to this section for each fiscal year, $350,000 shall beavailable for full-time positions in the Department of Commerce to administer the provisions of this part. Of such funds the Secretary shall make available to the Economic Development Administration such sums as may be necessary to establish the position of Director of Adjustment Assistance for Firms and such other full-time positions as may be appropriate to administer the provisions of this part.
+Of the amounts appropriated pursuant to this section for each fiscal year, $350,000 shall be available for full-time positions in the Department of Commerce to administer the provisions of this part. Of such funds the Secretary shall make available to the Economic Development Administration such sums as may be necessary to establish the position of Director of Adjustment Assistance for Firms and such other full-time positions as may be appropriate to administer the provisions of this part.
 
 (Pub. L. 93–618, title II, §255, as added Pub. L. 111–5, div. B, title I, §1864(a)(3), Feb. 17, 2009, 123 Stat. 398; amended Pub. L. 111–344, title I, §101(c)(4), Dec. 29, 2010, 124 Stat. 3613; as added and amended Pub. L. 112–40, title II, §§201(b), (c), 221(b), Oct. 21, 2011, 125 Stat. 403, 410; as added and amended Pub. L. 114–27, title IV, §§402(b), (c), 403(d)(2), June 29, 2015, 129 Stat. 374.)
 
 #### Termination of Section and Repeal
 
 <i>For termination of section and termination of repeal of former section 2345 beginning on July 1, 2021, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see Codification, Prior Provisions, and Effective and Termination Dates notes below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -43,6 +45,8 @@ Subsec. (a). Pub. L. 112–40, §§221(b), 233, temporarily substituted "$16,000
 <b>2010</b>—Subsec. (a). Pub. L. 111–344, §101(c)(4)(A), in introductory provisions, substituted "There are authorized to be appropriated to the Secretary to carry out the provisions of this part $50,000,000 for fiscal year 2010 and $5,800,000 for the 6-week period beginning January 1, 2011, and ending February 12, 2011." for "There are authorized to be appropriated to the Secretary $50,000,000 for each of the fiscal years 2009 through 2010, and $12,501,000 for the period beginning October 1, 2010, and ending December 31, 2010, to carry out the provisions of this part." See Codification note above.
 
 Subsec. (a)(1). Pub. L. 111–344, §101(c)(4)(B), substituted "February 12, 2011" for "December 31, 2010". See Codification note above.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

@@ -36,9 +36,11 @@ In order to achieve the goal of certification of completed standardized designs 
 
 (Pub. L. 102–486, title XXI, §2123, Oct. 24, 1992, 106 Stat. 3083.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
-Subsec. (b)(5) of this section, which required the Secretary to submit annually to Congress a status report on each project receiving assistance under subsec. (b), terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, the last item on page 85 of House Document No. 103–7.
+Subsec. (b)(5) of this section, which required the Secretary to submit annually to Congress a status report on each project receiving assistance under subsec. (b),terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, the last item on page 85 of House Document No. 103–7.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "powerplants".</i>
 

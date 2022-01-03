@@ -150,7 +150,7 @@ Subsec. (c)(8). Pub. L. 95–624 substituted "45" for "32".
 
 Subsec. (c)(12). Pub. L. 95–454, §414(a)(1)(D)(i), redesignated par. (12) relating to the Chief Judge of the United States Tax Court, as (3).
 
-Subsec. (c)(13) to (16). Pub. L. 95–454, §414(a)(1)(A)(i), repealed par. (13) relating to the Commodity Futures Trading Commission, par. (14) relating to the Secretary of Health, Education, and Welfare, par. (15) relating tothe Chairman of the Equal Employment Opportunity Commission, and par. (16) relating to the Secretary of Health, Education, and Welfare.
+Subsec. (c)(13) to (16). Pub. L. 95–454, §414(a)(1)(A)(i), repealed par. (13) relating to the Commodity Futures Trading Commission, par. (14) relating to the Secretary of Health, Education, and Welfare, par. (15) relating to the Chairman of the Equal Employment Opportunity Commission, and par. (16) relating to the Secretary of Health, Education, and Welfare.
 
 Subsec. (c)(17). Pub. L. 95–563 added par. (17).
 
@@ -180,7 +180,7 @@ Subsec. (c)(13) to (16). Pub. L. 94–183, §2(15), redesignated par. (12) relat
 
 Subsec. (c)(11) to (14). Pub. L. 93–282 redesignated par. (10) relating to Law Enforcement Assistance Administration, par. (10) relating to Chief Judge of the United States Tax Court, par. (11) relating to Chairman of the Equal Employment Opportunity Commission, as pars. (11) to (13), respectively, and added par. (14) relating to GS–16, 17, and 18 positions in the National Institute on Alcohol Abuse and Alcoholism.
 
-Subsec. (c)(12). Pub. L. 93–651 and Pub. L. 93–516 amended section identically, adding par. (12) relating to Secretary of Health, Education, and Welfare and the Office for the Blind and Visually Handicapped of the Rehabilitation Services Administration.
+Subsec. (c)(12). Pub. L. 93–651 and Pub. L. 93–516 amended section identically, adding par. (12) relatingto Secretary of Health, Education, and Welfare and the Office for the Blind and Visually Handicapped of the Rehabilitation Services Administration.
 
 Subsec. (c)(12). Pub. L. 93–463 added par. (12) relating to Commodity Futures Trading Commission.
 
@@ -284,7 +284,7 @@ Pub. L. 95–612, §3(a), (c), Nov. 8, 1978, 92 Stat. 3091, 3092, relating to th
 
 #### Termination of Authority To Place Positions in GS–16, 17, or 18 of the General Schedule
 
-Pub. L. 95–454, title IV, §414(a)(1)(B), Oct. 13, 1978, 92 Stat. 1177, provided that: "Notwithstanding any other provision of law (other than section 5108 of such title 5), the authority granted to an agency (as defined in section 5102(a)(1) of such title 5 under any such provision to place one or more positions in GS–16, 17, or 18 of the General Schedule, is hereby terminated."
+Pub. L. 95–454, title IV, §414(a)(1)(B), Oct. 13, 1978, 92 Stat. 1177, provided that: "Notwithstanding any other provision of law (other than section 5108 of such title 5), the authority granted to an agency (as defined in section 5102(a)(1) of such title 5 under any such provisionto place one or more positions in GS–16, 17, or 18 of the General Schedule, is hereby terminated."
 
 #### Limitations on Executive Positions Not To Apply to Individuals Occupying Those Positions on October 12, 1978
 

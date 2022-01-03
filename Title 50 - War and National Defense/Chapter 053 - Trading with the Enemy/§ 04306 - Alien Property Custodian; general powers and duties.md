@@ -1,8 +1,10 @@
 ### §4306. Alien Property Custodian; general powers and duties
 
-The President is authorized to appoint, prescribe the duties of, and fix the salary of an official to be known as the alien property custodian, who shall be empowered to receive all money and property in the United States due or belonging to an enemy, or ally of enemy, which may be paid, conveyed, transferred, assigned, ordelivered to said custodian under the provisions of this chapter; and to hold, administer, and account for the same under the general direction of the President and as provided in this chapter. The President may further employ in the District of Columbia and elsewhere and fix the compensation of such clerks, attorneys, investigators, accountants, and other employees as he may find necessary for the due administration of the provisions of this chapter; <i>Provided</i>, That such clerks, investigators, accountants, and other employees shall be appointed from lists of eligibles to be supplied by the Civil Service Commission <sup>1</sup> and in accordance with the civil-service law.
+The President is authorized to appoint, prescribe the duties of, and fix the salary of an official to be known as the alien property custodian, who shall be empowered to receive all money and property in the United States due or belonging to an enemy, or ally of enemy, which may be paid, conveyed, transferred, assigned, or delivered to said custodian under the provisions of this chapter; and to hold, administer, and account for the same under the general direction of the President and as provided in this chapter. The President may further employ in the District of Columbia and elsewhere and fix the compensation of such clerks, attorneys, investigators, accountants, and other employees as he may find necessary for the due administration of the provisions of this chapter; <i>Provided</i>, That such clerks, investigators, accountants, and other employees shall be appointed from lists of eligibles to be supplied by the Civil Service Commission <sup>1</sup> and in accordance with the civil-service law.
 
 (Oct. 6, 1917, ch. 106, §6, 40 Stat. 415; Pub. L. 92–310, title II, §235, June 6, 1972, 86 Stat. 214; Pub. L. 94–273, §11(5), Apr. 21, 1976, 90 Stat. 378; Pub. L. 100–418, title II, §2501(b), Aug. 23, 1988, 102 Stat. 1371.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -21,6 +23,8 @@ Provisions that limited the salary of the alien property custodian to not more t
 <b>1976</b>—Pub. L. 94–273 substituted "April" for "January".
 
 <b>1972</b>—Pub. L. 92–310 struck out provisions which required the Alien Property Custodian to give a bond.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 
@@ -52,7 +56,7 @@ Ex. Ord. No. 9788, Oct. 14, 1946, 11 F.R. 11981, provided:
 
 1\. The Office of Alien Property Custodian in the Office for Emergency Management of the Executive Office of the President, established by Executive Order No. 9095 of March 11, 1942 \[7 F.R. 1971\], is hereby terminated; and all authority, rights, privileges, powers, duties, and functions vested in such Office or in the Alien Property Custodian or transferred or delegated thereto are hereby vested in or transferred or delegated to the Attorney General, as the case may be, and shall be administered by him or under his direction and control by such officers and agencies of the Department of Justice as he may designate.
 
-2\. All property or interests vested in or transferred to the Alien Property Custodian or seized by him, and all proceeds thereof, which are held or administered by him on the effective date of this order are hereby transferred to the Attorney General.
+2\. All property or interests vested in or transferred to the Alien Property Custodian or seized by him, and allproceeds thereof, which are held or administered by him on the effective date of this order are hereby transferred to the Attorney General.
 
 3\. All personnel, property, records, and funds of the Office of Alien Property Custodian are hereby transferred to the Department of Justice.
 

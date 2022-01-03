@@ -34,7 +34,7 @@ Medical and Dental School Students.—(1) Under the stipend program under this c
 
 (3)(A) Subject to subparagraph (B), the period for which a participant is required to serve in the Selected Reserve under the agreement pursuant to paragraph (2)(D) shall be one year for each period of six months, or part thereof, for which the participant is provided a stipend pursuant to the agreement.
 
-(B) In the case of a participant who enters into a subsequent agreement under subsection (c) and successfully completes residency training in a specialty designated by the Secretary of Defense as a specialty critically needed by the military department in wartime, the requirement to serve in the Selected Reserve may be reduced to one year for each year, or part thereof, for which the stipend was provided while enrolled in medical or dental school.
+(B) In the case of a participant who enters into a subsequent agreement under subsection (c) and successfully completes residency training in a specialty designated by the Secretary of Defense as a specialty critically needed by themilitary department in wartime, the requirement to serve in the Selected Reserve may be reduced to one year for each year, or part thereof, for which the stipend was provided while enrolled in medical or dental school.
 
 (c)
 
@@ -132,6 +132,8 @@ Amount of Stipend.—The amount of a stipend under an agreement under subsection
 
 (Added Pub. L. 100–180, div. A, title VII, §711(a)(3), Dec. 4, 1987, 101 Stat. 1108, §2128; renumbered §16201 and amended Pub. L. 103–337, div. A, title XVI, §1663(c)(2), (5), Oct. 5, 1994, 108 Stat. 3007, 3008; Pub. L. 104–106, div. A, title VII, §736, Feb. 10, 1996, 110 Stat. 383; Pub. L. 107–107, div. A, title V, §539, Dec. 28, 2001, 115 Stat. 1108; Pub. L. 109–163, div. A, title V, §515(b)(1)(WW), Jan. 6, 2006, 119 Stat. 3234; Pub. L. 110–417, \[div. A\], title VI, §616(c), Oct. 14, 2008, 122 Stat. 4486; Pub. L. 111–84, div. A, title X, §1073(c)(3), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 112–81, div. A, title V, §556, Dec. 31, 2011, 125 Stat. 1416; Pub. L. 113–66, div. A, title VI, §618, Dec. 26, 2013, 127 Stat. 782.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2013</b>—Subsec. (a). Pub. L. 113–66, §618(b)(1), substituted "the Selected Reserve of the Ready Reserve" for "the Ready Reserve".
@@ -209,6 +211,8 @@ Subsec. (b)(2)(B). Pub. L. 104–106, §736(3), inserted "or dental officer" aft
 Subsecs. (a), (b)(1), (c)(1), (d)(1). Pub. L. 103–337, §1663(c)(5), substituted "chapter" for "subchapter".
 
 Subsec. (f). Pub. L. 103–337, §1663(c)(2), struck out subsec. (f) which defined "Individual Ready Reserve".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

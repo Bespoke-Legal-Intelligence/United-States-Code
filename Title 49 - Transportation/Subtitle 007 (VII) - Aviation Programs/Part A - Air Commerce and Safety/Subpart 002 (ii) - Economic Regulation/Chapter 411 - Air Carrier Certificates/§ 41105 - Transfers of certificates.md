@@ -44,6 +44,8 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 19
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §401(h)(2), (3); added Nov. 5, 1990, Pub. L. 101–508, §9127(2), 104 Stat. 1388–371.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (b). Pub. L. 104–287 substituted "Transportation and Infrastructure" for "Public Works and Transportation".

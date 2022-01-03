@@ -42,7 +42,7 @@
 
 &emsp;&emsp;&emsp;(iii) implement policies and procedures for data acquisition and sharing that are consistent with standards and guidelines developed under the 3D Elevation Program;
 
-&emsp;&emsp;&emsp;(iv) participate in, and share the results and benefits of, the 3D Elevation Program,in accordance with standards and guidelines developed under the 3D Elevation Program; and
+&emsp;&emsp;&emsp;(iv) participate in, and share the results and benefits of, the 3D Elevation Program, in accordance with standards and guidelines developed under the 3D Elevation Program; and
 
 &emsp;&emsp;&emsp;(v) ensure that any 3D elevation data acquired with Federal grant funding—
 
@@ -150,7 +150,7 @@
 
 #### (B) Report
 
-&emsp;&emsp;Not later than 1 year after January 5, 2021, and every 2 years thereafter, the Subcommittee shall submit to the Secretary and the 3D Elevation Federal Interagency Coordinating Committee established under subsection (b) a report that includes—
+&emsp;&emsp;Not later than 1 year after January 5, 2021, and every 2 years thereafter, the Subcommittee shall submit to the Secretary and the 3D Elevation Federal InteragencyCoordinating Committee established under subsection (b) a report that includes—
 
 &emsp;&emsp;&emsp;(i) the findings of the assessment under subparagraph (A); and
 

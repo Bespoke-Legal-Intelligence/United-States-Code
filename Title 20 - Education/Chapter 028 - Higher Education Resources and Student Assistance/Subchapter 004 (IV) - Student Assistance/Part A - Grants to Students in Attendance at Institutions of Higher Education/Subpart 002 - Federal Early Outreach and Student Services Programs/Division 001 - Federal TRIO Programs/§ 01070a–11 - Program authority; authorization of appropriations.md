@@ -42,7 +42,7 @@ The Secretary shall, in accordance with the provisions of this division, carry o
 
 #### (3) Order of awards; program fraud
 
-&emsp;(A) Except with respect to grants made under sections 1070a–17 and 1070a–18 of this title and as provided in subparagraph (B), the Secretary shall award grants and contracts under this division in the order of the scores received by the application for such grant or contract in the peer review process required under paragraph (4) and adjusted for prior experience in accordance with paragraph (2) of this subsection.
+&emsp;(A) Except with respect to grants made under sections 1070a–17 and 1070a–18 of thistitle and as provided in subparagraph (B), the Secretary shall award grants and contracts under this division in the order of the scores received by the application for such grant or contract in the peer review process required under paragraph (4) and adjusted for prior experience in accordance with paragraph (2) of this subsection.
 
 &emsp;(B) The Secretary shall not provide assistance to a program otherwise eligible for assistance under this division, if the Secretary has determined that such program has involved the fraudulent use of funds under this division.
 
@@ -54,7 +54,7 @@ The Secretary shall, in accordance with the provisions of this division, carry o
 
 #### (5) Number of applications for grants and contracts
 
-&emsp;The Secretary shall not limit the number of applications submitted by an entity under any program authorized under this division if theadditional applications describe programs serving different populations or different campuses.
+&emsp;The Secretary shall not limit the number of applications submitted by an entity under any program authorized under this division if the additional applications describe programs serving different populations or different campuses.
 
 #### (6) Coordination with other programs for disadvantaged students
 
@@ -88,7 +88,7 @@ The Secretary shall, in accordance with the provisions of this division, carry o
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;With respect to any competition for a grant under this division, an applicant may request a review by the Secretary if the applicant—
+&emsp;&emsp;&emsp;With respect to any competition for a grant under this division, an applicantmay request a review by the Secretary if the applicant—
 
 &emsp;&emsp;&emsp;&emsp;(I) has evidence of a specific technical, administrative, or scoring error made by the Department, an agent of the Department, or a peer reviewer, with respect to the scoring or processing of a submitted application; and
 
@@ -104,7 +104,7 @@ The Secretary shall, in accordance with the provisions of this division, carry o
 
 &emsp;&emsp;&emsp;&emsp;(I) review such evidence and provide a timely response to the applicant; and
 
-&emsp;&emsp;&emsp;&emsp;(II) if the Secretary determines that a scoring error was made by the Department or a peer reviewer, adjust the prior experience points or final score of theapplication appropriately and quickly, so as not to interfere with the timely awarding of grants for the applicable grant competition.
+&emsp;&emsp;&emsp;&emsp;(II) if the Secretary determines that a scoring error was made by the Department or a peer reviewer, adjust the prior experience points or final score of the application appropriately and quickly, so as not to interfere with the timely awarding of grants for the applicable grant competition.
 
 #### (iv) Error in peer review process
 
@@ -160,7 +160,7 @@ The Secretary shall, in accordance with the provisions of this division, carry o
 
 #### (2) Notice
 
-&emsp;In carrying out the provisions of paragraph (1), the Secretary shall notify the entities described in subsection (b) of the availability of assistance under this subsection not less than 120 days prior to the deadline for submission of applications under this division and shall consult national, State, and regional organizations about candidates for notification.
+&emsp;In carrying out the provisions of paragraph (1), the Secretary shall notify the entities described in subsection (b) of the availability of assistance under this subsection not less than120 days prior to the deadline for submission of applications under this division and shall consult national, State, and regional organizations about candidates for notification.
 
 #### (3) Technical assistance
 
@@ -256,7 +256,7 @@ The Secretary shall, in accordance with the provisions of this division, carry o
 
 &emsp;&emsp;(D) For programs authorized under section 1070a–15 of this title, the extent to which the entity met or exceeded the entity's objectives for such program regarding—
 
-&emsp;&emsp;&emsp;(i) the delivery of service to a total number of students served by the program, asagreed upon by the entity and the Secretary for the period;
+&emsp;&emsp;&emsp;(i) the delivery of service to a total number of students served by the program, as agreed upon by the entity and the Secretary for the period;
 
 &emsp;&emsp;&emsp;(ii) the provision of appropriate scholarly and research activities for the students served by the program;
 
@@ -334,15 +334,13 @@ For the purpose of this division:
 
 (Pub. L. 89–329, title IV, §402A, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 482; amended Pub. L. 103–208, §2(b)(6)–(9), Dec. 20, 1993, 107 Stat. 2458; Pub. L. 105–244, title I, §102(b)(1), title IV, §402(a), Oct. 7, 1998, 112 Stat. 1622, 1652; Pub. L. 110–315, title IV, §403(a), Aug. 14, 2008, 122 Stat. 3191; Pub. L. 111–39, title IV, §401(a)(4), July 1, 2009, 123 Stat. 1938.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The General Education Provisions Act, referred to in subsec. (c)(8)(A)(i), is title IV of Pub. L. 90–247, Jan. 2, 1968, 81 Stat. 814, which is classified generally to chapter 31 (§1221 et seq.) of this title. For complete classification of this Act to the Code, see section 1221 of this title and Tables.
 
 The Higher Education Amendments of 1992, referred to in subsec. (g), is Pub. L. 102–325, July 23, 1992, 106 Stat. 448. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 1001 of this title and Tables.
-
-#### References to Subpart 2, 3, or 4 of This Part Deemed To Refer to Subpart 3, 4, or 2 of This Part
-
-Section 402(b) of Pub. L. 102–325 provided that: "Reference in any provision of law (other than the Act \[20 U.S.C. 1001 et seq.\]) to subpart 2, 3, or 4 of part A of title IV of the Act shall, after the date of enactment of this Act \[July 23, 1992\], be deemed to refer to subpart 3 \[20 U.S.C. 1070b et seq.\], 4 \[20 U.S.C. 1070c et seq.\], or 2 \[20 U.S.C. 1070a–11 et seq.\] of such part, respectively."
 
 #### Codification
 
@@ -424,6 +422,8 @@ Subsec. (e). Pub. L. 103–208, §2(b)(9), amended subsec. (e) generally. Prior 
 
 &emsp;"(2) in the case of an individual who is age 18 or older or who is an independent student, by providing the Secretary with a signed statement from the individual, verification from another governmental source, a signed financial aid form, or a signed United States or Puerto Rican income tax return."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2009 Amendment
 
 Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
@@ -441,4 +441,8 @@ Amendment by section 2(b)(6), (8), (9) of Pub. L. 103–208 effective as if incl
 Pub. L. 105–244, title VIII, §810, Oct. 7, 1998, 112 Stat. 1808, which authorized grants to States to enable States to reimburse low-income individuals to cover part or all of the cost of advanced placement test fees, required dissemination of information regarding availability of payments, set forth requirements for approval of applications and funding rules, authorized regulations, required annual report, defined terms, and authorized appropriations, was repealed by Pub. L. 107–110, title X, §1011(2), Jan. 8, 2002, 115 Stat. 1986.
 
 Similar provisions were contained in Pub. L. 102–325, title XV, §1545, July 23, 1992, 106 Stat. 837, which was repealed by Pub. L. 107–110, title X, §1011(1), Jan. 8, 2002, 115 Stat. 1986.
+
+#### References to Subpart 2, 3, or 4 of This Part Deemed To Refer to Subpart 3, 4, or 2 of This Part
+
+Pub. L. 102–325, title IV, §402(b), July 23, 1992, 106 Stat. 505, provided that: "Reference in any provision of law (other than the Act \[20 U.S.C. 1001 et seq.\]) to subpart 2, 3, or 4 of part A of title IV of the Act shall, after the date of enactment of this Act \[July 23, 1992\], be deemed to refer to subpart 3 \[20 U.S.C. 1070b et seq.\], 4 \[20 U.S.C. 1070c et seq.\], or 2 \[20 U.S.C. 1070a–11 et seq.\] of such part, respectively."
 

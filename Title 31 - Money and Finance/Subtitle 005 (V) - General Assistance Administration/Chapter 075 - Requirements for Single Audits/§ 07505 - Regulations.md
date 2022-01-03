@@ -12,7 +12,7 @@
 
 &emsp;(B) more than a reasonably proportionate share of the cost of any such audit that is conducted in accordance with this chapter.
 
-(2) The criteria prescribed pursuant to paragraph (1) shall not, in the absence of documentation demonstrating a higher actual cost, permit the percentage of the cost of audits performed pursuant to this chapter charged to Federal awards, to exceed the ratio of total Federal awards expended by such non-Federal entity during the applicable fiscal year or years, to such non-Federal entity's total expenditures during such fiscal year or years.
+(2) The criteria prescribed pursuant to paragraph (1) shall not, in the absence of documentation demonstrating a higher actual cost, permit the percentage of the cost of audits performed pursuant to this chapter charged to Federal awards, to exceed the ratio of total Federal awards expended by such non-Federal entity during the applicable fiscal year or years, tosuch non-Federal entity's total expenditures during such fiscal year or years.
 
 (c) Such guidance shall include such provisions as may be necessary to ensure that small business concerns, qualified HUBZone small business concerns, and business concerns owned and controlled by socially and economically disadvantaged individuals will have the opportunity to participate in the performance of contracts awarded to fulfill the audit requirements of this chapter.
 
@@ -28,7 +28,7 @@
 
 <b>1997</b>—Subsec. (c). Pub. L. 105–135 substituted "small business concerns, qualified HUBZone small business concerns, and" for "small business concerns and".
 
-<b>1996</b>—Pub. L. 104–156 reenacted section catchline without change and amended text generally, substituting present provisions for similar provisions relating to regulations, including implementation guidelines for regulations, criteria for determining appropriate charges to programs of Federal financial assistance for cost of audits, and guidelines to ensure that small business concerns and business concerns ownedand controlled by socially and economically disadvantaged individuals have opportunity to participate in contracts awarded to fulfill audit requirements of this chapter.
+<b>1996</b>—Pub. L. 104–156 reenacted section catchline without change and amended text generally, substituting present provisions for similar provisions relating to regulations, including implementation guidelines for regulations, criteria for determining appropriate charges to programs of Federal financial assistance for cost of audits, and guidelines to ensure that small business concerns and business concerns owned and controlled by socially and economically disadvantaged individuals have opportunity to participate in contracts awarded to fulfill audit requirements of this chapter.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

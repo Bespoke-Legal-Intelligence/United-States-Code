@@ -40,7 +40,7 @@ Regulations.—(1) Except as provided in paragraph (2) of this subsection, after
 
 (d)
 
-Decisions on Preemption.—(1) A person (including a State, political subdivision of a State, or Indian tribe) directly affected by a requirement of a State, political subdivision, or tribe may apply to the Secretary, as provided by regulations prescribed by the Secretary, for a decision on whether the requirement is preempted by subsection (a), (b)(1), or (c) of this section or section 5119(f). The Secretary shall publish notice of the application in the Federal Register. The Secretary shall issue a decision on an application for a determination within 180 days after the date of the publication of the notice of having received such application, or the Secretary shall publish a statement in the Federal Register of the reason why the Secretary's decision on the application is delayed, along with an estimate of the additional time necessary before the decision is made. After notice is published, an applicant may not seek judicialrelief on the same or substantially the same issue until the Secretary takes final action on the application or until 180 days after the application is filed, whichever occurs first.
+Decisions on Preemption.—(1) A person (including a State, political subdivision of a State, or Indian tribe) directly affected by a requirement of a State, political subdivision, or tribe may apply to the Secretary, as provided by regulations prescribed by the Secretary, for a decision on whether the requirement is preempted by subsection (a), (b)(1), or (c) of this section or section 5119(f). The Secretary shall publish notice of the application in the Federal Register. The Secretary shall issue a decision on an application for a determination within 180 days after the date of the publication of the notice of having received such application, or the Secretary shall publish a statement in the Federal Register of the reason why the Secretary's decision on the application is delayed, along with an estimate of the additional time necessary before the decision is made. After notice is published, an applicant may not seek judicial relief on the same or substantially the same issue until the Secretary takes final action on the application or until 180 days after the application is filed, whichever occurs first.
 
 (2) After consulting with States, political subdivisions of States, and Indian tribes, the Secretary shall prescribe regulations for carrying out paragraph (1) of this subsection.
 
@@ -140,6 +140,8 @@ In subsection (f), the words "may bring a civil action for judicial review" are 
 
 This amends 49:5125(a) and (b)(1) to clarify the restatement of 49 App.:1804(a)(4) and 1811(a) by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 781).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Subsec. (b)(1)(D). Pub. L. 112–141, §33006(d), inserted "and other written hazardous materials transportation incident reporting involving State or local emergency responders in the initial response to the incident" before period at end.
@@ -158,7 +160,7 @@ Subsec. (g). Pub. L. 110–244, §302(c)(2), (3), substituted "(a), (b)(1), or (
 
 Subsec. (b)(2). Pub. L. 109–59, §7126, substituted "If the Secretary" for "If the Secretary of Transportation".
 
-Pub. L. 109–59, §7122(a)(2), substituted "subjects that the Secretary prescribes. The" for "subjects that theSecretary prescribes after November 16, 1990. However, the".
+Pub. L. 109–59, §7122(a)(2), substituted "subjects that the Secretary prescribes. The" for "subjects that the Secretary prescribes after November 16, 1990. However, the".
 
 Subsec. (d)(1). Pub. L. 109–59, §7122(b), inserted "or section 5119(e)" before period at end of first sentence.
 
@@ -181,6 +183,8 @@ Subsec. (b)(1)(E). Pub. L. 103–311, §117(a)(2), substituted "a packaging or a
 Subsec. (d). Pub. L. 103–311, §120(b), inserted after second sentence "The Secretary shall issue a decision on an application for a determination within 180 days after the date of the publication of the notice of having received such application, or the Secretary shall publish a statement in the Federal Register of the reason why the Secretary's decision on the application is delayed, along with an estimate of the additional time necessary before the decision is made."
 
 Subsec. (g). Pub. L. 103–311, §107, designated existing provisions as par. (1) and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

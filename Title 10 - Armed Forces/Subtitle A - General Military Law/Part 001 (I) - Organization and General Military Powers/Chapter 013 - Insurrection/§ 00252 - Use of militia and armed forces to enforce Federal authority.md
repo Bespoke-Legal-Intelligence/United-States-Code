@@ -1,6 +1,6 @@
 ### §252. Use of militia and armed forces to enforce Federal authority
 
-Whenever the President considers that unlawful obstructions, combinations, or assemblages, or rebellion against the authority of the United States, make it impracticable to enforce the laws of the United States in any State by the ordinary course of judicial proceedings, he may call into Federal service such of the militia of any State, and use such of the armed forces, as he considers necessary to enforce those laws or to suppress the rebellion.
+Whenever the President considers that unlawful obstructions, combinations, or assemblages, or rebellion against the authority of the United States, make it impracticable to enforce the laws of the United States in any State by the ordinary course of judicial proceedings, he may call into Federal service such of the militia of any State, and use such of the armed forces, ashe considers necessary to enforce those laws or to suppress the rebellion.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 15, §332; Pub. L. 109–163, div. A, title X, §1057(a)(2), Jan. 6, 2006, 119 Stat. 3440; renumbered §252, Pub. L. 114–328, div. A, title XII, §1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
 
@@ -24,6 +24,8 @@ R.S. 5298.
 
 Act July 29, 1861, ch. 25, §1, 12 Stat. 281.
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Another section 252 was renumbered section 240b of this title.
@@ -33,6 +35,8 @@ Another section 252 was renumbered section 240b of this title.
 <b>2016</b>—Pub. L. 114–328 renumbered section 332 of this title as this section.
 
 <b>2006</b>—Pub. L. 109–163 struck out "or Territory" after "in any State".
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 10730. Assistance for Removal of an Obstruction of Justice Within the State of Arkansas
 

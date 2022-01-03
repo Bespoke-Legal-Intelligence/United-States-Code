@@ -4,6 +4,8 @@ The Secretary concerned may provide for persons who were subject to his authorit
 
 (Added Pub. L. 90–377, §1, July 5, 1968, 82 Stat. 288; amended Pub. L. 105–85, div. A, title X, §1073(a)(12), Nov. 18, 1997, 111 Stat. 1900.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1997</b>—Pub. L. 105–85 substituted "his authority" for "this authority".

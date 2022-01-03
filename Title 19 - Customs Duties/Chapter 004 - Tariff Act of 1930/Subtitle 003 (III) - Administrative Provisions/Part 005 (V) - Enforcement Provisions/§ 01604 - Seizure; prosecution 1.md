@@ -4,6 +4,8 @@ It shall be the duty of the Attorney General of the United States immediately to
 
 (June 17, 1930, ch. 497, title IV, §604, 46 Stat. 754; Pub. L. 91–271, title III, §301(bb), June 2, 1970, 84 Stat. 291; Pub. L. 96–417, title VI, §610, Oct. 10, 1980, 94 Stat. 1746.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 As enacted by act June 17, 1930, the catchline for this section was "Same—prosecution", as this section was intended to be read as a continuation of the provisions introduced in sections 1602 and 1603 of this title. The use of "such" in text is meant to refer back to section 1603 of this title.
@@ -21,6 +23,8 @@ The 1922 act also superseded a provision contained in R.S. §3087, requiring col
 <b>1980</b>—Pub. L. 96–417 substituted "the Attorney General of the United States" and "the Attorney General" for "every United States district attorney" and "such district attorney", respectively, and authorized institution of proceedings in the Court of International Trade.
 
 <b>1970</b>—Pub. L. 91–271 substituted reference to customs officers for reference to collectors.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

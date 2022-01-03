@@ -50,7 +50,7 @@ In this chapter:
 
 #### (8) Header information
 
-&emsp;The term "header information" means the source, destination, and routing informationattached to an electronic mail message, including the originating domain name and originating electronic mail address, and any other information that appears in the line identifying, or purporting to identify, a person initiating the message.
+&emsp;The term "header information" means the source, destination, and routing information attached to an electronic mail message, including the originating domain name and originating electronic mail address, and any other information that appears in the line identifying, or purporting to identify, a person initiating the message.
 
 #### (9) Initiate
 
@@ -120,6 +120,8 @@ In this chapter:
 
 (Pub. L. 108–187, §3, Dec. 16, 2003, 117 Stat. 2700.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 108–187, Dec. 16, 2003, 117 Stat. 2699, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of this title and Tables.
@@ -127,6 +129,8 @@ This chapter, referred to in text, was in the original "this Act", meaning Pub. 
 The Federal Trade Commission Act, referred to in par. (7), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 The Internet Tax Freedom Act, referred to in par. (10), is title XI of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–719, which is set out as a note under section 151 of Title 47, Telecommunications.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

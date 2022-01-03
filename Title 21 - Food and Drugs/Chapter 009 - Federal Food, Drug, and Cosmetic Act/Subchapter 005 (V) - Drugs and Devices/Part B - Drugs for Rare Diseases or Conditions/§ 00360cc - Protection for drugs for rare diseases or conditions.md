@@ -14,7 +14,7 @@ Except as provided in subsection (b), if the Secretary—
 
 During the 7-year period described in subsection (a) for an approved application under section 355 of this title or license under section 262 of title 42, the Secretary may approve an application or issue a license for a drug that is otherwise the same, as determined by the Secretary, as the already approved drug for the same rare disease or condition if—
 
-&emsp;(1) the Secretary finds, after providing the holder of exclusive approval or licensure notice and opportunity for the submission of views, that during such period the holder of the exclusive approval or licensure cannot ensure the availability of sufficient quantities of the drug to meet the needs of persons with the disease or condition for which the drug was designated; or
+&emsp;(1) the Secretary finds, after providing the holder of exclusive approval or licensure notice and opportunity for the submission of views, that during such period the holder of the exclusive approval or licensure cannot ensure the availability of sufficient quantities of the drug to meet the needs of persons with thedisease or condition for which the drug was designated; or
 
 &emsp;(2) the holder provides the Secretary in writing the consent of such holder for the approval of other applications or the issuance of other licenses before the expiration of such seven-year period.
 
@@ -40,7 +40,7 @@ The Secretary may promulgate regulations for the implementation of subsection (c
 
 To assist sponsors in demonstrating clinical superiority as described in subsection (c), the Secretary—
 
-&emsp;(1) upon the designation of any drug under section 360bb of this title, shall notify the sponsor of such drug in writing of the basis for the designation, including, as applicable, anyplausible hypothesis offered by the sponsor and relied upon by the Secretary that the drug is clinically superior to a previously approved drug; and
+&emsp;(1) upon the designation of any drug under section 360bb of this title, shall notify the sponsor of such drug in writing of the basis for the designation, including, as applicable, any plausible hypothesis offered by the sponsor and relied upon by the Secretary that the drug is clinically superior to a previously approved drug; and
 
 &emsp;(2) upon granting exclusive approval or licensure under subsection (a) on the basis of a demonstration of clinical superiority as described in subsection (c), shall publish a summary of the clinical superiority findings.
 
@@ -72,7 +72,7 @@ Subsecs. (c) to (e). Pub. L. 115–52, §607(a)(3), added subsecs. (c) to (e).
 
 <b>1997</b>—Subsec. (a). Pub. L. 105–115, §125(b)(2)(J), struck out ", issue another certification under section 357 of this title," before "or issue another license" in closing provisions, inserted "or" at end of par. (1), redesignated par. (3) as (2), and struck out former par. (2) which read as follows: "issues a certification under section 357 of this title, or".
 
-Subsec. (b). Pub. L. 105–115, §125(b)(2)(K), in introductory provisions, struck out ", if a certification is issued under section 357 of this title for such a drug," after "rare disease or condition", ", of the issuance of the certification under section 357 of this title," after "application approval", ", issue another certification under section 357 of this title," after "application under section 355 of this title", and ", of such certification," after "approved application".
+Subsec. (b). Pub. L. 105–115, §125(b)(2)(K), in introductory provisions, struck out ", if a certification is issued under section 357 of this title for such a drug," after "rare disease or condition", ", of the issuance of the certification under section 357 of this title," after "application approval", ", issue another certificationunder section 357 of this title," after "application under section 355 of this title", and ", of such certification," after "approved application".
 
 Subsec. (b)(1). Pub. L. 105–115, §125(b)(2)(K), struck out ", of the certification," after "holder of the approved application".
 

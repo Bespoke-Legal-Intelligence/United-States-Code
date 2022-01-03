@@ -26,7 +26,7 @@ This section shall not apply to an importer that is a validated Tier 2 or Tier 3
 
 #### (d) Report
 
-Not later than the date that is 2 years after February 24, 2016, the Inspector General of the Department of the Treasury shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a report detailing—
+Not later than the date that is 2 years after February 24, 2016, the Inspector General of the Department of the Treasury shall submit to the Committee on Finance of the Senate and theCommittee on Ways and Means of the House of Representatives a report detailing—
 
 &emsp;(1) the risk assessment guidelines developed under subsection (b)(1);
 
@@ -53,6 +53,8 @@ In this section:
 &emsp;&emsp;(B) a partnership, corporation, or other commercial entity that is not organized under the laws of a jurisdiction within the customs territory of the United States (as such term is defined in General Note 2 of the Harmonized Tariff Schedule of the United States) or in the Virgin Islands of the United States.
 
 (Pub. L. 114–125, title I, §115, Feb. 24, 2016, 130 Stat. 143.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -60,7 +60,7 @@ Amendment of Intelsat Agreement.—(1) The Secretary of State shall consult with
 
 "(B) To the maximum extent possible, such documenation \[documentation\] will be made available to interested parties on a timely basis.
 
-"(3) Pursuant to the consultation under paragraph (1) and taking the steps prescribed in paragraph (2) to provide documentation, the United States shall support an appropriate modification to article V(d) of the Intelsat Agreement to accomplish the purpose described in paragraph (1).
+"(3) Pursuant to the consultation under paragraph (1) and taking the steps prescribed in paragraph (2) to provide documentation, the United States shall support anappropriate modification to article V(d) of the Intelsat Agreement to accomplish the purpose described in paragraph (1).
 
 "(d)
 

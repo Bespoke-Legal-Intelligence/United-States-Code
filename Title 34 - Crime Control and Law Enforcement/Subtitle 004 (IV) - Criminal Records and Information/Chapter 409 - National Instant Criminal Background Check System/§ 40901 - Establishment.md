@@ -52,7 +52,7 @@ On establishment of the system under this section, the Attorney General shall no
 
 &emsp;&emsp;&emsp;(ii) notify the Attorney General that such basis no longer applies so that the National Instant Criminal Background Check System is kept up to date.
 
-> &emsp;&emsp;The Attorney General upon receiving notice pursuant to clause (ii) shall ensure that the record in the National Instant CriminalBackground Check System is updated, corrected, modified, or removed within 30 days of receipt.
+> &emsp;&emsp;The Attorney General upon receiving notice pursuant to clause (ii) shall ensure that the record in the National Instant Criminal Background Check System is updated, corrected, modified, or removed within 30 days of receipt.
 
 #### (E) Annual report
 
@@ -80,7 +80,7 @@ On establishment of the system under this section, the Attorney General shall no
 
 &emsp;&emsp;&emsp;&emsp;(II) for each category of records described in subclause (I), the total number of records of the Federal department or agency that have been provided to the Attorney General; and
 
-&emsp;&emsp;&emsp;&emsp;(III) the efforts of the Federal department or agency to ensure complete and accurate reporting of relevant records, including efforts to monitor compliance and correct any reporting failures or inaccuracies.
+&emsp;&emsp;&emsp;&emsp;(III) the efforts of the Federal department or agency to ensure complete and accurate reporting of relevant records, including efforts to monitor complianceand correct any reporting failures or inaccuracies.
 
 #### (G) Implementation plan
 
@@ -182,7 +182,7 @@ As used in this section:
 
 There are authorized to be appropriated such sums as are necessary to enable the Attorney General to carry out this section.
 
-(Pub. L. 103–159, title I, §103, Nov. 30, 1993, 107 Stat. 1541; Pub. L. 103–322, title XXI, §210603(b), Sept. 13, 1994, 108 Stat. 2074; Pub. L. 104–294, title VI, §603(h), (i)(1), Oct. 11, 1996, 110 Stat. 3504;Pub. L. 110–180, title I, §101(a), Jan. 8, 2008, 121 Stat. 2561; Pub. L. 115–141, div. S, title VI, §602, Mar. 23, 2018, 132 Stat. 1132.)
+(Pub. L. 103–159, title I, §103, Nov. 30, 1993, 107 Stat. 1541; Pub. L. 103–322, title XXI, §210603(b), Sept. 13, 1994, 108 Stat. 2074; Pub. L. 104–294, title VI, §603(h), (i)(1), Oct. 11, 1996, 110 Stat. 3504; Pub. L. 110–180, title I, §101(a), Jan. 8, 2008, 121 Stat. 2561; Pub. L. 115–141, div. S, title VI, §602, Mar. 23, 2018, 132 Stat. 1132.)
 
 #### <b>Editorial Notes</b>
 
@@ -256,7 +256,7 @@ Memorandum of President of the United States, Jan. 16, 2013, 78 F.R. 4301, provi
 
 Memorandum for the Heads of Executive Departments and Agencies
 
-Reducing violent crime, and gun-related crime in particular, is a top priority of my Administration. A key component of this effort is ensuring that law enforcement agencies at all levels—Federal, State, and local—utilize those tools that have proven most effective. One such tool is firearms tracing, which significantly assists law enforcement in reconstructing the transferand movement of seized or recovered firearms. Responsibility for conducting firearms tracing rests with the Department of Justice's Bureau of Alcohol, Tobacco, Firearms, and Explosives (ATF). Over the years, firearms tracing has significantly assisted law enforcement in solving violent crimes and generating thousands of leads that may otherwise not have been available.
+Reducing violent crime, and gun-related crime in particular, is a top priority of my Administration. A key component of this effort is ensuring that law enforcement agencies at all levels—Federal, State, and local—utilize those tools that have proven most effective. One such tool is firearms tracing, which significantly assists law enforcement in reconstructing the transfer and movement of seized or recovered firearms. Responsibility for conducting firearms tracing rests with the Department of Justice's Bureau of Alcohol, Tobacco, Firearms, and Explosives (ATF). Over the years, firearms tracing has significantly assisted law enforcement in solving violent crimes and generating thousands of leads that may otherwise not have been available.
 
 Firearms tracing provides two principal benefits. First, tracing is an important investigative tool in individual cases, providing law enforcement agents with critical information that may lead to the apprehension of suspects, the recovery of other guns used in the commission of crimes, and the identification of potential witnesses, among other things. Second, analysis of tracing data in the aggregate provides valuable intelligence about local, regional, and national patterns relating to the movement and sources of guns used in the commission of crimes, which is useful for the effective deployment of law enforcement resources and development of enforcement strategies. Firearms tracing is a particularly valuable tool in detecting and investigating firearms trafficking, and has been deployed to help combat the pernicious problem of firearms trafficking across the Southwest border.
 

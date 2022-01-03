@@ -74,7 +74,7 @@ The Congress finds that—
 
 &emsp;&emsp;(C) any other type of export financing,
 
-> &emsp;in such manner and under such terms as the Bank determines to be appropriate, includingcombinations of export financing in the form of blended financing and parallel financing.
+> &emsp;in such manner and under such terms as the Bank determines to be appropriate, including combinations of export financing in the form of blended financing and parallel financing.
 
 #### (4) Information on countries which engage in official predatory export financing and impede negotiations
 
@@ -98,7 +98,7 @@ The Congress finds that—
 
 &emsp;&emsp;&emsp;&emsp;(III) Credible information about an offer of foreign tied aid will be required before the Tied Aid Credit Fund is used to offer specific terms to match such an offer. In cases where information about a specific offer of foreign tied aid (or untied aid used to promote exports as if it were tied aid) is not available in a timely manner, or is unavailable because the foreign export credit agency involved is not subject to the reporting requirements under the Arrangement, then the Bank may decide to use the Tied Aid Credit Fund based on credible evidence of a history of such offers under similar circumstances or other forms of credible evidence.
 
-&emsp;&emsp;&emsp;&emsp;(IV) The Tied Aid Credit Fund will be used to enable a competitive United States exporter to pursue further market opportunities on commercial terms made possible by the use of the Fund.
+&emsp;&emsp;&emsp;&emsp;(IV) The Tied Aid Credit Fund will be used to enable a competitive UnitedStates exporter to pursue further market opportunities on commercial terms made possible by the use of the Fund.
 
 &emsp;&emsp;&emsp;&emsp;(V) Each use of the Tied Aid Credit Fund will be in accordance with the Arrangement unless a breach of the Arrangement has been committed by a foreign export credit agency.
 
@@ -118,7 +118,7 @@ The Congress finds that—
 
 &emsp;&emsp;&emsp;&emsp;(IV) Case-by-case decisions on whether to approve the use of the Tied Aid Credit Fund shall be made by the Board of Directors, except that the approval of the Board of Directors (or a commitment letter based on that approval) shall not become final (except as provided in subclause (V)), if the Secretary indicates to the President of the Bank in writing the Secretary's intention to appeal the decision of the Board of Directors to the President of the United States and makes the appeal in writing not later than 20 days after the meeting at which the Board of Directors considered the application.
 
-&emsp;&emsp;&emsp;&emsp;(V) The Bank shall not grant final approval of an application for any tied aid credit (or a commitment letter based on that approval) if the President of the United States, after consulting with thePresident of the Bank and the Secretary, determines within 30 days of an appeal by the Secretary under subclause (IV) that the extension of the tied aid credit would materially impede achieving the purposes described in subsection (a)(6). If no such Presidential determination is made during the 30-day period, the approval by the Bank of the application (or related commitment letter) that was the subject of such appeal shall become final.
+&emsp;&emsp;&emsp;&emsp;(V) The Bank shall not grant final approval of an application for any tied aid credit (or a commitment letter based on that approval) if the President of the United States, after consulting with the President of the Bank and the Secretary, determines within 30 days of an appeal by the Secretary under subclause (IV) that the extension of the tied aid credit would materially impede achieving the purposes described in subsection (a)(6). If no such Presidential determination is made during the 30-day period, the approval by the Bank of the application (or related commitment letter) that was the subject of such appeal shall become final.
 
 #### (C) Initial principles, process, and standards
 
@@ -150,7 +150,7 @@ The Congress finds that—
 
 #### (2) Expenditures from Fund
 
-&emsp;Amounts in the Fund shall be available for grants made by the Bank under the tied aid credit program established pursuant to subsection (b) and to reimburse the Bank for the amount equal to the concessionality level of any tied aid credits authorized by the Bank.
+&emsp;Amounts in the Fund shall be available for grants made by the Bank under the tied aid credit program established pursuant to subsection (b) and to reimburse the Bank for theamount equal to the concessionality level of any tied aid credits authorized by the Bank.
 
 #### (d) Consistency with Arrangement
 
@@ -236,7 +236,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;The Bank, in consultation with the Secretary of the Treasury, shall define "market window" for purposes of this section.
 
-(July 31, 1945, ch. 341, §10, formerly §15, as added Pub. L. 99–472, §19, Oct. 15, 1986, 100 Stat. 1205; amended Pub. L. 100–217, Dec. 29, 1987, 101 Stat. 1454; Pub. L. 100–418, title III, §3302(b), Aug. 23, 1988, 102 Stat. 1383; Pub. L. 101–240, title I, §101(b), Dec. 19, 1989, 103 Stat. 2493; Pub. L. 101–513, title V, §562(d), Nov. 5, 1990, 104 Stat. 2036; renumbered §10 and amended Pub. L. 102–429, title I, §§103, 121(c)(4), Oct. 21, 1992, 106 Stat. 2187, 2199; Pub. L. 104–97, §1, Jan. 11, 1996, 109 Stat. 984; Pub. L. 104–107, title V, §579, Feb. 12, 1996, 110 Stat. 751; Pub. L. 105–121, §3, Nov. 26, 1997, 111 Stat. 2528; Pub. L. 106–569, title XI, §1103(d)(2), Dec. 27, 2000, 114 Stat. 3031; Pub. L. 107–189, §§9, 10(c), (d), 24(a)(2)(E), June 14, 2002, 116 Stat. 701, 703, 704, 708; Pub. L. 109–438, §10, Dec. 20, 2006, 120 Stat. 3275.)
+(July 31, 1945, ch. 341, §10, formerly §15, as added Pub. L. 99–472, §19, Oct. 15, 1986, 100 Stat. 1205; amended Pub. L. 100–217, Dec. 29, 1987, 101 Stat. 1454; Pub. L. 100–418, title III, §3302(b), Aug. 23, 1988, 102 Stat. 1383; Pub. L. 101–240, title I, §101(b), Dec. 19, 1989, 103 Stat. 2493; Pub. L. 101–513, title V, §562(d), Nov. 5, 1990, 104 Stat. 2036; renumbered §10 and amended Pub. L. 102–429, title I, §§103, 121(c)(4), Oct. 21, 1992, 106 Stat. 2187, 2199; Pub. L. 104–97, §1, Jan. 11, 1996, 109 Stat. 984; Pub. L. 104–107, title V, §579, Feb. 12, 1996, 110 Stat. 751; Pub. L. 105–121, §3, Nov. 26, 1997, 111 Stat. 2528; Pub. L. 106–569, title XI, §1103(d)(2), Dec. 27, 2000, 114 Stat. 3031; Pub. L.107–189, §§9, 10(c), (d), 24(a)(2)(E), June 14, 2002, 116 Stat. 701, 703, 704, 708; Pub. L. 109–438, §10, Dec. 20, 2006, 120 Stat. 3275.)
 
 #### <b>Editorial Notes</b>
 
@@ -278,7 +278,7 @@ Subsec. (h)(7). Pub. L. 107–189, §10(d), added par. (7).
 
 <b>1997</b>—Subsec. (c)(2). Pub. L. 105–121, §3(a), struck out "through September 30, 1997" after "authorized by the Bank".
 
-Subsec. (e). Pub. L. 105–121, §3(b), amended first sentence generally. Prior to amendment first sentenceread as follows: "There are authorized to be appropriated to the Fund such sums as may be necessary for each of fiscal years 1996 and 1997."
+Subsec. (e). Pub. L. 105–121, §3(b), amended first sentence generally. Prior to amendment first sentence read as follows: "There are authorized to be appropriated to the Fund such sums as may be necessary for each of fiscal years 1996 and 1997."
 
 <b>1996</b>—Subsec. (c)(2). Pub. L. 104–107, §579(a), which directed substitution of "1997" for "1995", could not be executed because "1995" does not appear in text after amendment by Pub. L. 104–97. See below.
 

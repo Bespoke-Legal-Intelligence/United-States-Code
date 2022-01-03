@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall establish a fellowship program, to be known as the "Borlaug International Agricultural Science and Technology Fellowship Program," to provide fellowships for scientific training and study in the United States to individuals from eligible countries (as described in subsection (b)) who specialize in agricultural education, research, and extension.
+&emsp;The Secretary shall establish a fellowship program, to be known as the "Borlaug International Agricultural Science and Technology Fellowship Program," to provide fellowships for scientific training and study in the United States to individuals from eligible countries\(as described in subsection (b)) who specialize in agricultural education, research, and extension.
 
 #### (2) Programs
 
@@ -82,6 +82,8 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 (Pub. L. 95–113, title XIV, §1473G, as added Pub. L. 110–234, title VII, §7139, May 22, 2008, 122 Stat. 1231, and Pub. L. 110–246, §4(a), title VII, §7139, June 18, 2008, 122 Stat. 1664, 1992; amended Pub. L. 115–334, title III, §3306, Dec. 20, 2018, 132 Stat. 4620.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
@@ -94,7 +96,9 @@ Subsec. (c)(2)(E). Pub. L. 115–334, §3306(1)(B)–(D), added subpar. (E).
 
 Subsec. (f). Pub. L. 115–334, §3306(2), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 

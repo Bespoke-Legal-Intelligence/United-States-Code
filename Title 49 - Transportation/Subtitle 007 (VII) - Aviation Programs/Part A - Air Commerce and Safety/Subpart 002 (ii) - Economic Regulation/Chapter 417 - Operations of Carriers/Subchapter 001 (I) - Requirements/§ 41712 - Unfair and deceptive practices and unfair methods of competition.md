@@ -50,6 +50,8 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 19
 
 The words "such action by" are omitted as surplus. The words "opportunity for a" are added for consistency in the revised title and with other titles of the United States Code.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–254 inserted "air ambulance consumer (as defined by the Secretary of Transportation)," after "of an air carrier, foreign air carrier,".
@@ -57,6 +59,8 @@ The words "such action by" are omitted as surplus. The words "opportunity for a"
 <b>2010</b>—Subsec. (c). Pub. L. 111–216 added subsec. (c).
 
 <b>2000</b>—Pub. L. 106–181 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

@@ -42,6 +42,8 @@ In any case to which subsection (a) or (b) applies the Secretary is authorized�
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 80; Pub. L. 88–272, title II, §235(c)(2), Feb. 26, 1964, 78 Stat. 126; Pub. L. 94–455, title XIX, §§1901(a)(38), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1771, 1834; Pub. L. 98–369, div. A, title VII, §712(k)(8)(A), (B), July 18, 1984, 98 Stat. 952; Pub. L. 113–295, div. A, title II, §221(a)(45), Dec. 19, 2014, 128 Stat. 4045.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Subsec. (a). Pub. L. 113–295 struck out "or acquired on or after October 8, 1940," after "persons acquire," in par. (1) and after "corporation acquires," in par. (2).
@@ -53,6 +55,8 @@ In any case to which subsection (a) or (b) applies the Secretary is authorized�
 Subsec. (c). Pub. L. 94–455, §1901(a)(38), struck out subsec. (c) relating to presumptions in the case of disproportionate purchase price.
 
 <b>1964</b>—Subsec. (a). Pub. L. 88–272 substituted "the Secretary or his delegate may disallow such deduction, credit, or other allowance" for "such deduction, credit or other allowance shall not be allowed".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

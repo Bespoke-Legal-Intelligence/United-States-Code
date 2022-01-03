@@ -18,9 +18,13 @@ For purposes of subsection (a)—
 
 (Added Pub. L. 98–369, div. A, title I, §41(a), July 18, 1984, 98 Stat. 552; amended Pub. L. 111–147, title V, §502(a)(2)(D), Mar. 18, 2010, 124 Stat. 107.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (b)(1). Pub. L. 111–147 struck out "except that clause (iv) of subparagraph (A), and subparagraph (B), of such section shall not apply" before period.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

@@ -40,6 +40,8 @@ As used in this subchapter:
 
 (Pub. L. 97–35, title XXVI, §2603, Aug. 13, 1981, 95 Stat. 894; Pub. L. 97–115, §16, Dec. 29, 1981, 95 Stat. 1609; Pub. L. 98–558, title VI, §602, Oct. 30, 1984, 98 Stat. 2890; Pub. L. 103–252, title III, §§304(b), 311(c)(2), May 18, 1994, 108 Stat. 658, 662; Pub. L. 105–285, title III, §§303, 304(a), Oct. 27, 1998, 112 Stat. 2756; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(EE), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(EE), June 18, 2008, 122 Stat. 1664, 1857, 1859.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Food and Nutrition Act of 2008, referred to in par. (1)(E), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
@@ -56,7 +58,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>2008</b>—Par. (1)(E). Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(EE), substituted "supplemental nutrition assistance program" for "food stamp program" and "Food and Nutrition Act of 2008" for "Food Stamp Act of 1977".
 
-<b>1998</b>—Pars. (1) to (3). Pub. L. 105–285, §304(a)(3), (4), added par. (1) and redesignated former pars. (1) and (2)as (2) and (3), respectively. Former par. (3) redesignated (4).
+<b>1998</b>—Pars. (1) to (3). Pub. L. 105–285, §304(a)(3), (4), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively. Former par. (3) redesignated (4).
 
 Par. (4). Pub. L. 105–285, §304(a)(3), redesignated par. (3) as (4). Former par. (4) redesignated (5).
 
@@ -83,6 +85,8 @@ Pars. (5) to (9). Pub. L. 103–252, §304(b)(1), redesignated pars. (3) to (7) 
 Par. (4). Pub. L. 98–558, §602(b), substituted "the income poverty line as prescribed and revised at least annually pursuant to section 9902(2) of this title," for "the income poverty guidelines for the nonfarm population of the United States as prescribed by the Office of Management and Budget (and as adjusted annually pursuant to section 9902(2) of this title)".
 
 <b>1981</b>—Pub. L. 97–115 designated par. (2)(A) as par. (2), substituted provisions including individuals and groups of individuals who are living together as one economic unit for whom residential energy is customarily purchased in the form of rent in the definition of household, for provisions including individuals who occupy a housing unit in such definition, and struck out par. (2)(B), which provided that for purposes of subpar. (A), one or more rooms shall be treated as a housing unit when occupied as a separate living quarters.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

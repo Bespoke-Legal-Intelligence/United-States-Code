@@ -62,7 +62,9 @@ Damage Prevention Process Defined.—In this section, the term "damage preventio
 
 Authorization of Appropriations.—There is authorized to be appropriated to the Secretary to provide grants under this section $1,500,000 for each of fiscal years 2021 through 2023. Such funds shall remain available until expended.
 
-(Added Pub. L. 109–468, §2(b)(2), Dec. 29, 2006, 120 Stat. 3487; amended Pub. L. 112–90, §§3(b), 32(d), Jan. 3, 2012, 125 Stat. 1906, 1923; Pub. L. 116–260,div. R, title I, §101(f), Dec. 27, 2020, 134 Stat. 2214.)
+(Added Pub. L. 109–468, §2(b)(2), Dec. 29, 2006, 120 Stat. 3487; amended Pub. L. 112–90, §§3(b), 32(d), Jan. 3, 2012, 125 Stat. 1906, 1923; Pub. L. 116–260, div. R, title I, §101(f), Dec. 27, 2020, 134 Stat. 2214.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -71,6 +73,8 @@ Authorization of Appropriations.—There is authorized to be appropriated to the
 <b>2012</b>—Subsec. (a)(3). Pub. L. 112–90, §3(b), added par. (3).
 
 Subsec. (i). Pub. L. 112–90, §32(d), added subsec. (i).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

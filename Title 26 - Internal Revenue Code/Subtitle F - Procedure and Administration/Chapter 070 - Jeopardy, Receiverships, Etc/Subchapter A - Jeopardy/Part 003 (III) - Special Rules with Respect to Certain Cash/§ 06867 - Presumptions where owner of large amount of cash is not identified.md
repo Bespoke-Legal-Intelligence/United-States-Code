@@ -56,13 +56,17 @@ For purposes of this section—
 
 (Added Pub. L. 97–248, title III, §330(a), Sept. 3, 1982, 96 Stat. 619; amended Pub. L. 100–647, title I, §1001(a)(1), Nov. 10, 1988, 102 Stat. 3349.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Subsec. (b)(2). Pub. L. 100–647 substituted "the highest rate of tax specified in section 1" for "a 50-percent rate".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to whichsuch amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date
 

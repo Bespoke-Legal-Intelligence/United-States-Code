@@ -78,7 +78,9 @@ The Attorney General may—
 
 &emsp;Paragraphs (1) and (2) do not apply to sections 8309(c) and 8313(b) of this title.
 
-(Pub. L. 107–171, title X, §10415, May 13, 2002, 116 Stat. 505; Pub. L. 110–234, title XI, §11012(b), May22, 2008, 122 Stat. 1360; Pub. L. 110–246, §4(a), title XI, §11012(b), June 18, 2008, 122 Stat. 1664, 2122.)
+(Pub. L. 107–171, title X, §10415, May 13, 2002, 116 Stat. 505; Pub. L. 110–234, title XI, §11012(b), May 22, 2008, 122 Stat. 1360; Pub. L. 110–246, §4(a), title XI, §11012(b), June 18, 2008, 122 Stat. 1664, 2122.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -97,6 +99,8 @@ Subsec. (a)(2)(B). Pub. L. 110–246, §11012(b)(2), struck out "documentary" be
 Subsec. (a)(2)(C)(i). Pub. L. 110–246, §11012(b)(3)(A), substituted "testimony of any witness, the production of evidence, or the inspection of premises" for "testimony of any witness and the production of documentary evidence".
 
 Subsec. (a)(2)(C)(ii). Pub. L. 110–246, §11012(b)(3)(B), substituted "question, produce evidence, or permit the inspection of premises" for "question or to produce documentary evidence".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

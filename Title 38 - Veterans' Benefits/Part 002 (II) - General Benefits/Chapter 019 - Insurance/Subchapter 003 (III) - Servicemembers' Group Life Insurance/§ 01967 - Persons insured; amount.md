@@ -32,7 +32,7 @@
 
 (C) In no case may the amount of insurance coverage under this subsection of a member's spouse exceed the amount of insurance coverage of the member.
 
-(D) In the case of a member who elects under paragraph (2)(A) not to be insured under thissection, or who elects under subparagraph (B) to be insured for an amount less than the maximum amount provided under subparagraph (A), and who is deployed to a combat theater of operations, the member—
+(D) In the case of a member who elects under paragraph (2)(A) not to be insured under this section, or who elects under subparagraph (B) to be insured for an amount less than the maximum amount provided under subparagraph (A), and who is deployed to a combat theater of operations, the member—
 
 &emsp;(i) shall be insured under this subchapter for the maximum amount provided under subparagraph (A) for the period of such deployment; and
 
@@ -44,7 +44,7 @@
 
 (4)(A) An insurable dependent of a member is not insured under this chapter unless the member is insured under this subchapter.
 
-(B) An insurable dependent who is a child may not be insured at any time by the insurance coverage under this chapter of more than one member. If an insurable dependent who is a child is otherwise eligible to be insured by the coverage of more than one member under this chapter, the child shall be insured by the coverage of the member whose eligibility for insurance under this subchapter occurred first, except that if that member does not have legal custody of the child, the child shall be insured by the coverage of the member who has legal custody of the child.
+(B) An insurable dependent who is a child may not be insured at any time by the insurance coverage under this chapter of more than one member. If an insurable dependent who is a child is otherwise eligible to be insured by the coverage of more than one member under this chapter, the child shall be insured by the coverage of the member whose eligibility for insurance under this subchapter occurred first, except that ifthat member does not have legal custody of the child, the child shall be insured by the coverage of the member who has legal custody of the child.
 
 (5) The insurance shall be effective with respect to a member and the insurable dependents of the member on the latest of the following dates:
 
@@ -136,7 +136,7 @@ Subsec. (a)(3)(D), (E). Pub. L. 109–13, §1012(f)(2)(B), which directed additi
 
 "(D) A member with a spouse may not elect not to be insured under this subchapter, or to be insured under this subchapter in an amount less than the maximum amount provided under subparagraph (A)(i)(I), without the written consent of the spouse.
 
-"(E) Whenever a member who is not married elects not to be insured under this subchapter, or to be insured under this subchapter in an amount less than the maximum amount provided for under subparagraph (A)(i)(I), the Secretary concerned shall provide a notice of such election to any person designated by the member as a beneficiary or designated as the member's next-of-kin for the purpose of emergency notification, as determined under regulations prescribed by the Secretary of Defense."
+"(E) Whenever a member who is not married elects not to be insured under this subchapter, or to be insured under this subchapter in an amount less than the maximum amount provided for under subparagraph (A)(i)(I), the Secretary concerned shall provide a notice of such election to any person designated by the member as a beneficiary or designated as the member's next-of-kin for the purpose of emergency notification,as determined under regulations prescribed by the Secretary of Defense."
 
 Subsec. (d). Pub. L. 109–80, §3(a)(2), substituted "in effect under paragraph (3)(A)(i) of that subsection" for "of $250,000" in introductory provisions.
 
@@ -278,7 +278,7 @@ Pub. L. 110–389, title IV, §403(e)(1), Oct. 10, 2008, 122 Stat. 4174, provide
 
 #### Effective and Termination Dates of 2005 Amendments
 
-Pub. L. 109–80, §2, Sept. 30, 2005, 119 Stat. 2045, provided that: "Effective as of August 31, 2005, section 1012 of division A of the Emergency Supplemental Appropriations Act for Defense, the Global War on Terror, and Tsunami Relief, 2005 (Public Law 109–13; 119 Stat. 244) \[amending this section and sections 1969, 1970, and1977 of this title and enacting provisions set out as a note under this section\], including the amendments made by that section, are repealed, and sections 1967, 1969, 1970, and 1977 of title 38, United States Code, shall be applied as if that section had not been enacted."
+Pub. L. 109–80, §2, Sept. 30, 2005, 119 Stat. 2045, provided that: "Effective as of August 31, 2005, section 1012 of division A of the Emergency Supplemental Appropriations Act for Defense, the Global War on Terror, and Tsunami Relief, 2005 (Public Law 109–13; 119 Stat. 244) \[amending this section and sections 1969, 1970, and 1977 of this title and enacting provisions set out as a note under this section\], including the amendments made by that section, are repealed, and sections 1967, 1969, 1970, and 1977 of title 38, United States Code, shall be applied as if that section had not been enacted."
 
 Pub. L. 109–80, §3(c), Sept. 30, 2005, 119 Stat. 2046, provided that: "The amendments made by this section \[amending this section and section 1977 of this title\] shall take effect as of September 1, 2005, and shall apply with respect to deaths occurring on or after that date."
 
@@ -286,7 +286,7 @@ Pub. L. 109–80, §4, Sept. 30, 2005, 119 Stat. 2046, provided that the amendme
 
 Pub. L. 109–80, §5(b), Sept. 30, 2005, 119 Stat. 2047, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect as of September 1, 2005."
 
-Pub. L. 109–77, §115, Sept. 30, 2005, 119 Stat. 2040, provided that: "The provisions of, and amendments made by, sections 1011, 1012, 1013, 1023, and 1026 of Public Law 109–13 \[amending this section, sections 1969, 1970, and 1977 of this title, section 1478 of Title 10, Armed Forces, and section 411h of Title 37, Pay and Allowances of the Uniformed Services, and enacting provisions set out as notes under this section, section 1478 of Title 10, and section 411h of Title 37\] shall continue in effect, notwithstanding the fiscal year limitation in section 1011 \[119 Stat. 244\] and the provisions of sections 1012(i), 1013(e), 1023(c), and 1026(e) of that Public Law \[enacting provisions set out as notes under this section, section 1478 of Title 10, and section 411h of Title 37\], through the earlier of: (1) the date specified in section 106(3) of this joint resolution \[Dec. 31, 2005\]; or (2) with respect to any such section of Public Law 109–13, the date of the enactment into law of legislation that supersedes the provisions of, or the amendments made by, that section."
+Pub. L. 109–77, §115, Sept. 30, 2005, 119 Stat. 2040, provided that: "The provisions of, and amendments made by, sections 1011, 1012, 1013, 1023, and 1026 of Public Law 109–13 \[amending this section, sections 1969, 1970, and 1977 of this title, section 1478 of Title 10, Armed Forces, and section 411h of Title 37, Pay and Allowances of the Uniformed Services, and enacting provisions set out as notes under this section, section 1478 of Title 10, and section 411h of Title 37\] shall continue in effect, notwithstanding the fiscal year limitation in section 1011 \[119 Stat. 244\] and the provisions of sections 1012(i), 1013(e), 1023(c), and 1026(e) of that Public Law \[enacting provisions set out as notes under this section, section 1478 of Title 10, and section 411h of Title 37\], throughthe earlier of: (1) the date specified in section 106(3) of this joint resolution \[Dec. 31, 2005\]; or (2) with respect to any such section of Public Law 109–13, the date of the enactment into law of legislation that supersedes the provisions of, or the amendments made by, that section."
 
 Pub. L. 109–13, div. A, title I, §1012(h), (i), May 11, 2005, 119 Stat. 246, which provided that section 1012 of Pub. L. 109–13, amending this section and sections 1969, 1970, and 1977 of this title, would take effect on the first day of the first month that began more than 90 days after May 11, 2005, and would terminate on Sept. 30, 2005, and that provisions of such sections as in effect on the day before May 11, 2005, would be revived, was repealed by Pub. L. 109–80, §2, Sept. 30, 2005, 119 Stat. 2045, effective Aug. 31, 2005.
 

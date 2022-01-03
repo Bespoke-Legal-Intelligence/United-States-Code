@@ -2,7 +2,7 @@
 
 (a)
 
-Briefings Required.—The Secretary of Defense shall provide to the congressional defense committees monthly briefings outlining Department of Defense counterterrorism operations and related activities.
+Briefings Required.—The Secretary of Defense shall provide to the congressional defense committees monthly briefings outlining Department of Defense counterterrorism operations and related activities, including the use of military force under the notion of collective self-defense of foreign partners.
 
 (b)
 
@@ -16,13 +16,17 @@ Elements.—Each briefing under subsection (a) shall include each of the followi
 
 &emsp;(4) Any other matters the Secretary considers appropriate.
 
-(Added Pub. L. 113–66, div. A, title X, §1042(a)(1), Dec. 26, 2013, 127 Stat. 857; amended Pub. L. 114–328, div. A, title X, §1031(a), (b), Dec. 23, 2016, 130 Stat. 2389.)
+(Added Pub. L. 113–66, div. A, title X, §1042(a)(1), Dec. 26, 2013, 127 Stat. 857; amended Pub. L. 114–328, div. A, title X, §1031(a), (b), Dec. 23, 2016, 130 Stat. 2389; Pub. L. 117–81, div. A, title X, §1031, Dec. 27, 2021, 135 Stat. 1900.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
 A prior section 485, added Pub. L. 105–261, div. A, title IX, §923(b)(1), Oct. 17, 1998, 112 Stat. 2105; amended Pub. L. 106–65, div. A, title IX, §931, title X, §1067(1), Oct. 5, 1999, 113 Stat. 726, 774; Pub. L. 107–107, div. A, title IX, §922, Dec. 28, 2001, 115 Stat. 1198; Pub. L. 110–417, \[div. A\], title II, §241(a), Oct. 14, 2008, 122 Stat. 4395, related to biennial reports on joint and service concept development and experimentation, prior to repeal by Pub. L. 112–81, div. A, title X, §1061(7)(A), Dec. 31, 2011, 125 Stat. 1583.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a). Pub. L. 117–81 inserted ", including the use of military force under the notion of collective self-defense of foreign partners" after "activities".
 
 <b>2016</b>—Pub. L. 114–328, §1031(b), substituted "Monthly" for "Quarterly" in section catchline.
 

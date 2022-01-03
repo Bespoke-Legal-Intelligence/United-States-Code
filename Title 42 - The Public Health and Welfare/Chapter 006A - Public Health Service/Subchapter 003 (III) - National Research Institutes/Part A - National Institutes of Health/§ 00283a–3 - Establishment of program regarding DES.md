@@ -6,7 +6,7 @@ The Director of NIH shall establish a program for the conduct and support of res
 
 #### (b) Education programs
 
-In carrying out subsection (a), the Director of NIH, after consultation with nonprofit private entities representing individuals who have been exposed to DES, shall conduct or support programs to educate health professionals and the public on the drug, including the importance of identifying and treating individuals who have been exposed to the drug.
+In carrying out subsection (a), the Director of NIH, after consultation with nonprofit private entities representing individuals who have been exposed to DES, shall conduct or support programs to educate health professionals and thepublic on the drug, including the importance of identifying and treating individuals who have been exposed to the drug.
 
 #### (c) Longitudinal studies
 
@@ -26,6 +26,8 @@ For purposes of this section, an individual shall be considered to have been exp
 
 (July 1, 1944, ch. 373, title IV, §403D, formerly §403A, as added Pub. L. 102–409, §2, Oct. 13, 1992, 106 Stat. 2092; amended Pub. L. 105–340, title I, §101(a), Oct. 31, 1998, 112 Stat. 3191; renumbered §403C and amended Pub. L. 109–482, title I, §§103(b)(2), 104(a)(1), Jan. 15, 2007, 120 Stat. 3687, 3689; renumbered §403D, Pub. L. 110–85, title XI, §1104(4), Sept. 27, 2007, 121 Stat. 975.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 283a of this title prior to renumbering by Pub. L. 109–482.
@@ -35,6 +37,8 @@ Section was formerly classified to section 283a of this title prior to renumberi
 <b>2007</b>—Subsec. (e). Pub. L. 109–482, §103(b)(2), struck out subsec. (e) which read as follows: "In addition to any other authorization of appropriations available for the purpose of carrying out this section, there are authorized to be appropriated for such purpose such sums as may be necessary for each of the fiscal years 1993 through 2003."
 
 <b>1998</b>—Subsec. (e). Pub. L. 105–340 substituted "2003" for "1996".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

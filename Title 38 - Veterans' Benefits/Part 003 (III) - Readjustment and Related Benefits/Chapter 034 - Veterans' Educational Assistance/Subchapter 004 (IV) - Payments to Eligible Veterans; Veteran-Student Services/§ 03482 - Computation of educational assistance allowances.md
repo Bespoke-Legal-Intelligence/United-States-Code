@@ -1,6 +1,6 @@
 ### §3482. Computation of educational assistance allowances
 
-(a)(1) Except as provided in subsection (b), (c), or (g) of this section, or section 3687 of this title,while pursuing a program of education under this chapter of half-time or more, each eligible veteran shall be paid the monthly educational assistance allowance set forth in column II, III, IV, or V (whichever is applicable as determined by the veteran's dependency status) opposite the applicable type of program as shown in column I:
+(a)(1) Except as provided in subsection (b), (c), or (g) of this section, or section 3687 of this title, while pursuing a program of education under this chapter of half-time or more, each eligible veteran shall be paid the monthly educational assistance allowance set forth in column II, III, IV, or V (whichever is applicable as determined by the veteran's dependency status) opposite the applicable type of program as shown in column I:
 
 &nbsp;
 
@@ -52,7 +52,7 @@
 
 (3) The educational assistance allowance paid under the authority of this subsection shall be charged against the period of entitlement the veteran has earned pursuant to section 3461(a) of this title.
 
-(e) The educational assistance allowance of an eligible veteran pursuing an independent study program which leads to a standard college degree shall be computed at the rate provided in subsection (b) of this section. If the entire training is to be pursued by independent study, the amount of such veteran's entitlement to educational assistance under this chapter shall be charged in accordance with the rate at which the veteran is pursuing the independent study program but at not more than the rate at which such entitlement is charged for pursuit of such program on less than a half-time basis. In any case in which independent study is combined with resident training, the educational assistance allowance shall be paid at the applicable institutional rate based on the total training time determined by adding the number of semester hours (or the equivalent thereof) of resident training to the number of semester hours (or theequivalent thereof) of independent study that do not exceed the number of semester hours (or the equivalent thereof) required for the less than half-time institutional rate, as determined by the Secretary, for resident training. A veteran's entitlement shall be charged for a combination of independent study and resident training on the basis of the applicable monthly training time rate as determined under section 3688 of this title.
+(e) The educational assistance allowance of an eligible veteran pursuing an independent study program which leads to a standard college degree shall be computed at the rate provided in subsection (b) of this section. If the entire training is to be pursued by independent study, the amount of such veteran's entitlement to educational assistance under this chapter shall be charged in accordance with the rate at which the veteran is pursuing the independent study program but at not more than the rate at which such entitlement is charged for pursuit of such program on less than a half-time basis. In any case in which independent study is combined with resident training, the educational assistance allowance shall be paid at the applicable institutional rate based on the total training time determined by adding the number of semester hours (or the equivalent thereof) of resident training to the number of semester hours (or the equivalent thereof) of independent study that do not exceed the number of semester hours (or the equivalent thereof) required for the less than half-time institutional rate, as determined by the Secretary, for resident training. A veteran's entitlement shall be charged for a combination of independent study and resident training on the basis of the applicable monthly training time rate as determined under section 3688 of this title.
 
 (f) The educational assistance allowance of an eligible veteran pursuing a course by open circuit television shall be computed in the same manner that such allowance is computed under subsection (e) of this section for an independent study program.
 
@@ -100,7 +100,7 @@ Subsec. (g)(1). Pub. L. 102–83, §5(c)(1), substituted "3687(b)(1)" for "1787(
 
 Subsec. (b). Pub. L. 98–543, §202(2), substituted "$376" for "$342".
 
-Subsec. (c)(2). Pub. L. 98–543, §202(3), increased the monthly educational assistance allowance for eligible veterans pursuing a farm cooperative program in column II from $276, $207, and $138 to $304, $228 and $152; in column III from $323, $242 and $162 to $355, $266 and $178; in column IV from $367, $275 and $184 to $404, $303 and$202; in column V from $21, $16 and $11 to $23, $18 and $12, respectively.
+Subsec. (c)(2). Pub. L. 98–543, §202(3), increased the monthly educational assistance allowance for eligible veterans pursuing a farm cooperative program in column II from $276, $207, and $138 to $304, $228 and $152; in column III from $323, $242 and $162 to $355, $266 and $178; in column IV from $367, $275 and $184 to $404, $303 and $202; in column V from $21, $16 and $11 to $23, $18 and $12, respectively.
 
 <b>1983</b>—Subsec. (c)(1)(C). Pub. L. 98–160 inserted a comma after "hours per week)".
 
@@ -116,7 +116,7 @@ Subsec. (g)(2). Pub. L. 97–306, §205(b)(2), inserted "not" after "shall", and
 
 <b>1980</b>—Subsec. (a)(1). Pub. L. 96–466, §211(2), increased the monthly educational assistance allowance for eligible veterans in column II from $327, $245, $164, and $264 to $342, $257, $171, and $276; in column III from $389, $292, $195, and $309 to $407, $305, $204, and $323; in column IV from $443, $332, $222, and $351 to $464, $348, $232, and $367; in column V from $27, $20, and $14 to $29, $22, and $15, respectively.
 
-Pub. L. 96–466, §201(2), increased the monthly educational assistance allowance for eligible veterans in column II from $311, $233, $156, and $251 to $327, $245, $164, and $264; in column III from $370, $277, $185, and $294 to $389, $292, $195, and $309; in column IV from $422, $317, $211, and $334 to $443, $332, $222, and $351; in column V from $26, $19, $13, and $19 to $27, $20, $14, and $21, respectively.
+Pub. L. 96–466, §201(2), increased the monthly educational assistance allowance for eligible veterans in column II from $311, $233, $156, and $251 to $327, $245,$164, and $264; in column III from $370, $277, $185, and $294 to $389, $292, $195, and $309; in column IV from $422, $317, $211, and $334 to $443, $332, $222, and $351; in column V from $26, $19, $13, and $19 to $27, $20, $14, and $21, respectively.
 
 Subsec. (b). Pub. L. 96–466, §211(3), substituted "$342" for "$327".
 
@@ -172,7 +172,7 @@ Subsec. (c)(1). Pub. L. 91–584 inserted definition of "established charge".
 
 Subsec. (c)(2). Pub. L. 91–219, §103(c), substituted "$175" for "$130".
 
-Subsec. (d)(2). Pub. L. 91–219, §103(d), increased the educational assistance allowance rates for eligible veterans pursuing a farm cooperative program in column II from $105, $75, and $50 to $141, $101, and $67; in column III from $125, $90, and $60 to $165, $119 and $79; in column IV from $145, $105, and $70 to $190, $138, and $92; in column V from $7, $5, and $3 to $10, $7, and $4, respectively.
+Subsec. (d)(2). Pub. L. 91–219, §103(d), increased the educational assistance allowance rates for eligible veterans pursuing a farm cooperative program in columnII from $105, $75, and $50 to $141, $101, and $67; in column III from $125, $90, and $60 to $165, $119 and $79; in column IV from $145, $105, and $70 to $190, $138, and $92; in column V from $7, $5, and $3 to $10, $7, and $4, respectively.
 
 <b>1968</b>—Subsec. (a)(2). Pub. L. 90–631, §3(b)(1), inserted ", other than a 'farm cooperative' program," after "A 'cooperative' program".
 
@@ -232,7 +232,7 @@ Amendment by section 204 of Pub. L. 93–508 effective Dec. 3, 1974, see section
 
 #### Effective Date of 1972 Amendment
 
-Pub. L. 92–540, title VI, §601(a), Oct. 24, 1972, 86 Stat. 1099, provided that: "The rate increases provided in Title I of this Act \[see Tables for classification\] and the rate increases provided by the provisions of section 1787 \[now 3687\], title 38, United States Code (as added by section 316 of this Act) shall become effective October 1, 1972; except, for those veterans and eligible persons in training on the date of enactment \[Oct. 24, 1972\], the effective date shall be the date of the commencement ofthe current enrollment period, but not earlier than September 1, 1972."
+Pub. L. 92–540, title VI, §601(a), Oct. 24, 1972, 86 Stat. 1099, provided that: "The rate increases provided in Title I of this Act \[see Tables for classification\] and the rate increases provided by the provisions of section 1787 \[now 3687\], title 38, United States Code (as added by section 316 of this Act) shall become effective October 1, 1972; except, for those veterans and eligible persons in training on the date of enactment \[Oct. 24, 1972\], the effective date shall be the date of the commencement of the current enrollment period, but not earlier than September 1, 1972."
 
 Amendment by section 303 of Pub. L. 92–540 not to effect any enrollment agreement entered into by an eligible veteran prior to Jan. 1, 1973, see section 602 of Pub. L. 92–540, set out as an Effective Date note under section 3686 of this title.
 
@@ -256,5 +256,5 @@ Pub. L. 96–466, title VI, §602(d), Oct. 17, 1980, 94 Stat. 2209, provided tha
 
 #### Overpayments to Veterans by Tangipahoa Parish School Board, Amite, Louisiana
 
-Pub. L. 90–493, §5, Aug. 19, 1968, 82 Stat. 809, provided that any veteran determined by the Administrator of Veterans' Affairs to have received overpayments of educational benefits under former chapter 33 of title 38, United States Code in connection with the institutional on-farm training program conducted by the Tangipahoa Parish School Board, Amite, Louisiana, would be relieved of all liability to the United States for the amount of such overpayment, remaining due on Aug. 19, 1968, by making application for relief within two years following Aug. 19, 1968.
+Pub. L. 90–493, §5, Aug. 19, 1968, 82 Stat. 809, provided that any veteran determined by the Administrator ofVeterans' Affairs to have received overpayments of educational benefits under former chapter 33 of title 38, United States Code in connection with the institutional on-farm training program conducted by the Tangipahoa Parish School Board, Amite, Louisiana, would be relieved of all liability to the United States for the amount of such overpayment, remaining due on Aug. 19, 1968, by making application for relief within two years following Aug. 19, 1968.
 

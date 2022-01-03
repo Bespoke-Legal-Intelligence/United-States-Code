@@ -8,7 +8,7 @@ Written Reports.—(1) Except as provided in this part, the Secretary of Transpo
 
 (b)
 
-Public Records.—Except as provided in subpart II of this part, copies of tariffs and arrangements filed with the Secretary under subpart II, and the statistics, tables, and figures contained in reports made to the Secretary under subpart II, are public records. The Secretary is the custodian of those records. A public record, or a copy or extract of it, certified by the Secretary under the seal of the Department of Transportation is competent evidence in an investigation by the Secretary and in a judicial proceeding.
+Public Records.—Except as provided in subpart II of this part, copies of tariffs and arrangements filed with the Secretary under subpart II, and the statistics, tables, and figures contained in reports made to the Secretary under subpart II, are public records. The Secretary is the custodian of those records. A public record, or a copy or extract of it, certified by the Secretary under the seal of the Departmentof Transportation is competent evidence in an investigation by the Secretary and in a judicial proceeding.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1110.)
 
@@ -75,6 +75,8 @@ In subsection (a)(1), the words "otherwise", "requirement in the premises", and 
 In subsection (a)(2), the word "rules" is omitted as being synonymous with "regulations". The word "prescribes" is added for consistency in the revised title and with other titles of the United States Code. The words "under this chapter" and "information and" are omitted as surplus. The words "A publication of the Secretary or Administrator is competent evidence of its contents" is substituted for 49 App.:1324(d) (last sentence) to eliminate unnecessary words and for consistency.
 
 In subsection (b), the words "otherwise", "all contracts, agreements, understandings, and", "annual or other", "of air carriers and other persons", and "preserved as" are omitted as surplus. The last sentence is substituted for 49 App.:1503 (words after 7th comma) to eliminate unnecessary words and for consistency.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Consolidation or Elimination of Obsolete, Redundant, or Otherwise Unnecessary Reports; Use of Electronic Media Format
 

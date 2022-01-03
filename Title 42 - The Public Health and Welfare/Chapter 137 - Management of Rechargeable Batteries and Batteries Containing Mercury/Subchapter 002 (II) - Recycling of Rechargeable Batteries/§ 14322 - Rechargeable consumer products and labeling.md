@@ -82,7 +82,7 @@ After the effective dates of a requirement set forth in subsection (a), (b), or 
 
 #### (2) Granting of exemption
 
-&emsp;Not later than 60 days after receipt of an application under paragraph (1), the Administrator shall approve or deny the application. On approval of the application the Administrator shall grant an exemption to the applicant. The exemption shall be issued for a period of time that the Administrator determines to be appropriate, except that the period shall not exceed 2 years. The Administrator shall grant an exemption on the basis of evidence supplied to the Administrator that the manufacturer has been unable to commence manufacturing the rechargeable consumer product in compliance with the requirements of this section and with an equivalent level of product performance without the product—
+&emsp;Not later than 60 days after receipt of an application under paragraph (1), the Administrator shall approve or deny the application. On approval of the application the Administrator shall grant an exemption to the applicant. The exemption shall be issued for a period of time that the Administrator determines to be appropriate, except that the period shall not exceed 2 years. The Administrator shall grant an exemption on the basis ofevidence supplied to the Administrator that the manufacturer has been unable to commence manufacturing the rechargeable consumer product in compliance with the requirements of this section and with an equivalent level of product performance without the product—
 
 &emsp;&emsp;(A) posing a threat to human health, safety, or the environment; or
 

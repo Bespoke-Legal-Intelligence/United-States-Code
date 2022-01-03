@@ -76,7 +76,7 @@
 
 #### (F) Reimbursement of costs
 
-&emsp;&emsp;The Treasury shall reimburse the Government Accountability Office for the full cost of any such oversight activities as billed therefor by the Comptroller General of the United States. Such reimbursements shall be credited to the appropriation account "Salaries and Expenses, Government Accountability Office" current when the payment is received and remain available until expended.
+&emsp;&emsp;The Treasury shall reimburse the Government Accountability Office for the full costof any such oversight activities as billed therefor by the Comptroller General of the United States. Such reimbursements shall be credited to the appropriation account "Salaries and Expenses, Government Accountability Office" current when the payment is received and remain available until expended.
 
 #### (3) Reporting
 

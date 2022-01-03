@@ -278,7 +278,7 @@ Pub. L. 105–261, div. A, title IX, §906(f)(3), Oct. 17, 1998, 112 Stat. 2096,
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–189, div. A, title III, §341(b), Nov. 29, 1989, 103 Stat. 1419, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to appropriations for the operation of theUnited States Soldiers' and Airmen's Home \[now Armed Forces Retirement Home—Washington\] made for fiscal years after fiscal year 1990."
+Pub. L. 101–189, div. A, title III, §341(b), Nov. 29, 1989, 103 Stat. 1419, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to appropriations for the operation of the United States Soldiers' and Airmen's Home \[now Armed Forces Retirement Home—Washington\] made for fiscal years after fiscal year 1990."
 
 #### Effective Date of 1984 Amendment
 

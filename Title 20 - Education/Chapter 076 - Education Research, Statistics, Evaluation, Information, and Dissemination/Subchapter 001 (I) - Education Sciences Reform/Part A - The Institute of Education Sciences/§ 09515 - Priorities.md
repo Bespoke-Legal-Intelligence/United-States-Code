@@ -26,13 +26,15 @@ The Board shall ensure that priorities of the Institute and the National Educati
 
 #### (1) Priorities
 
-&emsp;Before submitting to the Board proposed priorities for the Institute, the Director shallmake such priorities available to the public for comment for not less than 60 days (including by means of the Internet and through publishing such priorities in the Federal Register). The Director shall provide to the Board a copy of each such comment submitted.
+&emsp;Before submitting to the Board proposed priorities for the Institute, the Director shall make such priorities available to the public for comment for not less than 60 days (including by means of the Internet and through publishing such priorities in the Federal Register). The Director shall provide to the Board a copy of each such comment submitted.
 
 #### (2) Plan
 
 &emsp;Upon approval of such priorities, the Director shall make the Institute's plan for addressing such priorities available for public comment in the same manner as under paragraph (1).
 
 (Pub. L. 107–279, title I, §115, Nov. 5, 2002, 116 Stat. 1948; Pub. L. 108–446, title II, §201(b)(2)(C), Dec. 3, 2004, 118 Stat. 2802.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -26,7 +26,7 @@ For purposes of this section—
 
 #### (B) Limitation
 
-&emsp;&emsp;The amount of the excess net passive income for any taxable year shall not exceedthe amount of the corporation's taxable income for such taxable year as determined under section 63(a)—
+&emsp;&emsp;The amount of the excess net passive income for any taxable year shall not exceed the amount of the corporation's taxable income for such taxable year as determined under section 63(a)—
 
 &emsp;&emsp;&emsp;(i) without regard to the deductions allowed by part VIII of subchapter B (other than the deduction allowed by section 248, relating to organization expenditures), and
 
@@ -64,6 +64,8 @@ If the S corporation establishes to the satisfaction of the Secretary that—
 
 (Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1684; amended Pub. L. 98–369, div. A, title IV, §474(r)(28), title VII, §721(v), July 18, 1984, 98 Stat. 844, 971; Pub. L. 99–514, title VI, §632(c)(3), Oct. 22, 1986, 100 Stat. 2277; Pub. L. 100–647, title I, §1006(f)(5)(B)–(D), Nov. 10, 1988, 102 Stat. 3406; Pub. L. 104–188, title I, §1311(b)(2)(A)–(C), Aug. 20, 1996, 110 Stat. 1784; Pub. L. 109–135, title IV, §412(qq), Dec. 21, 2005, 119 Stat. 2640.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1375, added Pub. L. 85–866, title I, §64(a), Sept. 2, 1958, 72 Stat. 1654; amended Pub. L. 88–272, title II, §§201(d)(13), 233(b), Feb. 26, 1964, 78 Stat. 32, 112; Pub. L. 89–389, §§1(a), (b), 2(b)(4), Apr. 14, 1966, 80 Stat. 111, 114; Pub. L. 91–172, title III, §301(b)(11), Dec. 30, 1969, 83 Stat. 586; Pub. L. 94–455, title XIX, §§1901(a)(151), (b)(33)(Q), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1788, 1802, 1834; Pub. L. 95–600, title VII, §703(j)(6), Nov. 6, 1978, 92 Stat. 2941, related to special rules applicable to distributions of electing small business corporations, prior to the general revision of this subchapter by section 2 of Pub. L. 97–354.
@@ -98,6 +100,8 @@ Disallowance of credit.—No credit", and striking out par. (2) which related to
 
 Subsec. (d). Pub. L. 98–369, §721(v), added subsec. (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1317(a) of Pub. L. 104–188, set out as a note under section 641 of this title.
@@ -118,5 +122,5 @@ Amendment by section 721(v) of Pub. L. 98–369 effective as if included in the 
 
 #### Effective Date
 
-This section applicable to taxable years beginning after Dec. 31, 1982, except that in the case of a taxableyear beginning during 1982, this section and sections 1362(d)(3) and 1366(f)(3) of this title shall apply, and section 1372(e)(5) of this title as in effect on the day before Oct. 19, 1982, shall not apply, see section 6(a), (b)(3) of Pub. L. 97–354, set out as a note under section 1361 of this title.
+This section applicable to taxable years beginning after Dec. 31, 1982, except that in the case of a taxable year beginning during 1982, this section and sections 1362(d)(3) and 1366(f)(3) of this title shall apply, and section 1372(e)(5) of this title as in effect on the day before Oct. 19, 1982, shall not apply, see section 6(a), (b)(3) of Pub. L. 97–354, set out as a note under section 1361 of this title.
 

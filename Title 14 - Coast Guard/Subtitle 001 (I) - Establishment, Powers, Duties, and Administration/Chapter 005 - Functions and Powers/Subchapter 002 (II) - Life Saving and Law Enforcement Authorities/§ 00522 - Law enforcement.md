@@ -54,5 +54,5 @@ Establishment.—Not later than 1 year after the date of enactment of this Act \
 
 "(c)
 
-Operation.—The Secretary may cooperate with, or enter into an agreement with, the head of another Federal agency to meet the requirements under subsection (b)."
+Operation.—The Secretary may cooperate with, or enter into an agreement with, the head of anotherFederal agency to meet the requirements under subsection (b)."
 

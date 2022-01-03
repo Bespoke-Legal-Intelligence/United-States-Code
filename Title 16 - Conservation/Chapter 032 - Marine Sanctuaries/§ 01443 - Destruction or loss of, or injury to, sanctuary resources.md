@@ -26,7 +26,7 @@
 
 #### (4) Limits to liability
 
-&emsp;Nothing in sections 4281–4289 of the Revised Statutes of the United States or section 30706 of title 46 shall limit the liability of any person under this chapter.
+&emsp;Nothing in sections 4281–4289 of the Revised Statutes of the United States or section 30706of title 46 shall limit the liability of any person under this chapter.
 
 #### (b) Response actions and damage assessment
 
@@ -66,7 +66,7 @@ Response costs and damages recovered by the Secretary under this section shall b
 
 &emsp;All other amounts recovered shall be used, in order of priority—
 
-&emsp;&emsp;(A) to restore, replace, or acquire the equivalent of the sanctuary resources that were the subject of the action, including forcosts of monitoring and the costs of curation and conservation of archeological, historical, and cultural sanctuary resources;
+&emsp;&emsp;(A) to restore, replace, or acquire the equivalent of the sanctuary resources that were the subject of the action, including for costs of monitoring and the costs of curation and conservation of archeological, historical, and cultural sanctuary resources;
 
 &emsp;&emsp;(B) to restore degraded sanctuary resources of the national marine sanctuary that was the subject of the action, giving priority to sanctuary resources and habitats that are comparable to the sanctuary resources that were the subject of the action; and
 
@@ -81,6 +81,8 @@ Response costs and damages recovered by the Secretary under this section shall b
 An action for response costs or damages under subsection (c) shall be barred unless the complaint is filed within 3 years after the date on which the Secretary completes a damage assessment and restoration plan for the sanctuary resources to which the action relates.
 
 (Pub. L. 92–532, title III, §312, as added Pub. L. 100–627, title II, §204(a), Nov. 7, 1988, 102 Stat. 3215; amended Pub. L. 102–587, title II, §§2107(d), 2110, Nov. 4, 1992, 106 Stat. 5044, 5045; Pub. L. 104–283, §9(e), Oct. 11, 1996, 110 Stat. 3367; Pub. L. 106–513, §§13, 19(c), Nov. 13, 2000, 114 Stat. 2389, 2393.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -129,6 +131,8 @@ Subsec. (b)(1). Pub. L. 102–587, §2110(d), as amended by Pub. L. 104–283, i
 Subsec. (d). Pub. L. 102–587, §2107(d)(1), struck out "and civil penalties under section 1437 of this title" after "Secretary under this section".
 
 Subsec. (d)(3), (4). Pub. L. 102–587, §§2107(d)(2), 2110(e), redesignated par. (4) as (3), inserted "the court decree or settlement agreement and" after "in accordance with", and struck out former par. (3) which read as follows: "Amounts recovered under section 1437 of this title in the form of civil penalties shall be used by the Secretary in accordance with section 1437(e) of this title and paragraphs (2)(B) and (C) of this subsection."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

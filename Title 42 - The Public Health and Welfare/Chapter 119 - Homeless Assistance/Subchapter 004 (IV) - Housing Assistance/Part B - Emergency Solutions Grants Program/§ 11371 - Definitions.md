@@ -14,7 +14,7 @@ For purposes of this part:
 
 &emsp;&emsp;(B) utilities, fuels, furnishings, and equipment for such housing.
 
-&emsp;(5) The term "private nonprofit organization" means a secular or religious organization described in section 501(c) of title 26 that is exempt from taxation under subtitle A of title 26, has an accounting system and a voluntary board, and practices nondiscrimination in the provision of assistance.
+&emsp;(5) The term "private nonprofit organization" means a secular or religious organization described in section 501(c) of title 26 thatis exempt from taxation under subtitle A of title 26, has an accounting system and a voluntary board, and practices nondiscrimination in the provision of assistance.
 
 &emsp;(6) The term "recipient" means any governmental or private nonprofit entity that is approved by the Secretary as to financial responsibility.
 
@@ -26,11 +26,15 @@ For purposes of this part:
 
 (Pub. L. 100–77, title IV, §411, July 22, 1987, 101 Stat. 495; Pub. L. 101–625, title VIII, §832(f)(1), Nov. 28, 1990, 104 Stat. 4361; Pub. L. 104–330, title V, §506(a)(1), Oct. 26, 1996, 110 Stat. 4044.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Par. (10). Pub. L. 104–330 struck out par. (10) which read as follows: "The term 'Indian tribe' has the meaning given such term in section 5302(a)(17) of this title."
 
 <b>1990</b>—Par. (10). Pub. L. 101–625 added par. (10).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 
@@ -38,11 +42,13 @@ Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expre
 
 Pub. L. 104–330, title V, §506(c), Oct. 26, 1996, 110 Stat. 4045, as amended by Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675, provided that: "The amendments under subsections (a) \[amending this section and sections 11372 to 11376, 11382, 11401, 11403g, and 11408 of this title\] and (b) \[amending provisions formerly set out as a note under section 11301 of this title\] shall apply with respect to amounts made available for assistance under title IV of the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11360 et seq.\] and section 2 of the HUD Demonstration Act of 1993 \[Pub. L. 103–120, former 42 U.S.C. 11301 note\], respectively, for fiscal year 1998 and fiscal years thereafter."
 
-#### Termination of Trust Territory of the Pacific Islands
-
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
 #### Definitions
 
 For provisions relating to definitions of "State" and "local government" as used in this section, see section 100261 of Pub. L. 112–141, set out as a HEARTH Act Technical Corrections note under section 11360 of this title.
+
+#### <b>Executive Documents</b>
+
+#### Termination of Trust Territory of the Pacific Islands
+
+For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 

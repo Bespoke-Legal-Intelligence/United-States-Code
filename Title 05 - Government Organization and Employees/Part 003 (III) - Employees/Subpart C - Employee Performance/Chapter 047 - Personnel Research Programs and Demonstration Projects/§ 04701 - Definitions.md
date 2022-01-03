@@ -6,7 +6,7 @@
 
 &emsp;&emsp;(A) a Government corporation;
 
-&emsp;&emsp;(B) the Federal Bureau of Investigation, the Central Intelligence Agency, the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Security Agency, and, as determined by the President, any Executive agency or unit thereof which is designated by the Presidentand which has as its principal function the conduct of foreign intelligence or counterintelligence activities; or
+&emsp;&emsp;(B) the Federal Bureau of Investigation, the Central Intelligence Agency, the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Security Agency, and, as determined by the President, any Executive agency or unit thereof which is designated by the President and which has as its principal function the conduct of foreign intelligence or counterintelligence activities; or
 
 &emsp;&emsp;(C) the Government Accountability Office;
 

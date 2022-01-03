@@ -60,6 +60,8 @@ It is the purpose of this chapter to—
 
 (Pub. L. 101–610, §2, Nov. 16, 1990, 104 Stat. 3129; Pub. L. 103–82, §2(a), Sept. 21, 1993, 107 Stat. 787; Pub. L. 111–13, title I, §1101, Apr. 21, 2009, 123 Stat. 1463.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
@@ -77,6 +79,8 @@ Subsec. (b)(7). Pub. L. 111–13, §1101(4)(A), substituted "programs, agencies,
 Subsec. (b)(9) to (19). Pub. L. 111–13, §1101(4)(B)–(6), added pars. (9) to (19).
 
 <b>1993</b>—Pub. L. 103–82 amended section generally, substituting provisions relating to findings and purposes for former provisions setting forth the purposes of this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 
@@ -194,6 +198,8 @@ Notice to Recipients of Assistance.—In providing financial assistance under th
 
 Pub. L. 103–82, title V, §503, Sept. 21, 1993, 107 Stat. 923, provided that: "If it has been finally determined by a court or Federal agency that any person intentionally affixed a label bearing a 'Made in America' inscription, or any inscription with the same meaning, to any product sold in or shipped to the United States that is not made in the United States, the person shall be ineligible to receive any contract or subcontract made with funds appropriated to carry out this Act, pursuant to the debarment, suspension, and ineligibility procedures described in sections 9.400 through 9.409 of title 48, Code of Federal Regulations."
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 13254. Establishing the USA Freedom Corps
 
 Ex. Ord. No. 13254, Jan. 29, 2002, 67 F.R. 4869, as amended by Ex. Ord. No. 13286, §6, Feb. 28, 2003, 68 F.R. 10620, provided:
@@ -228,7 +234,7 @@ Sec. 3. <i>USA Freedom Corps Council</i>. (a) <i>Establishment and Mission</i>. 
 
 &emsp;(vii) tracking progress in participation in public service programs.
 
-(b) <i>Membership</i>. In addition to the Chair, the members of the Council shall be the heads of the executive branch departments, agencies, and offices listed below, or their designees, and such other officers of the executive branch as the President may from time to time designate. Every member of the Council or designee shall be a full-time or permanent part-time officer or employee of the Federal Government. Members shall not be compensated for their service on the Council in addition to the salaries they receive as employees or officers of the Federal Government.
+(b) <i>Membership</i>. In addition to the Chair, the members of the Council shall be the heads of the executive branch departments, agencies, and offices listed below, or their designees, and such other officers of the executive branch as the President may from time to time designate. Every member of the Council or designee shall be a full-time or permanent part-time officer oremployee of the Federal Government. Members shall not be compensated for their service on the Council in addition to the salaries they receive as employees or officers of the Federal Government.
 
 &emsp;(i) Vice President;
 

@@ -68,7 +68,7 @@ For purposes of this part, the term "parent corporation" means any corporation (
 
 #### (f) Subsidiary corporation
 
-For purposes of this part, the term "subsidiary corporation" means any corporation (other than the employer corporation) in an unbroken chain of corporations beginning with the employer corporation if, at the time of the granting of the option, each of the corporations other than the last corporation in the unbroken chain owns stock possessing 50 percent or more of the total combined voting power of all classes of stock in one of the other corporations in such chain.
+For purposes of this part, the term "subsidiary corporation" means any corporation (other thanthe employer corporation) in an unbroken chain of corporations beginning with the employer corporation if, at the time of the granting of the option, each of the corporations other than the last corporation in the unbroken chain owns stock possessing 50 percent or more of the total combined voting power of all classes of stock in one of the other corporations in such chain.
 
 #### (g) Special rule for applying subsections (e) and (f)
 
@@ -110,6 +110,8 @@ For purposes of this part, if the grant of an option is subject to approval by s
 
 (Added Pub. L. 88–272, title II, §221(a), Feb. 26, 1964, 78 Stat. 71, §425; amended Pub. L. 97–34, title II, §251(b)(2)–(4), Aug. 13, 1981, 95 Stat. 259; Pub. L. 97–448, title I, §102(j)(5), (6), Jan. 12, 1983, 96 Stat. 2373; Pub. L. 98–369, div. A, title V, §555(b), July 18, 1984, 98 Stat. 898; Pub. L. 100–647, title I, §1018(l)(1), (2), Nov. 10, 1988, 102 Stat. 3584; Pub. L. 101–239, title VII, §7811(m)(6), Dec. 19, 1989, 103 Stat. 2412; renumbered §424 and amended Pub. L. 101–508, title XI, §11801(c)(9)(A)(i), (F), Nov. 5, 1990, 104 Stat. 1388–524, 1388–525; Pub. L. 104–188, title I, §1702(h)(13), Aug. 20, 1996, 110 Stat. 1874; Pub. L. 115–141, div. U, title IV, §401(a)(98), Mar. 23, 2018, 132 Stat. 1188.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 424, added Pub. L. 88–272, title II, §221(a), Feb. 26, 1964, 78 Stat. 69; amended Pub. L. 94–455, title VI, §603(c), title XIV, §1402(b)(1)(F), (2), Oct. 4, 1976, 90 Stat. 1574, 1732, related to restricted stock options, prior to repeal by Pub. L. 101–508, title XI, §11801(a)(21), Nov. 5, 1990, 104 Stat. 1388–521. For savings provisions, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
@@ -130,7 +132,7 @@ Subsec. (d). Pub. L. 101–508, §11801(c)(9)(F)(iii), substituted "422(b)(6) an
 
 Subsec. (g). Pub. L. 101–508, §11801(c)(9)(F)(iv), substituted "422(a)(2) and 423(a)(2)" for "422(a)(2), 422A(a)(2), 423(a)(2), and 424(a)(2)" and "424(a)" for "425(a)".
 
-Subsec. (h)(2). Pub. L. 101–508, §11801(c)(9)(F)(v)(I), added par. (2) and struck out former par. (2) which related to special rules for sections 423 and 424 optionsand to an exception that such rules would not apply with respect to a modification, extension or renewal of a restricted stock option before Jan. 1, 1964, if the aggregate of the monthly fair market value for 12 consecutive months before date of modification, etc., divided by 12 is an amount less than 80% of the fair market value of such stock on the date of original granting or the date of modification, etc., whichever is higher.
+Subsec. (h)(2). Pub. L. 101–508, §11801(c)(9)(F)(v)(I), added par. (2) and struck out former par. (2) which related to special rules for sections 423 and 424 options and to an exception that such rules would not apply with respect to a modification, extension or renewal of a restricted stock option before Jan. 1, 1964, if the aggregate of the monthly fair market value for 12 consecutive months before date of modification, etc., divided by 12 is an amount less than 80% of the fair market value of such stock on the date of original granting or the date of modification, etc., whichever is higher.
 
 Subsec. (h)(3). Pub. L. 101–508, §11801(c)(9)(F)(v)(III), struck out at end "If a restricted stock option is exercisable after the expiration of 10 years from the date such option is granted, subparagraph (B) shall not apply unless the terms of the option are also changed to make it not exercisable after the expiration of such period."
 
@@ -155,6 +157,8 @@ Subsec. (j). Pub. L. 97–448, §102(j)(5), inserted reference to an incentive s
 Subsec. (g). Pub. L. 97–34, §251(b)(3), inserted reference to section 422A(a)(2).
 
 Subsec. (h)(3)(B). Pub. L. 97–34, §251(b)(4), inserted reference to section 422A(b)(5).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

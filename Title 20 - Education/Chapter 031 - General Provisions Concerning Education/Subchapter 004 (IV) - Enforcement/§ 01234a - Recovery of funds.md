@@ -16,7 +16,7 @@
 
 &emsp;(A) transmitted a copy of the preliminary departmental decision to any affected subrecipient within 10 days of the date that the State recipient in a State administered program received such written notice; and
 
-&emsp;(B) consulted with each affected subrecipient to determine whether the State recipient should submit an application for review under paragraph (1).
+&emsp;(B) consulted with each affected subrecipient to determine whether the State recipientshould submit an application for review under paragraph (1).
 
 (3) In any proceeding before the Office under this section, the burden shall be upon the recipient to demonstrate that it should not be required to return the amount of funds for which recovery is sought in the preliminary departmental decision under subsection (a).
 
@@ -56,7 +56,7 @@ The Secretary shall publish decisions that have become final agency action under
 
 #### (i) Collection amounts and procedures
 
-The amount of a preliminary departmental decision under subsection (a) for which review has not been requested in accordance with subsection (b), and the amount sustained by a decision of the Office or the Secretary which becomes final agency action under subsection (g),may be collected by the Secretary in accordance with chapter 37 of title 31.
+The amount of a preliminary departmental decision under subsection (a) for which review has not been requested in accordance with subsection (b), and the amount sustained by a decision of the Office or the Secretary which becomes final agency action under subsection (g), may be collected by the Secretary in accordance with chapter 37 of title 31.
 
 #### (j) Compromise of preliminary departmental decisions; preconditions; notice requirements
 
@@ -74,6 +74,8 @@ No interest shall be charged arising from a claim during the administrative revi
 
 (Pub. L. 90–247, title IV, §452, as added Pub. L. 95–561, title XII, §1232, Nov. 1, 1978, 92 Stat. 2347; amended Pub. L. 100–297, title III, §3501(a), Apr. 28, 1988, 102 Stat. 350; Pub. L. 103–382, title II, §250(a), Oct. 20, 1994, 108 Stat. 3926.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (a)(2). Pub. L. 103–382, §250(a)(1), substituted "establishing a prima facie case for the recovery of funds, including an analysis reflecting the value of the program services actually obtained in a determination of harm to the Federal interest." for "stating a prima facie case for the recovery of funds."
@@ -83,6 +85,8 @@ Subsec. (b)(1). Pub. L. 103–382, §250(a)(2), substituted "60 days" for "30 da
 Subsec. (d). Pub. L. 103–382, §250(a)(3), designated existing provisions as par. (1) and added par. (2).
 
 <b>1988</b>—Pub. L. 100–297 amended section generally, substituting provisions relating to recovery of funds for provisions relating to audit determinations.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

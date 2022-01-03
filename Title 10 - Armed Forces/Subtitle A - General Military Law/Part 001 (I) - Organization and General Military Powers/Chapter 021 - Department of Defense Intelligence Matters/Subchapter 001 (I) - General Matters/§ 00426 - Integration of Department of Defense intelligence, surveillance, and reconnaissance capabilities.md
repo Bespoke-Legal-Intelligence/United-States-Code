@@ -84,6 +84,8 @@ Annual Briefings on the Intelligence and Counterintelligence Requirements of the
 
 (Added Pub. L. 108–136, div. A, title IX, §923(c)(1), Nov. 24, 2003, 117 Stat. 1575; amended Pub. L. 109–364, div. A, title X, §1071(a)(3), Oct. 17, 2006, 120 Stat. 2398; Pub. L. 110–181, div. A, title IX, §931(a)(7), (8), Jan. 28, 2008, 122 Stat. 285; Pub. L. 111–383, div. A, title IX, §922(b), Jan. 7, 2011, 124 Stat. 4331; Pub. L. 115–232, div. A, title XVI, §1625(b), Aug. 13, 2018, 132 Stat. 2121; Pub. L. 116–92, div. A, title XVI, §§1621(e)(1)(A)(vii), 1622, Dec. 20, 2019, 133 Stat. 1733.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Subsec. (c) of this section was based on Pub. L. 113–291, div. A, title XVI, §1626, Dec. 19, 2014, 128 Stat. 3635; Pub. L. 115–91, div. A, title XVI, §1624, Dec. 12, 2017, 131 Stat. 1732; Pub. L. 115–232, div. A, title XVI, §1625(a), Aug. 13, 2018, 132 Stat. 2121, which was transferred to this chapter, redesignated as subsec. (c) of this section by Pub. L. 115–232, §1625(b), and subsequently repealed.
@@ -103,6 +105,8 @@ Subsecs. (b), (c). Pub. L. 116–92, §1622(b), added subsec. (b) and struck out
 <b>2008</b>—Subsecs. (a)(3), (b)(2). Pub. L. 110–181 substituted "Director of National Intelligence" for "Director of Central Intelligence".
 
 <b>2006</b>—Subsec. (a)(1)(B). Pub. L. 109–364 substituted "coordination" for "coordiation".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Integration of Defense Intelligence, Surveillance, and Reconnaissance Capabilities
 

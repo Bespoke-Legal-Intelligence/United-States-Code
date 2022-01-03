@@ -4,9 +4,13 @@ Any payment which becomes due under section 2391 of this title prior to the tran
 
 (Aug. 4, 1955, ch. 543, ch. 9, §92, 69 Stat. 482; Pub. L. 94–187, title VI, §601(1), (8), Dec. 31, 1975, 89 Stat. 1077, 1078.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1975</b>—Pub. L. 94–187 substituted "Administrator" for "Commission" where appearing first time and "Energy Research and Development Administration" for "Commission" where appearing second time.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

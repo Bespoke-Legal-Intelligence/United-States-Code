@@ -32,9 +32,13 @@ July 3, 1944, ch. 399, §5, 58 Stat. 725.
 
 The words "naval", "board of investigation", and "Coast Guard investigation" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7730 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

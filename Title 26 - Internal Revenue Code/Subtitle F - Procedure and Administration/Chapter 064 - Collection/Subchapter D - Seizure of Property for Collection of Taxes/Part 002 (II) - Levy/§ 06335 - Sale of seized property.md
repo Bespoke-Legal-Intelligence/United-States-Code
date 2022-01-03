@@ -14,7 +14,7 @@ If any property liable to levy is not divisible, so as to enable the Secretary b
 
 #### (d) Time and place of sale
 
-The time of sale shall not be less than 10 days nor more than 40 days from the time of giving public notice under subsection (b). The place of sale shall be within the county in which the property is seized, except by special order of the Secretary.
+The time of sale shall not be less than 10 days nor more than 40 days from the time of giving public notice under subsection (b). The place of sale shall be within the county in which theproperty is seized, except by special order of the Secretary.
 
 #### (e) Manner and conditions of sale
 
@@ -34,7 +34,7 @@ The time of sale shall not be less than 10 days nor more than 40 days from the t
 
 #### (C) Property deemed sold to United States at minimum price in certain cases
 
-&emsp;&emsp;If no person offers the amount of the minimum price for such property at the sale and the Secretary has determined that the purchase of such property by the United Stateswould be in the best interest of the United States, the property shall be declared to be sold to the United States at such minimum price.
+&emsp;&emsp;If no person offers the amount of the minimum price for such property at the sale and the Secretary has determined that the purchase of such property by the United States would be in the best interest of the United States, the property shall be declared to be sold to the United States at such minimum price.
 
 #### (D) Release to owner in other cases
 
@@ -78,6 +78,8 @@ The owner of any property seized by levy may request that the Secretary sell suc
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 785; Pub. L. 89–719, title I, §104(d), Nov. 2, 1966, 80 Stat. 1137; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title XV, §1570(a), Oct. 22, 1986, 100 Stat. 2764; Pub. L. 100–647, title VI, §6236(g), Nov. 10, 1988, 102 Stat. 3740; Pub. L. 105–206, title III, §3441(a), (b), July 22, 1998, 112 Stat. 761.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Subsec. (e)(1)(A)(i). Pub. L. 105–206, §3441(a), substituted "a minimum price below which such property shall not be sold" for "a minimum price for which such property shall be sold".
@@ -92,13 +94,15 @@ Subsec. (e)(4). Pub. L. 105–206, §3441(b), added par. (4).
 
 <b>1966</b>—Subsec. (b). Pub. L. 89–719 inserted an alternative to the publication of notice of sale to allow publication in a newspaper generally circulated within the county in which the property is seized even though the newspaper is not published in such county.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–206, title III, §3441(c), July 22, 1998, 112 Stat. 761, provided that: "The amendments made by this section \[amending this section\] shall apply to sales made after the date of the enactment of this Act \[July 22, 1998\]."
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 applicable to requests made on or after Jan. 1, 1989, see section 6236(h)(2) ofPub. L. 100–647, set out as a note under section 6331 of this title.
+Amendment by Pub. L. 100–647 applicable to requests made on or after Jan. 1, 1989, see section 6236(h)(2) of Pub. L. 100–647, set out as a note under section 6331 of this title.
 
 #### Effective Date of 1986 Amendment
 

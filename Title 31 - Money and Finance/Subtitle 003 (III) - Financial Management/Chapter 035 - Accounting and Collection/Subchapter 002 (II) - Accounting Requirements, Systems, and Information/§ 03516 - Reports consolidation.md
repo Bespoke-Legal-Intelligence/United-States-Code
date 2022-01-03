@@ -88,7 +88,7 @@ Reaching an Unqualified Audit Opinion.—In order to ensure compliance with the 
 
 "(c)
 
-Report to Congress on Progress of Meeting Audit Requirements.—In order to ensure progress in implementing the Department of Homeland Security Financial Accountability Act (Public Law 108–330; 118Stat. 1275), and the amendments made by that Act, during the period beginning on the date of enactment of this Act \[Dec. 20, 2012\] and ending on the date on which an unqualified opinion described in subsection (b) is submitted, each report submitted by the Chief Financial Officer of the Department under section 902(a)(6) of title 31, United States Code, shall include a plan—
+Report to Congress on Progress of Meeting Audit Requirements.—In order to ensure progress in implementing the Department of Homeland Security Financial Accountability Act (Public Law 108–330; 118 Stat. 1275), and the amendments made by that Act, during the period beginning on the date of enactment of this Act \[Dec. 20, 2012\] and ending on the date on which an unqualified opinion described in subsection (b) is submitted, each report submitted by the Chief Financial Officer of the Department under section 902(a)(6) of title 31, United States Code, shall include a plan—
 
 &emsp;"(1) to obtain an unqualified opinion on the full set of financial statements, which shall discuss plans and resources needed to meet the deadlines under subsection (b);
 
@@ -136,7 +136,7 @@ Purposes.—The purposes of this Act \[see Short Title of 2000 Amendment note se
 
 #### Special Rule for Fiscal Years 2000 and 2001
 
-Pub. L. 106–531, §3(b), Nov. 22, 2000, 114 Stat. 2538, provided that: "Notwithstanding paragraph (1) of section 3516(a) of title 31, United States Code (as added by subsection (a) of this section), the head of an executive agency may submit a consolidated report under such paragraph not later than 180 days after the end of that agency's fiscal year, with respect to fiscal years 2000 and 2001."
+Pub. L. 106–531, §3(b), Nov. 22, 2000, 114 Stat. 2538, provided that: "Notwithstanding paragraph (1) of section 3516(a) of title 31, United States Code (as added by subsection (a) of this section), the head of an executiveagency may submit a consolidated report under such paragraph not later than 180 days after the end of that agency's fiscal year, with respect to fiscal years 2000 and 2001."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

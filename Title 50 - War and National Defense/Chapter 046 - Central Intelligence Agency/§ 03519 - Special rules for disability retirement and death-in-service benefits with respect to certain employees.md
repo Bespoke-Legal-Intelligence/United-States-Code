@@ -12,7 +12,7 @@ Notwithstanding any other provision of law, an officer or employee of the Centra
 
 &emsp;(4) satisfies the requirements for disability retirement under section 8337 of title 5—
 
-> shall, upon his own application or upon order of the Director, be retired on an annuity computed in accordance with the rules prescribed in section 2051 of this title, in lieu of an annuity computed as provided by section 8337 of title 5.
+> shall, upon his own application or upon order of the Director, be retired on an annuity computedin accordance with the rules prescribed in section 2051 of this title, in lieu of an annuity computed as provided by section 8337 of title 5.
 
 #### (b) Survivors of officers and employees to whom section 2052 rules apply
 
@@ -34,6 +34,8 @@ The annuities provided under subsections (a) and (b) of this section shall be de
 
 (June 20, 1949, ch. 227, §19, as added Pub. L. 101–193, title III, §307(a), Nov. 30, 1989, 103 Stat. 1705; amended Pub. L. 102–496, title VIII, §803(a)(3), Oct. 24, 1992, 106 Stat. 3252; Pub. L. 103–178, title V, §501(3), Dec. 3, 1993, 107 Stat. 2038.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 403s of this title prior to editorial reclassification and renumbering as this section. Some section numbers of this title referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification.
@@ -52,11 +54,13 @@ Pub. L. 102–496, §803(a)(3)(B)(iii), which directed the substitution of "surv
 
 Subsec. (c). Pub. L. 102–496, §803(a)(3)(D)(i)–(iii), inserted heading, struck out par. (1) designation before "The annuities provided", substituted "maintained pursuant to section 2012 of this title" for "established by section 202 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees", and struck out par. (2) which read as follows: "The annuities and/or other benefits provided under subsections (c) and (d) of this section shall be deemed to be annuities and/or benefits under chapter 84 of title 5 for purposes of the other provisions of such chapter and other laws (including title 26) relating to such annuities and/or benefits, but shall be payable from the Central Intelligence Agency Retirement and Disability Fund established by section 202 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees."
 
-Pub. L. 102–496, §803(a)(3)(C), (D), redesignated subsec. (e) as (c) and struck out former subsec. (c) which provided for retirement of officers and employees of theCentral Intelligence Agency as though designated pursuant to section 302(a) of Pub. L. 88–643 which was formerly set out as a note under section 403 of this title.
+Pub. L. 102–496, §803(a)(3)(C), (D), redesignated subsec. (e) as (c) and struck out former subsec. (c) which provided for retirement of officers and employees of the Central Intelligence Agency as though designated pursuant to section 302(a) of Pub. L. 88–643 which was formerly set out as a note under section 403 of this title.
 
 Subsec. (d). Pub. L. 102–496, §803(a)(3)(C), struck out subsec. (d) which provided that survivors of officers and employees of the Central Intelligence Agency were to receive benefits as though deceased had been designated pursuant to section 302(a) of Pub. L. 88–643, which was formerly set out as a note under section 403 of this title.
 
 Subsec. (e). Pub. L. 102–496, §803(a)(3)(D), redesignated subsec. (e) as (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

@@ -1,12 +1,14 @@
 ### §841. Credit for foreign taxes
 
-The taxes imposed by foreign countries or possessions of the United States shall be allowed as a credit against the tax of a domestic insurance company subject to the tax imposed by section 801 or 831, to the extent provided in the case ofa domestic corporation in section 901 (relating to foreign tax credit). For purposes of the preceding sentence (and for purposes of applying section 906 with respect to a foreign corporation subject to tax under this subchapter), the term "taxable income" as used in section 904 means—
+The taxes imposed by foreign countries or possessions of the United States shall be allowed as a credit against the tax of a domestic insurance company subject to the tax imposed by section 801 or 831, to the extent provided in the case of a domestic corporation in section 901 (relating to foreign tax credit). For purposes of the preceding sentence (and for purposes of applying section 906 with respect to a foreign corporation subject to tax under this subchapter), the term "taxable income" as used in section 904 means—
 
 &emsp;(1) in the case of the tax imposed by section 801, the life insurance company taxable income (as defined in section 801(b)), and
 
 &emsp;(2) in the case of the tax imposed by section 831, the taxable income (as defined in section 832(a)).
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 267; Mar. 13, 1956, ch. 83, §5(4), 70 Stat. 49; Pub. L. 86–69, §3(b), June 25, 1959, 73 Stat. 139; Pub. L. 87–834, §8(g)(1), Oct. 16, 1962, 76 Stat. 998; Pub. L. 89–809, title I, §104(i)(8), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 98–369, div. A, title II, §211(b)(10), July 18, 1984, 98 Stat. 755; Pub. L. 99–514, title X, §1024(c)(10), Oct. 22, 1986, 100 Stat. 2407.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -21,6 +23,8 @@ The taxes imposed by foreign countries or possessions of the United States shall
 <b>1959</b>—Pub. L. 86–69 struck out reference to section 811 of this title in first sentence, and substituted "section 802, the life insurance company taxable income (as defined in section 802(b)), and" for "section 802 or 811, the net investment income (as defined in section 803(c))" in par. (1).
 
 <b>1956</b>—Act Mar. 13, 1956, inserted references to section 811.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

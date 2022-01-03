@@ -26,7 +26,7 @@ Independence of arbitrator.—Each person authorized to arbitrate or otherwise s
 
 &emsp;(5)
 
-Apportionment of costs.—No shipper may be charged more than half of the cost forinstituting an arbitration proceeding that is brought under this section. In the decision, the arbitrator may determine which party shall pay the cost or a portion of the cost of the arbitration proceeding, including the cost of instituting the proceeding.
+Apportionment of costs.—No shipper may be charged more than half of the cost for instituting an arbitration proceeding that is brought under this section. In the decision, the arbitrator may determine which party shall pay the cost or a portion of the cost of the arbitration proceeding, including the cost of instituting the proceeding.
 
 &emsp;(6)
 
@@ -38,7 +38,7 @@ Oral presentation of evidence.—The arbitrator may provide for an oral presenta
 
 &emsp;(8)
 
-Deadline for decision.—The arbitrator must, as expeditiously as possible but at least within 60 days of receipt of written notification of the dispute, render a decision based on the information gathered; except that, in any case in which a party to the dispute fails to provide in a timely manner any information concerning such dispute which the person settling the dispute may reasonably require to resolve the dispute, the arbitrator may extend such 60-day period for a reasonable period of time. A decision resolving a dispute may include any remedies appropriate under the circumstances, including repair, replacement, refund, reimbursement for expenses, compensation for damages, and an order requiring the payment of additional carrier charges.
+Deadline for decision.—The arbitrator must, as expeditiously as possible but at leastwithin 60 days of receipt of written notification of the dispute, render a decision based on the information gathered; except that, in any case in which a party to the dispute fails to provide in a timely manner any information concerning such dispute which the person settling the dispute may reasonably require to resolve the dispute, the arbitrator may extend such 60-day period for a reasonable period of time. A decision resolving a dispute may include any remedies appropriate under the circumstances, including repair, replacement, refund, reimbursement for expenses, compensation for damages, and an order requiring the payment of additional carrier charges.
 
 (c)
 
@@ -80,6 +80,8 @@ Review by Secretary.—Not later than 18 months after January 1, 1996, the Secre
 
 (Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 910; amended Pub. L. 104–287, §5(38), Oct. 11, 1996, 110 Stat. 3392; Pub. L. 106–159, title II, §209(b), Dec. 9, 1999, 113 Stat. 1764; Pub. L. 109–59, title IV, §4208, Aug. 10, 2005, 119 Stat. 1757.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 11711 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
@@ -97,6 +99,8 @@ Subsec. (d)(3). Pub. L. 109–59, §4208(d), added subpar. (A) and redesignated 
 <b>1999</b>—Subsec. (b)(6). Pub. L. 106–159 substituted "$5000" for "$1000" in two places.
 
 <b>1996</b>—Subsec. (g). Pub. L. 104–287 substituted "January 1, 1996" for "the effective date of this section".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

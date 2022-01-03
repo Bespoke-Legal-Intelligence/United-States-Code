@@ -14,7 +14,7 @@
 
 #### (1) General exemption
 
-&emsp;Any security or obligation that has been provided a guarantee by the Corporation shall be exempt from any law of any State with respect to or requiring registration or qualification of securities or real estate to the same extent as any obligation issued by, or guaranteed as to principal and interest by, the United States or any agency or instrumentality of the United States.
+&emsp;Any security or obligation that has been provided a guarantee by the Corporation shall be exempt from any law of any State with respect to or requiring registration or qualification of securities or real estate to the same extent as any obligation issued by, or guaranteed as to principal and interest by, the UnitedStates or any agency or instrumentality of the United States.
 
 #### (2) State override
 
@@ -64,7 +64,7 @@ The Investment Company Act of 1940, referred to in subsec. (a)(1), is title I of
 
 #### Amendments
 
-<b>1996</b>—Subsec. (d). Pub. L. 104–105 added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: "Any provision of the constitution or law of any State which expressly limits the rate or amount of interest, discount points, finance charges, or other charges that may be charged, taken, received, orreserved by agricultural lenders or certified facilities shall not apply to any agricultural loan made by an originator or a certified facility in accordance with this subchapter that is included in a pool for which the Corporation has provided a guarantee."
+<b>1996</b>—Subsec. (d). Pub. L. 104–105 added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: "Any provision of the constitution or law of any State which expressly limits the rate or amount of interest, discount points, finance charges, or other charges that may be charged, taken, received, or reserved by agricultural lenders or certified facilities shall not apply to any agricultural loan made by an originator or a certified facility in accordance with this subchapter that is included in a pool for which the Corporation has provided a guarantee."
 
 <b>1988</b>—Subsec. (a)(1). Pub. L. 100–399, §601(k), inserted ", or obligations backed by," before "a pool".
 
@@ -74,5 +74,5 @@ Subsec. (b)(2). Pub. L. 100–399, §601(l), substituted "date of the enactment"
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
+Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, whichwas approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
 

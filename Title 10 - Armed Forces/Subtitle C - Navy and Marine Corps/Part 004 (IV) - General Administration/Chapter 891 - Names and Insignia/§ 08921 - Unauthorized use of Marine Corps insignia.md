@@ -8,6 +8,8 @@
 
 (Added Pub. L. 98–525, title XV, §1532(a)(1), Oct. 19, 1984, 98 Stat. 2631, §7881; renumbered §8921, Pub. L. 115–232, div. A, title VIII, §807(d)(13), Aug. 13, 2018, 132 Stat. 1837.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 8921 was renumbered section 9321 of this title.
@@ -18,7 +20,7 @@ Prior sections 8922 and 8923 were repealed by Pub. L. 96–513, title II, §217(
 
 Section 8922, acts Aug. 10, 1956, ch. 1041, 70A Stat. 551; Nov. 2, 1966, Pub. L. 89–718, §3, 80 Stat. 1115, provided for retirement of a regular grade brigadier general, other than a professor of the United States Air Force Academy, except as provided by section 8301 of title 5, on 30th day after he completes 30 years of service or 5th anniversary of date of his appointment in that regular grade, whichever is later, with authority for Secretary of Air Force to defer retirement in certain cases. See section 635 of this title.
 
-Section 8923, acts Aug. 10, 1956, ch. 1041, 70A Stat. 552; Nov. 2, 1966, Pub. L. 89–718, §3, 80 Stat 1115, provided for retirement of a regular grade major general, except as provided by section 8301 of title 5, on 30th day after he completes 35 years of service or 5th anniversary of his appointment in that regular grade, whichever is later, with authority for Secretary of Air Force to defer retirement in certain cases. See section 636 of this title.
+Section 8923, acts Aug. 10, 1956, ch. 1041, 70A Stat. 552; Nov. 2, 1966, Pub. L. 89–718, §3, 80 Stat 1115, provided forretirement of a regular grade major general, except as provided by section 8301 of title 5, on 30th day after he completes 35 years of service or 5th anniversary of his appointment in that regular grade, whichever is later, with authority for Secretary of Air Force to defer retirement in certain cases. See section 636 of this title.
 
 Prior sections 8924 to 8926 were renumbered section 9324 to 9326, respectively, of this title.
 
@@ -32,9 +34,11 @@ A prior section 8929 was renumbered section 9329 of this title.
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7881 of this title as this section.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
 #### Savings Provision
 

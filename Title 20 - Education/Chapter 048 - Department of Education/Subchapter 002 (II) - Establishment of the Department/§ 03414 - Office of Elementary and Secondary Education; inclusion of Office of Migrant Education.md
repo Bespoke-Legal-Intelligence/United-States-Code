@@ -4,9 +4,11 @@ There shall be in the Department an Office of Elementary and Secondary Education
 
 (Pub. L. 96–88, title II, §204, Oct. 17, 1979, 93 Stat. 674; Pub. L. 98–511, title VII, §701(a), Oct. 19, 1984, 98 Stat. 2405; Pub. L. 103–382, title III, §391(h), Oct. 20, 1994, 108 Stat. 4023.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in text, is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Part C of title I of the Act is classified generally to part C (§6391 et seq.) of subchapter I of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in text, is Pub. L. 89–10, Apr. 11, 1965,79 Stat. 27, as amended. Part C of title I of the Act is classified generally to part C (§6391 et seq.) of subchapter I of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 The Higher Education Act of 1965, referred to in text, is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Subpart 5 of part A of title IV of the Act is classified generally to subpart 5 (§1070d–2) of part A of subchapter IV of chapter 28 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
@@ -15,6 +17,8 @@ The Higher Education Act of 1965, referred to in text, is Pub. L. 89–329, Nov.
 <b>1994</b>—Pub. L. 103–382 substituted "part C" for "subpart 1 of part B".
 
 <b>1984</b>—Pub. L. 98–511 inserted provisions establishing the Office of Migrant Education and specifying its functions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

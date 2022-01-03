@@ -16,7 +16,7 @@
 
 (b) The Secretary shall prescribe reasonable charges for medical treatment provided under subsection (a)(1) of this section and for supplies and services provided under subsection (a)(2) and (3) of this section. Amounts received under this subsection shall be credited to the appropriation from which the expenditure was made.
 
-(c) When appropriations for a fiscal year for aviation duties and powers have not been made before June 1 immediately before the beginning of the fiscal year, the Secretary may designatean officer, and authorize that officer, to incur obligations to buy and transport supplies to carry out those duties and powers at installations outside the 48 contiguous States and the District of Columbia. The amount obligated under this subsection in a fiscal year may be not more than 75 percent of the amount available for buying and transporting supplies to those installations for the then current fiscal year. Payment of obligations under this subsection shall be made from appropriations for the next fiscal year when available.
+(c) When appropriations for a fiscal year for aviation duties and powers have not been madebefore June 1 immediately before the beginning of the fiscal year, the Secretary may designate an officer, and authorize that officer, to incur obligations to buy and transport supplies to carry out those duties and powers at installations outside the 48 contiguous States and the District of Columbia. The amount obligated under this subsection in a fiscal year may be not more than 75 percent of the amount available for buying and transporting supplies to those installations for the then current fiscal year. Payment of obligations under this subsection shall be made from appropriations for the next fiscal year when available.
 
 (Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2427; Pub. L. 103–272, §4(j)(8), July 5, 1994, 108 Stat. 1367.)
 
@@ -57,6 +57,8 @@ In subsection (c), the words "aviation duties and powers" are substituted for "t
 #### Pub. L. 103–272
 
 Section 4(j)(8) amends 49:331(b) to follow more closely the language in former 49:1657(l) on which it was based.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

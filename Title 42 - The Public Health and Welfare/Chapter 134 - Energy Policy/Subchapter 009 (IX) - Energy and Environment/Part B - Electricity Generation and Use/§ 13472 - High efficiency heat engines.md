@@ -32,7 +32,7 @@ Within 1 year after October 24, 1992, the Secretary shall solicit proposals for 
 
 #### (e) Authorization of appropriations
 
-There are authorized to be appropriated to the Secretary for carrying out this section such sums as may be necessary to be derived from sums authorized under section 13451(e) of this title.
+There are authorized to be appropriated to the Secretary for carrying out this section suchsums as may be necessary to be derived from sums authorized under section 13451(e) of this title.
 
 (Pub. L. 102–486, title XXI, §2112, Oct. 24, 1992, 106 Stat. 3072.)
 

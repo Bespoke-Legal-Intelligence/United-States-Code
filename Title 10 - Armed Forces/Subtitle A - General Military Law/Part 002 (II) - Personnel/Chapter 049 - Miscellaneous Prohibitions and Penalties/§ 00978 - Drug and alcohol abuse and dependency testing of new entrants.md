@@ -1,6 +1,6 @@
 ### §978. Drug and alcohol abuse and dependency: testing of new entrants
 
-(a)(1) The Secretary concerned shall require that, except as provided under paragraph (2),each person applying for an original enlistment or appointment in the armed forces shall be required, before becoming a member of the armed forces, to—
+(a)(1) The Secretary concerned shall require that, except as provided under paragraph (2), each person applying for an original enlistment or appointment in the armed forces shall be required, before becoming a member of the armed forces, to—
 
 &emsp;(A) undergo testing (by practicable, scientifically supported means) for drug and alcohol use; and
 
@@ -48,6 +48,8 @@ Sept. 28, 1971, Pub. L. 92–129, §501(a)(2), (b), 85 Stat. 361.
 
 The word "regulations" is added for consistency. The word "persons" is omitted as surplus. The word "person" is substituted for "individuals" for consistency. The text of subsection (b) is omitted as executed.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (d). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
@@ -89,6 +91,8 @@ Subsec. (c)(4). Pub. L. 101–189, §513(c), added par. (4).
 "(d) The testing required by subsection (a) shall be carried out under regulations prescribed by the Secretary of Defense in consultation with the Secretary of Transportation. Those regulations shall apply uniformly throughout the armed forces."
 
 <b>1987</b>—Pub. L. 100–180 substituted "Mandatory testing for drug, chemical, and alcohol abuse" for "Denial of entrance into the armed forces of persons dependent on drugs or alcohol" in section catchline, and amended text generally, revising and restating as subsecs. (a) to (d) provisions formerly contained in subsecs. (a) and (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

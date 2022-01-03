@@ -28,6 +28,8 @@ Any officer or employee appointed and assigned to a post abroad pursuant to this
 
 (Aug. 28, 1954, ch. 1041, title VI, §602(a)–(d), formerly §602(a)–(c), (e), 68 Stat. 908, 909; amended June 28, 1955, ch. 189, §12(c)(13), 69 Stat. 182; Pub. L. 89–106, §4, Aug. 4, 1965, 79 Stat. 431; Pub. L. 94–449, Oct. 1, 1976, 90 Stat. 1500; renumbered §602(a)–(d) and amended Pub. L. 95–501, title III, §301(4), (5), title IV, §401(3), (5), Oct. 21, 1978, 92 Stat. 1688, 1691.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsec. (d), is act Aug. 28, 1954, ch. 1041, 68 Stat. 897, as amended, known as the Agricultural Act of 1954. For complete classification of this Act to the Code, see Short Title note set out under section 1741 of this title and Tables.
@@ -48,6 +50,8 @@ Subsec. (f). Pub. L. 95–501, §401(3), redesignated subsec. (f), relating to l
 
 <b>1955</b>—Subsec. (a). Act June 28, 1955, repealed provisions authorizing the Secretary of Agriculture to place not more than eight positions in grade 16 and two in grade 17 of the General Schedule of the Classification Act of 1949.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1955 Amendment
 
 Amendment by act June 28, 1955, effective June 28, 1955, see section 13 of act of June 28, 1955.
@@ -55,6 +59,8 @@ Amendment by act June 28, 1955, effective June 28, 1955, see section 13 of act o
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 10624. Regulations for Department of Agriculture Personnel Abroad
 
@@ -68,7 +74,7 @@ Section 1. (a) The provisions of section 207 of the Foreign Service Act of 1980 
 
 (c) Consistent with subsections (a) and (b) of this section, the Secretary of Agriculture shall issue instructions on agricultural matters to persons assigned abroad under authority of the said Title VI.
 
-Sec. 2. In addition to rules and regulations pertaining to allowances and benefits otherwise applicable to personnel assigned abroad by the Secretary of Agriculture under Title VI of the Act of August 28, 1954 \[this chapter\], or other authority, there shall be applicable to such personnel the rules and regulations prescribed by the Secretary of State in pursuance of (1) so much of the authority vested in the President by subchapter III of chapter 59 of title 5 of the United States Code \[section 5921 et seq. of Title 5, Government Organization and Employees\], or by any amendment thereof as relates to quarters allowances or cost-of-living allowances, and (2) so much of the authority vested in the Secretary of State by chapter 9 of Title I of the Foreign Service Act of 1980 \[section 4081 et seq. of Title 22, Foreign Relations and Intercourse\], as relates to allowances and benefits under the said chapter 9 of Title I: <i>Provided</i>, (1) that the Secretary of State, upon request of the Secretary of Agriculture, may prescribe, within existing authority of law and when deemed necessary, special rules and regulations for such personnel; and (2) that the Secretary of Agriculture may, within the limitation of such rules and regulations, prescribe necessary implementing directions. The Secretary of Agriculture may designate employees of the Department of Agriculture to make specific determinations and take specific actions in the application of such rules and regulations to the activities of the Department of Agriculture.
+Sec. 2. In addition to rules and regulations pertaining to allowances and benefits otherwise applicable to personnel assigned abroad by the Secretary of Agriculture under Title VI of the Act of August 28, 1954 \[this chapter\], or other authority, there shall be applicable to such personnel the rules and regulations prescribed by the Secretary of State in pursuance of (1) so much of the authority vested in the President by subchapter III of chapter 59 of title 5 of the United States Code \[section 5921 et seq. of Title 5, Government Organization and Employees\], or by any amendment thereof as relates to quarters allowances or cost-of-living allowances, and (2) so much of the authority vested in the Secretary of State by chapter 9 of Title I of the Foreign Service Act of 1980 \[section 4081 et seq. of Title 22, Foreign Relations and Intercourse\], as relates to allowances and benefits under the said chapter 9 of Title I: <i>Provided</i>, (1) that the Secretary of State, upon request of the Secretary of Agriculture, may prescribe, within existing authority of law and when deemed necessary,special rules and regulations for such personnel; and (2) that the Secretary of Agriculture may, within the limitation of such rules and regulations, prescribe necessary implementing directions. The Secretary of Agriculture may designate employees of the Department of Agriculture to make specific determinations and take specific actions in the application of such rules and regulations to the activities of the Department of Agriculture.
 
 Sec. 3. Such provisions in annual appropriation acts of the Department of State, including such acts hereafter enacted, facilitating the work of the Foreign Service of the United States as the Director of the Office of Management and Budget shall from time to time determine appropriate shall be applicable to activities authorized under Title VI of the said act of August 28, 1954 \[this chapter\].
 

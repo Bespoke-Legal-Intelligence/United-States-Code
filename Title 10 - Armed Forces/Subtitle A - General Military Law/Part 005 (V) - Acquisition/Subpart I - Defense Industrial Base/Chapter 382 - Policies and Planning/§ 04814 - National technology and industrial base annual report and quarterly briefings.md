@@ -6,13 +6,13 @@ Annual Report.—The Secretary of Defense shall transmit to the Committee on Arm
 
 &emsp;(1) A description of the departmental guidance prepared pursuant to section 4811(c) of this title.
 
-&emsp;(2) A description of the assessments prepared pursuant to section 4816 of this title and otheranalyses used in developing the budget submission of the Department of Defense for the next fiscal year.
+&emsp;(2) A description of the assessments prepared pursuant to section 4816 of this title and other analyses used in developing the budget submission of the Department of Defense for the next fiscal year.
 
 &emsp;(3) Based on the strategy required by section 4811 of this title and on the assessments prepared pursuant to Executive order or section 4816 of this title—
 
 &emsp;&emsp;(A) a map of the industrial base;
 
-&emsp;&emsp;(B) a prioritized list of gaps or vulnerabilities in the national technology and industrial base, including—
+&emsp;&emsp;(B) a prioritized list of gaps or vulnerabilities in the national technology and industrial base (including vulnerabilities related to the current and projected impacts of extreme weather and to cyber attacks or disruptions), including—
 
 &emsp;&emsp;&emsp;(i) a description of mitigation strategies necessary to address such gaps or vulnerabilities;
 
@@ -24,7 +24,7 @@ Annual Report.—The Secretary of Defense shall transmit to the Committee on Arm
 
 &emsp;(4) Identification of each program designed to sustain specific essential technological and industrial capabilities and processes of the national technology and industrial base.
 
-&emsp;(5) A detailed description of any use by the Secretary of Defense or a Secretary concerned, as applicable, during the prior 12 months of a waiver or exception to the sourcing requirements or prohibitions established by chapter 83 of title 41 or subchapter V of chapter 148 of this title, including—
+&emsp;(5) A detailed description of any use by the Secretary of Defense or a Secretary concerned, as applicable, during the prior 12 months of a waiver or exception to the sourcing requirements or prohibitions established by chapter 83 of title 41 or chapter 385 of this title, including—
 
 &emsp;&emsp;(A) the type of waiver or exception used; and
 
@@ -42,7 +42,9 @@ Quarterly Briefings.—(1) The Secretary of Defense shall ensure that the congre
 
 &emsp;(C) the proposed timeline for action and resources required to address such gaps or vulnerabilities.
 
-(Added Pub. L. 104–201, div. A, title VIII, §829(e), Sept. 23, 1996, 110 Stat. 2614, §2504; amended Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 112–239, div. A, title XVI, §1603(b), Jan. 2, 2013, 126 Stat. 2063; Pub. L. 116–92, div. A, title VIII, §846(b), Dec. 20, 2019, 133 Stat. 1503; renumbered §4814 and amended Pub. L. 116–283, div. A, title VIII, §842(a), (b)(1), title XVIII, §1867(b), (d)(3), Jan. 1, 2021, 134 Stat. 3764, 3765, 4281.)
+(Added Pub. L. 104–201, div. A, title VIII, §829(e), Sept. 23, 1996, 110 Stat. 2614, §2504; amended Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 112–239, div. A, title XVI,§1603(b), Jan. 2, 2013, 126 Stat. 2063; Pub. L. 116–92, div. A, title VIII, §846(b), Dec. 20, 2019, 133 Stat. 1503; renumbered §4814 and amended Pub. L. 116–283, div. A, title VIII, §842(a), (b)(1), title XVIII, §1867(b), (d)(3), Jan. 1, 2021, 134 Stat. 3764, 3765, 4281; Pub. L. 117–81, div. A, title III, §333, title XVII, §1701(b)(22)(A), (d)(15), Dec. 27, 2021, 135 Stat. 1638, 2135, 2137.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -52,17 +54,41 @@ Pub. L. 116–283, §842(b)(1), amended section catchline generally, substitutin
 
 Subsec. (a). Pub. L. 116–283, §842(a)(1), designated existing provisions as subsec. (a) and inserted heading.
 
-Subsec. (a)(1). Pub. L. 116–283, §1867(d)(3)(A), which directed amendment of par. (1) by substituting "section 4811(c)" for "section 2506", was executed to subsec. (a)(1) to reflect the probable intent of Congress and the intervening amendment by Pub. L. 116–283, §842(a)(1). See note above.
+Subsec. (a)(1). Pub. L. 116–283, §1867(d)(3)(A), as amended by Pub. L. 117–81, §1701(b)(22)(A), substituted "section 4811(c)" for "section 2506".
 
-Subsec. (a)(2). Pub. L. 116–283, §1867(d)(3)(B), which directed amendment of par. (2) by substituting "section 4816" for "section 2505", was executed to subsec. (a)(2) to reflect the probable intent of Congress and the intervening amendment by Pub. L. 116–283, §842(a)(1). See note above.
+Subsec. (a)(2). Pub. L. 116–283, §1867(d)(3)(B), as amended by Pub. L. 117–81, §1701(b)(22)(A), substituted "section 4816" for "section 2505".
 
-Subsec. (a)(3). Pub. L. 116–283, §1867(d)(3)(C), which directed amendment of par. (3) by substituting "section 4811" for "section 2501" and "section 4816" for "section 2505", was executed to subsec. (a)(3) to reflect the probable intent of Congress and the intervening amendment by Pub. L. 116–283, §842(a)(1). See note above.
+Subsec. (a)(3). Pub. L. 116–283, §1867(d)(3)(C), as amended by Pub. L. 117–81, §1701(b)(22)(A), substituted "section 4811" for "section 2501" and "section 4816" for "section 2505".
 
-Subsec. (a)(5). Pub. L. 116–283, §842(a)(2), added par. (5).
+Subsec. (a)(3)(B). Pub. L. 117–81, §333, which directed the amendment of par. (3)(B) by inserting "(including vulnerabilities related to the current and projected impacts of extreme weather and to cyber attacks or disruptions)" after "industrial base", was executed by making the insertion in subsec. (a)(3)(B) to reflect the probable intent of Congress.
+
+Subsec. (a)(5). Pub. L. 117–81, §1701(d)(15), substituted "chapter 385" for "subchapter V of chapter 148" in introductory provisions.
+
+Pub. L. 116–283, §842(a)(2), added par. (5).
 
 Subsec. (b). Pub. L. 116–283, §842(a)(3), added subsec. (b).
 
+<b>2019</b>—Par. (3). Pub. L. 116–92, §846(b)(1), inserted "Executive order or" after "pursuant to".
+
+Par. (3)(A). Pub. L. 116–92, §846(b)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "a description of any mitigation strategies necessary to address any gaps or vulnerabilities in the national technology and industrial base; and".
+
+Par. (3)(B), (C). Pub. L. 116–92, §846(b)(3), (4), added subpar. (B) and redesignated former subpar. (B) as (C).
+
+<b>2013</b>—Pars. (2), (3). Pub. L. 112–239 added par. (3), redesignated former par. (3) as (2) and struck out former par. (2) which read as follows: "A description of the methods and analyses being undertaken by the Department of Defense alone or in cooperation with other Federal agencies, to identify and address concerns regarding technological and industrial capabilities of the national technology and industrial base."
+
+<b>1999</b>—Pub. L. 106–65 substituted "and the Committee on Armed Services" for "and the Committee on National Security" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2021 Amendment
 
+Amendment by section 1701(b)(22)(A) of Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and note below.
+
+Amendment by section 1701(d)(15) of Pub. L. 117–81 to take effect immediately after the amendments made by title XVIII of Pub. L. 116–283 have taken effect, see section 1701(a)(3) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and note below.
+
 Amendment by section 1867(b), (d)(3) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+#### Termination of Reporting Requirements
+
+For termination, effective Dec. 31, 2021, of provisions of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
 

@@ -50,7 +50,7 @@ The amount of any money, or the fair market value of any property, received by a
 
 #### (c) Unrealized receivables
 
-For purposes of this subchapter, the term "unrealized receivables" includes, to the extent not previously includible in income under the method of accounting used by the partnership, any rights (contractual or otherwise) to payment for—
+For purposes of this subchapter, the term "unrealized receivables" includes, to the extent notpreviously includible in income under the method of accounting used by the partnership, any rights (contractual or otherwise) to payment for—
 
 &emsp;(1) goods delivered, or to be delivered, to the extent the proceeds therefrom would be treated as amounts received from the sale or exchange of property other than a capital asset, or
 
@@ -84,6 +84,8 @@ In determining whether property of a partnership is—
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 250; Pub. L. 87–834, §§13(f)(1), 14(b)(2), Oct. 16, 1962, 76 Stat. 1035, 1041; Pub. L. 88–272, title II, §231(b)(6), Feb. 26, 1964, 78 Stat. 105; Pub. L. 89–570, §1(c), Sept. 12, 1966, 80 Stat. 762; Pub. L. 91–172, title II, §211(b)(6), Dec. 30, 1969, 83 Stat. 570; Pub. L. 94–455, title II, §205(b), title X, §1042(c)(2), title XI, §1101(d)(2), title XIX, §§1901(a)(93), 1906(b)(13)(A), title XXI, §2110(a), Oct. 4, 1976, 90 Stat. 1535, 1637, 1658, 1780, 1834, 1905; Pub. L. 95–600, title VII, §701(u)(13)(A), Nov. 6, 1978, 92 Stat. 2918; Pub. L. 95–618, title IV, §402(c)(5), Nov. 9, 1978, 92 Stat. 3202; Pub. L. 97–448, title I, §102(a)(6), Jan. 12, 1983, 96 Stat. 2368; Pub. L. 98–369, div. A, title I, §§43(c)(3), 76(a), title IV, §492(b)(4), July 18, 1984, 98 Stat. 558, 595, 854; Pub. L. 99–514, title II, §201(d)(10), title XVIII, §1899A(19), Oct. 22, 1986, 100 Stat. 2141, 2959; Pub. L. 103–66, title XIII, §§13206(e)(1), 13262(b)(1), (2)(A), Aug. 10, 1993, 107 Stat. 467, 541; Pub. L. 105–34, title X, §1062(a)–(b)(2), Aug. 5, 1997, 111 Stat. 946, 947; Pub. L. 105–206, title VI, §6010(m), July 22, 1998, 112 Stat. 816; Pub. L. 106–170, title V, §532(c)(2)(F), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 108–357, title IV, §413(c)(11), Oct. 22, 2004, 118 Stat. 1507; Pub. L. 115–141, div. U, title IV, §401(a)(140), Mar. 23, 2018, 132 Stat. 1191.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (c). Pub. L. 115–141 substituted "and sections" for "and, sections" in two places in concluding provisions.
@@ -104,7 +106,7 @@ Subsec. (b)(1). Pub. L. 105–34, §1062(b)(1)(A), added subpars. (A) and (B) an
 
 Subsec. (b)(3). Pub. L. 105–34, §1062(b)(1)(B), added par. (3).
 
-Subsec. (d). Pub. L. 105–34, §1062(b)(2), amended heading and text of subsec. (d) generally. Prior to amendment, subsec. (d) consisted of pars. (1) and (2) relating to inventory items which have appreciated substantially in value.
+Subsec. (d). Pub. L. 105–34, §1062(b)(2), amended heading and text of subsec. (d) generally. Prior to amendment, subsec. (d) consisted of pars. (1) and (2) relatingto inventory items which have appreciated substantially in value.
 
 <b>1993</b>—Subsec. (c). Pub. L. 103–66, §13262(b)(1), in concluding provisions, substituted "section 731 or 741" for "section 731, 736, or 741" in two places and ", sections 731 and 741 (but not for purposes of section 736)" for "sections 731, 736, and 741" in two places.
 
@@ -146,9 +148,11 @@ Subsec. (c). Pub. L. 94–455, §§205(b), 1042(c)(2), 1101(d)(2), 1901(a)(93), 
 
 Subsec. (d)(2). Pub. L. 87–834, §14(b)(2), added subpar. (C), redesignated former subpar. (C) as (D), and substituted "subparagraph (A), (B), or (C)" for "subparagraph (A) or (B)".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholderswith or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
+Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
 
 #### Effective Date of 1999 Amendment
 
@@ -184,7 +188,7 @@ Amendment by section 492(b)(4) of Pub. L. 98–369 applicable to taxable years b
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, see section 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
+Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Economic Recovery Tax Act of 1981, Pub. L.97–34, to which such amendment relates, see section 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
 
 #### Effective Date of 1978 Amendments
 

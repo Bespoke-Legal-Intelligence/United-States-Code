@@ -72,7 +72,7 @@ For purposes of this part, the qualified export assets of a corporation are—
 
 &emsp;&emsp;(C) not more than 50 percent of the fair market value of which is attributable to articles imported into the United States.
 
-> &emsp;In applying subparagraph (C), the fair market value of any article imported into the United States shall be its appraised value, as determined by the Secretary under section 402 of the Tariff Act of 1930 (19 U.S.C. 1401a) in connection with its importation.
+> &emsp;In applying subparagraph (C), the fair market value of any article imported into the UnitedStates shall be its appraised value, as determined by the Secretary under section 402 of the Tariff Act of 1930 (19 U.S.C. 1401a) in connection with its importation.
 
 #### (2) Excluded property
 
@@ -192,13 +192,15 @@ In determining whether a corporation (hereinafter in this subsection referred to
 
 #### (f) Gross receipts
 
-For purposes of this part, the term "gross receipts" means the total receipts from the sale, lease, or rental of property held primarily for sale, lease, or rental in the ordinary course of trade or business, and gross income from all other sources. In the case of commissions on the sale, lease, or rental of property, the amount taken into account for purposes of this part as gross receipts shall be the gross receipts on the sale, lease, or rental of the property on which such commissions arose.
+For purposes of this part, the term "gross receipts" means the total receipts from the sale, lease, or rental of property held primarily forsale, lease, or rental in the ordinary course of trade or business, and gross income from all other sources. In the case of commissions on the sale, lease, or rental of property, the amount taken into account for purposes of this part as gross receipts shall be the gross receipts on the sale, lease, or rental of the property on which such commissions arose.
 
 #### (g) United States defined
 
 For purposes of this part, the term "United States" includes the Commonwealth of Puerto Rico and the possessions of the United States.
 
 (Added Pub. L. 92–178, title V, §501, Dec. 10, 1971, 85 Stat. 538; amended Pub. L. 93–482, §3(a), Oct. 26, 1974, 88 Stat. 1456; Pub. L. 94–12, title VI, §603(a), Mar. 29, 1975, 89 Stat. 64; Pub. L. 94–455, title XI, §1101(b), (c), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1658, 1834; Pub. L. 96–39, title II, §202(c)(2), July 26, 1979, 93 Stat. 202; Pub. L. 96–72, §22(c), Sept. 29, 1979, 93 Stat. 535; Pub. L. 98–369, div. A, title VIII, §802(c)(2), July 18, 1984, 98 Stat. 999; Pub. L. 103–66, title XIII, §13239(b), Aug. 10, 1993, 107 Stat. 509; Pub. L. 115–141, div. U, title IV, §401(a)(165), Mar. 23, 2018, 132 Stat. 1192.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -232,9 +234,11 @@ Subsecs. (d)(4)(A), (e)(3)(B). Pub. L. 94–455, §1906(b)(13)(A), struck out "o
 
 <b>1974</b>—Subsec. (b)(3). Pub. L. 93–482 inserted "or of another corporation which is a DISC and which is a member of a controlled group which includes such corporation" after "such corporation".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–66 applicable to sales, exchanges, or other dispositions after Aug. 10, 1993, seesection 13239(e) of Pub. L. 103–66, set out as a note under section 865 of this title.
+Amendment by Pub. L. 103–66 applicable to sales, exchanges, or other dispositions after Aug. 10, 1993, see section 13239(e) of Pub. L. 103–66, set out as a note under section 865 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -266,7 +270,7 @@ Binding contract.—The amendments made by subsection (a) \[amending this sectio
 
 #### Effective Date of 1974 Amendment
 
-Pub. L. 93–482, §3(b), Oct. 26, 1974, 88 Stat. 1456, provided that: "The amendment made by subsection (a) \[amending this section\] applies to taxable years beginning after December 31, 1973. The amendment shall, at the election of the taxpayer made within 90 days after the date of enactment of this Act \[Oct. 26, 1974\], also apply to any taxable year beginning after December 31, 1971, and before January 1, 1974."
+Pub. L. 93–482, §3(b), Oct. 26, 1974, 88 Stat. 1456, provided that: "The amendment made by subsection (a)\[amending this section\] applies to taxable years beginning after December 31, 1973. The amendment shall, at the election of the taxpayer made within 90 days after the date of enactment of this Act \[Oct. 26, 1974\], also apply to any taxable year beginning after December 31, 1971, and before January 1, 1974."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

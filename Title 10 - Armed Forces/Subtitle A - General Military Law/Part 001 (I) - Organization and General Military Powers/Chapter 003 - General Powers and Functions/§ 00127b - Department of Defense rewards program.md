@@ -24,7 +24,7 @@ Delegation of Authority.—(1) The authority of the Secretary of Defense under s
 
 (3)(A) Subject to subparagraph (B), an official who has authority delegated under paragraph (1) or (2) may use that authority, acting through government personnel of allied forces, to offer and make rewards.
 
-(B) The Secretary of Defense shall prescribe policies and procedures for making rewards in the manner described in subparagraph (A),which shall include guidance for the accountability of funds used for making rewards in that manner. The policies and procedures shall not take effect until 30 days after the date on which the Secretary submits the policies and procedures to the congressional defense committees. Rewards may not be made in the manner described in subparagraph (A) except under policies and procedures that have taken effect.
+(B) The Secretary of Defense shall prescribe policies and procedures for making rewards in the manner described in subparagraph (A), which shall include guidance for the accountability of funds used for making rewards in that manner. The policies and procedures shall not take effect until 30 days after the date on which the Secretary submits the policies and procedures to the congressional defense committees. Rewards may not be made in the manner described in subparagraph (A) except under policies and procedures that have taken effect.
 
 (d)
 
@@ -84,6 +84,8 @@ Report on Designation of Countries for Which Rewards May Be Paid.—Not later th
 
 (Added Pub. L. 107–314, div. A, title X, §1065(a), Dec. 2, 2002, 116 Stat. 2655; amended Pub. L. 109–163, div. A, title X, §1056(c)(2), Jan. 6, 2006, 119 Stat. 3439; Pub. L. 109–364, div. A, title XIV, §1401, Oct. 17, 2006, 120 Stat. 2433; Pub. L. 110–181, div. A, title X, §1033, Jan. 28, 2008, 122 Stat. 307; Pub. L. 111–84, div. A, title X, §1071, Oct. 28, 2009, 123 Stat. 2470; Pub. L. 111–383, div. A, title X, §1031, Jan. 7, 2011, 124 Stat. 4351; Pub. L. 112–81, div. A, title X, §§1033, 1064(3), Dec. 31, 2011, 125 Stat. 1572, 1587; Pub. L. 112–239, div. A, title X, §1021(a), Jan. 2, 2013, 126 Stat. 1911; Pub. L. 113–291, div. A, title X, §1031, Dec. 19, 2014, 128 Stat. 3491; Pub. L. 114–92, div. A, title X, §1042(a)–(d)(1), Nov. 25, 2015, 129 Stat. 976; Pub. L. 114–328, div. A, title X, §1063, Dec. 23, 2016, 130 Stat. 2408.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Subsec. (h)(2). Pub. L. 114–328, §1063(1), inserted "and justification" after "reason".
@@ -106,7 +108,7 @@ Subsec. (c)(3)(C), (D). Pub. L. 114–92, §1042(a)(2), struck out subpars. (C) 
 
 &emsp;"(iii) assess the success of the reward in advancing the effort to combat terrorism."
 
-Subsec. (f)(2)(D) to (G). Pub. L. 114–92, §1042(b), redesignated subpars. (E) to (G) as (D) to (F), respectively, inserted ", including in which countries the program is being operated" before period at end of subpar. (D), andstruck out former subpar. (D) which read as follows: "Information on the implementation of paragraph (3) of subsection (c)."
+Subsec. (f)(2)(D) to (G). Pub. L. 114–92, §1042(b), redesignated subpars. (E) to (G) as (D) to (F), respectively, inserted ", including in which countries the program is being operated" before period at end of subpar. (D), and struck out former subpar. (D) which read as follows: "Information on the implementation of paragraph (3) of subsection (c)."
 
 Subsec. (h). Pub. L. 114–92, §1042(c), added subsec. (h).
 
@@ -147,6 +149,8 @@ Subsec. (f)(2)(D). Pub. L. 110–181, §1033(c), added subpar. (D).
 <b>2006</b>—Subsec. (c)(2). Pub. L. 109–364 substituted "$10,000" for "$2,500", inserted ", or to the commander of a command directly subordinate to that commander," after "deputy commander", and inserted at end "Such a delegation may be made to the commander of a command directly subordinate to the commander of a combatant command only with the approval of the Secretary of Defense, the Deputy Secretary of Defense, or an Under Secretary of Defense to whom authority has been delegated under subparagraph (1)(A)."
 
 Subsec. (d)(1). Pub. L. 109–163 substituted "Such policies" for "Such polices".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Reporting Requirements
 

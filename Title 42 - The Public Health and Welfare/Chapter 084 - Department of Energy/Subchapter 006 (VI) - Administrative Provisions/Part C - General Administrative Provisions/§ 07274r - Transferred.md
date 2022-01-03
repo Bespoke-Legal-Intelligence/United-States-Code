@@ -1,8 +1,12 @@
 ### §7274r. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, Pub. L. 108–7, div. D, title III, §308, Feb. 20, 2003, 117 Stat. 154, which related to research, development, and demonstration activities with respect to engineering and manufacturing capabilities at covered nuclear weapons production plants, was transferred and is listed in a similar provisions note under the heading Activities at Covered Nuclear Weapons Facilities under section 2812 of Title 50, War and National Defense.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Engineering and Manufacturing Research, Development, and Demonstration by Plant Managers of Certain Nuclear Weapons Production Plants
 

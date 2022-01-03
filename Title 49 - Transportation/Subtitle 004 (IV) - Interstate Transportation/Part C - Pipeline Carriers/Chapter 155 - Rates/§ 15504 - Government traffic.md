@@ -4,6 +4,8 @@ A pipeline carrier providing transportation or service for the United States Gov
 
 (Added Pub. L. 104–88, title I, §106(a), Dec. 29, 1995, 109 Stat. 924; amended Pub. L. 111–350, §5(o)(6), Jan. 4, 2011, 124 Stat. 3853.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 10721 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
@@ -11,6 +13,8 @@ Provisions similar to those in this section were contained in section 10721 of t
 #### Amendments
 
 <b>2011</b>—Pub. L. 111–350 substituted "Section 6101(b) to (d) of title 41" for "Section 3709 of the Revised Statutes (41 U.S.C. 5)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

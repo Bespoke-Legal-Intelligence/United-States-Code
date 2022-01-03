@@ -58,7 +58,7 @@ As revised, this section is in harmony with the provisions in chapters 45 and 47
 
 Provisions as to time and method of accounting and settlement of accounts were omitted as covered by chapter 41 of this title giving the Director of the Administrative Office of the United States Courts supervision over such accounts, and of chapter 2, Audit and Settlement of Accounts, of title 31, U.S.C., 1940 ed., Money and Finance.
 
-Provisions as to particular fees and moneys to be accounted for were omitted as covered by words "all fees,costs and other moneys." Included in such provisions was a provision as to naturalization fees, but a later act, now appearing in section 742 of title 8, U.S.C., 1940 ed., Aliens and Nationality, provided a different method of accounting and an exception expressly referring to such section was inserted in this section.
+Provisions as to particular fees and moneys to be accounted for were omitted as covered by words "all fees, costs and other moneys." Included in such provisions was a provision as to naturalization fees, but a later act, now appearing in section 742 of title 8, U.S.C., 1940 ed., Aliens and Nationality, provided a different method of accounting and an exception expressly referring to such section was inserted in this section.
 
 Changes were made in phraseology.
 

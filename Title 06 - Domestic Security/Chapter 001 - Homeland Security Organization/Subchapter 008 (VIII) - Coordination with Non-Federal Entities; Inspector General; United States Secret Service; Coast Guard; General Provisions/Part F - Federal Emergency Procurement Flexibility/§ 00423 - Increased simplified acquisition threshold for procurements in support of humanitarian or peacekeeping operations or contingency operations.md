@@ -16,19 +16,23 @@ In this section, the term "simplified acquisition threshold definitions" means t
 
 &emsp;(2) Section 153 of title 41.
 
-&emsp;(3) Section 2302(7) of title 10.
+&emsp;(3) Section 3015 of title 10.
 
 #### (c) Small business reserve
 
 For a procurement carried out pursuant to subsection (a), section 644(j) of title 15 shall be applied as if the maximum anticipated value identified therein is equal to the amounts referred to in subsection (a).
 
-(Pub. L. 107–296, title VIII, §853, Nov. 25, 2002, 116 Stat. 2235.)
+(Pub. L. 107–296, title VIII, §853, Nov. 25, 2002, 116 Stat. 2235; Pub. L. 117–81, div. A, title XVII, §1702(c)(2), Dec. 27, 2021, 135 Stat. 2155.)
 
 #### <b>Editorial Notes</b>
 
-#### Codification
+#### Amendments
 
-In subsec. (b)(1), "Section 134 of title 41" substituted for "Section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+<b>2021</b>—Subsec. (b). Pub. L. 117–81 added pars. (1) to (3) and struck out former pars. (1) to (3), which read as follows:
 
-In subsec. (b)(2), "Section 153 of title 41" substituted for "Section 309(d) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 259(d))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+&emsp;"(1) Section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11)).
+
+&emsp;"(2) Section 309(d) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 259(d)).
+
+&emsp;"(3) Section 2302(7) of title 10."
 

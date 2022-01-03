@@ -4,6 +4,8 @@ When the duty upon any imports shall be subject to be levied upon the true marke
 
 (R.S. §2904.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §2904 derived from act Mar. 2, 1861, ch. 68, §28, 12 Stat. 197.

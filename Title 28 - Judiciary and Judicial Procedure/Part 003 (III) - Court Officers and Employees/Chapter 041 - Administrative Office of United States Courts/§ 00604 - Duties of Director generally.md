@@ -20,7 +20,7 @@
 
 &emsp;(9) Establish pretrial services pursuant to section 3152 of title 18, United States Code;
 
-&emsp;(10)(A) Purchase, exchange, transfer, distribute, and assign the custody of lawbooks, equipment, supplies, and other personal property for the judicial branch of Government (except the Supreme Court unless otherwise provided pursuant to paragraph (17)); (B) provide or make available readily to each court appropriate equipment for the interpretation of proceedings in accordance with section 1828 of this title; and (C) enter into and perform contracts and other transactions upon such terms as the Director may deem appropriate as may be necessary to the conduct of thework of the judicial branch of Government (except the Supreme Court unless otherwise provided pursuant to paragraph (17)), and contracts for nonpersonal services providing pretrial services, agencies, for the interpretation of proceedings, and for the provision of special interpretation services pursuant to section 1828 of this title may be awarded without regard to section 6101(b) to (d) of title 41;
+&emsp;(10)(A) Purchase, exchange, transfer, distribute, and assign the custody of lawbooks, equipment, supplies, and other personal property for the judicial branch of Government (except the Supreme Court unless otherwise provided pursuant to paragraph (17)); (B) provide or make available readily to each court appropriate equipment for the interpretation of proceedings in accordance with section 1828 of this title; and (C) enter into and perform contracts and other transactions upon such terms as the Director may deem appropriate as may be necessary to the conduct of the work of the judicial branch of Government (except the Supreme Court unless otherwise provided pursuant to paragraph (17)), and contracts for nonpersonal services providing pretrial services, agencies, for the interpretation of proceedings, and for the provision of special interpretation services pursuant to section 1828 of this title may be awarded without regard to section 6101(b) to (d) of title 41;
 
 &emsp;(11) Audit vouchers and accounts of the courts, the Federal Judicial Center, the offices providing pretrial services, and their clerical and administrative personnel;
 
@@ -72,7 +72,7 @@
 
 &emsp;(4) prepare and distribute a manual, with annual supplements and periodic revisions, for the use of such officers, which shall set forth their powers and duties, describe all categories of proceedings that may arise before them, and contain such other information as may be required to enable them to discharge their powers and duties promptly, effectively, and impartially.
 
-(e) The Director may promulgate appropriate rules and regulations approved by the conference and not inconsistent with any provisionof law, to assist him in the performance of the duties conferred upon him by subsection (d) of this section. Magistrate judges shall keep such records and make such reports as are specified in such rules and regulations.
+(e) The Director may promulgate appropriate rules and regulations approved by the conference and not inconsistent with any provision of law, to assist him in the performance of the duties conferred upon him by subsection (d) of this section. Magistrate judges shall keep such records and make such reports as are specified in such rules and regulations.
 
 (f) The Director may make, promulgate, issue, rescind, and amend rules and regulations (including regulations prescribing standards of conduct for Administrative Office employees) as may be necessary to carry out the Director's functions, powers, duties, and authority. The Director may publish in the Federal Register such rules, regulations, and notices for the judicial branch of Government as the Director determines to be of public interest; and the Director of the Federal Register hereby is authorized to accept and shall publish such materials.
 
@@ -120,7 +120,7 @@ Definitions.—In this subsection—
 
 &emsp;(2)
 
-Restriction.—A covered employee may not request that an applicant for employment as a covered employee disclose criminal history record information if the request would be prohibited under section 9202 of title 5 if made by an employee of an agency.
+Restriction.—A covered employee may not request that an applicant for employment as a covered employee disclose criminal history record information if the request wouldbe prohibited under section 9202 of title 5 if made by an employee of an agency.
 
 &emsp;(3)
 
@@ -354,7 +354,7 @@ Subsec. (a)(10), (11). Pub. L. 90–219, §203(c), inserted ", the Federal Judi
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–8, div. D, title III, §307(c), Mar. 11, 2009, 123 Stat. 649, provided that: "Subsection (b) \[enacting provisions set out as a note under section 8701 of Title 5, Government Organization and Employees\] and the amendment made by subsection (a) \[amending this section\] shall apply with respect to any payment made on or after the first day of the first applicable pay periodbeginning on or after the date of the enactment of Public Law 110–177 \[Jan. 7, 2008\]."
+Pub. L. 111–8, div. D, title III, §307(c), Mar. 11, 2009, 123 Stat. 649, provided that: "Subsection (b) \[enacting provisions set out as a note under section 8701 of Title 5, Government Organization and Employees\] and the amendment made by subsection (a) \[amending this section\] shall apply with respect to any payment made on or after the first day of the first applicable pay period beginning on or after the date of the enactment of Public Law 110–177 \[Jan. 7, 2008\]."
 
 #### Effective Date of 2008 Amendment
 
@@ -414,7 +414,7 @@ Adjustment of rates of pay of judicial branch employees whose rates of pay are f
 
 #### Compensation and Appointment of Secretaries and Law Clerks
 
-Provisions authorizing the appointment and compensation of secretaries and law clerks to circuit and district judges in such number and at such rates of compensation as may be determined by the Judicial Conference of the United States were contained in the following appropriation acts:
+Provisions authorizing the appointment and compensation of secretaries and law clerks to circuit and district judges in such number and at such rates ofcompensation as may be determined by the Judicial Conference of the United States were contained in the following appropriation acts:
 
 Dec. 12, 1985, Pub. L. 99–180, title IV, 99 Stat. 1154.
 
@@ -512,7 +512,7 @@ Words "this part", referred to above, means Part B of Pub. L. 86–568, which en
 
 <b>1955</b>—Act June 28, 1955, ch. 189, §3(b), 69 Stat. 175, provided that: "The limitations of $10,560 and $14,355 with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges, contained in the paragraph under the heading '
 
-salaries of supporting personnel' in the Judiciary Appropriation Act, 1955 (Public Law 470, Eighty-third Congress), or in any subsequent appropriation Act, shall be increased by the amounts necessary to pay the additional basic compensation provided by this Act."
+salaries of supporting personnel' in the Judiciary Appropriation Act, 1955 (Public Law 470, Eighty-third Congress), or in any subsequent appropriation Act, shall be increasedby the amounts necessary to pay the additional basic compensation provided by this Act."
 
 <b>1951</b>—Act Oct. 24, 1951, ch. 554, §1(d), 65 Stat. 613, provided that: "The limitations of $9,600 and $13,050 with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges, contained in the sixteenth paragraph under the head 'Miscellaneous salaries' in the Judiciary Appropriation Act, 1951 (Public Law 759, Eighty-first Congress), or in any subsequent appropriation Act, shall be increased by the amounts necessary to pay the additional basic compensation provided by this Act."
 

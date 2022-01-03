@@ -72,7 +72,7 @@ The Special Education Research Commissioner shall propose to the Director a rese
 
 #### (1) In general
 
-&emsp;In carrying out the duties under this section, the Director may award grants to, orenter into contracts or cooperative agreements with, eligible applicants.
+&emsp;In carrying out the duties under this section, the Director may award grants to, or enter into contracts or cooperative agreements with, eligible applicants.
 
 #### (2) Eligible applicants
 
@@ -96,9 +96,13 @@ There are authorized to be appropriated to carry out this part such sums as may 
 
 (Pub. L. 107–279, title I, §177, as added Pub. L. 108–446, title II, §201(a)(2), Dec. 3, 2004, 118 Stat. 2800.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Individuals with Disabilities Education Act, referred to in subsecs. (a)(1) and (c)(3), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -4,7 +4,7 @@
 
 The allotment for a State under section 290cc–21 of this title for a fiscal year shall be the greater of—
 
-&emsp;(1) $300,000 for each of the several States, the District of Columbia, and the Commonwealthof Puerto Rico, and $50,000 for each of Guam, the Virgin Islands, American Samoa, and the Commonwealth of the Northern Mariana Islands; and
+&emsp;(1) $300,000 for each of the several States, the District of Columbia, and the Commonwealth of Puerto Rico, and $50,000 for each of Guam, the Virgin Islands, American Samoa, and the Commonwealth of the Northern Mariana Islands; and
 
 &emsp;(2) an amount determined in accordance with subsection (b).
 
@@ -21,6 +21,8 @@ The amount referred to in subsection (a)(2) is the product of—
 &emsp;&emsp;(B) an amount equal to the population living in urbanized areas of the United States, as indicated by the sum of the respective amounts determined for the States under subparagraph (A).
 
 (July 1, 1944, ch. 373, title V, §524, as added Pub. L. 100–77, title VI, §611(3), July 22, 1987, 101 Stat. 517; amended Pub. L. 101–645, title V, §511, Nov. 29, 1990, 104 Stat. 4728.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

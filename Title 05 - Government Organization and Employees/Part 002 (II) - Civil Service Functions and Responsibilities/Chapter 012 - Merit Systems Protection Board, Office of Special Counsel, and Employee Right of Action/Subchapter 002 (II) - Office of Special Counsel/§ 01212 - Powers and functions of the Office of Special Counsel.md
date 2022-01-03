@@ -110,7 +110,7 @@
 
 &emsp;(2) the Special Counsel—
 
-&emsp;&emsp;(A) may not require an employee of the Office of Special Counsel to seek authorization or approval before directly contacting theInspector General in accordance with the agreement; and
+&emsp;&emsp;(A) may not require an employee of the Office of Special Counsel to seek authorization or approval before directly contacting the Inspector General in accordance with the agreement; and
 
 &emsp;&emsp;(B) may reimburse the Inspector General for services provided under the agreement.
 
@@ -212,7 +212,7 @@ Report.—The results of the survey conducted under subsection (a) shall be publ
 
 #### Definitions
 
-Pub. L. 115–73, title I, §101, Oct. 26, 2017, 131 Stat. 1235, provided that: "In this title \[enacting sections 2307 and7515 of this title, amending sections 1214, 1221, 2302, 4505a, and 5755 of this title and sections 3657 and 3673 of Title 22, Foreign Relations and Intercourse, enacting provisions set out as notes under this section and section 2301 of this title, and amending provisions set out as a note under section 2302 of this title\]—
+Pub. L. 115–73, title I, §101, Oct. 26, 2017, 131 Stat. 1235, provided that: "In this title \[enacting sections 2307 and 7515 of this title, amending sections 1214, 1221, 2302, 4505a, and 5755 of this title and sections 3657 and 3673 of Title 22, Foreign Relations and Intercourse, enacting provisions set out as notes under this section and section 2301 of this title, and amending provisions set out as a note under section 2302 of this title\]—
 
 &emsp;"(1) the term 'agency'—
 

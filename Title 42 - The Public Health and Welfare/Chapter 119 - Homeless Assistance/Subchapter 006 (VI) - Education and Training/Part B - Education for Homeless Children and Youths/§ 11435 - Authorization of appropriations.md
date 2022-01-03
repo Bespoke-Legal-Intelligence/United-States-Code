@@ -4,6 +4,8 @@ There are authorized to be appropriated to carry out this part $85,000,000 for e
 
 (Pub. L. 100–77, title VII, §726, as added Pub. L. 107–110, title X, §1032, Jan. 8, 2002, 115 Stat. 2006; amended Pub. L. 110–289, div. B, title IX, §2901(a), July 30, 2008, 122 Stat. 2875; Pub. L. 114–95, title IX, §9106, Dec. 10, 2015, 129 Stat. 2137.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 11435, Pub. L. 100–77, title VII, §726, as added Pub. L. 103–382, title III, §323, Oct. 20, 1994, 108 Stat. 3965, authorized appropriations, prior to the general amendment of this part by Pub. L. 107–110.
@@ -15,6 +17,8 @@ Another prior section 11435, Pub. L. 100–77, title VII, §726, formerly §725,
 <b>2015</b>—Pub. L. 114–95, §9106, amended section generally. Prior to amendment, text read as follows: "For the purpose of carrying out this part, there are authorized to be appropriated $100,000,000 for fiscal year 2009 and such sums as may be necessary for each subsequent fiscal year."
 
 <b>2008</b>—Pub. L. 110–289 substituted "$100,000,000 for fiscal year 2009 and such sums as may be necessary for each subsequent fiscal year" for "$70,000,000 for fiscal year 2002 and such sums as may be necessary for each of fiscal years 2003 through 2007".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

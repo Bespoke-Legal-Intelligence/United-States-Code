@@ -24,6 +24,8 @@ Subchapter B of chapter 63 (relating to deficiency procedures) shall not apply w
 
 (Added Pub. L. 97–248, title III, §322(a), Sept. 3, 1982, 96 Stat. 612; amended Pub. L. 101–239, title VII, §§7736(a), 7737(a), Dec. 19, 1989, 103 Stat. 2404.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1989</b>—Subsec. (c)(1). Pub. L. 101–239, §7737(a), inserted at end "Nothing in this paragraph shall be construed to prohibit any counterclaim for the remainder of such penalty in a proceeding begun as provided in paragraph (2)."
@@ -31,6 +33,8 @@ Subchapter B of chapter 63 (relating to deficiency procedures) shall not apply w
 Pub. L. 101–239, §7736(a), substituted "section 6700 or 6701" for "section 6700, 6701, or 6702".
 
 Subsec. (c)(2). Pub. L. 101–239, §7736(a), substituted "section 6700 or 6701" for "section 6700, 6701, or 6702".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1989 Amendment
 

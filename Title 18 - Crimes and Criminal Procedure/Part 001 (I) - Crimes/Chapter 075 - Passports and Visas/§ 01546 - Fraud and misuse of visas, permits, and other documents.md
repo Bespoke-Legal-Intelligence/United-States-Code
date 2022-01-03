@@ -42,7 +42,7 @@ The immigration laws, referred to in subsec. (a), are classified generally to Ti
 
 Section 274A(b) of the Immigration and Nationality Act, referred to in subsec. (b), is classified to section 1324a(b) of Title 8.
 
-Title V of the Organized Crime Control Act of 1970, referred to in subsec. (c), is title V of Pub. L. 91–452,Oct. 15, 1970, 84 Stat. 933, which was set out as a note preceding section 3481 of this title, and was repealed by Pub. L. 98–473, title II, §1209(b), Oct. 12, 1984, 98 Stat. 2163. See section 3521 et seq. of this title.
+Title V of the Organized Crime Control Act of 1970, referred to in subsec. (c), is title V of Pub. L. 91–452, Oct. 15, 1970, 84 Stat. 933, which was set out as a note preceding section 3481 of this title, and was repealed by Pub. L. 98–473, title II, §1209(b), Oct. 12, 1984, 98 Stat. 2163. See section 3521 et seq. of this title.
 
 #### Amendments
 
@@ -80,7 +80,7 @@ Pub. L. 103–322, title XXXIII, §330011(p), Sept. 13, 1994, 108 Stat. 2145, pr
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–525 effective as if included in enactment of Immigration Reform and Control Act of 1986, Pub. L. 99–603, see section 2(s) of Pub. L. 100–525, set out as a note under section 1101 of Title 8, Aliens and Nationality.
+Amendment by Pub. L. 100–525 effective as if included in enactment of Immigration Reform and Control Actof 1986, Pub. L. 99–603, see section 2(s) of Pub. L. 100–525, set out as a note under section 1101 of Title 8, Aliens and Nationality.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

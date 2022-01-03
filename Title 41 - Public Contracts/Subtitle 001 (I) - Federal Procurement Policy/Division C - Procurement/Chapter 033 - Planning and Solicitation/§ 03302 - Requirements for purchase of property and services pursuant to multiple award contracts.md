@@ -16,9 +16,9 @@ Individual purchase.—The term "individual purchase" means a task order, delive
 
 Multiple award contract.—The term "multiple award contract" means—
 
-&emsp;&emsp;(A) a contract that is entered into by the Administrator of General Services under the multiple award schedule program referred to in section 2302(2)(C) of title 10;
+&emsp;&emsp;(A) a contract that is entered into by the Administrator of General Services under the multiple award schedule program referred to in section 3012(3) of title 10;
 
-&emsp;&emsp;(B) a multiple award task order contract that is entered into under the authority of sections 2304a to 2304d of title 10, or chapter 41 of this title; and
+&emsp;&emsp;(B) a multiple award task order contract that is entered into under the authority of chapter 245 of title 10 or chapter 41 of this title; and
 
 &emsp;&emsp;(C) any other indefinite delivery, indefinite quantity contract that is entered into by the head of an executive agency with 2 or more sources pursuant to the same solicitation.
 
@@ -40,7 +40,7 @@ In general.—The regulations required by subsection (b) shall provide that each
 
 &emsp;&emsp;(A) waives the requirement on the basis of a determination that—
 
-&emsp;&emsp;&emsp;(i) one of the circumstances described in paragraphs (1) to (4) of section 4106(c) of this title or section 2304c(b) of title 10 applies to the individual purchase; or
+&emsp;&emsp;&emsp;(i) one of the circumstances described in paragraphs (1) to (4) of section 4106(c) of this title or section 3406(c) of title 10 applies to the individual purchase; or
 
 &emsp;&emsp;&emsp;(ii) a law expressly authorizes or requires that the purchase be made from a specified source; and
 
@@ -80,7 +80,7 @@ Public notice required.—The Federal Acquisition Regulation shall require the h
 
 &emsp;&emsp;(A) publish on FedBizOpps notice of all sole source task or delivery orders in excess of the simplified acquisition threshold that are placed against multiple award contracts not later than 14 days after the orders are placed, except in the event of extraordinary circumstances or classified orders; and
 
-&emsp;&emsp;(B) disclose the determination required by subsection (c)(1) related to sole source task or delivery orders in excess of the simplified acquisition threshold placed against multiple award contracts through the same mechanism and to the same extent as the disclosure of documents containing a justification and approval required by section 2304(f)(1) of title 10 and section 3304(e)(1) of this title, except in the event of extraordinary circumstances or classified orders.
+&emsp;&emsp;(B) disclose the determination required by subsection (c)(1) related to sole source task or delivery orders in excess of the simplified acquisition threshold placed against multiple award contracts through the same mechanism and to the same extent as the disclosure of documents containing a justification and approval required by section 3204(e)(1) of title 10 and section 3304(e)(1) of this title, except in the event of extraordinary circumstances or classified orders.
 
 &emsp;(2)
 
@@ -88,13 +88,13 @@ Exemption.—This subsection does not require the public availability of informa
 
 (e)
 
-Applicability.—The regulations required by subsection (b) shall apply to all individual purchases of property or services that are made under multiple award contracts on or after the effective date of the regulations, without regardto whether the multiple award contracts were entered into before, on, or after the effective date.
+Applicability.—The regulations required by subsection (b) shall apply to all individual purchases of property or services that are made under multiple award contracts on or after the effective date of the regulations, without regard to whether the multiple award contracts were entered into before, on, or after the effective date.
 
 (f)
 
 Commercial Leasing Services.—The regulations required by subsection (b) shall not apply to individual purchases for commercial leasing services that are made on a no cost basis and made under a multiple award contract awarded in accordance with the requirements for full and open competition.
 
-(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3746; Pub. L. 111–383, div. A, title X, §1075(e)(14), Jan. 7, 2011, 124 Stat. 4375; Pub. L. 116–92, div. A, title VIII, §893(b), Dec. 20, 2019, 133 Stat. 1540.)
+(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3746; Pub. L. 111–383, div. A, title X, §1075(e)(14), Jan. 7, 2011, 124 Stat. 4375; Pub. L. 116–92, div. A, title VIII, §893(b), Dec. 20, 2019, 133 Stat. 1540; Pub. L. 117–81, div. A, title XVII, §1702(h)(12), Dec. 27, 2021, 135 Stat. 2158.)
 
 #### Amendment Not Shown in Text
 
@@ -131,6 +131,12 @@ In subsection (d)(1), the words "Not later than one year after the date of the e
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(3). Pub. L. 117–81, §1702(h)(12)(A), substituted "section 3012(3)" for "section 2302(2)(C)" in subpar. (A) and "chapter 245 of title 10" for "sections 2304a to 2304d of title 10," in subpar. (B).
+
+Subsec. (c)(1)(A)(i). Pub. L. 117–81, §1702(h)(12)(B), substituted "section 3406(c)" for "section 2304c(b)".
+
+Subsec. (d)(1)(B). Pub. L. 117–81, §1702(h)(12)(C), substituted "section 3204(e)(1)" for "section 2304(f)(1)".
 
 <b>2019</b>—Subsec. (f). Pub. L. 116–92, §893(b)(2), struck out subsec. (f). Text read as follows: "The regulations required by subsection (b) shall not apply to individual purchases for commercial leasing services that are made on a no cost basis and made under a multiple award contract awarded in accordance with the requirements for full and open competition."
 

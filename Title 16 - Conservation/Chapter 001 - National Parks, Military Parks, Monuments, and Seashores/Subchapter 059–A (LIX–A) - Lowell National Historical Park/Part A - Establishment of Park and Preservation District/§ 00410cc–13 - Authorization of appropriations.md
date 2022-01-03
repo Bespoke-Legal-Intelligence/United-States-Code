@@ -24,9 +24,13 @@ Funds appropriated under subsection (a) of this section shall remain available u
 
 (Pub. L. 95–290, title I, §103, June 5, 1978, 92 Stat. 292; Pub. L. 100–134, §1(1), Oct. 16, 1987, 101 Stat. 810.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1987</b>—Subsec. (a). Pub. L. 100–134 substituted "$19,800,000" for "$18,500,000" in par. (1), and "$33,600,000" for "$21,500,000" in par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1987 Amendment
 

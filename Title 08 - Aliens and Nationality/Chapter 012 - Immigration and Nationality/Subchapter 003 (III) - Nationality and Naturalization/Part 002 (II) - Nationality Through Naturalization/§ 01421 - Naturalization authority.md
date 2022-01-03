@@ -102,13 +102,15 @@ Pub. L. 102–232, §305(a), substituted "district court" for "District Court".
 
 <b>1958</b>—Subsec. (a). Pub. L. 85–508 struck out provisions which conferred jurisdiction on District Court for Territory of Alaska. See section 81A of Title 28, which established a United States District Court for the State of Alaska.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–416 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 219(dd) of Pub. L. 103–416, set out as a note under section 1101 of this title.
 
 #### Effective Date of 1991 Amendment
 
-Pub. L. 102–232, title I, §102(c), Dec. 12, 1991, 105 Stat. 1736, provided that: "The amendments made by this title \[amending this section and sections 1448, 1450, and 1455 of this title\] shall take effect 30 days after the date of the enactment of this Act \[Dec. 12, 1991\]."
+Pub. L. 102–232, title I, §102(c), Dec. 12, 1991, 105 Stat. 1736, provided that: "The amendments made by thistitle \[amending this section and sections 1448, 1450, and 1455 of this title\] shall take effect 30 days after the date of the enactment of this Act \[Dec. 12, 1991\]."
 
 Amendment by section 305(a) of Pub. L. 102–232 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 310(1) of Pub. L. 102–232, set out as a note under section 1101 of this title.
 
@@ -165,6 +167,8 @@ Filipino War Veterans.—Section 405 \[enacting provisions formerly set out as a
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Admission of Alaska and Hawaii to Statehood
 

@@ -2,7 +2,7 @@
 
 #### (a) Designation
 
-Subject to valid existing rights, the Federal lands and interests in lands included within the withdrawal boundary as depicted on the map referred to in section 460nnn–11(a) of this title are hereby withdrawn from—
+Subject to valid existing rights, the Federal lands and interests in lands included within thewithdrawal boundary as depicted on the map referred to in section 460nnn–11(a) of this title are hereby withdrawn from—
 
 &emsp;(1) location, entry and patent under the mining laws; and
 
@@ -13,6 +13,8 @@ Subject to valid existing rights, the Federal lands and interests in lands inclu
 If consistent with the purposes of this subchapter and the management plan for the Cooperative Management and Protection Area, the Secretary may permit the development of saleable mineral resources, for road maintenance use only, in those locations identified on the map referred to in section 460nnn–11(a) of this title as an existing "gravel pit" within the mineral withdrawal boundaries (excluding the Wilderness Area, wilderness study areas, and designated segments of the National Wild and Scenic Rivers System) where such development was authorized before October 30, 2000.
 
 (Pub. L. 106–399, title IV, §401, Oct. 30, 2000, 114 Stat. 1669.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

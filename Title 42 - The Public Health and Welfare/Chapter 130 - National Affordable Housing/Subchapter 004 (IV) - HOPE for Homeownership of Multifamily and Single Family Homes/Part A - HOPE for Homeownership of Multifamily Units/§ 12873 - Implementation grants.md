@@ -78,7 +78,7 @@ Implementation grants may be used for activities to carry out homeownership prog
 
 &emsp;&emsp;(D) a description of the proposed homeownership program, consistent with section 12874 <sup>1</sup> of this title and the other requirements of this part, specifying the activities proposed to be carried out and their estimated costs, identifying reasonable schedules for carrying it out, and demonstrating the program will comply with the affordability requirements under section 12874(b) <sup>1</sup> of this title;
 
-&emsp;&emsp;(E) identification and description of the property involved, and a description of the composition of the tenants, including family size and income;
+&emsp;&emsp;(E) identification and description of the property involved, and a description of thecomposition of the tenants, including family size and income;
 
 &emsp;&emsp;(F) a description of and commitment for the resources that are expected to be made available to provide the matching funding required under subsection (c) and of other resources that are expected to be made available in support of the homeownership program;
 
@@ -119,6 +119,8 @@ The Secretary shall establish selection criteria for assistance under this secti
 The Secretary shall notify each applicant, not later than 6 months after the date of the submission of the application, whether the application is approved or not approved. The Secretary may approve the application for an implementation grant with a statement that the application for the section 8 \[42 U.S.C. 1437f\] assistance for residents of the project not purchasing units is conditionally approved, subject to the availability of appropriations in subsequent fiscal years.
 
 (Pub. L. 101–625, title IV, §423, Nov. 28, 1990, 104 Stat. 4163; Pub. L. 102–550, title X, §1012(i)(2), Oct. 28, 1992, 106 Stat. 3906.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

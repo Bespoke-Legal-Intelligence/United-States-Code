@@ -20,7 +20,13 @@ Historical and Revision Notes
 
 Oct. 16, 1970, Pub. L. 91–458, §101, 84 Stat. 971.
 
-The words "The Congress declares that" are omitted as surplus. The words "accidents and incidents" aresubstituted for "accidents" for consistency with the source provisions restated in section 20105(b)(1)(B) of the revised title. The words "and to reduce deaths and injuries to persons and to reduce damage to property caused by accidents involving any carrier of hazardous materials" are omitted as obsolete because they applied to 49 App.:1761 and 1762, that were repealed by section 113(g) of the Hazardous Materials Transportation Act (Public Law 93–633, 88 Stat. 2163).
+The words "The Congress declares that" are omitted as surplus. The words "accidents and incidents" are substituted for "accidents" for consistency with the source provisions restated in section 20105(b)(1)(B) of the revised title. The words "and to reduce deaths and injuries to persons and to reduce damage to property caused by accidents involving any carrier of hazardous materials" are omitted as obsolete because they applied to 49 App.:1761 and 1762, that were repealed by section 113(g) of the Hazardous Materials Transportation Act (Public Law 93–633, 88 Stat. 2163).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Short Title of 2021 Amendment
+
+Pub. L. 117–58, div. B, title II, §22001, Nov. 15, 2021, 135 Stat. 694, provided that: "This title \[see Tables for classification\] may be cited as the 'Passenger Rail Expansion and Rail Safety Act of 2021'."
 
 #### Short Title of 2015 Amendment
 
@@ -42,13 +48,53 @@ Pub. L. 105–134, §1(a), Dec. 2, 1997, 111 Stat. 2570, provided that: "This Ac
 
 #### Short Title of 1994 Amendment
 
-Pub. L. 103–440, title I, §101, Nov. 2, 1994, 108 Stat. 4615, provided that: "This title \[enacting sections 26101 to 26105 of this title, renumbering former sections 26101 and 26102 of this title as 28101 and 28102 of this title, respectively, and enacting provisions set out as notes under section 26101 of this title and section 838 of Title 45, Railroads\] may be cited as the 'Swift Rail Development Act of 1994'."
+Pub. L. 103–440, title I, §101, Nov. 2, 1994, 108 Stat. 4615, provided that: "This title \[enacting sections 26101to 26105 of this title, renumbering former sections 26101 and 26102 of this title as 28101 and 28102 of this title, respectively, and enacting provisions set out as notes under section 26101 of this title and section 838 of Title 45, Railroads\] may be cited as the 'Swift Rail Development Act of 1994'."
 
 Pub. L. 103–440, title II, §201, Nov. 2, 1994, 108 Stat. 4619, provided that: "This title \[enacting sections 20145 to 20151 and 21108 of this title, amending sections 103, 20103, 20111, 20116, 20117, 20133, 20142, and 21303 of this title, and enacting provisions set out as a note under section 11504 of this title\] may be cited as the 'Federal Railroad Safety Authorization Act of 1994'."
 
+#### Data Accessibility
+
+Pub. L. 117–58, div. B, title II, §22405, Nov. 15, 2021, 135 Stat. 738, provided that:
+
+"(a)
+
+Review.—Not later than 180 days after the date of enactment of this Act \[Nov. 15, 2021\], the Chief Information Officer of the Department \[of Transportation\] shall—
+
+&emsp;"(1) conduct a review of the website of the Office of Safety Analysis of the Federal Railroad Administration; and
+
+&emsp;"(2) provide recommendations to the Secretary \[of Transportation\] for improving the public's usability and accessibility of the website referred to in paragraph (1).
+
+"(b)
+
+Updates.—Not later than 1 year after receiving recommendations from the Chief Information Officer pursuant to subsection (a)(2), the Secretary, after considering such recommendations, shall update the website of the Office of Safety Analysis of the Federal Railroad Administration to improve the usability and accessibility of the website."
+
+#### Federal Railroad Administration Reporting Requirements
+
+Pub. L. 117–58, div. B, title II, §22421(a), Nov. 15, 2021, 135 Stat. 750, provided that:
+
+"(a)
+
+Elimination of Duplicative or Unnecessary Reporting or Paperwork Requirements in the Federal Railroad Administration.—
+
+&emsp;"(1)
+
+Review.—The Administrator of the Federal Railroad Administration (referred to in this subsection as the 'FRA Administrator'), in consultation with the Administrator of the Federal Transit Administration, shall conduct a review of existing reporting and paperwork requirements in the Federal Railroad Administration to determine if any such requirements are duplicative or unnecessary.
+
+&emsp;"(2)
+
+Elimination of certain requirements.—If the FRA Administrator determines, as a result of the review conducted pursuant to paragraph (1), that any reporting or paperwork requirement that is not statutorily required is duplicative or unnecessary, the FRA Administrator, after consultation with the Administrator of the Federal Transit Administration, shall terminate such requirement.
+
+&emsp;"(3)
+
+Report.—Not later than 1 year after the date of enactment of this Act \[Nov. 15, 2021\], the FRA Administrator shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives that—
+
+&emsp;&emsp;"(A) identifies all of the reporting or paperwork requirements that were terminated pursuant to paragraph (2); and
+
+&emsp;&emsp;"(B) identifies any statutory reporting or paperwork requirements that are duplicative or unnecessary and should be repealed."
+
 #### Shared-Use Study
 
-Pub. L. 114–94, div. A, title XI, §11311, Dec. 4, 2015, 129 Stat. 1670, provided that:
+Pub. L. 114–94, div. A, title XI, §11311, Dec. 4, 2015, 129 Stat. 1670, as amended by Pub. L. 117–58, div. B, title I, §21301(j)(4)(C), Nov. 15, 2021, 135 Stat. 693, provided that:
 
 "(a)
 
@@ -112,11 +158,11 @@ Report.—Not later than 60 days after the study under subsection (a) is complet
 
 "(d)
 
-Implementation.—The Secretary shall integrate, as appropriate, the recommendations submitted under subsection (c) into the financial assistance programs under subtitle V of title 49, United States Code, and section 502 of the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 822)."
+Implementation.—The Secretary shall integrate, as appropriate, the recommendations submitted under subsection (c) into the financial assistance programs under subtitle V of title 49, United States Code."
 
 #### Railroad Safety Strategy
 
-Pub. L. 110–432, div. A, title I, §102, Oct. 16, 2008, 122 Stat. 4852, as amended by Pub. L. 114–94, div. A, title XI, §11316(j)(3), Dec. 4, 2015, 129 Stat. 1677, provided that:
+Pub. L. 110–432, div. A, title I, §102, Oct. 16, 2008, 122 Stat. 4852, as amended by Pub. L. 114–94, div. A, titleXI, §11316(j)(3), Dec. 4, 2015, 129 Stat. 1677, provided that:
 
 "(a)
 

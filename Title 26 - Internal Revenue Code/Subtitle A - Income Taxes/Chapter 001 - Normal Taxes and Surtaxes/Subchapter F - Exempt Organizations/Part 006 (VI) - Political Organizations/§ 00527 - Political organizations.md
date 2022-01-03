@@ -212,7 +212,7 @@ For purposes of this section—
 
 #### (2) Time to give notice
 
-&emsp;The notice required under paragraph (1) shall be transmitted not later than 24 hours after the date on which the organization is established or, in the case of any material change in the information required under paragraph (3), not later than 30 days after such material change.
+&emsp;The notice required under paragraph (1) shall be transmitted not later than 24 hoursafter the date on which the organization is established or, in the case of any material change in the information required under paragraph (3), not later than 30 days after such material change.
 
 #### (3) Contents of notice
 
@@ -346,7 +346,7 @@ For purposes of this section—
 
 &emsp;&emsp;(G) Time periods of the notices and reports.
 
-> Such database shall be downloadable.
+> &emsp;Such database shall be downloadable.
 
 #### (l) Authority to waive
 
@@ -358,7 +358,9 @@ The Secretary may waive all or any portion of the—
 
 > on a showing that such failure was due to reasonable cause and not due to willful neglect.
 
-(Added Pub. L. 93–625, §10(a), Jan. 3, 1975, 88 Stat. 2116; amended Pub. L. 94–455, title XIX, §1901(b)(33)(C), Oct. 4, 1976, 90 Stat. 1801; Pub. L. 95–502, title III, §302(a), Oct. 21, 1978, 92 Stat. 1702; Pub. L. 95–600, title III, §301(b)(6), Nov. 6, 1978, 92 Stat. 2821; Pub. L. 97–34, title I, §128(a), Aug. 13, 1981, 95 Stat. 203; Pub. L. 98–369, div. A, title IV, §474(r)(16), title VII, §722(c), July 18, 1984, 98 Stat. 843, 973; Pub. L. 99–514, title I, §112(b)(1), Oct. 22, 1986, 100 Stat. 2108; Pub. L. 100–647, title I, §1001(b)(3)(B), Nov. 10, 1988, 102Stat. 3349; Pub. L. 106–230, §§1(a), 2(a), July 1, 2000, 114 Stat. 477, 479; Pub. L. 107–276, §§1(a), 2(a), (b), 5(a), 6(a)–(c), (e)–(g), Nov. 2, 2002, 116 Stat. 1929, 1932–1934; Pub. L. 113–295, div. A, title II, §220(l), Dec. 19, 2014, 128 Stat. 4036; Pub. L. 115–97, title I, §13001(b)(2)(D), Dec. 22, 2017, 131 Stat. 2096; Pub. L. 116–25, title III, §3101(b)(1), July 1, 2019, 133 Stat. 1015.)
+(Added Pub. L. 93–625, §10(a), Jan. 3, 1975, 88 Stat. 2116; amended Pub. L. 94–455, title XIX, §1901(b)(33)(C), Oct. 4, 1976, 90 Stat. 1801; Pub. L. 95–502, title III, §302(a), Oct. 21, 1978, 92 Stat. 1702; Pub. L. 95–600, title III, §301(b)(6), Nov. 6, 1978, 92 Stat. 2821; Pub. L. 97–34, title I, §128(a), Aug. 13, 1981, 95 Stat. 203; Pub. L. 98–369, div. A, title IV, §474(r)(16), title VII, §722(c), July 18, 1984, 98 Stat. 843, 973; Pub. L. 99–514, title I, §112(b)(1), Oct. 22, 1986, 100 Stat. 2108; Pub. L. 100–647, title I, §1001(b)(3)(B), Nov. 10, 1988, 102 Stat. 3349; Pub. L. 106–230, §§1(a), 2(a), July 1, 2000, 114 Stat. 477, 479; Pub. L. 107–276, §§1(a), 2(a), (b), 5(a), 6(a)–(c), (e)–(g), Nov. 2, 2002, 116 Stat. 1929, 1932–1934; Pub. L. 113–295, div. A, title II, §220(l), Dec. 19, 2014, 128 Stat. 4036; Pub. L. 115–97, title I, §13001(b)(2)(D), Dec. 22, 2017, 131 Stat. 2096; Pub. L. 116–25, title III, §3101(b)(1), July 1, 2019, 133 Stat. 1015.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -430,6 +432,8 @@ Subsec. (c)(3)(D). Pub. L. 95–502 added subpar. (D).
 
 <b>1976</b>—Subsec. (b)(2). Pub. L. 94–455 substituted "net capital gain" for "net section 1201 gain" after "organization has a".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2019 Amendment
 
 Pub. L. 116–25, title III, §3101(d), July 1, 2019, 133 Stat. 1015, provided that:
@@ -472,7 +476,7 @@ Pub. L. 107–276, §1(b), Nov. 2, 2002, 116 Stat. 1929, provided that: "The ame
 
 Pub. L. 107–276, §2(c), Nov. 2, 2002, 116 Stat. 1931, provided that: "The amendments made by this section \[amending this section\] shall take effect as if included in the amendments made by Public Law 106–230."
 
-Pub. L. 107–276, §5(b), Nov. 2, 2002, 116 Stat. 1932, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to any tax assessed or amount imposed after June 30, 2000."
+Pub. L. 107–276, §5(b), Nov. 2, 2002, 116 Stat. 1932, provided that: "The amendment made by subsection (a)\[amending this section\] shall apply to any tax assessed or amount imposed after June 30, 2000."
 
 Pub. L. 107–276, §6(h)(1), (2), Nov. 2, 2002, 116 Stat. 1934, provided that:
 
@@ -586,5 +590,5 @@ In General.—The Secretary of the Treasury, in consultation with the Federal El
 
 "(b)
 
-Information.—Information provided under subsection (a) shall be included in any appropriate form, instruction, notice, or other guidance issued to the public by the Secretary of the Treasury or the Federal Election Commission regarding reporting requirements of political organizations (as defined in section 527 of the Internal Revenue Code of 1986) or reporting requirements under the Federal Election Campaign Act of 1971 \[52 U.S.C. 30101 et seq.\]."
+Information.—Information provided under subsection (a) shall be included in any appropriate form, instruction, notice, or other guidance issued to the public by the Secretary of the Treasury or the Federal Election Commission regarding reporting requirements of political organizations (as defined in section 527 ofthe Internal Revenue Code of 1986) or reporting requirements under the Federal Election Campaign Act of 1971 \[52 U.S.C. 30101 et seq.\]."
 

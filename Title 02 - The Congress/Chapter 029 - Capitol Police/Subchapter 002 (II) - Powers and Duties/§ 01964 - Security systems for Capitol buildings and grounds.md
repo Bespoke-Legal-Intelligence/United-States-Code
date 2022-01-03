@@ -40,7 +40,7 @@ Effective October 1, 1995, the responsibility for design and installation of sec
 
 The paragraph under the heading "
 
-capitol buildings", under the general headings "JOINT ITEMS", "ARCHITECT OF THE CAPITOL", and "
+capitol buildings", under the general headings "JOINT ITEMS","ARCHITECT OF THE CAPITOL", and "
 
 Capitol Buildings and Grounds" in title I of the Legislative Branch Appropriations Act, 1995, referred to in subsec. (a)(2)(A), is contained in Pub. L. 103–283, title I, July 22, 1994, 108 Stat. 1423, 1434, and is not classified to the Code.
 

@@ -4,9 +4,13 @@ Under such regulations and conditions as may be prescribed by the Secretary of t
 
 (June 28, 1916, ch. 180, 39 Stat. 239; Pub. L. 91–271, title III, §310, June 2, 1970, 84 Stat. 292.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1970</b>—Pub. L. 91–271 substituted reference to the appropriate customs officer for reference to the collector of customs.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1970 Amendment
 

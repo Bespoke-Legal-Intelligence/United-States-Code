@@ -4,9 +4,13 @@ Subject to other provisions of this title, reserve commissioned officers may be 
 
 (Added Pub. L. 103–337, div. A, title XVI, §1662(i)(1), Oct. 5, 1994, 108 Stat. 2997.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 1162(a) of this title, prior to repeal by Pub. L. 103–337, §1662(i)(2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -198,7 +202,7 @@ Annual Payment Period.—An annual payment granted to a member under this sectio
 
 "(e)
 
-Computation of Annual Payment.—(1) The annual payment for a member shall be equal to theamount determined by multiplying the product of 12 and the applicable percent under paragraph (2) by the monthly basic pay to which the member would be entitled if the member were serving on active duty as of the date the member is transferred to the Retired Reserve.
+Computation of Annual Payment.—(1) The annual payment for a member shall be equal to the amount determined by multiplying the product of 12 and the applicable percent under paragraph (2) by the monthly basic pay to which the member would be entitled if the member were serving on active duty as of the date the member is transferred to the Retired Reserve.
 
 "(2)(A) Subject to subparagraph (B) the percent applicable to a member for purposes of paragraph (1) is 5 percent plus 0.5 percent for each full year of service, computed under section 12732 of title 10, United States Code, that a member has completed in excess of 20 years before transfer to the Retired Reserve.
 

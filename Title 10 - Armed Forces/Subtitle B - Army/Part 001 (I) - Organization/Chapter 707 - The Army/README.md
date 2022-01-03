@@ -22,6 +22,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232, div. A, title VIII, §808(e)(1), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 307 of this title as this chapter and items 3061 to 3084 as 7061 to 7084, respectively.

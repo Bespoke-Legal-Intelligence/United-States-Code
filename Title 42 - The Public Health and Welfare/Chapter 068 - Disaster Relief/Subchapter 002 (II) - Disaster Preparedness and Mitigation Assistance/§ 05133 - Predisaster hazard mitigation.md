@@ -18,7 +18,7 @@ If the President determines that a State or local government has identified natu
 
 #### (A) Recommendations
 
-&emsp;&emsp;The Governor of each State may recommend to the President not fewer than fivelocal governments to receive assistance under this section.
+&emsp;&emsp;The Governor of each State may recommend to the President not fewer than five local governments to receive assistance under this section.
 
 #### (B) Deadline for submission
 
@@ -180,7 +180,7 @@ Not later than 18 months after October 30, 2000, the President, in consultation 
 
 #### (1) Definition
 
-&emsp;In this subsection, the term "congressionally directed spending" means a statutory provision or report language included primarily at the request of a Senator or a Member, Delegate or Resident Commissioner of the House ofRepresentatives providing, authorizing, or recommending a specific amount of discretionary budget authority, credit authority, or other spending authority for a contract, loan, loan guarantee, grant, loan authority, or other expenditure with or to an entity, or targeted to a specific State, locality, or Congressional district, other than through a statutory or administrative formula-driven or competitive award process.
+&emsp;In this subsection, the term "congressionally directed spending" means a statutory provision or report language included primarily at the request of a Senator or a Member, Delegate or Resident Commissioner of the House of Representatives providing, authorizing, or recommending a specific amount of discretionary budget authority, credit authority, or other spending authority for a contract, loan, loan guarantee, grant, loan authority, or other expenditure with or to an entity, or targeted to a specific State, locality, or Congressional district, other than through a statutory or administrative formula-driven or competitive award process.
 
 #### (2) Prohibition
 
@@ -192,13 +192,15 @@ Not later than 18 months after October 30, 2000, the President, in consultation 
 
 #### (m) Latest published editions
 
-For purposes of subsections (e)(1)(B)(iv) and (g)(10), the term "latest published editions" means, with respect to relevant consensus-based codes, specifications, and standards, the 2 most recently published editions.
+For purposes of subsections (e)(1)(B)(iv) and (g)(10), the term "latest published editions"means, with respect to relevant consensus-based codes, specifications, and standards, the 2 most recently published editions.
 
 (Pub. L. 93–288, title II, §203, as added Pub. L. 106–390, title I, §102(a), Oct. 30, 2000, 114 Stat. 1553; amended Pub. L. 108–199, div. H, §135, Jan. 23, 2004, 118 Stat. 441; Pub. L. 108–447, div. J, title I, §105, Dec. 8, 2004, 118 Stat. 3343; Pub. L. 109–139, §2, Dec. 22, 2005, 119 Stat. 2649; Pub. L. 110–329, div. D, title V, §553, Sept. 30, 2008, 122 Stat. 3690; Pub. L. 111–83, title V, §543, Oct. 28, 2009, 123 Stat. 2176; Pub. L. 111–351, §§3(a), (b), 4, Jan. 4, 2011, 124 Stat. 3864; Pub. L. 115–254, div. D, §1234(a), (d), Oct. 5, 2018, 132 Stat. 3461, 3463.)
 
 #### Amendment of Section
 
 <i>Pub. L. 115–254, div. D, §1234(d), Oct. 5, 2018, 132 Stat. 3463, provided that, effective 5 years after Oct. 5, 2018, this section is amended by striking subsection (m). See 2018 Amendment note below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -243,6 +245,8 @@ Subsec. (n). Pub. L. 111–351, §4, added subsec. (n).
 <b>2004</b>—Subsec. (m). Pub. L. 108–447 substituted "2005" for "2004".
 
 Pub. L. 108–199 substituted "2004" for "2003".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

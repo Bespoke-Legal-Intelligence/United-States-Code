@@ -56,7 +56,7 @@ Sec. 4. <i>General provisions</i>. (a) As used in this order, the words "functio
 
 (b) The Corporation shall be deemed to be the successor of the Agency for International Development and the Administrator thereof, with respect to all functions vested in the Corporation pursuant to law.
 
-(c) Except to the extent that they may be inconsistent with this order, all determinations, authorizations, regulations, rulings, certificates, orders, directives, contracts, agreements, and other actions made,issued, or entered into with respect to any function affected by this order and not revoked, superseded or otherwise made inapplicable before the date of this order, shall continue in full force and effect until amended, modified, or terminated by appropriate authority.
+(c) Except to the extent that they may be inconsistent with this order, all determinations, authorizations, regulations, rulings, certificates, orders, directives, contracts, agreements, and other actions made, issued, or entered into with respect to any function affected by this order and not revoked, superseded or otherwise made inapplicable before the date of this order, shall continue in full force and effect until amended, modified, or terminated by appropriate authority.
 
 (d) Executive Order No. 10973 of November 3, 1961, as amended \[formerly set out as a note under section 2381 of this title\], is hereby superseded insofar as any provision therein is in conflict with any provision herein.
 

@@ -41,6 +41,8 @@ Under regulations prescribed by the Secretary, rules similar to the rules of sec
 
 (Added Pub. L. 91–172, title II, §214(a), Dec. 30, 1969, 83 Stat. 572; amended Pub. L. 94–455, title XIX, §§1901(b)(3)(K), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1793, 1834; Pub. L. 98–369, div. A, title IV, §492(b)(5), July 18, 1984, 98 Stat. 854; Pub. L. 99–514, title IV, §402(b)(2), Oct. 22, 1986, 100 Stat. 2221; Pub. L. 113–295, div. A, title II, §221(a)(85), Dec. 19, 2014, 128 Stat. 4049; Pub. L. 115–141, div. U, title IV, §401(b)(32), Mar. 23, 2018, 132 Stat. 1204.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a)(1). Pub. L. 115–141, §401(b)(32)(A), struck out "during a taxable year beginning" after "disposed of" in introductory provisions.
@@ -61,6 +63,8 @@ Subsec. (a)(1)(A). Pub. L. 113–295, §221(a)(85)(B), struck out "after Decembe
 
 Subsec. (b). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2014 Amendment
 
 Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
@@ -75,7 +79,7 @@ Amendment by Pub. L. 98–369 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1901(b)(3)(K) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976,see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
+Amendment by section 1901(b)(3)(K) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
 #### Effective Date
 

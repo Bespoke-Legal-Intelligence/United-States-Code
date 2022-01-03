@@ -6,7 +6,7 @@ The Secretary shall administer the recreation areas in a manner which in his jud
 
 #### (b) Lands withdrawn from location, entry, and patent under mining laws; removal of minerals
 
-The lands within the recreation areas, subject to valid existing rights, are hereby withdrawn from all forms of appropriation or disposal under the public land laws, including location, entry, and patent under the United States mining laws, and disposition under the United States mineral leasing laws: <i>Provided, however</i>, That within that portion of the Lake Chelan National Recreation Area which is not designated as wilderness, sand, rock and gravel may be made available for sale to the residents of Stehekin for local use so long as such sale and disposal does not have significant adverse effects on the administration of the Lake Chelan National Recreation Area.
+The lands within the recreation areas, subject to valid existing rights, are hereby withdrawn from all forms of appropriation or disposal under the public land laws, including location,entry, and patent under the United States mining laws, and disposition under the United States mineral leasing laws: <i>Provided, however</i>, That within that portion of the Lake Chelan National Recreation Area which is not designated as wilderness, sand, rock and gravel may be made available for sale to the residents of Stehekin for local use so long as such sale and disposal does not have significant adverse effects on the administration of the Lake Chelan National Recreation Area.
 
 #### (c) Receipts, disposition
 
@@ -21,6 +21,8 @@ The Secretary shall permit hunting and fishing on lands and waters under his jur
 The Secretary shall not permit the construction or use of any road within the park which would provide vehicular access from the North Cross State Highway to the Stehekin Road. Neither shall he permit the construction or use of any permanent road which would provide vehicular access between May Creek and Hozomeen along the east side of Ross Lake.
 
 (Pub. L. 90–544, title IV, §402, Oct. 2, 1968, 82 Stat. 928; Pub. L. 100–668, title II, §§205, 206, Nov. 16, 1988, 102 Stat. 3964.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

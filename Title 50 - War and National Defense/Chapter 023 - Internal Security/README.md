@@ -59,6 +59,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Application to Communist Party Members
 
 Application of subchapters I and II of this chapter and other provisions of the Internal Security Act of 1950, as amended, to members of the Communist Party and other subversive organizations, see section 843 of this title, and References in Text note set out under that section.

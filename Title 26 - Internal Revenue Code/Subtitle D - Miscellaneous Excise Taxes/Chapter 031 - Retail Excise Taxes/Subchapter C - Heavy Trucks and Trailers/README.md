@@ -8,6 +8,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Pub. L. 101–508, title XI, §11221(a), Nov. 5, 1990, 104 Stat. 1388–438, redesignated this subchapter, formerly subchapter B, as subchapter C.

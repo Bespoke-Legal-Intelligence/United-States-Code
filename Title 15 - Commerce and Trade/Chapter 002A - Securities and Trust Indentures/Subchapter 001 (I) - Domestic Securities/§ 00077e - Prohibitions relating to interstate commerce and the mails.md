@@ -30,6 +30,8 @@ Notwithstanding the provisions of section 77c or 77d of this title, unless a reg
 
 (May 27, 1933, ch. 38, title I, §5, 48 Stat. 77; June 6, 1934, ch. 404, title II, §204, 48 Stat. 906; Aug. 10, 1954, ch. 667, title I, §7, 68 Stat. 684; Pub. L. 111–203, title VII, §768(b), July 21, 2010, 124 Stat. 1801; Pub. L. 112–106, title I, §105(c), Apr. 5, 2012, 126 Stat. 311.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Subsecs. (d), (e). Pub. L. 112–106 added subsec. (d) and redesignated former subsec. (d) as (e).
@@ -44,6 +46,8 @@ Subsec. (c). Act Aug. 10, 1954, added subsec. (c).
 
 <b>1934</b>—Act June 6, 1934, repealed subsec. (c), the provisions of which were replaced by section 77c(a)(11) of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see section 774 of Pub. L. 111–203, set out as a note under section 77b of this title.
@@ -54,7 +58,7 @@ Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note 
 
 #### Encouraging Employee Ownership
 
-Pub. L. 115–174, title V, §507, May 24, 2018, 132 Stat. 1363, provided that: "Not later than 60 days after the date of the enactment of this Act \[May 24, 2018\], the Securities and Exchange Commission shall revise section 230.701(e) of title 17, Code of Federal Regulations, so as to increase from $5,000,000 to $10,000,000 the aggregate sales price or amount of securities sold during any consecutive 12-month period in excess of which the issuer is required under such section to deliver an additional disclosure to investors. The Commission shall index for inflation such aggregate sales price or amount every 5years to reflect the change in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics, rounding to the nearest $1,000,000."
+Pub. L. 115–174, title V, §507, May 24, 2018, 132 Stat. 1363, provided that: "Not later than 60 days after the date of the enactment of this Act \[May 24, 2018\], the Securities and Exchange Commission shall revise section 230.701(e) of title 17, Code of Federal Regulations, so as to increase from $5,000,000 to $10,000,000 the aggregate sales price or amount of securities sold during any consecutive 12-month period in excess of which the issuer is required under such section to deliver an additional disclosure to investors. The Commission shall index for inflation such aggregate sales price or amount every 5 years to reflect the change in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics, rounding to the nearest $1,000,000."
 
 #### Fair Access to Investment Research
 

@@ -8,7 +8,7 @@ Subject to subsection (e), members of the Senior Foreign Service who are serving
 
 &emsp;(2) under limited appointments with reemployment rights under section 3950 of this title as career appointees in the Senior Executive Service,
 
-> shall be eligible to compete for performance pay in accordance with this section. Performancepay shall be paid in a lump sum and shall be in addition to the basic salary prescribed under section 3962 of this title and any other award. The fact that a member of the Senior Foreign Service competing for performance pay would, as a result of the payment of such performance pay, receive compensation exceeding the compensation of any other member of the Service shall not preclude the award or its payment.
+> shall be eligible to compete for performance pay in accordance with this section. Performance pay shall be paid in a lump sum and shall be in addition to the basic salary prescribed under section 3962 of this title and any other award. The fact that a member of the Senior Foreign Service competing for performance pay would, as a result of the payment of such performance pay, receive compensation exceeding the compensation of any other member of the Service shall not preclude the award or its payment.
 
 #### (b) Criteria; limitations
 
@@ -56,7 +56,7 @@ Subsec. (e). Pub. L. 105–277, §2311(a)(2), added subsec. (e).
 
 <b>1994</b>—Subsec. (b)(4). Pub. L. 103–236 amended par. (4) generally. Prior to amendment, par. (4) read as follows: "The total amount of basic salary plus performance pay received in any fiscal year by any member of the Senior Foreign Service may not exceed the salary payable for level I of the Executive Schedule under section 5312 of title 5 as in effect at the end of that fiscal year. Any amount which is not paid to a member of the Senior Foreign Service during a fiscal year because of this limitation shall be paid to that individual in a lump sum at the beginning of the following fiscal year. Any amount paid under this authority during a fiscal year shall be taken into account for purposes of applying the limitation in the first sentence of this subparagraph with respect to such fiscal year."
 
-<b>1987</b>—Subsec. (b)(4), (5). Pub. L. 100–204 inserted at end of par. (4) "Any amount which is not paid to a memberof the Senior Foreign Service during a fiscal year because of this limitation shall be paid to that individual in a lump sum at the beginning of the following fiscal year. Any amount paid under this authority during a fiscal year shall be taken into account for purposes of applying the limitation in the first sentence of this subparagraph with respect to such fiscal year." and added par. (5).
+<b>1987</b>—Subsec. (b)(4), (5). Pub. L. 100–204 inserted at end of par. (4) "Any amount which is not paid to a member of the Senior Foreign Service during a fiscal year because of this limitation shall be paid to that individual in a lump sum at the beginning of the following fiscal year. Any amount paid under this authority during a fiscal year shall be taken into account for purposes of applying the limitation in the first sentence of this subparagraph with respect to such fiscal year." and added par. (5).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

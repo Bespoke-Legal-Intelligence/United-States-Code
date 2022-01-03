@@ -22,7 +22,7 @@ To be eligible to receive funds under this subchapter, a State must agree to imp
 
 (2) State aftercare services must involve the coordination of the correctional facility treatment program with other human service and rehabilitation programs, such as educational and job training programs, parole supervision programs, half-way house programs, and participation in self-help and peer group programs, that may aid in the rehabilitation of individuals in the substance abuse treatment program.
 
-(3) To qualify as an aftercare program, the head of the substance abuse treatment program, in conjunction with State and local authorities and organizations involved in substance abuse treatment, shall assist in placement of substance abuse treatment program participants with appropriate community substance abuse treatment facilities when such individuals leave the correctional facility at the end of a sentence or on parole.
+(3) To qualify as an aftercare program, the head of the substance abuse treatment program, in conjunction with State and local authorities and organizations involved in substance abuse treatment, shall assist in placement of substance abuse treatment program participants with appropriate community substance abusetreatment facilities when such individuals leave the correctional facility at the end of a sentence or on parole.
 
 (4) After care <sup>2</sup> services required by this subsection shall be funded through funds provided for this subchapter.
 
@@ -52,7 +52,7 @@ Section was formerly classified to section 3796ff–1 of Title 42, The Public He
 
 #### Amendments
 
-<b>2008</b>—Subsec. (c). Pub. L. 110–199 substituted "Requirement for aftercare component" for "Aftercare services requirement" in heading and amended par. (1) generally. Prior to amendment, par. (1) read as follows: "To be eligible for funding under this subchapter, a State shall ensure that individuals who participate in the substance abuse treatment program established orimplemented with assistance provided under this subchapter will be provided with after care services."
+<b>2008</b>—Subsec. (c). Pub. L. 110–199 substituted "Requirement for aftercare component" for "Aftercare services requirement" in heading and amended par. (1) generally. Prior to amendment, par. (1) read as follows: "To be eligible for funding under this subchapter, a State shall ensure that individuals who participate in the substance abuse treatment program established or implemented with assistance provided under this subchapter will be provided with after care services."
 
 <b>2006</b>—Subsec. (b). Pub. L. 109–162, §1145(a), reenacted subsec. heading without change and amended text generally. Prior to amendment, text read as follows: "To be eligible to receive funds under this subchapter, a State must agree to implement or continue to require urinalysis or other proven reliable forms of testing of individuals in correctional residential substance abuse treatment programs. Such testing shall include individuals released from residential substance abuse treatment programs who remain in the custody of the State."
 

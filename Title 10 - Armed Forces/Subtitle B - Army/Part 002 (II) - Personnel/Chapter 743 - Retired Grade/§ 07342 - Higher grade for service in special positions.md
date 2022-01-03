@@ -94,6 +94,8 @@ Act
 
 The amendment reflects section 1 of the Act of May 31, 1956, ch. 348 (70 Stat. 222), which in effect amended section 3963 of this title to cover regular officers covered by section 3962(c).
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 7342, act Aug. 10, 1956, ch. 1041, 70A Stat. 454, related to percentage of naval aircraft required to be constructed or manufactured in United States plants, prior to repeal by Pub. L. 103–160, div. A, title VIII, §824(a)(9), Nov. 30, 1993, 107 Stat. 1708.
@@ -120,9 +122,11 @@ Subsec. (c). Pub. L. 96–513, §502(19)(C), redesignated subsec. (c) as (b).
 
 <b>1958</b>—Subsecs. (c), (d). Pub. L. 85–861 redesignated former subsec. (d) as (c) and repealed former subsec. (c) which related to retirement of commissioned officers who served as Director or Deputy Director of the Women's Army Corps, Chief of the Army Nurse Corps, or Chief or assistant chief of the Women's Medical Specialist Corps.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments andspecial rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 1980 Amendment
 

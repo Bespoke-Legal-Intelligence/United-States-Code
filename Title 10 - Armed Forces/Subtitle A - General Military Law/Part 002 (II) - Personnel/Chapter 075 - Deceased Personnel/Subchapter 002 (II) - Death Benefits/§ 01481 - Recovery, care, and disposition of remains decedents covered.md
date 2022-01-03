@@ -50,7 +50,7 @@
 
 (c) In this section, the term "dependent" has the meaning given such term in section 1072(2) of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 112; Pub. L. 88–647, title III, §301(3), Oct. 13, 1964, 78 Stat. 1071; Pub. L. 99–661, div. A, title VI, §604(e)(3), Nov. 14, 1986, 100 Stat. 3877; Pub. L. 103–337, div. A, title VI, §652(a)(1), Oct. 5, 1994, 108 Stat. 2793; Pub. L. 104–106, div. A, title VII, §702(b), Feb. 10, 1996, 110 Stat. 371; Pub. L. 105–85, div. A, title V, §513(e), Nov. 18, 1997, 111 Stat. 1732; Pub. L. 105–261, div. A, title VI, §645(a), (b), Oct. 17, 1998, 112 Stat. 2049, 2050; Pub. L. 106–65, div. A, title V, §578(i)(5), Oct. 5, 1999, 113 Stat. 630; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(d)(3)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–293; Pub. L. 107–107, div. A, title V, §513(c), title VI, §638(b)(2), Dec. 28, 2001, 115 Stat. 1093, 1147; Pub. L. 112–81, div. A, title VI, §651(b), Dec. 31, 2011, 125 Stat. 1467; Pub.L. 113–66, div. A, title VI, §651(a)(1), Dec. 26, 2013, 127 Stat. 787.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 112; Pub. L. 88–647, title III, §301(3), Oct. 13, 1964, 78 Stat. 1071; Pub. L. 99–661, div. A, title VI, §604(e)(3), Nov. 14, 1986, 100 Stat. 3877; Pub. L. 103–337, div. A, title VI, §652(a)(1), Oct. 5, 1994, 108 Stat. 2793; Pub. L. 104–106, div. A, title VII, §702(b), Feb. 10, 1996, 110 Stat. 371; Pub. L. 105–85, div. A, title V, §513(e), Nov. 18, 1997, 111 Stat. 1732; Pub. L. 105–261, div. A, title VI, §645(a), (b), Oct. 17, 1998, 112 Stat. 2049, 2050; Pub. L. 106–65, div. A, title V, §578(i)(5), Oct. 5, 1999, 113 Stat. 630; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(d)(3)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–293; Pub. L. 107–107, div. A, title V, §513(c), title VI, §638(b)(2), Dec. 28, 2001, 115 Stat. 1093, 1147; Pub. L. 112–81, div. A, title VI, §651(b), Dec. 31, 2011, 125 Stat. 1467; Pub. L. 113–66, div. A, title VI, §651(a)(1), Dec. 26, 2013, 127 Stat. 787.)
 
 Historical and Revision Notes
 
@@ -77,6 +77,8 @@ July 15, 1954, ch. 507, §§1, 2 (1st 25 words, as applicable to armed forces), 
 In subsection (a), 5:2151 is omitted as covered by the revised sections of this chapter. In clauses (1), (2), (5)–(7), the words "under his jurisdiction" are inserted for clarity. In clause (1) the words "regular member of an armed force, or member of an armed force without component" are substituted for the words "military personnel", since all other members of the military services are covered by more specific rules set forth in clauses (2) and (7). In clauses (2) and (3), the words "active duty for training" are omitted as covered by the words "active duty". The words "injury incurred, or disease contracted" are substituted for the words "injuries, illness, or disease contracted or incurred". The words "by law", "authorized", "proper authority", and "as authorized by law" are omitted as surplusage. In clause (3), the words "while entitled to" are substituted for the words "in respect of duty for which they are entitled by law to receive". In clause (4), the words "injury incurred, or disease contracted" are substituted for the words "injury, disease or illness contracted or incurred". The words "as authorized by law" are omitted as surplusage. In clause (6), the word "person" is substituted for the words "former enlisted members". In clause (7), the words "active duty for a period of more than 30 days" are substituted for the words "extended active duty".
 
 In subsection (b), the words "This section applies to each person \* \* \* even though" are substituted for the words "The benefits of this Act shall not be denied in respect of a person \* \* \* on the ground".
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -112,6 +114,8 @@ Subsec. (c). Pub. L. 103–337, §652(a)(1)(B), added subsec. (c).
 
 <b>1964</b>—Subsec. (a)(4). Pub. L. 88–647 substituted ", or applicant for membership in, a reserve officers' training corps" for "the Army Reserve Officers' Training Corps, Naval Reserve Officers' Training Corps, or Air Force Reserve Officers' Training Corps".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2011 Amendment
 
 Amendment by Pub. L. 112–81 effective on Dec. 31, 2011, and applicable with respect to deaths that occur on or after that date, see section 651(c) of Pub. L. 112–81, set out as a note under section 1475 of this title.
@@ -138,7 +142,7 @@ Pub. L. 109–364, div. A, title V, §567, Oct. 17, 2006, 120 Stat. 2224, provid
 
 "(a)
 
-Requirement.—The Secretary of each military department shall ensure that each military health careprofessional under that Secretary's jurisdiction who is deployed to a theater of combat operations is trained, before such deployment, in the preservation of remains under combat or combat-related conditions.
+Requirement.—The Secretary of each military department shall ensure that each military health care professional under that Secretary's jurisdiction who is deployed to a theater of combat operations is trained, before such deployment, in the preservation of remains under combat or combat-related conditions.
 
 "(b)
 

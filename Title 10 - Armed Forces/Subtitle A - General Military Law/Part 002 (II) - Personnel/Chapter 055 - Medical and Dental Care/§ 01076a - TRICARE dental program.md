@@ -72,7 +72,7 @@ Copayments Under Premium Sharing Plans.—(1) Except as provided pursuant to par
 
 &emsp;(C) in the case of care described in subsection (c)(3), pay a percentage of the charges for the care that is determined appropriate by the Secretary of Defense, after consultation with the other administering Secretaries.
 
-(2)(A) During a national emergency declared by the President or Congress and subject to regulations prescribed by the Secretary of Defense, the Secretary may waive, in whole or in part, the charges otherwise payable by a member of the Selected Reserve of the Ready Reserve or a member of the Individual Ready Reserve under paragraph (1) for the coverage of the member alone under the dental insurance plan established under subsection (a)(1) if the Secretary determines that such waiver of the chargeswould facilitate or ensure the readiness of a unit or individual for deployment.
+(2)(A) During a national emergency declared by the President or Congress and subject to regulations prescribed by the Secretary of Defense, the Secretary may waive, in whole or in part, the charges otherwise payable by a member of the Selected Reserve of the Ready Reserve or a member of the Individual Ready Reserve under paragraph (1) for the coverage of the member alone under the dental insurance plan established under subsection (a)(1) if the Secretary determines that such waiver of the charges would facilitate or ensure the readiness of a unit or individual for deployment.
 
 (B) The waiver under subparagraph (A) may apply only with respect to charges for coverage of dental care required for readiness.
 
@@ -124,13 +124,15 @@ Eligible Dependent Defined.—(1) In this section, the term "eligible dependent"
 
 (Added Pub. L. 106–65, div. A, title VII, §711(a), Oct. 5, 1999, 113 Stat. 685; amended Pub. L. 106–398, §1 \[\[div. A\], title VII, §704(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–174; Pub. L. 107–314, div. A, title VII, §703, Dec. 2, 2002, 116 Stat. 2584; Pub. L. 108–375, div. A, title VII, §711, Oct. 28, 2004, 118 Stat. 1984; Pub. L. 109–163, div. A, title VII, §713, Jan. 6, 2006, 119 Stat. 3343; Pub. L. 110–417, \[div. A\], title VII, §735(b), Oct. 14, 2008, 122 Stat. 4514; Pub. L. 111–84, div. A, title VII, §704, Oct. 28, 2009, 123 Stat. 2373; Pub. L. 111–383, div. A, title VII, §703, Jan. 7, 2011, 124 Stat. 4245; Pub. L. 112–239, div. A, title VII, §701(b), Jan. 2, 2013, 126 Stat. 1798; Pub. L. 115–232, div. A, title VII, §713(b), Aug. 13, 2018, 132 Stat. 1811; Pub. L. 116–283, div. A, title VII, §711(b)—(d), Jan. 1, 2021, 134 Stat. 3691.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1076a, added Pub. L. 99–145, title VI, §651(a)(1), Nov. 8, 1985, 99 Stat. 655; amended Pub. L. 99–661, div. A, title VII, §707(a), (b), Nov. 14, 1986, 100 Stat. 3905; Pub. L. 102–190, div. A, title VII, §701, Dec. 5, 1991, 105 Stat. 1399; Pub. L. 102–484, div. A, title VII, §701(a)–(e), Oct. 23, 1992, 106 Stat. 2430; Pub. L. 103–337, div. A, title VII, §§702(b), 703(a), 707(b), Oct. 5, 1994, 108 Stat. 2797, 2798, 2800; Pub. L. 105–85, div. A, title VII, §732, Nov. 18, 1997, 111 Stat. 1812; Pub. L. 105–261, div. A, title VII, §701(a)(1), (b), Oct. 17, 1998, 112 Stat. 2056; Pub. L. 106–65, div. A, title X, §1066(a)(8), Oct. 5, 1999, 113 Stat. 770; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(d)(4)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–293, related to dependents' dental program, prior to repeal by Pub. L. 106–65, div. A, title VII, §711(a), Oct. 5, 1999, 113 Stat. 685.
 
 #### Amendments
 
-<b>2021</b>—Subsec. (a)(1). Pub. L. 116–283, §711(d), struck out at end "During the period beginning on the date of the enactment of this sentence and ending December 31, 2018, such plan shall provide that coverage for a member of the Selected Reserve who is involuntarily separated from the Selected Reserve under other than adverse conditions, as characterized by the Secretary concerned, shall not terminate earlier than 180 days after the date on which the member is separated."
+<b>2021</b>—Subsec. (a)(1). Pub. L. 116–283, §711(d), struck out at end "During the period beginning on the date of the enactment of this sentence and ending December 31, 2018, such plan shall provide that coverage for a member of the Selected Reserve who is involuntarily separated from the Selected Reserve under other than adverse conditions, as characterized by the Secretaryconcerned, shall not terminate earlier than 180 days after the date on which the member is separated."
 
 Subsec. (b). Pub. L. 116–283, §711(c), repealed Pub. L. 115–232, §713(b). See 2018 Amendment note below.
 
@@ -169,6 +171,8 @@ Pub. L. 116–283, §711(b), amended subsec. (b) generally. Prior to amendment, 
 <b>2002</b>—Subsec. (k)(2). Pub. L. 107–314 substituted "if, on the date of the death of the member, the dependent is enrolled in a dental benefits plan established under subsection (a) or is not enrolled in such a plan by reason of a discontinuance of a former enrollment under subsection (f)" for "if the dependent is enrolled on the date of the death of the member in a dental benefits plan established under subsection (a)".
 
 <b>2000</b>—Subsec. (k)(2). Pub. L. 106–398 substituted "three-year period" for "one-year period".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transition of Administration of TRICARE Dental Plans
 

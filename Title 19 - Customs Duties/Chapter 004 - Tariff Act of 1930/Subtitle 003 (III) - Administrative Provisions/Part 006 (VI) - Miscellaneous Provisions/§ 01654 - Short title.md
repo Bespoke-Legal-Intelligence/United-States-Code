@@ -4,9 +4,11 @@ This chapter may be cited as the "Tariff Act of 1930."
 
 (June 17, 1930, ch. 497, title IV, §654, 46 Stat. 763.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title of 2015 Amendment
 
-Pub. L. 114–27, title V, §501, June 29, 2015, 129 Stat. 383, provided that: "This title \[amending sections 1677,1677b, 1677e, and 1677m of this title and enacting provisions set out as a note under section 3438 of this title\] may be cited as the 'American Trade Enforcement Effectiveness Act'."
+Pub. L. 114–27, title V, §501, June 29, 2015, 129 Stat. 383, provided that: "This title \[amending sections 1677, 1677b, 1677e, and 1677m of this title and enacting provisions set out as a note under section 3438 of this title\] may be cited as the 'American Trade Enforcement Effectiveness Act'."
 
 #### Short Title of 2012 Amendment
 
@@ -32,7 +34,7 @@ Pub. L. 107–210, div. A, title III, §301, Aug. 6, 2002, 116 Stat. 972, provid
 
 #### Short Title of 2000 Amendments
 
-Pub. L. 106–476, §1, Nov. 9, 2000, 114 Stat. 2101, provided that: "This Act \[enacting subtitle V of this chapter and section 1308 of this title, amending sections 58c, 1313, 1433, 1434, 1441, 1484, 1505, and 1555 of this title, section 5314 of Title 5, Government Organization and Employees, section 69 of Title 15, Commerce and Trade, and sections 5704, 5754, and 5761 of Title 26, Internal Revenue Code, and section 91 of Title 46, Appendix, Shipping, and enacting provisions set out as notes under this section and sections 58c, 1308, 1313, 1484, 1681, and 2434 of this title, sections 1, 5704, and 5761 of Title 26, and section 1113 of Title 31, Money and Finance\] may be cited as the 'Tariff Suspension and Trade Act of 2000'."
+Pub. L. 106–476, §1, Nov. 9, 2000, 114 Stat. 2101, provided that: "This Act \[enacting subtitle V of this chapter and section 1308 of this title, amending sections 58c, 1313, 1433, 1434, 1441, 1484, 1505, and 1555 of this title, section 5314 of Title 5, Government Organization and Employees, section 69 of Title 15, Commerce and Trade, and sections 5704, 5754, and 5761 of Title 26, Internal Revenue Code, and section 91 of Title 46, Appendix, Shipping, and enacting provisions set out as notesunder this section and sections 58c, 1308, 1313, 1484, 1681, and 2434 of this title, sections 1, 5704, and 5761 of Title 26, and section 1113 of Title 31, Money and Finance\] may be cited as the 'Tariff Suspension and Trade Act of 2000'."
 
 Pub. L. 106–476, title I, §1441, Nov. 9, 2000, 114 Stat. 2163, provided that: "This chapter \[chapter 3 (§§1441–1443) of subtitle B of title I of Pub. L. 106–476, enacting section 1308 of this title, amending section 69 of Title 15, Commerce and Trade, and enacting provisions set out as notes under section 1308 of this title\], may be cited as the 'Dog and Cat Protection Act of 2000'."
 
@@ -60,7 +62,7 @@ Pub. L. 98–573, §1, Oct. 30, 1984, 98 Stat. 2948, provided in part that this 
 
 #### Short Title of 1978 Amendment
 
-Pub. L. 95–410, §1, Oct. 3, 1978, 92 Stat. 888, provided: "That this Act \[enacting sections 58a, 1496a, 1504, 1508,1625, and 2075 of this title, amending sections 467, 1202, 1315, 1321, 1466, 1483, 1484, 1491, 1505, 1509, 1510, 1520, 1526, 1557, 1559, 1584, 1592, 1599, 1603, 1607, 1610, 1612, 1613, 1615, 1621, and 1641 of this title, section 1124 of Title 15, Commerce and Trade, and section 883 of Title 46, Appendix, Shipping, repealing sections 58 and 1511 of this title and sections 329, 330, and 333 of former Title 46, and enacting provisions set out as notes under sections 1202, 1434, 1496a, 1504, 1557, 1592, and 1652 of this title\] may be cited as the 'Customs Procedural Reform and Simplification Act of 1978'."
+Pub. L. 95–410, §1, Oct. 3, 1978, 92 Stat. 888, provided: "That this Act \[enacting sections 58a, 1496a, 1504, 1508, 1625, and 2075 of this title, amending sections 467, 1202, 1315, 1321, 1466, 1483, 1484, 1491, 1505, 1509, 1510, 1520, 1526, 1557, 1559, 1584, 1592, 1599, 1603, 1607, 1610, 1612, 1613, 1615, 1621, and 1641 of this title, section 1124 of Title 15, Commerce and Trade, and section 883 of Title 46, Appendix, Shipping, repealing sections 58 and 1511 of this title and sections 329, 330, and 333 of former Title 46, and enacting provisions set out as notes under sections 1202, 1434, 1496a, 1504, 1557, 1592, and 1652 of this title\] may be cited as the 'Customs Procedural Reform and Simplification Act of 1978'."
 
 #### Short Title of 1970 Amendment
 
@@ -82,7 +84,7 @@ Pub. L. 87–456, §1, May 24, 1962, 76 Stat. 72, provided: "That this Act \[ame
 
 #### Short Title of 1958 Amendment
 
-Pub. L. 85–686, §1, Aug. 20, 1958, 72 Stat. 673, provided: "That this Act \[enacting section 1335 of this title, amending sections 1333, 1336, 1337, 1351, 1352a, 1360, and 1364 of this title, and enacting provisions set out as notes under sections 1351 and 1352 of this title\] may be cited as the 'Trade Agreements Extension Act of 1958'."
+Pub. L. 85–686, §1, Aug. 20, 1958, 72 Stat. 673, provided: "That this Act \[enacting section 1335 of this title, amending sections 1333, 1336, 1337, 1351, 1352a, 1360, and 1364 of this title, and enacting provisions set out asnotes under sections 1351 and 1352 of this title\] may be cited as the 'Trade Agreements Extension Act of 1958'."
 
 #### Short Title of 1956 Amendment
 

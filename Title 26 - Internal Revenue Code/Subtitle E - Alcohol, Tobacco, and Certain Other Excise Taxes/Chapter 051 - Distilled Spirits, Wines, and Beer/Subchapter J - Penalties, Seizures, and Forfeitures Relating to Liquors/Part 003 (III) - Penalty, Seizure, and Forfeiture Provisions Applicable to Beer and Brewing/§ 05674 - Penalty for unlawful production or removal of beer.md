@@ -10,6 +10,8 @@ Any brewer or other person who removes or in any way aids in the removal from an
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1408; amended Pub. L. 95–458, §2(b)(5)(A), Oct. 14, 1978, 92 Stat. 1256.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 5674, act Aug. 16, 1954, ch. 736, 68A Stat. 696, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
@@ -17,6 +19,8 @@ A prior section 5674, act Aug. 16, 1954, ch. 736, 68A Stat. 696, consisted of pr
 #### Amendments
 
 <b>1978</b>—Pub. L. 95–458 substituted "production or removal" for "removal" in section catchline, redesignated existing provision as subsec. (b), and added subsec. (a).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

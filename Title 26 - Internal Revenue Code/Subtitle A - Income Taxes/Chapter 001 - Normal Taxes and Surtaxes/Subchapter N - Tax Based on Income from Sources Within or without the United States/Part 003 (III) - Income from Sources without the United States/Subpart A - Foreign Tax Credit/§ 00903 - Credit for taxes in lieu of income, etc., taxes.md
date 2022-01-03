@@ -4,6 +4,8 @@ For purposes of this part and of sections 164(a) and 275(a), the term "income, w
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 287; Pub. L. 88–272, title II, §207(b)(8), Feb. 26, 1964, 78 Stat. 42; Pub. L. 100–647, title I, §1012(v)(9), Nov. 10, 1988, 102 Stat. 3530; Pub. L. 106–519, §4(4), Nov. 15, 2000, 114 Stat. 2433; Pub. L. 108–357, title I, §101(b)(7), Oct. 22, 2004, 118 Stat. 1423.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Pub. L. 108–357 substituted "164(a)" for "114, 164(a),".
@@ -14,13 +16,15 @@ For purposes of this part and of sections 164(a) and 275(a), the term "income, w
 
 <b>1964</b>—Pub. L. 88–272 substituted "sections 164(a) and 275(a)" for "section 164(b)".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2004 Amendment
 
 Amendment by Pub. L. 108–357 applicable to transactions after Dec. 31, 2004, see section 101(c) of Pub. L. 108–357, set out as a note under section 56 of this title.
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–519 applicable to transactions after Sept. 30, 2000, with special rules relatingto existing foreign sales corporations, see section 5 of Pub. L. 106–519, set out as a note under section 56 of this title.
+Amendment by Pub. L. 106–519 applicable to transactions after Sept. 30, 2000, with special rules relating to existing foreign sales corporations, see section 5 of Pub. L. 106–519, set out as a note under section 56 of this title.
 
 #### Effective Date of 1988 Amendment
 

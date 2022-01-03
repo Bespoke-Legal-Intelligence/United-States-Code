@@ -18,7 +18,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) determines that the subpoena will not interfere with a criminal investigation; or
 
-&emsp;&emsp;&emsp;&emsp;(II) fails to make a determination under subclause (I) before the date that is 30 days after the date on which the Administrator makes a request under clause (i).
+&emsp;&emsp;&emsp;&emsp;(II) fails to make a determination under subclause (I) before the date thatis 30 days after the date on which the Administrator makes a request under clause (i).
 
 #### (B) Enforcement
 

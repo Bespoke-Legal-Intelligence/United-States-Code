@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Subject to the provisions of this subsection, in the case of student loan funds established under section 292q of this title by schools of medicine or osteopathic medicine, each agreement entered into under such section with such a school shall provide (in addition to theprovisions required in subsection (b) of such section) that the school will make a loan from such fund to a student only if the student agrees—
+&emsp;Subject to the provisions of this subsection, in the case of student loan funds established under section 292q of this title by schools of medicine or osteopathic medicine, each agreement entered into under such section with such a school shall provide (in addition to the provisions required in subsection (b) of suchsection) that the school will make a loan from such fund to a student only if the student agrees—
 
 &emsp;&emsp;(A) to enter and complete a residency training program in primary health care not later than 4 years after the date on which the student graduates from such school; and
 
@@ -60,7 +60,7 @@
 
 #### (3) Determinations by Secretary
 
-&emsp;Not later than 90 days after the close of each 1-year period described in paragraph (1), the Secretary shall make a determination of whether the school involved has for such period complied with such paragraph and shall in writing inform the school of the determination. Such determination shall be made only after consideration of the report submitted tothe Secretary by the school under paragraph (6).
+&emsp;Not later than 90 days after the close of each 1-year period described in paragraph (1), the Secretary shall make a determination of whether the school involved has for such period complied with such paragraph and shall in writing inform the school of the determination. Such determination shall be made only after consideration of the report submitted to the Secretary by the school under paragraph (6).
 
 #### (4) Noncompliance by school
 
@@ -112,6 +112,8 @@ It is the sense of Congress that funds repaid under the loan program under this 
 
 (July 1, 1944, ch. 373, title VII, §723, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2015; amended Pub. L. 103–43, title XX, §2014(c), June 10, 1993, 107 Stat. 216; Pub. L. 105–392, title I, §131, Nov. 13, 1998, 112 Stat. 3574; Pub. L. 111–148, title V, §5201(a), Mar. 23, 2010, 124 Stat. 606.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 292t(f) of this title, referred to in subsec. (a)(2)(A)(ii)(I), contained provisions in par. (1) relating to appropriation of funds for Federal capital contributions to student loan funds, prior to repeal by Pub. L. 105–392, title I, §132(b), Nov. 13, 1998, 112 Stat. 3575, eff. Oct. 1, 2002.
@@ -145,6 +147,8 @@ Subsec. (b)(1). Pub. L. 103–43, §2014(c)(2)(A), substituted "1997;" for "1994
 Subsec. (b)(2)(B). Pub. L. 103–43, §2014(c)(2)(B), substituted "25 percent" for "15 percent".
 
 Subsec. (b)(4)(B). Pub. L. 103–43, §2014(c)(2)(C), substituted "1997" for "1994" in cl. (i) and "1998" for "1995" in cl. (ii).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Student Loan Guidelines
 

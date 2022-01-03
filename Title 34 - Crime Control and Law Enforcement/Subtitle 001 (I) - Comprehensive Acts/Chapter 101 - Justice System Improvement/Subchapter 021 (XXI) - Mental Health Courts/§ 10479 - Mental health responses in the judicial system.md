@@ -134,7 +134,7 @@ Grants awarded under this section shall be subject to the following accountabili
 
 #### (A) Limitation
 
-&emsp;&emsp;Not more than $20,000 of the amounts made available to the Department of Justice tocarry out this section may be used by the Attorney General, or by any individual or entity awarded a grant under this section to host, or make any expenditures relating to, a conference unless the Deputy Attorney General provides prior written authorization that the funds may be expended to host the conference or make such expenditure.
+&emsp;&emsp;Not more than $20,000 of the amounts made available to the Department of Justice to carry out this section may be used by the Attorney General, or by any individual or entity awarded a grant under this section to host, or make any expenditures relating to, a conference unless the Deputy Attorney General provides prior written authorization that the funds may be expended to host the conference or make such expenditure.
 
 #### (B) Written approval
 

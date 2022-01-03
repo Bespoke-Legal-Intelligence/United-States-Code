@@ -2,23 +2,33 @@
 
 (a)
 
-Applicant Defined.—Notwithstanding section 22901(1), in this section, the term "applicant" means—
+Definitions.—In this section:
 
-&emsp;(1) a State, including the District of Columbia;
+&emsp;(1)
 
-&emsp;(2) a group of States;
+Applicant.—Notwithstanding section 22901(1), the term "applicant" means—
 
-&emsp;(3) an Interstate Compact;
+&emsp;&emsp;(A) a State, including the District of Columbia;
 
-&emsp;(4) a public agency or publicly chartered authority established by 1 or more States;
+&emsp;&emsp;(B) a group of States;
 
-&emsp;(5) a political subdivision of a State;
+&emsp;&emsp;(C) an entity implementing an interstate compact;
 
-&emsp;(6) Amtrak or another rail carrier that provides intercity rail passenger transportation;
+&emsp;&emsp;(D) a public agency or publicly chartered authority established by 1 or more States;
 
-&emsp;(7) Any rail carrier in partnership with at least 1 of the entities described in paragraphs (1) through (5); and
+&emsp;&emsp;(E) a political subdivision of a State;
 
-&emsp;(8) any combination of the entities described in paragraphs (1) through (7).
+&emsp;&emsp;(F) a federally recognized Indian Tribe;
+
+&emsp;&emsp;(G) Amtrak or another rail carrier that provides intercity rail passenger transportation;
+
+&emsp;&emsp;(H) any rail carrier in partnership with at least 1 of the entities described in subparagraphs (A) through (F); and
+
+&emsp;&emsp;(I) any combination of the entities described in subparagraphs (A) through (F).
+
+&emsp;(2)
+
+Operating assistance.—The term "operating assistance", with respect to any route subject to section 209 of the Passenger Rail Investment and Improvement Act of 2008 (Public Law 110–432), means any cost allocated, or that may be allocated, to a route pursuant to the cost methodology established under such section or under section 24712.
 
 (b)
 
@@ -56,11 +66,11 @@ Application.—An applicant for a grant under this section shall submit to the S
 
 &emsp;(3) a funding plan that—
 
-&emsp;&emsp;(A) describes the funding of initial capital costs and operating costs for the first 3 years of operation;
+&emsp;&emsp;(A) describes the funding of initial capital costs and operating costs for the first 6 years of operation;
 
 &emsp;&emsp;(B) includes a commitment by the applicant to provide the funds described in subparagraph (A) to the extent not covered by Federal grants and revenues; and
 
-&emsp;&emsp;(C) describes the funding of operating costs and capital costs, to the extent necessary, after the first 3 years of operation; and
+&emsp;&emsp;(C) describes the funding of operating costs and capital costs, to the extent necessary, after the first 6 years of operation; and
 
 &emsp;(4) a description of the status of negotiations and agreements with—
 
@@ -68,7 +78,7 @@ Application.—An applicant for a grant under this section shall submit to the S
 
 &emsp;&emsp;(B) the anticipated railroad carrier, if such entity is not part of the applicant group; and
 
-&emsp;&emsp;(C) any other service providers or entities expected to provide services or facilities that will be used by the service, including any required access to Amtrak systems, stations, and facilities if Amtrak is not part of the applicant group.
+&emsp;&emsp;(C) any other service providers or entities expected to provide services or facilities that will be used by the service, includingany required access to Amtrak systems, stations, and facilities if Amtrak is not part of the applicant group.
 
 (d)
 
@@ -88,9 +98,11 @@ Priorities.—In awarding grants under this section, the Secretary shall give pr
 
 &emsp;(7) that would foster economic development, particularly in rural communities and for disadvantaged populations;
 
-&emsp;(8) that would provide other non-transportation benefits; and
+&emsp;(8) that would provide other non-transportation benefits;
 
-&emsp;(9) that would enhance connectivity and geographic coverage of the existing national network of intercity rail passenger service.
+&emsp;(9) that would enhance connectivity and geographic coverage of the existing national network of intercity rail passenger service; and
+
+&emsp;(10) for routes selected under the Corridor Identification and Development Program and operated by Amtrak.
 
 (e)
 
@@ -98,7 +110,7 @@ Limitations.—
 
 &emsp;(1)
 
-Duration.—Federal operating assistance grants authorized under this section for any individual intercity rail passenger transportation route may not provide funding for more than 3 years and may not be renewed.
+Duration.—Federal operating grants authorized under this section for any individual intercity rail passenger transportation route may not provide funding for more than 6 years (including for any such routes selected for funding before the date of enactment of the Passenger Rail Expansion and Rail Safety Act of 2021) and may not be renewed.
 
 &emsp;(2)
 
@@ -108,11 +120,17 @@ Limitation.—Not more than 6 of the operating assistance grants awarded pursuan
 
 Maximum funding.—Grants described in paragraph (1) may not exceed—
 
-&emsp;&emsp;(A) 80 percent of the projected net operating costs for the first year of service;
+&emsp;&emsp;(A) 90 percent of the projected net operating costs for the first year of service;
 
-&emsp;&emsp;(B) 60 percent of the projected net operating costs for the second year of service; and
+&emsp;&emsp;(B) 80 percent of the projected net operating costs for the second year of service;
 
-&emsp;&emsp;(C) 40 percent of the projected net operating costs for the third year of service.
+&emsp;&emsp;(C) 70 percent of the projected net operating costs for the third year of service;
+
+&emsp;&emsp;(D) 60 percent of the projected net operating costs for the fourth year of service;
+
+&emsp;&emsp;(E) 50 percent of the projected net operating costs for the fifth year of service; and
+
+&emsp;&emsp;(F) 30 percent of the projected net operating costs for the sixth year of service.
 
 (f)
 
@@ -164,21 +182,45 @@ Report.—Not later than 4 years after the date of enactment of the Passenger Ra
 
 &emsp;(5) any legislative recommendations.
 
-(Added Pub. L. 114–94, div. A, title XI, §11303(a), Dec. 4, 2015, 129 Stat. 1651, §24408; renumbered §22908 and amended Pub. L. 115–420, §7(a)(1), (b)(2)(E), Jan. 3, 2019, 132 Stat. 5445, 5446.)
+(Added Pub. L. 114–94, div. A, title XI, §11303(a), Dec. 4, 2015, 129 Stat. 1651, §24408; renumbered §22908 and amended Pub. L. 115–420, §7(a)(1), (b)(2)(E), Jan. 3, 2019, 132 Stat. 5445, 5446; Pub. L. 117–58, div. B, title II, §22304, Nov. 15, 2021, 135 Stat. 719.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
+Section 209 of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsec. (a)(2), is section 209 of title II of div. B of Pub. L. 110–432, which is set out as a note under section 24101 of this title.
+
 Section 11304 of the Passenger Rail Reform and Investment Act of 2015, referred to in subsec. (d)(2), is section 11304 of title IX of div. A of Pub. L. 114–94, 129 Stat. 1655, which is not classified to the Code.
+
+The date of enactment of the Passenger Rail Expansion and Rail Safety Act of 2021, referred to in subsec. (e)(1), is the date of enactment of title II of div. B of Pub. L. 117–58, which was approved Nov. 15, 2021.
 
 The date of enactment of the Passenger Rail Reform and Investment Act of 2015, referred to in subsec. (j), is the date of enactment of title XI of div. A of Pub. L. 114–94, which was approved Dec. 4, 2015.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a). Pub. L. 117–58, §22304(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) defined applicant.
+
+Subsec. (c)(3). Pub. L. 117–58, §22304(2), substituted "6 years" for "3 years" in pars. (A) and (C).
+
+Subsec. (d)(10). Pub. L. 117–58, §22304(3), added par. (10).
+
+Subsec. (e)(1). Pub. L. 117–58, §22304(4)(A), struck out "assistance" before "grants" and substituted "6 years (including for any such routes selected for funding before the date of enactment of the Passenger Rail Expansion and Rail Safety Act of 2021)" for "3 years".
+
+Subsec. (e)(3)(A) to (F). Pub. L. 117–58, §22304(4)(B), added subpars. (A) to (F) and struck out former subpars. (A) to (C) which read as follows:
+
+&emsp;"(A) 80 percent of the projected net operating costs for the first year of service;
+
+&emsp;"(B) 60 percent of the projected net operating costs for the second year of service; and
+
+&emsp;"(C) 40 percent of the projected net operating costs for the third year of service."
 
 <b>2019</b>—Pub. L. 115–420, §7(a)(1), renumbered section 24408 of this title as this section.
 
 Subsec. (a). Pub. L. 115–420, §7(b)(2)(E)(i), substituted "22901(1)" for "24401(1)" in introductory provisions.
 
 Subsec. (i)(3). Pub. L. 115–420, §7(b)(2)(E)(ii), substituted "22905" for "24405".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -28,9 +28,11 @@ For purposes of this section, the term "foreign person" means any person other t
 
 (Added Pub. L. 111–347, title III, §301(a)(1), Jan. 2, 2011, 124 Stat. 3666.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Pub. L. 111–347, title III, §301(a)(3), Jan. 2, 2011, 124 Stat. 3666, provided that: "The amendments made bythis subsection \[enacting this section\] shall apply to payments received pursuant to contracts entered into on and after the date of the enactment of this Act \[Jan. 2, 2011\]."
+Pub. L. 111–347, title III, §301(a)(3), Jan. 2, 2011, 124 Stat. 3666, provided that: "The amendments made by this subsection \[enacting this section\] shall apply to payments received pursuant to contracts entered into on and after the date of the enactment of this Act \[Jan. 2, 2011\]."
 
 #### Prohibition on Reimbursement of Fees
 

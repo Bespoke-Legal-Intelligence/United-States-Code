@@ -1,5 +1,7 @@
 ### SUBCHAPTER I—TENANT PURCHASE LOANS AND MORTGAGE INSURANCE
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1946</b>—Act Aug. 14, 1946, ch. 964, §5, 60 Stat. 1072, amended subchapter heading to read as now set out.

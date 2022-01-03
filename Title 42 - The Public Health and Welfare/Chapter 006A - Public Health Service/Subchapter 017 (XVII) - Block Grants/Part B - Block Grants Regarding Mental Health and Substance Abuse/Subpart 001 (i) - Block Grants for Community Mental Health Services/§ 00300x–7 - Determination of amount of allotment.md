@@ -74,7 +74,7 @@
 
 &emsp;(C) The amount determined under this subparagraph is the sum of the respective amounts determined for the States under subparagraph (B) (including the District of Columbia).
 
-&emsp;(D)(i) In the case of the District of Columbia, for purposes of paragraph (4), the term "R%" means the percentage constituted by the ratio of the amount determined under clause (ii) for such District to the amount determined under clause (iii).
+&emsp;(D)(i) In the case of the District of Columbia, for purposes of paragraph (4), the term "R%" means the percentage constituted by the ratioof the amount determined under clause (ii) for such District to the amount determined under clause (iii).
 
 &emsp;(ii) The amount determined under this clause for the District of Columbia is the quotient of—
 
@@ -142,6 +142,8 @@ With respect to fiscal year 2000, and subsequent fiscal years, the amount of the
 
 (July 1, 1944, ch. 373, title XIX, §1918, as added Pub. L. 102–321, title II, §201(2), July 10, 1992, 106 Stat. 385; amended Pub. L. 102–352, §2(a)(8), (9), Aug. 26, 1992, 106 Stat. 938; Pub. L. 105–277, div. A, §101(f) \[title II, §218(a)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–362; Pub. L. 106–113, div. B, §1000(a)(4) \[title II, §212(a)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–239; Pub. L. 106–310, div. B, title XXXII, §3205, Oct. 17, 2000, 114 Stat. 1193.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 300x–7, act July 1, 1944, ch. 373, title XIX, §1919, formerly §1918, as added Aug. 13, 1981, Pub. L. 97–35, title IX, §901, 95 Stat. 551; renumbered §1919 and amended Oct. 19, 1984, Pub. L. 98–509, title I, §106(a), (g), 98 Stat. 2358, 2359, related to nondiscrimination provisions with respect to alcohol, drug abuse, and mental health programs, prior to repeal by Pub. L. 102–321, §201(2).
@@ -171,6 +173,8 @@ In general.—With respect to fiscal year 1999, the amount of the allotment of a
 <b>1992</b>—Subsec. (a)(5)(A)(iii). Pub. L. 102–352, §2(a)(8), substituted "45" for "25".
 
 Subsec. (c)(2)(C). Pub. L. 102–352, §2(a)(9), added subpar. (C).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective and Termination Dates of 1998 Amendment
 

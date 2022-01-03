@@ -20,6 +20,8 @@ June 4, 1920, ch. 228 (6th par., proviso, of amended 3d and 4th provisos), 41 St
 
 The words "entered into after July 1, 1937" and "entered into subsequent to July 1, 1937" are omitted as surplusage. The words "in his discretion" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7428 of this title as this section.
@@ -30,9 +32,13 @@ The words "entered into after July 1, 1937" and "entered into subsequent to July
 
 <b>1962</b>—Pub. L. 87–796 included leases affecting lands within oil shale reserves.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

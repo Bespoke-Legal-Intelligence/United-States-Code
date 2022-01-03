@@ -70,7 +70,7 @@ Whenever the Administrator determines after public hearing that a State is not a
 
 &emsp;&emsp;&emsp;(i) corrective actions taken by the State under section 6991b(h)(7)(A) of this title;
 
-&emsp;&emsp;&emsp;(ii) necessary administrative expenses, as determined by the Administrator, that are directly related to State fund or State assurance programs under subsection (c)(1); or
+&emsp;&emsp;&emsp;(ii) necessary administrative expenses, as determined by the Administrator, thatare directly related to State fund or State assurance programs under subsection (c)(1); or
 
 &emsp;&emsp;&emsp;(iii) enforcement, by a State or a local government, of State or local regulations pertaining to underground storage tanks regulated under this subchapter.
 
@@ -119,6 +119,8 @@ Whenever the Administrator determines after public hearing that a State is not a
 &emsp;&emsp;(B) is enforcing a State program approved under this section.
 
 (Pub. L. 89–272, title II, §9004, as added Pub. L. 98–616, title VI, §601(a), Nov. 8, 1984, 98 Stat. 3282; amended Pub. L. 99–499, title II, §205(e), Oct. 17, 1986, 100 Stat. 1702; Pub. L. 109–58, title XV, §§1522(a), (b), 1524(b), 1533(3), Aug. 8, 2005, 119 Stat. 1092, 1093, 1096, 1105.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

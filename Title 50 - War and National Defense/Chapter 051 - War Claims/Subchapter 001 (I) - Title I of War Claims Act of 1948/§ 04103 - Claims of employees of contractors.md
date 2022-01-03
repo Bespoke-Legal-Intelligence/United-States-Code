@@ -2,7 +2,7 @@
 
 #### (a) Payment by Secretary of Labor of certain claims; execution of releases
 
-The Secretary of Labor is authorized to receive, adjudicate according to law, and provide for the payment of any claim filed by any person specified in section 101(a) of the Act entitled "An Act to provide benefits for the injury, disability, death, or enemy detention of employees of contractors with the United States, and for other purposes", approved December 2, 1942, as amended \[42 U.S.C. 1701(a)\], or by the legal representative of any such person who may have died, for the amount by which (1) the total sum which would have been payable to such person by his employer (not including any payments for overtime), if such person's contract of employment had been in effect and he had been paid under it for the entire period during which he was entitled to receive benefits under section 101(b) of such Act \[42 U.S.C. 1701(b)\], exceeds (2) the entire amount creditable to such person's account for such period under the provisions of such section plus any amounts paid to such person by such employer for such period or recovered by such person in any legal action against such employer based upon such person's right against such employer for such period under the contract of employment, including payments in settlement of the liability of the employer arising under or out of such contract. No claim shall be allowed to any person under the provisions of this section unless such person executes a full release to the employer and to the United States in respect to the liability of the employer arising under or out of the contract of employment, except liability for workmen's compensation benefits under the Act of August 16, 1941, as amended \[42 U.S.C. 1651 et seq.\] or detention or other benefits paid under the Act of December 2, 1942, as amended \[42 U.S.C. 1701 et seq.\]. Any claim allowed under the provisions of this section shall be certified by the Secretary of Labor to the Secretary of the Treasury for payment out of the War Claims Fund established by section 4110 of this title.
+The Secretary of Labor is authorized to receive, adjudicate according to law, and provide for the payment of any claim filed by any person specified in section 101(a) of the Act entitled "An Act to provide benefits for the injury, disability, death, or enemy detention of employees of contractors with the United States, and forother purposes", approved December 2, 1942, as amended \[42 U.S.C. 1701(a)\], or by the legal representative of any such person who may have died, for the amount by which (1) the total sum which would have been payable to such person by his employer (not including any payments for overtime), if such person's contract of employment had been in effect and he had been paid under it for the entire period during which he was entitled to receive benefits under section 101(b) of such Act \[42 U.S.C. 1701(b)\], exceeds (2) the entire amount creditable to such person's account for such period under the provisions of such section plus any amounts paid to such person by such employer for such period or recovered by such person in any legal action against such employer based upon such person's right against such employer for such period under the contract of employment, including payments in settlement of the liability of the employer arising under or out of such contract. No claim shall be allowed to any person under the provisions of this section unless such person executes a full release to the employer and to the United States in respect to the liability of the employer arising under or out of the contract of employment, except liability for workmen's compensation benefits under the Act of August 16, 1941, as amended \[42 U.S.C. 1651 et seq.\] or detention or other benefits paid under the Act of December 2, 1942, as amended \[42 U.S.C. 1701 et seq.\]. Any claim allowed under the provisions of this section shall be certified by the Secretary of Labor to the Secretary of the Treasury for payment out of the War Claims Fund established by section 4110 of this title.
 
 #### (b) Cancellation of employees' obligations; repayment to employees
 
@@ -13,6 +13,8 @@ The Secretary of Labor is authorized to receive, adjudicate according to law, an
 #### (c) Omitted
 
 (July 3, 1948, ch. 826, title I, §4, 62 Stat. 1241; 1950 Reorg. Plan No. 19, §1, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1271; Pub. L. 87–846, title I, §102, Oct. 22, 1962, 76 Stat. 1107.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -30,11 +32,17 @@ Section was formerly classified to section 2003 of the former Appendix to this t
 
 <b>1962</b>—Subsecs. (a), (b)(2). Pub. L. 87–846 made technical amendment to reference in original act which appears in text as reference to section 4110 of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transfer of Functions
 
-"Secretary of Labor" substituted in subsecs. (a) and (b) for "Federal Security Administrator" and "Administrator" pursuant to Reorg. Plan No. 19 of 1950, §1, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1271, which transferred functions of Federal Security Administrator and Federal Security Agency under this section to Secretary of Labor, with power to delegate, prior to repeal by by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 662. See section 8145 of Title 5, Government Organization and Employees.
-
 For provisions transferring Foreign Claims Settlement Commission of the United States to Department of Justice, as a separate agency, see section 1622a et seq. of Title 22, Foreign Relations and Intercourse.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+"Secretary of Labor" substituted in subsecs. (a) and (b) for "Federal Security Administrator" and "Administrator" pursuant to Reorg. Plan No. 19 of 1950, §1, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1271, which transferred functions of Federal Security Administrator and Federal Security Agency under this section to Secretary of Labor, with power to delegate, prior to repeal by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 662. See section 8145 of Title 5, Government Organization and Employees.
 
 War Claims Commission, including offices of its members, abolished and functions and funds transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1 of 1954, §§2, 4, 6(c), eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out in the Appendix to Title 5, Government Organization and Employees. See, also, section 4101 of this title and notes thereunder.
 

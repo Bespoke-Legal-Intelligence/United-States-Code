@@ -34,7 +34,7 @@ Limitations.—
 
 &emsp;(1)
 
-In general.—The authority in subsection (a) may be used only to the extent necessary to competitively recruit or retain individualsexceptionally well qualified for positions described in subsection (c).
+In general.—The authority in subsection (a) may be used only to the extent necessary to competitively recruit or retain individuals exceptionally well qualified for positions described in subsection (c).
 
 &emsp;(2)
 
@@ -45,6 +45,8 @@ Number of positions.—The authority in subsection (a) may not be used with resp
 Term of positions.—The authority in subsection (a) may be used only for positions having terms less than five years.
 
 (Added Pub. L. 116–283, div. A, title XI, §1114(a), Jan. 1, 2021, 134 Stat. 3894.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

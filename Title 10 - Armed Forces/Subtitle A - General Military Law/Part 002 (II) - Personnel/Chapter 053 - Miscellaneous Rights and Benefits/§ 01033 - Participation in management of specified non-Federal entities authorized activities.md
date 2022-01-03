@@ -40,6 +40,8 @@ Regulations.—The Secretary of Defense, and the Secretary of Homeland Security 
 
 (Added Pub. L. 105–85, div. A, title V, §593(a)(1), Nov. 18, 1997, 111 Stat. 1762; amended Pub. L. 106–65, div. A, title V, §583, Oct. 5, 1999, 113 Stat. 634; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1033, act Aug. 10, 1956, ch. 1041, 70A Stat. 80, related to Reserves continuing to accept compensation while on active duty that they were receiving prior to being ordered to active duty, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§1662(g)(2), 1691, Oct. 5, 1994, 108 Stat. 2996, 3026, eff. Dec. 1, 1994.
@@ -49,6 +51,8 @@ A prior section 1033, act Aug. 10, 1956, ch. 1041, 70A Stat. 80, related to Rese
 <b>2002</b>—Subsecs. (b)(1), (d). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
 <b>1999</b>—Subsec. (b)(3)(E). Pub. L. 106–65 added subpar. (E).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

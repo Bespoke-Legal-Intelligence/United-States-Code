@@ -8,7 +8,7 @@ In order to assure (1) that the limitation on interest payments or other conditi
 
 #### (1) Quarterly payment based on unpaid balance
 
-&emsp;A special allowance shall be paid for each of the 3-month periods ending March 31, June 30, September 30, and December 31 of every year and the amount of such allowance paid to any holder with respect to any 3-month period shall be a percentage of the average unpaid balance of principal (not including unearnedinterest added to principal) of all eligible loans held by such holder during such period.
+&emsp;A special allowance shall be paid for each of the 3-month periods ending March 31, June 30, September 30, and December 31 of every year and the amount of such allowance paid to any holder with respect to any 3-month period shall be a percentage of the average unpaid balance of principal (not including unearned interest added to principal) of all eligible loans held by such holder during such period.
 
 #### (2) Rate of special allowance
 
@@ -66,7 +66,7 @@ In order to assure (1) that the limitation on interest payments or other conditi
 
 &emsp;&emsp;(I) an obligation of the Maine Educational Loan Marketing Corporation to the Student Loan Marketing Association pursuant to an agreement entered into on January 31, 1984; or
 
-&emsp;&emsp;(II) an obligation of the South Carolina Student Loan Corporation to the South Carolina National Bank pursuant to an agreement entered into on July 30, 1986.
+&emsp;&emsp;(II) an obligation of the South Carolina Student Loan Corporation to the SouthCarolina National Bank pursuant to an agreement entered into on July 30, 1986.
 
 &emsp;(E) In the case of any loan for which the applicable rate of interest is described in section 1077a(g)(2) of this title, subparagraph (A)(iii) shall be applied by substituting "2.5 percent" for "3.10 percent".
 
@@ -130,7 +130,7 @@ PLUS loans.—In the case of any loan for which the first disbursement is made o
 
 &emsp;&emsp;(iv)
 
-Consolidation loans.—In the case of any consolidation loan for which the application is received by an eligible lender on or after October 1, 1998, and before January 1, 2000, and for which the applicable interest rate is determined under section 1077a(k)(4) of this title, clause (i)(III) of this subparagraph shall be applied by substituting "3.1percent" for "2.8 percent", subject to clause (vi) of this subparagraph.
+Consolidation loans.—In the case of any consolidation loan for which the application is received by an eligible lender on or after October 1, 1998, and before January 1, 2000, and for which the applicable interest rate is determined under section 1077a(k)(4) of this title, clause (i)(III) of this subparagraph shall be applied by substituting "3.1 percent" for "2.8 percent", subject to clause (vi) of this subparagraph.
 
 &emsp;&emsp;(v)
 
@@ -206,7 +206,7 @@ Calculation of excess.—The amount of any adjustment of interest on a loan to b
 
 &emsp;&emsp;&emsp;(III)
 
-Special allowance support level.—For purposes of this clause, the term "special allowance support level" means, for any loan, a number expressed as a percentage equal to the sum of the rates determined under subclauses (I) and (III) of clause (i), and applying any substitutionrules applicable to such loan under clauses (ii), (iii), (iv), (vi), and (vii) in determining such sum.
+Special allowance support level.—For purposes of this clause, the term "special allowance support level" means, for any loan, a number expressed as a percentage equal to the sum of the rates determined under subclauses (I) and (III) of clause (i), and applying any substitution rules applicable to such loan under clauses (ii), (iii), (iv), (vi), and (vii) in determining such sum.
 
 &emsp;&emsp;(vi)
 
@@ -396,7 +396,9 @@ The Secretary shall adopt or amend appropriate regulations pertaining to program
 
 With respect to any loan made under this part for which the interest rate is determined under the Servicemembers Civil Relief Act (50 U.S.C. App. 527) \[now 50 U.S.C. 3937\],<sup>1</sup> the applicable interest rate to be subtracted in calculating the special allowance for such loan under this section shall be the interest rate determined under that Act for such loan.
 
-(Pub. L. 89–329, title IV, §438, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1414; amended Pub. L. 100–50, §10(d)(2), (bb), (cc), June 3, 1987, 101 Stat. 342, 347; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 102–325, title IV, §430, July 23, 1992, 106 Stat. 553; Pub. L. 103–66, title IV, §§4102(a), 4103, 4105, 4111, Aug. 10, 1993, 107 Stat. 366, 367, 368, 370; Pub. L. 105–178, title VIII, §8301(b), June 9, 1998, 112 Stat. 497; Pub. L. 105–244, title IV, §§416(b)(1), (3), 433(a)–(d)(1), Oct. 7, 1998, 112 Stat. 1680, 1682, 1710, 1711; Pub. L. 106–170, title IV, §409(a), Dec. 17, 1999, 113 Stat. 1914; Pub. L. 107–139, §2, Feb. 8, 2002, 116 Stat. 10; Pub. L. 108–409, §2, Oct. 30, 2004, 118 Stat. 2299; Pub. L. 109–150, §2(b), (c)(2), Dec. 30, 2005, 119 Stat. 2884; Pub. L. 109–171, title VIII, §§8006(b)(1), 8008(c)(1), 8013(a)–(c)(1), (d)(1), Feb. 8, 2006, 120 Stat. 159, 162, 166, 167; Pub. L. 110–84, title II, §201(a)(2), title III, §§302(b)(2), 305, Sept. 27, 2007, 121 Stat. 791, 796, 799; Pub. L. 110–315, title IV, §422(g)(2), Aug. 14, 2008, 122 Stat. 3230; Pub. L. 111–39, title IV, §402(f)(11), July 1, 2009, 123 Stat. 1945; Pub. L. 111–152, title II, §2208, Mar. 30, 2010, 124 Stat. 1077; Pub. L. 112–74, div. F, title III, §309(e), Dec. 23, 2011, 125 Stat. 1101.)
+(Pub. L. 89–329, title IV, §438, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1414; amended Pub. L. 100–50, §10(d)(2), (bb), (cc), June 3, 1987, 101 Stat. 342, 347; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 102–325,title IV, §430, July 23, 1992, 106 Stat. 553; Pub. L. 103–66, title IV, §§4102(a), 4103, 4105, 4111, Aug. 10, 1993, 107 Stat. 366, 367, 368, 370; Pub. L. 105–178, title VIII, §8301(b), June 9, 1998, 112 Stat. 497; Pub. L. 105–244, title IV, §§416(b)(1), (3), 433(a)–(d)(1), Oct. 7, 1998, 112 Stat. 1680, 1682, 1710, 1711; Pub. L. 106–170, title IV, §409(a), Dec. 17, 1999, 113 Stat. 1914; Pub. L. 107–139, §2, Feb. 8, 2002, 116 Stat. 10; Pub. L. 108–409, §2, Oct. 30, 2004, 118 Stat. 2299; Pub. L. 109–150, §2(b), (c)(2), Dec. 30, 2005, 119 Stat. 2884; Pub. L. 109–171, title VIII, §§8006(b)(1), 8008(c)(1), 8013(a)–(c)(1), (d)(1), Feb. 8, 2006, 120 Stat. 159, 162, 166, 167; Pub. L. 110–84, title II, §201(a)(2), title III, §§302(b)(2), 305, Sept. 27, 2007, 121 Stat. 791, 796, 799; Pub. L. 110–315, title IV, §422(g)(2), Aug. 14, 2008, 122 Stat. 3230; Pub. L. 111–39, title IV, §402(f)(11), July 1, 2009, 123 Stat. 1945; Pub. L. 111–152, title II, §2208, Mar. 30, 2010, 124 Stat. 1077; Pub. L. 112–74, div. F, title III, §309(e), Dec. 23, 2011, 125 Stat. 1101.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -458,7 +460,7 @@ Subsec. (b)(2)(I)(vi). Pub. L. 110–84, §305(a)(3), added cl. (vi).
 
 Subsec. (b)(5). Pub. L. 110–84, §302(b)(2), struck out concluding provisions which read as follows: "As used in this section, the term 'eligible loan' includes all loans subject to section 1078–9 of this title."
 
-Subsec. (d)(2). Pub. L. 110–84, §305(b), amended par. (2) generally. Prior to amendment, text read as follows:"With respect to any loan under this part for which the first disbursement was made on or after October 1, 1993, the amount of the loan fee which shall be deducted under paragraph (1) shall be equal to 0.50 percent of the principal amount of the loan."
+Subsec. (d)(2). Pub. L. 110–84, §305(b), amended par. (2) generally. Prior to amendment, text read as follows: "With respect to any loan under this part for which the first disbursement was made on or after October 1, 1993, the amount of the loan fee which shall be deducted under paragraph (1) shall be equal to 0.50 percent of the principal amount of the loan."
 
 <b>2006</b>—Subsec. (b)(2)(B). Pub. L. 109–171, §8013(d)(1), repealed Pub. L. 109–150, §2(b), (c)(2). See 2005 Amendment note below.
 
@@ -546,7 +548,7 @@ Subsec. (c)(2). Pub. L. 105–244, §433(b)(1), substituted "(including loans ma
 
 Subsec. (c)(8). Pub. L. 105–244, §433(b)(2), added par. (8).
 
-Subsec. (d)(1). Pub. L. 105–244, §433(c), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: "Notwithstanding subsection (b) of this section, the Secretary shall reduce the total amount of interest and special allowance payable under section 1078(a)(3)(A) of this title and subsection (b) of this section, respectively, to any holder of a loan by a loan fee in an amount determined in accordance with paragraph (2) of this subsection. If the total amount of interest and special allowance payable under section 1078(a)(3)(A) of this title and subsection (b) of this section, respectively, is less than the amount of such loanfee, then the Secretary shall deduct such excess amount from subsequent quarters' payments until the total amount has been deducted."
+Subsec. (d)(1). Pub. L. 105–244, §433(c), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: "Notwithstanding subsection (b) of this section, the Secretary shall reduce the total amount of interest and special allowance payable under section 1078(a)(3)(A) of this title and subsection (b) of this section, respectively, to any holder of a loan by a loan fee in an amount determined in accordance with paragraph (2) of this subsection. If the total amount of interest and special allowance payable under section 1078(a)(3)(A) of this title and subsection (b) of this section, respectively, is less than the amount of such loan fee, then the Secretary shall deduct such excess amount from subsequent quarters' payments until the total amount has been deducted."
 
 Subsec. (e). Pub. L. 105–244, §433(d)(1), amended heading and text of subsec. (e) generally. Prior to amendment, subsec. (e) related to lending from proceeds of tax exempt obligations.
 
@@ -594,6 +596,8 @@ Subsec. (b)(7). Pub. L. 100–50, §10(bb)(2), added par. (7).
 
 Subsec. (d)(4)(C). Pub. L. 100–50, §10(cc), struck out ", as evidenced by the information submitted under paragraph (2)(G) of this subsection" after "fiscal year".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2009 Amendment
 
 Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
@@ -638,7 +642,7 @@ Pub. L. 106–170, title IV, §409(b), Dec. 17, 1999, 113 Stat. 1916, provided t
 
 Amendment by section 416(b)(1) and (3) of Pub. L. 105–244 applicable with respect to any loan made, insured, or guaranteed under this part for which the first disbursement is made on or after Oct. 1, 1998, and before July 1, 2003, except that such amendment is applicable with respect to any loan made under section 1078–3 of this title for which application is received by an eligible lender on or after Oct. 1, 1998, and before July 1, 2003, see section 416(c) of Pub. L. 105–244, set out as a note under section 1077a of this title.
 
-Amendment by section 433(a)–(c) of Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub.L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
+Amendment by section 433(a)–(c) of Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 
 Pub. L. 105–244, title IV, §433(d)(2), Oct. 7, 1998, 112 Stat. 1711, provided that: "The amendment made by paragraph (1) \[amending this section\] shall be effective as of the date the plan required by section 438(e)(1) \[subsec. (e)(1) of this section\] (as such section was in effect prior to such amendment) was approved by the Secretary or the Governor (whichever was the case). No Authority shall have a right or cause of action against the Secretary for any amounts paid to or offset by the Secretary pursuant to a final settlement agreement entered into prior to July 1, 1998, resolving any audit or program review findings alleging violations of any provision of section 438(e) (as in effect prior to such amendment)."
 

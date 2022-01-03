@@ -52,7 +52,7 @@ The Contract Disputes Act of 1978, referred to in subsec. (d)(3), is Pub. L. 95�
 
 #### Effective Date
 
-Section effective Dec. 23, 2004, and applicable to contracts that take effect with respect to the calendaryear 2006, see section 7 of Pub. L. 108–496, set out as a note under section 8951 of this title.
+Section effective Dec. 23, 2004, and applicable to contracts that take effect with respect to the calendar year 2006, see section 7 of Pub. L. 108–496, set out as a note under section 8951 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

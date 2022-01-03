@@ -12,7 +12,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The terms "comparative clinical effectiveness research" and "research" mean research evaluating and comparing health outcomes and the clinical effectiveness, risks,and benefits of 2 or more medical treatments, services, and items described in subparagraph (B).
+&emsp;&emsp;The terms "comparative clinical effectiveness research" and "research" mean research evaluating and comparing health outcomes and the clinical effectiveness, risks, and benefits of 2 or more medical treatments, services, and items described in subparagraph (B).
 
 #### (B) Medical treatments, services, and items described
 
@@ -46,7 +46,7 @@ In this section:
 
 #### (c) Purpose
 
-The purpose of the Institute is to assist patients, clinicians, purchasers, and policy-makers in making informed health decisions by advancing the quality and relevance of evidence concerning the manner in which diseases, disorders, and other health conditions can effectively and appropriately be prevented, diagnosed, treated, monitored, and managed through research and evidence synthesis that considers variations in patient subpopulations, and the dissemination of research findings with respect to the relative health outcomes, clinical effectiveness, and appropriateness of the medical treatments, services, and items described in subsection (a)(2)(B).
+The purpose of the Institute is to assist patients, clinicians, purchasers, and policy-makersin making informed health decisions by advancing the quality and relevance of evidence concerning the manner in which diseases, disorders, and other health conditions can effectively and appropriately be prevented, diagnosed, treated, monitored, and managed through research and evidence synthesis that considers variations in patient subpopulations, and the dissemination of research findings with respect to the relative health outcomes, clinical effectiveness, and appropriateness of the medical treatments, services, and items described in subsection (a)(2)(B).
 
 #### (d) Duties
 
@@ -128,7 +128,7 @@ The purpose of the Institute is to assist patients, clinicians, purchasers, and 
 
 #### (F) Consideration of full range of outcomes data
 
-&emsp;&emsp;Research shall be designed, as appropriate, to take into account and capture the full range of clinical and patient-centered outcomes relevant to, and that meet the needs of, patients, clinicians, purchasers, and policy-makers in making informed health decisions. In addition to the relative health outcomes and clinical effectiveness, clinical and patient-centered outcomes shall include the potential burdens and economic impacts ofthe utilization of medical treatments, items, and services on different stakeholders and decision-makers respectively. These potential burdens and economic impacts include medical out-of-pocket costs, including health plan benefit and formulary design, non-medical costs to the patient and family, including caregiving, effects on future costs of care, workplace productivity and absenteeism, and healthcare utilization.
+&emsp;&emsp;Research shall be designed, as appropriate, to take into account and capture the full range of clinical and patient-centered outcomes relevant to, and that meet the needs of, patients, clinicians, purchasers, and policy-makers in making informed health decisions. In addition to the relative health outcomes and clinical effectiveness, clinical and patient-centered outcomes shall include the potential burdens and economic impacts of the utilization of medical treatments, items, and services on different stakeholders and decision-makers respectively. These potential burdens and economic impacts include medical out-of-pocket costs, including health plan benefit and formulary design, non-medical costs to the patient and family, including caregiving, effects on future costs of care, workplace productivity and absenteeism, and healthcare utilization.
 
 #### (3) Data collection
 
@@ -178,7 +178,7 @@ The purpose of the Institute is to assist patients, clinicians, purchasers, and 
 
 &emsp;&emsp;Subject to subparagraph (D), the methodology committee shall work to develop and improve the science and methods of comparative clinical effectiveness research by, not later than 18 months after the establishment of the Institute, directly or through subcontract, developing and periodically updating the following:
 
-&emsp;&emsp;&emsp;(i) Methodological standards for research. Such methodological standards shall provide specific criteria for internal validity, generalizability, feasibility, and timeliness of research and for health outcomes measures, risk adjustment, and other relevant aspects of research and assessment with respect to the design of research. Any methodological standards developed and updated under this subclause <sup>3</sup> shall be scientifically based and include methods by which new information, data, or advances in technology are considered and incorporated into ongoing research projects by the Institute, as appropriate. The process for developing and updatingsuch standards shall include input from relevant experts, stakeholders, and decisionmakers, and shall provide opportunities for public comment. Such standards shall also include methods by which patient subpopulations can be accounted for and evaluated in different types of research. As appropriate, such standards shall build on existing work on methodological standards for defined categories of health interventions and for each of the major categories of comparative clinical effectiveness research methods (determined as of March 23, 2010).
+&emsp;&emsp;&emsp;(i) Methodological standards for research. Such methodological standards shall provide specific criteria for internal validity, generalizability, feasibility, and timeliness of research and for health outcomes measures, risk adjustment, and other relevant aspects of research and assessment with respect to the design of research. Any methodological standards developed and updated under this subclause <sup>3</sup> shall be scientifically based and include methods by which new information, data, or advances in technology are considered and incorporated into ongoing research projects by the Institute, as appropriate. The process for developing and updating such standards shall include input from relevant experts, stakeholders, and decisionmakers, and shall provide opportunities for public comment. Such standards shall also include methods by which patient subpopulations can be accounted for and evaluated in different types of research. As appropriate, such standards shall build on existing work on methodological standards for defined categories of health interventions and for each of the major categories of comparative clinical effectiveness research methods (determined as of March 23, 2010).
 
 &emsp;&emsp;&emsp;(ii) A translation table that is designed to provide guidance and act as a reference for the Board to determine research methods that are most likely to address each specific research question.
 
@@ -242,7 +242,7 @@ The purpose of the Institute is to assist patients, clinicians, purchasers, and 
 
 &emsp;The Institute shall submit an annual report to Congress and the President, and shall make the annual report available to the public. Such report shall contain—
 
-&emsp;&emsp;(A) a description of the activities conducted under this section, research priorities identified under paragraph (1)(A) and methodological standards developed and updatedby the methodology committee under paragraph (6)(C)(i) that are adopted under paragraph (9) during the preceding year;
+&emsp;&emsp;(A) a description of the activities conducted under this section, research priorities identified under paragraph (1)(A) and methodological standards developed and updated by the methodology committee under paragraph (6)(C)(i) that are adopted under paragraph (9) during the preceding year;
 
 &emsp;&emsp;(B) the research project agenda and budget of the Institute for the following year;
 
@@ -288,7 +288,7 @@ The purpose of the Institute is to assist patients, clinicians, purchasers, and 
 
 #### (2) Qualifications
 
-&emsp;The Board shall represent a broad range of perspectives and collectively have scientific expertise in clinical health sciences research, including epidemiology, decisions sciences, health economics, and statistics. In appointing the Board, the Comptroller General of the United States shall consider and disclose any conflicts of interest in accordance with subsection (h)(4)(B). Members of the Board shall be recused from relevant Institute activities in the case where the member (or an immediate family member of such member) has a real conflict of interest directly related to the research project or the matter that could affect or be affected by such participation.
+&emsp;The Board shall represent a broad range of perspectives and collectively have scientific expertise in clinical health sciences research, including epidemiology, decisions sciences, health economics, and statistics. In appointing the Board, the Comptroller General of the United States shall consider and disclose any conflicts of interest in accordance with subsection (h)(4)(B). Members of the Board shall be recused from relevant Institute activitiesin the case where the member (or an immediate family member of such member) has a real conflict of interest directly related to the research project or the matter that could affect or be affected by such participation.
 
 #### (3) Terms; vacancies
 
@@ -398,9 +398,11 @@ The Institute,<sup>5</sup> its Board or staff, shall be prohibited from acceptin
 
 &emsp;&emsp;(A) to permit the Institute to mandate coverage, reimbursement, or other policies for any public or private payer; or
 
-&emsp;&emsp;(B) as preventing the Secretary from covering the routine costs of clinical care received by an individual entitled to, or enrolled for, benefits under subchapter XVIII, XIX, or XXI in the case where such individual is participating in a clinical trial and such costs would otherwise be covered under such subchapter with respect to the beneficiary.
+&emsp;&emsp;(B) as preventing the Secretary from covering the routine costs of clinical care received by an individual entitled to, or enrolled for, benefits under subchapter XVIII, XIX, or XXI in the case where such individual is participating in a clinical trial andsuch costs would otherwise be covered under such subchapter with respect to the beneficiary.
 
 (Aug. 14, 1935, ch. 531, title XI, §1181, as added and amended Pub. L. 111–148, title VI, §6301(a), title X, §10602, Mar. 23, 2010, 124 Stat. 727, 1005; Pub. L. 116–94, div. N, title I, §104(d)–(h), Dec. 20, 2019, 133 Stat. 3098, 3099.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

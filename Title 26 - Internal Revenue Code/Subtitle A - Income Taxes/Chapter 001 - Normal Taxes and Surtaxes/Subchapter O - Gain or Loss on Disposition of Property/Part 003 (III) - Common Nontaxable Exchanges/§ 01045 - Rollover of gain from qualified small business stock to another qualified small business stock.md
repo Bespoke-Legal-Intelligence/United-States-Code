@@ -40,11 +40,15 @@ For purposes of this section—
 
 (Added Pub. L. 105–34, title III, §313(a), Aug. 5, 1997, 111 Stat. 841; amended Pub. L. 105–206, title VI, §6005(f), July 22, 1998, 112 Stat. 806.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–206, §6005(f)(1), in introductory provisions, substituted "a taxpayer other than a corporation" for "an individual" and "such taxpayer" for "such individual".
 
 Subsec. (b)(5). Pub. L. 105–206, §6005(f)(2), added par. (5).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

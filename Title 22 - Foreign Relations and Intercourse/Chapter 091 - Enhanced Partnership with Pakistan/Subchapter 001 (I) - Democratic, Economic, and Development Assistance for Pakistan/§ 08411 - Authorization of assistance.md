@@ -96,7 +96,7 @@ Activities that may be supported by assistance under subsection (a) include the 
 
 #### (5) Chief of Mission Fund
 
-&emsp;Of the amounts appropriated for each fiscal year pursuant to the authorization of appropriations under section 8412 of this title, up to $5,000,000 may be used by the Secretary of State to establish a fund for use by the Chief of Mission in Pakistan to provide assistance toPakistan under this subchapter or the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.) to address urgent needs or opportunities, consistent with the purposes of this section, or for purposes of humanitarian relief. The fund established pursuant to this paragraph may be referred to as the "Chief of Mission Fund".
+&emsp;Of the amounts appropriated for each fiscal year pursuant to the authorization of appropriations under section 8412 of this title, up to $5,000,000 may be used by the Secretary of State to establish a fund for use by the Chief of Mission in Pakistan to provide assistance to Pakistan under this subchapter or the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.) to address urgent needs or opportunities, consistent with the purposes of this section, or for purposes of humanitarian relief. The fund established pursuant to this paragraph may be referred to as the "Chief of Mission Fund".
 
 #### (6) Sense of Congress
 
@@ -160,7 +160,7 @@ Pub. L. 116–338, Jan. 13, 2021, 134 Stat. 5122, provided that:
 
 &emsp;"(13) According to the World Bank, 'Higher education benefits both individuals and society. Economic returns for college graduates are the highest in the entire educational system—an average 17 percent increase in earnings per year of schooling as compared with 10 percent for primary school.'.
 
-&emsp;"(14) The United States provides critical foreign assistance to Pakistan's education sector to improve access to and the quality of basic and higher education. Since 2010, the United States Agency forInternational Development (referred to in this Act as 'USAID') has awarded more than 6,000 scholarships for young women to receive higher education in Pakistan.
+&emsp;"(14) The United States provides critical foreign assistance to Pakistan's education sector to improve access to and the quality of basic and higher education. Since 2010, the United States Agency for International Development (referred to in this Act as 'USAID') has awarded more than 6,000 scholarships for young women to receive higher education in Pakistan.
 
 &emsp;"(15) The Merit and Needs-Based Scholarship Program administered by USAID awards scholarships to academically talented, financially needy Pakistani students from all regions, including female students from rural areas of the country, to pursue bachelor's or master's degrees at participating Pakistani universities.
 

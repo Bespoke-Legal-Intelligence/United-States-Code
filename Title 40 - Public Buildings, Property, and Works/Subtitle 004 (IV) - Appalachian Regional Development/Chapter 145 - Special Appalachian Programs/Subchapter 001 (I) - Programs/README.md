@@ -15,3 +15,4 @@
 - [&sect; 14508 - Economic and energy development initiative](%C2%A7%2014508%20-%20Economic%20and%20energy%20development%20initiative.md)
 - [&sect; 14509 - High-speed broadband deployment initiative](%C2%A7%2014509%20-%20High-speed%20broadband%20deployment%20initiative.md)
 - [&sect; 14510 - Drug abuse mitigation initiative](%C2%A7%2014510%20-%20Drug%20abuse%20mitigation%20initiative.md)
+- [&sect; 14511 - Appalachian regional energy hub initiative](%C2%A7%2014511%20-%20Appalachian%20regional%20energy%20hub%20initiative.md)

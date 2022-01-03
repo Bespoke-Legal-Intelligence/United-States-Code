@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall pay, in the case of an eligible individual whose death is determined to have resulted from a covered injury or injuries, a death benefit in the amount determined under paragraph (2) to the survivor or survivors in the same manner as death benefits are paid pursuant to the Public Safety Officers' Benefits Program under subpart 1 of part L of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796 et seq.) <sup>1</sup> with respect to an eligible deceased (except that in the case of an eligible individual who is a minor with no living parent, the legal guardian shall be considered the survivor in the place of the parent).
+&emsp;The Secretary shall pay, in the case of an eligible individual whose death is determined to have resulted from a covered injury or injuries, a death benefit in the amount determined under paragraph (2) to the survivor or survivors in the same manner as death benefitsare paid pursuant to the Public Safety Officers' Benefits Program under subpart 1 of part L of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796 et seq.) <sup>1</sup> with respect to an eligible deceased (except that in the case of an eligible individual who is a minor with no living parent, the legal guardian shall be considered the survivor in the place of the parent).
 
 #### (2) Benefit amount
 
@@ -61,6 +61,8 @@
 A benefit under subsection (a) or (b) shall be in addition to any amounts received by an eligible individual under section 239c of this title.
 
 (July 1, 1944, ch. 373, title II, §266, as added Pub. L. 108–20, §2, Apr. 30, 2003, 117 Stat. 643.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

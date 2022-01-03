@@ -6,7 +6,7 @@
 
 (2) Technology transfer, consistent with mission responsibilities, is a responsibility of each laboratory science and engineering professional.
 
-(3) Each laboratory director shall ensure that efforts to transfer technology are considered positively in laboratory job descriptions, employee promotion policies, and evaluation of thejob performance of scientists and engineers in the laboratory.
+(3) Each laboratory director shall ensure that efforts to transfer technology are considered positively in laboratory job descriptions, employee promotion policies, and evaluation of the job performance of scientists and engineers in the laboratory.
 
 #### (b) Establishment of Research and Technology Applications Offices
 
@@ -156,7 +156,7 @@ Content.—The report shall—
 
 &emsp;(C)
 
-Public availability.—The Secretary shall make the report available to the public through Internet sites or other electronic means.
+Public availability.—The Secretary shall make the report available to the publicthrough Internet sites or other electronic means.
 
 (3) Not later than one year after October 20, 1986, the Secretary shall submit to the President and the Congress a report regarding—
 
@@ -178,7 +178,9 @@ The reporting obligations imposed by this section—
 
 The Director of a laboratory, or the head of any Federal agency or department, may loan, lease, or give research equipment that is excess to the needs of the laboratory, agency, or department to an educational institution or nonprofit organization for the conduct of technical and scientific education and research activities. Title of ownership shall transfer with a gift under this section.
 
-(Pub. L. 96–480, §11, Oct. 21, 1980, 94 Stat. 2318; renumbered §10 and amended Pub. L. 99–502, §§3–5, 9(e)(1), Oct. 20, 1986, 100 Stat. 1787, 1789, 1791, 1797;renumbered §11 and amended Pub. L. 100–418, title V, §§5115(b)(2), 5122(a)(1), 5162(b), 5163(c)(1), (3), Aug. 23, 1988, 102 Stat. 1433, 1438, 1450, 1451; Pub. L. 100–519, title II, §§201(d)(3), 212(a)(4), Oct. 24, 1988, 102 Stat. 2594, 2595; Pub. L. 101–189, div. C, title XXXI, §3133(e), Nov. 29, 1989, 103 Stat. 1679; Pub. L. 102–245, title III, §§301, 303, Feb. 14, 1992, 106 Stat. 19, 20; Pub. L. 104–66, title III, §3001(f), Dec. 21, 1995, 109 Stat. 734; Pub. L. 104–113, §§3, 9, Mar. 7, 1996, 110 Stat. 775, 779; Pub. L. 105–394, title II, §212(d), Nov. 13, 1998, 112 Stat. 3655; Pub. L. 106–404, §§7(5), (6), 10(a), Nov. 1, 2000, 114 Stat. 1745–1747; Pub. L. 110–69, title III, §3002(c)(4), Aug. 9, 2007, 121 Stat. 586.)
+(Pub. L. 96–480, §11, Oct. 21, 1980, 94 Stat. 2318; renumbered §10 and amended Pub. L. 99–502, §§3–5, 9(e)(1), Oct. 20, 1986, 100 Stat. 1787, 1789, 1791, 1797; renumbered §11 and amended Pub. L. 100–418, title V, §§5115(b)(2), 5122(a)(1), 5162(b), 5163(c)(1), (3), Aug. 23, 1988, 102 Stat. 1433, 1438, 1450, 1451; Pub. L. 100–519, title II, §§201(d)(3), 212(a)(4), Oct. 24, 1988, 102 Stat. 2594, 2595; Pub. L. 101–189, div. C, title XXXI, §3133(e), Nov. 29, 1989, 103 Stat. 1679; Pub. L. 102–245, title III, §§301, 303, Feb. 14, 1992, 106 Stat. 19, 20; Pub. L. 104–66, title III, §3001(f), Dec. 21, 1995, 109 Stat. 734; Pub. L. 104–113, §§3, 9, Mar. 7, 1996, 110 Stat. 775, 779; Pub. L. 105–394, title II, §212(d), Nov. 13, 1998, 112 Stat. 3655; Pub. L. 106–404, §§7(5), (6), 10(a), Nov. 1, 2000, 114 Stat. 1745–1747; Pub. L. 110–69, title III, §3002(c)(4), Aug. 9, 2007, 121 Stat. 586.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -272,15 +274,19 @@ Subsecs. (e), (f). Pub. L. 99–502, §§3, 4(d), added subsec. (e), redesignate
 
 Subsec. (g). Pub. L. 99–502, §5, added subsec. (g).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transfer of Functions
 
 Functions which the Director of the National Institute on Disability and Rehabilitation Research exercised before July 22, 2014 (including all related functions of any officer or employee of the National Institute on Disability and Rehabilitation Research), transferred to the National Institute on Disability, Independent Living, and Rehabilitation Research, see subsection (n) of section 3515e of Title 42, The Public Health and Welfare.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 12591. Facilitating Access to Science and Technology
 
 Ex. Ord. No. 12591, Apr. 10, 1987, 52 F.R. 13414, as amended by Ex. Ord. No. 12618, Dec. 22, 1987, 52 F.R. 48661, provided:
 
-By the authority vested in me as President by the Constitution and laws of the United States of America, including the Federal Technology Transfer Act of 1986 (Public Law 99–502) \[see Short Title of 1986 Amendments note set out under section 3701 of this title\], the Trademark Clarification Act of 1984 (Public Law 98–620) \[see Short Title of 1984 Amendment note set out under section 1051 of this title\], and the University and Small Business Patent Procedure Act of 1980 (Public Law 96–517) \[see Tables for classification\], and in order to ensure that Federal agencies and laboratories assist universities and the private sector in broadening our technology base by moving new knowledge from the research laboratory into the development of new products and processes, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and laws of the United States of America,including the Federal Technology Transfer Act of 1986 (Public Law 99–502) \[see Short Title of 1986 Amendments note set out under section 3701 of this title\], the Trademark Clarification Act of 1984 (Public Law 98–620) \[see Short Title of 1984 Amendment note set out under section 1051 of this title\], and the University and Small Business Patent Procedure Act of 1980 (Public Law 96–517) \[see Tables for classification\], and in order to ensure that Federal agencies and laboratories assist universities and the private sector in broadening our technology base by moving new knowledge from the research laboratory into the development of new products and processes, it is hereby ordered as follows:
 
 Section 1. <i>Transfer of Federally Funded Technology.</i>
 
@@ -300,7 +306,7 @@ Section 1. <i>Transfer of Federally Funded Technology.</i>
 
 (4) promote the commercialization, in accord with my Memorandum to the Heads of Executive Departments and Agencies of February 18, 1983, of patentable results of federally funded research by granting to all contractors, regardless of size, the title to patents made in whole or in part with Federal funds, in exchange for royalty-free use by or on behalf of the government;
 
-(5) administer all patents and licenses to inventions made with federal assistance, which are owned by the non-profit contractor or grantee, in accordance with Section 202(c)(7) of Title 35 of the United States Code as amended by Public Law 98–620, without regard to limitations on licensing found in that section prior toamendment or in Institutional Patent Agreements now in effect that were entered into before that law was enacted on November 8, 1984, unless, in the case of an invention that has not been marketed, the funding agency determines, based on information in its files, that the contractor or grantee has not taken adequate steps to market the inventions, in accordance with applicable law or an Institutional Patent Agreement;
+(5) administer all patents and licenses to inventions made with federal assistance, which are owned by the non-profit contractor or grantee, in accordance with Section 202(c)(7) of Title 35 of the United States Code as amended by Public Law 98–620, without regard to limitations on licensing found in that section prior to amendment or in Institutional Patent Agreements now in effect that were entered into before that law was enacted on November 8, 1984, unless, in the case of an invention that has not been marketed, the funding agency determines, based on information in its files, that the contractor or grantee has not taken adequate steps to market the inventions, in accordance with applicable law or an Institutional Patent Agreement;
 
 (6) implement, as expeditiously as practicable, royalty-sharing programs with inventors who were employees of the agency at the time their inventions were made, and cash award programs; and
 
@@ -330,7 +336,7 @@ Sec. 4. <i>International Science and Technology</i>. In order to ensure that the
 
 (c) The Secretaries of State and Commerce and the Director of the National Science Foundation shall develop a central mechanism for the prompt and efficient dissemination of science and technology information developed abroad to users in Federal laboratories, academic institutions, and the private sector on a fee-for-service basis.
 
-Sec. 5. <i>Technology Transfer from the Department of Defense</i>. Within 6 months of the date of this Order \[Apr. 10, 1987\], the Secretary of Defense shall identify a list of funded technologies that would be potentially useful to United States industries and universities. The Secretary shall then accelerate efforts to make these technologies more readily available to United States industries and universities.
+Sec. 5. <i>Technology Transfer from the Department of Defense</i>. Within 6 months of the date of this Order \[Apr. 10, 1987\], the Secretary of Defense shall identify a list of funded technologies that would be potentially usefulto United States industries and universities. The Secretary shall then accelerate efforts to make these technologies more readily available to United States industries and universities.
 
 Sec. 6. <i>Basic Science and Technology Centers</i>. The head of each Executive department and agency shall examine the potential for including the establishment of university research centers in engineering, science, or technology in the strategy and planning for any future research and development programs. Such university centers shall be jointly funded by the Federal Government, the private sector, and, where appropriate, the States and shall focus on areas of fundamental research and technology that are both scientifically promising and have the potential to contribute to the Nation's long-term economic competitiveness.
 

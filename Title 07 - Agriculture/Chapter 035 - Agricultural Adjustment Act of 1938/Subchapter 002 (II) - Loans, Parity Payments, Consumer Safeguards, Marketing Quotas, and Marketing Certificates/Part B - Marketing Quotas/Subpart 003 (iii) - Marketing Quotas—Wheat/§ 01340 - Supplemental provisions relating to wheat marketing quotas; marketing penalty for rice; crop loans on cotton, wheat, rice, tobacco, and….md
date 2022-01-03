@@ -4,7 +4,7 @@ Notwithstanding the provisions of the Agricultural Adjustment Act of 1938, as am
 
 &emsp;(1) The farm marketing quota for any crop of wheat shall be the actual production of the acreage planted to such crop of wheat on the farm less the farm marketing excess. The farm marketing excess shall be an amount equal to twice the projected farm yield multiplied by the number of acres of such crop of wheat on the farm in excess of the farm acreage allotment for such crop unless the producer, in accordance with regulations issued by the Secretary and within the time prescribed therein, establishes to the satisfaction of the Secretary the actual production of such crop of wheat on the farm. If such actual production is so established, the farm marketing excess shall be an amount equal to the actual production of the number of acres of wheat on the farm in excess of the farm acreage allotment for such crop. In determining the farm marketing quota and farm marketing excess, any acreage of wheat remaining after the date prescribed by the Secretary for the disposal of excess acres of wheat shall be included as acreage of wheat on the farm, and the production thereof shall be appraised in such manner as the Secretary determines will provide a reasonably accurate estimate of such production. Any acreage of wheat disposed of in accordance with regulations issued by the Secretary prior to such date as may be prescribed by the Secretary shall be excluded in determining the farm marketing quota and farm marketing excess. Self-seeded (volunteer) wheat shall be included in determining the acreage of wheat. Marketing quotas for any marketing year shall be in effect with respect to wheat harvested in the calendar year in which such marketing year begins notwithstanding that the wheat is marketed prior to the beginning of such marketing year.
 
-&emsp;(2) Whenever farm marketing quotas are in effect with respect to any crop of wheat, the producers on a farm shall be subject to a penalty on the farm marketing excess of wheat at a rate per bushel equal to 65 per centum of the parity price per bushel of wheat as of May 1 of the calendar year in which the crop is harvested. Each producer having an interest in the crop of wheat on any farm for which a farm marketing excess of wheat is determined shall be jointly and severally liable for the entire amount of the penalty on the farm marketing excess.
+&emsp;(2) Whenever farm marketing quotas are in effect with respect to any crop of wheat, the producers on a farm shall be subject to a penalty on the farm marketing excess of wheat at a rate per bushel equal to 65 per centum of theparity price per bushel of wheat as of May 1 of the calendar year in which the crop is harvested. Each producer having an interest in the crop of wheat on any farm for which a farm marketing excess of wheat is determined shall be jointly and severally liable for the entire amount of the penalty on the farm marketing excess.
 
 &emsp;(3) The farm marketing excess for wheat shall be regarded as available for marketing, and the penalty and the storage amount or amounts to be delivered to the Secretary of the commodity shall be computed upon twice the normal production of the excess acreage. Where, upon the application of the producer for an adjustment of penalty or of storage, it is shown to the satisfaction of the Secretary that the actual production of the excess acreage is less than twice the normal production thereof, the difference between the amount of the penalty or storage as computed upon the basis of twice the normal production and as computed upon the basis of actual production shall be returned to or allowed the producer. The Secretary shall issue regulations under which the farm marketing excess of the commodity for the farm may be stored or delivered to him. Upon failure to store or deliver to the Secretary the farm marketing excess within such time as may be determined under regulations prescribed by the Secretary, the penalty computed as aforesaid shall be paid by the producer. Any wheat delivered to the Secretary hereunder shall become the property of the United States and shall be disposed of by the Secretary for relief purposes in the United States or in foreign countries or in such other manner as he shall determine will divert it from the normal channels of trade and commerce.
 
@@ -28,6 +28,8 @@ Notwithstanding the provisions of the Agricultural Adjustment Act of 1938, as am
 
 (May 26, 1941, ch. 133, 55 Stat. 203; Dec. 26, 1941, ch. 626, §2, 55 Stat. 860; Dec. 26, 1941, ch. 636, 55 Stat. 872; Aug. 29, 1949, ch. 518, §3(b), 63 Stat. 676; July 14, 1953, ch. 194, §3, 67 Stat. 151; Aug. 28, 1954, ch. 1041, title III, §313, 68 Stat. 905; Pub. L. 87–128, title I, §122(d), Aug. 8, 1961, 75 Stat. 297; Pub. L. 87–703, title III, §§309, 319, Sept. 27, 1962, 76 Stat. 618, 624; Pub. L. 87–801, Oct. 11, 1962, 76 Stat. 909; Pub. L. 89–321, title V, §511(b), Nov. 3, 1965, 79 Stat. 1205.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Agricultural Adjustment Act of 1938, referred to in text, is act Feb. 16, 1938, ch. 30, 52 Stat. 31, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
@@ -36,7 +38,7 @@ Section 302 of the Act, referred to in par. (8), which was classified to section
 
 Section 323(b) of the Act, referred to in par. (10), which was classified to section 1323(b) of this title, was repealed by act Aug. 28, 1954, ch. 1041, title III, §304, 68 Stat. 902, and had provided that no farm marketing quota with respect to any crop of corn shall be applicable to any farm on which the normal production of the acreage planted to corn is less than 300 bushels.
 
-Section 335(d) of the Act, referred to in par. (10), which was classified to section 1335(d) of this title, was repealed by Pub. L. 87–129, title I, §122(e), Aug. 8, 1961, 75 Stat. 297, and had provided that no farm marketing quota with respect to wheat shall be applicable in anymarketing year to any farm on which the normal production of the acreage planted to wheat of the current crop is less than 200 bushels.
+Section 335(d) of the Act, referred to in par. (10), which was classified to section 1335(d) of this title, was repealed by Pub. L. 87–129, title I, §122(e), Aug. 8, 1961, 75 Stat. 297, and had provided that no farm marketing quota with respect to wheat shall be applicable in any marketing year to any farm on which the normal production of the acreage planted to wheat of the current crop is less than 200 bushels.
 
 #### Codification
 
@@ -78,6 +80,8 @@ Par. (12). Pub. L. 87–703, §319(9), added par. (12). Former par. (12), which 
 
 Par. (12). Act Dec. 26, 1941, ch. 636, added par. (12).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1962 Amendment
 
 Amendment by section 319 of Pub. L. 87–703 effective only with respect to programs applicable to crops planted for harvest in calendar year 1964 or any subsequent year and marketing years beginning in calendar year 1964, or any subsequent year, see section 323 of Pub. L. 87–703, set out as a note under section 1301 of this title.
@@ -85,14 +89,6 @@ Amendment by section 319 of Pub. L. 87–703 effective only with respect to prog
 #### Effective Date of 1953 Amendment
 
 Amendment by act July 14, 1953, effective with respect to 1954 and subsequent crops of wheat, see section 5 of act July 14, 1953, set out as a note under section 1334 of this title.
-
-#### Transfer of Functions
-
-Administration of program of Commodity Credit Corporation transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, §501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Exceptions From Transfer of Functions
-
-Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
 #### Inapplicability of Section
 
@@ -106,11 +102,21 @@ Section inapplicable to crops of wheat planted for harvest in calendar years 199
 
 Pub. L. 101–624, title III, §304, Nov. 28, 1990, 104 Stat. 3400, provided that: "The joint resolution entitled 'A joint resolution relating to corn and wheat marketing quotas under the Agricultural Adjustment Act of 1938, as amended', approved May 26, 1941 (7 U.S.C. 1330 and 1340) shall not be applicable to the crops of wheat planted for harvest in the calendar years 1991 through 1995."
 
-Pub. L. 99–198, title III, §311, Dec. 23, 1985, 99 Stat. 1395, provided that: "The joint resolution entitled 'A joint resolution relating to corn and wheat marketing quotas under the Agricultural Adjustment Act of 1938, as amended', approved May 26, 1941 (7 U.S.C. 1330 and 1340), shall not be applicable to the crops of wheat planted for harvest in the calendar years 1986 through 1990."
+Pub. L. 99–198, title III, §311, Dec. 23, 1985, 99 Stat. 1395, provided that: "The joint resolution entitled 'Ajoint resolution relating to corn and wheat marketing quotas under the Agricultural Adjustment Act of 1938, as amended', approved May 26, 1941 (7 U.S.C. 1330 and 1340), shall not be applicable to the crops of wheat planted for harvest in the calendar years 1986 through 1990."
 
 Pub. L. 97–98, title III, §304, Dec. 22, 1981, 95 Stat. 1227, provided that: "Public Law 74, Seventy-seventh Congress (55 Stat. 203, as amended) \[this section\] shall not be applicable to the crops of wheat planted for harvest in the calendar years 1982 through 1985."
 
 Pub. L. 95–113, title IV, §406, Sept. 29, 1977, 91 Stat. 927, provided that: "Public Law 74, Seventy-seventh Congress (55 Stat. 203, as amended) \[this section\] shall not be applicable to the crops of wheat planted for harvest in the calendar years 1978 through 1981."
 
 Pub. L. 91–524, title IV, §406, Nov. 30, 1970, 84 Stat. 1367, as amended by Pub. L. 93–86, §1(13), Aug. 10, 1973, 87 Stat. 229, provided that: "Public Law 74, Seventy-seventh Congress (68 Stat. 905) \[this section\], shall not be applicable to the crops of wheat planted for harvest in the calendar years 1971 through 1977."
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Administration of program of Commodity Credit Corporation transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, §501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Exceptions From Transfer of Functions
+
+Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 

@@ -50,7 +50,7 @@
 
 (c) This chapter does not prohibit or punish the providing of lawful, bona fide, legal representation services in connection with or anticipation of an official proceeding.
 
-(Added Pub. L. 97–291, §4(a), Oct. 12, 1982, 96 Stat. 1252; amended Pub. L. 99–646, §50(b), Nov. 10, 1986, 100 Stat. 3605; Pub. L. 100–690, title VII, §7029(b), (d), Nov. 18, 1988, 102 Stat. 4398; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L.102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–322, title XXXII, §320604(a), Sept. 13, 1994, 108 Stat. 2118; Pub. L. 104–292, §3, Oct. 11, 1996, 110 Stat. 3460; Pub. L. 104–294, title VI, §604(b)(39), Oct. 11, 1996, 110 Stat. 3509.)
+(Added Pub. L. 97–291, §4(a), Oct. 12, 1982, 96 Stat. 1252; amended Pub. L. 99–646, §50(b), Nov. 10, 1986, 100 Stat. 3605; Pub. L. 100–690, title VII, §7029(b), (d), Nov. 18, 1988, 102 Stat. 4398; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–322, title XXXII, §320604(a), Sept. 13, 1994, 108 Stat. 2118; Pub. L. 104–292, §3, Oct. 11, 1996, 110 Stat. 3460; Pub. L. 104–294, title VI, §604(b)(39), Oct. 11, 1996, 110 Stat. 3509.)
 
 #### <b>Editorial Notes</b>
 

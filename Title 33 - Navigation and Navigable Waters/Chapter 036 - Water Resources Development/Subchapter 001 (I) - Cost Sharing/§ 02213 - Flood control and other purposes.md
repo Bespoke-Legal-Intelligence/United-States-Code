@@ -28,7 +28,7 @@
 
 #### (1) In general
 
-&emsp;The non-Federal share of the cost of a flood risk management or hurricane and storm damage risk reduction measure using a nonstructural feature, or a natural feature or nature-based feature (as those terms are defined in section 2289a(a) of this title), shall be 35 percent of the cost of such measures. The non-Federal interests for any such measures shall be required to provide all lands, easements, rights-of-way, dredged material disposal areas, and relocations necessary for the project, but shall not be required to contribute any amount in cash during construction for a nonstructural feature if the costs of land, easements, rights-of-way, dredged material disposal areas, and relocations for such feature are estimated to exceed 35 percent.
+&emsp;The non-Federal share of the cost of a flood risk management or hurricane and storm damage risk reduction measure using a nonstructural feature, or a natural feature or nature-based feature (as those terms are definedin section 2289a(a) of this title), shall be 35 percent of the cost of such measures. The non-Federal interests for any such measures shall be required to provide all lands, easements, rights-of-way, dredged material disposal areas, and relocations necessary for the project, but shall not be required to contribute any amount in cash during construction for a nonstructural feature if the costs of land, easements, rights-of-way, dredged material disposal areas, and relocations for such feature are estimated to exceed 35 percent.
 
 #### (2) Non-Federal contribution in excess of 35 percent
 
@@ -38,7 +38,7 @@
 
 The non-Federal share of the cost assigned to other project purposes shall be as follows:
 
-&emsp;(1) hydroelectric power: 100 percent, except that the marketing of such power and the recovery of costs of constructing, operating, maintaining, and rehabilitating such projects shall be in accordance with existing law: <i>Provided</i>, That after November 17, 1986, the Secretary shall not submit to Congress any proposal for the authorization of any water resources project that has a hydroelectric power component unless such proposal contains the comments of the appropriate Power Marketing Administrator designated pursuant to section 7152 of title 42 concerning the appropriate Power Marketing Administration's ability to market the hydroelectric power expected to be generated and not required in the operation of the project under the applicable Federal power marketing law, so that, 100 percent of operation, maintenance and replacement costs, 100 percent of the capital investment allocated to the purpose of hydroelectric power (with interest at rates established pursuant to or prescribed by applicable law), and any other costs assigned in accordance with law for return from power revenues can be returned within the period set for the return of such costs byor pursuant to such applicable Federal power marketing law;
+&emsp;(1) hydroelectric power: 100 percent, except that the marketing of such power and the recovery of costs of constructing, operating, maintaining, and rehabilitating such projects shall be in accordance with existing law: <i>Provided</i>, That after November 17, 1986, the Secretary shall not submit to Congress any proposal for the authorization of any water resources project that has a hydroelectric power component unless such proposal contains the comments of the appropriate Power Marketing Administrator designated pursuant to section 7152 of title 42 concerning the appropriate Power Marketing Administration's ability to market the hydroelectric power expected to be generated and not required in the operation of the project under the applicable Federal power marketing law, so that, 100 percent of operation, maintenance and replacement costs, 100 percent of the capital investment allocated to the purpose of hydroelectric power (with interest at rates established pursuant to or prescribed by applicable law), and any other costs assigned in accordance with law for return from power revenues can be returned within the period set for the return of such costs by or pursuant to such applicable Federal power marketing law;
 
 &emsp;(2) municipal and industrial water supply: 100 percent;
 
@@ -86,7 +86,7 @@ The non-Federal share of the cost assigned to other project purposes shall be as
 
 #### (2) Exceptions
 
-&emsp;This section shall not apply to the Yazoo Basin, Mississippi, Demonstration Erosion Control Program, authorized by Public Law 98–8, or to the Harlan, Kentucky, or Barbourville, Kentucky, elements of the project authorized by section 202 of Public Law 96–367.
+&emsp;This section shall not apply to the Yazoo Basin, Mississippi, Demonstration Erosion Control Program, authorized by Public Law 98–8, or to the Harlan, Kentucky, or Barbourville, Kentucky, elements of theproject authorized by section 202 of Public Law 96–367.
 
 #### (f) "Separable element" defined
 
@@ -128,7 +128,7 @@ Except as provided under section 2283(c) of this title, the non-Federal interest
 
 #### (A) In general
 
-&emsp;&emsp;Any project to which this section applies (other than a project for hydroelectricpower) shall be initiated only after non-Federal interests have entered into binding agreements with the Secretary to pay 100 percent of the operation, maintenance, and replacement and rehabilitation costs of the project, to pay the non-Federal share of the costs of construction required by this section, and to hold and save the United States free from damages due to the construction or operation and maintenance of the project, except for damages due to the fault or negligence of the United States or its contractors.
+&emsp;&emsp;Any project to which this section applies (other than a project for hydroelectric power) shall be initiated only after non-Federal interests have entered into binding agreements with the Secretary to pay 100 percent of the operation, maintenance, and replacement and rehabilitation costs of the project, to pay the non-Federal share of the costs of construction required by this section, and to hold and save the United States free from damages due to the construction or operation and maintenance of the project, except for damages due to the fault or negligence of the United States or its contractors.
 
 #### (B) Inclusion
 
@@ -168,7 +168,7 @@ Except as provided under section 2283(c) of this title, the non-Federal interest
 
 &emsp;&emsp;&emsp;(i) the non-Federal contribution was made with interest;
 
-&emsp;&emsp;&emsp;(ii) the period of project construction exceeds 10 years from the execution of a project partnership agreement or appropriation of funds; and
+&emsp;&emsp;&emsp;(ii) the period of project construction exceeds 10 years from the execution of aproject partnership agreement or appropriation of funds; and
 
 &emsp;&emsp;&emsp;(iii) the construction interest exceeds $45,000,000.
 
@@ -198,7 +198,7 @@ At the request of any non-Federal interest the Secretary may permit such non-Fed
 
 #### (1) In general
 
-&emsp;Any cost-sharing agreement under this section for a feasibility study, or for constructionof an environmental protection and restoration project, a flood control project, a project for navigation, storm damage protection, shoreline erosion, hurricane protection, or recreation, or an agricultural water supply project, shall be subject to the ability of the non-Federal interest to pay.
+&emsp;Any cost-sharing agreement under this section for a feasibility study, or for construction of an environmental protection and restoration project, a flood control project, a project for navigation, storm damage protection, shoreline erosion, hurricane protection, or recreation, or an agricultural water supply project, shall be subject to the ability of the non-Federal interest to pay.
 
 #### (2) Criteria and procedures
 
@@ -328,7 +328,7 @@ Generally.—Subject to subparagraph (C), the amendment made by paragraph (1) \[
 
 "(B)
 
-Amendment of cooperation agreement.—If requested by the non-Federal interest, the Secretary shall amend a project cooperation agreement executed on or before the date of the enactment of this Act \[Oct. 12, 1996\] to reflect the application of the amendment made by paragraph (1) to any project for which a contract for construction has not been awarded on or before such date of enactment.
+Amendment of cooperation agreement.—If requested by the non-Federal interest, the Secretaryshall amend a project cooperation agreement executed on or before the date of the enactment of this Act \[Oct. 12, 1996\] to reflect the application of the amendment made by paragraph (1) to any project for which a contract for construction has not been awarded on or before such date of enactment.
 
 "(C)
 

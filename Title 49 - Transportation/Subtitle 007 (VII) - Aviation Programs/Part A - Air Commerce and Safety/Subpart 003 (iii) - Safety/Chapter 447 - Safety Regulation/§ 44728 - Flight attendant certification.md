@@ -68,6 +68,8 @@ Flight Attendant Defined.—In this section, the term "flight attendant" means a
 
 (Added Pub. L. 108–176, title VIII, §814(a), Dec. 12, 2003, 117 Stat. 2590; amended Pub. L. 112–95, title III, §304(a), Feb. 14, 2012, 126 Stat. 58; Pub. L. 115–254, div. B, title V, §539(i), Oct. 5, 2018, 132 Stat. 3371.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For effective date of this section, referred to in subsecs. (a)(2) and (d)(5), see Effective Date note below.
@@ -81,6 +83,8 @@ The date of enactment of this section, referred to in subsec. (e), is the date o
 Subsec. (d)(3). Pub. L. 115–254, §539(i)(2), substituted "be" for "is".
 
 <b>2012</b>—Subsecs. (f), (g). Pub. L. 112–95 added subsec. (f) and redesignated former subsec. (f) as (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

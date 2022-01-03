@@ -4,7 +4,7 @@
 
 #### (1) Living allowance required
 
-&emsp;Subject to paragraph (3), each participant in a full-time youth corps program that receives assistance under this division shall receive a living allowance in an amount equal to or greater than the average annual subsistence allowance provided to VISTA volunteers under section 4955 of this title.
+&emsp;Subject to paragraph (3), each participant in a full-time youth corps program that receives assistance under this division shall receive aliving allowance in an amount equal to or greater than the average annual subsistence allowance provided to VISTA volunteers under section 4955 of this title.
 
 #### (2) Limitation on Federal share
 
@@ -70,6 +70,8 @@ In addition to the living allowance provided under subsection (a), program agenc
 
 (Pub. L. 101–610, title I, §199K, formerly §133, Nov. 16, 1990, 104 Stat. 3147; Pub. L. 102–10, §5(6), Mar. 12, 1991, 105 Stat. 30; renumbered §199M, renumbered §199K, and amended Pub. L. 103–82, title I, §101(a), (d), (e)(1), (8)(B), Sept. 21, 1993, 107 Stat. 788, 814–816.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Fair Labor Standards Act of 1938, referred to in subsec. (b)(2), is act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified principally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
@@ -93,6 +95,8 @@ Non-federal sources.—Notwithstanding paragraph (1), a program agency may provi
 Subsec. (d)(4)(A), (B), (5). Pub. L. 103–82, §101(e)(1), substituted "Corporation" for "Commission".
 
 <b>1991</b>—Subsec. (d)(1). Pub. L. 102–10 substituted "subsection (a)" for "subsections (a) and (c)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1993 Amendment
 

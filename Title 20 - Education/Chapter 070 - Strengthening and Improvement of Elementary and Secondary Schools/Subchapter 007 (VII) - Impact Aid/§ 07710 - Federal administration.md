@@ -12,7 +12,7 @@ Each Federal agency administering Federal property on which children reside, and
 
 #### (1) Certain children eligible under subparagraphs (A) and (G)(ii) of section 7703(a)(1)
 
-&emsp;(A) The Secretary shall treat as eligible under subparagraph (A) of section 7703(a)(1) of this title any child who would be eligible under such subparagraph except that the Federal property on which the child resides or onwhich the child's parent is employed is not in the same State in which the child attends school, if such child meets the requirements of paragraph (2).
+&emsp;(A) The Secretary shall treat as eligible under subparagraph (A) of section 7703(a)(1) of this title any child who would be eligible under such subparagraph except that the Federal property on which the child resides or on which the child's parent is employed is not in the same State in which the child attends school, if such child meets the requirements of paragraph (2).
 
 &emsp;(B) The Secretary shall treat as eligible under subparagraph (G) of section 7703(a)(1) of this title any child who would be eligible under such subparagraph except that such child does not meet the requirements of clause (ii) of such subparagraph, if such child meets the requirements of paragraph (2).
 
@@ -38,13 +38,15 @@ Each Federal agency administering Federal property on which children reside, and
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), the Secretary shall pay a local educational agency the full amount that the agency is eligible to receive under this subchapter for a fiscal year not later than September 30 of the second fiscal year following the fiscal year for which such amount has been appropriated if, not later than 1 calendar year following the fiscal year in which such amount has been appropriated, such local educational agency submits to the Secretary all the data and information necessary for the Secretary to pay the full amount that the agency is eligible to receive under this subchapter for such fiscal year.
+&emsp;Subject to paragraph (2), the Secretary shall pay a local educational agency the full amount that the agency is eligible to receive under this subchapter for a fiscal year not later than September 30 of the second fiscal year following the fiscal year for which such amount has been appropriated if, not later than 1 calendar year following the fiscal year in which such amount has been appropriated,such local educational agency submits to the Secretary all the data and information necessary for the Secretary to pay the full amount that the agency is eligible to receive under this subchapter for such fiscal year.
 
 #### (2) Payments with respect of fiscal years in which insufficient funds are appropriated
 
 &emsp;For a fiscal year in which the amount appropriated under section 7714 of this title is insufficient to pay the full amount a local educational agency is eligible to receive under this subchapter, paragraph (1) shall be applied by substituting "is available to pay the agency" for "the agency is eligible to receive" each place the term appears.
 
 (Pub. L. 89–10, title VII, §7010, formerly title VIII, §8010, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3767; amended Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1813\], Oct. 30, 2000, 114 Stat. 1654, 1654A–387; Pub. L. 112–239, div. A, title V, §563(b)(3), (c)(4), Jan. 2, 2013, 126 Stat. 1747, 1748; renumbered title VII, §7010, and amended Pub. L. 114–95, title VII, §§7001(a)(1), (c)(2), (d)(3), (6), 7010, Dec. 10, 2015, 129 Stat. 2074, 2087.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -76,7 +78,9 @@ Subsec. (c)(2)(E). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1813(3)(B
 
 Subsec. (c)(3). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1813(2)\], redesignated par. (3) as (2).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
-Amendment by Pub. L. 114–95 effective Dec. 10, 2015, and effective with respect to appropriations for use under this subchapter beginning fiscal year 2017, except as otherwise provided in such amendment, see section5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
+Amendment by Pub. L. 114–95 effective Dec. 10, 2015, and effective with respect to appropriations for use under this subchapter beginning fiscal year 2017, except as otherwise provided in such amendment, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
 

@@ -1,6 +1,6 @@
 ### §7654. Quartermaster supplies: military instruction camps
 
-Under such conditions as he may prescribe, the Secretary of the Army may issue, to any educational institution at which an Army officer is detailed as professor of military science and tactics, such quartermaster supplies as are necessary to establish and maintain a camp for the military instruction of its students. The Secretary shall require a bond in the value of the property issued under this section, for the care and safekeeping of that property and, except for property properly expended, for its return when required.
+Under such conditions as he may prescribe, the Secretary of the Army may issue, to any educational institution at which an Army officer is detailed as professor of military science and tactics, such quartermaster supplies as are necessary to establish and maintain a camp for the military instruction of its students. The Secretary shall require a bond in the value ofthe property issued under this section, for the care and safekeeping of that property and, except for property properly expended, for its return when required.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 261, §4654; renumbered §7654, Pub. L. 115–232, div. A, title VIII, §808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
@@ -20,6 +20,8 @@ May 18, 1916, ch. 124, 39 Stat. 123.
 
 The words "at his discretion and" and "belonging to the Government, and which can be spared for that purpose, as may appear to be" are omitted as surplusage. The words "except for property properly expended" are inserted for clarity. The word "stores" is omitted as covered by the word "supplies".
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 7654 was renumbered section 8854 of this title.
@@ -27,6 +29,8 @@ A prior section 7654 was renumbered section 8854 of this title.
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4654 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

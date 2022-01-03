@@ -22,6 +22,8 @@ The Secretary may reallocate, in a manner that the Secretary determines will bes
 
 (Pub. L. 89–10, title VI, §6118, formerly title VII, §7118, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1918; renumbered title VI, §6118, and amended Pub. L. 114–95, title VI, §§6001(a), (b)(1), (8), 6002(j), Dec. 10, 2015, 129 Stat. 2046, 2047, 2054.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 7428, Pub. L. 89–10, title VII, §7118, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3727, related to capacity building, prior to the general amendment of former subchapter VII of this chapter by Pub. L. 107–110.
@@ -31,6 +33,8 @@ A prior section 7428, Pub. L. 89–10, title VII, §7118, as added Pub. L. 103�
 <b>2015</b>—Subsec. (a). Pub. L. 114–95, §6001(b)(8), made technical amendment to reference in original act which appears in text as reference to section 7423 of this title.
 
 Subsec. (c). Pub. L. 114–95, §6002(j), added subsec. (c) and struck out former subsec. (c) which related to reduction of payment for failure to maintain fiscal effort with possibility of temporary waiver.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

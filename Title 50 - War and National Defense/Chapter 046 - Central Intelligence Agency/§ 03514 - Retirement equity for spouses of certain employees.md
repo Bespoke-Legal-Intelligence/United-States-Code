@@ -10,6 +10,8 @@ The Director of the Office of Personnel Management, in consultation with the Dir
 
 (June 20, 1949, ch. 227, §14, as added Pub. L. 97–269, title VI, §612, Sept. 27, 1982, 96 Stat. 1154; amended Pub. L. 99–569, title III, §302(b), Oct. 27, 1986, 100 Stat. 3194; Pub. L. 100–178, title IV, §§401(b), 402(b)(3), Dec. 2, 1987, 101 Stat. 1013, 1014; Pub. L. 102–496, title VIII, §803(a)(1), Oct. 24, 1992, 106 Stat. 3251; Pub. L. 108–458, title I, §1071(b)(3)(A), Dec. 17, 2004, 118 Stat. 3690; Pub. L. 116–92, div. E, title LXII, §6202(a)(2)(B), Dec. 20, 2019, 133 Stat. 2185.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 403n of this title prior to editorial reclassification and renumbering as this section. Some section numbers of this title referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification.
@@ -28,9 +30,11 @@ Pub. L. 100–178, §401(b), inserted "225," after "223, 224,".
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–569 inserted "224," after "223,".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2004 Amendment
 
-For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005,70 F.R. 23925, set out as a note under section 3001 of this title.
+For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of this title.
 
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 3001 of this title.
 

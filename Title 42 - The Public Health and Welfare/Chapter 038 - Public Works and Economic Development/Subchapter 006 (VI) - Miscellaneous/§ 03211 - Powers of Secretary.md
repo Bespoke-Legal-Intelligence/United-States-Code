@@ -108,13 +108,15 @@ The power to convey and to execute, in the name of the Secretary, deeds of conve
 
 (Pub. L. 89–136, title VI, §601, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3611; amended Pub. L. 116–192, §2, Oct. 30, 2020, 134 Stat. 978.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Public Works Employment Act of 1976, referred to in subsec. (d)(1)(B), is Pub. L. 94–369, July 22, 1976, 90 Stat. 999. Title I of the Act, known as the Local Public Works Capital Development and Investment Act of 1976, is classified generally to subchapter I (§6701 et seq.) of chapter 80 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6701 of this title and Tables.
 
 The Trade Act of 1974, referred to in subsec. (d)(1)(C), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Title II of the Act is classified generally to subchapter II (§2251 et seq.) of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 2101 of Title 19 and Tables.
 
-The Community Emergency Drought Relief Act of 1977, referred to in subsec. (d)(1)(D), is Pub. L. 95–31,May 23, 1977, 91 Stat. 169. Title I of the Act is set out as a note under section 5184 of this title. For complete classification of this Act to the Code, see Tables.
+The Community Emergency Drought Relief Act of 1977, referred to in subsec. (d)(1)(D), is Pub. L. 95–31, May 23, 1977, 91 Stat. 169. Title I of the Act is set out as a note under section 5184 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 
@@ -129,6 +131,8 @@ A prior section 601(a) of Pub. L. 89–136 was classified to section 3201 of thi
 #### Amendments
 
 <b>2020</b>—Subsec. (d)(2). Pub. L. 116–192 designated existing provisions as subpar. (A), inserted heading, substituted "Except as provided in subparagraph (B), the Secretary may" for "The Secretary may", and added subpar. (B).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

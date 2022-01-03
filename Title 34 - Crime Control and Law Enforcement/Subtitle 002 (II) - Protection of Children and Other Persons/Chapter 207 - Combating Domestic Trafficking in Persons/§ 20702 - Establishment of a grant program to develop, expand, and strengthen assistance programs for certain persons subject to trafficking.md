@@ -108,7 +108,7 @@ In this section:
 
 #### (A) Allocation
 
-&emsp;&emsp;Not less than 67 percent of each grant made under paragraph (1) shall be used by the eligible entity to provide residential care and services (as described in clauses (i) through (iv) of subparagraph (B)) to minor victims of sex trafficking through qualified nongovernmental organizations.
+&emsp;&emsp;Not less than 67 percent of each grant made under paragraph (1) shall be used bythe eligible entity to provide residential care and services (as described in clauses (i) through (iv) of subparagraph (B)) to minor victims of sex trafficking through qualified nongovernmental organizations.
 
 #### (B) Authorized activities
 
@@ -196,7 +196,7 @@ There are authorized to be appropriated $8,000,000 to the Attorney General for e
 
 Not later than 30 months after March 7, 2013, the Comptroller General of the United States shall submit a report to Congress that contains—
 
-&emsp;(1) an evaluation of the impact of this section in aiding minor victims of sex trafficking in the jurisdiction of the entity receiving the grant; and
+&emsp;(1) an evaluation of the impact of this section in aiding minor victims of sex traffickingin the jurisdiction of the entity receiving the grant; and
 
 &emsp;(2) recommendations, if any, regarding any legislative or administrative action the Comptroller General determines appropriate.
 

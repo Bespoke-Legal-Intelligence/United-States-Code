@@ -1,6 +1,6 @@
 ### §332. Judicial councils of circuits
 
-(a)(1) The chief judge of each judicial circuit shall call, at least twice in each year and atsuch places as he or she may designate, a meeting of the judicial council of the circuit, consisting of the chief judge of the circuit, who shall preside, and an equal number of circuit judges and district judges of the circuit, as such number is determined by majority vote of all such judges of the circuit in regular active service.
+(a)(1) The chief judge of each judicial circuit shall call, at least twice in each year and at such places as he or she may designate, a meeting of the judicial council of the circuit, consisting of the chief judge of the circuit, who shall preside, and an equal number of circuit judges and district judges of the circuit, as such number is determined by majority vote of all such judges of the circuit in regular active service.
 
 (2) Members of the council shall serve for terms established by a majority vote of all judges of the circuit in regular active service.
 
@@ -164,7 +164,7 @@ Subsec. (d). Pub. L. 96–458, §2(c), amended subsec. (d) generally, designatin
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–650, title IV, §407, Dec. 1, 1990, 104 Stat. 5124, provided that: "The amendments made by this subtitle \[subtitle I (§§402–407) of title IV of Pub. L. 101–650, amending this section, sections 372, 453, and 2077 of this title, and provisions set out in the Appendix to Title 5, Government Organization and Employees\] shall take effect 90 days after the date of the enactment of this Act \[Dec. 1, 1990\]."
+Pub. L. 101–650, title IV, §407, Dec. 1, 1990, 104 Stat. 5124, provided that: "The amendments made by thissubtitle \[subtitle I (§§402–407) of title IV of Pub. L. 101–650, amending this section, sections 372, 453, and 2077 of this title, and provisions set out in the Appendix to Title 5, Government Organization and Employees\] shall take effect 90 days after the date of the enactment of this Act \[Dec. 1, 1990\]."
 
 #### Effective Date of 1988 Amendment
 

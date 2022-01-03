@@ -42,6 +42,8 @@ The purpose of this section is to encourage the Secretary of Agriculture to cont
 
 (Pub. L. 104–127, title III, §391, Apr. 4, 1996, 110 Stat. 1025.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Federal Agriculture Improvement and Reform Act of 1996, and not as part of subtitle F (§1471 et seq.) of title XIV of Pub. L. 101–624 which comprises this chapter.

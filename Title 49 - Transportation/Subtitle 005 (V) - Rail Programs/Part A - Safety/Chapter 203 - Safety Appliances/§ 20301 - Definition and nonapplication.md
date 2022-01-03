@@ -58,9 +58,13 @@ In subsection (b), the words before clause (1) are substituted for "<i>Provided<
 
 This amends 49:20301(b) to clarify the restatement of 45:8 by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 881).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (b)(4). Pub. L. 104–287 added par. (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

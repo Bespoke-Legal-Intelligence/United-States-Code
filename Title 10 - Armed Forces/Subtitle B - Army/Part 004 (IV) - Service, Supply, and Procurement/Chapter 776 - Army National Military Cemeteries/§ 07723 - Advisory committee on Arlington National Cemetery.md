@@ -6,7 +6,7 @@ Appointment.—The Secretary of the Army shall appoint an advisory committee on 
 
 (b)
 
-Role.—The Secretary of the Army shall advise and consult with the advisory committee with respect to the administration of Arlington National Cemetery, the erection of memorials at the cemetery, and master planning for the cemetery.
+Role.—The Secretary of the Army shall advise and consult with the advisory committeewith respect to the administration of Arlington National Cemetery, the erection of memorials at the cemetery, and master planning for the cemetery.
 
 (c)
 
@@ -18,6 +18,8 @@ Submission to Congress.—Not later than 90 days after receiving a report or rec
 
 (Added Pub. L. 112–81, div. A, title V, §591(a)(1), Dec. 31, 2011, 125 Stat. 1440, §4723; renumbered §7723, Pub. L. 115–232, div. A, title VIII, §808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 7723 was renumbered section 8893 of this title.
@@ -26,7 +28,9 @@ A prior section 7723 was renumbered section 8893 of this title.
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4723 of this title as this section.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments andspecial rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 

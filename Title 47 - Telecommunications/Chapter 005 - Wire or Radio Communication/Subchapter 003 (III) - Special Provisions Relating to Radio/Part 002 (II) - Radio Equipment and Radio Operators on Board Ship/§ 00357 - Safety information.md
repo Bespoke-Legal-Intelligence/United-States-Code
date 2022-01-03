@@ -6,7 +6,7 @@ The master of every ship of the United States, equipped with radio transmitting 
 
 #### (b) Charges for transmission of safety information
 
-No charge shall be made by any ship or station in the mobile service of the United States forthe transmission, receipt, or relay of the information designated in subsection (a) originating on a ship of the United States or of a foreign country.
+No charge shall be made by any ship or station in the mobile service of the United States for the transmission, receipt, or relay of the information designated in subsection (a) originating on a ship of the United States or of a foreign country.
 
 #### (c) Reimbursement by Commission
 

@@ -2,7 +2,7 @@
 
 (a)(1) There is a Secretary of the Army, appointed from civilian life by the President, by and with the advice and consent of the Senate. The Secretary shall, to the greatest extent practicable, be appointed from among persons most highly qualified for the position by reason of background and experience, including persons with appropriate management or leadership experience. The Secretary is the head of the Department of the Army.
 
-(2) A person may not be appointed as Secretary of the Army within five years after relief from active duty as a commissioned officer of a regular component of an armed force.
+(2) A person may not be appointed as Secretary of the Army within seven years after relief from active duty as a commissioned officer of a regular component of an armed force.
 
 (b) Subject to the authority, direction, and control of the Secretary of Defense and subject to the provisions of chapter 6 of this title, the Secretary of the Army is responsible for, and has the authority necessary to conduct, all affairs of the Department of the Army, including the following functions:
 
@@ -60,9 +60,13 @@
 
 &emsp;(3) prescribe regulations to carry out his functions, powers, and duties under this title.
 
-(Added Pub. L. 99–433, title V, §501(a)(5), Oct. 1, 1986, 100 Stat. 1035, §3013; amended Pub. L. 99–661, div. A, title V, §534, Nov. 14, 1986, 100 Stat. 3873; Pub. L. 108–136, div. A, title IX, §901, Nov. 24, 2003, 117 Stat. 1558; Pub. L. 114–328, div. A, title IX, §931(a), Dec. 23, 2016, 130 Stat. 2362; renumbered §7013, Pub. L. 115–232, div. A, title VIII, §808(a), Aug. 13, 2018, 132 Stat. 1838.)
+(Added Pub. L. 99–433, title V, §501(a)(5), Oct. 1, 1986, 100 Stat. 1035, §3013; amended Pub. L. 99–661, div. A, title V, §534, Nov. 14, 1986, 100 Stat. 3873; Pub. L. 108–136, div. A, title IX, §901,Nov. 24, 2003, 117 Stat. 1558; Pub. L. 114–328, div. A, title IX, §931(a), Dec. 23, 2016, 130 Stat. 2362; renumbered §7013, Pub. L. 115–232, div. A, title VIII, §808(a), Aug. 13, 2018, 132 Stat. 1838; Pub. L. 117–81, div. A, title IX, §901(c), Dec. 27, 2021, 135 Stat. 1868.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(2). Pub. L. 117–81 substituted "seven" for "five".
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 3013 of this title as this section.
 
@@ -72,45 +76,39 @@
 
 <b>1986</b>—Subsec. (a)(2). Pub. L. 99–661 substituted "five years" for "10 years".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 117–81 applicable with respect to appointments made on or after Dec. 27, 2021, see section 901(g) of Pub. L. 117–81, set out as a note under section 113 of this title.
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-#### Pilot Program on Use of Retired Senior Enlisted Members of the Army National Guard as Army National Guard Recruiters
+#### Access to Tour of Duty System
 
-Pub. L. 115–91, div. A, title V, §514, Dec. 12, 2017, 131 Stat. 1378, as amended by Pub. L. 115–232, div. A, title V, §520, Aug. 13, 2018, 132 Stat. 1754, provided that:
+Pub. L. 117–81, div. A, title V, §513, Dec. 27, 2021, 135 Stat. 1683, provided that:
 
 "(a)
 
-Pilot Program Authorized.—The Secretary of the Army may carry out a pilot program for the Army National Guard under which retired senior enlisted members of the Army National Guard would serve as contract recruiters for the Army National Guard.
+Access.—
+
+&emsp;"(1)
+
+In general.—Not later than one year after the date of the enactment of this Act \[Dec. 27, 2021\], the Secretary of the Army shall ensure, subject to paragraph (2), that a member of the reserve components of the Army may access the Tour of Duty system using a personal internet-enabled device.
+
+&emsp;"(2)
+
+Exception.—The Secretary of the Army may restrict access to the Tour of Duty system on personal internet-enabled devices if the Secretary determines such restriction is necessary to ensure the security and integrity of information systems and data of the United States.
 
 "(b)
 
-Objectives of Pilot Program.—The Secretary of the Army shall design any pilot program conducted under this section to determine the following:
+Tour of Duty System Defined.—In this Act \[Pub. L. 117–81, see Tables for classification\], the term 'Tour of Duty system' means the online system of listings for opportunities to serve on active duty for members of the reserve components of the Army and through which such a member may apply for such an opportunity, known as 'Tour of Duty', or any successor to such system."
 
-&emsp;"(1) The feasibility and effectiveness of hiring retired senior enlisted members of the Army National Guard who have retired within the previous two years to serve as recruiters.
+#### Pilot Program on Use of Retired Senior Enlisted Members of the Army National Guard as Army National Guard Recruiters
 
-&emsp;"(2) The merits of hiring such retired senior enlisted members as contractors or as employees of the Department of Defense.
-
-&emsp;"(3) The best method of providing a competitive compensation package for such retired senior enlisted members.
-
-&emsp;"(4) The merits of requiring such retired senior enlisted members to wear a military uniform while performing recruiting duties under the pilot program.
-
-"(c)
-
-Consultation.—In developing a pilot program under this section, the Secretary of the Army shall consult with the operators of a previous pilot program carried out by the Army involving the use of contract recruiters.
-
-"(d)
-
-Commencement and Duration.—The Secretary of the Army may commence a pilot program under this section on or after January 1, 2018, and all activities under such a pilot program shall terminate no later than December 31, 2021.
-
-"(e)
-
-Funding Source.—If a pilot program is conducted under this section, the Secretary of the Army shall use funds otherwise available for the National Guard Bureau to carry out the program.
-
-"(f)
-
-Reporting Requirement.—If a pilot program is conducted under this section, the Secretary of the Army shall submit to the Committees on Armed Services of the House of Representatives and the Senate areport containing an evaluation of the success of the pilot program, including the determinations described in subsection (b). The report shall be submitted not later than January 1, 2020."
+Pub. L. 115–91, div. A, title V, §514, Dec. 12, 2017, 131 Stat. 1378, as amended by Pub. L. 115–232, div. A, title V, §520, Aug. 13, 2018, 132 Stat. 1754, provided for a pilot program for the Army National Guard under which retired senior enlisted members of the Army National Guard would serve as contract recruiters for the Army National Guard, with all activities under such a pilot program to terminate no later than Dec. 31, 2021.
 
 #### Restructuring of the Distributed Common Ground System of the Army
 
@@ -246,27 +244,7 @@ Elements of waiver notice.—A waiver notice under this subsection also shall in
 
 #### Pilot Program for the Human Terrain System
 
-Pub. L. 113–291, div. A, title X, §1075, Dec. 19, 2014, 128 Stat. 3519, provided that:
-
-"(a)
-
-Pilot Program Required.—The Secretary of the Army may carry out a pilot program under which the Secretary utilizes Human Terrain System assets in the United States Pacific Command \[now United States Indo-Pacific Command\] area of responsibility to support phase 0 shaping operations and the theater security cooperation plans of the Commander of the United States Pacific Command.
-
-"(b)
-
-Reports.—
-
-&emsp;"(1)
-
-Initial report.—Not later than one year after the date of the enactment of this Act \[Dec. 19, 2014\], the Secretary of the Army shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the status of the pilot program under this section. Such report shall include the independent analysis and recommendations of the Commander of the United States Pacific Command regarding the effectiveness of the program and how it could be improved.
-
-&emsp;"(2)
-
-Final report.—Not later than December 1, 2016, the Secretary of the Army shall submit to the congressional defense committees a final report on the pilot program. Such report shall include an analysis of the comparative value of human terrain information relative to other analytic tools and techniques, recommendations regarding expanding the program to include other combatant commands, and any improvements to the program and necessary resources that would enable expanding the program.
-
-"(c)
-
-Termination.—The authority to carry out a pilot program under this section shall terminate on September 30, 2016."
+Pub. L. 113–291, div. A, title X, §1075, Dec. 19, 2014, 128 Stat. 3519, authorized the Secretary of the Army to carry out a pilot program under which the Secretary utilized Human Terrain System assets in the United States Pacific Command (now United States Indo-Pacific Command) area of responsibility to support phase 0 shaping operations and the theater security cooperation plans of the Commander of the United States Pacific Command and required initial and final reports to the congressional defense committees, with such authority terminating on Sept. 30, 2016.
 
 #### Expansion of First Sergeants Barracks Initiative
 
@@ -348,7 +326,7 @@ Report.—Not later than 180 days after the date on which the Secretary of the A
 
 #### Army Transformation to Brigade Structure
 
-Pub. L. 108–375, div. A, title V, §595(c), Oct. 28, 2004, 118 Stat. 1937, provided that: "The Secretary of theArmy shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives an annual report on the status of the internal transformation of the Army from a division-orientated force to a brigade-orientated force. Such report shall be submitted not later than March 31 of each year, except that the requirement to submit such annual report shall terminate when the Secretary of the Army submits to those committees the Secretary's certification that the transformation of the Army to a brigade-orientated force has been completed. Upon the submission of such certification, the Secretary shall publish in the Federal Register notice of that certification and that the statutory requirement to submit an annual report under this subsection has terminated."
+Pub. L. 108–375, div. A, title V, §595(c), Oct. 28, 2004, 118 Stat. 1937, provided that: "The Secretary of the Army shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives an annual report on the status of the internal transformation of the Army from a division-orientated force to a brigade-orientated force. Such report shall be submitted not later than March 31 of each year, except that the requirement to submit such annual report shall terminate when the Secretary of the Army submits to those committees the Secretary's certification that the transformation of the Army to a brigade-orientated force has been completed. Upon the submission of such certification, the Secretary shall publish in the Federal Register notice of that certification and that the statutory requirement to submit an annual report under this subsection has terminated."
 
 #### Demonstration Project for Use of Army Installations To Provide Prerelease Employment Training to Nonviolent Offenders in State Penal Systems
 
@@ -388,7 +366,9 @@ Liability and Indemnification.—(1) The Secretary may not enter into a cooperat
 
 Report.—Not later than two years after the date of the enactment of this Act \[Oct. 5, 1994\], the Secretary shall submit to Congress a report evaluating the success of the demonstration project and containing such recommendations with regard to the termination, continuation, or expansion of the demonstration project as the Secretary considers appropriate."
 
+#### <b>Executive Documents</b>
+
 #### Order of Succession
 
-For order of succession in event of death, permanent disability, or resignation of Secretary of the Army, see Ex. Ord. No. 12908, Apr. 22, 1994, 59 F.R. 21907, listed in a table under section 3345 of Title 5, Government Organization and Employees.
+For order of succession in event of death, permanent disability, or resignation of Secretary of the Army, see Ex. Ord. No. 12908, Apr. 22, 1994, 59 F.R. 21907, listed ina table under section 3345 of Title 5, Government Organization and Employees.
 

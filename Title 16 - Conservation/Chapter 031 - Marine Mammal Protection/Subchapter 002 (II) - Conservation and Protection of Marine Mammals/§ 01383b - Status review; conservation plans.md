@@ -42,6 +42,8 @@
 
 (Pub. L. 92–522, title I, §115, as added Pub. L. 100–711, §3(a), Nov. 23, 1988, 102 Stat. 4763; amended Pub. L. 103–238, §8, Apr. 30, 1994, 108 Stat. 543.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (b)(4). Pub. L. 103–238 added par. (4).

@@ -12,7 +12,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) the Secretary will have the authority to request that the Secretary of the Treasury disclose return information of such individuals to authorized persons (as defined in section 6103(l)(13) of title 26) for the relevant purposes described in such section; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the return information of such individuals may be redisclosed pursuant toclauses (iii), (iv), (v), and (vi) of section 6103(l)(13)(D) of the Internal Revenue Code of 1986, for the relevant purposes described in such section; and
+&emsp;&emsp;&emsp;&emsp;(II) the return information of such individuals may be redisclosed pursuant to clauses (iii), (iv), (v), and (vi) of section 6103(l)(13)(D) of the Internal Revenue Code of 1986, for the relevant purposes described in such section; and
 
 &emsp;&emsp;&emsp;(ii) the failure to provide such approval for the disclosures described in subclauses (I) and (II) of clause (i) will result in the Secretary being unable to calculate eligibility for such aid to such individual; and
 
@@ -76,7 +76,7 @@ The Secretary shall only have authority to request that the Secretary of the Tre
 
 #### (3) Restriction on disclosing information
 
-&emsp;A person receiving information under paragraph (1)(B) or (2) with respect to an applicant shall not use the information for any purpose other than the express purpose for which consent was granted by the applicant and shallnot disclose such information to any other person without the express permission of, or request by, the applicant.
+&emsp;A person receiving information under paragraph (1)(B) or (2) with respect to an applicant shall not use the information for any purpose other than the express purpose for which consent was granted by the applicant and shall not disclose such information to any other person without the express permission of, or request by, the applicant.
 
 #### (4) Definitions
 
@@ -108,7 +108,7 @@ The Secretary shall only have authority to request that the Secretary of the Tre
 
 #### Amendment of Subsection (a)(1)
 
-<i>Pub. L. 116–260, div. FF, title VII, §§701(b), 702(p), Dec. 27, 2020, 134 Stat. 3137, 3191, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, subsection (a)(1) of this section is amended as follows:</i>
+<i>Pub. L. 116–260, div. FF, title VII, §§701(b), 702(p), Dec. 27, 2020, 134 Stat. 3137, 3191, pro</i><i>vided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, subsection (a)(1) of this section is amended as follows:</i>
 
 <i>(1) in subparagraph (A)(ii), by striking "and" after the semicolon;</i>
 
@@ -119,6 +119,8 @@ The Secretary shall only have authority to request that the Secretary of the Tre
 &emsp;&emsp;<i>(C) if an individual is pursuing provisional independent student status due to an unusual circumstance, as described in section 1087tt of this title and provided for in section 1087uu–2 of this title, require such individual to provide an affirmative approval under subparagraph (B), but not require a parent of such individual to provide an affirmative approval under subparagraph (B).</i>
 
 <i>See 2020 Amendment note below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -137,6 +139,8 @@ Subsec. (a)(2)(A)(ii)(I). Pub. L. 116–260, div. N, §284(b)(1)(B), and div. FF
 Subsec. (a)(3). Pub. L. 116–260, div. N, §284(b)(2), and div. FF, §103(b)(2), amended par. (3) identically, substituting "paragraph (1)(A)(i)(I)" for "paragraph (1)(A)(i)" in two places.
 
 Subsec. (c). Pub. L. 116–260, div. N, §284(b)(1)(C), and div. FF, §103(b)(1)(C), amended section identically, adding subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 

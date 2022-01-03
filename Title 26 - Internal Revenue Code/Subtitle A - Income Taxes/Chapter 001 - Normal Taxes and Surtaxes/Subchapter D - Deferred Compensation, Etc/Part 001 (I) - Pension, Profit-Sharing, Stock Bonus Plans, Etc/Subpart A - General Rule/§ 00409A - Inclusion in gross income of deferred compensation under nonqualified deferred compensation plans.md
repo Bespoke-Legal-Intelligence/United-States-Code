@@ -186,7 +186,7 @@
 
 #### (4) Income inclusion for offshore trusts and employer's financial health
 
-&emsp;For each taxable year that assets treated as transferred under this subsection remain set aside in a trust or other arrangement subject to paragraph (1), (2), or (3), any increase in value in, or earnings with respect to, such assets shall be treated as an additional transfer of property under this subsection (to the extent not previously included in income).
+&emsp;For each taxable year that assets treated as transferred under this subsection remain set aside in a trust or other arrangement subjectto paragraph (1), (2), or (3), any increase in value in, or earnings with respect to, such assets shall be treated as an additional transfer of property under this subsection (to the extent not previously included in income).
 
 #### (5) Interest on tax liability payable with respect to transferred property
 
@@ -264,6 +264,8 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 (Added Pub. L. 108–357, title VIII, §885(a), Oct. 22, 2004, 118 Stat. 1634; amended Pub. L. 109–135, title IV, §403(hh)(2), Dec. 21, 2005, 119 Stat. 2631; Pub. L. 109–280, title I, §116(a), (b), Aug. 17, 2006, 120 Stat. 856, 858; Pub. L. 110–458, title I, §101(e), Dec. 23, 2008, 122 Stat. 5100; Pub. L. 115–97, title I, §13603(c)(2), Dec. 22, 2017, 131 Stat. 2164; Pub. L. 115–141, div. U, title IV, §401(a)(80), Mar. 23, 2018, 132 Stat. 1187.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 4041 of the Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(3)(B)(iii), is classified to section 1341 of Title 29, Labor.
@@ -287,6 +289,8 @@ A prior section 409A was renumbered section 409 of this title.
 Subsec. (b)(4), (5). Pub. L. 109–280 redesignated pars. (3) and (4) as (4) and (5), respectively, and substituted "paragraph (1), (2), or (3)" for "paragraph (1) or (2)" wherever appearing.
 
 <b>2005</b>—Subsec. (a)(4)(C)(ii). Pub. L. 109–135 struck out "first" after "requires that the".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 

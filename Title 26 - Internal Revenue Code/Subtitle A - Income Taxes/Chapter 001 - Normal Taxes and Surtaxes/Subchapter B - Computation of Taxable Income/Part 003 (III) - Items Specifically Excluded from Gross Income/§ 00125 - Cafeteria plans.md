@@ -46,7 +46,7 @@ For purposes of this section—
 
 #### (B) Exception for cash and deferred arrangements
 
-&emsp;&emsp;Subparagraph (A) shall not apply to a profit-sharing or stock bonus plan or rural cooperative plan (within the meaning of section 401(k)(7)) which includes a qualified cash ordeferred arrangement (as defined in section 401(k)(2)) to the extent of amounts which a covered employee may elect to have the employer pay as contributions to a trust under such plan on behalf of the employee.
+&emsp;&emsp;Subparagraph (A) shall not apply to a profit-sharing or stock bonus plan or rural cooperative plan (within the meaning of section 401(k)(7)) which includes a qualified cash or deferred arrangement (as defined in section 401(k)(2)) to the extent of amounts which a covered employee may elect to have the employer pay as contributions to a trust under such plan on behalf of the employee.
 
 #### (C) Exception for certain plans maintained by educational institutions
 
@@ -132,7 +132,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) No employee is required to complete more than 3 years of employment with the employer or employers maintaining the plan as a condition of participation in the plan, and the employment requirement for each employee is the same.
 
-&emsp;&emsp;&emsp;(ii) Any employee who has satisfied the employment requirement of clause (i) and who is otherwise entitled to participate inthe plan commences participation no later than the first day of the first plan year beginning after the date the employment requirement was satisfied unless the employee was separated from service before the first day of that plan year.
+&emsp;&emsp;&emsp;(ii) Any employee who has satisfied the employment requirement of clause (i) and who is otherwise entitled to participate in the plan commences participation no later than the first day of the first plan year beginning after the date the employment requirement was satisfied unless the employee was separated from service before the first day of that plan year.
 
 #### (4) Certain controlled groups, etc.
 
@@ -164,7 +164,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) such amount, multiplied by
 
-&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which such taxable year begins by substituting "calendar year 2012" for "calendar year 2016" in subparagraph (A)(ii) thereof.
+&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which such taxable year begins bysubstituting "calendar year 2012" for "calendar year 2016" in subparagraph (A)(ii) thereof.
 
 > &emsp;If any increase determined under this paragraph is not a multiple of $50, such increase shall be rounded to the next lowest multiple of $50.
 
@@ -302,11 +302,13 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this section.
 
-(Added Pub. L. 95–600, title I, §134(a), Nov. 6, 1978, 92 Stat. 2783; amended Pub. L. 96–222, title I, §101(a)(6)(A), Apr. 1, 1980, 94 Stat. 196; Pub. L. 96–605, title II, §§201(b)(2), 226(a), Dec. 28, 1980, 94 Stat. 3527, 3529; Pub. L. 96–613, §5(b)(2), Dec. 28, 1980, 94 Stat. 3581; Pub. L. 98–369, div. A, title V, §531(b)(1)–(4)(A), July 18, 1984, 98 Stat. 881, 882; Pub. L. 98–611, §1(d)(3)(A), Oct. 31, 1984, 98 Stat. 3177; Pub. L. 98–612, §1(b)(3)(B), Oct. 31, 1984, 98 Stat. 3181; Pub. L. 99–514, title XI, §1151(d)(1),title XVIII, §1853(b)(1), Oct. 22, 1986, 100 Stat. 2504, 2870; Pub. L. 100–647, title I, §§1011B(a)(11)–(13), 1018(t)(6), title IV, §4002(b)(2), title VI, §6051(b), Nov. 10, 1988, 102 Stat. 3484, 3485, 3589, 3643, 3696; Pub. L. 101–140, title II, §203(a)(1), (3), (b)(2), Nov. 8, 1989, 103 Stat. 830, 831; Pub. L. 101–239, title VII, §7814(b), Dec. 19, 1989, 103 Stat. 2413; Pub. L. 101–508, title XI, §11801(c)(3), Nov. 5, 1990, 104 Stat. 1388–523; Pub. L. 104–191, title III, §§301(d), 321(c)(1), Aug. 21, 1996, 110 Stat. 2051, 2058; Pub. L. 108–173, title XII, §1201(i), Dec. 8, 2003, 117 Stat. 2479; Pub. L. 108–311, title II, §207(11), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 110–172, §11(a)(12), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–245, title I, §114(a), June 17, 2008, 122 Stat. 1636; Pub. L. 111–148, title I, §1515(a), (b), title IX, §§9005(a), 9022(a), title X, §10902(a), Mar. 23, 2010, 124 Stat. 258, 854, 874, 1016; Pub. L. 111–152, title I, §1403(b), Mar. 30, 2010, 124 Stat. 1063; Pub. L. 113–295, div. A, title II, §§213(b), 220(f), (g), Dec. 19, 2014, 128 Stat. 4033, 4036; Pub. L. 115–97, title I, §11002(d)(1)(L), Dec. 22, 2017, 131 Stat. 2060; Pub. L. 115–141, div. U, title IV, §401(a)(37), Mar. 23, 2018, 132 Stat. 1186.)
+(Added Pub. L. 95–600, title I, §134(a), Nov. 6, 1978, 92 Stat. 2783; amended Pub. L. 96–222, title I, §101(a)(6)(A), Apr. 1, 1980, 94 Stat. 196; Pub. L. 96–605, title II, §§201(b)(2), 226(a), Dec. 28, 1980, 94 Stat. 3527, 3529; Pub. L. 96–613, §5(b)(2), Dec. 28, 1980, 94 Stat. 3581; Pub. L. 98–369, div. A, title V, §531(b)(1)–(4)(A), July 18, 1984, 98 Stat. 881, 882; Pub. L. 98–611, §1(d)(3)(A), Oct. 31, 1984, 98 Stat. 3177; Pub. L. 98–612, §1(b)(3)(B), Oct. 31, 1984, 98 Stat. 3181; Pub. L. 99–514, title XI, §1151(d)(1), title XVIII, §1853(b)(1), Oct. 22, 1986, 100 Stat. 2504, 2870; Pub. L. 100–647, title I, §§1011B(a)(11)–(13), 1018(t)(6), title IV, §4002(b)(2), title VI, §6051(b), Nov. 10, 1988, 102 Stat. 3484, 3485, 3589, 3643, 3696; Pub. L. 101–140, title II, §203(a)(1), (3), (b)(2), Nov. 8, 1989, 103 Stat. 830, 831; Pub. L. 101–239, title VII, §7814(b), Dec. 19, 1989, 103 Stat. 2413; Pub. L. 101–508, title XI, §11801(c)(3), Nov. 5, 1990, 104 Stat. 1388–523; Pub. L. 104–191, title III, §§301(d), 321(c)(1), Aug. 21, 1996, 110 Stat. 2051, 2058; Pub. L. 108–173, title XII, §1201(i), Dec. 8, 2003, 117 Stat. 2479; Pub. L. 108–311, title II, §207(11), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 110–172, §11(a)(12), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–245, title I, §114(a), June 17, 2008, 122 Stat. 1636; Pub. L. 111–148, title I, §1515(a), (b), title IX, §§9005(a), 9022(a), title X, §10902(a), Mar. 23, 2010, 124 Stat. 258, 854, 874, 1016; Pub. L. 111–152, title I, §1403(b), Mar. 30, 2010, 124 Stat. 1063; Pub. L. 113–295, div. A, title II, §§213(b), 220(f), (g), Dec. 19, 2014, 128 Stat. 4033, 4036; Pub. L. 115–97, title I, §11002(d)(1)(L), Dec. 22, 2017, 131 Stat. 2060; Pub. L. 115–141, div. U, title IV, §401(a)(37), Mar. 23, 2018, 132 Stat. 1186.)
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -414,7 +416,7 @@ Subsec. (f). Pub. L. 99–514, §1853(b)(1)(B), substituted "Qualified benefits 
 
 Subsec. (c). Pub. L. 98–369, §531(b)(2)(B), inserted "statutory" before "nontaxable benefits" in two places.
 
-Subsec. (d)(1). Pub. L. 98–369, §531(b)(1), substituted "among 2 or more benefits consisting of cash and statutory nontaxable benefits" for "among two or more benefits" in cl. (B) and struck out "The benefits which may be chosen may be nontaxable benefits, or cash, property, or other taxable benefits."
+Subsec. (d)(1). Pub. L. 98–369, §531(b)(1), substituted "among 2 or more benefits consisting of cash and statutory nontaxable benefits" for "among two or more benefits" in cl. (B) and struck out "The benefits whichmay be chosen may be nontaxable benefits, or cash, property, or other taxable benefits."
 
 Subsec. (f). Pub. L. 98–369, §531(b)(2)(A), amended subsec. (f) generally, inserting "Statutory" in heading and "statutory" before "nontaxable benefit" in text, providing that the benefit be excluded by reason of an express provision of this chapter (other than section 117, 124, 127, or 132), and extending the benefit to include group term life insurance.
 
@@ -429,6 +431,8 @@ Subsec. (i). Pub. L. 98–369, §531(b)(4)(A), redesignated subsec. (h) as (i).
 Subsec. (g)(3)(B). Pub. L. 96–222 substituted "employment requirement" for "service requirement" in cls. (i) and (ii).
 
 Subsec. (g)(4). Pub. L. 96–613, §5(b)(2), and Pub. L. 96–605, §201(b)(2), made identical amendments by substituting "controlled groups, etc." for "controlled groups" in heading, and by substituting "subsection (b), (c), or (m) of section 414" for "subsection (b) or (c) of section 414" in text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 
@@ -458,7 +462,7 @@ Amendment by Pub. L. 108–311 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–173 applicable to taxable years beginning after Dec. 31, 2003, see section 1201(k) ofPub. L. 108–173, set out as a note under section 62 of this title.
+Amendment by Pub. L. 108–173 applicable to taxable years beginning after Dec. 31, 2003, see section 1201(k) of Pub. L. 108–173, set out as a note under section 62 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -496,7 +500,7 @@ Amendment by Pub. L. 98–369 effective Jan. 1, 1985, see section 531(h) of Pub.
 
 #### Effective Date of 1980 Amendment
 
-Amendments by section 201(b)(2) of Pub. L. 96–605 and section 5(b)(2) of Pub. L. 96–613 applicable to years ending after Nov. 30, 1980, except in the case of a plan in existence on Nov. 30, 1980 where amendments by section 201(b)(2) of Pub. L. 96–605 and section 5(b)(2) of Pub. L. 96–613 applicable to plan years beginning after Nov. 30, 1980, see section 201(c) of Pub. L. 96–605 and section 5(c) of Pub. L. 96–613, set out as a note under section 414 of this title.
+Amendments by section 201(b)(2) of Pub. L. 96–605 and section 5(b)(2) of Pub. L. 96–613 applicable to years ending after Nov. 30, 1980, except in the case of a plan inexistence on Nov. 30, 1980 where amendments by section 201(b)(2) of Pub. L. 96–605 and section 5(b)(2) of Pub. L. 96–613 applicable to plan years beginning after Nov. 30, 1980, see section 201(c) of Pub. L. 96–605 and section 5(c) of Pub. L. 96–613, set out as a note under section 414 of this title.
 
 Pub. L. 96–605, title II, §226(b), Dec. 28, 1980, 94 Stat. 3530, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1980."
 

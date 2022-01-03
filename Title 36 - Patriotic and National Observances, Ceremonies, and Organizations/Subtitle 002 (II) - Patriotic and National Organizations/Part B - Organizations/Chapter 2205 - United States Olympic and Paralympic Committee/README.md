@@ -45,13 +45,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER III <sup>1</sup> —UNITED STATES CENTER FOR SAFE SPORT <sup>2</sup>
+#### SUBCHAPTER IV—UNITED STATES CENTER FOR SAFESPORT
 
 |  |  |
 | :--- | ---: |
-| [220541\.](Subchapter%20003%20%28III%29%20-%20United%20States%20Center%20for%20SafeSport/%C2%A7%20220541%20-%20Designation%20of%20United%20States%20Center%20for%20SafeSport.md) | Designation of United States Center for SafeSport. |
-| [220542\.](Subchapter%20003%20%28III%29%20-%20United%20States%20Center%20for%20SafeSport/%C2%A7%20220542%20-%20Additional%20duties.md) | Additional duties. |
-| [220543\.](Subchapter%20003%20%28III%29%20-%20United%20States%20Center%20for%20SafeSport/%C2%A7%20220543%20-%20Records%2C%20audits%2C%20and%20reports.md) | Records, audits, and reports. |
+| [220541\.](Subchapter%20004%20%28IV%29%20-%20United%20States%20Center%20for%20SafeSport/%C2%A7%20220541%20-%20Designation%20of%20United%20States%20Center%20for%20SafeSport.md) | Designation of United States Center for SafeSport. |
+| [220542\.](Subchapter%20004%20%28IV%29%20-%20United%20States%20Center%20for%20SafeSport/%C2%A7%20220542%20-%20Additional%20duties.md) | Additional duties. |
+| [220543\.](Subchapter%20004%20%28IV%29%20-%20United%20States%20Center%20for%20SafeSport/%C2%A7%20220543%20-%20Records%2C%20audits%2C%20and%20reports.md) | Records, audits, and reports. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -60,13 +60,9 @@
 |  |  |
 | :--- | ---: |
 | [220551\.](Subchapter%20005%20%28V%29%20-%20Dissolution%20of%20Board%20of%20Directors%20of%20Corporation%20and%20Termination%20of%20Recognition%20of%20National%20Governing%20Bodies/%C2%A7%20220551%20-%20Definitions.md) | Definitions. |
-| [220552\.](Subchapter%20005%20%28V%29%20-%20Dissolution%20of%20Board%20of%20Directors%20of%20Corporation%20and%20Termination%20of%20Recognition%20of%20National%20Governing%20Bodies/%C2%A7%20220552%20-%20Dissolution%20of%20board%20of%20directors%20of%20corporation%20and%20termination%20of%20recognition%20of%20national%20governing%20bodies.md) | Dissolution of board of directors of corporation and termination of recognition of national governing bodies. |
+| [220552\.](Subchapter%20005%20%28V%29%20-%20Dissolution%20of%20Board%20of%20Directors%20of%20Corporation%20and%20Termination%20of%20Recognition%20of%20National%20Governing%20Bodies/%C2%A7%20220552%20-%20Dissolution%20of%20board%20of%20directors%20of%20corporation%20and%20termination%20of%20recognition%20of%20national%20governing%20bodies.md) | Dissolution of board of directors of corporation and termination of recognition of national governing bodies.<br> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Amendment of Analysis
-
-<i>Pub. L. 116–189, §5(b)(1), (c), Oct. 30, 2020, 134 Stat. 947, provided that, effective on the date that is 1 year after Oct. 30, 2020, this analysis is amended by substituting item for subchapter IV "UNITED STATES CENTER FOR SAFESPORT" for item for subchapter III relating to United States Center for Safe Sport. Section 5(b)(2) of Pub. L. 116–189, which added item for subchapter V and items 220551 and 220552, is also effective 1 year after Oct. 30, 2020, but has been executed to this analysis to conform to the concurrent execution of that subchapter in text. See 2020 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -86,8 +82,6 @@ Pub. L. 115–126, title II, §§202(c), 204(b), Feb. 14, 2018, 132 Stat. 323, 3
 
 <i><sup>1</sup></i><i> So in original. Two items for subchapter III have been enacted.</i>
 
-<i><sup>2</sup></i><i> Temporarily does not conform to subchapter heading as amended by section 8(a)(2)(A) of Pub. L. 116–189.</i>
-
 
 ---
 
@@ -96,5 +90,5 @@ Pub. L. 115–126, title II, §§202(c), 204(b), Feb. 14, 2018, 132 Stat. 323, 3
 - [Subchapter 001 (I) - Corporation](Subchapter%20001%20%28I%29%20-%20Corporation/README.md)
 - [Subchapter 002 (II) - National Governing Bodies](Subchapter%20002%20%28II%29%20-%20National%20Governing%20Bodies/README.md)
 - [Subchapter 003 (III) - Grant to Keep Young Athletes Safe](Subchapter%20003%20%28III%29%20-%20Grant%20to%20Keep%20Young%20Athletes%20Safe/README.md)
-- [Subchapter 003 (III) - United States Center for SafeSport](Subchapter%20003%20%28III%29%20-%20United%20States%20Center%20for%20SafeSport/README.md)
+- [Subchapter 004 (IV) - United States Center for SafeSport](Subchapter%20004%20%28IV%29%20-%20United%20States%20Center%20for%20SafeSport/README.md)
 - [Subchapter 005 (V) - Dissolution of Board of Directors of Corporation and Termination of Recognition of National Governing Bodies](Subchapter%20005%20%28V%29%20-%20Dissolution%20of%20Board%20of%20Directors%20of%20Corporation%20and%20Termination%20of%20Recognition%20of%20National%20Governing%20Bodies/README.md)

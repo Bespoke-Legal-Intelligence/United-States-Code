@@ -2,7 +2,7 @@
 
 #### (a) Designation; preconditions; bonding requirements; supervision
 
-Subject to subsection (b), buildings or parts of buildings and other enclosures may be designated by the Secretary of the Treasury as bonded warehouses for the storage of imported merchandise entered for warehousing, or taken possession of by the appropriate customs officer, or under seizure, or for the manufacture of merchandise in bond, or for the repacking, sorting, or cleaning of imported merchandise. Such warehouses may be bonded for the storing of such merchandise only as shall belong or be consigned to the owners or proprietors thereof and be known as private bonded warehouses, or for the storage of imported merchandise generally and be known as public bonded warehouses. Before any imported merchandise not finally released from customs custody shall be stored in any such premises, the owner or lessee thereof shall give a bond in such sum and with such sureties as may be approved by the Secretary of the Treasury to secure the Government against any loss or expense connected with or arising from the deposit, storage, or manipulation of merchandise in such warehouse. Except as otherwise provided in this chapter, bonded warehouses shall be used solely for the storage of imported merchandise and shall be placed in charge of a proper officer of the customs, who, together with the proprietor thereof, shall have joint custody of all merchandise stored in the warehouse; and all labor on the merchandise so stored shall be performed by the owner or proprietor of the warehouse, under supervision of the officer of the customs in charge of the same, at the expense of the owner or proprietor. The compensation of such officer of the customs andother customs employees appointed to supervise the receipt of merchandise into any such warehouse and deliveries therefrom shall be reimbursed to the Government by the proprietor of such warehouse.
+Subject to subsection (b), buildings or parts of buildings and other enclosures may be designated by the Secretary of the Treasury as bonded warehouses for the storage of imported merchandise entered for warehousing, or taken possession of by the appropriate customs officer, or under seizure, or for the manufacture of merchandise in bond, or for the repacking, sorting, or cleaning of imported merchandise. Such warehouses may be bonded for the storing of such merchandise only as shall belong or be consigned to the owners or proprietors thereof and be known as private bonded warehouses, or for the storage of imported merchandise generally and be known as public bonded warehouses. Before any imported merchandise not finally released from customs custody shall be stored in any such premises, the owner or lessee thereof shall give a bond in such sum and with such sureties as may be approved by the Secretary of the Treasury to secure the Government against any loss or expense connected with or arising from the deposit, storage, or manipulation of merchandise in such warehouse. Except as otherwise provided in this chapter, bonded warehouses shall be used solely for the storage of imported merchandise and shall be placed in charge of a proper officer of the customs, who, together with the proprietor thereof, shall have joint custody of all merchandise stored in the warehouse; and all labor on the merchandise so stored shall be performed by the owner or proprietor of the warehouse, under supervision of the officer of the customs in charge of the same, at the expense of the owner or proprietor. The compensation of such officer of the customs and other customs employees appointed to supervise the receipt of merchandise into any such warehouse and deliveries therefrom shall be reimbursed to the Government by the proprietor of such warehouse.
 
 #### (b) Duty-free sales enterprises
 
@@ -110,6 +110,8 @@ Subject to subsection (b), buildings or parts of buildings and other enclosures 
 
 (June 17, 1930, ch. 497, title IV, §555, 46 Stat. 743; Pub. L. 91–271, title III, §301(b), June 2, 1970, 84 Stat. 287; Pub. L. 98–573, title II, §211, Oct. 30, 1984, 98 Stat. 2977; Pub. L. 100–418, title I, §1908(b), Aug. 23, 1988, 102 Stat. 1315; Pub. L. 101–382, title I, §139(a)(1), Aug. 20, 1990, 104 Stat. 653; Pub. L. 104–295, §29, Oct. 11, 1996, 110 Stat. 3535; Pub. L. 106–36, title II, §2417, June 25, 1999, 113 Stat. 176; Pub. L. 106–476, title I, §1454, Nov. 9, 2000, 114 Stat. 2168.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For provisions relating to ports of entry established under section 1 of the Act of August 24, 1912 (37 Stat. 434), referred to in subsec. (b)(2)(A), (C), see Prior Provisions note under section 1 of this title.
@@ -120,7 +122,7 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (b)(
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §555, 42Stat. 976. That section was superseded by section 555 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §555, 42 Stat. 976. That section was superseded by section 555 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 Prior provisions dealing with the subject matter of this section were contained in R.S. §2958, authorizing cellars and vaults of stores for storage of wines and distilled spirits, and yards for storage of coal, etc., to be constituted bonded warehouses; section 2959, authorizing parts of buildings to be bonded for the storage of grain; section 2960, requiring private warehouses to be used solely for the storage of warehoused merchandise, and be approved by the Secretary of the Treasury, and be in charge of a proper officer of the customs, etc.; section 2961 requiring bonds to hold the United States harmless, and providing that imports deposited in warehouses should be at the risk and expense of the owner or importer; section 2968, authorizing the extension of warehouse privileges to the port of Albany; and section 2988, as amended by act Feb. 27, 1877, ch. 69, §1, 19 Stat. 247, requiring collectors to make reports of merchandise in warehouses. All of these sections were repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
@@ -139,6 +141,8 @@ Prior provisions dealing with the subject matter of this section were contained 
 <b>1984</b>—Pub. L. 98–573 designated existing provisions as subsec. (a), substituted "Subject to subsection (b), buildings" for "Buildings", and added subsec. (b).
 
 <b>1970</b>—Pub. L. 91–271 substituted reference to appropriate customs officer for reference to collector.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

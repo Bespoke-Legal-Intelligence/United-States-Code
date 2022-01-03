@@ -14,13 +14,15 @@ In General.—The Secretary of Defense and the Secretary of each of the military
 
 (b)
 
-Consolidated Budget Justification Display.—The Secretary of Defense shall include, in the budget materials submitted to Congress under section 1105 of title 31, for fiscal year 2022 and any subsequent fiscal year, a consolidated budget justification display containing the same information as is required in the budget justification displays required under subsection (a). Such consolidated budget justification displaymay be provided as a summary by appropriation for each military department and a summary by appropriation for all Defense Agencies.
+Consolidated Budget Justification Display.—The Secretary of Defense shall include, in the budget materials submitted to Congress under section 1105 of title 31, for fiscal year 2022 and any subsequent fiscal year, a consolidated budget justification display containing the same information as is required in the budget justification displays required under subsection (a). Such consolidated budget justification display may be provided as a summary by appropriation for each military department and a summary by appropriation for all Defense Agencies.
 
 (c)
 
 Service-common and Other Support and Enabling Capabilities.—In this section, the term "service-common and other support and enabling capabilities" means capabilities provided in support of special operations that are not reflected in Major Force Program–11 or designated as special operations forces-peculiar.
 
 (Added Pub. L. 116–92, div. A, title X, §1007(a), Dec. 20, 2019, 133 Stat. 1575; amended Pub. L. 116–283, div. A, title X, §1002, Jan. 1, 2021, 134 Stat. 3836.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

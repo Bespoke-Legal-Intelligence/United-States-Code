@@ -2,7 +2,7 @@
 
 #### (a) General notice of proposed rulemaking
 
-If any proposed rule by the Administrator contains any commercial standards, or specifically authorizes or requires the use of any such standards, then any general notice of the proposed rulemaking shall—
+If any proposed rule by the Administrator contains any commercial standards, or specificallyauthorizes or requires the use of any such standards, then any general notice of the proposed rulemaking shall—
 
 &emsp;(1) identify, by name, the organization which promulgated such standards; and
 
@@ -59,6 +59,8 @@ As used in this section, the term "commercial standards" means—
 > which are promulgated by any organization which is not a Federal entity. For purposes of the preceding sentence, any revision by any such organization of any such rule, procedure, requirement, or standard shall be considered to be the same as the promulgation of such standard.
 
 (Pub. L. 93–275, §32, as added Pub. L. 95–70, §9, July 21, 1977, 91 Stat. 278.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

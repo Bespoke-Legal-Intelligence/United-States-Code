@@ -78,7 +78,7 @@ General Written Assurances.—The Secretary of Transportation may approve a proj
 
 &emsp;&emsp;(B) all services and property provided to other units of government and the amount of compensation received for provision of each such service and property;
 
-&emsp;(20) the airport owner or operator will permit, to the maximum extent practicable,intercity buses or other modes of transportation to have access to the airport, but the sponsor does not have any obligation under this paragraph, or because of it, to fund special facilities for intercity bus service or for other modes of transportation; and
+&emsp;(20) the airport owner or operator will permit, to the maximum extent practicable, intercity buses or other modes of transportation to have access to the airport, but the sponsor does not have any obligation under this paragraph, or because of it, to fund special facilities for intercity bus service or for other modes of transportation; and
 
 &emsp;(21) if the airport owner or operator and a person who owns an aircraft agree that a hangar is to be constructed at the airport for the aircraft at the aircraft owner's expense, the airport owner or operator will grant to the aircraft owner for the hangar a long-term lease that is subject to such terms and conditions on the hangar as the airport owner or operator may impose.
 
@@ -94,7 +94,7 @@ Written Assurances on Use of Revenue.—(1) The Secretary of Transportation may 
 
 (2) Paragraph (1) of this subsection does not apply if a provision enacted not later than September 2, 1982, in a law controlling financing by the airport owner or operator, or a covenant or assurance in a debt obligation issued not later than September 2, 1982, by the owner or operator, provides that the revenues, including local taxes on aviation fuel at public airports, from any of the facilities of the owner or operator, including the airport, be used to support not only the airport but also the general debt obligations or other facilities of the owner or operator.
 
-(3) This subsection does not prevent the use of a State tax on aviation fuel to support a State aviation program or the use of airport revenue on or off the airport for a noise mitigation purpose.
+(3) This subsection does not prevent the use of a State tax on aviation fuel to support a Stateaviation program or the use of airport revenue on or off the airport for a noise mitigation purpose.
 
 (c)
 
@@ -152,7 +152,7 @@ Assurances of Continuation as Public-Use Airport.—The Secretary of Transportat
 
 (e)
 
-Written Assurances of Opportunities for Small Business Concerns.—(1) The Secretary of Transportation may approve a project grant application under this subchapter for an airport development project only if the Secretary receives written assurances, satisfactory to the Secretary, that the airport owner or operator will take necessary action to ensure, to the maximum extent practicable, that at least 10 percent of all businesses at the airport selling consumer products or providing consumer services to the public are small business concerns (as defined by regulations of the Secretary) owned and controlled by a socially and economically disadvantaged individual (as defined in section 47113(a) of this title) or qualified HUBZone small business concerns (as defined in section 31(b) of the Small Business Act).
+Written Assurances of Opportunities for Small Business Concerns.—(1) The Secretary of Transportation may approve a project grant application under this subchapter for an airport development project only if the Secretary receives written assurances, satisfactory to the Secretary, that the airport owner or operator will take necessary action to ensure, to the maximum extent practicable, that at least 10 percent of all businesses at the airport selling consumer products or providing consumer services to the public are small business concerns (as defined by regulations of the Secretary) owned and controlled by a socially and economically disadvantaged individual (as defined insection 47113(a) of this title) or qualified HUBZone small business concerns (as defined in section 31(b) of the Small Business Act).
 
 (2) An airport owner or operator may meet the percentage goal of paragraph (1) of this subsection by including any business operated through a management contract or subcontract. The dollar amount of a management contract or subcontract with a disadvantaged business enterprise shall be added to the total participation by disadvantaged business enterprises in airport concessions and to the base from which the airport's percentage goal is calculated. The dollar amount of a management contract or subcontract with a non-disadvantaged business enterprise and the gross revenue of business activities to which the management contract or subcontract pertains may not be added to this base.
 
@@ -188,7 +188,7 @@ Availability of Amounts.—An amount deposited in the Airport and Airway Trust F
 
 &emsp;&emsp;(B) for use under section 47114(d)(2) of this title at another airport in the State in which the land was disposed of under subsection (c)(2)(B)(ii) of this section; and
 
-&emsp;(3) subsection (c)(2)(B)(iii) of this section is in addition to an amount made available tothe Secretary under section 48103 of this title and not subject to apportionment under section 47114 of this title.
+&emsp;(3) subsection (c)(2)(B)(iii) of this section is in addition to an amount made available to the Secretary under section 48103 of this title and not subject to apportionment under section 47114 of this title.
 
 (g)
 
@@ -218,7 +218,7 @@ Public notice before waiver of aeronautical land-use assurance.—Before modifyi
 
 (i)
 
-Relief From Obligation To Provide Free Space.—When a sponsor provides a property interest in a land or water area or a building that the Secretary of Transportation uses to construct a facility at Government expense, the Secretary may relieve the sponsor from an obligation in a contract made under this chapter, the Airport and Airway Development Act of 1970, or the Federal Airport Act to provide free space to the Government in an airport building, to the extent the Secretary finds that the free space no longer is needed to carry out activities related to air traffic control or navigation.
+Relief From Obligation To Provide Free Space.—When a sponsor provides a property interest in a land or water area or a building that the Secretary of Transportation uses to construct a facility at Government expense, the Secretary may relieve the sponsor from an obligation in a contract made under this chapter, the Airport and Airway Development Act of 1970, or the Federal Airport Act to provide freespace to the Government in an airport building, to the extent the Secretary finds that the free space no longer is needed to carry out activities related to air traffic control or navigation.
 
 (j)
 
@@ -442,7 +442,7 @@ Terms and conditions.—An agreement described in paragraph (1) between an airpo
 
 &emsp;(3)
 
-Exemption.—The terms and conditions of paragraph (2) shall not apply to an agreement described in paragraph (1) made before the enactment of the FAA Modernization and Reform Act of 2012 (Public Law 112–95) that the Secretary determines does not comply with such terms and conditions but involves property that is subject to deed or lease restrictions that are considered perpetual and that cannot readily be brought into compliance. However, if the Secretary determines that the airport sponsor and residential property owners are able to make any modification to such an agreement on or after the date of enactment of this paragraph, the exemption provided by this paragraph shall no longer apply.
+Exemption.—The terms and conditions of paragraph (2) shall not apply to an agreement described in paragraph (1) made before the enactment of the FAA Modernization and Reform Act of 2012 (Public Law 112–95) that the Secretary determines does not comply with such terms and conditions but involves property that is subject to deed or lease restrictions that are considered perpetual and thatcannot readily be brought into compliance. However, if the Secretary determines that the airport sponsor and residential property owners are able to make any modification to such an agreement on or after the date of enactment of this paragraph, the exemption provided by this paragraph shall no longer apply.
 
 (t)
 
@@ -786,7 +786,7 @@ In subsection (b)(2), the words "Paragraph (1) of this subsection does not apply
 
 In subsection (c)(1), before clause (A), the words "considered to be" are omitted as surplus. In clause (B), the words "department, agency, or instrumentality of the Government" are substituted for "Federal agency" for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (c)(2), before clause (A), the words "may approve an application under this subchapter for an airport development project grant only if" are substituted for 49 App.:2208(b)(1)(E) (related to 49 App.:2210(a)(13), (14)) and "As a condition precedent to approval of an airport development project contained in a project grant application submitted under this chapter" in 49 App.:2210(a) for clarity and to eliminate unnecessary words. The words "has received or will receive" are substituted for "before, on, or after December 30, 1987" and "before, on, or after December 31, 1987" because of the restatement. In clauses (A)(ii) and (B)(ii), the words "or right" and "only" are omitted as surplus. In clause (A)(iii), the words "at the discretion of the Secretary" in 49 App.:2210(a)(13)(C) are omitted as surplus. In clause (B)(iii), the words "under this subchapter" are substituted for "at that airport or within the national airport system" for clarity and to eliminate unnecessary words.
+In subsection (c)(2), before clause (A), the words "may approve an application under this subchapter for an airport development project grant only if" are substituted for 49 App.:2208(b)(1)(E) (related to 49 App.:2210(a)(13), (14)) and "As a condition precedent to approval of an airport development project contained in a project grant application submitted under this chapter" in 49 App.:2210(a) for clarity and to eliminate unnecessary words. The words "has received or will receive" are substituted for "before, on, or after December 30, 1987" and "before, on, or after December 31, 1987" because of the restatement. In clauses (A)(ii) and\(B)(ii), the words "or right" and "only" are omitted as surplus. In clause (A)(iii), the words "at the discretion of the Secretary" in 49 App.:2210(a)(13)(C) are omitted as surplus. In clause (B)(iii), the words "under this subchapter" are substituted for "at that airport or within the national airport system" for clarity and to eliminate unnecessary words.
 
 Subsection (c)(3) is added for clarity.
 
@@ -820,11 +820,13 @@ In subsection (j)(4), the word "imposed" is substituted for "levied" for consist
 
 In subsection (j)(5), the words "from fee increases" and "for approval" are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Airport Act, referred to in subsecs. (a)(13)(B) and (i), is act May 13, 1946, ch. 251, 60 Stat. 170, which was classified to chapter 14 (§1101 et seq.) of former Title 49, Transportation, prior to repeal by Pub. L. 91–258, title I, §52(a), May 21, 1970, 84 Stat. 235.
 
-The Airport and Airway Development Act of 1970, referred to in subsecs. (a)(13)(B) and (i), is title I of Pub. L. 91–258, May 21, 1970, 84 Stat. 219, which was classified principally to chapter 25 (§1701 et seq.) of former Title 49, Transportation. Sections 1 through 30 of title I of Pub. L. 91–258, which enacted sections 1701 to 1703, 1711 to 1713, and 1714 to 1730 of former Title 49, and a provision set out as a note under section 1701 of former Title 49, were repealed by Pub. L. 97–248, title V, §523(a), Sept. 3, 1982, 96 Stat. 695. Sections 31, 51, 52(a), (b)(4), (6), (c), (d), and 53 of title I of Pub. L. 91–258 were repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation. For complete classification of this Act to the Code, see Tables. Fordisposition of sections of former Title 49, see table at the beginning of Title 49.
+The Airport and Airway Development Act of 1970, referred to in subsecs. (a)(13)(B) and (i), is title I of Pub. L. 91–258, May 21, 1970, 84 Stat. 219, which was classified principally to chapter 25 (§1701 et seq.) of former Title 49, Transportation. Sections 1 through 30 of title I of Pub. L. 91–258, which enacted sections 1701 to 1703, 1711 to 1713, and 1714 to 1730 of former Title 49, and a provision set out as a note under section 1701 of former Title 49, were repealed by Pub. L. 97–248, title V, §523(a), Sept. 3, 1982, 96 Stat. 695. Sections 31, 51, 52(a), (b)(4), (6), (c), (d), and 53 of title I of Pub. L. 91–258 were repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 49, see table at the beginning of Title 49.
 
 Section 9502 of the Internal Revenue Code of 1986, referred to in subsec. (c)(4)(E), is classified to section 9502 of Title 26, Internal Revenue Code.
 
@@ -998,6 +1000,8 @@ Subsec. (k). Pub. L. 103–305, §111(c), added subsec. (k).
 
 Subsec. (l). Pub. L. 103–305, §112(a), added subsec. (l).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2017 Amendment
 
 Amendment by Pub. L. 115–91 effective Jan. 1, 2020, see section 1701(j) of Pub. L. 115–91, set out as a note under section 657a of Title 15, Commerce and Trade.
@@ -1170,5 +1174,5 @@ Pub. L. 104–264, title VIII, §805(b)(1), Oct. 9, 1996, 110 Stat. 3273, provid
 
 #### Format for Reporting
 
-Pub. L. 103–305, title I, §111(b), Aug. 23, 1994, 108 Stat. 1574, provided that: "Within 180 days after the date of the enactment of this Act \[Aug. 23, 1994\], the Secretary \[of Transportation\] shall prescribe a uniform simplified format for reporting that is applicable to airports. Such format shall be designed to enable the public to understand readily how funds are collected and spent at airports, and to provide sufficient information relating to total revenues, operating expenditures, capital expenditures, debt service payments, contributions to restricted funds, accounts, or reserves required by financing agreements or covenants or airport lease or use agreements or covenants. Such format shall require each commercial service airport to report the amount of any revenue surplus, the amount of concession-generated revenue, and other information as required by the Secretary."
+Pub. L. 103–305, title I, §111(b), Aug. 23, 1994, 108 Stat. 1574, provided that, within 180 days after Aug. 23, 1994, the Secretary of Transportation was to prescribe a uniform simplified format readily comprehensible to the public for reporting applicable to airports.
 

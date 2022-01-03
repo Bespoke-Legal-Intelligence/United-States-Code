@@ -16,13 +16,15 @@
 
 (5)(A) One of the Assistant Secretaries shall be the Assistant Secretary of the Army for Acquisition, Logistics, and Technology. The principal duty of the Assistant Secretary shall be the overall supervision of acquisition, technology, and logistics matters of the Department of the Army.
 
-(B) The Assistant Secretary shall have a Principal Military Deputy, who shall be an officer of the Army on active duty. The Principal Military Deputy shall be appointed from among officers who have significant experience in the areas of acquisition and program management. The position of Principal Military Deputy shall be designated as a critical acquisition position under section 1731 of this title. In the event of a vacancy in the position of Assistant Secretary of the Army for Acquisition, Logistics, and Technology, the Principal Military Deputy may serve as Acting Assistant Secretary for a period of not more than one year.
+(B) The Assistant Secretary shall have a Principal Military Deputy, who shall be an officer of the Army on active duty. The Principal Military Deputy shall be appointed from among officers who have significant experience in the areas ofacquisition and program management. The position of Principal Military Deputy shall be designated as a critical acquisition position under section 1731 of this title. In the event of a vacancy in the position of Assistant Secretary of the Army for Acquisition, Logistics, and Technology, the Principal Military Deputy may serve as Acting Assistant Secretary for a period of not more than one year.
 
 (6)(A) One of the Assistant Secretaries shall be the Assistant Secretary for Energy, Installations, and Environment.
 
 (B) The principal duty of the Assistant Secretary for Energy, Installations, and Environment shall be the overall supervision of energy, installation, and environment matters for the Department of the Army.
 
 (Added Pub. L. 99–433, title V, §501(a)(5), Oct. 1, 1986, 100 Stat. 1038, §3016; amended Pub. L. 100–456, div. A, title VII, §702(a)(1), Sept. 29, 1988, 102 Stat. 1992; Pub. L. 110–181, div. A, title IX, §908(a), Jan. 28, 2008, 122 Stat. 278; Pub. L. 114–328, div. A, title VIII, §802(a), Dec. 23, 2016, 130 Stat. 2249; Pub. L. 115–91, div. A, title V, §505, title IX, §921(a), Dec. 12, 2017, 131 Stat. 1374, 1524; renumbered §7016, Pub. L. 115–232, div. A, title VIII, §808(a), Aug. 13, 2018, 132 Stat. 1838; Pub. L. 116–92, div. A, title VIII, §861(j)(14), title IX, §911(a), title XVII, §1731(a)(64), Dec. 20, 2019, 133 Stat. 1520, 1559, 1816.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -42,11 +44,13 @@ Subsec. (b)(6). Pub. L. 116–92, §911(a), added par. (6).
 
 Subsec. (b)(5)(B). Pub. L. 115–91, §505, substituted "an officer" for "a lieutenant general".
 
-<b>2016</b>—Subsec. (b)(5)(B). Pub. L. 114–328 inserted at end "In the event of a vacancy in the position of AssistantSecretary of the Army for Acquisition, Logistics, and Technology, the Principal Military Deputy may serve as Acting Assistant Secretary for a period of not more than one year."
+<b>2016</b>—Subsec. (b)(5)(B). Pub. L. 114–328 inserted at end "In the event of a vacancy in the position of Assistant Secretary of the Army for Acquisition, Logistics, and Technology, the Principal Military Deputy may serve as Acting Assistant Secretary for a period of not more than one year."
 
 <b>2008</b>—Subsec. (b)(5). Pub. L. 110–181 added par. (5).
 
 <b>1988</b>—Subsec. (b)(4). Pub. L. 100–456 added par. (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

@@ -1,6 +1,6 @@
 ### §1555. Professional staff
 
-(a) The Secretary of each military department shall assign to the staff of the service reviewagency of that military department at least one attorney and at least one physician. Such assignments shall be made on a permanent, full-time basis and may be made from members of the armed forces or civilian employees.
+(a) The Secretary of each military department shall assign to the staff of the service review agency of that military department at least one attorney and at least one physician. Such assignments shall be made on a permanent, full-time basis and may be made from members of the armed forces or civilian employees.
 
 (b) Personnel assigned pursuant to subsection (a)—
 
@@ -18,9 +18,13 @@
 
 (Added Pub. L. 105–261, div. A, title V, §542(a)(1), Oct. 17, 1998, 112 Stat. 2020; amended Pub. L. 106–65, div. A, title V, §582, Oct. 5, 1999, 113 Stat. 634.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1999</b>—Subsec. (c)(2). Pub. L. 106–65 inserted "the Navy Council of Personnel Boards and" after "Department of the Navy,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

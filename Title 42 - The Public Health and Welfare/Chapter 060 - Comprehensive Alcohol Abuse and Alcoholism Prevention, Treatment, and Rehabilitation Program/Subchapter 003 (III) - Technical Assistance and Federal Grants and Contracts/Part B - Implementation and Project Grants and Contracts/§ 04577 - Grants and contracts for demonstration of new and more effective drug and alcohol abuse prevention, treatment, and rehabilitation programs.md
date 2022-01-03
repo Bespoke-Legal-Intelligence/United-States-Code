@@ -14,7 +14,7 @@ The Secretary, acting through the Institute, may make grants to public and nonpr
 
 #### (b) Community participation
 
-Projects and programs for which grants and contracts are made under this section shall (1) be responsive to special requirements of handicapped individuals in receiving such services; (2) whenever possible, be community based, seek (in the case of prevention and treatment services) to insure care of good quality in general community care facilities and under health insurance plans, and be integrated with, and provide for the active participation of, a wide range of public and nongovernmental agencies, organizations, institutions, and individuals; (3) where a substantial number of the individuals in the population served by the project or program are of limited English-speaking ability, utilize the services of outreach workers fluent in the language spoken by a predominant number of such individuals and develop a plan and make arrangements responsive to the needs of such population for providing services to the extent practicable in the language and cultural context most appropriate to such individuals, and identify an individual employed by the project or program, or who is available to the project or program on a full-time basis, who is fluent both in that language and English and whose responsibilities shall include providing guidance to the individuals of limited English speaking ability and to appropriate staff members with respect to cultural sensitivities and bridging linguistic and cultural differences; and (4) where appropriate utilize existing community resources (including community mental health centers).
+Projects and programs for which grants and contracts are made under this section shall (1)be responsive to special requirements of handicapped individuals in receiving such services; (2) whenever possible, be community based, seek (in the case of prevention and treatment services) to insure care of good quality in general community care facilities and under health insurance plans, and be integrated with, and provide for the active participation of, a wide range of public and nongovernmental agencies, organizations, institutions, and individuals; (3) where a substantial number of the individuals in the population served by the project or program are of limited English-speaking ability, utilize the services of outreach workers fluent in the language spoken by a predominant number of such individuals and develop a plan and make arrangements responsive to the needs of such population for providing services to the extent practicable in the language and cultural context most appropriate to such individuals, and identify an individual employed by the project or program, or who is available to the project or program on a full-time basis, who is fluent both in that language and English and whose responsibilities shall include providing guidance to the individuals of limited English speaking ability and to appropriate staff members with respect to cultural sensitivities and bridging linguistic and cultural differences; and (4) where appropriate utilize existing community resources (including community mental health centers).
 
 #### (c) Application, coordination of applications in State, evaluation of projects and programs; review and recommendation by Council; criteria for approval; special consideration for underserved populations; authorization from chief executive officer required; maximum amount and duration of grants; applicant to provide proposed performance standards; drug abuse programs included
 
@@ -48,7 +48,9 @@ Projects and programs for which grants and contracts are made under this section
 
 (7) Nothing shall prevent the use of funds provided under this section for programs and projects aimed at the prevention, treatment, or rehabilitation of drug abuse as well as alcohol abuse and alcoholism.
 
-(Pub. L. 91–616, title III, §311, as added Pub. L. 93–282, title I, §111, May 14, 1974, 88 Stat. 129; amended Pub. L. 94–371, §§4(c)(1), 6, 12(a), July 26, 1976, 90 Stat. 1035, 1037, 1041; Pub. L. 94–573, §19(a), Oct. 21, 1976, 90 Stat. 2720; Pub. L. 95–83, title III, §311(c), Aug. 1, 1977, 91 Stat. 398; Pub. L. 96–180, §11, Jan. 2, 1980, 93 Stat. 1304; Pub. L. 97–35, title IX, §963(b), (c), Aug. 13, 1981, 95 Stat. 593; Pub. L. 97–414, §9(d), Jan. 4, 1983, 96 Stat. 2064; Pub. L. 98–24, §5(a)(1), Apr. 26, 1983, 97 Stat. 183.)
+(Pub. L. 91–616, title III, §311, as added Pub. L. 93–282, title I, §111, May 14, 1974, 88 Stat. 129;amended Pub. L. 94–371, §§4(c)(1), 6, 12(a), July 26, 1976, 90 Stat. 1035, 1037, 1041; Pub. L. 94–573, §19(a), Oct. 21, 1976, 90 Stat. 2720; Pub. L. 95–83, title III, §311(c), Aug. 1, 1977, 91 Stat. 398; Pub. L. 96–180, §11, Jan. 2, 1980, 93 Stat. 1304; Pub. L. 97–35, title IX, §963(b), (c), Aug. 13, 1981, 95 Stat. 593; Pub. L. 97–414, §9(d), Jan. 4, 1983, 96 Stat. 2064; Pub. L. 98–24, §5(a)(1), Apr. 26, 1983, 97 Stat. 183.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -91,6 +93,8 @@ Pub. L. 94–371, §12(a), inserted provision that each grant application be sub
 Subsec. (c)(4), (5). Pub. L. 94–371, §6(c), added pars. (4) and (5).
 
 Subsec. (d). Pub. L. 94–371, §4(c)(1), struck out subsec. (d) which related to authorization of appropriations for fiscal year ending June 30, 1975 and fiscal year ending June 30, 1976. Provisions are now covered by section 4578 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendments
 

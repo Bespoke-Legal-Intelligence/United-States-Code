@@ -122,7 +122,7 @@ Section 1. <i>Chemical and Biological Weapons Proliferation and Use Sanctions</i
 
 (4) The authorities and duties vested in me to oppose certain multilateral development bank assistance and to prohibit certain bank loans as provided in section 307(b)(2)(A)–(B), pursuant to a determination made by the Secretary of State under section 307(b)(1), are delegated to the Secretary of the Treasury.
 
-(c) <i>Coordination Among Agencies</i>. The Secretaries designated in this section shall exercise all functions delegated to them by this section in consultation with the Secretary of State, the Secretary of Defense, the Secretary of the Treasury, the Secretary of Commerce, the Director of the Arms Control and Disarmament Agency, and other departments and agencies as appropriate,utilizing the appropriate interagency groups prior to any determination to exercise the prohibition authority delegated hereby.
+(c) <i>Coordination Among Agencies</i>. The Secretaries designated in this section shall exercise all functions delegated to them by this section in consultation with the Secretary of State, the Secretary of Defense, the Secretary of the Treasury, the Secretary of Commerce, the Director of the Arms Control and Disarmament Agency, and other departments and agencies as appropriate, utilizing the appropriate interagency groups prior to any determination to exercise the prohibition authority delegated hereby.
 
 Sec. 2. <i>Missile Proliferation Sanctions</i>. (a) <i>Arms Export Control Act</i>. The authority and duties vested in me by sections 72–73 of the AECA (22 U.S.C. 2797a–2797b) are delegated to the Secretary of State, except that:
 

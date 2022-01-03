@@ -1,6 +1,6 @@
 ### §1082. Gambling ships
 
-(a) It shall be unlawful for any citizen or resident of the United States, or any other person who is on an American vessel or is otherwise under or within the jurisdiction of the United States, directly or indirectly—
+(a) It shall be unlawful for any citizen or resident of the United States, or any other personwho is on an American vessel or is otherwise under or within the jurisdiction of the United States, directly or indirectly—
 
 &emsp;(1) to set up, operate, or own or hold any interest in any gambling ship or any gambling establishment on any gambling ship; or
 

@@ -4,7 +4,7 @@
 
 (1) There is established within the Federal Energy Administration an Office of Energy Information and Analysis (hereinafter in this chapter referred to as the "Office") which shall be headed by a Director who shall be appointed by the President, by and with the advice and consent of the Senate.
 
-(2) The Director shall be a person who, by reason of professional background and experience, is specially qualified to manage an energy information system.
+(2) The Director shall be a person who, by reason of professional background and experience,is specially qualified to manage an energy information system.
 
 #### (b) Delegation of authority by Administrator
 
@@ -15,6 +15,8 @@ The Administrator shall delegate (which delegation may be on a nonexclusive basi
 As used in this chapter the term "energy information" shall have the meaning described in section 796 of this title.
 
 (Pub. L. 93–275, §51, as added Pub. L. 94–385, title I, §142, Aug. 14, 1976, 90 Stat. 1135.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

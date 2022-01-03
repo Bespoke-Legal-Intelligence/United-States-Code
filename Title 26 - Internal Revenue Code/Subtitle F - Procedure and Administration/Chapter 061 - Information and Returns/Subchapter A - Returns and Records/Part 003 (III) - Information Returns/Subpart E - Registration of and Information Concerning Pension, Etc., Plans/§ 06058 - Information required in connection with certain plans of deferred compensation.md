@@ -40,6 +40,8 @@ For purposes of this section, the term "special IRP tax" means a tax imposed by�
 
 (Added Pub. L. 93–406, title II, §1031(a), Sept. 2, 1974, 88 Stat. 945; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title I, §157(k)(1), Nov. 6, 1978, 92 Stat. 2809; Pub. L. 98–369, div. A, title IV, §491(d)(48), July 18, 1984, 98 Stat. 852; Pub. L. 99–514, title XV, §1501(d)(1)(D), Oct. 22, 1986, 100 Stat. 2740; Pub. L. 115–141, div. U, title IV, §401(a)(264), Mar. 23, 2018, 132 Stat. 1197.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 3004 of title III of the Employee Retirement Income Security Act of 1974, referred to in subsec. (f), is classified to section 1204 of Title 29, Labor.
@@ -58,13 +60,15 @@ Subsecs. (d) to (f). Pub. L. 95–600 added subsecs. (d) and (e) and redesignate
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–514 applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1986, see section 1501(e) of Pub. L. 99–514, set out as an Effective Date note under section 6721 of this title.
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 applicable to obligations issued after Dec. 31, 1983, see section 491(f)(1) ofPub. L. 98–369, set out as a note under section 62 of this title.
+Amendment by Pub. L. 98–369 applicable to obligations issued after Dec. 31, 1983, see section 491(f)(1) of Pub. L. 98–369, set out as a note under section 62 of this title.
 
 #### Effective Date of 1978 Amendment
 

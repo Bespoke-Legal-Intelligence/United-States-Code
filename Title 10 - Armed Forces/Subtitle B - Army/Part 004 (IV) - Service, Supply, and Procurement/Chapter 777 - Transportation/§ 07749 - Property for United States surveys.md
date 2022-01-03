@@ -20,9 +20,13 @@ July 5, 1884, ch. 217 (9th proviso under "Quartermaster's Department"), 23 Stat.
 
 The words "a department of the United States or a field office thereof" are substituted for the words "the civil or naval departments of the Government, in Washington or elsewhere". The words "National Museum or the department to which the property is consigned" are substituted for the words "bureau to which such property or stores pertain". The words "United States" are substituted for the word "Government". The words "wherever stationed" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4749 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

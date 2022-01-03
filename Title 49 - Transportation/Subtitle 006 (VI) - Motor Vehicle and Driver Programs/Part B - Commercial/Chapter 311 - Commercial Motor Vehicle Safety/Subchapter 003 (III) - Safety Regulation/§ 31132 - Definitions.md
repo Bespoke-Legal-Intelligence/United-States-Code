@@ -10,7 +10,7 @@ In this subchapter—
 
 &emsp;&emsp;(C) is designed or used to transport more than 15 passengers, including the driver, and is not used to transport passengers for compensation; or
 
-&emsp;&emsp;(D) is used in transporting material found by the Secretary of Transportation to be hazardous under section 5103 of this title andtransported in a quantity requiring placarding under regulations prescribed by the Secretary under section 5103.
+&emsp;&emsp;(D) is used in transporting material found by the Secretary of Transportation to be hazardous under section 5103 of this title and transported in a quantity requiring placarding under regulations prescribed by the Secretary under section 5103.
 
 &emsp;(2) "employee" means an operator of a commercial motor vehicle (including an independent contractor when operating a commercial motor vehicle), a mechanic, a freight handler, or an individual not an employer, who—
 
@@ -64,6 +64,8 @@ Oct. 30, 1984, Pub. L. 98–554, §204, 98 Stat. 2833.
 
 The text of 49 App.:2503(6) is omitted as unnecessary because of 1:1. The text of 49 App.:2503(8) is omitted as surplus because the complete name of the Commercial Motor Vehicle Safety Regulatory Review Panel is used the first time the term appears in a section. The text of 49 App.:2503(9) is omitted as surplus because the complete name of the Secretary of Transportation is used the first time the term appears in a section.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 31140 of this title, referred to in par. (8), was repealed by Pub. L. 105–178, title IV, §4008(d), June 9, 1998, 112 Stat. 404.
@@ -77,6 +79,8 @@ Section 31140 of this title, referred to in par. (8), was repealed by Pub. L. 10
 Par. (1)(B). Pub. L. 105–178, §4008(a)(2), which directed substitution of "more than 8 passengers (including the driver) for compensation;" for "passengers" and all that follows through semicolon at end, was executed by making the substitution for "passengers for compensation, but excluding vehicles providing taxicab service and having a capacity of not more than 6 passengers and not operated on a regular route or between specified places;" to reflect the probable intent of Congress.
 
 <b>1995</b>—Par. (1)(B) to (D). Pub. L. 104–88 added subpars. (B) and (C), redesignated former subpar. (C) as (D), and struck out former subpar. (B) which read as follows: "is designed to transport more than 15 passengers including the driver; or".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1995 Amendment
 

@@ -32,7 +32,7 @@ Subsec. (c). Pub. L. 93–559, §13(a)(2), inserted exception provision respecti
 
 <b>1973</b>—Subsec. (a). Pub. L. 93–189, §26(1), inserted provision preceding cl. (1) relating to the subtraction of amounts to be transferred under section 2392(d) of this title.
 
-Subsec. (b). Pub. L. 93–189, §26(2), substituted "In the case of excess defense articles which are generated abroad, the provisions", for "The provisions" and "$150,000,000" for "$185,000,000".
+Subsec. (b). Pub. L. 93–189, §26(2), substituted "In the case of excess defense articles which are generatedabroad, the provisions", for "The provisions" and "$150,000,000" for "$185,000,000".
 
 Subsec. (c). Pub. L. 93–189, §26(3), substituted provisions defining "value" as that meaning given it in section 2403(m) of this title, for provisions defining such term as not less than 331/3 per centum of the amount the United States paid at the time the excess defense articles were acquired by the United States.
 

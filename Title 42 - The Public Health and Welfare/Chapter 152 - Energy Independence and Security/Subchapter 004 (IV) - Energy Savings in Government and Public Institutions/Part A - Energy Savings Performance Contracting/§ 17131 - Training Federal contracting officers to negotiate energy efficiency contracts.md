@@ -16,7 +16,7 @@ Not later than 1 year after December 19, 2007, the Secretary shall plan, staff, 
 
 #### (c) Personnel to be trained
 
-Personnel appropriate to receive training under the Federal Energy Management Programshall be selected by and sent for the training from—
+Personnel appropriate to receive training under the Federal Energy Management Program shall be selected by and sent for the training from—
 
 &emsp;(1) the Department of Defense;
 
@@ -45,6 +45,8 @@ Training under the Federal Energy Management Program may be conducted by—
 There are authorized to be appropriated to the Secretary to carry out this section $750,000 for each of fiscal years 2008 through 2012.
 
 (Pub. L. 110–140, title V, §517, Dec. 19, 2007, 121 Stat. 1659.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

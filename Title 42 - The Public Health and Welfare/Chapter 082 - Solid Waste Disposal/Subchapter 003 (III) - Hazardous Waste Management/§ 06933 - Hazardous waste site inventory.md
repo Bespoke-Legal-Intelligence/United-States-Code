@@ -2,7 +2,7 @@
 
 #### (a) State inventory programs
 
-Each State shall, as expeditiously as practicable, undertake a continuing program to compile, publish, and submit to the Administrator an inventory describing the location of each site within such State at which hazardous waste has at any time been stored or disposed of. Such inventory shall contain—
+Each State shall, as expeditiously as practicable, undertake a continuing program tocompile, publish, and submit to the Administrator an inventory describing the location of each site within such State at which hazardous waste has at any time been stored or disposed of. Such inventory shall contain—
 
 &emsp;(1) a description of the location of the sites at which any such storage or disposal has taken place before the date on which permits are required under section 6925 of this title for such storage or disposal;
 
@@ -38,6 +38,8 @@ Nothing in this section shall be construed to provide that the Administrator or 
 
 (Pub. L. 89–272, title II, §3012, as added Pub. L. 96–482, §17(a), Oct. 21, 1980, 94 Stat. 2342; amended Pub. L. 98–616, §2(c), Nov. 8, 1984, 98 Stat. 3222.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Another section 3012 of Pub. L. 89–272 as added by Pub. L. 96–463, §7(a), Oct. 15, 1980, 94 Stat. 2057, was redesignated section 3014 of Pub. L. 89–272, and is classified to section 6935 of this title.
@@ -45,6 +47,8 @@ Another section 3012 of Pub. L. 89–272 as added by Pub. L. 96–463, §7(a), O
 #### Amendments
 
 <b>1984</b>—Subsec. (c)(2). Pub. L. 98–616 substituted "$25,000,000 for each of the fiscal years 1985 through 1988" for "$20,000,000".
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

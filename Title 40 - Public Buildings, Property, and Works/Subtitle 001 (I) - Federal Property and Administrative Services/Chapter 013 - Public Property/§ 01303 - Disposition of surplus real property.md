@@ -14,9 +14,9 @@ Actions of administrator.—When the President, on the recommendation of the Adm
 
 &emsp;&emsp;(A) may assign space in the property to any federal agency;
 
-&emsp;&emsp;(B) pending a sale, may lease the property for not more than 5 years and on terms the Administrator considers to be in the public interest; or
+&emsp;&emsp;(B) pending a sale, may lease the property for not more than 5 years and on terms theAdministrator considers to be in the public interest; or
 
-&emsp;&emsp;(C) may sell the property at public sale to the highest responsible bidder on terms andafter public advertisement that the Administrator considers to be in the public interest.
+&emsp;&emsp;(C) may sell the property at public sale to the highest responsible bidder on terms and after public advertisement that the Administrator considers to be in the public interest.
 
 &emsp;(2)
 
@@ -114,9 +114,9 @@ In this chapter, the words "Administrator of General Services" are substituted f
 
 In subsection (a), the words "wholly owned Government corporations" are substituted for "corporations wholly owned by the United States" for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (b)(1), before subclause (A), the words "Notwithstanding any other provision of law", "heretofore or hereafter", and "by judicial process or otherwise in the collection of debts, purchase, donation, condemnation, devise, forfeiture, lease, or in any other manner" are omitted as unnecessary. In subclause (A), the words "or reassign" are omitted as unnecessary.
+In subsection (b)(1), before subclause (A), the words "Notwithstanding any other provision of law", "heretofore or hereafter", and "by judicial process or otherwise in the collection of debts, purchase, donation, condemnation, devise, forfeiture, lease, or in any othermanner" are omitted as unnecessary. In subclause (A), the words "or reassign" are omitted as unnecessary.
 
-In subsection (e), the words "General Services Administration", "Administrator", and "Administration" are substituted for "Public Buildings Administration"because of section 103(a) of the Federal Property and Administrative Services Act of 1949 (ch. 288, 63 Stat. 380), which is restated as section 303(c) \[303(b)\] of the revised title.
+In subsection (e), the words "General Services Administration", "Administrator", and "Administration" are substituted for "Public Buildings Administration" because of section 103(a) of the Federal Property and Administrative Services Act of 1949 (ch. 288, 63 Stat. 380), which is restated as section 303(c) \[303(b)\] of the revised title.
 
 In subsection (f), the words "as hereinafter" are omitted as obsolete. The words "which have been or may hereafter be" and "notwithstanding any declaration that the same is in excess of its needs" are omitted as unnecessary.
 
@@ -402,7 +402,7 @@ Additional Personnel.—Subject to subsection (b), the Executive Director may re
 
 "(b)
 
-Requests for Detail Employees.—Upon request of the Executive Director and approval of the Board and the Director of OMB, the head of any Federal agency shall detail the requested personnel of that agency to the Board to assist the Board in carrying out its duties under this Act.
+Requests for Detail Employees.—Upon request of the Executive Director and approval of the Board and the Director of OMB, the head of any Federal agency shall detail the requested personnel of that agencyto the Board to assist the Board in carrying out its duties under this Act.
 
 "(c)
 
@@ -412,7 +412,7 @@ Qualifications.—Appointments shall be made with consideration of a balance of 
 
 "(a)
 
-Experts and Consultants.—The Board, to the extent practicable and subject to appropriations Acts,shall use contracts, including nonappropriated contracts, entered into by the Administrator for services necessary to carry out the duties of the Board.
+Experts and Consultants.—The Board, to the extent practicable and subject to appropriations Acts, shall use contracts, including nonappropriated contracts, entered into by the Administrator for services necessary to carry out the duties of the Board.
 
 "(b)
 
@@ -654,7 +654,7 @@ Approval.—If the Director of OMB approves the Board's recommendations, the Dir
 
 &emsp;"(2)
 
-Disapproval.—If the Director of OMB disapproves the Board's recommendations, in whole or in part, the Director of OMB shall transmit a copy of the recommendations to Congress and the reasons for disapproval of the recommendations to the Board and Congress.
+Disapproval.—If the Director of OMB disapproves the Board's recommendations, in whole or in part, the Director of OMB shall transmit a copy of the recommendations to Congress and the reasons fordisapproval of the recommendations to the Board and Congress.
 
 &emsp;"(3)
 
@@ -882,7 +882,7 @@ Additional Requirement for Budget Contents.—The President shall transmit along
 
 #### "SEC. 19. IMPLEMENTATION REVIEW BY GAO.
 
-"Upon transmittal of the Board's recommendations from the Director of OMB to Congress under section 13, the Comptroller General of the United States at least annually shall monitor and review the implementation activities of Federal agencies pursuant to section 14, and report to Congress any findings and recommendations.
+"Upon transmittal of the Board's recommendations from the Director of OMB to Congress under section 13, the Comptroller General of the United States at least annually shall monitor and review the implementationactivities of Federal agencies pursuant to section 14, and report to Congress any findings and recommendations.
 
 #### "SEC. 20. AGENCY RETENTION OF PROCEEDS.
 

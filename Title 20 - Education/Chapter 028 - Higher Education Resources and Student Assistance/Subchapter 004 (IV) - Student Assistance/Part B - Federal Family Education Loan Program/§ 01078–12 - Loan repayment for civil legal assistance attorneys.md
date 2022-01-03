@@ -98,7 +98,7 @@ From amounts appropriated under subsection (i) for a fiscal year, the Secretary 
 
 #### (B) Merger
 
-&emsp;&emsp;Any amount credited under subparagraph (A) shall be merged with other sums in suchaccount and shall be available for the same purposes and period, and subject to the same limitations, if any, as the sums with which the amount was merged.
+&emsp;&emsp;Any amount credited under subparagraph (A) shall be merged with other sums in such account and shall be available for the same purposes and period, and subject to the same limitations, if any, as the sums with which the amount was merged.
 
 #### (3) Limitations
 
@@ -150,9 +150,11 @@ The Secretary is authorized to issue such regulations as may be necessary to car
 
 #### (i) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section $10,000,000 for fiscal year 2009 and such sums as may be necessary for each of the five succeeding fiscal years.
+There are authorized to be appropriated to carry out this section $10,000,000 for fiscal year2009 and such sums as may be necessary for each of the five succeeding fiscal years.
 
 (Pub. L. 89–329, title IV, §428L, as added Pub. L. 110–315, title IV, §431, Aug. 14, 2008, 122 Stat. 3242.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -100,7 +100,7 @@ It is unlawful for any person to make or submit any false record, account, or la
 
 &emsp;&emsp;(C) is an accredited wildlife sanctuary that cares for prohibited wildlife species and—
 
-&emsp;&emsp;&emsp;(i) is a corporation that is exempt from taxation under section 501(a) of title 26 and described in sections 501(c)(3) and 170(b)(1)(A)(vi) of such title;
+&emsp;&emsp;&emsp;(i) is a corporation that is exempt from taxation under section 501(a) of title 26 anddescribed in sections 501(c)(3) and 170(b)(1)(A)(vi) of such title;
 
 &emsp;&emsp;&emsp;(ii) does not commercially trade in animals listed in section 3371(g) of this title, including offspring, parts, and byproducts of such animals;
 
@@ -184,7 +184,9 @@ It is unlawful for any person to make or submit any false record, account, or la
 
 &emsp;&emsp;(C) to limit the scope of the exclusion provided by paragraph (3), if the limitations in scope are warranted as a result of the review.
 
-(Pub. L. 97–79, §3, Nov. 16, 1981, 95 Stat. 1074; Pub. L. 100–653, title I, §101, Nov. 14, 1988, 102 Stat. 3825; Pub. L. 108–191, §3(a), Dec. 19, 2003, 117 Stat. 2871; Pub. L. 110–234, title VIII, §8204(b), May 22, 2008, 122 Stat. 1292; Pub. L. 110–246, §4(a), title VIII, §8204(b), June 18, 2008, 122 Stat. 1664, 2053.)
+(Pub. L. 97–79, §3, Nov. 16, 1981, 95 Stat. 1074; Pub. L. 100–653, title I, §101, Nov. 14, 1988, 102Stat. 3825; Pub. L. 108–191, §3(a), Dec. 19, 2003, 117 Stat. 2871; Pub. L. 110–234, title VIII, §8204(b), May 22, 2008, 122 Stat. 1292; Pub. L. 110–246, §4(a), title VIII, §8204(b), June 18, 2008, 122 Stat. 1664, 2053.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -217,6 +219,8 @@ Subsec. (e). Pub. L. 108–191, §3(a)(2), added subsec. (e).
 Subsec. (a)(4), (5). Pub. L. 100–653, §101(2), redesignated par. (5) as (4) and struck out former par. (4), which made it unlawful for any person having imported, exported, transported, sold, purchased, or received any fish or wildlife or plant imported from any foreign country or transported in interstate or foreign commerce, to make or submit any false record, account, label, or identification thereof.
 
 Subsecs. (c), (d). Pub. L. 100–653, §101(3), added subsecs. (c) and (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

@@ -56,6 +56,8 @@ multinational species conservation fund" \[16 U.S.C. 4246\].
 
 (Pub. L. 106–411, §3, Nov. 1, 2000, 114 Stat. 1790.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Title I of the Department of the Interior and Related Agencies Appropriations Act, 1999, referred to in par. (5), is Pub. L. 105–277, div. A, §101(e) \[title I\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–232. Provisions under the heading "

@@ -54,7 +54,7 @@ This subchapter does not—
 
 #### (B) Verification or acknowledgment
 
-&emsp;&emsp;If a law that was enacted prior to this chapter expressly requires a record to be provided or made available by a specified method that requires verification or acknowledgment of receipt, the record may be provided or made available electronically only if the method used provides verification or acknowledgment of receipt (whichever is required).
+&emsp;&emsp;If a law that was enacted prior to this chapter expressly requires a record to beprovided or made available by a specified method that requires verification or acknowledgment of receipt, the record may be provided or made available electronically only if the method used provides verification or acknowledgment of receipt (whichever is required).
 
 #### (3) Effect of failure to obtain electronic consent or confirmation of consent
 
@@ -70,7 +70,7 @@ This subchapter does not—
 
 #### (6) Oral communications
 
-&emsp;An oral communication or a recording of an oral communication shall not qualify as anelectronic record for purposes of this subsection except as otherwise provided under applicable law.
+&emsp;An oral communication or a recording of an oral communication shall not qualify as an electronic record for purposes of this subsection except as otherwise provided under applicable law.
 
 #### (d) Retention of contracts and records
 
@@ -116,7 +116,7 @@ It is the specific intent of the Congress that this subchapter and subchapter II
 
 #### (j) Insurance agents and brokers
 
-An insurance agent or broker acting under the direction of a party that enters into a contract by means of an electronic record or electronic signature may not be held liable for any deficiency in the electronic procedures agreed to by the parties under that contract if—
+An insurance agent or broker acting under the direction of a party that enters into a contract by means of an electronic record or electronicsignature may not be held liable for any deficiency in the electronic procedures agreed to by the parties under that contract if—
 
 &emsp;(1) the agent or broker has not engaged in negligent, reckless, or intentional tortious conduct;
 
@@ -126,11 +126,15 @@ An insurance agent or broker acting under the direction of a party that enters i
 
 (Pub. L. 106–229, title I, §101, June 30, 2000, 114 Stat. 464.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (c)(2)(B), was in the original "this Act", meaning Pub. L. 106–229, June 30, 2000, 114 Stat. 464, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 For the effective date of this subchapter, referred to in subsec. (c)(5), see Effective Date note below.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

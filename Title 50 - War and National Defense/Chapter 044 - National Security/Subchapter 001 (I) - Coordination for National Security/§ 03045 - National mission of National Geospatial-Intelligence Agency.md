@@ -14,6 +14,8 @@ The Director of National Intelligence shall develop and implement such programs 
 
 (July 26, 1947, ch. 343, title I, §110, formerly §120, as added Pub. L. 104–201, div. A, title XI, §1114(b), Sept. 23, 1996, 110 Stat. 2685; renumbered §110, Pub. L. 105–107, title III, §303(b), Nov. 20, 1997, 111 Stat. 2252; amended Pub. L. 108–136, div. A, title IX, §921(c)(2), (e)(6), Nov. 24, 2003, 117 Stat. 1568, 1569; Pub. L. 108–458, title I, §1071(a)(1)(I), (J), Dec. 17, 2004, 118 Stat. 3689.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 404e of this title prior to editorial reclassification and renumbering as this section.
@@ -33,6 +35,8 @@ Subsec. (c). Pub. L. 108–458, §1071(a)(1)(J), substituted "Director of Nation
 Subsec. (a). Pub. L. 108–136, §921(c)(2), (e)(6)(A), substituted "National Geospatial-Intelligence Agency" for "National Imagery and Mapping Agency" and "geospatial intelligence" for "imagery".
 
 Subsecs. (b), (c). Pub. L. 108–136, §921(e)(6)(A), substituted "National Geospatial-Intelligence Agency" for "National Imagery and Mapping Agency".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

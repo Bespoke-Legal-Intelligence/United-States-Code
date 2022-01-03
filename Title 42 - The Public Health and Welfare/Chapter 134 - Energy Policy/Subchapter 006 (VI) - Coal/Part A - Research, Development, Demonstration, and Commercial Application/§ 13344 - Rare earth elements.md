@@ -26,15 +26,51 @@
 
 #### (b) Report
 
-Not later than 1 year after December 27, 2020, the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committees on Science, Space, and Technology and Energy and Commerce of the House of Representatives a report evaluating the development of advanced separation technologies for the extraction and recovery of rare earth elements and other critical materials from coal and coal byproducts, including acid mine drainage from coal mines.
+Not later than 1 year after December 27, 2020, and annually thereafter while the facility established under subsection (c) remains in operation, the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committees on Science, Space, and Technology and Energy and Commerce of the House of Representatives a report evaluating the development of advanced separation technologies for the extraction and recovery of rare earth elements and other critical materials from coal and coal byproducts, including acid mine drainage from coal mines.
 
-#### (c) Critical material
+#### (c) Rare earth demonstration facility
+
+#### (1) Establishment
+
+&emsp;In coordination with the research program under subsection (a)(1)(A), the Secretary shall fund, through an agreement with an academic partner, the design, construction, and build-out of a facility to demonstrate the commercial feasibility of a full-scale integrated rare earth element extraction and separation facility and refinery.
+
+#### (2) Facility activities
+
+&emsp;The facility established under paragraph (1) shall—
+
+&emsp;&emsp;(A) provide environmental benefits through use of feedstock derived from acid mine drainage, mine waste, or other deleterious material;
+
+&emsp;&emsp;(B) separate mixed rare earth oxides into pure oxides of each rare earth element;
+
+&emsp;&emsp;(C) refine rare earth oxides into rare earth metals; and
+
+&emsp;&emsp;(D) provide for separation of rare earth oxides and refining into rare earth metals at a single site.
+
+#### (3) Authorization of appropriations
+
+&emsp;There is authorized to be appropriated to the Secretary to carry out this subsection $140,000,000 for fiscal year 2022, to remain available until expended.
+
+#### (d) Critical material
 
 In this section, the term "critical material" has the meaning given the term in section 1606 of title 30.
 
-(Pub. L. 116–260, div. Z, title VII, §7001, Dec. 27, 2020, 134 Stat. 2561.)
+(Pub. L. 116–260, div. Z, title VII, §7001, Dec. 27, 2020, 134 Stat. 2561; Pub. L. 117–58, div. D, title II, §40205, Nov. 15, 2021, 135 Stat. 960.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
 Section was enacted as part of the Energy Act of 2020, and not as part of the Energy Policy Act of 1992 which comprises this chapter.
+
+#### Amendments
+
+<b>2021</b>—Subsec. (b). Pub. L. 117–58, §40205(1), inserted "and annually thereafter while the facility established under subsection (c) remains in operation," after "December 27, 2020,".
+
+Subsecs. (c), (d). Pub. L. 117–58, §40205(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Wage Rate Requirements
+
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of this title.
 

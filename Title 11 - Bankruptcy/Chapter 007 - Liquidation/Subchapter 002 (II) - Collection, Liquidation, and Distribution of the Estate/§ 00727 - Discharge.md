@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(B) presented or used a false claim;
 
-&emsp;&emsp;(C) gave, offered, received, or attempted to obtain money, property, or advantage, or apromise of money, property, or advantage, for acting or forbearing to act; or
+&emsp;&emsp;(C) gave, offered, received, or attempted to obtain money, property, or advantage, or a promise of money, property, or advantage, for acting or forbearing to act; or
 
 &emsp;&emsp;(D) withheld from an officer of the estate entitled to possession under this title, any recorded information, including books, documents, records, and papers, relating to the debtor's property or financial affairs;
 
@@ -104,7 +104,7 @@ This section is the heart of the fresh start provisions of the bankruptcy law. S
 
 The next three grounds for denial of discharge center on the debtor's wrongdoing in or in connection with the bankruptcy case. They are derived from Bankruptcy Act §14c \[section 32(c) of former title 11\]. If the debtor, with intent to hinder, delay, or defraud his creditors or an officer of the estate, has transferred, removed, destroyed, mutilated, or concealed, or has permitted any such action with respect to, property of the debtor within the year preceding the case, or property of the estate after the commencement of the case, then the debtor is denied discharge. The debtor is also denied discharge if he has concealed, destroyed, mutilated, falsified, or failed to keep or preserve any books and records from which his financial condition might be ascertained, unless the act or failure to act was justified under all the circumstances of the case. The fourth ground for denial of discharge is the commission of a bankruptcy crime, although the standard of proof is preponderance of the evidence rather than proof beyond a reasonable doubt. These crimes include the making of a false oath or account, the use or presentation of a false claim, the giving or receiving of money for acting or forbearing to act, and the withholding from an officer of the estate entitled to possession of books and records relating to the debtor's financial affairs.
 
-The fifth ground for denial of discharge is the failure of the debtor to explain satisfactorily any loss of assets or deficiency of assets to meet the debtor's liabilities. The sixth ground concerns refusal to testify. It is a change from present law, under which the debtor may be denied discharge for legitimately exercising his right against self-incrimination. Under this provision, the debtor may be denied discharge if he refuses to obey any lawful order of the court, or if he refuses to testify after having been granted immunity or after improperly invoking the constitutional privilege against self-incrimination.
+The fifth ground for denial of discharge is the failure of the debtor to explain satisfactorily any loss of assets or deficiency of assets to meet the debtor's liabilities. The sixth ground concerns refusal to testify. It is a change from present law, under which the debtor may be denied discharge for legitimately exercising hisright against self-incrimination. Under this provision, the debtor may be denied discharge if he refuses to obey any lawful order of the court, or if he refuses to testify after having been granted immunity or after improperly invoking the constitutional privilege against self-incrimination.
 
 The seventh ground for denial of discharge is the commission of an act specified in grounds two through six during the year before the debtor's case in connection with another bankruptcy case concerning an insider.
 
@@ -112,7 +112,7 @@ The eighth ground for denial of discharge is derived from §14c(5) of the Bankru
 
 The ninth ground is approval by the court of a waiver of discharge.
 
-Subsection (b) specifies that the discharge granted under this section discharges the debtor from all debtsthat arose before the date of the order for relief. It is irrelevant whether or not a proof of claim was filed with respect to the debt, and whether or not the claim based on the debt was allowed.
+Subsection (b) specifies that the discharge granted under this section discharges the debtor from all debts that arose before the date of the order for relief. It is irrelevant whether or not a proof of claim was filed with respect to the debt, and whether or not the claim based on the debt was allowed.
 
 Subsection (c) permits the trustee, or a creditor, to object to discharge. It also permits the court, on request of a party in interest, to order the trustee to examine the acts and conduct of the debtor to determine whether a ground for denial of discharge exists.
 

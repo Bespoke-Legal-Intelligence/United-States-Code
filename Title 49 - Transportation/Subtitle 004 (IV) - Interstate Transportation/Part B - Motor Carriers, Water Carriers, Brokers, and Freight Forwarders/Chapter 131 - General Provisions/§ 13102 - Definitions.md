@@ -200,9 +200,11 @@ This amends 49:13102(4)(A) by setting out the effective date of the ICC Terminat
 
 This amends 49:13102(4)(B) for clarity and consistency.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-Section 10923, referred to in par. (4)(A), was omitted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, effective Jan. 1, 1996.
+Section 10923, referred to in par. (4)(A), was omitted in the general amendment of this subtitle by Pub. L.104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, effective Jan. 1, 1996.
 
 The date of enactment of the Household Goods Mover Oversight Enforcement and Reform Act of 2005, referred to in par. (12)(B), is the date of enactment of subtitle B of title IV of Pub. L. 109–59, which was approved Aug. 10, 2005.
 
@@ -235,6 +237,8 @@ Pars. (14) to (26). Pub. L. 109–59, §4202(b), redesignated pars. (12) to (24)
 <b>1996</b>—Par. (4)(A). Pub. L. 104–287, §5(27)(A), substituted "January 1, 1996" for "the effective date of this section" and "December 31, 1995" for "the day before the effective date of this section".
 
 Par. (4)(B). Pub. L. 104–287, §5(27)(B), substituted "after December 31, 1995" for "on or after such date".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

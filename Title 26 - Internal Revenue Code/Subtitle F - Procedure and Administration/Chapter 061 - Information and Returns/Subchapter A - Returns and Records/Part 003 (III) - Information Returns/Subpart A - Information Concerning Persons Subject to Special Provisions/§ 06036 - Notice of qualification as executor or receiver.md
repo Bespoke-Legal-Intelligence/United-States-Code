@@ -4,11 +4,15 @@ Every receiver, trustee in a case under title 11 of the United States Code, assi
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 744; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–589, §6(i)(6), Dec. 24, 1980, 94 Stat. 3410.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1980</b>—Pub. L. 96–589 substituted "trustee in a case under title 11 of the United States Code" for "trustee in bankruptcy".
 
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

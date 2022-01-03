@@ -68,7 +68,7 @@
 
 &emsp;&emsp;(B) quantifies or otherwise defines any water right of the Indian Tribe.
 
-(Pub. L. 93–638, title IV, §401, as added Pub. L. 103–413, title II, §204, Oct. 25, 1994, 108 Stat. 4271;Pub. L. 116–180, title I, §101(b), Oct. 21, 2020, 134 Stat. 858.)
+(Pub. L. 93–638, title IV, §401, as added Pub. L. 103–413, title II, §204, Oct. 25, 1994, 108 Stat. 4271; Pub. L. 116–180, title I, §101(b), Oct. 21, 2020, 134 Stat. 858.)
 
 #### <b>Editorial Notes</b>
 

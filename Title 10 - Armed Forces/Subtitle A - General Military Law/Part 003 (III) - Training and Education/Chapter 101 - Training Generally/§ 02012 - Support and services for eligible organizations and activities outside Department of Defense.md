@@ -48,7 +48,9 @@ Eligible Entities.—The following organizations and activities are eligible for
 
 &emsp;(2) Youth and charitable organizations specified in section 508 of title 32.
 
-&emsp;(3) Any other entity as may be approved by the Secretary of Defense on a case-by-case basis.
+&emsp;(3) Owners and operators of critical infrastructure (as such term is defined in section 1016(e) of Public Law 107–56 (42 U.S.C. 5195c(e))).
+
+&emsp;(4) Any other entity as may be approved by the Secretary of Defense on a case-by-case basis.
 
 (f)
 
@@ -65,6 +67,8 @@ Regulations.—The Secretary of Defense shall prescribe regulations governing th
 &emsp;&emsp;(B) does not duplicate other available public services.
 
 &emsp;(4) Procedures to ensure that Department of Defense resources are not applied exclusively to the program receiving the assistance.
+
+&emsp;(5) Procedures to ensure that assistance provided to an entity specified in subsection (e)(3) is provided in a manner that is consistent with similar assistance provided under authorities applicable to other Federal departments and agencies, including the authorities of the Cybersecurity and Infrastructure Security Agency of the Department of Homeland Security pursuant to title XXII of the Homeland Security Act of 2002 (6 U.S.C. 651 et seq.).
 
 (g)
 
@@ -102,17 +106,27 @@ Oversight and Cost Accounting.—The Secretary of Defense shall establish a prog
 
 &emsp;(5) Provide for oversight of project execution to ensure that a training project under this section is carried out in accordance with the proposal for that project as approved.
 
-(Added Pub. L. 104–106, div. A, title V, §572(a)(1), Feb. 10, 1996, 110 Stat. 353; amended Pub. L. 105–85, div. A, title V, §594, Nov. 18, 1997, 111 Stat. 1764; Pub. L. 105–261, div. A, title V, §525(a), Oct. 17, 1998, 112 Stat. 2014.)
+(Added Pub. L. 104–106, div. A, title V, §572(a)(1), Feb. 10, 1996, 110 Stat. 353; amended Pub. L. 105–85, div. A, title V, §594, Nov. 18, 1997, 111 Stat. 1764; Pub. L. 105–261, div. A, title V, §525(a), Oct. 17, 1998, 112 Stat. 2014; Pub. L. 117–81, div. A, title XV, §1512, Dec. 27, 2021, 135 Stat. 2039.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
+
+The Homeland Security Act of 2002, referred to in subsec. (f)(5), is Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135. Title XXII of the Act is classified principally to subchapter XVIII (§651 et seq.) of chapter 1 of Title 6. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Title 6 and Tables.
 
 The Federal Advisory Committee Act, referred to in subsec. (h)(3), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 
+<b>2021</b>—Subsec. (e)(3), (4). Pub. L. 117–81, §1512(1), added par. (3) and redesignated former par. (3) as (4).
+
+Subsec. (f)(5). Pub. L. 117–81, §1512(2), added par. (5).
+
 <b>1998</b>—Subsec. (j). Pub. L. 105–261 added subsec. (j).
 
 <b>1997</b>—Subsecs. (g) to (i). Pub. L. 105–85 added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Implementation
 

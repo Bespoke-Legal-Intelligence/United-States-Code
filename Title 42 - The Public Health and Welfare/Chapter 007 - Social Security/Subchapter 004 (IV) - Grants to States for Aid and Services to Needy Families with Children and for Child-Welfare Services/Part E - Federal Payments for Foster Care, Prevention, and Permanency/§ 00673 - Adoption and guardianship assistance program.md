@@ -86,7 +86,7 @@
 
 (5) For purposes of this part, individuals with whom a child (who has been determined by the State, pursuant to subsection (c), to be a child with special needs) is placed for adoption in accordance with applicable State and local law shall be eligible for such payments, during the period of the placement, on the same terms and subject to the same conditions as if such individuals had adopted such child.
 
-(6)(A) For purposes of paragraph (1)(B)(i), the term "nonrecurring adoption expenses" means reasonable and necessary adoption fees, court costs, attorney fees, and other expenses which are directly related to the legal adoption of a child with special needs and which are not incurred in violation of State or Federal law.
+(6)(A) For purposes of paragraph (1)(B)(i), the term "nonrecurring adoption expenses" meansreasonable and necessary adoption fees, court costs, attorney fees, and other expenses which are directly related to the legal adoption of a child with special needs and which are not incurred in violation of State or Federal law.
 
 (B) A State's payment of nonrecurring adoption expenses under an adoption assistance agreement shall be treated as an expenditure made for the proper and efficient administration of the State plan for purposes of section 674(a)(3)(E) of this title.
 
@@ -218,7 +218,7 @@ For purposes of this section—
 
 #### (C) Eligibility not affected by replacement of guardian with a successor guardian
 
-&emsp;&emsp;In the event of the death or incapacity of the relative guardian, the eligibility of a child for a kinship guardianship assistance payment under this subsection shall not be affected by reason of the replacement of therelative guardian with a successor legal guardian named in the kinship guardianship assistance agreement referred to in paragraph (1) (including in any amendment to the agreement), notwithstanding subparagraph (A) of this paragraph and section 671(a)(28) of this title.
+&emsp;&emsp;In the event of the death or incapacity of the relative guardian, the eligibility of a child for a kinship guardianship assistance payment under this subsection shall not be affected by reason of the replacement of the relative guardian with a successor legal guardian named in the kinship guardianship assistance agreement referred to in paragraph (1) (including in any amendment to the agreement), notwithstanding subparagraph (A) of this paragraph and section 671(a)(28) of this title.
 
 #### (e) Applicable child defined
 
@@ -265,6 +265,8 @@ For purposes of this section—
 
 (Aug. 14, 1935, ch. 531, title IV, §473, as added and amended Pub. L. 96–272, title I, §§101(a)(1), 102(a)(3), June 17, 1980, 94 Stat. 504, 514; Pub. L. 99–272, title XII, §12305(a), (b)(1), Apr. 7, 1986, 100 Stat. 293; Pub. L. 99–514, title XVII, §1711(a), (b), (c)(3)–(5), Oct. 22, 1986, 100 Stat. 2783, 2784; Pub. L. 99–603, title II, §201(b)(2)(B), Nov. 6, 1986, 100 Stat. 3403; Pub. L. 100–203, title IX, §§9133(b)(3), (4), 9139(b), Dec. 22, 1987, 101 Stat. 1330–314, 1330–321; Pub. L. 103–432, title II, §§265(b), 266(a), Oct. 31, 1994, 108 Stat. 4469; Pub. L. 104–193, title I, §108(d)(5), (6), Aug. 22, 1996, 110 Stat. 2167; Pub. L. 105–33, title V, §5513(b)(3), (4), Aug. 5, 1997, 111 Stat. 620; Pub. L. 105–89, title III, §307(a), Nov. 19, 1997, 111 Stat. 2133; Pub. L. 109–171, title VII, §7404(b), Feb. 8, 2006, 120 Stat. 153; Pub. L. 110–351, title I, §101(b), (c)(1), (5), (f), title II, §201(c), title IV, §402, Oct. 7, 2008, 122 Stat. 3950, 3951, 3953, 3958, 3975; Pub. L. 111–148, title VI, §6703(d)(2)(B), Mar. 23, 2010, 124 Stat. 803; Pub. L. 112–34, title I, §106(c), Sept. 30, 2011, 125 Stat. 377; Pub. L. 113–183, title II, §§206, 207, Sept. 29, 2014, 128 Stat. 1939, 1940; Pub. L. 115–123, div. E, title VII, §50781(a), Feb. 9, 2018, 132 Stat. 268.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Adoption and Safe Families Act of 1997, referred to in subsec. (a)(2)(C)(ii), is Pub. L. 105–89, Nov. 19, 1997, 111 Stat. 2115. For complete classification of this Act to the Code, see Short Title of 1997 Amendment note set out under section 1305 of this title and Tables.
@@ -287,7 +289,7 @@ Subsec. (d)(3)(C). Pub. L. 113–183, §207, added subpar. (C).
 
 Subsec. (a)(2)(A). Pub. L. 110–351, §402(1)(A)(i), substituted "if—" for "if the child—" in introductory provisions, inserted cl. (i) designation and introductory provisions, redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, of cl. (i) and substituted "subsection (c)(1)" for "subsection (c)" in subcl. (II), redesignated former subcls. (I) to (III) of cl. (i) as items (aa) to (cc), respectively, of cl. (i)(I), redesignated former items (aa) and (bb) of cl. (i)(I) as subitems (AA) and (BB), respectively, of cl. (i)(I)(aa) and substituted "subitem (AA) of this item" for "item (aa) of this subclause" in subitem (BB), realigned margins, and added cl. (ii).
 
-Subsec. (a)(2)(C). Pub. L. 110–351, §402(1)(A)(ii), substituted "if—" for "if the child—" in introductory provisions, inserted cl. (i) designation and introductory provisions, redesignated former cls. (i) to (iv) as subcls.\(I) to (IV), respectively, of cl. (i) and substituted "subparagraph (A)(i)(II)" for "subparagraph (A)(ii)" in subcl. (I) and "subparagraph (A)(i)" for "subparagraph (A)" in subcl. (IV), redesignated former subcls. (I) and (II) of cl. (iii) as items (aa) and (bb), respectively, of cl. (i)(III), redesignated former subcls. (I) and (II) of cl. (iv) as items (aa) and (bb), respectively, of cl. (i)(IV), realigned margins, and added cl. (ii).
+Subsec. (a)(2)(C). Pub. L. 110–351, §402(1)(A)(ii), substituted "if—" for "if the child—" in introductory provisions, inserted cl. (i) designation and introductory provisions, redesignated former cls. (i) to (iv) as subcls. (I) to (IV), respectively, of cl. (i) and substituted "subparagraph (A)(i)(II)" for "subparagraph (A)(ii)" in subcl. (I) and "subparagraph (A)(i)" for "subparagraph (A)" in subcl. (IV), redesignated former subcls. (I) and (II) of cl. (iii) as items (aa) and (bb), respectively, of cl. (i)(III), redesignated former subcls. (I) and (II) of cl. (iv) as items (aa) and (bb), respectively, of cl. (i)(IV), realigned margins, and added cl. (ii).
 
 Subsec. (a)(2)(D). Pub. L. 110–351, §101(c)(1), added subpar. (D).
 
@@ -351,13 +353,15 @@ Subsec. (a)(5). Pub. L. 99–514, §1711(a)(1), (c)(4), redesignated par. (4) as
 
 Subsec. (a)(6). Pub. L. 99–514, §1711(b), added par. (6).
 
-Subsec. (b). Pub. L. 99–272, §12305(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "For purposes of subchapters XIX and XX of this chapter, any child with respect to whom adoption assistance payments are made under this section shall be deemed to be a dependent child as defined in section606 of this title and shall be deemed to be a recipient of aid to families with dependent children under part A of this subchapter."
+Subsec. (b). Pub. L. 99–272, §12305(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "For purposes of subchapters XIX and XX of this chapter, any child with respect to whom adoption assistance payments are made under this section shall be deemed to be a dependent child as defined in section 606 of this title and shall be deemed to be a recipient of aid to families with dependent children under part A of this subchapter."
 
 Subsec. (b)(1)(A). Pub. L. 99–514, §1711(c)(5), substituted "subsection (a)(2)" for "subsection (a)(1)".
 
 Subsec. (c)(2). Pub. L. 99–272, §12305(b)(1), substituted "without providing adoption assistance under this section or medical assistance under subchapter XIX" for "without providing adoption assistance", and inserted "or medical assistance under subchapter XIX" after "appropriate adoptive parents without providing adoption assistance under this section".
 
 <b>1980</b>—Subsec. (a)(1). Pub. L. 96–272, §102(a)(3), inserted references to voluntary placement agreements in subpars. (A)(i) and (B)(i), (ii).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

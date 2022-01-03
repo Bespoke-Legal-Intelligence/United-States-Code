@@ -66,7 +66,7 @@
 
 #### (2) Report
 
-&emsp;Each eligible partnership receiving a grant under section 1022a of this title shall report annually on the progress of the eligible partnership toward meeting the purposes of this part and the objectives and measures described in section 1022c(a) of this title.
+&emsp;Each eligible partnership receiving a grant under section 1022a of this title shall reportannually on the progress of the eligible partnership toward meeting the purposes of this part and the objectives and measures described in section 1022c(a) of this title.
 
 #### (3) Fines
 
@@ -170,6 +170,8 @@ The Secretary, to the extent practicable, shall coordinate the information colle
 
 (Pub. L. 89–329, title II, §205, as added Pub. L. 110–315, title II, §201(2), Aug. 14, 2008, 122 Stat. 3147; amended Pub. L. 114–95, title IX, §§9214(c)(5), 9215(oo)(4), Dec. 10, 2015, 129 Stat. 2163, 2179.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 205 of Pub. L. 89–329 was classified to section 1025 of this title, prior to repeal by Pub. L. 110–315.
@@ -181,6 +183,8 @@ Another prior section 205 of Pub. L. 89–329 was classified to section 1025 of 
 <b>2015</b>—Subsec. (b)(1)(C). Pub. L. 114–95, §9215(oo)(4), substituted "are aligned with the challenging State academic standards required under section 6311(b)(1) of this title" for "are aligned with the State's challenging academic content standards required under section 6311(b)(1) of this title".
 
 Subsec. (b)(1)(I). Pub. L. 114–95, §9214(c)(5), substituted "teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 1412(a)(14)(C) of this title" for "highly qualified teachers".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

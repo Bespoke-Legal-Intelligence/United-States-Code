@@ -34,7 +34,7 @@ Management Responsibilities.—(1) The deployment (or potential deployment) of a
 
 Deployment Defined.—(1) For the purposes of this section, a member of the armed forces shall be considered to be deployed or in a deployment on any day on which, pursuant to orders, the member is performing service in a training exercise or operation at a location or under circumstances that make it impossible or infeasible for the member to spend off-duty time in the housing in which the member resides when on garrison duty at the member's permanent duty station or homeport, as the case may be.
 
-(2) In the case of a member of a reserve component who is performing active service pursuant to orders that do not establish a permanent change of station, the housing referred to in paragraph (1) is any housing (which may include the member's residence) that the member usually occupies for use during off-duty time when on garrison duty at the member's permanent duty station or homeport, as the case may be.
+(2) In the case of a member of a reserve component who is performing active service pursuant to orders that do not establish a permanentchange of station, the housing referred to in paragraph (1) is any housing (which may include the member's residence) that the member usually occupies for use during off-duty time when on garrison duty at the member's permanent duty station or homeport, as the case may be.
 
 (3) For the purposes of this section, a member is not deployed or in a deployment when the member is—
 
@@ -112,6 +112,8 @@ Other Definitions.—In this section:
 
 (Added Pub. L. 106–65, div. A, title V, §586(a), Oct. 5, 1999, 113 Stat. 637; amended Pub. L. 106–398, §1 \[\[div. A\], title V, §574(a), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–136, 1654A–137; Pub. L. 107–107, div. A, title V, §515(a), Dec. 28, 2001, 115 Stat. 1093; Pub. L. 108–136, div. A, title V, §541(a), Nov. 24, 2003, 117 Stat. 1475; Pub. L. 112–81, div. A, title V, §522(a)–(d)(1), Dec. 31, 2011, 125 Stat. 1399–1401; Pub. L. 116–92, div. A, title V, §§506, 507(a), Dec. 20, 2019, 133 Stat. 1345; Pub. L. 116–283, div. A, title X, §1081(a)(21), Jan. 1, 2021, 134 Stat. 3871.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Subsec. (a)(4)(A). Pub. L. 116–283 struck out period after "The amount".
@@ -140,7 +142,7 @@ Subsec. (f). Pub. L. 112–81, §522(c), added subsec. (f).
 
 &emsp;"(A) in the case of a member who is assigned to a combatant command in a position under the operational control of the officer in that combatant command who is the service component commander for the members of that member's armed force in that combatant command, by that officer; and
 
-&emsp;"(B) in the case of a member not assigned as described in subparagraph (A), by the service chief of that member's armed force (or, if so designated by that service chief, by an officer of the same armed force on active duty who is in the grade of general oradmiral or who is the personnel chief for that armed force).
+&emsp;"(B) in the case of a member not assigned as described in subparagraph (A), by the service chief of that member's armed force (or, if so designated by that service chief, by an officer of the same armed force on active duty who is in the grade of general or admiral or who is the personnel chief for that armed force).
 
 "(2) In this section, the term 'high-deployment days member' means a member who has been deployed 182 days or more out of the preceding 365 days.
 
@@ -172,9 +174,11 @@ Subsec. (b)(3)(C). Pub. L. 106–398, §1 \[\[div. A\], title V, §574(b)(4)\], 
 
 Subsec. (b)(4). Pub. L. 106–398, §1 \[\[div. A\], title V, §574(b)(2)\], redesignated par. (3) as (4).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–107, div. A, title V, §515(b), Dec. 28, 2001, 115 Stat. 1094, provided that: "The amendment made by this section \[amending this section\] shall apply with respect to duty performed on or after October 1, 2001."
+Pub. L. 107–107, div. A, title V, §515(b), Dec. 28, 2001, 115 Stat. 1094, provided that: "The amendment made bythis section \[amending this section\] shall apply with respect to duty performed on or after October 1, 2001."
 
 #### Effective Date
 
@@ -187,6 +191,34 @@ Pub. L. 106–65, div. A, title V, §586(e), Oct. 5, 1999, 113 Stat. 639, provid
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Treatment of Operational Data From Afghanistan
+
+Pub. L. 117–81, div. A, title X, §1088, Dec. 27, 2021, 135 Stat. 1924, provided that:
+
+"(a)
+
+Sense of Congress.—It is the sense of Congress that—
+
+&emsp;"(1) an immense amount of operational data and intelligence has been developed over the past two decades of war in Afghanistan; and
+
+&emsp;"(2) this information is valuable and must be appropriately retained.
+
+"(b)
+
+Operational Data.—The Secretary of Defense shall—
+
+&emsp;"(1) archive and standardize operational data from Afghanistan across the myriad of defense information systems; and
+
+&emsp;"(2) ensure the Afghanistan operational data is structured, searchable, and usable across the joint force.
+
+"(c)
+
+Briefing.—Not later than March 4, 2022, the Under Secretary of Defense for Intelligence and Security shall provide to the Committee on Armed Services of the House of Representatives a briefing on how the Department of Defense has removed, retained, and assured long-term access to operational data from Afghanistan across each military department and command. Such briefing shall address the manner in which the Department of Defense—
+
+&emsp;"(1) is standardizing and archiving intelligence and operational data from Afghanistan across the myriad of defense information systems; and
+
+&emsp;"(2) ensuring access to such data across the joint force."
 
 #### Deadline for Implementation of Subsection (d)(2)
 

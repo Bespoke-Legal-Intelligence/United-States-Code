@@ -6,7 +6,7 @@ Prohibition.—With respect to a program or activity carried on or receiving fed
 
 (b)
 
-Enforcement.—Subsection (a) shall be enforced through agency provisions and rules similar to those already established with respect to racial and other discrimination under title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.). However, this remedy is not exclusive and does not prejudice or remove any other legal remedies available to an individual alleging discrimination.
+Enforcement.—Subsection (a) shall be enforced through agency provisions and rules similar to those already established with respect to racial and other discrimination under title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.). However, this remedy is not exclusive anddoes not prejudice or remove any other legal remedies available to an individual alleging discrimination.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1070.)
 

@@ -4,7 +4,7 @@
 
 (b) A custodian shall—
 
-&emsp;(1) deliver to the trustee any property of the debtor held by or transferred to such custodian, or proceeds, product, offspring, rents, orprofits of such property, that is in such custodian's possession, custody, or control on the date that such custodian acquires knowledge of the commencement of the case; and
+&emsp;(1) deliver to the trustee any property of the debtor held by or transferred to such custodian, or proceeds, product, offspring, rents, or profits of such property, that is in such custodian's possession, custody, or control on the date that such custodian acquires knowledge of the commencement of the case; and
 
 &emsp;(2) file an accounting of any property of the debtor, or proceeds, product, offspring, rents, or profits of such property, that, at any time, came into the possession, custody, or control of such custodian.
 
@@ -60,5 +60,5 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 

@@ -48,7 +48,7 @@ Separate Calculations for Passenger Automobiles Manufactured Domestically and No
 
 &emsp;(iv) For a manufacturer that does not assemble automobiles in the United States, Canada, or Mexico, subparagraph (A) of this paragraph applies to all automobiles manufactured by that manufacturer beginning with the model year that begins after January 1, 1994.
 
-&emsp;(v) For a manufacturer described in clause (i) or (iii) of this subparagraph that does not make an election within the specified period, subparagraph (A) of this paragraph applies to all automobiles manufactured by that manufacturer beginning with the model year that begins after January 1, 2004.
+&emsp;(v) For a manufacturer described in clause (i) or (iii) of this subparagraph that does not make an election within the specified period,subparagraph (A) of this paragraph applies to all automobiles manufactured by that manufacturer beginning with the model year that begins after January 1, 2004.
 
 (C) The Secretary of Transportation shall prescribe reasonable procedures for elections under subparagraph (B) of this paragraph.
 
@@ -202,6 +202,8 @@ The text of subsection (b)(4) is the text of 49:32904(b)(1)(B), as enacted by se
 
 This makes conforming amendments necessary because of the restatement of 15:2003(b)(2)(G) as 49:32904(b)(3) by section 6(36)(B) of the bill.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2007</b>—Subsec. (b)(1)(B). Pub. L. 110–140, §104(b)(2), inserted ", except for the purposes of section 32903" before period at end.
@@ -212,7 +214,7 @@ Subsec. (b)(6) to (8). Pub. L. 110–140, §113(a), struck out pars. (6) to (8) 
 
 <b>1994</b>—Subsec. (b)(1). Pub. L. 103–429, §6(36)(B), added par. (1) and struck out former par. (1) which read as follows: "In this subsection—
 
-&emsp;"(A) a passenger automobile is deemed to be manufactured domestically in a model year if at least 75 percent of the cost to the manufacturer is attributable to value added in the United States or Canada, unless the assembly of the automobile is completed in Canada and the automobile is imported into the United States more than 30 days after the end of the model year; and
+&emsp;"(A) a passenger automobile is deemed to be manufactured domestically in a model year if at least 75 percent of the cost to the manufacturer is attributable to value added in the United States or Canada, unless the assembly of the automobile is completed in Canada and the automobile is imported into theUnited States more than 30 days after the end of the model year; and
 
 &emsp;"(B) the fuel economy of a passenger automobile that is not manufactured domestically is deemed to be equal to the average fuel economy of all passenger automobiles manufactured by the same manufacturer that are not manufactured domestically."
 
@@ -237,6 +239,8 @@ Subsec. (b)(6). Pub. L. 103–429, §6(36)(A), redesignated par. (4) as (6). For
 Subsec. (b)(6)(A). Pub. L. 103–429, §6(36)(D), substituted "paragraph (1)(A)" for "paragraph (2)(A)" in introductory provisions.
 
 Subsec. (b)(7), (8). Pub. L. 103–429, §6(36)(A), redesignated pars. (5) and (6) as (7) and (8), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

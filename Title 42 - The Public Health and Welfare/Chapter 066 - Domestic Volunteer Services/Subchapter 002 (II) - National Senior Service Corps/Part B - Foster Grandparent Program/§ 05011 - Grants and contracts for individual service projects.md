@@ -12,7 +12,7 @@ The Director is authorized to make grants to or contracts with public and nonpro
 
 &emsp;(B) the period of time during which such services shall be continued in the case of each individual child; and
 
-&emsp;(C) whether it is in the best interest of the child receiving, and the particular foster grandparent providing, services in such a project, to continue the relationship between the child and the grandparent under this part after the child reaches the age of 21, if such child is an individual with a disability who was receiving such services prior to attaining the age of 21.
+&emsp;(C) whether it is in the best interest of the child receiving, and the particular foster grandparent providing, services in such a project, to continue the relationship between the child and the grandparent under this partafter the child reaches the age of 21, if such child is an individual with a disability who was receiving such services prior to attaining the age of 21.
 
 (2) If an assignment of a foster grandparent under this part is suspended or discontinued, the replacement of that foster grandparent shall be determined in a manner consistent with paragraph (3).
 
@@ -66,6 +66,8 @@ For purposes of this part, the terms "low-income person" and "person of low inco
 
 (Pub. L. 93–113, title II, §211, Oct. 1, 1973, 87 Stat. 402; Pub. L. 94–135, title II, §205(b)(1), (2), Nov. 28, 1975, 89 Stat. 727; Pub. L. 94–293, §7, May 27, 1976, 90 Stat. 526; Pub. L. 95–478, title IV, §402(b), Oct. 18, 1978, 92 Stat. 1557; Pub. L. 97–35, title VI, §608(b), Aug. 13, 1981, 95 Stat. 487; Pub. L. 98–288, §14(c), May 21, 1984, 98 Stat. 192; Pub. L. 99–551, §7(a)(1), Oct. 27, 1986, 100 Stat. 3074; Pub. L. 101–204, title V, §§503, 504, Dec. 7, 1989, 103 Stat. 1817; Pub. L. 103–82, title III, §§344, 345, Sept. 21, 1993, 107 Stat. 904, 905; Pub. L. 108–446, title III, §305(k), Dec. 3, 2004, 118 Stat. 2806; Pub. L. 111–13, title II, §2144, Apr. 21, 2009, 123 Stat. 1588.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Individuals with Disabilities Education Act, referred to in subsec. (a), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
@@ -100,7 +102,7 @@ Subsec. (f)(1)(C). Pub. L. 111–13, §2144(5)(B), struck out subpar. (C) which 
 
 Subsec. (d). Pub. L. 103–82, §345, in second sentence substituted "Any stipend or allowance provided under this section shall not be less than $2.45 per hour on and after October 1, 1993, and shall be adjusted once prior to December 31, 1997, to account for inflation, as determined by the Director and rounded to the nearest five cents," for "Any stipend or allowance provided under this subsection shall not be less than $2.20 per hour until October 1, 1990, $2.35 per hour during fiscal year 1991, and $2.50 per hour on and after October 1, 1992," and inserted sentence at end relating to consideration of effect of adjustment on non-federally funded volunteer programs.
 
-<b>1989</b>—Subsec. (d). Pub. L. 101–204, §503, inserted "until October 1, 1990, $2.35 per hour during fiscal year 1991,and $2.50 per hour on and after October 1, 1992" after "$2.20 per hour" in introductory provisions, substituted "such stipend or allowance shall not be increased as a result of an amendment made" for "no increase in the stipend of allowance shall be made pursuant" in cl. (1), and substituted "the minimum hourly rate specified in this sentence" for "$2.20 per hour" in cl. (2).
+<b>1989</b>—Subsec. (d). Pub. L. 101–204, §503, inserted "until October 1, 1990, $2.35 per hour during fiscal year 1991, and $2.50 per hour on and after October 1, 1992" after "$2.20 per hour" in introductory provisions, substituted "such stipend or allowance shall not be increased as a result of an amendment made" for "no increase in the stipend of allowance shall be made pursuant" in cl. (1), and substituted "the minimum hourly rate specified in this sentence" for "$2.20 per hour" in cl. (2).
 
 Subsec. (f)(1)(C). Pub. L. 101–204, §504(1), inserted before period at end "unless such individuals have been referred previously for possible placement as volunteers under part A of this subchapter and such placement did not occur".
 
@@ -127,6 +129,8 @@ Subsec. (e). Pub. L. 98–288, §14(c)(4), in amending subsec. (e) generally, su
 <b>1975</b>—Subsec. (a). Pub. L. 94–135, §205(b)(1), substituted "individuals" for "volunteers" where appearing first and third places and struck out "serve as volunteers to" before "provide supportive person-to-person services".
 
 Subsec. (b). Pub. L. 94–135, §205(b)(2), substituted "individuals" for "volunteers".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

@@ -16,6 +16,8 @@ Not later than March 31, 1995, and every two years after such date, the Secretar
 
 (Pub. L. 90–247, title IV, §425, formerly §417, as added Pub. L. 93–380, title V, §506(a)(3)(C), Aug. 21, 1974, 88 Stat. 564; amended Pub. L. 95–561, title XII, §1246(a), (b), Nov. 1, 1978, 92 Stat. 2354; Pub. L. 96–46, §4(b), Aug. 6, 1979, 93 Stat. 342; Pub. L. 96–374, title XIII, §1305, Oct. 3, 1980, 94 Stat. 1497; Pub. L. 98–511, title VII, §705, Oct. 19, 1984, 98 Stat. 2406; renumbered §425 and amended Pub. L. 103–382, title II, §§212(b)(1), 235, Oct. 20, 1994, 108 Stat. 3913, 3916; Pub. L. 103–437, §7(a)(2), Nov. 2, 1994, 108 Stat. 4587; Pub. L. 107–110, title X, §1076(h), Jan. 8, 2002, 115 Stat. 2091; Pub. L. 114–95, title IX, §9215(mm)(1), Dec. 10, 2015, 129 Stat. 2176.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 425 of Pub. L. 90–247 was renumbered section 432, and is classified to section 1231b–2 of this title.
@@ -42,6 +44,8 @@ Pub. L. 103–382, §235, amended section generally, substituting single undesig
 
 <b>1978</b>—Subsec. (a)(1). Pub. L. 95–561 inserted "(including compliance with provisions of law requiring the maintenance of non-Federal expenditures for the purposes of such applicable programs)" after "effectiveness of applicable programs" and substituted "Committee on Human Resources" for "Committee on Labor and Public Welfare" in provisions preceding subpar. (A).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
@@ -52,7 +56,7 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub.L. 107–110, set out as an Effective Date note under section 6301 of this title.
+Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
 
 #### Effective Date of 1984 Amendment
 

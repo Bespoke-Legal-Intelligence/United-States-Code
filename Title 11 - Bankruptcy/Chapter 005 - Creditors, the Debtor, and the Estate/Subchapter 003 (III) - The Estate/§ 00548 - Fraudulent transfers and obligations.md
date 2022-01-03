@@ -34,7 +34,7 @@
 
 &emsp;(C) a repo participant or financial participant that receives a margin payment, as defined in section 741 or 761 of this title, or settlement payment, as defined in section 741 of this title, in connection with a repurchase agreement, takes for value to the extent of such payment;
 
-&emsp;(D) a swap participant or financial participant that receives a transfer in connection with a swap agreement takes for value to the extent of such transfer; and
+&emsp;(D) a swap participant or financial participant that receives a transfer in connectionwith a swap agreement takes for value to the extent of such transfer; and
 
 &emsp;(E) a master netting agreement participant that receives a transfer in connection with a master netting agreement or any individual contract covered thereby takes for value to the extent of such transfer, except that, with respect to a transfer under any individual contract covered thereby, to the extent that such master netting agreement participant otherwise did not take (or is otherwise not deemed to have taken) such transfer for value.
 

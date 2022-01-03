@@ -36,7 +36,7 @@ The Task Force shall carry out the following activities:
 
 &emsp;&emsp;(C) the number of persons who have applied for, been granted, or been denied a visa or otherwise provided status under subparagraph (T)(i) or (U)(i) of section 1101(a)(15) of title 8 during the preceding fiscal year;
 
-&emsp;&emsp;(D) the number of persons who have applied for, been granted, or been denied a visa or status under clause (ii) of section 1101(a)(15)(T) of title 8 during the preceding fiscal year, broken down by the number ofsuch persons described in subclauses (I), (II), and (III) of such clause (ii);
+&emsp;&emsp;(D) the number of persons who have applied for, been granted, or been denied a visa or status under clause (ii) of section 1101(a)(15)(T) of title 8 during the preceding fiscal year, broken down by the number of such persons described in subclauses (I), (II), and (III) of such clause (ii);
 
 &emsp;&emsp;(E) the amount of Federal funds expended in direct benefits paid to individuals described in subparagraph (D) in conjunction with T visa status;
 
@@ -160,7 +160,7 @@ Each regional bureau in the Department of State shall contribute to the realizat
 
 This chapter, referred to in subsecs. (d)(1), (6), (7), (e)(1), and (g)(3), (4), was in the original "this division" meaning division A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, known as the Trafficking Victims Protection Act of 2000, which is classified principally to this chapter. For complete classification of division A to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
-Subsection (f) of section 7105 of this title, referred to in subsec. (d)(7)(A), probably means the first subsec. (f)of section 7105 of this title, relating to assistance for United States citizens and lawful permanent residents, as added by Pub. L. 110–457, title II, §213(a)(1), Dec. 23, 2008, 122 Stat. 5064.
+Subsection (f) of section 7105 of this title, referred to in subsec. (d)(7)(A), probably means the first subsec. (f) of section 7105 of this title, relating to assistance for United States citizens and lawful permanent residents, as added by Pub. L. 110–457, title II, §213(a)(1), Dec. 23, 2008, 122 Stat. 5064.
 
 Sections 20702 and 20705 of title 34, referred to in subsec. (d)(7)(L), was in the original "sections 202 and 204 of the Trafficking Victims Protection Act of 2005", and was translated as reading "sections 202 and 204 of the Trafficking Victims Protection Reauthorization Act of 2005", which enacted sections 20702 and 20705 of Title 34, Crime Control and Law Enforcement, to reflect the probable intent of Congress.
 
@@ -254,7 +254,7 @@ Pub. L. 108–7, div. B, title IV, §406, Feb. 20, 2003, 117 Stat. 92, required 
 
 Ex. Ord. No. 13257, Feb. 13, 2002, 67 F.R. 7259, as amended by Ex. Ord. No. 13286, §5, Feb. 28, 2003, 68 F.R. 10619; Ex. Ord. No. 13333, Mar. 18, 2004, 69 F.R. 13455, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Trafficking Victims Protection Act of 2000, (22 U.S.C. 7101 <i>et seq</i>.) (the "Act"), and section 301 of title 3, United States Code, and in order to combat trafficking in persons, a contemporary manifestation of slavery whose victims are predominantly women and children, to ensure just and effective punishment of traffickers, and to protect their victims, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Trafficking Victims Protection Act of 2000, (22 U.S.C. 7101 <i>et seq</i>.) (the "Act"), and section 301 of title 3, United States Code, and in order tocombat trafficking in persons, a contemporary manifestation of slavery whose victims are predominantly women and children, to ensure just and effective punishment of traffickers, and to protect their victims, it is hereby ordered as follows:
 
 Section 1. (a) The President's Interagency Task Force to Monitor and Combat Trafficking in Persons is hereby established.
 
@@ -326,7 +326,7 @@ Sec. 5. <i>Enhanced Prevention of Trafficking in Persons</i>. (a) The Secretary 
 
 (d) The Secretary of State shall have responsibility to initiate appropriate regulatory implementation of the requirements set out in section 106(g) of the Act with respect to contracts, including proposing appropriate amendments to the Federal Acquisition Regulation. Each affected executive branch department or agency shall implement, within that department or agency, the requirements set out in section 106(g) of the Act with respect to grants and cooperative agreements.
 
-Sec. 6. <i>Research on Trafficking in Persons</i>. The entities named in section 112A of the Act \[22 U.S.C. 7109a\] shall carry out the research initiatives required by section 112A of the Act, and shall award grants according to such policies and guidelines as may be established by the SPOG described in section 105(f) of the Act \[22U.S.C. 7103(f)\], as well as any applicable agency rules and regulations.
+Sec. 6. <i>Research on Trafficking in Persons</i>. The entities named in section 112A of the Act \[22 U.S.C. 7109a\] shall carry out the research initiatives required by section 112A of the Act, and shall award grants according to such policies and guidelines as may be established by the SPOG described in section 105(f) of the Act \[22 U.S.C. 7103(f)\], as well as any applicable agency rules and regulations.
 
 Sec. 7. <i>Guidance for Exercising Authority and Performing Duties</i>. In exercising authority delegated by, or performing functions assigned in, this order, officers of the United States shall ensure that all actions taken by them are consistent with the President's constitutional authority to:
 

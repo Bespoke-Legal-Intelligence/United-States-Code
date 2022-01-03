@@ -88,9 +88,13 @@ For purposes of this section, the term "distilled spirits" does not include dist
 
 (Added Pub. L. 96–223, title II, §232(e)(1), Apr. 2, 1980, 94 Stat. 278.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 5181 was renumbered 5182 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

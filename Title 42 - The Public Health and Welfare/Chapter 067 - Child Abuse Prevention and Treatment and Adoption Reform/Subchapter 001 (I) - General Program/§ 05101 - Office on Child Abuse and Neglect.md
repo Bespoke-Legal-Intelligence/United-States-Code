@@ -6,13 +6,15 @@ The Secretary of Health and Human Services may establish an office to be known a
 
 #### (b) Purpose
 
-The purpose of the Office established under subsection (a) shall be to execute and coordinate the functions and activities of this subchapter and subchapter III. In the event that such functions and activities are performed by another entity or entities within the Department of Health and Human Services, the Secretary shall ensure that such functions and activities are executed with the necessary expertise and in a fully coordinated manner involving regularintradepartmental and interdepartmental consultation with all agencies involved in child abuse and neglect activities.
+The purpose of the Office established under subsection (a) shall be to execute and coordinate the functions and activities of this subchapter and subchapter III. In the event that such functions and activities are performed by another entity or entities within the Department of Health and Human Services, the Secretary shall ensure that such functions and activities are executed with the necessary expertise and in a fully coordinated manner involving regular intradepartmental and interdepartmental consultation with all agencies involved in child abuse and neglect activities.
 
 (Pub. L. 93–247, title I, §101, formerly §2, Jan. 31, 1974, 88 Stat. 5; Pub. L. 93–644, §8(d)(1), Jan. 4, 1975, 88 Stat. 2310; Pub. L. 95–266, title I, §101, Apr. 24, 1978, 92 Stat. 205; Pub. L. 98–457, title I, §101, Oct. 9, 1984, 98 Stat. 1749; Pub. L. 99–401, title I, §103(a), Aug. 27, 1986, 100 Stat. 906; Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 103; renumbered title I, §101, Pub. L. 101–126, §3(a)(1), (2), Oct. 25, 1989, 103 Stat. 764; Pub. L. 104–235, title I, §101, Oct. 3, 1996, 110 Stat. 3064.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–235 amended section generally, substituting provisions relating to Office on Child Abuse and Neglect for provisions relating to National Center on Child Abuse and Neglect.
+<b>1996</b>—Pub. L. 104–235 amended section generally, substituting provisions relating to Office on Child Abuseand Neglect for provisions relating to National Center on Child Abuse and Neglect.
 
 <b>1988</b>—Pub. L. 100–294 amended section generally, substituting provisions relating to establishment, appointment of Director, and other staff and resources of National Center on Child Abuse and Neglect for provisions relating to establishment, functions, grant and contract authority, staff and resource availability, and use of funds of National Center on Child Abuse and Neglect. See sections 5105 to 5106d of this title.
 
@@ -48,6 +50,8 @@ Subsec. (d). Pub. L. 95–266, §101(3), added subsec. (d).
 
 <b>1975</b>—Subsec. (c). Pub. L. 93–644 added subsec. (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title of 2015 Amendment
 
 Pub. L. 114—22, title VIII, §801, May 29, 2015, 129 Stat. 263, provided that: "This title \[amending sections 5106a and 5106g of this title, enacting provisions set out as a note under section 5106a of this title, and amending provisions set out as a note under this section\] may be cited as the 'Ensuring a Better Response for Victims of Child Sex Trafficking'."
@@ -74,7 +78,7 @@ Pub. L. 102–295, §1(a), May 28, 1992, 106 Stat. 187, provided that: "This Act
 
 #### Short Title of 1991 Amendment
 
-Pub. L. 102–236, §1, Dec. 12, 1991, 105 Stat. 1812, provided that: "This Act \[amending sections 5117aa to5117aa–12 and 5117aa–22 of this title and provisions set out as a note under section 623 of Title 29, Labor\] may be cited as the 'Abandoned Infants Assistance Act Amendments of 1991'."
+Pub. L. 102–236, §1, Dec. 12, 1991, 105 Stat. 1812, provided that: "This Act \[amending sections 5117aa to 5117aa–12 and 5117aa–22 of this title and provisions set out as a note under section 623 of Title 29, Labor\] may be cited as the 'Abandoned Infants Assistance Act Amendments of 1991'."
 
 #### Short Title of 1989 Amendment
 
@@ -82,7 +86,7 @@ Pub. L. 101–126, §1, Oct. 25, 1989, 103 Stat. 764, provided that: "This Act \
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–294, §1, Apr. 25, 1988, 102 Stat. 102, provided that: "This Act \[enacting sections 5106a to 5106h and 10413 of this title, amending this section and sections 5102 to 5106, 5113, 5115, 10402, 10409, and 10410 of this title, repealing section 10411 of this title, and enacting provisions set out as notes under this section and section 5105 of this title\] may be referred to as the 'Child Abuse Prevention, Adoption, and Family Services Act of 1988'."
+Pub. L. 100–294, §1, Apr. 25, 1988, 102 Stat. 102, provided that: "This Act \[enacting sections 5106a to 5106h and 10413 of this title, amending this section and sections5102 to 5106, 5113, 5115, 10402, 10409, and 10410 of this title, repealing section 10411 of this title, and enacting provisions set out as notes under this section and section 5105 of this title\] may be referred to as the 'Child Abuse Prevention, Adoption, and Family Services Act of 1988'."
 
 #### Short Title of 1986 Amendment
 

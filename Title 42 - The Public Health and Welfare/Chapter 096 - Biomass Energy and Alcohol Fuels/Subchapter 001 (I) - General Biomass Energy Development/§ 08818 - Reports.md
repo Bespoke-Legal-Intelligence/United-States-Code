@@ -18,9 +18,13 @@ Within 120 days after June 30, 1980, the Secretary of Energy and the Secretary o
 
 (Pub. L. 96–294, title II, §218, June 30, 1980, 94 Stat. 695; Pub. L. 99–386, title I, §101(a), Aug. 22, 1986, 100 Stat. 821.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–386 struck out subsec. (a) which related to submission of quarterly reports to the President and Congress by Secretary of Agriculture and Secretary of Energy.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Reporting Requirements
 

@@ -12,7 +12,7 @@ It is the sense of Congress that the Secretary of Agriculture carry out a progra
 
 &emsp;&emsp;(B) to producers of peanuts who are on a farm for which a marketing quota or poundage quota has been established on an amount of the commodity equal to one-half of the farm marketing quota or poundage quota for the commodity, as determined by the Secretary; and
 
-&emsp;&emsp;(C) to producers of other commodities on an amount of the commodity equal to one-half of the farm yield for the commodity multiplied by the farm acreage intended to be planted to the commodity for harvest in 1986, as determined by the Secretary.
+&emsp;&emsp;(C) to producers of other commodities on an amount of the commodity equal to one-half of the farm yield for the commoditymultiplied by the farm acreage intended to be planted to the commodity for harvest in 1986, as determined by the Secretary.
 
 &emsp;(3) An advance recourse loan under section 424 \[7 U.S.C. 1433c\] shall come due at such time immediately following harvest as the Secretary determines appropriate. Each loan contract entered into under section 424 shall specify the date on which the loan is to come due.
 
@@ -44,6 +44,8 @@ It is further the sense of Congress that the Secretary of Agriculture issue or, 
 
 (Pub. L. 99–260, §13, Mar. 20, 1986, 100 Stat. 53; Pub. L. 108–357, title VI, §611(q), Oct. 22, 2004, 118 Stat. 1523.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Agricultural Act of 1949, referred to in subsec. (a)(4), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to this chapter (§1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
@@ -55,6 +57,8 @@ Section was enacted as part of the Food Security Improvements Act of 1986, and n
 #### Amendments
 
 <b>2004</b>—Subsec. (a)(2)(B). Pub. L. 108–357 struck out "tobacco and" before "peanuts".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

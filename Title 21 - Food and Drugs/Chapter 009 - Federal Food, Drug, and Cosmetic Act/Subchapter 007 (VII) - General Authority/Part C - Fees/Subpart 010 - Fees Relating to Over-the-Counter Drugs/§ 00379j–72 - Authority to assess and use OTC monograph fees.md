@@ -22,7 +22,7 @@ Beginning with fiscal year 2021, the Secretary shall assess and collect fees in 
 
 #### (ii) Contract manufacturing organizations
 
-&emsp;&emsp;&emsp;The amount of the fee for a contract manufacturing organization facility shallbe equal to two-thirds of the amount of the fee for an OTC monograph drug facility that is not a contract manufacturing organization facility.
+&emsp;&emsp;&emsp;The amount of the fee for a contract manufacturing organization facility shall be equal to two-thirds of the amount of the fee for an OTC monograph drug facility that is not a contract manufacturing organization facility.
 
 #### (C) Amount
 
@@ -296,11 +296,11 @@ Each person that owns an OTC monograph drug facility shall submit to the Secreta
 
 #### (3) Authorization of appropriations
 
-&emsp;For each of the fiscal years 2021 through 2025, there is authorized to be appropriated forfees under this section an amount equal to the total amount of fees assessed for such fiscal year under this section.
+&emsp;For each of the fiscal years 2021 through 2025, there is authorized to be appropriated for fees under this section an amount equal to the total amount of fees assessed for such fiscal year under this section.
 
 #### (g) Collection of unpaid fees
 
-In any case where the Secretary does not receive payment of a fee assessed under subsection (a) within 30 calendar days after it is due, such fee shall be treated as a claim of the United States Government subject to subchapter II of chapter 37 of title 31.
+In any case where the Secretary does not receive payment of a fee assessed under subsection (a) within 30 calendar days after it is due, suchfee shall be treated as a claim of the United States Government subject to subchapter II of chapter 37 of title 31.
 
 #### (h) Construction
 

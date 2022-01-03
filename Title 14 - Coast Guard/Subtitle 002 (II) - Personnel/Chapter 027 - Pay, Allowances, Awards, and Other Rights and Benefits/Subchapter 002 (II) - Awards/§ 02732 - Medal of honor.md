@@ -20,7 +20,7 @@ The language is parallel to that found in title 34, U.S.C., 1946 ed., §354, pro
 
 #### Amendments
 
-<b>2021</b>—Pub. L. 116–283, §8506(c), substituted "displays conspicuous" for "distinguishes himself conspicuously by" and "such individual's" for "his" in introductory provisions.
+<b>2021</b>—Pub. L. 116–283, §8506(c), substituted "displays conspicuous" for "distinguishes himself conspicuouslyby" and "such individual's" for "his" in introductory provisions.
 
 Pub. L. 116–283, §8505(a)(25), substituted "an individual" for "a person" in introductory provisions.
 

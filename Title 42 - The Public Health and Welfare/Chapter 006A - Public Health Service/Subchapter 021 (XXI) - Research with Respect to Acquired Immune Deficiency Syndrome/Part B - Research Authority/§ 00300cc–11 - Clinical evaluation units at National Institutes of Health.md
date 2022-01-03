@@ -4,7 +4,7 @@
 
 The Secretary, acting through the Director of the National Cancer Institute and the Director of the National Institute of Allergy and Infectious Diseases, shall for each such Institute establish a clinical evaluation unit at the Clinical Center at the National Institutes of Health. Each of the clinical evaluation units—
 
-&emsp;(1) shall conduct clinical evaluations of experimental treatments for acquired immunedeficiency syndrome developed within the preclinical drug development program, including evaluations of methods of diagnosing immune deficiency and evaluations of methods of predicting, diagnosing, preventing, and treating opportunistic cancers and infectious diseases; and
+&emsp;(1) shall conduct clinical evaluations of experimental treatments for acquired immune deficiency syndrome developed within the preclinical drug development program, including evaluations of methods of diagnosing immune deficiency and evaluations of methods of predicting, diagnosing, preventing, and treating opportunistic cancers and infectious diseases; and
 
 &emsp;(2) may conduct clinical evaluations of experimental treatments for such syndrome that are developed by any other national research institute of the National Institutes of Health or by any other entity.
 
@@ -25,6 +25,8 @@ The Secretary, acting through the Director of the National Cancer Institute and 
 For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary.
 
 (July 1, 1944, ch. 373, title XXIII, §2311, as added Pub. L. 100–607, title II, §201(4), Nov. 4, 1988, 102 Stat. 3066; amended Pub. L. 103–43, title XVIII, §1811(2), June 10, 1993,107 Stat. 199.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

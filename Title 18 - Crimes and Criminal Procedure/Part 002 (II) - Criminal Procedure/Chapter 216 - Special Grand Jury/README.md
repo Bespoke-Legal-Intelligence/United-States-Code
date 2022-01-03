@@ -5,7 +5,7 @@
 | [3331\.](%C2%A7%2003331%20-%20Summoning%20and%20term.md) | Summoning and term. |
 | [3332\.](%C2%A7%2003332%20-%20Powers%20and%20duties.md) | Powers and duties. |
 | [3333\.](%C2%A7%2003333%20-%20Reports.md) | Reports. |
-| [3334\.](%C2%A7%2003334%20-%20General%20provisions.md) | General provisions. |
+| [3334\.](%C2%A7%2003334%20-%20General%20provisions.md) | General provisions.<br> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

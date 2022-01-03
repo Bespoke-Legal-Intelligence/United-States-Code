@@ -28,6 +28,8 @@ Definition.—In this section, the term "burial" includes inurnment.
 
 (Added Pub. L. 105–85, div. A, title X, §1077(a)(1), Nov. 18, 1997, 111 Stat. 1914; amended Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title VI, §662(b)(1)–(3), (c)(1), Jan. 6, 2006, 119 Stat. 3315; Pub. L. 115–232, div. A, title V, §592, Aug. 13, 2018, 132 Stat. 1788.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (b). Pub. L. 115–232, §592(1), substituted "Except as provided in subsection (c), a person who is ineligible" for "A person who is ineligible" in introductory provisions.
@@ -36,7 +38,7 @@ Subsecs. (c), (d). Pub. L. 115–232, §592(2), (3), added subsec. (c) and redes
 
 <b>2006</b>—Pub. L. 109–163, §662(c)(1), substituted "Persons convicted of capital crimes; certain other persons: denial of specified burial-related benefits" for "Persons convicted of capital crimes: denial of certain burial-related benefits" in section catchline.
 
-Subsec. (a). Pub. L. 109–163, §662(b)(1)(B), substituted "any of the following persons:" for "a person who hasbeen convicted of a capital offense under Federal or State law for which the person was sentenced to death or life imprisonment without parole." and added pars. (1) and (2).
+Subsec. (a). Pub. L. 109–163, §662(b)(1)(B), substituted "any of the following persons:" for "a person who has been convicted of a capital offense under Federal or State law for which the person was sentenced to death or life imprisonment without parole." and added pars. (1) and (2).
 
 Pub. L. 109–163, §662(b)(1)(A), inserted "(under section 1491 of this title or any other authority)" after "military honors".
 
@@ -51,6 +53,8 @@ Subsec. (c). Pub. L. 109–163, §662(b)(3), amended heading and text of subsec.
 &emsp;"(3) The term 'State' includes the District of Columbia and any commonwealth or territory of the United States."
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

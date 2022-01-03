@@ -4,9 +4,11 @@ All appointments to advisory committees established to assist in implementing th
 
 (Pub. L. 94–278, title X, §1001, Apr. 22, 1976, 90 Stat. 415; Pub. L. 111–256, §2(e), Oct. 5, 2010, 124 Stat. 2643.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Public Health Service Act, referred to in text, is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to this chapter (§201 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
+The Public Health Service Act, referred to in text, is act July 1, 1944, ch. 373, 58 Stat. 682, which is classifiedgenerally to this chapter (§201 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
 The Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970, referred to in text, is Pub. L. 91–616, Dec. 31, 1970, 84 Stat. 1848, as amended, which is classified principally to chapter 60 (§4541 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4541 of this title and Tables.
 

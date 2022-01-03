@@ -56,7 +56,7 @@ If any portion of the earnings from business done with or for patrons is includi
 
 &emsp;&emsp;(B) with respect to the pool, the organization has entered into an agreement with the United States or any of its agencies which includes provisions to the effect that—
 
-&emsp;&emsp;&emsp;(i) the United States or such agency shall provide a loan to the organization with the products comprising the pool serving as collateral for such loan,
+&emsp;&emsp;&emsp;(i) the United States or such agency shall provide a loan to the organizationwith the products comprising the pool serving as collateral for such loan,
 
 &emsp;&emsp;&emsp;(ii) the organization shall use an amount equal to the proceeds of such loan to make price support advances to eligible producers (as determined by the United States or such agency), to defray costs of handling, processing, and storing such products, or to pay all or part of any administrative costs associated with the price support program,
 
@@ -69,6 +69,8 @@ If any portion of the earnings from business done with or for patrons is includi
 &emsp;For purposes of this subsection, the term "completed crop pool method of accounting" means a method of accounting under which gain or loss is computed separately for each crop year pool in the year in which the last of the products in the pool are disposed of.
 
 (Added Pub. L. 87–834, §17(a), Oct. 16, 1962, 76 Stat. 1046; amended Pub. L. 89–809, title II, §211(a)(1)–(4), Nov. 13, 1966, 80 Stat. 1580, 1581; Pub. L. 91–172, title IX, §911(a), Dec. 30, 1969, 83 Stat. 722; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–345, §3, Aug. 15, 1978, 92 Stat. 483.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -86,6 +88,8 @@ Subsec. (e). Pub. L. 89–809, §211(a)(3), inserted provision that the marketin
 
 Subsec. (f). Pub. L. 89–809, §211(a)(4), substituted "paragraphs (1) and (2) of subsection (b)" for "subsection (b)".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1969 Amendment
 
 Pub. L. 91–172, title IX, §911(c), Dec. 30, 1969, 83 Stat. 722, provided that: "The amendments made by this section \[amending this section and section 1388 of this title\] shall apply to per-unit retain allocations made after October 9, 1969."
@@ -100,5 +104,5 @@ Pub. L. 89–809, title II, §211(e), Nov. 13, 1966, 80 Stat. 1584, provided tha
 
 #### Effective Date
 
-Section applicable, except as otherwise provided, to taxable years of organizations described in section1381(a) of this title beginning after Dec. 31, 1962, see section 17(c) of Pub. L. 87–834, set out as a note under section 1381 of this title.
+Section applicable, except as otherwise provided, to taxable years of organizations described in section 1381(a) of this title beginning after Dec. 31, 1962, see section 17(c) of Pub. L. 87–834, set out as a note under section 1381 of this title.
 

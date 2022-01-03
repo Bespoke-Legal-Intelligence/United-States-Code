@@ -10,7 +10,7 @@ In this section:
 
 #### (2) Coastal State
 
-&emsp;The term "coastal State" has the meaning given the term "coastal state" in section 1453of title 16, except that the term shall not apply with respect to a State or territory that has an operational wind and flood loss allocation system.
+&emsp;The term "coastal State" has the meaning given the term "coastal state" in section 1453 of title 16, except that the term shall not apply with respect to a State or territory that has an operational wind and flood loss allocation system.
 
 #### (3) Coastal waters
 
@@ -62,7 +62,7 @@ In this section:
 
 #### (C) Public review
 
-&emsp;&emsp;The Administrator shall seek input and suggestions from the public before the Named Storm Event Model, or any modification to the Named Storm Event Model, takes effect.
+&emsp;&emsp;The Administrator shall seek input and suggestions from the public before theNamed Storm Event Model, or any modification to the Named Storm Event Model, takes effect.
 
 #### (2) Post-storm assessment
 
@@ -86,7 +86,7 @@ In this section:
 
 #### (D) Post-storm assessment required
 
-&emsp;&emsp;Upon confirmation of indeterminate losses identified under subparagraph (C) with respect to a named storm, the Administrator shall develop a post-storm assessment for each coastal State that suffered such indeterminate losses as a result of the namedstorm using the Named Storm Event Model and covered data collected for such named storm pursuant to the protocol established under subsection (c)(1).
+&emsp;&emsp;Upon confirmation of indeterminate losses identified under subparagraph (C) with respect to a named storm, the Administrator shall develop a post-storm assessment for each coastal State that suffered such indeterminate losses as a result of the named storm using the Named Storm Event Model and covered data collected for such named storm pursuant to the protocol established under subsection (c)(1).
 
 #### (E) Submittal of post-storm assessment
 
@@ -140,7 +140,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;If the Administrator acquires a structure for the placement of a sensor for purposes of such protocol, the Administrator shall to the extent practical permit other public and private entities to place sensors on such structure to collect—
+&emsp;&emsp;If the Administrator acquires a structure for the placement of a sensor for purposes ofsuch protocol, the Administrator shall to the extent practical permit other public and private entities to place sensors on such structure to collect—
 
 &emsp;&emsp;&emsp;(i) meteorological data;
 
@@ -176,7 +176,7 @@ In this section:
 
 #### (1) Identification of systems and efforts to collect covered data
 
-&emsp;Not later than 180 days after July 6, 2012, the Administrator shall, in consultation with theOffice of the Federal Coordinator for Meteorology—
+&emsp;Not later than 180 days after July 6, 2012, the Administrator shall, in consultation with the Office of the Federal Coordinator for Meteorology—
 
 &emsp;&emsp;(A) carry out a survey to identify all Federal and State efforts and systems that are capable of collecting covered data; and
 

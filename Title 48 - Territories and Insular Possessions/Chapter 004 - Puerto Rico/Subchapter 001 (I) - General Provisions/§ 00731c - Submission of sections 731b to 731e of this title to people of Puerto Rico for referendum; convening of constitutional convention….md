@@ -4,9 +4,13 @@ Sections 731b to 731e of this title shall be submitted to the qualified voters o
 
 (July 3, 1950, ch. 446, §2, 64 Stat. 319.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was not enacted as part of the Puerto Rican Federal Relations Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Constitutional Convention
 

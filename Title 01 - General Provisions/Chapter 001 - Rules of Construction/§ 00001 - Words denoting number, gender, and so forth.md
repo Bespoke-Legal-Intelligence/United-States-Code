@@ -48,6 +48,14 @@ Pub. L. 107–207, §1, Aug. 5, 2002, 116 Stat. 926, provided that: "This Act \[
 
 Pub. L. 104–199, §1, Sept. 21, 1996, 110 Stat. 2419, provided that: "This Act \[enacting section 7 of this title and section 1738C of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Defense of Marriage Act'."
 
+#### References in Pub. L. 117–58
+
+Pub. L. 117–58, §2, Nov. 15, 2021, 135 Stat. 442, provided that: "Except as expressly provided otherwise, any reference to 'this Act' contained in any division of this Act \[Infrastructure Investment and Jobs Act, see Tables for classification\] shall be treated as referring only to the provisions of that division."
+
+#### References in Pub. L. 117–43
+
+Pub. L. 117–43, §3, Sept. 30, 2021, 135 Stat. 344, provided that: "Except as expressly provided otherwise, any reference to 'this Act' contained in any division of this Act \[Extending Government Funding and Delivering Emergency Assistance Act, see Tables for classification\] shall be treated as referring only to the provisions of that division."
+
 #### References in Pub. L. 116–260
 
 Pub. L. 116–260, §3, Dec. 27, 2020, 134 Stat. 1185, provided that: "Except as expressly provided otherwise, any reference to 'this Act' contained in any division of this Act \[Consolidated Appropriations Act, 2021, see Tables for classification\] shall be treated as referring only to the provisions of that division."
@@ -84,7 +92,7 @@ Pub. L. 116–6, §3, Feb. 15, 2019, 133 Stat. 14, provided that: "Except as exp
 
 #### References in Pub. L. 115–245
 
-Pub. L. 115–245, §3, Sept. 28, 2018, 132 Stat. 2981, provided that: "Except as expressly provided otherwise, any reference to 'this Act' contained in any division of this Act \[Department of Defense and Labor, Health and Human Services, and Education Appropriations Act, 2019 and Continuing Appropriations Act, 2019, seeTables for classification\] shall be treated as referring only to the provisions of that division."
+Pub. L. 115–245, §3, Sept. 28, 2018, 132 Stat. 2981, provided that: "Except as expressly provided otherwise, any reference to 'this Act' contained in any division of this Act \[Department of Defense and Labor, Health and Human Services, and Education Appropriations Act, 2019 and Continuing Appropriations Act, 2019, see Tables for classification\] shall be treated as referring only to the provisions of that division."
 
 #### References in Pub. L. 115–244
 
@@ -152,7 +160,7 @@ Pub. L. 111–8, §3, Mar. 11, 2009, 123 Stat. 525, provided that: "Except as ex
 
 #### References in Pub. L. 111–5
 
-Pub. L. 111–5, §4, Feb. 17, 2009, 123 Stat. 116, provided that: "Except as expressly provided otherwise, any reference to 'this Act' contained in any division of this Act \[American Recovery and Reinvestment Act of 2009, see Tables for classification\] shall be treated as referring only to the provisions of that division."
+Pub. L. 111–5, §4, Feb. 17, 2009, 123 Stat. 116, provided that: "Except as expressly provided otherwise, any reference to 'this Act' contained in any division of thisAct \[American Recovery and Reinvestment Act of 2009, see Tables for classification\] shall be treated as referring only to the provisions of that division."
 
 #### References in Pub. L. 110–329
 
@@ -160,7 +168,7 @@ Pub. L. 110–329, §3, Sept. 30, 2008, 122 Stat. 3574, provided that: "Except a
 
 #### References in Pub. L. 110–161
 
-Pub. L. 110–161, §3, Dec. 26, 2007, 121 Stat. 1845, provided that: "Except as expressly provided otherwise,any reference to 'this Act' contained in any division of this Act \[Consolidated Appropriations Act, 2008, see Tables for classification\] shall be treated as referring only to the provisions of that division."
+Pub. L. 110–161, §3, Dec. 26, 2007, 121 Stat. 1845, provided that: "Except as expressly provided otherwise, any reference to 'this Act' contained in any division of this Act \[Consolidated Appropriations Act, 2008, see Tables for classification\] shall be treated as referring only to the provisions of that division."
 
 #### References in Pub. L. 110–116
 

@@ -30,7 +30,7 @@ Rebate Agreements With Food Producers.—(1) In the administration of the progra
 
 &emsp;(B) the producer to rebate to the Secretary amounts equal to agreed portions of the amounts paid by the Secretary for the procurement of that particular brand of food for the program.
 
-(2) The Secretary of Defense shall use competitive procedures under chapter 137 of this title to enter into contracts under this subsection.
+(2) The Secretary of Defense shall use competitive procedures under chapter 137 <sup>1</sup> of this title to enter into contracts under this subsection.
 
 (3) The period covered by a contract entered into under this subsection, including any period of extension of the contract by modification of the contract, exercise of an option, or other cause, may not exceed three years. No such contract may be extended by a modification of the contract, by exercise of an option, or by any other means. Nothing in this paragraph prohibits a contractor under a contract entered into under this subsection for any year from submitting an offer for, and being awarded, a contract that is to be entered into under this subsection for a successive year.
 
@@ -64,7 +64,11 @@ Definitions.—In this section:
 
 (Added Pub. L. 103–337, div. A, title VI, §653(a), Oct. 5, 1994, 108 Stat. 2794; amended Pub. L. 104–106, div. A, title XV, §1503(a)(9), Feb. 10, 1996, 110 Stat. 511; Pub. L. 105–85, div. A, title VI, §655(b)(1), Nov. 18, 1997, 111 Stat. 1805; Pub. L. 106–65, div. A, title VI, §674(a)–(d), Oct. 5, 1999, 113 Stat. 675; Pub. L. 106–398, §1 \[\[div. A\], title VI, §662\], Oct. 30, 2000, 114 Stat. 1654, 1654A–167; Pub. L. 107–107, div. A, title III, §334, Dec. 28, 2001, 115 Stat. 1059; Pub. L. 107–314, div. A, title III, §324, Dec. 2, 2002, 116 Stat. 2511.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
+
+Chapter 137 of this title, referred to in subsec. (e)(2), was repealed by Pub. L. 116–283, div. A, title XVIII, §1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, in conjunction with the transfer and reorganization of acquisition provisions in this title by Pub. L. 116–283, div. A, title XVIII, Jan. 1, 2022, 134 Stat. 4149.
 
 The Immigration and Nationality Act, referred to in subsec. (g)(2)(B), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
@@ -80,7 +84,7 @@ Subsec. (e)(3). Pub. L. 107–314, §324(b), in first sentence, substituted "sub
 
 <b>1999</b>—Subsec. (a). Pub. L. 106–65, §674(a), substituted "Program Required" for "Authority" in heading and "The Secretary of Defense shall carry out a program to provide supplemental foods and nutrition education" for "The Secretary of Defense may carry out a program to provide special supplemental food benefits" in text.
 
-Subsec. (b). Pub. L. 106–65, §674(b), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: "For the purpose of obtaining Federal payments and commodities in order to carry out the program referred to in subsection (a), the Secretary of Agriculture shall make available to the Secretary of Defense the same payments and commodities as are made for the special supplemental food program in the United States under section 17 of the Child Nutrition Act of 1966 (42 U.S.C. 1786). The Secretary of Defensemay use funds available for the Department of Defense to carry out the program under subsection (a)."
+Subsec. (b). Pub. L. 106–65, §674(b), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: "For the purpose of obtaining Federal payments and commodities in order to carry out the program referred to in subsection (a), the Secretary of Agriculture shall make available to the Secretary of Defense the same payments and commodities as are made for the special supplemental food program in the United States under section 17 of the Child Nutrition Act of 1966 (42 U.S.C. 1786). The Secretary of Defense may use funds available for the Department of Defense to carry out the program under subsection (a)."
 
 Subsec. (c)(1)(A). Pub. L. 106–65, §674(c)(1), inserted at end "In determining eligibility for benefits, a person already certified for participation in the special supplemental nutrition program for women, infants, and children under such section 17 shall be considered eligible for the duration of the certification period under that special supplemental nutrition program."
 
@@ -96,7 +100,11 @@ Subsec. (f)(4). Pub. L. 106–65, §674(d), added par. (4).
 
 <b>1996</b>—Subsec. (f)(2)(B). Pub. L. 104–106 substituted ", as determined in accordance with the Immigration and Nationality Act (8 U.S.C. 1101 et seq.)" for "(as defined in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)))".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Report on Implementation of Special Supplemental Food Program
 
 Pub. L. 105–85, div. A, title VI, §655(b)(2), Nov. 18, 1997, 111 Stat. 1805, directed the Secretary of Defense to submit to Congress a report including plans to implement the program authorized under this section not later than 90 days after Nov. 18, 1997.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

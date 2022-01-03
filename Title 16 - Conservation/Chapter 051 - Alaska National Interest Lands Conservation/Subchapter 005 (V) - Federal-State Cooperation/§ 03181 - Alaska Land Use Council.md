@@ -86,7 +86,7 @@ The Council shall adopt such internal rules of procedure as it deems necessary. 
 
 #### (j) Cooperative planning
 
-(1) The Council shall recommend cooperative planning zones, consisting of areas of the State in which the management of lands or resources by one member materially affects the management of lands or resources of another member or members including, but not limited to, such areas as the Northwest Arctic, the North Slope, and Bristol Bay. Federal members of the Council are authorized and encouraged to enter into cooperative agreements with Federal agencies, with State and local agencies, and with Native Corporations providing for mutual consultation, review, and coordination of resource management plans and programs within such zones.
+(1) The Council shall recommend cooperative planning zones, consisting of areas of the State in which the management of lands or resources by one member materially affects the management of lands or resources of another member or members including, but not limited to, such areas as the Northwest Arctic, the North Slope, and Bristol Bay. Federal members of the Councilare authorized and encouraged to enter into cooperative agreements with Federal agencies, with State and local agencies, and with Native Corporations providing for mutual consultation, review, and coordination of resource management plans and programs within such zones.
 
 (2) With respect to lands, waters, and interests therein which are subject to a cooperative agreement in accordance with this subsection, the Secretary, in addition to any requirement of applicable law, may provide technical and other assistance to the landowner with respect to fire control, trespass control, law enforcement, resource use, and planning. Such assistance may be provided without reimbursement if the Secretary determines that to do so would further the purposes of the cooperative agreement and would be in the public interest.
 
@@ -106,15 +106,19 @@ The Council shall establish and implement a public participation program to assi
 
 &emsp;(1) A committee of land-use advisors appointed by the Cochairmen made up of representatives of commercial and industrial land users in Alaska, recreational land users, wilderness users, environmental groups, Native Corporations, and other public and private organizations. To the maximum extent practicable, the membership of the committee shall provide a balanced mixture of national, State, and local perspective and expertise on land and resource use issues; and
 
-&emsp;(2) A system for (A) the identification of persons and communities, in rural and urban Alaska, who or which may be directly or significantly affected by studies conducted, or advice and recommendations given by the Council pursuant to this section, and (B) guidelines for, and implementation of, a system for effective public participation by suchpersons or communities in the development of such studies, advice and recommendations by the Council.
+&emsp;(2) A system for (A) the identification of persons and communities, in rural and urban Alaska, who or which may be directly or significantly affected by studies conducted, or advice and recommendations given by the Council pursuant to this section, and (B) guidelines for, and implementation of, a system for effective public participation by such persons or communities in the development of such studies, advice and recommendations by the Council.
 
 (Pub. L. 96–487, title XII, §1201, Dec. 2, 1980, 94 Stat. 2466.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 Section 5703 of title 5, referred to in subsec. (e)(3), was amended generally by Pub. L. 94–22, §4, May 19, 1975, 89 Stat. 85, and, as so amended, does not contain a subsec. (b).
 
 This Act, referred to in subsecs. (f)(3), (5) and (i)(2)(A)(i), (ii), and (iii), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Reporting Requirements
 

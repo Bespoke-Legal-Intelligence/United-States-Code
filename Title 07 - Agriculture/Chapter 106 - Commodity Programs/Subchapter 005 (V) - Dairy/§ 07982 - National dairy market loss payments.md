@@ -52,7 +52,7 @@ Payments to a producer under this section shall be calculated by multiplying (as
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), the payment quantity for a producer during the applicable month under this section shall be equal to the quantity of eligible production marketed by the producer during the month.
+&emsp;Subject to paragraph (2), the payment quantity for a producer during the applicablemonth under this section shall be equal to the quantity of eligible production marketed by the producer during the month.
 
 #### (2) Limitation
 
@@ -85,6 +85,8 @@ The Secretary shall offer to enter into contracts under this section during the 
 &emsp;&emsp;(B) allow the contract to remain in effect and require the producer to repay a portion of the payments received under the contract based on the severity of the violation.
 
 (Pub. L. 107–171, title I, §1502, May 13, 2002, 116 Stat. 205; Pub. L. 109–171, title I, §1101, Feb. 8, 2006, 120 Stat. 4; Pub. L. 110–28, title IX, §9006(a), May 25, 2007, 121 Stat. 217.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

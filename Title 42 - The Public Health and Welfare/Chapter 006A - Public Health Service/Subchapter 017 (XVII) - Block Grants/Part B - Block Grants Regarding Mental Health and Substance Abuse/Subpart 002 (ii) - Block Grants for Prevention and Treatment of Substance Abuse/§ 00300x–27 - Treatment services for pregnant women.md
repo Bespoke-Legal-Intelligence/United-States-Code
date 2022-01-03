@@ -22,6 +22,8 @@ A funding agreement for a grant under section 300x–21 of this title is that, i
 
 (July 1, 1944, ch. 373, title XIX, §1927, as added Pub. L. 102–321, title II, §202, July 10, 1992, 106 Stat. 395; amended Pub. L. 102–352, §2(a)(10), Aug. 26, 1992, 106 Stat. 938.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1927 of act July 1, 1944, was classified to section 300x–12 of this title prior to repeal by Pub. L. 102–321.
@@ -31,6 +33,8 @@ Another prior section 1927 of act July 1, 1944, was classified to section 300y�
 #### Amendments
 
 <b>1992</b>—Subsec. (b)(2)(B). Pub. L. 102–352 struck out "available" before "interim services available".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

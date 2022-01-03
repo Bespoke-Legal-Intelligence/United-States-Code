@@ -28,13 +28,15 @@
 
 #### (c) Communications cables or lines
 
-Nothing in this part shall have the effect of terminating any validly issued right-of-way or customary operation, maintenance, repair, and replacement activities of existing facilitiesissued, granted, or permitted for communications cables or lines, which are located on lands included in the Mojave National Preserve, but outside lands designated as wilderness under section 601(a)(3). Such activities shall be conducted in a manner which will minimize the impact on preserve resources.
+Nothing in this part shall have the effect of terminating any validly issued right-of-way or customary operation, maintenance, repair, and replacement activities of existing facilities issued, granted, or permitted for communications cables or lines, which are located on lands included in the Mojave National Preserve, butoutside lands designated as wilderness under section 601(a)(3). Such activities shall be conducted in a manner which will minimize the impact on preserve resources.
 
 #### (d) Other rights-of-way
 
 Nothing in this part shall have the effect of terminating any validly issued right-of-way or customary operation, maintenance, repair, and replacement activities of existing facilities issued, granted, or permitted to Molybdenum Corporation of America; Molycorp, Incorporated; or Union Oil Company of California (d/b/a Unocal Corporation); or its successors or assigns, or prohibiting renewal of such right-of-way, which is located on lands included in the Mojave National Preserve, but outside lands designated as wilderness under section 601(a)(3). Such activities shall be conducted in a manner which will minimize the impact on preserve resources.
 
 (Pub. L. 103–433, title V, §511, Oct. 31, 1994, 108 Stat. 4492.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

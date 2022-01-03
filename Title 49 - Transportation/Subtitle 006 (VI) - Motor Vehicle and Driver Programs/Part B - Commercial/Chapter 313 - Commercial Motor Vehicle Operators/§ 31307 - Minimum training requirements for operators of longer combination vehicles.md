@@ -36,11 +36,15 @@ In subsection (a), the words "a vehicle consisting" are substituted for "any com
 
 In subsection (b), the words "Not later than 60 days after the date of the enactment of this Act, the Secretary shall initiate a rulemaking proceeding" are omitted as executed.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (b). Pub. L. 114–94, §5508(b)(5), amended Pub. L. 112–141, §32931(c). See 2012 Amendment note below.
 
 <b>2012</b>—Subsec. (b). Pub. L. 112–141, §32931(c), as amended by Pub. L. 114–94, §5508(b)(5), substituted "The Secretary of Transportation shall maintain" for "Not later than December 18, 1994, the Secretary of Transportation shall prescribe".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

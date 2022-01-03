@@ -16,6 +16,8 @@ The requirements of section 4502(d) <sup>1</sup> of this title shall continue t
 
 (Pub. L. 99–509, title III, §3007, Oct. 21, 1986, 100 Stat. 1887.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 4502(d) of this title, referred to in subsec. (b), was repealed by section 4502(e) of this title.

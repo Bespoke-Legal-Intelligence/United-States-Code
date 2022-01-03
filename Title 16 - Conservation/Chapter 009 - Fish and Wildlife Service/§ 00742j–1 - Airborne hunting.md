@@ -14,7 +14,7 @@ Any person who—
 
 #### (b) Exception; report of State to Secretary
 
-(1) This section shall not apply to any person if such person is employed by, or is an authorized agent of or is operating under a license or permit of, any State or the United States to administer or protect or aid in the administration or protection of land, water, wildlife, livestock, domesticated animals, human life, or crops, and each such person so operating under a license or permit shall report to the applicable issuing authority each calendar quarter the number and type of animals so taken.
+(1) This section shall not apply to any person if such person is employed by, or is an authorized agent of or is operating under a license orpermit of, any State or the United States to administer or protect or aid in the administration or protection of land, water, wildlife, livestock, domesticated animals, human life, or crops, and each such person so operating under a license or permit shall report to the applicable issuing authority each calendar quarter the number and type of animals so taken.
 
 (2) In any case in which a State, or any agency thereof, issues a permit referred to in paragraph (1) of this subsection, it shall file with the Secretary of the Interior an annual report containing such information as the Secretary shall prescribe, including but not limited to—
 
@@ -44,9 +44,13 @@ All provisions of law relating to the seizure, forfeiture, and condemnation of a
 
 (Aug. 8, 1956, ch. 1036, §13, as added Pub. L. 92–159, §1, Nov. 18, 1971, 85 Stat. 480; amended Pub. L. 92–502, Oct. 18, 1972, 86 Stat. 905; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1972</b>—Subsecs. (d) to (f). Pub. L. 92–502 added subsecs. (d) to (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

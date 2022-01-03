@@ -10,7 +10,7 @@ Coordination With Secretary of Homeland Security.—The Secretary shall submit t
 
 (c)
 
-Limitation.—The Secretary of the Navy may enter into a term contract under subsection (a) only if the Secretary determines that available commercial salvage facilities are inadequate to meet the requirements of national defense.
+Limitation.—The Secretary of the Navy may enter into a term contract under subsection\(a) only if the Secretary determines that available commercial salvage facilities are inadequate to meet the requirements of national defense.
 
 (d)
 
@@ -22,6 +22,8 @@ Salvage Facilities Defined.—In this section, the term "salvage facilities" inc
 
 (Added Pub. L. 104–106, div. A, title X, §1015, Feb. 10, 1996, 110 Stat. 424, §7361; amended Pub. L. 107–296, title XVII, §1704(b)(1), (6), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title III, §315(a), Nov. 24, 2003, 117 Stat. 1431; renumbered §8701, Pub. L. 115–232, div. A, title VIII, §807(d)(3), Aug. 13, 2018, 132 Stat. 1836.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7361 of this title as this section.
@@ -29,6 +31,8 @@ Salvage Facilities Defined.—In this section, the term "salvage facilities" inc
 <b>2003</b>—Subsec. (e). Pub. L. 108–136 added subsec. (e).
 
 <b>2002</b>—Subsec. (b). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation" in heading and in two places in text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

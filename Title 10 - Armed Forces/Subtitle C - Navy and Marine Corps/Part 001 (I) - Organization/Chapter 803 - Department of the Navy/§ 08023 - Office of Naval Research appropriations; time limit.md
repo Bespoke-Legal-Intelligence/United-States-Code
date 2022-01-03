@@ -34,6 +34,8 @@ Aug. 1, 1946, ch. 727, §5 (b), 60 Stat. 780.
 
 The authorization to make appropriations for the Office of Naval Research is omitted as unnecessary. The word "administration" is substituted for the words "administrative expenses" for brevity.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 8023 was renumbered section 9023 of this title.
@@ -47,6 +49,8 @@ Subsec. (a). Pub. L. 115–232, §809(a), substituted "section 8022" for "sectio
 <b>1986</b>—Pub. L. 99–433, §511(d), renumbered section 5152 of this title as this section.
 
 Subsec. (a). Pub. L. 99–433, §514(c)(2), substituted "section 5022" for "section 5151".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

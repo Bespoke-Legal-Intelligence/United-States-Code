@@ -82,7 +82,7 @@ Not later than 2 years after January 1, 2021, the Director shall work to develop
 
 #### (e) Data sharing best practices
 
-Not later than 1 year after January 1, 2021, the Director shall, in collaboration with other public and private sector organizations, develop guidance to facilitate the creation of voluntary data sharing arrangements between industry, federally funded research centers, and Federal agencies for the purpose of advancing artificial intelligence research and technologies, including options for partnership models between government entities, industry, universities, and nonprofits that incentivize each party to share the data they collected.
+Not later than 1 year after January 1, 2021, the Director shall, in collaboration with other public and private sector organizations, develop guidance to facilitate the creation of voluntarydata sharing arrangements between industry, federally funded research centers, and Federal agencies for the purpose of advancing artificial intelligence research and technologies, including options for partnership models between government entities, industry, universities, and nonprofits that incentivize each party to share the data they collected.
 
 #### (f) Best practices for documentation of data sets
 
@@ -117,6 +117,8 @@ There are authorized to be appropriated to the National Institute of Standards a
 &emsp;(5) $93,700,000 for fiscal year 2025.
 
 (Mar. 3, 1901, ch. 872, §22A, as added Pub. L. 116–283, div. E, title LIII, §5301, Jan. 1, 2021, 134 Stat. 4536.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

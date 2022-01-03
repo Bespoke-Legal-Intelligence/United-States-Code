@@ -10,7 +10,7 @@ Civil Penalty.—(1) A person that violates this chapter or a regulation prescri
 
 &emsp;(A) the nature, circumstances, extent, and gravity of the violation;
 
-&emsp;(B) with respect to the violator, the degree of culpability, any history of prior violations, the ability to pay, and any effect on the ability to continue doing business; and
+&emsp;(B) with respect to the violator, the degree of culpability, any history of prior violations,the ability to pay, and any effect on the ability to continue doing business; and
 
 &emsp;(C) other matters that justice requires.
 
@@ -90,9 +90,13 @@ In subsection (d)(1), before clause (A), the words "this chapter or a regulation
 
 In subsection (d)(2), the words "without regard to the amount in controversy" are omitted because jurisdiction is now allowed under 28:1331 without regard to the amount in controversy. The words "United States district court" are substituted for "district court of the United States" for consistency with the definition in section 32101 of the revised title and with other provisions of the chapter.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Subsec. (a)(1). Pub. L. 112–141 substituted "$10,000" for "$2,000" and "$1,000,000" for "$100,000".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

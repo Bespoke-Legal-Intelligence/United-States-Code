@@ -24,7 +24,7 @@ There are authorized to be appropriated from time to time, out of any moneys in 
 
 &emsp;(4) a Government contribution equal to the estimated aggregate reduction in premiums payable under part B that results from establishing the premium at 15 percent of the actuarial rate (as would be determined in accordance with section 1395r(a)(1) of this title if the reference to "one-half" in such section were a reference to "100 percent") under section 1395r(j) of this title instead of 25 percent of such rate (as so determined) for individuals enrolled only for the purpose of coverage of immunosuppressive drugs under section 1395o(b) of this title.
 
-> In applying paragraph (1), the amounts transferred under subsection (d)(1) with respect to enrollees described in subparagraphs (A) and (B) of such subsection shall be treated as premiums payable and deposited in the Trust Fund undersubparagraphs (A) and (B), respectively, of paragraph (1). In applying paragraph (1), the amounts transferred under subsection (e)(1) with respect to enrollees described in subparagraphs (A) and (B) of such subsection shall be treated as premiums payable and deposited in the Trust Fund under subparagraphs (A) and (B), respectively, of paragraph (1). The Government contribution under paragraph (4) shall be treated as premiums payable and deposited for purposes of subparagraphs (A) and (B) of paragraph (1).
+> In applying paragraph (1), the amounts transferred under subsection (d)(1) with respect to enrollees described in subparagraphs (A) and (B) of such subsection shall be treated as premiums payable and deposited in the Trust Fund under subparagraphs (A) and (B), respectively, of paragraph (1). In applying paragraph (1), the amounts transferred under subsection (e)(1) with respect to enrollees described in subparagraphs (A) and (B) of such subsection shall be treated as premiums payable and deposited in the Trust Fund under subparagraphs (A) and (B), respectively, of paragraph (1). The Government contribution under paragraph (4) shall be treated as premiums payable and deposited for purposes of subparagraphs (A) and (B) of paragraph (1).
 
 #### (b) Contingency reserve
 
@@ -64,7 +64,7 @@ The Secretary shall determine the Government contribution under subparagraphs (A
 
 #### (f) Transfer of certain General Fund amounts for COVID–19 public health emergency period
 
-(1) There shall be transferred from the General Fund of the Treasury to the Trust Fund an amount, as estimated by the Chief Actuary of the Centers for Medicare \& Medicaid Services, equal to amounts paid in advance for items and services under this part during the period beginning on the first day of the emergency period described in section 1320b–5(g)(1)(B) of this title and ending on October 1, 2020.
+(1) There shall be transferred from the General Fund of the Treasury to the Trust Fund an amount, as estimated by the Chief Actuary ofthe Centers for Medicare \& Medicaid Services, equal to amounts paid in advance for items and services under this part during the period beginning on the first day of the emergency period described in section 1320b–5(g)(1)(B) of this title and ending on October 1, 2020.
 
 (2) There shall be transferred from the Trust Fund to the General Fund of the Treasury amounts equivalent to the sum of—
 
@@ -74,7 +74,9 @@ The Secretary shall determine the Government contribution under subparagraphs (A
 
 (3) Amounts described in paragraphs (1) and (2) shall be transferred from time to time as appropriate.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1844, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 313; amended Pub. L. 90–248, title I, §167, Jan. 2, 1968, 81 Stat. 874; Pub. L. 92–603, title II, §203(e), Oct. 30, 1972, 86 Stat. 1377; Pub. L. 97–248, title I, §124(c), Sept. 3, 1982, 96 Stat. 364; Pub. L. 98–21, title VI, §606(a)(3)(F), (G), Apr. 20, 1983, 97 Stat. 171; Pub. L. 98–369, div. B, title III, §2354(b)(16), July 18, 1984, 98 Stat. 1101; Pub. L. 100–360, title II, §211(c)(2), July 1, 1988, 102 Stat. 738; Pub. L. 101–234, title II, §202(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 105–33, title IV, §4571(b)(2), Aug. 5, 1997, 111 Stat. 464; Pub. L. 106–554, §1(a)(6) \[title VI, §606(a)(2)(D)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–558; Pub. L. 108–173, title II, §§222(l)(2)(C), 241(b)(2)(B), title VIII, §811(b)(2), Dec. 8, 2003, 117 Stat. 2206, 2221, 2368; Pub. L. 111–5, div. B, title IV, §4103(a)(2), Feb. 17, 2009, 123 Stat. 487; Pub. L. 114–74, title VI, §601(b), Nov. 2, 2015, 129 Stat. 595; Pub. L. 116–159, div. C, title IV, §2401(b), (c), Oct. 1, 2020, 134 Stat. 732,733; Pub. L. 116–260, div. CC, title IV, §402(e), Dec. 27, 2020, 134 Stat. 3001.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1844, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 313; amended Pub. L. 90–248, title I, §167, Jan. 2, 1968, 81 Stat. 874; Pub. L. 92–603, title II, §203(e), Oct. 30, 1972, 86 Stat. 1377; Pub. L. 97–248, title I, §124(c), Sept. 3, 1982, 96 Stat. 364; Pub. L. 98–21, title VI, §606(a)(3)(F), (G), Apr. 20, 1983, 97 Stat. 171; Pub. L. 98–369, div. B, title III, §2354(b)(16), July 18, 1984, 98 Stat. 1101; Pub. L. 100–360, title II, §211(c)(2), July 1, 1988, 102 Stat. 738; Pub. L. 101–234, title II, §202(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 105–33, title IV, §4571(b)(2), Aug. 5, 1997, 111 Stat. 464; Pub. L. 106–554, §1(a)(6) \[title VI, §606(a)(2)(D)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–558; Pub. L. 108–173, title II, §§222(l)(2)(C), 241(b)(2)(B), title VIII, §811(b)(2), Dec. 8, 2003, 117 Stat. 2206, 2221, 2368; Pub. L. 111–5, div. B, title IV, §4103(a)(2), Feb. 17, 2009, 123 Stat. 487; Pub. L. 114–74, title VI, §601(b), Nov. 2, 2015, 129 Stat. 595; Pub. L. 116–159, div. C, title IV, §2401(b), (c), Oct. 1, 2020, 134 Stat. 732, 733; Pub. L. 116–260, div. CC, title IV, §402(e), Dec. 27, 2020, 134 Stat. 3001.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -131,6 +133,8 @@ Subsec. (a)(1)(B)(i). Pub. L. 98–21, §606(a)(3)(G), substituted "1395r(a)(4)"
 <b>1968</b>—Subsec. (a). Pub. L. 90–248, §167(a), designated existing provisions as par. (1), inserted provision for deposit of Government contribution in Trust Fund, and added par. (2).
 
 Subsec. (b). Pub. L. 90–248, §167(b), substituted "1969" for "1967".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

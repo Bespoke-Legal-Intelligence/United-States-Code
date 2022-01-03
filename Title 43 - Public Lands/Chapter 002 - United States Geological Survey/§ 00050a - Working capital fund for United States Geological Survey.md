@@ -14,7 +14,7 @@ Provisions relating to the special fund authorized by Public Law 99–190, refer
 
 #### Prior Provisions
 
-A prior section 50a, Pub. L. 99–190, §101(d) \[title I\], Dec. 19, 1985, 99 Stat. 1224, 1231, related to deposit of amortization fees from Geological Survey providing telecommunications services.
+A prior section 50a, Pub. L. 99–190, §101(d) \[title I\], Dec. 19, 1985, 99 Stat. 1224, 1231, related to deposit ofamortization fees from Geological Survey providing telecommunications services.
 
 #### Amendments
 

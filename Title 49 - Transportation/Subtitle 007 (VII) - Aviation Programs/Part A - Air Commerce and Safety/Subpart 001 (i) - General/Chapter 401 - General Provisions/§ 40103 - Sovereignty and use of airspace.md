@@ -148,6 +148,8 @@ In subsection (d), the words "including the Canal Zone" are omitted because of t
 
 In subsection (e), before clause (1), the words "any landing area" are omitted as being included in the definition of "air navigation facility" in section 40102(a) of the revised title. The word "only" is added for clarity. In clause (2), the words "on September 3, 1982" are added for clarity.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Regulations
 
 Pub. L. 85–726, title VI, §613(a), (b), as added by Pub. L.101–508, title IX, §9124, Nov. 5, 1990, 104 Stat. 1388–370, provided that:
@@ -182,7 +184,7 @@ Resiliency Recommendations.—Not later than 180 days after the date of enactmen
 
 #### Air Shows
 
-Pub. L. 115–254, div. B, title V, §512, Oct. 5, 2018, 132 Stat. 3356, provided that: "On an annual basis, the Administrator \[of the Federal Aviation Administration\] shall work with representatives of \[Federal Aviation\] Administration-approved air shows, the general aviation community, and stadiums and other large outdoor events and venues to identify and resolve, to the maximum extent practicable, scheduling conflicts between Administration-approved air shows and large outdoor events and venues where—
+Pub. L. 115–254, div. B, title V, §512, Oct. 5, 2018, 132 Stat. 3356, provided that: "On an annual basis, the Administrator \[of the Federal Aviation Administration\] shall work with representatives of \[Federal Aviation\] Administration-approved air shows, the general aviation community, and stadiums and other large outdoor events and venues to identify and resolve, to the maximum extent practicable, scheduling conflicts betweenAdministration-approved air shows and large outdoor events and venues where—
 
 &emsp;"(1) flight restrictions will be imposed pursuant to section 521 of title V of division F of Public Law 108–199 (118 Stat. 343) \[set out below\]; or
 
@@ -306,7 +308,7 @@ Redesign.—The Administrator \[of the Federal Aviation Administration\], with a
 
 "(c)
 
-Report.—Not later than December 31, 2000, the Administrator shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the Administrator's comprehensive national airspace redesign. The report shall include projected milestones for completion of the redesign and shall also include a date for completion.
+Report.—Not later than December 31, 2000, the Administrator shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on theAdministrator's comprehensive national airspace redesign. The report shall include projected milestones for completion of the redesign and shall also include a date for completion.
 
 "(d)
 

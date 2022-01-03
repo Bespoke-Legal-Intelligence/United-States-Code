@@ -4,9 +4,13 @@ There shall be a Deputy Director of the Foundation (referred to in this chapter 
 
 (May 10, 1950, ch. 171, §6, as added Pub. L. 90–407, §4, July 18, 1968, 82 Stat. 363; amended Pub. L. 99–383, §7(b)(1), Aug. 21, 1986, 100 Stat. 814.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1986</b>—Pub. L. 99–383 struck out subsec. (a) designation and struck out subsec. (b) which provided for appointment of four Assistant Directors of the Foundation.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

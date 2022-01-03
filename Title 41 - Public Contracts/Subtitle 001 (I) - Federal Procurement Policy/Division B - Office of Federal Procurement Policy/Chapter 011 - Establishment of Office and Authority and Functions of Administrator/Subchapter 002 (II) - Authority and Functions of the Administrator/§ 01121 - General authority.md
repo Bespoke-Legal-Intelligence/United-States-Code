@@ -32,11 +32,11 @@ Application of other laws.—The authority of an executive agency under another 
 
 (d)
 
-When Certain Agencies Are Unable To Agree or Fail To Act.—In any instance in which the Administrator determines that the Department of Defense, the National Aeronautics and Space Administration, and the General Services Administration are unable to agree on or fail to issue Government-wide regulations, procedures, and forms in a timely manner, including regulations, procedures, and forms necessary to implement prescribed policy the Administrator initiates under subsection (b), the Administrator, with due regard for applicable laws and the program activities of the executive agencies and consistent with the policies and functions set forth in this division, shall prescribe Government-wide regulations, procedures, and forms which executive agencies shall follow in procuring items listed in subsection (c)(1).
+When Certain Agencies Are Unable To Agree or Fail To Act.—In any instance in which the Administrator determines that the Department of Defense, the National Aeronautics and Space Administration, and the General Services Administration are unable to agree on or fail to issue Government-wide regulations, procedures, and forms in a timely manner, including regulations, procedures, and forms necessary to implement prescribed policy the Administrator initiates under subsection (b), theAdministrator, with due regard for applicable laws and the program activities of the executive agencies and consistent with the policies and functions set forth in this division, shall prescribe Government-wide regulations, procedures, and forms which executive agencies shall follow in procuring items listed in subsection (c)(1).
 
 (e)
 
-Oversight of Procurement Regulations of Other Agencies.—The Administrator, with the concurrence of the Director of the Office of Management and Budget, and with consultation with the head of the agency concerned, may deny the promulgation of or rescind any Government-wide regulation or final rule or regulation of any executive agency relating to procurement if the Administrator determines that the rule orregulation is inconsistent with any policies, regulations, or procedures issued pursuant to subsection (b).
+Oversight of Procurement Regulations of Other Agencies.—The Administrator, with the concurrence of the Director of the Office of Management and Budget, and with consultation with the head of the agency concerned, may deny the promulgation of or rescind any Government-wide regulation or final rule or regulation of any executive agency relating to procurement if the Administrator determines that the rule or regulation is inconsistent with any policies, regulations, or procedures issued pursuant to subsection (b).
 
 (f)
 

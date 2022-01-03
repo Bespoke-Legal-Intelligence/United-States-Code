@@ -80,7 +80,7 @@ Pub. L. 116–343, Jan. 13, 2021, 134 Stat. 5136, provided that:
 
 &emsp;"(5) In 2004, OAS General Assembly Resolution 2044 (XXXIV–O/04) appealed for the 'strengthening of legislatures, as well as inter-parliamentary cooperation on key items of the inter-American agenda, with a view, in particular, to generating initiatives to fight corruption, poverty, inequality, and social exclusion'.
 
-&emsp;"(6) In 2005, OAS General Assembly Resolution 2095 (XXXV–O/05) called on the OAS Secretariat to 'invite\[. . .\] the presidents or speakers of the national legislative institutions of the Americas, i.e., congresses, parliaments, or national assemblies, \[. . .\] to attend a special meeting of the Permanent Council \[. . .\] for the initiation of a dialogue on topics on the hemispheric agenda'.
+&emsp;"(6) In 2005, OAS General Assembly Resolution 2095 (XXXV–O/05) called on the OAS Secretariat to 'invite \[. . .\] the presidents or speakers of the national legislative institutions of the Americas, i.e., congresses, parliaments, or national assemblies, \[. . .\] to attend a special meeting of the Permanent Council \[. . .\] for the initiation of a dialogue on topics on the hemispheric agenda'.
 
 &emsp;"(7) In 2014 and 2015, the OAS Secretariat expanded its engagement with elected national legislators from OAS member states by convening two meetings of presidents of national legislatures, first in Lima, Peru and subsequently in Santiago, Chile.
 

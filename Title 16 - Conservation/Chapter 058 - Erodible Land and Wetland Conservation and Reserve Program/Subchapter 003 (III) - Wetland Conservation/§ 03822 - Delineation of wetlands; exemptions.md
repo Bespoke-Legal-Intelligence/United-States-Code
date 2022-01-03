@@ -172,7 +172,7 @@ A person shall be afforded the right to appeal, under section 3843 <sup>1</sup>
 
 #### (i) Restoration
 
-Any person who is determined to be ineligible for program benefits under section 3821 of this title for any crop year shall not be ineligible forsuch program benefits under such section for any subsequent crop year if, prior to the beginning of such subsequent crop year, the person has fully restored the characteristics of the converted wetland to its prior wetland state or has otherwise mitigated for the loss of wetland values, as determined by the Secretary, through the restoration, enhancement, or creation of wetland values in the same general area of the local watershed as the converted wetland.
+Any person who is determined to be ineligible for program benefits under section 3821 of this title for any crop year shall not be ineligible for such program benefits under such section for any subsequent crop year if, prior to the beginning of such subsequent crop year, the person has fully restored the characteristics of the converted wetland to its prior wetland state or has otherwise mitigated for the loss of wetland values, as determined by the Secretary, through the restoration, enhancement, or creation of wetland values in the same general area of the local watershed as the converted wetland.
 
 #### (j) Determinations; restoration and mitigation plans; monitoring activities
 
@@ -199,6 +199,8 @@ Technical determinations, the development of restoration and mitigation plans, a
 &emsp;The Secretary shall develop the appropriate policy and criteria that will allow willing persons to access existing mitigation banks, under this section or any other authority, that will serve the purposes of this section without requiring the Secretary to hold an easement, in whole or in part, in a mitigation bank.
 
 (Pub. L. 99–198, title XII, §1222, Dec. 23, 1985, 99 Stat. 1508; Pub. L. 101–624, title XIV, §1422, Nov. 28, 1990, 104 Stat. 3573; Pub. L. 104–127, title III, §322, Apr. 4, 1996, 110 Stat. 987; Pub. L. 110–234, title II, §2003, May 22, 2008, 122 Stat. 1028; Pub. L. 110–246, §4(a), title II, §2003, June 18, 2008, 122 Stat. 1664, 1756; Pub. L. 113–79, title II, §2609, Feb. 7, 2014, 128 Stat. 761; Pub. L. 115–334, title II, §§2102, 2103, 2821(b), Dec. 20, 2018, 132 Stat. 4530, 4602.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -239,6 +241,8 @@ Subsec. (j). Pub. L. 104–127, §322(h), added subsec. (j) and struck out headi
 Subsec. (k). Pub. L. 104–127, §322(i), added subsec. (k).
 
 <b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions relating to eligibility for program benefits in connection with production of crops on certain wetlands, making program ineligibility inapplicable to pre-Dec. 23, 1985, section 3821 loans, and providing for personal exemptions from program ineligibility for actions associated with production of commodities having minimal wetland effect.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

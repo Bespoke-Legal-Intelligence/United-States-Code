@@ -48,7 +48,7 @@ In general.—The Administrator shall, upon approval of the application, provide
 
 &emsp;(2)
 
-Contracts.—The Administrator shall, to the extent practicable, enter into a contract with a private screening company from thelist provided under paragraph (1) for the provision of screening at the airport not later than 120 days after the date of approval of an application submitted by the airport operator under subsection (a) if—
+Contracts.—The Administrator shall, to the extent practicable, enter into a contract with a private screening company from the list provided under paragraph (1) for the provision of screening at the airport not later than 120 days after the date of approval of an application submitted by the airport operator under subsection (a) if—
 
 &emsp;&emsp;(A) the level of screening services and protection provided at the airport under the contract will be equal to or greater than the level that would be provided at the airport by Federal Government personnel under this chapter;
 
@@ -58,7 +58,7 @@ Contracts.—The Administrator shall, to the extent practicable, enter into a co
 
 &emsp;(3)
 
-Waivers.—The Administrator may waive the requirement of paragraph (2)(B) for any company that is a United States subsidiary with a parent company that has implemented a foreign ownership, control, or influence mitigation plan that has been approved by the Defense Security Service of the Department of Defense prior to the submission of the application. The Administrator has complete discretion to reject any application from a private screening company to provide screening services at an airport that requires a waiver under this paragraph.
+Waivers.—The Administrator may waive the requirement of paragraph (2)(B) for any company that is a United States subsidiary with a parent company that has implemented a foreign ownership, control, or influence mitigation plan that has been approved by the Defense Security Service of the Department ofDefense prior to the submission of the application. The Administrator has complete discretion to reject any application from a private screening company to provide screening services at an airport that requires a waiver under this paragraph.
 
 (e)
 
@@ -107,6 +107,8 @@ Innovative Screening Approaches and Technologies.—The Administrator shall enco
 Definition of Administrator.—In this section, the term "Administrator" means the Administrator of the Transportation Security Administration.
 
 (Added Pub. L. 107–71, title I, §108(a), Nov. 19, 2001, 115 Stat. 612; amended Pub. L. 109–90, title V, §547, Oct. 18, 2005, 119 Stat. 2089; Pub. L. 112–95, title VIII, §830(a)–(c), Feb. 14, 2012, 126 Stat. 135; Pub. L. 115–254, div. K, title I, §§1946(a), 1991(d)(17), Oct. 5, 2018, 132 Stat. 3585, 3636.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -160,13 +162,17 @@ Subsec. (h). Pub. L. 112–95, §830(c), added subsec. (h).
 
 <b>2005</b>—Subsec. (g). Pub. L. 109–90 added subsec. (g).
 
-#### Change of Name
-
-Defense Security Service of the Department of Defense changed to Defense Counterintelligence and Security Agency effective June 20, 2019, pursuant to Ex. Ord. No. 13467, set out as a note under section 3161 of Title 50, War and National Defense.
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Applications Submitted Before the Date of Enactment of Pub. L. 115–254
 
 Pub. L. 115–254, div. K, title I, §1946(c), Oct. 5, 2018, 132 Stat. 3587, provided that: "Not later than 30 days after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator \[of the Transportation Security Administration\] shall approve or deny, in accordance with section 44920(b) of title 49, United States Code, as amended by this Act, each application submitted before the date of enactment of this Act, by an airport operator under subsection (a) of that section, that is awaiting such a determination."
+
+#### <b>Executive Documents</b>
+
+#### Change of Name
+
+Defense Security Service of the Department of Defense changed to Defense Counterintelligence and Security Agency effective June 20, 2019, pursuant to Ex. Ord. No. 13467, set out as a note under section 3161 of Title 50, War and National Defense.
 
 <i><sup>1</sup></i><i> So in original. Two subsecs. (i) have been enacted.</i>
 

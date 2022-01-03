@@ -82,6 +82,8 @@ In subsection (b)(2), the words "a summary of the assessments conducted under se
 
 In subsection (b)(3), before clause (A), the words "that includes" are substituted for "The Administrator shall submit to Congress as part of the annual report required by section 315(a)" because of the restatement.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–254, §1991(d)(29)(B), substituted "Administrator of the Transportation Security Administration" for "Under Secretary" wherever appearing.
@@ -101,6 +103,8 @@ Subsec. (b). Pub. L. 105–362, §1502(b)(2), substituted "biennially" for "annu
 Subsec. (c). Pub. L. 105–362, §1502(b)(3), struck out heading and text of subsec. (c). Text read as follows: "The Administrator shall submit to Congress an annual report for each of the calendar years 1991 and 1992 on the progress being made, and the problems occurring, in carrying out section 44904 of this title. The report shall include recommendations for improving domestic air transportation security."
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–305 substituted "March 31" for "December 31".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Reporting Requirements
 

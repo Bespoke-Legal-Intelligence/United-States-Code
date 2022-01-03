@@ -8,7 +8,7 @@
 
 #### (2) Consultation
 
-&emsp;In preparing the reports required under this subsection, each corporation concerned may consult with the Secretary of the Interior for purposes of identifying the properties described in paragraph (1).
+&emsp;In preparing the reports required under this subsection, each corporation concerned mayconsult with the Secretary of the Interior for purposes of identifying the properties described in paragraph (1).
 
 #### (b) Limitation on transfer
 

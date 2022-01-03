@@ -92,7 +92,7 @@ For purposes of subsection (b)—
 
 &emsp;&emsp;&emsp;&emsp;(II) the total value of the stock of such corporation, and
 
-&emsp;&emsp;&emsp;(ii) to the extent such income or gain does not exceed the earnings and profits attributable to such stock which were earned or accumulated before the loss of citizenship and during periods that the ownership requirements of clause (i) are met.
+&emsp;&emsp;&emsp;(ii) to the extent such income or gain does not exceed the earnings and profitsattributable to such stock which were earned or accumulated before the loss of citizenship and during periods that the ownership requirements of clause (i) are met.
 
 #### (2) Gain recognition on certain exchanges
 
@@ -124,7 +124,7 @@ For purposes of subsection (b)—
 
 &emsp;&emsp;&emsp;(i) the removal of appreciated tangible personal property from the United States, and
 
-&emsp;&emsp;&emsp;(ii) any other occurrence which (without recognition of gain) results in a change in the source of the income or gain fromproperty from sources within the United States to sources outside the United States,
+&emsp;&emsp;&emsp;(ii) any other occurrence which (without recognition of gain) results in a change in the source of the income or gain from property from sources within the United States to sources outside the United States,
 
 > &emsp;&emsp;shall be treated as an exchange to which this paragraph applies.
 
@@ -252,6 +252,8 @@ This section shall not apply to any individual whose expatriation date (as defin
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this subsection, referred to in subsec. (h), is the date of enactment of Pub. L. 110–245, which was approved June 17, 2008.
@@ -272,7 +274,7 @@ A prior section 877 was renumbered section 878 of this title.
 
 &emsp;"(B) commences to be treated as a resident of a foreign country under the provisions of a tax treaty between the United States and the foreign country and who does not waive the benefits of such treaty applicable to residents of the foreign country,
 
-> shall be treated for purposes of this section and sections 2107, 2501, and 6039G in the same manner as if such resident were a citizen of the United States who lostUnited States citizenship on the date of such cessation or commencement."
+> shall be treated for purposes of this section and sections 2107, 2501, and 6039G in the same manner as if such resident were a citizen of the United States who lost United States citizenship on the date of such cessation or commencement."
 
 Subsec. (h). Pub. L. 110–245, §301(d), added subsec. (h).
 
@@ -350,6 +352,8 @@ Subsecs. (e), (f). Pub. L. 104–191, §511(f)(1), added subsec. (e) and redesig
 
 <b>1974</b>—Subsec. (b). Pub. L. 93–406 inserted reference to section 402(e)(1).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2014 Amendment
 
 Amendment by Pub. L. 113–295 effective as if included in the provisions of the Heroes Earnings Assistance and Relief Tax Act of 2008, Pub. L. 110–245, to which such amendment relates, see section 213(d) of Pub. L. 113–295, set out as a note under section 121 of this title.
@@ -368,7 +372,7 @@ Pub. L. 108–357, title VIII, §804(f), Oct. 22, 2004, 118 Stat. 1573, provided
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 effective as if included in the provisions of the Health Insurance Portability and Accountability Act of 1996, Pub. L. 104–191, towhich such amendment relates, see section 1602(i) of Pub. L. 105–34, set out as a note under section 26 of this title.
+Amendment by Pub. L. 105–34 effective as if included in the provisions of the Health Insurance Portability and Accountability Act of 1996, Pub. L. 104–191, to which such amendment relates, see section 1602(i) of Pub. L. 105–34, set out as a note under section 26 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -418,7 +422,7 @@ Amendment by Pub. L. 95–600 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1974 Amendment
 
-Amendment by Pub. L. 93–406 applicable only with respect to distributions or payments made after Dec. 31, 1973, in taxable years beginning after Dec. 31, 1973, see section 2005(d) of Pub. L. 93–406, set out as a note under section 402 of this title.
+Amendment by Pub. L. 93–406 applicable only with respect to distributions or payments made after Dec. 31, 1973, in taxable years beginning after Dec. 31, 1973, seesection 2005(d) of Pub. L. 93–406, set out as a note under section 402 of this title.
 
 #### Effective Date
 

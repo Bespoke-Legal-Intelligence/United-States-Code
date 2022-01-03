@@ -68,9 +68,13 @@ The Secretary shall furnish to each individual for whom payment has been made un
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1806, as added Pub. L. 105–33, title IV, §4311(b)(1), Aug. 5, 1997, 111 Stat. 385; amended Pub. L. 114–10, title V, §508(a), Apr. 16, 2015, 129 Stat. 169.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (c). Pub. L. 114–10 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

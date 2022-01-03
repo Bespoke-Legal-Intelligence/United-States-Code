@@ -56,7 +56,7 @@
 
 #### (2) Authority to review certain contracts
 
-&emsp;The Oversight Board may establish policies to require prior Oversight Board approval of certain contracts, including leases and contracts to a governmental entity or government-owned corporations rather than private enterprises that are proposed to be executed by the territorial government, to ensure such proposed contracts promote market competition and are not inconsistent with the approved Fiscal Plan.
+&emsp;The Oversight Board may establish policies to require prior Oversight Board approval ofcertain contracts, including leases and contracts to a governmental entity or government-owned corporations rather than private enterprises that are proposed to be executed by the territorial government, to ensure such proposed contracts promote market competition and are not inconsistent with the approved Fiscal Plan.
 
 #### (3) Sense of Congress
 
@@ -78,7 +78,7 @@
 
 #### (2) No action permitted until analysis received
 
-&emsp;The Legislature shall not adopt a reprogramming, and no officer or employee ofthe territorial government may carry out any reprogramming, until the Oversight Board has provided the Legislature with an analysis that certifies such reprogramming will not be inconsistent with the Fiscal Plan and Budget.
+&emsp;The Legislature shall not adopt a reprogramming, and no officer or employee of the territorial government may carry out any reprogramming, until the Oversight Board has provided the Legislature with an analysis that certifies such reprogramming will not be inconsistent with the Fiscal Plan and Budget.
 
 #### (3) Prohibition on action until Oversight Board is appointed
 
@@ -105,6 +105,8 @@ In taking actions under this chapter, the Oversight Board shall not exercise app
 &emsp;(4) preserve and maintain federally funded mass transportation assets.
 
 (Pub. L. 114–187, title II, §204, June 30, 2016, 130 Stat. 570.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

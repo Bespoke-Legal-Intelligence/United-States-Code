@@ -38,7 +38,7 @@ Each annual report required by subsection (a) shall contain—
 
 &emsp;&emsp;(B) the performance of the privately owned enterprises resulting from such transformation; and
 
-&emsp;&emsp;(C) the contributions of development finance companies toward strengthening the private sector in member borrowing countries.
+&emsp;&emsp;(C) the contributions of development finance companies toward strengthening theprivate sector in member borrowing countries.
 
 #### (c) Definitions
 
@@ -74,7 +74,7 @@ Upon request of the Committee on Banking, Finance and Urban Affairs of the House
 
 &emsp;The Advisory Committee should consist of members appointed by the Secretary of the Treasury, after appropriate consultations with the relevant organizations. Such members should include representatives from industry, representatives from agriculture, representatives from organized labor, representatives from banking and financial services, and representatives from nongovernmental environmental and human rights organizations.
 
-(Pub. L. 95–118, title XVII, §1701, as added Pub. L. 101–240, title V, §541(a), Dec. 19, 1989, 103 Stat. 2514; amended Pub. L. 101–513, title V, §562(c)(10)(A), Nov. 5, 1990, 104 Stat. 2036; Pub. L. 104–208, div. A, title I, §101(c) \[title VII, §710(a)\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–181; Pub. L.105–277, div. A, §101(d) \[title VI, §610(b)\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–228.)
+(Pub. L. 95–118, title XVII, §1701, as added Pub. L. 101–240, title V, §541(a), Dec. 19, 1989, 103 Stat. 2514; amended Pub. L. 101–513, title V, §562(c)(10)(A), Nov. 5, 1990, 104 Stat. 2036; Pub. L. 104–208, div. A, title I, §101(c) \[title VII, §710(a)\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–181; Pub. L. 105–277, div. A, §101(d) \[title VI, §610(b)\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–228.)
 
 #### <b>Editorial Notes</b>
 

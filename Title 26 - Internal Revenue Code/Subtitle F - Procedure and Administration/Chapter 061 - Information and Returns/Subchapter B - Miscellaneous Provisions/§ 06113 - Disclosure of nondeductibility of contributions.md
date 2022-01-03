@@ -50,9 +50,13 @@ For purposes of this section—
 
 (Added Pub. L. 100–203, title X, §10701(a), Dec. 22, 1987, 101 Stat. 1330–457.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 6113 was renumbered 6116 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -20,9 +20,13 @@ May 25, 1933, ch. 37, 48 Stat. 73 (less last sentence); Aug. 9, 1946, ch. 932, 6
 
 The word "regulations" is substituted for the words "such rules and regulations". Since the Naval Academy is now accredited, the words "from and after the date of accrediting of said Academy" are omitted as executed.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 6967 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

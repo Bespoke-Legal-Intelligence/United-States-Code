@@ -7,6 +7,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1980</b>—Pub. L. 96–589, §3(a)(1), Dec. 24, 1980, 94 Stat. 3397, added subchapter V heading "Title 11 Cases" and items 1398 and 1399.

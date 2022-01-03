@@ -2,7 +2,9 @@
 
 Section, Pub. L. 89–10, title III, §3122, as added Pub. L. 107–110, title III, §301, Jan. 8, 2002, 115 Stat. 1702, related to achievement objectives and accountability.
 
-A prior section 6842, Pub. L. 89–10, title III, §3132, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3645, related to school technology resource grants, prior to the general amendment of this subchapter by Pub. L. 107–110.
+A prior section 6842, Pub. L. 89–10, title III, §3132, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat.3645, related to school technology resource grants, prior to the general amendment of this subchapter by Pub. L. 107–110.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of Repeal
 

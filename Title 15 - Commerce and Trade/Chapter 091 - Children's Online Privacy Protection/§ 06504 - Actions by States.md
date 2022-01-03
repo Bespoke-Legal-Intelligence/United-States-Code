@@ -82,6 +82,8 @@ In any case in which an action is instituted by or on behalf of the Commission f
 
 (Pub. L. 105–277, div. C, title XIII, §1305, Oct. 21, 1998, 112 Stat. 2681–733.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 For effective date of section, see section 1308 of Pub. L. 105–277, set out as a note under section 6501 of this title.

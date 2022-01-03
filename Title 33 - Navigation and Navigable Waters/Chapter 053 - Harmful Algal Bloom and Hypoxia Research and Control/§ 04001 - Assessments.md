@@ -34,7 +34,7 @@ The President, through the Committee on Environment and Natural Resources of the
 
 #### (b) Assessment of harmful algal blooms
 
-(1) Not later than 12 months after November 13, 1998, the Task Force, in cooperation with the coastal States, Indian tribes, and local governments, industry (including agricultural organizations), academic institutions, and non-governmental organizations with expertise in coastal zone management, shall complete and submit to the Congress an assessment which examines the ecological and economic consequences of harmful algal blooms, alternatives for reducing, mitigating, and controlling harmful algal blooms, and the social and economic costs and benefits of such alternatives.
+(1) Not later than 12 months after November 13, 1998, the Task Force, in cooperation with the coastal States, Indian tribes, and local governments, industry (including agricultural organizations), academic institutions, and non-governmental organizations with expertise in coastal zone management, shall complete and submit to the Congress an assessment which examines theecological and economic consequences of harmful algal blooms, alternatives for reducing, mitigating, and controlling harmful algal blooms, and the social and economic costs and benefits of such alternatives.
 
 (2) The assessment shall—
 
@@ -72,7 +72,7 @@ The President, through the Committee on Environment and Natural Resources of the
 
 #### (3) Publication and opportunity for comment
 
-&emsp;At least 90 days before submitting the report to the Congress, the President shall cause asummary of the proposed plan to be published in the Federal Register for a public comment period of not less than 60 days.
+&emsp;At least 90 days before submitting the report to the Congress, the President shall cause a summary of the proposed plan to be published in the Federal Register for a public comment period of not less than 60 days.
 
 #### (4) Federal assistance
 
@@ -96,7 +96,7 @@ The President, through the Committee on Environment and Natural Resources of the
 
 #### (f) Scientific assessments of hypoxia
 
-(1) Not less than once every 5 years the Task Force shall complete and submit to the Congress a scientific assessment of hypoxia in United States coastal waters including the Great Lakes. The first such assessment shall be completed not less than 24 months after December 10, 2004.
+(1) Not less than once every 5 years the Task Force shall complete and submit to the Congress a scientific assessment of hypoxia in United States coastal waters including the GreatLakes. The first such assessment shall be completed not less than 24 months after December 10, 2004.
 
 (2) The assessments under this subsection shall—
 

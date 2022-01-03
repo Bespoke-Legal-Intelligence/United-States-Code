@@ -10,7 +10,7 @@ Within eighteen months after submitting the report specified in subsection (a), 
 
 #### (c) Report on wastewater lagoons
 
-The Administrator shall, within thirty-six months after November 8, 1984, submit a report to Congress concerning wastewater lagoons at publicly owned treatment works and their effecton groundwater quality. Such report shall include—
+The Administrator shall, within thirty-six months after November 8, 1984, submit a report to Congress concerning wastewater lagoons at publicly owned treatment works and their effect on groundwater quality. Such report shall include—
 
 &emsp;(1) the number and size of such lagoons;
 

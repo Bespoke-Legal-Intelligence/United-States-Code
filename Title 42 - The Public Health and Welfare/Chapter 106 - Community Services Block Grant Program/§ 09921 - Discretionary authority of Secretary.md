@@ -32,7 +32,7 @@
 
 &emsp;The Secretary shall provide the assistance described in paragraph (1) for rural community development activities, which shall include providing—
 
-&emsp;&emsp;(A) grants to private, nonprofit corporations to enable the corporations to provide assistance concerning home repair to rural low-income families and concerning planning and developing low-income rural rental housing units; and
+&emsp;&emsp;(A) grants to private, nonprofit corporations to enable the corporations to provideassistance concerning home repair to rural low-income families and concerning planning and developing low-income rural rental housing units; and
 
 &emsp;&emsp;(B) grants to multistate, regional, private, nonprofit organizations to enable the organizations to provide training and technical assistance to small, rural communities concerning meeting their community facility needs.
 
@@ -50,9 +50,13 @@ The Secretary shall compile an annual report containing a summary of the evaluat
 
 (Pub. L. 97–35, title VI, §680, as added Pub. L. 105–285, title II, §201, Oct. 27, 1998, 112 Stat. 2750.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 680 of Pub. L. 97–35 was classified to section 9909 of this title, prior to the general amendment of this chapter by Pub. L. 105–285.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

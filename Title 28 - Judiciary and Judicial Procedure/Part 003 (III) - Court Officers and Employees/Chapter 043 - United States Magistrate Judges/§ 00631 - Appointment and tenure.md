@@ -1,6 +1,6 @@
 ### §631. Appointment and tenure
 
-(a) The judges of each United States district court and the district courts of the Virgin Islands, Guam, and the Northern Mariana Islands shall appoint United States magistrate judges in such numbers and to serve at such locations within the judicial districts as the Judicial Conference may determine under this chapter. In the case of a magistrate judge appointed by the district court of the Virgin Islands, Guam, or the Northern Mariana Islands, this chapter shall apply as though the court appointing such a magistrate judge were a United States district court. Where there is more than one judge of a district court, the appointment, whether an original appointment or a reappointment, shall be by the concurrence of a majority of all the judges of such district court, and when there is no such concurrence, then by the chief judge. Where the conference deems it desirable, a magistrate judge may be designated to serve in one or more districts adjoining the district for which he is appointed. Such a designation shall be made by the concurrence of a majority of the judges of each of the district courts involved and shall specify the duties to be performed by the magistrate judge in the adjoining district or districts.
+(a) The judges of each United States district court and the district courts of the Virgin Islands, Guam, and the Northern Mariana Islands shall appoint United States magistrate judges in such numbers and to serve at such locations within the judicial districts as the Judicial Conference may determine under this chapter. In the case of a magistrate judge appointed by the district court of the Virgin Islands, Guam, or the Northern Mariana Islands, this chapter shall apply as though the court appointing such a magistrate judge were a United States district court. Where there is more than one judge of a district court, the appointment, whether an original appointment or a reappointment, shall be by the concurrence of a majority of all the judges of such district court, and when there is no such concurrence, then by the chief judge. Where the conference deems it desirable, a magistrate judge may be designated to serve in one or more districts adjoining the district for which he is appointed. Such a designation shall be made by the concurrence of a majority of the judges of each of the district courts involved andshall specify the duties to be performed by the magistrate judge in the adjoining district or districts.
 
 (b) No individual may be appointed or reappointed to serve as a magistrate judge under this chapter unless:
 
@@ -44,7 +44,7 @@
 
 (k) A United States magistrate judge appointed under this chapter shall be exempt from the provisions of subchapter I of chapter 63 of title 5.
 
-(June 25, 1948, ch. 646, 62 Stat. 915; May 24, 1949, ch. 139, §73, 63 Stat. 100; July 9, 1952, ch. 609, §1, 66 Stat. 509; July 25, 1956, ch. 722, 70 Stat. 642; Pub. L. 90–578, title I, §101, Oct. 17, 1968, 82 Stat. 1108; Pub. L. 94–520, §2, Oct. 17, 1976, 90 Stat. 2458; Pub. L. 95–598, title II, §231, Nov. 6, 1978, 92 Stat. 2665; Pub. L. 96–82, §3(a)–(d), Oct. 10, 1979, 93 Stat. 644, 645; Pub. L. 97–230, Aug. 6, 1982, 96 Stat. 255; Pub. L. 99–651, title II, §201(a)(1), Nov. 14,1986, 100 Stat. 3646; Pub. L. 100–659, §5, Nov. 15, 1988, 102 Stat. 3918; Pub. L. 100–702, title X, §1003(a)(2), Nov. 19, 1988, 102 Stat. 4665; Pub. L. 101–45, title II, §104, June 30, 1989, 103 Stat. 122; Pub. L. 101–650, title III, §§308(b), 321, Dec. 1, 1990, 104 Stat. 5112, 5117; Pub. L. 103–353, §2(c), Oct. 13, 1994, 108 Stat. 3169; Pub. L. 106–518, title II, §201, Nov. 13, 2000, 114 Stat. 2412; Pub. L. 110–177, title V, §504, Jan. 7, 2008, 121 Stat. 2542; Pub. L. 111–174, §2, May 27, 2010, 124 Stat. 1216.)
+(June 25, 1948, ch. 646, 62 Stat. 915; May 24, 1949, ch. 139, §73, 63 Stat. 100; July 9, 1952, ch. 609, §1, 66 Stat. 509; July 25, 1956, ch. 722, 70 Stat. 642; Pub. L. 90–578, title I, §101, Oct. 17, 1968, 82 Stat. 1108; Pub. L. 94–520, §2, Oct. 17, 1976, 90 Stat. 2458; Pub. L. 95–598, title II, §231, Nov. 6, 1978, 92 Stat. 2665; Pub. L. 96–82, §3(a)–(d), Oct. 10, 1979, 93 Stat. 644, 645; Pub. L. 97–230, Aug. 6, 1982, 96 Stat. 255; Pub. L. 99–651, title II, §201(a)(1), Nov. 14, 1986, 100 Stat. 3646; Pub. L. 100–659, §5, Nov. 15, 1988, 102 Stat. 3918; Pub. L. 100–702, title X, §1003(a)(2), Nov. 19, 1988, 102 Stat. 4665; Pub. L. 101–45, title II, §104, June 30, 1989, 103 Stat. 122; Pub. L. 101–650, title III, §§308(b), 321, Dec. 1, 1990, 104 Stat. 5112, 5117; Pub. L. 103–353, §2(c), Oct. 13, 1994, 108 Stat. 3169; Pub. L. 106–518, title II, §201, Nov. 13, 2000, 114 Stat. 2412; Pub. L. 110–177, title V, §504, Jan. 7, 2008, 121 Stat. 2542; Pub. L. 111–174, §2, May 27, 2010, 124 Stat. 1216.)
 
 #### Historical and Revision Notes
 
@@ -86,7 +86,7 @@ The provisions of sections 1a and 403c–9 of title 16, U.S.C., 1940 ed., relati
 
 By Senate amendment, "Big Bend" and "Crater Lake" were inserted in subsection (a) of this section, and section 158a of title 16, U.S.C., which was derived from act May 15, 1947, ch. 55, §1, 61 Stat. 91, accordingly became an additional source of this section, such Act being included in the schedule of repeals. See 80th Congress Senate Report No. 1559.
 
-As finally enacted, act May 15, 1947, ch. 57, 61 Stat. 92, which amended section 403c–5 of title 16, U.S.C., became an additional source of this section and was accordingly included in the schedule of repeals by Senate amendment. See 80th Congress Senate Report No. 1559.
+As finally enacted, act May 15, 1947, ch. 57, 61 Stat. 92, which amended section 403c–5 of title 16, U.S.C., becamean additional source of this section and was accordingly included in the schedule of repeals by Senate amendment. See 80th Congress Senate Report No. 1559.
 
 #### 1949 Act
 
@@ -142,7 +142,7 @@ Subsecs. (g) to (k). Pub. L. 96–82, §3(d)(1), redesignated former subsecs. (f
 
 <b>1978</b>—Subsec. (c). Pub. L. 95–598 directed the amendment of subsec. (c) by substituting "of the conference," for "of the conference, a part-time referee in bankruptcy or" and "magistrate and" for "magistrate and part-time referee in bankruptcy,", which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–520, §2(1), (2), inserted "and the district court of the Virgin Islands" after "United States district court", and provided that in the case of a magistrate appointed by the district court of the Virgin Islands, this chapter was to apply as though the appointing court were a United States District Court.
+<b>1976</b>—Subsec. (a). Pub. L. 94–520, §2(1), (2), inserted "and the district court of the Virgin Islands" after "United States district court", and provided that in the case of a magistrate appointed by the district court of the Virgin Islands, this chapter was to apply asthough the appointing court were a United States District Court.
 
 Subsec. (b). Pub. L. 94–520, §2(3), provided that a magistrate appointed under this chapter to serve in the Virgin Islands, must be a member in good standing of the bar of the district court of the Virgin Islands.
 
@@ -200,7 +200,7 @@ Pub. L. 90–578, title IV, §403, Oct. 17, 1968, 82 Stat. 1119, provided that: 
 
 #### Short Title of 1979 Amendment
 
-Pub. L. 96–82, §1, Oct. 10, 1979, 93 Stat. 643, provided: "That this Act \[amending this section, sections 604, 633, 634, 635, 636, and 1915 of this title, and section 3401 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under this section\] may be cited as the 'Federal Magistrate Act of 1979'."
+Pub. L. 96–82, §1, Oct. 10, 1979, 93 Stat. 643, provided: "That this Act \[amending this section, sections 604, 633,634, 635, 636, and 1915 of this title, and section 3401 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under this section\] may be cited as the 'Federal Magistrate Act of 1979'."
 
 #### Short Title of 1968 Amendment
 

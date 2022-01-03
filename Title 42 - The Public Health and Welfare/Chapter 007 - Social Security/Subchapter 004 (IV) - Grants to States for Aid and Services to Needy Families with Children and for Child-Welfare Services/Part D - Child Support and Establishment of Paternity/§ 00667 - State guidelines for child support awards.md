@@ -2,7 +2,7 @@
 
 #### (a) Establishment of guidelines; method
 
-Each State, as a condition for having its State plan approved under this part, must establish guidelines for child support award amounts within the State. The guidelines may be established by law or by judicial or administrative action, and shall be reviewed at least once every 4 years to ensure that their application results in the determination of appropriate child support award amounts.
+Each State, as a condition for having its State plan approved under this part, must establish guidelines for child support award amounts within the State. The guidelines may be established by law or by judicial or administrative action, and shall be reviewed at least once every4 years to ensure that their application results in the determination of appropriate child support award amounts.
 
 #### (b) Availability of guidelines; rebuttable presumption
 
@@ -16,11 +16,15 @@ The Secretary shall furnish technical assistance to the States for establishing 
 
 (Aug. 14, 1935, ch. 531, title IV, §467, as added Pub. L. 98–378, §18(a), Aug. 16, 1984, 98 Stat. 1321; amended Pub. L. 100–485, title I, §103(a), (b), Oct. 13, 1988, 102 Stat. 2346.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–485, §103(b), inserted ", and shall be reviewed at least once every 4 years to ensure that their application results in the determination of appropriate child support award amounts" before period at end.
 
 Subsec. (b). Pub. L. 100–485, §103(a), designated existing provisions as par. (1), struck out ", but need not be binding upon such judges or other officials" after "within such State", and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

@@ -64,9 +64,11 @@ For purposes of this section, the term "home health services" has the meaning pr
 
 (July 1, 1944, ch. 373, title III, §339, as added Pub. L. 97–414, §6(a), Jan. 4, 1983, 96 Stat. 2057; amended Pub. L. 98–555, §6, Oct. 30, 1984, 98 Stat. 2856.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-Subsections (a) and (b) (as such subsections were in effect prior to October 1, 1981), referred to in subsec. (c)(1), mean subsections (a) and (b) of section 255 of this title prior to repeal of section 255 by Pub. L. 97–35, title IX, §902(b), Aug. 13, 1981, 95 Stat. 559, effective Oct. 1, 1981.
+Subsections (a) and (b) (as such subsections were in effect prior to October 1, 1981), referred to in subsec. (c)(1), mean subsections (a) and (b) of section 255 of thistitle prior to repeal of section 255 by Pub. L. 97–35, title IX, §902(b), Aug. 13, 1981, 95 Stat. 559, effective Oct. 1, 1981.
 
 #### Prior Provisions
 
@@ -78,11 +80,13 @@ Another prior section 339 of act July 1, 1944, ch. 373, title III, formerly §33
 
 <b>1984</b>—Subsecs. (a)(5), (b)(5). Pub. L. 98–555 inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1985, 1986, and 1987.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee onCommerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Report to Congress Concerning Results of Studies Evaluating Home and Community Based Health Services; Studies of Reimbursement Methodologies; Investigation of Fraud; Demonstration Projects; Home Health Services, Defined
 

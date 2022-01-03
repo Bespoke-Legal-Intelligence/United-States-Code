@@ -6,15 +6,19 @@ The Secretary of the Interior and the Secretary of Agriculture shall each, in co
 
 #### (b) Implementation of programs
 
-The Secretary of the Interior shall implement the conservation and rehabilitation programs required under subsection (a) of this section onpublic land under his jurisdiction. The Secretary of the Interior shall adopt, modify, and implement the conservation and rehabilitation programs required under such subsection (a) on public land under the jurisdiction of the Chairman, but only with the prior written approval of the Atomic Energy Commission, and on public land under the jurisdiction of the Administrator, but only with the prior written approval of the Administrator. The Secretary of Agriculture shall implement such conservation and rehabilitation programs on public land under his jurisdiction.
+The Secretary of the Interior shall implement the conservation and rehabilitation programs required under subsection (a) of this section on public land under his jurisdiction. The Secretary of the Interior shall adopt, modify, and implement the conservation and rehabilitation programs required under such subsection (a) on public land under the jurisdiction of the Chairman, but only with the prior written approval of the Atomic Energy Commission, and on public land under the jurisdiction of the Administrator, but only with the prior written approval of the Administrator. The Secretary of Agriculture shall implement such conservation and rehabilitation programs on public land under his jurisdiction.
 
 (Pub. L. 86–797, title II, §201, as added Pub. L. 93–452, §2, Oct. 18, 1974, 88 Stat. 1369; amended Pub. L. 97–396, §3, Dec. 31, 1982, 96 Stat. 2005; Pub. L. 112–81, div. A, title III, §312(b)(7), Dec. 31, 2011, 125 Stat. 1354.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>2011</b>—Pub. L. 112–81 inserted section catchline and headings for subsecs. (a) and (b).
 
 <b>1982</b>—Subsec. (a). Pub. L. 97–396 inserted "of fish, wildlife, and plants" after "species".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 
@@ -52,5 +56,5 @@ Non-Federal Contributions.—The Secretary may accept and expend contributions o
 
 #### Desert Tortoise Plan
 
-Pub. L. 100–275, §12, Mar. 31, 1988, 102 Stat. 60, directed Secretary of the Interior to review status of populations of desert tortoises on lands in Nevada and other States managed by Secretary, other than lands conveyed or leased pursuant to Pub. L. 100–275, assess nature and extent of threats to continued health or stability of such populations on such lands, and prepare a comprehensive plan to address such threats, with Secretary to consult with State officials, other Federal agencies responsible for management of lands where desert tortoise populations are located, the Desert Tortoise Council, and other persons or groups identified by Secretary as having expertise relevant to requirements of this section; such review and assessment to be completed and results to be made available to the public and transmitted to certain committees of Congress no later than two years after Mar. 31, 1988, and such plan to be developed and transmitted to such committees no later than three years after Mar. 31, 1988; with a failure by Secretary to transmit such report within such three-year period not to relieve the Secretary from requirement to prepare such plan.
+Pub. L. 100–275, §12, Mar. 31, 1988, 102 Stat. 60, directed Secretary of the Interior to review status of populations of desert tortoises on lands in Nevada and other States managed by Secretary, other than lands conveyed or leased pursuant to Pub. L. 100–275, assess nature and extent of threats to continued health or stability of such populations on such lands, and prepare a comprehensive plan to address such threats, with Secretary to consult with State officials, other Federal agencies responsible for management of lands where desert tortoise populations are located, the Desert Tortoise Council, and other persons or groups identified bySecretary as having expertise relevant to requirements of this section; such review and assessment to be completed and results to be made available to the public and transmitted to certain committees of Congress no later than two years after Mar. 31, 1988, and such plan to be developed and transmitted to such committees no later than three years after Mar. 31, 1988; with a failure by Secretary to transmit such report within such three-year period not to relieve the Secretary from requirement to prepare such plan.
 

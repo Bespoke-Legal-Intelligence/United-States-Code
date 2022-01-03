@@ -20,7 +20,7 @@ The prohibition in subsection (a) applies with respect to the following Federal 
 
 #### (c) Lobbying and earmarks
 
-No Federal student aid funding under the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.) may be used to hire a registered lobbyist or pay any person or entity for securing an earmark.
+No Federal student aid funding under the Higher Education Act of 1965 (20 U.S.C. 1001 etseq.) may be used to hire a registered lobbyist or pay any person or entity for securing an earmark.
 
 #### (d) Certification
 
@@ -31,6 +31,8 @@ Each institution of higher education or other postsecondary educational institut
 The Secretary of Education shall take such actions as are necessary to ensure that the provisions of this section are implemented and enforced.
 
 (Pub. L. 110–315, title I, §119, Aug. 14, 2008, 122 Stat. 3117.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

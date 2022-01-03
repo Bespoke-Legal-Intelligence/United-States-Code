@@ -24,6 +24,8 @@ For the purposes of this chapter, the term "program or activity" and "program" m
 
 (Pub. L. 92–318, title IX, §908, as added Pub. L. 100–259, §3(a), Mar. 22, 1988, 102 Stat. 28; amended Pub. L. 103–382, title III, §391(g), Oct. 20, 1994, 108 Stat. 4023; Pub. L. 107–110, title X, §1076(j), Jan. 8, 2002, 115 Stat. 2091; Pub. L. 114–95, title IX, §9215(bb), Dec. 10, 2015, 129 Stat. 2173.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this title", meaning title IX of Pub. L. 92–318 which enacted this chapter and amended sections 203 and 213 of Title 29, Labor, and sections 2000c, 2000c–6, 2000c–9, and 2000h–2 of Title 42, The Public Health and Welfare. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of this title and Tables.
@@ -35,6 +37,8 @@ This chapter, referred to in text, was in the original "this title", meaning tit
 <b>2002</b>—Par. (2)(B). Pub. L. 107–110 substituted "7801" for "8801".
 
 <b>1994</b>—Par. (2)(B). Pub. L. 103–382 substituted "section 8801" for "section 2854(a)(10)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

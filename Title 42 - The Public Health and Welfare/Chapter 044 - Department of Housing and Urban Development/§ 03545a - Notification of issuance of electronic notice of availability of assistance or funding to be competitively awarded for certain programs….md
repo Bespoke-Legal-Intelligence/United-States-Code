@@ -4,9 +4,13 @@ The Secretary of the Department of Housing and Urban Development shall, for fisc
 
 (Pub. L. 113–76, div. L, title II, §226, Jan. 17, 2014, 128 Stat. 632.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the appropriation act cited as the credit to this section, and not as part of the Department of Housing and Urban Development Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Similar Provisions
 

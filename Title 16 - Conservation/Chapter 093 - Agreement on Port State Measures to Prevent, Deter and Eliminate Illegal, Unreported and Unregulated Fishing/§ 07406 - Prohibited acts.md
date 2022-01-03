@@ -12,6 +12,8 @@ It is unlawful for any person subject to the jurisdiction of the United States�
 
 (Pub. L. 114–81, title III, §307, Nov. 5, 2015, 129 Stat. 667.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 707(a) of the Western and Central Pacific Fisheries Convention Implementation Act, referred to in par. (4), probably means section 507(a) of title V of Pub. L. 109–479, which is classified to section 6906(a) of this title.

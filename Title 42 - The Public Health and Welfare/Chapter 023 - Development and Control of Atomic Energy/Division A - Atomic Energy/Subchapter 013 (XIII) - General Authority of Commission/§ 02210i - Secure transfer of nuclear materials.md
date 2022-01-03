@@ -2,13 +2,17 @@
 
 (a) The Commission shall establish a system to ensure that materials described in subsection (b), when transferred or received in the United States by any party pursuant to an import or export license issued pursuant to this chapter, are accompanied by a manifest describing the type and amount of materials being transferred or received. Each individual receiving or accompanying the transfer of such materials shall be subject to a security background check conducted by appropriate Federal entities.
 
-(b) Except as otherwise provided by the Commission by regulation, the materials referred to in subsection (a) are byproduct materials, source materials, special nuclear materials, high-level radioactive waste, spent nuclear fuel,transuranic waste, and low-level radioactive waste (as defined in section 10101(16) of this title).
+(b) Except as otherwise provided by the Commission by regulation, the materials referred to in subsection (a) are byproduct materials, source materials, special nuclear materials, high-level radioactive waste, spent nuclear fuel, transuranic waste, and low-level radioactive waste (as defined in section 10101(16) of this title).
 
 (Aug. 1, 1946, ch. 724, title I, §170I, as added Pub. L. 109–58, title VI, §656(a), Aug. 8, 2005, 119 Stat. 813.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 This chapter, referred to in subsec. (a), was in the original "this Act", meaning act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

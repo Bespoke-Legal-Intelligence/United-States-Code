@@ -12,7 +12,9 @@ Distilled spirits transferred pursuant to subsection (a)—
 
 &emsp;(2) may be withdrawn for any purpose authorized by this chapter, in the same manner as domestic distilled spirits.
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1366; amended Pub. L. 90–630, §3(a), Oct. 22, 1968, 82 Stat. 1328; Pub. L. 91–659, §7, Jan. 8, 1971, 84 Stat. 1967; Pub. L. 94–455, title XIX,§1905(a)(15), Oct. 4, 1976, 90 Stat. 1820; Pub. L. 96–39, title VIII, §807(a)(33), July 26, 1979, 93 Stat. 286.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1366; amended Pub. L. 90–630, §3(a), Oct. 22, 1968, 82 Stat. 1328; Pub. L. 91–659, §7, Jan. 8, 1971, 84 Stat. 1967; Pub. L. 94–455, title XIX, §1905(a)(15), Oct. 4, 1976, 90 Stat. 1820; Pub. L. 96–39, title VIII, §807(a)(33), July 26, 1979, 93 Stat. 286.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -31,6 +33,8 @@ Provisions similar to those comprising this section were contained in prior sect
 Subsec. (b). Pub. L. 91–659, §7(b), struck out "Imported" before "distilled spirits" and thus applied subsection to all distilled spirits.
 
 <b>1968</b>—Pub. L. 90–630 permitted withdrawal in bulk containers or by pipeline from customs custody to internal revenue bond without payment of internal revenue taxes of all imported distilled spirits in bulk containers, regardless of proof, extended to all such imported distilled spirits the withdrawal privileges already available to imported distilled spirits of at least 185 proof, whether or not they have been redistilled or denatured, provided that transferor's liability for the internal revenue tax ceases when the transferee's liability attaches, and established that imported bulk spirits are not eligible for the bottled in bond privileges available to domestic spirits.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1979 Amendment
 

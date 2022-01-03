@@ -4,7 +4,7 @@ The Secretary shall promulgate regulations exempting from any labeling requireme
 
 (June 25, 1938, ch. 675, §603, 52 Stat. 1054.)
 
-#### <b>Statutory Notes and Related Subsidiaries</b>
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

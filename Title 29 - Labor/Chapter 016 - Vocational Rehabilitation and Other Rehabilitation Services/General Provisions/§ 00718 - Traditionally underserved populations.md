@@ -6,7 +6,7 @@ With respect to the programs authorized in subchapters II through VII, the Congr
 
 #### (1) Racial profile
 
-&emsp;The demographic profile of America is rapidly changing. While the percentage increase from 2000 to 2010 for white Americans was 9.7 percent, the percentage increase for racial and ethnic minorities was much higher: 43.0 percent for Latinos, 12.3 percent for African-Americans, and 43.2 percent for Asian-Americans.
+&emsp;The demographic profile of America is rapidly changing. While the percentage increasefrom 2000 to 2010 for white Americans was 9.7 percent, the percentage increase for racial and ethnic minorities was much higher: 43.0 percent for Latinos, 12.3 percent for African-Americans, and 43.2 percent for Asian-Americans.
 
 #### (2) Rate of disability
 
@@ -76,7 +76,7 @@ Provisions similar to this section were contained in section 718b of this title 
 
 Prior sections 718 to 718b were repealed by Pub. L. 105–220, title IV, §403, Aug. 7, 1998, 112 Stat. 1093.
 
-Section 718, Pub. L. 93–112, §19, as added Pub. L. 102–569, title I, §109(a), Oct. 29, 1992, 106 Stat. 4363; amended Pub. L. 103–73, title I, §104, Aug. 11, 1993, 107 Stat. 719, related to carryover of funds. See section 716 of this title.
+Section 718, Pub. L. 93–112, §19, as added Pub. L. 102–569, title I, §109(a), Oct. 29, 1992, 106 Stat. 4363;amended Pub. L. 103–73, title I, §104, Aug. 11, 1993, 107 Stat. 719, related to carryover of funds. See section 716 of this title.
 
 Section 718a, Pub. L. 93–112, §20, as added Pub. L. 102–569, title I, §110(a), Oct. 29, 1992, 106 Stat. 4363; amended Pub. L. 103–73, title I, §105, Aug. 11, 1993, 107 Stat. 719, related to client assistance information. See section 717 of this title.
 

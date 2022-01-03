@@ -38,6 +38,8 @@ The head of the lead agency may adjust, by regulation, the amounts of relocation
 
 (Pub. L. 91–646, title II, §213, Jan. 2, 1971, 84 Stat. 1900; Pub. L. 100–17, title IV, §412, Apr. 2, 1987, 101 Stat. 254; Pub. L. 102–240, title I, §1055, Dec. 18, 1991, 105 Stat. 2002; Pub. L. 105–117, §2, Nov. 21, 1997, 111 Stat. 2385; Pub. L. 112–141, div. A, title I, §1521(d), July 6, 2012, 126 Stat. 578.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a)(1), (4) to (6), (b)(1), (4), and (d), was in the original "this Act", meaning Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, known as the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of this title and Tables.
@@ -66,6 +68,8 @@ Subsec. (b). Pub. L. 100–17 amended subsec. (b) generally. Prior to amendment,
 
 Subsec. (c). Pub. L. 100–17 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "The head of each Federal agency may prescribe such other regulations and procedures, consistent with the provisions of this chapter, as he deems necessary or appropriate to carry out this chapter."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2012 Amendment
 
 Amendment by Pub. L. 112–141 effective on the date of enactment of Pub. L. 112–141, see section 1521(g) of Pub. L. 112–141, set out as a note under section 308 of Title 23, Highways.
@@ -81,6 +85,8 @@ Amendment by Pub. L. 100–17 effective Apr. 2, 1987, to the extent such amendme
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
+
+#### <b>Executive Documents</b>
 
 #### Improvement of Administration and Implementation of This Chapter
 

@@ -8,7 +8,7 @@
 
 &emsp;(i) the forty-five day period specified in section 6106(e) of this title; and
 
-&emsp;(ii) an additional forty-five day period, immediately following the period described in clause (i), during which any committee of theCongress having jurisdiction over the subject matter involved may conduct hearings with respect to the report which the Commission is required to transmit under section 6106(d) of this title, and with respect to the comments and recommendations submitted by Federal departments and agencies under section 6106(e) of this title.
+&emsp;(ii) an additional forty-five day period, immediately following the period described in clause (i), during which any committee of the Congress having jurisdiction over the subject matter involved may conduct hearings with respect to the report which the Commission is required to transmit under section 6106(d) of this title, and with respect to the comments and recommendations submitted by Federal departments and agencies under section 6106(e) of this title.
 
 (B) The forty-five day period specified in subparagraph (A)(ii) shall include only days during which both Houses of the Congress are in session.
 
@@ -36,17 +36,21 @@
 
 (Pub. L. 94–135, title III, §304, Nov. 28, 1975, 89 Stat. 729; Pub. L. 95–478, title IV, §401(b), Oct. 18, 1978, 92 Stat. 1555; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 97–300, title I, §183, Oct. 13, 1982, 96 Stat. 1357; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(37)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–427.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Age Discrimination in Employment Act of 1967 (29 U.S.C. 621–634), as amended, referred to in subsec. (c)(2), is Pub. L. 90–202, Dec. 15, 1967, 81 Stat. 602, as amended, which is classified generally to chapter 14 (§621 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 29 and Tables.
 
 #### Amendments
 
-<b>1998</b>—Subsec. (c)(1). Pub. L. 105–277 substituted "Nothing" for "Except with respect to any program or activity receiving Federal financial assistance for public service employment under the Job Training Partnership Act, nothing".
+<b>1998</b>—Subsec. (c)(1). Pub. L. 105–277 substituted "Nothing" for "Except with respect to any program oractivity receiving Federal financial assistance for public service employment under the Job Training Partnership Act, nothing".
 
 <b>1978</b>—Subsec. (a)(4). Pub. L. 95–478, §401(b)(1), provided that the regulations shall not become effective until approved by the Secretary.
 
 Subsec. (a)(5). Pub. L. 95–478, §401(b)(2), substituted "July 1, 1979" for "January 1, 1979".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

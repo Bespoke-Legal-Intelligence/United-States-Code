@@ -22,7 +22,7 @@ The Congress makes the following findings and declarations:
 
 &emsp;(5) Support for democratization is a fundamental principle of United States foreign policy. As such, it naturally applies to United States policy toward Hong Kong. This will remain equally true after June 30, 1997.
 
-&emsp;(6) The human rights of the people of Hong Kong are of great importance to the United States and are directly relevant to United States interests in Hong Kong. A fully successful transition in the exercise of sovereignty over Hong Kong must safeguard human rights in and of themselves. Human rights also serveas a basis for Hong Kong's continued economic prosperity.
+&emsp;(6) The human rights of the people of Hong Kong are of great importance to the United States and are directly relevant to United States interests in Hong Kong. A fully successful transition in the exercise of sovereignty over Hong Kong must safeguard human rights in and of themselves. Human rights also serve as a basis for Hong Kong's continued economic prosperity.
 
 (Pub. L. 102–383, §2, Oct. 5, 1992, 106 Stat. 1448.)
 
@@ -142,7 +142,7 @@ United states person.—The term 'United States person' means—
 
 &emsp;&emsp;&emsp;"(ii) expressed views on various policies for the Government of Hong Kong and other internal matters relating to Hong Kong; and
 
-&emsp;&emsp;&emsp;"(iii) on April 17, 2020, asserted that both the Liaison Office of China in Hong Kong and theHong Kong and Macau Affairs Office of the State Council 'have the right to exercise supervision \* \* \* on affairs regarding Hong Kong and the mainland, in order to ensure correct implementation of the Basic Law'.
+&emsp;&emsp;&emsp;"(iii) on April 17, 2020, asserted that both the Liaison Office of China in Hong Kong and the Hong Kong and Macau Affairs Office of the State Council 'have the right to exercise supervision \* \* \* on affairs regarding Hong Kong and the mainland, in order to ensure correct implementation of the Basic Law'.
 
 &emsp;&emsp;"(D) The National People's Congress has passed laws requiring Hong Kong to pass laws banning disrespectful treatment of the national flag and national anthem of China.
 
@@ -206,7 +206,7 @@ United states person.—The term 'United States person' means—
 
 &emsp;&emsp;"(A) as set forth in section 101(1) of the United States-Hong Kong Policy Act of 1992 (22 U.S.C. 5711(1)), 'The United States should play an active role, before, on, and after July 1, 1997, in maintaining Hong Kong's confidence and prosperity, Hong Kong's role as an international financial center, and the mutually beneficial ties between the people of the United States and the people of Hong Kong.'; and
 
-&emsp;&emsp;"(B) as set forth in section 2(5) of the United States-Hong Kong Policy Act of 1992 (22 U.S.C.5701(5)), 'Support for democratization is a fundamental principle of United States foreign policy. As such, it naturally applies to United States policy toward Hong Kong. This will remain equally true after June 30, 1997.';
+&emsp;&emsp;"(B) as set forth in section 2(5) of the United States-Hong Kong Policy Act of 1992 (22 U.S.C. 5701(5)), 'Support for democratization is a fundamental principle of United States foreign policy. As such, it naturally applies to United States policy toward Hong Kong. This will remain equally true after June 30, 1997.';
 
 &emsp;"(2) although the United States recognizes that, under the Joint Declaration, the Government of China 'resumed the exercise of sovereignty over Hong Kong with effect on 1 July 1997', the United States supports the autonomy of Hong Kong in furtherance of the United States-Hong Kong Policy Act of 1992 and the Hong Kong Human Rights and Democracy Act of 2019 and advances the desire of the people of Hong Kong to continue the 'one country, two systems' regime, in addition to other obligations promulgated by China under the Joint Declaration and the Basic Law;
 
@@ -350,7 +350,7 @@ Property transactions.—The President may, pursuant to such regulations as the 
 
 &emsp;"(2)
 
-Exclusion from the united states and revocation of visa or other documentation.—In the case of a foreign person who is an individual, the President may direct the Secretary of State to deny a visa to, and the Secretary of Homeland Security to exclude from the United States, the foreign person, subject to regulatory exceptions to permit the United States to comply with the Agreement regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947, and entered into force November 21, 1947, between the United Nations and the United States, or other applicable international obligations.
+Exclusion from the united states and revocation of visa or other documentation.—In the case of a foreign person who is an individual, the President may direct the Secretary of State to deny a visa to, and the Secretary of Homeland Security toexclude from the United States, the foreign person, subject to regulatory exceptions to permit the United States to comply with the Agreement regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947, and entered into force November 21, 1947, between the United Nations and the United States, or other applicable international obligations.
 
 #### "SEC. 7. SANCTIONS WITH RESPECT TO FOREIGN FINANCIAL INSTITUTIONS THAT CONDUCT SIGNIFICANT TRANSACTIONS WITH FOREIGN PERSONS THAT CONTRAVENE THE OBLIGATIONS OF CHINA UNDER THE JOINT DECLARATION OR THE BASIC LAW.
 
@@ -736,7 +736,7 @@ In General.—Not later than 180 days after the date of the enactment of this Ac
 
 &emsp;&emsp;&emsp;"(ii) the 'social credit system' of the People's Republic of China;
 
-&emsp;"(4) an assessment of the efforts by the Government of the People's Republic of China to use the status of Hong Kong as a separate customs territory to import items into the People's Republic of China from Hong Kong in violation of the export control laws of the United States, whether as part of the Greater Bay Area plan, through the assignment by Beijing of Hong Kong as a national technology and innovationcenter, or through other programs that may exploit Hong Kong as a conduit for controlled sensitive technology;
+&emsp;"(4) an assessment of the efforts by the Government of the People's Republic of China to use the status of Hong Kong as a separate customs territory to import items into the People's Republic of China from Hong Kong in violation of the export control laws of the United States, whether as part of the Greater Bay Area plan, through the assignment by Beijing of Hong Kong as a national technology and innovation center, or through other programs that may exploit Hong Kong as a conduit for controlled sensitive technology;
 
 &emsp;"(5) an assessment of whether the Government of Hong Kong has adequately enforced sanctions imposed by the United Nations;
 
@@ -786,7 +786,7 @@ Policy Statements.—It is the policy of the United States—
 
 "(b)
 
-Response to Threat of Rendition.—Not later than 30 days after the President determines that legislation proposed or enacted by the Government of Hong Kong would put United States citizens at risk of extradition or rendition to the People's Republic of China or to other countries that lack protections for the rights of defendants, the President shall submit a report to the appropriate congressional committees that—
+Response to Threat of Rendition.—Not later than 30 days after the President determines that legislation proposed or enacted by the Government of Hong Kong would put United States citizens at risk of extradition or rendition to the People's Republic of China or to other countries that lack protections for the rightsof defendants, the President shall submit a report to the appropriate congressional committees that—
 
 &emsp;"(1) contains a strategy for protecting United States citizens and businesses in Hong Kong;
 
@@ -868,7 +868,7 @@ Current visas revoked.—
 
 &emsp;&emsp;&emsp;"(i)
 
-In general.—An alien described in subsection (a)(1) is subject to revocation of any visa or other entry documentation regardless of whenthe visa or other entry documentation is or was issued.
+In general.—An alien described in subsection (a)(1) is subject to revocation of any visa or other entry documentation regardless of when the visa or other entry documentation is or was issued.
 
 &emsp;&emsp;&emsp;"(ii)
 
@@ -976,7 +976,7 @@ Ex. Ord. No. 13936, July 14, 2020, 85 F.R. 43413, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the United States-Hong Kong Policy Act of 1992 (Public Law 102–393 \[102–383\]) \[22 U.S.C. 5701 et seq.\], the Hong Kong Human Rights and Democracy Act of 2019 (Public Law 116–76) \[see Short Title of 2019 Amendment note set out above\], the Hong Kong Autonomy Act of 2020, signed into law July 14, 2020 \[set out as a note above\], the International Emergency Economic Powers Act (50 U.S.C. 1701 <i>et seq</i>.) (IEEPA), the National Emergencies Act (50 U.S.C. 1601 <i>et seq</i>.) (NEA), section 212(f) of the Immigration and Nationality Act of 1952 (8 U.S.C. 1182(f)), and section 301 of title 3, United States Code,
 
-I, DONALD J. TRUMP, President of the United States of America, determine, pursuant to section 202 of the United States-Hong Kong Policy Act of 1992 \[22 U.S.C. 5722\], that the Special Administrative Region of Hong Kong (Hong Kong) is no longer sufficiently autonomous to justify differential treatment in relation to the People's Republic of China (PRC or China) under the particular United States laws and provisions thereof set out in this order. In late May 2020, the National People's Congress of China announced its intention to unilaterally and arbitrarily impose national security legislation on Hong Kong. This announcement was merely China's latest salvo in a series of actions that have increasingly denied autonomy and freedoms that China promised to the people of Hong Kong under the 1984 Joint Declaration of the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the People's Republic of China on the Question of Hong Kong (Joint Declaration). As a result, on May 27, 2020, the Secretary of State announced that the PRC had fundamentally undermined Hong Kong'sautonomy and certified and reported to the Congress, pursuant to sections 205 and 301 of the United States-Hong Kong Policy Act of 1992 \[22 U.S.C. 5725 and 5731\], as amended, respectively, that Hong Kong no longer warrants treatment under United States law in the same manner as United States laws were applied to Hong Kong before July 1, 1997. On May 29, 2020, I directed the heads of executive departments and agencies (agencies) to begin the process of eliminating policy exemptions under United States law that give Hong Kong differential treatment in relation to China.
+I, DONALD J. TRUMP, President of the United States of America, determine, pursuant to section 202 of the United States-Hong Kong Policy Act of 1992 \[22 U.S.C. 5722\], that the Special Administrative Region of Hong Kong (Hong Kong) is no longer sufficiently autonomous to justify differential treatment in relation to the People's Republic of China (PRC or China) under the particular United States laws and provisions thereof set out in this order. In late May 2020, the National People's Congress of China announced its intention to unilaterally and arbitrarily impose national security legislation on Hong Kong. This announcement was merely China's latest salvo in a series of actions that have increasingly denied autonomy and freedoms that China promised to the people of Hong Kong under the 1984 Joint Declaration of the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the People's Republic of China on the Question of Hong Kong (Joint Declaration). As a result, on May 27, 2020, the Secretary of State announced that the PRC had fundamentally undermined Hong Kong's autonomy and certified and reported to the Congress, pursuant to sections 205 and 301 of the United States-Hong Kong Policy Act of 1992 \[22 U.S.C. 5725 and 5731\], as amended, respectively, that Hong Kong no longer warrants treatment under United States law in the same manner as United States laws were applied to Hong Kong before July 1, 1997. On May 29, 2020, I directed the heads of executive departments and agencies (agencies) to begin the process of eliminating policy exemptions under United States law that give Hong Kong differential treatment in relation to China.
 
 China has since followed through on its threat to impose national security legislation on Hong Kong. Under this law, the people of Hong Kong may face life in prison for what China considers to be acts of secession or subversion of state power—which may include acts like last year's widespread anti-government protests. The right to trial by jury may be suspended. Proceedings may be conducted in secret. China has given itself broad power to initiate and control the prosecutions of the people of Hong Kong through the new Office for Safeguarding National Security. At the same time, the law allows foreigners to be expelled if China merely suspects them of violating the law, potentially making it harder for journalists, human rights organizations, and other outside groups to hold the PRC accountable for its treatment of the people of Hong Kong.
 
@@ -1044,7 +1044,7 @@ Sec. 4. All property and interests in property that are in the United States, th
 
 (iii) to be or have been a leader or official of:
 
-&emsp;(A) an entity, including any government entity, that has engaged in, or whose members have engagedin, any of the activities described in subsections (a)(i), (a)(ii)(A), (a)(ii)(B), or (a)(ii)(C) of this section; or
+&emsp;(A) an entity, including any government entity, that has engaged in, or whose members have engaged in, any of the activities described in subsections (a)(i), (a)(ii)(A), (a)(ii)(B), or (a)(ii)(C) of this section; or
 
 &emsp;(B) an entity whose property and interests in property are blocked pursuant to this order.
 
@@ -1070,7 +1070,7 @@ Sec. 8. (a) Any transaction that evades or avoids, has the purpose of evading or
 
 (b) Any conspiracy formed to violate any of the prohibitions set forth in this order is prohibited.
 
-Sec. 9. Nothing in this order shall prohibit transactions for the conduct of the official business of the Federal Government by employees, grantees, or contractors thereof.
+Sec. 9. Nothing in this order shall prohibit transactions for the conduct of the official business of theFederal Government by employees, grantees, or contractors thereof.
 
 Sec. 10. For the purposes of this order:
 
@@ -1101,4 +1101,8 @@ Sec. 14. (a) Nothing in this order shall be construed to impair or otherwise aff
 Sec. 15. If, based on consideration of the terms, obligations, and expectations expressed in the Joint Declaration, I determine that changes in China's actions ensure that Hong Kong is sufficiently autonomous to justify differential treatment in relation to the PRC under United States law, I will reconsider the determinations made and actions taken and directed under this order.
 
 Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+Continuation of the national emergency with respect to Hong Kong declared by Ex. Ord. No. 13936 was contained in the following:
+
+Notice of President of the United States, dated July 7, 2021, 86 F.R. 36479.
 

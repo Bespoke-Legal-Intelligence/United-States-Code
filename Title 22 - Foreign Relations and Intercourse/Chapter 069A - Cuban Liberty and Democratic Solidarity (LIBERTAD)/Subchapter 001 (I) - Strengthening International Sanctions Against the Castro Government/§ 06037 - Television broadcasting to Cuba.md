@@ -10,7 +10,7 @@ Not later than 45 days after March 12, 1996, and every three months thereafter u
 
 #### (c) Termination of broadcasting authorities
 
-Upon transmittal of a determination under section 6063(c)(3) of this title, the Television Broadcasting to Cuba Act (22 U.S.C. 1465aa and following) and the Radio Broadcasting to Cuba Act (22 U.S.C. 1465 and following) are repealed.
+Upon transmittal of a determination under section 6063(c)(3) of this title, the Television Broadcasting to Cuba Act (22 U.S.C. 1465aa andfollowing) and the Radio Broadcasting to Cuba Act (22 U.S.C. 1465 and following) are repealed.
 
 (Pub. L. 104–114, title I, §107, Mar. 12, 1996, 110 Stat. 798; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(r), Oct. 21, 1998, 112 Stat. 2681–790.)
 

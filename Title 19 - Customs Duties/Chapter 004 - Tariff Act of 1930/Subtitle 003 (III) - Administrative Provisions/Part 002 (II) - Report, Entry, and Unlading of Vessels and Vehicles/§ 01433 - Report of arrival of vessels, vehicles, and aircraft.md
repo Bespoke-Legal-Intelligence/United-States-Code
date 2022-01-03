@@ -38,7 +38,7 @@ The pilot of any aircraft arriving in the United States or the Virgin Islands fr
 
 #### (d) Presentation of documentation
 
-The master, person in charge of a vehicle, or aircraft pilot shall present, or transmit pursuant to an electronic data interchange system, to the Customs Service such information, data,documents, papers, or manifests as the Secretary may by regulation prescribe.
+The master, person in charge of a vehicle, or aircraft pilot shall present, or transmit pursuant to an electronic data interchange system, to the Customs Service such information, data, documents, papers, or manifests as the Secretary may by regulation prescribe.
 
 #### (e) Prohibition on departures and discharge
 
@@ -49,6 +49,8 @@ Unless otherwise authorized by law, a vessel, aircraft or vehicle after arriving
 &emsp;(2) discharge any passenger or merchandise (including baggage).
 
 (June 17, 1930, ch. 497, title IV, §433, 46 Stat. 711; Pub. L. 99–570, title III, §3112, Oct. 27, 1986, 100 Stat. 3207–80; Pub. L. 103–182, title VI, §652, Dec. 8, 1993, 107 Stat. 2209; Pub. L. 106–476, title I, §1452(a)(1), Nov. 9, 2000, 114 Stat. 2167.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -76,11 +78,13 @@ Subsec. (e). Pub. L. 103–182, §652(3), amended subsec. (e) generally. Prior t
 
 <b>1986</b>—Pub. L. 99–570 amended section generally. Prior to amendment, section read as follows: "Within twenty-four hours after the arrival of any vessel from a foreign port or place, or of a foreign vessel from a domestic port, or of a vessel of the United States carrying bonded merchandise, or foreign merchandise for which entry has not been made, at any port or place within the United States at which such vessel shall come to, the master shall, unless otherwise provided by law, report the arrival of the vessel at the nearest customhouse, under such regulations as the Commissioner of Customs may prescribe."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–476, except as otherwise provided, applicable with respect to goods entered, or withdrawn from warehouse, for consumption, on or after the 15th day after Nov. 9, 2000, see section 1471 of Pub. L. 106–476, set out as a note under section 58c of this title.
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as ofNov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 

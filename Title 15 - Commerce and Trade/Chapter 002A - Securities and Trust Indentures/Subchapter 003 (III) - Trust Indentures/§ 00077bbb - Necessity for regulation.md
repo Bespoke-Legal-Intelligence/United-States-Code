@@ -12,7 +12,7 @@ Upon the basis of facts disclosed by the reports of the Securities and Exchange 
 
 &emsp;(4) when the obligor is not obligated to furnish to the trustee under the indenture and to such investors adequate current information as to its financial condition, and as to the performance of its obligations with respect to the securities outstanding under such indenture; or when the communication of such information to such investors is impeded by the fact that information as to the names and addresses of such investors generally is not available to the trustee and to such investors;
 
-&emsp;(5) when the indenture contains provisions which are misleading or deceptive, or when full and fair disclosure is not made to prospective investors of the effect of important indenture provisions; or
+&emsp;(5) when the indenture contains provisions which are misleading or deceptive, or whenfull and fair disclosure is not made to prospective investors of the effect of important indenture provisions; or
 
 &emsp;(6) when, by reason of the fact that trust indentures are commonly prepared by the obligor or underwriter in advance of the public offering of the securities to be issued thereunder, such investors are unable to participate in the preparation thereof, and, by reason of their lack of understanding of the situation, such investors would in any event be unable to procure the correction of the defects enumerated in this subsection.
 
@@ -22,9 +22,13 @@ Practices of the character above enumerated have existed to such an extent that,
 
 (May 27, 1933, ch. 38, title III, §302, as added Aug. 3, 1939, ch. 411, 53 Stat. 1150.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 78jj of this title, referred to in subsec. (a), was omitted from the Code.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

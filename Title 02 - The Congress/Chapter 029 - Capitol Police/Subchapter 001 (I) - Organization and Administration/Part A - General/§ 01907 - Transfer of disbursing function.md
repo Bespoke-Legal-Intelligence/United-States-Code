@@ -12,7 +12,7 @@
 
 #### (3) Continuity of function during transition
 
-&emsp;Until such time as the Chief notifies the Chief Administrative Officer of the House of Representatives and the Secretary of the Senate that systems are in place for discharging the disbursing functions under this subsection, the House of Representatives and the Senate shall continue to serve as the disbursing authority on behalf of the Capitol Police.
+&emsp;Until such time as the Chief notifies the Chief Administrative Officer of the House ofRepresentatives and the Secretary of the Senate that systems are in place for discharging the disbursing functions under this subsection, the House of Representatives and the Senate shall continue to serve as the disbursing authority on behalf of the Capitol Police.
 
 #### (b) Treasury accounts
 
@@ -24,7 +24,7 @@
 
 #### (B) Transfer authority during transition
 
-&emsp;&emsp;Until such time as the Chief notifies the Chief Administrative Officer of the House ofRepresentatives and the Secretary of the Senate that systems are in place for discharging the disbursing functions under subsection (a), the Chief shall have the authority to transfer amounts in the account to the House of Representatives and the Senate to the extent necessary to enable the Chief Administrative Officer of the House of Representatives and the Secretary of the Senate to continue to serve as the disbursing authority on behalf of the Capitol Police pursuant to subsection (a)(3).
+&emsp;&emsp;Until such time as the Chief notifies the Chief Administrative Officer of the House of Representatives and the Secretary of the Senate that systems are in place for discharging the disbursing functions under subsection (a), the Chief shall have the authority to transfer amounts in the account to the House of Representatives and the Senate to the extent necessary to enable the Chief Administrative Officer of the House of Representatives and the Secretary of the Senate to continue to serve as the disbursing authority on behalf of the Capitol Police pursuant to subsection (a)(3).
 
 #### (2) General expenses
 

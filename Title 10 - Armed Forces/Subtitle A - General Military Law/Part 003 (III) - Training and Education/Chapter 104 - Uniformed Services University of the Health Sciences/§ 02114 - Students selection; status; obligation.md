@@ -2,9 +2,9 @@
 
 (a) Medical students at the University shall be selected under procedures prescribed by the Secretary of Defense. In so prescribing, the Secretary shall consider the recommendations of the Board. However, selection procedures prescribed by the Secretary of Defense shall emphasize the basic requirement that students demonstrate sincere motivation and dedication to a career in the uniformed services (as defined in section 1072(1) of this title).
 
-(b)(1) Medical students shall be commissioned officers of a uniformed service as determinedunder regulations prescribed by the Secretary of Defense after consulting with the Secretary of Health and Human Services. They shall be appointed as regular officers in the grade of second lieutenant or ensign and shall serve on active duty in that grade.
+(b)(1) Medical students shall be commissioned officers of a uniformed service as determined under regulations prescribed by the Secretary of Defense after consulting with the Secretary of Health and Human Services. They shall be appointed as regular officers in the grade of second lieutenant or ensign and shall serve on active duty in that grade.
 
-(2) If a member of the uniformed services selected to be a student has prior active service in a pay grade and with years of service credited for pay that would entitle the member, if the member remained in the former grade, to a rate of basic pay in excess of the rate of basic pay for regular officers in the grade of second lieutenant or ensign, the member shall be paid basic pay based on the former grade and years of service credited for pay. The amount of such basic pay for the member shall be increased on January 1 of each year by the percentage by which basic pay is increased on average on that date for that year, and the member shall continue to receive basic pay based on the former grade and years of service until the date, whether occurring before or after graduation, on which the basic pay for the member in the member's actual grade and years of service credited for pay exceeds the amount of basic pay to which the member is entitled based on the member's former grade and years of service.
+(2) If a member of the uniformed services selected to be a student has prior active service ina pay grade and with years of service credited for pay that would entitle the member, if the member remained in the former grade, to a rate of basic pay in excess of the rate of basic pay for regular officers in the grade of second lieutenant or ensign, the member shall be paid basic pay based on the former grade and years of service credited for pay. The amount of such basic pay for the member shall be increased on January 1 of each year by the percentage by which basic pay is increased on average on that date for that year, and the member shall continue to receive basic pay based on the former grade and years of service until the date, whether occurring before or after graduation, on which the basic pay for the member in the member's actual grade and years of service credited for pay exceeds the amount of basic pay to which the member is entitled based on the member's former grade and years of service.
 
 (c) Medical students who graduate shall be required to serve on active duty unless they are covered by section 2115 of this title. Medical students who graduate shall be required, except as provided in section 2115 of this title, to serve thereafter on active duty under such regulations as the Secretary of Defense or the Secretary of Health and Human Services, as appropriate, may prescribe for not less than seven years, unless sooner released. Upon completion of, or release from, the active-duty service obligation, a member of the program who served on active-duty for less than 10 years shall serve in the Ready Reserve for the period specified in the following table:
 
@@ -34,13 +34,29 @@
 
 (g) In this section, the term "commissioned service obligation" means, with respect to an officer who is a graduate of the University, the period beginning on the date of the appointment of the officer in a regular component after graduation and ending on the tenth anniversary of that appointment.
 
-(h) The Secretary of Defense shall establish such selection procedures, service obligations, and other requirements as the Secretary considers appropriate for graduate students (other than medical students) in a postdoctoral, postgraduate, or technological institute established pursuant to section 2113(e) of this title.
+(h)(1) The Secretary of Defense, in coordination with the Secretary of Health and Human Services and the Secretary of Veterans Affairs, shall establish such selection procedures, service obligations, and other requirements as the Secretary considers appropriate for graduate students (other than medical students) in a postdoctoral, postgraduate, or technological institute established pursuant to section 2113(e) of this title.
+
+(2)(A) A covered employee whose employment or service with the Department of Veterans Affairs, Public Health Service, or Coast Guard (as applicable) is in a position relevant to national security or health sciences may receive instruction at the University within the scope of such employment or service.
+
+(B) If a covered employee receives instruction at the University pursuant to subparagraph (A), the head of the Federal agency concerned shall reimburse the University for the cost of providing such instruction to the covered employee. Amounts received by the University under this subparagraph shall be retained by the University to defray the costs of such instruction.
+
+(C) Notwithstanding subsections (b) through (e) and subsection (i), the head of the Federal agency concerned shall determine the service obligations of the covered employee receiving instruction at the University pursuant to subparagraph (A) in accordance with applicable law.
+
+(D) In this paragraph—
+
+&emsp;(i) the term "covered employee" means an employee of the Department of Veterans Affairs, a civilian employee of the Public Health Service, a member of the commissioned corps of the Public Health Service, a member of the Coast Guard, or a civilian employee of the Coast Guard; and
+
+&emsp;(ii) the term "head of the Federal agency concerned" means the head of the Federal agency that employs, or has jurisdiction over the uniformed service of, a covered employee permitted to receive instruction at the University under subparagraph (A) in the relevant position described in such subparagraph.
 
 (i) A graduate of the University who is relieved of the graduate's active-duty service obligation under subsection (c) before the completion of that active-duty service obligation may be given, with or without the consent of the graduate, an alternative obligation in the same manner as provided in subparagraphs (A) and (B) of paragraph (1) of section 2123(e) of this title or paragraph (2) of such section for members of the Armed Forces Health Professions Scholarship and Financial Assistance program.
 
-(Added Pub. L. 92–426, §2(a), Sept. 21, 1972, 86 Stat. 715; amended Pub. L. 96–107, title VIII, §803(b), Nov. 9, 1979, 93 Stat. 812; Pub. L. 96–513, title I, §114, title V, §511(65), Dec. 12, 1980, 94 Stat. 2877, 2926; Pub. L. 98–525, title XV, §1535, Oct. 19, 1984, 98 Stat. 2633; Pub. L. 101–189, div. A, title V, §511(a), Nov. 29, 1989, 103 Stat. 1439; Pub. L. 101–510, div. A, title V, §533(a), (b), Nov. 5, 1990, 104 Stat. 1564; Pub. L. 103–160, div. A, title VII, §732(a), Nov. 30, 1993, 107 Stat. 1696; Pub. L. 104–106, div. A, title X, §1072(b)(3), Feb. 10, 1996, 110 Stat. 446; Pub. L. 104–201, div. A, title VII, §741(b), Sept. 23, 1996, 110 Stat. 2599; Pub. L. 105–85, div. A, title X, §1073(a)(38), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 108–375, div. A, title V, §501(e), Oct. 28, 2004, 118 Stat. 1874; Pub. L. 110–181, div. A, title V, §524(a), title IX, §954(a)(3)(B), (b)(2), Jan. 28, 2008, 122 Stat. 103, 294; Pub. L. 110–417, \[div. A\], title X, §1061(b)(8), (9), Oct. 14, 2008, 122 Stat. 4613.)
+(Added Pub. L. 92–426, §2(a), Sept. 21, 1972, 86 Stat. 715; amended Pub. L. 96–107, title VIII, §803(b), Nov. 9, 1979, 93 Stat. 812; Pub. L. 96–513, title I, §114, title V, §511(65), Dec. 12, 1980, 94 Stat. 2877, 2926; Pub. L. 98–525, title XV, §1535, Oct. 19, 1984, 98 Stat. 2633; Pub. L. 101–189, div. A, title V, §511(a), Nov. 29, 1989, 103 Stat. 1439; Pub. L. 101–510, div. A, title V, §533(a), (b), Nov. 5, 1990, 104 Stat. 1564; Pub. L. 103–160, div. A, title VII, §732(a), Nov. 30, 1993, 107 Stat. 1696; Pub. L. 104–106, div. A, title X, §1072(b)(3), Feb. 10, 1996, 110 Stat. 446; Pub. L. 104–201, div. A, title VII, §741(b), Sept. 23, 1996, 110 Stat. 2599; Pub. L. 105–85, div. A, title X, §1073(a)(38), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 108–375, div. A, title V, §501(e), Oct. 28, 2004, 118 Stat. 1874; Pub. L. 110–181, div. A, title V, §524(a), title IX, §954(a)(3)(B), (b)(2), Jan. 28, 2008, 122 Stat. 103, 294; Pub. L. 110–417, \[div. A\], title X, §1061(b)(8), (9), Oct. 14, 2008, 122 Stat. 4613; Pub. L. 117–81, div. A, title VII, §718, Dec. 27, 2021, 135 Stat. 1790.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (h). Pub. L. 117–81 substituted "(1) The Secretary of Defense, in coordination with the Secretary of Health and Human Services and the Secretary of Veterans Affairs," for "The Secretary of Defense" and added par. (2).
 
 <b>2008</b>—Subsecs. (b), (c). Pub. L. 110–181, §524(a)(1)(B), (2)(A), designated first 3 sentences of subsec. (b) as subsec. (b)(1), added subsec. (b)(2), designated last 3 sentences of subsec. (b) as subsec. (c), and substituted "Medical students who graduate" for "Upon graduation they". Former subsec. (c) redesignated (d).
 
@@ -92,13 +108,15 @@ Pub. L. 96–513, §114, struck out provision under which officers attending the
 
 <b>1979</b>—Subsec. (b). Pub. L. 96–107 substituted "uniformed" for "uniform".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
 Amendment by Pub. L. 110–417 effective Jan. 28, 2008, and as if included in Pub. L. 110–181 as enacted, see section 1061(b) of Pub. L. 110–417, set out as a note under section 6382 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–375 effective on the first day of the first month beginning more than 180 days after Oct. 28, 2004, see section 501(g) of Pub. L. 108–375, set out as a note under section 531 of this title.
+Amendment by Pub. L. 108–375 effective on the first day of the first month beginning more than 180 daysafter Oct. 28, 2004, see section 501(g) of Pub. L. 108–375, set out as a note under section 531 of this title.
 
 #### Effective Date of 1996 Amendment
 

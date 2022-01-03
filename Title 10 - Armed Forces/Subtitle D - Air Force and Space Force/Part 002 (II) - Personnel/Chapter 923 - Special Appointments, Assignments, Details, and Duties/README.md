@@ -7,6 +7,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232, div. A, title VIII, §806(d)(3)(A), (e)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 843 of this title as this chapter and items 8547 and 8548 as 9217 and 9218, respectively.

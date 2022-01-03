@@ -24,7 +24,9 @@ The Tax Court and each division thereof shall have power to punish by fine or im
 
 > It shall have such assistance in the carrying out of its lawful writ, process, order, rule, decree, or command as is available to a court of the United States. The United States marshal for any district in which the Tax Court is sitting shall, when requested by the chief judge of the Tax Court, attend any session of the Tax Court in such district and may otherwise provide, when requested by the chief judge of the Tax Court, for the security of the Tax Court, including the personal protection of Tax Court judges, court officers, witnesses, and other threatened persons in the interests of justice, where criminal intimidation impedes on the functioning of the judicial process or any other official proceeding. The United States Marshals Service retains final authority regarding security requirements for the Tax Court.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 885; Pub. L. 91–172, title IX, §§956, 958, Dec. 30, 1969, 83 Stat. 732, 734; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title III, §336(b)(1), title V, §502(c), Nov. 6, 1978, 92 Stat. 2841, 2879; Pub. L. 96–222, title I, §105(a)(1)(B), Apr. 1, 1980, 94 Stat. 218; Pub. L. 97–164, title I, §153(a), Apr. 2, 1982, 96 Stat. 47; Pub. L. 97–248, title IV, §402(c)(13), Sept. 3, 1982, 96 Stat. 668; Pub. L. 97–362, title I, §106(c), Oct. 25, 1982, 96 Stat. 1730; Pub. L. 98–369, div. A, title IV, §§463(a), 464(a)–(c), July 18, 1984, 98 Stat. 824; Pub. L. 99–514, title XV, §§1555(a), 1556(b)(1), Oct. 22, 1986, 100 Stat. 2754, 2755; Pub. L. 110–177, title I, §102(b), Jan. 7, 2008, 121 Stat. 2535.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 885; Pub. L. 91–172, title IX, §§956, 958, Dec. 30, 1969, 83 Stat. 732, 734; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title III,§336(b)(1), title V, §502(c), Nov. 6, 1978, 92 Stat. 2841, 2879; Pub. L. 96–222, title I, §105(a)(1)(B), Apr. 1, 1980, 94 Stat. 218; Pub. L. 97–164, title I, §153(a), Apr. 2, 1982, 96 Stat. 47; Pub. L. 97–248, title IV, §402(c)(13), Sept. 3, 1982, 96 Stat. 668; Pub. L. 97–362, title I, §106(c), Oct. 25, 1982, 96 Stat. 1730; Pub. L. 98–369, div. A, title IV, §§463(a), 464(a)–(c), July 18, 1984, 98 Stat. 824; Pub. L. 99–514, title XV, §§1555(a), 1556(b)(1), Oct. 22, 1986, 100 Stat. 2754, 2755; Pub. L. 110–177, title I, §102(b), Jan. 7, 2008, 121 Stat. 2535.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -66,6 +68,8 @@ Subsec. (c). Pub. L. 95–600, §336(b)(1), inserted provision that the chief ju
 
 Subsec. (d). Pub. L. 91–172, §956, added subsec. (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1986 Amendment
 
 Pub. L. 99–514, title XV, §1555(b), Oct. 22, 1986, 100 Stat. 2754, provided that: "The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 22, 1986\]."
@@ -90,7 +94,7 @@ Pub. L. 96–222, title I, §105(b)(1), Apr. 1, 1980, 94 Stat. 221, provided tha
 
 #### Effective Date of 1978 Amendment
 
-Amendment by section 336(b)(1) of Pub. L. 95–600 applicable to requests for determinations made after Dec. 31, 1978, see section 336(d) of Pub. L. 95–600, set out as an Effective Date note under section 7478 of this title.
+Amendment by section 336(b)(1) of Pub. L. 95–600 applicable to requests for determinations made after Dec.31, 1978, see section 336(d) of Pub. L. 95–600, set out as an Effective Date note under section 7478 of this title.
 
 Amendment by section 502(c) of Pub. L. 95–600 effective Nov. 6, 1978, see section 502(d)(2) of Pub. L. 95–600, set out as a note under section 7463 of this title.
 

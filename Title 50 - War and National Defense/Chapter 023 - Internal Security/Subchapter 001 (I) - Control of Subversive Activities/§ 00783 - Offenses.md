@@ -2,7 +2,7 @@
 
 #### (a) Communication of classified information by Government officer or employee
 
-It shall be unlawful for any officer or employee of the United States or of any department or agency thereof, or of any corporation the stock of which is owned in whole or in major part by the United States or any department or agency thereof, to communicate in any manner or by any means, to any other person whom such officer or employee knows or has reason to believe to be an agent or representative of any foreign government, any information of a kind which shall have been classified by the President (or by the head of any such department, agency, or corporation with the approval of the President) as affecting the security of the United States, knowing or having reason to know that such information has been so classified, unless such officer or employee shall have been specifically authorized by the President, or by the head of the department, agency, or corporation by which this officer or employee is employed, to make such disclosure of such information.
+It shall be unlawful for any officer or employee of the United States or of any department or agency thereof, or of any corporation the stock of which is owned in whole or in major part by the United States or any department or agency thereof, to communicate in any manner or by any means, to any other person whom such officer or employee knows or has reason to believe to be an agent or representative of any foreign government, any information of a kind which shall have been classified by the President (or by the head of any such department, agency, or corporation with the approval of the President) as affecting the security of the United States, knowing or having reason to know that such information has been so classified, unless such officer or employee shall have been specifically authorized by the President, orby the head of the department, agency, or corporation by which this officer or employee is employed, to make such disclosure of such information.
 
 #### (b) Receipt of, or attempt to receive, by foreign agent or member of Communist organization, classified information
 
@@ -42,6 +42,8 @@ Any person may be prosecuted, tried, and punished for any violation of this sect
 
 (Sept. 23, 1950, ch. 1024, title I, §4, 64 Stat. 991; Pub. L. 90–237, §3, Jan. 2, 1968, 81 Stat. 765; Pub. L. 103–199, title VIII, §803(2), Dec. 17, 1993, 107 Stat. 2329; Pub. L. 103–359, title VIII, §804(c), Oct. 14, 1994, 108 Stat. 3440.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (e). Pub. L. 103–359 added subsec. (e).
@@ -55,6 +57,8 @@ Subsecs. (c) to (e). Pub. L. 103–199, §803(2)(B), redesignated subsecs. (d) a
 Subsec. (f). Pub. L. 103–199, §803(2)(A), struck out subsec. (f) which read as follows: "Neither the holding of office nor membership in any Communist organization by any person shall constitute per se a violation of subsection (a) or subsection (c) of this section or of any other criminal statute."
 
 <b>1968</b>—Subsec. (f). Pub. L. 90–237 struck out prohibition against receiving the fact of the registration of any person under section 787 or 788 of this title as an officer or member of any Communist organization in evidence against such person in any prosecution for any alleged violation of subsection (a) or (c) of this section or for any alleged violation of any other criminal statute.
+
+#### <b>Executive Documents</b>
 
 #### Termination of Trust Territory of the Pacific Islands
 

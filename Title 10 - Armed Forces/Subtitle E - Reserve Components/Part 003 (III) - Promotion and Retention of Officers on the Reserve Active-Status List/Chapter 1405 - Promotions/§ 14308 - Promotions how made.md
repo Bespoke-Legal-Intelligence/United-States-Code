@@ -48,7 +48,7 @@ Army Reserve and Air Force Reserve Promotions To Fill Vacancies.—Subject to th
 
 (f)
 
-Effective Date of Promotion After Federal Recognition.—(1) The effective date of a promotion of a reserve commissioned officer of the Army or the Air Force who is extended Federal recognition in the next higher grade in the Army National Guard or the Air National Guard under section 307 or 310 of title 32 shall be the date on which such Federal recognition in that grade is so extended.
+Effective Date of Promotion After Federal Recognition.—(1) The effective date of apromotion of a reserve commissioned officer of the Army or the Air Force who is extended Federal recognition in the next higher grade in the Army National Guard or the Air National Guard under section 307 or 310 of title 32 shall be the date on which such Federal recognition in that grade is so extended.
 
 (2) If the Secretary concerned determines that there was an undue delay in extending Federal recognition in the next higher grade in the Army National Guard or the Air National Guard to a reserve commissioned officer of the Army or the Air Force, and the delay was not attributable to the action (or inaction) of such officer, the effective date of the promotion concerned under paragraph (1) may be adjusted to a date determined by the Secretary concerned, but not earlier than the effective date of the State promotion.
 
@@ -57,6 +57,8 @@ Effective Date of Promotion After Federal Recognition.—(1) The effective date 
 Army and Air Force General Officer Promotions.—A reserve officer of the Army or the Air Force who is on a promotion list for promotion to the grade of brigadier general or major general as a result of selection by a vacancy promotion board may be promoted to that grade only to fill a vacancy in the Army Reserve or the Air Force Reserve, as the case may be, in that grade.
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2937; amended Pub. L. 105–85, div. A, title V, §514(c), Nov. 18, 1997, 111 Stat. 1732; Pub. L. 107–107, div. A, title V, §§505(b)(1), 506(b), Dec. 28, 2001, 115 Stat. 1086, 1089; Pub. L. 109–364, div. A, title V, §511(d)(2), Oct. 17, 2006, 120 Stat. 2183; Pub. L. 114–92, div. A, title V, §502(b), Nov. 25, 2015, 129 Stat. 806; Pub. L. 115–232, div. A, title V, §518(a), Aug. 13, 2018, 132 Stat. 1754; Pub. L. 116–92, div. A, title V, §510(c), Dec. 20, 2019, 133 Stat. 1347.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -84,13 +86,15 @@ Subsec. (c)(3). Pub. L. 107–107, §506(b)(1)(A), (2), redesignated par. (2) as
 
 Subsec. (g). Pub. L. 105–85, §514(c)(2), inserted "or the Air Force" after "A reserve officer of the Army", substituted "in the Army Reserve or the Air Force Reserve, as the case may be, in that grade" for "in that grade in a unit of the Army Reserve that is organized to serve as a unit and that has attained the strength prescribed by the Secretary of the Army", and struck out at end "A reserve officer of the Air Force who is on a promotion list for promotion to the grade of brigadier general or major general as a result of selection by a vacancy promotion board may be promoted to that grade only to fill a vacancy in the Air Force Reserve in that grade."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Pub. L. 115–232, div. A, title V, §518(b), Aug. 13, 2018, 132 Stat. 1754, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 13, 2018\], and shall apply with respect to promotions of officers whose State effective date is on or after that date."
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–364 effective Oct. 17, 2006, and applicable with respect to officers on promotion lists established on or after such date, see section 511(e)of Pub. L. 109–364, set out as a note under section 624 of this title.
+Amendment by Pub. L. 109–364 effective Oct. 17, 2006, and applicable with respect to officers on promotion lists established on or after such date, see section 511(e) of Pub. L. 109–364, set out as a note under section 624 of this title.
 
 #### Effective Date of 2001 Amendment
 

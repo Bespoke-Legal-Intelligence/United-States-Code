@@ -36,6 +36,8 @@ July 17, 1914, ch. 149 (proviso), 38 Stat. 512.
 
 May 31, 1939, ch. 161 (last sentence), 53 Stat. 796.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Par. (3). Pub. L. 110–181 struck out "for aircraft of a foreign military or air attaché" after "services".

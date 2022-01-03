@@ -24,7 +24,7 @@ Whoever—
 
 &emsp;(5) knowingly receives, conceals, uses, sells, or transports in interstate or foreign commerce one or more tickets for interstate or foreign transportation, which (A) within any one-year period have a value aggregating $500 or more, and (B) have been purchased or obtained with one or more counterfeit, fictitious, altered, forged, lost, stolen, or fraudulently obtained debit instrument; or
 
-&emsp;(6) in a transaction affecting interstate or foreign commerce, furnishes money, property, services, or anything else of value, which within any one-year period has a value aggregating $1,000 or more, through the use of any counterfeit, fictitious, altered, forged, lost, stolen, or fraudulently obtained debit instrument knowing the same to be counterfeit, fictitious, altered, forged, lost, stolen, or fraudulently obtained—
+&emsp;(6) in a transaction affecting interstate or foreign commerce, furnishes money, property,services, or anything else of value, which within any one-year period has a value aggregating $1,000 or more, through the use of any counterfeit, fictitious, altered, forged, lost, stolen, or fraudulently obtained debit instrument knowing the same to be counterfeit, fictitious, altered, forged, lost, stolen, or fraudulently obtained—
 
 > shall be fined not more than $10,000 or imprisoned not more than ten years, or both.
 
@@ -33,6 +33,8 @@ Whoever—
 As used in this section, the term "debit instrument" means a card, code, or other device, other than a check, draft, or similar paper instrument, by the use of which a person may initiate an electronic fund transfer.
 
 (Pub. L. 90–321, title IX, §917, formerly §916, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3738; renumbered §917, Pub. L. 111–24, title IV, §401(1), May 22, 2009, 123 Stat. 1751.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

@@ -24,7 +24,7 @@ The Congress finds and declares that—
 
 &emsp;(10) the 1988 amendments to the Fish and Wildlife Conservation Act of 1980 require the Secretary of the Interior to identify conservation measures to assure that nongame migratory bird species do not reach the point at which measures of the Endangered Species Act of 1973 \[16 U.S.C. 1531 et seq.\] are necessary;
 
-&emsp;(11) protection of migratory birds and their habitats requires long-term planning and the close cooperation and coordination of management activities by Canada, Mexico, and the United States within the framework of the 1916 and 1936 Migratory Bird Conventions andthe Convention on Nature Protection and Wildlife Preservation in the Western Hemisphere;
+&emsp;(11) protection of migratory birds and their habitats requires long-term planning and the close cooperation and coordination of management activities by Canada, Mexico, and the United States within the framework of the 1916 and 1936 Migratory Bird Conventions and the Convention on Nature Protection and Wildlife Preservation in the Western Hemisphere;
 
 &emsp;(12) the North American Waterfowl Management Plan, signed in 1986 by the Minister of Environment for Canada and the Secretary of the Interior for the United States and in 1994 by the Secretary of Sedesol for Mexico, provides a framework for maintaining and restoring an adequate habitat base to ensure perpetuation of populations of North American waterfowl and other migratory bird species;
 
@@ -46,13 +46,15 @@ The purposes of this chapter are to encourage partnership among public agencies 
 
 (Pub. L. 101–233, §2, Dec. 13, 1989, 103 Stat. 1968; Pub. L. 107–308, §§3, 8(a)(1), (2), Dec. 2, 2002, 116 Stat. 2446, 2447.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Fish and Wildlife Conservation Act of 1980, referred to in subsec. (a)(10), is Pub. L. 96–366, Sept. 29, 1980, 94 Stat. 1322, as amended, which is classified generally to chapter 49 (§2901 et seq.) of this title. In 1988, section 2912 of that chapter was enacted and section 2910 of that chapter was amended by Pub. L. 100–653, title VIII, Nov. 14, 1988, 102 Stat. 3833. For complete classification of this Act to the Code, see Short Title note set out under section 2901 of this title and Tables.
 
 The Endangered Species Act of 1973, referred to in subsec. (a)(10), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
-This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 101–233, Dec. 13, 1989, 103 Stat. 1968, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 101–233, Dec. 13,1989, 103 Stat. 1968, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
 
@@ -67,6 +69,8 @@ Subsec. (b)(1). Pub. L. 107–308, §3(b)(1), substituted "and habitats associat
 Subsec. (b)(2). Pub. L. 107–308, §3(b)(2), inserted "wetland associated" before "migratory bird".
 
 Subsec. (b)(3). Pub. L. 107–308, §3(b)(3), inserted "wetland associated" before "migratory birds" and ", the United States Shorebird Conservation Plan, the North American Waterbird Conservation Plan, the Partners In Flight Conservation Plans," after "North American Waterfowl Management Plan".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2006 Amendment
 

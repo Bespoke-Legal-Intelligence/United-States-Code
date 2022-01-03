@@ -10,6 +10,10 @@ In this chapter:
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Implementation of Certain Recommendations Regarding Use of Unmanned Aircraft Systems by the National Guard
+
+Pub. L. 117–81, div. A, title V, §514, Dec. 27, 2021, 135 Stat. 1683, provided that: "Not later than September 30, 2022, the Secretary of Defense shall implement recommendations of the Secretary described in section 519C(a)(2) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283) \[134 Stat. 3596\]."
+
 #### Pilot Program on Remote Provision by National Guard to National Guards of Other States of Cybersecurity Technical Assistance in Training, Preparation, and Response to Cyber Incidents
 
 Pub. L. 116–283, div. A, title XVII, §1725, Jan. 1, 2021, 134 Stat. 4112, provided that:

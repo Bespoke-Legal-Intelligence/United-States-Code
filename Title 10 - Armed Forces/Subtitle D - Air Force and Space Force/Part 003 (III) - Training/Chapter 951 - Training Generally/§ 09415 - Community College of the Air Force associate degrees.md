@@ -4,7 +4,7 @@
 
 Establishment and Mission.—There is in the Department of the Air Force a Community College of the Air Force. Such college, in cooperation with civilian colleges and universities, shall—
 
-&emsp;(1) prescribe programs of higher education for enlisted members described in subsection\(b) designed to improve the technical, managerial, and related skills of such members and to prepare such members for military jobs which require the utilization of such skills; and
+&emsp;(1) prescribe programs of higher education for enlisted members described in subsection (b) designed to improve the technical, managerial, and related skills of such members and to prepare such members for military jobs which require the utilization of such skills; and
 
 &emsp;(2) monitor on a continuing basis the progress of members pursuing such programs.
 
@@ -38,7 +38,9 @@ Associate Degrees.—(1) Subject to paragraph (2), an academic degree at the lev
 
 (2) No degree may be conferred upon any person under this section unless the Secretary of Education determines that the standards for the award of academic degrees in agencies of the United States have been met.
 
-(Added Pub. L. 94–361, title VI, §602, July 14, 1976, 90 Stat. 928, §9315; amended Pub. L. 96–513, title V, §514(9), Dec. 12, 1980, 94 Stat. 2935; Pub. L. 103–160, div. A, title XI, §1182(a)(12), Nov. 30, 1993, 107 Stat. 1772; Pub. L. 104–106, div. A, title X, §1078(a), Feb. 10, 1996, 110 Stat. 451; Pub. L. 105–85, div. A, title V, §552(a), (b), Nov. 18, 1997, 111 Stat. 1748; Pub. L. 108–375, div. A, title V, §556(b), Oct. 28, 2004, 118 Stat. 1915; Pub. L. 112–81, div. A, title V, §555(a), (b), Dec. 31, 2011, 125 Stat. 1415; renumbered §9415 and amended Pub. L. 115–232, div. A, title VIII, §§806(a)(3), 809(a), Aug. 13, 2018, 132 Stat. 1832, 1840; Pub. L. 116–92, div. A, title V, §557, Dec. 20, 2019, 133 Stat. 1392; Pub. L. 116–283, div. A, title IX, §923(d)(6), Jan. 1, 2021, 134 Stat. 3814.)
+(Added Pub. L. 94–361, title VI, §602, July 14, 1976, 90 Stat. 928, §9315; amended Pub. L. 96–513, title V, §514(9), Dec. 12, 1980, 94 Stat. 2935; Pub. L. 103–160, div. A, title XI, §1182(a)(12), Nov. 30, 1993, 107 Stat. 1772; Pub. L. 104–106, div. A, title X, §1078(a), Feb. 10, 1996, 110 Stat. 451; Pub. L. 105–85, div. A, title V, §552(a), (b), Nov. 18, 1997, 111 Stat. 1748; Pub. L. 108–375, div. A, title V, §556(b), Oct. 28, 2004, 118 Stat. 1915; Pub. L. 112–81, div. A, title V, §555(a), (b), Dec. 31, 2011, 125 Stat. 1415; renumbered §9415 and amended Pub. L. 115–232, div. A, title VIII, §§806(a)(3), 809(a), Aug. 13, 2018, 132 Stat. 1832, 1840; Pub. L.116–92, div. A, title V, §557, Dec. 20, 2019, 133 Stat. 1392; Pub. L. 116–283, div. A, title IX, §923(d)(6), Jan. 1, 2021, 134 Stat. 3814.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -85,6 +87,8 @@ Subsec. (c). Pub. L. 105–85, §552(a)(2), (3), (b)(2), redesignated subsec. (b
 Subsec. (c). Pub. L. 103–160, §1182(a)(12)(B), substituted "Air Education and Training Command of the Air Force" for "Air Force Training Command".
 
 <b>1980</b>—Subsec. (c). Pub. L. 96–513 substituted "Secretary of Education" for "Commissioner of Education of the Department of Health, Education, and Welfare".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

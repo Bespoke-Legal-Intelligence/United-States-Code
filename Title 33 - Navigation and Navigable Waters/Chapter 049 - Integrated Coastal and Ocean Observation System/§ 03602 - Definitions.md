@@ -12,7 +12,7 @@ In this chapter:
 
 #### (3) Federal assets
 
-&emsp;The term "Federal assets" means all relevant non-classified civilian coastal and ocean observations, technologies, and related modeling, research, data management, basic and applied technology research and development, and public education and outreach programs, that are managed by member agencies of the Council.
+&emsp;The term "Federal assets" means all relevant non-classified civilian coastal and oceanobservations, technologies, and related modeling, research, data management, basic and applied technology research and development, and public education and outreach programs, that are managed by member agencies of the Council.
 
 #### (4) Interagency Ocean Observation Committee
 

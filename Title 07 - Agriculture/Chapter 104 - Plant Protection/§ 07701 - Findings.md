@@ -2,7 +2,7 @@
 
 Congress finds that—
 
-&emsp;(1) the detection, control, eradication, suppression, prevention, or retardation of the spread of plant pests or noxious weeds is necessary for the protection of the agriculture, environment, and economy of the United States;
+&emsp;(1) the detection, control, eradication, suppression, prevention, or retardation of thespread of plant pests or noxious weeds is necessary for the protection of the agriculture, environment, and economy of the United States;
 
 &emsp;(2) biological control is often a desirable, low-risk means of ridding crops and other plants of plant pests and noxious weeds, and its use should be facilitated by the Department of Agriculture, other Federal agencies, and States whenever feasible;
 
@@ -16,15 +16,19 @@ Congress finds that—
 
 &emsp;(7) the unregulated movement of plant pests, noxious weeds, plants, certain biological control organisms, plant products, and articles capable of harboring plant pests or noxious weeds could present an unacceptable risk of introducing or spreading plant pests or noxious weeds;
 
-&emsp;(8) the existence on any premises in the United States of a plant pest or noxious weed new to or not known to be widely prevalent in or distributed within and throughout the United States could constitute a threat to crops and other plants or plant products of theUnited States and burden interstate commerce or foreign commerce; and
+&emsp;(8) the existence on any premises in the United States of a plant pest or noxious weed new to or not known to be widely prevalent in or distributed within and throughout the United States could constitute a threat to crops and other plants or plant products of the United States and burden interstate commerce or foreign commerce; and
 
 &emsp;(9) all plant pests, noxious weeds, plants, plant products, articles capable of harboring plant pests or noxious weeds regulated under this chapter are in or affect interstate commerce or foreign commerce.
 
 (Pub. L. 106–224, title IV, §402, June 20, 2000, 114 Stat. 438.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in pars. (4) and (9), was in the original "this title", meaning title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, known as the Plant Protection Act, which is classified principally to this chapter. For complete classification of title IV to the Code, see Short Title note set out below and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 
@@ -98,7 +102,7 @@ Consideration.—In carrying out subsection (a), the Secretary shall consider—
 
 &emsp;&emsp;"(G) to submit reports as the Secretary considers to be appropriate."
 
-\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a)of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
 
 <i><sup>1</sup></i><i> So in original.</i>
 

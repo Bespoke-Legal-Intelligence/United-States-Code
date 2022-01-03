@@ -120,9 +120,13 @@ In subsection (c)(2), before clause (A), the words "After the Secretary of Trans
 
 In subsection (c)(5), before clause (A), the words "department, agency, or instrumentality" are substituted for "department or agency" for consistency in the revised title and with other titles of the United States Code.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2007</b>—Subsec. (e). Pub. L. 110–140 added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

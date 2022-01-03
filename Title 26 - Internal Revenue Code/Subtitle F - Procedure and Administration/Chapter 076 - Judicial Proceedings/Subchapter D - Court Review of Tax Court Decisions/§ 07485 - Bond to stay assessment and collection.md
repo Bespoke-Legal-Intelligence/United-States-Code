@@ -22,6 +22,8 @@ The condition of subsection (a) shall be satisfied if the partnership duly files
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 891; Pub. L. 91–172, title IX, §960(h)(3), Dec. 30, 1969, 83 Stat. 735; Pub. L. 97–248, title IV, §402(c)(16), Sept. 3, 1982, 96 Stat. 668; Pub. L. 97–258, §3(f)(15), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 105–34, title XII, §§1222(b)(4), 1241(a), Aug. 5, 1997, 111 Stat. 1019, 1029; Pub. L. 114–74, title XI, §1101(f)(14), Nov. 2, 2015, 129 Stat. 638; Pub. L. 115–141, div. U, title II, §§201(c)(8), 206(p)(8), Mar. 23, 2018, 132 Stat. 1173, 1182.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (b). Pub. L. 115–141 substituted "the partnership" for "a partner" and "partnership-related items (as defined in section 6241)" for "partnership items".
@@ -40,6 +42,8 @@ Subsec. (c)(2). Pub. L. 97–258 substituted "section 9303 of title 31, United S
 
 <b>1969</b>—Subsec. (a). Pub. L. 91–172 substituted "notice of appeal" for "petition for review" and "appeal bond" for "review bond".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–141 effective as if included in section 1101 of Pub. L. 114–74, see section 207 of Pub. L. 115–141, set out as a note under section 6031 of this title.
@@ -56,7 +60,7 @@ Pub. L. 105–34, title XII, §1241(b), Aug. 5, 1997, 111 Stat. 1029, provided t
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for the applicability of the amendment to any partnership taxable year ending after Sept. 3, 1982, if the partnership, each partner, and each indirect partner requests such application and the Secretary of theTreasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as a note under section 702 of this title.
+Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for the applicability of the amendment to any partnership taxable year ending after Sept. 3, 1982, if the partnership, each partner, and each indirect partner requests such application and the Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as a note under section 702 of this title.
 
 #### Effective Date of 1969 Amendment
 

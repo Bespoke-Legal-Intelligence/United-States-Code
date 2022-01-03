@@ -32,7 +32,7 @@ For purposes of this subtitle, the term "adjusted gross income" means, in the ca
 
 #### (E) Certain expenses of members of reserve components of the Armed Forces of the United States
 
-&emsp;&emsp;The deductions allowed by section 162 which consist of expenses, determined at a rate not in excess of the rates for travel expenses (including per diem in lieu of subsistence) authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, paid or incurred by the taxpayer in connection with the performance of services by such taxpayer as a member of a reserve component of the Armed Forces of the United States for any period during which such individual is more than 100 miles away from home in connection with such services.
+&emsp;&emsp;The deductions allowed by section 162 which consist of expenses, determined at arate not in excess of the rates for travel expenses (including per diem in lieu of subsistence) authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, paid or incurred by the taxpayer in connection with the performance of services by such taxpayer as a member of a reserve component of the Armed Forces of the United States for any period during which such individual is more than 100 miles away from home in connection with such services.
 
 #### (3) Losses from sale or exchange of property
 
@@ -102,7 +102,7 @@ For purposes of this subtitle, the term "adjusted gross income" means, in the ca
 
 #### (A) In general
 
-&emsp;&emsp;Any deduction allowable under this chapter for attorney fees and court costs paid by,or on behalf of, the taxpayer in connection with any award under—
+&emsp;&emsp;Any deduction allowable under this chapter for attorney fees and court costs paid by, or on behalf of, the taxpayer in connection with any award under—
 
 &emsp;&emsp;&emsp;(i) section 7623(b), or
 
@@ -116,7 +116,7 @@ For purposes of this subtitle, the term "adjusted gross income" means, in the ca
 
 #### (B) May not exceed award
 
-&emsp;&emsp;Subparagraph (A) shall not apply to any deduction in excess of the amount includible in the taxpayer's gross income for the taxable year on account of such award.
+&emsp;&emsp;Subparagraph (A) shall not apply to any deduction in excess of the amount includiblein the taxpayer's gross income for the taxable year on account of such award.
 
 > Nothing in this section shall permit the same item to be deducted more than once. Any deduction allowed by section 199A shall not be treated as a deduction described in any of the preceding paragraphs of this subsection.
 
@@ -244,15 +244,17 @@ For purposes of subsection (a)(20), the term "unlawful discrimination" means an 
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-Section 208 of the Congressional Accountability Act of 1995, referred to in subsec. (e)(2), was formerly section 207 of the Act prior to renumbering by Pub. L. 116–92, and is classified to section 1317 of Title 2, The Congress. A new section 207 of the Act was enacted by Pub. L. 116–92 and is classified to section 1316b of Title2. Pub. L. 116–92 amended list of Act sections in subsec. (e)(2) of this section without corresponding amendment of Code citations, see 2019 Amendment note below.
+Section 208 of the Congressional Accountability Act of 1995, referred to in subsec. (e)(2), was formerly section 207 of the Act prior to renumbering by Pub. L. 116–92, and is classified to section 1317 of Title 2, The Congress. A new section 207 of the Act was enacted by Pub. L. 116–92 and is classified to section 1316b of Title 2. Pub. L. 116–92 amended list of Act sections in subsec. (e)(2) of this section without corresponding amendment of Code citations, see 2019 Amendment note below.
 
 The National Labor Relations Act, referred to in subsec. (e)(3), is act July 5, 1935, ch. 372, 49 Stat. 449, as amended, which is classified generally to subchapter II (§151 et seq.) of chapter 7 of Title 29, Labor. For complete classification of this Act to the Code, see section 167 of Title 29 and Tables.
 
 The Fair Labor Standards Act of 1938, referred to in subsec. (e)(4), is act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
 
-The Education Amendments of 1972, referred to in subsec. (e)(8), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of Title 20 and Tables.
+The Education Amendments of 1972, referred to in subsec. (e)(8), is Pub. L. 92–318, June 23, 1972, 86 Stat.235, as amended. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of Title 20 and Tables.
 
 The Employee Polygraph Protection Act of 1988, referred to in subsec. (e)(9), is Pub. L. 100–347, June 27, 1988, 102 Stat. 646, as amended, which is classified generally to chapter 22 (§2001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 29 and Tables.
 
@@ -408,6 +410,8 @@ Par. (11). Pub. L. 93–483 added par. (11) relating to penalties forfeited beca
 
 <b>1962</b>—Par. (7). Pub. L. 87–792 added par. (7).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2020 Amendment
 
 Amendment by section 104(b)(2)(A) of Pub. L. 116–260 applicable to taxable years beginning after Dec. 31, 2020, see section 104(c) of div. EE of Pub. L. 116–260, set out as a note under section 25A of this title.
@@ -462,7 +466,7 @@ Pub. L. 112–240, title II, §201(b), Jan. 2, 2013, 126 Stat. 2323, provided th
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–312, title VII, §721(b), Dec. 17, 2010, 124 Stat. 3316, provided that: "The amendment made bythis section \[amending this section\] shall apply to taxable years beginning after December 31, 2009."
+Pub. L. 111–312, title VII, §721(b), Dec. 17, 2010, 124 Stat. 3316, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2009."
 
 #### Effective Date of 2008 Amendment
 
@@ -470,7 +474,7 @@ Pub. L. 110–343, div. C, title II, §203(b), Oct. 3, 2008, 122 Stat. 3864, pro
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–432, div. A, title I, §108(b), Dec. 20, 2006, 120 Stat. 2939, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2005."
+Pub. L. 109–432, div. A, title I, §108(b), Dec. 20, 2006, 120 Stat. 2939, provided that: "The amendment made bythis section \[amending this section\] shall apply to taxable years beginning after December 31, 2005."
 
 Pub. L. 109–432, div. A, title IV, §406(d), Dec. 20, 2006, 120 Stat. 2960, provided that: "The amendments made by subsection (a) \[amending this section and sections 7443A and 7623 of this title\] shall apply to information provided on or after the date of the enactment of this Act \[Dec. 20, 2006\]."
 
@@ -606,7 +610,7 @@ For provisions directing that if any amendments made by subtitle B \[§§521–5
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L.99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Commuting Expenses
 

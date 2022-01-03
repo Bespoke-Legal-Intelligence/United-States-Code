@@ -26,7 +26,7 @@ High-speed rail.—The term "high-speed rail" means intercity passenger rail ser
 
 &emsp;(5)
 
-Intercity passenger rail service.—The term "intercity passenger rail service" hasthe meaning given the term "intercity rail passenger transportation" in section 24102 of this title.
+Intercity passenger rail service.—The term "intercity passenger rail service" has the meaning given the term "intercity rail passenger transportation" in section 24102 of this title.
 
 &emsp;(6)
 
@@ -62,7 +62,7 @@ Grant criteria.—The Secretary, in selecting the recipients of high-speed rail 
 
 &emsp;&emsp;&emsp;(i) that the project be part of a State rail plan developed under chapter 227 of this title, or under the plan required by section 211 of the Passenger Rail Investment and Improvement Act of 2008;
 
-&emsp;&emsp;&emsp;(ii) that the applicant or recipient has or will have the legal, financial, and technical capacity to carry out the project, satisfactory continuing control over the use of the equipment or facilities, and the capability and willingness to maintain the equipment or facilities;
+&emsp;&emsp;&emsp;(ii) that the applicant or recipient has or will have the legal, financial, and technical capacity to carry out the project,satisfactory continuing control over the use of the equipment or facilities, and the capability and willingness to maintain the equipment or facilities;
 
 &emsp;&emsp;&emsp;(iii) that the project be based on the results of preliminary engineering studies or other planning, including corridor planning activities funded under section 26101 of this title;
 
@@ -120,7 +120,7 @@ Grant criteria.—The Secretary, in selecting the recipients of high-speed rail 
 
 &emsp;&emsp;&emsp;&emsp;(I) donated property interests or services;
 
-&emsp;&emsp;&emsp;&emsp;(II) financial contributions by intercity passenger, freight, and commuterrail carriers commensurate with the benefit expected to their operations; and
+&emsp;&emsp;&emsp;&emsp;(II) financial contributions by intercity passenger, freight, and commuter rail carriers commensurate with the benefit expected to their operations; and
 
 &emsp;&emsp;&emsp;&emsp;(III) financial commitments from host railroads, non-Federal governmental entities, non-governmental entities, and others.
 
@@ -156,6 +156,8 @@ Authorization of Appropriations.—There are authorized to be appropriated to th
 
 (Added Pub. L. 110–432, div. B, title V, §501(d), Oct. 16, 2008, 122 Stat. 4960; amended Pub. L. 115–420, §7(b)(3)(A)(ii), Jan. 3, 2019, 132 Stat. 5447.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 104 of title 23, referred to in subsec. (b)(2), was amended generally by Pub. L. 112–141, div. A, title I, §1105(a), July 6, 2012, 126 Stat. 427.
@@ -175,6 +177,8 @@ The date of enactment of this section, referred to in subsec. (g), is the date o
 #### Amendments
 
 <b>2019</b>—Subsec. (e)(3). Pub. L. 115–420 substituted "22905" for "24405 of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Additional High-Speed Rail Projects
 
@@ -246,7 +250,7 @@ Contents.—A proposal submitted under this subsection shall include—
 
 &emsp;&emsp;&emsp;"(v) the projected levels of capital investments required both initially and in subsequent years to maintain a state-of-good-repair necessary to provide the initially proposed level of service or higher levels of service;
 
-&emsp;&emsp;&emsp;"(vi) projected levels of private investment and sources thereof, including the identity of any person or entity that has made or is expected tomake a commitment to provide or secure funding and the amount of such commitment; and
+&emsp;&emsp;&emsp;"(vi) projected levels of private investment and sources thereof, including the identity of any person or entity that has made or is expected to make a commitment to provide or secure funding and the amount of such commitment; and
 
 &emsp;&emsp;&emsp;"(vii) projected funding for the full fair market compensation for any asset, property right or interest, or service acquired from, owned, or held by a private person or Federal entity that would be acquired, impaired, or diminished in value as a result of a project, except as otherwise agreed to by the private person or entity;
 
@@ -394,7 +398,7 @@ Northeast corridor.—The term 'Northeast Corridor' has the meaning given under 
 
 &emsp;"(4)
 
-High-speed rail corridor.—The terms 'high-speed rail corridor' and 'corridor' mean a corridor designated by the Secretary pursuant to \[former\] section 104(d)(2) of title 23, United States Code, and the Northeast Corridor."
+High-speed rail corridor.—The terms 'high-speed rail corridor' and 'corridor' mean a corridordesignated by the Secretary pursuant to \[former\] section 104(d)(2) of title 23, United States Code, and the Northeast Corridor."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

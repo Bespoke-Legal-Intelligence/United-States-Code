@@ -13,6 +13,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283, div. A, title IX, §923(a)(2), Jan. 1, 2021, 134 Stat. 3807, substituted "Air Force and Space Force" for "Air Force" in item for subtitle D.
@@ -8539,6 +8541,8 @@ Rep.
 
 Rep.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Positive Law; Citation
 
 This title has been enacted into positive law by section 1 of act Aug. 10, 1956, ch. 1041, 70A Stat. 1, which provided in part that: "Title 10 of the United States Code, entitled 'Armed Forces', is revised, codified, and enacted into law, and may be cited as 'Title 10, United States Code, §—.' "
@@ -8665,7 +8669,7 @@ Pub. L. 103–337, div. A, title XVI, §1665, Oct. 5, 1994, 108 Stat. 3012, prov
 
 "(a)
 
-References to Transferred or Replaced Provisions.—A reference to a provision of title 10, United States Code, transferred or replaced by the provisions of sections 1661 through 1664 \[see Tables for classification\] (including a reference in a regulation, order, or other law) shall be treated as referring to that provision as transferred or to the corresponding provision as so enacted by this subtitle \[subtitle C (§§1661–1665) of title XVI of div. A of Pub. L. 103–337\].
+References to Transferred or Replaced Provisions.—A reference to a provision of title 10, United States Code, transferred or replaced by the provisions of sections 1661 through 1664 \[see Tables for classification\] (including a reference in a regulation, order, orother law) shall be treated as referring to that provision as transferred or to the corresponding provision as so enacted by this subtitle \[subtitle C (§§1661–1665) of title XVI of div. A of Pub. L. 103–337\].
 
 "(b)
 

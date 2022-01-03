@@ -12,7 +12,7 @@
 
 (2)(A) An order issued under this section to a primary nonferrous smelter shall be referred to as a "primary nonferrous smelter order". No primary nonferrous smelter may receive both an enforcement order under section 7413(d) <sup>1</sup> of this title and a primary nonferrous smelter order under this section.
 
-(B) Before any hearing conducted under this section, in the case of an application made by the owner or operator of a primary nonferrous smelter for a second order under this section, the applicant shall furnish the Administrator (or the State as the case may be) with a statement of the grounds on which such application is based (including all supporting documents and information). The statement of the grounds for the proposed order shall be provided by the Administrator or the State in any case in which such State or Administrator is acting on its own initiative. Such statement (including such documents and information) shall be made available to the public for a thirty-day period before such hearing and shall be considered as part of such hearing. No primary nonferrous smelter order may be granted unless the applicant establishes that he meets the conditions required for the issuance of such order (or the Administrator or State establishes the meeting of such conditions when acting on their own initiative).
+(B) Before any hearing conducted under this section, in the case of an application made by the owner or operator of a primary nonferrous smelter for a second order under this section, the applicant shall furnish the Administrator (or the State as the case may be) with a statement of the grounds on which such application is based (including all supporting documents and information). The statement of the grounds for the proposed order shall be provided by the Administrator or the State in any case in whichsuch State or Administrator is acting on its own initiative. Such statement (including such documents and information) shall be made available to the public for a thirty-day period before such hearing and shall be considered as part of such hearing. No primary nonferrous smelter order may be granted unless the applicant establishes that he meets the conditions required for the issuance of such order (or the Administrator or State establishes the meeting of such conditions when acting on their own initiative).
 
 (C) Any decision with respect to the issuance of a primary nonferrous smelter order shall be accompanied by a concise statement of the findings and of the basis of such findings.
 
@@ -74,6 +74,8 @@ If the Administrator determines that a smelter to which an order is issued under
 
 (July 14, 1955, ch. 360, title I, §119, as added Pub. L. 95–95, title I, §117(b), Aug. 7, 1977, 91 Stat. 712; amended Pub. L. 95–190, §14(a)(25)–(27), Nov. 16, 1977, 91 Stat. 1401.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 7413(d) of this title, referred to in subsec. (a)(2)(A), was amended generally by Pub. L. 101–549, title VII, §701, Nov. 15, 1990, 104 Stat. 2672, and, as so amended, no longer relates to final compliance orders.
@@ -89,6 +91,8 @@ A prior section 119 of act July 14, 1955, ch. 360, title I, as added June 22, 19
 Subsec. (d)(3). Pub. L. 95–190, §14(a)(26), substituted "7621" for "7619".
 
 Subsec. (e). Pub. L. 95–190, §14(a)(27), substituted "an order under this section" for "such order".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

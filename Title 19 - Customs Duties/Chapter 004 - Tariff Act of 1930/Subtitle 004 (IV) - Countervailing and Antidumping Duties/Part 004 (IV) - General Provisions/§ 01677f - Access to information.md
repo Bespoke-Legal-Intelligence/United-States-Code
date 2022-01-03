@@ -62,7 +62,7 @@
 
 #### (3) Section 1675 reviews
 
-&emsp;Notwithstanding the provisions of paragraph (1), information submitted to the administering authority or the Commission in connection with a review under section 1675(b) or 1675(c) of this title which is designated as proprietary by the person submitting the information may, if the review results in the revocation of an order or finding (or termination of a suspended investigation) under section 1675(d) of this title, be used by the agency to which the information was originally submitted in any investigation initiated within 2years after the date of the revocation or termination pursuant to a petition covering the same subject merchandise.
+&emsp;Notwithstanding the provisions of paragraph (1), information submitted to the administering authority or the Commission in connection with a review under section 1675(b) or 1675(c) of this title which is designated as proprietary by the person submitting the information may, if the review results in the revocation of an order or finding (or termination of a suspended investigation) under section 1675(d) of this title, be used by the agency to which the information was originally submitted in any investigation initiated within 2 years after the date of the revocation or termination pursuant to a petition covering the same subject merchandise.
 
 #### (c) Limited disclosure of certain proprietary information under protective order
 
@@ -100,7 +100,7 @@
 
 #### (E) Failure to disclose
 
-&emsp;&emsp;If a person submitting information to the administering authority refuses to disclose business proprietary information which the administering authority determines should be released under a protective order described in subparagraph (B), the administering authority shall return the information, and any nonconfidential summary thereof, to the person submitting the information and summary and shall not consider either.
+&emsp;&emsp;If a person submitting information to the administering authority refuses to disclosebusiness proprietary information which the administering authority determines should be released under a protective order described in subparagraph (B), the administering authority shall return the information, and any nonconfidential summary thereof, to the person submitting the information and summary and shall not consider either.
 
 #### (2) Disclosure under court order
 
@@ -114,7 +114,7 @@
 
 #### (d) Service
 
-Any party submitting written information, including business proprietary information, to the administering authority or the Commission during a proceeding shall, at the same time, serve the information upon all interested parties who are parties to the proceeding, if the information is covered by a protective order. The administering authority or the Commission shall notaccept any such information that is not accompanied by a certificate of service and a copy of the protective order version of the document containing the information. Business proprietary information shall only be served upon interested parties who are parties to the proceeding that are subject to protective order; however, a nonconfidential summary thereof shall be served upon all other interested parties who are parties to the proceeding.
+Any party submitting written information, including business proprietary information, to the administering authority or the Commission during a proceeding shall, at the same time, serve the information upon all interested parties who are parties to the proceeding, if the information is covered by a protective order. The administering authority or the Commission shall not accept any such information that is not accompanied by a certificate of service and a copy of the protective order version of the document containing the information. Business proprietary information shall only be served upon interested parties who are parties to the proceeding that are subject to protective order; however, a nonconfidential summary thereof shall be served upon all other interested parties who are parties to the proceeding.
 
 #### (e) Repealed. Pub. L. 103–465, title II, §231(d)(1), Dec. 8, 1994, 108 Stat. 4897
 
@@ -242,6 +242,8 @@ The administering authority and the Commission shall provide an opportunity for 
 
 <i>For termination of amendment by section 501(c) of Pub. L. 100–449, see Effective and Termination Dates of 1988 Amendment note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2020</b>—Subsec. (f). Pub. L. 116–260, §601(f)(1), substituted "to the United" for "to the the United" in heading.
@@ -338,6 +340,8 @@ Pub. L. 98–573, §619(3), as amended by Pub. L. 99–514, §1889(8), amended s
 
 Subsec. (c)(1)(A). Pub. L. 98–573, §619(4), inserted "(before or after receipt of the information requested)".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2020 Amendment
 
 Amendment by Pub. L. 116–260 effective July 1, 2020, see section 601(h) of div. O of Pub. L. 116–260, set out as a note under section 81c of this title.
@@ -364,7 +368,7 @@ Amendment by Pub. L. 98–573 effective Oct. 30, 1984, see section 626(a) of Pub
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Departmentof Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 #### Effect of Termination of USMCA Country Status
 

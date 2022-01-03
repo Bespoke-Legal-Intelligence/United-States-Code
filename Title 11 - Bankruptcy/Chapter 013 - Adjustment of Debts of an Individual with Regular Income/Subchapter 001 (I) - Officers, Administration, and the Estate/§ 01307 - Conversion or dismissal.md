@@ -82,7 +82,7 @@ Subsec. (e). Pub. L. 99–554, §257(v)(3), inserted reference to chapter 12.
 
 Subsec. (c)(4). Pub. L. 98–353, §315(2), added par. (4). Former par. (4) redesignated (5).
 
-Subsec. (c)(5). Pub. L. 98–353, §§315(1), 527(b)(1), redesignated former par. (4) as (5) and inserted "a requestmade for" before "additional". Former par. (5) redesignated (6).
+Subsec. (c)(5). Pub. L. 98–353, §§315(1), 527(b)(1), redesignated former par. (4) as (5) and inserted "a request made for" before "additional". Former par. (5) redesignated (6).
 
 Subsec. (c)(6). Pub. L. 98–353, §315(1), redesignated former par. (5) as (6). Former par. (6) redesignated (7).
 

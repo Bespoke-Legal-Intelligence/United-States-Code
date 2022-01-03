@@ -48,7 +48,7 @@ Any proceeding conducted with respect to an initial determination on a claim und
 
 &emsp;(A) states in writing that he will not petition for review of the initial determination; and
 
-&emsp;(B) enters into an agreement with the Secretary to repay to the Secretary all or anypart of the amount of the award if, after review under subsection (d)(3)(C) or, if applicable, after judicial review, the amount of the award, or any part thereof, is not sustained.
+&emsp;(B) enters into an agreement with the Secretary to repay to the Secretary all or any part of the amount of the award if, after review under subsection (d)(3)(C) or, if applicable, after judicial review, the amount of the award, or any part thereof, is not sustained.
 
 (2) Upon payment of a claim by the Secretary pursuant to this subsection, the Secretary shall acquire by subrogation all rights of the claimant against any person found to be responsible for the damages with respect to which such claim was made. Any moneys recovered by the Secretary through subrogation shall be deposited into the Fund.
 

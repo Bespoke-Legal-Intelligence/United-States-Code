@@ -6,7 +6,7 @@ The Foreign Claims Settlement Commission of the United States (hereinafter refer
 
 #### (b) Rules and regulations; delegation of functions; time limit on filing of claims
 
-The Commission may prescribe such rules and regulations as may be necessary to enable it to carry out its functions, and may delegate functions to any member, officer, or employee of the Commission. The Commission shall give public notice of the time when, and the limit of timewithin which, claims may be filed, which notice shall be published in the Federal Register. The limit of time within which claims may be filed with the Commission shall in no event be later than March 31, 1952. The Commission shall take immediate action to advise all persons entitled to file claims under the provisions of this subchapter administered by the Commission of their rights under such provisions, and to assist them in the preparation and filing of their claims.
+The Commission may prescribe such rules and regulations as may be necessary to enable it to carry out its functions, and may delegate functions to any member, officer, or employee of the Commission. The Commission shall give public notice of the time when, and the limit of time within which, claims may be filed, which notice shall be published in the Federal Register. The limit of time within which claims may be filed with the Commission shall in no event be later than March 31, 1952. The Commission shall take immediate action to advise all persons entitled to file claims under the provisions of this subchapter administered by the Commission of their rights under such provisions, and to assist them in the preparation and filing of their claims.
 
 #### (c) Subpenas; issuance; contempt; witness fees; administration of oaths
 
@@ -18,7 +18,9 @@ The Commission may prescribe such rules and regulations as may be necessary to e
 
 (4) Any member of the Commission, and any employee of the Commission authorized by the Commission to do so, may administer to, or take from, any person an oath, affirmation, or affidavit when such action is necessary or appropriate in the performance of the functions or activities of the Commission.
 
-(July 3, 1948, ch. 826, title I, §2, 62 Stat. 1240; May 27, 1949, ch. 145, §1(1), 63 Stat. 112; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Aug. 16, 1950, ch. 718, 64 Stat. 449; Apr. 5, 1951, ch. 27, 65 Stat. 28; 1954 Reorg. Plan No. 1 §§2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279; Aug. 21, 1954, ch. 784, §3, 68 Stat. 762; Pub. L. 87–846, title I, §§102, 104(a), Oct. 22, 1962, 76 Stat. 1107, 1113; Pub. L. 96–209, title I, §108, Mar. 14, 1980, 94 Stat. 97.)
+(July 3, 1948, ch. 826, title I, §2, 62 Stat. 1240; May 27, 1949, ch. 145, §1(1), 63 Stat. 112; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Aug. 16, 1950, ch. 718, 64 Stat. 449; Apr. 5, 1951, ch. 27, 65 Stat. 28; 1954 Reorg. Plan No. 1 §§2, 4, eff. July1, 1954, 19 F.R. 3985, 68 Stat. 1279; Aug. 21, 1954, ch. 784, §3, 68 Stat. 762; Pub. L. 87–846, title I, §§102, 104(a), Oct. 22, 1962, 76 Stat. 1107, 1113; Pub. L. 96–209, title I, §108, Mar. 14, 1980, 94 Stat. 97.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -52,6 +54,8 @@ Former subsec. (e). Act Aug. 21, 1954, §3(a), repealed subsec. (e) which relate
 
 Subsec. (c). Act May 27, 1949, extended time within which persons may file claims until Mar. 1, 1951.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–209 effective Mar. 14, 1980, see title VI of Pub. L. 96–209, set out as an Effective Date note under section 1622a of Title 22, Foreign Relations and Intercourse.
@@ -75,6 +79,10 @@ Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (sub
 #### Transfer of Functions
 
 For provisions transferring Foreign Claims Settlement Commission of the United States to Department of Justice, as a separate agency, see section 1622a et seq. of Title 22, Foreign Relations and Intercourse.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
 
 "Foreign Claims Settlement Commission" substituted in text for "War Claims Commission" pursuant to Reorg. Plan No. 1 of 1954, §§2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out in the Appendix to Title 5, Government Organization and Employees, which abolished War Claims Commission, including offices of its members, and transferred functions of Commission and members, officers, and employees thereof to Foreign Claims Settlement Commission of the United States.
 

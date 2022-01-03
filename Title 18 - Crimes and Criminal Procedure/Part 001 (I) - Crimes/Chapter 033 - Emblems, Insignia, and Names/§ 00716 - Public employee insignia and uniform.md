@@ -32,7 +32,7 @@
 
 &emsp;(4) the term "public employee" means any officer or employee of the Federal Government or of a State or local government; and
 
-&emsp;(5) the term "uniform" means distinctive clothing or other items of dress, whether realor counterfeit, worn during the performance of official duties and which identifies the wearer as a public agency employee.
+&emsp;(5) the term "uniform" means distinctive clothing or other items of dress, whether real or counterfeit, worn during the performance of official duties and which identifies the wearer as a public agency employee.
 
 (d) It is a defense to a prosecution under this section that the official insignia or uniform is not used or intended to be used to mislead or deceive, or is a counterfeit insignia or uniform and is used or is intended to be used exclusively—
 

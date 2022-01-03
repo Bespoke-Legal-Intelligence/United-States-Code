@@ -12,7 +12,7 @@
 
 &emsp;(A) the name of each warrant officer on the active-duty list in the same grade or same grade and competitive category whose position on the active-duty list is between that of the most junior regular warrant officer in that grade whose name is submitted to the board and that of the most senior regular warrant officer in that grade whose name is submitted to the board; or
 
-&emsp;(B) with respect to a group of warrant officers designated under subparagraph (A) who are in a particular grade and competitive category, only those warrant officers in that grade and competitive category who are alsoin a particular year group or specialty, or any combination thereof determined by the Secretary concerned.
+&emsp;(B) with respect to a group of warrant officers designated under subparagraph (A) who are in a particular grade and competitive category, only those warrant officers in that grade and competitive category who are also in a particular year group or specialty, or any combination thereof determined by the Secretary concerned.
 
 (3) Such regulations shall establish procedures to exclude from consideration by the board any warrant officer who has been approved for voluntary retirement, or who is to be mandatorily retired under any other provision of law, during the fiscal year in which the board is convened or during the following fiscal year. An officer not considered by a selection board convened under section 573(c) of this title under such regulations because the officer has been approved for voluntary retirement shall be retired on the date approved for the retirement of such officer as of the convening date of such selection board unless the Secretary concerned approves a modification of such date in order to prevent a personal hardship for the officer or for other humanitarian reasons.
 
@@ -21,6 +21,8 @@
 (2) An officer recommended for early retirement under this section, if approved for deferral under paragraph (1), shall be retired on the date requested by the officer, and approved by the Secretary concerned, which date shall be not later than the first day of the tenth calendar month beginning after the month in which the Secretary concerned approves the report of the board which recommended the officer for early retirement.
 
 (Added Pub. L. 102–190, div. A, title XI, §1112(a), Dec. 5, 1991, 105 Stat. 1500; amended Pub. L. 102–484, div. A, title X, §1052(5), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 103–337, div. A, title V, §541(b)(6), Oct. 5, 1994, 108 Stat. 2765; Pub. L. 104–106, div. A, title V, §504(a), Feb. 10, 1996, 110 Stat. 295; Pub. L. 113–291, div. A, title V, §§501, 502(a), Dec. 19, 2014, 128 Stat. 3353.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -33,6 +35,8 @@ Subsec. (e). Pub. L. 113–291, §502(a), designated existing provisions as par.
 <b>1994</b>—Subsec. (a). Pub. L. 103–337 struck out "in the Army, Navy, Air Force, or Marine Corps" after "A regular warrant officer".
 
 <b>1992</b>—Subsec. (d)(2). Pub. L. 102–484 substituted "board" for "Board" in two places in first sentence.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

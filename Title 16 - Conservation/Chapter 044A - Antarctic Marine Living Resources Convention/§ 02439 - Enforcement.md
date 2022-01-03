@@ -26,7 +26,7 @@ Any officer or employee of the United States who is authorized (by the Secretary
 
 &emsp;(5) offer and pay rewards for services or information which may lead to the apprehension of persons violating such provisions;
 
-&emsp;(6) make inquiries, and administer to, or take from, any person an oath, affirmation, oraffidavit, concerning any matter which is related to the enforcement of such provisions;
+&emsp;(6) make inquiries, and administer to, or take from, any person an oath, affirmation, or affidavit, concerning any matter which is related to the enforcement of such provisions;
 
 &emsp;(7) in coordination with the Secretary of the Treasury, detain for inspection and inspect any package, crate, or other container, including its contents, and all accompanying documents, upon importation into, or exportation from, the United States;
 
@@ -51,6 +51,8 @@ Subject to the succeeding provisions of this subsection, any property or item se
 All provisions of law relating to the seizure, forfeiture, and condemnation of property (including vessels) for violation of the customs laws, the disposition of such property or the proceeds from the sale thereof, and the remission or mitigation of such forfeiture, shall apply to the seizures and forfeitures incurred, or alleged to have been incurred, and the compromise of claims, under the provisions of this chapter, insofar as such provisions of law are applicable and not inconsistent with the provisions of this chapter; except that all powers, rights, and duties conferred or imposed by the customs laws upon any officer or employee of the Customs Service may, for the purposes of this chapter, also be exercised or performed by the Secretary of Commerce or the Secretary of the department in which the Coast Guard is operating, or by such officers or employees of the United States as each Secretary may designate.
 
 (Pub. L. 98–623, title III, §310, Nov. 8, 1984, 98 Stat. 3403.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

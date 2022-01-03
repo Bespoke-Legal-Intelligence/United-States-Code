@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;(A) Except as otherwise provided in this paragraph, each local educational agency which is eligible for a grant under section 6333 of this title for any fiscal year is eligible for an additional grant under this section for that fiscal year if the number of children counted under section 6333(c) of this title in the agency exceeds either—
+&emsp;(A) Except as otherwise provided in this paragraph, each local educational agencywhich is eligible for a grant under section 6333 of this title for any fiscal year is eligible for an additional grant under this section for that fiscal year if the number of children counted under section 6333(c) of this title in the agency exceeds either—
 
 &emsp;&emsp;(i) 6,500; or
 
@@ -51,6 +51,8 @@ In any State for which on January 8, 2002, the number of children counted under 
 &emsp;(2) based on their respective concentrations and numbers of children counted under section 6333(c) of this title, except that only those local educational agencies with concentrations or numbers of children counted under section 6333(c) of this title that exceed the statewide average percentage of such children or the statewide average number of such children shall receive any funds on the basis of this paragraph.
 
 (Pub. L. 89–10, title I, §1124A, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1521.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

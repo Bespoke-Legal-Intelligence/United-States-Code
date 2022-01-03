@@ -46,6 +46,8 @@ Amounts received under subsection (b)—
 
 (Pub. L. 103–340, §3, Oct. 6, 1994, 108 Stat. 3119; Pub. L. 109–166, §2, Jan. 10, 2006, 119 Stat. 3576.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (c). Pub. L. 109–166 amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: "Amounts received under subsection (b) of this section—

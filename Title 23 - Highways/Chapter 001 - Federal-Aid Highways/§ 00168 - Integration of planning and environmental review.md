@@ -158,7 +158,7 @@ Transportation planning activities.—Initiation of the environmental review pro
 
 &emsp;(3)
 
-Planning products.—This section does not affect the use of planning products in the environmental review process pursuant to other authorities under any other provision of law or restrict the initiation of the environmental review process during planning.
+Planning products.—This section does not affect the use of planning products in theenvironmental review process pursuant to other authorities under any other provision of law or restrict the initiation of the environmental review process during planning.
 
 (Added Pub. L. 112–141, div. A, title I, §1310(a), July 6, 2012, 126 Stat. 540; amended Pub. L. 114–94, div. A, title I, §1305, Dec. 4, 2015, 129 Stat. 1386.)
 

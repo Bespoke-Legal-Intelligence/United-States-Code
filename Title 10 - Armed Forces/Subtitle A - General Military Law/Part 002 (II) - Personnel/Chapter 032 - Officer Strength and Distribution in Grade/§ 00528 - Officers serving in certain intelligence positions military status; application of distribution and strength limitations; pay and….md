@@ -30,7 +30,7 @@ Effect of Appointment.—Except as provided in subsection (a), the appointment o
 
 (f)
 
-Military Pay and Allowances.—(1) An officer of the armed forces on active duty who is appointed or assigned to a position covered by this section shall, while serving in such position and while remaining on active duty, continue to receive military pay and allowances and shall not receive the pay prescribed for such position.
+Military Pay and Allowances.—(1) An officer of the armed forces on active duty who is appointed or assigned to a position covered by this section shall, while serving in such position and while remaining on active duty, continue toreceive military pay and allowances and shall not receive the pay prescribed for such position.
 
 (2) Funds from which pay and allowances under paragraph (1) are paid to an officer while so serving shall be reimbursed as follows:
 
@@ -43,6 +43,8 @@ Military Pay and Allowances.—(1) An officer of the armed forces on active duty
 Covered Positions.—The positions covered by this section are the positions specified in subsections (b) and (c) and the positions designated under subsection (d).
 
 (Added Pub. L. 108–136, div. A, title V, §507(a), Nov. 24, 2003, 117 Stat. 1458; amended Pub. L. 109–163, div. A, title V, §507(a), Jan. 6, 2006, 119 Stat. 3228; Pub. L. 109–364, div. A, title V, §501(a), (b)(1), Oct. 17, 2006, 120 Stat. 2175, 2176; Pub. L. 110–417, \[div. A\], title IX, §933, Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–259, title VIII, §803, Oct. 7, 2010, 124 Stat. 2746; Pub. L. 112–81, div. A, title V, §502(d)(1), (2)(A), Dec. 31, 2011, 125 Stat. 1387, 1388.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

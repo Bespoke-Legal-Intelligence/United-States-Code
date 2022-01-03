@@ -136,7 +136,7 @@ The requirements of this subsection for an early childhood home visitation progr
 
 #### (ii) Corrective action plan
 
-&emsp;&emsp;&emsp;If the eligible entity fails to demonstrate improvement in at least 4 of the areas specified in subparagraph (A), as compared to eligible families who do not receive services under an early childhood home visitation program, the entity shall develop and implement a plan to improve outcomes in each of the areas specified in subparagraph (A) that the service delivery model or models selected by the entity are intended to improve, subject to approval by the Secretary. The plan shall include provisions for the Secretary to monitor implementation of the plan and conduct continued oversight of the program, including through submission by the entity of regular reports to the Secretary.
+&emsp;&emsp;&emsp;If the eligible entity fails to demonstrate improvement in at least 4 of the areas specified in subparagraph (A), as compared to eligible families who do not receiveservices under an early childhood home visitation program, the entity shall develop and implement a plan to improve outcomes in each of the areas specified in subparagraph (A) that the service delivery model or models selected by the entity are intended to improve, subject to approval by the Secretary. The plan shall include provisions for the Secretary to monitor implementation of the plan and conduct continued oversight of the program, including through submission by the entity of regular reports to the Secretary.
 
 #### (iii) Technical assistance
 
@@ -190,7 +190,7 @@ The requirements of this subsection for an early childhood home visitation progr
 
 #### (ii) Majority of grant funds used for evidence-based models
 
-&emsp;&emsp;&emsp;An eligible entity shall use not more than 25 percent of the amount of the grantpaid to the entity for a fiscal year for purposes of conducting a program using the service delivery model described in clause (i)(II).
+&emsp;&emsp;&emsp;An eligible entity shall use not more than 25 percent of the amount of the grant paid to the entity for a fiscal year for purposes of conducting a program using the service delivery model described in clause (i)(II).
 
 #### (iii) Criteria for evidence of effectiveness of models
 
@@ -260,13 +260,13 @@ An eligible entity desiring a grant under this section shall submit an applicati
 
 &emsp;&emsp;(B) participate in, and cooperate with, data and information collection necessary for the evaluation required under subsection (g)(2) and other research and evaluation activities carried out under subsection (h)(3).
 
-&emsp;(9) A description of other State programs that include home visitation services, including, if applicable to the State, other programs carried out under this subchapter with fundsmade available from allotments under section 702(c) of this title, programs funded under subchapter IV, title II of the Child Abuse Prevention and Treatment Act \[42 U.S.C. 5116 et seq.\] (relating to community-based grants for the prevention of child abuse and neglect), and section 9840a of this title (relating to Early Head Start programs).
+&emsp;(9) A description of other State programs that include home visitation services, including, if applicable to the State, other programs carried out under this subchapter with funds made available from allotments under section 702(c) of this title, programs funded under subchapter IV, title II of the Child Abuse Prevention and Treatment Act \[42 U.S.C. 5116 et seq.\] (relating to community-based grants for the prevention of child abuse and neglect), and section 9840a of this title (relating to Early Head Start programs).
 
 &emsp;(10) Other information as required by the Secretary.
 
 #### (f) Maintenance of effort
 
-Funds provided to an eligible entity receiving a grant under this section shall supplement, and not supplant, funds from other sources for early childhood home visitation programs or initiatives.
+Funds provided to an eligible entity receiving a grant under this section shall supplement, andnot supplant, funds from other sources for early childhood home visitation programs or initiatives.
 
 #### (g) Evaluation
 
@@ -506,6 +506,8 @@ In this section:
 
 (Aug. 14, 1935, ch. 531, title V, §511, as added Pub. L. 111–148, title II, §2951, Mar. 23, 2010, 124 Stat. 334; amended Pub. L. 113–93, title II, §209, Apr. 1, 2014, 128 Stat. 1046; Pub. L. 114–10, title II, §218, Apr. 16, 2015, 129 Stat. 153; Pub. L. 115–123, div. E, title VI, §§50601–50606(a), 50607, Feb. 9, 2018, 132 Stat. 228–231.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Child Abuse Prevention and Treatment Act, referred to in subsec. (e)(9), is Pub. L. 93–247, Jan. 31, 1974, 88 Stat. 4. Title II of the Act is classified generally to subchapter III (§5116 et seq.) of chapter 67 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of this title and Tables.
@@ -550,6 +552,8 @@ Subsec. (k)(4). Pub. L. 115–123, §50605(b), added par. (4).
 
 Subsec. (j)(2), (3). Pub. L. 113–93, §209(2), inserted "(or portion of a fiscal year)" after "for a fiscal year".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Pub. L. 115–123, div. E, title VI, §50606(b), Feb. 9, 2018, 132 Stat. 231, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the date that is 2 years after the date of enactment of this Act \[Feb. 9, 2018\]."
@@ -570,7 +574,7 @@ In General.—For purposes of section 511 of the Social Security Act \[42 U.S.C.
 
 &emsp;&emsp;"(A) to train home visitors in conducting a virtual home visit and in emergency preparedness and response planning for families served, and may include training on how to safely conduct intimate partner violence screenings remotely, training on safety and planning for families served;
 
-&emsp;&emsp;"(B) for the acquisition by families enrolled in the program of such technological means as areneeded to conduct and support a virtual home visit; and
+&emsp;&emsp;"(B) for the acquisition by families enrolled in the program of such technological means as are needed to conduct and support a virtual home visit; and
 
 &emsp;&emsp;"(C) to provide emergency supplies to families served, regardless of whether the provision of such supplies is within the scope of the approved program, such as diapers, formula, non-perishable food, water, hand soap, and hand sanitizer.
 
@@ -584,7 +588,7 @@ Authority to Delay Deadlines.—
 
 &emsp;"(1)
 
-In general.—The Secretary may extend the deadline by which a requirement of section 511 of the Social Security Act must be met, by such period of time as the Secretary deems appropriate, taking into consideration the impact of the COVID–19 public health emergency on eligible entity home visiting programs and the impact of families enrolled in home visiting programs. The Secretary may delay the deadline for submission, waive performance measures, or allow for alternative data sources to be used to show improvement in performance in the manner provided in section 511(d)(1) of such Act.
+In general.—The Secretary may extend the deadline by which a requirement of section 511 of theSocial Security Act must be met, by such period of time as the Secretary deems appropriate, taking into consideration the impact of the COVID–19 public health emergency on eligible entity home visiting programs and the impact of families enrolled in home visiting programs. The Secretary may delay the deadline for submission, waive performance measures, or allow for alternative data sources to be used to show improvement in performance in the manner provided in section 511(d)(1) of such Act.
 
 &emsp;"(2)
 

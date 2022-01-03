@@ -20,6 +20,8 @@ Not later than 180 days after June 20, 2008, the Federal Acquisition Regulation 
 
 (Pub. L. 110–247, §4, June 20, 2008, 122 Stat. 2314.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This section, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 110–247, June 20, 2008, 122 Stat. 2314, which enacted this section and provisions set out as notes under this section and section 1771 of this title. For complete classification of this Act to the Code, see Short Title of 2008 Amendment note set out under section 1771 of this title and Tables.
@@ -28,11 +30,13 @@ This section, referred to in subsec. (b), was in the original "this Act", meanin
 
 Section was enacted as part of the Federal Food Donation Act of 2008, and not as part of the Child Nutrition Act of 1966 which comprises this chapter.
 
-In subsec. (a), "section 1303 of title 41" substituted for "section 25 of the Office of Federal Procurement Policy Act (41 U.S.C. 421)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a), "section 1303 of title 41" substituted for "section 25 of the Office of Federal Procurement Policy Act (41 U.S.C. 421)" on authority of Pub. L.111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Purpose
 
-Pub. L. 110–247, §2, June 20, 2008, 122 Stat. 2314, provided that: "The purpose of this Act \[enacting this section and provisions set out as notes under this sectionand section 1771 of this title\] is to encourage executive agencies and contractors of executive agencies, to the maximum extent practicable and safe, to donate excess, apparently wholesome food to feed food-insecure people in the United States."
+Pub. L. 110–247, §2, June 20, 2008, 122 Stat. 2314, provided that: "The purpose of this Act \[enacting this section and provisions set out as notes under this section and section 1771 of this title\] is to encourage executive agencies and contractors of executive agencies, to the maximum extent practicable and safe, to donate excess, apparently wholesome food to feed food-insecure people in the United States."
 
 #### Definitions
 

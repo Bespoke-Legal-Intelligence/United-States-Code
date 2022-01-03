@@ -12,9 +12,11 @@ The Secretary shall establish a program of research, development, and demonstrat
 
 &emsp;(2) to identify and assess novel uses for carbon, including the conversion of carbon and carbon oxides for commercial and industrial products and other products with potential market value;
 
-&emsp;(3) to identify and assess carbon capture technologies for industrial systems; and
+&emsp;(3) to develop or obtain, in coordination with other applicable Federal agencies and standard-setting organizations, standards and certifications, as appropriate, to facilitate the commercialization of the products and technologies described in paragraph (2);
 
-&emsp;(4) to identify and assess alternative uses for raw coal and processed coal products in all phases that result in no significant emissions of carbon dioxide or other pollutants, including products derived from carbon engineering, carbon fiber, and coal conversion methods.
+&emsp;(4) to identify and assess carbon capture technologies for industrial systems; and
+
+&emsp;(5) to identify and assess alternative uses for raw coal and processed coal products in all phases that result in no significant emissions of carbon dioxide or other pollutants, including products derived from carbon engineering, carbon fiber, and coal conversion methods.
 
 #### (b) Demonstration programs for the purpose of commercialization
 
@@ -22,9 +24,37 @@ The Secretary shall establish a program of research, development, and demonstrat
 
 &emsp;Not later than 180 days after December 27, 2020, as part of the program established under subsection (a), the Secretary shall establish a 2-year demonstration program in each of the 2 major coal-producing regions of the United States for the purpose of partnering with private institutions in coal mining regions to accelerate the commercial deployment of coal-carbon products.
 
-#### (2) Cost sharing
+#### (2) Grant program
 
-&emsp;Activities under paragraph (1) shall be subject to the cost-sharing requirements of section 16352 of this title.
+#### (A) In general
+
+&emsp;&emsp;Not later than 1 year after November 15, 2021, the Secretary shall establish a program to provide grants to eligible entities to use in accordance with subparagraph (D).
+
+#### (B) Eligible entities
+
+&emsp;&emsp;To be eligible to receive a grant under this paragraph, an entity shall be—
+
+&emsp;&emsp;&emsp;(i) a State;
+
+&emsp;&emsp;&emsp;(ii) a unit of local government; or
+
+&emsp;&emsp;&emsp;(iii) a public utility or agency.
+
+#### (C) Applications
+
+&emsp;&emsp;Eligible entities desiring a grant under this paragraph shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary determines to be appropriate.
+
+#### (D) Use of funds
+
+&emsp;&emsp;An eligible entity shall use a grant received under this paragraph to procure and use commercial or industrial products that—
+
+&emsp;&emsp;&emsp;(i) use or are derived from anthropogenic carbon oxides; and
+
+&emsp;&emsp;&emsp;(ii) demonstrate significant net reductions in lifecycle greenhouse gas emissions compared to incumbent technologies, processes, and products.
+
+#### (3) Cost sharing
+
+&emsp;Activities under this subsection shall be subject to the cost-sharing requirements of section 16352 of this title.
 
 #### (c) Carbon Utilization Research Center
 
@@ -68,19 +98,35 @@ The Secretary shall establish a program of research, development, and demonstrat
 
 There are authorized to be appropriated to the Secretary to carry out this section—
 
-&emsp;(1) $54,000,000 for fiscal year 2021;
+&emsp;(1) $41,000,000 for fiscal year 2022;
 
-&emsp;(2) $55,250,000 for fiscal year 2022;
+&emsp;(2) $65,250,000 for fiscal year 2023;
 
-&emsp;(3) $56,562,500 for fiscal year 2023;
+&emsp;(3) $66,562,500 for fiscal year 2024;
 
-&emsp;(4) $57,940,625 for fiscal year 2024; and
+&emsp;(4) $67,940,625 for fiscal year 2025; and
 
-&emsp;(5) $59,387,656 for fiscal year 2025.
+&emsp;(5) $69,387,656 for fiscal year 2026.
 
 #### (e) Coordination
 
 The Secretary shall coordinate the activities authorized in this section with the activities authorized in section 16298 of this title as part of one consolidated program at the Department. Nothing in section 16298 of this title shall be construed as limiting the authorities provided in this section.
 
-(Pub. L. 109–58, title IX, §969A, as added Pub. L. 116–260, div. Z, title IV, §4004(a)(1), Dec. 27, 2020, 134 Stat. 2539.)
+(Pub. L. 109–58, title IX, §969A, as added Pub. L. 116–260, div. Z, title IV, §4004(a)(1), Dec. 27, 2020, 134 Stat. 2539; amended Pub. L. 117–58, div. D, title III, §40302, Nov. 15, 2021, 135 Stat. 987.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2021</b>—Subsec. (a)(3) to (5). Pub. L. 117–58, §40302(1), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
+
+Subsec. (b)(2), (3). Pub. L. 117–58, §40302(2), added par. (2), redesignated former par. (2) as (3), and, in par. (3), substituted "this subsection" for "paragraph (1)".
+
+Subsec. (d). Pub. L. 117–58, §40302(3), added subsec. (d) and struck out former subsec. (d) which provided appropriations for fiscal years 2021 to 2025.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Wage Rate Requirements
+
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of this title.
 

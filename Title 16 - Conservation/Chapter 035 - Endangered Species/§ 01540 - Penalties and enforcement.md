@@ -82,15 +82,17 @@ The Secretary, the Secretary of the Treasury, and the Secretary of the Departmen
 
 #### (h) Coordination with other laws
 
-The Secretary of Agriculture and the Secretary shall provide for appropriate coordination of the administration of this chapter with the administration of the animal quarantine laws (as defined in section 136a(f) of title 21) and section 306 <sup>1</sup> of the Tariff Act of 1930 (19 U.S.C. 1306). Nothing in this chapter or any amendment made by this chapter shall be construed as superseding or limiting in any manner the functions of the Secretary of Agriculture under any other law relating to prohibited or restricted importations or possession of animals and other articles and no proceeding or determination under this chapter shall preclude any proceeding or be considered determinative of any issue of fact or law in any proceeding under any Act administered by the Secretary of Agriculture. Nothing in this chapter shall be construed as superseding or limiting in any manner the functions and responsibilities of the Secretary of the Treasury under the Tariff Act of 1930 \[19 U.S.C. 1202 et seq.\], including, without limitation, section 527 of that Act (19 U.S.C. 1527), relating to the importation of wildlife taken, killed, possessed, or exported to the United States in violation of the laws or regulations of a foreign country.
+The Secretary of Agriculture and the Secretary shall provide for appropriate coordination of the administration of this chapter with the administration of the animal quarantine laws (as defined in section 136a(f) of title 21) and section 306 <sup>1</sup> of the Tariff Act of 1930 (19 U.S.C. 1306). Nothing in this chapter or any amendment made by this chapter shall be construed as superseding or limiting in any manner the functions of the Secretary of Agriculture under any other law relating to prohibited or restricted importations or possession of animals and other articles and no proceeding or determination under this chapter shall preclude any proceeding or be considered determinative of any issue of fact or law in any proceeding under any Act administered by the Secretary of Agriculture. Nothing in this chapter shall be construed as superseding or limiting in any manner the functions and responsibilities of the Secretary of theTreasury under the Tariff Act of 1930 \[19 U.S.C. 1202 et seq.\], including, without limitation, section 527 of that Act (19 U.S.C. 1527), relating to the importation of wildlife taken, killed, possessed, or exported to the United States in violation of the laws or regulations of a foreign country.
 
 (Pub. L. 93–205, §11, Dec. 28, 1973, 87 Stat. 897; Pub. L. 94–359, §4, July 12, 1976, 90 Stat. 913; Pub. L. 95–632, §§6–8, Nov. 10, 1978, 92 Stat. 3761, 3762; Pub. L. 97–79, §9(e), Nov. 16, 1981, 95 Stat. 1079; Pub. L. 97–304, §§7, 9(c), Oct. 13, 1982, 96 Stat. 1425, 1427; Pub. L. 98–327, §4, June 25, 1984, 98 Stat. 271; Pub. L. 100–478, title I, §1007, Oct. 7, 1988, 102 Stat. 2309; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 107–171, title X, §10418(b)(3), May 13, 2002, 116 Stat. 508.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 This chapter, referred to in subsecs. (a)(1), (3), (b)–(f), (g)(1)(A), and (h), was in the original "this Act", meaning Pub. L. 93–205, Dec. 28, 1973, 81 Stat. 884, known as the Endangered Species Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
-The amendments made by this chapter, referred to in subsec. (h), refer to the amendments made by Pub. L. 93–205, which amended section 460k–1, former section 460l–9, and sections 668dd, 715i, 715s, 1362, 1371, 1372, and1402 of this title and section 136 of Title 7, Agriculture, and repealed sections 668aa to 668cc–6 of this title.
+The amendments made by this chapter, referred to in subsec. (h), refer to the amendments made by Pub. L. 93–205, which amended section 460k–1, former section 460l–9, and sections 668dd, 715i, 715s, 1362, 1371, 1372, and 1402 of this title and section 136 of Title 7, Agriculture, and repealed sections 668aa to 668cc–6 of this title.
 
 The Tariff Act of 1930, referred to in subsec. (h), is act June 17, 1930, ch. 497, 46 Stat. 590, which is classified generally to chapter 4 (§1202 et seq.) of Title 19, Customs Duties. Section 306 of the Act was repealed by Pub. L. 107–171, title X, §10418(a)(5), May 13, 2002, 116 Stat. 507. For complete classification of this Act to the Code, see section 1654 of Title 19 and Tables.
 
@@ -131,6 +133,8 @@ Subsec. (b)(2). Pub. L. 95–632, §6(4), inserted "a person to import or export
 Subsec. (b)(3). Pub. L. 95–632, §8, added par. (3).
 
 <b>1976</b>—Subsec. (e)(3). Pub. L. 94–359 inserted "make arrests without a warrant for any violation of this chapter if he has reasonable grounds to believe that the person to be arrested is committing the violation in his presence or view, and may" after "Such person may" and ", but upon forfeiture of any such property to the United States, or the abandonment or waiver of any claim to any such property, it shall be disposed of (other than by sale to the general public) by the Secretary in such a manner, consistent with the purposes of this chapter, as the Secretary shall by regulation prescribe," after "other surety satisfactory to the Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

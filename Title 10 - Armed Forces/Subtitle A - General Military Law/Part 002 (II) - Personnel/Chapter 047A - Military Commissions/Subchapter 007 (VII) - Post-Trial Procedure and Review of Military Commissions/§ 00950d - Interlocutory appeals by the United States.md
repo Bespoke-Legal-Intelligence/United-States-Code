@@ -2,7 +2,7 @@
 
 (a)
 
-Interlocutory Appeal.—Except as provided in subsection (b), in a trial by military commission under this chapter, the United States may take an interlocutory appeal to the United States Court of Military Commission Review of any order or ruling of the military judge—
+Interlocutory Appeal.—Except as provided in subsection (b), in a trial by militarycommission under this chapter, the United States may take an interlocutory appeal to the United States Court of Military Commission Review of any order or ruling of the military judge—
 
 &emsp;(1) that terminates proceedings of the military commission with respect to a charge or specification;
 
@@ -68,7 +68,9 @@ Subsequent Appeal Rights of Accused Not Affected.—An appeal under paragraph (4
 
 (Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2601.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
-A prior section 950d, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2620, related to appeal by theUnited States, prior to the general amendment of this chapter by Pub. L. 111–84.
+A prior section 950d, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2620, related to appeal by the United States, prior to the general amendment of this chapter by Pub. L. 111–84.
 

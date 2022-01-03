@@ -22,6 +22,8 @@
 
 (Added Pub. L. 102–190, div. A, title XI, §1112(a), Dec. 5, 1991, 105 Stat. 1494; amended Pub. L. 102–484, div. A, title X, §1052(3), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 103–337, div. A, title V, §541(b)(2), Oct. 5, 1994, 108 Stat. 2764; Pub. L. 104–201, div. A, title V, §506(a), Sept. 23, 1996, 110 Stat. 2512.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (e). Pub. L. 104–201 substituted "two years of service" for "three years of service".
@@ -29,6 +31,8 @@
 <b>1994</b>—Subsecs. (a), (b). Pub. L. 103–337 substituted "Secretary concerned" for "Secretary of each military department".
 
 <b>1992</b>—Subsec. (d)(3). Pub. L. 102–484 substituted "active-duty list" for "active duty list" before "while".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

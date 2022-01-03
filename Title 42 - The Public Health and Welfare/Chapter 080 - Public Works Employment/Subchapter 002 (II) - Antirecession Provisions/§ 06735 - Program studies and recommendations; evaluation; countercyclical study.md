@@ -16,9 +16,13 @@
 
 (Pub. L. 94–369, title II, §215, July 22, 1976, 90 Stat. 1010; Pub. L. 95–30, title VI, §606, May 23, 1977, 91 Stat. 167.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1977</b>—Subsec. (c). Pub. L. 95–30 added subsec. (c).
+
+#### <b>Executive Documents</b>
 
 #### Termination of Trust Territory of the Pacific Islands
 

@@ -30,6 +30,8 @@ There is authorized to be appropriated to carry out this section such sums as ma
 
 (July 1, 1944, ch. 373, title VII, §741, as added Pub. L. 106–525, title IV, §401(a), Nov. 22, 2000, 114 Stat. 2508; amended Pub. L. 111–148, title V, §5307(a), Mar. 23, 2010, 124 Stat. 628.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 293e, act July 1, 1944, ch. 373, title VII, §725, formerly §728, as added Sept. 24, 1963, Pub. L. 88–129, §2(b), 77 Stat. 170; amended Sept. 4, 1964, Pub. L. 88–581, §3(d), 78 Stat. 919; Nov. 18, 1971, Pub. L. 92–157, title I, §102(i), 85 Stat. 436; renumbered §725, Oct. 12, 1976, Pub. L. 94–484, title III, §308(d), 90 Stat. 2257, related to technical assistance to applicants for grants for construction of teaching facilities for medical, dental, and other health personnel, and to States or interstate planning agencies to plan programs for relieving shortages of training of health personnel, prior to the general amendment of this subchapter by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994.
@@ -54,6 +56,8 @@ Subsec. (a)(1). Pub. L. 111–148, §5307(a)(1)(B), substituted "for the develop
 
 Subsecs. (b) to (d). Pub. L. 111–148, §5307(a)(2), added subsecs. (b) to (d) and struck out former subsec. (b). Prior to amendment, text of subsec. (b) read as follows: "There are authorized to be appropriated to carry out subsection (a) of this section, $3,500,000 for fiscal year 2001, $7,000,000 for fiscal year 2002, $7,000,000 for fiscal year 2003, and $3,500,000 for fiscal year 2004."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### National Conference on Health Professions Education and Health Disparities
 
 Pub. L. 106–525, title IV, §402, Nov. 22, 2000, 114 Stat. 2509, provided that:
@@ -68,7 +72,7 @@ Participants.—The Secretary shall include in the national conference convened 
 
 "(c)
 
-Issues.—The national conference convened under subsection (a) shall include, but is not limited to, issues that address the role and impact of health professions education on the reduction of disparities in health outcomes, including the role of education on cultural competency. The conference shall focus on methods to achieve reductions in disparities in health outcomes through health professions education (including continuing education programs) and strategies for outcomes measurement to assess the effectiveness of education in reducing disparities.
+Issues.—The national conference convened under subsection (a) shall include, but is not limited to, issues that address the role and impact of health professions education on the reduction of disparities in health outcomes, including the role of education on cultural competency. The conference shall focus on methods to achieve reductions in disparities in healthoutcomes through health professions education (including continuing education programs) and strategies for outcomes measurement to assess the effectiveness of education in reducing disparities.
 
 "(d)
 

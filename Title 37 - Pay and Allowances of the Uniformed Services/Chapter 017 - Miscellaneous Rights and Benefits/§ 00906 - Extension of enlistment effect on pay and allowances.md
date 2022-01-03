@@ -1,6 +1,6 @@
 ### §906. Extension of enlistment: effect on pay and allowances
 
-A member of the Army, Navy, Air Force, Marine Corps, Space Force, or Coast Guard, as thecase may be, who extends his enlistment under section 509 of title 10 is entitled to the same pay and allowances as though he had reenlisted. For the purposes of determining entitlement to reenlistment bonus or to travel and transportation allowances upon discharge, all such extensions of an enlistment are considered one continuous extension.
+A member of the Army, Navy, Air Force, Marine Corps, Space Force, or Coast Guard, as the case may be, who extends his enlistment under section 509 of title 10 is entitled to the same pay and allowances as though he had reenlisted. For the purposes of determining entitlement to reenlistment bonus or to travel and transportation allowances upon discharge, all such extensions of an enlistment are considered one continuous extension.
 
 (Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 489; Pub. L. 90–235, §2(c), Jan. 2, 1968, 81 Stat. 757; Pub. L. 116–283, div. A, title IX, §925(j), Jan. 1, 2021, 134 Stat. 3829.)
 

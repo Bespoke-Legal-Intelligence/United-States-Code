@@ -4,6 +4,8 @@ Notwithstanding any other provision of law, if the Secretary of Agriculture dete
 
 (Pub. L. 99–198, title X, §1019, Dec. 23, 1985, 99 Stat. 1459; Pub. L. 101–624, title XI, §1142, Nov. 28, 1990, 104 Stat. 3515.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Food Security Act of 1985, and not as part of the Agricultural Adjustment Act of 1938 which comprises this chapter.
@@ -15,6 +17,8 @@ A prior section 1310a, Pub. L. 97–98, title XI, §1107, Dec. 22, 1981, 95 Stat
 #### Amendments
 
 <b>1990</b>—Pub. L. 101–624 substituted "1995" for "1990".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

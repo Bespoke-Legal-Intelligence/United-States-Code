@@ -1,0 +1,214 @@
+### §22909. Railroad Crossing Elimination Program
+
+(a)
+
+In General.—The Secretary of Transportation, in cooperation with the Administrator of the Federal Railroad Administration, shall establish a competitive grant program (referred to in this section as the "Program") under which the Secretary shall award grants to eligible recipients described in subsection (c) for highway-rail or pathway-rail grade crossing improvement projects that focus on improving the safety and mobility of people and goods.
+
+(b)
+
+Goals.—The goals of the Program are—
+
+&emsp;(1) to eliminate highway-rail grade crossings that are frequently blocked by trains;
+
+&emsp;(2) to improve the health and safety of communities;
+
+&emsp;(3) to reduce the impacts that freight movement and railroad operations may have on underserved communities; and
+
+&emsp;(4) to improve the mobility of people and goods.
+
+(c)
+
+Eligible Recipients.—The following entities are eligible to receive a grant under this section:
+
+&emsp;(1) A State, including the District of Columbia, Puerto Rico, and other United States territories and possessions.
+
+&emsp;(2) A political subdivision of a State.
+
+&emsp;(3) A federally recognized Indian Tribe.
+
+&emsp;(4) A unit of local government or a group of local governments.
+
+&emsp;(5) A public port authority.
+
+&emsp;(6) A metropolitan planning organization.
+
+&emsp;(7) A group of entities described in any of paragraphs (1) through (6).
+
+(d)
+
+Eligible Projects.—The Secretary may award a grant under the Program for a highway-rail or pathway-rail grade crossing improvement project (including acquiring real property interests) involving—
+
+&emsp;(1) grade separation or closure, including through the use of a bridge, embankment, tunnel, or combination thereof;
+
+&emsp;(2) track relocation;
+
+&emsp;(3) the improvement or installation of protective devices, signals, signs, or other measures to improve safety, provided that such activities are related to a separation or relocation project described in paragraph (1) or (2);
+
+&emsp;(4) other means to improve the safety and mobility of people and goods at highway-rail grade crossings (including technological solutions);
+
+&emsp;(5) a group of related projects described in paragraphs (1) through (4) that would collectively improve the mobility of people and goods; or
+
+&emsp;(6) the planning, environmental review, and design of an eligible project described in paragraphs (1) through (5).
+
+(e)
+
+Application Process.—
+
+&emsp;(1)
+
+In general.—An eligible entity seeking a grant under the Program shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
+
+&emsp;(2)
+
+Railroad approvals.—
+
+&emsp;&emsp;(A)
+
+In general.—Except as provided in subparagraph (B), the Secretary shall require applicants to obtain the necessary approvals from any impacted rail carriers or real property owners before proceeding with the construction of a project funded by a grant under the Program.
+
+&emsp;&emsp;(B)
+
+Exception.—The requirement under subparagraph (A) shall not apply to planning projects described in subsection (d)(6) if the applicant agrees to work collaboratively with rail carriers and right-of-way owners.
+
+(f)
+
+Project Selection Criteria.—
+
+&emsp;(1)
+
+In general.—In awarding grants under the Program, the Secretary shall evaluate the extent to which proposed projects would—
+
+&emsp;&emsp;(A) improve safety at highway-rail or pathway-rail grade crossings;
+
+&emsp;&emsp;(B) grade separate, eliminate, or close highway-rail or pathway-rail grade crossings;
+
+&emsp;&emsp;(C) improve the mobility of people and goods;
+
+&emsp;&emsp;(D) reduce emissions, protect the environment, and provide community benefits, including noise reduction;
+
+&emsp;&emsp;(E) improve access to emergency services;
+
+&emsp;&emsp;(F) provide economic benefits; and
+
+&emsp;&emsp;(G) improve access to communities separated by rail crossings.
+
+&emsp;(2)
+
+Additional considerations.—In awarding grants under the Program, the Secretary shall consider—
+
+&emsp;&emsp;(A) the degree to which the proposed project will use—
+
+&emsp;&emsp;&emsp;(i) innovative technologies;
+
+&emsp;&emsp;&emsp;(ii) innovative design and construction techniques; or
+
+&emsp;&emsp;&emsp;(iii) construction materials that reduce greenhouse gas emissions;
+
+&emsp;&emsp;(B) the applicant's planned use of contracting incentives to employ local labor, to the extent permissible under Federal law;
+
+&emsp;&emsp;(C) whether the proposed project will improve the mobility of—
+
+&emsp;&emsp;&emsp;(i) multiple modes of transportation, including ingress and egress from freight facilities; or
+
+&emsp;&emsp;&emsp;(ii) users of nonvehicular modes of transportation, such as pedestrians, bicyclists, and public transportation;
+
+&emsp;&emsp;(D) whether the proposed project is identified in—
+
+&emsp;&emsp;&emsp;(i) the freight investment plan component of a State freight plan, as required under section 70202(b)(9);
+
+&emsp;&emsp;&emsp;(ii) a State rail plan prepared in accordance with chapter 227; or
+
+&emsp;&emsp;&emsp;(iii) a State highway-rail grade crossing action plan, as required under section 11401(b) of the Passenger Rail Reform and Investment Act of 2015 (title XI of Public Law 114–94); and
+
+&emsp;&emsp;(E) the level of financial support provided by impacted rail carriers.
+
+&emsp;(3)
+
+Award distribution.—In selecting grants for Program funds in any fiscal year, the Secretary shall comply with the following limitations:
+
+&emsp;&emsp;(A)
+
+Grant funds.—Not less than 20 percent of the grant funds available for the Program in any fiscal year shall be reserved for projects located in rural areas or on Tribal lands. The requirement under section 22907(l), which applies to this section, shall not apply to grant funds reserved specifically under this subparagraph. Not less than 5 percent of the grant funds reserved under this subparagraph shall be reserved for projects in counties with 20 or fewer residents per square mile, according to the most recent decennial census, provided that sufficient eligible applications have been submitted.
+
+&emsp;&emsp;(B)
+
+Planning grants.—Not less than 25 percent of the grant funds set aside for planning projects in any fiscal year pursuant to section 22104(b) of the Passenger Rail Expansion and Rail Safety Act of 2021 shall be awarded for projects located in rural areas or on tribal lands.
+
+&emsp;&emsp;(C)
+
+State limitation.—Not more than 20 percent of the grant funds available for the Program in any fiscal year may be selected for projects in any single State.
+
+&emsp;&emsp;(D)
+
+Minimum size.—No grant awarded under this section shall be for less than $1,000,000, except for a planning grant described in subsection (d)(6).
+
+(g)
+
+Cost Share.—Except as provided in paragraph (2),<sup>1</sup> the Federal share of the cost of a project carried out using a grant under the Program may not exceed 80 percent of the total cost of the project. Applicants may count costs incurred for preliminary engineering associated with highway-rail and pathway-rail grade crossing improvement projects as part of the total project costs.
+
+(h)
+
+Congressional Notification.—Not later than 3 days before awarding a grant for a project under the Program, the Secretary shall submit written notification of the proposed grant to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives, which shall include—
+
+&emsp;(1) a summary of the project; and
+
+&emsp;(2) the amount of the proposed grant award.
+
+(i)
+
+Annual Report.—Not later than 60 days after each round of award notifications, the Secretary shall post, on the public website of the Department of Transportation—
+
+&emsp;(1) a list of all eligible applicants that submitted an application for funding under the Program during the current fiscal year;
+
+&emsp;(2) a list of the grant recipients and projects that received grant funding under the Program during such fiscal year; and
+
+&emsp;(3) a list of the proposed projects and applicants that were determined to be ineligible.
+
+(j)
+
+Commuter Rail Eligibility and Grant Conditions.—
+
+&emsp;(1)
+
+In general.—Section 22905(f) shall not apply to grants awarded under this section for commuter rail passenger transportation projects.
+
+&emsp;(2)
+
+Administration of funds.—The Secretary of Transportation shall transfer amounts awarded under this section for commuter rail passenger transportation projects to the Federal Transit Administration, which shall administer such funds in accordance with chapter 53.
+
+&emsp;(3)
+
+Protective arrangements.—
+
+&emsp;&emsp;(A)
+
+In general.—Notwithstanding paragraph (2) and section 22905(e)(1), as a condition of receiving a grant under this section, any employee covered by the Railway Labor Act (45 U.S.C. 151 et seq.) and the Railroad Retirement Act of 1974 (45 U.S.C. 231 et seq.) who is adversely affected by actions taken in connection with the project financed in whole or in part by such grant shall be covered by employee protective arrangements required to be established under section 22905(c)(2)(B).
+
+&emsp;&emsp;(B)
+
+Implementation.—A grant recipient under this section, and the successors, assigns, and contractors of such grant recipient—
+
+&emsp;&emsp;&emsp;(i) shall be bound by the employee protective arrangements required under subparagraph (A); and
+
+&emsp;&emsp;&emsp;(ii) shall be responsible for the implementation of such arrangements and for the obligations under such arrangements, but may arrange for another entity totake initial responsibility for compliance with the conditions of such arrangement.
+
+(k)
+
+Defined Term.—In this section, the term "rural area" means any area that is not within an area designated as an urbanized area by the Bureau of the Census.
+
+(Added Pub. L. 117–58, div. B, title II, §22305(a), Nov. 15, 2021, 135 Stat. 720.)
+
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+Section 11401(b) of the Passenger Rail Reform and Investment Act of 2015, referred to in subsec. (f)(2)(D)(iii), is section 11401(b) of title XI of div. A of Pub. L. 114–94, which is set out as a note under section 22907 of this title.
+
+Section 22104(b) of the Passenger Rail Expansion and Rail Safety Act of 2021, referred to in subsec. (f)(3)(B), is section 22104(b) of title II of div. B of Pub. L. 117–58, Nov. 15, 2021, 135 Stat. 696, which is not classified to the Code.
+
+The Railway Labor Act, referred to in subsec. (j)(3)(A), is act May 20, 1926, ch. 347, 44 Stat. 577, which is classified principally to chapter 8 (§151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
+
+The Railroad Retirement Act of 1974, referred to in subsec. (j)(3)(A), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
+
+<i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
+

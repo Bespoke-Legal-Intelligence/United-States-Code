@@ -8,11 +8,13 @@ Whenever after full hearing upon a complaint made as provided in section 210 of 
 
 (Aug. 15, 1921, ch. 64, title III, §310, 42 Stat. 166; Aug. 10, 1939, ch. 663, 53 Stat. 1351; Pub. L. 95–409, §1(b), Oct. 2, 1978, 92 Stat. 886.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>1978</b>—Pub. L. 95–409, §1(b)(1), in provision preceding subsec. (a), substituted "violative of section 205, 206 or 208 of this title" for "unjust, unreasonable, or discriminatory".
+<b>1978</b>—Pub. L. 95–409, §1(b)(1), in provision preceding subsec. (a), substituted "violative of section 205, 206 or208 of this title" for "unjust, unreasonable, or discriminatory".
 
-Subsec. (a). Pub. L. 95–409, §1(b)(2), substituted "May in accordance with the standard set forth in section 206 of this title determine and prescribe what will be the rate" for "May determine and prescribe what will be the just and reasonable rate", and "as the maximum orminimum or both" for "as both the maximum and minimum", and inserted proviso relating to prescription by the Secretary of rates or charges on a percentage or per head basis at the election of the owner or agency or any other basis unless violative of section 206 of this title.
+Subsec. (a). Pub. L. 95–409, §1(b)(2), substituted "May in accordance with the standard set forth in section 206 of this title determine and prescribe what will be the rate" for "May determine and prescribe what will be the just and reasonable rate", and "as the maximum or minimum or both" for "as both the maximum and minimum", and inserted proviso relating to prescription by the Secretary of rates or charges on a percentage or per head basis at the election of the owner or agency or any other basis unless violative of section 206 of this title.
 
 Subsec. (b). Pub. L. 95–409, §1(b)(3), substituted "other than the rate or charge or rates or charges" for "more or less than the rate or charge".
 

@@ -40,9 +40,13 @@ Beginning on the date which occurs six months after the date on which a labeling
 
 (Pub. L. 94–163, title III, §346, as added Pub. L. 95–619, title IV, §441(a), Nov. 9, 1978, 92 Stat. 3272; amended Pub. L. 102–486, title I, §124(a), Oct. 24, 1992, 106 Stat. 2832.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Pub. L. 102–486 amended section generally, substituting provisions requiring energy conservation standards for high-intensity discharge lamps, distribution transformers, and small electric motors, for provisions authorizing appropriations for fiscal years 1978 and 1979.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Energy Efficient Transformer Rebate Program
 

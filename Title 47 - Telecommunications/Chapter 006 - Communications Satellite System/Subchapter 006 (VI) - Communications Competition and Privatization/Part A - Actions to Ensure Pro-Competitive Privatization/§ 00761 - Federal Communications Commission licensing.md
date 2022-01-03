@@ -8,7 +8,7 @@
 
 #### (2) Criteria for competition test
 
-&emsp;In making the determination required by paragraph (1), the Commission shall use the licensing criteria in sections 763 and 763b <sup>1</sup> of this title, and shall not make such a determination unless the Commission determines that the privatization of any separated entity is consistent with such criteria.
+&emsp;In making the determination required by paragraph (1), the Commission shall use the licensing criteria in sections 763 and 763b <sup>1</sup> of this title, and shall not make such a determination unless the Commission determinesthat the privatization of any separated entity is consistent with such criteria.
 
 #### (b) Licensing for INTELSAT, Inmarsat, and successor entities
 
@@ -28,7 +28,7 @@
 
 #### (C) National security, law enforcement, and public safety
 
-&emsp;&emsp;The Commission shall not impose any limitation, condition, or restriction under subparagraph (B) in a manner that will, or is reasonably likely to, result in limitation, denial, or revocation of authority for non-core services that are used by and required for a national security agency or law enforcement department or agency of the United States, or used by and required for, and otherwise in the public interest, any other Department or Agency of the United States to protect the health and safety of the public. Such services may be obtained by the United States directly from INTELSAT,Inmarsat, or a successor entity, or indirectly through COMSAT, or authorized carriers or distributors of the successor entity.
+&emsp;&emsp;The Commission shall not impose any limitation, condition, or restriction under subparagraph (B) in a manner that will, or is reasonably likely to, result in limitation, denial, or revocation of authority for non-core services that are used by and required for a national security agency or law enforcement department or agency of the United States, or used by and required for, and otherwise in the public interest, any other Department or Agency of the United States to protect the health and safety of the public. Such services may be obtained by the United States directly from INTELSAT, Inmarsat, or a successor entity, or indirectly through COMSAT, or authorized carriers or distributors of the successor entity.
 
 #### (D) Rule of construction
 

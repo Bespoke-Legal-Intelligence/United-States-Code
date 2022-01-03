@@ -92,7 +92,7 @@
 
 &emsp;&emsp;&emsp;(i) The sale or license of a finished item and the provision of associated technology if the United States person that is a party to the transaction generally makes the finished item and associated technology available to its customers, distributors, or resellers.
 
-&emsp;&emsp;&emsp;(ii) The sale or license to a customer of a product and the provision of integration services or similar services if the United States person that is a party to the transaction generally makes such services available to its customers.
+&emsp;&emsp;&emsp;(ii) The sale or license to a customer of a product and the provision of integrationservices or similar services if the United States person that is a party to the transaction generally makes such services available to its customers.
 
 &emsp;&emsp;&emsp;(iii) The transfer of equipment and the provision of associated technology to operate the equipment if the transfer could not result in the foreign person using the equipment to produce critical technologies (as defined in section 4565(a) of this title).
 
@@ -104,7 +104,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary of State, in consultation with the Secretary and the Secretary of Defense, and the heads of other Federal agencies, as appropriate, shall propose that any technologyidentified pursuant to subsection (a) be added to the list of technologies controlled by the relevant multilateral export control regimes.
+&emsp;The Secretary of State, in consultation with the Secretary and the Secretary of Defense, and the heads of other Federal agencies, as appropriate, shall propose that any technology identified pursuant to subsection (a) be added to the list of technologies controlled by the relevant multilateral export control regimes.
 
 #### (2) Items on commerce control list or United States munitions list
 
@@ -176,9 +176,11 @@ Nothing in this chapter shall be construed to alter or limit—
 
 (Pub. L. 115–232, div. A, title XVII, §1758, Aug. 13, 2018, 132 Stat. 2218.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-Executive Order 12981, referred to in subsec. (b)(3)(A), is Ex. Ord. No. 12981, Dec. 5, 1995, 60 F.R. 62981, whichis set out as a note under former section 4603 of this title.
+Executive Order 12981, referred to in subsec. (b)(3)(A), is Ex. Ord. No. 12981, Dec. 5, 1995, 60 F.R. 62981, which is set out as a note under former section 4603 of this title.
 
 The Federal Advisory Committee Act, referred to in subsec. (f)(5), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 

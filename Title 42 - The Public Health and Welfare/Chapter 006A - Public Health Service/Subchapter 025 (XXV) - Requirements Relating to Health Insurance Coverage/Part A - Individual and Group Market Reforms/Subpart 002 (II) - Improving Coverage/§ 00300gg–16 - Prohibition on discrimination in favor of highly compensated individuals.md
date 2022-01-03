@@ -18,6 +18,8 @@ For purposes of this section—
 
 (July 1, 1944, ch. 373, title XXVII, §2716, as added and amended Pub. L. 111–148, title I, §1001(5), title X, §10101(d), Mar. 23, 2010, 124 Stat. 135, 884.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–148, §10101(d), amended section generally. Prior to amendment, text read as follows:
@@ -29,6 +31,8 @@ In General.—The plan sponsor of a group health plan (other than a self-insured
 "(b)
 
 Limitation.—Subsection (a) shall not be construed to prohibit a plan sponsor from establishing contribution requirements for enrollment in the plan or coverage that provide for the payment by employees with lower hourly or annual compensation of a lower dollar or percentage contribution than the payment required of similarly situated employees with a higher hourly or annual compensation."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

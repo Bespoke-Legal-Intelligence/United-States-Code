@@ -8,7 +8,7 @@ Smithsonian institution.—The Smithsonian Institution and its grounds, which in
 
 &emsp;&emsp;(A)
 
-Smithsonian buildings and grounds on the national mall.—The Smithsonian Building, the Arts and Industries Building, the Freer Gallery of Art, the National Air and Space Museum, the National Museum of Natural History, the National Museum of American History, the National Museum of the American Indian, the Hirshhorn Museum and Sculpture Garden, the Arthur M. Sackler Gallery, the National Museum of African Art, the S. Dillon Ripley Center, and all other buildings of the Smithsonian Institution within the Mall, including the entrance walks, unloading areas, and other pertinent service roads and parking areas.
+Smithsonian buildings and grounds on the national mall.—The Smithsonian Building, the Arts and Industries Building, the Freer Gallery of Art, the National Air and Space Museum, the National Museum of Natural History, the National Museum of American History, the National Museum of the American Indian, the Hirshhorn Museum and Sculpture Garden, the Arthur M. Sackler Gallery, the National Museum of African Art, the S. Dillon Ripley Center, andall other buildings of the Smithsonian Institution within the Mall, including the entrance walks, unloading areas, and other pertinent service roads and parking areas.
 
 &emsp;&emsp;(B)
 

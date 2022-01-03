@@ -186,6 +186,18 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 &emsp;&emsp;&emsp;(ii) inform the Pension Benefit Guaranty Corporation of such application in such form and manner as the Director of the Pension Benefit Guaranty Corporation may prescribe.
 
+#### (F) Relief for 2020 and 2021
+
+&emsp;&emsp;A multiemployer plan with respect to which the solvency test under subparagraph (C) is met as of February 29, 2020, may elect to apply this paragraph (without regard to whether such plan previously elected the application of this paragraph)—
+
+&emsp;&emsp;&emsp;(i) by substituting "February 29, 2020" for "August 31, 2008" each place it appears in subparagraphs (A)(i), (B)(i)(I), and (B)(i)(II),
+
+&emsp;&emsp;&emsp;(ii) by inserting "and other losses related to the virus SARS–CoV–2 or coronavirus disease 2019 (COVID–19) (including experience losses related to reductions in contributions, reductions in employment, and deviations from anticipated retirement rates, as determined by the plan sponsor)" after "net investment losses" in subparagraph (A)(i), and
+
+&emsp;&emsp;&emsp;(iii) by substituting "this subparagraph or subparagraph (A)" for "this subparagraph and subparagraph (A) both" in subparagraph (B)(iii).
+
+> &emsp;&emsp;The preceding sentence shall not apply to a plan to which special financial assistance is granted under section 1432 of this title. For purposes of the application of this subparagraph, the Secretary of the Treasury shall rely on the plan sponsor's calculations of plan losses unless such calculations are clearly erroneous.
+
 #### (c) Additional rules
 
 #### (1) Determinations to be made under funding method
@@ -222,7 +234,7 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 #### (5) Full funding
 
-&emsp;If, as of the close of a plan year, a plan would (without regard to this paragraph) have an accumulated funding deficiency in excess of the full funding limitation—
+&emsp;If, as of the close of a plan year, a plan would (without regard to this paragraph) havean accumulated funding deficiency in excess of the full funding limitation—
 
 &emsp;&emsp;(A) the funding standard account shall be credited with the amount of such excess, and
 
@@ -306,7 +318,7 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 #### (vi) Periodic review
 
-&emsp;&emsp;&emsp;The Secretary of the Treasury shall periodically (at least every 5 years) review any tables in effect under this subparagraph and shall, to the extent such Secretary determines necessary, by regulation update the tables to reflect the actual experience of pension plans and projected trends in such experience.
+&emsp;&emsp;&emsp;The Secretary of the Treasury shall periodically (at least every 5 years) review any tables in effect under this subparagraph and shall, to the extent such Secretary determines necessary, by regulation update the tables to reflect the actual experienceof pension plans and projected trends in such experience.
 
 #### (E) Required change of interest rate
 
@@ -422,7 +434,7 @@ For purposes of section 1082 of this title, the accumulated funding deficiency o
 
 &emsp;&emsp;The Secretary of the Treasury shall consider any relevant information provided by a person to whom notice was given under paragraph (1).
 
-(Pub. L. 93–406, title I, §304, as added Pub. L. 109–280, title II, §201(a), Aug. 17, 2006, 120 Stat. 858; amended Pub. L. 111–192, title II, §211(a)(1), June 25, 2010, 124 Stat. 1302; Pub. L. 113–235, div. O, title I, §§101(b)(1), 108(a)(3)(B), Dec. 16, 2014, 128 Stat. 2774, 2787; Pub. L. 113–295, div. A, title I, §171(b), Dec. 19, 2014, 128 Stat. 4023.)
+(Pub. L. 93–406, title I, §304, as added Pub. L. 109–280, title II, §201(a), Aug. 17, 2006, 120 Stat. 858; amended Pub. L. 111–192, title II, §211(a)(1), June 25, 2010, 124 Stat. 1302; Pub. L. 113–235, div. O, title I, §§101(b)(1), 108(a)(3)(B), Dec. 16, 2014, 128 Stat. 2774, 2787; Pub. L. 113–295, div. A, title I, §171(b), Dec. 19, 2014, 128 Stat. 4023; Pub. L. 117–2, title IX, §9703(a)(1), Mar. 11, 2021, 135 Stat. 188.)
 
 #### <b>Editorial Notes</b>
 
@@ -442,6 +454,8 @@ A prior section 1084, Pub. L. 93–406, title I, §304, Sept. 2, 1974, 88 Stat. 
 
 #### Amendments
 
+<b>2021</b>—Subsec. (b)(8)(F). Pub. L. 117–2 added subpar. (F).
+
 <b>2014</b>—Subsec. (a). Pub. L. 113–235, §108(a)(3)(B), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to accumulated funding deficiencies of multiemployer plans.
 
 Subsec. (d)(1)(C). Pub. L. 113–295, which directed substitution of "December 31, 2015" for "December 31, 2014", was not executed in view of the amendment by Pub. L. 113–235, §101(b)(1), which struck out subpar. (C). See note below.
@@ -452,9 +466,13 @@ Pub. L. 113–235, §101(b)(1), struck out subpar. (C). Text read as follows: "T
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 117–2 effective as of the first day of the first plan year ending on or after February 29, 2020, with exceptions and restrictions, see section 9703(b) of Pub. L. 117–2, set out as an Effective Date note under section 431 of Title 26, Internal Revenue Code.
+
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–295 applicable to applications submitted under subsec. (d)(1)(C) of this section after Dec. 31, 2014, see section 171(c) of Pub. L. 113–295, set out as a note under section 431 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 113–295 applicable to applications submitted under subsec. (d)(1)(C) of this sectionafter Dec. 31, 2014, see section 171(c) of Pub. L. 113–295, set out as a note under section 431 of Title 26, Internal Revenue Code.
 
 Amendment by section 108(a)(3)(B) of Pub. L. 113–235 applicable with respect to plan years beginning after Dec. 31, 2014, see section 108(c) of Pub. L. 113–235, set out as an Effective Date of Repeal note under section 418 of Title 26, Internal Revenue Code.
 

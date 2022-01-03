@@ -56,7 +56,7 @@ For purposes of this part:
 
 &emsp;(18) The term "Commission" means the Federal Trade Commission.
 
-&emsp;(19) The term "AV" is the adjusted volume for refrigerators, refrigerator-freezers, andfreezers, as defined in the applicable test procedure prescribed under section 6293 of this title.
+&emsp;(19) The term "AV" is the adjusted volume for refrigerators, refrigerator-freezers, and freezers, as defined in the applicable test procedure prescribed under section 6293 of this title.
 
 &emsp;(20) The term "annual fuel utilization efficiency" means the efficiency descriptor for furnaces and boilers, determined using test procedures prescribed under section 6293 of this title and based on the assumption that all—
 
@@ -130,7 +130,7 @@ For purposes of this part:
 
 &emsp;(B) The term "ANSI standard" means a standard developed by a committee accredited by the American National Standards Institute.
 
-&emsp;(C) The term "ballast efficacy factor" means the relative light output divided by the power input of a fluorescent lamp ballast, as measured under test conditions specified in ANSIstandard C82.2–1984, or as may be prescribed by the Secretary.
+&emsp;(C) The term "ballast efficacy factor" means the relative light output divided by the power input of a fluorescent lamp ballast, as measured under test conditions specified in ANSI standard C82.2–1984, or as may be prescribed by the Secretary.
 
 &emsp;(D)(i) The term "F40T12 lamp" means a nominal 40 watt tubular fluorescent lamp which is 48 inches in length and one-and-a-half inches in diameter, and conforms to ANSI standard C78.81–2003 (Data Sheet 7881–ANSI–1010–1).
 
@@ -178,7 +178,7 @@ For purposes of this part:
 
 &emsp;&emsp;(iii) Any rapid start lamp (commonly referred to as 8-foot high output lamps) with recessed double contact bases of nominal overall length of 96 inches and 0.800 nominal amperes, as defined in ANSI C78.1–1978 and related supplements.
 
-&emsp;&emsp;(iv) Any instant start lamp (commonly referred to as 8-foot slimline lamps) with single pin bases of nominal overall length of 96 inches and rated wattage of 52 or more, as defined in ANSI C78.3–1978 (R1984) and related supplement ANSI C78.3a–1985.
+&emsp;&emsp;(iv) Any instant start lamp (commonly referred to as 8-foot slimline lamps) with single pin bases of nominal overall length of 96 inches and rated wattage of 52 or more, asdefined in ANSI C78.3–1978 (R1984) and related supplement ANSI C78.3a–1985.
 
 &emsp;(B) The term "general service fluorescent lamp" means fluorescent lamps which can be used to satisfy the majority of fluorescent applications, but does not include any lamp designed and marketed for the following nongeneral lighting applications:
 
@@ -198,7 +198,7 @@ For purposes of this part:
 
 &emsp;&emsp;(viii) Lamps with a color rendering index of 87 or greater.
 
-&emsp;(C) Except as provided in subparagraph (E), the term "incandescent lamp" means a lampin which light is produced by a filament heated to incandescence by an electric current, including only the following:
+&emsp;(C) Except as provided in subparagraph (E), the term "incandescent lamp" means a lamp in which light is produced by a filament heated to incandescence by an electric current, including only the following:
 
 &emsp;&emsp;(i) Any lamp (commonly referred to as lower wattage nonreflector general service lamps, including any tungsten-halogen lamp) that has a rated wattage between 30 and 199 watts, has an E26 medium screw base, has a rated voltage or voltage range that lies at least partially within 115 and 130 volts, and is not a reflector lamp.
 
@@ -648,7 +648,7 @@ In general.—The term "mercury vapor lamp" means a high intensity discharge lam
 
 &emsp;&emsp;(B)
 
-Inclusions.—The term "mercury vapor lamp" includes clear, phosphor-coated, andself-ballasted screw base lamps described in subparagraph (A).
+Inclusions.—The term "mercury vapor lamp" includes clear, phosphor-coated, and self-ballasted screw base lamps described in subparagraph (A).
 
 &emsp;(48)
 
@@ -746,7 +746,7 @@ Efficiency formula.—For the purpose of subparagraph (A)—
 
 &emsp;&emsp;&emsp;(iii) the lamp, and the capacitor when the capacitor is provided, shall constitute a nominal system in accordance with the ANSI Standard C78.43–2004;
 
-&emsp;&emsp;&emsp;(iv) for ballasts with a frequency of 60 Hz, P<sub>in</sub> and P<sub>out</sub> shall be measured after lamps have been stabilized according to section 4.4 of ANSI Standard C82.6–2005 using a wattmeter with accuracy specifiedin section 4.5 of ANSI Standard C82.6–2005; and
+&emsp;&emsp;&emsp;(iv) for ballasts with a frequency of 60 Hz, P<sub>in</sub> and P<sub>out</sub> shall be measured after lamps have been stabilized according to section 4.4 of ANSI Standard C82.6–2005 using a wattmeter with accuracy specified in section 4.5 of ANSI Standard C82.6–2005; and
 
 &emsp;&emsp;&emsp;(v) for ballasts with a frequency greater than 60 Hz, P<sub>in</sub> and P<sub>out</sub> shall have a basic accuracy of +/- 0.5 percent at the higher of—
 
@@ -803,6 +803,8 @@ Starting process.—For the purpose of subparagraph (A)—
 &emsp;&emsp;&emsp;(ii) to complete the starting process, power shall be provided by the ballast to sustain the discharge through the glow-to-arc transition.
 
 (Pub. L. 94–163, title III, §321, Dec. 22, 1975, 89 Stat. 917; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 100–12, §2, Mar. 17, 1987, 101 Stat. 103; Pub. L. 100–357, §2(a), June 28, 1988, 102 Stat. 671; Pub. L. 102–486, title I, §123(b), Oct. 24, 1992, 106 Stat. 2817; Pub. L. 105–388, §5(a)(2), Nov. 13, 1998, 112 Stat. 3478; Pub. L. 109–58, title I, §135(a), Aug. 8, 2005, 119 Stat. 624; Pub. L. 110–140, title III, §§301(a), 316(a)(1), (b), (c)(1), 321(a)(1), 322(a), 324(a), Dec. 19, 2007, 121 Stat. 1549, 1572, 1573, 1587, 1591; Pub. L. 112–210, §10(a)(6), (7), (10), Dec. 18, 2012, 126 Stat. 1524, 1525; Pub. L. 115–115, §2(a), (c)(1), Jan. 12, 2018, 131 Stat. 2280, 2281.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -893,6 +895,8 @@ Subsec. (a)(29). Pub. L. 100–357, §2(a)(1), added par. (29).
 Subsec. (a)(19) to (28). Pub. L. 100–12, §2(b), added pars. (19) to (28).
 
 <b>1978</b>—Subsec. (a)(3), (6)(B), (9). Pub. L. 95–619 substituted "Secretary" for "Administrator", meaning Administrator of the Federal Energy Administration, wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

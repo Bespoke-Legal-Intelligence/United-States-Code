@@ -56,6 +56,8 @@ The Networking and Information Technology Research and Development Program estab
 
 (Pub. L. 111–5, div. A, title XIII, §13202, Feb. 17, 2009, 123 Stat. 245; Pub. L. 114–329, title I, §105(s), Jan. 6, 2017, 130 Stat. 2985.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Subsec. (b). Pub. L. 114–329 substituted "Networking and Information Technology Research and Development Program" for "National High-Performance Computing Program".

@@ -38,6 +38,8 @@ For purposes of this chapter:
 
 (Pub. L. 105–19, §6, June 18, 1997, 111 Stat. 221.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The first section of the Hate Crime Statistics Act, referred to in par. (4), is Pub. L. 101–275, §1, Apr. 23, 1990, 104 Stat. 140, which was set out in a note under section 534 of Title 28, Judiciary and Judicial Procedure, prior to editorial reclassification as section 41305 of Title 34, Crime Control and Law Enforcement.

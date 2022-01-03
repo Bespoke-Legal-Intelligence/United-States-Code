@@ -16,7 +16,7 @@ Review of a Detention Order.—If a person is ordered detained by a magistrate j
 
 (c)
 
-Appeal From a Release or Detention Order.—An appeal from a release or detention order, or from a decision denying revocation or amendment of such an order, is governed by the provisions of section 1291 of title 28 and section 3731 of this title. The appeal shall be determinedpromptly. A person subject to detention pursuant to section 3143(a)(2) or (b)(2), and who meets the conditions of release set forth in section 3143(a)(1) or (b)(1), may be ordered released, under appropriate conditions, by the judicial officer, if it is clearly shown that there are exceptional reasons why such person's detention would not be appropriate.
+Appeal From a Release or Detention Order.—An appeal from a release or detention order, or from a decision denying revocation or amendment of such an order, is governed by the provisions of section 1291 of title 28 and section 3731 of this title. The appeal shall be determined promptly. A person subject to detention pursuant to section 3143(a)(2) or (b)(2), and who meets the conditions of release set forth in section 3143(a)(1) or (b)(1), may be ordered released, under appropriate conditions, by the judicial officer, if it is clearly shown that there are exceptional reasons why such person's detention would not be appropriate.
 
 (Added Pub. L. 98–473, title II, §203(a), Oct. 12, 1984, 98 Stat. 1982; amended Pub. L. 101–647, title IX, §902(c), Nov. 29, 1990, 104 Stat. 4827; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 

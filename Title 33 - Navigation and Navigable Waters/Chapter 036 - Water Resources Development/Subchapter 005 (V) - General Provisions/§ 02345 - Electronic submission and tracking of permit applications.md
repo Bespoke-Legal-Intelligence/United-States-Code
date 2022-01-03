@@ -28,7 +28,7 @@
 
 #### (4) Protection of information
 
-&emsp;The electronic system required under paragraph (1) shall provide for the protection ofpersonal, private, privileged, confidential, and proprietary information, and information the disclosure of which is otherwise prohibited by law.
+&emsp;The electronic system required under paragraph (1) shall provide for the protection of personal, private, privileged, confidential, and proprietary information, and information the disclosure of which is otherwise prohibited by law.
 
 #### (b) System requirements
 

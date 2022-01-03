@@ -50,7 +50,7 @@ Eligible investigational drugs provided to eligible patients in compliance with 
 
 #### (2) Limitation
 
-&emsp;If the Secretary makes a determination under paragraph (1)(A), the Secretary shall provide written notice of such determination to the sponsor, including a public health justification for such determination, and such notice shall be made part of the administrative record. Such determination shall not be delegated below the director of the agency centerthat is charged with the premarket review of the eligible investigational drug.
+&emsp;If the Secretary makes a determination under paragraph (1)(A), the Secretary shall provide written notice of such determination to the sponsor, including a public health justification for such determination, and such notice shall be made part of the administrative record. Such determination shall not be delegated below the director of the agency center that is charged with the premarket review of the eligible investigational drug.
 
 #### (d) Reporting
 

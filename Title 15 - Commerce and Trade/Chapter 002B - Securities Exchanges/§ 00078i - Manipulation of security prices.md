@@ -8,7 +8,7 @@ It shall be unlawful for any person, directly or indirectly, by the use of the m
 
 &emsp;(2) To effect, alone or with 1 or more other persons, a series of transactions in any security registered on a national securities exchange, any security not so registered, or in connection with any security-based swap or security-based swap agreement with respect to such security creating actual or apparent active trading in such security, or raising or depressing the price of such security, for the purpose of inducing the purchase or sale of such security by others.
 
-&emsp;(3) If a dealer, broker, security-based swap dealer, major security-based swap participant, or other person selling or offering for sale or purchasing or offering to purchase the security, a security-based swap, or a security-based swap agreement with respect to such security, to induce the purchase or sale of any security registered on a national securities exchange, any security not so registered, any security-based swap, or any security-based swap agreement with respect to such security by the circulation or dissemination in the ordinary course of business of information to the effect that the price of any such security will or is likely to rise or fall because of market operations of any 1 or more persons conducted for the purpose of raising or depressing the price of such security.
+&emsp;(3) If a dealer, broker, security-based swap dealer, major security-based swap participant,or other person selling or offering for sale or purchasing or offering to purchase the security, a security-based swap, or a security-based swap agreement with respect to such security, to induce the purchase or sale of any security registered on a national securities exchange, any security not so registered, any security-based swap, or any security-based swap agreement with respect to such security by the circulation or dissemination in the ordinary course of business of information to the effect that the price of any such security will or is likely to rise or fall because of market operations of any 1 or more persons conducted for the purpose of raising or depressing the price of such security.
 
 &emsp;(4) If a dealer, broker, security-based swap dealer, major security-based swap participant, or other person selling or offering for sale or purchasing or offering to purchase the security, a security-based swap, or security-based swap agreement with respect to such security, to make, regarding any security registered on a national securities exchange, any security not so registered, any security-based swap, or any security-based swap agreement with respect to such security, for the purpose of inducing the purchase or sale of such security, such security-based swap, or such security-based swap agreement any statement which was at the time and in the light of the circumstances under which it was made, false or misleading with respect to any material fact, and which that person knew or had reasonable ground to believe was so false or misleading.
 
@@ -90,6 +90,8 @@ It shall be unlawful for any person, directly or indirectly, by the use of any m
 
 (June 6, 1934, ch. 404, title I, §9, 48 Stat. 889; Pub. L. 97–303, §3, Oct. 13, 1982, 96 Stat. 1409; Pub. L. 101–432, §6(a), Oct. 16, 1990, 104 Stat. 975; Pub. L. 106–554, §1(a)(5) \[title II, §205(a)(1), (2), title III, §303(b), (c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–425, 2763A–426, 2763A–453, 2763A–454; Pub. L. 111–203, title VII, §§762(d)(2), 763(f), (g), title IX, §§929L(1), 929X(b), July 21, 2010, 124 Stat. 1760, 1777, 1861, 1870.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Commodity Exchange Act, referred to in subsec. (h)(2), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
@@ -148,11 +150,15 @@ Subsec. (i). Pub. L. 106–554, §1(a)(5) \[title III, §303(c)\], added subsec.
 
 Subsec. (g). Pub. L. 97–303, §3(2), added subsec. (g).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Amendment by sections 929L(1) and 929X(b) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 Title 12, Banks and Banking.
 
 Amendment by sections 762(d)(2) and 763(f), (g) of Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see section 774 of Pub. L. 111–203, set out as a note under section 77b of this title.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

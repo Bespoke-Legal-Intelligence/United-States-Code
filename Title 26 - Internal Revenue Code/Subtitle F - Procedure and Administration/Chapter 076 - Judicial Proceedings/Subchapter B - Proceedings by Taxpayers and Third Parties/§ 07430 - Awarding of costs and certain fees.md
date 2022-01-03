@@ -196,7 +196,7 @@ For purposes of this section, in the case of—
 
 #### (2) Administrative proceedings
 
-&emsp;A decision granting or denying (in whole or in part) an award for reasonable administrative costs under subsection (a) by the Internal Revenue Service shall be subject to the filing of a petition for review with the Tax Court under rules similar to the rules under section 7463 (without regard to the amount in dispute). If the Secretary sends by certified or registered mail a notice of such decision to the petitioner, no proceeding in the Tax Court may be initiated under this paragraph unless such petition is filed before the 91st day after the date of such mailing.
+&emsp;A decision granting or denying (in whole or in part) an award for reasonable administrative costs under subsection (a) by the Internal Revenue Service shall be subject to the filing of a petition for review with the Tax Courtunder rules similar to the rules under section 7463 (without regard to the amount in dispute). If the Secretary sends by certified or registered mail a notice of such decision to the petitioner, no proceeding in the Tax Court may be initiated under this paragraph unless such petition is filed before the 91st day after the date of such mailing.
 
 #### (3) Appeal of Tax Court decision
 
@@ -231,6 +231,8 @@ For purposes of subsection (c)(4)—
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -330,6 +332,8 @@ Subsec. (f). Pub. L. 99–514, §1551(g), struck out subsec. (f), termination, w
 
 <b>1984</b>—Subsec. (a)(2). Pub. L. 98–369 inserted reference to United States Claims Court.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2017 Amendment
 
 Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
@@ -368,7 +372,7 @@ Pub. L. 99–514, title XV, §1551(h), Oct. 22, 1986, 100 Stat. 2753, provided t
 
 "(1)
 
-General rule.—Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to amounts paid after September 30, 1986, in civil actions or proceedings, commenced after December 31, 1985.
+General rule.—Except as provided in paragraph (2), the amendments made by this section \[amendingthis section\] shall apply to amounts paid after September 30, 1986, in civil actions or proceedings, commenced after December 31, 1985.
 
 "(2)
 

@@ -122,7 +122,7 @@
 
 #### (3) Acquisition by States of rights of third parties
 
-&emsp;A group health plan shall provide that, to the extent that payment has been made undera State plan for medical assistance approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] in any case in which a group health plan has a legal liability to make payment for items or services constituting such assistance, payment for benefits under the plan will be made in accordance with any State law which provides that the State has acquired the rights with respect to a participant to such payment for such items or services.
+&emsp;A group health plan shall provide that, to the extent that payment has been made under a State plan for medical assistance approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] in any case in which a group health plan has a legal liability to make payment for items or services constituting such assistance, payment for benefits under the plan will be made in accordance with any State law which provides that the State has acquired the rights with respect to a participant to such payment for such items or services.
 
 #### (c) Group health plan coverage of dependent children in cases of adoption
 
@@ -160,7 +160,7 @@ Any regulations prescribed under this section shall be prescribed by the Secreta
 
 #### References in Text
 
-Section 401(b) of the Child Support Performance and Incentive Act of 1998, referred to in subsec. (a)(5)(C)(i), is section 401(b) of Pub. L. 105–200, which was formerly set out as a note under section 651 of Title 42, The Public Health and Welfare.
+Section 401(b) of the Child Support Performance and Incentive Act of 1998, referred to in subsec. (a)(5)(C)(i),is section 401(b) of Pub. L. 105–200, which was formerly set out as a note under section 651 of Title 42, The Public Health and Welfare.
 
 This chapter, referred to in subsec. (a)(7)(A), was in the original "this Act", meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
@@ -250,7 +250,7 @@ Enrollment of child in plan.—In any case in which an appropriately completed N
 
 &emsp;"(3)
 
-Rule of construction.—Nothing in this subsection shall be construed as requiring a State or local governmental group health plan, upon receipt of a National Medical Support Notice, to provide benefits under the plan (or eligibility for such benefits) in addition to benefits (or eligibility for benefits) provided under the terms of the plan as of immediately before receipt of such Notice.
+Rule of construction.—Nothing in this subsection shall be construed as requiring a State or local governmental group health plan, upon receipt ofa National Medical Support Notice, to provide benefits under the plan (or eligibility for such benefits) in addition to benefits (or eligibility for benefits) provided under the terms of the plan as of immediately before receipt of such Notice.
 
 &emsp;"(4)
 

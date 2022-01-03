@@ -8,7 +8,7 @@ Except as expressly provided in this chapter, nothing in this chapter shall be c
 
 #### References in Text
 
-The Federal Rules of Civil Procedure, the Federal Rules of Appellate Procedure, and the Federal Rules ofEvidence, referred to in text, are set out in the Appendix to this title.
+The Federal Rules of Civil Procedure, the Federal Rules of Appellate Procedure, and the Federal Rules of Evidence, referred to in text, are set out in the Appendix to this title.
 
 The Federal Rules of Criminal Procedure, referred to in text, are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 

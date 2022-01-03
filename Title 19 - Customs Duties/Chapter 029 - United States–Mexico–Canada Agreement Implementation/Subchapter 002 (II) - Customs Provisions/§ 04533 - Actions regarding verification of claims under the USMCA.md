@@ -58,7 +58,7 @@
 
 &emsp;&emsp;&emsp;(iv) detention of any textile or apparel good exported or produced by a person that is the subject of a verification described in subparagraph (C) if the Secretary determines that there is insufficient information to determine the country of origin of that good; and
 
-&emsp;&emsp;&emsp;(v) denial of entry into the United States of any textile or apparel good exported or produced by a person that is the subject of a verification described in subparagraph (C) if the Secretary determines that the person has provided incorrect information regarding the country of origin of that good.
+&emsp;&emsp;&emsp;(v) denial of entry into the United States of any textile or apparel good exported or produced by a person that is the subject ofa verification described in subparagraph (C) if the Secretary determines that the person has provided incorrect information regarding the country of origin of that good.
 
 #### (b) Negative determination
 
@@ -113,6 +113,8 @@
 In making a determination under this section, including whether to accept or reject a claim for preferential tariff treatment under the USMCA, the Secretary shall interpret the requirements of this section in a manner to avoid and prevent circumvention of those requirements.
 
 (Pub. L. 116–113, title II, §207, Jan. 29, 2020, 134 Stat. 49.)
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

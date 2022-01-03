@@ -1,6 +1,6 @@
 ### §174. Co-equal obligations of employees, their representatives, and management to minimize labor disputes
 
-(a) <sup>1</sup> In order to prevent or minimize interruptions of the free flow of commerce growing out of labor disputes, employers and employees and their representatives, in any industry affecting commerce, shall—
+(a) <sup>1</sup> In order to prevent or minimize interruptions of the free flow of commerce growing outof labor disputes, employers and employees and their representatives, in any industry affecting commerce, shall—
 
 &emsp;(1) exert every reasonable effort to make and maintain agreements concerning rates of pay, hours, and working conditions, including provision for adequate notice of any proposed change in the terms of such agreements;
 

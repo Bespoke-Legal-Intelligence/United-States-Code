@@ -26,7 +26,7 @@ Any tenant evicted from federally assisted housing by reason of drug-related cri
 
 #### (c) Authority to deny admission to criminal offenders
 
-Except as provided in subsections (a) and (b) of this section and in addition to any other authority to screen applicants, in selecting among applicants for admission to the program or to federally assisted housing, if the public housing agency or owner of such housing (as applicable) determines that an applicant or any member of the applicant's household is or was, during a reasonable time preceding the date when the applicant household would otherwise be selected for admission, engaged in any drug-related or violent criminal activity or other criminal activity which would adversely affect the health, safety, or right to peaceful enjoyment of the premises by other residents, the owner, or public housing agency employees, the public housing agency or owner may—
+Except as provided in subsections (a) and (b) of this section and in addition to any other authority to screen applicants, in selecting among applicants for admission to the program or to federally assisted housing, if the public housing agency or owner of such housing (as applicable) determines that an applicant or any member of the applicant's household is or was, during a reasonable time preceding the date when the applicant household would otherwise be selected for admission, engaged in any drug-related or violent criminal activity or other criminal activity which would adversely affect the health, safety, or right to peaceful enjoyment of the premises by other residents, the owner, or publichousing agency employees, the public housing agency or owner may—
 
 &emsp;(1) deny such applicant admission to the program or to federally assisted housing; and
 
@@ -34,11 +34,15 @@ Except as provided in subsections (a) and (b) of this section and in addition to
 
 (Pub. L. 105–276, title V, §576, Oct. 21, 1998, 112 Stat. 2639.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Quality Housing and Work Responsibility Act of 1998, and not as part of subtitles C to F of title VI of Pub. L. 102–550 which comprise this chapter.
 
 Section is comprised of section 576 of Pub. L. 105–276. Subsec. (d) of section 576 of Pub. L. 105–276 amended sections 1437d and 1437n of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

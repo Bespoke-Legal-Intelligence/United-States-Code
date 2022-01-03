@@ -46,7 +46,7 @@ For purposes of this section—
 
 (2) For purposes of paragraph (1)(C), a tuna product that contains tuna harvested in the eastern tropical Pacific Ocean by a vessel using purse seine nets is dolphin safe if—
 
-&emsp;(A) the vessel is of a type and size that the Secretary has determined, consistent with the International Dolphin Conservation Program, is not capable of deploying its purse seine nets on or to encircle dolphins; or
+&emsp;(A) the vessel is of a type and size that the Secretary has determined, consistent with the International Dolphin Conservation Program,is not capable of deploying its purse seine nets on or to encircle dolphins; or
 
 &emsp;(B)(i) the product is accompanied by a written statement executed by the captain providing the certification required under subsection (h);
 
@@ -106,7 +106,7 @@ The Secretary, in consultation with the Secretary of the Treasury, shall issue r
 
 #### (g) Secretarial findings
 
-(1) Between March 1, 1999, and March 31, 1999, the Secretary shall, on the basis of the research conducted before March 1, 1999, under section 1414a(a) of this title, information obtained under the International Dolphin Conservation Program, and any other relevant information, make an initial finding regarding whether the intentional deployment on or encirclement of dolphins with purse seine nets is having a significant adverse impact on any depleted dolphin stock in the eastern tropical Pacific Ocean. The initial finding shall be published immediately in the Federal Register and shall become effective upon a subsequent date determined by the Secretary.
+(1) Between March 1, 1999, and March 31, 1999, the Secretary shall, on the basis of the research conducted before March 1, 1999, under section 1414a(a) of this title, information obtained underthe International Dolphin Conservation Program, and any other relevant information, make an initial finding regarding whether the intentional deployment on or encirclement of dolphins with purse seine nets is having a significant adverse impact on any depleted dolphin stock in the eastern tropical Pacific Ocean. The initial finding shall be published immediately in the Federal Register and shall become effective upon a subsequent date determined by the Secretary.
 
 (2) Between July 1, 2001, and December 31, 2002, the Secretary shall, on the basis of the completed study conducted under section 1414a(a) of this title, information obtained under the International Dolphin Conservation Program, and any other relevant information, make a finding regarding whether the intentional deployment on or encirclement of dolphins with purse seine nets is having a significant adverse impact on any depleted dolphin stock in the eastern tropical Pacific Ocean. The finding shall be published immediately in the Federal Register and shall become effective upon a subsequent date determined by the Secretary.
 
@@ -124,6 +124,8 @@ The Secretary, in consultation with the Secretary of the Treasury, shall issue r
 
 (Pub. L. 101–627, title IX, §901, Nov. 28, 1990, 104 Stat. 4465; Pub. L. 105–42, §5, Aug. 15, 1997, 111 Stat. 1125; Pub. L. 114–81, title I, §109, Nov. 5, 2015, 129 Stat. 659.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This section, referred to in subsecs. (d)(3)(A), (e), and (f), was in the original "this Act", and was translated as referring to the Dolphin Protection Consumer Information Act, which is classified to this section, to reflect the probable intent of Congress.
@@ -134,7 +136,7 @@ Section was not enacted as part of the Marine Mammal Protection Act of 1972 whic
 
 #### Amendments
 
-<b>2015</b>—Subsec. (e). Pub. L. 114–81 amended subsec. (e) generally. Prior to amendment, text read as follows:"Any person who knowingly and willfully makes a statement or endorsement described in subsection (d)(2)(B) that is false is liable for a civil penalty of not to exceed $100,000 assessed in an action brought in any appropriate district court of the United States on behalf of the Secretary."
+<b>2015</b>—Subsec. (e). Pub. L. 114–81 amended subsec. (e) generally. Prior to amendment, text read as follows: "Any person who knowingly and willfully makes a statement or endorsement described in subsection (d)(2)(B) that is false is liable for a civil penalty of not to exceed $100,000 assessed in an action brought in any appropriate district court of the United States on behalf of the Secretary."
 
 <b>1997</b>—Subsec. (d). Pub. L. 105–42, §5(a), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows:
 
@@ -173,6 +175,8 @@ Negotiations.—The Secretary of State shall immediately seek, through negotiati
 "(i)
 
 Effective Date.—Subsections (d) and (e) of this section shall take effect 6 months after November 28, 1990."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

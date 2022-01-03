@@ -2,7 +2,7 @@
 
 #### (a) Approval of projects
 
-The President, acting through the Administrator of the Federal Emergency Management Agency, may approve projects under the alternative procedures adopted under this section for any major disaster or emergency declared on or after January 29, 2013. The Administrator may also apply the alternate procedures adopted under this section to a major disaster or emergency declared before enactment of this Act for which construction has not begun as of the date of enactment of this Act.<sup>1</sup>
+The President, acting through the Administrator of the Federal Emergency Management Agency, may approve projects under the alternative procedures adopted under this section forany major disaster or emergency declared on or after January 29, 2013. The Administrator may also apply the alternate procedures adopted under this section to a major disaster or emergency declared before enactment of this Act for which construction has not begun as of the date of enactment of this Act.<sup>1</sup>
 
 #### (b) Adoption
 
@@ -114,6 +114,8 @@ The guidelines for reimbursement for costs under subsection (e)(2)(D) shall ensu
 
 (Pub. L. 93–288, title IV, §428, as added Pub. L. 113–2, div. B, §1102(2), Jan. 29, 2013, 127 Stat. 39; amended Pub. L. 115–254, div. D, §1207(c), (d), Oct. 5, 2018, 132 Stat. 3440, 3441.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this Act, referred to in subsec. (a), probably means the date of enactment of Pub. L. 113–2, which enacted this section and was approved Jan. 29, 2013.
@@ -127,6 +129,8 @@ The Fair Labor Standards Act of 1938, referred to in subsec. (g), is act June 25
 <b>2018</b>—Subsec. (d). Pub. L. 115–254, §1207(c), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 Subsec. (e)(1)(G). Pub. L. 115–254, §1207(d), added subpar. (G).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

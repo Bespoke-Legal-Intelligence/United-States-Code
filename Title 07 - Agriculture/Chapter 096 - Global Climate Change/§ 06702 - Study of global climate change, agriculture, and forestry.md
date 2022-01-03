@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(B) evaluate existing genetic resource and breeding programs for crops for their ability to develop new varieties that can tolerate potential climate changes; and
 
-&emsp;&emsp;(C) assess the potential for the development of crop varieties that are tolerant to climate changes and other environmental stresses, such as drought, pests, and salinity.
+&emsp;&emsp;(C) assess the potential for the development of crop varieties that are tolerant toclimate changes and other environmental stresses, such as drought, pests, and salinity.
 
 #### (b) Forests
 

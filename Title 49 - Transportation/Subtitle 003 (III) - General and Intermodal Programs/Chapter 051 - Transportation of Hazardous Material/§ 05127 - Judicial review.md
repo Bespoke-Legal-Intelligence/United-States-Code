@@ -2,7 +2,7 @@
 
 (a)
 
-Filing and Venue.—Except as provided in section 20114(c), a person adversely affected or aggrieved by a final action of the Secretaryunder this chapter may petition for review of the final action in the United States Court of Appeals for the District of Columbia or in the court of appeals for the United States for the circuit in which the person resides or has its principal place of business. The petition must be filed not more than 60 days after the Secretary's action becomes final.
+Filing and Venue.—Except as provided in section 20114(c), a person adversely affected or aggrieved by a final action of the Secretary under this chapter may petition for review of the final action in the United States Court of Appeals for the District of Columbia or in the court of appeals for the United States for the circuit in which the person resides or has its principal place of business. The petition must be filed not more than 60 days after the Secretary's action becomes final.
 
 (b)
 
@@ -17,6 +17,8 @@ Authority of Court.—The court has exclusive jurisdiction, as provided in subch
 Requirement for Prior Objection.—In reviewing a final action under this section, the court may consider an objection to a final action of the Secretary only if the objection was made in the course of a proceeding or review conducted by the Secretary or if there was a reasonable ground for not making the objection in the proceeding.
 
 (Added Pub. L. 109–59, title VII, §7123(b), Aug. 10, 2005, 119 Stat. 1907.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

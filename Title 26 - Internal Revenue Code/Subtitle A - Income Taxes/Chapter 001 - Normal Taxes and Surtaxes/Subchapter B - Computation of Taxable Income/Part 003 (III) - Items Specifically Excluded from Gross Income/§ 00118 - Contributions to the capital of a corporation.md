@@ -6,25 +6,91 @@ In the case of a corporation, gross income does not include any contribution to 
 
 #### (b) Exceptions
 
-For purposes of subsection (a), the term "contribution to the capital of the taxpayer" does not include—
+For purposes of subsection (a), except as provided in subsection (c), the term "contribution to the capital of the taxpayer" does not include—
 
 &emsp;(1) any contribution in aid of construction or any other contribution as a customer or potential customer, and
 
 &emsp;(2) any contribution by any governmental entity or civic group (other than a contribution made by a shareholder as such).
 
-#### (c) Regulations
+#### (c) Special rules for water and sewerage disposal utilities
 
-The Secretary shall issue such regulations or other guidance as may be necessary or appropriate to carry out this section, including regulations or other guidance for determining whether any contribution constitutes a contribution in aid of construction.
+#### (1) General rule
 
-#### (d) Cross references
+&emsp;For purposes of this section, the term "contribution to the capital of the taxpayer" includes any amount of money or other property received from any person (whether or not a shareholder) by a regulated public utility which provides water or sewerage disposal services if—
+
+&emsp;&emsp;(A) such amount is—
+
+&emsp;&emsp;&emsp;(i) a contribution in aid of construction, or
+
+&emsp;&emsp;&emsp;(ii) a contribution to the capital of such utility by a governmental entity providing for the protection, preservation, or enhancement of drinking water or sewerage disposal services,
+
+&emsp;&emsp;(B) in the case of a contribution in aid of construction which is property other than water or sewerage disposal facilities, such amount meets the requirements of the expenditure rule of paragraph (2), and
+
+&emsp;&emsp;(C) such amount (or any property acquired or constructed with such amount) is not included in the taxpayer's rate base for ratemaking purposes.
+
+#### (2) Expenditure rule
+
+&emsp;An amount meets the requirements of this paragraph if—
+
+&emsp;&emsp;(A) an amount equal to such amount is expended for the acquisition or construction of tangible property described in section 1231(b)—
+
+&emsp;&emsp;&emsp;(i) which is the property for which the contribution was made or is of the same type as such property, and
+
+&emsp;&emsp;&emsp;(ii) which is used predominantly in the trade or business of furnishing water or sewerage disposal services,
+
+&emsp;&emsp;(B) the expenditure referred to in subparagraph (A) occurs before the end of the second taxable year after the year in which such amount was received, and
+
+&emsp;&emsp;(C) accurate records are kept of the amounts contributed and expenditures made, the expenditures to which contributions are allocated, and the year in which the contributions and expenditures are received and made.
+
+#### (3) Definitions
+
+&emsp;For purposes of this subsection—
+
+#### (A) Contribution in aid of construction
+
+&emsp;&emsp;The term "contribution in aid of construction" shall be defined by regulations prescribed by the Secretary, except that such term shall not include amounts paid as service charges for starting or stopping services.
+
+#### (B) Predominantly
+
+&emsp;&emsp;The term "predominantly" means 80 percent or more.
+
+#### (C) Regulated public utility
+
+&emsp;&emsp;The term "regulated public utility" has the meaning given such term by section 7701(a)(33), except that such term shall not include any utility which is not required to provide water or sewerage disposal services to members of the general public in its service area.
+
+#### (4) Disallowance of deductions and credits; adjusted basis
+
+&emsp;Notwithstanding any other provision of this subtitle, no deduction or credit shall be allowed for, or by reason of, any expenditure which constitutes a contribution in aid of construction to which this subsection applies. The adjusted basis of any property acquired with contributions in aid of construction to which this subsection applies shall be zero.
+
+#### (d) Statute of limitations
+
+If the taxpayer for any taxable year treats an amount as a contribution to the capital of the taxpayer described in subsection (c)(1)(A)(i), then—
+
+&emsp;(1) the statutory period for the assessment of any deficiency attributable to any part of such amount shall not expire before the expiration of 3 years from the date the Secretary is notified by the taxpayer (in such manner as the Secretary may prescribe) of—
+
+&emsp;&emsp;(A) the amount of the expenditure referred to in subparagraph (A) of subsection (c)(2),
+
+&emsp;&emsp;(B) the taxpayer's intention not to make the expenditures referred to in such subparagraph, or
+
+&emsp;&emsp;(C) a failure to make such expenditure within the period described in subparagraph (B) of subsection (c)(2), and
+
+&emsp;(2) such deficiency may be assessed before the expiration of such 3-year period notwithstanding the provisions of any other law or rule of law which would otherwise prevent such assessment.
+
+#### (e) Cross references
 
 &emsp;&emsp;<b>(1) For basis of property acquired by a corporation through a contribution to its capital, see section 362.</b>
 
 &emsp;&emsp;<b>(2) For special rules in the case of contributions of indebtedness, see section 108(e)(6).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 39; Pub. L. 94–455, title XXI, §2120(a), Oct. 4, 1976, 90 Stat. 1912; Pub. L. 95–600, title III, §364(a), Nov. 6, 1978, 92 Stat. 2854; Pub. L. 96–589, §2(e)(2), Dec. 24, 1980, 94 Stat. 3396; Pub. L. 98–369, div. A, title I, §163(a), July 18, 1984, 98 Stat. 697; Pub. L. 99–514, title VIII, §824(a), Oct. 22, 1986, 100 Stat. 2374; Pub. L. 104–188, title I, §1613(a)(1), (2), Aug. 20, 1996, 110 Stat. 1848–1850; Pub. L. 115–97, title I, §13312(a), Dec. 22, 2017, 131 Stat. 2132.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 39; Pub. L. 94–455, title XXI, §2120(a), Oct. 4, 1976, 90 Stat. 1912; Pub. L. 95–600, title III, §364(a), Nov. 6, 1978, 92 Stat. 2854; Pub. L. 96–589, §2(e)(2), Dec. 24, 1980, 94 Stat. 3396; Pub. L. 98–369, div. A, title I, §163(a), July 18, 1984, 98 Stat. 697; Pub. L. 99–514, title VIII, §824(a), Oct. 22, 1986, 100 Stat. 2374; Pub. L. 104–188, title I, §1613(a)(1), (2), Aug. 20, 1996, 110 Stat. 1848–1850; Pub. L. 115–97, title I, §13312(a), Dec. 22, 2017, 131 Stat. 2132; Pub. L. 117–58, div. H, title VI, §80601(a), Nov. 15, 2021, 135 Stat. 1337.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (b). Pub. L. 117–58, §80601(a)(1), inserted "except as provided in subsection (c)," after "For purposes of subsection (a)," in introductory provisions.
+
+Subsecs. (c) to (e). Pub. L. 117–58, §80601(a)(2), (3), added subsecs. (c) and (d), redesignated former subsec. (d) as (e), and struck out former subsec. (c) which related to regulations.
 
 <b>2017</b>—Subsecs. (b) to (e). Pub. L. 115–97 added subsecs. (b) and (c), redesignated subsec. (e) as (d), and struck out former subsecs. (b) to (d) which related to contributions in aid of construction, special rules for water and sewerage disposal utilities, and statute of limitations for assessment of deficiencies, respectively.
 
@@ -36,7 +102,7 @@ Subsecs. (c) to (e). Pub. L. 104–188, §1613(a)(1), added subsecs. (c) and (d)
 
 Subsecs. (c), (d). Pub. L. 99–514, §824(a), redesignated former subsec. (d) as (c) and struck out former subsec. (c), statute of limitations, which read as follows: "If the taxpayer for any taxable year treats an amount as a contribution to the capital of the taxpayer described in subsection (b), then—
 
-&emsp;"(1) the statutory period for the assessment of any deficiency attributable to any part of such amount shall not expire before the expiration of 3 years from the date the Secretary is notified by the taxpayer (in such manner as the Secretary may prescribe) of—
+&emsp;"(1) the statutory period for the assessment of any deficiency attributable to any part of such amount shall not expire before the expiration of 3 years fromthe date the Secretary is notified by the taxpayer (in such manner as the Secretary may prescribe) of—
 
 &emsp;&emsp;"(A) the amount of the expenditure referred to in subparagraph (A) of subsection (b)(2),
 
@@ -59,6 +125,12 @@ Subsec. (b)(3)(A). Pub. L. 95–600, §364(a)(4), substituted "line to an electr
 Subsec. (b)(3)(C). Pub. L. 95–600, §364(a)(5), substituted "electric energy, gas, water," for "water" and inserted "(including in the case of a gas transmission utility, the provision of gas services by sale for resale to the general public)" after "members of the general public".
 
 <b>1976</b>—Subsecs. (b), (c). Pub. L. 94–455, §2120(a), added subsec. (b) and redesignated former subsec. (b) as (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Pub. L. 117–58, div. H, title VI, §80601(b), Nov. 15, 2021, 135 Stat. 1338, provided that: "The amendments made by this section \[amending this section\] shall apply to contributions made after December 31, 2020."
 
 #### Effective Date of 2017 Amendment
 
@@ -86,7 +158,7 @@ In general.—Except as otherwise provided in this subsection, the amendments ma
 
 "(2)
 
-Treatment of certain water supply projects.—The amendments made by this section shallnot apply to amounts which are paid by the New Jersey Department of Environmental Protection for construction of alternative water supply projects in zones of drinking water contamination and which are designated by such department as being taken into account under this paragraph. Not more than $4,631,000 of such amounts may be designated under the preceding sentence.
+Treatment of certain water supply projects.—The amendments made by this section shall not apply to amounts which are paid by the New Jersey Department of Environmental Protection for construction of alternative water supply projects in zones of drinking water contamination and which are designated by such department as being taken into account under this paragraph. Not more than $4,631,000 of such amounts may be designated under the preceding sentence.
 
 "(3)
 

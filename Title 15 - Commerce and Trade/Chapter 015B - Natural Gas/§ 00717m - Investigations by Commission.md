@@ -2,7 +2,7 @@
 
 #### (a) Power of Commission
 
-The Commission may investigate any facts, conditions, practices, or matters which it may find necessary or proper in order to determine whether any person has violated or is about to violate any provisions of this chapter or any rule, regulation, or order thereunder, or to aid in the enforcement of the provisions of this chapter or in prescribing rules or regulations thereunder, or in obtaining information to serve as a basis for recommending further legislation to the Congress. The Commission may permit any person to file with it a statement in writing, under oath or otherwise, as it shall determine, as to any or all facts and circumstances concerning a matter which may be the subject of investigation. The Commission, in its discretion, may publish in the manner authorized by section 825k of title 16, and make available to State commissions and municipalities, information concerning any such matter.
+The Commission may investigate any facts, conditions, practices, or matters which it may find necessary or proper in order to determine whether any person has violated or is about to violate any provisions of this chapter or any rule, regulation, or order thereunder, or to aid in the enforcement of the provisions of this chapter or in prescribing rules or regulations thereunder, or in obtaining information to serve as a basis for recommending further legislation to the Congress. The Commission may permit any person to file with it a statement in writing, under oath or otherwise, as it shall determine, as to any or all facts and circumstances concerning a matter which may be the subject of investigation. The Commission, in its discretion, may publish in the manner authorized by section 825k of title 16, and make available to Statecommissions and municipalities, information concerning any such matter.
 
 #### (b) Determination of adequacy of gas reserves
 
@@ -18,7 +18,7 @@ In case of contumacy by, or refusal to obey a subpena issued to, any person, the
 
 #### (e) Testimony of witnesses
 
-The testimony of any witness may be taken at the instance of a party, in any proceeding or investigation pending before the Commission, by deposition at any time after the proceeding is at issue. The Commission may also order testimony to be taken by deposition in any proceeding or investigation pending before it at any stage of such proceeding or investigation. Such depositions may be taken before any person authorized to administer oaths not being of counsel or attorney to either of the parties, nor interested in the proceeding or investigation. Reasonable notice must first be given in writing by the party or his attorney proposing to take such deposition to the opposite party or his attorney of record, as either may be nearest, which notice shall state the name of the witness and the time and place of the taking of his deposition. Any person may be compelled to appear and depose, and to produce documentary evidence, in the same manner as witnesses may be compelled to appear and testify and produce documentaryevidence before the Commission, as hereinbefore provided. Such testimony shall be reduced to writing by the person taking deposition, or under his direction, and shall, after it has been reduced to writing, be subscribed by the deponent.
+The testimony of any witness may be taken at the instance of a party, in any proceeding or investigation pending before the Commission, by deposition at any time after the proceeding is at issue. The Commission may also order testimony to be taken by deposition in any proceeding or investigation pending before it at any stage of such proceeding or investigation. Such depositions may be taken before any person authorized to administer oaths not being of counsel or attorney to either of the parties, nor interested in the proceeding or investigation. Reasonable notice must first be given in writing by the party or his attorney proposing to take such deposition to the opposite party or his attorney of record, as either may be nearest, which notice shall state the name of the witness and the time and place of the taking of his deposition. Any person may be compelled to appear and depose, and to produce documentary evidence, in the same manner as witnesses may be compelled to appear and testify and produce documentary evidence before the Commission, as hereinbefore provided. Such testimony shall be reduced to writing by the person taking deposition, or under his direction, and shall, after it has been reduced to writing, be subscribed by the deponent.
 
 #### (f) Deposition of witnesses in a foreign country
 
@@ -30,9 +30,13 @@ Witnesses whose depositions are taken as authorized in this chapter, and the per
 
 (June 21, 1938, ch. 556, §14, 52 Stat. 828; Pub. L. 91–452, title II, §218, Oct. 15, 1970, 84 Stat. 929.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1970</b>—Subsec. (h). Pub. L. 91–452 struck out subsec. (h) which related to the immunity from prosecution of any individual compelled to testify or produce evidence, documentary or otherwise, after claiming his privilege against self-incrimination.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1970 Amendment
 
@@ -40,5 +44,5 @@ Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970,
 
 #### Study and Report on Natural Gas Pipeline and Storage Facilities in New England
 
-Pub. L. 107–355, §26, Dec. 17, 2002, 116 Stat. 3012, required the Federal Energy Regulatory Commission, in consultation with the Department of Energy, to conduct a study on the natural gas pipeline transmission network in New England and natural gas storage facilities associated with that network, and submit a report on the results to Congress by not later than 1 year after Dec. 17, 2002.
+Pub. L. 107–355, §26, Dec. 17, 2002, 116 Stat. 3012, required the Federal Energy Regulatory Commission, inconsultation with the Department of Energy, to conduct a study on the natural gas pipeline transmission network in New England and natural gas storage facilities associated with that network, and submit a report on the results to Congress by not later than 1 year after Dec. 17, 2002.
 

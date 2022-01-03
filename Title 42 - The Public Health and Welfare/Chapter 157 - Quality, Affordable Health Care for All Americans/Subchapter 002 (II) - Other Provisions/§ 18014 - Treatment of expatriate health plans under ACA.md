@@ -22,7 +22,7 @@ Subject to subsection (b), the provisions of (including any amendment made by) t
 
 #### (2) Exception
 
-&emsp;Subsection (a) shall not apply with respect to section 6055 of title 26, or sections 4980H and 6056 of such title in the case of an applicable large employer (as defined in section 4980H of such title), except that statements furnished to individuals may be provided through electronic media and the primary insured shall be deemed to have consented to receive the statements under such sections in electronic form, unless the individual explicitly refuses such consent. Notwithstanding subsection (a), section 4980I <sup>1</sup> of title 26 shall continue to apply with respect to applicable employer-sponsoredcoverage (as defined in such section) of a qualified expatriate described in subsection (d)(3)(A)(i) who is assigned (rather than transferred) to work in the United States.
+&emsp;Subsection (a) shall not apply with respect to section 6055 of title 26, or sections 4980H and 6056 of such title in the case of an applicable large employer (as defined in section 4980H of such title), except that statements furnished to individuals may be provided through electronic media and the primary insured shall be deemed to have consented to receive the statements under such sections in electronic form, unless the individual explicitly refuses such consent. Notwithstanding subsection (a), section 4980I <sup>1</sup> of title 26 shall continue to apply with respect to applicable employer-sponsored coverage (as defined in such section) of a qualified expatriate described in subsection (d)(3)(A)(i) who is assigned (rather than transferred) to work in the United States.
 
 #### (c) Qualified expatriates, spouses, and dependents not United States health risk
 
@@ -50,7 +50,7 @@ In this section:
 
 &emsp;The term "expatriate health plan" means a group health plan, health insurance coverage offered in connection with a group health plan, or health insurance coverage offered to a group of individuals described in paragraph (3)(C) (which may include spouses, dependents, and other individuals enrolled in the plan) that meets each of the following standards:
 
-&emsp;&emsp;(A) Substantially all of the primary enrollees in such plan or coverage are qualified expatriates with respect to such plan or coverage. In applying the previous sentence, an individual shall not be considered a primary enrollee if the individual is not a national of the United States and the individual resides in the country of which the individual is a citizen.
+&emsp;&emsp;(A) Substantially all of the primary enrollees in such plan or coverage are qualified expatriates with respect to such plan or coverage. In applying the previous sentence, an individual shall not be considered a primaryenrollee if the individual is not a national of the United States and the individual resides in the country of which the individual is a citizen.
 
 &emsp;&emsp;(B) Substantially all of the benefits provided under the plan or coverage are not excepted benefits described in section 9832(c) of title 26.
 
@@ -126,6 +126,8 @@ Unless otherwise specified, this Act shall take effect on December 16, 2014, and
 
 (Pub. L. 113–235, div. M, §3, Dec. 16, 2014, 128 Stat. 2768.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Patient Protection and Affordable Care Act, referred to in subsecs. (a), (c), and (d)(2)(F)(i), (G), is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119. Section 9010 of the Act was set out as a note preceding section 4001 of Title 26, Internal Revenue Code, prior to repeal by Pub. L. 116–94, div. N, title I, §502(a), Dec. 20, 2019, 133 Stat. 3119. For complete classification of this Act to the Code, see Short Title note set out under section 18001 of this title and Tables.
@@ -138,7 +140,7 @@ The Public Health Service Act, referred to in subsec. (d)(2)(G), is act July 1, 
 
 The Employee Retirement Income Security Act of 1974, referred to in subsec. (d)(2)(G), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832. Part 7 of subtitle B of title I of the Act is classified generally to part 7 (§1181 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
-This Act, referred to in subsecs. (e) and (f), is div. M of Pub. L. 113–235, Dec. 16, 2014, 128 Stat. 2767, known asthe Expatriate Health Coverage Clarification Act of 2014. For complete classification of this Act to the Code, see Short Title of 2014 Amendment note set out under section 18001 of this title and Tables.
+This Act, referred to in subsecs. (e) and (f), is div. M of Pub. L. 113–235, Dec. 16, 2014, 128 Stat. 2767, known as the Expatriate Health Coverage Clarification Act of 2014. For complete classification of this Act to the Code, see Short Title of 2014 Amendment note set out under section 18001 of this title and Tables.
 
 #### Codification
 

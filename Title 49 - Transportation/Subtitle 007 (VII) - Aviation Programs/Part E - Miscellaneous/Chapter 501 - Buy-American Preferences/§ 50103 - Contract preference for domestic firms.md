@@ -32,7 +32,7 @@ Nonapplication.—Subsection (b) of this section does not apply if—
 
 Application to Certain Grants.—This section applies only to a contract related to a grant made under section 44511, 44512, or 44513 of this title for which—
 
-&emsp;(1) an amount is authorized by section 48102(a), (b), or (d) of this title to be made available for the fiscal years ending September 30, 1991, and September 30, 1992; and
+&emsp;(1) an amount is authorized by section 48102(a), (b), or (d) of this title to be madeavailable for the fiscal years ending September 30, 1991, and September 30, 1992; and
 
 &emsp;(2) a solicitation for bid is issued after November 5, 1990.
 
@@ -89,6 +89,8 @@ In subsection (c), the words "(1) such applicability would not be in the public 
 In subsection (e)(1), the words "foreign firms" are substituted for "foreign entities" for consistency in the revised section.
 
 Subsection (e)(3) is substituted for "the number of contracts covered under this subtitle (including the amendments made by this subtitle) and awarded based upon the parameters of this section" to eliminate unnecessary words.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall administer the historical park and the preservation district in accordance with the provisions of this subchapter, and the provisions of law generally applicable to units of the National Park System, including the Act entitled "An Act to establish a National Park Service, and for other purposes", approved August 25, 1916 (16 U.S.C. 1, 2–4),<sup>2</sup> and the Act entitled "An Act to provide for the preservation of historic American sites, buildings, objects and antiquities of national significance, and for other purposes", approved August 21, 1935 (16 U.S.C. 461 et seq.).<sup>2</sup>
+The Secretary shall administer the historical park and the preservation district in accordance with the provisions of this subchapter, and theprovisions of law generally applicable to units of the National Park System, including the Act entitled "An Act to establish a National Park Service, and for other purposes", approved August 25, 1916 (16 U.S.C. 1, 2–4),<sup>2</sup> and the Act entitled "An Act to provide for the preservation of historic American sites, buildings, objects and antiquities of national significance, and for other purposes", approved August 21, 1935 (16 U.S.C. 461 et seq.).<sup>2</sup>
 
 #### (b) Cooperation with State of Georgia
 
@@ -17,6 +17,8 @@ The Secretary shall gather oral history on the historical park, its occupants, a
 25 years after December 23, 1987, the Secretary shall convene a distinguished group of nationally recognized historians, scholars, and other experts to examine the life of President Carter in greater historical perspective. The group shall examine the research then available on President Carter, his life and Presidency, and make recommendations on interpretation, preservation, and other issues (as appropriate) at the Jimmy Carter National Historical Park and the Jimmy Carter National Preservation District.
 
 (Pub. L. 100–206, §3, Dec. 23, 1987, 101 Stat. 1435; Pub. L. 116–341, §2(b)(2), (4), (5), Jan. 13, 2021, 134 Stat. 5132.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

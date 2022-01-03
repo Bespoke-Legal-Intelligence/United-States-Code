@@ -54,7 +54,7 @@ Annual Assessment.—(1) The Secretary of Defense, through the Secretary of the 
 
 (d)
 
-Annual Report.—(1) The Secretary of the Air Force shall direct the Superintendent of the Academy to submit to the Secretary a report on sexual harassment and sexual violence involving cadets or other personnel at the Academy for each Academy program year.
+Annual Report.—(1) The Secretary of the Air Force shall direct the Superintendent of the Academy to submit to the Secretary a report onsexual harassment and sexual violence involving cadets or other personnel at the Academy for each Academy program year.
 
 (2) Each report under paragraph (1) shall include, for the Academy program year covered by the report, the following:
 
@@ -102,6 +102,8 @@ Consideration of Request for Transfer of a Cadet Who Is the Victim of a Sexual A
 
 (Added Pub. L. 109–364, div. A, title V, §532(a)(3), Oct. 17, 2006, 120 Stat. 2203, §9361; renumbered §9461, Pub. L. 115–232, div. A, title VIII, §806(a)(3), Aug. 13, 2018, 132 Stat. 1832; amended Pub. L. 116–92, div. A, title V, §555(c), Dec. 20, 2019, 133 Stat. 1390; Pub. L. 116–283, div. A, title V, §552(b)(3), Jan. 1, 2021, 134 Stat. 3632.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Subsec. (c)(3). Pub. L. 116–283 added par. (3).
@@ -109,6 +111,8 @@ Consideration of Request for Transfer of a Cadet Who Is the Victim of a Sexual A
 <b>2019</b>—Subsec. (e). Pub. L. 116–92 added subsec. (e).
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 9361 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

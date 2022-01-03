@@ -1,8 +1,10 @@
 ### §511. Joint development of unitary plan for construction of facilities; construction at educational institutions
 
-The Administrator of the National Aeronautics and Space Administration (hereinafter referred to as the "Administrator") and the Secretary of Defense are authorized and directed jointly to develop a unitary plan for the construction of transsonic, supersonic, and hypersonic wind-tunnel facilities for the solution of research, development, and evaluation problems in aeronautics, including the construction of facilities at educational institutions within the continental limits of the United States for training and research in aeronautics, and to revise the uncompleted portions of the unitary plan from time to time to accord with changes in national defense requirements and scientific and technical advances. The Administrator and the Secretaries of the Army, the Navy, and the Air Force are authorized to proceed with the construction and equipment of facilities in implementation of the unitary plan to the extent permitted by appropriations pursuant to existing authority and the authority contained in this chapter. Any further implementation of the unitary plan shall be subject to such additional authorizations as may be approved by Congress.
+The Administrator of the National Aeronautics and Space Administration (hereinafter referred to as the "Administrator") and the Secretary of Defense are authorized and directed jointly to develop a unitary plan for the construction of transsonic, supersonic, and hypersonic wind-tunnel facilities for the solution of research, development, and evaluation problems in aeronautics, including the construction of facilities at educational institutions within the continental limits of the United States for training and research in aeronautics, and to revise the uncompleted portions of the unitary plan from time to time to accord with changes in national defense requirements and scientific and technical advances. The Administrator and the Secretaries of the Army, the Navy, and the Air Force are authorized to proceed with the construction and equipment of facilities in implementation of the unitary plan to the extent permitted by appropriations pursuantto existing authority and the authority contained in this chapter. Any further implementation of the unitary plan shall be subject to such additional authorizations as may be approved by Congress.
 
 (Oct. 27, 1949, ch. 766, title I, §101, 63 Stat. 936; Pub. L. 85–568, title III, §301(d)(1), (2), July 29, 1958, 72 Stat. 433; Pub. L. 106–391, title III, §312(1), Oct. 30, 2000, 114 Stat. 1594.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -10,9 +12,11 @@ The Administrator of the National Aeronautics and Space Administration (hereinaf
 
 <b>1958</b>—Pub. L. 85–568 substituted "The Administrator of the National Aeronautics and Space Administration (hereinafter referred to as the 'Administrator')" for "The National Advisory Committee for Aeronautics (hereinafter referred to as the 'Committee')", and "Administrator" for "Committee" in second sentence.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1958 Amendment
 
-Amendment by Pub. L. 85–568 effective 90 days after July 29, 1958, or on any earlier date on which the Administrator of the National Aeronautics and Space Administration determines, and announces by proclamation, that the Administration has been organized and is prepared to discharge the duties and exercise the powers conferred upon it, see section 301(e) of Pub. L. 85–568, set out as a note under section 2302 of Title 10, Armed Forces.
+Pub. L. 85–568, title III, §301(e), July 29, 1958, 72 Stat. 433, provided that: "This section \[amending this section and sections 512, 513, and 515 of this title, section 22–1 of former Title 5, and sections 2302 and 2303 of Title 10, Armed Forces, and enacting provisions set out as a note under section 2472 of Title 42, The Public Health and Welfare\] shall take effect ninety days after the date of the enactment of this Act \[July 29, 1958\], or on any earlier date on which the Administrator \[of the National Aeronautics and Space Administration\] shall determine, and announce by proclamation published in the Federal Register, that the Administration has been organized and is prepared to discharge the duties and exercise the powers conferred upon it by this Act."
 
 #### Short Title
 

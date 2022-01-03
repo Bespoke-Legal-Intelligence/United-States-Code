@@ -56,7 +56,7 @@ In general.—Notwithstanding sections 49104(a)(5) and 49111(e) of this title, o
 
 &emsp;&emsp;(B) result in an increase in the total number of slots at Ronald Reagan Washington National Airport from 7:00 ante meridiem to 9:59 post meridiem;
 
-&emsp;&emsp;(C) increase the number of operations at Ronald Reagan Washington National Airportin any 1-hour period by more than 2 operations;
+&emsp;&emsp;(C) increase the number of operations at Ronald Reagan Washington National Airport in any 1-hour period by more than 2 operations;
 
 &emsp;&emsp;(D) result in the withdrawal or reduction of slots operated by an air carrier;
 
@@ -144,7 +144,7 @@ Limited incumbent air carrier.—The term "limited incumbent air carrier" has th
 
 &emsp;&emsp;&emsp;(i) "slot exemptions";
 
-&emsp;&emsp;&emsp;(ii) slots operated by an air carrier under a fee-for-service arrangement for another air carrier, if the air carrier operatingsuch slots does not sell flights in its own name, and is under common ownership with an air carrier that seeks to qualify as a limited incumbent and that sells flights in its own name; or
+&emsp;&emsp;&emsp;(ii) slots operated by an air carrier under a fee-for-service arrangement for another air carrier, if the air carrier operating such slots does not sell flights in its own name, and is under common ownership with an air carrier that seeks to qualify as a limited incumbent and that sells flights in its own name; or
 
 &emsp;&emsp;&emsp;(iii) slots held under a sale and license-back financing arrangement with another air carrier, where the slots are under the marketing control of the other air carrier; and
 
@@ -214,6 +214,8 @@ Affiliated Carriers.—For purposes of this section and sections 41716, 41717, a
 
 This amends 49:41714(d)(1) to make a conforming cross-reference necessary because of the restatement of the Metropolitan Washington Airports Act of 1986 (Public Law 99–500, 100 Stat. 1783–373, Public Law 99–591, 100 Stat. 3341–376) by section 2(26) of this Act as chapter 491 of title 49.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Subsec. (h)(5)(A). Pub. L. 112–95, §414(c)(1), substituted "40" for "20".
@@ -222,9 +224,9 @@ Subsec. (h)(5)(B). Pub. L. 112–95, §414(c)(2), amended subpar. (B) generally.
 
 Subsec. (j). Pub. L. 112–95, §414(d), substituted ", except through an air carrier merger or acquisition." for period at end.
 
-<b>2000</b>—Subsec. (a)(3). Pub. L. 106–181, §231(d)(2), struck out before period at end "; except that the Secretary shall not be required to make slots available at O'Hare International Airport in Chicago, Illinois, if the number of slots available for basic essential air service (including slots specifically designated as essential air service slots and slots used for such purposes) to and from such airport is at least 132 slots".
+<b>2000</b>—Subsec. (a)(3). Pub. L. 106–181, §231(d)(2), struck out before period at end "; except that the Secretaryshall not be required to make slots available at O'Hare International Airport in Chicago, Illinois, if the number of slots available for basic essential air service (including slots specifically designated as essential air service slots and slots used for such purposes) to and from such airport is at least 132 slots".
 
-Subsec. (b)(2). Pub. L. 106–181, §231(d)(3), inserted "at Chicago O'Hare International Airport" after "a slot" and struck out before period at end "if the withdrawalof that slot would result in the withdrawal of slots from an air carrier at O'Hare International Airport under section 93.223 of title 14, Code of Federal Regulations, in excess of the total withdrawn from that air carrier as of October 31, 1993".
+Subsec. (b)(2). Pub. L. 106–181, §231(d)(3), inserted "at Chicago O'Hare International Airport" after "a slot" and struck out before period at end "if the withdrawal of that slot would result in the withdrawal of slots from an air carrier at O'Hare International Airport under section 93.223 of title 14, Code of Federal Regulations, in excess of the total withdrawn from that air carrier as of October 31, 1993".
 
 Subsec. (b)(4). Pub. L. 106–181, §231(d)(4), amended heading and text of par. (4) generally. Prior to amendment, text read as follows: "This subsection and exemptions issued under this subsection shall cease to be in effect when the final rules issued under subsection (f) become effective."
 
@@ -249,6 +251,8 @@ Subsecs. (j), (k). Pub. L. 106–181, §231(a)(2), (3), added subsecs. (j) and (
 Subsec. (i). Pub. L. 105–66 added subsec. (i).
 
 <b>1996</b>—Subsec. (e)(2). Pub. L. 104–287 substituted "Transportation and Infrastructure" for "Public Works and Transportation".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

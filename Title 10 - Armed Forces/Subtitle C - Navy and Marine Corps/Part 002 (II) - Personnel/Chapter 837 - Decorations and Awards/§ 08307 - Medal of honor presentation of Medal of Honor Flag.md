@@ -4,9 +4,11 @@ The President shall provide for the presentation of the Medal of Honor Flag desi
 
 (Added Pub. L. 107–248, title VIII, §8143(c)(2)(A), Oct. 23, 2002, 116 Stat. 1570, §6257; amended Pub. L. 107–314, div. A, title X, §1062(a)(16), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 109–364, div. A, title V, §555(a), Oct. 17, 2006, 120 Stat. 2217; renumbered §8307 and amended Pub. L. 115–232, div. A, title VIII, §§807(b)(13), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
-A prior section 8307, act Aug. 10, 1956, ch. 1041, 70A Stat. 517, related to promotion of officers in regulargrade of brigadier general to grade of major general, prior to repeal by Pub. L. 96–513, title II, §204, Dec. 12, 1980, 94 Stat. 2880, effective Sept. 15, 1981. See section 619 et seq. of this title.
+A prior section 8307, act Aug. 10, 1956, ch. 1041, 70A Stat. 517, related to promotion of officers in regular grade of brigadier general to grade of major general, prior to repeal by Pub. L. 96–513, title II, §204, Dec. 12, 1980, 94 Stat. 2880, effective Sept. 15, 1981. See section 619 et seq. of this title.
 
 #### Amendments
 
@@ -18,11 +20,13 @@ Pub. L. 115–232, §807(b)(13), renumbered section 6257 of this title as this s
 
 <b>2002</b>—Pub. L. 107–314 substituted "October 23, 2002" for "the date of the enactment of this section".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
 #### Presentation of Flag for Prior Recipients of Medal of Honor
 
-President to provide for the presentation of the Medal of Honor Flag to living recipients of the Medal of Honor as expeditiously as possible after Oct. 17, 2006, and for posthumous presentation to survivors of deceased recipients upon written application therefor, see section 555(b) of Pub. L. 109–364, set out as a note under section 7285 of this title.
+President to provide for the presentation of the Medal of Honor Flag to living recipients of the Medalof Honor as expeditiously as possible after Oct. 17, 2006, and for posthumous presentation to survivors of deceased recipients upon written application therefor, see section 555(b) of Pub. L. 109–364, set out as a note under section 7285 of this title.
 

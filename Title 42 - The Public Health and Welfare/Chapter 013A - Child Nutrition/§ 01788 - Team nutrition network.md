@@ -12,7 +12,7 @@ The purposes of the team nutrition network are—
 
 &emsp;(4) to coordinate and collaborate with other nutrition education and active living programs that share similar goals and purposes; and
 
-&emsp;(5) to identify and share innovative programs with demonstrated effectiveness in helping children to maintain a healthy weight by enhancing student understanding of healthful eating patterns and the importance of regular physical activity.
+&emsp;(5) to identify and share innovative programs with demonstrated effectiveness inhelping children to maintain a healthy weight by enhancing student understanding of healthful eating patterns and the importance of regular physical activity.
 
 #### (b) Definition of team nutrition network
 
@@ -82,7 +82,7 @@ Each State that receives a grant under this section shall appoint a team nutriti
 
 A State agency that receives a grant under this section may use funds from the grant—
 
-&emsp;(1)(A) to collect, analyze, and disseminate data regarding the extent to which childrenand youths in the State are overweight, physically inactive, or otherwise suffering from nutrition-related deficiencies or disease conditions; and
+&emsp;(1)(A) to collect, analyze, and disseminate data regarding the extent to which children and youths in the State are overweight, physically inactive, or otherwise suffering from nutrition-related deficiencies or disease conditions; and
 
 &emsp;(B) to identify the programs and services available to meet those needs;
 
@@ -162,7 +162,7 @@ A State agency that receives a grant under this section may use funds from the g
 
 &emsp;&emsp;&emsp;(iv) incorporate nutrition education into physical education, health education, and after school programs, including athletics;
 
-&emsp;&emsp;&emsp;(v) involve parents, nutrition professionals, food service staff, educators, community leaders, and other interested parties in assessing the food options in the school environment and developing and implementing an action plan to promote a balanced and healthy diet;
+&emsp;&emsp;&emsp;(v) involve parents, nutrition professionals, food service staff, educators, community leaders, and other interested parties in assessing the food options in theschool environment and developing and implementing an action plan to promote a balanced and healthy diet;
 
 &emsp;&emsp;&emsp;(vi) provide nutrient content or nutrition information on meals served through the school lunch program established under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) and the school breakfast program established by section 1773 of this title and items sold a la carte during meal times;
 
@@ -225,6 +225,8 @@ Material prepared under this section regarding agricultural commodities, food, o
 There are authorized to be appropriated such sums as are necessary to carry out this section.
 
 (Pub. L. 89–642, §19, as added Pub. L. 95–166, §15, Nov. 10, 1977, 91 Stat. 1340; amended Pub. L. 96–499, title II, §213, Dec. 5, 1980, 94 Stat. 2603; Pub. L. 97–35, title VIII, §§806, 817(f), Aug. 13, 1981, 95 Stat. 527, 532; Pub. L. 99–500, title III, §§315, 362, 372(b), 373(b), Oct. 18, 1986, 100 Stat. 1783–360, 1783–368, 1783–369, and Pub. L. 99–591, title III, §§315, 362, 372(b), 373(b), Oct. 30, 1986, 100 Stat. 3341–363, 3341–371, 3341–372; Pub. L. 99–661, div. D, title I, §4105, title IV, §4402, title V, §§4502(b), 4503(b), Nov. 14, 1986, 100 Stat. 4071, 4079–4081; Pub. L. 101–147, title I, §124, title II, §214, title III, §327, Nov. 10, 1989, 103 Stat. 905, 913, 918; Pub. L. 103–448, title II, §205, Nov. 2, 1994, 108 Stat. 4746; Pub. L. 104–193, title VII, §731(a)–(f), Aug. 22, 1996, 110 Stat. 2305–2307; Pub. L. 105–336, title II, §204, Oct. 31, 1998, 112 Stat. 3167; Pub. L. 106–78, title VII, §752(b)(16), Oct. 22, 1999, 113 Stat. 1170; Pub. L. 108–265, title II, §205(a), June 30, 2004, 118 Stat. 782.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -354,13 +356,15 @@ Subsec. (j)(2). Pub. L. 97–35, §806, substituted provisions authorizing $15,0
 
 <b>1980</b>—Subsec. (j)(2). Pub. L. 96–499 substituted "For the fiscal year ending September 30, 1980, and for each succeeding fiscal year ending on or before September 30, 1984" for "For the fiscal year beginning October 1, 1979" and "second preceding sentence" for "preceding sentence" and inserted provision authorizing appropriations for the fiscal year beginning October 1, 1980, and subsequent fiscal years, for the grants referred to in the preceding sentence, not more than $15,000,000.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–336 effective Oct. 1, 1998, see section 401 of Pub. L. 105–336, set out as a note under section 1755 of this title.
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–193, title VII, §731(g), Aug. 22, 1996, 110 Stat. 2307, provided that: "The amendments made by subsection (e) \[amending this section\] shall become effective on October 1, 1996."
+Pub. L. 104–193, title VII, §731(g), Aug. 22, 1996, 110 Stat. 2307, provided that: "The amendments made bysubsection (e) \[amending this section\] shall become effective on October 1, 1996."
 
 #### Effective Date of 1994 Amendment
 

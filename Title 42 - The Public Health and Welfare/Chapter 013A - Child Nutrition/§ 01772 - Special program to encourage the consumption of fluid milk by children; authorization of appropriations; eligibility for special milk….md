@@ -12,17 +12,19 @@
 
 (6) Children who qualify for free lunches under guidelines set forth by the Secretary shall, at the option of the school involved (or of the local educational agency involved in the case of a public school) be eligible for free milk upon their request.
 
-(7) For the fiscal year ending June 30, 1975, and for subsequent school years, the minimum rate of reimbursement for a half-pint of milk served in schools and other eligible institutions shall not be less than 5 cents per half-pint served to eligible children, and such minimum rate of reimbursement shall be adjusted on an annual basis each school year to reflect changes in the Producer Price Index for Fresh Processed Milk published by the Bureau of Labor Statistics of the Department of Labor.
+(7) For the fiscal year ending June 30, 1975, and for subsequent school years, the minimum rate of reimbursement for a half-pint of milk servedin schools and other eligible institutions shall not be less than 5 cents per half-pint served to eligible children, and such minimum rate of reimbursement shall be adjusted on an annual basis each school year to reflect changes in the Producer Price Index for Fresh Processed Milk published by the Bureau of Labor Statistics of the Department of Labor.
 
 (8) Such adjustment shall be computed to the nearest one-fourth cent.
 
 (9) Notwithstanding any other provision of this section, in no event shall the minimum rate of reimbursement exceed the cost to the school or institution of milk served to children.
 
-(10) The State educational agency shall disburse funds paid to the State during any fiscal year for purposes of carrying out the program under this section in accordance with such agreements approved by the Secretary as may be entered into by such State agency and the schools in the State. The agreements described in the preceding sentence shall be permanentagreements that may be amended as necessary. Nothing in the preceding sentence shall be construed to limit the ability of the State educational agency to suspend or terminate any such agreement in accordance with regulations prescribed by the Secretary.
+(10) The State educational agency shall disburse funds paid to the State during any fiscal year for purposes of carrying out the program under this section in accordance with such agreements approved by the Secretary as may be entered into by such State agency and the schools in the State. The agreements described in the preceding sentence shall be permanent agreements that may be amended as necessary. Nothing in the preceding sentence shall be construed to limit the ability of the State educational agency to suspend or terminate any such agreement in accordance with regulations prescribed by the Secretary.
 
 (b) Commodity only schools shall not be eligible to participate in the special milk program under this section. For the purposes of the preceding sentence, the term "commodity only schools" means schools that do not participate in the school lunch program under the Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\], but which receive commodities made available by the Secretary for use by such schools in nonprofit lunch programs.
 
 (Pub. L. 89–642, §3, Oct. 11, 1966, 80 Stat. 885; Pub. L. 91–295, June 30, 1970, 84 Stat. 336; Pub. L. 93–150, §7, Nov. 7, 1973, 87 Stat. 563; Pub. L. 93–347, §3, July 12, 1974, 88 Stat. 341; Pub. L. 94–105, §15(a), Oct. 7, 1975, 89 Stat. 522; Pub. L. 95–166, §§11, 20(1), (2), Nov. 10, 1977, 91 Stat. 1337, 1346; Pub. L. 95–627, §5(a), Nov. 10, 1978, 92 Stat. 3619; Pub. L. 96–499, title II, §209, Dec. 5, 1980, 94 Stat. 2602; Pub. L. 97–35, title VIII, §§807, 813(c), Aug. 13, 1981, 95 Stat. 527, 530; Pub. L. 99–500, title III, §329, Oct. 18, 1986, 100 Stat. 1783–362, and Pub. L. 99–591, title III, §329, Oct. 30, 1986, 100 Stat. 3341–365; Pub. L. 99–661, div. D, title II, §4209, Nov. 14, 1986, 100 Stat. 4073; Pub. L. 101–147, title II, §211, title III, §321, Nov. 10, 1989, 103 Stat. 911, 916; Pub. L. 104–193, title VII, §721, Aug. 22, 1996, 110 Stat. 2301; Pub. L. 106–78, title VII, §752(b)(16), Oct. 22, 1999, 113 Stat. 1170.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -70,7 +72,9 @@ Subsec. (b). Pub. L. 97–35, §813(c)(2), added subsec. (b).
 
 <b>1973</b>—Pub. L. 93–150 inserted provisions making any school or nonprofit child care institution eligible to receive the special milk program upon their request and any children that qualify for free lunches under guidelines set forth by the Secretary also eligible for free milk.
 
-<b>1970</b>—Pub. L. 91–295 substituted provisions authorizing appropriations of not to exceed $120,000,000 for fiscal year ending June 30, 1970, and for each succeeding fiscal year, for provisions authorizing appropriations of not to exceed $110,000,000 for fiscal year ending June 30, 1967, not to exceed $115,000,000 for fiscal year ending June 30, 1968, and not to exceed $120,000,000 for each of two succeeding fiscal years, and provisions requiring Secretary to administer the special milk program provided for by this section in same manner as he administered the special milk program provided for by this chapter during fiscal year ending June 30, 1969, for provisions requiring the Secretary to administer such program in the same manner as he administered the special milk program provided for by Pub. L. 85–478, as amended, during fiscal year ending June 30, 1966, and provided that Guam be subject to provisions of this section.
+<b>1970</b>—Pub. L. 91–295 substituted provisions authorizing appropriations of not to exceed $120,000,000 for fiscal year ending June 30, 1970, and for each succeedingfiscal year, for provisions authorizing appropriations of not to exceed $110,000,000 for fiscal year ending June 30, 1967, not to exceed $115,000,000 for fiscal year ending June 30, 1968, and not to exceed $120,000,000 for each of two succeeding fiscal years, and provisions requiring Secretary to administer the special milk program provided for by this section in same manner as he administered the special milk program provided for by this chapter during fiscal year ending June 30, 1969, for provisions requiring the Secretary to administer such program in the same manner as he administered the special milk program provided for by Pub. L. 85–478, as amended, during fiscal year ending June 30, 1966, and provided that Guam be subject to provisions of this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendments
 
@@ -80,7 +84,7 @@ Pub. L. 99–500, title III, §329, Oct. 18, 1986, 100 Stat. 1783–362, and Pub
 
 #### Effective Date of 1981 Amendment
 
-Amendment by section 807 of Pub. L. 97–35 effective Oct. 1, 1981, and amendment by section 813 of Pub. L.97–35 effective 90 days after Aug. 13, 1981, see section 820(a)(3), (5) of Pub. L. 97–35, set out as a note under section 1753 of this title.
+Amendment by section 807 of Pub. L. 97–35 effective Oct. 1, 1981, and amendment by section 813 of Pub. L. 97–35 effective 90 days after Aug. 13, 1981, see section 820(a)(3), (5) of Pub. L. 97–35, set out as a note under section 1753 of this title.
 
 #### Effective Date of 1978 Amendment
 

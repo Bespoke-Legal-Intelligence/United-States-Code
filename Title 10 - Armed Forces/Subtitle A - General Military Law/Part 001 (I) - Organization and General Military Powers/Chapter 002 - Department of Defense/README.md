@@ -13,29 +13,27 @@
 | \[115b. | Repealed.\] |
 | [116\.](%C2%A7%2000116%20-%20Annual%20operations%20and%20maintenance%20report.md) | Annual operations and maintenance report. |
 | [117\.](%C2%A7%2000117%20-%20Readiness%20reporting%20system.md) | Readiness reporting system. |
-| [118\.](%C2%A7%2000118%20-%20Materiel%20readiness%20metrics%20and%20objectives%20for%20major%20weapon%20systems.md) | Materiel readiness metrics and objectives for major defense acquisition programs.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
-| 118a.<sup>2</sup> | National Defense Sustainment and Logistics Review. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
-| 118a.<sup>2</sup> | Quadrennial quality of life review. |
-| \[118b. | Repealed.\] |
+| [118\.](%C2%A7%2000118%20-%20Materiel%20readiness%20metrics%20and%20objectives%20for%20major%20weapon%20systems.md) | Materiel readiness metrics and objectives for major weapon systems. |
+| [118a.](%C2%A7%2000118a%20-%20Quadrennial%20quality%20of%20life%20review.md) | Quadrennial quality of life review. |
+| [118b.](%C2%A7%2000118b%20-%20National%20Defense%20Sustainment%20and%20Logistics%20Review.md) | National Defense Sustainment and Logistics Review. |
+| [118c.](%C2%A7%2000118c%20-%20National%20Defense%20Science%20and%20Technology%20Strategy.md) | National Defense Science and Technology Strategy. |
 | [119\.](%C2%A7%2000119%20-%20Special%20access%20programs%20congressional%20oversight.md) | Special access programs: congressional oversight. |
 | [119a.](%C2%A7%2000119a%20-%20Programs%20managed%20under%20alternative%20compensatory%20control%20measures%20congressional%20oversight.md) | Programs managed under alternative compensatory control measures: congressional oversight. |
 | [120\.](%C2%A7%2000120%20-%20Department%20of%20Defense%20executive%20aircraft%20controlled%20by%20Secretaries%20of%20military%20departments.md) | Department of Defense executive aircraft controlled by Secretaries of military departments. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>2021</b>—Pub. L. 116–283, div. A, title III, §§341(b), 347(b), Jan. 1, 2021, 134 Stat. 3537, 3541, substituted "Materiel readiness metrics and objectives for major defense acquisition programs" for "Annual report on major weapons systems sustainment" in item 118 and added item 118a "National Defense Sustainment and Logistics Review".
+<b>2021</b>—Pub. L. 117–81, div. A, title X, §1061(a)(2), Dec. 27, 2021, 135 Stat. 1909, which effectively directed the renumbering of the second item 118a ("Quadrennial quality of life review") as 118b, could not be executed because there was no second item 118a after the renumbering of another item 118a ("National Defense Sustainment and Logistics Review") as 118b by Pub. L. 117–81, §§311(b)(2)(A), 1081(a)(3). See note below.
+
+Pub. L. 117–81, div. A, title III, §311(b)(2)(A), title X, §1081(a)(3), Dec. 27, 2021, 135 Stat. 1625, 1919, made similar amendments, resulting in the renumbering of item 118a "National Defense Sustainment and Logistics Review" as 118b. Amendment by section 1081(a)(3) to be treated as applying before amendment by section 311(b)(2)(A), see section 1081(d) of Pub. L. 117–81, set out as a Coordination of Certain Sections of an Act With Other Provisions of That Act under section 101 of this title.
+
+Pub. L. 117–81, div. A, title II, §211(b), title X, §1081(a)(2), Dec. 27, 2021, 135 Stat. 1587, 1919, substituted "Materiel readiness metrics and objectives for major weapon systems" for "Materiel readiness metrics and objectives for major defense acquisition programs" in item 118 and added item 118c.
+
+Pub. L. 116–283, div. A, title III, §§341(b), 347(b), Jan. 1, 2021, 134 Stat. 3537, 3541, substituted "Materiel readiness metrics and objectives for major defense acquisition programs" for "Annual report on major weapons systems sustainment" in item 118 and added item 118a "National Defense Sustainment and Logistics Review".
 
 <b>2019</b>—Pub. L. 116–92, div. A, title XVII, §1731(b), Dec. 20, 2019, 133 Stat. 1816, amended directory language of Pub. L. 115–232, §331(g)(2), and provided that the amendment is effective Aug. 13, 2018, and as if included in Pub. L. 115–232 as enacted. See 2018 Amendment note below.
 
@@ -79,10 +77,6 @@ Pub. L. 101–510, div. A, title XIII, §1331(1), title XIV, §1483(c)(1), Nov. 
 
 <b>1986</b>—Pub. L. 99–433, title I, §101(a)(1), Oct. 1, 1986, 100 Stat. 994, added chapter heading and analysis of sections for chapter 2, consisting of items 111 to 118.
 
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
-
-<i><sup>2</sup></i><i> So in original. Two items 118a have been enacted.</i>
-
 
 ---
 
@@ -100,9 +94,9 @@ Pub. L. 101–510, div. A, title XIII, §1331(1), title XIV, §1483(c)(1), Nov. 
 - [&sect; 00116 - Annual operations and maintenance report](%C2%A7%2000116%20-%20Annual%20operations%20and%20maintenance%20report.md)
 - [&sect; 00117 - Readiness reporting system](%C2%A7%2000117%20-%20Readiness%20reporting%20system.md)
 - [&sect; 00118 - Materiel readiness metrics and objectives for major weapon systems](%C2%A7%2000118%20-%20Materiel%20readiness%20metrics%20and%20objectives%20for%20major%20weapon%20systems.md)
-- [&sect; 00118a - 1 National Defense Sustainment and Logistics Review](%C2%A7%2000118a%20-%201%20National%20Defense%20Sustainment%20and%20Logistics%20Review.md)
-- [&sect; 00118a - 1 Quadrennial quality of life review](%C2%A7%2000118a%20-%201%20Quadrennial%20quality%20of%20life%20review.md)
-- [&sect; 00118b - Repealed. Pub. L. 113&#8211;291, div. A, title X, &sect;1072(b)(1), Dec. 19, 2014, 128 Stat. 3516](%C2%A7%2000118b%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93291%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71072%28b%29%281%29%2C%20Dec.%2019%2C%202014%2C%20128%20Stat.%203516.md)
+- [&sect; 00118a - Quadrennial quality of life review](%C2%A7%2000118a%20-%20Quadrennial%20quality%20of%20life%20review.md)
+- [&sect; 00118b - National Defense Sustainment and Logistics Review](%C2%A7%2000118b%20-%20National%20Defense%20Sustainment%20and%20Logistics%20Review.md)
+- [&sect; 00118c - National Defense Science and Technology Strategy](%C2%A7%2000118c%20-%20National%20Defense%20Science%20and%20Technology%20Strategy.md)
 - [&sect; 00119 - Special access programs congressional oversight](%C2%A7%2000119%20-%20Special%20access%20programs%20congressional%20oversight.md)
 - [&sect; 00119a - Programs managed under alternative compensatory control measures congressional oversight](%C2%A7%2000119a%20-%20Programs%20managed%20under%20alternative%20compensatory%20control%20measures%20congressional%20oversight.md)
 - [&sect; 00120 - Department of Defense executive aircraft controlled by Secretaries of military departments](%C2%A7%2000120%20-%20Department%20of%20Defense%20executive%20aircraft%20controlled%20by%20Secretaries%20of%20military%20departments.md)

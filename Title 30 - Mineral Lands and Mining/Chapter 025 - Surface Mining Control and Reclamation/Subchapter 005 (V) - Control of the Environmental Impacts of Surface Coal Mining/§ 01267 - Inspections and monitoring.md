@@ -30,7 +30,7 @@ The inspections by the regulatory authority shall (1) occur on an irregular basi
 
 #### (d) Maintenance of sign
 
-Each permittee shall conspicuously maintain at the entrances to the surface coal mining and reclamation operations a clearly visible sign which sets forth the name, business address, and phone number of the permittee and the permit number of the surface coal mining and reclamation operations.
+Each permittee shall conspicuously maintain at the entrances to the surface coal mining andreclamation operations a clearly visible sign which sets forth the name, business address, and phone number of the permittee and the permit number of the surface coal mining and reclamation operations.
 
 #### (e) Violations
 
@@ -38,7 +38,7 @@ Each inspector, upon detection of each violation of any requirement of any State
 
 #### (f) Availability of information to public
 
-Copies of any records, reports, inspection materials, or information obtained under this subchapter by the regulatory authority shall be made immediately available to the public at central and sufficient locations in the county,multicounty, and State area of mining so that they are conveniently available to residents in the areas of mining.
+Copies of any records, reports, inspection materials, or information obtained under this subchapter by the regulatory authority shall be made immediately available to the public at central and sufficient locations in the county, multicounty, and State area of mining so that they are conveniently available to residents in the areas of mining.
 
 #### (g) Conflict of interest; penalty; publication of regulations; report to Congress
 

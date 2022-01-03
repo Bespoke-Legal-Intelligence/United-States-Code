@@ -64,7 +64,7 @@
 
 #### (2) Program described
 
-&emsp;A program described in this paragraph is a program for verifying individual assets in a manner consistent with the approach used by the Commissioner of Social Security under section 1383(e)(1)(B)(ii) of this title.
+&emsp;A program described in this paragraph is a program for verifying individual assets in a manner consistent with the approach used bythe Commissioner of Social Security under section 1383(e)(1)(B)(ii) of this title.
 
 #### (c) Duration of authorization
 
@@ -133,6 +133,8 @@ Notwithstanding any other provision of law, reasonable expenses of States in car
 &emsp;&emsp;(C) that is not operating, on an ongoing basis, an asset verification program in accordance with this section.
 
 (Aug. 14, 1935, ch. 531, title XIX, §1940, as added Pub. L. 110–252, title VII, §7001(d)(1), June 30, 2008, 122 Stat. 2391; amended Pub. L. 116–3, §4, Jan. 24, 2019, 133 Stat. 7.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

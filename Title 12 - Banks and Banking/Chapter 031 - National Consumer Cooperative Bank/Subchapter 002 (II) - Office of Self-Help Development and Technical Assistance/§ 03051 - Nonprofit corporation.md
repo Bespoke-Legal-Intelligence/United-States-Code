@@ -44,7 +44,7 @@
 
 #### (d) Contributions from the Bank
 
-(1) The Board of Directors of the Bank may make contributions to the nonprofit corporation in such amounts as the Board of Directors of the Bank deems appropriate, except that—
+(1) The Board of Directors of the Bank may make contributions to the nonprofit corporationin such amounts as the Board of Directors of the Bank deems appropriate, except that—
 
 &emsp;(A) such contributions may be made only out of the Bank's earnings, determined in accordance with generally accepted accounting principles; and
 

@@ -62,7 +62,7 @@ During the conducting of siting research activities under section 10194 of this 
 
 #### (e) Engineered barriers
 
-The system of engineered barriers and selected geology used in a test and evaluation facilityshall have a design life at least as long as that which the Commission requires by regulations issued under this chapter, or under the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.), for repositories.
+The system of engineered barriers and selected geology used in a test and evaluation facility shall have a design life at least as long as that which the Commission requires by regulations issued under this chapter, or under the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.), for repositories.
 
 #### (f) Role of Commission
 
@@ -101,6 +101,8 @@ The Secretary shall prepare an environmental impact statement under section 102(
 (4) Notwithstanding any other provisions of this subsection, as soon as practicable following any determination by the Secretary, with the concurrence of the Commission, that the test and evaluation facility is unsuitable for continued operation, the Secretary shall take such actions as are necessary to remove from such site any radioactive material placed on such site as a result of testing and evaluation activities conducted under this section. Such requirement may be waived if the Secretary, with the concurrence of the Commission, finds that short-term testing and evaluation activities using radioactive material will not endanger the public health and safety.
 
 (Pub. L. 97–425, title II, §217, Jan. 7, 1983, 96 Stat. 2249.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

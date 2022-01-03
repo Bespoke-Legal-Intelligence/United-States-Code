@@ -20,7 +20,7 @@
 
 #### (5) Termination
 
-&emsp;The requirement established in paragraph (1) shall terminate upon a finding by the Secretary that since the beginning of 2001 at least 150,000 new units of permanent housing forhomeless individuals and families with disabilities have been funded under this part.
+&emsp;The requirement established in paragraph (1) shall terminate upon a finding by the Secretary that since the beginning of 2001 at least 150,000 new units of permanent housing for homeless individuals and families with disabilities have been funded under this part.
 
 #### (b) Set-aside for permanent housing for homeless families with children
 
@@ -28,7 +28,7 @@ From the amounts made available to carry out this part for a fiscal year, a port
 
 #### (c) Treatment of amounts for permanent or transitional housing
 
-Nothing in this chapter may be construed to establish a limit on the amount of funding that an applicant may request under this part for acquisition, construction, or rehabilitation activities for the development of permanent housing or transitional housing.
+Nothing in this chapter may be construed to establish a limit on the amount of funding thatan applicant may request under this part for acquisition, construction, or rehabilitation activities for the development of permanent housing or transitional housing.
 
 #### (d) Incentives for proven strategies
 
@@ -56,6 +56,8 @@ If any geographic area demonstrates that it has fully implemented any of the act
 
 (Pub. L. 100–77, title IV, §428, as added Pub. L. 111–22, div. B, title III, §1305(3), May 20, 2009, 123 Stat. 1693.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (c), was in the original "this Act", meaning Pub. L. 100–77, July 22, 1987, 101 Stat. 482, known as the McKinney-Vento Homeless Assistance Act. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
@@ -65,6 +67,8 @@ This chapter, referred to in subsec. (c), was in the original "this Act", meanin
 A prior section 428 of Pub. L. 100–77 was renumbered section 434 and is classified to section 11388 of this title.
 
 Another prior section 428 of Pub. L. 100–77, July 22, 1987, 101 Stat. 504; Pub. L. 100–628, title IV, §§454, 455, Nov. 7, 1988, 102 Stat. 3236; Pub. L. 101–625, title VIII, §833(a), Nov. 28, 1990, 104 Stat. 4362, which authorized appropriations for the supportive housing demonstration program, was classified to section 11388 of this title prior to repeal by Pub. L. 102–550, title XIV, §1403(a), Oct. 28, 1992, 106 Stat. 4013.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -8,7 +8,7 @@
 
 (4) Any person desiring to be registered as an associated person of a futures commission merchant, of an introducing broker, of a commodity pool operator, or of a commodity trading advisor shall make application to the Commission in the form and manner prescribed by the Commission, giving such information and facts as the Commission may deem necessary concerning the applicant. Such person, when registered hereunder, shall likewise continue to report and furnish to the Commission such information as the Commission may require. Such registration shall expire at such time as the Commission may by rule, regulation, or order prescribe.
 
-(5) It shall be unlawful for any registrant to permit a person to become or remain an associated person of such registrant, if the registrant knew or should have known of facts regarding such associated person that are set forth as statutory disqualifications in section 12a(2) of this title, unless such registrant has notified the Commission of such facts and the Commission has determined that such person should be registered or temporarily licensed.
+(5) It shall be unlawful for any registrant to permit a person to become or remain an associated person of such registrant, if the registrant knew or should have known of facts regardingsuch associated person that are set forth as statutory disqualifications in section 12a(2) of this title, unless such registrant has notified the Commission of such facts and the Commission has determined that such person should be registered or temporarily licensed.
 
 (6) Any associated person of a broker or dealer that is registered with the Securities and Exchange Commission, and who limits its solicitation of orders, acceptance of orders, or execution of orders, or placing of orders on behalf of others involving any contracts of sale of any commodity for future delivery or any option on such a contract, on or subject to the rules of any contract market or registered derivatives transaction execution facility to security futures products, shall be exempt from the following provisions of this chapter and the rules thereunder:
 
@@ -31,6 +31,8 @@
 &emsp;(I) Section 20 of this title.
 
 (Sept. 21, 1922, ch. 369, §4k, as added Pub. L. 93–463, title II, §204(a), Oct. 23, 1974, 88 Stat. 1396; amended Pub. L. 95–405, §7, Sept. 30, 1978, 92 Stat. 869; Pub. L. 97–444, title II, §212, Jan. 11, 1983, 96 Stat. 2303; Pub. L. 106–554, §1(a)(5) \[title II, §252(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–448; Pub. L. 110–234, title XIII, §13105(c), May 22, 2008, 122 Stat. 1434; Pub. L. 110–246, §4(a), title XIII, §13105(c), June 18, 2008, 122 Stat. 1664, 2196.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -55,6 +57,8 @@ Par. (5). Pub. L. 97–444 added par. (5).
 <b>1978</b>—Par. (2). Pub. L. 95–405, §7(1), inserted provisions authorizing the Commission to prescribe the period of registration of not less than one year for associated persons.
 
 Par. (3). Pub. L. 95–405, §7(2), added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

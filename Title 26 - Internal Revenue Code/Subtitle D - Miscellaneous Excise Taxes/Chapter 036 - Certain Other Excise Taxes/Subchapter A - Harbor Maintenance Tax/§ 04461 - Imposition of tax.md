@@ -24,6 +24,8 @@ The amount of the tax imposed by subsection (a) on any port use shall be an amou
 
 (Added Pub. L. 99–662, title XIV, §1402(a), Nov. 17, 1986, 100 Stat. 4266; amended Pub. L. 101–508, title XI, §11214(a), Nov. 5, 1990, 104 Stat. 1388–436; Pub. L. 109–59, title XI, §11116(b), Aug. 10, 2005, 119 Stat. 1951.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 For prior section 4461, see Prior Provisions note set out preceding section 4471 of this title.
@@ -39,6 +41,8 @@ Subsec. (c)(2). Pub. L. 109–59, §11116(b)(2), substituted "imposed" for "impo
 &emsp;"(B) in any other case,".
 
 <b>1990</b>—Subsec. (b). Pub. L. 101–508 substituted "0.125 percent" for "0.04 percent".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2005 Amendment
 

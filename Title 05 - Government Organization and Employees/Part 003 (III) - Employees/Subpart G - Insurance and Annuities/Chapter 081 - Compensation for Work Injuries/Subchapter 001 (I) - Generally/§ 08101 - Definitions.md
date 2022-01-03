@@ -4,7 +4,7 @@ For the purpose of this subchapter—
 
 &emsp;(1) "employee" means—
 
-&emsp;&emsp;(A) a civil officer or employee in any branch of the Government of the United States, including an officer or employee of an instrumentality wholly owned by the United States;
+&emsp;&emsp;(A) a civil officer or employee in any branch of the Government of the UnitedStates, including an officer or employee of an instrumentality wholly owned by the United States;
 
 &emsp;&emsp;(B) an individual rendering personal service to the United States similar to the service of a civil officer or employee of the United States, without pay or for nominal pay, when a statute authorizes the acceptance or use of the service, or authorizes payment of travel or other expenses of the individual;
 
@@ -32,7 +32,7 @@ For the purpose of this subchapter—
 
 &emsp;(3) "medical, surgical, and hospital services and supplies" includes services and supplies by podiatrists, dentists, clinical psychologists, optometrists, chiropractors, osteopathic practitioners and hospitals within the scope of their practice as defined by State law. Reimbursable chiropractic services are limited to treatment consisting of manual manipulation of the spine to correct a subluxation as demonstrated by X-ray to exist, and subject to regulation by the Secretary;
 
-&emsp;(4) "monthly pay" means the monthly pay at the time of injury, or the monthly pay at the time disability begins, or the monthly pay at the time compensable disability recurs, if the recurrence begins more than 6 months after the injured employee resumes regularfull-time employment with the United States, whichever is greater, except when otherwise determined under section 8113 of this title with respect to any period;
+&emsp;(4) "monthly pay" means the monthly pay at the time of injury, or the monthly pay at the time disability begins, or the monthly pay at the time compensable disability recurs, if the recurrence begins more than 6 months after the injured employee resumes regular full-time employment with the United States, whichever is greater, except when otherwise determined under section 8113 of this title with respect to any period;
 
 &emsp;(5) "injury" includes, in addition to injury by accident, a disease proximately caused by the employment, and damage to or destruction of medical braces, artificial limbs, and other prosthetic devices which shall be replaced or repaired, and such time lost while such device or appliance is being replaced or repaired; except that eyeglasses and hearing aids would not be replaced, repaired, or otherwise compensated for, unless the damages or destruction is incident to a personal injury requiring medical services;
 
@@ -88,7 +88,7 @@ For the purpose of this subchapter—
 
 &emsp;(18) "price index" means the Consumer Price Index (all items—United States city average) published monthly by the Bureau of Labor Statistics; and
 
-&emsp;(19) "organ" means a part of the body that performs a special function, and for purposesof this subchapter excludes the brain, heart, and back; and
+&emsp;(19) "organ" means a part of the body that performs a special function, and for purposes of this subchapter excludes the brain, heart, and back; and
 
 &emsp;(20) "United States medical officers and hospitals" includes medical officers and hospitals of the Army, Navy, Air Force, Department of Veterans Affairs, and United States Public Health Service, and any other medical officer or hospital designated as a United States medical officer or hospital by the Secretary of Labor.
 
@@ -268,7 +268,7 @@ Pars. (20), (21). Pub. L. 93–416, §1(f), added pars. (20) and (21).
 
 #### Change of Name
 
-Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see section 402(c)(3) of Title 42, The Public Health and Welfare.
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see section 204(c)(3) of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1980 Amendment
 
@@ -281,6 +281,76 @@ Pub. L. 93–416, §28(a), Sept. 7, 1974, 88 Stat. 1151, provided that: "Except 
 #### Short Title of 1990 Amendment
 
 Pub. L. 101–534, §1, Nov. 7, 1990, 104 Stat. 2352, provided that: "This Act \[amending section 8111 of this title and enacting provisions set out as a note under section 8111 of this title\] may be cited as the 'Attendant Allowance Adjustment Act'."
+
+#### Eligibility for Workers' Compensation Benefits for Federal Employees Diagnosed With COVID–19
+
+Pub. L. 117–2, title IV, §4016, Mar. 11, 2021, 135 Stat. 80, provided that:
+
+"(a)
+
+In General.—Subject to subsection (c), a covered employee shall, with respect to any claim made by or on behalf of the covered employee for benefits under subchapter I of chapter 81 of title 5, United States Code, be deemed to have an injury proximately caused by exposure to the novel coronavirus arising out of the nature of the covered employee's employment. Such covered employee, or a beneficiary of such an employee, shall be entitled to such benefits for such claim, including disability compensation, medical services, and survivor benefits.
+
+"(b)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Covered employee.—
+
+&emsp;&emsp;"(A)
+
+In general.—The term 'covered employee' means an individual—
+
+&emsp;&emsp;&emsp;"(i) who is an employee under section 8101(1) of title 5, United States Code, employed in the Federal service at anytime during the period beginning on January 27, 2020, and ending on January 27, 2023;
+
+&emsp;&emsp;&emsp;"(ii) who is diagnosed with COVID–19 during such period; and
+
+&emsp;&emsp;&emsp;"(iii) who, during a covered exposure period prior to such diagnosis, carries out duties that—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) require contact with patients, members of the public, or co-workers; or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) include a risk of exposure to the novel coronavirus.
+
+&emsp;&emsp;"(B)
+
+Teleworking exception.—The term 'covered employee' does not include any employee otherwise covered by subparagraph (A) who is exclusively teleworking during a covered exposure period, regardless of whether such employment is full time or part time.
+
+&emsp;"(2)
+
+Covered exposure period.—The term 'covered exposure period' means, with respect to a diagnosis of COVID–19, the period beginning on a date to be determined by the Secretary of Labor.
+
+&emsp;"(3)
+
+Novel coronavirus.—The term 'novel coronavirus' means SARS–CoV–2 or another coronavirus declared to be a pandemic by public health authorities.
+
+"(c)
+
+Limitation.—
+
+&emsp;"(1)
+
+Determinations made on or before the date of enactment.—This section shall not apply with respect to a covered employee who is determined to be entitled to benefits under subchapter I of chapter 81 of title 5, United States Code, for a claim described in subsection (a) if such determination is made on or before the date of enactment of this Act \[Mar. 11, 2021\].
+
+&emsp;"(2)
+
+Limitation on duration of benefits.—No funds are authorized to be appropriated to pay, and no benefits may be paid for, claims approved on the basis of subsection (a) after September 30, 2030. No administrative costs related to any such claim may be paid after such date.
+
+"(d)
+
+Employees' Compensation Fund.—
+
+&emsp;"(1)
+
+In general.—The costs of benefits for claims approved on the basis of subsection (a) shall not be included in the annual statement of the cost of benefits and other payments of an agency or instrumentality under section 8147(b) of title 5, United States Code.
+
+&emsp;"(2)
+
+Fair share provision.—Costs of administration for claims described in paragraph (1)—
+
+&emsp;&emsp;"(A) may be paid from the Employees' Compensation Fund; and
+
+&emsp;&emsp;"(B) shall not be subject to the fair share provision in section 8147(c) of title 5, United States Code."
 
 #### Processing of Claims Filed by District of Columbia Employees
 

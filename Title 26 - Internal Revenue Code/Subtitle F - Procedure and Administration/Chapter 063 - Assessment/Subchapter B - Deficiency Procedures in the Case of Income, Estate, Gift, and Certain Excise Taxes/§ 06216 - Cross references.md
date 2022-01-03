@@ -10,11 +10,15 @@
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 773; Pub. L. 96–589, §6(i)(9), Dec. 24, 1980, 94 Stat. 3411; Pub. L. 97–248, title IV, §402(c)(3), Sept. 3, 1982, 96 Stat. 667.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1982</b>—Par. (4). Pub. L. 97–248 added par. (4).
 
 <b>1980</b>—Par. (1). Pub. L. 96–589 struck out reference to bankruptcy proceedings.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1982 Amendment
 

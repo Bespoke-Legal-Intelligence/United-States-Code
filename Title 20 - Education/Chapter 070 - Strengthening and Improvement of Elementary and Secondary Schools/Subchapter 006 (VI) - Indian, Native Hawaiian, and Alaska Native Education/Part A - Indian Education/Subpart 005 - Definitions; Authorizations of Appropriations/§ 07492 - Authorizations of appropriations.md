@@ -2,7 +2,7 @@
 
 #### (a) Subpart 1
 
-For the purpose of carrying out subpart 1 of this part, there are authorized to be appropriated $100,381,000 for fiscal year 2017, $102,388,620 for fiscal year 2018, $104,436,392 for fiscal year 2019, and $106,525,120 for fiscal year 2020.
+For the purpose of carrying out subpart 1 of this part, there are authorized to be appropriated $100,381,000 for fiscal year 2017, $102,388,620 for fiscal year 2018, $104,436,392 forfiscal year 2019, and $106,525,120 for fiscal year 2020.
 
 #### (b) Subpart 2
 
@@ -13,6 +13,8 @@ For the purpose of carrying out subpart 2 of this part, there are authorized to 
 For the purpose of carrying out subpart 3, there are authorized to be appropriated $5,565,000 for each of fiscal years 2017 through 2020.
 
 (Pub. L. 89–10, title VI, §6152, formerly title VII, §7152, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1932; renumbered title VI, §6152, and amended Pub. L. 114–95, title VI, §§6001(a), (b)(1), 6002(t), Dec. 10, 2015, 129 Stat. 2046, 2062.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -25,6 +27,8 @@ A prior section 6152 of Pub. L. 89–10 was classified to section 7321a of this 
 Subsec. (b). Pub. L. 114–95, §6002(t)(2), in heading, substituted "Subpart 2" for "Subparts 2 and 3", and in text, substituted "subpart 2" for "subparts 2 and 3" and "$17,993,000 for each of fiscal years 2017 through 2020" for "$24,000,000 for fiscal year 2002 and such sums as may be necessary for each of the 5 succeeding fiscal years".
 
 Subsec. (c). Pub. L. 114–95, §6002(t)(3), added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

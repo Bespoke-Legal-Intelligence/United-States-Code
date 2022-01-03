@@ -90,7 +90,7 @@ In implementing subsection (a)(9), a State may adopt a policy that includes maki
 
 &emsp;&emsp;&emsp;&emsp;(II) applicable procedural safeguards; and
 
-&emsp;&emsp;&emsp;&emsp;(III) possible costs (including any fees to be charged to families as described in section 1432(4)(B) of this title), if any, to parents of infants or toddlers with disabilities;
+&emsp;&emsp;&emsp;&emsp;(III) possible costs (including any fees to be charged to families as described insection 1432(4)(B) of this title), if any, to parents of infants or toddlers with disabilities;
 
 &emsp;&emsp;(B) services provided pursuant to this subsection include an educational component that promotes school readiness and incorporates preliteracy, language, and numeracy skills;
 
@@ -116,13 +116,15 @@ In implementing subsection (a)(9), a State may adopt a policy that includes maki
 
 #### (A) Services under subchapter II
 
-&emsp;&emsp;If a statewide system includes a State policy described in paragraph (1), a State that provides services in accordance with thissubsection to a child with a disability who is eligible for services under section 1419 of this title shall not be required to provide the child with a free appropriate public education under subchapter II for the period of time in which the child is receiving services under this subchapter.
+&emsp;&emsp;If a statewide system includes a State policy described in paragraph (1), a State that provides services in accordance with this subsection to a child with a disability who is eligible for services under section 1419 of this title shall not be required to provide the child with a free appropriate public education under subchapter II for the period of time in which the child is receiving services under this subchapter.
 
 #### (B) Services under this subchapter
 
 &emsp;&emsp;Nothing in this subsection shall be construed to require a provider of services under this subchapter to provide a child served under this subchapter with a free appropriate public education.
 
 (Pub. L. 91–230, title VI, §635, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2747; amended Pub. L. 111–320, title II, §202(b), Dec. 20, 2010, 124 Stat. 3509.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

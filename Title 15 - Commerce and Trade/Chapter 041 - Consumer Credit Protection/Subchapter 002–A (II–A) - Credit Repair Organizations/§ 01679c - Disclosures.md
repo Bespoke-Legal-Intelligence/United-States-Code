@@ -44,6 +44,8 @@ The written statement required under this section shall be provided as a documen
 
 (Pub. L. 90–321, title IV, §405, as added Pub. L. 104–208, div. A, title II, §2451, Sept. 30, 1996, 110 Stat. 3009–457.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Credit Repair Organization Act, referred to in subsec. (a), probably means the Credit Repair Organizations Act, Pub. L. 90–321, title IV, as added Pub. L. 104–208, div. A, title II, §2451, Sept. 30, 1996, 110 Stat. 3009–454, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
@@ -52,7 +54,9 @@ The Credit Repair Organization Act, referred to in subsec. (a), probably means t
 
 For a prior section 405 of Pub. L. 90–321, see note set out under section 1679 of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Section applicable after the end of the 6-month period beginning on Sept. 30, 1996, except with respect to contracts entered into by a credit repair organizationbefore the end of such period, see section 413 of Pub. L. 90–321, as added by Pub. L. 104–208, set out as a note under section 1679 of this title.
+Section applicable after the end of the 6-month period beginning on Sept. 30, 1996, except with respect to contracts entered into by a credit repair organization before the end of such period, see section 413 of Pub. L. 90–321, as added by Pub. L. 104–208, set out as a note under section 1679 of this title.
 

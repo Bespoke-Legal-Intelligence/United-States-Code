@@ -50,13 +50,17 @@ In this section:
 
 &emsp;(4) The term "material" means any data, regardless of physical form or characteristic, including written or printed matter, automated information systems storage media, maps, charts, paintings, drawings, films, photographs, engravings, sketches, working notes, papers, reproductions of any such things by any means or process, and sound, voice, magnetic, or electronic recordings.
 
-&emsp;(5) The term "Sensitive Compartmented Information (SCI) level", in the case of classified material, means a level of classification for information in such material concerning or derived from intelligence sources, methods, or analytical processes that requires such information to be handled within formal access control systems established by the Director of Central Intelligence.
+&emsp;(5) The term "Sensitive Compartmented Information (SCI) level", in the case of classifiedmaterial, means a level of classification for information in such material concerning or derived from intelligence sources, methods, or analytical processes that requires such information to be handled within formal access control systems established by the Director of Central Intelligence.
 
 (Pub. L. 106–567, title III, §309, Dec. 27, 2000, 114 Stat. 2840.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
 Section was formerly classified to section 435a of this title prior to editorial reclassification and renumbering as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

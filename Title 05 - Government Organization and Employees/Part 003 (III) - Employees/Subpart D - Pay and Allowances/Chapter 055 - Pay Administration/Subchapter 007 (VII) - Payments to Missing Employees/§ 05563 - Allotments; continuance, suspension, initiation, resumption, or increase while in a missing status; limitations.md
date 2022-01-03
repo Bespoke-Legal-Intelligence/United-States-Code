@@ -118,7 +118,7 @@ In subsection (b), the words "head of the agency concerned, he or his designee" 
 
 In subsection (c), the words "in effect" are omitted as surplusage. The words "employee in a missing status" are substituted for "absent person" to conform to the definitions in section 5561(2) and (5).
 
-In subsection (d), the words "United States" are substituted for "Government" to conform to the style of this title. The word "employee" is substituted for "person" to conform to the definition in section 5561(2).
+In subsection (d), the words "United States" are substituted for "Government" to conform to the style ofthis title. The word "employee" is substituted for "person" to conform to the definition in section 5561(2).
 
 In subsection (e), the words "head of the agency concerned or his designee" are substituted for "head of the department concerned, or such subordinates as he may designate". The words "employee in a missing status" are substituted for "person entitled to receive or be credited with pay and allowances under section 2 of this Act" to conform to the definitions in section 5561(2) and (5). The words "United States" are substituted for "Government" to conform to the style of this title.
 

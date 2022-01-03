@@ -2,11 +2,11 @@
 
 #### (a) In general
 
-The general purpose of the National Institute of Mental Health (hereafter in this subpart referred to as the "Institute") is the conduct and support of biomedical and behavioral research, health services research, research training, and health information dissemination with respect to the cause, diagnosis, treatment, control and prevention of mental illness.
+The general purpose of the National Institute of Mental Health (hereafter in this subpart referred to as the "Institute") is the conduct andsupport of biomedical and behavioral research, health services research, research training, and health information dissemination with respect to the cause, diagnosis, treatment, control and prevention of mental illness.
 
 #### (b) Research program
 
-The research program established under this subpart shall include support for biomedical and behavioral neuroscience and shall be designed to further the treatment and prevention of mentalillness, the promotion of mental health, and the study of the psychological, social and legal factors that influence behavior.
+The research program established under this subpart shall include support for biomedical and behavioral neuroscience and shall be designed to further the treatment and prevention of mental illness, the promotion of mental health, and the study of the psychological, social and legal factors that influence behavior.
 
 #### (c) Collaboration
 
@@ -48,11 +48,15 @@ The Director of the Institute shall collaborate with the Administrator of the Su
 
 (July 1, 1944, ch. 373, title IV, §464R, as added Pub. L. 102–321, title I, §124(a), July 10, 1992, 106 Stat. 364; amended Pub. L. 102–352, §2(a)(5), Aug. 26, 1992, 106 Stat. 938; Pub. L. 109–482, title I, §103(b)(36), Jan. 15, 2007, 120 Stat. 3688.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2007</b>—Subsec. (f). Pub. L. 109–482 struck out subsec. (f) which authorized appropriations and provided that at least 15% of the appropriated amounts were to carry out health services research relating to mental health.
 
 <b>1992</b>—Subsec. (f)(1). Pub. L. 102–352 struck out "other than section 285o–4 of this title" after "this subpart".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

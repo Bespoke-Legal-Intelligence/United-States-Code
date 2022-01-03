@@ -18,7 +18,7 @@ The functions of the Secretary of Commerce and the Federal Trade Commission unde
 
 (1)(A) All personnel, property, records, obligations, and commitments, which are used primarily with respect to any function transferred under the provisions of subsections (a), (b) and (c) of this section shall be transferred to the Commission, except those associated with fire and flammability research in the National Institute of Standards and Technology. The transfer of personnel pursuant to this paragraph shall be without reduction in classification or compensation for one year after such transfer, except that the Chairman of the Commission shall have full authority to assign personnel during such one-year period in order to efficiently carry out functions transferred to the Commission under this section.
 
-(B) Any commissioned officer of the Public Health Service who upon the day before the effective date of this section, is serving as such officer primarily in the performance of functionstransferred by this chapter to the Commission, may, if such officer so elects, acquire competitive status and be transferred to a competitive position in the Commission subject to subparagraph (A) of this paragraph, under the terms prescribed in paragraphs (3) through (8)(A) of section 15(b) of the Clean Air Amendments of 1970.
+(B) Any commissioned officer of the Public Health Service who upon the day before the effective date of this section, is serving as such officer primarily in the performance of functions transferred by this chapter to the Commission, may, if such officer so elects, acquire competitive status and be transferred to a competitive position in the Commission subject to subparagraph (A) of this paragraph, under the terms prescribed in paragraphs (3) through (8)(A) of section 15(b) of the Clean Air Amendments of 1970.
 
 (2) All orders, determinations, rules, regulations, permits, contracts, certificates, licenses, and privileges (A) which have been issued, made, granted, or allowed to become effective in the exercise of functions which are transferred under this section by any department or agency, any functions of which are transferred by this section, and (B) which are in effect at the time this section takes effect, shall continue in effect according to their terms until modified, terminated, superseded, set aside, or repealed by the Commission, by any court of competent jurisdiction, or by operation of law.
 
@@ -31,6 +31,8 @@ The functions of the Secretary of Commerce and the Federal Trade Commission unde
 For purposes of this section, (1) the term "function" includes power and duty, and (2) the transfer of a function, under any provision of law, of an agency or the head of a department shall also be a transfer of all functions under such law which are exercised by any office or officer of such agency, or department.
 
 (Pub. L. 92–573, §30, Oct. 27, 1972, 86 Stat. 1231; Pub. L. 94–284, §§3(f), 16, May 11, 1976, 90 Stat. 504, 510; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 110–314, title II, §237, Aug. 14, 2008, 122 Stat. 3076.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -59,6 +61,8 @@ Paragraphs (3) through (8)(A) of section 15(b) of the Clean Air Amendments of 19
 <b>1976</b>—Subsec. (a). Pub. L. 94–284, §3(f), struck out "of the Administrator of the Environmental Protection Agency and" before "of the Secretary of Health, Education, and Welfare" and substituted "Federal Food, Drug, and Cosmetic Act" for "Acts amended by subsections (b) through (f) of section 7 of the Poison Prevention Act of 1970".
 
 Subsec. (d). Pub. L. 94–284, §16, inserted requirement that the Commission find by a rule, promulgated in accordance with section 553 of title 5, that it is within the public interest to regulate a risk of injury under this chapter which could be eliminated or reduced by action under the enumerated acts.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

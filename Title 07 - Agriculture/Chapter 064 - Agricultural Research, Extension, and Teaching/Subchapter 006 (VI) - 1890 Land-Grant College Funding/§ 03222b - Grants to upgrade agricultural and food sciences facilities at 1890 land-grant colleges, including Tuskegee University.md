@@ -24,7 +24,9 @@ Federal funds provided under this section may not be utilized for the payment of
 
 The Secretary may promulgate such rules and regulations as the Secretary may consider necessary to carry out the provisions of this section.
 
-(Pub. L. 95–113, title XIV, §1447, as added Pub. L. 101–624, title XVI, §1612(b), Nov. 28, 1990, 104 Stat. 3722; amended Pub. L. 104–127, title VIII, §813, Apr. 4, 1996, 110 Stat. 1166; Pub. L. 105–185, title III, §301(a)(9), June 23, 1998, 112 Stat. 562; Pub. L. 107–171, title VII, §7109, May 13, 2002, 116 Stat. 432; Pub. L. 110–234, title VII, §7123, May 22, 2008, 122 Stat. 1222; Pub. L. 110–246, §4(a), title VII,§7123, June 18, 2008, 122 Stat. 1664, 1983; Pub. L. 113–79, title VII, §7112, Feb. 7, 2014, 128 Stat. 874; Pub. L. 115–334, title VII, §7118, Dec. 20, 2018, 132 Stat. 4790.)
+(Pub. L. 95–113, title XIV, §1447, as added Pub. L. 101–624, title XVI, §1612(b), Nov. 28, 1990, 104 Stat. 3722; amended Pub. L. 104–127, title VIII, §813, Apr. 4, 1996, 110 Stat. 1166; Pub. L. 105–185, title III, §301(a)(9), June 23, 1998, 112 Stat. 562; Pub. L. 107–171, title VII, §7109, May 13, 2002, 116 Stat. 432; Pub. L. 110–234, title VII, §7123, May 22, 2008, 122 Stat. 1222; Pub. L. 110–246, §4(a), title VII, §7123, June 18, 2008, 122 Stat. 1664, 1983; Pub. L. 113–79, title VII, §7112, Feb. 7, 2014, 128 Stat. 874; Pub. L. 115–334, title VII, §7118, Dec. 20, 2018, 132 Stat. 4790.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -51,6 +53,8 @@ A prior section 1447 of Pub. L. 95–113, title XIV, Sept. 29, 1977, 91 Stat. 10
 <b>1998</b>—Subsec. (b). Pub. L. 105–185 substituted "through 2002" for "and 1997".
 
 <b>1996</b>—Subsec. (b). Pub. L. 104–127 substituted ", $15,000,000 for each of fiscal years 1996 and 1997" for "$8,000,000 for each of the fiscal years 1991 through 1995".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

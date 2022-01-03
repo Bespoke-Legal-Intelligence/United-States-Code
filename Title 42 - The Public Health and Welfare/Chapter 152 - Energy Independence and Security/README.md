@@ -101,12 +101,13 @@
 
 |  |  |
 | :--- | ---: |
-| [17111\.](Subchapter%20003%20%28III%29%20-%20Energy%20Savings%20in%20Buildings%20and%20Industry/Part%20D%20-%20Industrial%20Energy%20Efficiency/%C2%A7%2017111%20-%20Energy-intensive%20industries%20program.md) | Energy-intensive industries program. |
+| [17111\.](Subchapter%20003%20%28III%29%20-%20Energy%20Savings%20in%20Buildings%20and%20Industry/Part%20D%20-%20Industrial%20Energy%20Efficiency/%C2%A7%2017111%20-%20Future%20of%20industry%20program.md) | Future of industry program. |
 | [17112\.](Subchapter%20003%20%28III%29%20-%20Energy%20Savings%20in%20Buildings%20and%20Industry/Part%20D%20-%20Industrial%20Energy%20Efficiency/%C2%A7%2017112%20-%20Energy%20efficiency%20for%20data%20center%20buildings.md) | Energy efficiency for data center buildings. |
 | [17113\.](Subchapter%20003%20%28III%29%20-%20Energy%20Savings%20in%20Buildings%20and%20Industry/Part%20D%20-%20Industrial%20Energy%20Efficiency/%C2%A7%2017113%20-%20Industrial%20emissions%20reduction%20technology%20development%20program.md) | Industrial emissions reduction technology development program. |
 | [17114\.](Subchapter%20003%20%28III%29%20-%20Energy%20Savings%20in%20Buildings%20and%20Industry/Part%20D%20-%20Industrial%20Energy%20Efficiency/%C2%A7%2017114%20-%20Industrial%20Technology%20Innovation%20Advisory%20Committee.md) | Industrial Technology Innovation Advisory Committee. |
 | [17115\.](Subchapter%20003%20%28III%29%20-%20Energy%20Savings%20in%20Buildings%20and%20Industry/Part%20D%20-%20Industrial%20Energy%20Efficiency/%C2%A7%2017115%20-%20Technical%20assistance%20program%20to%20implement%20industrial%20emissions%20reduction.md) | Technical assistance program to implement industrial emissions reduction. |
 | [17115a.](Subchapter%20003%20%28III%29%20-%20Energy%20Savings%20in%20Buildings%20and%20Industry/Part%20D%20-%20Industrial%20Energy%20Efficiency/%C2%A7%2017115a%20-%20Development%20of%20national%20smart%20manufacturing%20plan.md) | Development of national smart manufacturing plan. |
+| [17116\.](Subchapter%20003%20%28III%29%20-%20Energy%20Savings%20in%20Buildings%20and%20Industry/Part%20D%20-%20Industrial%20Energy%20Efficiency/%C2%A7%2017116%20-%20Industrial%20research%20and%20assessment%20centers.md) | Industrial research and assessment centers. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

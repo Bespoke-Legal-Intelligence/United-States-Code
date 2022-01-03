@@ -4,6 +4,8 @@ Fees shall be charged for all diagnoses in connection with rabies, except those 
 
 (Sept. 21, 1944, ch. 412, title I, §101(e), 58 Stat. 734.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in the following prior Department of Agriculture Appropriation Acts:
@@ -13,6 +15,8 @@ June 28, 1944, ch. 296, 58 Stat. 433.
 July 12, 1943, ch. 215, 57 Stat. 401.
 
 July 22, 1942, ch. 516, 56 Stat. 674.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Authorization of Appropriation
 

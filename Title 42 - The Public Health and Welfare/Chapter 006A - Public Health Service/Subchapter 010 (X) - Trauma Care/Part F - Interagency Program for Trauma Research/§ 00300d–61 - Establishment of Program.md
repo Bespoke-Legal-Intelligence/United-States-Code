@@ -48,7 +48,7 @@ The Program shall include—
 
 #### (e) Mechanisms of support
 
-In carrying out the Program, the Director, acting through the Directors of the agencies referred to in subsection (c)(1), may make grants to public and nonprofit entities, including designated trauma centers.
+In carrying out the Program, the Director, acting through the Directors of the agencies referred to in subsection (c)(1), may make grantsto public and nonprofit entities, including designated trauma centers.
 
 #### (f) Resources
 
@@ -86,13 +86,15 @@ For purposes of this section:
 
 &emsp;&emsp;(B) another extrinsic agent, including an extrinsic agent that is thermal, electrical, chemical, or radioactive.
 
-&emsp;(4) The term "traumatic brain injury" means an acquired injury to the brain. Suchterm does not include brain dysfunction caused by congenital or degenerative disorders, nor birth trauma, but may include brain injuries caused by anoxia due to trauma. The Secretary may revise the definition of such term as the Secretary determines necessary, after consultation with States and other appropriate public or nonprofit private entities.
+&emsp;(4) The term "traumatic brain injury" means an acquired injury to the brain. Such term does not include brain dysfunction caused by congenital or degenerative disorders, nor birth trauma, but may include brain injuries caused by anoxia due to trauma. The Secretary may revise the definition of such term as the Secretary determines necessary, after consultation with States and other appropriate public or nonprofit private entities.
 
 #### (i) Authorization of appropriations
 
 For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005, and such sums as may be necessary for each of the fiscal years 2009 through 2012.
 
 (July 1, 1944, ch. 373, title XII, §1261, as added Pub. L. 103–43, title III, §303(a), June 10, 1993, 107 Stat. 151; amended Pub. L. 104–166, §2, July 29, 1996, 110 Stat. 1445; Pub. L. 106–310, div. A, title XIII, §1303, Oct. 17, 2000, 114 Stat. 1138; Pub. L. 110–206, §5, Apr. 28, 2008, 122 Stat. 716; Pub. L. 113–152, §2(b), Aug. 8, 2014, 128 Stat. 1825.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -121,6 +123,8 @@ Subsec. (i). Pub. L. 106–310, §1303(d), added subsec. (i).
 <b>1996</b>—Subsec. (d)(4). Pub. L. 104–166, §2(1), added par. (4).
 
 Subsec. (h)(4). Pub. L. 104–166, §2(2), added par. (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

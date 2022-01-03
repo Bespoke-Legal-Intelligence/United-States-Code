@@ -60,6 +60,8 @@ This section shall not apply to any country the products of which are eligible f
 
 (Pub. L. 93–618, title IV, §402, Jan. 3, 1975, 88 Stat. 2056; Pub. L. 96–39, title XI, §1106(f)(1), July 26, 1979, 93 Stat. 312; Pub. L. 101–382, title I, §132(a)(1), (2), Aug. 20, 1990, 104 Stat. 643, 644; Pub. L. 105–206, title V, §5003(b)(2)(A), July 22, 1998, 112 Stat. 789.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Tariff Schedules of the United States, referred to in subsec. (e), to be treated as a reference to the Harmonized Tariff Schedule, see Pub. L. 100–418, title I, §1212, Aug. 23, 1988, 102 Stat. 1155, classified to section 3012 of this title. The Harmonized Tariff Schedule is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
@@ -68,7 +70,7 @@ The Tariff Schedules of the United States, referred to in subsec. (e), to be tre
 
 <b>1998</b>—Subsecs. (a), (b). Pub. L. 105–206 substituted "(normal trade relations)" for "(most-favored-nation treatment)".
 
-<b>1990</b>—Subsec. (d)(1). Pub. L. 101–382, §132(a)(1), (2)(A), (B), redesignated par. (5) as (1), and substituted "If thePresident determines that the further extension of the waiver authority granted under subsection (c) will" for "If the waiver authority granted by subsection (c) has been extended under paragraph (3) or (4) for any country for the 12-month period referred to in such paragraphs, and the President determines that the further extension of such authority will" in introductory provisions, substituted ", unless a joint resolution described in section 2193(a) of this title is enacted into law pursuant to the provisions of paragraph (2)." for ", unless before the end of the 60-day period following such previous 12-month extension, either the House of Representatives or the Senate adopts, by an affirmative vote of a majority of the Members present and voting in that House and under the procedures set forth in section 2193 of this title, a resolution disapproving the extension of such authority generally or with respect to such country specifically. Such authority shall cease to be effective with respect to all countries on the date of the adoption by either House before the end of such 60-day period of a resolution disapproving the extension of such authority, and shall cease to be effective with respect to any country on the date of the adoption by either House before the end of such 60-day period of a resolution disapproving the extension of such authority with respect to such country." in concluding provisions, and struck out former par. (1) which read as follows: "If the President determines that the extension of the waiver authority granted by subsection (c)(1) will substantially promote the objectives of this section, he may recommend to the Congress that such authority be extended for a period of 12 months. Any such recommendation shall—
+<b>1990</b>—Subsec. (d)(1). Pub. L. 101–382, §132(a)(1), (2)(A), (B), redesignated par. (5) as (1), and substituted "If the President determines that the further extension of the waiver authority granted under subsection (c) will" for "If the waiver authority granted by subsection (c) has been extended under paragraph (3) or (4) for any country for the 12-month period referred to in such paragraphs, and the President determines that the further extension of such authority will" in introductory provisions, substituted ", unless a joint resolution described in section 2193(a) of this title is enacted into law pursuant to the provisions of paragraph (2)." for ", unless before the end of the 60-day period following such previous 12-month extension, either the House of Representatives or the Senate adopts, by an affirmative vote of a majority of the Members present and voting in that House and under the procedures set forth in section 2193 of this title, a resolution disapproving the extension of such authority generally or with respect to such country specifically. Such authority shall cease to be effective with respect to all countries on the date of the adoption by either House before the end of such 60-day period of a resolution disapproving the extension of such authority, and shall cease to be effective with respect to any country on the date of the adoption by either House before the end of such 60-day period of a resolution disapproving the extension of such authority with respect to such country." in concluding provisions, and struck out former par. (1) which read as follows: "If the President determines that the extension of the waiver authority granted by subsection (c)(1) will substantially promote the objectives of this section, he may recommend to the Congress that such authority be extended for a period of 12 months. Any such recommendation shall—
 
 &emsp;"(A) be made not later than 30 days before the expiration of such authority;
 
@@ -84,13 +86,15 @@ Subsec. (d)(5). Pub. L. 101–382, §132(a)(2)(B), redesignated par. (5) as (1).
 
 <b>1979</b>—Subsec. (c)(1). Pub. L. 96–39 substituted "subsections (a) and (b)" for "subsection (a) and (b)" in provisions preceding subpar. (A).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1990 Amendment
 
 Pub. L. 101–382, title I, §132(d), Aug. 20, 1990, 104 Stat. 647, provided that:
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 2191 to 2194, 2435, and 2437 of this title\] take effect on the date of the enactment of this Act \[Aug. 20, 1990\].
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending thissection and sections 2191 to 2194, 2435, and 2437 of this title\] take effect on the date of the enactment of this Act \[Aug. 20, 1990\].
 
 "(2)
 
@@ -113,6 +117,8 @@ Extension of waiver authority.—
 #### Effective Date of 1979 Amendment
 
 Amendment by Pub. L. 96–39 effective July 26, 1979, see section 1114 of Pub. L. 96–39, set out as an Effective Date note under section 2581 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

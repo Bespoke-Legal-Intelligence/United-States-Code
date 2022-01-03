@@ -2,7 +2,7 @@
 
 #### (a) Registration statement; contents
 
-In registering under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], any security of which it is the issuer, a registered investment company, in lieu of furnishing a registration statement containing the information and documents specified in schedule A of said Act \[15 U.S.C. 77aa\], may file a registration statement containing the following information and documents:
+In registering under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], any security of which itis the issuer, a registered investment company, in lieu of furnishing a registration statement containing the information and documents specified in schedule A of said Act \[15 U.S.C. 77aa\], may file a registration statement containing the following information and documents:
 
 &emsp;(1) such copies of the registration statement filed by such company under this subchapter, and of such reports filed by such company pursuant to section 80a–29 of this title or such copies of portions of such registration statement and reports, as the Commission shall designate by rules and regulations; and
 
@@ -58,6 +58,8 @@ In addition to any prospectus permitted or required by section 10(a) of the Secu
 
 (Aug. 22, 1940, ch. 686, title I, §24, 54 Stat. 825; Aug. 10, 1954, ch. 667, title IV, §§402, 403, 68 Stat. 689; Pub. L. 91–547, §13, Dec. 14, 1970, 84 Stat. 1423; Pub. L. 100–181, title VI, §617, Dec. 4, 1987, 101 Stat. 1262; Pub. L. 104–290, title II, §§203(a), (b), 204, Oct. 11, 1996, 110 Stat. 3427, 3428.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Securities Act of 1933, referred to in subsecs. (a), (c), and (e), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
@@ -88,6 +90,8 @@ Subsec. (f). Pub. L. 91–547, §13(b), added subsec. (f).
 
 Subsec. (e). Act Aug. 10, 1954, §403, added subsec. (e).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1996 Amendment
 
 Pub. L. 104–290, title II, §203(c), Oct. 11, 1996, 110 Stat. 3428, provided that: "The amendments made by this section \[amending this section\] shall become effective on the earlier of—
@@ -103,6 +107,8 @@ Amendment by Pub. L. 91–547 effective Dec. 14, 1970, see section 30 of Pub. L.
 #### Effective Date of 1954 Amendment
 
 Amendment by act Aug. 10, 1954, effective sixty days after Aug. 10, 1954, see note under section 77b of this title.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

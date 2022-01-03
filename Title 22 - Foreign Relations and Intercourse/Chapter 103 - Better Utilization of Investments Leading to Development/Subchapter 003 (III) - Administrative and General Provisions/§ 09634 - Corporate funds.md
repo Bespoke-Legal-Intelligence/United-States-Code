@@ -78,7 +78,7 @@ Interest earnings made pursuant to subsection (g), earnings collected related to
 
 #### (i) Transfer from predecessor agencies and programs
 
-By the end of the transition period described in subchapter VI of this chapter, the unexpended balances, assets, and responsibilities of any agency specified in the plan required by section 9682 of this title shall be transferred to the Corporation.
+By the end of the transition period described in subchapter VI of this chapter, the unexpended balances, assets, and responsibilities of any agency specified in the plan required by section9682 of this title shall be transferred to the Corporation.
 
 #### (j) Transfer of funds
 

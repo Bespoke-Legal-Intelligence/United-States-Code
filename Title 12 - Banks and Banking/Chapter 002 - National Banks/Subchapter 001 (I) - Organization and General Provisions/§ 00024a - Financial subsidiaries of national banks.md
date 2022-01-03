@@ -90,11 +90,11 @@
 
 #### (I) Board recommendation
 
-&emsp;&emsp;&emsp;&emsp;The Board may, at any time, recommend in writing that the Secretary of the Treasury find an activity to be financial in nature or incidental to a financial activity for purposes of this section.
+&emsp;&emsp;&emsp;&emsp;The Board may, at any time, recommend in writing that the Secretary ofthe Treasury find an activity to be financial in nature or incidental to a financial activity for purposes of this section.
 
 #### (II) Time period for secretarial action
 
-&emsp;&emsp;&emsp;&emsp;Not later than 30 days after the date of receipt of a written recommendation from the Board under subclause (I) (or such longer period as the Secretary of the Treasury and the Board determine to be appropriate under the circumstances),the Secretary shall determine whether to initiate a public rulemaking proposing that the subject recommended activity be found to be financial in nature or incidental to a financial activity under this section, and shall notify the Board in writing of the determination of the Secretary and, in the event that the Secretary determines not to seek public comment on the proposal, the reasons for that determination.
+&emsp;&emsp;&emsp;&emsp;Not later than 30 days after the date of receipt of a written recommendation from the Board under subclause (I) (or such longer period as the Secretary of the Treasury and the Board determine to be appropriate under the circumstances), the Secretary shall determine whether to initiate a public rulemaking proposing that the subject recommended activity be found to be financial in nature or incidental to a financial activity under this section, and shall notify the Board in writing of the determination of the Secretary and, in the event that the Secretary determines not to seek public comment on the proposal, the reasons for that determination.
 
 #### (2) Factors to be considered
 

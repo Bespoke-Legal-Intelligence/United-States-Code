@@ -32,6 +32,8 @@ In determining the period for which a partner has held property received in a di
 
 (Aug. 16, 1954, ch. 763, 68A Stat. 247; Pub. L. 94–455, title XIX, §1901(b)(3)(D), Oct. 4, 1976, 90 Stat. 1792; Pub. L. 98–369, div. A, title I, §74(b), July 18, 1984, 98 Stat. 593; Pub. L. 105–34, title X, §1062(b)(3), Aug. 5, 1997, 111 Stat. 947.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1997</b>—Subsecs. (a)(2), (c)(1). Pub. L. 105–34 substituted "section 751(d)" for "section 751(d)(2)".
@@ -39,6 +41,8 @@ In determining the period for which a partner has held property received in a di
 <b>1984</b>—Subsec. (c). Pub. L. 98–369 added subsec. (c).
 
 <b>1976</b>—Subsec. (a)(1), (2). Pub. L. 94–455 substituted "as ordinary income or as ordinary loss, as the case may be" for "gain or loss from the sale or exchange of property other than a capital asset".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1997 Amendment
 

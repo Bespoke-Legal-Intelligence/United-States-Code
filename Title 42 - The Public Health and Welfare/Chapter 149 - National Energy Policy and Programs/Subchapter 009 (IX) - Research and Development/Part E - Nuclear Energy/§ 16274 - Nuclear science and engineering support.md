@@ -52,7 +52,7 @@
 
 #### (6) Nuclear energy university program
 
-&emsp;In carrying out the programs under this section, the Department shall, to the maximum extent practicable, allocate 20 percent of funds appropriated to nuclear energy research and development programs annually to fund university-led research and university infrastructure projects through an open, competitive solicitation process.
+&emsp;In carrying out the programs under this section, the Department shall, to the maximum extent practicable, allocate 20 percent of funds appropriated to nuclear energy research and development programs annually, excluding funds appropriated for the Advanced Reactor Demonstration Program of the Department, to fund university-led research and university infrastructure projects through an open, competitive solicitation process.
 
 #### (7) Operations and maintenance
 
@@ -80,9 +80,13 @@
 
 &emsp;There are authorized to be appropriated to the Secretary to carry out the subprogram under this subsection $5,000,000 for each of fiscal years 2021 through 2025.
 
-(Pub. L. 109–58, title IX, §954, Aug. 8, 2005, 119 Stat. 886; Pub. L. 115–248, §2(d), Sept. 28, 2018, 132 Stat. 3155; Pub. L. 116–260, div. Z, title II, §2003(c), Dec. 27, 2020, 134 Stat. 2463.)
+(Pub. L. 109–58, title IX, §954, Aug. 8, 2005, 119 Stat. 886; Pub. L. 115–248, §2(d), Sept. 28, 2018, 132 Stat. 3155; Pub. L. 116–260, div. Z, title II, §2003(c), Dec. 27, 2020, 134 Stat. 2463; Pub. L. 117–58, div. D, title X, §41002(b)(2), Nov. 15, 2021, 135 Stat. 1128.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(6). Pub. L. 117–58 inserted ", excluding funds appropriated for the Advanced Reactor Demonstration Program of the Department," after "annually".
 
 <b>2020</b>—Pub. L. 116–260, §2003(c)(1), substituted "Nuclear" for "University nuclear" in section catchline.
 
@@ -108,9 +112,15 @@ Subsec. (e). Pub. L. 116–260, §2003(c)(8), redesignated subsec. (e) as par. (
 
 Pub. L. 116–260, §2003(c)(5), substituted "this subsection" for "this section".
 
-Subsec. (f). Pub. L. 116–260, §2003(c)(8), redesignated susbec. (f) as par. (8). Margins realigned to reflect the probable intent of Congress.
+Subsec. (f). Pub. L. 116–260, §2003(c)(8), redesignated subsec. (f) as par. (8). Margins realigned to reflect the probable intent of Congress.
 
 Pub. L. 116–260, §2003(c)(6), substituted "this subsection" for "this section" and "paragraph (2)(B)" for "subsection (b)(2)".
 
 <b>2018</b>—Subsec. (d)(4). Pub. L. 115–248 substituted "that emphasize" for "as part of a taking into consideration effort that emphasizes".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Wage Rate Requirements
+
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of this title.
 

@@ -74,7 +74,7 @@ Taxes computed as provided in section 11 shall be imposed for each taxable year 
 
 &emsp;&emsp;&emsp;For purposes of this paragraph—
 
-&emsp;&emsp;&emsp;&emsp;(I) in determining whether any company is described in clause (i) of subparagraph (A), such company shall be treated as receiving during the taxable year amounts described in such clause (i) which are received during such year by all other companies which are members of the same controlled group as the insurance company for which the determination is being made, and
+&emsp;&emsp;&emsp;&emsp;(I) in determining whether any company is described in clause (i) of subparagraph (A), such company shall be treatedas receiving during the taxable year amounts described in such clause (i) which are received during such year by all other companies which are members of the same controlled group as the insurance company for which the determination is being made, and
 
 &emsp;&emsp;&emsp;&emsp;(II) in determining the attribution of premiums to any policyholder under subparagraph (B)(i), all policyholders which are related (within the meaning of section 267(b) or 707(b)) or are members of the same controlled group shall be treated as one policyholder.
 
@@ -128,6 +128,8 @@ Every insurance company for which an election is in effect under subsection (b) 
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (b)(2)(B)(i)(II). Pub. L. 115–141, §101(r)(1), substituted "relevant specified assets" for "specified assets".
@@ -166,7 +168,7 @@ Subsecs. (c), (d). Pub. L. 108–218, §206(c), added subsec. (c) and redesignat
 
 Subsec. (b)(3). Pub. L. 100–647, §1010(f)(9), added par. (3).
 
-<b>1986</b>—Pub. L. 99–514 amended section generally, substituting provisions imposing taxes on insurance companies other than life insurance companies, with an alternative tax on certain small companies, for provisions imposing taxes on insurance companies (otherthan life or mutual), mutual marine insurance companies, and certain mutual fire or flood insurance companies, with an election for multiple line companies to be taxed on total income.
+<b>1986</b>—Pub. L. 99–514 amended section generally, substituting provisions imposing taxes on insurance companies other than life insurance companies, with an alternative tax on certain small companies, for provisions imposing taxes on insurance companies (other than life or mutual), mutual marine insurance companies, and certain mutual fire or flood insurance companies, with an election for multiple line companies to be taxed on total income.
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–455, §1901(a)(107), substituted "on the taxable income" for "or the taxable income".
 
@@ -181,6 +183,8 @@ Subsecs. (c), (d). Pub. L. 89–809, §104(i)(6)(B), redesignated subsec. (d) as
 Subsec. (a). Pub. L. 87–834, §8(e)(1), included flood insurance companies, and substituted provisions authorizing imposition of the tax on those companies whose principal business is the issuance of policies for which the premium deposits are the same, regardless of the length of the term for which the policies are written, if the unabsorbed portion of such premium deposits not required for losses, expenses, or establishment of reserves is returned or credited to the policyholder on cancellation or expiration of the policy for provisions which authorized imposition of tax on those companies which issued policies for which the sole premium charged is a single deposit which (except for such deduction of underwriting costs as may be provided) is refundable on cancellation or expiration of the policy.
 
 Subsecs. (c), (d). Pub. L. 87–834, §8(f), added subsec. (c) and redesignated former subsec. (c) as (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 
@@ -228,7 +232,7 @@ Pub. L. 99–514, title X, §1024(d), Oct. 22, 1986, 100 Stat. 2408, as amended 
 
 "(1)
 
-Treatment of amounts in protection against loss account.—In the case of any insurance company which had a protection against loss account for its last taxable year beginning before January 1, 1987, there shall be included in the gross income of such company for any taxable year beginning after December 31, 1986, the amount which would have been included in gross income for such taxable year under section 824 of the Internal Revenue Code of 1954 \[now 1986\] (as in effect on the day before the date of the enactment of this Act \[Oct. 22, 1986\]). For purposes of the preceding sentence, no addition to such account shall be made for any taxable year beginning after December 31, 1986. In the case of a company taxable under section 831(b) of the Internal Revenue Code of 1986 (as amended by subsection (a)), any amount included in gross income under this paragraph shall be treated as gross investment income.
+Treatment of amounts in protection against loss account.—In the case of any insurance company which had a protection against loss account for its last taxable year beginning before January 1, 1987, there shall be included in the gross income of such company for any taxable year beginning after December 31, 1986,the amount which would have been included in gross income for such taxable year under section 824 of the Internal Revenue Code of 1954 \[now 1986\] (as in effect on the day before the date of the enactment of this Act \[Oct. 22, 1986\]). For purposes of the preceding sentence, no addition to such account shall be made for any taxable year beginning after December 31, 1986. In the case of a company taxable under section 831(b) of the Internal Revenue Code of 1986 (as amended by subsection (a)), any amount included in gross income under this paragraph shall be treated as gross investment income.
 
 "(2)
 

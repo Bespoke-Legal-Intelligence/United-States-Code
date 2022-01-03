@@ -20,9 +20,11 @@ Of the sums available to the Secretary for any fiscal year under this chapter an
 
 (1) The Secretary may from time to time make payments to carry out approved wetlands conservation projects as such projects progress, but such payments, including previous payments, if any, shall not be more than the Federal pro rata share of any such project in conformity with subsection (b) of this section.
 
-(2) The Secretary may enter into agreements to make payments on an initial portion of an approved wetlands conservation project and to agree to make payments on the remaining Federal share of the costs of such project from subsequent allocations if and when they become available. The liability of the United Statesunder such an agreement is contingent upon the continued availability of funds for the purposes of this chapter.
+(2) The Secretary may enter into agreements to make payments on an initial portion of an approved wetlands conservation project and to agree to make payments on the remaining Federal share of the costs of such project from subsequent allocations if and when they become available. The liability of the United States under such an agreement is contingent upon the continued availability of funds for the purposes of this chapter.
 
 (Pub. L. 101–233, §8, Dec. 13, 1989, 103 Stat. 1975; Pub. L. 103–375, §2(a), Oct. 19, 1994, 108 Stat. 3494; Pub. L. 107–308, §§6, 7, Dec. 2, 2002, 116 Stat. 2447; Pub. L. 111–149, §1(a), Mar. 25, 2010, 124 Stat. 1025.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -35,6 +37,8 @@ Subsec. (a)(2). Pub. L. 107–308, §6(2), substituted "(but at least 40 percent
 Subsec. (b). Pub. L. 107–308, §7, substituted heading for former heading, substituted pars. (1) and (2) for first sentence which read as follows: "The Federal moneys allocated under subsection (a) of this section for any fiscal year to carry out approved wetlands conservation projects shall be used for the payment of not to exceed 50 per centum of the total United States contribution to the costs of such projects, or may be used for payment of 100 per centum of the costs of such projects located on Federal lands and waters, including the acquisition of inholdings within such lands and waters.", and designated second and third sentences as par. (3).
 
 <b>1994</b>—Subsec. (b). Pub. L. 103–375 inserted at end "In the case of a project carried out in Mexico, the non-Federal share of the United States contribution to the costs of the project may include cash contributions from non-United States sources that are used to pay costs of the project."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

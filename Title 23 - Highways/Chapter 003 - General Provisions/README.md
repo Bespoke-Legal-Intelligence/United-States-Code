@@ -26,18 +26,22 @@
 | [322\.](%C2%A7%2000322%20-%20Magnetic%20levitation%20transportation%20technology%20deployment%20program.md) | Magnetic levitation transportation technology deployment program. |
 | [323\.](%C2%A7%2000323%20-%20Donations%20and%20credits.md) | Donations and credits. |
 | [324\.](%C2%A7%2000324%20-%20Prohibition%20of%20discrimination%20on%20the%20basis%20of%20sex.md) | Prohibition of discrimination on the basis of sex. |
-| [325\.](%C2%A7%2000325%20-%20State%20assumption%20of%20responsibilities%20for%20certain%20programs%20and%20projects.md) | State assumption of responsibilities for certain programs and projects. |
+| \[325. | Repealed.\] |
 | [326\.](%C2%A7%2000326%20-%20State%20assumption%20of%20responsibility%20for%20categorical%20exclusions.md) | State assumption of responsibility for categorical exclusions. |
 | [327\.](%C2%A7%2000327%20-%20Surface%20transportation%20project%20delivery%20program.md) | Surface transportation project delivery program. |
 | [328\.](%C2%A7%2000328%20-%20Eligibility%20for%20environmental%20restoration%20and%20pollution%20abatement.md) | Eligibility for environmental restoration and pollution abatement. |
 | [329\.](%C2%A7%2000329%20-%20Eligibility%20for%20control%20of%20noxious%20weeds%20and%20aquatic%20noxious%20weeds%20and%20establishment%20of%20native%20species.md) | Eligibility for control of noxious weeds and aquatic noxious weeds and establishment of native species. |
 | [330\.](%C2%A7%2000330%20-%20Program%20for%20eliminating%20duplication%20of%20environmental%20reviews.md) | Program for eliminating duplication of environmental reviews. |
+| [331\.](%C2%A7%2000331%20-%20Evaluation%20of%20projects%20within%20an%20operational%20right-of-way.md) | Evaluation of projects within an operational right-of-way. |
+| [332\.](%C2%A7%2000332%20-%20Pollinator-friendly%20practices%20on%20roadsides%20and%20highway%20rights-of-way.md) | Pollinator-friendly practices on roadsides and highway rights-of-way. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Pub. L. 117–58, div. A, title I, §§11309(b), 11525(t), 11528(b), Nov. 15, 2021, 135 Stat. 536, 608, 612, added items 331 and 332 and struck out item 325 "State assumption of responsibilities for certain programs and projects".
 
 <b>2015</b>—Pub. L. 114–94, div. A, title I, §1309(d), Dec. 4, 2015, 129 Stat. 1397, added item 330.
 
@@ -92,9 +96,11 @@ Pub. L. 112–141, div. A, title I, §1313(i), July 6, 2012, 126 Stat. 547, whic
 - [&sect; 00322 - Magnetic levitation transportation technology deployment program](%C2%A7%2000322%20-%20Magnetic%20levitation%20transportation%20technology%20deployment%20program.md)
 - [&sect; 00323 - Donations and credits](%C2%A7%2000323%20-%20Donations%20and%20credits.md)
 - [&sect; 00324 - Prohibition of discrimination on the basis of sex](%C2%A7%2000324%20-%20Prohibition%20of%20discrimination%20on%20the%20basis%20of%20sex.md)
-- [&sect; 00325 - State assumption of responsibilities for certain programs and projects](%C2%A7%2000325%20-%20State%20assumption%20of%20responsibilities%20for%20certain%20programs%20and%20projects.md)
+- [&sect; 00325 - Repealed. Pub. L. 117&#8211;58, div. A, title I, &sect;11525(r), Nov. 15, 2021, 135 Stat. 608](%C2%A7%2000325%20-%20Repealed.%20Pub.%20L.%20117%E2%80%9358%2C%20div.%20A%2C%20title%20I%2C%20%C2%A711525%28r%29%2C%20Nov.%2015%2C%202021%2C%20135%20Stat.%20608.md)
 - [&sect; 00326 - State assumption of responsibility for categorical exclusions](%C2%A7%2000326%20-%20State%20assumption%20of%20responsibility%20for%20categorical%20exclusions.md)
 - [&sect; 00327 - Surface transportation project delivery program](%C2%A7%2000327%20-%20Surface%20transportation%20project%20delivery%20program.md)
 - [&sect; 00328 - Eligibility for environmental restoration and pollution abatement](%C2%A7%2000328%20-%20Eligibility%20for%20environmental%20restoration%20and%20pollution%20abatement.md)
 - [&sect; 00329 - Eligibility for control of noxious weeds and aquatic noxious weeds and establishment of native species](%C2%A7%2000329%20-%20Eligibility%20for%20control%20of%20noxious%20weeds%20and%20aquatic%20noxious%20weeds%20and%20establishment%20of%20native%20species.md)
 - [&sect; 00330 - Program for eliminating duplication of environmental reviews](%C2%A7%2000330%20-%20Program%20for%20eliminating%20duplication%20of%20environmental%20reviews.md)
+- [&sect; 00331 - Evaluation of projects within an operational right-of-way](%C2%A7%2000331%20-%20Evaluation%20of%20projects%20within%20an%20operational%20right-of-way.md)
+- [&sect; 00332 - Pollinator-friendly practices on roadsides and highway rights-of-way](%C2%A7%2000332%20-%20Pollinator-friendly%20practices%20on%20roadsides%20and%20highway%20rights-of-way.md)

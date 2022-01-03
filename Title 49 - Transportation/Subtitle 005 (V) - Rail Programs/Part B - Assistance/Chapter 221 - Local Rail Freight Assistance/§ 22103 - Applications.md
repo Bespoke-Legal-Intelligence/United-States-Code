@@ -46,9 +46,13 @@ In subsection (b)(3), the words "established by the Secretary" are omitted as su
 
 In subsection (b)(5), the words "applying for assistance" are omitted as unnecessary because of the restatement.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1995</b>—Subsec. (b)(1). Pub. L. 104–88 substituted "Surface Transportation Board" for "Interstate Commerce Commission".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1995 Amendment
 

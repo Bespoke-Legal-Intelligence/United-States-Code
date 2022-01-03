@@ -42,9 +42,9 @@ Programs that receive assistance under this division may carry out activities th
 
 &emsp;&emsp;(D) private nonprofit organizations that primarily focus on social service such as community action agencies;
 
-&emsp;&emsp;(E) activities that focus on the rehabilitation or improvement of public facilities, neighborhood improvements, literacy training that benefits educationally disadvantaged individuals, weatherization of and basic repairs to low-income housing including housing occupied by older adults, energy conservation (including solar energy techniques), removal of architectural barriers to access by individuals with disabilities to public facilities, activities that focus on drug and alcohol abuse education, prevention and treatment, and conservation, maintenance, or restoration of natural resources on publicly held lands; and
+&emsp;&emsp;(E) activities that focus on the rehabilitation or improvement of public facilities,neighborhood improvements, literacy training that benefits educationally disadvantaged individuals, weatherization of and basic repairs to low-income housing including housing occupied by older adults, energy conservation (including solar energy techniques), removal of architectural barriers to access by individuals with disabilities to public facilities, activities that focus on drug and alcohol abuse education, prevention and treatment, and conservation, maintenance, or restoration of natural resources on publicly held lands; and
 
-&emsp;&emsp;(F) any other nonpartisan civic activities and services that the Corporation determines to be of a substantial social benefit inmeeting unmet human, educational, or environmental needs (particularly needs related to poverty) or in the community where volunteer service is to be performed; or
+&emsp;&emsp;(F) any other nonpartisan civic activities and services that the Corporation determines to be of a substantial social benefit in meeting unmet human, educational, or environmental needs (particularly needs related to poverty) or in the community where volunteer service is to be performed; or
 
 &emsp;(3) encompass the focuses and services described in both paragraphs (1) and (2).
 
@@ -53,6 +53,8 @@ Programs that receive assistance under this division may carry out activities th
 No participant shall perform any specific activity for more than a 6-month period. No participant shall remain enrolled in programs assisted under this division for more than 24 months.
 
 (Pub. L. 101–610, title I, §199D, formerly §124, Nov. 16, 1990, 104 Stat. 3143; Pub. L. 102–10, §5(4), Mar. 12, 1991, 105 Stat. 30; renumbered §199D and amended Pub. L. 103–82, title I, §101(a), (e)(1), (5), Sept. 21, 1993, 107 Stat. 788, 815, 816.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -67,6 +69,8 @@ Subsecs. (b), (c). Pub. L. 103–82, §101(e)(5), redesignated subsec. (c) as (b
 <b>1991</b>—Subsec. (a)(2). Pub. L. 102–10, §5(4)(A), substituted "youth service" for "human services" in introductory provisions.
 
 Subsec. (c). Pub. L. 102–10, §5(4)(B), substituted "any specific activity for more than a 6-month period. No participant shall remain enrolled in programs" for "services in any project for more than a 6-month period. No participant shall remain enrolled in projects".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1993 Amendment
 

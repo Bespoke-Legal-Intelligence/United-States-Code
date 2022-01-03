@@ -20,7 +20,7 @@ A person, other than a lobbying firm, who is required to account and does accoun
 
 &emsp;(2) for all other purposes consider as lobbying contacts and lobbying activities only—
 
-&emsp;&emsp;(A) lobbying contacts with covered legislative branch officials (as defined in section1602(4) of this title) and lobbying activities in support of such contacts; and
+&emsp;&emsp;(A) lobbying contacts with covered legislative branch officials (as defined in section 1602(4) of this title) and lobbying activities in support of such contacts; and
 
 &emsp;&emsp;(B) lobbying of Federal executive branch officials to the extent that amounts paid or costs incurred in connection with such activities are not deductible pursuant to section 162(e) of title 26.
 

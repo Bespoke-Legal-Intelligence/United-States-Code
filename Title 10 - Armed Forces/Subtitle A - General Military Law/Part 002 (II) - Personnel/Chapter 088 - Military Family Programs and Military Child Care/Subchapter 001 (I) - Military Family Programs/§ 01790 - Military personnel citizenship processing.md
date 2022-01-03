@@ -4,6 +4,8 @@ Using funds provided for operation and maintenance and notwithstanding section 2
 
 (Added Pub. L. 112–74, div. A, title VIII, §8070(a), Dec. 23, 2011, 125 Stat. 822; amended Pub. L. 112–239, div. A, title X, §1076(f)(22), Jan. 2, 2013, 126 Stat. 1953.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2013</b>—Pub. L. 112–239, in section catchline, substituted "Military personnel citizenship processing" for "MILITARY PERSONNEL CITIZENSHIP PROCESSING", and in text, struck out "

@@ -10,7 +10,7 @@
 
 (2) The Office of Personnel Management shall determine, in accordance with procedures which the Office shall by regulation prescribe, the level in which each administrative-law-judge position shall be placed and the qualifications to be required for appointment to each level.
 
-(3)(A) Upon appointment to a position in AL–3, an administrative law judge shall be paid at rate A of AL–3, and shall be advanced successively to rates B, C, and D of that level at the beginning of the next pay period following completion of 52 weeks of service in the next lower rate, and to rates E and F of that level at the beginning of the next pay period following completion of 104 weeks of service in the next lower rate.
+(3)(A) Upon appointment to a position in AL–3, an administrative law judge shall be paid at rateA of AL–3, and shall be advanced successively to rates B, C, and D of that level at the beginning of the next pay period following completion of 52 weeks of service in the next lower rate, and to rates E and F of that level at the beginning of the next pay period following completion of 104 weeks of service in the next lower rate.
 
 (B) The Office of Personnel Management may provide for appointment of an administrative law judge in AL–3 at an advanced rate under such circumstances as the Office may determine appropriate.
 

@@ -42,13 +42,13 @@ The Administrator, in consultation with the Secretary of the Interior, shall con
 
 &emsp;(6) potential for use of discarded material as a secondary source of the mine product.
 
-> In furtherance of this study, the Administrator shall, as he deems appropriate, review studiesand other actions of other Federal agencies concerning such wastes with a view toward avoiding duplication of effort and the need to expedite such study. Not later than thirty-six months after October 21, 1980, the Administrator shall publish a report of such study and shall include appropriate findings and recommendations for Federal and non-Federal actions concerning such effects. Such report shall be submitted to the Committee on Environment and Public Works of the United States Senate and the Committee on Energy and Commerce of the United States House of Representatives.
+> In furtherance of this study, the Administrator shall, as he deems appropriate, review studies and other actions of other Federal agencies concerning such wastes with a view toward avoiding duplication of effort and the need to expedite such study. Not later than thirty-six months after October 21, 1980, the Administrator shall publish a report of such study and shall include appropriate findings and recommendations for Federal and non-Federal actions concerning such effects. Such report shall be submitted to the Committee on Environment and Public Works of the United States Senate and the Committee on Energy and Commerce of the United States House of Representatives.
 
 #### (g) Sludge
 
 The Administrator shall undertake a comprehensive study and publish a report on sludge. Such study shall include an analysis of—
 
-&emsp;(1) what types of solid waste (including but not limited to sewage and pollution treatment residues and other residues from industrial operations such as extraction of oil from shale, liquefaction and gasification of coal and coal slurry pipeline operations) shall be classified as sludge;
+&emsp;(1) what types of solid waste (including but not limited to sewage and pollution treatment residues and other residues from industrial operations such as extraction of oil from shale,liquefaction and gasification of coal and coal slurry pipeline operations) shall be classified as sludge;
 
 &emsp;(2) the effects of air and water pollution legislation on the creation of large volumes of sludge;
 
@@ -106,11 +106,11 @@ The Administrator shall undertake a comprehensive study and analysis of and publ
 
 #### (l) Completion of research and studies
 
-The Administrator shall complete the research and studies, and submit the reports, required under subsections (b), (c), (d), (e), (f), (g), and (k) not later than October 1, 1978. The Administrator shall complete the research andstudies, and submit the reports, required under subsections (a), (h), and (i) not later than October 1, 1979. Upon completion, each study specified in subsections (a) through (k) of this section, the Administrator shall prepare a plan for research, development, and demonstration respecting the findings of the study and shall submit any legislative recommendations resulting from such study to appropriate committees of Congress.
+The Administrator shall complete the research and studies, and submit the reports, required under subsections (b), (c), (d), (e), (f), (g), and (k) not later than October 1, 1978. The Administrator shall complete the research and studies, and submit the reports, required under subsections (a), (h), and (i) not later than October 1, 1979. Upon completion, each study specified in subsections (a) through (k) of this section, the Administrator shall prepare a plan for research, development, and demonstration respecting the findings of the study and shall submit any legislative recommendations resulting from such study to appropriate committees of Congress.
 
 #### (m) Drilling fluids, produced waters, and other wastes associated with the exploration, development, or production of crude oil or natural gas or geothermal energy
 
-(1) The Administrator shall conduct a detailed and comprehensive study and submit a report on the adverse effects, if any, of drilling fluids, produced waters, and other wastes associated with the exploration, development, or production of crude oil or natural gas or geothermal energy on human health and the environment, including, but not limited to, the effects of such wastes on humans, water, air, health, welfare, and natural resources and on the adequacy of means and measures currently employed by the oil and gas and geothermal drilling and production industry, Government agencies, and others to dispose of and utilize such wastes and to prevent or substantially mitigate such adverse effects. Such study shall include an analysis of—
+(1) The Administrator shall conduct a detailed and comprehensive study and submit a report on the adverse effects, if any, of drilling fluids, produced waters, and other wastes associated with the exploration, development, or production of crude oil or natural gas or geothermal energy on human health and the environment, including, but not limited to, the effects of such wastes on humans, water, air, health, welfare, and naturalresources and on the adequacy of means and measures currently employed by the oil and gas and geothermal drilling and production industry, Government agencies, and others to dispose of and utilize such wastes and to prevent or substantially mitigate such adverse effects. Such study shall include an analysis of—
 
 &emsp;(A) the sources and volume of discarded material generated per year from such wastes;
 
@@ -174,11 +174,11 @@ The Administrator shall conduct a detailed and comprehensive study of the advers
 
 &emsp;(8) the current and potential utilization of such materials.
 
-> In furtherance of this study, the Administrator shall, as he deems appropriate, review studies and other actions of other Federal and Stateagencies concerning such waste or materials and invite participation by other concerned parties, including industry and other Federal and State agencies, with a view toward avoiding duplication of effort. The Administrator shall publish a report of such study, which shall include appropriate findings, not later than thirty-six months after October 21, 1980. Such report shall be submitted to the Committee on Environment and Public Works of the United States Senate and the Committee on Energy and Commerce of the United States House of Representatives.
+> In furtherance of this study, the Administrator shall, as he deems appropriate, review studies and other actions of other Federal and State agencies concerning such waste or materials and invite participation by other concerned parties, including industry and other Federal and State agencies, with a view toward avoiding duplication of effort. The Administrator shall publish a report of such study, which shall include appropriate findings, not later than thirty-six months after October 21, 1980. Such report shall be submitted to the Committee on Environment and Public Works of the United States Senate and the Committee on Energy and Commerce of the United States House of Representatives.
 
 #### (p) Materials generated from extraction, beneficiation, and processing of ores and minerals, including phosphate rock and overburden from uranium mining
 
-The Administrator shall conduct a detailed and comprehensive study on the adverse effects on human health and the environment, if any, of the disposal and utilization of solid waste from the extraction, beneficiation, and processing of ores and minerals, including phosphate rock and overburden from uranium mining. Such study shall be conducted in conjunction with the study of mining wastes required by subsection (f) of this section and shall include an analysis of—
+The Administrator shall conduct a detailed and comprehensive study on the adverse effects on human health and the environment, if any, of the disposal and utilization of solid waste from the extraction, beneficiation, and processing of ores and minerals, including phosphate rock and overburden from uranium mining. Such study shall be conducted in conjunction with thestudy of mining wastes required by subsection (f) of this section and shall include an analysis of—
 
 &emsp;(1) the source and volumes of such materials generated per year;
 
@@ -228,6 +228,8 @@ The Administrator shall conduct detailed, comprehensive studies of methods to ex
 
 (Pub. L. 89–272, title II, §8002, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2831; amended Pub. L. 95–609, §7(t), Nov. 8, 1978, 92 Stat. 3083; H. Res. 549, Mar. 25, 1980; Pub. L. 96–482, §29, Oct. 21, 1980, 94 Stat. 2349; Pub. L. 98–616, title II, §224(c), title VII, §702, Nov. 8, 1984, 98 Stat. 3253, 3289.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Subsec. (r). Pub. L. 98–616, §224(c), added subsec. (r).
@@ -248,9 +250,13 @@ Subsec. (j)(3). Pub. L. 95–609, §7(t)(4), substituted "paragraph (1)" for "pa
 
 Subsec. (l). Pub. L. 95–609, §7(t)(5), struck out requirement of submission of reports under subsec. (j) of this section.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on Interstate and Foreign Commerce of the House of Representatives changed to Committee on Energy and Commerce immediately prior to noon on Jan. 3, 1981, by House Resolution No. 549, Ninety-sixth Congress, Mar. 25, 1980. Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

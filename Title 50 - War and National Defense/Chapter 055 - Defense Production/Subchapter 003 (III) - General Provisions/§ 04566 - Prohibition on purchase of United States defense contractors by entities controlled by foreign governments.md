@@ -46,6 +46,8 @@ In this section:
 
 (Pub. L. 102–484, div. A, title VIII, §835, Oct. 23, 1992, 106 Stat. 2461.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 2170a of the former Appendix to this title prior to editorial reclassification and renumbering as this section.

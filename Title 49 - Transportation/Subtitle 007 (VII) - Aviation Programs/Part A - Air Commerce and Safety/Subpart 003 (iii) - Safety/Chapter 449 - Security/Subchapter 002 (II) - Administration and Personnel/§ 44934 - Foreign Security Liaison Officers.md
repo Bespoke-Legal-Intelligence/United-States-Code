@@ -48,6 +48,8 @@ In subsection (b), before clause (1), the words "to the office of" are omitted a
 
 In subsection (c), the words "duties and powers" are substituted for "authorities" for clarity and consistency in the revised title and with other titles of the Code.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–254, §1991(d)(25)(A), substituted "Administrator of the Transportation Security Administration" for "Under Secretary of Transportation for Security", "airports. In coordination with the Secretary of State" for "airports. In coordination with the Secretary", "The Secretary of State shall give high priority" for "The Secretary shall give high priority", and, wherever appearing, "Administrator" for "Under Secretary".

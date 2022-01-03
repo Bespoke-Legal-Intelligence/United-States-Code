@@ -2,7 +2,7 @@
 
 #### (a) Priorities, terms, availability, etc.
 
-(1) Priority for financial assistance under this subchapter, and the most favorable financialterms available, shall be provided to a person for any biomass energy project that—
+(1) Priority for financial assistance under this subchapter, and the most favorable financial terms available, shall be provided to a person for any biomass energy project that—
 
 &emsp;(A) uses a primary fuel other than petroleum or natural gas in the production of biomass fuel, such as geothermal energy resources, solar energy resources, or waste heat; or
 
@@ -79,6 +79,8 @@ Subject to the conditions of any contract for financial assistance, such contrac
 All amounts received by the Secretary of Agriculture or the Secretary of Energy as fees, interest, repayment of principal, and any other moneys received by either Secretary from activities under this subchapter shall be deposited in the Treasury of the United States as miscellaneous receipts. The preceding sentence shall not apply to insured loans made under section 8813 of this title.
 
 (Pub. L. 96–294, title II, §217, June 30, 1980, 94 Stat. 693.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

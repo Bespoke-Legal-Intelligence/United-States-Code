@@ -116,7 +116,7 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 #### Effective Date of 1998 Amendment
 
-Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L.105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of this title.
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of this title.
 
 #### Effective Date of 1991 Amendment
 
@@ -236,7 +236,7 @@ Exception.—With respect to eligible funds described in paragraph (1)—
 
 "(g)
 
-Report.—Not later than 1 year after the date of enactment of this Act \[Aug. 10, 2005\], and annually thereafter, the Secretary \[of Transportation\] shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report describing any action taken by the Secretary under this section.
+Report.—Not later than 1 year after the date of enactment of this Act \[Aug. 10, 2005\], and annuallythereafter, the Secretary \[of Transportation\] shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report describing any action taken by the Secretary under this section.
 
 "(h)
 

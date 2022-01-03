@@ -8,7 +8,7 @@ In order to encourage and expedite the acquisition of real property by agreement
 
 (3) Before the initiation of negotiations for real property, the head of the Federal agency concerned shall establish an amount which he believes to be just compensation therefor and shall make a prompt offer to acquire the property for the full amount so established. In no event shall such amount be less than the agency's approved appraisal of the fair market value of such property. Any decrease or increase in the fair market value of real property prior to the date of valuation caused by the public improvement for which such property is acquired, or by the likelihood that the property would be acquired for such improvement, other than that due to physical deterioration within the reasonable control of the owner, will be disregarded in determining the compensation for the property. The head of the Federal agency concerned shall provide the owner of real property to be acquired with a written statement of, and summary of the basis for, the amount he established as just compensation. Where appropriate the just compensation for the real property acquired and for damages to remaining real property shall be separately stated.
 
-(4) No owner shall be required to surrender possession of real property before the head of the Federal agency concerned pays the agreed purchase price, or deposits with the court in accordance with section 3114(a) to (d) of title 40, for the benefit of the owner, an amount not less than the agency's approved appraisal of the fair market value of such property, or the amount of the award of compensation in the condemnation proceeding for such property.
+(4) No owner shall be required to surrender possession of real property before the head ofthe Federal agency concerned pays the agreed purchase price, or deposits with the court in accordance with section 3114(a) to (d) of title 40, for the benefit of the owner, an amount not less than the agency's approved appraisal of the fair market value of such property, or the amount of the award of compensation in the condemnation proceeding for such property.
 
 (5) The construction or development of a public improvement shall be so scheduled that, to the greatest extent practicable, no person lawfully occupying real property shall be required to move from a dwelling (assuming a replacement dwelling as required by subchapter II will be available), or to move his business or farm operation, without at least ninety days' written notice from the head of the Federal agency concerned, of the date by which such move is required.
 
@@ -23,6 +23,8 @@ In order to encourage and expedite the acquisition of real property by agreement
 (10) A person whose real property is being acquired in accordance with this subchapter may, after the person has been fully informed of his right to receive just compensation for such property, donate such property, and part thereof, any interest therein, or any compensation paid therefor to a Federal agency, as such person shall determine.
 
 (Pub. L. 91–646, title III, §301, Jan. 2, 1971, 84 Stat. 1904; Pub. L. 100–17, title IV, §416, Apr. 2, 1987, 101 Stat. 255.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -43,6 +45,8 @@ In par. (4), "section 3114(a) to (d) of title 40" substituted for "section 1 of 
 Par. (9). Pub. L. 100–17, §416(b), amended par. (9) generally. Prior to amendment, par. (9) read as follows: "If the acquisition of only part of a property would leave its owner with an uneconomic remnant, the head of the Federal agency concerned shall offer to acquire the entire property."
 
 Par. (10). Pub. L. 100–17, §416(c), added par. (10).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1987 Amendment
 

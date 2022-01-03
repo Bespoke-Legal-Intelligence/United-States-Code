@@ -22,7 +22,7 @@ For purposes of this subchapter, the following definitions apply:
 
 &emsp;&emsp;(E) the use, sale, or transfer of any energy and water incentive, rebate, grid services revenue, or credit (including a renewable energy certificate); and
 
-&emsp;&emsp;(F) any revenue generated from a reduction in energy or water use, more efficient waste recycling, or additional energy generated from more efficient equipment.
+&emsp;&emsp;(F) any revenue generated from a reduction in energy or water use, more efficientwaste recycling, or additional energy generated from more efficient equipment.
 
 &emsp;(3) The terms "energy savings contract" and "energy savings performance contract" mean a contract that provides for the performance of services for the design, acquisition, installation, testing, and, where appropriate, operation, maintenance, and repair, of an identified energy or water conservation measure or series of measures at 1 or more locations. Such contracts shall, with respect to an agency facility that is a public building (as such term is defined in section 3301 of title 40), be in compliance with the prospectus requirements and procedures of section 3307 of title 40.
 
@@ -33,6 +33,8 @@ For purposes of this subchapter, the following definitions apply:
 &emsp;&emsp;(B) a water conservation measure that improves the efficiency of water use, is life-cycle cost-effective, and involves water conservation, water recycling or reuse, more efficient treatment of wastewater or stormwater, improvements in operation or maintenance efficiencies, retrofit activities, or other related activities, not at a Federal hydroelectric facility.
 
 (Pub. L. 95–619, title VIII, §804, as added Pub. L. 99–272, title VII, §7201(a), Apr. 7, 1986, 100 Stat. 143; amended Pub. L. 102–486, title I, §155(b), Oct. 24, 1992, 106 Stat. 2855; Pub. L. 105–388, §4(b), Nov. 13, 1998, 112 Stat. 3477; Pub. L. 108–375, div. A, title X, §1090(c)–(e), Oct. 28, 2004, 118 Stat. 2067; Pub. L. 110–140, title V, §515, Dec. 19, 2007, 121 Stat. 1659; Pub. L. 116–260, div. Z, title I, §1002(f), Dec. 27, 2020, 134 Stat. 2423.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -46,7 +48,7 @@ Par. (2)(E), (F). Pub. L. 116–260, §1002(f)(2)–(4), added subpars. (E) and 
 
 &emsp;"(A) the lease or purchase of operating equipment, improvements, altered operation and maintenance, or technical services; or
 
-&emsp;"(B) the increased efficient use of existing energy sources by cogeneration or heat recovery, excluding any cogeneration process for other than a federallyowned building or buildings or other federally owned facilities."
+&emsp;"(B) the increased efficient use of existing energy sources by cogeneration or heat recovery, excluding any cogeneration process for other than a federally owned building or buildings or other federally owned facilities."
 
 Par. (3). Pub. L. 108–375, §1090(d), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "The terms 'energy savings contract' and 'energy savings performance contract' mean a contract which provides for the performance of services for the design, acquisition, installation, testing, operation, and, where appropriate, maintenance and repair, of an identified energy conservation measure or series of measures at one or more locations. Such contracts—
 
@@ -65,6 +67,8 @@ Par. (1). Pub. L. 102–486, §155(b)(2), substituted "The" for "the" and a peri
 Par. (2). Pub. L. 102–486, §155(b)(3), substituted "The term" for "the term".
 
 Pars. (3), (4). Pub. L. 102–486, §155(b)(4), added pars. (3) and (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

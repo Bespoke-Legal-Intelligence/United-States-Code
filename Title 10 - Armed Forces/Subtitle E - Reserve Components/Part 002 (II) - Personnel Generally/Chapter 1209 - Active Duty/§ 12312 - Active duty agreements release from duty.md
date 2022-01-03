@@ -50,6 +50,8 @@ In subsection (b)(2), the words "because of" are substituted for the words "when
 
 In subsection (b)(5), the words "to accept" are substituted for the words "for the purpose of accepting". The words "of an armed force" are inserted for clarity.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–337, §1662(e)(2), renumbered section 680 of this title as this section.
@@ -61,6 +63,8 @@ Subsecs. (a), (b). Pub. L. 103–337, §1675(c)(8), substituted "12311(a)" for "
 Subsec. (b)(3). Pub. L. 98–525, §533(b), inserted ", separation pay," after "retired pay".
 
 <b>1962</b>—Subsec. (a)(2)(D). Pub. L. 87–509 added cl. (D).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

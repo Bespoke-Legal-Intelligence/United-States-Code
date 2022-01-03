@@ -44,6 +44,8 @@ No person may be held liable for any violation of subsection (a) or (b) of this 
 
 (Pub. L. 90–321, title VI, §606, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1130; amended Pub. L. 104–208, div. A, title II, §§2408(d)(2), 2414, Sept. 30, 1996, 110 Stat. 3009–438, 3009–449.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (a)(1)(B). Pub. L. 104–208, §§2408(d)(2), 2414(1), inserted "and the written summary of the rights of the consumer prepared pursuant to section 1681g(c) of this title" before the semicolon and substituted "and" for "or" at end.
@@ -53,6 +55,8 @@ Subsec. (a)(2). Pub. L. 104–208, §2414(2), added par. (2) and struck out form
 Subsec. (b). Pub. L. 104–208, §2414(3), substituted ", make a complete" for ", shall make a complete".
 
 Subsec. (d). Pub. L. 104–208, §2414(4), added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

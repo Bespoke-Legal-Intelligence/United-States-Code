@@ -10,7 +10,7 @@ Any person against whom a civil penalty is assessed under subsection (a) may obt
 
 #### (c) Recovery of assessed penalties by Attorney General
 
-If any person fails to pay an assessment of a civil penalty after it has become a final andunappealable order, or after the appropriate court has entered final judgment in favor of the Secretary, the Secretary shall refer the matter to the Attorney General of the United States, who shall recover the amount assessed in any appropriate district court of the United States. In such action, the validity and appropriateness of the final order imposing the civil penalty shall not be subject to review.
+If any person fails to pay an assessment of a civil penalty after it has become a final and unappealable order, or after the appropriate court has entered final judgment in favor of the Secretary, the Secretary shall refer the matter to the Attorney General of the United States, who shall recover the amount assessed in any appropriate district court of the United States. In such action, the validity and appropriateness of the final order imposing the civil penalty shall not be subject to review.
 
 #### (d) Compromise, modification, and remission of penalties
 
@@ -65,6 +65,8 @@ The Secretary may compromise, modify, or remit, with or without conditions, any 
 &emsp;In this subsection, the term "permit" means any license, certificate, approval, registration, charter, membership, exemption, or other form of permission issued by the Commission or the Secretary, and includes any quota share or other transferable quota issued by the Secretary.
 
 (Pub. L. 97–176, §8, May 17, 1982, 96 Stat. 80; Pub. L. 109–479, title III, §301(a), (b), Jan. 12, 2007, 120 Stat. 3621, 3622.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

@@ -34,11 +34,15 @@ Notwithstanding the notification requirement described in section 4202(a)(2) of 
 
 (Pub. L. 114–26, title I, §107, June 29, 2015, 129 Stat. 355; Pub. L. 114–113, div. Q, title V, §502, Dec. 18, 2015, 129 Stat. 3127; Pub. L. 114–125, title IX, §916, Feb. 24, 2016, 130 Stat. 279.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Subsec. (c). Pub. L. 114–125 added subsec. (c) relating to proclamation authority and requiring notification to Congress after Feb. 24, 2016.
 
 <b>2015</b>—Subsec. (c). Pub. L. 114–113 added subsec. (c) relating to proclamation authority and requiring notification to Congress after Dec. 18, 2015.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

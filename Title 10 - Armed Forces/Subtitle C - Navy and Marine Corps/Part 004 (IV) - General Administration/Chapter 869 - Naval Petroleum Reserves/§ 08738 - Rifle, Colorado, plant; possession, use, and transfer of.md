@@ -28,6 +28,8 @@ June 4, 1920, ch. 228 (11th par., proviso, of amended 3d and 4th provisos), 41 S
 
 The words "this chapter does not authorize" are substituted for the words "nothing herein contained shall be construed to permit" for brevity.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Act April 5, 1944, referred to in subsec. (a), is act Apr. 5, 1944, ch. 172, 58 Stat. 190, as amended, which is classified generally to chapter 6 (§321 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code see Tables.
@@ -42,7 +44,7 @@ Act April 5, 1944, referred to in subsec. (a), is act Apr. 5, 1944, ch. 172, 58 
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–513, §513(37)(A), substituted provisions relating to authority of the Secretary under the specified statute, for provisions relating to authority of the Administrator of the Energy Research and Development Administration under the specified statute.
 
-Subsec. (b). Pub. L. 96–513, §513(37)(B), substituted provisions relating to authorities of the Secretary, forprovisions relating to authorities of the Administrator of the Energy Research and Development Administration.
+Subsec. (b). Pub. L. 96–513, §513(37)(B), substituted provisions relating to authorities of the Secretary, for provisions relating to authorities of the Administrator of the Energy Research and Development Administration.
 
 Subsec. (c). Pub. L. 96–513, §513(37)(C), substituted "in this chapter" for "herein contained".
 
@@ -53,6 +55,8 @@ Subsec. (b). Pub. L. 94–258 substituted "Administrator of the Energy Research 
 Subsec. (c). Pub. L. 94–258 struck out "of the Navy" after "Secretary".
 
 <b>1962</b>—Pub. L. 87–796 amended section generally by substituting provisions relating to the possession, use, and transfer of the experimental demonstration facility near Rifle, Colorado, for provisions which stated that this chapter does not authorize the development or operation of the naval oil-shale reserves.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

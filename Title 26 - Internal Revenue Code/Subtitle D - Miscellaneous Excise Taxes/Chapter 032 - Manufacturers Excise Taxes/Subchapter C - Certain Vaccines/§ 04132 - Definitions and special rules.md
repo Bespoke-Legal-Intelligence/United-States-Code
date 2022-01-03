@@ -100,6 +100,8 @@ For purposes of this subchapter—
 
 (Added Pub. L. 100–203, title IX, §9201(a), Dec. 22, 1987, 101 Stat. 1330–329; amended Pub. L. 100–647, title II, §2006(a), Nov. 10, 1988, 102 Stat. 3612; Pub. L. 105–34, title IX, §904(b), (c), Aug. 5, 1997, 111 Stat. 873, 874; Pub. L. 105–277, div. C, title XV, §1503(a), div. J, title III, §3002(a), Oct. 21, 1998, 112 Stat. 2681–741, 2681–905; Pub. L. 106–170, title V, §523(a)(1), (b)(1), Dec. 17, 1999, 113 Stat. 1927; Pub. L. 108–357, title VIII, §§889(a), 890(a), Oct. 22, 2004, 118 Stat. 1643, 1644; Pub. L. 109–432, div. A, title IV, §408(a), (b), Dec. 20, 2006, 120 Stat. 2962; Pub. L. 113–15, §1(a), June 25, 2013, 127 Stat. 476.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2013</b>—Subsec. (a)(1)(N). Pub. L. 113–15 inserted "or any other vaccine against seasonal influenza" before period at end.
@@ -144,6 +146,8 @@ Polio vaccine.—The term 'polio vaccine' means any vaccine containing polio vir
 
 <b>1988</b>—Subsec. (c). Pub. L. 100–647 added pars. (1) and (2) and redesignated former pars. (1) and (2) as (3) and (4), respectively.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2013 Amendment
 
 Pub. L. 113–15, §1(b), June 25, 2013, 127 Stat. 476, provided that:
@@ -170,7 +174,7 @@ Sales, etc.—The amendments made by this section \[amending this section\] shal
 
 "(2)
 
-Deliveries.—For purposes of paragraph (1) and section 4131 of the Internal Revenue Code of 1986, in the case of sales on or before the effective date described in such paragraph for which delivery is made after such date, the delivery date shall be considered the sale date."
+Deliveries.—For purposes of paragraph (1) and section 4131 of the Internal Revenue Code of 1986, in the case of sales on or before the effective date described in such paragraph for which delivery is made after suchdate, the delivery date shall be considered the sale date."
 
 #### Effective Date of 2004 Amendment
 

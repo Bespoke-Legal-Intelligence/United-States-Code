@@ -28,7 +28,7 @@ Standard for Approval.—The Board shall approve and authorize a transaction und
 
 (c)
 
-Determination of Completeness of Application.—Within 30 days after the date on which an application is filed under this section, theBoard shall either publish a notice of the application in the Federal Register or reject the application if it is incomplete.
+Determination of Completeness of Application.—Within 30 days after the date on which an application is filed under this section, the Board shall either publish a notice of the application in the Federal Register or reject the application if it is incomplete.
 
 (d)
 
@@ -60,9 +60,13 @@ Supplemental Orders.—When cause exists, the Board may issue appropriate orders
 
 (Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 897.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in sections 11341, 11343, 11344, 11345a, 11348, 11349, and 11351 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
+Provisions similar to those in this section were contained in sections 11341, 11343, 11344, 11345a, 11348, 11349,and 11351 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

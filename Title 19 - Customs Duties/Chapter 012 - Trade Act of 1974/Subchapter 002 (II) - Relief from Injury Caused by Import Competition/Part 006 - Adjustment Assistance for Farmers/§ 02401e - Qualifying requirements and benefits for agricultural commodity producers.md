@@ -46,7 +46,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;An agricultural commodity producer that files an application and meets the requirements under subsection (a)(1) shall be entitled to receive initial technical assistance designed to improve the competitiveness of the production and marketing of the agricultural commodity with respect to which the producer was certified under this part. Such assistance shall include information regarding—
+&emsp;&emsp;An agricultural commodity producer that files an application and meets the requirements under subsection (a)(1) shall be entitled to receive initial technical assistance designed to improve the competitiveness ofthe production and marketing of the agricultural commodity with respect to which the producer was certified under this part. Such assistance shall include information regarding—
 
 &emsp;&emsp;&emsp;(i) improving the yield and marketing of that agricultural commodity; and
 
@@ -134,6 +134,8 @@ An agricultural commodity producer that receives benefits under this part (other
 
 <i>For reversion, beginning on July 1, 2021, to provisions in effect on Jan. 1, 2014, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see Codification and Effective and Termination Dates of 2015 Revival notes below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1308–3a of title 7, referred to in subsec. (a)(2)(A), was amended by Pub. L. 113–79, title I, §1605(a)–(e), Feb. 7, 2014, 128 Stat. 707, 708, and, as so amended, provisions which formerly appeared in subpars. (A) and (B) of subsec. (b)(1) of section 1308–3a were struck out.
@@ -157,6 +159,8 @@ Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination o
 Subsec. (a)(1)(A). Pub. L. 108–429, §2004(a)(9)(A)(ii), made technical amendment to reference in original act which appears in text as reference to this subsection.
 
 Subsec. (b)(2). Pub. L. 108–429, §2004(a)(9)(B), substituted "paragraph (1), except" for "paragraph (1) except".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective and Termination Dates of 2015 Revival
 

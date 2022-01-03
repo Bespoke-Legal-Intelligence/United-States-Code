@@ -2,7 +2,7 @@
 
 (a)
 
-Submission of Report.—As soon as practicable after the end of the corporation's fiscalyear, which may be changed from time to time by the board of governors, the corporation shall submit a report to the Secretary of Defense on the activities of the corporation during such fiscal year, including a complete, itemized report of all receipts and expenditures.
+Submission of Report.—As soon as practicable after the end of the corporation's fiscal year, which may be changed from time to time by the board of governors, the corporation shall submit a report to the Secretary of Defense on the activities of the corporation during such fiscal year, including a complete, itemized report of all receipts and expenditures.
 
 (b)
 
@@ -44,5 +44,5 @@ In subsections (b) and (c), the word "Secretary" is substituted for "Department 
 
 #### Amendments
 
-<b>2007</b>—Subsec. (a). Pub. L. 110–26 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "As soon as practicable after July 1 of each year, the corporation shall submit a report to the Secretary of Defense on the activities of the corporation during the fiscal year ending June 30, including a complete, itemized report of all receipts and expenditures."
+<b>2007</b>—Subsec. (a). Pub. L. 110–26 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "As soon as practicable after July 1 of each year, the corporation shallsubmit a report to the Secretary of Defense on the activities of the corporation during the fiscal year ending June 30, including a complete, itemized report of all receipts and expenditures."
 

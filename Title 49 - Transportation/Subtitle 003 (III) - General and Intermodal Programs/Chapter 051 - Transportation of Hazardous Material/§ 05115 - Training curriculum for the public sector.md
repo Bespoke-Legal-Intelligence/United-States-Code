@@ -14,7 +14,7 @@ Requirements.—The curriculum maintained and updated under subsection (a) of th
 
 &emsp;&emsp;(B) recommended courses and minimum number of hours of instruction necessary for public sector employees to be able to respond safely and efficiently to an accident or incident involving the transportation of hazardous material and to plan those responses; and
 
-&emsp;&emsp;(C) appropriate emergency response training and planning programs for public sectoremployees developed with Federal financial assistance, including programs developed with grants made under section 126(g) of the Superfund Amendments and Reauthorization Act of 1986 (42 U.S.C. 9660a); and
+&emsp;&emsp;(C) appropriate emergency response training and planning programs for public sector employees developed with Federal financial assistance, including programs developed with grants made under section 126(g) of the Superfund Amendments and Reauthorization Act of 1986 (42 U.S.C. 9660a); and
 
 &emsp;(2) may include recommendations on material appropriate for use in a recommended course described in clause (1)(B) of this subsection.
 
@@ -80,6 +80,8 @@ In subsection (d)(1), the word "updates" is substituted for "amendments" for cla
 
 This amends 49:5115(b)(1)(C) to make a cross-reference more precise.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (a). Pub. L. 114–94 inserted ", including online curriculum as appropriate," after "a current curriculum of courses".
@@ -103,6 +105,8 @@ Subsec. (d)(2). Pub. L. 109–59, §7126, substituted "Secretary" for "Secretary
 Pub. L. 109–59, §7113(d)(3), inserted "and distribute" after "publish" and substituted "list of programs and courses maintained and updated under this section and of any programs utilizing such courses" for "list of programs that uses a course developed under this section for training public sector employees to respond to an accident or incident involving the transportation of hazardous material".
 
 <b>1994</b>—Subsec. (b)(1)(C). Pub. L. 103–429 substituted "126(g)" for "126".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

@@ -88,7 +88,7 @@ Notwithstanding any other provision of this chapter, in any proceeding or action
 
 &emsp;&emsp;In assessing damages under subparagraph (A), the court may consider whether—
 
-&emsp;&emsp;&emsp;(i) the defendant has established and implemented, with due care, commerciallyreasonable practices and procedures designed to effectively prevent such violations; or
+&emsp;&emsp;&emsp;(i) the defendant has established and implemented, with due care, commercially reasonable practices and procedures designed to effectively prevent such violations; or
 
 &emsp;&emsp;&emsp;(ii) the violation occurred despite commercially reasonable efforts to maintain compliance the practices and procedures to which reference is made in clause (i).
 
@@ -170,7 +170,7 @@ Notwithstanding any other provision of this chapter, in any proceeding or action
 
 #### (B) Limitation
 
-&emsp;&emsp;For any violation of section 7704 of this title (other than section 7704(a)(1) of thistitle), the amount determined under subparagraph (A) may not exceed $1,000,000.
+&emsp;&emsp;For any violation of section 7704 of this title (other than section 7704(a)(1) of this title), the amount determined under subparagraph (A) may not exceed $1,000,000.
 
 #### (C) Aggravated damages
 
@@ -194,6 +194,8 @@ Notwithstanding any other provision of this chapter, in any proceeding or action
 
 (Pub. L. 108–187, §7, Dec. 16, 2003, 117 Stat. 2711.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 108–187, Dec. 16, 2003, 117 Stat. 2699, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of this title and Tables.
@@ -214,7 +216,9 @@ The Farm Credit Act of 1971, referred to in subsec. (b)(9), is Pub. L. 92–181,
 
 The Communications Act of 1934, referred to in subsec. (b)(10), is act June 19, 1934, ch. 652, 48 Stat. 1064, as amended, which is classified principally to chapter 5 (§151 et seq.) of Title 47, Telecommunications. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
 
-The Federal Trade Commission Act, referred to in subsec. (d), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in subsec. (d), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, asamended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

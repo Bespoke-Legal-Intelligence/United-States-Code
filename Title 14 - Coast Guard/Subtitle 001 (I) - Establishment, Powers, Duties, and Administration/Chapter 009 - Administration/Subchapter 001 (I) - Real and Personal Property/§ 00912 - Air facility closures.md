@@ -48,7 +48,7 @@ Notice to congress.—Prior to closure, cessation of operations, or any signific
 
 &emsp;&emsp;&emsp;(iii) Each member of the House of Representatives who represents a district in which assets of the air facility conduct search and rescue operations.
 
-&emsp;&emsp;&emsp;(iv) Each member of the Senate who represents a State in which assets of the air facility conduct search and rescue operations.
+&emsp;&emsp;&emsp;(iv) Each member of the Senate who represents a State in which assets of the airfacility conduct search and rescue operations.
 
 &emsp;&emsp;&emsp;(v) The Committee on Appropriations of the House of Representatives.
 
@@ -64,7 +64,7 @@ Congressional review.—The Secretary may not close, cease operations, or signif
 
 (b)
 
-Operational Flexibility.—The Secretary may implement any reasonable management efficiencies within the air station and air facilitynetwork, such as modifying the operational posture of units or reallocating resources as necessary to ensure the safety of the maritime public nationwide.
+Operational Flexibility.—The Secretary may implement any reasonable management efficiencies within the air station and air facility network, such as modifying the operational posture of units or reallocating resources as necessary to ensure the safety of the maritime public nationwide.
 
 (Added Pub. L. 114–120, title II, §208(a), Feb. 8, 2016, 130 Stat. 38, §676a; amended Pub. L. 114–328, div. C, title XXXV, §3503(a), Dec. 23, 2016, 130 Stat. 2775; renumbered §912 and amended Pub. L. 115–282, title I, §107(b), title III, §319, Dec. 4, 2018, 132 Stat. 4205, 4252.)
 

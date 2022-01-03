@@ -14,7 +14,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Compacts or funding agreements negotiated between the Secretary and an Indiantribe shall include a provision authorizing the Secretary to reassume operation of a program, service, function, or activity (or portions thereof) and associated funding if there is a specific finding relative to that program, service, function, or activity (or portion thereof) of—
+&emsp;&emsp;Compacts or funding agreements negotiated between the Secretary and an Indian tribe shall include a provision authorizing the Secretary to reassume operation of a program, service, function, or activity (or portions thereof) and associated funding if there is a specific finding relative to that program, service, function, or activity (or portion thereof) of—
 
 &emsp;&emsp;&emsp;(i) imminent endangerment of the public health caused by an act or omission of the Indian tribe, and the imminent endangerment arises out of a failure to carry out the compact or funding agreement; or
 
@@ -48,7 +48,7 @@
 
 #### (b) Final offer
 
-In the event the Secretary and a participating Indian tribe are unable to agree, in whole or in part, on the terms of a compact or funding agreement (including funding levels), the Indian tribe may submit a final offer to the Secretary. Not more than 45 days after such submission, or within a longer time agreed upon by the Indian tribe, the Secretary shall review and make a determination with respect to such offer. In the absence of a timely rejection of the offer, in whole or in part, made in compliance with subsection (c) of this section, the offer shall be deemed agreed to by the Secretary.
+In the event the Secretary and a participating Indian tribe are unable to agree, in whole or in part, on the terms of a compact or funding agreement (including funding levels), the Indian tribe may submit a final offer to the Secretary. Not more than 45 days after such submission, or within a longer time agreed upon by the Indiantribe, the Secretary shall review and make a determination with respect to such offer. In the absence of a timely rejection of the offer, in whole or in part, made in compliance with subsection (c) of this section, the offer shall be deemed agreed to by the Secretary.
 
 #### (c) Rejection of final offers
 
@@ -78,7 +78,7 @@ In the event the Secretary and a participating Indian tribe are unable to agree,
 
 #### (d) Burden of proof
 
-With respect to any hearing or appeal or civil action conducted pursuant to this section, the Secretary shall have the burden of demonstrating by clear and convincing evidence thevalidity of the grounds for rejecting the offer (or a provision thereof) made under subsection (b) of this section.
+With respect to any hearing or appeal or civil action conducted pursuant to this section, the Secretary shall have the burden of demonstrating by clear and convincing evidence the validity of the grounds for rejecting the offer (or a provision thereof) made under subsection (b) of this section.
 
 #### (e) Good faith
 

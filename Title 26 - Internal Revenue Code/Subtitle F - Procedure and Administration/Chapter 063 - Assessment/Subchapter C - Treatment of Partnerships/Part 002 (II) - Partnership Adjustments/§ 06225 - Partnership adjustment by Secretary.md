@@ -66,7 +66,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;&emsp;(ii) the partner agrees to take into account, in the form and manner prescribed by the Secretary, the adjustments to the tax attributes of such partner referred to in subparagraph (A)(ii), and
 
-&emsp;&emsp;&emsp;(iii) such partner provides, in the form and manner specified by the Secretary (including, if the Secretary so specifies, in the same form as on an amended return), such information as the Secretary may require to carry out this subparagraph.
+&emsp;&emsp;&emsp;(iii) such partner provides, in the form and manner specified by the Secretary (including, if the Secretary so specifies, in the same form as on an amended return),such information as the Secretary may require to carry out this subparagraph.
 
 #### (C) Reallocation of distributive share
 
@@ -136,7 +136,7 @@ For purposes of this subchapter—
 
 #### (B) Specified passive activity loss
 
-&emsp;&emsp;For purposes of this paragraph, the term "specified passive activity loss" means, withrespect to any specified partner of such publicly traded partnership, the lesser of—
+&emsp;&emsp;For purposes of this paragraph, the term "specified passive activity loss" means, with respect to any specified partner of such publicly traded partnership, the lesser of—
 
 &emsp;&emsp;&emsp;(i) the passive activity loss of such partner which is separately determined with respect to such partnership under section 469(k) with respect to such partner's taxable year in which or with which the reviewed year of such partnership ends, or
 
@@ -190,6 +190,8 @@ For purposes of this subchapter—
 
 (Added Pub. L. 114–74, title XI, §1101(c)(1), Nov. 2, 2015, 129 Stat. 628; amended Pub. L. 114–113, div. Q, title IV, §411(a), Dec. 18, 2015, 129 Stat. 3121; Pub. L. 115–141, div. U, title II, §§202, 203(a), 206(b), (p)(1), Mar. 23, 2018, 132 Stat. 1173, 1174, 1178, 1182.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 6225, added Pub. L. 97–248, title IV, §402(a), Sept. 3, 1982, 96 Stat. 652; amended Pub. L. 105–34, title XII, §1239(a), Aug. 5, 1997, 111 Stat. 1027, allowing assessments to be made only after partnership level proceedings were completed, was repealed by Pub. L. 114–74, title XI, §1101(a), Nov. 2, 2015, 129 Stat. 625.
@@ -217,6 +219,8 @@ Subsec. (c)(9). Pub. L. 115–141, §202(c)(2), added par. (9).
 <b>2015</b>—Subsec. (c)(4)(A)(i). Pub. L. 114–113, §411(a)(1), struck out "in the case of ordinary income," before "is a C corporation".
 
 Subsec. (c)(5) to (8). Pub. L. 114–113, §411(a)(2), added par. (5) and redesignated former pars. (5) to (7) as (6) to (8), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

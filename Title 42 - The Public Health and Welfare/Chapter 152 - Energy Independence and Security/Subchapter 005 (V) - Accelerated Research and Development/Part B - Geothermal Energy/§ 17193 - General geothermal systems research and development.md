@@ -74,9 +74,13 @@ The Secretary shall identify opportunities for joint research, development, and 
 
 (Pub. L. 110–140, title VI, §614, Dec. 19, 2007, 121 Stat. 1680; Pub. L. 116–260, div. Z, title III, §3002(c), Dec. 27, 2020, 134 Stat. 2488.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2020</b>—Pub. L. 116–260 amended section generally. Prior to amendment, section related to general geothermal systems research and development.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

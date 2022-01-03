@@ -62,7 +62,7 @@ The regulations or guidance issued to carry out actions authorized under subsect
 
 &emsp;(2) communications to or from an unmanned aircraft system are intercepted or acquired only to the extent necessary to support an action described in subsection (b)(1);
 
-&emsp;(3) records of such communications are maintained only for as long as necessary, andin no event for more than 180 days, unless the Secretary of Homeland Security or the Attorney General determine <sup>1</sup> that maintenance of such records is necessary to investigate or prosecute a violation of law, directly support an ongoing security operation, is required under Federal law, or for the purpose of any litigation;
+&emsp;(3) records of such communications are maintained only for as long as necessary, and in no event for more than 180 days, unless the Secretary of Homeland Security or the Attorney General determine <sup>1</sup> that maintenance of such records is necessary to investigate or prosecute a violation of law, directly support an ongoing security operation, is required under Federal law, or for the purpose of any litigation;
 
 &emsp;(4) such communications are not disclosed outside the Department of Homeland Security or the Department of Justice unless the disclosure—
 
@@ -166,7 +166,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(III) protection of facilities pursuant to section 1315(a) of title 40;
 
-&emsp;&emsp;&emsp;(ii) missions authorized to be performed by the Department of Justice, consistent with governing statutes, regulations, and orders issued by the Attorney General, pertaining to—
+&emsp;&emsp;&emsp;(ii) missions authorized to be performed by the Department of Justice, consistentwith governing statutes, regulations, and orders issued by the Attorney General, pertaining to—
 
 &emsp;&emsp;&emsp;&emsp;(I) personal protection operations by—
 
@@ -186,7 +186,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(III) protection of an active Federal law enforcement investigation, emergency response, or security function, that is limited to a specified timeframe and location; and <sup>3</sup>
 
-&emsp;&emsp;&emsp;(iv) missions authorized to be performed by the United States Coast Guard, including those described in clause (iii) as directed by the Secretary, and as further set forth in section 104 <sup>4</sup> of title 14, and consistent with governing statutes, regulations, and orders issued by the Secretaryof the Department in which the Coast Guard is operating.
+&emsp;&emsp;&emsp;(iv) missions authorized to be performed by the United States Coast Guard, including those described in clause (iii) as directed by the Secretary, and as further set forth in section 104 <sup>4</sup> of title 14, and consistent with governing statutes, regulations, and orders issued by the Secretary of the Department in which the Coast Guard is operating.
 
 &emsp;(4) The terms "electronic communication", "intercept", "oral communication", and "wire communication" have the meaning <sup>5</sup> given those terms in section 2510 of title 18.
 
@@ -240,7 +240,7 @@ In this section:
 
 The Presidential Protection Assistance Act of 1976, referred to in subsec. (k)(3)(C)(i)(II), is Pub. L. 94–524, Oct. 17, 1976, 90 Stat. 2475, which enacted and amended provisions set out as notes under section 3056 of Title 18, Crimes and Criminal Procedure. For complete classification of this Act to the Code, see Tables.
 
-Section 104 of title 14, referred to in subsec. (k)(3)(C)(iv), was redesignated section 528 of title 14 by Pub. L. 115–282, title I, §105(b), Dec. 4, 2018, 132 Stat. 4200, and references to section 104 of title 14 deemed to refer to such redesignated section, see section 123(b)(1)of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
+Section 104 of title 14, referred to in subsec. (k)(3)(C)(iv), was redesignated section 528 of title 14 by Pub. L. 115–282, title I, §105(b), Dec. 4, 2018, 132 Stat. 4200, and references to section 104 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
 
 This chapter, referred to in subsec. (l)(1)(A), was in the original "this Act", meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
 

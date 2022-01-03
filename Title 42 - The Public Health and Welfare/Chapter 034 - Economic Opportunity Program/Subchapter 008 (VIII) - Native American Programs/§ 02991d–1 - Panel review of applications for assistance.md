@@ -38,6 +38,8 @@ Upon the request of the chairman of the Committee on Indian Affairs of the Senat
 
 (Pub. L. 88–452, title VIII, §806, as added and amended Pub. L. 100–175, title V, §§502(4), 504(b)(2), Nov. 29, 1987, 101 Stat. 973, 975; Pub. L. 102–375, title VIII, §822(6), (21), Sept. 30, 1992, 106 Stat. 1298, 1300; Pub. L. 103–171, §5(5), Dec. 2, 1993, 107 Stat. 1992; Pub. L. 103–437, §15(k), Nov. 2, 1994, 108 Stat. 4593.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 806 of Pub. L. 88–452 was renumbered section 807 and is classified to section 2991e of this title.
@@ -55,6 +57,8 @@ Another prior section 806 of Pub. L. 88–452, title VIII, as added Pub. L. 89�
 Subsec. (a)(2). Pub. L. 102–375, §822(21), which directed the substitution of "Alaska Native" for "Alaskan Native", could not be executed because the words "Alaskan Native" did not appear.
 
 <b>1987</b>—Subsec. (a)(2). Pub. L. 100–175, §504(b)(2), which directed that par. (2) be amended by inserting "other Native American Pacific Islanders (including American Samoan Natives)," after "Hawaiian Natives," was executed by making the insertion after "Native Hawaiians," to reflect the probable intent of Congress.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

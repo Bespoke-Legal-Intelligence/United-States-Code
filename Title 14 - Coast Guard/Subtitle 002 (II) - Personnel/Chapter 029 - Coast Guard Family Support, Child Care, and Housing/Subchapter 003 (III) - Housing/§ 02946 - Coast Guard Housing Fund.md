@@ -56,7 +56,7 @@ Subsec. (b)(5). Pub. L. 115–282, §123(b)(2), substituted "section 908(b)" for
 
 <b>2010</b>—Subsec. (b)(2). Pub. L. 111–281, §221(a)(6)(A)(i), substituted "or military unaccompanied" for "or unaccompanied".
 
-Subsec. (b)(3). Pub. L. 111–281, §221(a)(6)(A)(ii), substituted "military family housing and" for "militaryfamily and" and struck out "or lease" after "conveyance" and "or facilities" after "property".
+Subsec. (b)(3). Pub. L. 111–281, §221(a)(6)(A)(ii), substituted "military family housing and" for "military family and" and struck out "or lease" after "conveyance" and "or facilities" after "property".
 
 Subsec. (b)(4). Pub. L. 111–281, §221(a)(6)(A)(iii), struck out par. (4) which read as follows: "Income from any activities under this chapter, including interest on loan guarantees made under section 682 of this title, income and gains realized from investments under section 684 of this title, and any return of capital invested as part of such investments."
 

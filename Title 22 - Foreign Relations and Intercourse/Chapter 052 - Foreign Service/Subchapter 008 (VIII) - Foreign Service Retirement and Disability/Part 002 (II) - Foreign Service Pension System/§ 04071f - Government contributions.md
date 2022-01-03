@@ -8,7 +8,7 @@
 
 (3) Before closing the accounts for a fiscal year, the Secretary of the Treasury shall credit to the Fund, as a Government contribution, out of any money in the Treasury of the United States not otherwise appropriated, the amount under paragraph (2) of this subsection for such year.
 
-(c)(1) Subject to paragraphs (2) and (3), for purposes of any period in any year beginning after December 31, 2013, the normal-cost percentage under this section shall be determined and applied as if section 402(b) of the Bipartisan Budget Act of 2013 had not been enacted.
+(c)(1) Subject to paragraphs (2) and (3), for purposes of any period in any year beginning afterDecember 31, 2013, the normal-cost percentage under this section shall be determined and applied as if section 402(b) of the Bipartisan Budget Act of 2013 had not been enacted.
 
 (2) Any contributions under this section in excess of the amounts which (but for paragraph (1)) would otherwise have been payable shall be applied toward reducing the unfunded liability of the Foreign Service Retirement and Disability System.
 

@@ -40,7 +40,7 @@
 
 #### (III) Inclusion in other grants
 
-&emsp;&emsp;&emsp;&emsp;The Administrator may, at the request of a State or Indian tribe, include a grant under this clause in any other grant to the State or Indian tribe made under this subsection.
+&emsp;&emsp;&emsp;&emsp;The Administrator may, at the request of a State or Indian tribe, include agrant under this clause in any other grant to the State or Indian tribe made under this subsection.
 
 #### (iv) Definitions
 
@@ -116,11 +116,11 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) additional response actions are likely to be necessary to address, prevent, limit, or mitigate the release or threatened release; or
 
-&emsp;&emsp;&emsp;(iv) the Administrator, after consultation with the State, determines that information, that on the earlier of the date on which cleanup was approved or completed, was not known by the State, as recorded in documents prepared or relied on in selecting or conducting the cleanup, has been discovered regarding the contamination or conditions at a facility such that the contamination or conditions at the facility present a threat requiring further remediation to protect public health or welfare or the environment. Consultation with the State shall not limit the ability of the Administrator to make this determination.
+&emsp;&emsp;&emsp;(iv) the Administrator, after consultation with the State, determines that information, that on the earlier of the date on which cleanup was approved or completed, was not known by the State, as recorded indocuments prepared or relied on in selecting or conducting the cleanup, has been discovered regarding the contamination or conditions at a facility such that the contamination or conditions at the facility present a threat requiring further remediation to protect public health or welfare or the environment. Consultation with the State shall not limit the ability of the Administrator to make this determination.
 
 #### (C) Public record
 
-&emsp;&emsp;The limitations on the authority of the President under subparagraph (A) apply only at sites in States that maintain, update not less than annually, and make available to the public a record of sites, by name and location, at which response actions have been completed in the previous year and are planned to be addressed under the State program that specifically governs response actions for the protection of public health and the environment in the upcoming year. The public record shall identify whether or not the site, on completion of the response action, will be suitable for unrestricted use and, if not, shall identify the institutional controls relied on in the remedy. Each State and tribe receiving financial assistanceunder subsection (a) shall maintain and make available to the public a record of sites as provided in this paragraph.
+&emsp;&emsp;The limitations on the authority of the President under subparagraph (A) apply only at sites in States that maintain, update not less than annually, and make available to the public a record of sites, by name and location, at which response actions have been completed in the previous year and are planned to be addressed under the State program that specifically governs response actions for the protection of public health and the environment in the upcoming year. The public record shall identify whether or not the site, on completion of the response action, will be suitable for unrestricted use and, if not, shall identify the institutional controls relied on in the remedy. Each State and tribe receiving financial assistance under subsection (a) shall maintain and make available to the public a record of sites as provided in this paragraph.
 
 #### (D) EPA notification
 
@@ -184,6 +184,8 @@ Nothing in this section affects any liability or response authority under any Fe
 
 (Pub. L. 96–510, title I, §128, as added Pub. L. 107–118, title II, §231(b), Jan. 11, 2002, 115 Stat. 2375; amended Pub. L. 115–141, div. N, §§14(a), 15, Mar. 23, 2018, 132 Stat. 1058, 1059.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (b)(1)(A), (B), (2)(B)(i) and (c)(1), was in the original "this Act", meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
@@ -202,5 +204,5 @@ The Safe Drinking Water Act, referred to in subsec. (c)(5), is title XIV of act 
 
 Subsec. (a)(1)(B)(iii), (iv). Pub. L. 115–141, §14(a)(2), added cls. (iii) and (iv).
 
-Subsec. (a)(3). Pub. L. 115–141, §15, amended par. (3) generally. Prior to amendment, text read as follows:"There is authorized to be appropriated to carry out this subsection $50,000,000 for each of fiscal years 2002 through 2006."
+Subsec. (a)(3). Pub. L. 115–141, §15, amended par. (3) generally. Prior to amendment, text read as follows: "There is authorized to be appropriated to carry out this subsection $50,000,000 for each of fiscal years 2002 through 2006."
 

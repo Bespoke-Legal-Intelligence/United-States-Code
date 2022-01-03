@@ -50,7 +50,7 @@ The number of Assistant Attorneys General referred to in the Act of Mar. 2, 1943
 
 The words "learned in the law" are omitted as unnecessary. Such a requirement is not made of the Attorney General, United States attorneys, or United States judges. (See reviser's note under 28 U.S.C. 501, 1964 ed.)
 
-The reference in former section 295 of title 5 to the Assistant Attorneys General assisting the Solicitor General are omitted on authority of the transfer of functions made by 1950 Reorg. Plan No. 2 and 1953 Reorg. Plan No. 4.
+The reference in former section 295 of title 5 to the Assistant Attorneys General assisting the SolicitorGeneral are omitted on authority of the transfer of functions made by 1950 Reorg. Plan No. 2 and 1953 Reorg. Plan No. 4.
 
 Provisions of 1950 Reorg. Plan No. 2, §4, and 1953 Reorg. Plan No. 4, §2, abolishing positions and transferring incumbents are omitted as executed.
 

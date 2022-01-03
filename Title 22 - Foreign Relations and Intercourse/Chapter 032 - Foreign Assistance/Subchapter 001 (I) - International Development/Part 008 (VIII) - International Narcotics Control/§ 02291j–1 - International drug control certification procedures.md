@@ -8,19 +8,23 @@ During any fiscal year, funds that would otherwise be withheld from obligation o
 
 #### (2) Designation and justification
 
-&emsp;In each report under paragraph (1), the President shall also—
+&emsp;In each report under paragraph (1), the President shall—
 
 &emsp;&emsp;(A) designate each country, if any, identified in such report that has failed demonstrably, during the previous 12 months, to make substantial efforts—
 
 &emsp;&emsp;&emsp;(i) to adhere to its obligations under international counternarcotics agreements; and
 
-&emsp;&emsp;&emsp;(ii) to take the counternarcotics measures set forth in section 2291h(a)(1) of this title; and
+&emsp;&emsp;&emsp;(ii) to take the counternarcotics measures set forth in section 2291h(a)(1) of this title;
 
-&emsp;&emsp;(B) include a justification for each country so designated.
+&emsp;&emsp;(B) designate each country, if any, identified under section 2291h(a)(10) of this title that has failed to adopt and utilize scheduling procedures for illicit drugs that are comparable to the procedures authorized under title II <sup>1</sup> of the Controlled Substances Act (21 U.S.C. 811 et seq.) for adding drugs and other substances to the controlled substances schedules;
+
+&emsp;&emsp;(C) designate each country, if any, identified under section 2291h(a)(10) of this title that has not taken significant steps to prosecute individuals involved in the illicit manufacture or distribution of controlled substance analogues (as defined in section 102(32) of the Controlled Substances Act (21 U.S.C. 802(32)) <sup>2</sup>;
+
+&emsp;&emsp;(D) include a justification for each country designated under subparagraph (A), (B), or (C).
 
 #### (3) Limitation on assistance for designated countries
 
-&emsp;In the case of a country identified in a report under paragraph (1) that is also designated under paragraph (2) in the report, United States assistance may be provided to such country in the subsequent fiscal year only if the President determines and reports to the appropriate congressional committees that—
+&emsp;In the case of a country identified in a report under paragraph (1) that is designated in the report under paragraph (2)(A) or thrice designated during a 5-year period in the report under subparagraph (B) or (C) of paragraph (2), United States assistance may be provided to such country in the subsequent fiscal year only if the President determines and reports to the appropriate congressional committees that—
 
 &emsp;&emsp;(A) provision of such assistance to the country in such fiscal year is vital to the national interests of the United States; or
 
@@ -70,9 +74,15 @@ During any fiscal year, funds that would otherwise be withheld from obligation o
 
 &emsp;(A) Section 2291j(a) through (h) of this title shall not apply during any fiscal year with respect to any country identified in the report required by paragraph (1) of this section.
 
-&emsp;(B) Notwithstanding paragraphs (1) through (5)(A) of this section, the President may apply the procedures set forth in section 2291j(a) through (h) of this title during any fiscal year with respect to any country determined to be a major drug transit country or major illicit drug producing country as defined in section 2291(e) of this title.
+&emsp;(B) Notwithstanding paragraphs (1) through (5)(A) of this section, the President may apply the procedures set forth in section 2291j(a) through (h) of this title during any fiscal year with respect to any country determined to bea major drug transit country or major illicit drug producing country as defined in section 2291(e) of this title.
 
-&emsp;(C) Nothing in this section shall affect the requirements of section 2291j of this title with respect to countries identified pursuant to section <sup>1</sup> clause (i) or (ii) of 2291h(a)(8)(A) of this title.
+&emsp;(C) Notwithstanding paragraph (3), assistance to promote democracy (as described in section 2291(e)(4)(E) of this title) shall be provided to countries identified in a report under paragraph (1) and designated under subparagraph (B) or (C) of paragraph (2), to the extent such countries are otherwise eligible for such assistance, regardless of whether the President reports to the appropriate congressional committees in accordance with such paragraph.
+
+&emsp;(D) Notwithstanding paragraph (3), assistance to combat trafficking (as described in section 2291(e)(4)(F) of this title) shall be provided to countries identified in a report under paragraph (1) and designated under subparagraph (B) or (C) of paragraph (2), to the extent such countries are otherwise eligible for such assistance, regardless of whether the President reports to the appropriate congressional committees in accordance with such paragraph.
+
+&emsp;(E) Notwithstanding paragraph (3), global health assistance (as described in section 2291(e)(4)(G) of this title) shall be provided to countries identified in a report under paragraph (1) and designated under subparagraph (B) or (C) of paragraph (2), to the extent such countries are otherwise eligible for such assistance, regardless of whether the President reports to the appropriate congressional committees in accordance with such paragraph
+
+&emsp;(F) Nothing in this section shall affect the requirements of section 2291j of this title with respect to countries identified pursuant to clause (i) or (ii) of section 2291h(a)(8)(A) of this title.
 
 #### (6) Statutory construction
 
@@ -86,9 +96,13 @@ During any fiscal year, funds that would otherwise be withheld from obligation o
 
 &emsp;This section shall take effect September 30, 2002, and shall remain in effect thereafter unless Congress enacts subsequent legislation repealing such section.
 
-(Pub. L. 107–228, div. A, title VI, §706, Sept. 30, 2002, 116 Stat. 1424; Pub. L. 109–177, title VII, §722(c), Mar. 9, 2006, 120 Stat. 269.)
+(Pub. L. 107–228, div. A, title VI, §706, Sept. 30, 2002, 116 Stat. 1424; Pub. L. 109–177, title VII, §722(c), Mar. 9, 2006, 120 Stat. 269; Pub. L. 117–81, div. F, title LXVI, §6610(d), Dec. 27, 2021, 135 Stat. 2448.)
 
 #### <b>Editorial Notes</b>
+
+#### References in Text
+
+The Controlled Substances Act, referred to in par. (2)(B), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. Title II of Pub. L. 91–513 does not itself contain a title II, but it does contain a part B, with provisions relating to controlled substance schedules, which is classified generally to part B (§811 et seq.) of subchapter I of chapter 13 of Title 21. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
 #### Codification
 
@@ -96,9 +110,25 @@ Section was enacted as part of the Department of State Authorization Act, Fiscal
 
 #### Amendments
 
+<b>2021</b>—Par. (2). Pub. L. 117–81, §6610(d)(1)(A), struck out "also" before dash at end of introductory provisions.
+
+Par. (2)(B). Pub. L. 117–81, §6610(d)(1)(D), added subpar. (B). Former subpar. (B) redesignated (D).
+
+Par. (2)(C). Pub. L. 117–81, §6610(d)(2), added subpar. (C).
+
+Par. (2)(D). Pub. L. 117–81, §6610(d)(1)(B), (C), (E), redesignated subpar. (B) as (D) and substituted "designated under subparagraph (A), (B), or (C)" for "so designated".
+
+Par. (3). Pub. L. 117–81, §6610(d)(3), substituted "designated in the report under paragraph (2)(A) or thrice designated during a 5-year period in the report under subparagraph (B) or (C) of paragraph (2)" for "also designated under paragraph (2) in the report" in introductory provisions.
+
+Par. (5)(C) to (F). Pub. L. 117–81, §6610(d)(4), added subpars. (C) to (E), redesignated former subpar. (C) as (F) and substituted "clause (i) or (ii) of section" for "section clause (i) or (ii) of".
+
 <b>2006</b>—Par. (5)(C). Pub. L. 109–177 added subpar. (C).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 117–81 effective 90 days after Dec. 27, 2021, see section 6610(e) of Pub. L. 117–81, set out as a note under section 2291 of this title.
 
 #### Definitions
 
@@ -106,49 +136,31 @@ For definition of "appropriate congressional committees" as used in this section
 
 #### <b>Executive Documents</b>
 
-#### Presidential Determination on Major Drug Transit or Major Illicit Drug Producing Countries for Fiscal Year 2021
+#### Presidential Determination on Major Drug Transit or Major Illicit Drug Producing Countries for Fiscal Year 2022
 
-Determination of President of the United States, No. 2020–11, Sept. 16, 2020, 85 F.R. 60351, provided:
+Determination of President of the United States, No. 2021–13, Sept. 15, 2021, 86 F.R. 52819, provided:
 
 Memorandum for the Secretary of State
 
-By the authority vested in me as President by the Constitution and the laws of the United States, including section 706(1) of the Foreign Relations Authorization Act, Fiscal Year 2003 (Public Law 107–228) (FRAA) \[22 U.S.C. 2291j–1(1)\], I hereby identify the following countries as major drug transit or major illicit drug producing countries: Afghanistan, The Bahamas, Belize, Bolivia, Burma, Colombia, Costa Rica, Dominican Republic, Ecuador, El Salvador, Guatemala, Haiti, Honduras, India, Jamaica, Laos, Mexico, Nicaragua, Pakistan, Panama, Peru, and Venezuela.
+By the authority vested in me as President by the Constitution and the laws of the United States, including section 706(1) of the Foreign Relations Authorization Act, Fiscal Year 2003 (Public Law 107–228) (FRAA) \[22 U.S.C. 2291j–1(1)\], I hereby identify the following countries as major drug transit or major illicit drug producing countries: Afghanistan, The Bahamas, Belize, Bolivia, Burma, Colombia, Costa Rica, the Dominican Republic, Ecuador, El Salvador, Guatemala, Haiti, Honduras, India, Jamaica, Laos, Mexico, Nicaragua, Pakistan, Panama, Peru, and Venezuela.
 
-A country's presence on the foregoing list is not necessarily a reflection of its government's counternarcotics efforts or level of cooperation with the United States. Consistent with the statutory definition of a major drug transit or major illicit drug producing country set forth in section 481(e)(2) and (5) of the Foreign Assistance Act of 1961, as amended (Public Law 87–195) (FAA) \[22 U.S.C. 2291(e)(2), (5)\], the reason countries are placed on the list is the combination of geographic, commercial, and economic factors that allow drugs to transit or be produced, even if a government has engaged in robust and diligent narcotics control measures.
+A country's presence on the foregoing list is neither a reflection of its government's counterdrug efforts nor level of cooperation with the United States. Consistent with the statutory definition of a major drug transit or major illicit drug producing country set forth in section 481(e)(2) and (5) of the Foreign Assistance Act of 1961, as amended (Public Law 87–195) (FAA) \[22 U.S.C.2291(e)(2), (5)\], the reason countries are placed on the list is the combination of geographic, commercial, and economic factors that allow drugs to be transited or produced, even if a government has engaged in robust and diligent narcotics control and law enforcement measures.
 
-Illicit drugs inflict enormous harm on the health and safety of the American people and threaten the national security of the United States. While my Administration has achieved steady progress in stemming the tide of our country's drug epidemic, transnational criminal organizations continually challenge our success by violating our borders and flooding our homeland with these deadly substances.
+Pursuant to section 706(2)(A) of the FRAA, I hereby designate Bolivia and Venezuela as having failed demonstrably to make substantial efforts during the previous 12 months to both adhere to their obligations under international counternarcotics agreements and to take the measures required by section 489(a)(1) of the FAA \[22 U.S.C. 2291h(a)(1)\]. Included with this determination are justifications for the designations of Bolivia and Venezuela, as required by section 706(2)(B) of the FRAA. I have also determined, in accordance with provisions of section 706(3)(A) of the FRAA, that United States programs that support Bolivia and Venezuela are vital to the national interests of the United States.
 
-The United States is taking the fight to these criminal organizations and their enablers on an unprecedented scale. This April, I initiated the most significant counternarcotic operations in decades targeting the illicit drug trade in the Caribbean and Eastern Pacific by deploying U.S. military assets to U.S. Southern Command in cooperation with 22 international allies. These operations led to the seizure of more than 80 metric tons of cocaine and other dangerous drugs, depriving transnational criminal organizations of more than $1.8 billion in profits and putting drug kingpins on notice that they are squarely in the crosshairs of the United States.
+The ongoing drug addiction and overdose epidemic in the United States is one of the foremost public health priorities of my Administration, and addressing this epidemic will require both new domestic investments and greater cooperation with foreign partners to target illicit drug suppliers and the criminal organizations that profit from them. While creating our first-year drug policy priorities, my Administration outlined a strategy that includes expanding access to prevention, treatment, evidence-based harm reduction, and recovery support services in order to curb the drug addiction and overdose epidemic. The American Rescue Plan Act of 2021 \[Pub. L. 117–2, see Tables for classification\] is an investment in these priorities, committing nearly $4 billion to support behavioral health and substance use disorder programs.
 
-The most complicit kingpin in this Hemisphere is the Venezuelan dictator, Nicolas Maduro. This March, a U.S. court indicted Maduro for narcoterrorism and conspiracy to smuggle cocaine into the United States. In response, the U.S. Department of State announced a $15 million reward for information leading to his arrest or conviction. He joined a multitude of other regime cronies who are either under U.S. indictment or were sanctioned for drug crimes by the Department of the Treasury. The United States will continue to support the Venezuelan people, Interim President Juan Guaido, and the democratically elected National Assembly, and will work together with the legitimate Interim Government of Venezuela to stop drug trafficking and root out the criminal elements that have exploited that country. Maduro's illegitimate narco-regime should face justice for its crimes.
+My Administration's Fiscal Year 2022 Budget request itemizes $10.7 billion to support research, prevention, treatment, evidence-based harm reduction, and recovery support services, with targeted investments to meet the needs of populations at greatest risk for overdose and substance use disorder. The Budget request also includes significant investments to reduce the supply of illicit drugs originating from beyond our borders.
 
-While bringing criminals like Maduro to justice remains an urgent priority, the United States also needsother governments in the Western Hemisphere to assume greater responsibility for reducing illegal drug supplies.
+The United States is committed to working together with the countries of the Western Hemisphere as neighbors and partners to meet our shared challenges of drug trafficking and use. My Administration will seek to expand cooperation with key partners, such as Mexico and Colombia, to shape a collective and comprehensive response and expand efforts to address the production and trafficking of dangerous synthetic drugs that are responsible for many of our overdose deaths, particularly fentanyl, fentanyl analogues, and methamphetamine. In Mexico, we must continue to work together to intensify efforts to dismantle transnational criminal organizations and their networks, increase prosecutions of criminal leaders and facilitators, and strengthen efforts to seize illicit assets. In Bolivia, I encourage the government to take additional steps to safeguard the country's licit coca markets from criminal exploitation and reduce illicit coca cultivation that continues to exceed legal limits under Bolivia's domestic laws for medicinal and traditional use. In addition, the United States will look to expand cooperation with China, India, and other chemical source countries in order to disrupt the global flow of synthetic drugs and their precursor chemicals.
 
-In Colombia, President Ivan Duque and his government remain strong partners of the United States, and Colombian police and military forces have shown great bravery and commitment by targeting high-level drug traffickers, interdicting drug shipments, and manually eradicating coca. Nevertheless, coca cultivation and cocaine production remain at unacceptably high levels. To reach our shared 5-year goal to reduce coca cultivation and cocaine production by half by the end of 2023, Colombia must move forward with resuming aerial eradication, which remains an irreplaceable tool in the government's arsenal alongside manual eradication and alternative economic development.
+You are authorized and directed to submit this designation, with the Bolivia and Venezuela memoranda of justification, under section 706 of the FRAA, to the Congress, and to publish this determination in the Federal Register.
 
-It is also of great concern that coca cultivation and cocaine production remain near historical highs in Peru, another longstanding U.S. ally. Peru is a valued law enforcement partner of the United States and has demonstrated continuing commitment to fighting all aspects of the drug trade. I call on the Peruvian government to resume eradication operations in the country's high yield coca producing regions, including the Valley of the Apurimac, Ene, and Mantaro Rivers.
-
-Since the resignation of former President Evo Morales in November 2019, U.S.-Bolivian cooperation against drug trafficking networks has increased under Bolivia's transitional government. The transitional government made important strides in drug interdiction and resumed processing extradition requests of drug traffickers by the United States. Nevertheless, coca cultivation continues to exceed legal limits under Bolivia's own domestic laws for medicinal and traditional use, and the Bolivian state has taken insufficient measures to safeguard the country's licit coca markets from criminal exploitation. If the Bolivian government, including its Legislative Assembly, takes sufficient steps in the year ahead to remedy these shortcomings and continues the progress made over the past 10 months under the transitional government, I will consider removing Bolivia from next year's list of countries that have failed demonstrably to uphold their drug control responsibilities.
-
-Last year, I warned that I would consider determining Mexico had failed demonstrably to uphold its international drug control commitments if it did not intensify its efforts to increase poppy eradication, interdict illicit drugs before they cross the border into the United States, increase its prosecutions of drug traffickers and seize their assets, and develop a comprehensive drug control strategy. This year, Mexico successfully passed asset forfeiture reforms, increased extraditions of dangerous drug traffickers to the United States, made substantial progress in completing its first poppy yield study in 17 years, and produced a counterdrug strategy. While these are signs of progress, more must be done.
-
-Mexico remains the source of nearly all heroin and methamphetamine seized in the United States, and a transit route for most of the cocaine available in our country. Moreover, Mexican cartels take advantage of uneven precursor chemical controls in Mexico to manufacture deadly drugs, such as fentanyl, inside Mexico and smuggle them into the United States. Mexican drug interdictions remain far too low in the face of these critical drug threats. These cartels present a clear threat to Mexico and the Mexican government's ability to exert effective control over parts of its country.
-
-Mexico must clearly demonstrate its commitment to dismantling the cartels and their criminal enterprises and do more to protect the lives of Mexican and American citizens threatened by these groups. Mexico needs to continue to extradite key criminal actors, step up comprehensive investigations and drug and asset seizures, and implement a robust data-based poppy eradication program tied to sustainable alternative development. The Mexican government should acknowledge the alarming trend of fentanyl production inside its territory. It must prioritize law enforcement action targeting cartel production and trafficking of fentanyl—the leading substance involved in drug overdose deaths in the United States—and strengthen efforts targeting fentanyl precursor chemicals overwhelmingly trafficked from China, as well as fentanyl smuggling and production. More must also be done to target the cartels' increasing production of methamphetamine.
-
-The United States remains ready to deepen its partnership with Mexico to address these shared challenges and welcomes the opportunity to develop joint drug control goals with Mexico and bilateral investigations built on transparent and open sharing of investigative information and evidence leading to successful prosecutions.
-
-Many Mexican military and law enforcement professionals, in cooperation with their U.S. counterparts, are bravely confronting the transnational criminal organizations that threaten both of our countries. Unless the Mexican government demonstrates substantial progress in the coming year backed by verifiable data, Mexico will be at serious risk of being found to have failed demonstrably to uphold its international drug control commitments.
-
-Pursuant to section 706(2)(A) of the FRAA, I hereby designate Bolivia and the illegitimate regime of Nicolas Maduro in Venezuela as having failed demonstrably during the previous 12 months to adhere to their obligations under international counternarcotics agreements and to take the measures required by section 489(a)(1) of the FAA \[22 U.S.C. 2291h(a)(1)\]. Included with this determination are justifications for the designations of Bolivia and the Maduro regime, as required by section 706(2)(B) of the FRAA.
-
-I have also determined, in accordance with provisions of section 706(3)(A) of the FRAA, that United States programs that support the legitimate interim government in Venezuela and the Bolivian government are vital to the national interests of the United States.
-
-You are authorized and directed to submit this designation, with the Bolivia and Venezuela memoranda of justification, under section 706 of the FRAA, to the Congress, and to publish it in the Federal Register.
-
-Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior identifications of major drug transit or major illicit drug producing countries were contained in the following:
+
+Determination of President of the United States, No. 2020–11, Sept. 16, 2020, 85 F.R. 60351.
 
 Determination of President of the United States, No. 2019–22, Aug. 8, 2019, 84 F.R. 44679.
 
@@ -198,5 +210,7 @@ You are authorized and directed to submit this determination, with its memorandu
 
 Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<i><sup>1</sup></i><i> So in original. The word "section" probably should appear after "clause (i) or (ii) of".</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
 

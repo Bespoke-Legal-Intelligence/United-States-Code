@@ -30,6 +30,8 @@ The purposes of this subchapter are—
 
 (Pub. L. 101–624, title XXIII, §2373, Nov. 28, 1990, 104 Stat. 4046; Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §345(a)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–203.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1999</b>—Subsec. (a)(2). Pub. L. 106–113, §1000(a)(3) \[title III, §345(a)(1)(A)\], substituted "National Forest System land;" for "national forests;".

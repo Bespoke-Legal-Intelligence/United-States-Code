@@ -32,11 +32,11 @@
 
 #### (6) Assured availability of varied coverage
 
-&emsp;In entering into contracts under this subsection, the Director shall ensure that with respect to multi-State qualified health plans offered in an Exchange, there is at least one such plan that does not provide coverage of services described in section 18023(b)(1)(B)(i) of this title.
+&emsp;In entering into contracts under this subsection, the Director shall ensure that with respect to multi-State qualified health plans offered in an Exchange, there is at least one such plan that does not provide coverage ofservices described in section 18023(b)(1)(B)(i) of this title.
 
 #### (7) Withdrawal
 
-&emsp;Approval of a contract under this subsection may be withdrawn by the Director only after notice and opportunity for hearing to theissuer concerned without regard to subchapter II of chapter 5 and chapter 7 of title 5.
+&emsp;Approval of a contract under this subsection may be withdrawn by the Director only after notice and opportunity for hearing to the issuer concerned without regard to subchapter II of chapter 5 and chapter 7 of title 5.
 
 #### (b) Eligibility
 
@@ -110,13 +110,13 @@ Notwithstanding paragraphs (1) and (2) of subsection (b), the Director shall ent
 
 #### (f) Applicability
 
-The requirements under chapter 89 of title 5 applicable to health benefits plans under such chapter shall apply to multi-State qualified health plans provided for under this section to the extent that such requirements do not conflict with a provision of this title.<sup>3</sup>
+The requirements under chapter 89 of title 5 applicable to health benefits plans under such chapter shall apply to multi-State qualified health plans provided for under this section tothe extent that such requirements do not conflict with a provision of this title.<sup>3</sup>
 
 #### (g) Continued support for FEHBP
 
 #### (1) Maintenance of effort
 
-&emsp;Nothing in this section shall be construed to permit the Director to allocate fewer financial or personnel resources to the functions of the Office of Personnel Management related to the administration of the Federal EmployeesHealth Benefit Program under chapter 89 of title 5.
+&emsp;Nothing in this section shall be construed to permit the Director to allocate fewer financial or personnel resources to the functions of the Office of Personnel Management related to the administration of the Federal Employees Health Benefit Program under chapter 89 of title 5.
 
 #### (2) Separate risk pool
 
@@ -147,6 +147,8 @@ The Director shall establish an advisory board to provide recommendations on the
 There is authorized to be appropriated, such sums as may be necessary to carry out this section.
 
 (Pub. L. 111–148, title I, §1334, as added Pub. L. 111–148, title X, §10104(q), Mar. 23, 2010, 124 Stat. 902.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -4,7 +4,7 @@
 
 (1) Except to the extent authorized by subsection (b), the Secretary shall prohibit any powerplant from using natural gas or petroleum under the authority granted him under section 8341(b) or (c) of this title only by means of a final order issued by him which shall be limited to the particular powerplant involved.
 
-(2) The Secretary may issue such a final order only with respect to a powerplant which is not, at the time the proposed order is issued, covered by a final rule issued under section <sup>1</sup> (b).
+(2) The Secretary may issue such a final order only with respect to a powerplant which is not,at the time the proposed order is issued, covered by a final rule issued under section <sup>1</sup> (b).
 
 #### (b) Prohibitions applicable to categories of facilities
 
@@ -15,6 +15,8 @@
 (3) In prescribing any final rule under this subsection, the Secretary shall take into account any special circumstances or characteristics of each category of powerplants (such as the intermittent use, size, age, or geographic location of such powerplants). Any such rules shall not apply in the case of any existing electric powerplant with respect to which a comparable prohibition was issued by order.
 
 (Pub. L. 95–620, title III, §303, Nov. 9, 1978, 92 Stat. 3306; Pub. L. 100–42, §1(c)(9), May 21, 1987, 101 Stat. 312.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

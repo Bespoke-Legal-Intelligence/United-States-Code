@@ -6,9 +6,11 @@ The Secretary of Health and Human Services shall lead all Federal public health 
 
 #### (b) Interagency agreement
 
-The Secretary, in collaboration with the Secretary of Veterans Affairs, the Secretary of Transportation, the Secretary of Defense, the Secretary of Homeland Security, and the head of any other relevant Federal agency, shall establish an interagency agreement, consistent with the National Response Plan or any successor plan, under which agreement the Secretary of Health and Human Services shall assume operational control of emergency public health and medical response assets, as necessary, in the event of a public health emergency, except that members of the armed forces under the authority of the Secretary of Defense shall remain under the command and control of the Secretary of Defense, as shall any associated assets of the Department of Defense.
+The Secretary, in collaboration with the Secretary of Veterans Affairs, the Secretary of Transportation, the Secretary of Defense, the Secretary of Homeland Security, and the head of any other relevant Federal agency, shall establish an interagency agreement, consistent with the National Response Plan or any successor plan, under which agreement the Secretary of Health and Human Services shall assume operational control of emergency public health and medical response assets, as necessary, in the event of a public health emergency, except that members of the armed forces under the authority of the Secretary of Defense shall remainunder the command and control of the Secretary of Defense, as shall any associated assets of the Department of Defense.
 
 (July 1, 1944, ch. 373, title XXVIII, §2801, as added Pub. L. 107–188, title I, §101(a), June 12, 2002, 116 Stat. 596; amended Pub. L. 109–417, title I, §101(2), Dec. 19, 2006, 120 Stat. 2832.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -18,9 +20,11 @@ Section 314(6) of title 6, referred to in subsec. (a), was in the original "sect
 
 <b>2006</b>—Pub. L. 109–417 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to a national preparedness plan for carrying out health-related activities to prepare for and respond effectively to bioterrorism and other public health emergencies.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Guidance for Participation in Exercises and Drills
 
-Pub. L. 116–22, title III, §306, June 24, 2019, 133 Stat. 941, provided that: "Not later than 2 years after the date of enactment of this Act \[June 24, 2019\], the Secretary of Health and Human Services shall issue final guidance regarding the ability of personnel funded byprograms authorized under this Act \[see Tables for classification\] (including the amendments made by this Act) to participate in drills and operational exercises related to all-hazards medical and public health preparedness and response. Such drills and operational exercises may include activities that incorporate medical surge capacity planning, medical countermeasure distribution and administration, and preparing for and responding to identified threats for that region. Such personnel may include State, local, Tribal, and territorial public health department or agency personnel funded under this Act (including the amendments made by this Act). The Secretary shall consult with the Department of Homeland Security, the Department of Defense, the Department of Veterans Affairs, and other applicable Federal departments and agencies as necessary and appropriate in the development of such guidance. The Secretary shall make the guidance available on the internet website of the Department of Health and Human Services."
+Pub. L. 116–22, title III, §306, June 24, 2019, 133 Stat. 941, provided that: "Not later than 2 years after the date of enactment of this Act \[June 24, 2019\], the Secretary of Health and Human Services shall issue final guidance regarding the ability of personnel funded by programs authorized under this Act \[see Tables for classification\] (including the amendments made by this Act) to participate in drills and operational exercises related to all-hazards medical and public health preparedness and response. Such drills and operational exercises may include activities that incorporate medical surge capacity planning, medical countermeasure distribution and administration, and preparing for and responding to identified threats for that region. Such personnel may include State, local, Tribal, and territorial public health department or agency personnel funded under this Act (including the amendments made by this Act). The Secretary shall consult with the Department of Homeland Security, the Department of Defense, the Department of Veterans Affairs, and other applicable Federal departments and agencies as necessary and appropriate in the development of such guidance. The Secretary shall make the guidance available on the internet website of the Department of Health and Human Services."
 
 #### Government Accountability Office Report
 

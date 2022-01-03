@@ -18,7 +18,7 @@ In the case of marketable stock in a passive foreign investment company which is
 
 &emsp;The adjusted basis of stock in a passive foreign investment company—
 
-&emsp;&emsp;(A) shall be increased by the amount included in the gross income of the UnitedStates person under subsection (a)(1) with respect to such stock, and
+&emsp;&emsp;(A) shall be increased by the amount included in the gross income of the United States person under subsection (a)(1) with respect to such stock, and
 
 &emsp;&emsp;(B) shall be decreased by the amount allowed as a deduction to the United States person under subsection (a)(2) with respect to such stock.
 
@@ -92,7 +92,7 @@ In the case of a foreign corporation which is a controlled foreign corporation a
 
 &emsp;(2) for purposes of subpart F of part III of subchapter N—
 
-&emsp;&emsp;(A) any amount included in gross income under subsection (a)(1) shall be treated asforeign personal holding company income described in section 954(c)(1)(A), and
+&emsp;&emsp;(A) any amount included in gross income under subsection (a)(1) shall be treated as foreign personal holding company income described in section 954(c)(1)(A), and
 
 &emsp;&emsp;(B) any amount allowed as a deduction under subsection (a)(2) shall be treated as a deduction allocable to foreign personal holding company income so described.
 
@@ -136,7 +136,7 @@ In the case of stock of a passive foreign investment company which is acquired b
 
 #### (B) Requirements
 
-&emsp;&emsp;The requirements of this subparagraph are met if, with respect to each of such corporation's taxable years for which such corporation was a passive foreign investment company and which begin after December 31, 1986, and included any portion of the taxpayer's holding period in such stock, such corporation was treated as a qualified electing fund under this part with respect to the taxpayer.
+&emsp;&emsp;The requirements of this subparagraph are met if, with respect to each of such corporation's taxable years for which such corporation was a passive foreign investment company and which begin after December 31, 1986, and included any portion of the taxpayer's holding period in such stock, suchcorporation was treated as a qualified electing fund under this part with respect to the taxpayer.
 
 #### (2) Special rules for regulated investment companies
 
@@ -168,6 +168,8 @@ If any individual becomes a United States person in a taxable year beginning aft
 
 (Added Pub. L. 105–34, title XI, §1122(a), Aug. 5, 1997, 111 Stat. 972; amended Pub. L. 105–206, title VI, §6011(c)(3), July 22, 1998, 112 Stat. 818; Pub. L. 107–16, title V, §542(e)(5)(C), June 7, 2001, 115 Stat. 85; Pub. L. 108–311, title IV, §408(a)(19), Oct. 4, 2004, 118 Stat. 1192; Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 11A of the Securities and Exchange Act of 1934, referred to in subsec. (e)(1)(A)(i), is classified to section 78k–1 of Title 15, Commerce and Trade.
@@ -185,6 +187,8 @@ A prior section 1296 was renumbered section 1297 of this title.
 <b>2001</b>—Subsec. (i). Pub. L. 107–16, §542(e)(5)(C), struck out subsec. (i). Text read as follows: "In the case of stock of a passive foreign investment company which is acquired by bequest, devise, or inheritance (or by the decedent's estate) and with respect to which an election under this section was in effect as of the date of the decedent's death, notwithstanding section 1014, the basis of such stock in the hands of the person so acquiring it shall be the adjusted basis of such stock in the hands of the decedent immediately before his death (or, if lesser, the basis which would have been determined under section 1014 without regard to this subsection)."
 
 <b>1998</b>—Subsec. (d). Pub. L. 105–206 inserted at end "In the case of a regulated investment company which elected to mark to market the stock held by such company as of the last day of the taxable year preceding such company's first taxable year for which such company elects the application of this section, the amount referred to in paragraph (1) shall include amounts included in gross income under such mark to market with respect to such stock for prior taxable years."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

@@ -13,6 +13,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–141, div. U, title IV, §401(b)(50), Mar. 23, 2018, 132 Stat. 1205, struck out item 7326 "Disposal of forfeited or abandoned property in special cases".

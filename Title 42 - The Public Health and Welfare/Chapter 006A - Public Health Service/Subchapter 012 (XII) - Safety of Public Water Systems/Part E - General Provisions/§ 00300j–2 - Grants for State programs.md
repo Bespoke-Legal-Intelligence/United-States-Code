@@ -16,7 +16,7 @@
 
 (4) In each fiscal year the Administrator shall, in accordance, with regulations, allot the sums appropriated for such year under paragraph (5) among the States on the basis of population, geographical area, number of public water systems, and other relevant factors. No State shall receive less than 1 per centum of the annual appropriation for grants under paragraph (1): <i>Provided</i>, That the Administrator may, by regulation, reduce such percentage in accordance with the criteria specified in this paragraph: <i>And provided further</i>, That such percentage shall not apply to grants allotted to Guam, American Samoa, or the Virgin Islands.
 
-(5) The prohibition contained in the last sentence of paragraph (2) may be waived by the Administrator with respect to a grant to a State through fiscal year 1979 but such prohibitionmay only be waived if, in the judgment of the Administrator—
+(5) The prohibition contained in the last sentence of paragraph (2) may be waived by the Administrator with respect to a grant to a State through fiscal year 1979 but such prohibition may only be waived if, in the judgment of the Administrator—
 
 &emsp;(A) the State is making a diligent effort to assume and maintain primary enforcement responsibility for public water systems within the State;
 
@@ -81,7 +81,7 @@ Duty of administrator.—If the Administrator reserves funds from the allocation
 
 For purposes of this section:
 
-&emsp;(1) The term "public water system supervision program" means a program for the adoption and enforcement of drinking waterregulations (with such variances and exemptions from such regulations under conditions and in a manner which is not less stringent than the conditions under, and the manner in, which variances and exemptions may be granted under sections 300g–4 and 300g–5 of this title) which are no less stringent than the national primary drinking water regulations under section 300g–1 of this title, and for keeping records and making reports required by section 300g–2(a)(3) of this title.
+&emsp;(1) The term "public water system supervision program" means a program for the adoption and enforcement of drinking water regulations (with such variances and exemptions from such regulations under conditions and in a manner which is not less stringent than the conditions under, and the manner in, which variances and exemptions may be granted under sections 300g–4 and 300g–5 of this title) which are no less stringent than the national primary drinking water regulations under section 300g–1 of this title, and for keeping records and making reports required by section 300g–2(a)(3) of this title.
 
 &emsp;(2) The term "underground water source protection program" means a program for the adoption and enforcement of a program which meets the requirements of regulations under section 300h of this title, and for keeping records and making reports required by section 300h–1(b)(1)(A)(ii) of this title. Such term includes, where applicable, a program which meets the requirements of section 300h–4 of this title.
 
@@ -104,6 +104,8 @@ For purposes of this section:
 &emsp;There are authorized to be appropriated to the Administrator to carry out this subsection for each of fiscal years 2003 through 2010, $15,000,000 for the purpose of providing assistance to the State of New York to carry out paragraph (1).
 
 (July 1, 1944, ch. 373, title XIV, §1443, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1684; amended Pub. L. 95–190, §§2(b), (c), 5(a), Nov. 16, 1977, 91 Stat. 1393, 1395; Pub. L. 96–63, §2, Sept. 6, 1979, 93 Stat. 411; Pub. L. 96–502, §§2(c), 4(d), Dec. 5, 1980, 94 Stat. 2738; Pub. L. 99–339, title III, §§301(b), (c), 302(d), June 19, 1986, 100 Stat. 664, 666; Pub. L. 104–182, title I, §§120(c), 124, 128, Aug. 6, 1996, 110 Stat. 1651, 1653, 1659; Pub. L. 108–328, §1, Oct. 16, 2004, 118 Stat. 1273; Pub. L. 115–270, title II, §2014, Oct. 23, 2018, 132 Stat. 3854.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

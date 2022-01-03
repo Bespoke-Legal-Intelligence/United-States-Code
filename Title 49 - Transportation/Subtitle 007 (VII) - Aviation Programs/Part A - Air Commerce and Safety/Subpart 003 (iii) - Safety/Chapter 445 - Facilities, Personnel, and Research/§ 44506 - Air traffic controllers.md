@@ -182,7 +182,7 @@ Retired military controllers.—The Administrator may establish a program to pro
 
 &emsp;&emsp;(B) have held either an air traffic certification or air traffic control facility rating according to Administration standards within 5 years of applying for the appointment.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1178; Pub. L. 104–287, §5(9), Oct. 11, 1996, 110 Stat. 3389;Pub. L. 112–95, title VI, §607, Feb. 14, 2012, 126 Stat. 114; Pub. L. 114–190, title II, §2106(a), July 15, 2016, 130 Stat. 620; Pub. L. 115–141, div. M, title I, §108, Mar. 23, 2018, 132 Stat. 1047; Pub. L. 116–92, div. A, title XI, §§1132, 1133, Dec. 20, 2019, 133 Stat. 1615, 1616.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1178; Pub. L. 104–287, §5(9), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 112–95, title VI, §607, Feb. 14, 2012, 126 Stat. 114; Pub. L. 114–190, title II, §2106(a), July 15, 2016, 130 Stat. 620; Pub. L. 115–141, div. M, title I, §108, Mar. 23, 2018, 132 Stat. 1047; Pub. L. 116–92, div. A, title XI, §§1132, 1133, Dec. 20, 2019, 133 Stat. 1615, 1616.)
 
 Historical and Revision Notes
 
@@ -216,6 +216,8 @@ In subsections (a) and (b), the text of section 8(a) and (b)(3) of the Aviation 
 
 In subsection (c), the words "institutions of higher education" are substituted for "post-secondary educational institutions" for consistency in the revised title.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of the FAA Modernization and Reform Act of 2012, referred to in subsec. (d)(3), is the date of enactment of Pub. L. 112–95, which was approved Feb. 14, 2012.
@@ -237,6 +239,8 @@ Subsec. (f)(4). Pub. L. 115–141, §108(2)(B), added par. (4).
 <b>2012</b>—Subsecs. (d), (e). Pub. L. 112–95 added subsec. (d) and redesignated former subsec. (d) as (e).
 
 <b>1996</b>—Subsec. (d). Pub. L. 104–287 substituted "Transportation and Infrastructure" for "Public Works and Transportation".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Notification of Vacancies
 

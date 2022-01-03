@@ -10,7 +10,7 @@ The Secretary, upon application of any packer of any sea food for shipment or sa
 
 Section was formerly classified to section 372a of this title prior to renumbering by Pub. L. 102–571.
 
-Section, which formerly was not a part of the Federal Food, Drug, and Cosmetic Act, originally was classifiedto section 14a of this title. Section 1002(a) of act June 25, 1938, set out as an Effective Date note under section 301 of this title, provided that the section should remain in force and effect and be applicable to the provisions of this chapter. Act July 12, 1943, renumbered this section as 702A of the Federal Food, Drug, and Cosmetic Act.
+Section, which formerly was not a part of the Federal Food, Drug, and Cosmetic Act, originally was classified to section 14a of this title. Section 1002(a) of act June 25, 1938, set out as an Effective Date note under section 301 of this title, provided that the section should remain in force and effect and be applicable to the provisions of this chapter. Act July 12, 1943, renumbered this section as 702A of the Federal Food, Drug, and Cosmetic Act.
 
 #### Prior Provisions
 
@@ -27,6 +27,10 @@ A prior section 376, act June 25, 1938, ch. 675, §706, 52 Stat. 1058, as amende
 #### Transfer of Functions
 
 Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, which is classified to section 3508(b) of Title 20, Education.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
 
 For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under section 321 of this title.
 

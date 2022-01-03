@@ -34,7 +34,7 @@ An employer shall, within 30 days after a written request from the plan sponsor,
 
 #### (c) Payment requirements; amount, etc.
 
-(1)(A)(i) Except as provided in subparagraphs (B) and (D) of this paragraph and in paragraphs (4) and (5), an employer shall pay the amount determined under section 1391 of this title, adjusted if appropriate first under section 1389 of this title and then under section 1386 of this title over the period of years necessary to amortize the amount in level annual payments determined under subparagraph (C), calculated as if the first payment were made on the first day of the plan year following the plan year in which the withdrawal occurs and as if each subsequent payment were made on the first day of each subsequent plan year. Actual payment shall commence in accordance with paragraph (2).
+(1)(A)(i) Except as provided in subparagraphs (B) and (D) of this paragraph and in paragraphs\(4) and (5), an employer shall pay the amount determined under section 1391 of this title, adjusted if appropriate first under section 1389 of this title and then under section 1386 of this title over the period of years necessary to amortize the amount in level annual payments determined under subparagraph (C), calculated as if the first payment were made on the first day of the plan year following the plan year in which the withdrawal occurs and as if each subsequent payment were made on the first day of each subsequent plan year. Actual payment shall commence in accordance with paragraph (2).
 
 (ii) The determination of the amortization period described in clause (i) shall be based on the assumptions used for the most recent actuarial valuation for the plan.
 
@@ -78,7 +78,7 @@ An employer shall, within 30 days after a written request from the plan sponsor,
 
 (3) Each annual payment determined under paragraph (1)(C) shall be payable in 4 equal installments due quarterly, or at other intervals specified by plan rules. If a payment is not made when due, interest on the payment shall accrue from the due date until the date on which the payment is made.
 
-(4) The employer shall be entitled to prepay the outstanding amount of the unpaid annualwithdrawal liability payments determined under paragraph (1)(C), plus accrued interest, if any, in whole or in part, without penalty. If the prepayment is made pursuant to a withdrawal which is later determined to be part of a withdrawal described in paragraph (1)(D), the withdrawal liability of the employer shall not be limited to the amount of the prepayment.
+(4) The employer shall be entitled to prepay the outstanding amount of the unpaid annual withdrawal liability payments determined under paragraph (1)(C), plus accrued interest, if any, in whole or in part, without penalty. If the prepayment is made pursuant to a withdrawal which is later determined to be part of a withdrawal described in paragraph (1)(D), the withdrawal liability of the employer shall not be limited to the amount of the prepayment.
 
 (5) In the event of a default, a plan sponsor may require immediate payment of the outstanding amount of an employer's withdrawal liability, plus accrued interest on the total outstanding liability from the due date of the first payment which was not timely made. For purposes of this section, the term "default" means—
 

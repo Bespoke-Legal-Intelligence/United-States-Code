@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary of State and the Administrator of the United States Agency for International Development, in consultation with appropriate nongovernmental organizations, shall establish and carry out programs and initiatives in foreign countries to assist in the safe integration, reintegration, or resettlement, as appropriate, of victims of trafficking. Such programs and initiatives shall be designed to meet the appropriate assistance needs of such persons and their children, as identified by the Task Force, and shall be carried out in a manner which takes into account the cross-border, regional, and transnational aspects of trafficking in persons. In addition, such programs and initiatives shall, to the maximum extent practicable, include the following:
+&emsp;The Secretary of State and the Administrator of the United States Agency for International Development, in consultation with appropriate nongovernmental organizations, shall establish and carry out programs and initiatives in foreign countries to assist in the safe integration, reintegration, or resettlement, as appropriate, of victims of trafficking. Such programs and initiatives shall be designed to meet the appropriate assistance needs of such persons and their children, as identified by the Task Force, and shall be carried out in a manner which takes into account the cross-border, regional, and transnational aspects of trafficking in persons. In addition, such programs and initiatives shall, to themaximum extent practicable, include the following:
 
 &emsp;&emsp;(A) Support for local in-country nongovernmental organization-operated hotlines, culturally and linguistically appropriate protective shelters, and regional and international nongovernmental organization networks and databases on trafficking, including support to assist nongovernmental organizations in establishing service centers and systems that are mobile and extend beyond large cities.
 
@@ -42,7 +42,7 @@
 
 #### (ii) National human trafficking hotline
 
-&emsp;&emsp;&emsp;Beginning in fiscal year 2017, and in each fiscal year thereafter, the Secretary of Health and Human Services shall make grants for a national communication system to assist victims of severe forms of trafficking in persons in communicating with service providers. The Secretary shall give priority to grant applicants that have experience in providing telephone services to victims of severe forms of trafficking in persons. The number of the nationalhuman trafficking hotline described in this clause shall be posted in a visible place in all Federal buildings.
+&emsp;&emsp;&emsp;Beginning in fiscal year 2017, and in each fiscal year thereafter, the Secretary of Health and Human Services shall make grants for a national communication system to assist victims of severe forms of trafficking in persons in communicating with service providers. The Secretary shall give priority to grant applicants that have experience in providing telephone services to victims of severe forms of trafficking in persons. The number of the national human trafficking hotline described in this clause shall be posted in a visible place in all Federal buildings.
 
 #### (C) Definition of victim of a severe form of trafficking in persons
 
@@ -114,7 +114,7 @@
 
 #### (II) Consultation
 
-&emsp;&emsp;&emsp;&emsp;In making a determination under subclause (I), the Secretary shall consultwith the Attorney General, the Secretary of Homeland Security, and nongovernmental organizations with expertise on victims of severe form <sup>1</sup> of trafficking.
+&emsp;&emsp;&emsp;&emsp;In making a determination under subclause (I), the Secretary shall consult with the Attorney General, the Secretary of Homeland Security, and nongovernmental organizations with expertise on victims of severe form <sup>1</sup> of trafficking.
 
 #### (III) Letter of eligibility
 

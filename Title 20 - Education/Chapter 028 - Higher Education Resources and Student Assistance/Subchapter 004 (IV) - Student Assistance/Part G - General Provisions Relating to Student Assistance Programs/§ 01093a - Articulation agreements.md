@@ -8,7 +8,7 @@ In this section, the term "articulation agreement" means an agreement between or
 
 #### (1) Program established
 
-&emsp;The Secretary shall carry out a program for States, in cooperation with public institutions of higher education, to develop, enhance, and implement comprehensive articulation agreements between or among such institutions in a State, and (to the extent practicable) acrossState lines, by 2010. Such articulation agreements shall be made widely and publicly available on the websites of States and such institutions. In developing, enhancing, and implementing articulation agreements, States and public institutions of higher education may employ strategies, where applicable, including—
+&emsp;The Secretary shall carry out a program for States, in cooperation with public institutions of higher education, to develop, enhance, and implement comprehensive articulation agreements between or among such institutions in a State, and (to the extent practicable) across State lines, by 2010. Such articulation agreements shall be made widely and publicly available on the websites of States and such institutions. In developing, enhancing, and implementing articulation agreements, States and public institutions of higher education may employ strategies, where applicable, including—
 
 &emsp;&emsp;(A) common course numbering;
 

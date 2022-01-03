@@ -154,7 +154,7 @@ In this section:
 
 &emsp;&emsp;(B) with respect to National Forest System land, apply the extraordinary circumstances procedures under section 220.6 of title 36, Code of Federal Regulations (or successor regulations), in determining whether to use the categorical exclusion;
 
-&emsp;&emsp;(C) with respect to public land, apply the extraordinary circumstances procedures under section 46.215 of title 43, Code of Federal Regulations (or successor regulations), in determining whether to use the categorical exclusion; and
+&emsp;&emsp;(C) with respect to public land, apply the extraordinary circumstances proceduresunder section 46.215 of title 43, Code of Federal Regulations (or successor regulations), in determining whether to use the categorical exclusion; and
 
 &emsp;&emsp;(D) consider—
 
@@ -217,6 +217,8 @@ Subject to applicable local restrictions, any vegetative material resulting from
 &emsp;A covered vegetation management activity carried out on National Forest System land that is covered by the categorical exclusion under subsection (b) shall be limited to areas designated under section 6591a(b) of this title, as of December 20, 2018.
 
 (Pub. L. 108–148, title VI, §606, as added Pub. L. 115–334, title VIII, §8611, Dec. 20, 2018, 132 Stat. 4848.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

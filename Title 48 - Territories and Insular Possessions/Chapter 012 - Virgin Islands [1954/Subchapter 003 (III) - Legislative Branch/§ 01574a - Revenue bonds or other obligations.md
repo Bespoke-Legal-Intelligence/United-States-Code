@@ -2,7 +2,7 @@
 
 #### (a) Authorization for issuance; use of proceeds; legislative initiative and binding referendum vote
 
-In addition to the authority conferred by section 1574(b) of this title, the legislature of the government of the Virgin Islands is authorized to cause to be issued bonds or other obligations of such government in anticipation of revenuesto be received under section 7652(b)(3) of title 26. The proceeds of such bonds or other obligations may be used for any purpose authorized by an act of the legislature. The legislature of the government of the Virgin Islands may initiate, by majority vote of the members, a binding referendum vote to approve or disapprove the amount of any such bond or other obligation and/or any purpose for which such bond or other obligation is authorized.
+In addition to the authority conferred by section 1574(b) of this title, the legislature of the government of the Virgin Islands is authorized to cause to be issued bonds or other obligations of such government in anticipation of revenues to be received under section 7652(b)(3) of title 26. The proceeds of such bonds or other obligations may be used for any purpose authorized by an act of the legislature. The legislature of the government of the Virgin Islands may initiate, by majority vote of the members, a binding referendum vote to approve or disapprove the amount of any such bond or other obligation and/or any purpose for which such bond or other obligation is authorized.
 
 #### (b) Federal guarantee
 
@@ -13,6 +13,8 @@ The legislature of the government of the Virgin Islands may provide, in connecti
 Except to the extent inconsistent with the provisions of this Act, the provisions of section 1574(b)(ii) of this title (other than the limitation contained in the proviso to the first sentence of subparagraph (A)) shall apply to bonds and other obligations authorized to be issued under subsection (a).
 
 (Pub. L. 94–392, §1, Aug. 19, 1976, 90 Stat. 1193; Pub. L. 105–83, title I, §124(c), Nov. 14, 1997, 111 Stat. 1567; Pub. L. 106–84, §1(b)(3), Oct. 28, 1999, 113 Stat. 1295.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -29,6 +31,8 @@ Section was not enacted as part of the Revised Organic Act of the Virgin Islands
 <b>1999</b>—Subsec. (d). Pub. L. 106–84 struck out subsec. (d) which read as follows: "The legislature of the Government of the Virgin Islands may cause to be issued notes in anticipation of the collection of the taxes and revenues for the current fiscal year. Such notes shall mature and be paid within one year from the date they are issued. No extension of such notes shall be valid and no additional notes shall be issued under this section until all notes issued during a preceding year shall have been paid."
 
 <b>1997</b>—Subsec. (d). Pub. L. 105–83 added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Authorization of Appropriations
 

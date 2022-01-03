@@ -22,6 +22,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283, div. A, title IX, §923(c)(3)(C), Jan. 1, 2021, 134 Stat. 3810, added item for chapter 915 and struck out former item for chapter 915 "Appointments in the Regular Air Force".

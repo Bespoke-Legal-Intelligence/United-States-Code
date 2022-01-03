@@ -52,6 +52,8 @@ Termination.—The term "termination" means the cessation of all service at an a
 
 This amends 49:41715(a) to conform to the style of title 49.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2003</b>—Subsec. (d). Pub. L. 108–176 redesignated pars. (2) to (5) as (1) to (4), respectively, and struck out former par. (1) which defined "nonhub airport".
@@ -61,6 +63,8 @@ This amends 49:41715(a) to conform to the style of title 49.
 <b>1996</b>—Subsec. (a). Pub. L. 104–287 substituted "Secretary of Transportation's" for "Secretary's".
 
 <b>1994</b>—Subsec. (d)(1). Pub. L. 103–429 substituted "41731(a)(4)" for "41731(a)(3)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

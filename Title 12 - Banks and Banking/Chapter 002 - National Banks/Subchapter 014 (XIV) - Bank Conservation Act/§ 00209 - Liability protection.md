@@ -22,7 +22,7 @@ The Comptroller <sup>1</sup> shall have authority to indemnify the conservator 
 
 <b>1954</b>—Act Sept. 3, 1954, corrected references to title 18.
 
-#### <b>Statutory Notes and Related Subsidiaries</b>
+#### <b>Executive Documents</b>
 
 #### Exception as to Transfer of Functions
 

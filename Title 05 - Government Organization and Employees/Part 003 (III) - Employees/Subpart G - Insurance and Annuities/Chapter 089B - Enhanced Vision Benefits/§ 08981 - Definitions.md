@@ -40,7 +40,7 @@ Par. (8). Pub. L. 114–328, §715(a)(2)(B), added par. (8).
 
 #### Effective Date of 2016 Amendment
 
-Amendment by Pub. L. 114–328 applicable with respect to the first contract year for chapter 89A or 89Bof this title, as applicable, that begins on or after Jan. 1, 2018, see section 715(c) of Pub. L. 114–328, set out as a note under section 8951 of this title.
+Amendment by Pub. L. 114–328 applicable with respect to the first contract year for chapter 89A or 89B of this title, as applicable, that begins on or after Jan. 1, 2018, see section 715(c) of Pub. L. 114–328, set out as a note under section 8951 of this title.
 
 #### Effective Date
 

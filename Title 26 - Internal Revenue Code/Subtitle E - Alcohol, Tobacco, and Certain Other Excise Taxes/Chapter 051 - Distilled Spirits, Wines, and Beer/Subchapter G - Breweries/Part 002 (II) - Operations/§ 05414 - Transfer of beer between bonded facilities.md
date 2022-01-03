@@ -24,6 +24,8 @@ For purposes of subsection (a)(3), such relief from liability shall be effective
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1389; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 115–97, title I, §13803(a), Dec. 22, 2017, 131 Stat. 2172; Pub. L. 116–94, div. Q, title I, §144(c)(1), Dec. 20, 2019, 133 Stat. 3235; Pub. L. 116–260, div. EE, title I, §106(c)(1), Dec. 27, 2020, 134 Stat. 3042.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 5414, act Aug. 16, 1954, ch. 736, 68A Stat. 675, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
@@ -38,9 +40,11 @@ A prior section 5414, act Aug. 16, 1954, ch. 736, 68A Stat. 675, consisted of pr
 
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2020 Amendment
 
-Pub. L. 116–260, div. EE, title I, §106(c)(2), Dec. 27, 2020, 134 Stat. 3043, provided that: "The amendmentmade by this subsection \[amending this section\] shall apply to any calendar quarters beginning after December 31, 2020."
+Pub. L. 116–260, div. EE, title I, §106(c)(2), Dec. 27, 2020, 134 Stat. 3043, provided that: "The amendment made by this subsection \[amending this section\] shallapply to any calendar quarters beginning after December 31, 2020."
 
 #### Effective Date of 2019 Amendment
 

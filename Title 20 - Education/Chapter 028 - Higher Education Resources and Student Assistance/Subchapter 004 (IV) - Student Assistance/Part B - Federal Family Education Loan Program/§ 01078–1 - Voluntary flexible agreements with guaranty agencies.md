@@ -32,7 +32,7 @@
 
 &emsp;&emsp;Each report described in subparagraph (A) shall include—
 
-&emsp;&emsp;&emsp;(i) a description of each voluntary flexible agreement and the performance goalsestablished by the Secretary for each agreement;
+&emsp;&emsp;&emsp;(i) a description of each voluntary flexible agreement and the performance goals established by the Secretary for each agreement;
 
 &emsp;&emsp;&emsp;(ii) a list of—
 
@@ -92,7 +92,7 @@ An agreement between the Secretary and a guaranty agency under this section—
 
 &emsp;(3) shall provide for uniform lender participation with the guaranty agency under the terms of the agreement; and
 
-&emsp;(4) shall not prohibit or restrict borrowers from selecting a lender of the borrower's choosing, subject to the prohibitions and restrictions applicable to the selection under this chapter.
+&emsp;(4) shall not prohibit or restrict borrowers from selecting a lender of the borrower'schoosing, subject to the prohibitions and restrictions applicable to the selection under this chapter.
 
 #### (c) Public notice
 
@@ -118,7 +118,7 @@ An agreement between the Secretary and a guaranty agency under this section—
 
 #### (3) Waiver notice
 
-&emsp;The Secretary shall notify the members of the authorizing committees not later than 30days prior to the granting of a waiver pursuant to subsection (a)(2) <sup>1</sup> to a guaranty agency that is not a party to a voluntary flexible agreement.
+&emsp;The Secretary shall notify the members of the authorizing committees not later than 30 days prior to the granting of a waiver pursuant to subsection (a)(2) <sup>1</sup> to a guaranty agency that is not a party to a voluntary flexible agreement.
 
 #### (4) Public availability
 
@@ -133,6 +133,8 @@ An agreement between the Secretary and a guaranty agency under this section—
 At the expiration or early termination of an agreement under this section, the Secretary shall reinstate the guaranty agency's prior agreements under subsections (b) and (c) of section 1078 of this title, subject only to such additional requirements as the Secretary determines to be necessary in order to ensure the efficient transfer of responsibilities between the agreement under this section and the agreements under subsections (b) and (c) of section 1078 of this title, and including the guaranty agency's compliance with reserve requirements under sections 1072 and 1078 of this title.
 
 (Pub. L. 89–329, title IV, §428A, as added Pub. L. 105–244, title IV, §418, Oct. 7, 1998, 112 Stat. 1691; amended Pub. L. 109–171, title VIII, §8014(b)(3), (f), Feb. 8, 2006, 120 Stat. 169, 170; Pub. L. 110–315, title I, §103(b)(5), title IV, §423, Aug. 14, 2008, 122 Stat. 3089, 3231.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -159,6 +161,8 @@ Subsec. (a)(1)(C). Pub. L. 109–171, §8014(b)(3), added subpar. (C).
 Subsec. (a)(2), (3). Pub. L. 109–171, §8014(f)(2), (3), redesignated par. (3) as (2) and struck out heading and text of former par. (2). Text read as follows: "If the Secretary grants a waiver pursuant to paragraph (1)(B), any guaranty agency doing business within the affected State or States may request, and the Secretary shall grant, an identical waiver to such guaranty agency under the same terms and conditions (including service area limitations) as govern the original waiver."
 
 Subsec. (a)(4). Pub. L. 109–171, §8014(f)(4), struck out par. (4), which required the Secretary to report to congressional committees regarding the impact that the voluntary flexible agreements had on program integrity, program and cost efficiencies, and the availability and delivery of student financial aid.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

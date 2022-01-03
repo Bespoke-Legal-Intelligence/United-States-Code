@@ -7,12 +7,17 @@
 | \[1763. | Repealed.\] |
 | [1764\.](%C2%A7%2001764%20-%20Authority%20to%20establish%20different%20minimum%20requirements.md) | Authority to establish different minimum requirements. |
 | [1765\.](%C2%A7%2001765%20-%20Competency%20development.md) | Competency development. |
+| [1766\.](%C2%A7%2001766%20-%20Joint%20reserve%20detachment%20of%20the%20Defense%20Innovation%20Unit.md) | Joint reserve detachment of the Defense Innovation Unit. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>2021</b>—Pub. L. 116–283, div. A, title X, §1081(c)(4), Jan. 1, 2021, 134 Stat. 3873, amended Pub. L. 116–92, 861(i)(2). See 2019 Amendment note below.
+<b>2021</b>—Pub. L. 116–283, div. A, title XVIII, §1878A(b), as added by Pub. L. 117–81, div. A, title XVII, §1701(q)(2), Dec. 27, 2021, 135 Stat. 2149, added item 1766.
+
+Pub. L. 116–283, div. A, title X, §1081(c)(4), Jan. 1, 2021, 134 Stat. 3873, amended Pub. L. 116–92, §861(i)(2), effective as if included therein. See 2019 Amendment note below.
 
 <b>2019</b>—Pub. L. 116–92, div. A, title VIII, §861(i)(2), Dec. 20, 2019, 133 Stat. 1519, as amended by Pub. L. 116–283, div. A, title X, §1081(c)(4), Jan. 1, 2021, 134 Stat. 3873, added item 1765.
 
@@ -21,10 +26,6 @@
 <b>2003</b>—Pub. L. 108–136, div. A, title VIII, §836(4), Nov. 24, 2003, 117 Stat. 1552, added item 1764 and struck out item 1763 "Reassignment of authority".
 
 <b>2001</b>—Pub. L. 107–107, div. A, title X, §1048(e)(7)(B), Dec. 28, 2001, 115 Stat. 1228, struck out items 1762 "Report to Secretary of Defense" and 1764 "Authority to establish different minimum experience requirements".
-
-#### Effective Date of 2021 Amendment
-
-Pub. L. 116–283, div. A, title X, §1081(c), Jan. 1, 2021, 134 Stat. 3873, provided that the amendment made by section 1081(c)(4) of Pub. L. 116–283 is effective as of Dec. 20, 2020 \[probably should be Dec. 20, 2019\], and as if included in Pub. L. 116–92.
 
 
 ---
@@ -36,3 +37,4 @@ Pub. L. 116–283, div. A, title X, §1081(c), Jan. 1, 2021, 134 Stat. 3873, pro
 - [&sect; 01763 - Repealed. Pub. L. 108&#8211;136, div. A, title VIII, &sect;835(1), Nov. 24, 2003, 117 Stat. 1551](%C2%A7%2001763%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93136%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7835%281%29%2C%20Nov.%2024%2C%202003%2C%20117%20Stat.%201551.md)
 - [&sect; 01764 - Authority to establish different minimum requirements](%C2%A7%2001764%20-%20Authority%20to%20establish%20different%20minimum%20requirements.md)
 - [&sect; 01765 - Competency development](%C2%A7%2001765%20-%20Competency%20development.md)
+- [&sect; 01766 - Joint reserve detachment of the Defense Innovation Unit](%C2%A7%2001766%20-%20Joint%20reserve%20detachment%20of%20the%20Defense%20Innovation%20Unit.md)

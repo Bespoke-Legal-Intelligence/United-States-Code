@@ -2,7 +2,7 @@
 
 #### (a) Time to be disregarded
 
-In the case of an individual serving in the Armed Forces of the United States, or serving in support of such Armed Forces, in an area designated by the President of the United States by Executive order as a "combat zone" for purposes of section 112, or when deployed outside the United States away from the individual's permanent duty station while participating in an operation designated by the Secretary of Defense as a contingency operation (as defined in section 101(a)(13) of title 10, United States Code) or which became such a contingency operation by operation of law, at any time during the period designated by the President by Executive order as the period of combatant activities in such zone for purposes of such section or at any time during the period of such contingency operation, or hospitalized as a result of injury received while serving in such an area or operation during such time, the period of service in such area or operation, plus the period of continuous qualified hospitalization attributable to such injury, and the next 180 days thereafter, shall bedisregarded in determining, under the internal revenue laws, in respect of any tax liability (including any interest, penalty, additional amount, or addition to the tax) of such individual—
+In the case of an individual serving in the Armed Forces of the United States, or serving in support of such Armed Forces, in an area designated by the President of the United States by Executive order as a "combat zone" for purposes of section 112, or when deployed outside the United States away from the individual's permanent duty station while participating in an operation designated by the Secretary of Defense as a contingency operation (as defined in section 101(a)(13) of title 10, United States Code) or which became such a contingency operation by operation of law, at any time during the period designated by the President by Executive order as the period of combatant activities in such zone for purposes of such section or at any time during the period of such contingency operation, or hospitalized as a result of injury received while serving in such an area or operation during such time, the period of service in such area or operation, plus the period of continuous qualified hospitalization attributable to such injury, and the next 180 days thereafter, shall be disregarded in determining, under the internal revenue laws, in respect of any tax liability (including any interest, penalty, additional amount, or addition to the tax) of such individual—
 
 &emsp;(1) Whether any of the following acts was performed within the time prescribed therefor:
 
@@ -10,7 +10,7 @@ In the case of an individual serving in the Armed Forces of the United States, o
 
 &emsp;&emsp;(B) Payment of any income, estate, gift, employment, or excise tax or any installment thereof or of any other liability to the United States in respect thereof;
 
-&emsp;&emsp;(C) Filing a petition with the Tax Court for redetermination of a deficiency, or for review of a decision rendered by the Tax Court;
+&emsp;&emsp;(C) Filing a petition with the Tax Court, or filing a notice of appeal from a decision of the Tax Court;
 
 &emsp;&emsp;(D) Allowance of a credit or refund of any tax;
 
@@ -24,7 +24,7 @@ In the case of an individual serving in the Armed Forces of the United States, o
 
 &emsp;&emsp;(I) Collection, by the Secretary, by levy or otherwise, of the amount of any liability in respect of any tax;
 
-&emsp;&emsp;(J) Bringing suit by the United States, or any officer on its behalf, in respect of any liability in respect of any tax; and
+&emsp;&emsp;(J) Bringing suit by the United States, or any officer on its behalf, in respect of any liability in respect of any tax or in respect of any erroneous refund; and
 
 &emsp;&emsp;(K) Any other act required or permitted under the internal revenue laws specified by the Secretary;
 
@@ -88,9 +88,15 @@ For purposes of subsection (a), the term "qualified hospitalization" means—
 
 > Paragraph (2) shall not apply for purposes of applying this section with respect to the spouse of an individual entitled to the benefits of subsection (a).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 898; Pub. L. 93–597, §5(a), Jan. 2, 1975, 88 Stat. 1952; Pub. L. 94–455, title XIX, §1906(a)(51), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1831, 1834; Pub. L. 94–569, §3(e), Oct. 20, 1976, 90 Stat. 2700; Pub. L. 96–589, §6(i)(14), Dec. 24, 1980, 94 Stat. 3411; Pub. L. 97–448, title III, §307(d), Jan. 12, 1983, 96 Stat. 2407; Pub. L. 99–514, title XVII, §1708(a)(4), Oct. 22, 1986, 100 Stat. 2782; Pub. L. 102–2, §1(a)–(c), Jan. 30, 1991, 105 Stat. 5; Pub. L. 107–134, title I, §112(b), Jan. 23, 2002, 115 Stat. 2434; Pub. L. 108–121, title I, §104(a)–(b)(2), Nov. 11, 2003, 117 Stat. 1338; Pub. L. 109–73, title IV, §403(a), Sept. 23, 2005, 119 Stat. 2027; Pub. L. 114–94, div. C, title XXXII, §32101(d), Dec. 4, 2015, 129 Stat. 1732; Pub. L. 114–113, div. Q, title III, §309(a), Dec. 18, 2015, 129 Stat. 3089.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 898; Pub. L. 93–597, §5(a), Jan. 2, 1975, 88 Stat. 1952; Pub. L. 94–455, title XIX, §1906(a)(51), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1831, 1834; Pub. L. 94–569, §3(e), Oct. 20, 1976, 90 Stat. 2700; Pub. L. 96–589, §6(i)(14), Dec. 24, 1980, 94 Stat. 3411; Pub. L. 97–448, title III, §307(d), Jan. 12, 1983, 96 Stat. 2407; Pub. L. 99–514, title XVII, §1708(a)(4), Oct. 22, 1986, 100 Stat. 2782; Pub. L. 102–2, §1(a)–(c), Jan. 30, 1991, 105 Stat. 5; Pub. L. 107–134, title I, §112(b), Jan. 23, 2002, 115 Stat. 2434; Pub. L. 108–121, title I, §104(a)–(b)(2), Nov. 11, 2003, 117 Stat. 1338; Pub. L. 109–73, title IV, §403(a), Sept. 23, 2005, 119 Stat. 2027; Pub. L. 114–94, div. C, title XXXII, §32101(d), Dec. 4, 2015, 129 Stat. 1732; Pub. L. 114–113, div. Q, title III, §309(a), Dec. 18, 2015, 129 Stat. 3089; Pub. L. 117–58, div. H, title V, §80502(a), Nov. 15, 2021, 135 Stat. 1335.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(1)(C). Pub. L. 117–58, §80502(a)(1), added subpar. (C) and struck out former subpar. (C) which read as follows: "Filing a petition with the Tax Court for redetermination of a deficiency, or for review of a decision rendered by the Tax Court;".
+
+Subsec. (a)(1)(J). Pub. L. 117–58, §80502(a)(2), inserted "or in respect of any erroneous refund" after "any tax".
 
 <b>2015</b>—Subsec. (a)(3). Pub. L. 114–94 added par. (3).
 
@@ -110,7 +116,7 @@ Subsec. (d). Pub. L. 108–121, §104(b)(1), inserted "or contingency operation"
 
 <b>2002</b>—Subsec. (a)(1)(K). Pub. L. 107–134 struck out "in regulations prescribed under this section" before "by the Secretary".
 
-<b>1991</b>—Subsec. (a). Pub. L. 102–2, §1(c)(1), in introductory provisions, struck out "outside the United States" before "as a result of injury" and substituted "the period of continuous qualified hospitalization" for "the period of continuous hospitalization outside the United States".
+<b>1991</b>—Subsec. (a). Pub. L. 102–2, §1(c)(1), in introductory provisions, struck out "outside the United States"before "as a result of injury" and substituted "the period of continuous qualified hospitalization" for "the period of continuous hospitalization outside the United States".
 
 Subsec. (a)(2). Pub. L. 102–2, §1(b)(2), struck out "(including interest)" after "refund".
 
@@ -137,6 +143,12 @@ Subsec. (b). Pub. L. 94–569 substituted "taxable year beginning" for "taxable 
 Subsec. (d). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary" wherever appearing.
 
 <b>1975</b>—Subsecs. (b) to (d). Pub. L. 93–597 added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Pub. L. 117–58, div. H, title V, §80502(b), Nov. 15, 2021, 135 Stat. 1336, provided that: "The amendments made by this section \[amending this section\] shall apply to any period for performing an act which has not expired before the date of the enactment of this Act \[Nov. 15, 2021\]."
 
 #### Effective Date of 2015 Amendment
 
@@ -177,6 +189,8 @@ Pub. L. 93–597, §5(b), Jan. 2, 1975, 88 Stat. 1953, provided that: "The amend
 #### Transfer of Functions
 
 Office of Postmaster General of Post Office Department abolished and all functions, powers, and duties of Postmaster General transferred to United States Postal Service by Pub. L. 91–375, §4(a), Aug. 12, 1970, 84 Stat. 773, set out as a note under section 201 of Title 39, Postal Service.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 12750. Designation of Arabian Peninsula Areas, Airspace, and Adjacent Waters as Persian Gulf Desert Shield Area
 

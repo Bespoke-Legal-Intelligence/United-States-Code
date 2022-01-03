@@ -10,9 +10,13 @@ Exception.—The prohibition specified in subsection (a) does not apply with res
 
 (Added Pub. L. 108–375, div. A, title V, §545(c)(1), Oct. 28, 2004, 118 Stat. 1908, §9360; renumbered §9460, Pub. L. 115–232, div. A, title VIII, §806(a)(3), Aug. 13, 2018, 132 Stat. 1832.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 9360 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

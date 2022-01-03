@@ -2,7 +2,7 @@
 
 #### (a) Designation of position
 
-The President shall designate an individual to serve in the Executive Office of the President asthe National Coordinator for Nonproliferation Matters.
+The President shall designate an individual to serve in the Executive Office of the President as the National Coordinator for Nonproliferation Matters.
 
 #### (b) Duties
 
@@ -20,6 +20,8 @@ Of the total amount authorized to be appropriated under section 301,<sup>1</sup>
 
 (Pub. L. 104–201, div. A, title XIV, §1441, Sept. 23, 1996, 110 Stat. 2727; Pub. L. 105–261, div. A, title X, §1069(c)(2), Oct. 17, 1998, 112 Stat. 2136.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 301, referred to in subsec. (c), is section 301 of Pub. L. 104–201, div. A, title III, Sept. 23, 1996, 110 Stat. 2475, which is not classified to the Code.
@@ -27,6 +29,8 @@ Section 301, referred to in subsec. (c), is section 301 of Pub. L. 104–201, di
 #### Amendments
 
 <b>1998</b>—Subsec. (b)(2). Pub. L. 105–261 substituted "of the National Security Council" for "established under section 1342".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Commission To Assess Organization of Federal Government To Combat Proliferation of Weapons of Mass Destruction
 

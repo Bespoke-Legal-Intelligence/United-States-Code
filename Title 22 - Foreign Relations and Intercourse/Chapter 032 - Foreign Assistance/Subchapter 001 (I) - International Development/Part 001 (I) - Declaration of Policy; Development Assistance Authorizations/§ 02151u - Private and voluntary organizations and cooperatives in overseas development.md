@@ -10,7 +10,7 @@ In order to further the efficient use of United States voluntary contributions f
 
 #### (c) Reimbursement for transportation charges
 
-Reimbursement under this section may be provided for transportation charges on shipmentsfrom United States ports, or in the case of excess or surplus property supplied by the United States from foreign ports, to ports of entry abroad or to points of entry abroad in cases (1) of landlocked countries, (2) where ports cannot be used effectively because of natural or other disturbances, (3) where carriers to a specified country are unavailable, or (4) where a substantial savings in costs or time can be effected by the utilization of points of entry other than ports.
+Reimbursement under this section may be provided for transportation charges on shipments from United States ports, or in the case of excess or surplus property supplied by the United States from foreign ports, to ports of entry abroad or to points of entry abroad in cases (1) of landlocked countries, (2) where ports cannot be used effectively because of natural or other disturbances, (3) where carriers to a specified country are unavailable, or (4) where a substantial savings in costs or time can be effected by the utilization of points of entry other than ports.
 
 #### (d) Arrangements with receiving country for free entry of shipments and for availability of local currency to defray transportation costs
 
@@ -160,7 +160,7 @@ Pub. L. 95–424, title I, §122, Oct. 6, 1978, 92 Stat. 954, as amended by Pub.
 
 "(b) \[Repealed. Pub. L. 97–113, title VII, §734(a)(5), Dec. 29, 1981, 95 Stat. 1560.\]"
 
-\[African Development Foundation changed to United States African Development Foundation by Pub. L.113–76, div. K, title III, Jan. 17, 2014, 128 Stat. 482. See section 290h–1 of this title.\]
+\[African Development Foundation changed to United States African Development Foundation by Pub. L. 113–76, div. K, title III, Jan. 17, 2014, 128 Stat. 482. See section 290h–1 of this title.\]
 
 #### <b>Executive Documents</b>
 

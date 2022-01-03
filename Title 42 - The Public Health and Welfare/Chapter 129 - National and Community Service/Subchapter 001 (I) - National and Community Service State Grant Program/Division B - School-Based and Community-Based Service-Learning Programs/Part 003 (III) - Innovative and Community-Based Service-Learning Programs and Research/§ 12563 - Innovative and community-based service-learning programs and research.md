@@ -40,7 +40,7 @@ In this part:
 
 #### (4) Youth engagement zone program
 
-&emsp;The term "youth engagement zone program" means a service-learning program in which members of an eligible partnership collaborate to provide coordinated school-based or community-based service-learning opportunities—
+&emsp;The term "youth engagement zone program" means a service-learning program in whichmembers of an eligible partnership collaborate to provide coordinated school-based or community-based service-learning opportunities—
 
 &emsp;&emsp;(A) in order to address a specific community challenge;
 
@@ -108,7 +108,7 @@ Funds under this part may be used to—
 
 &emsp;&emsp;(B) engage as participants high percentages or numbers of economically disadvantaged students;
 
-&emsp;&emsp;(C) allow participants to receive academic credit, for the time spent in the classroom and in the field for the program, that is equivalent to the academic credit for any class of equivalent length and with an equivalent time commitment; and
+&emsp;&emsp;(C) allow participants to receive academic credit, for the time spent in the classroom and in the field for the program, that isequivalent to the academic credit for any class of equivalent length and with an equivalent time commitment; and
 
 &emsp;&emsp;(D) ensure that the classroom-based instruction component of the program is integrated into the academic program of the local educational agency involved; and
 
@@ -144,6 +144,8 @@ In making grants under this part, the Corporation shall give priority to applica
 
 (Pub. L. 101–610, title I, §119, as added Pub. L. 111–13, title I, §1204, Apr. 21, 2009, 123 Stat. 1479; amended Pub. L. 114–95, title IX, §9215(bbb)(3), Dec. 10, 2015, 129 Stat. 2185.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Domestic Volunteer Service Act of 1973, referred to in subsec. (f)(2), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394. Titles I and II of the Act are classified generally to subchapters I (§4951 et seq.) and II (§5000 et seq.), respectively, of chapter 66 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
@@ -157,6 +159,8 @@ A prior section 119 of Pub. L. 101–610 was renumbered section 118 and is class
 #### Amendments
 
 <b>2015</b>—Subsec. (a)(2)(A)(ii)(II). Pub. L. 114–95 substituted "the four-year adjusted cohort graduation rate (as defined in section 7801 of title 20)" for "the graduation rate (as defined in section 6311(b)(2)(C)(vi) of title 20 and as clarified in applicable regulations promulgated by the Department of Education".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

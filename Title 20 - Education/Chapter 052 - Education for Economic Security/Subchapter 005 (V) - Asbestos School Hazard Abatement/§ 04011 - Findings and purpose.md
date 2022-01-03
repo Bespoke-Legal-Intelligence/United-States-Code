@@ -38,11 +38,15 @@ It is the purpose of this subchapter to—
 
 (Pub. L. 98–377, title V, §502, Aug. 11, 1984, 98 Stat. 1287; Pub. L. 101–637, §14(a)(2), (b)(1), (2), Nov. 28, 1990, 104 Stat. 4594, 4595.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Pub. L. 101–637, §14(a)(2), made technical amendment to section catchline.
 
 Subsecs. (a), (b). Pub. L. 101–637, §14(b)(1), (2), inserted headings.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 1990 Amendment
 
@@ -80,7 +84,7 @@ Purposes.—The purposes of this Act \[see Short Title of 1990 Amendment note ab
 
 &emsp;"(2) To provide continuing scientific and technical assistance to State and local agencies to enable them to identify and abate asbestos health hazards.
 
-&emsp;"(3) To provide financial assistance to State and local agencies for training of persons involved withinspections and abatement of asbestos, for conducting necessary reinspections of school buildings, and for the actual abatement of asbestos threats to the health and safety of school children or employees.
+&emsp;"(3) To provide financial assistance to State and local agencies for training of persons involved with inspections and abatement of asbestos, for conducting necessary reinspections of school buildings, and for the actual abatement of asbestos threats to the health and safety of school children or employees.
 
 &emsp;"(4) To assure that no employee of a local educational agency suffers any disciplinary action as a result of calling attention to potential asbestos hazards which may exist in schools."
 

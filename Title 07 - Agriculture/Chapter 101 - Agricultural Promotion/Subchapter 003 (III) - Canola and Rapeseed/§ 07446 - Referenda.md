@@ -82,6 +82,8 @@
 
 (Pub. L. 104–127, title V, §537, Apr. 4, 1996, 110 Stat. 1058; Pub. L. 110–234, title VII, §7511(c)(28), May 22, 2008, 122 Stat. 1270; Pub. L. 110–246, §4(a), title VII, §7511(c)(28), June 18, 2008, 122 Stat. 1664, 2031.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -90,9 +92,11 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>2008</b>—Subsecs. (a)(2), (b)(3)(B)(i). Pub. L. 110–246, §7511(c)(28), substituted "cooperative extension" for "Cooperative State Research, Education, and Extension Service".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
-Consolidated Farm Service Agency effectively renamed Farm Service Agency by the amendments madeto section 6932 of this title by Pub. L. 115–334, title XII, §12404(a), Dec. 20, 2018, 132 Stat. 4974.
+Consolidated Farm Service Agency effectively renamed Farm Service Agency by the amendments made to section 6932 of this title by Pub. L. 115–334, title XII, §12404(a), Dec. 20, 2018, 132 Stat. 4974.
 
 #### Effective Date of 2008 Amendment
 

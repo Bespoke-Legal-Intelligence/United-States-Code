@@ -46,15 +46,19 @@ For purposes of this section, the term "adolescent health", with respect to adol
 
 &emsp;(1) unique to adolescents, or more serious or more prevalent in adolescents;
 
-&emsp;(2) for which the factors of medical risk or types of medical intervention are different for adolescents, or for which it is unknown whether such factors or types are different for adolescents; or
+&emsp;(2) for which the factors of medical risk or types of medical intervention are different foradolescents, or for which it is unknown whether such factors or types are different for adolescents; or
 
 &emsp;(3) with respect to which there has been insufficient clinical research involving adolescents as subjects or insufficient clinical data on adolescents.
 
 (July 1, 1944, ch. 373, title XVII, §1708, as added Pub. L. 102–531, title III, §302, Oct. 27, 1992, 106 Stat. 3483.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 300u–7, act July 1, 1944, ch. 373, title XVII, §1708, as added Nov. 10, 1978, Pub. L. 95–626, title V, §502, 92 Stat. 3594; amended July 10, 1979, Pub. L. 96–32, §6(l), 93 Stat. 84, related to project grants for physical fitness improvement and research projects, prior to repeal by Pub. L. 98–551, §2(c), Oct. 30, 1984, 98 Stat. 2816.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

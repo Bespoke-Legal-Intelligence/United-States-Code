@@ -6,7 +6,7 @@ No employer shall be subject to any liability or punishment under the Fair Labor
 
 &emsp;(1) an express provision of a written or nonwritten contract in effect, at the time of such activity, between such employee, his agent, or collective-bargaining representative and his employer; or
 
-&emsp;(2) a custom or practice in effect, at the time of such activity, at the establishment or other place where such employee was employed, covering such activity, not inconsistent with a written or nonwritten contract, in effect atthe time of such activity, between such employee, his agent, or collective-bargaining representative and his employer.
+&emsp;(2) a custom or practice in effect, at the time of such activity, at the establishment or other place where such employee was employed, covering such activity, not inconsistent with a written or nonwritten contract, in effect at the time of such activity, between such employee, his agent, or collective-bargaining representative and his employer.
 
 #### (b) Compensable activity
 

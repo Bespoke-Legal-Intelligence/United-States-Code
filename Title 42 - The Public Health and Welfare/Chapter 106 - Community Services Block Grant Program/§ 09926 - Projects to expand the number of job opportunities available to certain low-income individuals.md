@@ -10,7 +10,7 @@ The Secretary of Health and Human Services (in this section referred to as the "
 
 (2) For purposes of this section, a nonprofit organization is any organization (including a community development corporation) exempt from taxation under section 501(a) of title 26 by reason of paragraph (3) or (4) of section 501(c) of such title.
 
-(3) A low-income individual eligible to participate in a project conducted under this section is any individual eligible to receive assistance under the program funded part <sup>1</sup> A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] of the State in which the individual resides and any other individual whose income level does not exceed 100 percent of the official poverty line as defined by the Office of Management and Budget and revised in accordance with section 9902(2) of this title.
+(3) A low-income individual eligible to participate in a project conducted under this section is any individual eligible to receive assistanceunder the program funded part <sup>1</sup> A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] of the State in which the individual resides and any other individual whose income level does not exceed 100 percent of the official poverty line as defined by the Office of Management and Budget and revised in accordance with section 9902(2) of this title.
 
 #### (c) Content of applications; selection priority
 
@@ -35,6 +35,8 @@ Each nonprofit organization participating in a project conducted under this sect
 For the purpose of conducting projects under this section, there is authorized to be appropriated an amount not to exceed $25,000,000 for any fiscal year.
 
 (Pub. L. 100–485, title V, §505, Oct. 13, 1988, 102 Stat. 2404; Pub. L. 101–508, title V, §5063, Nov. 5, 1990, 104 Stat. 1388–232; Pub. L. 103–432, title II, §261(a), Oct. 31, 1994, 108 Stat. 4467; Pub. L. 104–193, title I, §112, Aug. 22, 1996, 110 Stat. 2176; Pub. L. 105–33, title V, §5515, Aug. 5, 1997, 111 Stat. 620.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -76,9 +78,11 @@ Subsec. (g). Pub. L. 103–432, §261(a)(3), substituted "1991, 1992, 1993, 1994
 
 Subsec. (e). Pub. L. 101–508, §5063(2), substituted "September 30 of the fiscal year specified in the agreement described in subsection (a) of this section" for "September 30, 1989".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of this title.
+Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisionsrelating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of this title.
 
 #### Effective Date of 1994 Amendment
 

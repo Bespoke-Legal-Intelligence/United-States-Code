@@ -6,9 +6,9 @@ Establishment.—The Secretary shall establish and implement a congestion mitiga
 
 (b)
 
-Eligible Projects.—Except as provided in subsection (d), a State may obligate funds apportioned to it under section 104(b)(4) for the congestion mitigation and air quality improvement program only for a transportation project or program if the project or program is for an area in the State that is or was designated as a nonattainment area for ozone, carbon monoxide, or particulate matter under section 107(d) of the Clean Air Act (42 U.S.C. 7407(d)) and classified pursuant to section 181(a), 186(a), 188(a), or 188(b) of the Clean Air Act (42 U.S.C. 7511(a), 7512(a), 7513(a), or 7513(b)) or is or was designated as a nonattainment area under such section 107(d) after December 31, 1997, or is required to prepare, and file with the Administrator of the Environmental Protection Agency, maintenance plans under the Clean Air Act (42 U.S.C. 7401 et seq.) and—
+Eligible Projects.—Except as provided in subsections (d) and (m)(1)(B)(ii), a State may obligate funds apportioned to it under section 104(b)(4) for the congestion mitigation and air quality improvement program only for a transportation project or program if the project or program is for an area in the State that is or was designated as a nonattainment area for ozone, carbon monoxide, or particulate matter under section 107(d) of the Clean Air Act (42 U.S.C. 7407(d)) and classified pursuant to section 181(a), 186(a), 188(a), or 188(b) of the Clean Air Act (42 U.S.C. 7511(a), 7512(a), 7513(a), or 7513(b)) or is or was designated as a nonattainment area under such section 107(d) after December 31, 1997, or is required to prepare, and file with the Administrator of the Environmental Protection Agency, maintenance plans under the Clean Air Act (42 U.S.C. 7401 et seq.) and—
 
-&emsp;(1)(A)(i) if the Secretary, after consultation with the Administrator determines, on the basis of information published by the Environmental Protection Agency pursuant to section 108(f)(1)(A) of the Clean Air Act (other than clause (xvi)) that the project or program is likely to contribute to—
+&emsp;(1)(A)(i) if the Secretary, after consultation with the Administrator determines, on the basis of information published by the Environmental Protection Agency pursuant to section108(f)(1)(A) of the Clean Air Act (other than clause (xvi)) that the project or program is likely to contribute to—
 
 &emsp;&emsp;(I) the attainment of a national ambient air quality standard in the designated nonattainment area; or
 
@@ -28,23 +28,37 @@ Eligible Projects.—Except as provided in subsection (d), a State may obligate 
 
 &emsp;(6) if the project or program involves the purchase of integrated, interoperable emergency communications equipment;
 
-&emsp;(7) if the project or program shifts traffic demand to nonpeak hours or other transportation modes, increases vehicle occupancy rates, or otherwise reduces demand for roads through such means as telecommuting, ridesharing, carsharing, alternative work hours, and pricing;
+&emsp;(7) if the project or program shifts traffic demand to nonpeak hours or other transportation modes, increases vehicle occupancy rates, or otherwise reduces demand for roads through such means as telecommuting, ridesharing, carsharing, shared micromobility (including bikesharing and shared scooter systems), alternative work hours, and pricing;
 
 &emsp;(8) if the project or program is for—
 
-&emsp;&emsp;(A) the purchase of diesel retrofits that are—
+&emsp;&emsp;(A) the purchase of diesel replacements or retrofits that are—
 
-&emsp;&emsp;&emsp;(i) for motor vehicles (as defined in section 216 of the Clean Air Act (42 U.S.C. 7550)); or
+&emsp;&emsp;&emsp;(i) verified technologies (as defined in section 791 of the Energy Policy Act of 2005 (42 U.S.C. 16131)) for motor vehicles (as defined in section 216 of the Clean Air Act (42 U.S.C. 7550)); or
 
 &emsp;&emsp;&emsp;(ii) verified technologies (as defined in section 791 of the Energy Policy Act of 2005 (42 U.S.C. 16131)) for non-road vehicles and non-road engines (as defined in section 216 of the Clean Air Act (42 U.S.C. 7550)) that are used in construction projects or port-related freight operations that are—
 
 &emsp;&emsp;&emsp;&emsp;(I) located in nonattainment or maintenance areas for ozone, PM<sub>10</sub>, or PM<sub>2.5</sub> (as defined under the Clean Air Act (42 U.S.C. 7401 et seq.)); and
 
-&emsp;&emsp;&emsp;&emsp;(II) funded, in whole or in part, under this title or chapter 53 of title 49; or
+&emsp;&emsp;&emsp;&emsp;(II) funded, in whole or in part, under this title or chapter 53 of title 49;
 
-&emsp;&emsp;(B) the conduct of outreach activities that are designed to provide information and technical assistance to the owners and operators of diesel equipment and vehicles regarding the purchase and installation of diesel retrofits; or
+&emsp;&emsp;(B) the conduct of outreach activities that are designed to provide information and technical assistance to the owners and operators of diesel equipment and vehicles regarding the purchase and installation of diesel replacements or retrofits; or
 
-&emsp;(9) if the project or program is for the installation of vehicle-to-infrastructure communication equipment.
+&emsp;&emsp;(C) the purchase of medium- or heavy-duty zero emission vehicles and related charging equipment;
+
+&emsp;(9) if the project or program is for the installation of vehicle-to-infrastructure communication equipment;
+
+&emsp;(10) if the project is for the modernization or rehabilitation of a lock and dam that—
+
+&emsp;&emsp;(A) is functionally connected to the Federal-aid highway system; and
+
+&emsp;&emsp;(B) the Secretary determines is likely to contribute to the attainment or maintenance of a national ambient air quality standard; or
+
+&emsp;(11) if the project is on a marine highway corridor, connector, or crossing designated by the Secretary under section 55601(c) of title 46 (including an inland waterway corridor, connector, or crossing) that—
+
+&emsp;&emsp;(A) is functionally connected to the Federal-aid highway system; and
+
+&emsp;&emsp;(B) the Secretary determines is likely to contribute to the attainment or maintenance of a national ambient air quality standard.
 
 (c)
 
@@ -56,11 +70,15 @@ Projects for pm–10 nonattainment areas.—A State may obligate funds apportion
 
 &emsp;(2)
 
-Electric vehicle and natural gas vehicle infrastructure.—A State may obligate funds apportioned under section 104(b)(4) for a project or program to establish electric vehicle charging stations or natural gas vehicle refueling stations for the use of battery powered or natural gas fueled trucks or other motor vehicles at any location in the State (giving priority to corridors designated under section 151) except that such stations may not be established or supported where commercial establishments serving motor vehicle users are prohibited by section 111 of title 23, United States Code.
+Electric vehicle and natural gas vehicle infrastructure.—A State may obligate funds apportioned under section 104(b)(4) for a project or program to establish electric vehicle charging stations or natural gas vehicle refueling stations for the use of battery powered or natural gas fueled trucks or other motor vehicles at any location in the State (giving priority to corridors designated under section151) except that such stations may not be established or supported where commercial establishments serving motor vehicle users are prohibited by section 111 of title 23, United States Code.
 
 &emsp;(3)
 
 HOV facilities.—No funds may be provided under this section for a project which will result in the construction of new capacity available to single occupant vehicles unless the project consists of a high occupancy vehicle facility available to single occupant vehicles only at other than peak travel times.
+
+&emsp;(4)
+
+Locks and dams; marine highways.—For each fiscal year, a State may not obligate more than 10 percent of the funds apportioned to the State under section 104(b)(4) for projects described in paragraphs (10) and (11) of subsection (b).
 
 (d)
 
@@ -130,7 +148,7 @@ Allocation to entities.—A State may allocate funds apportioned under section 1
 
 Alternative fuel projects.—In the case of a project that will provide for the use of alternative fuels by privately owned vehicles or vehicle fleets, activities eligible for funding under this subsection—
 
-&emsp;&emsp;(A) may include the costs of vehicle refueling infrastructure, including infrastructure that would support the development, production, and use of emerging technologies that reduce emissions of air pollutants from motor vehicles, and other capital investments associated with the project;
+&emsp;&emsp;(A) may include the costs of vehicle refueling infrastructure, including infrastructure that would support the development, production, and use of emerging technologies that reduce emissions of air pollutants from motor vehicles and nonroad vehicles and nonroad engines used in construction projects or port-related freight operations, and other capital investments associated with the project;
 
 &emsp;&emsp;(B) shall include only the incremental cost of an alternative fueled vehicle, as compared to a conventionally fueled vehicle, that would otherwise be borne by a private party; and
 
@@ -154,11 +172,11 @@ Administrator.—The term "Administrator" means the Administrator of the Environ
 
 &emsp;&emsp;(B)
 
-Diesel retrofit.—The term "diesel retrofit" means a replacement, repowering, rebuilding, after treatment, or other technology, as determined by the Administrator.
+Diesel replacement or retrofit.—The term "diesel replacement or retrofit" means a replacement or retrofit, repowering, rebuilding, after treatment, or other technology, as determined by the Administrator.
 
 &emsp;(2)
 
-Emission reduction guidance.—The Administrator, in consultation with the Secretary, shall publish a list of diesel retrofit technologies and supporting technical information for—
+Emission reduction guidance.—The Administrator, in consultation with the Secretary, shall publish a list of diesel replacement or retrofit technologies and supporting technical information for—
 
 &emsp;&emsp;(A) diesel emission reduction technologies certified or verified by the Administrator, the California Air Resources Board, or any other entity recognized by the Administrator for the same purpose;
 
@@ -168,11 +186,11 @@ Emission reduction guidance.—The Administrator, in consultation with the Secre
 
 &emsp;(3)
 
-Priority consideration.—States and metropolitan planning organizations shall give priority in areas designated as nonattainment or maintenance for PM2.5 under the Clean Air Act (42 U.S.C. 7401 et seq.) in distributing funds received for congestion mitigation and air quality projects and programs from apportionments under section 104(b)(4) to projects that are proven to reduce PM2.5, including diesel retrofits.
+Priority consideration.—States and metropolitan planning organizations shall give priority in areas designated as nonattainment or maintenance for PM2.5 under the Clean Air Act (42 U.S.C. 7401 et seq.) in distributing funds received for congestion mitigation and air quality projects and programs from apportionments under section 104(b)(4) to projects that are proven to reduce PM2.5, including diesel replacements or retrofits.
 
 &emsp;(4)
 
-No effect on authority or restrictions.—Nothing in this subsection modifies or otherwise affects any authority or restriction established under the Clean Air Act (42 U.S.C.7401 et seq.) or any other law (other than provisions of this title relating to congestion mitigation and air quality).
+No effect on authority or restrictions.—Nothing in this subsection modifies or otherwise affects any authority or restriction established under the Clean Air Act (42 U.S.C. 7401 et seq.) or any other law (other than provisions of this title relating to congestion mitigation and air quality).
 
 (h)
 
@@ -230,7 +248,11 @@ Areas.—
 
 &emsp;(1)
 
-In general.—For any State that has a nonattainment or maintenance area for fine particulate matter, an amount equal to 25 percent of the funds apportioned to each State under section 104(b)(4) for a nonattainment or maintenance area that are based all or in part on the weighted population of such area in fine particulate matter nonattainment shall be obligated to projects that reduce such fine particulate matter emissions in such area, including diesel retrofits.
+In general.—For any State that has a nonattainment or maintenance area for fine particulate matter, an amount equal to 25 percent of the funds apportioned to each State under section 104(b)(4) for a nonattainment or maintenance area that are based all or in part on the weighted population of such area in fine particulate matter nonattainment shall be obligated to projects that—
+
+&emsp;&emsp;(A) reduce such fine particulate matter emissions in such area, including diesel replacements or retrofits; and
+
+&emsp;&emsp;(B) to the extent practicable, prioritize benefits to disadvantaged communities orlow-income populations living in, or immediately adjacent to, such area.
 
 &emsp;(2)
 
@@ -276,17 +298,57 @@ In general.—Each metropolitan planning organization serving a transportation m
 
 Updated plans.—Performance plans shall be updated biennially and include a separate report that assesses the progress of the program of projects under the previous plan in achieving the air quality and traffic congestion targets of the previous plan.
 
+&emsp;(3)
+
+Assistance to metropolitan planning organizations.—
+
+&emsp;&emsp;(A)
+
+In general.—On the request of a metropolitan planning organization, the Secretary may assist the metropolitan planning organization tracking progress made in minority or low-income populations as part of a performance plan under this subsection.
+
+&emsp;&emsp;(B)
+
+Savings provision.—Nothing in this paragraph provides the Secretary the authority—
+
+&emsp;&emsp;&emsp;(i) to change the performance measures under section 150(c)(5) or the performance targets established under section 134(h)(2) or 150(d); or
+
+&emsp;&emsp;&emsp;(ii) to establish any other Federal requirement.
+
 (m)
 
-Operating Assistance.—A State may obligate funds apportioned under section 104(b)(4) in an area of such State that is otherwise eligible for obligations of such funds for operating costs under chapter 53 of title 49 or on a system for which CMAQ funding was made available, obligated or expended in fiscal year 2012, or on a State-Supported <sup>1</sup> Amtrak route with a valid cost-sharing agreement under section 209 of the Passenger Rail Investment and Improvement Act of 2008 and no current nonattainment areas under subsection (d), and shall have no imposed time limitation.
+Operating Assistance.—
 
-(Added Pub. L. 93–87, title I, §142(a), Aug. 13, 1973, 87 Stat. 272; amended Pub. L. 102–240, title I, §1008(a), Dec. 18, 1991, 105 Stat. 1932; Pub. L. 102–388, title III, §380, Oct. 6, 1992, 106 Stat. 1562; Pub. L. 104–59, title III, §319(a)(1), (b), Nov. 28, 1995, 109 Stat. 588, 589; Pub. L. 104–88, title IV, §405(a)(2), (b), Dec. 29, 1995, 109 Stat. 956, 957; Pub. L. 105–178, title I, §1110(a)–(d)(1), June 9, 1998, 112 Stat. 142, 143; Pub. L. 109–59, title I, §1808(a)–(f), Aug. 10, 2005, 119 Stat. 1461–1463; Pub. L. 112–141, div. A, title I, §1113(a), (b), July 6, 2012, 126 Stat. 460; Pub. L. 113–76, div. L, title I, §125, Jan. 17, 2014, 128 Stat. 587; Pub. L. 114–94, div. A, title I, §§1109(c)(5), 1114, Dec. 4, 2015, 129 Stat. 1343, 1348; Pub. L. 115–141, div. L, title IV, §421, Mar. 23, 2018, 132 Stat. 1045.)
+&emsp;(1)
+
+In general.—A State may obligate funds apportioned under section 104(b)(4) in an area of the State that is otherwise eligible for obligations of such funds for operating costs—
+
+&emsp;&emsp;(A) under chapter 53 of title 49; or
+
+&emsp;&emsp;(B) on—
+
+&emsp;&emsp;&emsp;(i) a system for which CMAQ funding was eligible, made available, obligated, or expended in fiscal year 2012; or
+
+&emsp;&emsp;&emsp;(ii) a State-supported Amtrak route with a valid cost-sharing agreement under section 209 of the Passenger Rail Investment and Improvement Act of 2008 (49 U.S.C. 24101 note; Public Law 110–432) and no current nonattainment areas under subsection (d).
+
+&emsp;(2)
+
+No time limitation.—Operating assistance provided under paragraph (1) shall have no imposed time limitation if the operating assistance is for—
+
+&emsp;&emsp;(A) a route described in subparagraph (B) of that paragraph; or
+
+&emsp;&emsp;(B) a transit system that is located in—
+
+&emsp;&emsp;&emsp;(i) a non-urbanized area; or
+
+&emsp;&emsp;&emsp;(ii) an urbanized area with a population of 200,000 or fewer.
+
+(Added Pub. L. 93–87, title I, §142(a), Aug. 13, 1973, 87 Stat. 272; amended Pub. L. 102–240, title I, §1008(a), Dec. 18, 1991, 105 Stat. 1932; Pub. L. 102–388, title III, §380, Oct. 6, 1992, 106 Stat. 1562; Pub. L. 104–59, title III, §319(a)(1), (b), Nov. 28, 1995, 109 Stat. 588, 589; Pub. L. 104–88, title IV, §405(a)(2), (b), Dec. 29, 1995, 109 Stat. 956, 957; Pub. L. 105–178, title I, §1110(a)–(d)(1), June 9, 1998, 112 Stat. 142, 143; Pub. L. 109–59, title I, §1808(a)–(f), Aug. 10, 2005, 119 Stat. 1461–1463; Pub. L. 112–141, div. A, title I, §1113(a), (b), July 6, 2012, 126 Stat. 460; Pub. L. 113–76, div. L, title I, §125, Jan. 17, 2014, 128 Stat. 587; Pub. L. 114–94, div. A, title I, §§1109(c)(5), 1114, Dec. 4, 2015, 129 Stat. 1343, 1348; Pub. L. 115–141, div. L, title IV, §421, Mar. 23, 2018, 132 Stat. 1045; Pub. L. 117–58, div. A, title I, §11115, Nov. 15, 2021, 135 Stat. 480.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Clean Air Act, referred to in subsecs. (b), (d)(1), (3), (f)(5), and (g)(3), (4), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. Section 108(f)(1)(A) of the Act is classified to section 7408(f)(1)(A) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+The Clean Air Act, referred to in subsecs. (b), (d)(1), (3), (f)(5), and (g)(3), (4), is act July 14, 1955, ch. 360, 69Stat. 322, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. Section 108(f)(1)(A) of the Act is classified to section 7408(f)(1)(A) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
 The date of enactment of this paragraph, referred to in subsec. (b)(5), is the date of enactment of Pub. L. 105–178, which was approved June 9, 1998.
 
@@ -299,6 +361,36 @@ The date of enactment of this subsection, referred to in subsec. (g)(2)(B), is t
 Section 209 of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsec. (m), is section 209 of div. B of Pub. L. 110–432, which is set out as a note under section 24101 of Title 49, Transportation.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (b). Pub. L. 117–58, §11115(1)(A), substituted "subsections (d) and (m)(1)(B)(ii)" for "subsection (d)" in introductory provisions.
+
+Subsec. (b)(7). Pub. L. 117–58, §11115(1)(B), inserted "shared micromobility (including bikesharing and shared scooter systems)," after "carsharing,".
+
+Subsec. (b)(8)(A). Pub. L. 117–58, §11115(1)(C)(i)(I), inserted "replacements or" before "retrofits" in introductory provisions.
+
+Subsec. (b)(8)(A)(i). Pub. L. 117–58, §11115(1)(C)(i)(II), added cl. (i) and struck out former cl. (i) which read as follows: "for motor vehicles (as defined in section 216 of the Clean Air Act (42 U.S.C. 7550)); or".
+
+Subsec. (b)(8)(B). Pub. L. 117–58, §11115(1)(C)(ii), inserted "replacements or" before "retrofits".
+
+Subsec. (b)(8)(C). Pub. L. 117–58, §11115(1)(C)(i)(III), (iii), added subpar. (C).
+
+Subsec. (b)(10), (11). Pub. L. 117–58, §11115(1)(D), (E), added pars. (10) and (11).
+
+Subsec. (c)(4). Pub. L. 117–58, §11115(2), added par. (4).
+
+Subsec. (f)(4)(A). Pub. L. 117–58, §11115(3), inserted "and nonroad vehicles and nonroad engines used in construction projects or port-related freight operations" after "motor vehicles".
+
+Subsec. (g)(1)(B). Pub. L. 117–58, §11115(4)(A), in heading, inserted "replacement or" before "retrofit" and, in text, substituted "The term 'diesel replacement or retrofit' means" for "The term 'diesel retrofit' means" and inserted "or retrofit" after "replacement".
+
+Subsec. (g)(2). Pub. L. 117–58, §11115(4)(B), inserted "replacement or" before "retrofit" in introductory provisions.
+
+Subsec. (g)(3). Pub. L. 117–58, §11115(4)(C), inserted "replacements or" before "retrofits".
+
+Subsec. (k)(1). Pub. L. 117–58, §11115(5), substituted "that—" and subpars. (A) and (B) for "that reduce such fine particulate matter emissions in such area, including diesel retrofits."
+
+Subsec. (l)(3). Pub. L. 117–58, §11115(6), added par. (3).
+
+Subsec. (m). Pub. L. 117–58, §11115(7), added subsec. (m) and struck out former subsec. (m). Prior to amendment, text read as follows: "A State may obligate funds apportioned under section 104(b)(4) in an area of such State that is otherwise eligible for obligations of such funds for operating costs under chapter 53 of title 49 or on a system for which CMAQ funding was made available, obligated or expended in fiscal year 2012, or on a State-Supported Amtrak route with a valid cost-sharing agreement under section 209 of the Passenger Rail Investment and Improvement Act of 2008 and no current nonattainment areas under subsection (d), and shall have no imposed time limitation."
 
 <b>2018</b>—Subsec. (m). Pub. L. 115–141 inserted "or on a State-Supported Amtrak route with a valid cost-sharing agreement under section 209 of the Passenger Rail Investment and Improvement Act of 2008 and no current nonattainment areas under subsection (d)," after "2012,".
 
@@ -338,7 +430,7 @@ Subsec. (m). Pub. L. 114–94, §1114(7), substituted "section 104(b)(4)" for "s
 
 <b>2014</b>—Subsec. (m). Pub. L. 113–76 substituted "for which CMAQ funding was made available, obligated or expended in fiscal year 2012, and shall have no imposed time limitation" for "that was previously eligible under this section".
 
-<b>2012</b>—Subsec. (b). Pub. L. 112–141, §1113(a)(1), (5), in introductory provisions, substituted "in subsection (d)" for "in subsection (c)" and "section 104(b)(4)" for "section 104(b)(2)" and struck out concluding provisions which read as follows: "No funds may be provided under this section for a project which will result in the construction of new capacity available to single occupant vehicles unless the project consists of a high occupancy vehicle facility available to single occupant vehicles only at other than peak travel times. In areas of a State which are nonattainment for ozone or carbonmonoxide, or both, and for PM–10 resulting from transportation activities, the State may obligate such funds for any project or program under paragraph (1) or (2) without regard to any limitation of the Department of Transportation relating to the type of ambient air quality standard such project or program addresses."
+<b>2012</b>—Subsec. (b). Pub. L. 112–141, §1113(a)(1), (5), in introductory provisions, substituted "in subsection (d)" for "in subsection (c)" and "section 104(b)(4)" for "section 104(b)(2)" and struck out concluding provisions which read as follows: "No funds may be provided under this section for a project which will result in the construction of new capacity available to single occupant vehicles unless the project consists of a high occupancy vehicle facility available to single occupant vehicles only at other than peak travel times. In areas of a State which are nonattainment for ozone or carbon monoxide, or both, and for PM–10 resulting from transportation activities, the State may obligate such funds for any project or program under paragraph (1) or (2)without regard to any limitation of the Department of Transportation relating to the type of ambient air quality standard such project or program addresses."
 
 Subsec. (b)(5). Pub. L. 112–141, §1113(a)(2), inserted "add turning lanes," after "improve intersections," and substituted "paragraph, including programs or projects to improve incident and emergency response or improve mobility, such as through real-time traffic, transit, and multimodal traveler information;" for "paragraph;".
 
@@ -426,6 +518,10 @@ Pub. L. 104–59, §319(b)(3), as amended by Pub. L. 104–88, §405(a)(2), adde
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as a note under section 101 of this title.
+
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
@@ -443,6 +539,242 @@ Pub. L. 104–88, title IV, §405(a), Dec. 29, 1995, 109 Stat. 956, provided tha
 #### Effective Date of 1991 Amendment
 
 Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as a note under section 104 of this title.
+
+#### Reduction of Truck Emissions at Port Facilities
+
+Pub. L. 117–58, div. A, title I, §11402, Nov. 15, 2021, 135 Stat. 553, provided that:
+
+"(a)
+
+Establishment of Program.—
+
+&emsp;"(1)
+
+In general.—The Secretary \[of Transportation\] shall establish a program to reduce idling at port facilities, under which the Secretary shall—
+
+&emsp;&emsp;"(A) study how ports and intermodal port transfer facilities would benefit from increased opportunities to reduce emissions at ports, including through the electrification of port operations;
+
+&emsp;&emsp;"(B) study emerging technologies and strategies that may help reduce port-related emissions from idling trucks; and
+
+&emsp;&emsp;"(C) coordinate and provide funding to test, evaluate, and deploy projects that reduce port-related emissions from idling trucks, including through the advancement of port electrification and improvements in efficiency, focusing on port operations, including heavy-duty commercial vehicles, and other related projects.
+
+&emsp;"(2)
+
+Consultation.—In carrying out the program under this subsection, the Secretary may consult with the Secretary of Energy and the Administrator of the Environmental Protection Agency.
+
+"(b)
+
+Grants.—
+
+&emsp;"(1)
+
+In general.—In carrying out subsection (a)(1)(C), the Secretary shall award grants to fund projects that reduce emissions at ports, including through the advancement of port electrification.
+
+&emsp;"(2)
+
+Cost share.—A grant awarded under paragraph (1) shall not exceed 80 percent of the total cost of the project funded by the grant.
+
+&emsp;"(3)
+
+Coordination.—In carrying out the grant program under this subsection, the Secretary shall—
+
+&emsp;&emsp;"(A) to the maximum extent practicable, leverage existing resources and programs of the Department \[of Transportation\] and other relevant Federal agencies; and
+
+&emsp;&emsp;"(B) coordinate with other Federal agencies, as the Secretary determines to be appropriate.
+
+&emsp;"(4)
+
+Application; selection.—
+
+&emsp;&emsp;"(A)
+
+Application.—The Secretary shall solicit applications for grants under paragraph (1) at such time, in such manner, and containing such information as the Secretary determines to be necessary.
+
+&emsp;&emsp;"(B)
+
+Selection.—The Secretary shall make grants under paragraph (1) by not later than April 1 of each fiscal year for which funding is made available.
+
+&emsp;"(5)
+
+Requirement.—Notwithstanding any other provision of law, any project funded by a grant under this subsection shall be treated as a project on a Federal-aid highway under chapter 1 of title 23, United States Code.
+
+"(c)
+
+Report.—Not later than 1 year after the date on which all of the projects funded with a grant under subsection (b) are completed, the Secretary shall submit to Congress a report that includes—
+
+&emsp;"(1) the findings of the studies described in subparagraphs (A) and (B) of subsection (a)(1);
+
+&emsp;"(2) the results of the projects that received a grant under subsection (b);
+
+&emsp;"(3) any recommendations for workforce development and training opportunities with respect to port electrification; and
+
+&emsp;"(4) any policy recommendations based on the findings and results described in paragraphs (1) and (2)."
+
+#### Healthy Streets Program
+
+Pub. L. 117–58, div. A, title I, §11406, Nov. 15, 2021, 135 Stat. 575, provided that:
+
+"(a)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Cool pavement.—The term 'cool pavement' means a pavement with reflective surfaces with higher albedo to decrease the surface temperature of that pavement.
+
+&emsp;"(2)
+
+Eligible entity.—The term 'eligible entity' means—
+
+&emsp;&emsp;"(A) a State;
+
+&emsp;&emsp;"(B) a metropolitan planning organization;
+
+&emsp;&emsp;"(C) a unit of local government;
+
+&emsp;&emsp;"(D) a Tribal government; and
+
+&emsp;&emsp;"(E) a nonprofit organization working in coordination with an entity described in subparagraphs (A) through (D).
+
+&emsp;"(3)
+
+Low-income community.—The term 'low-income community' means a census block group in which not less than 30 percent of the population lives below the poverty line (as defined in section 673 of the Community Services Block Grant Act (42 U.S.C. 9902)).
+
+&emsp;"(4)
+
+Porous pavement.—The term 'porous pavement' means a paved surface with a higher than normal percentage of air voids to allow water to pass through the surface and infiltrate into the subsoil.
+
+&emsp;"(5)
+
+Program.—The term 'program' means the Healthy Streets program established under subsection (b).
+
+&emsp;"(6)
+
+State.—The term 'State' has the meaning given the term in section 101(a) of title 23, United States Code.
+
+&emsp;"(7)
+
+Tribal government.—The term 'Tribal government' means the recognized governing body of any Indian or Alaska Native tribe, band, nation, pueblo, village, community, component band, or component reservation, individually identified (including parenthetically) in the list published most recently as of the date of enactment of this Act \[Nov. 15, 2021\] pursuant to section 104 of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 5131).
+
+"(b)
+
+Establishment.—The Secretary \[of Transportation\] shall establish a discretionary grant program, to be known as the 'Healthy Streets program', to provide grants to eligible entities—
+
+&emsp;"(1) to deploy cool pavements and porous pavements; and
+
+&emsp;"(2) to expand tree cover.
+
+"(c)
+
+Goals.—The goals of the program are—
+
+&emsp;"(1) to mitigate urban heat islands;
+
+&emsp;"(2) to improve air quality; and
+
+&emsp;"(3) to reduce—
+
+&emsp;&emsp;"(A) the extent of impervious surfaces;
+
+&emsp;&emsp;"(B) stormwater runoff and flood risks; and
+
+&emsp;&emsp;"(C) heat impacts to infrastructure and road users.
+
+"(d)
+
+Application.—
+
+&emsp;"(1)
+
+In general.—To be eligible to receive a grant under the program, an eligible entity shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+
+&emsp;"(2)
+
+Requirements.—The application submitted by an eligible entity under paragraph (1) shall include a description of—
+
+&emsp;&emsp;"(A) how the eligible entity would use the grant funds; and
+
+&emsp;&emsp;"(B) the contribution that the projects intended to be carried out with grant funds would make to improving the safety, health outcomes, natural environment, and quality of life in low-income communities and disadvantaged communities.
+
+"(e)
+
+Use of Funds.—An eligible entity that receives a grant under the program may use the grant funds for 1 or more of the following activities:
+
+&emsp;"(1) Conducting an assessment of urban heat islands to identify hot spot areas of extreme heat or elevated air pollution.
+
+&emsp;"(2) Conducting a comprehensive tree canopy assessment, which shall assess the current tree locations and canopy, including—
+
+&emsp;&emsp;"(A) an inventory of the location, species, condition, and health of existing tree canopies and trees on public facilities; and
+
+&emsp;&emsp;"(B) an identification of—
+
+&emsp;&emsp;&emsp;"(i) the locations where trees need to be replaced;
+
+&emsp;&emsp;&emsp;"(ii) empty tree boxes or other locations where trees could be added; and
+
+&emsp;&emsp;&emsp;"(iii) flood-prone locations where trees or other natural infrastructure could mitigate flooding.
+
+&emsp;"(3) Conducting an equity assessment by mapping tree canopy gaps, flood-prone locations, and urban heat island hot spots as compared to—
+
+&emsp;&emsp;"(A) pedestrian walkways and public transportation stop locations;
+
+&emsp;&emsp;"(B) low-income communities; and
+
+&emsp;&emsp;"(C) disadvantaged communities.
+
+&emsp;"(4) Planning activities, including developing an investment plan based on the results of the assessments carried out under paragraphs (1), (2), and (3).
+
+&emsp;"(5) Purchasing and deploying cool pavements to mitigate urban heat island hot spots.
+
+&emsp;"(6) Purchasing and deploying porous pavement to mitigate flooding and stormwater runoff in—
+
+&emsp;&emsp;"(A) pedestrian-only areas; and
+
+&emsp;&emsp;"(B) areas of low-volume, low-speed vehicular use.
+
+&emsp;"(7) Purchasing of trees, site preparation, planting of trees, ongoing maintenance and monitoring of trees, and repairing of storm damage to trees, with priority given to—
+
+&emsp;&emsp;"(A) to the extent practicable, the planting of native species; and
+
+&emsp;&emsp;"(B) projects located in a neighborhood with lower tree cover or higher maximum daytime summer temperatures compared to surrounding neighborhoods.
+
+&emsp;"(8) Assessing underground infrastructure and coordinating with local transportation and utility providers.
+
+&emsp;"(9) Hiring staff to conduct any of the activities described in paragraphs (1) through (8).
+
+"(f)
+
+Priority.—In awarding grants to eligible entities under the program, the Secretary shall give priority to an eligible entity—
+
+&emsp;"(1) proposing to carry out an activity or project in a low-income community or a disadvantaged community;
+
+&emsp;"(2) that has entered into a community benefits agreement with representatives of the community; or
+
+&emsp;"(3) that is partnering with a qualified youth or conservation corps (as defined in section 203 of the Public Lands Corps Act of 1993 (16 U.S.C. 1722)).
+
+"(g)
+
+Distribution Requirement.—Of the amounts made available to carry out the program for each fiscal year, not less than 80 percent shall be provided for projects in urbanized areas (as defined in section 101(a) of title 23, United States Code).
+
+"(h)
+
+Federal Share.—
+
+&emsp;"(1)
+
+In general.—Except as provided under paragraph (2), the Federal share of the cost of a project carried out under the program shall be 80 percent.
+
+&emsp;"(2)
+
+Waiver.—The Secretary may increase the Federal share requirement under paragraph (1) to 100 percent for projects carried out by an eligible entity that demonstrates economic hardship, as determined by the Secretary.
+
+"(i)
+
+Maximum Grant Amount.—An individual grant under this section shall not exceed $15,000,000.
+
+"(j)
+
+Treatment of Projects.—Notwithstanding any other provision of law, a project assisted under this section shall be treated as a project on a Federal-aid highway under chapter 1 of title 23, United States Code."
 
 #### Determination by Secretary; Water-Phased Hydrocarbon Fuel Emulsion Technologies
 
@@ -545,6 +877,4 @@ Use of unallocated funds.—If the total amount of funds made available from the
 &emsp;"(C) \[probably should be (E)\]
 
 Contract authority.—Funds authorized to carry out this subsection shall be available for obligation in the same manner as if the funds were apportioned under chapter 1 of title 23, United States Code; except that the Federal share of the cost of any project under this subsection and the availability of funds authorized to carry out this subsection shall be determined in accordance with this subsection."
-
-<i><sup>1</sup></i><i> So in original. Probably should be "State-supported".</i>
 

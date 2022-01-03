@@ -50,6 +50,8 @@ For purposes of this subchapter, works of art owned by a nonresident not a citiz
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 397; Pub. L. 89–809, title I, §108(d), Nov. 13, 1966, 80 Stat. 1572; Pub. L. 98–369, div. A, title I, §127(d), July 18, 1984, 98 Stat. 651; Pub. L. 100–647, title I, §1012(g)(4), Nov. 10, 1988, 102 Stat. 3501; Pub. L. 103–66, title XIII, §13237(b), Aug. 10, 1993, 107 Stat. 508; Pub. L. 105–34, title XIII, §1304(a), Aug. 5, 1997, 111 Stat. 1040; Pub. L. 108–357, title IV, §411(b), Oct. 22, 2004, 118 Stat. 1504; Pub. L. 110–343, div. C, title II, §207(a), Oct. 3, 2008, 122 Stat. 3865; Pub. L. 111–312, title VII, §726(a), Dec. 17, 2010, 124 Stat. 3316.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (d)(3). Pub. L. 111–312 substituted "December 31, 2011" for "December 31, 2009".
@@ -72,13 +74,15 @@ For purposes of this subchapter, works of art owned by a nonresident not a citiz
 
 <b>1966</b>—Subsec. (b). Pub. L. 89–809 substituted amounts described in section 861(c) if any interest thereon, were such interest received by the decedent at the time of his death, would be treated by reason of section 861(a)(1)(A) as income from sources without the United States, and deposits with a foreign branch of a domestic corporation or domestic partnership, if such branch is engaged in the commercial banking business for moneys deposited with any person carrying on the banking business by or for a nonresident not a citizen of the United States who was not engaged in business in the United States at the time of his death as the property not to be deemed property within the United States for purposes of this subchapter.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Pub. L. 111–312, title VII, §726(b), Dec. 17, 2010, 124 Stat. 3317, provided that: "The amendment made by this section \[amending this section\] shall apply to estates of decedents dying after December 31, 2009."
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–343, div. C, title II, §207(b), Oct. 3, 2008, 122 Stat. 3865, provided that: "The amendment made by this section \[amending this section\] shall apply to decedents dying after December 31, 2007."
+Pub. L. 110–343, div. C, title II, §207(b), Oct. 3, 2008, 122 Stat. 3865, provided that: "The amendment made bythis section \[amending this section\] shall apply to decedents dying after December 31, 2007."
 
 #### Effective Date of 2004 Amendment
 

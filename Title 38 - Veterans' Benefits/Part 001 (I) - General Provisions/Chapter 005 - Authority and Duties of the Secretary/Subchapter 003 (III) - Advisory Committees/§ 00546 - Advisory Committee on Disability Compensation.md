@@ -82,7 +82,7 @@ Another prior section 620C, added Pub. L. 100–6, §2(a), Feb. 12, 1987, 101 St
 
 Prior sections 621 to 624 were renumbered sections 1721 to 1724 of this title, respectively.
 
-Prior section 625, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1144; Pub. L. 91–24, §6(a), June 11, 1969, 83 Stat. 34, related to arrests for crimes in hospital and domiciliary reservations, prior to repeal by Pub. L. 93–43, §§4(b), 10(a), June 18, 1973, 87 Stat. 79, 88, effective June 18, 1973.
+Prior section 625, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1144; Pub. L. 91–24, §6(a), June 11, 1969, 83 Stat. 34, related to arrests for crimes in hospital and domiciliaryreservations, prior to repeal by Pub. L. 93–43, §§4(b), 10(a), June 18, 1973, 87 Stat. 79, 88, effective June 18, 1973.
 
 Prior sections 626 to 631 were renumbered sections 1726 to 1731 of this title, respectively.
 

@@ -56,7 +56,7 @@ As used in this section:
 
 (2) For purposes of subparagraphs (B) and (C) of paragraph (1), the term "farming or ranching operations" shall include rent paid by lessees of agricultural land during any period in which the borrower-owner, due to circumstances beyond the control of the borrower-owner, is unable to actively farm such land.
 
-(3) For the purposes of paragraph (1)(E), the failure of the borrower-owner to make timely rental payments shall constitute cause for the termination of all rights of such borrower-owner to possession and occupancy of the homestead property under this section. In effecting any such termination, the Secretary shall afford the borrower-owner or lessee the notice and hearing procedural rights described in section 1983b <sup>2</sup> of this title and shall comply with all applicable State and local laws governing eviction from residential property.
+(3) For the purposes of paragraph (1)(E), the failure of the borrower-owner to make timely rental payments shall constitute cause for the termination of all rights of such borrower-ownerto possession and occupancy of the homestead property under this section. In effecting any such termination, the Secretary shall afford the borrower-owner or lessee the notice and hearing procedural rights described in section 1983b <sup>2</sup> of this title and shall comply with all applicable State and local laws governing eviction from residential property.
 
 (4)(A) The period of occupancy allowed the prior owner of homestead property under this section shall be the period requested in writing by the prior owner, except that such period shall not exceed 5 years.
 
@@ -83,6 +83,8 @@ The Secretary may enter into contracts authorized by this section before the Sec
 In the event of any conflict between this section and any provision of the law of any State relating to the right of a borrower-owner to designate for separate sale or redeem part or all of the real property securing a loan foreclosed on by the lender thereof, such provision of State law shall prevail.
 
 (Pub. L. 87–128, title III, §352, as added Pub. L. 99–198, title XIII, §1321, Dec. 23, 1985, 99 Stat. 1532; amended Pub. L. 100–233, title VI, §614, Jan. 6, 1988, 101 Stat. 1675; Pub. L. 102–237, title V, §501(g), title VII, §701(h)(2), Dec. 13, 1991, 105 Stat. 1867, 1880; Pub. L. 102–552, title V, §516(i), (j)(1), Oct. 28, 1992, 106 Stat. 4138; Pub. L. 104–127, title VI, §644, Apr. 4, 1996, 110 Stat. 1103; Pub. L. 110–234, title V, §5305, May 22, 2008, 122 Stat. 1153; Pub. L. 110–246, §4(a), title V, §5305, June 18, 2008, 122 Stat. 1664, 1915.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -125,6 +127,8 @@ Subsec. (c). Pub. L. 100–233, §614(3), completely revised and restated subsec
 Subsec. (d). Pub. L. 100–233, §614(3), inserted at end "Such terms and conditions shall not be less favorable than those intended to be offered to any other buyer."
 
 Subsecs. (f), (g). Pub. L. 100–233, §614(4), added subsecs. (f) and (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

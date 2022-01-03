@@ -2,7 +2,7 @@
 
 #### (a) Amount; distribution, computation, etc.
 
-(1)(A) Except as provided in subparagraph (B), the Secretary shall, from that percentage of the amount appropriated under section 8621(b) of this title for each fiscal year which is remaining after reserving any amount permitted to be reserved under section 8628a of this title and after the amount of allotments for such fiscal year under subsection (b)(1) is determined by the Secretary, allot to each State an amount equal to such remaining percentage multiplied by the State's allotment percentage.
+(1)(A) Except as provided in subparagraph (B), the Secretary shall, from that percentage of the amount appropriated under section 8621(b) ofthis title for each fiscal year which is remaining after reserving any amount permitted to be reserved under section 8628a of this title and after the amount of allotments for such fiscal year under subsection (b)(1) is determined by the Secretary, allot to each State an amount equal to such remaining percentage multiplied by the State's allotment percentage.
 
 (B) From the sums appropriated therefor after reserving any amount permitted to be reserved under section 8628a of this title, if for any period a State has a plan which is described in section 8624(c)(1) of this title, the Secretary shall pay to such State an amount equal to 100 percent of the expenditures of such State made during such period in carrying out such plan, including administrative costs (subject to the provisions of section 8624(b)(9)(B) of this title), with respect to households described in section 8624(b)(2) of this title.
 
@@ -20,7 +20,7 @@
 
 #### (b) Allotments to insular areas
 
-(1) The Secretary shall apportion not less than one-tenth of 1 percent, and not more than one-half of 1 percent, of the amounts appropriated for each fiscal year to carry out this subchapter on the basis of need among the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands. The Secretary shall determine the total amount to be apportioned under this paragraphfor any fiscal year (which shall not exceed one-half of 1 percent) after evaluating the extent to which each jurisdiction specified in the preceding sentence requires assistance under this paragraph for the fiscal year involved.
+(1) The Secretary shall apportion not less than one-tenth of 1 percent, and not more than one-half of 1 percent, of the amounts appropriated for each fiscal year to carry out this subchapter on the basis of need among the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands. The Secretary shall determine the total amount to be apportioned under this paragraph for any fiscal year (which shall not exceed one-half of 1 percent) after evaluating the extent to which each jurisdiction specified in the preceding sentence requires assistance under this paragraph for the fiscal year involved.
 
 (2) Each jurisdiction to which paragraph (1) applies may receive grants under this subchapter upon an application submitted to the Secretary containing provisions which describe the programs for which assistance is sought under this subchapter, and which are consistent with the requirements of section 8624 of this title.
 
@@ -70,6 +70,8 @@ Notwithstanding subsections (a) through (d), the Secretary may allot amounts app
 
 (Pub. L. 97–35, title XXVI, §2604, Aug. 13, 1981, 95 Stat. 894; Pub. L. 98–558, title VI, §§603, 604, Oct. 30, 1984, 98 Stat. 2890; Pub. L. 99–425, title V, §§502(a), 503, 505(b), Sept. 30, 1986, 100 Stat. 973–975; Pub. L. 101–501, title VII, §703, Nov. 3, 1990, 104 Stat. 1258; Pub. L. 103–252, title III, §§304(c), 311(c)(3), May 18, 1994, 108 Stat. 659, 662; Pub. L. 105–285, title III, §§304(b), 305, Oct. 27, 1998, 112 Stat. 2757.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Public Law 98–139, referred to in subsec. (a)(2), is Pub. L. 98–139, Oct. 31, 1983, 97 Stat. 871, known as the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriation Act, 1984. For complete classification of this Act to the Code see Tables.
@@ -92,7 +94,7 @@ Subsec. (f). Pub. L. 105–285, §305(3), struck out subsec. (f) relating to opt
 
 Subsec. (g). Pub. L. 105–285, §305(5), redesignated subsec. (g) as (e).
 
-Pub. L. 105–285, §§304(b), 305(4), substituted "subsections (a) through (d)" for "subsections (a) through (f)" and "In determining whether to make such an allotment to a State, the Secretary shall take into account the extent to which the State was affected by the natural disaster or other emergency involved, the availability to the State of other resources under the program carried out under this subchapter or any other program, and such other factors as the Secretary may find to be relevant. Not later than 30 days after making the determination, but prior to releasing an allotted amount to a State, the Secretary shall notify Congress of the allotments made pursuant to this subsection." for "In determining to which State or States additional funds may be allotted, the Secretary shall take into account the extent to which a State was affected by the emergency or disaster, the availability to an affected State of other resources under this or any other program, and such other factors as the Secretary determines relevant. The Secretary shall notify Congress of the allotment pursuant to this subsection prior to releasing the allotted funds."
+Pub. L. 105–285, §§304(b), 305(4), substituted "subsections (a) through (d)" for "subsections (a) through (f)" and "In determining whether to make such an allotment to a State, the Secretary shall take into account the extent to which the State was affected by the natural disaster or other emergency involved, the availability to the State of other resources under the program carried out under this subchapter or any other program, and such other factors as the Secretary may find to be relevant. Not later than 30 days after making the determination, but prior to releasing an allotted amount to a State, the Secretary shall notify Congress of the allotments made pursuant to this subsection." for "In determining to which State or States additionalfunds may be allotted, the Secretary shall take into account the extent to which a State was affected by the emergency or disaster, the availability to an affected State of other resources under this or any other program, and such other factors as the Secretary determines relevant. The Secretary shall notify Congress of the allotment pursuant to this subsection prior to releasing the allotted funds."
 
 <b>1994</b>—Subsec. (b)(1). Pub. L. 103–252, §311(c)(3), inserted "of the United States" after "Virgin Islands".
 
@@ -120,6 +122,8 @@ Subsec. (e). Pub. L. 98–558, §603(c), struck out subsec. (e) which related to
 
 Subsec. (f). Pub. L. 98–558, §603(d), substituted "the funds payable to it" for "its allotment".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–252 effective Oct. 1, 1994, see section 314 of Pub. L. 103–252, set out as a note under section 8621 of this title.
@@ -130,7 +134,7 @@ Amendment by Pub. L. 101–501 effective Oct. 1, 1990, see section 1001(a) of Pu
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 502(a) of Pub. L. 99–425 effective Dec. 1, 1986, and amendment by sections 503 and505(b) of Pub. L. 99–425 effective Oct. 1, 1986, see section 1001 of Pub. L. 99–425, set out as a note under section 8621 of this title.
+Amendment by section 502(a) of Pub. L. 99–425 effective Dec. 1, 1986, and amendment by sections 503 and 505(b) of Pub. L. 99–425 effective Oct. 1, 1986, see section 1001 of Pub. L. 99–425, set out as a note under section 8621 of this title.
 
 #### Effective Date of 1984 Amendment
 

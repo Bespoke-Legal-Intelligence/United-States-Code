@@ -36,7 +36,7 @@
 
 &emsp;(B) at any time after the confirmation of the plan, and after notice and a hearing, the court may grant a discharge to the debtor who has not completed payments under the plan if—
 
-&emsp;&emsp;(i) the value, as of the effective date of the plan, of property actually distributed under the plan on account of each allowed unsecured claim is not less than the amount thatwould have been paid on such claim if the estate of the debtor had been liquidated under chapter 7 on such date;
+&emsp;&emsp;(i) the value, as of the effective date of the plan, of property actually distributed under the plan on account of each allowed unsecured claim is not less than the amount that would have been paid on such claim if the estate of the debtor had been liquidated under chapter 7 on such date;
 
 &emsp;&emsp;(ii) modification of the plan under section 1127 is not practicable; and
 
@@ -104,7 +104,7 @@ Subsec. (d)(6). Pub. L. 109–8, §708, added par. (6).
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–353, §513(a), substituted "any creditor, equity security holder, or general partner in" for "any creditor or equity security holder of, or general partner in,".
 
-Subsec. (c). Pub. L. 98–353, §513(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read asfollows: "After confirmation of a plan, the property dealt with by the plan is free and clear of all claims and interests of creditors, of equity security holders, and of general partners in the debtor, except as otherwise provided in the plan or in the order confirming the plan."
+Subsec. (c). Pub. L. 98–353, §513(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "After confirmation of a plan, the property dealt with by the plan is free and clear of all claims and interests of creditors, of equity security holders, and of general partners in the debtor, except as otherwise provided in the plan or in the order confirming the plan."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

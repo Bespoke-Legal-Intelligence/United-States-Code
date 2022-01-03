@@ -52,7 +52,7 @@
 
 &emsp;&emsp;&emsp;(ii) An Indian health program operated by an Indian tribe or tribal organization pursuant to a contract, grant, cooperative agreement, or compact with the Indian Health Service pursuant to the Indian Self-Determination Act \[25 U.S.C. 5321 et seq.\].
 
-&emsp;&emsp;&emsp;(iii) An urban Indian health program operated by an urban Indian organizationpursuant to a grant or contract with the Indian Health Service pursuant to title V of the Indian Health Care Improvement Act \[25 U.S.C. 1651 et seq.\].
+&emsp;&emsp;&emsp;(iii) An urban Indian health program operated by an urban Indian organization pursuant to a grant or contract with the Indian Health Service pursuant to title V of the Indian Health Care Improvement Act \[25 U.S.C. 1651 et seq.\].
 
 #### (3) Choice of coverage
 
@@ -136,7 +136,7 @@
 
 #### (iii) Grievance and appeal procedures
 
-&emsp;&emsp;&emsp;The procedures available to an enrollee and a health care provider to challenge orappeal the failure of the organization to cover a service.
+&emsp;&emsp;&emsp;The procedures available to an enrollee and a health care provider to challenge or appeal the failure of the organization to cover a service.
 
 #### (iv) Information on covered items and services
 
@@ -190,7 +190,7 @@
 
 #### (C) "Emergency medical condition" defined
 
-&emsp;&emsp;In subparagraph (B)(ii), the term "emergency medical condition" means a medical condition manifesting itself by acute symptoms of sufficient severity (including severe pain) such that a prudent layperson, who possesses an average knowledge of health and medicine, could reasonably expect the absence of immediate medical attention to result in—
+&emsp;&emsp;In subparagraph (B)(ii), the term "emergency medical condition" means a medical condition manifesting itself by acute symptoms of sufficient severity (including severepain) such that a prudent layperson, who possesses an average knowledge of health and medicine, could reasonably expect the absence of immediate medical attention to result in—
 
 &emsp;&emsp;&emsp;(i) placing the health of the individual (or, with respect to a pregnant woman, the health of the woman or her unborn child) in serious jeopardy,
 
@@ -254,7 +254,7 @@
 
 #### (8) Compliance with certain maternity and mental health requirements
 
-&emsp;Each medicaid managed care organization shall comply with the requirements of subpart 2 of part A of title XXVII of the Public Health Service Act <sup>1</sup> insofar as such requirements apply and are effective with respect to a health insurance issuer that offers group health insurance coverage. In applying the previous sentence with respect to requirements under paragraph (8) of section300gg–26(a) of this title, a Medicaid managed care organization (or a prepaid inpatient health plan (as defined by the Secretary) or prepaid ambulatory health plan (as defined by the Secretary) that offers services to enrollees of a Medicaid managed care organization) shall be treated as in compliance with such requirements if the Medicaid managed care organization (or prepaid inpatient health plan or prepaid ambulatory health plan) is in compliance with subpart K of part 438 of title 42, Code of Federal Regulations, and section 438.3(n) of such title, or any successor regulation.
+&emsp;Each medicaid managed care organization shall comply with the requirements of subpart 2 of part A of title XXVII of the Public Health Service Act <sup>1</sup> insofar as such requirements apply and are effective with respect to a health insurance issuer that offers group health insurance coverage. In applying the previous sentence with respect to requirements under paragraph (8) of section 300gg–26(a) of this title, a Medicaid managed care organization (or a prepaid inpatient health plan (as defined by the Secretary) or prepaid ambulatory health plan (as defined by the Secretary) that offers services to enrollees of a Medicaid managed care organization) shall be treated as in compliance with such requirements if the Medicaid managed care organization (or prepaid inpatient health plan or prepaid ambulatory health plan) is in compliance with subpart K of part 438 of title 42, Code of Federal Regulations, and section 438.3(n) of such title, or any successor regulation.
 
 #### (c) Quality assurance standards
 
@@ -394,7 +394,7 @@
 
 #### (5) Contract requirement for managed care entities
 
-&emsp;With respect to any contract with a managed care entity under section 1396b(m) or1396d(t)(3) of this title (as applicable), no later than July 1, 2018, such contract shall include a provision that providers of services or persons terminated (as described in section 1396a(kk)(8) of this title) from participation under this subchapter, subchapter XVIII, or subchapter XXI shall be terminated from participating under this subchapter as a provider in any network of such entity that serves individuals eligible to receive medical assistance under this subchapter.
+&emsp;With respect to any contract with a managed care entity under section 1396b(m) or 1396d(t)(3) of this title (as applicable), no later than July 1, 2018, such contract shall include a provision that providers of services or persons terminated (as described in section 1396a(kk)(8) of this title) from participation under this subchapter, subchapter XVIII, or subchapter XXI shall be terminated from participating under this subchapter as a provider in any network of such entity that serves individuals eligible to receive medical assistance under this subchapter.
 
 #### (6) Enrollment of participating providers
 
@@ -588,6 +588,8 @@ Beginning not later than October 1, 2019, each contract under a State plan with 
 
 (Aug. 14, 1935, ch. 531, title XIX, §1932, as added and amended Pub. L. 105–33, title IV, §§4701(a), 4704(a), 4705(a), 4707(a), 4708(c), Aug. 5, 1997, 111 Stat. 489, 495, 498, 501, 506; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(w)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398; Pub. L. 106–554, §1(a)(6) \[title VII, §701(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–570; Pub. L. 109–171, title VI, §6085(a), Feb. 8, 2006, 120 Stat. 121; Pub. L. 111–5, div. B, title V, §5006(d)(1), Feb. 17, 2009, 123 Stat. 507; Pub. L. 111–152, title I, §1202(a)(2), Mar. 30, 2010, 124 Stat. 1053; Pub. L. 114–255, div. A, title V, §5005(a)(2), (b)(2), Dec. 13, 2016, 130 Stat. 1192, 1193; Pub. L. 115–271, title I, §1004(a)(3), Oct. 24, 2018, 132 Stat. 3911; Pub. L. 116–260, div. BB, title II, §203(a)(4)(A), Dec. 27, 2020, 134 Stat. 2917.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 4(c) of the Indian Health Care Improvement Act of 1976, referred to in subsec. (a)(2)(C), probably means section 4(c) of the Indian Health Care Improvement Act, which was redesignated section 4(13) of the Act by Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935, and is classified to section 1603(13) of Title 25, Indians.
@@ -649,6 +651,8 @@ Subsec. (c). Pub. L. 105–33, §4705(a), added subsec. (c).
 Subsecs. (d), (e). Pub. L. 105–33, §4707(a), added subsecs. (d) and (e).
 
 Subsec. (f). Pub. L. 105–33, §4708(c), added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

@@ -8,6 +8,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Pub. L. 94–455, title XIX, §1905(b)(7)(D), Oct. 4, 1976, 90 Stat. 1823, substituted "and notices" for "notices, and stamps" in item 5723.

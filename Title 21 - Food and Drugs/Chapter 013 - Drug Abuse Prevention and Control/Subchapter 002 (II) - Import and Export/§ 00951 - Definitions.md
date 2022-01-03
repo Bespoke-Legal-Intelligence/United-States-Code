@@ -2,7 +2,7 @@
 
 (a) For purposes of this subchapter—
 
-&emsp;(1) The term "import" means, with respect to any article, any bringing in or introduction of such article into any area (whether or not such bringing in or introduction constitutesan importation within the meaning of the tariff laws of the United States).
+&emsp;(1) The term "import" means, with respect to any article, any bringing in or introduction of such article into any area (whether or not such bringing in or introduction constitutes an importation within the meaning of the tariff laws of the United States).
 
 &emsp;(2) The term "customs territory of the United States" has the meaning assigned to such term by general note 2 of the Harmonized Tariff Schedule of the United States.
 
@@ -36,7 +36,7 @@ Pub. L. 91–513, title III, §1105(a)–(c), Oct. 27, 1970, 84 Stat. 1295, as a
 
 "(b) Sections 1000, 1001, 1006, 1015, 1016, 1103, 1104 \[see Short Title note below and sections 171 note, 951, 956, 957 note, 965, and 966 of this title\], and this section shall become effective upon enactment \[Oct. 27, 1970\].
 
-"(c)(1) If the Attorney General, pursuant to the authority of section 704(c) of title II \[set out as a note under section 801 of this title\], postpones the effective date of section 306 (relating to manufacturing quotas) \[section 826 of this title\] for any period beyond the date specified in section 704(a) \[set out as a note under section 801 of this title\], and such postponement applies to narcotic drugs, the repeal of the Narcotics Manufacturing Act of 1960 \[sections 501 to 517 of this title\] by paragraph (10) of section 1101(a) of this title is hereby postponed for the same period, except that the postponement made by this paragraph shall not apply to the repeal of sections 4, 5, 13, 15, and 16 of that Act \[which were classified to sections 182, 503, 511, and 513 of this title and sections 4702, 4731, and 4731 note of Title 26, Internal Revenue Code\].
+"(c)(1) If the Attorney General, pursuant to the authority of section 704(c) of title II \[set out as a noteunder section 801 of this title\], postpones the effective date of section 306 (relating to manufacturing quotas) \[section 826 of this title\] for any period beyond the date specified in section 704(a) \[set out as a note under section 801 of this title\], and such postponement applies to narcotic drugs, the repeal of the Narcotics Manufacturing Act of 1960 \[sections 501 to 517 of this title\] by paragraph (10) of section 1101(a) of this title is hereby postponed for the same period, except that the postponement made by this paragraph shall not apply to the repeal of sections 4, 5, 13, 15, and 16 of that Act \[which were classified to sections 182, 503, 511, and 513 of this title and sections 4702, 4731, and 4731 note of Title 26, Internal Revenue Code\].
 
 "(2) Effective for any period of postponement, by paragraph (1) of this subsection, of the repeal of provisions of the Narcotics Manufacturing Act of 1960 \[sections 501 to 517 of this title\], that Act shall be applied subject to the following modifications:
 

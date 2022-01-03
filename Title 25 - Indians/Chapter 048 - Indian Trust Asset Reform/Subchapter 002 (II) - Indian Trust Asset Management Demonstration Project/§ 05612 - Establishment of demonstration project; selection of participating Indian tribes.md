@@ -32,7 +32,7 @@ The Secretary shall establish and carry out an Indian trust asset management dem
 
 #### (1) In general
 
-&emsp;To be eligible to participate in the project, an Indian tribe shall submit to the Secretary a written application in accordance with paragraph (2).
+&emsp;To be eligible to participate in the project, an Indian tribe shall submit to the Secretarya written application in accordance with paragraph (2).
 
 #### (2) Requirements
 

@@ -164,6 +164,8 @@ The Secretary shall maintain in the Office of the Secretary an Office of Tribal 
 
 (Pub. L. 103–354, title III, §309, as added Pub. L. 113–79, title XII, §12303, Feb. 7, 2014, 128 Stat. 985; amended Pub. L. 115–334, title XII, §12303, Dec. 20, 2018, 132 Stat. 4962.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 14 of the Federal Advisory Committee Act, referred to in subsec. (b)(7), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.

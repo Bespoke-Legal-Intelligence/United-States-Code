@@ -56,6 +56,8 @@ The principal functions of the administrator of the Office shall be—
 
 <i>For termination of section beginning on July 1, 2021, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see Codification and Effective and Termination Dates notes below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 233 of Pub. L. 112–40, which provided for Jan. 1, 2014, termination of section, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, and this section, as added by Pub. L. 112–40 and as in effect on Dec. 31, 2013, was temporarily revived, effective June 29, 2015, until July 1, 2021, by Pub. L. 114–27, §§402(b), (c), 406. See Effective and Termination Dates notes below.
@@ -66,7 +68,9 @@ Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination o
 
 A prior section 2322, Pub. L. 93–618, title II, §249A, as added Pub. L. 103–182, title V, §503(c), Dec. 8, 1993, 107 Stat. 2151, prohibited assistance relating to a separation pursuant to certifications under subparts A and D of this part, prior to repeal by Pub. L. 107–210, div. A, title I, §123(b)(2), (c), Aug. 6, 2002, 116 Stat. 944, applicable with respect to petitions filed under this part on or after the date that was 90 days after Aug. 6, 2002, except with respect to certain workers.
 
-Another prior section 2322, Pub. L. 93–618, title II, §250, Jan. 3, 1975, 88 Stat. 2029, provided for judicial review for workers or groups aggrieved by a final determination by the Secretary under section 2273 of this title, prior to repeal by Pub. L. 96–417, title VI, §612, title VII, §701(a), Oct. 10, 1980, 94 Stat. 1746, 1747, effective Nov. 1, 1980, and applicable with respect to civil actions pending on or commenced on or after such date. See section 2395 of this title.
+Another prior section 2322, Pub. L. 93–618, title II, §250, Jan. 3, 1975, 88 Stat. 2029, provided for judicial review for workers or groups aggrieved by a final determination by the Secretary under section 2273 of this title, prior to repeal by Pub. L. 96–417, title VI, §612,title VII, §701(a), Oct. 10, 1980, 94 Stat. 1746, 1747, effective Nov. 1, 1980, and applicable with respect to civil actions pending on or commenced on or after such date. See section 2395 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective and Termination Dates
 
@@ -76,7 +80,7 @@ For termination of section, beginning on July 1, 2021, with certain exceptions a
 
 For revival and applicability, beginning on Oct. 21, 2011, of this section as in effect on Feb. 12, 2011, see section 201(b), (c) of Pub. L. 112–40, set out as an Effective and Termination Dates of 2011 Revival note preceding section 2271 of this title.
 
-Section 233 of Pub. L. 112–40, formerly set out as an Effective and Termination Dates of 2011 Revival notepreceding section 2271 of this title, which provided for the termination of this section beginning on Jan. 1, 2014, subject to certain exceptions, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, effective June 29, 2015. See Codification note above.
+Section 233 of Pub. L. 112–40, formerly set out as an Effective and Termination Dates of 2011 Revival note preceding section 2271 of this title, which provided for the termination of this section beginning on Jan. 1, 2014, subject to certain exceptions, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, effective June 29, 2015. See Codification note above.
 
 Except as otherwise provided and subject to certain applicability provisions, section effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 2271 of this title.
 

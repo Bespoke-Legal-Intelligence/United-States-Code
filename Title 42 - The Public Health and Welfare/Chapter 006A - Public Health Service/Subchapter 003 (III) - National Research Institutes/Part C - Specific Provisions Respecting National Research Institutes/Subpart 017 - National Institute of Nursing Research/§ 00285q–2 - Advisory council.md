@@ -38,7 +38,7 @@
 
 #### (c) Term of office; vacancy; reappointment
 
-The term of office of an appointed member of the advisory council is four years, except that any member appointed to fill a vacancy for an unexpired term shall be appointed for the remainder of such term and the Secretary shall make appointments to an advisory council in such a manner as to ensure that the terms of the members do not all expire in the same year. A member may serve after the expiration of the member's term until a successor has taken office. A member who has been appointed for a term of four years may not be reappointed to an advisory council before two years from the date of expiration of such term of office. If a vacancy occurs in the advisory council among the appointed members, the Secretary shall make an appointment to fill the vacancy within 90 days from the date the vacancy occurs.
+The term of office of an appointed member of the advisory council is four years, except thatany member appointed to fill a vacancy for an unexpired term shall be appointed for the remainder of such term and the Secretary shall make appointments to an advisory council in such a manner as to ensure that the terms of the members do not all expire in the same year. A member may serve after the expiration of the member's term until a successor has taken office. A member who has been appointed for a term of four years may not be reappointed to an advisory council before two years from the date of expiration of such term of office. If a vacancy occurs in the advisory council among the appointed members, the Secretary shall make an appointment to fill the vacancy within 90 days from the date the vacancy occurs.
 
 #### (d) Chairman; selection; term of office
 
@@ -57,6 +57,8 @@ The Director of the Institute shall designate a member of the staff of the Insti
 The advisory council may prepare, for inclusion in the triennial report made under section 283 of this title (1) comments respecting the activities of the advisory council in the fiscal years respecting which the report is prepared, (2) comments on the progress of the Institute in meeting its objectives, and (3) recommendations respecting the future directions and program and policy emphasis of the Institute. The advisory council may prepare such additional reports as it may determine appropriate.
 
 (July 1, 1944, ch. 373, title IV, §464X, formerly §485, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 867; amended Pub. L. 101–381, title I, §102(4), Aug. 18, 1990, 104 Stat. 586; Pub. L. 102–54, §13(q)(1)(E), June 13, 1991, 105 Stat. 279; renumbered §464X and amended Pub. L. 103–43, title XV, §1511(a)(3), (b)(2), (4)(B), title XX, §§2008(b)(13), 2010(b)(5), June 10, 1993, 107 Stat. 178, 179, 211, 214; Pub. L. 114–255, div. A, title II, §2042(h)(2), Dec. 13, 2016, 130 Stat. 1073.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -83,6 +85,8 @@ Subsec. (g). Pub. L. 103–43, §1511(a)(3)(C), (b)(4)(B), substituted "section 
 <b>1991</b>—Subsec. (b)(2)(A). Pub. L. 102–54 substituted "chief nursing officer of the Department of Veterans Affairs" for "Chief Nursing Officer of the Veterans' Administration".
 
 <b>1990</b>—Subsec. (a)(2). Pub. L. 101–381 made technical amendment to reference to section 300aaa of this title to reflect renumbering of corresponding section of original act.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Advisory Councils
 

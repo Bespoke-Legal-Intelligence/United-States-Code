@@ -8,11 +8,13 @@
 
 (May 28, 1956, ch. 327, title II, §206, 70 Stat. 200; Pub. L. 85–931, §7, Sept. 6, 1958, 72 Stat. 1791; Pub. L. 86–341, title II, §204, Sept. 21, 1959, 73 Stat. 611; Pub. L. 87–456, title III, §303(c), May 24, 1962, 76 Stat. 78; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(I), June 18, 2008, 122 Stat. 1820.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (a), is act June 7, 1939, ch. 190, as revised generally by Pub. L. 96–41, §2, July 30, 1979, 93 Stat. 319, which is classified generally to subchapter III (§98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 98 of Title 50 and Tables.
 
-Section 1704(b) of this title, referred to in subsec. (a), was amended generally by Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3635, and, as so amended, no longer contains provisions relating to a supplemental stockpile.
+Section 1704(b) of this title, referred to in subsec. (a), was amended generally by Pub. L. 101–624, title XV,§1512, Nov. 28, 1990, 104 Stat. 3635, and, as so amended, no longer contains provisions relating to a supplemental stockpile.
 
 #### Amendments
 
@@ -24,13 +26,15 @@ Section 1704(b) of this title, referred to in subsec. (a), was amended generally
 
 <b>1958</b>—Subsec. (a). Pub. L. 85–931 limited acquisition of strategic and critical materials for national stockpile, supplemental stockpile, foreign economic or military aid or assistance programs and offshore construction programs.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
 Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Effective Date of 1962 Amendment
 
-Amendment by Pub. L. 87–456 effective with respect to articles entered, or withdrawn from warehouse, forconsumption on or after Aug. 31, 1963, see section 501(a) of Pub. L. 87–456.
+Amendment by Pub. L. 87–456 effective with respect to articles entered, or withdrawn from warehouse, for consumption on or after Aug. 31, 1963, see section 501(a) of Pub. L. 87–456.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

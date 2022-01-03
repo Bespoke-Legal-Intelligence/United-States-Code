@@ -6,7 +6,7 @@ The head of each Federal agency shall establish safeguards against the removal o
 
 &emsp;(2) the penalties provided by law for the unlawful removal or destruction of records.
 
-(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1298; Pub. L. 98–497, title I, §107(b)(22), Oct. 19, 1984, 98 Stat.2290; Pub. L. 113–187, §8(11), Nov. 26, 2014, 128 Stat. 2012.)
+(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1298; Pub. L. 98–497, title I, §107(b)(22), Oct. 19, 1984, 98 Stat. 2290; Pub. L. 113–187, §8(11), Nov. 26, 2014, 128 Stat. 2012.)
 
 #### Historical and Revision Notes
 

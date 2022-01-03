@@ -10,7 +10,7 @@ In carrying out this subchapter, the Secretary of the Interior and the Secretary
 
 &emsp;(3) determine the rates of pay, hours, and other conditions of employment in the Corps, except that all members of the Corps shall not be deemed to be Federal employees other than for the purpose of chapter 171 of title 28, and chapter 81 of title 5.<sup>1</sup>
 
-&emsp;(4) provide for such transportation, lodging, subsistence, and other services and equipmentas they may deem necessary or appropriate for the needs of members of the Corps in their duties;
+&emsp;(4) provide for such transportation, lodging, subsistence, and other services and equipment as they may deem necessary or appropriate for the needs of members of the Corps in their duties;
 
 &emsp;(5) promulgate regulation <sup>2</sup> to insure the safety, health, and welfare of the Corps members; and
 
@@ -28,6 +28,8 @@ The Secretary of the Interior and the Secretary of Agriculture may contract with
 
 (Pub. L. 91–378, title I, §103, formerly §3, Aug. 13, 1970, 84 Stat. 795; Pub. L. 92–597, Oct. 27, 1972, 86 Stat. 1319; Pub. L. 93–408, Sept. 3, 1974, 88 Stat. 1067; renumbered title I, §103, and amended Pub. L. 103–82, title I, §105(1)–(3), Sept. 21, 1993, 107 Stat. 848.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1993</b>—Subsec. (a). Pub. L. 103–82, §105(2), substituted "subchapter" for "chapter" in introductory provisions.
@@ -35,6 +37,8 @@ The Secretary of the Interior and the Secretary of Agriculture may contract with
 <b>1974</b>—Pub. L. 93–408 reenacted existing provisions with minor changes.
 
 <b>1972</b>—Pub. L. 92–597 substantially reenacted existing provisions and inserted provisions requiring the Secretary of the Interior and the Secretary of Agriculture to determine and select appropriate work and education programs and projects for participation by members of the Corps and to provide that permanent or semipermanent facilities used as Corps camps be made available to local schools, school districts, and such other institutions for use as environmental education camps during periods of nonuse by the Corps program, that the costs of operation, maintenance, and staffing of Corps camp facilities during periods of use by non-Corps programs and liabilities arising from such use shall be the responsibility of the organization using the facility and, struck out provisions requiring preparation and submission to the President of a report not later than Aug. 13, 1971, for transmittal to the Congress for review and appropriate action, and that the provisions of Title II of the Revenue and Expenditure Control Act of 1968 shall not apply to appointments made to the Corps, to temporary supervisory personnel, or to temporary program support staff.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1993 Amendment
 

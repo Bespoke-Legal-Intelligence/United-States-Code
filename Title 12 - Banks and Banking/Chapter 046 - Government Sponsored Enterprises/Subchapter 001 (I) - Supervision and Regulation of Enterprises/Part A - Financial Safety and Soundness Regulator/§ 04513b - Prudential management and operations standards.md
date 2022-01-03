@@ -52,7 +52,7 @@ The Director shall establish standards, by regulation or guideline, for each reg
 
 #### (2) Required order upon failure to submit or implement plan
 
-&emsp;If a regulated entity fails to submit an acceptable plan within the time allowed under paragraph (1)(C), or fails in any material respect to implement a plan accepted by the Director, the following shall apply:
+&emsp;If a regulated entity fails to submit an acceptable plan within the time allowed underparagraph (1)(C), or fails in any material respect to implement a plan accepted by the Director, the following shall apply:
 
 #### (A) Required correction of deficiency
 

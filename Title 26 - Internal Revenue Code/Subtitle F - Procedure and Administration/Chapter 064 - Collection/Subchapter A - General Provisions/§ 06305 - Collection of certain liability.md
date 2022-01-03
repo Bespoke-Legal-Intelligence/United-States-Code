@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Upon receiving a certification from the Secretary of Health and Human Services, under section 452(b) of the Social Security Act with respect to any individual, the Secretary shall assess and collect the amount certified by the Secretary of Health and Human Services, in the same manner, with the same powers, and (except as provided in this section) subject to the same limitations as if such amount were a tax imposed by subtitle C the collection of which would be jeopardized by delay, except that—
+Upon receiving a certification from the Secretary of Health and Human Services, under section 452(b) of the Social Security Act with respect to any individual, the Secretary shall assess and collect the amount certified by the Secretary of Health and Human Services, in the same manner, with the same powers, and (exceptas provided in this section) subject to the same limitations as if such amount were a tax imposed by subtitle C the collection of which would be jeopardized by delay, except that—
 
 &emsp;(1) no interest or penalties shall be assessed or collected,
 
@@ -20,6 +20,8 @@ No court of the United States, whether established under article I or article II
 
 (Added Pub. L. 93–647, §101(b)(1), Jan. 4, 1975, 88 Stat. 2358; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–35, title XXIII, §2332(g), Aug. 13, 1981, 95 Stat. 862; Pub. L. 104–193, title III, §361(a), Aug. 22, 1996, 110 Stat. 2242.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 452(b) of the Social Security Act, referred to in subsec. (a), is classified to section 652(b) of Title 42, The Public Health and Welfare.
@@ -33,6 +35,8 @@ Subsec. (a)(5). Pub. L. 104–193, §361(a)(1)–(3), added par. (5).
 <b>1981</b>—Subsec. (a)(4). Pub. L. 97–35 inserted reference to administrative order.
 
 <b>1976</b>—Subsecs. (a), (b). Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

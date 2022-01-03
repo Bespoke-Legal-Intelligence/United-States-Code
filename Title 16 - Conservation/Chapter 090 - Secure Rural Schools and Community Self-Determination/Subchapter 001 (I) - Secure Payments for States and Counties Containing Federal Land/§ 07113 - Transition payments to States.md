@@ -44,25 +44,29 @@ The following payments shall be distributed among the eligible counties in the S
 
 &emsp;(1) Payments to the State of California under subsection (b).
 
-&emsp;(2) The shares of the eligible counties of the State payment for California under section 7112 of this title for each of fiscal years 2011 through 2015 and for each of fiscal years 2017 through 2020.
+&emsp;(2) The shares of the eligible counties of the State payment for California under section 7112 of this title for each of fiscal years 2011 through 2015 and for each of fiscal years 2017 through 2023.
 
 #### (e) Treatment of payments
 
 For purposes of this chapter, any payment made under subsection (b) shall be considered to be a payment made under section 7112(a) of this title.
 
-(Pub. L. 106–393, title I, §103, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3899; amended Pub. L. 112–141, div. F, title I, §100101(a)(4), July 6, 2012, 126 Stat. 906; Pub. L. 113–40, §10(a)(1)(C), Oct. 2, 2013, 127 Stat. 545; Pub. L. 114–10, title V, §524(a)(4), Apr. 16, 2015, 129 Stat. 179; Pub. L. 115–141, div. O, title IV, §401(a)(3)(E), Mar. 23, 2018, 132 Stat. 1078; Pub. L. 116–94, div. I, title III, §301(a)(2)(C), Dec. 20, 2019, 133 Stat. 3020.)
+(Pub. L. 106–393, title I, §103, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3899; amended Pub. L. 112–141, div. F, title I, §100101(a)(4), July 6, 2012, 126 Stat. 906; Pub. L. 113–40, §10(a)(1)(C), Oct. 2, 2013, 127 Stat. 545; Pub. L. 114–10, title V, §524(a)(4), Apr. 16, 2015, 129 Stat. 179; Pub. L. 115–141, div. O, title IV, §401(a)(3)(E), Mar. 23, 2018, 132 Stat. 1078; Pub. L. 116–94, div. I, title III, §301(a)(2)(C), Dec. 20, 2019, 133 Stat. 3020; Pub. L. 117–58, div. D, title XII, §41202(b)(2), Nov. 15, 2021, 135 Stat. 1132.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 Sections 102(a)(2) and 103(a)(2) (as in effect on September 29, 2006), referred to in subsecs. (a)(1) and (d), mean former sections 102(a)(2) and 103(a)(2), respectively, of Pub. L. 106–393, which were set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3893. See Prior Provisions notes set out below and under section 7112 of this title.
 
-This chapter, referred to in subsec. (e), was in the original "this Act", meaning Pub. L. 106–393, Oct. 30, 2000, 114 Stat. 1607, known as the Secure Rural Schools and Community Self-Determination Act of 2000, which is classified principally to this chapter. For completeclassification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
+This chapter, referred to in subsec. (e), was in the original "this Act", meaning Pub. L. 106–393, Oct. 30, 2000, 114 Stat. 1607, known as the Secure Rural Schools and Community Self-Determination Act of 2000, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
 #### Prior Provisions
 
 A prior section 103 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (d)(2). Pub. L. 117–58 substituted "2023" for "2020".
 
 <b>2019</b>—Subsec. (d)(2). Pub. L. 116–94 substituted "through 2015 and for each of fiscal years 2017 through 2020" for "through and for fiscal years 2017 and 2018".
 
@@ -73,6 +77,12 @@ A prior section 103 of Pub. L. 106–393 was set out in a note under section 500
 <b>2013</b>—Subsec. (d)(2). Pub. L. 113–40 substituted "through 2013" for "and 2012".
 
 <b>2012</b>—Subsec. (d)(2). Pub. L. 112–141 substituted "each of fiscal years 2011 and 2012" for "fiscal year 2011".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Wage Rate Requirements
+
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of Title 42, The Public Health and Welfare.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

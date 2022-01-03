@@ -1,6 +1,8 @@
 ### §14013. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
-Section, Pub. L. 103–322, title IV, §40507, Sept. 13, 1994, 108 Stat. 1949, which related to a report on batteredwomen's syndrome, to be submitted to designated committees of the Senate and the House of Representatives not less than one year after Sept. 13, 1994, was omitted as obsolete.
+Section, Pub. L. 103–322, title IV, §40507, Sept. 13, 1994, 108 Stat. 1949, which related to a report on battered women's syndrome, to be submitted to designated committees of the Senate and the House of Representatives not less than one year after Sept. 13, 1994, was omitted as obsolete.
 

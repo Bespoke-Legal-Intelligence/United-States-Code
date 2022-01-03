@@ -10,9 +10,13 @@ Effect on Position Held by Reason of Temporary Appointment or Assignment.—An o
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2923; amended Pub. L. 104–106, div. A, title XV, §1501(b)(22), Feb. 10, 1996, 110 Stat. 497.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–106 inserted "lists" in section catchline.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

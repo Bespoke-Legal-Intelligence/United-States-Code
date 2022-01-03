@@ -20,7 +20,7 @@ In order for a State to be eligible to participate in programs of grants to Stat
 
 &emsp;&emsp;(A) except as provided in subsection (b)(5), designate for each such area after consideration of the views offered by the unit or units of general purpose local government in such area, a public or private nonprofit agency or organization as the area agency on aging for such area;
 
-&emsp;&emsp;(B) provide assurances, satisfactory to the Assistant Secretary, that the State agency will take into account, in connection with matters of general policy arising in the development and administration of the State plan for any fiscal year, the views of recipients of supportive services or nutrition services, or individuals using multipurpose senior centers provided under such plan;
+&emsp;&emsp;(B) provide assurances, satisfactory to the Assistant Secretary, that the State agencywill take into account, in connection with matters of general policy arising in the development and administration of the State plan for any fiscal year, the views of recipients of supportive services or nutrition services, or individuals using multipurpose senior centers provided under such plan;
 
 &emsp;&emsp;(C) in consultation with area agencies, in accordance with guidelines issued by the Assistant Secretary, and using the best available data, develop and publish for review and comment a formula for distribution within the State of funds received under this subchapter that takes into account—
 
@@ -30,7 +30,7 @@ In order for a State to be eligible to participate in programs of grants to Stat
 
 &emsp;&emsp;(D) submit its formula developed under subparagraph (C) to the Assistant Secretary for approval;
 
-&emsp;&emsp;(E) provide assurances that preference will be given to providing services to older individuals with greatest economic need andolder individuals with greatest social need (with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas), and include proposed methods of carrying out the preference in the State plan;
+&emsp;&emsp;(E) provide assurances that preference will be given to providing services to older individuals with greatest economic need and older individuals with greatest social need (with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas), and include proposed methods of carrying out the preference in the State plan;
 
 &emsp;&emsp;(F) provide assurances that the State agency will require use of outreach efforts described in section 3027(a)(16) of this title; and
 
@@ -66,11 +66,11 @@ In order for a State to be eligible to participate in programs of grants to Stat
 
 (1) In carrying out the requirement of subsection (a)(1), the State may designate as a planning and service area any unit of general purpose local government which has a population of 100,000 or more. In any case in which a unit of general purpose local government makes application to the State agency under the preceding sentence to be designated as a planning and service area, the State agency shall, upon request, provide an opportunity for a hearing to such unit of general purpose local government. A State may designate as a planning and service area under subsection (a)(1), any region within the State recognized for purposes of areawide planning which includes one or more such units of general purpose local government when the State determines that the designation of such a regional planning and service area is necessary for, and will enhance, the effective administration of the programs authorized by this subchapter. The State may include in any planning and service area designated under subsection (a)(1) such additional areas adjacent to the unit of general purpose local government or regions so designated as the State determines to be necessary for, and will enhance the effective administration of the programs authorized by this subchapter.
 
-(2) The State is encouraged in carrying out the requirement of subsection (a)(1) to include the area covered by the appropriate economic development district involved in any planning and service area designated under subsection (a)(1), and to include all portions of an Indian reservation within a single planning and service area, if feasible.
+(2) The State is encouraged in carrying out the requirement of subsection (a)(1) to include the area covered by the appropriate economic development district involved in any planning andservice area designated under subsection (a)(1), and to include all portions of an Indian reservation within a single planning and service area, if feasible.
 
 (3) The chief executive officer of each State in which a planning and service area crosses State boundaries, or in which an interstate Indian reservation is located, may apply to the Assistant Secretary to request redesignation as an interstate planning and service area comprising the entire metropolitan area or Indian reservation. If the Assistant Secretary approves such an application, the Assistant Secretary shall adjust the State allotments of the areas within the planning and service area in which the interstate planning and service area is established to reflect the number of older individuals within the area who will be served by an interstate planning and service area not within the State.
 
-(4) Whenever a unit of general purpose local government, a region, a metropolitan area or an Indian reservation is denied designation under the provisions of subsection (a)(1), such unit of general purpose local government, region, metropolitan area, or Indian reservation may appeal the decision of the State agency to the Assistant Secretary. The Assistant Secretary shall affordsuch unit, region, metropolitan area, or Indian reservation an opportunity for a hearing. In carrying out the provisions of this paragraph, the Assistant Secretary may approve the decision of the State agency, disapprove the decision of the State agency and require the State agency to designate the unit, region, area, or Indian reservation appealing the decision as a planning and service area, or take such other action as the Assistant Secretary deems appropriate.
+(4) Whenever a unit of general purpose local government, a region, a metropolitan area or an Indian reservation is denied designation under the provisions of subsection (a)(1), such unit of general purpose local government, region, metropolitan area, or Indian reservation may appeal the decision of the State agency to the Assistant Secretary. The Assistant Secretary shall afford such unit, region, metropolitan area, or Indian reservation an opportunity for a hearing. In carrying out the provisions of this paragraph, the Assistant Secretary may approve the decision of the State agency, disapprove the decision of the State agency and require the State agency to designate the unit, region, area, or Indian reservation appealing the decision as a planning and service area, or take such other action as the Assistant Secretary deems appropriate.
 
 (5)(A) A State which on or before October 1, 1980, had designated, with the approval of the Assistant Secretary, a single planning and service area covering all of the older individuals in the State, in which the State agency was administering the area plan, may after that date designate one or more additional planning and service areas within the State to be administered by public or private nonprofit agencies or organizations as area agencies on aging, after considering the factors specified in subsection (a)(1)(E). The State agency shall continue to perform the functions of an area agency on aging for any area of the State not included in a planning and service area for which an area agency on aging has been designated.
 
@@ -120,7 +120,7 @@ An area agency on aging designated under subsection (a) shall be—
 
 &emsp;(5) in the case of a State specified in subsection (b)(5), the State agency;
 
-> and shall provide assurance, determined adequate by the State agency, that the area agency on aging will have the ability to develop an area plan and to carry out, directly or through contractual or other arrangements, a program in accordance with the plan within the planning and service area. In designating an area agency on aging within the planning and service area or within any unit of general purpose local government designated as a planning and service area the State shall give preference to an established office on aging, unless the State agency finds that no such office within the planning and service area will have the capacity to carry out the area plan.
+> and shall provide assurance, determined adequate by the State agency, that the area agency on aging will have the ability to develop an area plan and to carry out, directly or through contractual or other arrangements, a program in accordance with the plan within the planning and service area. In designating an area agency on aging within the planning and service area or within any unit of general purpose local government designated as a planning and service areathe State shall give preference to an established office on aging, unless the State agency finds that no such office within the planning and service area will have the capacity to carry out the area plan.
 
 #### (d) Publication for review and comment; contents
 
@@ -134,7 +134,9 @@ The publication for review and comment required by paragraph (2)(C) of subsectio
 
 &emsp;(4) a demonstration of the allocation of funds, pursuant to the funding formula, to each planning and service area in the State.
 
-(Pub. L. 89–73, title III, §305, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1520; amended Pub. L. 97–115, §§3(d), 5, Dec. 29, 1981, 95 Stat. 1597; Pub. L. 98–459, title III, §305, Oct. 9,1984, 98 Stat. 1773; Pub. L. 100–175, title I, §§124, 132(a), 134(a)(1), 182(e)(2), (g), (h), Nov. 29, 1987, 101 Stat. 933, 939, 940, 965; Pub. L. 100–628, title VII, §705(4), Nov. 7, 1988, 102 Stat. 3247; Pub. L. 102–375, title I, §102(b)(9)(B), (10)(B)–(D), title III, §305, title IX, §904(a)(11), Sept. 30, 1992, 106 Stat. 1201, 1202, 1222, 1306; Pub. L. 103–171, §§2(8), 3(a)(13), Dec. 2, 1993, 107 Stat. 1988, 1990; Pub. L. 106–501, title III, §304, title VIII, §801(c)(3), Nov. 13, 2000, 114 Stat. 2239, 2292; Pub. L. 109–365, title III, §305, Oct. 17, 2006, 120 Stat. 2539; Pub. L. 114–144, §4(c), Apr. 19, 2016, 130 Stat. 338.)
+(Pub. L. 89–73, title III, §305, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1520; amended Pub. L. 97–115, §§3(d), 5, Dec. 29, 1981, 95 Stat. 1597; Pub. L. 98–459, title III, §305, Oct. 9, 1984, 98 Stat. 1773; Pub. L. 100–175, title I, §§124, 132(a), 134(a)(1), 182(e)(2), (g), (h), Nov. 29, 1987, 101 Stat. 933, 939, 940, 965; Pub. L. 100–628, title VII, §705(4), Nov. 7, 1988, 102 Stat. 3247; Pub. L. 102–375, title I, §102(b)(9)(B), (10)(B)–(D), title III, §305, title IX, §904(a)(11), Sept. 30, 1992, 106 Stat. 1201, 1202, 1222, 1306; Pub. L. 103–171, §§2(8), 3(a)(13), Dec. 2, 1993, 107 Stat. 1988, 1990; Pub. L. 106–501, title III, §304, title VIII, §801(c)(3), Nov. 13, 2000, 114 Stat. 2239, 2292; Pub. L. 109–365, title III, §305, Oct. 17, 2006, 120 Stat. 2539; Pub. L. 114–144, §4(c), Apr. 19, 2016, 130 Stat. 338.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -251,6 +253,8 @@ Subsec. (b)(5). Pub. L. 97–115, §5(c), added par. (5).
 Subsec. (c)(4). Pub. L. 97–115, §3(d), substituted "supportive services" for "social services".
 
 Subsec. (c)(5). Pub. L. 97–115, §5(d), added par. (5).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

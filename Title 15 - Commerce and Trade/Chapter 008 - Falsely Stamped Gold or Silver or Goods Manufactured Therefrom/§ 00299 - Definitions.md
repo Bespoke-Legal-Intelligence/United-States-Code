@@ -8,9 +8,13 @@
 
 (June 13, 1906, ch. 3289, §6, 34 Stat. 262; Pub. L. 91–366, §1(c), (d), July 31, 1970, 84 Stat. 690.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1970</b>—Pub. L. 91–366 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1970 Amendments
 
@@ -22,5 +26,5 @@ For separability provision of Pub. L. 91–366, see section 2 of Pub. L. 91–36
 
 #### Construction of 1970 Amendment
 
-Amendment by Pub. L. 91–366 to be held to be in addition to and not in substitution for or limitation of the provisions of any other Act of the United States, see section 3 of Pub. L. 91–366, set out as a note under section 297 of this title.
+Amendment by Pub. L. 91–366 to be held to be in addition to and not in substitution for or limitation of theprovisions of any other Act of the United States, see section 3 of Pub. L. 91–366, set out as a note under section 297 of this title.
 

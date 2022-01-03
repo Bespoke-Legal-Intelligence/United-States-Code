@@ -6,13 +6,15 @@ Subject to the provisions of section 2435(c) of this title, the President may by
 
 #### (b) Limitation on period of effectiveness
 
-The application of nondiscriminatory treatment shall be limited to the period of effectiveness of the obligations of the United States to such country under such bilateral commercial agreement. In addition, in the case of any foreign country receiving nondiscriminatory treatment pursuant to this subchapter which has entered into an agreement with the United States regarding the settlement of lendlease reciprocal aid and claims, the application of such nondiscriminatory treatment shall be limited to periods during which such country is not in arrears on its obligations under such agreement.
+The application of nondiscriminatory treatment shall be limited to the period of effectiveness of the obligations of the United States to such country under such bilateral commercial agreement. In addition, in the case of any foreign country receiving nondiscriminatory treatment pursuant to this subchapter which has entered into an agreement with the United Statesregarding the settlement of lendlease reciprocal aid and claims, the application of such nondiscriminatory treatment shall be limited to periods during which such country is not in arrears on its obligations under such agreement.
 
 #### (c) Suspension or withdrawal of extensions of nondiscriminatory treatment
 
 The President may at any time suspend or withdraw any extension of nondiscriminatory treatment to any country pursuant to subsection (a) and thereby cause all products of such country to be dutiable at the rates set forth in rate column numbered 2 of the Harmonized Tariff Schedule of the United States.
 
 (Pub. L. 93–618, title IV, §404, Jan. 3, 1975, 88 Stat. 2060; Pub. L. 96–39, title XI, §1106(f)(2), July 26, 1979, 93 Stat. 312; Pub. L. 100–418, title I, §1214(j)(3), Aug. 23, 1988, 102 Stat. 1158.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -23,6 +25,8 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (c),
 <b>1988</b>—Subsec. (c). Pub. L. 100–418 substituted "Harmonized Tariff Schedule of the United States" for "Tariff Schedules for the United States".
 
 <b>1979</b>—Subsec. (c). Pub. L. 96–39 struck out the comma after "subsection (a)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 
@@ -98,7 +102,7 @@ Plan for action by trade representative.—
 
 &emsp;&emsp;"(A)
 
-In general.—If, in preparing a report required by paragraph (1), the Trade Representative believes that the Russian Federation is not fully implementing an agreement specified in subparagraph (A) or (B) of that paragraph or that the Russian Federation is not making adequate progress in acceding to an agreement specified in subparagraph (B) of that paragraph, the Trade Representative shall, except as provided in subparagraph (B) of this paragraph, include in the report a description of the actions the Trade Representative plans to take to encourage the Russian Federation to improve its implementation of the agreement or increase its progress in acceding to the agreement, as the case may be.
+In general.—If, in preparing a report required by paragraph (1), the Trade Representative believes that the Russian Federation is not fully implementing an agreement specified in subparagraph (A) or (B) of that paragraph or that the Russian Federation is not making adequate progress in acceding to an agreement specified in subparagraph\(B) of that paragraph, the Trade Representative shall, except as provided in subparagraph (B) of this paragraph, include in the report a description of the actions the Trade Representative plans to take to encourage the Russian Federation to improve its implementation of the agreement or increase its progress in acceding to the agreement, as the case may be.
 
 &emsp;&emsp;"(B)
 
@@ -140,7 +144,7 @@ Reports on Promotion of Rule of Law.—Not later than one year after the effecti
 
 &emsp;&emsp;"(D) promoting a customs administration, tax administration, and judiciary in the Russia Federation that are free of corruption; and
 
-&emsp;&emsp;"(E) increasing cooperation between the United States and the Russian Federation to expand thecapacity for civil society organizations to monitor, investigate, and report on suspected instances of corruption; and
+&emsp;&emsp;"(E) increasing cooperation between the United States and the Russian Federation to expand the capacity for civil society organizations to monitor, investigate, and report on suspected instances of corruption; and
 
 &emsp;"(2) that discloses the status of any pending petition for espousal filed with the Secretary by a United States investor in the Russian Federation.
 
@@ -234,7 +238,7 @@ Pub. L. 109–205, Mar. 23, 2006, 120 Stat. 313, provided that:
 
 &emsp;"(5) Ukraine has taken major steps toward global security by ratifying the Treaty on the Reduction and Limitation of Strategic Offensive Weapons (START I) and the Treaty on the Non-Proliferation of Nuclear Weapons, subsequently turning over the last of its Soviet-era nuclear warheads on June 1, 1996, and agreeing, in 1998, not to assist Iran with the completion of a program to develop and build nuclear breeding reactors, and has fully supported the United States in nullifying the Anti-Ballistic Missile (ABM) Treaty.
 
-&emsp;"(6) At the Madrid Summit in 1997, Ukraine became a member of the North Atlantic Cooperation Council of the North Atlantic Treaty Organization (NATO),and has been a participant in the Partnership for Peace (PfP) program since 1994.
+&emsp;"(6) At the Madrid Summit in 1997, Ukraine became a member of the North Atlantic Cooperation Council of the North Atlantic Treaty Organization (NATO), and has been a participant in the Partnership for Peace (PfP) program since 1994.
 
 &emsp;"(7) Ukraine is a peaceful state which established exemplary relations with all neighboring countries, and consistently pursues a course of European integration with a commitment to ensuring democracy and prosperity for its citizens.
 
@@ -424,7 +428,7 @@ to Albania.—
 
 &emsp;"(1)
 
-Presidential determinations and extensions of nondiscriminatory treatment.—Notwithstandingany provision of title IV of the Trade Act of 1974 (19 U.S.C. 2431 et seq.), the President may—
+Presidential determinations and extensions of nondiscriminatory treatment.—Notwithstanding any provision of title IV of the Trade Act of 1974 (19 U.S.C. 2431 et seq.), the President may—
 
 &emsp;&emsp;"(A) determine that such title should no longer apply to Albania; and
 
@@ -526,7 +530,7 @@ Pub. L. 104–171, Aug. 3, 1996, 110 Stat. 1539, provided that:
 
 &emsp;"(5) Romania has received most-favored-nation treatment since 1993, and has been found by the President to be in full compliance with the freedom of emigration requirements under title IV of the Trade Act of 1974 \[19 U.S.C. 2431 et seq.\];
 
-&emsp;"(6) Romania is a member of the World Trade Organization and extension of unconditional most-favored-nation treatment to the products of Romaniawould enable the United States to avail itself of all rights under the World Trade Organization with respect to Romania; and
+&emsp;"(6) Romania is a member of the World Trade Organization and extension of unconditional most-favored-nation treatment to the products of Romania would enable the United States to avail itself of all rights under the World Trade Organization with respect to Romania; and
 
 &emsp;"(7) Romania has demonstrated a strong desire to build friendly relationships and to cooperate fully with the United States on trade matters.
 
@@ -634,7 +638,7 @@ Pub. L. 102–182, title I, Dec. 4, 1991, 105 Stat. 1235, provided that:
 
 &emsp;"(2) The Government of the United States entered into agreements extending most-favored-nation treatment with the Government of Estonia on August 1, 1925, the Government of Latvia on April 30, 1926, and the Government of Lithuania on July 10, 1926.
 
-&emsp;"(3) The Union of Soviet Socialist Republics incorporated Estonia, Latvia, and Lithuania involuntarily into the Union as a result of a secret protocol to a German-Soviet agreement in 1939 which assignedthose three states to the Soviet sphere of influence; and the Government of the United States has at no time recognized the forcible incorporation of those states into the Union of Soviet Socialist Republics.
+&emsp;"(3) The Union of Soviet Socialist Republics incorporated Estonia, Latvia, and Lithuania involuntarily into the Union as a result of a secret protocol to a German-Soviet agreement in 1939 which assigned those three states to the Soviet sphere of influence; and the Government of the United States has at no time recognized the forcible incorporation of those states into the Union of Soviet Socialist Republics.
 
 &emsp;"(4) The Trade Agreements Extension Act of 1951 \[see Short Title of 1951 Amendment note set out under section 1654 of this title\] required the President to suspend, withdraw, or prevent the application of trade benefits, including most-favored-nation treatment, to countries under the domination or control of the world Communist movement.
 
@@ -714,7 +718,7 @@ Pub. L. 102–157, Nov. 13, 1991, 105 Stat. 1040, provided: "That the Congress a
 
 #### Extension of Nondiscriminatory Treatment to Products of Czechoslovakia
 
-Pub. L. 101–541, Nov. 8, 1990, 104 Stat. 2380, provided: "That the Congress approves the extension of nondiscriminatory treatment with respect to the productsof Czechoslovakia transmitted by the President to the Congress on September 6, 1990."
+Pub. L. 101–541, Nov. 8, 1990, 104 Stat. 2380, provided: "That the Congress approves the extension of nondiscriminatory treatment with respect to the products of Czechoslovakia transmitted by the President to the Congress on September 6, 1990."
 
 #### Authority of President To Deny and To Restore Nondiscriminatory Trade Treatment to Products of Afghanistan or To Deny or To Restore Credits, etc., to Afghanistan
 
@@ -743,6 +747,8 @@ Similar provisions were contained in Pub. L. 99–190, §101(i) \[title V, §552
 #### Extension of Nondiscriminatory Treatment to Products of Socialist Republic of Romania
 
 S. Con. Res. 35, July 28, 1975, 89 Stat. 1202, provided: "That the Congress approves the extension of nondiscriminatory treatment with respect to the products of the Socialist Republic of Romania transmitted by the President to the Congress on April 25, 1975."
+
+#### <b>Executive Documents</b>
 
 #### Presidential Documents Relating to Extension of Nondiscriminatory Trade Treatment
 

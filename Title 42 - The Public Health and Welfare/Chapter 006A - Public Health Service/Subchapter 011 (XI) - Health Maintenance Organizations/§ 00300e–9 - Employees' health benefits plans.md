@@ -44,6 +44,8 @@ If the Secretary, after reasonable notice and opportunity for a hearing to a Sta
 
 (July 1, 1944, ch. 373, title XIII, §1310, as added Pub. L. 93–222, §2, Dec. 29, 1973, 87 Stat. 930; amended Pub. L. 94–460, title I, §110(a), Oct. 8, 1976, 90 Stat. 1950; Pub. L. 95–559, §§8, 12(a)(1), Nov. 1, 1978, 92 Stat. 2135, 2140; Pub. L. 96–32, §2(f), July 10, 1979, 93 Stat. 82; Pub. L. 97–35, title IX, §§942(a)(3), (4), 946, Aug. 13, 1981, 95 Stat. 573, 577; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–660, title VIII, §808, Nov. 14, 1986, 100 Stat. 3801; Pub. L. 100–517, §§4(b), 7(a)(1), (2), (b), Oct. 24, 1988, 102 Stat. 2578, 2580; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (e). Pub. L. 109–435 substituted "Postal Regulatory Commission" for "Postal Rate Commission".
@@ -68,7 +70,7 @@ Subsec. (f)(1). Pub. L. 97–35, §946(b), inserted reference to United States n
 
 <b>1979</b>—Subsec. (e)(1). Pub. L. 96–32 substituted "subsection (a), (b), or (c)" for "subsection (a)".
 
-<b>1978</b>—Subsec. (b). Pub. L. 95–559, §8(b), substituted in par. (1) "through physicians or other health professionals who are members of the staff of the organization or a medical group (or groups)" for "(A) without the use of an individual practice association and (B) without the use of contracts (except for contracts for unusual or infrequently used services) with health professionals" and in par. (2) "(B) a combination of such association (or associations), medical group (or groups), staff, and individual physicians and other health professionals under contract with the organization" for "(B) health professionals who have contracted with the health maintenance organization for the provision of such services, or (C) a combination of such association (or associations) or health professionals under contract with the organization".
+<b>1978</b>—Subsec. (b). Pub. L. 95–559, §8(b), substituted in par. (1) "through physicians or other health professionals who are members of the staff of the organization or a medical group (or groups)" for "(A) without the use of an individual practice association and (B) without the use of contracts (except for contracts for unusual or infrequently used services) with health professionals" and in par. (2) "(B) a combination of such association (or associations), medical group (or groups), staff, and individual physicians and other health professionals under contract with the organization" for "(B) health professionals who have contractedwith the health maintenance organization for the provision of such services, or (C) a combination of such association (or associations) or health professionals under contract with the organization".
 
 Subsec. (c). Pub. L. 95–559, §8(a), inserted provision that each employer which provides payroll deductions as a means of paying employees' contributions for health benefits or which provides a health benefits plan to which an employee contribution is not required and which is required by subsection (a) of this section to offer his employees the option of membership in a qualified health maintenance organization shall, with the consent of an employee who exercises such option, arrange for the employee's contribution for such membership to be paid through payroll deductions.
 
@@ -83,6 +85,8 @@ Subsec. (b)(2). Pub. L. 94–460, §110(a)(2), substituted "basic health service
 Subsec. (c). Pub. L. 94–460, §110(a)(3), struck out provision that failure of any employer to comply with the requirements of subsection (a) of this section be considered a willful violation of section 215 of title 29.
 
 Subsecs. (e) to (h). Pub. L. 94–460, §110(a)(4), added subsecs. (e) to (h).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

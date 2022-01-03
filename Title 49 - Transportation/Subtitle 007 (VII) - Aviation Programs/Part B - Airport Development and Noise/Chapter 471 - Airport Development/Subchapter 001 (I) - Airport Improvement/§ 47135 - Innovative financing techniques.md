@@ -30,6 +30,8 @@ Types of techniques.—In this section, innovative financing techniques are limi
 
 (Added Pub. L. 106–181, title I, §132(a), Apr. 5, 2000, 114 Stat. 80; amended Pub. L. 108–176, title I, §156, Dec. 12, 2003, 117 Stat. 2508.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of the Vision 100—Century of Aviation Reauthorization Act, referred to in subsec. (a), is the date of enactment of Pub. L. 108–176, which was approved Dec. 12, 2003.
@@ -39,6 +41,8 @@ The date of the enactment of this section, referred to in subsec. (c)(2)(D), is 
 #### Amendments
 
 <b>2003</b>—Subsec. (a). Pub. L. 108–176 inserted ", after the date of enactment of the Vision 100—Century of Aviation Reauthorization Act," after "approve" in first sentence.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

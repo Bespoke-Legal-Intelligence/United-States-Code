@@ -20,6 +20,8 @@ Subsection (a) shall not be construed to prevent a group health plan or health i
 
 (July 1, 1944, ch. 373, title XXVII, §2711, as added and amended Pub. L. 111–148, title I, §1001(5), title X, §10101(a), Mar. 23, 2010, 124 Stat. 131, 883.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 300gg–11, act July 1, 1944, ch. 373, title XXVII, §2711, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1962, which related to guaranteed availability of coverage for employers in a group market, was renumbered section 2731 of act July 1, 1944, amended, and transferred to subsecs. (c) and (d) of section 300gg–1 of this title, by Pub. L. 111–148, title I, §§1001(3), 1563(c)(8), formerly §1562(c)(8), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 266, 911.
@@ -41,6 +43,8 @@ In General.—A group health plan and a health insurance issuer offering group o
 "(b)
 
 Per Beneficiary Limits.—Subsection (a) shall not be construed to prevent a group health plan or health insurance coverage that is not required to provide essential health benefits under section 18022(b) of this title from placing annual or lifetime per beneficiary limits on specific covered benefits to the extent that such limits are otherwise permitted under Federal or State law."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

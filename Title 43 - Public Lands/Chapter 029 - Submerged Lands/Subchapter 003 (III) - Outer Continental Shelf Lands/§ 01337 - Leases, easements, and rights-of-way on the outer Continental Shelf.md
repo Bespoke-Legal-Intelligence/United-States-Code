@@ -34,7 +34,7 @@
 
 > through primary, secondary, or tertiary recovery means, reduce or eliminate any royalty or net profit share set forth in the lease(s). With the lessee's consent, the Secretary may make other modifications to the royalty or net profit share terms of the lease in order to achieve these purposes.
 
-(C)(i) Notwithstanding the provisions of this subchapter other than this subparagraph, with respect to any lease or unit in existence on November 28, 1995, meeting the requirements of this subparagraph, no royalty payments shall be due on new production, as defined in clause (iv) of this subparagraph, from any lease or unit located in water depths of 200 meters or greater in the Western and Central Planning Areas of the Gulf of Mexico, including that portion of the Eastern Planning Area of the Gulf of Mexico encompassing whole lease blocks lying west of 87 degrees, 30 minutes West longitude, until such volume of production as determined pursuant to clause (ii) has been produced by the lessee.
+(C)(i) Notwithstanding the provisions of this subchapter other than this subparagraph, with respect to any lease or unit in existence on November 28, 1995, meeting the requirements of this subparagraph, no royalty payments shall be due on new production, as defined in clause (iv) of this subparagraph, from any lease or unit located in water depths of 200 meters or greater in the Western and Central Planning Areas of the Gulf of Mexico, including that portion of the Eastern Planning Area of the Gulf of Mexico encompassing whole lease blocks lying west of 87 degrees, 30 minutes West longitude, until suchvolume of production as determined pursuant to clause (ii) has been produced by the lessee.
 
 (ii) Upon submission of a complete application by the lessee, the Secretary shall determine within 180 days of such application whether new production from such lease or unit would be economic in the absence of the relief from the requirement to pay royalties provided for by clause (i) of this subparagraph. In making such determination, the Secretary shall consider the increased technological and financial risk of deep water development and all costs associated with exploring, developing, and producing from the lease. The lessee shall provide information required for a complete application to the Secretary prior to such determination. The Secretary shall clearly define the information required for a complete application under this section. Such application may be made on the basis of an individual lease or unit. If the Secretary determines that such new production would be economic in the absence of the relief from the requirement to pay royalties provided for by clause (i) of this subparagraph, the provisions of clause (i) shall not apply to such production. If the Secretary determines that such new production would not be economic in the absence of the relief from the requirement to pay royalties provided for by clause (i), the Secretary must determine the volume of production from the lease or unit on which no royalties would be due in order to make such new production economically viable; except that for new production as defined in clause (iv)(I), in no case will that volume be less than 17.5 million barrels of oil equivalent in water depths of 200 to 400 meters, 52.5 million barrels of oil equivalent in 400–800 meters of water, and 87.5 million barrels of oil equivalent in water depths greater than 800 meters. Redetermination of the applicability of clause (i) shall be undertaken by the Secretary when requested by the lessee prior to the commencement of the new production and upon significant change in the factors upon which the original determination was made. The Secretary shall make such redetermination within 120 days of submission of a complete application. The Secretary may extend the time period for making any determination or redetermination under this clause for 30 days, or longer if agreed to by the applicant, if circumstances so warrant. The lessee shall be notified in writing of any determination or redetermination and the reasons for and assumptions used for such determination. Any determination or redetermination under this clause shall be a final agency action. The Secretary's determination or redetermination shall be judicially reviewable under section 702 of title 5, only for actions filed within 30 days of the Secretary's determination or redetermination.
 
@@ -50,7 +50,7 @@
 
 &emsp;(II) any production resulting from lease development activities pursuant to a Development Operations Coordination Document, or supplement thereto that would expand production significantly beyond the level anticipated in the Development Operations Coordination Document, approved by the Secretary after November 28, 1995.
 
-(v) During the production of volumes determined pursuant to clauses <sup>1</sup> (ii) or (iii) of this subparagraph, in any year during which the arithmetic average of the closing prices on the New York Mercantile Exchange for light sweet crude oil exceeds $28.00 per barrel, any production of oil will be subject to royalties at the lease stipulated royalty rate. Any production subject to this clause shall be counted toward the production volume determined pursuant to clause (ii) or (iii). Estimated royalty payments will be made if such average of the closing prices for the previous year exceeds $28.00. After the end of the calendar year, when the new average price can be calculated, lessees will pay any royalties due, with interest but without penalty, orcan apply for a refund, with interest, of any overpayment.
+(v) During the production of volumes determined pursuant to clauses <sup>1</sup> (ii) or (iii) of this subparagraph, in any year during which the arithmetic average of the closing prices on the New York Mercantile Exchange for light sweet crude oil exceeds $28.00 per barrel, any production of oil will be subject to royalties at the lease stipulated royalty rate. Any production subject to this clause shall be counted toward the production volume determined pursuant to clause (ii) or (iii). Estimated royalty payments will be made if such average of the closing prices for the previous year exceeds $28.00. After the end of the calendar year, when the new average price can be calculated, lessees will pay any royalties due, with interest but without penalty, or can apply for a refund, with interest, of any overpayment.
 
 (vi) During the production of volumes determined pursuant to clause (ii) or (iii) of this subparagraph, in any year during which the arithmetic average of the closing prices on the New York Mercantile Exchange for natural gas exceeds $3.50 per million British thermal units, any production of natural gas will be subject to royalties at the lease stipulated royalty rate. Any production subject to this clause shall be counted toward the production volume determined pursuant to clauses <sup>1</sup> (ii) or (iii). Estimated royalty payments will be made if such average of the closing prices for the previous year exceeds $3.50. After the end of the calendar year, when the new average price can be calculated, lessees will pay any royalties due, with interest but without penalty, or can apply for a refund, with interest, of any overpayment.
 
@@ -82,7 +82,7 @@
 
 (5)(A) During the five-year period commencing on September 18, 1978, the Secretary may, in order to obtain statistical information to determine which bidding alternatives will best accomplish the purposes and policies of this subchapter, require, as to no more than 10 per centum of the tracts offered each year, each bidder to submit bids for any area of the outer Continental Shelf in accordance with more than one of the bidding systems set forth in paragraph (1) of this subsection. For such statistical purposes, leases may be awarded using a bidding alternative selected at random for the acquisition of valid statistical data if such bidding alternative is otherwise consistent with the provisions of this subchapter.
 
-(B) The bidding systems authorized by paragraph (1) of this subsection, other than the system authorized by subparagraph (A), shall be applied to not less than 20 per centum and not more than 60 per centum of the total area offered for leasing each year during the five-year period beginning on September 18, 1978, unlessthe Secretary determines that the requirements set forth in this subparagraph are inconsistent with the purposes and policies of this subchapter.
+(B) The bidding systems authorized by paragraph (1) of this subsection, other than the system authorized by subparagraph (A), shall be applied to not less than 20 per centum and not more than 60 per centum of the total area offered for leasing each year during the five-year period beginning on September 18, 1978, unless the Secretary determines that the requirements set forth in this subparagraph are inconsistent with the purposes and policies of this subchapter.
 
 (6) At least ninety days prior to notice of any lease sale under subparagraph (D), (E), (F), or, if appropriate, (H) of paragraph (1), the Secretary shall by regulation establish rules to govern the calculation of net profits. In the event of any dispute between the United States and a lessee concerning the calculation of the net profits under the regulation issued pursuant to this paragraph, the burden of proof shall be on the lessee.
 
@@ -138,7 +138,7 @@ An oil and gas lease issued pursuant to this section shall—
 
 (4)(A) Nothing in this subsection shall restrict the power under any other Act or the common law of the Attorney General, the Federal Trade Commission, or any other Federal department or agency to secure information, conduct reviews, make recommendations, or seek appropriate relief.
 
-(B) Neither the issuance of a lease nor anything in this subsection shall modify or abridge any private right of action under the antitrust laws.
+(B) Neither the issuance of a lease nor anything in this subsection shall modify or abridgeany private right of action under the antitrust laws.
 
 #### (d) Due diligence
 
@@ -172,7 +172,7 @@ Nothing in this subchapter shall be deemed to convey to any person, association,
 
 (4) The deposits in the Treasury account described in this section shall be invested by the Secretary of the Treasury in securities backed by the full faith and credit of the United States having maturities suitable to the needs of the account and yielding the highest reasonably available interest rates as determined by the Secretary of the Treasury.
 
-(5)(A) When there is a boundary dispute between the United States and a State which is subject to an agreement under section 1336 of this title, the Secretary shall credit to the account established pursuant to such agreement all bonuses, rents, and royalties, and other revenues (derived from any bidding system authorized under subsection (a)(1)), excluding Federal income and windfall profits taxes, and derived from any lease issued after September 18, 1978 of any Federal tract which lies wholly or partially within three nautical miles of the seaward boundary asserted by the State, if that money has not otherwise been deposited in such account. Proceeds of an escrow account established pursuant to an agreement under section 1336 of this title shall be distributed as follows:
+(5)(A) When there is a boundary dispute between the United States and a State which is subject to an agreement under section 1336 of this title, the Secretary shall credit to the account established pursuant to such agreement all bonuses, rents, and royalties, and other revenues (derived from any bidding system authorized under subsection (a)(1)), excluding Federal income and windfall profits taxes, and derived from any lease issued after September 18, 1978 of any Federal tract which lies wholly or partiallywithin three nautical miles of the seaward boundary asserted by the State, if that money has not otherwise been deposited in such account. Proceeds of an escrow account established pursuant to an agreement under section 1336 of this title shall be distributed as follows:
 
 &emsp;(i) Twenty-seven percent of all bonuses, rents, and royalties, and other revenues (derived from any bidding system authorized under subsection (a)(1)), excluding Federal income and windfall profits taxes, and derived from any lease issued after September 18, 1978, of any tract which lies wholly within three nautical miles of the seaward boundary asserted by the Federal Government in the boundary dispute, together with all accrued interest thereon, shall be paid to the State either—
 
@@ -202,7 +202,7 @@ A sulphur lease issued by the Secretary pursuant to this section shall (1) cover
 
 #### (k) Other mineral leases; award to highest bidder; terms and conditions; agreements for use of resources for shore protection, beach or coastal wetlands restoration, or other projects
 
-(1) The Secretary is authorized to grant to the qualified persons offering the highest cash bonuses on a basis of competitive bidding leases of any mineral other than oil, gas, and sulphur in any area of the outer Continental Shelf not thenunder lease for such mineral upon such royalty, rental, and other terms and conditions as the Secretary may prescribe at the time of offering the area for lease.
+(1) The Secretary is authorized to grant to the qualified persons offering the highest cash bonuses on a basis of competitive bidding leases of any mineral other than oil, gas, and sulphur in any area of the outer Continental Shelf not then under lease for such mineral upon such royalty, rental, and other terms and conditions as the Secretary may prescribe at the time of offering the area for lease.
 
 (2)(A) Notwithstanding paragraph (1), the Secretary may negotiate with any person an agreement for the use of Outer Continental Shelf sand, gravel and shell resources—
 
@@ -214,7 +214,7 @@ A sulphur lease issued by the Secretary pursuant to this section shall (1) cover
 
 (C) The Secretary may, through this paragraph and in consultation with the Secretary of Commerce, seek to facilitate projects in the coastal zone, as such term is defined in section 1453 of title 16, that promote the policy set forth in section 1452 of title 16.
 
-(D) Any Federal agency which proposes to make use of sand, gravel and shell resources subject to the provisions of this subchapter shall enter into a Memorandum of Agreement with the Secretary concerning the potential use of those resources. The Secretary shall notify the Committee on Merchant Marine and Fisheries and the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate on any proposed project for the use of those resources prior to the use of those resources.
+(D) Any Federal agency which proposes to make use of sand, gravel and shell resourcessubject to the provisions of this subchapter shall enter into a Memorandum of Agreement with the Secretary concerning the potential use of those resources. The Secretary shall notify the Committee on Merchant Marine and Fisheries and the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate on any proposed project for the use of those resources prior to the use of those resources.
 
 #### (l) Publication of notices of sale and terms of bidding
 
@@ -242,9 +242,11 @@ The Secretary may cancel any lease obtained by fraud or misrepresentation.
 
 &emsp;&emsp;(B) support transportation of oil or natural gas, excluding shipping activities;
 
-&emsp;&emsp;(C) produce or support production, transportation, or transmission of energy from sources other than oil and gas; or
+&emsp;&emsp;(C) produce or support production, transportation, storage, or transmission of energy from sources other than oil and gas;
 
-&emsp;&emsp;(D) use, for energy-related purposes or for other authorized marine-related purposes, facilities currently or previously used for activities authorized under this subchapter, except that any oil and gas energy-related uses shall not be authorized in areas in which oil and gas preleasing, leasing, and related activities are prohibited by a moratorium.
+&emsp;&emsp;(D) use, for energy-related purposes or for other authorized marine-related purposes, facilities currently or previously used for activities authorized under this subchapter, except that any oil and gas energy-related uses shall not be authorized in areas in which oil and gas preleasing, leasing, and related activities are prohibited by a moratorium; or
+
+&emsp;&emsp;(E) provide for, support, or are directly related to the injection of a carbon dioxide stream into sub-seabed geologic formations for the purpose of long-term carbon sequestration.
 
 #### (2) Payments and revenues
 
@@ -318,7 +320,7 @@ The Secretary may cancel any lease obtained by fraud or misrepresentation.
 
 &emsp;This subsection does not apply to any area on the outer Continental Shelf within the exterior boundaries of any unit of the National Park System, National Wildlife Refuge System, or National Marine Sanctuary System, or any National Monument.
 
-(Aug. 7, 1953, ch. 345, §8, 67 Stat. 468; Pub. L. 95–372, title II, §205(a), (b), Sept. 18, 1978, 92 Stat. 640, 644; Pub. L. 99–272, title VIII, §8003, Apr. 7, 1986, 100 Stat. 148; Pub. L. 100–202, §101(g) \[title I, §100\], Dec. 22, 1987, 101 Stat. 1329–213, 1329–225; Pub. L. 103–426, §1(a), Oct. 31, 1994, 108 Stat. 4371; Pub. L. 104–58, title III, §§302, 303, Nov. 28, 1995, 109 Stat. 563, 565; Pub. L. 105–362, title IX, §901(k), Nov. 10, 1998, 112 Stat. 3290; Pub. L. 106–53, title II, §215(b)(1), Aug. 17, 1999, 113 Stat. 292; Pub. L. 109–58, title III, §§346, 388(a), (c), Aug. 8, 2005, 119 Stat. 704, 744, 747.)
+(Aug. 7, 1953, ch. 345, §8, 67 Stat. 468; Pub. L. 95–372, title II, §205(a), (b), Sept. 18, 1978, 92 Stat. 640, 644; Pub. L. 99–272, title VIII, §8003, Apr. 7, 1986, 100 Stat. 148; Pub. L. 100–202, §101(g) \[title I, §100\], Dec. 22, 1987, 101 Stat. 1329–213, 1329–225; Pub. L. 103–426, §1(a), Oct. 31, 1994, 108 Stat. 4371; Pub. L. 104–58, title III, §§302, 303, Nov. 28, 1995, 109 Stat. 563, 565; Pub. L. 105–362, title IX, §901(k), Nov. 10, 1998, 112 Stat. 3290; Pub. L. 106–53, title II, §215(b)(1), Aug. 17, 1999, 113 Stat. 292; Pub. L. 109–58, title III, §§346, 388(a), (c), Aug. 8, 2005, 119 Stat. 704, 744, 747; Pub. L. 117–58, div. D, title III, §§40307(b), 40343, Nov. 15, 2021, 135 Stat. 1003, 1033.)
 
 #### <b>Editorial Notes</b>
 
@@ -342,7 +344,11 @@ August 8, 2005, referred to in subsec. (p)(2)(B), was in the original "the date 
 
 #### Amendments
 
-<b>2005</b>—Pub. L. 109–58, §388(c), substituted "Leases, easements, and rights-of-way on the outer ContinentalShelf" for "Grant of leases by Secretary" in section catchline.
+<b>2021</b>—Subsec. (p)(1)(C). Pub. L. 117–58, §40343, inserted "storage," before "or transmission".
+
+Subsec. (p)(1)(E). Pub. L. 117–58, §40307(b), added subpar. (E).
+
+<b>2005</b>—Pub. L. 109–58, §388(c), substituted "Leases, easements, and rights-of-way on the outer Continental Shelf" for "Grant of leases by Secretary" in section catchline.
 
 Subsec. (a)(3)(B). Pub. L. 109–58, §346, inserted "and in the Planning Areas offshore Alaska" after "West longitude" in introductory provisions.
 
@@ -394,7 +400,9 @@ Subsecs. (k) to (o). Pub. L. 95–372, §205(b), redesignated former subsecs. (e
 
 #### Regulations
 
-Pub. L. 104–58, title III, §305, Nov. 28, 1995, 109 Stat. 566, provided that: "The Secretary shall promulgatesuch rules and regulations as are necessary to implement the provisions of this title \[amending this section and enacting provisions set out as notes under this section\] within 180 days after the enactment of this Act \[Nov. 28, 1995\]."
+Secretary of the Interior required to promulgate regulations to carry out amendment by section 40307(b) of Pub. L. 117–58 not later than 1 year after Nov. 15, 2021, see section 40307(d) of Pub. L. 117–58, set out as a note under section 1331 of this title.
+
+Pub. L. 104–58, title III, §305, Nov. 28, 1995, 109 Stat. 566, provided that: "The Secretary shall promulgate such rules and regulations as are necessary to implement the provisions of this title \[amending this section and enacting provisions set out as notes under this section\] within 180 days after the enactment of this Act \[Nov. 28, 1995\]."
 
 #### Savings Provision
 
@@ -404,7 +412,7 @@ Pub. L. 109–58, title III, §388(d), Aug. 8, 2005, 119 Stat. 747, provided tha
 
 &emsp;"(2) a request for a proposal has been issued by a public authority."
 
-Pub. L. 104–58, title III, §306, Nov. 28, 1995, 109 Stat. 566, provided that: "Nothing in this title \[amending this section and enacting provisions set out as notes under this section\] shall be construed to affect any offshore pre-leasing, leasing, or development moratorium, including any moratorium applicable to the Eastern Planning Area of the Gulf of Mexico located off the Gulf Coast of Florida."
+Pub. L. 104–58, title III, §306, Nov. 28, 1995, 109 Stat. 566, provided that: "Nothing in this title \[amendingthis section and enacting provisions set out as notes under this section\] shall be construed to affect any offshore pre-leasing, leasing, or development moratorium, including any moratorium applicable to the Eastern Planning Area of the Gulf of Mexico located off the Gulf Coast of Florida."
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
@@ -415,6 +423,14 @@ Committee on Merchant Marine and Fisheries of House of Representatives abolished
 Functions vested in, or delegated to, Secretary of Energy and Department of Energy under or with respect to subsec. (a)(4) of this section, transferred to, and vested in, Secretary of the Interior, by section 100 of Pub. L. 97–257, 96 Stat. 841, set out as a note under section 7152 of Title 42, The Public Health and Welfare.
 
 Functions of Secretary of the Interior to promulgate regulations under this subchapter which relate to fostering of competition for Federal leases, implementation of alternative bidding systems authorized for award of Federal leases, establishment of diligence requirements for operations conducted on Federal leases, setting of rates for production of Federal leases, and specifying of procedures, terms, and conditions for acquisition and disposition of Federal royalty interests taken in kind, transferred to Secretary of Energy by section 7152(b) of Title 42. Section 7152(b) of Title 42 was repealed by Pub. L. 97–100, title II, §201, Dec. 23, 1981, 95 Stat. 1407, and functions of Secretary of Energy returned to Secretary of the Interior. See House Report No. 97–315, pp. 25, 26, Nov. 5, 1981.
+
+#### Wage Rate Requirements
+
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of Title 42, The Public Health and Welfare.
+
+#### Clarification
+
+Pub. L. 117–58, div. D, title III, §40307(c), Nov. 15, 2021, 135 Stat. 1003, provided that: "A carbon dioxide stream injected for the purpose of carbon sequestration under subparagraph (E) of section 8(p)(1) of the Outer Continental Shelf Lands Act (43 U.S.C. 1337(p)(1)) shall not be considered to be material (as defined in section 3 of the Marine Protection, Research, and Sanctuaries Act of 1972 (33 U.S.C. 1402)) for purposes of that Act (33 U.S.C. 1401 et seq.)."
 
 #### Coordinated OCS Mapping Initiative
 

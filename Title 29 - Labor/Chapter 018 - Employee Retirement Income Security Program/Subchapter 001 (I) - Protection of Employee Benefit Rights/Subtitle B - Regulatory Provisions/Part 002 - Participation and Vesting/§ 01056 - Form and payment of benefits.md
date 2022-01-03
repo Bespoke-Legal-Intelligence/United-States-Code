@@ -20,7 +20,7 @@ If—
 
 &emsp;(2) a participant is separated from the service and has non-forfeitable rights to benefits,
 
-> a plan may not decrease benefits of such a participant by reason of any increase in the benefit levels payable under title II of the Social Security Act \[42 U.S.C. 401 et seq.\] or the Railroad Retirement Act of 1937 \[45 U.S.C. 231 et seq.\] orany increase in the wage base under such title II, if such increase takes place after September 2, 1974, or (if later) the earlier of the date of first entitlement of such benefits or the date of such separation.
+> a plan may not decrease benefits of such a participant by reason of any increase in the benefit levels payable under title II of the Social Security Act \[42 U.S.C. 401 et seq.\] or the Railroad Retirement Act of 1937 \[45 U.S.C. 231 et seq.\] or any increase in the wage base under such title II, if such increase takes place after September 2, 1974, or (if later) the earlier of the date of first entitlement of such benefits or the date of such separation.
 
 #### (c) Forfeiture of accrued benefits derived from employer contributions
 
@@ -80,7 +80,7 @@ No pension plan may provide that any part of a participant's accrued benefit der
 
 &emsp;(I) the date on which the participant is entitled to a distribution under the plan, or
 
-&emsp;(II) the later of the date of <sup>1</sup> the participant attains age 50 or the earliest date on which theparticipant could begin receiving benefits under the plan if the participant separated from service.
+&emsp;(II) the later of the date of <sup>1</sup> the participant attains age 50 or the earliest date on which the participant could begin receiving benefits under the plan if the participant separated from service.
 
 (F) To the extent provided in any qualified domestic relations order—
 
@@ -180,7 +180,7 @@ No pension plan may provide that any part of a participant's accrued benefit der
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of this part, the fiduciary of a pension plan that is subject to the additional funding requirements of section 1083(j)(4) of this title shall not permit a prohibited payment to be made from a plan during a period in which such plan has a liquidity shortfall (as defined in section 1083(j)(4)(E)(i) of this title).
+&emsp;Notwithstanding any other provision of this part, the fiduciary of a pension plan that issubject to the additional funding requirements of section 1083(j)(4) of this title shall not permit a prohibited payment to be made from a plan during a period in which such plan has a liquidity shortfall (as defined in section 1083(j)(4)(E)(i) of this title).
 
 #### (2) Prohibited payment
 
@@ -220,7 +220,7 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 &emsp;&emsp;Subparagraph (A) shall cease to apply with respect to any plan year, effective as of the first day of the plan year, upon payment by the plan sponsor of a contribution (in addition to any minimum required contribution under section 1083 of this title) equal to—
 
-&emsp;&emsp;&emsp;(i) in the case of subparagraph (A)(i), the amount of the increase in the funding target of the plan (under section 1083 of this title) for the plan year attributable to theoccurrence referred to in subparagraph (A), and
+&emsp;&emsp;&emsp;(i) in the case of subparagraph (A)(i), the amount of the increase in the funding target of the plan (under section 1083 of this title) for the plan year attributable to the occurrence referred to in subparagraph (A), and
 
 &emsp;&emsp;&emsp;(ii) in the case of subparagraph (A)(ii), the amount sufficient to result in an adjusted funding target attainment percentage of 60 percent.
 
@@ -258,7 +258,7 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 #### (A) Funding percentage less than 60 percent
 
-&emsp;&emsp;A defined benefit plan which is a single-employer plan shall provide that, in any case in which the plan's adjusted funding target attainment percentage for a plan year is less than 60 percent, the plan may not pay any prohibited payment after the valuation date for the plan year.
+&emsp;&emsp;A defined benefit plan which is a single-employer plan shall provide that, in any case in which the plan's adjusted fundingtarget attainment percentage for a plan year is less than 60 percent, the plan may not pay any prohibited payment after the valuation date for the plan year.
 
 #### (B) Bankruptcy
 
@@ -286,7 +286,7 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 #### (D) Exception
 
-&emsp;&emsp;This paragraph shall not apply to any plan for any plan year if the terms of such plan\(as in effect for the period beginning on September 1, 2005, and ending with such plan year) provide for no benefit accruals with respect to any participant during such period.
+&emsp;&emsp;This paragraph shall not apply to any plan for any plan year if the terms of such plan (as in effect for the period beginning on September 1, 2005, and ending with such plan year) provide for no benefit accruals with respect to any participant during such period.
 
 #### (E) Prohibited payment
 
@@ -324,7 +324,7 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 &emsp;&emsp;&emsp;&emsp;(I) a bond issued by a corporate surety company that is an acceptable surety for purposes of section 1112 of this title,
 
-&emsp;&emsp;&emsp;&emsp;(II) cash, or United States obligations which mature in 3 years or less, held in escrow by a bank or similar financial institution, or
+&emsp;&emsp;&emsp;&emsp;(II) cash, or United States obligations which mature in 3 years or less, held inescrow by a bank or similar financial institution, or
 
 &emsp;&emsp;&emsp;&emsp;(III) such other form of security as is satisfactory to the Secretary of the Treasury and the parties involved.
 
@@ -358,7 +358,7 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 #### (iii) Restrictions of certain rules to collectively bargained plans
 
-&emsp;&emsp;&emsp;With respect to any benefit limitation under paragraph (1), (2), or (4), clause (i)shall only apply in the case of a plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and 1 or more employers.
+&emsp;&emsp;&emsp;With respect to any benefit limitation under paragraph (1), (2), or (4), clause (i) shall only apply in the case of a plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and 1 or more employers.
 
 #### (6) New plans
 
@@ -422,7 +422,7 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 &emsp;This subsection shall not apply to a CSEC plan (as defined in section 1060(f) of this title).
 
-(Pub. L. 93–406, title I, §206, Sept. 2, 1974, 88 Stat. 864; Pub. L. 98–397, title I, §104(a), Aug. 23, 1984,98 Stat. 1433; Pub. L. 99–514, title XVIII, §1898(c)(2)(B), (4)(B), (5), (6)(B), (7)(B), Oct. 22, 1986, 100 Stat. 2952–2954; Pub. L. 101–239, title VII, §§7891(a)(1), 7894(c)(8), (9)(A), Dec. 19, 1989, 103 Stat. 2445, 2449; Pub. L. 103–465, title VII, §§761(a)(9)(B)(i), 776(c)(2), Dec. 8, 1994, 108 Stat. 5033, 5048; Pub. L. 105–34, title XV, §1502(a), Aug. 5, 1997, 111 Stat. 1058; Pub. L. 109–280, title I, §§103(a), 108(a)(9), (10), formerly §107(a)(9), (10), title IV, §410(b), Aug. 17, 2006, 120 Stat. 809, 819, 935, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §101(c)(1)(B)–(G), Dec. 23, 2008, 122 Stat. 5097; Pub. L. 111–192, title II, §203(a)(1), June 25, 2010, 124 Stat. 1299; Pub. L. 113–97, title I, §102(b)(3), Apr. 7, 2014, 128 Stat. 1116; Pub. L. 113–159, title II, §2003(c)(2), Aug. 8, 2014, 128 Stat. 1850; Pub. L. 113–295, div. A, title II, §221(a)(57)(E)(ii), (F)(ii), (G)(ii), Dec. 19, 2014, 128 Stat. 4046, 4047.)
+(Pub. L. 93–406, title I, §206, Sept. 2, 1974, 88 Stat. 864; Pub. L. 98–397, title I, §104(a), Aug. 23, 1984, 98 Stat. 1433; Pub. L. 99–514, title XVIII, §1898(c)(2)(B), (4)(B), (5), (6)(B), (7)(B), Oct. 22, 1986, 100 Stat. 2952–2954; Pub. L. 101–239, title VII, §§7891(a)(1), 7894(c)(8), (9)(A), Dec. 19, 1989, 103 Stat. 2445, 2449; Pub. L. 103–465, title VII, §§761(a)(9)(B)(i), 776(c)(2), Dec. 8, 1994, 108 Stat. 5033, 5048; Pub. L. 105–34, title XV, §1502(a), Aug. 5, 1997, 111 Stat. 1058; Pub. L. 109–280, title I, §§103(a), 108(a)(9), (10), formerly §107(a)(9), (10), title IV, §410(b), Aug. 17, 2006, 120 Stat. 809, 819, 935, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §101(c)(1)(B)–(G), Dec. 23, 2008, 122 Stat. 5097; Pub. L. 111–192, title II, §203(a)(1), June 25, 2010, 124 Stat. 1299; Pub. L. 113–97, title I, §102(b)(3), Apr. 7, 2014, 128 Stat. 1116; Pub. L. 113–159, title II, §2003(c)(2), Aug. 8, 2014, 128 Stat. 1850; Pub. L. 113–295, div. A, title II, §221(a)(57)(E)(ii), (F)(ii), (G)(ii), Dec. 19, 2014, 128 Stat. 4046, 4047.)
 
 #### <b>Editorial Notes</b>
 

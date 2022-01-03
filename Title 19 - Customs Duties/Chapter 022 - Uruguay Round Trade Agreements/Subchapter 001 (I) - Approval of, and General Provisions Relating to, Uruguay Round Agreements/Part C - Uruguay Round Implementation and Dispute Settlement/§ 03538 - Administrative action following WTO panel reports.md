@@ -4,7 +4,7 @@
 
 #### (1) Advisory report
 
-&emsp;If a dispute settlement panel finds in an interim report under Article 15 of the Dispute Settlement Understanding, or the Appellate Body finds in a report under Article 17 of that Understanding, that an action by the International Trade Commission in connectionwith a particular proceeding is not in conformity with the obligations of the United States under the Antidumping Agreement, the Safeguards Agreement, or the Agreement on Subsidies and Countervailing Measures, the Trade Representative may request the Commission to issue an advisory report on whether title VII of the Tariff Act of 1930 \[19 U.S.C. 1671 et seq.\] or title II of the Trade Act of 1974 \[19 U.S.C. 2251 et seq.\], as the case may be, permits the Commission to take steps in connection with the particular proceeding that would render its action not inconsistent with the findings of the panel or the Appellate Body concerning those obligations. The Trade Representative shall notify the congressional committees of such request.
+&emsp;If a dispute settlement panel finds in an interim report under Article 15 of the Dispute Settlement Understanding, or the Appellate Body finds in a report under Article 17 of that Understanding, that an action by the International Trade Commission in connection with a particular proceeding is not in conformity with the obligations of the United States under the Antidumping Agreement, the Safeguards Agreement, or the Agreement on Subsidies and Countervailing Measures, the Trade Representative may request the Commission to issue an advisory report on whether title VII of the Tariff Act of 1930 \[19 U.S.C. 1671 et seq.\] or title II of the Trade Act of 1974 \[19 U.S.C. 2251 et seq.\], as the case may be, permits the Commission to take steps in connection with the particular proceeding that would render its action not inconsistent with the findings of the panel or the Appellate Body concerning those obligations. The Trade Representative shall notify the congressional committees of such request.
 
 #### (2) Time limits for report
 
@@ -60,7 +60,7 @@
 
 #### (2) Notice of implementation
 
-&emsp;(A) The administering authority shall publish in the Federal Register notice of the implementation of any determination made under this section with respect to title VII of the Tariff Act of 1930 \[19 U.S.C. 1671 et seq.\].
+&emsp;(A) The administering authority shall publish in the Federal Register notice of the implementation of any determination madeunder this section with respect to title VII of the Tariff Act of 1930 \[19 U.S.C. 1671 et seq.\].
 
 &emsp;(B) The Trade Representative shall publish in the Federal Register notice of the implementation of any determination made under this section with respect to title II of the Trade Act of 1974 \[19 U.S.C. 2251 et seq.\].
 
@@ -69,6 +69,8 @@
 Prior to issuing a determination under this section, the administering authority or the Commission, as the case may be, shall provide interested parties with an opportunity to submit written comments and, in appropriate cases, may hold a hearing, with respect to the determination.
 
 (Pub. L. 103–465, title I, §129, Dec. 8, 1994, 108 Stat. 4836.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -79,6 +81,8 @@ The Trade Act of 1974, referred to in subsecs. (a)(1), (4) and (c)(2)(B), is Pub
 #### Codification
 
 Section is comprised of section 129 of Pub. L. 103–465. Subsecs. (a)(7) and (e) of section 129 of Pub. L. 103–465 amended sections 2254 and 1516a, respectively, of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

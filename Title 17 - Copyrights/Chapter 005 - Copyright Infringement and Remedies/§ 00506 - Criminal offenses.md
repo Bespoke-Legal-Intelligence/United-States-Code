@@ -54,7 +54,7 @@ False Representation.—Any person who knowingly makes a false representation of
 
 Rights of Attribution and Integrity.—Nothing in this section applies to infringement of the rights conferred by section 106A(a).
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2586; Pub. L. 97–180, §5, May 24, 1982, 96 Stat. 93; Pub. L. 101–650, title VI, §606(b), Dec. 1, 1990, 104 Stat. 5131; Pub. L. 105–147, §2(b), Dec. 16, 1997, 111 Stat. 2678; Pub. L. 109–9, title I, §103(a), Apr. 27, 2005, 119 Stat. 220; Pub. L. 110–403, title II, §201(a), Oct. 13, 2008, 122 Stat. 4260.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2586; Pub. L. 97–180, §5, May 24, 1982, 96 Stat. 93; Pub. L. 101–650, title VI, §606(b), Dec. 1, 1990, 104Stat. 5131; Pub. L. 105–147, §2(b), Dec. 16, 1997, 111 Stat. 2678; Pub. L. 109–9, title I, §103(a), Apr. 27, 2005, 119 Stat. 220; Pub. L. 110–403, title II, §201(a), Oct. 13, 2008, 122 Stat. 4260.)
 
 #### Historical and Revision Notes
 

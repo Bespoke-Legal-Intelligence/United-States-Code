@@ -14,11 +14,15 @@ For purposes of this part, the term "mutual savings bank" includes any bank—
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 204; Pub. L. 87–834, §6(f), Oct. 16, 1962, 76 Stat. 984; Pub. L. 97–34, title II, §245(a), Aug. 13, 1981, 95 Stat. 255.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1981</b>—Pub. L. 97–34 designated existing provisions as subsec. (a), inserted heading "In general", and added subsec. (b).
 
 <b>1962</b>—Pub. L. 87–834 included other savings institutions chartered and supervised as savings and loan or similar associations under Federal or State law, and authorized amounts paid as interest as a deduction.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1981 Amendment
 

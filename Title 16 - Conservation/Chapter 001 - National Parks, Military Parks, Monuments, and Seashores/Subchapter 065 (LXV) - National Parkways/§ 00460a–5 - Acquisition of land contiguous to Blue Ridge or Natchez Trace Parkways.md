@@ -4,11 +4,13 @@ In order to consolidate, on the Blue Ridge Parkway and the Natchez Trace Parkway
 
 (Pub. L. 87–76, June 30, 1961, 75 Stat. 196.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Blue Ridge Parkway and Town of Blowing Rock Land Exchange
 
 Pub. L. 111–167, May 24, 2010, 124 Stat. 1188, known as the Blue Ridge Parkway and Town of Blowing Rock Land Exchange Act of 2009, provided for land exchange between the National Park Service and the Town of Blowing Rock, North Carolina, by requiring the Secretary of the Interior to exchange approximately 20 acres of land within the boundary of the Blue Ridge Parkway, known as Blowing Rock Reservoir, for approximately 192 acres of land owned by the Town, known as Town of Blowing Rock Exchange Lands, not later than three years after May 24, 2010, and subject to applicable laws and certain terms and conditions and to equalization of land values, adjustment of the boundary of the Blue Ridge Parkway, administration of lands acquired by the Secretary, and future disposition of the reservoir property.
 
 #### Land Exchange in Great Smoky Mountains National Park
 
-Pub. L. 108–108, title I, §138, Nov. 10, 2003, 117 Stat. 1271, known as the Eastern Band of Cherokee Indians Land Exchange Act of 2003, provided for land exchange between National Park Service and Eastern Band of Cherokee Indians, by directing Secretary of the Interior to exchange the Ravensford tract, in the Great Smoky Mountains National Park and the Blue Ridge Parkway, for the Yellow Face tract adjacent to the Waterrock Knob Visitor Center on the Blue Ridge Parkway; stated congressional findings and purposes for such land exchange; contained descriptions and provision relating to treatment of exchanged lands; set forth implementation process; and prohibited gaming on the Ravensford tract.
+Pub. L. 108–108, title I, §138, Nov. 10, 2003, 117 Stat. 1271, known as the Eastern Band of Cherokee Indians Land Exchange Act of 2003, provided for land exchange between National Park Service and Eastern Band of Cherokee Indians, by directing Secretary of the Interior to exchange the Ravensford tract, in the GreatSmoky Mountains National Park and the Blue Ridge Parkway, for the Yellow Face tract adjacent to the Waterrock Knob Visitor Center on the Blue Ridge Parkway; stated congressional findings and purposes for such land exchange; contained descriptions and provision relating to treatment of exchanged lands; set forth implementation process; and prohibited gaming on the Ravensford tract.
 

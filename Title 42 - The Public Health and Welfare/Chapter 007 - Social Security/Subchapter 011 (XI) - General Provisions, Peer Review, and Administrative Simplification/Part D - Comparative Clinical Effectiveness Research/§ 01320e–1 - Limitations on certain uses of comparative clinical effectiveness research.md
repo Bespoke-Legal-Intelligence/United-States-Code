@@ -12,7 +12,7 @@
 
 (2) Paragraph (1) shall not be construed as preventing the Secretary from using evidence or findings from such comparative clinical effectiveness research in determining coverage, reimbursement, or incentive programs under subchapter XVIII based upon a comparison of the difference in the effectiveness of alternative treatments in extending an individual's life due to the individual's age, disability, or terminal illness.
 
-(d)(1) The Secretary shall not use evidence or findings from comparative clinical effectiveness research conducted under section 1320e of this title in determining coverage, reimbursement, or incentive programs under subchapter XVIII in a manner that precludes, or with the intent to discourage, an individual from choosing a health care treatment based on how the individual values the tradeoff between extending the length of their life and the risk of disability.
+(d)(1) The Secretary shall not use evidence or findings from comparative clinical effectiveness research conducted under section 1320e of this title in determining coverage, reimbursement, or incentive programs under subchapter XVIII in a manner that precludes, or with the intent to discourage, an individual from choosing ahealth care treatment based on how the individual values the tradeoff between extending the length of their life and the risk of disability.
 
 (2)(A) <sup>1</sup> Paragraph (1) shall not be construed to—
 
@@ -25,6 +25,8 @@
 (e) The Patient-Centered Outcomes Research Institute established under section 1320e(b)(1) of this title shall not develop or employ a dollars-per-quality adjusted life year (or similar measure that discounts the value of a life because of an individual's disability) as a threshold to establish what type of health care is cost effective or recommended. The Secretary shall not utilize such an adjusted life year (or such a similar measure) as a threshold to determine coverage, reimbursement, or incentive programs under subchapter XVIII.
 
 (Aug. 14, 1935, ch. 531, title XI, §1182, as added Pub. L. 111–148, title VI, §6301(c), Mar. 23, 2010, 124 Stat. 740.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

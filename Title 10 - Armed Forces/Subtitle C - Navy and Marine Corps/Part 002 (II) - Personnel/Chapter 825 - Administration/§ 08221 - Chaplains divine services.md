@@ -6,7 +6,7 @@
 
 (c) All persons in the Navy and in the Marine Corps are enjoined to behave themselves in a reverent and becoming manner during divine service.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 378, §6031; Pub. L. 86–140, Aug. 7, 1959, 73 Stat. 288; renumbered§8221, Pub. L. 115–232, div. A, title VIII, §807(b)(7), Aug. 13, 2018, 132 Stat. 1834.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 378, §6031; Pub. L. 86–140, Aug. 7, 1959, 73 Stat. 288; renumbered §8221, Pub. L. 115–232, div. A, title VIII, §807(b)(7), Aug. 13, 2018, 132 Stat. 1834.)
 
 Historical and Revision Notes
 
@@ -42,6 +42,8 @@ R.S. 1398.
 
 In subsection (c) the words "and in the Marine Corps" are added to execute the definition of "Navy" in section 1, article 1, of the Act of May 5, 1950, ch. 169, 64 Stat. 146.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 8221, ct Aug. 10, 1956, ch. 1041, 70A Stat. 502, related to authorized strength of Air Force Reserve, prior to repeal by Pub. L. 103–337, div. A, title XVI, §1662(a)(3), Oct. 5, 1994, 108 Stat. 2988. See section 12001 of this title.
@@ -51,6 +53,8 @@ A prior section 8221, ct Aug. 10, 1956, ch. 1041, 70A Stat. 502, related to auth
 <b>2018</b>—Pub. L. 115–232 renumbered section 6031 of this title as this section.
 
 <b>1959</b>—Subsec. (d). Pub. L. 86–140 repealed subsec. (d) which required each chaplain to report annually to the Secretary of the Navy the official services performed by him.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

@@ -1,6 +1,6 @@
 ### §553. Assistant Secretaries; appointment; duties
 
-There are established in the Department of Labor nine offices of Assistant Secretary of Labor, which shall be filled by appointment by the President, by and with the advice and consent of the Senate. Each of the Assistant Secretaries of Labor shall perform such duties as maybe prescribed by the Secretary of Labor or required by law. One of such Assistant Secretaries shall be an Assistant Secretary of Labor for Occupational Safety and Health.
+There are established in the Department of Labor nine offices of Assistant Secretary of Labor, which shall be filled by appointment by the President, by and with the advice and consent of the Senate. Each of the Assistant Secretaries of Labor shall perform such duties as may be prescribed by the Secretary of Labor or required by law. One of such Assistant Secretaries shall be an Assistant Secretary of Labor for Occupational Safety and Health.
 
 (Apr. 17, 1946, ch. 140, §2, 60 Stat. 91; Pub. L. 87–137, §1, Aug. 11, 1961, 75 Stat. 338; Pub. L. 91–596, §29(a), Dec. 29, 1970, 84 Stat. 1618; Pub. L. 99–619, §2(b)(1), Nov. 6, 1986, 100 Stat. 3491.)
 

@@ -12,7 +12,7 @@ Not later than 1 year after December 18, 2015, the Secretary of Homeland Securit
 
 #### (1) In general
 
-&emsp;Using the results of the integration and analysis conducted under subsection (b), andany other relevant information, the Director of the National Institute of Standards and Technology shall, on an ongoing basis, facilitate and support the development of methods for reducing cybersecurity risks to emergency response providers using the process described in section 272(e) of title 15.
+&emsp;Using the results of the integration and analysis conducted under subsection (b), and any other relevant information, the Director of the National Institute of Standards and Technology shall, on an ongoing basis, facilitate and support the development of methods for reducing cybersecurity risks to emergency response providers using the process described in section 272(e) of title 15.
 
 #### (2) Report
 

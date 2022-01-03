@@ -1,5 +1,7 @@
 ### <b>CHAPTER 6—CANAL ZONE</b>
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Canal Zone Code
 
 Pub. L. 104–201, div. C, title XXXV, §3549, Sept. 23, 1996, 110 Stat. 2870, repealed the Panama Canal Code.

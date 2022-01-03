@@ -4,9 +4,13 @@ Unless otherwise provided by Act of Congress, whenever development leading to pr
 
 (Pub. L. 94–258, title I, §106, Apr. 5, 1976, 90 Stat. 306; Pub. L. 115–232, div. A, title VIII, §809(n)(1), Aug. 13, 2018, 132 Stat. 1844.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 substituted "section 8730 of title 10" for "section 7430 of title 10".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

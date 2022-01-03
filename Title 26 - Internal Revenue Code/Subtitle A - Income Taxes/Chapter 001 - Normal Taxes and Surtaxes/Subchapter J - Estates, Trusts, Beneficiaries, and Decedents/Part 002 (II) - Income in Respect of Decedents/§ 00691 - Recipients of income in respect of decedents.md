@@ -84,7 +84,7 @@ The amount of any deduction specified in section 162, 163, 164, 212, or 611 (rel
 
 &emsp;&emsp;(B) The net value for estate tax purposes of all the items described in subsection (a)(1) shall be the excess of the value for estate tax purposes of all the items described in subsection (a)(1) over the deductions from the gross estate in respect of claims which represent the deductions and credit described in subsection (b). Such net value shall be determined with respect to the provisions of section 421(c)(2), relating to the deduction for estate tax with respect to stock options to which part II of subchapter D applies.
 
-&emsp;&emsp;(C) The estate tax attributable to such net value shall be an amount equal to the excessof the estate tax over the estate tax computed without including in the gross estate such net value.
+&emsp;&emsp;(C) The estate tax attributable to such net value shall be an amount equal to the excess of the estate tax over the estate tax computed without including in the gross estate such net value.
 
 #### (3) Special rule for generation-skipping transfers
 
@@ -127,6 +127,8 @@ The amount of any deduction specified in section 162, 163, 164, 212, or 611 (rel
 &emsp;&emsp;<b>For application of this section to income in respect of a deceased partner, see section 753.</b>
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 235; Pub. L. 88–272, title II, §221(c)(2), Feb. 26, 1964, 78 Stat. 75; Pub. L. 88–570, §1, Sept. 2, 1964, 78 Stat. 854; Pub. L. 94–455, title XIX, §§1901(a)(91), 1906(b)(13)(A), 1951(b)(10)(A), title XX, §§2005(a)(4), 2006(b)(3), Oct. 4, 1976, 90 Stat. 1779, 1834, 1839, 1876, 1889; Pub. L. 95–600, title VII, §702(b)(1), Nov. 6, 1978, 92 Stat. 2925; Pub. L. 96–222, title I, §101(a)(8)(A), Apr. 1, 1980, 94 Stat. 201; Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299; Pub. L. 96–471, §§2(b)(5), 3, Oct. 19, 1980, 94 Stat. 2254; Pub. L. 97–34, title IV, §403(a)(2)(C), Aug. 13, 1981, 95 Stat. 301; Pub. L. 98–369, div. A, title IV, §474(r)(18), July 18, 1984, 98 Stat. 843; Pub. L. 99–514, title III, §301(b)(8), title XIV, §1432(a)(3), Oct. 22, 1986, 100 Stat. 2217, 2729; Pub. L. 100–203, title X, §10202(c)(3), Dec. 22, 1987, 101 Stat. 1330–392; Pub. L. 100–647, title I, §1011A(g)(10), Nov. 10, 1988, 102 Stat. 3482; Pub. L. 101–239, title VII, §7841(d)(3), Dec. 19, 1989, 103 Stat. 2428; Pub. L. 101–508, title XI, §11101(d)(4), Nov. 5, 1990, 104 Stat. 1388–405; Pub. L. 102–318, title V, §521(b)(27), July 3, 1992, 106 Stat. 312; Pub. L. 103–66, title XIII, §13113(d)(4), Aug. 10, 1993, 107 Stat. 430; Pub. L. 104–188, title I, §§1401(b)(9), 1704(t)(73), Aug. 20, 1996, 110 Stat. 1789, 1891; Pub. L. 105–34, title X, §1073(b)(1), Aug. 5, 1997, 111 Stat. 948; Pub. L. 108–311, title IV, §402(a)(4), Oct. 4, 2004, 118 Stat. 1184; Pub. L. 113–295, div. A, title II, §221(a)(66), Dec. 19, 2014, 128 Stat. 4048; Pub. L. 115–97, title I, §13001(b)(2)(F), Dec. 22, 2017, 131 Stat. 2096.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -198,6 +200,8 @@ Subsecs. (e), (f). Pub. L. 94–455, §1951(b)(10)(A), redesignated subsec. (f) 
 
 Subsecs. (e), (f). Pub. L. 88–570 added subsec. (e) and redesignated former subsec. (e) as (f).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2017 Amendment
 
 Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 13001(c)(1) of Pub. L. 115–97, set out as a note under section 11 of this title.
@@ -242,7 +246,7 @@ Amendment by Pub. L. 100–203 applicable to dispositions in taxable years begin
 
 Amendment by section 301(b)(8) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 301(c) of Pub. L. 99–514, set out as a note under section 62 of this title.
 
-Amendment by section 1432(a)(3) of Pub. L. 99–514 applicable to generation-skipping transfers (within themeaning of section 2611 of this title) made after Oct. 22, 1986, except as otherwise provided, see section 1433 of Pub. L. 99–514, set out as an Effective Date note under section 2601 of this title.
+Amendment by section 1432(a)(3) of Pub. L. 99–514 applicable to generation-skipping transfers (within the meaning of section 2611 of this title) made after Oct. 22, 1986, except as otherwise provided, see section 1433 of Pub. L. 99–514, set out as an Effective Date note under section 2601 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -254,7 +258,7 @@ Amendment by Pub. L. 97–34 applicable to estates of decedents dying after Dec.
 
 #### Effective Date of 1980 Amendments and Revival of Prior Law
 
-For effective date of amendment by section 2(b)(5) of Pub. L. 96–471, see section 6(a)(1) of Pub. L. 96–471, set out as an Effective Date note under section 453 of this title.
+For effective date of amendment by section 2(b)(5) of Pub. L. 96–471, see section 6(a)(1) of Pub. L. 96–471, setout as an Effective Date note under section 453 of this title.
 
 Pub. L. 96–471, §6(b), Oct. 19, 1980, 94 Stat. 2256, provided: "The amendment made by section 3 \[amending this section\] shall apply in the case of decedents dying after the date of the enactment of this Act \[Oct. 19, 1980\]."
 

@@ -140,7 +140,7 @@ Interest credits.—
 
 &emsp;&emsp;&emsp;(I)
 
-In general.—An applicable defined benefit plan shall be treated as failing to meet the requirements of paragraph (1) unless the terms of the plan provide that any interest credit (or an equivalent amount) for any plan year shall be at a rate which is not greater than a market rate of return. A plan shall not be treated as failing to meet the requirements of this subclause merely because the plan provides for a reasonable minimum guaranteed rate of return or for a rate of return that is equal to the greater of a fixed or variable rate of return.
+In general.—An applicable defined benefit plan shall be treated as failing tomeet the requirements of paragraph (1) unless the terms of the plan provide that any interest credit (or an equivalent amount) for any plan year shall be at a rate which is not greater than a market rate of return. A plan shall not be treated as failing to meet the requirements of this subclause merely because the plan provides for a reasonable minimum guaranteed rate of return or for a rate of return that is equal to the greater of a fixed or variable rate of return.
 
 &emsp;&emsp;&emsp;(II)
 
@@ -320,7 +320,7 @@ Notwithstanding clause (i) or (ii) of subsection (f)(2)(B)—
 
 #### (m) Voluntary retirement incentive plans
 
-Notwithstanding subsection (f)(2)(B), it shall not be a violation of subsection (a), (b), (c), or\(e) solely because a plan of an institution of higher education (as defined in section 1001 of title 20) offers employees who are serving under a contract of unlimited tenure (or similar arrangement providing for unlimited tenure) supplemental benefits upon voluntary retirement that are reduced or eliminated on the basis of age, if—
+Notwithstanding subsection (f)(2)(B), it shall not be a violation of subsection (a), (b), (c), or (e) solely because a plan of an institution of higher education (as defined in section 1001 of title 20) offers employees who are serving under a contract of unlimited tenure (or similar arrangement providing for unlimited tenure) supplemental benefits upon voluntary retirement that are reduced or eliminated on the basis of age, if—
 
 &emsp;(1) such institution does not implement with respect to such employees any age-based reduction or cessation of benefits that are not such supplemental benefits, except as permitted by other provisions of this chapter;
 
@@ -328,7 +328,7 @@ Notwithstanding subsection (f)(2)(B), it shall not be a violation of subsection 
 
 &emsp;(3) any employee who attains the minimum age and satisfies all non-age-based conditions for receiving a benefit under the plan has an opportunity lasting not less than 180 days to elect to retire and to receive the maximum benefit that could then be elected by a younger but otherwise similarly situated employee, and the plan does not require retirement to occur sooner than 180 days after such election.
 
-(Pub. L. 90–202, §4, Dec. 15, 1967, 81 Stat. 603; Pub. L. 95–256, §2(a), Apr. 6, 1978, 92 Stat. 189; Pub. L. 97–248, title I, §116(a), Sept. 3, 1982, 96 Stat. 353; Pub. L. 98–369, div. B, title III, §2301(b), July 18, 1984, 98 Stat. 1063; Pub. L. 98–459, title VIII, §802(b), Oct. 9, 1984, 98 Stat. 1792; Pub. L. 99–272, title IX, §9201(b)(1), (3), Apr. 7, 1986, 100 Stat. 171; Pub. L. 99–509, title IX, §9201, Oct. 21, 1986, 100 Stat. 1973; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–592, §§2(a), (b), 3(a), Oct. 31, 1986, 100 Stat. 3342; Pub. L. 101–239, title VI, §6202(b)(3)(C)(i), Dec. 19, 1989, 103 Stat. 2233; Pub. L. 101–433, title I, §103, Oct. 16, 1990, 104 Stat. 978; Pub. L. 101–521, Nov. 5, 1990, 104 Stat. 2287; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §119\[1(b)\]\], Sept. 30, 1996, 110 Stat. 3009, 3009–23; Pub. L. 105–244, title IX, §941(a), (b), Oct. 7, 1998, 112 Stat. 1834, 1835; Pub. L. 109–280, title VII, §701(c), title XI, §1104(a)(2), Aug. 17, 2006, 120 Stat. 988, 1058; Pub. L. 110–458, title I, §123(a), Dec. 23, 2008, 122 Stat. 5114; Pub. L. 114–95, title IX, §9215(e), Dec. 10, 2015, 129 Stat. 2166.)
+(Pub. L. 90–202, §4, Dec. 15, 1967, 81 Stat. 603; Pub. L. 95–256, §2(a), Apr. 6, 1978, 92 Stat. 189; Pub. L. 97–248, title I, §116(a), Sept. 3, 1982, 96 Stat. 353; Pub. L. 98–369, div. B, title III, §2301(b), July 18, 1984, 98 Stat. 1063; Pub. L. 98–459, title VIII, §802(b), Oct. 9, 1984, 98 Stat. 1792; Pub. L. 99–272, title IX, §9201(b)(1), (3), Apr. 7, 1986, 100 Stat. 171; Pub. L. 99–509, title IX, §9201, Oct. 21, 1986, 100 Stat. 1973; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–592, §§2(a), (b), 3(a), Oct. 31, 1986, 100 Stat. 3342; Pub. L. 101–239, title VI,§6202(b)(3)(C)(i), Dec. 19, 1989, 103 Stat. 2233; Pub. L. 101–433, title I, §103, Oct. 16, 1990, 104 Stat. 978; Pub. L. 101–521, Nov. 5, 1990, 104 Stat. 2287; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §119\[1(b)\]\], Sept. 30, 1996, 110 Stat. 3009, 3009–23; Pub. L. 105–244, title IX, §941(a), (b), Oct. 7, 1998, 112 Stat. 1834, 1835; Pub. L. 109–280, title VII, §701(c), title XI, §1104(a)(2), Aug. 17, 2006, 120 Stat. 988, 1058; Pub. L. 110–458, title I, §123(a), Dec. 23, 2008, 122 Stat. 5114; Pub. L. 114–95, title IX, §9215(e), Dec. 10, 2015, 129 Stat. 2166.)
 
 #### <b>Editorial Notes</b>
 
@@ -470,7 +470,7 @@ Collectively Bargained Agreements.—With respect to any employee benefits provi
 
 &emsp;"(2) that terminates after such date of enactment;
 
-&emsp;"(3) any provision of which was entered into by a labor organization (as defined by section 6(d)(4) of theFair Labor Standards Act of 1938 (29 U.S.C. 206(d)(4))); and
+&emsp;"(3) any provision of which was entered into by a labor organization (as defined by section 6(d)(4) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(d)(4))); and
 
 &emsp;"(4) that contains any provision that would be superseded (in whole or part) by this title \[amending this section and section 630 of this title and enacting provisions set out as notes under this section and section 621 of this title\] and the amendments made by this title, but for the operation of this section,
 
@@ -572,7 +572,7 @@ In General.—Except as provided in subsection (b), this Act and the amendments 
 
 Effect on Existing Causes of Action.—The amendments made by sections 3 and 4 of this Act \[amending this section and section 630 of this title and enacting provisions set out as a note below\] shall not apply with respect to any cause of action arising under the Age Discrimination in Employment Act of 1967 \[29 U.S.C. 621 et seq.\] as in effect before January 1, 1987."
 
-Pub. L. 99–592, §3(b), Oct. 31, 1986, 100 Stat. 3342, which provided that the amendment made by section 3(a) ofPub. L. 99–592, which amended this section, was repealed Dec. 31, 1993, was itself repealed, effective Dec. 31, 1993, by Pub. L. 104–208, div. A, title I, §101(a) \[title I, §119\[1(a)\]\], Sept. 30, 1996, 110 Stat. 3009, 3009–23.
+Pub. L. 99–592, §3(b), Oct. 31, 1986, 100 Stat. 3342, which provided that the amendment made by section 3(a) of Pub. L. 99–592, which amended this section, was repealed Dec. 31, 1993, was itself repealed, effective Dec. 31, 1993, by Pub. L. 104–208, div. A, title I, §101(a) \[title I, §119\[1(a)\]\], Sept. 30, 1996, 110 Stat. 3009, 3009–23.
 
 Pub. L. 99–509, title IX, §9204, Oct. 21, 1986, 100 Stat. 1979, provided that:
 
@@ -654,7 +654,7 @@ Pub. L. 104–208, div. A, title I, §101(a) \[title I, §119\[1(c)\]\], Sept. 3
 
 &emsp;"(1) was enacted after March 3, 1983 and before the date of enactment of the Age Discrimination in Employment Amendments of 1996 \[Sept. 30, 1996\]; and
 
-&emsp;"(2) lowered the age of hiring or retirement, respectively, for firefighters or law enforcement officersthat was in effect under applicable State or local law on March 3, 1983."
+&emsp;"(2) lowered the age of hiring or retirement, respectively, for firefighters or law enforcement officers that was in effect under applicable State or local law on March 3, 1983."
 
 #### Study and Guidelines for Performance Tests
 

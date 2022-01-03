@@ -1,6 +1,6 @@
 ### §132. Deputy Secretary of Defense
 
-(a) There is a Deputy Secretary of Defense, appointed from civilian life by the President, by and with the advice and consent of the Senate. The Deputy Secretary shall be appointed from among persons most highly qualified for the position by reason of background and experience, including persons with appropriate management experience. A person may not be appointed as Deputy Secretary of Defense within seven years after relief from active duty as a commissioned officer of a regular component of an armed force.
+(a) There is a Deputy Secretary of Defense, appointed from civilian life by the President, by and with the advice and consent of the Senate. The Deputy Secretary shall be appointed from among persons most highly qualified for the position by reason of background and experience, including persons with appropriate managementexperience. A person may not be appointed as Deputy Secretary of Defense within seven years after relief from active duty as a commissioned officer of a regular component of an armed force.
 
 (b) The Deputy Secretary shall perform such duties and exercise such powers as the Secretary of Defense may prescribe. The Deputy Secretary shall act for, and exercise the powers of, the Secretary when the Secretary dies, resigns, or is otherwise unable to perform the functions and duties of the office.
 
@@ -37,6 +37,8 @@ July 26, 1947, ch. 343, §203(a); added Aug. 10, 1949, ch. 412, §6(a) (1st par.
 5:171c(a) (last 15 words of 2d sentence).
 
 In subsection (a), the last sentence is substituted for 5 U.S.C. 171c(a) (proviso).
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -99,6 +101,8 @@ Subsec. (a). Pub. L. 92–596 substituted "There are two Deputy Secretaries of D
 Subsec. (b). Pub. L. 92–596 provided for the exercise of powers and duties consequent to the creation of a second Deputy Secretary.
 
 Subsec. (c). Pub. L. 92–596 substituted "The Deputy Secretaries take" for "The Deputy Secretary takes".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 

@@ -66,6 +66,8 @@ For the purpose of this section—
 
 (Pub. L. 102–550, title IX, §933, Oct. 28, 1992, 106 Stat. 3891.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Housing and Community Development Act of 1992, and not as part of the Consumer Credit Protection Act which comprises this chapter.

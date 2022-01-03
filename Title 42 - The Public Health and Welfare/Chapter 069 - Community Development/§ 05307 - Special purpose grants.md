@@ -58,17 +58,19 @@ Amounts set aside for use under subsection (b) in any fiscal year but not used i
 
 #### (e) Satisfactory assurances required, special assurances required of Indian tribes
 
-(1) Except as provided in paragraph (2), no grant may be made under this section or section 5318 of this title and no assistance may be made available under section 1437o <sup>3</sup> of this title unless the grantee provides satisfactory assurances that its program will be conducted and administered in conformity with the Civil Rights Act of 1964 \[42 U.S.C. 2000a et seq.\] and the Fair Housing Act \[42 U.S.C. 3601 et seq.\].
+(1) Except as provided in paragraph (2), no grant may be made under this section or section 5318 of this title and no assistance may be made available under section 1437o <sup>1</sup> of this title unless the grantee provides satisfactory assurances that its program will be conducted and administered in conformity with the Civil Rights Act of 1964 \[42 U.S.C. 2000a et seq.\] and the Fair Housing Act \[42 U.S.C. 3601 et seq.\].
 
-(2) No grant may be made to an Indian tribe under this section, section 5306(a)(1) of this title, or section 5318 of this title unless the applicant provides satisfactory assurances that its program will be conducted and administered in conformity with title II of Public Law 90–284 \[25U.S.C. 1301 et seq.\]. The Secretary may waive, in connection with grants to Indian tribes, the provisions of section 5309 of this title and section 5310 of this title.
+(2) No grant may be made to an Indian tribe under this section, section 5306(a)(1) of this title, or section 5318 of this title unless the applicant provides satisfactory assurances that its program will be conducted and administered in conformity with title II of Public Law 90–284 \[25 U.S.C. 1301 et seq.\]. The Secretary may waive, in connection with grants to Indian tribes, the provisions of section 5309 of this title and section 5310 of this title.
 
 (3) The Secretary may accept a certification from the grantee or applicant that it has complied with the requirements of paragraph (1) or (2), as appropriate.
 
 #### (f) Criteria for selection of recipients
 
-Any grant made under this section shall be made pursuant to criteria for selection of recipients of such grants that the Secretary shall by regulation establish and which the Secretary shall publish together with any notification of availability of amounts under this section.
+Any grant made under this section shall be made pursuant to criteria for selection of recipients of such grants that the Secretary shall byregulation establish and which the Secretary shall publish together with any notification of availability of amounts under this section.
 
 (Pub. L. 93–383, title I, §107, Aug. 22, 1974, 88 Stat. 647; Pub. L. 94–375, §15(c), Aug. 3, 1976, 90 Stat. 1076; Pub. L. 95–128, title I, §107, Oct. 12, 1977, 91 Stat. 1123; Pub. L. 95–557, title I, §103(f), Oct. 31, 1978, 92 Stat. 2084; Pub. L. 96–399, title I, §§107, 117(b), Oct. 8, 1980, 94 Stat. 1618, 1624; Pub. L. 97–35, title III, §305, Aug. 13, 1981, 95 Stat. 391; Pub. L. 98–181, title I \[title I, §107, title III, §302(b)\], Nov. 30, 1983, 97 Stat. 1167, 1206; Pub. L. 100–242, title V, §§501(b), 517(b)(2), 522(b), Feb. 5, 1988, 101 Stat. 1922, 1936, 1939; Pub. L. 101–235, title I, §105(a)–(c), (e), Dec. 15, 1989, 103 Stat. 1998, 1999; Pub. L. 101–625, title IX, §§901(c), 913(c), Nov. 28, 1990, 104 Stat. 4385, 4393; Pub. L. 102–550, title VIII, §§801(c)(1), (2), (4), 808, Oct. 28, 1992, 106 Stat. 3843–3845, 3850; Pub. L. 106–569, title I, §102(f), Dec. 27, 2000, 114 Stat. 2947; Pub. L. 108–186, title V, §501(f), Dec. 16, 2003, 117 Stat. 2697.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -120,13 +122,13 @@ Subsec. (b)(2). Pub. L. 101–235, §105(b)(3), redesignated par. (5) as (2). Fo
 
 Subsec. (b)(3). Pub. L. 101–235, §105(b)(1), (4), added par. (3) and struck out former par. (3) which related to grants to Indian tribes.
 
-Subsec. (b)(4). Pub. L. 101–235, §105(b)(5), struck out "and to States and units of general local government for implementing special projects otherwise authorized under this chapter; and" after "to carry out assistance under this chapter;", and substituted "for purposes of this paragraph the term 'technical assistance' means the facilitating of skills and knowledge in planning, developing, and administering activities under this chapter in entities that may need but do not possess suchskills and knowledge, and includes assessing programs and activities under this chapter; except that any recipient of a grant under this paragraph that provides technical assistance pursuant to this paragraph shall provide for the notification of the availability of such assistance and shall have specific criteria for selection of recipients of such assistance that are published and publicly available." for "and" after "such governmental units and groups;".
+Subsec. (b)(4). Pub. L. 101–235, §105(b)(5), struck out "and to States and units of general local government for implementing special projects otherwise authorized under this chapter; and" after "to carry out assistance under this chapter;", and substituted "for purposes of this paragraph the term 'technical assistance' means the facilitating of skills and knowledge in planning, developing, and administering activities under this chapter in entities that may need but do not possess such skills and knowledge, and includes assessing programs and activities under this chapter; except that any recipient of a grant under this paragraph that provides technical assistance pursuant to this paragraph shall provide for the notification of the availability of such assistance and shall have specific criteria for selection of recipients of such assistance that are published and publicly available." for "and" after "such governmental units and groups;".
 
 Subsec. (b)(5). Pub. L. 101–235, §105(b)(3), redesignated par. (5) as (2).
 
 Subsec. (f). Pub. L. 101–235, §105(c), added subsec. (f).
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–242, §522(b), inserted sentence at end making $5,000,000 of grant moneys available for the Park Central New Community Project.
+<b>1988</b>—Subsec. (a). Pub. L. 100–242, §522(b), inserted sentence at end making $5,000,000 of grant moneysavailable for the Park Central New Community Project.
 
 Pub. L. 100–242, §501(b)(1), amended first sentence generally. Prior to amendment, first sentence read as follows: "Of the total amount approved in appropriation Acts under section 5303 of this title for each of the fiscal years 1984, 1985, and 1986, not more than $68,200,000 for each such fiscal year may be set aside in a special discretionary fund for grants under subsection (b) of this section."
 
@@ -169,6 +171,8 @@ Subsec. (b). Pub. L. 95–128, §107(5), substituted "15 per centum" for "one-fo
 Subsec. (d). Pub. L. 95–128, §107(6), added subsec. (d).
 
 <b>1976</b>—Subsec. (a)(1). Pub. L. 94–375 included new community projects assisted under title X of the National Housing Act as within the authority of the Secretary to make grants from the special discretionary fund.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 
@@ -213,6 +217,4 @@ Pub. L. 102–550, title VIII, §851, Oct. 28, 1992, 106 Stat. 3855, directed Se
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> So in original. The comma probably should not appear.</i>
-
-<i><sup>3</sup></i><i> See References in Text note below.</i>
 

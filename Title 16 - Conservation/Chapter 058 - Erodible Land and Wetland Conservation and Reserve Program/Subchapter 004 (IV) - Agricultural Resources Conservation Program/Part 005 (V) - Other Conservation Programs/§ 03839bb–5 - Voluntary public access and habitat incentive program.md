@@ -60,9 +60,11 @@ The Secretary shall promulgate such regulations as are necessary to carry out th
 
 (Pub. L. 99–198, title XII, §1240R, as added Pub. L. 110–234, title II, §2606, May 22, 2008, 122 Stat. 1070, and Pub. L. 110–246, §4(a), title II, §2606, June 18, 2008, 122 Stat. 1664, 1798; amended Pub. L. 112–240, title VII, §701(c)(2), Jan. 2, 2013, 126 Stat. 2363; Pub. L. 113–79, title II, §2503(a), Feb. 7, 2014, 128 Stat. 751; Pub. L. 115–334, title II, §§2202(b)(1), 2406, Dec. 20, 2018, 132 Stat. 4537, 4573.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-Section 3834(f)(4) of this title, referred to in subsec. (c)(3), was redesignated as section 3834(g)(2) of this title by Pub. L. 113–79, title II, §§2005(b)(2), (e)(3), Feb. 7, 2014, 128 Stat. 718, 719.
+Section 3834(f)(4) of this title, referred to in subsec. (c)(3), was redesignated as section 3834(g)(2) of this titleby Pub. L. 113–79, title II, §§2005(b)(2), (e)(3), Feb. 7, 2014, 128 Stat. 718, 719.
 
 #### Codification
 
@@ -86,9 +88,11 @@ Subsec. (f)(1). Pub. L. 115–334, §2406(4)(A), substituted "2009 through 2012,
 
 Subsec. (f)(2), (3). Pub. L. 115–334, §2406(4)(B), (C), added par. (2) and redesignated former par. (2) as (3).
 
-<b>2014</b>—Subsec. (f)(1). Pub. L. 113–79, in heading, substituted "Mandatory funding" for "Fiscal years 2009through 2012" and in text, inserted "and $40,000,000 for the period of fiscal years 2014 through 2018" before period at end.
+<b>2014</b>—Subsec. (f)(1). Pub. L. 113–79, in heading, substituted "Mandatory funding" for "Fiscal years 2009 through 2012" and in text, inserted "and $40,000,000 for the period of fiscal years 2014 through 2018" before period at end.
 
 <b>2013</b>—Subsec. (f). Pub. L. 112–240 added subsec. (f) and struck out former subsec. (f). Prior to amendment, text read as follows: "Of the funds of the Commodity Credit Corporation, the Secretary shall use, to the maximum extent practicable, $50,000,000 for the period of fiscal years 2009 through 2012."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2013 Amendment
 

@@ -4,7 +4,7 @@
 
 Free and Reduced Pricing.—This chapter does not prohibit an air carrier or foreign air carrier, under terms the Secretary of Transportation prescribes, from issuing or interchanging tickets or passes for free or reduced-price foreign air transportation to or for the following:
 
-&emsp;(1) a director, officer, or employee of the carrier (including a retired director, officer, or employee who is receiving retirement benefits from an air carrier or foreign air carrier).
+&emsp;(1) a director, officer, or employee of the carrier (including a retired director, officer, oremployee who is receiving retirement benefits from an air carrier or foreign air carrier).
 
 &emsp;(2) a parent or the immediate family of such an officer or employee or the immediate family of such a director.
 

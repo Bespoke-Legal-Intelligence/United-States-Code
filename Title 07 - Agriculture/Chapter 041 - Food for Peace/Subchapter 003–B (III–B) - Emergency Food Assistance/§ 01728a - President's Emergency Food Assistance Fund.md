@@ -6,7 +6,7 @@ There is hereby established the President's Emergency Food Assistance Fund (here
 
 #### (b) Types of assistance authorized
 
-Because the effects of severe food shortages will vary with the country or region, assistance to alleviate human suffering may include the provision of food assistance or such activities as the provision of seed, animal fodder, animal vaccines, and transportation (including inland transportation) and distribution services.
+Because the effects of severe food shortages will vary with the country or region, assistanceto alleviate human suffering may include the provision of food assistance or such activities as the provision of seed, animal fodder, animal vaccines, and transportation (including inland transportation) and distribution services.
 
 #### (c) Authorization of appropriations
 
@@ -17,6 +17,8 @@ There are authorized to be appropriated to the President $50,000,000 each for fi
 The President may make loans, advances, and grants to, make and perform agreements and contracts with, or enter into transactions with, any individual, corporation, or other body of persons, government or government agency, whether within or without the United States, and international and intergovernmental organizations in furtherance of the purposes and within the limitations of this subchapter.
 
 (Pub. L. 98–473, title III, §303, Oct. 12, 1984, 98 Stat. 2194.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

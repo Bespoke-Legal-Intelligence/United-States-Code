@@ -22,7 +22,7 @@ The Secretary of Labor may not issue a certification under subsection (a) with r
 
 &emsp;(3) The employer has not provided the Secretary with satisfactory assurances that if the employment for which the certification is sought is not covered by State workers' compensation law, the employer will provide, at no cost to the worker, insurance covering injury and disease arising out of and in the course of the worker's employment which will provide benefits at least equal to those provided under the State workers' compensation law for comparable employment.
 
-&emsp;(4) The Secretary determines that the employer has not made positive recruitment efforts within a multi-state region of traditional or expected labor supply where the Secretary finds that there are a significant number of qualified United States workers who, if recruited, would be willing to make themselves available for work at the time and place needed. Positive recruitment under this paragraph is in addition to, and shall be conducted within the same time period as, the circulation through the interstate employment service system of the employer's job offer. The obligation to engage in positive recruitment under this paragraph shall terminate on the date the H–2A workers depart for the employer's place of employment.
+&emsp;(4) The Secretary determines that the employer has not made positive recruitment efforts within a multi-state region of traditional or expected labor supply where the Secretary finds that there are a significant number of qualified United States workers who, if recruited, would be willing to make themselves available for work at the time and place needed. Positive recruitment under this paragraph is in addition to, and shall be conducted within the same time period as, the circulation through the interstate employment service system of the employer's job offer. The obligation to engage in positive recruitment under this paragraph shall terminate on the date theH–2A workers depart for the employer's place of employment.
 
 #### (c) Special rules for consideration of applications
 
@@ -66,7 +66,7 @@ The following rules shall apply in the case of the filing and consideration of a
 
 &emsp;(vi) An employer shall not be liable for payments under section 655.202(b)(6) of title 20, Code of Federal Regulations (or any successor regulation) with respect to an H–2A worker who is displaced due to compliance with the requirement of this subparagraph, if the Secretary of Labor certifies that the H–2A worker was displaced because of the employer's compliance with clause (i) of this subparagraph.
 
-&emsp;(vii)(I) No person or entity shall willfully and knowingly withhold domestic workersprior to the arrival of H–2A workers in order to force the hiring of domestic workers under clause (i).
+&emsp;(vii)(I) No person or entity shall willfully and knowingly withhold domestic workers prior to the arrival of H–2A workers in order to force the hiring of domestic workers under clause (i).
 
 &emsp;(II) Upon the receipt of a complaint by an employer that a violation of subclause (I) has occurred the Secretary shall immediately investigate. He shall within 36 hours of the receipt of the complaint issue findings concerning the alleged violation. Where the Secretary finds that a violation has occurred, he shall immediately suspend the application of clause (i) of this subparagraph with respect to that certification for that date of need.
 

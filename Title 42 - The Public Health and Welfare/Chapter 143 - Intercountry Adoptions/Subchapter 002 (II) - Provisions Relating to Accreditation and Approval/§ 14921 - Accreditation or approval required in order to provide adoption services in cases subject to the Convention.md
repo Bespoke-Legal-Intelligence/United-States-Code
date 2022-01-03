@@ -30,9 +30,13 @@ Subsection (a) shall not apply to the following:
 
 (Pub. L. 106–279, title II, §201, Oct. 6, 2000, 114 Stat. 830.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This subchapter, referred to in subsec. (a), was in the original "this title", meaning title II of Pub. L. 106–279, Oct. 6, 2000, 114 Stat. 830, which is classified principally to this subchapter. For complete classification of title II to the Code, see Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

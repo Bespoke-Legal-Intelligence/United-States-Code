@@ -10,7 +10,7 @@ The national delegates aforesaid from the United States shall serve without comp
 
 #### Codification
 
-Act June 26, 1934, ch. 756, §2(a), 48 Stat. 1225, which was classified to section 725a of former Title 31, Money and Finance, provided for the repeal, effective July 1, 1935, of the permanent appropriations under the appropriations titles listed in section 2(b) of such Act, and further provided that such portions of any Acts as made permanent appropriations to be expended under such accounts were amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as were provided by the laws providing such permanent appropriations. The text of section 2(b)(12) of such Act provides as follows: "Permanent International Commission of Congresses of Navigation (fiscal year) (8–887)." See 1934 Amendment note below.
+Act June 26, 1934, ch. 756, §2(a), 48 Stat. 1225, which was classified to section 725a of former Title 31, Money and Finance, provided for the repeal, effective July 1, 1935, of the permanent appropriations under the appropriations titles listed in section 2(b) of such Act, and further provided that such portions of any Acts asmade permanent appropriations to be expended under such accounts were amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as were provided by the laws providing such permanent appropriations. The text of section 2(b)(12) of such Act provides as follows: "Permanent International Commission of Congresses of Navigation (fiscal year) (8–887)." See 1934 Amendment note below.
 
 #### Amendments
 

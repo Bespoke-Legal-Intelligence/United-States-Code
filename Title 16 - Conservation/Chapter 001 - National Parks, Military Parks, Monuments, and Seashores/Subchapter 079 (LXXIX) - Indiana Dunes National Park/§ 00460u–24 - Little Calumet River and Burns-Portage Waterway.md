@@ -10,11 +10,15 @@ The Secretary shall conduct a study regarding the options available for linking 
 
 (Pub. L. 89–761, §24, as added Pub. L. 99–583, §1(i), Oct. 29, 1986, 100 Stat. 3320; amended Pub. L. 116–6, div. E, title I, §115(a)(1), Feb. 15, 2019, 133 Stat. 232.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (a). Pub. L. 116–6, §115(a)(1)(A), substituted "National Park" for "National Lakeshore".
 
 Subsec. (b). Pub. L. 116–6, §115(a)(1)(B), substituted "Park" for "lakeshore" in two places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

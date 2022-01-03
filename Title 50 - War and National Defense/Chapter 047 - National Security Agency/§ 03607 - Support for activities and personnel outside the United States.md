@@ -24,13 +24,15 @@ The authority of the Director of the National Security Agency, on behalf of the 
 
 #### (d) Members of Armed Forces
 
-Members of the Armed Forces may not receive benefits under both subsection (b)(1) and title 37 for the same purpose. The Secretary of Defense shall prescribe such regulations as may be necessary to carry out this subsection.
+Members of the Armed Forces may not receive benefits under both subsection (b)(1) and title 37for the same purpose. The Secretary of Defense shall prescribe such regulations as may be necessary to carry out this subsection.
 
 #### (e) Regulations
 
 Regulations issued pursuant to subsection (b)(1) shall be submitted to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate before such regulations take effect.
 
 (Pub. L. 86–36, §9, as added Pub. L. 96–450, title IV, §402(a)(1), Oct. 14, 1980, 94 Stat. 1977; amended Pub. L. 97–89, title VI, §601, Dec. 4, 1981, 95 Stat. 1154; Pub. L. 99–335, title V, §507(a), June 6, 1986, 100 Stat. 628; Pub. L. 101–193, title V, §505(b), Nov. 30, 1989, 103 Stat. 1709; Pub. L. 102–496, title VIII, §803(b), Oct. 24, 1992, 106 Stat. 3253.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -53,6 +55,8 @@ Section was formerly classified in a note under section 402 of this title prior 
 <b>1981</b>—Subsec. (b)(1). Pub. L. 97–89, §601(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "allowances and benefits comparable to those provided by the Secretary of State to officers and employees of the Foreign Service under paragraphs (1), (2), (7), (9), (10), and (11) of section 1136, and under sections 1137, 1138a, 1148, 1156, 1157, and 1160, of title 22; and".
 
 Subsecs. (d), (e). Pub. L. 97–89, §601(b), added subsecs. (d) and (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

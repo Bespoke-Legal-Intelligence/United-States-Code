@@ -198,7 +198,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) any specified service trade or business of the taxpayer shall not fail to be treated as a qualified trade or business due to paragraph (1)(A), but
 
-&emsp;&emsp;&emsp;(ii) only the applicable percentage of qualified items of income, gain, deduction, or loss, and the W–2 wages and the unadjusted basis immediately after acquisition of qualified property, of the taxpayer allocable to such specified service trade or business shall be taken into account in computing the qualified business income, W–2 wages, and the unadjusted basis immediately after acquisition of qualified property of the taxpayer for thetaxable year for purposes of applying this section.
+&emsp;&emsp;&emsp;(ii) only the applicable percentage of qualified items of income, gain, deduction, or loss, and the W–2 wages and the unadjusted basis immediately after acquisition of qualified property, of the taxpayer allocable to such specified service trade or business shall be taken into account in computing the qualified business income, W–2 wages, and the unadjusted basis immediately after acquisition of qualified property of the taxpayer for the taxable year for purposes of applying this section.
 
 #### (B) Applicable percentage
 
@@ -262,7 +262,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) each partner or shareholder shall be treated for purposes of subsection (b) as having W–2 wages and unadjusted basis immediately after acquisition of qualified property for the taxable year in an amount equal to such person's allocable share of the W–2 wages and the unadjusted basis immediately after acquisition of qualified property of the partnership or S corporation for the taxable year (as determined under regulations prescribed by the Secretary).
 
-> &emsp;&emsp;For purposes of clause (iii), a partner's or shareholder's allocable share of W–2 wages shall be determined in the same manner as the partner's or shareholder's allocable share of wage expenses. For purposes of such clause, partner's or shareholder's allocable share of the unadjusted basis immediately after acquisition of qualified property shall be determined in the same manner as the partner's or shareholder's allocable share of depreciation. For purposes of this subparagraph, in the case of an S corporation, an allocable share shall be the shareholder's pro rata share of an item.
+> &emsp;&emsp;For purposes of clause (iii), a partner's or shareholder's allocable share of W–2 wagesshall be determined in the same manner as the partner's or shareholder's allocable share of wage expenses. For purposes of such clause, partner's or shareholder's allocable share of the unadjusted basis immediately after acquisition of qualified property shall be determined in the same manner as the partner's or shareholder's allocable share of depreciation. For purposes of this subparagraph, in the case of an S corporation, an allocable share shall be the shareholder's pro rata share of an item.
 
 #### (B) Application to trusts and estates
 
@@ -276,7 +276,7 @@ For purposes of this section—
 
 #### (ii) Special rule for applying limit
 
-&emsp;&emsp;&emsp;In the case of any taxpayer described in clause (i), the determination of W–2 wages of such taxpayer with respect to any qualified trade or business conducted in PuertoRico shall be made without regard to any exclusion under section 3401(a)(8) for remuneration paid for services in Puerto Rico.
+&emsp;&emsp;&emsp;In the case of any taxpayer described in clause (i), the determination of W–2 wages of such taxpayer with respect to any qualified trade or business conducted in Puerto Rico shall be made without regard to any exclusion under section 3401(a)(8) for remuneration paid for services in Puerto Rico.
 
 #### (2) Coordination with minimum tax
 
@@ -336,7 +336,7 @@ For purposes of this section—
 
 #### (C) Cooperative denied deduction for portion of qualified payments
 
-&emsp;&emsp;The taxable income of a specified agricultural or horticultural cooperative shall not be reduced under section 1382 by reason of that portion of any qualified payment as does not exceed the deduction allowable under subparagraph (A) with respect to such payment.
+&emsp;&emsp;The taxable income of a specified agricultural or horticultural cooperative shall not be reduced under section 1382 by reason ofthat portion of any qualified payment as does not exceed the deduction allowable under subparagraph (A) with respect to such payment.
 
 #### (D) Eligible taxpayer
 
@@ -492,6 +492,8 @@ This section shall not apply to taxable years beginning after December 31, 2025.
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 199(d)(1)(B)(i) (as in effect on December 1, 2017), referred to in subsec. (f)(1)(B), means section 199(d)(1)(B)(i) of this title prior to repeal of section 199 by Pub. L. 115–97, title I, §13305(a), Dec. 22, 2017, 131 Stat. 2126.
@@ -515,6 +517,8 @@ Pub. L. 115–141, §101(a)(2)(A), substituted "any deduction" for "the deductio
 Subsec. (e)(4), (5). Pub. L. 115–141, §101(b)(2)(B)(ii), redesignated par. (5) as (4) and struck out former par. (4) which defined "qualified cooperative dividend".
 
 Subsec. (g). Pub. L. 115–141, §101(a)(1), amended subsec. (g) generally. Prior to amendment, subsec. (g) related to deduction allowed to specified agricultural or horticultural cooperatives.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

@@ -6,7 +6,7 @@ Content.—The Secretary shall submit an annual report to Congress on the threat
 
 (b)
 
-Submission.—The report shall be submitted to the Committee on International Relations and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Foreign Relations and theCommittee on Commerce, Science, and Transportation of the Senate. Any classified information in the report shall be submitted separately as an addendum.
+Submission.—The report shall be submitted to the Committee on International Relations and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Foreign Relations and the Committee on Commerce, Science, and Transportation of the Senate. Any classified information in the report shall be submitted separately as an addendum.
 
 (Pub. L. 109–304, §10(2), Oct. 6, 2006, 120 Stat. 1685; Pub. L. 109–241, title IX, §901(q), July 11, 2006, 120 Stat. 566; Pub. L. 110–181, div. C, title XXXV, §3525(a)(5), (b), Jan. 28, 2008, 122 Stat. 601.)
 

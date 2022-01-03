@@ -4,9 +4,13 @@ The term "State" as used in this subchapter shall include Puerto Rico, the Virgi
 
 (Pub. L. 87–788, §8, Oct. 10, 1962, 76 Stat. 807; Pub. L. 92–318, title V, §506(j), June 23, 1972, 86 Stat. 351.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1972</b>—Pub. L. 92–318 inserted reference to Virgin Islands and Guam.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1972 Amendment
 

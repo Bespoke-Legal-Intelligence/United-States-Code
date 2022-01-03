@@ -14,7 +14,7 @@ For purposes of this section, the term—
 
 (2) The Ombudsman shall—
 
-&emsp;(A) work with each agency with regulatory authority over small businesses to ensure that small business concerns that receive or are subject to an audit, on-site inspection, compliance assistance effort, or other enforcement related communication or contact by agency personnel are provided with a means to comment on the enforcement activity conducted by such personnel;
+&emsp;(A) work with each agency with regulatory authority over small businesses to ensure that small business concerns that receive or are subject to an audit, on-site inspection, compliance assistance effort, or other enforcementrelated communication or contact by agency personnel are provided with a means to comment on the enforcement activity conducted by such personnel;
 
 &emsp;(B) establish means to receive comments from small business concerns regarding actions by agency employees conducting compliance or enforcement activities with respect to the small business concern, means to refer comments to the Inspector General of the affected agency in the appropriate circumstances, and otherwise seek to maintain the identity of the person and small business concern making such comments on a confidential basis to the same extent as employee identities are protected under section 7 of the Inspector General Act of 1978 (5 U.S.C. App.);
 
@@ -56,6 +56,8 @@ For purposes of this section, the term—
 
 (Pub. L. 85–536, §2\[30\], as added Pub. L. 104–121, title II, §222(2), Mar. 29, 1996, 110 Stat. 860.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 7 of the Inspector General Act of 1978, referred to in subsec. (b)(2)(B), is section 7 of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -63,6 +65,8 @@ Section 7 of the Inspector General Act of 1978, referred to in subsec. (b)(2)(B)
 #### Prior Provisions
 
 A prior section 2\[30\] of Pub. L. 85–536 was renumbered section 2\[49\] and is set out as a note under section 631 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

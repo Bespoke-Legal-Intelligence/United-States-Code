@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(i) which the Governor requests, and agrees to assume, the responsibility for administration and enforcement in accordance with subsection (d);
 
-&emsp;&emsp;(ii) which the attorney general of that State has found that (I) absent a delegation of authority under Federal law, the Governor lacks the authority under the laws of the State to invoke, (II) under applicable State law, the Governor and other appropriate State officers and employees are not prevented from administering and enforcingunder a delegation of authority pursuant to Federal law; and (III) if implemented, would not be contrary to State law; and
+&emsp;&emsp;(ii) which the attorney general of that State has found that (I) absent a delegation of authority under Federal law, the Governor lacks the authority under the laws of the State to invoke, (II) under applicable State law, the Governor and other appropriate State officers and employees are not prevented from administering and enforcing under a delegation of authority pursuant to Federal law; and (III) if implemented, would not be contrary to State law; and
 
 &emsp;&emsp;(iii) which either the Secretary determines are contained in the standby Federal conservation plan established under section 8513 of this title or are approved by the Secretary, in his discretion.
 

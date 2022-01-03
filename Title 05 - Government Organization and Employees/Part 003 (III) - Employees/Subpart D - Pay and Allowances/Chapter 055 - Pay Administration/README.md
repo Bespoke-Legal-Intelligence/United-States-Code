@@ -195,7 +195,7 @@ Pub. L. 92–392, §10(b), Aug. 19, 1972, 86 Stat. 574, added item 5550.
 
 Pub. L. 90–588, §2(c), Oct. 17, 1968, 82 Stat. 1152, added item 5519.
 
-<b>1967</b>—Pub. L. 90–83, §1(23), (26)(B), (28), (30), (35), Sept. 11, 1967, 81 Stat. 200, 201, 203, inserted items 5534a, 5595and 5596, included Sunday rates in item 5544, Sunday and hazardous duty differential in item 5545 and Sundays in item 5546, substituted "Severance Pay and Back Pay" for "Back Pay" in heading of subchapter IX, and struck out items 5591 to 5594.
+<b>1967</b>—Pub. L. 90–83, §1(23), (26)(B), (28), (30), (35), Sept. 11, 1967, 81 Stat. 200, 201, 203, inserted items 5534a, 5595 and 5596, included Sunday rates in item 5544, Sunday and hazardous duty differential in item 5545 and Sundays in item 5546, substituted "Severance Pay and Back Pay" for "Back Pay" in heading of subchapter IX, and struck out items 5591 to 5594.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

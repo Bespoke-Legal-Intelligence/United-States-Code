@@ -20,7 +20,7 @@ Promoting Safety and Efficiency.—To promote safety and efficiency in air navig
 
 &emsp;(6) coordinate meteorological requirements in the United States to maintain standard observations, to promote efficient use of facilities, and to avoid duplication of services unless the duplication tends to promote the safety and efficiency of air navigation; and
 
-&emsp;(7) promote and develop meteorological science and foster and support research projects in meteorology through the use of private and governmental research facilities and provide for publishing the results of the projects unless publication would not be in the public interest.
+&emsp;(7) promote and develop meteorological science and foster and support research projects in meteorology through the use ofprivate and governmental research facilities and provide for publishing the results of the projects unless publication would not be in the public interest.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1201.)
 
@@ -55,6 +55,8 @@ Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L.
 49 App.:1655(c)(1).
 
 In subsection (b), the title "Secretary" \[of Commerce\] is substituted for "Chief of the Weather Bureau" in section 803 of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 783) because of sections 1 and 2 of Reorganization Plan No. 2 of 1965 (eff. July 13, 1965, 79 Stat. 1318). Before clause (1), the words "In order" and "in addition to any other functions or duties pertaining to weather information for other purposes" are omitted as surplus. In clause (2), the words "forecasts, warnings, and advices" are omitted as being included in "reports". In clause (3), the words "or employees thereof" and "establish and" are omitted as surplus. The words "with those persons" are added for clarity. In clause (5), the words "departments, agencies, and instrumentalities of the United States Government" are substituted for "governmental agencies of the United States" for consistency in the revised title and with other titles of the United States Code.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Improved Safety in Rural Areas
 
@@ -138,7 +140,7 @@ Applicability to low population density states.—This subsection is applicable 
 
 "(e)
 
-Report.—Not later than September 30, 2025, the Administrator shall submit to the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives\] a report on the implementation of the requirements under this section."
+Report.—Not later than September 30, 2025, the Administrator shall submit to the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee onTransportation and Infrastructure of the House of Representatives\] a report on the implementation of the requirements under this section."
 
 #### Automated Surface Observation System Stations
 

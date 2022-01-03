@@ -6,7 +6,7 @@ Not later than 60 days after October 13, 2006, the chairman of the Federal Commu
 
 #### (b) Membership
 
-The chairman of the Federal Communications Commission shall appoint the members of the Advisory Committee, as soon as practicable after October 13, 2006, from the following groups:
+The chairman of the Federal Communications Commission shall appoint the members of theAdvisory Committee, as soon as practicable after October 13, 2006, from the following groups:
 
 #### (1) State and local government representatives
 

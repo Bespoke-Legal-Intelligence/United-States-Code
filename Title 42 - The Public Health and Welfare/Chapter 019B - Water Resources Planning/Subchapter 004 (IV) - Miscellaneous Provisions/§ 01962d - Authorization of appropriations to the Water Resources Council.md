@@ -16,6 +16,8 @@ There are authorized to be appropriated to the Water Resources Council:
 
 (Pub. L. 89–80, title IV, §401, July 22, 1965, 79 Stat. 253; Pub. L. 90–547, Oct. 2, 1968, 82 Stat. 935; Pub. L. 92–27, June 17, 1971, 85 Stat. 77; Pub. L. 92–396, Aug. 20, 1972, 86 Stat. 578; Pub. L. 93–55, July 1, 1973, 87 Stat. 140; Pub. L. 94–112, §1(e), Oct. 16, 1975, 89 Stat. 575; Pub. L. 94–285, §1, May 12, 1976, 90 Stat. 516; Pub. L. 95–41, §1, June 6, 1977, 91 Stat. 209; Pub. L. 95–404, §1(a)–(c), Sept. 30, 1978, 92 Stat. 864.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–404, §1(a), substituted "The sum of $2,886,000 for fiscal year 1979" for "not to exceed $6,000,000 for fiscal year 1978".
@@ -39,6 +41,8 @@ Subsec. (c). Pub. L. 95–41, §1(a), substituted "not to exceed the sum of $3,9
 <b>1971</b>—Pub. L. 92–27 substituted appropriation authorization of $6,000,000 annually for Federal share of expenses of administration and operation of river basin commissions, including salaries and expenses of chairman, for former provisions for annual appropriation authorization of $500,000; $6,000,000; and $400,000 for subchapters I, II, and III of this chapter and authorize appropriation of $1.5 million annually for administration expenses of Water Resources Council.
 
 <b>1968</b>—Pub. L. 90–547 increased authorization for appropriations to carry out provisions of subchapter I of this chapter from not to exceed $300,000 annually to not to exceed $500,000 annually.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Increases in Salary, Pay, Retirement, or Other Benefits for Federal Employees
 

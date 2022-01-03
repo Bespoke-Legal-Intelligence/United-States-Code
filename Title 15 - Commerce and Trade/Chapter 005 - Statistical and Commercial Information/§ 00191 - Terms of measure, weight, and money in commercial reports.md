@@ -4,6 +4,8 @@ All terms of measure, weight, and money in the diplomatic, consular, and other c
 
 (Feb. 9, 1903, ch. 530, 32 Stat. 813; Feb. 14, 1903, ch. 552, §10, 32 Stat. 829; Mar. 4, 1913, ch. 141, §1, 37 Stat. 736.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Act Mar. 4, 1913, substituted "Department of Commerce" for "Department of Commerce and Labor".

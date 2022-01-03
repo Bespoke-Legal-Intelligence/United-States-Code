@@ -20,7 +20,7 @@ Annual Briefings.—Not later than March 15 of each year, the Secretary of Defen
 
 Reports on 2010
 
-Nuclear Posture Review Implementation Study Decisions.—During each of fiscal years 2012 through 2021, not later than 60 days before the date on which the President carries out the results of the decisions madepursuant to the 2010 Nuclear Posture Review Implementation Study that would alter the nuclear weapons employment strategy, guidance, plans, or options of the United States, the President shall—
+Nuclear Posture Review Implementation Study Decisions.—During each of fiscal years 2012 through 2021, not later than 60 days before the date on which the President carries out the results of the decisions made pursuant to the 2010 Nuclear Posture Review Implementation Study that would alter the nuclear weapons employment strategy, guidance, plans, or options of the United States, the President shall—
 
 &emsp;(1) ensure that the annual report required under section 1043(a)(1) of the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81; 125 Stat. 1576) is transmitted to Congress, if so required;
 
@@ -29,6 +29,8 @@ Nuclear Posture Review Implementation Study Decisions.—During each of fiscal y
 &emsp;(3) transmit to the congressional defense committees a report providing the high-, medium-, and low- confidence assessments of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 3003(4))) as to whether the United States will have significant warning of a strategic surprise or breakout caused by foreign nuclear weapons developments.
 
 (Added Pub. L. 112–81, div. A, title X, §1046(b)(1), Dec. 31, 2011, 125 Stat. 1579; amended Pub. L. 112–239, div. A, title X, §§1031(a), 1032, Jan. 2, 2013, 126 Stat. 1917, 1919; Pub. L. 113–66, div. A, title X, §1052(b), Dec. 26, 2013, 127 Stat. 861; Pub. L. 113–291, div. A, title X, §1071(c)(10), Dec. 19, 2014, 128 Stat. 3509.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -61,6 +63,8 @@ Pub. L. 112–239, §1031(a)(2)(F), added subsec. (c).
 Subsec. (d). Pub. L. 113–66, §1052(b)(2), redesignated subsec. (d) as (c).
 
 Pub. L. 112–239, §1032(b), added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Plan To Train Officers in Nuclear Command, Control, and Communications
 
@@ -114,7 +118,7 @@ Charter.—In establishing the fusion center under subsection (a), the Secretary
 
 &emsp;"(2) The management and administration processes required to carry out the fusion center, including with respect to facilities and security authorities.
 
-&emsp;"(3) Procedures to ensure that the appropriate number of staff of the fusion center have the security clearance necessary to access information on the programs, systems, and processes that relate, either wholly or substantially, to nuclear command, control, and communications or continuity of government, including with respect to both the programs, systems, and processes that are designated as special access programs (as described in section 4.3 of Executive Order 13526 (50 U.S.C. 3161 note) or any successor Executive order) and the programs, systems, andprocesses that contain sensitive compartmented information.
+&emsp;"(3) Procedures to ensure that the appropriate number of staff of the fusion center have the security clearance necessary to access information on the programs, systems, and processes that relate, either wholly or substantially, to nuclear command, control, and communications or continuity of government, including with respect to both the programs, systems, and processes that are designated as special access programs (as described in section 4.3 of Executive Order 13526 (50 U.S.C. 3161 note) or any successor Executive order) and the programs, systems, and processes that contain sensitive compartmented information.
 
 "(c)
 
@@ -266,7 +270,7 @@ Plan.—
 
 &emsp;&emsp;"(A)
 
-Development.—The Secretary shall develop a plan to carry out the evaluations under paragraph (1), including with respect to the personnel and resources required to carry out such evaluations.
+Development.—The Secretary shall develop a plan to carry out the evaluations under paragraph\(1), including with respect to the personnel and resources required to carry out such evaluations.
 
 &emsp;&emsp;"(B)
 
@@ -367,6 +371,8 @@ Pub. L. 113–291, div. A, title XVI, §1652, Dec. 19, 2014, 128 Stat. 3654, pro
 &emsp;"(3) to deter potential adversaries and assure allies and partners of the United States through strong and long-term commitment to the nuclear deterrent of the United States and the personnel, systems, and infrastructure that comprise such deterrent; and
 
 &emsp;"(4) to ensure that the members of the Armed Forces who operate the nuclear deterrent of the United States have the training, resources, and national support required to execute the critical national security mission of the members."
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Reporting Functions Specified in Section 491 of Title 10, United States Code
 

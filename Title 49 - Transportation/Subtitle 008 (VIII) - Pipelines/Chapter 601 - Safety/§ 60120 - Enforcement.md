@@ -92,6 +92,8 @@ In subsection (b), the words "mandatory or prohibitive" are omitted as surplus. 
 
 In subsection (c), the words "common law or statutory" are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Subsec. (a)(1). Pub. L. 112–90 added at end "The maximum amount of civil penalties for administrative enforcement actions under section 60122 shall not apply to enforcement actions under this section."

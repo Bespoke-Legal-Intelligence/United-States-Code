@@ -20,9 +20,13 @@ The dividend carryover to the taxable year shall be determined as follows:
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 200; Pub. L. 94–455, title XIX, §1901(a)(81), Oct. 4, 1976, 90 Stat. 1778.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Subsec. (c). Pub. L. 94–455 struck out subsec. (c) which related to the determination of dividend carryover from taxable years to which this subtitle does not apply.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

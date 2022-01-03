@@ -54,7 +54,7 @@ In this part—
 
 &emsp;&emsp;&emsp;(i) for contract year 1999 shall be not more than $6,000; and
 
-&emsp;&emsp;&emsp;(ii) for a subsequent contract year shall be not more than the maximum amount ofsuch deductible for the previous contract year under this subparagraph increased by the national per capita Medicare+Choice growth percentage under section 1395w–23(c)(6) of this title for the year.
+&emsp;&emsp;&emsp;(ii) for a subsequent contract year shall be not more than the maximum amount of such deductible for the previous contract year under this subparagraph increased by the national per capita Medicare+Choice growth percentage under section 1395w–23(c)(6) of this title for the year.
 
 > &emsp;&emsp;If the amount of the deductible under clause (ii) is not a multiple of $50, the amount shall be rounded to the nearest multiple of $50.
 
@@ -90,7 +90,7 @@ In this part—
 
 &emsp;&emsp;&emsp;&emsp;(I) before January 1, 2022, have one or more comorbid and medically complex chronic conditions that are substantially disabling or life threatening, have a high risk of hospitalization or other significant adverse health outcomes, and require specialized delivery systems across domains of care; and
 
-&emsp;&emsp;&emsp;&emsp;(II) on or after January 1, 2022, have one or more comorbid and medically complex chronic conditions that is life threatening or significantly limits <sup>1</sup> overall health or function, have a high risk of hospitalization or other adverse health outcomes, and require intensive care coordination and that is listed under subsection (f)(9)(A).
+&emsp;&emsp;&emsp;&emsp;(II) on or after January 1, 2022, have one or more comorbid and medically complex chronic conditions that is life threatening or significantly limits <sup>1</sup>overall health or function, have a high risk of hospitalization or other adverse health outcomes, and require intensive care coordination and that is listed under subsection (f)(9)(A).
 
 > &emsp;&emsp;The Secretary may apply rules similar to the rules of section 1395eee(c)(4) of this title for continued eligibility of special needs individuals.
 
@@ -162,7 +162,7 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 &emsp;In the case of a specialized MA plan for special needs individuals described in subsection (b)(6)(B)(i), the applicable requirements described in this paragraph are as follows:
 
-&emsp;&emsp;(A) Each individual that enrolls in the plan on or after January 1, 2010, is a special needs individuals described in subsection (b)(6)(B)(i). In the case of an individual who is living in the community but requires an institutional level of care, such individual shall not be considered a special needs individual described in subsection (b)(6)(B)(i) unless the determination that the individual requires an institutional level of care was made—
+&emsp;&emsp;(A) Each individual that enrolls in the plan on or after January 1, 2010, is a special needs individuals described in subsection (b)(6)(B)(i). In the case of an individual who is living in the community but requires an institutional level of care, such individual shall not be considered a special needs individual described in subsection (b)(6)(B)(i) unless the determination that the individualrequires an institutional level of care was made—
 
 &emsp;&emsp;&emsp;(i) using a State assessment tool of the State in which the individual resides; and
 
@@ -278,7 +278,7 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not later than April 1, 2020, the Secretary shall establish procedures, to the extent feasible as determined by the Secretary, unifying grievances and appeals procedures under sections 1395w–22(f), 1395w–22(g), 1396a(a)(3), 1396a(a)(5), and 1396u–2(b)(4) of this title for items and services provided by specialized MA plans for special needs individuals described in subsection (b)(6)(B)(ii) under this subchapter and subchapter XIX. With respect to items and services described in the preceding sentence, procedures established under this clause shall apply in place ofotherwise applicable grievances and appeals procedures. The Secretary shall solicit comment in developing such procedures from States, plans, beneficiaries and their representatives, and other relevant stakeholders.
+&emsp;&emsp;&emsp;Not later than April 1, 2020, the Secretary shall establish procedures, to the extent feasible as determined by the Secretary, unifying grievances and appeals procedures under sections 1395w–22(f), 1395w–22(g), 1396a(a)(3), 1396a(a)(5), and 1396u–2(b)(4) of this title for items and services provided by specialized MA plans for special needs individuals described in subsection (b)(6)(B)(ii) under this subchapter and subchapter XIX. With respect to items and services described in the preceding sentence, procedures established under this clause shall apply in place of otherwise applicable grievances and appeals procedures. The Secretary shall solicit comment in developing such procedures from States, plans, beneficiaries and their representatives, and other relevant stakeholders.
 
 #### (ii) Procedures
 
@@ -324,7 +324,7 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 &emsp;&emsp;&emsp;&emsp;(II) The specialized MA plan must meet the requirements of a fully integrated plan described in section 1395w–23(a)(1)(B)(iv)(II) of this title (other than the requirement that the plan have similar average levels of frailty, as determined by the Secretary, as the PACE program), or enter into a capitated contract with the State Medicaid agency to provide long-term services and supports or behavioral health services, or both.
 
-&emsp;&emsp;&emsp;&emsp;(III) In the case of a specialized MA plan that is offered by a parent organization that is also the parent organization of a Medicaid managed care organization providing long term services and supports or behavioral services under a contract under section 1396b(m) of this title, the parent organization must assume clinical and financial responsibility forbenefits provided under this subchapter and subchapter XIX with respect to any individual who is enrolled in both the specialized MA plan and the Medicaid managed care organization.
+&emsp;&emsp;&emsp;&emsp;(III) In the case of a specialized MA plan that is offered by a parent organization that is also the parent organization of a Medicaid managed care organization providing long term services and supports or behavioral services under a contract under section 1396b(m) of this title, the parent organization must assume clinical and financial responsibility for benefits provided under this subchapter and subchapter XIX with respect to any individual who is enrolled in both the specialized MA plan and the Medicaid managed care organization.
 
 #### (ii) Suspension of enrollment for failure to meet requirements during initial period
 
@@ -450,6 +450,8 @@ Nothing in this part shall be construed as preventing a State from coordinating 
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1859, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 325; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §523\], Nov. 29, 1999, 113 Stat. 1536, 1501A–387; Pub. L. 108–173, title II, §§221(b)(1), (d)(2), 231(b), (c), Dec. 8, 2003, 117 Stat. 2180, 2193, 2207, 2208; Pub. L. 110–173, title I, §108(a), Dec. 29, 2007, 121 Stat. 2496; Pub. L. 110–275, title I, §§162(b), 164(a), (c)(1), (d)(1), (e)(1), July 15, 2008, 122 Stat. 2571–2574; Pub. L. 111–148, title III, §§3205(a), (c), (e), (g), 3208(a), Mar. 23, 2010, 124 Stat. 457–459; Pub. L. 112–240, title VI, §607, Jan. 2, 2013, 126 Stat. 2349; Pub. L. 113–67, div. B, title I, §1107, Dec. 26, 2013, 127 Stat. 1197; Pub. L. 113–93, title I, §107, Apr. 1, 2014, 128 Stat. 1043; Pub. L. 114–10, title II, §206, Apr. 16, 2015, 129 Stat. 145; Pub. L. 114–255, div. C, title XVII, §17006(a)(2)(B), Dec. 13, 2016, 130 Stat. 1334; Pub. L. 115–123, div. E, title III, §§50311(a), (b)(1), (c), 50321, Feb. 9, 2018, 132 Stat. 192, 196, 200; Pub. L. 115–271, title VI, §6063(a), Oct. 24, 2018, 132 Stat. 3987.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Internal Revenue Code of 1986, referred to in subsec. (e)(3)(A), is classified generally to Title 26, Internal Revenue Code.
@@ -522,7 +524,9 @@ Subsec. (c)(5). Pub. L. 108–173, §221(d)(2), added par. (5).
 
 Subsec. (f). Pub. L. 108–173, §231(c), added subsec. (f).
 
-<b>1999</b>—Subsec. (e)(2). Pub. L. 106–113 substituted "section 1395w–21(a)(2) of this title" for "section1395w–21(a)(2)(A) of this title" in introductory provisions.
+<b>1999</b>—Subsec. (e)(2). Pub. L. 106–113 substituted "section 1395w–21(a)(2) of this title" for "section 1395w–21(a)(2)(A) of this title" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

@@ -168,7 +168,7 @@ In carrying out this section, the Director may provide awards in the form of gra
 
 #### (C) Private recruiting firms
 
-&emsp;&emsp;The Secretary, or the Director serving as an agent of the Secretary, may contractwith private recruiting firms for the hiring of qualified technical staff to carry out this section.
+&emsp;&emsp;The Secretary, or the Director serving as an agent of the Secretary, may contract with private recruiting firms for the hiring of qualified technical staff to carry out this section.
 
 #### (D) Additional staff
 
@@ -206,7 +206,7 @@ In carrying out this section, the Director may provide awards in the form of gra
 
 #### (j) Federal demonstration of technologies
 
-The Director shall seek opportunities to partner with purchasing and procurement programs of Federal agencies to demonstrate energy technologies resulting from activities funded through ARPA–E.
+The Director shall seek opportunities to partner with purchasing and procurement programsof Federal agencies to demonstrate energy technologies resulting from activities funded through ARPA–E.
 
 #### (k) Advice
 
@@ -313,6 +313,8 @@ The following types of information collected by ARPA–E from recipients of fina
 &emsp;&emsp;(C) no funds may be used for construction of new buildings or facilities during the 5-year period beginning on August 9, 2007.
 
 (Pub. L. 110–69, title V, §5012, Aug. 9, 2007, 121 Stat. 621; Pub. L. 111–358, title IX, §904, Jan. 4, 2011, 124 Stat. 4045; Pub. L. 115–246, title II, §202, Sept. 28, 2018, 132 Stat. 3134; Pub. L. 116–260, div. Z, title X, §10001, Dec. 27, 2020, 134 Stat. 2609.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

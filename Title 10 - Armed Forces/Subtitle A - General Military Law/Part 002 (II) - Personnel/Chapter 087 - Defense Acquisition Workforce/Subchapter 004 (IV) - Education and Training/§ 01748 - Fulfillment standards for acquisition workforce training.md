@@ -4,6 +4,8 @@ The Secretary of Defense, acting through the Under Secretary of Defense for Acqu
 
 (Added Pub. L. 111–383, div. A, title VIII, §874(b)(1), Jan. 7, 2011, 124 Stat. 4304; amended Pub. L. 116–92, div. A, title IX, §902(24), Dec. 20, 2019, 133 Stat. 1545.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in Pub. L. 105–85, div. A, title VIII, §853, Nov. 18, 1997, 111 Stat. 1851, which was set out as a note under section 1723 of this title, prior to repeal by Pub. L. 111–383, §874(b)(4).
@@ -11,6 +13,8 @@ Provisions similar to those in this section were contained in Pub. L. 105–85, 
 #### Amendments
 
 <b>2019</b>—Pub. L. 116–92 substituted "Under Secretary of Defense for Acquisition and Sustainment" for "Under Secretary of Defense for Acquisition, Technology, and Logistics".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Deadline for Fulfillment Standards
 

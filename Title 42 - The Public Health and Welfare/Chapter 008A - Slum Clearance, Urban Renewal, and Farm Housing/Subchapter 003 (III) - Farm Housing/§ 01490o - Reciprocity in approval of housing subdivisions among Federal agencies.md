@@ -18,6 +18,8 @@ For loans made under this subchapter, the Secretary may accept subdivisions that
 
 (July 15, 1949, ch. 338, title V, §535, as added Pub. L. 98–181, title I \[title V, §523\], Nov. 30, 1983, 97 Stat. 1254; amended Pub. L. 100–628, title X, §1067, Nov. 7, 1988, 102 Stat. 3276; Pub. L. 101–235, title III, §303, Dec. 15, 1989, 103 Stat. 2044; Pub. L. 101–625, title VII, §718(a), Nov. 28, 1990, 104 Stat. 4297; Pub. L. 102–54, §13(q)(5), June 13, 1991, 105 Stat. 280; Pub. L. 102–550, title VII, §716(a), (c), Oct. 28, 1992, 106 Stat. 3842; Pub. L. 103–120, §8(a), Oct. 27, 1993, 107 Stat. 1151.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1993</b>—Subsec. (b). Pub. L. 103–120 substituted "September 30, 1994" for "June 15, 1993".
@@ -36,9 +38,11 @@ Subsec. (c). Pub. L. 102–54, §13(q)(5)(B), substituted "Department of Veteran
 
 <b>1988</b>—Pub. L. 100–628 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Retroactivity of Approval of Housing Subdivisions Among Federal Agencies
 
-Pub. L. 103–120, §8(b), Oct. 27, 1993, 107 Stat. 1151, provided that: "An administrative approval of a housing subdivision made after June 15, 1993, and before the date of the enactment of this Act \[Oct. 27, 1993\] is approved and shall be considered to have been lawfully made, but only if otherwise made in accordance with the provisions of section 535(b) of the Housing Act of 1949 \[42 U.S.C. 1490o(b)\]."
+Pub. L. 103–120, §8(b), Oct. 27, 1993, 107 Stat. 1151, provided that: "An administrative approval of a housing subdivision made after June 15, 1993, and before thedate of the enactment of this Act \[Oct. 27, 1993\] is approved and shall be considered to have been lawfully made, but only if otherwise made in accordance with the provisions of section 535(b) of the Housing Act of 1949 \[42 U.S.C. 1490o(b)\]."
 
 Pub. L. 102–550, title VII, §716(b), Oct. 28, 1992, 106 Stat. 3842, provided that: "Any administrative approval of any housing subdivision made after the expiration of the 18-month period beginning on the date of the enactment of the Department of Housing and Urban Development Reform Act of 1989 \[Dec. 15, 1989\] and before the date of the enactment of this Act \[Oct. 28, 1992\] is approved and shall be considered to have been lawfully made, but only if otherwise made in accordance with the provisions of section 535(b) of the Housing Act of 1949 \[42 U.S.C. 1490o(b)\]."
 

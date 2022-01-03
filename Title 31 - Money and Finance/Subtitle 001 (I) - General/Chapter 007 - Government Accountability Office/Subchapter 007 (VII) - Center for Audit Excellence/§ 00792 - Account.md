@@ -6,7 +6,7 @@ Establishment of Separate Account.—There is established in the Treasury as a s
 
 (b)
 
-Use of Account.—Amounts in the Center for Audit Excellence Account shall be available to the Comptroller General, in amounts specified in appropriations Acts and without fiscal year limitation, to carry out this subchapter.
+Use of Account.—Amounts in the Center for Audit Excellence Account shall be availableto the Comptroller General, in amounts specified in appropriations Acts and without fiscal year limitation, to carry out this subchapter.
 
 (Added Pub. L. 113–235, div. H, title I, §1401(a)(1), Dec. 16, 2014, 128 Stat. 2540.)
 

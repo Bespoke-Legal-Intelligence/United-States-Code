@@ -24,7 +24,7 @@ Annual Report on Air Carrier Safety Recommendations.—
 
 &emsp;(1)
 
-In general.—The Secretary shall submit to Congress and the Board, on an annual basis, a report on the recommendations made by the Board to the Secretary regarding air carrier operations conducted under part 121 of title 14, Code of Federal Regulations.
+In general.—The Secretary shall submit to Congress and the Board, on an annual basis,a report on the recommendations made by the Board to the Secretary regarding air carrier operations conducted under part 121 of title 14, Code of Federal Regulations.
 
 &emsp;(2)
 
@@ -106,6 +106,8 @@ In subsections (a) and (b), the words "carry out" are substituted for "initiate 
 
 In subsection (a)(1), the word "complete" is substituted for "in full" for consistency in the revised title.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–216, §202(a), as amended by Pub. L. 111–249, §6(1), inserted "to the Board" after "shall give" in introductory provisions.
@@ -115,6 +117,8 @@ Subsecs. (d), (e). Pub. L. 111–216, §202(b), as amended by Pub. L. 111–249,
 <b>2006</b>—Subsec. (d)(3). Pub. L. 109–443 amended heading and text of par. (3) generally. Prior to amendment, text read as follows: "This subsection shall cease to be in effect after the report required to be filed on February 1, 2008, is filed."
 
 <b>2003</b>—Subsec. (d). Pub. L. 108–168 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: "The Secretary shall submit to Congress on January 1 of each year a report containing each recommendation on transportation safety made by the Board to the Secretary during the prior year and a copy of the Secretary's response to each recommendation."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

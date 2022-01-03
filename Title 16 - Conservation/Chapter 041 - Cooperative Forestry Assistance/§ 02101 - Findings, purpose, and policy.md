@@ -12,7 +12,7 @@ Congress finds that—
 
 &emsp;(4) managed forest lands provide habitats for fish and wildlife, as well as aesthetics, outdoor recreation opportunities, and other forest resources;
 
-&emsp;(5) the soil, water, and air quality of the United States can be maintained and improved through good stewardship of privately held forest resources;
+&emsp;(5) the soil, water, and air quality of the United States can be maintained and improvedthrough good stewardship of privately held forest resources;
 
 &emsp;(6) insects and diseases affecting trees occur and sometimes create emergency conditions on all land, whether Federal or non-Federal, and efforts to prevent and control such insects and diseases often require coordinated action by both Federal and non-Federal land managers;
 
@@ -86,6 +86,8 @@ This chapter shall be construed to complement the policies and direction under t
 
 (Pub. L. 95–313, §2, July 1, 1978, 92 Stat. 365; Pub. L. 101–513, title VI, §611(b)(1), (2), formerly §607(b)(1), (2), Nov. 5, 1990, 104 Stat. 2072, renumbered §611(b)(1), (2), Pub. L. 102–574, §2(a)(1), Oct. 29, 1992, 106 Stat. 4593; Pub. L. 101–624, title XII, §1212, Nov. 28, 1990, 104 Stat. 3521; Pub. L. 110–234, title VIII, §8001, May 22, 2008, 122 Stat. 1279; Pub. L. 110–246, §4(a), title VIII, §8001, June 18, 2008, 122 Stat. 1664, 2041.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (b) to (d) and (f), was in the original "this Act", meaning Pub. L. 95–313, July 1, 1978, 92 Stat. 365, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
@@ -108,13 +110,15 @@ Pub. L. 101–513, §607(b)(1), directed the amendment of subsec. (a) by strikin
 
 Pub. L. 101–513, §607(b)(2), which directed the amendment of subsec. (b) by inserting "in the United States, and forest lands in foreign countries," after "non-Federal forest lands," the first place it appears and in paragraph (10), was executed by making the insertion after "non-Federal forest lands" to reflect the probable intent of Congress. See Codification note above.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 #### Effective Date
 
-Section 17, formerly section 14, of Pub. L. 95–313, as renumbered §17 by Pub. L. 101–624, title XII, §1215(1),Nov. 28, 1990, 104 Stat. 3525, provided that: "The provisions of this Act \[see Short Title note below\] shall become effective October 1, 1978."
+Section 17, formerly section 14, of Pub. L. 95–313, as renumbered §17 by Pub. L. 101–624, title XII, §1215(1), Nov. 28, 1990, 104 Stat. 3525, provided that: "The provisions of this Act \[see Short Title note below\] shall become effective October 1, 1978."
 
 #### Short Title of 1990 Amendment
 
@@ -304,11 +308,13 @@ Pub. L. 99–198, title XII, §1256, as added by Pub. L. 101–624, title XIV, �
 
 #### Transfer of Forest Tree Nursery Facilities to States
 
-Pub. L. 87–492, June 25, 1962, 76 Stat. 107, provided: "That the Congress recognizes that for many years the United States and certain States have cooperated in the production of tree planting stock for use in the reforestation of the public and private lands of the Nation; that the program of production of tree planting stock which was initiated and pursued under the Soil Bank Act (7 U.S.C. 1801 et seq.) \[repealed\] was carried on under written agreements which provided for (a) cooperation between the Forest Service, on behalf of the United States, and the States which participated in the program, (b) payments to said States for costs and expenses incurred in the development of nursery facilities, (c) the holding of such funds by the States in trust for the purpose of carrying out the provisions of said agreements, and (d) restoration to the trust fund of an amount equal to the residual value of any supplies, materials, equipment, or improvements acquired or constructed with trust funds and transferred to State forestry work other than the soil bank program; that such program under said Soil Bank Act has been discontinued, but the need for the trees continues to be great; that the States and Federal Government are cooperating in the procurement, production, and distribution of forest-tree seeds and plants under section 4 of theClarke-McNary Act of June 7, 1924 (16 U.S.C. 567), and in the reforestation of lands under title IV of the Agricultural Act of 1956 (16 U.S.C. 568e and 568g); and that said participating States need the said supplies, materials, equipment, or improvements for use in connection with their respective forestry programs, and it is in the public interest to permit these States to use said property without the requirement that payment be made for the residual value thereof.
+Pub. L. 87–492, June 25, 1962, 76 Stat. 107, provided: "That the Congress recognizes that for many years the United States and certain States have cooperated in the production of tree planting stock for use in the reforestation of the public and private lands of the Nation; that the program of production of tree planting stock which was initiated and pursued under the Soil Bank Act (7 U.S.C. 1801 et seq.) \[repealed\] was carried on under written agreements which provided for (a) cooperation between the Forest Service, on behalf of the United States, and the States which participated in the program, (b) payments to said States for costs and expenses incurred in the development of nursery facilities, (c) the holding of such funds by the States in trust for the purpose of carrying out the provisions of said agreements, and (d) restoration to the trust fund of an amount equal to the residual value of any supplies, materials, equipment, or improvements acquired or constructed with trust funds and transferred to State forestry work other than the soil bank program; that such program under said Soil Bank Act has been discontinued, but the need for the trees continues to be great; that the States and Federal Government are cooperating in the procurement, production, and distribution of forest-tree seeds and plants under section 4 of the Clarke-McNary Act of June 7, 1924 (16 U.S.C. 567), and in the reforestation of lands under title IV of the Agricultural Act of 1956 (16 U.S.C. 568e and 568g); and that said participating States need the said supplies, materials, equipment, or improvements for use in connection with their respective forestry programs, and it is in the public interest to permit these States to use said property without the requirement that payment be made for the residual value thereof.
 
 "
 
 Sec. 2. For the purpose of assisting those States which participated in the program carried on under the Soil Bank Act \[section 1801 et seq. of Title 7, Agriculture\] \[repealed\] in continuing the production of needed tree planting stock and in other forestry programs, the Secretary of Agriculture is authorized to permit any supplies, materials, equipment, or improvements acquired or constructed with trust funds under the agreements referred to in section 1 to be used in such State forestry work as may further the objectives of related Federal programs, as he may approve, without the requirement that any payment be made by the State into the trust funds."
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13955. Establishing the One Trillion Trees Interagency Council
 
@@ -322,7 +328,7 @@ Our Nation is home to hundreds of millions of acres of Federal, State, tribal, a
 
 These facts demonstrate how our Nation has taken advantage of the tremendous economic and environmental benefits associated with tree growth and forestation. By advancing Federal policies conducive to these practices, under my leadership, the United States has promoted greater use of nature-based solutions to address global challenges.
 
-On January 21, 2020, I announced that to further protect the environment, the United States would be joining the World Economic Forum's One Trillion Trees initiative (Initiative), an ambitious global effort to grow and conserve one trillion trees worldwide by 2030. Following through on my commitment, and given the expansive footprint of our Federal forests and woodlands, this order initiates the formation of the United States One Trillion Trees Interagency Council to further the Federal Government's contribution to the global effort.
+On January 21, 2020, I announced that to further protect the environment, the United States would be joining the World Economic Forum's One Trillion Trees initiative (Initiative), an ambitious global effort to grow and conserve one trillion trees worldwide by 2030. Following through on my commitment, and given the expansive footprint of our Federal forests and woodlands, this order initiates the formation of the UnitedStates One Trillion Trees Interagency Council to further the Federal Government's contribution to the global effort.
 
 Sec. 2. <i>United States One Trillion Trees Interagency Council</i>. There is hereby established a United States One Trillion Trees Interagency Council (Council). The Council shall be charged with developing, coordinating, and promoting Federal Government interactions with the Initiative with respect to tree growing, restoration, and conservation, and with coordinating with key stakeholders to help advance the Initiative. The Council shall remain independent from the Initiative.
 
@@ -384,7 +390,7 @@ Sec. 4. <i>Council Mission and Functions</i>. The mission of the Council shall b
 
 (b) identify statutory, regulatory, and other limitations that inhibit the Federal Government from taking additional actions in furtherance of the Initiative, and recommend potential administrative and legislative actions to remedy such limitations;
 
-(c) identify opportunities to use existing authorities and existing or future authorized and appropriatedfunds to promote efforts to protect and restore trees, and to promote the active management of existing Federal lands to facilitate growth, restoration, and conservation of trees;
+(c) identify opportunities to use existing authorities and existing or future authorized and appropriated funds to promote efforts to protect and restore trees, and to promote the active management of existing Federal lands to facilitate growth, restoration, and conservation of trees;
 
 (d) inform State, local, and tribal officials of Federal efforts to protect, grow, and actively manage forests and woodlands on Federal lands; and
 

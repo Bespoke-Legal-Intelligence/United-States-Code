@@ -74,7 +74,7 @@ Each State that receives an allotment under section 7113 of this title shall use
 
 &emsp;&emsp;&emsp;(iv) disseminating promising practices related to technology instruction, data security, and the acquisition and implementation of technology tools and applications, including through making such promising practices publicly available on the website of the State educational agency;
 
-&emsp;&emsp;&emsp;(v) providing teachers, paraprofessionals, school librarians and media personnel, specialized instructional support personnel, and administrators with the knowledge and skills to use technology effectively,including effective integration of technology, to improve instruction and student achievement, which may include coordination with teacher, principal, and other school leader preparation programs; and
+&emsp;&emsp;&emsp;(v) providing teachers, paraprofessionals, school librarians and media personnel, specialized instructional support personnel, and administrators with the knowledge and skills to use technology effectively, including effective integration of technology, to improve instruction and student achievement, which may include coordination with teacher, principal, and other school leader preparation programs; and
 
 &emsp;&emsp;&emsp;(vi) making instructional content widely available through open educational resources, which may include providing tools and processes to support local educational agencies in making such resources widely available.
 
@@ -84,6 +84,8 @@ A State that receives a grant under this subpart for fiscal year 2017 may use th
 
 (Pub. L. 89–10, title IV, §4104, as added Pub. L. 114–95, title IV, §4101, Dec. 10, 2015, 129 Stat. 1971.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 7114, Pub. L. 89–10, title IV, §4114, as added Pub. L. 107–110, title IV, §401, Jan. 8, 2002, 115 Stat. 1742, related to local educational agency programs, prior to the general amendment of this subpart by Pub. L. 114–95.
@@ -91,6 +93,8 @@ A prior section 7114, Pub. L. 89–10, title IV, §4114, as added Pub. L. 107–
 Another prior section 7114, Pub. L. 89–10, title IV, §4114, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3679, related to governor's programs, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 A prior section 4104 of Pub. L. 89–10 was classified to section 3064 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

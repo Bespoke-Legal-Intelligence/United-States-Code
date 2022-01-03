@@ -20,11 +20,15 @@ Mar. 2, 1933, ch. 184, §4, 47 Stat. 1423; Aug. 3, 1951, ch. 287, 65 Stat. 151.
 
 The words "the cost of each ration for that mess" are substituted for the words "the monetary limit of the cost of ration aboard such ships and at such stations" to make it clear that the figure fixed by the Secretary of the Navy under this section is the amount the mess may spend per day for food for each man subsisting at the mess.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 6083 of this title as this section and substituted "section 8242" for "section 6082".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments andspecial rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 

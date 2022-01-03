@@ -6,7 +6,7 @@ Service by natives of the Pribilof Islands engaged in the taking and curing of f
 
 #### (b) Adjustment of annuities
 
-The annuity of any person or the annuity of the survivor of any person who shall have performed service described in subsection (a) of this section, and who, prior to November 2, 1966, died or shall have been retired on annuity payable from the civil service retirement and disability fund, shall, upon application filed by the annuitant within one year after November 2, 1966, be adjusted, effective as of the first day of the month immediately following November 2, 1966, so that the amount of the annuity shall be the same as if such subsection had been in effect at the time of such person's retirement or death.
+The annuity of any person or the annuity of the survivor of any person who shall have performed service described in subsection (a) of this section, and who, prior to November 2, 1966, died or shall have been retired on annuity payable from the civil service retirement and disability fund, shall, upon application filed by the annuitant within one year after November 2, 1966, beadjusted, effective as of the first day of the month immediately following November 2, 1966, so that the amount of the annuity shall be the same as if such subsection had been in effect at the time of such person's retirement or death.
 
 #### (c) Nonentitlement to lump-sum benefits
 
@@ -18,6 +18,8 @@ Notwithstanding any other provisions of this chapter or any other law, benefits 
 
 (Pub. L. 89–702, title II, §208, Nov. 2, 1966, 80 Stat. 1096; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3784; Pub. L. 98–129, §2, Oct. 14, 1983, 97 Stat. 842.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 "Subchapter III of chapter 83 of title 5" substituted for "the Civil Service Retirement Act, as amended" in subsec. (a) and for "the Civil Service Retirement Act" in subsec. (d), and "section 8342(h) of title 5" substituted for "section 11(h) of the Civil Service Retirement Act" in subsec. (c) on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
@@ -27,6 +29,8 @@ Notwithstanding any other provisions of this chapter or any other law, benefits 
 <b>1983</b>—Subsecs. (a) to (c). Pub. L. 98–129 reenacted subsecs. (a) to (c) without change.
 
 Subsec. (d). Pub. L. 98–129 reenacted subsec. (d) without change other than the substitution of "subject to reimbursement to such fund from the Operations, Research, and Facilities Account of the National Oceanic and Atmospheric Administration in the Department of Commerce, for the purpose of compensating said retirement fund for the cost, as determined by the Civil Service Commission during each fiscal year, of benefits provided by this section" for "subject to reimbursement to such fund from the gross receipts of the Pribilof Islands fund, established in section 1187 of this title, for the purpose of compensating said retirement fund for the cost, as determined by the Civil Service Commission during each fiscal year, of benefits provided by this section. This reimbursement to the civil service retirement fund shall be considered a cost of administering the fur seal program".
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

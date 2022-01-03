@@ -4,7 +4,7 @@ The Government Accountability Office, the Government Publishing Office, and the 
 
 #### (1) In general
 
-&emsp;The rights and protections under this chapter shall, subject to paragraph (2), apply withrespect to the conduct of each instrumentality of the Congress.
+&emsp;The rights and protections under this chapter shall, subject to paragraph (2), apply with respect to the conduct of each instrumentality of the Congress.
 
 #### (2) Establishment of remedies and procedures by instrumentalities
 
@@ -31,6 +31,8 @@ The Government Accountability Office, the Government Publishing Office, and the 
 &emsp;Nothing in this section shall alter the enforcement procedures for individuals with disabilities provided in the General Accounting Office Personnel Act of 1980 and regulations promulgated pursuant to that Act.
 
 (Pub. L. 101–336, title V, §510, formerly §509, July 26, 1990, 104 Stat. 373; Pub. L. 102–166, title III, §315, Nov. 21, 1991, 105 Stat. 1095; Pub. L. 104–1, title II, §§201(c)(3), 210(g), Jan. 23, 1995, 109 Stat. 8, 16; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; renumbered §510, Pub. L. 110–325, §6(a)(2), Sept. 25, 2008, 122 Stat. 3558; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -85,6 +87,8 @@ Applicable Remedies.—When assigning remedies to individuals found to have a va
 Subsec. (a)(6), (7). Pub. L. 102–166, §315(1), redesignated pars. (6) and (7) as (2) and (3), respectively.
 
 Subsec. (c)(2). Pub. L. 102–166, §315(2), inserted ", except for the employees who are defined as Senate employees, in section 1201(c)(1) of title 2" after "shall apply exclusively".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

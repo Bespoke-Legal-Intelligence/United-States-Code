@@ -26,9 +26,13 @@ Aug. 7, 1947, ch. 512, §314(a) (1st sentence), 61 Stat. 863; May 5, 1954, ch. 1
 
 The words "for which trial by court-martial would be appropriate" are substituted for the words "but he shall be brought to trial by court-martial for such misconduct". The peremptory command in the source text is at variance with the theory of the Uniform Code of Military Justice and conflicts with the provisions of articles 30, 32, and 34. The substituted words are in accord with the interpretation placed on R.S. 1456 in <i>Denby</i> v. <i>Berry</i>, 263 U.S. 29, 36 (Nov. 12, 1923).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 6329 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

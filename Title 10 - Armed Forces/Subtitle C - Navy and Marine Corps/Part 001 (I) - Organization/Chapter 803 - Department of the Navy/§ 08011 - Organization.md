@@ -8,7 +8,7 @@ The Department of the Navy is separately organized under the Secretary of the Na
 
 #### 1956 Act
 
-The Act of July 26, 1947, ch. 343, as amended (5 U.S.C. 411a(a)) which is the National Security Act of 1947, defined "Department of the Navy". The Acts of Mar. 5, 1948, ch. 98 (5 U.S.C. 423a(a)), and Aug. 2, 1946, ch. 756 (5 U.S.C. 421g) defined "Naval Establishment". The terms "Department of the Navy" and "Naval Establishment" are considered to be synonymous. All three definitions were considered, but the phraseology adopted is that of the National Security Act of 1947. The phrase "as a service in the Navy" is substituted for "as a part of the Navy" to conform to the provisions of title 14.
+The Act of July 26, 1947, ch. 343, as amended (5 U.S.C. 411a(a)) which is the National Security Act of 1947, defined "Department of the Navy". The Acts of Mar. 5, 1948, ch. 98 (5 U.S.C. 423a(a)), and Aug. 2, 1946, ch. 756 (5 U.S.C. 421g) defined "Naval Establishment". The terms "Department of the Navy" and "Naval Establishment"are considered to be synonymous. All three definitions were considered, but the phraseology adopted is that of the National Security Act of 1947. The phrase "as a service in the Navy" is substituted for "as a part of the Navy" to conform to the provisions of title 14.
 
 1962
 
@@ -28,6 +28,8 @@ July 26, 1947, ch. 343, §202(c)(7) (1st sentence, less applicability to Departm
 
 The words "to include naval aviation and the United States Marine Corps" are omitted as covered by the first sentence of section 5011. The word "operates" is substituted for the words "shall function".
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 8011 was renumbered section 9011 of this title.
@@ -43,6 +45,8 @@ Another prior section 8011 was renumbered section 9012 of this title.
 Pub. L. 99–433, §511(b)(2), struck out the last two sentences which read as follows: "It is composed of the executive part of the Department of the Navy; the Headquarters, United States Marine Corps; the entire operating forces, including naval aviation, of the United States Navy and of the United States Marine Corps, and the reserve components of those operating forces; and all field activities, headquarters, forces, bases, installations, activities, and functions under the control or supervision of the Secretary of the Navy. It includes the United States Coast Guard when it is operating as a service in the Navy." See section 5061 of this title.
 
 <b>1962</b>—Pub. L. 87–651 inserted sentences providing that the Department of the Navy is separately organized under the Secretary of the Navy, and that it operates under the authority, direction, and control of the Secretary of Defense.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

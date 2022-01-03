@@ -22,9 +22,11 @@ The Secretary may make in-kind payments—
 
 #### (c) Commodity certificates
 
-The Secretary shall pay interest on the cash redemption of a commodity certificate issued by the Secretary to a producer who holds the certificate for at least 150 days. This subsection shall not apply with respect to commodity certificates issued in connection with the export enhancement program or the marketing promotion program established under the Agricultural Trade Act of 1978.
+The Secretary shall pay interest on the cash redemption of a commodity certificate issued bythe Secretary to a producer who holds the certificate for at least 150 days. This subsection shall not apply with respect to commodity certificates issued in connection with the export enhancement program or the marketing promotion program established under the Agricultural Trade Act of 1978.
 
 (Oct. 31, 1949, ch. 792, title I, §115, formerly §107E, as added Pub. L. 99–198, title X, §1005, Dec. 23, 1985, 99 Stat. 1448; renumbered §115 and amended Pub. L. 101–624, title XI, §§1122(a), 1161(a)(1), Nov. 28, 1990, 104 Stat. 3503, 3520.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -37,6 +39,8 @@ Section was classified to section 1445b–4 of this title prior to its renumberi
 #### Amendments
 
 <b>1990</b>—Subsec. (c). Pub. L. 101–624, §1122(a), added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Prohibition of importation
 
-All persons are prohibited from importing into the United States from any foreign country any book, pamphlet, paper, writing, advertisement, circular, print, picture, or drawing containing any matter advocating or urging treason or insurrection against the United States, or forcible resistance to any law of the United States, or containing any threat to take the life of or inflict bodily harm upon any person in the United States, or any obscene book, pamphlet, paper, writing, advertisement, circular, print, picture, drawing, or other representation, figure, or image on or of paper or other material, or any cast, instrument, or other article which is obscene or immoral, or any drug or medicine orany article whatever for causing unlawful abortion, or any lottery ticket, or any printed paper that may be used as a lottery ticket, or any advertisement of any lottery. No such articles whether imported separately or contained in packages with other goods entitled to entry, shall be admitted to entry; and all such articles and, unless it appears to the satisfaction of the appropriate customs officer that the obscene or other prohibited articles contained in the package were inclosed therein without the knowledge or consent of the importer, owner, agent, or consignee, the entire contents of the package in which such articles are contained, shall be subject to seizure and forfeiture as hereinafter provided: <i>Provided</i>, That the drugs hereinbefore mentioned, when imported in bulk and not put up for any of the purposes hereinbefore specified, are excepted from the operation of this subdivision: <i>Provided further</i>, That the Secretary of the Treasury may, in his discretion, admit the so-called classics or books of recognized and established literary or scientific merit, but may, in his discretion, admit such classics or books only when imported for noncommercial purposes: <i>Provided further</i>, That effective January 1, 1993, this section shall not apply to any lottery ticket, printed paper that may be used as a lottery ticket, or advertisement of any lottery, that is printed in Canada for use in connection with a lottery conducted in the United States.
+All persons are prohibited from importing into the United States from any foreign country any book, pamphlet, paper, writing, advertisement, circular, print, picture, or drawing containing any matter advocating or urging treason or insurrection against the United States, or forcible resistance to any law of the United States, or containing any threat to take the life of or inflict bodily harm upon any person in the United States, or any obscene book, pamphlet, paper, writing, advertisement, circular, print, picture, drawing, or other representation, figure, orimage on or of paper or other material, or any cast, instrument, or other article which is obscene or immoral, or any drug or medicine or any article whatever for causing unlawful abortion, or any lottery ticket, or any printed paper that may be used as a lottery ticket, or any advertisement of any lottery. No such articles whether imported separately or contained in packages with other goods entitled to entry, shall be admitted to entry; and all such articles and, unless it appears to the satisfaction of the appropriate customs officer that the obscene or other prohibited articles contained in the package were inclosed therein without the knowledge or consent of the importer, owner, agent, or consignee, the entire contents of the package in which such articles are contained, shall be subject to seizure and forfeiture as hereinafter provided: <i>Provided</i>, That the drugs hereinbefore mentioned, when imported in bulk and not put up for any of the purposes hereinbefore specified, are excepted from the operation of this subdivision: <i>Provided further</i>, That the Secretary of the Treasury may, in his discretion, admit the so-called classics or books of recognized and established literary or scientific merit, but may, in his discretion, admit such classics or books only when imported for noncommercial purposes: <i>Provided further</i>, That effective January 1, 1993, this section shall not apply to any lottery ticket, printed paper that may be used as a lottery ticket, or advertisement of any lottery, that is printed in Canada for use in connection with a lottery conducted in the United States.
 
 #### (b) <sup>1</sup> Enforcement procedures
 
@@ -50,6 +50,8 @@ Upon motion of the United States, a court, for good cause shown, shall stay civi
 
 <i>For termination of amendment by section 501(c) of Pub. L. 100–449, see Effective and Termination Dates of 1988 Amendment note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions in substantially the same language as those in this section were made by act Oct. 3, 1913, ch. 16, §IV, subsections 1, 2, and 3, 38 Stat. 194, superseding similar provisions of previous tariff acts. Those subsections were superseded by act Sept. 21, 1922, ch. 356, title III, §305, 42 Stat. 937, and repealed by section 321 of that act. Section 305 of act Sept. 21, 1922, was superseded by section 305 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
@@ -78,19 +80,21 @@ Subsec. (d). Pub. L. 100–418 added subsec. (d) relating to stay of forfeiture 
 
 <b>1948</b>—Subsec. (b). Act June 25, 1948, eff. Sept. 1, 1948, repealed subsec. (b) which related to penalties against government officers. See section 552 of Title 18, Crimes and Criminal Procedure.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Act June 25, 1948, eff. Sept. 1, 1948, substituted "United States attorney" for "district attorney". See section 541 of Title 28, Judiciary and Judicial Procedure, and Historical and Revision Notes thereunder.
 
 #### Effective and Termination Dates of 1988 Amendment
 
-Amendment by Pub. L. 100–449 effective on date the United States-Canada Free-Trade Agreement enters into force (Jan. 1, 1989), and to cease to have effect on date Agreement ceases to be in force, see section 501(a), (c) of Pub. L. 100–449, set out in a note under section 2112 of this title.
+Amendment by Pub. L. 100–449 effective on date the United States-Canada Free-Trade Agreement enters into force (Jan. 1, 1989), and to cease to have effect ondate Agreement ceases to be in force, see section 501(a), (c) of Pub. L. 100–449, set out in a note under section 2112 of this title.
 
 Pub. L. 100–418, title I, §1901(b), Aug. 23, 1988, 102 Stat. 1312, provided that: "The amendments made by subsection (a) \[amending this section\] apply with respect to articles entered, or withdrawn from warehouse for consumption, on or after the 15th day after the date of the enactment of this Act \[Aug. 23, 1988\]."
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respect to civil actions pending on or commenced on or after such date, see section 701(a)of Pub. L. 96–417, set out as a note under section 251 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respect to civil actions pending on or commenced on or after such date, see section 701(a) of Pub. L. 96–417, set out as a note under section 251 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1971 Amendment
 
@@ -104,7 +108,11 @@ For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
-Functions of all other officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Customs officers, referred to in text, were under Department of the Treasury.
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Functions of officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Customs officers, referred to in text, were under Department of the Treasury.
 
 #### Importation of RU–486
 

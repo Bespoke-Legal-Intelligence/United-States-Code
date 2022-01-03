@@ -4,7 +4,7 @@
 
 After consideration of a petition (and comments thereon) for an exemption from one or more of the prohibitions of part A for a powerplant, the Secretary shall, by order, grant such an exemption for the use of natural gas or petroleum, if he finds that the petitioner has demonstrated that for the period of the proposed exemption, despite diligent good faith efforts—
 
-&emsp;(1) it is likely that an adequate and reliable supply of coal or other alternate fuel of the quality necessary to conform with design and operational requirements for use as a primary energy source, will not be available to such powerplant at a cost (taking into account associated facilities for the transportation and use of such fuel) which, based upon the bestpracticable estimates, does not substantially exceed the costs, as determined by rule by the Secretary, of using imported petroleum as a primary energy source;
+&emsp;(1) it is likely that an adequate and reliable supply of coal or other alternate fuel of the quality necessary to conform with design and operational requirements for use as a primary energy source, will not be available to such powerplant at a cost (taking into account associated facilities for the transportation and use of such fuel) which, based upon the best practicable estimates, does not substantially exceed the costs, as determined by rule by the Secretary, of using imported petroleum as a primary energy source;
 
 &emsp;(2) one or more site limitations exist which would not permit the operation of such a powerplant using coal or any other alternate fuel as a primary energy source; or
 
@@ -58,15 +58,19 @@ After consideration of a petition (and comments thereon) for an exemption from o
 
 (Pub. L. 95–620, title III, §311, Nov. 9, 1978, 92 Stat. 3307; Pub. L. 100–42, §1(c)(10), (11), May 21, 1987, 101 Stat. 313.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This chapter, referred to in subsecs. (d)(2), (e), and (g)(2), was in the original "this Act", meaning Pub. L.95–620, Nov. 9, 1978, 92 Stat. 3289, known as the Powerplant and Industrial Fuel Use Act of 1978, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of this title and Tables.
+This chapter, referred to in subsecs. (d)(2), (e), and (g)(2), was in the original "this Act", meaning Pub. L. 95–620, Nov. 9, 1978, 92 Stat. 3289, known as the Powerplant and Industrial Fuel Use Act of 1978, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of this title and Tables.
 
 #### Amendments
 
 <b>1987</b>—Subsec. (a). Pub. L. 100–42, §1(c)(10), (11), struck out "or installation" after "powerplant" in introductory provisions and in pars. (1) and (2) and struck out "or 8342" after "section 8341" in par. (3).
 
 Subsecs. (b) to (e), (h)(1). Pub. L. 100–42, §1(c)(10), struck out "or installation" after "powerplant" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Exemption for Certain Electric Powerplants as Effective Prior to 180 Days After November 9, 1978
 

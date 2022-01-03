@@ -22,7 +22,7 @@ In this section, the term "medically necessary leave of absence" means, with res
 
 #### (2) Dependent child described
 
-&emsp;A dependent child described in this paragraph is, with respect to a group health planor individual health insurance coverage, a beneficiary under the plan who—
+&emsp;A dependent child described in this paragraph is, with respect to a group health plan or individual health insurance coverage, a beneficiary under the plan who—
 
 &emsp;&emsp;(A) is a dependent child, under the terms of the plan or coverage, of a participant or beneficiary under the plan or coverage; and
 
@@ -54,6 +54,8 @@ If—
 
 (July 1, 1944, ch. 373, title XXVII, §2728, formerly §2707, as added Pub. L. 110–381, §2(b)(1), Oct. 9, 2008, 122 Stat. 4083; renumbered §2728 and amended Pub. L. 111–148, title I, §§1001(2), 1563(c)(6), formerly §1562(c)(6), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 266, 911.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 300gg–7 of this title prior to renumbering by Pub. L. 111–148.
@@ -71,6 +73,8 @@ Subsec. (b)(3). Pub. L. 111–148, §1563(c)(6)(B)(iii), formerly §1562(c)(6)(B
 Subsec. (c). Pub. L. 111–148, §1563(c)(6)(C), formerly §1562(c)(6)(C), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted "health insurance issuer that offers group or individual health insurance coverage" for "health insurance issuer providing health insurance coverage in connection with a group health plan".
 
 Subsec. (e)(1). Pub. L. 111–148, §1563(c)(6)(D), formerly §1562(c)(6)(D), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted "individual health insurance coverage" for "health insurance coverage offered in connection with such a plan".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

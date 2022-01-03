@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) Section 20121 of this title <sup>2</sup> (Legal Assistance for Victims).
 
-&emsp;&emsp;(C) Section 12341 of this title (Rural Domestic Violence, Dating Violence, Sexual Assault, Stalking, and Child Abuse Enforcement Assistance).
+&emsp;&emsp;(C) Section 12341 of this title (Rural Domestic Violence, Dating Violence, SexualAssault, Stalking, and Child Abuse Enforcement Assistance).
 
 &emsp;&emsp;(D) Section 14041a of title 42 (Enhanced Training and Services to End Violence Against Women Later in Life).<sup>2</sup>
 

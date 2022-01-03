@@ -36,7 +36,7 @@ The Congress finds the following:
 
 Based upon the power of the Congress under Article I, Section 8, Clause 3 of the Constitution of the United States, the purposes of this chapter are—
 
-&emsp;(1) to establish uniform legal standards that give all businesses and users of technology products reasonable incentives to solve year 2000 computer date-change problems before they develop;
+&emsp;(1) to establish uniform legal standards that give all businesses and users of technology products reasonable incentives to solve year2000 computer date-change problems before they develop;
 
 &emsp;(2) to encourage continued remediation and testing efforts to solve such problems by providers, suppliers, customers, and other contracting partners;
 
@@ -45,6 +45,8 @@ Based upon the power of the Congress under Article I, Section 8, Clause 3 of the
 &emsp;(4) to lessen the burdens on interstate commerce by discouraging insubstantial lawsuits while preserving the ability of individuals and businesses that have suffered real injury to obtain complete relief.
 
 (Pub. L. 106–37, §2, July 20, 1999, 113 Stat. 185.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

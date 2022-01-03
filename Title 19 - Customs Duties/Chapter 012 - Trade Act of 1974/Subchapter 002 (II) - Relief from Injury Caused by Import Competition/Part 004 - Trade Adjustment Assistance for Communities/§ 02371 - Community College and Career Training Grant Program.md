@@ -50,7 +50,7 @@ In this section:
 
 &emsp;&emsp;A grant proposal submitted to the Secretary under this section shall include a detailed description of—
 
-&emsp;&emsp;&emsp;(i) the specific project for which the grant proposal is submitted, including themanner in which the grant will be used to develop, offer, or improve an educational or career training program that is suited to workers eligible for training under section 2296 of this title;
+&emsp;&emsp;&emsp;(i) the specific project for which the grant proposal is submitted, including the manner in which the grant will be used to develop, offer, or improve an educational or career training program that is suited to workers eligible for training under section 2296 of this title;
 
 &emsp;&emsp;&emsp;(ii) the extent to which the project for which the grant proposal is submitted will meet the educational or career training needs of workers in the community served by the eligible institution who are eligible for training under section 2296 of this title; and
 
@@ -122,9 +122,11 @@ Not later than December 15, 2009, and annually thereafter, the Secretary shall s
 
 (Pub. L. 93–618, title II, §271, formerly §278, as added Pub. L. 111–5, div. B, title I, §1872(a), Feb. 17, 2009, 123 Stat. 406; amended Pub. L. 111–344, title I, §101(c)(8), Dec. 29, 2010, 124 Stat. 3614; as added, renumbered §271, and amended Pub. L. 112–40, title II, §§201(b), (c), 222(a)(3), (b)(1), (c)(1), Oct. 21, 2011, 125 Stat. 403, 411.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
-Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of section, was repealed by Pub. L.112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and this section, as added by Pub. L. 111–5, as amended by Pub. L. 111–344, and as in effect on Feb. 12, 2011, was revived, effective Oct. 21, 2011, by Pub. L. 112–40, §201(b), (c). See 2010 and 2011 Amendment and Effective and Termination Dates notes below.
+Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of section, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and this section, as added by Pub. L. 111–5, as amended by Pub. L. 111–344, and as in effect on Feb. 12, 2011, was revived, effective Oct. 21, 2011, by Pub. L. 112–40, §201(b), (c). See 2010 and 2011 Amendment and Effective and Termination Dates notes below.
 
 Section was formerly classified to section 2372 of this title prior to renumbering by Pub. L. 112–40.
 
@@ -146,7 +148,7 @@ Another prior section 2371, Pub. L. 93–618, title II, §271, Jan. 3, 1975, 88 
 
 Subsec. (c)(4)(B). Pub. L. 112–40, §222(c)(1)(A)(i)(II), substituted "(A)(iii)" for "(A)(v)". See Codification note above.
 
-Subsec. (c)(5)(A)(i). Pub. L. 112–40, §222(c)(1)(A)(ii)(I)(aa), struck out ", and other entities described in section 2371e(a)(2)(B) of this title" after "employers" in introductory provisions. See Codification note above.
+Subsec. (c)(5)(A)(i). Pub. L. 112–40, §222(c)(1)(A)(ii)(I)(aa), struck out ", and other entities described in section 2371e(a)(2)(B) of this title" after"employers" in introductory provisions. See Codification note above.
 
 Subsec. (c)(5)(A)(i)(II). Pub. L. 112–40, §222(c)(1)(A)(ii)(I)(bb), substituted "; and" for semicolon at end. See Codification note above.
 
@@ -159,6 +161,8 @@ Subsec. (e). Pub. L. 112–40, §222(b)(1)(A), substituted "December 15, 2009," 
 Subsec. (e)(3). Pub. L. 112–40, §222(b)(1)(B)–(D), added par. (3). See Codification note above.
 
 <b>2010</b>—Subsec. (e). Pub. L. 111–344 substituted "and annually thereafter" for "2011" in introductory provisions. See Codification note above.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 

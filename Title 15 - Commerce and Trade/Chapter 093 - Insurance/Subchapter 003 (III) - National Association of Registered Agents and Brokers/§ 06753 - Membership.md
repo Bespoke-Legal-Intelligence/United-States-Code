@@ -36,7 +36,7 @@
 
 #### (ii) Procedures
 
-&emsp;&emsp;&emsp;The board of directors of the Association (referred to in this subchapter as the "Board") shall prescribe procedures for obtaining and utilizing fingerprints or other identification information and criminal history record information, including the establishment of reasonable fees to defray the expenses of the Association in connection with the performance of a criminal history record check and appropriate safeguards for maintaining confidentiality andsecurity of the information. Any fees charged pursuant to this clause shall be separate and distinct from those charged by the Attorney General pursuant to subparagraph (I).
+&emsp;&emsp;&emsp;The board of directors of the Association (referred to in this subchapter as the "Board") shall prescribe procedures for obtaining and utilizing fingerprints or other identification information and criminal history record information, including the establishment of reasonable fees to defray the expenses of the Association in connection with the performance of a criminal history record check and appropriate safeguards for maintaining confidentiality and security of the information. Any fees charged pursuant to this clause shall be separate and distinct from those charged by the Attorney General pursuant to subparagraph (I).
 
 #### (D) Form of request
 
@@ -134,7 +134,7 @@ The Association may establish membership criteria that bear a reasonable relatio
 
 #### (2) Qualifications
 
-&emsp;In establishing criteria under paragraph (1), the Association shall not adopt any qualification less protective to the public than that contained in the National Association of Insurance Commissioners (referred to in this subchapter as the "NAIC") Producer Licensing Model Act in effect as of January 12, 2015, and shall consider the highest levels of insurance producer qualifications established under the licensing laws of the States.
+&emsp;In establishing criteria under paragraph (1), the Association shall not adopt any qualification less protective to the public than that contained in the National Association of Insurance Commissioners (referred to in this subchapter as the "NAIC") Producer Licensing Model Act in effect as of January 12, 2015, andshall consider the highest levels of insurance producer qualifications established under the licensing laws of the States.
 
 #### (3) Assistance from States
 
@@ -212,7 +212,7 @@ Membership in the Association shall be renewed on a biennial basis.
 
 #### (1) In general
 
-&emsp;The Association shall establish, as a condition of membership, continuing education requirements which shall be comparable to the continuing education requirements under the licensing laws of a majority of the States.
+&emsp;The Association shall establish, as a condition of membership, continuing education requirements which shall be comparable to thecontinuing education requirements under the licensing laws of a majority of the States.
 
 #### (2) State continuing education requirements
 
@@ -287,6 +287,8 @@ The provisions of this section shall take effect on the later of—
 &emsp;(2) the date of incorporation of the Association.
 
 (Pub. L. 106–102, title III, §323, as added Pub. L. 114–1, title II, §202(a), Jan. 12, 2015, 129 Stat. 13.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

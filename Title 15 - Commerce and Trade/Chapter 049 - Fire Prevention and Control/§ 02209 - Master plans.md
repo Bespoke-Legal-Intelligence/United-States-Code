@@ -2,7 +2,7 @@
 
 #### (a) Encouragement by Administrator
 
-The establishment of master plans for fire prevention and control are the responsibility of the States and the political subdivisions thereof. The Administrator is authorized to encourageand assist such States and political subdivisions in such planning activities, consistent with his powers and duties under this chapter.
+The establishment of master plans for fire prevention and control are the responsibility of the States and the political subdivisions thereof. The Administrator is authorized to encourage and assist such States and political subdivisions in such planning activities, consistent with his powers and duties under this chapter.
 
 #### (b) Mutual aid systems
 
@@ -26,6 +26,8 @@ For the purposes of this section, a "master plan" is one which will result in th
 
 (Pub. L. 93–498, §10, Oct. 29, 1974, 88 Stat. 1542; Pub. L. 106–503, title I, §110(a)(1)(A), Nov. 13, 2000, 114 Stat. 2302; Pub. L. 108–169, title II, §203(a), Dec. 6, 2003, 117 Stat. 2038.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 93–498, Oct. 29, 1974, 88 Stat. 1535, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2201 of this title and Tables.
@@ -36,11 +38,17 @@ This chapter, referred to in subsec. (a), was in the original "this Act", meanin
 
 <b>2000</b>—Subsecs. (b), (c). Pub. L. 106–503 redesignated subsec. (c) as (b) and struck out former subsec. (b) which required Secretary to submit to Congress a report on establishment and effectiveness of master plans four years after Oct. 29, 1974.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transfer of Functions
 
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
 
 Functions of National Fire Prevention and Control Administration \[now United States Fire Administration\] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under section 2202 of this title.
 

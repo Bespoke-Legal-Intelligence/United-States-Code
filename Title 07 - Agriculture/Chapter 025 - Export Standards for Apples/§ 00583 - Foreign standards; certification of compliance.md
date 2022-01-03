@@ -4,6 +4,8 @@ Where the government of the country to which the shipment is to be made has stan
 
 (June 10, 1933, ch. 59, §3, 48 Stat. 124; Pub. L. 106–96, §1(c)(2), Nov. 12, 1999, 113 Stat. 1321.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1999</b>—Pub. L. 106–96 struck out "or pears" after "of apples".

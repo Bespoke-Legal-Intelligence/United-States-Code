@@ -18,7 +18,7 @@ Civil Actions To Enforce.—A civil action to enforce a subpena or order of the 
 
 (c)
 
-Disclosure of Information.—The Secretary and the Administrator each shall disclose information obtained under this chapter (except information obtained under section 32904(c) of this title) under section 552 of title 5. However, the Secretary or Administrator may withhold information under section 552(b)(4) of title 5 only if the Secretary or Administrator decides that disclosure of the information would cause significant competitive damage. A matter referred to in section 552(b)(4) and relevant to an administrative or judicial proceeding under this chapter may be disclosed in that proceeding. A measurement or calculation under section 32904(c) of this title shall be disclosed under section 552 of title 5 without regard to section 552(b).
+Disclosure of Information.—The Secretary and the Administrator each shall disclose information obtained under this chapter (except information obtained under section 32904(c) of this title) under section 552 of title 5. However, the Secretary or Administrator may withhold information under section 552(b)(4) of title 5 only if the Secretary or Administrator decides that disclosure of the information would cause significant competitive damage. A matter referred to in section 552(b)(4) and relevant to anadministrative or judicial proceeding under this chapter may be disclosed in that proceeding. A measurement or calculation under section 32904(c) of this title shall be disclosed under section 552 of title 5 without regard to section 552(b).
 
 (d)
 
@@ -68,9 +68,13 @@ Subsection (d) is added for convenience because throughout the chapter the Admin
 
 This amends 49:32910(b) to clarify the restatement of 15:2005(b)(2) by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1071).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (b). Pub. L. 103–429 substituted "any judicial district in which the proceeding by the Secretary or Administrator is conducted" for "the judicial district in which the proceeding by the Secretary or Administrator was conducted".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

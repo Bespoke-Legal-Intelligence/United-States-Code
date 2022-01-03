@@ -108,6 +108,8 @@ Except as otherwise provided in this section, a small public housing agency shal
 
 (Sept. 1, 1937, ch. 896, title I, §38, as added Pub. L. 115–174, title II, §209(a), May 24, 2018, 132 Stat. 1313.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective 60 days after May 24, 2018, see section 209(d) of Pub. L. 115–174, set out as an Effective Date of 2018 Amendment note under section 1437g of this title.

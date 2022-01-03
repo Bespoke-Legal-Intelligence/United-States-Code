@@ -7,11 +7,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232, div. A, title VIII, §807(e)(3), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 602 of this title as this chapter and items 6931 and 6932 as 8431 and 8432, respectively.
 
 <b>1998</b>—Pub. L. 105–261, div. A, title V, §522(b)(2), Oct. 17, 1998, 112 Stat. 2013, added item 6932.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Prohibition on Gender-Segregated Training at Marine Corps Recruit Depots
 
@@ -27,7 +31,7 @@ Prohibition.—Subject to paragraph (2), training at the Marine Corps Recruit De
 
 &emsp;"(2)
 
-Deadline.—The Commandant of the Marine Corps shall carry out this subsection not later thanfive years after the date of the enactment of this Act \[Dec. 20, 2019\].
+Deadline.—The Commandant of the Marine Corps shall carry out this subsection not later than five years after the date of the enactment of this Act \[Dec. 20, 2019\].
 
 "(b)
 

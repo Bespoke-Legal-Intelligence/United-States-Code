@@ -4,6 +4,8 @@ The President is authorized to delegate and assign any duties or powers imposed 
 
 (Pub. L. 96–510, title I, §115, Dec. 11, 1980, 94 Stat. 2796.)
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 12580. Superfund Implementation
 
 Ex. Ord. No. 12580, Jan. 23, 1987, 52 F.R. 2923, as amended by Ex. Ord. No. 12777, §1(a), Oct. 18, 1991, 56 F.R. 54757; Ex. Ord. No. 13016, Aug. 28, 1996, 61 F.R. 45871; Ex. Ord. No. 13286, §43, Feb. 28, 2003, 68 F.R. 10627; Ex. Ord. No. 13308, June 20, 2003, 68 F.R. 37691, provided:
@@ -14,7 +16,7 @@ Section 1. <i>National Contingency Plan</i>. (a)(1) The National Contingency Pla
 
 (2) The following agencies (in addition to other appropriate agencies) shall provide representatives to the National and Regional Response Teams to carry out their responsibilities under the NCP: Department of State, Department of Defense, Department of Justice, Department of the Interior, Department of Agriculture, Department of Commerce, Department of Labor, Department of Health and Human Services, Department of Transportation, Department of Energy, Department of Homeland Security, Environmental Protection Agency,, \[sic\] United States Coast Guard, and the Nuclear Regulatory Commission.
 
-(3) Except for periods of activation because of response action, the representative of the Environmental Protection Agency ("EPA") shall be the chairman, and the representative of the United States Coast Guard shall be the vice chairman, of the NRT and these agencies' representatives shall be co-chairs of the Regional Response Teams ("the RRTs"). When the NRT or an RRT is activated for a response action, the EPA representative shall be the chairman when the release or threatened release or discharge or threatened discharge occurs in the inland zone, and the United States Coast Guard representative shall be the chairman when the release or threatened release or discharge or threatened discharge occurs in the coastal zone, unless otherwise agreed upon by the EPA and the United States Coast Guard representatives (inland and coastal zones are defined in the NCP).
+(3) Except for periods of activation because of response action, the representative of the Environmental Protection Agency ("EPA") shall be the chairman, andthe representative of the United States Coast Guard shall be the vice chairman, of the NRT and these agencies' representatives shall be co-chairs of the Regional Response Teams ("the RRTs"). When the NRT or an RRT is activated for a response action, the EPA representative shall be the chairman when the release or threatened release or discharge or threatened discharge occurs in the inland zone, and the United States Coast Guard representative shall be the chairman when the release or threatened release or discharge or threatened discharge occurs in the coastal zone, unless otherwise agreed upon by the EPA and the United States Coast Guard representatives (inland and coastal zones are defined in the NCP).
 
 (4) The RRTs may include representatives from State governments, local governments (as agreed upon by the States), and Indian tribal governments. Subject to the functions and authorities delegated to Executive departments and agencies in other sections of this order, the NRT shall provide policy and program direction to the RRTs.
 
@@ -60,7 +62,7 @@ Sec. 2. <i>Response and Related Authorities</i>. (a) The functions vested in the
 
 (h) The functions vested in the President by Section 104(c)(3) of the Act \[42 U.S.C. 9604(c)(3)\] are delegated to the Administrator, with respect to providing assurances for Indian tribes, to be exercised in consultation with the Secretary of the Interior.
 
-(i) Subject to subsections (d), (e), (f), (g) and (h) of this Section, the functions vested in the President bySection 104(c) and (d) of the Act are delegated to the Coast Guard, the Secretary of Health and Human Services, the Director of the Federal Emergency Management Agency, and the Administrator in order to carry out the functions delegated to them by this Section.
+(i) Subject to subsections (d), (e), (f), (g) and (h) of this Section, the functions vested in the President by Section 104(c) and (d) of the Act are delegated to the Coast Guard, the Secretary of Health and Human Services, the Director of the Federal Emergency Management Agency, and the Administrator in order to carry out the functions delegated to them by this Section.
 
 (j)(1) The functions vested in the President by Section 104(e)(5)(A) are delegated to the heads of Executive departments and agencies, with respect to releases or threatened releases where either the release is on or the sole source of the release is from any facility or vessel under the jurisdiction, custody or control of those departments and agencies, to be exercised with the concurrence of the Attorney General.
 
@@ -154,7 +156,7 @@ Sec. 9. <i>Management of the Hazardous Substance Superfund and Claims</i>. (a) T
 
 (i) Funds from the Hazardous Substance Superfund may be used, at the discretion of the Administrator or the Coast Guard, to pay for removal actions for releases or threatened releases from facilities or vessels under the jurisdiction, custody or control of Executive departments and agencies but must be reimbursed to the Hazardous Substance Superfund by such Executive department or agency.
 
-Sec. 10. <i>Federal Facilities</i>. (a) When necessary, prior to selection of a remedial action by the Administrator under Section 120(e)(4)(A) of the Act \[42 U.S.C. 9620(e)(4)(A)\], Executive agencies shall have the opportunity to present their views to the Administratorafter using the procedures under Section 1–6 of Executive Order No. 12088 of October 13, 1978 \[set out as a note under section 4321 of this title\], or any other mutually acceptable process. Notwithstanding subsection 1–602 of Executive Order No. 12088, the Director of the Office of Management and Budget shall facilitate resolution of any issues.
+Sec. 10. <i>Federal Facilities</i>. (a) When necessary, prior to selection of a remedial action by the Administrator under Section 120(e)(4)(A) of the Act \[42 U.S.C. 9620(e)(4)(A)\], Executive agencies shall have the opportunity to present their views to the Administrator after using the procedures under Section 1–6 of Executive Order No. 12088 of October 13, 1978 \[set out as a note under section 4321 of this title\], or any other mutuallyacceptable process. Notwithstanding subsection 1–602 of Executive Order No. 12088, the Director of the Office of Management and Budget shall facilitate resolution of any issues.
 
 (b) Executive Order No. 12088 of October 13, 1978, is amended by renumbering the current Section 1–802 as Section 1–803 and inserting the following new Section 1–802.
 

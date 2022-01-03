@@ -48,7 +48,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;An added employer shall not be treated as an eligible employer unless such employer provides paid family and medical leave in compliance with a written policy which ensures that the employer—
+&emsp;&emsp;An added employer shall not be treated as an eligible employer unless such employerprovides paid family and medical leave in compliance with a written policy which ensures that the employer—
 
 &emsp;&emsp;&emsp;(i) will not interfere with, restrain, or deny the exercise of or the attempt to exercise, any right provided under the policy, and
 
@@ -60,7 +60,7 @@ For purposes of this section—
 
 #### (i) Added employee
 
-&emsp;&emsp;&emsp;The term "added employee" means a qualifying employee who is not covered bytitle I of the Family and Medical Leave Act of 1993, as amended.
+&emsp;&emsp;&emsp;The term "added employee" means a qualifying employee who is not covered by title I of the Family and Medical Leave Act of 1993, as amended.
 
 #### (ii) Added employer
 
@@ -124,6 +124,8 @@ This section shall not apply to wages paid in taxable years beginning after Dece
 
 (Added Pub. L. 115–97, title I, §13403(a)(1), Dec. 22, 2017, 131 Stat. 2135; amended Pub. L. 116–94, div. Q, title I, §142(a), Dec. 20, 2019, 133 Stat. 3234; Pub. L. 116–260, div. EE, title I, §119(a), Dec. 27, 2020, 134 Stat. 3051.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Family and Medical Leave Act of 1993 and that Act, referred to in subsecs. (c)(2)(B) and (e)(1), (3), is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6. Title I of the Act is classified generally to subchapter I (§2611 et seq.) of chapter 28 of Title 29, Labor. Section 102 of the Act is classified to section 2612 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 29 and Tables.
@@ -135,6 +137,8 @@ Section 3(e) of the Fair Labor Standards Act of 1938, referred to in subsec. (d)
 <b>2020</b>—Subsec. (i). Pub. L. 116–260 substituted "December 31, 2025" for "December 31, 2020".
 
 <b>2019</b>—Subsec. (i). Pub. L. 116–94 substituted "December 31, 2020" for "December 31, 2019".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 

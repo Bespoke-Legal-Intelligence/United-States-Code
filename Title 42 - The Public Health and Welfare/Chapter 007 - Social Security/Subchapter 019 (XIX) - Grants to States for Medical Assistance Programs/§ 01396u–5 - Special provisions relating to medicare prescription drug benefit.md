@@ -50,7 +50,7 @@ The amounts expended by a State in carrying out subsection (a) are expenditures 
 
 #### (C) Compliance
 
-&emsp;&emsp;If a State fails to pay to the Secretary an amount required under subparagraph (A), interest shall accrue on such amount at the rate provided under section 1396b(d)(5) of this title. The amount so owed and applicable interest shall be immediately offset against amounts otherwise payable to the State under section 1396b(a) of this title subject to subsection (e), in accordance with the Federal Claims Collection Act of 1996 <sup>1</sup> and applicable regulations.
+&emsp;&emsp;If a State fails to pay to the Secretary an amount required under subparagraph (A), interest shall accrue on such amount at the rate provided under section 1396b(d)(5) of this title. The amount so owed and applicable interest shall be immediately offset against amounts otherwise payable to the State under section 1396b(a) of this title subject to subsection (e), in accordance with theFederal Claims Collection Act of 1996 <sup>1</sup> and applicable regulations.
 
 #### (D) Data match
 
@@ -168,7 +168,7 @@ The amounts expended by a State in carrying out subsection (a) are expenditures 
 
 #### (1) Medicare as primary payor
 
-&emsp;In the case of a part D eligible individual (as defined in section 1395w–101(a)(3)(A) of this title) who is described in subsection (c)(6)(A)(ii), notwithstanding any other provision of this subchapter, medical assistance is not available under this subchapter for such drugs (or for any cost-sharing respecting such drugs), and the rules under this subchapter relating to the provision of medical assistance for such drugs shall not apply. The provision of benefits with respect to such drugs shall not be considered as the provision of care or services under the plan under this subchapter. Nopayment may be made under section 1396b(a) of this title for prescribed drugs for which medical assistance is not available pursuant to this paragraph.
+&emsp;In the case of a part D eligible individual (as defined in section 1395w–101(a)(3)(A) of this title) who is described in subsection (c)(6)(A)(ii), notwithstanding any other provision of this subchapter, medical assistance is not available under this subchapter for such drugs (or for any cost-sharing respecting such drugs), and the rules under this subchapter relating to the provision of medical assistance for such drugs shall not apply. The provision of benefits with respect to such drugs shall not be considered as the provision of care or services under the plan under this subchapter. No payment may be made under section 1396b(a) of this title for prescribed drugs for which medical assistance is not available pursuant to this paragraph.
 
 #### (2) Coverage of certain excludable drugs
 
@@ -228,6 +228,8 @@ The amounts expended by a State in carrying out subsection (a) are expenditures 
 
 (Aug. 14, 1935, ch. 531, title XIX, §1935, as added and amended Pub. L. 108–173, title I, §103(a)(2)(B), (b)–(d)(1), Dec. 8, 2003, 117 Stat. 2154–2158; Pub. L. 109–91, title I, §104(c), Oct. 20, 2005, 119 Stat. 2093; Pub. L. 110–275, title I, §113(b), July 15, 2008, 122 Stat. 2506; Pub. L. 116–94, div. N, title I, §202(b), Dec. 20, 2019, 133 Stat. 3107.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 No act with the title Federal Claims Collection Act of 1996, referred to in subsec. (c)(1)(C), has been enacted. However, Pub. L. 89–508, July 19, 1966, 80 Stat. 308, was known as the Federal Claims Collection Act of 1966. Sections 2, 3, and 5 of Pub. L. 89–508, which enacted sections 951, 952, and 954, respectively, of former Title 31, Money and Finance, were repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 877, the first section of which enacted Title 31, Money and Finance. For disposition of sections of former Title 31 into revised Title 31, see Table preceding section 101 of Title 31. For complete classification of Pub. L. 89–508 to the Code, see Tables.
@@ -257,6 +259,8 @@ Subsec. (c)(1)(C). Pub. L. 108–173, §103(d)(1)(B), which directed the amendme
 Subsec. (d). Pub. L. 108–173, §103(c), added subsec. (d).
 
 Subsec. (e). Pub. L. 108–173, §103(d)(1)(C), added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

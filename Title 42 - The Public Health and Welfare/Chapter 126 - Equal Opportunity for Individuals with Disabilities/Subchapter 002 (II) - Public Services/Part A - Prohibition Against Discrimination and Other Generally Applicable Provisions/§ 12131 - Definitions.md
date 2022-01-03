@@ -14,9 +14,11 @@ As used in this subchapter:
 
 #### (2) Qualified individual with a disability
 
-&emsp;The term "qualified individual with a disability" means an individual with a disability who, with or without reasonable modifications to rules, policies, or practices, the removal ofarchitectural, communication, or transportation barriers, or the provision of auxiliary aids and services, meets the essential eligibility requirements for the receipt of services or the participation in programs or activities provided by a public entity.
+&emsp;The term "qualified individual with a disability" means an individual with a disability who, with or without reasonable modifications to rules, policies, or practices, the removal of architectural, communication, or transportation barriers, or the provision of auxiliary aids and services, meets the essential eligibility requirements for the receipt of services or the participation in programs or activities provided by a public entity.
 
 (Pub. L. 101–336, title II, §201, July 26, 1990, 104 Stat. 337.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -25,6 +27,8 @@ Section 24102 of title 49, referred to in par. (1)(C), was subsequently amended,
 #### Codification
 
 In par. (1)(C), "section 24102(4) of title 49" substituted for "section 103(8) of the Rail Passenger Service Act" on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -38,6 +42,8 @@ General Rule.—Except as provided in subsection (b), this subtitle \[subtitle A
 
 Exception.—Section 204 \[section 12134 of this title\] shall become effective on the date of enactment of this Act."
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 13217. Community-Based Alternatives for Individuals With Disabilities
 
 Ex. Ord. No. 13217, June 18, 2001, 66 F.R. 33155, provided:
@@ -50,7 +56,7 @@ Section 1. <i>Policy</i>. This order is issued consistent with the following fin
 
 (b) The United States seeks to ensure that America's community-based programs effectively foster independence and participation in the community for Americans with disabilities.
 
-(c) Unjustified isolation or segregation of qualified individuals with disabilities through institutionalization is a form of disability-based discrimination prohibited by Title II of the Americans With Disabilities Act of 1990 (ADA), 42 U.S.C. 12101 \[12131\] <i>et seq</i>. States must avoid disability-based discrimination unless doing so would fundamentally alter the nature of the service, program, or activity provided by the State.
+(c) Unjustified isolation or segregation of qualified individuals with disabilities through institutionalization is a form of disability-based discrimination prohibited by Title II of the Americans With Disabilities Act of 1990 (ADA), 42 U.S.C. 12101 \[12131\] <i>et seq</i>. States mustavoid disability-based discrimination unless doing so would fundamentally alter the nature of the service, program, or activity provided by the State.
 
 (d) In <i>Olmstead v. L.C</i>., 527 U.S. 581 (1999) (the "<i>Olmstead</i> decision"), the Supreme Court construed Title II of the ADA \[42 U.S.C. 12131 et seq.\] to require States to place qualified individuals with mental disabilities in community settings, rather than in institutions, whenever treatment professionals determine that such placement is appropriate, the affected persons do not oppose such placement, and the State can reasonably accommodate the placement, taking into account the resources available to the State and the needs of others with disabilities.
 

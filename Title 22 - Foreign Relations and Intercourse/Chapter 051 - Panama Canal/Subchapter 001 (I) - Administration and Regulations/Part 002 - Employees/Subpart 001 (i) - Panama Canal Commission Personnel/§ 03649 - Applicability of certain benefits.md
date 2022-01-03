@@ -20,7 +20,7 @@ Chapter 81 of title 5, relating to compensation for work injuries, chapters 83 a
 
 &emsp;"(2) whose initial appointment by the Commission occurs after October 1, 1979; and
 
-&emsp;"(3) who is covered by the Social Security System of the Republic of Panama pursuant to any provisionof the Panama Canal Treaty of 1977 and related agreements."
+&emsp;"(3) who is covered by the Social Security System of the Republic of Panama pursuant to any provision of the Panama Canal Treaty of 1977 and related agreements."
 
 > Prior to amendment, section 1209 also contained subsecs. (b) and (c) which amended sections 8701 and 8901 of Title 5, Government Organization and Employees.
 

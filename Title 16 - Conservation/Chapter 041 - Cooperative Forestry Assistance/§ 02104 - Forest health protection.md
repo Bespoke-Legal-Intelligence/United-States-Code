@@ -20,7 +20,7 @@ The Secretary may protect trees and forests and wood products, stored wood, and 
 
 Subject to subsections (c), (d), and (e) and to such other conditions the Secretary may prescribe, the Secretary may, directly on the National Forest System, in cooperation with other Federal departments on other Federal lands, and in cooperation with State foresters, or equivalent State officials, subdivisions of States, agencies, institutions, organizations, or individuals on non-Federal lands—
 
-&emsp;(1) conduct surveys to detect and appraise insect infestations and disease conditions and man-made stresses affecting trees and establish a monitoring system throughout the forests of the United States to determine detrimental changes or improvements that occurover time, and report annually concerning such surveys and monitoring;
+&emsp;(1) conduct surveys to detect and appraise insect infestations and disease conditions and man-made stresses affecting trees and establish a monitoring system throughout the forests of the United States to determine detrimental changes or improvements that occur over time, and report annually concerning such surveys and monitoring;
 
 &emsp;(2) determine the biological, chemical, and mechanical measures necessary to prevent, retard, control, or suppress incipient, potential, threatening, or emergency insect infestations and disease conditions affecting trees;
 
@@ -84,6 +84,8 @@ There are authorized to be appropriated annually such sums as may be necessary t
 
 (Pub. L. 95–313, §8, formerly §5, July 1, 1978, 92 Stat. 368; renumbered §8 and amended Pub. L. 101–624, title XII, §§1215(1), 1218, Nov. 28, 1990, 104 Stat. 3525, 3531.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 In subsec. (f)(2), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes (41 U.S.C. 5)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
@@ -96,13 +98,15 @@ A prior section 8 of Pub. L. 95–313 was renumbered section 11 and is classifie
 
 <b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions relating to insect and disease control on Federal and non-Federal forest lands, additional protective functions and responsibilities concerning such lands, consent, cooperation, and participation of, and contribution by, entity having jurisdiction over such lands, allocations to Federal agencies having jurisdiction over such lands, availability and limitations on use of appropriated amounts, and authorization of appropriations.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Stewardship End Result Contracting Projects
 
 Pub. L. 107–63, title III, §332, Nov. 5, 2001, 115 Stat. 471, provided in part that: "The authority to enter into stewardship and end result contracts provided to the Forest Service in accordance with \[former\] section 347 of title III of section 101(e) of division A of Public Law 105–277 \[formerly set out as a note below\] is hereby expanded to authorize the Forest Service to enter into an additional 28 contracts subject to the same terms and conditions as provided in that section: <i>Provided</i>, That of the additional contracts authorized by this section at least 9 shall be allocated to Region 1 and at least 3 to Region 6."
 
 Similar provisions were contained in Pub. L. 106–291, title III, §338, Oct. 11, 2000, 114 Stat. 998, as amended by Pub. L. 107–20, title II, §2604, July 24, 2001, 115 Stat. 178.
 
-Pub. L. 105–277, div. A, §101(e) \[title III, §347\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–298, as amended by Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §341\], Nov. 29, 1999, 113 Stat. 1535, 1501A–201; Pub. L. 107–63, title III, §332, Nov. 5, 2001, 115 Stat. 471; Pub. L. 108–7, div. F, title III, §323, Feb. 20, 2003, 117 Stat. 275; Pub. L. 113–76, div. G, title IV, §434, Jan. 17, 2014, 128 Stat. 346, which authorized the Forest Service and the Bureau of Land Management, until Sept. 30, 2014, to enter into stewardship contracting projects with private persons or other public or private entities to perform services to achieve certain land management goals, was repealed by Pub. L. 113–79, title VIII, §8205(b), Feb. 7, 2014, 128 Stat. 921. See section 6591c of this title.
+Pub. L. 105–277, div. A, §101(e) \[title III, §347\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–298, as amended by Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §341\], Nov. 29, 1999, 113 Stat. 1535, 1501A–201; Pub. L. 107–63, title III, §332, Nov. 5, 2001, 115 Stat. 471; Pub. L. 108–7, div. F, title III, §323, Feb. 20, 2003, 117 Stat. 275; Pub. L. 113–76, div. G, title IV, §434, Jan. 17, 2014, 128 Stat. 346, which authorized the Forest Service and the Bureau of Land Management, until Sept. 30, 2014, to enter into stewardshipcontracting projects with private persons or other public or private entities to perform services to achieve certain land management goals, was repealed by Pub. L. 113–79, title VIII, §8205(b), Feb. 7, 2014, 128 Stat. 921. See section 6591c of this title.
 
 #### Herger-Feinstein Quincy Library Group Forest Recovery
 
@@ -170,7 +174,7 @@ Fuelbreak construction.—Construction of a strategic system of defensible fuel 
 
 &emsp;"(2)
 
-Group selection and individual tree selection.—Utilization of group selection and individualtree selection uneven-aged forest management prescriptions described in the Quincy Library Group-Community Stability Proposal to achieve a desired future condition of all-age, multistory, fire resilient forests as follows:
+Group selection and individual tree selection.—Utilization of group selection and individual tree selection uneven-aged forest management prescriptions described in the Quincy Library Group-Community Stability Proposal to achieve a desired future condition of all-age, multistory, fire resilient forests as follows:
 
 &emsp;&emsp;"(A)
 
@@ -290,7 +294,7 @@ Preparation.—The panel shall initiate such review no sooner than 18 months aft
 
 &emsp;"(3)
 
-Submission to the congress.—The panel shall submit the final report to the Congress as soon aspracticable, but in no case later than 18 months after completion of the pilot project.
+Submission to the congress.—The panel shall submit the final report to the Congress as soon as practicable, but in no case later than 18 months after completion of the pilot project.
 
 &emsp;"(4)
 

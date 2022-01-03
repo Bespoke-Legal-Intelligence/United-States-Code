@@ -28,7 +28,7 @@ Revocation or Suspension of Registration.—The Secretary shall revoke the regis
 
 (d)
 
-Periodic Registration Update.—The Secretary may require an employer to update a registration under this section not later than 30days after a change in the employer's address, other contact information, officers, process agent, or other essential information, as determined by the Secretary.
+Periodic Registration Update.—The Secretary may require an employer to update a registration under this section not later than 30 days after a change in the employer's address, other contact information, officers, process agent, or other essential information, as determined by the Secretary.
 
 (e)
 
@@ -36,9 +36,13 @@ State Authority.—Nothing in this section shall be construed as affecting the a
 
 (Added Pub. L. 112–141, div. C, title II, §32105(a), July 6, 2012, 126 Stat. 780.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 31134, Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1001; Pub. L. 104–287, §5(9), Oct. 11, 1996, 110 Stat. 3389, related to Commercial Motor Vehicle Safety Regulatory Review Panel, prior to repeal by Pub. L. 105–178, title IV, §4008(c), June 9, 1998, 112 Stat. 404.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

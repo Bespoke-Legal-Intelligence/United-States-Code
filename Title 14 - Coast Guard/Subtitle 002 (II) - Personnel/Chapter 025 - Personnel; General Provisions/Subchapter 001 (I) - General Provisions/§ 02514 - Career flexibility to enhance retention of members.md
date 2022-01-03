@@ -36,7 +36,7 @@ Agreement.—Each member of the Coast Guard who participates in a program under 
 
 (d)
 
-Conditions of Release.—The Commandant shall prescribe regulations specifying the guidelines regarding the conditions of release thatmust be considered and addressed in the agreement required by subsection (c). At a minimum, the Commandant shall prescribe the procedures and standards to be used to instruct a member on the obligations to be assumed by the member under paragraph (2) of such subsection while the member is released from active duty.
+Conditions of Release.—The Commandant shall prescribe regulations specifying the guidelines regarding the conditions of release that must be considered and addressed in the agreement required by subsection (c). At a minimum, the Commandant shall prescribe the procedures and standards to be used to instruct a member on the obligations to be assumed by the member under paragraph (2) of such subsection while the member is released from active duty.
 
 (e)
 
@@ -104,7 +104,7 @@ Travel and transportation allowance.—
 
 &emsp;&emsp;(A)
 
-In general.—Subject to subparagraph (B), a member who participates in a program is entitled, while participating in the program, to the travel and transportation allowances authorized by section 474 of title 37 for—
+In general.—Subject to subparagraph (B), a member who participates in a program is entitled, while participating in the program, to the travel and transportation allowances authorized by section 474 <sup>1</sup> of title 37 for—
 
 &emsp;&emsp;&emsp;(i) travel performed from the residence of the member, at the time of release from active duty to participate in the program, to the location in the United States designated by the member as the member's residence during the period of participation in the program; and
 
@@ -155,4 +155,12 @@ Continued Entitlements.—A member participating in a program under this section
 &emsp;(2) retirement or separation for physical disability under the provisions of chapter 61 of title 10 and chapters 21 and 23 of this title.
 
 (Added Pub. L. 116–283, div. G, title LVXXXII \[LXXXII\], §8204(a), Jan. 1, 2021, 134 Stat. 4645.)
+
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+Section 474 of title 37, referred to in subsec. (f)(4)(A), was repealed by Pub. L. 117–81, div. A, title VI, §604(a), Dec. 27, 2021, 135 Stat. 1767.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

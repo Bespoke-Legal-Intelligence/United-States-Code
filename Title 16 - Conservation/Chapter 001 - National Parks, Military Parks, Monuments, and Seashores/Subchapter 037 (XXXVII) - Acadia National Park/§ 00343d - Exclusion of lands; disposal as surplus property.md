@@ -4,6 +4,8 @@ The tract of land in Acadia National Park, State of Maine, comprising approximat
 
 (July 24, 1956, ch. 667, 70 Stat. 597.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For laws relating to the disposition of Federal property, referred to in text, see, generally, subtitle I of Title 40, Public Buildings, Property, and Works.

@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(A) consult with the Secretary of Transportation to coordinate the program with any ongoing or planned efforts for motor carrier or security-sensitive materials tracking at the Department of Transportation;
 
-&emsp;&emsp;(B) take into consideration the recommendations and findings of the report on the hazardous material safety and security operational field test released by the Federal Motor Carrier Safety Administration on November 11, 2004; and
+&emsp;&emsp;(B) take into consideration the recommendations and findings of the report onthe hazardous material safety and security operational field test released by the Federal Motor Carrier Safety Administration on November 11, 2004; and
 
 &emsp;&emsp;(C) evaluate—
 

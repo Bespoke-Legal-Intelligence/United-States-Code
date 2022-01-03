@@ -18,6 +18,8 @@ The owner of an improved property, as defined in this subchapter, on the date of
 
 (Pub. L. 95–625, title XI, §1102, Nov. 10, 1978, 92 Stat. 3545; Pub. L. 99–500, §101(h) \[title I, §116(a)\], Oct. 18, 1986, 100 Stat. 1783–242, 1783–266, and Pub.L. 99–591, §101(h) \[title I, §116(a)\], Oct. 30, 1986, 100 Stat. 3341–242, 3341–266; Pub. L. 99–590, title X, §1001, Oct. 30, 1986, 100 Stat. 3339.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsec. (c), is Pub. L. 95–625, Nov. 10, 1978, 92 Stat. 3467, known as the National Parks and Recreation Act of 1978. For complete classification of this Act to the Code, see Tables.
@@ -31,6 +33,8 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 #### Amendments
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–500, Pub. L. 99–590, Pub. L. 99–591, amended subsec. (a) identically inserting provisions relating to acquisition of an administrative headquarters site.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

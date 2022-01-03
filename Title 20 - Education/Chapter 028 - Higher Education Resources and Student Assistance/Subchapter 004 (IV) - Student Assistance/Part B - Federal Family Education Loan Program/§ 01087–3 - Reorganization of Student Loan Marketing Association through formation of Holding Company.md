@@ -18,7 +18,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 #### (1) In general
 
-&emsp;Except as specifically provided in this section, until the dissolution date the Association shall continue to have all of the rights, privileges and obligations set forth in, and shall be subject to all of the limitations and restrictions of, section 1087–2 of this title, and the Association shall continue to carry out the purposes of such section. The Holding Company and any subsidiary of the Holding Company (other than the Association) shall not be entitled to any of the rights, privileges, and obligations, and shall not be subject to the limitations and restrictions, applicable to the Association under section 1087–2 of this title, except as specifically provided in this section. The Holding Company and any subsidiary of the Holding Company (other than the Association or a subsidiary of the Association) shall not purchase loans insured under this chapter until such time as the Association ceases acquiring such loans, except that the Holding Company may purchase such loans if the Association is merely continuing to acquire loans as a lender of last resort pursuant to section 1087–2(q) of this title or under an agreement with the Secretary described in paragraph (6).
+&emsp;Except as specifically provided in this section, until the dissolution date the Association shall continue to have all of the rights, privileges and obligations set forth in, and shall be subject to all of the limitations and restrictions of, section 1087–2 of this title, and the Association shall continue to carry out the purposes of such section. The Holding Company and any subsidiary of the Holding Company (other than the Association) shall not be entitled to any of the rights, privileges, and obligations, and shall not be subject to thelimitations and restrictions, applicable to the Association under section 1087–2 of this title, except as specifically provided in this section. The Holding Company and any subsidiary of the Holding Company (other than the Association or a subsidiary of the Association) shall not purchase loans insured under this chapter until such time as the Association ceases acquiring such loans, except that the Holding Company may purchase such loans if the Association is merely continuing to acquire loans as a lender of last resort pursuant to section 1087–2(q) of this title or under an agreement with the Secretary described in paragraph (6).
 
 #### (2) Transfer of certain property
 
@@ -66,11 +66,11 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 #### (B) Agreement
 
-&emsp;&emsp;The Secretary is authorized to enter into an agreement described in clause (iv) of subparagraph (A) with the Association coveringsuch secondary market activities. Any agreement entered into under such clause shall cover a period of 12 months, but may be renewed if the Secretary determines that liquidity remains inadequate. The fee provided under section 1087–2(h)(7) of this title shall not apply to loans acquired under any such agreement with the Secretary.
+&emsp;&emsp;The Secretary is authorized to enter into an agreement described in clause (iv) of subparagraph (A) with the Association covering such secondary market activities. Any agreement entered into under such clause shall cover a period of 12 months, but may be renewed if the Secretary determines that liquidity remains inadequate. The fee provided under section 1087–2(h)(7) of this title shall not apply to loans acquired under any such agreement with the Secretary.
 
 #### (7) Issuance of debt obligations during the transition period; attributes of debt obligations
 
-&emsp;After the reorganization effective date, the Association shall not issue debt obligations which mature later than September 30, 2008, except in connection with serving as a lender-of-last-resort pursuant to section 1087–2(q) of this title or with purchasing loans under an agreement with the Secretary as described in paragraph (6). Nothing in this section shall modify the attributes accorded the debt obligations of the Association by section 1087–2 of this title, regardless of whether such debt obligations are incurred prior to, or at any time following, the reorganization effective date or are transferred to a trust in accordance with subsection (d).
+&emsp;After the reorganization effective date, the Association shall not issue debt obligations which mature later than September 30, 2008, except in connection with serving as a lender-of-last-resort pursuant to section 1087–2(q) of this title or with purchasing loans under an agreement with the Secretary as described in paragraph (6). Nothing in this section shallmodify the attributes accorded the debt obligations of the Association by section 1087–2 of this title, regardless of whether such debt obligations are incurred prior to, or at any time following, the reorganization effective date or are transferred to a trust in accordance with subsection (d).
 
 #### (8) Monitoring of safety and soundness
 
@@ -122,7 +122,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 #### (D) Encumbrance of assets
 
-&emsp;&emsp;Notwithstanding any Federal or State law, rule, or regulation, or legal or equitable principle, doctrine, or theory to the contrary, under no circumstances shall the assets of the Association be available or used to pay claims or debts of or incurred by the Holding Company. Nothing in this subparagraph shall be construed to limit the right ofthe Association to pay dividends not otherwise prohibited under this subparagraph or to limit any liability of the Holding Company explicitly provided for in this section.
+&emsp;&emsp;Notwithstanding any Federal or State law, rule, or regulation, or legal or equitable principle, doctrine, or theory to the contrary, under no circumstances shall the assets of the Association be available or used to pay claims or debts of or incurred by the Holding Company. Nothing in this subparagraph shall be construed to limit the right of the Association to pay dividends not otherwise prohibited under this subparagraph or to limit any liability of the Holding Company explicitly provided for in this section.
 
 #### (E) Holding Company activities
 
@@ -134,7 +134,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 #### (G) Definition
 
-&emsp;&emsp;For purposes of this paragraph, the term "associated person" means any person, other than a natural person, who is directly or indirectly controlling, controlled by, or under common control with, the Association.
+&emsp;&emsp;For purposes of this paragraph, the term "associated person" means any person, otherthan a natural person, who is directly or indirectly controlling, controlled by, or under common control with, the Association.
 
 #### (9) Issuance of stock warrants
 
@@ -172,7 +172,7 @@ In the event the shareholders of the Association approve a plan of reorganizatio
 
 #### (4) Transfer of remaining assets
 
-&emsp;After compliance with paragraphs (1) and (3), any remaining assets of the trust shall be transferred to the Holding Company or any subsidiary of the Holding Company, as directed by the Holding Company.
+&emsp;After compliance with paragraphs (1) and (3), any remaining assets of the trust shall betransferred to the Holding Company or any subsidiary of the Holding Company, as directed by the Holding Company.
 
 #### (e) Operation of Holding Company
 
@@ -192,7 +192,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 #### (3) Use of Sallie Mae name
 
-&emsp;Subject to paragraph (2), the Association may assign to the Holding Company, or any subsidiary of the Holding Company, the "Sallie Mae" name as a trademark or service mark, except that neither the Holding Company nor any subsidiary of the Holding Company (other than the Association or any subsidiary of the Association) may use the "Sallie Mae" name on, or to identify the issuer of, any debt obligation or other security offered or sold by the Holding Company or any subsidiary of the Holding Company (other than a debt obligation or other security issued to and held by the Holding Company or any subsidiary of the Holding Company). The Association shall remit to the account established under section 1155(e) <sup>2</sup> of this title, $5,000,000, within 60 days of the reorganization effective date as compensation for the right to assign the "Sallie Mae" name as a trademark or service mark.
+&emsp;Subject to paragraph (2), the Association may assign to the Holding Company, or any subsidiary of the Holding Company, the "Sallie Mae" name as a trademark or service mark, except that neither the Holding Company nor any subsidiary of the Holding Company (other than the Association or any subsidiary of the Association) may use the "Sallie Mae" name on, or to identify the issuer of, any debt obligation or other security offered or sold by the Holding Company or any subsidiary of the Holding Company (other than a debt obligation or other security issued to and held by the Holding Company or any subsidiary of the Holding Company). The Association shall remit to the account established under section 1155(e) <sup>1</sup> of this title, $5,000,000, within 60 days of the reorganization effective date as compensation for the right to assign the "Sallie Mae" name as a trademark or service mark.
 
 #### (4) Disclosure required
 
@@ -244,7 +244,7 @@ For purposes of this section:
 
 &emsp;&emsp;(C) Investment securities owned by the Association.
 
-&emsp;&emsp;(D) Any instruments, assets, or agreements described in section 1087–2(d) of this title (including, without limitation, all student loans and agreements relating to the purchase and sale of student loans, forward purchase and lending commitments, warehousing advances, academic facilities obligations, letters of credit, standby bond purchase agreements, liquidity agreements, and student loan revenue bonds or other loans).
+&emsp;&emsp;(D) Any instruments, assets, or agreements described in section 1087–2(d) of this title (including, without limitation, all student loans and agreements relating to the purchase and sale of student loans, forwardpurchase and lending commitments, warehousing advances, academic facilities obligations, letters of credit, standby bond purchase agreements, liquidity agreements, and student loan revenue bonds or other loans).
 
 &emsp;&emsp;(E) Except as specifically prohibited by this section or section 1087–2 of this title, any other nonmaterial assets or liabilities of the Association which the Association's Board of Directors determines to be necessary or appropriate to the Association's operations.
 
@@ -266,6 +266,8 @@ For purposes of this section:
 
 <i>Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §602(d)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–289, provided that this section is repealed effective one year after date on which all obligations of trust established under subsec. (d)(1) of this section have been extinguished, if reorganization occurs in accordance with this section, or date on which all obligations of trust established under section 1087–2(s)(3)(A) of this title have been extinguished, if reorganization does not occur in accordance with this section.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1155(e) of this title, referred to in subsecs. (c)(9)(B) and (e)(3), was in the original a reference to section 3(e) of the Student Loan Marketing Association Reorganization Act of 1996, and was translated as reading section 603(e) of that Act, which is Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §603(e)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–293, to reflect the probable intent of Congress, because that Act does not contain a section 3(e), but does contain a section 603(e) which establishes the account referred to in text.
@@ -277,6 +279,4 @@ A prior section 1087–3, Pub. L. 89–329, title IV, §439A, as added Pub. L. 9
 A prior section 1087–3a, Pub. L. 89–329, title IV, §439B, as added Pub. L. 95–566, §8, Nov. 1, 1978, 92 Stat. 2404, authorized any loan under this part to be counted as part of the expected family contribution in the determination of need, prior to repeal by Pub. L. 97–35, title V, §532(b)(2), Aug. 13, 1981, 95 Stat. 452, applicable to loans for the statement required by section 1078(a)(2)(A) of this title is completed on or after Oct. 1, 1981.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
 

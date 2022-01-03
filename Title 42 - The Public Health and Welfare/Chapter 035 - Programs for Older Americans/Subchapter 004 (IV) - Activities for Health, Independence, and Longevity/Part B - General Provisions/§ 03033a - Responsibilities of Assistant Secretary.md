@@ -8,7 +8,7 @@ The Assistant Secretary shall be responsible for the administration, implementat
 
 #### (1) In general
 
-&emsp;Not later than January 1 following each fiscal year, the Assistant Secretary shall submit, to the Speaker of the House of Representatives and the President pro tempore of the Senate, a report for such fiscal year that describes each project and each program—
+&emsp;Not later than January 1 following each fiscal year, the Assistant Secretary shall submit, to the Speaker of the House of Representatives and the President pro tempore of theSenate, a report for such fiscal year that describes each project and each program—
 
 &emsp;&emsp;(A) for which funds were provided under this subchapter; and
 
@@ -46,6 +46,8 @@ The Assistant Secretary shall be responsible for the administration, implementat
 
 (Pub. L. 89–73, title IV, §432, as added Pub. L. 106–501, title IV, §401, Nov. 13, 2000, 114 Stat. 2266; amended Pub. L. 109–365, title IV, §410, Oct. 17, 2006, 120 Stat. 2563.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 432 of Pub. L. 89–73 was classified to section 3035h of this title, prior to the general amendment of this subchapter by Pub. L. 97–115.
@@ -80,7 +82,7 @@ Section 3035e, Pub. L. 89–73, title IV, §426, as added Pub. L. 97–115, §11
 
 Another prior section 3035e, Pub. L. 89–73, title IV, §424, as added Pub. L. 95–478, title I, §104(c)(1)(C), Oct. 18, 1978, 92 Stat. 1543, provided for national impact demonstrations, prior to the general amendment of this subchapter by Pub. L. 97–115.
 
-Section 3035f, Pub. L. 89–73, title IV, §427, as added Pub. L. 100–175, title I, §156(e)(1), Nov. 29, 1987, 101 Stat. 955; amended Pub. L. 102–375, title IV, §408, Sept. 30, 1992, 106 Stat. 1249; Pub. L. 103–171, §3(a)(7), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 106–402, title IV, §401(b)(9)(B), Oct. 30, 2000, 114 Stat. 1739, related to ombudsman, legal assistance, and advocacy demonstration projects.
+Section 3035f, Pub. L. 89–73, title IV, §427, as added Pub. L. 100–175, title I, §156(e)(1), Nov. 29, 1987, 101 Stat.955; amended Pub. L. 102–375, title IV, §408, Sept. 30, 1992, 106 Stat. 1249; Pub. L. 103–171, §3(a)(7), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 106–402, title IV, §401(b)(9)(B), Oct. 30, 2000, 114 Stat. 1739, related to ombudsman, legal assistance, and advocacy demonstration projects.
 
 Another prior section 3035f, Pub. L. 89–73, title IV, §425, as added Pub. L. 95–478, title I, §104(c)(1)(C), Oct. 18, 1978, 92 Stat. 1543, provided for utility and home heating cost demonstration projects, prior to the general amendment of this subchapter by Pub. L. 97–115.
 

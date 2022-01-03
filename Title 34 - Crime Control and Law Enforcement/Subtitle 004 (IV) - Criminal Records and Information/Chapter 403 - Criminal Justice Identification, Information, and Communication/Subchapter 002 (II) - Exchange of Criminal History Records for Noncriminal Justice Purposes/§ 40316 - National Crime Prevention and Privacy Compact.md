@@ -36,7 +36,7 @@ In this Compact:
 
 &emsp;The term "criminal history records"—
 
-&emsp;&emsp;(A) means information collected by criminal justice agencies on individuals consisting of identifiable descriptions and notations of arrests, detentions, indictments, orother formal criminal charges, and any disposition arising therefrom, including acquittal, sentencing, correctional supervision, or release; and
+&emsp;&emsp;(A) means information collected by criminal justice agencies on individuals consisting of identifiable descriptions and notations of arrests, detentions, indictments, or other formal criminal charges, and any disposition arising therefrom, including acquittal, sentencing, correctional supervision, or release; and
 
 &emsp;&emsp;(B) does not include identification information such as fingerprint records if such information does not indicate involvement of the individual with the criminal justice system.
 
@@ -70,7 +70,7 @@ In this Compact:
 
 #### (9) Criterion offense
 
-&emsp;The term "criterion offense" means any felony or misdemeanor offense not included on the list of nonserious offenses published periodically by the FBI.
+&emsp;The term "criterion offense" means any felony or misdemeanor offense not included onthe list of nonserious offenses published periodically by the FBI.
 
 #### (10) Direct access
 
@@ -150,7 +150,7 @@ The purposes of this Compact are to—
 
 &emsp;(4) provide for the establishment of a Council to monitor III System operations and to prescribe system rules and procedures for the effective and proper operation of the III System for noncriminal justice purposes; and
 
-&emsp;(5) require the FBI and each Party State to adhere to III System standards concerning record dissemination and use, response times, system security, data quality, and other duly established standards, including those that enhance the accuracy and privacy of such records.
+&emsp;(5) require the FBI and each Party State to adhere to III System standards concerningrecord dissemination and use, response times, system security, data quality, and other duly established standards, including those that enhance the accuracy and privacy of such records.
 
 ### ARTICLE III—RESPONSIBILITIES OF COMPACT PARTIES
 
@@ -304,7 +304,7 @@ The Council shall be composed of 15 members, each of whom shall be appointed by 
 
 #### (1) In general
 
-&emsp;From its membership, the Council shall elect a Chairman and a Vice Chairman of the Council, respectively. Both the Chairman and Vice Chairman of the Council—
+&emsp;From its membership, the Council shall elect a Chairman and a Vice Chairman of theCouncil, respectively. Both the Chairman and Vice Chairman of the Council—
 
 &emsp;&emsp;(A) shall be a Compact officer, unless there is no Compact officer on the Council who is willing to serve, in which case the Chairman may be an at-large member; and
 

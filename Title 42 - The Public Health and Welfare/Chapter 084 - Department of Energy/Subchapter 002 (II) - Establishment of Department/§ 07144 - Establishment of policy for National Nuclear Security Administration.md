@@ -6,13 +6,15 @@ The Secretary shall be responsible for establishing policy for the National Nucl
 
 #### (b) Review of programs and activities
 
-The Secretary may direct officials of the Department who are not within the National Nuclear Security Administration to review the programs and activities of the Administration andto make recommendations to the Secretary regarding administration of those programs and activities, including consistency with other similar programs and activities of the Department.
+The Secretary may direct officials of the Department who are not within the National Nuclear Security Administration to review the programs and activities of the Administration and to make recommendations to the Secretary regarding administration of those programs and activities, including consistency with other similar programs and activities of the Department.
 
 #### (c) Staff
 
 The Secretary shall have adequate staff to support the Secretary in carrying out the Secretary's responsibilities under this section.
 
 (Pub. L. 95–91, title II, §213, as added Pub. L. 106–65, div. C, title XXXII, §3203(a), Oct. 5, 1999, 113 Stat. 954.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

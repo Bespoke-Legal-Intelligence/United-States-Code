@@ -391,7 +391,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) in the case of each dollar amount in subsection (c)(2)(A), "calendar year 2003".
 
-> &emsp;In the case of adjustments made for any taxable year beginning after 2007, section 1(f)(4)shall be applied for purposes of this paragraph by substituting "March 31" for "August 31", and the Secretary shall publish the adjusted amounts under subsections (b)(2) and (c)(2)(A) for taxable years beginning in any calendar year no later than June 1 of the preceding calendar year.
+> &emsp;In the case of adjustments made for any taxable year beginning after 2007, section 1(f)(4) shall be applied for purposes of this paragraph by substituting "March 31" for "August 31", and the Secretary shall publish the adjusted amounts under subsections (b)(2) and (c)(2)(A) for taxable years beginning in any calendar year no later than June 1 of the preceding calendar year.
 
 #### (2) Rounding
 
@@ -416,6 +416,8 @@ The Secretary may require—
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table below and under section 1 of this title.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -481,6 +483,8 @@ Subsec. (g)(1). Pub. L. 109–432, §304, inserted concluding provisions.
 
 <b>2005</b>—Subsec. (d)(2)(A). Pub. L. 109–135 inserted ", determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof" after "section 152".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2020 Amendment
 
 Pub. L. 116–260, div. BB, title I, §102(c)(4)(B), Dec. 27, 2020, 134 Stat. 2796, provided that: "The amendments made by subparagraph (A) \[amending this section\] shall apply for plan years beginning on or after January 1, 2022."
@@ -497,7 +501,7 @@ Amendment by section 11051(b)(3)(E) of Pub. L. 115–97 applicable to any divorc
 
 #### Effective Date of 2015 Amendment
 
-Pub. L. 114–41, title IV, §4007(b)(2), July 31, 2015, 129 Stat. 466, provided that: "The amendment made by this subsection \[amending this section\] shall apply to months beginning after December 31, 2015."
+Pub. L. 114–41, title IV, §4007(b)(2), July 31, 2015, 129 Stat. 466, provided that: "The amendment made by thissubsection \[amending this section\] shall apply to months beginning after December 31, 2015."
 
 #### Effective Date of 2010 Amendment
 

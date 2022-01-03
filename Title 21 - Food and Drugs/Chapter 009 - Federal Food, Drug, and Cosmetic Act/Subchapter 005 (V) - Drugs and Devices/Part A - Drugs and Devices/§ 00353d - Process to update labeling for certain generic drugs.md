@@ -82,7 +82,7 @@ Within 30 days of receipt of notification provided by the Secretary pursuant to 
 
 #### (g) Violation
 
-If the holder of an approved application for the generic version of the selected drug does not comply with the requirements of subsection\(f)(2), such generic version of the selected drug shall be deemed to be misbranded under section 352 of this title.
+If the holder of an approved application for the generic version of the selected drug does not comply with the requirements of subsection (f)(2), such generic version of the selected drug shall be deemed to be misbranded under section 352 of this title.
 
 #### (h) Limitations; generic drugs
 

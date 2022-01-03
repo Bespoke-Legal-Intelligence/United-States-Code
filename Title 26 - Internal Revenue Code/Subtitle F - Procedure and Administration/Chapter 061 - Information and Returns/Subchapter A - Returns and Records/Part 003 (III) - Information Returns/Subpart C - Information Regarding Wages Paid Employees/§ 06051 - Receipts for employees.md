@@ -20,7 +20,7 @@ Every person required to deduct and withhold from an employee a tax under sectio
 
 &emsp;(8) the total amount of elective deferrals (within the meaning of section 402(g)(3)) and compensation deferred under section 457, including the amount of designated Roth contributions (as defined in section 402A),
 
-&emsp;(9) the total amount incurred for dependent care assistance with respect to such employeeunder a dependent care assistance program described in section 129(d),
+&emsp;(9) the total amount incurred for dependent care assistance with respect to such employee under a dependent care assistance program described in section 129(d),
 
 &emsp;(10) in the case of an employee who is a member of the Armed Forces of the United States, such employee's earned income as determined for purposes of section 32 (relating to earned income credit),
 
@@ -78,7 +78,7 @@ A duplicate of any statement made pursuant to this section and in accordance wit
 
 #### (A) In general
 
-&emsp;&emsp;If, during any calendar year, any person makes a payment of third-party sick pay to an employee, such person shall, on or before January 15 of the succeeding year, furnish a written statement to the employer in respect of whom such payment was made showing—
+&emsp;&emsp;If, during any calendar year, any person makes a payment of third-party sick pay to an employee, such person shall, on or beforeJanuary 15 of the succeeding year, furnish a written statement to the employer in respect of whom such payment was made showing—
 
 &emsp;&emsp;&emsp;(i) the name and, if there is withholding under section 3402(o), the social security number of such employee,
 
@@ -134,7 +134,9 @@ For purposes of subsection (a)(14)—
 
 &emsp;Applicable employer-sponsored coverage shall include coverage under any group health plan established and maintained primarily for its civilian employees by the Government of the United States, by the government of any State or political subdivision thereof, or by any agency or instrumentality of any such government.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 747; Aug. 1, 1956, ch. 837, title IV, §412, 70 Stat. 879; Pub. L. 87–293, title II, §202(a)(4), Sept. 22, 1961, 75 Stat. 626; Pub. L. 89–97, title I, §107, title III, §313(e)(1), July 30, 1965, 79 Stat. 337, 384; Pub. L. 90–248, title V, §502(c)(1), (2), Jan. 2, 1968, 81 Stat. 934; Pub. L. 91–172, title VIII, §805(f)(2), Dec. 30, 1969, 83 Stat. 708; Pub. L. 92–603, title II, §293(a)–(c), Oct. 30, 1972, 86 Stat. 1459; Pub. L. 93–406, title II, §1022(k), Sept. 2, 1974, 88 Stat. 943; Pub. L. 94–455, title XIX, §1906(a)(5), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1824, 1834; Pub. L. 95–216, title III, §317(b)(3), Dec. 20, 1977, 91 Stat. 1540; Pub. L. 95–600, title I, §105(c), Nov. 6, 1978, 92 Stat. 2776; Pub. L. 96–601, §4(e), Dec. 24, 1980, 94 Stat. 3497; Pub. L. 97–248, title III, §§307(a)(7), 308(a), Sept. 3, 1982, 96 Stat. 589, 591; Pub. L. 97–362, title I, §107(a), Oct. 25, 1982, 96 Stat. 1731; Pub. L. 98–67, title I, §102(a), Aug. 5, 1983, 97 Stat. 369; Pub. L. 99–514, title XI, §1105(b), Oct. 22, 1986, 100 Stat. 2419; Pub. L. 100–647, title I, §§1011B(c)(2)(B), 1018(u)(33), Nov. 10, 1988, 102 Stat. 3489, 3592; Pub. L. 103–465, title VII, §721(b), Dec. 8, 1994, 108 Stat. 5002; Pub. L. 104–191, title III, §301(c)(3), Aug. 21, 1996, 110 Stat. 2049; Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(9)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–629; Pub. L. 107–16, title VI, §617(d)(1), June 7, 2001, 115 Stat. 105; Pub. L. 108–173, title XII, §1201(d)(3), Dec. 8, 2003, 117 Stat. 2477; Pub. L. 108–357, title VIII, §885(b)(1), Oct. 22, 2004, 118 Stat. 1639; Pub. L. 111–148, title IX, §9002(a), Mar. 23, 2010, 124 Stat. 853; Pub. L. 111–226, title II,§219(a)(3), Aug. 10, 2010, 124 Stat. 2403; Pub. L. 114–113, div. Q, title IV, §409(a), Dec. 18, 2015, 129 Stat. 3121; Pub. L. 114–255, div. C, title XVIII, §18001(a)(6)(A), Dec. 13, 2016, 130 Stat. 1342; Pub. L. 115–97, title I, §13603(d), Dec. 22, 2017, 131 Stat. 2164; Pub. L. 116–94, div. N, title I, §503(b)(1), Dec. 20, 2019, 133 Stat. 3119.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 747; Aug. 1, 1956, ch. 837, title IV, §412, 70 Stat. 879; Pub. L. 87–293, title II, §202(a)(4), Sept. 22, 1961, 75 Stat. 626; Pub. L. 89–97, title I, §107, title III, §313(e)(1), July 30, 1965, 79 Stat. 337, 384; Pub. L. 90–248, title V, §502(c)(1), (2), Jan. 2, 1968, 81 Stat. 934; Pub. L. 91–172, title VIII, §805(f)(2), Dec. 30, 1969, 83 Stat. 708; Pub. L. 92–603, title II, §293(a)–(c), Oct. 30, 1972, 86 Stat. 1459; Pub. L. 93–406, title II, §1022(k), Sept. 2, 1974, 88 Stat. 943; Pub. L. 94–455, title XIX, §1906(a)(5), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1824, 1834; Pub. L. 95–216, title III, §317(b)(3), Dec. 20, 1977, 91 Stat. 1540; Pub. L. 95–600, title I, §105(c), Nov. 6, 1978, 92 Stat. 2776; Pub. L. 96–601, §4(e), Dec. 24, 1980, 94 Stat. 3497; Pub. L. 97–248, title III, §§307(a)(7), 308(a), Sept. 3, 1982, 96 Stat. 589, 591; Pub. L. 97–362, title I, §107(a), Oct. 25, 1982, 96 Stat. 1731; Pub. L. 98–67, title I, §102(a), Aug. 5, 1983, 97 Stat. 369; Pub. L. 99–514, title XI, §1105(b), Oct. 22, 1986, 100 Stat. 2419; Pub. L. 100–647, title I, §§1011B(c)(2)(B), 1018(u)(33), Nov. 10, 1988, 102 Stat. 3489, 3592; Pub. L. 103–465, title VII, §721(b), Dec. 8, 1994, 108 Stat. 5002; Pub. L. 104–191, title III, §301(c)(3), Aug. 21, 1996, 110 Stat. 2049; Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(9)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–629; Pub. L. 107–16, title VI, §617(d)(1), June 7, 2001, 115 Stat. 105; Pub. L. 108–173, title XII, §1201(d)(3), Dec. 8, 2003, 117 Stat. 2477; Pub. L. 108–357, title VIII, §885(b)(1), Oct. 22, 2004, 118 Stat. 1639; Pub. L. 111–148, title IX, §9002(a), Mar. 23, 2010, 124 Stat. 853; Pub. L. 111–226, title II, §219(a)(3), Aug. 10, 2010, 124 Stat. 2403; Pub. L. 114–113, div. Q, title IV, §409(a), Dec. 18, 2015, 129 Stat. 3121; Pub. L. 114–255, div. C, title XVIII, §18001(a)(6)(A), Dec. 13, 2016, 130 Stat. 1342; Pub. L. 115–97, title I, §13603(d), Dec. 22, 2017, 131 Stat. 2164; Pub. L. 116–94, div. N, title I, §503(b)(1), Dec. 20, 2019, 133 Stat. 3119.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -218,6 +220,8 @@ Subsec. (c). Pub. L. 89–97, §107, required the statements to show the proport
 
 Subsec. (b). Act Aug. 1, 1956, §412(b), required the furnishing of a statement if during the calendar year any amount was required to be withheld as tax under section 3101 of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2019 Amendment
 
 Pub. L. 116–94, div. N, title I, §503(c), Dec. 20, 2019, 133 Stat. 3120, provided that: "The amendments made by this section \[amending this section and section 9831 of this title and repealing section 4980I of this title\] shall apply to taxable years beginning after December 31, 2019."
@@ -228,7 +232,7 @@ Amendment by Pub. L. 115–97 applicable to stock attributable to options exerci
 
 #### Effective Date of 2016 Amendment
 
-Amendment by Pub. L. 114–255 applicable to calendar years beginning after Dec. 31, 2016, see section18001(a)(7)(E) of Pub. L. 114–255, set out in a note under section 36B of this title.
+Amendment by Pub. L. 114–255 applicable to calendar years beginning after Dec. 31, 2016, see section 18001(a)(7)(E) of Pub. L. 114–255, set out in a note under section 36B of this title.
 
 #### Effective Date of 2015 Amendment
 

@@ -18,9 +18,11 @@ Personnel detailed under subsections (b) and (c) shall be paid from applicable a
 
 #### (e) Commissioned Corps officers; urgent or emergency public health care needs
 
-Except with respect to the United States Coast Guard and the Department of Defense, and except as provided in agreements negotiated with officials at agencies where officers of the Commissioned Corps may be assigned, the Secretary shall have the sole authority to deploy any Commissioned Corps officer assigned under this section to an entity outside of the Department of Health and Human Services for service under the Secretary's direction in response to an urgent or emergency public health care need (as defined in section 204a(a)(5) of this title).
+Except with respect to the United States Coast Guard and the Department of Defense, andexcept as provided in agreements negotiated with officials at agencies where officers of the Commissioned Corps may be assigned, the Secretary shall have the sole authority to deploy any Commissioned Corps officer assigned under this section to an entity outside of the Department of Health and Human Services for service under the Secretary's direction in response to an urgent or emergency public health care need (as defined in section 204a(a)(5) of this title).
 
 (July 1, 1944, ch. 373, title II, §214, 58 Stat. 690; July 3, 1946, ch. 538, §6, 60 Stat. 423; Oct. 12, 1949, ch. 681, title V, §521(e), 63 Stat. 835; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 96–76, title III, §309, Sept. 29, 1979, 93 Stat. 585; Pub. L. 109–417, title II, §206(c)(1), Dec. 19, 2006, 120 Stat. 2853.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -38,6 +40,12 @@ Subsec. (d). Pub. L. 96–76, §309(b), inserted provisions relating to agreemen
 
 <b>1946</b>—Subsec. (b). Act July 3, 1946, provided for detail of personnel on request from a State mental health authority.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsecs. (a), (d), and (e), and "Department of Health and Human Services" substituted for "Department of Health, Education, and Welfare" in subsec. (e), pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+
 #### Effective Date of 1949 Amendment
 
 Amendment by act Oct. 12, 1949, effective Oct. 1, 1949, see section 533(a) of act Oct. 12, 1949, set out as a note under section 854a of Title 33, Navigation and Navigable Waters.
@@ -45,10 +53,6 @@ Amendment by act Oct. 12, 1949, effective Oct. 1, 1949, see section 533(a) of ac
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education. Office of Surgeon General, abolished by section 3 of Reorg. Plan No. 3 of 1966, reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
-
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20.
 
 #### Transfers of Personnel Occasioned by Creation of the Environmental Protection Agency
 
@@ -74,17 +78,25 @@ Pub. L. 91–604, §15(b)(1)–(8)(A), Dec. 31, 1970, 84 Stat. 1710–1712, as a
 
 "(B) The annual leave to the credit of a transferring officer on the day before the day of his transfer, shall, on such day of transfer, be transferred to his credit in the Agency on an adjusted basis under regulations prescribed by the Civil Service Commission. The portion of such leave, if any, that is in excess of the sum of (i) 240 hours, and (ii) the number of hours that have accrued to the credit of the transferring officer during the calendar year then current and which remain unused, shall thereafter remain to his credit until used, and shall be reduced in the manner described by subsection (c) of section 6304 of title 5, United States Code.
 
-"(5) A transferring officer who is required to change his official station as a result of his transfer under this subsection shall be paid such travel, transportation, and related expenses and allowances, as would be provided pursuant to subchapter II of chapter 57 of title 5, United States Code, in the case of a civilian employee so transferred in the interest of the Government. Such officer shall not (either at the time of such transfer or upon a subsequent separation from the competitive service) be deemed to have separated from, or changed permanent station within, a uniformed service for purposes of section 474 of title 37, United States Code.
+"(5) A transferring officer who is required to change his official station as a result of his transfer under this subsection shall be paid such travel, transportation, and related expenses and allowances, as would be provided pursuant to subchapter II of chapter 57 of title 5, United States Code, in the case of a civilian employee so transferred in the interest of the Government. Such officer shall not (either at the time of such transfer or upon a subsequent separation from the competitive service) be deemed to have separated from, or changed permanent station within, a uniformed service for purposes of \[former\] section 474 of title 37, United States Code.
 
 "(6) Each transferring officer who prior to January 1, 1958, was insured pursuant to the Federal Employees' Group Life Insurance Act of 1954, and who subsequently waived such insurance, shall be entitled to become insured under chapter 87 of title 5, United States Code, upon his transfer to the Agency regardless of age and insurability.
 
-"(7)(A) Effective as of the date a transferring officer acquires competitive status as an employee of the Agency, there shall be considered as the civilian service of such officer for all purposes of chapter 83, title 5, United States Code, (i) his active service as defined by section 211(d) of the Public Health Service Act \[42 U.S.C. 212(d)\], or (ii) any period for which he would have been entitled, upon his retirement as a commissioned officer of the Public Health Service, to receive retired pay pursuant to section 211(a)(4)(B) of such Act \[42 U.S.C. 212(a)(4)(B)\]; however, no transferring officer may become entitled to benefits under both subchapter III of such chapter and title II of the Social Security Act \[42 U.S.C. 401 et seq.\] based on service as such acommissioned officer performed after 1956, but the individual (or his survivors) may irrevocably elect to waive benefit credit for the service under one such law to secure credit under the other.
+"(7)(A) Effective as of the date a transferring officer acquires competitive status as an employee of the Agency, there shall be considered as the civilian service of such officer for all purposes of chapter 83, title 5, United States Code, (i) his active service as defined by section 211(d) of the Public Health Service Act \[42 U.S.C. 212(d)\], or (ii) any period for which he would have been entitled, upon his retirement as a commissioned officer of the Public Health Service, to receive retired pay pursuant to section 211(a)(4)(B) of such Act \[42 U.S.C. 212(a)(4)(B)\]; however, no transferring officer may become entitled to benefits under both subchapter III of such chapter and title II of the Social Security Act \[42 U.S.C. 401 et seq.\] based on service as such a commissioned officer performed after 1956, but the individual (or his survivors) may irrevocably elect to waive benefit credit for the service under one such law to secure credit under the other.
 
 "(B) A transferring officer on whose behalf a deposit is required to be made by subparagraph (C) and who, after transfer to a competitive position in the Agency under paragraphs (1) and (2), is separated from Federal service or transfers to a position not covered by subchapter III of chapter 83 of title 5, United States Code, shall not be entitled, nor shall his survivors be entitled, to a refund of any amount deposited on his behalf in accordance with this section. In the event he transfers, after transfer under paragraphs (1) and (2), to a position covered by another Government staff requirement system under which credit is allowable for service with respect to which a deposit is required under subparagraph (C), no credit shall be allowed under such subchapter III with respect to such service.
 
 "(C) The Secretary shall deposit in the Treasury of the United States to the credit of the Civil Service Retirement and Disability Fund, on behalf of and to the credit of such transferring officer, an amount equal to that which such individual would be required to deposit in such fund to cover the years of service credited to him for purposes of his retirement under subparagraph (A), had such service been service as an employee as defined in section 8331(1) of title 5, United States Code. The amount so required to be deposited with respect to any transferring officer shall be computed on the basis of the sum of each of the amounts described in paragraph (3)(A) which were received by, or accrued to the benefit of, such officer during the years so credited. The deposits which the Secretary is required to make under this subparagraph with respect to any transferring officer shall be made within two years after the date of his transfer as provided in paragraphs (1) and (2), and the amounts due under this subparagraph shall include interest computed from the period of service credited to the date of payment in accordance with section 8334(e) of title 5, United States Code.
 
 "(8)(A) A commissioned officer of the Public Health Service, who, upon the day before the effective date of the plan, is on active service therewith primarily assigned to the performance of functions described in paragraph (1)(A), shall, while he remains in active service, as defined by section 211(d) of the Public Health Service Act \[42 U.S.C. 212(d)\], be assigned to the performance of duties with the Agency, except as the Secretary and the Administrator may jointly otherwise provide."
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title. Office of Surgeon General, abolished by section 3 of Reorg. Plan No. 3 of 1966, reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
+
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

@@ -6,7 +6,7 @@ Commitment to Custody of Bureau of Prisons.—A person who has been sentenced to
 
 (b)
 
-Place of Imprisonment.—The Bureau of Prisons shall designate the place of the prisoner's imprisonment, and shall, subject to bed availability, the prisoner's security designation, the prisoner's programmatic needs, the prisoner's mental and medical health needs, any request made by the prisoner related to faith-based needs, recommendations of the sentencing court, and other security concerns of the Bureau of Prisons, place the prisoner in a facility as close as practicable to the prisoner's primary residence, and to the extent practicable, in a facility within 500 driving miles of that residence. The Bureau shall, subject to consideration of the factors described in the preceding sentence and the prisoner's preference for staying at his or her current facility or being transferred, transfer prisoners to facilities that are closer to the prisoner's primary residence even if the prisoner is already in a facility within 500 driving miles of that residence. The Bureau may designate any available penal or correctional facility that meets minimum standards of health and habitability established by the Bureau, whether maintained by the Federal Government or otherwise and whether within or without the judicial district in which the person was convicted, that the Bureau determines to be appropriate and suitable, considering—
+Place of Imprisonment.—The Bureau of Prisons shall designate the place of the prisoner's imprisonment, and shall, subject to bed availability, the prisoner's security designation, the prisoner's programmatic needs, the prisoner's mental and medical health needs, any request made by the prisoner related to faith-based needs, recommendations of the sentencing court, and other security concerns of the Bureau of Prisons, place the prisoner in a facility as close as practicable to the prisoner's primary residence, and to the extent practicable, in a facility within 500 driving miles of that residence. The Bureau shall, subject to consideration of the factors described in the preceding sentence and the prisoner's preference for staying at his or her current facility or being transferred, transfer prisoners to facilities that are closer to the prisoner's primary residence even if the prisoner is already in a facility within 500 driving miles of that residence. The Bureau may designate any available penal or correctional facility that meets minimum standards of health and habitability established by the Bureau,whether maintained by the Federal Government or otherwise and whether within or without the judicial district in which the person was convicted, that the Bureau determines to be appropriate and suitable, considering—
 
 &emsp;(1) the resources of the facility contemplated;
 
@@ -52,7 +52,7 @@ Incentive for prisoners' successful completion of treatment program.—
 
 &emsp;&emsp;(A)
 
-Generally.—Any prisoner who, in the judgment of the Director of the Bureau of Prisons, has successfully completed a program of residential substance abuse treatment provided under paragraph (1) of this subsection, shall remain in the custody of the Bureau under such conditions as the Bureau deems appropriate. If the conditions of confinement are different from those the prisoner would have experienced absent the successful completion of the treatment, the Bureau shall periodically test the prisonerfor substance abuse and discontinue such conditions on determining that substance abuse has recurred.
+Generally.—Any prisoner who, in the judgment of the Director of the Bureau of Prisons, has successfully completed a program of residential substance abuse treatment provided under paragraph (1) of this subsection, shall remain in the custody of the Bureau under such conditions as the Bureau deems appropriate. If the conditions of confinement are different from those the prisoner would have experienced absent the successful completion of the treatment, the Bureau shall periodically test the prisoner for substance abuse and discontinue such conditions on determining that substance abuse has recurred.
 
 &emsp;&emsp;(B)
 
@@ -346,7 +346,7 @@ In general.—During the covered emergency period, if the Attorney General finds
 
 &emsp;"(2)
 
-Exemption from notice-and-comment rulemaking requirements.—Section 553 of title 5, United States Code, shall not apply to the promulgation of rules under paragraph (1) of this subsection.
+Exemption from notice-and-comment rulemaking requirements.—Section 553 of title 5, UnitedStates Code, shall not apply to the promulgation of rules under paragraph (1) of this subsection.
 
 "(d)
 

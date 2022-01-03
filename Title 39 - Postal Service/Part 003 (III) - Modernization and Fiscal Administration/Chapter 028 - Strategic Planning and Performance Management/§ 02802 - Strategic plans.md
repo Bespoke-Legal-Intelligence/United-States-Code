@@ -48,7 +48,7 @@ Specific requirements.—Plans under this paragraph—
 
 &emsp;"(C)
 
-First submission.—The first plan under this paragraph shall be prepared in time to be included with the annual budget under section 2009 of title 39, United States Code, next due to be submitted after the end of the 6-month period beginning on the date of the appointment of the first Inspector General to be appointed pursuant to the amendments made bythis section \[amending sections 102, 202, 204, 410, and 1003 of this title, section 5315 of Title 5, Government Organization and Employees, and section 8G of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, and renumbering another section 8G of the Inspector General Act of 1978 as 8H\].
+First submission.—The first plan under this paragraph shall be prepared in time to be included with the annual budget under section 2009 of title 39, United States Code, next due to be submitted after the end of the 6-month period beginning on the date of the appointment of the first Inspector General to be appointed pursuant to the amendments made by this section \[amending sections 102, 202, 204, 410, and 1003 of this title, section 5315 of Title 5, Government Organization and Employees, and section 8G of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, and renumbering another section 8G of the Inspector General Act of 1978 as 8H\].
 
 "(2)
 

@@ -18,7 +18,7 @@ Except as provided in subsection (b) of this section, section 1501 of this title
 
 &emsp;(7) the refusal to reliquidate an entry under subsection (d) of section 1520 of this title;
 
-> shall be final and conclusive upon all persons (including the United States and any officer thereof) unless a protest is filed in accordancewith this section, or unless a civil action contesting the denial of a protest, in whole or in part, is commenced in the United States Court of International Trade in accordance with chapter 169 of title 28 within the time prescribed by section 2636 of that title. When a judgment or order of the United States Court of International Trade has become final, the papers transmitted shall be returned, together with a copy of the judgment or order to the Customs Service, which shall take action accordingly.
+> shall be final and conclusive upon all persons (including the United States and any officer thereof) unless a protest is filed in accordance with this section, or unless a civil action contesting the denial of a protest, in whole or in part, is commenced in the United States Court of International Trade in accordance with chapter 169 of title 28 within the time prescribed by section 2636 of that title. When a judgment or order of the United States Court of International Trade has become final, the papers transmitted shall be returned, together with a copy of the judgment or order to the Customs Service, which shall take action accordingly.
 
 #### (b) Finality of determinations
 
@@ -70,7 +70,7 @@ Except as provided in subsection (f), an exporter or producer referred to in sub
 
 #### (f) Denial of preferential tariff treatment under the USMCA
 
-If U.S. Customs and Border Protection or U.S. Immigration and Customs Enforcement of the Department of Homeland Security finds indications of a pattern of conduct by an importer, exporter, or producer of false or unsupported representations that goods qualify under the rules of origin provided for in section 4531 of this title, U.S. Customs and Border Protection, in accordance with regulations prescribed by the Secretary of the Treasury, may suspend preferential tariff treatment under the USMCA (as defined in section 4502 of this title) to entries of identical goods covered by subsequent representations by that importer, exporter, or produceruntil U.S. Customs and Border Protection determines that representations of that person are in conformity with such section 4531 of this title.
+If U.S. Customs and Border Protection or U.S. Immigration and Customs Enforcement of the Department of Homeland Security finds indications of a pattern of conduct by an importer, exporter, or producer of false or unsupported representations that goods qualify under the rules of origin provided for in section 4531 of this title, U.S. Customs and Border Protection, in accordance with regulations prescribed by the Secretary of the Treasury, may suspend preferential tariff treatment under the USMCA (as defined in section 4502 of this title) to entries of identical goods covered by subsequent representations by that importer, exporter, or producer until U.S. Customs and Border Protection determines that representations of that person are in conformity with such section 4531 of this title.
 
 #### (g) Denial of preferential tariff treatment under United States-Chile Free Trade Agreement
 
@@ -96,7 +96,7 @@ If U.S. Customs and Border Protection or U.S. Immigration and Customs Enforcemen
 
 If U.S. Customs and Border Protection or U.S. Immigration and Customs Enforcement of the Department of Homeland Security finds indications of a pattern of conduct by an importer, exporter, or producer of false or unsupported representations that goods qualify under the rules of origin provided for in section 203 of the United States–Panama Trade Promotion Agreement Implementation Act, U.S. Customs and Border Protection, in accordance with regulations issued by the Secretary of the Treasury, may suspend preferential tariff treatment under the United States–Panama Trade Promotion Agreement to entries of identical goods covered by subsequent representations by that importer, exporter, or producer until U.S. Customs and Border Protection determines that representations of that person are in conformity with such section 203.
 
-(June 17, 1930, ch. 497, title IV, §514, 46 Stat. 734; Pub. L. 91–271, title II, §207, June 2, 1970, 84 Stat. 284; Pub. L. 96–39, title X, §1001(b)(3), July 26, 1979, 93 Stat. 305; Pub. L. 96–417, title VI, §§601(5), 605, Oct. 10, 1980, 94 Stat. 1744; Pub. L. 98–573, title VI, §612(b)(1), Oct. 30, 1984, 98 Stat. 3034; Pub. L. 99–514, title XVIII, §1888(4), Oct. 22, 1986, 100 Stat. 2924; Pub. L. 100–449, title IV, §403(b),Sept. 28, 1988, 102 Stat. 1884; Pub. L. 103–182, title II, §208, title IV, §412(a), title VI, §645, Dec. 8, 1993, 107 Stat. 2097, 2146, 2206; Pub. L. 104–295, §21(e)(7), Oct. 11, 1996, 110 Stat. 3531; Pub. L. 106–36, title II, §2408(b), June 25, 1999, 113 Stat. 171; Pub. L. 108–77, title II, §205(b), Sept. 3, 2003, 117 Stat. 931; Pub. L. 108–429, title II, §2103, Dec. 3, 2004, 118 Stat. 2597; Pub. L. 109–53, title II, §206(b), Aug. 2, 2005, 119 Stat. 484; Pub. L. 109–280, title XIV, §1635(f)(7), Aug. 17, 2006, 120 Stat. 1171; Pub. L. 110–138, title II, §205(b), Dec. 14, 2007, 121 Stat. 1476; Pub. L. 111–3, title VII, §702(c)(1), Feb. 4, 2009, 123 Stat. 110; Pub. L. 112–41, title II, §204(b), Oct. 21, 2011, 125 Stat. 448; Pub. L. 112–42, title II, §205(b), Oct. 21, 2011, 125 Stat. 484; Pub. L. 112–43, title II, §205(b), Oct. 21, 2011, 125 Stat. 519; Pub. L. 116–113, title II, §204(b), Jan. 29, 2020, 134 Stat. 45.)
+(June 17, 1930, ch. 497, title IV, §514, 46 Stat. 734; Pub. L. 91–271, title II, §207, June 2, 1970, 84 Stat.284; Pub. L. 96–39, title X, §1001(b)(3), July 26, 1979, 93 Stat. 305; Pub. L. 96–417, title VI, §§601(5), 605, Oct. 10, 1980, 94 Stat. 1744; Pub. L. 98–573, title VI, §612(b)(1), Oct. 30, 1984, 98 Stat. 3034; Pub. L. 99–514, title XVIII, §1888(4), Oct. 22, 1986, 100 Stat. 2924; Pub. L. 100–449, title IV, §403(b), Sept. 28, 1988, 102 Stat. 1884; Pub. L. 103–182, title II, §208, title IV, §412(a), title VI, §645, Dec. 8, 1993, 107 Stat. 2097, 2146, 2206; Pub. L. 104–295, §21(e)(7), Oct. 11, 1996, 110 Stat. 3531; Pub. L. 106–36, title II, §2408(b), June 25, 1999, 113 Stat. 171; Pub. L. 108–77, title II, §205(b), Sept. 3, 2003, 117 Stat. 931; Pub. L. 108–429, title II, §2103, Dec. 3, 2004, 118 Stat. 2597; Pub. L. 109–53, title II, §206(b), Aug. 2, 2005, 119 Stat. 484; Pub. L. 109–280, title XIV, §1635(f)(7), Aug. 17, 2006, 120 Stat. 1171; Pub. L. 110–138, title II, §205(b), Dec. 14, 2007, 121 Stat. 1476; Pub. L. 111–3, title VII, §702(c)(1), Feb. 4, 2009, 123 Stat. 110; Pub. L. 112–41, title II, §204(b), Oct. 21, 2011, 125 Stat. 448; Pub. L. 112–42, title II, §205(b), Oct. 21, 2011, 125 Stat. 484; Pub. L. 112–43, title II, §205(b), Oct. 21, 2011, 125 Stat. 519; Pub. L. 116–113, title II, §204(b), Jan. 29, 2020, 134 Stat. 45.)
 
 #### Amendment of Section
 
@@ -113,6 +113,8 @@ If U.S. Customs and Border Protection or U.S. Immigration and Customs Enforcemen
 <i>For termination of amendment by section 107(c) of Pub. L. 108–77, see Effective and Termination Dates of 2003 Amendment note below.</i>
 
 <i>For termination of amendment by section 501(c) of Pub. L. 100–449, see Effective and Termination Dates of 1988 Amendment note below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -172,7 +174,7 @@ Subsec. (a)(5). Pub. L. 108–429, §2103(1)(B), inserted ", including the liqu
 
 Subsec. (a)(7). Pub. L. 108–429, §2103(1)(C), struck out "(c) or" after "subsection".
 
-Subsec. (c)(1). Pub. L. 108–429, §2103(2)(A), which directed substitution of "Unless a request for accelerateddisposition is filed under section 1515(b) of this title, a protest may be amended," for "A protest may be amended," in the sixth sentence, was executed by making the substitution in the fifth sentence, to reflect the probable intent of Congress.
+Subsec. (c)(1). Pub. L. 108–429, §2103(2)(A), which directed substitution of "Unless a request for accelerated disposition is filed under section 1515(b) of this title, a protest may be amended," for "A protest may be amended," in the sixth sentence, was executed by making the substitution in the fifth sentence, to reflect the probable intent of Congress.
 
 Subsec. (c)(3). Pub. L. 108–429, §2103(2)(B)(i), (iii), substituted "180 days" for "ninety days" in introductory provisions and "180 days" for "90 days" in concluding provisions.
 
@@ -228,6 +230,8 @@ Subsec. (d). Pub. L. 96–39, §1001(b)(3)(C), redesignated former subsec. (c) a
 
 <b>1970</b>—Pub. L. 91–271 designated existing provisions as subsec. (a), expanded references to sections excepted from application of this section, substituted decisions of the appropriate customs officer for all decisions of the collector as deemed to be final and conclusive, reorganized the categories of decisions and findings subject to such finality and conclusiveness, and revised the procedures for filing of protests, and added subsecs. (b) and (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2020 Amendment
 
 Pub. L. 116–113, title II, §204(c), Jan. 29, 2020, 134 Stat. 45, provided that:
@@ -244,7 +248,7 @@ In general.—The amendments made by subsections (a) and (b) \[amending this sec
 
 Transition from nafta treatment.—In the case of a good entered, or exported from the United States, as the case may be, before the date on which the USMCA enters into force—
 
-&emsp;"(A) the amendments made by subsection (a) to section 592 of the Tariff Act of 1930 (19 U.S.C. 1592) and the amendments made by subsection (b) to section 514of such Act (19 U.S.C. 1514) shall not apply with respect to the good; and
+&emsp;"(A) the amendments made by subsection (a) to section 592 of the Tariff Act of 1930 (19 U.S.C. 1592) and the amendments made by subsection (b) to section 514 of such Act (19 U.S.C. 1514) shall not apply with respect to the good; and
 
 &emsp;"(B) sections 592 and 514 of such Act, as in effect on the day before that date, shall continue to apply on and after that date with respect to the good.
 
@@ -326,8 +330,6 @@ Amendment by section 208 of Pub. L. 103–182 to be made after amendment by sect
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
-Functions of Secretary of the Treasury under this section insofar as they relate to any protest, petition, or notice of desire to contest described in section 1002(b)(1) of the Trade Agreements Act of 1979, set out as a note under section 1516a of this title, transferred to Secretary of Commerce pursuant to Reorg. Plan No. 3 of 1979, §5(a)(1)(D), 44 F.R. 69275, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title.
-
 #### Inconsistent Decisions of Customs Officers
 
 Pub. L. 100–690, title VII, §7361(c), Nov. 18, 1988, 102 Stat. 4474, provided that:
@@ -351,6 +353,12 @@ Pub. L. 100–690, title VII, §7361(c), Nov. 18, 1988, 102 Stat. 4474, provided
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, set out as a note under section 401 of Title 26, Internal Revenue Code.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Functions of Secretary of the Treasury under this section insofar as they relate to any protest, petition, or notice of desire to contest described in section 1002(b)(1) of the Trade Agreements Act of 1979, set out as a note under section 1516a of this title, transferred to Secretary of Commerce pursuant to Reorg. Plan No. 3 of 1979, §5(a)(1)(D), 44 F.R. 69275, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -4,9 +4,13 @@ Unless another date is specifically fixed by law, the lien imposed by section 63
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 779; Pub. L. 89–719, title I, §113(a), Nov. 2, 1966, 80 Stat. 1146.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1966</b>—Pub. L. 89–719 inserted "(or a judgment against the taxpayer arising out of such liability)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1966 Amendment
 

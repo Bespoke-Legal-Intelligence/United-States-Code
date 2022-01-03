@@ -44,7 +44,7 @@ Any individual described in subsection (a)(1)(B) of this section who would have 
 
 #### (c) Applicability of sections 903(c) and 904(a)(2) of title 20; sabbaticals
 
-(1) Section 903(c) of title 20 shall not apply with respect to any teacher who was employed by the Canal Zone Government school system on September 30, 1979, and who was transferred from such position to a teaching position which is under the Department of Defense Overseas Dependent School System and the permanent duty station of which is in the Republic of Panama, until the rates of basic compensation established under section 903(c) of title 20 equal or exceed the rates of basic compensation then in effect for teachers who were so transferred.
+(1) Section 903(c) of title 20 shall not apply with respect to any teacher who was employedby the Canal Zone Government school system on September 30, 1979, and who was transferred from such position to a teaching position which is under the Department of Defense Overseas Dependent School System and the permanent duty station of which is in the Republic of Panama, until the rates of basic compensation established under section 903(c) of title 20 equal or exceed the rates of basic compensation then in effect for teachers who were so transferred.
 
 (2) Section 904(a)(2) of title 20 shall not apply with respect to any teacher who was employed by the Canal Zone Government school system on September 30, 1979, and who was transferred from such position to a teaching position which is under the Department of Defense Overseas Dependent School System and the permanent duty station of which is in the Republic of Panama.
 
@@ -60,7 +60,7 @@ Any individual described in subsection (a)(1)(B) of this section who would have 
 
 (C)(i) Any teacher in a department or agency of the United States may be granted a sabbatical under this paragraph only if the teacher agrees, as a condition of accepting the sabbatical, to serve in the civil service upon the completion of the sabbatical for a period of two consecutive years.
 
-(ii) Each agreement required under clause (i) of this subparagraph shall provide that in the event the teacher fails to carry out the agreement (except for good and sufficient reason as determined by the head of the department or agency that granted the sabbatical) the teachershall be liable to the United States for payment of all expenses (including salary) of the sabbatical. The amount shall be treated as a debt due the United States.
+(ii) Each agreement required under clause (i) of this subparagraph shall provide that in the event the teacher fails to carry out the agreement (except for good and sufficient reason as determined by the head of the department or agency that granted the sabbatical) the teacher shall be liable to the United States for payment of all expenses (including salary) of the sabbatical. The amount shall be treated as a debt due the United States.
 
 (Pub. L. 96–70, title I, §1231(a)–(c), Sept. 27, 1979, 93 Stat. 468, 469; Pub. L. 104–201, div. C, title XXXV, §3537, Sept. 23, 1996, 110 Stat. 2864; Pub. L. 105–85, div. C, title XXXV, §3550(d)(2)(C), Nov. 18, 1997, 111 Stat. 2074; Pub. L. 105–261, div. C, title XXXV, §3507(a), Oct. 17, 1998, 112 Stat. 2269.)
 

@@ -54,6 +54,8 @@ For purposes of this section—
 
 (Added Pub. L. 96–605, title I, §101(a), Dec. 28, 1980, 94 Stat. 3521; amended Pub. L. 98–369, div. A, title IV, §424(b)(1)–(2)(B), July 18, 1984, 98 Stat. 802, 803; Pub. L. 101–239, title VII, §7841(d)(8), Dec. 19, 1989, 103 Stat. 2428; Pub. L. 105–206, title III, §3201(b), July 22, 1998, 112 Stat. 739.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Subsec. (c). Pub. L. 105–206 inserted at end "Under procedures prescribed by the Secretary, if, taking into account all the facts and circumstances, it is inequitable to hold the individual liable for any unpaid tax or any deficiency (or any portion of either) attributable to any item for which relief is not available under the preceding sentence, the Secretary may relieve such individual of such liability."
@@ -66,6 +68,8 @@ Subsec. (a). Pub. L. 98–369, §424(b)(2)(B), substituted "Treatment of communi
 
 Subsecs. (b) to (d). Pub. L. 98–369, §424(b)(1), added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–206 applicable to any liability for tax arising after July 22, 1998, and any liability for tax arising on or before such date but remaining unpaid as of such date, see section 3201(g)(1) of Pub. L. 105–206, set out as a note under section 6015 of this title.
@@ -76,5 +80,5 @@ Amendment by Pub. L. 98–369 applicable to all taxable years to which the Inter
 
 #### Effective Date
 
-Pub. L. 96–605, title I, §101(c), Dec. 28, 1980, 94 Stat. 3522, provided that: "The amendments made by thissection \[enacting this section\] shall apply to calendar years beginning after December 31, 1980."
+Pub. L. 96–605, title I, §101(c), Dec. 28, 1980, 94 Stat. 3522, provided that: "The amendments made by this section \[enacting this section\] shall apply to calendar years beginning after December 31, 1980."
 

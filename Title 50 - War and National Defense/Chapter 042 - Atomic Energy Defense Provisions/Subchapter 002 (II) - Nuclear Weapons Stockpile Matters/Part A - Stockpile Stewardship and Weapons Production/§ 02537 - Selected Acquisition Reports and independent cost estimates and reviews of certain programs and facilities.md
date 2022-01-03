@@ -4,7 +4,7 @@
 
 (1) At the end of the first quarter of each fiscal year, the Secretary of Energy, acting through the Administrator, shall submit to the congressional defense committees a report on each nuclear weapon system undergoing life extension and each major alteration project (as defined in section 2753(a)(2) of this title) during the preceding fiscal year. The reports shall be known as Selected Acquisition Reports for the weapon system concerned.
 
-(2) The information contained in the Selected Acquisition Report for a fiscal year for a nuclear weapon system shall be the information contained in the Selected Acquisition Report for each fiscal-year quarter in that fiscal year for amajor defense acquisition program under section 2432 of title 10, expressed in terms of the nuclear weapon system.
+(2) The information contained in the Selected Acquisition Report for a fiscal year for a nuclear weapon system shall be the information contained in the Selected Acquisition Report for each fiscal-year quarter in that fiscal year for a major defense acquisition program under section 4351 of title 10 expressed in terms of the nuclear weapon system.
 
 #### (b) Independent cost estimates and reviews
 
@@ -46,11 +46,15 @@
 
 Upon the request of the Administrator, the Secretary of Defense, acting through the Director of Cost Assessment and Program Evaluation and in consultation with the Administrator, may conduct an independent cost assessment of any initiative or program of the Administration that is estimated to cost more than $500,000,000.
 
-(Pub. L. 107–314, div. D, title XLII, §4217, as added Pub. L. 112–239, div. C, title XXXI, §3162(a), Jan. 2, 2013, 126 Stat. 2204; amended Pub. L. 113–66, div. C, title XXXI, §§3112(b), 3146(a)(2)(C), Dec. 26, 2013, 127 Stat. 1053, 1072; Pub. L. 113–291, div. C, title XXXI, §3114(a), (b), Dec. 19, 2014, 128 Stat. 3887, 3888; Pub. L. 114–92, div. C, title XXXI, §3113(b)(1), (2)(A), Nov. 25, 2015, 129 Stat. 1192; Pub. L. 115–91, div. C, title XXXI, §§3113, 3133(d), Dec. 12, 2017, 131 Stat. 1884, 1896; Pub. L. 116–283, div. C, title XXXI, §3111(b), Jan. 1, 2021, 134 Stat. 4377.)
+(Pub. L. 107–314, div. D, title XLII, §4217, as added Pub. L. 112–239, div. C, title XXXI, §3162(a), Jan. 2, 2013, 126 Stat. 2204; amended Pub. L. 113–66, div. C, title XXXI, §§3112(b), 3146(a)(2)(C), Dec. 26, 2013, 127 Stat. 1053, 1072; Pub. L. 113–291, div. C, title XXXI, §3114(a), (b), Dec. 19, 2014, 128 Stat. 3887, 3888; Pub. L. 114–92, div. C, title XXXI, §3113(b)(1), (2)(A), Nov. 25, 2015, 129 Stat. 1192; Pub. L. 115–91, div. C, title XXXI, §§3113, 3133(d), Dec. 12, 2017, 131 Stat. 1884, 1896; Pub. L. 116–283, div. C, title XXXI, §3111(b), Jan. 1, 2021, 134 Stat. 4377; Pub. L. 117–81, div. A, title XVII, §1702(k)(3)(A), Dec. 27, 2021, 135 Stat. 2160.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
-<b>2021</b>—Subsec. (b)(1)(A)(i). Pub. L. 116–283, §3111(b)(1)(A)(i), substituted "phase 6.2A or new weapon system at the completion of phase 2A" for "phase 6.2A".
+<b>2021</b>—Subsec. (a)(2). Pub. L. 117–81 substituted "section 4351" for "section 2432".
+
+Subsec. (b)(1)(A)(i). Pub. L. 116–283, §3111(b)(1)(A)(i), substituted "phase 6.2A or new weapon system at the completion of phase 2A" for "phase 6.2A".
 
 Subsec. (b)(1)(A)(ii). Pub. L. 116–283, §3111(b)(1)(A)(ii), substituted "phase 6.3 or new weapon system at the completion of phase 3" for "phase 6.3".
 
@@ -60,7 +64,7 @@ Subsec. (b)(1)(B). Pub. L. 116–283, §3111(b)(1)(B), substituted "phase 6.2 or
 
 Subsec. (b)(4)(B). Pub. L. 116–283, §3111(b)(2), substituted "subparagraph (A)(v)" for "subparagraph (A)(iv)".
 
-<b>2017</b>—Subsec. (a)(1). Pub. L. 115–91, §3133(d)(1), substituted "the first quarter of each fiscal year" for "each fiscal-year quarter" and "and each major" for "or a major" and inserted "during the preceding fiscal year" after "2753(a)(2) of this title)".
+<b>2017</b>—Subsec. (a)(1). Pub. L. 115–91, §3133(d)(1), substituted "the first quarter of each fiscal year" for"each fiscal-year quarter" and "and each major" for "or a major" and inserted "during the preceding fiscal year" after "2753(a)(2) of this title)".
 
 Subsec. (a)(2). Pub. L. 115–91, §3133(d)(2), substituted "a fiscal year" for "a fiscal-year quarter" and "each fiscal-year quarter in that fiscal year" for "such fiscal-year quarter".
 

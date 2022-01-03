@@ -100,7 +100,7 @@ The Secretary, to the extent practicable, shall—
 
 &emsp;&emsp;&emsp;(i) become qualified to teach, and teach, Advanced Placement or International Baccalaureate courses in mathematics, science, or a critical foreign language; or
 
-&emsp;&emsp;&emsp;(ii) increase the number of low-income students, who take Advanced Placement orInternational Baccalaureate examinations in mathematics, science, or a critical foreign language with the goal of successfully passing such examinations.
+&emsp;&emsp;&emsp;(ii) increase the number of low-income students, who take Advanced Placement or International Baccalaureate examinations in mathematics, science, or a critical foreign language with the goal of successfully passing such examinations.
 
 #### (h) Matching requirement
 
@@ -156,6 +156,8 @@ There are authorized to be appropriated to carry out this section $75,000,000 fo
 
 (Pub. L. 110–69, title VI, §6123, Aug. 9, 2007, 121 Stat. 636; Pub. L. 111–358, title X, §1003(b), Jan. 4, 2011, 124 Stat. 4048; Pub. L. 114–95, title IX, §9215(i)(3), Dec. 10, 2015, 129 Stat. 2167.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (c). Pub. L. 114–95, §9215(i)(3)(A), substituted "any activities carried out under section 7114 or 7117 of this title that provide students access to accelerated learning programs that provide—" and pars. (1) and (2) for "the activities carried out under section 6535 of this title."
@@ -165,6 +167,8 @@ Subsec. (j)(2)(B). Pub. L. 114–95, §9215(i)(3)(B), substituted "section 6311(
 <b>2011</b>—Subsec. (h)(1). Pub. L. 111–358, §1003(b)(1), substituted "50" for "100" and "100" for "200".
 
 Subsec. (l). Pub. L. 111–358, §1003(b)(2), added subsec. (l) and struck out former subsec. (l). Prior to amendment, text read as follows: "There are authorized to be appropriated to carry out this section $75,000,000 for fiscal year 2008, and such sums as may be necessary for each of the 2 succeeding fiscal years."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

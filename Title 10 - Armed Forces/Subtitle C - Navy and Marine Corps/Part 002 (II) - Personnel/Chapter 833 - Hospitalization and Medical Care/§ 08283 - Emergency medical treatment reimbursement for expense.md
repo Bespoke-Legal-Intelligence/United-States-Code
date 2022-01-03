@@ -26,6 +26,8 @@ May 4, 1948, ch. 254, §3, 62 Stat. 208.
 
 The word "shall" is substituted for the words "authorized and directed to". The word "members" is substituted for the word "persons". The words "from civilian sources" are omitted as surplusage. The word "hospitalization" is substituted for the words "hospital service". In the second sentence, the word "authorized" is omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior sections 8284 and 8285 were repealed by Pub. L. 96–513, title II, §204, Dec. 12, 1980, 94 Stat. 2880, effective Sept. 15, 1981.
@@ -37,6 +39,8 @@ Section 8285, acts Aug. 10, 1956, ch. 1041, 70A Stat. 507; Aug. 21, 1957, Pub. L
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 6203 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

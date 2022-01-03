@@ -4,6 +4,8 @@ Not more than 5 percent of funds provided to an award recipient under this part 
 
 (Pub. L. 89–10, title VI, §6305, formerly title VII, §7305, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1946; renumbered title VI, §6305, and amended Pub. L. 114–95, title VI, §§6001(a), (b)(1), 6004(d), Dec. 10, 2015, 129 Stat. 2046, 2071.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 7545, Pub. L. 89–10, title VII, §7305, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3741, related to State applications, prior to the general amendment of former subchapter VII of this chapter by Pub. L. 107–110.
@@ -11,6 +13,8 @@ A prior section 7545, Pub. L. 89–10, title VII, §7305, as added Pub. L. 103�
 #### Amendments
 
 <b>2015</b>—Pub. L. 114–95, §6004(d), amended section generally. Prior to amendment, section set out various administrative provisions relating to applications for grants and awards under this part, consisting of subsecs. (a) to (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

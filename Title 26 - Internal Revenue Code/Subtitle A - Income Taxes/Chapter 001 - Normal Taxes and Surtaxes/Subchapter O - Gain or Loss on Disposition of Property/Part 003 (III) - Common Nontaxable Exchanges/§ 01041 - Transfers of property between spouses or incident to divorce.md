@@ -40,11 +40,15 @@ Subsection (a) shall not apply to the transfer of property in trust to the exten
 
 (Added Pub. L. 98–369, div. A, title IV, §421(a), July 18, 1984, 98 Stat. 793; amended Pub. L. 99–514, title XVIII, §1842(b), Oct. 22, 1986, 100 Stat. 2853; Pub. L. 100–647, title I, §1018(l)(3), Nov. 10, 1988, 102 Stat. 3584.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Subsec. (d). Pub. L. 100–647 substituted "Subsection (a)" for "Paragraph (1) of subsection (a)" and "the spouse (or former spouse)" for "the spouse".
 
 <b>1986</b>—Subsec. (e). Pub. L. 99–514 added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 
@@ -60,7 +64,7 @@ Pub. L. 98–369, div. A, title IV, §421(d), July 18, 1984, 98 Stat. 795, provi
 
 "(1)
 
-In general.—Except as otherwise provided in this subsection, the amendments made by this section \[enacting this section and amending sections 47, 72, 101,453, 453B, 1001, 1015, and 1239 of this title\] shall apply to transfers after the date of the enactment of this Act \[July 18, 1984\] in taxable years ending after such date.
+In general.—Except as otherwise provided in this subsection, the amendments made by this section \[enacting this section and amending sections 47, 72, 101, 453, 453B, 1001, 1015, and 1239 of this title\] shall apply to transfers after the date of the enactment of this Act \[July 18, 1984\] in taxable years ending after such date.
 
 "(2)
 

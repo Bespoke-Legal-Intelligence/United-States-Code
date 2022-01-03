@@ -4,7 +4,7 @@
 
 (1)(A) The Secretary is authorized to conduct examinations and investigations for the purposes of this chapter through officers and employees of the Department or through any health, food, or drug officer or employee of any State, Territory, or political subdivision thereof, duly commissioned by the Secretary as an officer of the Department.
 
-(B)(i) For a tobacco product, to the extent feasible, the Secretary shall contract with the States in accordance with this paragraph to carry out inspections of retailers within thatState in connection with the enforcement of this chapter.
+(B)(i) For a tobacco product, to the extent feasible, the Secretary shall contract with the States in accordance with this paragraph to carry out inspections of retailers within that State in connection with the enforcement of this chapter.
 
 (ii) The Secretary shall not enter into any contract under clause (i) with the government of any of the several States to exercise enforcement authority under this chapter on Indian country without the express written consent of the Indian tribe involved.
 
@@ -50,7 +50,7 @@ Any officer or employee of the Department designated by the Secretary to conduct
 
 &emsp;(5) make, prior to the institution of libel proceedings under section 334(a)(2) of this title, seizures of drugs or containers or of equipment, punches, dies, plates, stones, labeling, or other things, if they are, or he has reasonable grounds to believe that they are, subject to seizure and condemnation under such section 334(a)(2). In the event of seizure pursuant to this paragraph (5), libel proceedings under section 334(a)(2) of this title shall be instituted promptly and the property seized be placed under the jurisdiction of the court.
 
-(June 25, 1938, ch. 675, §702, 52 Stat. 1056; Pub. L. 87–781, title III, §§307(b), 308, Oct. 10, 1962, 76 Stat. 796; Pub. L. 89–74, §8(a), July 15, 1965, 79 Stat. 234; Pub. L. 91–513, title II, §701(f), Oct. 27, 1970, 84 Stat. 1282; Pub. L. 102–300, §6(b)(2), June 16, 1992, 106 Stat. 240; Pub. L. 103–80, §3(dd)(2), Aug. 13, 1993, 107 Stat. 779; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(12)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–584; Pub. L. 107–188, title III, §314, June 12, 2002, 116 Stat. 674; Pub. L. 111–31,div. A, title I, §103(g), June 22, 2009, 123 Stat. 1837.)
+(June 25, 1938, ch. 675, §702, 52 Stat. 1056; Pub. L. 87–781, title III, §§307(b), 308, Oct. 10, 1962, 76 Stat. 796; Pub. L. 89–74, §8(a), July 15, 1965, 79 Stat. 234; Pub. L. 91–513, title II, §701(f), Oct. 27, 1970, 84 Stat. 1282; Pub. L. 102–300, §6(b)(2), June 16, 1992, 106 Stat. 240; Pub. L. 103–80, §3(dd)(2), Aug. 13, 1993, 107 Stat. 779; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(12)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–584; Pub. L. 107–188, title III, §314, June 12, 2002, 116 Stat. 674; Pub. L. 111–31, div. A, title I, §103(g), June 22, 2009, 123 Stat. 1837.)
 
 #### <b>Editorial Notes</b>
 
@@ -92,7 +92,9 @@ Amendment by Pub. L. 89–74 effective July 15, 1965, see section 11 of Pub. L. 
 
 Amendment by Pub. L. 91–513 not to affect or abate any prosecutions for any violation of law or any civil seizures or forfeitures and injunctive proceedings commenced prior to the effective date of such amendment, and all administrative proceedings pending before the Bureau of Narcotics and Dangerous Drugs \[now Drug Enforcement Administration\] on Oct. 27, 1970, to be continued and brought to final determination in accord with laws and regulations in effect prior to Oct. 27, 1970, see section 702 of Pub. L. 91–513, set out as a note under section 321 of this title.
 
+#### <b>Executive Documents</b>
+
 #### Transfer of Functions
 
-For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see note set out under section 41 of this title.
+For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare\[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see note set out under section 321 of this title.
 

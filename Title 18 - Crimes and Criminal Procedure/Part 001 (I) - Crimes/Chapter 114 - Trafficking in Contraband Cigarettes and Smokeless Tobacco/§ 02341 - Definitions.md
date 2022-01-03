@@ -42,7 +42,7 @@ As used in this chapter—
 
 &emsp;&emsp;&emsp;(ii) has complied with the accounting, tax, and payment requirements relating to such license or authorization with respect to such smokeless tobacco; or
 
-&emsp;&emsp;(D) an officer, employee, or agent of the United States or a State, or any department,agency, or instrumentality of the United States or a State (including any political subdivision of a State), having possession of such smokeless tobacco in connection with the performance of official duties; <sup>2</sup>
+&emsp;&emsp;(D) an officer, employee, or agent of the United States or a State, or any department, agency, or instrumentality of the United States or a State (including any political subdivision of a State), having possession of such smokeless tobacco in connection with the performance of official duties; <sup>2</sup>
 
 (Added Pub. L. 95–575, §1, Nov. 2, 1978, 92 Stat. 2463; amended Pub. L. 97–449, §5(c), Jan. 12, 1983, 96 Stat. 2442; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 107–296, title XI, §1112(i)(1), Nov. 25, 2002, 116 Stat. 2277; Pub. L. 109–177, title I, §121(a)(1), (b)(1), (6), Mar. 9, 2006, 120 Stat. 221, 222.)
 

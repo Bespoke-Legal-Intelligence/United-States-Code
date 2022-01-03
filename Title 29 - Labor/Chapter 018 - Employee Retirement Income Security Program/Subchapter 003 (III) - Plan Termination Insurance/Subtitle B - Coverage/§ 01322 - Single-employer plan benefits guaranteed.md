@@ -60,7 +60,7 @@ Subject to the limitations contained in subsection (b), the corporation shall gu
 
 > multiplied by the number of years (but not more than 5) the plan or amendment, as the case may be, has been in effect. In determining how many years a plan or amendment has been in effect for purposes of this paragraph, the first 12 months beginning with the date on which the plan or amendment is made or first becomes effective (whichever is later) constitutes one year, and each consecutive period of 12 months thereafter constitutes an additional year. This paragraph does not apply to benefits payable under a plan unless the corporation finds substantial evidence that the plan was terminated for a reasonable business purpose and not for the purpose of obtaining the payment of benefits by the corporation under this subchapter.
 
-(8) If an unpredictable contingent event benefit (as defined in section 1056(g)(1) of this title)is payable by reason of the occurrence of any event, this section shall be applied as if a plan amendment had been adopted on the date such event occurred.
+(8) If an unpredictable contingent event benefit (as defined in section 1056(g)(1) of this title) is payable by reason of the occurrence of any event, this section shall be applied as if a plan amendment had been adopted on the date such event occurred.
 
 #### (c) Payment by corporation to participants and beneficiaries of recovery percentage of outstanding amount of benefit liabilities
 
@@ -126,7 +126,7 @@ If any plan makes an election under section 402(a)(1) of the Pension Protection 
 
 &emsp;&emsp;(B) the amount determined under paragraph (1).
 
-(Pub. L. 93–406, title IV, §4022, Sept. 2, 1974, 88 Stat. 1016; Pub. L. 96–364, title IV, §403(c), Sept. 26, 1980, 94 Stat. 1301; Pub. L. 99–272, title XI, §11016(c)(8), (9), Apr. 7, 1986, 100 Stat. 274; Pub. L. 100–203, title IX, §9312(b)(3)(A), Dec. 22, 1987, 101 Stat. 1330–362; Pub. L. 101–239, title VII, §§7881(f)(4), (5), (11), 7891(a)(1), 7894(g)(1), (3)(B),Dec. 19, 1989, 103 Stat. 2440, 2441, 2445, 2451; Pub. L. 103–465, title VII, §§766(c), 777(a), Dec. 8, 1994, 108 Stat. 5037, 5049; Pub. L. 109–280, title IV, §§402(g)(2)(A), 403(a), 404(a), 407(a), 408(a), (b)(1), Aug. 17, 2006, 120 Stat. 926, 928, 929, 931.)
+(Pub. L. 93–406, title IV, §4022, Sept. 2, 1974, 88 Stat. 1016; Pub. L. 96–364, title IV, §403(c), Sept. 26, 1980, 94 Stat. 1301; Pub. L. 99–272, title XI, §11016(c)(8), (9), Apr. 7, 1986, 100 Stat. 274; Pub. L. 100–203, title IX, §9312(b)(3)(A), Dec. 22, 1987, 101 Stat. 1330–362; Pub. L. 101–239, title VII, §§7881(f)(4), (5), (11), 7891(a)(1), 7894(g)(1), (3)(B), Dec. 19, 1989, 103 Stat. 2440, 2441, 2445, 2451; Pub. L. 103–465, title VII, §§766(c), 777(a), Dec. 8, 1994, 108 Stat. 5037, 5049; Pub. L. 109–280, title IV, §§402(g)(2)(A), 403(a), 404(a), 407(a), 408(a), (b)(1), Aug. 17, 2006, 120 Stat. 926, 928, 929, 931.)
 
 #### <b>Editorial Notes</b>
 
@@ -196,7 +196,7 @@ Pub. L. 109–280, title IV, §408(c), Aug. 17, 2006, 120 Stat. 932, provided th
 
 #### Effective Date of 1994 Amendment
 
-Amendment by section 766(c) of Pub. L. 103–465 applicable to plan amendments adopted on or after Dec. 8,1994, see section 766(d) of Pub. L. 103–465, set out as a note under section 401 of Title 26, Internal Revenue Code.
+Amendment by section 766(c) of Pub. L. 103–465 applicable to plan amendments adopted on or after Dec. 8, 1994, see section 766(d) of Pub. L. 103–465, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 Pub. L. 103–465, title VII, §777(b), Dec. 8, 1994, 108 Stat. 5049, provided that: "The amendment made by this section \[amending this section\] shall be effective for plan terminations under section 4041(c) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1341(c)\] with respect to which notices of intent to terminate are provided under section 4041(a)(2) of such Act \[29 U.S.C. 1342\], or under section 4042 of such Act with respect to which proceedings are instituted by the corporation, on or after the date of enactment of this Act \[Dec. 8, 1994\]."
 

@@ -24,7 +24,7 @@ In any action by the United States under this chapter, process may be served in 
 
 #### (1) Contribution
 
-&emsp;Any person may seek contribution from any other person who is liable or potentially liableunder section 9607(a) of this title, during or following any civil action under section 9606 of this title or under section 9607(a) of this title. Such claims shall be brought in accordance with this section and the Federal Rules of Civil Procedure, and shall be governed by Federal law. In resolving contribution claims, the court may allocate response costs among liable parties using such equitable factors as the court determines are appropriate. Nothing in this subsection shall diminish the right of any person to bring an action for contribution in the absence of a civil action under section 9606 of this title or section 9607 of this title.
+&emsp;Any person may seek contribution from any other person who is liable or potentially liable under section 9607(a) of this title, during or following any civil action under section 9606 of this title or under section 9607(a) of this title. Such claims shall be brought in accordance with this section and the Federal Rules of Civil Procedure, and shall be governed by Federal law. In resolving contribution claims, the court may allocate response costs among liable parties using such equitable factors as the court determines are appropriate. Nothing in this subsection shall diminish the right of anyperson to bring an action for contribution in the absence of a civil action under section 9606 of this title or section 9607 of this title.
 
 #### (2) Settlement
 
@@ -70,11 +70,11 @@ In any action by the United States under this chapter, process may be served in 
 
 #### (4) Subrogation
 
-&emsp;No action based on rights subrogated pursuant to this section by reason of payment of aclaim may be commenced under this subchapter more than 3 years after the date of payment of such claim.
+&emsp;No action based on rights subrogated pursuant to this section by reason of payment of a claim may be commenced under this subchapter more than 3 years after the date of payment of such claim.
 
 #### (5) Actions to recover indemnification payments
 
-&emsp;Notwithstanding any other provision of this subsection, where a payment pursuant to an indemnification agreement with a response action contractor is made under section 9619 of this title, an action under section 9607 of this title for recovery of such indemnification payment from a potentially responsible party may be brought at any time before the expiration of 3 years from the date on which such payment is made.
+&emsp;Notwithstanding any other provision of this subsection, where a payment pursuant to an indemnification agreement with a response action contractor is made under section 9619 of this title, an action under section 9607 of thistitle for recovery of such indemnification payment from a potentially responsible party may be brought at any time before the expiration of 3 years from the date on which such payment is made.
 
 #### (6) Minors and incompetents
 
@@ -134,7 +134,7 @@ In any action commenced under this chapter or under the Solid Waste Disposal Act
 
 #### (B) Remedial action
 
-&emsp;&emsp;The President shall provide for the participation of interested persons, including potentially responsible parties, in the development of the administrative record on which the President will base the selection of remedial actions and on which judicial reviewof remedial actions will be based. The procedures developed under this subparagraph shall include, at a minimum, each of the following:
+&emsp;&emsp;The President shall provide for the participation of interested persons, including potentially responsible parties, in the development of the administrative record on which the President will base the selection of remedial actions and on which judicial review of remedial actions will be based. The procedures developed under this subparagraph shall include, at a minimum, each of the following:
 
 &emsp;&emsp;&emsp;(i) Notice to potentially affected persons and the public, which shall be accompanied by a brief analysis of the plan and alternative plans that were considered.
 
@@ -161,6 +161,8 @@ In any action commenced under this chapter or under the Solid Waste Disposal Act
 Whenever any action is brought under this chapter in a court of the United States by a plaintiff other than the United States, the plaintiff shall provide a copy of the complaint to the Attorney General of the United States and to the Administrator of the Environmental Protection Agency.
 
 (Pub. L. 96–510, title I, §113, Dec. 11, 1980, 94 Stat. 2795; Pub. L. 99–499, title I, §113, Oct. 17, 1986, 100 Stat. 1647; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

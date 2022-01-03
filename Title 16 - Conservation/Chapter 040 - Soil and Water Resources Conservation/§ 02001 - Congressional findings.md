@@ -12,6 +12,8 @@ The Congress finds that:
 
 (Pub. L. 95–192, §2, Nov. 18, 1977, 91 Stat. 1407; Pub. L. 103–354, title II, §246(f)(2)(A), Oct. 13, 1994, 108 Stat. 3225; Pub. L. 110–234, title II, §2804(a), May 22, 2008, 122 Stat. 1086; Pub. L. 110–246, §4(a), title II, §2804(a), June 18, 2008, 122 Stat. 1664, 1814.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -24,9 +26,11 @@ Pars. (3), (4). Pub. L. 110–246, §2804(a)(2), added par. (3), redesignated fo
 
 <b>1994</b>—Par. (2). Pub. L. 103–354 struck out "created the Soil Conservation Service" after "resource base," and substituted ", has ensured that the Department of Agriculture" for "Department of Agriculture which" after "United States".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 #### Short Title
 

@@ -10,7 +10,7 @@ Nothing in this subchapter shall be construed to supersede, amend, alter, or aff
 
 #### (b) States and political subdivisions
 
-This subchapter shall not preclude or deny any right of any State or political subdivision thereof to adopt or enforce any regulation, requirement, or standard of performance with respect to chemical facility security that is more stringent than a regulation, requirement, or standard of performance issued under this section, or otherwise impair any right or jurisdiction ofany State with respect to chemical facilities within that State, unless there is an actual conflict between this section and the law of that State.
+This subchapter shall not preclude or deny any right of any State or political subdivision thereof to adopt or enforce any regulation, requirement, or standard of performance with respect to chemical facility security that is more stringent than a regulation, requirement, or standard of performance issued under this section, or otherwise impair any right or jurisdiction of any State with respect to chemical facilities within that State, unless there is an actual conflict between this section and the law of that State.
 
 (Pub. L. 107–296, title XXI, §2106, as added Pub. L. 113–254, §2(a), Dec. 18, 2014, 128 Stat. 2915.)
 
@@ -22,5 +22,5 @@ This subchapter shall not preclude or deny any right of any State or political s
 
 #### Effective and Termination Dates
 
-Section effective on the date that is 30 days after Dec. 18, 2014, and authority provided under this section to terminate on the date that is 5 years and 3 months after such effective date, see sections 4(a) and 5 of Pub. L. 113–254, set out as notes under section 621 of this title.
+Section effective on the date that is 30 days after Dec. 18, 2014, and authority provided under this sectionto terminate on July 27, 2023, see sections 4(a) and 5 of Pub. L. 113–254, set out as notes under section 621 of this title.
 

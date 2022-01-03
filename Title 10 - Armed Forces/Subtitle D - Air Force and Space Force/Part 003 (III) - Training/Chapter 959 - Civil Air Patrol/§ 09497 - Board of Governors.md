@@ -58,9 +58,13 @@ Personal Liability for Breach of a Fiduciary Duty.—(1) Except as provided in p
 
 (Added Pub. L. 106–398, §1 \[\[div. A\], title X, §1090(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–298, §9447; renumbered §9497, Pub. L. 115–232, div. A, title VIII, §806(a)(1), Aug. 13, 2018, 132 Stat. 1832.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232, §806(a)(1), renumbered section 9447 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

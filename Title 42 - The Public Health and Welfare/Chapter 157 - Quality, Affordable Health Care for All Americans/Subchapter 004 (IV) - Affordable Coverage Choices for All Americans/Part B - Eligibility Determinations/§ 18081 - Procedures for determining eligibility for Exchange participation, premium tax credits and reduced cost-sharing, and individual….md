@@ -52,7 +52,7 @@ The Secretary shall establish a program meeting the requirements of this section
 
 #### (4) Employer-sponsored coverage
 
-&emsp;In the case of an enrollee with respect to whom eligibility for a premium tax creditunder section 36B of title 26 or cost-sharing reduction under section 18071 of this title is being established on the basis that the enrollee's (or related individual's) employer is not treated under section 36B(c)(2)(C) of title 26 as providing minimum essential coverage or affordable minimum essential coverage, the following information:
+&emsp;In the case of an enrollee with respect to whom eligibility for a premium tax credit under section 36B of title 26 or cost-sharing reduction under section 18071 of this title is being established on the basis that the enrollee's (or related individual's) employer is not treated under section 36B(c)(2)(C) of title 26 as providing minimum essential coverage or affordable minimum essential coverage, the following information:
 
 &emsp;&emsp;(A) The name, address, and employer identification number (if available) of the employer.
 
@@ -120,7 +120,7 @@ The Secretary shall establish a program meeting the requirements of this section
 
 &emsp;&emsp;&emsp;(i) through use of an on-line system or otherwise for the electronic submission of, and response to, the information submitted under this subsection with respect to an applicant; or
 
-&emsp;&emsp;&emsp;(ii) by determining the consistency of the information submitted with the information maintained in the records of the Secretary of the Treasury, the Secretary of Homeland Security, or the Commissioner of Social Security through suchother method as is approved by the Secretary.
+&emsp;&emsp;&emsp;(ii) by determining the consistency of the information submitted with the information maintained in the records of the Secretary of the Treasury, the Secretary of Homeland Security, or the Commissioner of Social Security through such other method as is approved by the Secretary.
 
 #### (B) Flexibility
 
@@ -162,7 +162,7 @@ In the case of information provided under subsection (b) that is not required un
 
 #### (i) Reasonable effort
 
-&emsp;&emsp;&emsp;The Exchange shall make a reasonable effort to identify and address the causes of such inconsistency, including through typographical or other clerical errors, by contacting the applicant to confirm the accuracy of the information, and by taking such additional actions as the Secretary, through regulation or other guidance, may identify.
+&emsp;&emsp;&emsp;The Exchange shall make a reasonable effort to identify and address the causes of such inconsistency, including through typographical or other clerical errors, bycontacting the applicant to confirm the accuracy of the information, and by taking such additional actions as the Secretary, through regulation or other guidance, may identify.
 
 #### (ii) Notice and opportunity to correct
 
@@ -254,7 +254,7 @@ In the case of information provided under subsection (b) that is not required un
 
 &emsp;&emsp;&emsp;&emsp;(II) such failure is attributable to negligence or disregard of any rules or regulations of the Secretary,
 
-&emsp;&emsp;&nbsp;such person shall be subject, in addition to any other penalties that may be prescribed by law, to a civil penalty of not more than$25,000 with respect to any failures involving an application for a plan year. For purposes of this subparagraph, the terms "negligence" and "disregard" shall have the same meanings as when used in section 6662 of title 26.
+&emsp;&emsp;&nbsp;such person shall be subject, in addition to any other penalties that may be prescribed by law, to a civil penalty of not more than $25,000 with respect to any failures involving an application for a plan year. For purposes of this subparagraph, the terms "negligence" and "disregard" shall have the same meanings as when used in section 6662 of title 26.
 
 #### (ii) Reasonable cause exception
 
@@ -292,6 +292,8 @@ In the case of information provided under subsection (b) that is not required un
 
 (Pub. L. 111–148, title I, §1411, Mar. 23, 2010, 124 Stat. 224; Pub. L. 114–255, div. C, title XVIII, §18001(a)(6)(B), Dec. 13, 2016, 130 Stat. 1342.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 36B(c)(2)(C) and 5000A(e)(2) of title 26, section 6103(l)(21) of title 26, and section 5000A of title 26, referred to in subsecs. (a)(3) and (b)(3)(A), (5), were in the original "sections 36B(c)(2)(C) and 5000A(e)(2)", "section 6103(l)(21)", and "section 5000A", respectively, and were translated as if they had been followed by "of the Internal Revenue Code of 1986", to reflect the probable intent of Congress.
@@ -303,6 +305,8 @@ Section 1513, referred to in subsec. (i)(1), means section 1513 of Pub. L. 111�
 #### Amendments
 
 <b>2016</b>—Subsec. (b)(3)(B), (C). Pub. L. 114–255 added subpar. (B) and redesignated former subpar. (B) as (C).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2016 Amendment
 

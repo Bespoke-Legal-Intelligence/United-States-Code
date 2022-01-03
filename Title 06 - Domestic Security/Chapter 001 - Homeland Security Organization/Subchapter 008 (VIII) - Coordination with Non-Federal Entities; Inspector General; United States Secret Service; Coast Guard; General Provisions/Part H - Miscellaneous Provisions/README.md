@@ -37,3 +37,4 @@ Part H—Miscellaneous Provisions
 - [&sect; 00471 - Annual ammunition report](%C2%A7%2000471%20-%20Annual%20ammunition%20report.md)
 - [&sect; 00472 - Annual weaponry report](%C2%A7%2000472%20-%20Annual%20weaponry%20report.md)
 - [&sect; 00473 - Cyber Crimes Center, Child Exploitation Investigations Unit, Computer Forensics Unit, and Cyber Crimes Unit](%C2%A7%2000473%20-%20Cyber%20Crimes%20Center%2C%20Child%20Exploitation%20Investigations%20Unit%2C%20Computer%20Forensics%20Unit%2C%20and%20Cyber%20Crimes%20Unit.md)
+- [&sect; 00474 - Homeland security critical domain research and development](%C2%A7%2000474%20-%20Homeland%20security%20critical%20domain%20research%20and%20development.md)

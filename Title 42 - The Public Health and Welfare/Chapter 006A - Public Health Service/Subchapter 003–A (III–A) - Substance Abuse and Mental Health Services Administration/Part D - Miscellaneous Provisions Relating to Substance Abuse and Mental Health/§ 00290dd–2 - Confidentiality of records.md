@@ -24,7 +24,7 @@ Records of the identity, diagnosis, prognosis, or treatment of any patient which
 
 &emsp;&emsp;(A) To medical personnel to the extent necessary to meet a bona fide medical emergency.
 
-&emsp;&emsp;(B) To qualified personnel for the purpose of conducting scientific research, management audits, financial audits, or programevaluation, but such personnel may not identify, directly or indirectly, any individual patient in any report of such research, audit, or evaluation, or otherwise disclose patient identities in any manner.
+&emsp;&emsp;(B) To qualified personnel for the purpose of conducting scientific research, management audits, financial audits, or program evaluation, but such personnel may not identify, directly or indirectly, any individual patient in any report of such research, audit, or evaluation, or otherwise disclose patient identities in any manner.
 
 &emsp;&emsp;(C) If authorized by an appropriate order of a court of competent jurisdiction granted after application showing good cause therefor, including the need to avert a substantial risk of death or serious bodily harm. In assessing good cause the court shall weigh the public interest and the need for disclosure against the injury to the patient, to the physician-patient relationship, and to the treatment services. Upon the granting of such order, the court, in determining the extent to which any disclosure of all or any part of any record is necessary, shall impose appropriate safeguards against unauthorized disclosure.
 
@@ -142,9 +142,7 @@ For purposes of this section:
 
 (July 1, 1944, ch. 373, title V, §543, formerly Pub. L. 91–616, title III, §321, Dec. 31, 1970, 84 Stat. 1852, as amended Pub. L. 93–282, title I, §121(a), May 14, 1974, 88 Stat. 130; Pub. L. 94–371, §11(a), (b), July 26, 1976, 90 Stat. 1041; Pub. L. 94–581, title I, §111(c)(1), Oct. 21, 1976, 90 Stat. 2852; renumbered §522 of act July 1, 1944, and amended Pub. L. 98–24, §2(b)(13), Apr. 26, 1983, 97 Stat. 181; renumbered §543, Pub. L. 100–77, title VI, §611(2), July 22, 1987, 101 Stat. 516; Pub. L. 102–321, title I, §131, July 10, 1992, 106 Stat. 368; Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 105–392, title IV, §402(c), Nov. 13, 1998, 112 Stat. 3588; Pub. L. 116–136, div. A, title III, §3221(a)–(h), Mar. 27, 2020, 134 Stat. 375–378.)
 
-#### Applicability of Amendment
-
-<i>Amendments by Pub. L. 116–136 to be applicable with respect to uses and disclosures of information occurring on or after the date that is 12 months after Mar. 27, 2020, based on required revisions to implementing regulations, see 2020 Amendment notes and Regulations note set out below.</i>
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -158,7 +156,7 @@ Section was formerly classified to section 4581 of this title prior to renumberi
 
 <b>2020</b>—Subsec. (a). Pub. L. 116–136, §3221(a), substituted "substance use disorder" for "substance abuse".
 
-Subsec. (b)(1). Pub. L. 116–136, §3221(b), amended par. (1) generally. Prior to amendment, text read as follows: "The content of any record referred to in subsection (a) may be disclosed in accordance with the prior written consent of the patient with respect to whom such record is maintained, but only to such extent, under such circumstances, and for such purposes as may be allowed under regulations prescribed pursuant to subsection (g)."
+Subsec. (b)(1). Pub. L. 116–136, §3221(b), amended par. (1) generally. Prior to amendment, text read as follows: "The content of any record referred to in subsection (a) may be disclosed in accordance with the prior writtenconsent of the patient with respect to whom such record is maintained, but only to such extent, under such circumstances, and for such purposes as may be allowed under regulations prescribed pursuant to subsection (g)."
 
 Subsec. (b)(2)(D). Pub. L. 116–136, §3221(c), added subpar. (D).
 
@@ -178,7 +176,7 @@ Subsec. (k). Pub. L. 116–136, §3221(d), added subsec. (k).
 
 <b>1992</b>—Pub. L. 102–405 substituted "Under Secretary for Health" for "Chief Medical Director" in subsec. (h).
 
-Pub. L. 102–321 amended section generally, substituting provisions relating to confidentiality of records for provisions relating to admission of alcoholabusers and alcoholics to general hospitals and outpatient facilities.
+Pub. L. 102–321 amended section generally, substituting provisions relating to confidentiality of records for provisions relating to admission of alcohol abusers and alcoholics to general hospitals and outpatient facilities.
 
 <b>1983</b>—Pub. L. 98–24, §2(b)(13), renumbered section 4581 of this title as this section.
 
@@ -193,6 +191,8 @@ Subsec. (b)(2). Pub. L. 94–581 provided that subsec. (b)(2), which directed th
 <b>1974</b>—Subsec. (a). Pub. L. 93–282, in revising text, prohibited discrimination because of alcohol abuse, substituted provisions respecting eligibility for admission and treatment based on suffering from medical conditions for former provision based on medical need and ineligibility, because of discrimination, for support in any form from any program supported in whole or in part by funds appropriated to any Federal department or agency for former requirement for treatment by a general hospital which received Federal funds, and deleted prohibition against receiving Federal financial assistance for violation of section and for termination of Federal assistance on failure to comply, now incorporated in regulation authorization of subsec. (b) of this section.
 
 Subsec. (b). Pub. L. 93–282 substituted provisions respecting issuance of regulations by the Secretary concerning enforcement procedures and suspension or revocation of Federal support and by the Administrator concerning applicable regulations for veterans, and for coordination of the respective regulations for former provisions respecting judicial review.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

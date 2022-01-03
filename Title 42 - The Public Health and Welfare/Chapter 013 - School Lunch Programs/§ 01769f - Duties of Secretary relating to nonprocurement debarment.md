@@ -48,7 +48,7 @@ As used in this section:
 
 The Secretary shall—
 
-&emsp;(1) in cooperation with any other appropriate individual, organization, or agency, provide advice, training, technical assistance, and guidance (which may include awareness training, training films, and troubleshooting advice) to representatives of States and local agencies regarding means of identifying and preventing fraud and anticompetitive activities relating to the provision of goods or services in conjunction with the participation of a local agency in a child nutrition program; and
+&emsp;(1) in cooperation with any other appropriate individual, organization, or agency, provide advice, training, technical assistance, andguidance (which may include awareness training, training films, and troubleshooting advice) to representatives of States and local agencies regarding means of identifying and preventing fraud and anticompetitive activities relating to the provision of goods or services in conjunction with the participation of a local agency in a child nutrition program; and
 
 &emsp;(2) provide information to, and fully cooperate with, the Attorney General and State attorneys general regarding investigations of fraud and anticompetitive activities relating to the provision of goods or services in conjunction with the participation of a local agency in a child nutrition program.
 
@@ -124,7 +124,7 @@ Notwithstanding any other provision of this section, the Secretary shall initiat
 
 &emsp;(2) will interfere with the ability of a local agency to procure a needed product for a child nutrition program;
 
-&emsp;(3) is unfair to a person, subsidiary corporation, affiliate, parent company, or local division of a corporation that is not involved in the improper activity that would otherwise result in the debarment;
+&emsp;(3) is unfair to a person, subsidiary corporation, affiliate, parent company, or local division of a corporation that is not involved inthe improper activity that would otherwise result in the debarment;
 
 &emsp;(4) is likely to have significant adverse economic impacts on the local economy in a manner that is unfair to innocent parties;
 
@@ -146,9 +146,13 @@ On request, the Secretary shall present to the Committee on Education and Labor,
 
 (June 4, 1946, ch. 281, §25, as added Pub. L. 103–448, title I, §122(a), Nov. 2, 1994, 108 Stat. 4727; amended Pub. L. 105–336, title I, §107(j)(2)(C)(ii), Oct. 31, 1998, 112 Stat. 3153.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Subsec. (b)(1)(D) to (G). Pub. L. 105–336 redesignated subpars. (E) to (G) as (D) to (F), respectively, and struck out former subpar. (D) which read as follows: "the homeless children nutrition program established under section 1766b of this title;".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

@@ -32,7 +32,7 @@ To be considered for designation renewal, an entity shall submit an application 
 
 #### (2) Expert panel
 
-&emsp;Not later than 3 months after December 12, 2007, the Secretary shall convene an expertpanel of 7 members to make recommendations to the Secretary on the development of a transparent, reliable, and valid system for designation renewal.
+&emsp;Not later than 3 months after December 12, 2007, the Secretary shall convene an expert panel of 7 members to make recommendations to the Secretary on the development of a transparent, reliable, and valid system for designation renewal.
 
 #### (3) Composition of expert panel
 
@@ -100,7 +100,7 @@ To be considered for designation renewal, an entity shall submit an application 
 
 #### (C) Schedule
 
-&emsp;&emsp;The Secretary shall establish and implement a schedule for reviewing each HeadStart agency under the system for designation renewal described in paragraph (6), consistent with subparagraphs (A) and (B).
+&emsp;&emsp;The Secretary shall establish and implement a schedule for reviewing each Head Start agency under the system for designation renewal described in paragraph (6), consistent with subparagraphs (A) and (B).
 
 #### (10) Reports to Congress
 
@@ -108,7 +108,7 @@ To be considered for designation renewal, an entity shall submit an application 
 
 &emsp;&emsp;(A) make available to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate the report described in paragraph (4);
 
-&emsp;&emsp;(B) concurrently with publishing a notice in the Federal Register as described in paragraph (5), provide a report to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate that provides a detailed description of the proposed system described in paragraph (5), including a clear rationale for any differences between the proposed system and the recommendations of the expert panel, if any such differences exist; and
+&emsp;&emsp;(B) concurrently with publishing a notice in the Federal Register as described in paragraph (5), provide a report to the Committee on Education and Labor of the House of Representatives and the Committee on Health,Education, Labor, and Pensions of the Senate that provides a detailed description of the proposed system described in paragraph (5), including a clear rationale for any differences between the proposed system and the recommendations of the expert panel, if any such differences exist; and
 
 &emsp;&emsp;(C) prior to implementing the system for designation renewal, provide a report to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate—
 
@@ -170,7 +170,7 @@ To be considered for designation renewal, an entity shall submit an application 
 
 &emsp;&emsp;(J) the plan of such applicant—
 
-&emsp;&emsp;&emsp;(i) to facilitate the involvement of parents (including grandparents and kinship caregivers, as appropriate) of children participating in the proposed Head Start program, in activities (at home and, if practicable, at the location of the Head Startprogram) designed to help such parents become full partners in the education of their children;
+&emsp;&emsp;&emsp;(i) to facilitate the involvement of parents (including grandparents and kinship caregivers, as appropriate) of children participating in the proposed Head Start program, in activities (at home and, if practicable, at the location of the Head Start program) designed to help such parents become full partners in the education of their children;
 
 &emsp;&emsp;&emsp;(ii) to afford such parents the opportunity to participate in the development and overall conduct of the program at the local level, including transportation assistance, as appropriate;
 
@@ -242,7 +242,9 @@ The Secretary shall require that the practice of significantly involving parents
 
 For purposes of this subchapter, a community may be a city, county, or multicity or multicounty unit within a State, an Indian reservation (including Indians in any off-reservation area designated by an appropriate tribal government in consultation with the Secretary), or a neighborhood or other area (irrespective of boundaries or political subdivisions) that provides a suitable organizational base and possesses the commonality of interest needed to operate a Head Start program.
 
-(Pub. L. 97–35, title VI, §641, Aug. 13, 1981, 95 Stat. 501; Pub. L. 98–558, title I, §104, Oct. 30, 1984, 98 Stat. 2878; Pub. L. 101–501, title I, §§107, 108, Nov. 3, 1990, 104 Stat. 1229, 1230; Pub. L. 102–401, §2(e)(1), (f)–(h), Oct. 7, 1992, 106 Stat. 1957; Pub. L. 103–252, title I, §107, May 18, 1994, 108 Stat. 629; Pub. L. 105–285, title I, §107, Oct. 27, 1998, 112 Stat. 2712; Pub. L. 108–446, title III, §305(l)(3), Dec. 3, 2004, 118 Stat. 2806; Pub. L. 110–134, §7, Dec. 12, 2007, 121 Stat. 1378; Pub. L. 114–95, title IX, §9215(nn)(2), Dec. 10, 2015, 129 Stat. 2176.)
+(Pub. L. 97–35, title VI, §641, Aug. 13, 1981, 95 Stat. 501; Pub. L. 98–558, title I, §104, Oct. 30,1984, 98 Stat. 2878; Pub. L. 101–501, title I, §§107, 108, Nov. 3, 1990, 104 Stat. 1229, 1230; Pub. L. 102–401, §2(e)(1), (f)–(h), Oct. 7, 1992, 106 Stat. 1957; Pub. L. 103–252, title I, §107, May 18, 1994, 108 Stat. 629; Pub. L. 105–285, title I, §107, Oct. 27, 1998, 112 Stat. 2712; Pub. L. 108–446, title III, §305(l)(3), Dec. 3, 2004, 118 Stat. 2806; Pub. L. 110–134, §7, Dec. 12, 2007, 121 Stat. 1378; Pub. L. 114–95, title IX, §9215(nn)(2), Dec. 10, 2015, 129 Stat. 2176.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -364,6 +366,8 @@ Subsec. (c)(2). Pub. L. 98–558, §104(b)(4), inserted "except that" before "if
 
 Subsecs. (d) to (f). Pub. L. 98–558, §104(c), added subsecs. (d) and (e) and redesignated former subsec. (d) as (f).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of Title 20, Education.
@@ -374,7 +378,7 @@ Amendment by Pub. L. 103–252 effective May 18, 1994, but not applicable to Hea
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–401, §2(e)(2), Oct. 7, 1992, 106 Stat. 1957, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply only with respect to terminations of financial assistance, and denials of refunding, occurring after July 29, 1992."
+Pub. L. 102–401, §2(e)(2), Oct. 7, 1992, 106 Stat. 1957, provided that: "The amendment made by paragraph (1)\[amending this section\] shall apply only with respect to terminations of financial assistance, and denials of refunding, occurring after July 29, 1992."
 
 Amendment by section 2(f)–(h) of Pub. L. 102–401 effective Oct. 7, 1992, but not applicable with respect to fiscal years beginning before Oct. 1, 1992, and amendment by section 2(e)(1) of Pub. L. 102–401 effective July 30, 1992, see section 4 of Pub. L. 102–401, set out as a note under section 9835 of this title.
 

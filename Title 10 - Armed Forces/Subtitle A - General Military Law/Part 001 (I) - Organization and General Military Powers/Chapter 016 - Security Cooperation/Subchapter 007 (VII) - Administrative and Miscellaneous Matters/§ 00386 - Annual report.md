@@ -62,7 +62,7 @@ Nonduplication of Effort.—
 
 &emsp;(1)
 
-In general.—Except as provided in paragraph (2), if any information required under subsection (a) has been included in another report or notification previously submitted to Congress by law, the Secretary of Defense may provide a list of such reports and notifications at the time of submitting the report required by subsection (a) in lieu of including such information in the report required by subsection (a).
+In general.—Except as provided in paragraph (2), if any information required under subsection (a) has been included in another report or notification previously submitted to Congress by law, the Secretary of Defense mayprovide a list of such reports and notifications at the time of submitting the report required by subsection (a) in lieu of including such information in the report required by subsection (a).
 
 &emsp;(2)
 
@@ -74,6 +74,8 @@ Form.—Each report required under subsection (a) shall be submitted in unclassi
 
 (Added and amended Pub. L. 114–328, div. A, title XII, §§1246(d)(2)(A), 1251(a)–(f), Dec. 23, 2016, 130 Stat. 2521, 2529–2531; Pub. L. 115–232, div. A, title XII, §1204(b)(1)(A), Aug. 13, 2018, 132 Stat. 2017.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 246, 251, 252, and 253 of this title, referred to in subsec. (c)(1), probably should be references to sections 311, 331, 332, and 333 of this title, respectively, as they were prior to amendment by Pub. L. 115–232. See 2018 Amendment note below. Although there were sections 311, 331, 332, and 333 of this title that had been renumbered 246, 251, 252, and 253, the references in subsec. (c)(1) should probably be to the current sections 311, 331, 332, and 333 and not to the ones that were renumbered.
@@ -82,7 +84,7 @@ Section 168 of this title, referred to in subsec. (c)(3), was repealed by Pub. L
 
 Section 2249c of this title, referred to in subsec. (c)(4), was renumbered section 345 of this title by Pub. L. 114–328, div. A, title XII, §1247(a), Dec. 23, 2016, 130 Stat. 2521.
 
-Section 1532, referred to in subsec. (c)(6), is section 1532 of Pub. L. 113–291, div. A, title XV, Dec. 19, 2014, 128 Stat. 3613. Section 1532 consists of subsecs. (a) to (d).Subsecs. (a) to (c) of section 1532 are not classified to the Code, and subsec. (d) of section 1532 amended section 1531(d) of Pub. L. 113–66, which is set out as a note under section 2302 of this title.
+Section 1532, referred to in subsec. (c)(6), is section 1532 of Pub. L. 113–291, div. A, title XV, Dec. 19, 2014, 128 Stat. 3613. Section 1532 consists of subsecs. (a) to (d). Subsecs. (a) to (c) of section 1532 are not classified to the Code, and subsec. (d) of section 1532 amended section 1531(d) of Pub. L. 113–66, which is set out as a note under section 2302 of this title.
 
 Section 1233 of the National Defense Authorization Act for Fiscal Year 2008, referred to in subsec. (c)(7), is section 1233 of Pub. L. 110–181, div. A, title XII, Jan. 28, 2008, 122 Stat. 393, which is not classified to the Code.
 
@@ -145,6 +147,8 @@ Subsec. (c)(17). Pub. L. 114–328, §1251(d)(5), redesignated par. (17) as (13)
 Subsec. (d). Pub. L. 114–328, §1251(e), designated existing provisions as par. (1) and inserted heading, substituted "Except as provided in paragraph (2), if any information" for "If any information", and added par. (2).
 
 Subsec. (e). Pub. L. 114–328, §1251(f), inserted "that may also include other sensitive information" after "annex".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2016 Amendment
 

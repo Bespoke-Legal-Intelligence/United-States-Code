@@ -40,7 +40,7 @@ Fuel Costs.—
 
 &emsp;(1)
 
-In general.—Subject to the availability of appropriations, the Secretary shall pay toeach State maritime academy the costs of fuel used by a vessel provided under this section while used for training.
+In general.—Subject to the availability of appropriations, the Secretary shall pay to each State maritime academy the costs of fuel used by a vessel provided under this section while used for training.
 
 &emsp;(2)
 

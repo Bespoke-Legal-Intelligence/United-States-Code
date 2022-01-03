@@ -12,6 +12,8 @@ In this part:
 
 (Pub. L. 101–510, div. C, title XXXI, §3170, as added Pub. L. 110–69, title V, §5003(d)(3), Aug. 9, 2007, 121 Stat. 603.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Consultation
 
 Pub. L. 110–69, title V, §5003(b), Aug. 9, 2007, 121 Stat. 602, provided that: "The Secretary \[of Energy\] shall—

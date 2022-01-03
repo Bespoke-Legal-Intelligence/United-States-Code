@@ -1,5 +1,7 @@
 Part I—Foundation for the National Institutes of Health
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 105–392, title IV, §418(1), Nov. 13, 1998, 112 Stat. 3591, substituted "Foundation for the National Institutes of Health" for "National Foundation for Biomedical Research" in part heading.

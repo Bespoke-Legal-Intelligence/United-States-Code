@@ -58,6 +58,8 @@ For the purposes of this section, there are authorized to be appropriated in eac
 
 (Pub. L. 98–364, title II, §201, July 17, 1984, 98 Stat. 443.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This section, referred to in subsecs. (a) to (d), (f), (h) and (j), was in the original "this title", meaning title II of Pub. L. 98–364, which enacted this section.
@@ -65,6 +67,8 @@ This section, referred to in subsecs. (a) to (d), (f), (h) and (j), was in the o
 #### Codification
 
 Section was not enacted as part of the Coastal Zone Management Act of 1972 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Advisory Councils
 

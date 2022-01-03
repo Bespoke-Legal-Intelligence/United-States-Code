@@ -82,7 +82,7 @@
 
 &emsp;&emsp;&emsp;(ii) investments in disaster relief, insurance, and emergency management programs;
 
-&emsp;&emsp;&emsp;(iii) encouraging the adoption and enforcement of the latest published editions of relevant consensus-based codes, specifications, and standards that incorporate the latest hazard-resistant designs and establish minimum acceptable criteria for the design, construction, and maintenance of residential structures and facilities that may be eligible for assistance under this chapter for the purpose of protecting the health, safety, and general welfare of the buildings' users against disasters;
+&emsp;&emsp;&emsp;(iii) encouraging the adoption and enforcement of the latest published editionsof relevant consensus-based codes, specifications, and standards that incorporate the latest hazard-resistant designs and establish minimum acceptable criteria for the design, construction, and maintenance of residential structures and facilities that may be eligible for assistance under this chapter for the purpose of protecting the health, safety, and general welfare of the buildings' users against disasters;
 
 &emsp;&emsp;&emsp;(iv) facilitating participation in the community rating system; and
 
@@ -90,7 +90,7 @@
 
 #### (B) Comprehensive guidance
 
-&emsp;&emsp;Not later than 1 year after February 9, 2018, the President, acting through the Administrator, shall issue comprehensive guidance to State and Tribal governments regarding the measures and investments, weighted appropriately based on actuarial assessments of eligible actions, that will be recognized for the purpose of increasing theFederal share under this section. Guidance shall ensure that the agency's review of eligible measures and investments does not unduly delay determining the appropriate Federal cost share.
+&emsp;&emsp;Not later than 1 year after February 9, 2018, the President, acting through the Administrator, shall issue comprehensive guidance to State and Tribal governments regarding the measures and investments, weighted appropriately based on actuarial assessments of eligible actions, that will be recognized for the purpose of increasing the Federal share under this section. Guidance shall ensure that the agency's review of eligible measures and investments does not unduly delay determining the appropriate Federal cost share.
 
 #### (C) Report
 
@@ -154,7 +154,7 @@
 
 #### (1) Reduction of Federal assistance
 
-&emsp;If a public facility or private nonprofit facility located in a special flood hazard area identified for more than 1 year by the Administrator pursuant to the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.) is damaged or destroyed, after the 180th day following November 23, 1988, by flooding in a major disaster and such facility is not covered on the date of such flooding by flood insurance, the Federal assistance which would otherwise be available under this section with respect to repair, restoration, reconstruction, and replacement of such facility and associated expenses shall be reduced in accordance with paragraph (2). This section shall not apply to more than one building of a multi-structure educational, law enforcement, correctional, fire, or medical campus, for any major disaster or emergency declared by the President under section 5170 or 5191, respectively, of this title on or after January 1, 2016, through December 31, 2018.
+&emsp;If a public facility or private nonprofit facility located in a special flood hazard area identified for more than 1 year by the Administrator pursuant to the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.) is damaged or destroyed, after the 180th day following November 23, 1988, by flooding in amajor disaster and such facility is not covered on the date of such flooding by flood insurance, the Federal assistance which would otherwise be available under this section with respect to repair, restoration, reconstruction, and replacement of such facility and associated expenses shall be reduced in accordance with paragraph (2). This section shall not apply to more than one building of a multi-structure educational, law enforcement, correctional, fire, or medical campus, for any major disaster or emergency declared by the President under section 5170 or 5191, respectively, of this title on or after January 1, 2016, through December 31, 2018.
 
 #### (2) Amount of reduction
 
@@ -162,7 +162,7 @@
 
 &emsp;&emsp;(A) the value of such facility on the date of the flood damage or destruction, or
 
-&emsp;&emsp;(B) the maximum amount of insurance proceeds which would have been payable with respect to such facility if such facilityhad been covered by flood insurance under the National Flood Insurance Act of 1968 on such date.
+&emsp;&emsp;(B) the maximum amount of insurance proceeds which would have been payable with respect to such facility if such facility had been covered by flood insurance under the National Flood Insurance Act of 1968 on such date.
 
 #### (3) Exception
 
@@ -236,7 +236,7 @@
 
 #### (C) Regulations
 
-&emsp;&emsp;Taking into account the recommendations of the expert panel under subparagraph (B),the President shall promulgate regulations that establish—
+&emsp;&emsp;Taking into account the recommendations of the expert panel under subparagraph (B), the President shall promulgate regulations that establish—
 
 &emsp;&emsp;&emsp;(i) cost estimation procedures described in subparagraph (B)(i); and
 
@@ -274,6 +274,8 @@
 
 (Pub. L. 93–288, title IV, §406, as added Pub. L. 100–707, title I, §106(b), Nov. 23, 1988, 102 Stat. 4699; amended Pub. L. 106–390, title II, §205(a)–(d)(1), (e), Oct. 30, 2000, 114 Stat. 1562–1564, 1566; Pub. L. 109–295, title VI, §689h, Oct. 4, 2006, 120 Stat. 1453; Pub. L. 109–347, title VI, §609, Oct. 13, 2006, 120 Stat. 1942; Pub. L. 111–351, §3(c)(2), Jan. 4, 2011, 124 Stat. 3864; Pub. L. 114–111, §2(b), Dec. 18, 2015, 129 Stat. 2240; Pub. L. 115–123, div. B, title VI, §§20604(b), 20606, Feb. 9, 2018, 132 Stat. 86; Pub. L. 115–254, div. D, §§1206(b), 1207(a), (b), 1235(b)–(d), Oct. 5, 2018, 132 Stat. 3440, 3463, 3464.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (b)(3)(A)(iii) and (e)(1)(A)(ii), was in the original "this Act", meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
@@ -308,7 +310,7 @@ Subsec. (e)(1)(A). Pub. L. 115–254, §1235(b)(1), inserted "for disasters decl
 
 Subsec. (e)(1)(A)(i). Pub. L. 115–254, §1235(b)(2), struck out "and" at end.
 
-Subsec. (e)(1)(A)(ii). Pub. L. 115–254, §1235(b)(3), substituted "the latest published editions of relevant consensus-based codes, specifications, and standards that incorporate the latest hazard-resistant designs and establish minimum acceptable criteria for the design, construction, and maintenance of residential structures and facilities that may be eligible for assistance under this chapter for the purposes of protecting the health, safety, and general welfare of a facility's users against disasters" for "codes, specifications, and standards" and "(16 U.S.C. 3501 et seq.)); and" for "(16 U.S.C.3501 et seq.)) applicable at the time at which the disaster occurred."
+Subsec. (e)(1)(A)(ii). Pub. L. 115–254, §1235(b)(3), substituted "the latest published editions of relevant consensus-based codes, specifications, and standards that incorporate the latest hazard-resistant designs and establish minimum acceptable criteria for the design, construction, and maintenance of residential structures and facilities that may be eligible for assistance under this chapter for the purposes of protecting the health, safety, and general welfare of a facility's users against disasters" for "codes, specifications, and standards" and "(16 U.S.C. 3501 et seq.)); and" for "(16 U.S.C. 3501 et seq.)) applicable at the time at which the disaster occurred."
 
 Subsec. (e)(1)(A)(iii). Pub. L. 115–254, §1235(b)(4), added cl. (iii).
 
@@ -354,6 +356,8 @@ Special rule.—In any case in which the facility being repaired, restored, reco
 
 Subsec. (f). Pub. L. 106–390, §205(e), struck out subsec. (f) which set out various associated expenses, including necessary and extraordinary costs, and costs of using the National Guard and prison labor.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–254 applicable to each major disaster and emergency declared by the President on or after Aug. 1, 2017, and authorities provided under div. D of Pub. L. 115–254 applicable to each major disaster and emergency declared by the President on or after Jan. 1, 2016, except as otherwise provided, see section 1202 of Pub. L. 115–254, set out as a note under section 5121 of this title.
@@ -362,7 +366,7 @@ Amendment by section 20604(b) of Pub. L. 115–123 applicable to provision of as
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–390, title II, §205(d)(2), Oct. 30, 2000, 114 Stat. 1566, as amended by Pub. L. 115–254, div. D, §1235(e), Oct. 5, 2018, 132 Stat. 3464, provided that: "The amendment made by paragraph (1) \[amending this section\] takes effect on the date of the enactment of this Act \[Oct. 30, 2000\] and applies to funds appropriated after the date of the enactment of this Act, except that paragraph (1)(B) of section 406(e) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[subsec. (e)(1) of this section\] (as amended by paragraph (1)) takes effect on the date on which the cost estimation procedures established under paragraph (3) of that section take effect."
+Pub. L. 106–390, title II, §205(d)(2), Oct. 30, 2000, 114 Stat. 1566, as amended by Pub. L. 115–254, div. D,§1235(e), Oct. 5, 2018, 132 Stat. 3464, provided that: "The amendment made by paragraph (1) \[amending this section\] takes effect on the date of the enactment of this Act \[Oct. 30, 2000\] and applies to funds appropriated after the date of the enactment of this Act, except that paragraph (1)(B) of section 406(e) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[subsec. (e)(1) of this section\] (as amended by paragraph (1)) takes effect on the date on which the cost estimation procedures established under paragraph (3) of that section take effect."
 
 #### Transfer of Functions
 
@@ -372,7 +376,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 #### Guidance on Inundated and Submerged Roads
 
-Pub. L. 115–254, div. D, §1228, Oct. 5, 2018, 132 Stat. 3459, provided that: "The Administrator of the FederalEmergency Management Agency, in coordination with the Administrator of the Federal Highway Administration, shall develop and issue guidance for State, local, and Indian tribal governments regarding repair, restoration, and replacement of inundated and submerged roads damaged or destroyed by a major disaster, and for associated expenses incurred by the Government, with respect to roads eligible for assistance under section 406 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5172)."
+Pub. L. 115–254, div. D, §1228, Oct. 5, 2018, 132 Stat. 3459, provided that: "The Administrator of the Federal Emergency Management Agency, in coordination with the Administrator of the Federal Highway Administration, shall develop and issue guidance for State, local, and Indian tribal governments regarding repair, restoration, and replacement of inundated and submerged roads damaged or destroyed by a major disaster, and for associated expenses incurred by the Government, with respect to roads eligible for assistance under section 406 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5172)."
 
 \[For definition of "State" as used in section 1228 of Pub. L. 115–254, set out above, see section 1203 of Pub. L. 115–254, set out as a note under section 5122 of this title.\]
 

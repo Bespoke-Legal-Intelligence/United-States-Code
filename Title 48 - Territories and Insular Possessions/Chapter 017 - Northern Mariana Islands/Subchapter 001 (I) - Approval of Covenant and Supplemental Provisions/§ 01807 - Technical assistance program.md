@@ -16,13 +16,15 @@ In providing such technical assistance under paragraph (1), the Secretaries shal
 
 &emsp;(A) consult with the Government of the Commonwealth, local businesses, regional banks, educational institutions, and other experts in the economy of the Commonwealth; and
 
-&emsp;(B) assist in the development and implementation of a process to identify opportunities for and encourage diversification and growth of the economy of the Commonwealth and to identify and encourage opportunities to meet the labor needs of the Commonwealth.
+&emsp;(B) assist in the development and implementation of a process to identify opportunitiesfor and encourage diversification and growth of the economy of the Commonwealth and to identify and encourage opportunities to meet the labor needs of the Commonwealth.
 
 #### (3) Cost-sharing
 
 For the provision of technical assistance or support under this paragraph (other than that required to pay the salaries and expenses of Federal personnel), the Secretary of the Interior shall require a non-Federal matching contribution of 10 percent.
 
 (Pub. L. 110–229, title VII, §702(e), May 8, 2008, 122 Stat. 863.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -31,6 +33,8 @@ Section 1806(a)(4) of this title, as added by subsection (a), referred to in par
 #### Codification
 
 Section was enacted as part of the Consolidated Natural Resources Act of 2008, and not as part of Pub. L. 94–241 which comprises this subchapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Department of the Interior Technical Assistance
 

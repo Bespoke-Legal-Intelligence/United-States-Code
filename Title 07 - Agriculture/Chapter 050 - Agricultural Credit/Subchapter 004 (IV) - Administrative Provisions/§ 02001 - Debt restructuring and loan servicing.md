@@ -68,7 +68,7 @@ To be eligible to obtain assistance under subsection (a)—
 
 #### (B) Present value
 
-&emsp;&emsp;For the purpose of calculating the present value referred to in subparagraph (A), theSecretary shall use a discount rate of not more than the current rate on 90-day Treasury bills.
+&emsp;&emsp;For the purpose of calculating the present value referred to in subparagraph (A), the Secretary shall use a discount rate of not more than the current rate on 90-day Treasury bills.
 
 #### (C) Cash flow margin
 
@@ -118,7 +118,7 @@ To be eligible to obtain assistance under subsection (a)—
 
 #### (B) Failure of creditors to agree
 
-&emsp;&emsp;Failure of creditors to agree to participate in the restructuring plan or mediation program shall not preclude the use of principal and interest write-down by the Secretary if the Secretary determines that this restructuring alternative results in the least cost to the Secretary.
+&emsp;&emsp;Failure of creditors to agree to participate in the restructuring plan or mediation program shall not preclude the use of principaland interest write-down by the Secretary if the Secretary determines that this restructuring alternative results in the least cost to the Secretary.
 
 #### (2) Participation of creditors
 
@@ -216,7 +216,7 @@ Once an appeal has been filed under section 1983b <sup>1</sup> of this title, a
 
 #### (1) In general
 
-&emsp;A notice of ineligibility for restructuring shall be sent to the borrower by registered or certified mail within 15 days after such determination.
+&emsp;A notice of ineligibility for restructuring shall be sent to the borrower by registered orcertified mail within 15 days after such determination.
 
 #### (2) Contents
 
@@ -270,6 +270,8 @@ The Secretary may provide not more than $300,000 in principal and interest forgi
 
 (Pub. L. 87–128, title III, §353, as added Pub. L. 100–233, title VI, §615(a), Jan. 6, 1988, 101 Stat. 1678; amended Pub. L. 101–624, title XVIII, §1816(a)–(d), (f)–(h), Nov. 28, 1990, 104 Stat. 3826–3828; Pub. L. 102–237, title V, §501(h), Dec. 13, 1991, 105 Stat. 1868; Pub. L. 104–127, title VI, §§645, 661(j), Apr. 4, 1996, 110 Stat. 1103, 1107; Pub. L. 105–277, div. A, §101(a) \[title VIII, §§807, 808\], Oct. 21, 1998, 112 Stat. 2681, 2681–40; Pub. L. 106–31, title III, §3019(b), May 21, 1999, 113 Stat. 99; Pub. L. 106–387, §1(a) \[title VIII, §818(a)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–58; Pub. L. 107–171, title V, §5314, May 13, 2002, 116 Stat. 347.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a), (c)(5), and (k), was in the original "this title", meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
@@ -298,7 +300,7 @@ Assumption.—For the purpose of assessing under subparagraph (A) the ability of
 
 Available income.—If an amount up to 105 percent of the debt payments of the borrower has been earmarked for such payments, the Secretary shall consider the income of the borrower to be adequate to meet the debt obligations of the borrower."
 
-Subsec. (c)(6). Pub. L. 104–127, §645(1)(B), added par. (6) and struck out former par. (6), which specified required conditions for termination of loan obligations, limited applicability of good faith requirement, authorized recapture by requiring borrower to enter into agreement before terminating loan obligations, and provided for limitation on recapture amount and treatment of intrafamily transfers.
+Subsec. (c)(6). Pub. L. 104–127, §645(1)(B), added par. (6) and struck out former par. (6), which specified required conditions for termination of loan obligations,limited applicability of good faith requirement, authorized recapture by requiring borrower to enter into agreement before terminating loan obligations, and provided for limitation on recapture amount and treatment of intrafamily transfers.
 
 Subsec. (k). Pub. L. 104–127, §645(2), (3), redesignated subsec. (l) as (k) and struck out heading and text of former subsec. (k). Text read as follows: "The creditworthiness of, or the adequacy of collateral offered by, any borrower whose loan obligations are restructured under this section shall be determined without regard to such restructuring."
 
@@ -324,11 +326,13 @@ Subsec. (c)(3)(C). Pub. L. 101–624, §1816(c), added subpar. (C).
 
 Subsec. (c)(4). Pub. L. 101–624, §1816(d), substituted "90" for "60" in introductory provisions.
 
-Subsec. (c)(6). Pub. L. 101–624, §1816(f), amended par. (6) generally. Prior to amendment, par. (6) read as follows: "If the value of the restructured loan is less than the recovery value and if, within 45 days after receipt of the notification described in paragraph (4)(B), the borrower pays (or obtains third-party financing to pay) the Secretary an amount equal to the recovery value, the obligations of the borrower to the Secretary underthe loan shall terminate, except that the Secretary may require, as a condition of such termination of loan obligations, that the borrower enter into an agreement with the Secretary if the borrower sells or otherwise conveys the real property used to secure such loan within 2 years after the date of such agreement. Any such agreement shall provide for the recapture of part or all of the difference between the recovery value of the loan and the fair market value (on the date of such agreement) of the property securing the loan if the borrower realizes a gain on the sale or conveyance over the amount of the recovery value of the loan. In no event shall any such agreement provide for recapture of an amount that exceeds the difference between such recovery value and the fair market value of the property securing the loan on the date of such agreement."
+Subsec. (c)(6). Pub. L. 101–624, §1816(f), amended par. (6) generally. Prior to amendment, par. (6) read as follows: "If the value of the restructured loan is less than the recovery value and if, within 45 days after receipt of the notification described in paragraph (4)(B), the borrower pays (or obtains third-party financing to pay) the Secretary an amount equal to the recovery value, the obligations of the borrower to the Secretary under the loan shall terminate, except that the Secretary may require, as a condition of such termination of loan obligations, that the borrower enter into an agreement with the Secretary if the borrower sells or otherwise conveys the real property used to secure such loan within 2 years after the date of such agreement. Any such agreement shall provide for the recapture of part or all of the difference between the recovery value of the loan and the fair market value (on the date of such agreement) of the property securing the loan if the borrower realizes a gain on the sale or conveyance over the amount of the recovery value of the loan. In no event shall any such agreement provide for recapture of an amount that exceeds the difference between such recovery value and the fair market value of the property securing the loan on the date of such agreement."
 
 Subsec. (c)(7). Pub. L. 101–624, §1816(g), added par. (7).
 
 Subsecs. (l) to (p). Pub. L. 101–624, §1816(h), added subsecs. (l) to (p).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 
@@ -376,7 +380,7 @@ Regulations.—As soon as practicable after the date of enactment of this Act \[
 
 &emsp;"(1) the Secretary of Agriculture shall issue such regulations as are necessary to carry out subtitles A and C of this Act \[probably means subtitles A (§§1801–1824) and C (§§1851–1854) of title XVIII of Pub. L. 101–624, enacting sections 1981f and 2006a to 2006e of this title and section 5143 of Title 25, amending this section, sections 1924, 1927, 1933, 1934, 1942, 1946, 1981, 1981d, 1982, 1983, 1983a, 1983b, 1985, 1991, 1997, 2003, and 5106 of this title and section 5141 of Title 25, enacting provisions set out as a note under section 1981f of this title, amending provisions set out as a note under section 1985 of this title, and repealing provisions set out as a note preceding section 1961 of this title\] and the amendments made by such subtitles; and
 
-&emsp;"(2) the Farm Credit Administration shall issue such regulations as are necessary to carry out subtitle B of this Act \[probably means subtitle B (§§1831–1843) of title XVIII of Pub. L. 101–624, enacting section 2076a of Title 12, amending section 3132 of Title 5 and sections 2019, 2075, 2077, 2218, 2252, 2254, 2277a–5, 2277a–9, 2277a–10, 2277a–14, 2278a–6, 2279aa, and 2279aa–11 of Title 12, and enacting provisions set out as a note under section 2001 of Title 12\] and the amendments made by such subtitle."
+&emsp;"(2) the Farm Credit Administration shall issue such regulations as are necessary to carry out subtitle B of this Act \[probably means subtitle B\(§§1831–1843) of title XVIII of Pub. L. 101–624, enacting section 2076a of Title 12, amending section 3132 of Title 5 and sections 2019, 2075, 2077, 2218, 2252, 2254, 2277a–5, 2277a–9, 2277a–10, 2277a–14, 2278a–6, 2279aa, and 2279aa–11 of Title 12, and enacting provisions set out as a note under section 2001 of Title 12\] and the amendments made by such subtitle."
 
 #### Suspension of Collection Activities During Transition Period
 

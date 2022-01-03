@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(A) develop a program plan and annually update the program plan through public workshops; and
 
-&emsp;&emsp;(B) use the Nuclear Science Advisory Committee to conduct annual reviews of the progress made in achieving the program goals and make recommendations to improve program effectiveness.
+&emsp;&emsp;(B) use the Nuclear Science Advisory Committee to conduct triennial reviews of the progress made in achieving the program goals and make recommendations to improve program effectiveness.
 
 #### (b) Development assistance
 
@@ -90,7 +90,7 @@ The Secretary shall carry out a program to provide assistance for—
 
 #### (5) Authorized use of funds
 
-&emsp;Subject to the availability of appropriations, the Secretary may obligate and expend funds received under leases entered into under thissubsection, which shall remain available until expended, for the purpose of carrying out the activities authorized by this subtitle, including activities related to the final disposition of spent nuclear fuel and radioactive waste for which the Department is responsible under paragraph (3).
+&emsp;Subject to the availability of appropriations, the Secretary may obligate and expend funds received under leases entered into under this subsection, which shall remain available until expended, for the purpose of carrying out the activities authorized by this subtitle, including activities related to the final disposition of spent nuclear fuel and radioactive waste for which the Department is responsible under paragraph (3).
 
 #### (6) Exchange of uranium for services
 
@@ -112,7 +112,9 @@ The Secretary shall establish a program as described in subsection (c)(3) not la
 
 Notwithstanding section 10101 of this title, radioactive material resulting from the production of medical isotopes that has been permanently removed from a reactor or subcritical assembly and for which there is no further use shall be considered low-level radioactive waste if the material is acceptable under Federal requirements for disposal as low-level radioactive waste.
 
-(Pub. L. 112–239, div. C, title XXXI, §3173, Jan. 2, 2013, 126 Stat. 2211.)
+(Pub. L. 112–239, div. C, title XXXI, §3173, Jan. 2, 2013, 126 Stat. 2211; Pub. L. 117–81, div. C, title XXXI, §3131(c), Dec. 27, 2021, 135 Stat. 2230.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -121,6 +123,12 @@ This subtitle, referred to in subsec. (c)(5), is subtitle F (§§3171–3178) of
 #### Codification
 
 Section was enacted as part of the American Medical Isotopes Production Act of 2012 and also as part of the National Defense Authorization Act for Fiscal Year 2013, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
+
+#### Amendments
+
+<b>2021</b>—Subsec. (a)(4)(B). Pub. L. 117–81 substituted "triennial reviews" for "annual reviews".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

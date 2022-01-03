@@ -36,7 +36,7 @@
 
 #### (I) Consent for initial evaluation
 
-&emsp;&emsp;&emsp;&emsp;The agency proposing to conduct an initial evaluation to determine if the child qualifies as a child with a disability as defined in section 1401 of this title shall obtain informed consent from the parent of such child before conducting the evaluation. Parental consent for evaluation shall not be construed as consent for placement for receipt of special education and related services.
+&emsp;&emsp;&emsp;&emsp;The agency proposing to conduct an initial evaluation to determine if thechild qualifies as a child with a disability as defined in section 1401 of this title shall obtain informed consent from the parent of such child before conducting the evaluation. Parental consent for evaluation shall not be construed as consent for placement for receipt of special education and related services.
 
 #### (II) Consent for services
 
@@ -50,7 +50,7 @@
 
 #### (II) For services
 
-&emsp;&emsp;&emsp;&emsp;If the parent of such child refuses to consent to services under clause (i)(II), the local educational agency shall not provide special education and relatedservices to the child by utilizing the procedures described in section 1415 of this title.
+&emsp;&emsp;&emsp;&emsp;If the parent of such child refuses to consent to services under clause (i)(II), the local educational agency shall not provide special education and related services to the child by utilizing the procedures described in section 1415 of this title.
 
 #### (III) Effect on agency obligations
 
@@ -190,7 +190,7 @@
 
 &emsp;&emsp;&emsp;(iii) whether the child needs special education and related services, or in the case of a reevaluation of a child, whether the child continues to need special education and related services; and
 
-&emsp;&emsp;&emsp;(iv) whether any additions or modifications to the special education and related services are needed to enable the child to meet the measurable annual goals set out in the individualized education program of the child and to participate, as appropriate, in the general education curriculum.
+&emsp;&emsp;&emsp;(iv) whether any additions or modifications to the special education and relatedservices are needed to enable the child to meet the measurable annual goals set out in the individualized education program of the child and to participate, as appropriate, in the general education curriculum.
 
 #### (2) Source of data
 
@@ -262,7 +262,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) to be involved in and make progress in the general education curriculum in accordance with subclause (I) and to participate in extracurricular and other nonacademic activities; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) to be educated and participate with other children with disabilities and nondisabled children in the activities described in this subparagraph;
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) to be educated and participate with other children with disabilitiesand nondisabled children in the activities described in this subparagraph;
 
 &emsp;&emsp;&emsp;&emsp;(V) an explanation of the extent, if any, to which the child will not participate with nondisabled children in the regular class and in the activities described in subclause (IV)(cc);
 
@@ -342,7 +342,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;At the beginning of each school year, each local educational agency, State educational agency, or other State agency, as the case may be, shall have in effect, for each child with a disability in the agency's jurisdiction, an individualized education program, as defined in paragraph (1)(A).
+&emsp;&emsp;At the beginning of each school year, each local educational agency, State educationalagency, or other State agency, as the case may be, shall have in effect, for each child with a disability in the agency's jurisdiction, an individualized education program, as defined in paragraph (1)(A).
 
 #### (B) Program for child aged 3 through 5
 
@@ -358,7 +358,7 @@
 
 #### (I) Transfer within the same State
 
-&emsp;&emsp;&emsp;&emsp;In the case of a child with a disability who transfers school districts within the same academic year, who enrolls in a new school, and who had an IEP that was in effect in the same State, the localeducational agency shall provide such child with a free appropriate public education, including services comparable to those described in the previously held IEP, in consultation with the parents until such time as the local educational agency adopts the previously held IEP or develops, adopts, and implements a new IEP that is consistent with Federal and State law.
+&emsp;&emsp;&emsp;&emsp;In the case of a child with a disability who transfers school districts within the same academic year, who enrolls in a new school, and who had an IEP that was in effect in the same State, the local educational agency shall provide such child with a free appropriate public education, including services comparable to those described in the previously held IEP, in consultation with the parents until such time as the local educational agency adopts the previously held IEP or develops, adopts, and implements a new IEP that is consistent with Federal and State law.
 
 #### (II) Transfer outside State
 
@@ -406,7 +406,7 @@
 
 #### (D) Agreement
 
-&emsp;&emsp;In making changes to a child's IEP after the annual IEP meeting for a school year, the parent of a child with a disability and the local educational agency may agree not to convene an IEP meeting for the purposes of making such changes, and instead may develop a written document to amend or modify the child's current IEP.
+&emsp;&emsp;In making changes to a child's IEP after the annual IEP meeting for a school year,the parent of a child with a disability and the local educational agency may agree not to convene an IEP meeting for the purposes of making such changes, and instead may develop a written document to amend or modify the child's current IEP.
 
 #### (E) Consolidation of IEP Team meetings
 
@@ -484,7 +484,7 @@
 
 #### (B) Report
 
-&emsp;&emsp;Beginning 2 years after December 3, 2004, the Secretary shall submit an annual report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate regarding the effectiveness of the program under this paragraph and any specific recommendations for broader implementation of such program, including—
+&emsp;&emsp;Beginning 2 years after December 3, 2004, the Secretary shall submit an annual report to the Committee on Education and the Workforce of the House of Representativesand the Committee on Health, Education, Labor, and Pensions of the Senate regarding the effectiveness of the program under this paragraph and any specific recommendations for broader implementation of such program, including—
 
 &emsp;&emsp;&emsp;(i) reducing—
 
@@ -506,7 +506,7 @@
 
 #### (6) Failure to meet transition objectives
 
-&emsp;If a participating agency, other than the local educational agency, fails to provide thetransition services described in the IEP in accordance with paragraph (1)(A)(i)(VIII), the local educational agency shall reconvene the IEP Team to identify alternative strategies to meet the transition objectives for the child set out in the IEP.
+&emsp;If a participating agency, other than the local educational agency, fails to provide the transition services described in the IEP in accordance with paragraph (1)(A)(i)(VIII), the local educational agency shall reconvene the IEP Team to identify alternative strategies to meet the transition objectives for the child set out in the IEP.
 
 #### (7) Children with disabilities in adult prisons
 
@@ -532,6 +532,8 @@ When conducting IEP team <sup>2</sup> meetings and placement meetings pursuant 
 
 (Pub. L. 91–230, title VI, §614, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2702; amended Pub. L. 114–95, title IX, §9215(ss)(5), Dec. 10, 2015, 129 Stat. 2182.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 6368(3) of this title, as such section was in effect on the day before December 10, 2015, referred to in subsec. (b)(5)(A), means section 6368(3) of this title prior to being omitted in the general amendment of part B of subchapter I of chapter 70 of this title by Pub. L. 114–95, title I, §1201, Dec. 10, 2015, 129 Stat. 1879.
@@ -547,6 +549,8 @@ A prior section 1414a, Pub. L. 91–230, title VI, §614A, as added Pub. L. 103�
 #### Amendments
 
 <b>2015</b>—Subsec. (b)(5)(A). Pub. L. 114–95 inserted ", as such section was in effect on the day before December 10, 2015" after "of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

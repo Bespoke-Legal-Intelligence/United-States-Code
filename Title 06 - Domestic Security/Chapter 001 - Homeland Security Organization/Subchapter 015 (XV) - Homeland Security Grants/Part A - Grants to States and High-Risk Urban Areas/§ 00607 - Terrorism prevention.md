@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(E) training exercises to enhance preparedness for and response to mass casualty and active shooter incidents and security events at public locations, including airports and mass transit systems;
 
-&emsp;&emsp;(F) overtime expenses consistent with a State homeland security plan, including for the provision of enhanced law enforcement operations in support of Federal agencies, including for increased border security and border crossing enforcement;
+&emsp;&emsp;(F) overtime expenses consistent with a State homeland security plan, including forthe provision of enhanced law enforcement operations in support of Federal agencies, including for increased border security and border crossing enforcement;
 
 &emsp;&emsp;(G) establishing, enhancing, and staffing with appropriately qualified personnel State, local, and regional fusion centers that comply with the guidelines established under section 124h(i) of this title;
 

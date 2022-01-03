@@ -6,7 +6,7 @@ Motor Carrier Requirements.—
 
 &emsp;(1)
 
-Liability insurance requirement.—The Secretary may register a motor carrier under section 13902 only if the registrant files withthe Secretary a bond, insurance policy, or other type of security approved by the Secretary, in an amount not less than such amount as the Secretary prescribes pursuant to, or as is required by, sections 31138 and 31139, and the laws of the State or States in which the registrant is operating, to the extent applicable. The security must be sufficient to pay, not more than the amount of the security, for each final judgment against the registrant for bodily injury to, or death of, an individual resulting from the negligent operation, maintenance, or use of motor vehicles, or for loss or damage to property (except property referred to in paragraph (3) <sup>1</sup> of this subsection), or both. A registration remains in effect only as long as the registrant continues to satisfy the security requirements of this paragraph.
+Liability insurance requirement.—The Secretary may register a motor carrier under section 13902 only if the registrant files with the Secretary a bond, insurance policy, or other type of security approved by the Secretary, in an amount not less than such amount as the Secretary prescribes pursuant to, or as is required by, sections 31138 and 31139, and the laws of the State or States in which the registrant is operating, to the extent applicable. The security must be sufficient to pay, not more than the amount of the security, for each final judgment against the registrant for bodily injury to, or death of, an individual resulting from the negligent operation, maintenance, or use of motor vehicles, or for loss or damage to property (except property referred to in paragraph (3) <sup>1</sup> of this subsection), or both. A registration remains in effect only as long as the registrant continues to satisfy the security requirements of this paragraph.
 
 &emsp;(2)
 
@@ -76,7 +76,7 @@ Cancellation notice.—If a financial security required under this subsection is
 
 &emsp;&emsp;(A) the holder of the financial security shall provide electronic notification to the Secretary of the cancellation not later than 30 days before the effective date of the cancellation; and
 
-&emsp;&emsp;(B) the Secretary shall immediately post such notification on the public InternetWebsite of the Department of Transportation.
+&emsp;&emsp;(B) the Secretary shall immediately post such notification on the public Internet Website of the Department of Transportation.
 
 &emsp;(5)
 
@@ -176,7 +176,7 @@ Freight forwarder insurance.—
 
 &emsp;&emsp;(A)
 
-In general.—The Secretary may register a person as a freight forwarder under section 13903 only if the person files with theSecretary a surety bond, insurance policy, or other type of financial security that meets standards prescribed by the Secretary.
+In general.—The Secretary may register a person as a freight forwarder under section 13903 only if the person files with the Secretary a surety bond, insurance policy, or other type of financial security that meets standards prescribed by the Secretary.
 
 &emsp;&emsp;(B)
 
@@ -250,6 +250,8 @@ Form of Endorsement.—The Secretary shall also prescribe the appropriate form o
 
 (Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 885; amended Pub. L. 104–287, §5(34), Oct. 11, 1996, 110 Stat. 3392; Pub. L. 109–59, title IV, §4303(b), (d)(1), Aug. 10, 2005, 119 Stat. 1762, 1763; Pub. L. 112–141, div. C, title II, §32918(a), July 6, 2012, 126 Stat. 822; Pub. L. 114–94, div. A, title V, §5201, Dec. 4, 2015, 129 Stat. 1534.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Paragraph (3) of this subsection, referred to in subsec. (a)(1), was redesignated as paragraph (4) of subsec. (a) of this section by Pub. L. 109–59, title IV, §4303(b)(1), Aug. 10, 2005, 119 Stat. 1762.
@@ -267,6 +269,8 @@ The date of enactment of the Unified Carrier Registration Act of 2005, referred 
 Subsec. (a)(2) to (4). Pub. L. 109–59, §4303(b), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
 <b>1996</b>—Subsec. (d). Pub. L. 104–287 substituted "January 1, 1996," for "the effective date of this section".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 
@@ -290,7 +294,7 @@ Except as provided in sections 14504, 14504a, and 14506 of this title, subtitle 
 
 #### Self-Insurance Rules
 
-Pub. L. 104–88, title I, §104(h), Dec. 29, 1995, 109 Stat. 920, provided that: "The Secretary of Transportation shall continue to enforce the rules and regulations of the Interstate Commerce Commission, as in effect on July 1, 1995, governing the qualifications for approval of a motor carrier as a self-insurer, until such time as the Secretary finds it in the public interest to revise such rules. The revised rules must provide for—
+Pub. L. 104–88, title I, §104(h), Dec. 29, 1995, 109 Stat. 920, provided that: "The Secretary of Transportationshall continue to enforce the rules and regulations of the Interstate Commerce Commission, as in effect on July 1, 1995, governing the qualifications for approval of a motor carrier as a self-insurer, until such time as the Secretary finds it in the public interest to revise such rules. The revised rules must provide for—
 
 &emsp;"(1) continued ability of motor carriers to qualify as self-insurers; and
 

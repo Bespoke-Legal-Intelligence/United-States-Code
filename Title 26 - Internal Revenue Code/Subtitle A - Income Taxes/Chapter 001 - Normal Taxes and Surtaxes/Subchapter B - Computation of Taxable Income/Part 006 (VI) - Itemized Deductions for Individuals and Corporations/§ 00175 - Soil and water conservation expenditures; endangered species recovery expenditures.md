@@ -6,7 +6,7 @@ A taxpayer engaged in the business of farming may treat expenditures which are p
 
 #### (b) Limitation
 
-The amount deductible under subsection (a) for any taxable year shall not exceed 25 percent of the gross income derived from farming during the taxable year. If for any taxable year the total of the expenditures treated as expenses which are not chargeable to capital account exceeds 25 percent of the gross income derived from farming during the taxable year, such excess shall be deductible for succeeding taxableyears in order of time; but the amount deductible under this section for any one such succeeding taxable year (including the expenditures actually paid or incurred during the taxable year) shall not exceed 25 percent of the gross income derived from farming during the taxable year.
+The amount deductible under subsection (a) for any taxable year shall not exceed 25 percent of the gross income derived from farming during the taxable year. If for any taxable year the total of the expenditures treated as expenses which are not chargeable to capital account exceeds 25 percent of the gross income derived from farming during the taxable year, such excess shall be deductible for succeeding taxable years in order of time; but the amount deductible under this section for any one such succeeding taxable year (including the expenditures actually paid or incurred during the taxable year) shall not exceed 25 percent of the gross income derived from farming during the taxable year.
 
 #### (c) Definitions
 
@@ -68,6 +68,8 @@ The method adopted under this section shall apply to all expenditures described 
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 67; Pub. L. 90–630, §5(a), (b), Oct. 22, 1968, 82 Stat. 1329; Pub. L. 94–455, title XIX, §§1901(a)(30), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1769, 1834; Pub. L. 99–514, title IV, §401(a), Oct. 22, 1986, 100 Stat. 2221; Pub. L. 110–234, title XV, §15303(a)(1)–(2)(B), (b), May 22, 2008, 122 Stat. 1501, 1502; Pub. L. 110–246, §4(a), title XV, §15303(a)(1)–(2)(B), (b), June 18, 2008, 122 Stat. 1664, 2263, 2264; Pub. L. 113–295, div. A, title II, §221(a)(33), Dec. 19, 2014, 128 Stat. 4042.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Endangered Species Act of 1973, referred to in subsec. (c)(1), (3)(A)(i), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
@@ -105,6 +107,8 @@ Subsecs. (d)(2), (e). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his del
 <b>1968</b>—Subsec. (c)(1). Pub. L. 90–630, §5(a), in text following subpar. (B), designated as cl. (i) existing provisions covering amounts which, if paid or incurred by the taxpayer, would without regard to the exception constitute deductible expenditures, and added cl. (ii).
 
 Subsec. (f). Pub. L. 90–630, §5(b), added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

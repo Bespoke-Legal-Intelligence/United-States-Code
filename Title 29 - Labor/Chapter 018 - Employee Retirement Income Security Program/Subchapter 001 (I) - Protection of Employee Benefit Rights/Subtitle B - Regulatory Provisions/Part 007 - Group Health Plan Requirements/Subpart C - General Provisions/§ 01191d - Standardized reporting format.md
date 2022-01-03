@@ -58,7 +58,7 @@ Not later than 1 year after December 27, 2020, the Secretary shall establish (an
 
 #### (c) State All Payer Claims Database
 
-In this section, the term "State All Payer Claims Database" means, with respect to a State, a database that may include medical claims, pharmacy claims, dental claims, and eligibility and provider files, which are collected from private and public payers.
+In this section, the term "State All Payer Claims Database" means, with respect to a State, a database that may include medicalclaims, pharmacy claims, dental claims, and eligibility and provider files, which are collected from private and public payers.
 
 #### (d) Authorization of appropriations
 

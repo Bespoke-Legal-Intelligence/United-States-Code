@@ -1,12 +1,16 @@
 ### §50. Reception and arrangement of specimens and objects of art
 
-Whenever suitable arrangements can be made from time to time for their reception, all objects of art and of foreign and curious research, and all objects of natural history, plants, and geological and mineralogical specimens belonging to the United States, which may be in the city of Washington, in whosesoever custody they may be, shall be delivered to such persons as may be authorized by the Board of Regents to receive them, and shall be so arranged and classified in the building erected for the institution as best to facilitate the examination and study of them; and whenever new specimens in natural history, geology, or mineralogy are obtained for the museum of the institution, by exchanges of duplicate specimens, which the Regents may in their discretion make, or by donation, which they may receive, or otherwise, the Regents shall cause such new specimens to be appropriately classed and arranged. The minerals, books, manuscripts, and other property of James Smithson, which have been received by the Government of the United States, shall be preserved separate and apart from other property of the institution.
+Whenever suitable arrangements can be made from time to time for their reception, all objects of art and of foreign and curious research, and all objects of natural history, plants, and geological and mineralogical specimens belonging to the United States, which may be in the city of Washington, in whosesoever custody theymay be, shall be delivered to such persons as may be authorized by the Board of Regents to receive them, and shall be so arranged and classified in the building erected for the institution as best to facilitate the examination and study of them; and whenever new specimens in natural history, geology, or mineralogy are obtained for the museum of the institution, by exchanges of duplicate specimens, which the Regents may in their discretion make, or by donation, which they may receive, or otherwise, the Regents shall cause such new specimens to be appropriately classed and arranged. The minerals, books, manuscripts, and other property of James Smithson, which have been received by the Government of the United States, shall be preserved separate and apart from other property of the institution.
 
 (R.S. §5586.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
 R.S. §5586 derived from act Aug. 10, 1846, ch. 178, §6, 9 Stat. 105.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Laboratory Space, Gamboa, Panama
 
@@ -18,7 +22,7 @@ Authority To Construct.—The Board of Regents of the Smithsonian Institution is
 
 "(b)
 
-Authorization of Appropriations.—There is authorized to be appropriated to carry out this section atotal of $14,000,000 for fiscal years 2009 and 2010. Such sums shall remain available until expended."
+Authorization of Appropriations.—There is authorized to be appropriated to carry out this section a total of $14,000,000 for fiscal years 2009 and 2010. Such sums shall remain available until expended."
 
 #### Veritas Astrophysical Observatory Project; Authorization of Construction and Appropriations
 
@@ -190,7 +194,7 @@ Pub. L. 97–203, June 24, 1982, 96 Stat. 129, provided: "That the Board of Rege
 
 Pub. L. 96–36, July 20, 1979, 93 Stat. 94, provided: "That the Board of Regents of the Smithsonian Institution is authorized to plan for the development of the area south of the original Smithsonian Institution Building adjacent to Independence Avenue at Tenth Street, Southwest, in the city of Washington.
 
-"Sec. 2. Effective October 1, 1979, there is authorized to be appropriated to the Board of Regents of the Smithsonian Institution $500,000 to carry out the purposes of this Act.
+"Sec. 2. Effective October 1, 1979, there is authorized to be appropriated to the Board of Regents of theSmithsonian Institution $500,000 to carry out the purposes of this Act.
 
 "Sec. 3. Any portion of the sums appropriated to carry out the purposes of this Act may be transferred to the General Services Administration which, in consultation with the Smithsonian Institution, is authorized to enter into contracts and take such other action, to the extent of the sums so transferred to it, as may be necessary to carry out such purposes."
 
@@ -210,7 +214,7 @@ Pub. L. 94–98, Sept. 19, 1975, 89 Stat. 480, as amended by Pub. L. 95–569, N
 
 "
 
-Sec. 2. The museum support facilities referred to in section 1 shall be located on federally owned land within the metropolitan area of Washington, District of Columbia. Any Federal agency is authorized to transferland under its jurisdiction to the Smithsonian Institution for such purposes without reimbursement.
+Sec. 2. The museum support facilities referred to in section 1 shall be located on federally owned land within the metropolitan area of Washington, District of Columbia. Any Federal agency is authorized to transfer land under its jurisdiction to the Smithsonian Institution for such purposes without reimbursement.
 
 "
 

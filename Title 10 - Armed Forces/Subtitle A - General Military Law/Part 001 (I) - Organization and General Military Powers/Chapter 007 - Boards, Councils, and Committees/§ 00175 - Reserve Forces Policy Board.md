@@ -38,6 +38,8 @@ In subsection (a), the word "are" is substituted for the words "is established",
 
 In subsection (b), the words "Regular Coast Guard or Coast Guard Reserve" are substituted for the words "Regular or Reserve \* \* \* Coast Guard".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–337, §1661(b)(3), amended section generally, substituting single undesignated par. for former subsecs. (a) to (f) relating to establishment, composition, functions, and powers of Reserve Forces Policy Board.
@@ -67,6 +69,8 @@ Subsec. (d). Pub. L. 90–168, §2(4), inserted references to sections 5251 and 
 Subsec. (e). Pub. L. 90–168, §2(4), substituted "member of a committee or board prescribed under a section listed in subsection (d)" for "member of a committee under section 3033 or 8033 of this title".
 
 Subsec. (f). Pub. L. 90–168, §2(4), added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

@@ -24,9 +24,13 @@
 
 (Pub. L. 89–92, §7, as added Pub. L. 98–474, §5(a), Oct. 12, 1984, 98 Stat. 2203.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 7 of Pub. L. 89–92 was renumbered section 8 and is classified to section 1336 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

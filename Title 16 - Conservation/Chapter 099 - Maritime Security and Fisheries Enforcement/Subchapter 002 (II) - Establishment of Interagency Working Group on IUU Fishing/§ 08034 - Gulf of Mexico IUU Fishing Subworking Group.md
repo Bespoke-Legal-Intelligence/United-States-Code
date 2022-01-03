@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than 90 days after December 20, 2019, the Administrator of the National Oceanic and Atmospheric Administration, in coordination with the Commandant of the Coast Guard and the Secretary of State, shall establish a subworking group to address IUU fishing in the exclusive economic zone of the United States in the Gulf of Mexico.
+Not later than 90 days after December 20, 2019, the Administrator of the National Oceanic and Atmospheric Administration, in coordination with the Commandant of the Coast Guard andthe Secretary of State, shall establish a subworking group to address IUU fishing in the exclusive economic zone of the United States in the Gulf of Mexico.
 
 #### (b) Functions
 
@@ -28,7 +28,9 @@ Not later than 1 year after the IUU Fishing Subworking Group is established unde
 
 (Pub. L. 116–92, div. C, title XXXV, §3554, Dec. 20, 2019, 133 Stat. 2008.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The High Seas Driftnet Fishing Moratorium Protection Act, referred to in subsec. (b)(1)(B), is Pub. L.104–43, title VI, Nov. 3, 1995, 109 Stat. 391, which enacted sections 1826d to 1826g of this title and provisions set out as a note under section 1826d of this title. For complete classification of this Act to the Code, see Short Title of 1995 Amendment note set out under section 1801 of this title and Tables.
+The High Seas Driftnet Fishing Moratorium Protection Act, referred to in subsec. (b)(1)(B), is Pub. L. 104–43, title VI, Nov. 3, 1995, 109 Stat. 391, which enacted sections 1826d to 1826g of this title and provisions set out as a note under section 1826d of this title. For complete classification of this Act to the Code, see Short Title of 1995 Amendment note set out under section 1801 of this title and Tables.
 

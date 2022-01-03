@@ -2,7 +2,7 @@
 
 #### (a) Policy
 
-For programs supported by the Foundation that require as part of the selection process for awards the submission of preproposals and that also limit the number of preproposals that may be submitted by an institution, the Director shall allow the subsequent submission of a full proposal based on each preproposal that is determined to have merit following the Foundation's merit review process.
+For programs supported by the Foundation that require as part of the selection process forawards the submission of preproposals and that also limit the number of preproposals that may be submitted by an institution, the Director shall allow the subsequent submission of a full proposal based on each preproposal that is determined to have merit following the Foundation's merit review process.
 
 #### (b) Review and assessment of policies
 
@@ -10,9 +10,13 @@ The Board shall review and assess the effects on institutions of higher educatio
 
 (Pub. L. 110–69, title VII, §7037, Aug. 9, 2007, 121 Stat. 714.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the America COMPETES Act, also known as the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Act, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

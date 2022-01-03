@@ -24,6 +24,8 @@ In this part:
 
 (Pub. L. 89–10, title I, §1432, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1591; amended Pub. L. 114–95, title I, §1401(15), Dec. 10, 2015, 129 Stat. 1905.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 6472, Pub. L. 89–10, title I, §1432, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3601, defined terms for this part, prior to the general amendment of this subchapter by Pub. L. 107–110.
@@ -33,6 +35,8 @@ A prior section 1432 of Pub. L. 89–10 was classified to section 2832 of this t
 #### Amendments
 
 <b>2015</b>—Par. (2). Pub. L. 114–95 inserted "dependency adjudication, or delinquency adjudication," after "failure,", inserted "or child welfare system" after "juvenile justice system", and substituted "is an English learner" for "has limited English proficiency".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

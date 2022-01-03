@@ -22,7 +22,7 @@ Whenever any foreign country or instrumentality withdraws, suspends, or modifies
 
 #### (e) Continuation of duties or other import restrictions after termination of or withdrawal from agreements
 
-Duties or other import restrictions required or appropriate to carry out any trade agreemententered into pursuant to this chapter, section 1821 of this title, or section 1351 of this title shall not be affected by any termination, in whole or in part, of such agreement or by the withdrawal of the United States from such agreement and shall remain in effect after the date of such termination or withdrawal for 1 year, unless the President by proclamation provides that such rates shall be restored to the level at which they would be but for the agreement. Within 60 days after the date of any such termination or withdrawal, the President shall transmit to the Congress his recommendations as to the appropriate rates of duty for all articles which were affected by the termination or withdrawal or would have been so affected but for the preceding sentence.
+Duties or other import restrictions required or appropriate to carry out any trade agreement entered into pursuant to this chapter, section 1821 of this title, or section 1351 of this title shall not be affected by any termination, in whole or in part, of such agreement or by the withdrawal of the United States from such agreement and shall remain in effect after the date of such termination or withdrawal for 1 year, unless the President by proclamation provides that such rates shall be restored to the level at which they would be but for the agreement. Within 60 days after the date of any such termination or withdrawal, the President shall transmit to the Congress his recommendations as to the appropriate rates of duty for all articles which were affected by the termination or withdrawal or would have been so affected but for the preceding sentence.
 
 #### (f) Public hearings
 
@@ -30,11 +30,15 @@ Before taking any action pursuant to subsection (b), (c), or (d), the President 
 
 (Pub. L. 93–618, title I, §125, Jan. 3, 1975, 88 Stat. 1991.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This chapter, referred to in subsecs. (b), (c), (e), was in the original "this Act", meaning Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
+This chapter, referred to in subsecs. (b), (c), (e), was in the original "this Act", meaning Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended, which is classified principally to this chapter. For complete classificationof this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
 
 The Tariff Schedules of the United States, referred to in subsec. (c), to be treated as a reference to the Harmonized Tariff Schedule pursuant to section 3012 of this title. The Harmonized Tariff Schedule is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Authority To Increase Duties on Imports of Certain Tobacco and Tobacco Products
 

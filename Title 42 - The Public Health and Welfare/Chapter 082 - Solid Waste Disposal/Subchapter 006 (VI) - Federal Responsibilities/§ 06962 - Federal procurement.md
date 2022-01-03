@@ -42,9 +42,9 @@ All Federal agencies that have the responsibility for drafting or reviewing spec
 
 #### (e) Guidelines
 
-The Administrator, after consultation with the Administrator of General Services, the Secretary of Commerce (acting through the National Institute of Standards and Technology), and the Director of the Government Publishing Office, shall prepare, and from time to time revise, guidelines for the use of procuring agencies in complying with the requirements of this section. Such guidelines shall—
+The Administrator, after consultation with the Administrator of General Services, the Secretary of Commerce (acting through the National Institute of Standards and Technology), and the Director of the Government Publishing Office, shall prepare, review not less frequently than once every 5 years, and, if appropriate, revise, in consultation with recyclers and manufacturers of products containing recycled content, not later than 2 years after the completion of the initial review after November 15, 2021, and thereafter, as appropriate, guidelines for the use of procuring agencies in complying with the requirements of this section. Such guidelines shall—
 
-&emsp;(1) designate those items which are or can be produced with recovered materials and whose procurement by procuring agencies will carry out the objectives of this section, and in the case of paper, provide for maximizing the use of post consumer recovered materials referred to in subsection (h)(1); and
+&emsp;(1) designate those items which are or can be produced with recovered materials and whose procurement by procuring agencies will carry out the objectives of this section, and in thecase of paper, provide for maximizing the use of post consumer recovered materials referred to in subsection (h)(1); and
 
 &emsp;(2) set forth recommended practices with respect to the procurement of recovered materials and items containing such materials and with respect to certification by vendors of the percentage of recovered materials used,
 
@@ -112,13 +112,35 @@ As used in this section, in the case of paper products, the term "recovered mate
 
 > Procuring agencies shall adopt one of the options set forth in subparagraphs (A) and (B) or a substantially equivalent alternative, for inclusion in the affirmative procurement program.
 
-(Pub. L. 89–272, title II, §6002, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2822; amended Pub. L. 95–609, §7(n), Nov. 8, 1978, 92 Stat. 3082; Pub. L. 96–482, §22, Oct. 21, 1980, 94 Stat. 2346; Pub. L. 97–375, title I, §102, Dec. 21, 1982, 96 Stat. 1819; Pub. L. 98–616, title V, §501(a)–(e), Nov. 8, 1984, 98 Stat. 3274–3276; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 102–393, title VI, §630, Oct. 6, 1992, 106 Stat. 1773; Pub. L. 103–355, title I, §1554(1), title IV, §4104(e), Oct. 13, 1994, 108 Stat. 3300, 3342; Pub. L. 113–235, div. H, title I, §1301(d), Dec. 16, 2014, 128 Stat. 2537.)
+#### (j) Consultation and provision of information by Administrator
+
+The Administrator shall—
+
+&emsp;(1) consult with each procuring agency, including contractors of the procuring agency, to clarify the responsibilities of the procuring agency under this section; and
+
+&emsp;(2) provide to each procuring agency information on the requirements under this section and the responsibilities of the procuring agency under this section.
+
+#### (k) Reports
+
+The Administrator, in consultation with the Administrator of General Services, shall submit to Congress an annual report describing—
+
+&emsp;(1) the quantity of federally procured recycled products listed in the guidelines under subsection (e); and
+
+&emsp;(2) with respect to the products described in paragraph (1), the percentage of recycled material in each product.
+
+(Pub. L. 89–272, title II, §6002, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2822; amended Pub. L. 95–609, §7(n), Nov. 8, 1978, 92 Stat. 3082; Pub. L. 96–482, §22, Oct. 21, 1980, 94 Stat. 2346; Pub. L. 97–375, title I, §102, Dec. 21, 1982, 96 Stat. 1819; Pub. L. 98–616, title V, §501(a)–(e), Nov. 8, 1984, 98 Stat. 3274–3276; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 102–393, title VI, §630, Oct. 6, 1992, 106 Stat. 1773; Pub. L. 103–355, title I, §1554(1), title IV, §4104(e), Oct. 13, 1994, 108 Stat. 3300, 3342; Pub. L. 113–235, div. H, title I, §1301(d), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 117–58, div. G, title IV, §70402(c), Nov. 15, 2021, 135 Stat. 1265.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
 Pub. L. 102–393, title VI, §630, Oct. 6, 1990, 106 Stat. 1773, which directed that this title be amended by adding a new section 6962j, relating to a preference for recycled toner cartridges, and which had been executed by adding the provisions of purported new section as subsec. (j) of this section, to reflect the probable intent of Congress, was repealed by Pub. L. 103–355, title I, §1554(1), Oct. 13, 1994, 108 Stat. 3300. Similar provisions were contained in Pub. L. 103–123, title IV, §401, Oct. 28, 1993, 107 Stat. 1238, prior to repeal by Pub. L. 103–355, title I, §1554(2), Oct. 13, 1994, 108 Stat. 3300.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (e). Pub. L. 117–58, §70402(c)(1), which directed substitution of "review not less frequently than once every 5 years, and, if appropriate, revise, in consultation with recyclers and manufacturers of products containing recycled content, not later than 2 years after the completion of the initial review after November 15, 2021, and thereafter, as appropriate" for "and from time to time, revise" in introductory provisions, was executed by making the substitution for "and from time to time revise" to reflect the probable intent of Congress.
+
+Subsecs. (j), (k). Pub. L. 117–58, §70402(c)(2), added subsecs. (j) and (k).
 
 <b>1994</b>—Subsec. (c)(3). Pub. L. 103–355, §4104(e), designated existing provisions as subpar. (A), redesignated subpars. (A) and (B) as cls. (i) and (ii), respectively, and added subpar. (B).
 
@@ -128,7 +150,7 @@ Subsec. (j). Pub. L. 103–355, §1554(1), struck out subsec. (j). See Codificat
 
 <b>1988</b>—Subsecs. (c)(1)(C), (e). Pub. L. 100–418 substituted "National Institute of Standards and Technology" for "Bureau of Standards".
 
-<b>1984</b>—Subsec. (c)(1). Pub. L. 98–616, §501(c), inserted "(and in the case of paper, the highest percentage ofthe postconsumer recovered materials referred to in subsection (h)(1) practicable)".
+<b>1984</b>—Subsec. (c)(1). Pub. L. 98–616, §501(c), inserted "(and in the case of paper, the highest percentage of the postconsumer recovered materials referred to in subsection (h)(1) practicable)".
 
 Subsec. (d)(1). Pub. L. 98–616, §501(e), substituted "eighteen months after November 8, 1984" for "five years after October 21, 1976".
 
@@ -148,7 +170,7 @@ Subsec. (c)(2). Pub. L. 96–482, §22(3), substituted "energy or fuels derived 
 
 Subsec. (c)(3). Pub. L. 96–482, §22(4), substituted subpars. (A) and (B) for provision requiring certification of the percentage of the total material utilized for the performance of the contract which is recovered materials.
 
-Subsec. (d). Pub. L. 96–482, §22(5), in par. (1), substituted provision requiring Federal agencies to eliminate from specifications as expeditiously as possible, but in no event later than 5 years after Oct. 21, 1976, any exclusion of recovered materials and any requirement that items be manufactured from virgin materials for provision that Federal agencies in reviewing specifications, ascertain whether those specifications violate prohibitions in par. (2)(A) to (C), with such review undertaken not later than 18 months after Oct. 21, 1976, and in par. (2), substituted provision that Federal agencies act within 1 year from publication of applicable guidelines under subsec. (e) of this section for provision that in drafting or revising specifications after Oct. 21, 1976, any exclusion of recovered materials be eliminated and specifications not require the item to be manufactured from virgin materials.
+Subsec. (d). Pub. L. 96–482, §22(5), in par. (1), substituted provision requiring Federal agencies to eliminate from specifications as expeditiously as possible, but in no event later than 5 years after Oct. 21, 1976, any exclusion of recovered materials and any requirement that items be manufactured from virgin materials for provision that Federal agencies in reviewing specifications, ascertain whether those specifications violate prohibitions in par. (2)(A) to (C), with such review undertaken not later than 18 months after Oct. 21, 1976, and in par. (2), substituted provision that Federalagencies act within 1 year from publication of applicable guidelines under subsec. (e) of this section for provision that in drafting or revising specifications after Oct. 21, 1976, any exclusion of recovered materials be eliminated and specifications not require the item to be manufactured from virgin materials.
 
 Subsec. (e). Pub. L. 96–482, §22(6), designated provision relating to requirements of guidelines as cl. (2) and subpars. (A) and (C), added cl. (1), subpars. (B) and (C), and provision preceding subpar. (A), and struck out provision requiring information on source of supply.
 
@@ -156,13 +178,17 @@ Subsec. (e). Pub. L. 96–482, §22(6), designated provision relating to require
 
 Subsec. (e). Pub. L. 95–609, §7(n)(3), inserted provision dealing with certification by vendors of the materials used.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 "Director of the Government Publishing Office" substituted for "Public Printer" in subsec. (e) on authority of section 1301(d) of Pub. L. 113–235, set out as a note under section 301 of Title 44, Public Printing and Documents.
 
 #### Effective Date of 1994 Amendment
 
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 2302 of Title 10, Armed Forces.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 8752 of Title 10, Armed Forces.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

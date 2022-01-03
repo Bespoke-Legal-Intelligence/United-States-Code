@@ -38,6 +38,8 @@ Modification.—If the Secretary modifies the guidance issued under paragraph (1
 
 (Added Pub. L. 110–417, \[div. A\], title XII, §1205(a)(1), Oct. 14, 2008, 122 Stat. 4623, §2249d; renumbered §346 and amended Pub. L. 114–328, div. A, title XII, §1241(h), Dec. 23, 2016, 130 Stat. 2507.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Arms Export Control Act, referred to in subsec. (d), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
@@ -49,6 +51,8 @@ The Arms Export Control Act, referred to in subsec. (d), is Pub. L. 90–629, Oc
 Subsecs. (a), (d). Pub. L. 114–328, §1241(h)(2)(A), substituted "countries" for "nations".
 
 Subsecs. (f), (g). Pub. L. 114–328, §1241(h)(2)(B), struck out subsecs. (f) and (g) which, respectively, required the Secretary of Defense to submit annual reports to the appropriate committees of Congress and defined "appropriate committees of Congress".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

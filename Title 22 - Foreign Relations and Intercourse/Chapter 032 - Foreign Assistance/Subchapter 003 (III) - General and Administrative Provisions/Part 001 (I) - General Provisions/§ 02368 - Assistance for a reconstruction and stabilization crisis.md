@@ -24,7 +24,7 @@ The authority contained in this section may be exercised only during fiscal year
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(2), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsec. (a)(2), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4,1961, 75 Stat. 424, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Prior Provisions
 
@@ -42,7 +42,7 @@ Pub. L. 110–417, \[div. A\], title XVI, §1602, Oct. 14, 2008, 122 Stat. 4653,
 
 &emsp;"(2) In December 2005, the Coordinator's mandate was reaffirmed by the National Security Presidential Directive 44, which instructed the Secretary of State, and at the Secretary's direction, the Coordinator, to coordinate and lead integrated United States Government efforts, involving all United States departments and agencies with relevant capabilities, to prepare, plan for, and conduct reconstruction and stabilization operations.
 
-&emsp;"(3) National Security Presidential Directive 44 assigns to the Secretary, with the Coordinator's assistance, the lead role to develop reconstruction and stabilization strategies, ensure civilian interagency program and policy coordination, coordinate interagency processes to identify countries at risk of instability, provide decision-makers with detailed options for an integrated United States Government response in connection with reconstruction and stabilization operations, and carry out a wide range ofother actions, including the development of a civilian surge capacity to meet reconstruction and stabilization emergencies. The Secretary and the Coordinator are also charged with coordinating with the Department of Defense on reconstruction and stabilization responses, and integrating planning and implementing procedures.
+&emsp;"(3) National Security Presidential Directive 44 assigns to the Secretary, with the Coordinator's assistance, the lead role to develop reconstruction and stabilization strategies, ensure civilian interagency program and policy coordination, coordinate interagency processes to identify countries at risk of instability, provide decision-makers with detailed options for an integrated United States Government response in connection with reconstruction and stabilization operations, and carry out a wide range of other actions, including the development of a civilian surge capacity to meet reconstruction and stabilization emergencies. The Secretary and the Coordinator are also charged with coordinating with the Department of Defense on reconstruction and stabilization responses, and integrating planning and implementing procedures.
 
 &emsp;"(4) The Department of Defense issued Directive 3000.05, which establishes that stability operations are a core United States military mission that the Department of Defense must be prepared to conduct and support, provides guidance on stability operations that will evolve over time, and assigns responsibilities within the Department of Defense for planning, training, and preparing to conduct and support stability operations.
 

@@ -60,7 +60,7 @@ The overall trade negotiating objectives of the United States are to obtain—
 
 &emsp;&emsp;(C) creating a free and more open world agricultural trading system by resolving questions pertaining to export and other trade-distorting subsidies, market pricing and market access and eliminating and reducing substantially other specific constraints to fair trade and more open market access, such as tariffs, quotas, and other nontariff practices, including unjustified phytosanitary and sanitary restrictions; and
 
-&emsp;&emsp;(D) seeking agreements by which the major agricultural exporting nations agree to pursue policies to reduce excessive production of agricultural commodities during periods of oversupply, with due regard forthe fact that the United States already undertakes such policies, and without recourse to arbitrary schemes to divide market shares among major exporting countries.
+&emsp;&emsp;(D) seeking agreements by which the major agricultural exporting nations agree to pursue policies to reduce excessive production of agricultural commodities during periods of oversupply, with due regard for the fact that the United States already undertakes such policies, and without recourse to arbitrary schemes to divide market shares among major exporting countries.
 
 #### (8) Unfair trade practices
 
@@ -142,7 +142,7 @@ The overall trade negotiating objectives of the United States are to obtain—
 
 &emsp;&emsp;&emsp;(II) will reduce or eliminate the trade distortive effects of certain trade-related investment measures.
 
-&emsp;(B) In pursuing the negotiating objectives described in subparagraph (A), United Statesnegotiators shall take into account legitimate United States domestic objectives including, but not limited to, the protection of legitimate health or safety, essential security, environmental, consumer or employment opportunity interests and the law and regulations related thereto.
+&emsp;(B) In pursuing the negotiating objectives described in subparagraph (A), United States negotiators shall take into account legitimate United States domestic objectives including, but not limited to, the protection of legitimate health or safety, essential security, environmental, consumer or employment opportunity interests and the law and regulations related thereto.
 
 #### (12) Safeguards
 
@@ -192,13 +192,15 @@ The overall trade negotiating objectives of the United States are to obtain—
 
 &emsp;&emsp;(iv) otherwise denying equitable access by United States persons to foreign-developed technology or contributing to the inequitable flow of technology between the United States and its trading partners.
 
-&emsp;(B) In pursuing the negotiating objective described in subparagraph (A), the United States negotiators shall take into account United States Government policies in licensing or otherwise making available to foreign persons technology and other information developed by United States laboratories.
+&emsp;(B) In pursuing the negotiating objective described in subparagraph (A), the United States negotiators shall take into account UnitedStates Government policies in licensing or otherwise making available to foreign persons technology and other information developed by United States laboratories.
 
 #### (16) Border taxes
 
 &emsp;The principal negotiating objective of the United States regarding border taxes is to obtain a revision of the GATT with respect to the treatment of border adjustments for internal taxes to redress the disadvantage to countries relying primarily for revenue on direct taxes rather than indirect taxes.
 
 (Pub. L. 100–418, title I, §1101, Aug. 23, 1988, 102 Stat. 1121.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 
@@ -258,6 +260,8 @@ Purposes.—The purposes of this title \[see Tables for classification\] are to�
 
 &emsp;"(4) through these actions, improve standards of living in the world."
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 12661. Implementing Omnibus Trade and Competitiveness Act of 1988 and Related International Trade Matters
 
 Ex. Ord. No. 12661, Dec. 27, 1988, 54 F.R. 779, as amended by Ex. Ord. No. 12697, Dec. 22, 1989, 54 F.R. 53037; Ex. Ord. No. 12716, May 24, 1990, 55 F.R. 21831; Ex. Ord. No. 12774, Sept. 27, 1991, 56 F.R. 49835, provided:
@@ -280,7 +284,7 @@ Sec. 1–501. <i>Uniform Fee on Imports</i>. The functions vested in the Preside
 
 Sec. 2–101. <i>Countertrade and Barter.</i>
 
-(1) <i>Establishment</i>. There is established an Interagency Group on Countertrade, which shall be composed of the Secretaries of Commerce, State, Defense, Treasury, Labor, Agriculture, and Energy, the Attorney General, the Administrator of the Agency for International Development, the Director \[Administrator\] of the Federal Emergency Management Agency, the United States Trade Representative and the Director of the Office of Management and Budget, or their respective representatives. The Secretary of Commerce or his representative shall be the Chairman of the interagency group.
+(1) <i>Establishment</i>. There is established an Interagency Group on Countertrade, which shall be composed of the Secretaries of Commerce, State, Defense, Treasury, Labor, Agriculture, and Energy, the Attorney General, the Administrator of the Agency for International Development, the Director \[Administrator\] of the Federal Emergency Management Agency, the United StatesTrade Representative and the Director of the Office of Management and Budget, or their respective representatives. The Secretary of Commerce or his representative shall be the Chairman of the interagency group.
 
 (2) <i>Functions</i>. The interagency group shall carry out the functions and duties set out in section 2205(a) of the Omnibus Trade Act \[15 U.S.C. 4712(a)\].
 
@@ -298,7 +302,7 @@ Sec. 2–201. <i>Sanctions Against Toshiba and Kongsberg.</i>
 
 Sec. 3–101. <i>Foreign Corrupt Practices Act Amendments.</i>
 
-The functions conferred upon the President by section 5003(d)(1) ("International Agreement") of the Omnibus Trade Act \[15 U.S.C. 78dd–1 note\] are delegated to the Secretary of State, who in performing such functions shall act in consultation with the Attorney General, the United States Trade Representative, theChairman of the Securities and Exchange Commission, the Secretary of Commerce, the Secretary of the Treasury and the Director of the Office of Management and Budget.
+The functions conferred upon the President by section 5003(d)(1) ("International Agreement") of the Omnibus Trade Act \[15 U.S.C. 78dd–1 note\] are delegated to the Secretary of State, who in performing such functions shall act in consultation with the Attorney General, the United States Trade Representative, the Chairman of the Securities and Exchange Commission, the Secretary of Commerce, the Secretary of the Treasury and the Director of the Office of Management and Budget.
 
 Sec. 3–201. <i>Authority to Review Certain Mergers, Acquisitions, and Takeovers.</i>
 
@@ -332,7 +336,7 @@ Sec. 3–301. <i>Reporting Requirement on Semiconductors, Fiber Optics and Super
 
 (B) Federal research and acquisition policies for fiber optics and optical-electronic technologies generally;
 
-(C) Superconducting materials, including descriptions of research priorities, the scientific and technical barriers to commercialization which such research is designed to overcome, steps taken to ensure coordination among Federal agencies conducting research on superconducting materials, and steps taken to consult with private United States industry to ensure that no unnecessary duplication of research exists and that all important scientific and technical barriers to the commercialization of superconducting materials will be addressed; and
+(C) Superconducting materials, including descriptions of research priorities, the scientific and technical barriers to commercialization which such research is designed to overcome, steps taken to ensure coordination among Federal agencies conducting research on superconducting materials, and steps taken to consult with private United States industry to ensure that nounnecessary duplication of research exists and that all important scientific and technical barriers to the commercialization of superconducting materials will be addressed; and
 
 (D) Federal research to assist United States industry to develop and apply advanced manufacturing technologies for the production of durable and nondurable goods.
 
@@ -358,7 +362,7 @@ Sec. 5–101. <i>Executive Oversight.</i>
 
 Any actions or determinations taken or made by an officer or agency under the Omnibus Trade Act or this Order shall be subject to the Executive oversight and direction of the President, and such actions or determinations shall be undertaken after appropriate inter-agency consultation as established by the President.
 
-Sec. 5–102. <i>Regulatory Review</i>. Notwithstanding the provisions of section 1(a)(2) of Executive Order No. 12291of February 17, 1981 \[formerly 5 U.S.C. 601 note\], the Director of the Office of Management and Budget shall, with regard to regulations, rules, or agency statements of general applicability and future effect designed to implement, interpret, or prescribe law or policy or describing the procedure or practice requirements of an agency relative to the administration of the Export Administration Act, determine whether such regulations, rules, or agency statements are exempted from review under that Order, pursuant to the provisions of section 8(b) thereof \[former 50 U.S.C. 4607(b)\].
+Sec. 5–102. <i>Regulatory Review</i>. Notwithstanding the provisions of section 1(a)(2) of Executive Order No. 12291 of February 17, 1981 \[formerly 5 U.S.C. 601 note\], the Director of the Office of Management and Budget shall, with regard to regulations, rules, or agency statements of general applicability and future effect designed to implement, interpret, or prescribe law or policy or describing the procedure or practice requirements of an agency relative to the administration of the Export Administration Act, determine whether such regulations, rules, or agency statements are exempted from review under that Order, pursuant to the provisions of section 8(b) thereof \[former 50 U.S.C. 4607(b)\].
 
 Sec. 5–201. <i>Offsets</i>. The negotiating functions under section 825(c) of the Defense Authorization Act \[10 U.S.C. 2532 note\], as may be ordered by the President, are hereby jointly delegated to the Secretary of Defense and the United States Trade Representative. These functions shall be coordinated with the Secretary of State and conducted in consultation with the Secretaries of Commerce, Labor and the Treasury.
 

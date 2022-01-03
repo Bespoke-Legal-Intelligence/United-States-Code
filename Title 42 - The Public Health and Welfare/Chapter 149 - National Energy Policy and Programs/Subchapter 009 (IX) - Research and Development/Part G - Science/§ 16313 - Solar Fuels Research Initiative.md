@@ -94,6 +94,8 @@
 
 (Pub. L. 109–58, title IX, §973, Aug. 8, 2005, 119 Stat. 902; Pub. L. 115–246, title III, §303(d)(1), Sept. 28, 2018, 132 Stat. 3141.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–246 amended section generally. Prior to amendment, section related to catalysis research program.

@@ -24,5 +24,5 @@ Decisions of the United States Court of Appeals for the Armed Forces may be revi
 
 #### Effective Date
 
-Section effective on the first day of the eighth calendar month beginning after Dec. 6, 1983, see section12(a)(1) of Pub. L. 98–209, set out as an Effective Date of 1983 Amendment note under section 801 of Title 10, Armed Forces.
+Section effective on the first day of the eighth calendar month beginning after Dec. 6, 1983, see section 12(a)(1) of Pub. L. 98–209, set out as an Effective Date of 1983 Amendment note under section 801 of Title 10, Armed Forces.
 

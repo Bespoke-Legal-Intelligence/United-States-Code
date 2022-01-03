@@ -28,7 +28,7 @@ The reports required under subsection (c) shall identify and analyze—
 
 &emsp;(6) a breakdown of the revenue and costs associated with providing guarantees, based on product type and risk classifications; and
 
-&emsp;(7) a breakdown of guarantee fees charged based on asset size of the originator and the number of loans sold or transferred to an enterprise.
+&emsp;(7) a breakdown of guarantee fees charged based on asset size of the originator and thenumber of loans sold or transferred to an enterprise.
 
 #### (e) Protection of information
 

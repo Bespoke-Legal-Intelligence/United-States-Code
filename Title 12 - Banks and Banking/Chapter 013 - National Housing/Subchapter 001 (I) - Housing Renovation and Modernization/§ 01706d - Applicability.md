@@ -18,7 +18,7 @@ The provisions of sections 1703 and 1706c of this title shall be applicable in t
 
 <b>1959</b>—Pub. L. 86–70 struck out "Alaska," before "Hawaii".
 
-#### <b>Statutory Notes and Related Subsidiaries</b>
+#### <b>Executive Documents</b>
 
 #### Termination of Trust Territory of the Pacific Islands
 

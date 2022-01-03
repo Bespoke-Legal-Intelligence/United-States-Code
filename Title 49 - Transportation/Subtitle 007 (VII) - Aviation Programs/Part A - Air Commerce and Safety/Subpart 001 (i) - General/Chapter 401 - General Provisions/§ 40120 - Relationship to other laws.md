@@ -48,13 +48,17 @@ In subsection (b), before clause (1), the words "to the extent", "of time", and 
 
 Subsection (c) is substituted for 49 App.:1506 to eliminate unnecessary words and for clarity and consistency in the revised title and with other titles of the United States Code.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The International Navigational Rules Act of 1977, referred to in subsec. (a), is Pub. L. 95–75, July 27, 1977, 91 Stat. 308, as amended, which is classified principally to chapter 30 (§1601 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 33 and Tables.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 10854. Extension of Application
 
 Ex. Ord. No. 10854, Nov. 27, 1959, 24 F.R. 9565, as amended by Ex. Ord. No. 11382, Nov. 28, 1967, 32 F.R. 16247, provided:
 
-The application of the Federal Aviation Act of 1958 (72 Stat. 731; 49 U.S.C.A. §1301 et seq. \[see 49 U.S.C. 40101 et seq.\]), to the extent necessary to permit the Secretary of Transportation to accomplish the purposes and objectives of Titles III \[former 49 U.S.C. 1341 et seq., see Disposition Table at beginning of this title\] and XII \[see 49 U.S.C. 40103(b)(3), 46307\] thereof, is hereby extended to those areas of land or water outside the United States and the overlying airspace thereof over or in which the Federal Government of the United States, under international treaty, agreement or other lawful arrangement, has appropriate jurisdiction or control: <i>Provided</i>, That the Secretary of Transportation, prior to taking any action under the authority hereby conferred, shall first consult with the Secretary of State on matters affecting foreign relations, and with the Secretary of Defense on matters affecting national-defense interests, and shall not take any action which the Secretary of State determines to be in conflict with any international treaty or agreement to which the United States is a party, or to be inconsistent with the successful conduct of the foreign relations of the United States, or which the Secretary of Defense determines to be inconsistent with the requirements of national defense.
+The application of the Federal Aviation Act of 1958 (72 Stat. 731; 49 U.S.C.A. §1301 et seq. \[see 49 U.S.C. 40101et seq.\]), to the extent necessary to permit the Secretary of Transportation to accomplish the purposes and objectives of Titles III \[former 49 U.S.C. 1341 et seq., see Disposition Table at beginning of this title\] and XII \[see 49 U.S.C. 40103(b)(3), 46307\] thereof, is hereby extended to those areas of land or water outside the United States and the overlying airspace thereof over or in which the Federal Government of the United States, under international treaty, agreement or other lawful arrangement, has appropriate jurisdiction or control: <i>Provided</i>, That the Secretary of Transportation, prior to taking any action under the authority hereby conferred, shall first consult with the Secretary of State on matters affecting foreign relations, and with the Secretary of Defense on matters affecting national-defense interests, and shall not take any action which the Secretary of State determines to be in conflict with any international treaty or agreement to which the United States is a party, or to be inconsistent with the successful conduct of the foreign relations of the United States, or which the Secretary of Defense determines to be inconsistent with the requirements of national defense.
 

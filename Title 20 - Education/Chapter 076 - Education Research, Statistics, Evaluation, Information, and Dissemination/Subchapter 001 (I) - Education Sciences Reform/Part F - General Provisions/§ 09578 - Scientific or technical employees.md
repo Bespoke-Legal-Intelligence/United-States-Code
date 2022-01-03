@@ -18,13 +18,17 @@ All employees described in subsection (a) shall work on activities of the Instit
 
 (Pub. L. 107–279, title I, §188, Nov. 5, 2002, 116 Stat. 1973.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 GS–15, referred to in subsec. (a)(2), is contained in the General Schedule, which is set out under section 5332 of Title 5, Government Organization and Employees.
 
 Level III of the Executive Schedule, referred to in subsec. (a)(2), is set out in section 5314 of Title 5, Government Organization and Employees.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### References to Maximum Rate Under 5 U.S.C. 5376
 
-For reference to maximum rate under section 5376 of Title 5, Government Organization and Employees, see section 2(d)(3) of Pub. L. 110–372, set out as an Effective Date of 2008 Amendment note under section 5376 of Title 5.
+For reference to maximum rate under section 5376 of Title 5, Government Organization and Employees, see section 2(d)(3) of Pub. L. 110–372, set out as an EffectiveDate of 2008 Amendment note under section 5376 of Title 5.
 

@@ -2,9 +2,11 @@ Subpart C—Nonrecognition of Gain on Rollover of Empowerment Zone Investments
 
 | Sec. |  |
 | :--- | ---: |
-| [1397B.](%C2%A7%2001397B%20-%20Nonrecognition%20of%20gain%20on%20rollover%20of%20empowerment%20zone%20investments.md) | Nonrecognition of gain on rollover of empowerment zone investments. |
+| [1397B.](%C2%A7%2001397B%20-%20Nonrecognition%20of%20gain%20on%20rollover%20of%20empowerment%20zone%20investments.md) | Nonrecognition of gain on rollover of empowerment zone investments.<br> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

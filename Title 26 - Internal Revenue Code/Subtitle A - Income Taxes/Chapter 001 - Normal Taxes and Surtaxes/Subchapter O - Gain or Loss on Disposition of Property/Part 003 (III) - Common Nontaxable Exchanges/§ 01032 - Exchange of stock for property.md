@@ -10,11 +10,15 @@ No gain or loss shall be recognized to a corporation on the receipt of money or 
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 303; Pub. L. 98–369, div. A, title I, §57(a), July 18, 1984, 98 Stat. 574; Pub. L. 106–554, §1(a)(7) \[title IV, §401(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–649.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Subsec. (a). Pub. L. 106–554 inserted ", or with respect to a securities futures contract (as defined in section 1234B)," after "an option" in second sentence.
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–369 inserted provision that no gain or loss shall be recognized by a corporation with respect to any lapse or acquisition of an option to buy or sell its stock (including treasury stock).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 
@@ -22,5 +26,5 @@ Pub. L. 106–554, §1(a)(7) \[title IV, §401(j)\], Dec. 21, 2000, 114 Stat. 27
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–369, div. A, title I, §57(b), July 18, 1984, 1984, 98 Stat. 574, provided that: "The amendment made bysubsection (a) \[amending this section\] shall apply to options acquired or lapsed after the date of the enactment of this Act \[July 18, 1984\] in taxable years ending after such date."
+Pub. L. 98–369, div. A, title I, §57(b), July 18, 1984, 1984, 98 Stat. 574, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to options acquired or lapsed after the date of the enactment of this Act \[July 18, 1984\] in taxable years ending after such date."
 

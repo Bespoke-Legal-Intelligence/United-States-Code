@@ -14,7 +14,7 @@ The Secretary may conduct such site specific activities at each site surveyed un
 
 #### (d) Environmental assessment
 
-Site specific activities and selection of a site under this section shall not require the preparation of an environmental impact statement under section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)(C)). The Secretary shall prepare an environmental assessment with respect to such selection in accordance with regulations issued by the Secretary implementing such Act \[42 U.S.C. 4321 et seq.\]. Such environmental assessment shall be based upon available information regarding alternative technologies for the storage of spent nuclear fuel and high-level radioactive waste. The Secretary shall submit such environmental assessment to the Congress at the time such site is selected.
+Site specific activities and selection of a site under this section shall not require the preparation of an environmental impact statement under section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)(C)). The Secretary shall prepare an environmentalassessment with respect to such selection in accordance with regulations issued by the Secretary implementing such Act \[42 U.S.C. 4321 et seq.\]. Such environmental assessment shall be based upon available information regarding alternative technologies for the storage of spent nuclear fuel and high-level radioactive waste. The Secretary shall submit such environmental assessment to the Congress at the time such site is selected.
 
 #### (e) Notification before selection
 
@@ -31,6 +31,8 @@ The Secretary shall promptly notify Congress and the appropriate State or Indian
 No monitored retrievable storage facility authorized pursuant to section 10162(b) of this title may be constructed in the State of Nevada.
 
 (Pub. L. 97–425, title I, §145, as added Pub. L. 100–202, §101(d) \[title III, §300\], Dec. 22, 1987, 101 Stat. 1329–104, 1329–121; Pub. L. 100–203, title V, §5021, Dec. 22, 1987, 101 Stat. 1330–234.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

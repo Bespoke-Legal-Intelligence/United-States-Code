@@ -18,6 +18,8 @@ Provision of Services During War or National Emergency.—Members of the armed f
 
 (Added Pub. L. 101–189, div. A, title VII, §722(a), Nov. 29, 1989, 103 Stat. 1477; amended Pub. L. 102–484, div. A, title X, §1052(14), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 103–35, title II, §201(c)(1), May 31, 1993, 107 Stat. 98; Pub. L. 107–314, div. A, title VII, §721(b), Dec. 2, 2002, 116 Stat. 2595.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–314 substituted "shall" for "may".
@@ -29,6 +31,8 @@ Subsec. (d). Pub. L. 103–35, §201(c)(1)(B), substituted "section 8111A of tit
 <b>1992</b>—Subsecs. (a) to (c). Pub. L. 102–484, §1052(14)(A), substituted "section 8011 of title 38" for "section 5011 of title 38".
 
 Subsec. (d). Pub. L. 102–484, §1052(14)(B), substituted "section 8011A of title 38" for "section 5011A of title 38".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

@@ -46,7 +46,7 @@ For purposes of this chapter:
 
 #### (7) Core capital
 
-&emsp;The term "core capital" means, with respect to an enterprise, the sum of the following (as determined in accordance with generally accepted accounting principles):
+&emsp;The term "core capital" means, with respect to an enterprise, the sum of the following (asdetermined in accordance with generally accepted accounting principles):
 
 &emsp;&emsp;(A) The par or stated value of outstanding common stock.
 
@@ -282,7 +282,7 @@ Par. (24). Pub. L. 110–289, §1128(d)(1), added par. (24) and struck out forme
 
 Pars. (26) to (31). Pub. L. 110–289, §1128(d)(2), added pars. (26) to (31).
 
-#### <b>Statutory Notes and Related Subsidiaries</b>
+#### <b>Executive Documents</b>
 
 #### Termination of Trust Territory of the Pacific Islands
 

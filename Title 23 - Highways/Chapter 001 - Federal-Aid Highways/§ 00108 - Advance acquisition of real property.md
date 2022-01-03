@@ -38,13 +38,13 @@ Terms and conditions.—The Federal share payable of the costs described in para
 
 &emsp;&emsp;(B) the requirements of title VI of the Civil Rights Act of 1964 have been complied with;
 
-&emsp;&emsp;(C) the State has a mandatory comprehensive and coordinated land use, environment, and transportation planning process under State law and the acquisition is certified by the Governor as consistent with the State plans before the acquisition;
+&emsp;&emsp;(C) the State has a mandatory comprehensive and coordinated land use, environment, and transportation planning process under State law and the acquisition is certified bythe Governor as consistent with the State plans before the acquisition;
 
 &emsp;&emsp;(D) the acquisition is determined in advance by the Governor to be consistent with the State transportation planning process pursuant to section 135 of this title;
 
 &emsp;&emsp;(E) the alternative for which the real property interest is acquired is selected by the State pursuant to regulations to be issued by the Secretary which provide for the consideration of the environmental impacts of various alternatives;
 
-&emsp;&emsp;(F) before the time that the cost incurred by a State is approved for Federal participation, environmental compliance pursuant to the National Environmental Policy Act has been completed for the project for which the real property interest was acquired by the State, and the acquisition has been approved by the Secretary under this Act,<sup>1</sup> and in compliance with section 303 of title 49, section 7 of the Endangered Species Act, and all other applicable environmental laws shall be identified by the Secretary in regulations; and
+&emsp;&emsp;(F) before the time that the cost incurred by a State is approved for Federal participation, environmental compliance pursuant to the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) has been completed for the project for which the real property interest was acquired by the State, and the acquisition has been approved by the Secretary under this title, and in compliance with section 303 of title 49, section 7 of the Endangered Species Act, and all other applicable environmental laws shall be identified by the Secretary in regulations; and
 
 &emsp;&emsp;(G) before the time that the cost incurred by a State is approved for Federal participation, the Secretary has determined that the property acquired in advance of Federal approval or authorization did not influence the environmental assessment of the project, the decision relative to the need to construct the project, or the selection of the project design or location.
 
@@ -138,25 +138,23 @@ Applicable law.—The acquisition of a real property interest shall be carried o
 
 Additional conditions.—The Secretary may establish such other conditions or restrictions on acquisitions under this subsection as the Secretary determines to be appropriate.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 893; Pub. L. 86–35, §1, May 29, 1959, 73 Stat. 62; Pub. L. 90–495, §7(a), (b), Aug. 23, 1968, 82 Stat. 818; Pub. L. 93–87, title I, §113, Aug. 13, 1973, 87 Stat. 257; Pub. L. 94–280, title I, §115, May 5, 1976, 90 Stat. 436; Pub. L. 102–240, title I, §1017(a), (b), Dec. 18, 1991, 105 Stat. 1947; Pub. L. 102–388, title III, §346, Oct. 6, 1992, 106 Stat. 1553; Pub. L. 103–429, §3(2), Oct. 31, 1994, 108 Stat. 4377; Pub. L. 105–178, title I, §§1211(e)(1), 1301(a), June 9, 1998, 112 Stat. 188, 225; Pub. L. 112–141, div. A, title I, §1302, July 6, 2012, 126 Stat. 528; Pub. L. 114–94, div. A, title I, §1109(c)(5), Dec. 4, 2015, 129 Stat. 1343.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 893; Pub. L. 86–35, §1, May 29, 1959, 73 Stat. 62; Pub. L. 90–495, §7(a), (b), Aug. 23, 1968, 82 Stat. 818; Pub. L. 93–87, title I, §113, Aug. 13, 1973, 87 Stat. 257; Pub. L. 94–280, title I, §115, May 5, 1976, 90 Stat. 436; Pub. L. 102–240, title I, §1017(a), (b), Dec. 18, 1991, 105 Stat. 1947; Pub. L. 102–388, title III, §346, Oct. 6, 1992, 106 Stat. 1553; Pub. L. 103–429, §3(2), Oct. 31, 1994, 108 Stat. 4377; Pub. L. 105–178, title I, §§1211(e)(1), 1301(a), June 9, 1998, 112 Stat. 188, 225; Pub. L. 112–141, div. A, title I, §1302, July 6, 2012, 126 Stat. 528; Pub. L. 114–94, div. A, title I, §1109(c)(5), Dec. 4, 2015, 129 Stat. 1343; Pub. L. 117–58, div. A, title I, §11525(c), Nov. 15, 2021, 135 Stat. 607.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsecs. (c)(1) and (d)(4)(A), (B)(i), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsecs. (c)(1), (3)(F) and (d)(4)(A), (B)(i), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsecs. (c)(3)(A) and (d)(3)(B)(viii), is act Jan. 2, 1971, Pub. L. 91–646, 84 Stat. 1894, and which is classified principally to chapter 61 (§4601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of Title 42 and Tables.
 
 The Civil Rights Act of 1964, referred to in subsecs. (c)(3)(B) and (d)(3)(B)(viii), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
-The National Environmental Policy Act, referred to in subsec. (c)(3)(F), probably means the National Environmental Policy Act of 1969, Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
-
-This Act, referred to in subsec. (c)(3)(F), probably means Pub. L. 102–240, Dec. 18, 1991, 105 Stat. 1914, known as the Intermodal Surface Transportation Efficiency Act of 1991. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under section 101 of Title 49, Transportation, and Tables.
-
 Section 7 of the Endangered Species Act, referred to in subsec. (c)(3)(F), probably means section 7 of the Endangered Species Act of 1973, which is classified to section 1536 of Title 16, Conservation.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (c)(3)(F). Pub. L. 117–58 inserted "of 1969 (42 U.S.C. 4321 et seq.)" after "Policy Act" and substituted "this title" for "this Act".
 
 <b>2015</b>—Subsec. (c)(2)(A), (3). Pub. L. 114–94 substituted "surface transportation block grant program" for "surface transportation program" in par. (2)(A) and in introductory provisions of par. (3).
 
@@ -186,7 +184,7 @@ Subsec. (d). Pub. L. 112–141, §1302(c), added subsec. (d).
 
 Subsec. (a). Pub. L. 105–178, §1301(a), added subsec. (a) and struck out former subsec. (a) which read as follows: "For the purpose of facilitating the acquisition of rights-of-way on any Federal-aid highway in the most expeditious and economical manner, and recognizing that the acquisition of rights-of-way requires lengthy planning and negotiations if it is to be done at a reasonable cost, the Secretary, upon the request of the State highway department, is authorized to make available the funds apportioned to any State which may be expended on such highway for acquisition of rights-of-way, in anticipation of construction and under such rules and regulations as the Secretary may prescribe. The agreement between the Secretary and the State highway department for the reimbursement of the cost of such rights-of-way shall provide for the actual construction of a road on such rights-of-way within a period not exceeding 20 years following the fiscal year in which such request is made unless a longer period is determined to be reasonable by the Secretary."
 
-Subsecs. (c), (d). Pub. L. 105–178, §1211(e)(1), redesignated subsec. (d) as (c) and struck out former subsec.\(c) which related to establishment and administration of right-of-way revolving fund.
+Subsecs. (c), (d). Pub. L. 105–178, §1211(e)(1), redesignated subsec. (d) as (c) and struck out former subsec. (c) which related to establishment and administration of right-of-way revolving fund.
 
 <b>1994</b>—Subsec. (d)(2)(F). Pub. L. 103–429 substituted "section 303 of title 49" for "section 4(f) of the Department of Transportation Act".
 
@@ -219,6 +217,10 @@ Subsec. (c). Pub. L. 90–495, §7(b), added subsec. (c).
 <b>1959</b>—Subsec. (a). Pub. L. 86–35 increased from five to seven years the period in which actual construction shall commence on rights-of-way acquired in anticipation of such construction.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as a note under section 101 of this title.
 
 #### Effective Date of 2015 Amendment
 
@@ -267,6 +269,4 @@ Pub. L. 89–574, §10, Sept. 13, 1966, 80 Stat. 769, as amended by Pub. L. 97�
 #### Increased Limitation Period Applicable to Certain Contracts
 
 Pub. L. 86–35, §2, May 29, 1959, 73 Stat. 63, provided that agreements entered into before May 29, 1959 by the Secretary of Commerce and a State highway department under authority of section 110(a) of the Federal-Aid Highway Act of 1956, or section 108(a) of title 23 of the United States Code shall be deemed to provide for actual construction of a road on such rights-of-way within a period of seven years following the fiscal year in which such request was made.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

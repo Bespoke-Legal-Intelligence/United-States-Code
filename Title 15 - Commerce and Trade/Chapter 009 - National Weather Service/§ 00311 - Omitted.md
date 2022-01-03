@@ -1,5 +1,7 @@
 ### §311. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act Oct. 1, 1890, ch. 1266, §1, 26 Stat. 653, as amended, relating to the establishment of a Weather Bureau in the Department of Commerce, was omitted because the Weather Bureau was consolidated with the Coast and Geodetic Survey to form a new agency in the Department to be known as the Environmental Science Services Administration, and the office of Chief of the Weather Bureau was abolished, by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out as a note below. The Reorg. Plan also transferred to the Secretary of Commerce all functions of the Bureau and the Chief of the Bureau.
@@ -7,6 +9,8 @@ Section, act Oct. 1, 1890, ch. 1266, §1, 26 Stat. 653, as amended, relating to 
 Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out as a note under section 1511 of this title, abolished the Environmental Science Services Administration, including the offices of Administrator and Deputy Administrator, and established the National Oceanic and Atmospheric Administration within the Department of Commerce. By Department Organization Order 25–5A, republished 39 F.R. 27486, July 29, 1974, the Secretary of Commerce delegated to the National Oceanic and Atmospheric Administration a number of functions vested in him, including his functions under this chapter of the Code. By order of the Acting Associate Administrator, 35 F.R. 19249, Dec. 19, 1970, the following organizational names appearing in chapter IX of subtitle B of Title 15, Code of Federal Regulations, relating to the Administration, were changed: Environmental Science Services Administration to National Oceanic and Atmospheric Administration (ESSA to NOAA); Coast and Geodetic Survey to National Ocean Survey, and Weather Bureau to National Weather Service.
 
 Prior to Oct. 1, 1890, the functions of the Weather Bureau were exercised by the Signal Corps of the Army. Act October 1, 1890, created the present Bureau in the Department of Agriculture. By Reorg. Plan No. IV of 1940, §8, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1236, the Bureau and its functions were transferred to the Department of Commerce, "<i>Provided</i>, That the Department of Agriculture may continue to make snow surveys and to conduct research concerning: (a) relationships between weather and crops, (b) long-range weather forecasting, and (c) relationships between weather and soil erosion."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2014 Amendment
 
@@ -22,7 +26,9 @@ Pub. L. 107–253, §1, Oct. 29, 2002, 116 Stat. 1731, provided that: "This Act 
 
 #### Weather Modification Program
 
-Act Aug. 13, 1953, ch. 426, 67 Stat. 559, as amended by act July 9, 1956, ch. 522, 70 Stat. 509, related to researchand experimentation in the field of weather modification and created the Advisory Committee on Weather Control. Pub. L. 85–170, ch. II, §201, Aug. 28, 1957, 71 Stat. 427, provided in part that the Advisory Committee on Weather Control shall complete its report and terminate its activities by Dec. 31, 1957.
+Act Aug. 13, 1953, ch. 426, 67 Stat. 559, as amended by act July 9, 1956, ch. 522, 70 Stat. 509, related to research and experimentation in the field of weather modification and created the Advisory Committee on Weather Control. Pub. L. 85–170, ch. II, §201, Aug. 28, 1957, 71 Stat. 427, provided in part that the Advisory Committee on Weather Control shall complete its report and terminate its activities by Dec. 31, 1957.
+
+#### <b>Executive Documents</b>
 
 #### <b>REORGANIZATION PLAN NO. 2 OF 1965</b>
 
@@ -80,7 +86,7 @@ Nothing in this reorganization plan shall divest the Secretary of any function v
 
 (b) The President may similarly authorize any such person to act as Deputy Administrator.
 
-(c) The President may authorize any person who serves in an acting capacity under the foregoing provisions of this section to receive the compensation attached to the office in respect to which he so serves. Such compensation, if authorized, shall be in lieu of,but not in addition to, other compensation from the United States to which such person may be entitled.
+(c) The President may authorize any person who serves in an acting capacity under the foregoing provisions of this section to receive the compensation attached to the office in respect to which he so serves. Such compensation, if authorized, shall be in lieu of, but not in addition to, other compensation from the United States to which such person may be entitled.
 
 #### Message of the President
 
@@ -88,7 +94,7 @@ To the Congress of the United States:
 
 I transmit herewith Reorganization Plan No. 2 of 1965, prepared in accordance with the provisions of the Reorganization Act of 1949, as amended, and providing for the reorganization of two major agencies of the Department of Commerce: The Weather Bureau and the Coast and Geodetic Survey.
 
-The reorganization plan consolidates the Coast and Geodetic Survey and the Weather Bureau to form a new agency in the Department of Commerce to be known as the Environmental Science Services Administration. It is the intention of the Secretary of Commerce to transfer the Central Radio Propagation Laboratory of the National Bureau of Standards to the Administration when the reorganization plan takes effect. The new Administration will then provide a single national focus for our efforts to describe, understand, and predict the state of the oceans, the state of the lower and upper atmosphere, and the size and shape of the earth.
+The reorganization plan consolidates the Coast and Geodetic Survey and the Weather Bureau to form a new agency in the Department of Commerce to be known as the Environmental Science Services Administration. It is the intention of the Secretary of Commerce to transfer the Central Radio Propagation Laboratory of the National Bureau of Standards to the Administrationwhen the reorganization plan takes effect. The new Administration will then provide a single national focus for our efforts to describe, understand, and predict the state of the oceans, the state of the lower and upper atmosphere, and the size and shape of the earth.
 
 Establishment of the Administration will mark a significant step forward in the continual search by the Federal Government for better ways to meet the needs of the Nation for environmental science services. The organizational improvements made possible by the reorganization plan will enhance our ability to develop an adequate warning system for the severe hazards of nature—for hurricanes, tornadoes, floods, earthquakes, and seismic sea waves, which have proved so disastrous to the Nation in recent years. These improvements will permit us to provide better environmental information to vital segments of the Nation's economy—to agriculture, transportation, communications, and industry, which continually require information about the physical environment. They will mean better services to other Federal departments and agencies—to those that are concerned with the national defense, the exploration of outer space, the management of our mineral and water resources, the protection of the public health against environmental pollution, and the preservation of our wilderness and recreation areas.
 

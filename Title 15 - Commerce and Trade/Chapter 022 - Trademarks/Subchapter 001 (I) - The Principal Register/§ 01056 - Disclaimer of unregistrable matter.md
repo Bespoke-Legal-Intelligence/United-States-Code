@@ -10,6 +10,8 @@ No disclaimer, including those made under subsection (e) of section 1057 of this
 
 (July 5, 1946, ch. 540, title I, §6, 60 Stat. 429; Pub. L. 87–772, §3, Oct. 9, 1962, 76 Stat. 769; Pub. L. 100–667, title I, §108, Nov. 16, 1988, 102 Stat. 3938; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1999</b>—Subsec. (a). Pub. L. 106–113 substituted "Director" for "Commissioner".
@@ -17,6 +19,8 @@ No disclaimer, including those made under subsection (e) of section 1057 of this
 <b>1988</b>—Subsec. (b). Pub. L. 100–667 substituted "subsection (e)" for "paragraph (d)".
 
 <b>1962</b>—Pub. L. 87–772, among other changes, provided that an applicant may voluntarily disclaim a component of a mark sought to be registered.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1999 Amendment
 
@@ -29,6 +33,8 @@ Amendment by Pub. L. 100–667 effective one year after Nov. 16, 1988, see secti
 #### Repeal and Effect on Existing Rights
 
 Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrations and rights under prior acts, see notes set out under section 1051 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

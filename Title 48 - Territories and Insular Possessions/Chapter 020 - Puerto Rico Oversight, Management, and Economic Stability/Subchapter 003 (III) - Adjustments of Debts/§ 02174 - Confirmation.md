@@ -14,7 +14,7 @@ The court shall confirm the plan if—
 
 &emsp;(3) the debtor is not prohibited by law from taking any action necessary to carry out the plan;
 
-&emsp;(4) except to the extent that the holder of a particular claim has agreed to a different treatment of such claim, the plan provides that on the effective date of the plan each holder of a claim of a kind specified in 507(a)(2) <sup>1</sup> of title 11 will receive on account ofsuch claim cash equal to the allowed amount of such claim;
+&emsp;(4) except to the extent that the holder of a particular claim has agreed to a different treatment of such claim, the plan provides that on the effective date of the plan each holder of a claim of a kind specified in 507(a)(2) <sup>1</sup> of title 11 will receive on account of such claim cash equal to the allowed amount of such claim;
 
 &emsp;(5) any legislative, regulatory, or electoral approval necessary under applicable law in order to carry out any provision of the plan has been obtained, or such provision is expressly conditioned on such approval;
 

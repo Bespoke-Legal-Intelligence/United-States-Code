@@ -42,7 +42,7 @@
 
 Source: International Convention on Tonnage Measurement of Ships.
 
-Section 14305 requires that the Secretary measure a vessel under chapter 145 (Regulatory Measurement) of this title (in addition to measuring it under the Convention) at the request of the owner. For vessels that have obtained a regulatory tonnage measurement under this section, the Secretary is required to use the regulatory tonnage measurement to determine the application of those laws listed in section 14305(a) and those not listed by the Secretary by regulation, as provided in section 14302(c). It is the intent of the Committee to list in section 14305(a) certain U.S. tonnage-based laws that would impose increased regulatory burdens on industry if the Convention measurement were used for applicability determinations.
+Section 14305 requires that the Secretary measure a vessel under chapter 145 (Regulatory Measurement) of this title (in addition to measuring it under the Convention) at the request of the owner. For vessels that have obtained a regulatory tonnage measurementunder this section, the Secretary is required to use the regulatory tonnage measurement to determine the application of those laws listed in section 14305(a) and those not listed by the Secretary by regulation, as provided in section 14302(c). It is the intent of the Committee to list in section 14305(a) certain U.S. tonnage-based laws that would impose increased regulatory burdens on industry if the Convention measurement were used for applicability determinations.
 
 Clause (1) of section 14305(a) includes the following parts of subtitle II of title 46, U.S.C.:
 
@@ -104,7 +104,7 @@ For provisions relating to the International Convention for the Prevention of Po
 
 <b>2021</b>—Subsec. (a)(10). Pub. L. 116–283 substituted "section 8304" for "sections 8303 and 8304".
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–281 substituted "vessel measured under this chapter that is of United States registry or nationality, or a vessel operated under the authority of the United States," for "documented vessel measured under this chapter," in introductory provisions.
+<b>2010</b>—Subsec. (a). Pub. L. 111–281 substituted "vessel measured under this chapter that is of United Statesregistry or nationality, or a vessel operated under the authority of the United States," for "documented vessel measured under this chapter," in introductory provisions.
 
 <b>2006</b>—Subsec. (a)(1). Pub. L. 109–304, §15(26)(A), substituted "of this subtitle and section 12116" for "and sections 12106(c) and 12108(c)".
 

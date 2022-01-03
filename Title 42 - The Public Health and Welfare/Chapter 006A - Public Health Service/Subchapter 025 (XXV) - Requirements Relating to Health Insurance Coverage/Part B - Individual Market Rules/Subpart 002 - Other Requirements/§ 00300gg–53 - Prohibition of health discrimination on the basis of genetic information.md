@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;A health insurance issuer offering health insurance coverage in the individual market may not establish rules for the eligibility (including continued eligibility) of any individual to enroll in individual health insurance coverage based on genetic information.
+&emsp;A health insurance issuer offering health insurance coverage in the individual marketmay not establish rules for the eligibility (including continued eligibility) of any individual to enroll in individual health insurance coverage based on genetic information.
 
 #### (2) Rule of construction
 
@@ -54,7 +54,7 @@
 
 &emsp;Notwithstanding paragraph (1), a health insurance issuer offering health insurance coverage in the individual market may request, but not require, that an individual or a family member of such individual undergo a genetic test if each of the following conditions is met:
 
-&emsp;&emsp;(A) The request is made pursuant to research that complies with part 46 of title 45,Code of Federal Regulations, or equivalent Federal regulations, and any applicable State or local law or regulations for the protection of human subjects in research.
+&emsp;&emsp;(A) The request is made pursuant to research that complies with part 46 of title 45, Code of Federal Regulations, or equivalent Federal regulations, and any applicable State or local law or regulations for the protection of human subjects in research.
 
 &emsp;&emsp;(B) The issuer clearly indicates to each individual, or in the case of a minor child, to the legal guardian of such child, to whom the request is made that—
 
@@ -92,6 +92,8 @@ Any reference in this part to genetic information concerning an individual or fa
 
 (July 1, 1944, ch. 373, title XXVII, §2753, as added Pub. L. 110–233, title I, §102(b)(1)(B), May 21, 2008, 122 Stat. 893.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 2701, referred to in subsec. (c)(1), is a reference to section 2701 of act July 1, 1944. Section 2701, which was classified to section 300gg of this title, was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and was transferred to section 300gg–3 of this title. A new section 2701 of act July 1, 1944, related to fair health insurance premiums, was added, effective for plan years beginning on or after Jan. 1, 2014, and amended, by Pub. L. 111–148, title I, §1201(4), title X, §10103(a), Mar. 23, 2010, 124 Stat. 155, 892, and is classified to section 300gg of this title.
@@ -103,6 +105,8 @@ Section 264 of the Health Insurance Portability and Accountability Act of 1996, 
 #### Codification
 
 Another section 2753 of act July 1, 1944, is classified to section 300gg–54 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -22,7 +22,7 @@ In this chapter, the following definitions apply:
 
 &emsp;(10) The term "GMD" means a geomagnetic disturbance caused by a solar storm or another naturally occurring phenomenon.
 
-&emsp;(11) The term "intelligence component of the Department" means any element or entity ofthe Department that collects, gathers, processes, analyzes, produces, or disseminates intelligence information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, or national intelligence, as defined under section 3003(5) of title 50, except—
+&emsp;(11) The term "intelligence component of the Department" means any element or entity of the Department that collects, gathers, processes, analyzes, produces, or disseminates intelligence information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, or national intelligence, as defined under section 3003(5) of title 50, except—
 
 &emsp;&emsp;(A) the United States Secret Service; and
 
@@ -76,7 +76,7 @@ In this chapter, the following definitions apply:
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
-Section 3 of title 14, referred to in par. (11)(B), was redesignated section 103 of title 14 by Pub. L. 115–282, title I, §103(b), Dec. 4, 2018, 132 Stat. 4195, and references to section 3 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
+Section 3 of title 14, referred to in par. (11)(B), was redesignated section 103 of title 14 by Pub. L. 115–282, title I, §103(b), Dec. 4, 2018, 132 Stat. 4195, and references tosection 3 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
 
 The Immigration and Nationality Act, referred to in par. (19)(B), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
@@ -97,6 +97,12 @@ Pub. L. 109–295 inserted "fire," after "safety,".
 #### Effective Date
 
 Pub. L. 107–296, §4, Nov. 25, 2002, 116 Stat. 2142, provided that: "This Act \[see Tables for classification\] shall take effect 60 days after the date of enactment \[Nov. 25, 2002\]."
+
+#### Short Title of 2021 Amendment
+
+Pub. L. 117–58, div. G, title VI, §70601, Nov. 15, 2021, 135 Stat. 1267, provided that: "This subtitle \[subtitle A (§§70601, 70602) of title VI of div. G of Pub. L. 117–58, enacting part C of subchapter XVIII of this chapter\] may be cited as the 'Cyber Response and Recovery Act'."
+
+Pub. L. 117–58, div. G, title VI, §70611, Nov. 15, 2021, 135 Stat. 1272, provided that: "This subtitle \[subtitle B (§§70611, 70612) of title VI of div. G of Pub. L. 117–58, enacting section 665g of this title\] may be cited as the 'State and Local Cybersecurity Improvement Act'."
 
 #### Short Title of 2020 Amendment
 
@@ -164,7 +170,7 @@ Pub. L. 113–284, §1, Dec. 18, 2014, 128 Stat. 3089, provided that: "This Act 
 
 Pub. L. 113–282, §1, Dec. 18, 2014, 128 Stat. 3066, provided that: "This Act \[enacting sections 148 to 150 of this title and provisions set out as notes under sections 148 and 149 of this title and formerly set out as a note under section 3543 of Title 44, Public Printing and Documents\] may be cited as the 'National Cybersecurity Protection Act of 2014'."
 
-Pub. L. 113–254, §1, Dec. 18, 2014, 128 Stat. 2898, provided that: "This Act \[enacting subchapter XVI of thischapter and enacting and repealing provisions set out as notes under section 121 of this title\] may be cited as the 'Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2014'."
+Pub. L. 113–254, §1, Dec. 18, 2014, 128 Stat. 2898, provided that: "This Act \[enacting subchapter XVI of this chapter and enacting and repealing provisions set out as notes under section 121 of this title\] may be cited as the 'Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2014'."
 
 Pub. L. 113–246, §1, Dec. 18, 2014, 128 Stat. 2880, provided that: "This Act \[enacting section 146 of this title and provisions set out as a note under section 146 of this title\] may be cited as the 'Cybersecurity Workforce Assessment Act'."
 
@@ -214,7 +220,7 @@ Pub. L. 108–330, §1, Oct. 16, 2004, 118 Stat. 1275, provided that: "This Act 
 
 #### Short Title of 2003 Amendment
 
-Pub. L. 108–7, div. L, Feb. 20, 2003, 117 Stat. 532, provided in part that: "This division \[enacting sections 103 and 552a of this title and section 8I of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, Government Organization and Employees, amending sections 113, 162, 164, 188, 395, 453, and 551 of this title, section 8D of the Inspector General Act of 1978, sections 1103 and 1356 of Title 8, Aliens and Nationality, and section 300aa–33 of Title 42, The Public Health and Welfare, redesignating section 8I of the Inspector General Act of 1978 as section 8J, repealing section 371 of this title and former section 8J of the Inspector General Act of 1978, enacting provisions set out as notes under section 521 of this title, section 1356 of Title 8, and section 300aa–33 of Title 42, and repealing provisions set out as a note under section 300aa–33 of Title 42\] may be cited as the 'Homeland Security Act Amendments of 2003'."
+Pub. L. 108–7, div. L, Feb. 20, 2003, 117 Stat. 532, provided in part that: "This division \[enacting sections 103 and 552a of this title and section 8I of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, Government Organization and Employees, amending sections 113, 162, 164, 188, 395, 453, and 551 of this title, section 8D of the Inspector General Act of 1978, sections 1103 and 1356 of Title 8, Aliens and Nationality, and section 300aa–33 of Title 42, The Public Health and Welfare, redesignating section 8I of the Inspector General Act of 1978 as section 8J, repealing section 371 of this title and former section 8J of the Inspector General Act of 1978, enacting provisions set out as notes under section 521 of this title, section 1356 of Title 8, and section 300aa–33 of Title 42, and repealingprovisions set out as a note under section 300aa–33 of Title 42\] may be cited as the 'Homeland Security Act Amendments of 2003'."
 
 #### Short Title
 
@@ -228,7 +234,7 @@ For short title of part I of subchapter VIII of this chapter as the "Homeland Se
 
 Pub. L. 107–296, title X, §1001(a), Nov. 25, 2002, 116 Stat. 2259, provided that: "This title \[enacting subchapter X of this chapter and sections 3531 to 3537 and 3538 of Title 44, Public Printing and Documents, amending section 2224 of Title 10, Armed Forces, sections 278g–3 and 278g–4 of Title 15, Commerce and Trade, section 11331 of Title 40, Public Buildings, Property, and Works, and sections 3504 to 3506 of Title 44, and repealing section 11332 of Title 40 and provisions set out as notes under section 3531 of Title 44\] may be cited as the 'Federal Information Security Management Act of 2002'."
 
-\[For another Federal Information Security Management Act of 2002, see section 301(a) of Pub. L. 107–347,title III, Dec. 17, 2002, 116 Stat. 2946, set out as a note under section 101 of Title 44, Public Printing and Documents.\]
+\[For another Federal Information Security Management Act of 2002, see section 301(a) of Pub. L. 107–347, title III, Dec. 17, 2002, 116 Stat. 2946, set out as a note under section 101 of Title 44, Public Printing and Documents.\]
 
 #### Prohibition on Regulatory Authority
 

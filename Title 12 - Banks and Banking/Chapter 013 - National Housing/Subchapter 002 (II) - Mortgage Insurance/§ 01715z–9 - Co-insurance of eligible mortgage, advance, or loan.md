@@ -4,7 +4,7 @@
 
 In addition to providing insurance as otherwise authorized under this chapter, and notwithstanding any other provision of this chapter inconsistent with this section, the Secretary, upon request of any mortgagee and for such mortgage insurance premium as he may prescribe (which premium, or other charges to be paid by the mortgagor, shall not exceed the premium, or other charges, that would otherwise be applicable), may insure and make a commitment to insure under any provision of this subchapter any mortgage, advance, or loan otherwise eligible under such provision, pursuant to a co-insurance contract providing that the mortgagee will—
 
-&emsp;(1) assume a percentage of any loss on the insured mortgage, advance, or loan in direct proportion to the amount of the co-insurance, which co-insurance shall not be less than 10 per centum, subject to any reasonable limit or limits on the liability of the mortgagee that may be specified in the event of unusual or catastrophic losses that may be incurred by any one mortgagee; and
+&emsp;(1) assume a percentage of any loss on the insured mortgage, advance, or loan in direct proportion to the amount of the co-insurance,which co-insurance shall not be less than 10 per centum, subject to any reasonable limit or limits on the liability of the mortgagee that may be specified in the event of unusual or catastrophic losses that may be incurred by any one mortgagee; and
 
 &emsp;(2) carry out (under a delegation or otherwise and with or without compensation but subject to audit, exception, or review requirements) such credit approval, appraisal, inspection, commitment, property disposition, or other functions as the Secretary, pursuant to regulations, shall approve as consistent with the purposes of this chapter.
 
@@ -42,7 +42,7 @@ Notwithstanding any other provision of this section, in the case of a mortgage i
 
 &emsp;(1) insurance benefits shall equal the sum of (A) 90 per centum of the mortgage on the date of institution of foreclosure proceedings (or on the date of acquisition of the property otherwise after default), and (B) 90 per centum of interest arrears on the date benefits are paid;
 
-&emsp;(2) the mortgagee shall remit to the Secretary, for credit to the General Insurance Fund, 90 per centum of any proceeds of the property, including sale proceeds, net of the mortgagee's actual and reasonable costs related to the property and the enforcement of security;
+&emsp;(2) the mortgagee shall remit to the Secretary, for credit to the General InsuranceFund, 90 per centum of any proceeds of the property, including sale proceeds, net of the mortgagee's actual and reasonable costs related to the property and the enforcement of security;
 
 &emsp;(3) payment of such benefits shall be made in cash unless the mortgagee submits a written request for debenture payment; and
 

@@ -10,7 +10,7 @@ In General.—The head of each executive agency shall ensure that—
 
 &emsp;&emsp;(B) all managers of teleworkers;
 
-&emsp;(2) except as provided under subsection (b), an employee has successfully completed the interactive telework training program beforethat employee enters into a written agreement to telework described under section 6502(b)(2);
+&emsp;(2) except as provided under subsection (b), an employee has successfully completed the interactive telework training program before that employee enters into a written agreement to telework described under section 6502(b)(2);
 
 &emsp;(3) teleworkers and nonteleworkers are treated the same for purposes of—
 

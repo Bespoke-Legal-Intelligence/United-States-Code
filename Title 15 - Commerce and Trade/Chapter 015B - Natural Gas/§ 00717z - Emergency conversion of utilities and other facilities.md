@@ -22,7 +22,7 @@ The President may declare a natural gas supply emergency (or extend a previously
 
 During a natural gas emergency declared under this section, the President may, by order, prohibit the burning of natural gas by any electric powerplant or major fuel-burning installation if the President determines that—
 
-&emsp;(1) such powerplant or installation had on September 1, 1977 (or at any time thereafter) the capability to burn petroleum products without damage to its facilities or equipmentand without interference with operational requirements;
+&emsp;(1) such powerplant or installation had on September 1, 1977 (or at any time thereafter) the capability to burn petroleum products without damage to its facilities or equipment and without interference with operational requirements;
 
 &emsp;(2) significant quantities of natural gas which would otherwise be burned by such powerplant or installation could be made available before the termination of such emergency to any person served by an interstate pipeline for use by such person in a high-priority use; and
 
@@ -72,15 +72,21 @@ In applying the provisions of this section in the case of natural gas subject to
 
 (Pub. L. 95–617, title VI, §607, Nov. 9, 1978, 92 Stat. 3171.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Public Utility Regulatory Policies Act of 1978, and not as part of the Natural Gas Act which comprises this chapter.
 
-#### Delegation of Functions
-
-Functions of President under this section, except for authority to declare, extend, and terminate a natural gas supply emergency pursuant to subsecs. (a) and (b) of this section, delegated to Secretary of Energy, see section 1–102 of Ex. Ord. No. 12235, Sept. 3, 1980, 45 F.R. 58803, set out as a note under section 3364 of this title.
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 
 For definitions of terms used in this section, see section 2602 of Title 16, Conservation.
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+Functions of President under this section, except for authority to declare, extend, and terminate a natural gas supply emergency pursuant to subsecs. (a) and (b) of this section, delegated to Secretary of Energy, see section 1–102 of Ex. Ord. No. 12235, Sept. 3, 1980, 45 F.R. 58803, set out as a note under section 3364 of this title.
 

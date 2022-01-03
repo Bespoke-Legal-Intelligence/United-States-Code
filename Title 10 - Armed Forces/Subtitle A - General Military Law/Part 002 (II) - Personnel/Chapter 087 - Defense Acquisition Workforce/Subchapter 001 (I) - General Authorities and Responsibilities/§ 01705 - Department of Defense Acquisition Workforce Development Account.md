@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—The Secretary of Defense shall establish a fund <sup>1</sup> to be known as the "Department of Defense Acquisition Workforce Development Account" (in this section referred to as the "Account") to provide funds, in addition to other funds that may be available, for the recruitment, training, and retention of acquisition personnel of the Department of Defense.
+Establishment.—The Secretary of Defense shall establish an account to be known as the "Department of Defense Acquisition Workforce Development Account" (in this section referred to as the "Account") to provide funds, in addition to other funds that may be available, for the recruitment, training, and retention of acquisition personnel of the Department of Defense.
 
 (b)
 
@@ -92,13 +92,17 @@ Acquisition Workforce Defined.—In this section, the term "acquisition workforc
 
 &emsp;&emsp;(B) are designated as temporary members of the acquisition workforce by the Under Secretary of Defense for Acquisition and Sustainment, or by the senior acquisition executive of a military department, for the limited purpose of receiving training for the performance of acquisition-related functions and duties.
 
-(Added Pub. L. 110–181, div. A, title VIII, §852(a)(1), Jan. 28, 2008, 122 Stat. 248; amended Pub. L. 110–417, \[div. A\], title VIII, §833, Oct. 14, 2008, 122 Stat. 4535; Pub. L. 111–84, div. A, title VIII, §§831, 832(a)–(g), Oct. 28, 2009, 123 Stat. 2414, 2415; Pub. L. 112–81, div. A, title VIII, §804(a), Dec. 31, 2011, 125 Stat. 1486; Pub. L. 112–239, div. A, title VIII, §803(a), (b), Jan. 2, 2013, 126 Stat. 1825; Pub. L. 114–92, div. A, title VIII, §841(a),Nov. 25, 2015, 129 Stat. 913; Pub. L. 114–328, div. A, title VIII, §863(a), (b), title X, §1081(a)(5), Dec. 23, 2016, 130 Stat. 2302, 2303, 2417; Pub. L. 115–91, div. A, title VIII, §§842, 843(a)(1), title X, §1051(a)(7), title XVI, §1636, Dec. 12, 2017, 131 Stat. 1479, 1480, 1560, 1741; Pub. L. 116–92, div. A, title VIII, §863(b), title IX, §902(13), title X, §1010(a)(1), (2)(A), (b)–(d), Dec. 20, 2019, 133 Stat. 1522, 1544, 1576.)
+(Added Pub. L. 110–181, div. A, title VIII, §852(a)(1), Jan. 28, 2008, 122 Stat. 248; amended Pub. L. 110–417, \[div. A\], title VIII, §833, Oct. 14, 2008, 122 Stat. 4535; Pub. L. 111–84, div. A, title VIII, §§831, 832(a)–(g), Oct. 28, 2009, 123 Stat. 2414, 2415; Pub. L. 112–81, div. A, title VIII, §804(a), Dec. 31, 2011, 125 Stat. 1486; Pub. L. 112–239, div. A, title VIII, §803(a), (b), Jan. 2, 2013, 126 Stat. 1825; Pub. L. 114–92, div. A, title VIII, §841(a), Nov. 25, 2015, 129 Stat. 913; Pub. L. 114–328, div. A, title VIII, §863(a), (b), title X, §1081(a)(5), Dec. 23, 2016, 130 Stat. 2302, 2303, 2417; Pub. L. 115–91, div. A, title VIII, §§842, 843(a)(1), title X, §1051(a)(7), title XVI, §1636, Dec. 12, 2017, 131 Stat. 1479, 1480, 1560, 1741; Pub. L. 116–92, div. A, title VIII, §863(b), title IX, §902(13), title X, §1010(a)(1), (2)(A), (b)–(d), Dec. 20, 2019, 133 Stat. 1522, 1544, 1576; Pub. L. 117–81, div. A, title X, §1081(a)(22), Dec. 27, 2021, 135 Stat. 1920.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
 A prior section 1705, added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1639, related to Directors of Acquisition Career Management in the military departments, prior to repeal by Pub. L. 108–136, div. A, title VIII, §831(a), Nov. 24, 2003, 117 Stat. 1549.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a). Pub. L. 117–81 substituted "an account" for "a fund".
 
 <b>2019</b>—Pub. L. 116–92, §1010(a)(2)(A), substituted "Department of Defense Acquisition Workforce Development Account" for "Department of Defense Acquisition Workforce Development Fund" in section catchline.
 
@@ -162,7 +166,7 @@ Subsec. (d)(3). Pub. L. 114–92, §841(a)(1)(C), substituted "36-month period" 
 
 Subsec. (f). Pub. L. 114–92, §841(a)(2), substituted "120 days" for "60 days" in introductory provisions.
 
-Subsec. (g). Pub. L. 114–92, §841(a)(3), struck out par. (1) designation before "For purposes of"; redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, and realigned margins; substituted "of positions in the acquisition workforce, as defined in subsection (h)," for "acquisition workforce positions" in par. (1); and struck out former par. (2) which read as follows: "The Secretary may not appoint a person to a position ofemployment under this subsection after September 30, 2017."
+Subsec. (g). Pub. L. 114–92, §841(a)(3), struck out par. (1) designation before "For purposes of"; redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, and realigned margins; substituted "of positions in the acquisition workforce, as defined in subsection (h)," for "acquisition workforce positions" in par. (1); and struck out former par. (2) which read as follows: "The Secretary may not appoint a person to a position of employment under this subsection after September 30, 2017."
 
 <b>2013</b>—Subsec. (d)(2)(C). Pub. L. 112–239, §803(a)(1), added cls. (i) to (vi) and struck out former cls. (i) to (vi) which established applicable amounts for fiscal years 2010 to 2015.
 
@@ -188,7 +192,7 @@ Subsec. (d)(2)(B). Pub. L. 111–84, §832(d)(1), (2)(A), substituted "Subject t
 
 Pub. L. 111–84, §832(c), inserted ", from amounts available to such military department or Defense Agency, as the case may be, for contract services for operation and maintenance," after "remit to the Secretary of Defense".
 
-Subsec. (d)(2)(C), (D). Pub. L. 111–84, §832(e), added subpars. (C) and (D) and struck out former subpars. (C) and (D), which established applicable percentages for fiscal years 2008 to 2010 and thereafter and authorized the Secretary of Defense to reduce such percentages under certain circumstances and to a certain limit.
+Subsec. (d)(2)(C), (D). Pub. L. 111–84, §832(e), added subpars. (C) and (D) and struck out former subpars. (C) and (D), which established applicable percentages forfiscal years 2008 to 2010 and thereafter and authorized the Secretary of Defense to reduce such percentages under certain circumstances and to a certain limit.
 
 Subsec. (d)(3). Pub. L. 111–84, §832(a)(2), added par. (3).
 
@@ -207,6 +211,8 @@ Subsec. (h)(1)(B). Pub. L. 111–84, §831(a)(2), struck out "highly" after "app
 Subsec. (h)(2). Pub. L. 111–84, §831(b), substituted "September 30, 2015" for "September 30, 2012".
 
 <b>2008</b>—Subsec. (h). Pub. L. 110–417 added subsec. (h).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2019 Amendment
 
@@ -247,6 +253,4 @@ Pub. L. 115–91, div. A, title VIII, §843(a)(2), Dec. 12, 2017, 131 Stat. 1480
 #### Plan Required for Temporary Members of Defense Acquisition Workforce
 
 Pub. L. 112–239, div. A, title VIII, §803(c), Jan. 2, 2013, 126 Stat. 1825, as amended by Pub. L. 116–92, div. A, title IX, §902(14), Dec. 20, 2019, 133 Stat. 1544, provided that: "Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Under Secretary of Defense for Acquisition and Sustainment shall develop a plan for the implementation of the authority provided by the amendments made by subsection (a) \[amending this section\] with regard to temporary members of the defense acquisition workforce. The plan shall include policy, criteria, and processes for designating temporary members and appropriate safeguards to prevent the abuse of such authority."
-
-<i><sup>1</sup></i><i> So in original. Probably should be "an account".</i>
 

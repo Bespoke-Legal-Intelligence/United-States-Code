@@ -14,13 +14,15 @@ An election to have the provisions of this section apply for any taxable year sh
 
 #### (c) Pro ration of each section 11 bracket amount
 
-For purposes of applying subsection (a)(1), the amount in each taxable income bracket in the tax table in section 11(b) shall not exceed an amount which bears the same ratio to such bracket amount as the amount included in the gross income of the United States shareholder under section 951(a) for the taxable year bears to such shareholder's pro rata share of the earnings and profits for the taxable year of all controlled foreign corporations with respect to which such shareholder includes any amount in gross income under section 951(a).
+For purposes of applying subsection (a)(1), the amount in each taxable income bracket in thetax table in section 11(b) shall not exceed an amount which bears the same ratio to such bracket amount as the amount included in the gross income of the United States shareholder under section 951(a) for the taxable year bears to such shareholder's pro rata share of the earnings and profits for the taxable year of all controlled foreign corporations with respect to which such shareholder includes any amount in gross income under section 951(a).
 
 #### (d) Special rule for actual distributions
 
 The earnings and profits of a foreign corporation attributable to amounts which were included in the gross income of a United States shareholder under section 951(a) and with respect to which an election under this section applied shall, when such earnings and profits are distributed, notwithstanding the provisions of section 959(a)(1), be included in gross income to the extent that such earnings and profits so distributed exceed the amount of tax paid under this chapter on the amounts to which such election applied.
 
 (Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1023; amended Pub. L. 94–12, title III, §303(c)(3), Mar. 29, 1975, 89 Stat. 45; Pub. L. 94–164, §4(d)(1), Dec. 23, 1975, 89 Stat. 975; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title III, §301(b)(16), Nov. 6, 1978, 92 Stat. 2822; Pub. L. 100–647, title I, §1007(g)(11), Nov. 10, 1988, 102 Stat. 3435; Pub. L. 115–97, title I, §12001(b)(15), Dec. 22, 2017, 131 Stat. 2094.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -39,6 +41,8 @@ Section 960, referred to in subsec. (a)(2), was amended extensively by Pub. L. 1
 <b>1975</b>—Subsec. (c). Pub. L. 94–164 substituted "same ratio to the surtax exemption" for "same ratio to $25,000" in subsec. (c) as such subsec. (c) is in effect for taxable years ending after Dec. 31, 1975.
 
 Pub. L. 94–12 substituted "$50,000" for "$25,000".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 

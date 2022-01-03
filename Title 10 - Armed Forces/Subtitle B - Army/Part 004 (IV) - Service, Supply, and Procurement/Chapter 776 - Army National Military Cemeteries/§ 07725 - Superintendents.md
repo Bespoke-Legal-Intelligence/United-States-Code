@@ -14,6 +14,8 @@ Duties.—The superintendents of the Cemeteries report directly to the Executive
 
 (Added Pub. L. 112–81, div. A, title V, §591(a)(1), Dec. 31, 2011, 125 Stat. 1441, §4725; renumbered §7725, Pub. L. 115–232, div. A, title VIII, §808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 7725 was renumbered section 8895 of this title.
@@ -21,6 +23,8 @@ A prior section 7725 was renumbered section 8895 of this title.
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4725 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

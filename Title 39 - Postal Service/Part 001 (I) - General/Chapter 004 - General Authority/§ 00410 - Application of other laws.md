@@ -98,7 +98,7 @@ Subsec. (d)(2). Pub. L. 108–178, §4(j)(2), substituted "section 3145 of title
 
 <b>1996</b>—Subsec. (b)(9). Pub. L. 104–208, §101(f) \[title VI, §662(f)(1)(A)\], struck out "and" at end.
 
-Subsec. (b)(10). Pub. L. 104–208, §101(f) \[title VI, §662(f)(1)(B)\], substituted "(10) the Inspector General Act of 1978; and" for "the provisions of section 8F of the Inspector General Act of 1978."
+Subsec. (b)(10). Pub. L. 104–208, §101(f) \[title VI, §662(f)(1)(B)\], substituted "(10) the Inspector GeneralAct of 1978; and" for "the provisions of section 8F of the Inspector General Act of 1978."
 
 <b>1993</b>—Subsec. (b)(8). Pub. L. 103–82, §202(g)(6)(A), and Pub. L. 103–123, §708(a)(1), amended par. (8) identically, striking out "and" at end.
 
@@ -180,7 +180,7 @@ Subsecs. (a), (b)(2) to (6), and (c)(1) to (3), (5), (6) of this section effecti
 
 #### Applicability of Hatch Act Reform Amendments of 1993 to Postal Employees
 
-Pub. L. 103–94, §7, Oct. 6, 1993, 107 Stat. 1005, as amended by Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242, provided that: "The amendments made by this Act \[enacting sections 5520a and 7321 to 7326 of Title 5, Government Organization and Employees, and section 610 of Title 18, Crimes and Criminal Procedure, amending this section, sections 1216, 2302, 3302, and 3303 of Title 5, sections 602 and 603 of Title 18, and sections 1973d and 9904 of Title 42, The Public Health and Welfare, and omitting former sections 7321 to 7328 of Title 5\] (except for the amendments made by section 8 \[amending sections 2302 and 3303 of Title 5\]), and any regulations thereunder, shall apply with respect to employees of the United States Postal Service and the Postal Regulatory Commission, pursuant to sections 410(b) and 3604(e) \[now 504(e)\] of title 39, United States Code."
+Pub. L. 103–94, §7, Oct. 6, 1993, 107 Stat. 1005, as amended by Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242, provided that: "The amendments made by this Act \[enacting sections 5520a and 7321 to 7326 of Title 5, Government Organization and Employees, and section 610 of Title 18, Crimes and Criminal Procedure, amending this section, sections 1216, 2302, 3302, and 3303 of Title 5, sections 602 and 603 of Title 18,and sections 1973d and 9904 of Title 42, The Public Health and Welfare, and omitting former sections 7321 to 7328 of Title 5\] (except for the amendments made by section 8 \[amending sections 2302 and 3303 of Title 5\]), and any regulations thereunder, shall apply with respect to employees of the United States Postal Service and the Postal Regulatory Commission, pursuant to sections 410(b) and 3604(e) \[now 504(e)\] of title 39, United States Code."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

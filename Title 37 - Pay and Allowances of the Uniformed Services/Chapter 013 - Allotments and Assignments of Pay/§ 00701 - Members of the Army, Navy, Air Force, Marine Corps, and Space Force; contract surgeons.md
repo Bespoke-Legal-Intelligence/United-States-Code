@@ -10,7 +10,7 @@
 
 (e) If an allotment made under subsection (d) is paid to the allottee before the disbursing officer receives a notice of discontinuance from the officer required by regulation to furnish the notice, the amount of the allotment shall be credited to the disbursing officer. If an allotment is erroneously paid because the officer required by regulation to so report failed to report the death of the allotter or any other fact that makes the allotment not payable, the amount of the payment not recovered from the allottee shall, if practicable, be collected by the Secretary concerned from the officer who failed to make the report.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 484; Pub. L. 89–718, §67, Nov. 2, 1966, 80 Stat. 1123; Pub. L. 99–145, title VI, §683(a)(1), (2), Nov. 8, 1985, 99 Stat. 665; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–201, div. A,title VI, §651(a), Sept. 23, 1996, 110 Stat. 2582; Pub. L. 116–283, div. A, title IX, §925(h)(1)–(3), Jan. 1, 2021, 134 Stat. 3828.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 484; Pub. L. 89–718, §67, Nov. 2, 1966, 80 Stat. 1123; Pub. L. 99–145, title VI, §683(a)(1), (2), Nov. 8, 1985, 99 Stat. 665; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–201, div. A, title VI, §651(a), Sept. 23, 1996, 110 Stat. 2582; Pub. L. 116–283, div. A, title IX, §925(h)(1)–(3), Jan. 1, 2021, 134 Stat. 3828.)
 
 Historical and Revision Notes
 
@@ -104,7 +104,7 @@ Subsec. (d)(1). Pub. L. 99–145, §683(a)(1)(A), inserted reference to Navy and
 
 Subsec. (d)(2). Pub. L. 99–145, §683(a)(1)(B), inserted reference to Navy.
 
-<b>1966</b>—Subsec. (d). Pub. L. 89–718 substituted "Secretary concerned" for "Chief of Finance (in cases involving the Army) or by the Secretary of the Air Force" in provision for collection erroneously paid allotments.
+<b>1966</b>—Subsec. (d). Pub. L. 89–718 substituted "Secretary concerned" for "Chief of Finance (in cases involving the Army) or by the Secretary of the AirForce" in provision for collection erroneously paid allotments.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

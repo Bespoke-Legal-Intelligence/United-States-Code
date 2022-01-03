@@ -16,6 +16,8 @@ Of the sums made available to an eligible institution under this subpart for a f
 
 (Pub. L. 89–329, title IV, §413E, as added Pub. L. 105–244, title IV, §406(d), Oct. 7, 1998, 112 Stat. 1665.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as an Effective Date of 1998 Amendment note under section 1001 of this title.

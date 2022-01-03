@@ -20,7 +20,7 @@ There is established the John H. Chafee Coastal Barrier Resources System, which 
 
 #### (A) Availability
 
-&emsp;&emsp;The Secretary shall make available to the public on the Internet web site of the UnitedStates Fish and Wildlife Service digital versions of the maps included in the set of maps referred to in subsection (a).
+&emsp;&emsp;The Secretary shall make available to the public on the Internet web site of the United States Fish and Wildlife Service digital versions of the maps included in the set of maps referred to in subsection (a).
 
 #### (B) Effect
 
@@ -60,7 +60,7 @@ The Secretary may add a parcel of real property to the System, if—
 
 The Secretary shall—
 
-&emsp;(1) keep a map showing the location of each boundary modification made under subsection (c) and of each parcel of real property added to the System under subsection (d) or (e) on file and available for public inspection in the Office of the Director of the United States Fish and Wildlife Service and in such other offices of the Service as the Director considers appropriate;
+&emsp;(1) keep a map showing the location of each boundary modification made under subsection (c) and of each parcel of real property added to the System under subsection (d) or (e) on file and available for public inspection in the Office of the Director of the United States Fish and Wildlife Service and in such other officesof the Service as the Director considers appropriate;
 
 &emsp;(2) provide a copy of the map to—
 
@@ -102,7 +102,9 @@ The Secretary shall—
 
 &emsp;Nothing in this subsection supersedes the official maps referred to in subsection (a).
 
-(Pub. L. 97–348, §4, Oct. 18, 1982, 96 Stat. 1654; Pub. L. 97–396, §8, Dec. 31, 1982, 96 Stat. 2007; Pub. L. 100–707, title II, §204(b), Nov. 23, 1988, 102 Stat. 4713; Pub. L. 101–591, §3, Nov. 16, 1990, 104 Stat. 2931; Pub. L. 106–167, §3(c)(3), Dec. 9, 1999,113 Stat. 1804; Pub. L. 106–514, §§2–3(b)(1), (c), (d), Nov. 13, 2000, 114 Stat. 2394, 2395; Pub. L. 115–358, §§2(d), 3, Dec. 21, 2018, 132 Stat. 5080.)
+(Pub. L. 97–348, §4, Oct. 18, 1982, 96 Stat. 1654; Pub. L. 97–396, §8, Dec. 31, 1982, 96 Stat. 2007; Pub. L. 100–707, title II, §204(b), Nov. 23, 1988, 102 Stat. 4713; Pub. L. 101–591, §3, Nov. 16, 1990, 104 Stat. 2931; Pub. L. 106–167, §3(c)(3), Dec. 9, 1999, 113 Stat. 1804; Pub. L. 106–514, §§2–3(b)(1), (c), (d), Nov. 13, 2000, 114 Stat. 2394, 2395; Pub. L. 115–358, §§2(d), 3, Dec. 21, 2018, 132 Stat. 5080.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -137,6 +139,8 @@ Subsec. (a). Pub. L. 106–167, §3(c)(3)(B), substituted "the John H. Chafee Co
 <b>1988</b>—Pub. L. 100–707 amended section generally to provide that the Coastal Barrier Resources System include those undeveloped coastal barriers located on the Atlantic and Gulf Coasts of the United States and included within the System on Apr. 19, 1983, and the Great Lakes barriers, to make all System maps available to public inspection, and to revise and update provisions for making boundary modifications.
 
 <b>1982</b>—Subsec. (a)(1). Pub. L. 97–396 inserted "(but excluding maps T02 and T03)" after "A01 through T12", and "and the maps designated T02A and T03A, dated December 8, 1982" after "and dated September 30, 1982".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 
@@ -266,7 +270,7 @@ In General.—
 
 &emsp;"(1)
 
-Project.—The Secretary of the Interior (referred to in this section as the 'Secretary'), in consultation with the Director of the Federal Emergency Management Agency, shall carry out a pilot project to determine the feasibility and cost of creating digital versions of the John H. Chafee Coastal Barrier Resources System maps referred to in section 4(a) of the Coastal Barrier Resources Act (16 U.S.C. 3503(a)) (as amended by section 3(d)).
+Project.—The Secretary of the Interior (referred to in this section as the 'Secretary'), in consultation with the Director of the Federal Emergency Management Agency, shall carry out a pilot project to determine the feasibility and cost of creating digital versions of the John H. Chafee Coastal BarrierResources System maps referred to in section 4(a) of the Coastal Barrier Resources Act (16 U.S.C. 3503(a)) (as amended by section 3(d)).
 
 &emsp;"(2)
 
@@ -324,7 +328,7 @@ Contents.—The report shall include a description of—
 
 "(e)
 
-Authorization of Appropriations.—There is authorized to be appropriated to the Secretary to carryout this section $500,000 for each of fiscal years 2002 through 2004."
+Authorization of Appropriations.—There is authorized to be appropriated to the Secretary to carry out this section $500,000 for each of fiscal years 2002 through 2004."
 
 #### Findings
 

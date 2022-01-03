@@ -32,9 +32,13 @@ During the revision of the Land and Resource Management Plan for the Arapaho Nat
 
 (Pub. L. 103–77, §6, Aug. 13, 1993, 107 Stat. 761.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsec. (a), is Pub. L. 103–77, Aug. 13, 1993, 107 Stat. 756, known as the Colorado Wilderness Act of 1993. For complete classification of this Act to the Code, see Short Title note set out under section 539i of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Arapaho National Forest Boundary Adjustment
 
@@ -50,7 +54,7 @@ Bowen Gulch Protection Area.—The Secretary of Agriculture shall include all Fe
 
 "(c)
 
-Land and Water Conservation Fund.—For purposes of section 200306(a)(2)(B)(i) of title 54, United States Code, the boundaries of the Arapaho National Forest, as modified under subsection (a), shall be considered to be the boundaries of the Arapaho National Forest as in existence on January 1, 1965.
+Land and Water Conservation Fund.—For purposes of section 200306(a)(2)(B)(i) of title 54, UnitedStates Code, the boundaries of the Arapaho National Forest, as modified under subsection (a), shall be considered to be the boundaries of the Arapaho National Forest as in existence on January 1, 1965.
 
 "(d)
 

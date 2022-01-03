@@ -10,7 +10,7 @@
 
 &emsp;(B) amounts retained by the Secretary for research shall be used to make grants to, contracts with, or jointly financed cooperative agreements with, public or nonprofit institutions of higher learning and public or nonprofit private agencies and organizations engaged in research or in maternal and child health or programs for children with special health care needs for research projects relating to maternal and child health services or services for children with special health care needs which show promise of substantial contribution to the advancement thereof.
 
-(3) No funds may be made available by the Secretary under this subsection or subsection (b) unless an application therefor has been submitted to, and approved by, the Secretary. Such application shall be in such form, be submitted in such manner, and contain and be accompanied by such information as the Secretary may specify. No such application may be approved unless it contains assurances that the applicant will use the funds provided only for the purposes specified in the approved application and will establish such fiscal control and fund accounting procedures as may be necessary to assure proper disbursement and accounting of Federal funds paid to the applicant under this subchapter.
+(3) No funds may be made available by the Secretary under this subsection or subsection (b) unless an application therefor has been submitted to, and approved by, the Secretary. Such application shall be in such form, be submitted in such manner, and contain and be accompanied by such information as the Secretary may specify. No such application may be approved unless it contains assurances that the applicant will use the funds provided only for the purposes specified in the approved application and will establish such fiscal control and fund accounting procedures as may be necessary to assure proper disbursement and accounting ofFederal funds paid to the applicant under this subchapter.
 
 #### (b) Excess funds; preference
 
@@ -44,11 +44,13 @@ From the remaining amounts appropriated under section 701(a) of this title for a
 
 #### (d) Re-allotment of unallotted funds
 
-(1) To the extent that all the funds appropriated under this subchapter for a fiscal year are not otherwise allotted to States either because all the States have not qualified for suchallotments under section 705(a) of this title for the fiscal year or because some States have indicated in their descriptions of activities under section 705(a) of this title that they do not intend to use the full amount of such allotments, such excess shall be allotted among the remaining States in proportion to the amount otherwise allotted to such States for the fiscal year without regard to this paragraph.
+(1) To the extent that all the funds appropriated under this subchapter for a fiscal year are not otherwise allotted to States either because all the States have not qualified for such allotments under section 705(a) of this title for the fiscal year or because some States have indicated in their descriptions of activities under section 705(a) of this title that they do not intend to use the full amount of such allotments, such excess shall be allotted among the remaining States in proportion to the amount otherwise allotted to such States for the fiscal year without regard to this paragraph.
 
 (2) To the extent that all the funds appropriated under this subchapter for a fiscal year are not otherwise allotted to States because some State allotments are offset under section 706(b)(2) of this title, such excess shall be allotted among the remaining States in proportion to the amount otherwise allotted to such States for the fiscal year without regard to this paragraph.
 
 (Aug. 14, 1935, ch. 531, title V, §502, as added Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 819; amended Pub. L. 99–272, title IX, §9527(d), Apr. 7, 1986, 100 Stat. 219; Pub. L. 99–509, title IX, §9441(b), Oct. 21, 1986, 100 Stat. 2071; Pub. L. 101–239, title VI, §§6502(a), 6503(c)(1), (4), Dec. 19, 1989, 103 Stat. 2275, 2278.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -87,6 +89,8 @@ Subsec. (b). Pub. L. 99–509, §9441(b)(2), inserted "that are not in excess of
 "(B) To the extent that all the funds appropriated under this subchapter for a fiscal year are not otherwise allotted to States because some State allotments are offset under section 706(b)(2) of this title, such excess shall be allotted among the remaining States in proportion to the amount otherwise allotted to such States for the fiscal year without regard to this subparagraph."
 
 Subsecs. (c), (d). Pub. L. 99–509, §9441(b)(3), added subsecs. (c) and (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1989 Amendment
 

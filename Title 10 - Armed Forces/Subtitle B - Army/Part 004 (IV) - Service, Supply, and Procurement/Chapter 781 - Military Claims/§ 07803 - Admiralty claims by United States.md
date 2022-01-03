@@ -48,6 +48,8 @@ In subsection (a), the words "consider, ascertain, adjust, determine" are omitte
 
 In subsection (b), the words "of the United States as miscellaneous receipts" and "to deliver" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4803 of this title as this section.
@@ -55,6 +57,8 @@ In subsection (b), the words "of the United States as miscellaneous receipts" an
 <b>1989</b>—Subsec. (c). Pub. L. 101–189 substituted "$100,000" for "$10,000".
 
 <b>1965</b>—Subsec. (c). Pub. L. 89–67 substituted "$10,000" for "$1,000".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

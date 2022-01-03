@@ -20,6 +20,8 @@ Oath Defined.—In this section, the term "oath" includes an affirmation.
 
 (Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2587.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 949g, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2613, related to oaths, prior to the general amendment of this chapter by Pub. L. 111–84.

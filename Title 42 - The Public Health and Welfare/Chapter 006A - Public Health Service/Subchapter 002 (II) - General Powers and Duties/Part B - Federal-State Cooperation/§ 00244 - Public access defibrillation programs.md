@@ -12,7 +12,7 @@ The Secretary shall award grants to States, political subdivisions of States, In
 
 &emsp;(4) by providing training to members of the public in cardiopulmonary resuscitation and automated external defibrillation;
 
-&emsp;(5) by integrating the emergency medical services system with the public access defibrillation programs so that emergency medical services personnel, including dispatchers, are informed about the location of automated external defibrillators in their community; and
+&emsp;(5) by integrating the emergency medical services system with the public access defibrillation programs so that emergency medical services personnel, including dispatchers, are informed about the location ofautomated external defibrillators in their community; and
 
 &emsp;(6) by encouraging private companies, including small businesses, to purchase automated external defibrillators and provide training for their employees to administer cardiopulmonary resuscitation and external automated defibrillation to cardiac arrest victims in their community.
 
@@ -70,6 +70,8 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 (July 1, 1944, ch. 373, title III, §312, as added Pub. L. 107–188, title I, §159(c), June 12, 2002, 116 Stat. 634; amended Pub. L. 108–41, §2, July 1, 2003, 117 Stat. 839; Pub. L. 111–148, title X, §10412, Mar. 23, 2010, 124 Stat. 990.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 244, acts July 1, 1944, ch. 373, title III, §312, 58 Stat. 693; July 3, 1946, ch. 538, §8, 60 Stat. 424; Dec. 5, 1967, Pub. L. 90–174, §12(b), 81 Stat. 541; Oct. 30, 1970, Pub. L. 91–515, title II, §282, 84 Stat. 1308, provided for health conferences, prior to repeal by Pub. L. 93–353, title I, §102(a), July 23, 1974, 88 Stat. 362. See section 242o(a) of this title.
@@ -83,6 +85,8 @@ A prior section 312 of act July 1, 1944, was classified to section 244–1 of th
 Subsec. (e). Pub. L. 111–148, §10412(2), substituted "for each of fiscal years 2003 through 2014" for "fiscal year 2003, and such sums as may be necessary for each of the fiscal years 2004 through 2006".
 
 <b>2003</b>—Subsec. (c)(6), (7). Pub. L. 108–41 added par. (6) and redesignated former par. (6) as (7).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Findings
 

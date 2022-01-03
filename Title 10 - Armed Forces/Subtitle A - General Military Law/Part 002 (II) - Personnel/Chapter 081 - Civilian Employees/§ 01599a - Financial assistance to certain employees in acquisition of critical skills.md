@@ -10,6 +10,8 @@ Use of Funds for Training Program.—Any payment made by the Secretary to carry 
 
 (Added Pub. L. 104–93, title V, §505(a), Jan. 6, 1996, 109 Stat. 973; amended Pub. L. 112–239, div. A, title X, §1076(f)(20), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 113–291, div. A, title X, §1071(c)(9), Dec. 19, 2014, 128 Stat. 3509.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Subsec. (a). Pub. L. 113–291 substituted "(50 U.S.C. 3614)" for "(50 U.S.C. 402 note)".

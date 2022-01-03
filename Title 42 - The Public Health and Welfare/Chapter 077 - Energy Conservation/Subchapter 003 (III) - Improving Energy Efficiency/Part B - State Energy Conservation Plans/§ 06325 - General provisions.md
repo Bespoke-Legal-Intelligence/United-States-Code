@@ -26,11 +26,21 @@ Within 90 days after August 14, 1976, the Secretary shall—
 
 #### (f) Authorization of appropriations
 
-For the purpose of carrying out this part, there are authorized to be appropriated $125,000,000 for each of fiscal years 2007 through 2012.
+#### (1) In general
+
+&emsp;There is authorized to be appropriated to carry out this part $500,000,000 for the period of fiscal years 2022 through 2026.
+
+#### (2) Distribution
+
+&emsp;Amounts made available under paragraph (1)—
+
+&emsp;&emsp;(A) shall be distributed to the States in accordance with the applicable distribution formula in effect on January 1, 2021; and
+
+&emsp;&emsp;(B) shall not be subject to the matching requirement described in section 6323a of this title.
 
 #### (g) State Energy Advisory Board
 
-(1)(A) There is hereby established within the Department of Energy a State Energy Advisory Board (hereafter in this subsection referred to as the "Board") which shall consist of at least 18 and not more than 21 members appointed by the Secretary as soon as practicable but no later than September 30, 1991. At least eight of the members of the Board shall be persons who serve as directors of the State agency, or a division of such agency, responsible for developing State energy conservation plans pursuant to section 6322 of this title. At least four members shall be directors of State or local low income weatherization assistance programs. Other members shall be appointed from persons who have experience in energy efficiency or renewable energy programs from the private sector, consumer interest groups, utilities, public utility commissions, educational institutions, financial institutions, local government energy programs, orresearch institutions. A majority of the members of the Board shall be State employees.
+(1)(A) There is hereby established within the Department of Energy a State Energy Advisory Board (hereafter in this subsection referred to as the "Board") which shall consist of at least 18 and not more than 21 members appointed by the Secretary as soon as practicable but no later than September 30, 1991. At least eight of the members of the Board shall be persons who serve as directors of the State agency, or a division of such agency, responsible for developing State energy conservation plans pursuant to section 6322 of this title. At least four members shall be directors of State or local low income weatherization assistance programs. Other members shall be appointed from persons who have experience in energy efficiency or renewable energy programs from the private sector, consumer interest groups, utilities, public utility commissions, educational institutions, financial institutions, local government energy programs, or research institutions. A majority of the members of the Board shall be State employees.
 
 (B)(i) Except as provided in clause (ii), the members of the Board shall serve a term of three years.
 
@@ -62,7 +72,9 @@ For the purpose of carrying out this part, there are authorized to be appropriat
 
 (9) The Board shall continue until terminated by law.
 
-(Pub. L. 94–163, title III, §365, Dec. 22, 1975, 89 Stat. 935; Pub. L. 94–385, title IV, §432(d), Aug. 14, 1976, 90 Stat. 1162; Pub. L. 95–619, title VI, §§621, 691(b)(2), Nov. 9, 1978, 92 Stat. 3283, 3288; Pub. L. 101–440, §§5, 8(a), Oct. 18, 1990, 104 Stat. 1009, 1015; Pub. L. 102–486, title I, §141(a)(2), Oct. 24, 1992, 106 Stat. 2841; Pub. L. 104–66, title I, §1052(f), Dec. 21, 1995, 109 Stat. 718; Pub. L. 105–388, §2(a), Nov. 13, 1998, 112 Stat. 3477; Pub. L. 109–58, title I, §123(c), Aug. 8, 2005, 119 Stat. 617; Pub. L. 110–140, title V, §531, Dec. 19, 2007, 121 Stat. 1665.)
+(Pub. L. 94–163, title III, §365, Dec. 22, 1975, 89 Stat. 935; Pub. L. 94–385, title IV, §432(d), Aug. 14, 1976, 90 Stat. 1162; Pub. L. 95–619, title VI, §§621, 691(b)(2), Nov. 9, 1978, 92 Stat. 3283, 3288; Pub. L. 101–440, §§5, 8(a), Oct. 18, 1990, 104 Stat. 1009, 1015; Pub. L. 102–486, title I, §141(a)(2), Oct. 24, 1992, 106 Stat. 2841; Pub. L. 104–66, title I, §1052(f), Dec. 21, 1995, 109 Stat. 718; Pub. L. 105–388, §2(a), Nov. 13, 1998, 112 Stat. 3477; Pub. L. 109–58, title I, §123(c), Aug. 8, 2005, 119 Stat. 617; Pub. L. 110–140, title V, §531, Dec. 19, 2007, 121 Stat. 1665; Pub. L. 117–58, div. D, title I, §40109(c), Nov. 15, 2021, 135 Stat. 944.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -71,6 +83,8 @@ The Federal Trade Commission Act, referred to in subsec. (d), is act Sept. 26, 1
 The Energy Conservation and Production Act, referred to in subsec. (g)(2)(A)(i), is Pub. L. 94–385, Aug. 14, 1976, 90 Stat. 1125, as amended. Part A of title IV of the Act is classified generally to part A (§6861 et seq.) of subchapter III of chapter 81 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6801 of this title and Tables.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (f). Pub. L. 117–58 added subsec. (f) and struck out former subsec. (f). Prior to amendment, text read as follows: "For the purpose of carrying out this part, there are authorized to be appropriated $125,000,000 for each of fiscal years 2007 through 2012."
 
 <b>2007</b>—Subsec. (f). Pub. L. 110–140 substituted "$125,000,000 for each of fiscal years 2007 through 2012" for "$100,000,000 for each of the fiscal years 2006 and 2007 and $125,000,000 for fiscal year 2008".
 
@@ -100,11 +114,17 @@ Subsec. (e). Pub. L. 94–385, §432(d)(2), added subsec. (e).
 
 Subsec. (f). Pub. L. 94–385, §432(d)(1), (3), redesignated former subsec. (d) as (f) and inserted "(other than section 6327 of this title)" after "part".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub.L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 16th item on page 87 identifies a reporting provision which, as subsequently amended, is contained in subsec. (c) of this section and in which the 14th item on page 91 identifies a reporting provision in subsec. (g)(8) of this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+
+#### Wage Rate Requirements
+
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of this title.
 

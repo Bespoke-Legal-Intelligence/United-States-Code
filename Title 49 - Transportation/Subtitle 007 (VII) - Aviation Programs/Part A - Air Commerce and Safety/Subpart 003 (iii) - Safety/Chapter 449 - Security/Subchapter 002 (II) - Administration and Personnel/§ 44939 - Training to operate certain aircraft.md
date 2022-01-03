@@ -22,7 +22,7 @@ Waiting Period.—A person operating as a flight instructor, pilot school, or av
 
 (b)
 
-Interruption of Training.—If the Secretary of Homeland Security, more than 30 daysafter receiving notification under subsection (a) from a person providing training described in subsection (a), determines that the individual presents a risk to aviation or national security, the Secretary shall immediately notify the person providing the training of the determination and that person shall immediately terminate the training.
+Interruption of Training.—If the Secretary of Homeland Security, more than 30 days after receiving notification under subsection (a) from a person providing training described in subsection (a), determines that the individual presents a risk to aviation or national security, the Secretary shall immediately notify the person providing the training of the determination and that person shall immediately terminate the training.
 
 (c)
 
@@ -74,11 +74,15 @@ Security Awareness Training for Employees.—The Secretary shall require flight 
 
 (Added Pub. L. 107–71, title I, §113(a), Nov. 19, 2001, 115 Stat. 622; amended Pub. L. 108–176, title VI, §612(a), Dec. 12, 2003, 117 Stat. 2572; Pub. L. 115–254, div. K, title I, §1991(d)(30), Oct. 5, 2018, 132 Stat. 3639.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (d). Pub. L. 115–254 substituted "The Secretary of Homeland Security" for "Not later than 60 days after the date of enactment of this section, the Secretary" in introductory provisions.
 
 <b>2003</b>—Pub. L. 108–176 reenacted section catchline without change and amended text generally. Prior to amendment, text consisted of subsecs. (a) to (d) relating to waiting period for training, interruption of training, covered training, and security awareness training for employees.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 
@@ -102,11 +106,11 @@ Use of overseas facilities.—In order to implement section 44939 of title 49, U
 
 "(3)
 
-Use of united states facilities.—If the Secretary of Homeland Security requires fingerprinting inthe administration of section 44939 of title 49, United States Code, the Secretary may designate locations within the United States that will provide fingerprinting services to individuals covered by that section."
+Use of united states facilities.—If the Secretary of Homeland Security requires fingerprinting in the administration of section 44939 of title 49, United States Code, the Secretary may designate locations within the United States that will provide fingerprinting services to individuals covered by that section."
 
 #### Report
 
-Pub. L. 108–176, title VI, §612(d), Dec. 12, 2003, 117 Stat. 2574, provided that: "Not later than 1 year after the date of enactment of this Act \[Dec. 12, 2003\], the Secretary of Homeland Security shall submit to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure a report on the effectiveness of the activities carried out under section 44939 of title 49, United States Code, in reducing risks to aviation security and national security."
+Pub. L. 108–176, title VI, §612(d), Dec. 12, 2003, 117 Stat. 2574, provided that, not later than 1 year after Dec. 12,2003, the Secretary of Homeland Security would submit to Congress a report on the effectiveness of the activities carried out under this section in reducing risks to aviation and national security.
 
 #### International Cooperation
 

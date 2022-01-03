@@ -38,7 +38,9 @@ The Secretary shall also include in each report under this section an examinatio
 
 The President shall submit with each report under this section a statement of the plans of the President for meeting the recommendations of the Secretary set forth in the report.
 
-(June 7, 1939, ch. 190, §14, as added Pub. L. 100–180, div. C, title II, §3202(c), Dec. 4, 1987, 101 Stat. 1246; amended Pub. L. 102–190, div. C, title XXXIII, §3313(b)(1), (2), Dec. 5, 1991, 105 Stat. 1585; Pub. L. 103–160, div. C, title XXXIII, §3314, Nov. 30, 1993, 107 Stat. 1962; Pub. L. 104–201, div. C, title XXXIII, §3311(a), Sept. 23, 1996, 110 Stat. 2856.)
+(June 7, 1939, ch. 190, §14, as added Pub. L. 100–180, div. C, title II, §3202(c), Dec. 4, 1987, 101 Stat. 1246; amended Pub. L. 102–190, div. C, titleXXXIII, §3313(b)(1), (2), Dec. 5, 1991, 105 Stat. 1585; Pub. L. 103–160, div. C, title XXXIII, §3314, Nov. 30, 1993, 107 Stat. 1962; Pub. L. 104–201, div. C, title XXXIII, §3311(a), Sept. 23, 1996, 110 Stat. 2856.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -49,6 +51,8 @@ The President shall submit with each report under this section a statement of th
 <b>1991</b>—Pub. L. 102–190, §3313(b)(2), substituted "Biennial" for "Annual" in section catchline.
 
 Subsec. (a). Pub. L. 102–190, §3313(b)(1), in introductory provisions, substituted "Not later than January 15 of every other year, the Secretary" for "The Secretary" and "a report" for "an annual report" and struck out "shall be submitted with the annual report submitted under section 98h–2(b) of this title and" before "shall include".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

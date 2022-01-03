@@ -4,11 +4,11 @@
 
 #### (1) In general
 
-&emsp;There is established a separate fund to be designated as the FSLIC Resolution Fund which shall be managed by the Corporation and separately maintained and not commingled.
+&emsp;There is established a separate fund to be designated as the FSLIC Resolution Fundwhich shall be managed by the Corporation and separately maintained and not commingled.
 
 #### (2) Transfer of FSLIC assets and liabilities
 
-&emsp;&emsp;Except as provided in section 1441a <sup>1</sup> of this title, all assets and liabilities of the FederalSavings and Loan Insurance Corporation on the day before August 9, 1989, shall be transferred to the FSLIC Resolution Fund.
+&emsp;&emsp;Except as provided in section 1441a <sup>1</sup> of this title, all assets and liabilities of the Federal Savings and Loan Insurance Corporation on the day before August 9, 1989, shall be transferred to the FSLIC Resolution Fund.
 
 #### (3) Separate holding
 

@@ -50,6 +50,8 @@ June 3, 1916, ch. 134, §47d (47 words after 1st semicolon, and 72 words before 
 
 The word "supplies" is substituted for the words "such arms, ammunition, accoutrements, equipments, tentage, field equipage", since, under the definition of the word "supplies", in section 101(26) of this title, those words are covered by the word "supplies". The words "belonging to the United States", "and imparting military instruction and training thereat", "during the period of their attendance", "theoretical and practical instruction", "persons attending the camps authorized by this section", and "as he may deem" are omitted as surplusage. The word "detail" is substituted for the word "employ". The word "members" is substituted for the words "officers, warrant officers, and enlisted men".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Par. (4). Pub. L. 116–283, §923(d)(17)(A), inserted "or the Regular Space Force" after "Regular Air Force".
@@ -57,6 +59,8 @@ The word "supplies" is substituted for the words "such arms, ammunition, accoutr
 Par. (7). Pub. L. 116–283, §923(d)(17)(B), inserted "or Space Force" after "Air Force" in introductory provisions.
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 9412 of this title as this section and substituted "section 9481" for "section 9411" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

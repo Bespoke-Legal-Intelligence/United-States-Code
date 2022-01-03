@@ -1,6 +1,6 @@
 ### §1552. Correction of military records: claims incident thereto
 
-(a)(1) The Secretary of a military department may correct any military record of the Secretary's department when the Secretary considers it necessary to correct an error or removean injustice. Except as provided in paragraph (2), such corrections shall be made by the Secretary acting through boards of civilians of the executive part of that military department. The Secretary of Homeland Security may in the same manner correct any military record of the Coast Guard.
+(a)(1) The Secretary of a military department may correct any military record of the Secretary's department when the Secretary considers it necessary to correct an error or remove an injustice. Except as provided in paragraph (2), such corrections shall be made by the Secretary acting through boards of civilians of the executive part of that military department. The Secretary of Homeland Security may in the same manner correct any military record of the Coast Guard.
 
 (2) The Secretary concerned is not required to act through a board in the case of the correction of a military record announcing a decision that a person is not eligible to enlist (or reenlist) or is not accepted for enlistment (or reenlistment) or announcing the promotion and appointment of an enlisted member to an initial or higher grade or the decision not to promote an enlisted member to a higher grade. Such a correction may be made only if the correction is favorable to the person concerned.
 
@@ -56,7 +56,7 @@
 
 &emsp;(A) review medical evidence of the Secretary of Veterans Affairs or a civilian health care provider that is presented by the claimant; and
 
-&emsp;(B) review the claim with liberal consideration to the claimant that post-traumatic stress disorder or traumatic brain injury potentially contributed to the circumstances resulting in the discharge or dismissal or to the original characterization of the claimant's discharge or dismissal.
+&emsp;(B) review the claim with liberal consideration to the claimant that post-traumatic stress disorder or traumatic brain injury potentially contributed to the circumstances resulting in the discharge or dismissal or to theoriginal characterization of the claimant's discharge or dismissal.
 
 (i) Each board established under this section shall make available to the public each calendar quarter, on an Internet website of the military department concerned or the Department of Homeland Security, as applicable, that is available to the public the following:
 
@@ -138,6 +138,8 @@ In subsection (d), the word "but" is substituted for the words "That, continuing
 
 In subsection (e), the words "No payment may be made under this section" are substituted for the words "Nothing in this section shall be construed to authorize the payment of any amount as compensation", in 5:191a and 275.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Uniform Code of Military Justice (Public Law 506 of the 81st Congress), referred to in subsec. (f), is act May 5, 1950, ch. 169, §1, 64 Stat. 107, which was classified to chapter 22 (§551 et seq.) of Title 50, War and National Defense, and was repealed and reenacted as chapter 47 (§801 et seq.) of this title by act Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641, the first section of which enacted this title.
@@ -204,6 +206,8 @@ Subsec. (c). Pub. L. 100–456, §1233(a)(2), substituted "The Secretary concern
 
 <b>1960</b>—Subsec. (f). Pub. L. 86–533 repealed subsec. (f) which required reports to the Congress every six months with respect to claims paid under this section.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
@@ -226,7 +230,7 @@ Pub. L. 116–283, div. A, title V, §545, Jan. 1, 2021, 134 Stat. 3613, provide
 
 "(a)
 
-Policy and Process Required.—Not later than October 1, 2021, the Secretary of Defense shall establish and maintain a policy and process through which any covered person may request that the person's name, personally identifying information, and other information pertaining to the person shall, in accordance with subsection (c), be corrected in, or expunged or otherwise removed from, the following:
+Policy and Process Required.—Not later than October 1, 2021, the Secretary of Defense shall establish and maintain a policy and process through which any covered person may request that the person's name, personally identifying information, and other information pertaining to the person shall, in accordance withsubsection (c), be corrected in, or expunged or otherwise removed from, the following:
 
 &emsp;"(1) A law enforcement or criminal investigative report of the Department of Defense or any component of the Department.
 
@@ -380,7 +384,7 @@ Reports.—Not later than 18 months after the date of the enactment of this Act 
 
 &emsp;"(B) A detailed description of the training curriculum required of such Secretary by paragraph (1).
 
-&emsp;"(C) A description and assessment of any impediments to the implementation of training requirements for members of boards for the correction ofmilitary records under the jurisdiction of such Secretary.
+&emsp;"(C) A description and assessment of any impediments to the implementation of training requirements for members of boards for the correction of military records under the jurisdiction of such Secretary.
 
 "(5)
 

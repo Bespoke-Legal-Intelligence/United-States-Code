@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) for the provision of monitoring and treatment benefits and initial health evaluation benefits under part B;
 
-&emsp;&emsp;(B) for the provision of outreach and retention activities to individuals eligible for such monitoring and treatment benefits, for initial health evaluation benefits, and forfollowup to individuals who are enrolled in the monitoring program;
+&emsp;&emsp;(B) for the provision of outreach and retention activities to individuals eligible for such monitoring and treatment benefits, for initial health evaluation benefits, and for followup to individuals who are enrolled in the monitoring program;
 
 &emsp;&emsp;(C) for the provision of counseling for benefits under part B, with respect to WTC-related health conditions, for individuals eligible for such benefits;
 
@@ -127,6 +127,8 @@
 Not later than July 1, 2011, the Comptroller General shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate an analysis on whether Clinical Centers of Excellence with which the WTC Program Administrator enters into a contract under this section have financial systems that will allow for the timely submission of claims data for purposes of section 300mm–3 of this title and subsections (a)(1)(F) and (b)(1)(B)(iii).
 
 (July 1, 1944, ch. 373, title XXXIII, §3305, as added Pub. L. 111–347, title I, §101, Jan. 2, 2011, 124 Stat. 3630; amended Pub. L. 114–113, div. O, title III, §302(c), Dec. 18, 2015, 129 Stat. 2998.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

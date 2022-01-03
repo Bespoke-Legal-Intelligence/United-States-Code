@@ -10,7 +10,7 @@ The Secretary shall, in close cooperation and coordination with the Commission a
 
 &emsp;(3) such other matters as the Secretary determines may encourage the conservation of energy in the use of consumer products.
 
-> Such steps to educate consumers may include publications, audiovisual presentations, demonstrations, and the sponsorship of national and regional conferences involving manufacturers, distributors, retailers, and consumers, and State, local, and Federal Government representatives. Nothing in this section may be construed to require the compilation of lists which compare the estimated annual operating costs of consumer products by model or manufacturer's name.
+> Such steps to educate consumers may include publications, audiovisual presentations, demonstrations, and the sponsorship of national and regional conferences involving manufacturers, distributors, retailers, and consumers, and State, local, and Federal Government representatives. Nothing in this section may be construed to require the compilation of lists which compare the estimated annual operating costs ofconsumer products by model or manufacturer's name.
 
 #### (b) State and local incentive programs
 
@@ -52,6 +52,8 @@ The Secretary shall, in close cooperation and coordination with the Commission a
 
 (Pub. L. 94–163, title III, §337, Dec. 22, 1975, 89 Stat. 931; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 102–486, title I, §123(i), Oct. 24, 1992, 106 Stat. 2831; Pub. L. 109–58, title I, §132, Aug. 8, 2005, 119 Stat. 621.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Subsecs. (c), (d). Pub. L. 109–58 added subsecs. (c) and (d).
@@ -59,6 +61,8 @@ The Secretary shall, in close cooperation and coordination with the Commission a
 <b>1992</b>—Pub. L. 102–486 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 <b>1978</b>—Pub. L. 95–619 substituted "Secretary" for "Administrator", meaning Administrator of the Federal Energy Administration, wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

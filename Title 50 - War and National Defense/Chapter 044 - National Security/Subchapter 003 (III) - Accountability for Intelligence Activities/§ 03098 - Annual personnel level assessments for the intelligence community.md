@@ -46,6 +46,8 @@ Each assessment required by subsection (a) submitted during a fiscal year shall 
 
 (July 26, 1947, ch. 343, title V, §506B, as added Pub. L. 111–259, title III, §305(a), Oct. 7, 2010, 124 Stat. 2659; amended Pub. L. 113–293, title III, §327, Dec. 19, 2014, 128 Stat. 4006.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 415a–4 of this title prior to editorial reclassification and renumbering as this section.
@@ -56,13 +58,15 @@ Section was formerly classified to section 415a–4 of this title prior to edito
 
 Subsec. (c)(12), (13). Pub. L. 113–293, §327(2), (3), added par. (12) and redesignated former par. (12) as (13).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Personnel Information Notification Policy by the Director of National Intelligence
 
 Pub. L. 114–113, div. M, title III, §308, Dec. 18, 2015, 129 Stat. 2917, provided that:
 
 "(a)
 
-Directive Required.—The Director of National Intelligence shall issue a directive containing a written policy for the timely notification to the congressional intelligence committees of the identities of individuals occupying senior level positions within the intelligence community.
+Directive Required.—The Director of National Intelligence shall issue a directive containing a writtenpolicy for the timely notification to the congressional intelligence committees of the identities of individuals occupying senior level positions within the intelligence community.
 
 "(b)
 

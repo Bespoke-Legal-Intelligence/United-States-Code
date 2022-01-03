@@ -10,6 +10,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Pub. L. 116–92, div. A, title VIII, §861(f)(3)(B), (j)(7)(B), Dec. 20, 2019, 133 Stat. 1518, 1519, substituted "Acquisition Positions And Acquisition Workforce Career Fields" for "Defense Acquisition Positions" in item for subchapter II and "Critical Acquisition Positions" for "Acquisition Corps" in item for subchapter III.

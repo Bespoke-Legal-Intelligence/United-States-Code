@@ -32,6 +32,8 @@ The Secretary or his designee shall consult with the Commission with respect to�
 
 (Pub. L. 91–479, §4, Oct. 21, 1970, 84 Stat. 1076; Pub. L. 100–558, Oct. 28, 1988, 102 Stat. 2796.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–558, §1(1), substituted "twenty" for "ten".

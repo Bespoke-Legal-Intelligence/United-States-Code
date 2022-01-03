@@ -50,7 +50,7 @@
 
 #### (2) Penalty claim
 
-&emsp;After considering representations, if any, made by the person concerned pursuant to the notice issued under paragraph (1), the Customs Service shall determine whether any violation of subsection (a), as alleged in the notice, has occurred. If the Customs Service determines that there was no violation, it shall promptly issue a written statement of the determination to the person to whom the notice was sent. If the Customs Service determines that there was a violation, it shall issue a written penalty claim to such person. The written penalty claim shall specify all changes in the information provided under clauses (i) through (vi) of paragraph (1)(A). Such person shall have a reasonable opportunity under section 1618 of this title to make representations, both oral and written, seeking remission or mitigation of the monetary penalty. At the conclusion of any proceeding under such section 1618, the Customs Service shall provide to the person concerned a written statement which sets forth the final determination and the findings of fact and conclusions of law on which such determination is based.
+&emsp;After considering representations, if any, made by the person concerned pursuant to the notice issued under paragraph (1), the Customs Service shall determine whether any violation of subsection (a), as alleged in the notice, has occurred. If the Customs Service determines that there was no violation, it shall promptly issue a written statement of the determination to the person to whom the notice was sent. If the Customs Service determines that there was a violation, it shall issue a written penalty claim to such person. The written penalty claim shall specify all changes in the information provided under clauses (i) through (vi) of paragraph (1)(A). Such person shall havea reasonable opportunity under section 1618 of this title to make representations, both oral and written, seeking remission or mitigation of the monetary penalty. At the conclusion of any proceeding under such section 1618, the Customs Service shall provide to the person concerned a written statement which sets forth the final determination and the findings of fact and conclusions of law on which such determination is based.
 
 #### (c) Maximum penalties
 
@@ -114,7 +114,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;An importer shall not be subject to penalties under subsection (a) for making an incorrect claim that a good qualifies as an originating good under section 203 of the United States-Australia Free Trade Agreement Implementation Act if the importer, in accordance with regulations issued by theSecretary of the Treasury, voluntarily and promptly makes a corrected declaration and pays any duties owing.
+&emsp;&emsp;An importer shall not be subject to penalties under subsection (a) for making an incorrect claim that a good qualifies as an originating good under section 203 of the United States-Australia Free Trade Agreement Implementation Act if the importer, in accordance with regulations issued by the Secretary of the Treasury, voluntarily and promptly makes a corrected declaration and pays any duties owing.
 
 #### (B) Time periods for making corrections
 
@@ -164,7 +164,7 @@ Notwithstanding any other provision of law, in any proceeding commenced by the U
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), it is unlawful for any person to certify falsely, by fraud, grossnegligence, or negligence, in a USMCA certification of origin (as such term is defined in section 1508 of this title) that a good exported from the United States qualifies as an originating good under the rules of origin provided for in section 4531 of this title. The procedures and penalties of this section that apply to a violation of subsection (a) also apply to a violation of this subsection.
+&emsp;Subject to paragraph (2), it is unlawful for any person to certify falsely, by fraud, gross negligence, or negligence, in a USMCA certification of origin (as such term is defined in section 1508 of this title) that a good exported from the United States qualifies as an originating good under the rules of origin provided for in section 4531 of this title. The procedures and penalties of this section that apply to a violation of subsection (a) also apply to a violation of this subsection.
 
 #### (2) Prompt and voluntary disclosure of incorrect information
 
@@ -218,7 +218,7 @@ Notwithstanding any other provision of law, in any proceeding commenced by the U
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), it is unlawful for any person to certify falsely, by fraud, gross negligence, or negligence, in a PTPA certification of origin (as defined in section 1508(h)(1)(B) of this title) that a good exported from the United States qualifies as an originating good under the rules of origin provided for in section 203 of the United States-Peru Trade Promotion Agreement Implementation Act. The procedures and penalties of this section that apply to a violation of subsection (a) also apply to a violation of this subsection.
+&emsp;Subject to paragraph (2), it is unlawful for any person to certify falsely, by fraud, gross negligence, or negligence, in a PTPA certification of origin (as defined in section 1508(h)(1)(B) of this title) that a good exported from the United States qualifies as an originating good under the rules of origin provided for in section 203 of the United States-Peru Trade Promotion Agreement ImplementationAct. The procedures and penalties of this section that apply to a violation of subsection (a) also apply to a violation of this subsection.
 
 #### (2) Prompt and voluntary disclosure of incorrect information
 
@@ -286,7 +286,7 @@ Notwithstanding any other provision of law, in any proceeding commenced by the U
 
 &emsp;&emsp;(B) the person promptly and voluntarily provides written notice of the change in circumstances to all persons to whom the person provided the certification.
 
-(June 17, 1930, ch. 497, title IV, §592, 46 Stat. 750; Aug. 5, 1935, ch. 438, title III, §304(b), 49 Stat. 527; Pub. L. 95–410, title I, §110(a), Oct. 3, 1978, 92 Stat. 893; Pub. L. 96–417, title VI, §609, Oct. 10, 1980, 94 Stat. 1746; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–182, title II, §205(c), title VI, §621, Dec. 8, 1993, 107 Stat. 2095, 2180; Pub. L. 104–295, §§3(a)(4), (5), 21(e)(12), (13), Oct. 11, 1996, 110 Stat. 3515, 3531; Pub. L. 106–36, title I, §1001(b)(8), June 25, 1999, 113 Stat. 132; Pub. L. 108–77, title II, §205(a), Sept. 3, 2003, 117 Stat. 930; Pub. L. 108–78, title II, §204, Sept. 3, 2003, 117Stat. 961; Pub. L. 108–286, title II, §205, Aug. 3, 2004, 118 Stat. 939; Pub. L. 109–53, title II, §206(a), Aug. 2, 2005, 119 Stat. 484; Pub. L. 110–138, title II, §205(a), Dec. 14, 2007, 121 Stat. 1475; Pub. L. 112–41, title II, §204(a), Oct. 21, 2011, 125 Stat. 448; Pub. L. 112–42, title II, §205(a), Oct. 21, 2011, 125 Stat. 483; Pub. L. 112–43, title II, §205(a), Oct. 21, 2011, 125 Stat. 518; Pub. L. 116–113, title II, §204(a), Jan. 29, 2020, 134 Stat. 44.)
+(June 17, 1930, ch. 497, title IV, §592, 46 Stat. 750; Aug. 5, 1935, ch. 438, title III, §304(b), 49 Stat. 527; Pub. L. 95–410, title I, §110(a), Oct. 3, 1978, 92 Stat. 893; Pub. L. 96–417, title VI, §609, Oct. 10, 1980, 94 Stat. 1746; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–182, title II, §205(c), title VI, §621, Dec. 8, 1993, 107 Stat. 2095, 2180; Pub. L. 104–295, §§3(a)(4), (5), 21(e)(12), (13), Oct. 11, 1996, 110 Stat. 3515, 3531; Pub. L. 106–36, title I, §1001(b)(8), June 25, 1999, 113 Stat. 132; Pub. L. 108–77, title II, §205(a), Sept. 3, 2003, 117 Stat. 930; Pub. L. 108–78, title II, §204, Sept. 3, 2003, 117 Stat. 961; Pub. L. 108–286, title II, §205, Aug. 3, 2004, 118 Stat. 939; Pub. L. 109–53, title II, §206(a), Aug. 2, 2005, 119 Stat. 484; Pub. L. 110–138, title II, §205(a), Dec. 14, 2007, 121 Stat. 1475; Pub. L. 112–41, title II, §204(a), Oct. 21, 2011, 125 Stat. 448; Pub. L. 112–42, title II, §205(a), Oct. 21, 2011, 125 Stat. 483; Pub. L. 112–43, title II, §205(a), Oct. 21, 2011, 125 Stat. 518; Pub. L. 116–113, title II, §204(a), Jan. 29, 2020, 134 Stat. 44.)
 
 #### Amendment of Section
 
@@ -305,6 +305,8 @@ Notwithstanding any other provision of law, in any proceeding commenced by the U
 <i>For termination of amendment by section 107(c) of Pub. L. 108–78, see Effective and Termination Dates of 2003 Amendments note below.</i>
 
 <i>For termination of amendment by section 107(c) of Pub. L. 108–77, see Effective and Termination Dates of 2003 Amendments note below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -366,7 +368,7 @@ Subsec. (i). Pub. L. 110–138, §§107(c), 205(a)(2), temporarily added subsec.
 
 Subsec. (h). Pub. L. 109–53, §§107(d), 206(a)(2), temporarily added subsec. (h). See Effective and Termination Dates of 2005 Amendment note below.
 
-<b>2004</b>—Subsec. (c)(8), (9). Pub. L. 108–286, §§106(c), 205, temporarily added par. (8) and redesignated former par.\(8) as (9). See Effective and Termination Dates of 2004 Amendment note below.
+<b>2004</b>—Subsec. (c)(8), (9). Pub. L. 108–286, §§106(c), 205, temporarily added par. (8) and redesignated former par. (8) as (9). See Effective and Termination Dates of 2004 Amendment note below.
 
 <b>2003</b>—Subsec. (c)(6). Pub. L. 108–77, §§107(c), 205(a)(1)(B), temporarily added par. (6). Former par. (6) redesignated (7). See Effective and Termination Dates of 2003 Amendments note below.
 
@@ -420,6 +422,8 @@ Subsec. (f). Pub. L. 103–182, §205(c)(2), added subsec. (f).
 
 <b>1935</b>—Act Aug. 5, 1935, inserted "whether or not the United States shall or may be deprived of the lawful duties, or any portion thereof, accruing upon the merchandise, or any portion thereof, embraced or referred to in such invoice, declaration, affidavit, letter, paper, or statement;".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2020 Amendment
 
 Amendment by Pub. L. 116–113 effective on the date on which the USMCA enters into force (July 1, 2020) and applicable with respect to goods entered or exported from the United States on or after that date, see section 204(c) of Pub. L. 116–113, set out as a note under section 1514 of this title.
@@ -430,7 +434,7 @@ Amendment by Pub. L. 112–43 effective Oct. 21, 2011, applicable with respect t
 
 Amendment by Pub. L. 112–42 effective Oct. 21, 2011, applicable with respect to Colombia on the date the United States–Colombia Trade Promotion Agreement enters into force (May 15, 2012), and to cease to be effective on the date the Agreement terminates, see section 107(b), (c) of Pub. L. 112–42, set out in a note under section 3805 of this title.
 
-Amendment by Pub. L. 112–41 effective Oct. 21, 2011, applicable with respect to Korea on the date the UnitedStates–Korea Free Trade Agreement enters into force (Mar. 15, 2012), and to cease to be effective on the date the Agreement terminates, see section 107(b), (c) of Pub. L. 112–41, set out in a note under section 3805 of this title.
+Amendment by Pub. L. 112–41 effective Oct. 21, 2011, applicable with respect to Korea on the date the United States–Korea Free Trade Agreement enters into force (Mar. 15, 2012), and to cease to be effective on the date the Agreement terminates, see section 107(b), (c) of Pub. L. 112–41, set out in a note under section 3805 of this title.
 
 #### Effective and Termination Dates of 2007 Amendment
 
@@ -492,7 +496,7 @@ Pub. L. 95–410, title I, §110(f), Oct. 3, 1978, 92 Stat. 897, provided that:
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of theDepartment of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
 

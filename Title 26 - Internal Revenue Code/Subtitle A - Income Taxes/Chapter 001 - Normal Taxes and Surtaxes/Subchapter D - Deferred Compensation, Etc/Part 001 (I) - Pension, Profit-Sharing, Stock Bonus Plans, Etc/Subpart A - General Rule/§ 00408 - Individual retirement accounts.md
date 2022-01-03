@@ -38,7 +38,7 @@ For purposes of this section, the term "individual retirement annuity" means an 
 
 #### (c) Accounts established by employers and certain associations of employees
 
-A trust created or organized in the United States by an employer for the exclusive benefit of his employees or their beneficiaries, or by anassociation of employees (which may include employees within the meaning of section 401(c)(1)) for the exclusive benefit of its members or their beneficiaries, shall be treated as an individual retirement account (described in subsection (a)), but only if the written governing instrument creating the trust meets the following requirements:
+A trust created or organized in the United States by an employer for the exclusive benefit of his employees or their beneficiaries, or by an association of employees (which may include employees within the meaning of section 401(c)(1)) for the exclusive benefit of its members or their beneficiaries, shall be treated as an individual retirement account (described in subsection (a)), but only if the written governing instrument creating the trust meets the following requirements:
 
 &emsp;(1) The trust satisfies the requirements of paragraphs (1) through (6) of subsection (a).
 
@@ -82,7 +82,7 @@ A trust created or organized in the United States by an employer for the exclusi
 
 #### (B) Limitation
 
-&emsp;&emsp;This paragraph does not apply to any amount described in subparagraph (A)(i) received by an individual from an individual retirement account or individual retirement annuity if at any time during the 1-year period ending on the day of such receipt such individual received any other amount described in that subparagraph from an individual retirement account or an individual retirement annuity which was not includible in his gross income because of the application of this paragraph.
+&emsp;&emsp;This paragraph does not apply to any amount described in subparagraph (A)(i) received by an individual from an individual retirement account or individual retirement annuity if at any time during the 1-year period ending on the day of such receipt suchindividual received any other amount described in that subparagraph from an individual retirement account or an individual retirement annuity which was not includible in his gross income because of the application of this paragraph.
 
 #### (C) Denial of rollover treatment for inherited accounts, etc.
 
@@ -110,7 +110,7 @@ A trust created or organized in the United States by an employer for the exclusi
 
 #### (ii) Eligible plan
 
-&emsp;&emsp;&emsp;For purposes of clause (i), the term "eligible plan" means any account, annuity,contract, or plan referred to in subparagraph (A).
+&emsp;&emsp;&emsp;For purposes of clause (i), the term "eligible plan" means any account, annuity, contract, or plan referred to in subparagraph (A).
 
 #### (E) Denial of rollover treatment for required distributions
 
@@ -188,7 +188,7 @@ A trust created or organized in the United States by an employer for the exclusi
 
 #### (6) Transfer of account incident to divorce
 
-&emsp;The transfer of an individual's interest in an individual retirement account or an individual retirement annuity to his spouse or former spouse under a divorce or separation instrument described in clause (i) of section 121(d)(3)(C) is not to be considered a taxable transfer made by such individual notwithstanding any other provision of this subtitle,and such interest at the time of the transfer is to be treated as an individual retirement account of such spouse, and not of such individual. Thereafter such account or annuity for purposes of this subtitle is to be treated as maintained for the benefit of such spouse.
+&emsp;The transfer of an individual's interest in an individual retirement account or an individual retirement annuity to his spouse or former spouse under a divorce or separation instrument described in clause (i) of section 121(d)(3)(C) is not to be considered a taxable transfer made by such individual notwithstanding any other provision of this subtitle, and such interest at the time of the transfer is to be treated as an individual retirement account of such spouse, and not of such individual. Thereafter such account or annuity for purposes of this subtitle is to be treated as maintained for the benefit of such spouse.
 
 #### (7) Special rules for simplified employee pensions or simple retirement accounts
 
@@ -226,7 +226,7 @@ A trust created or organized in the United States by an employer for the exclusi
 
 #### (D) Application of section 72
 
-&emsp;&emsp;Notwithstanding section 72, in determining the extent to which a distribution is a qualified charitable distribution, the entire amount of the distribution shall be treated as includible in gross income without regard to subparagraph (A) to the extent that such amount does not exceed the aggregate amount which would have been so includible if all amounts in all individual retirement plans of the individual were distributed during such taxable year and all such plans were treated as 1 contract for purposes of determining under section 72 the aggregate amount which would have been so includible. Proper adjustments shall be made in applying section 72 to other distributions in such taxable year and subsequent taxable years.
+&emsp;&emsp;Notwithstanding section 72, in determining the extent to which a distribution isa qualified charitable distribution, the entire amount of the distribution shall be treated as includible in gross income without regard to subparagraph (A) to the extent that such amount does not exceed the aggregate amount which would have been so includible if all amounts in all individual retirement plans of the individual were distributed during such taxable year and all such plans were treated as 1 contract for purposes of determining under section 72 the aggregate amount which would have been so includible. Proper adjustments shall be made in applying section 72 to other distributions in such taxable year and subsequent taxable years.
 
 #### (E) Denial of deduction
 
@@ -250,7 +250,7 @@ A trust created or organized in the United States by an employer for the exclusi
 
 &emsp;&emsp;&emsp;&emsp;(I) the annual limitation under section 223(b) computed on the basis of the type of coverage under the high deductible health plan covering the individual at the time of the qualified HSA funding distribution, over
 
-&emsp;&emsp;&emsp;&emsp;(II) in the case of a distribution described in clause (ii)(II), the amount ofthe earlier qualified HSA funding distribution.
+&emsp;&emsp;&emsp;&emsp;(II) in the case of a distribution described in clause (ii)(II), the amount of the earlier qualified HSA funding distribution.
 
 #### (ii) One-time transfer
 
@@ -350,7 +350,7 @@ The trustee of an individual retirement account and the issuer of an endowment c
 
 #### (j) Increase in maximum limitations for simplified employee pensions
 
-In the case of any simplified employee pension, subsections (a)(1) and (b)(2) of this section shall be applied by increasing the amounts contained therein by the amount of the limitation in effect under section 415(c)(1)(A).
+In the case of any simplified employee pension, subsections (a)(1) and (b)(2) of this sectionshall be applied by increasing the amounts contained therein by the amount of the limitation in effect under section 415(c)(1)(A).
 
 #### (k) Simplified employee pension defined
 
@@ -438,7 +438,7 @@ In the case of any simplified employee pension, subsections (a)(1) and (b)(2) of
 
 #### (B) Exception where more than 25 employees
 
-&emsp;&emsp;This paragraph shall not apply with respect to any year in the case of a simplified employee pension maintained by an employer with more than 25 employees who were eligible to participate (or would have been required to be eligible to participate if a pension was maintained) at any time during the preceding year.
+&emsp;&emsp;This paragraph shall not apply with respect to any year in the case of a simplifiedemployee pension maintained by an employer with more than 25 employees who were eligible to participate (or would have been required to be eligible to participate if a pension was maintained) at any time during the preceding year.
 
 #### (C) Distributions of excess contributions
 
@@ -668,7 +668,7 @@ For purposes of subsection (a)(2), the term "bank" means—
 
 #### (5) Special rule for difficulty of care payments excluded from gross income
 
-&emsp;In the case of an individual who for a taxable year excludes from gross income undersection 131 a qualified foster care payment which is a difficulty of care payment, if—
+&emsp;In the case of an individual who for a taxable year excludes from gross income under section 131 a qualified foster care payment which is a difficulty of care payment, if—
 
 &emsp;&emsp;(A) the deductible amount in effect for the taxable year under subsection (b), exceeds
 
@@ -722,7 +722,7 @@ For purposes of subsection (a)(2), the term "bank" means—
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;The term "eligible employer" means, with respect to any year, an employer which had no more than 100 employees who received at least $5,000 of compensation from the employer for the preceding year.
+&emsp;&emsp;&emsp;&emsp;The term "eligible employer" means, with respect to any year, an employerwhich had no more than 100 employees who received at least $5,000 of compensation from the employer for the preceding year.
 
 #### (II) 2-year grace period
 
@@ -820,7 +820,7 @@ For purposes of subsection (a)(2), the term "bank" means—
 
 #### (7) Use of designated financial institution
 
-&emsp;A plan shall not be treated as failing to satisfy the requirements of this subsection or any other provision of this title merely becausethe employer makes all contributions to the individual retirement accounts or annuities of a designated trustee or issuer. The preceding sentence shall not apply unless each plan participant is notified in writing (either separately or as part of the notice under subsection (l)(2)(C)) that the participant's balance may be transferred without cost or penalty to another individual account or annuity in accordance with subsection (d)(3)(G).
+&emsp;A plan shall not be treated as failing to satisfy the requirements of this subsection or any other provision of this title merely because the employer makes all contributions to the individual retirement accounts or annuities of a designated trustee or issuer. The preceding sentence shall not apply unless each plan participant is notified in writing (either separately or as part of the notice under subsection (l)(2)(C)) that the participant's balance may be transferred without cost or penalty to another individual account or annuity in accordance with subsection (d)(3)(G).
 
 #### (8) Coordination with maximum limitation under subsection (a)
 
@@ -892,11 +892,13 @@ For purposes of subsection (a)(2), the term "bank" means—
 
 &emsp;&emsp;<b>(2) For tax on certain accumulations in individual retirement accounts or annuities, see section 4974.</b>
 
-(Added Pub. L. 93–406, title II, §2002(b), Sept. 2, 1974, 88 Stat. 959; amended Pub. L. 94–455, title XV, §1501(b)(2), (5), (10), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1735–1737, 1834; Pub. L. 95–600, title I, §§152(a), (b), 156(c)(1), (3), 157(c)(1), (d)(1), (e)(1)(A), (g)(3), (h)(2), title VII, §703(c)(4), Nov. 6, 1978, 92 Stat. 2797, 2802, 2803, 2805, 2806, 2808, 2939; Pub. L. 96–222, title I, §101(a)(10)(A), (C), (F), (G), (J)(i), (14)(B), (E)(ii), Apr. 1, 1980, 94 Stat. 201–205; Pub. L. 96–605, title II, §225(b)(3), (4), Dec. 28, 1980, 94 Stat. 3529; Pub.L. 97–34, title III, §§311(g)(1)(A)–(C), (2), (h)(2), 312(b)(2), (c)(5), 313(b)(2), 314(b)(1), Aug. 13, 1981, 95 Stat. 281–284, 286; Pub. L. 97–248, title II, §§237(e)(3), 238(d)(3), (4), 243(a), (b)(1)(A), title III, §335(a)(1), Sept. 3, 1982, 96 Stat. 512, 513, 521, 522, 628; Pub. L. 97–448, title I, §103(d)(1), (e), Jan. 12, 1983, 96 Stat. 2378; Pub. L. 98–369, div. A, title I, §147(a), title IV, §491(d)(19)–(24), title V, §§521(b), 522(d)(12), title VII, §713(c)(2)(B), (f)(2), (5)(B), (g)(2), (j), July 18, 1984, 98 Stat. 687, 850, 867, 871, 957, 959, 960; Pub. L. 99–514, title XI, §§1102(a), (b)(2), (c), (e)(2), 1108(a), (d)–(g)(1), (4), (6), 1121(c)(2), 1122(e)(2)(B), 1123(d)(2), 1144(a), title XVIII, §§1852(a)(1), (5)(C), (7)(A), 1875(c)(6)(A), (8), 1898(a)(5), Oct. 22, 1986, 100 Stat. 2414–2416, 2431, 2433, 2434, 2465, 2470, 2475, 2490, 2864–2866, 2895, 2944; Pub. L. 100–647, title I, §§1011(b)(1)–(3), (c)(7)(C), (f)(1)–(5), (10), (i)(5), 1011A(a)(2)(A), 1018(t)(3)(D), title VI, §6057(a), Nov. 10, 1988, 102 Stat. 3456, 3458, 3461–3463, 3468, 3472, 3588, 3698; Pub. L. 101–239, title VII, §§7811(m)(7), 7841(a)(1), Dec. 19, 1989, 103 Stat. 2412, 2427; Pub. L. 102–318, title V, §521(b)(16)–(19), July 3, 1992, 106 Stat. 311; Pub. L. 103–66, title XIII, §13212(b), Aug. 10, 1993, 107 Stat. 472; Pub. L. 103–465, title VII, §732(d), Dec. 8, 1994, 108 Stat. 5005; Pub. L. 104–188, title I, §§1421(a), (b)(3)(B), (5), (6), (c), 1427(b)(3), 1431(c)(1)(B), 1455(b)(1), Aug. 20, 1996, 110 Stat. 1792, 1796–1798, 1802, 1803, 1817; Pub. L. 105–34, title III, §§302(d), 304(a), title XV, §1501(b), title XVI, §1601(d)(1)(A)–(C)(i), (D)–(G), Aug. 5, 1997, 111 Stat. 829, 831, 1058, 1087, 1088; Pub. L. 105–206, title VI, §§6015(a), 6016(a)(1), 6018(b), July 22, 1998, 112 Stat. 820–822; Pub. L. 106–554, §1(a)(7) \[title III, §319(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 107–16, title VI, §§601(b), 602(a), 611(c)(1), (f)(1), (2), (g)(2), 641(e)(8), 642(a), (b)(2), (3), 643(c), 644(b), June 7, 2001, 115 Stat. 95, 97, 99, 121–123; Pub. L. 107–147, title IV, §411(i)(1), (j)(1), Mar. 9, 2002, 116 Stat. 46, 47; Pub. L. 108–311, title IV, §§404(d), 408(a)(12), (13), Oct. 4, 2004, 118 Stat. 1188, 1191; Pub. L. 109–280, title XII, §1201(a), Aug. 17, 2006, 120 Stat. 1063; Pub. L. 109–432, div. A, title III, §307(a), Dec. 20, 2006, 120 Stat. 2951; Pub. L. 110–172, §3(a), Dec. 29, 2007, 121 Stat. 2474; Pub. L. 110–343, div. C, title II, §205(a), Oct. 3, 2008, 122 Stat. 3865; Pub. L. 111–312, title VII, §725(a), Dec. 17, 2010, 124 Stat. 3316; Pub. L. 112–240, title II, §208(a), Jan. 2, 2013, 126 Stat. 2324; Pub. L. 113–295, div. A, title I, §108(a), title II, §221(a)(53), Dec. 19, 2014, 128 Stat. 4013, 4045; Pub. L. 114–113, div. Q, title I, §112(a), title III, §306(a), Dec. 18, 2015, 129 Stat. 3047, 3089; Pub. L. 115–97, title I, §11051(b)(3)(G), Dec. 22, 2017, 131 Stat. 2090; Pub. L. 115–141, div. U, title IV, §401(a)(75), (76), Mar. 23, 2018, 132 Stat. 1187; Pub. L. 116–94, div. O, title I, §§101(a)(3), 107(b), 114(c), 116(a)(1), Dec. 20, 2019, 133 Stat. 3141, 3149, 3156, 3161.)
+(Added Pub. L. 93–406, title II, §2002(b), Sept. 2, 1974, 88 Stat. 959; amended Pub. L. 94–455, title XV, §1501(b)(2), (5), (10), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1735–1737, 1834; Pub. L. 95–600, title I, §§152(a), (b), 156(c)(1), (3), 157(c)(1), (d)(1), (e)(1)(A), (g)(3), (h)(2), title VII, §703(c)(4), Nov. 6, 1978, 92 Stat. 2797, 2802, 2803, 2805, 2806, 2808, 2939; Pub. L. 96–222, title I, §101(a)(10)(A), (C), (F), (G), (J)(i), (14)(B), (E)(ii), Apr. 1, 1980, 94 Stat. 201–205; Pub. L. 96–605, title II, §225(b)(3), (4), Dec. 28, 1980, 94 Stat. 3529; Pub. L. 97–34, title III, §§311(g)(1)(A)–(C), (2), (h)(2), 312(b)(2), (c)(5), 313(b)(2), 314(b)(1), Aug. 13, 1981, 95 Stat. 281–284, 286; Pub. L. 97–248, title II, §§237(e)(3), 238(d)(3), (4), 243(a), (b)(1)(A), title III, §335(a)(1), Sept. 3, 1982, 96 Stat. 512, 513, 521, 522, 628; Pub. L. 97–448, title I, §103(d)(1), (e), Jan. 12, 1983, 96 Stat. 2378; Pub. L. 98–369, div. A, title I, §147(a), title IV, §491(d)(19)–(24), title V, §§521(b), 522(d)(12), title VII, §713(c)(2)(B), (f)(2), (5)(B), (g)(2), (j), July 18, 1984, 98 Stat. 687, 850, 867, 871, 957, 959, 960; Pub. L. 99–514, title XI, §§1102(a), (b)(2), (c), (e)(2), 1108(a), (d)–(g)(1), (4), (6), 1121(c)(2), 1122(e)(2)(B), 1123(d)(2), 1144(a), title XVIII, §§1852(a)(1), (5)(C), (7)(A), 1875(c)(6)(A), (8), 1898(a)(5), Oct. 22, 1986, 100 Stat. 2414–2416, 2431, 2433, 2434, 2465, 2470, 2475, 2490, 2864–2866, 2895, 2944; Pub. L. 100–647, title I, §§1011(b)(1)–(3), (c)(7)(C), (f)(1)–(5), (10), (i)(5), 1011A(a)(2)(A), 1018(t)(3)(D), title VI, §6057(a), Nov. 10, 1988, 102 Stat. 3456, 3458, 3461–3463, 3468, 3472, 3588, 3698; Pub. L. 101–239, title VII, §§7811(m)(7), 7841(a)(1), Dec. 19, 1989, 103 Stat. 2412, 2427; Pub. L. 102–318, title V, §521(b)(16)–(19), July 3, 1992, 106 Stat. 311; Pub. L. 103–66, title XIII, §13212(b), Aug. 10, 1993, 107 Stat. 472; Pub. L. 103–465, title VII, §732(d), Dec. 8, 1994, 108 Stat. 5005; Pub. L. 104–188, title I, §§1421(a), (b)(3)(B), (5), (6), (c), 1427(b)(3), 1431(c)(1)(B), 1455(b)(1), Aug. 20, 1996, 110 Stat. 1792, 1796–1798, 1802, 1803, 1817; Pub. L. 105–34, title III, §§302(d), 304(a), title XV, §1501(b), title XVI, §1601(d)(1)(A)–(C)(i), (D)–(G), Aug. 5, 1997, 111 Stat. 829, 831, 1058, 1087, 1088; Pub. L. 105–206, title VI, §§6015(a), 6016(a)(1), 6018(b), July 22, 1998, 112 Stat. 820–822; Pub. L. 106–554, §1(a)(7) \[title III, §319(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 107–16, title VI, §§601(b), 602(a), 611(c)(1), (f)(1), (2), (g)(2), 641(e)(8), 642(a), (b)(2), (3), 643(c), 644(b), June 7, 2001, 115 Stat. 95, 97, 99, 121–123; Pub. L. 107–147, title IV, §411(i)(1), (j)(1), Mar. 9, 2002, 116 Stat. 46, 47; Pub. L. 108–311, title IV, §§404(d), 408(a)(12), (13), Oct. 4, 2004, 118 Stat. 1188, 1191; Pub. L. 109–280, title XII, §1201(a), Aug. 17, 2006, 120 Stat. 1063; Pub. L. 109–432, div. A, title III, §307(a), Dec. 20, 2006, 120 Stat. 2951; Pub. L. 110–172, §3(a), Dec. 29, 2007, 121 Stat. 2474; Pub. L. 110–343, div. C, title II, §205(a), Oct. 3, 2008, 122 Stat. 3865; Pub. L. 111–312, title VII, §725(a), Dec. 17, 2010, 124 Stat. 3316; Pub. L. 112–240, title II, §208(a), Jan. 2, 2013, 126 Stat. 2324; Pub. L. 113–295, div. A, title I, §108(a), title II, §221(a)(53), Dec. 19, 2014, 128 Stat. 4013, 4045; Pub. L. 114–113, div. Q, title I, §112(a), title III, §306(a), Dec. 18, 2015, 129 Stat. 3047, 3089; Pub. L. 115–97, title I, §11051(b)(3)(G), Dec. 22, 2017, 131 Stat. 2090; Pub. L. 115–141, div. U, title IV, §401(a)(75), (76), Mar. 23, 2018, 132 Stat. 1187; Pub. L. 116–94, div. O, title I, §§101(a)(3), 107(b), 114(c), 116(a)(1), Dec. 20, 2019, 133 Stat. 3141, 3149, 3156, 3161.)
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table under section 401 of this title.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -952,7 +954,7 @@ Subsec. (q)(3)(A). Pub. L. 107–147, §411(i)(1), reenacted heading without cha
 
 <b>2001</b>—Subsec. (a)(1). Pub. L. 107–16, §641(e)(8), substituted "403(b)(8), or 457(e)(16)" for "or 403(b)(8),".
 
-Pub. L. 107–16, §601(b)(1), substituted "on behalf of any individual in excess of the amount in effect forsuch taxable year under section 219(b)(1)(A)" for "in excess of $2,000 on behalf of any individual".
+Pub. L. 107–16, §601(b)(1), substituted "on behalf of any individual in excess of the amount in effect for such taxable year under section 219(b)(1)(A)" for "in excess of $2,000 on behalf of any individual".
 
 Subsec. (b). Pub. L. 107–16, §601(b)(3), substituted "the dollar amount in effect under section 219(b)(1)(A)" for "$2,000" in concluding provisions.
 
@@ -1114,7 +1116,7 @@ Subsec. (k)(7)(B). Pub. L. 100–647, §1011(f)(3)(B), amended subpar. (B) gener
 
 Subsec. (k)(8). Pub. L. 100–647, §1011(f)(3)(D), (10), substituted "paragraphs (3)(C) and (6)(D)(ii)" for "paragraph (3)(C)" and inserted ", except that in the case of years beginning after 1988, the $200,000 amount (as so adjusted) shall not exceed the amount in effect under section 401(a)(17)" after "under section 415(d)".
 
-Subsec. (m)(3). Pub. L. 100–647, §6057(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "In the case of an individual retirement account,paragraph (2) shall not apply to any gold coin described in paragraph (7), (8), (9), or (10) of section 5112(a) of title 31 or any silver coin described in section 5112(e) of title 31."
+Subsec. (m)(3). Pub. L. 100–647, §6057(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "In the case of an individual retirement account, paragraph (2) shall not apply to any gold coin described in paragraph (7), (8), (9), or (10) of section 5112(a) of title 31 or any silver coin described in section 5112(e) of title 31."
 
 Subsec. (o)(4)(B)(iv). Pub. L. 100–647, §1011(b)(1), substituted "in which the taxable year begins" for "with or within which the taxable year ends".
 
@@ -1296,6 +1298,8 @@ Subsec. (d)(4). Pub. L. 94–455, §1501(b)(5), as amended by Pub. L. 95–600, 
 
 Subsecs. (h), (i). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2019 Amendment
 
 Pub. L. 116–94, div. O, title I, §101(e), Dec. 20, 2019, 133 Stat. 3145, provided that:
@@ -1306,7 +1310,7 @@ In general.—The amendments made by this section \[amending this section, secti
 
 "(2)
 
-Rule of construction.—Nothing in the amendments made by subsection (a) \[amending this section and section 413 of this title\] shall be construed as limiting the authority of the Secretary of the Treasury or the Secretary's delegate (determined without regard to such amendment) to provide for the proper treatment of a failure to meet any requirement applicable under the Internal Revenue Code of 1986 with respect to one employer (and its employees) in a multiple employer plan."
+Rule of construction.—Nothing in the amendments made by subsection (a) \[amending this sectionand section 413 of this title\] shall be construed as limiting the authority of the Secretary of the Treasury or the Secretary's delegate (determined without regard to such amendment) to provide for the proper treatment of a failure to meet any requirement applicable under the Internal Revenue Code of 1986 with respect to one employer (and its employees) in a multiple employer plan."
 
 Amendment by section 107(b) of Pub. L. 116–94 applicable to distributions made for taxable years beginning after Dec. 31, 2019, see section 107(d)(2) of Pub. L. 116–94, set out in a note under section 219 of this title.
 
@@ -1422,7 +1426,7 @@ Pub. L. 105–34, title III, §304(b), Aug. 5, 1997, 111 Stat. 831, provided tha
 
 Pub. L. 105–34, title XV, §1501(c)(2), Aug. 5, 1997, 111 Stat. 1058, provided that: "The amendment made by subsection (b) \[amending this section\] shall apply to years beginning after December 31, 1996."
 
-Amendment by section 1601(d)(1)(A)–(C)(i), (D)–(G) of Pub. L. 105–34 effective as if included in the provisionsof the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
+Amendment by section 1601(d)(1)(A)–(C)(i), (D)–(G) of Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -1466,7 +1470,7 @@ Pub. L. 100–647, title VI, §6057(b), Nov. 10, 1988, 102 Stat. 3698, provided 
 
 Amendment by section 1102(a), (b)(2), (c), (e)(2) of Pub. L. 99–514 applicable to contributions and distributions for taxable years beginning after Dec. 31, 1986, see section 1102(g) of Pub. L. 99–514, set out as a note under section 219 of this title.
 
-Amendment by section 1108(a), (d)–(g)(1), (4), (6) of Pub. L. 99–514 applicable to years beginning after Dec. 31, 1986, except that section 408(k)(3)(D) and (E) of the Internal Revenue Code of 1954 (as in effect before the amendments made by section 1108 of Pub. L. 99–514) shall continue to apply for years beginning after Dec. 31, 1986, and before Jan. 1, 1989, except that employer contributions under an arrangement under section 408(k)(6) of the Internal Revenue Code of 1986 (as added by section 1108 of Pub. L. 99–514) may not be integrated under section 408(k)(3)(D) and (E) of the Internal Revenue Code of 1954, see section 1108(h) of Pub. L. 99–514, as amended, set out as a note under section 219 of this title.
+Amendment by section 1108(a), (d)–(g)(1), (4), (6) of Pub. L. 99–514 applicable to years beginning after Dec. 31, 1986, except that section 408(k)(3)(D) and (E) of the Internal Revenue Code of 1954 (as in effect before the amendments made by section 1108 of Pub. L. 99–514) shall continue to apply for years beginning after Dec.31, 1986, and before Jan. 1, 1989, except that employer contributions under an arrangement under section 408(k)(6) of the Internal Revenue Code of 1986 (as added by section 1108 of Pub. L. 99–514) may not be integrated under section 408(k)(3)(D) and (E) of the Internal Revenue Code of 1954, see section 1108(h) of Pub. L. 99–514, as amended, set out as a note under section 219 of this title.
 
 Amendment by section 1121(c)(2) of Pub. L. 99–514 applicable to years beginning after Dec. 31, 1986, with special provisions for plans maintained pursuant to collective bargaining agreements ratified before Mar. 1, 1986, and transition rules, see section 1121(d) of Pub. L. 99–514, set out as a note under section 401 of this title.
 
@@ -1490,7 +1494,7 @@ Amendment by section 491(d)(19)–(24) of Pub. L. 98–369 applicable to obligat
 
 Amendment by section 521(b) of Pub. L. 98–369 applicable to years beginning after Dec. 31, 1984, see section 521(e) of Pub. L. 98–369, set out as a note under section 401 of this title.
 
-Amendment by section 522(d)(12) of Pub. L. 98–369 applicable to distributions made after July 18, 1984, intaxable years ending after that date, see section 522(e) of Pub. L. 98–369, set out as a note under section 402 of this title.
+Amendment by section 522(d)(12) of Pub. L. 98–369 applicable to distributions made after July 18, 1984, in taxable years ending after that date, see section 522(e) of Pub. L. 98–369, set out as a note under section 402 of this title.
 
 Amendment by section 713 of Pub. L. 98–369 effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as a note under section 31 of this title.
 
@@ -1536,7 +1540,7 @@ Amendment by section 157(h)(2) of Pub. L. 95–600 applicable to payments made i
 
 Pub. L. 95–600, title I, §157(e)(2), Nov. 6, 1978, 92 Stat. 2806, provided that: "The amendments made by paragraph (1) \[amending this section and section 409 of this title\] shall apply to taxable years beginning after December 31, 1976."
 
-Amendment by section 157(g)(3) of Pub. L. 95–600 applicable to lump-sum distributions completed after Dec. 31, 1978, in taxable years ending after such date, see section 157(g)(4) of Pub. L. 95–600, set out as a note under section 402 of this title.
+Amendment by section 157(g)(3) of Pub. L. 95–600 applicable to lump-sum distributions completed after Dec. 31, 1978, in taxable years ending after such date,see section 157(g)(4) of Pub. L. 95–600, set out as a note under section 402 of this title.
 
 Amendment by section 703(c)(4) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1976, see section 703(c)(5) of Pub. L. 95–600, set out as a note under section 219 of this title.
 
@@ -1624,7 +1628,7 @@ Exception.—An airline payment amount shall not include any amount payable on t
 
 &emsp;"(2)
 
-Qualified airline employee.—The term 'qualified airline employee' means an employee or former employee of a commercial passenger airline carrier who was a participant in a defined benefit plan maintained by the carrier which—
+Qualified airline employee.—The term 'qualified airline employee' means an employee or formeremployee of a commercial passenger airline carrier who was a participant in a defined benefit plan maintained by the carrier which—
 
 &emsp;&emsp;"(A) is a plan described in section 401(a) of the Internal Revenue Code of 1986 which includes a trust exempt from tax under section 501(a) of such Code, and
 
@@ -1662,7 +1666,7 @@ Effective Date.—The form required by subsection (a) shall be made available fo
 
 #### Plan Amendments Not Required Until January 1, 1998
 
-For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L.104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1994
 

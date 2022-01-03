@@ -20,9 +20,13 @@ It shall be the duty and function of the Council—
 
 (Pub. L. 91–190, title II, §204, Jan. 1, 1970, 83 Stat. 855.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 4341 of this title, referred to in par. (1), was omitted from the Code.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

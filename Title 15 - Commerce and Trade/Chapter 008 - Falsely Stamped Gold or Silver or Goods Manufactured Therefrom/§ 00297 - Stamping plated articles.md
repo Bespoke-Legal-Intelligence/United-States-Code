@@ -2,7 +2,7 @@
 
 #### (a) Words "sterling" or "coin" forbidden
 
-In the case of articles of merchandise made in whole or in part of an inferior metal, having deposited or plated thereon or brazed or otherwise affixed thereto a plating, covering, or sheet composed of gold or silver, or of an alloy of either of said metals, and known in the market as rolled gold plate, gold plate, gold filled, silver plate, or gold or silver electroplate, or by any similar designation, so imported into or exported from the United States, or so deposited in the United States mails for transmission, or so delivered to any common carrier, or so transported or caused to be transported as specified in section 294 of this title, no such article, nor any tag, card, or label attached thereto, nor any box, package, cover, or wrapper in which such article is encased or inclosed, shall be stamped, branded, engraved, or imprinted with any word or mark usually employed to indicate the fineness of gold, unless such word or mark be accompanied by other words, plainly indicating that such article or part thereof is made of rolled gold plate, gold plate, or gold electroplate, or is gold filled, as the case may be, and no such article, nor any tag, card, or label attached thereto, nor any box, package, cover, or wrapper in which such article is incased or inclosed, shall be stamped, branded, engraved, or imprinted with the word "sterling" or the word "coin", either alone or in conjunction with other words or marks.
+In the case of articles of merchandise made in whole or in part of an inferior metal, having deposited or plated thereon or brazed or otherwiseaffixed thereto a plating, covering, or sheet composed of gold or silver, or of an alloy of either of said metals, and known in the market as rolled gold plate, gold plate, gold filled, silver plate, or gold or silver electroplate, or by any similar designation, so imported into or exported from the United States, or so deposited in the United States mails for transmission, or so delivered to any common carrier, or so transported or caused to be transported as specified in section 294 of this title, no such article, nor any tag, card, or label attached thereto, nor any box, package, cover, or wrapper in which such article is encased or inclosed, shall be stamped, branded, engraved, or imprinted with any word or mark usually employed to indicate the fineness of gold, unless such word or mark be accompanied by other words, plainly indicating that such article or part thereof is made of rolled gold plate, gold plate, or gold electroplate, or is gold filled, as the case may be, and no such article, nor any tag, card, or label attached thereto, nor any box, package, cover, or wrapper in which such article is incased or inclosed, shall be stamped, branded, engraved, or imprinted with the word "sterling" or the word "coin", either alone or in conjunction with other words or marks.
 
 #### (b) Identifying trademark
 
@@ -22,6 +22,8 @@ Whenever any person, firm, corporation, or association, being a manufacturer or 
 
 (June 13, 1906, ch. 3289, §4, 34 Stat. 261; Pub. L. 87–354, §1, Oct. 4, 1961, 75 Stat. 775; Pub. L. 91–366, §1(e), July 31, 1970, 84 Stat. 691.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The effective date of this Act, referred to in subsec. (b), as the first day of the third month beginning after Oct. 4, 1961, see Effective Date of 1961 Amendment note set out under this section.
@@ -32,9 +34,11 @@ The effective date of this Act, referred to in subsec. (b), as the first day of 
 
 <b>1961</b>—Pub. L. 87–354 designated existing provisions as subsec. (a) and added subsec. (b).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1970 Amendment
 
-Pub. L. 91–366, §4, July 31, 1970, 84 Stat. 691, provided that: "This Act \[amending this section and sections 298and 299 of this title and enacting provisions set out below\] shall take effect three months after enactment \[July 31, 1970\]."
+Pub. L. 91–366, §4, July 31, 1970, 84 Stat. 691, provided that: "This Act \[amending this section and sections 298 and 299 of this title and enacting provisions set out below\] shall take effect three months after enactment \[July 31, 1970\]."
 
 #### Effective Date of 1961 Amendment
 

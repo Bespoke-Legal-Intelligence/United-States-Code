@@ -36,7 +36,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(v) any other relief or rescue worker or volunteer that the President, acting through the Secretary of Health and Human Services, determines to be appropriate;
 
-&emsp;&emsp;(B) a worker who responds to a disaster, either natural or manmade, involving anymode of transportation in the United States or disrupting the transportation system of the United States, by assisting in the cleanup or restoration of critical infrastructure in and around a disaster area;
+&emsp;&emsp;(B) a worker who responds to a disaster, either natural or manmade, involving any mode of transportation in the United States or disrupting the transportation system of the United States, by assisting in the cleanup or restoration of critical infrastructure in and around a disaster area;
 
 &emsp;&emsp;(C) a person whose place of residence is in a disaster area, caused by either a natural or manmade disaster involving any mode of transportation in the United States or disrupting the transportation system of the United States;
 
@@ -259,6 +259,8 @@ Not later than 1 year after the establishment of a program under subsection (b)(
 &emsp;There are authorized to be appropriated such sums as are necessary to carry out this subsection.
 
 (Pub. L. 109–347, title VII, §709, Oct. 13, 2006, 120 Stat. 1947.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

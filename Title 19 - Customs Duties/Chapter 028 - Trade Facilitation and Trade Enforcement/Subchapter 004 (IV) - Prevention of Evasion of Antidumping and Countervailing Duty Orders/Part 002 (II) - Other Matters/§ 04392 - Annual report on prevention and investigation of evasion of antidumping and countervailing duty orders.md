@@ -28,7 +28,7 @@ Each report required under subsection (a) shall include—
 
 &emsp;&emsp;(G) the amount of antidumping and countervailing duties collected as a result of any investigations or other actions by U.S. Customs and Border Protection or any other Federal agency;
 
-&emsp;&emsp;(H) a description of the allocation of personnel and other resources of U.S. Customsand Border Protection and U.S. Immigration and Customs Enforcement to prevent and investigate evasion, including any assessments conducted regarding the allocation of such personnel and resources; and
+&emsp;&emsp;(H) a description of the allocation of personnel and other resources of U.S. Customs and Border Protection and U.S. Immigration and Customs Enforcement to prevent and investigate evasion, including any assessments conducted regarding the allocation of such personnel and resources; and
 
 &emsp;&emsp;(I) a description of training conducted to increase expertise and effectiveness in the prevention and investigation of evasion; and
 

@@ -6,6 +6,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–337, div. A, title XVI, §1662(d)(3), Oct. 5, 1994, 108 Stat. 2991, amended analysis generally, substituting item 591 for former items 591 to 600a.

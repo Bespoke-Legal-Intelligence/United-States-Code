@@ -112,7 +112,7 @@ Transfer of Program.—There are hereby transferred to the Administrator for Nuc
 
 "(b)
 
-Transfer of Assets.—(1) Notwithstanding any restriction or limitation in law on the availability of Cooperative Threat Reduction funds specified in paragraph (2), so much of the property, records, and unexpended balances of appropriations, allocations, and other funds employed, used, held, available, or to be made available in connection with the program transferred by subsection (a) are transferred to the Administrator for use in connection with the program transferred.
+Transfer of Assets.—(1) Notwithstanding any restriction or limitation in law on the availability of Cooperative Threat Reduction funds specified in paragraph (2), so much of the property, records, and unexpended balances of appropriations, allocations, andother funds employed, used, held, available, or to be made available in connection with the program transferred by subsection (a) are transferred to the Administrator for use in connection with the program transferred.
 
 "(2) The Cooperative Threat Reduction funds specified in this paragraph are the following:
 

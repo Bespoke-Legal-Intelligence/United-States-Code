@@ -1,6 +1,6 @@
 ### §8811. Rule of construction
 
-Nothing in this subtitle or the amendments made by this subtitle shall be construed to limit sanctions imposed with respect to Iran under any other provision of law or to limit the authority of the President to impose additional sanctions with respect to Iran.
+Nothing in this subtitle or the amendments made by this subtitle shall be construed to limitsanctions imposed with respect to Iran under any other provision of law or to limit the authority of the President to impose additional sanctions with respect to Iran.
 
 (Pub. L. 112–239, div. A, title XII, §1255, Jan. 2, 2013, 126 Stat. 2018.)
 

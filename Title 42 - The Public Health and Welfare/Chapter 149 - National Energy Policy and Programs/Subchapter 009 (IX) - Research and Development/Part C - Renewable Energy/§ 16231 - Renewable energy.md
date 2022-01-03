@@ -118,6 +118,8 @@ In carrying out this section, the Secretary, in consultation with the Secretary 
 
 (Pub. L. 109–58, title IX, §931, Aug. 8, 2005, 119 Stat. 868; Pub. L. 110–140, title II, §231, Dec. 19, 2007, 121 Stat. 1536; Pub. L. 116–260, div. Z, title III, §3006(b)(3), Dec. 27, 2020, 134 Stat. 2512.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2020</b>—Subsec. (a)(2). Pub. L. 116–260, §3006(b)(3)(A)(i), (ii), redesignated subpars. (C) to (E) as (A) to (C), respectively, and struck out former subpars. (A) and (B) which related to solar and wind energy programs.
@@ -127,6 +129,8 @@ Subsecs. (d) to (g). Pub. L. 116–260, §3006(b)(3)(B), (C), redesignated subse
 <b>2007</b>—Subsec. (b)(4). Pub. L. 110–140, §231(1), added par. (4).
 
 Subsec. (c)(2) to (4). Pub. L. 110–140, §231(2), in par. (2), substituted "$377,000,000" for "$251,000,000", in par. (3), substituted "$398,000,000" for "$274,000,000", and added par. (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

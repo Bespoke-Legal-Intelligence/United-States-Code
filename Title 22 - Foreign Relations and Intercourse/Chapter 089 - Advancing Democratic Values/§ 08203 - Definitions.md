@@ -26,7 +26,7 @@ In this chapter:
 
 &emsp;The term "nondemocratic country" or "democratic transition country" shall include any country which is not governed by a fully functioning democratic form of government, as determined by the Secretary, taking into account the general consensus regarding the status of civil and political rights in a country by major nongovernmental organizations that conduct assessments of such conditions in countries and whether the country exhibits the following characteristics:
 
-&emsp;&emsp;(A) All citizens of such country have the right to, and are not restricted in practice from, fully and freely participating in the political life of such country.
+&emsp;&emsp;(A) All citizens of such country have the right to, and are not restricted in practicefrom, fully and freely participating in the political life of such country.
 
 &emsp;&emsp;(B) The national legislative body of such country and, if directly elected, the head of government of such country, are chosen by free, fair, open, and periodic elections, by universal and equal suffrage, and by secret ballot.
 

@@ -34,7 +34,7 @@ Venue.—The action must be brought in the district court of the United States�
 
 &emsp;(3)
 
-Service of process.—Service of process shall be made on the appropriate UnitedStates Attorney, the Attorney General, and the Secretary, in the manner provided by the Federal Rules of Civil Procedure (28 App. U.S.C.). Notice of the action shall be given to all interested persons as ordered by the court.
+Service of process.—Service of process shall be made on the appropriate United States Attorney, the Attorney General, and the Secretary, in the manner provided by the Federal Rules of Civil Procedure (28 App. U.S.C.). Notice of the action shall be given to all interested persons as ordered by the court.
 
 &emsp;(4)
 

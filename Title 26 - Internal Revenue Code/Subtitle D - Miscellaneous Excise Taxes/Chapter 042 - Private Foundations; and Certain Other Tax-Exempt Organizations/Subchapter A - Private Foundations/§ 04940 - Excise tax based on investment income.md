@@ -114,6 +114,8 @@ There is hereby imposed on each private foundation which is not exempt from taxa
 
 (Added Pub. L. 91–172, title I, §101(b), Dec. 30, 1969, 83 Stat. 498; amended Pub. L. 94–455, title XIX, §1901(b)(33)(N), Oct. 4, 1976, 90 Stat. 1802; Pub. L. 95–345, §2(a)(4), Aug. 15, 1978, 92 Stat. 481; Pub. L. 95–600, title V, §520(a), Nov. 6, 1978, 92 Stat. 2884; Pub. L. 98–369, div. A, title III, §§302(a), 303(a), July 18, 1984, 98 Stat. 779, 781; Pub. L. 99–514, title XIII, §1301(j)(6), title XVIII, §1832, Oct. 22, 1986, 100 Stat. 2658, 2851; Pub. L. 109–280, title XII, §1221(a)(1), (b), Aug. 17, 2006, 120 Stat. 1089; Pub. L. 110–172, §3(f), Dec. 29, 2007, 121 Stat. 2475; Pub. L. 116–94, div. Q, title II, §206(a), (b), Dec. 20, 2019, 133 Stat. 3246.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 1221(a)(1), (b) of Pub. L. 109–280, which directed the amendment of section 4940 without specifying the act to be amended, was executed to this section, which is section 4940 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
@@ -152,6 +154,8 @@ Subsec. (c)(2). Pub. L. 95–345 inserted provision relating to payments with re
 
 <b>1976</b>—Subsec. (c). Pub. L. 94–455 substituted "capital gain net income" for "net capital gain" in par. (1) after "investment income and the", and in par. (4) after "par. (1) in determining".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2019 Amendment
 
 Pub. L. 116–94, div. Q, title II, §206(c), Dec. 20, 2019, 133 Stat. 3246, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Dec. 20, 2019\]."
@@ -166,7 +170,7 @@ Amendment by Pub. L. 109–280 applicable to taxable years beginning after Aug. 
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 1301(j)(6) of Pub. L. 99–514 applicable to bonds issued after Aug. 15, 1986, except as otherwise provided, see sections 1311 to 1318 of Pub. L. 99–514, set out as an Effective Date; Transitional Rules note under section 141 of this title.
+Amendment by section 1301(j)(6) of Pub. L. 99–514 applicable to bonds issued after Aug. 15, 1986, except asotherwise provided, see sections 1311 to 1318 of Pub. L. 99–514, set out as an Effective Date; Transitional Rules note under section 141 of this title.
 
 Amendment by section 1832 of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
@@ -206,7 +210,7 @@ and (c).—Sections 508 (a),(b), and (c) of the Internal Revenue Code of 1986 (a
 
 #### Savings Provision
 
-Pub. L. 91–172, title I, §101(l), Dec. 30, 1969, 83 Stat. 533, as amended by Pub. L. 93–490, §4(a), Oct. 26, 1974, 88 Stat. 1467; Pub. L. 94–455, title XIII, §§1301(a), 1309(a), Oct. 4, 1976, 90 Stat. 1713, 1729; Pub. L. 95–600, title VII,§703(f), Nov. 6, 1978, 92 Stat. 2940; Pub. L. 98–369, div. A, title III, §314(b)(1), July 18, 1984, 98 Stat. 787; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 91–172, title I, §101(l), Dec. 30, 1969, 83 Stat. 533, as amended by Pub. L. 93–490, §4(a), Oct. 26, 1974, 88 Stat. 1467; Pub. L. 94–455, title XIII, §§1301(a), 1309(a), Oct. 4, 1976, 90 Stat. 1713, 1729; Pub. L. 95–600, title VII, §703(f), Nov. 6, 1978, 92 Stat. 2940; Pub. L. 98–369, div. A, title III, §314(b)(1), July 18, 1984, 98 Stat. 787; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 "(1)
 
@@ -238,7 +242,7 @@ Section 4941.—Section 4941 shall not apply to—
 
 Section 4942.—In the case of organizations organized before May 27, 1969, section 4942 shall—
 
-&emsp;"(A) for all purposes other than the determination of the minimum investment return under section 4942(j)(3)(B)(ii), for taxable years beginning before January 1, 1972, apply without regard to section 4942(e) (relating to minimum investment return), and for taxable years beginning in 1972, 1973, and 1974, apply with an applicable percentage (as prescribed in section 4942(e)(3)) which does not exceed 4½ percent, 5 percent, and 5½ percent, respectively;
+&emsp;"(A) for all purposes other than the determination of the minimum investment return under section 4942(j)(3)(B)(ii), for taxable years beginning before January 1, 1972, apply without regard to section 4942(e) (relating to minimum investment return), and for taxable years beginning in 1972, 1973, and 1974,apply with an applicable percentage (as prescribed in section 4942(e)(3)) which does not exceed 4½ percent, 5 percent, and 5½ percent, respectively;
 
 &emsp;"(B) not apply to an organization to the extent its income is required to be accumulated pursuant to the mandatory terms (as in effect on May 26, 1969, and at all times thereafter) of an instrument executed before May 27, 1969, with respect to the transfer of income producing property to such organization, except that section 4942 shall apply to such organization if the organization would have been denied exemption if section 504(a) had not been repealed by this Act, or would have had its deductions under section 642(c) limited if section 681(c) had not been repealed by this Act. In applying the preceding sentence, in addition to the limitations contained in section 504(a) or 681(c) before its repeal, section 504(a)(1) or 681(c)(1) shall be treated as not applying to an organization to the extent its income is required to be accumulated pursuant to the mandatory terms (as in effect on January 1, 1951, and at all times thereafter) of an instrument executed before January 1, 1951, with respect to the transfer of income producing property to such organization before such date, if such transfer was irrevocable on such date;
 

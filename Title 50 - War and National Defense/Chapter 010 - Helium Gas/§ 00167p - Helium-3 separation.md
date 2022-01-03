@@ -2,7 +2,7 @@
 
 #### (a) Interagency cooperation
 
-The Secretary shall cooperate with the Secretary of Energy, or a designee, on any assessment or research relating to the extraction andrefining of the isotope helium-3 from crude helium and other potential sources, including—
+The Secretary shall cooperate with the Secretary of Energy, or a designee, on any assessment or research relating to the extraction and refining of the isotope helium-3 from crude helium and other potential sources, including—
 
 &emsp;(1) gas analysis; and
 

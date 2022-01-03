@@ -2,7 +2,7 @@
 
 #### (a) Preservation of documents in National Archives
 
-All documents, personal testimony, and other records created or received by the Commission during its inquiry shall be kept and maintained by the Archivist of the United States who shallpreserve such documents, testimony, and records in the National Archives of the United States. The Archivist shall make such documents, testimony, and records available to the public for research purposes.
+All documents, personal testimony, and other records created or received by the Commission during its inquiry shall be kept and maintained by the Archivist of the United States who shall preserve such documents, testimony, and records in the National Archives of the United States. The Archivist shall make such documents, testimony, and records available to the public for research purposes.
 
 #### (b) Public availability of certain records of the House of Representatives
 
@@ -11,6 +11,8 @@ All documents, personal testimony, and other records created or received by the 
 (2) This subsection is enacted as an exercise of the rulemaking power of the House of Representatives, but is applicable only with respect to the availability of records to which it applies, and supersedes other rules only to the extent that the time limitation established by this section with respect to such records is specifically inconsistent with such rules, and is enacted with full recognition of the constitutional right of the House to change its rules at any time, in the same manner and to the same extent as in the case of any other rule of the House.
 
 (Pub. L. 100–383, title I, §107, Aug. 10, 1988, 102 Stat. 909.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

@@ -12,7 +12,7 @@ When used in this subchapter, unless the context otherwise requires—
 
 &emsp;(4) "Assignment" includes any direct or indirect transfer or hypothecation of a contract or chose in action by the assignor, or of a controlling block of the assignor's outstanding voting securities by a security holder of the assignor; but does not include an assignment of partnership interests incidental to the death or withdrawal of a minority of the members of the partnership having only a minority interest in the partnership business or to the admission to the partnership of one or more members who, after such admission, shall be only a minority of the members and shall have only a minority interest in the business.
 
-&emsp;(5) "Bank" means (A) a depository institution (as defined in section 1813 of title 12) or a branch or agency of a foreign bank (as such terms are defined in section 3101 of title 12), (B) a member bank of the Federal Reserve System, (C) any other banking institution or trust company, whether incorporated or not, doing business under the laws of any State or of the United States, a substantial portion of the business of which consists of receiving deposits or exercising fiduciary powers similarto those permitted to national banks under the authority of the Comptroller of the Currency, and which is supervised and examined by State or Federal authority having supervision over banks, and which is not operated for the purpose of evading the provisions of this subchapter, and (D) a receiver, conservator, or other liquidating agent of any institution or firm included in clauses (A), (B), or (C) of this paragraph.
+&emsp;(5) "Bank" means (A) a depository institution (as defined in section 1813 of title 12) or a branch or agency of a foreign bank (as such terms are defined in section 3101 of title 12), (B) a member bank of the Federal Reserve System, (C) any other banking institution or trust company, whether incorporated or not, doing business under the laws of any State or of the United States, a substantial portion of the business of which consists of receiving deposits or exercising fiduciary powers similar to those permitted to national banks under the authority of the Comptroller of the Currency, and which is supervised and examined by State or Federal authority having supervision over banks, and which is not operated for the purpose of evading the provisions of this subchapter, and (D) a receiver, conservator, or other liquidating agent of any institution or firm included in clauses (A), (B), or (C) of this paragraph.
 
 &emsp;(6) The term "broker" has the same meaning as given in section 3 of the Securities Exchange Act of 1934 \[15 U.S.C. 78c\], except that such term does not include any person solely by reason of the fact that such person is an underwriter for one or more investment companies.
 
@@ -70,7 +70,7 @@ When used in this subchapter, unless the context otherwise requires—
 
 &emsp;&emsp;&emsp;&emsp;(III) any account for which the investment company's investment adviser has borrowing authority, and
 
-&emsp;&emsp;&emsp;(vii) any natural person whom the Commission by order shall have determined to be an interested person by reason of having had, at any time since the beginning of the last two completed fiscal years of such company, a material business or professional relationship with such company or with the principal executive officer of such company or with any other investment company having the same investment adviser or principal underwriter or with the principal executive officer of such other investment company:
+&emsp;&emsp;&emsp;(vii) any natural person whom the Commission by order shall have determined to be an interested person by reason of having had, at any time since the beginning of the last two completed fiscal years of such company, a material business or professional relationship with such company orwith the principal executive officer of such company or with any other investment company having the same investment adviser or principal underwriter or with the principal executive officer of such other investment company:
 
 > &emsp;&emsp;<i>Provided</i>, That no person shall be deemed to be an interested person of an investment company solely by reason of (aa) his being a member of its board of directors or advisory board or an owner of its securities, or (bb) his membership in the immediate family of any person specified in clause (aa) of this proviso; and
 
@@ -126,7 +126,7 @@ When used in this subchapter, unless the context otherwise requires—
 
 &emsp;(30) "Promoter" of a company or a proposed company means a person who, acting alone or in concert with other persons, is initiating or directing, or has within one year initiated or directed, the organization of such company.
 
-&emsp;(31) "Prospectus", as used in section 80a–22 of this title, means a written prospectus intended to meet the requirements of section 10(a) of the Securities Act of 1933 \[15 U.S.C.77j(a)\] and currently in use. As used elsewhere, "prospectus" means a prospectus as defined in the Securities Act of 1933 \[15 U.S.C. 77a et seq.\].
+&emsp;(31) "Prospectus", as used in section 80a–22 of this title, means a written prospectus intended to meet the requirements of section 10(a) of the Securities Act of 1933 \[15 U.S.C. 77j(a)\] and currently in use. As used elsewhere, "prospectus" means a prospectus as defined in the Securities Act of 1933 \[15 U.S.C. 77a et seq.\].
 
 &emsp;(32) "Redeemable security" means any security, other than short-term paper, under the terms of which the holder, upon its presentation to the issuer or to a person designated by the issuer, is entitled (whether absolutely or only out of surplus) to receive approximately his proportionate share of the issuer's current net assets, or the cash equivalent thereof.
 
@@ -148,7 +148,7 @@ When used in this subchapter, unless the context otherwise requires—
 
 &emsp;(41) "Value", with respect to assets of registered investment companies, except as provided in subsection (b) of section 80a–28 of this title, means—
 
-&emsp;&emsp;(A) as used in sections 80a–3, 80a–5, and 80a–12 of this title, (i) with respect to securities owned at the end of the last preceding fiscal quarter for which market quotationsare readily available, the market value at the end of such quarter; (ii) with respect to other securities and assets owned at the end of the last preceding fiscal quarter, fair value at the end of such quarter, as determined in good faith by the board of directors; and (iii) with respect to securities and other assets acquired after the end of the last preceding fiscal quarter, the cost thereof; and
+&emsp;&emsp;(A) as used in sections 80a–3, 80a–5, and 80a–12 of this title, (i) with respect to securities owned at the end of the last preceding fiscal quarter for which market quotations are readily available, the market value at the end of such quarter; (ii) with respect to other securities and assets owned at the end of the last preceding fiscal quarter, fair value at the end of such quarter, as determined in good faith by the board of directors; and (iii) with respect to securities and other assets acquired after the end of the last preceding fiscal quarter, the cost thereof; and
 
 &emsp;&emsp;(B) as used elsewhere in this subchapter, (i) with respect to securities for which market quotations are readily available, the market value of such securities; and (ii) with respect to other securities and assets, fair value as determined in good faith by the board of directors;
 
@@ -178,7 +178,7 @@ When used in this subchapter, unless the context otherwise requires—
 
 &emsp;&emsp;&emsp;(ii) it is controlled by a business development company, either alone or as part of a group acting together, and such business development company in fact exercises a controlling influence over the management or policies of such eligible portfolio company and, as a result of such control, has an affiliated person who is a director of such eligible portfolio company;
 
-&emsp;&emsp;&emsp;(iii) it has total assets of not more than $4,000,000, and capital and surplus (shareholders' equity less retained earnings) of not less than $2,000,000, except that theCommission may adjust such amounts by rule, regulation, or order to reflect changes in 1 or more generally accepted indices or other indicators for small businesses; or
+&emsp;&emsp;&emsp;(iii) it has total assets of not more than $4,000,000, and capital and surplus (shareholders' equity less retained earnings) of not less than $2,000,000, except that the Commission may adjust such amounts by rule, regulation, or order to reflect changes in 1 or more generally accepted indices or other indicators for small businesses; or
 
 &emsp;&emsp;&emsp;(iv) it meets such other criteria as the Commission may, by rule, establish as consistent with the public interest, the protection of investors, and the purposes fairly intended by the policy and provisions of this subchapter.
 
@@ -196,7 +196,7 @@ When used in this subchapter, unless the context otherwise requires—
 
 &emsp;&emsp;(A) is organized under the laws of, and has its principal place of business in, any State or States;
 
-&emsp;&emsp;(B) is operated for the purpose of making investments in securities described in paragraphs (1) through (3) of section 80a–54(a) of this title, and makes available significant managerial assistance with respect to the issuers of such securities, provided that a business development company must make available significant managerial assistance only with respect to the companies which are treated by such business development company as satisfying the 70 per centum of the value of its total assets condition of section 80a–54 of this title; and provided further that a business development company need not make available significant managerial assistance with respect to any company described in paragraph (46)(C)(iii), or with respect to any other company that meets such criteria as the Commission may by rule, regulation, or order permit, as consistent with the public interest, the protection of investors, and the purposes of this subchapter; and
+&emsp;&emsp;(B) is operated for the purpose of making investments in securities described in paragraphs (1) through (3) of section 80a–54(a) of this title, and makes available significant managerial assistance with respect to the issuers of such securities, provided that abusiness development company must make available significant managerial assistance only with respect to the companies which are treated by such business development company as satisfying the 70 per centum of the value of its total assets condition of section 80a–54 of this title; and provided further that a business development company need not make available significant managerial assistance with respect to any company described in paragraph (46)(C)(iii), or with respect to any other company that meets such criteria as the Commission may by rule, regulation, or order permit, as consistent with the public interest, the protection of investors, and the purposes of this subchapter; and
 
 &emsp;&emsp;(C) has elected pursuant to section 80a–53(a) of this title to be subject to the provisions of sections 80a–54 through 80a–64 of this title.
 
@@ -232,7 +232,9 @@ No provision in this subchapter shall apply to, or be deemed to include, the Uni
 
 Whenever pursuant to this subchapter the Commission is engaged in rulemaking and is required to consider or determine whether an action is consistent with the public interest, the Commission shall also consider, in addition to the protection of investors, whether the action will promote efficiency, competition, and capital formation.
 
-(Aug. 22, 1940, ch. 686, title I, §2, 54 Stat. 790; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; Aug. 10, 1954, ch. 667, title IV, §401, 68 Stat. 688; Pub. L. 86–70, §12(d), June 25, 1959, 73 Stat. 143; Pub. L. 86–624, §7(c), July 12, 1960, 74 Stat. 412; Pub. L. 91–547, §2(a), Dec. 14, 1970, 84 Stat. 1413; Pub. L. 95–598, title III, §310(a), Nov. 6, 1978, 92 Stat. 2676; Pub. L. 96–477, title I, §101, Oct. 21, 1980, 94 Stat. 2275; Pub. L. 97–303, §5, Oct. 13, 1982, 96 Stat. 1409; Pub. L. 100–181, title VI, §§601–603, Dec. 4, 1987, 101 Stat. 1260; Pub. L. 101–550, title II, §206(a), Nov. 15, 1990, 104 Stat. 2720; Pub. L. 104–290, title I, §106(c), title II, §209(b), title V, §§503, 504, Oct. 11, 1996, 110 Stat. 3425, 3434, 3445; Pub. L. 105–353, title III, §301(c)(1), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 106–102, title II, §§213(a), (b), 215, 216, 223, Nov. 12, 1999, 113 Stat. 1397, 1399, 1401; Pub. L. 106–554, §1(a)(5) \[title II, §209(a)(1), (3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–435, 2763A–436; Pub. L. 109–291, §4(b)(2)(A), Sept. 29, 2006, 120 Stat. 1337; Pub. L. 111–203, title VII, §769, title IX, §§985(d)(1), 986(c)(1), July 21, 2010, 124 Stat. 1801, 1934, 1936.)
+(Aug. 22, 1940, ch. 686, title I, §2, 54 Stat. 790; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, 60Stat. 1352; Aug. 10, 1954, ch. 667, title IV, §401, 68 Stat. 688; Pub. L. 86–70, §12(d), June 25, 1959, 73 Stat. 143; Pub. L. 86–624, §7(c), July 12, 1960, 74 Stat. 412; Pub. L. 91–547, §2(a), Dec. 14, 1970, 84 Stat. 1413; Pub. L. 95–598, title III, §310(a), Nov. 6, 1978, 92 Stat. 2676; Pub. L. 96–477, title I, §101, Oct. 21, 1980, 94 Stat. 2275; Pub. L. 97–303, §5, Oct. 13, 1982, 96 Stat. 1409; Pub. L. 100–181, title VI, §§601–603, Dec. 4, 1987, 101 Stat. 1260; Pub. L. 101–550, title II, §206(a), Nov. 15, 1990, 104 Stat. 2720; Pub. L. 104–290, title I, §106(c), title II, §209(b), title V, §§503, 504, Oct. 11, 1996, 110 Stat. 3425, 3434, 3445; Pub. L. 105–353, title III, §301(c)(1), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 106–102, title II, §§213(a), (b), 215, 216, 223, Nov. 12, 1999, 113 Stat. 1397, 1399, 1401; Pub. L. 106–554, §1(a)(5) \[title II, §209(a)(1), (3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–435, 2763A–436; Pub. L. 109–291, §4(b)(2)(A), Sept. 29, 2006, 120 Stat. 1337; Pub. L. 111–203, title VII, §769, title IX, §§985(d)(1), 986(c)(1), July 21, 2010, 124 Stat. 1801, 1934, 1936.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -320,6 +322,8 @@ Subsec. (a)(45). Pub. L. 91–547, §2(a)(5), added par. (45).
 
 <b>1954</b>—Subsec. (a)(30). Act Aug. 10, 1954, substituted "section 10(a) of the Securities Act of 1933" for "section 5(b) of the Securities Act of 1933".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Amendment by sections 985(d)(1) and 986(c)(1) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
@@ -353,6 +357,8 @@ Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note 
 #### Regulations
 
 Pub. L. 104–290, title II, §209(d)(2), Oct. 11, 1996, 110 Stat. 3435, provided that: "Not later than 180 days after the date of enactment of this Act \[Oct. 11, 1996\], the Commission shall prescribe rules defining the term, or otherwise identifying, 'investments' for purposes of section 2(a)(51) of the Investment Company Act of 1940 \[15 U.S.C. 80a–2(a)(51)\], as added by this Act."
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

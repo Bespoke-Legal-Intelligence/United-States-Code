@@ -64,7 +64,7 @@ Covered foreign country.—The term 'covered foreign country' means a foreign co
 
 #### Termination of National Intelligence Authority and Central Intelligence Group
 
-National Intelligence Authority and Central Intelligence Group, established by Presidential Directive, Feb. 1, 1946, 11 F.R. 1337, to coordinate Federal foreign intelligence activities, ceased to exist upon creation of Central Intelligence Agency; personnel, property and records of the group were transferred to the Agency; and unexpended funds of the group were made available to the Agency, by act July 26, 1947, ch. 343, title I, §102, 61 Stat. 497, formerly set out as section 403 of Title 50, War and National Defense. See Prior Provisions note under section 3023 of Title 50.
+National Intelligence Authority and Central Intelligence Group, established by Presidential Directive, Feb. 1, 1946, 11 F.R. 1337, to coordinate Federal foreignintelligence activities, ceased to exist upon creation of Central Intelligence Agency; personnel, property and records of the group were transferred to the Agency; and unexpended funds of the group were made available to the Agency, by act July 26, 1947, ch. 343, title I, §102, 61 Stat. 497, formerly set out as section 403 of Title 50, War and National Defense. See Prior Provisions note under section 3023 of Title 50.
 
 #### Genocide and Atrocities Prevention
 
@@ -292,7 +292,7 @@ Identification.—The Secretary of State, in consultation with the Secretary of 
 
 &emsp;"(1) threats of persecution and other early-warning indicators of genocide, crimes against humanity, and war crimes against individuals who are or were nationals and residents of Iraq or Syria, are members of religious or ethnic minority groups in such countries, and against whom the Secretary of State has determined ISIS has committed genocide, crimes against humanity, or war crimes;
 
-&emsp;"(2) the religious and ethnic minority groups in Iraq or Syria identified pursuant to paragraph (1) that are at risk of forced migration, within or across the borders of Iraq, Syria, or a country of first asylum, and the primary reasons for such risk;
+&emsp;"(2) the religious and ethnic minority groups in Iraq or Syria identified pursuant to paragraph (1)that are at risk of forced migration, within or across the borders of Iraq, Syria, or a country of first asylum, and the primary reasons for such risk;
 
 &emsp;"(3)(A) the humanitarian, stabilization, and recovery needs of individuals described in paragraphs (1) and (2), including the assistance provided by the United States and by the United Nations, respectively—
 
@@ -492,7 +492,7 @@ Regulatory Authority.—The President shall issue such regulations, licenses, an
 
 "(i)
 
-Identification of Sanctionable Foreign Persons.—The Assistant Secretary of State for Democracy, Human Rights, and Labor, in consultation with the Assistant Secretary of State for Consular Affairsand other bureaus of the Department of State, as appropriate, is authorized to submit to the Secretary of State, for review and consideration, the names of foreign persons who may meet the criteria described in subsection (a).
+Identification of Sanctionable Foreign Persons.—The Assistant Secretary of State for Democracy, Human Rights, and Labor, in consultation with the Assistant Secretary of State for Consular Affairs and other bureaus of the Department of State, as appropriate, is authorized to submit to the Secretary of State, for review and consideration, the names of foreign persons who may meet the criteria described in subsection (a).
 
 "(j)
 
@@ -600,6 +600,10 @@ Continuation in Effect of Sanctions.—Sanctions imposed under this subtitle on 
 
 #### Global Engagement Center
 
+Pub. L. 117–81, div. E, title LIII, §5320, Dec. 27, 2021, 135 Stat. 2368, provided that: "The Secretary may appoint, for a 3-year period that may be extended for up to an additional 2 years, solely to carry out the functions of the Global Engagement Center, employees of the Department without regard to the provisions of title 5, United States Code, governing appointment in the competitive service, and may fix the basic compensation of such employees without regard to chapter 51 and subchapter III of chapter 53 of such title."
+
+\[For definitions of "Secretary" and "Department" as used in section 5320 of Pub. L. 117–81, set out above, see section 5002 of Pub. L. 117–81, set out as a note under section 263c of this title.\]
+
 Pub. L. 114–328, div. A, title XII, §1287, Dec. 23, 2016, 130 Stat. 2546, as amended by Pub. L. 115–232, div. A, title XII, §1284, Aug. 13, 2018, 132 Stat. 2076, provided that:
 
 "(a)
@@ -624,7 +628,7 @@ Functions.—The Center shall carry out the following functions:
 
 &emsp;"(3) As needed, support the development and dissemination of fact-based narratives and analysis to counter propaganda and disinformation directed at the United States and United States allies and partner nations.
 
-&emsp;"(4) Identify current and emerging trends in foreign propaganda and disinformation in order to coordinateand shape the development of tactics, techniques, and procedures to expose and refute foreign propaganda and disinformation, and pro-actively support the promotion of credible, fact-based narratives and policies to audiences outside the United States.
+&emsp;"(4) Identify current and emerging trends in foreign propaganda and disinformation in order to coordinate and shape the development of tactics, techniques, and procedures to expose and refute foreign propaganda and disinformation, and pro-actively support the promotion of credible, fact-based narratives and policies to audiences outside the United States.
 
 &emsp;"(5) Facilitate the use of a wide range of technologies and techniques by sharing expertise among Federal departments and agencies, seeking expertise from external sources, and implementing best practices.
 
@@ -650,7 +654,7 @@ Appointment.—The head of the Center shall be an individual who is an official 
 
 &emsp;"(2)
 
-Compliance with privacy and civil liberties laws.—The President shall designate a senior official to develop guidance for the Center relating to relevant privacy and civil liberties laws and to ensure compliance with such guidance.
+Compliance with privacy and civil liberties laws.—The President shall designate a senior officialto develop guidance for the Center relating to relevant privacy and civil liberties laws and to ensure compliance with such guidance.
 
 "(d)
 
@@ -748,7 +752,7 @@ Congressional Findings.—Congress finds that:
 
 &emsp;"(2) Saudi Arabia has an uneven record in the fight against terrorism, especially with respect to terrorist financing, support for radical madrassas, a lack of political outlets for its citizens, and restrictions on religious pluralism, that poses a threat to the security of the United States, the international community, and Saudi Arabia itself.
 
-&emsp;"(3) The National Commission on Terrorist Attacks Upon the United States concluded that the 'problems in the U.S.-Saudi relationship must be confronted, openly'. It recommended that the two countries build a relationship that includes a 'shared commitment to political and economic reform . . . and a shared interest in greater tolerance and cultural respect, translating into a commitment to fight the violent extremists who foment hatred'.
+&emsp;"(3) The National Commission on Terrorist Attacks Upon the United States concluded that the 'problems in the U.S.-Saudi relationship must be confronted, openly'. It recommended that the two countries build a relationship that includes a 'shared commitment topolitical and economic reform . . . and a shared interest in greater tolerance and cultural respect, translating into a commitment to fight the violent extremists who foment hatred'.
 
 &emsp;"(4) The United States has a national security interest in working with the Government of Saudi Arabia to combat international terrorists that operate within that country or that operate outside Saudi Arabia with the support of citizens of Saudi Arabia.
 
@@ -1046,7 +1050,7 @@ Authorization of Assistance.—
 
 In general.—Beginning on the date on which Congress receives the report transmitted under subsection (a)(2), or the date on which Congress receives the certification transmitted under paragraph (2), whichever occurs later, the President is authorized—
 
-&emsp;&emsp;"(A) to transfer excess defense articles under section 516 of the Foreign Assistance Act of 1961 (22U.S.C. 2321j) to East Timor in accordance with such section; and
+&emsp;&emsp;"(A) to transfer excess defense articles under section 516 of the Foreign Assistance Act of 1961 (22 U.S.C. 2321j) to East Timor in accordance with such section; and
 
 &emsp;&emsp;"(B) to provide military education and training under chapter 5 of part II of such Act (22 U.S.C. 2347 et seq.) for the armed forces of East Timor in accordance with such chapter.
 
@@ -1228,7 +1232,7 @@ Pub. L. 103–236, title V, part D, Apr. 30, 1994, 108 Stat. 486, provided that:
 
 "(a)
 
-In General.—Consistent with international law, it is the policy of the United States to support efforts to bring to justice members of the Khmer Rouge fortheir crimes against humanity committed in Cambodia between April 17, 1975, and January 7, 1979.
+In General.—Consistent with international law, it is the policy of the United States to support efforts to bring to justice members of the Khmer Rouge for their crimes against humanity committed in Cambodia between April 17, 1975, and January 7, 1979.
 
 "(b)
 
@@ -1256,7 +1260,7 @@ Purpose.—The purpose of the Office shall be to support, through organizations 
 
 &emsp;"(2) to provide the people of Cambodia with access to documents, records, and other evidence held by the Office as a result of such investigation;
 
-&emsp;"(3) to submit the relevant data to a national or international penal tribunal that may be convened to formally hear and judge the genocidal acts committed by the Khmer Rouge; and
+&emsp;"(3) to submit the relevant data to a national or international penal tribunal that may be convened toformally hear and judge the genocidal acts committed by the Khmer Rouge; and
 
 &emsp;"(4) to develop the United States proposal for the establishment of an international criminal tribunal for the prosecution of those accused of genocide in Cambodia.
 
@@ -1430,7 +1434,7 @@ Sec. 2. <i>Revocation</i>. Executive Order 13584 of September 9, 2011 (Developin
 
 Sec. 3. <i>Responsibilities Assigned to the Center</i>. Recognizing the need for innovation and new approaches to counter the messaging and diminish the influence of international terrorist organizations, including ISIL, al Qa'ida, and other violent extremists abroad, and in order to protect the vital national interests of the United States, while also recognizing the importance of protections for freedom of expression, including those under the First Amendment to the Constitution of the United States and international human rights obligations, the responsibilities and functions of the Center shall include the following:
 
-(a) coordinating, integrating, and synchronizing all public communications of the United States Government directed toward foreign audiences abroad in order to counter the messaging and diminish the influence ofinternational terrorist organizations and other violent extremists abroad;
+(a) coordinating, integrating, and synchronizing all public communications of the United States Government directed toward foreign audiences abroad in order to counter the messaging and diminish the influence of international terrorist organizations and other violent extremists abroad;
 
 (b) developing and promulgating throughout the executive branch, on the basis of rigorous research and modern data analysis, the U.S. strategic counterterrorism narratives, guidance, and associated communications strategies directed toward foreign audiences abroad in order to counter the messaging and diminish the influence of international terrorist organizations and other violent extremists abroad;
 
@@ -1442,7 +1446,7 @@ Sec. 3. <i>Responsibilities Assigned to the Center</i>. Recognizing the need for
 
 (f) developing, supporting, and sustaining networks of governmental and non-governmental partners, to provide original content and disseminate messaging products to foreign audiences abroad and to create, develop, and sustain effective positive alternative narratives consistent with U.S. policy objectives.
 
-Sec. 4. <i>Establishment of a Steering Committee</i>. The Secretary shall establish a Steering Committee composed of senior representatives of agencies relevant to the Center's mission to provide advice to the Secretary on the operations and strategic orientation of the Center and to ensure adequate support for the Center. The Steering Committee shall be chaired by the Under Secretary of State for Public Diplomacy. The Steering Committee shall include one senior representative designated by the head of each of the following agencies: the Department of Defense, the Department of Justice, the Department of Homeland Security, the Department of the Treasury, the Small Business Administration, the National Counterterrorism Center, the Joint Chiefs of Staff, the Counterterrorism Center of the Central Intelligence Agency, the Broadcast Board of Governors, and the United States Agency for International Development. Other agencies may be invited to participate in the Steering Committee at the discretion of the Chair.
+Sec. 4. <i>Establishment of a Steering Committee</i>. The Secretary shall establish a Steering Committee composed of senior representatives of agencies relevant to the Center's mission to provide advice to the Secretary on the operations and strategic orientation of the Center and to ensure adequate support for the Center. The Steering Committee shall be chaired by the Under Secretary of State for Public Diplomacy. The Steering Committee shall include one senior representative designated by the head of each of the following agencies: the Department of Defense, the Department of Justice,the Department of Homeland Security, the Department of the Treasury, the Small Business Administration, the National Counterterrorism Center, the Joint Chiefs of Staff, the Counterterrorism Center of the Central Intelligence Agency, the Broadcast Board of Governors, and the United States Agency for International Development. Other agencies may be invited to participate in the Steering Committee at the discretion of the Chair.
 
 Sec. 5. <i>Interagency Support</i>. Agencies are hereby directed, consistent with budget priorities and mission constraints, upon request by the Secretary and to the extent permitted by law and consistent with the need to protect intelligence and law enforcement sources, methods, operations, and investigations, to provide to the Center, and the Center is authorized to use, for the purpose of carrying out the responsibilities outlined in this order:
 
@@ -1501,4 +1505,48 @@ Pursuant to the authority vested in me by the Constitution and laws of the Unite
 You are hereby authorized and directed to report this certification, accompanying memorandum of justification \[not set out in the Code\], and report on East Timor security assistance to the Congress, and to arrange for the publication of this memorandum in the Federal Register.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### National Security Memorandum–4—Advancing the Human Rights of Lesbian, Gay, Bisexual, Transgender, Queer, and Intersex Persons Around the World
+
+National Security Memorandum–4, Feb. 4, 2021, 86 F.R. 11843, provided:
+
+Memorandum for the Secretary of State\[,\] the Secretary of the Treasury\[,\] the Secretary of Defense\[,\] the Attorney General\[,\] the Secretary of Agriculture\[,\] the Secretary of Commerce\[,\] the Secretary of Labor\[,\] the Secretary of Health and Human Services\[,\] the Secretary of Homeland Security\[,\] the United States Trade Representative\[,\] the Assistant to the President for National Security Affairs\[,\] the Assistant to the President and Counsel to the President\[,\] the Administrator of the United States Agency for International Development\[, and\] the Chief Executive Officer, Millennium Challenge Corporation
+
+This memorandum reaffirms and supplements the principles established in the Presidential Memorandum of December 6, 2011 (International Initiatives to Advance the Human Rights of Lesbian, Gay, Bisexual, and Transgender Persons). That memorandum, for the first time, directed agencies engaged abroad to ensure that U.S. diplomacy and foreign assistance promote and protect the human rights of lesbian, gay, bisexual, and transgender persons everywhere. This memorandum builds upon that historic legacy and updates the 2011 Memorandum.
+
+All human beings should be treated with respect and dignity and should be able to live without fear no matter who they are or whom they love. Around the globe, including here at home, brave lesbian, gay, bisexual, transgender, queer, and intersex (LGBTQI+) activists are fighting for equal protection under the law, freedom from violence, and recognition of their fundamental human rights.
+
+The United States belongs at the forefront of this struggle—speaking out and standing strong for our most dearly held values. It shall be the policy of the United States to pursue an end to discrimination on the basis of sexual orientation, gender identity or expression, or sex characteristics, and to lead by the power of our example in the cause of advancing the human rights of LGBTQI+ persons around the world.
+
+By this memorandum I am directing all agencies engaged abroad to ensure that U.S. diplomacy and foreign assistance promote and protect the human rights of LGBTQI+ persons. Specifically, I direct the following actions, consistent with applicable law:
+
+Section 1. <i>Combating Criminalization of LGBTQI+ Status or Conduct Abroad</i>. Agencies engaged abroad are directed to strengthen existing efforts to combat the criminalization by foreign governments of LGBTQI+ status or conduct and expand efforts to combat discrimination, homophobia, transphobia, and intolerance on the basis of LGBTQI+ status or conduct. The Department of State shall, on an annual basis and as part of the annual report submitted to the Congress pursuant to sections 116(d) and 502B(b) of the Foreign Assistance Act of 1961 (22 U.S.C. 2151n(d) and 2304(b)), report on human rights abuses experienced by LGBTQI+ persons globally. This reporting shall include anti-LGBTQI+ laws as well as discrimination and violence committed by both state and non-state actors against LGBTQI+ persons.
+
+Sec. 2. <i>Protecting Vulnerable LGBTQI+ Refugees and Asylum Seekers</i>. LGBTQI+ persons who seek refuge from violence and persecution face daunting challenges. In order to improve protection for LGBTQI+ refugees and asylum seekers at all stages of displacement, the Departments of State and Homeland Security shall enhance their ongoing efforts to ensure that LGBTQI+ refugees and asylum seekers have equal access to protection and assistance, particularly in countries of first asylum. In addition, the Departments of State, Justice, and Homeland Security shall ensure appropriate training is in place so that relevant federal government personnel and key partners can effectively identify and respond to the particular needs of LGBTQI+ refugees and asylum seekers, including by providing to them adequate assistance and ensuring that the Federal Government takes all appropriate steps, such as potential increased use of Embassy Priority-1 referrals, to identify and expedite resettlement of highly vulnerable persons with urgent protection needs.
+
+Sec. 3. <i>Foreign Assistance to Protect Human Rights and Advance Nondiscrimination</i>. Agencies involved with foreign aid, assistance, and development programs shall enhance their ongoing efforts to ensure regular federal government engagement with governments, citizens, civil society, and the private sector in order to build respect for the human rights of LGBTQI+ persons and combat discrimination. Agencies involved with foreign aid, assistance, and development programs should consider the impact of programs funded by the federal government on human rights, including the rights of LGBTQI+ persons, when making funding decisions, as appropriate and consistent with applicable law.
+
+Sec. 4. <i>Swift and Meaningful U.S. Responses to Human Rights Abuses of LGBTQI+ Persons Abroad</i>. The Department of State shall lead a standing group, with appropriate interagency representation, to help ensure the federal government's swift and meaningful response to serious incidents that threaten the human rights of LGBTQI+ persons abroad. When foreign governments move to restrict the rights of LGBTQI+ persons or fail to enforce legal protections in place, thereby contributing to a climate of intolerance, agencies engaged abroad shall consider appropriate responses, including using the full range of diplomatic tools and, as appropriate, sanctions, visa bans, and other actions.
+
+Sec. 5. <i>Building Coalitions of Like-Minded Nations and Engaging International Organizations in the Fight Against LGBTQI+ Discrimination</i>. Bilateral relationships with allies and partners, as well as multilateral fora and international organizations, are key vehicles to promote respect for and protection of the human rights of LGBTQI+ persons and to bring global attention to these goals. Agencies engaged abroad should strengthen the work they have done and initiate additional efforts with other nations, bilaterally and within multilateral fora and international organizations, to: counter discrimination on the basis of LGBTQI+ status or conduct; broaden the number of countries willing to support and defend the human rights of LGBTQI+ persons; strengthen the role, including in multilateral fora, of civil society advocates on behalf of the human rights of LGBTQI+ persons; and strengthen the policies and programming of multilateral institutions, including with respect to protecting vulnerable LGBTQI+ refugees and asylum seekers.
+
+Sec. 6. <i>Rescinding Inconsistent Policies and Reporting on Progress</i>. Within 100 days of the date of this memorandum \[Feb. 4, 2021\] or as soon as possible thereafter, all agencies engaged abroad shall review and, as appropriate and consistent with applicable law, take steps to rescind any directives, orders, regulations, policies, or guidance inconsistent with this memorandum, including those issued from January 20, 2017, to January 20, 2021, to the extent that they are inconsistent with this memorandum. The heads of such agencies shall also, within 100 days of the date of this memorandum, report to the President on their progress in implementing this memorandum and recommend additional opportunities and actions to advance the human rights of LGBTQI+ persons around the world. Agencies engaged abroad shall each prepare a report within 180 days of the date of this memorandum, and annually thereafter, on their progress toward advancing these initiatives. All such agencies shall submit these reports to the Department of State, which will compile a report on the federal government's progress in advancing these initiatives for transmittal to the President. The Department of State shall make a version of the compiled annual report available to the Members of the Congress and the public.
+
+Sec. 7. <i>Definitions</i>. (a) For the purposes of this memorandum, agencies engaged abroad include the Departments of State, the Treasury, Defense, Justice, Agriculture, Commerce, Labor, Health and Human Services, and Homeland Security, the United States Agency for International Development (USAID), the United States International Development Finance Corporation (DFC), the Millennium Challenge Corporation, the Export-Import Bank of the United States, the Office of the United States Trade Representative, and such other agencies as the President may designate.
+
+(b) For the purposes of this memorandum, agencies involved with foreign aid, assistance, and development programs include the Departments of State, the Treasury, Defense, Justice, Agriculture, Commerce, Labor, Health and Human Services, and Homeland Security, USAID, DFC, the Millennium Challenge Corporation, the Export-Import Bank of the United States, the Office of the United States Trade Representative, and such other agencies as the President may designate.
+
+Sec. 8. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair, or otherwise affect:
+
+(i) the authority granted by law to an executive department, agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(d) The Secretary of State is authorized and directed to publish this memorandum in the Federal Register.
+
+J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

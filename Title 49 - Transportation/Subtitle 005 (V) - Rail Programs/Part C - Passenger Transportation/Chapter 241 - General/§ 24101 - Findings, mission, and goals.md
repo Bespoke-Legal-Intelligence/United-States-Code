@@ -2,21 +2,23 @@
 
 (a)
 
-Findings.—(1) Public convenience and necessity require that Amtrak, to the extent its budget allows, provide modern, cost-efficient, and energy-efficient intercity rail passenger transportation between crowded urban areas and in other areas of the United States.
+Findings.—(1) Public convenience and necessity require that Amtrak, to the extent its budget allows, provide modern, cost-efficient, and energy-efficient intercity rail passenger transportation throughout the United States.
 
 (2) Rail passenger transportation can help alleviate overcrowding of airways and airports and on highways.
 
 (3) A traveler in the United States should have the greatest possible choice of transportation most convenient to the needs of the traveler.
 
-(4) A greater degree of cooperation is necessary among Amtrak, other rail carriers, State, regional, and local governments, the private sector, labor organizations, and suppliers of services and equipment to Amtrak to achieve a performance level sufficient to justify expending public money.
+(4) A greater degree of cooperation is necessary among Amtrak, other rail carriers, State, regional, and local governments, the private sector, labor organizations, and suppliers of services and equipment in order to meet the intercity passenger rail needs of the United States.
 
-(5) Modern and efficient commuter rail passenger transportation is important to the viability and well-being of major urban areas and to the energy conservation and self-sufficiency goals of the United States.
+(5) Modern and efficient intercity passenger and commuter rail passenger transportation is important to the viability and well-being of major urban and rural areas and to the energy conservation and self-sufficiency goals of the United States.
 
-(6) As a rail passenger transportation entity, Amtrak should be available to operate commuter rail passenger transportation through itssubsidiary, Amtrak Commuter, under contract with commuter authorities that do not provide the transportation themselves as part of the governmental function of the State.
+(6) As a rail passenger transportation entity, Amtrak should be available to operate commuter rail passenger transportation through its subsidiary, Amtrak Commuter, under contract with commuter authorities that do not provide the transportation themselves as part of the governmental function of the State.
 
 (7) The Northeast Corridor is a valuable resource of the United States used by intercity and commuter rail passenger transportation and freight transportation.
 
 (8) Greater coordination between intercity and commuter rail passenger transportation is required.
+
+(9) Long-distance routes are valuable resources of the United States that are used by rural and urban communities.
 
 (b)
 
@@ -26,19 +28,19 @@ Mission.—The mission of Amtrak is to provide efficient and effective intercity
 
 Goals.—Amtrak shall—
 
-&emsp;(1) use its best business judgment in acting to minimize United States Government subsidies, including—
+&emsp;(1) use its best business judgment in acting to maximize the benefits of Federal investments, including—
 
-&emsp;&emsp;(A) increasing fares;
+&emsp;&emsp;(A) offering competitive fares;
 
 &emsp;&emsp;(B) increasing revenue from the transportation of mail and express;
 
-&emsp;&emsp;(C) reducing losses on food service;
+&emsp;&emsp;(C) offering food service that meets the needs of its customers;
 
-&emsp;&emsp;(D) improving its contracts with operating rail carriers;
+&emsp;&emsp;(D) improving its contracts with rail carriers over whose tracks Amtrak operates;
 
-&emsp;&emsp;(E) reducing management costs; and
+&emsp;&emsp;(E) controlling or reducing management and operating costs; and
 
-&emsp;&emsp;(F) increasing employee productivity;
+&emsp;&emsp;(F) providing economic benefits to the communities it serves;
 
 &emsp;(2) minimize Government subsidies by encouraging State, regional, and local governments and the private sector, separately or in combination, to share the cost of providing rail passenger transportation, including the cost of operating facilities;
 
@@ -58,15 +60,17 @@ Goals.—Amtrak shall—
 
 &emsp;(10) carry out policies that ensure equitable access to the Northeast Corridor by intercity and commuter rail passenger transportation;
 
-&emsp;(11) coordinate the uses of the Northeast Corridor, particularly intercity and commuter rail passenger transportation; and
+&emsp;(11) coordinate the uses of the Northeast Corridor, particularly intercity and commuter rail passenger transportation;
 
-&emsp;(12) maximize the use of its resources, including the most cost-effective use of employees, facilities, and real property.
+&emsp;(12) maximize the use of its resources, including the most cost-effective use of employees, facilities, and real property; and
+
+&emsp;(13) support and maintain established long-distance routes to provide value to the Nation by serving customers throughout the United States and connecting urban and rural communities.
 
 (d)
 
-Minimizing Government Subsidies.—To carry out subsection (c)(12) of this section, Amtrak is encouraged to make agreements with the private sector and undertake initiatives that are consistent with good business judgment and designed to maximize its revenues and minimize Government subsidies. Amtrak shall prepare a financial plan, consistent with section 204 of the Passenger Rail Investment and Improvement Act of 2008, including the budgetary goals for fiscal years 2009 through 2013. Amtrak and its Board of Directors shall adopt a long-term plan that minimizes the need for Federal operating subsidies.
+Increasing Revenues.—Amtrak is encouraged to make agreements with private sector entities and to undertake initiatives that are consistent with good business judgment and designed to generate additional revenues to advance the goals described in subsection (c).
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 899; Pub. L. 105–134, title I, §105(b), title II, §201, Dec. 2, 1997, 111 Stat. 2573, 2578; Pub. L. 110–432, div. B, title II, §§201(e)(1), 218(a)(1), Oct. 16, 2008, 122 Stat. 4910, 4930; Pub. L. 114–94, div. A, title XI, §11316(l), Dec. 4, 2015, 129 Stat. 1678.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 899; Pub. L. 105–134, title I, §105(b), title II, §201, Dec. 2, 1997, 111 Stat. 2573, 2578; Pub. L. 110–432, div. B,title II, §§201(e)(1), 218(a)(1), Oct. 16, 2008, 122 Stat. 4910, 4930; Pub. L. 114–94, div. A, title XI, §11316(l), Dec. 4, 2015, 129 Stat. 1678; Pub. L. 117–58, div. B, title II, §22201, Nov. 15, 2021, 135 Stat. 696.)
 
 Historical and Revision Notes
 
@@ -108,11 +112,35 @@ In subsection (a)(3), the words "greatest possible choice of" are substituted fo
 
 In subsection (c), before clause (1), the words "Amtrak shall" are substituted for "The Congress hereby establishes the following goals for Amtrak" to eliminate unnecessary words. The text of 45:501a(3) and (4) is omitted as executed. The text of 45:501a(9) is omitted as obsolete because there no longer are any technical assistance panels. In clause (2), the words "stations and other" are omitted as surplus. In clause (4), the words "for such operation" are omitted as surplus. In clause (10), the word "various" is omitted as surplus. In clause (11), the words "real property" are substituted for "real estate" for consistency in the revised title and with other titles of the Code.
 
-#### References in Text
-
-Section 204 of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsec. (d), is section 204 of Pub. L. 110–432, which was set out in a notebelow, prior to repeal by Pub. L. 114–94, div. A, title XI, §11203(d), Dec. 4, 2015, 129 Stat. 1634.
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(1). Pub. L. 117–58, §22201(a)(1), substituted "throughout" for "between crowded urban areas and in other areas of".
+
+Subsec. (a)(4). Pub. L. 117–58, §22201(a)(2), substituted "in order to meet the intercity passenger rail needs of the United States" for "to Amtrak to achieve a performance level sufficient to justify expending public money".
+
+Subsec. (a)(5). Pub. L. 117–58, §22201(a)(3), inserted "intercity passenger and" before "commuter" and "and rural" after "major urban".
+
+Subsec. (a)(9). Pub. L. 117–58, §22201(a)(4), added par. (9).
+
+Subsec. (c)(1). Pub. L. 117–58, §22201(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "use its best business judgment in acting to minimize United States Government subsidies, including—
+
+&emsp;"(A) increasing fares;
+
+&emsp;"(B) increasing revenue from the transportation of mail and express;
+
+&emsp;"(C) reducing losses on food service;
+
+&emsp;"(D) improving its contracts with operating rail carriers;
+
+&emsp;"(E) reducing management costs; and
+
+&emsp;"(F) increasing employee productivity;".
+
+Subsec. (c)(13). Pub. L. 117–58, §22201(b)(2)–(4), added par. (13).
+
+Subsec. (d). Pub. L. 117–58, §22201(c), amended subsec. (d) generally. Prior to amendment, text read as follows: "To carry out subsection (c)(12) of this section, Amtrak is encouraged to make agreements with the private sector and undertake initiatives that are consistent with good business judgment and designed to maximize its revenues and minimize Government subsidies. Amtrak shall prepare a financial plan, consistent with section 204 of the Passenger Rail Investment and Improvement Act of 2008, including the budgetary goals for fiscal years 2009 through 2013. Amtrak and its Board of Directors shall adopt a long-term plan that minimizes the need for Federal operating subsidies."
 
 <b>2015</b>—Subsec. (b). Pub. L. 114–94 substituted "set forth in subsection (c)" for "of subsection (d)".
 
@@ -132,9 +160,11 @@ Pub. L. 110–432, §201(e)(1)(D), substituted "subsection (c)(12)" for "subsect
 
 Subsec. (d). Pub. L. 105–134, §201, inserted at end "Amtrak shall prepare a financial plan to operate within the funding levels authorized by section 24104 of this chapter, including budgetary goals for fiscal years 1998 through 2002. Commencing no later than the fiscal year following the fifth anniversary of the Amtrak Reform and Accountability Act of 1997, Amtrak shall operate without Federal operating grant funds appropriated for its benefit."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
-Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a noteunder section 5313 of Title 5, Government Organization and Employees.
 
 #### Amtrak To Continue To Provide Non-High-Speed Services
 
@@ -142,7 +172,7 @@ Pub. L. 110–432, div. B, title II, §201(c), Oct. 16, 2008, 122 Stat. 4910, pr
 
 #### Amtrak Reform and Operational Improvements
 
-Pub. L. 110–432, div. B, title II, §§203–209, Oct. 16, 2008, 122 Stat. 4912–4917, as amended by Pub. L. 114–94, div. A, title XI, §§11006(b)(2), 11202(c)(1), 11203(d), 11204(b)(2), 11206, 11214, Dec. 4, 2015, 129 Stat. 1624, 1630, 1634, 1637, 1644, provided that:
+Pub. L. 110–432, div. B, title II, §§203–209, Oct. 16, 2008, 122 Stat. 4912–4917, as amended by Pub. L. 114–94, div. A, title XI, §§11006(b)(2), 11202(c)(1), 11203(d), 11204(b)(2), 11206, 11214, Dec. 4, 2015, 129 Stat. 1624, 1630, 1634, 1637, 1644; Pub. L. 117–58, div. B, title I, §21301(j)(4)(E), Nov. 15, 2021, 135 Stat. 693, provided that:
 
 #### "SEC. 203. ESTABLISHMENT OF IMPROVED FINANCIAL ACCOUNTING SYSTEM.
 
@@ -214,7 +244,7 @@ Amtrak Principal and Interest Payments.—
 
 &emsp;"(1)
 
-Principal on debt service.—Unless the Secretary of the Treasury makes sufficient payments tocreditors under subsection (d) so that Amtrak is required to make no payments to creditors in a fiscal year, the Secretary \[of Transportation\] shall use funds authorized for the use of Amtrak for retirement of principal or payment of interest on loans for capital equipment, or capital leases.
+Principal on debt service.—Unless the Secretary of the Treasury makes sufficient payments to creditors under subsection (d) so that Amtrak is required to make no payments to creditors in a fiscal year, the Secretary \[of Transportation\] shall use funds authorized for the use of Amtrak for retirement of principal or payment of interest on loans for capital equipment, or capital leases.
 
 &emsp;"(2)
 
@@ -232,7 +262,7 @@ Legal Effect of Payments Under This Section.—The payment of principal and inte
 
 "(g)
 
-Secretary Approval.—Amtrak may not incur more debt after the date of enactment of this Act without the express advance approval of the Secretary \[of Transportation\], unless that debt receives credit assistance, including direct loans and loan guarantees, under chapter 6 of title 23, United States Code or title V of the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 821 et seq.).
+Secretary Approval.—Amtrak may not incur more debt after the date of enactment of this Act without the express advance approval of the Secretary \[of Transportation\], unless that debt receives credit assistance, including direct loans and loan guarantees, under chapter 6 of title 23, United States Code or chapter 224 of title 49, United States Code.
 
 #### "\[SEC. 206. Repealed. Pub. L. 114–94, div. A, title XI, §11202(c)(1), Dec. 4, 2015, 129 Stat. 1630.\]
 
@@ -240,7 +270,7 @@ Secretary Approval.—Amtrak may not incur more debt after the date of enactment
 
 "(a)
 
-In General.—Within 180 days after the date of enactment of this Act \[Oct. 16, 2008\], the Federal Railroad Administration and Amtrak shall jointly, in consultation with the Surface Transportation Board, rail carriers over whose rail lines Amtrak trains operate, States, Amtrak employees, nonprofit employee organizations representing Amtrak employees, and groups representing Amtrak passengers, as appropriate, develop new or improve existing metrics and minimum standards for measuring the performance and service quality of intercity passenger train operations, including cost recovery, on-time performance and minutes of delay, ridership, on-board services, stations, facilities, equipment, and other services. Such metrics, at a minimum, shall include the percentage of avoidable and fully allocated operating costs covered by passenger revenues on each route, ridership per train mile operated, measures of on-time performance and delays incurred by intercity passenger trains on the rail lines of each rail carrier and, for long-distance routes, measures of connectivity with other routes in all regions currently receiving Amtrak service and the transportation needs of communities and populations that are not well-served by other forms of intercity transportation. Amtrak shall provide reasonable access to the Federal Railroad Administration in order to enable the Administration to carry out its duty under this section.
+In General.—Within 180 days after the date of enactment of this Act \[Oct. 16, 2008\], the Federal Railroad Administration and Amtrak shall jointly, in consultation with the Surface Transportation Board, rail carriers over whose rail lines Amtrak trains operate, States, Amtrak employees, nonprofit employee organizations representing Amtrak employees, and groups representing Amtrak passengers, as appropriate, develop new or improve existing metrics and minimum standards for measuring the performance and service quality of intercity passenger train operations, including cost recovery, on-time performance and minutes of delay, ridership, on-board services, stations, facilities, equipment, and other services. Such metrics, at a minimum, shall include the percentage of avoidable and fully allocated operating costs covered by passenger revenues on each route, ridership per train mile operated, measures of on-time performance and delays incurred by intercity passenger trains on the rail lines of each rail carrier and, for long-distance routes, measures of connectivity with other routes in all regions currently receiving Amtrak service and the transportation needs of communities and populations that arenot well-served by other forms of intercity transportation. Amtrak shall provide reasonable access to the Federal Railroad Administration in order to enable the Administration to carry out its duty under this section.
 
 "(b)
 
@@ -294,7 +324,7 @@ In General.—Within 2 years after the date of enactment of this Act \[Oct. 16, 
 
 &emsp;"(1) ensures, within 5 years after the date of enactment of this Act, equal treatment in the provision of like services of all States and groups of States (including the District of Columbia); and
 
-&emsp;"(2) allocates to each route the costs incurred only for the benefit of that route and a proportionateshare, based upon factors that reasonably reflect relative use, of costs incurred for the common benefit of more than 1 route.
+&emsp;"(2) allocates to each route the costs incurred only for the benefit of that route and a proportionate share, based upon factors that reasonably reflect relative use, of costs incurred for the common benefit of more than 1 route.
 
 "(b)
 
@@ -388,7 +418,7 @@ Pub. L. 105–134, §2, Dec. 2, 1997, 111 Stat. 2571, provided that: "The Congre
 
 #### Fiscal Accountability
 
-Pub. L. 105–134, title II, §§202–205, Dec. 2, 1997, 111 Stat. 2578–2582, as amended by Pub. L. 108–271, §8(b),July 7, 2004, 118 Stat. 814; Pub. L. 110–432, div. B, title II, §218(a)(2), Oct. 16, 2008, 122 Stat. 4930, provided that:
+Pub. L. 105–134, title II, §§202–205, Dec. 2, 1997, 111 Stat. 2578–2582, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–432, div. B, title II, §218(a)(2), Oct. 16, 2008, 122 Stat. 4930, provided that:
 
 #### "SEC. 202. INDEPENDENT ASSESSMENT.
 
@@ -420,7 +450,7 @@ Bidding Practices.—
 
 &emsp;"(1)
 
-Study.—The independent assessment also shall determine whether, and to what extent, Amtrak has performed each year during the period from 1992 through 1996 services under contract at amounts less than the cost to Amtrak of performing such services with respect to any activity other than the provision of intercity rail passenger transportation, or mail or express transportation. For purposes of this clause, the cost to Amtrak of performing services shall be determined using generally accepted accounting principles for contracting. If identified, such contracts shall be detailed in the report of the independent assessment, as well as the methodology for preparation of bids to reflect Amtrak's actual cost of performance.
+Study.—The independent assessment also shall determine whether, and to what extent, Amtrak has performed each year during the period from 1992 through 1996 services under contract at amounts less than the cost to Amtrak of performing such services with respect to any activity other than the provision of intercity rail passenger transportation, or mail or express transportation. For purposes of this clause,the cost to Amtrak of performing services shall be determined using generally accepted accounting principles for contracting. If identified, such contracts shall be detailed in the report of the independent assessment, as well as the methodology for preparation of bids to reflect Amtrak's actual cost of performance.
 
 &emsp;"(2)
 
@@ -510,7 +540,7 @@ Meetings.—Each meeting of the Council, other than a meeting at which proprieta
 
 "(f)
 
-Access to Information.—Amtrak shall make available to the Council all information the Council requires to carry out its duties under this section. The Council shall establish appropriate procedures to ensure against the public disclosure of any informationobtained under this subsection that is a trade secret or commercial or financial information that is privileged or confidential.
+Access to Information.—Amtrak shall make available to the Council all information the Council requires to carry out its duties under this section. The Council shall establish appropriate procedures to ensure against the public disclosure of any information obtained under this subsection that is a trade secret or commercial or financial information that is privileged or confidential.
 
 "(g)
 
@@ -566,7 +596,7 @@ Pub. L. 105–134, title II, §209, Dec. 2, 1997, 111 Stat. 2584, provided that:
 
 In General.—Amtrak may not use any amount received under section 977 of the Taxpayer Relief Act of 1997 \[Pub. L. 105–34, 26 U.S.C. 172 note\]—
 
-&emsp;"(1) for any purpose other than making payments to non-Amtrak States (pursuant to section 977(c) of that Act), or the financing of qualified expenses (as that term is defined in section 977(e)(1) of that Act); or
+&emsp;"(1) for any purpose other than making payments to non-Amtrak States (pursuant to section 977(c) ofthat Act), or the financing of qualified expenses (as that term is defined in section 977(e)(1) of that Act); or
 
 &emsp;"(2) to offset other amounts used for any purpose other than the financing of such expenses.
 
@@ -576,7 +606,7 @@ Report by ARC.—The Amtrak Reform Council shall report quarterly to the Congres
 
 #### Interstate Rail Compacts
 
-Pub. L. 105–134, title IV, §410, Dec. 2, 1997, 111 Stat. 2587, provided that:
+Pub. L. 105–134, title IV, §410, Dec. 2, 1997, 111 Stat. 2587, as amended by Pub. L. 117–58, div. B, title II, §22306(c), Nov. 15, 2021, 135 Stat. 724, provided that:
 
 "(a)
 
@@ -600,7 +630,7 @@ Financing.—An interstate compact established by States under subsection (a) ma
 
 &emsp;"(1) accept contributions from a unit of State or local government or a person;
 
-&emsp;"(2) use any Federal or State funds made available for intercity passenger rail service (except funds made available for Amtrak);
+&emsp;"(2) use any Federal or State funds made available for intercity passenger rail service;
 
 &emsp;"(3) on such terms and conditions as the States consider advisable—
 
@@ -608,7 +638,19 @@ Financing.—An interstate compact established by States under subsection (a) ma
 
 &emsp;&emsp;"(B) issue bonds; and
 
-&emsp;"(4) obtain financing by other means permitted under Federal or State law."
+&emsp;"(4) obtain financing by other means permitted under Federal or State law.
+
+"(c)
+
+Notification Requirement.—Any State that enters into an interstate compact pursuant to subsection (a) shall notify the Secretary of Transportation of such compact not later than 60 days after it is formed. The failure of any State to notify the Secretary under this subsection shall not affect the status of the interstate compact.
+
+"(d)
+
+Interstate Rail Compacts Program.—The Secretary of Transportation shall—
+
+&emsp;"(1) make available on a publicly accessible website a list of interstate rail compacts established under subsection (a) before the date of enactment of the Passenger Rail Expansion and Rail Safety Act of 2021 \[Nov. 15, 2021\] and interstate rail compacts established after such date; and
+
+&emsp;"(2) make information regarding interstate rail compacts available to the public, including how States may establish interstate rail compacts under subsection (a), and update such information, as necessary."
 
 #### Definition
 

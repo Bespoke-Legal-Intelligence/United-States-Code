@@ -48,6 +48,8 @@ In subsection (a), the word "prescribe" is substituted for "adopt" for consisten
 
 In subsection (c) the word "prevent" is substituted for "restrict the discretion of" to eliminate unnecessary words.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2001</b>—Subsec. (c). Pub. L. 107–71 substituted "screening employees" for "screening contract employees".

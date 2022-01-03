@@ -8,7 +8,7 @@ Any person required to collect, truthfully account for, and pay over any tax imp
 
 #### (1) In general
 
-&emsp;No penalty shall be imposed under subsection (a) unless the Secretary notifies thetaxpayer in writing by mail to an address as determined under section 6212(b) or in person that the taxpayer shall be subject to an assessment of such penalty.
+&emsp;No penalty shall be imposed under subsection (a) unless the Secretary notifies the taxpayer in writing by mail to an address as determined under section 6212(b) or in person that the taxpayer shall be subject to an assessment of such penalty.
 
 #### (2) Timing of notice
 
@@ -38,7 +38,7 @@ Any person required to collect, truthfully account for, and pay over any tax imp
 
 &emsp;&emsp;(C) furnishes a bond which meets the requirements of paragraph (3),
 
-> &emsp;no levy or proceeding in court for the collection of the remainder of such penalty shall be made, begun, or prosecuted until a final resolution of a proceeding begun as provided in paragraph (2). Notwithstanding the provisions of section 7421(a), the beginning of such proceeding or levy during the time such prohibition is in force may be enjoined by a proceeding in the proper court. Nothing in this paragraph shall be construed to prohibit any counterclaim for the remainder of such penalty in a proceeding begun as provided in paragraph (2).
+> &emsp;no levy or proceeding in court for the collection of the remainder of such penalty shall bemade, begun, or prosecuted until a final resolution of a proceeding begun as provided in paragraph (2). Notwithstanding the provisions of section 7421(a), the beginning of such proceeding or levy during the time such prohibition is in force may be enjoined by a proceeding in the proper court. Nothing in this paragraph shall be construed to prohibit any counterclaim for the remainder of such penalty in a proceeding begun as provided in paragraph (2).
 
 #### (2) Suit must be brought to determine liability for penalty
 
@@ -78,6 +78,8 @@ No penalty shall be imposed by subsection (a) on any unpaid, volunteer member of
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 828; Pub. L. 95–628, §9(a), Nov. 10, 1978, 92 Stat. 3633; Pub. L. 101–239, title VII, §§7721(c)(9), 7737(a), Dec. 19, 1989, 103 Stat. 2400, 2404; Pub. L. 104–168, title IX, §§901(a), 903(a), 904(a), July 30, 1996, 110 Stat. 1465–1467; Pub. L. 105–206, title III, §3307(a), (b), July 22, 1998, 112 Stat. 744; Pub. L. 115–141, div. U, title IV, §401(a)(325)(D), Mar. 23, 2018, 132 Stat. 1200.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (c)(2). Pub. L. 115–141 substituted "Court of Federal Claims" for "Court of Claims".
@@ -100,6 +102,8 @@ Subsec. (b)(1). Pub. L. 101–239, §7737(a), inserted at end "Nothing in this p
 
 <b>1978</b>—Pub. L. 95–628 designated existing provisions as subsec. (a), added subsec. (a) heading, and added subsec. (b).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–206, title III, §3307(c), July 22, 1998, 112 Stat. 744, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[July 22, 1998\]."
@@ -114,7 +118,7 @@ Pub. L. 104–168, title IX, §903(b), July 30, 1996, 110 Stat. 1466, provided t
 
 Amendment by section 7721(c)(9) of Pub. L. 101–239 applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1989, see section 7721(d) of Pub. L. 101–239, set out as a note under section 461 of this title.
 
-Pub. L. 101–239, title VII, §7737(b), Dec. 19, 1989, 103 Stat. 2404, provided that: "The amendment made by subsection (a) \[amending this section and sections 6694 and 6703 of this title\] shall take effect on the date of the enactment of this Act \[Dec. 19, 1989\]."
+Pub. L. 101–239, title VII, §7737(b), Dec. 19, 1989, 103 Stat. 2404, provided that: "The amendment made bysubsection (a) \[amending this section and sections 6694 and 6703 of this title\] shall take effect on the date of the enactment of this Act \[Dec. 19, 1989\]."
 
 #### Effective Date of 1978 Amendment
 

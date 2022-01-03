@@ -24,17 +24,19 @@ If the United States votes against including any species in Appendix I or II of 
 
 (2) The Secretary and the Secretary of State shall, in cooperation with the contracting parties to the Western Convention and, to the extent feasible and appropriate, with the participation of State agencies, take such steps as are necessary to implement the Western Convention. Such steps shall include, but not be limited to—
 
-&emsp;(A) cooperation with contracting parties and international organizations for the purpose of developing personnel resources and programs that will facilitate implementation of the Western Convention;
+&emsp;(A) cooperation with contracting parties and international organizations for the purpose ofdeveloping personnel resources and programs that will facilitate implementation of the Western Convention;
 
 &emsp;(B) identification of those species of birds that migrate between the United States and other contracting parties, and the habitats upon which those species depend, and the implementation of cooperative measures to ensure that such species will not become endangered or threatened; and
 
 &emsp;(C) identification of measures that are necessary and appropriate to implement those provisions of the Western Convention which address the protection of wild plants.
 
-(3) No later than September 30, 1985, the Secretary and the Secretary of State shall submit a report to Congress describing those steps taken in accordance with the requirements of this subsection and identifying the principal remainingactions yet necessary for comprehensive and effective implementation of the Western Convention.
+(3) No later than September 30, 1985, the Secretary and the Secretary of State shall submit a report to Congress describing those steps taken in accordance with the requirements of this subsection and identifying the principal remaining actions yet necessary for comprehensive and effective implementation of the Western Convention.
 
 (4) The provisions of this subsection shall not be construed as affecting the authority, jurisdiction, or responsibility of the several States to manage, control, or regulate resident fish or wildlife under State law or regulations.
 
 (Pub. L. 93–205, §8A, as added Pub. L. 96–159, §6(a)(1), Dec. 28, 1979, 93 Stat. 1228; amended Pub. L. 97–304, §5\[(a)\], Oct. 13, 1983, 96 Stat. 1421.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -43,6 +45,8 @@ If the United States votes against including any species in Appendix I or II of 
 Subsec. (d). Pub. L. 97–304, §5\[(a)\](2), substituted provisions relating to reservations by the United States under the Convention for provisions which had established an International Convention Advisory Commission and had provided for its membership, staffing, and operation.
 
 Subsec. (e). Pub. L. 97–304, §5\[(a)\](3), substituted provisions implementing the Convention on Nature Protection and Wildlife Preservation in the Western Hemisphere for provisions which had provided that the President shall designate those agencies of the Federal Government that shall act on behalf of, and represent, the United States in all regards as required by the Convention on Nature Protection and Wildlife Preservation in the Western Hemisphere.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1982 Amendment
 

@@ -14,7 +14,7 @@ Considerations.—In making a decision under subsection (a) of this section, the
 
 &emsp;(1) the characteristics of the pipe and other equipment used in the pipeline facility, including the age, manufacture, physical properties, and method of manufacturing, constructing, or assembling the equipment;
 
-&emsp;(2) the nature of the material the pipeline facility transports, the corrosive and deteriorative qualities of the material, the sequence in which the material are <sup>1</sup> transported, and the pressure required for transporting the material;
+&emsp;(2) the nature of the material the pipeline facility transports, the corrosive and deteriorative qualities of the material, the sequence in which the material are <sup>1</sup> transported, and thepressure required for transporting the material;
 
 &emsp;(3) the aspects of the area in which the pipeline facility is located, including climatic and geologic conditions and soil characteristics;
 
@@ -130,6 +130,8 @@ In subsection (e), the text of 49 App.:1679b(b)(4) and 2008(b)(4) is omitted bec
 
 This amends 49:60112(d) to clarify the restatement of 49 App.:1679b(b)(1) and 2008(b)(1) by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1317).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–355, §8(a)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "After notice and an opportunity for a hearing, the Secretary of Transportation may decide a pipeline facility is hazardous if the Secretary decides the facility is—
@@ -143,6 +145,8 @@ Subsec. (d). Pub. L. 107–355, §10(b), designated existing provisions as par. 
 Pub. L. 107–355, §8(a)(2), substituted "is or would be hazardous" for "is hazardous".
 
 <b>1994</b>—Subsec. (d). Pub. L. 103–429 inserted before period at end ", including suspended or restricted use of the facility, physical inspection, testing, repair, replacement, or other appropriate action".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

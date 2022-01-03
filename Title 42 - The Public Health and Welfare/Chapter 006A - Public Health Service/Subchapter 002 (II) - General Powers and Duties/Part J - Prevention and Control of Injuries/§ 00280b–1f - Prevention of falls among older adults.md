@@ -32,7 +32,7 @@ The Secretary may—
 
 &emsp;&emsp;&emsp;(viii) assess the risk of falls occurring in various settings;
 
-&emsp;&emsp;(B) conduct research concerning barriers to the adoption of proven interventions withrespect to the prevention of falls among older adults;
+&emsp;&emsp;(B) conduct research concerning barriers to the adoption of proven interventions with respect to the prevention of falls among older adults;
 
 &emsp;&emsp;(C) conduct research to develop, implement, and evaluate the most effective approaches to reducing falls among high-risk older adults living in communities and long-term care and assisted living facilities; and
 
@@ -46,7 +46,7 @@ The Secretary may—
 
 The Secretary may carry out the following:
 
-&emsp;(1) Oversee and support demonstration and research projects to be carried out by qualified organizations, institutions, or consortia of qualified organizations and institutions, specializing, or demonstrating expertise, in falls or fall prevention, in the following areas:
+&emsp;(1) Oversee and support demonstration and research projects to be carried out by qualifiedorganizations, institutions, or consortia of qualified organizations and institutions, specializing, or demonstrating expertise, in falls or fall prevention, in the following areas:
 
 &emsp;&emsp;(A) A multistate demonstration project assessing the utility of targeted fall risk screening and referral programs.
 

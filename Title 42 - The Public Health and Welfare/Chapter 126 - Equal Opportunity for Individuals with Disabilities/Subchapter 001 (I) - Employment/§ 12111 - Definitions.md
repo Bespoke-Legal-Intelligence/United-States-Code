@@ -78,6 +78,8 @@ As used in this subchapter:
 
 (Pub. L. 101–336, title I, §101, July 26, 1990, 104 Stat. 330; Pub. L. 102–166, title I, §109(a), Nov. 21, 1991, 105 Stat. 1077; Pub. L. 110–325, §5(c)(1), Sept. 25, 2008, 122 Stat. 3557.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The effective date of this subchapter, referred to in par. (5)(A), is 24 months after July 26, 1990, see section 108 of Pub. L. 101–336, set out as an Effective Date note below.
@@ -88,13 +90,15 @@ This chapter, referred to in par. (10)(B)(i), was in the original "this Act", me
 
 #### Constitutionality
 
-For constitutionality of section 101 of Pub. L. 101–336, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For constitutionality of section 101 of Pub. L. 101–336, see note under section 12112 of this title.
 
 #### Amendments
 
 <b>2008</b>—Par. (8). Pub. L. 110–325 struck out "with a disability" after "individual" in heading and the first two places appearing in text.
 
 <b>1991</b>—Par. (4). Pub. L. 102–166 inserted at end "With respect to employment in a foreign country, such term includes an individual who is a citizen of the United States."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

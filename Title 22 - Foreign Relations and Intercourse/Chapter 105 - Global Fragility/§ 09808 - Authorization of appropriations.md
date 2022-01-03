@@ -4,7 +4,7 @@
 
 #### (1) Establishment
 
-&emsp;There is established in the Treasury of the United States a fund, which shall be known as the "Prevention and Stabilization Fund" (in this subsection referred to as "The Fund"), to be administered by the Department of State and USAID, as appropriate, to support stabilization of conflict-affected areas and to mitigate fragility, including through the Global Fragility Strategy established pursuant to section 9803 of this title, which shall replace the Relief and Recovery Fund.
+&emsp;There is established in the Treasury of the United States a fund, which shall be known asthe "Prevention and Stabilization Fund" (in this subsection referred to as "The Fund"), to be administered by the Department of State and USAID, as appropriate, to support stabilization of conflict-affected areas and to mitigate fragility, including through the Global Fragility Strategy established pursuant to section 9803 of this title, which shall replace the Relief and Recovery Fund.
 
 #### (2) Authorization of appropriations
 

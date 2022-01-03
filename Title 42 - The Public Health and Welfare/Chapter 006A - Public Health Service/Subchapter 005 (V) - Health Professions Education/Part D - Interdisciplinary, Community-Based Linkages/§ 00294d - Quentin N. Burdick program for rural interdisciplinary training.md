@@ -36,7 +36,7 @@ The Secretary may make grants or contracts under this section to help entities f
 
 #### (A) In general
 
-&emsp;&emsp;An applicant shall not use more than 10 percent of the funds made available to such applicant under subsection (a) for administrative expenses.
+&emsp;&emsp;An applicant shall not use more than 10 percent of the funds made available to suchapplicant under subsection (a) for administrative expenses.
 
 #### (B) Training
 
@@ -58,7 +58,9 @@ Applications submitted for assistance under this section shall—
 
 For the purposes of this section, the term "rural" means geographic areas that are located outside of standard metropolitan statistical areas.
 
-(July 1, 1944, ch. 373, title VII, §754, as added Pub. L. 105–392, title I, §103, Nov. 13, 1998, 112Stat. 3547; amended Pub. L. 116–136, div. A, title III, §3401(7), Mar. 27, 2020, 134 Stat. 386.)
+(July 1, 1944, ch. 373, title VII, §754, as added Pub. L. 105–392, title I, §103, Nov. 13, 1998, 112 Stat. 3547; amended Pub. L. 116–136, div. A, title III, §3401(7), Mar. 27, 2020, 134 Stat. 386.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

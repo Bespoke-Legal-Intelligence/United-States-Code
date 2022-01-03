@@ -26,11 +26,17 @@ Educational Assistance Described.—Subject to subsection (c), the payment of ed
 
 (c)
 
-Period Not Charged.—The period for which, by reason of this subsection, educational assistance is not charged against entitlement or counted toward the applicable aggregate period under section 3695 of this title shall not exceed the aggregate of—
+Period Not Charged.—(1) The period for which, by reason of this subsection, educational assistance is not charged against entitlement or counted toward the applicable aggregate period under section 3695 of this title shall not exceed the aggregate of—
 
-&emsp;(1) the portion of the period of enrollment in the course from which the individual did not receive credit or with respect to which the individual lost training time, as determined under subsection (b)(2); and
+&emsp;(A) the portion of the period of enrollment in the course from which the individual did not receive credit or with respect to which the individual lost training time, as determined under subsection (b)(2); and
 
-&emsp;(2) the period by which a monthly stipend is extended under section 3680(a)(2)(B) of this title.
+&emsp;(B) the period by which a monthly stipend is extended under section 3680(a)(2)(B) of this title.
+
+(2)(A) An individual described in subparagraph (B) who transfers fewer than 12 credits from a program of education that is closed or disapproved as described in subsection (b)(1) shall be deemed to be an individual who did not receive such credits, as described in subsection (b)(2), except that the period for which such individual's entitlement is not charged shall be the entire period of the individual's enrollment in the program of education. In carrying out this subparagraph, the Secretary, in consultation with the Secretary of Education, shall establish procedures to determine whether the individual transferred credits to a comparable course or program of education.
+
+(B) An individual described in this subparagraph is an individual who is enrolled in a course or program of education closed or discontinued as described in subsection (b)(1) during the period beginning on the date that is 120 days before the date of such closure or discontinuance and ending on the date of such closure or discontinuance, as the case may be.
+
+(C) This paragraph shall apply with respect to a course or program of education closed or discontinued before September 30, 2023.
 
 (d)
 
@@ -51,26 +57,6 @@ Notice of Closures.—Not later than 5 business days after the date on which the
 &emsp;(2) the effect of such closure on the individual's entitlement to educational assistance pursuant to this section.
 
 (Added Pub. L. 115–48, title I, §109(a)(1), Aug. 16, 2017, 131 Stat. 978; amended Pub. L. 116–61, §6(6), Sept. 30, 2019, 133 Stat. 1117; Pub. L. 116–315, title I, §§1007(a), 1021(a), Jan. 5, 2021, 134 Stat. 4940, 4958.)
-
-#### Amendment of Subsection (c)
-
-<i>Pub. L. 116–315, title I, §1021, Jan. 5, 2021, 134 Stat. 4958, provided that, effective on Aug. 1, 2021, subsection (c) of this section is amended to read as follows:</i>
-
-<i>(c)</i>
-
-<i>Period Not Charged.—(1) The period for which, by reason of this subsection, educational assistance is not charged against entitlement or counted toward the applicable aggregate period under section 3695 of this title shall not exceed the aggregate of—</i>
-
-&emsp;<i>(A) the portion of the period of enrollment in the course from which the individual did not receive credit or with respect to which the individual lost training time, as determined under subsection (b)(2); and</i>
-
-&emsp;<i>(B) the period by which a monthly stipend is extended under section 3680(a)(2)(B) of this title.</i>
-
-<i>(2)(A) An individual described in subparagraph (B) who transfers fewer than 12 credits from a program of education that is closed or disapproved as described in subsection (b)(1) shall be deemed to be an individual who did not receive such credits, as described in subsection (b)(2), except that the period for which such individual's entitlement is not charged shall be the entire period of the individual's enrollment in the program of education. In carrying out this subparagraph, the Secretary, in consultation with the Secretary of Education, shall establish procedures to determine whether the individual transferred credits to a comparable course or program of education.</i>
-
-<i>(B) An individual described in this subparagraph is an individual who is enrolled in a course or program of education closed or discontinued as described in subsection (b)(1) during the period beginning on the date that is 120 days before the date of such closure or discontinuance and ending on the date of such closure or discontinuance, as the case may be.</i>
-
-<i>(C) This paragraph shall apply with respect to a course or program of education closed or discontinued before September 30, 2023.</i>
-
-<i>See 2021 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -112,7 +98,7 @@ Special application.—
 
 &emsp;"(i)
 
-In general.—With respect to courses and programs of education discontinued as described in section 3699 of title 38, United States Code, as added by subsection (a)(1), during the period beginning January 1, 2015, and ending on the date of the enactment of this Act \[Sept. 29, 2017\], an individual described in clause (ii) who does not transfer credits from such program of education shall be deemed to be an individual who did not receive such credits, as described in subsection (b)(2) of such section, except that the period for which such individual's entitlement is not charged shall be the entire period of the individual's enrollment in the program of education. In carryingout this subparagraph, the Secretary of Veterans Affairs, in consultation with the Secretary of Education, shall establish procedures to determine whether the individual transferred credits to a comparable course or program of education.
+In general.—With respect to courses and programs of education discontinued as described in section 3699 of title 38, United States Code, as added by subsection (a)(1), during the period beginning January 1, 2015, and ending on the date of the enactment of this Act \[Sept. 29, 2017\], an individual described in clause (ii) who does not transfer credits from such program of education shall be deemed to be an individual who did not receive such credits, as described in subsection (b)(2) of such section, except that the period for which such individual's entitlement is not charged shall be the entire period of the individual's enrollment in the program of education. In carrying out this subparagraph, the Secretary of Veterans Affairs, in consultation with the Secretary of Education, shall establish procedures to determine whether the individual transferred credits to a comparable course or program of education.
 
 &emsp;"(ii)
 
@@ -132,7 +118,7 @@ Pub. L. 116–140, §5, Apr. 28, 2020, 134 Stat. 632, provided that: "During the
 
 &emsp;&emsp;" '(C) the temporary closure of an educational institution or the temporary closure or termination of a course or program of education by reason of an emergency situation; and'."
 
-\[The term "covered period" as used in section 5 of Pub. L. 116–140, set out above, means Mar. 1, 2020, to Dec. 21, 2021, see section 2 of Pub. L. 116–140, set out as a note under section 3031 of this title.\]
+\[The term "covered period" as used in section 5 of Pub. L. 116–140, set out above, means Mar. 1, 2020, to June 1, 2022, see section 2 of Pub. L. 116–140, set out as a note under section 3031 of this title.\]
 
 #### Restoration of Entitlement to Rehabilitation Programs for Veterans Affected by School Closure or Disapproval
 

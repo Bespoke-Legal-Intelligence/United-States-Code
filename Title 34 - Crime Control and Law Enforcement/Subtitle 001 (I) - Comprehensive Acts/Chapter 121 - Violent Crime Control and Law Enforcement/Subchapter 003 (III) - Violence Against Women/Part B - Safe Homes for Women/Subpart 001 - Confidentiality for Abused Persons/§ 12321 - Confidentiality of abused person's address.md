@@ -18,7 +18,7 @@ The regulations under subsection (a) shall not prohibit the disclosure of addres
 
 #### (d) Existing compilations
 
-Compilations of addresses existing at the time at which order is presented to an appropriatepostal official shall be excluded from the scope of the regulations under subsection (a).
+Compilations of addresses existing at the time at which order is presented to an appropriate postal official shall be excluded from the scope of the regulations under subsection (a).
 
 (Pub. L. 103–322, title IV, §40281, Sept. 13, 1994, 108 Stat. 1938.)
 

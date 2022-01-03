@@ -18,7 +18,7 @@ Section 5588, Pub. L. 95–590, §9, Nov. 4, 1978, 92 Stat. 2518, related to the
 
 Section 5589, Pub. L. 95–590, §10, Nov. 4, 1978, 92 Stat. 2519, related to promotion and facilitation of practical use of photovoltaic energy.
 
-Section 5590, Pub. L. 95–590, §11, Nov. 4, 1978, 92 Stat. 2520; Pub. L. 103–82, title IV, §405(j), Sept. 21, 1993, 107 Stat. 922, related to submittal to congressional committees of plan for demonstrating applications of photovoltaic systems and facilitating use in other nations, including encouragement of international participation and cooperation and coordination and consistency of plan and international activities with similar activities and programs.
+Section 5590, Pub. L. 95–590, §11, Nov. 4, 1978, 92 Stat. 2520; Pub. L. 103–82, title IV, §405(j), Sept. 21, 1993, 107 Stat. 922, related to submittal to congressional committees of plan for demonstrating applications of photovoltaic systems and facilitating use in other nations, including encouragement of international participation and cooperation and coordination and consistency ofplan and international activities with similar activities and programs.
 
 Section 5591, Pub. L. 95–590, §12, Nov. 4, 1978, 92 Stat. 2521, related to participation of small business concerns.
 

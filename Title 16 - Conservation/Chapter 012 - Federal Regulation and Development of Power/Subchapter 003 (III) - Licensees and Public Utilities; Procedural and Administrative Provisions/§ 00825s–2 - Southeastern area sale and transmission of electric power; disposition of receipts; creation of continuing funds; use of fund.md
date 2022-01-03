@@ -4,6 +4,8 @@ All receipts from the transmission and sale of electric power and energy under t
 
 (Aug. 31, 1951, ch. 375, title I, §101, 65 Stat. 249.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was not enacted as part of the Federal Power Act which generally comprises this chapter.

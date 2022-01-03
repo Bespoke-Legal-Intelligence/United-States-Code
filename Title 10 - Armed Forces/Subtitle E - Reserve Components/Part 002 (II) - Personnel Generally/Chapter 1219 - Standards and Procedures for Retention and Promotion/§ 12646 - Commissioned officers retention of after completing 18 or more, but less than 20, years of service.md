@@ -86,7 +86,9 @@ In subsection (e), the words "at the end of that period" are substituted for the
 
 #### 1962 Act
 
-The change reflects the repeal of section 611 of the Reserve Officer Personnel Act of 1954, ch. 1257 (68 Stat. 1186), formerly section 1391 of title 50, and its restatement in section 787 of title 14 (see sections 5(2) and 36A of the Act of September 2, 1958, Pub. L. 85–861 (72 Stat. 1547 and 1569)).
+The change reflects the repeal of section 611 of the Reserve Officer Personnel Act of 1954, ch. 1257 (68 Stat.1186), formerly section 1391 of title 50, and its restatement in section 787 of title 14 (see sections 5(2) and 36A of the Act of September 2, 1958, Pub. L. 85–861 (72 Stat. 1547 and 1569)).
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -125,6 +127,8 @@ Subsec. (e). Pub. L. 93–586, §3(3), substituted "discharge is required by thi
 <b>1962</b>—Subsec. (e). Pub. L. 87—651 substituted "section 787 of title 14" for "section 1391 of title 50".
 
 <b>1960</b>—Subsec. (e). Pub. L. 86–559 struck out references to sections 3849 and 8849 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### References to Sections of Title 14 as Redesignated by Pub. L. 115–282
 

@@ -6,9 +6,11 @@ As soon as practicable after a trade agreement entered into under section 2133 o
 
 #### (b) Submission to each member
 
-The President shall transmit to each Member of the Congress a summary of the information required to be transmitted to each House under subsection (a). For purposes of this subsection, the term "Member" includes any Delegate or Resident Commissioner.
+The President shall transmit to each Member of the Congress a summary of the information required to be transmitted to each House under subsection (a). For purposes of this subsection,the term "Member" includes any Delegate or Resident Commissioner.
 
 (Pub. L. 93–618, title I, §162, Jan. 3, 1975, 88 Stat. 2008; Pub. L. 100–647, title IX, §9001(a)(10), Nov. 10, 1988, 102 Stat. 3807; Pub. L. 107–210, div. B, title XXI, §2110(a)(6), Aug. 6, 2002, 116 Stat. 1020; Pub. L. 114–26, title I, §110(a)(7), June 29, 2015, 129 Stat. 358.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -18,9 +20,13 @@ The President shall transmit to each Member of the Congress a summary of the inf
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–647 struck out "part 1 of this subchapter or" after "entered into under", and inserted "or under section 2902 of this title" after "2134 of this title".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–647 applicable as if such amendment took effect on Aug. 23, 1988, see section 9001(b) of Pub. L. 100–647, set out as an Effective and Termination Dates of 1988 Amendments note under section 58c of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Authority
 

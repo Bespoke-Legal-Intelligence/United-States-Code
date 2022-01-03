@@ -8,7 +8,7 @@ The Congress finds that—
 
 &emsp;(2) wetlands provide habitat essential for the breeding, spawning, nesting, migration, wintering and ultimate survival of a major portion of the migratory and resident fish and wildlife of the Nation; including migratory birds, endangered species, commercially and recreationally important finfish, shellfish and other aquatic organisms, and contain many unique species and communities of wild plants;
 
-&emsp;(3) the migratory bird treaty obligations of the Nation with Canada, Mexico, Japan, the Union of Soviet Socialist Republics, and with various countries in the Western Hemisphererequire Federal protection of wetlands that are used by migratory birds for breeding, wintering or migration and needed to achieve and to maintain optimum population levels, distributions, and patterns of migration;
+&emsp;(3) the migratory bird treaty obligations of the Nation with Canada, Mexico, Japan, the Union of Soviet Socialist Republics, and with various countries in the Western Hemisphere require Federal protection of wetlands that are used by migratory birds for breeding, wintering or migration and needed to achieve and to maintain optimum population levels, distributions, and patterns of migration;
 
 &emsp;(4) wetlands, and the fish, wildlife, and plants dependent on wetlands, provide significant recreational and commercial benefits, including—
 
@@ -26,7 +26,7 @@ The Congress finds that—
 
 &emsp;(8) certain activities of the Federal Government have inappropriately altered or assisted in the alteration of wetlands, thereby unnecessarily stimulating and accelerating the loss of these valuable resources and the environmental and economic benefits that they provide; and
 
-&emsp;(9) the existing Federal, State, and private cooperation in wetlands conservation should be strengthened in order to minimize further losses of these valuable areas and to assure their management in the public interest for this and future generations.
+&emsp;(9) the existing Federal, State, and private cooperation in wetlands conservation should be strengthened in order to minimize furtherlosses of these valuable areas and to assure their management in the public interest for this and future generations.
 
 #### (b) Purpose
 
@@ -38,9 +38,13 @@ It is the purpose of this chapter to promote, in concert with other Federal and 
 
 (Pub. L. 99–645, §2, Nov. 10, 1986, 100 Stat. 3582.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 99–645, Nov. 10, 1986, 100 Stat. 3582, known as the Emergency Wetlands Resources Act of 1986. For complete classification of this Act to the Code, see Short Title note below and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

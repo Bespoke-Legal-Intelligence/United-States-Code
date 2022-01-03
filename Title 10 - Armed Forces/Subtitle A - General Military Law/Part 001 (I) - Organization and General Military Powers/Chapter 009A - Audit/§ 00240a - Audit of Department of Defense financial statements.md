@@ -10,9 +10,13 @@ Annual Report on Audit.—The Secretary shall submit to Congress the results of 
 
 (Added Pub. L. 115–91, div. A, title X, §1002(b)(1), Dec. 12, 2017, 131 Stat. 1538, §251; renumbered §240a, Pub. L. 115–232, div. A, title X, §1002(a)(1)(A), Aug. 13, 2018, 132 Stat. 1945.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 251 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Review and Recommendations on Efforts To Obtain Audit Opinion on Full Financial Statements
 

@@ -14,6 +14,8 @@ The Administration shall have authority to act as trustee or receiver of the lic
 
 (Pub. L. 85–699, title III, §311, as added Pub. L. 87–341, §9, Oct. 3, 1961, 75 Stat. 755; amended Pub. L. 89–779, §6, Nov. 6, 1966, 80 Stat. 1360; Pub. L. 98–620, title IV, §402(15)(C), Nov. 8, 1984, 98 Stat. 3358.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For definition of "this chapter", referred to in subsec. (a), see References in Text note set out under section 661 of this title.
@@ -23,6 +25,8 @@ For definition of "this chapter", referred to in subsec. (a), see References in 
 <b>1984</b>—Subsec. (a). Pub. L. 98–620 struck out provision that the proceedings in such a case had to be made a preferred cause and had to be expedited in every way.
 
 <b>1966</b>—Subsec. (c). Pub. L. 89–779 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

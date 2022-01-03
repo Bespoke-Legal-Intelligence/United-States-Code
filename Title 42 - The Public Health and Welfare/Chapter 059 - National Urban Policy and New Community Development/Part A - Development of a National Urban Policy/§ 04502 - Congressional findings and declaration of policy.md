@@ -1,6 +1,6 @@
 ### §4502. Congressional findings and declaration of policy
 
-(a) The Congress finds that rapid changes in patterns of urban settlement, including change in population distribution and economic bases of urban areas, have created an imbalance between the Nation's needs and resources and seriously threaten our physical and social environment, and the financial viability of our cities, and that the economic and social development of the Nation, the proper conservation of our energy and other natural resources, and the achievement of satisfactory living standards depend upon the sound, orderly, and more balanced development of all areas of the Nation.
+(a) The Congress finds that rapid changes in patterns of urban settlement, including change in population distribution and economic bases of urban areas, have created an imbalance between the Nation's needs and resources and seriouslythreaten our physical and social environment, and the financial viability of our cities, and that the economic and social development of the Nation, the proper conservation of our energy and other natural resources, and the achievement of satisfactory living standards depend upon the sound, orderly, and more balanced development of all areas of the Nation.
 
 (b) The Congress further finds that Federal programs affect the location of population, economic growth, and the character of urban development; that such programs frequently conflict and result in undesirable and costly patterns of urban development and redevelopment which adversely affect the environment and wastefully use energy and other natural resources; and that existing and future programs must be interrelated and coordinated within a system of orderly development and established priorities consistent with a national urban policy.
 
@@ -25,6 +25,8 @@
 &emsp;(8) increase coordination among Federal programs that seek to promote job opportunities and skills, decent and affordable housing, public safety, access to health care, educational opportunities, and fiscal soundness for urban communities and their residents.
 
 (Pub. L. 91–609, title VII, §702, Dec. 31, 1970, 84 Stat. 1791; Pub. L. 95–128, title VI, §601(b), Oct. 12, 1977, 91 Stat. 1143; Pub. L. 98–479, title II, §204(i), Oct. 17, 1984, 98 Stat. 2233; Pub. L. 102–550, title IX, §921(1), Oct. 28, 1992, 106 Stat. 3883.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

@@ -16,7 +16,7 @@ This part, referred to in subsec. (b), commences with section 351 of this title.
 
 #### Amendments
 
-<b>1965</b>—Subsec. (b). Pub. L. 89–121 substituted "Cargo ship safety radio telegraphy certificates, cargo shipsafety radiotelephony certificates, and exemption certificates with respect to radio particulars shall be issued" for "Safety Radiotelegraphy Certificates and Safety Radiotelephony Certificates, as prescribed by the said Convention, and Exemption Certificates issued in lieu of such certificates, shall be issued."
+<b>1965</b>—Subsec. (b). Pub. L. 89–121 substituted "Cargo ship safety radio telegraphy certificates, cargo ship safety radiotelephony certificates, and exemption certificates with respect to radio particulars shall be issued" for "Safety Radiotelegraphy Certificates and Safety Radiotelephony Certificates, as prescribed by the said Convention, and Exemption Certificates issued in lieu of such certificates, shall be issued."
 
 <b>1954</b>—Act Aug. 13, 1954, §2(a)(1), amended credit to section by changing section number from "359" to "361" of act June 19, 1934.
 

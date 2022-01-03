@@ -10,6 +10,8 @@ Applicability of Chapter With Respect to Employees of Administration.—The prov
 
 (Added Pub. L. 107–71, title I, §139(4), Nov. 19, 2001, 115 Stat. 640; amended Pub. L. 115–254, div. K, title I, §1991(e), Oct. 5, 2018, 132 Stat. 3642.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–254, §1991(e)(1), substituted "Administrator of the Transportation Security Administration" for "Under Secretary of Transportation for Security".

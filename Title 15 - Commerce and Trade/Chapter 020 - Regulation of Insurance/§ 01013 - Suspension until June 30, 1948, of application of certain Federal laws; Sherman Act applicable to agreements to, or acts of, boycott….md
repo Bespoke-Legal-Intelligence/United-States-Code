@@ -36,13 +36,15 @@
 
 (Mar. 9, 1945, ch. 20, §3, 59 Stat. 34; July 25, 1947, ch. 326, 61 Stat. 448; Pub. L. 116–327, §2(a), Jan. 13, 2021, 134 Stat. 5097.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Act of July 2, 1890, as amended, known as the Sherman Act, referred to in subsecs. (a) and (b), is classified to sections 1 to 7 of this title.
 
 Act of October 15, 1914, as amended, known as the Clayton Act, referred to in subsec. (a), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of this title and to sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of this title and Tables.
 
-Act of September 26, 1914, known as the Federal Trade Commission Act, referred to in subsec. (a), isgenerally classified to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+Act of September 26, 1914, known as the Federal Trade Commission Act, referred to in subsec. (a), is generally classified to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 Act of June 19, 1936, known as the Robinson-Patman Anti-Discrimination Act, referred to in subsec. (a), is act June 19, 1936, ch. 592, 49 Stat. 1526, known as the Robinson-Patman Antidiscrimination Act and also as the Robinson-Patman Price Discrimination Act, which enacted sections 13a, 13b, and 21a of this title and amended section 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 13 of this title and Tables.
 
@@ -51,6 +53,8 @@ Act of June 19, 1936, known as the Robinson-Patman Anti-Discrimination Act, refe
 <b>2021</b>—Subsec. (c). Pub. L. 116–327 added subsec. (c).
 
 <b>1947</b>—Act July 25, 1947, substituted "June 30, 1948" for "January 1, 1948".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Related Provision
 

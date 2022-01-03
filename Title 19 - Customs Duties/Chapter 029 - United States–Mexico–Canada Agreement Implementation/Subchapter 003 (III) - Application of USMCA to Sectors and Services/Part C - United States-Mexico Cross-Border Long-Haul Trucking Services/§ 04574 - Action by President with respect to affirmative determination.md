@@ -50,7 +50,7 @@ The President is not required to provide relief under this section if the Presid
 
 #### (i) Investigation
 
-&emsp;&emsp;&emsp;Upon request of the President, or upon the filing by an interested party described in subparagraph (A), (B), or (C) of section 4571(8) of this title which is representative of a United States long-haul trucking services industry that is filed with the Commission not earlier than the date that is 270 days, and not later than the date that is 240 days, before the date on which any action taken under this section is to terminate, the Commission shall conduct an investigation to determine whether action under this section continues to be necessary to remedy or prevent material harm.
+&emsp;&emsp;&emsp;Upon request of the President, or upon the filing by an interested party describedin subparagraph (A), (B), or (C) of section 4571(8) of this title which is representative of a United States long-haul trucking services industry that is filed with the Commission not earlier than the date that is 270 days, and not later than the date that is 240 days, before the date on which any action taken under this section is to terminate, the Commission shall conduct an investigation to determine whether action under this section continues to be necessary to remedy or prevent material harm.
 
 #### (ii) Notice and hearing
 
@@ -58,7 +58,7 @@ The President is not required to provide relief under this section if the Presid
 
 &emsp;&emsp;&emsp;&emsp;(I) publish notice of the commencement of an investigation under clause (i) in the Federal Register; and
 
-&emsp;&emsp;&emsp;&emsp;(II) within a reasonable time thereafter, hold a public hearing at which the Commission shall afford interested parties an opportunity to be present, to present evidence, and to respond to thepresentations of other parties and consumers, and otherwise be heard.
+&emsp;&emsp;&emsp;&emsp;(II) within a reasonable time thereafter, hold a public hearing at which the Commission shall afford interested parties an opportunity to be present, to present evidence, and to respond to the presentations of other parties and consumers, and otherwise be heard.
 
 #### (iii) Report
 
@@ -88,9 +88,13 @@ The Commission and the Secretary of Transportation are authorized to promulgate 
 
 (Pub. L. 116–113, title III, §324, Jan. 29, 2020, 134 Stat. 58.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This part, referred to in subsec. (e), was in the original "this subtitle", meaning subtitle C (§§321–327) of title III of Pub. L. 116–113, Jan. 29, 2020, 134 Stat. 54, which is classified principally to this subchapter. For complete classification of subtitle C to the Code, see Tables.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

@@ -14,7 +14,7 @@
 
 (2) For purposes of this section, a material fact is one which the Commissioner of Social Security may consider in evaluating whether an applicant is entitled to benefits under subchapter II or subchapter VIII, or eligible for benefits or payments under subchapter XVI.
 
-(3) Any person (including an organization, agency, or other entity) who, having received, while acting in the capacity of a representative payee pursuant to section 405(j), 1007, or 1383(a)(2) of this title, a payment under subchapter II, VIII, or XVI for the use and benefit of another individual, converts such payment, or any part thereof, to a use that such person knows or should know is other than for the use and benefit of such other individual shall be subject to, in addition to any other penalties that may be prescribed by law, a civil money penalty of not more than $5,000 for each such conversion. Such person shall also be subject to an assessment, in lieu of damages sustained by the United States resulting from the conversion, of not more than twice the amount of any payments so converted.
+(3) Any person (including an organization, agency, or other entity) who, having received, while acting in the capacity of a representative payee pursuant to section 405(j), 1007, or 1383(a)(2) of this title, a payment under subchapter II, VIII, or XVI for the use and benefit of another individual, converts such payment, or any part thereof, to a use that such person knows or should know is other than for the use and benefit of such other individual shall be subject to, in addition to any other penalties that may be prescribed by law, a civil money penaltyof not more than $5,000 for each such conversion. Such person shall also be subject to an assessment, in lieu of damages sustained by the United States resulting from the conversion, of not more than twice the amount of any payments so converted.
 
 #### (b) Initiation of proceedings; hearing; sanctions
 
@@ -94,7 +94,7 @@ In determining pursuant to subsection (a) the amount or scope of any penalty or 
 
 #### (f) Finality of determination respecting penalty, assessment, or exclusion
 
-A determination pursuant to subsection (a) by the Commissioner of Social Security to imposea penalty or assessment, or to recommend an exclusion shall be final upon the expiration of the 60-day period referred to in subsection (d). Matters that were raised or that could have been raised in a hearing before the Commissioner of Social Security or in an appeal pursuant to subsection (d) may not be raised as a defense to a civil action by the United States to collect a penalty or assessment imposed under this section.
+A determination pursuant to subsection (a) by the Commissioner of Social Security to impose a penalty or assessment, or to recommend an exclusion shall be final upon the expiration of the 60-day period referred to in subsection (d). Matters that were raised or that could have been raised in a hearing before the Commissioner of Social Security or in an appeal pursuant to subsection (d) may not be raised as a defense to a civil action by the United States to collect a penalty or assessment imposed under this section.
 
 #### (g) Notification of appropriate entities of finality of determination
 
@@ -120,9 +120,11 @@ A principal is liable for penalties and assessments under subsection (a), and fo
 
 #### (l) Protection of ongoing criminal investigations
 
-As soon as the Inspector General, Social Security Administration, has reason to believe that fraud was involved in the application of an individual for monthly insurance benefits under subchapter II or for benefits under subchapter VIII or XVI, the Inspector General shall make available to the Commissioner of Social Security information identifying the individual, unless a United States attorney, or equivalent State prosecutor, with jurisdiction over potential or actual related criminal cases, certifies, in writing, that there is a substantial risk that making the information so available in a particular investigation or redetermining the eligibility of the individual for such benefits would jeopardize the criminal prosecution of any person who is a subject of the investigation from which the information is derived.
+As soon as the Inspector General, Social Security Administration, has reason to believe that fraud was involved in the application of an individual for monthly insurance benefits under subchapter II or for benefits under subchapter VIIIor XVI, the Inspector General shall make available to the Commissioner of Social Security information identifying the individual, unless a United States attorney, or equivalent State prosecutor, with jurisdiction over potential or actual related criminal cases, certifies, in writing, that there is a substantial risk that making the information so available in a particular investigation or redetermining the eligibility of the individual for such benefits would jeopardize the criminal prosecution of any person who is a subject of the investigation from which the information is derived.
 
 (Aug. 14, 1935, ch. 531, title XI, §1129, as added and amended Pub. L. 103–296, title I, §108(b)(10)(A), title II, §206(b)(1), (e)(1), Aug. 15, 1994, 108 Stat. 1483, 1509, 1515; Pub. L. 106–169, title II, §251(b)(6), Dec. 14, 1999, 113 Stat. 1855; Pub. L. 108–203, title I, §111(a), title II, §201(a)(1), (b), (c), Mar. 2, 2004, 118 Stat. 507, 508; Pub. L. 114–74, title VIII, §813(c), Nov. 2, 2015, 129 Stat. 603.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -146,7 +148,7 @@ A prior section 1320a–8, act Aug. 14, 1935, ch. 531, title XI, §1129, as adde
 
 &emsp;"(C) benefits or payments under subchapter XVI,
 
-> that the person knows or should know is false or misleading or knows or should know omits a material fact or makes such a statement with knowing disregard for the truth shall be subject to, in addition to any other penalties that may be prescribed by law, a civil money penalty of not more than $5,000 for each such statement or representation. Such person also shall be subject toan assessment, in lieu of damages sustained by the United States because of such statement or representation, of not more than twice the amount of benefits or payments paid as a result of such a statement or representation. In addition, the Commissioner of Social Security may make a determination in the same proceeding to recommend that the Secretary exclude, as provided in section 1320a–7 of this title, such a person who is a medical provider or physician from participation in the programs under subchapter XVIII."
+> that the person knows or should know is false or misleading or knows or should know omits a material fact or makes such a statement with knowing disregard for the truth shall be subject to, in addition to any other penalties that may be prescribed by law, a civil money penalty of not more than $5,000 for each such statement or representation. Such person also shall be subject to an assessment, in lieu of damages sustained by the United States because of such statement or representation, of not more than twice the amount of benefits or payments paid as a result of such a statement or representation. In addition, the Commissioner of Social Security may make a determination in the same proceeding to recommend that the Secretary exclude, as provided in section 1320a–7 of this title, such a person who is a medical provider or physician from participation in the programs under subchapter XVIII."
 
 Subsec. (a)(3). Pub. L. 108–203, §111(a), added par. (3).
 
@@ -189,6 +191,8 @@ Subsec. (k). Pub. L. 103–296, §108(b)(10)(A)(iv), inserted "based on a recomm
 Subsec. (l). Pub. L. 103–296, §206(e)(1), added subsec. (l).
 
 Pub. L. 103–296, §108(b)(10)(A)(i), (v), in subsec. (l) as added by Pub. L. 103–296, §206(e)(1), substituted "Social Security Administration" for "Department of Health and Human Services" and "Commissioner of Social Security" for "Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

@@ -82,6 +82,8 @@ The Commissioner shall cause a seal of office to be made for the Administration 
 
 (Aug. 14, 1935, ch. 531, title VII, §704, 49 Stat. 636; Aug. 28, 1950, ch. 809, title IV, §402(b), 64 Stat. 558; Pub. L. 94–273, §33, Apr. 21, 1976, 90 Stat. 380; Pub. L. 98–369, div. B, title VI, §2663(l)(1), July 18, 1984, 98 Stat. 1171; Pub. L. 103–296, title I, §104(a), Aug. 15, 1994, 108 Stat. 1470; Pub. L. 106–169, title II, §211(a), Dec. 14, 1999, 113 Stat. 1842; Pub. L. 114–74, title VIII, §845(a), Nov. 2, 2015, 129 Stat. 618.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (b)(3). Pub. L. 114–74 added par. (3).
@@ -95,6 +97,8 @@ The Commissioner shall cause a seal of office to be made for the Administration 
 <b>1976</b>—Pub. L. 94–273 substituted "within one hundred and twenty days after the beginning" for "at the beginning".
 
 <b>1950</b>—Act Aug. 28, 1950, substituted "Administrator" for "Board" in first sentence and added second sentence.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1999 Amendment
 
@@ -116,7 +120,7 @@ Amendment by section 104(a) of Pub. L. 103–296 effective Mar. 31, 1995, except
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
+Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting anyright, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
 
 #### Expedited Examination of Administrative Law Judges
 

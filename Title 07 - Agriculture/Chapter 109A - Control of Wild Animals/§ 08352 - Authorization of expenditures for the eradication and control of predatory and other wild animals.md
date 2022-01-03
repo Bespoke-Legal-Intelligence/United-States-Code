@@ -4,9 +4,13 @@ The Secretary of Agriculture is authorized to make such expenditures for equipme
 
 (Mar. 2, 1931, ch. 370, §3, 46 Stat. 1469.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 426b of this title prior to editorial reclassification and renumbering as this section.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

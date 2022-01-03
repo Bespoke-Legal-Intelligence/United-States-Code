@@ -90,6 +90,10 @@ Other low emission and energy-efficient vehicles.—Before September 30, 2019, t
 
 Amount of tolls.—Under this paragraph, a public authority may charge no toll or may charge a toll that is less than or equal to tolls charged under paragraph (4).
 
+&emsp;(6)
+
+Blood transport vehicles.—The public authority may allow blood transport vehicles that are transporting blood between a collection point and a hospital or storage center to use the HOV facility if the public authority establishes requirements for clearly identifying such vehicles.
+
 (c)
 
 Requirements Applicable to Tolls.—
@@ -108,7 +112,7 @@ Facility Management, Operation, Monitoring, and Enforcement.—
 
 &emsp;(1)
 
-In general.—A public authority that allows vehicles to use a HOV facility under paragraph (4) or (5) of subsection (b) shall submit to the Secretary a report demonstrating that the facility is not already degraded, and that the presence of the vehicles will not cause the facility to become degraded, and certify to theSecretary that the authority will carry out the following responsibilities with respect to the facility:
+In general.—A public authority that allows vehicles to use a HOV facility under paragraph (4) or (5) of subsection (b) shall submitto the Secretary a report demonstrating that the facility is not already degraded, and that the presence of the vehicles will not cause the facility to become degraded, and certify to the Secretary that the authority will carry out the following responsibilities with respect to the facility:
 
 &emsp;&emsp;(A) Establishing, managing, and supporting a performance monitoring, evaluation, and reporting program for the facility that provides for continuous monitoring, assessment, and reporting on the impacts that the vehicles may have on the operation of the facility and adjacent highways and submitting to the Secretary annual reports of those impacts.
 
@@ -258,7 +262,7 @@ Public transportation vehicle.—The term "public transportation vehicle" means 
 
 Consultation of MPO.—If a HOV facility charging tolls under paragraph (4) or (5) of subsection (b) is on the Interstate System and located in a metropolitan planning area established in accordance with section 134, the public authority shall consult with the metropolitan planning organization for the area concerning the placement and amount of tolls on the facility.
 
-(Added Pub. L. 109–59, title I, §1121(a), Aug. 10, 2005, 119 Stat. 1192; amended Pub. L. 110–244, title I, §101(p), June 6, 2008, 122 Stat. 1576; Pub. L. 112–141, div. A, title I, §1514, July 6, 2012, 126 Stat. 572; Pub. L. 114–94, div. A, title I, §1411(b), Dec. 4, 2015, 129 Stat. 1413.)
+(Added Pub. L. 109–59, title I, §1121(a), Aug. 10, 2005, 119 Stat. 1192; amended Pub. L. 110–244, title I, §101(p), June 6, 2008, 122 Stat. 1576; Pub. L. 112–141, div. A, title I, §1514, July 6, 2012, 126 Stat. 572; Pub. L. 114–94, div. A, title I, §1411(b), Dec. 4, 2015, 129 Stat. 1413; Pub. L. 117–58, div. A, title I, §§11525(k), 11527, Nov. 15, 2021, 135 Stat. 607, 610.)
 
 #### <b>Editorial Notes</b>
 
@@ -269,6 +273,10 @@ Section 30D(d)(1) of the Internal Revenue Code of 1986, referred to in subsec. (
 The date of enactment of this section, referred to in subsec. (e), is the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(1). Pub. L. 117–58, §11525(k), made technical amendment to style of par. heading.
+
+Subsec. (b)(6). Pub. L. 117–58, §11527, added par. (6).
 
 <b>2015</b>—Pub. L. 114–94, §1411(b)(1), substituted "the authority" for "the agency" wherever appearing.
 
@@ -331,6 +339,10 @@ Subsec. (d)(1)(D), (E). Pub. L. 112–141, §1514(3)(D), added subpars. (D) and 
 <b>2008</b>—Subsec. (b)(5)(C). Pub. L. 110–244 substituted "paragraph (4)" for "paragraph (3)".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as a note under section 101 of this title.
 
 #### Effective Date of 2015 Amendment
 

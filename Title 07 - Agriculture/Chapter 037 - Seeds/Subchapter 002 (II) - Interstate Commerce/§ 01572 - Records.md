@@ -4,11 +4,15 @@ All persons transporting, or delivering for transportation, in interstate commer
 
 (Aug. 9, 1939, ch. 615, title II, §202, 53 Stat. 1281; Pub. L. 85–581, §9, Aug. 1, 1958, 72 Stat. 477; Pub. L. 89–686, §11, Oct. 15, 1966, 80 Stat. 978.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1966</b>—Pub. L. 89–686 required record of treatment of agricultural and vegetable seeds.
 
 <b>1958</b>—Pub. L. 85–581 required keeping of records of vegetable seeds.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

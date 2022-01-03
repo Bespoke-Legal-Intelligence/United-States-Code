@@ -6,6 +6,8 @@
 
 (Aug. 16, 1941, ch. 357, §3, 55 Stat. 623; 1946 Reorg. Plan No. 2, §3, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; 1950 Reorg. Plan No. 19, §1, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1271; Pub. L. 98–426, §27(d)(2), Sept. 28, 1984, 98 Stat. 1654.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Longshore and Harbor Workers' Compensation Act, referred to in text, is act Mar. 4, 1927, ch. 509, 44 Stat. 1424, as amended, which is classified generally to chapter 18 (§901 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see section 901 of Title 33 and Tables.
@@ -14,13 +16,17 @@ The Longshore and Harbor Workers' Compensation Act, referred to in text, is act 
 
 <b>1984</b>—Subsecs. (a), (b). Pub. L. 98–426 substituted "Longshore and Harbor Workers' Compensation Act" for "Longshoremen's and Harbor Workers' Compensation Act".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–426 effective Sept. 28, 1984, see section 28(e)(1) of Pub. L. 98–426, set out as a note under section 901 of Title 33, Navigation and Navigable Waters.
 
+#### <b>Executive Documents</b>
+
 #### Transfer of Functions
 
-"Secretary of Labor" and "Secretary" substituted for "Federal Security Administrator" and "Administrator", respectively, in subsec. (a), pursuant to Reorg. Plan No. 19 of 1950, §1, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1271, which transferred functions of Federal Security Administrator to Secretary of Labor.
+"Secretary of Labor" and "Secretary" substituted for "Federal Security Administrator" and "Administrator", respectively, in subsec. (a), pursuant to Reorg.Plan No. 19 of 1950, §1, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1271, which transferred functions of Federal Security Administrator to Secretary of Labor.
 
 Previously, "Federal Security Administrator" and "Administrator" substituted for "United States Employees' Compensation Commission" and "Commission" pursuant to Reorg. Plan No. 2 of 1946, §3, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095, which abolished United States Employees' Compensation Commission and transferred its functions to Federal Security Administrator.
 

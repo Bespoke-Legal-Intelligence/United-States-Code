@@ -52,7 +52,7 @@ The Center for Quality Improvement and Patient Safety of the Agency for Healthca
 
 #### (1) In general
 
-&emsp;The Center shall support, such as through a contract or other mechanism, research on health care delivery system improvement and the development of tools to facilitate adoption of best practices that improve the quality, safety, and efficiency of health care deliveryservices. Such support may include establishing a Quality Improvement Network Research Program for the purpose of testing, scaling, and disseminating of interventions to improve quality and efficiency in health care. Recipients of funding under the Program may include national, State, multi-State, or multi-site quality improvement networks.
+&emsp;The Center shall support, such as through a contract or other mechanism, research on health care delivery system improvement and the development of tools to facilitate adoption of best practices that improve the quality, safety, and efficiency of health care delivery services. Such support may include establishing a Quality Improvement Network Research Program for the purpose of testing, scaling, and disseminating of interventions to improve quality and efficiency in health care. Recipients of funding under the Program may include national, State, multi-State, or multi-site quality improvement networks.
 
 #### (2) Research requirements
 
@@ -123,6 +123,8 @@ The Center shall coordinate its activities with activities conducted by the Cent
 There is authorized to be appropriated to carry out this section $20,000,000 for fiscal years 2010 through 2014.
 
 (July 1, 1944, ch. 373, title IX, §933, as added Pub. L. 111–148, title III, §3501, Mar. 23, 2010, 124 Stat. 508.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

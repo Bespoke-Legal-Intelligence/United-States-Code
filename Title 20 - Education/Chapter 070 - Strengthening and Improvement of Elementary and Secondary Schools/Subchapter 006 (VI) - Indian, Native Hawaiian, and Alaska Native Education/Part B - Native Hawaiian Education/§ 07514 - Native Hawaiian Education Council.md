@@ -36,7 +36,7 @@ In order to better effectuate the purposes of this part through the coordination
 
 &emsp;&emsp;(K) 1 shall be the Mayor of the County of Kauai (or a designee);
 
-&emsp;&emsp;(L) 1 shall be appointed by the Secretary, in a timely manner, and chosen from a listof 5 individuals who are from the Island of Molokai or the Island of Lanai that is submitted to the Secretary by the Mayor of Maui County;
+&emsp;&emsp;(L) 1 shall be appointed by the Secretary, in a timely manner, and chosen from a list of 5 individuals who are from the Island of Molokai or the Island of Lanai that is submitted to the Secretary by the Mayor of Maui County;
 
 &emsp;&emsp;(M) 1 shall be the Mayor of the City and County of Honolulu (or a designee);
 
@@ -146,6 +146,8 @@ For each fiscal year, the Secretary shall use the amount described in section 75
 
 (Pub. L. 89–10, title VI, §6204, formerly title VII, §7204, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1937; renumbered title VI, §6204, and amended Pub. L. 114–95, title VI, §§6001(a), (b)(1), 6003(b), Dec. 10, 2015, 129 Stat. 2046, 2063.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 7514, Pub. L. 89–10, title VII, §7204, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3738, related to applications for grants, prior to the general amendment of former subchapter VII of this chapter by Pub. L. 107–110.
@@ -153,6 +155,8 @@ A prior section 7514, Pub. L. 89–10, title VII, §7204, as added Pub. L. 103�
 #### Amendments
 
 <b>2015</b>—Pub. L. 114–95, §6003(b), amended section generally. Prior to amendment, section related to establishment of Native Hawaiian Education Council and individual island councils.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

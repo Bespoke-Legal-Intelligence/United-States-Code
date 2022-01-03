@@ -20,9 +20,11 @@ In addition to any other action taken by a State or local government, when the P
 
 #### (c) Guidelines for using imminent hazard, enforcement, and emergency response authorities; promulgation by Administrator of EPA, scope, etc.
 
-Within one hundred and eighty days after December 11, 1980, the Administrator of the Environmental Protection Agency shall, after consultation with the Attorney General, establish and publish guidelines for using the imminent hazard, enforcement, and emergency response authorities of this section and other existing statutes administered by the Administrator of the Environmental Protection Agency to effectuate the responsibilities and powers created by this chapter. Such guidelines shall to the extent practicable be consistent with the national hazardous substance response plan, and shall include, at a minimum, the assignment of responsibility for coordinating response actions with the issuance of administrative orders, enforcement of standards and permits, the gathering of information, and other imminent hazard and emergency powers authorized by (1) sections 1321(c)(2),<sup>1</sup> 1318, 1319, and 1364(a) of title 33, (2) sections 6927, 6928, 6934, and 6973 of this title, (3) sections 300j–4 and 300i of this title, (4) sections 7413, 7414, and 7603 of this title, and (5) section 2606 of title 15.
+Within one hundred and eighty days after December 11, 1980, the Administrator of the Environmental Protection Agency shall, after consultation with the Attorney General, establish and publish guidelines for using the imminent hazard, enforcement, and emergency response authorities of this section and other existing statutes administered by the Administrator of the Environmental Protection Agency to effectuate the responsibilities and powers created by this chapter. Such guidelines shall to the extent practicable be consistent with the national hazardous substance response plan, and shall include, at a minimum, the assignment of responsibility for coordinating response actions with the issuance of administrative orders, enforcement of standards and permits, the gathering ofinformation, and other imminent hazard and emergency powers authorized by (1) sections 1321(c)(2),<sup>1</sup> 1318, 1319, and 1364(a) of title 33, (2) sections 6927, 6928, 6934, and 6973 of this title, (3) sections 300j–4 and 300i of this title, (4) sections 7413, 7414, and 7603 of this title, and (5) section 2606 of title 15.
 
 (Pub. L. 96–510, title I, §106, Dec. 11, 1980, 94 Stat. 2780; Pub. L. 99–499, title I, §§106, 109(b), Oct. 17, 1986, 100 Stat. 1628, 1633; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -35,6 +37,8 @@ Section 1321(c)(2) of title 33, referred to in subsec. (c), was amended generall
 <b>1986</b>—Subsec. (b). Pub. L. 99–499 designated existing provisions as par. (1), substituted "who, without sufficient cause, willfully" for "who willfully" and "$25,000" for "$5,000", and added par. (2).
 
 Subsec. (b)(2)(A). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Coordination of Titles I to IV of Pub. L. 99–499
 

@@ -20,9 +20,13 @@ R.S. 1433.
 
 The words "the senior officer present afloat" are substituted for the words "The commanding officer of any fleet, squadron, or vessel acting singly". At the time of enactment of the Revised Statutes, the word "squadron" meant any number of vessels more than one. Today the concept of "senior officer present afloat" covers as nearly as possible the current equivalent of the original statute.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 5948 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

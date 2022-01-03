@@ -1,6 +1,6 @@
 ### §8308. Memorandum
 
-(a)(1) The Commodity Futures Trading Commission and the Federal Energy Regulatory Commission shall, not later than 180 days afterJuly 21, 2010, negotiate a memorandum of understanding to establish procedures for—
+(a)(1) The Commodity Futures Trading Commission and the Federal Energy Regulatory Commission shall, not later than 180 days after July 21, 2010, negotiate a memorandum of understanding to establish procedures for—
 
 &emsp;(A) applying their respective authorities in a manner so as to ensure effective and efficient regulation in the public interest;
 

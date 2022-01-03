@@ -110,7 +110,7 @@ In this section:
 
 #### (E) Frequency of requests
 
-&emsp;&emsp;An authorized employer may request a criminal history record information search for an employee only once every 12 months of continuous employment by that employee unless the authorized employer has good cause to submit additional requests.
+&emsp;&emsp;An authorized employer may request a criminal history record information searchfor an employee only once every 12 months of continuous employment by that employee unless the authorized employer has good cause to submit additional requests.
 
 #### (2) Regulations
 

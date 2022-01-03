@@ -104,7 +104,7 @@ Heads of Agencies
 
 (c) Designate an agency official with sufficient authority to represent the interest and support of the agency head to be responsible for the management and administration of the agency occupational safety and health program.
 
-(d) Comply with all standards issued under section 6 of the Act \[29 U.S.C. 655\], except where the Secretary approves compliance with alternative standards. When an agency head determines it necessary to apply a different standard, that agency head shall, after consultation with appropriate occupational safety and health committees where established, notify the Secretary and provide justification that equivalent or greater protection will be assured by the alternate standard.
+(d) Comply with all standards issued under section 6 of the Act \[29 U.S.C. 655\], except where the Secretary approves compliance with alternative standards. Whenan agency head determines it necessary to apply a different standard, that agency head shall, after consultation with appropriate occupational safety and health committees where established, notify the Secretary and provide justification that equivalent or greater protection will be assured by the alternate standard.
 
 (e) Assure prompt abatement of unsafe or unhealthy working conditions. Whenever an agency cannot promptly abate such conditions, it shall develop an abatement plan setting forth a timetable for abatement and a summary of interim steps to protect employees. Employees exposed to the conditions shall be informed of the provisions of the plan. When a hazard cannot be abated without assistance of the General Services Administration or other Federal lessor agency, an agency shall act with the lessor agency to secure abatement.
 
@@ -210,9 +210,11 @@ Ex. Ord. No. 12566, Sept. 26, 1986, 51 F.R. 34575, which related to safety belt 
 
 #### Extension of Term of Federal Advisory Council on Occupational Safety and Health
 
-Term of Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Term of Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 
 Previous extensions of term of Federal Advisory Council on Occupational Safety and Health were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30, 2017.
 
 Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, extended term until Sept. 30, 2015.
 

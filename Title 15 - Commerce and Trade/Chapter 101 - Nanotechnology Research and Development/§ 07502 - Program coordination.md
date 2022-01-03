@@ -6,7 +6,7 @@ The President shall establish a National Nanotechnology Coordination Office, wit
 
 &emsp;(1) provide technical and administrative support to the Council and the Advisory Panel;
 
-&emsp;(2) serve as the point of contact on Federal nanotechnology activities for government organizations, academia, industry, professionalsocieties, State nanotechnology programs, interested citizen groups, and others to exchange technical and programmatic information;
+&emsp;(2) serve as the point of contact on Federal nanotechnology activities for government organizations, academia, industry, professional societies, State nanotechnology programs, interested citizen groups, and others to exchange technical and programmatic information;
 
 &emsp;(3) conduct public outreach, including dissemination of findings and recommendations of the Advisory Panel, as appropriate; and
 
@@ -28,9 +28,13 @@ Within 90 days after December 3, 2003, the Director of the Office of Science and
 
 (Pub. L. 108–153, §3, Dec. 3, 2003, 117 Stat. 1926.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 631 of Public Law 108–7, referred to in subsec. (b), is section 631 of Pub. L. 108–7, div. J, title VI, Feb. 20, 2003, 117 Stat. 471, which is not classified to the Code.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

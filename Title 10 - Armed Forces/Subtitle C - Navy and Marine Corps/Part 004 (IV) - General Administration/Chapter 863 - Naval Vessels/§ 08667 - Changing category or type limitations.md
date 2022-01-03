@@ -18,9 +18,13 @@ Historical and Revision Notes
 
 June 12, 1948, ch. 452, §2, 62 Stat. 382.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7297 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

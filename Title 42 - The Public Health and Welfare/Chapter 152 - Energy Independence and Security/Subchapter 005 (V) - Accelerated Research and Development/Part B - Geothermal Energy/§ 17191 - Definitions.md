@@ -56,11 +56,15 @@ For purposes of this part:
 
 (Pub. L. 110–140, title VI, §612, Dec. 19, 2007, 121 Stat. 1679; Pub. L. 116–260, div. Z, title III, §3002(a), Dec. 27, 2020, 134 Stat. 2487.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2020</b>—Par. (1). Pub. L. 116–260, §3002(a), amended par. (1) generally. Prior to amendment, par. (1) defined the term "engineered".
 
 Pars. (2) to (8). Pub. L. 116–260, §3002(a)(2), (3), added par. (2) and redesignated former pars. (2) to (7) as (3) to (8), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

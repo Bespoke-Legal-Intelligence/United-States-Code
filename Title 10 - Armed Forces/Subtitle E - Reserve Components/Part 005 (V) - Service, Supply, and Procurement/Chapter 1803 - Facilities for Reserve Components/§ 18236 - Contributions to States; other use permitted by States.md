@@ -1,6 +1,6 @@
 ### §18236. Contributions to States; other use permitted by States
 
-(a) Contributions under section 18233 of this title are subject to such terms as the Secretary of Defense, after consulting the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, considers necessary for the purposes of this chapter. Except as otherwiseagreed when the contribution is made, a facility provided by a contribution under paragraph (3) or (4) of section 18233(a) of this title may be used jointly by units of two or more reserve components of the armed forces only to the extent that the State considers practicable.
+(a) Contributions under section 18233 of this title are subject to such terms as the Secretary of Defense, after consulting the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, considers necessary for the purposes of this chapter. Except as otherwise agreed when the contribution is made, a facility provided by a contribution under paragraph (3) or (4) of section 18233(a) of this title may be used jointly by units of two or more reserve components of the armed forces only to the extent that the State considers practicable.
 
 (b) A contribution made for an armory or readiness center under paragraph (4) or (5) of section 18233(a) of this title may not exceed the sum of—
 
@@ -86,6 +86,8 @@ Aug. 9, 1955, ch. 662, §1(e), 69 Stat. 593.
 
 In subsection (a), the words "may be used jointly" are substituted for the words "shall be subject to joint utilization". The words "and conditions" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Subsec. (b). Pub. L. 106–398 inserted "or readiness center" after "armory" in introductory provisions.
@@ -119,6 +121,8 @@ Subsecs. (c), (d). Pub. L. 97–214, §3(d)(2), struck out "or Territory, Puerto
 <b>1958</b>—Subsec. (a). Pub. L. 85–861 permitted joint use of facilities provided by contributions under section 2233(a)(4) of this title.
 
 Subsec. (b). Pub. L. 85–861 substituted "A contribution made for an armory under section 2233(a)(4) of this title may not be more than 75 percent of the cost of the construction to which it is applied" for "No contribution made for a facility under section 2233(a)(3) of this title may be more than 75 percent of the cost of the construction to which it is to be applied".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Requirements
 
-In order to receive formula grants under this part, a State shall submit a plan for carrying out its purposes applicable to a 3-year period. Such plan shall be amended annually to include new programs, projects, and activities. The State shall submit annual performance reports to the Administrator which shall describe progress in implementing programs contained in the original plan, and shall describe how the State plan is supported by or takes account of scientific knowledge regarding adolescent development and behavior and regarding the effects of delinquency prevention programs and juvenile justice interventions on adolescents. Not later than 60 days after the date on which a plan or amended plan submitted under this subsection is finalized, a State shall make the plan or amended plan publicly available by posting the plan or amended plan on the State's publicly available website. In accordance with regulations which the Administrator shall prescribe, such plan shall—
+In order to receive formula grants under this part, a State shall submit a plan for carrying out its purposes applicable to a 3-year period. Such plan shall be amended annually to include new programs, projects, and activities. The State shall submit annual performance reportsto the Administrator which shall describe progress in implementing programs contained in the original plan, and shall describe how the State plan is supported by or takes account of scientific knowledge regarding adolescent development and behavior and regarding the effects of delinquency prevention programs and juvenile justice interventions on adolescents. Not later than 60 days after the date on which a plan or amended plan submitted under this subsection is finalized, a State shall make the plan or amended plan publicly available by posting the plan or amended plan on the State's publicly available website. In accordance with regulations which the Administrator shall prescribe, such plan shall—
 
 &emsp;(1) designate the State agency as designated by the chief executive officer of the State as the sole agency for supervising the preparation and administration of the plan;
 
@@ -60,7 +60,7 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;&emsp;&emsp;(ii) review progress and accomplishments of projects funded under the State plan;
 
-&emsp;(4) provide for the active consultation with and participation of units of local government or combinations thereof in the development of a State plan which adequately takes into account the needs and requests of units of local government, except that nothing in the plan requirements, or any regulations promulgated to carry out such requirements, shall be construed to prohibit or impede the State from making grants to, or entering into contracts with, local private agencies or the advisory group;
+&emsp;(4) provide for the active consultation with and participation of units of local governmentor combinations thereof in the development of a State plan which adequately takes into account the needs and requests of units of local government, except that nothing in the plan requirements, or any regulations promulgated to carry out such requirements, shall be construed to prohibit or impede the State from making grants to, or entering into contracts with, local private agencies or the advisory group;
 
 &emsp;(5) unless the provisions of this paragraph are waived at the discretion of the Administrator for any State in which the services for delinquent or other youth are organized primarily on a statewide basis, provide that at least 662/3 per centum of funds received by the State under section 11132 of this title reduced by the percentage (if any) specified by the State under the authority of paragraph (25) and excluding funds made available to the State advisory group under section 11132(d) of this title, shall be expended—
 
@@ -104,7 +104,7 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;(8) provide for the coordination and maximum utilization of evidence-based and promising juvenile delinquency programs, programs operated by public and private agencies and organizations, and other related programs (such as education, special education, recreation, health, and welfare programs) in the State;
 
-&emsp;(9) provide that not less than 75 percent of the funds available to the State under section 11132 of this title, other than funds made available to the State advisory group under section 11132(d) of this title, whether expended directly by the State, by the unit of local government, or by a combination thereof, or through grants and contracts with public or private nonprofit agencies, shall be used for, with priority in funding given to entities meeting the criteria for evidence-based or promising programs—
+&emsp;(9) provide that not less than 75 percent of the funds available to the State under section11132 of this title, other than funds made available to the State advisory group under section 11132(d) of this title, whether expended directly by the State, by the unit of local government, or by a combination thereof, or through grants and contracts with public or private nonprofit agencies, shall be used for, with priority in funding given to entities meeting the criteria for evidence-based or promising programs—
 
 &emsp;&emsp;(A) community-based alternatives (including home-based alternatives) to incarceration and institutionalization including—
 
@@ -282,7 +282,7 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;&emsp;&emsp;(ii) that—
 
-&emsp;&emsp;&emsp;&emsp;(I) is located outside a metropolitan statistical area (as defined by the Officeof Management and Budget) and has no existing acceptable alternative placement available;
+&emsp;&emsp;&emsp;&emsp;(I) is located outside a metropolitan statistical area (as defined by the Office of Management and Budget) and has no existing acceptable alternative placement available;
 
 &emsp;&emsp;&emsp;&emsp;(II) is located where conditions of distance to be traveled or the lack of highway, road, or transportation do not allow for court appearances within 48 hours (excluding Saturdays, Sundays, and legal holidays) so that a brief (not to exceed an additional 48 hours) delay is excusable; or
 
@@ -296,7 +296,7 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;&emsp;(B) identifying and analyzing data on race and ethnicity at decision points in State, local, or tribal juvenile justice systems to determine which such points create racial and ethnic disparities among youth who come into contact with the juvenile justice system; and
 
-&emsp;&emsp;(C) developing and implementing a work plan that includes measurable objectives for policy, practice, or other system changes, based on the needs identified in the data collection and analysis under subparagraph (B);
+&emsp;&emsp;(C) developing and implementing a work plan that includes measurable objectives forpolicy, practice, or other system changes, based on the needs identified in the data collection and analysis under subparagraph (B);
 
 &emsp;(16) provide assurance that youth in the juvenile justice system are treated equitably on the basis of gender, race, ethnicity, family income, and disability;
 
@@ -490,7 +490,7 @@ Notwithstanding any other provision of law, the Administrator shall establish ap
 
 &emsp;&emsp;(B) otherwise fail to make the compliance determinations required under paragraph (1).
 
-(Pub. L. 93–415, title II, §223, Sept. 7, 1974, 88 Stat. 1119; Pub. L. 94–503, title I, §130(b), Oct. 15, 1976, 90 Stat. 2425; Pub. L. 95–115, §§3(a)(3)(B), 4(c), Oct. 3, 1977, 91 Stat. 1048, 1051; Pub. L. 96–509, §§11, 19(g), Dec. 8, 1980, 94 Stat. 2755, 2764; Pub. L. 98–473, title II, §626, Oct. 12, 1984, 98 Stat. 2111; Pub. L. 100–690, title VII, §§7258, 7263(b)(1), Nov. 18, 1988, 102 Stat. 4439, 4447; Pub. L. 102–586, §2(f)(3)(A), Nov. 4, 1992, 106 Stat. 4987; Pub. L. 103–322, title XI, §110201(d), Sept. 13, 1994, 108 Stat. 2012; Pub. L. 104–294, title VI, §604(b)(28), Oct. 11, 1996, 110 Stat. 3508; Pub. L. 105–277, div. A, §101(b) \[title I, §129(a)(2)(C)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–76; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §142\], Dec. 21, 2000, 114 Stat. 2763, 2763A–235; Pub. L. 107–273, div. C, title II, §12209, Nov. 2, 2002, 116 Stat. 1873; Pub. L. 109–162, title III, §305, Jan. 5, 2006, 119 Stat. 3016; Pub. L. 115–385, title II, §205, Dec. 21, 2018, 132 Stat. 5131.)
+(Pub. L. 93–415, title II, §223, Sept. 7, 1974, 88 Stat. 1119; Pub. L. 94–503, title I, §130(b), Oct. 15, 1976, 90 Stat. 2425; Pub. L. 95–115, §§3(a)(3)(B), 4(c), Oct. 3, 1977, 91 Stat. 1048, 1051; Pub. L. 96–509, §§11, 19(g), Dec. 8, 1980, 94 Stat. 2755, 2764; Pub. L. 98–473, title II, §626, Oct. 12, 1984, 98 Stat. 2111; Pub. L. 100–690, title VII, §§7258, 7263(b)(1), Nov. 18, 1988, 102 Stat. 4439, 4447; Pub. L. 102–586, §2(f)(3)(A), Nov. 4, 1992, 106 Stat. 4987; Pub. L. 103–322, title XI, §110201(d), Sept. 13, 1994, 108 Stat. 2012; Pub. L. 104–294, title VI, §604(b)(28), Oct. 11, 1996, 110 Stat. 3508; Pub. L. 105–277, div.A, §101(b) \[title I, §129(a)(2)(C)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–76; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §142\], Dec. 21, 2000, 114 Stat. 2763, 2763A–235; Pub. L. 107–273, div. C, title II, §12209, Nov. 2, 2002, 116 Stat. 1873; Pub. L. 109–162, title III, §305, Jan. 5, 2006, 119 Stat. 3016; Pub. L. 115–385, title II, §205, Dec. 21, 2018, 132 Stat. 5131.)
 
 #### <b>Editorial Notes</b>
 
@@ -748,7 +748,7 @@ Subsec. (a)(17), (18). Pub. L. 107–273, §12209(1)(S), redesignated pars. (18)
 
 Subsec. (a)(19). Pub. L. 107–273, §12209(1)(S), redesignated par. (20) as (19). Former par. (19) redesignated (18).
 
-Pub. L. 107–273, §12209(1)(N), amended par. (19) generally. Prior to amendment, par. (19) read as follows:"provide that fair and equitable arrangements shall be made to protect the interests of employees affected by assistance under this chapter and shall provide for the terms and conditions of such protective arrangements established pursuant to this section, and such protective arrangements shall, to the maximum extent feasible, include, without being limited to, such provisions as may be necessary for—
+Pub. L. 107–273, §12209(1)(N), amended par. (19) generally. Prior to amendment, par. (19) read as follows: "provide that fair and equitable arrangements shall be made to protect the interests of employees affected by assistance under this chapter and shall provide for the terms and conditions of such protective arrangements established pursuant to this section, and such protective arrangements shall, to the maximum extent feasible, include, without being limited to, such provisions as may be necessary for—
 
 &emsp;"(A) the preservation of rights, privileges, and benefits (including continuation of pension rights and benefits) under existing collective-bargaining agreements or otherwise;
 
@@ -888,7 +888,7 @@ Subsec. (a)(9). Pub. L. 98–473, §626(a)(4), inserted "special education,".
 
 Subsec. (a)(10). Pub. L. 98–473, §626(a)(5)(A), in provisions preceding subpar. (A), substituted "programs for juveniles, including those processed in the criminal justice system," for "programs for juveniles" and "provide for effective rehabilitation, and facilitate the coordination of services between the juvenile justice and criminal justice systems" for "and provide for effective rehabilitation".
 
-Subsec. (a)(10)(E). Pub. L. 98–473, §626(a)(5)(B), inserted ", including programs to counsel delinquentyouth and other youth regarding the opportunities which education provides".
+Subsec. (a)(10)(E). Pub. L. 98–473, §626(a)(5)(B), inserted ", including programs to counsel delinquent youth and other youth regarding the opportunities which education provides".
 
 Subsec. (a)(10)(F). Pub. L. 98–473, §626(a)(5)(C), inserted "and their families".
 
@@ -924,7 +924,7 @@ Subsec. (c). Pub. L. 98–473, §626(c), substituted "3" for "2" before "additio
 
 Subsec. (d). Pub. L. 98–473, §626(d), made a conforming amendment to the reference to sections 3783, 3784, and 3785 of this title to reflect the renumbering of the corresponding sections of the original act.
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–509, §11(a)(1), in provisions preceding par. (1), provided for 3-year, rather than annual, plans and annually submitted performance reports which describe the progress in implementing programs contained in the original plan and the status of compliance with State plan requirements.
+<b>1980</b>—Subsec. (a). Pub. L. 96–509, §11(a)(1), in provisions preceding par. (1), provided for 3-year, rather thanannual, plans and annually submitted performance reports which describe the progress in implementing programs contained in the original plan and the status of compliance with State plan requirements.
 
 Pub. L. 96–509, §§11(a)(15)(B), 19(g)(11), in provisions following par. (22), substituted reference to section 3743 of this title for reference to section 3733(a) of this title and inserted provision that plans be modified by States as soon as possible after Dec. 8, 1980, in order to comply with the requirements of par. (14).
 

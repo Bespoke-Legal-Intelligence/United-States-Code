@@ -2,7 +2,7 @@
 
 #### (a) Evidence rating systems
 
-In collaboration with experts from the public and private sector, the Agency shall identify and disseminate methods or systems to assess health care research results, particularly methods or systems to rate the strength of the scientific evidence underlying health care practice, recommendations in the research literature, and technology assessments. The Agency shall make methods or systems for evidence rating widely available. Agency publications containing health care recommendations shall indicate the level of substantiating evidence using such methods or systems.
+In collaboration with experts from the public and private sector, the Agency shall identifyand disseminate methods or systems to assess health care research results, particularly methods or systems to rate the strength of the scientific evidence underlying health care practice, recommendations in the research literature, and technology assessments. The Agency shall make methods or systems for evidence rating widely available. Agency publications containing health care recommendations shall indicate the level of substantiating evidence using such methods or systems.
 
 #### (b) Health care improvement research centers and provider-based research networks
 
@@ -21,6 +21,8 @@ In collaboration with experts from the public and private sector, the Agency sha
 &emsp;The Director is authorized to establish the requirements for entities applying for grants under this subsection.
 
 (July 1, 1944, ch. 373, title IX, §911, as added Pub. L. 106–129, §2(a), Dec. 6, 1999, 113 Stat. 1656.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

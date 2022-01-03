@@ -20,6 +20,8 @@ Within one year after November 14, 1988, and at five-year intervals thereafter, 
 
 (Pub. L. 96–366, §13, as added Pub. L. 100–653, title VIII, §802, Nov. 14, 1988, 102 Stat. 3833; amended Pub. L. 101–233, §16(b), Dec. 13, 1989, 103 Stat. 1977.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Migratory Bird Treaty Act, referred to in subsec. (a), is act July 3, 1918, ch. 128, 40 Stat. 755, as amended, which is classified generally to subchapter II (§703 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 710 of this title and Tables.
@@ -30,13 +32,15 @@ The Endangered Species Act of 1973, referred to in subsec. (a)(3), (4), is Pub. 
 
 #### Codification
 
-November 14, 1988, referred to in subsec. (b), was in the original "the date of enactment of this Act" whichwas translated as meaning the date of enactment of Pub. L. 100–653, which enacted this section, to reflect the probable intent of Congress.
+November 14, 1988, referred to in subsec. (b), was in the original "the date of enactment of this Act" which was translated as meaning the date of enactment of Pub. L. 100–653, which enacted this section, to reflect the probable intent of Congress.
 
 #### Amendments
 
 <b>1989</b>—Subsec. (a)(5). Pub. L. 101–233 added par. (5).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One HundredFourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

@@ -70,7 +70,7 @@ Subsec. (d). Pub. L. 116–283, §8505(a)(1), substituted "individuals" for "per
 
 <b>2014</b>—Subsec. (b)(4), (5). Pub. L. 113–281, §203(1), added pars. (4) and (5).
 
-Subsec. (c). Pub. L. 113–281, §203(2), substituted "marine safety engineer, waterways operations manager, orport and facility safety and security specialist" for "or marine safety engineer".
+Subsec. (c). Pub. L. 113–281, §203(2), substituted "marine safety engineer, waterways operations manager, or port and facility safety and security specialist" for "or marine safety engineer".
 
 Subsec. (e). Pub. L. 113–281, §221(b)(1)(B), redesignated subsec. (f) as (e) and struck out former subsec. (e) which related to assessment of adequacy of marine safety workforce.
 

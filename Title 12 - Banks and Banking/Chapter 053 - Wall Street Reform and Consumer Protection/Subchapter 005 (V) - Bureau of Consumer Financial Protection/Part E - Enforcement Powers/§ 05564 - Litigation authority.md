@@ -34,7 +34,7 @@ The Bureau may compromise or settle any action if such compromise is approved by
 
 #### (e) Appearance before the Supreme Court
 
-The Bureau may represent itself in its own name before the Supreme Court of the United States, provided that the Bureau makes a written request to the Attorney General within the 10-day period which begins on the date of entry of the judgment which would permit any party to file a petition for writ of certiorari, and the Attorney General concurs with such request or fails to take action within 60 days of the request of the Bureau.
+The Bureau may represent itself in its own name before the Supreme Court of the United States, provided that the Bureau makes a written request to the Attorney General within the 10-day period which begins on the date of entry of the judgment which would permit any party to file a petition for writ of certiorari, and the Attorney General concurs with such request orfails to take action within 60 days of the request of the Bureau.
 
 #### (f) Forum
 
@@ -58,7 +58,7 @@ Any civil action brought under this title <sup>1</sup> may be brought in a Unit
 
 #### (C) Transferred authority
 
-&emsp;&emsp;In any action arising solely under laws for which authorities were transferred undersubtitles F and H, the Bureau may commence, defend, or intervene in the action in accordance with the requirements of that provision of law, as applicable.
+&emsp;&emsp;In any action arising solely under laws for which authorities were transferred under subtitles F and H, the Bureau may commence, defend, or intervene in the action in accordance with the requirements of that provision of law, as applicable.
 
 (Pub. L. 111–203, title X, §1054, July 21, 2010, 124 Stat. 2028.)
 

@@ -10,6 +10,8 @@ All lands in Tehipite Valley within the Sierra National Forest lying north of a 
 
 (Pub. L. 89–111, Aug. 6, 1965, 79 Stat. 446.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was not enacted as part of act Mar. 4, 1940, ch. 40, 54 Stat. 41, which comprises this subchapter.

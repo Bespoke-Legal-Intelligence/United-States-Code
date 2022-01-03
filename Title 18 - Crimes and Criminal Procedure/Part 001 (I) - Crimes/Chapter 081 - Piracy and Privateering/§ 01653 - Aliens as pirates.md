@@ -6,7 +6,7 @@ Whoever, being a citizen or subject of any foreign state, is found and taken on 
 
 #### Historical and Revision Notes
 
-Based on title 18, U.S.C., 1940 ed., §496 (Mar. 4, 1909, ch. 321, §305, 35 Stat. 1147).
+Based on title 18, U.S.C., 1940 ed., §496 (Mar. 4, 1909, ch. 321, §305, 35 Stat. 1147.)
 
 Minor change was made in phraseology.
 

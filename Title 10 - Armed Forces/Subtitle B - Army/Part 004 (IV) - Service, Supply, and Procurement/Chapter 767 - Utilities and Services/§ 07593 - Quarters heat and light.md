@@ -20,9 +20,13 @@ Mar. 2, 1907, ch. 2511 (1st proviso under "Quartermaster's Department"), 34 Stat
 
 The word "members" is substituted for the words "officers and enlisted men". The words "under such regulations as the Secretary of the Army may prescribe", are omitted, since the Secretary has inherent authority to issue regulations appropriate to exercising his statutory function.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4593 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

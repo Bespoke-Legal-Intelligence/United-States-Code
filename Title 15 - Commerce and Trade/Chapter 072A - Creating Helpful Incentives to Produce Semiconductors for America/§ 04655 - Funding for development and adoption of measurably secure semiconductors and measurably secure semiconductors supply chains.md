@@ -38,7 +38,7 @@
 
 #### (ii) Consultation
 
-&emsp;&emsp;&emsp;Before entering into an arrangement or agreement as described clause (i), the Secretary of State, in consultation with theSecretary of Commerce, shall ensure any partner government maintains export control licensing policies on semiconductor technology substantively equivalent to the United States with respect to restrictions on such exports to the People's Republic of China.
+&emsp;&emsp;&emsp;Before entering into an arrangement or agreement as described clause (i), the Secretary of State, in consultation with the Secretary of Commerce, shall ensure any partner government maintains export control licensing policies on semiconductor technology substantively equivalent to the United States with respect to restrictions on such exports to the People's Republic of China.
 
 #### (b) Common funding mechanism for development and adoption of measurably secure semiconductors and measurably secure semiconductors supply chains
 

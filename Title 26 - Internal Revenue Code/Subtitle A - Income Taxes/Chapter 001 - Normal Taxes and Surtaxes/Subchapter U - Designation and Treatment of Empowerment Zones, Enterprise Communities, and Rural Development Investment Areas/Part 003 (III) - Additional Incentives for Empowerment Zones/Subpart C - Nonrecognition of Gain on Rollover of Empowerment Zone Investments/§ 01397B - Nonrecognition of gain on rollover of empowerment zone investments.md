@@ -56,6 +56,8 @@ This section shall not apply to sales in taxable years beginning after December 
 
 (Added Pub. L. 106–554, §1(a)(7) \[title I, §116(a)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–602; amended Pub. L. 113–295, div. A, title II, §206(c), Dec. 19, 2014, 128 Stat. 4027; Pub. L. 115–141, div. U, title IV, §401(d)(4)(B)(vii), (5)(B)(iv), (v), Mar. 23, 2018, 132 Stat. 1209, 1210; Pub. L. 116–260, div. EE, title I, §118(c), Dec. 27, 2020, 134 Stat. 3051.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this paragraph, referred to in subsec. (b)(1)(A)(iii), is the date of enactment of Pub. L. 106–554, which was approved Dec. 21, 2000.
@@ -82,9 +84,11 @@ Subsec. (b)(5). Pub. L. 115–141, §401(d)(5)(B)(v), substituted "which is sold
 
 <b>2014</b>—Subsec. (b)(1)(A)(iv). Pub. L. 113–295 added cl. (iv).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2020 Amendment
 
-Amendment by Pub. L. 116–260 applicable to taxable years beginning after Dec. 31, 2020, see section 118(e) of div. EE of Pub. L. 116–260, set out as a note under section 1391 of this title.
+Amendment by Pub. L. 116–260 applicable to taxable years beginning after Dec. 31, 2020, see section 118(e) ofdiv. EE of Pub. L. 116–260, set out as a note under section 1391 of this title.
 
 #### Effective Date of 2014 Amendment
 

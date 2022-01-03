@@ -1,6 +1,6 @@
 ### §1714. Fitting and training in use of prosthetic appliances; guide dogs; service dogs
 
-(a)(1) Any veteran who is entitled to a prosthetic appliance shall be furnished such fitting and training, including institutional training, in the use of such appliance as may be necessary, whether in a Department facility or other training institution, or by outpatient treatment, including such service under contract, and including travel and incidental expenses (under the terms and conditions set forth in section 111 of this title) to and from such veteran's home to such hospital or training institution.
+(a)(1) Any veteran who is entitled to a prosthetic appliance shall be furnished such fittingand training, including institutional training, in the use of such appliance as may be necessary, whether in a Department facility or other training institution, or by outpatient treatment, including such service under contract, and including travel and incidental expenses (under the terms and conditions set forth in section 111 of this title) to and from such veteran's home to such hospital or training institution.
 
 (2) In furnishing prosthetic appliances under paragraph (1), the Secretary shall ensure women veterans are able to access clinically appropriate prosthetic appliances through each medical facility of the Department.
 
@@ -16,7 +16,19 @@
 
 (d) In the case of a veteran provided a dog under subsection (b) or (c), the Secretary may pay travel and incidental expenses for that veteran under the terms and conditions set forth in section 111 of this title to and from the veteran's home for expenses incurred in becoming adjusted to the dog.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1143, §614; Pub. L. 93–82, title I, §103(b), Aug. 2, 1973, 87 Stat. 181; Pub. L. 94–581, title II, §210(a)(5), Oct. 21, 1976, 90 Stat. 2862; Pub. L. 96–151, title II, §201(c), Dec. 20, 1979, 93 Stat. 1093; renumbered §1714 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 107–135, title II, §201(a), (b)(1), Jan. 23, 2002, 115 Stat. 2456, 2457; Pub. L. 111–117, div. E, title II, §229, Dec. 16, 2009, 123 Stat. 3307; Pub. L. 116–315, title V, §5108(a), Jan. 5, 2021, 134 Stat. 5032.)
+(e) The Secretary may provide a service dog to a veteran under subsection (c)(3) regardless of whether the veteran has a mobility impairment.
+
+(f)(1) The Secretary shall provide to any veteran described in paragraph (2) a commercially available veterinary insurance policy for each dog provided to such veteran under subsection (b) or (c).
+
+(2) A veteran described in this paragraph is a veteran who—
+
+&emsp;(A) is diagnosed with post-traumatic stress disorder or a visual, hearing, or substantial mobility impairment;
+
+&emsp;(B) has received a dog under subsection (b) or (c) in connection with such disorder or impairment; and
+
+&emsp;(C) meets such other requirements as the Secretary may prescribe.
+
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1143, §614; Pub. L. 93–82, title I, §103(b), Aug. 2, 1973, 87 Stat. 181; Pub. L. 94–581, title II, §210(a)(5), Oct. 21, 1976, 90 Stat. 2862; Pub. L. 96–151, title II, §201(c), Dec. 20, 1979, 93 Stat. 1093; renumbered §1714 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 107–135, title II, §201(a), (b)(1), Jan. 23, 2002, 115 Stat. 2456, 2457; Pub. L. 111–117, div. E, title II, §229, Dec. 16, 2009, 123 Stat. 3307; Pub. L. 116–315, title V, §5108(a), Jan. 5, 2021, 134 Stat. 5032; Pub. L. 117–37, §3(a), Aug. 25, 2021, 135 Stat. 331.)
 
 #### <b>Editorial Notes</b>
 
@@ -29,6 +41,8 @@ Provisions similar to those comprising subsec. (a) of this section were classifi
 #### Amendments
 
 <b>2021</b>—Subsec. (a). Pub. L. 116–315 designated existing provisions as par. (1) and added par. (2).
+
+Subsecs. (e), (f). Pub. L. 117–37 added subsecs. (e) and (f).
 
 <b>2009</b>—Subsec. (c)(3). Pub. L. 111–117 added par. (3).
 
@@ -56,6 +70,10 @@ Subsec. (b). Pub. L. 94–581, §210(a)(5)(B), substituted "and may pay" for "an
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2021 Amendment
+
+Pub. L. 117–37, §3(b), Aug. 25, 2021, 135 Stat. 332, provided that: "Section 1714(f) of title 38, United States Code, as added by subsection (a), shall apply with respect to a veteran provided a dog by the Secretary of Veterans Affairs on or after the date of the enactment of this Act \[Aug. 25, 2021\]."
+
 #### Effective Date of 1979 Amendment
 
 Amendment by Pub. L. 96–151 effective Jan. 1, 1980, see section 206 of Pub. L. 96–151, set out as a note under section 111 of this title.
@@ -68,9 +86,123 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 
 Section effective Sept. 1, 1973, see section 501 of Pub. L. 93–82, set out as an Effective Date of 1973 Amendment note under section 1701 of this title.
 
+#### Department of Veterans Affairs Pilot Program on Dog Training Therapy
+
+Pub. L. 117–37, §2, Aug. 25, 2021, 135 Stat. 329, provided that:
+
+"(a)
+
+In General.—Not later than 180 days after the date of the enactment of the Act \[probably means "this Act", approved Aug. 25, 2021\], the Secretary of Veterans Affairs shall commence the conduct of a pilot program to provide canine training to eligible veterans diagnosed with post-traumatic stress disorder (in this section referred to as 'PTSD') as an element of a complementary and integrative health program for such veterans.
+
+"(b)
+
+Duration; Medical Centers.—
+
+&emsp;"(1)
+
+Duration.—The Secretary shall carry out the pilot program under subsection (a) for a 5-year period beginning on the date of the commencement of the pilot program.
+
+&emsp;"(2)
+
+Medical centers.—The Secretary shall ensure that such pilot program is carried out by not fewer than five medical centers of the Department of Veterans Affairs located in geographically diverse areas.
+
+"(c)
+
+Agreements With Entities.—In carrying out the pilot program under subsection (a), the Secretary shall seek to enter into agreements with nongovernmental entities that the Secretary determines have the demonstrated ability to provide the canine training specified in subsection (a).
+
+"(d)
+
+Required Conditions.—The Secretary shall include in any agreement under subsection (c) conditions requiring that the nongovernmental entity seeking to enter into the agreement—
+
+&emsp;"(1) submits to the Secretary certification that the entity is an accredited service dog training organization;
+
+&emsp;"(2) agrees to ensure that veterans participating in the pilot program under subsection (a) receive training from certified service dog training instructors for a period of time determined appropriate by the entity;
+
+&emsp;"(3) agrees to ensure that veterans participating in such pilot program are prohibited from having access to a dog under such pilot program at any time during such participation without the supervision of a certified service dog training instructor;
+
+&emsp;"(4) agrees to ensure that veterans participating in such pilot program receive training in skills unique to the needs of the veteran to address or alleviate PTSD symptoms of the veteran;
+
+&emsp;"(5) agrees not to use shock collars or prong collars as training tools and to use positive reinforcement training; and
+
+&emsp;"(6) agrees to provide any follow-up training support specified in subsection (e)(2), as applicable.
+
+"(e)
+
+Adoption of Dog.—
+
+&emsp;"(1)
+
+In general.—A veteran who has participated in the pilot program under subsection (a) may adopt a dog that the veteran assisted in training during such pilot program if the veteran and the veteran's health provider (in consultation with the entity that provided the canine training with respect to the dog under such pilot program) determine that it is in the best interest of the veteran.
+
+&emsp;"(2)
+
+Follow-up training support.—If a veteran adopts a dog under paragraph (1), the entity that provided the canine training with respect to the dog under the pilot program shall provide follow-up training support for the life of the dog. Such support shall include the provision of a contact plan between the veteran and the entity that enables the veteran to seek and receive assistance from the entity to ensure the dog is being properly cared for.
+
+"(f)
+
+Eligibility for Other Care and Treatment.—Participation in the pilot program under subsection (a) may not preclude a veteran from receiving any other medical care or treatment for PTSD furnished by the Department, including therapy, for which the veteran is otherwise eligible.
+
+"(g)
+
+Collection of Data.—In carrying out this section, the Secretary shall—
+
+&emsp;"(1) develop metrics and other appropriate means to measure, with respect to veterans participating in the pilot program under subsection (a)—
+
+&emsp;&emsp;"(A) the number of such veterans participating;
+
+&emsp;&emsp;"(B) the satisfaction of such veterans with the pilot program;
+
+&emsp;&emsp;"(C) whether participation in the pilot program resulted in any clinically relevant improvements for such veterans, as determined by the health care provider or clinical team that referred the veteran to participate in the pilot program; and
+
+&emsp;&emsp;"(D) such other factors as the Secretary may determine appropriate; and
+
+&emsp;"(2) establish processes to document and track the progress of such veterans under the pilot program with respect to health benefits and improvements.
+
+"(h)
+
+Report by Secretary.—Not later than 1 year before the date on which the pilot program under subsection (a) terminates, the Secretary shall submit to the Committees on Veterans' Affairs of the House of Representatives and the Senate a report containing the recommendations of the Secretary regarding—
+
+&emsp;"(1) whether to extend or make permanent the pilot program; and
+
+&emsp;"(2) the feasibility and advisability of expanding the pilot program to address mental health conditions other than PTSD.
+
+"(i)
+
+GAO Briefing and Study.—
+
+&emsp;"(1)
+
+Briefing.—Not later than 1 year after the date of the commencement of the pilot program under subsection (a), the Comptroller General of the United States shall provide to the Committees on Veterans' Affairs of the House of Representatives and the Senate a briefing on the methodology established for the pilot program.
+
+&emsp;"(2)
+
+Report.—Not later than 270 days after the date on which the pilot program terminates, the Comptroller General shall submit to the committees specified in paragraph (1) a report on the pilot program. Such report shall include an evaluation of the approach and methodology used for the pilot program with respect to—
+
+&emsp;&emsp;"(A) assisting veterans with PTSD; and
+
+&emsp;&emsp;"(B) measuring relevant metrics, such as reduction in scores under the Clinician Administered PTSD Scale (CAPS), improvement in psychosocial function, and therapeutic compliance.
+
+"(j)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'accredited service dog training organization' means an organization described in section 501(c)(3) of the Internal Revenue Code of 1986 \[26 U.S.C. 501(c)(3)\] that—
+
+&emsp;&emsp;"(A) provides service dogs to veterans with PTSD; and
+
+&emsp;&emsp;"(B) is accredited by an accrediting organization with demonstrated experience, national scope, and recognized leadership and expertise in the training of service dogs and education in the use of service dogs (as determined by the Secretary).
+
+&emsp;"(2) The term 'eligible veteran' means a veteran who—
+
+&emsp;&emsp;"(A) is enrolled in the patient enrollment system in the Department of Veterans Affairs under section 1705 of title 38, United States Code; and
+
+&emsp;&emsp;"(B) has been recommended for participation in the pilot program under subsection (a) by a qualified mental health care provider or clinical team based on medical judgment that the veteran may benefit from such participation with respect to the diagnosed PTSD of the veteran.
+
+&emsp;"(3) The term 'service dog training instructor' means an instructor who provides the direct training of veterans with PTSD in the art and science of service dog training and handling."
+
 #### Provision by Department of Veterans Affairs of Prosthetic Appliances Through Non-Department Providers During Public Health Emergency
 
-Pub. L. 116–136, div. B, title X, §20007, Mar. 27, 2020, 134 Stat. 587, provided that: "The Secretary of Veterans Affairs shall ensure that, to the extent practicable, veterans who are receiving or are eligible to receive a prosthetic appliance under section 1714 or 1719 of title 38, United States Code, are able to receive such an appliance that the Secretary determines is needed from a non-Department of Veterans Affairs provider under a contract with the Department during a public health emergency."
+Pub. L. 116–136, div. B, title X, §20007, Mar. 27, 2020, 134 Stat. 587, provided that: "The Secretary of VeteransAffairs shall ensure that, to the extent practicable, veterans who are receiving or are eligible to receive a prosthetic appliance under section 1714 or 1719 of title 38, United States Code, are able to receive such an appliance that the Secretary determines is needed from a non-Department of Veterans Affairs provider under a contract with the Department during a public health emergency."
 
 \[For definition of "public health emergency" as used in section 20007 of Pub. L. 116–136, set out above, see section 20003 of Pub. L. 116–136, set out as a note under section 303 of this title.\]
 

@@ -9,6 +9,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–163, div. A, title V, §515(b)(4)(F), Jan. 6, 2006, 119 Stat. 3235, substituted "Navy Reserve" for "Naval Reserve" in item 10172.

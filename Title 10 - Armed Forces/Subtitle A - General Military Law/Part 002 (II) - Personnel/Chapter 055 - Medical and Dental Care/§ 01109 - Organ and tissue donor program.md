@@ -32,9 +32,13 @@ Responsibilities of the Surgeons General of the Military Departments.—The Surg
 
 (Added Pub. L. 105–261, div. A, title VII, §741(b)(1), Oct. 17, 1998, 112 Stat. 2073; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(8)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Subsec. (b). Pub. L. 106–398 struck out "(1)" before "The Secretaries" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Findings
 

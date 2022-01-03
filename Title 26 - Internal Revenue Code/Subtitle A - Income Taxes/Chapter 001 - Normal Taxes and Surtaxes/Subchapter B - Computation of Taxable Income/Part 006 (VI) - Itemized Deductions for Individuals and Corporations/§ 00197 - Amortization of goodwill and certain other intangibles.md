@@ -142,7 +142,7 @@ For purposes of this section, the term "section 197 intangible" shall not includ
 
 #### (6) Mortgage servicing
 
-&emsp;Any right to service indebtedness which is secured by residential real property unless such right is acquired in a transaction (or series of related transactions) involving the acquisition of assets (other than rights described in this paragraph) constituting a trade or business or substantial portion thereof.
+&emsp;Any right to service indebtedness which is secured by residential real property unlesssuch right is acquired in a transaction (or series of related transactions) involving the acquisition of assets (other than rights described in this paragraph) constituting a trade or business or substantial portion thereof.
 
 #### (7) Certain transaction costs
 
@@ -158,7 +158,7 @@ For purposes of this section, the term "section 197 intangible" shall not includ
 
 &emsp;&emsp;&emsp;(i) no loss shall be recognized by reason of such disposition (or such worthlessness), and
 
-&emsp;&emsp;&emsp;(ii) appropriate adjustments to the adjusted bases of such retained intangiblesshall be made for any loss not recognized under clause (i).
+&emsp;&emsp;&emsp;(ii) appropriate adjustments to the adjusted bases of such retained intangibles shall be made for any loss not recognized under clause (i).
 
 #### (B) Special rule for covenants not to compete
 
@@ -292,6 +292,8 @@ The Secretary shall prescribe such regulations as may be appropriate to carry ou
 
 (Added Pub. L. 103–66, title XIII, §13261(a), Aug. 10, 1993, 107 Stat. 532; amended Pub. L. 108–357, title VIII, §§847(b)(3), 886(a), Oct. 22, 2004, 118 Stat. 1602, 1641.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this section, referred to in subsecs. (c)(1)(A) and (f)(9)(A), (F), is the date of enactment of Pub. L. 103–66, which was approved Aug. 10, 1993.
@@ -302,6 +304,8 @@ The date of the enactment of this section, referred to in subsecs. (c)(1)(A) and
 
 Subsec. (f)(10). Pub. L. 108–357, §847(b)(3), added par. (10).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2004 Amendment
 
 Amendment by section 847(b)(3) of Pub. L. 108–357 applicable to leases entered into after Oct. 3, 2004, see section 849(b)(4) of Pub. L. 108–357, set out as an Effective Date note under section 470 of this title.
@@ -310,7 +314,7 @@ Pub. L. 108–357, title VIII, §886(c), Oct. 22, 2004, 118 Stat. 1641, provided
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 1245 and 1253 of this title and repealing section 1056 of this title\] shall apply to property acquired after the date of the enactment of this Act \[Oct. 22, 2004\].
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending thissection and sections 1245 and 1253 of this title and repealing section 1056 of this title\] shall apply to property acquired after the date of the enactment of this Act \[Oct. 22, 2004\].
 
 "(2)
 

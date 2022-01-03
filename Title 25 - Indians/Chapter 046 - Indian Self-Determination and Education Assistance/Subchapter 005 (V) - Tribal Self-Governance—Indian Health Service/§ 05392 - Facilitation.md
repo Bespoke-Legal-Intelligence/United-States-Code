@@ -34,7 +34,7 @@ In connection with any compact or funding agreement executed pursuant to this su
 
 &emsp;&emsp;(C) all property referred to in subparagraph (A) shall remain eligible for replacement, maintenance, and improvement on the same basis as if title to such property were vested in the United States; and
 
-&emsp;(3) shall acquire excess or surplus Government personal or real property for donation toan Indian tribe if the Secretary determines the property is appropriate for use by the Indian tribe for any purpose for which a compact or funding agreement is authorized under this subchapter.
+&emsp;(3) shall acquire excess or surplus Government personal or real property for donation to an Indian tribe if the Secretary determines the property is appropriate for use by the Indian tribe for any purpose for which a compact or funding agreement is authorized under this subchapter.
 
 #### (d) Matching or cost-participation requirement
 

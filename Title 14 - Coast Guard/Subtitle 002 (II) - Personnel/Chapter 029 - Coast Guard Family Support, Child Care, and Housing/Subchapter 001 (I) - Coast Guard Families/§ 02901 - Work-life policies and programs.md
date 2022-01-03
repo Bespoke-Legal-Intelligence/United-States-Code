@@ -2,7 +2,7 @@
 
 The Commandant is authorized—
 
-&emsp;(1) to establish an office for the purpose of developing, promulgating, and coordinatingpolicies, programs, and activities related to the families of Coast Guard members;
+&emsp;(1) to establish an office for the purpose of developing, promulgating, and coordinating policies, programs, and activities related to the families of Coast Guard members;
 
 &emsp;(2) to implement and oversee policies, programs, and activities described in paragraph (1) as the Commandant considers necessary; and
 

@@ -10,13 +10,13 @@ Subject to subsection (c), the amount determined under this subsection with resp
 
 &emsp;(1) the aggregate amount of nonelective contributions the employer made on behalf of its employees during the taxable year under the arrangement described in subsection (d)(4) for premiums for qualified health plans offered by the employer to its employees through an Exchange, or
 
-&emsp;(2) the aggregate amount of nonelective contributions which the employer would have made during the taxable year under the arrangement if each employee taken into account under paragraph (1) had enrolled in a qualified health plan which had a premium equal to the average premium (as determined by the Secretary of Health and Human Services) for the small group market in the rating area in which the employee enrolls for coverage.
+&emsp;(2) the aggregate amount of nonelective contributions which the employer would have made during the taxable year under the arrangement if each employee taken into account under paragraph (1) had enrolled in aqualified health plan which had a premium equal to the average premium (as determined by the Secretary of Health and Human Services) for the small group market in the rating area in which the employee enrolls for coverage.
 
 #### (c) Phaseout of credit amount based on number of employees and average wages
 
 The amount of the credit determined under subsection (b) without regard to this subsection shall be reduced (but not below zero) by the sum of the following amounts:
 
-&emsp;(1) Such amount multiplied by a fraction the numerator of which is the total number offull-time equivalent employees of the employer in excess of 10 and the denominator of which is 15.
+&emsp;(1) Such amount multiplied by a fraction the numerator of which is the total number of full-time equivalent employees of the employer in excess of 10 and the denominator of which is 15.
 
 &emsp;(2) Such amount multiplied by a fraction the numerator of which is the average annual wages of the employer in excess of the dollar amount in effect under subsection (d)(3)(B) and the denominator of which is such dollar amount.
 
@@ -206,9 +206,11 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Public Health Service Act, referred to in subsec. (h), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§ 201 et seq.) of Title42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (h), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 The Patient Protection and Affordable Care Act, referred to in subsec. (h), is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119. Subtitle A (§§1001 to 1004) of title I of the Act enacted sections 300gg–11 to 300gg–19, 300gg–93, and 300gg–94 of Title 42, The Public Health and Welfare, redesignated sections 300gg–4 to 300gg–7 of Title 42 as sections 300gg–25 to 300gg–28, respectively, of Title 42, and section 300gg–13 of Title 42 as section 300gg–9 of Title 42, amended former sections 300gg–11 and 300gg–12 and sections 300gg–21 to 300gg–23 of Title 42, and enacted provisions set out as a note under section 300gg–11 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 18001 of Title 42 and Tables.
 
@@ -219,6 +221,8 @@ The Patient Protection and Affordable Care Act, referred to in subsec. (h), is P
 <b>2010</b>—Subsec. (d)(3)(B). Pub. L. 111–148, §10105(e)(1), amended subpar. (B) generally, including dollar amount for taxable years beginning in 2010 in addition to dollar amounts for taxable years beginning in 2011, 2012, and 2013, and subsequent years.
 
 Subsec. (g). Pub. L. 111–148, §10105(e)(2), substituted "2010, 2011" for "2011" in heading and in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 

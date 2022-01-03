@@ -2,7 +2,7 @@
 
 #### (a) Assistance authorized
 
-Upon the request of the owner or operator of a facility that is subject to a routine inspection or a challenge inspection under the Chemical Weapons Convention, the Secretary of Defensemay provide technical assistance to that owner or operator related to compliance of that facility with the Convention. Any such assistance shall be provided through the On-Site Inspection Agency of the Department of Defense.
+Upon the request of the owner or operator of a facility that is subject to a routine inspection or a challenge inspection under the Chemical Weapons Convention, the Secretary of Defense may provide technical assistance to that owner or operator related to compliance of that facility with the Convention. Any such assistance shall be provided through the On-Site Inspection Agency of the Department of Defense.
 
 #### (b) Reimbursement requirement
 
@@ -21,6 +21,8 @@ In this section:
 &emsp;(4) The term "United States National Authority" means the United States National Authority established or designated pursuant to Article VII, paragraph 4, of the Convention.
 
 (Pub. L. 105–85, div. A, title XIII, §1303, Nov. 18, 1997, 111 Stat. 1951.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

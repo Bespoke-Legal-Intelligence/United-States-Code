@@ -16,7 +16,7 @@
 
 #### (B) Chronic care improvement organization
 
-&emsp;&emsp;The term "chronic care improvement organization" means an entity that has entered into an agreement under subsection (b) or (c) to provide, directly or through contracts with subcontractors, a chronic care improvement program under this section. Such an entity may be a disease management organization, health insurer, integrated delivery system, physician group practice, a consortium of such entities, or any other legal entity that the Secretary determines appropriate to carry out a chronic care improvement program under this section.
+&emsp;&emsp;The term "chronic care improvement organization" means an entity that has entered into an agreement under subsection (b)or (c) to provide, directly or through contracts with subcontractors, a chronic care improvement program under this section. Such an entity may be a disease management organization, health insurer, integrated delivery system, physician group practice, a consortium of such entities, or any other legal entity that the Secretary determines appropriate to carry out a chronic care improvement program under this section.
 
 #### (C) Care management plan
 
@@ -74,7 +74,7 @@
 
 #### (5) Independent evaluations of Phase I programs
 
-&emsp;The Secretary shall contract for an independent evaluation of the programs conductedunder this subsection. Such evaluation shall be done by a contractor with knowledge of chronic care management programs and demonstrated experience in the evaluation of such programs. Each evaluation shall include an assessment of the following factors of the programs:
+&emsp;The Secretary shall contract for an independent evaluation of the programs conducted under this subsection. Such evaluation shall be done by a contractor with knowledge of chronic care management programs and demonstrated experience in the evaluation of such programs. Each evaluation shall include an assessment of the following factors of the programs:
 
 &emsp;&emsp;(A) Quality improvement measures, such as adherence to evidence-based guidelines and rehospitalization rates.
 
@@ -228,9 +228,13 @@
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1807, as added Pub. L. 108–173, title VII, §721(a), Dec. 8, 2003, 117 Stat. 2341.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Parts A, B, and C, referred to in subsecs. (a)(2)(E)(i) and (b)(3)(B), (4), are classified to sections 1395c et seq., 1395j et seq., and 1395w–21 et seq., respectively, of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Demonstration Project for Consumer-Directed Chronic Outpatient Services
 
@@ -258,7 +262,7 @@ Evaluation before implementation of project.—
 
 &emsp;&emsp;"(A)
 
-In general.—In establishing the demonstration projects under this section, the Secretary shall evaluate best practices employed by group health plans and practices under State plans for medical assistance under the medicaid program under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], as well as best practices in the private sector or other areas, of methods that permit patients to self-direct the provision of personal care services. The Secretary shall evaluate such practices for a 1-year period and, based on such evaluation, shall design the demonstration project.
+In general.—In establishing the demonstration projects under this section, the Secretary shallevaluate best practices employed by group health plans and practices under State plans for medical assistance under the medicaid program under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], as well as best practices in the private sector or other areas, of methods that permit patients to self-direct the provision of personal care services. The Secretary shall evaluate such practices for a 1-year period and, based on such evaluation, shall design the demonstration project.
 
 &emsp;&emsp;"(B)
 

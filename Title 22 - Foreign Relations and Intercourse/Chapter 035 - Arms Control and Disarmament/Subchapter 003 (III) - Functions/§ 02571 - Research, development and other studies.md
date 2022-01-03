@@ -48,7 +48,7 @@ methods for the maintenance of peace and security during different stages of arm
 
 #### (l) War prevention factors
 
-the scientific, economic, political, legal, social, psychological, military, and technological factors related to the prevention of war with a view to a better understanding of how the basicstructure of a lasting peace may be established; and
+the scientific, economic, political, legal, social, psychological, military, and technological factors related to the prevention of war with a view to a better understanding of how the basic structure of a lasting peace may be established; and
 
 #### (m) Other related problems
 

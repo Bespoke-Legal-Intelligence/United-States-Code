@@ -376,6 +376,8 @@ The Secretary shall adopt standards for transferring among health plans appropri
 
 (Aug. 14, 1935, ch. 531, title XI, §1173, as added Pub. L. 104–191, title II, §262(a), Aug. 21, 1996, 110 Stat. 2024; amended Pub. L. 111–148, title I, §1104(b)(2), title X, §10109(a), Mar. 23, 2010, 124 Stat. 147, 915.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (g)(1), (2)(D), is Pub. L. 104–191, Aug. 21, 1996, 110 Stat. 1936. For complete classification of this Act to the Code, see Short Title of 1996 Amendments note set out under section 201 of this title and Tables.
@@ -384,7 +386,7 @@ The Internal Revenue Code of 1986, referred to in subsec. (j)(4)(D)(i), (ii), is
 
 #### Prior Provisions
 
-A prior section 1173 of act Aug. 14, 1935, was classified to section 1320c–22 of this title prior to the general amendment of part B of this subchapter by Pub. L. 97–248.
+A prior section 1173 of act Aug. 14, 1935, was classified to section 1320c–22 of this title prior to the generalamendment of part B of this subchapter by Pub. L. 97–248.
 
 #### Amendments
 
@@ -398,6 +400,8 @@ Subsec. (a)(5). Pub. L. 111–148, §10109(a)(1)(B), added par. (5).
 
 Subsecs. (g) to (j). Pub. L. 111–148, §1104(b)(2)(C), added subsecs. (g) to (j).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Guidance on Protected Health Information
 
 Pub. L. 116–136, div. A, title III, §3224, Mar. 27, 2020, 134 Stat. 380, provided that: "Not later than 180 days after the date of enactment of this Act \[Mar. 27, 2020\], the Secretary of Health and Human Services shall issue guidance on the sharing of patients' protected health information pursuant to section 160.103 of title 45, Code of Federal Regulations (or any successor regulations) during the public health emergency declared by the Secretary of Health and Human Services under section 319 of the Public Health Service Act (42 U.S.C. 247d) with respect to COVID–19, during the emergency involving Federal primary responsibility determined to exist by the President under section 501(b) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5191(b)) with respect to COVID–19, and during the national emergency declared by the President under the National Emergencies Act (50 U.S.C. 1601 et seq.) with respect to COVID–19. Such guidance shall include information on compliance with the regulations promulgated pursuant to section 264(c) of the Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. 1320d–2 note) and applicable policies, including such policies that may come into effect during such emergencies."
@@ -408,7 +412,7 @@ Pub. L. 115–271, title I, §1015(b), Oct. 24, 2018, 132 Stat. 3922, provided t
 
 "(1)
 
-In general.—The Secretary \[probably means the Secretary of Health and Human Services\] shall publish in the Federal Register a system of records notice for the data specified in paragraph (2) for the Transformed Medicaid Statistical Information System, in accordance with section 552a(e)(4) of title 5, United States Code. The notice shall outline policies that protect the security and privacy of the data that, at a minimum,meet the security and privacy policies of SORN 09–70–0541 for the Medicaid Statistical Information System.
+In general.—The Secretary \[probably means the Secretary of Health and Human Services\] shall publish in the Federal Register a system of records notice for the data specified in paragraph (2) for the Transformed Medicaid Statistical Information System, in accordance with section 552a(e)(4) of title 5, United States Code. The notice shall outline policies that protect the security and privacy of the data that, at a minimum, meet the security and privacy policies of SORN 09–70–0541 for the Medicaid Statistical Information System.
 
 "(2)
 
@@ -488,7 +492,7 @@ Members.—The working group shall include representatives of—
 
 &emsp;"(3)
 
-Report.—Not later than 1 year after the date on which the working group is convened under paragraph (1), the working group shall conduct a review and submit a report to the Secretary containing recommendations on whether the uses and disclosures of protected health information for research purposes should be modified to allow protected health information to be available, as appropriate, for research purposes, including studies to obtain generalizable knowledge, while protecting individuals' privacy rights. In conducting the review and making recommendations, the working group shall—
+Report.—Not later than 1 year after the date on which the working group is convened under paragraph (1), the working group shall conduct a review and submit a report to the Secretary containing recommendations on whether the uses and disclosures of protected health information for research purposesshould be modified to allow protected health information to be available, as appropriate, for research purposes, including studies to obtain generalizable knowledge, while protecting individuals' privacy rights. In conducting the review and making recommendations, the working group shall—
 
 &emsp;&emsp;"(A) address, at a minimum—
 
@@ -592,7 +596,7 @@ Pub. L. 114–255, div. B, title XI, §11004, Dec. 13, 2016, 130 Stat. 1271, pro
 
 Initial Programs and Materials.—Not later than 1 year after the date of the enactment of this Act \[Dec. 13, 2016\], the Secretary \[of Health and Human Services\], in consultation with appropriate experts, shall identify the following model programs and materials, or (in the case that no such programs or materials exist) recognize private or public entities to develop and disseminate each of the following:
 
-&emsp;"(1) Model programs and materials for training health care providers (including physicians, emergency medical personnel, psychiatrists, including child and adolescent psychiatrists, psychologists, counselors, therapists, nurse practitioners, physician assistants, behavioral health facilities and clinics, care managers, and hospitals, including individuals such as general counsels or regulatory compliance staff who are responsible for establishing provider privacy policies) regarding the permitted uses and disclosures, consistent with the standards governing the privacy and security of individually identifiable health information promulgated by the Secretary under part C of title XI of the Social Security Act (42 U.S.C. 1320d et seq.) and regulations promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996 \[Pub. L. 104–191\] (42 U.S.C. 1320d–2 note) and such part C, of the protected health information of patients seeking or undergoing mental or substance use disorder treatment.
+&emsp;"(1) Model programs and materials for training health care providers (including physicians, emergency medical personnel, psychiatrists, including child and adolescent psychiatrists, psychologists, counselors, therapists, nurse practitioners, physician assistants, behavioral health facilities and clinics, care managers, and hospitals, including individuals such as general counsels or regulatory compliance staff who are responsible for establishing provider privacy policies) regarding the permitted uses and disclosures, consistent with the standards governingthe privacy and security of individually identifiable health information promulgated by the Secretary under part C of title XI of the Social Security Act (42 U.S.C. 1320d et seq.) and regulations promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996 \[Pub. L. 104–191\] (42 U.S.C. 1320d–2 note) and such part C, of the protected health information of patients seeking or undergoing mental or substance use disorder treatment.
 
 &emsp;"(2) A model program and materials for training patients and their families regarding their rights to protect and obtain information under the standards and regulations specified in paragraph (1).
 
@@ -718,6 +722,8 @@ Consultation.—In carrying out this section, the Secretary of Health and Human 
 
 &emsp;"(2) the Attorney General."
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 13181. To Protect the Privacy of Protected Health Information in Oversight Investigations
 
 Ex. Ord. No. 13181, Dec. 20, 2000, 65 F.R. 81321, provided:
@@ -738,7 +744,7 @@ Sec. 2. <i>Definitions.</i>
 
 (a) "Health oversight activities" shall include the oversight activities enumerated in the regulations concerning the confidentiality of individually identifiable health information promulgated by the Secretary of Health and Human Services pursuant to the "Health Insurance Portability and Accountability Act of 1996," as amended \[Pub. L. 104–191, see Tables for classification\].
 
-(b) "Protected health information" shall have the meaning ascribed to it in the regulations concerning the confidentiality of individually identifiable health information promulgated by the Secretary of Health and Human Services pursuant to the "Health Insurance Portability and Accountability Act of 1996," as amended.
+(b) "Protected health information" shall have the meaning ascribed to it in the regulations concerningthe confidentiality of individually identifiable health information promulgated by the Secretary of Health and Human Services pursuant to the "Health Insurance Portability and Accountability Act of 1996," as amended.
 
 (c) "Injury to the patient" includes injury to the privacy interests of the patient.
 

@@ -4,9 +4,13 @@ Legal representatives of deceased breeders and of those under legal incapacity m
 
 (Pub. L. 91–577, title II, §54, Dec. 24, 1970, 84 Stat. 1548; Pub. L. 103–349, §13(h), Oct. 6, 1994, 108 Stat. 3143.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–349 substituted "the successor in interest of the breeder" for "his successor in interest".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

@@ -12,7 +12,7 @@ A State shall be eligible for a grant under this subchapter for a fiscal year if
 
 &emsp;(2) the Governor of the State provides assurances that the lead entity will provide or will be responsible for providing—
 
-&emsp;&emsp;(A) community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect composed of local,collaborative, public-private partnerships directed by interdisciplinary structures with balanced representation from private and public sector members, parents, adult former victims of child abuse or neglect, and public and private nonprofit service providers and individuals and organizations experienced in working in partnership with families with children with disabilities;
+&emsp;&emsp;(A) community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect composed of local, collaborative, public-private partnerships directed by interdisciplinary structures with balanced representation from private and public sector members, parents, adult former victims of child abuse or neglect, and public and private nonprofit service providers and individuals and organizations experienced in working in partnership with families with children with disabilities;
 
 &emsp;&emsp;(B) direction through an interdisciplinary, collaborative, public-private structure with balanced representation from private and public sector members, parents, adult former victims of child abuse or neglect, and public sector and private nonprofit sector service providers, and parents with disabilities; and
 
@@ -30,9 +30,11 @@ A State shall be eligible for a grant under this subchapter for a fiscal year if
 
 (Pub. L. 93–247, title II, §202, as added Pub. L. 104–235, title I, §121, Oct. 3, 1996, 110 Stat. 3081; amended Pub. L. 108–36, title I, §122, June 25, 2003, 117 Stat. 814; Pub. L. 111–320, title I, §133, Dec. 20, 2010, 124 Stat. 3479.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
-A prior section 5116a, Pub. L. 93–247, title II, §202, formerly Pub. L. 98–473, title IV, §403, Oct. 12, 1984, 98 Stat. 2197; renumbered §202 of Pub. L. 93–247, and amended Pub. L. 101–126, §§2(a), 3(a)(3), (c)(1), 4(b), Oct. 25, 1989, 103 Stat. 764, 766, defined "Secretary" and "State" as used in this subchapter, prior to the general amendment of this subchapter by Pub. L. 103–252, §401(a).
+A prior section 5116a, Pub. L. 93–247, title II, §202, formerly Pub. L. 98–473, title IV, §403, Oct. 12, 1984, 98 Stat.2197; renumbered §202 of Pub. L. 93–247, and amended Pub. L. 101–126, §§2(a), 3(a)(3), (c)(1), 4(b), Oct. 25, 1989, 103 Stat. 764, 766, defined "Secretary" and "State" as used in this subchapter, prior to the general amendment of this subchapter by Pub. L. 103–252, §401(a).
 
 #### Amendments
 

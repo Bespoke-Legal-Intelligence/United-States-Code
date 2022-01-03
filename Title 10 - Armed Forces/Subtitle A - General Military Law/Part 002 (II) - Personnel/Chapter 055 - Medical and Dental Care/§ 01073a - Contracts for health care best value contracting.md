@@ -18,6 +18,8 @@ Applicability.—The authority under the regulations prescribed under subsection
 
 (Added Pub. L. 106–65, div. A, title VII, §722(a), Oct. 5, 1999, 113 Stat. 695.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Comptroller General Review of Defense Health Agency Oversight of Transition Between Managed Care Support Contractors for the TRICARE Program
 
 Pub. L. 115–232, div. A, title VII, §737, Aug. 13, 2018, 132 Stat. 1821, provided that:
@@ -248,7 +250,7 @@ Elements.—The report required by paragraph (1) shall include an assessment of 
 
 &emsp;&emsp;&emsp;"(ix) the use of financial incentives for contractors and health care providers to receive an equitable share in cost savings resulting from improvements in health outcomes and the experience of care for covered beneficiaries.
 
-&emsp;&emsp;"(C) Whether the Department has considered, in developing requirements for managed care support contracts under the TRICARE program, the following:
+&emsp;&emsp;"(C) Whether the Department has considered, in developing requirements for managed care supportcontracts under the TRICARE program, the following:
 
 &emsp;&emsp;&emsp;"(i) The unique characteristics of providing health care services in Alaska, Hawaii, and the territories and possessions of the United States, and in rural, remote, or isolated locations in the contiguous 48 States;
 

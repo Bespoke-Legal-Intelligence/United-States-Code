@@ -36,13 +36,9 @@ Recreational vessels.—
 
 &emsp;&emsp;(A)
 
-In general.—A certificate of documentation for a recreational vessel and the renewal of such a certificate shall be effective for a 5-year period.
+In general.—The owner or operator of a recreational vessel may choose a period of effectiveness of between 1 and 5 years for a certificate of documentation for a recreational vessel or the renewal thereof.
 
 &emsp;&emsp;(B)
-
-Phase-in period.—During the period beginning January 1, 2019, and ending December 31, 2021, the owner or operator of a recreational vessel may choose a period of effectiveness of between 1 and 5 years for such a certificate of documentation for such vessel or the renewal thereof.
-
-&emsp;&emsp;(C)
 
 Fees.—
 
@@ -78,7 +74,7 @@ Termination of certificate.—The certificate of documentation for a vessel shal
 
 State and local authority to remove abandoned and derelict vessels.—Nothing in this section shall be construed to limit the authority of a State or local authority from taking action to remove an abandoned or derelict vessel.
 
-(Pub. L. 109–304, §5, Oct. 6, 2006, 120 Stat. 1493; Pub. L. 115–282, title V, §512, Dec. 4, 2018, 132 Stat. 4275.)
+(Pub. L. 109–304, §5, Oct. 6, 2006, 120 Stat. 1493; Pub. L. 115–282, title V, §512, Dec. 4, 2018, 132 Stat. 4275; Pub. L. 117–81, div. C, title XXXV, §3511, Dec. 27, 2021, 135 Stat. 2238.)
 
 Historical and Revision Notes
 
@@ -112,9 +108,17 @@ In subsection (b), the words "eligible under" are substituted for "if the applic
 
 #### Prior Provisions
 
-A prior section 12105, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 586; Pub. L. 100–710, title I, §104(a)(4), Nov. 23, 1988, 102 Stat. 4750; Pub. L. 101–225, title III, §301(a)(5), Dec. 12, 1989, 103 Stat. 1920; Pub. L. 109–241, title III, §310, July 11, 2006, 120 Stat. 529, originally derived from section 65h of former Title 46, Shipping, related to registry endorsements, prior to the general amendment of this chapter by Pub. L. 109–304. See section 12111 of this title.
+A prior section 12105, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 586; Pub. L. 100–710, title I, §104(a)(4), Nov. 23, 1988,102 Stat. 4750; Pub. L. 101–225, title III, §301(a)(5), Dec. 12, 1989, 103 Stat. 1920; Pub. L. 109–241, title III, §310, July 11, 2006, 120 Stat. 529, originally derived from section 65h of former Title 46, Shipping, related to registry endorsements, prior to the general amendment of this chapter by Pub. L. 109–304. See section 12111 of this title.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (e)(2)(A). Pub. L. 117–81, §3511(1), added subpar. (A) and struck out former subpar. (A), which read as follows: "
+
+In general.—A certificate of documentation for a recreational vessel and the renewal of such a certificate shall be effective for a 5-year period."
+
+Subsec. (e)(2)(B), (C). Pub. L. 117–81, §3511, redesignated subpar. (C) as (B) and struck out former subpar. (B), which read as follows: "
+
+Phase-in period.—During the period beginning January 1, 2019, and ending December 31, 2021, the owner or operator of a recreational vessel may choose a period of effectiveness of between 1 and 5 years for such a certificate of documentation for such vessel or the renewal thereof."
 
 <b>2018</b>—Subsec. (e). Pub. L. 115–282 added subsec. (e).
 

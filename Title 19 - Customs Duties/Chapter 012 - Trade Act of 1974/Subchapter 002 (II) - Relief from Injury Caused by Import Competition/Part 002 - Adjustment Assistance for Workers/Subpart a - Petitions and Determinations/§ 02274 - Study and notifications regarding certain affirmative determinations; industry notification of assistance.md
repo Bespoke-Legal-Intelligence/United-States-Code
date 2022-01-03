@@ -66,7 +66,7 @@ Upon receiving a notification of a determination under subsection (c), (d), or (
 
 &emsp;(3) in the case of an affirmative determination based upon imports of an agricultural commodity, the Secretary of Agriculture shall—
 
-&emsp;&emsp;(A) notify representatives of the domestic industry affected by the determination and any agricultural commodity producers publicly identified by name during the course of the proceeding relating to the determination of—
+&emsp;&emsp;(A) notify representatives of the domestic industry affected by the determination and any agricultural commodity producers publicly identified by name during the course ofthe proceeding relating to the determination of—
 
 &emsp;&emsp;&emsp;(i) the benefits available under part 6;
 
@@ -91,6 +91,8 @@ For purposes of subsection (f), the term "representatives of the domestic indust
 #### Reversion to Provisions in Effect on January 1, 2014
 
 <i>For reversion, beginning on July 1, 2021, to provisions in effect on Jan. 1, 2014, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see Codification and Effective and Termination Dates of 2015 Revival notes below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -118,6 +120,8 @@ Subsec. (b). Pub. L. 100–418 substituted "section 2252(f)" for "section 2251".
 
 <b>1981</b>—Subsec. (c). Pub. L. 97–35 struck out subsec. (c) which related to availability of information to workers.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective and Termination Dates of 2015 Revival
 
 For revival and applicability, beginning on June 29, 2015, of the provisions of this section as in effect on Dec. 31, 2013, see section 402(b), (c) of Pub. L. 114–27, set out as a note preceding section 2271 of this title.
@@ -138,7 +142,7 @@ Section 1893 of Pub. L. 111–5, formerly set out as a Termination Date of 2009 
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 effective Aug. 23, 1988, and applicable with respect to investigations initiated under part 1 (§2251 et seq.) of this subchapter on or after that date, see section 1401(c) of Pub. L. 100–418, set out as a note under section 2251 of this title.
+Amendment by Pub. L. 100–418 effective Aug. 23, 1988, and applicable with respect to investigations initiatedunder part 1 (§2251 et seq.) of this subchapter on or after that date, see section 1401(c) of Pub. L. 100–418, set out as a note under section 2251 of this title.
 
 #### Effective Date of 1981 Amendment and Transition Provisions
 

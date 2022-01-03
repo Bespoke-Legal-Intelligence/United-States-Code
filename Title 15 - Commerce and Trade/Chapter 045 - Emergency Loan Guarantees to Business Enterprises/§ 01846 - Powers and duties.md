@@ -10,6 +10,8 @@ The Government Accountability Office shall make a detailed audit of all accounts
 
 (Pub. L. 92–70, §7, Aug. 9, 1971, 85 Stat. 180; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Subsec. (b). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office" in two places.

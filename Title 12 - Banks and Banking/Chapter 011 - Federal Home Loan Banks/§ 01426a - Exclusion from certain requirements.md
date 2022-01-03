@@ -14,7 +14,7 @@ The Federal Home Loan Banks shall be exempt from compliance with—
 
 #### (b) Member exemption
 
-The members of the Federal Home Loan Bank System shall be exempt from compliance withsections 78m(d), 78m(f), 78m(g), 78n(d), and 78p of title 15, and related Commission regulations, with respect to ownership of or transactions in the capital stock of the Federal Home Loan Banks by such members.
+The members of the Federal Home Loan Bank System shall be exempt from compliance with sections 78m(d), 78m(f), 78m(g), 78n(d), and 78p of title 15, and related Commission regulations, with respect to ownership of or transactions in the capital stock of the Federal Home Loan Banks by such members.
 
 #### (c) Exempted and Government securities
 
@@ -64,7 +64,7 @@ Commission rules relating to tender offers shall not apply in connection with tr
 
 #### (2) Considerations
 
-&emsp;In issuing regulations under this section, the Commission shall consider the distinctive characteristics of the Federal Home Loan Banks when evaluating—
+&emsp;In issuing regulations under this section, the Commission shall consider the distinctivecharacteristics of the Federal Home Loan Banks when evaluating—
 
 &emsp;&emsp;(A) the accounting treatment with respect to the payment to the Resolution Funding Corporation;
 

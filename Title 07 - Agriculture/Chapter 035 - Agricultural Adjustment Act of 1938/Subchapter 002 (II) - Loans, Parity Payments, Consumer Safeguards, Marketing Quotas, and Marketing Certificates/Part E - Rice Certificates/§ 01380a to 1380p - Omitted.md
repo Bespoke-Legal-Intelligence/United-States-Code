@@ -1,5 +1,7 @@
 ### §§1380a to 1380p. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Sections 1380a to 1380p of this title were effective only with respect to 1957 and 1958 rice crops.
@@ -34,5 +36,5 @@ Section 1380n, act Feb. 16, 1938, ch. 30, title III, §380n, as added May 28, 19
 
 Section 1380o, act Feb. 16, 1938, ch. 30, title III, §380o, as added May 28, 1956, ch. 327, title V, §501(3), 70 Stat. 211, related to reports and records.
 
-Section 1380p, act Feb. 16, 1938, ch. 30, title III, §380p, as added May 28, 1956, ch. 327, title V, §501(3), 70 Stat. 211, defined "cooperator", "processing of rough rice","processed rice", "United States", "exporter", "rough rice equivalent", and "import", for purposes of this part.
+Section 1380p, act Feb. 16, 1938, ch. 30, title III, §380p, as added May 28, 1956, ch. 327, title V, §501(3), 70 Stat. 211, defined "cooperator", "processing of rough rice", "processed rice", "United States", "exporter", "rough rice equivalent", and "import", for purposes of this part.
 

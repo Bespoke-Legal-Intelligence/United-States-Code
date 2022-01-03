@@ -30,15 +30,55 @@ Elements of Policy.—The policy required under subsection (a) shall include the
 
 &emsp;(4) Metrics to measure the performance and effectiveness of the military family readiness programs and activities of the Department of Defense.
 
-&emsp;(5) A summary, by fiscal year, of the allocation of funds (including appropriated funds and nonappropriated funds) for major categories of military family readiness programs and activities of the Department of Defense, set forth for each of the military departments and for the Office of the Secretary of Defense.
+&emsp;(5) A summary, by fiscal year, of the allocation of funds (including appropriated fundsand nonappropriated funds) for major categories of military family readiness programs and activities of the Department of Defense, set forth for each of the military departments and for the Office of the Secretary of Defense.
 
 (Added Pub. L. 110–181, div. A, title V, §581(a), Jan. 28, 2008, 122 Stat. 121; amended Pub. L. 111–383, div. A, title X, §1075(b)(23), Jan. 7, 2011, 124 Stat. 4370; Pub. L. 115–91, div. A, title X, §1051(a)(9), Dec. 12, 2017, 131 Stat. 1560.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>2017</b>—Subsec. (d). Pub. L. 115–91 struck out subsec. (d). Text read as follows: "Not later than March 1 each year, the Secretary of Defense shall submit to the congressional defense committees a report on the plans required under subsection (a) for the five-fiscal year period beginning with the fiscal year in which the report is submitted. Each report shall include the plans covered by the report and an assessment of the discharge by the Department of Defense of the previous plans submitted under this section."
 
 <b>2011</b>—Subsec. (d). Pub. L. 111–383 substituted "March 1 each year" for "March 1, 2008, and each year thereafter".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Policy Regarding Remote Military Installations
+
+Pub. L. 117–81, div. A, title V, §565, Dec. 27, 2021, 135 Stat. 1749, provided that:
+
+"(a)
+
+Policy.—Not later than December 1, 2022, the Secretary of Defense, in consultation with the Secretaries of the military departments, shall develop a uniform policy for how to—
+
+&emsp;"(1) identify remote military installations; and
+
+&emsp;"(2) assess and manage challenges associated with remote military installations and military personnel assigned to remote locations.
+
+"(b)
+
+Elements.—The policy under subsection (a) shall address the following:
+
+&emsp;"(1) Activities and facilities for the morale, welfare, and recreation of members of the Armed Forces.
+
+&emsp;"(2) Availability of housing, located on and off remote military installations.
+
+&emsp;"(3) Educational services for dependents of members of the Armed Forces, located on and off remote military installations.
+
+&emsp;"(4) Availability of health care.
+
+&emsp;"(5) Employment opportunities for military spouses.
+
+&emsp;"(6) Risks associated with having insufficient support services for members of the Armed Forces and their dependents.
+
+"(c)
+
+Report.—Not later than March 1, 2023, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report setting forth the policy under this section.
+
+"(d)
+
+Military Installation Defined.—In this section, the term 'military installation' has the meaning given that term in section 2801 of title 10, United States Code."
 
 #### Consideration of Certain Military Family Readiness Issues in Making Basing Decisions Associated With Certain Military Units and Major Headquarters
 
@@ -90,11 +130,11 @@ Scorecard required.—The Secretary of the military department concerned shall e
 
 &emsp;"(2)
 
-Update.—The Secretary of the military department concerned shall update the scorecard established by that Secretary under this subsection not less frequently than once each year in order to keepthe information in such scorecard as current as is practicable.
+Update.—The Secretary of the military department concerned shall update the scorecard established by that Secretary under this subsection not less frequently than once each year in order to keep the information in such scorecard as current as is practicable.
 
 &emsp;"(3)
 
-Availability to public.—A current version of each scorecard established under this subsection shall be available to the public through an Internet website of the military department concerned that is accessible to the public.
+Availability to public.—A current version of each scorecard established under this subsection shall be available to the public through an Internetwebsite of the military department concerned that is accessible to the public.
 
 "(i)
 

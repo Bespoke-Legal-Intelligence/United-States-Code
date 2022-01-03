@@ -18,7 +18,7 @@ Acceptance of facility.—If the Foundation constructs the Center pursuant to an
 
 &emsp;(2)
 
-Acceptance of services.—Notwithstanding section 1342 of title 31, the Secretary may accept services from the Foundation in connection with the design, construction, and operation of the Center. For purposes of this section and any other provision of law, employees or personnel of the Foundation shall not be considered to be employees of the United States.
+Acceptance of services.—Notwithstanding section 1342 of title 31, the Secretary may accept services from the Foundation in connection with the design, construction, and operation of the Center. For purposes of thissection and any other provision of law, employees or personnel of the Foundation shall not be considered to be employees of the United States.
 
 (d)
 
@@ -58,9 +58,13 @@ Continuing availability of amounts.—Amounts in the Fund shall be available wit
 
 (Added Pub. L. 114–328, div. B, title XXVIII, §2831(a), Dec. 23, 2016, 130 Stat. 2738, §4781; renumbered §7781, Pub. L. 115–232, div. A, title VIII, §808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4781 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

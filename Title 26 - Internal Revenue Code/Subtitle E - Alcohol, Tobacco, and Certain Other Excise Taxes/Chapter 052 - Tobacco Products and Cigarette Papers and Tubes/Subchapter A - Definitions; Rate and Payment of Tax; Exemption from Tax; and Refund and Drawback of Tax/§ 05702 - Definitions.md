@@ -104,6 +104,8 @@ The term "roll-your-own tobacco" means any tobacco which, because of its appeara
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 706; Pub. L. 85–859, title II, §202, Sept. 2, 1958, 72 Stat. 1415; Pub. L. 89–44, title V, §502(b)(3), title VIII, §808(a), June 21, 1965, 79 Stat. 151, 164; Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XXI, §2128(b), Oct. 4, 1976, 90 Stat. 1834, 1921; Pub. L. 99–272, title XIII, §13202(b)(2)–(4), Apr. 7, 1986, 100 Stat. 312; Pub. L. 100–647, title V, §5061(b)–(c)(2), Nov. 10, 1988, 102 Stat. 3679; Pub. L. 101–508, title XI, §11202(g), Nov. 5, 1990, 104 Stat. 1388–419; Pub. L. 105–33, title IX, §9302(g)(2)–(3)(B), (h)(4), Aug. 5, 1997, 111 Stat. 672, 674; Pub. L. 106–554, §1(a)(7) \[title III, §315(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–644; Pub. L. 111–3, title VII, §702(a)(4), (5), (d)(1), Feb. 4, 2009, 123 Stat. 108, 110; Pub. L. 112–141, div. F, title I, §100122(a), July 6, 2012, 126 Stat. 914.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Subsec. (d). Pub. L. 112–141 inserted concluding provisions.
@@ -118,7 +120,7 @@ Subsec. (o). Pub. L. 111–3, §702(d)(1), inserted "or cigars, or for use as wr
 
 Subsec. (p). Pub. L. 111–3, §702(a)(4), added subsec. (p).
 
-<b>2000</b>—Subsec. (f). Pub. L. 106–554, §1(a)(7) \[title III, §315(a)(2)(B)\], redesignated subsec. (g) as (f) and struckout former subsec. (f), which defined "cigarette papers".
+<b>2000</b>—Subsec. (f). Pub. L. 106–554, §1(a)(7) \[title III, §315(a)(2)(B)\], redesignated subsec. (g) as (f) and struck out former subsec. (f), which defined "cigarette papers".
 
 Subsec. (g). Pub. L. 106–554, §1(a)(7) \[title III, §315(a)(2)(B)\], redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
 
@@ -195,6 +197,8 @@ Subsec. (m). Pub. L. 85–859 redesignated former subsec. (l) as (m) and include
 Subsec. (n). Pub. L. 85–859 redesignated former subsec. (m) as (n) and substituted "tobacco products or cigarette papers or tubes" for "articles". Former subsec. (n) redesignated (o).
 
 Subsec. (o). Pub. L. 85–859 redesignated former subsec. (n) as (o) and substituted "tobacco products or cigarette papers or tubes" for "articles" in two places, and inserted provisions to include within the definition persons who remove cigars or cigarettes for sale or consumption in the United States from a customs bonded manufacturing warehouse.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

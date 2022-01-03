@@ -30,7 +30,7 @@ The Secretary is authorized to award a grant, on a competitive basis, to an elig
 
 #### (2) Content of application
 
-&emsp;Each application submitted under paragraph (1) shall include a description of how the activities funded by the grant will reflect diverse perspectives and a wide range of views andgenerate debate on world regions and international affairs, where applicable.
+&emsp;Each application submitted under paragraph (1) shall include a description of how the activities funded by the grant will reflect diverse perspectives and a wide range of views and generate debate on world regions and international affairs, where applicable.
 
 #### (d) Duration
 
@@ -42,6 +42,8 @@ The eligible recipient of a grant under this section shall contribute to the con
 
 (Pub. L. 89–329, title VI, §621, as added Pub. L. 102–325, title VI, §601, July 23, 1992, 106 Stat. 734; amended Pub. L. 105–244, title VI, §603(a), Oct. 7, 1998, 112 Stat. 1783; Pub. L. 110–315, title VI, §612, Aug. 14, 2008, 122 Stat. 3339.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1131, Pub. L. 89–329, title VI, §621, as added Pub. L. 96–374, title VI, §601(a), Oct. 3, 1980, 94 Stat. 1469; amended Pub. L. 97–241, title III, §303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 99–498, title VI, §613, Oct. 17, 1986, 100 Stat. 1519, related to advisory board on the conduct of programs under this subchapter, prior to repeal by Pub. L. 101–392, title VI, §§612, 702(a), Sept. 25, 1990, 104 Stat. 842, 843, effective July 1, 1991.
@@ -50,13 +52,15 @@ Another prior section 1131, Pub. L. 89–329, title VI, §621, Nov. 8, 1965, 79 
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–315, §612(1), substituted "The Institute shall conduct a program to enhance the international competitiveness of the United States by increasing the participation of underrepresented populations in the international service, including private international voluntary organizations and the foreign service of the United States." for "The Institute shall conduct a program to significantly increase the numbers of African Americans and other underrepresented minorities in the international service, including private international voluntary organizations and the foreign service of the United States."
+<b>2008</b>—Subsec. (a). Pub. L. 110–315, §612(1), substituted "The Institute shall conduct a program to enhance the international competitiveness of the United States by increasing the participation of underrepresented populations in the international service, including private international voluntary organizations and the foreignservice of the United States." for "The Institute shall conduct a program to significantly increase the numbers of African Americans and other underrepresented minorities in the international service, including private international voluntary organizations and the foreign service of the United States."
 
 Subsec. (b)(1)(B) to (D). Pub. L. 110–315, §612(2), added subpars. (B) and (C), redesignated former subpar. (C) as (D), and struck out former subpar. (B) which read as follows: "An institution of higher education which serves substantial numbers of African American or other underrepresented minority students."
 
 Subsec. (c). Pub. L. 110–315, §612(3), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 <b>1998</b>—Subsec. (e). Pub. L. 105–244 substituted "one-half" for "one-fourth".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

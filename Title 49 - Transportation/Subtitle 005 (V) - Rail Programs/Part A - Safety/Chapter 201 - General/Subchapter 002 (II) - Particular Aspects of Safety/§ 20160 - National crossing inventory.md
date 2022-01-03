@@ -40,7 +40,9 @@ Crossing.—The term "crossing" means a location within a State, other than a lo
 
 State.—The term "State" means a State of the United States, the District of Columbia, or the Commonwealth of Puerto Rico.
 
-(Added Pub. L. 110–432, div. A, title II, §204(a), Oct. 16, 2008, 122 Stat. 4869; amended Pub. L. 114–94, div. A, title XI, §11316(g), Dec. 4, 2015, 129 Stat. 1676.)
+(Added Pub. L. 110–432, div. A, title II, §204(a), Oct. 16, 2008, 122 Stat. 4869; amended Pub. L.114–94, div. A, title XI, §11316(g), Dec. 4, 2015, 129 Stat. 1676.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -51,6 +53,8 @@ The date of enactment of the Rail Safety Improvement Act of 2008, referred to in
 <b>2015</b>—Subsec. (a)(1). Pub. L. 114–94, §11316(g)(1), substituted "concerning each previously unreported crossing through which it operates with respect to the trackage over which it operates" for "concerning each previously unreported crossing through which it operates or with respect to the trackage over which it operates".
 
 Subsec. (b)(1)(A). Pub. L. 114–94, §11316(g)(2), substituted "concerning each crossing through which it operates with respect to the trackage over which it operates" for "concerning each crossing through which it operates or with respect to the trackage over which it operates".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

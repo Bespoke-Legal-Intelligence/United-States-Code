@@ -26,7 +26,7 @@
 
 (b)(1) The Secretary of the Navy may transfer to the Navy Reserve or the Marine Corps Reserve, and may order to active duty for such period of time as the Secretary prescribes (but not to exceed four years), a midshipman who breaches an agreement under subsection (a). The period of time for which a midshipman is ordered to active duty under this paragraph may be determined without regard to section 651(a) of this title.
 
-(2) A midshipman who is transferred to the Navy Reserve or Marine Corps Reserve under paragraph (1) shall be transferred in an appropriate enlisted grade or rating, as determined by the Secretary.
+(2) A midshipman who is transferred to the Navy Reserve or Marine Corps Reserve underparagraph (1) shall be transferred in an appropriate enlisted grade or rating, as determined by the Secretary.
 
 (3) For the purposes of paragraph (1), a midshipman shall be considered to have breached an agreement under subsection (a) if the midshipman is separated from the Naval Academy under circumstances which the Secretary determines constitute a breach by the midshipman of the midshipman's agreement to complete the course of instruction at the Naval Academy and accept an appointment as a commissioned officer upon graduation from the Naval Academy.
 
@@ -63,6 +63,8 @@ Historical and Revision Notes
 June 30, 1950, ch. 421, §3, 64 Stat. 304.
 
 The words "Hereafter" and "appointed to the United States Naval Academy" are omitted as surplusage. The words "an agreement that \* \* \* he will" are substituted for the words "articles \* \* \* by which he shall engage". The word "separated" is substituted for the words "discharged by competent authority". The words "if tendered an appointment", "upon graduation from the United States Naval Academy", and "consecutive" are omitted as surplusage. The words "if he is permitted to resign" are substituted for the words "in the event of the acceptance of his resignation", since a resignation is effective only if accepted. The first 43 words of clause (3) are substituted for 34 U.S.C. 1048 (last 30 words of clause (3)). The last sentence is substituted for the words "with the consent of his parents or guardian if he be a minor, and if any he have."
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -108,6 +110,8 @@ Subsec. (a)(3). Pub. L. 98–525, §542(c), substituted "at least the sixth anni
 
 Subsec. (a)(2). Pub. L. 88–276 substituted "five" for "three".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
@@ -138,7 +142,7 @@ For effective date of amendment by Pub. L. 88–276, see section 5(c) of Pub. L.
 
 #### Regulations Implementing 1985 Amendment
 
-Secretary of the Navy to prescribe regulations required by subsec. (c) of this section as added by Pub. L.99–145 not later than the end of the 90-day period beginning on Nov. 8, 1985, see section 512(d) of Pub. L. 99–145, set out as a note under section 7448 of this title.
+Secretary of the Navy to prescribe regulations required by subsec. (c) of this section as added by Pub. L. 99–145 not later than the end of the 90-day period beginning on Nov. 8, 1985, see section 512(d) of Pub. L. 99–145, set out as a note under section 7448 of this title.
 
 #### Savings Provision
 

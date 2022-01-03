@@ -20,7 +20,7 @@
 
 #### (c) Information sharing
 
-Subject to section 3024(i) of this title, relating to the protection of intelligence sources and methods, the Director shall provide for the sharing of the list, and information on the list, with such departments and agencies of the Federal Government, State and local government agencies, and entities of foreign governments and international organizations as the Director considers appropriate.
+Subject to section 3024(i) of this title, relating to the protection of intelligence sources andmethods, the Director shall provide for the sharing of the list, and information on the list, with such departments and agencies of the Federal Government, State and local government agencies, and entities of foreign governments and international organizations as the Director considers appropriate.
 
 #### (d) Report on criteria for information sharing
 
@@ -30,7 +30,7 @@ Subject to section 3024(i) of this title, relating to the protection of intellig
 
 #### (e) System administration requirements
 
-(1) The Director shall, to the maximum extent practicable, ensure the interoperability of the Terrorist Identification Classification Systemwith relevant information systems of the departments and agencies of the Federal Government, and of State and local governments, described by subsection (c).
+(1) The Director shall, to the maximum extent practicable, ensure the interoperability of the Terrorist Identification Classification System with relevant information systems of the departments and agencies of the Federal Government, and of State and local governments, described by subsection (c).
 
 (2) The Director shall ensure that the System utilizes technologies that are effective in aiding the identification of individuals in the field.
 
@@ -58,6 +58,8 @@ In this section, the term "congressional intelligence committees" means—
 
 (Pub. L. 107–306, title III, §343, Nov. 27, 2002, 116 Stat. 2399; Pub. L. 108–177, title III, §377(d), Dec. 13, 2003, 117 Stat. 2631; Pub. L. 108–458, title I, §§1071(g)(2)(A)(ii), 1072(d)(1)(A), Dec. 17, 2004, 118 Stat. 3691, 3693; Pub. L. 111–259, title III, §347(f), Oct. 7, 2010, 124 Stat. 2699.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 403–3 of this title, referred to in subsec. (d)(2), was repealed and a new section 403–3 enacted by Pub. L. 108–458, title I, §1011(a), Dec. 17, 2004, 118 Stat. 3643, without corresponding amendment to this section. Section 403–3 of this title was subsequently editorially reclassified as section 3025 of this title. The new section 3025 contains a subsec. (c) relating to the composition of the Office of the Director of National Intelligence.
@@ -79,6 +81,8 @@ Section was formerly classified to section 404n–2 of this title prior to edito
 Subsec. (c). Pub. L. 108–458, §1072(d)(1)(A), which directed amendment of subsec. (c) by substituting "section 403–1(i)" for "section 403–3(c)(6)", was executed by making the substitution for "section 403–3(c)(7)" to reflect the probable intent of Congress and the amendment by Pub. L. 108–177. See 2003 Amendment note below.
 
 <b>2003</b>—Subsecs. (c), (e)(2). Pub. L. 108–177, §377(d), substituted "section 403–3(c)(7) of this title" for "section 403–3(c)(6) of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

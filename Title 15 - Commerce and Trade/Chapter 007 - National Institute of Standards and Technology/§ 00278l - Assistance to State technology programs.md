@@ -12,9 +12,13 @@
 
 (Mar. 3, 1901, ch. 872, §26, as added Pub. L. 100–418, title V, §5121(a), Aug. 23, 1988, 102 Stat. 1435; amended Pub. L. 114–329, title V, §501(e)(3), Jan. 6, 2017, 130 Stat. 3033.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Subsec. (a). Pub. L. 114–329 substituted "Hollings Manufacturing Extension Partnership" for "Centers program created".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Technology Extension Services
 
@@ -64,5 +68,5 @@ Technology Extension Services.—(1) The Secretary shall conduct a nationwide st
 
 "(c)
 
-Federal Technology Transfer Act of 1986.—Nothing in sections \[sic\] 25 or 26 of the Act of March 3, 1901 \[15 U.S.C. 278k, 278l\], or in subsection (b) of thissection shall be construed as limiting the authorities contained in the Federal Technology Transfer Act of 1986 (Public Law 99–502) \[see Short Title of 1986 Amendments note set out under section 3701 of this title\]."
+Federal Technology Transfer Act of 1986.—Nothing in sections \[sic\] 25 or 26 of the Act of March 3, 1901 \[15 U.S.C. 278k, 278l\], or in subsection (b) of this section shall be construed as limiting the authorities contained in the Federal Technology Transfer Act of 1986 (Public Law 99–502) \[see Short Title of 1986 Amendments note set out under section 3701 of this title\]."
 

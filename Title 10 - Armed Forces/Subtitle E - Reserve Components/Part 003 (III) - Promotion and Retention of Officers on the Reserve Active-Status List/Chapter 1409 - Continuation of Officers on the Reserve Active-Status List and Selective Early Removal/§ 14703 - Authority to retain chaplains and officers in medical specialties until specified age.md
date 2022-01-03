@@ -2,7 +2,7 @@
 
 (a)
 
-Retention.—Notwithstanding any provision of chapter 1407 of this title and except forofficers referred to in sections 14503, 14504, 14505, and 14506 of this title and under regulations prescribed by the Secretary of Defense—
+Retention.—Notwithstanding any provision of chapter 1407 of this title and except for officers referred to in sections 14503, 14504, 14505, and 14506 of this title and under regulations prescribed by the Secretary of Defense—
 
 &emsp;(1) the Secretary of the Army may, with the officer's consent, retain in an active status any reserve officer assigned to the Medical Corps, the Dental Corps, the Veterinary Corps, the Medical Services Corps (if the officer has been designated as allied health officer or biomedical sciences officer in that Corps), the Optometry Section of the Medical Services Corps, the Chaplains, the Army Nurse Corps, or the Army Medical Specialists Corps;
 
@@ -18,6 +18,8 @@ Separation at Specified Age.—(1) Subject to paragraph (2), an officer may not 
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2956; amended Pub. L. 106–65, div. A, title V, §516, Oct. 5, 1999, 113 Stat. 594; Pub. L. 106–398, §1 \[\[div. A\], title V, §523\], Oct. 30, 2000, 114 Stat. 1654, 1654A–108; Pub. L. 110–417, \[div. A\], title V, §516(a), Oct. 14, 2008, 122 Stat. 4442; Pub. L. 116–92, div. A, title V, §516, Dec. 20, 2019, 133 Stat. 1349.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in sections 3855(a), (c)(1), 6392(a), (c)(1), and 8855(a), (c)(1) of this title, prior to repeal by Pub. L. 103–337, §1629(a)(3), (b)(3), (c)(3).
@@ -31,6 +33,8 @@ Provisions similar to those in this section were contained in sections 3855(a), 
 <b>2000</b>—Subsec. (a)(3). Pub. L. 106–398 substituted "Air Force nurse, Medical Service Corps officer, biomedical sciences officer, or chaplain." for "veterinary officer, Air Force nurse, or chaplain or who is designated as a biomedical sciences officer and is qualified for service as a veterinarian, optometrist, or podiatrist."
 
 <b>1999</b>—Subsec. (b). Pub. L. 106–65 struck out "(or, in the case of a reserve officer of the Army in the Chaplains or a reserve officer of the Air Force designated as a chaplain, 60 years of age)" after "67 years of age".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

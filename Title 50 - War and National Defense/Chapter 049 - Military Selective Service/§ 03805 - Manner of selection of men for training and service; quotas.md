@@ -2,7 +2,7 @@
 
 #### (a) Manner of selection
 
-(1) The selection of persons for training and service under section 3803 of this title shall be made in an impartial manner, under such rules and regulations as the President may prescribe, from the persons who are liable for such training and service and who at the time of selection are registered and classified, but not deferred or exempted: <i>Provided</i>, That in the selection of persons for training and service under this chapter, and in the interpretation and execution of the provisions of this chapter, there shall be no discrimination against any person on account of race or color: <i>Provided further</i>, That in the classification of registrants within the jurisdiction of any local board, the registrants of any particular registration may be classified, in the manner prescribed by and in accordance with rules and regulations prescribed by the President, before, together with, or after the registrants of any prior registration or registrations; and in the selection for induction of persons within the jurisdiction of any local board and within any particular classification, persons who were registered at any particular registration may be selected, in the manner prescribed by and in accordance with rules and regulations prescribed by the President, before, together with, or after persons who were registered at any prior registration or registrations: <i>And provided further</i>, That nothing herein shall be construed to prohibit the selection or induction of persons by age group or groups under rules and regulations prescribed by the President: <i>And provided further</i>, That—
+(1) The selection of persons for training and service under section 3803 of this title shall be made in an impartial manner, under such rules and regulations as the President may prescribe, from the persons who are liable for such training and service and who at the time of selection are registered and classified, but not deferred or exempted: <i>Provided</i>, That in the selection of persons for training and service under this chapter, and in the interpretation and execution of the provisions of this chapter, there shall be no discrimination against any person on account of race or color: <i>Provided further</i>, That in the classification of registrants within the jurisdiction of any local board, the registrants of any particular registration may be classified, in the manner prescribed by and in accordance with rules and regulations prescribed by the President, before, together with, or after the registrants of any prior registration or registrations; and in the selection for induction of persons within the jurisdiction of any local board and within any particular classification, persons who were registered at any particular registration may be selected, in the manner prescribed by and in accordance with rules and regulations prescribed by the President, before, together with, or after persons who were registered atany prior registration or registrations: <i>And provided further</i>, That nothing herein shall be construed to prohibit the selection or induction of persons by age group or groups under rules and regulations prescribed by the President: <i>And provided further</i>, That—
 
 &emsp;(1) no local board shall order for induction for training and service in the Armed Forces of the United States any person who has not attained the age of nineteen unless there is not within the jurisdiction of such local board a sufficient number of persons who are deemed by such local board to be available for induction and who have attained the age of nineteen to enable such local board to meet a call for men which it has been ordered to furnish for induction;
 
@@ -32,6 +32,8 @@ Notwithstanding any other provision of this Act, not more than 130,000 persons m
 
 <i>For provisions relating to termination of induction for training and service in the Armed Forces after July 1, 1973, see section 3815(c) of this title.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a) and (b), was in the original "this title", meaning title I of act June 24, 1948, ch. 625, 62 Stat. 604, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
@@ -58,9 +60,13 @@ Subsec. (c). Pub. L. 85–62, §§5, 9, temporarily added subsec. (c). See Effec
 
 <b>1951</b>—Subsec. (a). Act June 19, 1951, inserted last two provisos.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective and Termination Dates of 1957 Amendment
 
 Amendment by Pub. L. 85–62 to take effect on July 1, 1957, and terminate on July 1, 1973, see section 9 of Pub. L. 85–62, set out as a note under section 3803 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Proc. No. 3945. Random Selection for Military Service
 

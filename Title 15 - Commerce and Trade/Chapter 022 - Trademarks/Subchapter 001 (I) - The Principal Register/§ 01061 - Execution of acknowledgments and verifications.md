@@ -1,8 +1,10 @@
 ### §1061. Execution of acknowledgments and verifications
 
-Acknowledgments and verifications required under this chapter may be made before any person within the United States authorized by law to administer oaths, or, when made in a foreign country, before any diplomatic or consular officer of the United States or before any official authorized to administer oaths in the foreign country concerned whose authority is proved by a certificate of a diplomatic or consular officer of the United States, or apostille of an official designated by a foreign country which, by treaty or convention, accords like effect to apostilles of designated officials in the United States, and shall be valid if they comply with the laws of the state or country where made.
+Acknowledgments and verifications required under this chapter may be made before any person within the United States authorized by law to administer oaths, or, when made in a foreign country, before any diplomatic or consular officer of the United States or before any official authorized to administer oaths in the foreign country concerned whose authority is proved by a certificate of a diplomatic or consular officerof the United States, or apostille of an official designated by a foreign country which, by treaty or convention, accords like effect to apostilles of designated officials in the United States, and shall be valid if they comply with the laws of the state or country where made.
 
 (July 5, 1946, ch. 540, title I, §11, 60 Stat. 432; Pub. L. 97–247, §14(c), Aug. 27, 1982, 96 Stat. 321.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -11,6 +13,8 @@ Acts Feb. 20, 1905, ch. 592, §2, 33 Stat. 724; Feb. 18, 1909, ch. 144, 35 Stat.
 #### Amendments
 
 <b>1982</b>—Pub. L. 97–247 substituted "is" for "shall be" after "whose authority", and inserted ", or apostille of an official designated by a foreign country which, by treaty or convention, accords like effect to apostilles of designated officials in the United States".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1982 Amendment
 

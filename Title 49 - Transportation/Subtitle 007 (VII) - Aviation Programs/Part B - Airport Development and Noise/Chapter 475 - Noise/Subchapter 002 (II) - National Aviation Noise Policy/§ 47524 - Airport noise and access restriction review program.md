@@ -62,7 +62,7 @@ Nonapplication.—Subsections (b) and (c) of this section do not apply to—
 
 &emsp;(1) a local action to enforce a negotiated or executed airport noise or access agreement between the airport operator and the aircraft operators in effect on November 5, 1990;
 
-&emsp;(2) a local action to enforce a negotiated or executed airport noise or access restrictionagreed to by the airport operator and the aircraft operators before November 5, 1990;
+&emsp;(2) a local action to enforce a negotiated or executed airport noise or access restriction agreed to by the airport operator and the aircraft operators before November 5, 1990;
 
 &emsp;(3) an intergovernmental agreement including an airport noise or access restriction in effect on November 5, 1990;
 
@@ -143,6 +143,8 @@ In subsection (c)(2)(A)–(D) and (F), the word "proposed" is omitted as surplus
 In subsection (c)(4), the words "that justifies a reevaluation" are substituted for "and that a review and reevaluation . . . of the previously approved or agreed to noise restriction is therefore justified" to eliminate unnecessary words.
 
 In subsection (d)(6), the words "calendar year" are omitted as surplus.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

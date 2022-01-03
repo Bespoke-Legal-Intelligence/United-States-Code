@@ -162,9 +162,13 @@ As used in this section—
 
 (Pub. L. 102–486, title XIII, §1339, Oct. 24, 1992, 106 Stat. 2986.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
-October 24, 1992, referred to in subsec. (j)(4), was in the original "the effective date of this section", whichwas translated as meaning the date of enactment of Pub. L. 102–486, which enacted this section.
+October 24, 1992, referred to in subsec. (j)(4), was in the original "the effective date of this section", which was translated as meaning the date of enactment of Pub. L. 102–486, which enacted this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Federal Coalbed Methane Regulation
 

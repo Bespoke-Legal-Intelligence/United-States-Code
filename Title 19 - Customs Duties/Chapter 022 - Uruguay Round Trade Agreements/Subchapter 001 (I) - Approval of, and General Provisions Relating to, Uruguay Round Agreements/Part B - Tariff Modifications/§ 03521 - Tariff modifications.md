@@ -328,6 +328,8 @@ At such time as the President proclaims any modification to the HTS to implement
 
 (Pub. L. 103–465, title I, §111, Dec. 8, 1994, 108 Stat. 4819.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Pub. L. 103–465, title I, §116, Dec. 8, 1994, 108 Stat. 4828, provided that:
@@ -339,6 +341,8 @@ In General.—Except as provided in section 114(a) \[108 Stat. 4827\] and subsec
 "(b)
 
 Section 115.—Section 115 \[enacting section 3524 of this title\] takes effect on the date of the enactment of this Act \[Dec. 8, 1994\]."
+
+#### <b>Executive Documents</b>
 
 #### Uruguay Round Agreements: Entry Into Force
 

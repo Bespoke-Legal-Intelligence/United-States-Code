@@ -52,6 +52,8 @@ In subsection (a) the words "including members of the Nurse Corps" are omitted a
 
 In subsection (b) the words "in any case whether public quarters are available" are substituted for the words "where and when there are no public quarters". The words "for persons in the Navy and Marine Corps, or serving therewith" are omitted, since these classes of personnel for whom the Secretary makes the determination of availability are the same as those who may be furnished quarters under subsection (a).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7571 of this title as this section.
@@ -59,6 +61,8 @@ In subsection (b) the words "in any case whether public quarters are available" 
 <b>1980</b>—Subsec. (a)(3). Pub. L. 96–513 substituted "National Oceanic and Atmospheric Administration" for "Environmental Science Services Administration".
 
 <b>1966</b>—Subsec. (a)(3). Pub. L. 89–718 substituted "Environmental Science Services Administration" for "Coast and Geodetic Survey".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

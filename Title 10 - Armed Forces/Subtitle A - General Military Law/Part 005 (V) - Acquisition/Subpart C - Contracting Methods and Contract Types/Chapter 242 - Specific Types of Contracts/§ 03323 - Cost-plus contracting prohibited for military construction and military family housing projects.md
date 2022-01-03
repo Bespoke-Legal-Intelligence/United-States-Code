@@ -14,6 +14,8 @@ Applicability.—The prohibition specified in subsection (a)—
 
 (Added and amended Pub. L. 116–283, div. A, title XVIII, §1817(a), (g), Jan. 1, 2021, 134 Stat. 4186, 4187.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 The text of subsec. (c) of section 2306 of this title, which was transferred to this section and amended by Pub. L. 116–283, §1817(g), was based on Pub. L. 112–81, div. B, title XXVIII, §2801(a), Dec. 31, 2011, 125 Stat. 1684.
@@ -29,6 +31,8 @@ Subsec. (b). Pub. L. 116–283, §1817(g)(1), (3), designated second sentence of
 &emsp;"(2) applies notwithstanding. a declaration"
 
 > for "This prohibition is in addition to the prohibition specified in subsection (a) on the use of the cost-plus-a-percentage-of-cost system of contracting and applies notwithstanding a declaration".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

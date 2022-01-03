@@ -1,6 +1,6 @@
 ### §5318. Adjustments in rates of pay
 
-(a) Subject to subsection (b), effective at the beginning of the first applicable pay period commencing on or after the first day of the month in which an adjustment takes effect under section 5303 of this title in the rates of pay under the General Schedule, the annual rate of pay for positions at each level of the Executive Schedule shall be adjusted by an amount, rounded to the nearest multiple of $100 (or if midway between multiples of $100, to the next higher multiple of $100), equal to the percentage of such annual rate of pay which corresponds to the most recent percentage change in the ECI (relative to the date described in the next sentence), as determined under section 704(a)(1) of the Ethics Reform Act of 1989. The appropriate date under this sentence is the first day of the fiscal year in which such adjustment in the rates of pay under the General Schedule takes effect.
+(a) Subject to subsection (b), effective at the beginning of the first applicable pay period commencing on or after the first day of the month in which an adjustment takes effect under section 5303 of this title in the rates of pay under the General Schedule, the annual rate of pay forpositions at each level of the Executive Schedule shall be adjusted by an amount, rounded to the nearest multiple of $100 (or if midway between multiples of $100, to the next higher multiple of $100), equal to the percentage of such annual rate of pay which corresponds to the most recent percentage change in the ECI (relative to the date described in the next sentence), as determined under section 704(a)(1) of the Ethics Reform Act of 1989. The appropriate date under this sentence is the first day of the fiscal year in which such adjustment in the rates of pay under the General Schedule takes effect.
 
 (b) In no event shall the percentage adjustment taking effect under subsection (a) in any calendar year (before rounding), in any rate of pay, exceed the percentage adjustment taking effect in such calendar year under section 5303 in the rates of pay under the General Schedule.
 
@@ -38,7 +38,7 @@ Pub. L. 101–194, title VII, §704(b), Nov. 30, 1989, 103 Stat. 1769, provided 
 
 #### Salary Levels of Senior Government Officials
 
-Pub. L. 102–90, title I, §6(a), Aug. 14, 1991, 105 Stat. 450, provided that: "The rate of pay for the offices referredto under section 703(a)(2)(B) of the Ethics Reform Act of 1989 \[Pub. L. 101–194\] (5 U.S.C. 5318 note) shall be the rate of pay that would be payable for each such office if the provisions of sections 703(a)(2)(B) and 1101(a)(1)(A) of such Act (5 U.S.C. 5318 note and 5305 note) had not been enacted."
+Pub. L. 102–90, title I, §6(a), Aug. 14, 1991, 105 Stat. 450, provided that: "The rate of pay for the offices referred to under section 703(a)(2)(B) of the Ethics Reform Act of 1989 \[Pub. L. 101–194\] (5 U.S.C. 5318 note) shall be the rate of pay that would be payable for each such office if the provisions of sections 703(a)(2)(B) and 1101(a)(1)(A) of such Act (5 U.S.C. 5318 note and 5305 note) had not been enacted."
 
 Pub. L. 101–194, title VII, §703, Nov. 30, 1989, 103 Stat. 1768, provided that:
 
@@ -92,7 +92,7 @@ Definitions.—For purposes of this paragraph—
 
 &emsp;&emsp;"(B)
 
-Method.—For purposes of the provisions of law amended by paragraph (2), the 'most recent percentage change in the ECI', as of any date, shall be one-half of 1 percent less than the percentage (rounded to the nearest one-tenth of 1 percent) derived by—
+Method.—For purposes of the provisions of law amended by paragraph (2), the 'most recent percentage change in the ECI', as of any date, shall beone-half of 1 percent less than the percentage (rounded to the nearest one-tenth of 1 percent) derived by—
 
 &emsp;&emsp;&emsp;"(i) reducing—
 
@@ -134,7 +134,7 @@ Pub. L. 97–377, title I, §129(b)–(d), Dec. 21, 1982, 96 Stat. 1914, reduced
 
 #### Fiscal Year 1983 Limitation on Use of Funds for Pay Adjustments for Certain Positions
 
-Section 306(a), (b), and (d) of S. 2939, Ninety-seventh Congress, 2nd Session, as reported Sept. 22, 1982, made applicable by Pub. L. 97–276, §101(e), Oct. 2, 1982, 96 Stat. 1189, as amended by Pub. L. 97–377, title I, §129(a), Dec. 21, 1982, 96 Stat. 1914, prohibited the use of funds appropriated for the fiscal year ending Sept. 30, 1983, to pay the salary or pay of any individual in an office or position in the legislative, executive, or judicial branch, or in the government of the District of Columbia, at a rate which exceeded the rate (or maximum rate, if higher) of salary or basic pay payable for such office or position for Sept. 30, 1982, if that rate was either fixed at a rate equal to or greater than the rate ofbasic pay for level V of the Executive Schedule under section 5316 of this title or limited to a maximum rate equal to or greater than the rate of basic pay for such level V under section 5308 of this title or any other provision of law or congressional resolution.
+Section 306(a), (b), and (d) of S. 2939, Ninety-seventh Congress, 2nd Session, as reported Sept. 22, 1982, made applicable by Pub. L. 97–276, §101(e), Oct. 2, 1982, 96 Stat. 1189, as amended by Pub. L. 97–377, title I, §129(a), Dec. 21, 1982, 96 Stat. 1914, prohibited the use of funds appropriated for the fiscal year ending Sept. 30, 1983, to pay the salary or pay of any individual in an office or position in the legislative, executive, or judicial branch, or in the government of the District of Columbia, at a rate which exceeded the rate (or maximum rate, if higher) of salary or basic pay payable for such office or position for Sept. 30, 1982, if that rate was either fixed at a rate equal to or greater than the rate of basic pay for level V of the Executive Schedule under section 5316 of this title or limited to a maximum rate equal to or greater than the rate of basic pay for such level V under section 5308 of this title or any other provision of law or congressional resolution.
 
 #### Fiscal Year 1982 Limitation on Use of Funds for Pay Adjustments for Certain Positions
 
@@ -152,7 +152,7 @@ Similar provisions were contained in Pub. L. 96–369, §101(c), Oct. 1, 1980, 9
 
 #### Fiscal Year 1980 Limitation on Use of Funds for Pay Adjustments for Certain Positions
 
-Pub. L. 96–86, §101(c), Oct. 12, 1979, 93 Stat. 657, for the fiscal year 1980, prohibited the use of funds available for payment to executive employees, including Members of Congress, entitled under existing law to approximately 12.9 percent increase in pay, to pay any such employee or official any sum in excess of 5.5 percent increase in existing pay, and such sum, if accepted, would be in lieu of the 12.9 percent due for such fiscal year. \[For information regarding constitutionality of certain provisions of section 101(c) of Pub. L. 96–86 as applied to Federal judges, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.\]
+Pub. L. 96–86, §101(c), Oct. 12, 1979, 93 Stat. 657, for the fiscal year 1980, prohibited the use of funds availablefor payment to executive employees, including Members of Congress, entitled under existing law to approximately 12.9 percent increase in pay, to pay any such employee or official any sum in excess of 5.5 percent increase in existing pay, and such sum, if accepted, would be in lieu of the 12.9 percent due for such fiscal year. \[For information regarding constitutionality of certain provisions of section 101(c) of Pub. L. 96–86 as applied to Federal judges, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.\]
 
 #### Fiscal Year 1979 Limitation on Use of Funds for Pay Adjustments for Certain Positions
 
@@ -166,5 +166,5 @@ Pub. L. 95–66, July 11, 1977, 91 Stat. 270, nullified the first adjustment in 
 
 #### Fiscal Year 1977 Limitation on Use of Funds for Pay Adjustments for Certain Positions
 
-Pub. L. 94–440, title II, Oct. 1, 1976, 90 Stat. 1446, prohibited the use of funds appropriated in any Act to pay the salary of an individual in a position or office referred to in section 356 of Title 2, The Congress, at a rate exceeding the salary rate for such position or office in effect on Sept. 30, 1976, except increases submitted by the President pursuant to sections 351 to 364 of Title 2. \[For information regarding constitutionality of certain provisions of title II of Pub. L. 94–440 as applied to Federal judges, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.\]
+Pub. L. 94–440, title II, Oct. 1, 1976, 90 Stat. 1446, prohibited the use of funds appropriated in any Act to pay the salary of an individual in a position or office referred to in section 356 of Title 2, The Congress, at a rate exceeding the salary rate for such position or office in effect on Sept. 30, 1976, except increases submitted by the President pursuant to sections 351 to 364 of Title 2.
 

@@ -4,6 +4,8 @@ This part shall be administered by one of the Assistant Directors appointed purs
 
 (Pub. L. 93–113, title I, §102, Oct. 1, 1973, 87 Stat. 396; Pub. L. 98–288, §3, May 21, 1984, 98 Stat. 189; Pub. L. 101–204, title I, §101(d)(1), Dec. 7, 1989, 103 Stat. 1811; Pub. L. 103–82, title III, §322(a), Sept. 21, 1993, 107 Stat. 899.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1993</b>—Pub. L. 103–82 substituted "This part shall be administered by one of the Assistant Directors appointed pursuant to section 12651e(d)(1)(A) of this title. Such Director" for "The Director".
@@ -12,7 +14,9 @@ This part shall be administered by one of the Assistant Directors appointed purs
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–288 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1993 Amendment
 
-Pub. L. 103–82, title III, §322(b), Sept. 21, 1993, 107 Stat. 899, provided that: "The amendments made bysubsection (a) \[amending this section\] shall take effect on the effective date of section 203(b)." \[Section 203(b) of Pub. L. 103–82 is effective 18 months after Sept. 21, 1993, or on such earlier date as the President shall determine to be appropriate and announce by proclamation in the Federal Register, see section 203(d) of Pub. L. 103–82, set out as a note under section 12651 of this title.\]
+Pub. L. 103–82, title III, §322(b), Sept. 21, 1993, 107 Stat. 899, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on the effective date of section 203(b)." \[Section 203(b) of Pub. L. 103–82 is effective 18 months after Sept. 21, 1993, or on such earlier date as the President shall determine to be appropriate and announce by proclamation in the Federal Register, see section 203(d) of Pub. L. 103–82, set out as a note under section 12651 of this title.\]
 

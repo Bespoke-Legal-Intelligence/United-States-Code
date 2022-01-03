@@ -2,7 +2,7 @@
 
 #### (a) Awards
 
-Awards of funds authorized under this Act or an amendment made by this Act shall be madeonly after an impartial review of the scientific and technical merit of the proposals for the awards has been carried out by or for the Department.
+Awards of funds authorized under this Act or an amendment made by this Act shall be made only after an impartial review of the scientific and technical merit of the proposals for the awards has been carried out by or for the Department.
 
 #### (b) Competition
 
@@ -24,7 +24,9 @@ It is the sense of Congress that research, development, demonstration, and comme
 
 (Pub. L. 109–58, title IX, §989, Aug. 8, 2005, 119 Stat. 911.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This Act, referred to in subsecs. (a) and (b), is Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 594, as amended, known as the Energy Policy Act of 2005, which enacted this chapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 15801 of this title and Tables.
+This Act, referred to in subsecs. (a) and (b), is Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 594, known as the Energy Policy Act of 2005, which enacted this chapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 15801 of this title and Tables.
 

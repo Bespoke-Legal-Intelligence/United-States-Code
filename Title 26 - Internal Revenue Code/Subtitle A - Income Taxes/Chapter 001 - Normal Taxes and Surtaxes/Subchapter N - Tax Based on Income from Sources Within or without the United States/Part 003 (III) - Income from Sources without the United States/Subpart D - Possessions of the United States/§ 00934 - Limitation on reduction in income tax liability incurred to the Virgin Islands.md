@@ -34,6 +34,8 @@ Tax liability incurred to the Virgin Islands pursuant to this subtitle, as made 
 
 (Added Pub. L. 86–779, §4(a)(1), Sept. 14, 1960, 74 Stat. 998; amended Pub. L. 94–455, title XIX, §§1901(a)(118), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1784, 1834; Pub. L. 97–248, title II, §213(b), Sept. 3, 1982, 96 Stat. 463; Pub. L. 97–455, §1(c), Jan. 12, 1983, 96 Stat. 2498; Pub. L. 98–369, div. A, title VIII, §801(d)(7), July 18, 1984, 98 Stat. 996; Pub. L. 99–514, title XII, §1275(a)(2)(A), (c)(1), (2), title XVIII, §1876(f)(2), Oct. 22, 1986, 100 Stat. 2598, 2900; Pub. L. 108–357, title VIII, §908(c)(3), Oct. 22, 2004, 118 Stat. 1656.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Subsec. (b)(4). Pub. L. 108–357 struck out "the Virgin Islands or" before "the United States" in two places.
@@ -66,9 +68,11 @@ Subsec. (f). Pub. L. 97–248, §213(b)(2), added a temporary subsec. (f) which 
 
 Subsec. (d). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary" in two places.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–357 applicable to taxable years ending after Oct. 22, 2004, see section 908(d)(1) ofPub. L. 108–357, set out as an Effective Date note under section 937 of this title.
+Amendment by Pub. L. 108–357 applicable to taxable years ending after Oct. 22, 2004, see section 908(d)(1) of Pub. L. 108–357, set out as an Effective Date note under section 937 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -102,7 +106,7 @@ Amendment by section 1901(a)(118) of Pub. L. 94–455 applicable with respect to
 
 #### Effective Date
 
-Pub. L. 86–779, §4(e)(1), Sept. 14, 1960, 74 Stat. 1000, provided that: "The amendments made by subsection (a) \[enacting this section\] shall apply to tax liability incurred with respect to taxable years beginning on or after January 1, 1960."
+Pub. L. 86–779, §4(e)(1), Sept. 14, 1960, 74 Stat. 1000, provided that: "The amendments made by subsection\(a) \[enacting this section\] shall apply to tax liability incurred with respect to taxable years beginning on or after January 1, 1960."
 
 #### Plan Amendments Not Required Until January 1, 1989
 

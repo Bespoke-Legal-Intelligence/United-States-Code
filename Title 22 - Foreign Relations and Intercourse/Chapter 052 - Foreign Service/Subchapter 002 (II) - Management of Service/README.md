@@ -19,5 +19,6 @@
 - [&sect; 03928 - Director General of Foreign Service](%C2%A7%2003928%20-%20Director%20General%20of%20Foreign%20Service.md)
 - [&sect; 03929 - Inspector General](%C2%A7%2003929%20-%20Inspector%20General.md)
 - [&sect; 03929a - Abolishment of Inspector General of Department of State and Foreign Service](%C2%A7%2003929a%20-%20Abolishment%20of%20Inspector%20General%20of%20Department%20of%20State%20and%20Foreign%20Service.md)
+- [&sect; 03929b - Cooperation with Office of the Inspector General](%C2%A7%2003929b%20-%20Cooperation%20with%20Office%20of%20the%20Inspector%20General.md)
 - [&sect; 03930 - Board of Foreign Service](%C2%A7%2003930%20-%20Board%20of%20Foreign%20Service.md)
 - [&sect; 03931 - Board of Examiners](%C2%A7%2003931%20-%20Board%20of%20Examiners.md)

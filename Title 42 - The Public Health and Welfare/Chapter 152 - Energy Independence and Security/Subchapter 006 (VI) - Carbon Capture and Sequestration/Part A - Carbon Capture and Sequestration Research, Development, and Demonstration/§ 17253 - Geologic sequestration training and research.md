@@ -46,6 +46,8 @@
 
 (Pub. L. 110–140, title VII, §705, Dec. 19, 2007, 121 Stat. 1709.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.

@@ -24,7 +24,7 @@ Funds received under this section shall be used to support activities to improve
 
 #### (c) Authorized activities
 
-Activities that may be carried out under this section include activities to improve services provided under this chapter, including the practices of professionals and others involved in providing such services to children with disabilities, that promote academic achievement and improve results for children with disabilities through—
+Activities that may be carried out under this section include activities to improve servicesprovided under this chapter, including the practices of professionals and others involved in providing such services to children with disabilities, that promote academic achievement and improve results for children with disabilities through—
 
 &emsp;(1) applying and testing research findings in typical settings where children with disabilities receive services to determine the usefulness, effectiveness, and general applicability of such research findings in such areas as improving instructional methods, curricula, and tools, such as textbooks and media;
 
@@ -78,13 +78,17 @@ In carrying out this section, the Secretary shall support projects that link Sta
 
 (Pub. L. 91–230, title VI, §663, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2781; amended Pub. L. 114–95, title IX, §9215(ss)(10), Dec. 10, 2015, 129 Stat. 2183.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Education Sciences Reform Act of 2002, referred to in subsec. (e), is title I of Pub. L. 107–279, Nov. 5, 2002,116 Stat. 1941, as amended. Part D of the Act is classified generally to part D (§9561 et seq.) of subchapter I of chapter 76 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9501 of this title and Tables.
+The Education Sciences Reform Act of 2002, referred to in subsec. (e), is title I of Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1941, as amended. Part D of the Act is classified generally to part D (§9561 et seq.) of subchapter I of chapter 76 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9501 of this title and Tables.
 
 #### Amendments
 
-<b>2015</b>—Subsec. (b)(2). Pub. L. 114–95, which directed amendment of subsec. (b)(2) by "striking and inserting the following:" followed by the text of a new par. (2), was executed by subtituting the new par. (2) for the existing par. (2) to reflect the probable intent of Congress. Prior to amendment, par. (2) read as follows: "improving the alignment, compatibility, and development of valid and reliable assessments and alternate assessments for assessing adequate yearly progress, as described under section 6311(b)(2)(B) of this title;".
+<b>2015</b>—Subsec. (b)(2). Pub. L. 114–95, which directed amendment of subsec. (b)(2) by "striking and inserting the following:" followed by the text of a new par. (2), was executed by substituting the new par. (2) for the existing par. (2) to reflect the probable intent of Congress. Prior to amendment, par. (2) read as follows: "improving the alignment, compatibility, and development of valid and reliable assessments and alternate assessments for assessing adequate yearly progress, as described under section 6311(b)(2)(B) of this title;".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

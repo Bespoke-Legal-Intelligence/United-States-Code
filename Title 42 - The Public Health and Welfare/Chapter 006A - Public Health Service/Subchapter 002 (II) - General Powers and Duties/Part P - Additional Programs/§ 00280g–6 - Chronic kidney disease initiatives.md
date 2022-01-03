@@ -30,11 +30,15 @@ There are authorized to be appropriated such sums as may be necessary for the pu
 
 (July 1, 1944, ch. 373, title III, §399R, as added Pub. L. 110–275, title I, §152(a), July 15, 2008, 122 Stat. 2551.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Another section 399R of act July 1, 1944, ch. 373, as added by Pub. L. 110–373, §2, Oct. 8, 2008, 122 Stat. 4047, was renumbered section 399S and is classified to section 280g–7 of this title.
 
 Another section 399R of act July 1, 1944, ch. 373, as added by Pub. L. 110–374, §3, Oct. 8, 2008, 122 Stat. 4051, was renumbered section 399T and is classified to section 280g–8 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13879. Advancing American Kidney Health
 
@@ -54,7 +58,7 @@ Sec. 2. <i>Policy</i>. It is the policy of the United States to:
 
 (c) increase access to kidney transplants by modernizing the organ recovery and transplantation systems and updating outmoded and counterproductive regulations.
 
-Sec. 3. <i>Announcing an Awareness Initiative on Kidney and Related Diseases</i>. Within 120 days of the date of this order \[July 10, 2019\], the Secretary of Health and Human Services (Secretary) shall launch an awareness initiative at the Department of Health and Human Services (Department) to aid the Secretary's efforts to educate patients and support programs that promote kidney disease awareness. The initiative shall develop proposals for the Secretary to support research regarding preventing, treating, and slowing progression of kidney disease; to improve kidney transplantation; and to share information with patients and providers to enhance awareness of the causes and consequences of kidney disease.
+Sec. 3. <i>Announcing an Awareness Initiative on Kidney and Related Diseases</i>. Within 120 days of the date of this order \[July 10, 2019\], the Secretary of Health and Human Services (Secretary) shall launch an awareness initiative at the Department of Health and Human Services (Department) to aid the Secretary's efforts to educate patients and support programs that promote kidney disease awareness. The initiative shall developproposals for the Secretary to support research regarding preventing, treating, and slowing progression of kidney disease; to improve kidney transplantation; and to share information with patients and providers to enhance awareness of the causes and consequences of kidney disease.
 
 Sec. 4. <i>Payment Model to Identify and Treat At-Risk Populations Earlier in Disease Development</i>. Within 30 days of the date of this order, the Secretary shall select a payment model to test innovations in compensation for providers of kidney care services based on kidney patient cost and quality outcomes. The model should broaden the range of care and Medicare payment options available to potential participants with a focus on delaying or preventing the onset of kidney failure, preventing unnecessary hospitalizations, and increasing the rate of transplants. It should aim at achieving these outcomes by creating incentives to provide care for Medicare beneficiaries who have advanced stages of kidney disease but who are not yet on dialysis. The selected model shall include options for flexible advance payments for nephrologists to better support their management and coordination of care for patients with kidney disease.
 
@@ -66,7 +70,7 @@ Sec. 6. <i>Encouraging the Development of an Artificial Kidney</i>. Within 120 d
 
 (b) produce a strategy for encouraging innovation in new therapies through the Kidney Innovation Accelerator (KidneyX), a public-private partnership between the Department and the American Society of Nephrology.
 
-Sec. 7. <i>Increasing Utilization of Available Organs</i>. (a) Within 90 days of the date of this order, the Secretary shall propose a regulation to enhance the procurement and utilization of organs available through deceased donation by revising Organ Procurement Organization (OPO) rules and evaluation metrics to establish moretransparent, reliable, and enforceable objective metrics for evaluating an OPO's performance.
+Sec. 7. <i>Increasing Utilization of Available Organs</i>. (a) Within 90 days of the date of this order, the Secretary shall propose a regulation to enhance the procurement and utilization of organs available through deceased donation by revising Organ Procurement Organization (OPO) rules and evaluation metrics to establish more transparent, reliable, and enforceable objective metrics for evaluating an OPO's performance.
 
 (b) Within 180 days of the date of this order, the Secretary shall streamline and expedite the process of kidney matching and delivery to reduce the discard rate. Removing process inefficiencies in matching and delivery that result in delayed acceptance by transplant centers will reduce the detrimental effects on organ quality of prolonged time with reduced or cut-off blood supply.
 

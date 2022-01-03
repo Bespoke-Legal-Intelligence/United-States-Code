@@ -8,6 +8,7 @@
 | [30504\.](%C2%A7%2030504%20-%20Grant%20program.md) | Grant program. |
 | [30505\.](%C2%A7%2030505%20-%20Severability.md) | Severability. |
 | [30506\.](%C2%A7%2030506%20-%20Rule%20of%20construction.md) | Rule of construction. |
+| [30507\.](%C2%A7%2030507%20-%20Jabara-Heyer%20NO%20HATE%20Act.md) | Jabara-Heyer NO HATE Act. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -22,3 +23,4 @@
 - [&sect; 30504 - Grant program](%C2%A7%2030504%20-%20Grant%20program.md)
 - [&sect; 30505 - Severability](%C2%A7%2030505%20-%20Severability.md)
 - [&sect; 30506 - Rule of construction](%C2%A7%2030506%20-%20Rule%20of%20construction.md)
+- [&sect; 30507 - Jabara-Heyer NO HATE Act](%C2%A7%2030507%20-%20Jabara-Heyer%20NO%20HATE%20Act.md)

@@ -12,7 +12,7 @@ The President may waive the requirements of section 6005 of this title if the Pr
 
 &emsp;(4) is moving toward establishing a free market economic system; and
 
-&emsp;(5) has committed itself to constitutional change that would ensure regular free and fair elections that meet the requirements of paragraph (2).
+&emsp;(5) has committed itself to constitutional change that would ensure regular free and fairelections that meet the requirements of paragraph (2).
 
 #### (b) Policies
 

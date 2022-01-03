@@ -46,13 +46,15 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 (Added Pub. L. 99–514, title VI, §631(a), Oct. 22, 1986, 100 Stat. 2271; amended Pub. L. 100–203, title X, §10223(a), Dec. 22, 1987, 101 Stat. 1330–411; Pub. L. 100–647, title I, §1006(e)(4), (5)(A), Nov. 10, 1988, 102 Stat. 3400.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Tax Reform Act of 1986, referred to in subsec. (d), is Pub. L. 99–514, Oct. 22, 1986, 100 Stat. 2085, as amended. Subtitle D (§§631–634) of title VI of the Tax Reform Act of 1986 enacted sections 336 and 337 of this title, amended sections 26, 311, 312, 332, 334, 338, 341, 346, 367, 453, 453B, 467, 852, 897, 1056, 1248, 1255, 1276, 1363, 1366, 1374, and 1375 of this title, and repealed former sections 333, 336, and 337 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Prior Provisions
 
-A prior section 337, acts Aug. 16, 1954, ch. 736, 68A Stat. 106; Sept. 2, 1958, Pub. L. 85–866, title I, §19, 72Stat. 1615; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§1901(a)(46), 1906(b)(13)(A), title XXI, §2118(a), 90 Stat. 1772, 1834, 1912; Nov. 6, 1978, Pub. L. 95–600, title VII, §701(i)(1), 92 Stat. 2904; Nov. 10, 1978, Pub. L. 95–628, §4(a), 92 Stat. 3628; Apr. 2, 1980, Pub. L. 96–223, title IV, §403(b)(2)(A), 94 Stat. 304; Oct. 19, 1980, Pub. L. 96–471, §2(c)(2), 94 Stat. 2254; Dec. 24, 1980, Pub. L. 96–589, §5(c), 94 Stat. 3405; Sept. 3, 1982, Pub. L. 97–248, title II, §224(c)(5), (6), 96 Stat. 489; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1804(e)(7)(A), 100 Stat. 2803, related to gain or loss on sales or exchanges in connection with certain liquidations, prior to repeal by Pub. L. 99–514, §631(a).
+A prior section 337, acts Aug. 16, 1954, ch. 736, 68A Stat. 106; Sept. 2, 1958, Pub. L. 85–866, title I, §19, 72 Stat. 1615; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§1901(a)(46), 1906(b)(13)(A), title XXI, §2118(a), 90 Stat. 1772, 1834, 1912; Nov. 6, 1978, Pub. L. 95–600, title VII, §701(i)(1), 92 Stat. 2904; Nov. 10, 1978, Pub. L. 95–628, §4(a), 92 Stat. 3628; Apr. 2, 1980, Pub. L. 96–223, title IV, §403(b)(2)(A), 94 Stat. 304; Oct. 19, 1980, Pub. L. 96–471, §2(c)(2), 94 Stat. 2254; Dec. 24, 1980, Pub. L. 96–589, §5(c), 94 Stat. 3405; Sept. 3, 1982, Pub. L. 97–248, title II, §224(c)(5), (6), 96 Stat. 489; Oct. 22, 1986, Pub. L. 99–514, title XVIII, §1804(e)(7)(A), 100 Stat. 2803, related to gain or loss on sales or exchanges in connection with certain liquidations, prior to repeal by Pub. L. 99–514, §631(a).
 
 #### Amendments
 
@@ -63,6 +65,8 @@ Subsec. (b)(2)(B)(ii). Pub. L. 100–647, §1006(e)(4)(C), substituted "an activ
 Subsec. (d). Pub. L. 100–647, §1006(e)(5)(A), in introductory provisions, substituted "amendments made by subtitle D of title VI of the Tax Reform Act of 1986" for "amendments made to this subpart by the Tax Reform Act of 1986", and in par. (1), substituted "this subchapter) or through the use of a regulated investment company, real estate investment trust, or tax-exempt entity" for "this subchapter)".
 
 <b>1987</b>—Subsec. (c). Pub. L. 100–203 inserted at end "For purposes of this section, the determination of whether any corporation is an 80-percent distributee shall be made without regard to any consolidated return regulation."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

@@ -24,7 +24,7 @@ If the interest is transferred to the donee spouse as sole joint tenant with the
 
 #### (e) Life estate with power of appointment in donee spouse
 
-Where the donor transfers an interest in property, if by such transfer his spouse is entitled for life to all of the income from the entire interest, or all the income from a specific portion thereof, payable annually or at more frequent intervals, with power in the donee spouse to appoint the entire interest, or such specific portion (exercisable in favor of such donee spouse, or of the estate of such donee spouse, or in favor of either, whether or not in each case the power is exercisable in favor of others), and with no power in any other person to appoint any part of such interest, or such portion, to any person other than the donee spouse—
+Where the donor transfers an interest in property, if by such transfer his spouse is entitled for life to all of the income from the entire interest, or all the income from a specific portion thereof, payable annually or at more frequent intervals,with power in the donee spouse to appoint the entire interest, or such specific portion (exercisable in favor of such donee spouse, or of the estate of such donee spouse, or in favor of either, whether or not in each case the power is exercisable in favor of others), and with no power in any other person to appoint any part of such interest, or such portion, to any person other than the donee spouse—
 
 &emsp;(1) the interest, or such portion, so transferred shall, for purposes of subsection (a) be considered as transferred to the donee spouse, and
 
@@ -126,6 +126,8 @@ If the spouse of the donor is not a citizen of the United States—
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 2515 and 2515A, referred to in subsec. (i)(3), were repealed by Pub. L. 97–34, title IV, §403(c)(3)(B), Aug. 13, 1981, 95 Stat. 302.
@@ -174,6 +176,8 @@ Subsec. (f)(1). Pub. L. 94–455, §1902(a)(12)(E), struck out "Territory" after
 
 <b>1970</b>—Subsec. (a). Pub. L. 91–614 substituted "quarter" for "year" in two places.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–486 applicable to gifts made after Oct. 24, 1992, see section 1941(c)(2) of Pub. L. 102–486, set out as a note under section 2056 of this title.
@@ -186,7 +190,7 @@ Amendment by Pub. L. 101–508 effective as if included in the provision of the 
 
 Pub. L. 101–239, title VII, §7815(d)(1)(B), Dec. 19, 1989, 103 Stat. 2415, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall apply with respect to gifts made after June 29, 1989."
 
-Amendment by section 7815(d)(2) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by section 7815(d)(2) of Pub. L. 101–239 effective, except as otherwise provided, as if included inthe provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -224,7 +228,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Special Rule for Certain Transfers in October 1984
 
-Pub. L. 99–514, title XVIII, §1879(n)(3), Oct. 22, 1986, 100 Stat. 2910, provided that: "An election under section2523(f) of the Internal Revenue Code of 1954 \[now 1986\] with respect to an interest in property which—
+Pub. L. 99–514, title XVIII, §1879(n)(3), Oct. 22, 1986, 100 Stat. 2910, provided that: "An election under section 2523(f) of the Internal Revenue Code of 1954 \[now 1986\] with respect to an interest in property which—
 
 &emsp;"(A) was transferred during October 1984, and
 

@@ -2,7 +2,7 @@
 
 As used in this subchapter—
 
-&emsp;(1) the term "agency" means any executive department, military department, Government corporation, Government controlled corporation, or other establishment in the executive branch of the Government (including the Executive Office of the President), or anyindependent regulatory agency, but does not include—
+&emsp;(1) the term "agency" means any executive department, military department, Government corporation, Government controlled corporation, or other establishment in the executive branch of the Government (including the Executive Office of the President), or any independent regulatory agency, but does not include—
 
 &emsp;&emsp;(A) the Government Accountability Office;
 
@@ -74,7 +74,7 @@ As used in this subchapter—
 
 &emsp;(18) the term "machine-readable", when used with respect to data, means data in a format that can be easily processed by a computer without human intervention while ensuring no semantic meaning is lost;
 
-&emsp;(19) the term "metadata" means structural or descriptive information about data such ascontent, format, source, rights, accuracy, provenance, frequency, periodicity, granularity, publisher or responsible party, contact information, method of collection, and other descriptions;
+&emsp;(19) the term "metadata" means structural or descriptive information about data such as content, format, source, rights, accuracy, provenance, frequency, periodicity, granularity, publisher or responsible party, contact information, method of collection, and other descriptions;
 
 &emsp;(20) the term "open Government data asset" means a public data asset that is—
 
@@ -132,7 +132,7 @@ Pub. L. 111–203, §315, inserted "Office of the Comptroller of the Currency," 
 
 #### Effective Date of 2019 Amendment
 
-Amendment by Pub. L. 115–435 effective 180 days after Jan. 14, 2019, see section 403 of Pub. L. 115–435, set out as a note under section 306 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 115–435 effective 180 days after Jan. 14, 2019, see section 403 of Pub. L. 115–435, set outas a note under section 306 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2010 Amendment
 
@@ -154,5 +154,5 @@ Section effective Oct. 1, 1995, except as otherwise provided, see section 4(a) o
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwiseprovided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 1302 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 1301 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 1301 of Title 49.
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 1302 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 1301 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 1301 of Title 49.
 

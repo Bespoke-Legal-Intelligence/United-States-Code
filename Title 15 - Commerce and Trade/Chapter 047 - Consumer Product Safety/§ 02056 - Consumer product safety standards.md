@@ -28,6 +28,8 @@ If any person participates with the Commission in the development of a consumer 
 
 (Pub. L. 92–573, §7, Oct. 27, 1972, 86 Stat. 1212; Pub. L. 94–284, §§6, 7, 8(a), May 11, 1976, 90 Stat. 505, 506; Pub. L. 95–631, §§3, 4(a)–(c), 5, Nov. 10, 1978, 92 Stat. 3742–3744; Pub. L. 97–35, title XII, §1202, Aug. 13, 1981, 95 Stat. 703; Pub. L. 101–608, title I, §107(a), Nov. 16, 1990, 104 Stat. 3111.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 In subsec. (c), "section 3324(a) and (b) of title 31" substituted for "section 3648 of the Revised Statutes of the United States (31 U.S.C. 529)" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
@@ -54,7 +56,7 @@ Subsec. (c). Pub. L. 95–631, §5, amended subsec. (c) generally, inserting pro
 
 Subsec. (d)(1). Pub. L. 95–631, §4(a)(1), inserted "subsection (b)(2) and by" after "as provided by" and substituted references to subsec. (b)(1)(D)(ii)(I) for (b)(4)(B) of this section and subsec. (b)(1)(E) for (b) of this section.
 
-Subsec. (d)(2). Pub. L. 95–631, §4(a)(2)(A)–(C), inserted in first sentence "or if any person participates with the Commission in the development of a consumer product safety standard under subsection (b)(2)(A) or subsection (e) of this section" after "under this subsection", "or the person's cost with respect to such participation" after "safety standards" and "or person" after "offeror".
+Subsec. (d)(2). Pub. L. 95–631, §4(a)(2)(A)–(C), inserted in first sentence "or if any person participates with theCommission in the development of a consumer product safety standard under subsection (b)(2)(A) or subsection (e) of this section" after "under this subsection", "or the person's cost with respect to such participation" after "safety standards" and "or person" after "offeror".
 
 Subsec. (d)(4). Pub. L. 95–631, §4(a)(3), added par. (4).
 
@@ -71,6 +73,8 @@ Subsec. (d)(2). Pub. L. 94–284, §8(a), inserted provision which permits the C
 Subsec. (e). Pub. L. 94–284, §7(b), permitted the Commission to develop and publish a proposed consumer safety product rule if the development period as specified in par. (3) ends.
 
 Subsec. (f). Pub. L. 94–284, §7(c), provided that if within 60 days after publication of notice for a proceeding for the development of a consumer product safety standard (or longer if the Commission so prescribe), no offer is submitted or none is acceptable, the Commission terminate the proceeding or develop proposals of its own, which proposals be published as a rule within 150 days after the expiration of the 60 day period or the proceeding then terminated, and that if an offer is accepted within the 60 day period, then within 210 days after acceptance, the Commission must publish the proposal as a rule or terminate the proceeding.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1981 Amendment
 
@@ -120,7 +124,7 @@ Report.—Not later than 2 years after the date of enactment of this Act \[July 
 
 &emsp;"(3) incidents involving children interacting with portable gasoline containers (including both those that are and are not in compliance with the standard promulgated under subsection (a))."
 
-\[Amendment by Pub. L. 116–260 to section 2(c) of Pub. L. 110–278, set out above, effective 6 months after Dec. 27, 2020, see section 2056d(c)(2) of this title.\]
+\[Amendment by Pub. L. 116–260 effective 6 months after Dec. 27, 2020, see section 2056d(c)(2) of this title.\]
 
 #### Automatic Garage Door Openers
 
@@ -138,7 +142,7 @@ Requirements.—
 
 &emsp;"(2)(A) Effective on and after January 1, 1993, all residential automatic garage door openers manufactured on and after such date for sale in the United States shall conform to any additional entrapment protection requirements of the American National Standards Institute Underwriters Laboratories, Inc. Standards for Safety—UL 325, third edition, which were issued after the date of the enactment of this Act \[Nov. 16, 1990\] to become effective on or before January 1, 1993.
 
-&emsp;"(B) If, by June 1, 1992, the Underwriters Laboratories, Inc., has not issued a revision to the May 4, 1988, Standards for Safety—UL 325, third edition, to require an entrapment protection feature or device in addition to that required by the May 4, 1988, Standard, the Consumer Product Safety Commission shall begin a rulemaking proceeding, to be completed no later than October 31, 1992, to require an additional such feature or device on all automatic residential garage door openers manufactured on or after January 1, 1993, for sale in the United States. If such a revision is issued by the Underwriters Laboratories, Inc. after the rulemaking has commenced, the rulemaking shall be terminated and the revision shall be incorporated in the consumer product safety rule under subsection (a) unless the Commission has determined under subsection (c) that such revision does not carry out the purposes of subsection (b).
+&emsp;"(B) If, by June 1, 1992, the Underwriters Laboratories, Inc., has not issued a revision to the May 4,1988, Standards for Safety—UL 325, third edition, to require an entrapment protection feature or device in addition to that required by the May 4, 1988, Standard, the Consumer Product Safety Commission shall begin a rulemaking proceeding, to be completed no later than October 31, 1992, to require an additional such feature or device on all automatic residential garage door openers manufactured on or after January 1, 1993, for sale in the United States. If such a revision is issued by the Underwriters Laboratories, Inc. after the rulemaking has commenced, the rulemaking shall be terminated and the revision shall be incorporated in the consumer product safety rule under subsection (a) unless the Commission has determined under subsection (c) that such revision does not carry out the purposes of subsection (b).
 
 "(c)
 
@@ -154,7 +158,7 @@ Notification.—Effective on and after July 1, 1991, all manufacturers of automa
 
 "(f)
 
-Preemption.—In applying section 26(a) of the Consumer Product Safety Act (15 U.S.C. 2075) \[15 U.S.C. 2075(a)\] with respect to the consumer product safety rule of the Consumer Product Safety Commission under subsection (a), only those provisions of laws of States or political subdivisions which relate to the labeling of automatic residential garage door openers and those provisions which do not provide at least the equivalentdegree of protection from the risk of injury associated with automatic residential garage door openers as the consumer product safety rule provides shall be subject to such section.
+Preemption.—In applying section 26(a) of the Consumer Product Safety Act (15 U.S.C. 2075) \[15 U.S.C. 2075(a)\] with respect to the consumer product safety rule of the Consumer Product Safety Commission under subsection (a), only those provisions of laws of States or political subdivisions which relate to the labeling of automatic residential garage door openers and those provisions which do not provide at least the equivalent degree of protection from the risk of injury associated with automatic residential garage door openers as the consumer product safety rule provides shall be subject to such section.
 
 "(g)
 

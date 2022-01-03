@@ -32,7 +32,7 @@ With respect to a loan made under section 636(b)(2) of this title in response to
 
 &emsp;(2) the requirement that an applicant needs to be in business for the 1-year period before the disaster, except that no waiver may be made for a business that was not in operation on January 31, 2020; and
 
-&emsp;(3) the requirement in the flush matter following subparagraph (E) of section 636(b)(2) of this title, as so redesignated by subsection (f) of this section,<sup>2</sup> that an applicant be unable to obtain credit elsewhere.
+&emsp;(3) the requirement in the flush matter following subparagraph (E) of section 636(b)(2) ofthis title, as so redesignated by subsection (f) of this section,<sup>2</sup> that an applicant be unable to obtain credit elsewhere.
 
 #### (d) Approval and ability to repay for small dollar loans
 
@@ -106,6 +106,8 @@ With respect to a loan made under section 636(b)(2) of this title in response to
 
 (Pub. L. 116–136, div. A, title I, §1110, Mar. 27, 2020, 134 Stat. 306; Pub. L. 116–139, div. A, §101(b), (c), Apr. 24, 2020, 134 Stat. 620, 621; Pub. L. 116–260, div. N, title III, §§332, 333(c), Dec. 27, 2020, 134 Stat. 2045, 2046.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is comprised of section 1110 of Pub. L. 116–136. Subsec. (f) of section 1110 of Pub. L. 116–136 amended section 636 of this title.
@@ -124,7 +126,7 @@ Subsec. (d)(1), (2). Pub. L. 116–260, §332(2), added pars. (1) and (2) and st
 
 Subsec. (e)(1). Pub. L. 116–260, §332(3)(A), designated existing provisions as subpar. (A), inserted heading, struck out "within 3 days after the Administrator receives an application from such applicant" after "to such applicant", and added subpar. (B).
 
-Subsec. (e)(6). Pub. L. 116–260, §333(c), struck out par. (6). Text read as follows: "If an applicant that receives an advance under this subsection transfers into, or is approved for, the loan program under section 636(a) of this title, the advance amount shall be reduced from the loan forgiveness amount for a loan for payroll costs made under such section 636(a) of this title."
+Subsec. (e)(6). Pub. L. 116–260, §333(c), struck out par. (6). Text read as follows: "If an applicant that receives an advance under this subsection transfers into, or is approved for, the loan program under section 636(a) ofthis title, the advance amount shall be reduced from the loan forgiveness amount for a loan for payroll costs made under such section 636(a) of this title."
 
 Subsec. (e)(7). Pub. L. 116–260, §332(3)(B), substituted "$40,000,000,000" for "$20,000,000,000".
 
@@ -132,11 +134,47 @@ Pub. L. 116–139, §101(b), substituted "$20,000,000,000" for "$10,000,000,000"
 
 Subsec. (e)(8). Pub. L. 116–260, §332(3)(C), substituted "December 31, 2021" for "December 31, 2020".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2020 Amendment
 
 Pub. L. 116–260, div. N, title III, §333(d), Dec. 27, 2020, 134 Stat. 2046, provided that: "The amendment made by subsection (c) \[amending this section\] shall be effective as if included in the CARES Act (Public Law 116–136; 134 Stat. 281)."
 
-Except as otherwise provided, amendment by Pub. L. 116–260 effective on Dec. 27, 2020, and applicable to loans and grants made on or after Dec. 27, 2020, see section 348 of div. N of Pub. L. 116–260, set out as a note under section 636 of this title.
+Except as otherwise provided, amendment by Pub. L. 116–260 effective on Dec. 27, 2020, and applicable to loans and grants made on or after Dec. 27, 2020, see section 348 of Pub. L. 116–260, set out as a note under section 636 of this title.
+
+#### Targeted EIDL Advance
+
+Pub. L. 117–2, title V, §5002, Mar. 11, 2021, 135 Stat. 85, provided that:
+
+"(a)
+
+Definitions.—In this section—
+
+&emsp;"(1) the term 'Administrator' means the Administrator of the Small Business Administration; and
+
+&emsp;"(2) the terms 'covered entity' and 'economic loss' have the meanings given the terms in section 331(a) of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act (title III of division N of Public Law 116–260) \[15 U.S.C. 9009b(a)\].
+
+"(b)
+
+Appropriations.—In addition to amounts otherwise available, there is appropriated to the Administrator for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $15,000,000,000—
+
+&emsp;"(1) to remain available until expended; and
+
+&emsp;"(2) of which, the Administrator shall use—
+
+&emsp;&emsp;"(A) $10,000,000,000 to make payments to covered entities that have not received the full amounts to which the covered entities are entitled under section 331 of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act (title III of division N of Public Law 116–260) \[15 U.S.C. 9009b\]; and
+
+&emsp;&emsp;"(B) $5,000,000,000 to make payments under section 1110(e) of the CARES Act (15 U.S.C. 9009(e)), each of which shall be—
+
+&emsp;&emsp;&emsp;"(i) made to a covered entity that—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) has suffered an economic loss of greater than 50 percent; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) employs not more than 10 employees;
+
+&emsp;&emsp;&emsp;"(ii) in an amount that is $5,000; and
+
+&emsp;&emsp;&emsp;"(iii) with respect to the covered entity to which the payment is made, in addition to any payment made to the covered entity under section 1110(e) of the CARES Act (15 U.S.C. 9009(e)) or section 331 of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act (title III of division N of Public Law 116–260)."
 
 #### Clarification of Tax Treatment of Certain Loan Forgiveness and Other Business Financial Assistance
 

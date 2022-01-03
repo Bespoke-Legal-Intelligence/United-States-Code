@@ -8,7 +8,7 @@ Prior to the date upon which rail properties are conveyed to the Corporation und
 
 &emsp;(2) to improve rail properties of such railroads; and
 
-&emsp;(3) to acquire rail properties for lease or loan to any such railroads until the date such rail properties are conveyed under this chapter,and subsequently for conveyance pursuant to the final system plan, or to acquire interests in such rail properties owned by or leased to any such railroads or in purchase money obligations therefor.
+&emsp;(3) to acquire rail properties for lease or loan to any such railroads until the date such rail properties are conveyed under this chapter, and subsequently for conveyance pursuant to the final system plan, or to acquire interests in such rail properties owned by or leased to any such railroads or in purchase money obligations therefor.
 
 #### (b) Conditions
 

@@ -26,7 +26,7 @@ Each such application shall include—
 
 &emsp;(5) a description of how the State will determine the amount of any subgrants the State will award to local operating agencies, taking into account the numbers and needs of migratory children, the requirements of subsection (d), and the availability of funds from other Federal, State, and local programs; and
 
-&emsp;(6) a description of how the State will encourage programs and projects assisted underthis part to offer family literacy services if the program or project serves a substantial number of migratory children whose parents do not have a high school diploma or its recognized equivalent or who have low levels of literacy.
+&emsp;(6) a description of how the State will encourage programs and projects assisted under this part to offer family literacy services if the program or project serves a substantial number of migratory children whose parents do not have a high school diploma or its recognized equivalent or who have low levels of literacy.
 
 #### (c) Assurances
 
@@ -86,6 +86,8 @@ Notwithstanding any other provision of this part—
 
 (Pub. L. 89–10, title I, §1304, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1574; amended Pub. L. 114–95, title I, §1301(c), Dec. 10, 2015, 129 Stat. 1896.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 6394, Pub. L. 89–10, title I, §1304, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3587; amended Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §1605\], Dec. 21, 2000, 114 Stat. 2763, 2763A–334, related to State applications and services, prior to the general amendment of this subchapter by Pub. L. 107–110.
@@ -121,6 +123,8 @@ Subsec. (c)(6) to (8). Pub. L. 114–95, §1301(c)(2)(E)–(G), added pars. (6) 
 Subsec. (d). Pub. L. 114–95, §1301(c)(3), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: "In providing services with funds received under this part, each recipient of such funds shall give priority to migratory children who are failing, or most at risk of failing, to meet the State's challenging State academic content standards and challenging State student academic achievement standards, and whose education has been interrupted during the regular school year."
 
 Subsec. (e)(3). Pub. L. 114–95, §1301(c)(4), substituted "students" for "secondary school students".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

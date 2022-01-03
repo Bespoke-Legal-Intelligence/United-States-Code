@@ -42,6 +42,8 @@ Authorized officers may, shoreward of the outer boundary of the exclusive econom
 
 (Pub. L. 102–567, title VIII, §809, Oct. 29, 1992, 106 Stat. 4312; Pub. L. 102–587, title VIII, §8009, Nov. 4, 1992, 106 Stat. 5101; Pub. L. 106–562, title III, §304(a), Dec. 23, 2000, 114 Stat. 2806.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Title VIII of Pub. L. 102–567 and Pub. L. 102–587 enacted substantially identical sections. Title VIII of Pub. L. 102–587 was repealed by Pub. L. 106–562.

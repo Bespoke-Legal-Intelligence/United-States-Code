@@ -22,7 +22,7 @@ The Secretary shall approve a State to be a participating State, if—
 
 &emsp;&emsp;(C) sets forth internal control, compliance, and reporting requirements as established by the Secretary, and such other terms and conditions necessary to carry out the purposes of this chapter, including an agreement by the State to allow the Secretary to audit State programs;
 
-&emsp;&emsp;(D) requires that the State program be fully positioned, within 90 days of the State's execution of the allocation agreement with the Secretary, to act on providingthe kind of credit support that the State program was established to provide; and
+&emsp;&emsp;(D) requires that the State program be fully positioned, within 90 days of the State's execution of the allocation agreement with the Secretary, to act on providing the kind of credit support that the State program was established to provide; and
 
 &emsp;&emsp;(E) includes an agreement by the State to deliver to the Secretary, and update annually, a schedule describing how the State intends to apportion among its State programs the Federal funds allocated to the State.
 
@@ -38,11 +38,11 @@ A State may be approved to be a participating State, and be eligible for an allo
 
 #### (1) Circumstances when a municipality may apply directly
 
-&emsp;If a State does not, within 60 days after September 27, 2010, file with the Secretary a notice of its intent to apply for approval by the Secretary of a State program or within 9 months after September 27, 2010, file with the Secretary a complete application for approval of a State program, the Secretary may grant to municipalities of that State a special permission that will allow them to apply directly to the Secretary without the State for approval to be participating municipalities.
+&emsp;If a State does not, within 60 days after March 11, 2021, file with the Secretary a notice of its intent to apply for approval by the Secretary of a State program or within 9 months after March 11, 2021, file with the Secretary a complete application for approval of a State program, the Secretary may grant to municipalities of that State a special permission that will allow them to apply directly to the Secretary without the State for approval to be participating municipalities.
 
 #### (2) Timing requirements applicable to municipalities applying directly
 
-&emsp;To qualify for the special permission, a municipality of a State shall be required, within 12 months after September 27, 2010, to file with the Secretary a complete application for approval by the Secretary of a State program.
+&emsp;To qualify for the special permission, a municipality of a State shall be required, within 12 months after March 11, 2021, to file with the Secretary a complete application for approval by the Secretary of a State program.
 
 #### (3) Notices of intent and applications from more than 1 municipality
 
@@ -70,5 +70,17 @@ A State may be approved to be a participating State, and be eligible for an allo
 
 &emsp;If the Secretary approves municipalities to be participating municipalities under this subsection, the Secretary shall take into account the additional considerations in section 5705(d) of this title in making the determination under section 5704 or 5705 of this title that the State program or programs to be implemented by the participating municipalities, including a State capital access program, is eligible for Federal contributions to, or for the account of, the State program.
 
-(Pub. L. 111–240, title III, §3004, Sept. 27, 2010, 124 Stat. 2573.)
+(Pub. L. 111–240, title III, §3004, Sept. 27, 2010, 124 Stat. 2573; Pub. L. 117–2, title III, §3301(a)(1)(B), Mar. 11, 2021, 135 Stat. 69.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2021</b>—Subsec. (d)(1), (2). Pub. L. 117–2 substituted "March 11, 2021" for "September 27, 2010" whenever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 117–2 applicable with respect to funds appropriated under section 3301 of Pub. L. 117–2 and funds appropriated on and after Mar. 11, 2021, see section 3301(g) of Pub. L. 117–2, set out as a note under section 5701 of this title.
 

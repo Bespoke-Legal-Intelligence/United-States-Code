@@ -6,13 +6,15 @@
 
 &emsp;(2) a summary of the use of such funds during the preceding fiscal year;
 
-&emsp;(3) with respect to the action grants authorized under section 5318 of this title, a listing of each unit of general local government receiving funds and the amount of such grants, as well as a brief summary of the projects funded for each such unit, the extent of financial participation by other public or private entities, and the impact on employment and economic activity of such projects during the previous fiscal year; and
+&emsp;(3) with respect to the action grants authorized under section 5318 of this title, a listing of each unit of general local government receiving funds and the amount of such grants, as well as a brief summary of the projects funded for each such unit, the extent of financial participation by other public or private entities,and the impact on employment and economic activity of such projects during the previous fiscal year; and
 
 &emsp;(4) a description of the activities carried out under section 5308 of this title.
 
 (b) The Secretary is authorized to require recipients of assistance under this chapter to submit to him such reports and other information as may be necessary in order for the Secretary to make the report required by subsection (a).
 
-(Pub. L. 93–383, title I, §113, Aug. 22, 1974, 88 Stat. 651; Pub. L. 95–128, title I, §109, Oct. 12,1977, 91 Stat. 1124; Pub. L. 97–35, title III, §309(l), Aug. 13, 1981, 95 Stat. 397; Pub. L. 101–625, title IX, §910(h), Nov. 28, 1990, 104 Stat. 4392.)
+(Pub. L. 93–383, title I, §113, Aug. 22, 1974, 88 Stat. 651; Pub. L. 95–128, title I, §109, Oct. 12, 1977, 91 Stat. 1124; Pub. L. 97–35, title III, §309(l), Aug. 13, 1981, 95 Stat. 397; Pub. L. 101–625, title IX, §910(h), Nov. 28, 1990, 104 Stat. 4392.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -25,6 +27,8 @@ This chapter, referred to in text, was in the original "this title", meaning tit
 <b>1981</b>—Subsec. (a)(2). Pub. L. 97–35 struck out requirement respecting approval by the Secretary.
 
 <b>1977</b>—Subsec. (a)(3). Pub. L. 95–128 added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1981 Amendment
 

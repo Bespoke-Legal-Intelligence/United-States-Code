@@ -16,7 +16,7 @@ New mexico.—The counties of Catron, Chaves, Dona Ana, Eddy, Grant, Hidalgo, Li
 
 &emsp;(4)
 
-Texas.—The counties of Atascosa, Bandera, Bee, Bexar, Brewster, Brooks, Cameron, Coke, Concho, Crane, Crockett, Culberson, Dimmit, Duval, Ector, Edwards, El Paso, Frio, Gillespie, Glasscock, Hidalgo, Hudspeth, Irion, Jeff Davis, Jim Hogg, Jim Wells, Karnes, Kendall, Kenedy, Kerr, Kimble, Kinney, Kleberg, La Salle, Live Oak, Loving, Mason, Maverick, McMullen, Medina, Menard, Midland, Nueces, Pecos, Presidio, Reagan, Real, Reeves, San Patricio, Shleicher, Sutton, Starr, Sterling, Terrell, Tom Green <sup>1</sup> Upton, Uvalde, Val Verde, Ward, Webb, Willacy, Wilson, Winkler, Zapata, and Zavala in the State of Texas.
+Texas.—The counties of Atascosa, Bandera, Bee, Bexar, Brewster, Brooks, Cameron, Coke, Concho, Crane, Crockett, Culberson, Dimmit, Duval, Ector, Edwards, El Paso, Frio, Gillespie, Glasscock, Hidalgo, Hudspeth, Irion, Jeff Davis, Jim Hogg, Jim Wells, Karnes, Kendall, Kenedy, Kerr, Kimble, Kinney, Kleberg, La Salle, Live Oak, Loving, Mason, Maverick, McMullen, Medina, Menard, Midland, Nueces, Pecos, Presidio, Reagan,Real, Reeves, San Patricio, Shleicher, Sutton, Starr, Sterling, Terrell, Tom Green <sup>1</sup> Upton, Uvalde, Val Verde, Ward, Webb, Willacy, Wilson, Winkler, Zapata, and Zavala in the State of Texas.
 
 (Added Pub. L. 110–234, title XIV, §14217(a)(2), May 22, 2008, 122 Stat. 1481, and Pub. L. 110–246, §4(a), title XIV, §14217(a)(2), June 18, 2008, 122 Stat. 1664, 2243.)
 

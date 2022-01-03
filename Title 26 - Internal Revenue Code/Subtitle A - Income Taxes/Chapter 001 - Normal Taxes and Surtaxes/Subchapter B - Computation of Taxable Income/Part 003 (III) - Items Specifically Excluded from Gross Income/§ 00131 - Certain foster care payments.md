@@ -70,7 +70,9 @@ For purposes of this section—
 
 &emsp;&emsp;(B) 5 qualified foster individuals not described in subparagraph (A).
 
-(Added Pub. L. 97–473, title I, §102(a), Jan. 14, 1983, 96 Stat. 2606; amended Pub. L. 99–514, titleXVII, §1707(a), Oct. 22, 1986, 100 Stat. 2781; Pub. L. 107–147, title IV, §404(a)–(c), Mar. 9, 2002, 116 Stat. 41.)
+(Added Pub. L. 97–473, title I, §102(a), Jan. 14, 1983, 96 Stat. 2606; amended Pub. L. 99–514, title XVII, §1707(a), Oct. 22, 1986, 100 Stat. 2781; Pub. L. 107–147, title IV, §404(a)–(c), Mar. 9, 2002, 116 Stat. 41.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -109,6 +111,8 @@ Subsec. (b). Pub. L. 99–514 amended subsec. (b) generally. Prior to amendment,
 &emsp;&emsp;"(ii) an organization which is licensed by a State (or political subdivision thereof) as a child-placing agency and which is described in section 501(c)(3) and exempt from tax under section 501(a)."
 
 Subsec. (c). Pub. L. 99–514, in amending subsec. (c) generally, in par. (1)(A), substituted references to "qualified foster individual", "such individual", and "foster care provider" for references to "qualified foster child", "such child", and "foster parent", respectively, and in par. (2) substituted "more than (A) 10 qualified foster individuals who have not attained age 19, and (B) 5 qualified foster individuals not described in subparagraph (A)" for "more than 10 qualified foster children".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(II) necessary to the administration of the case.
 
-(B) In a chapter 12 or chapter 13 case in which the debtor is an individual, the court may allow reasonable compensation to the debtor's attorney for representing the interests of the debtor in connection with the bankruptcy case based on a consideration of the benefit and necessity of such services to the debtor and the other factors set forth in this section.
+(B) In a chapter 12 or chapter 13 case in which the debtor is an individual, the court may allow reasonable compensation to the debtor's attorney for representing the interests of the debtor in connection with the bankruptcy case based on a consideration of the benefit and necessityof such services to the debtor and the other factors set forth in this section.
 
 (5) The court shall reduce the amount of compensation awarded under this section by the amount of any interim compensation awarded under section 331, and, if the amount of such interim compensation exceeds the amount of compensation awarded under this section, may order the return of the excess to the estate.
 
@@ -58,7 +58,7 @@
 
 (2) Deposits into the Chapter 7 Trustee Fund under section 589a(f)(1)(C) of title 28 shall be available until expended for the purposes described in paragraph (3).
 
-(3) For fiscal years 2021 through 2026, the Chapter 7 Trustee Fund shall be available to pay the trustee serving in a case that is filed under chapter 7 or a case that is converted to a chapter 7 case in the most recent fiscal year (referred to in this subsection as a "chapter 7 case") the amount described in paragraph (4) for the chapter 7 case in which the trustee has rendered services in that fiscal year.
+(3) For fiscal years 2021 through 2026, the Chapter 7 Trustee Fund shall be available to pay the trustee serving in a case that is filed under chapter 7 or a case that is converted to a chapter 7 case in the most recent fiscal year (referred to in this subsection as a "chapter 7 case") the amount described in paragraph (4) for the chapter 7 case in which the trustee has rendered services.
 
 (4) The amount described in this paragraph shall be the lesser of—
 
@@ -70,7 +70,7 @@
 
 (6) Not later than September 30, 2021, the Director of the Administrative Office of the United States Courts shall promulgate regulations for the administration of this subsection.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2564; Pub. L. 98–353, title III, §§433, 434, July 10, 1984, 98 Stat. 370; Pub. L. 99–554, title II, §§211, 257(f), Oct. 27, 1986, 100 Stat. 3099, 3114; Pub. L. 103–394, title I, §117, title II, §224(b), Oct. 22, 1994, 108 Stat. 4119, 4130; Pub. L. 109–8, title II, §232(b), title IV, §§407, 415, title XI, §1104(b), Apr. 20, 2005, 119 Stat. 74, 106, 107, 192; Pub. L. 116–325, §3(c), Jan. 12, 2021, 134 Stat. 5087.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2564; Pub. L. 98–353, title III, §§433, 434, July 10, 1984, 98 Stat. 370; Pub. L. 99–554, title II, §§211, 257(f), Oct. 27, 1986, 100 Stat. 3099, 3114; Pub. L. 103–394, title I, §117, title II, §224(b), Oct. 22, 1994, 108 Stat. 4119, 4130; Pub. L. 109–8, title II, §232(b), title IV, §§407, 415, title XI, §1104(b), Apr. 20, 2005, 119 Stat. 74, 106, 107, 192; Pub. L. 116–325, §3(c), Jan. 12, 2021, 134 Stat. 5087; Pub. L. 117–43, div. A, §131, Sept. 30, 2021, 135 Stat. 351.)
 
 #### Historical and Revision Notes
 
@@ -90,7 +90,7 @@ Section 330(b) of H.R. 8200 as passed by the House is retained by the House amen
 
 Section 330 authorizes the court to award compensation for services and reimbursement of expenses of officers of the estate, and other professionals. The compensation is to be reasonable, for economy in administration is the basic objective. Compensation is to be for actual necessary services, based on the time spent, the nature, the extent and the value of the services rendered, and the cost of comparable services in nonbankruptcy cases. There are the criteria that have been applied by the courts as analytic aids in defining "reasonable" compensation.
 
-The reference to "the cost of comparable services" in a nonbankruptcy case is not intended as a change of existing law. In a bankruptcy case fees are not a matter for private agreement. There is inherent a "public interest" that "must be considered in awarding fees," <i>Massachusetts Mutual Life Insurance Co. v. Brock</i>, 405 F.2d 429, 432 (C.A.5, 1968), cert. denied, 395 U.S. 906 (1969). An allowance is the result of a balance struck between moderation in the interest of the estate and its security holders and the need to be "generous enough to encourage" lawyers and others to render the necessary and exacting services that bankruptcy cases often require. <i>In re Yale Express System, Inc</i>., 366 F.Supp. 1376, 1381 (S.D.N.Y. 1973). The rates for similar kinds of services in private employment is one element, among others, in that balance. Compensation in private employment noted in subsection (a) is a point of reference, not a controlling determinant of what shall be allowed in bankruptcy cases.
+The reference to "the cost of comparable services" in a nonbankruptcy case is not intended as a change of existing law. In a bankruptcy case fees are not a matterfor private agreement. There is inherent a "public interest" that "must be considered in awarding fees," <i>Massachusetts Mutual Life Insurance Co. v. Brock</i>, 405 F.2d 429, 432 (C.A.5, 1968), cert. denied, 395 U.S. 906 (1969). An allowance is the result of a balance struck between moderation in the interest of the estate and its security holders and the need to be "generous enough to encourage" lawyers and others to render the necessary and exacting services that bankruptcy cases often require. <i>In re Yale Express System, Inc</i>., 366 F.Supp. 1376, 1381 (S.D.N.Y. 1973). The rates for similar kinds of services in private employment is one element, among others, in that balance. Compensation in private employment noted in subsection (a) is a point of reference, not a controlling determinant of what shall be allowed in bankruptcy cases.
 
 One of the major reforms in 1938, especially for reorganization cases, was centralized control over fees in the bankruptcy courts. See <i>Brown v. Gerdes</i>, 321 U.S. 178, 182–184 (1944); <i>Leiman v. Guttman</i>, 336 U.S. 1, 4–9 (1949). It was intended to guard against a recurrence of "the many sordid chapters" in "the history of fees in corporate reorganizations." <i>Dickinson Industrial Site, Inc. v. Cowan</i>, 309 U.S. 382, 388 (1940). In the years since then the bankruptcy bar has flourished and prospered, and persons of merit and quality have not eschewed public service in bankruptcy cases merely because bankruptcy courts, in the interest of economy in administration, have not allowed them compensation that may be earned in the private economy of business or the professions. There is no reason to believe that, in generations to come, their successors will be less persuaded by the need to serve in the public interest because of stronger allures of private gain elsewhere.
 
@@ -117,6 +117,8 @@ The date of the enactment of the Bankruptcy Reform Act of 1994, referred to in s
 #### Amendments
 
 <b>2021</b>—Subsec. (e). Pub. L. 116–325 added subsec. (e).
+
+Subsec. (e)(3). Pub. L. 117–43 struck out "in that fiscal year" before period at end.
 
 <b>2005</b>—Subsec. (a)(1). Pub. L. 109–8, §1104(b)(1), inserted "an ombudsman appointed under section 333, or" before "a professional person" in introductory provisions.
 

@@ -56,11 +56,15 @@ Act
 
 July 24, 1956, ch. 677, §2 (less clauses (a)–(i), as applicable to 10:1376), 70 Stat. 623.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–337 substituted "Temporary disability retired lists" for "Retired lists" as section catchline, struck out "(b)" before "The Secretary concerned", and struck out subsec. (a) which read as follows: "Under regulations prescribed by the Secretary concerned, there shall be maintained retired lists containing the names of the Reserves of the armed forces under his jurisdiction who are in the Retired Reserve." See section 12774 of this title.
 
 <b>1958</b>—Subsec. (b). Pub. L. 85–861 struck out provisions requiring publication of the temporary disability retired list annually in the official register or other official publication of the armed force concerned.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

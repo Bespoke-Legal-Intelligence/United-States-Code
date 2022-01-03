@@ -90,7 +90,7 @@ Lines of Credit.—
 
 &emsp;(1)
 
-In general.—Subject to the requirements of this subsection, the Secretary may enter into agreements to make available lines of credit to one or more obligors in the form of direct loans to be made by the Secretary at future dates on the occurrence of certain eventsfor any aircraft purchase selected under this section.
+In general.—Subject to the requirements of this subsection, the Secretary may enter into agreements to make available lines of credit to one or more obligors in the form of direct loans to be made by the Secretary at future dates on the occurrence of certain events for any aircraft purchase selected under this section.
 
 &emsp;(2)
 
@@ -150,7 +150,7 @@ Schedule.—The Secretary shall establish a repayment schedule for each direct l
 
 &emsp;&emsp;(B)
 
-Commencement.—Scheduled loan repayments of principal or interest on a direct loan under this subsection shall commence no later than 3 years after the date of the first draw on the line of credit and shall be repaid, with interest, not later than 18 years after the date of the first draw.
+Commencement.—Scheduled loan repayments of principal or interest on a direct loan under this subsection shall commenceno later than 3 years after the date of the first draw on the line of credit and shall be repaid, with interest, not later than 18 years after the date of the first draw.
 
 (e)
 
@@ -191,6 +191,8 @@ Requirement.—Subject to subsection (i), no Federal credit instrument may be ma
 Other Limitations.—No Federal credit instrument shall be made by the Secretary under this section for the purchase of a regional jet aircraft unless the commuter air carrier or new entrant air carrier enters into a legally binding agreement that requires the carrier to provide scheduled passenger air transportation to the underserved market for which the aircraft is purchased for a period of not less than 36 consecutive months after the date that aircraft is placed in service.
 
 (Added Pub. L. 106–181, title II, §210(a), Apr. 5, 2000, 114 Stat. 97.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

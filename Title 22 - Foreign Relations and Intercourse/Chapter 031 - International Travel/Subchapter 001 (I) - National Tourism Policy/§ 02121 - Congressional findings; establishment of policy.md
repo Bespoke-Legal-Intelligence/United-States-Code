@@ -84,7 +84,7 @@ Pub. L. 102–372, §1(a), Sept. 30, 1992, 106 Stat. 1170, provided that: "This 
 
 #### Short Title of 1981 Amendment
 
-Pub. L. 97–63, §1, Oct. 16, 1981, 95 Stat. 1011, provided that: "This Act \[enacting sections 2123b, 2124a, and 2124b of this title, amending this section and sections 2122, 2123, 2123a, 2124, and 2126 of this title, repealing section 2128 of this title, and enacting, amending, and repealing provisions set out as notes under this section\] may be cited as the 'National Tourism Policy Act'."
+Pub. L. 97–63, §1, Oct. 16, 1981, 95 Stat. 1011, provided that: "This Act \[enacting sections 2123b, 2124a, and2124b of this title, amending this section and sections 2122, 2123, 2123a, 2124, and 2126 of this title, repealing section 2128 of this title, and enacting, amending, and repealing provisions set out as notes under this section\] may be cited as the 'National Tourism Policy Act'."
 
 #### Short Title
 
@@ -116,7 +116,7 @@ Pub. L. 102–372, §2, Sept. 30, 1992, 106 Stat. 1170, provided that: "The Cong
 
 &emsp;"(10) advanced technologies, industrial targeting, the industrialization of the Third World, and the flight of some United States manufacturing capacity to overseas locations have affected the international competitiveness of the United States;
 
-&emsp;"(11) exporting those goods and services which United States industry can produce at a comparativecost advantage, such as travel and tourism services, will be in the Nation's long-term strategic interest; and
+&emsp;"(11) exporting those goods and services which United States industry can produce at a comparative cost advantage, such as travel and tourism services, will be in the Nation's long-term strategic interest; and
 
 &emsp;"(12) the emergence of democratic governments in the formerly Communist nations of Eastern Europe and in the former Soviet Union provide new opportunities for United States firms engaged in both the inbound and outbound tourism markets."
 
@@ -178,7 +178,7 @@ Section 1. <i>Policy</i>. The travel and tourism industry is one of our Nation's
 
 Steady progress has been made since 2010, when my Administration launched the National Export Initiative and the Travel Promotion Act was signed into law. While our processes for moving people and goods across our borders are now both more secure and more efficient, new initiatives are needed to enable us to better capitalize on the economic opportunities presented by a dynamic 21st century travel and tourism industry.
 
-Sec. 2. <i>Visa and Foreign Visitor Processing</i>. (a) The Assistant to the President for Homeland Security andCounterterrorism shall, consistent with Presidential Policy Directive 1 or any successor documents and in coordination with the Assistant to the President and Cabinet Secretary, maintain an interagency process for coordinating the implementation of regulatory improvements and the evaluation of legislative proposals to enhance and expedite travel to and arrival in the United States by foreign nationals, consistent with national security requirements.
+Sec. 2. <i>Visa and Foreign Visitor Processing</i>. (a) The Assistant to the President for Homeland Security and Counterterrorism shall, consistent with Presidential Policy Directive 1 or any successor documents and in coordination with the Assistant to the President and Cabinet Secretary, maintain an interagency process for coordinating the implementation of regulatory improvements and the evaluation of legislative proposals to enhance and expedite travel to and arrival in the United States by foreign nationals, consistent with national security requirements.
 
 (b) The Secretaries of State and Homeland Security, in consultation with the Assistant to the President for Homeland Security and Counterterrorism, the Director of the Office of Management and Budget, and the heads of such agencies as appropriate, shall develop an implementation plan, within 60 days of the date of this order, describing actions to be undertaken, including those that build upon efforts underway, to achieve the following:
 

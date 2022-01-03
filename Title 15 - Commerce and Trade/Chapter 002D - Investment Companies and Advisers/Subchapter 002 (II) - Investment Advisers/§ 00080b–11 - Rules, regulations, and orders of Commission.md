@@ -10,7 +10,7 @@ Subject to the provisions of chapter 15 of title 44 and regulations prescribed u
 
 #### (c) Orders of Commission after notice and hearing; type of notice
 
-Orders of the Commission under this subchapter shall be issued only after appropriate notice and opportunity for hearing. Notice tothe parties to a proceeding before the Commission shall be given by personal service upon each party or by registered mail or certified mail or confirmed telegraphic notice to the party's last known business address. Notice to interested persons, if any, other than parties may be given in the same manner or by publication in the Federal Register.
+Orders of the Commission under this subchapter shall be issued only after appropriate notice and opportunity for hearing. Notice to the parties to a proceeding before the Commission shall be given by personal service upon each party or by registered mail or certified mail or confirmed telegraphic notice to the party's last known business address. Notice to interested persons, if any, other than parties may be given in the same manner or by publication in the Federal Register.
 
 #### (d) Good faith compliance with rules and regulations
 
@@ -54,6 +54,8 @@ The enforcement authority of the Commission with respect to violations of the st
 
 (Aug. 22, 1940, ch. 686, title II, §211, 54 Stat. 855; Pub. L. 86–507, §1(16), June 11, 1960, 74 Stat. 201; Pub. L. 86–750, §14, Sept. 13, 1960, 74 Stat. 888; Pub. L. 100–181, title VII, §705, Dec. 4, 1987, 101 Stat. 1264; Pub. L. 111–203, title IV, §406, title IX, §913(g)(2), (h)(2), July 21, 2010, 124 Stat. 1574, 1828, 1829.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Commodity Exchange Act, referred to in subsec. (e), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
@@ -62,7 +64,7 @@ The Securities Exchange Act of 1934, referred to in subsec. (i), is act June 6, 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–203, §406(1), inserted ", including rules and regulations defining technical, trade, and other terms used in this subchapter, except that the Commission may not define the term 'client' for purposes of paragraphs (1) and (2) of section 80b–6 ofthis title to include an investor in a private fund managed by an investment adviser, if such private fund has entered into an advisory contract with such adviser" after "elsewhere in this subchapter".
+<b>2010</b>—Subsec. (a). Pub. L. 111–203, §406(1), inserted ", including rules and regulations defining technical, trade, and other terms used in this subchapter, except that the Commission may not define the term 'client' for purposes of paragraphs (1) and (2) of section 80b–6 of this title to include an investor in a private fund managed by an investment adviser, if such private fund has entered into an advisory contract with such adviser" after "elsewhere in this subchapter".
 
 Subsec. (e). Pub. L. 111–203, §406(2), which directed addition of subsec. (e) at end of section, was executed by adding subsec. (e) after subsec. (d) to reflect the probable intent of Congress. See Effective Date of 2010 Amendment notes below.
 
@@ -76,15 +78,13 @@ Subsec. (i). Pub. L. 111–203, §913(h)(2), added subsec. (i).
 
 Subsec. (c). Pub. L. 86–507 inserted "or certified mail" after "registered mail".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Amendment by section 913(g)(2), (h)(2) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
 Amendment by section 406 of Pub. L. 111–203 effective 1 year after July 21, 2010, except that any investment adviser may, at the discretion of the investment adviser, register with the Commission under the Investment Advisers Act of 1940 during that 1-year period, subject to the rules of the Commission, and except as otherwise provided, see section 419 of Pub. L. 111–203, set out as a note under section 80b–2 of this title.
-
-#### Transfer of Functions
-
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 #### Study on Enhancing Investment Adviser Examinations
 
@@ -113,6 +113,12 @@ Areas of consideration.—The study required by this subsection shall examine—
 Report Required.—The Commission shall report its findings to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate, not later than 180 days after the date of enactment of this subtitle \[July 21, 2010\], and shall use such findings to revise its rules and regulations, as necessary. The report shall include a discussion of regulatory or legislative steps that are recommended or that may be necessary to address concerns identified in the study."
 
 \[For definitions of terms used in section 914 of Pub. L. 111–203, set out above, see section 5301 of Title 12, Banks and Banking.\]
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "section".</i>
 

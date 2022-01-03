@@ -9,6 +9,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Pub. L. 94–455, title X, §1042(d)(2)(F), Oct. 4, 1976, 90 Stat. 1639, struck out in item relating to part IV "relating to qualification of certain retirement plans" after "Declaratory judgments".

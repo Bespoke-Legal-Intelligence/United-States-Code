@@ -116,7 +116,7 @@
 
 #### (3) Selection of acres
 
-&emsp;The Secretary shall give the owner of the farm the opportunity to select the base acres for a covered commodity or generic base acres for the farm against which the reduction required by paragraph (1) will be made.
+&emsp;The Secretary shall give the owner of the farm the opportunity to select the base acresfor a covered commodity or generic base acres for the farm against which the reduction required by paragraph (1) will be made.
 
 #### (4) Exception for double-cropped acreage
 
@@ -163,6 +163,8 @@
 &emsp;The Secretary shall ensure that producers on a farm do not reconstitute the farm to void or change the treatment of base acres under this section.
 
 (Pub. L. 113–79, title I, §1112, Feb. 7, 2014, 128 Stat. 661; Pub. L. 115–334, title I, §1102, Dec. 20, 2018, 132 Stat. 4501.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

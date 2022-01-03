@@ -24,9 +24,11 @@ Where necessary or appropriate in order to consolidate in a safe and environment
 
 (Pub. L. 95–604, title I, §106, Nov. 8, 1978, 92 Stat. 3029; Pub. L. 100–616, §2, Nov. 5, 1988, 102 Stat. 3192.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 95–604, Nov. 8, 1978, 92 Stat. 3021, as amended, known as the Uranium Mill Tailings Radiation Control Act of 1978. For complete classification of this Act to the Code, see Short Title note set out under section 7901 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 95–604, Nov. 8, 1978, 92 Stat.3021, as amended, known as the Uranium Mill Tailings Radiation Control Act of 1978. For complete classification of this Act to the Code, see Short Title note set out under section 7901 of this title and Tables.
 
 The National Environmental Policy Act, referred to in text, probably means the National Environmental Policy Act of 1969, Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
 

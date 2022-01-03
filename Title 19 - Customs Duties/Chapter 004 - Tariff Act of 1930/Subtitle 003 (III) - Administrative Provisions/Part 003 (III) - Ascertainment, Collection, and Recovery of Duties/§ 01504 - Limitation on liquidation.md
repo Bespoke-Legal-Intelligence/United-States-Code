@@ -4,7 +4,7 @@
 
 #### (1) Entries for consumption
 
-&emsp;Unless an entry of merchandise for consumption is extended under subsection (b) of this section or suspended as required by statute or court order, except as provided in section 1675(a)(3) of this title, an entry of merchandise for consumption not liquidated within 1 year from—
+&emsp;Unless an entry of merchandise for consumption is extended under subsection (b) of thissection or suspended as required by statute or court order, except as provided in section 1675(a)(3) of this title, an entry of merchandise for consumption not liquidated within 1 year from—
 
 &emsp;&emsp;(A) the date of entry of such merchandise,
 
@@ -48,13 +48,15 @@ The Secretary of the Treasury may extend the period in which to liquidate an ent
 
 #### (c) Notice of suspension
 
-If the liquidation of any entry is suspended, the Secretary shall by regulation require thatnotice of the suspension be provided, in such manner as the Secretary considers appropriate, to the importer of record or drawback claimant, as the case may be, and to any authorized agent and surety of such importer of record or drawback claimant.
+If the liquidation of any entry is suspended, the Secretary shall by regulation require that notice of the suspension be provided, in such manner as the Secretary considers appropriate, to the importer of record or drawback claimant, as the case may be, and to any authorized agent and surety of such importer of record or drawback claimant.
 
 #### (d) Removal of suspension
 
 Except as provided in section 1675(a)(3) of this title, when a suspension required by statute or court order is removed, the Customs Service shall liquidate the entry, unless liquidation is extended under subsection (b), within 6 months after receiving notice of the removal from the Department of Commerce, other agency, or a court with jurisdiction over the entry. Any entry (other than an entry with respect to which liquidation has been extended under subsection (b)) not liquidated by the Customs Service within 6 months after receiving such notice shall be treated as having been liquidated at the rate of duty, value, quantity, and amount of duty asserted by the importer of record or (in the case of a drawback entry or claim) at the drawback amount asserted by the drawback claimant.
 
-(June 17, 1930, ch. 497, title IV, §504, as added Pub. L. 95–410, title II, §209(a), Oct. 3, 1978, 92 Stat. 902; amended Pub. L. 98–573, title I, §191(d), Oct. 30, 1984, 98 Stat. 2971; Pub. L. 103–182, title VI, §641, Dec. 8, 1993, 107 Stat. 2204; Pub. L. 103–465, title II, §220(c), Dec. 8, 1994, 108 Stat. 4865; Pub. L. 104–295, §3(a)(7), Oct. 11, 1996, 110 Stat. 3516; Pub. L. 108–429, title I, §1563(e), title II, §2102, Dec. 3, 2004, 118 Stat. 2585, 2597.)
+(June 17, 1930, ch. 497, title IV, §504, as added Pub. L. 95–410, title II, §209(a), Oct. 3, 1978, 92 Stat. 902; amended Pub. L. 98–573, title I, §191(d), Oct. 30, 1984, 98 Stat. 2971; Pub. L. 103–182, titleVI, §641, Dec. 8, 1993, 107 Stat. 2204; Pub. L. 103–465, title II, §220(c), Dec. 8, 1994, 108 Stat. 4865; Pub. L. 104–295, §3(a)(7), Oct. 11, 1996, 110 Stat. 3516; Pub. L. 108–429, title I, §1563(e), title II, §2102, Dec. 3, 2004, 118 Stat. 2585, 2597.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -120,9 +122,11 @@ Subsec. (c). Pub. L. 98–573, §191(d)(3), substituted "importer of record" for
 
 Subsec. (d). Pub. L. 98–573, §191(d)(4), substituted "importer of record" for "importer, his consignee, or agent".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–429, title I, §1563(g)(2), Dec. 3, 2004, 118 Stat. 2587, provided that: "The amendments made by subsection (e) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 3, 2004\], and shall apply to—
+Pub. L. 108–429, title I, §1563(g)(2), Dec. 3, 2004, 118 Stat. 2587, provided that: "The amendments made bysubsection (e) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 3, 2004\], and shall apply to—
 
 &emsp;"(A) any entry of merchandise for consumption or entry or claim for drawback filed on and after such date of enactment; and
 

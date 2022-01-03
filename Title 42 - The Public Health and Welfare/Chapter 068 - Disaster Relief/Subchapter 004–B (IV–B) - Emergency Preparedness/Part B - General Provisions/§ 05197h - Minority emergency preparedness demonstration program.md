@@ -38,15 +38,19 @@ There is authorized to be appropriated to carry out this section $1,500,000 for 
 
 (Pub. L. 93–288, title VI, §629, as added Pub. L. 107–73, title IV, §431, Nov. 26, 2001, 115 Stat. 697; amended Pub. L. 111–351, §3(c)(2), Jan. 4, 2011, 124 Stat. 3864.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 632(p) of title 15, referred to in subsec. (c), was redesignated section 657a(b) of Title 15, Commerce and Trade, by Pub. L. 115–91, div. A, title XVII, §1701(a)(2), Dec. 12, 2017, 131 Stat. 1795.
 
-Subparagraph (A), (B), or (C) of section 1063b(e)(1) of title 20, referred to in subsec. (d)(4), was in the original "subparagraph (A), (B), or (C) of section 326 of that Act (20 U.S.C. 1063b(e)(1)(A), (B), or (C))", which was translated as reading "subparagraph (A), (B), or (C) of section 326(e)(1) of that Act (20 U.S.C. 1063b(e)(1)(A), (B), or (C))" to reflect the probable intent of Congress.
+Subparagraph (A), (B), or (C) of section 1063b(e)(1) of title 20, referred to in subsec. (d)(4), was in the original"subparagraph (A), (B), or (C) of section 326 of that Act (20 U.S.C. 1063b(e)(1)(A), (B), or (C))", which was translated as reading "subparagraph (A), (B), or (C) of section 326(e)(1) of that Act (20 U.S.C. 1063b(e)(1)(A), (B), or (C))" to reflect the probable intent of Congress.
 
 #### Amendments
 
 <b>2011</b>—Pub. L. 111–351 substituted "Administrator" for "Director" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

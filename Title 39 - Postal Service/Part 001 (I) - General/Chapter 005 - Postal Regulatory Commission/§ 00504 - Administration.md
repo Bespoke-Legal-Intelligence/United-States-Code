@@ -12,7 +12,7 @@
 
 (f)(1) Any Commissioner of the Postal Regulatory Commission, any administrative law judge appointed by the Commission under section 3105 of title 5, and any employee of the Commission designated by the Commission may administer oaths, examine witnesses, take depositions, and receive evidence.
 
-(2) The Chairman of the Commission, any Commissioner designated by the Chairman, and any administrative law judge appointed by the Commission under section 3105 of title 5 may, with respect to any proceeding conducted by the Commission under this title or to obtain information to be used to prepare a report under this title—
+(2) The Chairman of the Commission, any Commissioner designated by the Chairman, and any administrative law judge appointed by the Commission under section 3105 of title 5 may,with respect to any proceeding conducted by the Commission under this title or to obtain information to be used to prepare a report under this title—
 
 &emsp;(A) issue subpoenas requiring the attendance and presentation of testimony by, or the production of documentary or other evidence in the possession of, any covered person; and
 
@@ -20,7 +20,7 @@
 
 > The written concurrence of a majority of the Commissioners then holding office shall, with respect to each subpoena under subparagraph (A), be required in advance of its issuance.
 
-(3) In the case of contumacy or failure to obey a subpoena issued under this subsection, uponapplication by the Commission, the district court of the United States for the district in which the person to whom the subpoena is addressed resides or is served may issue an order requiring such person to appear at any designated place to testify or produce documentary or other evidence. Any failure to obey the order of the court may be punished by the court as a contempt thereof.
+(3) In the case of contumacy or failure to obey a subpoena issued under this subsection, upon application by the Commission, the district court of the United States for the district in which the person to whom the subpoena is addressed resides or is served may issue an order requiring such person to appear at any designated place to testify or produce documentary or other evidence. Any failure to obey the order of the court may be punished by the court as a contempt thereof.
 
 (4) For purposes of this subsection, the term "covered person" means an officer, employee, agent, or contractor of the Postal Service.
 

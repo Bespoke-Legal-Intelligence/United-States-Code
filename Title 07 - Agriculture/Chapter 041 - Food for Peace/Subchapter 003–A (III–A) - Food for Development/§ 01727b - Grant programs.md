@@ -4,6 +4,8 @@ To carry out the policies and accomplish the objectives described in section 169
 
 (July 10, 1954, ch. 469, title III, §303, as added Pub. L. 95–88, title II, §211(a)(2), Aug. 3, 1977, 91 Stat. 550; amended Pub. L. 96–53, title II, §204(c), Aug. 14, 1979, 93 Stat. 369; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3642.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 303 of act July 10, 1954, ch. 469, title III, 68 Stat. 459, which enacted section 1692 of this title, was renumbered section 310 by Pub. L. 95–88, title II, §211(a)(1), Aug. 3, 1977, 91 Stat. 548.
@@ -14,13 +16,15 @@ A prior section 303 of act July 10, 1954, ch. 469, title III, 68 Stat. 459, whic
 
 <b>1979</b>—Subsec. (a). Pub. L. 96–53 struck out "for each year such funds are to be disbursed" after "on an annual basis".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–624 effective Jan. 1, 1991, see section 1513 of Pub. L. 101–624, set out as a note under section 1691 of this title.
 
 #### Effective Date of 1979 Amendment
 
-Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out as a note under section 2151 of Title 22, Foreign Relations and Intercourse.
+Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out as a note undersection 2151 of Title 22, Foreign Relations and Intercourse.
 
 #### Effective Date
 

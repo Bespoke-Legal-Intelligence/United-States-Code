@@ -92,7 +92,7 @@ Pub. L. 98–181, title I \[title II, §225\], Nov. 30, 1983, 97 Stat. 1191, pro
 
 &emsp;"(3) other terms and conditions prescribed by the Secretary for the purpose of carrying out this section in an effective and efficient manner.
 
-"(g) In making grants available under this section, the Secretary shall select as recipients at least 20 units of general local government (or their designated agencies). The selection of proposals for funding shall be based on criteria that result in a selection of projectsthat will enable the Secretary to carry out the purpose of this section in an effective and efficient manner and provide a sufficient amount of data necessary to make an evaluation of the demonstration project carried out under this section.
+"(g) In making grants available under this section, the Secretary shall select as recipients at least 20 units of general local government (or their designated agencies). The selection of proposals for funding shall be based on criteria that result in a selection of projects that will enable the Secretary to carry out the purpose of this section in an effective and efficient manner and provide a sufficient amount of data necessary to make an evaluation of the demonstration project carried out under this section.
 
 "(h)(1) Not later than June 1, 1984, the Secretary shall transmit to the Congress an interim report on the implementation of the demonstration under this section.
 

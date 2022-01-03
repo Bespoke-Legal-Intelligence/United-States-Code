@@ -10,7 +10,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;Except as provided in paragraphs (2) and (3), the term "base erosion minimum tax amount" means, with respect to any applicable taxpayer for any taxable year, the excess (if any) of—
+&emsp;Except as provided in paragraphs (2) and (3), the term "base erosion minimum tax amount"means, with respect to any applicable taxpayer for any taxable year, the excess (if any) of—
 
 &emsp;&emsp;(A) an amount equal to 10 percent (5 percent in the case of taxable years beginning in calendar year 2018) of the modified taxable income of such taxpayer for the taxable year, over
 
@@ -100,7 +100,7 @@ For purposes of this section—
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;The amount not taken into account in computing modified taxable income by reason of clause (i) shall be reduced under rules similar to the rules under section 163(j)(5)(B) (as in effect before the date of the enactment of the Tax Cuts and Jobs Act).
+&emsp;&emsp;&emsp;The amount not taken into account in computing modified taxable income byreason of clause (i) shall be reduced under rules similar to the rules under section 163(j)(5)(B) (as in effect before the date of the enactment of the Tax Cuts and Jobs Act).
 
 #### (3) Special rules for determining interest for which deduction allowed
 
@@ -200,7 +200,7 @@ For purposes of this section—
 
 #### (A) Special rule for foreign persons
 
-&emsp;&emsp;In the case of a foreign person the gross receipts of which are taken into account for purposes of paragraph (1)(B), only gross receipts which are taken into account in determining income which is effectively connected with the conduct of a trade or business within the United States shall be taken into account. In the case of a taxpayer which is a foreign person, the preceding sentence shall not apply to the gross receipts of any United States person which are aggregated with the taxpayer's gross receipts by reason of paragraph (3).
+&emsp;&emsp;In the case of a foreign person the gross receipts of which are taken into account forpurposes of paragraph (1)(B), only gross receipts which are taken into account in determining income which is effectively connected with the conduct of a trade or business within the United States shall be taken into account. In the case of a taxpayer which is a foreign person, the preceding sentence shall not apply to the gross receipts of any United States person which are aggregated with the taxpayer's gross receipts by reason of paragraph (3).
 
 #### (B) Other rules made applicable
 
@@ -282,7 +282,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term "derivative" means any contract (including any option, forward contract, futures contract, short position, swap, or similar contract) the value of which, or any payment or other transfer with respect towhich, is (directly or indirectly) determined by reference to one or more of the following:
+&emsp;&emsp;The term "derivative" means any contract (including any option, forward contract, futures contract, short position, swap, or similar contract) the value of which, or any payment or other transfer with respect to which, is (directly or indirectly) determined by reference to one or more of the following:
 
 &emsp;&emsp;&emsp;(i) Any share of stock in a corporation.
 
@@ -322,6 +322,8 @@ The Secretary shall prescribe such regulations or other guidance as may be neces
 
 (Added Pub. L. 115–97, title I, §14401(a), Dec. 22, 2017, 131 Stat. 2226.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 15(a) of the Securities Exchange Act of 1934, referred to in subsec. (b)(3)(B)(ii), is classified to section 78o(a) of Title 15, Commerce and Trade.
@@ -331,6 +333,8 @@ The date of the enactment of the Tax Cuts and Jobs Act, referred to in subsec. (
 #### Prior Provisions
 
 A prior section 59A, added Pub. L. 99–499, title V, §516(a), Oct. 17, 1986, 100 Stat. 1770; amended Pub. L. 100–647, title II, §2001(c)(1), (3)(B), Nov. 10, 1988, 102 Stat. 3594; Pub. L. 101–508, title XI, §§11231(a)(1)(A), 11531(b)(3), 11801(c)(2)(E), Nov. 5, 1990, 104 Stat. 1388–444, 1388–490, 1388–523; Pub. L. 102–486, title XIX, §1915(c)(4), Oct. 24, 1992, 106 Stat. 3024, related to environmental tax, prior to repeal by Pub. L. 113–295, div. A, title II, §221(a)(12)(A), Dec. 19, 2014, 128 Stat. 4038.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

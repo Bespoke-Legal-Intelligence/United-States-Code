@@ -100,7 +100,7 @@ The President shall not apply the sanction under this section prohibiting the im
 
 &emsp;&emsp;(D) information and technology essential to United States products or production.
 
-(Pub. L. 90–629, ch. 7, §73, as added Pub. L. 101–510, div. A, title XVII, §1703, Nov. 5, 1990, 104 Stat. 1746; amended Pub. L. 102–138, title III, §323(a), Oct. 28, 1991, 105 Stat. 711; Pub. L.103–236, title VII, §§714(a)(7), 734(b), Apr. 30, 1994, 108 Stat. 497, 505; Pub. L. 104–106, div. A, title XIV, §1408(d), Feb. 10, 1996, 110 Stat. 494; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(a)(8), Oct. 21, 1998, 112 Stat. 2681–773; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1136(b), (c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–495; Pub. L. 113–276, title II, §208(a)(5), Dec. 18, 2014, 128 Stat. 2993.)
+(Pub. L. 90–629, ch. 7, §73, as added Pub. L. 101–510, div. A, title XVII, §1703, Nov. 5, 1990, 104 Stat. 1746; amended Pub. L. 102–138, title III, §323(a), Oct. 28, 1991, 105 Stat. 711; Pub. L. 103–236, title VII, §§714(a)(7), 734(b), Apr. 30, 1994, 108 Stat. 497, 505; Pub. L. 104–106, div. A, title XIV, §1408(d), Feb. 10, 1996, 110 Stat. 494; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(a)(8), Oct. 21, 1998, 112 Stat. 2681–773; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1136(b), (c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–495; Pub. L. 113–276, title II, §208(a)(5), Dec. 18, 2014, 128 Stat. 2993.)
 
 #### <b>Editorial Notes</b>
 

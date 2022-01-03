@@ -24,9 +24,13 @@ Historical and Revision Notes
 
 Dec. 11, 1945, ch. 562, 59 Stat. 605.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 6962 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

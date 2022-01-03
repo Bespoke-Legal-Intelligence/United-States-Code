@@ -15555,9 +15555,13 @@ The Internal Revenue Title referred to in subsection (a)(1) is as follows: \* \
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 3; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1986</b>—Subsecs. (a)(1), (c). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Redesignation of Internal Revenue Code of 1954; References
 
@@ -15599,6 +15603,8 @@ References in Laws, Etc.—Except when inappropriate, any reference in any law, 
 | K. | Group health plan requirements. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

@@ -14,7 +14,7 @@ The lands held in trust pursuant to this section shall be included in the Havasu
 
 &emsp;(3) any areas historically used as burial grounds may continue to be so used;
 
-&emsp;(4) a study shall be made by the Secretary, in consultation with the Havasupai TribalCouncil, to develop a plan for the use of this land by the tribe which shall include the selection of areas which may be used for residential, educational, and other community purposes for members of the tribe and which shall not be inconsistent with, or detract from, park uses and values; <i>Provided further</i>, That before being implemented by the Secretary, such plan shall be made available through his offices for public review and comment, shall be subject to public hearings, and shall be transmitted, together with a complete transcript of the hearings, at least 90 days prior to implementation, to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives; and <i>Provided further</i>, That any subsequent revisions of this plan shall be subject to the same procedures as set forth in this paragraph;
+&emsp;(4) a study shall be made by the Secretary, in consultation with the Havasupai Tribal Council, to develop a plan for the use of this land by the tribe which shall include the selection of areas which may be used for residential, educational, and other community purposes for members of the tribe and which shall not be inconsistent with, or detract from, park uses and values; <i>Provided further</i>, That before being implemented by the Secretary, such plan shall be made available through his offices for public review and comment, shall be subject to public hearings, and shall be transmitted, together with a complete transcript of the hearings, at least 90 days prior to implementation, to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives; and <i>Provided further</i>, That any subsequent revisions of this plan shall be subject to the same procedures as set forth in this paragraph;
 
 &emsp;(5) no commercial timber production, no commercial mining or mineral production, and no commercial or industrial development shall be permitted on such lands: <i>Provided further</i>, That the Secretary may authorize the establishment of such tribal small business enterprises as he deems advisable to meet the needs of the tribe which are in accordance with the plan provided in paragraph (4) of this subsection;
 
@@ -40,11 +40,13 @@ By the enactment of sections 228a to 228j of this title, the Congress recognizes
 
 (Pub. L. 93–620, §10, Jan. 3, 1975, 88 Stat. 2091; Pub. L. 103–437, §6(a)(2), Nov. 2, 1994, 108 Stat. 4583.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Provision of subsec. (f) of this section, which repealed section 3 of act of Feb. 26, 1919 (40 Stat. 1177), set out as section 223 of this title, has been omitted from this section as executed. See note set out under section 223 of this title.
 
 #### Amendments
 
-<b>1994</b>—Subsec. (b)(4). Pub. L. 103–437 substituted "Committee on Energy and Natural Resources of the Senateand the Committee on Natural Resources of the House of Representatives" for "Committees on Interior and Insular Affairs of the United States Congress".
+<b>1994</b>—Subsec. (b)(4). Pub. L. 103–437 substituted "Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives" for "Committees on Interior and Insular Affairs of the United States Congress".
 

@@ -64,13 +64,17 @@ There is authorized to be appropriated to carry out this section $10,000,000 for
 
 (Pub. L. 101–527, §10, Nov. 6, 1990, 104 Stat. 2333.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Disadvantaged Minority Health Improvement Act of 1990, and not as part of the Public Health Service Act which comprises this chapter.
 
 Subsec. (e) of this section, which required the Secretary, in consultation with the Council, to annually prepare and submit to appropriate committees of Congress a report describing the expenditure of funds authorized to be appropriated under this section, with any recommendations of the Secretary, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 95 of House Document No. 103–7.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Termination of Advisory Councils
 
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-yearperiod beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 

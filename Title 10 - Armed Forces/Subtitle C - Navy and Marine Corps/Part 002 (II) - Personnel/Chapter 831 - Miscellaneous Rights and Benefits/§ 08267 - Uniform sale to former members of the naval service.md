@@ -22,9 +22,13 @@ Feb. 14, 1927, ch. 134, 44 Stat. 1096.
 
 The word "person" is substituted for the words "former members of the naval service".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 6156 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

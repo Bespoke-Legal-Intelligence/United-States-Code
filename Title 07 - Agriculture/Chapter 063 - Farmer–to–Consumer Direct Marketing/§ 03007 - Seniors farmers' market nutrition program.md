@@ -32,6 +32,8 @@ Section 1693o–2 of title 15 shall not apply to electronic benefit transfer sys
 
 (Pub. L. 107–171, title IV, §4402, May 13, 2002, 116 Stat. 334; Pub. L. 110–234, title IV, §§4231, 4406(c)(1), May 22, 2008, 122 Stat. 1124, 1142; Pub. L. 110–246, §4(a), title IV, §§4231, 4406(c)(1), June 18, 2008, 122 Stat. 1664, 1886, 1903; Pub. L. 111–203, title X, §1075(c), July 21, 2010, 124 Stat. 2074; Pub. L. 113–79, title IV, §4203(a), Feb. 7, 2014, 128 Stat. 822; Pub. L. 115–334, title IV, §4201, Dec. 20, 2018, 132 Stat. 4655.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -46,13 +48,15 @@ Section was enacted as part of the Food Stamp Reauthorization Act of 2002 and al
 
 <b>2010</b>—Subsec. (f). Pub. L. 111–203 added subsec. (f).
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–246, §4406(c)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "The Secretary of Agriculture shall use $5,000,000 for fiscal year 2002, and $15,000,000 for each of fiscal years 2003 through 2007, of the funds available to the Commodity Credit Corporation to carry out and expand a seniors farmers' market nutrition program."
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §4406(c)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "The Secretary of Agriculture shall use $5,000,000 for fiscal year 2002, and $15,000,000 for each of fiscal years 2003 through 2007, ofthe funds available to the Commodity Credit Corporation to carry out and expand a seniors farmers' market nutrition program."
 
 Subsec. (b)(1). Pub. L. 110–246, §4231(1), inserted "honey," after "vegetables,".
 
 Subsec. (c). Pub. L. 110–246, §4231(2), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: "The Secretary may issue such regulations as the Secretary considers necessary to carry out the seniors farmers' market nutrition program."
 
 Subsecs. (d), (e). Pub. L. 110–246, §4231(3), added subsecs. (d) and (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

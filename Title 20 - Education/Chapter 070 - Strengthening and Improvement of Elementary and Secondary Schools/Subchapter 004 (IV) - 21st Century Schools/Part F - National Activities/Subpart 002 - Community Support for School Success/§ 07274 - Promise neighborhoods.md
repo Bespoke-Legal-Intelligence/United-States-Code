@@ -52,7 +52,7 @@ An eligible entity desiring a grant under this subpart for activities described 
 
 &emsp;&emsp;(D) Providing social, health, nutrition, and mental health services and supports, for children, family members, and community members, which may include services provided within the school building.
 
-&emsp;&emsp;(E) Supporting evidence-based programs that assist students through school transitions, which may include expanding access to postsecondary education courses and postsecondary education enrollment aid or guidance, and other supports for at-risk youth.
+&emsp;&emsp;(E) Supporting evidence-based programs that assist students through school transitions, which may include expanding accessto postsecondary education courses and postsecondary education enrollment aid or guidance, and other supports for at-risk youth.
 
 &emsp;(8) A description of the strategies that will be used to provide pipeline services (including a description of which programs and services will be provided to children, family members, community members, and children within the neighborhood) to support the purpose described in section 7271(1) of this title.
 
@@ -142,9 +142,13 @@ The Secretary shall reserve not more than 5 percent of the funds made available 
 
 (Pub. L. 89–10, title IV, §4624, as added Pub. L. 114–95, title IV, §4601, Dec. 10, 2015, 129 Stat. 2026.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Individuals with Disabilities Education Act, referred to in subsec. (a)(7)(A)(ii), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

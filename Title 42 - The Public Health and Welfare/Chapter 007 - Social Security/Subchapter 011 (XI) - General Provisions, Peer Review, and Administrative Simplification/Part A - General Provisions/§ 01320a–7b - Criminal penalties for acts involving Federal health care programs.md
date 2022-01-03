@@ -44,7 +44,7 @@ Whoever—
 
 &emsp;(C) any amount paid by a vendor of goods or services to a person authorized to act as a purchasing agent for a group of individuals or entities who are furnishing services reimbursed under a Federal health care program if—
 
-&emsp;&emsp;(i) the person has a written contract, with each such individual or entity, which specifies the amount to be paid the person, which amount may be a fixed amount or a fixed percentage of the value of the purchases made by each such individual or entity under the contract, and
+&emsp;&emsp;(i) the person has a written contract, with each such individual or entity, which specifies the amount to be paid the person, which amount may be a fixed amount or a fixed percentage of the value of the purchasesmade by each such individual or entity under the contract, and
 
 &emsp;&emsp;(ii) in the case of an entity that is a provider of services (as defined in section 1395x(u) of this title), the person discloses (in such form and manner as the Secretary requires) to the entity and, upon request, to the Secretary the amount received from each such vendor with respect to purchases made by or on behalf of the entity;
 
@@ -52,7 +52,7 @@ Whoever—
 
 &emsp;(E) any payment practice specified by the Secretary in regulations promulgated pursuant to section 14(a) of the Medicare and Medicaid Patient and Program Protection Act of 1987 or in regulations under section 1395w–104(e)(6) <sup>1</sup> of this title;
 
-&emsp;(F) any remuneration between an organization and an individual or entity providingitems or services, or a combination thereof, pursuant to a written agreement between the organization and the individual or entity if the organization is an eligible organization under section 1395mm of this title or if the written agreement, through a risk-sharing arrangement, places the individual or entity at substantial financial risk for the cost or utilization of the items or services, or a combination thereof, which the individual or entity is obligated to provide;
+&emsp;(F) any remuneration between an organization and an individual or entity providing items or services, or a combination thereof, pursuant to a written agreement between the organization and the individual or entity if the organization is an eligible organization under section 1395mm of this title or if the written agreement, through a risk-sharing arrangement, places the individual or entity at substantial financial risk for the cost or utilization of the items or services, or a combination thereof, which the individual or entity is obligated to provide;
 
 &emsp;(G) the waiver or reduction by pharmacies (including pharmacies of the Indian Health Service, Indian tribes, tribal organizations, and urban Indian organizations) of any cost-sharing imposed under part D of subchapter XVIII, if the conditions described in clauses (i) through (iii) of section 1320a–7a(i)(6)(A) of this title are met with respect to the waiver or reduction (except that, in the case of such a waiver or reduction on behalf of a subsidy eligible individual (as defined in section 1395w–114(a)(3) of this title), section 1320a–7a(i)(6)(A) of this title shall be applied without regard to clauses (ii) and (iii) of that section);
 
@@ -76,7 +76,7 @@ Whoever knowingly and willfully—
 
 &emsp;(1) charges, for any service provided to a patient under a State plan approved under subchapter XIX, money or other consideration at a rate in excess of the rates established by the State (or, in the case of services provided to an individual enrolled with a medicaid managed care organization under subchapter XIX under a contract under section 1396b(m) of this title or under a contractual, referral, or other arrangement under such contract, at a rate in excess of the rate permitted under such contract), or
 
-&emsp;(2) charges, solicits, accepts, or receives, in addition to any amount otherwise required to be paid under a State plan approved under subchapter XIX, any gift, money, donation, or other consideration (other than a charitable, religious, or philanthropic contribution from an organization or from a person unrelated to the patient)—
+&emsp;(2) charges, solicits, accepts, or receives, in addition to any amount otherwise required to be paid under a State plan approved under subchapter XIX, any gift, money, donation, orother consideration (other than a charitable, religious, or philanthropic contribution from an organization or from a person unrelated to the patient)—
 
 &emsp;&emsp;(A) as a precondition of admitting a patient to a hospital, nursing facility, or intermediate care facility for the mentally retarded, or
 
@@ -107,6 +107,8 @@ In addition to the penalties provided for in this section or section 1320a–7a 
 With respect to violations of this section, a person need not have actual knowledge of this section or specific intent to commit a violation of this section.
 
 (Aug. 14, 1935, ch. 531, title XI, §1128B, formerly title XVIII, §1877(d), and title XIX, §1909, as added and amended Pub. L. 92–603, title II, §§242(c), 278(b)(9), Oct. 30, 1972, 86 Stat. 1419, 1454; Pub. L. 95–142, §4(a), (b), Oct. 25, 1977, 91 Stat. 1179, 1181; Pub. L. 96–499, title IX, §917, Dec. 5, 1980, 94 Stat. 2625; Pub. L. 98–369, div. B, title III, §2306(f)(2), July 18, 1984, 98 Stat. 1073; renumbered title XI, §1128B, and amended Pub. L. 100–93, §§4(a)–(d), 14(b), Aug. 18, 1987, 101 Stat. 688, 689, 697; Pub. L. 100–203, title IV, §§4039(a), 4211(h)(7), Dec. 22, 1987, 101 Stat. 1330–81, 1330–206; Pub. L. 100–360, title IV, §411(a)(3)(A), (B)(i), July 1, 1988, 102 Stat. 768; Pub. L. 101–239, title VI, §6003(g)(3)(D)(ii), Dec. 19, 1989, 103 Stat. 2153; Pub. L. 101–508, title IV, §§4161(a)(4), 4164(b)(2), Nov. 5, 1990, 104 Stat. 1388–94, 1388–102; Pub. L. 103–432, title I, §133(a)(2), Oct. 31, 1994, 108 Stat. 4421; Pub. L. 104–191, title II, §§204(a), 216(a), 217, Aug. 21, 1996, 110 Stat. 1999, 2007, 2008; Pub. L. 105–33, title IV, §§4201(c)(1), 4704(b), 4734, Aug. 5, 1997, 111 Stat. 373, 498, 522; Pub. L. 108–173, title I, §101(e)(2), (8)(A), title II, §237(d), title IV, §431(a), Dec. 8, 2003, 117 Stat. 2150, 2152, 2213, 2287; Pub. L. 111–148, title III, §3301(d)(1), title VI, §6402(f), Mar. 23, 2010, 124 Stat. 468, 759; Pub. L. 114–115, §8, Dec. 28, 2015, 129 Stat. 3134; Pub. L. 115–123, div. E, title III, §50341(b), title IV, §50412(a)(2), (b), Feb. 9, 2018, 132 Stat. 208, 220.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -158,7 +160,7 @@ Pub. L. 108–173, §237(d), added subpar. (H) relating to remuneration between 
 
 <b>1997</b>—Subsec. (a). Pub. L. 105–33, §4734(2), in cl. (ii) of concluding provisions, substituted "failure, conversion, or provision of counsel or assistance by any other person" for "failure, or conversion by any other person".
 
-Subsec. (a)(6). Pub. L. 105–33, §4734(1), added par. (6) and struck out former par. (6) which read as follows: "knowingly and willfully disposes of assets (includingby any transfer in trust) in order for an individual to become eligible for medical assistance under a State plan under subchapter XIX of this chapter, if disposing of the assets results in the imposition of a period of ineligibility for such assistance under section 1396p(c) of this title,".
+Subsec. (a)(6). Pub. L. 105–33, §4734(1), added par. (6) and struck out former par. (6) which read as follows: "knowingly and willfully disposes of assets (including by any transfer in trust) in order for an individual to become eligible for medical assistance under a State plan under subchapter XIX of this chapter, if disposing of the assets results in the imposition of a period of ineligibility for such assistance under section 1396p(c) of this title,".
 
 Subsec. (c). Pub. L. 105–33, §4201(c)(1), substituted "critical access" for "rural primary care".
 
@@ -222,7 +224,7 @@ Subsec. (e). Pub. L. 100–93, §4(c), redesignated subsec. (d) of section 1395n
 
 <b>1977</b>—Subsec. (a). Pub. L. 95–142, §4(b), designated existing provisions following par. (4) as cl. (ii) and, as so designated, inserted provisions relating to activities of other persons, and inserted provisions authorizing the State to limit, restrict, or suspend, the eligibility of any convicted persons for benefits, and added cl. (i). See Codification note above.
 
-Subsec. (b). Pub. L. 95–142, §4(b), redesignated existing provisions as par. (1), substituted provisions relating to solicitation or receiving of any remuneration in return for referring an individual to a person for the furnishing or arranging the furnishing of any item or service, or in return for purchasing, leasing, ordering, or arranging for or recommending purchasing, etc., as constituting a felony punishable by a fine of not more than $25,000 and/or imprisonment for not more than five years, for provisions relating to furnishing items or services and soliciting, offering or receiving any kickback, bribe, or rebate in connection with furnishing, etc. items or services as constituting a misdemeanor punishable by a fine of not more than $10,000 and/or imprisonment for not more than one year, and added pars. (2) and (3). See Codification note above.
+Subsec. (b). Pub. L. 95–142, §4(b), redesignated existing provisions as par. (1), substituted provisions relating to solicitation or receiving of any remuneration in return for referring an individual to a person for the furnishing or arranging the furnishing of any item orservice, or in return for purchasing, leasing, ordering, or arranging for or recommending purchasing, etc., as constituting a felony punishable by a fine of not more than $25,000 and/or imprisonment for not more than five years, for provisions relating to furnishing items or services and soliciting, offering or receiving any kickback, bribe, or rebate in connection with furnishing, etc. items or services as constituting a misdemeanor punishable by a fine of not more than $10,000 and/or imprisonment for not more than one year, and added pars. (2) and (3). See Codification note above.
 
 Subsec. (c). Pub. L. 95–142, §4(b), substituted provisions setting forth felony nature of criminal activities with a fine of not more than $25,000, or imprisonment for not more than five years, or both, for provisions setting forth misdemeanor nature of criminal activities with a fine of not more than $2,000, or imprisonment for not more than six months, or both. See Codification note above.
 
@@ -231,6 +233,8 @@ Subsec. (d). Pub. L. 95–142, §4(b), added subsec. (d). See Codification note 
 Subsec. (e). Pub. L. 95–142, §4(a), added subsec. (e). See Codification note above.
 
 <b>1972</b>—Subsec. (c). Pub. L. 92–603, §278(b)(9), substituted "skilled nursing facility" for "skilled nursing home".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 
@@ -282,6 +286,10 @@ Pub. L. 95–142, §4(d), Oct. 25, 1977, 91 Stat. 1183, provided that: "The amen
 
 Pub. L. 92–603, title II, §242(d), Oct. 30, 1972, 86 Stat. 1420, provided that: "The provisions of amendments made by this section \[enacting this section and section 1396h of this title and amending section 1395ii of this title\] shall not be applicable to any acts, statements, or representations made or committed prior to the enactment of this Act \[Oct. 30, 1972\]."
 
+#### Moratorium on Implementation of Rule Relating to Eliminating the Anti-Kickback Statute Safe Harbor Protection for Prescription Drug Rebates
+
+Pub. L. 117–58, div. I, §90006, Nov. 15, 2021, 135 Stat. 1346, provided that: "Notwithstanding any other provision of law, the Secretary of Health and Human Services shall not, prior to January 1, 2026, implement, administer, or enforce the provisions of the final rule published by the Office of the Inspector General of the Department of Health and Human Services on November 30, 2020, and titled 'Fraud and Abuse; Removal of Safe Harbor Protection for Rebates Involving Prescription Pharmaceuticals and Creation of New Safe Harbor Protection for Certain Point-of-Sale Reductions in Price on Prescription Pharmaceuticals and Certain Pharmacy Benefit Manager Service Fees' (85 Fed. Reg. 76666)."
+
 #### Rulemaking for Exception for Health Center Entity Arrangements
 
 Pub. L. 108–173, title IV, §431(b), Dec. 8, 2003, 117 Stat. 2287, provided that:
@@ -326,7 +334,7 @@ In general.—The Secretary of Health and Human Services (in this subsection ref
 
 Factors to consider.—In establishing standards relating to the exception for risk-sharing arrangements to the anti-kickback penalties under subparagraph (A), the Secretary—
 
-&emsp;&emsp;"(i) shall consult with the Attorney General and representatives of the hospital, physician, otherhealth practitioner, and health plan communities, and other interested parties; and
+&emsp;&emsp;"(i) shall consult with the Attorney General and representatives of the hospital, physician, other health practitioner, and health plan communities, and other interested parties; and
 
 &emsp;&emsp;"(ii) shall take into account—
 
@@ -377,6 +385,8 @@ Publication of rule after public comment.—The Secretary shall provide for cons
 #### Anti-Kickback Regulations
 
 Pub. L. 100–93, §14(a), Aug. 18, 1987, 101 Stat. 697, provided that: "The Secretary of Health and Human Services, in consultation with the Attorney General, not later than 1 year after the date of the enactment of this Act \[Aug. 18, 1987\] shall publish proposed regulations, and not later than 2 years after the date of the enactment of this Act shall promulgate final regulations, specifying payment practices that shall not be treated as a criminal offense under section 1128B(b) of the Social Security Act \[42 U.S.C. 1320a–7b(b)\] and shall not serve as the basis for an exclusion under section 1128(b)(7) of such Act. Any practices specified in regulations pursuant to the preceding sentence shall be in addition to the practices described in subparagraphs (A) through (C) of section 1128B(b)(3)."
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13939. Lowering Prices for Patients by Eliminating Kickbacks to Middlemen
 

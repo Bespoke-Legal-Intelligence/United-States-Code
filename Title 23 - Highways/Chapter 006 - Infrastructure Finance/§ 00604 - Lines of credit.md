@@ -42,7 +42,7 @@ Draws.—Any draw on a line of credit under this section shall—
 
 &emsp;(4)
 
-Interest rate.—Except as provided in subparagraphs (B) and (C) of section 603(b)(4), the interest rate on a direct loan resulting from a draw on the line of credit shall be not less than the yield on 30-year United States Treasury securities, as of the date of execution of the line of credit agreement.
+Interest rate.—Except as provided in subparagraphs (B) and (C) of section 603(b)(4),the interest rate on a direct loan resulting from a draw on the line of credit shall be not less than the yield on 30-year United States Treasury securities, as of the date of execution of the line of credit agreement.
 
 &emsp;(5)
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Jurisdiction.—Jurisdiction of the United States with respect to a vessel subject to thischapter is not an element of an offense. Jurisdictional issues arising under this chapter are preliminary questions of law to be determined solely by the trial judge.
+Jurisdiction.—Jurisdiction of the United States with respect to a vessel subject to this chapter is not an element of an offense. Jurisdictional issues arising under this chapter are preliminary questions of law to be determined solely by the trial judge.
 
 (b)
 

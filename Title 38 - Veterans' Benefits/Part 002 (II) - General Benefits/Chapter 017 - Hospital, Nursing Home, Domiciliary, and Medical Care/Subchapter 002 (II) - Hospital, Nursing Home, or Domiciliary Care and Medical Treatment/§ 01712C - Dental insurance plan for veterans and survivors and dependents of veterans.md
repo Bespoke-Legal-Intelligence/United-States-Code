@@ -60,9 +60,11 @@ Relationship to Dental Care Provided by Secretary.—Nothing in this section sha
 
 Regulations.—The dental insurance plan under this section shall be administered under such regulations as the Secretary shall prescribe.
 
-(j)
+(Added Pub. L. 114–218, §2(a)(1), July 29, 2016, 130 Stat. 842; amended Pub. L. 117–42, §2, Sept. 30, 2021, 135 Stat. 342.)
 
-Termination.—This section terminates on December 31, 2021.
+#### <b>Editorial Notes</b>
 
-(Added Pub. L. 114–218, §2(a)(1), July 29, 2016, 130 Stat. 842.)
+#### Amendments
+
+<b>2021</b>—Subsec. (j). Pub. L. 117–42 struck out subsec. (j). Text read as follows: "This section terminates on December 31, 2021."
 

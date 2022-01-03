@@ -74,7 +74,7 @@ No person shall be subject to a civil penalty or to a criminal fine or imprisonm
 
 #### References in Text
 
-Section 13 of the Federal Water Pollution Control Act, referred to in subsec. (e), is section 13 of act June 30, 1948, ch. 758, as added by act Apr. 3, 1970, Pub. L. 91–224, title I, §102, 84 Stat. 100, which was classified to section 1163 of this title and was superseded by Pub. L. 92–500, Oct. 18, 1972, 86 Stat. 816. See section 1322 of this title.
+Section 13 of the Federal Water Pollution Control Act, referred to in subsec. (e), is section 13 of act June 30, 1948, ch. 758, as added by act Apr. 3, 1970, Pub. L. 91–224, title I, §102, 84 Stat. 100, which was classified tosection 1163 of this title and was superseded by Pub. L. 92–500, Oct. 18, 1972, 86 Stat. 816. See section 1322 of this title.
 
 #### Amendments
 

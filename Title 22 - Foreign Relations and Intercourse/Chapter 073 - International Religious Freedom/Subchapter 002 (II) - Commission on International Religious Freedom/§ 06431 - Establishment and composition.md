@@ -50,7 +50,7 @@ There is established the United States Commission on International Religious Fre
 
 #### (D) Appointments by the Speaker of the House of Representatives
 
-&emsp;&emsp;Of the three members of the Commission appointed by the Speaker of the House ofRepresentatives under subsection (b)(1)(B)(iii), one of the appointments made upon the recommendation of the leader in the House of the political party that is not the political party of the President shall be to a 1-year term, and the other two appointments under such clause shall be 2-year terms.
+&emsp;&emsp;Of the three members of the Commission appointed by the Speaker of the House of Representatives under subsection (b)(1)(B)(iii), one of the appointments made upon the recommendation of the leader in the House of the political party that is not the political party of the President shall be to a 1-year term, and the other two appointments under such clause shall be 2-year terms.
 
 #### (E) Appointments to 1-year terms
 
@@ -104,7 +104,7 @@ The Congressional Accountability Act of 1995, referred to in subsec. (j), is Pub
 
 <b>2019</b>—Subsec. (b)(2). Pub. L. 116–94, §803(1), struck out subpar. (A) designation and heading and subpar. (B). Prior to amendment, text of subpar. (B) read as follows: "Each member of the Commission shall be required to obtain a security clearance."
 
-Subsec. (d). Pub. L. 116–94, §803(2), amended subsec. (d) generally. Prior to amendment, text read as follows: "At the first meeting of the Commission after May 30 of each year, a majority of the members of the Commission present and voting shall elect the Chair of theCommission. No member of the Commission is eligible to be elected as Chair of the Commission for a second, consecutive term."
+Subsec. (d). Pub. L. 116–94, §803(2), amended subsec. (d) generally. Prior to amendment, text read as follows: "At the first meeting of the Commission after May 30 of each year, a majority of the members of the Commission present and voting shall elect the Chair of the Commission. No member of the Commission is eligible to be elected as Chair of the Commission for a second, consecutive term."
 
 Subsec. (f). Pub. L. 116–94, §803(3), substituted "International Religious Freedom Report" for "Country Report on Human Rights Practices".
 

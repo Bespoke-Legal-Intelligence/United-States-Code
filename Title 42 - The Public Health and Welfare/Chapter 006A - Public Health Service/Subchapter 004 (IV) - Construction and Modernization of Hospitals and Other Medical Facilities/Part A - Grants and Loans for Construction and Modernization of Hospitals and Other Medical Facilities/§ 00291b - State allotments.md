@@ -68,6 +68,8 @@ In accordance with regulations, any State may file with the Surgeon General a re
 
 (July 1, 1944, ch. 373, title VI, §602, as added Pub. L. 88–443, §3(a), Aug. 18, 1964, 78 Stat. 448; amended Pub. L. 90–574, title IV, §402(b), Oct. 15, 1968, 82 Stat. 1011; Pub. L. 91–296, title I, §§103(a), (b), 104, 116(a), 119(a)–(c), 122, June 30, 1970, 84 Stat. 338, 341, 343, 344.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 291b, act July 1, 1944, ch. 373, title VI, §612, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041, related to a State application for funds, its requirements and its approval, prior to the general amendment of this subchapter by Pub. L. 88–443.
@@ -82,7 +84,7 @@ A prior section 291n–1, act July 1, 1944, ch. 373, title VI, §637, formerly �
 
 A prior section 291r, act July 1, 1944, ch. 373, title VI, §648, as added July 12, 1954, ch. 471, §2, 68 Stat. 462, related to subject matter similar to this section, prior to the general amendment of this subchapter by Pub. L. 88–443.
 
-A prior section 291t, act July 1, 1944, ch. 373, title VI, §652, as added July 12, 1954, ch. 471, §3, 68 Stat. 462; amended Aug. 1, 1956, ch. 852, §19(c), 70 Stat. 911; Oct. 5, 1961, Pub. L. 87–395, §3(b), 75 Stat. 825; Sept. 25, 1962,Pub. L. 87–688, §4(a)(3), 76 Stat. 587, related to subject matter similar to this section, prior to the general amendment of this subchapter by Pub. L. 88–443.
+A prior section 291t, act July 1, 1944, ch. 373, title VI, §652, as added July 12, 1954, ch. 471, §3, 68 Stat. 462;amended Aug. 1, 1956, ch. 852, §19(c), 70 Stat. 911; Oct. 5, 1961, Pub. L. 87–395, §3(b), 75 Stat. 825; Sept. 25, 1962, Pub. L. 87–688, §4(a)(3), 76 Stat. 587, related to subject matter similar to this section, prior to the general amendment of this subchapter by Pub. L. 88–443.
 
 A prior section 291v(b), act July 1, 1944, ch. 373, title VI, §654, as added July 12, 1954, ch. 471, §3, 68 Stat. 463, related to subject matter similar to this section, prior to the general amendment of this subchapter by Pub. L. 88–443.
 
@@ -112,6 +114,12 @@ Subsec. (e). Pub. L. 91–296, §104, authorized any State to make transfers of 
 
 Subsec. (e)(2)(E). Pub. L. 90–574, §402(b)(2), added subpar. (E).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsecs. (a)(2), (e), and (f) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+
 #### Effective Date of 1970 Amendment
 
 Pub. L. 91–296, title I, §103(a), June 30, 1970, 84 Stat. 338, provided that the amendment made by that section is effective with respect to appropriations made pursuant to section 291a of this title for fiscal years beginning after June 30, 1970.
@@ -124,14 +132,6 @@ Pub. L. 91–296, title I, §119(e), June 30, 1970, 84 Stat. 343, provided that:
 
 Pub. L. 91–296, title I, §122, June 30, 1970, 84 Stat. 344, provided that the amendment made by that section is effective with respect to allotments made from appropriations under section 291a of this title for fiscal years beginning after June 30, 1970.
 
-#### Transfer of Functions
-
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
-
-#### Termination of Trust Territory of the Pacific Islands
-
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
 #### Availability of Funds for Obligation From Allotment for Administration of Plan
 
 Pub. L. 93–641, §5(b), Jan. 4, 1975, 88 Stat. 2274, provided that any State having in the fiscal year ending June 30, 1975 or the next fiscal year funds available for obligation from its allotments under section 291a et seq. of this title, may in such fiscal year use for the proper and efficient administration during such year of its State plan an amount of such funds not exceeding 4 percentum of such funds or $100,000, whichever is less.
@@ -143,4 +143,14 @@ Pub. L. 91–296, title I, §103(c), June 30, 1970, 84 Stat. 338, directed Secre
 #### Approval of Application for Modernization Prior to July 1, 1965, or Before Approval of a State Plan
 
 Pub. L. 88–443, §3(b)(5), Aug. 18, 1964, 78 Stat. 462, providing that no application for modernization of any facility may be approved for purposes of receiving funds before the approval of a State plan, as well as other requirements, is set out as an Effective Date note under section 291 of this title.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
+
+#### Termination of Trust Territory of the Pacific Islands
+
+For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 

@@ -16,6 +16,8 @@ Duties.—(1) The Legal Counsel of the Chairman of the Joint Chiefs of Staff sha
 
 (Added Pub. L. 110–181, div. A, title V, §543(e)(1), Jan. 28, 2008, 122 Stat. 115; amended Pub. L. 110–417, \[div. A\], title V, §591, Oct. 14, 2008, 122 Stat. 4474; Pub. L. 111–84, div. A, title V, §501(a), Oct. 28, 2009, 123 Stat. 2272; Pub. L. 114–328, div. A, title V, §502(b), Dec. 23, 2016, 130 Stat. 2102.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Subsecs. (c), (d). Pub. L. 114–328 redesignated subsec. (d) as (c) and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows: "An officer appointed to serve as Legal Counsel to the Chairman of the Joint Chiefs of Staff shall be appointed in the regular grade of brigadier general or rear admiral (lower half)."
@@ -23,6 +25,8 @@ Duties.—(1) The Legal Counsel of the Chairman of the Joint Chiefs of Staff sha
 <b>2009</b>—Subsec. (c). Pub. L. 111–84 substituted "be appointed in the regular" for ", while so serving, hold the".
 
 <b>2008</b>—Subsec. (d). Pub. L. 110–417 designated existing provisions as par. (1) and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

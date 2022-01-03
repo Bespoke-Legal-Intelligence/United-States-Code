@@ -68,7 +68,7 @@ The Federal share of assistance under this section shall be not less than 75 per
 
 #### (5) Guidelines
 
-&emsp;Not later than 180 days after November 23, 1988, the President shall issue guidelines for carrying out this subsection. Such guidelines shall consider any likely effect assistance under this subsection will have on the availability of other forms of assistance under this chapter.
+&emsp;Not later than 180 days after November 23, 1988, the President shall issue guidelines forcarrying out this subsection. Such guidelines shall consider any likely effect assistance under this subsection will have on the availability of other forms of assistance under this chapter.
 
 #### (6) Definitions
 
@@ -106,6 +106,8 @@ The Federal share of assistance under this section shall be not less than 75 per
 
 (Pub. L. 93–288, title IV, §403, as added Pub. L. 100–707, title I, §106(a)(3), Nov. 23, 1988, 102 Stat. 4697; amended Pub. L. 109–295, title VI, §689(b), Oct. 4, 2006, 120 Stat. 1449; Pub. L. 109–308, §4, Oct. 6, 2006, 120 Stat. 1726; Pub. L. 113–2, div. B, §1108(b), Jan. 29, 2013, 127 Stat. 47; Pub. L. 115–254, div. D, §1217(d), Oct. 5, 2018, 132 Stat. 3452.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a)(1) and (c)(1), (3), (5), was in the original "this Act", meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
@@ -126,9 +128,51 @@ A prior section 403 of Pub. L. 93–288 was renumbered section 407 by Pub. L. 10
 
 Subsec. (a)(3)(J). Pub. L. 109–295, §689(b)(2)(B)–(D), and Pub. L. 109–308 amended par. (3) by adding identical subpars. (J).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–254 applicable to each major disaster and emergency declared by the President on or after Aug. 1, 2017, and authorities provided under div. D of Pub. L. 115–254 applicable to each major disaster and emergency declared by the President on or after Jan. 1, 2016, except as otherwise provided, see section 1202 of Pub. L. 115–254, set out as a note under section 5121 of this title.
+
+#### <b>Executive Documents</b>
+
+#### Maximizing Assistance From the Federal Emergency Management Agency To Respond to COVID–19
+
+Memorandum of President of the United States, Dec. 27, 2021, 87 F.R. 27, provided:
+
+Memorandum for the Secretary of Health and Human Services\[,\] the Secretary of Homeland Security\[, and\] the Administrator of the Federal Emergency Management Agency
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Robert T. Stafford Disaster Relief and Emergency Assistance Act, 42 U.S.C. 5121–5207 (the "Stafford Act"), I hereby order as follows:
+
+Section 1. <i>Policy</i>. It is the policy of my Administration to combat and respond to the coronavirus disease 2019 (COVID–19) pandemic with the full capacity and capability of the Federal Government to protect and support our families, schools, and businesses, and to assist State, local, Tribal, and territorial governments to do the same. This policy includes the use of emergency and disaster assistance available from the Federal Emergency Management Agency (FEMA) to get COVID–19 testing to the places that need it most.
+
+Sec. 2. <i>Assistance for COVID–19 Screening as an Emergency Protective Measure</i>. (a) With respect to a request to FEMA from any State, Tribal, or territorial government for direct Federal assistance to establish or expand COVID–19 testing sites, the Administrator of FEMA shall issue a mission assignment to the Department of Health and Human Services (HHS), on a fully reimbursable basis, to provide testing sites, launched and operated by HHS in close coordination with State, local, Tribal, and territorial public health departments.
+
+(b) FEMA's mission assignments will require HHS to adjudicate State, Tribal, and territorial requests through the Emergency Support Function \#8 Advisory Council.
+
+(c) FEMA shall fund 100 percent of the cost of activities associated with the mission assignments to HHS to provide COVID–19 testing sites as described in section 2(a) of this memorandum, as authorized by sections 403 (42 U.S.C. 5170b), 502 (42 U.S.C. 5192), and 503 (42 U.S.C. 5193) of the Stafford Act.
+
+Sec. 3. <i>General Provisions</i>. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(d) The Administrator of FEMA is authorized and directed to publish this memorandum in the Federal Register.
+
+J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+Prior provisions related to maximizing assistance from the Federal Emergency Management Agency to respond to COVID–19 were contained in the following:
+
+Memorandum of President of the United States, Nov. 9, 2021, 86 F.R. 64055.
+
+Memorandum of President of the United States, Aug. 17, 2021, 86 F.R. 46759.
+
+Memorandum of President of the United States, Feb. 2, 2021, 86 F.R. 8281.
 
 <i><sup>1</sup></i><i> So in original. The extra comma probably should follow "medicine".</i>
 

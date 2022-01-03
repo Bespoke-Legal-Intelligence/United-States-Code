@@ -8,7 +8,7 @@ The Secretary shall, for the Animas-La Plata, Dolores, Dallas Creek, San Miguel,
 
 #### Codification
 
-Section consists of subsec. (d) of section 501 of Pub. L. 90–537. Subsecs. (a), (b), and (e) of section 501 are classified to sections 620, 620 note, 620a, 620a–1, 620c–1, and 620k note of this title. Subsecs. (c) and (f) of section 501 are not classified to the Code.
+Section consists of subsec. (d) of section 501 of Pub. L. 90–537. Subsecs. (a), (b), and (e) of section 501 areclassified to sections 620, 620 note, 620a, 620a–1, 620c–1, and 620k note of this title. Subsecs. (c) and (f) of section 501 are not classified to the Code.
 
 Section was enacted as part of the Colorado River Basin Project Act, and not as part of act Apr. 11, 1956, popularly known as the Colorado River Storage Project Act, which comprises this chapter.
 

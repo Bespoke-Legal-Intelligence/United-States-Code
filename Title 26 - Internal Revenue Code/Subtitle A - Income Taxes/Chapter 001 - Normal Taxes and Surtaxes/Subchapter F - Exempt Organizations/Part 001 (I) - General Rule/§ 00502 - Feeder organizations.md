@@ -16,9 +16,13 @@ For purposes of this section, the term "trade or business" shall not include—
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 166; Pub. L. 91–172, title I, §121(b)(7), Dec. 30, 1969, 83 Stat. 542.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1969</b>—Pub. L. 91–172 redesignated first sentence of existing provisions as subsec. (a), and substantial portion of second sentence as subsec. (b)(1), and, in subsec. (b)(1) as so redesignated, inserted reference to section 512 of this title, and added pars. (2) and (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1969 Amendment
 

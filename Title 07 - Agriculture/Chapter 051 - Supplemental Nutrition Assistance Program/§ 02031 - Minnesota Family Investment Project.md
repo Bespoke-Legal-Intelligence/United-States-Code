@@ -34,7 +34,7 @@ The application submitted by the State under subsection (a) shall provide an ass
 
 &emsp;&emsp;(iv) increase the amount of assistance paid to participating families, if the State or locality imposes a sales tax on food, by the amount needed to compensate for the tax.
 
-> &emsp;This subparagraph shall not be construed to require the State to make the determination under clause (ii) for families that do not have a set of characteristics identified under clause (i).
+> &emsp;This subparagraph shall not be construed to require the State to make the determination under clause (ii) for families that do not havea set of characteristics identified under clause (i).
 
 &emsp;(D)(i) The State shall designate standardized amounts of assistance provided as food assistance under the Project and notify monthly each participating family of such designated amount.
 
@@ -146,7 +146,7 @@ The Project shall be subject to the following additional terms and conditions:
 
 (2) The Secretary shall periodically adjust payments made to the State under paragraph (1) to reflect—
 
-&emsp;(A) the cost of benefits issued to individuals ineligible for the Project specified in subsection (b)(3)(E) in excess of the amount that would have been issued to such individuals hadthe Project not been implemented, as estimated under a methodology satisfactory to the Secretary after negotiations with the State; and
+&emsp;(A) the cost of benefits issued to individuals ineligible for the Project specified in subsection (b)(3)(E) in excess of the amount that would have been issued to such individuals had the Project not been implemented, as estimated under a methodology satisfactory to the Secretary after negotiations with the State; and
 
 &emsp;(B) the cost of benefits issued to families exercising the option specified in subsection (b)(3)(D)(iii) in excess of the amount that would have been issued to such individuals had the Project not been implemented, as estimated under a methodology satisfactory to the Secretary after negotiations with the State.
 
@@ -174,7 +174,7 @@ The Comptroller General of the United States shall—
 
 (2) Nothing in this section shall—
 
-&emsp;(A) allow payments made to the State under the Project to be less than the amounts the State and eligible households within the State would have received if the Project had not been implemented; or
+&emsp;(A) allow payments made to the State under the Project to be less than the amounts the State and eligible households within the Statewould have received if the Project had not been implemented; or
 
 &emsp;(B) require the Secretary to incur costs as a result of the Project in excess of costs that would have been incurred if the Project had not been implemented, except for costs for evaluation.
 
@@ -201,6 +201,8 @@ For purposes of this section, the following definitions apply:
 &emsp;(4) The term "State" means the State of Minnesota.
 
 (Pub. L. 88–525, §22, as added Pub. L. 101–202, Dec. 6, 1989, 103 Stat. 1796; amended Pub. L. 102–237, title IX, §941(11), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 107–171, title IV, §4118(d), May 13, 2002, 116 Stat. 321; Pub. L. 110–234, title IV, §§4001(b), 4002(a)(11), 4115(b)(15), May 22, 2008, 122 Stat. 1092, 1095, 1108; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4002(a)(11), 4115(b)(15), June 18, 2008, 122 Stat. 1664, 1853, 1856, 1870; Pub. L. 113–79, title IV, §4030(k), Feb. 7, 2014, 128 Stat. 814.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -247,6 +249,8 @@ Subsec. (h). Pub. L. 110–246, §4115(b)(15)(A), substituted "benefits" for "fo
 Subsec. (d)(2)(B). Pub. L. 102–237, §941(11)(B), substituted "subsection (b)(3)(D)(iii)" for "paragraph (b)(3)(D)(iii)".
 
 Subsec. (h). Pub. L. 102–237, §941(11)(C), substituted "subsection (b)(12)" for "subsection b(12)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

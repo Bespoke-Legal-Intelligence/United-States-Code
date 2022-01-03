@@ -18,6 +18,8 @@ It is the purpose of this subchapter to require that consumer reporting agencies
 
 (Pub. L. 90–321, title VI, §602, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1128.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2003 Amendment
 
 Pub. L. 108–159, §3, Dec. 4, 2003, 117 Stat. 1953, provided that: "Except as otherwise specifically provided in this Act \[see Short Title of 2003 Amendment note set out under section 1601 of this title\] and the amendments made by this Act—
@@ -108,7 +110,7 @@ Areas for study.—In conducting the study under paragraph (1), the Commission s
 
 &emsp;&emsp;&emsp;"(ii) the extent to which providing such reports to consumers would increase the ability of consumers to remove fraudulent information from their credit reports;
 
-&emsp;&emsp;"(D) any common financial transactions that are not generally reported to the consumer reporting agencies, but would provide useful information in determining the credit worthiness of consumers; and
+&emsp;&emsp;"(D) any common financial transactions that are not generally reported to the consumer reportingagencies, but would provide useful information in determining the credit worthiness of consumers; and
 
 &emsp;&emsp;"(E) any actions that might be taken within a voluntary reporting system to encourage the reporting of the types of transactions described in subparagraph (D).
 

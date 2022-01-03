@@ -56,11 +56,13 @@ Annual Reports.—(1) Not later than July 1 each year, the Council shall submit 
 
 (Added Pub. L. 110–181, div. A, title V, §581(a), Jan. 28, 2008, 122 Stat. 120; amended Pub. L. 111–84, div. A, title V, §562, Oct. 28, 2009, 123 Stat. 2303; Pub. L. 111–383, div. A, title V, §581, Jan. 7, 2011, 124 Stat. 4226; Pub. L. 112–81, div. A, title V, §574, Dec. 31, 2011, 125 Stat. 1427; Pub. L. 114–328, div. A, title IX, §933(a)(2), Dec. 23, 2016, 130 Stat. 2364; Pub. L. 115–232, div. A, title V, §571(a)–(c), Aug. 13, 2018, 132 Stat. 1777, 1778; Pub. L. 116–283, div. A, title IX, §924(b)(29), Jan. 1, 2021, 134 Stat. 3825.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Subsec. (b)(1). Pub. L. 116–283 substituted "Air Force, Marine Corps, and Space Force" for "Marine Corps, and Air Force" wherever appearing.
 
-<b>2018</b>—Subsec. (b)(1)(B)(i). Pub. L. 115–232, §571(a)(1)(A), substituted "a member or civilian employee of the armed force to be represented" for "a member of the armed force to be represented".
+<b>2018</b>—Subsec. (b)(1)(B)(i). Pub. L. 115–232, §571(a)(1)(A), substituted "a member or civilian employee of thearmed force to be represented" for "a member of the armed force to be represented".
 
 Subsec. (b)(1)(B)(ii). Pub. L. 115–232, §571(a)(1)(B), added cl. (ii) and struck out former cl. (ii) which read as follows: "One representative of the Army National Guard or the Air National Guard, who may be a member of the National Guard."
 
@@ -99,6 +101,8 @@ Subsec. (b)(3). Pub. L. 111–383, §581(d)(2), added par. (3).
 <b>2009</b>—Subsec. (b)(1)(C) to (E). Pub. L. 111–84, §562(a), added subpar. (C), redesignated former subpars. (C) and (D) as (D) and (E), respectively, and substituted "subparagraphs (B) and (C)" for "subparagraph (B)" in subpar. (E).
 
 Subsec. (b)(2). Pub. L. 111–84, §562(b), substituted "subparagraphs (C) and (D) of paragraph (1)" for "paragraph (1)(C)" and inserted at end "Representation on the Council required by clause (i) of paragraph (1)(C) shall rotate between the Army National Guard and Air National Guard. Representation required by clause (ii) of such paragraph shall rotate among the reserve components specified in such clause."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

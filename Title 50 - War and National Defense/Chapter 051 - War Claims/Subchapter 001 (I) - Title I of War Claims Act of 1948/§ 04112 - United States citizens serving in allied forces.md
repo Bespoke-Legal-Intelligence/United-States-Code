@@ -2,7 +2,7 @@
 
 #### (a) Right to compensation
 
-The Commission is authorized to receive and to determine, according to law, the amount and validity, and provide for the payment of any claim for compensation filed by or on behalf of any individual who, being then an American citizen, served in the military or naval forces ofany government allied with the United States during World War II who was held as a prisoner of war for any period of time subsequent to December 7, 1941, by any government of any nation with which such allied government has been at war subsequent to such date. Compensation shall be payable under this section in accordance with the standards established by, and at the rates prescribed in, subsection (b) of section 4105 of this title, and paragraphs (2) and (3) of subsection (d) of such section 4105.
+The Commission is authorized to receive and to determine, according to law, the amount and validity, and provide for the payment of any claim for compensation filed by or on behalf of any individual who, being then an American citizen, served in the military or naval forces of any government allied with the United States during World War II who was held as a prisoner of war for any period of time subsequent to December 7, 1941, by any government of any nation with which such allied government has been at war subsequent to such date. Compensation shall be payable under this section in accordance with the standards established by, and at the rates prescribed in, subsection (b) of section 4105 of this title, and paragraphs (2) and (3) of subsection (d) of such section 4105.
 
 #### (b) Deductions
 
@@ -22,6 +22,8 @@ Any claim allowed under the provisions of this section shall be certified to the
 
 (July 3, 1948, ch. 826, title I, §15, as added Aug. 31, 1954, ch. 1162, title I, §103, 68 Stat. 1034; amended Pub. L. 87–846, title I, §102, Oct. 22, 1962, 76 Stat. 1107.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 2014 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
@@ -29,6 +31,8 @@ Section was formerly classified to section 2014 of the former Appendix to this t
 #### Amendments
 
 <b>1962</b>—Pub. L. 87–846 made technical amendment to reference in original act which appears in text of subsecs. (a) and (c) as reference to section 4105 of this title and in subsec. (e) as reference to section 4110 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

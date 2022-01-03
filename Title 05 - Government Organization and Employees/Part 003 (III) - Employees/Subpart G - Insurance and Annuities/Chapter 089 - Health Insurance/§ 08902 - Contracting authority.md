@@ -34,7 +34,7 @@
 
 (m)(1) The terms of any contract under this chapter which relate to the nature, provision, or extent of coverage or benefits (including payments with respect to benefits) shall supersede and preempt any State or local law, or any regulation issued thereunder, which relates to health insurance or plans.
 
-(2)(A) Notwithstanding the provisions of paragraph (1) of this subsection, if a contract under this chapter provides for the provision of, the payment for, or the reimbursement of the costof health services for the care and treatment of any particular health condition, the carrier shall provide, pay, or reimburse up to the limits of its contract for any such health service properly provided by any person licensed under State law to provide such service if such service is provided to an individual covered by such contract in a State where 25 percent or more of the population is located in primary medical care manpower shortage areas designated pursuant to section 332 of the Public Health Service Act (42 U.S.C. 254e).
+(2)(A) Notwithstanding the provisions of paragraph (1) of this subsection, if a contract under this chapter provides for the provision of, thepayment for, or the reimbursement of the cost of health services for the care and treatment of any particular health condition, the carrier shall provide, pay, or reimburse up to the limits of its contract for any such health service properly provided by any person licensed under State law to provide such service if such service is provided to an individual covered by such contract in a State where 25 percent or more of the population is located in primary medical care manpower shortage areas designated pursuant to section 332 of the Public Health Service Act (42 U.S.C. 254e).
 
 (B) The provisions of subparagraph (A) shall not apply to contracts entered into providing prepayment plans described in section 8903(4) of this title.
 
@@ -57,10 +57,6 @@
 (p) Each contract under this chapter shall require the carrier to comply with requirements described in the provisions of sections 2799A–1, 2799A–2, and 2799A–7 of the Public Health Service Act, sections 716, 717, and 722 of the Employee Retirement Income Security Act of 1974, and sections 9816, 9817, and 9822 of the Internal Revenue Code of 1986 (as applicable) in the same manner as such provisions apply to a group health plan or health insurance issuer offering group or individual health insurance coverage, as described in such sections. The provisions of sections 2799B–1, 2799B–2, 2799B–3, and 2799B–5 of the Public Health Service Act shall apply to a health care provider and facility and an air ambulance provider described in such respective sections with respect to an enrollee in a health benefits plan under this chapter in the same manner as such provisions apply to such a provider and facility with respect to an enrollee in a group health plan or group or individual health insurance coverage offered by a health insurance issuer, as described in such sections.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 601; Pub. L. 93–246, §3, Jan. 31, 1974, 88 Stat. 4; Pub. L. 93–363, §1, July 30, 1974, 88 Stat. 398; Pub. L. 94–183, §2(43), Dec. 31, 1975, 89 Stat. 1059; Pub. L. 94–460, title I, §110(b), Oct. 8, 1976, 90 Stat. 1952; Pub. L. 95–368, §1, Sept. 17, 1978, 92 Stat. 606; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–179, §3, Jan. 2, 1980, 93 Stat. 1299; Pub. L. 98–615, §3(2), Nov. 8, 1984, 98 Stat. 3203; Pub. L. 99–53, §2(a), June 17, 1985, 99 Stat. 94; Pub. L. 99–251, title I, §§105(b), 106(a)(3), Feb. 27, 1986, 100 Stat. 15, 16; Pub. L. 100–202, §101(m) \[title VI, §626\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–430; Pub. L. 100–654, title II, §§201(b), 202(a), Nov. 14, 1988, 102 Stat. 3845; Pub. L. 101–508, title VII, §7002(a), Nov. 5, 1990, 104 Stat. 1388–329; Pub. L. 101–509, title IV, §1, Nov. 5, 1990, 104 Stat. 1421; Pub. L. 102–393, title V, §537(a), (b), Oct. 6, 1992, 106 Stat. 1765; Pub. L. 105–12, §9(g), Apr. 30, 1997, 111 Stat. 27; Pub. L. 105–266, §§3(c), 8, Oct. 19, 1998, 112 Stat. 2366, 2370; Pub. L. 111–350, §5(a)(15), Jan. 4, 2011, 124 Stat. 3842; Pub. L. 116–260, div. BB, title I, §102(d)(1), Dec. 27, 2020, 134 Stat. 2797.)
-
-#### Applicability of Amendment
-
-<i>Amendment of section by section 102(d)(1) of div. BB of Pub. L. 116–260 applicable with respect to contracts entered into or renewed for contract years beginning on or after Jan. 1, 2022. See 2020 Amendment note below.</i>
 
 Historical and Revision Notes
 
@@ -108,7 +104,7 @@ Another section 1 of title IV of Pub. L. 101–509, 104 Stat. 1416, enacted sect
 
 <b>1998</b>—Subsec. (k)(2), (3). Pub. L. 105–266, §8, added par. (2) and redesignated former par. (2) as (3).
 
-Subsec. (m)(1). Pub. L. 105–266, §3(c), added par. (1) and struck out former par. (1) which read as follows: "The provisions of any contract under this chapter which relate to the nature or extent of coverage or benefits (including payments with respect to benefits) shall supersede and preempt any State or local law, or any regulation issued thereunder, which relates to health insurance or plans to the extent that such law or regulation is inconsistent with such contractual provisions."
+Subsec. (m)(1). Pub. L. 105–266, §3(c), added par. (1) and struck out former par. (1) which read as follows: "The provisions of any contract under this chapterwhich relate to the nature or extent of coverage or benefits (including payments with respect to benefits) shall supersede and preempt any State or local law, or any regulation issued thereunder, which relates to health insurance or plans to the extent that such law or regulation is inconsistent with such contractual provisions."
 
 <b>1997</b>—Subsec. (o). Pub. L. 105–12 added subsec. (o).
 
@@ -174,7 +170,7 @@ Pub. L. 102–393, title V, §537(c), Oct. 6, 1992, 106 Stat. 1765, provided tha
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–508, title VII, §7002(g), Nov. 5, 1990, 104 Stat. 1388–331, provided that: "Except as provided in subsection (f) \[set out as a note under section 8904 of this title\], the amendments made by this section \[amending this section, sections 8904, 8909, and 8910 ofthis title, and provisions set out as a note under section 8906 of this title\] shall apply with respect to contract years beginning on or after January 1, 1991."
+Pub. L. 101–508, title VII, §7002(g), Nov. 5, 1990, 104 Stat. 1388–331, provided that: "Except as provided in subsection (f) \[set out as a note under section 8904 of this title\], the amendments made by this section \[amending this section, sections 8904, 8909, and 8910 of this title, and provisions set out as a note under section 8906 of this title\] shall apply with respect to contract years beginning on or after January 1, 1991."
 
 #### Effective Date of 1988 Amendment
 

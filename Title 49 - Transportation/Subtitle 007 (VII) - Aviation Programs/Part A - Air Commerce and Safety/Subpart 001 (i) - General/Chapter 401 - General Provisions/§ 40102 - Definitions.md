@@ -460,6 +460,8 @@ Subsection (b) is substituted for 49 App.:1383 to eliminate unnecessary words.
 
 This makes a conforming amendment for consistency with the style of title 49.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a)(41)(F). Pub. L. 115–254 added subpar. (F).
@@ -488,6 +490,8 @@ Subsec. (a)(35). Pub. L. 103–305 struck out "for air transportation" after "ch
 
 Subsec. (a)(37)(B). Pub. L. 103–411 added subpar. (B) and struck out former subpar. (B) which read as follows: "does not include a government-owned aircraft transporting passengers or property for commercial purposes."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2003 Amendment
 
 Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
@@ -503,10 +507,6 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 Amendment by Pub. L. 103–411 effective on the 180th day following Oct. 25, 1994, see section 3(d) of Pub. L. 103–411, set out as a note under section 1131 of this title.
 
 Amendment by Pub. L. 103–305 effective Jan. 1, 1995, see section 601(d) of Pub. L. 103–305, set out as a note under section 10521 of this title.
-
-#### Territorial Sea of United States
-
-For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
 
 #### Definitions of Terms in Pub. L. 107–71
 
@@ -535,4 +535,10 @@ Administrator.—The term 'Administrator' means the Administrator of the Federal
 &emsp;"(2)
 
 Secretary.—The term 'Secretary' means the Secretary of Transportation."
+
+#### <b>Executive Documents</b>
+
+#### Territorial Sea of United States
+
+For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
 

@@ -6,9 +6,13 @@ To carry out such purpose, and in recognition of the increasing importance of ho
 
 (Pub. L. 89–174, §2, Sept. 9, 1965, 79 Stat. 667.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 624 of former Title 5, Executive Departments and Government Officers and Employees, prior to the general revision and enactment of Title 5, Government Organization and Employee by Pub. L. 89–554, §1, Sept. 1, 1966, 80 Stat. 378.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date: Interim Appointments
 
@@ -24,7 +28,7 @@ Pub. L. 101–235, §1(a), Dec. 15, 1989, 103 Stat. 1987, provided that: "This A
 
 #### Short Title
 
-Pub. L. 89–174, §1, Sept. 9, 1965, 79 Stat. 667, provided: "That this Act \[enacting this chapter, amending section 1451 of this title, sections 1 and 2211 of former Title 5, Executive Departments and Government Officers and Employees (see sections 101 and 5312 of Title 5, Government Organization and Employees), section 19 of Title 3, The President, and section 1723 of Title 12, Banks and Banking, and enacting provisions set out as notes under this section\] may be cited as the 'Department of Housing and Urban Development Act'."
+Pub. L. 89–174, §1, Sept. 9, 1965, 79 Stat. 667, provided: "That this Act \[enacting this chapter, amending section 1451 of this title, sections 1 and 2211 of former Title 5, Executive Departments and Government Officers and Employees (see sections 101 and 5312 of Title 5, Government Organization and Employees), section 19 of Title 3, The President, and section 1723 of Title 12, Banks and Banking, and enacting provisions set out as notesunder this section\] may be cited as the 'Department of Housing and Urban Development Act'."
 
 #### Savings Provision: Abatement of Actions; Continuation of Rules, Regulations, Etc.; References in Other Laws to Housing and Home Finance Agency; Lapse of Agencies
 
@@ -34,7 +38,9 @@ Pub. L. 89–174, §9, Sept. 9, 1965, 79 Stat. 670, provided that:
 
 "(b) No suit, action, or other proceeding commenced by or against any agency whose functions are transferred by this Act \[see Short Title note above and section 3534 of this title\], or by or against any officer of any such agency in his official capacity, shall abate by reason of the enactment of this Act. A court may at any time during the pendency of the litigation, on its own motion or that of any party, order that the same may be maintained by or against the United States or such official of the Department as may be appropriate.
 
-"(c) Except as may be otherwise expressly provided in this Act \[see Short Title note above\], all powers and authorities conferred by this Act shall be cumulative and additional to and not in derogation of any powers and authorities otherwise existing. All rules, regulations, orders, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to applicable law, prior to the effective date of this Act \[see Effective Date note above\] by any agency, officer, or office pertaining to any functions, powers, and duties transferred by this Act shall continue in full force and effect after the effective date of this Act until modified or rescinded by the Secretary or such other officer or office of the Department as, in accordance with applicable law, may be appropriate. With respect to any function, power, or duty transferred by or under this Act and exercised hereafter, reference in another Federal law to the Housing and Home Finance Agency or to any officer, office, or agency therein, except the Federal National Mortgage Association and its officers, shall be deemed to mean the Secretary. The positionsand agencies heretofore established by law in connection with the functions, powers, and duties transferred under section 5(a) of this Act \[section 3534(a) of this title\] shall lapse."
+"(c) Except as may be otherwise expressly provided in this Act \[see Short Title note above\], all powers and authorities conferred by this Act shall be cumulative and additional to and not in derogation of any powers and authorities otherwise existing. All rules, regulations, orders, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to applicable law, prior to the effective date of this Act \[see Effective Date note above\] by any agency, officer, or office pertaining to any functions, powers, and duties transferred by this Act shall continue in full force and effect after the effective date of this Act until modified or rescinded by the Secretary or such other officer or office of the Department as, in accordance with applicable law, may be appropriate. With respect to any function, power, or duty transferred by or under this Act and exercised hereafter, reference in another Federal law to the Housing and Home Finance Agency or to any officer, office, or agency therein, except the Federal National Mortgage Association and its officers, shall be deemed to mean the Secretary. The positions and agencies heretofore established by law in connection with the functions, powers, and duties transferred under section 5(a) of this Act \[section 3534(a) of this title\] shall lapse."
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 11452
 

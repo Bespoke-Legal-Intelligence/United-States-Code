@@ -2,7 +2,7 @@
 
 #### (a) Report required
 
-Not later than March 31, 2008, and each March 31 thereafter, the Foundation shall submit tothe appropriate congressional committees a report on the implementation of this part during the prior fiscal year.
+Not later than March 31, 2008, and each March 31 thereafter, the Foundation shall submit to the appropriate congressional committees a report on the implementation of this part during the prior fiscal year.
 
 #### (b) Contents
 
@@ -25,6 +25,8 @@ The report required by subsection (a) shall include—
 &emsp;&emsp;(D) total representational expenses.
 
 (Pub. L. 110–140, title IX, §924, Dec. 19, 2007, 121 Stat. 1736.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

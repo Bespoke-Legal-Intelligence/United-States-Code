@@ -68,7 +68,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A sponsor may request, in writing, a meeting with respect to a proposed sunscreen order issued under this subsection, including a letter deemed to be a proposed sunscreen order under paragraph (3), not later than 30 calendar days after the Secretary issues such order or the date upon which such feedback letter is deemed to be a proposed sunscreen order, as applicable. The Secretary shall convene a meeting with such sponsornot later than 45 calendar days after the date of such request for a meeting.
+&emsp;&emsp;A sponsor may request, in writing, a meeting with respect to a proposed sunscreen order issued under this subsection, including a letter deemed to be a proposed sunscreen order under paragraph (3), not later than 30 calendar days after the Secretary issues such order or the date upon which such feedback letter is deemed to be a proposed sunscreen order, as applicable. The Secretary shall convene a meeting with such sponsor not later than 45 calendar days after the date of such request for a meeting.
 
 #### (B) Confidential meetings
 
@@ -124,7 +124,7 @@ Any responsibility vested in the Commissioner by subsection (a)(2), (a)(6), (b)(
 
 #### (B) Sunscreen active ingredients determined not to be GRASE
 
-&emsp;&emsp;Upon issuance of a final sunscreen order determining that a nonprescription sunscreen active ingredient or combination of nonprescription sunscreen active ingredients is not GRASE and is misbranded, a sunscreen containing such ingredient or combination of ingredients shall not be introduced or delivered into interstate commerce, for use under the conditions described in such final sunscreen order, unless an application is approved pursuant to section 355 of this title with respect to a sunscreen containing such ingredient or combination of ingredients, or unless conditions are later established under which such ingredient or combination of ingredients is later determined to be GRASE and not misbrandedunder the over-the-counter drug monograph system.
+&emsp;&emsp;Upon issuance of a final sunscreen order determining that a nonprescription sunscreen active ingredient or combination of nonprescription sunscreen active ingredients is not GRASE and is misbranded, a sunscreen containing such ingredient or combination of ingredients shall not be introduced or delivered into interstate commerce, for use under the conditions described in such final sunscreen order, unless an application is approved pursuant to section 355 of this title with respect to a sunscreen containing such ingredient or combination of ingredients, or unless conditions are later established under which such ingredient or combination of ingredients is later determined to be GRASE and not misbranded under the over-the-counter drug monograph system.
 
 #### (2) Amendments to final sunscreen orders
 

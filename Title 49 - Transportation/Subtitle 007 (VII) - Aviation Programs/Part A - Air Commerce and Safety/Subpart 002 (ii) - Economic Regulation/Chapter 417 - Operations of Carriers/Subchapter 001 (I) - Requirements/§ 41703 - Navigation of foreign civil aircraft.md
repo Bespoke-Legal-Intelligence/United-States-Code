@@ -22,7 +22,7 @@ Requirements for Authorizing Navigation.—The Secretary may authorize navigatio
 
 (c)
 
-Providing Air Commerce.—The Secretary may authorize an aircraft permitted to navigate in the United States under this section to provide air commerce in the United States. However, the aircraft may take on for compensation, at a place in the United States, passengers or cargo destined for another place in the United States only if—
+Providing Air Commerce.—The Secretary may authorize an aircraft permitted to navigate in the United States under this section to provide air commerce in the United States. However, the aircraft may take on for compensation,at a place in the United States, passengers or cargo destined for another place in the United States only if—
 
 &emsp;(1) specifically authorized under section 40109(g) of this title; or
 
@@ -106,9 +106,13 @@ In subsection (c), before clause (1), the word "place" is substituted for "point
 
 In subsection (d), the word "affect" is substituted for "limit, modify, or amend" to eliminate unnecessary words.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2003</b>—Subsec. (e). Pub. L. 108–176 added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

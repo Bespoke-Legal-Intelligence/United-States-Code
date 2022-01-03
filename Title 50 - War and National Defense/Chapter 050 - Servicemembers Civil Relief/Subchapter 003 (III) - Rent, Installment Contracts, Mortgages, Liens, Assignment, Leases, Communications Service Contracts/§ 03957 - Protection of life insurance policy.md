@@ -2,7 +2,7 @@
 
 #### (a) Assignment of policy protected
 
-If a life insurance policy on the life of a servicemember is assigned before military service to secure the payment of an obligation, the assignee of the policy (except the insurer in connection with a policy loan) may not exercise, during a period of military service of the servicemember or within one year thereafter, any right or option obtained under the assignment without a court order.
+If a life insurance policy on the life of a servicemember is assigned before military service to secure the payment of an obligation, theassignee of the policy (except the insurer in connection with a policy loan) may not exercise, during a period of military service of the servicemember or within one year thereafter, any right or option obtained under the assignment without a court order.
 
 #### (b) Exception
 
@@ -28,6 +28,8 @@ A person who knowingly takes an action contrary to this section, or attempts to 
 
 (Oct. 17, 1940, ch. 888, title III, §306, as added Pub. L. 108–189, §1, Dec. 19, 2003, 117 Stat. 2850; amended Pub. L. 111–275, title III, §303(b)(6), Oct. 13, 2010, 124 Stat. 2878.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 536 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
@@ -39,6 +41,8 @@ A prior section 306 of act Oct. 17, 1940, ch. 888, art. III, as added Oct. 6, 19
 #### Amendments
 
 <b>2010</b>—Subsec. (e). Pub. L. 111–275 amended subsec. (e) generally. Prior to amendment, subsec. (e) related to penalties.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

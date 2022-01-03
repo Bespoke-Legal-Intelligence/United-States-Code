@@ -74,7 +74,7 @@ In this chapter, the following definitions apply:
 
 #### (7) License
 
-&emsp;The term "license" or "licensure", as applied with respect to a covered sports medicine professional, means a professional that has met the requirements and is approved to provide covered medical services in accordance with State laws and regulations in the primary State. Such term may include the registration or certification, or any other form of special recognition, of an individual as such a professional, as applicable.
+&emsp;The term "license" or "licensure", as applied with respect to a covered sports medicineprofessional, means a professional that has met the requirements and is approved to provide covered medical services in accordance with State laws and regulations in the primary State. Such term may include the registration or certification, or any other form of special recognition, of an individual as such a professional, as applicable.
 
 #### (8) National governing body
 
@@ -101,6 +101,8 @@ In this chapter, the following definitions apply:
 &emsp;The term "substantially similar", with respect to the licensure by primary and secondary States of a sports medicine professional, means that both the primary and secondary States have in place a form of licensure for such professionals that permits such professionals to provide covered medical services.
 
 (Pub. L. 115–254, div. A, §12, Oct. 5, 2018, 132 Stat. 3197.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) provide counseling, advocacy, and self-help services to victims of family violence, domestic violence, and dating violence, and their dependents;
 
-&emsp;&emsp;(C) in the case of an application submitted by a State, provide an assurance that there will be an equitable distribution of grantsand grant funds within the State and between urban and rural areas within such State;
+&emsp;&emsp;(C) in the case of an application submitted by a State, provide an assurance that there will be an equitable distribution of grants and grant funds within the State and between urban and rural areas within such State;
 
 &emsp;&emsp;(D) in the case of an application submitted by a State, provide an assurance that the State will consult with and provide for the participation of the State Domestic Violence Coalition in the planning and monitoring of the distribution of grants to eligible entities as described in section 10408(a) of this title and the administration of the grant programs and projects;
 
@@ -57,6 +57,8 @@
 &emsp;The Secretary shall suspend funding for an approved application if the applicant fails to submit an annual performance report under section 10406(d) of this title, or if funds are expended for purposes other than those set forth in section 10406(b) of this title, after following the procedures set forth in paragraphs (1), (2), and (3).
 
 (Pub. L. 98–457, title III, §307, as added Pub. L. 111–320, title II, §201, Dec. 20, 2010, 124 Stat. 3493.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

@@ -1,8 +1,12 @@
 ### §1385. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
-Section, act Aug. 14, 1935, ch. 531, title XVI, §1605, as added July 25, 1962, Pub. L. 87–543, title I, §141(a), 76 Stat. 204; amended July 30, 1965, Pub. L. 89–97, title II, §§221(d)(1), (2), 222(b), title IV, §402(b), 79 Stat. 358, 360, 416, defined "aid to the aged, blind, or disabled" and "medical assistance for the aged", prior to the general revision of this subchapter by Pub. L. 92–603, Oct. 30, 1972, 86 Stat. 1465, eff. Jan. 1, 1974.
+Section, act Aug. 14, 1935, ch. 531, title XVI, §1605, as added July 25, 1962, Pub. L. 87–543, title I, §141(a), 76 Stat. 204; amended July 30, 1965, Pub. L. 89–97, title II,§§221(d)(1), (2), 222(b), title IV, §402(b), 79 Stat. 358, 360, 416, defined "aid to the aged, blind, or disabled" and "medical assistance for the aged", prior to the general revision of this subchapter by Pub. L. 92–603, Oct. 30, 1972, 86 Stat. 1465, eff. Jan. 1, 1974.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Puerto Rico, Guam, and Virgin Islands
 
@@ -28,7 +32,7 @@ Enactment of subchapter XVI of the Social Security Act \[this subchapter\] by se
 
 &emsp;(E) opportunity for a fair hearing before the State agency on the determination referred to in clause (A) of this subsection for any individual with respect to whom it is made.
 
-> At the option of a State (if its plan approved under this subchapter so provides), such term (i) need not includemoney payments to an individual who has been absent from such State for a period in excess of ninety consecutive days (regardless of whether he has maintained his residence in such State during such period) until he has been present in such State for thirty consecutive days in the case of such an individual who has maintained his residence in such State during such period or ninety consecutive days in the case of any other such individual, and (ii) may include rent payments made directly to a public housing agency on behalf of a recipient or a group or groups of recipients of aid under such plan.
+> At the option of a State (if its plan approved under this subchapter so provides), such term (i) need not include money payments to an individual who has been absent from such State for a period in excess of ninety consecutive days (regardless of whether he has maintained his residence in such State during such period) until he has been present in such State for thirty consecutive days in the case of such an individual who has maintained his residence in such State during such period or ninety consecutive days in the case of any other such individual, and (ii) may include rent payments made directly to a public housing agency on behalf of a recipient or a group or groups of recipients of aid under such plan.
 
 (b) Repealed. Pub. L. 97–35, title XXI, §2184(d)(6)(B), Aug. 13, 1981, 95 Stat. 818.
 

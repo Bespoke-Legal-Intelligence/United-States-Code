@@ -14,7 +14,7 @@ Bureau.—The term "Bureau" means the Bureau of Consumer Financial Protection.
 
 (f) The term "credit" means the right granted by a creditor to a debtor to defer payment of debt or to incur debt and defer its payment.
 
-(g) The term "creditor" refers only to a person who both (1) regularly extends, whether in connection with loans, sales of property or services, or otherwise, consumer credit which is payable by agreement in more than four installments or for which the payment of a finance charge is or may be required, and (2) is the person to whom the debt arising from the consumer credit transaction is initially payable on the face of the evidence of indebtedness or, if there is no such evidence of indebtedness, by agreement. Notwithstanding the preceding sentence, in the case of an open-end credit plan involving a credit card, the card issuer and any person who honors the credit card and offers a discount which is a finance charge are creditors. For the purpose of the requirements imposed under part D of this subchapter and sections 1637(a)(5), 1637(a)(6), 1637(a)(7), 1637(b)(1), 1637(b)(2), 1637(b)(3), 1637(b)(8), and 1637(b)(10) of this title, the term "creditor" shall also include card issuers whether or not the amount due is payable by agreement in more than four installments or the payment of a finance charge is or may be required, and the Bureau shall, by regulation, apply these requirements to such card issuers, to the extent appropriate, even though the requirements are by their terms applicable only to creditors offering open-end credit plans. Any person who originates 2 or more mortgages referred to in subsection (aa) in any 12-month period or any person who originates 1 or more such mortgagesthrough a mortgage broker shall be considered to be a creditor for purposes of this subchapter. The term "creditor" includes a private educational lender (as that term is defined in section 1650 of this title) for purposes of this subchapter.
+(g) The term "creditor" refers only to a person who both (1) regularly extends, whether in connection with loans, sales of property or services, or otherwise, consumer credit which is payable by agreement in more than four installments or for which the payment of a finance charge is or may be required, and (2) is the person to whom the debt arising from the consumer credit transaction is initially payable on the face of the evidence of indebtedness or, if there is no such evidence of indebtedness, by agreement. Notwithstanding the preceding sentence, in the case of an open-end credit plan involving a credit card, the card issuer and any person who honors the credit card and offers a discount which is a finance charge are creditors. For the purpose of the requirements imposed under part D of this subchapter and sections 1637(a)(5), 1637(a)(6), 1637(a)(7), 1637(b)(1), 1637(b)(2), 1637(b)(3), 1637(b)(8), and 1637(b)(10) of this title, the term "creditor" shall also include card issuers whether or not the amount due is payable by agreement in more than four installments or the payment of a finance charge is or may be required, and the Bureau shall, by regulation, apply these requirements to such card issuers, to the extent appropriate, even though the requirements are by their terms applicable only to creditors offering open-end credit plans. Any person who originates 2 or more mortgages referred to in subsection (aa) in any 12-month period or any person who originates 1 or more such mortgages through a mortgage broker shall be considered to be a creditor for purposes of this subchapter. The term "creditor" includes a private educational lender (as that term is defined in section 1650 of this title) for purposes of this subchapter.
 
 (h) The term "credit sale" refers to any sale in which the seller is a creditor. The term includes any contract in the form of a bailment or lease if the bailee or lessee contracts to pay as compensation for use a sum substantially equivalent to or in excess of the aggregate value of the property and services involved and it is agreed that the bailee or lessee will become, or for no other or a nominal consideration has the option to become, the owner of the property upon full compliance with his obligations under the contract.
 
@@ -44,13 +44,13 @@ Bureau.—The term "Bureau" means the Bureau of Consumer Financial Protection.
 
 (u) The term "agricultural products" includes agricultural, horticultural, viticultural, and dairy products, livestock, wildlife, poultry, bees, forest products, fish and shellfish, and any products thereof, including processed and manufactured products, and any and all products raised or produced on farms and any processed or manufactured products thereof.
 
-(v) The term "material disclosures" means the disclosure, as required by this subchapter, of the annual percentage rate, the method of determining the finance charge and the balance upon which a finance charge will be imposed, the amount of the finance charge, the amount to be financed, the total of payments, the number and amount of payments, the due dates or periods of payments scheduled to repay the indebtedness, and the disclosures required by section 1639(a) of this title.
+(v) The term "material disclosures" means the disclosure, as required by this subchapter, of the annual percentage rate, the method of determining the finance charge and the balance uponwhich a finance charge will be imposed, the amount of the finance charge, the amount to be financed, the total of payments, the number and amount of payments, the due dates or periods of payments scheduled to repay the indebtedness, and the disclosures required by section 1639(a) of this title.
 
 (w) The term "dwelling" means a residential structure or mobile home which contains one to four family housing units, or individual units of condominiums or cooperatives.
 
 (x) The term "residential mortgage transaction" means a transaction in which a mortgage, deed of trust, purchase money security interest arising under an installment sales contract, or equivalent consensual security interest is created or retained against the consumer's dwelling to finance the acquisition or initial construction of such dwelling.
 
-(y) As used in this section and section 1666f of this title, the term "regular price" means the tag or posted price charged for the property or service if a single price is tagged or posted, or the price charged for the property or service when payment is made by use of an open-end credit plan or a credit card if either (1) no price is tagged or posted, or (2) two prices are tagged or posted, one of which is charged when payment is made by use of an open-end credit plan or a credit card and the other when payment is made by use of cash, check, or similar means. For purposes of this definition, payment by check,draft, or other negotiable instrument which may result in the debiting of an open-end credit plan or a credit cardholder's open-end account shall not be considered payment made by use of the plan or the account.
+(y) As used in this section and section 1666f of this title, the term "regular price" means the tag or posted price charged for the property or service if a single price is tagged or posted, or the price charged for the property or service when payment is made by use of an open-end credit plan or a credit card if either (1) no price is tagged or posted, or (2) two prices are tagged or posted, one of which is charged when payment is made by use of an open-end credit plan or a credit card and the other when payment is made by use of cash, check, or similar means. For purposes of this definition, payment by check, draft, or other negotiable instrument which may result in the debiting of an open-end credit plan or a credit cardholder's open-end account shall not be considered payment made by use of the plan or the account.
 
 (z) Any reference to any requirement imposed under this subchapter or any provision thereof includes reference to the regulations of the Bureau under this subchapter or the provision thereof in question.
 
@@ -102,7 +102,7 @@ Mortgage insurance.—For the purposes of computing the total points and fees un
 
 &emsp;&emsp;&emsp;(iii) any premium paid by the consumer after closing.
 
-(2)(A) After the 2-year period beginning on the effective date of the regulations promulgated under section 155 of the Riegle Community Development and Regulatory Improvement Act of 1994, and no more frequently than biennially after the first increase or decrease under this subparagraph, the Bureau may by regulation increase or decrease the number of percentage points specified in paragraph (1)(A), if the Bureau determines that the increase or decrease is—
+(2)(A) After the 2-year period beginning on the effective date of the regulations promulgatedunder section 155 of the Riegle Community Development and Regulatory Improvement Act of 1994, and no more frequently than biennially after the first increase or decrease under this subparagraph, the Bureau may by regulation increase or decrease the number of percentage points specified in paragraph (1)(A), if the Bureau determines that the increase or decrease is—
 
 &emsp;(i) consistent with the consumer protections against abusive lending provided by the amendments made by subtitle B of title I of the Riegle Community Development and Regulatory Improvement Act of 1994; and
 
@@ -116,7 +116,7 @@ Mortgage insurance.—For the purposes of computing the total points and fees un
 
 (C) In determining whether to increase or decrease the number of percentage points referred to in subparagraph (A), the Bureau shall consult with representatives of consumers, including low-income consumers, and lenders.
 
-(3) The amount specified in paragraph (1)(B)(ii) shall be adjusted annually on January 1 by theannual percentage change in the Consumer Price Index, as reported on June 1 of the year preceding such adjustment.
+(3) The amount specified in paragraph (1)(B)(ii) shall be adjusted annually on January 1 by the annual percentage change in the Consumer Price Index, as reported on June 1 of the year preceding such adjustment.
 
 (4) For purposes of paragraph (1)(B), points and fees shall include—
 
@@ -186,7 +186,7 @@ Mortgage originator.—The term "mortgage originator"—
 
 &emsp;&emsp;&emsp;(ii) a retailer of manufactured or modular homes or an employee of the retailer if the retailer or employee, as applicable—
 
-&emsp;&emsp;&emsp;&emsp;(I) does not receive compensation or gain for engaging in activities described in subparagraph (A) that is in excess of any compensation or gain received in a comparable cash transaction;
+&emsp;&emsp;&emsp;&emsp;(I) does not receive compensation or gain for engaging in activities describedin subparagraph (A) that is in excess of any compensation or gain received in a comparable cash transaction;
 
 &emsp;&emsp;&emsp;&emsp;(II) discloses to the consumer—
 
@@ -256,9 +256,11 @@ Bona Fide Discount Points and Prepayment Penalties.—For the purposes of determ
 
 (Pub. L. 90–321, title I, §103, May 29, 1968, 82 Stat. 147; Pub. L. 91–508, title V, §501, Oct. 26, 1970, 84 Stat. 1126; Pub. L. 93–495, title III, §303, Oct. 28, 1974, 88 Stat. 1511; Pub. L. 94–222, §3(a), Feb. 27, 1976, 90 Stat. 197; Pub. L. 96–221, title VI, §§602, 603(a), (b), 604, 612(a)(2), (b), Mar. 31, 1980, 94 Stat. 168, 169, 175, 176; Pub. L. 97–25, title I, §102, July 27, 1981, 95 Stat. 144; Pub. L. 97–320, title VII, §702(a), Oct. 15, 1982, 96 Stat. 1538; Pub. L. 103–325, title I, §§152(a)–(c), 154(a), Sept. 23, 1994, 108 Stat. 2190, 2191, 2196; Pub. L. 110–315, title X, §1011(b), Aug. 14, 2008, 122 Stat. 3481; Pub. L. 111–24, title I, §108, May 22, 2009, 123 Stat. 1743; Pub. L. 111–203, title X, §1100A(1), (2), title XIV, §§1401, 1431, July 21, 2010, 124 Stat. 2107, 2137, 2157; Pub. L. 115–174, title I, §107, May 24, 2018, 132 Stat. 1304.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Riegle Community Development and Regulatory Improvement Act of 1994, referred to in subsec. (bb)(2)(A)(i), is Pub. L. 103–325, Sept. 23, 1994, 108 Stat. 2160. Section 155 of the Act is set out below. For classification of subtitle B of title I of the Act, known as the"Home Ownership and Equity Protection Act of 1994", see Short Title of 1994 Amendment note set out under section 1601 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4701 of Title 12, Banks and Banking, and Tables.
+The Riegle Community Development and Regulatory Improvement Act of 1994, referred to in subsec. (bb)(2)(A)(i), is Pub. L. 103–325, Sept. 23, 1994, 108 Stat. 2160. Section 155 of the Act is set out below. For classification of subtitle B of title I of the Act, known as the "Home Ownership and Equity Protection Act of 1994", see Short Title of 1994 Amendment note set out under section 1601 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4701 of Title 12, Banks and Banking, and Tables.
 
 The Secure and Fair Enforcement for Mortgage Licensing Act of 2008, referred to in subsec. (dd)(3), is title V of div. A of Pub. L. 110–289, July 30, 2008, 122 Stat. 2810, also known as the S.A.F.E. Mortgage Licensing Act of 2008, which is classified generally to chapter 51 (§5101 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of Title 12 and Tables.
 
@@ -308,7 +310,7 @@ Subsec. (dd). Pub. L. 111–203, §1431(d), added subsec. (dd).
 
 <b>2009</b>—Subsec. (i). Pub. L. 111–24 substituted "terms 'open end credit plan' and 'open end consumer credit plan' mean" for "term 'open end credit plan' means" in first sentence and inserted "or open end consumer credit plan" after "credit plan" wherever appearing in second sentence.
 
-<b>2008</b>—Subsec. (f). Pub. L. 110–315 inserted at end "The term 'creditor' includes a private educational lender (as that term is defined in section 1650 of this title) for purposes of this subchapter."
+<b>2008</b>—Subsec. (f). Pub. L. 110–315 inserted at end "The term 'creditor' includes a private educational lender\(as that term is defined in section 1650 of this title) for purposes of this subchapter."
 
 <b>1994</b>—Subsec. (f). Pub. L. 103–325, §152(c), inserted at end "Any person who originates 2 or more mortgages referred to in subsection (aa) in any 12-month period or any person who originates 1 or more such mortgages through a mortgage broker shall be considered to be a creditor for purposes of this subchapter."
 
@@ -322,7 +324,7 @@ Subsec. (bb). Pub. L. 103–325, §154(a), added subsec. (bb).
 
 <b>1981</b>—Subsecs. (x) to (z). Pub. L. 97–25 added subsec. (z) and, effective Apr. 10, 1982, redesignated subsecs. (x), (y), and (z) as (y), (z), and (x), respectively.
 
-<b>1980</b>—Subsec. (f). Pub. L. 96–221, §602(a), substituted provisions defining term "creditor" as referring only to a person who both regularly extends consumer credit, subject to specified conditions, and is the person to whom the debt arising is initially payable on the face of the indebtedness or by agreement, and notwithstanding such provisions, also refers to a person regularly arranging for the extension of consumer credit,and a card issuer and any person honoring the credit card, subject to specified conditions, for provisions defining term "creditor" as referring only to creditors who regularly extend, or arrange for the extension of credit payable in more than four installments or where a finance charge is or may be required, and substituted "(a)(5)" for "(a)(6)", "(a)(6)" for "(a)(7)", "(a)(7)" for "(a)(8)", "(b)(8)" for "(b)(9)", and "(b)(10)" for "(b)(11)".
+<b>1980</b>—Subsec. (f). Pub. L. 96–221, §602(a), substituted provisions defining term "creditor" as referring only to a person who both regularly extends consumer credit, subject to specified conditions, and is the person to whom the debt arising is initially payable on the face of the indebtedness or by agreement, and notwithstanding such provisions, also refers to a person regularly arranging for the extension of consumer credit, and a card issuer and any person honoring the credit card, subject to specified conditions, for provisions defining term "creditor" as referring only to creditors who regularly extend, or arrange for the extension of credit payable in more than four installments or where a finance charge is or may be required, and substituted "(a)(5)" for "(a)(6)", "(a)(6)" for "(a)(7)", "(a)(7)" for "(a)(8)", "(b)(8)" for "(b)(9)", and "(b)(10)" for "(b)(11)".
 
 Subsec. (g). Pub. L. 96–221, §602(b), substituted "in which the seller is a creditor" for "with respect to which credit is extended or arranged by the seller".
 
@@ -343,6 +345,8 @@ Subsecs. (x), (y). Pub. L. 96–221, §603(b), redesignated former subsecs. (s) 
 <b>1974</b>—Subsec. (f). Pub. L. 93–495 inserted provision requiring the credit to be payable by agreement in more than four installments and defining term "creditor" for the purposes of the requirements imposed under the enumerated sections of this chapter.
 
 <b>1970</b>—Subsecs. (j) to (r). Pub. L. 91–508 added subsecs. (j) to (o) and redesignated former subsecs. (j) to (l) as (p) to (r), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 
@@ -378,7 +382,7 @@ For effective date of amendment by Pub. L. 93–495, see section 308 of Pub. L. 
 
 #### Regulations
 
-Pub. L. 111–24, §2, May 22, 2009, 123 Stat. 1735, provided that: "The Board of Governors of the Federal Reserve System (in this Act \[see Short Title of 2009 Amendment note set out under section 1601 of this title\] referred to as the 'Board') may issue such rules and publish such model forms as it considers necessary to carry out this Act and the amendments made by this Act."
+Pub. L. 111–24, §2, May 22, 2009, 123 Stat. 1735, provided that: "The Board of Governors of the Federal ReserveSystem (in this Act \[see Short Title of 2009 Amendment note set out under section 1601 of this title\] referred to as the 'Board') may issue such rules and publish such model forms as it considers necessary to carry out this Act and the amendments made by this Act."
 
 Pub. L. 103–325, title I, §155, Sept. 23, 1994, 108 Stat. 2197, provided that: "Not later than 180 days after the date of enactment of this Act \[Sept. 23, 1994\], the Board of Governors of the Federal Reserve System shall issue such regulations as may be necessary to carry out this subtitle \[subtitle B (§§151–158) of title I of Pub. L. 103–325, see Short Title of 1994 Amendment note set out under section 1601 of this title\], and such regulations shall become effective on the date on which disclosure regulations are required to become effective under section 105(d) of the Truth in Lending Act \[15 U.S.C. §1604(d)\]."
 

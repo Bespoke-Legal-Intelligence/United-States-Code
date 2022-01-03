@@ -2,19 +2,25 @@
 
 #### (a) In general
 
-The authority to initiate projects under this subchapter shall terminate on September 30, 2022.
+The authority to initiate projects under this subchapter shall terminate on September 30, 2025.
 
 #### (b) Deposits in Treasury
 
-Any project funds not obligated by September 30, 2023, shall be deposited in the Treasury of the United States.
+Any project funds not obligated by September 30, 2026, shall be deposited in the Treasury of the United States.
 
-(Pub. L. 106–393, title II, §208, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3909; amended Pub. L. 112–141, div. F, title I, §100101(a)(2), (8), July 6, 2012, 126 Stat. 905, 906; Pub. L. 113–40, §10(a)(2)(E), Oct. 2, 2013, 127 Stat. 545; Pub. L. 114–10, title V, §524(c)(4), Apr. 16, 2015, 129 Stat. 180; Pub. L. 115–141, div. O, title IV, §401(b)(4), Mar. 23, 2018, 132 Stat. 1079; Pub. L. 116–94, div. I, title III, §301(b)(2), Dec. 20, 2019, 133 Stat. 3021.)
+(Pub. L. 106–393, title II, §208, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3909; amended Pub. L. 112–141, div. F, title I, §100101(a)(2), (8), July 6, 2012, 126 Stat. 905, 906; Pub. L. 113–40, §10(a)(2)(E), Oct. 2, 2013, 127 Stat. 545; Pub. L. 114–10, title V, §524(c)(4), Apr. 16, 2015, 129 Stat. 180; Pub. L. 115–141, div. O, title IV, §401(b)(4), Mar. 23, 2018, 132 Stat. 1079; Pub. L. 116–94, div. I, title III, §301(b)(2), Dec. 20, 2019, 133 Stat. 3021; Pub. L. 117–58, div. D, title XII, §41202(d)(2), Nov. 15, 2021, 135 Stat. 1134.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
 A prior section 208 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a). Pub. L. 117–58, §41202(d)(2)(A), substituted "2025" for "2022".
+
+Subsec. (b). Pub. L. 117–58, §41202(d)(2)(B), substituted "2026" for "2023".
 
 <b>2019</b>—Subsec. (a). Pub. L. 116–94, §301(b)(2)(A), substituted "2022" for "2020".
 
@@ -35,4 +41,10 @@ Subsec. (b). Pub. L. 113–40, §10(a)(2)(E)(ii), substituted "2014" for "2013".
 <b>2012</b>—Subsec. (a). Pub. L. 112–141, §100101(a)(2), substituted "2012" for "2011".
 
 Subsec. (b). Pub. L. 112–141, §100101(a)(8), substituted "2013" for "2012".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Wage Rate Requirements
+
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of Title 42, The Public Health and Welfare.
 

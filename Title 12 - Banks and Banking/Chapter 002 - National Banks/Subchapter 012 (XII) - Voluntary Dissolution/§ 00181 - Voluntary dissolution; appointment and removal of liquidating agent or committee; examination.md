@@ -22,7 +22,7 @@ R.S. §5220 derived from act June 3, 1864, ch. 106, §42, 13 Stat. 112, which wa
 
 <b>1935</b>—Act Aug. 23, 1935, added second par.
 
-#### <b>Statutory Notes and Related Subsidiaries</b>
+#### <b>Executive Documents</b>
 
 #### Exception as to Transfer of Functions
 

@@ -70,7 +70,7 @@ Debt to gdp ratio.—The term "debt to GDP ratio" means the percentage obtained 
 
 &emsp;(5)
 
-Interest cost to outlay ratio.—The term "interest cost to outlay ratio" means, with respect to any fiscal year, the percentage obtained by dividing the interest cost for such fiscal year on the net public debt by the total amount of Federal outlays for such fiscal year.
+Interest cost to outlay ratio.—The term "interest cost to outlay ratio" means,with respect to any fiscal year, the percentage obtained by dividing the interest cost for such fiscal year on the net public debt by the total amount of Federal outlays for such fiscal year.
 
 (Added Pub. L. 103–202, title II, §201(a), Dec. 17, 1993, 107 Stat. 2355.)
 

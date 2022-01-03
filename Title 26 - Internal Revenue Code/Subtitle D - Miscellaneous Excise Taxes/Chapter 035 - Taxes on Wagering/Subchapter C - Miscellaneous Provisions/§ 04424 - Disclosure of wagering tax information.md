@@ -14,7 +14,7 @@ Except as otherwise provided in this section, neither the Secretary nor any othe
 
 A disclosure otherwise prohibited by subsection (a) may be made in connection with the administration or civil or criminal enforcement of any tax imposed by this title. However, any document or information so disclosed may not be—
 
-&emsp;(1) divulged or made known in any manner whatever by any officer or employee of the United States to any person except in connection with the administration or civil or criminal enforcement of this title, nor
+&emsp;(1) divulged or made known in any manner whatever by any officer or employee of theUnited States to any person except in connection with the administration or civil or criminal enforcement of this title, nor
 
 &emsp;(2) used, directly or indirectly, in any criminal prosecution for any offense occurring before the date of enactment of this section.
 
@@ -36,11 +36,15 @@ Section 6103(f) shall apply with respect to any return, payment, or registration
 
 (Added Pub. L. 93–499, §3(c)(1), Oct. 29, 1974, 88 Stat. 1550; amended Pub. L. 94–455, title XII, §1202(h)(6), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1688, 1834.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary" wherever appearing.
 
 Subsec. (d). Pub. L. 94–455, §1202(h)(6), substituted "6103(f)" for "6103(d)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

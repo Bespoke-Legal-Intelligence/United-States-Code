@@ -126,7 +126,7 @@ The Secretary of State, in cooperation with the Secretary, shall issue annually 
 
 &emsp;&emsp;(C) the applicant has established any bonds or financial assurances that may be required by the Secretary; and
 
-&emsp;&emsp;(D) no owner or operator of a vessel of the United States which has adequate capacity to perform the transportation for which the application is submitted has indicated to the Secretary an interest in performing the transportation at fair and reasonable rates.
+&emsp;&emsp;(D) no owner or operator of a vessel of the United States which has adequate capacity to perform the transportation for which theapplication is submitted has indicated to the Secretary an interest in performing the transportation at fair and reasonable rates.
 
 #### (4) Whole or partial approval
 
@@ -188,7 +188,7 @@ The Secretary of State, in cooperation with the Secretary, shall issue annually 
 
 &emsp;&emsp;(iv) grants to the University of Hawaii for technical assistance projects by the Pacific Island Network, such as education and training in the development and implementation of sustainable marine resources development projects, scientific research, and conservation strategies; and
 
-&emsp;&emsp;(v) western Pacific community-based demonstration projects under section 112(b) of the Sustainable Fisheries Act and other coastal improvement projects to foster and promote the management, conservation, andeconomic enhancement of the Pacific Insular Areas.
+&emsp;&emsp;(v) western Pacific community-based demonstration projects under section 112(b) of the Sustainable Fisheries Act and other coastal improvement projects to foster and promote the management, conservation, and economic enhancement of the Pacific Insular Areas.
 
 &emsp;(B) In the case of American Samoa, Guam, and the Northern Mariana Islands, the appropriate Governor, with the concurrence of the Western Pacific Council, shall develop the marine conservation plan described in subparagraph (A) and submit such plan to the Secretary for approval. In the case of other Pacific Insular Areas, the Western Pacific Council shall develop and submit the marine conservation plan described in subparagraph (A) to the Secretary for approval.
 
@@ -228,7 +228,9 @@ The Secretary of State, in cooperation with the Secretary, shall issue annually 
 
 #### Amendment of Subsection (a)
 
-<i>Pub. L. 102–251, title III, §§301(f), 308, Mar. 9, 1992, 106 Stat. 64, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United</i><i>States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (a) is amended by inserting "within the special areas," before "or for anadromous species" and "or areas" after "such zone".</i>
+<i>Pub. L. 102–251, title III, §§301(f), 308, Mar. 9, 1992, 106 Stat. 64, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (a) is amended by inserting "within the special areas," before "or for anadromous species" and "or areas" after "such zone".</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -272,7 +274,7 @@ Subsec. (b)(10). Pub. L. 99–272 amended par. (10) generally. Prior to amendmen
 
 Subsec. (b)(10)(B), (C). Pub. L. 99–659, §101(c)(2), substituted "exclusive economic zone" for "fishery conservation zone".
 
-Subsec. (b)(12). Pub. L. 99–659, §102(4), amended par. (12) generally. Prior to amendment, par. (12) read as follows: "If any foreign fishing vessel for which a permit has been issued pursuant to this subsection has been used in the commission of any act prohibited by section 1857 of this title the Secretary may, or if any civil penalty imposed under section 1858 of this title or any criminal fine imposed under section 1859 of this title has not been paid and is overdue the Secretary shall—
+Subsec. (b)(12). Pub. L. 99–659, §102(4), amended par. (12) generally. Prior to amendment, par. (12) read as follows: "If any foreign fishing vessel for which a permit has been issued pursuant to this subsection has been used in the commission of any act prohibited bysection 1857 of this title the Secretary may, or if any civil penalty imposed under section 1858 of this title or any criminal fine imposed under section 1859 of this title has not been paid and is overdue the Secretary shall—
 
 &emsp;"(A) revoke such permit, with or without prejudice to the right of the foreign nation involved to obtain a permit for such vessel in any subsequent year;
 
@@ -307,6 +309,8 @@ Subsec. (b)(4). Pub. L. 95–354, §4(6), substituted provisions relating to pub
 Subsec. (b)(6). Pub. L. 95–354, §4(7), redesignated existing provisions as subpar. (A) inserted reference to subpar. (B), and added subpar. (B).
 
 Subsec. (b)(7)(D) to (F). Pub. L. 95–354, §4(8), added subpars. (D) and (E) and redesignated former subpar. (D) as (F).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

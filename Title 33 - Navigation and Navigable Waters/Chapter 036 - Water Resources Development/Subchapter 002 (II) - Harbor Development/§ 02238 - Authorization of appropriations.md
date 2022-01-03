@@ -132,7 +132,7 @@ There are authorized to be appropriated out of the general fund of the Treasury 
 
 &emsp;Nothing in this subsection prohibits the Secretary from making an expenditure to pay for the operation and maintenance costs of a specific harbor or inland harbor, including the transfer of funding from the operation and maintenance of a separate project, if—
 
-&emsp;&emsp;(A) the Secretary determines that the action is necessary to address the navigation needs of a harbor or inland harbor where safe navigation has been severely restricted due to an unforeseen event; and
+&emsp;&emsp;(A) the Secretary determines that the action is necessary to address the navigationneeds of a harbor or inland harbor where safe navigation has been severely restricted due to an unforeseen event; and
 
 &emsp;&emsp;(B) the Secretary provides within 90 days of the action notice and information on the need for the action to the Committee on Environment and Public Works and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives.
 
@@ -218,7 +218,7 @@ In this section:
 
 #### (2) Emerging harbor
 
-&emsp;The term "emerging harbor" means a harbor or inland harbor referred to in subsection (a)(2) that transits less than 1,000,000 tons of cargo annually.
+&emsp;The term "emerging harbor" means a harbor or inland harbor referred to in subsection\(a)(2) that transits less than 1,000,000 tons of cargo annually.
 
 #### (3) Emerging harbor project
 
@@ -320,7 +320,7 @@ Subsec. (e)(2)(A)(ii). Pub. L. 116–260, §102(b)(2), inserted "uses described 
 
 Subsec. (f)(2), (3). Pub. L. 116–260, §102(b)(3)(C), added pars. (2) and (3) and struck out former par. (2) which defined "emerging harbor project".
 
-Subsec. (f)(4). Pub. L. 116–260, §102(b)(3)(B), redesignated par. (3) as (4). Former par. (4) redesignated (5).
+Subsec. (f)(4). Pub. L. 116–260, §102(b)(3)(B), redesignated par. (3) as (4) and added subpars. (C) and (D). Former par. (4) redesignated (5).
 
 Subsec. (f)(4)(C), (D). Pub. L. 116–260, §102(b)(3)(D), added subpars. (C) and (D).
 

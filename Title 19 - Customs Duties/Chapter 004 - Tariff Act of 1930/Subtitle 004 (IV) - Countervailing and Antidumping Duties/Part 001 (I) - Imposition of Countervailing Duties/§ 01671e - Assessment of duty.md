@@ -14,7 +14,7 @@ Within 7 days after being notified by the Commission of an affirmative determina
 
 #### (1) General rule
 
-&emsp;If the Commission, in its final determination under section 1671d(b) of this title, finds material injury or threat of material injury which, but for the suspension of liquidation under section 1671b(d)(2) of this title, would have led to a finding of material injury, then entries ofthe merchandise subject to the countervailing duty order, the liquidation of which has been suspended under section 1671b(d)(2) of this title, shall be subject to the imposition of countervailing duties under section 1671(a) of this title.
+&emsp;If the Commission, in its final determination under section 1671d(b) of this title, finds material injury or threat of material injury which, but for the suspension of liquidation under section 1671b(d)(2) of this title, would have led to a finding of material injury, then entries of the merchandise subject to the countervailing duty order, the liquidation of which has been suspended under section 1671b(d)(2) of this title, shall be subject to the imposition of countervailing duties under section 1671(a) of this title.
 
 #### (2) Special rule
 
@@ -28,9 +28,11 @@ Within 7 days after being notified by the Commission of an affirmative determina
 
 #### (2) Exception for new exporters and producers
 
-&emsp;After publication of the countervailing duty order, if the administering authority finds that a new exporter or producer is exporting the subject merchandise for sale in the region concerned, the administering authority shall direct that duties be assessed on the subject merchandise of the new exporter or producer consistent with the provisions of section 1675(a)(2)(B) of this title.
+&emsp;After publication of the countervailing duty order, if the administering authority finds that a new exporter or producer is exporting the subject merchandise for sale in the regionconcerned, the administering authority shall direct that duties be assessed on the subject merchandise of the new exporter or producer consistent with the provisions of section 1675(a)(2)(B) of this title.
 
 (June 17, 1930, ch. 497, title VII, §706, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 160; amended Pub. L. 98–573, title VI, §607, Oct. 30, 1984, 98 Stat. 3029; Pub. L. 99–514, title XVIII, §1886(a)(5), Oct. 22, 1986, 100 Stat. 2922; Pub. L. 103–465, title II, §§218(b)(1), 233(a)(5)(O), 264(c)(9), 265, 270(a)(1)(H), Dec. 8, 1994, 108 Stat. 4855, 4899, 4914, 4917.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -53,6 +55,8 @@ Subsec. (c). Pub. L. 103–465, §218(b)(1), added subsec. (c).
 <b>1986</b>—Subsec. (a)(2). Pub. L. 99–514 realigned the margins in provisions following subpar. (B), which realignment had been editorially supplied, thereby requiring no change in text.
 
 <b>1984</b>—Subsec. (a)(2) to (4). Pub. L. 98–573 added par. (2) and redesignated pars. (2) and (3) as (3) and (4), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

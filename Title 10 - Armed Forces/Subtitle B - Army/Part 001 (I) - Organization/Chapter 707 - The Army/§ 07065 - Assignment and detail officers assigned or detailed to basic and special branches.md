@@ -56,11 +56,15 @@ In subsection (d), the words "basic or special branch" are substituted for the w
 
 In subsection (e), the words "No officer \* \* \* may be \* \* \* unless he is" are substituted for the words "officers of the Army \* \* \* shall \* \* \* possess". The last 16 words of the first sentence are substituted for the Act of June 28, 1950, ch. 383, Title IV, §404(e), 64 Stat. 274. The last sentence is substituted for 10:1g(f) (1st 9 words).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 3065 of this title as this section.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments andspecial rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 

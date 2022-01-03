@@ -40,7 +40,7 @@ For the purposes of this section:
 
 &emsp;(3) The term "neighborhood development funding organization" means—
 
-&emsp;&emsp;(A) a depository institution the accounts of which are insured pursuant to the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\] or the Federal Credit Union Act \[12 U.S.C. 1751 et seq.\], and any subsidiary (as such term is defined in section 3(w) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(w)\]) thereof;
+&emsp;&emsp;(A) a depository institution the accounts of which are insured pursuant to the FederalDeposit Insurance Act \[12 U.S.C. 1811 et seq.\] or the Federal Credit Union Act \[12 U.S.C. 1751 et seq.\], and any subsidiary (as such term is defined in section 3(w) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(w)\]) thereof;
 
 &emsp;&emsp;(B) a depository institution holding company and any subsidiary thereof (as such term is defined in section 3(w) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(w)\]); or
 
@@ -104,7 +104,7 @@ The Secretary shall consult with an informal working group representative of eli
 
 (5) The Secretary shall insure that—
 
-&emsp;(A) grants and other forms of assistance may be made available under this section only if the application contains a certification by theunit of general local government within which the neighborhood to be assisted is located that such assistance is not inconsistent with the comprehensive housing affordability strategy of such unit approved under section 12705 of this title or the statement of community development activities and community development plans of the unit submitted under section 5304(m) of this title, except that the failure of a unit of general local government to respond to a request for a certification within thirty days after the request is made shall be deemed to be a certification; and
+&emsp;(A) grants and other forms of assistance may be made available under this section only if the application contains a certification by the unit of general local government within which the neighborhood to be assisted is located that such assistance is not inconsistent with the comprehensive housing affordability strategy of such unit approved under section 12705 of this title or the statement of community development activities and community development plans of the unit submitted under section 5304(m) of this title, except that the failure of a unit of general local government to respond to a request for a certification within thirty days after the request is made shall be deemed to be a certification; and
 
 &emsp;(B) eligible neighborhood development activities comply with all applicable provisions of the Civil Rights Act of 1964 \[42 U.S.C. 2000a et seq.\].
 
@@ -127,6 +127,8 @@ Of the amounts made available for assistance under section 5303 of this title, $
 This section may be cited as the "John Heinz Neighborhood Development Act".
 
 (Pub. L. 98–181, title I \[title I, §123\], Nov. 30, 1983, 97 Stat. 1172; Pub. L. 98–479, title I, §101(b)(2), (3), Oct. 17, 1984, 98 Stat. 2220; Pub. L. 100–242, title V, §§521, 525, Feb. 5, 1988, 101 Stat. 1938, 1939; Pub. L. 101–625, title IX, §915, Nov. 28, 1990, 104 Stat. 4395; Pub. L. 102–550, title VIII, §832, Oct. 28, 1992, 106 Stat. 3852; Pub. L. 105–362, title VII, §701(d), Nov. 10, 1998, 112 Stat. 3287.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -172,7 +174,7 @@ Subsec. (c)(3). Pub. L. 102–550, §832(f)(3), inserted before semicolon "and b
 
 Subsec. (e)(1). Pub. L. 102–550, §832(f)(4), inserted ", and from neighborhood development funding organizations," after "neighborhood".
 
-Subsec. (e)(3). Pub. L. 102–550, §832(b)(4), inserted before period ", except that, if appropriations for thissection exceed $3,000,000, the Secretary may pay not more than $75,000 to any participating neighborhood development organization".
+Subsec. (e)(3). Pub. L. 102–550, §832(b)(4), inserted before period ", except that, if appropriations for this section exceed $3,000,000, the Secretary may pay not more than $75,000 to any participating neighborhood development organization".
 
 Subsec. (e)(5)(A). Pub. L. 102–550, §832(c), substituted "comprehensive housing affordability strategy of such unit approved under section 12705 of this title or the statement of community development activities and community development plans of the unit submitted under section 5304(m) of this title" for "housing and community development plans of such unit".
 

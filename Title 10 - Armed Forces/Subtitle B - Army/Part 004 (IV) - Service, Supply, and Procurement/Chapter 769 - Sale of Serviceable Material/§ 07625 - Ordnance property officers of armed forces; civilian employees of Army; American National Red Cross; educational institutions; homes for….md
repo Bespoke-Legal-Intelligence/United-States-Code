@@ -44,13 +44,17 @@ May 11, 1908, ch. 163 (4th par. under "National Trophy and Medals for Rifle Cont
 
 In subsection (a), the words "other armed forces" are substituted for the words "the Navy and Marine Corps", in 34:540 and 50:70, since those sales may be made to officers of the Coast Guard under section 114(c) of title 14.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
-A prior section 7625, act Aug. 10, 1956, ch. 1041, 70A Stat. 473, related to settlement of claims for damage to or loss of privately owned property, prior to repeal byPub. L. 87–769, §1(2)(A), Oct. 9, 1962, 76 Stat. 768. See section 2736 of this title.
+A prior section 7625, act Aug. 10, 1956, ch. 1041, 70A Stat. 473, related to settlement of claims for damage to or loss of privately owned property, prior to repeal by Pub. L. 87–769, §1(2)(A), Oct. 9, 1962, 76 Stat. 768. See section 2736 of this title.
 
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4625 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

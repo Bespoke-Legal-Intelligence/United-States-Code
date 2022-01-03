@@ -40,6 +40,8 @@ The Secretary of Defense, in consultation with the Chairman of the Joint Chiefs 
 
 (Added Pub. L. 103–337, div. A, title IX, §904(a), Oct. 5, 1994, 108 Stat. 2825; amended Pub. L. 110–181, div. A, title XVIII, §1813(a)–(c)(1), Jan. 28, 2008, 122 Stat. 497, 498; Pub. L. 112–239, div. A, title X, §1081(3), Jan. 2, 2013, 126 Stat. 1960.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2013</b>—Par. (13)(B)(iii), (iv). Pub. L. 112–239 redesignated cl. (iv) as (iii) and struck out former cl. (iii) which read as follows: "The United States Joint Forces Command."
@@ -50,11 +52,13 @@ Pub. L. 110–181, §1813(b)(1), in introductory provisions, substituted "The Se
 
 Pars. (2) to (14). Pub. L. 110–181, §1813(a), (b)(2), added pars. (2) and (13), redesignated former pars. (2) to (11) as (3) to (12), respectively, and former par. (12) as (14), and substituted "the Secretary of Defense" for "the Secretaries" in par. (14).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective at end of 90-day period beginning on Oct. 5, 1994, see section 904(d) of Pub. L. 103–337, set out as a note under section 10501 of this title.
 
 #### Annual Preparation of Future Years Defense Plan
 
-Pub. L. 104–196, §123, Sept. 16, 1996, 110 Stat. 2392, provided that: "The National Guard Bureau shall annually prepare a future years defense plan based on the requirement and priorities of the National Guard: <i>Provided</i>, That this plan shall be presented to the committees of Congress concurrent with the President's budget submission for each fiscal year."
+Pub. L. 104–196, §123, Sept. 16, 1996, 110 Stat. 2392, provided that: "The National Guard Bureau shall annuallyprepare a future years defense plan based on the requirement and priorities of the National Guard: <i>Provided</i>, That this plan shall be presented to the committees of Congress concurrent with the President's budget submission for each fiscal year."
 

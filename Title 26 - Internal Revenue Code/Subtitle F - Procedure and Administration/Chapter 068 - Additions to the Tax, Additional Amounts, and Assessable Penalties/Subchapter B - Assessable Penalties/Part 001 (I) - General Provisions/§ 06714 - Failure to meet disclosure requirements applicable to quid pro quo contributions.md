@@ -10,9 +10,13 @@ No penalty shall be imposed under this section with respect to any failure if it
 
 (Added Pub. L. 103–66, title XIII, §13173(b), Aug. 10, 1993, 107 Stat. 456.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Another section 6714 was renumbered section 6715 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

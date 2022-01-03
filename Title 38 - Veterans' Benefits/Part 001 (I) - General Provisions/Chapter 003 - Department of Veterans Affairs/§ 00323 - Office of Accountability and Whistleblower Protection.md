@@ -24,7 +24,7 @@ Functions.—(1) The functions of the Office are as follows:
 
 &emsp;(C) Receiving whistleblower disclosures.
 
-&emsp;(D) Referring whistleblower disclosures received under subparagraph (C) for investigation to the Office of the Medical Inspector, the Office of Inspector General, or other investigative entity, as appropriate, if the AssistantSecretary has reason to believe the whistleblower disclosure is evidence of a violation of a provision of law, mismanagement, gross waste of funds, abuse of authority, or a substantial and specific danger to public health or safety.
+&emsp;(D) Referring whistleblower disclosures received under subparagraph (C) for investigation to the Office of the Medical Inspector, the Office of Inspector General, or other investigative entity, as appropriate, if the Assistant Secretary has reason to believe the whistleblower disclosure is evidence of a violation of a provision of law, mismanagement, gross waste of funds, abuse of authority, or a substantial and specific danger to public health or safety.
 
 &emsp;(E) Receiving and referring disclosures from the Special Counsel for investigation to the Medical Inspector of the Department, the Inspector General of the Department, or such other person with investigatory authority, as the Assistant Secretary considers appropriate.
 

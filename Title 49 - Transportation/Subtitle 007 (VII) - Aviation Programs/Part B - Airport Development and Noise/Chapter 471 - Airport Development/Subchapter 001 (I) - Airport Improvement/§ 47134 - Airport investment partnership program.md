@@ -114,6 +114,8 @@ Predevelopment Limitation.—A grant to an airport sponsor under this subchapter
 
 (Added Pub. L. 104–264, title I, §149(a)(1), Oct. 9, 1996, 110 Stat. 3224; amended Pub. L. 108–176, title I, §155(a), Dec. 12, 2003, 117 Stat. 2508; Pub. L. 112–95, title I, §§111(c)(2)(A)(iv), 156, Feb. 14, 2012, 126 Stat. 18, 36; Pub. L. 115–254, div. B, title I, §160(a), Oct. 5, 2018, 132 Stat. 3220.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Airport and Airway Improvement Act of 1982, referred to in subsec. (b)(2), is title V of Pub. L. 97–248, Sept. 3, 1982, 96 Stat. 671, as amended, which was classified principally to chapter 31 (§2201 et seq.) of former Title 49, Transportation, and was substantially repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and reenacted by the first section thereof as this subchapter.
@@ -130,7 +132,7 @@ Subsec. (b)(3). Pub. L. 115–254, §160(a)(4), substituted "If the Secretary gr
 
 Subsec. (d). Pub. L. 115–254, §160(a)(5), amended subsec. (d) generally. Prior to amendment, subsec. (d) related to participation of general aviation airports and large hub airports.
 
-Subsecs. (l), (m). Pub. L. 115–254, §160(a)(6), added subsec. (l) and struck out former subsecs. (l) and (m) whichrelated to report on implementation of the pilot program and defined "general aviation airport", respectively.
+Subsecs. (l), (m). Pub. L. 115–254, §160(a)(6), added subsec. (l) and struck out former subsecs. (l) and (m) which related to report on implementation of the pilot program and defined "general aviation airport", respectively.
 
 <b>2012</b>—Subsec. (b). Pub. L. 112–95, §156, substituted "10 airports" for "5 airports" in introductory provisions.
 
@@ -143,6 +145,8 @@ Subsec. (g)(1). Pub. L. 112–95, §111(c)(2)(A)(iv), substituted "charge" for "
 "(ii) by air carriers whose aircraft landing at the airport during the preceding calendar year had a total landed weight during the preceding calendar year of at least 65 percent of the total landed weight of all aircraft landing at the airport during such year."
 
 Subsec. (b)(1)(B), (C). Pub. L. 108–176, §155(a)(2), (3), added subpar. (B) and redesignated former subpar. (B) as (C).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

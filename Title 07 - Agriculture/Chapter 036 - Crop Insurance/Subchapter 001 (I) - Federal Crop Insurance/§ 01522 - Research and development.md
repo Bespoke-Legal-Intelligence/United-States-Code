@@ -54,7 +54,7 @@ In this section, the term "policy" means a policy, plan of insurance, provision 
 
 #### (i) Experts
 
-&emsp;&emsp;&emsp;If the requirements of subparagraph (B) and (C) are met, the Board may submit a concept proposal described in subparagraph (C) to not less than 2 independent expert reviewers, whose services are appropriate for the type of concept proposal submitted, to assess the likelihood that the proposed policy being developed will result in a viable and marketable policy, as determined by the Board.
+&emsp;&emsp;&emsp;If the requirements of subparagraph (B) and (C) are met, the Board may submit aconcept proposal described in subparagraph (C) to not less than 2 independent expert reviewers, whose services are appropriate for the type of concept proposal submitted, to assess the likelihood that the proposed policy being developed will result in a viable and marketable policy, as determined by the Board.
 
 #### (ii) Timing
 
@@ -132,7 +132,7 @@ In this section, the term "policy" means a policy, plan of insurance, provision 
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), the Corporation shall approve a reimbursement underparagraph (1) only after determining that the policy is marketable based on a reasonable marketing plan, as determined by the Board.
+&emsp;&emsp;Subject to subparagraph (B), the Corporation shall approve a reimbursement under paragraph (1) only after determining that the policy is marketable based on a reasonable marketing plan, as determined by the Board.
 
 #### (B) Waiver for hemp
 
@@ -220,7 +220,7 @@ In this section, the term "policy" means a policy, plan of insurance, provision 
 
 #### (4) Types of contracts
 
-&emsp;A contract under this subsection may provide for research and development regarding new or expanded policies, including policies based on adjusted gross income, cost-of-production, quality losses, and an intermediate base program with a higher coverage and cost than catastrophic risk protection.
+&emsp;A contract under this subsection may provide for research and development regarding new or expanded policies, including policies based on adjusted gross income, cost-of-production, quality losses, and an intermediatebase program with a higher coverage and cost than catastrophic risk protection.
 
 #### (5) Use of resulting policies
 
@@ -408,7 +408,7 @@ In this section, the term "policy" means a policy, plan of insurance, provision 
 
 #### (B) Report
 
-&emsp;&emsp;Not later than 18 months after December 20, 2018, the Corporation shall submit to theCommittee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes—
+&emsp;&emsp;Not later than 18 months after December 20, 2018, the Corporation shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes—
 
 &emsp;&emsp;&emsp;(i) the results of the research and development carried out under subparagraph (A); and
 
@@ -506,7 +506,7 @@ In this section, the term "policy" means a policy, plan of insurance, provision 
 
 #### (ii) Availability of policy
 
-&emsp;&emsp;&emsp;Notwithstanding the last sentence of section 1508(a)(1) of this title, and section1508(a)(2) of this title, the Corporation shall make a policy described in clause (i) available if the requirements of section 1508(h) of this title are met.
+&emsp;&emsp;&emsp;Notwithstanding the last sentence of section 1508(a)(1) of this title, and section 1508(a)(2) of this title, the Corporation shall make a policy described in clause (i) available if the requirements of section 1508(h) of this title are met.
 
 #### (B) Research and development described
 
@@ -604,7 +604,7 @@ In this section, the term "policy" means a policy, plan of insurance, provision 
 
 #### (ii) Availability of policy
 
-&emsp;&emsp;&emsp;Notwithstanding the last sentence of section 1508(a)(1) of this title, and section1508(a)(2) of this title, the Corporation shall make a policy described in clause (i) available if the requirements of section 1508(h) of this title are met.
+&emsp;&emsp;&emsp;Notwithstanding the last sentence of section 1508(a)(1) of this title, and section 1508(a)(2) of this title, the Corporation shall make a policy described in clause (i) available if the requirements of section 1508(h) of this title are met.
 
 #### (B) Research and development described
 
@@ -698,6 +698,8 @@ In this section, the term "policy" means a policy, plan of insurance, provision 
 
 (Feb. 16, 1938, ch. 30, title V, §522, as added Pub. L. 106–224, title I, §131, June 20, 2000, 114 Stat. 379; amended Pub. L. 110–234, title VII, §7511(c)(1), title XII, §§12022–12024, 12033(c)(2)(B), May 22, 2008, 122 Stat. 1267, 1382–1388, 1405; Pub. L. 110–246, §4(a) title VII, §7511(c)(1), title XII, §§12022–12024, 12033(c)(2)(B), June 18, 2008, 122 Stat. 1664, 2028, 2144–2150, 2167; Pub. L. 113–79, title XI, §§11010(b), 11022, 11023(b), 11024, 11027(b), 11028(b), Feb. 7, 2014, 128 Stat. 959, 969, 973, 974, 977; Pub. L. 115–334, title XI, §§11120(a), 11121–11123, Dec. 20, 2018, 132 Stat. 4926–4935.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -760,7 +762,7 @@ Subsec. (e)(3). Pub. L. 113–79, §11022(b)(2), struck out "to provide either r
 
 Subsec. (e)(4). Pub. L. 113–79, §11022(b)(3), struck out par. (4) which related to prohibited research and development by the Corporation.
 
-<b>2008</b>—Subsec. (b)(1), (2). Pub. L. 110–246, §12022(a), added pars. (1) and (2) and struck out former pars. (1)and (2) which related to reimbursement for research and development costs directly related to a policy that was submitted to and approved by the Board under section 1508(h) of this title for reinsurance and, if applicable, offered for sale to producers, and reimbursement for research and development costs approved prior to June 20, 2000.
+<b>2008</b>—Subsec. (b)(1), (2). Pub. L. 110–246, §12022(a), added pars. (1) and (2) and struck out former pars. (1) and (2) which related to reimbursement for research and development costs directly related to a policy that was submitted to and approved by the Board under section 1508(h) of this title for reinsurance and, if applicable, offered for sale to producers, and reimbursement for research and development costs approved prior to June 20, 2000.
 
 Subsec. (b)(2)(C)(v). Pub. L. 110–246, §12033(c)(2)(B), substituted "this subchapter" for "this chapter".
 
@@ -783,6 +785,8 @@ Subsec. (e)(2)(A). Pub. L. 110–246, §12024(2), substituted "$12,500,000 for f
 Subsec. (e)(3). Pub. L. 110–246, §12024(3), substituted "the Corporation may use—" for "the Corporation may use the excess amount to carry out another function authorized under this section." and added subpars. (A) and (B).
 
 Subsec. (e)(4). Pub. L. 110–246, §12033(c)(2)(B), substituted "this subchapter" for "this chapter" in two places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

@@ -24,15 +24,19 @@ In this section, the term "State" has the meaning given the term in section 658P
 
 (Pub. L. 113–186, §12, Nov. 19, 2014, 128 Stat. 2001.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Child Care and Development Block Grant Act of 1990, referred to in subsec. (a)(1), is subchapter C (§658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236, which is classified generally to this subchapter. For complete classification of this Act to the Code, see section 9857(a) of this title and Tables.
 
 #### Codification
 
-Section was enacted as part of the Child Care and Development Block Grant Act of 2014, and not as part ofthe Child Care and Development Block Grant Act of 1990, which comprises this subchapter.
+Section was enacted as part of the Child Care and Development Block Grant Act of 2014, and not as part of the Child Care and Development Block Grant Act of 1990, which comprises this subchapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Education and the Workforce of House of Representatives changed to Committee on Educationand Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 

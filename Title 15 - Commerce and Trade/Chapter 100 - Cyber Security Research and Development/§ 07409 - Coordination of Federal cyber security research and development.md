@@ -1,8 +1,10 @@
 ### §7409. Coordination of Federal cyber security research and development
 
-The Director of the National Science Foundation and the Director of the National Instituteof Standards and Technology shall coordinate the research programs authorized by this chapter or pursuant to amendments made by this chapter. The Director of the Office of Science and Technology Policy shall work with the Director of the National Science Foundation and the Director of the National Institute of Standards and Technology to ensure that programs authorized by this chapter or pursuant to amendments made by this chapter are taken into account in any government-wide cyber security research effort.
+The Director of the National Science Foundation and the Director of the National Institute of Standards and Technology shall coordinate the research programs authorized by this chapter or pursuant to amendments made by this chapter. The Director of the Office of Science and Technology Policy shall work with the Director of the National Science Foundation and the Director of the National Institute of Standards and Technology to ensure that programs authorized by this chapter or pursuant to amendments made by this chapter are taken into account in any government-wide cyber security research effort.
 
 (Pub. L. 107–305, §13, Nov. 27, 2002, 116 Stat. 2380.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -4,7 +4,7 @@
 
 Referrals of Information Requests.—(1) To carry out duties related to driver licensing, driver improvement, or transportation safety, the chief driver licensing official of a participating State may request the Secretary of Transportation to refer, electronically or by United States mail, a request for information about the motor vehicle driving record of an individual to the chief driver licensing official of a State of record.
 
-(2) The Secretary of Transportation shall relay, electronically or by United States mail, information received from the chief driver licensing official of a State of record in response to a request under paragraph (1) of this subsection to the chief driver licensing official of the participating State requesting the information. However, the Secretary may refuse to relay information to the chief driver licensingofficial of a participating State that does not comply with section 30304 of this title.
+(2) The Secretary of Transportation shall relay, electronically or by United States mail, information received from the chief driver licensing official of a State of record in response to a request under paragraph (1) of this subsection to the chief driver licensing official of the participating State requesting the information. However, the Secretary may refuse to relay information to the chief driver licensing official of a participating State that does not comply with section 30304 of this title.
 
 (b)
 
@@ -20,7 +20,7 @@ Requests To Obtain Information.—(1) The Chairman of the National Transportatio
 
 (6) The head of a Federal department or agency that issues motor vehicle operator's licenses may request the chief driver licensing official of a State to obtain information under subsection (a) of this section about an individual applicant for a motor vehicle operator's license from such department or agency. The department or agency may receive the information, provided it transmits to the Secretary a report regarding any individual who is denied a motor vehicle operator's license by that department or agency for cause; whose motor vehicle operator's license is revoked, suspended, or canceled by that department or agency for cause; or about whom the department or agency has been notified of a conviction of any of the motor vehicle-related offenses or comparable offenses listed in section 30304(a)(3) and over whom the department or agency has licensing authority. The report shall contain the information specified in section 30304(b).
 
-(7) An individual who is an officer, chief warrant officer, or enlisted member of the Coast Guard or Coast Guard Reserve (including a cadet or an applicant for appointment or enlistment of any of the foregoing and any member of a uniformed service who is assigned to the Coast Guard) may request the chief driver licensing official of a State to provide information about the individual under subsection (a) of this section to the Commandant of the Coast Guard. The Commandant may receive the information and shall make the information available to the individual. Information may not be obtained from the Register under this paragraph if the information was entered in the Register more than 3 years before the request, unless the information is about a revocation or suspension still in effect on the date of the request.
+(7) An individual who is an officer, chief warrant officer, or enlisted member of the CoastGuard or Coast Guard Reserve (including a cadet or an applicant for appointment or enlistment of any of the foregoing and any member of a uniformed service who is assigned to the Coast Guard) may request the chief driver licensing official of a State to provide information about the individual under subsection (a) of this section to the Commandant of the Coast Guard. The Commandant may receive the information and shall make the information available to the individual. Information may not be obtained from the Register under this paragraph if the information was entered in the Register more than 3 years before the request, unless the information is about a revocation or suspension still in effect on the date of the request.
 
 (8)(A) An individual who is seeking employment by an air carrier as a pilot may request the chief driver licensing official of a State to provide information about the individual under subsection (a) of this section to the prospective employer of the individual, the authorized agent of the prospective employer, or the Secretary of Transportation.
 
@@ -92,6 +92,8 @@ This amends 49:30305(b)(8), as redesignated by section 207(b) of the Coast Guard
 
 This amends 49:30305(b) to redesignate paragraph (8), as redesignated by section 502(b)(1) of the Federal Aviation Reauthorization Act of 1996 (Public Law 104–264, 110 Stat. 3262), as paragraph (9), because section 207(b) of the Coast Guard Authorization Act of 1996 (Public Law 104–324, 110 Stat. 3908), redesignated paragraph (7) as paragraph (8) but did not redesignate paragraph (8) as paragraph (9).
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Fair Credit Reporting Act, referred to in subsec. (b)(8)(B), is title VI of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1127, which is classified generally to subchapter III (§1681 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
@@ -139,6 +141,8 @@ Pub. L. 104–264, §502(b), added par. (7). Former par. (7), relating to reques
 Subsec. (b)(8). Pub. L. 104–324, §207(b), redesignated par. (7), relating to individual seeking employment as pilot, as (8).
 
 Pub. L. 104–264, §502(b), redesignated par. (7), relating to request, as (8).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

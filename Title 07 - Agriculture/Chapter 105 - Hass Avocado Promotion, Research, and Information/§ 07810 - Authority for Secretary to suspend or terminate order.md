@@ -6,7 +6,7 @@ If the Secretary finds that an order, or any provision of the order, obstructs o
 
 #### (b) Effect of lack of approval of order
 
-If, as a result of a referendum, the Secretary determines that the order is not approved, the Secretary shall, within 180 days after making the determination, suspend, or terminate, as appropriate, collection of assessments under the order, and suspend or terminate, as appropriate, activities under the order in an orderly manner as soon as possible.
+If, as a result of a referendum, the Secretary determines that the order is not approved, the Secretary shall, within 180 days after making the determination, suspend, or terminate, as appropriate, collection of assessments under the order, and suspend or terminate, as appropriate,activities under the order in an orderly manner as soon as possible.
 
 (Pub. L. 106–387, §1(a) \[title XII, §1211\], Oct. 28, 2000, 114 Stat. 1549, 1549A–96.)
 

@@ -12,7 +12,7 @@ In this subtitle, the term "commercial product" means any of the following:
 
 &emsp;&emsp;(A) evolved from a product described in paragraph (1) through advances in technology or performance; and
 
-&emsp;&emsp;(B) is not yet available in the commercial marketplace but will be available in thecommercial marketplace in time to satisfy the delivery requirements under a Federal Government solicitation.
+&emsp;&emsp;(B) is not yet available in the commercial marketplace but will be available in the commercial marketplace in time to satisfy the delivery requirements under a Federal Government solicitation.
 
 &emsp;(3) A product that would satisfy the criteria in paragraph (1) or (2) were it not for—
 

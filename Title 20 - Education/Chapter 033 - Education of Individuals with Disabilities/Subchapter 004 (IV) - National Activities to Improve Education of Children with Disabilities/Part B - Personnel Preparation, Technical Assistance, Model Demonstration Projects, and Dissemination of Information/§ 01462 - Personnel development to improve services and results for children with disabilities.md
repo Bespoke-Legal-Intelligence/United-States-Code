@@ -158,7 +158,7 @@ The Secretary, on a competitive basis, shall award grants to, or enter into cont
 
 &emsp;&emsp;(A) A proposal to prepare personnel in more than 1 low incidence disability, such as deafness and blindness.
 
-&emsp;&emsp;(B) A demonstration of an effective collaboration between an eligible entity and a local educational agency that promotes recruitment and subsequent retention of personnel who meet the applicable requirements described in section 1412(a)(14) of this title to serve children with low incidence disabilities.
+&emsp;&emsp;(B) A demonstration of an effective collaboration between an eligible entity and alocal educational agency that promotes recruitment and subsequent retention of personnel who meet the applicable requirements described in section 1412(a)(14) of this title to serve children with low incidence disabilities.
 
 #### (5) Preparation in use of braille
 
@@ -246,6 +246,8 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 (Pub. L. 91–230, title VI, §662, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2774; amended Pub. L. 114–95, title IX, §§9214(d)(4)(C), 9215(ss)(9), Dec. 10, 2015, 129 Stat. 2165, 2183.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(2)(A)(vii), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
@@ -267,6 +269,8 @@ Subsec. (b)(2)(A)(viii). Pub. L. 114–95, §9215(ss)(9), substituted "section 6
 Subsec. (b)(2)(B). Pub. L. 114–95, §9214(d)(4)(C)(ii), substituted "special education teachers who meet the qualifications described in section 1412(a)(14)(C) of this title" for "highly qualified teachers".
 
 Subsec. (c)(4)(B). Pub. L. 114–95, §9214(d)(4)(C)(iii), substituted "personnel who meet the applicable requirements described in section 1412(a)(14) of this title" for "highly qualified personnel".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

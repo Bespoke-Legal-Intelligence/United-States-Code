@@ -26,7 +26,7 @@ Invalid Defenses.—It is not a defense to an adjustment of the price of a contr
 
 &emsp;&emsp;(B) otherwise was in a superior bargaining position with respect to the property or services procured;
 
-&emsp;(2) the contracting officer should have known that the cost or pricing data in issue were defective even though the contractor or subcontractor took no affirmative action tobring the character of the data to the attention of the contracting officer;
+&emsp;(2) the contracting officer should have known that the cost or pricing data in issue were defective even though the contractor or subcontractor took no affirmative action to bring the character of the data to the attention of the contracting officer;
 
 &emsp;(3) the contract was based on an agreement between the contractor and the Federal Government about the total cost of the contract and there was no agreement about the cost of each item procured under the contract; or
 

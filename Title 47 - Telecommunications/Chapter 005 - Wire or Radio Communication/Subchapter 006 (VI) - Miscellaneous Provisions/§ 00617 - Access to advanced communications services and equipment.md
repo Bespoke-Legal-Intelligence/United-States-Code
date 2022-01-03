@@ -44,7 +44,7 @@ Each provider of advanced communications services has the duty not to install ne
 
 &emsp;&emsp;(A) include performance objectives to ensure the accessibility, usability, and compatibility of advanced communications services and the equipment used for advanced communications services by individuals with disabilities;
 
-&emsp;&emsp;(B) provide that advanced communications services, the equipment used for advanced communications services, and networks used to provide advanced communications services may not impair or impede the accessibility of information content when accessibility has been incorporated into that content for transmission through advanced communications services, equipment used for advanced communications services, or networks used to provide advanced communications services;
+&emsp;&emsp;(B) provide that advanced communications services, the equipment used for advanced communications services, and networks used to provide advanced communications services may not impair or impede the accessibility of information content when accessibility has been incorporated into that content for transmission through advanced communications services, equipment used for advanced communications services, ornetworks used to provide advanced communications services;
 
 &emsp;&emsp;(C) determine the obligations under this section of manufacturers, service providers, and providers of applications or services accessed over service provider networks; and
 

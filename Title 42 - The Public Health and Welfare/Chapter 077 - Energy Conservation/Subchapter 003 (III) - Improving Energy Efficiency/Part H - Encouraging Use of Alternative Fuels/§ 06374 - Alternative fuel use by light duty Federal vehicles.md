@@ -44,7 +44,7 @@
 
 (B) The Secretary shall provide a report on the results of the study conducted under subparagraph (A) to the Committees on Commerce, Science, and Transportation and Governmental Affairs of the Senate, and the Committee on Energy and Commerce of the House of Representatives, within one year after the first such vehicles are acquired.
 
-(2)(A) The Secretary and the Administrator of the General Services Administration shall conduct a study of the advisability, feasibility, andtiming of the disposal of vehicles acquired under subsection (a) and any problems of such disposal. Such study shall take into account existing laws governing the sale of Government vehicles and shall specifically focus on when to sell such vehicles and what price to charge, without compromising studies of the use of such vehicles authorized under this part.
+(2)(A) The Secretary and the Administrator of the General Services Administration shall conduct a study of the advisability, feasibility, and timing of the disposal of vehicles acquired under subsection (a) and any problems of such disposal. Such study shall take into account existing laws governing the sale of Government vehicles and shall specifically focus on when to sell such vehicles and what price to charge, without compromising studies of the use of such vehicles authorized under this part.
 
 (B) The Secretary and the Administrator of the General Services Administration shall report the results of the study conducted under subparagraph (A) to the Committees on Commerce, Science, and Transportation and Governmental Affairs of the Senate, and the Committee on Energy and Commerce of the House of Representatives, within 12 months after funds are appropriated for carrying out this section.
 
@@ -74,7 +74,7 @@ To the extent practicable, at locations where vehicles acquired under subsection
 
 (3) Only one-half of the vehicles acquired under this section by an agency of the Federal Government shall be counted against any limitation under law, Executive order, or executive or agency policy on the number of vehicles which may be acquired by such agency.
 
-(4) Any Federal agency receiving a vehicle under paragraph (1) shall cooperate with studies undertaken by the Secretary under subsection (b).
+(4) Any Federal agency receiving a vehicle under paragraph (1) shall cooperate with studiesundertaken by the Secretary under subsection (b).
 
 #### (e) Detail of personnel
 
@@ -114,9 +114,11 @@ For purposes of this part—
 
 (1) For the purposes of this section, there are authorized to be appropriated such sums as may be necessary for fiscal years 1993 through 1998, to remain available until expended.
 
-(2) The authority of the Secretary to obligate amounts to be expended under this section shallbe effective for any fiscal year only to such extent or in such amounts as are provided in advance by appropriation Acts.
+(2) The authority of the Secretary to obligate amounts to be expended under this section shall be effective for any fiscal year only to such extent or in such amounts as are provided in advance by appropriation Acts.
 
 (Pub. L. 94–163, title III, §400AA, as added Pub. L. 100–494, §4(a), Oct. 14, 1988, 102 Stat. 2442; amended Pub. L. 102–486, title III, §§302(a), 309, Oct. 24, 1992, 106 Stat. 2868, 2874; Pub. L. 104–66, title I, §§1051(a), 1052(e), Dec. 21, 1995, 109 Stat. 716, 718; Pub. L. 105–388, §5(a)(14), Nov. 13, 1998, 112 Stat. 3479; Pub. L. 106–36, title I, §1002(h), June 25, 1999, 113 Stat. 134; Pub. L. 109–58, title VII, §701, Aug. 8, 2005, 119 Stat. 814.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -140,7 +142,7 @@ Subsec. (b)(3) to (5). Pub. L. 104–66, §1051(a), redesignated par. (5) as (3)
 
 <b>1992</b>—Subsec. (a)(1). Pub. L. 102–486, §302(a)(1), substituted "vehicles" for "passenger automobiles and light duty trucks" before "acquired annually for use" and "alternative fueled vehicles. In no event shall the number of such vehicles acquired be less than the number required under section 13212 of this title." for "alcohol powered vehicles, dual energy vehicles, natural gas powered vehicles, or natural gas dual energy vehicles."
 
-Subsec. (a)(3). Pub. L. 102–486, §302(a)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "The Secretary shall, to the extent practicable and consistent with this part, ensure that the number of dual energy vehicles acquired under this subsection is at least as great as the number of alcohol powered vehicles acquired under this subsection, and that the number of natural gas dual energy vehicles acquired under this subsection is at least as great as the number of natural gas powered vehicles acquired under this subsection. To the extent practicable, both vehicles capable of operating on alcohol and vehicles capable of operating on natural gas shall be acquired in carrying out this subsection, and such vehicles shall be supplied by original equipment manufacturers."
+Subsec. (a)(3). Pub. L. 102–486, §302(a)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "The Secretary shall, to the extent practicable and consistent with this part, ensure that the number of dual energy vehicles acquired under this subsection is at least as great as the number of alcohol powered vehicles acquired under this subsection, and that the number of natural gas dual energy vehicles acquiredunder this subsection is at least as great as the number of natural gas powered vehicles acquired under this subsection. To the extent practicable, both vehicles capable of operating on alcohol and vehicles capable of operating on natural gas shall be acquired in carrying out this subsection, and such vehicles shall be supplied by original equipment manufacturers."
 
 Subsec. (a)(4). Pub. L. 102–486, §302(a)(3), added par. (4).
 
@@ -165,6 +167,8 @@ Subsec. (g)(2) to (6). Pub. L. 102–486, §302(a)(7), added pars. (2) to (6) an
 "(6) the term 'natural gas powered vehicle' means a vehicle designed to operate exclusively on natural gas."
 
 Subsec. (i)(1). Pub. L. 102–486, §302(a)(8), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "For the purposes of this section, there are authorized to be appropriated for the fiscal year ending September 30, 1990, $5,000,000, for the fiscal year ending September 30, 1991, $3,000,000, for the fiscal year ending September 30, 1992, $2,000,000, and for the fiscal year ending September 30, 1993, $2,000,000."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

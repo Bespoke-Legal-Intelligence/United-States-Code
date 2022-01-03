@@ -8,7 +8,7 @@ It is the sense of Congress that the United States Government should take the fo
 
 &emsp;(3) Provide the Government of Israel assistance specifically for the production and procurement of the Iron Dome defense system for purposes of intercepting short-range missiles, rockets, and projectiles launched against Israel.
 
-&emsp;(4) Provide the Government of Israel defense articles and defense services through suchmechanisms as appropriate, to include air refueling tankers, missile defense capabilities, and specialized munitions.
+&emsp;(4) Provide the Government of Israel defense articles and defense services through such mechanisms as appropriate, to include air refueling tankers, missile defense capabilities, and specialized munitions.
 
 &emsp;(5) Provide the Government of Israel additional excess defense articles, as appropriate, in the wake of the withdrawal of United States forces from Iraq.
 
@@ -46,5 +46,5 @@ Findings.—Congress finds that Israel—
 
 "(b)
 
-Eligibility for Strategic Trade Authorization Exception.—The President, consistent with the commitments of the United States under international arrangements, shall take steps so that Israel may be included in the list of countries eligible for the strategic trade authorization exception under section 740.20(c)(1) of title 15, Code of Federal Regulations, to the requirement for a license for the export, reexport, or in-country transfer of an item subject to controls under the Export Administration Regulations."
+Eligibility for Strategic Trade Authorization Exception.—The President, consistent with thecommitments of the United States under international arrangements, shall take steps so that Israel may be included in the list of countries eligible for the strategic trade authorization exception under section 740.20(c)(1) of title 15, Code of Federal Regulations, to the requirement for a license for the export, reexport, or in-country transfer of an item subject to controls under the Export Administration Regulations."
 

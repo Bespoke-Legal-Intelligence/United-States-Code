@@ -22,7 +22,7 @@
 
 #### Amendments
 
-<b>2016</b>—Subsec. (b). Pub. L. 114–153 substituted "the greater of $5,000,000 or 3 times the value of the stolen trade secret to the organization, including expenses for research and design and other costs of reproducing the trade secret that the organization has thereby avoided" for "$5,000,000".
+<b>2016</b>—Subsec. (b). Pub. L. 114–153 substituted "the greater of $5,000,000 or 3 times the value of the stolen trade secret to the organization, including expenses forresearch and design and other costs of reproducing the trade secret that the organization has thereby avoided" for "$5,000,000".
 
 <b>2012</b>—Subsec. (a). Pub. L. 112–236 substituted "a product or service used in or intended for use in" for "or included in a product that is produced for or placed in" in introductory provisions.
 

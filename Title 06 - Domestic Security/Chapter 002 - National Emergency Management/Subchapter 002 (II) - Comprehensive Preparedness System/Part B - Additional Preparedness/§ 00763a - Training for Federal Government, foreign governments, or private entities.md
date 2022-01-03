@@ -8,5 +8,5 @@ In fiscal year 2013 and thereafter: (a) the Center for Domestic Preparedness may
 
 #### Codification
 
-Section was enacted as part of the Department of Homeland Security Appropriations Act, 2013, and not aspart of the Post-Katrina Emergency Management Reform Act of 2006 which comprises this chapter.
+Section was enacted as part of the Department of Homeland Security Appropriations Act, 2013, and not as part of the Post-Katrina Emergency Management Reform Act of 2006 which comprises this chapter.
 

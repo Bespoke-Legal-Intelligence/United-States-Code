@@ -118,7 +118,7 @@ Amendment by Pub. L. 105–115 effective 90 days after Nov. 21, 1997, except as 
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–399 effective on first day of thirteenth calendar month after July 13, 1968, see section 108(a) of Pub. L. 90–399, set out as an Effective Dateand Transitional Provisions note under section 360b of this title.
+Amendment by Pub. L. 90–399 effective on first day of thirteenth calendar month after July 13, 1968, see section 108(a) of Pub. L. 90–399, set out as an Effective Date and Transitional Provisions note under section 360b of this title.
 
 #### Effective Date of 1962 Amendment; Exceptions
 
@@ -132,10 +132,6 @@ Amendment by Pub. L. 86–618 effective July 12, 1960, subject to the provisions
 
 Par. (a)(4) effective Jan. 1, 1940, see act June 23, 1939, ch. 242, 53 Stat. 853, set out as an Effective Date; Postponement in Certain Cases note under section 301 of this title.
 
-#### Transfer of Functions
-
-For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under section 321 of this title.
-
 #### Approval by Regulation Prior to July 9, 2012
 
 Pub. L. 112–144, title VI, §608(b)(3), July 9, 2012, 126 Stat. 1059, provided that: "The amendments made by this subsection \[amending this section and section 360e of this title\] shall have no effect on a regulation that was promulgated prior to the date of enactment of this Act \[July 9, 2012\] requiring that a device have an approval under section 515 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360e) of an application for premarket approval."
@@ -143,6 +139,12 @@ Pub. L. 112–144, title VI, §608(b)(3), July 9, 2012, 126 Stat. 1059, provided
 #### Guidance
 
 Pub. L. 112–144, title VII, §707(b), July 9, 2012, 126 Stat. 1068, provided that: "Not later than 1 year after the date of enactment of this section \[July 9, 2012\], the Secretary of Health and Human Services shall issue guidance that defines the circumstances that would constitute delaying, denying, or limiting inspection, or refusing to permit entry or inspection, for purposes of section 501(j) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 351(j)\] (as added by subsection (a))."
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under section 321 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "subparagraph".</i>
 

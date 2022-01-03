@@ -18,7 +18,7 @@
 
 (3) A State may regulate a fishing vessel outside the boundaries of the State in the following circumstances:
 
-&emsp;(A) The fishing vessel is registered under the law of that State, and (i) there is no fishery management plan or other applicable Federal fishing regulations for the fishery in which the vessel is operating; or (ii) the State's laws and regulations are consistent with the fishery management plan and applicable Federal fishing regulations for the fishery in which the vessel is operating.
+&emsp;(A) The fishing vessel is registered under the law of that State, and (i) there is no fishery management plan or other applicable Federal fishing regulations for the fishery in which thevessel is operating; or (ii) the State's laws and regulations are consistent with the fishery management plan and applicable Federal fishing regulations for the fishery in which the vessel is operating.
 
 &emsp;(B) The fishery management plan for the fishery in which the fishing vessel is operating delegates management of the fishery to a State and the State's laws and regulations are consistent with such fishery management plan. If at any time the Secretary determines that a State law or regulation applicable to a fishing vessel under this circumstance is not consistent with the fishery management plan, the Secretary shall promptly notify the State and the appropriate Council of such determination and provide an opportunity for the State to correct any inconsistencies identified in the notification. If, after notice and opportunity for corrective action, the State does not correct the inconsistencies identified by the Secretary, the authority granted to the State under this subparagraph shall not apply until the Secretary and the appropriate Council find that the State has corrected the inconsistencies. For a fishery for which there was a fishery management plan in place on August 1, 1996 that did not delegate management of the fishery to a State as of that date, the authority provided by this subparagraph applies only if the Council approves the delegation of management of the fishery to the State by a three-quarters majority vote of the voting members of the Council.
 
@@ -70,6 +70,8 @@
 
 (Pub. L. 94–265, title III, §306, Apr. 13, 1976, 90 Stat. 355; Pub. L. 97–191, §1, June 1, 1982, 96 Stat. 107; Pub. L. 97–453, §9, Jan. 12, 1983, 96 Stat. 2491; Pub. L. 98–623, title IV, §404(4), Nov. 8, 1984, 98 Stat. 3408; Pub. L. 99–659, title I, §101(c)(2), Nov. 14, 1986, 100 Stat. 3707; Pub. L. 101–627, title I, §112, Nov. 28, 1990, 104 Stat. 4453; Pub. L. 104–297, title I, §112(a)–(c), Oct. 11, 1996, 110 Stat. 3595, 3596.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a)(1), (2), (3)(C) and (b)(1)(A), was in the original "this Act", meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
@@ -95,6 +97,8 @@ Subsec. (c)(2). Pub. L. 101–627, §112(2), added par. (2) and struck out forme
 <b>1983</b>—Subsec. (a). Pub. L. 97–453 inserted provision delineating the jurisdiction and authority of a State over waters adjacent to the State and over Nantucket Sound.
 
 <b>1982</b>—Subsec. (c). Pub. L. 97–191 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1982 Amendment
 
@@ -140,7 +144,7 @@ Repeal.—\[Repealed section 112(d) of Pub. L. 104–297, see below.\]
 
 "(h)
 
-Definitions.—The definitions set forth in section 3 of the Magnuson-Stevens Fishery Conservation andManagement Act (16 U.S.C. 1802) shall apply to this section.
+Definitions.—The definitions set forth in section 3 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1802) shall apply to this section.
 
 "(i) Not later than December 31, 2001, and every 2 years thereafter, the Pacific State Marine Fisheries Commission shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives a report on the status and management of the Dungeness Crab fishery located off the coasts of the States of Washington, Oregon, and California, including—
 
@@ -150,11 +154,13 @@ Definitions.—The definitions set forth in section 3 of the Magnuson-Stevens Fi
 
 &emsp;"(3) measures implemented or planned that are designed to prevent or end overfishing in the fishery."
 
-Pub. L. 104–297, title I, §112(d), Oct. 11, 1996, 110 Stat. 3596, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, which provided interim authority to the States of Washington, Oregon, and California to enforce State laws and regulations governing fish harvesting and processing against any vessel operating in the exclusive economic zone off each respective State in a fishery for Dungeness crab (Cancer magister) for which there is no fishery management plan implemented under this chapter, was repealed by Pub. L. 105–384, title II, §203(g), Nov. 13, 1998, 112 Stat. 3454.
+Pub. L. 104–297, title I, §112(d), Oct. 11, 1996, 110 Stat. 3596, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, which provided interim authority to the Statesof Washington, Oregon, and California to enforce State laws and regulations governing fish harvesting and processing against any vessel operating in the exclusive economic zone off each respective State in a fishery for Dungeness crab (Cancer magister) for which there is no fishery management plan implemented under this chapter, was repealed by Pub. L. 105–384, title II, §203(g), Nov. 13, 1998, 112 Stat. 3454.
 
 #### Foreign Fish Processing in Norton Sound
 
 Pub. L. 99–509, title V, §5004, Oct. 21, 1986, 100 Stat. 1912, provided that for purposes of processing pink salmon within the internal waters of the State of Alaska, the geographic area bounded on the north by a parallel of latitude of 64 degrees, 23 minutes, on the south by a parallel of latitude of 63 degrees, 51 minutes, on the east by the baseline from which the territorial sea was measured, and on the west by the outer limit of the territorial sea, was to be considered to be internal waters of the State of Alaska for the purposes of subsec. (c)(4)(B) of this section until Sept. 30, 1993.
+
+#### <b>Executive Documents</b>
 
 #### Territorial Sea and Contiguous Zone of United States
 

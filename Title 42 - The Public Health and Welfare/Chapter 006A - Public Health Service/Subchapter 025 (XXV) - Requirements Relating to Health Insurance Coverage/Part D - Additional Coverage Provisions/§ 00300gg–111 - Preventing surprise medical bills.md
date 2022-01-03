@@ -592,6 +592,8 @@ A group health plan or a health insurance issuer offering group or individual he
 
 <i>Amendment of section by section 107(a) of div. BB of Pub. L. 116–260 applicable with respect to plan years beginning on or after Jan. 1, 2022. See 2020 Amendment note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 109(a) of the No Surprises Act, referred to in subsec. (a)(2)(B), is section 109(a) of Pub. L. 116–260, div. BB, title I, Dec. 27, 2020, 134 Stat. 2859, which is not classified to the Code.
@@ -607,6 +609,8 @@ The Social Security Act, referred to in subsec. (c)(5)(D), is act Aug. 14, 1935,
 Subsec. (e). Pub. L. 116–260, §107(a), added subsec. (e).
 
 Subsec. (f). Pub. L. 116–260, §111(a), added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 

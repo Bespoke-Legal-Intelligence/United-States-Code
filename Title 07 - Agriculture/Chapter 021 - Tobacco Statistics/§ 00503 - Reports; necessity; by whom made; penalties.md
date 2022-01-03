@@ -4,6 +4,8 @@ It shall be the duty of every dealer, manufacturer, quasi-manufacturer, growers'
 
 (Jan. 14, 1929, ch. 69, §3, 45 Stat. 1080; July 14, 1932, ch. 480, §2, 47 Stat. 663.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1932</b>—Act July 14, 1932, made quasi-manufacturers subject to section.

@@ -22,9 +22,13 @@ In carrying out these programs, the Secretary shall ensure coordination and cons
 
 (Pub. L. 110–140, title VI, §618, Dec. 19, 2007, 121 Stat. 1683; Pub. L. 116–260, div. Z, title III, §3002(g)(1), Dec. 27, 2020, 134 Stat. 2494.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2020</b>—Pub. L. 116–260 amended section generally. Prior to amendment, section related to Center for Geothermal Technology Transfer.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

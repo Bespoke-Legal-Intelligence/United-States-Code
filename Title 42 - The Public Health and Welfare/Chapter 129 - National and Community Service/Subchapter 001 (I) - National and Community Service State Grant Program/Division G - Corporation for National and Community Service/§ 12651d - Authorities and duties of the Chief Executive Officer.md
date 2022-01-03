@@ -28,7 +28,7 @@ In addition to the duties conferred on the Chief Executive Officer under any oth
 
 &emsp;&emsp;(i) establish measurable performance goals and objectives for such programs, in accordance with section 12639 of this title; and
 
-&emsp;&emsp;(ii) provide for periodic evaluation of such programs to assess the manner and extent towhich the programs achieve the goals and objectives, in accordance with such section;
+&emsp;&emsp;(ii) provide for periodic evaluation of such programs to assess the manner and extent to which the programs achieve the goals and objectives, in accordance with such section;
 
 &emsp;(5) consult with appropriate Federal agencies in administering the programs and initiatives;
 
@@ -118,7 +118,7 @@ In addition to the duties conferred on the Chief Executive Officer under any oth
 
 &emsp;(21) coordinate the clearinghouses described in section 12653o of this title;
 
-&emsp;(22) coordinate with entities receiving funds under division C in establishing the National Service Reserve Corps under section 12653h of this title, through which alumni of the national service programs and veterans can serve in disasters and emergencies (as such terms are defined in section 12653h(a) of this title); <sup>1</sup>
+&emsp;(22) coordinate with entities receiving funds under division C in establishing the National Service Reserve Corps under section 12653h ofthis title, through which alumni of the national service programs and veterans can serve in disasters and emergencies (as such terms are defined in section 12653h(a) of this title); <sup>1</sup>
 
 &emsp;(23) identify and implement strategies to increase awareness among Indian tribes of the types and availability of assistance under the national service laws, increase Native American participation in programs under the national service laws, collect information on challenges facing Native American communities, and designate a Strategic Advisor for Native American Affairs to be responsible for the execution of those activities under the national service laws;
 
@@ -238,6 +238,8 @@ The Chief Executive Officer may conduct a campaign to solicit funds to conduct o
 
 (Pub. L. 101–610, title I, §193A, as added and amended Pub. L. 103–82, title II, §§202(a), 203(a)(1)(B), (3), Sept. 21, 1993, 107 Stat. 877, 891; Pub. L. 103–304, §3(b)(2), Aug. 23, 1994, 108 Stat. 1567; Pub. L. 111–13, title I, §1704, Apr. 21, 2009, 123 Stat. 1545.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 8E of the Inspector General Act of 1978, referred to in subsec. (a), is section 8E of Pub. L. 95–452, as added by Pub. L. 103–82, title II, §202(g)(1), Sept. 21, 1993, 107 Stat. 889, which was renumbered section 8F of the Act by Pub. L. 103–204, §23(a)(3), Dec. 17, 1993, 107 Stat. 2408, and is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -289,6 +291,8 @@ Subsecs. (h), (i). Pub. L. 111–13, §1704(4), added subsecs. (h) and (i).
 <b>1993</b>—Subsecs. (b) to (d). Pub. L. 103–82, §203(a)(1)(B), which directed amendment of section 193A of subtitle I of the National and Community Service Act of 1990 by substituting "the national service laws" for "this chapter" was executed wherever appearing in the following provisions of this section, which is section 193A of subtitle G of title I of the National Community Service Act of 1990, to reflect the probable intent of Congress: introductory provisions and pars. (2) to (4)(A), (8), and (9)(C) of subsec. (b), introductory provisions and pars. (2), (4), (9), and (10) of subsec. (c), and subsec. (d)(2).
 
 Subsec. (g). Pub. L. 103–82, §203(a)(3), as amended by Pub. L. 103–304, added subsec. (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

@@ -30,11 +30,13 @@ The following guidelines apply with respect to the conduct of business meetings 
 
 &emsp;(2) Emergency meetings may be held at the call of the chairman or presiding officer.
 
-&emsp;(3) Timely notice of each meeting, including the time, place, and agenda of the meeting,shall be published locally and in the Federal Register, except that in the case of a meeting of an Advisory Council established to provide assistance regarding any individual national marine sanctuary the notice is not required to be published in the Federal Register.
+&emsp;(3) Timely notice of each meeting, including the time, place, and agenda of the meeting, shall be published locally and in the Federal Register, except that in the case of a meeting of an Advisory Council established to provide assistance regarding any individual national marine sanctuary the notice is not required to be published in the Federal Register.
 
 &emsp;(4) Minutes of each meeting shall be kept and contain a summary of the attendees and matters discussed.
 
 (Pub. L. 92–532, title III, §315, as added Pub. L. 102–587, title II, §2112, Nov. 4, 1992, 106 Stat. 5046; amended Pub. L. 104–283, §§5, 9(f), Oct. 11, 1996, 110 Stat. 3363, 3368; Pub. L. 106–513, §§16, 19(b)(5), Nov. 13, 2000, 114 Stat. 2391, 2393.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

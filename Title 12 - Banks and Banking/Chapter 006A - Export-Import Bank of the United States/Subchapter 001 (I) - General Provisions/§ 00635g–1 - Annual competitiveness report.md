@@ -28,7 +28,7 @@ Not later than June 30 of each year, the Bank shall submit to the appropriate co
 
 &emsp;A separate section which—
 
-&emsp;&emsp;(A) compares, to the extent practicable, the size of the Bank program account withthe size of the program accounts of the other major export-financing facilities referred to in paragraph (1); and
+&emsp;&emsp;(A) compares, to the extent practicable, the size of the Bank program account with the size of the program accounts of the other major export-financing facilities referred to in paragraph (1); and
 
 &emsp;&emsp;(B) makes recommendations, if appropriate, with respect to the relative size of the Bank program account, based on factors including whether the size differences are in the best interests of the United States taxpayer.
 

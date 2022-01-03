@@ -90,17 +90,21 @@ Members of the Board appointed pursuant to subsection (a)(1)(A) shall, for each 
 
 (Pub. L. 99–498, title XV, §1505, Oct. 17, 1986, 100 Stat. 1601; Pub. L. 102–325, title XIII, §1331(a), July 23, 1992, 106 Stat. 805; Pub. L. 112–166, §2(ee), Aug. 10, 2012, 126 Stat. 1290.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Subsec. (a)(1)(A). Pub. L. 112–166 struck out "by and with the advice and consent of the Senate" after "United States".
 
-<b>1992</b>—Subsec. (a)(1)(A). Pub. L. 102–325, §1331(a)(1), substituted "Subject to the provisions of subsection (i),the voting" for "The voting" and inserted before period at end ", and diverse fields of expertise, including finance, law, fine arts, and higher education administration".
+<b>1992</b>—Subsec. (a)(1)(A). Pub. L. 102–325, §1331(a)(1), substituted "Subject to the provisions of subsection (i), the voting" for "The voting" and inserted before period at end ", and diverse fields of expertise, including finance, law, fine arts, and higher education administration".
 
 Subsec. (a)(3), (4). Pub. L. 102–325, §1331(a)(2), (3), added par. (3) and redesignated former par. (3) as (4).
 
 Subsec. (i). Pub. L. 102–325, §1331(a)(4), added subsec. (i) and struck out former subsec. (i) which read as follows: "(i)
 
 Review by Secretary of the Interior.—For so long as any employee of the Institute is covered under title 5, the Board (acting by majority vote) shall submit final decisions relating to personnel to the Secretary of the Interior. Each such decision shall become final 30 days after the date of its receipt by the Secretary unless the Secretary disapproves of such decision. The Secretary may only disapprove a decision of the Board for just cause."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 
@@ -109,6 +113,8 @@ Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applic
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a note under section 1001 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Authority
 

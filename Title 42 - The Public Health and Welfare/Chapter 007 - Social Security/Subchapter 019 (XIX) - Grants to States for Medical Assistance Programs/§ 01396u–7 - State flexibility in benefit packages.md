@@ -82,7 +82,7 @@
 
 #### (viii) Children in foster care receiving child welfare services and children receiving foster care or adoption assistance
 
-&emsp;&emsp;&emsp;The individual is an individual with respect to whom child welfare services are made available under part B of subchapter IV on the basis of being a child in foster care or with respect to whom adoption or foster care assistance is made available under part E of such subchapter, without regard to age, or the individual qualifies for medical assistance on the basis of section 1396a(a)(10)(A)(i)(IX) of this title.
+&emsp;&emsp;&emsp;The individual is an individual with respect to whom child welfare services are made available under part B of subchapter IV on the basis of being a child in foster care or with respect to whom adoption or foster care assistance is made availableunder part E of such subchapter, without regard to age, or the individual qualifies for medical assistance on the basis of section 1396a(a)(10)(A)(i)(IX) of this title.
 
 #### (ix) TANF and section 1396u–1 parents
 
@@ -206,7 +206,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any benchmark benefit package under paragraph (1) or benchmark equivalent coverage under paragraph (2) thatis offered by an entity that is not a medicaid managed care organization and that provides both medical and surgical benefits and mental health or substance use disorder benefits, the entity shall ensure that the financial requirements and treatment limitations applicable to such mental health or substance use disorder benefits comply with the requirements of section 300gg–26(a) of this title in the same manner as such requirements apply to a group health plan. In applying the previous sentence with respect to requirements under paragraph (8) of section 300gg–26(a) of this title, a benchmark benefit package or benchmark equivalent coverage described in such sentence shall be treated as in compliance with such requirements if the State plan under this subchapter or the benchmark benefit package or benefit equivalent coverage, as applicable, is in compliance with subpart C of part 440 of title 42, Code of Federal Regulations, or any successor regulation.
+&emsp;&emsp;In the case of any benchmark benefit package under paragraph (1) or benchmark equivalent coverage under paragraph (2) that is offered by an entity that is not a medicaid managed care organization and that provides both medical and surgical benefits and mental health or substance use disorder benefits, the entity shall ensure that the financial requirements and treatment limitations applicable to such mental health or substance use disorder benefits comply with the requirements of section 300gg–26(a) of this title in the same manner as such requirements apply to a group health plan. In applying the previous sentence with respect to requirements under paragraph (8) of section 300gg–26(a) of this title, a benchmark benefit package or benchmark equivalent coverage described in such sentence shall be treated as in compliance with such requirements if the State plan under this subchapter or the benchmark benefit package or benefit equivalent coverage, as applicable, is in compliance with subpart C of part 440 of title 42, Code of Federal Regulations, or any successor regulation.
 
 #### (B) Deemed compliance
 
@@ -216,21 +216,33 @@
 
 &emsp;Notwithstanding the previous provisions of this section, a State may not provide for medical assistance through enrollment of an individual with benchmark coverage or benchmark-equivalent coverage under this section unless such coverage includes for any individual described in section 1396d(a)(4)(C) of this title, medical assistance for family planning services and supplies in accordance with such section.
 
+#### (8) COVID–19 vaccines, testing, and treatment
+
+&emsp;Notwithstanding the previous provisions of this section, a State may not provide for medical assistance through enrollment of an individual with benchmark coverage or benchmark-equivalent coverage under this section unless, during the period beginning on March 11, 2021, and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency period described in section 1320b–5(g)(1)(B) of this title, such coverage includes (and does not impose any deduction, cost sharing, or similar charge for)—
+
+&emsp;&emsp;(A) COVID–19 vaccines and administration of the vaccines; and
+
+&emsp;&emsp;(B) testing and treatments for COVID–19, including specialized equipment and therapies (including preventive therapies), and, in the case of such an individual who is diagnosed with or presumed to have COVID–19, during the period such individual has (or is presumed to have) COVID–19, the treatment of a condition that may seriously complicate the treatment of COVID–19, if otherwise covered under the State plan (or waiver of such plan).
+
 #### (c) Publication of provisions affected
 
-With respect to a State plan amendment to provide benchmark benefits in accordance with subsections (a) and (b) that is approved by the Secretary, the Secretary shall publish on the Internet website of the Centers for Medicare \& Medicaid Services, a list of the provisions of this subchapter that the Secretary has determined do not apply in order to enable the State to carry out the plan amendment and the reason for each such determination on the date such approval is made, and shall publish such list in the Federal Register and <sup>2</sup> not later than 30 days after such date of approval.
+With respect to a State plan amendment to provide benchmark benefits in accordance with subsections (a) and (b) that is approved by the Secretary, the Secretary shall publish on the Internet website of the Centers for Medicare \& Medicaid Services, a list of the provisions of thissubchapter that the Secretary has determined do not apply in order to enable the State to carry out the plan amendment and the reason for each such determination on the date such approval is made, and shall publish such list in the Federal Register and <sup>2</sup> not later than 30 days after such date of approval.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1937, as added Pub. L. 109–171, title VI, §6044(a), Feb. 8, 2006, 120 Stat. 88; amended Pub. L. 111–3, title VI, §611(a)–(c), Feb. 4, 2009, 123 Stat. 100, 101; Pub. L. 111–148, title II, §§2001(a)(5)(E), (c), 2004(c)(2), 2303(c), Mar. 23, 2010, 124 Stat. 275, 276, 283, 296; Pub. L. 116–260, div. BB, title II, §203(a)(4)(B), div. CC, title II, §§209(a)(2), 210(c), Dec. 27, 2020, 134 Stat. 2917, 2986, 2991.)
+(Aug. 14, 1935, ch. 531, title XIX, §1937, as added Pub. L. 109–171, title VI, §6044(a), Feb. 8, 2006, 120 Stat. 88; amended Pub. L. 111–3, title VI, §611(a)–(c), Feb. 4, 2009, 123 Stat. 100, 101; Pub. L. 111–148, title II, §§2001(a)(5)(E), (c), 2004(c)(2), 2303(c), Mar. 23, 2010, 124 Stat. 275, 276, 283, 296; Pub. L. 116–260, div. BB, title II, §203(a)(4)(B), div. CC, title II, §§209(a)(2), 210(c), Dec. 27, 2020, 134 Stat. 2917, 2986, 2991; Pub. L. 117–2, title IX, §9811(a)(5), Mar. 11, 2021, 135 Stat. 211.)
 
 #### Applicability of Amendment
 
 <i>Amendment of section by section 210(c) of Pub. L. 116–260 applicable with respect to items and services furnished on or after Jan. 1, 2022. See 2020 Amendment note below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
 A prior section 1937 of act Aug. 14, 1935, was renumbered section 1939 and is classified to section 1396v of this title.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (b)(8). Pub. L. 117–2 added par. (8).
 
 <b>2020</b>—Subsec. (a)(1)(A). Pub. L. 116–260, §209(a)(2)(A), substituted "subparagraphs (E) and (F)" for "subsection (E)".
 
@@ -273,6 +285,8 @@ Subsec. (a)(1)(E). Pub. L. 111–3, §611(a)(3), added subpar. (E).
 Subsec. (a)(2)(B)(viii). Pub. L. 111–3, §611(b), substituted "child welfare services are made available under part B of subchapter IV on the basis of being a child in foster care or" for "aid or assistance is made available under part B of subchapter IV to children in foster care and individuals".
 
 Subsec. (c). Pub. L. 111–3, §611(c), added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 

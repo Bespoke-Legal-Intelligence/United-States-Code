@@ -144,7 +144,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) was purchased to cover payment of burial expenses or in connection with prearranged funeral expenses.
 
-> &emsp;For purposes of subparagraph (C), the initial death benefit of a contract shall be determined by treating all contracts issued to the same contract owner as 1 contract.
+> &emsp;For purposes of subparagraph (C), the initial death benefit of a contract shall be determinedby treating all contracts issued to the same contract owner as 1 contract.
 
 #### (f) Other definitions and special rules
 
@@ -244,7 +244,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) in the case of a contract to which subsection (a)(2) applies, the greater of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the excess of the aggregate premiums paid under the contract, immediately before the reduction, over the guideline premium limitation for the contract (determined under subsection (c)(2), taking into account the adjustment described in subparagraph (A)), or
+&emsp;&emsp;&emsp;&emsp;(I) the excess of the aggregate premiums paid under the contract, immediately before the reduction, over the guideline premium limitation for thecontract (determined under subsection (c)(2), taking into account the adjustment described in subparagraph (A)), or
 
 &emsp;&emsp;&emsp;&emsp;(II) the excess of the cash surrender value of the contract, immediately before the reduction, over the cash value corridor of subsection (d) (determined immediately after the reduction).
 
@@ -406,6 +406,8 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 (Added Pub. L. 98–369, div. A, title II, §221(a), July 18, 1984, 98 Stat. 767; amended Pub. L. 99–514, title XVIII, §1825(a)–(c), Oct. 22, 1986, 100 Stat. 2846–2848; Pub. L. 100–647, title V, §5011(a), (b), title VI, §6078(a), Nov. 10, 1988, 102 Stat. 3660, 3661, 3709; Pub. L. 115–97, title I, §13517(a)(4), Dec. 22, 2017, 131 Stat. 2146; Pub. L. 116–260, div. EE, title II, §205(a)–(d), Dec. 27, 2020, 134 Stat. 3058.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2020</b>—Subsec. (b)(2)(A). Pub. L. 116–260, §205(a)(1), substituted "the applicable accumulation test minimum rate" for "an annual effective rate of 4 percent".
@@ -451,6 +453,8 @@ Subsec. (f)(1)(A). Pub. L. 99–514, §1825(b)(2), substituted "less any excess 
 Subsec. (f)(7). Pub. L. 99–514, §1825(b)(1), amended par. (7) generally. Prior to amendment, par. (7)(A), in general, read as follows: "In the event of a change in the future benefits or any qualified additional benefit (or in any other terms) under the contract which was not reflected in any previous determination made under this section, under regulations prescribed by the Secretary, there shall be proper adjustments in future determinations made under this section.", and par. (7)(B), certain changes treated as exchange, read as follows: "In the case of any change which reduces the future benefits under the contract, such change shall be treated as an exchange of the contract for another contract."
 
 Subsec. (g)(1)(B)(ii). Pub. L. 99–514, §1825(c), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "the amount of premiums paid under the contract during the taxable year reduced by any policyholder dividends received during such taxable year."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 

@@ -78,6 +78,8 @@ If a return is made for a short period by reason of subsection (a)—
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 149; Pub. L. 86–779, §10(i), Sept. 14, 1960, 74 Stat. 1009; Pub. L. 91–172, title III, §301(b)(6), Dec. 30, 1969, 83 Stat. 585; Pub. L. 94–455, title III, §301(e), title XII, §1204(c)(2), title XVI, §1607(b)(1)(C), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1553, 1697, 1757, 1834; Pub. L. 95–30, title I, §102(b)(6), May 23, 1977, 91 Stat. 137; Pub. L. 95–600, title IV, §421(e)(2), title VII, §703(o)(1)–(3), Nov. 6, 1978, 92 Stat. 2876, 2943; Pub. L. 96–222, title I, §104(a)(4)(H)(iii), Apr. 1, 1980, 94 Stat. 217; Pub. L. 96–589, §3(d), Dec. 24, 1980, 94 Stat. 3401; Pub. L. 97–448, title III, §304(a), Jan. 12, 1983, 96 Stat. 2398; Pub. L. 99–514, title I, §104(b)(7), title VII, §701(e)(3), Oct. 22, 1986, 100 Stat. 2105, 2342; Pub. L. 108–357, title IV, §413(c)(6), Oct. 22, 2004, 118 Stat. 1507.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Subsec. (e)(3) to (5). Pub. L. 108–357 redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: "Undistributed foreign personal holding company income, see section 557."
@@ -122,6 +124,8 @@ Subsec. (e)(5). Pub. L. 94–455, §1607(b)(1)(C), substituted "section 857(b)(2
 
 <b>1960</b>—Subsec. (d)(5). Pub. L. 86–779 added par. (5).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2004 Amendment
 
 Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
@@ -138,13 +142,13 @@ Pub. L. 97–448, title III, §311(b)(1), Jan. 12, 1983, 96 Stat. 2411, provided
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–589 applicable to bankruptcy cases commencing more than 90 days after Dec. 24, 1980, see section 7(b) of Pub. L. 96–589, set out as a note under section 108 of this title.
+Amendment by Pub. L. 96–589 applicable to bankruptcy cases commencing more than 90 days after Dec.24, 1980, see section 7(b) of Pub. L. 96–589, set out as a note under section 108 of this title.
 
 Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in the provisions of the Revenue Act of 1978, Pub. L. 95–600, to which such amendment relates, see section 201 of Pub. L. 96–222, set out as a note under section 32 of this title.
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–600, title VII, §703(o)(4), Nov. 6, 1978, 92 Stat. 2943, provided that: "The amendments made bythis subsection \[amending this section\] shall apply to taxable years beginning after December 31, 1976."
+Pub. L. 95–600, title VII, §703(o)(4), Nov. 6, 1978, 92 Stat. 2943, provided that: "The amendments made by this subsection \[amending this section\] shall apply to taxable years beginning after December 31, 1976."
 
 Amendment by section 421(e)(2) of Pub. L. 95–600 applicable to taxable years beginning after Dec. 31, 1978, see section 421(g) of Pub. L. 95–600, set out as a note under section 5 of this title.
 

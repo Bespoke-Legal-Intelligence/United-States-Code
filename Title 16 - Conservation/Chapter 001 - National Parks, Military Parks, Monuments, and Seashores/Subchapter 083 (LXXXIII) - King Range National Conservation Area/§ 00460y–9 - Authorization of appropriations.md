@@ -2,7 +2,7 @@
 
 (a) There are authorized to be appropriated such sums as may be necessary to accomplish the purposes of this subchapter, but not to exceed $1,500,000 for the purchase of lands and interests in lands and not to exceed $3,500,000 for the construction and improvements.
 
-(b) In addition to any amounts authorized to be appropriated under subsection (a), there are authorized to be appropriated for fiscal years beginning on or after October 1, 1979, for the acquisition of lands and interests in lands under this subchapter—
+(b) In addition to any amounts authorized to be appropriated under subsection (a), there areauthorized to be appropriated for fiscal years beginning on or after October 1, 1979, for the acquisition of lands and interests in lands under this subchapter—
 
 &emsp;(1) from the Land and Water Conservation Fund (established under the Land and Water Conservation Fund Act of 1965) <sup>1</sup> not to exceed $5,000,000, and
 
@@ -11,6 +11,8 @@
 > such sums to remain available until expended.
 
 (Pub. L. 91–476, §10, Oct. 21, 1970, 84 Stat. 1071; Pub. L. 95–352, §2(2), (3), Aug. 20, 1978, 92 Stat. 516.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

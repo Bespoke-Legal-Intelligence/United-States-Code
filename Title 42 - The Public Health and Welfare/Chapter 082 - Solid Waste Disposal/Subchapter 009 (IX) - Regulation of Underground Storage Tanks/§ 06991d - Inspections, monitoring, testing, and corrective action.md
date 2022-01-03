@@ -46,6 +46,8 @@ For the purposes of developing or assisting in the development of any regulation
 
 (Pub. L. 89–272, title II, §9005, as added Pub. L. 98–616, title VI, §601(a), Nov. 8, 1984, 98 Stat. 3284; amended Pub. L. 99–499, title II, §205(f), Oct. 17, 1986, 100 Stat. 1702; Pub. L. 109–58, title XV, §§1523(a), 1533(4), Aug. 8, 2005, 119 Stat. 1094, 1105.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Subsec. (a). Pub. L. 109–58, §1533(4)(A), substituted "study, taking" for "study taking" in introductory provisions.

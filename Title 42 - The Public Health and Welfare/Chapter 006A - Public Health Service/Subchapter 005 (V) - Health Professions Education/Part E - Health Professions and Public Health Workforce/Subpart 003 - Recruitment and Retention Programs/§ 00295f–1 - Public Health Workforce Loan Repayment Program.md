@@ -50,7 +50,7 @@ The written contract (referred to in this section as the "written contract") bet
 
 #### (2) Payments for years served
 
-&emsp;For each year of obligated service that an individual contracts to serve under subsection (c) the Secretary may pay up to $35,000 on behalf of the individual for loans described in paragraph (1). With respect to participants under the Program whose total eligible loans are less than $105,000, the Secretary shall pay an amount that does not exceed 1/3 of the eligible loan balance for each year of obligated service of the individual.
+&emsp;For each year of obligated service that an individual contracts to serve under subsection (c) the Secretary may pay up to $35,000 on behalf of the individual for loans described in paragraph (1). With respect to participants under the Program whose total eligible loans are less than $105,000, the Secretary shall payan amount that does not exceed 1/3 of the eligible loan balance for each year of obligated service of the individual.
 
 #### (3) Tax liability
 
@@ -69,6 +69,8 @@ An individual who fails to comply with the contract entered into under subsectio
 There is authorized to be appropriated to carry out this section $195,000,000 for fiscal year 2010, and such sums as may be necessary for each of fiscal years 2011 through 2015.
 
 (July 1, 1944, ch. 373, title VII, §776, as added Pub. L. 111–148, title V, §5204, Mar. 23, 2010, 124 Stat. 609.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

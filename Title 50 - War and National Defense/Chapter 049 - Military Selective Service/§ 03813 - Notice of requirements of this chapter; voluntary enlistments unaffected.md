@@ -10,7 +10,7 @@ It shall be the duty of every registrant to keep his local board informed as to 
 
 #### (c) Separability of provisions
 
-If any provision of this chapter, or the application thereof to any person or circumstance, is held invalid, the remainder of the chapter, and the application of such provision to other persons or circumstances, shall not be affected thereby.
+If any provision of this chapter, or the application thereof to any person or circumstance, is held invalid, the remainder of the chapter, andthe application of such provision to other persons or circumstances, shall not be affected thereby.
 
 #### (d) Voluntary enlistments or reenlistments; absence of affect
 
@@ -21,6 +21,8 @@ Except as provided in section 3803(c) of this title, nothing contained in this c
 In order to assist the Armed Forces in recruiting individuals for voluntary service in the Armed Forces, the Director shall, upon the request of the Secretary of Defense or the Secretary of Homeland Security, furnish to the Secretary the names and addresses of individuals registered under this Act. Names and addresses furnished pursuant to the preceding sentence may be used by the Secretary of Defense or Secretary of Homeland Security only for recruiting purposes.
 
 (June 24, 1948, ch. 625, title I, §15, 62 Stat. 624; Pub. L. 92–129, title I, §101(a)(33), Sept. 28, 1971, 85 Stat. 353; Pub. L. 97–86, title IX, §916(c), Dec. 1, 1981, 95 Stat. 1129; Pub. L. 107–296, title XVII, §1704(e)(11)(E), Nov. 25, 2002, 116 Stat. 2316.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -39,6 +41,8 @@ Section was formerly classified to section 465 of the former Appendix to this ti
 <b>1981</b>—Subsec. (e). Pub. L. 97–86 added subsec. (e).
 
 <b>1971</b>—Subsec. (d). Pub. L. 92–129 inserted provision empowering the Director and the Secretary of Defense to authorize voluntary enlistments and reenlistments in the Armed Forces after a person has been issued an order to report for induction and struck out reference to section 3803(g) of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

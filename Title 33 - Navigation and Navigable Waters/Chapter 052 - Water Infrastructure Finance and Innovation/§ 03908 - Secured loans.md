@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraphs (2) and (3), the Secretary or the Administrator, as applicable,may enter into agreements with 1 or more obligors to make secured loans, the proceeds of which shall be used to finance eligible project costs of any project selected under section 3907 of this title.
+&emsp;Subject to paragraphs (2) and (3), the Secretary or the Administrator, as applicable, may enter into agreements with 1 or more obligors to make secured loans, the proceeds of which shall be used to finance eligible project costs of any project selected under section 3907 of this title.
 
 #### (2) Financial risk assessment
 
@@ -58,7 +58,7 @@
 
 #### (6) Nonsubordination
 
-&emsp;A secured loan under this section shall not be subordinated to the claims of any holder of project obligations in the event of bankruptcy, insolvency, or liquidation of the obligor of the project.
+&emsp;A secured loan under this section shall not be subordinated to the claims of any holder ofproject obligations in the event of bankruptcy, insolvency, or liquidation of the obligor of the project.
 
 #### (7) Fees
 
@@ -148,7 +148,7 @@
 
 #### (A) Use of excess revenues
 
-&emsp;&emsp;Any excess revenues that remain after satisfying scheduled debt service requirements on the project obligations and secured loan and all deposit requirements under the terms of any trust agreement, bond resolution, or similar agreement securing project obligations may be applied annually to prepay a secured loan under this section without penalty.
+&emsp;&emsp;Any excess revenues that remain after satisfying scheduled debt service requirements on the project obligations and secured loan and all deposit requirements under theterms of any trust agreement, bond resolution, or similar agreement securing project obligations may be applied annually to prepay a secured loan under this section without penalty.
 
 #### (B) Use of proceeds of refinancing
 

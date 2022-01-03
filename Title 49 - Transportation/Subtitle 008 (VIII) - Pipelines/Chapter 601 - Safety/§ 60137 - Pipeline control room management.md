@@ -10,7 +10,7 @@ Review and Approval of the Plan.—The Secretary or, in the case of an operator 
 
 (c)
 
-Enforcement of the Plan.—If the Secretary or the head of the appropriate State authority determines that an operator's plan submitted to the Secretary or the head of such authority under subsection (a), or implementationof such a plan, does not comply with the regulations issued under this section or is inadequate for the safe operation of a pipeline, the Secretary or the head of such authority may take action consistent with this chapter and enforce the requirements of such regulations.
+Enforcement of the Plan.—If the Secretary or the head of the appropriate State authority determines that an operator's plan submitted to the Secretary or the head of such authority under subsection (a), or implementation of such a plan, does not comply with the regulations issued under this section or is inadequate for the safe operation of a pipeline, the Secretary or the head of such authority may take action consistent with this chapter and enforce the requirements of such regulations.
 
 (d)
 

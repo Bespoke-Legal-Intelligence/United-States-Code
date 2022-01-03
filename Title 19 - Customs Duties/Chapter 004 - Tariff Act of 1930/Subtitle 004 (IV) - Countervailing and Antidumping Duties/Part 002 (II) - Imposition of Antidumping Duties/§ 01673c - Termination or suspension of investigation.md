@@ -94,7 +94,7 @@ Before an investigation may be suspended under subsection (b) or (c) the adminis
 
 &emsp;(1) notify the petitioner of, and consult with the petitioner concerning, its intention to suspend the investigation, and notify other parties to the investigation and the Commission not less than 30 days before the date on which it suspends the investigation,
 
-&emsp;(2) provide a copy of the proposed agreement to the petitioner at the time of the notification, together with an explanation of how the agreement will be carried out and enforced,and of how the agreement will meet the requirements of subsections (b) and (d) or (c) and (d), and
+&emsp;(2) provide a copy of the proposed agreement to the petitioner at the time of the notification, together with an explanation of how the agreement will be carried out and enforced, and of how the agreement will meet the requirements of subsections (b) and (d) or (c) and (d), and
 
 &emsp;(3) permit all interested parties described in section 1677(9) of this title to submit comments and information for the record before the date on which notice of suspension of the investigation is published under subsection (f)(1)(A).
 
@@ -162,7 +162,7 @@ If the administering authority, within 20 days after the date of publication of 
 
 #### (3) Suspension of liquidation to continue during review period
 
-&emsp;The suspension of liquidation of entries of the subject merchandise shall terminate at the close of the 20-day period beginning on the day after the date on which notice of suspension of the investigation is published in the Federal Register, or, if a review petition is filed under paragraph (1) with respect to thesuspension of the investigation, in the case of an affirmative determination by the Commission under paragraph (2), the date on which notice of an affirmative determination by the Commission is published. If the determination of the Commission under paragraph (2) is affirmative, then the administering authority shall—
+&emsp;The suspension of liquidation of entries of the subject merchandise shall terminate at the close of the 20-day period beginning on the day after the date on which notice of suspension of the investigation is published in the Federal Register, or, if a review petition is filed under paragraph (1) with respect to the suspension of the investigation, in the case of an affirmative determination by the Commission under paragraph (2), the date on which notice of an affirmative determination by the Commission is published. If the determination of the Commission under paragraph (2) is affirmative, then the administering authority shall—
 
 &emsp;&emsp;(A) terminate the suspension of liquidation under section 1673b(d)(2) of this title, and
 
@@ -228,7 +228,9 @@ The administering authority may terminate any investigation initiated by the adm
 
 &emsp;If an agreement described in paragraph (1) is accepted after the antidumping duty order is published, the administering authority shall rescind the order, refund any cash deposit and release any bond or other security deposited under section 1673b(d)(1)(B) of this title, and instruct the Customs Service that entries of the subject merchandise that were made during the period that the order was in effect shall be liquidated without regard to antidumping duties.
 
-(June 17, 1930, ch. 497, title VII, §734, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 165; amended Pub. L. 98–573, title VI, §§604(b), 612(b)(2), Oct. 30, 1984, 98 Stat. 3026, 3034; Pub. L. 100–418, title I, §§1316(c), 1326(d)(2), Aug. 23, 1988, 102 Stat. 1187, 1204; Pub. L. 103–465, title II, §§216(b), 217(b), 218(a)(2), 219(c)(2)–(5), 233(a)(1)(B), (2)(A)(ii), (5)(S)–(U), Dec. 8, 1994, 108 Stat. 4853, 4854, 4857, 4898, 4900; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
+(June 17, 1930, ch. 497, title VII, §734, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 165; amended Pub. L. 98–573, title VI, §§604(b), 612(b)(2), Oct. 30, 1984, 98 Stat. 3026, 3034; Pub. L.100–418, title I, §§1316(c), 1326(d)(2), Aug. 23, 1988, 102 Stat. 1187, 1204; Pub. L. 103–465, title II, §§216(b), 217(b), 218(a)(2), 219(c)(2)–(5), 233(a)(1)(B), (2)(A)(ii), (5)(S)–(U), Dec. 8, 1994, 108 Stat. 4853, 4854, 4857, 4898, 4900; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -280,6 +282,8 @@ Subsec. (i)(1)(D), (E). Pub. L. 98–573, §604(b)(4), added subpar. (D) and red
 
 Subsec. (k). Pub. L. 98–573, §604(b)(5), added subsec. (k).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 "Commissioner of U.S. Customs and Border Protection" substituted for "Commissioner of Customs" in subsec. (i)(1)(D) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under section 211 of Title 6, Domestic Security.
@@ -298,5 +302,5 @@ Amendment by section 604(b) of Pub. L. 98–573 effective Oct. 30, 1984, and ame
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 

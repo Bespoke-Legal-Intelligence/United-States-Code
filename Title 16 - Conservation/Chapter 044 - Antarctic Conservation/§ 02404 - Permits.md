@@ -24,7 +24,7 @@ The Director may issue permits which authorize acts otherwise prohibited by sect
 
 (2) After receiving a copy of any application from the Director under paragraph (1) the appropriate Secretary shall promptly determine, and notify the Director, whether or not any action proposed in the application also requires a permit or other authorization under any law administered by the appropriate Secretary.
 
-(3) If the appropriate Secretary notifies the Director that any action proposed in the application requires a permit or other authorization under any law administered by the appropriate Secretary, the Director may not issue a permit under this section with respect to such action unless such other required permit or authorization is issued by the appropriate Secretary and a copy thereof is submitted to the Director. The issuance of any permit or other authorization by the appropriate Secretary for the carrying out of any action with respect to any native mammal, native bird, or native plant shall not be deemed to entitle the applicant concerned to the issuance by the Director of a permit under this section.
+(3) If the appropriate Secretary notifies the Director that any action proposed in the application requires a permit or other authorization under any law administered by the appropriate Secretary, the Director may not issue a permit under this section with respect to such action unless such other required permit or authorization is issued by the appropriate Secretary and a copy thereof is submitted to the Director. The issuance of any permit or other authorization by the appropriate Secretary for the carrying out of any action with respect to any native mammal, native bird, or native plant shall not be deemed to entitle the applicant concerned to theissuance by the Director of a permit under this section.
 
 #### (d) Issuance of permits
 
@@ -54,7 +54,7 @@ As soon as practicable after receiving any application for a permit under this s
 
 &emsp;&emsp;&emsp;(II) specimens for museums, zoological gardens, or other educational or cultural institutions or uses, or
 
-&emsp;&emsp;&emsp;(III) for unavoidable consequences of scientific activities or the construction andoperation of scientific support facilities; and
+&emsp;&emsp;&emsp;(III) for unavoidable consequences of scientific activities or the construction and operation of scientific support facilities; and
 
 &emsp;&emsp;(ii) shall ensure, as far as possible, that—
 
@@ -98,9 +98,11 @@ Any applicant for a permit may obtain judicial review of the terms and condition
 
 #### (g) Permit fees
 
-The Director may establish and charge fees for processing applications for permits under this section. The amount of such fees shall be commensurate with the administrative costs incurred by the Director in undertaking such processing.
+The Director may establish and charge fees for processing applications for permits under thissection. The amount of such fees shall be commensurate with the administrative costs incurred by the Director in undertaking such processing.
 
 (Pub. L. 95–541, §5, Oct. 28, 1978, 92 Stat. 2050; Pub. L. 104–227, title I, §105, Oct. 2, 1996, 110 Stat. 3040.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

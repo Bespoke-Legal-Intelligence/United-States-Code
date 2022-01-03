@@ -13,6 +13,8 @@ Subpart B—Special Rules
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–141, div. U, title IV, §401(a)(81), Mar. 23, 2018, 132 Stat. 1188, substituted "Collectively bargained plans, etc." for "Collectively bargained plans" in item 413.

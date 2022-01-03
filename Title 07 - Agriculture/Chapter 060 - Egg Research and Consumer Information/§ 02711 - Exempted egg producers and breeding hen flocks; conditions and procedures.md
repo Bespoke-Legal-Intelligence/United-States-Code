@@ -38,6 +38,8 @@ The following shall be exempt from the specific provisions of this chapter under
 
 (Pub. L. 93–428, §12, Oct. 1, 1974, 88 Stat. 1176; Pub. L. 101–220, §3(a), Dec. 12, 1989, 103 Stat. 1877; Pub. L. 103–188, §4, Dec. 14, 1993, 107 Stat. 2257.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1993</b>—Subsec. (a)(1). Pub. L. 103–188 substituted "75,000" for "30,000".
@@ -47,6 +49,8 @@ The following shall be exempt from the specific provisions of this chapter under
 "(a) Any egg producer whose aggregate number of laying hens at any time during a three-consecutive-month period immediately prior to the date assessments are due and payable has not exceeded three thousand laying hens.
 
 "(b) Any flock of breeding hens whose production of eggs is primarily utilized for the hatching of baby chicks."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Egg Promotion and Research Order
 

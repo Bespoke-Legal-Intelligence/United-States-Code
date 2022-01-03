@@ -4,7 +4,7 @@
 
 The Administrator may enter into cooperative agreements with States and Indian tribes—
 
-&emsp;(1) to delegate to any State or Indian tribe the authority to cooperate in the enforcement of this subchapter through the use of its personnel or facilities, to train personnel of the State or Indian tribe to cooperate in the enforcement of this subchapter, and to assist States and Indian tribes in implementing cooperative enforcement programs through grants-in-aid; and
+&emsp;(1) to delegate to any State or Indian tribe the authority to cooperate in the enforcement of this subchapter through the use of its personnel or facilities, to train personnel of the State or Indian tribe to cooperate in the enforcement of this subchapter, and to assistStates and Indian tribes in implementing cooperative enforcement programs through grants-in-aid; and
 
 &emsp;(2) to assist States in developing and administering State programs, and Indian tribes that enter into cooperative agreements, to train and certify applicators consistent with the standards the Administrator prescribes.
 
@@ -20,6 +20,8 @@ The Administrator shall, in cooperation with the Secretary of Agriculture, use t
 
 (June 25, 1947, ch. 125, §23, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 996; amended Pub. L. 95–396, §21, Sept. 30, 1978, 92 Stat. 834.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–396 extended provisions to Indian tribes, authorized annual appropriation of funds for training and certification programs, and required proportionate reduction of shares in the allocation of available funds when appropriations do not cover 50 percent of the annual costs.
@@ -27,6 +29,8 @@ The Administrator shall, in cooperation with the Secretary of Agriculture, use t
 Subsec. (b). Pub. L. 95–396 authorized contracts with Indian tribal agencies.
 
 Subsec. (c). Pub. L. 95–396 substituted "shall" for "may", substituted "use" for "utilize", and "to inform and educate pesticide users about accepted uses and other regulations" for "for informing farmers of accepted uses and other regulations".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

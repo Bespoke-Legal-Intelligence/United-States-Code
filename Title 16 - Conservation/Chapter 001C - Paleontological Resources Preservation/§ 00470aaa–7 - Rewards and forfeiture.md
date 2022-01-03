@@ -10,7 +10,7 @@ The Secretary may pay from penalties collected under section 470aaa–5 or 470aa
 
 #### (b) Forfeiture
 
-All paleontological resources with respect to which a violation under section 470aaa–5 or 470aaa–6 of this title occurred and which are in the possession of any person, shall be subject to civil forfeiture, or upon conviction, to criminal forfeiture.
+All paleontological resources with respect to which a violation under section 470aaa–5 or470aaa–6 of this title occurred and which are in the possession of any person, shall be subject to civil forfeiture, or upon conviction, to criminal forfeiture.
 
 #### (c) Transfer of seized resources
 

@@ -28,6 +28,8 @@ Definitions.—In this section:
 
 (Added Pub. L. 116–92, div. A, title X, §1051(a), Dec. 20, 2019, 133 Stat. 1590.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this section, referred to in subsecs. (b) and (d), is the date of enactment of Pub. L. 116–92, which was approved Dec. 20, 2019.

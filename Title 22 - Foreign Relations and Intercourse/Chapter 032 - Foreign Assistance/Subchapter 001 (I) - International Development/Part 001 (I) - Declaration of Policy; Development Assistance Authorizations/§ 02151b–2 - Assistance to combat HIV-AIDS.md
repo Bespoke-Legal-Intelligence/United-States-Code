@@ -30,7 +30,7 @@ Congress recognizes that the alarming spread of HIV/AIDS in countries in sub-Sah
 
 &emsp;&emsp;(B) strengthen the capacity to deliver primary health care in developing countries, especially in sub-Saharan Africa;
 
-&emsp;&emsp;(C) support and help countries in their efforts to achieve staffing levels of at least 2.3doctors, nurses, and midwives per 1,000 population, as called for by the World Health Organization; and
+&emsp;&emsp;(C) support and help countries in their efforts to achieve staffing levels of at least 2.3 doctors, nurses, and midwives per 1,000 population, as called for by the World Health Organization; and
 
 &emsp;&emsp;(D) help partner countries to develop independent, sustainable HIV/AIDS programs.
 
@@ -54,7 +54,7 @@ Congress recognizes that the alarming spread of HIV/AIDS in countries in sub-Sah
 
 #### (1) In general
 
-&emsp;Consistent with section 2151b(c) of this title, the President is authorized to furnish assistance, on such terms and conditions as the President may determine, for HIV/AIDS, including to prevent, treat, and monitor HIV/AIDS, and carry out related activities, in countries in sub-Saharan Africa, the Caribbean, Central Asia, Eastern Europe, Latin America, and other countries and areas, particularly with respect to refugee populations or those in postconflict settings in such countries and areas with significant or increasing HIV incidence rates.
+&emsp;Consistent with section 2151b(c) of this title, the President is authorized to furnish assistance, on such terms and conditions as the President may determine, for HIV/AIDS, including to prevent, treat, and monitor HIV/AIDS, and carry out related activities, in countries in sub-Saharan Africa, the Caribbean, Central Asia, Eastern Europe, Latin America, and other countries and areas, particularly with respect to refugee populationsor those in postconflict settings in such countries and areas with significant or increasing HIV incidence rates.
 
 #### (2) Role of NGOs
 

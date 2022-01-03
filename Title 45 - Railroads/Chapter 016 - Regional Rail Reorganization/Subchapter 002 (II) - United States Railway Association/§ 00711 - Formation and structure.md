@@ -34,7 +34,7 @@ The term of office of the Chairman of the Board of Directors of the Association 
 
 #### (f) Quorum
 
-Three members of the Board of Directors, or their representatives, shall constitute a quorum for the transaction of any function of the Association.
+Three members of the Board of Directors, or their representatives, shall constitute a quorumfor the transaction of any function of the Association.
 
 #### (g) Assumption of Finance Committee functions
 
@@ -64,7 +64,7 @@ No person, except the Association, shall hereafter use the words "United States 
 
 #### References in Text
 
-The District of Columbia Nonprofit Corporation Act, referred to in subsec. (c), is Pub. L. 87–569, Aug. 6, 1962,76 Stat. 265, as amended, which is not classified to the Code.
+The District of Columbia Nonprofit Corporation Act, referred to in subsec. (c), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, as amended, which is not classified to the Code.
 
 #### Codification
 

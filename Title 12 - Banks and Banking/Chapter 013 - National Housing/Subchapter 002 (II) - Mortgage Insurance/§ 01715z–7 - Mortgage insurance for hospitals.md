@@ -20,7 +20,7 @@ For the purposes of this section—
 
 #### (c) Authorization to insure; prohibition of premiums on guarantees of principal and interest under title VII of the Public Health Service Act
 
-The Secretary is authorized to insure any mortgage (including advances on such mortgage during construction) in accordance with the provisions of this section upon such terms and conditions as he may prescribe and to make commitments for insurance of such mortgage prior to the date of its execution or disbursement thereon. No mortgage insurance premium shall be charged with respect to the amount of principal and interest guaranteed by the Department of Health and Human Services under title VII of the Public Health Service Act \[42 U.S.C. 292 et seq.\].
+The Secretary is authorized to insure any mortgage (including advances on such mortgage during construction) in accordance with the provisions of this section upon such terms and conditions as he may prescribe and to make commitments for insurance of such mortgage prior to the date of its execution or disbursement thereon. No mortgage insurance premium shallbe charged with respect to the amount of principal and interest guaranteed by the Department of Health and Human Services under title VII of the Public Health Service Act \[42 U.S.C. 292 et seq.\].
 
 #### (d) Insurance of mortgages covering new or rehabilitated hospitals, including equipment; terms and conditions
 
@@ -32,7 +32,7 @@ In order to carry out the purpose of this section, the Secretary is authorized t
 
 &emsp;&emsp;(A) equipment to be used in the operation of the hospital, when the proposed improvements are completed and the equipment is installed; and
 
-&emsp;&emsp;(B) a solar energy system (as defined in subparagraph (3) of the last paragraph of section 1703(a) of this title) or residential energy conservation measures (as defined in section 8211(11)(A) through (G) and (I) of title 42) <sup>1</sup> in cases where the Secretary determines that such measures are in addition tothose required under the minimum property standards and will be cost-effective over the life of the measure.
+&emsp;&emsp;(B) a solar energy system (as defined in subparagraph (3) of the last paragraph of section 1703(a) of this title) or residential energy conservation measures (as defined in section 8211(11)(A) through (G) and (I) of title 42) <sup>1</sup> in cases where the Secretary determines that such measures are in addition to those required under the minimum property standards and will be cost-effective over the life of the measure.
 
 &emsp;(3) The mortgage shall—
 
@@ -52,7 +52,7 @@ In order to carry out the purpose of this section, the Secretary is authorized t
 
 > &emsp;This paragraph shall not limit the authority of the Secretary to approve a mortgage increase on any mortgage eligible for insurance under this paragraph at any time prior to final endorsement of the loan for insurance; except that such mortgage increase may not be approved for the cost of constructing any improvements not included in the original plans and specifications approved by the Department of Health and Human Services unless approved by the Secretary of Housing and Urban Development and by the Secretary of Health and Human Services.
 
-&emsp;(6) To the extent that a private nonprofit or public facility mortgagor is required by the Secretary to provide cash equity in excess of the amount of the mortgage to complete the project, the mortgagor shall be entitled, at the option of the mortgagee, to fund the excess with a letter of credit. In such event, mortgage proceeds may be advanced to the mortgagor prior to any demand being made on the letter of credit.
+&emsp;(6) To the extent that a private nonprofit or public facility mortgagor is required by theSecretary to provide cash equity in excess of the amount of the mortgage to complete the project, the mortgagor shall be entitled, at the option of the mortgagee, to fund the excess with a letter of credit. In such event, mortgage proceeds may be advanced to the mortgagor prior to any demand being made on the letter of credit.
 
 #### (e) Release of part of property or project from lien
 

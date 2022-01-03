@@ -20,9 +20,13 @@ Definitions.—In this section:
 
 (Added Pub. L. 108–375, div. A, title X, §1011(a), Oct. 28, 2004, 118 Stat. 2038, §7305a; renumbered §8675a, Pub. L. 115–232, div. A, title VIII, §807(d)(2), Aug. 13, 2018, 132 Stat. 1836.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7305a of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

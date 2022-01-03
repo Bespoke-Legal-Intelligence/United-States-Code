@@ -2,7 +2,7 @@
 
 #### (a) Department of Commerce
 
-There is authorized to be appropriated to the Department of Commerce, in addition toamounts otherwise available for such purposes, such sums as may be necessary for fiscal year 2001, and each fiscal year thereafter, for additional staff for—
+There is authorized to be appropriated to the Department of Commerce, in addition to amounts otherwise available for such purposes, such sums as may be necessary for fiscal year 2001, and each fiscal year thereafter, for additional staff for—
 
 &emsp;(1) monitoring compliance by the People's Republic of China with its commitments under the WTO, assisting United States negotiators with ongoing negotiations in the WTO, and defending United States antidumping and countervailing duty measures with respect to products of the People's Republic of China;
 

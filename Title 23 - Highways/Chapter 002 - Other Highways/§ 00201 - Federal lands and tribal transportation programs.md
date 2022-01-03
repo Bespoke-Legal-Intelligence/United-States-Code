@@ -46,7 +46,7 @@ Contractual obligation.—
 
 &emsp;&emsp;(A)
 
-In general.—Notwithstanding any other provision of law (including regulations), the authorization by the Secretary, or the Secretary of the appropriate Federal land management agency if the agency is the contracting office, of engineering and related work for the development, design, and acquisition associated with a construction project, whether performed by contract or agreement authorized by law, or the approval by the Secretary of plans, specifications, and estimates for construction of a project, shall be considered to constitute a contractual obligation of the Federal Government to pay the total eligible cost of—
+In general.—Notwithstanding any other provision of law (including regulations), the authorization by the Secretary, or the Secretary of the appropriate Federalland management agency if the agency is the contracting office, of engineering and related work for the development, design, and acquisition associated with a construction project, whether performed by contract or agreement authorized by law, or the approval by the Secretary of plans, specifications, and estimates for construction of a project, shall be considered to constitute a contractual obligation of the Federal Government to pay the total eligible cost of—
 
 &emsp;&emsp;&emsp;(i) any project funded under this title; and
 
@@ -70,7 +70,7 @@ Tribal and federal lands transportation program.—The Federal share of the cost
 
 &emsp;&emsp;(B)
 
-Federal lands access program.—The Federal share of the cost of a project carried out under the Federal lands access program shall be determined in accordance with section 120.
+Federal lands access program.—The Federal share of the cost of a project carried out under the Federal lands access program shall be be <sup>1</sup> up to 100 percent.
 
 (c)
 
@@ -114,7 +114,7 @@ In general.—The Secretaries of the appropriate Federal land management agencie
 
 &emsp;&emsp;&emsp;(ii)
 
-Requirement.—Data collected to implement the tribal transportation program shall be in accordance with the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).<sup>1</sup>
+Requirement.—Data collected to implement the tribal transportation program shall be in accordance with the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5301 et seq.).
 
 &emsp;&emsp;&emsp;(iii)
 
@@ -150,7 +150,7 @@ Funding.—
 
 &emsp;&emsp;(A)
 
-In general.—To carry out the activities described in this subsection for Federal lands transportation facilities, Federal lands access transportation facilities, and other federally owned roads open to public travel (as that term is defined in section 125(e)), the Secretary shall for each fiscal year combine and use not greater than 5 percent of the funds authorized for programs under sections 203 and 204.
+In general.—To carry out the activities described in this subsection for Federal lands transportation facilities, Federal lands access transportation facilities, and other federally owned roads open to public travel (as that term is defined in section 125(e)), the Secretary shall for each fiscal year combine and use not greater than 20 percent of the funds authorized for programs under sections 203 and 204.
 
 &emsp;&emsp;(B)
 
@@ -188,7 +188,45 @@ In general.—To enable the efficient use of funds made available for the Federa
 
 Credit.—The funds described in paragraph (1) shall be credited back to the loaning entity with funds that are currently available for obligation at the time of the credit.
 
-(Added Pub. L. 112–141, div. A, title I, §1119(a), July 6, 2012, 126 Stat. 473; amended Pub. L. 114–94, div. A, title I, §§1117(a), 1120, Dec. 4, 2015, 129 Stat. 1356, 1358.)
+(f)
+
+Alternative Contracting Methods.—
+
+&emsp;(1)
+
+In general.—Notwithstanding any other provision of law (including the Federal Acquisition Regulation), a contracting method available to a State under this title may be used by the Secretary, on behalf of—
+
+&emsp;&emsp;(A) a Federal land management agency, in using any funds pursuant to section 203, 204, or 308;
+
+&emsp;&emsp;(B) a Federal land management agency, in using any funds pursuant to section 1535 of title 31 for any of the eligible uses described in sections 203(a)(1) and 204(a)(1) and paragraphs (1) and (2) of section 308(a); or
+
+&emsp;&emsp;(C) a Tribal government, in using funds pursuant to section 202(b)(7)(D).
+
+&emsp;(2)
+
+Methods described.—The contracting methods referred to in paragraph (1) shall include, at a minimum—
+
+&emsp;&emsp;(A) project bundling;
+
+&emsp;&emsp;(B) bridge bundling;
+
+&emsp;&emsp;(C) design-build contracting;
+
+&emsp;&emsp;(D) 2-phase contracting;
+
+&emsp;&emsp;(E) long-term concession agreements; and
+
+&emsp;&emsp;(F) any method tested, or that could be tested, under an experimental program relating to contracting methods carried out by the Secretary.
+
+&emsp;(3)
+
+Effect.—Nothing in this subsection—
+
+&emsp;&emsp;(A) affects the application of the Federal share for the project carried out with a contracting method under this subsection; or
+
+&emsp;&emsp;(B) modifies the point of obligation of Federal salaries and expenses.
+
+(Added Pub. L. 112–141, div. A, title I, §1119(a), July 6, 2012, 126 Stat. 473; amended Pub. L. 114–94, div. A, title I, §§1117(a), 1120, Dec. 4, 2015, 129 Stat. 1356, 1358; Pub. L. 117–58, div. A, title I, §§11113(a), 11305(a), 11525(l), Nov. 15, 2021, 135 Stat. 479, 531, 607.)
 
 #### <b>Editorial Notes</b>
 
@@ -196,7 +234,7 @@ Credit.—The funds described in paragraph (1) shall be credited back to the loa
 
 The date of enactment of this section and the date of enactment of this paragraph, referred to in subsec. (b)(4)(A), (5), is the date of enactment of Pub. L. 112–141, which was approved July 6, 2012.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(6)(A)(ii), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 46 (§5301 et seq.) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(6)(A)(ii), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 #### Prior Provisions
 
@@ -204,13 +242,25 @@ A prior section 201, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 906; Pub. L. 97�
 
 #### Amendments
 
+<b>2021</b>—Subsec. (b)(7)(B). Pub. L. 117–58, §11113(a)(1), substituted "be up to 100 percent" for "determined in accordance with section 120".
+
+Subsec. (c)(6)(A)(ii). Pub. L. 117–58, §11525(l), substituted "(25 U.S.C. 5301 et seq.)" for "(25 U.S.C. 450 et seq.)".
+
+Subsec. (c)(8)(A). Pub. L. 117–58, §11113(a)(2), substituted "20 percent" for "5 percent".
+
+Subsec. (f). Pub. L. 117–58, §11305(a), added subsec. (f).
+
 <b>2015</b>—Subsec. (c)(6)(A). Pub. L. 114–94, §1120(1), inserted cl. (i) designation and heading, substituted period for "in accordance with the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), including—", added cl. (ii) and introductory provisions of cl. (iii), redesignated former cls. (i) and (ii). as subcls. (I) and (II) of cl. (iii), respectively, and realigned margins.
 
 Subsec. (c)(6)(C). Pub. L. 114–94, §1117(a), added subpar. (C).
 
-Subsec. (c)(7), (8). Pub. L. 114–94, §1120(2), added pars. (7) and (8) and struck out former par. (7). Prior to amendment, text of par. (7) read as follows: "To implement the activities described in this subsection, including direct support of transportation planning activities among Federal land management agencies, the Secretary may use not more than 5 percent for each fiscal year of the funds authorized for programs under sections 203 and 204."
+Subsec. (c)(7), (8). Pub. L. 114–94, §1120(2), added pars. (7) and (8) and struck out former par. (7). Prior to amendment, text of par. (7) read as follows: "To implement the activities described in this subsection, including direct support of transportation planning activities among Federal land management agencies, the Secretary may use not more than 5 percent for each fiscalyear of the funds authorized for programs under sections 203 and 204."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as a note under section 101 of this title.
 
 #### Effective Date of 2015 Amendment
 
@@ -220,9 +270,23 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 
 Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 
+#### Use of Alternative Contracting Methods
+
+Pub. L. 117–58, div. A, title I, §11305(c), Nov. 15, 2021, 135 Stat. 532, provided that: "In carrying out an alternative contracting method under section 201(f) or 308(a)(4) of title 23, United States Code, the Secretary \[of Transportation\] shall—
+
+&emsp;"(1) in consultation with the applicable Federal land management agencies, establish clear procedures that are—
+
+&emsp;&emsp;"(A) applicable to the alternative contracting method; and
+
+&emsp;&emsp;"(B) to the maximum extent practicable, consistent with the requirements applicable to Federal procurement transactions;
+
+&emsp;"(2) solicit input on the use of the alternative contracting method from the affected industry prior to using the method; and
+
+&emsp;"(3) analyze and prepare an evaluation of the use of the alternative contracting method."
+
 #### Nationally Significant Federal Lands and Tribal Projects Program
 
-Pub. L. 114–94, div. A, title I, §1123, Dec. 4, 2015, 129 Stat. 1370, provided that:
+Pub. L. 114–94, div. A, title I, §1123, Dec. 4, 2015, 129 Stat. 1370, as amended by Pub. L. 117–58, div. A, title I, §11127, Nov. 15, 2021, 135 Stat. 507, provided that:
 
 "(a)
 
@@ -254,7 +318,7 @@ Eligible Projects.—An eligible project under the program shall be a single con
 
 &emsp;&emsp;"(C) a determination that the project is categorically excluded; and
 
-&emsp;"(3) having an estimated cost, based on the results of preliminary engineering, equal to or exceeding $25,000,000, with priority consideration given to projects with an estimated cost equal to or exceeding $50,000,000.
+&emsp;"(3) having an estimated cost, based on the results of preliminary engineering, equal to or exceeding $12,500,000.
 
 "(d)
 
@@ -296,19 +360,43 @@ Selection Criteria.—In selecting a project to receive funds under the program,
 
 "(g)
 
-Federal Share.—
+Cost Share.—
 
 &emsp;"(1)
 
-In general.—The Federal share of the cost of a project shall be up to 90 percent.
+Federal share.—
+
+&emsp;&emsp;"(A)
+
+In general.—Except as provided in subparagraph (B), the Federal share of the cost of a project shall be up to 90 percent.
+
+&emsp;&emsp;"(B)
+
+Tribal projects.—In the case of a project on a tribal transportation facility (as defined in section 101(a) of title 23, United States Code), the Federal share of the cost of the project shall be 100 percent.
 
 &emsp;"(2)
 
-Non-federal share.—Notwithstanding any other provision of law, any Federal funds other than those made available under title 23 or title 49, United States Code, may be used to pay the non-Federal share of the cost of a project carried out under this section.
+Non-federal share.—Notwithstanding any other provision of law, any Federal funds may be used to pay the non-Federal share of the cost of a project carried out under this section.
 
 "(h)
 
-Authorization of Appropriations.—There is authorized to be appropriated to carry out this section $100,000,000 for each of fiscal years 2016 through 2020. Such sums shall remain available for a period of 3 fiscal years following the fiscal year for which the amounts are appropriated."
+Use of Funds.—
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+&emsp;"(1)
+
+In general.—For each fiscal year, of the amounts made available to carry out this section—
+
+&emsp;&emsp;"(A) 50 percent shall be used for eligible projects on Federal lands transportation facilities and Federal lands access transportation facilities (as those terms are defined in section 101(a) of title 23, United States Code); and
+
+&emsp;&emsp;"(B) 50 percent shall be used for eligible projects on tribal transportation facilities (as defined in section 101(a) of title 23, United States Code).
+
+&emsp;"(2)
+
+Requirement.—Not less than 1 eligible project carried out using the amount described in paragraph (1)(A) shall be in a unit of the National Park System with not less than 3,000,000 annual visitors.
+
+&emsp;"(3)
+
+Availability.—Amounts made available to carry out this section shall remain available for a period of 3 fiscal years following the fiscal year for which the amounts are appropriated."
+
+<i><sup>1</sup></i><i> So in original.</i>
 

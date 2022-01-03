@@ -96,7 +96,7 @@ The Secretary of Housing and Urban Development shall establish and carry out a r
 
 #### (d) Application
 
-In order to be eligible to receive a grant under subsection (a), an organization shall submit anapplication to the Secretary at such time, in such manner, and containing such information as the Secretary may require. The application shall include, at a minimum—
+In order to be eligible to receive a grant under subsection (a), an organization shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require. The application shall include, at a minimum—
 
 &emsp;(1) a description of the target population and geographic area to be served;
 
@@ -218,6 +218,8 @@ For any fiscal year, in addition to funds awarded under part B, funds under this
 
 (Pub. L. 100–77, title IV, §491, as added Pub. L. 102–550, title XIV, §1408, Oct. 28, 1992, 106 Stat. 4035; amended Pub. L. 104–330, title V, §506(a)(10), Oct. 26, 1996, 110 Stat. 4045; Pub. L. 111–22, div. B, title IV, §1401(2), May 20, 2009, 123 Stat. 1696.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (c)(2), was in the original "this Act", meaning Pub. L. 100–77, July 22, 1987, 101 Stat. 482, known as the McKinney-Vento Homeless Assistance Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
@@ -248,7 +250,7 @@ Subsec. (d)(7), (8). Pub. L. 111–22, §1401(2)(F)(i), (ii)(II), (iii), added p
 
 Subsecs. (f), (g). Pub. L. 111–22, §1401(2)(G), added subsecs. (f) and (g) and struck out former subsecs. (f) and (g) which related to the Federal share of the costs of providing assistance and participation of homeless individuals, respectively.
 
-Subsec. (h)(1). Pub. L. 111–22, §1401(2)(H)(i)–(iii), substituted "Not later than 18 months after funding is first made available pursuant to the amendments made bytitle IV of the Homeless Emergency Assistance and Rapid Transition to Housing Act of 2009, the" for "The" in introductory provisions, "meeting the goals described in subsection (a)" for "providing housing and other assistance to homeless persons" in subpar. (A), and "meet the goals described in subsection (a) in rural areas" for "address homelessness in rural areas" in subpar. (B).
+Subsec. (h)(1). Pub. L. 111–22, §1401(2)(H)(i)–(iii), substituted "Not later than 18 months after funding is first made available pursuant to the amendments made by title IV of the Homeless Emergency Assistance and Rapid Transition to Housing Act of 2009, the" for "The" in introductory provisions, "meeting the goals described in subsection (a)" for "providing housing and other assistance to homeless persons" in subpar. (A), and "meet the goals described in subsection (a) in rural areas" for "address homelessness in rural areas" in subpar. (B).
 
 Subsec. (h)(2). Pub. L. 111–22, §1401(2)(H)(iv), substituted "Not later than 24 months after funding is first made available pursuant to the amendment made by title IV of the Homeless Emergency Assistance and Rapid Transition to Housing Act of 2009, the" for "The", struck out ", not later than 18 months after the date on which the Secretary first makes grants under the program," after "Congress", and substituted "meet the goals described in subsection (a)" for "prevent and respond to homelessness".
 
@@ -265,6 +267,8 @@ Subsec. (l)(1). Pub. L. 111–22, §1401(2)(J)(ii), added par. (1) and struck ou
 Subsec. (m). Pub. L. 111–22, §1401(2)(K), added subsec. (m).
 
 <b>1996</b>—Subsec. (e). Pub. L. 104–330 struck out ", Indian tribes (as such term is defined in section 5302(a) of this title)," after "nonprofit entities".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

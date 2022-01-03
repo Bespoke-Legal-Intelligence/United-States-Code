@@ -24,7 +24,7 @@ The Director of the Office of Secondary Market Oversight shall, by regulation, e
 
 &emsp;In establishing the risk-based capital test under subsection (a)—
 
-&emsp;&emsp;(A) the Director shall take into account appropriate distinctions based on varioustypes of agricultural mortgage products, varying terms of Treasury obligations, and any other factors the Director considers appropriate;
+&emsp;&emsp;(A) the Director shall take into account appropriate distinctions based on various types of agricultural mortgage products, varying terms of Treasury obligations, and any other factors the Director considers appropriate;
 
 &emsp;&emsp;(B) the Director shall conform loan data used in determining credit risk to the minimum geographic and commodity diversification standards applicable to pools of qualified loans eligible for guarantee;
 

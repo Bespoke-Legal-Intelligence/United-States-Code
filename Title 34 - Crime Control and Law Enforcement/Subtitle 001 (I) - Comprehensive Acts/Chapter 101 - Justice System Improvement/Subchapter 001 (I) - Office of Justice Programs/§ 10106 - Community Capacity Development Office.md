@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;There is established within the Office a Community Capacity Development Office, headed by a Director appointed by the Attorney General. In carrying out the functions of the Office, the Director shall be subject to the authority, direction, and control of the Attorney General. Such authority, direction, and control may be delegated only to the Assistant Attorney General, without redelegation.
+&emsp;There is established within the Office a Community Capacity Development Office, headedby a Director appointed by the Attorney General. In carrying out the functions of the Office, the Director shall be subject to the authority, direction, and control of the Attorney General. Such authority, direction, and control may be delegated only to the Assistant Attorney General, without redelegation.
 
 #### (2) Purpose
 

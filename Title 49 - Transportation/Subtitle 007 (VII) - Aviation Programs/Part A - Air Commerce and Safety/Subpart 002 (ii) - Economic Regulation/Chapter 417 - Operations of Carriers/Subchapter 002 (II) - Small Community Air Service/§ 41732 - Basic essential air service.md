@@ -14,7 +14,7 @@ Minimum Requirements.—Basic essential air service shall include at least the f
 
 &emsp;(1)(A) for a place not in Alaska, 2 daily round trips 6 days a week, with not more than one intermediate stop on each flight; or
 
-&emsp;(B) for a place in Alaska, a level of service at least equal to that provided in 1976 or 2 round trips a week, whichever is greater, except that the Secretary of Transportation and the appropriate State authority of Alaska may agreeto a different level of service after consulting with the affected community.
+&emsp;(B) for a place in Alaska, a level of service at least equal to that provided in 1976 or 2 round trips a week, whichever is greater, except that the Secretary of Transportation and the appropriate State authority of Alaska may agree to a different level of service after consulting with the affected community.
 
 &emsp;(2) flights at reasonable times considering the needs of passengers with connecting flights at the airport and at prices that are not excessive compared to the generally prevailing prices of other air carriers for like service between similar places.
 
@@ -63,6 +63,8 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §419(k)(1); added Oct. 24, 1978,
 In subsection (a), before clause (1), the words "provided under section 41733 of this title" are added for clarity. In clause (2), the words "from an eligible place" are added for clarity.
 
 In subsection (b), before clause (1), the words "Basic essential air service" are substituted for "Such transportation" for clarity and consistency in the revised title. In clause (1)(B), the word "1976" is substituted for "calendar year 1976" to eliminate unnecessary words. The words "appropriate State authority of Alaska" are substituted for "State agency of the State of Alaska" for clarity and consistency with the source provisions restated in section 41734(a) of the revised title. The words "agree to a different level of service" are substituted for "otherwise specified under an agreement" for clarity. In clause (2), the word "prices" is substituted for "rates, fares, and charges" and "fares" because of the definition of "price" in section 40102(a) of the revised title. In clause (3), before subclause (A), the word "boardings" is substituted for "enplanements" for clarity and consistency in the revised title. The words "from 1976-1986" are substituted for "beginning after December 31, 1975, and ending on or before December 31, 1986" to eliminate unnecessary words. In subclause (B), the words "affected community" are substituted for "community concerned" for consistency with the source provisions restated in clause (1)(B) of this section. In clause (5), the words "for at least 60 consecutive operating days" are substituted for "on each of 60 consecutive operating days" for clarity.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

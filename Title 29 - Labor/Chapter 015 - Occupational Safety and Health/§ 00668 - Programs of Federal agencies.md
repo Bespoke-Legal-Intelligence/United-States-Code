@@ -22,7 +22,7 @@ The Secretary shall report to the President a summary or digest of reports submi
 
 #### (d) Access by Secretary to records and reports required of agencies
 
-The Secretary shall have access to records and reports kept and filed by Federal agencies pursuant to subsections (a)(3) and (5) of this section unless those records and reports are specifically required by Executive order to be kept secret in the interest of the national defense or foreign policy, in which case the Secretary shall have access to such information as will not jeopardize national defense or foreign policy.
+The Secretary shall have access to records and reports kept and filed by Federal agencies pursuant to subsections (a)(3) and (5) of this section unless those records and reports are specifically required by Executive order to be kept secret inthe interest of the national defense or foreign policy, in which case the Secretary shall have access to such information as will not jeopardize national defense or foreign policy.
 
 (Pub. L. 91–596, §19, Dec. 29, 1970, 84 Stat. 1609; Pub. L. 97–375, title I, §110(c), Dec. 21, 1982, 96 Stat. 1821; Pub. L. 105–241, §2(b)(1), Sept. 28, 1998, 112 Stat. 1572.)
 

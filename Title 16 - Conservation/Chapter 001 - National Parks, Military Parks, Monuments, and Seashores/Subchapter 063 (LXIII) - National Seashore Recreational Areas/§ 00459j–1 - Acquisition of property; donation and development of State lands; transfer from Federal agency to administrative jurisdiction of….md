@@ -4,9 +4,13 @@ Within the boundaries of the seashore, the Secretary may acquire lands, waters, 
 
 (Pub. L. 93–626, §2, Jan. 3, 1975, 88 Stat. 2122; Pub. L. 103–437, §6(o), Nov. 2, 1994, 108 Stat. 4586.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–437 substituted "Natural Resources and on Science, Space, and Technology of the House of Representatives and to the Committees on Energy and Natural Resources and on Commerce, Science, and Transportation of the Senate" for "Interior and Insular Affairs of the Congress and to the Committee on Science and Astronautics of the House of Representatives and to the Committee on Aeronautical and Space Sciences of the Senate".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Additions to Seashore
 

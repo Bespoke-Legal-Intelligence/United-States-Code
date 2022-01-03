@@ -80,7 +80,7 @@ Pub. L. 104–106, div. E, title LI, §§5141, 5142, Feb. 10, 1996, 110 Stat. 68
 
 #### Exemption From Requirement for Capital Planning and Investment Control for Information Technology Equipment Included as Integral Part of a Weapon or Weapon System
 
-Pub. L. 114–328, div. A, title VIII, §895, Dec. 23, 2016, 130 Stat. 2326, provided that:
+Pub. L. 114–328, div. A, title VIII, §895, Dec. 23, 2016, 130 Stat. 2326, as amended by Pub. L. 117–81, div. A, title XVII, §1702(l)(9), Dec. 27, 2021, 135 Stat. 2161, provided that:
 
 "(a)
 
@@ -88,5 +88,5 @@ Waiver Authority.—Notwithstanding subsection (c)(2) of section 11103 of title 
 
 "(b)
 
-Milestone Decision Authority Defined.—In this section, the term 'milestone decision authority' has the meaning given the term in section 2366a(d)(7) of title 10, United States Code."
+Milestone Decision Authority Defined.—In this section, the term 'milestone decision authority' has the meaning given the term in section 4251(d)(5) of title 10, United States Code."
 

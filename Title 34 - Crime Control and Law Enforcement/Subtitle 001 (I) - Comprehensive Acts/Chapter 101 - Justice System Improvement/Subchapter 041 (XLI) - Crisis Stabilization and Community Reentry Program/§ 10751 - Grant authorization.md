@@ -8,7 +8,7 @@ The Attorney General may make grants under this subchapter to States, Indian Tri
 
 A grant awarded under this subchapter shall be used to support—
 
-&emsp;(1) programs involving criminal and juvenile justice agencies, mental health agencies, community-based organizations that focus on reentry, and community-based behavioral health providers that improve clinical stabilization during pre-trial detention and incarceration and continuity of care leading to recovery in the community by providing services and supports that may include peer support services,enrollment in healthcare, and introduction to long-acting injectable medications or, as clinically indicated, other medications, by—
+&emsp;(1) programs involving criminal and juvenile justice agencies, mental health agencies, community-based organizations that focus on reentry, and community-based behavioral health providers that improve clinical stabilization during pre-trial detention and incarceration and continuity of care leading to recovery in the community by providing services and supports that may include peer support services, enrollment in healthcare, and introduction to long-acting injectable medications or, as clinically indicated, other medications, by—
 
 &emsp;&emsp;(A) providing training and education for criminal and juvenile justice agencies, mental health agencies, and community-based behavioral health providers on interventions that support—
 
@@ -34,7 +34,7 @@ A grant awarded under this subchapter shall be used to support—
 
 &emsp;&emsp;(D) participating in data collection activities specified by the Attorney General, in consultation with the Secretary of Health and Human Services; and
 
-&emsp;(3) programs that provide training and additional resources to criminal and juvenile justice agencies, mental health agencies, and community-based behavioral health providers on serious mental illness, suicide prevention strategies, recovery engagement strategies, and the special health and social needs of justice-involved individuals who are living with serious mental illness.
+&emsp;(3) programs that provide training and additional resources to criminal and juvenile justice agencies, mental health agencies, and community-based behavioral health providers on serious mental illness, suicide prevention strategies, recovery engagement strategies,and the special health and social needs of justice-involved individuals who are living with serious mental illness.
 
 #### (c) Consultation
 

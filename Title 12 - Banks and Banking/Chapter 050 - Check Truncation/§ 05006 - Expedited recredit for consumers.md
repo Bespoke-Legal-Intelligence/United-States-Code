@@ -84,7 +84,7 @@
 
 #### (B) Recredit pending investigation
 
-&emsp;&emsp;If the bank has not yet determined that the consumer's claim is valid before the end of the 10th business day after the businessday on which the consumer submitted the claim, the bank shall recredit the consumer's account for—
+&emsp;&emsp;If the bank has not yet determined that the consumer's claim is valid before the end of the 10th business day after the business day on which the consumer submitted the claim, the bank shall recredit the consumer's account for—
 
 &emsp;&emsp;&emsp;(i) the lesser of the amount of the substitute check that was charged against the consumer account, or $2,500, together with interest if the account is an interest-bearing account, no later than the end of such 10th business day; and
 
@@ -118,7 +118,7 @@
 
 #### (3) Overdraft fees
 
-&emsp;No bank that, in accordance with paragraph (2), delays the availability of a recredit under subsection (c) to any consumer account may impose any overdraft fees with respect to drafts drawn by the consumer on such recredited amount before the end of the 5-day period beginning on the date notice of the delay in the availability of such amount is sent by the bank to the consumer.
+&emsp;No bank that, in accordance with paragraph (2), delays the availability of a recredit undersubsection (c) to any consumer account may impose any overdraft fees with respect to drafts drawn by the consumer on such recredited amount before the end of the 5-day period beginning on the date notice of the delay in the availability of such amount is sent by the bank to the consumer.
 
 #### (e) Reversal of recredit
 
@@ -164,7 +164,7 @@ A bank may reverse a recredit to a consumer account if the bank—
 
 #### (g) Other claims not affected
 
-Providing a recredit in accordance with this section shall not absolve the bank from liabilityfor a claim made under any other law, such as a claim for wrongful dishonor under the Uniform Commercial Code, or from liability for additional damages under section 5005 or 5009 of this title.
+Providing a recredit in accordance with this section shall not absolve the bank from liability for a claim made under any other law, such as a claim for wrongful dishonor under the Uniform Commercial Code, or from liability for additional damages under section 5005 or 5009 of this title.
 
 #### (h) Clarification concerning consumer possession
 

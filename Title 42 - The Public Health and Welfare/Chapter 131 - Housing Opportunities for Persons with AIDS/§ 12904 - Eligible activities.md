@@ -8,7 +8,7 @@ Grants allocated under this chapter shall be available only for approved activit
 
 &emsp;(3) provide rental assistance to such persons under section 12908 of this title;
 
-&emsp;(4) facilitate (through project-based rental assistance or other means) the moderate rehabilitation of single room occupancy dwellings\(SROs) that would be made available only to such persons under section 12909 of this title;
+&emsp;(4) facilitate (through project-based rental assistance or other means) the moderate rehabilitation of single room occupancy dwellings (SROs) that would be made available only to such persons under section 12909 of this title;
 
 &emsp;(5) facilitate the development of community residences for eligible persons under section 12910 of this title;
 
@@ -17,6 +17,8 @@ Grants allocated under this chapter shall be available only for approved activit
 > The Secretary shall establish standards and guidelines for approved activities. The Secretary shall permit grantees to refine and adapt such standards and guidelines for individual projects, where such refinements and adaptations are made necessary by local circumstances.
 
 (Pub. L. 101–625, title VIII, §855, Nov. 28, 1990, 104 Stat. 4378; Pub. L. 102–550, title VI, §606(e), (h)(2), (j)(3), Oct. 28, 1992, 106 Stat. 3808, 3810.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

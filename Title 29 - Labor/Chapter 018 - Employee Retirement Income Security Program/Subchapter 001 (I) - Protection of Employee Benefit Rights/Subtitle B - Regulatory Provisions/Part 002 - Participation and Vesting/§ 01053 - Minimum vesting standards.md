@@ -17,7 +17,7 @@ Each pension plan shall provide that an employee's right to his normal retiremen
 | <b> Years of service:</b> | <b>The nonforfeitable percentage is:</b> |
 | :--- | ---: |
 | 3 | 20&nbsp;&nbsp; |
-| 4 | 40   |
+| 4 | 40&nbsp;&nbsp; |
 | 5 | 60&nbsp;&nbsp; |
 | 6 | 80&nbsp;&nbsp; |
 | 7 or more | 100\. |
@@ -50,7 +50,7 @@ Each pension plan shall provide that an employee's right to his normal retiremen
 
 &emsp;(C) A right to an accrued benefit derived from employer contributions shall not be treated as forfeitable solely because plan amendments may be given retroactive application as provided in section 1082(d)(2) of this title.
 
-&emsp;(D)(i) A right to an accrued benefit derived from employer contributions shall not be treated as forfeitable solely because the plan provides that, in the case of a participant who does not have a nonforfeitable right to at least 50 percent of his accrued benefit derived from employer contributions, such accrued benefit may be forfeited on account of the withdrawal by the participant of any amount attributable to the benefit derived from mandatory contributions (as defined in the last sentence of section 1054(c)(2)(C) of this title) made by such participant.
+&emsp;(D)(i) A right to an accrued benefit derived from employer contributions shall not be treated as forfeitable solely because the plan provides that, in the case of a participant who does not have a nonforfeitable right to at least 50 percent of his accrued benefit derived from employer contributions, such accrued benefit may be forfeited on account of the withdrawal by the participant of any amount attributableto the benefit derived from mandatory contributions (as defined in the last sentence of section 1054(c)(2)(C) of this title) made by such participant.
 
 &emsp;(ii) Clause (i) shall not apply to a plan unless the plan provides that any accrued benefit forfeited under a plan provision described in such clause shall be restored upon repayment by the participant of the full amount of the withdrawal described in such clause plus, in the case of a defined benefit plan, interest. Such interest shall be computed on such amount at the rate determined for purposes of section 1054(c)(2)(C) of this title (if such subsection applies) on the date of such repayment (computed annually from the date of such withdrawal). The plan provision required under this clause may provide that such repayment must be made (I) in the case of a withdrawal on account of separation from service, before the earlier of 5 years after the first date on which the participant is subsequently re-employed by the employer, or the close of the first period of 5 consecutive 1-year breaks in service commencing after the withdrawal; or (II) in the case of any other withdrawal, 5 years after the date of the withdrawal.
 
@@ -102,7 +102,7 @@ Each pension plan shall provide that an employee's right to his normal retiremen
 
 (B) For purposes of this section, the term "hour of service" has the meaning provided by section 1052(a)(3)(C) of this title.
 
-(C) In the case of any seasonal industry where the customary period of employment is less than 1,000 hours during a calendar year, the term "year of service" shall be such period as determined under regulations of the Secretary.
+(C) In the case of any seasonal industry where the customary period of employment is lessthan 1,000 hours during a calendar year, the term "year of service" shall be such period as determined under regulations of the Secretary.
 
 (D) For purposes of this section, in the case of any maritime industry, 125 days of service shall be treated as 1,000 hours of service. The Secretary may prescribe regulations to carry out the purposes of this subparagraph.
 
@@ -352,7 +352,7 @@ Amendment by Pub. L. 104–188 applicable to plan years beginning on or after th
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 applicable to plan years and limitation years beginning after Dec. 31, 1994,except that employer may elect to treat such amendment as effective on or after Dec. 8, 1994, with provisions relating to reduction of accrued benefits, exception, and timing of plan amendment, see section 767(d) of Pub. L. 103–465, as amended, set out as a note under section 411 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 103–465 applicable to plan years and limitation years beginning after Dec. 31, 1994, except that employer may elect to treat such amendment as effective on or after Dec. 8, 1994, with provisions relating to reduction of accrued benefits, exception, and timing of plan amendment, see section 767(d) of Pub. L. 103–465, as amended, set out as a note under section 411 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1989 Amendment
 

@@ -66,6 +66,8 @@ In subsection (b) the words "and shall have full force and effect as such" are o
 
 In subsection (c) the words "Under the Secretary" are inserted to make the provisions of 5 U.S.C. 413 and 5 U.S.C. 430, the latter of which is here codified, harmonious and to give meaning to each provision.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 8072 was renumbered section 9037 of this title.
@@ -76,11 +78,9 @@ A prior section 8074 was renumbered section 9074 of this title.
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 5132 of this title as this section.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
-
-#### Transfer of Functions
-
-Transfer of functions of bureaus and reorganization, see note set out under section 5111 of this title.
 

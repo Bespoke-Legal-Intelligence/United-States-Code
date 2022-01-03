@@ -16,7 +16,7 @@ Except as authorized under subsection (b), no person shall offer to enter into, 
 
 &emsp;(i) with the assistance of a futures association registered under this chapter, conduct a survey concerning the persons interested in engaging in the business of offering to enter into, entering into, or confirming the execution of, the transactions described in subsection (b)(1); and
 
-&emsp;(ii) transmit a report of the results of the survey to the Committee on Agriculture of theHouse of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
+&emsp;(ii) transmit a report of the results of the survey to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
 
 (B) Notwithstanding any other provision of law, for purposes of completing such report the Commission may direct, by rule, regulation, or order, a futures association registered under this chapter to render such assistance as the Commission shall specify.
 
@@ -40,6 +40,8 @@ This section shall not affect any rights or obligations arising out of any trans
 
 (Sept. 21, 1922, ch. 369, §19, as added Pub. L. 95–405, §23, Sept. 30, 1978, 92 Stat. 876; amended Pub. L. 97–444, title II, §234, Jan. 11, 1983, 96 Stat. 2322; Pub. L. 99–641, title I, §109, Nov. 10, 1986, 100 Stat. 3560.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those appearing in subsec. (b) were formerly contained in section 15a of this title.
@@ -57,6 +59,8 @@ Subsec. (d). Pub. L. 99–641, in amending section generally, added subsec. (d).
 <b>1983</b>—Subsec. (c). Pub. L. 97–444, §234(1), substituted "shall regulate" for "may prohibit or regulate" and authorized Commission prohibition of transactions for delivery of commodities under a standardized contract that was not permitted by the rules, regulations and orders of the Commission in effect on Dec. 9, 1982, where transactions are determined to be contrary to the public interest.
 
 Subsec. (d). Pub. L. 97–444, §234(2), struck out subsec. (d) which provided for regulation of transactions in accordance with applicable provisions of this chapter where Commission determined the transactions under subsecs. (b) and (c) of this section were contracts for future delivery within the meaning of this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1983 Amendment
 

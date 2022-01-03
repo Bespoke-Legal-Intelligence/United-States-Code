@@ -58,7 +58,7 @@ An infant formula, including an infant formula powder, shall be deemed to be adu
 
 &emsp;(v) the retention of all records of the results of regularly scheduled audits conducted pursuant to the requirements prescribed by the Secretary under paragraph (2)(B)(iv), and
 
-&emsp;(vi) the retention of all complaints and the maintenance of files with respect to, and thereview of, complaints concerning infant formulas which may reveal the possible existence of a hazard to health.
+&emsp;(vi) the retention of all complaints and the maintenance of files with respect to, and the review of, complaints concerning infant formulas which may reveal the possible existence of a hazard to health.
 
 (B)(i) Records required under subparagraph (A) with respect to an infant formula shall be retained for at least one year after the expiration of the shelf life of such infant formula. Except as provided in clause (ii), such records shall be made available to the Secretary for review and duplication upon request of the Secretary.
 

@@ -16,6 +16,8 @@ The Administrator shall retire the Space Shuttle orbiters pursuant to a schedule
 
 (Pub. L. 111–267, title VI, §602, Oct. 11, 2010, 124 Stat. 2828.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 101(2)(B), referred to in subsec. (b)(2), is Pub. L. 111–267, title I, §101(2)(B), Oct. 11, 2010, 124 Stat. 2809, which is not classified to the Code.

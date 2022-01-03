@@ -40,7 +40,7 @@ There is authorized to be appropriated to the Secretaries to carry out this sect
 
 &emsp;(3) For activities conducted through the Office of Insular Affairs, not more than $3,000,000 for each of the fiscal years 2006 through 2010.
 
-&emsp;(4) For activities conducted through the Fish and Wildlife Service, not more than$2,000,000 for each of the fiscal years 2006 through 2010.
+&emsp;(4) For activities conducted through the Fish and Wildlife Service, not more than $2,000,000 for each of the fiscal years 2006 through 2010.
 
 &emsp;(5) For activities conducted through the United States Geological Survey, Biological Resources, not more than $1,500,000 for each of the fiscal years 2006 through 2010.
 
@@ -49,6 +49,8 @@ There is authorized to be appropriated to the Secretaries to carry out this sect
 There is authorized to be appropriated to the Secretary of Agriculture and the Secretary of the Interior such amounts as may be required to carry out subsection (b)(10).
 
 (Pub. L. 108–384, §4, Oct. 30, 2004, 118 Stat. 2222.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Control and Eradication of Brown Tree Snakes
 
@@ -62,7 +64,7 @@ In General.—The Secretary of Agriculture shall take such action as may be nece
 
 "(b)
 
-Introduction Into Hawaii.—The Secretary shall initiate a program to prevent the introduction of the brown tree snake into Hawaii from Guam. In carrying out this section, the Secretary shall consider the use of sniffer or tracking dogs, snake traps, and other preventative processes or devices at aircraft and vessel loading facilities on Guam, Hawaii, or intermediate sites serving as transportation points that could result in the introduction of brown tree snakes into Hawaii.
+Introduction Into Hawaii.—The Secretary shall initiate a program to prevent the introduction of thebrown tree snake into Hawaii from Guam. In carrying out this section, the Secretary shall consider the use of sniffer or tracking dogs, snake traps, and other preventative processes or devices at aircraft and vessel loading facilities on Guam, Hawaii, or intermediate sites serving as transportation points that could result in the introduction of brown tree snakes into Hawaii.
 
 "(c)
 

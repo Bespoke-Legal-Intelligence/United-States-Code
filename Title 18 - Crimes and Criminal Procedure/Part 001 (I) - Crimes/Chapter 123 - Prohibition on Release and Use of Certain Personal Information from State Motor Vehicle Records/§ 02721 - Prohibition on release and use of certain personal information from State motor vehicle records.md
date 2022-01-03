@@ -22,7 +22,7 @@ Permissible Uses.—Personal information referred to in subsection (a) shall be 
 
 &emsp;&emsp;(B) if such information as so submitted is not correct or is no longer correct, to obtain the correct information, but only for the purposes of preventing fraud by, pursuing legal remedies against, or recovering on a debt or security interest against, the individual.
 
-&emsp;(4) For use in connection with any civil, criminal, administrative, or arbitral proceeding in any Federal, State, or local court or agency or before any self-regulatory body,including the service of process, investigation in anticipation of litigation, and the execution or enforcement of judgments and orders, or pursuant to an order of a Federal, State, or local court.
+&emsp;(4) For use in connection with any civil, criminal, administrative, or arbitral proceeding in any Federal, State, or local court or agency or before any self-regulatory body, including the service of process, investigation in anticipation of litigation, and the execution or enforcement of judgments and orders, or pursuant to an order of a Federal, State, or local court.
 
 &emsp;(5) For use in research activities, and for use in producing statistical reports, so long as the personal information is not published, redisclosed, or used to contact individuals.
 
@@ -50,7 +50,7 @@ Resale or Redisclosure.—An authorized recipient of personal information (excep
 
 (d)
 
-Waiver Procedures.—A State motor vehicle department may establish and carry out procedures under which the department or its agents, upon receiving a request for personal information that does not fall within one of the exceptions in subsection (b), may mail a copy of the request to the individual about whom the information was requested, informing such individual of the request, together with a statement to the effect that the information will not be released unless the individual waives such individual's right to privacy under this section.
+Waiver Procedures.—A State motor vehicle department may establish and carry out procedures under which the department or its agents, upon receiving a request for personal information that does not fall within one of the exceptions in subsection (b), may mail a copy of the request to the individual about whom the information was requested, informing such individual of the request, together with a statementto the effect that the information will not be released unless the individual waives such individual's right to privacy under this section.
 
 (e)
 
@@ -82,7 +82,7 @@ Subsec. (b)(12). Pub. L. 106–69, §350(d), substituted "if the State has obtai
 
 &emsp;"(A) individuals are provided an opportunity, in a clear and conspicuous manner, to prohibit such uses; and
 
-&emsp;"(B) the information will be used, rented, or sold solely for bulk distribution for surveys, marketing,and solicitations, and that surveys, marketing, and solicitations will not be directed at those individuals who have requested in a timely fashion that they not be directed at them".
+&emsp;"(B) the information will be used, rented, or sold solely for bulk distribution for surveys, marketing, and solicitations, and that surveys, marketing, and solicitations will not be directed at those individuals who have requested in a timely fashion that they not be directed at them".
 
 <b>1996</b>—Subsec. (b). Pub. L. 104–287, §1(1), in introductory provisions, substituted "titles I and IV of the Anti Car Theft Act of 1992, the Automobile Information Disclosure Act (15 U.S.C. 1231 et seq.), the Clean Air Act (42 U.S.C. 7401 et seq.), and chapters 301, 305, and 321–331 of title 49" for "the Automobile Information Disclosure Act, the Motor Vehicle Information and Cost Saving Act, the National Traffic and Motor Vehicle Safety Act of 1966, the Anti-Car Theft Act of 1992, and the Clean Air Act".
 

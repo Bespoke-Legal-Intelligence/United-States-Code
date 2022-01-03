@@ -28,6 +28,8 @@ In subsection (a), the words "under \* \* \* prescribed" are substituted for t
 
 In subsection (b), the words "in rank" and "by that board" are inserted for clarity.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–337 renumbered section 266 of this title as this section.
@@ -35,6 +37,8 @@ In subsection (b), the words "in rank" and "by that board" are inserted for clar
 <b>1981</b>—Subsec. (a). Pub. L. 97–22 substituted "Except as provided in section 612(a)(3) of this title and except for Boards that may be convened to select Reserves for appointment in the Regular Army, Regular Navy, Regular Air Force, or Regular Marine Corps, each board convened for the appointment, promotion, demotion, involuntary release from active duty, discharge, or retirement of Reserves shall include at least one member of the Reserves, with the exact number of Reserves determined by the Secretary concerned in his discretion" for "Except as provided in section 612(a)(3) of this title, each board convened for the appointment, promotion, demotion, involuntary release from active duty, discharge, or retirement of Reserves shall include an appropriate number of Reserves, as prescribed by the Secretary concerned under standards and policies prescribed by the Secretary of Defense".
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted "Except as provided in section 612(a)(3) of this title, each" for "Each".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

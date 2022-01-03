@@ -6,6 +6,8 @@
 
 (Added Pub. L. 103–337, div. A, title XVI, §1662(f)(1), Oct. 5, 1994, 108 Stat. 2994; amended Pub. L. 104–201, div. A, title V, §523, Sept. 23, 1996, 110 Stat. 2517.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in sections 3502 and 8502 of this title, prior to repeal by Pub. L. 103–337, §1662(f)(2).
@@ -13,6 +15,8 @@ Provisions similar to those in this section were contained in sections 3502 and 
 #### Amendments
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–201 inserted "under section 12301(a), 12302, or 12304 of this title" after "called into Federal service".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

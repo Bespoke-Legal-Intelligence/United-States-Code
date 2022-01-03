@@ -30,7 +30,7 @@
 
 #### (1) Suspensions
 
-&emsp;The following provisions of the Agricultural Act of 1949 \[7 U.S.C. 1421 et seq.\] shall not beapplicable to the 1996 through 2002 crops of loan commodities, peanuts, and sugar and shall not be applicable to milk during the period beginning on April 4, 1996, and ending on December 31, 2002:
+&emsp;The following provisions of the Agricultural Act of 1949 \[7 U.S.C. 1421 et seq.\] shall not be applicable to the 1996 through 2002 crops of loan commodities, peanuts, and sugar and shall not be applicable to milk during the period beginning on April 4, 1996, and ending on December 31, 2002:
 
 &emsp;&emsp;(A) Section 101 (7 U.S.C. 1441).
 
@@ -85,6 +85,8 @@
 Section 1340 of this title shall not be applicable to the crops of wheat planted for harvest in the calendar years 1996 through 2002.
 
 (Pub. L. 104–127, title I, §171, Apr. 4, 1996, 110 Stat. 937; Pub. L. 107–171, title I, §1602(d), May 13, 2002, 116 Stat. 213.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

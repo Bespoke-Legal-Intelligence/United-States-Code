@@ -10,7 +10,7 @@ Section 1813, acts Aug. 26, 1954, ch. 937, ch. I, §103, 68 Stat. 833; July 8, 1
 
 Section 1814, acts Aug. 26, 1954, ch. 937, ch. I, §104, 68 Stat. 834; Aug. 14, 1957, Pub. L. 85–141, §2(b), 71 Stat. 356, authorized NATO infrastructure contributions.
 
-Section 1815, acts Aug. 26, 1954, ch. 937, ch. I, §105, 68 Stat. 834; July 8, 1955, ch. 301, §2(d)–(f), 69 Stat. 284; July 18, 1956, ch. 627, §3(b), 70 Stat. 555; Aug. 14, 1957, Pub. L. 85–141, §2(c), 71 Stat. 356; June 30, 1958, Pub. L. 85–477, ch. I, §§102, 103, 72 Stat. 262; July 24, 1959, Pub. L. 86–108, ch. I, §101(b), 73 Stat. 247; May 14, 1960, Pub. L. 86–472, ch. I, §101(b), 74 Stat. 134, prescribed the conditions and eligibility for military assistance. See section 2314 of this title.
+Section 1815, acts Aug. 26, 1954, ch. 937, ch. I, §105, 68 Stat. 834; July 8, 1955, ch. 301, §2(d)–(f), 69 Stat. 284; July 18, 1956, ch. 627, §3(b), 70 Stat. 555; Aug. 14, 1957, Pub. L. 85–141, §2(c), 71 Stat. 356; June 30, 1958, Pub. L. 85–477, ch. I, §§102, 103, 72 Stat. 262; July 24, 1959, Pub. L. 86–108, ch. I, §101(b), 73 Stat. 247; May 14, 1960, Pub. L. 86–472,ch. I, §101(b), 74 Stat. 134, prescribed the conditions and eligibility for military assistance. See section 2314 of this title.
 
 Section 1816, act Aug. 26, 1954, ch. 937, ch. I, §106, 68 Stat. 836, authorized the President to sell military equipment, materials and services and prescribed the manner of payment. See sections 2342 and 2343 of this title.
 

@@ -30,7 +30,7 @@ For purposes of this section—
 
 #### (2) Overlapping jurisdictions
 
-&emsp;For purposes of paragraph (1)(A), if an area is within the jurisdiction of 2 or more governmental units, such area shall be treated as only within the jurisdiction of the unit havingjurisdiction over the smallest geographical area unless such unit agrees to surrender all or part of such jurisdiction for such calendar year to the unit with overlapping jurisdiction which has the next smallest geographical area.
+&emsp;For purposes of paragraph (1)(A), if an area is within the jurisdiction of 2 or more governmental units, such area shall be treated as only within the jurisdiction of the unit having jurisdiction over the smallest geographical area unless such unit agrees to surrender all or part of such jurisdiction for such calendar year to the unit with overlapping jurisdiction which has the next smallest geographical area.
 
 #### (d) State ceiling
 
@@ -124,7 +124,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Except as otherwise provided in paragraph (3), the Governor of any State may proclaim a different formula for allocating the Stateceiling among the governmental units (or other authorities) in such State having authority to issue private activity bonds.
+&emsp;&emsp;Except as otherwise provided in paragraph (3), the Governor of any State may proclaim a different formula for allocating the State ceiling among the governmental units (or other authorities) in such State having authority to issue private activity bonds.
 
 #### (B) Termination of authority
 
@@ -200,11 +200,15 @@ Only for purposes of this section, the term "private activity bond" shall not in
 
 &emsp;(2) any qualified 501(c)(3) bond,
 
-&emsp;(3) any exempt facility bond issued as part of an issue described in paragraph (1), (2), (12), (13), (14), or (15) of section 142(a), and
+&emsp;(3) any exempt facility bond issued as part of an issue described in paragraph (1), (2), (12), (13), (14), or (15) of section 142(a),
 
-&emsp;(4) 75 percent of any exempt facility bond issued as part of an issue described in paragraph (11) of section 142(a) (relating to high-speed intercity rail facilities).
+&emsp;(4) 75 percent of any exempt facility bond issued as part of an issue described in paragraph (11) of section 142(a) (relating to high-speed intercity rail facilities),
 
-> Paragraph (4) shall be applied without regard to "75 percent of" if all of the property to be financed by the net proceeds of the issue is to be owned by a governmental unit (within the meaning of section 142(b)(1)).
+&emsp;(5) 75 percent of any exempt facility bond issued as part of an issue described in paragraph (16) of section 142(a) (relating to qualified broadband projects), and
+
+&emsp;(6) 75 percent of any exempt facility bond issued as part of an issue described in paragraph (17) of section 142(a) (relating to qualified carbon dioxide capture facilities).
+
+> Paragraphs (4) and (5) shall be applied without regard to "75 percent of" if all of the property to be financed by the net proceeds of the issue is to be owned by a governmental unit (within the meaning of section 142(b)(1)).
 
 #### (h) Exception for government-owned solid waste disposal facilities
 
@@ -276,7 +280,7 @@ For purposes of this section, determinations of the population of any State (or 
 
 #### (2) Exception for certain facilities where State will get proportionate share of benefits
 
-&emsp;Paragraph (1) shall not apply to any exempt facility bond described in paragraph (4), (5), (6), or (10) of section 142(a) if the issuer establishes that the State's share of the use of the facility (or its output) will equal or exceed the State's share of the private activity bonds issued to finance the facility.
+&emsp;Paragraph (1) shall not apply to any exempt facility bond described in paragraph (4), (5),\(6), or (10) of section 142(a) if the issuer establishes that the State's share of the use of the facility (or its output) will equal or exceed the State's share of the private activity bonds issued to finance the facility.
 
 #### (3) Treatment of governmental bonds to which volume cap allocated
 
@@ -310,13 +314,21 @@ The volume cap of any issuing authority for any calendar year shall be reduced b
 
 &emsp;(2) the amount of any reduction in such ceiling under section 25(f) applicable to such authority for such year.
 
-(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2630; amended Pub. L. 100–203, title X, §10631(b), Dec. 22, 1987, 101 Stat. 1330–455; Pub. L. 100–647, title I, §1013(a)(9), (10), (28), (40), titleVI, §6180(b)(3), Nov. 10, 1988, 102 Stat. 3538, 3543, 3544, 3728; Pub. L. 101–239, title VII, §7816(s)(2), Dec. 19, 1989, 103 Stat. 2423; Pub. L. 102–486, title XIX, §1921(b)(3), Oct. 24, 1992, 106 Stat. 3028; Pub. L. 103–66, title XIII, §13121(a), Aug. 10, 1993, 107 Stat. 432; Pub. L. 105–277, div. J, title II, §2021(a), Oct. 21, 1998, 112 Stat. 2681–903; Pub. L. 106–554, §1(a)(7) \[title I, §161(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–624; Pub. L. 107–16, title IV, §422(c), June 7, 2001, 115 Stat. 66; Pub. L. 108–357, title VII, §701(c), Oct. 22, 2004, 118 Stat. 1539; Pub. L. 109–59, title XI, §11143(c), Aug. 10, 2005, 119 Stat. 1965; Pub. L. 110–289, div. C, title I, §§3007(a), 3021(a), July 30, 2008, 122 Stat. 2886, 2892; Pub. L. 115–97, title I, §11002(d)(1)(O), Dec. 22, 2017, 131 Stat. 2060.)
+(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2630; amended Pub. L. 100–203, title X, §10631(b), Dec. 22, 1987, 101 Stat. 1330–455; Pub. L. 100–647, title I, §1013(a)(9), (10), (28), (40), title VI, §6180(b)(3), Nov. 10, 1988, 102 Stat. 3538, 3543, 3544, 3728; Pub. L. 101–239, title VII, §7816(s)(2), Dec. 19, 1989, 103 Stat. 2423; Pub. L. 102–486, title XIX, §1921(b)(3), Oct. 24, 1992, 106 Stat. 3028; Pub. L. 103–66, title XIII, §13121(a), Aug. 10, 1993, 107 Stat. 432; Pub. L. 105–277, div. J, title II, §2021(a), Oct. 21, 1998, 112 Stat. 2681–903; Pub. L. 106–554, §1(a)(7) \[title I, §161(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–624; Pub. L. 107–16, title IV, §422(c), June 7, 2001, 115 Stat. 66; Pub. L. 108–357, title VII, §701(c), Oct. 22, 2004, 118 Stat. 1539; Pub. L. 109–59, title XI, §11143(c), Aug. 10, 2005, 119 Stat. 1965; Pub. L. 110–289, div. C, title I, §§3007(a), 3021(a), July 30, 2008, 122 Stat. 2886, 2892; Pub. L. 115–97, title I, §11002(d)(1)(O), Dec. 22, 2017, 131 Stat. 2060; Pub. L. 117–58, div. H, title IV, §§80401(c), 80402(c), Nov. 15, 2021, 135 Stat. 1331, 1334.)
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Subsec. (g). Pub. L. 117–58, §80401(c)(2), substituted "Paragraphs (4) and (5)" for "Paragraph (4)" in concluding provisions.
+
+Subsec. (g)(5). Pub. L. 117–58, §80401(c)(1), added par. (5).
+
+Subsec. (g)(6). Pub. L. 117–58, §80402(c), added par. (6).
 
 <b>2017</b>—Subsec. (d)(2)(B). Pub. L. 115–97 substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
 
@@ -371,6 +383,14 @@ Subsec. (k)(1). Pub. L. 100–647, §1013(a)(10)(A), substituted "paragraphs (2)
 Subsec. (k)(3). Pub. L. 100–647, §1013(a)(10)(B), added par. (3).
 
 <b>1987</b>—Subsec. (f)(5)(A). Pub. L. 100–203 amended subpar. (A) generally, as amended by Pub. L. 100–647, §1013(a)(9), restating it without change. See 1988 Amendment note above.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by section 80401(c) of Pub. L. 117–58 applicable to obligations issued in calendar years beginning after Nov. 15, 2021, see section 80401(d) of Pub. L. 117–58, set out as a note under section 142 of this title.
+
+Amendment by section 80402(c) of Pub. L. 117–58 applicable to obligations issued after Dec. 31, 2021, see section 80402(f) of Pub. L. 117–58, set out as a note under section 45Q of this title.
 
 #### Effective Date of 2017 Amendment
 

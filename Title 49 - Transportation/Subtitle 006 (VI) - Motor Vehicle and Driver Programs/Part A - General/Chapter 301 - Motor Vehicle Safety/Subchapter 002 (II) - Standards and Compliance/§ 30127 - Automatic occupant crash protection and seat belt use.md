@@ -174,6 +174,8 @@ In subsection (g)(2)(C), the words "other Government and State employees" are su
 
 In subsection (h)(2), the words "for both front outboard seating positions" are substituted for "for both the driver and front seat outboard seating positions" for clarity and consistency in this section.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The National Traffic and Motor Vehicle Safety Act of 1966, referred to in subsec. (b)(1), is Pub. L. 89–563, Sept. 9, 1966, 80 Stat. 718, as amended, which was classified generally to chapter 38 (§1381 et seq.) of Title 15, Commerce and Trade, and was substantially repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and reenacted by the first section thereof as this chapter.
@@ -181,6 +183,40 @@ The National Traffic and Motor Vehicle Safety Act of 1966, referred to in subsec
 #### Amendments
 
 <b>1998</b>—Subsec. (g)(1). Pub. L. 105–178 substituted "annually" for "every 6 months" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Limousine Compliance With Federal Safety Standards
+
+Pub. L. 117–58, div. B, title III, §23023, Nov. 15, 2021, 135 Stat. 782, provided that:
+
+"(a)
+
+Limousine Standards.—
+
+&emsp;"(1)
+
+Safety belt and seating system standards for limousines.—Not later than 2 years after the date of enactment of this Act \[Nov. 15, 2021\], the Secretary \[of Transportation\] shall prescribe a final rule that—
+
+&emsp;&emsp;"(A) amends Federal Motor Vehicle Safety Standard Numbers 208, 209, and 210 to require to be installed in limousines on each designated seating position, including on side-facing seats—
+
+&emsp;&emsp;&emsp;"(i) an occupant restraint system consisting of integrated lap-shoulder belts; or
+
+&emsp;&emsp;&emsp;"(ii) an occupant restraint system consisting of a lap belt, if an occupant restraint system described in clause (i) does not meet the need for motor vehicle safety; and
+
+&emsp;&emsp;"(B) amends Federal Motor Vehicle Safety Standard Number 207 to require limousines to meet standards for seats (including side-facing seats), seat attachment assemblies, and seat installation to minimize the possibility of failure by forces acting on the seats, attachment assemblies, and installations as a result of motor vehicle impact.
+
+&emsp;"(2)
+
+Report on retrofit assessment for limousines.—Not later than 2 years after the date of enactment of this Act, the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that assesses the feasibility, benefits, and costs with respect to the application of any requirement established under paragraph (1) to a limousine introduced into interstate commerce before the date on which the requirement takes effect.
+
+"(b)
+
+Modifications of Certain Vehicles.—The final rule prescribed under subsection (a)(1) and any standards prescribed under subsection (b) or (c) of section 23015 shall apply to a person modifying a passenger motor vehicle (as defined in section 32101 of title 49, United States Code) that has already been purchased by the first purchaser (as defined in section 30102(b) of that title) by increasing the wheelbase of the vehicle to make the vehicle a limousine.
+
+"(c)
+
+Application.—The requirements of this section apply notwithstanding section 30112(b)(1) of title 49, United States Code."
 
 #### Improvement of Data Collection on Child Occupants in Vehicle Crashes
 
@@ -428,7 +464,7 @@ Elements for Consideration.—In the rulemaking required by subsection (a), the 
 
 &emsp;"(7) whether to establish booster seat performance and structural integrity requirements to be dynamically tested in 3-point lap and shoulder belts;
 
-&emsp;"(8) whether to apply scaled injury criteria performance levels, including neck injury, developed for Federal Motor Vehicle Safety Standard No. 208 to child restraints and booster seats covered by in Federal Motor Vehicle Safety Standard No. 213; and
+&emsp;"(8) whether to apply scaled injury criteria performance levels, including neck injury, developed for Federal Motor Vehicle Safety Standard No. 208 tochild restraints and booster seats covered by in Federal Motor Vehicle Safety Standard No. 213; and
 
 &emsp;"(9) whether to include child restraint in each vehicle crash tested under the New Car Assessment Program.
 
@@ -450,7 +486,7 @@ Funding.—For each fiscal year, of the funds made available to the Secretary fo
 
 "(g)
 
-Child Restraint Safety Ratings Program.—No later than 12 months after the date of the enactment of this Act \[Nov. 1, 2000\], the Secretary of Transportation shall issue a notice of proposed rulemaking to establish a child restraint safety rating consumer information program to provide practicable, readily understandable, and timely information to consumers for use in making informed decisions in the purchase of child restraints. No later than 24 months after the date of the enactment of this Act the Secretary shall issue a final rule establishing a child restraint safety rating program and providing other consumer information whichthe Secretary determines would be useful \[to\] consumers who purchase child restraint systems.
+Child Restraint Safety Ratings Program.—No later than 12 months after the date of the enactment of this Act \[Nov. 1, 2000\], the Secretary of Transportation shall issue a notice of proposed rulemaking to establish a child restraint safety rating consumer information program to provide practicable, readily understandable, and timely information to consumers for use in making informed decisions in the purchase of child restraints. No later than 24 months after the date of the enactment of this Act the Secretary shall issue a final rule establishing a child restraint safety rating program and providing other consumer information which the Secretary determines would be useful \[to\] consumers who purchase child restraint systems.
 
 "(h)
 

@@ -68,7 +68,7 @@
 
 #### (3) Final determination
 
-&emsp;If, after providing notice and opportunity under paragraph (2), the Secretary finds that the mechanism is not an acceptable alternative mechanism or the State is not implementing such a mechanism, the Secretary shall notify the State that the State is no longer considered to be implementing an acceptable alternative mechanism and that the requirements of section 300gg–41 of this title shall apply to health insurance coverage offered in the individual market in the State, effective as of a date specified in the notice.
+&emsp;If, after providing notice and opportunity under paragraph (2), the Secretary finds that the mechanism is not an acceptable alternative mechanism or the State is not implementing such a mechanism, the Secretary shall notify the State that the State is nolonger considered to be implementing an acceptable alternative mechanism and that the requirements of section 300gg–41 of this title shall apply to health insurance coverage offered in the individual market in the State, effective as of a date specified in the notice.
 
 #### (4) Limitation on secretarial authority
 
@@ -102,6 +102,8 @@
 
 (July 1, 1944, ch. 373, title XXVII, §2744, as added Pub. L. 104–191, title I, §111(a), Aug. 21, 1996, 110 Stat. 1984; amended Pub. L. 104–204, title VI, §605(b)(1), Sept. 26, 1996, 110 Stat. 2942.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 August 21, 1996, referred to in subsec. (b)(1)(B)(ii), was in the original "the date of enactment of this Act", which was translated as meaning the date of enactment of Pub. L. 104–191, which enacted this subchapter, to reflect the probable intent of Congress.
@@ -109,6 +111,8 @@ August 21, 1996, referred to in subsec. (b)(1)(B)(ii), was in the original "the 
 #### Amendments
 
 <b>1996</b>—Subsec. (a)(1). Pub. L. 104–204 made technical amendment to reference in original act which appears in text as reference to section 300gg–62(b) of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

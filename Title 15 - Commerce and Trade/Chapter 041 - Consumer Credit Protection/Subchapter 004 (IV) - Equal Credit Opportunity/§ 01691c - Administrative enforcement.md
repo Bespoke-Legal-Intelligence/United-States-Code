@@ -2,7 +2,7 @@
 
 #### (a) Enforcing agencies
 
-Subject to subtitle B of the Consumer Protection Financial Protection Act of 2010 <sup>1</sup> with <sup>2</sup> therequirements imposed under this subchapter shall be enforced under:
+Subject to subtitle B of the Consumer Protection Financial Protection Act of 2010 <sup>1</sup> with <sup>2</sup> the requirements imposed under this subchapter shall be enforced under:
 
 &emsp;(1) section 8 of the Federal Deposit Insurance Act \[12 U.S.C. 1818\], by the appropriate Federal banking agency, as defined in section 3(q) of the Federal Deposit Insurance Act (12 U.S.C. 1813(q)), with respect to—
 
@@ -32,7 +32,7 @@ Subject to subtitle B of the Consumer Protection Financial Protection Act of 201
 
 #### (b) Violations of subchapter deemed violations of preexisting statutory requirements; additional agency powers
 
-For the purpose of the exercise by any agency referred to in subsection (a) of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this subchapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in subsection (a), each of the agencies referred to in that subsection may exercise for the purpose of enforcing compliance with any requirement imposed under this subchapter, any other authority conferred on it by law. The exercise of the authorities of any of the agencies referred to in subsection (a) for the purpose of enforcing compliance with any requirement imposed under this subchapter shall in no way preclude the exercise of such authorities for the purpose of enforcing compliance with any other provision of law not relating to the prohibition of discrimination on the basis of sex or marital status with respect to any aspect of a credit transaction.
+For the purpose of the exercise by any agency referred to in subsection (a) of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this subchapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in subsection (a), each of the agencies referred to in that subsection may exercise for the purpose of enforcing compliance with any requirement imposed under this subchapter, any other authority conferred on it bylaw. The exercise of the authorities of any of the agencies referred to in subsection (a) for the purpose of enforcing compliance with any requirement imposed under this subchapter shall in no way preclude the exercise of such authorities for the purpose of enforcing compliance with any other provision of law not relating to the prohibition of discrimination on the basis of sex or marital status with respect to any aspect of a credit transaction.
 
 #### (c) Overall enforcement authority of Federal Trade Commission
 
@@ -43,6 +43,8 @@ Except to the extent that enforcement of the requirements imposed under this sub
 The authority of the Bureau to issue regulations under this subchapter does not impair the authority of any other agency designated in this section to make rules respecting its own procedures in enforcing compliance with requirements imposed under this subchapter.
 
 (Pub. L. 90–321, title VII, §704, as added Pub. L. 93–495, title V, §503, Oct. 28, 1974, 88 Stat. 1522; amended Pub. L. 94–239, §4, Mar. 23, 1976, 90 Stat. 253; Pub. L. 98–443, §9(n), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 101–73, title VII, §744(m), Aug. 9, 1989, 103 Stat. 439; Pub. L. 102–242, title II, §212(d), Dec. 19, 1991, 105 Stat. 2300; Pub. L. 102–550, title XVI, §1604(a)(7), Oct. 28, 1992, 106 Stat. 4082; Pub. L. 104–88, title III, §315, Dec. 29, 1995, 109 Stat. 948; Pub. L. 111–203, title X, §1085(4), July 21, 2010, 124 Stat. 2084.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -80,7 +82,7 @@ Subsec. (a)(1). Pub. L. 111–203, §1085(4)(A)(ii), added par. (1) and struck o
 
 &emsp;"(B) member banks of the Federal Reserve System (other than national banks), branches and agencies of foreign banks (other than Federal branches, Federal agencies, and insured State branches of foreign banks), commercial lending companies owned or controlled by foreign banks, and organizations operating under section 25 or 25(a) of the Federal Reserve Act, by the Board; and
 
-&emsp;"(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System) and insured State branches of foreign banks, by the Board of Directors of the Federal Deposit Insurance Corporation;".
+&emsp;"(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the FederalReserve System) and insured State branches of foreign banks, by the Board of Directors of the Federal Deposit Insurance Corporation;".
 
 Subsec. (a)(2) to (9). Pub. L. 111–203, §1085(4)(A)(ii)–(vi), added par. (9), redesignated former pars. (3) to (9) as (2) to (8), respectively, and struck out former par. (2) which read as follows: "Section 8 of the Federal Deposit Insurance Act, by the Director of the Office of Thrift Supervision, in the case of a savings association the deposits of which are insured by the Federal Deposit Insurance Corporation."
 
@@ -107,6 +109,8 @@ Pub. L. 102–242, §212(d)(1), added par. (1) and struck out former par. (1) wh
 <b>1984</b>—Subsec. (a)(5). Pub. L. 98–443 substituted "Secretary of Transportation" for "Civil Aeronautics Board".
 
 <b>1976</b>—Subsec. (c). Pub. L. 94–239 inserted provisions giving the Federal Trade Commission power to enforce any regulation of the Federal Reserve Board promulgated under this subchapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

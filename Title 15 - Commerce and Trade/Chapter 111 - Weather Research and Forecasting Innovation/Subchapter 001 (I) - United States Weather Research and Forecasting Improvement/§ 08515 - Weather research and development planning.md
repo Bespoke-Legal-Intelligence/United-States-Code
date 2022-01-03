@@ -8,7 +8,7 @@ Not later than 1 year after April 18, 2017, and not less frequently than once ea
 
 &emsp;(3) describes how the program will collaborate with stakeholders, including the United States weather industry and academic partners; and
 
-&emsp;(4) identifies, through consultation with the National Science Foundation, the United States weather industry, and academic partners, research necessary to enhance the integration of social science knowledge into weather forecast and warning processes, including to improve the communication of threat information necessary to enable improved severe weather planning and decisionmaking on the part of individuals and communities.
+&emsp;(4) identifies, through consultation with the National Science Foundation, the United States weather industry, and academic partners, research necessary to enhance the integration of social science knowledge intoweather forecast and warning processes, including to improve the communication of threat information necessary to enable improved severe weather planning and decisionmaking on the part of individuals and communities.
 
 (Pub. L. 115–25, title I, §105, Apr. 18, 2017, 131 Stat. 95.)
 

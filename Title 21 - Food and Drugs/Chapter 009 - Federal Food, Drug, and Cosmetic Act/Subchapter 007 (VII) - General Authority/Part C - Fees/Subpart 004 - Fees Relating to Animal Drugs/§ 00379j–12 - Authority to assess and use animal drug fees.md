@@ -172,7 +172,7 @@ Compounded basis.—The adjustment made each fiscal year after fiscal year 2020 
 
 #### (4) Final year adjustment
 
-&emsp;For fiscal year 2023, the Secretary may, in addition to other adjustments under this subsection, further increase the fees under thissection, if such an adjustment is necessary, to provide for up to 3 months of operating reserves of carryover user fees for the process for the review of animal drug applications for the first 3 months of fiscal year 2024. If the Food and Drug Administration has carryover balances for the process for the review of animal drug applications in excess of 3 months of such operating reserves, then this adjustment will not be made. If this adjustment is necessary, then the rationale for the amount of the increase shall be contained in the annual notice setting fees for fiscal year 2023.
+&emsp;For fiscal year 2023, the Secretary may, in addition to other adjustments under this subsection, further increase the fees under this section, if such an adjustment is necessary, to provide for up to 3 months of operating reserves of carryover user fees for the process for the review of animal drug applications for the first 3 months of fiscal year 2024. If the Food and Drug Administration has carryover balances for the process for the review of animal drug applications in excess of 3 months of such operating reserves, then this adjustment will not be made. If this adjustment is necessary, then the rationale for the amount of the increase shall be contained in the annual notice setting fees for fiscal year 2023.
 
 #### (5) Limit
 
@@ -184,7 +184,7 @@ Compounded basis.—The adjustment made each fiscal year after fiscal year 2020 
 
 &emsp;The Secretary shall grant a waiver from or a reduction of one or more fees assessed under subsection (a) where the Secretary finds that—
 
-&emsp;&emsp;(A) the assessment of the fee would present a significant barrier to innovation because of limited resources available to such person or other circumstances;
+&emsp;&emsp;(A) the assessment of the fee would present a significant barrier to innovation becauseof limited resources available to such person or other circumstances;
 
 &emsp;&emsp;(B) the fees to be paid by such person will exceed the anticipated present and future costs incurred by the Secretary in conducting the process for the review of animal drug applications for such person;
 
@@ -238,7 +238,7 @@ An animal drug application or supplemental animal drug application submitted by 
 
 #### (1) Limitation
 
-&emsp;Fees may not be assessed under subsection (a) for a fiscal year beginning after fiscal year2003 unless appropriations for salaries and expenses of the Food and Drug Administration for such fiscal year (excluding the amount of fees appropriated for such fiscal year) are equal to or greater than the amount of appropriations for the salaries and expenses of the Food and Drug Administration for the fiscal year 2003 (excluding the amount of fees appropriated for such fiscal year) multiplied by the adjustment factor applicable to the fiscal year involved.
+&emsp;Fees may not be assessed under subsection (a) for a fiscal year beginning after fiscal year 2003 unless appropriations for salaries and expenses of the Food and Drug Administration for such fiscal year (excluding the amount of fees appropriated for such fiscal year) are equal to or greater than the amount of appropriations for the salaries and expenses of the Food and Drug Administration for the fiscal year 2003 (excluding the amount of fees appropriated for such fiscal year) multiplied by the adjustment factor applicable to the fiscal year involved.
 
 #### (2) Authority
 

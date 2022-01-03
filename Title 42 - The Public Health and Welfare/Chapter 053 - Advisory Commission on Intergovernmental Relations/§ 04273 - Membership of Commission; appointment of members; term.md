@@ -16,7 +16,7 @@ The Commission shall be composed of twenty-six members, as follows:
 
 &emsp;(6) Four appointed by the President from a panel of at least eight mayors submitted jointly by the National League of Cities and the United States Conference of Mayors; and
 
-&emsp;(7) Three appointed by the President from a panel of at least six elected county officers submitted by the National Association of Counties.
+&emsp;(7) Three appointed by the President from a panel of at least six elected county officerssubmitted by the National Association of Counties.
 
 #### (b) Political and geographical composition
 
@@ -27,6 +27,8 @@ The members appointed from private life under paragraph (1) of subsection (a) sh
 The term of office of each member of the Commission shall be two years; members shall be eligible for reappointment; and, except as provided in section 4274(d) of this title, members shall serve until their successors are appointed.
 
 (Pub. L. 86–380, §3, Sept. 24, 1959, 73 Stat. 704; Pub. L. 89–733, §§1, 2, Nov. 2, 1966, 80 Stat. 1162.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

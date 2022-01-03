@@ -16,9 +16,33 @@ Inclusions.—Services authorized under paragraph (1) may include activities aut
 
 Reimbursement.—Reimbursement for services carried out under this subsection (including depreciation on engineering and road-building equipment) shall be credited to the applicable appropriation.
 
+&emsp;(4)
+
+Alternative contracting methods.—
+
+&emsp;&emsp;(A)
+
+In general.—Notwithstanding any other provision of law (including the Federal Acquisition Regulation), in performing services under paragraph (1), the Secretary may use any contracting method available to a State under this title.
+
+&emsp;&emsp;(B)
+
+Methods described.—The contracting methods referred to in subparagraph (A) shall include, at a minimum—
+
+&emsp;&emsp;&emsp;(i) project bundling;
+
+&emsp;&emsp;&emsp;(ii) bridge bundling;
+
+&emsp;&emsp;&emsp;(iii) design-build contracting;
+
+&emsp;&emsp;&emsp;(iv) 2-phase contracting;
+
+&emsp;&emsp;&emsp;(v) long-term concession agreements; and
+
+&emsp;&emsp;&emsp;(vi) any method tested, or that could be tested, under an experimental program relating to contracting methods carried out by the Secretary.
+
 (b) Appropriations for the work of the Federal Highway Administration shall be available for expenses of warehouse maintenance and the procurement, care, and handling of supplies, materials, and equipment for distribution to projects under the supervision of the Federal Highway Administration, or for sale or distribution to other Government agencies, cooperating foreign countries, and State cooperating agencies, and the cost of such supplies and materials or the value of such equipment, including the cost of transportation and handling, may be reimbursed to current applicable appropriations.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 914; Pub. L. 93–87, title I, §152(5), Aug. 13, 1973, 87 Stat. 276; Pub. L. 112–141, div. A, title I, §1521(f), July 6, 2012, 126 Stat. 579.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 914; Pub. L. 93–87, title I, §152(5), Aug. 13, 1973, 87 Stat. 276; Pub. L. 112–141, div. A, title I, §1521(f), July 6, 2012, 126 Stat. 579; Pub. L. 117–58, div. A, title I, §11305(b), Nov. 15, 2021, 135 Stat. 532.)
 
 #### <b>Editorial Notes</b>
 
@@ -28,11 +52,17 @@ Section 214 of the Uniform Relocation Assistance and Real Property Acquisition P
 
 #### Amendments
 
+<b>2021</b>—Subsec. (a)(4). Pub. L. 117–58 added par. (4).
+
 <b>2012</b>—Subsec. (a). Pub. L. 112–141 added subsec. (a) and struck out former subsec. (a) which read as follows: "The Secretary is authorized to perform by contract or otherwise, authorized engineering or other services in connection with the survey, construction, maintenance, or improvement of highways for other Government agencies, cooperating foreign countries, and State cooperating agencies, and reimbursement for such services, which may include depreciation on engineering and roadbuilding equipment used, shall be credited to the appropriation concerned."
 
 <b>1973</b>—Subsec. (b). Pub. L. 93–87 substituted "Federal Highway Administration" for "Bureau of Public Roads" in two places.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as a note under section 101 of this title.
 
 #### Effective Date of 2012 Amendment
 

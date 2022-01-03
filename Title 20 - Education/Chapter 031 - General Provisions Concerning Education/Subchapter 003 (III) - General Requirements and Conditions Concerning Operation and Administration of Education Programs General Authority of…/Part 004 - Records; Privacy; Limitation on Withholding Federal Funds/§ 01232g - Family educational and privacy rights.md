@@ -4,7 +4,7 @@
 
 (1)(A) No funds shall be made available under any applicable program to any educational agency or institution which has a policy of denying, or which effectively prevents, the parents of students who are or have been in attendance at a school of such agency or at such institution, as the case may be, the right to inspect and review the education records of their children. If any material or document in the education record of a student includes information on more than one student, the parents of one of such students shall have the right to inspect and review only such part of such material or document as relates to such student or to be informed of the specific information contained in such part of such material. Each educational agency or institution shall establish appropriate procedures for the granting of a request by parents for access to the education records of their children within a reasonable period of time, but in no case more than forty-five days after the request has been made.
 
-(B) No funds under any applicable program shall be made available to any State educational agency (whether or not that agency is an educational agency or institution under this section) that has a policy of denying, or effectively prevents, the parents of students the right to inspect and review the education records maintained by the State educational agency on their children who are or have been in attendance atany school of an educational agency or institution that is subject to the provisions of this section.
+(B) No funds under any applicable program shall be made available to any State educational agency (whether or not that agency is an educational agency or institution under this section) that has a policy of denying, or effectively prevents, the parents of students the right to inspect and review the education records maintained by the State educational agency on their children who are or have been in attendance at any school of an educational agency or institution that is subject to the provisions of this section.
 
 (C) The first sentence of subparagraph (A) shall not operate to make available to students in institutions of postsecondary education the following materials:
 
@@ -50,7 +50,7 @@
 
 #### (b) Release of education records; parental consent requirement; exceptions; compliance with judicial orders and subpoenas; audit and evaluation of federally-supported education programs; recordkeeping
 
-(1) No funds shall be made available under any applicable program to any educational agency or institution which has a policy or practice of permitting the release of education records (orpersonally identifiable information contained therein other than directory information, as defined in paragraph (5) of subsection (a)) of students without the written consent of their parents to any individual, agency, or organization, other than to the following—
+(1) No funds shall be made available under any applicable program to any educational agency or institution which has a policy or practice of permitting the release of education records (or personally identifiable information contained therein other than directory information, as defined in paragraph (5) of subsection (a)) of students without the written consent of their parents to any individual, agency, or organization, other than to the following—
 
 &emsp;(A) other school officials, including teachers within the educational institution or local educational agency, who have been determined by such agency or institution to have legitimate educational interests, including the educational interests of the child for whom consent would otherwise be required;
 
@@ -76,7 +76,7 @@
 
 &emsp;(H) parents of a dependent student of such parents, as defined in section 152 of title 26;
 
-&emsp;(I) subject to regulations of the Secretary, in connection with an emergency, appropriate persons if the knowledge of such information is necessary to protect the health or safety of the student or other persons;
+&emsp;(I) subject to regulations of the Secretary, in connection with an emergency, appropriatepersons if the knowledge of such information is necessary to protect the health or safety of the student or other persons;
 
 &emsp;(J)(i) the entity or persons designated in a Federal grand jury subpoena, in which case the court shall order, for good cause shown, the educational agency or institution (and any officer, director, employee, agent, or attorney for such agency or institution) on which the subpoena is served, to not disclose to any person the existence or contents of the subpoena or any information furnished to the grand jury in response to the subpoena; and
 
@@ -102,7 +102,7 @@
 
 (4)(A) Each educational agency or institution shall maintain a record, kept with the education records of each student, which will indicate all individuals (other than those specified in paragraph (1)(A) of this subsection), agencies, or organizations which have requested or obtained access to a student's education records maintained by such educational agency or institution, and which will indicate specifically the legitimate interest that each such person, agency, or organization has in obtaining this information. Such record of access shall be available only to parents, to the school official and his assistants who are responsible for the custody of such records, and to persons or organizations authorized in, and under the conditions of, clauses (A) and (C) of paragraph (1) as a means of auditing the operation of the system.
 
-(B) With respect to this subsection, personal information shall only be transferred to a third party on the condition that such party will not permit any other party to have access to such information without the written consent of the parents of the student. If a third party outside the educational agency or institution permits access to information in violation of paragraph (2)(A), or fails to destroy information in violation of paragraph (1)(F), the educational agency or institution shall be prohibited from permitting access to information from education records to that third party for a period of not less than five years.
+(B) With respect to this subsection, personal information shall only be transferred to a thirdparty on the condition that such party will not permit any other party to have access to such information without the written consent of the parents of the student. If a third party outside the educational agency or institution permits access to information in violation of paragraph (2)(A), or fails to destroy information in violation of paragraph (1)(F), the educational agency or institution shall be prohibited from permitting access to information from education records to that third party for a period of not less than five years.
 
 (5) Nothing in this section shall be construed to prohibit State and local educational officials from having access to student or other records which may be necessary in connection with the audit and evaluation of any federally or State supported education program or in connection with the enforcement of the Federal legal requirements which relate to any such program, subject to the conditions specified in the proviso in paragraph (3).
 
@@ -190,6 +190,8 @@ In general.—An application under paragraph (1) shall certify that there are sp
 
 (Pub. L. 90–247, title IV, §444, formerly §438, as added Pub. L. 93–380, title V, §513(a), Aug. 21, 1974, 88 Stat. 571; amended Pub. L. 93–568, §2(a), Dec. 31, 1974, 88 Stat. 1858; Pub. L. 96–46, §4(c), Aug. 6, 1979, 93 Stat. 342; Pub. L. 101–542, title II, §203, Nov. 8, 1990, 104 Stat. 2385; Pub. L. 102–325, title XV, §1555(a), July 23, 1992, 106 Stat. 840; renumbered §444 and amended Pub. L. 103–382, title II, §§212(b)(1), 249, 261(h), Oct. 20, 1994, 108 Stat. 3913, 3924, 3928; Pub. L. 105–244, title IX, §§951, 952, Oct. 7, 1998, 112 Stat. 1835, 1836; Pub. L. 106–386, div. B, title VI, §1601(d), Oct. 28, 2000, 114 Stat. 1538; Pub. L. 107–56, title V, §507, Oct. 26, 2001, 115 Stat. 367; Pub. L. 107–110, title X, §1062(3), Jan. 8, 2002, 115 Stat. 2088; Pub. L. 111–296, title I, §103(d), Dec. 13, 2010, 124 Stat. 3192; Pub. L. 112–278, §2, Jan. 14, 2013, 126 Stat. 2480.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Richard B. Russell National School Lunch Act, referred to in subsec. (b)(1)(K), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
@@ -212,7 +214,7 @@ A prior section 444 of Pub. L. 90–247 was classified to section 1233c of this 
 
 <b>2013</b>—Subsec. (b)(1)(L). Pub. L. 112–278, §2(1), added subpar. (L).
 
-Subsec. (b)(2)(B). Pub. L. 112–278, §2(2), inserted ", except when a parent is a party to a court proceeding involving child abuse and neglect (as defined in section 3 of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5101 note)) or dependency matters, and the order is issued in the context of that proceeding, additional notice to the parent by the educational agency or institution is not required" after "educational institution or agency".
+Subsec. (b)(2)(B). Pub. L. 112–278, §2(2), inserted ", except when a parent is a party to a court proceeding involving child abuse and neglect (as defined in section 3 of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5101 note)) or dependency matters, andthe order is issued in the context of that proceeding, additional notice to the parent by the educational agency or institution is not required" after "educational institution or agency".
 
 <b>2010</b>—Subsec. (b)(1)(K). Pub. L. 111–296, which directed that par. (1) be amended by adding subpar. (K) "at the end", was executed by adding subpar. (K) after subpar. (J), to reflect the probable intent of Congress.
 
@@ -260,7 +262,7 @@ Subsec. (b)(2)(B). Pub. L. 103–382, §249(2)(B)(ii), inserted "except as provi
 
 Subsec. (b)(3). Pub. L. 103–382, §261(h)(2)(C), substituted "or (C)" for "(C) an administrative head of an education agency or (D)" and "education programs" for "education program".
 
-Subsec. (b)(4). Pub. L. 103–382, §249(2)(C), inserted at end "If a third party outside the educational agency or institution permits access to information in violation of paragraph (2)(A), or fails to destroy information inviolation of paragraph (1)(F), the educational agency or institution shall be prohibited from permitting access to information from education records to that third party for a period of not less than five years."
+Subsec. (b)(4). Pub. L. 103–382, §249(2)(C), inserted at end "If a third party outside the educational agency or institution permits access to information in violation of paragraph (2)(A), or fails to destroy information in violation of paragraph (1)(F), the educational agency or institution shall be prohibited from permitting access to information from education records to that third party for a period of not less than five years."
 
 Subsec. (c). Pub. L. 103–382, §249(3), substituted "Not later than 240 days after October 20, 1994, the Secretary shall adopt appropriate regulations or procedures, or identify existing regulations or procedures, which" for "The Secretary shall adopt appropriate regulations to".
 
@@ -297,6 +299,8 @@ Subsec. (b)(4). Pub. L. 93–568, §2(a)(9), substituted provisions that each ed
 Subsec. (e). Pub. L. 93–568, §2(a)(1)(F), substituted "to any educational agency or institution unless such agency or institution" for "unless the recipient of such funds".
 
 Subsec. (g). Pub. L. 93–568, §2(a)(7), (10)(B), struck out reference to sections 1232c and 1232f of this title and inserted provisions that except for the conduct of hearings, none of the functions of the Secretary under this section shall be carried out in any of the regional offices of such Department.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

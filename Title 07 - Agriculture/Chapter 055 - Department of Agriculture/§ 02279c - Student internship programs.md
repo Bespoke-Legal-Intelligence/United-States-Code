@@ -12,7 +12,7 @@
 
 #### (2) Payment of certain expenses by the Secretary
 
-&emsp;The Secretary of Agriculture (referred to in this section as the "Secretary") may, out of user fee funds or funds appropriated to any agency of the Department, pay for lodging expenses, subsistence expenses, and transportation expenses of a student intern at the agency (including expenses of transportation to and from the student intern's residence at or near the institution of higher education attended by the student intern and the officialduty station at which the student intern is employed).
+&emsp;The Secretary of Agriculture (referred to in this section as the "Secretary") may, out of user fee funds or funds appropriated to any agency of the Department, pay for lodging expenses, subsistence expenses, and transportation expenses of a student intern at the agency (including expenses of transportation to and from the student intern's residence at or near the institution of higher education attended by the student intern and the official duty station at which the student intern is employed).
 
 #### (b) Cooperation with associations of colleges and universities
 
@@ -68,9 +68,13 @@
 
 (Pub. L. 104–127, title IX, §922, Apr. 4, 1996, 110 Stat. 1193; Pub. L. 105–244, title I, §102(a)(1)(A), Oct. 7, 1998, 112 Stat. 1617.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Subsecs. (a)(1)(B), (b)(1). Pub. L. 105–244 substituted "section 1001 of title 20)" for "section 1141 of title 20)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

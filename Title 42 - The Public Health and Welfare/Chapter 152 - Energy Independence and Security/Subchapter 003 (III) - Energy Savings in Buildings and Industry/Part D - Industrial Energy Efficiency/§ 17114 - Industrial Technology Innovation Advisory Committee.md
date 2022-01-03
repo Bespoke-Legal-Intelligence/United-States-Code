@@ -112,7 +112,7 @@ Not later than 180 days after December 27, 2020, the Secretary, in consultation 
 
 #### (1) In general
 
-&emsp;Not later than 2 years after December 27, 2020, and not less frequently than once every 3years thereafter, the Committee shall submit to the Secretary a report on the progress of achieving the purposes of the program.
+&emsp;Not later than 2 years after December 27, 2020, and not less frequently than once every 3 years thereafter, the Committee shall submit to the Secretary a report on the progress of achieving the purposes of the program.
 
 #### (2) Contents
 
@@ -149,6 +149,8 @@ Not later than 60 days after receiving a report from the Committee under subsect
 Except as otherwise provided in this section, the Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the Committee.
 
 (Pub. L. 110–140, title IV, §455, as added Pub. L. 116–260, div. Z, title VI, §6004(a), Dec. 27, 2020, 134 Stat. 2556.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -86,7 +86,7 @@ Subsection (a) shall not apply—
 
 &emsp;&emsp;&emsp;(i) which was received, by the shareholder selling or otherwise disposing of such stock, in pursuance of a plan of reorganization (within the meaning of section 368(a)), or in a distribution or exchange to which section 355 (or so much of section 356 as relates to section 355) applied, and
 
-&emsp;&emsp;&emsp;(ii) with respect to the receipt of which gain or loss to the shareholder was to any extent not recognized by reason of part III, but only to the extent that either the effect of the transaction was substantially the same as the receipt of a stock dividend, or the stock was received in exchange for section 306 stock.
+&emsp;&emsp;&emsp;(ii) with respect to the receipt of which gain or loss to the shareholder was to any extent not recognized by reason of part III,but only to the extent that either the effect of the transaction was substantially the same as the receipt of a stock dividend, or the stock was received in exchange for section 306 stock.
 
 > &emsp;&emsp;For purposes of this section, a receipt of stock to which the foregoing provisions of this subparagraph apply shall be treated as a distribution of stock.
 
@@ -96,7 +96,7 @@ Subsection (a) shall not apply—
 
 #### (2) Exception where no earnings and profits
 
-&emsp;For purposes of this section, the term "section 306 stock" does not include any stock no part of the distribution of which would have been a dividend at the time of the distributionif money had been distributed in lieu of the stock.
+&emsp;For purposes of this section, the term "section 306 stock" does not include any stock no part of the distribution of which would have been a dividend at the time of the distribution if money had been distributed in lieu of the stock.
 
 #### (3) Certain stock acquired in section 351 exchange
 
@@ -142,6 +142,8 @@ If a substantial change is made in the terms and conditions of any stock, then, 
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 90; Pub. L. 94–455, title XIX, §§1901(b)(3)(J), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1793, 1834; Pub. L. 95–600, title VII, §702(a)(1), (2), Nov. 6, 1978, 92 Stat. 2925; Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299; Pub. L. 97–248, title II, §§222(e)(1)(A), (2), 226(b), 227(a), Sept. 3, 1982, 96 Stat. 480, 492; Pub. L. 98–369, div. A, title VII, §712(i)(2), (l)(5)(B), (6), July 18, 1984, 98 Stat. 948, 954; Pub. L. 101–508, title XI, §11801(a)(18), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 108–27, title III, §302(e)(3), May 28, 2003, 117 Stat. 763.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2003</b>—Subsec. (a)(1)(D). Pub. L. 108–27 added subpar. (D).
@@ -174,9 +176,11 @@ Subsec. (b)(4). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate"
 
 Subsec. (f). Pub. L. 94–455, §1901(b)(3)(J), substituted "ordinary income" for "gain from the sale of property which is not a capital asset".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–27 applicable, except as otherwise provided, to taxable years beginning after Dec. 31, 2002, see section 302(f) of Pub. L. 108–27, set outas an Effective and Termination Dates of 2003 Amendment note under section 1 of this title.
+Amendment by Pub. L. 108–27 applicable, except as otherwise provided, to taxable years beginning after Dec. 31, 2002, see section 302(f) of Pub. L. 108–27, set out as an Effective and Termination Dates of 2003 Amendment note under section 1 of this title.
 
 #### Effective Date of 1984 Amendment
 

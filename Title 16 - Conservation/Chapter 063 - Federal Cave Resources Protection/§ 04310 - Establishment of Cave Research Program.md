@@ -14,6 +14,8 @@ The program <sup>1</sup> shall be directed primarily toward lands managed by th
 
 (Pub. L. 101–578, title II, §202, Nov. 15, 1990, 104 Stat. 2859.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This section, referred to in subsecs. (a) and (c), was in the original "this title" meaning title II of Pub. L. 101–578, Nov. 15, 1990, 104 Stat. 2859, which enacted this section and provisions set out as notes below. For complete classification of title II to the Code, see Tables.
@@ -21,6 +23,8 @@ This section, referred to in subsecs. (a) and (c), was in the original "this tit
 #### Codification
 
 Section was not enacted as part of the Federal Cave Resources Protection Act of 1988 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### National Cave and Karst Research Institute
 
@@ -72,7 +76,7 @@ Guidelines.—The Institute shall be operated and managed in accordance with the
 
 "(c)
 
-Contracts and Cooperative Agreements.—The Secretary may enter into a contract or cooperativeagreement with a public or private agency, organization, or institution to carry out this Act.
+Contracts and Cooperative Agreements.—The Secretary may enter into a contract or cooperative agreement with a public or private agency, organization, or institution to carry out this Act.
 
 "(d)
 

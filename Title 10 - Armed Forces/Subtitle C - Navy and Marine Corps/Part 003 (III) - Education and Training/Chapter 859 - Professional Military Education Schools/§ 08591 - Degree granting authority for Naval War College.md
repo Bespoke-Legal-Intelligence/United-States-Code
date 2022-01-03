@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—Under regulations prescribed by the Secretary of the Navy, the President of the Naval War College may, upon the recommendation of the faculty of the Naval WarCollege components, confer appropriate degrees upon graduates who meet the degree requirements.
+Authority.—Under regulations prescribed by the Secretary of the Navy, the President of the Naval War College may, upon the recommendation of the faculty of the Naval War College components, confer appropriate degrees upon graduates who meet the degree requirements.
 
 (b)
 
@@ -26,6 +26,8 @@ Congressional Notification Requirements.—(1) When seeking to establish degree 
 
 (Added Pub. L. 101–510, div. A, title IX, §912(a), Nov. 5, 1990, 104 Stat. 1626, §7101; amended Pub. L. 110–417, \[div. A\], title V, §543(f)(1), Oct. 14, 2008, 122 Stat. 4461; renumbered §8591, Pub. L. 115–232, div. A, title VIII, §807(c)(2), Aug. 13, 2018, 132 Stat. 1836.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7101 of this title as this section.
@@ -44,11 +46,13 @@ Regulations.—The authority provided by subsection (a) shall be exercised under
 
 Naval War College Defined.—In this section, the term 'Naval War College' means the College of Naval Warfare and the College of Naval Command and Staff."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–417 applicable to any degree granting authority established, modified, or redesignated on or after Oct. 14, 2008, for an institution of professional military education referred to in such amendment, see section 543(j) of Pub. L. 110–417, set out as a note under section 2161 of this title.
+Amendment by Pub. L. 110–417 applicable to any degree granting authority established, modified, or redesignated on or after Oct. 14, 2008, for an institution of professional military education referred to in such amendment, see section 543(j) of Pub. L. 110–417, set out as a note under section 2163 of this title.
 

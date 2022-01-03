@@ -2,6 +2,8 @@
 
 Section, Pub. L. 95–621, title V, §503, Nov. 9, 1978, 92 Stat. 3397, related to various determinations to be made by State or Federal agencies for qualifying under certain categories of natural gas.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of Repeal
 
 Repeal effective Jan. 1, 1993, see section 3(b) of Pub. L. 101–60, set out as an Effective Date of 1989 Amendment note under section 3372 of this title.

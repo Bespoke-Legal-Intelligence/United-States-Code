@@ -26,9 +26,11 @@ Purposes Described.—The purposes described in this subsection are veterinary s
 
 &emsp;(3) A public health emergency declared by the Secretary of Health and Human Services under section 319 of the Public Health Service Act (42 U.S.C. 247d).
 
-&emsp;(4) An extraordinary emergency, as determined by the Secretary of Agriculture undersection 10407(b) of the Animal Health Protection Act (7 U.S.C. 8306(b)).
+&emsp;(4) An extraordinary emergency, as determined by the Secretary of Agriculture under section 10407(b) of the Animal Health Protection Act (7 U.S.C. 8306(b)).
 
 (Added Pub. L. 116–92, div. A, title VII, §735(a), Dec. 20, 2019, 133 Stat. 1462.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -26,6 +26,8 @@ Congressional Notification Requirements.—(1) When seeking to establish degree 
 
 (Added Pub. L. 116–92, div. A, title V, §553(a)(1), Dec. 20, 2019, 133 Stat. 1386.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior sections 7422 to 7425 were renumbered sections 8722 to 8725 of this title, respectively.

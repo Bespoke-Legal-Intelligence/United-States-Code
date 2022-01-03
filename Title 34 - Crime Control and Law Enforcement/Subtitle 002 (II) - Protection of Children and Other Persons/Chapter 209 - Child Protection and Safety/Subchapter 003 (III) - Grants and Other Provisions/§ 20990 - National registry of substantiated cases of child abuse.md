@@ -44,7 +44,7 @@ This section shall not be construed to require a State, Indian tribe, or politic
 
 #### (e) Accessibility
 
-Information contained in the national registry shall only be accessible to any Federal, State, Indian tribe, or local government entity, or any agent of such entities, that has a need for such information in order to carry out its responsibilities under law to protect children from child abuse and neglect.
+Information contained in the national registry shall only be accessible to any Federal, State, Indian tribe, or local government entity, or anyagent of such entities, that has a need for such information in order to carry out its responsibilities under law to protect children from child abuse and neglect.
 
 #### (f) Dissemination
 

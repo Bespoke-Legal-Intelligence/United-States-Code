@@ -36,7 +36,7 @@ The following laws shall apply, as prescribed by this chapter, to the legislativ
 
 #### (2) Board report
 
-&emsp;Beginning on December 31, 1996, and every 2 years thereafter, the Board shall report on (A) whether or to what degree the provisions described in paragraph (1) are applicable or inapplicable to the legislative branch, and (B) with respect to provisions inapplicable to the legislative branch, whether such provisions should be made applicable to the legislative branch. The presiding officers of the House of Representatives and the Senate shall cause each such report to be printed in the CongressionalRecord and each such report shall be referred to the committees of the House of Representatives and the Senate with jurisdiction.
+&emsp;Beginning on December 31, 1996, and every 2 years thereafter, the Board shall report on (A) whether or to what degree the provisions described in paragraph (1) are applicable or inapplicable to the legislative branch, and (B) with respect to provisions inapplicable to the legislative branch, whether such provisions should be made applicable to the legislative branch. The presiding officers of the House of Representatives and the Senate shall cause each such report to be printed in the Congressional Record and each such report shall be referred to the committees of the House of Representatives and the Senate with jurisdiction.
 
 #### (3) Reports of congressional committees
 
@@ -74,7 +74,7 @@ This chapter, referred to in subsecs. (a) and (c), was in the original "this Act
 
 The Fair Labor Standards Act of 1938, referred to in subsec. (a)(1), is act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (a)(2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 252, as amended. Title VII of the Act is classified generally to subchapter VI (§2000e et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (a)(2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 252, as amended. Title VII of the Act is classified generally tosubchapter VI (§2000e et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
 The Americans with Disabilities Act of 1990, referred to in subsec. (a)(3), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 

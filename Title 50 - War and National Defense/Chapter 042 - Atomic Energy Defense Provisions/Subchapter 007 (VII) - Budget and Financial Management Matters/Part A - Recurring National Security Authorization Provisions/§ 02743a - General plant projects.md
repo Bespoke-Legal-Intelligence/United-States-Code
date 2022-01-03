@@ -4,9 +4,11 @@ Plant or construction projects for which amounts are made available under this a
 
 (Pub. L. 112–74, div. B, title III, §306, Dec. 23, 2011, 125 Stat. 877.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This Act, referred to in text, is div. B of Pub. L. 112–74, Dec. 23, 2011, 125 Stat. 852, known as the Energy and Water Development and Related Agencies Appropriations Act, 2012. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, is div. B of Pub. L. 112–74, Dec. 23, 2011, 125 Stat. 852, known as the Energyand Water Development and Related Agencies Appropriations Act, 2012. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 

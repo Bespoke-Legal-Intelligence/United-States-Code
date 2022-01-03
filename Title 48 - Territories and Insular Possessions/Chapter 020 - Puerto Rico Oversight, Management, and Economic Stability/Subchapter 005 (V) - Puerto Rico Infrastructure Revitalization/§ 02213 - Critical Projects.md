@@ -48,7 +48,7 @@
 
 #### (C) Implementation and prioritization
 
-&emsp;&emsp;The Revitalization Coordinator shall require Puerto Rico Agencies to implementthe Expedited Permitting Process for Critical Projects. Critical Projects shall be prioritized to the maximum extent possible in each Puerto Rico Agency regardless of any agreements transferring or delegating permitting authority to any other Territorial Instrumentality or municipality.
+&emsp;&emsp;The Revitalization Coordinator shall require Puerto Rico Agencies to implement the Expedited Permitting Process for Critical Projects. Critical Projects shall be prioritized to the maximum extent possible in each Puerto Rico Agency regardless of any agreements transferring or delegating permitting authority to any other Territorial Instrumentality or municipality.
 
 #### (b) Critical Project Report
 
@@ -68,7 +68,7 @@
 
 #### (2) Public involvement
 
-&emsp;Immediately following the completion of the Critical Project Report, the Revitalization Coordinator shall make such Critical Project Report public and allow a period of 30 days for the submission of comments by residents of Puerto Rico specifically on matters relating to the designation of a project as a Critical Project. The Revitalization Coordinator shall respond to the comments within 30 days of closing the coming <sup>2</sup> period and make the responses publicly available.
+&emsp;Immediately following the completion of the Critical Project Report, the Revitalization Coordinator shall make such Critical Project Report public and allow a period of 30 days for the submission of comments by residents of Puerto Rico specifically on matters relating to the designation of a project as a Critical Project. The Revitalization Coordinator shall respond to the comments within 30 days ofclosing the coming <sup>2</sup> period and make the responses publicly available.
 
 #### (3) Submission to Oversight Board
 
@@ -83,6 +83,8 @@ Not later than 30 days after receiving the Critical Project Report, the Oversigh
 &emsp;(2) disapproves the project, the Oversight Board shall submit to the Revitalization Coordinator in writing the reasons for disapproval.
 
 (Pub. L. 114–187, title V, §503, June 30, 2016, 130 Stat. 598.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

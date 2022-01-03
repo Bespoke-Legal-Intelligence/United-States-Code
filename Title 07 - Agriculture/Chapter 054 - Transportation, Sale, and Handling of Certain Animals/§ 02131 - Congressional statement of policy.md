@@ -12,11 +12,15 @@ The Congress finds that animals and activities which are regulated under this ch
 
 (Pub. L. 89–544, §1(b), formerly §1, Aug. 24, 1966, 80 Stat. 350; Pub. L. 91–579, §2, Dec. 24, 1970, 84 Stat. 1560; renumbered and amended Pub. L. 94–279, §2, Apr. 22, 1976, 90 Stat. 417.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Pub. L. 94–279 restated and expanded objectives of this chapter to include regulation of animals and activities in, or substantially affecting, interstate or foreign commerce in order to prevent and eliminate burdens on such commerce and to assure the humane treatment of animals during transportation.
 
 <b>1970</b>—Pub. L. 91–579 restated objectives to include all animals as defined instead of only cats and dogs and expanded coverage to regulate animals intended for use for exhibition purposes or for use as pets.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1985 Amendment
 

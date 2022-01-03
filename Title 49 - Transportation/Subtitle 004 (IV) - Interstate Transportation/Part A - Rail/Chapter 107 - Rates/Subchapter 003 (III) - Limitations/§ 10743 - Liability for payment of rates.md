@@ -8,7 +8,7 @@
 
 (2) When the consignee is liable only for rates billed at the time of delivery under paragraph (1) of this subsection, the shipper or consignor, or, if the property is reconsigned or diverted, the beneficial owner, is liable for those additional rates regardless of the bill of lading or contract under which the property was transported. The beneficial owner is liable for all rates when the property is reconsigned or diverted by an agent but is refused or abandoned at its ultimate destination if the agent gave the rail carrier in the reconsignment or diversion order a notice of agency and the name and address of the beneficial owner. A consignee giving the rail carrier, and a reconsignor or diverter giving a rail carrier, erroneous information about the identity of the beneficial owner of the property is liable for the additional rates.
 
-(b) Liability for payment of rates for transportation for a shipment of property by a shipper or consignor, named in the bill of lading as consignee, is determined under this subsection when the transportation is provided by a rail carrier under this part. When the shipper or consignor gives written notice, before delivery of the property, to the line-haul rail carrier that is to make ultimate delivery—
+(b) Liability for payment of rates for transportation for a shipment of property by a shipper or consignor, named in the bill of lading as consignee, is determined under this subsectionwhen the transportation is provided by a rail carrier under this part. When the shipper or consignor gives written notice, before delivery of the property, to the line-haul rail carrier that is to make ultimate delivery—
 
 &emsp;(1) to deliver the property to another party identified by the shipper or consignor as the beneficial owner of the property; and
 
@@ -22,11 +22,15 @@
 
 (Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 819.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 10744 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
 A prior section 10743, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1391; Pub. L. 99–521, §7(i), Oct. 22, 1986, 100 Stat. 2995, related to payment of rates, prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a). See section 13707 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

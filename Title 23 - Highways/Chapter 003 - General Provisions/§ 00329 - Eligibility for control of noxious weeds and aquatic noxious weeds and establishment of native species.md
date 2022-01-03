@@ -12,7 +12,7 @@ In General.—In accordance with all applicable Federal law (including regulatio
 
 Included Activities.—The establishment and management under subsection (a)(1) and (a)(2) may include—
 
-&emsp;(1) right-of-way surveys to determine management requirements to control Federal or State noxious weeds as defined in the Plant Protection Act (7 U.S.C. 7701 et seq.) or State law, and brush or tree species, whether nativeor nonnative, that may be considered by State or local transportation authorities to be a threat with respect to the safety or maintenance of transportation systems;
+&emsp;(1) right-of-way surveys to determine management requirements to control Federal or State noxious weeds as defined in the Plant Protection Act (7 U.S.C. 7701 et seq.) or State law, and brush or tree species, whether native or nonnative, that may be considered by State or local transportation authorities to be a threat with respect to the safety or maintenance of transportation systems;
 
 &emsp;(2) establishment of plants, whether native or nonnative with a preference for native to the maximum extent possible, for the purposes defined in subsection (a)(1);
 
@@ -40,7 +40,7 @@ Condition for activities conducted in advance of project construction.—An acti
 
 #### References in Text
 
-The Plant Protection Act, referred to in subsec. (b)(1), is title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, as amended, which is classified principally to chapter 104 (§7701 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of Title 7 and Tables.
+The Plant Protection Act, referred to in subsec. (b)(1), is title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, as amended, which is classified principally to chapter 104 (§7701 et seq.) of Title 7, Agriculture. Forcomplete classification of this Act to the Code, see Short Title note set out under section 7701 of Title 7 and Tables.
 
 #### Amendments
 
@@ -51,4 +51,98 @@ The Plant Protection Act, referred to in subsec. (b)(1), is title IV of Pub. L. 
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
+
+#### Invasive Plant Elimination Program
+
+Pub. L. 117–58, div. A, title I, §11522, Nov. 15, 2021, 135 Stat. 604, provided that:
+
+"(a)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Invasive plant.—The term 'invasive plant' means a nonnative plant, tree, grass, or weed species, including, at a minimum, cheatgrass, Ventenata dubia, medusahead, bulbous bluegrass, Japanese brome, rattail fescue, Japanese honeysuckle, phragmites, autumn olive, Bradford pear, wild parsnip, sericea lespedeza, spotted knapweed, garlic mustard, and palmer amaranth.
+
+&emsp;"(2)
+
+Program.—The term 'program' means the grant program established under subsection (b).
+
+&emsp;"(3)
+
+Transportation corridor.—The term 'transportation corridor' means a road, highway, railroad, or other surface transportation route.
+
+"(b)
+
+Establishment.—The Secretary \[of Transportation\] shall carry out a program to provide grants to States to eliminate or control existing invasive plants or prevent introduction of or encroachment by new invasive plants along and in areas adjacent to transportation corridor rights-of-way.
+
+"(c)
+
+Application.—To be eligible to receive a grant under the program, a State shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+
+"(d)
+
+Eligible Activities.—
+
+&emsp;"(1)
+
+In general.—Subject to this subsection, a State that receives a grant under the program may use the grant funds to carry out activities to eliminate or control existing invasive plants or prevent introduction of or encroachment by new invasive plants along and in areas adjacent to transportation corridor rights-of-way.
+
+&emsp;"(2)
+
+Prioritization of projects.—In carrying out the program, the Secretary shall give priority to projects that utilize revegetation with native plants and wildflowers, including those that are pollinator-friendly.
+
+&emsp;"(3)
+
+Prohibition on certain uses of funds.—Amounts provided to a State under the program may not be used for costs relating to mowing a transportation corridor right-of-way or the adjacent area unless—
+
+&emsp;&emsp;"(A) mowing is identified as the best means of treatment according to best management practices; or
+
+&emsp;&emsp;"(B) mowing is used in conjunction with another treatment.
+
+&emsp;"(4)
+
+Limitation.—Not more than 10 percent of the amounts provided to a State under the program may be used for the purchase of equipment.
+
+&emsp;"(5)
+
+Administrative and indirect costs.—Not more than 5 percent of the amounts provided to a State under the program may be used for the administrative and other indirect costs (such as full time employee salaries, rent, insurance, subscriptions, utilities, and office supplies) of carrying out eligible activities.
+
+"(e)
+
+Requirements.—
+
+&emsp;"(1)
+
+Coordination.—In carrying out eligible activities with a grant under the program, a State shall coordinate with—
+
+&emsp;&emsp;"(A) units of local government, political subdivisions of the State, and Tribal authorities that are carrying out eligible activities in the areas to be treated;
+
+&emsp;&emsp;"(B) local regulatory authorities, in the case of a treatment along or adjacent to a railroad right-of-way; and
+
+&emsp;&emsp;"(C) with respect to the most effective roadside control methods, State and Federal land management agencies and any relevant Tribal authorities.
+
+&emsp;"(2)
+
+Annual report.—Not later than 1 year after the date on which a State receives a grant under the program, and annually thereafter, that State shall provide to the Secretary an annual report on the treatments carried out using funds from the grant.
+
+"(f)
+
+Federal Share.—
+
+&emsp;"(1)
+
+In general.—The Federal share of the cost of an eligible activity carried out using funds from a grant under the program shall be—
+
+&emsp;&emsp;"(A) in the case of a project that utilizes revegetation with native plants and wildflowers, including those that are pollinator-friendly, 75 percent; and
+
+&emsp;&emsp;"(B) in the case of any other project not described in subparagraph (A), 50 percent.
+
+&emsp;"(2)
+
+Certain funds counted toward non-federal share.—A State may include amounts expended by the State or a unit of local government in the State to address current invasive plant populations and prevent future infestation along or in areas adjacent to transportation corridor rights-of-way in calculating the non-Federal share required under the program.
+
+"(g)
+
+Funding.—There is authorized to be appropriated to carry out the program $50,000,000 for each of fiscal years 2022 through 2026."
 

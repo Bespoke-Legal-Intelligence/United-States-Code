@@ -10,7 +10,7 @@ Except as authorized under this section, no member bank may extend credit in any
 
 &emsp;(C) the officer has submitted a detailed current financial statement; and
 
-&emsp;(D) it is on condition that it shall become due and payable on demand of the bank at any time when the officer is indebted to any other bank or banks on account of extensions ofcredit of any one of the three categories respectively referred to in paragraphs (2), (3), and (4) in an aggregate amount greater than the amount of credit of the same category that could be extended to him by the bank of which he is an officer.
+&emsp;(D) it is on condition that it shall become due and payable on demand of the bank at any time when the officer is indebted to any other bank or banks on account of extensions of credit of any one of the three categories respectively referred to in paragraphs (2), (3), and (4) in an aggregate amount greater than the amount of credit of the same category that could be extended to him by the bank of which he is an officer.
 
 #### (2) Mortgage loans
 
@@ -44,7 +44,7 @@ Each day that any extension of credit in violation of this section exists is a c
 
 The Board of Governors of the Federal Reserve System may prescribe such rules and regulations, including definitions of terms, as it deems necessary to effectuate the purposes and to prevent evasions of this section.
 
-(Dec. 23, 1913, ch. 6, §22(g), as added June 16, 1933, ch. 89, §12, 48 Stat. 182; amended June 14, 1935, ch. 245, 49 Stat. 375; Aug. 23, 1935, ch. 614, title III, §326(c), 49 Stat. 716; Apr. 25, 1938, ch. 173, 52 Stat. 223; June 20, 1939, ch. 214, §1, 53 Stat. 842; Pub. L. 90–44, §1, July 3, 1967, 81 Stat. 109; Pub. L. 95–630, title I, §110, Nov. 10, 1978, 92 Stat. 3665; Pub. L. 97–320, title IV, §421, Oct. 15, 1982, 96 Stat. 1522; Pub. L. 103–325, title III, §334(a), Sept. 23, 1994, 108 Stat. 2233; Pub. L. 109–351, title VI, §601(a), Oct. 13, 2006, 120 Stat. 1978.)
+(Dec. 23, 1913, ch. 6, §22(g), as added June 16, 1933, ch. 89, §12, 48 Stat. 182; amended June 14, 1935, ch. 245, 49 Stat. 375; Aug. 23, 1935, ch. 614, title III, §326(c), 49 Stat. 716; Apr. 25, 1938, ch. 173, 52 Stat. 223; June 20, 1939, ch. 214, §1, 53 Stat. 842; Pub. L. 90–44, §1, July 3, 1967, 81 Stat. 109; Pub. L. 95–630, title I, §110, Nov. 10, 1978, 92 Stat. 3665;Pub. L. 97–320, title IV, §421, Oct. 15, 1982, 96 Stat. 1522; Pub. L. 103–325, title III, §334(a), Sept. 23, 1994, 108 Stat. 2233; Pub. L. 109–351, title VI, §601(a), Oct. 13, 2006, 120 Stat. 1978.)
 
 #### <b>Editorial Notes</b>
 
@@ -84,7 +84,7 @@ Par. (7). Pub. L. 90–44 designated provisions of fourth sentence as par. (7).
 
 Par. (8). Pub. L. 90–44 designated proviso of sixth sentence as par. (8) and identified the violation as one for purposes of section 1818 of this title.
 
-Par. (9). Pub. L. 90–44 added requirement, designated as par. (9), that member banks report all loans madeunder authority of this section since previous report of condition.
+Par. (9). Pub. L. 90–44 added requirement, designated as par. (9), that member banks report all loans made under authority of this section since previous report of condition.
 
 Par. (10). Pub. L. 90–44 designated provisions of fifth sentence as par. (10) and substituted general authorization for definition of terms for former specific authorization for definition of "executive officer" and for determination what shall be deemed to be a borrowing, indebtedness, loan, or extension of credit.
 

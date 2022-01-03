@@ -2,7 +2,7 @@
 
 Except in time of war or national emergency, not more than ten retired flag officers of the Regular Navy may be on active duty.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 312, §5450; Pub. L. 96–513, title V, §503(21), Dec. 12, 1980, 94 Stat.2912; renumbered §8102, Pub. L. 115–232, div. A, title VIII, §807(b)(1), Aug. 13, 2018, 132 Stat. 1834.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 312, §5450; Pub. L. 96–513, title V, §503(21), Dec. 12, 1980, 94 Stat. 2912; renumbered §8102, Pub. L. 115–232, div. A, title VIII, §807(b)(1), Aug. 13, 2018, 132 Stat. 1834.)
 
 Historical and Revision Notes
 
@@ -22,11 +22,15 @@ In subsection (a) the words "In addition \* \* \* to the number of rear admira
 
 The limitation on reserve flag officers on active duty contained in section 430 of the Officer Personnel Act of 1947 was repealed by section 702(a) of the Reserve Officer Personnel Act of 1954.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 5450 of this title as this section.
 
 <b>1980</b>—Pub. L. 96–513 struck out designation "(a)" before "Except in time of war or national emergency", substituted "flag officers of the Regular Navy" for "officers of the Regular Navy in the grade of rear admiral and above", and struck out subsec. (b) which provided that this section did not apply to fleet admirals or to retired officers ordered to temporary duty to serve on boards convened under chapter 543 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

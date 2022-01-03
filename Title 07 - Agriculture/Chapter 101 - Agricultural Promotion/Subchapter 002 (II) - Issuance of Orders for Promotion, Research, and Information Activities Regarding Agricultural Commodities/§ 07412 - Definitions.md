@@ -106,6 +106,8 @@ In this subchapter (unless the context otherwise requires):
 
 (Pub. L. 104–127, title V, §513, Apr. 4, 1996, 110 Stat. 1033; Pub. L. 113–79, title X, §10004(f), Feb. 7, 2014, 128 Stat. 944.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Par. (1)(E) to (G). Pub. L. 113–79 added subpar. (E) and redesignated former subpars. (E) and (F) as (F) and (G), respectively.

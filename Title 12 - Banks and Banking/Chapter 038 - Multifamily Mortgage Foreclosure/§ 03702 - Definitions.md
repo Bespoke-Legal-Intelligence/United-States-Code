@@ -48,7 +48,7 @@ Section 801 of the Cranston-Gonzalez National Affordable Housing Act, referred t
 
 <b>1992</b>—Par. (2). Pub. L. 102–550 amended par. (2) generally. Prior to amendment, par. (2) read as follows: " 'multifamily mortgage' means a mortgage held by the Secretary pursuant to title II of the National Housing Act or section 312 of the House Act of 1964 covering any property, except a property on which there is located a one- to four-family residence;".
 
-#### <b>Statutory Notes and Related Subsidiaries</b>
+#### <b>Executive Documents</b>
 
 #### Termination of Trust Territory of the Pacific Islands
 

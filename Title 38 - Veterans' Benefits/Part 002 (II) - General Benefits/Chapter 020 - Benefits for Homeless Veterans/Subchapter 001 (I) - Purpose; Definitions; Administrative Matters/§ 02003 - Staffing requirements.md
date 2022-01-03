@@ -24,7 +24,7 @@ VHA Case Managers.—The Secretary shall ensure that the number of case managers
 
 (c)
 
-Memorandum of Understanding on Assistance From Indian Health Service.—The Secretary may enter into a memorandum of understanding with the Secretary of Health and Human Services under which case managers ofthe Indian Health Service may provide case management assistance to veterans who receive housing vouchers under the Tribal Housing and Urban Development-Veterans Affairs Supportive Housing (Tribal HUD-VASH) program of the Department of Housing and Urban Development.
+Memorandum of Understanding on Assistance From Indian Health Service.—The Secretary may enter into a memorandum of understanding with the Secretary of Health and Human Services under which case managers of the Indian Health Service may provide case management assistance to veterans who receive housing vouchers under the Tribal Housing and Urban Development-Veterans Affairs Supportive Housing (Tribal HUD-VASH) program of the Department of Housing and Urban Development.
 
 (Added Pub. L. 107–95, §5(a)(1), Dec. 21, 2001, 115 Stat. 905; amended Pub. L. 116–283, div. H, title XCI, §9103(b), Jan. 1, 2021, 134 Stat. 4781; Pub. L. 116–315, title IV, §4206, Jan. 5, 2021, 134 Stat. 5014.)
 
@@ -38,7 +38,7 @@ Another prior section 2003, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1218, rela
 
 Prior sections 2003A and 2004 were renumbered sections 4103A and 4104 of this title, respectively.
 
-Another prior section 2004, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1219, related to information necessary to determine a veteran's entitlement to compensation and which all Federal departments and agencies were required to make available to State agencies or to the Secretary, prior to repeal by section 1(a) of Pub. L. 87–675.
+Another prior section 2004, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1219, related to information necessary todetermine a veteran's entitlement to compensation and which all Federal departments and agencies were required to make available to State agencies or to the Secretary, prior to repeal by section 1(a) of Pub. L. 87–675.
 
 Prior sections 2004A and 2005 were renumbered sections 4104A and 4105 of this title, respectively.
 

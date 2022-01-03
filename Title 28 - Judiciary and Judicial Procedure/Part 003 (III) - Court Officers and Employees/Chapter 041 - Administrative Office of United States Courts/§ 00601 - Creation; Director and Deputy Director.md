@@ -74,7 +74,7 @@ Effective date.—The procedures prescribed under this subsection shall take eff
 
 #### Reference to Assistant Director Deemed Reference to Deputy Director
 
-Pub. L. 86–370, §5(a)(4), Sept. 23, 1959, 73 Stat. 652, provided that: "Whenever the Assistant Director of the Administrative Office of the United States Courts is referred to in any other law, such reference shall be deemed to be to the Deputy Director of the Administrative Office of the United States Courts."
+Pub. L. 86–370, §5(a)(4), Sept. 23, 1959, 73 Stat. 652, provided that: "Whenever the Assistant Director of the Administrative Office of the United States Courts is referred to in any other law, such reference shall bedeemed to be to the Deputy Director of the Administrative Office of the United States Courts."
 
 #### Continuation of Law Existing on Sept. 1, 1948
 

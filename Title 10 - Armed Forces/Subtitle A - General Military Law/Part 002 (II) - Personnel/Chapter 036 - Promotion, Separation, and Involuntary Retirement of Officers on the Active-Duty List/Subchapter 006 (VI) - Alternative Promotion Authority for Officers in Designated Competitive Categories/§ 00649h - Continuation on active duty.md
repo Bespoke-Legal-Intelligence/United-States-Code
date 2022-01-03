@@ -18,7 +18,7 @@ Identification.—Before convening a selection board pursuant to section 611(b) 
 
 (c)
 
-Recommendation for Continuation.—A selection board may recommend an officer for continuation on active duty pursuant to this section only if the board determines that the officer is qualified for assignment to one or more positions identified pursuant to subsection (b) on the basis of skills, knowledge, and behavior required of an officer to perform successfully in such position or positions.
+Recommendation for Continuation.—A selection board may recommend an officer for continuation on active duty pursuant to this section only if the board determines that the officer is qualified for assignment to one or morepositions identified pursuant to subsection (b) on the basis of skills, knowledge, and behavior required of an officer to perform successfully in such position or positions.
 
 (d)
 
@@ -46,7 +46,7 @@ Effect of Expiration of Continuation.—Each officer continued on active duty pu
 
 &emsp;(1) be discharged upon the expiration of the term of continued service; or
 
-&emsp;(2) if eligible for retirement under another other provision of law, be retired under thatlaw on the first day of the first month following the month in which the officer completes the term of continued service.
+&emsp;(2) if eligible for retirement under another other provision of law, be retired under that law on the first day of the first month following the month in which the officer completes the term of continued service.
 
 (h)
 

@@ -1,5 +1,7 @@
 ### §368. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act June 5, 1920, ch. 235, §1, 41 Stat. 908, which related to compensation of clerks in district land offices, was limited to the appropriation act of which it was a part.

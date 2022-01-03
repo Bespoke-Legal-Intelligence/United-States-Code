@@ -110,9 +110,13 @@ In subsection (a), the word "reasonably" is omitted as surplus. The words "carry
 
 In subsection (b)(3), the word "copy" is substituted for "true copy" to eliminate an unnecessary word. The word "transportation" is substituted for "traffic" for consistency in the revised title.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Subsec. (c). Pub. L. 112–95 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

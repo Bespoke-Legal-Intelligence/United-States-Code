@@ -126,7 +126,7 @@ For purposes of this section the following definitions shall apply:
 
 #### (2) Exception
 
-&emsp;To the extent that non-Federal public entities are prohibited by the law of any State from making any form of contribution described in subparagraph (A) or (B) of paragraph (1), the Secretary shall not consider such form of contribution in evaluating such program.
+&emsp;To the extent that non-Federal public entities are prohibited by the law of any Statefrom making any form of contribution described in subparagraph (A) or (B) of paragraph (1), the Secretary shall not consider such form of contribution in evaluating such program.
 
 #### (h) Regulations
 
@@ -138,9 +138,13 @@ There are authorized to be appropriated to carry out this section $30,000,000 in
 
 (Pub. L. 102–550, title I, §186, Oct. 28, 1992, 106 Stat. 3748.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Housing and Community Development Act of 1992, and not as part of subtitle C (§§441–448) of title IV of Pub. L. 101–625 which comprises this part.
+
+#### <b>Executive Documents</b>
 
 #### Termination of Trust Territory of the Pacific Islands
 

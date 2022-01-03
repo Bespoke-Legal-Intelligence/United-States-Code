@@ -47,12 +47,15 @@
 | [143\.](%C2%A7%2000143%20-%20Wright%20Brothers%20Day.md) | Wright Brothers Day. |
 | [144\.](%C2%A7%2000144%20-%20Patriot%20Day.md) | Patriot Day. |
 | [145\.](%C2%A7%2000145%20-%20Veterans%20Day.md) | Veterans Day. |
+| [146\.](%C2%A7%2000146%20-%20National%20Atomic%20Veterans%20Day.md) | National Atomic Veterans Day. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Pub. L. 117–81, div. A, title X, §1084(b), Dec. 27, 2021, 135 Stat. 1924, added item 146.
 
 <b>2016</b>—Pub. L. 114–240, §2(b), Oct. 7, 2016, 130 Stat. 975, added item 145.
 
@@ -190,7 +193,7 @@ Director.—The Director of the Commission shall—
 
 &emsp;&emsp;"(A) be appointed without regard to the provisions of title 5, United States Code, governing appointments in the competitive service; and
 
-&emsp;&emsp;"(B) be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification and General Schedule pay rates, except that the rate of pay for the Director may not exceed the rate payable for level IV of the Executive Schedule under section 5315 of that title.
+&emsp;&emsp;"(B) be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title5, United States Code, relating to classification and General Schedule pay rates, except that the rate of pay for the Director may not exceed the rate payable for level IV of the Executive Schedule under section 5315 of that title.
 
 &emsp;"(2)
 
@@ -914,7 +917,7 @@ Director.—The Director of the Commission may be appointed without regard to th
 
 &emsp;"(2)
 
-Staff.—The staff of the Commission shall be appointed subject to the provisions of title 5, United States Code, governing appointments in the competitive service, and shall be paid in accordance with theprovisions of chapter 51 and subchapter III of chapter 53 of that title relating to classification and General Schedule pay rates.
+Staff.—The staff of the Commission shall be appointed subject to the provisions of title 5, UnitedStates Code, governing appointments in the competitive service, and shall be paid in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of that title relating to classification and General Schedule pay rates.
 
 #### "SEC. 7. POWERS.
 
@@ -1050,7 +1053,7 @@ Consultation and appointment.—
 
 &emsp;&emsp;"(A)
 
-In general.—The President, Speaker of the House of Representatives, minority leader of the House of Representatives, majority leader of the Senate, and minority leader of the Senate shall consult among themselves before appointing the members of the Commission in order to achieve, to the maximum extent practicable, fair and equitable representation of various points of view with respect to the matters to be studied by the Commission.
+In general.—The President, Speaker of the House of Representatives, minority leader of the House of Representatives, majority leader of the Senate, and minority leader of the Senate shall consult among themselves before appointing the members of the Commission in order to achieve, to the maximum extent practicable, fair and equitablerepresentation of various points of view with respect to the matters to be studied by the Commission.
 
 &emsp;&emsp;"(B)
 
@@ -1198,7 +1201,7 @@ Limitation.—The Chair of the Centennial Commission may not fix the compensatio
 
 "(d)
 
-Detail of Government Employees.—Upon request of the Centennial Commission, the head of any Federal department or agency may detail, on a reimbursable basis, any employee of that department or agency to the Centennial Commission to assist it in carrying out its duties under this Act.
+Detail of Government Employees.—Upon request of the Centennial Commission, the head of anyFederal department or agency may detail, on a reimbursable basis, any employee of that department or agency to the Centennial Commission to assist it in carrying out its duties under this Act.
 
 "(e)
 
@@ -2612,37 +2615,43 @@ Pub. L. 106–173, Feb. 25, 2000, 114 Stat. 14, as amended by Pub. L. 107–20, 
 
 #### <b>Executive Documents</b>
 
-#### Proc. No. 10034. Armed Forces Day
+#### Proc. No. 10210. Armed Forces Day
 
-Proc. No. 10034, May 15, 2020, 85 F.R. 30585, provided:
+Proc. No. 10210, May 14, 2021, 86 F.R. 27017, provided:
 
-In times of war and peace alike, on land, at sea, in the skies, in cyberspace, and beyond the Earth's atmosphere, the men and women of our Nation's Armed Forces serve with honor and distinction and stand ready to selflessly defend our Nation. On Armed Forces Day, we pay tribute to these patriots, whose work enables our country to shine always as a beacon of freedom and hope for the world.
+On Armed Forces Day, we honor and offer our profound appreciation and gratitude to the patriots who are serving in our Nation's Army, Navy, Air Force, Marine Corps, Space Force, and Coast Guard. Their professionalism and unwavering dedication to supporting and defending our Constitution has been vital in allowing our democracy to flourish, safeguarding peace and growing prosperity for our citizens, and giving hope to oppressed peoples or those facing tyranny abroad. Less than one percent of Americans serve on active duty in the Armed Forces. Those who do volunteer to put their lives on the line to protect our country and democracy wherever they are called to serve. Whether they are Active Duty, National Guard, or in the Reserve, they are true American heroes, and we all owe them.
 
-Throughout our Nation's history, our Armed Forces have protected our country, our liberty, and our founding principles. Earlier this month, we marked the 75th anniversary of Victory in Europe Day, when United States and Allied forces liberated Europe and North Africa from tyranny and oppression. The courageous actions of these heroes will stand always as monuments to the very best of our Nation. Today, many of our service members have been called into action on the home front to aid in our fight against a new type of enemy—the coronavirus. Our Guardsmen, engineers, logisticians, and medical service members have provided critical lifesaving treatment, protective equipment, facilities, and other vital services and provisions quickly and efficiently to those in need. In March, I was honored as Commander in Chief to salute those aboard the USNS Comfort as these heroes set sail from the shores of Norfolk, Virginia, to bring aid and comfort to people in need of care in New York, New Jersey, and Connecticut. As they have shown throughout this crisis, working to ease the burdens on healthcare workers and first responders, our Armed Forces can adapt to any challenge and succeed in any mission.
+Our military members do not swear allegiance to an individual, group, or political party. Their oath is to the United States Constitution. By bringing together people from different races, religions, and sexual orientations and melding them into a cohesive fighting force, our military embodies the promise of our democratic experiment. My Administration is determined to foster an environment that empowers our Armed Forces and improves retention and promotion of the best talent, to strengthen military readiness. Any ideology, actions, or influences that seek to undermine this solidarity must be exposed and eliminated.
 
-My Administration will always remain committed to ensuring our Nation has the strongest and most advanced military in the world. We owe it to our warriors to ensure that we provide them with the necessary training and equipment to meet current and future challenges. Since I took office, we have invested a historic $2.2 trillion in the United States military, purchasing the finest American-made planes, missiles, rockets, ships, and other pieces of military equipment. Additionally, last year, I was proud to sign into law legislation that provided a 3.1 percent pay raise for our troops—the largest pay raise for our military men and women in a decade—in recognition of their unparalleled duty, honor, courage, and commitment.
+The unmatched strength of the United States Armed Forces reflects our greatest strength as a people, our diversity. Our military has proven—time and time again—that the insistent pursuit of greater inclusion and equality makes us a more robust, more resilient, and more powerful Nation. As we pay tribute to those who serve, we acknowledge our continuing obligation to ensure that all qualified and willing Americans who wish to serve in the United States Armed Forces are able to do so openly and free from discrimination.
 
-This year, we also celebrate the historic creation of the United States Space Force, the first new military branch since the establishment of the United States Air Force more than 70 years ago. We recognize that to combat the evolving threats of a 21st-century world, we must look to the newest warfighting domain and address malign activities in space. America's leadership in space is unparalleled, and with the addition of the United States Space Force, we are now even better positioned to meet the evolving threats in this emerging frontier of technology, exploration, and discovery. Approximately 16,000 military and civilian personnel have already been assigned to the Space Force, embarking on their mission to organize, train, and equip these new fighters responsible for protecting the United States and allied interests in the vast domain of space.
+My Administration is committed to confronting and driving out sexual assault and harassment, so that all members of the Armed Services feel safe and welcome in the ranks. We will improve retention and promotion of our best talent by using a single standard, one based on excellence.
 
-Today, and every day, we reaffirm our unwavering support for the millions of American patriots who fill the ranks of our Armed Forces. We are eternally grateful for every Soldier, Sailor, Airman, Marine, Coast Guardsman, and member of the Space Force, and we deeply appreciate the sacrifices their families and loved ones make on our behalf. As one Nation, we pledge to always honor this service and this devotion given to our great country.
+The Biden family knows personally that the burden of service does not fall solely on those who wear a uniform. Our military family members also serve our country and make great sacrifices to support their loved ones. They give their best to their service members, and we must give our best to ensuring military families have what they need to thrive. This is a national security imperative that supports military retention and readiness, and my Administration is committed to supporting policies that promote the well-being of our war fighters and their families.
 
-NOW, THEREFORE, I, DONALD J. TRUMP, President of the United States of America, and Commander in Chief of the Armed Forces of the United States, continuing the tradition of my predecessors in office, do hereby proclaim the third Saturday of each May as Armed Forces Day.
+Through the First Lady's work with Joining Forces, the White House has committed to supporting military and veteran families, caregivers, and survivors through economic and entrepreneurship opportunities, support for military child education, and health and well-being resources. Joining Forces will continue to convene and collaborate with Federal agency partners, non-profit organizations, corporate stakeholders, and service providers to develop comprehensive, meaningful, and long-term solutions to address the holistic well-being of military and veteran families, caregivers, and survivors.
 
-I invite the Governors of the States and Territories and other areas subject to the jurisdiction of the United States, to provide for the observance of Armed Forces Day within their jurisdiction each year in an appropriate manner designed to increase public understanding and appreciation of the Armed Forces of the United States. I also invite veterans, civic, and other organizations to join in the observance of Armed Forces Day each year.
+The United States Armed Forces are the greatest fighting force in the history of the world. They defend universal values and advance the cause of freedom around the globe. On this day, we salute and show gratitude for all who serve and commit to ensuring our Armed Forces remain strong, united, and unmatched.
+
+NOW, THEREFORE, I, JOSEPH R. BIDEN JR., President of the United States of America, and Commander in Chief of the Armed Forces of the United States, continuing the precedent of my predecessors in office, do hereby proclaim the third Saturday of each May as Armed Forces Day.
+
+I direct the Secretary of Defense on behalf of the Army, Navy, Air Force, Marine Corps, Space Force, and the Secretary of Homeland Security on behalf of the Coast Guard, to plan for appropriate observances each year, with the Secretary of Defense responsible for soliciting the participation and cooperation of civil authorities and private citizens. I invite the Governors of the States, the Commonwealth of Puerto Rico, and other areas subject to the jurisdiction of the United States, to provide for the observance of Armed Forces Day within their jurisdiction each year in an appropriate manner designed to increase public understanding and appreciation of the Armed Forces of the United States. I also invite veterans, civic leaders, and other organizations to join in the observance of Armed Forces Day each year.
 
 Finally, I call upon all Americans to display the flag of the United States at their homes and businesses on Armed Forces Day, and I urge citizens to learn more about military service by attending and participating in the local observances of the day.
 
-Proclamation 9892 of May 17, 2019, is hereby superseded.
+Proclamation 10034 of May 15, 2020, is hereby superseded.
 
-IN WITNESS WHEREOF, I have hereunto set my hand this fifteenth day of May, in the year of our Lord two thousand twenty, and of the Independence of the United States of America the two hundred and forty-fourth.
+IN WITNESS WHEREOF, I have hereunto set my hand this fourteenth day of May, in the year of our Lord two thousand twenty-one, and of the Independence of the United States of America the two hundred and forty-fifth.
 
-Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior similar proclamations were contained in the following:
 
+Proc. No. 10034, May 15, 2020, 85 F.R. 30585, superseded by Proc. No. 10210, May 14, 2021, 86 F.R. 27017.
+
 Proc. No. 9892, May 17, 2019, 84 F.R. 23701, superseded by Proc. No. 10034, May 15, 2020, 85 F.R. 30586.
 
-Proc. No. 9753, May 18, 2018, 83 F.R. 24215, superseded by Proc. No. 9892, May 17, 2019, 84 F.R. 23702.
+Proc. No. 9753, May 18, 2018, 83 F.R. 24215, superseded by Proc. No. 9892, May 17, 2019, 84 F.R. 23701.
 
 Proc. No. 9615, May 19, 2017, 82 F.R. 23995, superseded by Proc. No. 9753, May 18, 2018, 83 F.R. 24215.
 
@@ -2726,7 +2735,7 @@ With autism spectrum disorders (ASDs) affecting nearly one percent of children i
 
 Men and women on the autism spectrum have thrived and excelled in communities across America and around the world. Yet, despite great progress in understanding ASDs, challenges remain for these individuals and their loved ones. For too long, the needs of people living with autism and their families have gone without adequate support and understanding. While we continue to encourage the development of resources for children on the autism spectrum and provide necessary resources for their families, we must also remember that young people with ASDs become adults with ASDs who deserve our support, our respect, and the opportunity to realize their highest aspirations.
 
-As our understanding of the autism spectrum grows, my Administration remains dedicated to supporting children and adults impacted by autism. Led by the Department of Health and Human Services, we have expanded investments in autism research, public health tracking, early detection, and services—from early intervention for children to improved long-term services and support programs for adults. My Administration maintains a firm commitment to advance autism research and treatment, as well as promote education, employment, and equality for all individuals with autism, from early childhood through employment and community life. We will continue to work with the Congress, experts, and families to improve Federal and State programs that assist individuals with ASDs and their families and to bolster the impact and reach of community support and services. I encourage all Americans to visit www.HHS.gov/autism for more information and resources on ASDs.
+As our understanding of the autism spectrum grows, my Administration remains dedicated to supporting children and adults impacted by autism. Led by the Department of Health and Human Services, we have expanded investments in autism research, public healthtracking, early detection, and services—from early intervention for children to improved long-term services and support programs for adults. My Administration maintains a firm commitment to advance autism research and treatment, as well as promote education, employment, and equality for all individuals with autism, from early childhood through employment and community life. We will continue to work with the Congress, experts, and families to improve Federal and State programs that assist individuals with ASDs and their families and to bolster the impact and reach of community support and services. I encourage all Americans to visit www.HHS.gov/autism for more information and resources on ASDs.
 
 With each breakthrough in research and each innovative treatment, we open endless possibilities for the many American families who have been touched by autism. As we mark World Autism Awareness Day, let us recommit to improving the lives of individuals and families impacted by ASDs and creating a world free from discrimination where all can achieve their fullest potential.
 
@@ -2790,3 +2799,4 @@ Ex. Ord. No. 13072, Feb. 2, 1998, 63 F.R. 6041, provided for formation of the Wh
 - [&sect; 00143 - Wright Brothers Day](%C2%A7%2000143%20-%20Wright%20Brothers%20Day.md)
 - [&sect; 00144 - Patriot Day](%C2%A7%2000144%20-%20Patriot%20Day.md)
 - [&sect; 00145 - Veterans Day](%C2%A7%2000145%20-%20Veterans%20Day.md)
+- [&sect; 00146 - National Atomic Veterans Day](%C2%A7%2000146%20-%20National%20Atomic%20Veterans%20Day.md)

@@ -8,9 +8,13 @@ And the Secretary of the Interior shall make and publish all needful rules and r
 
 (May 25, 1900, ch. 553, §1, 31 Stat. 187; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in text, is act May 25, 1900, section 1 of which is classified to this section. Sections 2 to 4 of the Act were repealed and restated by sections 241 to 244 of the Criminal Code of 1909 (approved Mar. 4, 1909, ch. 321) which were classified to sections 391 to 394 of former Title 18. Such sections were subsequently repealed and reenacted as sections 42 to 44 of Title 18, Crimes and Criminal Procedure. Section 5 of the Act which was classified to section 667e of this title was repealed by Pub. L. 97–79, §9(b)(2), Nov. 16, 1981, 95 Stat. 1079.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 
@@ -56,7 +60,7 @@ Sec. 3. <i>Federal Agency Responsibilities</i>. (a) Each Federal agency taking a
 
 (e) Pursuant to its MOU, each agency shall, to the extent permitted by law and subject to the availability of appropriations and within Administration budgetary limits, and in harmony with agency missions:
 
-(1) support the conservation intent of the migratory bird conventions by integrating bird conservation principles, measures, and practices into agency activities and by avoiding or minimizing, to the extent practicable, adverse impacts on migratory bird resources when conducting agency actions;
+(1) support the conservation intent of the migratory bird conventions by integrating bird conservation principles, measures, and practices into agency activitiesand by avoiding or minimizing, to the extent practicable, adverse impacts on migratory bird resources when conducting agency actions;
 
 (2) restore and enhance the habitat of migratory birds, as practicable;
 

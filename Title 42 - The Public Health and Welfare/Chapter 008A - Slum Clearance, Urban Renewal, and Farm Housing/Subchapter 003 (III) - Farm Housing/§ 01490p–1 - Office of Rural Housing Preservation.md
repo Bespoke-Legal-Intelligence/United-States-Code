@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established within the Farmers Home Administration an Office of Rental Housing Preservation (hereafter in this section referred to as the "Office"). The Office shall be headed by a Director designated by the Secretary of Agriculture.
+There is established within the Farmers Home Administration an Office of Rental Housing Preservation (hereafter in this section referred to as the "Office"). The Office shall be headed bya Director designated by the Secretary of Agriculture.
 
 #### (b) Purposes
 
@@ -17,6 +17,8 @@ The purposes of the Office are:
 &emsp;(4) to monitor compliance of projects prepaid or receiving incentives under the Housing Act of 1949.
 
 (July 15, 1949, ch. 338, title V, §537, as added Pub. L. 102–550, title VII, §712(c), Oct. 28, 1992, 106 Stat. 3841.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

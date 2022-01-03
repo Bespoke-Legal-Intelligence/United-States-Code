@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;It shall be unlawful for a person to violate, attempt to violate, conspire to violate, or cause a violation of this subchapter or of any regulation, order, license, or other authorization issued under this subchapter, including any of the unlawful acts described in paragraph (2).
+&emsp;It shall be unlawful for a person to violate, attempt to violate, conspire to violate, orcause a violation of this subchapter or of any regulation, order, license, or other authorization issued under this subchapter, including any of the unlawful acts described in paragraph (2).
 
 #### (2) Specific unlawful acts
 
@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(D) No person may conspire or act in concert with one or more other persons in any manner or for any purpose to bring about or to do any act that constitutes a violation of this subchapter, the Export Administration Regulations, or any order, license or authorization issued thereunder.
 
-&emsp;&emsp;(E) No person may order, buy, remove, conceal, store, use, sell, loan, dispose of, transfer, transport, finance, forward, or otherwise service, in whole or in part, or conduct negotiations to facilitate such activities for, any item exported or to be exported from the United States, or that is otherwise subject to the Export Administration Regulations, with knowledge that a violation ofthis subchapter, the Export Administration Regulations, or any order, license or authorization issued thereunder, has occurred, is about to occur, or is intended to occur in connection with the item unless valid authorization is obtained therefor.
+&emsp;&emsp;(E) No person may order, buy, remove, conceal, store, use, sell, loan, dispose of, transfer, transport, finance, forward, or otherwise service, in whole or in part, or conduct negotiations to facilitate such activities for, any item exported or to be exported from the United States, or that is otherwise subject to the Export Administration Regulations, with knowledge that a violation of this subchapter, the Export Administration Regulations, or any order, license or authorization issued thereunder, has occurred, is about to occur, or is intended to occur in connection with the item unless valid authorization is obtained therefor.
 
 &emsp;&emsp;(F) No person may make any false or misleading representation, statement, or certification, or falsify or conceal any material fact, either directly to the Department of Commerce, or an official of any other United States agency, including the Department of Homeland Security and the Department of Justice, or indirectly through any other person—
 
@@ -82,7 +82,7 @@ A person who willfully commits, willfully attempts to commit, or willfully consp
 
 #### (2) Procedures
 
-&emsp;The procedures in any forfeiture under this subsection shall be governed by the proceduresestablished under section 853 of title 21, other than subsection (d) of such section.
+&emsp;The procedures in any forfeiture under this subsection shall be governed by the procedures established under section 853 of title 21, other than subsection (d) of such section.
 
 #### (e) Prior convictions
 
@@ -127,6 +127,8 @@ Nothing in subsection (c), (d), or (e) limits—
 &emsp;(3) the authority to compromise, remit or mitigate seizures and forfeitures pursuant to section 401(b) of title 22.
 
 (Pub. L. 115–232, div. A, title XVII, §1760, Aug. 13, 2018, 132 Stat. 2223.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

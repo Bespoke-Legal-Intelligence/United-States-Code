@@ -10,7 +10,7 @@ The purpose of this section is to enable the Secretary to ensure to the maximum 
 
 #### (b) Secretarial authority
 
-To the extent necessary to accomplish the purpose specified in subsection (a), the Secretary is authorized, subject to the provisions of this section, to temporarily waive or modify the application of, with respect to health care items and services furnished by a health care provider (or classes of health care providers) in any emergency area (or portion of such an area) during any portion of an emergency period, the requirements of subchapters XVIII, XIX, or XXI, or anyregulation thereunder (and the requirements of this subchapter other than this section, and regulations thereunder, insofar as they relate to such subchapters), pertaining to—
+To the extent necessary to accomplish the purpose specified in subsection (a), the Secretary is authorized, subject to the provisions of this section, to temporarily waive or modify the application of, with respect to health care items and services furnished by a health care provider (or classes of health care providers) in any emergency area (or portion of such an area) during any portion of an emergency period, the requirements of subchapters XVIII, XIX, or XXI, or any regulation thereunder (and the requirements of this subchapter other than this section, and regulations thereunder, insofar as they relate to such subchapters), pertaining to—
 
 &emsp;(1)(A) conditions of participation or other certification requirements for an individual health care provider or types of providers,
 
@@ -28,7 +28,7 @@ To the extent necessary to accomplish the purpose specified in subsection (a), t
 
 &emsp;&emsp;&emsp;(i) pursuant to an appropriate State emergency preparedness plan; or
 
-&emsp;&emsp;&emsp;(ii) in the case of a public health emergency described in subsection (g)(1)(B) that involves a pandemic infectious disease, pursuant to a State pandemic preparedness plan or a plan referred to in clause (i), whichever is applicable in the State;
+&emsp;&emsp;&emsp;(ii) in the case of a public health emergency described in subsection (g)(1)(B) thatinvolves a pandemic infectious disease, pursuant to a State pandemic preparedness plan or a plan referred to in clause (i), whichever is applicable in the State;
 
 &emsp;(4) sanctions under section 1395nn(g) of this title (relating to limitations on physician referral);
 
@@ -50,11 +50,13 @@ To the extent necessary to accomplish the purpose specified in subsection (a), t
 
 &emsp;&emsp;&emsp;(i) the patient's right to request privacy restrictions; and
 
-&emsp;&emsp;&emsp;(ii) the patient's right to request confidential communications; and
+&emsp;&emsp;&emsp;(ii) the patient's right to request confidential communications;
 
-&emsp;(8) in the case of a telehealth service (as defined in paragraph (4)(F) of section 1395m(m) of this title) furnished in any emergency area (or portion of such an area) during any portion of any emergency period, the requirements of section 1395m(m) of this title.
+&emsp;(8) in the case of a telehealth service (as defined in paragraph (4)(F) of section 1395m(m) of this title) furnished in any emergency area (or portion of such an area) during any portion of any emergency period, the requirements of section 1395m(m) of this title; and
 
-> Insofar as the Secretary exercises authority under paragraph (6) with respect to individuals enrolled in a Medicare+Choice plan, to the extent possible given the circumstances, the Secretary shall reconcile payments made on behalf of such enrollees to ensure that the enrollees do not pay more than would be required had they received services from providers within the network of the plan and may reconcile payments to the organization offering the plan to ensure that such organization pays for services for which payment is included in the capitation payment it receives under part C of subchapter XVIII. A waiver or modification provided for under paragraph (3) or (7) shall only be in effect if such actions are taken in a manner that does not discriminate among individuals on the basis of their source of payment or of their ability to pay, and, except in the case of a waiver or modification to which the fifth sentence of this subsection applies, shall be limited to a 72-hour period beginning upon implementation of a hospital disaster protocol. A waiver or modification under such paragraph (7) shall be withdrawn after such period and the provider shall comply with the requirements under such paragraph for any patient still under the care of the provider. If a public health emergency described in subsection (g)(1)(B) involves a pandemic infectious disease (such as pandemic influenza), the duration of a waiver or modification under paragraph (3) shall be determined in accordance with subsection (e) as such subsection applies to public health emergencies.
+&emsp;(9) any requirement under section 1395x(s)(7) of this title or section 1395m(l) of this title that an ambulance service include the transport of an individual to the extent necessary to allow payment for ground ambulance services furnished in response to a 911 call (or the equivalent in areas without a 911 call system) in cases in which an individual would have been transported to a destination permitted under Medicare regulations (as described in section 410.40 to title 42, Code of Federal Regulations (or successor regulations)) but such transport did not occur as a result of community-wide emergency medical service (EMS) protocols due to the public health emergency described in subsection (g)(1)(B).
+
+> Insofar as the Secretary exercises authority under paragraph (6) with respect to individuals enrolled in a Medicare+Choice plan, to the extent possible given the circumstances, the Secretary shall reconcile payments made on behalf of such enrollees to ensure that the enrollees do not pay more than would be required had they received services from providers within the network of the plan and may reconcile payments to the organization offering the plan to ensure that such organization pays for services for which payment is included in the capitation payment it receives under part C of subchapter XVIII. A waiver or modification provided for under paragraph (3) or (7) shall only be in effect if such actions are taken in a manner that does not discriminate among individuals on the basis of their source of payment or of their ability to pay, and, except in the case of a waiver or modification to which the fifth sentence of this subsection applies, shall be limited to a 72-hour period beginning upon implementation of a hospital disaster protocol. A waiver or modification under such paragraph (7) shall be withdrawn after such period and the provider shall comply with the requirements under such paragraph for any patient still under the care of the provider. If a public health emergency described in subsection (g)(1)(B) involves a pandemic infectious disease (such as pandemic influenza), the duration of a waiver or modification under paragraph (3) shall be determined in accordance with subsection (e) as such subsection applies to public health emergencies. Ground ambulance services for which payment is made pursuant to paragraph (9) shall be paid at the base rate that would have been paid under the fee schedule established under <sup>2</sup> 1395m(l) of this title (excluding any mileage payment) if the individual had been so transported and, with respect to ambulance services furnished by a critical access hospital or an entity described in paragraph (8) of such section, at the amount that otherwise would be paid under such paragraph.
 
 #### (c) Authority for retroactive waiver
 
@@ -112,7 +114,7 @@ For purposes of this section:
 
 #### (B) Exception
 
-&emsp;&emsp;For purposes of subsection (b)(8), an "emergency area" is a geographical area in which, and an "emergency period" is the period during which, there exists—
+&emsp;&emsp;For purposes of paragraphs (8) and (9) of subsection (b), an "emergency area" is a geographical area in which, and an "emergency period" is the period during which, there exists—
 
 &emsp;&emsp;&emsp;(i) the public health emergency declared by the Secretary pursuant to section 247d of this title on January 31, 2020, entitled "Determination that a Public Health Emergency Exists Nationwide as the Result of the 2019 Novel Coronavirus"; and
 
@@ -122,7 +124,9 @@ For purposes of this section:
 
 &emsp;The term "health care provider" means any entity that furnishes health care items or services, and includes a hospital or other provider of services, a physician or other health care practitioner or professional, a health care facility, or a supplier of health care items or services.
 
-(Aug. 14, 1935, ch. 531, title XI, §1135, as added Pub. L. 107–188, title I, §143(a), June 12, 2002, 116 Stat. 627; amended Pub. L. 108–276, §9, July 21, 2004, 118 Stat. 863; Pub. L. 109–417, title III, §302(b)(1), Dec. 19, 2006, 120 Stat. 2855; Pub. L. 116–123, div. B, §102(a)(1), (2), (b), Mar. 6, 2020, 134 Stat. 156; Pub. L. 116–127, div. F, §6010, Mar. 18, 2020, 134 Stat. 210; Pub. L. 116–136, div. A, title III, §3703, Mar. 27, 2020, 134 Stat. 416.)
+(Aug. 14, 1935, ch. 531, title XI, §1135, as added Pub. L. 107–188, title I, §143(a), June 12, 2002, 116 Stat. 627; amended Pub. L. 108–276, §9, July 21, 2004, 118 Stat. 863; Pub. L. 109–417, title III, §302(b)(1), Dec. 19, 2006, 120 Stat. 2855; Pub. L. 116–123, div. B, §102(a)(1), (2), (b), Mar. 6, 2020, 134 Stat. 156; Pub. L. 116–127, div. F, §6010, Mar. 18, 2020, 134 Stat. 210; Pub. L. 116–136, div. A, title III, §3703, Mar. 27, 2020, 134 Stat. 416; Pub. L. 117–2, title IX, §9832, Mar. 11, 2021, 135 Stat. 222.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -138,6 +142,12 @@ A prior section 1320b–5, act Aug. 14, 1935, ch. 531, title XI, §1135, as adde
 
 #### Amendments
 
+<b>2021</b>—Subsec. (b). Pub. L. 117–2, §9832(a)(2), inserted at end of concluding provisions "Ground ambulance services for which payment is made pursuant to paragraph (9) shall be paid at the base rate that would have been paid under the fee schedule established under 1395m(l) of this title (excluding any mileage payment) if the individual had been so transported and, with respect to ambulance services furnished by a critical access hospital or an entity described in paragraph (8) of such section, at the amount that otherwise would be paid under such paragraph."
+
+Subsec. (b)(9). Pub. L. 117–2, §9832(a)(1), added par. (9).
+
+Subsec. (g)(1)(B). Pub. L. 117–2, §9832(b), substituted "paragraphs (8) and (9) of subsection (b)" for "subsection (b)(8)" in introductory provisions.
+
 <b>2020</b>—Subsec. (b)(8). Pub. L. 116–136, §3703(1), substituted ", the requirements of section 1395m(m) of this title." for "to an individual by a qualified provider (as defined in subsection (g)(3))—
 
 &emsp;"(A) the requirements of paragraph (4)(C) of such section, except that a facility fee under paragraph (2)(B)(i) of such section may only be paid to an originating site that is a site described in any of subclauses (I) through (IX) of paragraph (4)(C)(ii) of such section; and
@@ -148,7 +158,7 @@ Pub. L. 116–123, §102(a)(1), added par. (8).
 
 Subsec. (g)(1). Pub. L. 116–123, §102(b), amended par. (1) generally. Prior to amendment, text read as follows: "An 'emergency area' is a geographical area in which, and an 'emergency period' is the period during which, there exists—
 
-&emsp;"(A) an emergency or disaster declared by the President pursuant to the National Emergencies Actor the Robert T. Stafford Disaster Relief and Emergency Assistance Act; and
+&emsp;"(A) an emergency or disaster declared by the President pursuant to the National Emergencies Act or the Robert T. Stafford Disaster Relief and Emergency Assistance Act; and
 
 &emsp;"(B) a public health emergency declared by the Secretary pursuant to section 247d of this title."
 
@@ -167,6 +177,8 @@ Subsec. (b)(3)(B). Pub. L. 109–417, §302(b)(1)(A), added subpar. (B) and stru
 Subsec. (b)(3). Pub. L. 108–276, §9(1), added par. (3) and struck out former par. (3) which read as follows: "sanctions under section 1395dd of this title (relating to examination and treatment for emergency medical conditions and women in labor) for a transfer of an individual who has not been stabilized in violation of subsection (c) of this section of such section if the transfer arises out of the circumstances of the emergency;".
 
 Subsec. (b)(7). Pub. L. 108–276, §9(2)–(4), added par. (7).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -206,7 +218,7 @@ Enforcement.—The provisions of subsection (a) shall be applied by the Secretar
 
 "(c)
 
-Implementation.—The Secretary of Health and Human Services, Secretary of Labor, and Secretary of the Treasury may implement the provisions of this section through sub-regulatory guidance, program instruction or otherwise.
+Implementation.—The Secretary of Health and Human Services, Secretary of Labor, and Secretary ofthe Treasury may implement the provisions of this section through sub-regulatory guidance, program instruction or otherwise.
 
 "(d)
 
@@ -217,4 +229,6 @@ Terms.—The terms 'group health plan'; 'health insurance issuer'; 'group health
 Pub. L. 116–123, div. B, §102(a)(3), Mar. 6, 2020, 134 Stat. 156, provided that: "The Secretary of Health and Human Services may implement the amendments made by this subsection \[amending this section\] by program instruction or otherwise."
 
 <i><sup>1</sup></i><i> So in original. A second closing parenthesis probably should precede the dash.</i>
+
+<i><sup>2</sup></i><i> So in original. The word "section" probably should appear.</i>
 

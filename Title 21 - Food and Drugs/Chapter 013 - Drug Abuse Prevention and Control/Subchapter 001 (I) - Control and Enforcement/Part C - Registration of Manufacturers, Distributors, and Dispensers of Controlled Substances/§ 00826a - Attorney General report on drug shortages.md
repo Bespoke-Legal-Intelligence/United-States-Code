@@ -18,7 +18,7 @@ Section 1005 of this Act, referred to in par. (1), means section 1005 of Pub. L.
 
 #### Codification
 
-Section was enacted as part of the Food and Drug Administration Safety and Innovation Act, and not aspart of the Controlled Substances Act which comprises this subchapter.
+Section was enacted as part of the Food and Drug Administration Safety and Innovation Act, and not as part of the Controlled Substances Act which comprises this subchapter.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

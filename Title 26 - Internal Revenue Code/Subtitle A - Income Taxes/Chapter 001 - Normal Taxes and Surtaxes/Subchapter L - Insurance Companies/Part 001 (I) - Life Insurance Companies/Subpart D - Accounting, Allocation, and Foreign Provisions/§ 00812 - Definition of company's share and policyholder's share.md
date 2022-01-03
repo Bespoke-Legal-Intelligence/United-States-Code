@@ -2,13 +2,15 @@
 
 #### (a) Company's share
 
-For purposes of section 805(a)(4), the term "company's share" means, with respect to anytaxable year beginning after December 31, 2017, 70 percent.
+For purposes of section 805(a)(4), the term "company's share" means, with respect to any taxable year beginning after December 31, 2017, 70 percent.
 
 #### (b) Policyholder's share
 
 For purposes of section 807, the term "policyholder's share" means, with respect to any taxable year beginning after December 31, 2017, 30 percent.
 
 (Added Pub. L. 98–369, div. A, title II, §211(a), July 18, 1984, 98 Stat. 741; amended Pub. L. 99–514, title XVIII, §1821(i), Oct. 22, 1986, 100 Stat. 2840; Pub. L. 100–203, title X, §10241(b)(2)(B), Dec. 22, 1987, 101 Stat. 1330–420; Pub. L. 100–647, title I, §1018(h)(1), title II, §2004(p)(2), Nov. 10, 1988, 102 Stat. 3583, 3608; Pub. L. 104–188, title I, §1602(b)(2), Aug. 20, 1996, 110 Stat. 1833; Pub. L. 105–34, title X, §1084(b)(3), Aug. 5, 1997, 111 Stat. 955; Pub. L. 108–218, title II, §205(b)(4), Apr. 10, 2004, 118 Stat. 610; Pub. L. 113–295, div. A, title II, §221(a)(41)(G), Dec. 19, 2014, 128 Stat. 4044; Pub. L. 115–97, title I, §13518(a), Dec. 22, 2017, 131 Stat. 2148.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -48,6 +50,8 @@ Subsec. (c). Pub. L. 99–514, §1821(i)(3), amended subsec. (c) generally. Prio
 
 Subsec. (g). Pub. L. 99–514, §1821(i)(4), added subsec. (g).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2017 Amendment
 
 Pub. L. 115–97, title I, §13518(c), Dec. 22, 2017, 131 Stat. 2148, provided that: "The amendments made by this section \[amending this section and section 817A of this title\] shall apply to taxable years beginning after December 31, 2017."
@@ -72,7 +76,7 @@ Amendment by section 1602(b)(1) of Pub. L. 104–188 applicable to loans made af
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–647, title I, §1018(h)(2), Nov. 10, 1988, 102 Stat. 3583, provided that: "The amendment made byparagraph (1) \[amending this section\] shall take effect as if included in the amendments made by section 211 of the Tax Reform Act of 1984 \[Pub. L. 98–369\]."
+Pub. L. 100–647, title I, §1018(h)(2), Nov. 10, 1988, 102 Stat. 3583, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effectas if included in the amendments made by section 211 of the Tax Reform Act of 1984 \[Pub. L. 98–369\]."
 
 Amendment by section 2004(p)(2) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provisions of the Revenue Act of 1987, Pub. L. 100–203, title X, to which such amendment relates, see section 2004(u) of Pub. L. 100–647, set out as a note under section 56 of this title.
 

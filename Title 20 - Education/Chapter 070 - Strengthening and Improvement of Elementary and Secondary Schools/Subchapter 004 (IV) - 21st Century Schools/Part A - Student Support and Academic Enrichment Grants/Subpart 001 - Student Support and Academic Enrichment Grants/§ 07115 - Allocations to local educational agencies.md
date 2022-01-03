@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;From the funds reserved by a State under section 7114(a)(1) of this title, the State shall allocate to each local educational agency in the State that has an application approved by the State educational agency under section 7116 of this title an amount that bears the same relationship to the total amount of such reservation as the amount the local educational agency received under subpart 2 of part A of subchapter I for the preceding fiscal year bears to the total amount received by all local educational agencies in the State under such subpart for the preceding fiscal year.
+&emsp;From the funds reserved by a State under section 7114(a)(1) of this title, the State shall allocate to each local educational agency inthe State that has an application approved by the State educational agency under section 7116 of this title an amount that bears the same relationship to the total amount of such reservation as the amount the local educational agency received under subpart 2 of part A of subchapter I for the preceding fiscal year bears to the total amount received by all local educational agencies in the State under such subpart for the preceding fiscal year.
 
 #### (2) Minimum local educational agency allocation
 
@@ -24,6 +24,8 @@ Of the amount received under subsection (a)(2), a local educational agency may r
 
 (Pub. L. 89–10, title IV, §4105, as added Pub. L. 114–95, title IV, §4101, Dec. 10, 2015, 129 Stat. 1974.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 7115, Pub. L. 89–10, title IV, §4115, as added Pub. L. 107–110, title IV, §401, Jan. 8, 2002, 115 Stat. 1745, related to authorized activities, prior to the general amendment of this subpart by Pub. L. 114–95.
@@ -31,6 +33,8 @@ A prior section 7115, Pub. L. 89–10, title IV, §4115, as added Pub. L. 107–
 Another prior section 7115, Pub. L. 89–10, title IV, §4115, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3681, related to local applications, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 A prior section 4105 of Pub. L. 89–10 was classified to section 3065 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

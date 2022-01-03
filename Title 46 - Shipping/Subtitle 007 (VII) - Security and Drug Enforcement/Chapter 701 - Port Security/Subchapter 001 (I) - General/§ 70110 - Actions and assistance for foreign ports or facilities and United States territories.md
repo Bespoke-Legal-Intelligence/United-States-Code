@@ -54,7 +54,7 @@ In general.—The Secretary may lend, lease, donate, or otherwise provide equipm
 
 &emsp;&emsp;(A) to assist in bringing the port or facility into compliance with applicable International Ship and Port Facility Code standards; and
 
-&emsp;&emsp;(B) to assist the port or facility in correcting deficiencies identified in periodic port assessments and reassessments required under section 70108 of this title.
+&emsp;&emsp;(B) to assist the port or facility in correcting deficiencies identified in periodicport assessments and reassessments required under section 70108 of this title.
 
 &emsp;(2)
 

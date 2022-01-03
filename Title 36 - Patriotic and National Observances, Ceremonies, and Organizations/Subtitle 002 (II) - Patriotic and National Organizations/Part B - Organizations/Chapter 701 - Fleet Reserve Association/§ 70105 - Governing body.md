@@ -2,7 +2,7 @@
 
 (a)
 
-Board of Directors.—The board of directors and the responsibilities of the board are as provided in the bylaws and articles of incorporation.
+Board of Directors.—The board of directors and the responsibilities of the board are asprovided in the bylaws and articles of incorporation.
 
 (b)
 

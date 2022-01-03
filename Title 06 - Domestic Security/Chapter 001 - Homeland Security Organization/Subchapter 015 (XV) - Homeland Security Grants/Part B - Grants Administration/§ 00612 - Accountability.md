@@ -6,7 +6,7 @@
 
 #### (A) Audit requirement
 
-&emsp;&emsp;Each recipient of a grant administered by the Department that expends not less than $500,000 in Federal funds during its fiscal year shall submit to the Administrator a copy of the organization-wide financial and compliance audit report required under chapter 75 of title 31.
+&emsp;&emsp;Each recipient of a grant administered by the Department that expends not less than $500,000 in Federal funds during its fiscalyear shall submit to the Administrator a copy of the organization-wide financial and compliance audit report required under chapter 75 of title 31.
 
 #### (B) Access to information
 
@@ -160,7 +160,7 @@
 
 #### References in Text
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(2)(A), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143. Section 203 of the Act is classified to section 5133 of Title 42, The Public Health and Welfare. Titles IV and V of the Act are classified generally to subchapters IV (§5170 et seq.)and IV–A (§5191 et seq.), respectively, of chapter 68 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(2)(A), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143. Section 203 of the Act is classified to section 5133 of Title 42, The Public Health and Welfare. Titles IV and V of the Act are classified generally to subchapters IV (§5170 et seq.) and IV–A (§5191 et seq.), respectively, of chapter 68 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 #### Amendments
 
@@ -168,7 +168,7 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 Subsec. (a)(5). Pub. L. 116–117, §3(b)(2)(B), substituted "section 3352(i) of title 31" for "section 2(h) of the Improper Payments Elimination and Recovery Act of 2010 (31 U.S.C. 3321 note)" in introductory provisions.
 
-<b>2014</b>—Subsec. (a)(3) to (7). Pub. L. 113–284 redesignated pars. (4) to (7) as (3) to (6), respectively, substituted, in par. (4), "paragraph (2)" for "paragraphs (2) and (3)" and "paragraph (3)" for "paragraph (4)", and struck out former par. (3) which related to Office of Inspector General performance audits.
+<b>2014</b>—Subsec. (a)(3) to (7). Pub. L. 113–284 redesignated pars. (4) to (7) as (3) to (6), respectively, substituted, inpar. (4), "paragraph (2)" for "paragraphs (2) and (3)" and "paragraph (3)" for "paragraph (4)", and struck out former par. (3) which related to Office of Inspector General performance audits.
 
 <b>2010</b>—Subsec. (a)(6). Pub. L. 111–204 substituted "under section 2(h) of the Improper Payments Elimination and Recovery Act of 2010 (31 U.S.C. 3321 note)" for "(as that term is defined by the Director of the Office of Management and Budget under section 3561 of title 31)".
 

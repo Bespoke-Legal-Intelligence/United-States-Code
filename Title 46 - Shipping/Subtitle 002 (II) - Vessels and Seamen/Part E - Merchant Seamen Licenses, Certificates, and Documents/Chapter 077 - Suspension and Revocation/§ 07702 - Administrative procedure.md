@@ -6,7 +6,7 @@
 
 (c)(1) The Secretary shall request a holder of a license, certificate of registry, or merchant mariner's document to make available to the Secretary, under section 30305(b)(7) of title 49, all information contained in the National Driver Register related to an offense described in section 205(a)(3)(A) or (B) of that Act <sup>1</sup> committed by the individual.
 
-(2) The Secretary shall require the testing of the holder of a license, certificate of registry, or merchant mariner's document for use of alcohol and dangerous drugs in violation of law or Federal regulation. The testing may include preemployment (with respect to dangerous drugs only), periodic, random, and reasonable cause testing, and shall include post-accident testing.
+(2) The Secretary shall require the testing of the holder of a license, certificate of registry, or merchant mariner's document for use of alcoholand dangerous drugs in violation of law or Federal regulation. The testing may include preemployment (with respect to dangerous drugs only), periodic, random, and reasonable cause testing, and shall include post-accident testing.
 
 (d)(1) The Secretary may temporarily, for not more than 45 days, suspend and take possession of the license, certificate of registry, or merchant mariner's document held by an individual if—
 

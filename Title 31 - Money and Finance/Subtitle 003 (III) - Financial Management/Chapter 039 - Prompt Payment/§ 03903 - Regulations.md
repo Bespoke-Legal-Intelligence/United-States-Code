@@ -78,7 +78,7 @@
 
 (2) Amounts deducted from payments to contractors under paragraph (1)(B) shall revert to the Treasury.
 
-(Added Pub. L. 97–452, §1(18)(A), Jan. 12, 1983, 96 Stat. 2476; amended Pub. L. 100–496, §§4–7, 13(a), Oct. 17, 1988, 102 Stat. 2457–2459, 2465; Pub. L. 102–190, div. A, title VIII, §842, Dec. 5, 1991, 105 Stat. 1449; Pub. L. 106–65, div. A, title X, §1009, Oct. 5, 1999, 113 Stat. 738; Pub. L. 116–92, div. A, title VIII, §873, Dec. 20, 2019, 133 Stat. 1527.)
+(Added Pub. L. 97–452, §1(18)(A), Jan. 12, 1983, 96 Stat. 2476; amended Pub. L. 100–496, §§4–7, 13(a),Oct. 17, 1988, 102 Stat. 2457–2459, 2465; Pub. L. 102–190, div. A, title VIII, §842, Dec. 5, 1991, 105 Stat. 1449; Pub. L. 106–65, div. A, title X, §1009, Oct. 5, 1999, 113 Stat. 738; Pub. L. 116–92, div. A, title VIII, §873, Dec. 20, 2019, 133 Stat. 1527.)
 
 Historical and Revision Notes
 

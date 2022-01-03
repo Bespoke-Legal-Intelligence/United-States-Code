@@ -20,7 +20,7 @@ Amount of Monthly Allowance.—The amount of the monthly allowance paid under th
 
 &emsp;&emsp;(A) $214; or
 
-&emsp;&emsp;(B) the monthly amount payable under section 1805(b)(3) of this title for the lowestlevel of disability prescribed for purposes of that section.
+&emsp;&emsp;(B) the monthly amount payable under section 1805(b)(3) of this title for the lowest level of disability prescribed for purposes of that section.
 
 &emsp;(3) In the case of a child suffering from the higher intermediate level of disability prescribed in the schedule for rating disabilities under subsection (b), the greater of—
 

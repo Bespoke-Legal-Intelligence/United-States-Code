@@ -30,7 +30,7 @@
 
 (3) A member of the Army National Guard of the United States or the Air National Guard of the United States may be ordered to active duty under this subsection only with the consent of the Governor or other appropriate authority of the State concerned.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 27, §672; Pub. L. 85–861, §§1(13), 33(a)(5), Sept. 2, 1958, 72 Stat. 1440, 1564; Pub. L. 96–357, §6, Sept. 24, 1980, 94 Stat. 1182; Pub. L. 96–584, §1, Dec. 23, 1980, 94 Stat. 3377; Pub. L. 99–500, §101(c) \[title IX, §9122\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–127, and Pub. L. 99–591, §101(c) \[title IX, §9122\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–127; Pub. L. 99–661, div. A, title V, §§522, 524(a), Nov. 14, 1986, 100 Stat. 3871; Pub. L. 100–456, div. A, title XII, §1234(a)(1), (2), Sept. 29, 1988, 102 Stat. 2059; renumbered §12301 and amended Pub. L. 103–337, div. A, title XVI, §§1662(e)(2), 1675(c)(1), Oct. 5, 1994, 108 Stat. 2992, 3017; Pub. L. 106–65, div. A, title V, §512, Oct. 5, 1999, 113 Stat. 592; Pub. L. 108–375, div. A, title V, §514(a), Oct. 28, 2004, 118 Stat. 1882.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 27, §672; Pub. L. 85–861, §§1(13), 33(a)(5), Sept. 2, 1958, 72 Stat. 1440, 1564; Pub. L. 96–357, §6, Sept. 24, 1980, 94 Stat. 1182; Pub. L. 96–584, §1, Dec. 23, 1980, 94 Stat. 3377; Pub. L. 99–500, §101(c) \[title IX, §9122\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–127, and Pub. L. 99–591, §101(c) \[title IX, §9122\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–127; Pub. L. 99–661, div. A, title V, §§522, 524(a), Nov. 14, 1986, 100 Stat. 3871; Pub. L. 100–456, div. A, title XII, §1234(a)(1), (2), Sept. 29, 1988, 102 Stat. 2059; renumbered §12301 and amended Pub. L. 103–337, div. A, title XVI, §§1662(e)(2), 1675(c)(1), Oct. 5, 1994, 108 Stat. 2992,3017; Pub. L. 106–65, div. A, title V, §512, Oct. 5, 1999, 113 Stat. 592; Pub. L. 108–375, div. A, title V, §514(a), Oct. 28, 2004, 118 Stat. 1882.)
 
 Historical and Revision Notes<br>1956
 
@@ -72,7 +72,7 @@ In subsection (b), the words "without the consent of the persons affected" are s
 
 In subsections (b) and (d), the words "active duty for training" are omitted as covered by the words "active duty".
 
-In subsection (c), the words "to active duty" are substituted for the words "into the active military serviceof the United States", in 50:961(g) (1st and last sentences). The words "to serve" are substituted for the words "for the purpose of serving". The words "without their consent" are substituted for the word "involuntarily". The words "to that duty" are substituted for the words "into active duty". The last sentence of the revised subsection is substituted for 50:961(g) (last sentence).
+In subsection (c), the words "to active duty" are substituted for the words "into the active military service of the United States", in 50:961(g) (1st and last sentences). The words "to serve" are substituted for the words "for the purpose of serving". The words "without their consent" are substituted for the word "involuntarily". The words "to that duty" are substituted for the words "into active duty". The last sentence of the revised subsection is substituted for 50:961(g) (last sentence).
 
 In subsection (d), the words "the consent of that member" are substituted for the words "his consent". The words "under his jurisdiction" are inserted for clarity. 50:962 (last 15 words of 1st sentence) is omitted as covered by 50:961(d).
 
@@ -97,6 +97,8 @@ Aug. 9, 1955, ch. 665, §2(e), 69 Stat. 599.
 The word "hereafter" is omitted as surplusage. The words "there are not enough . . . who are" are substituted for the words "adequate numbers of . . . are not". The words "without the consent of the persons affected" and "under the jurisdiction of that Secretary" are inserted for clarity.
 
 The changes are necessary to reflect section 101(b) of the Armed Forces Reserve Act of 1952 (50 U.S.C. 901(b)), which defines the term "active duty" to exclude active duty for training. This definition applied to the source law for these sections \[sections 672 and 673\], section 233(a), (b)(1), and (c) of the Armed Forces Reserve Act of 1952 (50 U.S.C. 961(a), (b)(1), (c)).
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -134,6 +136,8 @@ Subsec. (e). Pub. L. 96–584 substituted provisions respecting determination of
 
 Subsec. (c). Pub. L. 85–861, §33(a)(5), inserted "(other than for training)" after "active duty".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
@@ -148,7 +152,7 @@ Amendment by section 33(a)(5) of Pub. L. 85–861 effective Aug. 10, 1956, see s
 
 #### Rule of Construction for Duplicate Authorization and Appropriation Provisions of Public Laws 99–500, 99–591, and 99–661
 
-For rule of construction for certain duplicate provisions of Public Laws 99–500, 99–591, and 99–661, see Pub. L. 100–26, §6, Apr. 21, 1987, 101 Stat. 274, set out as a note under section 2302 of this title.
+For rule of construction for certain duplicate provisions of Public Laws 99–500, 99–591, and 99–661, see Pub.L. 100–26, §6, Apr. 21, 1987, 101 Stat. 274, set out as a note under section 101 of this title.
 
 #### Quarantine Lodging for Members of the Reserve Components Who Perform Certain Service in Response to the COVID–19 Emergency
 
@@ -180,7 +184,7 @@ Days of Scheduled Deployment.—
 
 &emsp;"(1)
 
-Limitation.—The deployment of a unit of a reserve component of the Armed Forces described in paragraph (2) may not be cancelled during the 180-dayperiod ending on the date on which the unit is otherwise scheduled for deployment without the approval, in writing, of the Secretary of Defense.
+Limitation.—The deployment of a unit of a reserve component of the Armed Forces described in paragraph (2) may not be cancelled during the 180-day period ending on the date on which the unit is otherwise scheduled for deployment without the approval, in writing, of the Secretary of Defense.
 
 &emsp;"(2)
 

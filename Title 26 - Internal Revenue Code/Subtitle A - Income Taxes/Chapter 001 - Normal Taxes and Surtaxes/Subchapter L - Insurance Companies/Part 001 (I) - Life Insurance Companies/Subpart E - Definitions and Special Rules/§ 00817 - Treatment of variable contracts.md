@@ -68,7 +68,7 @@ A pension plan contract which is not a life, accident, or health, property, casu
 
 #### (g) Variable annuity contracts treated as annuity contracts
 
-For purposes of this part, the term "annuity contract" includes a contract which provides for the payment of a variable annuity computed on the basis of—
+For purposes of this part, the term "annuity contract" includes a contract which provides forthe payment of a variable annuity computed on the basis of—
 
 &emsp;(1) recognized mortality tables, and
 
@@ -116,6 +116,8 @@ For purposes of this part, the term "annuity contract" includes a contract which
 
 (Added Pub. L. 98–369, div. A, title II, §211(a), July 18, 1984, 98 Stat. 750; amended Pub. L. 99–514, title XVIII, §1821(m), (t)(1), Oct. 22, 1986, 100 Stat. 2841, 2844; Pub. L. 100–647, title VI, §6080(a), Nov. 10, 1988, 102 Stat. 3710; Pub. L. 104–188, title I, §1611(a), Aug. 20, 1996, 110 Stat. 1845; Pub. L. 105–34, title XII, §1271(b)(8), Aug. 5, 1997, 111 Stat. 1037; Pub. L. 108–218, title II, §205(b)(5), Apr. 10, 2004, 118 Stat. 610.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 817, added Pub. L. 86–69, §2(a), June 25, 1959, 73 Stat. 132; amended Pub. L. 94–455, title XIV, §1402(b)(1)(M), (2), title XIX, §§1901(a)(100), 1951(b)(11)(A), Oct. 4, 1976, 90 Stat. 1732, 1781, 1839, related to rules regarding certain gains and losses, prior to the general revision of this part by Pub. L. 98–369, §211(a).
@@ -142,13 +144,15 @@ Subsec. (h)(1). Pub. L. 99–514, §1821(m)(2), struck out last sentence which r
 
 Subsec. (h)(3) to (5). Pub. L. 99–514, §1821(m)(1), added pars. (3) and (4), redesignated former par. (4) as (5), and struck out former par. (3) which read as follows: "In the case of a segregated asset account with respect to variable life insurance contracts, paragraph (1) shall not apply in the case of securities issued by the United States Treasury which are owned by a regulated investment company or by a trust all the beneficial interests in which are held by 1 or more segregated asset accounts of the company issuing the contract."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2004 Amendment
 
 Amendment by Pub. L. 108–218 applicable to taxable years beginning after Dec. 31, 2004, see section 205(c) of Pub. L. 108–218, set out as a note under section 807 of this title.
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–34, title XII, §1271(c), Aug. 5, 1997, 111 Stat. 1037, provided that: "The amendments made by this section \[amending this section and sections 851 and 1092 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[Aug. 5, 1997\]."
+Pub. L. 105–34, title XII, §1271(c), Aug. 5, 1997, 111 Stat. 1037, provided that: "The amendments made bythis section \[amending this section and sections 851 and 1092 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[Aug. 5, 1997\]."
 
 #### Effective Date of 1996 Amendment
 

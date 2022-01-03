@@ -172,7 +172,7 @@ In general.—The Commissioners shall serve for the life of the Commission. The 
 
 &emsp;&emsp;"(A) 3 representatives from the Federal Government, comprised of the Secretary of Commerce, the Secretary of the Treasury, and the United States Trade Representative (or their respective delegates).
 
-&emsp;&emsp;"(B) 8 representatives from State and local governments (one such representative shall be from a State or local government that does not impose asales tax and one representative shall be from a State that does not impose an income tax).
+&emsp;&emsp;"(B) 8 representatives from State and local governments (one such representative shall be from a State or local government that does not impose a sales tax and one representative shall be from a State that does not impose an income tax).
 
 &emsp;&emsp;"(C) 8 representatives of the electronic commerce industry (including small business), telecommunications carriers, local retail businesses, and consumer groups, comprised of—
 
@@ -400,7 +400,7 @@ Electronic commerce.—The term 'electronic commerce' means any transaction cond
 
 &emsp;"(4)
 
-Internet.—The term 'Internet' means collectively the myriad of computer and telecommunications facilities, including equipment and operating software, which comprise the interconnected world-wide network of networks that employ the Transmission Control Protocol/Internet Protocol, or any predecessor or successor protocols to such protocol, to communicate information of all kinds by wire or radio.
+Internet.—The term 'Internet' means collectively the myriad of computer and telecommunications facilities, including equipment and operating software, which comprise the interconnected world-wide network of networks that employ the Transmission Control Protocol/Internet Protocol, or any predecessor or successor protocols to such protocol,to communicate information of all kinds by wire or radio.
 
 &emsp;"(5)
 
@@ -414,7 +414,7 @@ Internet access.—The term 'Internet access'—
 
 &emsp;&emsp;&emsp;"(ii) to otherwise enable users to access content, information or other services offered over the Internet;
 
-&emsp;&emsp;"(C) includes services that are incidental to the provision of the service described in subparagraph\(A) when furnished to users as part of such service, such as a home page, electronic mail and instant messaging (including voice- and video-capable electronic mail and instant messaging), video clips, and personal electronic storage capacity;
+&emsp;&emsp;"(C) includes services that are incidental to the provision of the service described in subparagraph (A) when furnished to users as part of such service, such as a home page, electronic mail and instant messaging (including voice- and video-capable electronic mail and instant messaging), video clips, and personal electronic storage capacity;
 
 &emsp;&emsp;"(D) does not include voice, audio or video programming, or other products and services (except services described in subparagraph (A), (B), (C), or (E)) that utilize Internet protocol or any successor protocol and for which there is a charge, regardless of whether such charge is separately stated or aggregated with the charge for services described in subparagraph (A), (B), (C), or (E); and
 
@@ -518,7 +518,7 @@ Charges for telecommunications.—The term 'charges for telecommunications' mean
 
 "(a)
 
-Universal Service.—Nothing in this Act \[probably means "this title"\] shall prevent the imposition or collection of any fees or charges used to preserve and advance Federal universal service or similar State programs—
+Universal Service.—Nothing in this Act \[probably means "this title"\] shall prevent the imposition or collection of any fees or charges used to preserve andadvance Federal universal service or similar State programs—
 
 &emsp;"(1) authorized by section 254 of the Communications Act of 1934 (47 U.S.C. 254); or
 

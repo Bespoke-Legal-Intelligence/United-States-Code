@@ -4,9 +4,13 @@ The Secretary of the Interior is authorized to acquire by donation or with donat
 
 (Pub. L. 86–273, §1, Sept. 14, 1959, 73 Stat. 556.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was not enacted as a part of act June 28, 1948, ch. 687, 62 Stat. 1061, as amended, which comprises this subchapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Appropriations
 

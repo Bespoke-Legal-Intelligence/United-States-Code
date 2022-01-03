@@ -4,6 +4,8 @@ If any officer, or other person, executing or aiding or assisting in the seizure
 
 (R.S. §3073.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §3073 derived from act Mar. 2, 1799, ch. 22, §71, 1 Stat. 678.

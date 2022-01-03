@@ -4,7 +4,7 @@
 
 #### (1) Development
 
-&emsp;The Director shall establish a clearinghouse, in collaboration with 4-year institutions ofhigher education (including applicable graduate schools and academic departments), and industries and Federal agencies that employ science-trained personnel, to share program elements used in successful professional science master's degree programs and other advanced degree programs related to science, technology, engineering, and mathematics.
+&emsp;The Director shall establish a clearinghouse, in collaboration with 4-year institutions of higher education (including applicable graduate schools and academic departments), and industries and Federal agencies that employ science-trained personnel, to share program elements used in successful professional science master's degree programs and other advanced degree programs related to science, technology, engineering, and mathematics.
 
 #### (2) Availability
 
@@ -44,7 +44,7 @@
 
 #### (B) Time period of grants
 
-&emsp;&emsp;Grants awarded under this section shall be for one 3-year term. Grants may be renewed only once for a maximum of 2 additional years.
+&emsp;&emsp;Grants awarded under this section shall be for one 3-year term. Grants may be renewedonly once for a maximum of 2 additional years.
 
 #### (5) Evaluation and reports
 
@@ -66,13 +66,17 @@
 
 (Pub. L. 110–69, title VII, §7034, Aug. 9, 2007, 121 Stat. 712.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Higher Education Act of 1965, referred to in subsec. (b)(2)(D), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Titles IV and VII of the Act are classified generally to subchapters IV (§1070 et seq.) and VII (§1133 et seq.), respectively, of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Codification
 
-Section was enacted as part of the America COMPETES Act, also known as the America Creating Opportunities to Meaningfully Promote Excellence inTechnology, Education, and Science Act, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+Section was enacted as part of the America COMPETES Act, also known as the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Act, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

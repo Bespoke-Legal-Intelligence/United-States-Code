@@ -36,11 +36,11 @@ The period of limitations for assessment of any such liability of a transferee o
 
 #### (1) Initial transferee
 
-&emsp;In the case of the liability of an initial transferee, within 1 year after the expirationof the period of limitation for assessment against the transferor;
+&emsp;In the case of the liability of an initial transferee, within 1 year after the expiration of the period of limitation for assessment against the transferor;
 
 #### (2) Transferee of transferee
 
-&emsp;In the case of the liability of a transferee of a transferee, within 1 year after the expiration of the period of limitation for assessment against the preceding transferee, but not more than 3 years after the expiration of the period of limitation for assessment against the initial transferor;
+&emsp;In the case of the liability of a transferee of a transferee, within 1 year after the expirationof the period of limitation for assessment against the preceding transferee, but not more than 3 years after the expiration of the period of limitation for assessment against the initial transferor;
 
 > except that if, before the expiration of the period of limitation for the assessment of the liability of the transferee, a court proceeding for the collection of the tax or liability in respect thereof has been begun against the initial transferor or the last preceding transferee, respectively, then the period of limitation for assessment of the liability of the transferee shall expire 1 year after the return of execution in the court proceeding.
 
@@ -79,6 +79,8 @@ As used in this section, the term "transferee" includes donee, heir, legatee, de
 &emsp;&emsp;<b>For extensions of time by reason of armed service in a combat zone, see section 7508.</b>
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 841; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–258, §3(f)(10), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 115–141, div. U, title IV, §401(a)(322), Mar. 23, 2018, 132 Stat. 1199.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

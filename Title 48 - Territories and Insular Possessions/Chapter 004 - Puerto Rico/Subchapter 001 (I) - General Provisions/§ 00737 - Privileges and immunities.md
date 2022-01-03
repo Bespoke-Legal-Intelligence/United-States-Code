@@ -4,6 +4,8 @@ The rights, privileges, and immunities of citizens of the United States shall be
 
 (Mar. 2, 1917, ch. 145, §2, 39 Stat. 951; Feb. 3, 1921, ch. 34, §1, 41 Stat. 1096; Mar. 2, 1934, ch. 37, §1, 48 Stat. 361; Aug. 5, 1947, ch. 490, §7, 61 Stat. 772; July 3, 1950, ch. 446, §5(1), 64 Stat. 320.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1950</b>—Act July 3, 1950, repealed all of section relating to bill of rights and restrictions except last paragraph.
@@ -11,6 +13,8 @@ The rights, privileges, and immunities of citizens of the United States shall be
 <b>1947</b>—Act Aug. 5, 1947, inserted privileges and immunities provisions.
 
 <b>1934</b>—Act Mar. 2, 1934, repealed so much of former provisions of twentieth paragraph of this section making it unlawful to import, manufacture, sell or give away, or to expose for sale or gift any intoxicating liquors. The penalty formerly contained in such paragraph, related only to violation of such provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1950 Amendment
 

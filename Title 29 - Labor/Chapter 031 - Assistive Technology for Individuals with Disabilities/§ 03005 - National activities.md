@@ -78,7 +78,7 @@ In order to support activities designed to improve the administration of this ch
 
 &emsp;&emsp;&emsp;&emsp;(II) requests for state-of-the-art, or model, Federal, State, and local laws, regulations, policies, practices, procedures, and organizational structures, that facilitate, and overcome barriers to, funding for, and access to, assistive technology devices and assistive technology services;
 
-&emsp;&emsp;&emsp;&emsp;(III) requests for information on effective approaches to developing, implementing, evaluating, and sustaining activities described in sections 3003 and 3004 of this title and related to improving funding for or access to assistivetechnology devices and assistive technology services for individuals with disabilities of all ages, and requests for assistance in developing corrective action plans;
+&emsp;&emsp;&emsp;&emsp;(III) requests for information on effective approaches to developing, implementing, evaluating, and sustaining activities described in sections 3003 and 3004 of this title and related to improving funding for or access to assistive technology devices and assistive technology services for individuals with disabilities of all ages, and requests for assistance in developing corrective action plans;
 
 &emsp;&emsp;&emsp;&emsp;(IV) requests for examples of policies, practices, procedures, regulations, or judicial decisions that have enhanced or may enhance access to funding for assistive technology devices and assistive technology services for individuals with disabilities;
 
@@ -92,7 +92,7 @@ In order to support activities designed to improve the administration of this ch
 
 &emsp;&emsp;&emsp;&emsp;(II) technical assistance activities undertaken under clause (i);
 
-&emsp;&emsp;&emsp;(iii) provides State-specific, regional, and national training and technical assistance concerning assistive technology to entities funded under this chapter, other entities funded under this chapter, and public and private entities not funded under this chapter, including—
+&emsp;&emsp;&emsp;(iii) provides State-specific, regional, and national training and technical assistance concerning assistive technology to entities funded under this chapter, otherentities funded under this chapter, and public and private entities not funded under this chapter, including—
 
 &emsp;&emsp;&emsp;&emsp;(I) annually providing a forum for exchanging information concerning, and promoting program and policy improvements in, required activities of the State assistive technology programs;
 
@@ -240,7 +240,7 @@ To be eligible to receive a grant, contract, or cooperative agreement under this
 
 With respect to the activities described in subsection (b) to be funded under this section, including the national and regionally based training and technical assistance efforts carried out through the activities, in designing the activities the Secretary shall consider, and in providing the activities providers shall include, input of the directors of comprehensive statewide programs of technology-related assistance, directors of alternative financing programs, and other individuals the Secretary determines to be appropriate, especially—
 
-&emsp;(1) individuals with disabilities who use assistive technology and understand the barriers to the acquisition of such technology and assistive technology services;
+&emsp;(1) individuals with disabilities who use assistive technology and understand the barriersto the acquisition of such technology and assistive technology services;
 
 &emsp;(2) family members, guardians, advocates, and authorized representatives of such individuals;
 

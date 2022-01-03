@@ -30,7 +30,7 @@ If—
 
 #### (3) Shorter period where corporations not in existence for 5 years
 
-&emsp;If either of the corporations referred to in paragraph (1) was not in existence throughout the 5-year period referred to in paragraph (1), the period during which such corporation was in existence (or if both, the shorter of such periods) shall be substituted for such 5-year period.
+&emsp;If either of the corporations referred to in paragraph (1) was not in existence throughoutthe 5-year period referred to in paragraph (1), the period during which such corporation was in existence (or if both, the shorter of such periods) shall be substituted for such 5-year period.
 
 #### (c) Definitions
 
@@ -128,13 +128,15 @@ Rules similar to the rules of subsection (a) shall also apply in the case of any
 
 #### (f) Regulations
 
-The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section, including regulations to ensure that the purposes of this section may not be circumvented through—
+The Secretary shall prescribe such regulations as may be necessary to carry out the purposes ofthis section, including regulations to ensure that the purposes of this section may not be circumvented through—
 
 &emsp;(1) the use of any provision of law or regulations (including subchapter K of this chapter), or
 
 &emsp;(2) contributions of property to a corporation.
 
-(Added Pub. L. 100–203, title X, §10226(a), Dec. 22, 1987, 101 Stat. 1330–414; amended Pub. L. 100–647,title II, §2004(m)(1)–(4), Nov. 10, 1988, 102 Stat. 3606, 3607; Pub. L. 101–239, title VII, §7812(c)(1), Dec. 19, 1989, 103 Stat. 2412.)
+(Added Pub. L. 100–203, title X, §10226(a), Dec. 22, 1987, 101 Stat. 1330–414; amended Pub. L. 100–647, title II, §2004(m)(1)–(4), Nov. 10, 1988, 102 Stat. 3606, 3607; Pub. L. 101–239, title VII, §7812(c)(1), Dec. 19, 1989, 103 Stat. 2412.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -157,6 +159,8 @@ Subsec. (c)(2). Pub. L. 100–647, §2004(m)(1)(C), amended par. (2) generally. 
 Subsec. (c)(4) to (8). Pub. L. 100–647, §2004(m)(1)(B), redesignated par. (4) as (8) and added pars. (4) to (7).
 
 Subsecs. (e), (f). Pub. L. 100–647, §2004(m)(2), (4), substituted "a corporation" for "the gain corporation" in subsec. (e)(2), redesignated subsec. (e) as (f), and added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1989 Amendment
 

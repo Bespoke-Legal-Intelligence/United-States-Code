@@ -138,7 +138,7 @@ An eligible entity that receives a grant under this section shall submit to the 
 
 &emsp;&emsp;&emsp;For purposes of clause (i), the criteria described in this clause, with respect to each public elementary school and secondary school in the State, are that each such school—
 
-&emsp;&emsp;&emsp;&emsp;(I) has in place a plan for having on the premises of the school during all operating hours of the school a school nurse or one or more other individuals who are designated by the principal (or other appropriate administrative staff) of the school to direct and apply the program described in subclause (II) on a voluntary basis outside their scope of employment; and
+&emsp;&emsp;&emsp;&emsp;(I) has in place a plan for having on the premises of the school during all operating hours of the school a school nurse or one or more other individuals who aredesignated by the principal (or other appropriate administrative staff) of the school to direct and apply the program described in subclause (II) on a voluntary basis outside their scope of employment; and
 
 &emsp;&emsp;&emsp;&emsp;(II) has in place, under the direction of a school nurse or other individual designated under subclause (I), a comprehensive school-based allergies and asthma management program that includes—
 
@@ -186,6 +186,8 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 (July 1, 1944, ch. 373, title III, §399L, as added Pub. L. 106–310, div. A, title V, §501, Oct. 17, 2000, 114 Stat. 1113; amended Pub. L. 108–377, §3(a), Oct. 30, 2004, 118 Stat. 2203; Pub. L. 113–48, §2, Nov. 13, 2013, 127 Stat. 575; Pub. L. 114–95, title IX, §9215(kkk)(2), Dec. 10, 2015, 129 Stat. 2187; Pub. L. 116–292, §2, Jan. 5, 2021, 134 Stat. 4896.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Social Security Act, referred to in subsecs. (a)(1), (2)(B) and (b)(1), (2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Parts B and E of title IV of the Act are classified generally to parts B (§620 et seq.) and E (§670 et seq.), respectively, of subchapter IV of chapter 7 of this title. Titles V, XIX, and XXI of the Act are classified generally to subchapters V (§701 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
@@ -212,6 +214,8 @@ Subsec. (d)(3)(E). Pub. L. 113–48, §2(2), added subpar. (E).
 
 <b>2004</b>—Subsecs. (d), (e). Pub. L. 108–377 added subsec. (d) and redesignated former subsec. (d) as (e).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of Title 20, Education.
@@ -230,7 +234,7 @@ Pub. L. 108–377, §2, Oct. 30, 2004, 118 Stat. 2202, provided that: "The Congr
 
 &emsp;"(3) In 2001, 20,300,000 Americans had asthma; 6,300,000 children under age 18 had asthma.
 
-&emsp;"(4) The prevalence of asthma among African-American children was 40 percent greater than amongCaucasian children, and more than 26 percent of all asthma deaths are in the African-American population.
+&emsp;"(4) The prevalence of asthma among African-American children was 40 percent greater than among Caucasian children, and more than 26 percent of all asthma deaths are in the African-American population.
 
 &emsp;"(5) In 2000, there were 1,800,000 asthma-related visits to emergency departments (more than 728,000 of these involved children under 18 years of age).
 

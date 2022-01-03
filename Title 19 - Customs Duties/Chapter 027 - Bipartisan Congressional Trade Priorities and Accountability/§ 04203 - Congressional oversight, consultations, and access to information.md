@@ -88,7 +88,7 @@
 
 #### (C) Accreditation
 
-&emsp;&emsp;Each member of the congressional advisory groups described in subparagraphs (A)(i) and (B)(i) shall be accredited by the United States Trade Representative on behalf of the President as a delegate and official adviser to the United States delegation in negotiations for any trade agreement to which this chapter applies. In addition, the chairmen and ranking members described in subparagraphs (A)(i) and (B)(i) shall each be permitted to designate up to 3 personnel with proper security clearances to serve as delegates and official advisers to the United States delegation in negotiations for any trade agreement to which this chapter applies. Each member of the congressional advisory groups described in subparagraphs (A)(ii) and (B)(ii) shall be accredited by the United States Trade Representative on behalf of the President as a delegate and official adviser to the United States delegation in the negotiations by reason of which the member is in one of the congressional advisory groups.
+&emsp;&emsp;Each member of the congressional advisory groups described in subparagraphs\(A)(i) and (B)(i) shall be accredited by the United States Trade Representative on behalf of the President as a delegate and official adviser to the United States delegation in negotiations for any trade agreement to which this chapter applies. In addition, the chairmen and ranking members described in subparagraphs (A)(i) and (B)(i) shall each be permitted to designate up to 3 personnel with proper security clearances to serve as delegates and official advisers to the United States delegation in negotiations for any trade agreement to which this chapter applies. Each member of the congressional advisory groups described in subparagraphs (A)(ii) and (B)(ii) shall be accredited by the United States Trade Representative on behalf of the President as a delegate and official adviser to the United States delegation in the negotiations by reason of which the member is in one of the congressional advisory groups.
 
 #### (D) Consultation and advice
 
@@ -160,7 +160,7 @@
 
 #### (4) Dissemination
 
-&emsp;The United States Trade Representative shall disseminate the guidelines developed under paragraph (1) to all Federal agencies that could have jurisdiction over laws affected by trade negotiations.
+&emsp;The United States Trade Representative shall disseminate the guidelines developedunder paragraph (1) to all Federal agencies that could have jurisdiction over laws affected by trade negotiations.
 
 #### (e) Consultations with advisory committees
 
@@ -188,6 +188,8 @@
 
 (Pub. L. 114–26, title I, §104, June 29, 2015, 129 Stat. 337; Pub. L. 114–125, title IX, §914(d), Feb. 24, 2016, 130 Stat. 274.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this title", meaning title I of Pub. L. 114–26, June 29, 2015, 129 Stat. 320, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under section 4201 of this title and Tables.
@@ -202,9 +204,13 @@ Section is comprised of section 104 of Pub. L. 114–26. Subsec. (f) of section 
 
 Subsec. (c)(2)(C). Pub. L. 114–125, §914(d)(2), substituted "a delegate and official" for "an official" in two places and inserted after first sentence "In addition, the chairmen and ranking members described in subparagraphs (A)(i) and (B)(i) shall each be permitted to designate up to 3 personnel with proper security clearances to serve as delegates and official advisers to the United States delegation in negotiations for any trade agreement to which this chapter applies."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2016 Amendment
 
 Amendment by Pub. L. 114–125 effective as if included in the enactment of title I of Pub. L. 114–26, see section 914(g) of Pub. L. 114–125, set out as a note under section 4201 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

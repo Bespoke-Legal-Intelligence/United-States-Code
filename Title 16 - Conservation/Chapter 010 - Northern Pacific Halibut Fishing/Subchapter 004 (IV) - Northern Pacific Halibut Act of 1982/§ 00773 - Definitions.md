@@ -32,6 +32,8 @@ As used in this subchapter the term:
 
 <i>(h) "Special areas" means the areas referred to as eastern special areas in Article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990; in particular, the term refers to those areas east of the maritime boundary, as defined in that Agreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1811 of this title, referred to in subsec. (c), which established the fishery conservation zone, was amended generally by Pub. L. 99–659, title I, §101(b), Nov. 14, 1986, 100 Stat. 3706, and now relates to United States sovereign rights to fish and fishery management authority within the exclusive economic zone.
@@ -41,6 +43,8 @@ Proclamation Numbered 5030, referred to in subsec. (c), is Proc. No. 5030, Mar. 
 #### Amendments
 
 <b>1996</b>—Subsec. (c). Pub. L. 104–208 made technical amendment to reference in original act which appears in text as reference to section 1811 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 
@@ -56,11 +60,11 @@ In General.—The amendment made by section 301(e)(3) \[amending section 1822 of
 
 "(b)
 
-Authority To Prescribe Regulations.—The authority to prescribe regulations to implement the amendments made by this title shall be effective on the date of enactment of this Act \[Mar. 9, 1992\], but no such regulation may be effective until the date on which the Agreement described in subsection (a) enters into force for the United States."
+Authority To Prescribe Regulations.—The authority to prescribe regulations to implement the amendments made by this title shall be effective on the date of enactment of this Act \[Mar. 9, 1992\], but no such regulation may be effective until the date on which theAgreement described in subsection (a) enters into force for the United States."
 
 #### Short Title
 
-Pub. L. 97–176, §1, May 17, 1982, 96 Stat. 78, provided: "That this Act \[enacting this subchapter and repealingsubchapter III of this chapter\] may be cited as the 'Northern Pacific Halibut Act of 1982'."
+Pub. L. 97–176, §1, May 17, 1982, 96 Stat. 78, provided: "That this Act \[enacting this subchapter and repealing subchapter III of this chapter\] may be cited as the 'Northern Pacific Halibut Act of 1982'."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -22,7 +22,7 @@ In order to increase the opportunities and motivation for family planning and to
 
 (C) Appropriations pursuant to subparagraph (B) may be referred to as the "Child Survival Fund".
 
-(3) The Congress recognizes that the promotion of primary health care is a major objective of the foreign assistance program. The Congress further recognizes that simple, relatively low cost means already exist to reduce incidence of communicable diseases among children, mothers, and infants. The promotion of vaccines for immunization, and salts for oral rehydration, therefore, is an essential feature of the health assistance program. To this end, the Congress expects the agency primarily responsible for administering subchapter I of this chapter to set as a goal the protection of not less than 80 percent of all children, in those countries in which such agency has established development programs, from immunizable diseases by January 1, 1991. Of the aggregate amounts made available for fiscal year 1987 to carry out paragraph (2) of this subsection (relating to the Child Survival Fund) and to carry out subsection (c) (relating to development assistance for health), $50,000,000 shall be used to carry out this paragraph.
+(3) The Congress recognizes that the promotion of primary health care is a major objective of the foreign assistance program. The Congress further recognizes that simple, relatively low cost means already exist to reduce incidence of communicable diseases among children, mothers, and infants. The promotion of vaccines for immunization, and salts for oral rehydration, therefore, is an essential feature of the health assistance program. To this end, the Congress expects the agency primarily responsible for administering subchapter I of this chapter to set as a goal the protection of not less than 80 percent of all children, in those countries in which such agency has established development programs, from immunizable diseases by January 1, 1991. Of the aggregate amounts made available for fiscal year 1987 to carry out paragraph (2) of this subsection (relating to theChild Survival Fund) and to carry out subsection (c) (relating to development assistance for health), $50,000,000 shall be used to carry out this paragraph.
 
 (4)
 
@@ -52,7 +52,7 @@ Relationship to other laws.—Assistance made available under this subsection an
 
 (1) None of the funds made available to carry out subchapter I of this chapter may be used to pay for the performance of abortions as a method of family planning or to motivate or coerce any person to practice abortions.
 
-(2) None of the funds made available to carry out subchapter I of this chapter may be used topay for the performance of involuntary sterilizations as a method of family planning or to coerce or provide any financial incentive to any person to undergo sterilizations.
+(2) None of the funds made available to carry out subchapter I of this chapter may be used to pay for the performance of involuntary sterilizations as a method of family planning or to coerce or provide any financial incentive to any person to undergo sterilizations.
 
 (3) None of the funds made available to carry out subchapter I of this chapter may be used to pay for any biomedical research which relates, in whole or in part, to methods of, or the performance of, abortions or involuntary sterilization as a means of family planning.
 
@@ -150,7 +150,7 @@ Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L.
 
 #### Effective Date of 1977 Amendment
 
-Pub. L. 95–88, title I, §103(d), Aug. 3, 1977, 91 Stat. 535, provided that: "The amendment made by subsection (a) of this section \[amending this section\] shall take effect on October 1, 1977."
+Pub. L. 95–88, title I, §103(d), Aug. 3, 1977, 91 Stat. 535, provided that: "The amendment made by subsection (a)of this section \[amending this section\] shall take effect on October 1, 1977."
 
 #### Findings
 

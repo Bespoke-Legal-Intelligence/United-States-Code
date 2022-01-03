@@ -14,6 +14,8 @@ Waiver.—The Secretary of Defense may, pursuant to guidelines prescribed by the
 
 (Added Pub. L. 103–337, div. A, title III, §363(a)(1), Oct. 5, 1994, 108 Stat. 2733, §2410l; renumbered §4509, Pub. L. 116–283, div. A, title XVIII, §1856(g), Jan. 1, 2021, 134 Stat. 4275.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 4531, act Aug. 10, 1956, ch. 1041, 70A Stat. 253, authorized Secretary of the Army to procure materials and facilities necessary to maintain and support the Army, prior to repeal by Pub. L. 103–160, div. A, title VIII, §823(2), Nov. 30, 1993, 107 Stat. 1707.
@@ -48,7 +50,21 @@ Prior sections 4542 to 4544, 4551 to 4555, and 4561 to 4565 were renumbered sect
 
 <b>2021</b>—Pub. L. 116–283 renumbered section 2410l of this title as this section.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2021 Amendment
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+#### Effective Date
+
+Pub. L. 103–337, div. A, title III, §363(c), Oct. 5, 1994, 108 Stat. 2734, provided that: "Section 2410l of title 10, United States Code \[now 10 U.S.C. 4509\], as added by subsection (a), shall take effect 180 days after the date of the enactment of this Act \[Oct. 5, 1994\]."
+
+#### Procedures for Conduct of Studies
+
+Pub. L. 103–337, div. A, title III, §363(b), Oct. 5, 1994, 108 Stat. 2734, provided that: "The Secretary of Defense shall prescribe the following procedures:
+
+&emsp;"(1) Procedures for carrying out a cost comparison study under subsection (a)(2) of section 2410l of title 10, United States Code \[now 10 U.S.C. 4509(a)(2)\], as added by subsection (a), which may contain a requirement that the cost comparison study include consideration of factors that are not related to cost, including the quality of the service required to be performed, the availability of Department of Defense personnel, the duration and recurring nature of the services to be performed, and the consistency of the workload.
+
+&emsp;"(2) Procedures for reviewing contracts entered into after a waiver under subsection (b) of such section to determine whether the contract is justified and sufficiently documented."
 

@@ -24,7 +24,7 @@
 
 (B) A special agent described in this subparagraph is any such agent or former agent who—
 
-&emsp;(i)(I) retires voluntarily or involuntarily under section 4007, 4008, 4010a, 4051, 4052, or 4053 of this title, under conditions authorizing an immediate annuity, other than for cause on charges of misconduct or delinquency, or retires for disability under section 4048 of this title; and
+&emsp;(i)(I) retires voluntarily or involuntarily under section 4007, 4008, 4010a, 4051, 4052, or 4053 of this title, under conditions authorizing animmediate annuity, other than for cause on charges of misconduct or delinquency, or retires for disability under section 4048 of this title; and
 
 &emsp;(II) at the time of retirement—
 
@@ -50,7 +50,7 @@
 
 (1)(A) Except to the extent provided otherwise under a written election under subparagraph (B) or (C), if at the time of retirement a participant or former participant is married (or has a former spouse who has not remarried before attaining age 60), the participant shall receive a reduced annuity and provide a survivor annuity for his or her spouse under this subsection or former spouse under section 4054(b) of this title, or a combination of such annuities, as the case may be.
 
-(B) At the time of retirement, a married participant or former participant and his or herspouse may jointly elect in writing to waive a survivor annuity for that spouse under this section (or under section 4054(b) of this title if the spouse later qualifies as a former spouse under section 4044(6) of this title), or to reduce such survivor annuity under this section (or section 4054(b) of this title) by designating a portion of the annuity of the participant as the base for the survivor benefit. In the event the marriage is dissolved following an election for such a reduced annuity and the spouse qualifies as a former spouse, the base used in calculating any annuity of the former spouse under section 4054(b) of this title may not exceed the portion of the participant's annuity designated under this subparagraph.
+(B) At the time of retirement, a married participant or former participant and his or her spouse may jointly elect in writing to waive a survivor annuity for that spouse under this section (or under section 4054(b) of this title if the spouse later qualifies as a former spouse under section 4044(6) of this title), or to reduce such survivor annuity under this section (or section 4054(b) of this title) by designating a portion of the annuity of the participant as the base for the survivor benefit. In the event the marriage is dissolved following an election for such a reduced annuity and the spouse qualifies as a former spouse, the base used in calculating any annuity of the former spouse under section 4054(b) of this title may not exceed the portion of the participant's annuity designated under this subparagraph.
 
 (C) If a participant or former participant has a former spouse, the participant and such former spouse may jointly elect by spousal agreement under section 4060(b)(1) of this title to waive a survivor annuity under section 4054(b) of this title for that former spouse if the election is made (i) before the end of the 24-month period after the divorce or annulment involving that former spouse becomes final or (ii) at the time of retirement, whichever occurs first.
 
@@ -62,7 +62,7 @@
 
 (B) Notwithstanding subparagraph (A), the amount of the annuity calculated under subparagraph (A) for a surviving spouse in any case in which there is also a surviving former spouse of the participant who qualifies for an annuity under section 4054(b) of this title may not exceed 55 percent of the portion (if any) of the base for survivor benefits which remains available under section 4054(b)(4)(B) of this title.
 
-(C) An annuity payable from the Fund under this part to a surviving spouse under this paragraph shall commence on the day after the participant dies and shall terminate on the last day of the month before the surviving spouse's death or remarriage before attaining age 60. If such a survivor annuity is terminated because of remarriage, it shall be restored at the same rate commencing on the date such remarriage is terminated if any lump sum paid upon termination of the annuity is returned to the Fund.
+(C) An annuity payable from the Fund under this part to a surviving spouse under this paragraph shall commence on the day after the participant dies and shall terminate on the last day of the month before the surviving spouse's death or remarriage before attaining age 60. If such a survivor annuity is terminated because of remarriage, it shall be restored at the same ratecommencing on the date such remarriage is terminated if any lump sum paid upon termination of the annuity is returned to the Fund.
 
 #### (c) Surviving children
 
@@ -94,7 +94,7 @@ The annuity payable to a child under subsection (c) or (d) shall begin on the da
 
 #### (f) Unmarried participants
 
-At the time of retirement an unmarried participant who does not have a former spouse for whose benefit a reduction is made under subsection (b) may elect to receive a reduced annuity and to provide for an annuity equal to 55 percent of the reduced annuity payable after his or her death to a beneficiary whose name is designated in writing to the Secretary of State. The annuity payable to a participant making such election shall be reduced by 10 percent of an annuity computed under subsection (a) and by 5 percent of an annuity so computed for each full 5 years the designated beneficiary is younger than the retiring participant, but such total reduction shall not exceed 40 percent. No such election of a reduced annuity payable to a beneficiary shall be valid until the participant hassatisfactorily passed a physical examination as prescribed by the Secretary of State. The annuity payable to a beneficiary under this subsection shall begin on the day after the annuitant dies and shall terminate on the last day of the month preceding the death of the beneficiary. An annuity which is reduced under this subsection (or any similar prior provision of law) shall, effective the first day of the month following the death of the beneficiary named under this subsection, be recomputed and paid as if the annuity had not been so reduced.
+At the time of retirement an unmarried participant who does not have a former spouse for whose benefit a reduction is made under subsection (b) may elect to receive a reduced annuity and to provide for an annuity equal to 55 percent of the reduced annuity payable after his or her death to a beneficiary whose name is designated in writing to the Secretary of State. The annuity payable to a participant making such election shall be reduced by 10 percent of an annuity computed under subsection (a) and by 5 percent of an annuity so computed for each full 5 years the designated beneficiary is younger than the retiring participant, but such total reduction shall not exceed 40 percent. No such election of a reduced annuity payable to a beneficiary shall be valid until the participant has satisfactorily passed a physical examination as prescribed by the Secretary of State. The annuity payable to a beneficiary under this subsection shall begin on the day after the annuitant dies and shall terminate on the last day of the month preceding the death of the beneficiary. An annuity which is reduced under this subsection (or any similar prior provision of law) shall, effective the first day of the month following the death of the beneficiary named under this subsection, be recomputed and paid as if the annuity had not been so reduced.
 
 #### (g) Marriage after retirement
 
@@ -258,7 +258,7 @@ Month Period to Elect Survivor Annuity.—(1) Notwithstanding section 702 of thi
 
 "(B) For the purpose of applying the provisions of paragraph (1) of section 806(n) of the Foreign Service Act of 1980 (as added by section 407) to former participants who retire before the date on which the amendment first takes effect—
 
-&emsp;"(i) the period referred to in subparagraph (A) or (B) of such paragraph (as the case may be) shall be considered to begin on the date on which such amendment first becomes effective; and
+&emsp;"(i) the period referred to in subparagraph (A) or (B) of such paragraph (as the case may be) shall beconsidered to begin on the date on which such amendment first becomes effective; and
 
 &emsp;"(ii) the amount referred to in paragraph (2) of such section 806(n) shall be computed without regard to the provisions of subparagraph (B)(ii) of such paragraph (relating to interest).
 
@@ -314,7 +314,7 @@ Limitation.—The election authorized in subsection (a) may only be made within 
 
 "(h)
 
-Definitions.—For the purposes of this section, the terms 'participant' and 'surviving spouse' have thesame meaning given such terms in subchapter I of chapter 8 of the Foreign Service Act of 1980 \[this part\]."
+Definitions.—For the purposes of this section, the terms 'participant' and 'surviving spouse' have the same meaning given such terms in subchapter I of chapter 8 of the Foreign Service Act of 1980 \[this part\]."
 
 <i><sup>1</sup></i><i> See Amendment of Section note below.</i>
 

@@ -38,7 +38,7 @@ If for any 12-month period beginning on or after January 1, 1981, the Secretary,
 
 &emsp;&emsp;(II) 3.25 percent.
 
-&emsp;(ii) For any 12-month period beginning on July 1 of 2001 or any succeeding year, the rate determined under this subparagraph is determined on the preceding June 26 and is equal to—
+&emsp;(ii) For any 12-month period beginning on July 1 of 2001 or any succeeding year, the ratedetermined under this subparagraph is determined on the preceding June 26 and is equal to—
 
 &emsp;&emsp;(I) the weekly average 1-year constant maturity Treasury yield, as published by the Board of Governors of the Federal Reserve System, for the last calendar week ending on or before such June 26; plus
 
@@ -136,7 +136,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (1) In general
 
-&emsp;Notwithstanding subsections (a), (b), (d), (e), (f), and (g) of this section, with respect to anyloan made, insured, or guaranteed under this part (other than a loan made pursuant to sections 1078–2 and 1078–3 of this title) for which the first disbursement is made on or after July 1, 1998, the applicable rate of interest shall, during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to—
+&emsp;Notwithstanding subsections (a), (b), (d), (e), (f), and (g) of this section, with respect to any loan made, insured, or guaranteed under this part (other than a loan made pursuant to sections 1078–2 and 1078–3 of this title) for which the first disbursement is made on or after July 1, 1998, the applicable rate of interest shall, during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to—
 
 &emsp;&emsp;(A) the bond equivalent rate of the securities with a comparable maturity as established by the Secretary; plus
 
@@ -252,7 +252,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (4) Consultation
 
-&emsp;The Secretary shall determine the applicable rate of interest under this subsection afterconsultation with the Secretary of the Treasury and shall publish such rate in the Federal Register as soon as practicable after the date of determination.
+&emsp;The Secretary shall determine the applicable rate of interest under this subsection after consultation with the Secretary of the Treasury and shall publish such rate in the Federal Register as soon as practicable after the date of determination.
 
 #### (k) Interest rates for new loans on or after October 1, 1998, and before July 1, 2006
 
@@ -316,7 +316,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (4) Reduced rates for undergraduate subsidized loans
 
-&emsp;Notwithstanding subsection (h) and paragraph (1) of this subsection, with respect to any loan to an undergraduate student made, insured, or guaranteed under this part (other than a loan made pursuant to section 1078–2, 1078–3, or 1078–8 of this title) for which the first disbursement is made on or after July 1, 2006, and before July 1, 2010, the applicable rate of interest shall be as follows:
+&emsp;Notwithstanding subsection (h) and paragraph (1) of this subsection, with respect to any loan to an undergraduate student made, insured, or guaranteed under this part (other than a loan made pursuant to section 1078–2,1078–3, or 1078–8 of this title) for which the first disbursement is made on or after July 1, 2006, and before July 1, 2010, the applicable rate of interest shall be as follows:
 
 &emsp;&emsp;(A) For a loan for which the first disbursement is made on or after July 1, 2006, and before July 1, 2008, 6.8 percent on the unpaid principal balance of the loan.
 
@@ -337,6 +337,8 @@ For the purpose of subsections (a) and (d) of this section—
 &emsp;(2) the term "period of enrollment" shall be the period for which the loan is made as determined by the institution of higher education and shall coincide with academic terms such as academic year, semester, trimester, quarter, or other academic period as defined by such institution.
 
 (Pub. L. 89–329, title IV, §427A, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1364; amended Pub. L. 100–50, §10(d)(1), June 3, 1987, 101 Stat. 342; Pub. L. 102–325, title IV, §415, July 23, 1992, 106 Stat. 514; Pub. L. 103–66, title IV, §4101, Aug. 10, 1993, 107 Stat. 364; Pub. L. 103–208, §2(c)(5)–(10), Dec. 20, 1993, 107 Stat. 2461; Pub. L. 105–178, title VIII, §8301(a)(1), June 9, 1998, 112 Stat. 496; Pub. L. 105–244, title IV, §416(a)(1), Oct. 7, 1998, 112 Stat. 1679; Pub. L. 106–554, §1(a)(1) \[title III, §318(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49; Pub. L. 107–139, §1(a)(1), (c), Feb. 8, 2002, 116 Stat. 8, 9; Pub. L. 109–171, title VIII, §8006(a), Feb. 8, 2006, 120 Stat. 159; Pub. L. 110–84, title II, §201(a)(1), Sept. 27, 2007, 121 Stat. 790; Pub. L. 111–152, title II, §2203, Mar. 30, 2010, 124 Stat. 1074.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -418,7 +420,7 @@ Subsecs. (j), (k). Pub. L. 103–66, §4101(2), redesignated subsecs. (g) and (h
 
 Subsec. (e). Pub. L. 102–325, §415(c)(2), added subsec. (e). Former subsec. (e) redesignated (f).
 
-Pub. L. 102–325, §415(b), amended par. (1) heading and substituted "paragraph (5)" for "paragraph (3)" in par. (1)(B), amended par. (2) heading, added pars. (3) and (4), redesignated former par. (3) as (5), struck out "or" before "by reducing the number" and inserted ", or by reducing the amount of the final payment of the loan. Nothing in this paragraph shall be construed to requirethe lender to make additional disclosures pursuant to section 1083(b) of this title" before period at end, redesignated former par. (4) as (6), and struck out former par. (5) which provided for study of treatment of excess interest payments provisions.
+Pub. L. 102–325, §415(b), amended par. (1) heading and substituted "paragraph (5)" for "paragraph (3)" in par. (1)(B), amended par. (2) heading, added pars. (3) and (4), redesignated former par. (3) as (5), struck out "or" before "by reducing the number" and inserted ", or by reducing the amount of the final payment of the loan. Nothing in this paragraph shall be construed to require the lender to make additional disclosures pursuant to section 1083(b) of this title" before period at end, redesignated former par. (4) as (6), and struck out former par. (5) which provided for study of treatment of excess interest payments provisions.
 
 Subsecs. (f) to (h). Pub. L. 102–325, §415(c)(1), redesignated subsecs. (e) to (g) as (f) to (h), respectively.
 
@@ -429,6 +431,8 @@ Subsec. (c)(4)(B). Pub. L. 100–50, §10(d)(1)(C), added subpar. (B) and struck
 &emsp;"(i) the average of the bond equivalent rates of 91-day Treasury bills auctioned during the 12 months ending on November 30 preceding such calendar year; plus
 
 &emsp;"(ii) 3.75 percent."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

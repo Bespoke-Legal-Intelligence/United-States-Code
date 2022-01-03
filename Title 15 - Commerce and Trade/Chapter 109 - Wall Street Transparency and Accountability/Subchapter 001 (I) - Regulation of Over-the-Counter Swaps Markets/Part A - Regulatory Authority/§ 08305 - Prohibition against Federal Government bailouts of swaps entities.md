@@ -148,6 +148,8 @@ An insured depository institution shall comply with the prohibition on proprieta
 
 (Pub. L. 111–203, title VII, §716, July 21, 2010, 124 Stat. 1648; Pub. L. 113–235, div. E, title VI, §630, Dec. 16, 2014, 128 Stat. 2378.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Commodity Exchange Act, referred to in subsec. (b)(2)(A)(i), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
@@ -189,6 +191,8 @@ Limitation on credit default swaps.—Acting as a swaps entity for credit defaul
 Subsec. (e). Pub. L. 113–235, §630(4), substituted "a covered" for "an insured".
 
 Subsec. (f). Pub. L. 113–235, §630(5), substituted "a covered depository" for "an insured depository" and substituted "the covered depository" for "the insured depository" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

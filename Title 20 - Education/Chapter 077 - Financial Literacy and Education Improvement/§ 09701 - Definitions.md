@@ -8,6 +8,8 @@ As used in this chapter—
 
 (Pub. L. 108–159, title V, §512, Dec. 4, 2003, 117 Stat. 2003.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section subject to joint regulations establishing effective dates as prescribed by Federal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as an Effective Date of 2003 Amendment note under section 1681 of Title 15, Commerce and Trade.
@@ -15,6 +17,8 @@ Section subject to joint regulations establishing effective dates as prescribed 
 #### Short Title
 
 Pub. L. 108–159, title V, §511, Dec. 4, 2003, 117 Stat. 2003, provided that: "This title \[enacting this chapter\] may be cited as the 'Financial Literacy and Education Improvement Act'."
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13455. Establishing the President's Advisory Council on Financial Literacy
 
@@ -32,7 +36,7 @@ Sec. 3. <i>Membership and Operation of the Council</i>. (a) The Council shall co
 
 (c) The President shall designate a Chair and a Vice Chair from among the members of the Council.
 
-(d) Subject to the direction of the Secretary of the Treasury (Secretary), the Chair shall convene and preside at meetings of the Council, determine its agenda, direct its work, and, as appropriate to deal with particular subject matters, establish and direct the workof subgroups of the Council that shall consist exclusively of members of the Council.
+(d) Subject to the direction of the Secretary of the Treasury (Secretary), the Chair shall convene and preside at meetings of the Council, determine its agenda, direct its work, and, as appropriate to deal with particular subject matters, establish and direct the work of subgroups of the Council that shall consist exclusively of members of the Council.
 
 (e) The Vice Chair shall perform:
 

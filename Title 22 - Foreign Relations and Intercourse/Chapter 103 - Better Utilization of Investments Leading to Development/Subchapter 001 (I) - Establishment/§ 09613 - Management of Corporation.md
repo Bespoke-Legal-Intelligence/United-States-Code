@@ -120,7 +120,7 @@ There shall be in the Corporation a Deputy Chief Executive Officer, who shall be
 
 #### (1) Appointment
 
-&emsp;Subject to the approval of the Board, the Chief Executive Officer of the Corporation shall appoint a Chief Risk Officer, from among individuals with experience at a senior level in financial risk management, who—
+&emsp;Subject to the approval of the Board, the Chief Executive Officer of the Corporationshall appoint a Chief Risk Officer, from among individuals with experience at a senior level in financial risk management, who—
 
 &emsp;&emsp;(A) shall report directly to the Board; and
 

@@ -8,6 +8,8 @@ There is authorized to be appropriated $133,000,000 for fiscal year 2015 and eac
 
 <i>For termination of section, see section 4564(a) of this title.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning act Sept. 8, 1950, ch. 932, 64 Stat. 798, known as the Defense Production Act of 1950, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 4501 of this title and Tables.
@@ -38,7 +40,7 @@ Section was formerly classified to section 2161 of the former Appendix to this t
 
 <b>1995</b>—Subsec. (a). Pub. L. 104–64, §3(1), struck out paragraph designation "(1)" and former par. (1) heading "In general" and in text substituted "Except as provided in subsection (b)," for "Except as provided in subsection (c),".
 
-Subsecs. (b) to (d). Pub. L. 104–64, §3(2), added subsec. (b) and struck out former subsec. (b) which authorized appropriations to carry out provisions of section 305(k)(2) of act Sept. 8, 1950, ch. 932, former subsec. (c) which authorized appropriations for fiscal year 1991 to carry out provisions of sections 4531 to 4533 of this title, and former subsec. (d) which authorized appropriations for fiscal years 1993, 1994, and 1995 to carry out subchapter II of this chapter.
+Subsecs. (b) to (d). Pub. L. 104–64, §3(2), added subsec. (b) and struck out former subsec. (b) which authorizedappropriations to carry out provisions of section 305(k)(2) of act Sept. 8, 1950, ch. 932, former subsec. (c) which authorized appropriations for fiscal year 1991 to carry out provisions of sections 4531 to 4533 of this title, and former subsec. (d) which authorized appropriations for fiscal years 1993, 1994, and 1995 to carry out subchapter II of this chapter.
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–558, §152(2)(A), inserted heading.
 
@@ -82,6 +84,8 @@ Subsec. (d). Pub. L. 102–558, §161, added subsec. (d).
 
 <b>1974</b>—Pub. L. 93–426 designated existing provisions as subsec. (a), inserted reference to sections 4532 and 4533 of this title, and added subsec. (b).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–558 deemed to have become effective Mar. 1, 1992, see section 304 of Pub. L. 102–558, set out as a note under section 4502 of this title.
@@ -93,6 +97,8 @@ Amendment by Pub. L. 102–99 effective Oct. 20, 1990, see section 7 of Pub. L. 
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–294 effective June 30, 1980, see section 107 of Pub. L. 96–294, set out as a note under section 4502 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

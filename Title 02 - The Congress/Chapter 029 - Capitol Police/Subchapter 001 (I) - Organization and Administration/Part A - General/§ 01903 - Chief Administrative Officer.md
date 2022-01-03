@@ -54,7 +54,7 @@ The Chief Administrative Officer shall have the following areas of responsibilit
 
 &emsp;&emsp;&emsp;(ii) the implementation of Capitol Police asset management systems, including systems for cash management, debt collection, and property and inventory management and control; and
 
-&emsp;&emsp;(D) Prepare <sup>1</sup> annual financial statements for the Capitol Police, and such financialstatements shall be audited by the Inspector General of the Capitol Police or by an independent public accountant, as determined by the Inspector General.
+&emsp;&emsp;(D) Prepare <sup>1</sup> annual financial statements for the Capitol Police, and such financial statements shall be audited by the Inspector General of the Capitol Police or by an independent public accountant, as determined by the Inspector General.
 
 #### (3) Information technology
 
@@ -122,7 +122,7 @@ Pub. L. 106–346, §101(a) \[title V, §507(b)\], Oct. 23, 2000, 114 Stat. 1356
 
 #### Construction of 2010 Amendment
 
-Pub. L. 111–145, §2(a)(6), Mar. 4, 2010, 124 Stat. 50, provided that: "Nothing in the amendments made by this subsection \[amending this section and sections 1301, 1904, and 1907 of this title and repealing sections 1928 and 1929 of this title\] may be construed to affect the status of any individual serving as an officer or employee of the United States Capitol Police as of the date of the enactment of this Act \[Mar. 4, 2010\]."
+Pub. L. 111–145, §2(a)(6), Mar. 4, 2010, 124 Stat. 50, provided that: "Nothing in the amendments made by thissubsection \[amending this section and sections 1301, 1904, and 1907 of this title and repealing sections 1928 and 1929 of this title\] may be construed to affect the status of any individual serving as an officer or employee of the United States Capitol Police as of the date of the enactment of this Act \[Mar. 4, 2010\]."
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

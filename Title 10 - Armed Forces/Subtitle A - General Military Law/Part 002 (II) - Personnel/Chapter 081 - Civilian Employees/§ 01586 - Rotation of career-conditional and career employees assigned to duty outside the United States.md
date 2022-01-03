@@ -36,13 +36,15 @@
 
 (g) In this section:
 
-&emsp;(1) The term "rotation" means the assignment of civilian employees referred to in subsection (b) to duty outside the United States and the return of such employees to duty within the United States.
+&emsp;(1) The term "rotation" means the assignment of civilian employees referred to in subsection (b) to duty outside the United Statesand the return of such employees to duty within the United States.
 
 &emsp;(2) The term "grade" means, as applicable, a grade of the General Schedule as prescribed in section 5104 of title 5 or a grade or level of the appropriate prevailing rate schedule.
 
 (h) The Secretary of Defense may, under such regulations as he may prescribe, make the provisions of subsections (a) through (g) applicable to civilian employees of the Department of Defense who are residents of Guam, the Virgin Islands, or the Commonwealth of Puerto Rico at the time of their employment by the Department of Defense in the same manner as if the references in such subsections to the United States (when used in a geographical sense) were references to Guam, the Virgin Islands, or the Commonwealth of Puerto Rico, as the case may be.
 
 (Added Pub. L. 86–585, §1, July 5, 1960, 74 Stat. 325; amended Pub. L. 89–718, §15, Nov. 2, 1966, 80 Stat. 1117; Pub. L. 90–83, §3(3), Sept. 11, 1967, 81 Stat. 220; Pub. L. 96–513, title V, §511(61), Dec. 12, 1980, 94 Stat. 2925; Pub. L. 96–600, §1, Dec. 24, 1980, 94 Stat. 3493; Pub. L. 97–295, §1(20)(A), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 98–525, title XIV, §1405(29), Oct. 19, 1984, 98 Stat. 2623; Pub. L. 101–189, div. A, title XVI, §1622(e)(4), Nov. 29, 1989, 103 Stat. 1605.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -80,9 +82,13 @@ Subsec. (h). Pub. L. 96–600 added subsec. (h).
 
 <b>1966</b>—Pub. L. 89–718 substituted "sections 3501–3503 of title 5" for "section 12 of the Act of June 27, 1944 (5 U.S.C. 861)" wherever appearing.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 10895. Duty in Alaska or Hawaii
 

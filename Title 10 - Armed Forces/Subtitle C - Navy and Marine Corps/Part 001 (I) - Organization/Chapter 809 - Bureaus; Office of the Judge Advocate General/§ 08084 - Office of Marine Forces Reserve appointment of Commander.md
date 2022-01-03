@@ -34,13 +34,15 @@ Annual Report.—The Commander, Marine Forces Reserve, shall submit to the Secre
 
 (Added Pub. L. 104–201, div. A, title XII, §1212(c)(1), Sept. 23, 1996, 110 Stat. 2692, §5144; amended Pub. L. 106–65, div. A, title V, §554(d), Oct. 5, 1999, 113 Stat. 617; Pub. L. 106–398, §1 \[\[div. A\], title V, §507(c), title X, §1087(a)(19)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–103, 1654A–291; Pub. L. 107–314, div. A, title V, §501(a), Dec. 2, 2002, 116 Stat. 2529; Pub. L. 108–375, div. A, title V, §536(a), Oct. 28, 2004, 118 Stat. 1901; Pub. L. 114–328, div. A, title V, §502(ee), Dec. 23, 2016, 130 Stat. 2105; Pub. L. 115–91, div. A, title X, §1051(a)(29), Dec. 12, 2017, 131 Stat. 1562; renumbered §8084 and amended Pub. L. 115–232, div. A, title VIII, §§807(a)(2), 809(a), Aug. 13, 2018, 132 Stat. 1834, 1840; Pub. L. 116–92, div. A, title V, §514(a), Dec. 20, 2019, 133 Stat. 1349.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 8084 was renumbered section 9084 of this title.
 
 #### Amendments
 
-<b>2019</b>—Subsec. (b)(1). Pub. L. 116–92 substituted "general officers of the Marine Corps Reserve" for "general officers of the Marine Corps (as defined in section 8001(2))".
+<b>2019</b>—Subsec. (b)(1). Pub. L. 116–92 substituted "general officers of the Marine Corps Reserve" for "generalofficers of the Marine Corps (as defined in section 8001(2))".
 
 <b>2018</b>—Pub. L. 115–232, §807(a)(2), renumbered section 5144 of this title as this section.
 
@@ -74,6 +76,8 @@ Subsec. (c)(2). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(19)\], s
 
 <b>1999</b>—Subsec. (c)(2). Pub. L. 106–65 substituted "major general" for "above brigadier general" and inserted at end "However, if selected in accordance with section 12505 of this title, he may be appointed in the grade of lieutenant general."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2019 Amendment
 
 Pub. L. 116–92, div. A, title V, §514(b), Dec. 20, 2019, 133 Stat. 1349, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the date that is one year after the date of the enactment of this Act \[Dec. 20, 2019\] and shall apply to appointments made after such date."
@@ -84,5 +88,5 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Effective Date of 1999 Amendment; Applicability to Incumbents
 
-Amendment by Pub. L. 106–65 effective 60 days after Oct. 5, 1999, with special provision for an officer who is a covered position incumbent who is appointed under that amendment to the grade of lieutenant general orvice admiral, see section 554(g), (h) of Pub. L. 106–65, set out as a note under section 7038 of this title.
+Amendment by Pub. L. 106–65 effective 60 days after Oct. 5, 1999, with special provision for an officer who is a covered position incumbent who is appointed under that amendment to the grade of lieutenant general or vice admiral, see section 554(g), (h) of Pub. L. 106–65, set out as a note under section 7038 of this title.
 

@@ -26,7 +26,7 @@
 
 #### (ii) Denial of consent
 
-&emsp;&emsp;&emsp;If the Pueblo denies consent for a new use within 30 days after receipt by the Pueblo of the proposed record of decision or decision notice, the new use shall not be authorized.
+&emsp;&emsp;&emsp;If the Pueblo denies consent for a new use within 30 days after receipt by the Pueblo of the proposed record of decisionor decision notice, the new use shall not be authorized.
 
 #### (iii) Failure to respond
 
@@ -50,7 +50,7 @@
 
 #### (B) Court challenge
 
-&emsp;&emsp;Any person may bring a civil action in the United States District Court for the District of New Mexico to challenge a determinationby the Secretary concerning whether a use constitutes a new use or a modified use.
+&emsp;&emsp;Any person may bring a civil action in the United States District Court for the District of New Mexico to challenge a determination by the Secretary concerning whether a use constitutes a new use or a modified use.
 
 #### (b) Emergencies and emergency closure orders
 

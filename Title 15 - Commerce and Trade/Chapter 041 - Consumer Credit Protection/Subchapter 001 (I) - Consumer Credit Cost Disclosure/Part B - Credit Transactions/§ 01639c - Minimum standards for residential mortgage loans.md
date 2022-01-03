@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(C) Total points and fees (as defined in section 1602(aa)(4) <sup>1</sup> of this title, other than bona fide third party charges not retained by the mortgage originator, creditor, or an affiliate of the creditor or mortgage originator) payable in connection with the refinancing do not exceed 3 percent of the total new loan amount.
 
-&emsp;&emsp;(D) The interest rate on the refinanced loan is lower than the interest rate of the original loan, unless the borrower is refinancing from an adjustable rate to a fixed-rate loan, under guidelines that the department or agency shall establish for loans they make, guarantee, or issue.
+&emsp;&emsp;(D) The interest rate on the refinanced loan is lower than the interest rate of theoriginal loan, unless the borrower is refinancing from an adjustable rate to a fixed-rate loan, under guidelines that the department or agency shall establish for loans they make, guarantee, or issue.
 
 &emsp;&emsp;(E) The refinancing is subject to a payment schedule that will fully amortize the refinancing in accordance with the regulations prescribed by the department or agency making, guaranteeing, or insuring the refinancing.
 
@@ -76,7 +76,7 @@
 
 #### (7) Fully-indexed rate defined
 
-&emsp;For purposes of this subsection, the term "fully indexed rate" means the index rate prevailing on a residential mortgage loan at thetime the loan is made plus the margin that will apply after the expiration of any introductory interest rates.
+&emsp;For purposes of this subsection, the term "fully indexed rate" means the index rate prevailing on a residential mortgage loan at the time the loan is made plus the margin that will apply after the expiration of any introductory interest rates.
 
 #### (8) Reverse mortgages and bridge loans
 
@@ -142,7 +142,7 @@
 
 #### (iii) Bona fide discount points defined
 
-&emsp;&emsp;&emsp;For purposes of clause (ii), the term "bona fide discount points" means loan discount points which are knowingly paid by the consumer for the purpose of reducing, and which in fact result in a bona fidereduction of, the interest rate or time-price differential applicable to the mortgage.
+&emsp;&emsp;&emsp;For purposes of clause (ii), the term "bona fide discount points" means loan discount points which are knowingly paid by the consumer for the purpose of reducing, and which in fact result in a bona fide reduction of, the interest rate or time-price differential applicable to the mortgage.
 
 #### (iv) Interest rate reduction
 
@@ -158,7 +158,7 @@
 
 &emsp;&emsp;&emsp;(i) that meets all of the criteria for a qualified mortgage under subparagraph (A) (except clauses (i)(II), (ii), (iv), and (v) of such subparagraph);
 
-&emsp;&emsp;&emsp;(ii) for which the creditor makes a determination that the consumer is able to make all scheduled payments, except the balloon payment, out of income or assets other than the collateral;
+&emsp;&emsp;&emsp;(ii) for which the creditor makes a determination that the consumer is able tomake all scheduled payments, except the balloon payment, out of income or assets other than the collateral;
 
 &emsp;&emsp;&emsp;(iii) for which the underwriting is based on a payment schedule that fully amortizes the loan over a period of not more than 30 years and takes into account all applicable taxes, insurance, and assessments; and
 
@@ -240,7 +240,7 @@
 
 #### (ii) Loan definition
 
-&emsp;&emsp;&emsp;The following agencies shall, in consultation with the Bureau, prescribe rules defining the types of loans they insure, guarantee, or administer, as the case may be, that are qualified mortgages for purposes of paragraph (2)(A), and such rules may revise, add to, or subtract from the criteria used to define a qualified mortgage under paragraph (2)(A), upon a finding that such rules are consistent with the purposes of this section and section 1639b of this title, to prevent circumvention or evasion thereof, or to facilitate compliance with such sections:
+&emsp;&emsp;&emsp;The following agencies shall, in consultation with the Bureau, prescribe rules defining the types of loans they insure,guarantee, or administer, as the case may be, that are qualified mortgages for purposes of paragraph (2)(A), and such rules may revise, add to, or subtract from the criteria used to define a qualified mortgage under paragraph (2)(A), upon a finding that such rules are consistent with the purposes of this section and section 1639b of this title, to prevent circumvention or evasion thereof, or to facilitate compliance with such sections:
 
 &emsp;&emsp;&emsp;&emsp;(I) The Department of Housing and Urban Development, with regard to mortgages insured under the National Housing Act \[12 U.S.C. 1701 et seq.\].
 
@@ -382,6 +382,8 @@ This section and any regulations promulgated under this section do not apply to 
 
 (Pub. L. 90–321, title I, §129C, as added and amended Pub. L. 111–203, title X, §1100A(2), title XIV, §§1411(a)(2), 1412, 1414(a), (c), (d), July 21, 2010, 124 Stat. 2107, 2142, 2145, 2149, 2152; Pub. L. 114–94, div. G, title LXXXIX, §89003(1), Dec. 4, 2015, 129 Stat. 1800; Pub. L. 115–174, title I, §101, title III, §307, May 24, 2018, 132 Stat. 1297, 1347.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1602(aa)(4) of this title, referred to in subsecs. (a)(5)(C) and (b)(2)(C)(i), was redesignated section 1602(bb)(4) of this title by Pub. L. 111–203, title X, §1100A(1)(A), July 21, 2010, 124 Stat. 2107.
@@ -409,6 +411,8 @@ Subsecs. (c) to (f). Pub. L. 111–203, §1414(a), added subsecs. (c) to (f).
 Subsec. (g). Pub. L. 111–203, §1414(c), added subsec. (g).
 
 Subsecs. (h), (i). Pub. L. 111–203, §1414(d), added subsecs. (h) and (i).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

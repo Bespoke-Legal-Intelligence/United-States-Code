@@ -4,6 +4,8 @@ The Secretary of the Interior may, in his discretion, execute leases to parcels 
 
 (Feb. 26, 1917, ch. 121, §7, 39 Stat. 939; May 21, 1928, ch. 654, §1, 45 Stat. 622.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1928</b>—Act May 21, 1928, repealed provision that no appropriation for the maintenance of the park in excess of $10,000 annually should be made unless expressly authorized by law.

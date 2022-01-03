@@ -20,6 +20,8 @@ The Federal share of funds allotted to States under this subchapter shall not ex
 
 (Pub. L. 94–482, title III, §332, Oct. 12, 1976, 90 Stat. 2222; Pub. L. 95–207, §16, Dec. 13, 1977, 91 Stat. 1474; Pub. L. 96–88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1226a of this title, referred to in subsec. (a), was in the original a reference to section 414 of the General Education Provisions Act. Section 414 of that Act was renumbered as section 422 by Pub. L. 103–382, title II, §212(b)(1), Oct. 20, 1994, 108 Stat. 3913, and is classified to section 1226a of this title.
@@ -29,6 +31,8 @@ Section 1226a of this title, referred to in subsec. (a), was in the original a r
 <b>1977</b>—Subsec. (b)(2). Pub. L. 95–207, §16(1), substituted "1 per centum" for "3 per centum" and struck out "the Commonwealth of Puerto Rico," after "shall allot such amount among".
 
 Subsec. (b)(3)(B). Pub. L. 95–207, §16(2), substituted ", the District of Columbia, and the Commonwealth of Puerto Rico" for "and the District of Columbia".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -41,6 +45,8 @@ The directory language of, but not the amendment made by, Pub. L. 95–207, §16
 #### Transfer of Functions
 
 "Secretary of Education" substituted for "Commissioner of Education" and "Commissioner" in subsecs. (b)(1), (2), and (3)(A) pursuant to sections 301(a)(1) and 507 of Pub. L. 96–88, which are classified to sections 3441(a)(1) and 3507 of this title and which transferred functions of Commissioner of Education to Secretary of Education.
+
+#### <b>Executive Documents</b>
 
 #### Termination of Trust Territory of the Pacific Islands
 

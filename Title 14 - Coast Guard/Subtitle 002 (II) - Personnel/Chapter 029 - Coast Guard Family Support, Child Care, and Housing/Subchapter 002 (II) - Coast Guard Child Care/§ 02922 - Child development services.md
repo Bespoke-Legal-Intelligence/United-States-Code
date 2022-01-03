@@ -6,7 +6,7 @@
 
 (2)(A) The Commandant is authorized to establish, by regulations, fees to be charged parents for the attendance of children at Coast Guard child development centers.
 
-(B) Fees to be charged, pursuant to subparagraph (A), shall be based on family income and whether a family is participating in an initiative established under section 2925(b), except that the Commandant may, on a case-by-basebasis, establish fees at lower rates if such rates would not be competitive with rates at local child development centers.
+(B) Fees to be charged, pursuant to subparagraph (A), shall be based on family income and whether a family is participating in an initiative established under section 2925(b), except that the Commandant may, on a case-by-base basis, establish fees at lower rates if such rates would not be competitive with rates at local child development centers.
 
 (C) The Commandant is authorized to collect and expend fees, established pursuant to this subparagraph, and such fees shall, without further appropriation, remain available until expended for the purpose of providing services, including the compensation of employees and the purchase of consumable and disposable items, at Coast Guard child development centers.
 
@@ -44,7 +44,7 @@ Subsec. (e). Pub. L. 113–281, §214(b)(1)(B)(ii)(II), struck out subsec. (e) w
 
 Subsecs. (d) to (g). Pub. L. 111–281, §222(2), (3), redesignated subsecs. (f) and (g) as (d) and (e), respectively, and struck out former subsecs. (d) and (e) which read as follows:
 
-"(d) Of the amounts available to the Coast Guard each fiscal year for operating expenses (and in addition to amounts received as fees), the Secretary may use for child development services under this section an amount not to exceed the total amount the Commandant estimates will be received by the Coast Guard in the fiscal year as fees for the provision of those services.
+"(d) Of the amounts available to the Coast Guard each fiscal year for operating expenses (and in addition to amounts received as fees), the Secretary may use forchild development services under this section an amount not to exceed the total amount the Commandant estimates will be received by the Coast Guard in the fiscal year as fees for the provision of those services.
 
 "(e) The Commandant may use appropriated funds available to the Coast Guard to provide assistance to family home day care providers so that family home day care services can be provided to uniformed service members and civilian employees of the Coast Guard at a cost comparable to the cost of services provided by Coast Guard child development centers."
 
@@ -214,7 +214,7 @@ Pub. L. 116–283, div. G, title LVXXXII \[LXXXII\], §8238, Jan. 1, 2021, 134 S
 
 #### Use of Coast Guard and Military Child Development Centers
 
-Pub. L. 108–293, title II, §225, Aug. 9, 2004, 118 Stat. 1040, provided that: "The Secretary of Defense and the Secretary of the department in which the Coast Guard is operating, when operating other than as a service inthe Navy, may agree to provide child care services to members of the armed forces, with reimbursement, in Coast Guard and military child development centers supported in whole or in part with appropriated funds. For purposes of military child development centers operated under the authority of subchapter II of chapter 88 of title 10, United States Code, the child of a member of the Coast Guard shall be considered the same as the child of a member of any of the other armed forces."
+Pub. L. 108–293, title II, §225, Aug. 9, 2004, 118 Stat. 1040, provided that: "The Secretary of Defense and the Secretary of the department in which the Coast Guard is operating, when operating other than as a service in the Navy, may agree to provide child care services to members of the armed forces, with reimbursement, in Coast Guard and military child development centers supported in whole or in part with appropriated funds. For purposes of military child development centers operated under the authority of subchapter II of chapter 88 of title 10, United States Code, the child of a member of the Coast Guard shall be considered the same as the child of a member of any of the other armed forces."
 
 #### Definitions
 

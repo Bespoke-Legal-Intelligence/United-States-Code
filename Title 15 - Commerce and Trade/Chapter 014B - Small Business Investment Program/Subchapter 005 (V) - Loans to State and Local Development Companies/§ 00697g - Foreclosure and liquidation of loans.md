@@ -46,7 +46,7 @@ In accordance with this section, the Administration shall delegate to any qualif
 
 &emsp;&emsp;&emsp;&emsp;(I) the outcome of the litigation may adversely affect the Administration's management of the loan program established under section 696 of this title; or
 
-&emsp;&emsp;&emsp;&emsp;(II) the Administration is entitled to legal remedies not available to a qualified State or local development company and such remedies will benefit either the Administration or the qualified State or local development company; or
+&emsp;&emsp;&emsp;&emsp;(II) the Administration is entitled to legal remedies not available to a qualified State or local development company and such remedies will benefit either theAdministration or the qualified State or local development company; or
 
 &emsp;&emsp;&emsp;(ii) oversee the conduct of any such litigation; and
 
@@ -176,9 +176,13 @@ The Administration may revoke or suspend a delegation of authority under this se
 
 (Pub. L. 85–699, title V, §510, as added Pub. L. 106–554, §1(a)(9) \[title III, §307(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–685.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Small Business Programs Improvement Act of 1996, referred to in subsec. (b)(1)(A)(i), is Pub. L. 104–208, div. D, Sept. 30, 1996, 110 Stat. 3009–724. Provisions relating to loan liquidation pilot program are contained in section 204 of title II of div. D of Pub. L. 104–208, which is set out as a note under section 695 of this title. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 631 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

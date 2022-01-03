@@ -40,6 +40,8 @@ In subsection (a), the words "such a comprehensive \* \* \* as will ultimately
 
 In subsection (b), the words "United States" are substituted for the word "Congress". The words "members of the armed forces" are substituted for the words "those in any branch of the military or naval service". The words "of the United States" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4309 of this title as this section.
@@ -67,6 +69,8 @@ Regulations.—Regulations to carry out this section shall be prescribed by the 
 "(b) All rifle ranges established under subsection (a) and all rifle ranges already constructed, in whole or in part with funds provided by the United States, may be used by members of the armed forces and by all able-bodied persons capable of bearing arms, under regulations prescribed by the authorities controlling those ranges and approved by the Secretary."
 
 <b>1985</b>—Subsec. (b). Pub. L. 99–145 substituted "persons" for "males".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

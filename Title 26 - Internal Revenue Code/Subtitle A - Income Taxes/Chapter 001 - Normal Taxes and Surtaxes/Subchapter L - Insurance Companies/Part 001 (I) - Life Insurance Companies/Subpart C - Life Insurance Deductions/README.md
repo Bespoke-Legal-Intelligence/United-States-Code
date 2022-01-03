@@ -11,6 +11,8 @@ Subpart C—Life Insurance Deductions
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Pub. L. 115–97, title I, §§13511(b)(1), 13512(a), Dec. 22, 2017, 131 Stat. 2142, which directed amendment of the analysis for part I of subchapter L of chapter 1 by striking out items 806 and 810, was executed by striking out items 806 "Small life insurance company deduction" and 810 "Operations loss deduction" in this analysis, which is the analysis for subpart C of such part, to reflect the probable intent of Congress.

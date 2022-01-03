@@ -70,6 +70,8 @@ In subsection (c) the word "grade" is substituted for the words "rating or rank"
 
 Subsection (d) is substituted for 34 U.S.C. 350i(e) as that section pertains to voluntary retirement of enlisted members with 30 years of active service.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232, §807(b)(15), renumbered section 6326 of this title as this section.
@@ -80,7 +82,7 @@ Subsec. (c)(2). Pub. L. 115–232, §809(a), substituted "section 8333" for "sec
 
 <b>1980</b>—Subsec. (c)(2). Pub. L. 96–513 substituted "September 8, 1980" for "the date of the enactment of the Department of Defense Authorization Act, 1981" wherever appearing, and "master chief petty officer" for "senior enlisted advisor".
 
-Pub. L. 96–342 designated existing provisions as subpar. (A), inserted provision limiting applicability to persons who became members of the uniformed servicesbefore the date of the enactment of the Department of Defense Authorization Act, 1981, and added subpar. (B).
+Pub. L. 96–342 designated existing provisions as subpar. (A), inserted provision limiting applicability to persons who became members of the uniformed services before the date of the enactment of the Department of Defense Authorization Act, 1981, and added subpar. (B).
 
 <b>1967</b>—Subsec. (c)(2). Pub. L. 90–207 inserted ", or if he has served as senior enlisted advisor of the Navy or as sergeant major of the Marine Corps, he shall be entitled to retired pay at the rate of 75 percent of the highest basic pay to which he was entitled while so serving, if that rate is higher" after "retirement".
 
@@ -89,6 +91,8 @@ Pub. L. 96–342 designated existing provisions as subpar. (A), inserted provisi
 <b>1958</b>—Subsec. (c)(2). Pub. L. 85–422 substituted "pay grade in which he was serving on the day before retirement" for "grade in which retired".
 
 Subsec. (d). Pub. L. 85–861 repealed subsec. (d) which related to grade of members serving in a grade to which they were appointed under section 5597 or promoted under section 5787 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 
@@ -110,5 +114,5 @@ Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 
 
 Amendment by Pub. L. 85–422 inapplicable to retired persons or to persons to whom retired pay is granted before May 31, 1958, see section 6 of Pub. L. 85–422, set out in part under section 7361 of this title.
 
-Amendment by Pub. L. 85–422 effective June 1, 1958, see section 9 of Pub. L. 85–422.
+Amendment by Pub. L. 85–422 effective June 1, 1958, see section 9 of Pub. L. 85–422, May 20, 1958, 72 Stat. 130.
 

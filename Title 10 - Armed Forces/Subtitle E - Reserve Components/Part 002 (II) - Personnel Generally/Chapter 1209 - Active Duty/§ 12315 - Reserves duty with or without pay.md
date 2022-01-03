@@ -36,6 +36,8 @@ In subsections (a) and (b), the words "active duty for training" are omitted as 
 
 In subsection (b), the word "kept" is substituted for the words "retained or continued". The words "pursuant to law" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–337 renumbered section 683 of this title as this section.

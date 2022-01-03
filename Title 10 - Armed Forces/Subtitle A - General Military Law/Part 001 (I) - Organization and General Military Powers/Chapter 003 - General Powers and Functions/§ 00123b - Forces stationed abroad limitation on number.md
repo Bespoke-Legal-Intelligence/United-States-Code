@@ -14,9 +14,13 @@ Presidential Waiver.—The President may waive the operation of subsection (a) i
 
 (Added Pub. L. 103–337, div. A, title XIII, §1312(a)(1), Oct. 5, 1994, 108 Stat. 2894.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in Pub. L. 102–484, div. A, title XIII, §1302, Oct. 23, 1992, 106 Stat. 2545, which was set out as a note under section 113 of this title, prior to repeal by Pub. L. 103–337, §1312(c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

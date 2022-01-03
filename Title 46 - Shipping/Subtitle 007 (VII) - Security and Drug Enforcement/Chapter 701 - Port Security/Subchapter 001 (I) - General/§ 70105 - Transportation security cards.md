@@ -212,7 +212,7 @@ Background Records Check.—(1) On request of the Secretary, the Attorney Genera
 
 Restrictions on Use and Maintenance of Information.—(1) Information obtained by the Attorney General or the Secretary under this section may not be made available to the public, including the individual's employer.
 
-(2) Any information constituting grounds for denial of a transportation security card under this section shall be maintained confidentially by the Secretary and may be used only for making determinations under this section. The Secretary may share any such information with other Federal law enforcement agencies. An individual's employer may only be informed of whether or not the individual has been issued the card under this section.
+(2) Any information constituting grounds for denial of a transportation security card under this section shall be maintained confidentiallyby the Secretary and may be used only for making determinations under this section. The Secretary may share any such information with other Federal law enforcement agencies. An individual's employer may only be informed of whether or not the individual has been issued the card under this section.
 
 (f)
 
@@ -296,7 +296,7 @@ Report.—Not later than 120 days before the promulgation of regulations under p
 
 &emsp;&emsp;(A) the findings of the pilot program with respect to technical and operational impacts of implementing a transportation security card reader system;
 
-&emsp;&emsp;(B) any actions that may be necessary to ensure that all vessels and facilities to which this section applies are able to comply with such regulations; and
+&emsp;&emsp;(B) any actions that may be necessary to ensure that all vessels and facilities towhich this section applies are able to comply with such regulations; and
 
 &emsp;&emsp;(C) an analysis of the viability of equipment under the extreme weather conditions of the marine environment.
 
@@ -362,7 +362,7 @@ Subsec. (c)(1)(B)(xv). Pub. L. 114–120, §306(a)(9)(A), substituted "18 (popul
 
 Subsec. (c)(2). Pub. L. 114–120, §306(a)(9)(B), substituted "(D) of paragraph" for "(D) paragraph" in introductory provisions.
 
-Subsec. (j). Pub. L. 114–328, §3509(a)(2), amended subsec. (j) generally. Prior to amendment, text read as follows: "Not later than January 1, 2009, the Secretary shall process and issue or deny each application for a transportation security card under this section for individuals with current and valid merchant mariners' documents on the date of the enactment of the SAFE Port Act."
+Subsec. (j). Pub. L. 114–328, §3509(a)(2), amended subsec. (j) generally. Prior to amendment, text read as follows: "Not later than January 1, 2009, the Secretary shall process and issue or deny each application for atransportation security card under this section for individuals with current and valid merchant mariners' documents on the date of the enactment of the SAFE Port Act."
 
 <b>2010</b>—Subsec. (b)(2)(B). Pub. L. 111–281, §809(1), inserted "allowed unescorted access to a secure area designated in a vessel security plan approved under section 70103 of this title" after "subtitle II of this title".
 
@@ -506,7 +506,7 @@ Submission to congress.—Not later than 60 days after the date that the assessm
 
 "(c)
 
-Corrective Action Plan; Program Reforms.—If the assessment commissioned under subsection (b)identifies a deficiency in the effectiveness of the Program, the Secretary of Homeland Security, not later than 60 days after the date on which the assessment is completed, shall submit a corrective action plan to the Committee on Commerce, Science, and Transportation and the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives that—
+Corrective Action Plan; Program Reforms.—If the assessment commissioned under subsection (b) identifies a deficiency in the effectiveness of the Program, the Secretary of Homeland Security, not later than 60 days after the date on which the assessment is completed, shall submit a corrective action plan to the Committee on Commerce, Science, and Transportation and the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives that—
 
 &emsp;"(1) responds to findings of the assessment;
 
@@ -566,7 +566,7 @@ Report by comptroller general.—Within 180 days after the date of enactment of 
 
 "(2)
 
-Process for alternative means of receipt.—If the Comptroller General finds in the final report under paragraph (1) that it is feasible for a transportation security card to be sent to an approved applicant's place of residence in a secure manner, the Secretary shall, within 1 year after the date of issuance of the final report by the Comptroller General, implement a secure process to permit an individual approved for a transportation security card to receive the card at the applicant's place of residence or at the enrollment center of the individual's choosing. The individual shall be responsible for any additional cost associated with the secure delivery of a transportation security card."
+Process for alternative means of receipt.—If the Comptroller General finds in the final report under paragraph (1) that it is feasible for a transportation security card to be sent to an approved applicant's placeof residence in a secure manner, the Secretary shall, within 1 year after the date of issuance of the final report by the Comptroller General, implement a secure process to permit an individual approved for a transportation security card to receive the card at the applicant's place of residence or at the enrollment center of the individual's choosing. The individual shall be responsible for any additional cost associated with the secure delivery of a transportation security card."
 
 #### Prohibition of Issuance of Transportation Security Cards to Persons Convicted of Certain Felonies
 

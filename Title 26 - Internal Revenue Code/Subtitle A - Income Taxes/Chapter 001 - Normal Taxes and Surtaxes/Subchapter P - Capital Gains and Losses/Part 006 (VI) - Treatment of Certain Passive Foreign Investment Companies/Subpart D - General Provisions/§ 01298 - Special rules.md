@@ -10,7 +10,7 @@ For purposes of this part—
 
 &emsp;&emsp;(A) shall apply to the extent that the effect is to treat stock of a passive foreign investment company as owned by a United States person, and
 
-&emsp;&emsp;(B) except to the extent provided in regulations, shall not apply to treat stock owned (or treated as owned under this subsection) by a United States person as owned by any other person.
+&emsp;&emsp;(B) except to the extent provided in regulations, shall not apply to treat stock owned (or treated as owned under this subsection)by a United States person as owned by any other person.
 
 #### (2) Corporations
 
@@ -84,7 +84,7 @@ For purposes of this part—
 
 #### (B) Amount treated in same manner as previously taxed income
 
-&emsp;&emsp;Rules similar to the rules of section 959(b) shall apply to any amount described in subparagraph (A) and to any amount included in gross income under section 1293(a) (or which would have been so included but for section 951(c)) in respect of stock which the taxpayer is treated as owning under subsection (a).
+&emsp;&emsp;Rules similar to the rules of section 959(b) shall apply to any amount described in subparagraph (A) and to any amount included in gross income under section 1293(a) (or whichwould have been so included but for section 951(c)) in respect of stock which the taxpayer is treated as owning under subsection (a).
 
 #### (6) Dispositions
 
@@ -190,6 +190,8 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 (Added Pub. L. 99–514, title XII, §1235(a), Oct. 22, 1986, 100 Stat. 2573, §1297; amended Pub. L. 100–647, title I, §1012(p)(10), (17), (20), (22), (24), (35), (36), Nov. 10, 1988, 102 Stat. 3517–3519, 3522; Pub. L. 101–239, title VII, §7811(i)(4), Dec. 19, 1989, 103 Stat. 2410; Pub. L. 103–66, title XIII, §13231(d)(2), (4), Aug. 10, 1993, 107 Stat. 499; Pub. L. 104–188, title I, §§1501(b)(10), (11), 1703(i)(5), (6), Aug. 20, 1996, 110 Stat. 1826, 1876; renumbered §1298 and amended Pub. L. 105–34, title XI, §1122(a), (e), Aug. 5, 1997, 111 Stat. 972, 977; Pub. L. 105–206, title VI, §6011(b)(2), July 22, 1998, 112 Stat. 818; Pub. L. 110–172, §11(a)(24)(C), (f)(2), Dec. 29, 2007, 121 Stat. 2487, 2489; Pub. L. 111–147, title V, §521(a), Mar. 18, 2010, 124 Stat. 112; Pub. L. 115–141, div. U, title IV, §401(a)(184)–(186), (d)(1)(D)(viii)(III), Mar. 23, 2018, 132 Stat. 1193, 1207.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (b)(5)(B). Pub. L. 115–141, §401(a)(184), substituted "section 951(c)" for "section 951(f)".
@@ -250,6 +252,8 @@ Subsec. (b)(8). Pub. L. 100–647, §1012(p)(24), added par. (8).
 
 Subsecs. (c), (d). Pub. L. 100–647, §1012(p)(35), added subsec. (c) and redesignated former subsec. (c) as (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2007 Amendment
 
 Amendment by section 11(f)(2) of Pub. L. 110–172 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 11(f)(4) of Pub. L. 110–172, set out as a note under section 904 of this title.
@@ -260,7 +264,7 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to taxable years of United States persons beginning after Dec. 31, 1997, and to taxable years of foreign corporations ending with or within such taxable years of United States persons, see section 1124 of Pub. L. 105–34, set out as a note under section 532 of this title.
+Amendment by Pub. L. 105–34 applicable to taxable years of United States persons beginning after Dec. 31,1997, and to taxable years of foreign corporations ending with or within such taxable years of United States persons, see section 1124 of Pub. L. 105–34, set out as a note under section 532 of this title.
 
 #### Effective Date of 1996 Amendment
 

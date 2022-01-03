@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A homeownership program under this part shall provide for acquisition by eligible families of ownership interests in, or shares representing, units in an eligible property under any arrangement determined by the Secretary to be appropriate, such as cooperative ownership (including limited equity cooperative ownership) and fee simple ownership (including condominium ownership), for occupancy by the eligible families.
+A homeownership program under this part shall provide for acquisition by eligible families of ownership interests in, or shares representing, units in an eligible property under any arrangement determined by the Secretary to be appropriate, such as cooperative ownership (including limited equity cooperative ownership) and feesimple ownership (including condominium ownership), for occupancy by the eligible families.
 
 #### (b) Affordability
 
@@ -35,6 +35,8 @@ The application shall include a plan ensuring that the unit—
 Each homeownership program under this part shall provide that, in making vacant units in eligible properties available for acquisition by eligible families, preference shall be given to eligible families who reside in public or Indian housing.
 
 (Pub. L. 101–625, title IV, §444, Nov. 28, 1990, 104 Stat. 4176; Pub. L. 102–550, title I, §181(f), Oct. 28, 1992, 106 Stat. 3736.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

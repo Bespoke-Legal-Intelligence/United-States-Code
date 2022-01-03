@@ -10,17 +10,21 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 (July 1, 1944, ch. 373, title XVII, §1710, as added Pub. L. 105–340, title I, §101(b), Oct. 31, 1998, 112 Stat. 3191; amended Pub. L. 109–482, title I, §104(a)(2), Jan. 15, 2007, 120 Stat. 3689.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 283a–3 of this title, referred to in subsec. (a), was in the original "section 403C", and was translated as meaning section 403D of act July 1, 1944, ch. 373, as renumbered section 403C by section 104(a)(1) of Pub. L. 109–482 and then section 403D by section 1104(4) of Pub. L. 110–85. Another section 403C of act July 1, 1944, ch. 373, as added by section 104(a)(3) of Pub. L. 109–482, is classified to section 283a–2 of this title.
 
 #### Prior Provisions
 
-A prior section 300u–9, act July 1, 1944, ch. 373, title XVII, §1710, as added Nov. 10, 1978, Pub. L. 95–626, title V, §502, 92 Stat. 3594; amended Oct. 17, 1979, Pub. L. 96–88, title III, §301(b)(2), title V, §507, 93 Stat. 678, 692, related to Conference on Education in Lifetime Sports, prior to repeal by Pub. L. 98–551, §2(c), Oct. 30, 1984, 98 Stat. 2816.
+A prior section 300u–9, act July 1, 1944, ch. 373, title XVII, §1710, as added Nov. 10, 1978, Pub. L. 95–626, title V, §502, 92 Stat. 3594; amended Oct. 17, 1979, Pub. L.96–88, title III, §301(b)(2), title V, §507, 93 Stat. 678, 692, related to Conference on Education in Lifetime Sports, prior to repeal by Pub. L. 98–551, §2(c), Oct. 30, 1984, 98 Stat. 2816.
 
 #### Amendments
 
 <b>2007</b>—Subsec. (a). Pub. L. 109–482 substituted "section 283a–3" for "section 283a".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

@@ -26,7 +26,7 @@
 
 (2) Five of the members first appointed by the President shall serve for a term of two years. Any member appointed to serve an unexpired term which has arisen by virtue of the death, disability, retirement, or resignation of a member shall be appointed only for such unexpired term, but shall be eligible for reappointment.
 
-(3) The term of initial members shall commence from the date of the first meeting of the Board, and the term of each member other than an initial member shall commence from the date of termination of the preceding term.
+(3) The term of initial members shall commence from the date of the first meeting of theBoard, and the term of each member other than an initial member shall commence from the date of termination of the preceding term.
 
 #### (c) Reappointment
 
@@ -78,6 +78,8 @@ In its direction and supervision of the activities of the Institute, the Board s
 
 (Pub. L. 98–620, title II, §204, Nov. 8, 1984, 98 Stat. 3337; Pub. L. 102–572, title VIII, §803(a), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 108–372, §3(c), Oct. 25, 2004, 118 Stat. 1754.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a)(3) and (j), was in the original "this title", meaning title II of Pub. L. 98–620, Nov. 8, 1984, 98 Stat. 3336, known as the State Justice Institute Act of 1984, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 10701 of this title and Tables.
@@ -87,6 +89,8 @@ This chapter, referred to in subsecs. (a)(3) and (j), was in the original "this 
 <b>2004</b>—Subsec. (j). Pub. L. 108–372 inserted "(on any occasion on which that committee has been delegated the authority to act on behalf of the Board)" after "executive committee of the Board".
 
 <b>1992</b>—Subsec. (a)(3). Pub. L. 102–572 substituted "Conference" for "conference" after "whom the" in second sentence.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

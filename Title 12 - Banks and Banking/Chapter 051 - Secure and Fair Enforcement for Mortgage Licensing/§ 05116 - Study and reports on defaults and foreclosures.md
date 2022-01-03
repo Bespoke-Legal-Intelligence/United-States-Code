@@ -6,7 +6,7 @@ The Director shall conduct an extensive study of the root causes of default and 
 
 #### (b) Preliminary report to Congress
 
-Not later than 6 months after July 30, 2008, the Director shall submit to Congress a preliminaryreport regarding the study required by this section.
+Not later than 6 months after July 30, 2008, the Director shall submit to Congress a preliminary report regarding the study required by this section.
 
 #### (c) Final report to Congress
 

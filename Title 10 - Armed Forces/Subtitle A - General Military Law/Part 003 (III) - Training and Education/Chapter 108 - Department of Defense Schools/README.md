@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [2161\.](%C2%A7%2002161%20-%20Degree%20granting%20authority%20for%20National%20Intelligence%20University.md) | Degree granting authority for National Intelligence University. |
+| \[2161. | Repealed.\] |
 | [2162\.](%C2%A7%2002162%20-%20Preparation%20of%20budget%20requests%20for%20operation%20of%20professional%20military%20education%20schools.md) | Preparation of budget requests for operation of professional military education schools. |
 | [2163\.](%C2%A7%2002163%20-%20Degree%20granting%20authority%20for%20National%20Defense%20University.md) | Degree granting authority for National Defense University. |
 | [2164\.](%C2%A7%2002164%20-%20Department%20of%20Defense%20domestic%20dependent%20elementary%20and%20secondary%20schools.md) | Department of Defense domestic dependent elementary and secondary schools. |
@@ -10,16 +10,16 @@
 | \[2166. | Renumbered.\] |
 | [2167\.](%C2%A7%2002167%20-%20National%20Defense%20University%20admission%20of%20private%20sector%20civilians%20to%20professional%20military%20education%20program.md) | National Defense University: admission of private sector civilians to professional military education program. |
 | [2167a.](%C2%A7%2002167a%20-%20Defense%20Cyber%20Investigations%20Training%20Academy%20admission%20of%20private%20sector%20civilians%20to%20receive%20instruction.md) | Defense Cyber Investigations Training Academy: admission of private sector civilians to receive instruction. |
-| [2168\.](%C2%A7%2002168%20-%20Defense%20Language%20Institute%20Foreign%20Language%20Center%20degree%20of%20Associate%20of%20Arts%20in%20foreign%20language.md) | Defense Language Institute Foreign Language Center: degree of Associate of Arts in foreign language. |
+| [2168\.](%C2%A7%2002168%20-%20Defense%20Language%20Institute%20Foreign%20Language%20Center%20degree%20of%20Associate%20or%20Bachelor%20of%20Arts%20in%20foreign%20language.md) | Defense Language Institute Foreign Language Center: degree of Associate or Bachelor of Arts in foreign language. |
 | [2169\.](%C2%A7%2002169%20-%20School%20of%20Nursing%20establishment.md) | School of Nursing: establishment. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Amendment of Analysis
-
-<i>Pub. L. 116–92, div. E, title LIII, §5324(e), formerly §5324(g), Dec. 20, 2019, 133 Stat. 2137, renumbered §5324(e), Pub. L. 116–260, div. W, title III, §305(c)(3), Dec. 27, 2020, 134 Stat. 2367, provided that, effective on the date on which the Secretary of Defense and the Director of National Intelligence jointly submit the joint certifications required under section 3334a(b)(1) of Title 50, War and National Defense, this analysis is amended by striking out item 2161. See 2019 Amendment note below.</i>
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Pub. L. 117–81, div. A, title V, §556(b), Dec. 27, 2021, 135 Stat. 1739, substituted "Defense Language Institute Foreign Language Center: degree of Associate or Bachelor of Arts in foreign language" for "Defense Language Institute Foreign Language Center: degree of Associate of Arts in foreign language" in item 2168.
 
 <b>2019</b>—Pub. L. 116–92, div. E, title LIII, §5324(e)(1), formerly §5324(g)(1), Dec. 20, 2019, 133 Stat. 2137, renumbered §5324(e)(1), Pub. L. 116–260, div. W, title III, §305(c)(3), Dec. 27, 2020, 134 Stat. 2367, struck out item 2161 "Degree granting authority for National Intelligence University".
 
@@ -48,6 +48,8 @@ Pub. L. 105–85, div. A, title IX, §921(a)(2), Nov. 18, 1997, 111 Stat. 1862, 
 <b>1993</b>—Pub. L. 103–160, div. A, title IX, §922(b), Nov. 30, 1993, 107 Stat. 1731, added item 2163.
 
 <b>1990</b>—Pub. L. 101–510, div. A, title IX, §911(b)(1), (2), Nov. 5, 1990, 104 Stat. 1626, substituted "DEPARTMENT OF DEFENSE SCHOOLS" for "GRANTING OF ADVANCED DEGREES AT DEPARTMENT OF DEFENSE SCHOOLS" as chapter heading and added item 2162.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Daniel K. Inouye Asia-Pacific Center for Security Studies: Reimbursement Waiver for Personnel of Foreign Nations
 
@@ -106,7 +108,7 @@ Pub. L. 102–484, div. A, title V, §542, Oct. 23, 1992, 106 Stat. 2413, relate
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 02161 - Degree granting authority for National Intelligence University](%C2%A7%2002161%20-%20Degree%20granting%20authority%20for%20National%20Intelligence%20University.md)
+- [&sect; 02161 - Repealed. Pub. L. 116&#8211;92, div. E, title LIII, &sect;5324(e)(1), formerly &sect;5324(g)(1), Dec. 20, 2019, 133 Stat. 2137, renumbered&#8230;](%C2%A7%2002161%20-%20Repealed.%20Pub.%20L.%20116%E2%80%9392%2C%20div.%20E%2C%20title%20LIII%2C%20%C2%A75324%28e%29%281%29%2C%20formerly%20%C2%A75324%28g%29%281%29%2C%20Dec.%2020%2C%202019%2C%20133%20Stat.%202137%2C%20renumbered%E2%80%A6.md)
 - [&sect; 02162 - Preparation of budget requests for operation of professional military education schools](%C2%A7%2002162%20-%20Preparation%20of%20budget%20requests%20for%20operation%20of%20professional%20military%20education%20schools.md)
 - [&sect; 02163 - Degree granting authority for National Defense University](%C2%A7%2002163%20-%20Degree%20granting%20authority%20for%20National%20Defense%20University.md)
 - [&sect; 02164 - Department of Defense domestic dependent elementary and secondary schools](%C2%A7%2002164%20-%20Department%20of%20Defense%20domestic%20dependent%20elementary%20and%20secondary%20schools.md)
@@ -114,5 +116,5 @@ Pub. L. 102–484, div. A, title V, §542, Oct. 23, 1992, 106 Stat. 2413, relate
 - [&sect; 02166 - Renumbered &sect;343](%C2%A7%2002166%20-%20Renumbered%20%C2%A7343.md)
 - [&sect; 02167 - National Defense University admission of private sector civilians to professional military education program](%C2%A7%2002167%20-%20National%20Defense%20University%20admission%20of%20private%20sector%20civilians%20to%20professional%20military%20education%20program.md)
 - [&sect; 02167a - Defense Cyber Investigations Training Academy admission of private sector civilians to receive instruction](%C2%A7%2002167a%20-%20Defense%20Cyber%20Investigations%20Training%20Academy%20admission%20of%20private%20sector%20civilians%20to%20receive%20instruction.md)
-- [&sect; 02168 - Defense Language Institute Foreign Language Center degree of Associate of Arts in foreign language](%C2%A7%2002168%20-%20Defense%20Language%20Institute%20Foreign%20Language%20Center%20degree%20of%20Associate%20of%20Arts%20in%20foreign%20language.md)
+- [&sect; 02168 - Defense Language Institute Foreign Language Center degree of Associate or Bachelor of Arts in foreign language](%C2%A7%2002168%20-%20Defense%20Language%20Institute%20Foreign%20Language%20Center%20degree%20of%20Associate%20or%20Bachelor%20of%20Arts%20in%20foreign%20language.md)
 - [&sect; 02169 - School of Nursing establishment](%C2%A7%2002169%20-%20School%20of%20Nursing%20establishment.md)

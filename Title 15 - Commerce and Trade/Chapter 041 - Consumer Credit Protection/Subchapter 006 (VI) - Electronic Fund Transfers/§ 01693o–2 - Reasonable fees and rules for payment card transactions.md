@@ -18,7 +18,7 @@
 
 #### (B) Information collection
 
-&emsp;&emsp;The Board may require any issuer (or agent of an issuer) or payment card network to provide the Board with such information as may be necessary to carry out the provisions of this subsection and the Board, in issuing rules under subparagraph (A) and on at least a bi-annual basis thereafter, shall disclose such aggregate or summary information concerning the costs incurred, andinterchange transaction fees charged or received, by issuers or payment card networks in connection with the authorization, clearance or settlement of electronic debit transactions as the Board considers appropriate and in the public interest.
+&emsp;&emsp;The Board may require any issuer (or agent of an issuer) or payment card network to provide the Board with such information as may be necessary to carry out the provisions of this subsection and the Board, in issuing rules under subparagraph (A) and on at least a bi-annual basis thereafter, shall disclose such aggregate or summary information concerning the costs incurred, and interchange transaction fees charged or received, by issuers or payment card networks in connection with the authorization, clearance or settlement of electronic debit transactions as the Board considers appropriate and in the public interest.
 
 #### (4) Considerations; consultation
 
@@ -70,7 +70,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(IV) the fraud prevention and data security costs expended by each party involved in electronic debit transactions (including consumers, persons who accept debit cards as a form of payment, financial institutions, retailers and payment card networks);
 
-&emsp;&emsp;&emsp;&emsp;(V) the costs of fraudulent transactions absorbed by each party involved in such transactions (including consumers, persons who accept debit cards as a form of payment, financial institutions, retailers and payment card networks);
+&emsp;&emsp;&emsp;&emsp;(V) the costs of fraudulent transactions absorbed by each party involvedin such transactions (including consumers, persons who accept debit cards as a form of payment, financial institutions, retailers and payment card networks);
 
 &emsp;&emsp;&emsp;&emsp;(VI) the extent to which interchange transaction fees have in the past reduced or increased incentives for parties involved in electronic debit transactions to reduce fraud on such transactions; and
 
@@ -274,7 +274,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (11) Payment card network
 
-&emsp;The term "payment card network" means an entity that directly, or through licensed members, processors, or agents, provides the proprietary services, infrastructure, and software that route information and data to conduct debit card or credit card transaction authorization, clearance, and settlement, and that a person uses in order to accept as a form ofpayment a brand of debit card, credit card or other device that may be used to carry out debit or credit transactions.
+&emsp;The term "payment card network" means an entity that directly, or through licensed members, processors, or agents, provides the proprietary services, infrastructure, and software that route information and data to conduct debit card or credit card transaction authorization, clearance, and settlement, and that a person uses in order to accept as a form of payment a brand of debit card, credit card or other device that may be used to carry out debit or credit transactions.
 
 #### (d) Enforcement
 
@@ -288,11 +288,15 @@ For purposes of this section, the following definitions shall apply:
 
 (Pub. L. 90–321, title IX, §920, as added Pub. L. 111–203, title X, §1075(a)(2), July 21, 2010, 124 Stat. 2068.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 920 of Pub. L. 90–321 was renumbered section 921 and is classified to section 1693p of this title.
 
 Two other prior sections 920 of Pub. L. 90–321 were renumbered section 922 and are classified to sections 1693q and 1693r of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

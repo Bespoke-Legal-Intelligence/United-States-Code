@@ -1,8 +1,10 @@
 ### §7923. Limitations on school-based health centers
 
-Notwithstanding section 7802 of this title, funds used for activities under this chapter shall be carried out in accordance with the provision of section 280h–5(a)(3)(C) of title 42.
+Notwithstanding section 7802 of this title, funds used for activities under this chapter shallbe carried out in accordance with the provision of section 280h–5(a)(3)(C) of title 42.
 
 (Pub. L. 89–10, title VIII, §8543, as added Pub. L. 114–95, title VIII, §8035, Dec. 10, 2015, 129 Stat. 2119.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

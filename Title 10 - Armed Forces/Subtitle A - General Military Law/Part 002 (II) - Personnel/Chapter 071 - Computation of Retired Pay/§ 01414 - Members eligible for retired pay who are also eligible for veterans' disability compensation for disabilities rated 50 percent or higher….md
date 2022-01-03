@@ -176,6 +176,8 @@ Applicable retired pay.—In subparagraph (A), the term "applicable retired pay"
 
 (Added Pub. L. 107–107, div. A, title VI, §641(a), Dec. 28, 2001, 115 Stat. 1149; amended Pub. L. 108–136, div. A, title VI, §641(a), Nov. 24, 2003, 117 Stat. 1511; Pub. L. 108–375, div. A, title VI, §642, Oct. 28, 2004, 118 Stat. 1957; Pub. L. 109–163, div. A, title VI, §663, Jan. 6, 2006, 119 Stat. 3316; Pub. L. 110–181, div. A, title VI, §642(a), Jan. 28, 2008, 122 Stat. 157; Pub. L. 113–76, div. C, title X, §10001(b)(2), Jan. 17, 2014, 128 Stat. 151; Pub. L. 114–92, div. A, title VI, §631(d)(2), Nov. 25, 2015, 129 Stat. 845.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (b)(1). Pub. L. 114–92, §631(d)(2), which was approved Nov. 25, 2015, provided that the amendment made by Pub. L. 113–76, §10001(b)(2), which was effective Dec. 1, 2015, would not take effect. See 2014 Amendment note below.
@@ -191,6 +193,8 @@ Applicable retired pay.—In subparagraph (A), the term "applicable retired pay"
 Subsec. (c). Pub. L. 108–375, §642(b), inserted "that pursuant to the second sentence of subsection (a)(1) is subject to this subsection" after "a qualified retiree" in introductory provisions.
 
 <b>2003</b>—Pub. L. 108–136 amended section generally. Prior to amendment, section related to members eligible for retired pay who had service-connected disabilities: payment of retired pay and veterans' disability compensation; and contingent effectiveness based on enactment of offsetting legislation.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 
@@ -214,5 +218,5 @@ Pub. L. 108–136, div. A, title VI, §641(e), Nov. 24, 2003, 117 Stat. 1516, pr
 
 #### Prohibition of Retroactive Benefits
 
-Pub. L. 107–107, div. A, title VI, §641(d), Dec. 28, 2001, 115 Stat. 1150, provided that: "If the provisions of subsection (a) of section 1414 of title 10, United States Code, becomes \[sic\] effective in accordance with subsection (f) of that section, no benefit may be paid to any person by reason of those provisions for any period before the effective date specified in subsection (e) of that section."
+Pub. L. 107–107, div. A, title VI, §641(d), Dec. 28, 2001, 115 Stat. 1150, provided that: "If the provisions of subsection (a) of section 1414 of title 10, United StatesCode, becomes \[sic\] effective in accordance with subsection (f) of that section, no benefit may be paid to any person by reason of those provisions for any period before the effective date specified in subsection (e) of that section."
 

@@ -6,7 +6,7 @@
 
 &emsp;(2) in subsection (c) does not include employment under such a contract.
 
-(b) An individual who has received a voluntary separation incentive payment under this subchapter and accepts any employment for compensation with the Government of the United States with <sup>1</sup> 5 years after the date of the separation on which the payment is based shall be required to pay, before the individual's first day of employment, the entire amount of the incentivepayment to the agency that paid the incentive payment.
+(b) An individual who has received a voluntary separation incentive payment under this subchapter and accepts any employment for compensation with the Government of the United States with <sup>1</sup> 5 years after the date of the separation on which the payment is based shall be required to pay, before the individual's first day of employment, the entire amount of the incentive payment to the agency that paid the incentive payment.
 
 (c)(1) If the employment under this section is with an agency, other than the Government Accountability Office, the United States Postal Service, or the Postal Regulatory Commission, the Director of the Office of Personnel Management may, at the request of the head of the agency, may <sup>2</sup> waive the repayment if—
 

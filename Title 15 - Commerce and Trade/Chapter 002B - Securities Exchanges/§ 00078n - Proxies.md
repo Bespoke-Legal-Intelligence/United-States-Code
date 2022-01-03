@@ -12,7 +12,7 @@
 
 #### (b) Giving or refraining from giving proxy in respect of any security carried for account of customer
 
-(1) It shall be unlawful for any member of a national securities exchange, or any broker or dealer registered under this chapter, or any bank, association, or other entity that exercises fiduciary powers, in contravention of such rules and regulations as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors, to give, or to refrain from giving a proxy, consent,authorization, or information statement in respect of any security registered pursuant to section 78l of this title, or any security issued by an investment company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], and carried for the account of a customer.
+(1) It shall be unlawful for any member of a national securities exchange, or any broker or dealer registered under this chapter, or any bank, association, or other entity that exercises fiduciary powers, in contravention of such rules and regulations as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors, to give, or to refrain from giving a proxy, consent, authorization, or information statement in respect of any security registered pursuant to section 78l of this title, or any security issued by an investment company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], and carried for the account of a customer.
 
 (2) With respect to banks, the rules and regulations prescribed by the Commission under paragraph (1) shall not require the disclosure of the names of beneficial owners of securities in an account held by the bank on December 28, 1985, unless the beneficial owner consents to the disclosure. The provisions of this paragraph shall not apply in the case of a bank which the Commission finds has not made a good faith effort to obtain such consent from such beneficial owners.
 
@@ -104,7 +104,7 @@ Pro rata application.—The rates per $1,000,000 required by this subsection sha
 
 &emsp;&emsp;&emsp;(ii) contingent on the approval, disapproval, or completion of the limited partnership rollup transaction;
 
-&emsp;&emsp;(D) set forth disclosure requirements for soliciting material distributed in connection with a limited partnership rollup transaction, including requirements for clear, concise, and comprehensible disclosure with respect to—
+&emsp;&emsp;(D) set forth disclosure requirements for soliciting material distributed in connection with a limited partnership rollup transaction, including requirements for clear,concise, and comprehensible disclosure with respect to—
 
 &emsp;&emsp;&emsp;(i) any changes in the business plan, voting rights, form of ownership interest, or the compensation of the general partner in the proposed limited partnership rollup transaction from each of the original limited partnerships;
 
@@ -170,7 +170,7 @@ Pro rata application.—The rates per $1,000,000 required by this subsection sha
 
 &emsp;&emsp;(B) a transaction involving only limited partnerships wherein the interests of the limited partners are repurchased, recalled, or exchanged in accordance with the terms of the preexisting limited partnership agreements for securities in an operating company specifically identified at the time of the formation of the original limited partnership;
 
-&emsp;&emsp;(C) a transaction in which the securities to be issued or exchanged are not required to beand are not registered under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\];
+&emsp;&emsp;(C) a transaction in which the securities to be issued or exchanged are not required to be and are not registered under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\];
 
 &emsp;&emsp;(D) a transaction that involves only issuers that are not required to register or report under section 78l of this title, both before and after the transaction;
 
@@ -199,6 +199,8 @@ The Commission shall, by rule, require each issuer to disclose in any proxy or c
 &emsp;(2) held, directly or indirectly, by the employee or member of the board of directors.
 
 (June 6, 1934, ch. 404, title I, §14, 48 Stat. 895; Pub. L. 88–467, §5, Aug. 20, 1964, 78 Stat. 569; Pub. L. 90–439, §3, July 29, 1968, 82 Stat. 455; Pub. L. 91–567, §§3–5, Dec. 22, 1970, 84 Stat. 1497; Pub. L. 98–38, §2(b), June 6, 1983, 97 Stat. 205; Pub. L. 99–222, §2, Dec. 28, 1985, 99 Stat. 1737; Pub. L. 101–550, title III, §302, Nov. 15, 1990, 104 Stat. 2721; Pub. L. 103–202, title III, §302(a), Dec. 17, 1993, 107 Stat. 2359; Pub. L. 105–353, title III, §301(b)(7), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 107–123, §6, Jan. 16, 2002, 115 Stat. 2396; Pub. L. 111–203, title IX, §§953(a), 955, 971(a), 991(b)(3), July 21, 2010, 124 Stat. 1903, 1904, 1915, 1953; Pub. L. 112–106, title I, §102(a)(2), Apr. 5, 2012, 126 Stat. 309.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -256,6 +258,8 @@ Subsec. (b). Pub. L. 88–467, §5(b), substituted provisions which make it unla
 
 Subsec. (c). Pub. L. 88–467, §5(c), added subsec. (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Amendment by sections 953(a), 955, and 971(a) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
@@ -284,7 +288,7 @@ Pub. L. 111–203, title IX, §971(b), (c), July 21, 2010, 124 Stat. 1915, provi
 
 "(b)
 
-Regulations.—The Commission may issue rules permitting the use by a shareholder of proxy solicitation materials supplied by an issuer of securities for the purpose of nominating individuals to membership on the board of directors of the issuer, under such terms and conditions as the Commission determines are in the interests of shareholders and for the protection of investors.
+Regulations.—The Commission may issue rules permitting the use by a shareholder of proxy solicitation materials supplied by an issuer of securities forthe purpose of nominating individuals to membership on the board of directors of the issuer, under such terms and conditions as the Commission determines are in the interests of shareholders and for the protection of investors.
 
 "(c)
 
@@ -298,19 +302,17 @@ Pub. L. 103–202, title III, §302(b), Dec. 17, 1993, 107 Stat. 2363, provided 
 
 Amendment by Pub. L. 103–202 not to limit authority of Securities and Exchange Commission, a registered securities association, or a national securities exchange under any provision of this chapter or preclude the Commission or such association or exchange from imposing a remedy or procedure required to be imposed under such amendment, see section 304(b) of Pub. L. 103–202, set out in an Effective Date of 1993 Amendment note under section 78f of this title.
 
-#### Transfer of Functions
-
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
 #### Study and Report on Shareholder Access to Proxy Statements
 
-Pub. L. 104–290, title V, §510(b), Oct. 11, 1996, 110 Stat. 3450, provided that the Securities and Exchange Commission should conduct a study to determine if shareholder access to proxy statements pursuant to this section had been impaired by recent statutory, judicial, or regulatory changes and the ability of shareholders to have proposals relating to corporate practices and social issues included as part of proxy statements, andprovided that the Commission report the study and any recommendations to Congress by 1 year after Oct. 11, 1996.
+Pub. L. 104–290, title V, §510(b), Oct. 11, 1996, 110 Stat. 3450, provided that the Securities and Exchange Commission should conduct a study to determine if shareholder access to proxy statements pursuant to this section had been impaired by recent statutory, judicial, or regulatory changes and the ability of shareholders to have proposals relating to corporate practices and social issues included as part of proxy statements, and provided that the Commission report the study and any recommendations to Congress by 1 year after Oct. 11, 1996.
 
 #### Evaluation of Fairness Opinion Preparation, Disclosure, and Use
 
 Pub. L. 103–202, title III, §302(c), Dec. 17, 1993, 107 Stat. 2363, provided that the Comptroller General of the United States should, within 18 months after Dec. 17, 1993, conduct a study of the use of fairness opinions in limited partnership rollup transactions, the standards which preparers use in making determinations of fairness, the scope of review, quality of analysis, qualifications and methods of selection of preparers, costs of preparation, and any limitations imposed by issuers on such preparers, the nature and quality of disclosures provided with respect to such opinions, any conflicts of interest concerning such opinions, and the usefulness of the opinions to limited partners, with a report required to be sent to Congress by the end of the 18-month period.
 
 #### Adjustment of Registration Fee Rate
+
+By order dated Aug. 23, 2021, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (b) of this section to $92.71 per $1,000,000, effective Oct. 1, 2021, see 86 F.R. 47696.
 
 By order dated Aug. 26, 2020, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (g) of this section to $109.10 per $1,000,000, effective Oct. 1, 2020, see 85 F.R. 53890.
 
@@ -331,6 +333,12 @@ By order dated Aug. 30, 2013, the Securities and Exchange Commission adjusted th
 By order dated Aug. 31, 2012, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (g) of this section to $136.40 per $1,000,000, effective Oct. 1, 2012, see 77 F.R. 55240.
 
 By order dated Aug. 31, 2011, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (g) of this section to $114.60 per $1,000,000, effective Oct. 1, 2011, see 76 F.R. 55139.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 <i><sup>1</sup></i><i> See Adjustment of Registration Fee Rate notes below.</i>
 

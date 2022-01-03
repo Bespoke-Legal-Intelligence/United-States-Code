@@ -22,7 +22,7 @@
 
 &emsp;(4) Any citizen of the United States who, during any war in which the United States is or has been engaged, served in the armed forces of any government allied with the United States during that war, and whose last such service terminated honorably.
 
-&emsp;(5) The spouse, surviving spouse (which for purposes of this chapter includes a surviving spouse who had a subsequent remarriage), minor child (which for purposes of this chapter includes a child under 21 years of age, or under 23 years of age if pursuing a course of instruction at an approved educational institution), and, in the discretion of the Secretary, unmarried adult child of any of the persons listed in paragraphs (1) through (4) and paragraph (7), and the spouse, minor child, and, in the discretion of the Secretary, unmarried adult child of a member of the Armed Forces serving on active duty under conditions other than dishonorable, as shown by a statement from a general court-martial convening authority, at the time of the spouse's or child's death if such death occurs before October 1, 2024.
+&emsp;(5) The spouse, surviving spouse (which for purposes of this chapter includes a surviving spouse who had a subsequent remarriage), minor child (which for purposes of this chapter includes a child under 21 years of age, or under 23 years of age if pursuing a course of instruction at an approved educational institution), and, in the discretion of the Secretary, unmarried adult child of any of the persons listed in paragraphs (1) through (4) and paragraph (7),and the spouse, minor child, and, in the discretion of the Secretary, unmarried adult child of a member of the Armed Forces serving on active duty under conditions other than dishonorable, as shown by a statement from a general court-martial convening authority, at the time of the spouse's or child's death if such death occurs before October 1, 2024.
 
 &emsp;(6) Such other persons or classes of persons as may be designated by the Secretary.
 
@@ -46,11 +46,21 @@
 
 &emsp;(10) Any individual—
 
-&emsp;&emsp;(A) <sup>1</sup> who—
+&emsp;&emsp;(A) who—
 
 &emsp;&emsp;&emsp;(i) was naturalized pursuant to section 2(1) of the Hmong Veterans' Naturalization Act of 2000 (Public Law 106–207; 8 U.S.C. 1423 note); and
 
-&emsp;&emsp;&emsp;(ii) at the time of the individual's death resided in the United States.
+&emsp;&emsp;&emsp;(ii) at the time of the individual's death resided in the United States; or
+
+&emsp;&emsp;(B) who—
+
+&emsp;&emsp;&emsp;(i) the Secretary determines served honorably with a special guerrilla unit or irregular forces operating from a base in Laos in support of the Armed Forces at any time during the period beginning on February 28, 1961, and ending on May 7, 1975; and
+
+&emsp;&emsp;&emsp;(ii) at the time of the individual's death—
+
+&emsp;&emsp;&emsp;&emsp;(I) was a citizen of the United States or an alien lawfully admitted for permanent residence in the United States; and
+
+&emsp;&emsp;&emsp;&emsp;(II) resided in the United States.
 
 (b) For purposes of subsection (a)(9) of this section:
 
@@ -60,7 +70,7 @@
 
 &emsp;(3) The term "training-related injury" means an injury incurred by a member of the Armed Forces while performing authorized training activities in preparation for a combat mission.
 
-(Added Pub. L. 93–43, §2(a), June 18, 1973, 87 Stat. 75, §1002; amended Pub. L. 99–576, title VII, §701(54), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §2402, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–240, §1, May 4, 1994, 108 Stat. 609; Pub. L. 103–446, title VIII, §§801, 802, Nov. 2, 1994, 108 Stat. 4675; Pub. L. 104–275, title II, §211, Oct. 9, 1996, 110 Stat. 3330; Pub. L. 105–368, title IV, §403(c)(5), Nov. 11, 1998, 112 Stat. 3338; Pub. L. 106–419, title III, §331(a), title IV, §404(a)(5), Nov. 1, 2000, 114 Stat. 1856, 1865; Pub. L. 108–183, title II, §212(b), title V, §502(a), Dec. 16, 2003, 117 Stat. 2658, 2667; Pub. L. 111–275, title V, §502(b), Oct. 13, 2010, 124 Stat. 2882; Pub. L. 115–141, div. J, title II, §251(a), Mar. 23, 2018, 132 Stat. 824; Pub. L. 115–407, title II, §202(b), Dec. 31, 2018, 132 Stat. 5373; Pub. L. 116–283, div. A, title IX, §926(a)(39), Jan. 1, 2021, 134 Stat. 3830.)
+(Added Pub. L. 93–43, §2(a), June 18, 1973, 87 Stat. 75, §1002; amended Pub. L. 99–576, title VII, §701(54), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §2402, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–240, §1, May 4, 1994, 108 Stat. 609; Pub. L. 103–446, title VIII, §§801, 802, Nov. 2, 1994, 108 Stat. 4675; Pub. L. 104–275, title II, §211, Oct. 9, 1996, 110 Stat. 3330; Pub. L. 105–368, title IV, §403(c)(5), Nov. 11, 1998, 112 Stat. 3338; Pub. L. 106–419, title III, §331(a), title IV, §404(a)(5), Nov. 1, 2000, 114 Stat. 1856, 1865; Pub. L. 108–183, title II, §212(b), title V, §502(a), Dec. 16, 2003, 117 Stat. 2658, 2667; Pub. L. 111–275, title V, §502(b), Oct. 13, 2010, 124 Stat. 2882; Pub. L. 115–141, div. J, title II, §251(a), Mar. 23, 2018, 132 Stat. 824; Pub. L. 115–407, title II, §202(b), Dec. 31, 2018, 132 Stat. 5373; Pub. L. 116–283, div. A, title IX, §926(a)(39), Jan. 1, 2021, 134 Stat. 3830; Pub. L. 117–81, div. F, title LXVI, §6601(a), Dec. 27, 2021, 135 Stat. 2437.)
 
 #### <b>Editorial Notes</b>
 
@@ -71,6 +81,8 @@ Section 2(1) of the Hmong Veterans' Naturalization Act of 2000, referred to in s
 #### Amendments
 
 <b>2021</b>—Subsec. (a)(1). Pub. L. 116–283 substituted "air, or space service" for "or air service".
+
+Subsec. (a)(10)(B). Pub. L. 117–81 added subpar. (B).
 
 <b>2018</b>—Subsec. (a)(5). Pub. L. 115–407 inserted ", and the spouse, minor child, and, in the discretion of the Secretary, unmarried adult child of a member of the Armed Forces serving on active duty under conditions other than dishonorable, as shown by a statement from a general court-martial convening authority, at the time of the spouse's or child's death if such death occurs before October 1, 2024" after "paragraph (7)".
 
@@ -107,6 +119,10 @@ Pub. L. 102–40 substituted "6105" for "3505" in introductory provisions.
 Par. (5). Pub. L. 99–576, §701(54)(B), struck out "wife, husband," before "surviving spouse".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Pub. L. 117–81, div. F, title LXVI, §6601(b), Dec. 27, 2021, 135 Stat. 2438, provided that: "The amendments made by this section \[amending this section\] shall have effect as if included in the enactment of section 251(a) of title II of the Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2018 (division J of Public Law 115–141; 132 Stat. 824)."
 
 #### Effective Date of 2018 Amendment
 
@@ -177,6 +193,4 @@ Definitions.—For purposes of this section:
 &emsp;"(1) The term 'former prisoner of war' has the meaning given such term in section 101(32) of title 38, United States Code.
 
 &emsp;"(2) The term 'active military, naval, or air service' has the meaning given such term in section 101(24) of such title."
-
-<i><sup>1</sup></i><i> So in original. No subpar. (B) has been enacted.</i>
 

@@ -4,15 +4,19 @@ For the purpose of facilitating and simplifying the administration of the Federa
 
 (Dec. 19, 1941, ch. 595, 55 Stat. 842.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-Act of June 17, 1902, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, which is classified generally to chapter 12 (§371 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 371 of Title 43 and Tables.
+Act of June 17, 1902, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as theReclamation Act, which is classified generally to chapter 12 (§371 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 371 of Title 43 and Tables.
 
 Act of August 11, 1939, referred to in text, is act Aug. 11, 1939, ch. 717, 53 Stat. 1418, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 
 This section was not enacted as part of act Aug. 11, 1939, ch. 717, 53 Stat. 1418, which comprises this subchapter.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

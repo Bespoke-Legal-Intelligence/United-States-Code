@@ -4,6 +4,8 @@ No claim for legal services or for any other services rendered in respect of a c
 
 (Dec. 2, 1942, ch. 668, title II, §204, 56 Stat. 1034.)
 
+#### <b>Executive Documents</b>
+
 #### Transfer of Functions
 
 For transfer of functions to Secretary of Labor, see note set out under section 1711 of this title.

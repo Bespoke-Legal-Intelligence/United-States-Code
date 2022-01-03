@@ -12,7 +12,7 @@ In the case of States receiving grants under section 300k of this title, the Sec
 
 #### (b) Status as participant in program regarding breast and cervical cancer
 
-The Secretary may not make a grant under subsection (a) unless the State involved agrees that services under the grant will be provided only through entities that are screening women for breast or cervical cancer pursuant to a grant under section 300k of this title.
+The Secretary may not make a grant under subsection (a) unless the State involved agrees that services under the grant will be provided only through entities that are screening womenfor breast or cervical cancer pursuant to a grant under section 300k of this title.
 
 #### (c) Applicability of provisions of general program
 
@@ -29,6 +29,8 @@ This subchapter applies to a grant under subsection (a) to the same extent and i
 &emsp;The authorization of appropriations established in paragraph (1) is not effective for a fiscal year unless the amount appropriated under section 300n–5(a) of this title for the fiscal year is equal to or greater than $100,000,000.
 
 (July 1, 1944, ch. 373, title XV, §1509, as added Pub. L. 103–183, title I, §102(a)(2), Dec. 14, 1993, 107 Stat. 2229; amended Pub. L. 105–340, title II, §203(c)(1), Oct. 31, 1998, 112 Stat. 3194.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

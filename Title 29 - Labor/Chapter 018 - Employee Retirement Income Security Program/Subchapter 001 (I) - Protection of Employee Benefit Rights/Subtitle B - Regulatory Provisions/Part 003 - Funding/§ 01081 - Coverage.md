@@ -88,7 +88,7 @@ In general.—The amendments made by this section \[enacting section 1084 of thi
 
 "(2)
 
-Special rule for certain amortization extensions.—If the Secretary of the Treasury grants an extension under section 304 of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1084\] and section 412(e) of the Internal Revenue Code of 1986 \[former 26 U.S.C. 412(e)\] with respect to any application filed with the Secretary of the Treasury on or before June 30, 2005, the extension (and any modification thereof) shallbe applied and administered under the rules of such sections as in effect before the enactment of this Act \[Aug. 17, 2006\], including the use of the rate of interest determined under section 6621(b) of such Code \[26 U.S.C. 6621(b)\]."
+Special rule for certain amortization extensions.—If the Secretary of the Treasury grants an extension under section 304 of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1084\] and section 412(e) of the Internal Revenue Code of 1986 \[former 26 U.S.C. 412(e)\] with respect to any application filed with the Secretary of the Treasury on or before June 30, 2005, the extension (and any modification thereof) shall be applied and administered under the rules of such sections as in effect before the enactment of this Act \[Aug. 17, 2006\], including the use of the rate of interest determined under section 6621(b) of such Code \[26 U.S.C. 6621(b)\]."
 
 #### Effective Date of 1989 Amendment
 

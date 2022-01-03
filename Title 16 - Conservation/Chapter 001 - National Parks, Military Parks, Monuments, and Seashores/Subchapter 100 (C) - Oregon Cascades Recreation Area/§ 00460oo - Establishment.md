@@ -36,7 +36,7 @@ Within the recreation area, the Secretary may permit, under appropriate regulati
 
 &emsp;(3) livestock grazing, to the extent that such use will not significantly adversely affect the resources of the recreation area;
 
-&emsp;(4) salvage of major timber mortality caused by fire, insects, disease, blowdown, or other causes when the scenic characteristics of the recreation area are significantly affected, orthe health and safety of the public is threatened, or the overall protection of the forested area inside or outside the recreation area might be adversely affected by failure to remove the dead or damaged timber;
+&emsp;(4) salvage of major timber mortality caused by fire, insects, disease, blowdown, or other causes when the scenic characteristics of the recreation area are significantly affected, or the health and safety of the public is threatened, or the overall protection of the forested area inside or outside the recreation area might be adversely affected by failure to remove the dead or damaged timber;
 
 &emsp;(5) those developments or facilities necessary for the public enjoyment and use of the recreation area, when such development or facilities do not detract from the purposes of the recreation area; and
 
@@ -52,6 +52,8 @@ Management direction for the recreation area shall be developed in either the fo
 
 (Pub. L. 98–328, §4, June 26, 1984, 98 Stat. 275.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This subchapter, referred to in subsec. (a), was in the original "the Act", meaning Pub. L. 98–328, June 26, 1984, 98 Stat. 272, known as the Oregon Wilderness Act of 1984, which enacted this subchapter and provisions listed in a table of Wilderness Areas set out under section 1132 of this title. For complete classification of this Act to the Code, see Tables.
@@ -59,6 +61,8 @@ This subchapter, referred to in subsec. (a), was in the original "the Act", mean
 The Wilderness Act and Public Law 88–577, referred to in subsec. (f), are Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
 
 The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in subsec. (g), is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, which is classified generally to subchapter I (§1600 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Map of Recreation Area
 

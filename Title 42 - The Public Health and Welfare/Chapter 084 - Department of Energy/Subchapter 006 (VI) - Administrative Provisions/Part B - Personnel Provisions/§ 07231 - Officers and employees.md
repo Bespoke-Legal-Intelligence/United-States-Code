@@ -38,9 +38,11 @@ All positions in the Department which the Secretary determines are devoted to in
 
 (Pub. L. 95–91, title VI, §621, Aug. 4, 1977, 91 Stat. 596; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3784; Pub. L. 102–88, title IV, §403, Aug. 14, 1991, 105 Stat. 434.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-Section 5108(a) of title 5, referred to in subsec. (c)(1), was amended generally by Pub. L. 101–509, title V, §529 \[title I, §102(b)(2)\], Nov. 5, 1990, 104 Stat. 1427, 1443, and, as so amended, contains only one sentence.
+Section 5108(a) of title 5, referred to in subsec. (c)(1), was amended generally by Pub. L. 101–509, title V, §529\[title I, §102(b)(2)\], Nov. 5, 1990, 104 Stat. 1427, 1443, and, as so amended, contains only one sentence.
 
 This chapter, referred to in subsecs. (c)(2) and (d), was in the original "this Act", meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
@@ -52,13 +54,15 @@ August 14, 1991, referred to in subsec. (f), was in the original "the date of en
 
 <b>1991</b>—Subsec. (f). Pub. L. 102–88 added subsec. (f).
 
-#### Transfer of Functions
-
-"Director of the Office of Personnel Management" substituted for "Civil Service Commission" in subsec. (c)(2), pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred all functions vested by statute in United States Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+
+#### Recruitment and Direct Appointments of Highly Qualified Individuals To Meet Severe Candidate Shortages and Critical Hiring Needs
+
+Pub. L. 117–58, div. J, title III, §301, Nov. 15, 2021, 135 Stat. 1379, provided that: "Notwithstanding section 3304 of title 5, United States Code, and without regard to the provisions of sections 3309 through 3318 of such title 5, the Secretary of Energy, upon a determination that there is a severe shortage of candidates or a critical hiring need for particular positions to carry out the Department of Energy activities funded under this title, may, from within the funds provided to the Department of Energy under this title, recruit and directly appoint highly qualified individuals into the competitive service: <i>Provided</i>, That such authority shall not apply to positions in the Excepted Service or the Senior Executive Service: <i>Provided further</i>, That any action authorized herein shall be consistent with the merit principles of section 2301 of such title 5, and the Department shall comply with the public notice requirements of section 3327 of such title 5: <i>Provided further</i>, That the authority under this section shall terminate on September 30, 2027: <i>Provided further</i>, That 180 days after the date of enactment of this Act \[Nov. 15, 2021\], the Secretary of Energy shall submit to the House and Senate Committees on Appropriations an estimate of the number of highly qualified individuals it expects to hire under the authority provided in this section."
 
 #### Appointments of Exceptionally Well Qualified Individuals to Scientific, Engineering, or Other Critical Technical Positions
 
@@ -129,6 +133,12 @@ Termination of Effectiveness.—The authority provided by this section terminate
 #### Authority for Appointment of Certain Scientific, Engineering, and Technical Personnel
 
 Pub. L. 103–337, div. C, title XXXI, §3161, Oct. 5, 1994, 108 Stat. 3095, as amended by Pub. L. 105–85, div. C, title XXXI, §3139, Nov. 18, 1997, 111 Stat. 2040; Pub. L. 105–261, div. C, title XXXI, §§3152, 3155, Oct. 17, 1998, 112 Stat. 2253, 2257; Pub. L. 106–398, §1 \[div. C, title XXXI, §3191\], Oct. 30, 2000, 114 Stat. 1654, 1654A–480; Pub. L. 107–314, div. C, title XXXI, §3174, Dec. 2, 2002, 116 Stat. 2745, which was formerly set out as a note under this section, was renumbered section 4601 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(i)(2), Nov. 24, 2003, 117 Stat. 1776, and is classified to section 2701 of Title 50, War and National Defense.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+"Director of the Office of Personnel Management" substituted for "Civil Service Commission" in subsec. (c)(2), pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred all functions vested by statute inUnited States Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

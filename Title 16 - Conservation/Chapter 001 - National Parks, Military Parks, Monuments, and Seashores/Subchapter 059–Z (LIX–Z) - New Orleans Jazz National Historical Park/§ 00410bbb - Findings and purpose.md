@@ -6,7 +6,7 @@ The Congress finds that:
 
 &emsp;(1) Jazz is the United States' most widely recognized indigenous music and art form. Congress previously recognized jazz in 1987 through Senate Concurrent Resolution 57 as a rare and valuable national treasure of international importance.
 
-&emsp;(2) The city of New Orleans is widely recognized as the birthplace of jazz. In and around this city, cultural and musical elements blended to form the unique American music that is known as New Orleans jazz, which is an expression of the cultural diversity of the lower Mississippi Delta Region.
+&emsp;(2) The city of New Orleans is widely recognized as the birthplace of jazz. In and aroundthis city, cultural and musical elements blended to form the unique American music that is known as New Orleans jazz, which is an expression of the cultural diversity of the lower Mississippi Delta Region.
 
 &emsp;(3) Jean Lafitte National Historical Park and Preserve was established to commemorate the cultural diversity of the lower Mississippi Delta Region including a range of cultural expressions like jazz.
 
@@ -16,9 +16,13 @@ In furtherance of the need to recognize the value and importance of jazz, it is 
 
 (Pub. L. 103–433, title XII, §1202, Oct. 31, 1994, 108 Stat. 4519.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Senate Concurrent Resolution 57, referred to in subsec. (a)(1), probably means H. Con. Res. 57, Dec. 4, 1987, 101 Stat. 2013, which is not classified to the Code.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

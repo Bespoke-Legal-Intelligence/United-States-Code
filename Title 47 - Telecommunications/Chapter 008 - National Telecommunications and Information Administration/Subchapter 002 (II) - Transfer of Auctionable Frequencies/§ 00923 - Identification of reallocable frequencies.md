@@ -162,7 +162,7 @@ If the Secretary receives a notice from the Commission pursuant to section 3002(
 
 #### (1) Eligible Federal entities
 
-&emsp;Any Federal entity that operates a Federal Government station that incurs relocation or sharing costs because of planning for an auction of eligible spectrum frequencies or the reallocation of eligible spectrum frequencies from Federal use to exclusive non-Federal use or to shared use shall receive payment for such relocation or sharing costs from the Spectrum Relocation Fund, in accordance with this section and section 928 of this title. For purposes of this paragraph, Federal power agencies exempted under subsection (c)(4) that choose to relocate from the frequencies identified for reallocation pursuant to subsection (a) are eligible to receive payment under this paragraph.
+&emsp;Any Federal entity that operates a Federal Government station that incurs relocation or sharing costs because of planning for an auction of eligible spectrum frequencies or the reallocation of eligible spectrum frequencies from Federal use to exclusive non-Federal use or to shared use shall receive payment for such relocation or sharing costs from the Spectrum Relocation Fund, in accordance with this section and section 928 of this title. For purposes of this paragraph, Federal power agencies exempted under subsection (c)(4) thatchoose to relocate from the frequencies identified for reallocation pursuant to subsection (a) are eligible to receive payment under this paragraph.
 
 #### (2) Eligible frequencies
 
@@ -216,7 +216,7 @@ If the Secretary receives a notice from the Commission pursuant to section 3002(
 
 #### (5) Notice to congressional committees and GAO
 
-&emsp;The NTIA shall, at the time of providing an initial estimate of relocation or sharing costs to the Commission under paragraph (4)(A),submit to <sup>1</sup> Committees on Appropriations and Energy and Commerce of the House of Representatives for approval, to the Committees on Appropriations and Commerce, Science, and Transportation of the Senate for approval, and to the Comptroller General a copy of such estimate and the timelines for relocation or sharing. Unless disapproved within 30 days, the estimate shall be approved. If disapproved, the NTIA may resubmit a revised initial estimate.
+&emsp;The NTIA shall, at the time of providing an initial estimate of relocation or sharing costs to the Commission under paragraph (4)(A), submit to <sup>1</sup> Committees on Appropriations and Energy and Commerce of the House of Representatives for approval, to the Committees on Appropriations and Commerce, Science, and Transportation of the Senate for approval, and to the Comptroller General a copy of such estimate and the timelines for relocation or sharing. Unless disapproved within 30 days, the estimate shall be approved. If disapproved, the NTIA may resubmit a revised initial estimate.
 
 #### (6) Implementation of procedures
 
@@ -288,7 +288,7 @@ If the Secretary receives a notice from the Commission pursuant to section 3002(
 
 #### (v) Vacancies
 
-&emsp;&emsp;&emsp;Any member appointed to fill a vacancy occurring before the expiration of the term for which the member's predecessor was appointed shall be appointed only for the remainder of that term. A member may serve after the expiration of that member's term until a successor has taken office. A vacancy shall be filled in the manner in which the original appointment was made.
+&emsp;&emsp;&emsp;Any member appointed to fill a vacancy occurring before the expiration of the term for which the member's predecessor was appointed shall be appointed only for theremainder of that term. A member may serve after the expiration of that member's term until a successor has taken office. A vacancy shall be filled in the manner in which the original appointment was made.
 
 #### (vi) No compensation
 
@@ -374,11 +374,11 @@ If the Secretary receives a notice from the Commission pursuant to section 3002(
 
 #### (E) No compensation
 
-&emsp;&emsp;The members of the dispute resolution board shall not receive any compensation for service on the board. If any such member is an employee of the agency of the official that appointed such member to the board, compensation in the member's capacity as such an employee shall not be considered compensation under this subparagraph.
+&emsp;&emsp;The members of the dispute resolution board shall not receive any compensation forservice on the board. If any such member is an employee of the agency of the official that appointed such member to the board, compensation in the member's capacity as such an employee shall not be considered compensation under this subparagraph.
 
 #### (F) Termination of board
 
-&emsp;&emsp;The dispute resolution board shall be terminated after it rules on the dispute that itwas established to resolve and the time for appeal of its decision under paragraph (7) has expired, unless an appeal has been taken under such paragraph. If such an appeal has been taken, the board shall continue to exist until the appeal process has been exhausted and the board has completed any action required by a court hearing the appeal.
+&emsp;&emsp;The dispute resolution board shall be terminated after it rules on the dispute that it was established to resolve and the time for appeal of its decision under paragraph (7) has expired, unless an appeal has been taken under such paragraph. If such an appeal has been taken, the board shall continue to exist until the appeal process has been exhausted and the board has completed any action required by a court hearing the appeal.
 
 #### (3) Procedures
 
@@ -440,7 +440,7 @@ The Federal Advisory Committee Act, referred to in subsecs. (h)(3)(E) and (i)(9)
 
 #### Amendments
 
-<b>2015</b>—Subsec. (g)(1). Pub. L. 114–74, §1005(c)(1)(A), struck out "authorized to use a band of eligible frequencies described in paragraph (2) and" after "Federal Government station" and inserted "eligible" after "auction of" and after "reallocation of".
+<b>2015</b>—Subsec. (g)(1). Pub. L. 114–74, §1005(c)(1)(A), struck out "authorized to use a band of eligible frequencies described in paragraph (2) and" after "FederalGovernment station" and inserted "eligible" after "auction of" and after "reallocation of".
 
 Subsec. (g)(3)(A). Pub. L. 114–74, §1005(c)(1)(B), substituted "or the sharing of spectrum frequencies" for "previously assigned to such entity or the sharing of spectrum frequencies assigned to such entity".
 

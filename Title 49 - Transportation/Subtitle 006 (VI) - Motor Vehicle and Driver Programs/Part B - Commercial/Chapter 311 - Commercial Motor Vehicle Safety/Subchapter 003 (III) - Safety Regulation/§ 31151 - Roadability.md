@@ -42,7 +42,7 @@ Contents.—The regulations issued under this section shall include, at a minimu
 
 &emsp;&emsp;(K) a process by which equipment providers and agents of equipment providers shall be able to request the Administration to undertake an investigation of a motor carrier that is alleged to be not in compliance with the regulations issued under this section;
 
-&emsp;&emsp;(L) a process by which a driver or motor carrier transporting intermodal equipment is required to report to the intermodalequipment provider or the provider's designated agent any actual damage or defect in the intermodal equipment of which the driver or motor carrier is aware at the time the intermodal equipment is returned to the intermodal equipment provider or the provider's designated agent;
+&emsp;&emsp;(L) a process by which a driver or motor carrier transporting intermodal equipment is required to report to the intermodal equipment provider or the provider's designated agent any actual damage or defect in the intermodal equipment of which the driver or motor carrier is aware at the time the intermodal equipment is returned to the intermodal equipment provider or the provider's designated agent;
 
 &emsp;&emsp;(M) a requirement that any actual damage or defect identified in the process established under subparagraph (L) be repaired before the equipment is made available for interchange to a motor carrier and that repairs of equipment made pursuant to the requirements of this subparagraph and reports made pursuant to the subparagraph (L) process be documented in the maintenance records for such equipment; and
 
@@ -114,6 +114,8 @@ Interchange.—The term "interchange"—
 
 (Added Pub. L. 109–59, title IV, §4118(a), Aug. 10, 2005, 119 Stat. 1729; amended Pub. L. 110–244, title III, §301(e), June 6, 2008, 122 Stat. 1616; Pub. L. 112–141, div. C, title II, §32931(b), July 6, 2012, 126 Stat. 829.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this section, referred to in subsec. (a)(3)(E)(ii), is the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005.
@@ -125,6 +127,8 @@ The date of enactment of this section, referred to in subsec. (a)(3)(E)(ii), is 
 Subsec. (a)(4). Pub. L. 112–141, §32931(b)(2), struck out par. (4). Text read as follows: "Not later than 120 days after the date of enactment of this section, the Secretary shall initiate a rulemaking proceeding for issuance of the regulations under this section."
 
 <b>2008</b>—Subsec. (a)(3)(E)(ii). Pub. L. 110–244 substituted "section" for "Act".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

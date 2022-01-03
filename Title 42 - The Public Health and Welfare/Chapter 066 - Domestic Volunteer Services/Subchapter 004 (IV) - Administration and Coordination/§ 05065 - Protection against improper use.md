@@ -10,11 +10,15 @@ Whoever falsely—
 
 (Pub. L. 93–113, title IV, §425, as added and amended Pub. L. 103–82, title III, §370, title IV, §405(a)(11), Sept. 21, 1993, 107 Stat. 909, 921; Pub. L. 111–13, title II, §2155, Apr. 21, 2009, 123 Stat. 1592.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2009</b>—Pub. L. 111–13 substituted "Service Corps" for "Volunteer Corps" in concluding provisions.
 
 <b>1993</b>—Pub. L. 103–82, §405(a)(11), substituted "the Corporation" for "ACTION" in concluding provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

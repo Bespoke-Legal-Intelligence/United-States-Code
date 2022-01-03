@@ -104,11 +104,13 @@ Subject to subsection (b), with respect to health care items and services furnis
 
 (Pub. L. 105–12, §3, Apr. 30, 1997, 111 Stat. 23.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 105–12, Apr. 30, 1997, 111 Stat. 23, known as the Assisted Suicide Funding Restriction Act of 1997, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 14401 of this title and Tables.
 
-The Social Security Act, referred to in subsec. (d)(1)(A)–(D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles V, XVIII, XIX, and XX of the Act are classified generally to subchapters V (§701 et seq.), XVIII (§1395 et seq.), XIX (§1396 et seq.), and XX (§1397 et seq.), respectively, of chapter 7 of this title, respectively. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (d)(1)(A)–(D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles V, XVIII, XIX, and XX of the Act are classifiedgenerally to subchapters V (§701 et seq.), XVIII (§1395 et seq.), XIX (§1396 et seq.), and XX (§1397 et seq.), respectively, of chapter 7 of this title, respectively. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 The Public Health Service Act, referred to in subsec. (d)(1)(E), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 

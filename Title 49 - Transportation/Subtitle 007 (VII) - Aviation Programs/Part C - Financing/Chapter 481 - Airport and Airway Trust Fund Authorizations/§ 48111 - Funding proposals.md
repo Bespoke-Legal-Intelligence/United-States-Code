@@ -30,9 +30,13 @@ Rules of the Senate.—The provisions of this section are enacted—
 
 (Added Pub. L. 104–264, title II, §275(a), Oct. 9, 1996, 110 Stat. 3246.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 274(c) of the Air Traffic Management System Performance Improvement Act of 1996, referred to in subsec. (a), is section 274(c) of Pub. L. 104–264, which is set out as a note under section 40101 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

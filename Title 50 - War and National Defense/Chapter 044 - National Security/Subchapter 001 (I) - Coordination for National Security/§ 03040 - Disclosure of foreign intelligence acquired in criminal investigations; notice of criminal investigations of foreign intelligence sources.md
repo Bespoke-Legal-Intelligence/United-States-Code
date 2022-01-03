@@ -8,13 +8,15 @@
 
 #### (b) Procedures for notice of criminal investigations
 
-Not later than 180 days after October 26, 2001, the Attorney General, in consultation with the Director of National Intelligence, shall develop guidelines to ensure that after receipt of a report from an element of the intelligence community of activity of a foreign intelligence source or potential foreign intelligence source that may warrant investigation as criminal activity, the Attorney General provides notice to the Director, within a reasonable period of time, of his intention to commence, or decline to commence, a criminal investigation of such activity.
+Not later than 180 days after October 26, 2001, the Attorney General, in consultation with the Director of National Intelligence, shall developguidelines to ensure that after receipt of a report from an element of the intelligence community of activity of a foreign intelligence source or potential foreign intelligence source that may warrant investigation as criminal activity, the Attorney General provides notice to the Director, within a reasonable period of time, of his intention to commence, or decline to commence, a criminal investigation of such activity.
 
 #### (c) Procedures
 
 The Attorney General shall develop procedures for the administration of this section, including the disclosure of foreign intelligence by elements of the Department of Justice, and elements of other departments and agencies of the Federal Government, under subsection (a) and the provision of notice with respect to criminal investigations under subsection (b).
 
 (July 26, 1947, ch. 343, title I, §105B, as added Pub. L. 107–56, title IX, §905(a)(2), Oct. 26, 2001, 115 Stat. 388; amended Pub. L. 108–458, title I, §1071(a)(1)(G), (H), (2)(B), (C), Dec. 17, 2004, 118 Stat. 3689, 3690.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -33,6 +35,8 @@ Subsec. (a)(2). Pub. L. 108–458, §1071(a)(2)(B), struck out "of Central Intel
 Subsec. (b). Pub. L. 108–458, §1071(a)(2)(C), struck out "of Central Intelligence" after "notice to the Director".
 
 Pub. L. 108–458, §1071(a)(1)(H), substituted "with the Director of National Intelligence" for "with the Director of Central Intelligence".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

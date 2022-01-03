@@ -60,7 +60,7 @@ The Secretary may hold, seize, quarantine, treat, destroy, dispose of, or take o
 
 #### (1) In general
 
-&emsp;The Secretary, in writing, may order the owner of any animal, article, facility, or means of conveyance referred to in subsection (a) or (b) to maintain in quarantine, dispose of, or take other remedial action with respect to the animal, article, facility, or means of conveyance, in a manner determined by the Secretary.
+&emsp;The Secretary, in writing, may order the owner of any animal, article, facility, ormeans of conveyance referred to in subsection (a) or (b) to maintain in quarantine, dispose of, or take other remedial action with respect to the animal, article, facility, or means of conveyance, in a manner determined by the Secretary.
 
 #### (2) Failure to comply with orders
 
@@ -108,6 +108,8 @@ The Secretary may hold, seize, quarantine, treat, destroy, dispose of, or take o
 
 (Pub. L. 107–171, title X, §10407, May 13, 2002, 116 Stat. 498; Pub. L. 110–234, title XI, §11011(1), May 22, 2008, 122 Stat. 1360; Pub. L. 110–246, §4(a), title XI, §11011(1), June 18, 2008, 122 Stat. 1664, 2121.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a) and (d)(3), was in the original "this subtitle", meaning subtitle E (§§10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Short Title note set out under section 8301 of this title and Tables.
@@ -119,6 +121,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 #### Amendments
 
 <b>2008</b>—Subsec. (d)(2)(C). Pub. L. 110–246, §11011(1), struck out "of longer than 60 days" after "or review".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

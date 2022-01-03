@@ -60,7 +60,7 @@ In addition to applicable provisions of subsection (c), the reorganization plan 
 
 #### (e) Modification of plan
 
-The President may, on the basis of consultations with the appropriate congressional committees, modify or revise any part of the plan transmitted under subsection (a) until that part of the plan becomes effective in accordance with subsection (g).
+The President may, on the basis of consultations with the appropriate congressional committees, modify or revise any part of the plan transmitted under subsection (a) until that partof the plan becomes effective in accordance with subsection (g).
 
 #### (f) Report
 

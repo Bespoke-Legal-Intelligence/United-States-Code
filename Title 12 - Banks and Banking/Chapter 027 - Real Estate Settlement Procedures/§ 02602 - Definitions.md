@@ -44,7 +44,7 @@ Section 1602(f) of title 15, referred to in par. (1)(B)(iv), was redesignated se
 
 <b>1996</b>—Par. (7). Pub. L. 104–208 substituted "affiliated business arrangement" for "controlled business arrangement".
 
-<b>1992</b>—Par. (1)(A). Pub. L. 102–550, §908(b), inserted "or subordinate" after "first" and ", including any such secured loan, the proceeds of which are used to prepay or pay off an existing loan secured by the same property" after "families".
+<b>1992</b>—Par. (1)(A). Pub. L. 102–550, §908(b), inserted "or subordinate" after "first" and ", including any suchsecured loan, the proceeds of which are used to prepay or pay off an existing loan secured by the same property" after "families".
 
 Par. (3). Pub. L. 102–550, §908(a), inserted "the origination of a federally related mortgage loan (including, but not limited to, the taking of loan applications, loan processing, and the underwriting and funding of loans)," after "broker,".
 

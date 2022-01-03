@@ -352,7 +352,7 @@ Totals
 
 226,352
 
-(B) The Secretary of Energy shall offer Schedule D contingency capacity and firm energy to entities not receiving contingent capacity and firm energy under subparagraphs (A) and (B) of paragraph (1) (referred to in this section as "new allottees") for delivery commencing October 1, 2017 pursuant to this subsection. In this subsection, the term "the marketing area for the Boulder City Area Projects" shall have the same meaning as in appendix A of the Conformed General Consolidated Power Marketing Criteria or Regulations for Boulder City Area Projects published in the Federal Register on December 28,1984 (49 Federal Register 50582 et seq.) (referred to in this section as the "Criteria").
+(B) The Secretary of Energy shall offer Schedule D contingency capacity and firm energy to entities not receiving contingent capacity and firm energy under subparagraphs (A) and (B) of paragraph (1) (referred to in this section as "new allottees") for delivery commencing October 1, 2017 pursuant to this subsection. In this subsection, the term "the marketing area for the Boulder City Area Projects" shall have the same meaning as in appendix A of the Conformed General Consolidated Power Marketing Criteria or Regulations for Boulder City Area Projects published in the Federal Register on December 28, 1984 (49 Federal Register 50582 et seq.) (referred to in this section as the "Criteria").
 
 (C)(i) Within 36 months of December 20, 2011, the Secretary of Energy shall allocate through the Western Area Power Administration (referred to in this section as "Western"), for delivery commencing October 1, 2017, for use in the marketing area for the Boulder City Area Projects 66.7 percent of the Schedule D contingent capacity and firm energy to new allottees that are located within the marketing area for the Boulder City Area Projects and that are—
 
@@ -370,7 +370,7 @@ Totals
 
 &emsp;(iii) Western for allocation to new allottees within the State of California, provided that Western shall have 36 months to complete such allocation.
 
-(E) Each contract offered pursuant to this subsection shall include a provision requiring the new allottee to pay a proportionate share of its State's respective contribution (determined in accordance with each State's applicable funding agreement) to the cost of the Lower Colorado River Multi-Species Conservation Program (as defined in section 9401 of the Omnibus Public Land Management Act of 2009 (Public Law 111–11; 123 Stat. 1327)), and to execute the Boulder Canyon Project Implementation Agreement Contract No. 95–PAO–10616 (referred to in this section as the "Implementation Agreement").
+(E) Each contract offered pursuant to this subsection shall include a provision requiring thenew allottee to pay a proportionate share of its State's respective contribution (determined in accordance with each State's applicable funding agreement) to the cost of the Lower Colorado River Multi-Species Conservation Program (as defined in section 9401 of the Omnibus Public Land Management Act of 2009 (Public Law 111–11; 123 Stat. 1327)), and to execute the Boulder Canyon Project Implementation Agreement Contract No. 95–PAO–10616 (referred to in this section as the "Implementation Agreement").
 
 (F) Any of the 66.7 percent of Schedule D contingent capacity and firm energy that is to be allocated by Western that is not allocated and placed under contract by October 1, 2017, shall be returned to those contractors shown in Schedule A and Schedule B in the same proportion as those contractors' allocations of Schedule A and Schedule B contingent capacity and firm energy. Any of the 33.3 percent of Schedule D contingent capacity and firm energy that is to be distributed within the States of Arizona, Nevada, and California that is not allocated and placed under contract by October 1, 2017, shall be returned to the Schedule A and Schedule B contractors within the State in which the Schedule D contingent capacity and firm energy were to be distributed, in the same proportion as those contractors' allocations of Schedule A and Schedule B contingent capacity and firm energy.
 
@@ -390,7 +390,7 @@ Totals
 
 &emsp;(E) permit transactions with an independent system operator; and
 
-&emsp;(F) contain the same material terms included in section 5.6 of those long-term contracts for purchases from the Hoover PowerPlant that were made in accordance with this subchapter and are in existence on December 20, 2011.
+&emsp;(F) contain the same material terms included in section 5.6 of those long-term contracts for purchases from the Hoover Power Plant that were made in accordance with this subchapter and are in existence on December 20, 2011.
 
 #### (b) Prejudice of rights of contract holders under Boulder Canyon Project Act
 
@@ -436,7 +436,7 @@ Section 107 of this Act, referred to in subsec. (f)(2), is section 107 of Pub. L
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a)(1)(A). Pub. L. 112–72, §2(a), substituted "contract for delivery commencing October 1, 2017" for "renewal contract for delivery commencing June 1, 1987", inserted Schedule A, and struck out former Schedule A relating to long term contingent capacity and associated firm energy reserved for renewalcontract offers to current Boulder Canyon project contractors.
+<b>2011</b>—Subsec. (a)(1)(A). Pub. L. 112–72, §2(a), substituted "contract for delivery commencing October 1, 2017" for "renewal contract for delivery commencing June 1, 1987", inserted Schedule A, and struck out former Schedule A relating to long term contingent capacity and associated firm energy reserved for renewal contract offers to current Boulder Canyon project contractors.
 
 Subsec. (a)(1)(B). Pub. L. 112–72, §2(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) related to contract offers to purchasers in Arizona, Nevada, and California eligible to enter into such contracts under 43 U.S.C. 617d, for delivery commencing June 1, 1987, of capacity resulting from the uprating program and associated firm energy as provided in former Schedule B with certain provisos.
 

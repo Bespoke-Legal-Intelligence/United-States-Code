@@ -10,13 +10,15 @@ Benefits under this subchapter shall be paid at such time or times and in such i
 
 #### (c) Entitlement redeterminations
 
-An individual's entitlement to benefits under this subchapter, and the amount of the benefits,may be redetermined at such time or times as the Commissioner of Social Security determines to be appropriate.
+An individual's entitlement to benefits under this subchapter, and the amount of the benefits, may be redetermined at such time or times as the Commissioner of Social Security determines to be appropriate.
 
 #### (d) Suspension and termination of benefits
 
 Regulations prescribed by the Commissioner of Social Security under subsection (a) may provide for the suspension and termination of entitlement to benefits under this subchapter as the Commissioner determines is appropriate.
 
 (Aug. 14, 1935, ch. 531, title VIII, §810, as added Pub. L. 106–169, title II, §251(a), Dec. 14, 1999, 113 Stat. 1852.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

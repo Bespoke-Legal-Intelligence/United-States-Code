@@ -10,6 +10,8 @@ In any relicensing proceeding before the Commission any Federal department or ag
 
 (June 10, 1920, ch. 285, pt. I, §14, 41 Stat. 1071; renumbered pt. I and amended, Aug. 26, 1935, ch. 687, title II, §§207, 212, 49 Stat. 844, 847; Pub. L. 90–451, §2, Aug. 3, 1968, 82 Stat. 617; Pub. L. 99–495, §4(b)(2), Oct. 16, 1986, 100 Stat. 1248.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1986</b>—Subsec. (b). Pub. L. 99–495 struck out first sentence which read as follows: "No earlier than five years before the expiration of any license, the Commission shall entertain applications for a new license and decide them in a relicensing proceeding pursuant to the provisions of section 808 of this title."
@@ -17,6 +19,8 @@ In any relicensing proceeding before the Commission any Federal department or ag
 <b>1968</b>—Pub. L. 90–451 designated existing provisions as subsec. (a) and added subsec. (b).
 
 <b>1935</b>—Act Aug. 26, 1935, §207, amended section generally.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

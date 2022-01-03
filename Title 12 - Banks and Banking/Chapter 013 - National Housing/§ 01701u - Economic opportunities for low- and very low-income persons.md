@@ -118,7 +118,7 @@ October 28, 1992, referred to in subsec. (g), was in the original "the date of e
 
 #### Amendments
 
-<b>2014</b>—Subsec. (c)(1)(B)(iii). Pub. L. 113–128, §512(p)(1)(A), substituted "participants in YouthBuildprograms receiving assistance under section 3226 of title 29" for "participants in YouthBuild programs receiving assistance under section 2918a of title 29".
+<b>2014</b>—Subsec. (c)(1)(B)(iii). Pub. L. 113–128, §512(p)(1)(A), substituted "participants in YouthBuild programs receiving assistance under section 3226 of title 29" for "participants in YouthBuild programs receiving assistance under section 2918a of title 29".
 
 Subsec. (c)(2)(B). Pub. L. 113–128, §512(p)(1)(B), substituted "participants in YouthBuild programs receiving assistance under section 3226 of title 29" for "participants in YouthBuild programs receiving assistance under section 2918a of title 29".
 

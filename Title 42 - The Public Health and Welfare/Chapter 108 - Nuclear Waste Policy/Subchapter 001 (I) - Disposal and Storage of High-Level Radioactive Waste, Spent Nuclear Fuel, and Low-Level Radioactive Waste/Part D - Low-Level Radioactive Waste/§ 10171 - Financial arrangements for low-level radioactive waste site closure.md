@@ -14,7 +14,7 @@
 
 &emsp;(B) such title and custody will be transferred to the Secretary without cost to the Federal Government; and
 
-&emsp;(C) Federal ownership and management of such site is necessary or desirable in order to protect the public health and safety, and the environment.
+&emsp;(C) Federal ownership and management of such site is necessary or desirable in order toprotect the public health and safety, and the environment.
 
 (2) If the Secretary assumes title and custody of any such waste and land under this subsection, the Secretary shall maintain such waste and land in a manner that will protect the public health and safety, and the environment.
 

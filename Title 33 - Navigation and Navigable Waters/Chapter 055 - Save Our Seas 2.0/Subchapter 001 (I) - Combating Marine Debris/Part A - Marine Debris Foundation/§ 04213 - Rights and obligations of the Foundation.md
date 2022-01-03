@@ -64,5 +64,5 @@ The Foundation shall consult with the Under Secretary during the planning of any
 
 #### References in Text
 
-This subchapter, referred to in subsec. (c)(1), was in the original "this title", meaning title I of Pub. L. 116–224, Dec. 18, 2020, 134 Stat. 1074, which is classified principally to this subchapter. For complete classification of title I to the Code, see Tables.
+This subchapter, referred to in subsec. (c)(1), was in the original "this title", meaning title I of Pub. L. 116–224, Dec. 18, 2020, 134 Stat. 1074, which is classifiedprincipally to this subchapter. For complete classification of title I to the Code, see Tables.
 

@@ -50,7 +50,7 @@
 
 #### (d) Application of certain provisions relating to escape of prisoners
 
-For purposes of sections 751 and 752 of title 18, an alien in the custody of the Attorney General pursuant to this subchapter shall be subject to the penalties provided by those sections in relation to a person committed to the custody of the Attorney General by virtue of an arrest on a charge of a felony.
+For purposes of sections 751 and 752 of title 18, an alien in the custody of the Attorney General pursuant to this subchapter shall be subject tothe penalties provided by those sections in relation to a person committed to the custody of the Attorney General by virtue of an arrest on a charge of a felony.
 
 #### (e) Rights of aliens in custody
 

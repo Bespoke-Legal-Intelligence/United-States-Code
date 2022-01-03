@@ -16,13 +16,13 @@ No person shall be subject to the penalties of subsection (a) of this section, (
 
 &emsp;(A) if the person who violated such subsection is not the manufacturer, importer, or private labeler or a distributor of the substances involved; and
 
-&emsp;(B) if such person did not have either (i) actual knowledge that such person's distribution or sale of the substance violated such subsection, or (ii) notice from the Commission that such distribution or sale would be a violation of such subsection.
+&emsp;(B) if such person did not have either (i) actual knowledge that such person's distributionor sale of the substance violated such subsection, or (ii) notice from the Commission that such distribution or sale would be a violation of such subsection.
 
 (3) In determining the amount of any penalty to be sought upon commencing an action seeking to assess a penalty for a violation of section 1263 of this title, the Commission shall consider the nature, circumstances, extent, and gravity of the violation, including the nature of the substance, the severity of the risk of injury, the occurrence or absence of injury, the amount of the substance distributed, the appropriateness of such penalty in relation to the size of the business of the person charged, including how to mitigate undue adverse economic impacts on small businesses, and such other factors as appropriate.
 
 (4) Any civil penalty under this subsection may be compromised by the Commission. In determining the amount of such penalty or whether it should be remitted or mitigated, and in what amount, the Commission shall consider the appropriateness of such penalty to the size of the business of the persons charged, including how to mitigate undue adverse economic impacts on small businesses, the nature, circumstances, extent, and gravity of the violation, including,<sup>1</sup> the nature of the substance involved, the severity of the risk of injury, the occurrence or absence of injury, and the amount of the substance distributed, and such other factors as appropriate. The amount of such penalty when finally determined, or the amount agreed on compromise, may be deducted from any sums owing by the United States to the person charged.
 
-(5) As used in the first sentence of paragraph (1), the term "knowingly" means (A) having actual knowledge, or (B) the presumed having of knowledge deemed to be possessed by a reasonable person who acts in the circumstances, including knowledge obtainable upon the exerciseof due care to ascertain the truth of representations.
+(5) As used in the first sentence of paragraph (1), the term "knowingly" means (A) having actual knowledge, or (B) the presumed having of knowledge deemed to be possessed by a reasonable person who acts in the circumstances, including knowledge obtainable upon the exercise of due care to ascertain the truth of representations.
 
 (6)(A) The maximum penalty amounts authorized in paragraph (1) shall be adjusted for inflation as provided in this paragraph.
 
@@ -54,6 +54,8 @@ In the case of an attorney general of a State alleging a violation that affects 
 
 (Pub. L. 86–613, §5, July 12, 1960, 74 Stat. 376; Pub. L. 89–756, §§2(g), 3(c), Nov. 3, 1966, 80 Stat. 1304, 1305; Pub. L. 95–631, §7(b), Nov. 10, 1978, 92 Stat. 3745; Pub. L. 101–608, title I, §§115(b), 118(a), Nov. 16, 1990, 104 Stat. 3119, 3121; Pub. L. 110–314, title II, §§204(b)(4)(B), (H), 217(a)(2), (b)(1)(B), (c)(3), Aug. 14, 2008, 122 Stat. 3041, 3042, 3058, 3059, 3060.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–314, §217(c)(3), substituted "5 years, a fine determined under section 3571 of title 18, or both." for "one year, or a fine of not more than $3,000, or both such imprisonment and fine."
@@ -77,6 +79,8 @@ Subsec. (d). Pub. L. 101–608, §118(a), added subsec. (d).
 <b>1978</b>—Subsec. (b)(3). Pub. L. 95–631 substituted "with respect to" for "in respect of" and made cl. (3) inapplicable when the Consumer Product Safety Commission determines that exportation of the substance presents an unreasonable risk of injury to persons residing within the United States.
 
 <b>1966</b>—Subsec. (b). Pub. L. 89–756 substituted "a misbranded hazardous substance or a banned hazardous substance within the meaning of those terms" for "in misbranded packages within the meaning of that term".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

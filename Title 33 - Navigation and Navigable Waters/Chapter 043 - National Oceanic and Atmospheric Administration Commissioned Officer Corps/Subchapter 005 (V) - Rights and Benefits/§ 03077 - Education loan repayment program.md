@@ -2,7 +2,7 @@
 
 #### (a) Authority to repay education loans
 
-For the purpose of maintaining adequate numbers of officers of the commissioned officer corps of the Administration on active duty who have skills required by the commissioned officer corps, the Secretary may repay, in the case of a person described in subsection (b), a loan that—
+For the purpose of maintaining adequate numbers of officers of the commissioned officer corpsof the Administration on active duty who have skills required by the commissioned officer corps, the Secretary may repay, in the case of a person described in subsection (b), a loan that—
 
 &emsp;(1) was used by the person to finance education; and
 

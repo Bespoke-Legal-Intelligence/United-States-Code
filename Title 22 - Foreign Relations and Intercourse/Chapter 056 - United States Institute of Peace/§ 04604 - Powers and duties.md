@@ -40,7 +40,7 @@ The Institute, acting through the Board, may—
 
 (2) The Board shall establish an advisory panel composed of persons eminent in peacemaking, diplomacy, public affairs, and scholarship, and such advisory panel shall advise the Board during its consideration of the selection of the recipient of the award.
 
-(3) The Institute shall inform the Committee on Foreign Relations and the Committee on Labor and Human Resources of the Senate and the Committee on Foreign Affairs and the Committee on Education and Labor of the House of Representatives about the selection procedures it intends to follow, together with any other matters relevant to making the award and emphasizing its prominence and significance.
+(3) The Institute shall inform the Committee on Foreign Relations and the Committee on Labor and Human Resources of the Senate andthe Committee on Foreign Affairs and the Committee on Education and Labor of the House of Representatives about the selection procedures it intends to follow, together with any other matters relevant to making the award and emphasizing its prominence and significance.
 
 #### (d) Description of extension and outreach activities
 
@@ -104,7 +104,7 @@ The Institute may do any and all lawful acts and things necessary or desirable t
 
 #### (n) Legislative influencing-activity prohibition; communications or testimony of personnel
 
-The Institute shall not itself undertake to influence the passage or defeat of any legislation by the Congress of the United States or by any State or local legislative bodies, or by the United Nations, except that personnel of the Institute may testify or make other appropriate communication when formally requested to do so by a legislative body, a committee, or a member thereof.
+The Institute shall not itself undertake to influence the passage or defeat of any legislation by the Congress of the United States or by any State or local legislative bodies, or by theUnited Nations, except that personnel of the Institute may testify or make other appropriate communication when formally requested to do so by a legislative body, a committee, or a member thereof.
 
 #### (o) Administrative services from General Services Administration
 
@@ -116,7 +116,7 @@ The Institute may obtain administrative support services from the Administrator 
 
 #### References in Text
 
-The District of Columbia Nonprofit Corporation Act, referred to in subsec. (a), is Pub. L. 87–569, Aug. 6, 1962,76 Stat. 265, as amended, which is not classified to the Code.
+The District of Columbia Nonprofit Corporation Act, referred to in subsec. (a), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, as amended, which is not classified to the Code.
 
 #### Amendments
 

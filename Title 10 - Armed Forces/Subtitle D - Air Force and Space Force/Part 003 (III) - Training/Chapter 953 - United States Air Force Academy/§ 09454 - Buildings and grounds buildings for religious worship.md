@@ -20,9 +20,13 @@ July 8, 1898, ch. 636, 30 Stat. 722.
 
 The words "in his discretion" and "Government of" are omitted as surplusage. The words "United States" are substituted for the word "Government".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 9354 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

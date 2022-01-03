@@ -2,7 +2,7 @@
 
 It is the purpose of this subchapter to provide—
 
-&emsp;(1) opportunities for senior service to meet unmet local, State, and national needs in the areas of education, public safety, emergency and disaster preparedness, relief, and recovery, health and human needs, and the environment;
+&emsp;(1) opportunities for senior service to meet unmet local, State, and national needs in the areas of education, public safety, emergencyand disaster preparedness, relief, and recovery, health and human needs, and the environment;
 
 &emsp;(2) for the National Senior Service Corps, comprised of the Retired and Senior Volunteer Program, the Foster Grandparent Program, and the Senior Companion Program, and demonstration and other programs, to empower people 55 years of age or older to contribute to their communities through service, enhance the lives of those who serve and those whom they serve, and provide communities with valuable services;
 
@@ -14,6 +14,8 @@ It is the purpose of this subchapter to provide—
 
 (Pub. L. 93–113, title II, §200, as added Pub. L. 101–204, title V, §501, Dec. 7, 1989, 103 Stat. 1815; amended Pub. L. 103–82, title III, §§341(b)(1), 342(b), Sept. 21, 1993, 107 Stat. 904; Pub. L. 111–13, title II, §2142, Apr. 21, 2009, 123 Stat. 1584.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2009</b>—Pub. L. 111–13 amended section generally. Prior to amendment, section set forth a statement of purposes regarding the National Senior Volunteer Corps.
@@ -21,6 +23,8 @@ It is the purpose of this subchapter to provide—
 <b>1993</b>—Par. (1). Pub. L. 103–82, §§341(b)(1), 342(b), substituted "National Senior Volunteer Corps" for "Older American Volunteer Programs" and "Retired and Senior Volunteer Program" for "retired senior volunteer program".
 
 Par. (2). Pub. L. 103–82, §342(b), substituted "Retired and Senior Volunteer Program" for "retired senior volunteer program".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

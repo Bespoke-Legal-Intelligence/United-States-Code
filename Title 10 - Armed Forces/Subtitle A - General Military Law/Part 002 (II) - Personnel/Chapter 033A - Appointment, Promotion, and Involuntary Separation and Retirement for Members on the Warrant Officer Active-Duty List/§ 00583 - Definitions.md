@@ -4,9 +4,9 @@ In this chapter:
 
 &emsp;(1) The term "promotion zone" means a promotion eligibility category consisting of officers on a warrant officer active-duty list in the same grade (or the same grade and competitive category) who—
 
-&emsp;&emsp;(A) in the case of grades below chief warrant officer, W–5, have neither (i) failed ofselection for promotion to the next higher grade, nor (ii) been removed from a list of warrant officers recommended for promotion to that grade (other than after having been placed on that list after a selection from below the promotion zone); and
+&emsp;&emsp;(A) in the case of grades below chief warrant officer, W–5, have neither (i) failed of selection for promotion to the next higher grade, nor (ii) been removed from a list of warrant officers recommended for promotion to that grade (other than after having been placed on that list after a selection from below the promotion zone); and
 
-&emsp;&emsp;(B) are senior to the warrant officer designated by the Secretary concerned to be the junior warrant officer in the promotion zone eligible for promotion to the next higher grade.
+&emsp;&emsp;(B) are senior to the warrant officer designated by the Secretary concerned to be the junior warrant officer in the promotion zoneeligible for promotion to the next higher grade.
 
 &emsp;(2) The term "warrant officers above the promotion zone" means a group of officers on a warrant officer active-duty list in the same grade (or the same grade and competitive category) who—
 
@@ -28,6 +28,8 @@ In this chapter:
 
 (Added Pub. L. 102–190, div. A, title XI, §1112(a), Dec. 5, 1991, 105 Stat. 1501; amended Pub. L. 103–337, div. A, title V, §541(f)(7), Oct. 5, 1994, 108 Stat. 2767.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 41a of title 14, referred to in par. (4), was redesignated section 2102 of title 14 by Pub. L. 115–282, title I, §112(b), Dec. 4, 2018, 132 Stat. 4216, and references to section 41a of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
@@ -35,6 +37,8 @@ Section 41a of title 14, referred to in par. (4), was redesignated section 2102 
 #### Amendments
 
 <b>1994</b>—Par. (4). Pub. L. 103–337 added par. (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

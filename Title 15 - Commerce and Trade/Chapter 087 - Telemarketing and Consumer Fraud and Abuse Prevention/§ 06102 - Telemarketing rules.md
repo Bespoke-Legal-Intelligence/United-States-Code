@@ -46,7 +46,7 @@ Any violation of any rule prescribed under subsection (a)—
 
 &emsp;&emsp;&emsp;(ii) such a rule promulgated by the Securities and Exchange Commission is not necessary or appropriate in the public interest, or for the protection of investors, or would be inconsistent with the maintenance of fair and orderly markets.
 
-> &emsp;&emsp;If the Securities and Exchange Commission determines that an exception described inclause (i) or (ii) applies, the Securities and Exchange Commission shall publish in the Federal Register its determination with the reasons for it.
+> &emsp;&emsp;If the Securities and Exchange Commission determines that an exception described in clause (i) or (ii) applies, the Securities and Exchange Commission shall publish in the Federal Register its determination with the reasons for it.
 
 #### (2) Application
 
@@ -68,11 +68,13 @@ Any violation of any rule prescribed under subsection (a)—
 
 #### (1) Application
 
-&emsp;The rules promulgated by the Federal Trade Commission under subsection (a) shall not apply to persons described in section 9b(1) of title 7.
+&emsp;The rules promulgated by the Federal Trade Commission under subsection (a) shall notapply to persons described in section 9b(1) of title 7.
 
 #### (2) Omitted
 
 (Pub. L. 103–297, §3, Aug. 16, 1994, 108 Stat. 1545; Pub. L. 107–56, title X, §1011(b)(1), (2), Oct. 26, 2001, 115 Stat. 396; Pub. L. 111–203, title X, §1100C(a), July 21, 2010, 124 Stat. 2110.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -97,6 +99,8 @@ Enforcement.—Any violation of any rule prescribed under subsection (a) of this
 <b>2001</b>—Subsec. (a)(2). Pub. L. 107–56, §1011(b)(1), inserted "which shall include fraudulent charitable solicitations, and" before "which may include".
 
 Subsec. (a)(3)(D). Pub. L. 107–56, §1011(b)(2), added subpar. (D).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

@@ -10,6 +10,8 @@ Subsection (a) shall not apply to a trust exempt from taxation under section 501
 
 (Added Pub. L. 99–514, title XIV, §1403(a), Oct. 22, 1986, 100 Stat. 2713, §645; renumbered §644, Pub. L. 105–34, title V, §507(b)(1), Aug. 5, 1997, 111 Stat. 856.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 644, added Pub. L. 94–455, title VII, §701(e)(1), Oct. 4, 1976, 90 Stat. 1578; amended Pub. L. 95–600, title VII, §701(p)(1)–(3), Nov. 6, 1978, 92 Stat. 2908; Pub. L. 96–471, §2(b)(4), Oct. 19, 1980, 94 Stat. 2254; Pub. L. 99–514, title XV, §1511(c)(5), Oct. 22, 1986, 100 Stat. 2745, related to special rule for gain on property transferred to trust at less than fair market value, prior to repeal by Pub. L. 105–34, title V, §507(b)(1), Aug. 5, 1997, 111 Stat. 856.
@@ -17,6 +19,8 @@ A prior section 644, added Pub. L. 94–455, title VII, §701(e)(1), Oct. 4, 197
 #### Amendments
 
 <b>1997</b>—Pub. L. 105–34 renumbered section 645 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1997 Amendment
 
@@ -38,7 +42,7 @@ Transition rule.—With respect to any trust beneficiary who is required to incl
 
 Pub. L. 100–647, title I, §1014(c), Nov. 10, 1988, 102 Stat. 3559, provided that:
 
-"(1) If a beneficiary of a trust to which section 664 of the 1986 Code applies elects (at such time and in suchmanner as the Secretary of the Treasury or his delegate may prescribe) to have this paragraph apply, such beneficiary shall be entitled to the benefits of section 1403(c)(2) of the Reform Act \[Pub. L. 99–514, set out as an Effective Date; Transition Rule note above\] with respect to amounts included in gross income under section 664(b) of the 1986 Code in the same manner as if such amounts were included in gross income under section 652(a) of the 1986 Code.
+"(1) If a beneficiary of a trust to which section 664 of the 1986 Code applies elects (at such time and in such manner as the Secretary of the Treasury or his delegate may prescribe) to have this paragraph apply, such beneficiary shall be entitled to the benefits of section 1403(c)(2) of the Reform Act \[Pub. L. 99–514, set out as an Effective Date; Transition Rule note above\] with respect to amounts included in gross income under section 664(b) of the 1986 Code in the same manner as if such amounts were included in gross income under section 652(a) of the 1986 Code.
 
 "(2) Any trust beneficiary may elect (at such time and in such manner as the Secretary of the Treasury or his delegate may prescribe) to waive the benefits of section 1403(c)(2) of the Reform Act.
 

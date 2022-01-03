@@ -8,7 +8,7 @@ Bidding Requirements.—
 
 &emsp;(1)
 
-In general.—Subject to paragraphs (2) and (3), construction of each project, subject to the provisions of subsection (a) of this section, shall be performed by contract awarded by competitive bidding, unless the State transportation department demonstrates, to the satisfaction of the Secretary, that some other method is more cost effective or that an emergency exists. Contracts for the construction of each project shall be awarded only on the basis of the lowest responsive bid submitted by a bidder meeting established criteria of responsibility. No requirement or obligation shall be imposed as a condition precedent to the award of a contract to such bidder for a project, or to the Secretary's concurrence in the award of a contract to such bidder, unless such requirement or obligation is otherwise lawful and is specifically set forth in the advertised specifications.
+In general.—Subject to paragraphs (2) and (3), construction of each project, subjectto the provisions of subsection (a) of this section, shall be performed by contract awarded by competitive bidding, unless the State transportation department demonstrates, to the satisfaction of the Secretary, that some other method is more cost effective or that an emergency exists. Contracts for the construction of each project shall be awarded only on the basis of the lowest responsive bid submitted by a bidder meeting established criteria of responsibility. No requirement or obligation shall be imposed as a condition precedent to the award of a contract to such bidder for a project, or to the Secretary's concurrence in the award of a contract to such bidder, unless such requirement or obligation is otherwise lawful and is specifically set forth in the advertised specifications.
 
 &emsp;(2)
 
@@ -34,7 +34,9 @@ Application of rates.—Once a firm's indirect cost rates are accepted under thi
 
 Prenotification; confidentiality of data.—A recipient of funds requesting or using the cost and rate data described in subparagraph (D) shall notify any affected firm before such request or use. Such data shall be confidential and shall not be accessible or provided, in whole or in part, to another firm or to any government agency which is not part of the group of agencies sharing cost data under this paragraph, except by written permission of the audited firm. If prohibited by law, such cost and rate data shall not be disclosed under any circumstances.
 
-&emsp;&emsp;(F)(F) <sup>1</sup> Subparagraphs (B), (C), (D) and (E) herein shall not apply to the States of West Virginia or Minnesota.
+&emsp;&emsp;(F)
+
+Exclusion.—Subparagraphs (B), (C), (D) and (E) herein shall not apply to the States of West Virginia or Minnesota.
 
 &emsp;(3)
 
@@ -66,7 +68,7 @@ Regulatory process.—Not later than 90 days after the date of enactment of the 
 
 &emsp;&emsp;&emsp;(ii) require that the State transportation department or local transportation agency receive concurrence from the Secretary before carrying out an activity under clause (i); and
 
-&emsp;&emsp;&emsp;(iii) preclude the design-build contractor from proceeding with final design or construction of any permanent improvementprior to completion of the process under such section 102.
+&emsp;&emsp;&emsp;(iii) preclude the design-build contractor from proceeding with final design or construction of any permanent improvement prior to completion of the process under such section 102.
 
 &emsp;&emsp;(E)
 
@@ -176,7 +178,7 @@ Design-build contracts.—Paragraph (1) shall not apply to any design-build cont
 
 (f)
 
-Selection Process.—A State may procure, under a single contract, the services of a consultant to prepare any environmental impact assessments or analyses required for a project, including environmental impact statements, as well as subsequent engineering and design work on the project if the State conducts a review that assesses the objectivity of the environmental assessment, environmental analysis, or environmental impact statement prior to its submission to the Secretary.
+Selection Process.—A State may procure, under a single contract, the services of a consultant to prepare any environmental impact assessments or analyses required for a project, including environmental impact statements, as well as subsequent engineering and design workon the project if the State conducts a review that assesses the objectivity of the environmental assessment, environmental analysis, or environmental impact statement prior to its submission to the Secretary.
 
 (g)
 
@@ -202,7 +204,7 @@ Limitation.—Nothing in the regulations shall prohibit a State from implementin
 
 Positive protective measures defined.—In this subsection, the term "positive protective measures" means temporary traffic barriers, crash cushions, and other strategies to avoid traffic accidents in work zones, including full road closures.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 895; Pub. L. 90–495, §22(c), Aug. 23, 1968, 82 Stat. 827; Pub. L. 96–470, title I, §112(b)(1), Oct. 19, 1980, 94 Stat. 2239; Pub. L. 97–424, title I, §112, Jan. 6, 1983, 96 Stat. 2106; Pub. L. 100–17, title I, §111, Apr. 2, 1987, 101 Stat. 147; Pub. L. 104–59, title III, §307(a), Nov. 28, 1995, 109 Stat. 581; Pub. L. 105–178, title I, §§1205, 1212(a)(2)(A)(i), 1307(a), (b), June 9, 1998, 112 Stat. 184, 193, 229, 230; Pub. L. 107–217, §3(e)(1), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 109–59, title I, §§1110(b), 1503, Aug. 10, 2005, 119 Stat. 1170, 1238; Pub. L. 109–115, div. A, title I, §174, Nov. 30, 2005, 119 Stat. 2426; Pub. L. 112–141, div. A, title I, §1303(a), July 6, 2012, 126 Stat. 531.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 895; Pub. L. 90–495, §22(c), Aug. 23, 1968, 82 Stat. 827; Pub. L. 96–470, title I, §112(b)(1), Oct. 19, 1980, 94 Stat. 2239; Pub. L. 97–424, title I, §112, Jan. 6, 1983, 96 Stat. 2106; Pub. L. 100–17, title I, §111, Apr. 2, 1987, 101 Stat. 147; Pub. L. 104–59, title III, §307(a), Nov. 28, 1995, 109 Stat. 581; Pub. L. 105–178, title I, §§1205, 1212(a)(2)(A)(i), 1307(a), (b), June 9, 1998, 112 Stat. 184, 193, 229, 230; Pub. L. 107–217, §3(e)(1), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 109–59, title I, §§1110(b), 1503, Aug. 10, 2005, 119 Stat. 1170, 1238; Pub. L. 109–115, div. A, title I, §174, Nov. 30, 2005, 119 Stat. 2426; Pub. L. 112–141, div. A, title I, §1303(a), July 6, 2012, 126 Stat. 531; Pub. L. 117–58, div. A, title I, §11525(d), Nov. 15, 2021, 135 Stat. 607.)
 
 #### <b>Editorial Notes</b>
 
@@ -215,6 +217,8 @@ Section 1307(c) of the Transportation Equity Act for 21st Century, referred to i
 The National Environmental Policy Act of 1969, referred to in subsec. (b)(4)(C)(iv)(I), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (b)(2)(F). Pub. L. 117–58 substituted "(F)" for "(F)(F)" in subpar. designation and inserted heading.
 
 <b>2012</b>—Subsec. (b)(4). Pub. L. 112–141 added par. (4).
 
@@ -240,7 +244,7 @@ Pub. L. 109–115, §174(3), redesignated subpar. (G) as (F). Former subpar. (F)
 
 Subsec. (b)(2)(G). Pub. L. 109–115, §174(3), redesignated subpar. (G) as (F).
 
-Subsec. (b)(3)(C) to (E). Pub. L. 109–59, §1503, added subpars. (C) and (D), redesignated former subpar. (D) as (E), and struck out former subpar. (C), which described a qualified project as one for which the Secretary hadapproved the use of design-build contracting under criteria specified in regulations and for which total costs had been estimated to exceed specified amounts.
+Subsec. (b)(3)(C) to (E). Pub. L. 109–59, §1503, added subpars. (C) and (D), redesignated former subpar. (D) as (E), and struck out former subpar. (C), which described a qualified project as one for which the Secretary had approved the use of design-build contracting under criteria specified in regulations and for which total costs had been estimated to exceed specified amounts.
 
 Subsecs. (f), (g). Pub. L. 109–59, §1110(b), added subsec. (g), redesignated former subsec. (g) as (f), and struck out former subsec. (f) which read as follows: "The provisions of this section shall not be applicable to contracts for projects on the Federal-aid secondary system in those States where the Secretary has discharged his responsibility pursuant to section 117 of this title, except where employees of a political subdivision of a State are working on a project outside of such political subdivision."
 
@@ -281,6 +285,10 @@ Subsec. (e). Pub. L. 97–424, §112(2), inserted exception relating to a situat
 <b>1968</b>—Subsec. (b). Pub. L. 90–495 required that contracts for the construction of each project be awarded only on the basis of the lowest responsive bid by a bidder meeting established criteria of responsibility and required that, to be imposed as a condition precedent, requirements and obligations have been specifically set forth in the advertised specifications.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as a note under section 101 of this title.
 
 #### Effective Date of 2012 Amendment
 
@@ -340,7 +348,7 @@ Pub. L. 105–178, title I, §1307(d), June 9, 1998, 112 Stat. 231, provided tha
 
 #### Report to Congress
 
-Pub. L. 105–178, title I, §1307(f), June 9, 1998, 112 Stat. 231, provided that, not later than 5 years after June 9, 1998, the Secretary was to submit to Congress a report on the effectiveness of design-build contracting procedures.
+Pub. L. 105–178, title I, §1307(f), June 9, 1998, 112 Stat. 231, provided that, not later than 5 years after June 9,1998, the Secretary was to submit to Congress a report on the effectiveness of design-build contracting procedures.
 
 #### Private Sector Involvement Program
 
@@ -389,6 +397,4 @@ Pub. L. 102–240, title I, §1092, Dec. 18, 1991, 105 Stat. 2024, directed Secr
 #### Evaluation of State Procurement Practices
 
 Pub. L. 102–240, title VI, §6014, Dec. 18, 1991, 105 Stat. 2181, directed Secretary to conduct a study to evaluate whether or not current procurement practices of State departments and agencies were adequate to ensure that highway and transit systems were designed, constructed, and maintained so as to achieve a high quality for such systems at the lowest overall cost and, not later than 2 years after Dec. 18, 1991, to transmit to Congress a report on the results of the study, together with an assessment of the need for establishing a national policy on transportation quality assurance and recommendations for appropriate legislative and administrative actions.
-
-<i><sup>1</sup></i><i> So in original.</i>
 

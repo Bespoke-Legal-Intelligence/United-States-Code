@@ -8,7 +8,7 @@
 
 #### (2) Statement of claim
 
-&emsp;A customer shall file with the trustee a written statement of claim but need not file a formal proof of claim, except that no obligation of the debtor to any person associated with the debtor within the meaning of section 78c(a)(18) of this title or section 78c(a)(21) of this title, any beneficial owner of 5 per centum or more of the voting stock of the debtor, orany member of the immediate family of any such person or owner may be satisfied without formal proof of claim.
+&emsp;A customer shall file with the trustee a written statement of claim but need not file a formal proof of claim, except that no obligation of the debtor to any person associated with the debtor within the meaning of section 78c(a)(18) of this title or section 78c(a)(21) of this title, any beneficial owner of 5 per centum or more of the voting stock of the debtor, or any member of the immediate family of any such person or owner may be satisfied without formal proof of claim.
 
 #### (3) Time limitations
 
@@ -42,7 +42,7 @@ After receipt of a written statement of claim pursuant to subsection (a)(2), the
 
 &emsp;&emsp;(D) fourth, to SIPC in repayment of advances made by SIPC pursuant to section 78fff–3(c)(2) of this title.
 
-> &emsp;Any customer property remaining after allocation in accordance with this paragraph shall become part of the general estate of the debtor. To the extent customer property and SIPC advances pursuant to section 78fff–3(a) of this title are not sufficient to pay or otherwise satisfy in full the net equity claims of customers, such customers shall be entitled, to the extent only of their respective unsatisfied net equities, to participate in the general estate as unsecured creditors. For purposes of allocating customer property under this paragraph, securities to be delivered in payment of net equity claims for securities of the same class and series of an issuer shall be valued as of the close of business on the filing date.
+> &emsp;Any customer property remaining after allocation in accordance with this paragraph shall become part of the general estate of the debtor. To the extent customer property and SIPCadvances pursuant to section 78fff–3(a) of this title are not sufficient to pay or otherwise satisfy in full the net equity claims of customers, such customers shall be entitled, to the extent only of their respective unsatisfied net equities, to participate in the general estate as unsecured creditors. For purposes of allocating customer property under this paragraph, securities to be delivered in payment of net equity claims for securities of the same class and series of an issuer shall be valued as of the close of business on the filing date.
 
 #### (2) Delivery of customer name securities
 
@@ -50,7 +50,7 @@ After receipt of a written statement of claim pursuant to subsection (a)(2), the
 
 #### (3) Recovery of transfers
 
-&emsp;Whenever customer property is not sufficient to pay in full the claims set forth in subparagraphs (A) through (D) of paragraph (1), the trustee may recover any property transferred by the debtor which, except for suchtransfer, would have been customer property if and to the extent that such transfer is voidable or void under the provisions of title 11. Such recovered property shall be treated as customer property. For purposes of such recovery, the property so transferred shall be deemed to have been the property of the debtor and, if such transfer was made to a customer or for his benefit, such customer shall be deemed to have been a creditor, the laws of any State to the contrary notwithstanding.
+&emsp;Whenever customer property is not sufficient to pay in full the claims set forth in subparagraphs (A) through (D) of paragraph (1), the trustee may recover any property transferred by the debtor which, except for such transfer, would have been customer property if and to the extent that such transfer is voidable or void under the provisions of title 11. Such recovered property shall be treated as customer property. For purposes of such recovery, the property so transferred shall be deemed to have been the property of the debtor and, if such transfer was made to a customer or for his benefit, such customer shall be deemed to have been a creditor, the laws of any State to the contrary notwithstanding.
 
 #### (d) Purchase of securities
 
@@ -100,6 +100,8 @@ In order to facilitate the prompt satisfaction of customer claims and the orderl
 
 (Pub. L. 91–598, §8, as added Pub. L. 95–283, §9, May 21, 1978, 92 Stat. 261; amended Pub. L. 95–598, title III, §308(l), (m), Nov. 6, 1978, 92 Stat. 2675.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 8 of Pub. L. 91–598 was renumbered section 12 and is classified to section 78hhh of this title.
@@ -107,6 +109,8 @@ A prior section 8 of Pub. L. 91–598 was renumbered section 12 and is classifie
 #### Amendments
 
 <b>1978</b>—Subsecs. (a)(1), (c)(3). Pub. L. 95–598 substituted "title 11" for "the Bankruptcy Act".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

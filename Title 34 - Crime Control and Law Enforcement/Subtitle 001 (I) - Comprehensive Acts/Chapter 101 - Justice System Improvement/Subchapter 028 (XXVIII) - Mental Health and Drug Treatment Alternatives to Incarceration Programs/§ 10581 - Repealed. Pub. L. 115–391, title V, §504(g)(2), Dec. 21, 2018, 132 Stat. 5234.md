@@ -1,6 +1,6 @@
 ### §10581. Repealed. Pub. L. 115–391, title V, §504(g)(2), Dec. 21, 2018, 132 Stat. 5234
 
-Section, Pub. L. 90–351, title I, §2901, as added Pub. L. 114–255, div. B, title XIV, §14013, Dec. 13, 2016, 130 Stat. 1298, related to mental health and drug treatment alternatives to incarceration programs.
+Section, Pub. L. 90–351, title I, §2901, as added Pub. L. 114–255, div. B, title XIV, §14013, Dec. 13, 2016, 130 Stat.1298, related to mental health and drug treatment alternatives to incarceration programs.
 
 Section was formerly classified to section 3797q of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 

@@ -68,7 +68,7 @@ Pub. L. 93–508, title IV, §404(b), Dec. 3, 1974, 88 Stat. 1600, added item fo
 
 #### Continuation of Department of Veterans Affairs Educational Assistance Benefits for Certain Programs of Education During COVID–19 Emergency
 
-Pub. L. 116–315, title I, subtitle B, §§1101–1104, Jan. 5, 2021, 134 Stat. 4960, provided that:
+Pub. L. 116–315, title I, subtitle B, §§1101–1104, Jan. 5, 2021, 134 Stat. 4960, as amended by Pub. L. 117–76, §5(b)–(d), Dec. 21, 2021, 135 Stat. 1520, provided that:
 
 #### "SEC. 1101. DEFINITIONS.
 
@@ -128,7 +128,7 @@ Effect on Entitlement Period.—If the Secretary determines that an individual w
 
 "(e)
 
-Applicability Period.—This section shall apply during the period beginning on March 1, 2020, and ending on December 21, 2021.
+Applicability Period.—This section shall apply during the period beginning on March 1, 2020, and ending on June 1, 2022.
 
 #### "SEC. 1103. EFFECTS OF CLOSURE OF EDUCATIONAL INSTITUTION AND MODIFICATION OF COURSES BY REASON OF COVID–19 EMERGENCY.
 
@@ -190,7 +190,7 @@ Status as Full-Time Student for Purposes of Housing Stipend Calculation.—In th
 
 "(g)
 
-Notice of Closures.—Not later than 5 business days after the date on which the Secretary receives notice that an educational institution will close or is closed by reason of the COVID–19 emergency, the Secretary shall provide to each individual who is enrolled in a course or program of education at such educational institution using entitlement to educational assistance under chapter 30, 31, 32, 33, or 35 of title 38, UnitedStates Code, or chapter 1606 of title 10, United States Code, notice of—
+Notice of Closures.—Not later than 5 business days after the date on which the Secretary receives notice that an educational institution will close or is closed by reason of the COVID–19 emergency, the Secretary shall provide to each individual who is enrolled in a course or program of education at such educational institution using entitlement to educational assistance under chapter 30, 31, 32, 33, or 35 of title 38, United States Code, or chapter 1606 of title 10, United States Code, notice of—
 
 &emsp;"(1) such closure and the date of such closure; and
 
@@ -198,13 +198,13 @@ Notice of Closures.—Not later than 5 business days after the date on which the
 
 "(h)
 
-Applicability.—This section shall apply with respect to the closure of an educational institution, or the cancellation or modification of a course or program of education, that occurs during the period beginning on March 1, 2020, and ending on December 21, 2021.
+Applicability.—This section shall apply with respect to the closure of an educational institution, or the cancellation or modification of a course or program of education, that occurs during the period beginning on March 1, 2020, and ending on June 1, 2022.
 
 #### "SEC. 1104. PAYMENT OF EDUCATIONAL ASSISTANCE IN CASES OF WITHDRAWAL.
 
 "(a)
 
-In General.—In the case of any individual who withdraws from a program of education or training, other than a program by correspondence, in an educational institution under chapter 31, 34, or 35 of title 38, United States Code, for a covered reason during the period beginning on March 1, 2020, and ending on December 21, 2021, the Secretary of Veterans Affairs shall find mitigating circumstances for purposes of section 3680(a)(1)(C)(ii) of title 38, United States Code.
+In General.—In the case of any individual who withdraws from a program of education or training, other than a program by correspondence, in an educational institution under chapter 31, 34, or 35 of title 38, United States Code, for a covered reason during the period beginning on March 1, 2020, and ending on June 1, 2022, the Secretary of Veterans Affairs shall find mitigating circumstances for purposes of section 3680(a)(1)(C)(ii) of title 38, United States Code.
 
 "(b)
 
@@ -250,7 +250,7 @@ Focus.—The focus of an agreement entered into under subsection (a) shall be to
 
 #### Continuation of Department of Veterans Affairs Educational Assistance Benefits for Certain Programs of Education Converted to Distance Learning by Reason of Emergencies and Health-Related Situations
 
-Pub. L. 116–128, §1, Mar. 21, 2020, 134 Stat. 221, as amended by Pub. L. 116–159, div. E, title II, §5202(b), Oct. 1, 2020, 134 Stat. 750; Pub. L. 116–315, title I, §1107(a), Jan. 5, 2021, 134 Stat. 4966, provided that:
+Pub. L. 116–128, §1, Mar. 21, 2020, 134 Stat. 221, as amended by Pub. L. 116–159, div. E, title II, §5202(b), Oct. 1, 2020, 134 Stat. 750; Pub. L. 116–315, title I, §1107(a), Jan. 5, 2021, 134 Stat. 4966; Pub. L. 117–76, §2(b), Dec. 21, 2021, 135 Stat. 1517, provided that:
 
 "(a)
 
@@ -262,7 +262,7 @@ In General.—In the case of a program of education approved by a State approvin
 
 "(b)
 
-Applicability Period.—Subsection (a) shall apply during the period beginning on March 1, 2020, and ending on December 21, 2021.
+Applicability Period.—Subsection (a) shall apply during the period beginning on March 1, 2020, and ending on June 1, 2022.
 
 "(c)
 

@@ -12,13 +12,15 @@ Notwithstanding provisions of law other than those contained in subsection (a), 
 
 &emsp;(2) shall give preference to persons whom he determines, by rule, are local residents; and
 
-&emsp;(3) shall, consistent with the provisions of this section, offer to Cook Inlet Region, Incorporated, in cooperation with Village Corporations within the Cook Inlet Region when appropriate, the right of first refusal to provide new revenue producing visitor services within the Kenai National Moose Range or that portion of the Lake Clark National Park and Preserve within the boundaries of the Cook Inlet Region that right to remain open for a periodof ninety days as agreed to in paragraph VIII of the document referred to in section 12 of the Act of January 2, 1976 (Public Law 94–204).
+&emsp;(3) shall, consistent with the provisions of this section, offer to Cook Inlet Region, Incorporated, in cooperation with Village Corporations within the Cook Inlet Region when appropriate, the right of first refusal to provide new revenue producing visitor services within the Kenai National Moose Range or that portion of the Lake Clark National Park and Preserve within the boundaries of the Cook Inlet Region that right to remain open for a period of ninety days as agreed to in paragraph VIII of the document referred to in section 12 of the Act of January 2, 1976 (Public Law 94–204).
 
 #### (c) "Visitor service" defined
 
 As used in this section, the term "visitor service" means any service made available for a fee or charge to persons who visit a conservation system unit, including such services as providing food, accommodations, transportation, tours, and guides excepting the guiding of sport hunting and fishing. Nothing in this Act shall limit or affect the authority of the Federal Government or the State of Alaska to license and regulate transportation services.
 
 (Pub. L. 96–487, title XIII, §1307, Dec. 2, 1980, 94 Stat. 2479; Pub. L. 105–333, §10, Oct. 31, 1998, 112 Stat. 3134.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -58,7 +58,9 @@ In this section:
 
 Of the funds appropriated annually to the Centers for Disease Control and Prevention for HIV/AIDS prevention activities, $30,000,000 shall be made available for each of the fiscal years 2007 through 2009 for grants under subsection (a), of which $20,000,000 shall be made available for grants to States with the policies described in subsection (b)(1), and $10,000,000 shall be made available for grants to States with the policies described in subsection (b)(2). Funds provided under this section are available until expended.
 
-(July 1, 1944, ch. 373, title XXVI, §2625, as added Pub. L. 104–146, §7(b)(3), May 20, 1996, 110 Stat.1369; amended Pub. L. 106–345, title II, §212(a), Oct. 20, 2000, 114 Stat. 1339; Pub. L. 109–415, title II, §209, title VII, §703, Dec. 19, 2006, 120 Stat. 2802, 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
+(July 1, 1944, ch. 373, title XXVI, §2625, as added Pub. L. 104–146, §7(b)(3), May 20, 1996, 110 Stat. 1369; amended Pub. L. 106–345, title II, §212(a), Oct. 20, 2000, 114 Stat. 1339; Pub. L. 109–415, title II, §209, title VII, §703, Dec. 19, 2006, 120 Stat. 2802, 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -73,6 +75,8 @@ Pub. L. 109–415, §209, amended section catchline and text generally, substitu
 Subsec. (c)(2). Pub. L. 106–345, §212(a)(2), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: "For purposes of carrying out this subsection, there are authorized to be appropriated $10,000,000 for each of the fiscal years 1996 through 2000. Amounts made available under section 300ff–77 of this title for carrying out this part are not available for carrying out this section unless otherwise authorized."
 
 Subsec. (c)(4). Pub. L. 106–345, §212(a)(3), added par. (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment; Revival of Section
 

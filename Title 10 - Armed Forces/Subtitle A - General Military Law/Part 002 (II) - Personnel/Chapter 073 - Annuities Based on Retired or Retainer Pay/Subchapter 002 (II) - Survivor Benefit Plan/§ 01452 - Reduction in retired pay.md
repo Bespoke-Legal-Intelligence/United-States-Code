@@ -34,7 +34,7 @@ Flat-rate reduction.—An amount equal to 6½ percent of the base amount.
 
 &emsp;&emsp;&emsp;&emsp;(II)
 
-Amount under pre-flat-rate reduction.—An amount equal to 2½ percent of the first $337 (as adjusted after November 1, 1989, under paragraph (4)) ofthe base amount plus 10 percent of the remainder of the base amount.
+Amount under pre-flat-rate reduction.—An amount equal to 2½ percent of the first $337 (as adjusted after November 1, 1989, under paragraph (4)) of the base amount plus 10 percent of the remainder of the base amount.
 
 &emsp;&emsp;(B)
 
@@ -94,7 +94,7 @@ Special rule for certain rcsbp participants.—In the case of a participant in t
 
 &emsp;(4)
 
-Child-only coverage defined.—For the purposes of this subsection, a participant in the Plan who is providing child-only coverage is a participant who has a dependent child and who—
+Child-only coverage defined.—For the purposes of this subsection, a participant in the Plan who is providing child-only coverageis a participant who has a dependent child and who—
 
 &emsp;&emsp;(A) does not have an eligible spouse or former spouse; or
 
@@ -192,7 +192,7 @@ Effective date.—Participation in the Plan of a person who submits a request un
 
 &emsp;&emsp;(C)
 
-Form for request for discontinuation.—Any request under this paragraph todiscontinue participation in the Plan shall be in such form and shall contain such information as the Secretary concerned may require by regulation.
+Form for request for discontinuation.—Any request under this paragraph to discontinue participation in the Plan shall be in such form and shall contain such information as the Secretary concerned may require by regulation.
 
 &emsp;(2)
 
@@ -256,7 +256,7 @@ Delay not to affect computation of annuity.—Subparagraph (A) may not be constr
 
 (i)
 
-Recomputation of Reduction Upon Recomputation of Retired Pay.—Whenever the retired pay of a person who first became a member of a uniformed service on or after August 1, 1986, and who is a participant in the Plan is recomputed under section 1410 of this title upon the person's becoming 62 years of age, the amount of the reduction in such retired pay under this section shall be recomputed (effective on the effective date of the recomputation of such retired pay under section 1410 of this title) so as to be the amount equal to the amount of such reduction that would be in effect on that date if increases in such retired pay under section 1401a(b) of this title, and increases in reductions in such retired pay under subsection (h), had been computed as provided in paragraph (2) of section 1401a(b) of this title (rather than under paragraph (3) of that section).
+Recomputation of Reduction Upon Recomputation of Retired Pay.—Whenever the retired pay of a person who first became a member of a uniformed service on or after August 1, 1986, and who is a participant in the Plan is recomputed under section 1410 of this title upon the person's becoming 62 years of age, the amount of the reduction in such retired pay under this section shall be recomputed (effective on the effective date of the recomputation of such retired pay under section 1410 of this title)so as to be the amount equal to the amount of such reduction that would be in effect on that date if increases in such retired pay under section 1401a(b) of this title, and increases in reductions in such retired pay under subsection (h), had been computed as provided in paragraph (2) of section 1401a(b) of this title (rather than under paragraph (3) of that section).
 
 (j)
 
@@ -268,7 +268,9 @@ Years and Age 70.—Effective October 1, 2008, no reduction may be made under th
 
 &emsp;(2) the month during which the participant attains 70 years of age.
 
-(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 710; amended Pub. L. 94–496, §1(4), (5), Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §205, Sept. 30, 1978, 92 Stat. 847; Pub. L. 96–402, §4, Oct. 9, 1980, 94 Stat. 1706; Pub. L. 97–22, §11(a)(3), (5), July 10, 1981, 95 Stat. 137; Pub. L. 99–145, titleVII, §§714(a), 719(7), (8), 723(b)(2), Nov. 8, 1985, 99 Stat. 672, 675–677; Pub. L. 99–348, title III, §301(a)(3), July 1, 1986, 100 Stat. 702; Pub. L. 99–661, div. A, title XIII, §1343(a)(8)(E), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 100–224, §3(b), Dec. 30, 1987, 101 Stat. 1537; Pub. L. 101–189, div. A, title XIV, §§1402(a)–(c), 1407(a)(9), title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1577, 1578, 1589, 1602; Pub. L. 101–510, div. A, title XIV, §1484(l)(4)(C)(ii), Nov. 5, 1990, 104 Stat. 1720; Pub. L. 103–337, div. A, title VI, §637(a), Oct. 5, 1994, 108 Stat. 2790; Pub. L. 104–201, div. A, title VI, §§634, 635(a), Sept. 23, 1996, 110 Stat. 2572, 2579; Pub. L. 105–85, div. A, title X, §1073(a)(29), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 105–261, div. A, title VI, §641, Oct. 17, 1998, 112 Stat. 2045; Pub. L. 106–65, div. A, title VI, §643(a)(2), Oct. 5, 1999, 113 Stat. 663; Pub. L. 109–364, div. A, title VI, §643(b), Oct. 17, 2006, 120 Stat. 2260; Pub. L. 112–239, div. A, title VI, §641(a), Jan. 2, 2013, 126 Stat. 1782; Pub. L. 114–328, div. A, title VI, §643(a), (b), Dec. 23, 2016, 130 Stat. 2165, 2166; Pub. L. 115–91, div. A, title VI, §622(b), title X, §1081(a)(26), Dec. 12, 2017, 131 Stat. 1428, 1595.)
+(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 710; amended Pub. L. 94–496, §1(4), (5), Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §205, Sept. 30, 1978, 92 Stat. 847; Pub. L. 96–402, §4, Oct. 9, 1980, 94 Stat. 1706; Pub. L. 97–22, §11(a)(3), (5), July 10, 1981, 95 Stat. 137; Pub. L. 99–145, title VII, §§714(a), 719(7), (8), 723(b)(2), Nov. 8, 1985, 99 Stat. 672, 675–677; Pub. L. 99–348, title III, §301(a)(3), July 1, 1986, 100 Stat. 702; Pub. L. 99–661, div. A, title XIII, §1343(a)(8)(E), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 100–224, §3(b), Dec. 30, 1987, 101 Stat. 1537; Pub. L. 101–189, div. A, title XIV, §§1402(a)–(c), 1407(a)(9), title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1577, 1578, 1589, 1602; Pub. L. 101–510, div. A, title XIV, §1484(l)(4)(C)(ii), Nov. 5, 1990, 104 Stat. 1720; Pub. L. 103–337, div. A, title VI, §637(a), Oct. 5, 1994, 108 Stat. 2790; Pub. L. 104–201, div. A, title VI, §§634, 635(a), Sept. 23, 1996, 110 Stat. 2572, 2579; Pub. L. 105–85, div. A, title X, §1073(a)(29), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 105–261, div. A, title VI, §641, Oct. 17, 1998, 112 Stat. 2045; Pub. L. 106–65, div. A, title VI, §643(a)(2), Oct. 5, 1999, 113 Stat. 663; Pub. L. 109–364, div. A, title VI, §643(b), Oct. 17, 2006, 120 Stat. 2260; Pub. L. 112–239, div. A, title VI, §641(a), Jan. 2, 2013, 126 Stat. 1782; Pub. L. 114–328, div. A, title VI, §643(a), (b), Dec. 23, 2016, 130 Stat. 2165, 2166; Pub. L. 115–91, div. A, title VI, §622(b), title X, §1081(a)(26), Dec. 12, 2017, 131 Stat. 1428, 1595.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -382,6 +384,8 @@ Subsec. (b). Pub. L. 94–496, §1(5)(B), inserted "or who has a spouse but has 
 
 Subsec. (c). Pub. L. 94–496, §1(4), (5)(C), substituted "(a)(4)" for "(a)(3)", and inserted provision directing that reduction in retired or retainer pay continue during the lifetime of a beneficiary designated under section 1450(a)(4) of this title or until such person change his election pursuant to section 1450(f) of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2013 Amendment
 
 Amendment by Pub. L. 112–239 applicable with respect to any participant electing an annuity for survivors under chapter 84 of Title 5, United States Code, on or after Jan. 2, 2013, see section 641(c) of Pub. L. 112–239, set out as a note under section 1450 of this title.
@@ -410,7 +414,7 @@ Pub. L. 101–510, div. A, title XIV, §1484(l)(4)(C), Nov. 5, 1990, 104 Stat. 1
 
 Pub. L. 99–145, title VII, §714(b), Nov. 8, 1985, 99 Stat. 673, provided that: "The amendments made by clause (5) of subsection (a) \[amending this section\] shall apply only with respect to persons who first participate in the Plan on or after the effective date of this title \[see note below\]."
 
-Amendment by title VII of Pub. L. 99–145 effective Mar. 1, 1986, except as otherwise provided, with prohibition against accrual of benefits to any person by reason of the enactment of such title VII for any period before Mar. 1, 1986, see section 731 of Pub. L. 99–145, set out as a note under section 1447 of this title.
+Amendment by title VII of Pub. L. 99–145 effective Mar. 1, 1986, except as otherwise provided, with prohibition against accrual of benefits to any person by reason of the enactment of such title VII for any period beforeMar. 1, 1986, see section 731 of Pub. L. 99–145, set out as a note under section 1447 of this title.
 
 #### Effective Date of 1980 Amendment
 

@@ -160,6 +160,8 @@ Technical assistance.—The term "technical assistance" means technical expertis
 
 (Pub. L. 99–198, title XII, §1201, Dec. 23, 1985, 99 Stat. 1504; Pub. L. 99–349, title I, July 2, 1986, 100 Stat. 714; Pub. L. 101–624, title XIV, §1421(a), Nov. 28, 1990, 104 Stat. 3572; Pub. L. 104–127, title III, §301(a)–(c), Apr. 4, 1996, 110 Stat. 980, 981; Pub. L. 110–234, title II, §2001, May 22, 2008, 122 Stat. 1025; Pub. L. 110–246, §4(a), title II, §2001, June 18, 2008, 122 Stat. 1664, 1753; Pub. L. 113–79, title II, §2713(a), Feb. 7, 2014, 128 Stat. 772.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Subchapters I through VIII, referred to in subsec. (a), was in the original a reference to subtitles A through I, meaning subtitles A through I of title XII of Pub. L. 99–198. Subtitles A through E and G through I are classified generally to subchapters I through V and VI through VIII of this chapter. Subtitle F of title XII was repealed by Pub. L. 104–127. Section 3851 of this title, contained in subchapter V–A, is based on section 1252 of Pub. L. 99–198, which was directed to be added to the previously repealed subtitle F by Pub. L. 110–246. See Codification note set out under section 3851 of this title.
@@ -196,9 +198,11 @@ Subsec. (a)(9)(C). Pub. L. 104–127, §301(c), added subpar. (C).
 
 Subsec. (a)(10) to (18). Pub. L. 104–127, §301(a)(1), redesignated pars. (8) to (16) as (10) to (18), respectively.
 
-<b>1990</b>—Subsec. (a)(16). Pub. L. 101–624 substituted introductory provisions and subpars. (A) to (C) for "The term 'wetland', except when such term is part of the term 'converted wetland', means land that has a predominance of hydric soils and that is inundated or saturated by surface or groundwater at a frequency and duration sufficient to support, and that under normal circumstances does support, a prevalence of hydrophytic vegetation typically adapted for life in saturated soil conditions."
+<b>1990</b>—Subsec. (a)(16). Pub. L. 101–624 substituted introductory provisions and subpars. (A) to (C) for "The term 'wetland', except when such term is part of the term 'converted wetland', means land that has a predominance of hydric soils and that is inundated orsaturated by surface or groundwater at a frequency and duration sufficient to support, and that under normal circumstances does support, a prevalence of hydrophytic vegetation typically adapted for life in saturated soil conditions."
 
 <b>1986</b>—Subsec. (a)(16). Pub. L. 99–349 inserted provision that for purposes of this Act, and any other Act, the term "wetland" shall not include lands in Alaska identified as having high potential for agricultural development which have a predominance of permafrost soils.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 
@@ -276,10 +280,6 @@ Applicable Authority.—The promulgation of regulations under subsection (a) and
 
 Congressional Review of Agency Rulemaking.—In carrying out this section, the Secretary shall use the authority provided under section 808(2) of title 5, United States Code."
 
-#### Termination of Trust Territory of the Pacific Islands
-
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
 #### Temporary Administration of Conservation Programs
 
 Pub. L. 115–334, title II, §2504, Dec. 20, 2018, 132 Stat. 4584, provided that:
@@ -298,7 +298,7 @@ Interim Administration.—Subject to subsection (d), the Secretary \[of Agricult
 
 "(b)
 
-Regional Conservation Partnership Program.—Notwithstanding subsection (e) of section 1271E of the Food Security Act of 1985 (16 U.S.C. 3871e) (as amended by section 2706), and subject to subsection (d), for fiscal year 2019, the Secretary may use an availability of program funding announcement consistent with the amendments made by subtitle G \[subtitle G (§§2701–2707) of title II of Pub. L. 115–334, amending sections 3871 to 3871f of this title\] to carry out the regional conservation partnership program under subtitle I of title XII of the Food Security Act of 1985 (16 U.S.C. 3871 et seq.) without issuing a regulation.
+Regional Conservation Partnership Program.—Notwithstanding subsection (e) of section 1271E of the Food Security Act of 1985 (16 U.S.C. 3871e) (as amended by section 2706), and subject to subsection (d),for fiscal year 2019, the Secretary may use an availability of program funding announcement consistent with the amendments made by subtitle G \[subtitle G (§§2701–2707) of title II of Pub. L. 115–334, amending sections 3871 to 3871f of this title\] to carry out the regional conservation partnership program under subtitle I of title XII of the Food Security Act of 1985 (16 U.S.C. 3871 et seq.) without issuing a regulation.
 
 "(c)
 
@@ -318,7 +318,7 @@ Pub. L. 113–79, title II, §2712, Feb. 7, 2014, 128 Stat. 771, provided that:
 
 Applicability.—This section is applicable to activities under—
 
-&emsp;"(1) the wetlands reserve program, the farmland protection program, and the farm viability programbeing merged into the agricultural conservation easement program under the amendment made by section 2301 \[enacting sections 3865 to 3865d of this title and amending section 3844 of this title\];
+&emsp;"(1) the wetlands reserve program, the farmland protection program, and the farm viability program being merged into the agricultural conservation easement program under the amendment made by section 2301 \[enacting sections 3865 to 3865d of this title and amending section 3844 of this title\];
 
 &emsp;"(2) the wildlife habitat incentive program being merged into the environmental quality incentives program under the amendments made by subtitle C \[subtitle C (§§2201–2208) of title II of Pub. L. 113–79, amending sections 3839aa to 3839aa–4, 3839aa–7, and 3839aa–8 of this title\];
 
@@ -364,7 +364,13 @@ Pub. L. 107–171, title II, subtitle G, May 13, 2002, 116 Stat. 275, which rela
 
 #### Cranberry Acreage Reserve Program
 
-Pub. L. 107–171, title X, §10608, May 13, 2002, 116 Stat. 515, which authorized the Secretary of Agriculture to establish a program to purchase permanent easements in wetlands or buffer strips that were used or had a history of being used for the cultivation of cranberries and that were located in environmentally sensitive areas, was repealed by Pub. L. 115–334, title II, §2812, Dec. 20, 2018, 132 Stat. 4602.
+Pub. L. 107–171, title X, §10608, May 13, 2002, 116 Stat. 515, which authorized the Secretary of Agriculture to establish a program to purchase permanent easements in wetlands or buffer strips that were used or had a history of being used for the cultivation of cranberries and that were located in environmentally sensitive areas,was repealed by Pub. L. 115–334, title II, §2812, Dec. 20, 2018, 132 Stat. 4602.
+
+#### <b>Executive Documents</b>
+
+#### Termination of Trust Territory of the Pacific Islands
+
+For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

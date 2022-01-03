@@ -12,11 +12,15 @@
 
 (Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 831.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 11103 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
 A prior section 11102, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1419, related to classification of carriers, prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

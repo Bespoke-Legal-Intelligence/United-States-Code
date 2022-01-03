@@ -36,6 +36,8 @@ The authority of the President under subsection (a) of this section to waive any
 
 (Pub. L. 96–39, title III, §301, July 26, 1979, 93 Stat. 236; Pub. L. 100–418, title VII, §7005(e), Aug. 23, 1988, 102 Stat. 1553; Pub. L. 103–182, title III, §381(a), Dec. 8, 1993, 107 Stat. 2128; Pub. L. 116–113, title V, §505(a), Jan. 29, 2020, 134 Stat. 77.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2020</b>—Subsec. (b)(1). Pub. L. 116–113, §505(a)(1), substituted "the USMCA (as defined in section 4502 of this title)" for "the North American Free Trade Agreement".
@@ -49,6 +51,8 @@ Subsec. (b)(1). Pub. L. 103–182, §381(a)(2), inserted "or the North American 
 Subsecs. (e), (f). Pub. L. 103–182, §381(a)(3), added subsecs. (e) and (f).
 
 <b>1988</b>—Subsec. (d). Pub. L. 100–418, §§7004, 7005(e), temporarily added subsec. (d) which read as follows: "The authority of the President under subsection (a) of this section to waive any laws, regulation, procedure, or practice shall be effective notwithstanding any other provision of law hereafter enacted (excluding the provisions of and amendments made by the Buy American Act of 1988) unless such other provision specifically refers to and amends this section." See Effective and Termination Dates of 1988 Amendment note below.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 
@@ -89,6 +93,8 @@ Pub. L. 96–39, title III, §309, July 26, 1979, 93 Stat. 241, provided that: "
 &emsp;"(1) the authority of the President to grant waivers under section 303 \[section 2513 of this title\] shall be effective on January 1, 1980; and
 
 &emsp;"(2) the authority of the President to grant waivers under section 301 \[this section\] shall be effective on January 1, 1981."
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 
@@ -260,7 +266,7 @@ Sec. 3. This order shall apply only to solicitations, issued by agencies listed 
 
 Sec. 4. This order shall apply to solicitations outstanding on the date of this order, except for those for which the initial deadline for receipt of bids or proposals has passed, and to all solicitations issued after the date of this order.
 
-Sec. 5. Except for procurements by the Department of Defense, the United States Trade Representative (USTR) shall be responsible for interpretation of the Agreement. The USTR shall seek the advice of the interagency organization established under section 242(a) of the Trade Expansion Act of 1962 (19 U.S.C. 1872(a)) and consult with affected agencies, including the Office of Federal Procurement Policy.
+Sec. 5. Except for procurements by the Department of Defense, the United States Trade Representative (USTR) shall be responsible for interpretation of the Agreement. The USTR shall seek the advice of the interagency organization established under section 242(a) of the Trade Expansion Act of 1962 (19 U.S.C.1872(a)) and consult with affected agencies, including the Office of Federal Procurement Policy.
 
 Sec. 6. This Executive order is effective immediately. Although regulatory implementation of this order must await revisions to the Federal Acquisition Regulation (FAR), it is expected that agencies listed in Annex 1, Parts A and B, of this order will take all appropriate actions in the interim to implement those aspects of the order that are not dependent upon regulatory revision.
 

@@ -10,7 +10,7 @@
 
 (B) The Assistant Secretary shall be appointed from among persons who have significant budget, financial management, or audit experience in complex organizations.
 
-(C) The principal responsibility of the Assistant Secretary shall be the exercise of the comptroller functions of the Department of the Navy, including financial management functions. The Assistant Secretary shall be responsible for all financial management activities and operationsof the Department of the Navy and shall advise the Secretary of the Navy on financial management.
+(C) The principal responsibility of the Assistant Secretary shall be the exercise of the comptroller functions of the Department of the Navy, including financial management functions. The Assistant Secretary shall be responsible for all financial management activities and operations of the Department of the Navy and shall advise the Secretary of the Navy on financial management.
 
 (4)(A) One of the Assistant Secretaries shall be the Assistant Secretary of the Navy for Research, Development, and Acquisition. The principal duty of the Assistant Secretary shall be the overall supervision of research, development, acquisition, and sustainment (including maintenance) matters of the Department of the Navy.
 
@@ -21,6 +21,8 @@
 (B) The principal duty of the Assistant Secretary for Energy, Installations, and Environment shall be the overall supervision of energy, installation, and environment matters for the Department of the Navy.
 
 (Added Pub. L. 99–433, title V, §511(c)(4), Oct. 1, 1986, 100 Stat. 1047, §5016; amended Pub. L. 100–456, div. A, title VII, §702(b)\[(1)\], Sept. 29, 1988, 102 Stat. 1994; Pub. L. 110–181, div. A, title IX, §908(b), Jan. 28, 2008, 122 Stat. 278; Pub. L. 114–328, div. A, title V, §502(t), title VIII, §802(b), Dec. 23, 2016, 130 Stat. 2104, 2249; Pub. L. 115–91, div. A, title IX, §921(b), Dec. 12, 2017, 131 Stat. 1524; renumbered §8016 and amended Pub. L. 115–232, div. A, title VIII, §807(a)(1), title IX, §915, Aug. 13, 2018, 132 Stat. 1834, 1924; Pub. L. 116–92, div. A, title VIII, §861(j)(15), title IX, §911(b), Dec. 20, 2019, 133 Stat. 1520, 1559.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -47,6 +49,8 @@ Pub. L. 114–328, §502(t), substituted "an officer of the Navy or the Marine C
 <b>2008</b>—Subsec. (b)(4). Pub. L. 110–181 added par. (4).
 
 <b>1988</b>—Subsec. (b)(3). Pub. L. 100–456 added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

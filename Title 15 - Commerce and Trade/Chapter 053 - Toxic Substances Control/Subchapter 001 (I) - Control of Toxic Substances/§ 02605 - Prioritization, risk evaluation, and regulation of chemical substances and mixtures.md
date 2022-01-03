@@ -12,7 +12,7 @@ If the Administrator determines in accordance with subsection (b)(4)(A) that the
 
 &emsp;&emsp;(B) limiting the amount of such substance or mixture which may be manufactured, processed, or distributed in commerce for (i) a particular use or (ii) a particular use in a concentration in excess of a level specified by the Administrator in the rule imposing the requirement.
 
-&emsp;(3) A requirement that such substance or mixture or any article containing such substance or mixture be marked with or accompanied by clear and adequate minimum warnings and instructions with respect to its use, distribution in commerce, or disposal or with respect to any combination of such activities.The form and content of such minimum warnings and instructions shall be prescribed by the Administrator.
+&emsp;(3) A requirement that such substance or mixture or any article containing such substance or mixture be marked with or accompanied by clear and adequate minimum warnings and instructions with respect to its use, distribution in commerce, or disposal or with respect to any combination of such activities. The form and content of such minimum warnings and instructions shall be prescribed by the Administrator.
 
 &emsp;(4) A requirement that manufacturers and processors of such substance or mixture make and retain records of the processes used to manufacture or process such substance or mixture or monitor or conduct tests which are reasonable and necessary to assure compliance with the requirements of any rule applicable under this subsection.
 
@@ -210,7 +210,7 @@ If the Administrator determines in accordance with subsection (b)(4)(A) that the
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Administrator shall exempt replacement parts for complex durable goods and complex consumer goods that are designed prior to the date of publication in the Federal Register of the rule under subsection (a), unless the Administrator finds that such replacement parts contribute significantly to the risk, identified in a risk evaluation conducted under subsection (b)(4)(A), to the general population or to an identified potentially exposed or susceptible subpopulation.
+&emsp;&emsp;&emsp;The Administrator shall exempt replacement parts for complex durable goods andcomplex consumer goods that are designed prior to the date of publication in the Federal Register of the rule under subsection (a), unless the Administrator finds that such replacement parts contribute significantly to the risk, identified in a risk evaluation conducted under subsection (b)(4)(A), to the general population or to an identified potentially exposed or susceptible subpopulation.
 
 #### (ii) Definitions
 
@@ -260,7 +260,7 @@ Variability.—As determined by the Administrator, the compliance dates establis
 
 &emsp;(i) the Administrator determines that—
 
-&emsp;&emsp;(I) the manufacture, processing, distribution in commerce, use, or disposal of thechemical substance or mixture subject to such proposed rule or any combination of such activities is likely to result in an unreasonable risk of serious or widespread injury to health or the environment before such effective date without consideration of costs or other non-risk factors; and
+&emsp;&emsp;(I) the manufacture, processing, distribution in commerce, use, or disposal of the chemical substance or mixture subject to such proposed rule or any combination of such activities is likely to result in an unreasonable risk of serious or widespread injury to health or the environment before such effective date without consideration of costs or other non-risk factors; and
 
 &emsp;&emsp;(II) making such proposed rule so effective is necessary to protect the public interest; and
 
@@ -276,7 +276,7 @@ Variability.—As determined by the Administrator, the compliance dates establis
 
 &emsp;(A) prescribe methods for the disposal of polychlorinated biphenyls, and
 
-&emsp;(B) require polychlorinated biphenyls to be marked with clear and adequate warnings, and instructions with respect to their processing, distribution in commerce, use, or disposal or with respect to any combination of such activities.
+&emsp;(B) require polychlorinated biphenyls to be marked with clear and adequate warnings, and instructions with respect to their processing,distribution in commerce, use, or disposal or with respect to any combination of such activities.
 
 > Requirements prescribed by rules under this paragraph shall be consistent with the requirements of paragraphs (2) and (3).
 
@@ -332,7 +332,7 @@ Variability.—As determined by the Administrator, the compliance dates establis
 
 &emsp;&emsp;(A) the specific condition of use is a critical or essential use for which no technically and economically feasible safer alternative is available, taking into consideration hazard and exposure;
 
-&emsp;&emsp;(B) compliance with the requirement, as applied with respect to the specific conditionof use, would significantly disrupt the national economy, national security, or critical infrastructure; or
+&emsp;&emsp;(B) compliance with the requirement, as applied with respect to the specific condition of use, would significantly disrupt the national economy, national security, or critical infrastructure; or
 
 &emsp;&emsp;(C) the specific condition of use of the chemical substance or mixture, as compared to reasonably available alternatives, provides a substantial benefit to health, the environment, or public safety.
 
@@ -346,7 +346,7 @@ Variability.—As determined by the Administrator, the compliance dates establis
 
 #### (4) Conditions
 
-&emsp;As part of a rule promulgated under this subsection, the Administrator shall include conditions, including reasonable recordkeeping, monitoring, and reporting requirements, to the extent that the Administrator determines the conditions are necessary to protect health and the environment while achieving the purposes of the exemption.
+&emsp;As part of a rule promulgated under this subsection, the Administrator shall includeconditions, including reasonable recordkeeping, monitoring, and reporting requirements, to the extent that the Administrator determines the conditions are necessary to protect health and the environment while achieving the purposes of the exemption.
 
 #### (h) Chemicals that are persistent, bioaccumulative, and toxic
 
@@ -388,11 +388,13 @@ For the purposes of this chapter, the term "requirement" as used in this section
 
 (Pub. L. 94–469, title I, §6, Oct. 11, 1976, 90 Stat. 2020; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 109–364, div. A, title III, §317(a), Oct. 17, 2006, 120 Stat. 2142; Pub. L. 110–414, §3, Oct. 14, 2008, 122 Stat. 4342; Pub. L. 114–182, title I, §6, June 22, 2016, 130 Stat. 460.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Pub. L. 114–182, §6(1), substituted "Prioritization, risk evaluation, and regulation of chemical substances and mixtures" for "Regulation of hazardous chemical substances and mixtures" in section catchline.
 
-Subsec. (a). Pub. L. 114–182, §6(2)(A)–(D), in introductory provisions, substituted "determines in accordance with subsection (b)(4)(A)" for "finds that there is a reasonable basis to conclude" and "so that the chemical substance or mixture no longer presents such risk" for"to protect adequately against such risk using the least burdensome requirements", struck out "or will present" after "presents", and inserted "and subject to section 2617 of this title, and in accordance with subsection (c)(2)," after "shall by rule".
+Subsec. (a). Pub. L. 114–182, §6(2)(A)–(D), in introductory provisions, substituted "determines in accordance with subsection (b)(4)(A)" for "finds that there is a reasonable basis to conclude" and "so that the chemical substance or mixture no longer presents such risk" for "to protect adequately against such risk using the least burdensome requirements", struck out "or will present" after "presents", and inserted "and subject to section 2617 of this title, and in accordance with subsection (c)(2)," after "shall by rule".
 
 Subsec. (a)(1)(A), (2)(A). Pub. L. 114–182, §6(2)(E), inserted "or otherwise restricting" after "prohibiting".
 
@@ -427,6 +429,8 @@ Subsecs. (g) to (j). Pub. L. 114–182, §6(7), added subsecs. (g) to (j).
 Subsec. (e)(3)(B). Pub. L. 109–364, §317(a)(2), (b), temporarily substituted "but not more than 1 year from the date it is granted, except as provided in subparagraph (D)" for "but not more than one year from the date it is granted" in concluding provisions. See Termination Date of 2006 Amendment note below.
 
 Subsec. (e)(3)(D). Pub. L. 109–364, §317(a)(3), (b), temporarily added subpar. (D) which read as follows: "The Administrator may extend an exemption granted pursuant to subparagraph (B) that has not yet expired for a period not to exceed 60 days for the purpose of authorizing the Secretary of Defense and the Secretaries of the military departments to provide for the transportation into the customs territory of the United States of polychlorinated biphenyls generated by or under the control of the Department of Defense for purposes of their disposal, treatment, or storage in the customs territory of the United States if those polychlorinated biphenyls are already in transit from their storage locations but the Administrator determines, in the sole discretion of the Administrator, they would not otherwise arrive in the customs territory of the United States within the period of the original exemption. The Administrator shall promptly publish notice of such extension in the Federal Register." See Termination Date of 2006 Amendment note below.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination Date of 2006 Amendment
 

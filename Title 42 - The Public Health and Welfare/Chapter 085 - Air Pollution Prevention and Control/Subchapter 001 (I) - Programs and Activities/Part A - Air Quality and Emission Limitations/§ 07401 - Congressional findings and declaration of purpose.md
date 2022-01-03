@@ -6,7 +6,7 @@ The Congress finds—
 
 &emsp;(1) that the predominant part of the Nation's population is located in its rapidly expanding metropolitan and other urban areas, which generally cross the boundary lines of local jurisdictions and often extend into two or more States;
 
-&emsp;(2) that the growth in the amount and complexity of air pollution brought about by urbanization, industrial development, and the increasing use of motor vehicles, has resulted in mounting dangers to the public health and welfare, including injury to agricultural cropsand livestock, damage to and the deterioration of property, and hazards to air and ground transportation;
+&emsp;(2) that the growth in the amount and complexity of air pollution brought about by urbanization, industrial development, and the increasing use of motor vehicles, has resulted in mounting dangers to the public health and welfare, including injury to agricultural crops and livestock, damage to and the deterioration of property, and hazards to air and ground transportation;
 
 &emsp;(3) that air pollution prevention (that is, the reduction or elimination, through any measures, of the amount of pollutants produced or created at the source) and air pollution control at its source is the primary responsibility of States and local governments; and
 
@@ -30,6 +30,8 @@ A primary goal of this chapter is to encourage or otherwise promote reasonable F
 
 (July 14, 1955, ch. 360, title I, §101, formerly §1, as added Pub. L. 88–206, §1, Dec. 17, 1963, 77 Stat. 392; renumbered §101 and amended Pub. L. 89–272, title I, §101(2), (3), Oct. 20, 1965, 79 Stat. 992; Pub. L. 90–148, §2, Nov. 21, 1967, 81 Stat. 485; Pub. L. 101–549, title I, §108(k), Nov. 15, 1990, 104 Stat. 2468.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 1857 of this title.
@@ -50,6 +52,8 @@ Subsec. (c). Pub. L. 101–549, §108(k)(3), added subsec. (c).
 
 <b>1965</b>—Subsec. (b). Pub. L. 89–272 substituted "this title" for "this Act", which for purposes of codification has been changed to "this subchapter".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1990 Amendment
 
 Pub. L. 101–549, title VII, §711(b), Nov. 15, 1990, 104 Stat. 2684, provided that:
@@ -58,7 +62,7 @@ Pub. L. 101–549, title VII, §711(b), Nov. 15, 1990, 104 Stat. 2684, provided 
 
 "(2) The Administrator's authority to assess civil penalties under section 205(c) of the Clean Air Act \[42 U.S.C. 7524(c)\], as amended by this Act, shall apply to violations that occur or continue on or after the date of enactment of this Act. Civil penalties for violations that occur prior to such date and do not continue after such date shall be assessed in accordance with the provisions of the Clean Air Act \[42 U.S.C. 7401 et seq.\] in effect immediately prior to the date of enactment of this Act.
 
-"(3) The civil penalties prescribed under sections 205(a) and 211(d)(1) of the Clean Air Act \[42 U.S.C. 7524(a), 7545(d)(1)\], as amended by this Act, shall apply to violations that occur on or after the date of enactment of this Act. Violations that occur prior to such date shall be subject to the civil penalty provisions prescribed in sections 205(a) and 211(d) of the Clean Air Act in effect immediately prior to the enactment of this Act. The injunctive authority prescribed under section 211(d)(2) of the Clean Air Act, as amended by this Act, shall apply to violations that occur or continue on or after the date of enactment of this Act.
+"(3) The civil penalties prescribed under sections 205(a) and 211(d)(1) of the Clean Air Act \[42 U.S.C. 7524(a), 7545(d)(1)\], as amended by this Act, shall apply to violations that occur on or after the date of enactment of this Act. Violations that occur prior to suchdate shall be subject to the civil penalty provisions prescribed in sections 205(a) and 211(d) of the Clean Air Act in effect immediately prior to the enactment of this Act. The injunctive authority prescribed under section 211(d)(2) of the Clean Air Act, as amended by this Act, shall apply to violations that occur or continue on or after the date of enactment of this Act.
 
 "(4) For purposes of paragraphs (2) and (3), where the date of a violation cannot be determined it will be assumed to be the date on which the violation is discovered."
 
@@ -74,7 +78,7 @@ Pub. L. 95–95, title IV, §406, Aug. 7, 1977, 91 Stat. 795, as amended by Pub.
 
 "(d)(1) Except as otherwise expressly provided, the amendments made by this Act \[see Short Title of 1977 Amendment note below\] shall be effective on date of enactment \[Aug. 7, 1977\].
 
-"(2) Except as otherwise expressly provided, each State required to revise its applicable implementationplan by reason of any amendment made by this Act \[see Short Title of 1977 Amendment note below\] shall adopt and submit to the Administrator of the Environmental Protection Administration such plan revision before the later of the date—
+"(2) Except as otherwise expressly provided, each State required to revise its applicable implementation plan by reason of any amendment made by this Act \[see Short Title of 1977 Amendment note below\] shall adopt and submit to the Administrator of the Environmental Protection Administration such plan revision before the later of the date—
 
 &emsp;"(A) one year after the date of enactment of this Act \[Aug. 7, 1977\], or
 
@@ -123,10 +127,6 @@ Act July 14, 1955, ch. 360, title IV, §401, as added by Dec. 31, 1970, Pub. L. 
 #### Savings Provision
 
 Pub. L. 101–549, title VII, §711(a), Nov. 15, 1990, 104 Stat. 2684, provided that: "Except as otherwise expressly provided in this Act \[see Tables for classification\], no suit, action, or other proceeding lawfully commenced by the Administrator or any other officer or employee of the United States in his official capacity or in relation to the discharge of his official duties under the Clean Air Act \[42 U.S.C. 7401 et seq.\], as in effect immediately prior to the date of enactment of this Act \[Nov. 15, 1990\], shall abate by reason of the taking effect of the amendments made by this Act."
-
-#### Transfer of Functions
-
-Reorg. Plan No. 3 of 1970, §2(a)(3), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2086, transferred to Administrator of Environmental Protection Agency functions vested by law in Secretary of Health, Education, and Welfare or in Department of Health, Education, and Welfare which are administered through Environmental Health Service, including functions exercised by National Air Pollution Control Administration, and Environmental Control Administration's Bureau of Solid Waste Management, Bureau of Water Hygiene, and Bureau of Radiological Health, except insofar as functions carried out by Bureau of Radiological Health pertain to regulation of radiation from consumer products, including electronic product radiation, radiation as used in healing arts, occupational exposure to radiation, and research, technical assistance, and training related to radiation from consumer products, radiation as used in healing arts, and occupational exposure to radiation.
 
 #### Impact on Small Communities
 
@@ -268,7 +268,7 @@ Implementation Plan.—Not later than 90 days after the enactment of this Act \[
 
 "(e)
 
-Report.—Not later than 2 years after the enactment of this Act \[Oct. 17, 1986\], the Administrator shallsubmit to Congress a report respecting his activities under this section and making such recommendations as appropriate.
+Report.—Not later than 2 years after the enactment of this Act \[Oct. 17, 1986\], the Administrator shall submit to Congress a report respecting his activities under this section and making such recommendations as appropriate.
 
 #### "SEC. 404. CONSTRUCTION OF TITLE.
 
@@ -298,6 +298,12 @@ Pub. L. 95–95, title IV, §404, Aug. 7, 1977, 91 Stat. 793, as amended by H. R
 
 Pub. L. 95–95, title IV, §405, Aug. 7, 1977, 91 Stat. 794, directed Administrator, in conjunction with Council of Economic Advisors, to undertake a study and assessment of economic measures for control of air pollution which could strengthen effectiveness of existing methods of controlling air pollution, provide incentives to abate air pollution greater than that required by Clean Air Act, and serve as primary incentive for controlling air pollution problems not addressed by Clean Air Act, and directed that not later than 2 years after Aug. 7, 1977, Administrator and Council conclude study and submit a report to President and Congress.
 
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Reorg. Plan No. 3 of 1970, §2(a)(3), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2086, transferred to Administrator ofEnvironmental Protection Agency functions vested by law in Secretary of Health, Education, and Welfare or in Department of Health, Education, and Welfare which are administered through Environmental Health Service, including functions exercised by National Air Pollution Control Administration, and Environmental Control Administration's Bureau of Solid Waste Management, Bureau of Water Hygiene, and Bureau of Radiological Health, except insofar as functions carried out by Bureau of Radiological Health pertain to regulation of radiation from consumer products, including electronic product radiation, radiation as used in healing arts, occupational exposure to radiation, and research, technical assistance, and training related to radiation from consumer products, radiation as used in healing arts, and occupational exposure to radiation.
+
 #### National Industrial Pollution Control Council
 
 For provisions relating to establishment of National Industrial Pollution Control Council, see Ex. Ord. No. 11523, Apr. 9, 1970, 35 F.R. 5993, set out as a note under section 4321 of this title.
@@ -316,63 +322,5 @@ Ex. Ord. No. 11507, Feb. 4, 1970, 35 F.R. 2573, which provided for prevention, c
 
 #### Promoting Domestic Manufacturing and Job Creation—Policies and Procedures Relating to Implementation of Air Quality Standards
 
-Memorandum of President of the United States, Apr. 12, 2018, 83 F.R. 16761, provided:
-
-Memorandum for the Administrator of the Environmental Protection Agency
-
-Under the Clean Air Act (CAA), Public Law 88–206 \[42 U.S.C. 7401 et seq.\], the Environmental Protection Agency (EPA) establishes National Ambient Air Quality Standards (NAAQS) for certain common air pollutants, often referred to as "criteria pollutants," which it must review every 5 years. Over the past four decades, EPA has revised these standards a number of times to increase their stringency, including revisions to the standards for ozone, particulate matter, and four other criteria pollutants. Since 1970, emissions of criteria pollutants have declined dramatically and airquality has improved significantly. At the same time, each new revision of the NAAQS triggers numerous new planning, permitting, and other requirements for affected States, localities, and regulated entities. In addition, each new revision can affect the planning for and availability of Federal funding for certain new transportation projects.
-
-Under the CAA, States with areas that do not meet revised NAAQS must submit for approval to the Administrator of the EPA (Administrator) State Implementation Plans (SIPs) showing how they will comply with the revised standards. States that fail to submit a SIP or that submit an inadequate SIP risk the imposition of a Federal Implementation Plan (FIP) that establishes a path to compliance. In addition, manufacturers and other applicants seeking preconstruction permits for new construction generally must demonstrate compliance with the new standards as soon as they go into effect. As the NAAQS have become more stringent, obtaining the air permits needed to construct new manufacturing and industrial facilities or to expand or modernize existing facilities has become increasingly difficult. In some areas, revised NAAQS are approaching what are considered to be "background levels" of pollution (i.e., levels associated with natural sources or emissions originating outside of the United States), leading to significant practical challenges for constructing or expanding manufacturing and industrial facilities. Those challenges range from difficulties in demonstrating compliance to costs and uncertainty associated with permitting delays and emissions-control requirements.
-
-Under the CAA, EPA has also established a Regional Haze Program, which requires States to submit for the Administrator's approval plans that cover 10-year implementation periods and to demonstrate "reasonable progress" toward improving and maintaining visibility in certain national parks and wilderness areas. In recent years, States have spent significant time and resources developing Regional Haze Program SIPs. EPA, however, has rejected several of them, in whole or in part, and issued FIPs in their place, which often impose more costly and burdensome measures.
-
-Given the national importance of successful and efficient implementation of air quality standards to promote public health, welfare, and economic growth, this memorandum directs the Administrator to take specific actions to ensure efficient and cost-effective implementation of the NAAQS program, including with regard to permitting decisions for new and expanded facilities, and with respect to the Regional Haze Program. These actions are intended to ensure that EPA carries out its core missions of protecting the environment and improving air quality in accord with statutory requirements, while reducing unnecessary impediments to new manufacturing and business expansion essential for a growing economy.
-
-Accordingly, by the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby directed as follows:
-
-Section 1. <i>Timely Processing of State Implementation Plans</i>. The Administrator shall, as practicable and consistent with law, endeavor in all cases to take final action on SIPs within 18 months of the date of the submission of a SIP. This goal applies to all SIPs and SIP revisions submitted pursuant to section 110 of the CAA (42 U.S.C. 7410). The Administrator shall consider the expansion of existing performance goals related to the timely processing of SIPs starting with the Fiscal Year (FY) 2019 performance plan.
-
-Sec. 2. <i>Cooperative Engagement with States to Review Regional Haze Plans</i>. The Administrator shall undertake a process to review all full or partial FIPs issued under the 2007 planning period of the Regional Haze Program and to develop options, at the request of affected States, consistent with law, to replace FIPs with approvable SIPs. The Administrator shall consider the expansion of existing performance goals related to the cooperative engagement with States in EPA's review of Regional Haze Plans starting with the FY 2019 performance plan.
-
-Sec. 3. <i>Timely Processing of Preconstruction Permit Applications</i>. The Administrator shall endeavor to take final action on applications for preconstruction permits, as appropriate and consistent with law, within 1 year of the date of receiving a complete application. This 1-year goal applies to all completed applications for preconstruction permits for which EPA is the direct permitting authority under the CAA. The Administrator shall also seek to ensure that determinations relating to the completeness of an application are not unduly delayed. To the extent that a State is the direct permitting authority, EPA shall endeavor to provide prompt technical support, reviews, and determinations, as necessary and consistent with applicable law, in order to assist States in the timely issuance of preconstruction permits. The Administrator shall, starting with the FY 2019 performance plan, develop performance goals related to the timely processing of preconstruction permit applications.
-
-Sec. 4. <i>Demonstrations or Petitions Submitted Pursuant to Sections 319 and 179B of the CAA Relating to Emissions Beyond the Control of State and Local Air Agencies</i>. The Administrator shall take the following actions with regard to demonstrations or petitions submitted pursuant to sections 319 and 179B of the CAA (42 U.S.C. 7619, 7509a), in order to provide relief to State and local air agencies addressing emissions that are beyond their control:
-
-(a) <i>Timely Processing</i>. With respect to all exceptional event demonstrations submitted pursuant to section 319 of the CAA (42 U.S.C. 7619), and all demonstrations or petitions relating to international emissions submitted pursuant to section 179B of the CAA (42 U.S.C. 7509a), the Administrator shall endeavor to take final action within 120 days of a complete submission, as appropriate and consistent with law. The Administrator shall also endeavor to use available monitoring data and modeling tools to assist States in identifying potential exceptional events and international emissions that may affect concentrations of criteria pollutants. The Administrator shall, starting with the FY 2019 performance plan, develop performance goals related to the timely processing of demonstrations or petitions.
-
-(b) <i>Policies Relating to International Emissions</i>. The Administrator shall ensure that EPA continues to take into consideration a State's ability to meet and attain NAAQS that may be affected by international transport of criteria pollutants. With regard to all demonstrations or petitions submitted pursuant to section 179B of the CAA, the Administrator shall also seek to ensure, including through rulemakings or guidance and as appropriate and consistent with law, that EPA does not limit its consideration of demonstrations or petitions to those submitted by States located on the borders of the United States with Mexico or Canada, but rather considers section 179B demonstrations or petitions submitted by any State, including but not limited to those located in the Western United States. Additionally, with respect to section 179B demonstrations or petitions, the Administrator shall ensure that EPA does not limit its consideration to emissions emanating from Mexico or Canada, but rather considers, where appropriate, emissions that may emanate from any location outside the United States, including emissions from Asia.
-
-(c) <i>Continuing Assessment</i>. In implementing section 179B of the CAA (42 U.S.C. 7509a), section 319 of the CAA (42 U.S.C. 7619), and section 182(h) of the CAA (42 U.S.C. 7511a(h)), the Administrator shall ensure that EPA continues to assess background concentrations and sources of pollution outside of the control of State and local air agencies that may affect implementation or application of these provisions. Such assessment may include current and future trends in pollution from foreign sources; regional trends in exceptional events, including wildfires, stratospheric ozone intrusions, and volcanic seismic activities; and other events, as appropriate and consistent with law.
-
-Sec. 5. <i>Monitoring and Modeling Data</i>. The Administrator shall take the following actions to ensure thatmonitoring and modeling data is used appropriately in designations, permitting decisions, and demonstrations:
-
-(a) <i>Designations</i>. Given the significant planning, permitting, and other requirements for affected States, localities, and regulated entities associated with nonattainment designations, the Administrator's goal for future designations should be, to the extent feasible and permitted by law, to rely on data from EPA-approved air quality monitors for such designations.
-
-(b) <i>Permitting Decisions and Demonstrations.</i>
-
-(i) Where modeling is necessary for permitting decisions, for State plans, or for exceptional event or international emissions demonstrations, the Administrator shall seek to ensure that EPA's applicable modeling tools are sufficiently accurate for their intended application; and that the relevant State or local air agency, or permit applicant as applicable, is consulted regarding whether the use of modeling projections in lieu of monitored data is appropriate. The Administrator should also seek to streamline EPA's processes for considering and approving inputs to models and updates to modeling techniques, including updates to account for site-specific conditions. Where EPA-approved models are not representative of site conditions or planned activities, the Administrator shall seek, as appropriate and consistent with law, to streamline the process for approving alternative models and to provide for other methods that promote innovative State approaches.
-
-(ii) The Administrator shall, consistent with law, continue to take actions, such as setting significant impact levels and related values, that enable EPA to clearly identify the types or classes of permitting and related decisions that do not require modeling or that can rely on streamlined modeling approaches. This requirement is especially important in areas for which EPA concludes that permits need to demonstrate compliance with NAAQS that have yet to be fully implemented. In developing significant impact levels, EPA should, as appropriate and consistent with law, allow for natural variability in meteorological conditions and industrial processes.
-
-Sec. 6. <i>Offsets</i>. To the extent consistent with law and air quality improvement, the Administrator shall provide flexibility to States with regard to identifying and achieving offsets, including by allowing intrastate and regional inter-precursor trading. These efforts should include development and implementation of flexible offset policies in rural areas where few facilities exist to generate offsets, in order to promote their economic expansion. The Administrator shall examine steps to help regions and States benefit from flexibilities available in the permitting process for new facilities and projects.
-
-Sec. 7. <i>Future NAAQS Reviews</i>. The Administrator shall evaluate whether EPA is complying fully with the requirements of section 109(d)(2)(C) of the CAA (42 U.S.C. 7409(d)(2)(C)) relating to the scope and characterization of advice provided by its Clean Air Act Scientific Advisory Committee, including requirements that the Committee advise the Administrator regarding background concentrations and adverse public health or other effects that may result from implementation of revised air quality standards. In addition, the Administrator shall examine the current NAAQS review process and develop criteria to ensure transparency in the evaluation, assessment, and characterization of scientific evidence in such reviews. The Administrator shall also develop clear guidance for differentiating the role of science and policy considerations in establishing NAAQS.
-
-Sec. 8. <i>Timely Issuance of Implementing Regulations and Guidance</i>. When issuing any final rule establishing or revising NAAQS, the Administrator shall, where appropriate and consistent with law, concurrently issue regulations and guidance necessary for implementing the new or revised standards. The regulations and guidance shall specify the information that is relevant to the submission and consideration of SIPs and preconstruction permit applications.
-
-Sec. 9. <i>Review of Rules, Guidance, Memoranda, and Procedures Relating to State Implementation Plans and Permitting</i>. The Administrator shall evaluate EPA's existing rules, guidance, memoranda, and other public documents relating to the implementation of NAAQS, including documents that relate to the submission and consideration of preconstruction permit applications. The Administrator shall, consistent with law, determine whether any such documents should be revised or rescinded to ensure more timely permitting decisions under the NAAQS. Any resulting revisions or rescissions should seek, among other things, to provide States with additional implementation flexibility. The Administrator should also evaluate the adequacy of existing internal review procedures to determine whether they can be improved to ensure prompt evaluation and timely action on new and pending SIPs and permit applications.
-
-Sec. 10. <i>General Provisions</i>. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
-
-(i) the authority granted by law to an executive department or agency, or the head thereof; or
-
-(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
-
-(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
-
-(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-
-(d) You are hereby authorized and directed to publish this memorandum in the Federal Register.
-
-Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Memorandum of President of the United States, Apr. 12, 2018, 83 F.R. 16761, which related to State Implementation Plans for the Regional Haze Program, was revoked by Ex. Ord. No. 13990, §7(d), Jan. 20, 2021, 86 F.R. 7042, set out in a note under section 4321 of this title.
 

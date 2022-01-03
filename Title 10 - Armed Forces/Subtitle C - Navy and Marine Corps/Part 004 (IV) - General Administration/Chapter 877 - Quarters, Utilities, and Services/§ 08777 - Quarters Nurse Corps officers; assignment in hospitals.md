@@ -18,9 +18,13 @@ Historical and Revision Notes
 
 Apr. 16, 1947, ch. 38, §208(a) (2d proviso, less 1st 25 words), 61 Stat. 50.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7577 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

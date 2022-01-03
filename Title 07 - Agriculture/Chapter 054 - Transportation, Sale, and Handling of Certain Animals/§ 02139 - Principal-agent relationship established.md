@@ -4,11 +4,15 @@ When construing or enforcing the provisions of this chapter, the act, omission, 
 
 (Pub. L. 89–544, §9, Aug. 24, 1966, 80 Stat. 351; Pub. L. 91–579, §10, Dec. 24, 1970, 84 Stat. 1562; Pub. L. 94–279, §7, Apr. 22, 1976, 90 Stat. 418.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Pub. L. 94–279 inserted "or an intermediate handler, or a carrier," after "section 2142 of this title," and substituted "operator of an auction sale, intermediate handler, or carrier, as well as of such person." for "or an operator of an auction sale as well as of such person." after "research facility, dealer, exhibitor, licensee,".
 
 <b>1970</b>—Pub. L. 91–579 inserted references to persons acting for or employed by exhibitors, persons licensed as exhibitors, and operators of auction sales subject to section 2142 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1970 Amendment
 

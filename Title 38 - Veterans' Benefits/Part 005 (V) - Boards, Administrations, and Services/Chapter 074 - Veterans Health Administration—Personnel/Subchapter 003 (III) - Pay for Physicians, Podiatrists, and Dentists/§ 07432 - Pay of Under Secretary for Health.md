@@ -10,7 +10,7 @@ Market Pay.—(1) In the case of an Under Secretary for Health who is also a phy
 
 (2) The amount of market pay of the Under Secretary for Health under this subsection shall be established by the Secretary.
 
-(3) In establishing the amount of market pay of the Under Secretary for Health under this subsection, the Secretary shall utilize an appropriate health care labor market selected by the Secretary for purposes of this subsection.
+(3) In establishing the amount of market pay of the Under Secretary for Health under thissubsection, the Secretary shall utilize an appropriate health care labor market selected by the Secretary for purposes of this subsection.
 
 (c)
 

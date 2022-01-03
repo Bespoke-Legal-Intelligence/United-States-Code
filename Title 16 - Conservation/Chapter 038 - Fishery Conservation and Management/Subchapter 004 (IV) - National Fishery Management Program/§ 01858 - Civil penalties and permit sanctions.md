@@ -2,7 +2,7 @@
 
 #### (a) Assessment of penalty
 
-Any person who is found by the Secretary, after notice and an opportunity for a hearing in accordance with section 554 of title 5, to have committed an act prohibited by section 1857 of this title shall be liable to the United States for a civil penalty. The amount of the civil penalty shall not exceed $100,000 for each violation. Each day of a continuing violation shall constitute a separate offense. The amount of such civil penalty shall be assessed by the Secretary, or his designee, by written notice. In determining the amount of such penalty, the Secretary shall take into account the nature, circumstances, extent, and gravity of the prohibited acts committed and, with respect to the violator, the degree of culpability, any history of prior offenses, and such other matters as justice may require. In assessing such penalty the Secretary may also consider any information provided by the violator relating to the ability of the violator to pay, <i>Provided</i>, That the information is served on the Secretary at least 30 days prior to an administrative hearing.
+Any person who is found by the Secretary, after notice and an opportunity for a hearing in accordance with section 554 of title 5, to have committed an act prohibited by section 1857 or section 1870 of this title shall be liable to the United States for a civil penalty. The amount of the civil penalty shall not exceed $100,000 for each violation. Each day of a continuing violation shall constitute a separate offense. The amount of such civil penalty shall be assessed by the Secretary, or his designee, by written notice. In determining the amount of such penalty, the Secretary shall take into account the nature, circumstances, extent, and gravity of the prohibited acts committed and, with respect to the violator, the degree of culpability, any history of prior offenses, and such other matters as justice may require. In assessing such penalty the Secretary may also consider any information provided by the violator relating to the ability of the violator to pay, <i>Provided</i>, That the information is served on the Secretary at least 30 days prior to an administrative hearing.
 
 #### (b) Review of civil penalty
 
@@ -22,7 +22,7 @@ The Secretary may compromise, modify, or remit, with or without conditions, any 
 
 #### (f) Subpenas
 
-For the purposes of conducting any hearing under this section, the Secretary may issue subpenas for the attendance and testimony of witnesses and the production of relevant papers, books, and documents, and may administer oaths. Witnesses summoned shall be paid thesame fees and mileage that are paid to witnesses in the courts of the United States. In case of contempt or refusal to obey a subpena served upon any person pursuant to this subsection, the district court of the United States for any district in which such person is found, resides, or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the Secretary or to appear and produce documents before the Secretary, or both, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
+For the purposes of conducting any hearing under this section, the Secretary may issue subpenas for the attendance and testimony of witnesses and the production of relevant papers, books, and documents, and may administer oaths. Witnesses summoned shall be paid the same fees and mileage that are paid to witnesses in the courts of the United States. In case of contempt or refusal to obey a subpena served upon any person pursuant to this subsection, the district court of the United States for any district in which such person is found, resides, or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the Secretary or to appear and produce documents before the Secretary, or both, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
 
 #### (g) Permit sanctions
 
@@ -52,9 +52,9 @@ For the purposes of conducting any hearing under this section, the Secretary may
 
 #### Amendment of Subsection (a)
 
-<i>Pub. L. 116–340, §3(b), (c), Jan. 13, 2021, 134 Stat. 5129, provided that, effective 1 year after Jan. 13, 2021, subsection (a) of this section is amended by inserting "or section 1870" after "section 1857".</i>
-
 <i>Pub. L. 116–340, §3(e), Jan. 13, 2021, 134 Stat. 5129, provided in part that, effective five years after Jan. 13, 2021, subsection (a) of this section is amended by striking "or section 1870" after "section 1857".</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -70,7 +70,7 @@ Pub. L. 116–340, §3(b), inserted "or section 1870" after "section 1857".
 
 Subsec. (b). Pub. L. 104–297, §114(b), amended first sentence generally. Prior to amendment, first sentence read as follows: "Any person against whom a civil penalty is assessed under subsection (a) of this section may obtain review thereof in the United States district court for the appropriate district by filing a complaint in such court within 30 days from the date of such order and by simultaneously serving a copy of such complaint by certified mail on the Secretary, the Attorney General and the appropriate United States Attorney."
 
-Subsec. (g)(1). Pub. L. 104–297, §114(c), substituted "(C) any amount in settlement of a civil forfeiture imposed on a vessel or other property, or any civil penalty or criminal fine imposed on a vessel or owner or operator of a vessel or any other person who has been issued or has applied for a permit under any marine resource law enforced by the Secretary has not been paid and is overdue, or (D) any payment required for observer services provided to or contracted by an owner or operator who has been issued a permit or applied for a permit under any marine resource law administered by theSecretary has not been paid and is overdue," for "or (C) any civil penalty or criminal fine imposed on a vessel or owner or operator of a vessel or any other person who has been issued or has applied for a permit under any fishery resource law statute enforced by the Secretary has not been paid and is overdue,".
+Subsec. (g)(1). Pub. L. 104–297, §114(c), substituted "(C) any amount in settlement of a civil forfeiture imposed on a vessel or other property, or any civil penalty or criminal fine imposed on a vessel or owner or operator of a vessel or any other person who has been issued or has applied for a permit under any marine resource law enforced by the Secretary has not been paid and is overdue, or (D) any payment required for observer services provided to or contracted by an owner or operator who has been issued a permit or applied for a permit under any marine resource law administered by the Secretary has not been paid and is overdue," for "or (C) any civil penalty or criminal fine imposed on a vessel or owner or operator of a vessel or any other person who has been issued or has applied for a permit under any fishery resource law statute enforced by the Secretary has not been paid and is overdue,".
 
 <b>1990</b>—Pub. L. 101–627, §114(a)(1), inserted "and permit sanctions" after "penalties" in section catchline.
 
@@ -83,6 +83,8 @@ Subsec. (g). Pub. L. 101–627, §114(a)(3), added subsec. (g).
 Subsecs. (d) to (f). Pub. L. 99–659, §108(2), (3), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 
 <b>1983</b>—Subsec. (e). Pub. L. 97–453 added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective and Termination Dates of 2021 Amendment
 

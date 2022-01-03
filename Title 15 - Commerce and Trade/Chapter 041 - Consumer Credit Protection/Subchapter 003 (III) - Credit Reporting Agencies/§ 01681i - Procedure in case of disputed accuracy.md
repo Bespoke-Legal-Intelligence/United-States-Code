@@ -62,7 +62,7 @@
 
 #### (i) Certification of accuracy of information
 
-&emsp;&emsp;&emsp;If any information is deleted from a consumer's file pursuant to subparagraph (A), the information may not be reinserted in the file by the consumer reporting agency unless the person who furnishes the information certifies that the information is complete and accurate.
+&emsp;&emsp;&emsp;If any information is deleted from a consumer's file pursuant to subparagraph (A), the information may not be reinserted in the file by the consumer reporting agencyunless the person who furnishes the information certifies that the information is complete and accurate.
 
 #### (ii) Notice to consumer
 
@@ -108,7 +108,7 @@
 
 #### (7) Description of reinvestigation procedure
 
-&emsp;A consumer reporting agency shall provide to a consumer a description referred to inparagraph (6)(B)(iii) by not later than 15 days after receiving a request from the consumer for that description.
+&emsp;A consumer reporting agency shall provide to a consumer a description referred to in paragraph (6)(B)(iii) by not later than 15 days after receiving a request from the consumer for that description.
 
 #### (8) Expedited dispute resolution
 
@@ -126,7 +126,7 @@ If the reinvestigation does not resolve the dispute, the consumer may file a bri
 
 #### (c) Notification of consumer dispute in subsequent consumer reports
 
-Whenever a statement of a dispute is filed, unless there is reasonable grounds to believe that it is frivolous or irrelevant, the consumer reporting agency shall, in any subsequent consumer report containing the information in question, clearly note that it is disputed by the consumer and provide either the consumer's statement or a clear and accurate codification or summary thereof.
+Whenever a statement of a dispute is filed, unless there is reasonable grounds to believe thatit is frivolous or irrelevant, the consumer reporting agency shall, in any subsequent consumer report containing the information in question, clearly note that it is disputed by the consumer and provide either the consumer's statement or a clear and accurate codification or summary thereof.
 
 #### (d) Notification of deletion of disputed information
 
@@ -172,7 +172,7 @@ Following any deletion of information which is found to be inaccurate or whose a
 
 #### (2) Action required upon receiving notice of a dispute
 
-&emsp;If a reseller receives a notice from a consumer of a dispute concerning the completeness or accuracy of any item of informationcontained in a consumer report on such consumer produced by the reseller, the reseller shall, within 5 business days of receiving the notice, and free of charge—
+&emsp;If a reseller receives a notice from a consumer of a dispute concerning the completeness or accuracy of any item of information contained in a consumer report on such consumer produced by the reseller, the reseller shall, within 5 business days of receiving the notice, and free of charge—
 
 &emsp;&emsp;(A) determine whether the item of information is incomplete or inaccurate as a result of an act or omission of the reseller; and
 
@@ -210,6 +210,8 @@ Following any deletion of information which is found to be inaccurate or whose a
 
 (Pub. L. 90–321, title VI, §611, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1132; amended Pub. L. 104–208, div. A, title II, §2409, Sept. 30, 1996, 110 Stat. 3009–439; Pub. L. 105–347, §6(5), Nov. 2, 1998, 112 Stat. 3211; Pub. L. 108–159, title III, §§313(a), 314(a), 316, 317, Dec. 4, 2003, 117 Stat. 1994–1996, 1998; Pub. L. 111–203, title X, §1088(a)(2)(C), (6), July 21, 2010, 124 Stat. 2087; Pub. L. 115–174, title III, §302(b)(3), May 24, 2018, 132 Stat. 1333.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Consumer Financial Protection Act of 2010, referred to in subsec. (e)(2), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, which enacted subchapter V (§5481 et seq.) of chapter 53 of Title 12, Banks and Banking, and enacted and amended numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 12 and Tables.
@@ -242,9 +244,11 @@ Subsec. (f). Pub. L. 108–159, §316(b), added subsec. (f).
 
 <b>1998</b>—Subsec. (a)(7). Pub. L. 105–347 substituted "(6)(B)(iii)" for "(6)(B)(iv)".
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–208, §2409(a), inserted heading and amended text of subsec. (a) generally. Prior to amendment, text read as follows: "If the completeness or accuracy of any item of information contained in his file is disputed by a consumer, and such dispute is directly conveyed to the consumer reporting agency by the consumer, the consumer reporting agency shall within a reasonable period of time reinvestigate and record the current status of that information unless it has reasonable grounds to believe thatthe dispute by the consumer is frivolous or irrelevant. If after such reinvestigation such information is found to be inaccurate or can no longer be verified, the consumer reporting agency shall promptly delete such information. The presence of contradictory information in the consumer's file does not in and of itself constitute reasonable grounds for believing the dispute is frivolous or irrelevant."
+<b>1996</b>—Subsec. (a). Pub. L. 104–208, §2409(a), inserted heading and amended text of subsec. (a) generally. Prior to amendment, text read as follows: "If the completeness or accuracy of any item of information contained in his file is disputed by a consumer, and such dispute is directly conveyed to the consumer reporting agency by the consumer, the consumer reporting agency shall within a reasonable period of time reinvestigate and record the current status of that information unless it has reasonable grounds to believe that the dispute by the consumer is frivolous or irrelevant. If after such reinvestigation such information is found to be inaccurate or can no longer be verified, the consumer reporting agency shall promptly delete such information. The presence of contradictory information in the consumer's file does not in and of itself constitute reasonable grounds for believing the dispute is frivolous or irrelevant."
 
 Subsec. (d). Pub. L. 104–208, §2409(b), struck out at end "The consumer reporting agency shall clearly and conspicuously disclose to the consumer his rights to make such a request. Such disclosure shall be made at or prior to the time the information is deleted or the consumer's statement regarding the disputed information is received."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

@@ -8,7 +8,7 @@ The Congress of the United States makes the following findings concerning the de
 
 (c) The processing and utilization of source, byproduct, and special nuclear material affect interstate and foreign commerce and must be regulated in the national interest.
 
-(d) The processing and utilization of source, byproduct, and special nuclear material must be regulated in the national interest and in order to provide for the common defense and security and to protect the health and safety of the public.
+(d) The processing and utilization of source, byproduct, and special nuclear material must be regulated in the national interest and in orderto provide for the common defense and security and to protect the health and safety of the public.
 
 (e) Source and special nuclear material, production facilities, and utilization facilities are affected with the public interest, and regulation by the United States of the production and utilization of atomic energy and of the facilities used in connection therewith is necessary in the national interest to assure the common defense and security and to protect the health and safety of the public.
 
@@ -21,6 +21,8 @@ The Congress of the United States makes the following findings concerning the de
 (i) In order to protect the public and to encourage the development of the atomic energy industry, in the interest of the general welfare and of the common defense and security, the United States may make funds available for a portion of the damages suffered by the public from nuclear incidents, and may limit the liability of those persons liable for such losses.
 
 (Aug. 1, 1946, ch. 724, title I, §2, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921; amended Pub. L. 85–256, §1, Sept. 2, 1957, 71 Stat. 576; Pub. L. 88–489, §§1, 2, Aug. 26, 1964, 78 Stat. 602; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -37,6 +39,8 @@ A prior section 2 of act Aug. 1, 1946, ch. 724, 60 Stat. 756, which related to e
 Subsec. (h). Pub. L. 88–489, §2, struck out subsec. (h) which found it essential to common defense and security that title to all special nuclear material be in United States while such special nuclear material is within United States.
 
 <b>1957</b>—Subsec. (i). Pub. L. 85–256 added subsec. (i).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Control and Regulation Powers of United States and of Atomic Energy Commission Unaffected by Private Ownership of Special Nuclear Materials
 

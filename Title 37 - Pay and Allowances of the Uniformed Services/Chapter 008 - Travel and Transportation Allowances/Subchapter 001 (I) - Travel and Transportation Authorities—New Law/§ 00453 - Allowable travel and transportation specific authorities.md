@@ -40,7 +40,7 @@ Attendance at Memorial Ceremonies and Services.—A family member or member of t
 
 (g)
 
-Reimbursement of Qualifying Spouse Relicensing Costs Incident to a Member's Permanent Change of Station or Assignment.—(1) From amounts otherwise made available for afiscal year to provide travel and transportation allowances under this chapter, the Secretary concerned may reimburse a member of the uniformed services for qualified relicensing costs of the spouse of the member when—
+Reimbursement of Qualifying Spouse Relicensing Costs Incident to a Member's Permanent Change of Station or Assignment.—(1) From amounts otherwise made available for a fiscal year to provide travel and transportation allowances under this chapter, the Secretary concerned may reimburse a member of the uniformed services for qualified relicensing costs of the spouse of the member when—
 
 &emsp;(A) the member is reassigned, either as a permanent change of station or permanent change of assignment, between duty stations located in separate jurisdictions with unique licensing or certification requirements and authorities; and
 
@@ -56,7 +56,7 @@ Reimbursement of Qualifying Spouse Relicensing Costs Incident to a Member's Perm
 
 &emsp;(B) the costs were incurred or paid to secure or maintain the license or certification from the new jurisdiction in connection with such reassignment.
 
-(Added Pub. L. 112–81, div. A, title VI, §631(b), Dec. 31, 2011, 125 Stat. 1457; amended Pub. L. 113–66, div. A, title VI, §621(c)(1), (h), Dec. 26, 2013, 127 Stat. 783, 784; Pub. L. 114–328, div. A, title V, §522(c), Dec. 23, 2016, 130 Stat. 2116; Pub. L. 116–283, div. A, title VI, §622(a), Jan. 1, 2021, 134 Stat. 3676.)
+(Added Pub. L. 112–81, div. A, title VI, §631(b), Dec. 31, 2011, 125 Stat. 1457; amended Pub. L.113–66, div. A, title VI, §621(c)(1), (h), Dec. 26, 2013, 127 Stat. 783, 784; Pub. L. 114–328, div. A, title V, §522(c), Dec. 23, 2016, 130 Stat. 2116; Pub. L. 116–283, div. A, title VI, §622(a), Jan. 1, 2021, 134 Stat. 3676.)
 
 #### <b>Editorial Notes</b>
 

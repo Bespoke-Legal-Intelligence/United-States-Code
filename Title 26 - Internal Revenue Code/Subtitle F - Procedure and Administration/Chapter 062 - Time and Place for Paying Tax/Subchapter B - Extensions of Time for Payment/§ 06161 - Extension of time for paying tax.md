@@ -20,7 +20,7 @@
 
 #### (1) Income, gift, and certain other taxes
 
-&emsp;Under regulations prescribed by the Secretary, the Secretary may extend the time for the payment of the amount determined as a deficiency of a tax imposed by chapter 1, 12, 41, 42, 43, or 44 for a period not to exceed 18months from the date fixed for the payment of the deficiency, and in exceptional cases, for a further period not to exceed 12 months. An extension under this paragraph may be granted only where it is shown to the satisfaction of the Secretary that payment of a deficiency upon the date fixed for the payment thereof will result in undue hardship to the taxpayer in the case of a tax imposed by chapter 1, 41, 42, 43, or 44, or to the donor in the case of a tax imposed by chapter 12.
+&emsp;Under regulations prescribed by the Secretary, the Secretary may extend the time for the payment of the amount determined as a deficiency of a tax imposed by chapter 1, 12, 41, 42, 43, or 44 for a period not to exceed 18 months from the date fixed for the payment of the deficiency, and in exceptional cases, for a further period not to exceed 12 months. An extension under this paragraph may be granted only where it is shown to the satisfaction of the Secretary that payment of a deficiency upon the date fixed for the payment thereof will result in undue hardship to the taxpayer in the case of a tax imposed by chapter 1, 41, 42, 43, or 44, or to the donor in the case of a tax imposed by chapter 12.
 
 #### (2) Estate tax
 
@@ -50,6 +50,8 @@ Extensions of time for payment of any portion of a claim for tax under chapter 1
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 762; Pub. L. 85–866, title II, §206(c), Sept. 2, 1958, 72 Stat. 1684; Pub. L. 91–172, title I, §101(j)(37), Dec. 30, 1969, 83 Stat. 530; Pub. L. 91–614, title I, §101(h), Dec. 31, 1970, 84 Stat. 1838; Pub. L. 93–406, title II, §1016(a)(7), Sept. 2, 1974, 88 Stat. 929; Pub. L. 94–455, title XIII, §1307(d)(2)(C), title XVI, §1605(b)(3), title XIX, §1906(b)(13)(A), title XX, §2004(c)(1), (2), Oct. 4, 1976, 90 Stat. 1727, 1754, 1834, 1867, 1868; Pub. L. 96–223, title I, §101(f)(1)(H), Apr. 2, 1980, 94 Stat. 252; Pub. L. 96–589, §6(i)(8), Dec. 24, 1980, 94 Stat. 3410; Pub. L. 97–34, title IV, §422(e)(1), Aug. 13, 1981, 95 Stat. 316; Pub. L. 100–418, title I, §1941(b)(2)(B)(viii), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 107–134, title I, §112(d)(3), Jan. 23, 2002, 115 Stat. 2435.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (d)(3). Pub. L. 107–134 added par. (3).
@@ -66,7 +68,7 @@ Subsec. (c). Pub. L. 96–589 substituted "Claims in cases under title 11 of the
 
 Subsec. (a)(2). Pub. L. 94–455, §2004(c)(1), struck out in subpar. (A) "that the payment, on the due date, of" before "any part of the amount", in subpar. (B) provisions relating to payment, on the date fixed for payment of any installment, and subpar. (C) which related to payment upon notice and demand of a deficiency prorated under the provisions of section 6161, inserted in subpar. (B) "or 6166A" after "section 6166", substituted in subpar. (B) "under such section" for "the date for payment for which had not arrived", and inserted in text following subpar. (B) provisions relating to extension of time for payment in the case of an amount referred to in subpar. (B).
 
-Subsec. (b). Pub. L. 94–455, §§1307(d)(2)(C), 1605(b)(3), 2004(c)(2), among other changes, inserted reference to chapter 41, effective on or after Oct. 4, 1976, and reference to chapter 44, applicable to taxable years of real estate investment trusts beginning after Oct. 4, 1976, and struck out provisions relating to grant of extensions with respect to hardships to taxpayers, applicable to the estates of decedents dying after Dec. 31, 1976.
+Subsec. (b). Pub. L. 94–455, §§1307(d)(2)(C), 1605(b)(3), 2004(c)(2), among other changes, inserted reference to chapter 41, effective on or after Oct. 4, 1976, and reference to chapter 44, applicable to taxable years of real estate investment trusts beginning after Oct. 4, 1976,and struck out provisions relating to grant of extensions with respect to hardships to taxpayers, applicable to the estates of decedents dying after Dec. 31, 1976.
 
 Subsec. (d)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
@@ -77,6 +79,8 @@ Subsec. (d)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate"
 <b>1969</b>—Subsec. (b). Pub. L. 91–172 inserted references to chapter 42.
 
 <b>1958</b>—Subsec. (a)(2). Pub. L. 85–866 inserted provisions allowing Secretary or his delegate to extend time for payment for reasonable period, not exceeding 10 years from date prescribed by section 6151(a), if he finds that payment on date fixed for payment of any installment under section 6166, or any part of such installment, or payment of any part of a deficiency prorated under section 6166 to installments the date for payment of which had arrived would result in undue hardship.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 
@@ -92,7 +96,7 @@ Amendment by Pub. L. 97–34 applicable to estates of decedents dying after Dec.
 
 #### Effective Date of 1980 Amendments
 
-Amendment by Pub. L. 96–589 effective Oct. 1, 1979, but not applicable to proceedings under Title 11, Bankruptcy, commenced before Oct. 1, 1979, see section 7(e)of Pub. L. 96–589, set out as a note under section 108 of this title.
+Amendment by Pub. L. 96–589 effective Oct. 1, 1979, but not applicable to proceedings under Title 11, Bankruptcy, commenced before Oct. 1, 1979, see section 7(e) of Pub. L. 96–589, set out as a note under section 108 of this title.
 
 Pub. L. 96–223, title I, §101(i), Apr. 2, 1980, 94 Stat. 254, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 

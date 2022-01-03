@@ -108,7 +108,7 @@ For purposes of this section—
 
 #### (1) Correction
 
-&emsp;The terms "correction" and "correct" mean, with respect to any taxable expenditure, (A)recovering part or all of the expenditure to the extent recovery is possible, and where full recovery is not possible such additional corrective action as is prescribed by the Secretary by regulations, or (B) in the case of a failure to comply with subsection (h)(2) or (h)(3), obtaining or making the report in question.
+&emsp;The terms "correction" and "correct" mean, with respect to any taxable expenditure, (A) recovering part or all of the expenditure to the extent recovery is possible, and where full recovery is not possible such additional corrective action as is prescribed by the Secretary by regulations, or (B) in the case of a failure to comply with subsection (h)(2) or (h)(3), obtaining or making the report in question.
 
 #### (2) Taxable period
 
@@ -119,6 +119,8 @@ For purposes of this section—
 &emsp;&emsp;(B) the date on which the tax imposed by subsection (a)(1) is assessed.
 
 (Added Pub. L. 91–172, title I, §101(b), Dec. 30, 1969, 83 Stat. 512; amended Pub. L. 94–455, title XIX, §§1901(b)(8)(H), 1906(b)(13(A), Oct. 4, 1976, 90 Stat. 1795, 1834; Pub. L. 96–596, §2(a)(1)(F), (2)(E), Dec. 24, 1980, 94 Stat. 3469, 3470; Pub. L. 98–369, div. A, title III, §302(b), July 18, 1984, 98 Stat. 780; Pub. L. 99–514, title I, §122(a)(2)(B), Oct. 22, 1986, 100 Stat. 2110; Pub. L. 100–647, title I, §1001(d)(1)(B), Nov. 10, 1988, 102 Stat. 3350; Pub. L. 109–280, title XII, §§1212(e), 1244(b), Aug. 17, 2006, 120 Stat. 1074, 1107; Pub. L. 113–295, div. A, title II, §221(a)(106), Dec. 19, 2014, 128 Stat. 4053.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -154,6 +156,8 @@ Subsec. (i)(2). Pub. L. 96–596, §2(a)(2)(E), substituted provision defining t
 
 Subsecs. (h), (i). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary" wherever appearing.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2014 Amendment
 
 Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
@@ -182,5 +186,5 @@ For effective date of amendment by Pub. L. 96–596 with respect to any first ti
 
 #### Savings Provision
 
-Applicability of subsecs. (d)(4) and (h) of this section to grants to private foundations described in section101(l)(C)(3) of Pub. L. 91–172, see section 101(l)(5) of Pub. L. 91–172, set out as a note under section 4940 of this title.
+Applicability of subsecs. (d)(4) and (h) of this section to grants to private foundations described in section 101(l)(C)(3) of Pub. L. 91–172, see section 101(l)(5) of Pub. L. 91–172, set out as a note under section 4940 of this title.
 

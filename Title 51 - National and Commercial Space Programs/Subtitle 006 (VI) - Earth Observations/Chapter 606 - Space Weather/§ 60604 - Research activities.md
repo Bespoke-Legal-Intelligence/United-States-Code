@@ -22,7 +22,7 @@ Sense of congress.—It is the sense of Congress that science centers could coor
 
 &emsp;(3)
 
-Multidisciplinary research.—The Director of the National Science Foundation, the Administrator of the National Oceanic and Atmospheric Administration, and the Administrator of the National Aeronautics and SpaceAdministration, shall each pursue multidisciplinary research in subjects that further the understanding of solar physics, space physics, and space weather.
+Multidisciplinary research.—The Director of the National Science Foundation, the Administrator of the National Oceanic and Atmospheric Administration, and the Administrator of the National Aeronautics and Space Administration, shall each pursue multidisciplinary research in subjects that further the understanding of solar physics, space physics, and space weather.
 
 (c)
 

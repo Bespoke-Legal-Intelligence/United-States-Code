@@ -54,7 +54,7 @@
 
 > the annuity of that employee is increased by $12 for each full month of that service which occurred before October 1, 1979.
 
-(C) An annuity increase under this paragraph does not apply with respect to service performedafter completion of 20 years of service (or any combination of service) as a law enforcement officer or firefighter.
+(C) An annuity increase under this paragraph does not apply with respect to service performed after completion of 20 years of service (or any combination of service) as a law enforcement officer or firefighter.
 
 (5) For the purpose of this subsection—
 
@@ -136,7 +136,7 @@
 
 &emsp;(ii) after the dissolution of the spouse's marriage to the employee or Member, except that an appropriate reduction shall be made thereafter if the spouse is entitled, as a former spouse, to a survivor annuity under section 8341(h) of this title.
 
-(B) Any reduction in an annuity for the purpose of providing a survivor annuity for a former spouse of a retired employee or Member shall be terminated for each full month after theformer spouse remarries before reaching age 55 or dies. This reduction shall be replaced by an appropriate reduction or reductions under paragraph (4) of this subsection if the retired employee or Member has (i) another former spouse who is entitled to a survivor annuity under section 8341(h) of this title, (ii) a current spouse to whom the employee or Member was married at the time of retirement and with respect to whom a survivor annuity was not jointly waived under paragraph (1) of this subsection, or (iii) a current spouse whom the employee or Member married after retirement and with respect to whom an election has been made under subparagraph (C) of this paragraph or subsection (k)(2) of this section.
+(B) Any reduction in an annuity for the purpose of providing a survivor annuity for a former spouse of a retired employee or Member shall be terminated for each full month after the former spouse remarries before reaching age 55 or dies. This reduction shall be replaced by an appropriate reduction or reductions under paragraph (4) of this subsection if the retired employee or Member has (i) another former spouse who is entitled to a survivor annuity under section 8341(h) of this title, (ii) a current spouse to whom the employee or Member was married at the time of retirement and with respect to whom a survivor annuity was not jointly waived under paragraph (1) of this subsection, or (iii) a current spouse whom the employee or Member married after retirement and with respect to whom an election has been made under subparagraph (C) of this paragraph or subsection (k)(2) of this section.
 
 (C)(i) Upon remarriage, a retired employee or Member who was married at the time of retirement (including an employee or Member whose annuity was not reduced to provide a survivor annuity for the employee or Member's spouse or former spouse as of the time of retirement) may irrevocably elect during such marriage, in a signed writing received by the Office within 2 years after such remarriage or, if later, within 2 years after the death or remarriage of any former spouse of such employee or Member who was entitled to a survivor annuity under section 8341(h) of this title (or of the last such surviving former spouse, if there was more than one), a reduction in the employee or Member's annuity under paragraph (4) of this subsection for the purpose of providing an annuity for such employee or Member's spouse in the event such spouse survives the employee or Member.
 
@@ -202,7 +202,7 @@
 
 &emsp;(ii) who at such time designates (in accordance with subsection (j)) that a limited portion of the annuity of such employee or Member is to be used as the base for a survivor annuity under section 8341(b) of this title,
 
-> may, during the 18-month period beginning on the date of the retirement of such employee orMember, elect to have a greater portion of the annuity of such employee or Member so used.
+> may, during the 18-month period beginning on the date of the retirement of such employee or Member, elect to have a greater portion of the annuity of such employee or Member so used.
 
 (2)(A) An election under subparagraph (A) or (B) of paragraph (1) of this subsection shall not be considered effective unless the amount specified in subparagraph (B) of this paragraph is deposited into the Fund before the expiration of the applicable 18-month period under paragraph (1).
 
@@ -250,9 +250,9 @@
 
 (s)(1) <sup>1</sup> For purposes of this subsection, the term "physicians comparability allowance" refers to an amount described in section 8331(3)(H).
 
-(2) Except as otherwise provided in this subsection, no part of a physicians comparability allowance shall be treated as basic pay for purposes of any computation under this section unless, before the date of the separation on which entitlement to annuity is based, the separating individual has completed at least 15 years of service as a Government physician (whether performed before, on, or after the date of the enactment of this subsection).
+(2) Except as otherwise provided in this subsection, no part of a physicians comparability allowance shall be treated as basic pay for purposes of any computation under this section unless, before the date of the separation on which entitlement to annuity is based, the separating individual has completed at least 15 years ofservice as a Government physician (whether performed before, on, or after the date of the enactment of this subsection).
 
-(3) If the condition under paragraph (2) is met, then, any amounts received by the individual in the form of a physicians comparability allowance shall (for the purposes referred to in paragraph (2)) be treated as basic pay, but only to the extent that such amounts are attributable to service performed on or after the date of the enactment of this subsection, and only to theextent of the percentage allowable, which shall be determined as follows:
+(3) If the condition under paragraph (2) is met, then, any amounts received by the individual in the form of a physicians comparability allowance shall (for the purposes referred to in paragraph (2)) be treated as basic pay, but only to the extent that such amounts are attributable to service performed on or after the date of the enactment of this subsection, and only to the extent of the percentage allowable, which shall be determined as follows:
 
 &nbsp;
 
@@ -318,7 +318,7 @@ In subsection (f)(2), the words "service of the type last performed" are substit
 
 In subsection (i), the words "by the employee or Member at the time of retirement" are added on authority of former section 2260(a)(1), which is carried into section 8341(b).
 
-In subsection (j), the words "an annuity computed as provided in section 2259 of this title" and "an annuityso computed" are omitted as unnecessary as former sections 2256 and 2258, which are carried into this title as sections 8336 and 8338, respectively, expressly require that the annuities authorized thereby must be computed under former section 2259, which is carried into this section.
+In subsection (j), the words "an annuity computed as provided in section 2259 of this title" and "an annuity so computed" are omitted as unnecessary as former sections 2256 and 2258, which are carried into this title as sections 8336 and 8338, respectively, expressly require that the annuities authorized thereby must be computed under former section 2259, which is carried into this section.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -478,11 +478,11 @@ Pub. L. 99–251, §307(a), added subsec. (o), set out first, relating to 18-mon
 
 Subsec. (g). Pub. L. 98–353, §116(d)(1), (2), inserted "or (n)" after "(c)" in par. (2), and substituted "(c), or (n)" for "or (c)" in two places in provisions following par. (2).
 
-Subsec. (j)(1). Pub. L. 98–615, §2(3)(A), substituted provisions that at the time of retirement an employee's pension will be reduced to provide survivor benefits to the spouse unless the employee or Member and the spouse jointly waive the spouse's right to the survivor annuity in a written statement filed with the Office of Personnel Management which shall be made in accordance with such requirements as prescribed by the Office by regulation and which shall be irrevocable and that the Office, by regulation, must provide that an employee may waive the survivor annuity without the spouse's consent only when the spouse's whereabouts are unknown to the employee or, due to exceptional circumstances it would be inappropriate to require the employee to seek the spouse's consent for provisions that at the time of retirement an employee's pension would be reduced by 2½ percent of so much thereof as did not exceed $3,600 and by 10 percent of so much thereof as exceeded that amount, unless the employee or member notified the Office of Personnel Management in writing at the time of retirement that he did not desire any surviving spouse to receive an annuity under section 8341(b) of this title, and struck out provisions for the restoration to the employee or Member of his full pension, as if such reduction had not taken place, for each full month in which such employee or Member was not married, and providing the employee or Member a right of irrevocable election of reduction for the benefit of a subsequent spouse, in the event of remarriage, in an amount equal to the prior reduction, to take effect 1 year after remarriage.
+Subsec. (j)(1). Pub. L. 98–615, §2(3)(A), substituted provisions that at the time of retirement an employee's pension will be reduced to provide survivor benefits to the spouse unless the employee or Member and the spouse jointly waive the spouse's right to the survivor annuity in a written statement filed with the Office of Personnel Management which shall be made in accordance with such requirements as prescribed by the Office by regulation and which shall be irrevocable and that the Office, by regulation, must provide that an employee may waive the survivor annuity without the spouse's consent only when the spouse's whereabouts are unknown to the employee or, due to exceptional circumstances it would be inappropriate to require the employee to seek the spouse's consent for provisions that at the time of retirement an employee's pension would be reduced by 2½ percent of so much thereof as did not exceed $3,600 and by 10 percent of so much thereof as exceeded that amount, unless the employee or member notified the Office of Personnel Management in writing at the time of retirement that he did not desire any surviving spouse to receive an annuity under section 8341(b) of this title, and struck out provisions for the restoration to the employee or Member ofhis full pension, as if such reduction had not taken place, for each full month in which such employee or Member was not married, and providing the employee or Member a right of irrevocable election of reduction for the benefit of a subsequent spouse, in the event of remarriage, in an amount equal to the prior reduction, to take effect 1 year after remarriage.
 
 Pub. L. 98–353, §112, substituted "and (n)" for "and (o)".
 
-Subsec. (j)(2). Pub. L. 98–615, §2(3)(A), substituted provision that if an employee or Member has a former spouse who is entitled to a survivor annuity as provided in section 8341(h) of this title, the annuity of the employee or Member computed under subsecs. (a)–(i)and (n) (or any designated portion of the annuity, in the event that the former spouse is entitled to less than 55 percent of the employee or Member's annuity) is reduced as provided in par. (4) for provision that any written notification (or designation) by any employee or Member under the first sentence of par. (1) would not be considered valid unless the employee or Member established to the satisfaction of the Office that the spouse had been notified of the loss of or reduction in survivor benefits or that the employee or Member had complied with such notification requirements as the Office would, by regulation, prescribe.
+Subsec. (j)(2). Pub. L. 98–615, §2(3)(A), substituted provision that if an employee or Member has a former spouse who is entitled to a survivor annuity as provided in section 8341(h) of this title, the annuity of the employee or Member computed under subsecs. (a)–(i) and (n) (or any designated portion of the annuity, in the event that the former spouse is entitled to less than 55 percent of the employee or Member's annuity) is reduced as provided in par. (4) for provision that any written notification (or designation) by any employee or Member under the first sentence of par. (1) would not be considered valid unless the employee or Member established to the satisfaction of the Office that the spouse had been notified of the loss of or reduction in survivor benefits or that the employee or Member had complied with such notification requirements as the Office would, by regulation, prescribe.
 
 Subsec. (j)(3) to (5). Pub. L. 98–615, §2(3)(A), added pars. (3) to (5).
 
@@ -644,11 +644,11 @@ In general.—The amendments made by this section \[amending this section and se
 
 "(2)
 
-Partial deposit.—For any deposit required under section 8339(j)(3) or (5), 8339(k)(2), or 8418 of title 5, United States Code, or section 4(b) or (c) of the Civil Service Retirement Spouse Equity Act of 1984 \[Pub. L. 98–615\] (5 U.S.C. 8341 note) that has been partially, but not fully, paid before the effective date of this Act \[probably should be "the effective date of the amendments made by this section"\], the Office shall by regulation provide for determining the remaining portion of the deposit and for payment of the remaining portion of the deposit by a prospective reduction in the annuity of the employee or Member. The reduction shall be similar to the reductions provided pursuant to the amendments made under this section."
+Partial deposit.—For any deposit required under section 8339(j)(3) or (5), 8339(k)(2), or 8418 of title5, United States Code, or section 4(b) or (c) of the Civil Service Retirement Spouse Equity Act of 1984 \[Pub. L. 98–615\] (5 U.S.C. 8341 note) that has been partially, but not fully, paid before the effective date of this Act \[probably should be "the effective date of the amendments made by this section"\], the Office shall by regulation provide for determining the remaining portion of the deposit and for payment of the remaining portion of the deposit by a prospective reduction in the annuity of the employee or Member. The reduction shall be similar to the reductions provided pursuant to the amendments made under this section."
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a noteunder section 171 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1990 Amendments
 
@@ -790,13 +790,13 @@ Section 1242(b)(2) of Pub. L. 96–70 provided that: "Effective October 1, 1979,
 
 #### Annual Notice to Annuitant of Rights of Election Under Subsecs. (j) and (k)(2) of This Section
 
-Section 3 of Pub. L. 95–317, as amended by 1978 Reorg. Plan No. 2, §102, 43 F.R. 36037, 92 Stat. 3783, provided that: "The Director of the Office of Personnel Management shall, on an annual basis, inform each annuitant of such annuitant's rights of election under sections 8339(j) and 8339(k)(2) of title 5, United States Code."
+Section 3 of Pub. L. 95–317, as amended by 1978 Reorg. Plan No. 2, §102, 43 F.R. 36037, 92 Stat. 3783, provided that: "The Director of the Office of Personnel Management shall, on an annual basis, inform each annuitantof such annuitant's rights of election under sections 8339(j) and 8339(k)(2) of title 5, United States Code."
 
 #### Increase in Annuity for Employees or Members Separated From Civil Service Prior to Oct. 20, 1969
 
 Section 2(a) of Pub. L. 93–273, Apr. 26, 1974, 88 Stat. 93, provided that: "An annuity payable from the Civil Service Retirement and Disability Fund to a former employee or Member, which is based on a separation occurring prior to October 20, 1969, is increased by $240."
 
-Section 3 of Pub. L. 93–273 provided in part that annuity increases under this provision shall apply to annuities which commence before, on, or after Apr. 26, 1974, but that no increase in annuity shall be paid for any period prior to the first day of the first month whichbegins on or after the ninetieth day after Apr. 26, 1974, or the date on which the annuity commences, whichever is later. See section 3 of Pub. L. 93–273, set out as a note under section 8345 of this title.
+Section 3 of Pub. L. 93–273 provided in part that annuity increases under this provision shall apply to annuities which commence before, on, or after Apr. 26, 1974, but that no increase in annuity shall be paid for any period prior to the first day of the first month which begins on or after the ninetieth day after Apr. 26, 1974, or the date on which the annuity commences, whichever is later. See section 3 of Pub. L. 93–273, set out as a note under section 8345 of this title.
 
 #### 1970 Increase in Pay Rates of Certain Employees of the Legislative Branch
 

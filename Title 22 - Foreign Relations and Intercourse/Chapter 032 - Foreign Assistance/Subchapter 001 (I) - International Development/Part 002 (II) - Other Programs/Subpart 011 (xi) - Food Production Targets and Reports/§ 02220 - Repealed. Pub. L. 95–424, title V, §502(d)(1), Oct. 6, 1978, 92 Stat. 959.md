@@ -1,6 +1,6 @@
 ### §2220. Repealed. Pub. L. 95–424, title V, §502(d)(1), Oct. 6, 1978, 92 Stat. 959
 
-Section, Pub. L. 87–195, pt. I, §295, as added Pub. L. 90–137, pt. I, §109, Nov. 14, 1967, 81 Stat. 453, related toreports and recommendations to Congress by the President for each country receiving assistance under this chapter which the President finds has a substantial food deficit.
+Section, Pub. L. 87–195, pt. I, §295, as added Pub. L. 90–137, pt. I, §109, Nov. 14, 1967, 81 Stat. 453, related to reports and recommendations to Congress by the President for each country receiving assistance under this chapter which the President finds has a substantial food deficit.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

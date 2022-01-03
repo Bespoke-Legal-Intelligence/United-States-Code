@@ -2,7 +2,7 @@
 
 #### (a) Providers of information to organizations having a contract with Secretary
 
-Notwithstanding any other provision of law, no person providing information to any organization having a contract with the Secretary under this part shall be held, by reason of having provided such information, to have violated any criminal law, or to be civilly liable under any law of the United States or of any State (or political subdivision thereof) unless—
+Notwithstanding any other provision of law, no person providing information to any organization having a contract with the Secretary under this part shall be held, by reason of having provided such information, to have violated any criminal law, or to be civilly liable underany law of the United States or of any State (or political subdivision thereof) unless—
 
 &emsp;(1) such information is unrelated to the performance of the contract of such organization; or
 
@@ -25,6 +25,8 @@ No doctor of medicine or osteopathy and no provider (including directors, truste
 The Secretary shall make payment to an organization under contract with him pursuant to this part, or to any member or employee thereof, or to any person who furnishes legal counsel or services to such organization, in an amount equal to the reasonable amount of the expenses incurred, as determined by the Secretary, in connection with the defense of any suit, action, or proceeding brought against such organization, member, or employee related to the performance of any duty or function under such contract by such organization, member, or employee.
 
 (Aug. 14, 1935, ch. 531, title XI, §1157, as added Pub. L. 97–248, title I, §143, Sept. 3, 1982, 96 Stat. 389; amended Pub. L. 101–508, title IV, §4205(f), Nov. 5, 1990, 104 Stat. 1388–114.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

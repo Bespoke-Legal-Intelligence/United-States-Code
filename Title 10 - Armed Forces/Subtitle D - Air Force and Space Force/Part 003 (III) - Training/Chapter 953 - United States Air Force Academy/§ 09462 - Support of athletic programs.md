@@ -24,7 +24,7 @@ Corporate Board of Directors.—(1) The members of the board of directors of the
 
 (d)
 
-Transfers From Nonappropriated Fund Operation.—The Secretary of the Air Force may, subject to the acceptance of the corporation, transfer to the corporation all title to and ownership of the assets and liabilities of the Air Force nonappropriated fund instrumentality whose functions include providing support for the athletic programs of the Academy, includingbank accounts and financial reserves in its accounts, equipment, supplies, and other personal property, but excluding any interest in real property.
+Transfers From Nonappropriated Fund Operation.—The Secretary of the Air Force may, subject to the acceptance of the corporation, transfer to the corporation all title to and ownership of the assets and liabilities of the Air Force nonappropriated fund instrumentality whose functions include providing support for the athletic programs of the Academy, including bank accounts and financial reserves in its accounts, equipment, supplies, and other personal property, but excluding any interest in real property.
 
 (e)
 
@@ -60,7 +60,7 @@ Support services.—The Secretary may provide support services to the corporatio
 
 (g)
 
-Contracts and Cooperative Agreements.—The Secretary of the Air Force may enter into contracts and cooperative agreements with the corporation for the purpose of supporting the athletic programs of the Academy. Notwithstanding section 2304(k) of this title, the Secretary may enter such contracts or cooperative agreements on a sole source basis pursuant to section 2304(c)(5) of this title. Notwithstanding chapter 63 of title 31, a cooperative agreement under this section may be used to acquire property, services, or travel for the direct benefit or use of the athletic programs of the Academy.
+Contracts and Cooperative Agreements.—The Secretary of the Air Force may enter into contracts and cooperative agreements with the corporation for the purpose of supporting the athletic programs of the Academy. Notwithstanding section 3201(e) of this title, the Secretary may enter such contracts or cooperative agreements on a sole source basis pursuant to section 3204(a)(5) of this title. Notwithstanding chapter 63 of title 31, a cooperative agreement under this section may be used to acquire property, services, or travel for the direct benefit or use of the athletic programs of the Academy.
 
 (h)
 
@@ -84,9 +84,7 @@ Retention and Use of Funds.—Any funds received under this section may be retai
 
 (Added Pub. L. 111–84, div. A, title V, §528(a), Oct. 28, 2009, 123 Stat. 2289, §9362; amended Pub. L. 113–291, div. A, title V, §554, Dec. 19, 2014, 128 Stat. 3377; renumbered §9462, Pub. L. 115–232, div. A, title VIII, §806(a)(3), Aug. 13, 2018, 132 Stat. 1832; Pub. L. 116–283, div. A, title IX, §923(d)(15), title XVIII, §1883(b)(2), Jan. 1, 2021, 134 Stat. 3815, 4294.)
 
-#### Amendment of Section
-
-<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, except as otherwise provided in title XVIII of Pub. L. 116–283, in title 10, United States Code, each reference in the text of such title to a source section that is redesignated by title XVIII of Pub. L. 116–283, is amended by striking such reference and inserting a reference to the appropriate section as so redesignated. See 2021 Amendment note below.</i>
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -94,13 +92,15 @@ Section 501(c)(3) of the Internal Revenue Code of 1986, referred to in subsec. (
 
 #### Amendments
 
-Subsec. (c)(2). Pub. L. 116–283, §923(d)(15), substituted "personnel of the Department of the Air Force" for "personnel of the Air Force".
+<b>2021</b>—Subsec. (c)(2). Pub. L. 116–283, §923(d)(15), substituted "personnel of the Department of the Air Force" for "personnel of the Air Force".
 
 Subsec. (g). Pub. L. 116–283, §1883(b)(2), substituted "section 3201(e)" for "section 2304(k)" and "section 3204(a)(5)" for "section 2304(c)(5)".
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 9362 of this title as this section.
 
 <b>2014</b>—Subsecs. (e) to (i). Pub. L. 113–291 added subsecs. (e) to (i) and struck out former subsecs. (e) to (g) which related to acceptance of gifts, leases of real and personal property, and cooperative agreements, respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2021 Amendment
 

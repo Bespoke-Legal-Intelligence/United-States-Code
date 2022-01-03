@@ -50,7 +50,7 @@ For purposes of section 1082 of this title, the term "accumulated funding defici
 
 &emsp;&emsp;(C) the amount of the waived funding deficiency (within the meaning of section 1082(c)(3) of this title) for the plan year, and
 
-&emsp;&emsp;(D) in the case of a plan year for which the accumulated funding deficiency is determined under the funding standard account if such plan year follows a plan year for which such deficiency was determined under the alternative minimum funding standard, theexcess (if any) of any debit balance in the funding standard account (determined without regard to this subparagraph) over any debit balance in the alternative minimum funding standard account.
+&emsp;&emsp;(D) in the case of a plan year for which the accumulated funding deficiency is determined under the funding standard account if such plan year follows a plan year for which such deficiency was determined under the alternative minimum funding standard, the excess (if any) of any debit balance in the funding standard account (determined without regard to this subparagraph) over any debit balance in the alternative minimum funding standard account.
 
 #### (4) Combining and offsetting amounts to be amortized
 
@@ -214,7 +214,7 @@ Assets.—For purposes of clause (i), assets shall not be reduced by any credit 
 
 #### (d) Extension of amortization periods
 
-The period of years required to amortize any unfunded liability (described in any clause of subsection (b)(2)(B)) of any plan may be extended by the Secretary of the Treasury for a period of time (not in excess of 10 years) if such Secretary determines that such extension wouldcarry out the purposes of this chapter and provide adequate protection for participants under the plan and their beneficiaries, and if such Secretary determines that the failure to permit such extension would result in—
+The period of years required to amortize any unfunded liability (described in any clause of subsection (b)(2)(B)) of any plan may be extended by the Secretary of the Treasury for a period of time (not in excess of 10 years) if such Secretary determines that such extension would carry out the purposes of this chapter and provide adequate protection for participants under the plan and their beneficiaries, and if such Secretary determines that the failure to permit such extension would result in—
 
 &emsp;(1) a substantial risk to the voluntary continuation of the plan, or
 
@@ -319,7 +319,7 @@ The period of years required to amortize any unfunded liability (described in an
 
 #### (B) Plans to which paragraph applies
 
-&emsp;&emsp;This paragraph shall apply to a CSEC plan other than a plan described in section1082(d)(6)(A) of this title (as in effect on the day before August 17, 2006) which—
+&emsp;&emsp;This paragraph shall apply to a CSEC plan other than a plan described in section 1082(d)(6)(A) of this title (as in effect on the day before August 17, 2006) which—
 
 &emsp;&emsp;&emsp;(i) is required to pay installments under this subsection for a plan year, and
 
@@ -465,7 +465,7 @@ For purposes of this section—
 
 #### (A) Interest rate
 
-&emsp;&emsp;The rate of interest used to determine current liability under this section shall be the third segment rate determined under section 1083(h)(2)(C) of this title.
+&emsp;&emsp;The rate of interest used to determine current liability under this section shall be thethird segment rate determined under section 1083(h)(2)(C) of this title.
 
 #### (B) Mortality tables
 
@@ -487,7 +487,7 @@ For purposes of this section—
 
 #### (ii) Special rule for disabilities occurring after 1994
 
-&emsp;&emsp;&emsp;In the case of disabilities occurring in plan years beginning after December 31,1994, the tables under clause (i) shall apply only with respect to individuals described in such subclause who are disabled within the meaning of title II of the Social Security Act \[42 U.S.C. 401 et seq.\] and the regulations thereunder.
+&emsp;&emsp;&emsp;In the case of disabilities occurring in plan years beginning after December 31, 1994, the tables under clause (i) shall apply only with respect to individuals described in such subclause who are disabled within the meaning of title II of the Social Security Act \[42 U.S.C. 401 et seq.\] and the regulations thereunder.
 
 #### (4) Certain service disregarded
 
@@ -551,7 +551,7 @@ Notwithstanding any other provisions of this section—
 
 #### (2) Plan amendments
 
-&emsp;In the case of a CSEC plan that is in funding restoration status for a plan year, no amendment to such plan may take effect during such plan year if such amendment has the effect of increasing liabilities of the plan by means of increases in benefits, establishment of new benefits, changing the rate of benefit accrual, or changing the rate at which benefits become nonforfeitable. This paragraph shall not apply to any plan amendment that is required to comply with any applicable law. This paragraph shall cease to apply with respect to any plan year, effective as of the first day of the plan year (or if later, the effective date of the amendment) upon payment by the plan sponsor of a contribution to the plan (in addition to any contribution required under this section without regard to this paragraph) in an amount equal to the increase in the funding liability of the plan attributable to the plan amendment.
+&emsp;In the case of a CSEC plan that is in funding restoration status for a plan year, no amendment to such plan may take effect during such plan year if such amendment has the effect of increasing liabilities of the plan by means of increases in benefits, establishment of new benefits, changing the rate of benefit accrual, or changing the rate at which benefits become nonforfeitable. This paragraph shall not apply to any plan amendment that is required tocomply with any applicable law. This paragraph shall cease to apply with respect to any plan year, effective as of the first day of the plan year (or if later, the effective date of the amendment) upon payment by the plan sponsor of a contribution to the plan (in addition to any contribution required under this section without regard to this paragraph) in an amount equal to the increase in the funding liability of the plan attributable to the plan amendment.
 
 #### (3) Funding restoration plan
 

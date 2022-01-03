@@ -56,7 +56,7 @@ The Secretary shall monitor community health worker programs identified in appro
 
 #### (i) Technical assistance
 
-The Secretary may provide technical assistance to community health worker programs identified in approved applications under this section with respect to planning, developing, and operating programs under the grant.
+The Secretary may provide technical assistance to community health worker programsidentified in approved applications under this section with respect to planning, developing, and operating programs under the grant.
 
 #### (j) Authorization of appropriations
 
@@ -102,6 +102,8 @@ In this section:
 
 (July 1, 1944, ch. 373, title III, §399V, as added and amended Pub. L. 111–148, title V, §5313(a), title X, §10501(c), Mar. 23, 2010, 124 Stat. 633, 994; Pub. L. 113–128, title V, §512(z)(1), July 22, 2014, 128 Stat. 1716.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
@@ -113,6 +115,8 @@ The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch
 <b>2010</b>—Subsec. (b)(4). Pub. L. 111–148, §10501(c)(1), substituted "identify and refer" for "identify, educate, refer, and enroll".
 
 Subsec. (k)(1). Pub. L. 111–148, §10501(c)(2), struck out ", as defined by the Department of Labor as Standard Occupational Classification \[21–1094\]" before "means" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

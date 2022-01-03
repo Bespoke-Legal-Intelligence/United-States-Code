@@ -10,7 +10,7 @@ As used in this subchapter:
 
 &emsp;(4) The term "baseline" means the annual quantity of fossil fuel consumed by an affected unit, measured in millions of British Thermal Units ("mmBtu's"), calculated as follows:
 
-&emsp;&emsp;(A) For each utility unit that was in commercial operation prior to January 1, 1985, the baseline shall be the annual average quantity of mmBtu's consumed in fuel during calendar years 1985, 1986, and 1987, as recorded by the Department of Energy pursuant to Form 767. For any utility unit for which such form was not filed, the baseline shall be the level specified for such unit in the 1985 National Acid Precipitation Assessment Program (NAPAP) Emissions Inventory, Version 2, National Utility Reference File (NURF) or in a corrected data base as established by the Administrator pursuant to paragraph (3).<sup>1</sup> For nonutility units, thebaseline is the NAPAP Emissions Inventory, Version 2. The Administrator, in the Administrator's sole discretion, may exclude periods during which a unit is shutdown for a continuous period of four calendar months or longer, and make appropriate adjustments under this paragraph. Upon petition of the owner or operator of any unit, the Administrator may make appropriate baseline adjustments for accidents that caused prolonged outages.
+&emsp;&emsp;(A) For each utility unit that was in commercial operation prior to January 1, 1985, the baseline shall be the annual average quantity of mmBtu's consumed in fuel during calendar years 1985, 1986, and 1987, as recorded by the Department of Energy pursuant to Form 767. For any utility unit for which such form was not filed, the baseline shall be the level specified for such unit in the 1985 National Acid Precipitation Assessment Program (NAPAP) Emissions Inventory, Version 2, National Utility Reference File (NURF) or in a corrected data base as established by the Administrator pursuant to paragraph (3).<sup>1</sup> For nonutility units, the baseline is the NAPAP Emissions Inventory, Version 2. The Administrator, in the Administrator's sole discretion, may exclude periods during which a unit is shutdown for a continuous period of four calendar months or longer, and make appropriate adjustments under this paragraph. Upon petition of the owner or operator of any unit, the Administrator may make appropriate baseline adjustments for accidents that caused prolonged outages.
 
 &emsp;&emsp;(B) For any other nonutility unit that is not included in the NAPAP Emissions Inventory, Version 2, or a corrected data base as established by the Administrator pursuant to paragraph (3),<sup>1</sup> the baseline shall be the annual average quantity, in mmBtu consumed in fuel by that unit, as calculated pursuant to a method which the administrator shall prescribe by regulation to be promulgated not later than eighteen months after November 15, 1990.
 
@@ -32,7 +32,7 @@ As used in this subchapter:
 
 &emsp;(10) The term "new unit" means a unit that commences commercial operation on or after November 15, 1990.
 
-&emsp;(11) The term "permitting authority" means the Administrator, or the State or local air pollution control agency, with an approved permitting program under part B <sup>3</sup> of title III of the Act.
+&emsp;(11) The term "permitting authority" means the Administrator, or the State or local airpollution control agency, with an approved permitting program under part B <sup>3</sup> of title III of the Act.
 
 &emsp;(12) The term "repowering" means replacement of an existing coal-fired boiler with one of the following clean coal technologies: atmospheric or pressurized fluidized bed combustion, integrated gasification combined cycle, magnetohydrodynamics, direct and indirect coal-fired turbines, integrated gasification fuel cells, or as determined by the Administrator, in consultation with the Secretary of Energy, a derivative of one or more of these technologies, and any other technology capable of controlling multiple combustion emissions simultaneously with improved boiler or generation efficiency and with significantly greater waste reduction relative to the performance of technology in widespread commercial use as of November 15, 1990. Notwithstanding the provisions of section 7651h(a) of this title, for the purpose of this subchapter, the term "repowering" shall also include any oil and/or gas-fired unit which has been awarded clean coal technology demonstration funding as of January 1, 1991, by the Department of Energy.
 
@@ -100,9 +100,11 @@ As used in this subchapter:
 
 (July 14, 1955, ch. 360, title IV, §402, as added Pub. L. 101–549, title IV, §401, Nov. 15, 1990, 104 Stat. 2585.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-Part B of title III of the Act, referred to in par. (11), means title III of the Clean Air Act, act July 14, 1955, ch. 360, as added, which is classified to subchapter III of this chapter, but title III does not contain parts. Forprovisions of the Clean Air Act relating to permits, see subchapter V (§7661 et seq.) of this chapter.
+Part B of title III of the Act, referred to in par. (11), means title III of the Clean Air Act, act July 14, 1955, ch. 360, as added, which is classified to subchapter III of this chapter, but title III does not contain parts. For provisions of the Clean Air Act relating to permits, see subchapter V (§7661 et seq.) of this chapter.
 
 #### Codification
 

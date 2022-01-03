@@ -4,6 +4,8 @@ The income-tax laws in force in the United States of America and those which may
 
 (July 12, 1921, ch. 44, §1, 42 Stat. 123; Pub. L. 94–392, §5, Aug. 19, 1976, 90 Stat. 1195.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The income-tax laws in force in the United States of America, referred to in text, are classified to Title 26, Internal Revenue Code.
@@ -15,6 +17,8 @@ Section is from act July 12, 1921, popularly known as the Naval Service Appropri
 #### Amendments
 
 <b>1976</b>—Pub. L. 94–392 inserted proviso authorizing Legislature of Virgin Islands to levy a surtax, not to exceed 10 per centum, on annual income tax obligation of all taxpayers.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Application of Western Hemisphere Trade Corporation Provision Under the Virgin Islands Tax Laws
 

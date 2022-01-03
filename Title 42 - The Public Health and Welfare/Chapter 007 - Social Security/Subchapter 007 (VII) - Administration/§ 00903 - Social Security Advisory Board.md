@@ -72,7 +72,7 @@ A member of the Board shall be designated by the President to serve as Chairman 
 
 #### (f) Compensation, expenses, and per diem
 
-A member of the Board shall, for each day (including traveltime) during which the member is attending meetings or conferences of the Board or otherwise engaged in the business of the Board, be compensated at the daily rate of basic pay for level IV of the Executive Schedule. While serving on business of the Board away from their homes or regular places of business, members may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government employed intermittently.
+A member of the Board shall, for each day (including traveltime) during which the member isattending meetings or conferences of the Board or otherwise engaged in the business of the Board, be compensated at the daily rate of basic pay for level IV of the Executive Schedule. While serving on business of the Board away from their homes or regular places of business, members may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government employed intermittently.
 
 #### (g) Meetings
 
@@ -93,6 +93,8 @@ The Board shall, without regard to the provisions of title 5 relating to the com
 There are authorized to be appropriated, out of the Federal Disability Insurance Trust Fund, the Federal Old-Age and Survivors Insurance Trust Fund, and the general fund of the Treasury, such sums as are necessary to carry out the purposes of this section.
 
 (Aug. 14, 1935, ch. 531, title VII, §703, 49 Stat. 636; Aug. 28, 1950, ch. 809, title III, pt. 6, §361(c), (d), 64 Stat. 558; Pub. L. 98–369, div. B, title VI, §2663(l)(1), July 18, 1984, 98 Stat. 1171; Pub. L. 103–296, title I, §103, Aug. 15, 1994, 108 Stat. 1467; Pub. L. 104–121, title I, §108, Mar. 29, 1996, 110 Stat. 857; Pub. L. 105–33, title V, §5526, Aug. 5, 1997, 111 Stat. 625; Pub. L. 106–169, title II, §251(b)(4), Dec. 14, 1999, 113 Stat. 1855; Pub. L. 108–203, title IV, §417(a), Mar. 2, 2004, 118 Stat. 530.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -117,6 +119,8 @@ The provisions of title 5 relating to the competitive service, referred to in su
 <b>1984</b>—Pub. L. 98–369 substituted "Secretary" for "Administrator".
 
 <b>1950</b>—Act Aug. 28, 1950, substituted "Administrator" for "Board" and "his" for "its".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

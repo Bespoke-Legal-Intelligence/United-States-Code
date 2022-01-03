@@ -52,7 +52,7 @@
 
 #### (ii) Recommendations
 
-&emsp;&emsp;&emsp;The report required by clause (i) may include recommendations for revisions to Army Field Manual 2–22.3 based on the body of research commissioned by the High-Value Detainee Interrogation Group.
+&emsp;&emsp;&emsp;The report required by clause (i) may include recommendations for revisions toArmy Field Manual 2–22.3 based on the body of research commissioned by the High-Value Detainee Interrogation Group.
 
 #### (iii) Availability to the public
 
@@ -73,6 +73,8 @@
 &emsp;&emsp;(B) to limit or otherwise affect any other individual rights or state obligations which may arise under United States law or international agreements to which the United States is a party, including the Geneva Conventions, or to state all of the situations under which notification to and access for the International Committee of the Red Cross is required or allowed.
 
 (Pub. L. 114–92, div. A, title X, §1045, Nov. 25, 2015, 129 Stat. 977.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

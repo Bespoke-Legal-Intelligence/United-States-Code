@@ -40,6 +40,8 @@ As used in this subchapter—
 
 (Pub. L. 90–321, title IX, §903, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3728; amended Pub. L. 111–203, title X, §1084(1), (2), July 21, 2010, 124 Stat. 2081.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1602(i) of this title, referred to in par. (2), was redesignated section 1602(j) of this title by Pub. L. 111–203, title X, §1100A(1)(A), July 21, 2010, 124 Stat. 2107.
@@ -55,6 +57,8 @@ Par. (4). Pub. L. 111–203, §1084(2)(B), which directed addition of par. (4) d
 Pub. L. 111–203, §1084(2)(A), redesignated par. (3) as (4) defining the term "Board". Former par. (4) redesignated (5).
 
 Pars. (5) to (12). Pub. L. 111–203, §1084(2)(A), redesignated pars. (4) to (11) as (5) to (12), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

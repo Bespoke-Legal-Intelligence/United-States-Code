@@ -18,7 +18,7 @@ Nothing in this chapter confers on the Commission the authority to require an el
 
 &emsp;(1) firm transmission rights described in subsection (a); or
 
-&emsp;(2) firm transmission rights obtained by exercising contract or tariff rights associated with the firm transmission rights described in subsection (a).
+&emsp;(2) firm transmission rights obtained by exercising contract or tariff rights associatedwith the firm transmission rights described in subsection (a).
 
 (June 10, 1920, ch. 285, pt. II, §218, as added Pub. L. 109–58, title XII, §1235, Aug. 8, 2005, 119 Stat. 960.)
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Constitution and Bylaws.—The corporation shall adopt a constitution and bylaws. The corporation may amend its constitution only if the corporation—
+Constitution and Bylaws.—The corporation shall adopt a constitution and bylaws. Thecorporation may amend its constitution only if the corporation—
 
 &emsp;(1) publishes, in its principal publication, a notice of the proposed amendment, including—
 
@@ -74,7 +74,7 @@ In general.—The duty of the corporation to amateur athletes includes the adopt
 
 &emsp;(2)
 
-Rule of construction.—Nothing in this subsection shall be construed to preempt orotherwise abrogate the duty of care of the corporation under State law or the common law.
+Rule of construction.—Nothing in this subsection shall be construed to preempt or otherwise abrogate the duty of care of the corporation under State law or the common law.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1468; Pub. L. 105–277, div. C, title I, §142(f), Oct. 21, 1998, 112 Stat. 2681–604; Pub. L. 109–284, §5(15), Sept. 27, 2006, 120 Stat. 1212; Pub. L. 116–189, §§4(a)(5), 6(c)(1), Oct. 30, 2020, 134 Stat. 945, 948.)
 

@@ -58,7 +58,7 @@ A funding agreement shall include a provision to monitor the performance of trus
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall designate one or more appropriate officials in the Department toreceive a copy of the final offer described in paragraph (1).
+&emsp;&emsp;The Secretary shall designate one or more appropriate officials in the Department to receive a copy of the final offer described in paragraph (1).
 
 #### (B) No designation
 
@@ -90,7 +90,7 @@ A funding agreement shall include a provision to monitor the performance of trus
 
 &emsp;&emsp;&emsp;(ii) provide technical assistance to overcome the objections stated in the notification required by clause (i);
 
-&emsp;&emsp;&emsp;(iii) provide the Indian Tribe with a hearing on the record with the right to engage in full discovery relevant to any issue raised in the matter, and the opportunity for appeal on the objections raised, except that the Indian Tribe may, in lieu of filing such appeal, directly proceed to initiate an action in a United States district court under section 5331(a) of this title; and
+&emsp;&emsp;&emsp;(iii) provide the Indian Tribe with a hearing on the record with the right to engage in full discovery relevant to any issue raised in the matter, and the opportunity for appeal on the objections raised, except that the Indian Tribe may, in lieu of filing such appeal, directly proceed to initiate anaction in a United States district court under section 5331(a) of this title; and
 
 &emsp;&emsp;&emsp;(iv) provide the Indian Tribe the option of entering into the severable portions of a final proposed compact or funding agreement (including a lesser funding amount, if any), that the Secretary did not reject, subject to any additional alterations necessary to conform the compact or funding agreement to the severed provisions.
 
@@ -132,7 +132,7 @@ In any administrative action, hearing, appeal, or civil action brought under thi
 
 #### (g) Trust responsibility
 
-The Secretary may not waive, modify, or diminish in any way the trust responsibility of theUnited States with respect to Indian Tribes and individual Indians that exists under treaties, Executive orders, other laws, or court decisions.
+The Secretary may not waive, modify, or diminish in any way the trust responsibility of the United States with respect to Indian Tribes and individual Indians that exists under treaties, Executive orders, other laws, or court decisions.
 
 #### (h) Decision maker
 

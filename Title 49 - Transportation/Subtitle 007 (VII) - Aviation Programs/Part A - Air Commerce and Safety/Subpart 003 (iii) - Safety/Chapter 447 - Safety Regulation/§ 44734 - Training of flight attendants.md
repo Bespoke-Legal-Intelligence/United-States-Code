@@ -14,7 +14,7 @@ Training Required.—In addition to other training required under this chapter, 
 
 (b)
 
-Situational Training.—In carrying out the training required under subsection (a), each air carrier shall provide to flight attendants situational training on the proper method for dealing with intoxicated passengers who act in a belligerent manner.
+Situational Training.—In carrying out the training required under subsection (a), eachair carrier shall provide to flight attendants situational training on the proper method for dealing with intoxicated passengers who act in a belligerent manner.
 
 (c)
 
@@ -29,6 +29,8 @@ Air carrier.—The term "air carrier" means a person, including a commercial ent
 Flight attendant.—The term "flight attendant" has the meaning given that term in section 44728(g).
 
 (Added Pub. L. 112–95, title III, §309(a), Feb. 14, 2012, 126 Stat. 64; amended Pub. L. 114–190, title II, §2113, July 15, 2016, 130 Stat. 628.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

@@ -18,11 +18,15 @@ Nothing in this chapter shall be construed as affecting in any manner the rights
 
 (Pub. L. 99–660, title IV, §415, Nov. 14, 1986, 100 Stat. 3787; Pub. L. 100–177, title IV, §402(c), as added Pub. L. 101–239, title VI, §6103(e)(6)(A), Dec. 19, 1989, 103 Stat. 2208.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1989</b>—Subsec. (a). Pub. L. 101–239 added Pub. L. 100–177, §402(c), see 1987 Amendment note below.
 
 <b>1987</b>—Subsec. (a). Pub. L. 100–177, §402(c), as added by Pub. L. 101–239, inserted before period at end "or as preempting or overriding any State law which provides incentives, immunities, or protection for those engaged in a professional review action that is in addition to or greater than that provided by this subchapter".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1987 Amendment
 

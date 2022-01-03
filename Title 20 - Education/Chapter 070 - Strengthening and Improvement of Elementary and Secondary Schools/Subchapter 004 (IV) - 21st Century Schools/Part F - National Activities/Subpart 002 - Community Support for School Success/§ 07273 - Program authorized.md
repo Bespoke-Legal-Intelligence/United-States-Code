@@ -80,7 +80,7 @@ Continued funding of a grant under this subpart, including a grant extended unde
 
 #### (1) In general
 
-&emsp;From the amounts allocated under subsection (a) for grants to eligible entities, theSecretary shall use not less than 15 percent of such amounts to award grants to eligible entities that propose to carry out the activities described in such subsection in rural areas.
+&emsp;From the amounts allocated under subsection (a) for grants to eligible entities, the Secretary shall use not less than 15 percent of such amounts to award grants to eligible entities that propose to carry out the activities described in such subsection in rural areas.
 
 #### (2) Exception
 
@@ -88,9 +88,11 @@ Continued funding of a grant under this subpart, including a grant extended unde
 
 #### (f) Minimum number of grants
 
-For each fiscal year, the Secretary shall award under this subpart not fewer than 3 grants for activities described in section 7274 of this title and not fewer than 10 grants for activities described in section 7275 of this title, subject to the availability of appropriations, the requirements of subsection (a)(2), and the number and quality of applications.
+For each fiscal year, the Secretary shall award under this subpart not fewer than 3 grants foractivities described in section 7274 of this title and not fewer than 10 grants for activities described in section 7275 of this title, subject to the availability of appropriations, the requirements of subsection (a)(2), and the number and quality of applications.
 
 (Pub. L. 89–10, title IV, §4623, as added Pub. L. 114–95, title IV, §4601, Dec. 10, 2015, 129 Stat. 2024.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -107,6 +109,8 @@ Section 7273c, Pub. L. 89–10, title V, §5564, as added Pub. L. 107–110, tit
 Section 7273d, Pub. L. 89–10, title V, §5565, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1859, related to administrative provisions.
 
 Section 7273e, Pub. L. 89–10, title V, §5566, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1861, related to local family information centers.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

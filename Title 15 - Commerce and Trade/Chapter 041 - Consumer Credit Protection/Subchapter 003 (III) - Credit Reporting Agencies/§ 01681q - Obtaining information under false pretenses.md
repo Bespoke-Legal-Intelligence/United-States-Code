@@ -4,9 +4,13 @@ Any person who knowingly and willfully obtains information on a consumer from a 
 
 (Pub. L. 90–321, title VI, §619, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1134; amended Pub. L. 104–208, div. A, title II, §2415(a), Sept. 30, 1996, 110 Stat. 3009–450.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–208 substituted "fined under title 18, imprisoned for not more than 2 years, or both" for "fined not more than $5,000 or imprisoned not more than one year, or both".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

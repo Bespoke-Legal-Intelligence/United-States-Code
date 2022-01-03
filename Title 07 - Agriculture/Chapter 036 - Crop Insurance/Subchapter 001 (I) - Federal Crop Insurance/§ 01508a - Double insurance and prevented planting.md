@@ -54,7 +54,7 @@ In this section:
 
 #### (B) Effect of no loss to second crop
 
-&emsp;&emsp;If the producer makes an election under paragraph (1)(B) and the producer does notsuffer an insurable loss to the second crop, the producer shall be responsible for a premium for the first crop that is equal to—
+&emsp;&emsp;If the producer makes an election under paragraph (1)(B) and the producer does not suffer an insurable loss to the second crop, the producer shall be responsible for a premium for the first crop that is equal to—
 
 &emsp;&emsp;&emsp;(i) the full premium owed by the producer for the first crop; less
 
@@ -116,6 +116,8 @@ Except in the case of double cropping described in subsection (d), if a producer
 
 (Feb. 16, 1938, ch. 30, title V, §508A, as added Pub. L. 106–224, title I, §108, June 20, 2000, 114 Stat. 368; amended Pub. L. 110–234, title XII, §12033(c)(2)(B), May 22, 2008, 122 Stat. 1405; Pub. L. 110–246, §4(a), title XII, §12033(c)(2)(B), June 18, 2008, 122 Stat. 1664, 2167.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -127,6 +129,8 @@ A prior section 1508a, act Feb. 16, 1938, ch. 30, title V, §508A, as added Aug.
 #### Amendments
 
 <b>2008</b>—Pub. L. 110–246, §12033(c)(2)(B), substituted "this subchapter" for "this chapter" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

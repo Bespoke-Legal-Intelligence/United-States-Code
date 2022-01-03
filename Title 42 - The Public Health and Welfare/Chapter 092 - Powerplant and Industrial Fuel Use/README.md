@@ -59,7 +59,7 @@
 
 |  |  |
 | :--- | ---: |
-| 8371, 8372. Repealed |  |
+| 8371, 8372. Repealed. |  |
 | [8373\.](Subchapter%20004%20%28IV%29%20-%20Additional%20Prohibitions%3B%20Emergency%20Authorities/%C2%A7%2008373%20-%20Conservation%20in%20Federal%20facilities%2C%20contracts%2C%20and%20financial%20assistance%20programs.md) | Conservation in Federal facilities, contracts, and financial assistance programs. |
 | [8374\.](Subchapter%20004%20%28IV%29%20-%20Additional%20Prohibitions%3B%20Emergency%20Authorities/%C2%A7%2008374%20-%20Emergency%20authorities.md) | Emergency authorities. |
 | [8375\.](Subchapter%20004%20%28IV%29%20-%20Additional%20Prohibitions%3B%20Emergency%20Authorities/%C2%A7%2008375%20-%20Repealed.%20Pub.%20L.%20100%E2%80%9342%2C%20%C2%A71%28a%29%285%29%2C%20May%2021%2C%201987%2C%20101%20Stat.%20310.md) | Repealed. |

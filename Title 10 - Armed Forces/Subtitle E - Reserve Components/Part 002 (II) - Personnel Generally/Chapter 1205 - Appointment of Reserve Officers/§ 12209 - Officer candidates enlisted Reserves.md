@@ -44,11 +44,15 @@ In subsection (a), the words "who is not in active Federal service" are substitu
 
 In subsection (c), the words "active duty other than active duty for training without pay" are substituted for the words "active duty or active duty for training with pay". The words "enlisted members of the reserve components designated as", "enlisted", and "under the Career Compensation Act of 1949, as amended" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–106 substituted "candidates: enlisted Reserves" for "candidates" in section catchline.
 
 <b>1994</b>—Pub. L. 103–337 renumbered section 600 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

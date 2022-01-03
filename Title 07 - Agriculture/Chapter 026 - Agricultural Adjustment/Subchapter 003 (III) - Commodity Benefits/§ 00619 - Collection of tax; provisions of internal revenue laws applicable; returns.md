@@ -6,9 +6,11 @@
 
 (c) Repealed. June 30, 1947, ch. 166, title II, §206(d), 61 Stat. 208.
 
-(d) Under regulations made by the Commissioner of Internal Revenue, with the approval of the Secretary of the Treasury, any person required pursuant to the provisions of this chapter to file a return may be required to file such return and pay the tax shown to be due thereon to the collector of internal revenue for the district in which the processing was done or the liability was incurred. Whenever the Commissioner of Internal Revenue deems it necessary, he may require any person or class of persons handling or dealing in any commodity or product thereof, with respect to which a tax is imposed under the provisions of this chapter, to make a return, render under oath such statements, or to keep such records, as the Commissioner deems sufficient to show whether or not such person, or any other person, is liable for the tax.
+(d) Under regulations made by the Commissioner of Internal Revenue, with the approval of the Secretary of the Treasury, any person required pursuant to the provisions of this chapter to file a return may be required to file such return and pay the tax shown to be due thereon to the collector of internal revenue for the district in which the processing was done or the liability was incurred. Whenever the Commissioner of Internal Revenue deems it necessary, he may require any person or class of persons handling or dealing in any commodity or product thereof,with respect to which a tax is imposed under the provisions of this chapter, to make a return, render under oath such statements, or to keep such records, as the Commissioner deems sufficient to show whether or not such person, or any other person, is liable for the tax.
 
 (May 12, 1933, ch. 25, title I, §19, 48 Stat. 41; June 26, 1934, ch. 759, §3, 48 Stat. 1242; Aug. 24, 1935, ch. 641, §29, 49 Stat. 770; June 30, 1947, ch. 166, title II, §206(d), 61 Stat. 208.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -28,13 +30,17 @@ Subsec. (d). Act Aug. 24, 1935, §29(b), added subsec. (d).
 
 <b>1934</b>—Subsec. (b). Act June 26, 1934, substituted "one hundred and eighty" for "ninety".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Separability
 
 Validity of remainder of this chapter as not affected should any of the provisions of this chapter be declared unconstitutional, see section 614 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 
 Office of Internal Revenue Collector abolished by 1952 Reorg. Plan No. 1, §1, eff. Mar. 14, 1952, 17 F.R. 2243, 66 Stat. 823, set out in the Appendix to Title 5, Government Organization and Employees, and by section 2 thereof a new office of district commissioner of internal revenue was established. Section 4 of the Plan transferred all functions, that had been vested by statute in any officer or employee of Bureau of Internal Revenue since effective date of 1950 Reorg. Plan No. 26, §§1, 2, 15 F.R. 4935, 64 Stat. 1280, 1281, to Secretary of the Treasury.
 
-Functions of all officers of Department of the Treasury, and functions of all agencies and employees ofsuch Department, transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of those officers, agencies, and employees, by 1950 Reorg. Plan No. 26, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5. Collector and Commissioner of Internal Revenue, referred to in this section, are officers of Department of the Treasury.
+Functions of all officers of Department of the Treasury, and functions of all agencies and employees of such Department, transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of those officers, agencies, and employees, by 1950 Reorg. Plan No. 26, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5. Collector and Commissioner of Internal Revenue, referred to in this section, are officers of Department of the Treasury.
 

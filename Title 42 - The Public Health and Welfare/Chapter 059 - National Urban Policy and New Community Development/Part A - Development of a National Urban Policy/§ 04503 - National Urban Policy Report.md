@@ -52,6 +52,8 @@ The National Urban Policy Report shall, when transmitted to Congress, be referre
 
 (Pub. L. 91–609, title VII, §703, Dec. 31, 1970, 84 Stat. 1792; Pub. L. 95–128, title VI, §601(c), Oct. 12, 1977, 91 Stat. 1143; Pub. L. 102–550, title IX, §921(2), (3), Oct. 28, 1992, 106 Stat. 3883, 3884.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–550, §921(2)(A), substituted ", not later than June 1, 1993, and not later than the first day of June of every odd-numbered year thereafter," for "during February 1978, and during February of every even-numbered year thereafter," in introductory provisions.
@@ -78,11 +80,13 @@ Subsec. (b). Pub. L. 95–128, §601(c)(7), substituted "urban policy" for "urba
 
 Subsec. (c). Pub. L. 95–128, §601(c)(8), substituted "National Urban Policy Report" and "urban areas" for "Report on Urban Growth" and "urban growth", respectively.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of reporting provisions in subsec. (a) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and item 1 on page 40 of House Document No. 103–7.
+For termination, effective May 15, 2000, of reporting provisions in subsec. (a) of this section, see section 3003of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and item 1 on page 40 of House Document No. 103–7.
 

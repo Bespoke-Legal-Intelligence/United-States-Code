@@ -22,6 +22,8 @@ It is the purpose of this part—
 
 (Pub. L. 89–329, title VI, §611, as added Pub. L. 96–374, title VI, §601(a), Oct. 3, 1980, 94 Stat. 1467; amended Pub. L. 99–498, title VI, §610, Oct. 17, 1986, 100 Stat. 1519; Pub. L. 102–325, title VI, §601, July 23, 1992, 106 Stat. 728; Pub. L. 105–244, title VI, §602(a), Oct. 7, 1998, 112 Stat. 1783.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Pub. L. 105–244 amended section catchline generally.
@@ -29,6 +31,8 @@ It is the purpose of this part—
 <b>1992</b>—Pub. L. 102–325 amended section generally, inserting subsec. headings and reenacting text without substantial change.
 
 <b>1986</b>—Subsec. (a)(1). Pub. L. 99–498 inserted "and educational" after "skills in the business".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

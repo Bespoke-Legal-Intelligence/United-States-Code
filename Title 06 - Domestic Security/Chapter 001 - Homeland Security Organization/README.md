@@ -42,6 +42,7 @@
 | [124f.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis/Part%20A%20-%20Information%20and%20Analysis%3B%20Access%20to%20Information/%C2%A7%2000124f%20-%20Intelligence%20training%20development%20for%20State%20and%20local%20government%20officials.md) | Intelligence training development for State and local government officials. |
 | [124g.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis/Part%20A%20-%20Information%20and%20Analysis%3B%20Access%20to%20Information/%C2%A7%2000124g%20-%20Information%20sharing%20incentives.md) | Information sharing incentives. |
 | [124h.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis/Part%20A%20-%20Information%20and%20Analysis%3B%20Access%20to%20Information/%C2%A7%2000124h%20-%20Department%20of%20Homeland%20Security%20State%2C%20Local%2C%20and%20Regional%20Fusion%20Center%20Initiative.md) | Department of Homeland Security State, Local, and Regional Fusion Center Initiative. |
+| 124h–1. | Threat information sharing. |
 | [124i.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis/Part%20A%20-%20Information%20and%20Analysis%3B%20Access%20to%20Information/%C2%A7%2000124i%20-%20Homeland%20Security%20Information%20Sharing%20Fellows%20Program.md) | Homeland Security Information Sharing Fellows Program. |
 | [124j.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis/Part%20A%20-%20Information%20and%20Analysis%3B%20Access%20to%20Information/%C2%A7%2000124j%20-%20Rural%20Policing%20Institute.md) | Rural Policing Institute. |
 | [124k.](Subchapter%20002%20%28II%29%20-%20Information%20Analysis/Part%20A%20-%20Information%20and%20Analysis%3B%20Access%20to%20Information/%C2%A7%2000124k%20-%20Interagency%20Threat%20Assessment%20and%20Coordination%20Group.md) | Interagency Threat Assessment and Coordination Group. |
@@ -105,6 +106,7 @@
 | [195e.](Subchapter%20003%20%28III%29%20-%20Science%20and%20Technology%20in%20Support%20of%20Homeland%20Security/%C2%A7%2000195e%20-%20Transparency%20in%20research%20and%20development.md) | Transparency in research and development. |
 | [195f.](Subchapter%20003%20%28III%29%20-%20Science%20and%20Technology%20in%20Support%20of%20Homeland%20Security/%C2%A7%2000195f%20-%20EMP%20and%20GMD%20mitigation%20research%20and%20development%20and%20threat%20assessment%2C%20response%2C%20and%20recovery.md) | EMP and GMD mitigation research and development and threat assessment, response, and recovery. |
 | [195g.](Subchapter%20003%20%28III%29%20-%20Science%20and%20Technology%20in%20Support%20of%20Homeland%20Security/%C2%A7%2000195g%20-%20Countering%20Unmanned%20Aircraft%20Systems%20Coordinator.md) | Countering Unmanned Aircraft Systems Coordinator. |
+| [195h.](Subchapter%20003%20%28III%29%20-%20Science%20and%20Technology%20in%20Support%20of%20Homeland%20Security/%C2%A7%2000195h%20-%20National%20Urban%20Security%20Technology%20Laboratory.md) | National Urban Security Technology Laboratory. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -253,6 +255,7 @@
 | 321o–1. | Integrated public alert and warning system. |
 | [321p.](Subchapter%20005%20%28V%29%20-%20National%20Emergency%20Management/%C2%A7%2000321p%20-%20National%20planning%20and%20education.md) | National planning and education. |
 | [321q.](Subchapter%20005%20%28V%29%20-%20National%20Emergency%20Management/%C2%A7%2000321q%20-%20Coordination%20of%20Department%20of%20Homeland%20Security%20efforts%20related%20to%20food%2C%20agriculture%2C%20and%20veterinary%20defense%20against%20terrorism.md) | Coordination of Department of Homeland Security efforts related to food, agriculture, and veterinary defense against terrorism. |
+| [321r.](Subchapter%20005%20%28V%29%20-%20National%20Emergency%20Management/%C2%A7%2000321r%20-%20Transfer%20of%20equipment%20during%20a%20public%20health%20emergency.md) | Transfer of equipment during a public health emergency. |
 | [322\.](Subchapter%20005%20%28V%29%20-%20National%20Emergency%20Management/%C2%A7%2000322%20-%20Continuity%20of%20the%20economy%20plan.md) | Continuity of the economy plan. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -279,6 +282,9 @@
 | [348\.](Subchapter%20007%20%28VII%29%20-%20Management/%C2%A7%2000348%20-%20Joint%20task%20forces.md) | Joint task forces. |
 | [349\.](Subchapter%20007%20%28VII%29%20-%20Management/%C2%A7%2000349%20-%20Office%20of%20Strategy%2C%20Policy%2C%20and%20Plans.md) | Office of Strategy, Policy, and Plans. |
 | [350\.](Subchapter%20007%20%28VII%29%20-%20Management/%C2%A7%2000350%20-%20Workforce%20health%20and%20medical%20support.md) | Workforce health and medical support. |
+| [351\.](Subchapter%20007%20%28VII%29%20-%20Management/%C2%A7%2000351%20-%20Employee%20engagement.md) | Employee engagement. |
+| [352\.](Subchapter%20007%20%28VII%29%20-%20Management/%C2%A7%2000352%20-%20Annual%20employee%20award%20program.md) | Annual employee award program. |
+| [353\.](Subchapter%20007%20%28VII%29%20-%20Management/%C2%A7%2000353%20-%20Acquisition%20professional%20career%20program.md) | Acquisition professional career program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -399,6 +405,7 @@
 | [471\.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20H%20-%20Miscellaneous%20Provisions/%C2%A7%2000471%20-%20Annual%20ammunition%20report.md) | Annual ammunition report. |
 | [472\.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20H%20-%20Miscellaneous%20Provisions/%C2%A7%2000472%20-%20Annual%20weaponry%20report.md) | Annual weaponry report. |
 | [473\.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20H%20-%20Miscellaneous%20Provisions/%C2%A7%2000473%20-%20Cyber%20Crimes%20Center%2C%20Child%20Exploitation%20Investigations%20Unit%2C%20Computer%20Forensics%20Unit%2C%20and%20Cyber%20Crimes%20Unit.md) | Cyber Crimes Center, Child Exploitation Investigations Unit, Computer Forensics Unit, and Cyber Crimes Unit. |
+| [474\.](Subchapter%20008%20%28VIII%29%20-%20Coordination%20with%20Non-Federal%20Entities%3B%20Inspector%20General%3B%20United%20States%20Secret%20Service%3B%20Coast%20Guard%3B%20General%20Provisions/Part%20H%20-%20Miscellaneous%20Provisions/%C2%A7%2000474%20-%20Homeland%20security%20critical%20domain%20research%20and%20development.md) | Homeland security critical domain research and development. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -590,6 +597,7 @@
 |  |  |
 | :--- | ---: |
 | [597\.](Subchapter%20014%20%28XIV%29%20-%20Countering%20Weapons%20of%20Mass%20Destruction%20Office/Part%20C%20-%20Chief%20Medical%20Officer/%C2%A7%2000597%20-%20Chief%20Medical%20Officer.md) | Chief Medical Officer. |
+| [597a.](Subchapter%20014%20%28XIV%29%20-%20Countering%20Weapons%20of%20Mass%20Destruction%20Office/Part%20C%20-%20Chief%20Medical%20Officer/%C2%A7%2000597a%20-%20Medical%20countermeasures.md) | Medical countermeasures. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -680,9 +688,12 @@
 | [665a.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20A%20-%20Cybersecurity%20and%20Infrastructure%20Security/%C2%A7%2000665a%20-%20Intelligence%20and%20cybersecurity%20diversity%20fellowship%20program.md) | Intelligence and cybersecurity diversity fellowship program. |
 | [665b.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20A%20-%20Cybersecurity%20and%20Infrastructure%20Security/%C2%A7%2000665b%20-%20Joint%20cyber%20planning%20office.md) | Joint cyber planning office. |
 | [665c.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20A%20-%20Cybersecurity%20and%20Infrastructure%20Security/%C2%A7%2000665c%20-%20Cybersecurity%20State%20Coordinator.md) | Cybersecurity State Coordinator. |
-| [665d.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20A%20-%20Cybersecurity%20and%20Infrastructure%20Security/%C2%A7%2000665d%20-%20Sector%20risk%20management%20agencies.md) | Sector risk management agencies. |
+| [665d.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20A%20-%20Cybersecurity%20and%20Infrastructure%20Security/%C2%A7%2000665d%20-%20Sector%20Risk%20Management%20Agencies.md) | Sector Risk Management Agencies. |
 | [665e.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20A%20-%20Cybersecurity%20and%20Infrastructure%20Security/%C2%A7%2000665e%20-%20Cybersecurity%20Advisory%20Committee.md) | Cybersecurity Advisory Committee. |
 | [665f.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20A%20-%20Cybersecurity%20and%20Infrastructure%20Security/%C2%A7%2000665f%20-%20Cybersecurity%20education%20and%20training%20programs.md) | Cybersecurity education and training programs. |
+| [665g.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20A%20-%20Cybersecurity%20and%20Infrastructure%20Security/%C2%A7%2000665g%20-%20State%20and%20Local%20Cybersecurity%20Grant%20Program.md) | State and Local Cybersecurity Grant Program. |
+| [665h.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20A%20-%20Cybersecurity%20and%20Infrastructure%20Security/%C2%A7%2000665h%20-%20National%20Cyber%20Exercise%20Program.md) | National Cyber Exercise Program. |
+| [665i.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20A%20-%20Cybersecurity%20and%20Infrastructure%20Security/%C2%A7%2000665i%20-%20CyberSentry%20program.md) | CyberSentry program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -694,6 +705,21 @@
 | [672\.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20B%20-%20Critical%20Infrastructure%20Information/%C2%A7%2000672%20-%20Designation%20of%20critical%20infrastructure%20protection%20program.md) | Designation of critical infrastructure protection program. |
 | [673\.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20B%20-%20Critical%20Infrastructure%20Information/%C2%A7%2000673%20-%20Protection%20of%20voluntarily%20shared%20critical%20infrastructure%20information.md) | Protection of voluntarily shared critical infrastructure information. |
 | [674\.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20B%20-%20Critical%20Infrastructure%20Information/%C2%A7%2000674%20-%20No%20private%20right%20of%20action.md) | No private right of action. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part C—Declaration of a Significant Incident
+
+|  |  |
+| :--- | ---: |
+| [677\.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20C%20-%20Declaration%20of%20a%20Significant%20Incident/%C2%A7%2000677%20-%20Sense%20of%20Congress.md) | Sense of Congress. |
+| [677a.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20C%20-%20Declaration%20of%20a%20Significant%20Incident/%C2%A7%2000677a%20-%20Definitions.md) | Definitions. |
+| [677b.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20C%20-%20Declaration%20of%20a%20Significant%20Incident/%C2%A7%2000677b%20-%20Declaration.md) | Declaration. |
+| [677c.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20C%20-%20Declaration%20of%20a%20Significant%20Incident/%C2%A7%2000677c%20-%20Cyber%20Response%20and%20Recovery%20Fund.md) | Cyber Response and Recovery Fund. |
+| [677d.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20C%20-%20Declaration%20of%20a%20Significant%20Incident/%C2%A7%2000677d%20-%20Notification%20and%20reporting.md) | Notification and reporting. |
+| [677e.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20C%20-%20Declaration%20of%20a%20Significant%20Incident/%C2%A7%2000677e%20-%20Rule%20of%20construction.md) | Rule of construction. |
+| [677f.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20C%20-%20Declaration%20of%20a%20Significant%20Incident/%C2%A7%2000677f%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [677g.](Subchapter%20018%20%28XVIII%29%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency/Part%20C%20-%20Declaration%20of%20a%20Significant%20Incident/%C2%A7%2000677g%20-%20Sunset.md) | Sunset. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

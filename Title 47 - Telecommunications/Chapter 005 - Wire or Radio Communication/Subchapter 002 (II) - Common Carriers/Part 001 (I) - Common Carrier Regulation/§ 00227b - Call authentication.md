@@ -82,7 +82,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(III) the inability to purchase or upgrade equipment to support the call authentication frameworks under this section, or lack of availability of such equipment; and
 
-&emsp;&emsp;&emsp;(ii) in connection with an assessment under clause (i), may, upon a public finding of undue hardship, delay required compliance with the 18-month time period described in paragraph (1), for a reasonable period of time, for a provider or class of providers of voice service, or type of voice calls, as necessary for that provider orclass of providers or type of calls to participate in the implementation in order to address the identified burdens and barriers.
+&emsp;&emsp;&emsp;(ii) in connection with an assessment under clause (i), may, upon a public finding of undue hardship, delay required compliance with the 18-month time period described in paragraph (1), for a reasonable period of time, for a provider or class of providers of voice service, or type of voice calls, as necessary for that provider or class of providers or type of calls to participate in the implementation in order to address the identified burdens and barriers.
 
 #### (B) Delay of compliance required for certain non-internet protocol networks
 
@@ -138,7 +138,7 @@ In this section:
 
 &emsp;Consistent with the regulations prescribed under subsection (j) of section 227 of this title, as added by section 10, the Commission shall, not later than 1 year after December 30, 2019, promulgate rules—
 
-&emsp;&emsp;(A) establishing when a provider of voice service may block a voice call based, in whole or in part, on information provided by the call authentication frameworks under subsection (b), with no additional line item charge;
+&emsp;&emsp;(A) establishing when a provider of voice service may block a voice call based, in whole or in part, on information provided bythe call authentication frameworks under subsection (b), with no additional line item charge;
 
 &emsp;&emsp;(B) establishing a safe harbor for a provider of voice service from liability for unintended or inadvertent blocking of calls or for the unintended or inadvertent misidentification of the level of trust for individual calls based, in whole or in part, on information provided by the call authentication frameworks under subsection (b);
 

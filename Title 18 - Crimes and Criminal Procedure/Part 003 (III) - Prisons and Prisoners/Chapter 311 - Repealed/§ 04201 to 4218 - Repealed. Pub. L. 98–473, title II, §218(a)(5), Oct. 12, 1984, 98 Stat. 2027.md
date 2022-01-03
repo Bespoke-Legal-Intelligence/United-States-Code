@@ -26,7 +26,7 @@ As used in this chapter—
 
 #### §4202. Parole Commission created
 
-There is hereby established, as an independent agency in the Department of Justice, a United States Parole Commission which shall be comprised of nine members appointed by the President, by and with the advice and consent of the Senate. The President shall designate from among the Commissioners one to serve as Chairman. The term of office of a Commissioner shall be six years, except that the term of a person appointed as a Commissioner to fill a vacancy shall expire six years from the date upon which such person was appointed and qualified. Upon the expiration of a term of office of a Commissioner, the Commissioner shall continue to act until a successor has been appointed and qualified, except that no Commissioner may serve in excess of twelve years. Commissioners shall be compensated at the highest rate now or hereafter prescribed for grade 18 of the General Schedule pay rates (5 U.S.C. 5332).
+There is hereby established, as an independent agency in the Department of Justice, a United States Parole Commission which shall be comprised of nine members appointed by the President, by and with the advice and consent of the Senate. The President shall designate from among the Commissioners one to serve as Chairman. The term of office of a Commissioner shall be six years, except that the term of a person appointed as a Commissioner to fill a vacancy shall expire six years from the date upon which such person was appointed and qualified. Upon the expiration of a term of office of a Commissioner, the Commissionershall continue to act until a successor has been appointed and qualified, except that no Commissioner may serve in excess of twelve years. Commissioners shall be compensated at the highest rate now or hereafter prescribed for grade 18 of the General Schedule pay rates (5 U.S.C. 5332).
 
 > (Added Pub. L. 94–233, §2, Mar. 15, 1976, 90 Stat. 219.)
 
@@ -36,7 +36,7 @@ Pub. L. 107–273, div. C, title I, §11017, Nov. 2, 2002, 116 Stat. 1824, provi
 
 "(a)
 
-Extension of the Parole Commission.—For purposes of section 235(b) of the Sentencing Reform Act of1984 \[Pub. L. 98–473, set out as a note under section 3551 of this title\] (98 Stat. 2032) as such section relates to chapter 311 of title 18, United States Code, and the Parole Commission, each reference in such section to 'fifteen years' or 'fifteen-year period' shall be deemed to be a reference to 'eighteen years' or 'eighteen-year period', respectively.
+Extension of the Parole Commission.—For purposes of section 235(b) of the Sentencing Reform Act of 1984 \[Pub. L. 98–473, set out as a note under section 3551 of this title\] (98 Stat. 2032) as such section relates to chapter 311 of title 18, United States Code, and the Parole Commission, each reference in such section to 'fifteen years' or 'fifteen-year period' shall be deemed to be a reference to 'eighteen years' or 'eighteen-year period', respectively.
 
 "(b)
 
@@ -244,7 +244,7 @@ In making a determination under this chapter (relating to release on parole) the
 
 &emsp;(4) recommendations regarding the prisoner's parole made at the time of sentencing by the sentencing judge;
 
-&emsp;(5) a statement, which may be presented orally or otherwise, by any victim of the offense for which the prisoner is imprisoned about the financial, social, psychological, and emotional harm done to, or loss suffered by such victim; and
+&emsp;(5) a statement, which may be presented orally or otherwise, by any victim of the offense for which theprisoner is imprisoned about the financial, social, psychological, and emotional harm done to, or loss suffered by such victim; and
 
 &emsp;(5)\[(6)\] reports of physical, mental, or psychiatric examination of the offender.
 
@@ -254,7 +254,7 @@ In making a determination under this chapter (relating to release on parole) the
 
 #### §4208. Parole determination proceeding; time
 
-(a) In making a determination under this chapter (relating to parole) the Commission shall conduct a paroledetermination proceeding unless it determines on the basis of the prisoner's record that the prisoner will be released on parole. Whenever feasible, the initial parole determination proceeding for a prisoner eligible for parole pursuant to subsections (a) and (b)(1) of section 4205 shall be held not later than thirty days before the date of such eligibility for parole. Whenever feasible, the initial parole determination proceeding for a prisoner eligible for parole pursuant to subsection (b)(2) of section 4205 or released on parole and whose parole has been revoked shall be held not later than one hundred and twenty days following such prisoner's imprisonment or reimprisonment in a Federal institution, as the case may be. An eligible prisoner may knowingly and intelligently waive any proceeding.
+(a) In making a determination under this chapter (relating to parole) the Commission shall conduct a parole determination proceeding unless it determines on the basis of the prisoner's record that the prisoner will be released on parole. Whenever feasible, the initial parole determination proceeding for a prisoner eligible for parole pursuant to subsections (a) and (b)(1) of section 4205 shall be held not later than thirty days before the date of such eligibility for parole. Whenever feasible, the initial parole determination proceeding for a prisoner eligible for parole pursuant to subsection (b)(2) of section 4205 or released on parole and whose parole has been revoked shall be held not later than one hundred and twenty days following such prisoner's imprisonment or reimprisonment in a Federal institution, as the case may be. An eligible prisoner may knowingly and intelligently waive any proceeding.
 
 (b) At least thirty days prior to any parole determination proceeding, the prisoner shall be provided with (1) written notice of the time and place of the proceeding, and (2) reasonable access to a report or other document to be used by the Commission in making its determination. A prisoner may waive such notice, except that if notice is not waived the proceeding shall be held during the next regularly scheduled proceedings by the Commission at the institution in which the prisoner is confined.
 
@@ -300,7 +300,7 @@ In making a determination under this chapter (relating to release on parole) the
 
 (c) Release on parole or release as if on parole (or probation, or supervised release where applicable) may as a condition of such release require—
 
-&emsp;(1) a parolee to reside in or participate in the program of a residential community treatment center, or both, for all or part of the period of such parole; or
+&emsp;(1) a parolee to reside in or participate in the program of a residential community treatment center,or both, for all or part of the period of such parole; or
 
 &emsp;(2) a parolee to remain at his place of residence during nonworking hours and, if the Commission so directs, to have compliance with this condition monitored by telephone or electronic signaling devices, except that a condition under this paragraph may be imposed only as an alternative to incarceration.
 
@@ -358,7 +358,7 @@ Amendment by section 7303(c)(1), (2) of Pub. L. 100–690 applicable with respec
 
 (c)(1) Five years after each parolee's release on parole, the Commission shall terminate supervision over such parolee unless it is determined, after a hearing conducted in accordance with the procedures prescribed in section 4214(a)(2), that such supervision should not be terminated because there is a likelihood that the parolee will engaged in conduct violating any criminal law.
 
-(2) If supervision is not terminated under subparagraph (1) of this subsection the parolee may request a hearing annually thereafter, and a hearing, with procedures as provided in subparagraph (1) of this subsection shall be conducted with respect to such termination of supervision not less frequently than biennially.
+(2) If supervision is not terminated under subparagraph (1) of this subsection the parolee may request ahearing annually thereafter, and a hearing, with procedures as provided in subparagraph (1) of this subsection shall be conducted with respect to such termination of supervision not less frequently than biennially.
 
 (3) In calculating the five-year period referred to in subparagraph (1), there shall not be included any period of release on parole prior to the most recent such release, nor any period served in confinement on any other sentence.
 
@@ -432,7 +432,7 @@ Such prisoner when his parole becomes effective, shall be delivered to the duly 
 
 &emsp;(B) withdraw the detainer.
 
-(c) Any alleged parole violator who is summoned or retaken by warrant under section 4213 who knowingly and intelligently waives his right to a hearing under subsection (a) of this section, or who knowingly and intelligently admits violation at a preliminary hearing held pursuant to subsection (a)(1)(A) of this section, or who is retaken pursuant to subsection (b) of this section, shall receive a revocation hearing within ninety days of the date of retaking. The Commission may conduct such hearing at the institution to which he has been returned, and the alleged parole violator shall have notice of such hearing, be allowed to appear and testify on his own behalf, and, unless waived, shall have counsel or another representative as provided in subsection (a)(2)(B) of this section.
+(c) Any alleged parole violator who is summoned or retaken by warrant under section 4213 who knowinglyand intelligently waives his right to a hearing under subsection (a) of this section, or who knowingly and intelligently admits violation at a preliminary hearing held pursuant to subsection (a)(1)(A) of this section, or who is retaken pursuant to subsection (b) of this section, shall receive a revocation hearing within ninety days of the date of retaking. The Commission may conduct such hearing at the institution to which he has been returned, and the alleged parole violator shall have notice of such hearing, be allowed to appear and testify on his own behalf, and, unless waived, shall have counsel or another representative as provided in subsection (a)(2)(B) of this section.
 
 (d) Whenever a parolee is summoned or retaken pursuant to section 4213, and the Commission finds pursuant to the procedures of this section and by a preponderance of the evidence that the parolee has violated a condition of his parole the Commission may take any of the following actions:
 

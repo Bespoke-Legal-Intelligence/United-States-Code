@@ -8,7 +8,7 @@ If any licensee shall permit any person who is a legally qualified candidate for
 
 &emsp;(2) bona fide news interview,
 
-&emsp;(3) bona fide news documentary (if the appearance of the candidate is incidental to thepresentation of the subject or subjects covered by the news documentary), or
+&emsp;(3) bona fide news documentary (if the appearance of the candidate is incidental to the presentation of the subject or subjects covered by the news documentary), or
 
 &emsp;(4) on-the-spot coverage of bona fide news events (including but not limited to political conventions and activities incidental thereto),
 
@@ -94,7 +94,7 @@ The Commission shall prescribe appropriate rules and regulations to carry out th
 
 &emsp;&emsp;(D) the class of time that is purchased;
 
-&emsp;&emsp;(E) the name of the candidate to which the communication refers and the office towhich the candidate is seeking election, the election to which the communication refers, or the issue to which the communication refers (as applicable);
+&emsp;&emsp;(E) the name of the candidate to which the communication refers and the office to which the candidate is seeking election, the election to which the communication refers, or the issue to which the communication refers (as applicable);
 
 &emsp;&emsp;(F) in the case of a request made by, or on behalf of, a candidate, the name of the candidate, the authorized committee of the candidate, and the treasurer of such committee; and
 
@@ -160,5 +160,5 @@ Pub. L. 86–274, §2, Sept. 14, 1959, 73 Stat. 557, provided that:
 
 #### Suspension of Equal Time Provisions for 1960 Campaign
 
-Pub. L. 86–677, Aug. 24, 1960, 74 Stat. 554, suspended that part of subsec. (a) of this section, which requires any licensee of a broadcast station who permits any person who is a legally qualified candidate for any public office to use a broadcasting station to afford equal opportunities to all other such candidates for that office in the use of such broadcasting station, for the period of the 1960 presidential and vice presidential campaigns with respect to nominees for the offices of President and Vice President of the United States. The Federal Communications Commission was directed to make a report to the Congress, not later than March 1, 1961, with respect to the effect of the provisions of Pub. L. 86–677 and any recommendations the Commission might have for amendments to this chapter as a result of experience under the provisions of Pub. L. 86–677.
+Pub. L. 86–677, Aug. 24, 1960, 74 Stat. 554, suspended that part of subsec. (a) of this section, which requiresany licensee of a broadcast station who permits any person who is a legally qualified candidate for any public office to use a broadcasting station to afford equal opportunities to all other such candidates for that office in the use of such broadcasting station, for the period of the 1960 presidential and vice presidential campaigns with respect to nominees for the offices of President and Vice President of the United States. The Federal Communications Commission was directed to make a report to the Congress, not later than March 1, 1961, with respect to the effect of the provisions of Pub. L. 86–677 and any recommendations the Commission might have for amendments to this chapter as a result of experience under the provisions of Pub. L. 86–677.
 

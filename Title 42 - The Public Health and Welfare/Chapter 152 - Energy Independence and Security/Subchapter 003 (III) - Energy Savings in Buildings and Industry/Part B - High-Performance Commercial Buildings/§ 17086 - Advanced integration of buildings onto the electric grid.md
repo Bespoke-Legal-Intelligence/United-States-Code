@@ -64,7 +64,7 @@ Not later than 1 year after December 27, 2020, the Secretary shall submit to the
 
 #### (3) Updates
 
-&emsp;The Secretary shall update the report required under this section every 3 years for theduration of the program under subsection (a) and shall submit the updated report to the Committee on Science, Space, and Technology and the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate.
+&emsp;The Secretary shall update the report required under this section every 3 years for the duration of the program under subsection (a) and shall submit the updated report to the Committee on Science, Space, and Technology and the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate.
 
 #### (d) Program implementation
 

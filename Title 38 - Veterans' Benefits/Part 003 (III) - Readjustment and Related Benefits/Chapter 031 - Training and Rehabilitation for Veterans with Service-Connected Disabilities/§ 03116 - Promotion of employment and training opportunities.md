@@ -8,7 +8,7 @@
 
 (3) The Secretary shall prescribe regulations under this subsection in consultation with the Secretary of Labor and, in prescribing such regulations, shall take into consideration the provisions of title V of the Rehabilitation Act of 1973 (29 U.S.C. ch. 16, subch. V) and section 4212 of this title, and regulations prescribed under such provisions.
 
-(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2182, §1516; amended Pub. L. 101–237, title IV, §423(b)(1), Dec. 18, 1989, 103 Stat.2092; renumbered §3116 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 112–56, title II, §232, Nov. 21, 2011, 125 Stat. 719.)
+(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2182, §1516; amended Pub. L. 101–237, title IV, §423(b)(1), Dec. 18, 1989, 103 Stat. 2092; renumbered §3116 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 112–56, title II, §232, Nov. 21, 2011, 125 Stat. 719.)
 
 #### <b>Editorial Notes</b>
 

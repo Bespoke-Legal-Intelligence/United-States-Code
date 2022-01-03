@@ -3,7 +3,7 @@
 | Sec. |  |
 | :--- | ---: |
 | [2501\.](%C2%A7%2002501%20-%20Short%20title.md) | Short title. |
-| [2502\.](%C2%A7%2002502%20-%20Congressional%20statement%20of%20purposes.md) | Congressional statement of purposes. |
+| [2502\.](%C2%A7%2002502%20-%20Purposes.md) | Congressional statement of purposes. |
 | [2503\.](%C2%A7%2002503%20-%20Approval%20of%20trade%20agreements.md) | Approval of trade agreements. |
 | [2504\.](%C2%A7%2002504%20-%20Relationship%20of%20trade%20agreements%20to%20United%20States%20law.md) | Relationship of trade agreements to United States law. |
 
@@ -137,7 +137,7 @@
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 02501 - Short title](%C2%A7%2002501%20-%20Short%20title.md)
-- [&sect; 02502 - Congressional statement of purposes](%C2%A7%2002502%20-%20Congressional%20statement%20of%20purposes.md)
+- [&sect; 02502 - Purposes](%C2%A7%2002502%20-%20Purposes.md)
 - [&sect; 02503 - Approval of trade agreements](%C2%A7%2002503%20-%20Approval%20of%20trade%20agreements.md)
 - [&sect; 02504 - Relationship of trade agreements to United States law](%C2%A7%2002504%20-%20Relationship%20of%20trade%20agreements%20to%20United%20States%20law.md)
 - [Subchapter 001 (I) - Government Procurement](Subchapter%20001%20%28I%29%20-%20Government%20Procurement/README.md)

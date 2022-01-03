@@ -1,10 +1,12 @@
 ### §1681. Continuance of civil government for Trust Territory of the Pacific Islands; assistance programs; maximum fiscal year costs; reimbursement
 
-(a) Until Congress shall further provide for the government of the Trust Territory of the Pacific Islands, all executive, legislative, and judicial authority necessary for the civil administration of the Trust Territory shall continue to be vested in such person or persons and shall be exercised in such manner and through such agency or agencies as the President of the United States may direct or authorize.
+(a) Until Congress shall further provide for the government of the Trust Territory of the Pacific Islands, all executive, legislative, and judicial authority necessary for the civil administrationof the Trust Territory shall continue to be vested in such person or persons and shall be exercised in such manner and through such agency or agencies as the President of the United States may direct or authorize.
 
 (b) The head of any department, corporation, or other agency of the executive branch of the Government may, upon the request of the Secretary of the Interior, extend to the Trust Territory of the Pacific Islands, with or without reimbursement, scientific, technical, and other assistance under any program administered by such agency, or extend to the Trust Territory any Federal program administered by such agency, if the assistance or program will promote the welfare of the Trust Territory, notwithstanding any provision of law under which the Trust Territory may otherwise be ineligible for the assistance or program: <i>Provided</i>, That the Secretary of the Interior shall not request assistance pursuant to this subsection that involves, in the aggregate, an estimated nonreimbursable cost in any one fiscal year in excess of $150,000: <i>Provided further</i>, That the cost of any program extended to the Trust Territory under this subsection shall be reimbursable out of appropriations authorized and made for the government of the Trust Territory pursuant to section 2 of this Act, as amended. The provisions of this subsection shall not apply to financial assistance under a grant-in-aid program.
 
 (June 30, 1954, ch. 423, §1, 68 Stat. 330; Pub. L. 88–487, §1, Aug. 22, 1964, 78 Stat. 601.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -17,6 +19,8 @@ Section was formerly classified to section 1435 of this title.
 #### Amendments
 
 <b>1964</b>—Pub. L. 88–487 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Notes Transferred
 
@@ -51,6 +55,8 @@ Act Aug. 8, 1953, ch. 383, §3, 67 Stat. 495, provided that notwithstanding the 
 #### Authorizing Approval of Trusteeship Agreement for the Territory of the Pacific Islands
 
 Act July 18, 1947, ch. 271, 61 Stat. 397, authorized President to approve, on behalf of the United States, the trusteeship agreement between the United States and the Security Council of the United Nations for the former Japanese mandated islands (to be known as the Territory of the Pacific Islands) which was approved by the Security Council on Apr. 2, 1947.
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 10265
 

@@ -96,6 +96,8 @@ The Secretary shall issue such regulations consistent with this chapter as the S
 
 (Pub. L. 88–525, §4, Aug. 31, 1964, 78 Stat. 704; Pub. L. 91–671, §3, Jan. 11, 1971, 84 Stat. 2049; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 961; Pub. L. 99–198, title XV, §§1505(a), 1506, Dec. 23, 1985, 99 Stat. 1567; Pub. L. 110–234, title IV, §§4001(b), 4002(a)(1), 4111(a), 4115(b)(2), 4211(a), May 22, 2008, 122 Stat. 1092, 1102, 1106, 1122; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4002(a)(1), 4111(a), 4115(b)(2), 4211(a), June 18, 2008, 122 Stat. 1664, 1853, 1863, 1867, 1884; Pub. L. 111–296, title II, §241(b)(1), Dec. 13, 2010, 124 Stat. 3236; Pub. L. 113–79, title IV, §§4004(a), 4030(b), Feb. 7, 2014, 128 Stat. 785, 814; Pub. L. 115–334, title IV, §4003(a), Dec. 20, 2018, 132 Stat. 4624.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -116,7 +118,7 @@ Subsec. (b)(6)(D). Pub. L. 115–334, §4003(a)(2)(D), amended subpar. (D) gener
 
 &emsp;"(ii) purchase or offer to purchase those traditional foods that may be procured cost-effectively."
 
-Subsec. (b)(6)(E), (F). Pub. L. 115–334, §4003(a)(2)(E), (F), redesignated subpar. (F) as (E), substituted "2023"for "2018", and struck out former subpar. (E). Prior to amendment, text of subpar. (E) read as follows: "Not later than 1 year after the date of enactment of this paragraph, and annually thereafter, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the activities carried out under this paragraph during the preceding calendar year."
+Subsec. (b)(6)(E), (F). Pub. L. 115–334, §4003(a)(2)(E), (F), redesignated subpar. (F) as (E), substituted "2023" for "2018", and struck out former subpar. (E). Prior to amendment, text of subpar. (E) read as follows: "Not later than 1 year after the date of enactment of this paragraph, and annually thereafter, the Secretary shall submit to the Committee on Agriculture of the Houseof Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the activities carried out under this paragraph during the preceding calendar year."
 
 Subsec. (b)(7). Pub. L. 115–334, §4003(a)(3), added par. (7).
 
@@ -151,6 +153,8 @@ Subsec. (c). Pub. L. 95–113 inserted provisions relating to transmittal of reg
 <b>1971</b>—Subsec. (a). Pub. L. 91–671 substituted "the State agency" and "the charge to be paid for such allotment by eligible households" for "an appropriate State agency" and "their normal expenditures for food", respectively, and struck out "more nearly" before "to obtain".
 
 Subsec. (b). Pub. L. 91–671 substituted "operation" for "effect", "federally donated foods" for "federally owned foods" where first appearing, and exception provision for distributions to households: during temporary emergency situations, for period of time necessary to effect transition to a food stamp program as a replacement of distribution of federally donated foods, or on request of the State agency without simultaneous participation in both the food stamp program and distribution of federally donated foods for prior exception during emergency situations caused by a national or other disaster.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

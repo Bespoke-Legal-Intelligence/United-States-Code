@@ -316,6 +316,8 @@ The administering authority shall establish procedures for the correction of min
 
 (June 17, 1930, ch. 497, title VII, §751, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 175; amended Pub. L. 98–573, title VI, §611(a)(2), (3), Oct. 30, 1984, 98 Stat. 3031; Pub. L. 99–514, title XVIII, §1886(a)(8), Oct. 22, 1986, 100 Stat. 2922; Pub. L. 100–418, title I, §1333(b), Aug. 23, 1988, 102 Stat. 1209; Pub. L. 103–465, title II, §§220(a), 283(c), Dec. 8, 1994, 108 Stat. 4857, 4930; Pub. L. 106–36, title II, §2410, June 25, 1999, 113 Stat. 171; Pub. L. 114–125, title IV, §433, Feb. 24, 2016, 130 Stat. 171.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1303 of this title, referred to in subsecs. (a)(1), (b)(1)(A), and (c)(1)(A), (6)(C)(i), is defined in section 1677(26) of this title to mean section 1330 as in effect on the day before Jan. 1, 1995.
@@ -332,7 +334,7 @@ The International Emergency Economic Powers Act, referred to in subsec. (c)(7)(A
 
 <b>1994</b>—Pub. L. 103–465, §283(c), added subsec. (g) and redesignated former subsec. (g) as (h).
 
-Pub. L. 103–465, §220(a), amended section generally, substituting present provisions for provisions relating to administrative review of determinations, which provided for periodic review of amount of duty in subsec. (a), review upon information or request in subsec. (b), revocation of countervailing duty order or antidumping duty order in subsec. (c), hearings in subsec. (d), determination that basis for suspension no longer existed in subsec. (e), and correction of ministerial errors in subsec. (f).
+Pub. L. 103–465, §220(a), amended section generally, substituting present provisions for provisions relating to administrative review of determinations, which provided for periodic review of amount of duty in subsec. (a), review upon information or request in subsec. (b), revocation of countervailing duty order or antidumping duty order in subsec. (c), hearings in subsec. (d), determination that basis for suspension no longer existed insubsec. (e), and correction of ministerial errors in subsec. (f).
 
 <b>1988</b>—Subsec. (f). Pub. L. 100–418 added subsec. (f).
 
@@ -343,6 +345,8 @@ Pub. L. 103–465, §220(a), amended section generally, substituting present pro
 Subsec. (b)(1). Pub. L. 98–573, §611(a)(2)(B), substituted "1671c of this title (other than a quantitative restriction agreement described in subsection (a)(2) or (c)(3)) or 1673c of this title (other than a quantitative restriction agreement described in subsection (a)(2))" for "1671c or 1673c of this title", inserted reference to section 1676a(a)(1) or 1676a(a)(2) of this title, and inserted provision that during an investigation by the Commission, the party seeking revocation of an antidumping order shall have the burden of persuasion with respect to whether there are changed circumstances sufficient to warrant revocation of the antidumping order.
 
 Subsec. (c). Pub. L. 98–573, §611(a)(3), inserted provision that the administering authority shall not revoke, in whole or in part, a countervailing duty order or terminate a suspended investigation on the basis of any export taxes, duties, or other charges levied on the export of merchandise to the United States specifically intended to offset the subsidy received.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 
@@ -364,13 +368,15 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 Pub. L. 109–280, title XIV, §1632(a), Aug. 17, 2006, 120 Stat. 1165, provided that: "Clause (iii) of section 751(a)(2)(B) of the Tariff Act of 1930 (19 U.S.C. 1675(a)(2)(B)(iii)) shall not be effective during the period beginning on April 1, 2006, and ending on June 30, 2009."
 
-#### Uruguay Round Agreements: Entry Into Force
-
-The Uruguay Round Agreements, including the World Trade Organization Agreement and agreements annexed to that Agreement, as referred to in section 3511(d) of this title, entered into force with respect to the United States on Jan. 1, 1995. See note set out under section 3511 of this title.
-
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+
+#### <b>Executive Documents</b>
+
+#### Uruguay Round Agreements: Entry Into Force
+
+The Uruguay Round Agreements, including the World Trade Organization Agreement and agreements annexed to that Agreement, as referred to in section 3511(d) of this title, entered into force with respect to the United States on Jan. 1, 1995. See note set out under section 3511 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

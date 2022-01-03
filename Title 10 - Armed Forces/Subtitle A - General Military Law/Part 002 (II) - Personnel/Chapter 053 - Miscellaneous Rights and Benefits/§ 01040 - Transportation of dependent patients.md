@@ -1,8 +1,8 @@
 ### §1040. Transportation of dependent patients
 
-(a)(1) Except as provided in subsection (b), if a dependent accompanying a member of the uniformed services who is stationed outside the United States or in Alaska or Hawaii and who is on active duty for a period of more than 30 days requires medical attention which is not available in the locality, transportation of the dependents at the expense of the United States is authorized to the nearest appropriate medical facility in which adequate medical care is available. On his recovery or when it is administratively determined that the patient should be removed from the medical facility involved, the dependent may be transported at the expense of the United States to the duty station of the member or to such other place determined to be appropriate under the circumstances. If a dependent is unable to travel unattended, travel and transportation allowances may be furnished to necessary attendants. The dependents and any attendants shall be furnished such travel and transportation allowances as specified in regulations prescribed under section 464 of title 37. Travel expenses authorized by this section may include reimbursement for necessary local travel in the vicinity of the medical facility involved. The transportation and travel expenses authorized by this section may be paid in advance.
+(a)(1) Except as provided in subsection (b), if a dependent accompanying a member of the uniformed services who is stationed outside the United States or in Alaska or Hawaii and who is on active duty for a period of more than 30 days requires medical attention which is not available in the locality, transportation of the dependents at the expense of the United States is authorized to the nearest appropriate medical facility in which adequate medical care is available. On his recovery or when it is administratively determined that the patient should be removed from the medical facility involved, thedependent may be transported at the expense of the United States to the duty station of the member or to such other place determined to be appropriate under the circumstances. If a dependent is unable to travel unattended, travel and transportation allowances may be furnished to necessary attendants. The dependents and any attendants shall be furnished such travel and transportation allowances as specified in regulations prescribed under section 464 of title 37. Travel expenses authorized by this section may include reimbursement for necessary local travel in the vicinity of the medical facility involved. The transportation and travel expenses authorized by this section may be paid in advance.
 
-(2)(A) Except as provided by subparagraph (E), for purposes of paragraph (1), required medical attention of a dependent includes, in the case of a dependent authorized to accompany a member at a location described in that paragraph, obstetrical anesthesia services for childbirth equivalent to the obstetrical anesthesia servicesfor childbirth available in a military treatment facility in the United States.
+(2)(A) Except as provided by subparagraph (E), for purposes of paragraph (1), required medical attention of a dependent includes, in the case of a dependent authorized to accompany a member at a location described in that paragraph, obstetrical anesthesia services for childbirth equivalent to the obstetrical anesthesia services for childbirth available in a military treatment facility in the United States.
 
 (B) In the case of a dependent at a remote location outside the continental United States who elects services described in subparagraph (A) and for whom air transportation would be needed to travel under paragraph (1) to the nearest appropriate medical facility in which adequate medical care is available, the Secretary may authorize the dependent to receive transportation under that paragraph to the continental United States and be treated at the military treatment facility that can provide appropriate obstetrical services that is nearest to the closest port of entry into the continental United States from such remote location.
 
@@ -21,6 +21,8 @@
 (c) In this section, the term "dependent" has the meaning given that term in section 1072 of this title.
 
 (Added Pub. L. 89–140, §1(1), Aug. 28, 1965, 79 Stat. 579; amended Pub. L. 96–513, title V, §511(32), Dec. 12, 1980, 94 Stat. 2922; Pub. L. 98–94, title IX, §913(b), Sept. 24, 1983, 97 Stat. 640; Pub. L. 98–525, title VI, §611, title XIV, §1405(21), Oct. 19, 1984, 98 Stat. 2538, 2623; Pub. L. 99–348, title III, §304(a)(2), July 1, 1986, 100 Stat. 703; Pub. L. 99–661, div. A, title VI, §616(a), Nov. 14, 1986, 100 Stat. 3880; Pub. L. 112–81, div. A, title VII, §705, Dec. 31, 2011, 125 Stat. 1473; Pub. L. 113–66, div. A, title VI, §621(b), Dec. 26, 2013, 127 Stat. 783; Pub. L. 113–291, div. A, title X, §1071(f)(11), Dec. 19, 2014, 128 Stat. 3510; Pub. L. 114–92, div. A, title VII, §721, Nov. 25, 2015, 129 Stat. 869.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -51,6 +53,8 @@ Pub. L. 98–525, §611, made provisions of section applicable to a dependent ac
 <b>1983</b>—Subsec. (a). Pub. L. 98–94 inserted ", and such expenses may be paid in advance" after "attendants".
 
 <b>1980</b>—Subsec. (d). Pub. L. 96–513 substituted "Secretary of Transportation" and "Secretary of Health and Human Services" for "Secretary of the Treasury" and "Secretary of Health, Education, and Welfare", respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

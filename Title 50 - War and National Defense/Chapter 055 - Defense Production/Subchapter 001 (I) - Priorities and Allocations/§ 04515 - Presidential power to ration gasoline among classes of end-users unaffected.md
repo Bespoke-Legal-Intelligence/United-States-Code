@@ -1,12 +1,14 @@
 ### §4515. Presidential power to ration gasoline among classes of end-users unaffected
 
-Nothing in this chapter shall be construed to authorize the President to institute, without the approval of the Congress, a program for the rationing of gasoline among classes of end-users.
+Nothing in this chapter shall be construed to authorize the President to institute, without theapproval of the Congress, a program for the rationing of gasoline among classes of end-users.
 
 (Sept. 8, 1950, ch. 932, title I, §105, as added Pub. L. 96–294, title I, §103, June 30, 1980, 94 Stat. 617.)
 
 #### Termination of Section
 
 <i>For termination of section, see section 4564(a) of this title.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -15,6 +17,8 @@ This chapter, referred to in text, was in the original "this Act", meaning act S
 #### Codification
 
 Section was formerly classified to section 2075 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

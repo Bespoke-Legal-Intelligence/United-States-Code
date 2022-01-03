@@ -10,9 +10,11 @@ The committees utilized or appointed pursuant to this section may examine applic
 
 (July 15, 1949, ch. 338, title V, §508, 63 Stat. 436; Pub. L. 87–70, title VIII, §806, June 30, 1961, 75 Stat. 188; Pub. L. 91–609, title VIII, §803(b), Dec. 31, 1970, 84 Stat. 1807; Pub. L. 93–383, title V, §508, Aug. 22, 1974, 88 Stat. 694.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>1974</b>—Subsec. (b). Pub. L. 93–383 substituted provisions relating to examination of applications under section 1471(a)(1) and (2) of this title, and certification to the Secretary with respect to amount of any loan, for provisions relating to examination of applications under provisions of this subchapter, certification to the Secretary with respect to the amount of the loan or grant, and requiring performance of such other duties as the Secretary requests.
+<b>1974</b>—Subsec. (b). Pub. L. 93–383 substituted provisions relating to examination of applications under section 1471(a)(1) and (2) of this title, and certification to the Secretary with respect to amount of any loan, forprovisions relating to examination of applications under provisions of this subchapter, certification to the Secretary with respect to the amount of the loan or grant, and requiring performance of such other duties as the Secretary requests.
 
 <b>1970</b>—Subsec. (b). Pub. L. 91–609 substituted "may" for "shall" in first and second sentences where reading "shall examine", "shall submit", and "shall also certify".
 

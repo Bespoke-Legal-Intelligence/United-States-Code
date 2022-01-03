@@ -22,6 +22,8 @@ Delivery of Software and Related Materials.—Any noncommercial computer softwar
 
 (Added Pub. L. 115–91, div. A, title VIII, §871(a)(1), Dec. 12, 2017, 131 Stat. 1496, §2322a; renumbered §4576, Pub. L. 116–283, div. A, title XVIII, §1857(c), Jan. 1, 2021, 134 Stat. 4276.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior sections 4591 to 4595 were renumbered sections 7591 to 7595 of this title, respectively.
@@ -30,7 +32,13 @@ Prior sections 4591 to 4595 were renumbered sections 7591 to 7595 of this title,
 
 <b>2021</b>—Pub. L. 116–283 renumbered section 2322a of this title as this section.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2021 Amendment
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+#### Guidance
+
+Pub. L. 115–91, div. A, title VIII, §871(b), Dec. 12, 2017, 131 Stat. 1497, provided that: "Not later than 180 days after the date of the enactment of this Act \[Dec. 12, 2017\], the Secretary of Defense shall issue updated guidance to implement section 2322a of title 10, United States Code \[now 10 U.S.C. 4576\], as added by subsection (a)."
 

@@ -24,7 +24,7 @@ The Director, on the receipt of applications by public or nonprofit private orga
 
 &emsp;(10) in initiating and supporting before-school and after-school programs, serving children in low-income communities, that may engage participants in mentoring, tutoring, life skills and study skills programs, service-learning, physical, nutrition, and health education programs, and other activities addressing the needs of the children;
 
-&emsp;(11) in establishing and supporting community economic development initiatives, with a priority on work on such initiatives in rural areas and the other areas where such initiatives are needed most;
+&emsp;(11) in establishing and supporting community economic development initiatives, with a priority on work on such initiatives in ruralareas and the other areas where such initiatives are needed most;
 
 &emsp;(12) in assisting veterans and their family members through establishing or augmenting programs that assist such persons with access to legal assistance, health care (including mental health care), employment counseling or training, education counseling or training, affordable housing, and other support services; and
 
@@ -108,7 +108,9 @@ The Director is encouraged to enter into agreements with other Federal agencies 
 
 The Director may enter into agreements under which public and private nonprofit organizations, with sufficient financial capacity and size, pay for all or a portion of the costs of supporting the service of volunteers under this part.
 
-(Pub. L. 93–113, title I, §103, Oct. 1, 1973, 87 Stat. 396; Pub. L. 96–143, §2, Dec. 13, 1979, 93 Stat. 1074; Pub. L. 98–288, §4(a)–(c)(1), (d), May 21, 1984, 98 Stat. 189, 190; Pub. L. 99–551, §3(a), Oct. 27, 1986, 100 Stat. 3071; Pub. L. 101–204, title I, §101(a), (b), (d)(2), title VII, §701, Dec. 7, 1989, 103 Stat. 1807, 1809, 1811, 1820; Pub. L. 103–82, title III, §323, title IV, §405(a)(2)–(4), Sept. 21, 1993, 107 Stat. 899, 920; Pub. L. 103–304, §3(b)(7), (8), Aug. 23, 1994, 108 Stat. 1568; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(36)(A), (f)(28)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–427, 2681–434; Pub. L. 111–13, title II, §2102, Apr. 21, 2009, 123 Stat. 1582; Pub. L. 113–128, title V, §512(h), July 22, 2014, 128 Stat. 1708.)
+(Pub. L. 93–113, title I, §103, Oct. 1, 1973, 87 Stat. 396; Pub. L. 96–143, §2, Dec. 13, 1979, 93 Stat. 1074; Pub. L. 98–288, §4(a)–(c)(1), (d), May 21, 1984, 98 Stat. 189, 190; Pub. L. 99–551, §3(a), Oct. 27, 1986, 100 Stat. 3071; Pub. L. 101–204, title I, §101(a), (b), (d)(2), title VII, §701, Dec. 7, 1989, 103 Stat. 1807, 1809, 1811, 1820; Pub. L. 103–82, title III, §323, title IV, §405(a)(2)–(4), Sept. 21, 1993, 107 Stat. 899, 920; Pub. L. 103–304, §3(b)(7), (8), Aug. 23, 1994, 108Stat. 1568; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(36)(A), (f)(28)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–427, 2681–434; Pub. L. 111–13, title II, §2102, Apr. 21, 2009, 123 Stat. 1582; Pub. L. 113–128, title V, §512(h), July 22, 2014, 128 Stat. 1708.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -172,7 +174,7 @@ Subsec. (i). Pub. L. 111–13, §2102(6), added subsec. (i).
 
 <b>1998</b>—Subsec. (d). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(28)(A)\], which directed amendment of the second sentence to read "private industry council established under the Job Training Partnership Act or", was not executed, to reflect the probable intent of Congress and subsequent amendment by Pub. L. 111–13, §2102(4).
 
-Pub. L. 105–277, §101(f) \[title VIII, §405(d)(36)(A)\], substituted "Whenever feasible, such efforts shall be coordinated with an appropriate private industry council established under the Job Training Partnership Act or local workforce investment board established under section 2832 of title 29." for "Whenever feasible, such efforts shall be coordinated with an appropriate private industry council under the Job Training Partnership Act."
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(36)(A)\], substituted "Whenever feasible, such efforts shall be coordinated with an appropriate private industry councilestablished under the Job Training Partnership Act or local workforce investment board established under section 2832 of title 29." for "Whenever feasible, such efforts shall be coordinated with an appropriate private industry council under the Job Training Partnership Act."
 
 <b>1994</b>—Subsec. (b)(5), (6). Pub. L. 103–304, §3(b)(7), redesignated par. (6) as (5).
 
@@ -212,7 +214,7 @@ Pub. L. 103–82, §323(b)(2), (3), redesignated par. (5) as (4) and struck out 
 
 &emsp;&emsp;"(ii) the particular project or program to which the applicant prefers to be assigned."
 
-Subsec. (b)(5) to (7). Pub. L. 103–82, §323(b)(2), (3), redesignated pars. (5) and (7) as (4) and (6), respectively, and struck out former par. (6) which read as follows: "Completed applications received by the ACTIONAgency shall be forwarded to the regional ACTION office representing the State in which such applicant resides. The regional or State employees designated in subparagraphs (C) and (D) of paragraph (2) shall assist in evaluating such applications and, to the extent feasible and appropriate, interviewing applicants."
+Subsec. (b)(5) to (7). Pub. L. 103–82, §323(b)(2), (3), redesignated pars. (5) and (7) as (4) and (6), respectively, and struck out former par. (6) which read as follows: "Completed applications received by the ACTION Agency shall be forwarded to the regional ACTION office representing the State in which such applicant resides. The regional or State employees designated in subparagraphs (C) and (D) of paragraph (2) shall assist in evaluating such applications and, to the extent feasible and appropriate, interviewing applicants."
 
 Subsec. (c)(1). Pub. L. 103–82, §323(c)(1)(A), (B), in introductory provisions, substituted "personnel described in subsection (b)(2)(C)" for "regional or State employees designated in subparagraphs (C) and (D) of subsection (b)(2)" and "Such activities may include" for "Such activities shall include".
 
@@ -260,9 +262,11 @@ Subsec. (f). Pub. L. 98–288, §4(c)(1)(A), (d), redesignated subsec. (d) as (f
 
 Subsec. (d). Pub. L. 96–143, §2(b), inserted "in a program or project" after "work" and "or project" after "program" and inserted provisions requiring notification by a Governor or other chief executive officer to the Director that such Governor or other chief executive officer has disapproved a program or project under this section and requiring the Director to terminate a program or project under this section in the event of a timely request by the Governor or other chief executive officer not later than 30 days after the date such request is received or at such date agreed upon by the Director and such Governor or other chief executive officer.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set outas an Effective Date note under section 3101 of Title 29, Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 
 #### Effective Date of 2009 Amendment
 

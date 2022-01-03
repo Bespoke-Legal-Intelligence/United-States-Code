@@ -48,7 +48,7 @@ Inspector general action.—
 
 &emsp;&emsp;(A)
 
-Determination or submission of report on findings.—Except as provided under subparagraph (B), the Inspector General shall make a determination that a complaint is frivolous, fails to allege a violation of the prohibition in subsection (a), or has previously been addressed in another Federal or State judicial or administrative proceeding initiated by the complainant or submit a report under paragraph (1) within 180 days after receiving the complaint.
+Determination or submission of report on findings.—Except as provided undersubparagraph (B), the Inspector General shall make a determination that a complaint is frivolous, fails to allege a violation of the prohibition in subsection (a), or has previously been addressed in another Federal or State judicial or administrative proceeding initiated by the complainant or submit a report under paragraph (1) within 180 days after receiving the complaint.
 
 &emsp;&emsp;(B)
 
@@ -104,7 +104,7 @@ Burdens of proof.—The legal burdens of proof specified in section 1221(e) of t
 
 &emsp;(7)
 
-Rights and remedies not waivable.—The rights and remedies provided for in this section may not be waived by any agreement, policy, form, or condition of employment.
+Rights and remedies not waivable.—The rights and remedies provided for in thissection may not be waived by any agreement, policy, form, or condition of employment.
 
 (d)
 
@@ -112,7 +112,7 @@ Notification of Employees.—The head of each executive agency shall ensure that
 
 (e)
 
-Construction.—Nothing in this section may be construed to authorize the discharge of,demotion of, or discrimination against an employee for a disclosure other than a disclosure protected by subsection (a) or to modify or derogate from a right or remedy otherwise available to the employee.
+Construction.—Nothing in this section may be construed to authorize the discharge of, demotion of, or discrimination against an employee for a disclosure other than a disclosure protected by subsection (a) or to modify or derogate from a right or remedy otherwise available to the employee.
 
 (f)
 

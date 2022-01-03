@@ -8,7 +8,7 @@ In addition to the penalty imposed by section 7203 (relating to willful failure 
 
 &emsp;(2) files a return or a report which fails to show the information required under section 6031 or 6226(b)(4)(A), respectively,
 
-> such partnership shall be liable for a penalty determined under subsection (b) for each month (or fraction thereof) during which such failure continues (but not to exceed 12 months), unless it is shown that such failure is due to reasonable cause.
+> such partnership shall be liable for a penalty determined under subsection (b) for each month\(or fraction thereof) during which such failure continues (but not to exceed 12 months), unless it is shown that such failure is due to reasonable cause.
 
 #### (b) Amount per month
 
@@ -42,6 +42,8 @@ Subchapter B of chapter 63 (relating to deficiency procedures for income, estate
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Another section 6698, formerly section 6694, relating to failure to file information with respect to carryover basis property, which was added by Pub. L. 94–455, §2005(d)(2), was renumbered section 6698 by Pub. L. 95–600, renumbered section 6698A by Pub. L. 96–222, and repealed by Pub. L. 96–223.
@@ -69,6 +71,8 @@ Subsec. (e)(1). Pub. L. 115–141, §401(a)(299)(D), inserted "an amount equal t
 <b>2007</b>—Subsec. (a). Pub. L. 110–142, §8(a), substituted "12 months" for "5 months" in concluding provisions.
 
 Subsec. (b)(1). Pub. L. 110–142, §8(b), substituted "$85" for "$50".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

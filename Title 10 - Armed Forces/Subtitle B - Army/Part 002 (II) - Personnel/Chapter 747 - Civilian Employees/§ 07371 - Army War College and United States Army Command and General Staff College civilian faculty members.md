@@ -16,11 +16,15 @@ Application to Certain Faculty Members.—(1) Except as provided in paragraph (2
 
 (Added Pub. L. 101–189, div. A, title XI, §1124(b)(1), Nov. 29, 1989, 103 Stat. 1558, §4021; amended Pub. L. 107–107, div. A, title X, §1048(c)(12), Dec. 28, 2001, 115 Stat. 1226; renumbered §7371, Pub. L. 115–232, div. A, title VIII, §808(b)(15), Aug. 13, 2018, 132 Stat. 1839.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4021 of this title as this section.
 
 <b>2001</b>—Subsec. (c)(1). Pub. L. 107–107 substituted "November 29, 1989" for "the date of the enactment of this section".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

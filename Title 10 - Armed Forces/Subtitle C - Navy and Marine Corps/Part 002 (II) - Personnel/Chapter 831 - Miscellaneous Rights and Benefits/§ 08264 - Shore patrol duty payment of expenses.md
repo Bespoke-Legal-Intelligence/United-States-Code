@@ -18,9 +18,13 @@ Historical and Revision Notes
 
 Oct. 12, 1949, ch. 681, §506 (less applicability to Coast Guard), 63 Stat. 828.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 6153 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

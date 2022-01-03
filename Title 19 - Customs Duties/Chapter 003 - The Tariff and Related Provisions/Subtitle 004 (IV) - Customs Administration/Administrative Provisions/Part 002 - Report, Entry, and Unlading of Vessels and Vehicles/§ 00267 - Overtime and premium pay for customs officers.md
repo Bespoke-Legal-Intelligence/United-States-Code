@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2) and subsection (c), a customs officer who is officially assigned to perform work in excess of 40 hours in the administrative workweek of the officer or in excess of 8 hours in a day shall be compensated for that work at an hourly rate of pay that is equal to 2 times the hourly rate of the basic pay of the officer. For purposes of this paragraph, the hourly rate of basic pay for a customs officer does not include any premium pay provided for under subsection (b).
+&emsp;Subject to paragraph (2) and subsection (c), a customs officer who is officially assigned to perform work in excess of 40 hours in the administrative workweek of the officer or in excess of 8 hours in a day shall be compensated for that work at an hourly rate of pay that isequal to 2 times the hourly rate of the basic pay of the officer. For purposes of this paragraph, the hourly rate of basic pay for a customs officer does not include any premium pay provided for under subsection (b).
 
 #### (2) Special provisions relating to overtime work on callback basis
 
@@ -82,6 +82,8 @@ As used in this section:
 
 (Feb. 13, 1911, ch. 46, §5, 36 Stat. 901; Feb. 7, 1920, ch. 61, 41 Stat. 402; Pub. L. 91–271, title III, §316, June 2, 1970, 84 Stat. 293; Pub. L. 103–66, title XIII, §13811(a), Aug. 10, 1993, 107 Stat. 668; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section derived from R.S. §2872, as amended by act June 26, 1884, ch. 121, §25, 23 Stat. 59.
@@ -93,6 +95,8 @@ Prior to the general revision of section 5 of act Feb. 13, 1911, by section 1381
 <b>1993</b>—Pub. L. 103–66 amended section generally, substituting provisions relating to overtime and premium pay for customs officers for provisions relating to fixing of working hours and overtime compensation by Secretary of the Treasury.
 
 <b>1970</b>—Pub. L. 91–271 substituted references to the appropriate customs officer for references to the collector of customs wherever appearing, and struck out reference to inspectors, storekeepers, weighers, and other customs officers and employees.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -109,6 +113,10 @@ For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
 
 Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of those officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Customs officers, referred to in this section, were under Department of the Treasury.
 

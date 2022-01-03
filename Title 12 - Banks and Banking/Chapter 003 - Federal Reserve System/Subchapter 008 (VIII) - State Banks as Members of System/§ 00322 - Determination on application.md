@@ -1,6 +1,6 @@
 ### §322. Determination on application
 
-In acting upon such applications the Board of Governors of the Federal Reserve System shallconsider the financial condition of the applying bank, the general character of its management, and whether or not the corporate powers exercised are consistent with the purposes of this chapter.
+In acting upon such applications the Board of Governors of the Federal Reserve System shall consider the financial condition of the applying bank, the general character of its management, and whether or not the corporate powers exercised are consistent with the purposes of this chapter.
 
 (Dec. 23, 1913, ch. 6, §9 (par.), as added June 21, 1917, ch. 32, §3, 40 Stat. 233; amended Aug. 23, 1935, ch. 614, title II, §203(a), 49 Stat. 704.)
 

@@ -54,9 +54,11 @@ As used in this subchapter:
 
 &emsp;&emsp;(ii) designated D613 in the case of cetane number,
 
-> &emsp;(as in effect on October 24, 1992) and shall apply to any grade or type of diesel fuel oils defined in the specification of the American Society for Testing and Materials entitled "Standard Specification for Diesel Fuel Oils" designated D975 (as in effect on October 24, 1992).
+> &emsp;(as in effect on October 24, 1992) and shall apply to any grade or type of diesel fuel oils defined in the specification of the American Society for Testing and Materials entitled "Standard Specification for Diesel Fuel Oils"designated D975 (as in effect on October 24, 1992).
 
 (Pub. L. 95–297, title II, §201, June 19, 1978, 92 Stat. 333; Pub. L. 102–486, title XV, §1501(a)–(c)(1), Oct. 24, 1992, 106 Stat. 2996.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -87,6 +89,8 @@ Par. (11). Pub. L. 102–486, §1501(c)(1)(E), substituted "automotive fuel" for
 Par. (16). Pub. L. 102–486, §1501(c)(1)(F), substituted "automotive fuel" for "gasoline" in two places.
 
 Pars. (17), (18). Pub. L. 102–486, §1501(b), added pars. (17) and (18).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

@@ -64,13 +64,15 @@ Limitation on number and distribution.—There may not be more than 15 Senior Mi
 
 &emsp;(2)
 
-Number in each military department.—Subject to paragraph (1), the number of Senior Military Acquisition Advisors for each military department shall be as required and identified by the service acquisition executive of such military department and approved by theUnder Secretary of Defense for Acquisition and Sustainment.
+Number in each military department.—Subject to paragraph (1), the number of Senior Military Acquisition Advisors for each military department shall be as required and identified by the service acquisition executive of such military department and approved by the Under Secretary of Defense for Acquisition and Sustainment.
 
 (f)
 
 Advice to Service Acquisition Executive.—An officer who is a Senior Military Acquisition Advisor shall have as the officer's primary duty providing strategic, technical, and programmatic advice to the service acquisition executive of the officer's military department on matters pertaining to the Defense Acquisition System, including matters pertaining to procurement, research and development, advanced technology, test and evaluation, production, program management, systems engineering, and lifecycle logistics.
 
 (Added Pub. L. 114–328, div. A, title VIII, §866(a)(1), Dec. 23, 2016, 130 Stat. 2305; amended Pub. L. 116–92, div. A, title VIII, §861(j)(9), title IX, §902(19), Dec. 20, 2019, 133 Stat. 1520, 1545; Pub. L. 116–283, div. A, title IX, §924(b)(28), Jan. 1, 2021, 134 Stat. 3825.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

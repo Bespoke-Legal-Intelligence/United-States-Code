@@ -6,7 +6,7 @@ No person referred to in section 726(f)(8)(C)(i), (ii), or (iii) of this title s
 
 #### (b) Exception
 
-This section shall not apply to claims arising out of the Securities Act of 1933 \[15 U.S.C. 77a etseq.\], the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], or the Constitution or laws of any State, territory, or possession of the United States relating to transactions in securities, which claims are in connection with a public offering under section 1312 of this title.
+This section shall not apply to claims arising out of the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], or the Constitution or laws ofany State, territory, or possession of the United States relating to transactions in securities, which claims are in connection with a public offering under section 1312 of this title.
 
 (Pub. L. 99–509, title IV, §4034, Oct. 21, 1986, 100 Stat. 1909.)
 

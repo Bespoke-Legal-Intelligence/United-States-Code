@@ -110,6 +110,8 @@ For the purpose of applying the Internal Revenue Code of 1939 or the Internal Re
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 919; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 115–141, div. U, title IV, §401(a)(335), (336), Mar. 23, 2018, 132 Stat. 1200.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this title, referred to in subsecs. (a)(1)(A), (5), (6)(A) to (C), (7), (b)(2), (3), is Aug. 16, 1954.
@@ -142,13 +144,13 @@ Subtitles B and C of the Internal Revenue Code of 1939, referred to in subsec. (
 
 Chapter 15 of the Internal Revenue Code of 1939, referred to in subsec. (a)(4), (5), was comprised of sections 2000 to 2199 of former Title 26, Internal Revenue Code. Chapter 15 was repealed by subsec. (a)(5) of this section.
 
-Chapter 26 of the Internal Revenue Code of 1939, referred to in subsec. (a)(4), (5), was comprised of sections2800 to 3195 of former Title 26, Internal Revenue Code. Sections 2800 to 2905, 2908 to 3150, 3152, 3153, 3155 to 3195 were repealed by subsec. (a)(5) of this section. Section 2906 was repealed by act Feb. 21, 1950, ch. 36, §7, 64 Stat. 8. Section 2907 was repealed by act July 22, 1941, ch. 314, §3, 55 Stat. 602. Sections 3151 and 3154 were repealed by act Aug. 23, 1949, ch. 498, §6, 63 Stat. 626.
+Chapter 26 of the Internal Revenue Code of 1939, referred to in subsec. (a)(4), (5), was comprised of sections 2800 to 3195 of former Title 26, Internal Revenue Code. Sections 2800 to 2905, 2908 to 3150, 3152, 3153, 3155 to 3195 were repealed by subsec. (a)(5) of this section. Section 2906 was repealed by act Feb. 21, 1950, ch. 36, §7, 64 Stat. 8. Section 2907 was repealed by act July 22, 1941, ch. 314, §3, 55 Stat. 602. Sections 3151 and 3154 were repealed by act Aug. 23, 1949, ch. 498, §6, 63 Stat. 626.
 
 Chapter 28 of the Internal Revenue Code of 1939, referred to in subsec. (a)(4), (6)(B), (D), was comprised of sections 3300 to 3361 of former Title 26, Internal Revenue Code. Part II of subchapter A of chapter 27 of the Internal Revenue Code of 1939 was comprised of sections 3310 to 3314 of former Title 26.
 
 Subchapter B of chapter 25 of the Internal Revenue Code of 1939, referred to in subsec. (a)(4), (5), was comprised of sections 2720 to 2734 of former Title 26, Internal Revenue Code. Subchapter B of chapter 25 of the Internal Revenue Code of 1939 was repealed by subsec. (a)(5) of this section.
 
-Parts VII and VIII of subchapter A of chapter 27 of the Internal Revenue Code of 1939, referred to in subsec. (a)(4), (5), were comprised of sections 3250 to 3255 and 3260 to 3266, respectively, of former Title 26, Internal Revenue Code. Parts VII and VIII of subchapter A of chapter 27 of the Internal Revenue Code of 1939 were repealed by subsec. (a)(5) of this section.
+Parts VII and VIII of subchapter A of chapter 27 of the Internal Revenue Code of 1939, referred to in subsec.\(a)(4), (5), were comprised of sections 3250 to 3255 and 3260 to 3266, respectively, of former Title 26, Internal Revenue Code. Parts VII and VIII of subchapter A of chapter 27 of the Internal Revenue Code of 1939 were repealed by subsec. (a)(5) of this section.
 
 Section 6416(b)(2)(H), referred to in subsec. (a)(4), was repealed by Pub. L. 98–369, div. A, title VII, §735(c)(13)(B), July 18, 1984, 98 Stat. 984.
 

@@ -14,9 +14,13 @@ Subsection (a) does not apply in the case of an agency or department of the Unit
 
 (Pub. L. 90–321, title VI, §613, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1133; amended Pub. L. 105–347, §4(b), Nov. 2, 1998, 112 Stat. 3210.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Pub. L. 105–347 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 
@@ -24,5 +28,5 @@ Amendment by Pub. L. 105–347 deemed to have same effective date as amendments 
 
 #### Effective Date
 
-Section effective upon the expiration of one hundred and eighty days following Oct. 26, 1970, see section504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, set out as a note under section 1681 of this title.
+Section effective upon the expiration of one hundred and eighty days following Oct. 26, 1970, see section 504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, set out as a note under section 1681 of this title.
 

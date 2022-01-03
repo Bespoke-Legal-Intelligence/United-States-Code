@@ -98,7 +98,7 @@ For the purposes of this part—
 
 &emsp;(B) technical assistance in connection with any such undertaking and technical assistance as described in paragraph (17)(A).
 
-(16) The term "energy conservation project costs" includes only costs incurred in the design, acquisition, construction, and installationof energy conservation measures and technical assistance costs.
+(16) The term "energy conservation project costs" includes only costs incurred in the design, acquisition, construction, and installation of energy conservation measures and technical assistance costs.
 
 (17) The term "technical assistance" means assistance, under rules promulgated by the Secretary, to States, schools, and hospitals—
 
@@ -116,6 +116,8 @@ For the purposes of this part—
 
 (Pub. L. 94–163, title III, §391, as added Pub. L. 95–619, title III, §302(a), Nov. 9, 1978, 92 Stat. 3239; amended Pub. L. 98–454, title VI, §601(e), Oct. 5, 1984, 98 Stat. 1736; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–440, §6(b), Oct. 18, 1990, 104 Stat. 1011; Pub. L. 105–388, §5(a)(9), Nov. 13, 1998, 112 Stat. 3478.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Par. (2)(B). Pub. L. 105–388 substituted a semicolon for period at end.
@@ -131,6 +133,8 @@ Par. (17)(A). Pub. L. 101–440, §6(b)(5), substituted "or energy cost savings"
 <b>1986</b>—Par. (5)(B). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
 <b>1984</b>—Par. (9). Pub. L. 98–454 which directed the amendment of subsec. (a) by inserting reference to the Northern Mariana Islands was executed to par. (9) of this section to reflect the probable intent of Congress, because this section does not contain a subsec. (a).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Separability
 

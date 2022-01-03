@@ -18,6 +18,8 @@
 
 (Added Pub. L. 104–106, div. A, title V, §526(a), Feb. 10, 1996, 110 Stat. 313; amended Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1031(a)(10), Nov. 24, 2003, 117 Stat. 1597; Pub. L. 112–81, div. A, title V, §524, Dec. 31, 2011, 125 Stat. 1401.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Subsec. (b). Pub. L. 112–81 inserted at end "If the determination includes a favorable recommendation for the award of the Medal of Honor, the Secretary of Defense, instead of the Secretary concerned, shall make the submission under this subsection."
@@ -39,6 +41,8 @@ Subsec. (b). Pub. L. 108–136, §1031(a)(10)(A)(ii), substituted "to the reques
 > A notice under paragraph (1) or (4) shall be accompanied by a statement of the reasons for the decision of the Secretary."
 
 <b>1999</b>—Subsec. (b). Pub. L. 106–65 substituted "and the Committee on Armed Services" for "and the Committee on National Security" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Eligibility for Armed Forces Expeditionary Medal for Participation in Operation Joint Endeavor or Operation Joint Guard
 
@@ -78,7 +82,7 @@ Pub. L. 104–106, div. A, title V, §522, Feb. 10, 1996, 110 Stat. 310, provide
 
 Findings.—Congress makes the following findings:
 
-&emsp;"(1) The Ia Drang Valley (Pleiku) campaign, carried out by the Armed Forces in the Ia Drang Valley of Vietnam from October 23, 1965, to November 26, 1965, is illustrative of the many battles during the Vietnam conflict which pitted forces of the United States against North Vietnamese Army regulars and Viet Cong in vicious fighting.
+&emsp;"(1) The Ia Drang Valley (Pleiku) campaign, carried out by the Armed Forces in the Ia Drang Valley ofVietnam from October 23, 1965, to November 26, 1965, is illustrative of the many battles during the Vietnam conflict which pitted forces of the United States against North Vietnamese Army regulars and Viet Cong in vicious fighting.
 
 &emsp;"(2) Accounts of those battles that have been published since the end of that conflict authoritatively document numerous and repeated acts of extraordinary heroism, sacrifice, and bravery on the part of members of the Armed Forces, many of which have never been officially recognized.
 
@@ -108,7 +112,7 @@ Review of Requests for Consideration of Awards.—(1) The Secretary of each mili
 
 "(d)
 
-Report.—(1) Upon completing the review of each such request under subsection (c), the Secretary shallsubmit a report on the review to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\].
+Report.—(1) Upon completing the review of each such request under subsection (c), the Secretary shall submit a report on the review to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\].
 
 "(2) The report shall include, with respect to each request for consideration received, the following information:
 
@@ -164,7 +168,7 @@ Definition.—For purposes of this section, the term 'active duty' has the meani
 
 #### Eligibility for Armed Forces Expeditionary Medal Based Upon Service in El Salvador
 
-Section 525 of Pub. L. 104–106 provided that:
+Pub. L. 104–106, div. A, title V, §525, Feb. 10, 1996, 110 Stat. 312, provided that:
 
 "(a)
 

@@ -42,5 +42,5 @@ Subsec. (a)(1). Pub. L. 115–232 substituted "Commandant" for "Commandant of th
 
 #### Effective Date of 2016 Amendment
 
-Amendment by Pub. L. 114–328 effective as if included in the enactment of Pub. L. 114–120, see section 3503(e) of Pub. L. 114–328, set out as a note under section 315 of this title.
+Amendment by Pub. L. 114–328 effective as if included in the enactment of Pub. L. 114–120, see section 3503(e)of Pub. L. 114–328, set out as a note under section 315 of this title.
 

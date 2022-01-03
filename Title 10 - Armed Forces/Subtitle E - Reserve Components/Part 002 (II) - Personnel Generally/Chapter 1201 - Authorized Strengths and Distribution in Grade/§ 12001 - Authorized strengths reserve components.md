@@ -6,9 +6,13 @@
 
 (Added Pub. L. 103–337, div. A, title XVI, §1662(a)(1), Oct. 5, 1994, 108 Stat. 2983.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in sections 3221, 3224, 5413, 5456, 8221, and 8224 of this title, prior to repeal by Pub. L. 103–337, §1662(a)(3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -162,7 +166,7 @@ Action on the Basis of Program Results.—Based on the experience under the pilo
 
 Pub. L. 98–525, title V, §552(a)–(e), (g), Oct. 19, 1984, 98 Stat. 2530, as amended by Pub. L. 103–337, div. A, title XVI, §1661(a)(3)(B), Oct. 5, 1994, 108 Stat. 2980, provided that:
 
-"(a)(1) The Secretary of Defense shall conduct a review of the various systems used to measure the readiness of reserve units of the Armed Forces and shall implement a measurement system for the active and reserve components of the Armed Forces to provide an objective and uniform evaluation of the readiness of all units of the Armed Forces. The measurement system should be designed to produce information adequate to provide comparisons concerning the readiness of all units. The system for evaluation of the readiness of aunit of an active component should incorporate the performance of any unit of a reserve component affiliated with the active component unit, including the effect of the reserve component unit on the mobilization capability of the active component unit.
+"(a)(1) The Secretary of Defense shall conduct a review of the various systems used to measure the readiness of reserve units of the Armed Forces and shall implement a measurement system for the active and reserve components of the Armed Forces to provide an objective and uniform evaluation of the readiness of all units of the Armed Forces. The measurement system should be designed to produce information adequate to provide comparisons concerning the readiness of all units. The system for evaluation of the readiness of a unit of an active component should incorporate the performance of any unit of a reserve component affiliated with the active component unit, including the effect of the reserve component unit on the mobilization capability of the active component unit.
 
 "(2) Not later than March 31, 1985, the Secretary shall submit a report to the Committees on Armed Services of the Senate and House of Representatives describing the results of the review under paragraph (1) and the measurement system implemented in accordance with that paragraph.
 

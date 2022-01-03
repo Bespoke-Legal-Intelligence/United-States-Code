@@ -22,7 +22,7 @@ As used in this section:
 
 #### (b) Establishment and management
 
-At the request of the Governor, the Secretary shall establish and administer within the State a Hawaii Experimental Tropical Forest. The Forest shall be managed as—
+At the request of the Governor, the Secretary shall establish and administer within the Statea Hawaii Experimental Tropical Forest. The Forest shall be managed as—
 
 &emsp;(1) a model of quality tropical forest management where harvesting on a sustainable yield basis can be demonstrated in balance with natural resource conservation;
 
@@ -69,6 +69,8 @@ At the request of the Governor, the Secretary shall establish and administer wit
 &emsp;Nothing in this section is intended to affect the jurisdiction of the State, both civil and criminal, over any person within the Forest by reason of the establishment of the Forest under this section, except in the case of a penalty for an offense against the United States.
 
 (Pub. L. 101–513, title VI, §606, as added Pub. L. 102–574, §2(a)(2), Oct. 29, 1992, 106 Stat. 4594.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

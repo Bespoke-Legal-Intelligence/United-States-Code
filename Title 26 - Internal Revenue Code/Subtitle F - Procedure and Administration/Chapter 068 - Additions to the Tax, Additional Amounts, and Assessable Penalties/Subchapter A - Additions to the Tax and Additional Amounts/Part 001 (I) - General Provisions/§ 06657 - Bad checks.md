@@ -4,6 +4,8 @@ If any instrument in payment, by any commercially acceptable means, of any amoun
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 826; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 100–647, title V, §5071(a), Nov. 10, 1988, 102 Stat. 3681; Pub. L. 110–28, title VIII, §8245(a), May 25, 2007, 121 Stat. 200; Pub. L. 111–198, §3(a), July 2, 2010, 124 Stat. 1356.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–198, §3(a)(2), substituted "such instrument" for "such check" wherever appearing.
@@ -15,6 +17,8 @@ Pub. L. 111–198, §3(a)(1), substituted "If any instrument in payment, by any 
 <b>1988</b>—Pub. L. 100–647 substituted "2" for "1", "$750" for "$500", and "$15" for "$5".
 
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

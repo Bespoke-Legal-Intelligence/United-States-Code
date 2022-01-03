@@ -4,9 +4,13 @@ The Secretary of the Interior is authorized to make such expenditures for constr
 
 (June 7, 1924, ch. 346, §9, 43 Stat. 652; 1939 Reorg. Plan No. II, §4(e), (f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 As originally enacted, this section contained an additional paragraph which appropriated a sum half of which was to be available, until expended, for the expenditures mentioned herein.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

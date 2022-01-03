@@ -28,7 +28,7 @@
 
 #### (B) Requirement of notice to person summoned and to Secretary
 
-&emsp;&emsp;If any person begins a proceeding under subparagraph (A) with respect to any summons, not later than the close of the 20-day period referred to in subparagraph (A) such person shall mail by registered or certified mail a copy of the petition to the person summoned and to such office as the Secretary may direct in the notice referred to in subsection (a)(1).
+&emsp;&emsp;If any person begins a proceeding under subparagraph (A) with respect to any summons, not later than the close of the 20-dayperiod referred to in subparagraph (A) such person shall mail by registered or certified mail a copy of the petition to the person summoned and to such office as the Secretary may direct in the notice referred to in subsection (a)(1).
 
 #### (C) Intervention; etc.
 
@@ -140,6 +140,8 @@ Nothing in this section shall be construed to limit the Secretary's ability to o
 
 (Added Pub. L. 94–455, title XII, §1205(a), Oct. 4, 1976, 90 Stat. 1699; amended Pub. L. 95–599, title V, §505(c)(6), Nov. 6, 1978, 92 Stat. 2760; Pub. L. 95–600, title VII, §703(l)(4), Nov. 6, 1978, 92 Stat. 2943; Pub. L. 96–223, title II, §232(d)(4)(E), Apr. 2, 1980, 94 Stat. 278; Pub. L. 97–248, title III, §§311(b), 331(a)–(d), 332(a), Sept. 3, 1982, 96 Stat. 601, 620, 621; Pub. L. 97–424, title V, §515(b)(12), Jan. 6, 1983, 96 Stat. 2182; Pub. L. 98–369, div. A, title VII, §714(i), title IX, §911(d)(2)(G), July 18, 1984, 98 Stat. 962, 1007; Pub. L. 98–620, title IV, §402(28)(D), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 99–514, title VI, §656(a), title XV, §1561(a), (b), title XVII, §1703(e)(2)(G), Oct. 22, 1986, 100 Stat. 2299, 2761, 2778; Pub. L. 100–647, title I, §§1015(l)(1), (2), 1017(c)(9), (12), Nov. 10, 1988, 102 Stat. 3571, 3572, 3576, 3577; Pub. L. 104–168, title X, §1001(a), July 30, 1996, 110 Stat. 1467; Pub. L. 105–206, title III, §3415(a)–(c), July 22, 1998, 112 Stat. 755; Pub. L. 109–135, title IV, §408(a), Dec. 21, 2005, 119 Stat. 2635; Pub. L. 116–25, title I, §1204(a), July 1, 2019, 133 Stat. 988.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 7609 was renumbered section 7613 of this title.
@@ -246,7 +248,7 @@ Subsec. (b). Pub. L. 97–248, §331(a), (d)(2), substituted "right to proceedin
 
 Subsec. (d). Pub. L. 97–248, §331(b), substituted in par. (1) provision that, no examination of records be made before the close of the 23rd day after the notice of summons, for provision that the examination may not be made before the end of the former 14-day period allowed for notice to be given to the person summoned not to comply, and in par. (2) substituted "where a proceeding under subsection (b)(2)(A) was begun within the 20-day period referred to in such subsection and the requirements of subsection (b)(2)(B) have been met," for "when the requirements of subsection (b)(2) have been met," and "of the court having jurisdiction of such proceeding or with the consent of the person beginning the proceeding to quash" for "issued by a court of competent jurisdiction authorizing examination of such records or with the consent of the person staying compliance".
 
-Subsec. (h). Pub. L. 97–248, §331(c), inserted "; etc." after "court" in heading, in par. (1) added heading and substituted "any proceeding" for "proceedings" after "determine", substituted "subsection (b)(2), (f), or (g)" for "subsections (f) or (g)", designated former second sentence of par. (1) as par. (2) and added heading, redesignated former par. (2) as (3) and in par. (3) as so redesignated, added heading and substituted "all other cases" for "all cases".
+Subsec. (h). Pub. L. 97–248, §331(c), inserted "; etc." after "court" in heading, in par. (1) added heading and substituted "any proceeding" for "proceedings" after"determine", substituted "subsection (b)(2), (f), or (g)" for "subsections (f) or (g)", designated former second sentence of par. (1) as par. (2) and added heading, redesignated former par. (2) as (3) and in par. (3) as so redesignated, added heading and substituted "all other cases" for "all cases".
 
 Subsec. (i). Pub. L. 97–248, §332(a), added subsec. (i).
 
@@ -255,6 +257,8 @@ Subsec. (i). Pub. L. 97–248, §332(a), added subsec. (i).
 <b>1978</b>—Subsec. (c)(1). Pub. L. 95–600 which purported to substitute "6427(f)(2)" for "6427(e)(2)" was not executed in view of the amendment made by Pub. L. 95–599. See below.
 
 Pub. L. 95–599 substituted "6427(g)(2)" for "6427(e)(2)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2019 Amendment
 

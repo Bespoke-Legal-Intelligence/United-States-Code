@@ -34,15 +34,25 @@ Assistance.—The Secretary of Transportation may accept gifts, or enter into co
 
 (e)
 
+Uses.—The results of activities conducted under subsection (b)(1) shall be used to inform—
+
+&emsp;(1) the policy decisions of the United States related to domestic regulations; and
+
+&emsp;(2) the position of the United States on matters before the International Maritime Organization.
+
+(f)
+
 Limitations on the Use of Funds.—Not more than three percent of the funds appropriated to carry out this section may be used for administrative purposes.
 
-(Added Pub. L. 112–213, title IV, §403(a), Dec. 20, 2012, 126 Stat. 1569; amended Pub. L. 116–92, div. C, title XXXV, §3503, Dec. 20, 2019, 133 Stat. 1969; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8504(b), Jan. 1, 2021, 134 Stat. 4747.)
+(Added Pub. L. 112–213, title IV, §403(a), Dec. 20, 2012, 126 Stat. 1569; amended Pub. L. 116–92, div. C, title XXXV, §3503, Dec. 20, 2019, 133 Stat. 1969; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8504(b), Jan. 1, 2021, 134 Stat. 4747; Pub. L. 117–81, div. C, title XXXV, §3514, Dec. 27, 2021, 135 Stat. 2243.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>2021</b>—Subsec. (a). Pub. L. 116–283 substituted "maritime transportation" for "marine transportation".
+
+Subsecs. (e), (f). Pub. L. 117–81 added subsec. (e) and redesignated former subsec. (e) as (f).
 
 <b>2019</b>—Subsec. (a). Pub. L. 116–92, §3503(1), substituted "The Secretary of Transportation, acting through the Maritime Administrator, shall engage in the study" for "The Secretary of Transportation may engage in the environmental study".
 

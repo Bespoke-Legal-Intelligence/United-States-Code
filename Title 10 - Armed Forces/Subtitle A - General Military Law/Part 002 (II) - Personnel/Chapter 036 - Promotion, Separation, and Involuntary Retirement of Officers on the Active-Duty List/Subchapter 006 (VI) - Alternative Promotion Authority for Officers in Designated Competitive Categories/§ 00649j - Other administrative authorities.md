@@ -10,6 +10,8 @@ The following provisions of this title shall apply to officers in competitive ca
 
 (Added Pub. L. 115–232, div. A, title V, §507(a)(1), Aug. 13, 2018, 132 Stat. 1748; amended Pub. L. 116–92, div. A, title XVII, §1731(a)(18), Dec. 20, 2019, 133 Stat. 1813.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Pub. L. 116–92 struck out "(a)

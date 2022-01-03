@@ -90,7 +90,7 @@ Nothing in this subchapter confers upon any person except the Secretary or his o
 
 #### Effective and Termination Dates
 
-Section effective on the date that is 30 days after Dec. 18, 2014, and authority provided under this section to terminate on the date that is 5 years and 3 months after such effective date, see sections 4(a) and 5 of Pub. L. 113–254, set out as notes under section 621 of this title.
+Section effective on the date that is 30 days after Dec. 18, 2014, and authority provided under this section to terminate on July 27, 2023, see sections 4(a) and 5 of Pub. L. 113–254, set out as notes under section 621 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by "the".</i>
 

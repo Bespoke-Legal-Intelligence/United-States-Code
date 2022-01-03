@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(A) may be reappointed by the Director; and
 
-&emsp;&emsp;(B) may serve after the expiration of that Commissioner's term, until a successor hasbeen appointed, for a period not to exceed 1 additional year.
+&emsp;&emsp;(B) may serve after the expiration of that Commissioner's term, until a successor has been appointed, for a period not to exceed 1 additional year.
 
 #### (b) Appointment of Commissioner for Education Statistics
 
@@ -42,6 +42,8 @@ Each Commissioner, except the Commissioner for Education Statistics, shall carry
 
 (Pub. L. 107–279, title I, §117, Nov. 5, 2002, 116 Stat. 1952; Pub. L. 112–166, §2(d)(2), Aug. 10, 2012, 126 Stat. 1284.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Level IV of the Executive Schedule, referred to in subsecs. (a)(2)(A) and (b)(2), is set out in section 5315 of Title 5, Government Organization and Employees.
@@ -49,6 +51,8 @@ Level IV of the Executive Schedule, referred to in subsecs. (a)(2)(A) and (b)(2)
 #### Amendments
 
 <b>2012</b>—Subsec. (b). Pub. L. 112–166 struck out ", by and with the advice and consent of the Senate," after "President" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

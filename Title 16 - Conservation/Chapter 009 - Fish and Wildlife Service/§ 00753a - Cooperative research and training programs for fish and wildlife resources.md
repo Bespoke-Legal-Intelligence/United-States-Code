@@ -4,13 +4,17 @@ For the purpose of developing adequate, coordinated, cooperative research and tr
 
 (Pub. L. 86–686, §1, Sept. 2, 1960, 74 Stat. 733; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; Pub. L. 95–616, §2, Nov. 8, 1978, 92 Stat. 3110.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1978</b>—Pub. L. 95–616, in proviso, substituted "scientific personnel" for "technical personnel" and authorized provision of assistance (including reasonable financial compensation) for the work of researchers on funded fish and wildlife ecology and resource management projects.
 
+#### <b>Executive Documents</b>
+
 #### Transfer of Functions
 
-Reference to Secretary of Commerce and Department of Commerce inserted in view of: creation of National Oceanic and Atmospheric Administration in Department of Commerce and Office of Administrator of such Administration; abolition of Bureau of Commercial Fisheries in Department of the Interior and Office of Director of such Bureau; transfers of functions, including functions formerly vested by law in Secretary of the Interior or Department of the Interior which were administered through Bureau of Commercial Fisheries or were primarily related to such Bureau, exclusive of certain enumerated functions with respect to Great Lakes fishery research, Missouri River Reservoir research, Gulf Breeze Biological Laboratory, and Trans-Alaska pipeline investigations; and transfer of marine sport fish program of Bureau of Sport Fisheries and Wildlife by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, Government Organization and Employees.
+Reference to Secretary of Commerce and Department of Commerce inserted in view of: creation of National Oceanic and Atmospheric Administration in Department of Commerce and Office of Administrator of such Administration; abolition of Bureau of Commercial Fisheries in Department of the Interior and Office of Director of such Bureau; transfers of functions, including functions formerly vested by law in Secretary of the Interior or Department of the Interior which were administered through Bureau of Commercial Fisheries or were primarily related to such Bureau, exclusive of certain enumerated functions with respect to Great Lakes fishery research, Missouri River Reservoir research, Gulf Breeze Biological Laboratory, and Trans-Alaska pipeline investigations; and transfer of marine sport fish program of Bureau of Sport Fisheries andWildlife by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "section".</i>
 

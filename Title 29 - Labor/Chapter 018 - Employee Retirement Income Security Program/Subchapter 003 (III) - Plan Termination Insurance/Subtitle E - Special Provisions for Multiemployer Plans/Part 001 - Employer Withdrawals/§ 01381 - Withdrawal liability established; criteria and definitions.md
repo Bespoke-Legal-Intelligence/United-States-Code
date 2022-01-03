@@ -46,7 +46,7 @@ Liability.—Any withdrawal liability incurred by an employer pursuant to part 1
 
 &emsp;"(2)
 
-Refunds.—Any amounts paid by an employer to a plan sponsor as a result of such withdrawal liability shall be refunded by the plan sponsor to the employer with interest (in accordance with section 401(a)(2) \[26 U.S.C. 401(a)(2)\]), less a reasonableamount for administrative expenses incurred by the plan sponsor (other than legal expenses incurred with respect to the plan) in calculating, assessing, and refunding such amounts.
+Refunds.—Any amounts paid by an employer to a plan sponsor as a result of such withdrawal liability shall be refunded by the plan sponsor to the employer with interest (in accordance with section 401(a)(2) \[26 U.S.C. 401(a)(2)\]), less a reasonable amount for administrative expenses incurred by the plan sponsor (other than legal expenses incurred with respect to the plan) in calculating, assessing, and refunding such amounts.
 
 "(c)
 
@@ -54,7 +54,7 @@ No Increase in Liability.—The amendments made by this section \[amending secti
 
 "(d)
 
-Special Rule for Certain Binding Agreements.—In the case of an employer who, on September 26, 1980, has a binding agreement to withdraw from a multiemployer plan, subsection (a)(1) shall be applied by substituting 'December 31, 1980' for 'September 26, 1980'."
+Special Rule for Certain Binding Agreements.—In the case of an employer who, on September26, 1980, has a binding agreement to withdraw from a multiemployer plan, subsection (a)(1) shall be applied by substituting 'December 31, 1980' for 'September 26, 1980'."
 
 #### Applicability to Certain Employers Withdrawn Before Sept. 26, 1980, From Multiemployer Plan Covering Employees in Seagoing Industry; Effective Date, Coverage, Etc.
 

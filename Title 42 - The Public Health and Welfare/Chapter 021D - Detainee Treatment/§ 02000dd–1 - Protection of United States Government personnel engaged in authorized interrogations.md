@@ -2,7 +2,7 @@
 
 #### (a) Protection of United States Government personnel
 
-In any civil action or criminal prosecution against an officer, employee, member of the Armed Forces, or other agent of the United States Government who is a United States person, arising out of the officer, employee, member of the Armed Forces, or other agent's engaging in specific operational practices, that involve detention and interrogation of aliens who the President or his designees have determined are believed to be engaged in or associated with international terrorist activity that poses a serious, continuing threat to the United States, its interests, or its allies, and that were officially authorized and determined to be lawful at the time that they were conducted, it shall be a defense that such officer, employee, member of the Armed Forces, or other agent did not know that the practices were unlawful and a person of ordinary sense and understanding would not know the practices were unlawful. Good faith reliance on advice of counsel should be an important factor, among others, to consider in assessing whether a person of ordinary sense and understanding would have known the practices tobe unlawful. Nothing in this section shall be construed to limit or extinguish any defense or protection otherwise available to any person or entity from suit, civil or criminal liability, or damages, or to provide immunity from prosecution for any criminal offense by the proper authorities.
+In any civil action or criminal prosecution against an officer, employee, member of the Armed Forces, or other agent of the United States Government who is a United States person, arising out of the officer, employee, member of the Armed Forces, or other agent's engaging in specific operational practices, that involve detention and interrogation of aliens who the President or his designees have determined are believed to be engaged in or associated with international terrorist activity that poses a serious, continuing threat to the United States, its interests, or its allies, and that were officially authorized and determined to be lawful at the time that they were conducted, it shall be a defense that such officer, employee, member of the Armed Forces, or other agent did not know that the practices were unlawful and a person of ordinary sense and understanding would not know the practices were unlawful. Good faith reliance on advice of counsel should be an important factor, among others, to consider in assessing whether a person of ordinary sense and understanding would have known the practices to be unlawful. Nothing in this section shall be construed to limit or extinguish any defense or protection otherwise available to any person or entity from suit, civil or criminal liability, or damages, or to provide immunity from prosecution for any criminal offense by the proper authorities.
 
 #### (b) Counsel
 
@@ -10,9 +10,11 @@ The United States Government shall provide or employ counsel, and pay counsel fe
 
 (Pub. L. 109–148, div. A, title X, §1004, Dec. 30, 2005, 119 Stat. 2740; Pub. L. 109–163, div. A, title XIV, §1404, Jan. 6, 2006, 119 Stat. 3475; Pub. L. 109–366, §8(a), Oct. 17, 2006, 120 Stat. 2636; Pub. L. 110–181, div. A, title X, §1063(d)(1), Jan. 28, 2008, 122 Stat. 323; Pub. L. 110–417, \[div. A\], title X, §1061(b)(10), Oct. 14, 2008, 122 Stat. 4613.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
-Pub. L. 109–148 and Pub. L. 109–163 enacted identical sections. The section enacted by Pub. L. 109–148, but not the section enacted by Pub. L. 109–163, was amended by Pub. L. 109–366, see 2006 Amendment notes below. The text of this section is based on the text of section 1004 of Pub. L. 109–148 as amended by Pub. L. 109–366.
+Pub. L. 109–148 and Pub. L. 109–163 enacted identical sections. The section enacted by Pub. L. 109–148, butnot the section enacted by Pub. L. 109–163, was amended by Pub. L. 109–366, see 2006 Amendment notes below. The text of this section is based on the text of section 1004 of Pub. L. 109–148 as amended by Pub. L. 109–366.
 
 #### Amendments
 
@@ -21,6 +23,8 @@ Pub. L. 109–148 and Pub. L. 109–163 enacted identical sections. The section 
 <b>2006</b>—Subsec. (b). Pub. L. 109–366, §8(a)(3), as amended by Pub. L. 110–181, §1063(d)(1), as amended by Pub. L. 110–417, inserted "whether before United States courts or agencies, foreign courts or agencies, or international courts or agencies," after "described in that subsection,".
 
 Pub. L. 109–366, §8(a)(1), (2), substituted "shall provide" for "may provide" and inserted "or investigation" after "criminal prosecution".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

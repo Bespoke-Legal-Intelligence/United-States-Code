@@ -44,7 +44,7 @@ For purposes of this section:
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), the term "unsecured PHR identifiable health information" means PHR identifiable health information that is not protected through the useof a technology or methodology specified by the Secretary in the guidance issued under section 17932(h)(2) of this title.
+&emsp;&emsp;Subject to subparagraph (B), the term "unsecured PHR identifiable health information" means PHR identifiable health information that is not protected through the use of a technology or methodology specified by the Secretary in the guidance issued under section 17932(h)(2) of this title.
 
 #### (B) Exception in case timely guidance not issued
 
@@ -61,6 +61,8 @@ For purposes of this section:
 &emsp;If Congress enacts new legislation establishing requirements for notification in the case of a breach of security, that apply to entities that are not covered entities or business associates, the provisions of this section shall not apply to breaches of security discovered on or after the effective date of regulations implementing such legislation.
 
 (Pub. L. 111–5, div. A, title XIII, §13407, Feb. 17, 2009, 123 Stat. 269.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

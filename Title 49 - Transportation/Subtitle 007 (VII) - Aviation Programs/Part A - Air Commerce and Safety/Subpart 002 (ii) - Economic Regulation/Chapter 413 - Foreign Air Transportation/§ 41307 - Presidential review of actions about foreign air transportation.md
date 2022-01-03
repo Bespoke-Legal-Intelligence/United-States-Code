@@ -34,6 +34,8 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 19
 
 In this section, before clause (1), the word "cancellation" is omitted as surplus. The word "modify" is added for consistency. The words "and the terms, conditions, and limitations contained in" are omitted as surplus. The words "issued under section 41102 of this title" are added for clarity. The word "provide" is substituted for "engage in" for consistency in the revised title. In clause (1), the words "null and" are omitted as surplus. The word "publishes" is substituted for "issued in a public document" to eliminate unnecessary words. In clause (2)(A), the words "not the President" are omitted as surplus.
 
+#### <b>Executive Documents</b>
+
 #### Executive Order No. 11920
 
 Ex. Ord. No. 11920, June 10, 1976, 41 F.R. 23665, which provided for establishment of Executive branch procedures to facilitate review of submitted decisions, was revoked by Ex. Ord. No. 12547, Feb. 6, 1986, 51 F.R. 5029.

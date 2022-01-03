@@ -184,7 +184,7 @@ In awarding grants under this section, the Secretary shall take into considerati
 
 #### (iii) Secretarial authority to modify distribution requirement
 
-&emsp;&emsp;&emsp;The Secretary may modify the number of vouchers specified in subclauses (I)through (III) of clause (i) to take into account the availability of appropriations and the need to ensure that the vouchers distributed by the entity are for amounts that are adequate to ensure the provision of mentoring services for a 12-month period.
+&emsp;&emsp;&emsp;The Secretary may modify the number of vouchers specified in subclauses (I) through (III) of clause (i) to take into account the availability of appropriations and the need to ensure that the vouchers distributed by the entity are for amounts that are adequate to ensure the provision of mentoring services for a 12-month period.
 
 #### (C) Collaboration and cooperation
 
@@ -270,7 +270,7 @@ In awarding grants under this section, the Secretary shall take into considerati
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall enter into a contract with an independent, private organization to evaluate and prepare a report on the first 2 fiscal years in which the demonstration project is conducted under this subsection.
+&emsp;&emsp;The Secretary shall enter into a contract with an independent, private organization toevaluate and prepare a report on the first 2 fiscal years in which the demonstration project is conducted under this subsection.
 
 #### (B) Deadline for report
 
@@ -332,6 +332,8 @@ In awarding grants under this section, the Secretary shall take into considerati
 
 (Aug. 14, 1935, ch. 531, title IV, §439, as added Pub. L. 107–133, title I, §121, Jan. 17, 2002, 115 Stat. 2419; amended Pub. L. 109–288, §8, Sept. 28, 2006, 120 Stat. 1249.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 September 28, 2006, referred to in subsec. (h)(2), was in the original "the date of enactment of this subsection" and "that date of enactment", which were translated as meaning the date of enactment of Pub. L. 109–288, which amended subsec. (h) of this section generally, to reflect the probable intent of Congress.
@@ -352,7 +354,7 @@ Pub. L. 109–288, §8(a)(1), substituted "2007 through 2011" for "2002 through 
 
 Subsec. (g). Pub. L. 109–288, §8(b)(1)(B), added subsec. (g). Former subsec. (g) redesignated (h).
 
-Subsec. (h). Pub. L. 109–288, §8(b)(2)(C), amended heading and text of subsec. (h) generally. Prior to amendment, text read as follows: "The Secretary shall conduct an evaluation of the programs conducted pursuant to this section, and submit to the Congress not later than April 15, 2005, a report on the findings of the evaluation."
+Subsec. (h). Pub. L. 109–288, §8(b)(2)(C), amended heading and text of subsec. (h) generally. Prior to amendment, text read as follows: "The Secretary shall conduct an evaluation of the programs conducted pursuantto this section, and submit to the Congress not later than April 15, 2005, a report on the findings of the evaluation."
 
 Pub. L. 109–288, §8(b)(1)(A), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
 
@@ -365,6 +367,8 @@ Subsec. (i). Pub. L. 109–288, §8(b)(2)(D)(i), substituted "reservations" for 
 Pub. L. 109–288, §8(b)(1)(A), redesignated subsec. (h) as (i).
 
 Subsec. (i)(2). Pub. L. 109–288, §8(b)(2)(D)(ii), substituted "Reservations" for "Reservation" in heading, designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

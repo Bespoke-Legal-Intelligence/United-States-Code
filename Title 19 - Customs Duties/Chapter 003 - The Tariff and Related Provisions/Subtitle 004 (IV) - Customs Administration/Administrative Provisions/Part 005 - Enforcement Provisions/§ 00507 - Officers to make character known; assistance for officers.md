@@ -12,6 +12,8 @@
 
 (R.S. §3071; Pub. L. 99–570, title III, §3152, Oct. 27, 1986, 100 Stat. 3207–94.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §3071 derived from act July 18, 1866, ch. 201, §10, 14 Stat. 180.

@@ -1,6 +1,6 @@
 ### §290k–5. Applicability of Bretton Woods Agreements Act
 
-The provisions of section 286b of this title shall apply with respect to the Agency to the same extent as with respect to the Bank and the International Monetary Fund.
+The provisions of section 286b of this title shall apply with respect to the Agency to thesame extent as with respect to the Bank and the International Monetary Fund.
 
 (Pub. L. 100–202, §101(e) \[title I\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–134; Pub. L. 101–240, title V, §541(e)(5), Dec. 19, 1989, 103 Stat. 2518.)
 

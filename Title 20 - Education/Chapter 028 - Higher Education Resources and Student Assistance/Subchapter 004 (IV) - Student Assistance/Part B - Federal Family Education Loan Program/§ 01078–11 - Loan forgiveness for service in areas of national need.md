@@ -48,7 +48,7 @@ For purposes of this section, an individual is employed in an area of national n
 
 &emsp;&emsp;&emsp;(i) in an elementary school or secondary school as a teacher of a critical foreign language;
 
-&emsp;&emsp;&emsp;(ii) in an agency of the United States Government in a position that regularly requires the use of such critical foreign language; or
+&emsp;&emsp;&emsp;(ii) in an agency of the United States Government in a position that regularlyrequires the use of such critical foreign language; or
 
 &emsp;&emsp;&emsp;(iii) in an institution of higher education as a faculty member or instructor teaching a critical foreign language.
 
@@ -190,7 +190,7 @@ For purposes of this section, an individual is employed in an area of national n
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), for each school, academic, or calendar year of full-time employment in an area of national need described in subsection (b) that a borrower completes onor after August 14, 2008, the Secretary shall forgive not more than $2,000 of the student loan obligation of the borrower that is outstanding after the completion of each such school, academic, or calendar year of employment, respectively.
+&emsp;Subject to paragraph (2), for each school, academic, or calendar year of full-time employment in an area of national need described in subsection (b) that a borrower completes on or after August 14, 2008, the Secretary shall forgive not more than $2,000 of the student loan obligation of the borrower that is outstanding after the completion of each such school, academic, or calendar year of employment, respectively.
 
 #### (2) Maximum amount
 
@@ -292,7 +292,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(iii) an academic health center that provides nurse training.
 
-&emsp;&emsp;(B) The nurse holds a valid and unrestricted license to practice nursing in theState in which the nurse practices in a clinical setting.
+&emsp;&emsp;(B) The nurse holds a valid and unrestricted license to practice nursing in the State in which the nurse practices in a clinical setting.
 
 &emsp;&emsp;(C) The nurse holds one or more of the following:
 
@@ -338,9 +338,11 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 (Pub. L. 89–329, title IV, §428K, as added Pub. L. 105–244, title IV, §425, Oct. 7, 1998, 112 Stat. 1699; amended Pub. L. 110–315, title IV, §430, Aug. 14, 2008, 122 Stat. 3236; Pub. L. 111–39, title IV, §402(f)(7), July 1, 2009, 123 Stat. 1944; Pub. L. 111–148, title V, §5205(b), Mar. 23, 2010, 124 Stat. 611; Pub. L. 114–95, title IX, §9215(oo)(8), Dec. 10, 2015, 129 Stat. 2180.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-Section 9101 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(5)(A), was amended by Pub. L. 114–95 and, as so amended, is now section 8101 of the Act and no longer defines "highly qualified". A reference in this section to the term "highly qualified" as defined in section 9101 of the Act is to be treated as a reference to such term under such section 9101 as in effect on the day before the date of enactment of Pub. L. 114–95. See section 9214(a)(1) of Pub. L. 114–95, set out as a Use of the Term "Highly Qualified" in Other Laws note under section 1070g–2 of this title.
+Section 9101 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(5)(A), wasamended by Pub. L. 114–95 and, as so amended, is now section 8101 of the Act and no longer defines "highly qualified". A reference in this section to the term "highly qualified" as defined in section 9101 of the Act is to be treated as a reference to such term under such section 9101 as in effect on the day before the date of enactment of Pub. L. 114–95. See section 9214(a)(1) of Pub. L. 114–95, set out as a Use of the Term "Highly Qualified" in Other Laws note under section 1070g–2 of this title.
 
 The Head Start Act, referred to in subsec. (g)(4)(C)(ii), (5)(B), is subchapter B (§635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 
@@ -358,6 +360,8 @@ Subsec. (g). Pub. L. 111–148, §5205(b)(2), added par. (1) and redesignated fo
 
 <b>2008</b>—Pub. L. 110–315 amended section generally. Prior to amendment, section related to loan forgiveness for child care providers.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
@@ -372,7 +376,7 @@ Section effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–24
 
 #### Allied Health Workforce Recruitment and Retention Programs
 
-Pub. L. 111–148, title V, §5205(a), Mar. 23, 2010, 124 Stat. 611, provided that: "The purpose of this section \[amending this section\] is to assure an adequate supply of allied health professionals to eliminate critical allied health workforce shortages in Federal, State,local, and tribal public health agencies or in settings where patients might require health care services, including acute care facilities, ambulatory care facilities, personal residences and other settings, as recognized by the Secretary of Health and Human Services by authorizing an Allied Health Loan Forgiveness Program."
+Pub. L. 111–148, title V, §5205(a), Mar. 23, 2010, 124 Stat. 611, provided that: "The purpose of this section \[amending this section\] is to assure an adequate supply of allied health professionals to eliminate critical allied health workforce shortages in Federal, State, local, and tribal public health agencies or in settings where patients might require health care services, including acute care facilities, ambulatory care facilities, personal residences and other settings, as recognized by the Secretary of Health and Human Services by authorizing an Allied Health Loan Forgiveness Program."
 
 \[For definition of "Allied Health Loan Forgiveness Program" as used in section 5205(a) of Pub. L. 111–148, set out above, see section 5002(a) of Pub. L. 111–148, set out as a note under section 294q of Title 42, The Public Health and Welfare.\]
 

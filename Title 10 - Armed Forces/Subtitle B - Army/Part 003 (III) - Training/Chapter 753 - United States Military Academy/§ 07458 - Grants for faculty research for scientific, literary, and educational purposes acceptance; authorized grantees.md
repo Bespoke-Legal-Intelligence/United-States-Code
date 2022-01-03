@@ -26,9 +26,13 @@ Regulations.—The Secretary of the Army shall prescribe regulations for the adm
 
 (Added Pub. L. 105–261, div. A, title X, §1063(a)(1), Oct. 17, 1998, 112 Stat. 2130, §4358; renumbered §7458, Pub. L. 115–232, div. A, title VIII, §808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4358 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

@@ -28,11 +28,15 @@ June 28, 1950, ch. 383, §309, 64 Stat. 270.
 
 The words "authorized by section 21f of this title", "as now or hereafter provided by law", and "and commissioned \* \* \* or in any component thereof" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232, §808(a), renumbered section 3073 of this title as this section.
 
 Pub. L. 115–232, §510(a), designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

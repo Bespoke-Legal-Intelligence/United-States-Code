@@ -48,11 +48,15 @@ Sept. 9, 1966, Pub. L. 89–563, §120, 80 Stat. 728; May 22, 1970, Pub. L. 91�
 
 Oct. 31, 1988, Pub. L. 100–562, §2(e)(4), 102 Stat. 2825.
 
-In subsection (a), before clause (1), the words "prepare and", "comprehensive", and "but not be restrictedto" are omitted as unnecessary. In clause (1), the words "occurring in such year" are omitted as surplus. In clause (2), the words "in such year" are omitted as surplus. The words "under this chapter" are substituted for "Federal" for consistency in this chapter. In clause (3), the words "applicable Federal motor vehicle" are omitted as surplus. In clause (4), the word "all" is omitted as surplus. In clause (5), the words "including relevant policy recommendations" and "during such year" are omitted as surplus. In clause (6), the words "a statement of . . . including judicial decisions, settlements, or pending litigation during such year" are omitted as surplus. In clause (7), the word "motoring" is omitted as surplus. In clause (8), the words "The report required by subsection (a) of this section shall contain such" are omitted because of the restatement. The words "additional . . . as the Secretary deems" and "several" are omitted as surplus.
+In subsection (a), before clause (1), the words "prepare and", "comprehensive", and "but not be restricted to" are omitted as unnecessary. In clause (1), the words "occurring in such year" are omitted as surplus. In clause (2), the words "in such year" are omitted as surplus. The words "under this chapter" are substitutedfor "Federal" for consistency in this chapter. In clause (3), the words "applicable Federal motor vehicle" are omitted as surplus. In clause (4), the word "all" is omitted as surplus. In clause (5), the words "including relevant policy recommendations" and "during such year" are omitted as surplus. In clause (6), the words "a statement of . . . including judicial decisions, settlements, or pending litigation during such year" are omitted as surplus. In clause (7), the word "motoring" is omitted as surplus. In clause (8), the words "The report required by subsection (a) of this section shall contain such" are omitted because of the restatement. The words "additional . . . as the Secretary deems" and "several" are omitted as surplus.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 Section 2(e)(1)(B) of the Imported Vehicle Safety Compliance Act of 1988, referred to in subsec. (b), is section 2(e)(1)(B) of Pub. L. 100–562, which was set out as a note under section 1397 of Title 15, Commerce and Trade, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Reporting Requirements
 

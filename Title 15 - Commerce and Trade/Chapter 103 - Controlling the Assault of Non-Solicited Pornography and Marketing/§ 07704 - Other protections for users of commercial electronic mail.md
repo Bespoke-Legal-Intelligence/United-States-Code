@@ -14,7 +14,7 @@
 
 #### (2) Prohibition of deceptive subject headings
 
-&emsp;It is unlawful for any person to initiate the transmission to a protected computer of a commercial electronic mail message if such person has actual knowledge, or knowledge fairly implied on the basis of objective circumstances, that a subject heading of the message would be likely to mislead a recipient, acting reasonably under the circumstances, about a material fact regarding the contents or subject matter of the message (consistentwith the criteria used in enforcement of section 45 of this title).
+&emsp;It is unlawful for any person to initiate the transmission to a protected computer of a commercial electronic mail message if such person has actual knowledge, or knowledge fairly implied on the basis of objective circumstances, that a subject heading of the message would be likely to mislead a recipient, acting reasonably under the circumstances, about a material fact regarding the contents or subject matter of the message (consistent with the criteria used in enforcement of section 45 of this title).
 
 #### (3) Inclusion of return address or comparable mechanism in commercial electronic mail
 
@@ -50,7 +50,7 @@
 
 #### (B) Subsequent affirmative consent
 
-&emsp;&emsp;A prohibition in subparagraph (A) does not apply if there is affirmative consent by the recipient subsequent to the request under subparagraph (A).
+&emsp;&emsp;A prohibition in subparagraph (A) does not apply if there is affirmative consent by therecipient subsequent to the request under subparagraph (A).
 
 #### (5) Inclusion of identifier, opt-out, and physical address in commercial electronic mail
 
@@ -74,7 +74,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;It is unlawful for any person to initiate the transmission, to a protected computer, of a commercial electronic mail messagethat is unlawful under subsection (a), or to assist in the origination of such message through the provision or selection of addresses to which the message will be transmitted, if such person had actual knowledge, or knowledge fairly implied on the basis of objective circumstances, that—
+&emsp;&emsp;It is unlawful for any person to initiate the transmission, to a protected computer, of a commercial electronic mail message that is unlawful under subsection (a), or to assist in the origination of such message through the provision or selection of addresses to which the message will be transmitted, if such person had actual knowledge, or knowledge fairly implied on the basis of objective circumstances, that—
 
 &emsp;&emsp;&emsp;(i) the electronic mail address of the recipient was obtained using an automated means from an Internet website or proprietary online service operated by another person, and such website or online service included, at the time the address was obtained, a notice stating that the operator of such website or online service will not give, sell, or otherwise transfer addresses maintained by such website or online service to any other party for the purposes of initiating, or enabling others to initiate, electronic mail messages; or
 
@@ -140,9 +140,13 @@ The Commission shall by regulation, pursuant to section 7711 of this title—
 
 (Pub. L. 108–187, §5, Dec. 16, 2003, 117 Stat. 2706.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (a)(4)(A)(iv), was in the original "this Act", meaning Pub. L. 108–187, Dec. 16, 2003, 117 Stat. 2699, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

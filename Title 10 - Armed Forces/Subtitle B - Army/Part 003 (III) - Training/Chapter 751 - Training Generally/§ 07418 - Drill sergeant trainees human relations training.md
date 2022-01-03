@@ -10,9 +10,13 @@ Resources.—In developing a human relations course under this section, the Secr
 
 (Added Pub. L. 105–85, div. A, title V, §557(a)(1), Nov. 18, 1997, 111 Stat. 1750, §4318; renumbered §7418, Pub. L. 115–232, div. A, title VIII, §808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4318 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 
@@ -40,7 +44,7 @@ Measures To Be Taken.—As part of such reform, the Secretary shall undertake th
 
 &emsp;&emsp;"(B) whether duty as a drill sergeant is a career-enhancing assignment (or is seen by potential drill sergeant candidates as a career-enhancing assignment) and what steps could be taken to ensure that such duty is in fact a career-enhancing assignment.
 
-&emsp;"(2) Incorporate into the selection process for all drill sergeants the views and recommendations of the officers and senior noncommissioned officers in the chain of command of each candidate for selection\(particularly those of senior noncommissioned officers) regarding the candidate's suitability and qualifications to be a drill sergeant.
+&emsp;"(2) Incorporate into the selection process for all drill sergeants the views and recommendations of the officers and senior noncommissioned officers in the chain of command of each candidate for selection (particularly those of senior noncommissioned officers) regarding the candidate's suitability and qualifications to be a drill sergeant.
 
 &emsp;"(3) Establish a requirement for psychological screening for each drill sergeant candidate.
 

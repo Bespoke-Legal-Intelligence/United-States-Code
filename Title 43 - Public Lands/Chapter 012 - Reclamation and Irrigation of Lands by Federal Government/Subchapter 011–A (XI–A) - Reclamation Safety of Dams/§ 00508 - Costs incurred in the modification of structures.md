@@ -36,7 +36,7 @@ The Secretary is authorized to negotiate appropriate contracts with project bene
 
 #### References in Text
 
-The $100,000,000 authorized to be appropriated in the Reclamation Safety of Dams Act of 1978, referred to in subsec. (b), probably refers to the authorization originally contained in section 509 of this title. See 1984 Amendment note set out under section 509 of this title.
+The $100,000,000 authorized to be appropriated in the Reclamation Safety of Dams Act of 1978, referred to insubsec. (b), probably refers to the authorization originally contained in section 509 of this title. See 1984 Amendment note set out under section 509 of this title.
 
 The Federal Reclamation law, referred to in subsec. (b), probably means act June 17, 1902, ch. 1093, 32 Stat. 388, and Acts amendatory thereof and supplementary thereto. See section 506 of this title. Act June 17, 1902, popularly known as the Reclamation Act, is classified generally to this chapter. For complete classification of act June 17, 1902, to the Code, see Short Title note set out under section 371 of this title and Tables.
 

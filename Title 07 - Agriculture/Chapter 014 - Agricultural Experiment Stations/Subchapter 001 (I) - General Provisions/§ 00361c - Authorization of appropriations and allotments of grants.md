@@ -6,7 +6,7 @@ There are authorized to be appropriated for the purposes of sections 361a to 361
 
 #### (b) Allotments to States; authorization of appropriations for Virgin Islands and Guam; limitation
 
-(1) Out of such sums each State shall be entitled to receive annually a sum of money equal to and subject to the same requirement as to use for marketing research projects as the sums received from Federal appropriations for State agricultural experiment stations for the fiscal year 1955, except that amounts heretofore made available from the fund known as the "Regional research fund, Office of Experiment Stations"shall continue to be available for the support of cooperative regional projects as defined in subsection (c)(3), and the said fund shall be designated "Regional research fund, State agricultural experiment stations," and the Secretary of Agriculture shall be entitled to receive annually for the administration of sections 361a to 361i of this title, a sum not less than that available for this purpose for the fiscal year ending June 30, 1955: <i>Provided</i>, That if the appropriations hereunder available for distribution in any fiscal year are less than those for the fiscal year 1955 the allotment to each State and the amounts for Federal administration and the regional research fund shall be reduced in proportion to the amount of such reduction.
+(1) Out of such sums each State shall be entitled to receive annually a sum of money equal to and subject to the same requirement as to use for marketing research projects as the sums received from Federal appropriations for State agricultural experiment stations for the fiscal year 1955, except that amounts heretofore made available from the fund known as the "Regional research fund, Office of Experiment Stations" shall continue to be available for the support of cooperative regional projects as defined in subsection (c)(3), and the said fund shall be designated "Regional research fund, State agricultural experiment stations," and the Secretary of Agriculture shall be entitled to receive annually for the administration of sections 361a to 361i of this title, a sum not less than that available for this purpose for the fiscal year ending June 30, 1955: <i>Provided</i>, That if the appropriations hereunder available for distribution in any fiscal year are less than those for the fiscal year 1955 the allotment to each State and the amounts for Federal administration and the regional research fund shall be reduced in proportion to the amount of such reduction.
 
 (2) There is authorized to be appropriated for the fiscal year ending June 30, 1973, and for each fiscal year thereafter, for payment to the Virgin Islands and Guam, $100,000 each, which sums shall be in addition to the sums appropriated for the several States of the United States and Puerto Rico under the provisions of this section. The amount paid by the Federal Government to the Virgin Islands and Guam pursuant to this paragraph shall not exceed during any fiscal year, except the fiscal years ending June 30, 1971, and June 30, 1972, when such amount may be used to pay the total cost of providing services pursuant to sections 361a to 361i of this title, the amount available and budgeted for expenditure by the Virgin Islands and Guam for the purposes of such sections.
 
@@ -30,7 +30,7 @@ Any sums made available by the Congress in addition to those provided for in sub
 
 #### (2) Failure to provide matching funds
 
-&emsp;If a State fails to comply with the requirement to provide matching funds for a fiscal year under paragraph (1), the Secretary of Agriculture shall withhold from payment to the State for that fiscal year an amount equal to the difference between—
+&emsp;If a State fails to comply with the requirement to provide matching funds for a fiscalyear under paragraph (1), the Secretary of Agriculture shall withhold from payment to the State for that fiscal year an amount equal to the difference between—
 
 &emsp;&emsp;(A) the amount that would be allotted and paid to the State under subsections (b) and (c) (if the full amount of matching funds were provided by the State); and
 
@@ -112,6 +112,8 @@ Research carried out under subsection (c)(3) shall be subject to scientific peer
 
 (Mar. 2, 1887, ch. 314, §3, 24 Stat. 441; Aug. 11, 1955, ch. 790, §1, 69 Stat. 671; Pub. L. 92–318, title V, §506(l), June 23, 1972, 86 Stat. 351; Pub. L. 95–113, title XIV, §1466, Sept. 29, 1977, 91 Stat. 1018; Pub. L. 97–98, title XIV, §1442(a), Dec. 22, 1981, 95 Stat. 1321; Pub. L. 101–624, title XVI, §1618(a), Nov. 28, 1990, 104 Stat. 3733; Pub. L. 104–127, title VIII, §869, Apr. 4, 1996, 110 Stat. 1175; Pub. L. 105–185, title I, §104, title II, §§203(a), 204(a), June 23, 1998, 112 Stat. 529, 533, 535; Pub. L. 105–277, div. A, §101(a) \[title VII, §753(d)\], Oct. 21, 1998, 112 Stat. 2681, 2681–33; Pub. L. 107–171, title VII, §7213(a), May 13, 2002, 116 Stat. 448; Pub. L. 110–234, title VII, §7404(a), May 22, 2008, 122 Stat. 1246; Pub. L. 110–246, §4(a), title VII, §7404(a), June 18, 2008, 122 Stat. 1664, 2008; Pub. L. 115–334, title VII, §7612(b)(1), Dec. 20, 2018, 132 Stat. 4832.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Act of July 2, 1862, referred to in subsec. (i)(1), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the "Morrill Act" and also as the "First Morrill Act", which is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
@@ -126,7 +128,7 @@ Prior to being amended generally by act Aug. 11, 1955, ch. 790, §1, 69 Stat. 67
 
 <b>2018</b>—Subsec. (h). Pub. L. 115–334, §7612(b)(1)(A), amended subsec. (h) generally. Prior to amendment, subsec. (h) related to peer review and plan of work.
 
-Subsec. (i)(2)(D). Pub. L. 115–334, §7612(b)(1)(B), struck out subpar. (D). Prior to amendment, text read as follows: "The State shall include in the plan of work of the State required under section 361g of this title orsection 344 of this title, as applicable, a description of the manner in which the State will meet the requirements of this paragraph."
+Subsec. (i)(2)(D). Pub. L. 115–334, §7612(b)(1)(B), struck out subpar. (D). Prior to amendment, text read as follows: "The State shall include in the plan of work of the State required under section 361g of this title or section 344 of this title, as applicable, a description of the manner in which the State will meet the requirements of this paragraph."
 
 <b>2008</b>—Subsec. (d)(4). Pub. L. 110–246, §7404(a)(1), inserted "and the District of Columbia" after "areas" in heading.
 
@@ -171,6 +173,8 @@ Subsec. (c)(5). Pub. L. 95–113, §1466(b), inserted provision authorizing the 
 <b>1972</b>—Subsec. (b). Pub. L. 92–318 designated existing provisions as par. (1) and added par. (2).
 
 <b>1955</b>—Act Aug. 11, 1955, amended section generally to authorize appropriations and to provide for allotment of grants. For provisions which related to advice and assistance by the Secretary of Agriculture, see section 361g of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

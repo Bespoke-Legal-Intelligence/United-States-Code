@@ -3,9 +3,11 @@
 | Sec. |  |
 | :--- | ---: |
 | [631\.](%C2%A7%2000631%20-%20Gain%20or%20loss%20in%20the%20case%20of%20timber%2C%20coal%2C%20or%20domestic%20iron%20ore.md) | Gain or loss in the case of timber, coal, or domestic iron ore. |
-| \[632. | Repealed.\] |
+| \[632. | Repealed.\]<br> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

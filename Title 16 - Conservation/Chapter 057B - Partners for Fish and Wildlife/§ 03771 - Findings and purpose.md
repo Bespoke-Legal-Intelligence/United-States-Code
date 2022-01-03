@@ -14,7 +14,7 @@ Congress finds that—
 
 &emsp;(5) durable partnerships working collaboratively with willing private landowners to implement on-the-ground projects has lead to the reduction of endangered species listings;
 
-&emsp;(6) Executive Order No. 13352 (69 Fed. Reg. 52989) directs the Departments of the Interior,Agriculture, Commerce, and Defense and the Environmental Protection Agency to pursue new cooperative conservation programs involving the collaboration of Federal, State, local, and tribal governments, private for-profit and non-profit institutions, non-governmental entities, and individuals;
+&emsp;(6) Executive Order No. 13352 (69 Fed. Reg. 52989) directs the Departments of the Interior, Agriculture, Commerce, and Defense and the Environmental Protection Agency to pursue new cooperative conservation programs involving the collaboration of Federal, State, local, and tribal governments, private for-profit and non-profit institutions, non-governmental entities, and individuals;
 
 &emsp;(7) since 1987, the Partners for Fish and Wildlife Program has exemplified cooperative conservation as an innovative, voluntary partnership program that helps private landowners restore wetland and other important fish and wildlife habitat; and
 
@@ -26,9 +26,13 @@ The purpose of this chapter is to provide for the restoration, enhancement, and 
 
 (Pub. L. 109–294, §2, Oct. 3, 2006, 120 Stat. 1351.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Executive Order No. 13352, referred to in subsec. (a)(6), is Ex. Ord. No. 13352, Aug. 26, 2004, 69 F.R. 52989, which is set out as a note under section 4332 of Title 42, The Public Health and Welfare.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

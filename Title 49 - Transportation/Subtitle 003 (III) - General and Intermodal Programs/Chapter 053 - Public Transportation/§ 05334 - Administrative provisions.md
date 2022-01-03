@@ -46,7 +46,7 @@ Procedures for Prescribing Regulations.—(1) The Secretary shall prepare an age
 
 (3) An emergency regulation ends 120 days after it is issued.
 
-(4) The Secretary shall comply with this subsection when proposing or carrying out a regulation governing an activity under this chapter, except for a routine matter or a matter with no significant impact.
+(4) The Secretary shall comply with this subsection when proposing or carrying out a regulation governing an activity under this chapter,except for a routine matter or a matter with no significant impact.
 
 (d)
 
@@ -74,33 +74,89 @@ Dealing With Acquired Property.—Notwithstanding another law related to the Gov
 
 (h)
 
-Transfer of Assets No Longer Needed.—(1) If a recipient of assistance under this chapter decides an asset acquired under this chapter at least in part with that assistance is no longer needed for the purpose for which it was acquired, the Secretary may authorize the recipient to transfer the asset to a local governmental authority to be used for a public purpose with no further obligation to the Government. The Secretary may authorize a transfer for a public purpose other than public transportation only if the Secretary decides—
+Transfer of Assets No Longer Needed.—
 
-&emsp;(A) the asset will remain in public use for at least 5 years after the date the asset is transferred;
+&emsp;(1)
 
-&emsp;(B) there is no purpose eligible for assistance under this chapter for which the asset should be used;
+In general.—If a recipient of assistance under this chapter decides an asset acquired under this chapter at least in part with that assistance is no longer needed for the purpose for which such asset was acquired, the Secretary may authorize the recipient to transfer such asset to—
 
-&emsp;(C) the overall benefit of allowing the transfer is greater than the interest of the Government in liquidation and return of the financial interest of the Government in the asset, after considering fair market value and other factors; and
+&emsp;&emsp;(A) a local governmental authority to be used for a public purpose with no further obligation to the Government if the Secretary decides—
 
-&emsp;(D) through an appropriate screening or survey process, that there is no interest in acquiring the asset for Government use if the asset is a facility or land.
+&emsp;&emsp;&emsp;(i) the asset will remain in public use for at least 5 years after the date the asset is transferred;
 
-(2) A decision under paragraph (1) must be in writing and include the reason for the decision.
+&emsp;&emsp;&emsp;(ii) there is no purpose eligible for assistance under this chapter for which the asset should be used;
 
-(3) This subsection is in addition to any other law related to using and disposing of a facility or equipment under an assistance agreement.
+&emsp;&emsp;&emsp;(iii) the overall benefit of allowing the transfer is greater than the interest of the Government in liquidation and return of the financial interest of the Government in the asset, after considering fair market value and other factors; and
 
-(4)
+&emsp;&emsp;&emsp;(iv) through an appropriate screening or survey process, that there is no interest in acquiring the asset for Government use if the asset is a facility or land; or
+
+&emsp;&emsp;(B) a local governmental authority, nonprofit organization, or other third party entity to be used for the purpose of transit-oriented development with no further obligation to the Government if the Secretary decides—
+
+&emsp;&emsp;&emsp;(i) the asset is a necessary component of a proposed transit-oriented development project;
+
+&emsp;&emsp;&emsp;(ii) the transit-oriented development project will increase transit ridership;
+
+&emsp;&emsp;&emsp;(iii) at least 40 percent of the housing units offered in the transit-oriented development, including housing units owned by nongovernmental entities, are legally binding affordability restricted to tenants with incomes at or below 60 percent of the area median income and owners with incomes at or below 60 percent <sup>1</sup> the area median income, which shall include at least 20 percent of such housing units offered restricted to tenants with incomes at or below 30 percent of the area median income and owners with incomes at or below 30 percent the area median income;
+
+&emsp;&emsp;&emsp;(iv) the asset will remain in use as described in this section for at least 30 years after the date the asset is transferred; and
+
+&emsp;&emsp;&emsp;(v) with respect to a transfer to a third party entity—
+
+&emsp;&emsp;&emsp;&emsp;(I) a local government authority or nonprofit organization is unable to receive the property;
+
+&emsp;&emsp;&emsp;&emsp;(II) the overall benefit of allowing the transfer is greater than the interest of the Government in liquidation and return of the financial interest of the Government in the asset, after considering fair market value and other factors; and
+
+&emsp;&emsp;&emsp;&emsp;(III) the third party has demonstrated a satisfactory history of construction or operating an affordable housing development.
+
+&emsp;(2) A decision under paragraph (1) must be in writing and include the reason for the decision.
+
+&emsp;(3) This subsection is in addition to any other law related to using and disposing of a facility or equipment under an assistance agreement.
+
+&emsp;(4)
 
 Proceeds from the sale of transit assets.—
 
-&emsp;(A)
+&emsp;&emsp;(A)
 
 In general.—When real property, equipment, or supplies acquired with assistance under this chapter are no longer needed for public transportation purposes as determined under the applicable assistance agreement, the Secretary may authorize the sale, transfer, or lease of the assets under conditions determined by the Secretary and subject to the requirements of this subsection.
 
-&emsp;(B)
+&emsp;&emsp;(B)
+
+Reimbursement.—
+
+&emsp;&emsp;&emsp;(i)
+
+Fair market value of less than $5,000.—With respect to rolling stock and equipment with a unit fair market value of $5,000 or less per unit and unused supplies with a total aggregate fair market value of $5,000 or less that was purchased using Federal financial assistance under this chapter, the rolling stock, equipment, and supplies may be retained, sold, or otherwise disposed of at the end of the service life of the rolling stock, equipment, or supplies without any obligation to reimburse the Federal Transit Administration.
+
+&emsp;&emsp;&emsp;(ii)
+
+Fair market value of more than $5,000.—
+
+&emsp;&emsp;&emsp;&emsp;(I)
+
+In general.—With respect to rolling stock and equipment with a unit fair market value of more than $5,000 per unit and unused supplies with a total aggregate fair market value of more than $5,000 that was purchased using Federal financial assistance under this chapter, the rolling stock, equipment, and supplies may be retained or sold at the end of the service life of the rolling stock, equipment, or supplies.
+
+&emsp;&emsp;&emsp;&emsp;(II)
+
+Reimbursement required.—If rolling stock, equipment, or supplies described in subclause (I) is sold, of the proceeds from the sale—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the recipient shall retain an amount equal to the sum of—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(AA) $5,000; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(BB) of the remaining proceeds, a percentage of the amount equal to the non-Federal share expended by the recipient in making the original purchase; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) any amounts remaining after application of item (aa) shall be returned to the Federal Transit Administration.
+
+&emsp;&emsp;&emsp;(iii)
+
+Rolling stock and equipment retained.—Rolling stock, equipment, or supplies described in clause (i) or (ii) that is retained by a recipient under those clauses may be used by the recipient for other public transportation projects or programs with no obligation to reimburse the Federal Transit Administration, and no approval of the Secretary to retain that rolling stock, equipment, or supplies is required.
+
+&emsp;&emsp;(C)
 
 Use.—The net income from asset sales, uses, or leases (including lease renewals) under this subsection shall be used by the recipient to reduce the gross project cost of other capital projects carried out under this chapter.
 
-&emsp;(C)
+&emsp;&emsp;(D)
 
 Relationship to other authority.—The authority of the Secretary under this subsection is in addition to existing authorities controlling allocation or use of recipient income otherwise permissible in law or regulation in effect prior to the date of enactment of this paragraph.
 
@@ -126,7 +182,7 @@ In general.—The Administrator of the Federal Transit Administration shall foll
 
 Binding obligation defined.—In this subsection, the term "binding obligation" means a substantive policy statement, rule, or guidance document issued by the Federal Transit Administration that grants rights, imposes obligations, produces significant effects on private interests, or effects a significant change in existing policy.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 836; Pub. L. 104–287, §5(9), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 104–316, title I, §127(a), Oct. 19, 1996, 110 Stat. 3840; Pub. L. 105–178, title III, §§3023(c), 3025(a), (b)(1), (c), June 9, 1998, 112 Stat. 364, 365; Pub. L. 109–59, title III, §§3002(b)(4), 3032, Aug. 10, 2005, 119 Stat. 1545, 1626; Pub. L. 111–350, §5(o)(3), Jan. 4, 2011, 124 Stat. 3853; Pub. L. 112–141, div. B, §§20024, 20030(i), July 6, 2012, 126 Stat. 718, 731.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 836; Pub. L. 104–287, §5(9), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 104–316, title I, §127(a), Oct. 19, 1996, 110 Stat. 3840; Pub. L. 105–178, title III, §§3023(c), 3025(a), (b)(1), (c), June 9, 1998, 112 Stat. 364, 365; Pub. L. 109–59, title III, §§3002(b)(4), 3032, Aug. 10, 2005, 119 Stat. 1545, 1626; Pub. L. 111–350, §5(o)(3), Jan. 4, 2011, 124 Stat. 3853; Pub. L. 112–141, div. B, §§20024, 20030(i), July 6, 2012, 126 Stat. 718, 731; Pub. L. 117–58, div. C, §30013, Nov. 15, 2021, 135 Stat. 909; Pub. L. 117–81, div. F, title LXVI, §6609, Dec. 27, 2021, 135 Stat. 2446.)
 
 Historical and Revision Notes
 
@@ -218,15 +274,21 @@ In subsection (g)(1), before clause (A), the words "facilities and equipment and
 
 In subsection (g)(3), the words "and not in lieu of" are omitted as surplus.
 
-Subsection (i) is substituted for section 1(a)(1) (related to authority and functions reserved to Secretary of Housing and Urban Development) of Reorganization Plan No. 2 of 1968 to eliminate unnecessary words. The reference to 49 App.:1602(c)(1) is translated as a reference to 49 App.:1602(e)(1) because section 2(1) of the Urban Mass Transportation Assistance Act of 1970 (Public Law 91–453, 84 Stat. 962) redesignated subsection (c) as subsection (e). The references to 49 App.:1603(a)\(1st sentence), 1604, and 1607c(b) and former 49 App.:1607a are omitted as obsolete because of section 103(a) of the National Mass Transportation Act of 1974 (Public Law 93–503, 88 Stat. 1567) and sections 303(b), 305(a), and 307 of the Federal Public Transportation Act of 1978 (Public Law 95–599, 92 Stat. 2737, 2743, 2747). Reference to 49 App.:1607c(c) is omitted because it was enacted after the Reorganization Plan and was not intended to be within the scope of the Plan.
+Subsection (i) is substituted for section 1(a)(1) (related to authority and functions reserved to Secretary of Housing and Urban Development) of Reorganization Plan No. 2 of 1968 to eliminate unnecessary words. The reference to 49 App.:1602(c)(1) is translated as a reference to 49 App.:1602(e)(1) because section 2(1) of the Urban Mass Transportation Assistance Act of 1970 (Public Law 91–453, 84 Stat. 962) redesignated subsection (c) as subsection (e). The references to 49 App.:1603(a) (1st sentence), 1604, and 1607c(b) and former 49 App.:1607a are omitted as obsolete because of section 103(a) of the National Mass Transportation Act of 1974 (Public Law 93–503, 88 Stat. 1567) and sections 303(b), 305(a), and 307 of the Federal Public Transportation Act of 1978 (Public Law 95–599, 92 Stat. 2737, 2743, 2747). Reference to 49 App.:1607c(c) is omitted because it was enacted after the Reorganization Plan and was not intended to be within the scope of the Plan.
 
 Subsection (j)(1) is substituted for 49 App.:1608(a) (1st sentence related to 12:1749a(e)) to eliminate unnecessary words.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The date of enactment of this paragraph, referred to in subsec. (h)(4)(C), is the date of enactment of Pub. L. 105–178, which was approved June 9, 1998.
+The date of enactment of this paragraph, referred to in subsec. (h)(4)(D), is the date of enactment of Pub. L. 105–178, which was approved June 9, 1998.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (h)(1). Pub. L. 117–81 amended par. (1) generally. Prior to amendment, par. (1) related to authorization by Secretary of assets no longer needed.
+
+Subsec. (h)(4)(B) to (D). Pub. L. 117–58 added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
 
 <b>2012</b>—Subsec. (a)(1). Pub. L. 112–141, §20024(1), substituted "that receives Federal financial assistance under this chapter" for "under sections 5307 and 5309–5311 of this title".
 
@@ -310,7 +372,11 @@ Subsec. (g)(4). Pub. L. 105–178, §3025(c), added par. (4).
 
 Subsec. (c)(2). Pub. L. 104–316 substituted "for" for "the Comptroller General shall".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2012 Amendment
 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "of".</i>
 

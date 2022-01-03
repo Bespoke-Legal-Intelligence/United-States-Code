@@ -64,11 +64,15 @@ In subsection (b)(2), the words "for any fiscal year" are omitted as surplus.
 
 In subsection (c), the words "be construed as" and "the purposes described in" are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (c). Pub. L. 104–264 substituted "1998" for "1996".
 
 <b>1994</b>—Subsec. (c). Pub. L. 103–305 substituted "1996" for "1995".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

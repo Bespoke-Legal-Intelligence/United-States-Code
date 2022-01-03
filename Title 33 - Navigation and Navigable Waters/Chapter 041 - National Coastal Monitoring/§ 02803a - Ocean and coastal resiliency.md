@@ -16,7 +16,7 @@ In carrying out the study under subsection (a), the Secretary shall—
 
 &emsp;(4) to the maximum extent practicable, use any existing Corps of Engineers plans and data; and
 
-&emsp;(5) not later than 365 days after initial appropriations for this section, and every fiveyears thereafter subject to the availability of appropriations, complete a study authorized under subsection (a).
+&emsp;(5) not later than 365 days after initial appropriations for this section, and every five years thereafter subject to the availability of appropriations, complete a study authorized under subsection (a).
 
 #### (c) Disposition
 

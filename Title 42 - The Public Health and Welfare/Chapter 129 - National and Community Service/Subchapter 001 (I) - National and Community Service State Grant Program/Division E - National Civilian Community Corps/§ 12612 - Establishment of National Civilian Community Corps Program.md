@@ -18,6 +18,8 @@ Both programs referred to in subsection (b) may include a residential component.
 
 (Pub. L. 101–610, title I, §152, formerly §195A, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2523; renumbered §152 and amended Pub. L. 103–82, title I, §104(b), title IV, §402(b)(2), Sept. 21, 1993, 107 Stat. 840, 919; Pub. L. 111–13, title I, §1502, Apr. 21, 2009, 123 Stat. 1521.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 12653a of this title prior to renumbering by Pub. L. 103–82, §104(b).
@@ -38,6 +40,8 @@ Subsec. (c). Pub. L. 111–13, §1502(4), added subsec. (c) and struck out forme
 
 <b>1993</b>—Subsec. (a). Pub. L. 103–82, §402(b)(2), substituted "Corporation" for "Commission on National and Community Service".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2009 Amendment
 
 Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under section 4950 of this title.
@@ -48,7 +52,7 @@ Amendment by section 402(b)(2) of Pub. L. 103–82 effective Oct. 1, 1993, see s
 
 #### Report and Study Requirements
 
-Pub. L. 102–484, div. A, title X, §1092(b), Oct. 23, 1992, 106 Stat. 2534, as amended by Pub. L. 103–82, title I, §104(e)(1)(B), (C), title IV, §402(a)(1), Sept. 21, 1993, 107 Stat. 846, 918, related to a progress report to be submitted to the appropriate committees of Congress assessing the activities undertaken in establishing and administering Civilian Community Corps camps and analyzing the level of coordination of Corps activities with activities of other departments or agencies of the Federal Government and a report to be submitted to the appropriate committees of Congress concerning thedesirability and feasibility of establishing the Civilian Community Corps as an independent agency of the Federal Government.
+Pub. L. 102–484, div. A, title X, §1092(b), Oct. 23, 1992, 106 Stat. 2534, as amended by Pub. L. 103–82, title I, §104(e)(1)(B), (C), title IV, §402(a)(1), Sept. 21, 1993, 107 Stat. 846, 918, related to a progress report to be submitted to the appropriate committees of Congress assessing the activities undertaken in establishing and administering Civilian Community Corps camps and analyzing the level of coordination of Corps activities with activities of other departments or agencies of the Federal Government and a report to be submitted to the appropriate committees of Congress concerning the desirability and feasibility of establishing the Civilian Community Corps as an independent agency of the Federal Government.
 
 #### Coordination of Programs
 

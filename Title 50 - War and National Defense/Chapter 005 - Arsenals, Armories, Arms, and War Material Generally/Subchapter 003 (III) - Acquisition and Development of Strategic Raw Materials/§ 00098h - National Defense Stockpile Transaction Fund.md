@@ -44,7 +44,7 @@ There is established in the Treasury of the United States a separate fund to be 
 
 #### (c) Moneys received from sale of materials being rotated or disposed of
 
-All moneys received from the sale of materials being rotated under the provisions of section98e(a)(4) of this title or disposed of under section 98f(a) of this title shall be covered into the fund and shall be available only for the acquisition of replacement materials.
+All moneys received from the sale of materials being rotated under the provisions of section 98e(a)(4) of this title or disposed of under section 98f(a) of this title shall be covered into the fund and shall be available only for the acquisition of replacement materials.
 
 #### (d) Effect of bartering
 
@@ -57,6 +57,8 @@ If, during a fiscal year, the National Defense Stockpile Manager barters materia
 &emsp;(3) not increase or decrease the balance in the fund.
 
 (June 7, 1939, ch. 190, §9, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 323; amended Pub. L. 97–35, title II, §203(d), Aug. 13, 1981, 95 Stat. 382; Pub. L. 99–661, div. C, title II, §3203(a), Nov. 14, 1986, 100 Stat. 4067; Pub. L. 100–180, div. C, title II, §3204, Dec. 4, 1987, 101 Stat. 1247; Pub. L. 101–189, div. C, title XXXIII, §3312(b), Nov. 29, 1989, 103 Stat. 1688; Pub. L. 101–510, div. C, title XXXIII, §3301(c), Nov. 5, 1990, 104 Stat. 1845; Pub. L. 102–190, div. C, title XXXIII, §3311(a), Dec. 5, 1991, 105 Stat. 1584; Pub. L. 102–484, div. C, title XXXIII, §3313, Oct. 23, 1992, 106 Stat. 2653; Pub. L. 103–160, div. C, title XXXIII, §3313, Nov. 30, 1993, 107 Stat. 1962; Pub. L. 105–261, div. C, title XXXIII, §3304, Oct. 17, 1998, 112 Stat. 2264; Pub. L. 113–66, div. A, title XIV, §1411(b), Dec. 26, 2013, 127 Stat. 934.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -102,6 +104,8 @@ Subsec. (b)(2), (3). Pub. L. 99–661, §3203(a)(2), added pars. (2) and (3) and
 
 <b>1981</b>—Subsec. (b). Pub. L. 97–35 in par. (1) struck out provisions relating to moneys remaining in the fund at the end of the third fiscal year following the fiscal year in which received, and in par. (3) substituted provisions respecting funds remaining available until expended, for provisions relating to funds remaining available for a period of five fiscal years.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Use of Funds From National Defense Stockpile Transaction Fund To Meet National Defense Stockpile Goals and Specifications in Effect on October 1, 1984
 
 Pub. L. 100–440, title V, §518, Sept. 22, 1988, 102 Stat. 1748, directed that, no later than Oct. 1, 1989, Administrator of General Services, or any Federal officer assuming Administrator's responsibilities with respect to management of the stockpile, to use all funds authorized and appropriated before Jan. 1, 1985, from National Defense Stockpile Transaction Fund to evaluate, test, relocate, upgrade or purchase stockpile materials to meet National Defense Stockpile goals and specifications in effect on Oct. 1, 1984. Similar provisions were contained in the following prior appropriation acts:
@@ -112,7 +116,7 @@ Pub. L. 99–500, §101(m) \[title V, §520\], Oct. 18, 1986, 100 Stat. 1783–3
 
 #### Deposit of Funds Accruing From Naval Petroleum Reserves
 
-Pub. L. 98–525, title IX, §905, Oct. 19, 1984, 98 Stat. 2574, as amended by Pub. L. 99–145, title XVI, §1611(a), Nov. 8, 1985, 99 Stat. 776, provided that: "There shall be deposited into the National Defense Stockpile Transaction Fund established under section 9 of the Act (50 U.S.C. 98h) 30 percent of all money accruing to the United States during fiscal years 1985 and 1986 from lands in the naval petroleum and oil shale reserves (less amounts spent for exploration, development and operation of those reserves and related expenses during that period). Moneys deposited into the Fund under this subsection shall be deemed to have been covered into the Fund under section 9(b) of the Act."
+Pub. L. 98–525, title IX, §905, Oct. 19, 1984, 98 Stat. 2574, as amended by Pub. L. 99–145, title XVI, §1611(a), Nov. 8, 1985, 99 Stat. 776, authorized the deposit into the National Defense Stockpile Transaction Fund, established under this section, of 30 percent of all money accruing to the United States during fiscal years 1985 and 1986 from lands in the naval petroleum and oil shale reserves.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -6,7 +6,7 @@ Not to exceed 50 percent of the total amount to be invested by an entity under t
 
 #### (b) Technical assistance and administration
 
-Not to exceed 10 percent of the amounts available from a line of credit under this subpart shall be used for the provision of training or technical assistance and for the planning, development, and management of economic development projects. Community development corporations shall be encouraged by the Secretary to seek technical assistance from other community development corporations, with expertise in the planning, development and management of economic development projects. The Secretary shall assist in the identification and facilitation of such technical assistance.
+Not to exceed 10 percent of the amounts available from a line of credit under this subpartshall be used for the provision of training or technical assistance and for the planning, development, and management of economic development projects. Community development corporations shall be encouraged by the Secretary to seek technical assistance from other community development corporations, with expertise in the planning, development and management of economic development projects. The Secretary shall assist in the identification and facilitation of such technical assistance.
 
 #### (c) Local and private sector contributions
 

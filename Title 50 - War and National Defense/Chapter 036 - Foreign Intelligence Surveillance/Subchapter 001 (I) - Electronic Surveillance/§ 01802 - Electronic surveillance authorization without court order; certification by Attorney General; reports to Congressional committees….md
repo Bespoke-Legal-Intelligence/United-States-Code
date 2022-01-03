@@ -1,6 +1,6 @@
 ### §1802. Electronic surveillance authorization without court order; certification by Attorney General; reports to Congressional committees; transmittal under seal; duties and compensation of communication common carrier; applications; jurisdiction of court
 
-(a)(1) Notwithstanding any other law, the President, through the Attorney General, may authorize electronic surveillance without a court order under this subchapter to acquire foreign intelligence information for periods of up to one year if the Attorney General certifies in writing under oath that—
+(a)(1) Notwithstanding any other law, the President, through the Attorney General, mayauthorize electronic surveillance without a court order under this subchapter to acquire foreign intelligence information for periods of up to one year if the Attorney General certifies in writing under oath that—
 
 &emsp;(A) the electronic surveillance is solely directed at—
 
@@ -34,17 +34,23 @@
 
 (Pub. L. 95–511, title I, §102, Oct. 25, 1978, 92 Stat. 1786; Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 111–259, title VIII, §806(a)(2), Oct. 7, 2010, 124 Stat. 2748.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (a)(3), (4)(B). Pub. L. 111–259 made technical amendment to directory language of Pub. L. 108–458. See 2004 Amendment note below.
 
 <b>2004</b>—Subsec. (a)(3), (4)(B). Pub. L. 108–458, as amended by Pub. L. 111–259, substituted "Director of National Intelligence" for "Director of Central Intelligence".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2004 Amendment
 
 For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of this title.
 
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 3001 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 12139. Exercise of Certain Authority Respecting Electronic Surveillance
 

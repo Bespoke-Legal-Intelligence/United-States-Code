@@ -78,7 +78,7 @@ June 24, 1952, ch. 457 (less 1st and last provisos), 66 Stat. 156.
 
 10:81–2 (less 1st and last provisos).
 
-The references in clauses (4), (6), and (7) of 10:1837(a) are omitted, since the laws to which reference is made deal with qualifications for appointment as commissioned officers and do not specify professional qualifications prerequisite to designation to duties requiring special training or experience. The reference in clause (8) is omitted as executed.
+The references in clauses (4), (6), and (7) of 10:1837(a) are omitted, since the laws to which reference is made deal with qualifications for appointment as commissioned officers and do not specify professional qualifications prerequisite to designation to duties requiringspecial training or experience. The reference in clause (8) is omitted as executed.
 
 10:1837(b) and (c) are omitted, since, except in the case of a reference to a law not presently in effect, their substance is covered by including the laws referred to in various revised sections of this title (see the distribution tables). 10:81–2 (less 1st and last provisos) is omitted as unnecessary.
 
@@ -105,6 +105,8 @@ Act
 Aug. 9, 1955, ch. 654, §§1, 3(b), 69 Stat. 579.
 
 The section is amended to reflect the authority contained in the source statute to appoint male reserve officers with a view to designation as Air Force nurses or medical specialists.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -133,6 +135,8 @@ Subsec. (h). Pub. L. 96–513, §504(5)(E), struck out "in conformity with secti
 <b>1958</b>—Subsec. (e). Pub. L. 85–861 struck out "female" before "commissioned officers".
 
 Subsec. (f). Pub. L. 85–861 struck out "female" before "commissioned officers", and "women" before "medical specialists".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

@@ -14,7 +14,7 @@ The Congress further finds that (1) a program of flood insurance can promote the
 
 #### (d) Authorization of flood insurance program; flexibility in program
 
-It is therefore the purpose of this chapter to (1) authorize a flood insurance program by means of which flood insurance, over a period of time, can be made available on a nationwide basis through the cooperative efforts of the Federal Government and the private insurance industry, and (2) provide flexibility in the program so that such flood insurance may be based on workable methods of pooling risks, minimizing costs, and distributing burdens equitably among those who will be protected by flood insurance and the general public.
+It is therefore the purpose of this chapter to (1) authorize a flood insurance program bymeans of which flood insurance, over a period of time, can be made available on a nationwide basis through the cooperative efforts of the Federal Government and the private insurance industry, and (2) provide flexibility in the program so that such flood insurance may be based on workable methods of pooling risks, minimizing costs, and distributing burdens equitably among those who will be protected by flood insurance and the general public.
 
 #### (e) Land use adjustments by State and local governments; development of proposed future construction; assistance of lending and credit institutions; relation of Federal assistance to all flood-related programs; continuing studies
 
@@ -25,6 +25,8 @@ It is the further purpose of this chapter to (1) encourage State and local gover
 The Congress also finds that (1) the damage and loss which results from mudslides is related in cause and similar in effect to that which results directly from storms, deluges, overflowing waters, and other forms of flooding, and (2) the problems involved in providing protection against this damage and loss, and the possibilities for making such protection available through a Federal or federally sponsored program, are similar to those which exist in connection with efforts to provide protection against damage and loss caused by such other forms of flooding. It is therefore the further purpose of this chapter to make available, by means of the methods, procedures, and instrumentalities which are otherwise established or available under this chapter for purposes of the flood insurance program, protection against damage and loss resulting from mudslides that are caused by accumulations of water on or under the ground.
 
 (Pub. L. 90–448, title XIII, §1302, Aug. 1, 1968, 82 Stat. 572; Pub. L. 91–152, title IV, §409(a), Dec. 24, 1969, 83 Stat. 397; Pub. L. 93–234, title I, §108(a), Dec. 31, 1973, 87 Stat. 979; Pub. L. 103–325, title V, §552(d), Sept. 23, 1994, 108 Stat. 2269.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -39,6 +41,8 @@ This chapter, referred to in subsecs. (d) to (f), was in the original a referenc
 <b>1973</b>—Subsec. (g). Pub. L. 93–234 added subsec. (g).
 
 <b>1969</b>—Subsec. (f). Pub. L. 91–152 added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -58,7 +62,7 @@ Pub. L. 115–225, §1, July 31, 2018, 132 Stat. 1624, provided that: "This Act 
 
 #### Short Title of 2014 Amendment
 
-Pub. L. 113–89, §1(a), Mar. 21, 2014, 128 Stat. 1020, provided that: "This Act \[enacting sections 4005, 4015a, 4033, 4101d, and 4101e of this title, amending sections 4012a, 4013, 4014, 4015, 4017, 4017a, 4081, 4101b, 4102, and 4104 of this title and section 2604 of Title 12, Banks and Banking, enacting provisions set out as notes under sections 4012a, 4014, 4015, and 4102 of this title, and repealing provisions set out as a note under section 4012a of this title\] may be cited as the 'Homeowner Flood Insurance Affordability Act of 2014'."
+Pub. L. 113–89, §1(a), Mar. 21, 2014, 128 Stat. 1020, provided that: "This Act \[enacting sections 4005, 4015a, 4033, 4101d, and 4101e of this title, amending sections 4012a, 4013, 4014, 4015, 4017, 4017a, 4081, 4101b, 4102, and 4104 of this title and section 2604 of Title 12, Banks and Banking, enacting provisions set out as notes undersections 4012a, 4014, 4015, and 4102 of this title, and repealing provisions set out as a note under section 4012a of this title\] may be cited as the 'Homeowner Flood Insurance Affordability Act of 2014'."
 
 #### Short Title of 2012 Amendment
 
@@ -120,7 +124,9 @@ Pub. L. 103–325, title V, §577(a)–(g), Sept. 23, 1994, 108 Stat. 2281–228
 
 Pub. L. 103–325, title V, §584, Sept. 23, 1994, 108 Stat. 2287, provided that: "This title \[see Short Title of 1994 Amendment note above\] and the amendments made by this title may not be construed to preempt, annul, alter, amend, or exempt any person from compliance with any law, ordinance, or regulation of any State or local government with respect to land use, management, or control."
 
+#### <b>Executive Documents</b>
+
 #### Floodplain Management
 
-For provisions relating to the reduction of the risk of flood loss, the minimization of the impact of floods on human safety, health and welfare, and the management of floodplains, see Ex. Ord. No. 11988, May 24, 1977, 42 F.R. 26951, set out as a note under section 4321 of this title.
+For provisions relating to the reduction of the risk of flood loss, the minimization of the impact of floods onhuman safety, health and welfare, and the management of floodplains, see Ex. Ord. No. 11988, May 24, 1977, 42 F.R. 26951, set out as a note under section 4321 of this title.
 

@@ -24,7 +24,7 @@ This section shall apply <sup>1</sup> to—
 
 (3) For purposes of this section—
 
-&emsp;(A) creditable service includes (i) service performed as an employee described in subsection (a), (ii) service performed as a memberof the Capitol Police or as an employee of the United States Capitol Telephone Exchange while compensation therefor is disbursed by the Clerk of the House of Representatives, and (iii) service which is creditable for purposes of this section as in effect on September 30, 1978;
+&emsp;(A) creditable service includes (i) service performed as an employee described in subsection (a), (ii) service performed as a member of the Capitol Police or as an employee of the United States Capitol Telephone Exchange while compensation therefor is disbursed by the Clerk of the House of Representatives, and (iii) service which is creditable for purposes of this section as in effect on September 30, 1978;
 
 &emsp;(B) in computing length of continuous creditable service, only creditable service performed subsequent to August 31, 1957, shall be taken into account, except that, in the case of service as an employee employed under authority of section 6538 of this title, only creditable service performed subsequent to January 2, 1971, shall be taken into account; and
 
@@ -94,7 +94,7 @@ Pub. L. 90–57 substituted in first sentence "gross compensation" and "$540 per
 
 #### Effective Date of 1980 Amendment
 
-Pub. L. 96–304, title I, §107(d), July 8, 1980, 94 Stat. 890, provided that: "The amendments made by this section \[amending this section, section 4575, and former section 60j–3 of this title\] shall take effect on October 1, 1980."
+Pub. L. 96–304, title I, §107(d), July 8, 1980, 94 Stat. 890, provided that: "The amendments made by this section\[amending this section, section 4575, and former section 60j–3 of this title\] shall take effect on October 1, 1980."
 
 #### Effective Date of 1978 Amendments
 

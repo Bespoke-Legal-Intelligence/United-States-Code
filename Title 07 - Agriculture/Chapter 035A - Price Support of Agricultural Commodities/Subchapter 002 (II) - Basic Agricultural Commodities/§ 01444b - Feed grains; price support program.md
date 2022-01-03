@@ -2,9 +2,11 @@
 
 (a) Notwithstanding the provisions of section 1441 of this title, beginning with the 1964 crop, price support shall be made available to producers for each crop of corn at such level, not less than 50 per centum or more than 90 per centum of the parity price therefor, as the Secretary determines will not result in increasing Commodity Credit Corporation stocks of corn: <i>Provided</i>, That in the case of any crop for which an acreage diversion program is in effect for feed grains, the level of price support for corn of such crop shall be at such level not less than 65 per centum or more than 90 per centum of the parity price therefor as the Secretary determines necessary to achieve the acreage reduction goal established by him for the crop.
 
-(b) Beginning with the 1959 crop, price support shall be made available to producers for each crop of oats, rye, barley, and grain sorghums at such level of the parity price therefor as the Secretary of Agriculture determines is fair and reasonable in relation to the level at which price support is made available for corn, taking intoconsideration the feeding value of such commodity in relation to corn, and the other factors set forth in section 1421(b) of this title.
+(b) Beginning with the 1959 crop, price support shall be made available to producers for each crop of oats, rye, barley, and grain sorghums at such level of the parity price therefor as the Secretary of Agriculture determines is fair and reasonable in relation to the level at which price support is made available for corn, taking into consideration the feeding value of such commodity in relation to corn, and the other factors set forth in section 1421(b) of this title.
 
 (Oct. 31, 1949, ch. 792, title I, §105, as added Oct. 31, 1949, ch. 792, title I, §104(b)(2), as added Pub. L. 85–835, title II, §201, Aug. 28, 1958, 72 Stat. 994; amended Pub. L. 87–5, §1, Mar. 22, 1961, 75 Stat. 6; Pub. L. 87–128, title I, §131, Aug. 8, 1961, 75 Stat. 301; Pub. L. 87–425, §1, Mar. 30, 1962, 76 Stat. 50; Pub. L. 87–703, title III, §§301, 305, Sept. 27, 1962, 76 Stat. 612, 614; Pub. L. 88–26, §2, May 20, 1963, 77 Stat. 44; Pub. L. 89–112, §1, Aug. 6, 1965, 79 Stat. 446; Pub. L. 89–321, title III, §301, Nov. 3, 1965, 79 Stat. 1188; Pub. L. 89–451, §2, June 17, 1966, 80 Stat. 202; Pub. L. 89–321, title III, §301, Nov. 3, 1965, as amended Pub. L. 90–559, §1(1), Oct. 11, 1968, 82 Stat. 996; Pub. L. 91–524, title V, §501, Nov. 30, 1970, 84 Stat. 1368; Pub. L. 91–524, title V, §501, Nov. 30, 1970, as amended Pub. L. 93–86, §1(18), Aug. 10, 1973, 87 Stat. 230; Pub. L. 93–86, §1(18), Aug. 10, 1973, 87 Stat. 230; Pub. L. 93–86, §1(18), Aug. 10, 1973, as amended Pub. L. 93–125, §1(d), Oct. 18, 1973, 87 Stat. 450; Pub. L. 93–228, §1(b), Dec. 29, 1973, 87 Stat. 944.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -80,7 +82,7 @@ Subsec. (d). Pub. L. 91–524 redesignated ninth sentence of former subsec. (e) 
 
 Subsec. (e). Pub. L. 91–524 added subsec. (e).
 
-Subsec. (f). Pub. L. 91–524 redesignated last sentence of former subsec. (e) as (f) and substituted "under this section precludes the making of loans, purchases, and payments" and "make such loans, purchases, and payments" for "under this subsection (e) and subsection (e) of this section preclude the making of payments-in-kind" and "make such payments-in-kind".
+Subsec. (f). Pub. L. 91–524 redesignated last sentence of former subsec. (e) as (f) and substituted "under this section precludes the making of loans, purchases, and payments" and "make such loans, purchases, and payments" for "under this subsection (e) and subsection (e)of this section preclude the making of payments-in-kind" and "make such payments-in-kind".
 
 Subsecs. (g) to (i). Pub. L. 91–524 added subsecs. (g) to (i).
 
@@ -96,7 +98,7 @@ Subsec. (e). Pub. L. 89–451 substituted "planted to any other crop for which t
 
 Pub. L. 89–112 amended feed grains price support program for 1965.
 
-Subsec. (d). Pub. L. 89–112 inserted eleventh sentence "An acreage on the farm which the Secretary finds wasnot planted to feed grains in 1965 because of flood, drought, or other natural disaster shall be deemed by the Secretary to be an actual acreage of feed grains planted on the farm for harvest for purposes of this subsection, provided such acreage is not subsequently devoted to any price supported crop for 1965."
+Subsec. (d). Pub. L. 89–112 inserted eleventh sentence "An acreage on the farm which the Secretary finds was not planted to feed grains in 1965 because of flood, drought, or other natural disaster shall be deemed by the Secretary to be an actual acreage of feed grains planted on the farm for harvest for purposes of this subsection, provided such acreage is not subsequently devoted to any price supported crop for 1965."
 
 Subsec. (e). Pub. L. 89–321, in adding subsec. (e), enacted feed grains price support program for 1966 through 1969.
 
@@ -170,7 +172,7 @@ Subsec. (c). Pub. L. 87–128, in adding pars. (3) and (4), enacted feed grains 
 
 Pub. L. 87–5, in adding pars. (1) and (2), enacted special feed grains price support program for 1961.
 
-Subsec. (c)(1). Pub. L. 87–5 required establishment of 1961 corn crop price support at such level not less than 65 per centum of parity price as Secretary might determine and made corn and grain sorghums price support available on not to exceed the normal production of 1961 acreage of corn and grain sorghums of each eligible farm based on average yield per acre for 1959 and 1960 crop acreage.
+Subsec. (c)(1). Pub. L. 87–5 required establishment of 1961 corn crop price support at such level not less than65 per centum of parity price as Secretary might determine and made corn and grain sorghums price support available on not to exceed the normal production of 1961 acreage of corn and grain sorghums of each eligible farm based on average yield per acre for 1959 and 1960 crop acreage.
 
 Subsec. (c)(2). Pub. L. 87–5 required as a condition of eligibility for price support on 1961 crop of corn, grain sorghums, and any other feed grain designated by the Secretary, participation of producer in special agricultural conservation program for 1961 for corn and grain sorghums to the extent prescribed by the Secretary.
 
@@ -183,6 +185,8 @@ Subsec. (c)(4). Pub. L. 87–128 required as a condition of eligibility for pric
 Subsec. (a). Pub. L. 85–835 made corn price support available, beginning with 1959 crop, at 90 per centum of average price received by farmers during three calendar years immediately preceding calendar year in which marketing year for the crop begins, adjusted to offset effect on such price of any abnormal quantities of low-grade corn marketed during any of such year, with minimum price support level at 65 per centum of parity price for any crop of corn.
 
 Subsec. (b). Pub. L. 85–835 made price support available, beginning with 1959 crop, for each crop of oats, rye, barley, and grain sorghums, at such level of parity price as Secretary of Agriculture determined was fair and reasonable in relation to price support level for corn, taking into consideration the feeding value of such commodity in relation to corn, and the other factors set forth in section 1421(b) of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective and Termination Dates of 1973 Amendment
 

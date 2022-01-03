@@ -1,6 +1,6 @@
 ### §251. Medical examination and treatment of Federal employees; medical care at remote stations
 
-(a) The Surgeon General is authorized to provide at institutions, hospitals, and station of the Service medical, surgical, and hospital services and supplies for persons entitled to treatment under subchapter I of Chapter 81 of title 5 and extensions thereof. The Surgeon General may also provide for making medical examinations of—
+(a) The Surgeon General is authorized to provide at institutions, hospitals, and station of the Service medical, surgical, and hospital services and supplies for persons entitled to treatment under subchapter I of Chapter 81 of title 5 andextensions thereof. The Surgeon General may also provide for making medical examinations of—
 
 &emsp;(1) employees of the Federal Government for retirement purposes;
 
@@ -13,6 +13,8 @@
 (b) The Secretary is authorized to provide medical, surgical, and dental treatment and hospitalization and optometric care for Federal employees (as defined in section 8901(1) of title 5) and their dependents at remote medical facilities of the Public Health Service where such care and treatment are not otherwise available. Such employees and their dependents who are not entitled to this care and treatment under any other provision of law shall be charged for it at rates established by the Secretary to reflect the reasonable cost of providing the care and treatment. Any payments pursuant to the preceding sentence shall be credited to the applicable appropriation to the Public Health Service for the year in which such payments are received.
 
 (July 1, 1944, ch. 373, title III, §324, 58 Stat. 697; Pub. L. 90–174, §10(a), (b), Dec. 5, 1967, 81 Stat. 540; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 97–468, title VI, §615(b)(4), Jan. 14, 1983, 96 Stat. 2578; Pub. L. 98–426, §27(d)(2), Sept. 28, 1984, 98 Stat. 1654.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -32,6 +34,12 @@ In subsec. (a), "subchapter I of chapter 81 of title 5" substituted for "United 
 
 Subsec. (b). Pub. L. 90–174, §10(b), added subsec. (b).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsec. (b) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–426 effective Sept. 28, 1984, see section 28(e)(1) of Pub. L. 98–426, set out as a note under section 901 of Title 33, Navigation and Navigable Waters.
@@ -40,9 +48,11 @@ Amendment by Pub. L. 98–426 effective Sept. 28, 1984, see section 28(e)(1) of 
 
 Amendment by Pub. L. 97–468 effective on date of transfer of Alaska Railroad to the State \[Jan. 5, 1985\], pursuant to section 1203 of Title 45, Railroads, see section 615(b) of Pub. L. 97–468.
 
+#### <b>Executive Documents</b>
+
 #### Transfer of Functions
 
 "Director of the Office of Personnel Management" substituted for "Civil Service Commission" in subsec. (a)(2), pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred all functions vested by statute in United States Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
 
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title.
 

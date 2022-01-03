@@ -6,7 +6,7 @@ For purposes of this subchapter—
 
 #### (1) Accident and health coverage
 
-&emsp;The term "accident and health coverage" means any coverage which, if provided by aninsurance policy, would cause such policy to be a specified health insurance policy (as defined in section 4375(c)).
+&emsp;The term "accident and health coverage" means any coverage which, if provided by an insurance policy, would cause such policy to be a specified health insurance policy (as defined in section 4375(c)).
 
 #### (2) Insurance policy
 
@@ -51,6 +51,8 @@ For purposes of subtitle F, the fees imposed by this subchapter shall be treated
 Notwithstanding any other provision of law, no amount collected under this subchapter shall be covered over to any possession of the United States.
 
 (Added Pub. L. 111–148, title VI, §6301(e)(2)(A), Mar. 23, 2010, 124 Stat. 746.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

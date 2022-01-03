@@ -122,7 +122,9 @@ The Secretary of Health and Human Services (in this section referred to as the "
 
 This section may be cited as the "Welfare Indicators Act of 1994".
 
-(Pub. L. 103–432, title II, §232, Oct. 31, 1994, 108 Stat. 4462; Pub. L. 105–200, title IV, §410(h), July 16, 1998, 112 Stat. 674; Pub. L. 110–234, title IV,§4002(b)(1)(A), (B), (2)(X), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(X), June 18, 2008, 122 Stat. 1664, 1857, 1859.)
+(Pub. L. 103–432, title II, §232, Oct. 31, 1994, 108 Stat. 4462; Pub. L. 105–200, title IV, §410(h), July 16, 1998, 112 Stat. 674; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(X), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(X), June 18, 2008, 122 Stat. 1664, 1857, 1859.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -141,6 +143,8 @@ Section was enacted as part of the Social Security Act Amendments of 1994, and n
 <b>1998</b>—Subsec. (b)(3)(D). Pub. L. 105–200, §410(h)(1), struck out "Energy and" before "Commerce".
 
 Subsec. (d)(4). Pub. L. 105–200, §410(h)(2), substituted "subsection (b)(3)" for "subsection (b)(3)(C)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

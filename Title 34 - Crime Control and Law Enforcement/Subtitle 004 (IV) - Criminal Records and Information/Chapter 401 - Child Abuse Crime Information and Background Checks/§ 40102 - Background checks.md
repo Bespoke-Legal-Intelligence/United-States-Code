@@ -24,7 +24,7 @@ The procedures established under subsection (a) shall require—
 
 &emsp;&emsp;(D) notifies the covered individual of the covered individual's rights under paragraph (2); and
 
-&emsp;&emsp;(E) notifies the covered individual that prior to the completion of the background check the qualified entity may choose to deny the covered individual access to a person to whom the qualified entity provides care;
+&emsp;&emsp;(E) notifies the covered individual that prior to the completion of the backgroundcheck the qualified entity may choose to deny the covered individual access to a person to whom the qualified entity provides care;
 
 &emsp;(2) that the State, or in a State that does not have in effect procedures described in subsection (a)(1), the designated entity, ensures that—
 
@@ -218,7 +218,7 @@ Eligible organizations.—Eligible organizations include—
 
 &emsp;&emsp;&emsp;"(ii)
 
-Pilot program.—The eligibility of an organization described in clause (i)(IV) to participate in the pilot program established under this section shall be determined by the National Center for Missing and Exploited Children, with the rejection or concurrence within 30 days of the Attorney General, according to criteria establishedby such Center, including the potential number of applicants and suitability of the organization to the intent of this section. If the Attorney General fails to reject or concur within 30 days, the determination of the National Center for Missing and Exploited Children shall be conclusive.
+Pilot program.—The eligibility of an organization described in clause (i)(IV) to participate in the pilot program established under this section shall be determined by the National Center for Missing and Exploited Children, with the rejection or concurrence within 30 days of the Attorney General, according to criteria established by such Center, including the potential number of applicants and suitability of the organization to the intent of this section. If the Attorney General fails to reject or concur within 30 days, the determination of the National Center for Missing and Exploited Children shall be conclusive.
 
 &emsp;&emsp;"(C)
 
@@ -256,7 +256,7 @@ Determinations of fitness.—
 
 &emsp;&emsp;&emsp;"(i)
 
-In general.—Consistent with the privacy protections delineated in the National Child Protection Act \[of 1993\] (42 U.S.C. 5119 \[et seq.\]) \[now 34 U.S.C. 40101 et seq.\], the National Center for Missing and Exploited Children may make a determination whether the criminal history record information received in response to the criminal history background checks conducted under this paragraph indicates that the provider or volunteer has a criminal history record that renders the provider or volunteer unfit to provide care to children based upon criteria established jointly by, the National Center for Missing and Exploited Children, the Boys and Girls Clubs of America, the National Mentoring Partnership, and the National Council of Youth Sports.
+In general.—Consistent with the privacy protections delineated in the National Child Protection Act \[of 1993\] (42 U.S.C. 5119 \[et seq.\]) \[now 34 U.S.C. 40101 et seq.\], the National Center forMissing and Exploited Children may make a determination whether the criminal history record information received in response to the criminal history background checks conducted under this paragraph indicates that the provider or volunteer has a criminal history record that renders the provider or volunteer unfit to provide care to children based upon criteria established jointly by, the National Center for Missing and Exploited Children, the Boys and Girls Clubs of America, the National Mentoring Partnership, and the National Council of Youth Sports.
 
 &emsp;&emsp;&emsp;"(ii)
 
@@ -326,7 +326,7 @@ Study required.—The Attorney General shall conduct a feasibility study within 
 
 &emsp;"(2)
 
-Interim report.—Based on the findings of the feasibility study under paragraph (1), the AttorneyGeneral shall, not later than 180 days after the date of the enactment of this Act \[Apr. 30, 2003\], submit to Congress an interim report, which may include recommendations for a pilot project to develop or improve programs to collect fingerprints and perform background checks on individuals that seek to volunteer with organizations that work with children, the elderly, or the disabled.
+Interim report.—Based on the findings of the feasibility study under paragraph (1), the Attorney General shall, not later than 180 days after the date of the enactment of this Act \[Apr. 30, 2003\], submit to Congress an interim report, which may include recommendations for a pilot project to develop or improve programs to collect fingerprints and perform background checks on individuals that seek to volunteer with organizations that work with children, the elderly, or the disabled.
 
 &emsp;"(3)
 

@@ -88,7 +88,7 @@ The Task Force shall, within the program developed under subsection (a), provide
 
 #### (h) Education
 
-The Task Force shall, with the program developed under subsection (a), establish and implement educational programs through Sea Grant Marine Advisory Services and any other available resources that it determines to be appropriate to inform the general public, State governments, governments of political subdivisions of States, and industrial and recreational users of aquatic resources in connection with matters concerning the identification of aquatic nuisance species, and control methods for such species, including the prevention of the further distribution of such species.
+The Task Force shall, with the program developed under subsection (a), establish and implement educational programs through Sea Grant Marine Advisory Services and any other available resources that it determines to be appropriate to inform the general public, State governments, governments of political subdivisionsof States, and industrial and recreational users of aquatic resources in connection with matters concerning the identification of aquatic nuisance species, and control methods for such species, including the prevention of the further distribution of such species.
 
 #### (i) Zebra mussel demonstration program
 
@@ -162,7 +162,7 @@ The Task Force shall, with the program developed under subsection (a), establish
 
 #### (2) Participation of others
 
-&emsp;The Task Force shall provide opportunities for affected Federal agencies which are not part of the Task Force, State and local government agencies, and regional and other entities with the necessary expertise to participate in control programs. If these other agencies or entities have sufficient authority or jurisdiction and expertise and where this will be more efficient or effective, responsibility for implementing all or a portion of a control program may be delegated to such agencies or entities.
+&emsp;The Task Force shall provide opportunities for affected Federal agencies which are notpart of the Task Force, State and local government agencies, and regional and other entities with the necessary expertise to participate in control programs. If these other agencies or entities have sufficient authority or jurisdiction and expertise and where this will be more efficient or effective, responsibility for implementing all or a portion of a control program may be delegated to such agencies or entities.
 
 #### (k) Reports
 
@@ -171,6 +171,8 @@ The Task Force shall, with the program developed under subsection (a), establish
 (2) On an annual basis after the submission of the report under paragraph (1), the Task Force shall submit a report to the Congress detailing progress in carrying out this section.
 
 (Pub. L. 101–646, title I, §1202, Nov. 29, 1990, 104 Stat. 4766; Pub. L. 104–332, §2(e)(3), (4), (g), (h)(1), Oct. 26, 1996, 110 Stat. 4085, 4087, 4091; Pub. L. 109–234, title II, §2309, June 15, 2006, 120 Stat. 457.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

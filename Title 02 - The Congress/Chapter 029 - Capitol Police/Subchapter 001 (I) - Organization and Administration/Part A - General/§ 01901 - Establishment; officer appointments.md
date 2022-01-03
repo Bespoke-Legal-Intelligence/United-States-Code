@@ -20,7 +20,7 @@ R.S. §1821 derived from acts Mar. 2, 1867, ch. 167, §2, 14 Stat. 466; Mar. 3, 
 
 Pub. L. 111–145, §6(e)(2), repealed Pub. L. 108–7, §1018(h)(1), and provided that the sentence repealed by such section is restored to appear at end of section. See 2003 Amendment note below.
 
-Pub. L. 111–145, §6(e)(1), struck out "The captain and lieutenants shall be selected jointly by the Sergeant at Arms of the Senate and the Sergeant at Arms of the House of Representatives; and one-half of the privates shall be selected by the Sergeant at Arms of the Senate and one-half by the Sergeant at Arms of the House of Representatives." after "from year to year."
+Pub. L. 111–145, §6(e)(1), struck out "The captain and lieutenants shall be selected jointly by the Sergeant atArms of the Senate and the Sergeant at Arms of the House of Representatives; and one-half of the privates shall be selected by the Sergeant at Arms of the Senate and one-half by the Sergeant at Arms of the House of Representatives." after "from year to year."
 
 <b>2003</b>—Pub. L. 108–7, §1018(h)(1), which struck out last sentence which read "The Capitol Police shall be headed by a Chief who shall be appointed by the Capitol Police Board and shall serve at the pleasure of the Board.", was repealed by Pub. L. 111–145, §6(e)(2).
 
@@ -50,6 +50,10 @@ Amendment by Pub. L. 108–7 effective Feb. 20, 2003, and applicable to fiscal y
 
 Pub. L. 96–152, §7, Dec. 20, 1979, 93 Stat. 1100, provided that: "This Act \[enacting section 1902 of this title and amending this section\] shall take effect on the first day of the second month after the month in which this Act is enacted \[Dec. 1979\]."
 
+#### Short Title of 2021 Amendment
+
+Pub. L. 117–77, §1, Dec. 22, 2021, 135 Stat. 1522, provided that: "This Act \[enacting section 1901b of this title, amending sections 1970 and 1974 of this title, and enacting provisions set out as a note under section 1970 of this title\] may be cited as the 'Capitol Police Emergency Assistance Act of 2021'."
+
 #### Short Title of 2017 Amendment
 
 Pub. L. 115–45, §1, Aug. 4, 2017, 131 Stat. 956, provided that: "This Act \[amending sections 1951, 1952, and 1954 of this title\] may be cited as the 'Wounded Officers Recovery Act of 2017'."
@@ -60,75 +64,27 @@ Pub. L. 111–145, §1, Mar. 4, 2010, 124 Stat. 49, provided that: "This Act \[s
 
 #### Short Title of 2008 Amendment
 
-Pub. L. 110–178, §1, Jan. 7, 2008, 121 Stat. 2546, provided that: "This Act \[enacting sections 141b and 143c of this title, amending sections 167i, 167j, 182b, 185, and 1961 of this title and sections 5101, 5102, and 5104 of Title 40, Public Buildings, Property, and Works, repealing sections 167 to 167h of this title, enacting provisions set out as notes under this section and sections 167 and 182b of this title, and repealing provisions set out asnotes under this section\] may be cited as the 'U.S. Capitol Police and Library of Congress Police Merger Implementation Act of 2007'."
+Pub. L. 110–178, §1, Jan. 7, 2008, 121 Stat. 2546, provided that: "This Act \[enacting sections 141b and 143c of this title, amending sections 167i, 167j, 182b, 185, and 1961 of this title and sections 5101, 5102, and 5104 of Title 40, Public Buildings, Property, and Works, repealing sections 167 to 167h of this title, enacting provisions set out as notes under this section and sections 167 and 182b of this title, and repealing provisions set out as notes under this section\] may be cited as the 'U.S. Capitol Police and Library of Congress Police Merger Implementation Act of 2007'."
 
 #### Short Title of 2007 Amendment
 
 Pub. L. 110–161, div. H, title I, §1004(a), Dec. 26, 2007, 121 Stat. 2227, which provided that section 1004 of Pub. L. 110–161 could be cited as the "U.S. Capitol Police and Library of Congress Police Merger Implementation Act of 2007", was repealed by Pub. L. 111–145, §6(d)(1), Mar. 4, 2010, 124 Stat. 54. For identical short title, see above.
 
-#### Capitol Police Board
+#### Designation of Capitol Police Wellness Program
 
-Pub. L. 108–7, div. H, title I, §1014, Feb. 20, 2003, 117 Stat. 361, provided that:
+Pub. L. 117–31, title III, §301, July 30, 2021, 135 Stat. 313, provided that:
 
 "(a)
 
-Capitol Police Board; Composition; Redefining Mission.—
-
-&emsp;"(1)
-
-Purpose.—The purpose of the Capitol Police Board is to oversee and support the Capitol Police in its mission and to advance coordination between the Capitol Police and the Sergeant at Arms of the House of Representatives and the Sergeant at Arms and Doorkeeper of the Senate, in their law enforcement capacities, and the Congress. Consistent with this purpose, the Capitol Police Board shall establish general goals and objectives covering its major functions and operations to improve the efficiency and effectiveness of its operations.
-
-&emsp;"(2)
-
-Composition.—The Capitol Police Board shall consist of the Sergeant at Arms of the House of Representatives, the Sergeant at Arms and Doorkeeper of the Senate, the Chief of the Capitol Police, and the Architect of the Capitol. The Chief of Capitol Police shall serve in an ex-officio capacity and be a non-voting member of the Board.
+Application of Law.—The wellness program of the United States Capitol Police shall be known and designated as the 'Howard C. Liebengood Center for Wellness'.
 
 "(b)
 
-Initial Review and Report.—Not later than 180 days after the date of the enactment of this Act \[Feb. 20, 2003\], the Capitol Police Board shall—
+Effective Date.—This section shall apply with respect to fiscal year 2021 and each succeeding fiscal year."
 
-&emsp;"(1) examine the mission of the Capitol Police Board and, based on that analysis, redefine the Capitol Police Board's mission, mission-related processes, and administrative processes;
+#### Capitol Police Board
 
-&emsp;"(2) conduct an assessment of the effectiveness and usefulness of its statutory functions in contributing to the Capitol Police Board's ability to carry out its mission and meet its goals, including an explanation of the reasons for any determination that the statutory functions are appropriate and advisable in terms of its purpose, mission, and long-term goals; and
-
-&emsp;"(3) submit to the Speaker and minority leader of the House of Representatives and the President pro tempore and minority leader of the Senate a report on the results of its examination and assessment, including recommendations for any legislation that the Capitol Police Board considers appropriate and necessary.
-
-"(c)
-
-Executive Assistant.—
-
-&emsp;"(1)
-
-Establishment.—There shall be established in the Capitol Police an Executive Assistant for the Capitol Police Board to act as a central point for communication and enhance the overall effectiveness and efficiency of the Capitol Police Board's administrative activities.
-
-&emsp;"(2)
-
-Appointment.—The Executive Assistant shall be appointed by the Chief of the Capitol Police in consultation with the Sergeant at Arms of the House of Representatives and the Sergeant at Arms and Doorkeeper of the Senate.
-
-&emsp;"(3)
-
-Duties.—The Executive Assistant shall be assigned to, and report to, the Chairman of the Board. The Executive Assistant shall assist the Capitol Police Board in developing, documenting, and implementing a clearly defined process for additional tasks assigned to the Capitol Police Board under this section, and shall perform any additional duties assigned by the Capitol Police Board.
-
-"(d)
-
-Documentation.—
-
-&emsp;"(1)
-
-Functions and processes.—The Capitol Police Board shall document its functions and processes, including its mission statement, policies, directives, and operating procedures established or revised under subsection (a)(1) or (b), and make such documentation available for examination to the Speaker and minority leader of the House of Representatives, the President pro tempore and minority leader of the Senate, the Chief of the Capitol Police, and the Comptroller General.
-
-&emsp;"(2)
-
-Meetings.—The Capitol Police Board shall document Board meetings and make the documentation available for distribution to the Speaker and minority leader of the House of Representatives and the President pro tempore and minority leader of the Senate.
-
-"(e)
-
-Assistance of Comptroller General.—Upon request, the Comptroller General shall provide assistance to the Capitol Police Board in carrying out its responsibilities under this subsection \[probably should be "section"\].
-
-"(f)
-
-References in Law; Effect on Other Laws.—(1) Any reference in any law or resolution in effect as of the date of the enactment of this Act \[Feb. 20, 2003\] to the 'Capitol Police Board' shall be deemed to refer to the Capitol Police Board as composed under subsection (a)(2).
-
-"(2) Nothing in this section shall be construed to affect the jurisdiction, powers, or prerogatives of the Capitol Police Board or its individual members unless specifically provided herein."
+Pub. L. 108–7, div. H, title I, §1014, Feb. 20, 2003, 117 Stat. 361, which related to composition, mission, and other aspects of the Capitol Police Board, was transferred to section 1901a of this title.
 
 #### Transfer of Library of Congress Police to Capitol Police
 
@@ -366,7 +322,7 @@ Long Term Strategic Plan.—
 
 &emsp;"(1)
 
-In general.—The Chief of the United States Capitol Police, in consultation with the ComptrollerGeneral, shall develop a long term strategic plan which outlines the goals and objectives of the Capitol Police.
+In general.—The Chief of the United States Capitol Police, in consultation with the Comptroller General, shall develop a long term strategic plan which outlines the goals and objectives of the Capitol Police.
 
 &emsp;"(2)
 

@@ -30,7 +30,7 @@ Persons Covered.—Except as provided in subsection (d), the following persons a
 
 (c)
 
-Covered Types of Duties.—The Secretary of Defense may provide, under standards established by the Secretary, that a person described in subsection (b)(1) is subject to this section if that person's duties involve—
+Covered Types of Duties.—The Secretary of Defense may provide, under standards established by the Secretary, that a person describedin subsection (b)(1) is subject to this section if that person's duties involve—
 
 &emsp;(1) access to information that—
 
@@ -38,7 +38,7 @@ Covered Types of Duties.—The Secretary of Defense may provide, under standards
 
 &emsp;&emsp;(B) is designated as being within a special access program under section 4.4(a) of Executive Order No. 12958 (or a successor Executive order); or
 
-&emsp;(2) assistance in an intelligence or military mission in a case in which the unauthorizeddisclosure or manipulation of information, as determined under standards established by the Secretary of Defense, could reasonably be expected to—
+&emsp;(2) assistance in an intelligence or military mission in a case in which the unauthorized disclosure or manipulation of information, as determined under standards established by the Secretary of Defense, could reasonably be expected to—
 
 &emsp;&emsp;(A) jeopardize human life or safety;
 
@@ -110,6 +110,8 @@ Polygraph Research Program.—The Secretary shall carry out a continuing researc
 
 (Added Pub. L. 108–136, div. A, title X, §1041(a)(1), Nov. 24, 2003, 117 Stat. 1607; amended Pub. L. 109–163, div. A, title X, §1054(a), Jan. 6, 2006, 119 Stat. 3436; Pub. L. 115–232, div. A, title XVI, §1623(a)–(c), Aug. 13, 2018, 132 Stat. 2119.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Executive Order No. 12958, referred to in subsec. (c)(1)(B), which was formerly set out as a note under section 435 (now section 3161) of Title 50, War and National Defense, was revoked by Ex. Ord. No. 13526, §6.2(g), Dec. 29, 2009, 75 F.R. 731.
@@ -137,6 +139,8 @@ Subsec. (e)(2)(A). Pub. L. 115–232, §1623(c)(2), substituted "subsections (b)
 Subsec. (e)(2)(D). Pub. L. 115–232, §1623(b), added subpar. (D).
 
 <b>2006</b>—Pub. L. 109–163 reenacted section catchline without change and amended text generally. Prior to amendment, section related to authority for program for administration of counterintelligence polygraph examinations in subsec. (a), persons covered in subsec. (b), exceptions from coverage for certain intelligence agencies and functions in subsec. (c), oversight in subsec. (d), and polygraph research program in subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

@@ -60,7 +60,7 @@ For purposes of this section—
 
 &emsp;&emsp;(C) A plan is described in this subparagraph if—
 
-&emsp;&emsp;&emsp;(i)(I) the plan's normal cost for the current plan year, plus interest (determined at the rate used for determining costs under the plan) for the current plan yearon the amount of unfunded benefit liabilities under the plan as of the last date of the preceding plan year, exceeds
+&emsp;&emsp;&emsp;(i)(I) the plan's normal cost for the current plan year, plus interest (determined at the rate used for determining costs under the plan) for the current plan year on the amount of unfunded benefit liabilities under the plan as of the last date of the preceding plan year, exceeds
 
 &emsp;&emsp;&emsp;(II) the present value of the reasonably anticipated employer and employee contributions for the current plan year,
 
@@ -116,7 +116,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;In determining whether a plan is in critical and declining status as described in subsection (e)(9), clauses (i), (ii), and (iii) shall apply, except that—
 
-&emsp;&emsp;&emsp;&emsp;(I) if reasonable, the plan actuary shall assume that each contributing employer in compliance continues to comply through the end of the rehabilitation period or such later time as provided insubsection (e)(3)(A)(ii) with the terms of the rehabilitation plan that correspond to the schedule adopted or imposed under subsection (e), and
+&emsp;&emsp;&emsp;&emsp;(I) if reasonable, the plan actuary shall assume that each contributing employer in compliance continues to comply through the end of the rehabilitation period or such later time as provided in subsection (e)(3)(A)(ii) with the terms of the rehabilitation plan that correspond to the schedule adopted or imposed under subsection (e), and
 
 &emsp;&emsp;&emsp;&emsp;(II) the plan actuary shall take into account any suspensions of benefits described in subsection (e)(9) adopted in a prior plan year that are still in effect.
 
@@ -300,7 +300,7 @@ For purposes of this section—
 
 #### (C) Date of implementation
 
-&emsp;&emsp;The date specified in this subparagraph is the date which is 180 days after the date onwhich the collective bargaining agreement described in subparagraph (A) or (B) expires.
+&emsp;&emsp;The date specified in this subparagraph is the date which is 180 days after the date on which the collective bargaining agreement described in subparagraph (A) or (B) expires.
 
 #### (D) Failure to make scheduled contributions
 
@@ -432,7 +432,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A plan in critical status shall remain in such status until a plan year for which theplan actuary certifies, in accordance with subsection (b)(3)(A), that—
+&emsp;&emsp;&emsp;A plan in critical status shall remain in such status until a plan year for which the plan actuary certifies, in accordance with subsection (b)(3)(A), that—
 
 &emsp;&emsp;&emsp;&emsp;(I) the plan is not described in one or more of the subparagraphs in subsection (b)(2) as of the beginning of the plan year;
 
@@ -478,7 +478,7 @@ For purposes of this section—
 
 #### (A) Imposition of surcharge
 
-&emsp;&emsp;Each employer otherwise obligated to make contributions for the initial critical year shall be obligated to pay to the plan for such year a surcharge equal to 5 percent of the contributions otherwise required under the applicable collective bargaining agreement (or other agreement pursuant to which the employer contributes). For each succeeding plan year in which the plan is in critical status for a consecutive period of years beginning with the initial critical year, the surcharge shall be 10 percent of the contributions otherwise so required.
+&emsp;&emsp;Each employer otherwise obligated to make contributions for the initial critical year shall be obligated to pay to the plan forsuch year a surcharge equal to 5 percent of the contributions otherwise required under the applicable collective bargaining agreement (or other agreement pursuant to which the employer contributes). For each succeeding plan year in which the plan is in critical status for a consecutive period of years beginning with the initial critical year, the surcharge shall be 10 percent of the contributions otherwise so required.
 
 #### (B) Enforcement of surcharge
 
@@ -632,7 +632,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii)(I) In the case of a participant or beneficiary who has attained 75 years of age as of the effective date of the suspension, not more than the applicable percentage of the maximum suspendable benefits of such participant or beneficiary may be suspended under this paragraph.
 
-&emsp;&emsp;&emsp;(II) For purposes of subclause (I), the maximum suspendable benefits of a participant or beneficiary is the portion of the benefits of such participant or beneficiarythat would be suspended pursuant to this paragraph without regard to this clause;
+&emsp;&emsp;&emsp;(II) For purposes of subclause (I), the maximum suspendable benefits of a participant or beneficiary is the portion of the benefits of such participant or beneficiary that would be suspended pursuant to this paragraph without regard to this clause;
 
 &emsp;&emsp;&emsp;(III) For purposes of subclause (I), the applicable percentage is a percentage equal to the quotient obtained by dividing—
 
@@ -696,7 +696,7 @@ For purposes of this section—
 
 #### (I) Limitation
 
-&emsp;&emsp;&emsp;&emsp;The projected value of the total liabilities for benefit improvements for participants and beneficiaries not in pay status by the date of the first day of the plan year in which the benefit improvements are proposed to take effect, as determined as of such date, may not exceed the projected value of the liabilities arising from benefit improvements for participants and beneficiaries with benefitcommencement dates prior to the first day of such plan year, as so determined.
+&emsp;&emsp;&emsp;&emsp;The projected value of the total liabilities for benefit improvements for participants and beneficiaries not in pay status by the date of the first day of the plan year in which the benefit improvements are proposed to take effect, as determined as of such date, may not exceed the projected value of the liabilities arising from benefit improvements for participants and beneficiaries with benefit commencement dates prior to the first day of such plan year, as so determined.
 
 #### (II) Equitable distribution of benefits
 
@@ -746,7 +746,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(IV) information as to the rights and remedies of plan participants and beneficiaries,
 
-&emsp;&emsp;&emsp;&emsp;(V) if applicable, a statement describing the appointment of a retiree representative, the date of appointment of such representative, identifying information about the retiree representative (including whether the representative is a plan trustee), and how to contact such representative, and
+&emsp;&emsp;&emsp;&emsp;(V) if applicable, a statement describing the appointment of a retiree representative, the date of appointment ofsuch representative, identifying information about the retiree representative (including whether the representative is a plan trustee), and how to contact such representative, and
 
 &emsp;&emsp;&emsp;&emsp;(VI) information on how to contact the Department of the Treasury for further information and assistance where appropriate.
 
@@ -762,7 +762,7 @@ For purposes of this section—
 
 #### (iv) Other notice requirement
 
-&emsp;&emsp;&emsp;Any notice provided under clause (i) shall fulfill the requirement for notice of asignificant reduction in benefits described in section 1054(h) of this title.
+&emsp;&emsp;&emsp;Any notice provided under clause (i) shall fulfill the requirement for notice of a significant reduction in benefits described in section 1054(h) of this title.
 
 #### (v) Model notice
 
@@ -798,7 +798,7 @@ For purposes of this section—
 
 #### (ii) Administration of vote
 
-&emsp;&emsp;&emsp;Not later than 30 days after approval of the suspension by the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, under subparagraph (G), the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, shall administer a vote of participants and beneficiaries of the plan. Except as provided in clause (v), the suspension shall go into effect following the vote unless a majority of all participants and beneficiaries of the plan vote to reject the suspension. The plan sponsor may submit a new suspension application to the Secretary of the Treasury for approval in any case in which a suspension is prohibited from taking effect pursuant to a vote under this subparagraph.
+&emsp;&emsp;&emsp;Not later than 30 days after approval of the suspension by the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, under subparagraph (G), the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, shall administer a vote of participants andbeneficiaries of the plan. Except as provided in clause (v), the suspension shall go into effect following the vote unless a majority of all participants and beneficiaries of the plan vote to reject the suspension. The plan sponsor may submit a new suspension application to the Secretary of the Treasury for approval in any case in which a suspension is prohibited from taking effect pursuant to a vote under this subparagraph.
 
 #### (iii) Ballots
 
@@ -868,7 +868,7 @@ For purposes of this section—
 
 #### (bb) Temporary injunction
 
-&emsp;&emsp;&emsp;&emsp;&emsp;A court reviewing an action challenging a suspension of benefits underthis paragraph may not grant a temporary injunction with respect to such suspension unless the court finds a clear and convincing likelihood that the plaintiff will prevail on the merits of the case.
+&emsp;&emsp;&emsp;&emsp;&emsp;A court reviewing an action challenging a suspension of benefits under this paragraph may not grant a temporary injunction with respect to such suspension unless the court finds a clear and convincing likelihood that the plaintiff will prevail on the merits of the case.
 
 #### (iii) Restricted cause of action
 
@@ -936,7 +936,7 @@ For purposes of this section—
 
 #### (2) Surcharges
 
-&emsp;Any surcharges under subsection (e)(7) shall be disregarded in determining the allocationof unfunded vested benefits to an employer under section 1391 of this title and in determining the highest contribution rate under section 1399(c) of this title, except for purposes of determining the unfunded vested benefits attributable to an employer under section 1391(c)(4) of this title or a comparable method approved under section 1391(c)(5) of this title.
+&emsp;Any surcharges under subsection (e)(7) shall be disregarded in determining the allocation of unfunded vested benefits to an employer under section 1391 of this title and in determining the highest contribution rate under section 1399(c) of this title, except for purposes of determining the unfunded vested benefits attributable to an employer under section 1391(c)(4) of this title or a comparable method approved under section 1391(c)(5) of this title.
 
 #### (3) Contribution increases required by funding improvement or rehabilitation plan
 
@@ -968,7 +968,7 @@ If, within 60 days of the due date for adoption of a funding improvement plan un
 
 #### (2) Nonbargained employees only
 
-&emsp;In the case of an employer that contributes to a multiemployer plan only with respect to employees who are not covered by a collective bargaining agreement, this section shall be applied as if the employer were the bargaining party, and its participation agreement with the plan were a collective bargaining agreement with a term ending on the first day of the plan year beginning after the employer is provided the schedule or schedules described in subsections (c) and (e).
+&emsp;In the case of an employer that contributes to a multiemployer plan only with respect to employees who are not covered by a collective bargaining agreement, this section shall be applied as if the employer were the bargainingparty, and its participation agreement with the plan were a collective bargaining agreement with a term ending on the first day of the plan year beginning after the employer is provided the schedule or schedules described in subsections (c) and (e).
 
 #### (j) Definitions; actuarial method
 
@@ -1088,7 +1088,7 @@ Subsec. (c)(3)(A)(ii). Pub. L. 113–235, §105(a)(2), substituted "the last pla
 
 Subsec. (c)(7). Pub. L. 113–235, §107(a)(1), amended par. (7) generally. Prior to amendment, par. (7) related to imposition of default schedule where failure to adopt funding improvement plan.
 
-Subsec. (d). Pub. L. 113–235, §106(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) relatedto rules for operation of plan during adoption and improvement periods.
+Subsec. (d). Pub. L. 113–235, §106(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) related to rules for operation of plan during adoption and improvement periods.
 
 Subsec. (e)(3)(C). Pub. L. 113–235, §107(a)(2), amended subpar. (C) generally. Prior to amendment, subpar. (C) related to imposition of default schedule where failure to adopt rehabilitation plan.
 
@@ -1150,7 +1150,7 @@ Amendment by section 103(a) of Pub. L. 113–235 applicable with respect to plan
 
 Amendment by section 104(a) of Pub. L. 113–235 applicable with respect to plan years beginning after Dec. 31, 2014, see section 104(c) of div. O of Pub. L. 113–235, set out as a note under section 432 of Title 26, Internal Revenue Code.
 
-Amendment by section 105(a) of Pub. L. 113–235 applicable with respect to plan years beginning after Dec. 31, 2014, see section 105(c) of div. O of Pub. L. 113–235, set out as a note under section 432 of Title 26, Internal Revenue Code.
+Amendment by section 105(a) of Pub. L. 113–235 applicable with respect to plan years beginning after Dec. 31,2014, see section 105(c) of div. O of Pub. L. 113–235, set out as a note under section 432 of Title 26, Internal Revenue Code.
 
 Amendment by section 106(a) of Pub. L. 113–235 applicable with respect to plan years beginning after Dec. 31, 2014, see section 106(c) of div. O of Pub. L. 113–235, set out as a note under section 432 of Title 26, Internal Revenue Code.
 
@@ -1166,9 +1166,17 @@ Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub
 
 Section applicable with respect to plan years beginning after 2007, with special rules for certain notices and certain restored benefits, see section 202(f) of Pub. L. 109–280, set out as an Effective Date of 2006 Amendment note under section 1082 of this title.
 
+#### Temporary Delay of Designation of Multiemployer Plans as in Endangered, Critical, or Critical and Declining Status
+
+For provisions allowing election of delay of status designation of endangered, critical, or critical and declining multiemployer plans for purposes of this section, see section 9701 of Pub. L. 117–2, set out as a note under section 432 of Title 26, Internal Revenue Code.
+
+#### Temporary Extension of the Funding Improvement and Rehabilitation Periods for Multiemployer Pension Plans in Critical and Endangered Status for 2020 or 2021
+
+For provisions allowing election of extension of funding improvement period or rehabilitation period of endangered or critical multiemployer plans for purposes of this section, see section 9702 of Pub. L. 117–2, set out as a note under section 432 of Title 26, Internal Revenue Code.
+
 #### Guidance
 
-Pub. L. 113–235, div. O, title II, §201(a)(8), Dec. 16, 2014, 128 Stat. 2810, provided that: "Not later than 180 daysafter the date of the enactment of this Act \[Dec. 16, 2014\], the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, shall publish appropriate guidance to implement section 305(e)(9) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1085(e)(9))."
+Pub. L. 113–235, div. O, title II, §201(a)(8), Dec. 16, 2014, 128 Stat. 2810, provided that: "Not later than 180 days after the date of the enactment of this Act \[Dec. 16, 2014\], the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, shall publish appropriate guidance to implement section 305(e)(9) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1085(e)(9))."
 
 #### Temporary Delay of Designation of Multiemployer Plans as in Endangered or Critical Status
 

@@ -28,7 +28,7 @@ Certification provided under subsection (a) shall be sufficient if it states—
 
 #### (1) In general
 
-&emsp;In any case in which the employer has reason to doubt the validity of the certificationprovided under subsection (a) for leave under subparagraph (C) or (D) of section 2612(a)(1) of this title, the employer may require, at the expense of the employer, that the eligible employee obtain the opinion of a second health care provider designated or approved by the employer concerning any information certified under subsection (b) for such leave.
+&emsp;In any case in which the employer has reason to doubt the validity of the certification provided under subsection (a) for leave under subparagraph (C) or (D) of section 2612(a)(1) of this title, the employer may require, at the expense of the employer, that the eligible employee obtain the opinion of a second health care provider designated or approved by the employer concerning any information certified under subsection (b) for such leave.
 
 #### (2) Limitation
 

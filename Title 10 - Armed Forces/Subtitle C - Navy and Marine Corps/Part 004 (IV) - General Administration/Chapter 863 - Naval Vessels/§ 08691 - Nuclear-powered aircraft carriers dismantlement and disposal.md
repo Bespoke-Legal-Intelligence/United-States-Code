@@ -34,6 +34,8 @@ Future-years Defense Program Defined.—In this section, the term "future-years 
 
 (Added §7321 and renumbered §8691, Pub. L. 115–232, div. A, title VIII, §807(d)(2), title X, §1016(a), Aug. 13, 2018, 132 Stat. 1836, 1950.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 8691 was renumbered section 9253 of this title.
@@ -41,6 +43,8 @@ A prior section 8691 was renumbered section 9253 of this title.
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232, §807(d)(2), renumbered section 7321 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

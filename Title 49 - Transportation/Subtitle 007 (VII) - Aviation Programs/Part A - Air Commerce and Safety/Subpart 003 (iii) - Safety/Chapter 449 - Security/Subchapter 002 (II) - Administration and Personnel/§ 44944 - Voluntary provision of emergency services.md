@@ -30,6 +30,8 @@ Exception.—The exemption under subsection (b) shall not apply in any case in w
 
 (Added Pub. L. 107–71, title I, §131(a), Nov. 19, 2001, 115 Stat. 635; amended Pub. L. 115–254, div. K, title I, §1991(d)(35), Oct. 5, 2018, 132 Stat. 3641.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–254, §1991(d)(35)(B), substituted "Administrator of the Transportation Security Administration" for "Under Secretary" wherever appearing.
@@ -37,6 +39,8 @@ Exception.—The exemption under subsection (b) shall not apply in any case in w
 Subsec. (a)(1). Pub. L. 115–254, §1991(d)(35)(A)(i), substituted "Administrator of the Transportation Security Administration" for "Under Secretary of Transportation for Transportation Security".
 
 Subsec. (a)(4). Pub. L. 115–254, §1991(d)(35)(A)(ii), inserted "the Administrator of the Federal Aviation Administration," after "consult with".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Construction
 

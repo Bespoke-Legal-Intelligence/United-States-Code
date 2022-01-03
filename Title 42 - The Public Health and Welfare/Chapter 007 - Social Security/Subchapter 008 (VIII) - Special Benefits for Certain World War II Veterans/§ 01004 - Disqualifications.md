@@ -6,7 +6,7 @@ Notwithstanding section 1002 of this title, an individual may not be a qualified
 
 &emsp;(1) that begins after the month in which the Commissioner of Social Security is notified by the Attorney General that the individual has been removed from the United States pursuant to section 1227(a) or 1182(a)(6)(A) of title 8 and before the month in which the individual is lawfully admitted to the United States for permanent residence;
 
-&emsp;(2) during any part of which the individual is fleeing to avoid prosecution, or custody or confinement after conviction, under the laws of the United States or the jurisdiction withinthe United States from which the person has fled, for a crime, or an attempt to commit a crime, that is a felony under the laws of the place from which the individual has fled, or, in jurisdictions that do not define crimes as felonies, is punishable by death or imprisonment for a term exceeding 1 year regardless of the actual sentence imposed;
+&emsp;(2) during any part of which the individual is fleeing to avoid prosecution, or custody or confinement after conviction, under the laws of the United States or the jurisdiction within the United States from which the person hasfled, for a crime, or an attempt to commit a crime, that is a felony under the laws of the place from which the individual has fled, or, in jurisdictions that do not define crimes as felonies, is punishable by death or imprisonment for a term exceeding 1 year regardless of the actual sentence imposed;
 
 &emsp;(3) during any part of which the individual violates a condition of probation or parole imposed under Federal or State law; or
 
@@ -18,6 +18,8 @@ For the purpose of carrying out subsection (a)(1), the Attorney General shall no
 
 (Aug. 14, 1935, ch. 531, title VIII, §804, as added Pub. L. 106–169, title II, §251(a), Dec. 14, 1999, 113 Stat. 1845; amended Pub. L. 108–203, title II, §203(c), Mar. 2, 2004, 118 Stat. 511.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 For prior provisions, see note set out under section 1001 of this title.
@@ -25,6 +27,8 @@ For prior provisions, see note set out under section 1001 of this title.
 #### Amendments
 
 <b>2004</b>—Subsec. (a)(2). Pub. L. 108–203 substituted "or, in jurisdictions that do not define crimes as felonies, is punishable by death or imprisonment for a term exceeding 1 year regardless of the actual sentence imposed" for "or which, in the case of the State of New Jersey, is a high misdemeanor under the laws of such State".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

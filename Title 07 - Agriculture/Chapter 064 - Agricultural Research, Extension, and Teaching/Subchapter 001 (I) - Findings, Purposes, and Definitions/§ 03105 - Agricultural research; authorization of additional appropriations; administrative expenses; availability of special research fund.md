@@ -36,6 +36,8 @@ The Secretary of Agriculture, in accordance with such regulations as he deems ne
 
 (June 29, 1935, ch. 338, title I, §10, as added Aug. 14, 1946, ch. 966, title I, §101(2), 60 Stat. 1085; amended July 28, 1954, ch. 591, 68 Stat. 574.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This title, referred to in subsecs. (a) and (b), means title I of act June 29, 1935, ch. 338, 49 Stat. 436. For complete classification of this Act to the Code, see Short Title of 1935 Amendment note set out under section 3101 of this title and Tables.
@@ -50,7 +52,7 @@ Section 427c of this title, referred to in subsec. (d), was repealed by act Aug.
 
 Section was formerly classified to section 427i of this title prior to editorial reclassification and renumbering as this section.
 
-Section was enacted as part of act June 29, 1935, ch. 338, popularly known as the "Agricultural Research Act" and also as the "Bankhead-Jones Act", and not as part of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 which comprises this chapter.
+Section was enacted as part of act June 29, 1935, ch. 338, popularly known as the "Agricultural ResearchAct" and also as the "Bankhead-Jones Act", and not as part of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 which comprises this chapter.
 
 In subsec. (a), "section 6101 of title 41" substituted for "section 3709, Revised Statutes" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
@@ -59,6 +61,8 @@ In subsec. (a), "section 3324(a) and (b) of title 31" substituted for "section 3
 #### Amendments
 
 <b>1954</b>—Subsec. (e). Act July 23, 1954, added subsec. (e).
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

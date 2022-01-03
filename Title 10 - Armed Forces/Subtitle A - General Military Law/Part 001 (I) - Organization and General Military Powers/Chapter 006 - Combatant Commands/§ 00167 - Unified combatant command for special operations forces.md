@@ -60,7 +60,7 @@ Authority of Combatant Commander.—(1) In addition to the authority prescribed 
 
 &emsp;(ii) Acquisition of special operations-peculiar material, supplies, and services.
 
-(B) Subject to the authority, direction, and control of the Secretary of Defense, the commander of the command, in carrying out his functions under subparagraph (A), shall have authority to exercise the functions of the head of an agency under chapter 137 of this title.
+(B) Subject to the authority, direction, and control of the Secretary of Defense, the commander of the command, in carrying out his functions under subparagraph (A), shall have authority to exercise the functions of the head of an agency under chapter 137 <sup>1</sup> of this title.
 
 (C)(i) The staff of the commander shall include a command acquisition executive, who shall be responsible for the overall supervision of acquisition matters for the special operations command. The command acquisition executive shall have the authority to—
 
@@ -148,7 +148,11 @@ Budget Support for Reserve Elements.—(1) Before the budget proposal for the sp
 
 (Added Pub. L. 99–500, §101(c) \[title IX, §9115(b)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–122, and Pub. L. 99–591, §101(c) \[title IX, §9115(b)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–122; Pub. L. 99–661, div. A, title XIII, §1311(b)(1), Nov. 14, 1986, 100 Stat. 3983; amended Pub. L. 100–180, div. A, title XII, §1211(d), Dec. 4, 1987, 101 Stat. 1156; Pub. L. 100–456, div. A, title VII, §712, Sept. 29, 1988, 102 Stat. 1997; Pub. L. 102–88, title VI, §602(c)(3), Aug. 14, 1991, 105 Stat. 444; Pub. L. 103–337, div. A, title IX, §925, Oct. 5, 1994, 108 Stat. 2832; Pub. L. 110–181, div. A, title VIII, §810, Jan. 28, 2008, 122 Stat. 217; Pub. L. 112–81, div. A, title X, §1086(1), Dec. 31, 2011, 125 Stat. 1603; Pub. L. 113–66, div. A, title IX, §903, Dec. 26, 2013, 127 Stat. 816; Pub. L. 113–291, div. A, title X, §1071(c)(3), Dec. 19, 2014, 128 Stat. 3508; Pub. L. 114–328, div. A, title IX, §922(c), Dec. 23, 2016, 130 Stat. 2356.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
+
+Chapter 137 of this title, referred to in subsec. (e)(4)(B), was repealed by Pub. L. 116–283, div. A, title XVIII, §1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, in conjunction with the transfer and reorganization of acquisition provisions in this title by Pub. L. 116–283, div. A, title XVIII, Jan. 1, 2022, 134 Stat. 4149.
 
 The National Security Act of 1947, referred to in subsec. (h), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
 
@@ -212,6 +216,8 @@ Subsecs. (f) to (l). Pub. L. 114–328, §922(c)(2), added subsec. (f) and redes
 
 <b>1987</b>—Subsec. (e)(3). Pub. L. 100–180 added par. (3).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Pub. L. 99–500, §101(c) \[title IX, §9115(i)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–125, Pub. L. 99–591, §101(c) \[title IX, §9115(i)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–125, and Pub. L. 99–661, div. A, title XIII, §1311(i), Nov. 14, 1986, 100 Stat. 3986, provided that: "Section 167 of title 10, United States Code (as added by subsection (b)), shall be implemented not later than 180 days after the date of the enactment of this Act \[Oct. 18, 1986\]."
@@ -228,7 +234,7 @@ In General.—Not later than 180 days after the date of the enactment of this Ac
 
 Processes and Procedures.—The processes and procedures established under subsection (a) shall—
 
-&emsp;"(1) clarify the roles and responsibilities of the Secretaries of the military departments, the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict, and the Commander of United States Special Operations Command;
+&emsp;"(1) clarify the roles and responsibilities of the Secretaries of the military departments, the AssistantSecretary of Defense for Special Operations and Low Intensity Conflict, and the Commander of United States Special Operations Command;
 
 &emsp;"(2) provide guidance relating to the types of matters that would warrant congressional notification, including awards, reprimands, incidents, and any other matters the Secretary determines necessary;
 
@@ -320,7 +326,7 @@ Pub. L. 100–180, div. A, title XII, §1211(b), Dec. 4, 1987, 101 Stat. 1155, a
 
 Pub. L. 102–484, div. A, title IX, §936(a), (b), Oct. 23, 1992, 106 Stat. 2479, provided that, during the period beginning on Feb. 1, 1993, and ending on Feb. 1, 1995, the provisions of Pub. L. 99–661, §1311(e), set out below, would apply as if the Secretary of Defense had designated the United States Southern Command and the United States Central Command for the purposes of that section, and required the Secretary of Defense to submit to Congress a report setting forth the Secretary's recommendations for the grade structure for the special operations forces component commander for each unified command not later than Mar. 1, 1994.
 
-Pub. L. 100–180, div. A, title XII, §1211(e), Dec. 4, 1987, 101 Stat. 1156, directed that the major force program category for special operations forces of the Five-Year Defense Plan of the Department of Defense created pursuant to Pub. L. 99–661, §1311(c), set out below, was to be created not later than 30 days after Dec. 4, 1987, and required the Secretary of Defense to submit to committees of Congress on such date a report explaining the program recommendations and budget proposals included in such category and a certification that all program recommendations and budget proposals for special operations forces had been included.
+Pub. L. 100–180, div. A, title XII, §1211(e), Dec. 4, 1987, 101 Stat. 1156, directed that the major force programcategory for special operations forces of the Five-Year Defense Plan of the Department of Defense created pursuant to Pub. L. 99–661, §1311(c), set out below, was to be created not later than 30 days after Dec. 4, 1987, and required the Secretary of Defense to submit to committees of Congress on such date a report explaining the program recommendations and budget proposals included in such category and a certification that all program recommendations and budget proposals for special operations forces had been included.
 
 Pub. L. 99–661, div. A, title XIII, §1311(c)–(e), Nov. 14, 1986, 100 Stat. 3985, 3986, provided that:
 
@@ -341,4 +347,6 @@ Grade for Commanders of Certain Area Special Operations Commands.—The commande
 #### Report on Capabilities of United States To Conduct Special Operations and Engage in Low Intensity Conflicts
 
 Pub. L. 99–500, §101(c) \[title IX, §9115(h)(2)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–125, Pub. L. 99–591, §101(c) \[title IX, §9115(h)(2)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–125, and Pub. L. 99–661, div. A, title XIII, §1311(h)(2), Nov. 14, 1986, 100 Stat. 3986, required President, not later than one year after the date of enactment, to transmit to Congress a report on capabilities of United States to conduct special operations and engage in low intensity conflicts, the report to include a description of deficiencies in such capabilities, actions being taken throughout executive branch to correct such deficiencies, the principal low intensity conflict threats to interests of United States, and the actions taken and to be taken to implement this section.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

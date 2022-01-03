@@ -40,7 +40,7 @@ The Office may—
 
 #### (2) Standardization
 
-&emsp;Member agencies, in consultation with the Office, shall implement regulations promulgated by the Office under paragraph (1) to standardize the types and formats of data reported and collected on behalf of the Council, as described in subsection (a)(2). If a member agency fails to implement such regulations prior to the expiration of the 3-year period following the date of publication of final regulations, the Office, in consultation with the Chairperson, may implement such regulations with respect to the financial entities under the jurisdiction of the member agency. This paragraph shall not supersede or interfere with the independent authority of a member agency under other law to collect data, in such format and manner as the member agency requires.
+&emsp;Member agencies, in consultation with the Office, shall implement regulations promulgated by the Office under paragraph (1) to standardize the types and formats of data reported and collected on behalf of the Council,as described in subsection (a)(2). If a member agency fails to implement such regulations prior to the expiration of the 3-year period following the date of publication of final regulations, the Office, in consultation with the Chairperson, may implement such regulations with respect to the financial entities under the jurisdiction of the member agency. This paragraph shall not supersede or interfere with the independent authority of a member agency under other law to collect data, in such format and manner as the member agency requires.
 
 #### (d) Testimony
 

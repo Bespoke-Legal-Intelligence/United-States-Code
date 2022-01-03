@@ -40,7 +40,7 @@ The Truth in Lending Act, referred to in subsec. (b), is title I of Pub. L. 90�
 
 Subsec. (d). Pub. L. 107–73, §206(2), added subsec. (d).
 
-<b>1988</b>—Subsec. (c). Pub. L. 100–242 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "The aggregate number of mortgages and loans insured under this section, section 1715z–10(c) of this title, and section 1715z–17 of this title in any fiscal year may not exceed 10 percent of the aggregate number ofmortgages and loans insured by the Secretary under this subchapter during the preceding fiscal year."
+<b>1988</b>—Subsec. (c). Pub. L. 100–242 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "The aggregate number of mortgages and loans insured under this section, section 1715z–10(c) of this title, and section 1715z–17 of this title in any fiscal year may not exceed 10 percent of the aggregate number of mortgages and loans insured by the Secretary under this subchapter during the preceding fiscal year."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

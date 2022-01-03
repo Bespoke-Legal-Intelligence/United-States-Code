@@ -22,7 +22,7 @@ The purpose of this section is to provide incentives to encourage and reward eff
 
 #### (d) Option to obtain commodities from Secretary of Agriculture
 
-(1) Each State agency and each title VI \[subchapter X\] grantee shall be entitled to use all or any part of amounts allotted under subsection (b) to obtain, subject to paragraphs (2) and (3), from the Secretary of Agriculture commodities available through any food program of the Department of Agriculture at the rates at which such commodities are valued for purposes of such program.
+(1) Each State agency and each title VI \[subchapter X\] grantee shall be entitled to use all or any part of amounts allotted under subsection (b) to obtain, subject to paragraphs (2) and (3), from the Secretary of Agriculture commoditiesavailable through any food program of the Department of Agriculture at the rates at which such commodities are valued for purposes of such program.
 
 (2) The Secretary of Agriculture shall determine and report to the Secretary, by such date as the Secretary may require, the amount (if any) of its allotment under subsection (b) which each State agency and title VI \[subchapter X\] grantee has elected to receive in the form of commodities. Such amount shall include an amount bearing the same ratio to the costs to the Secretary of Agriculture of providing such commodities under this subsection as the value of commodities received by such State agency or title VI \[subchapter X\] grantee under this subsection bears to the total value of commodities so received.
 
@@ -41,6 +41,8 @@ There are authorized to be appropriated to carry out this section (other than su
 In each fiscal year, the Secretary and the Secretary of Agriculture shall jointly disseminate to State agencies, title VI \[subchapter X\] grantees, area agencies on aging, and providers of nutrition services assisted under this subchapter, information concerning the foods available to such State agencies, title VI \[subchapter X\] grantees, area agencies on aging, and providers under subsection (c).
 
 (Pub. L. 89–73, title III, §311, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1533; amended Pub. L. 97–115, §9, Dec. 29, 1981, 95 Stat. 1600; Pub. L. 98–459, title III, §310, Oct. 9, 1984, 98 Stat. 1779; Pub. L. 99–269, §§2, 3(b), 4, Apr. 1, 1986, 100 Stat. 78; Pub. L. 100–175, title I, §122(c), Nov. 29, 1987, 101 Stat. 933; Pub. L. 102–375, title I, §102(b)(10)(A), title III, §310, Sept. 30, 1992, 106 Stat. 1202, 1236; Pub. L. 103–171, §3(a)(6), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 106–501, title III, §309, Nov. 13, 2000, 114 Stat. 2246; Pub. L. 108–7, div. G, title II, §217(a), Feb. 20, 2003, 117 Stat. 325; Pub. L. 109–365, title III, §309, Oct. 17, 2006, 120 Stat. 2545; Pub. L. 110–19, §2, Apr. 23, 2007, 121 Stat. 84; Pub. L. 114–144, §4(f), Apr. 19, 2016, 130 Stat. 339; Pub. L. 116–131, title II, §203(b), Mar. 25, 2020, 134 Stat. 255.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -100,7 +102,7 @@ Pub. L. 108–7, §217(a)(2)(C), redesignated par. (4) as (5).
 
 Subsecs. (a), (b). Pub. L. 106–501, §309(3), added subsecs. (a) and (b). Former subsecs. (a) and (b) redesignated (c) and (d), respectively.
 
-Subsec. (c). Pub. L. 106–501, §309(2), (4), redesignated subsec. (a) as (c) and struck out par. (4) which relatedto the level of assistance the Secretary of Agriculture was to maintain in donating commodities under this subsection for fiscal years 1992 and 1993 and required the Secretary to give emphasis to high protein foods, meat, and meat alternates. Former subsec. (c) redesignated (e).
+Subsec. (c). Pub. L. 106–501, §309(2), (4), redesignated subsec. (a) as (c) and struck out par. (4) which related to the level of assistance the Secretary of Agriculture was to maintain in donating commodities under this subsection for fiscal years 1992 and 1993 and required the Secretary to give emphasis to high protein foods, meat, and meat alternates. Former subsec. (c) redesignated (e).
 
 Subsec. (d). Pub. L. 106–501, §309(2), redesignated subsec. (b) as (d). Former subsec. (d) redesignated (f).
 
@@ -153,6 +155,8 @@ Subsec. (d). Pub. L. 98–459, §310(b)(1), redesignated subsec. (d) as (c). See
 Subsecs. (b), (c). Pub. L. 97–115, §9(b), redesignated subsec. (c) as (b). Former subsec. (b), providing for the purchase, during fiscal years ending before Oct. 1, 1981, of high protein foods, meats, and meat alternatives by the Secretary of Agriculture for distribution to recipients of grants or contracts to be used for providing nutrition services in accordance with the provisions of this subchapter, was struck out.
 
 Subsec. (d). Pub. L. 97–115, §9(c), added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

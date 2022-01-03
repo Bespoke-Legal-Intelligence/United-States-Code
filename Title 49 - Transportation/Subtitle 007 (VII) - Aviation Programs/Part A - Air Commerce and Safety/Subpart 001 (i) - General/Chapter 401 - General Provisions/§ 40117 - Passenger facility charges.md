@@ -20,7 +20,7 @@ Eligible airport-related project.—The term "eligible airport-related project" 
 
 &emsp;&emsp;(B) A project for terminal development described in section 47119(a).
 
-&emsp;&emsp;(C) A project for costs of terminal development referred to in subparagraph (B) incurred after August 1, 1986, at an airport that did not have more than .25 percent of the total annual passenger boardings in the United States in the most recent calendar year for which data is available and at which total passenger boardings declined by at least 16 percent between calendar year 1989 and calendar year 1997.
+&emsp;&emsp;(C) A project for costs of terminal development referred to in subparagraph (B) incurred after August 1, 1986, at an airport that did not have more than .25 percent ofthe total annual passenger boardings in the United States in the most recent calendar year for which data is available and at which total passenger boardings declined by at least 16 percent between calendar year 1989 and calendar year 1997.
 
 &emsp;&emsp;(D) A project for airport noise capability planning under section 47505.
 
@@ -72,7 +72,7 @@ In general.—In addition to the uses specified in paragraphs (1), (4), and (6),
 
 &emsp;&emsp;(ii) the building is owned or chartered by the school district that was the plaintiff in case number 986,442 or 986,446, which was resolved by such judgment and final order;
 
-&emsp;&emsp;(iii) the project is for a school identified in 1 of the settlement agreements effective February 16, 2005, between the airport and each of the school districts;
+&emsp;&emsp;(iii) the project is for a school identified in 1 of the settlement agreements effectiveFebruary 16, 2005, between the airport and each of the school districts;
 
 &emsp;&emsp;(iv) in the case of a project to replace a relocatable building with a permanent building, the eligible project costs are limited to the actual structural construction costs necessary to mitigate aircraft noise in instructional classrooms to an interior noise level meeting current standards of the Federal Aviation Administration; and
 
@@ -200,7 +200,7 @@ Regulations.—The Secretary shall prescribe regulations necessary to carry out 
 
 &emsp;(3) may permit an eligible agency to request that collection of a passenger facility charge be waived for—
 
-&emsp;&emsp;(A) passengers enplaned by any class of air carrier or foreign air carrier if the number of passengers enplaned by the carriers in the class constitutes not more than one percent of the total number of passengers enplaned annually at the airport at which the charge is imposed; or
+&emsp;&emsp;(A) passengers enplaned by any class of air carrier or foreign air carrier if the number of passengers enplaned by the carriers in theclass constitutes not more than one percent of the total number of passengers enplaned annually at the airport at which the charge is imposed; or
 
 &emsp;&emsp;(B) passengers enplaned on a flight to an airport—
 
@@ -292,7 +292,7 @@ Existing regulations.—The provisions of section 158.49 of title 14, Code of Fe
 
 &emsp;(7)
 
-Covered air carrier defined.—In this section, the term "covered air carrier" means an air carrier that files for chapter 7 or chapter 11 of title 11 bankruptcy protection, or has an involuntary chapter 7 of title 11 bankruptcy proceeding commenced against it, after the date of enactment of this subsection.
+Covered air carrier defined.—In this section, the term "covered air carrier" means an air carrier that files for chapter 7 or chapter 11 of title 11 bankruptcy protection, or hasan involuntary chapter 7 of title 11 bankruptcy proceeding commenced against it, after the date of enactment of this subsection.
 
 (n)
 
@@ -302,7 +302,7 @@ Use of Revenues at Previously Associated Airport.—Notwithstanding the requirem
 
 &emsp;(2) the location of the project to be financed by the new charge is at an airport that was under the control of the same eligible agency that had controlled the airport described in paragraph (1).
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1113; Pub. L. 103–305, title II, §§203, 204(a)(1), (b), Aug. 23, 1994, 108 Stat. 1582, 1583; Pub. L. 104–264, title I, §142(b)(2), title XII, §1202, Oct. 9, 1996, 110 Stat. 3221, 3280; Pub. L. 104–287, §5(67), Oct. 11, 1996, 110 Stat. 3395; Pub. L. 106–181, title I, §§105(a), (b), 135(a), (b), 151, 152(a), 155(c), Apr. 5, 2000, 114 Stat. 71, 83, 86–88; Pub. L. 108–176, title I, §§121(a)–(c), 122–123(d), 124, Dec. 12, 2003, 117 Stat. 2499–2502; Pub. L. 110–253, §3(c)(1), June 30, 2008, 122 Stat. 2417; Pub. L. 110–330, §5(a), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 110–337, §1, Oct. 2, 2008, 122 Stat. 3729; Pub. L. 111–12, §5(a), Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §5(a), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §5(a), Dec. 16, 2009, 123 Stat. 3032; Pub. L. 111–153, §5(a), Mar. 31, 2010, 124Stat. 1085; Pub. L. 111–161, §5(a), Apr. 30, 2010, 124 Stat. 1127; Pub. L. 111–197, §5(a), July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §104(a), Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, §5(a), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 111–329, §5(a), Dec. 22, 2010, 124 Stat. 3567; Pub. L. 112–7, §5(a), Mar. 31, 2011, 125 Stat. 32; Pub. L. 112–16, §5(a), May 31, 2011, 125 Stat. 219; Pub. L. 112–21, §5(a), June 29, 2011, 125 Stat. 234; Pub. L. 112–27, §5(a), Aug. 5, 2011, 125 Stat. 271; Pub. L. 112–30, title II, §205(a), Sept. 16, 2011, 125 Stat. 358; Pub. L. 112–91, §5(a), Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title I, §§111(a)–(c)(1), 152(e)(1), Feb. 14, 2012, 126 Stat. 17, 18, 34; Pub. L. 114–190, title II, §2302, July 15, 2016, 130 Stat. 638; Pub. L. 115–254, div. B, title I, §121, div. B, title V, §539(b), Oct. 5, 2018, 132 Stat. 3201, 3370.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1113; Pub. L. 103–305, title II, §§203, 204(a)(1), (b), Aug. 23, 1994, 108 Stat. 1582, 1583; Pub. L. 104–264, title I, §142(b)(2), title XII, §1202, Oct. 9, 1996, 110 Stat. 3221, 3280; Pub. L. 104–287, §5(67), Oct. 11, 1996, 110 Stat. 3395; Pub. L. 106–181, title I, §§105(a), (b), 135(a), (b), 151, 152(a), 155(c), Apr. 5, 2000, 114 Stat. 71, 83, 86–88; Pub. L. 108–176, title I, §§121(a)–(c), 122–123(d), 124, Dec. 12, 2003, 117 Stat. 2499–2502; Pub. L. 110–253, §3(c)(1), June 30, 2008, 122 Stat. 2417; Pub. L. 110–330, §5(a), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 110–337, §1, Oct. 2, 2008, 122 Stat. 3729; Pub. L. 111–12, §5(a), Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §5(a), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §5(a), Dec. 16, 2009, 123 Stat. 3032; Pub. L. 111–153, §5(a), Mar. 31, 2010, 124 Stat. 1085; Pub. L. 111–161, §5(a), Apr. 30, 2010, 124 Stat. 1127; Pub. L. 111–197, §5(a), July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §104(a), Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, §5(a), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 111–329, §5(a), Dec. 22, 2010, 124 Stat. 3567; Pub. L. 112–7, §5(a), Mar. 31, 2011, 125 Stat. 32; Pub. L. 112–16, §5(a), May 31, 2011, 125 Stat. 219; Pub. L. 112–21, §5(a), June 29, 2011, 125 Stat. 234; Pub. L. 112–27, §5(a), Aug. 5, 2011, 125 Stat. 271; Pub. L. 112–30, title II, §205(a), Sept. 16, 2011, 125 Stat. 358; Pub. L. 112–91, §5(a), Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title I, §§111(a)–(c)(1), 152(e)(1), Feb. 14, 2012, 126 Stat. 17, 18, 34; Pub. L. 114–190, title II, §2302, July 15, 2016, 130 Stat. 638; Pub. L. 115–254, div. B, title I, §121, div. B, title V, §539(b), Oct. 5, 2018, 132 Stat. 3201, 3370.)
 
 Historical and Revision Notes
 
@@ -427,6 +427,8 @@ In subsection (i), before clause (1), the words "Not later than May 4, 1991" are
 #### Pub. L. 104–287
 
 This repeals 49:40117(e)(2)(C) to eliminate an executed provision and makes conforming amendments.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -585,6 +587,8 @@ Subsec. (g)(4). Pub. L. 104–264, §1202, added par. (4).
 Subsec. (d)(3). Pub. L. 103–305, §204(b), added par. (3).
 
 Subsec. (e)(2)(D). Pub. L. 103–305, §204(a)(1), added subpar. (D).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 

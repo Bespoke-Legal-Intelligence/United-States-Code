@@ -8,11 +8,15 @@ In this subchapter:
 
 (Added Pub. L. 104–106, div. A, title XIII, §1321(a)(1), Feb. 10, 1996, 110 Stat. 477, §2540d; renumbered §4975, Pub. L. 116–283, div. A, title XVIII, §1873(b), (c)(1), Jan. 1, 2021, 134 Stat. 4290.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283 renumbered section 2540d of this title as this section.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2021 Amendment
 
-Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementationand applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 

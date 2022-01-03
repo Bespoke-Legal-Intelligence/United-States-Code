@@ -184,7 +184,7 @@ Regulations to carry out amendment by Pub. L. 116–92 to be prescribed no later
 
 #### Weighted Average for First Year
 
-Pub. L. 113–67, div. A, title VII, §706(d), Dec. 26, 2013, 127 Stat. 1194, provided that: "For the first contractyear for which an employee may enroll for self plus one coverage under chapter 89 of title 5, United States Code, the Office of Personnel Management shall determine the weighted average of the subscription charges that will be in effect for the contract year for enrollments for self plus one under such chapter based on an actuarial analysis."
+Pub. L. 113–67, div. A, title VII, §706(d), Dec. 26, 2013, 127 Stat. 1194, provided that: "For the first contract year for which an employee may enroll for self plus one coverage under chapter 89 of title 5, United States Code, the Office of Personnel Management shall determine the weighted average of the subscription charges that will be in effect for the contract year for enrollments for self plus one under such chapter based on an actuarial analysis."
 
 #### Election of Health Benefits Coverage and Entitlement to Health Benefits Under this Chapter Rather Than Under Retired Federal Employees Health Benefits Act
 

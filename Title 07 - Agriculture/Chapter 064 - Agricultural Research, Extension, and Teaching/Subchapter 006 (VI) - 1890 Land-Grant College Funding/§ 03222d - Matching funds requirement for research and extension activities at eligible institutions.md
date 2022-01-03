@@ -44,6 +44,8 @@ Under terms and conditions established by the Secretary, matching funds provided
 
 (Pub. L. 95–113, title XIV, §1449, as added Pub. L. 105–185, title II, §226(a), June 23, 1998, 112 Stat. 542; amended Pub. L. 107–171, title VII, §7212, May 13, 2002, 116 Stat. 447; Pub. L. 110–234, title VII, §7127, May 22, 2008, 122 Stat. 1223; Pub. L. 110–246, §4(a), title VII, §7127, June 18, 2008, 122 Stat. 1664, 1984.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Act of August 30, 1890, referred to in subsec. (a)(1), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
@@ -70,7 +72,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 &emsp;"(1) For fiscal year 2000, the State shall provide matching funds from non-Federal sources in an amount equal to not less than 30 percent of the formula funds to be distributed to the eligible institution.
 
-&emsp;"(2) For fiscal year 2001, the State shall provide matching funds from non-Federal sources in anamount equal to not less than 45 percent of the formula funds to be distributed to the eligible institution.
+&emsp;"(2) For fiscal year 2001, the State shall provide matching funds from non-Federal sources in an amount equal to not less than 45 percent of the formula funds to be distributed to the eligible institution.
 
 &emsp;"(3) For fiscal year 2002 and each fiscal year thereafter, the State shall provide matching funds from non-Federal sources in an amount equal to not less than 50 percent of the formula funds to be distributed to the eligible institution."
 
@@ -83,6 +85,8 @@ Fiscal year 2000.—Notwithstanding subsection (f) of this section, the Secretar
 "(2)
 
 Future fiscal years.—The Secretary may not waive the matching requirement under subsection (c) of this section for any fiscal year other than fiscal year 2000."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

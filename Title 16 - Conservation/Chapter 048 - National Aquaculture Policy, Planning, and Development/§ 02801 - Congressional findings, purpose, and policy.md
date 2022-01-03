@@ -16,7 +16,7 @@ Congress finds the following:
 
 &emsp;(6) The principal responsibility for the development of aquaculture in the United States must rest with the private sector.
 
-&emsp;(7) Despite its potential, the development of aquaculture in the United States has been inhibited by many scientific, economic, legal,and production factors, such as inadequate credit, diffused legal jurisdiction, the lack of management information, the lack of supportive Government policies, and the lack of reliable supplies of seed stock.
+&emsp;(7) Despite its potential, the development of aquaculture in the United States has been inhibited by many scientific, economic, legal, and production factors, such as inadequate credit, diffused legal jurisdiction, the lack of management information, the lack of supportive Government policies, and the lack of reliable supplies of seed stock.
 
 &emsp;(8) Many areas of the United States are suitable for aquaculture, but are subject to land-use or water-use management policies that do not adequately consider the potential for aquaculture and may inhibit the development of aquaculture.
 
@@ -40,6 +40,8 @@ Congress declares that aquaculture has the potential for reducing the United Sta
 
 (Pub. L. 96–362, §2, Sept. 26, 1980, 94 Stat. 1198; Pub. L. 99–198, title XVII, §1732, Dec. 23, 1985, 99 Stat. 1641.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1985</b>—Subsec. (a)(3). Pub. L. 99–198, §1732(1), substituted "13 percent" for "10 per centum" and "6 percent" for "3 per centum".
@@ -49,6 +51,8 @@ Subsec. (a)(7). Pub. L. 99–198, §1732(2), inserted "scientific," before "econ
 Subsec. (b)(3), (4). Pub. L. 99–198, §1732(3), added par. (3) and redesignated former par. (3) as (4).
 
 Subsec. (c). Pub. L. 99–198, §1732(4), inserted "or reducing the United States trade deficit in fisheries products,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 1985 Amendment
 

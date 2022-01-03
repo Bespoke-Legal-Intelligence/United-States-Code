@@ -28,7 +28,7 @@ Such report shall also disaggregate the data described in subsection (a) with re
 
 #### Codification
 
-Section was enacted as part of the Department of Homeland Security Appropriations Act, 2020, and alsoas part of the Consolidated Appropriations Act, 2020, and not as part of the Immigration and Nationality Act which comprises this chapter.
+Section was enacted as part of the Department of Homeland Security Appropriations Act, 2020, and also as part of the Consolidated Appropriations Act, 2020, and not as part of the Immigration and Nationality Act which comprises this chapter.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

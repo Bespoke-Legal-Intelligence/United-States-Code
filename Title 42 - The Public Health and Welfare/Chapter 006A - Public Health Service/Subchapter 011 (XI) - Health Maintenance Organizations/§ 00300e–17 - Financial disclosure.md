@@ -12,7 +12,7 @@ Each health maintenance organization shall, in accordance with regulations of th
 
 &emsp;&emsp;(A) any sale or exchange, or leasing of any property between the health maintenance organization and a party in interest;
 
-&emsp;&emsp;(B) any furnishing for consideration of goods, services (including management services), or facilities between the health maintenance organization and a party in interest, but not including salaries paid to employees for services provided in the normal course oftheir employment and health services provided to members by hospitals and other providers and by staff, medical group (or groups), individual practice association (or associations), or any combination thereof; and
+&emsp;&emsp;(B) any furnishing for consideration of goods, services (including management services), or facilities between the health maintenance organization and a party in interest, but not including salaries paid to employees for services provided in the normal course of their employment and health services provided to members by hospitals and other providers and by staff, medical group (or groups), individual practice association (or associations), or any combination thereof; and
 
 &emsp;&emsp;(C) any lending of money or other extension of credit between a health maintenance organization and a party in interest.
 
@@ -62,6 +62,8 @@ Whoever knowingly and willfully makes or causes to be made any false statement o
 
 (July 1, 1944, ch. 373, title XIII, §1318, as added Pub. L. 95–559, §9(a), Nov. 1, 1978, 92 Stat. 2135; amended Pub. L. 97–35, title IX, §948, Aug. 13, 1981, 95 Stat. 577; Pub. L. 99–660, title VIII, §810, Nov. 14, 1986, 100 Stat. 3801; Pub. L. 108–173, title IX, §900(e)(2)(E), Dec. 8, 2003, 117 Stat. 2372.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2003</b>—Subsec. (a)(2). Pub. L. 108–173 substituted "Centers for Medicare \& Medicaid Services" for "Health Care Financing Administration".
@@ -79,6 +81,8 @@ Whoever knowingly and willfully makes or causes to be made any false statement o
 Subsec. (b)(1). Pub. L. 97–35, §948(c), inserted "responsible for management or administration" after "employee".
 
 Subsec. (b)(4). Pub. L. 97–35, §948(d), substituted "spouse, child, or parent" for "member of the immediate family".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

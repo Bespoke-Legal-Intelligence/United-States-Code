@@ -44,7 +44,9 @@ Any records, reports or information obtained under subsection (a) shall be avail
 
 (2) Nothing in paragraph (1) shall be construed to provide that any failure of the Administrator to comply with the requirements of such paragraph shall be a defense in any enforcement action brought by the Administrator or shall make inadmissible as evidence in any such action any information or material obtained notwithstanding such failure to comply with such requirements.
 
-(July 14, 1955, ch. 360, title I, §114, as added Pub. L. 91–604, §4(a), Dec. 31, 1970, 84 Stat. 1687; amended Pub. L. 93–319, §6(a)(4), June 22, 1974, 88 Stat. 259; Pub. L. 95–95, title I, §§109(d)(3), 113, title III, §305(d), Aug. 7, 1977, 91 Stat. 701, 709,776; Pub. L. 95–190, §14(a)(22), (23), Nov. 16, 1977, 91 Stat. 1400; Pub. L. 101–549, title III, §302(c), title VII, §702(a), (b), Nov. 15, 1990, 104 Stat. 2574, 2680, 2681.)
+(July 14, 1955, ch. 360, title I, §114, as added Pub. L. 91–604, §4(a), Dec. 31, 1970, 84 Stat. 1687; amended Pub. L. 93–319, §6(a)(4), June 22, 1974, 88 Stat. 259; Pub. L. 95–95, title I, §§109(d)(3), 113, title III, §305(d), Aug. 7, 1977, 91 Stat. 701, 709, 776; Pub. L. 95–190, §14(a)(22), (23), Nov. 16, 1977, 91 Stat. 1400; Pub. L. 101–549, title III, §302(c), title VII, §702(a), (b), Nov. 15, 1990, 104 Stat. 2574, 2680, 2681.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -77,6 +79,8 @@ Subsec. (b)(1). Pub. L. 95–95, §109(d)(3), struck out "(except with respect t
 Subsec. (d). Pub. L. 95–95, §113, added subsec. (d).
 
 <b>1974</b>—Subsec. (a). Pub. L. 93–319 inserted reference to section 119.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1977 Amendment
 

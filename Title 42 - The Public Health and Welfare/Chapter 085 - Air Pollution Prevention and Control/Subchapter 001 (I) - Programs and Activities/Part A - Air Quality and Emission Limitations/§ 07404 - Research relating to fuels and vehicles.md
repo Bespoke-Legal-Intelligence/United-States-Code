@@ -16,11 +16,11 @@ The Administrator shall give special emphasis to research and development into n
 
 &emsp;&emsp;(E) producing synthetic or new fuels which, when used, result in decreased atmospheric emissions.<sup>1</sup>
 
-&emsp;(2) provide for Federal grants to public or nonprofit agencies, institutions, and organizations and to individuals, and contracts with public or private agencies, institutions, or persons, for payment of (A) part of the cost of acquiring, constructing, or otherwise securing for research and development purposes, new or improved devices or methods having industrywide application of preventing or controlling discharges into the air of various types of pollutants; (B) part of the cost of programs to develop low emission alternatives to the present internal combustion engine; (C) the cost to purchase vehicles and vehicle engines, or portions thereof, for research, development, and testing purposes; and (D) carrying out the other provisions of this section, without regard to section 3324(a) and (b) of title 31 and section 6101 of title 41: <i>Provided</i>, That research or demonstration contracts awarded pursuant to this subsection (including contracts for construction) may be made in accordance with, and subject to the limitations provided with respect to research contracts of the military departments in, section 2353 of title 10, except that the determination, approval, and certification required thereby shall be made by the Administrator; <i>Provided further</i>, That no grant may be made under this paragraph in excess of $1,500,000;
+&emsp;(2) provide for Federal grants to public or nonprofit agencies, institutions, and organizations and to individuals, and contracts with public or private agencies, institutions, or persons, for payment of (A) part of the cost of acquiring, constructing, or otherwise securing for research and development purposes, new or improved devices or methods having industrywide application of preventing or controlling discharges into the air of various types of pollutants; (B) part of the cost of programs to develop low emission alternatives to the present internal combustion engine; (C) the cost to purchase vehicles and vehicle engines, or portions thereof, for research, development, and testing purposes; and (D) carrying out the other provisions of this section, without regard to section 3324(a) and (b) of title 31 and section 6101 of title 41: <i>Provided</i>, That research or demonstration contracts awarded pursuant to this subsection (including contracts for construction) may be made in accordance with, and subject to the limitations provided with respect to research contracts of the military departments in, section 2353 <sup>2</sup> of title 10, except that the determination, approval, and certification required thereby shall be made by the Administrator; <i>Provided further</i>, That no grant may be made under this paragraph in excess of $1,500,000;
 
 &emsp;(3) determine, by laboratory and pilot plant testing, the results of air pollution research and studies in order to develop new or improved processes and plant designs to the point where they can be demonstrated on a large and practical scale;
 
-&emsp;(4) construct, operate, and maintain, or assist in meeting the cost of the construction, operation, and maintenance of new or improved demonstration plants or processes which have promise of accomplishing the purposes of this chapter; <sup>2</sup>
+&emsp;(4) construct, operate, and maintain, or assist in meeting the cost of the construction, operation, and maintenance of new or improved demonstration plants or processes which have promise of accomplishing the purposes of this chapter; <sup>3</sup>
 
 &emsp;(5) study new or improved methods for the recovery and marketing of commercially valuable byproducts resulting from the removal of pollutants.
 
@@ -44,9 +44,15 @@ The Administrator shall conduct a research program to identify, characterize, an
 
 (July 14, 1955, ch. 360, title I, §104, as added Pub. L. 90–148, §2, Nov. 21, 1967, 81 Stat. 487; amended Pub. L. 91–137, Dec. 5, 1969, 83 Stat. 283; Pub. L. 91–604, §§2(b), (c), 13(a), 15(c)(2), Dec. 31, 1970, 84 Stat. 1676, 1677, 1709, 1713; Pub. L. 93–15, §1(a), Apr. 9, 1973, 87 Stat. 11; Pub. L. 93–319, §13(a), June 22, 1974, 88 Stat. 265; Pub. L. 101–549, title IX, §901(d), Nov. 15, 1990, 104 Stat. 2706.)
 
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+Section 2353 of title 10, referred to in subsec. (a)(2), was renumbered section 4174 of title 10 by Pub. L. 116–283, div. A, title XVIII, §1844(b)(1), Jan. 1, 2021, 134 Stat. 4245, as amended by Pub. L. 117–81, div. A, title XVII, §1701(u)(6)(B), Dec. 27, 2021, 135 Stat. 2154.
+
 #### Codification
 
-In subsec. (a)(2)(D), "section 3324(a) and (b) of title 31 and section 6101 of title 41" substituted for "sections 3648 and 3709 of the Revised Statutes (31 U.S.C. 529; 41 U.S.C. 5)" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, which Act enacted Title 31, Money and Finance, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a)(2)(D), "section 3324(a) and (b) of title 31 and section 6101 of title 41" substituted for "sections 3648 and 3709 of the Revised Statutes (31 U.S.C. 529; 41U.S.C. 5)" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, which Act enacted Title 31, Money and Finance, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 Section was formerly classified to section 1857b–1 of this title.
 
@@ -76,6 +82,8 @@ Subsec. (c). Pub. L. 91–604, §13(a), substituted provisions authorizing appro
 
 <b>1969</b>—Subsec. (c). Pub. L. 91–137 authorized appropriation of $45,000,000 for fiscal year ending June 30, 1970.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Hydrogen Fuel Cell Vehicle Study and Test Program
 
 Pub. L. 101–549, title VIII, §807, Nov. 15, 1990, 104 Stat. 2689, provided that the Administrator of the Environmental Protection Agency, in conjunction with the National Aeronautics and Space Administration and the Department of Energy, would conduct a study, performed in the university or universities which are best exhibiting the facilities and expertise to develop such a fuel cell vehicle and test program on the development of a hydrogen fuel cell electric vehicle, to determine how best to transfer existing NASA hydrogen fuel cell technology into the form of a mass-producible, cost effective hydrogen fuel cell vehicle and include at a minimum a feasibility-design study, the construction of a prototype, and a demonstration, and provided that the study and test program were to be completed and a report submitted to Congress within 3 years after Nov. 15, 1990.
@@ -90,5 +98,7 @@ Pub. L. 91–316, July 10, 1970, 84 Stat. 416, provided in part that the authori
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 
-<i><sup>2</sup></i><i> So in original. The word "and" probably should appear.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
+
+<i><sup>3</sup></i><i> So in original. The word "and" probably should appear.</i>
 

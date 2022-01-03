@@ -46,6 +46,8 @@ If the Secretary determines that there has been or may have been an unauthorized
 
 (Added Pub. L. 116–25, title II, §2007(a), July 1, 2019, 133 Stat. 1005.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2019 Amendment
 
 Pub. L. 116–25, title II, §2007(d), July 1, 2019, 133 Stat. 1006, provided that: "The amendments made by this section \[enacting this section and amending section 432 of Title 42, The Public Health and Welfare\] shall apply to determinations made after the date that is 6 months after the date of the enactment of this Act \[July 1, 2019\]."
@@ -96,7 +98,7 @@ Team or subset.—The employees included within the team or subset described in 
 
 #### Examination of Both Paper and Electronic Statements and Returns
 
-Pub. L. 116–25, title II, §2007(b)(1), July 1, 2019, 133 Stat. 1006, provided that: "The Secretary of the Treasury (or the Secretary's delegate) shall examine thestatements, information returns, and tax returns described in section 7529(b)(2) of the Internal Revenue Code of 1986 (as added by subsection (a)) for any evidence of employment-related identity theft, regardless of whether such statements or returns are submitted electronically or on paper."
+Pub. L. 116–25, title II, §2007(b)(1), July 1, 2019, 133 Stat. 1006, provided that: "The Secretary of the Treasury (or the Secretary's delegate) shall examine the statements, information returns, and tax returns described in section 7529(b)(2) of the Internal Revenue Code of 1986 (as added by subsection (a)) for any evidence of employment-related identity theft, regardless of whether such statements or returns are submitted electronically or on paper."
 
 #### Underreporting of Income
 

@@ -1,6 +1,6 @@
 ### §2712. Issue of warrant
 
-Upon an order of a judge of a court, or, in his absence and upon the clerk's own initiative, theclerk shall issue a warrant for the attachment of the property belonging to the person specified in the affidavit. The marshal shall execute the warrant forthwith and take the property attached, if personal, in his custody, subject to the interlocutory or final orders of the court.
+Upon an order of a judge of a court, or, in his absence and upon the clerk's own initiative, the clerk shall issue a warrant for the attachment of the property belonging to the person specified in the affidavit. The marshal shall execute the warrant forthwith and take the property attached, if personal, in his custody, subject to the interlocutory or final orders of the court.
 
 (Added Pub. L. 86–682, §9, Sept. 2, 1960, 74 Stat. 707.)
 

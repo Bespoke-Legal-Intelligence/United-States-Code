@@ -4,6 +4,8 @@ On and after November 10, 2005, the Chief Financial Officer shall actively marke
 
 (Pub. L. 109–97, title I, Nov. 10, 2005, 119 Stat. 2121.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the appropriation act cited as the credit to this section.

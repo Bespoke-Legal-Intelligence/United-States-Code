@@ -32,7 +32,7 @@ The Commission shall also have the power—
 
 &emsp;(9) to delegate to the general counsel of the Commission the authority to issue subpoenas solely to Federal, State, or local government agencies for evidence described in paragraph (3); and
 
-&emsp;(10) to delegate any of its functions or powers, other than the power to issue subpenas under paragraph (3) (except as provided in paragraph (9)), to any officer or employee of the Commission.
+&emsp;(10) to delegate any of its functions or powers, other than the power to issue subpenasunder paragraph (3) (except as provided in paragraph (9)), to any officer or employee of the Commission.
 
 > An order issued under paragraph (1) shall contain a complete statement of the reason the Commission requires the report or answers specified in the order to carry out a specific regulatory or enforcement function of the Commission. Such an order shall be designed to place the least burden on the person subject to the order as is practicable taking into account the purpose for which the order was issued.
 
@@ -92,7 +92,7 @@ Notwithstanding section 3003 of the Federal Reports Elimination and Sunset Act o
 
 &emsp;(8) a list, with a brief statement of the issues, of completed or pending judicial actions under this chapter;
 
-&emsp;(9) the extent to which technical information was disseminated to the scientific and commercial communities and consumer information was made available to the public;
+&emsp;(9) the extent to which technical information was disseminated to the scientific andcommercial communities and consumer information was made available to the public;
 
 &emsp;(10) the extent of cooperation between Commission officials and representatives of industry and other interested parties in the implementation of this chapter, including a log or summary of meetings held between Commission officials and representatives of industry and other interested parties;
 
@@ -121,6 +121,8 @@ Notwithstanding section 3003 of the Federal Reports Elimination and Sunset Act o
 (2) Whenever the Commission submits any legislative recommendations, or testimony, or comments on legislation to the President or the Office of Management and Budget, it shall concurrently transmit a copy thereof to the Congress. No officer or agency of the United States shall have any authority to require the Commission to submit its legislative recommendations, or testimony, or comments on legislation, to any officer or agency of the United States for approval, comments, or review, prior to the submission of such recommendations, testimony, or comments to the Congress.
 
 (Pub. L. 92–573, §27, Oct. 27, 1972, 86 Stat. 1227; Pub. L. 94–273, §31, Apr. 21, 1976, 90 Stat. 380; Pub. L. 94–284, §§8(b), 11(c), (d), 14, May 11, 1976, 90 Stat. 506–509; Pub. L. 95–631, §11, Nov. 10, 1978, 92 Stat. 3748; Pub. L. 97–35, title XII, §§1207(b), 1208, 1209(c), 1211(d), Aug. 13, 1981, 95 Stat. 718, 720, 721; Pub. L. 110–314, title II, §209(a), Aug. 14, 2008, 122 Stat. 3046; Pub. L. 112–28, §8, Aug. 12, 2011, 125 Stat. 282.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -163,6 +165,8 @@ Subsec. (c). Pub. L. 94–284, §11(d), substituted "(subject to subsection (b)(
 Subsec. (j). Pub. L. 94–273 substituted "at the beginning of each regular session of Congress" for "on or before October 1 of each year".
 
 Subsec. (l). Pub. L. 94–284, §14, added subsec. (l).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

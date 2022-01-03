@@ -54,13 +54,15 @@ Not later than 90 days after October 2, 2013, to provide the market with appropr
 
 &emsp;&emsp;(G) updates on repair status and the anticipated online date;
 
-&emsp;(3) monthly summaries of meetings and communications between the Bureau of Land Management and the Cliffside Refiners Limited Partnership, including a list of participants and an indication of any actions taken as a result of the meetings or communications; and
+&emsp;(3) monthly summaries of meetings and communications between the Bureau of Land Management and the Cliffside Refiners Limited Partnership, including a list of participantsand an indication of any actions taken as a result of the meetings or communications; and
 
 &emsp;(4) current predictions of the lifespan of the Federal Helium System, including how much longer the crude helium supply will be available based on current and forecasted demand and the projected maximum production capacity of the Federal Helium System for the following fiscal year.
 
 (Mar. 3, 1925, ch. 426, §15, as added Pub. L. 113–40, §6(3), Oct. 2, 2013, 127 Stat. 541.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
-A prior section 167m, act Mar. 3, 1925, ch. 426, §15, as added Pub. L. 86–777, §2, Sept. 13, 1960, 74 Stat. 923;amended Pub. L. 104–273, §7, Oct. 9, 1996, 110 Stat. 3319, related to a National Academy of Sciences study and report on helium, prior to repeal by Pub. L. 113–40, §6(1), Oct. 2, 2013, 127 Stat. 540.
+A prior section 167m, act Mar. 3, 1925, ch. 426, §15, as added Pub. L. 86–777, §2, Sept. 13, 1960, 74 Stat. 923; amended Pub. L. 104–273, §7, Oct. 9, 1996, 110 Stat. 3319, related to a National Academy of Sciences study and report on helium, prior to repeal by Pub. L. 113–40, §6(1), Oct. 2, 2013, 127 Stat. 540.
 

@@ -36,6 +36,8 @@ Items Sold.—Merchandise sold by ship stores afloat may include items in the fo
 
 (Added Pub. L. 101–510, div. A, title III, §329(a)(1), Nov. 5, 1990, 104 Stat. 1534, §7604; amended Pub. L. 103–160, div. A, title III, §371(a), formerly §371(c), Nov. 30, 1993, 107 Stat. 1635, renumbered §371(a), Pub. L. 104–106, div. A, title III, §340(a)(2), Feb. 10, 1996, 110 Stat. 265; Pub. L. 112–81, div. A, title VI, §641, Dec. 31, 2011, 125 Stat. 1466; renumbered §8804, Pub. L. 115–232, div. A, title VIII, §807(d)(9), Aug. 13, 2018, 132 Stat. 1837.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7604 of this title as this section.
@@ -43,6 +45,8 @@ Items Sold.—Merchandise sold by ship stores afloat may include items in the fo
 <b>2011</b>—Subsec. (c). Pub. L. 112–81 substituted "may" for "shall" in introductory provisions.
 
 <b>1993</b>—Pub. L. 103–160 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

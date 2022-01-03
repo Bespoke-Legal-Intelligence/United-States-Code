@@ -110,6 +110,8 @@
 
 <i>For termination of section, see section 4564(a) of this title.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 2091 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
@@ -117,6 +119,8 @@ Section was formerly classified to section 2091 of the former Appendix to this t
 #### Prior Provisions
 
 A prior section 301 of act Sept. 8, 1950, ch. 932, title III, 64 Stat. 800; June 30, 1953, ch. 171, §4, 67 Stat. 129; Pub. L. 91–379, title I, §104, Aug. 15, 1970, 84 Stat. 799; Pub. L. 96–294, title I, §104(a), (b), June 30, 1980, 94 Stat. 618; Pub. L. 98–265, §§3(a), 4(a), Apr. 17, 1984, 98 Stat. 149, 150; Pub. L. 102–558, title I, §§121(a), 141, Oct. 28, 1992, 106 Stat. 4203, 4217; Pub. L. 107–47, §4(1)–(3), (5), Oct. 5, 2001, 115 Stat. 260, related to loan guarantees, prior to the general amendment of title III of this Act by Pub. L. 111–67.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Legislative Waiver of Loan Limitations
 
@@ -138,11 +142,13 @@ Designation.—The Secretary of the Air Force shall continue to serve as the sol
 
 Date Specified.—The date specified in this subsection is the date of the enactment of a joint resolution or an Act approving the implementation of the decision described in subsection (a)."
 
+#### <b>Executive Documents</b>
+
 #### Delegation of Functions
 
 Authority of President under this section with respect to responding to the spread of COVID–19 within the United States delegated to Secretary of Health and Human Services and the Secretary of Homeland Security, see section 2 of Ex. Ord. No. 13911, Mar. 27, 2020, 85 F.R. 18403, set out as a note under section 4511 of this title.
 
-Functions of President under this chapter relating to production, conservation, use, control, distribution,and allocation of energy, delegated to Secretary of Energy, see section 4 of Ex. Ord. No. 11790, eff. June 25, 1974, 39 F.R. 23185, set out as a note under section 761 of Title 15, Commerce and Trade.
+Functions of President under this chapter relating to production, conservation, use, control, distribution, and allocation of energy, delegated to Secretary of Energy, see section 4 of Ex. Ord. No. 11790, eff. June 25, 1974, 39 F.R. 23185, set out as a note under section 761 of Title 15, Commerce and Trade.
 
 For delegation of authority of President under subsec. (a)(2) of this section, see section 305(a) of Ex. Ord. No. 13603, Mar. 16, 2012, 77 F.R. 16654, set out as a note under section 4553 of this title.
 

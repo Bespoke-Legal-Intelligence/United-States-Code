@@ -12,7 +12,7 @@ For purposes of this subpart, the term "subpart F income" means, in the case of 
 
 &emsp;&emsp;(A) the income of such corporation other than income which—
 
-&emsp;&emsp;&emsp;(i) is attributable to earnings and profits of the foreign corporation included in thegross income of a United States person under section 951 (other than by reason of this paragraph), or
+&emsp;&emsp;&emsp;(i) is attributable to earnings and profits of the foreign corporation included in the gross income of a United States person under section 951 (other than by reason of this paragraph), or
 
 &emsp;&emsp;&emsp;(ii) is described in subsection (b),
 
@@ -28,7 +28,7 @@ For purposes of this subpart, the term "subpart F income" means, in the case of 
 
 #### (b) Exclusion of United States income
 
-In the case of a controlled foreign corporation, subpart F income does not include any item of income from sources within the United States which is effectively connected with the conduct by such corporation of a trade or business within the United States unless such item is exempt from taxation (or is subject to a reduced rate of tax) pursuant to a treaty obligation of the United States. For purposes of this subsection, any exemption (or reduction) with respect to the tax imposed by section 884 shall not be taken into account.
+In the case of a controlled foreign corporation, subpart F income does not include any item ofincome from sources within the United States which is effectively connected with the conduct by such corporation of a trade or business within the United States unless such item is exempt from taxation (or is subject to a reduced rate of tax) pursuant to a treaty obligation of the United States. For purposes of this subsection, any exemption (or reduction) with respect to the tax imposed by section 884 shall not be taken into account.
 
 #### (c) Limitation
 
@@ -86,7 +86,7 @@ In the case of a controlled foreign corporation, subpart F income does not inclu
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;An election may be made under this clause to have section 953(a) applied for purposes of this title without regard to the same country exception under paragraph (1)(A) thereof. Such election, oncemade, may be revoked only with the consent of the Secretary.
+&emsp;&emsp;&emsp;&emsp;An election may be made under this clause to have section 953(a) applied for purposes of this title without regard to the same country exception under paragraph (1)(A) thereof. Such election, once made, may be revoked only with the consent of the Secretary.
 
 #### (II) Special rules for affiliated groups
 
@@ -96,7 +96,7 @@ In the case of a controlled foreign corporation, subpart F income does not inclu
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A controlled foreign corporation may elect to reduce the amount of its subpart F income for any taxable year which is attributable to any qualified activity by the amount of any deficit in earnings and profits of a qualified chain member for a taxable year ending with (or within) the taxable year of such controlled foreign corporation to the extent such deficit is attributable to such activity. To the extent any deficit reduces subpart F income under the preceding sentence, such deficit shall not be taken into account under subparagraph (B).
+&emsp;&emsp;&emsp;A controlled foreign corporation may elect to reduce the amount of its subpart F income for any taxable year which is attributable to any qualified activity by theamount of any deficit in earnings and profits of a qualified chain member for a taxable year ending with (or within) the taxable year of such controlled foreign corporation to the extent such deficit is attributable to such activity. To the extent any deficit reduces subpart F income under the preceding sentence, such deficit shall not be taken into account under subparagraph (B).
 
 #### (ii) Qualified chain member
 
@@ -123,6 +123,8 @@ In the case of a controlled foreign corporation, subpart F income does not inclu
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of subsection (a)(5), including regulations which treat income paid through 1 or more entities as derived from a foreign country to which section 901(j) applies if such income was, without regard to such entities, derived from such country.
 
 (Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1008; amended Pub. L. 89–809, title I, §104(j), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 94–455, title X, §§1062, 1065(a)(1), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1650, 1653, 1834; Pub. L. 97–248, title II, §288(b)(1), Sept. 3, 1982, 96 Stat. 571; Pub. L. 99–509, title VIII, §8041(b), Oct. 21, 1986, 100 Stat. 1963; Pub. L. 99–514, title XII, §1221(b)(3)(A), (f), title XVIII, §1876(c)(1), Oct. 22, 1986, 100 Stat. 2552, 2554, 2898; Pub. L. 100–647, title I, §1012(i)(16), (22)–(25)(A), title VI, §6131(a), Nov. 10, 1988, 102 Stat. 3510–3512, 3720; Pub. L. 105–34, title XI, §1112(c)(1), Aug. 5, 1997, 111 Stat. 969; Pub. L. 108–357, title IV, §415(c)(1), Oct. 22, 2004, 118 Stat. 1511; Pub. L. 109–135, title IV, §412(kk), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 110–172, §11(g)(14), Dec. 29, 2007, 121 Stat. 2490; Pub. L. 115–97, title I, §§14211(b)(1), 14212(b)(1)(C), Dec. 22, 2017, 131 Stat. 2217.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -192,6 +194,8 @@ Subsec. (d). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" af
 
 <b>1966</b>—Subsec. (b). Pub. L. 89–809 substituted "In the case of a controlled foreign corporation, subpart F income does not include any item of income from sources within the United States which is effectively connected with the conduct by such corporation of a trade or business within the United States unless such item is exempt from taxation (or is subject to a reduced rate of tax) pursuant to a treaty obligation of the United States" for "Subpart F income does not include any item includible in gross income under this chapter (other than this subpart) as income derived from sources within the United States of a foreign corporation engaged in trade or business in the United States".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2017 Amendment
 
 Pub. L. 115–97, title I, §14211(c), Dec. 22, 2017, 131 Stat. 2217, provided that: "The amendments made by this section \[amending this section and section 954 of this title\] shall apply to taxable years of foreign corporations beginning after December 31, 2017, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end."
@@ -210,7 +214,7 @@ Pub. L. 105–34, title XI, §1112(c)(2), Aug. 5, 1997, 111 Stat. 970, provided 
 
 Amendment by section 1012(i)(16), (22)–(25)(A) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Pub. L. 100–647, title VI, §6131(b), Nov. 10, 1988, 102 Stat. 3720, provided that: "The amendment made bythis section \[amending this section\] shall take effect as if included in the amendments made by section 1221(f) of the Reform Act \[Pub. L. 99–514\]."
+Pub. L. 100–647, title VI, §6131(b), Nov. 10, 1988, 102 Stat. 3720, provided that: "The amendment made by this section \[amending this section\] shall take effect as if included in the amendments made by section 1221(f) of the Reform Act \[Pub. L. 99–514\]."
 
 #### Effective Date of 1986 Amendments
 

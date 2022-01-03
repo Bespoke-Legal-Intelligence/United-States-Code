@@ -28,7 +28,7 @@ In this section:
 
 Notwithstanding any other provision of this chapter, the Secretary shall carry out a program under which—
 
-&emsp;(1) a borrower of any loan made, insured, or guaranteed under part B or D (other than an excepted PLUS loan or excepted consolidation loan) who has a partial financial hardship\(whether or not the borrower's loan has been submitted to a guaranty agency for default aversion or had been in default) may elect, during any period the borrower has the partial financial hardship, to have the borrower's aggregate monthly payment for all such loans not exceed the result described in subsection (a)(3)(B) divided by 12;
+&emsp;(1) a borrower of any loan made, insured, or guaranteed under part B or D (other than an excepted PLUS loan or excepted consolidation loan) who has a partial financial hardship (whether or not the borrower's loan has been submitted to a guaranty agency for default aversion or had been in default) may elect, during any period the borrower has the partial financial hardship, to have the borrower's aggregate monthly payment for all such loans not exceed the result described in subsection (a)(3)(B) divided by 12;
 
 &emsp;(2) the holder of such a loan shall apply the borrower's monthly payment under this subsection first toward interest due on the loan, next toward any fees due on the loan, and then toward the principal of the loan;
 
@@ -56,7 +56,7 @@ Notwithstanding any other provision of this chapter, the Secretary shall carry o
 
 &emsp;(6) if the borrower no longer has a partial financial hardship or no longer wishes to continue the election under this subsection, then—
 
-&emsp;&emsp;(A) the maximum monthly payment required to be paid for all loans made to the borrower under part B or D (other than an excepted PLUS loan or excepted consolidation loan) shall not exceed the monthly amount calculated under section 1078(b)(9)(A)(i) or 1087e(d)(1)(A) of this title, based on a 10-year repayment period, when the borrower first made the election described in this subsection; and
+&emsp;&emsp;(A) the maximum monthly payment required to be paid for all loans made to theborrower under part B or D (other than an excepted PLUS loan or excepted consolidation loan) shall not exceed the monthly amount calculated under section 1078(b)(9)(A)(i) or 1087e(d)(1)(A) of this title, based on a 10-year repayment period, when the borrower first made the election described in this subsection; and
 
 &emsp;&emsp;(B) the amount of time the borrower is permitted to repay such loans may exceed 10 years;
 
@@ -108,6 +108,8 @@ With respect to any loan made to a new borrower on or after July 1, 2014—
 
 (Pub. L. 89–329, title IV, §493C, as added Pub. L. 110–84, title II, §203(a), Sept. 27, 2007, 121 Stat. 792; amended Pub. L. 110–153, §2, Dec. 21, 2007, 121 Stat. 1824; Pub. L. 110–315, title IV, §494F, Aug. 14, 2008, 122 Stat. 3324; Pub. L. 111–152, title II, §2213, Mar. 30, 2010, 124 Stat. 1081; Pub. L. 116–91, §4(b), Dec. 19, 2019, 133 Stat. 1193.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (c)(1). Pub. L. 116–91, §4(b)(1), designated first sentence of existing provisions as par. (1) and inserted heading.
@@ -119,6 +121,8 @@ Subsec. (c)(2). Pub. L. 116–91, §4(b)(2), (3), designated second sentence of 
 <b>2008</b>—Subsec. (b)(1). Pub. L. 110–315 substituted "or had been in default" for "or is already in default".
 
 <b>2007</b>—Subsec. (d). Pub. L. 110–153 added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

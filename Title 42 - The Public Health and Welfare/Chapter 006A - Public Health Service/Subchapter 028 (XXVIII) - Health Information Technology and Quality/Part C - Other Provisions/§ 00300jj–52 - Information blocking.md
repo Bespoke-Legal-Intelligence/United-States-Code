@@ -104,7 +104,7 @@
 
 #### (4) Application of authorities under inspector general act of 1978
 
-&emsp;In carrying out this subsection, the Inspector General shall have the same authorities asprovided under section 6 of the Inspector General Act of 1978 (5 U.S.C. App.).
+&emsp;In carrying out this subsection, the Inspector General shall have the same authorities as provided under section 6 of the Inspector General Act of 1978 (5 U.S.C. App.).
 
 #### (c) Identifying barriers to exchange of certified health information technology
 
@@ -124,7 +124,7 @@
 
 #### (1) Information sharing provisions
 
-&emsp;The National Coordinator may serve as a technical consultant to the Inspector General and the Federal Trade Commission for purposes of carrying out this section. The National Coordinator may, notwithstanding any other provision of law, share information related to claims or investigations under subsection (b) with the Federal Trade Commission for purposes of such investigations and shall share information with the Inspector General, as required by law.
+&emsp;The National Coordinator may serve as a technical consultant to the Inspector Generaland the Federal Trade Commission for purposes of carrying out this section. The National Coordinator may, notwithstanding any other provision of law, share information related to claims or investigations under subsection (b) with the Federal Trade Commission for purposes of such investigations and shall share information with the Inspector General, as required by law.
 
 #### (2) Protection from disclosure of information
 
@@ -158,6 +158,8 @@
 
 (July 1, 1944, ch. 373, title XXX, §3022, as added Pub. L. 114–255, div. A, title IV, §4004, Dec. 13, 2016, 130 Stat. 1176; amended Pub. L. 116–321, §2(a), Jan. 5, 2021, 134 Stat. 5073.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 264(c) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (b)(3)(A), is section 264(c) of Pub. L. 104–191, which is set out as a note under section 1320d–2 of this title.
@@ -167,6 +169,8 @@ Section 6 of the Inspector General Act of 1978, referred to in subsec. (b)(4), i
 #### Amendments
 
 <b>2021</b>—Subsec. (b)(4). Pub. L. 116–321 added par. (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2021 Amendment
 

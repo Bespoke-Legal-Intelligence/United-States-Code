@@ -26,7 +26,7 @@ The Commission shall be composed of 10 members, as follows:
 
 &emsp;(4) Four members appointed by the Secretary from a list provided by the Governor of the United States Virgin Islands, at least one of whom shall be a member of the Legislature of the United States Virgin Islands.
 
-> Initial appointments made under this subsection shall be made within 120 days after February 24, 1992, except that the appointments made under paragraph (4) shall be made within 120 days after the date on which the Secretary receives such list.
+> Initial appointments made under this subsection shall be made within 120 days after February 24, 1992, except that the appointments made underparagraph (4) shall be made within 120 days after the date on which the Secretary receives such list.
 
 #### (d) Terms
 
@@ -38,7 +38,7 @@ The Chair of the Commission shall alternate annually between the Secretary and t
 
 #### (f) Meetings
 
-The Commission shall meet on a regular basis or at the call of the Chair. Notice of meetingsand agenda shall be published in the Federal Register and local newspapers having a distribution that generally covers the United States Virgin Islands. Commission meetings shall be held at locations and in such a manner as to ensure adequate public involvement.
+The Commission shall meet on a regular basis or at the call of the Chair. Notice of meetings and agenda shall be published in the Federal Register and local newspapers having a distribution that generally covers the United States Virgin Islands. Commission meetings shall be held at locations and in such a manner as to ensure adequate public involvement.
 
 #### (g) Expenses
 
@@ -53,6 +53,8 @@ Except with respect to the provisions of section 14(b) of the Federal Advisory C
 The Commission shall terminate 10 years after February 24, 1992, unless the Secretary determines that it is necessary to continue consulting with the Commission in carrying out the purposes of this subchapter.
 
 (Pub. L. 102–247, title I, §106, Feb. 24, 1992, 106 Stat. 35.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

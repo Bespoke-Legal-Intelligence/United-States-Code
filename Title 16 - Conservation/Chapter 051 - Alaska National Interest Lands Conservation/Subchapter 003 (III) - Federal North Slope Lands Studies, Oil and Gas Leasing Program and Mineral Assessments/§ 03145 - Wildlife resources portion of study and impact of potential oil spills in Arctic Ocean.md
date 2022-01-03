@@ -2,7 +2,7 @@
 
 #### (a) Wildlife resources
 
-The Secretary shall work closely with the State of Alaska and Native Village and Regional Corporations in evaluating the impact of oil and gas exploration, development, production, and transportation and other human activities on the wildlife resources of these lands, including impacts on the Arctic and Porcupine caribou herds, polar bear, muskox, grizzly bear, wolf, wolverine, seabirds, shore birds, and migratory waterfowl. In addition the Secretary shall consult with the appropriate agencies of the Government of Canada in evaluating such impacts particularly with respect to the Porcupine caribou herd.
+The Secretary shall work closely with the State of Alaska and Native Village and Regional Corporations in evaluating the impact of oil and gas exploration, development, production, and transportation and other human activities on the wildlife resources of these lands, including impacts on the Arctic and Porcupine caribou herds, polar bear, muskox, grizzly bear, wolf, wolverine, seabirds, shore birds, and migratory waterfowl. In addition the Secretary shall consult with the appropriate agencies of the Government of Canada in evaluating such impactsparticularly with respect to the Porcupine caribou herd.
 
 #### (b) Oil spills
 
@@ -30,7 +30,7 @@ The Secretary shall work closely with the State of Alaska and Native Village and
 
 #### (c) Treaty negotiations
 
-The Congress calls upon the Secretary of State, in consultation with the Secretary of the Interior, the Secretary of Transportation, and the Governor of Alaska, to begin negotiationswith the Foreign Minister of Canada regarding a treaty dealing with the complex issues of recovery of damages, contingency plans, and coordinated actions in the event of an oil spill in the Arctic Ocean.
+The Congress calls upon the Secretary of State, in consultation with the Secretary of the Interior, the Secretary of Transportation, and the Governor of Alaska, to begin negotiations with the Foreign Minister of Canada regarding a treaty dealing with the complex issues of recovery of damages, contingency plans, and coordinated actions in the event of an oil spill in the Arctic Ocean.
 
 #### (d) Report to Congress
 
@@ -38,9 +38,13 @@ The Secretary of State shall report to the Congress on the Secretary's efforts p
 
 (Pub. L. 96–487, title X, §1005, Dec. 2, 1980, 94 Stat. 2453; Pub. L. 101–380, title VIII, §8302, Aug. 18, 1990, 104 Stat. 572.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Pub. L. 101–380 inserted "and impact of potential oil spills in Arctic Ocean" in section catchline, designated existing text as subsec. (a), and added subsecs. (b) to (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

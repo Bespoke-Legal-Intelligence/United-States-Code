@@ -30,7 +30,7 @@
 
 |  |  |
 | :--- | ---: |
-| 19 to 19o. | Repealed. |
+| 19 to 19<i>o.</i> | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1781,7 +1781,7 @@
 
 |  |  |
 | :--- | ---: |
-| [410lll.](Subchapter%20059%E2%80%93JJ%20%28LIX%E2%80%93JJ%29%20-%20Paterson%20Great%20Falls%20National%20Historical%20Park/%C2%A7%2000410lll%20-%20Paterson%20Great%20Falls%20National%20Historical%20Park%2C%20New%20Jersey.md) | Paterson Great Falls National Historical Park, New Jersey. |
+| 410<i>lll.</i> | Paterson Great Falls National Historical Park, New Jersey. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -2362,7 +2362,7 @@
 | 450ll–1. | Establishment and supervision. |
 | 450ll–2. | Maintenance of museum; provision for parks, construction of roads and use of markers. |
 | 450ll–3. | Additional lands. |
-| 450mm to 450mm–3. Repealed. |  |
+| 450mm to 450mm–3. | Repealed. |
 | [450nn.](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/%C2%A7%2000450nn%20-%20General%20Grant%20National%20Memorial%3B%20establishment.md) | General Grant National Memorial; establishment. |
 | 450<i>oo.</i> | Grand Portage National Monument; establishment; effective date. |
 | 450oo–1. | Acceptance of donations of land; instruments of relinquishment; life assignments. |

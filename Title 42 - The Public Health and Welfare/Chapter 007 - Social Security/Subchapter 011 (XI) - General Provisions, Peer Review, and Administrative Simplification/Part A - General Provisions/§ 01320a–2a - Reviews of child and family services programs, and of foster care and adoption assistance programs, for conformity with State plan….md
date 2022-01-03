@@ -24,7 +24,7 @@ The regulations referred to in subsection (a) shall—
 
 &emsp;(2) specify the requirements subject to review (which shall include determining whether the State program is in conformity with the requirement of section 671(a)(27) of this title), and the criteria to be used to measure conformity with such requirements and to determine whether there is a substantial failure to so conform;
 
-&emsp;(3) specify the method to be used to determine the amount of any Federal matching funds to be withheld (subject to paragraph (4)) due to the State program's failure to so conform, which ensures that—
+&emsp;(3) specify the method to be used to determine the amount of any Federal matchingfunds to be withheld (subject to paragraph (4)) due to the State program's failure to so conform, which ensures that—
 
 &emsp;&emsp;(A) such funds will not be withheld with respect to a program, unless it is determined that the program fails substantially to so conform;
 
@@ -58,6 +58,8 @@ The regulations referred to in subsection (a) shall—
 
 (Aug. 14, 1935, ch. 531, title XI, §1123A, formerly §1123, as added Pub. L. 103–432, title II, §203(a), Oct. 31, 1994, 108 Stat. 4454; renumbered §1123A, Pub. L. 104–193, title V, §504, Aug. 22, 1996, 110 Stat. 2278; amended Pub. L. 109–432, div. B, title IV, §405(c)(1)(B)(ii), Dec. 20, 2006, 120 Stat. 2999.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 1320a–1a of this title prior to renumbering by Pub. L. 104–193.
@@ -65,6 +67,8 @@ Section was formerly classified to section 1320a–1a of this title prior to ren
 #### Amendments
 
 <b>2006</b>—Subsec. (b)(2). Pub. L. 109–432 inserted "(which shall include determining whether the State program is in conformity with the requirement of section 671(a)(27) of this title)" after "review".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

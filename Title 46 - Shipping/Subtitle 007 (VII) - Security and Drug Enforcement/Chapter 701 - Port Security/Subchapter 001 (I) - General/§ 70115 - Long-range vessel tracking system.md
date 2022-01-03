@@ -24,7 +24,7 @@ Pub. L. 109–241, title IV, §404, July 11, 2006, 120 Stat. 535, provided that:
 
 "(a)
 
-Pilot Project.—The Secretary of the department in which the Coast Guard is operating, acting through the Commandant of the Coast Guard, shall conduct a 3-year pilot program for long-range tracking of up to 2,000 vessels using satellite systems with a nonprofit maritime organization that has a demonstrated capability of operating a variety of satellite communications systems providing data to vessel tracking software and hardware that provides long-range vessel information to the Coast Guard to aid maritime security and response to maritime emergencies.
+Pilot Project.—The Secretary of the department in which the Coast Guard is operating, actingthrough the Commandant of the Coast Guard, shall conduct a 3-year pilot program for long-range tracking of up to 2,000 vessels using satellite systems with a nonprofit maritime organization that has a demonstrated capability of operating a variety of satellite communications systems providing data to vessel tracking software and hardware that provides long-range vessel information to the Coast Guard to aid maritime security and response to maritime emergencies.
 
 "(b)
 

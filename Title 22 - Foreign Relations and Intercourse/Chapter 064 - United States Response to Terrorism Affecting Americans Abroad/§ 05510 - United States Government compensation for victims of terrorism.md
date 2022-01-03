@@ -6,7 +6,7 @@ The President shall submit to the Congress, not later than one year after Novemb
 
 #### (b) Board
 
-The President may establish a board to develop criteria for compensation and to recommend changes to existing laws to establish asingle comprehensive approach to victim compensation for terrorist acts.
+The President may establish a board to develop criteria for compensation and to recommend changes to existing laws to establish a single comprehensive approach to victim compensation for terrorist acts.
 
 #### (c) Income tax benefit for victims of Lockerbie terrorism
 

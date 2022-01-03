@@ -4,6 +4,8 @@ Notwithstanding section 101,<sup>1</sup> the level for "Corporation for National
 
 (Pub. L. 109–289, div. B, title II, §20638, as added Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 36.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 101, referred to in text, is section 101 of title I of div. B of Pub. L. 109–289, as added by Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 8. Subsec. (b) of section 101 is classified as a note under this section. Subsecs. (a) and (c) of section 101 are not classified to the Code.
@@ -13,6 +15,8 @@ The Domestic Volunteer Service Act of 1973, referred to in text, is Pub. L. 93�
 #### Codification
 
 Section was enacted as part of the Continuing Appropriations Resolution, 2007, and not as part of the National and Community Service Act of 1990 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

@@ -56,7 +56,7 @@ Amendment by Pub. L. 86–3 effective on admission of Hawaii into the Union, see
 
 #### Tenure and Salary Rights of Judges in Puerto Rico in Office on September 12, 1966
 
-Pub. L. 89–571, §4, Sept. 12, 1966, 80 Stat. 764, provided that: "The amendments made by this section to sections 134 and 373 of title 28, United States Code, shall not affect the tenure of office or right to continue toreceive salary after resignation, retirement, or failure of reappointment of any district judge for the district of Puerto Rico who is in office on the date of enactment of this Act \[Sept. 12, 1966\]."
+Pub. L. 89–571, §4, Sept. 12, 1966, 80 Stat. 764, provided that: "The amendments made by this section to sections 134 and 373 of title 28, United States Code, shall not affect the tenure of office or right to continue to receive salary after resignation, retirement, or failure of reappointment of any district judge for the district of Puerto Rico who is in office on the date of enactment of this Act \[Sept. 12, 1966\]."
 
 #### Applicability of Orders Under 1954 Amendment
 

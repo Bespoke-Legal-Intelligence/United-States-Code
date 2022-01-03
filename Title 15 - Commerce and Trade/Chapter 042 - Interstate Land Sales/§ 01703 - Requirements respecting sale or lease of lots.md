@@ -42,13 +42,15 @@ Any contract or agreement which is for the sale or lease of a lot not exempt und
 
 &emsp;(3) that, if the purchaser or lessee loses rights and interest in the lot as a result of a default or breach of the contract or agreement which occurs after the purchaser or lessee has paid 15 per centum of the purchase price of the lot, excluding any interest owed under the contract or agreement, the seller or lessor (or successor thereof) shall refund to such purchaser or lessee any amount which remains after subtracting (A) 15 per centum of the purchase price of the lot, excluding any interest owed under the contract or agreement, or the amount of damages incurred by the seller or lessor (or successor thereof) as a result of such breach, whichever is greater, from (B) the amount paid by the purchaser or lessee with respect to the purchase price of the lot, excluding any interest paid under the contract or agreement,
 
-> may be revoked at the option of the purchaser or lessee for two years from the date of the signing of such contract or agreement. This subsection shall not apply to the sale of a lot for which, within one hundred and eighty days after the signing of the sales contract, the purchaser receives a warranty deed (or, where such deed is not commonly used in the jurisdiction where the lot is located, a deed or grant that warrants at least that the grantor has not conveyed the lotto another person and that the lot is free from encumbrances made by the grantor or any other person claiming by, through, or under him or her).
+> may be revoked at the option of the purchaser or lessee for two years from the date of the signing of such contract or agreement. This subsection shall not apply to the sale of a lot for which, within one hundred and eighty days after the signing of the sales contract, the purchaser receives a warranty deed (or, where such deed is not commonly used in the jurisdiction where the lot is located, a deed or grant that warrants at least that the grantor has not conveyed the lot to another person and that the lot is free from encumbrances made by the grantor or any other person claiming by, through, or under him or her).
 
 #### (e) Repayment of purchaser or lessee upon revocation of all money paid under contract or agreement to seller or lessor
 
 If a contract or agreement is revoked pursuant to subsection (b), (c), or (d), if the purchaser or lessee tenders to the seller or lessor (or successor thereof) an instrument conveying his or her rights and interests in the lot, and if the rights and interests and the lot are in a condition which is substantially similar to the condition in which they were conveyed or purported to be conveyed to the purchaser or lessee, such purchaser or lessee shall be entitled to all money paid by him or her under such contract or agreement.
 
 (Pub. L. 90–448, title XIV, §1404, Aug. 1, 1968, 82 Stat. 591; Pub. L. 93–383, title VIII, §812(c)(1), Aug. 22, 1974, 88 Stat. 737; Pub. L. 96–153, title IV, §403, Dec. 21, 1979, 93 Stat. 1127.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -59,6 +61,8 @@ Subsec. (b). Pub. L. 96–153 substituted provisions relating to revocation of c
 Subsecs. (c) to (e). Pub. L. 96–153 added subsecs. (c) to (e).
 
 <b>1974</b>—Subsec. (b). Pub. L. 383 substituted "until midnight of the third business day following the consummation of the transaction" for "within forty-eight hours" and struck out provisions relating to exceptions of contracts or agreements stipulating to the nonapplicability of the revocation authority to certain purchasers.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1979 Amendment
 

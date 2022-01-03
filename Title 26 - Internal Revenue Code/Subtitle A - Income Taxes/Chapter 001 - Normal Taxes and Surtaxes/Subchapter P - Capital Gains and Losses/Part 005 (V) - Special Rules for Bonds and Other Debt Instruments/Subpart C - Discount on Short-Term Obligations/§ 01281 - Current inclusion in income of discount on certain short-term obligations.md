@@ -24,7 +24,7 @@ In the case of any short-term obligation to which this section applies, for purp
 
 &emsp;&emsp;(E) is identified by the taxpayer under section 1256(e)(2) as being part of a hedging transaction, or
 
-&emsp;&emsp;(F) is a stripped bond or stripped coupon held by the person who stripped the bond or coupon (or by any other person whose basisis determined by reference to the basis in the hands of such person).
+&emsp;&emsp;(F) is a stripped bond or stripped coupon held by the person who stripped the bond or coupon (or by any other person whose basis is determined by reference to the basis in the hands of such person).
 
 #### (2) Treatment of obligations held by pass-thru entities
 
@@ -58,11 +58,15 @@ In the case of any short-term obligation to which this section applies, for purp
 
 (Added Pub. L. 98–369, div. A, title I, §41(a), July 18, 1984, 98 Stat. 548; amended Pub. L. 99–514, title XVIII, §1803(a)(7), (8)(A), Oct. 22, 1986, 100 Stat. 2793, 2794.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–514, §1803(a)(8), amended subsec. (a) generally, designating existing provisions as par. (1) and adding par. (2).
 
 Subsec. (b)(1)(F). Pub. L. 99–514, §1803(a)(7), added subpar. (F).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

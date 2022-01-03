@@ -34,6 +34,8 @@ In addition to the centers and programs described in subsection (b), the Institu
 
 (Pub. L. 99–498, title XV, §1510, Oct. 17, 1986, 100 Stat. 1606; Pub. L. 101–644, title V, §502, Nov. 29, 1990, 104 Stat. 4668; Pub. L. 102–325, title XIII, §1331(d), July 23, 1992, 106 Stat. 807.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Subsec. (b). Pub. L. 102–325 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "There shall be established within the Institute—
@@ -60,9 +62,11 @@ In addition to the centers and programs described in subsection (b), the Institu
 
 &emsp;"(3) a Museum of American Indian and Alaska Native Arts, which shall be under the direction of the President of the Institute."
 
-<b>1990</b>—Subsec. (b)(2). Pub. L. 101–644, §502(1), redesignated subpars. (B) to (I) as (A) to (H), respectively, andstruck out former subpar. (A) which related to a museum of Indian arts.
+<b>1990</b>—Subsec. (b)(2). Pub. L. 101–644, §502(1), redesignated subpars. (B) to (I) as (A) to (H), respectively, and struck out former subpar. (A) which related to a museum of Indian arts.
 
 Subsec. (b)(3). Pub. L. 101–644, §502(2)–(4), added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

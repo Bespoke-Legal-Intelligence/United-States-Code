@@ -14,13 +14,15 @@ Actions under subsection (a) of this section and section 5410 of this title may 
 
 #### (d) Subpenas
 
-In any action brought by the United States under subsection (a) of this section or section5410 of this title, subpenas by the United States for witnesses who are required to attend at United States district court may run into any other district.
+In any action brought by the United States under subsection (a) of this section or section 5410 of this title, subpenas by the United States for witnesses who are required to attend at United States district court may run into any other district.
 
 #### (e) Designation by manufacturer of agent for service of administrative and judicial processes, etc.; filing and amendment of designation; failure to make designation
 
 It shall be the duty of every manufacturer offering a manufactured home for importation into the United States to designate in writing an agent upon whom service of all administrative and judicial processes, notices, orders, decisions, and requirements may be made for and on behalf of such manufacturer, and to file such designation with the Secretary, which designation may from time to time be changed by like writing, similarly filed. Service of all administrative and judicial processes, notices, orders, decisions, and requirements may be made upon such manufacturer by service upon such designated agent at his office or usual place of residence with like effect as if made personally upon such manufacturer, and in default of such designation of such agent, service of process or any notice, order, requirement, or decision in any proceeding before the Secretary or in any judicial proceeding pursuant to this chapter may be made by mailing such process, notice, order, requirement, or decision to the Secretary by registered or certified mail.
 
 (Pub. L. 93–383, title VI, §612, Aug. 22, 1974, 88 Stat. 705; Pub. L. 96–399, title III, §308(c)(4), Oct. 8, 1980, 94 Stat. 1641.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -31,6 +33,8 @@ Rule 42 of the Federal Rules of Criminal Procedure, referred to in subsec. (b), 
 #### Amendments
 
 <b>1980</b>—Subsecs. (a), (e). Pub. L. 96–399 substituted "manufactured home" for "mobile home" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

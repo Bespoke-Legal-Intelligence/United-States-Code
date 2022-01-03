@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall require that, as part of an application for a grant under this subpart, each applicant shall maintain a file, with respect to each Indian child for whom the local educational agency provides a free public education, that contains a form that sets forth information establishing the status of the child as an Indian child eligible for assistance under this subpart, and that otherwise meets the requirements of subsection (b). All individual data collected shall be protected by the local educational agencies and only aggregated data shall be reported to the Secretary.
+The Secretary shall require that, as part of an application for a grant under this subpart, each applicant shall maintain a file, with respect to each Indian child for whom the local educational agency provides a free public education, that contains a form that sets forth information establishing the status of the child as an Indian child eligible for assistance under this subpart, and that otherwise meets the requirements ofsubsection (b). All individual data collected shall be protected by the local educational agencies and only aggregated data shall be reported to the Secretary.
 
 #### (b) Forms
 
@@ -42,7 +42,7 @@ Nothing in this section shall be construed to affect a definition contained in s
 
 #### (3) Previously filed forms
 
-&emsp;An Indian student eligibility form that was on file as required by this section on the day before December 10, 2015, and that met the requirements of this section, as this section wasin effect on the day before December 10, 2015, shall remain valid for such Indian student.
+&emsp;An Indian student eligibility form that was on file as required by this section on the day before December 10, 2015, and that met the requirements of this section, as this section was in effect on the day before December 10, 2015, shall remain valid for such Indian student.
 
 #### (e) Monitoring and evaluation review
 
@@ -80,11 +80,13 @@ Notwithstanding any other provision of this section, in calculating the amount o
 
 For purposes of determining the number of children to be counted in calculating the amount of a local educational agency's grant under this subpart (other than in the case described in subsection (f)(1)), the local educational agency shall—
 
-&emsp;(1) establish a date on, or a period not longer than 31 consecutive days during, which the agency counts those children, if that date or period occurs before the deadline established by the Secretary for submitting an application under section 7424 of this title; and
+&emsp;(1) establish a date on, or a period not longer than 31 consecutive days during, which the agency counts those children, if that date or period occurs before the deadline establishedby the Secretary for submitting an application under section 7424 of this title; and
 
 &emsp;(2) determine that each such child was enrolled, and receiving a free public education, in a school of the agency on that date or during that period, as the case may be.
 
 (Pub. L. 89–10, title VI, §6117, formerly title VII, §7117, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1916; renumbered title VI, §6117, and amended Pub. L. 114–95, title VI, §§6001(a), (b)(1), (7), 6002(i), Dec. 10, 2015, 129 Stat. 2046, 2047, 2053.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -121,6 +123,8 @@ Pub. L. 114–95, §6002(i)(3), redesignated subsec. (h) as (g). Former subsec. 
 Subsec. (h). Pub. L. 114–95, §6002(i)(3), redesignated subsec. (h) as (g).
 
 Subsec. (h)(1). Pub. L. 114–95, §6001(b)(7)(D), made technical amendment to reference in original act which appears in text as reference to section 7424 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

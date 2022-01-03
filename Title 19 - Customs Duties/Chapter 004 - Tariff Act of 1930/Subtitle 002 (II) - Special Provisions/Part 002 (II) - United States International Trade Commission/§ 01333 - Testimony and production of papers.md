@@ -14,7 +14,7 @@ At the request of the commission, any such court shall have jurisdiction to issu
 
 #### (d) Depositions
 
-The commission may order testimony to be taken by deposition in any proceeding or investigation pending before the commission at any stage of such proceeding or investigation. Such depositions may be taken before any person designated by the commission and having power to administer oaths. Such testimony shall be reduced to writing by the person taking the deposition, or under his direction, and shall then be subscribed by the deponent. Any person, firm, copartnership, corporation, or association, may be compelled to appear and depose and to produce documentary evidence in the same manner as witnesses may be compelled to appear and testify and produce documentary evidence before the commission, as hereinbefore provided.
+The commission may order testimony to be taken by deposition in any proceeding or investigation pending before the commission at any stage of such proceeding or investigation. Such depositions may be taken before any person designated by the commission and having power toadminister oaths. Such testimony shall be reduced to writing by the person taking the deposition, or under his direction, and shall then be subscribed by the deponent. Any person, firm, copartnership, corporation, or association, may be compelled to appear and depose and to produce documentary evidence in the same manner as witnesses may be compelled to appear and testify and produce documentary evidence before the commission, as hereinbefore provided.
 
 #### (e) Fees and mileage of witnesses
 
@@ -33,6 +33,8 @@ The Commission shall be represented in all judicial proceedings by attorneys who
 Any correspondence, private letters of reprimand, and other documents and files relating to violations or possible violations of administrative protective orders issued by the Commission in connection with investigations or other proceedings under this subtitle shall be treated as information described in section 552(b)(3) of title 5.
 
 (June 17, 1930, ch. 497, title III, §333, 46 Stat. 699; June 25, 1936, ch. 804, 49 Stat. 1921; June 25, 1948, ch. 646, §32(b), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Pub. L. 85–686, §9(a), (b), Aug. 20, 1958, 72 Stat. 679; Pub. L. 91–452, title II, §229, Oct. 15, 1970, 84 Stat. 930; Pub. L. 93–618, title I, §174, Jan. 3, 1975, 88 Stat. 2011; Pub. L. 101–382, title I, §135(a), Aug. 20, 1990, 104 Stat. 651.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -55,6 +57,8 @@ Subsec. (g). Pub. L. 93–618, §174(2), added subsec. (g).
 <b>1958</b>—Subsec. (a). Pub. L. 85–686, §9(a), substituted "For the purposes of carrying out its functions and duties in connection with any investigation authorized by law" for "For the purposes of carrying Part II of this subtitle into effect", inserted provisions empowering the commission to require any person, firm, copartnership, corporation, or association to furnish in writing, in such detail and in such form as the commission may prescribe, information in their possession pertaining to an investigation.
 
 Subsec. (d). Pub. L. 85–686, §9(b), substituted "pending before the commission" for "pending under Part II of this subtitle".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1970 Amendment
 

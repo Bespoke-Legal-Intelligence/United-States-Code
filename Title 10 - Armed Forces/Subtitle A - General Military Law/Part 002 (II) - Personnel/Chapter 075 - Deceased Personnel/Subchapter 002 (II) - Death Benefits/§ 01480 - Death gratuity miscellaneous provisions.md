@@ -58,6 +58,8 @@ In subsection (a), the words "was put to death" are substituted for the words "s
 
 In subsection (b), the words "last period \* \* \* that he performed" are substituted for the words "such period".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1989</b>—Subsec. (b). Pub. L. 101–189, §1621(a)(2), substituted "Secretary of Veterans Affairs" for "Administrator of Veterans' Affairs".

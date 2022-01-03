@@ -6,7 +6,7 @@ Returns with respect to income taxes under subtitle A shall be made by the follo
 
 &emsp;(1)(A) Every individual having for the taxable year gross income which equals or exceeds the exemption amount, except that a return shall not be required of an individual—
 
-&emsp;&emsp;(i) who is not married (determined by applying section 7703), is not a surviving spouse (as defined in section 2(a)), is not a head of a household (as defined in section 2(b)), and for the taxable year has gross income of less than the sum of the exemption amount plus the basic standard deduction applicable to such an individual,
+&emsp;&emsp;(i) who is not married (determined by applying section 7703), is not a survivingspouse (as defined in section 2(a)), is not a head of a household (as defined in section 2(b)), and for the taxable year has gross income of less than the sum of the exemption amount plus the basic standard deduction applicable to such an individual,
 
 &emsp;&emsp;(ii) who is a head of a household (as so defined) and for the taxable year has gross income of less than the sum of the exemption amount plus the basic standard deduction applicable to such an individual,
 
@@ -106,6 +106,8 @@ In the case of a taxable year beginning after December 31, 2017, and before Janu
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 732; Pub. L. 85–866, title I, §72(a), Sept. 2, 1958, 72 Stat. 1660; Pub. L. 88–272, title II, §206(b)(1), Feb. 26, 1964, 78 Stat. 40; Pub. L. 91–172, title IX, §941(a), (d), Dec. 30, 1969, 83 Stat. 726; Pub. L. 92–178, title II, §204(a), Dec. 10, 1971, 85 Stat. 511; Pub. L. 93–443, title IV, §407, Oct. 15, 1974, 88 Stat. 1297; Pub. L. 93–625, §10(b), Jan. 3, 1975, 88 Stat. 2119; Pub. L. 94–12, title II, §201(b), Mar. 29, 1975, 89 Stat. 29; Pub. L. 94–164, §2(a)(2), Dec. 23, 1975, 89 Stat. 970; Pub. L. 94–455, title IV, §401(b)(3), title XIX, §1906(b)(13)(A), title XXI, §2101(c), Oct. 4, 1976, 90 Stat. 1556, 1834, 1899; Pub. L. 95–30, title I, §104, May 23, 1977, 91 Stat. 139; Pub. L. 95–600, title I, §§101(c), 102(b)(1), 105(d), title IV, §404(c)(8), Nov. 6, 1978, 92 Stat. 2770, 2771, 2776, 2870; Pub. L. 95–615, §202(g)(5), formerly §202(f)(5), Nov. 8, 1978, 92 Stat. 3100, renumbered §202(g)(5), Pub. L. 96–222, title I, §108(a)(1)(A), Apr. 1, 1980, 94 Stat. 223; Pub. L. 96–589, §§3(b), 6(i)(5), Dec. 24, 1980, 94 Stat. 3400, 3410; Pub. L. 97–34, title I, §§104(d)(1), 111(b)(3), Aug. 13, 1981, 95 Stat. 189, 194; Pub. L. 98–369, div. A, title IV, §412(b)(3), July 18, 1984, 98 Stat. 792; Pub. L. 99–514, title I, §104(a)(1), title XV, §1525(a), Oct. 22, 1986, 100 Stat. 2103, 2749; Pub. L. 100–647, title I, §1001(b)(2), Nov. 10, 1988, 102 Stat. 3349; Pub. L. 105–34, title III, §312(d)(11), title XII, §1225, Aug. 5, 1997, 111 Stat. 840, 1019; Pub. L. 106–230, §3(a)(1), July 1, 2000, 114 Stat. 482; Pub. L. 107–276, §3(a), Nov. 2, 2002, 116 Stat. 1931; Pub. L. 111–226, title II, §219(b)(1), Aug. 10, 2010, 124 Stat. 2403; Pub. L. 115–97, title I, §11041(e), Dec. 22, 2017, 131 Stat. 2085; Pub. L. 115–141, div. U, title IV, §401(a)(255)–(257), Mar. 23, 2018, 132 Stat. 1196.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a)(6). Pub. L. 115–141, §401(a)(255), struck out "and" after "year;".
@@ -124,7 +126,7 @@ Subsec. (a)(8). Pub. L. 115–141, §401(a)(257), substituted "section 63(c)(2)(
 
 <b>1997</b>—Subsec. (b)(6). Pub. L. 105–34, §1225, added par. (6).
 
-Subsec. (c). Pub. L. 105–34, §312(d)(11), substituted "(relating to gain from sale of principal residence)" for "(relating to one-time exclusion of gain from sale of principal residence by individual who has attained age 55)".
+Subsec. (c). Pub. L. 105–34, §312(d)(11), substituted "(relating to gain from sale of principal residence)" for"(relating to one-time exclusion of gain from sale of principal residence by individual who has attained age 55)".
 
 <b>1988</b>—Subsec. (a)(1)(C)(i). Pub. L. 100–647 amended subcl. (I) generally, substituting "the sum of the amount in effect under section 63(c)(5)(A) plus the additional standard deduction (if any) to which the individual is entitled" for "the amount in effect under section 63(c)(5)(A) (relating to limitation on standard deduction in the case of certain dependents)".
 
@@ -216,6 +218,8 @@ Subsec. (a)(6). Pub. L. 93–625 added par. (6) and struck out provision that Se
 
 <b>1958</b>—Subsecs. (c), (d). Pub. L. 85–866 added subsec. (c) and redesignated former subsec. (c) as (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2017 Amendment
 
 Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11041(f)(1) of Pub. L. 115–97, set out as a note under section 151 of this title.
@@ -282,13 +286,13 @@ Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 401(b)(3) of Pub. L. 94–455 applicable to taxable years ending after Dec. 31, 1975, seesection 401(e) of Pub. L. 94–455, set out as a note under section 32 of this title.
+Amendment by section 401(b)(3) of Pub. L. 94–455 applicable to taxable years ending after Dec. 31, 1975, see section 401(e) of Pub. L. 94–455, set out as a note under section 32 of this title.
 
 #### Effective and Termination Dates of 1975 Amendments
 
 Amendment by Pub. L. 94–164 applicable to taxable years ending after Dec. 31, 1975 and before Jan. 1, 1977, see section 2(g) of Pub. L. 94–164, set out as a note under section 32 of this title.
 
-Amendment by Pub. L. 94–12 applicable to taxable years ending after Dec. 31, 1974, and to cease to apply to taxable years ending after Dec. 31, 1976, see section 209(a) of Pub. L. 94–12, as amended, set out as a note under section 3 of this title.
+Amendment by Pub. L. 94–12 applicable to taxable years ending after Dec. 31, 1974, and to cease to applyto taxable years ending after Dec. 31, 1976, see section 209(a) of Pub. L. 94–12, as amended, set out as a note under section 3 of this title.
 
 #### Effective Date of 1974 Amendments
 

@@ -18,7 +18,7 @@ Section 107, R.S. §5173, related to custody of plates and dies procured for pri
 
 Section 108, R.S. §5174; Feb. 27, 1877, ch. 69, §1, 19 Stat. 252, related to examination of plates, dies, and other material from which national-bank circulation was printed, and destruction of obsolete material.
 
-Section 109, R.S. §5182; Jan. 13, 1920, ch. 38, 41 Stat. 387, provided that banks could issue and circulate notes the same as money if signed by officers in manner of obligatory promissory notes payable on demand at place of business, and specified demands for which such notes were to be received.
+Section 109, R.S. §5182; Jan. 13, 1920, ch. 38, 41 Stat. 387, provided that banks could issue and circulate notes the same as money if signed by officers in manner ofobligatory promissory notes payable on demand at place of business, and specified demands for which such notes were to be received.
 
 Section 110, R.S. §5183; Feb. 18, 1875, ch. 80, §1, 18 Stat. 320, prohibited banks from issuing unauthorized notes.
 

@@ -6,13 +6,15 @@ In General.—If a lease or charter covered by this chapter is a capital lease o
 
 &emsp;(1) the lease or charter shall be treated as an acquisition and shall be subject to all applicable statutory and regulatory requirements for the acquisition of aircraft, naval vessels, or combat vehicles; and
 
-&emsp;(2) funds appropriated to the Department of Defense for operation and maintenance may not be obligated or expended for the lease or charter.
+&emsp;(2) funds appropriated to the Department of Defense for operation and maintenance maynot be obligated or expended for the lease or charter.
 
 (b)
 
 Definitions.—In this section, the terms "capital lease" and "lease-purchase" have the meanings given those terms in Appendix B to Office of Management and Budget Circular A–11, as in effect on January 6, 2006.
 
 (Added and amended Pub. L. 116–283, div. A, title XVIII, §1825(a), (g), Jan. 1, 2021, 134 Stat. 4206, 4208.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -25,6 +27,8 @@ The text of subsec. (f) of section 2401 of this title, which was transferred to 
 Subsec. (a). Pub. L. 116–283, §1825(g)(2), after redesignation of section 2401(f)(1) of this title as subsec. (a) of this section, inserted heading, substituted "this chapter" for "this section" in introductory provisions, and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively.
 
 Subsec. (b). Pub. L. 116–283, §1825(g)(3), after redesignation of section 2401(d)(2) of this title as subsec. (b) of this section, inserted heading and substituted "In this section" for "In this subsection".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

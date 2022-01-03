@@ -1,6 +1,6 @@
 ### §620i. Expenditures; units excepted from soil survey and land classification requirements
 
-Expenditures for the Flaming Gorge, Glen Canyon, Wayne N. Aspinall, and Navajo initial units of the Colorado River storage project may be made without regard to the soil survey and land classification requirements of section 390a <sup>1</sup> of this title.
+Expenditures for the Flaming Gorge, Glen Canyon, Wayne N. Aspinall, and Navajo initialunits of the Colorado River storage project may be made without regard to the soil survey and land classification requirements of section 390a <sup>1</sup> of this title.
 
 (Apr. 11, 1956, ch. 203, §10, 70 Stat. 110; Pub. L. 96–375, §7, Oct. 3, 1980, 94 Stat. 1507.)
 

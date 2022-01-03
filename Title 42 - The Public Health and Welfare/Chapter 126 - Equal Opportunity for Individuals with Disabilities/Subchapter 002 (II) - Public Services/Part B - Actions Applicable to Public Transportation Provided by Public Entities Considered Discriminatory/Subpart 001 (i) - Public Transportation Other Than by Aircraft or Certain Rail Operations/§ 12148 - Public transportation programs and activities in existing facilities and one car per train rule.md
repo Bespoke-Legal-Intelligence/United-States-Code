@@ -26,11 +26,15 @@
 
 (Pub. L. 101–336, title II, §228, July 26, 1990, 104 Stat. 344.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The effective date of this section, referred to in subsec. (b)(1), probably means the effective date of subsec. (b), which is effective on date of enactment of Pub. L. 101–336, which was approved July 26, 1990. The effective date of subsec. (a) is 18 months after July 26, 1990. See section 231 of Pub. L. 101–336, set out as an Effective Date note under section 12141 of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Subsec. (a) of this section effective 18 months after July 26, 1990, and subsec. (b) of this section effective July 26, 1990, see section 231 of Pub. L. 101–336, set out as a note under section 12141 of this title.
+Subsec. (a) of this section effective 18 months after July 26, 1990, and subsec. (b) of this section effectiveJuly 26, 1990, see section 231 of Pub. L. 101–336, set out as a note under section 12141 of this title.
 

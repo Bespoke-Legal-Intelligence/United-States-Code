@@ -72,7 +72,7 @@ Form and Availability of Estimates.—The estimates made under subsection (a) sh
 
 #### Presidential Transition Act of 1963
 
-Pub. L. 88–277, Mar. 7, 1964, 78 Stat. 153, as amended by Pub. L. 94–499, §§1, 2, Oct. 14, 1976, 90 Stat. 2380; Pub.L. 100–398, §§2(a), 3, 4, Aug. 17, 1988, 102 Stat. 985, 986; Pub. L. 106–293, §2, Oct. 12, 2000, 114 Stat. 1035; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–458, title VII, §7601(a), Dec. 17, 2004, 118 Stat. 3856; Pub. L. 111–283, §2(a), (b), (d), Oct. 15, 2010, 124 Stat. 3045, 3047, 3048; Pub. L. 114–136, §2(a), (b), (c)(2), Mar. 18, 2016, 130 Stat. 301, 304, 305; Pub. L. 116–121, §2, Mar. 3, 2020, 134 Stat. 138, provided: "That this Act may be cited as the 'Presidential Transition Act of 1963.'
+Pub. L. 88–277, Mar. 7, 1964, 78 Stat. 153, as amended by Pub. L. 94–499, §§1, 2, Oct. 14, 1976, 90 Stat. 2380; Pub. L. 100–398, §§2(a), 3, 4, Aug. 17, 1988, 102 Stat. 985, 986; Pub. L. 106–293, §2, Oct. 12, 2000, 114 Stat. 1035; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–458, title VII, §7601(a), Dec. 17, 2004, 118 Stat. 3856; Pub. L. 111–283, §2(a), (b), (d), Oct. 15, 2010, 124 Stat. 3045, 3047, 3048; Pub. L. 114–136, §2(a), (b), (c)(2), Mar. 18, 2016, 130 Stat. 301, 304, 305; Pub. L. 116–121, §2, Mar. 3, 2020, 134Stat. 138, provided: "That this Act may be cited as the 'Presidential Transition Act of 1963.'
 
 #### "purpose of this act
 
@@ -116,9 +116,9 @@ Sec. 3. (a) The Administrator of General Services, referred to hereafter in this
 
 &emsp;"(iv) Activities under this paragraph may include training or orientation in human resources management and performance-based management.
 
-&emsp;"(v) Activities under this paragraph shall include the preparation of a detailed classified, compartmented summary by the relevant outgoing executive branch officials of specific operational threats to national security; major military or covert operations; and pending decisions on possible uses of militaryforce. This summary shall be provided to the President-elect as soon as possible after the date of the general elections held to determine the electors of President and Vice President under section 1 or 2 of title 3, United States Code.
+&emsp;"(v) Activities under this paragraph shall include the preparation of a detailed classified, compartmented summary by the relevant outgoing executive branch officials of specific operational threats to national security; major military or covert operations; and pending decisions on possible uses of military force. This summary shall be provided to the President-elect as soon as possible after the date of the general elections held to determine the electors of President and Vice President under section 1 or 2 of title 3, United States Code.
 
-&emsp;"(B) Activities under this paragraph shall be conducted primarily for individuals the President-elect or eligible candidate (as defined in subsection (h)(4)) for President intends to nominate as department heads or appoint to key positions in the Executive Office of the President or Executive agencies (as defined in section 105 of title 5, United States Code).
+&emsp;"(B) Activities under this paragraph shall be conducted primarily for individuals the President-elector eligible candidate (as defined in subsection (h)(4)) for President intends to nominate as department heads or appoint to key positions in the Executive Office of the President or Executive agencies (as defined in section 105 of title 5, United States Code).
 
 &emsp;"(9)(A) Notwithstanding subsection (b), development of a transition directory by the Administrator of General Services Administration, in consultation with the Archivist of the United States (head of the National Archives and Records Administration) for activities conducted under paragraph (8).
 
@@ -166,7 +166,7 @@ Sec. 3. (a) The Administrator of General Services, referred to hereafter in this
 
 "(ii) The Administrator shall promptly make the report under clause (i) generally available to the public (including through electronic means) and shall include such report with the notice provided to each eligible candidate under subparagraph (A)(i).
 
-"(2)(A) Except as provided in subparagraph (B), the services and facilities described in this paragraph arethe services and facilities described in subsection (a) (other than paragraphs (2), (3), (4), (7), and 8(A)(v) thereof), but only to the extent that the use of the services and facilities is for use in connection with the eligible candidate's preparations for the assumption of official duties as President or Vice-President.
+"(2)(A) Except as provided in subparagraph (B), the services and facilities described in this paragraph are the services and facilities described in subsection (a) (other than paragraphs (2), (3), (4), (7), and 8(A)(v) thereof), but only to the extent that the use of the services and facilities is for use in connection with the eligible candidate's preparations for the assumption of official duties as President or Vice-President.
 
 "(B) The Administrator—
 
@@ -480,7 +480,7 @@ Sec. 5. The Administrator is authorized to provide, upon request, to each former
 
 "
 
-Sec. 6. (a)(1) The President-elect and Vice-President-elect (as a condition for receiving services undersection 3 and for funds provided under section 7(a)(1)) shall disclose to the Administrator the date of contribution, source, amount, and expenditure thereof of all money, other than funds from the Federal Government, and including currency of the United States and of any foreign nation, checks, money orders, or any other negotiable instruments payable on demand, received either before or after the date of the general elections for use in the preparation of the President-elect or Vice-President-elect for the assumption of official duties as President or Vice President.
+Sec. 6. (a)(1) The President-elect and Vice-President-elect (as a condition for receiving services under section 3 and for funds provided under section 7(a)(1)) shall disclose to the Administrator the date of contribution, source, amount, and expenditure thereof of all money, other than funds from the Federal Government, and including currency of the United States and of any foreign nation, checks, money orders, or any other negotiable instruments payable on demand, received either before or after the date of the general elections for use in the preparation of the President-elect or Vice-President-elect for the assumption of official duties as President or Vice President.
 
 "(2) The President-elect and Vice-President-elect (as a condition for receiving such services and funds) shall make available to the Administrator and the Comptroller General all information concerning such contributions as the Administrator or Comptroller General may require for purposes of auditing both the public and private funding used in the activities authorized by this Act.
 

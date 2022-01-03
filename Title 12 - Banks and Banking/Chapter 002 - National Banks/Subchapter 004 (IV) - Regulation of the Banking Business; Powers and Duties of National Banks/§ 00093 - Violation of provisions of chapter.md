@@ -48,7 +48,7 @@ If the directors of any national banking association shall knowingly violate, or
 
 #### (4) Maximum amounts of penalties for any violation described in paragraph (3)
 
-&emsp;The maximum daily amount of any civil penalty which may be assessed pursuant to paragraph (3) for any violation, practice, or breach described in such paragraph is—
+&emsp;The maximum daily amount of any civil penalty which may be assessed pursuant toparagraph (3) for any violation, practice, or breach described in such paragraph is—
 
 &emsp;&emsp;(A) in the case of any person other than a national banking association, an amount to not <sup>3</sup> exceed $1,000,000; and
 
@@ -60,7 +60,7 @@ If the directors of any national banking association shall knowingly violate, or
 
 #### (5) Assessment; etc.
 
-&emsp;Any penalty imposed under paragraph (1), (2), or (3) shall be assessed and collected by the Comptroller of the Currency in the manner provided in subparagraphs (E), (F), (G), and (I) of section 1818(i)(2) of this title for penaltiesimposed (under such section) and any such assessment shall be subject to the provisions of such section.
+&emsp;Any penalty imposed under paragraph (1), (2), or (3) shall be assessed and collected by the Comptroller of the Currency in the manner provided in subparagraphs (E), (F), (G), and (I) of section 1818(i)(2) of this title for penalties imposed (under such section) and any such assessment shall be subject to the provisions of such section.
 
 #### (6) Hearing
 
@@ -177,6 +177,8 @@ Pub. L. 101–73, title IX, §907(l), Aug. 9, 1989, 103 Stat. 476, provided that
 #### Effective Date of 1978 Amendment
 
 Pub. L. 95–630, title I, §109, Nov. 10, 1978, 92 Stat. 3665, provided that: "Any amendment made by this title which provides for the imposition of civil penalties \[enacting sections 504 and 505 of this title and amending this section and sections 1464, 1730, 1730a, 1786, 1818, 1828, and 1847 of this title\] shall apply only to violations occurring or continuing after the date of its enactment \[Nov. 10, 1978\]."
+
+#### <b>Executive Documents</b>
 
 #### Exception as to Transfer of Functions
 

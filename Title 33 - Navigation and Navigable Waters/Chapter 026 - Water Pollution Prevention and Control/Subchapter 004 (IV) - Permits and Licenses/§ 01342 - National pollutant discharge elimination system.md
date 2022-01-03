@@ -2,7 +2,7 @@
 
 #### (a) Permits for discharge of pollutants
 
-(1) Except as provided in sections 1328 and 1344 of this title, the Administrator may, after opportunity for public hearing issue a permit for the discharge of any pollutant, or combination of pollutants, notwithstanding section 1311(a) of this title, upon condition that such discharge will meet either (A) all applicable requirements under sections 1311, 1312, 1316, 1317, 1318, and 1343 of this title, or (B) prior to the taking of necessary implementing actions relating to all such requirements, such conditions as the Administrator determines are necessary to carry out the provisions of this chapter.
+(1) Except as provided in sections 1328 and 1344 of this title, the Administrator may, after opportunity for public hearing issue a permit for the discharge of any pollutant, or combination of pollutants, notwithstanding section 1311(a) of this title, upon condition that such discharge will meet either (A) all applicable requirements under sections 1311, 1312, 1316, 1317, 1318, and 1343of this title, or (B) prior to the taking of necessary implementing actions relating to all such requirements, such conditions as the Administrator determines are necessary to carry out the provisions of this chapter.
 
 (2) The Administrator shall prescribe conditions for such permits to assure compliance with the requirements of paragraph (1) of this subsection, including conditions on data and information collection, reporting, and such other requirements as he deems appropriate.
 
@@ -46,7 +46,7 @@ At any time after the promulgation of the guidelines required by subsection (i)(
 
 (7) To abate violations of the permit or the permit program, including civil and criminal penalties and other ways and means of enforcement;
 
-(8) To insure that any permit for a discharge from a publicly owned treatment works includes conditions to require the identification in terms of character and volume of pollutants of any significant source introducing pollutants subject to pretreatment standards under section 1317(b) of this title into such works and a program to assure compliance with such pretreatment standards by each such source, in addition to adequate notice to the permitting agency of (A) new introductions into such works of pollutants from any source which would be a new source as defined in section 1316 of this title if such source were discharging pollutants, (B) new introductions of pollutants into such works from a source which would be subject to section 1311 of this title if it were discharging such pollutants, or (C) a substantial change in volume or character of pollutants being introduced into such works by a source introducing pollutants into such works at the time of issuance of the permit. Such notice shall include information on the quality and quantity of effluent to be introduced into such treatment works and any anticipated impact of such change in the quantity or quality of effluent to be discharged from such publicly owned treatment works; and
+(8) To insure that any permit for a discharge from a publicly owned treatment works includes conditions to require the identification in terms of character and volume of pollutants of any significant source introducing pollutants subject to pretreatment standards under section 1317(b) of this title into such works and a program to assure compliance with such pretreatment standards by each such source, in addition to adequate notice to the permitting agency of (A)new introductions into such works of pollutants from any source which would be a new source as defined in section 1316 of this title if such source were discharging pollutants, (B) new introductions of pollutants into such works from a source which would be subject to section 1311 of this title if it were discharging such pollutants, or (C) a substantial change in volume or character of pollutants being introduced into such works by a source introducing pollutants into such works at the time of issuance of the permit. Such notice shall include information on the quality and quantity of effluent to be introduced into such treatment works and any anticipated impact of such change in the quantity or quality of effluent to be discharged from such publicly owned treatment works; and
 
 (9) To insure that any industrial user of any publicly owned treatment works will comply with sections 1284(b), 1317, and 1318 of this title.
 
@@ -128,7 +128,7 @@ Other requirements.—Nothing in this paragraph exempts a discharge from silvicu
 
 #### (m) Additional pretreatment of conventional pollutants not required
 
-To the extent a treatment works (as defined in section 1292 of this title) which is publicly owned is not meeting the requirements of a permit issued under this section for such treatment works as a result of inadequate design or operation of such treatment works, the Administrator, in issuing a permit under this section, shall not require pretreatment by a person introducing conventional pollutants identified pursuant to section 1314(a)(4) of this title into such treatment works other than pretreatment required to assure compliance with pretreatment standards under subsection (b)(8) of this section and section 1317(b)(1) of this title. Nothing in this subsection shall affect the Administrator's authority under sections 1317 and 1319 of this title, affect State and local authority under sections 1317(b)(4) and 1370 of this title, relieve such treatment works of its obligations to meet requirements established under this chapter, or otherwise preclude such works from pursuing whatever feasible options are available to meet its responsibility to comply with its permit under this section.
+To the extent a treatment works (as defined in section 1292 of this title) which is publicly owned is not meeting the requirements of a permit issued under this section for such treatment works as a result of inadequate design or operation of such treatment works, the Administrator, in issuing a permit under this section, shall not require pretreatment by a person introducing conventional pollutants identified pursuant to section 1314(a)(4) of this title into such treatment works other than pretreatment required to assure compliance with pretreatment standards under subsection (b)(8) of this section and section 1317(b)(1) of this title. Nothing in this subsection shall affect the Administrator's authority under sections 1317 and1319 of this title, affect State and local authority under sections 1317(b)(4) and 1370 of this title, relieve such treatment works of its obligations to meet requirements established under this chapter, or otherwise preclude such works from pursuing whatever feasible options are available to meet its responsibility to comply with its permit under this section.
 
 #### (n) Partial permit program
 
@@ -176,13 +176,13 @@ To the extent a treatment works (as defined in section 1292 of this title) which
 
 &emsp;&emsp;(D) the permittee has received a permit modification under section 1311(c), 1311(g), 1311(h), 1311(i), 1311(k), 1311(n), or 1326(a) of this title; or
 
-&emsp;&emsp;(E) the permittee has installed the treatment facilities required to meet the effluent limitations in the previous permit and has properly operated and maintained the facilities but has nevertheless been unable to achieve the previous effluent limitations, in which case the limitations in the reviewed, reissued, or modified permit may reflect the level of pollutant control actually achieved\(but shall not be less stringent than required by effluent guidelines in effect at the time of permit renewal, reissuance, or modification).
+&emsp;&emsp;(E) the permittee has installed the treatment facilities required to meet the effluent limitations in the previous permit and has properly operated and maintained the facilities but has nevertheless been unable to achieve the previous effluent limitations, in which case the limitations in the reviewed, reissued, or modified permit may reflect the level of pollutant control actually achieved (but shall not be less stringent than required by effluent guidelines in effect at the time of permit renewal, reissuance, or modification).
 
 > &emsp;Subparagraph (B) shall not apply to any revised waste load allocations or any alternative grounds for translating water quality standards into effluent limitations, except where the cumulative effect of such revised allocations results in a decrease in the amount of pollutants discharged into the concerned waters, and such revised allocations are not the result of a discharger eliminating or substantially reducing its discharge of pollutants due to complying with the requirements of this chapter or for reasons otherwise unrelated to water quality.
 
 #### (3) Limitations
 
-&emsp;In no event may a permit with respect to which paragraph (1) applies be renewed, reissued, or modified to contain an effluent limitation which is less stringent than required by effluent guidelines in effect at the time the permit is renewed, reissued, or modified. In no event may such a permit to discharge into waters be renewed, reissued, or modified to contain a less stringent effluent limitation if the implementation of such limitation would result in a violation of a water quality standard under section 1313 of this title applicable to such waters.
+&emsp;In no event may a permit with respect to which paragraph (1) applies be renewed, reissued, or modified to contain an effluent limitation which is less stringent than required by effluent guidelines in effect at the time thepermit is renewed, reissued, or modified. In no event may such a permit to discharge into waters be renewed, reissued, or modified to contain a less stringent effluent limitation if the implementation of such limitation would result in a violation of a water quality standard under section 1313 of this title applicable to such waters.
 
 #### (p) Municipal and industrial stormwater discharges
 
@@ -250,7 +250,7 @@ To the extent a treatment works (as defined in section 1292 of this title) which
 
 #### (1) Requirement for permits, orders, and decrees
 
-&emsp;Each permit, order, or decree issued pursuant to this chapter after December 21, 2000, for a discharge from a municipal combined storm and sanitary sewer shall conform to the Combined Sewer Overflow Control Policy signed by the Administrator on April 11, 1994 (in this subsection referred to as the "CSO control policy").
+&emsp;Each permit, order, or decree issued pursuant to this chapter after December 21, 2000, fora discharge from a municipal combined storm and sanitary sewer shall conform to the Combined Sewer Overflow Control Policy signed by the Administrator on April 11, 1994 (in this subsection referred to as the "CSO control policy").
 
 #### (2) Water quality and designated use review guidance
 
@@ -324,7 +324,7 @@ No permit shall be required under this chapter by the Administrator (or a State,
 
 #### (B) Flexibility
 
-&emsp;&emsp;Nothing in this subsection reduces or eliminates any flexibility available underthis chapter, including the authority of a State to revise a water quality standard after a use attainability analysis under section 131.10(g) of title 40, Code of Federal Regulations (or a successor regulation), subject to the approval of the Administrator under section 1313(c) of this title.
+&emsp;&emsp;Nothing in this subsection reduces or eliminates any flexibility available under this chapter, including the authority of a State to revise a water quality standard after a use attainability analysis under section 131.10(g) of title 40, Code of Federal Regulations (or a successor regulation), subject to the approval of the Administrator under section 1313(c) of this title.
 
 #### (6) Clarification of State authority
 
@@ -334,7 +334,7 @@ No permit shall be required under this chapter by the Administrator (or a State,
 
 #### (B) Transition rule
 
-&emsp;&emsp;In any case in which a discharge is subject to a judicial order or consent decree, as of January 14, 2019, resolving an enforcement action under this chapter, any schedule of compliance issued pursuant to an authorization in a State water quality standard may not revise a schedule of compliance in that order or decree to be less stringent, unless the order or decree is modified by agreement of the parties and the court.
+&emsp;&emsp;In any case in which a discharge is subject to a judicial order or consent decree, as of January 14, 2019, resolving an enforcementaction under this chapter, any schedule of compliance issued pursuant to an authorization in a State water quality standard may not revise a schedule of compliance in that order or decree to be less stringent, unless the order or decree is modified by agreement of the parties and the court.
 
 (June 30, 1948, ch. 758, title IV, §402, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 880; amended Pub. L. 95–217, §§33(c), 50, 54(c)(1), 65, 66, Dec. 27, 1977, 91 Stat. 1577, 1588, 1591, 1599, 1600; Pub. L. 100–4, title IV, §§401–404(a), 404(c), formerly 404(d), 405, Feb. 4, 1987, 101 Stat. 65–67, 69, renumbered §404(c), Pub. L. 104–66, title II, §2021(e)(2), Dec. 21, 1995, 109 Stat. 727; Pub. L. 102–580, title III, §364, Oct. 31, 1992, 106 Stat. 4862; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §112(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–224; Pub. L. 110–288, §2, July 29, 2008, 122 Stat. 2650; Pub. L. 113–79, title XII, §12313, Feb. 7, 2014, 128 Stat. 992; Pub. L. 115–436, §3(a), Jan. 14, 2019, 132 Stat. 5558.)
 
@@ -386,8 +386,6 @@ Subsec. (l). Pub. L. 95–217, §33(c), added subsec. (l).
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-Enforcement functions of Administrator or other official of the Environmental Protection Agency under this section relating to compliance with national pollutant discharge elimination system permits with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas were transferred to the Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until the first anniversary of the date of initial operation of the Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(a), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
-
 #### Permit Requirements for Discharges From Certain Vessels
 
 Pub. L. 110–299, §§1, 2, July 31, 2008, 122 Stat. 2995, as amended by Pub. L. 111–215, §1, July 30, 2010, 124 Stat. 2347; Pub. L. 112–213, title VII, §703, Dec. 20, 2012, 126 Stat. 1580; Pub. L. 113–281, title VI, §602, Dec. 18, 2014, 128 Stat. 3061; Pub. L. 115–100, §1, Jan. 3, 2018, 131 Stat. 2245, which exempted from permit requirements, for the period from July 31, 2008, through Jan. 19, 2018, discharges incidental to the normal operation of vessels, subject to certain exceptions, was repealed by Pub. L. 115–282, title IX, §903(a)(2)(A)(ii), Dec. 4, 2018, 132 Stat. 4354.
@@ -424,7 +422,7 @@ Population.—The Administrator shall not require any municipality with a popula
 
 "(d)
 
-Uncontrolled Sanitary Landfill Defined.—For the purposes of this section, the term 'uncontrolled sanitary landfill' means a landfill or open dump, whether in operation or closed, that does not meet the requirements for run-on and run-off controls established pursuant to subtitle D of the Solid Waste Disposal Act \[42 U.S.C. 6941 et seq.\].
+Uncontrolled Sanitary Landfill Defined.—For the purposes of this section, the term 'uncontrolled sanitary landfill' means a landfill or open dump, whether in operation or closed, that does not meet therequirements for run-on and run-off controls established pursuant to subtitle D of the Solid Waste Disposal Act \[42 U.S.C. 6941 et seq.\].
 
 "(e)
 
@@ -475,6 +473,12 @@ Log Transfer Facility Defined.—For the purposes of this section, the term 'log
 #### Allowable Delay in Modifying Existing Approved State Permit Programs To Conform to 1977 Amendment
 
 Pub. L. 95–217, §54(c)(2), Dec. 27, 1977, 91 Stat. 1591, provided that any State permit program approved under this section before Dec. 27, 1977, which required modification to conform to the amendment made by section 54(c)(1) of Pub. L. 95–217, which amended subsec. (b)(8) of this section, not be required to be modified before the end of the one year period which began on Dec. 27, 1977, unless in order to make the required modification a State must amend or enact a law in which case such modification not be required for such State before the end of the two year period which began on Dec. 27, 1977.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Enforcement functions of Administrator or other official of the Environmental Protection Agency under this section relating to compliance with national pollutant discharge elimination system permits with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas were transferred to the Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until the first anniversary of the date of initial operation of the Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(a), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

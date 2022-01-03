@@ -30,6 +30,8 @@ The word "naval" is substituted for "belonging to the Navy of the United States"
 
 A prior section 8912, act Aug. 10, 1956, ch. 1041, 70A Stat. 549, permitted Secretary of Air Force, upon officer's request, to retire an Air Force nurse, or a woman medical specialist, of Regular Air Force, who has at least 20 years of service computed under former section 8928 of this title, prior to repeal by Pub. L. 85–155, title IV, §401(1), Aug. 21, 1957, 71 Stat. 390.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7862 of this title as this section.
@@ -37,6 +39,8 @@ A prior section 8912, act Aug. 10, 1956, ch. 1041, 70A Stat. 549, permitted Secr
 <b>1986</b>—Pub. L. 99–433 renumbered section 7861 of this title as this section.
 
 <b>1982</b>—Pub. L. 97–295 substituted "naval" for "public" in section catchline.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

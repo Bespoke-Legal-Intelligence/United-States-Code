@@ -18,7 +18,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall establish within the United States Geological Survey a system, to be known as the "National Volcano Early Warning and Monitoring System", to monitor, warn, and protect citizens of the United States from undue and avoidable harm from volcanic activity.
+&emsp;&emsp;The Secretary shall establish within the United States Geological Survey a system,to be known as the "National Volcano Early Warning and Monitoring System", to monitor, warn, and protect citizens of the United States from undue and avoidable harm from volcanic activity.
 
 #### (B) Purposes
 

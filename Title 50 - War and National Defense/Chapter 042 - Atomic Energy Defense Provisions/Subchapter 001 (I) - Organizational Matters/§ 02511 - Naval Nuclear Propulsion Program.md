@@ -4,6 +4,8 @@ The provisions of Executive Order Numbered 12344, dated February 1, 1982, pertai
 
 (Pub. L. 107–314, div. D, title XLI, §4101, formerly Pub. L. 98–525, title XVI, §1634, Oct. 19, 1984, 98 Stat. 2649; renumbered Pub. L. 107–314, div. D, title XLI, §4101, and amended Pub. L. 108–136, div. C, title XXXI, §3141(d)(2), Nov. 24, 2003, 117 Stat. 1757.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Executive Order Numbered 12344, referred to in text, is set out as a note below.
@@ -12,13 +14,15 @@ Executive Order Numbered 12344, referred to in text, is set out as a note below.
 
 Section was formerly set out as a note under section 7158 of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
 
+#### <b>Executive Documents</b>
+
 #### Transfer of Functions
 
 All national security functions and activities performed immediately before Oct. 5, 1999, by the Office of Naval Reactors transferred to the Administrator for Nuclear Security of the National Nuclear Security Administration of the Department of Energy, and the Deputy Administrator for Naval Reactors of the Administration to be assigned the responsibilities, authorities, and accountability for all functions of the Office of Naval Reactors under Executive Order No. 12344, set out below, see sections 2406 and 2481 of this title.
 
 #### Executive Order No. 12344 To Remain in Force
 
-Except as otherwise specified in section 2406 of this title and notwithstanding any other provision of title XXXII of Pub. L. 106–65 (see Short Title note set out under section 2401 of this title), the provisions of Executive Order No. 12344 (set out below) to remain in full force and effect until changed by law, see section 2406 of this title.
+Except as otherwise specified in section 2406 of this title and notwithstanding any other provision of titleXXXII of Pub. L. 106–65 (see Short Title note set out under section 2401 of this title), the provisions of Executive Order No. 12344 (set out below) to remain in full force and effect until changed by law, see section 2406 of this title.
 
 #### Ex. Ord. No. 12344. Naval Nuclear Propulsion Program
 

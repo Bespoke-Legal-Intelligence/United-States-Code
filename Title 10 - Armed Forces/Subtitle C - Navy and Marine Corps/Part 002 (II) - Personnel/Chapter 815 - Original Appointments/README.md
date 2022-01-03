@@ -11,6 +11,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283, div. A, title V, §509(b), Jan. 1, 2021, 134 Stat. 3586, struck out item 8137 "Regular Navy: officers designated for engineering duty, aeronautical engineering duty, and special duty".

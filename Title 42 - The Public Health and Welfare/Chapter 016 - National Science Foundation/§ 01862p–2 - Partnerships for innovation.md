@@ -30,7 +30,7 @@ Proposals funded under this section shall seek—
 
 &emsp;(1) to increase the impact of the most promising research at the institution or institutions of higher education that are members of the partnership through knowledge transfer or commercialization;
 
-&emsp;(2) to increase the engagement of faculty and students across multiple disciplines and departments, including faculty and students in schools of business and other appropriate non-STEM fields and disciplines in knowledge transfer activities;
+&emsp;(2) to increase the engagement of faculty and students across multiple disciplines and departments, including faculty and students in schools of business and other appropriatenon-STEM fields and disciplines in knowledge transfer activities;
 
 &emsp;(3) to enhance education and mentoring of students and faculty in innovation and entrepreneurship through networks, courses, and development of best practices and curricula;
 
@@ -56,9 +56,13 @@ No funds provided under this section may be used to construct or renovate a buil
 
 (Pub. L. 111–358, title V, §508, Jan. 4, 2011, 124 Stat. 4008.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the America COMPETES Reauthorization Act of 2010, also known as the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Reauthorization Act of 2010, and also as part of the National Science Foundation Authorization Act of 2010, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

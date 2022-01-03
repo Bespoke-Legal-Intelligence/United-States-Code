@@ -32,9 +32,13 @@ An election under this section may provide for a survivor annuity based on all o
 
 (Pub. L. 88–643, title II, §223, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3216.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 223 of Pub. L. 88–643, as added Pub. L. 97–269, title VI, §607, Sept. 27, 1982, 96 Stat. 1151; amended Pub. L. 99–335, title V, §501(2), June 6, 1986, 100 Stat. 622, related to election of survivor benefits for certain former spouses and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

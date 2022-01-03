@@ -34,7 +34,7 @@ The Council shall not be considered to be a Federal advisory committee for purpo
 
 #### (e) Members of Council not Federal officers or employees
 
-Members of the Council (other than a member from the FBI or any at-large member who maybe a Federal official or employee) shall not, by virtue of such membership, be deemed—
+Members of the Council (other than a member from the FBI or any at-large member who may be a Federal official or employee) shall not, by virtue of such membership, be deemed—
 
 &emsp;(1) to be, for any purpose other than to effect the Compact, officers or employees of the United States (as defined in sections 2104 and 2105 of title 5); or
 
@@ -56,7 +56,7 @@ The Violent Crime Control and Law Enforcement Act of 1994, referred to in subsec
 
 The United States Housing Act of 1937, referred to in subsec. (b)(1)(E), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
 
-The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsec. (b)(1)(F), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, which is classified principally to chapter 43 (§4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
+The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsec. (b)(1)(F), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016,which is classified principally to chapter 43 (§4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
 
 The Departments of State, Justice, and Commerce, the Judiciary, and Related Agencies Appropriation Act, 1973, referred to in subsec. (c), is Pub. L. 92–544, Oct. 25, 1972, 86 Stat. 1109. For complete classification of this Act to the Code, see Tables.
 

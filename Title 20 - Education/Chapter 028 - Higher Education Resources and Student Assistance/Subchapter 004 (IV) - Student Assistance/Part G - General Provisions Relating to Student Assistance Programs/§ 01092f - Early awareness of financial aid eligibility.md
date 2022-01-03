@@ -84,7 +84,7 @@ The Secretary shall implement, in cooperation with States, institutions of highe
 
 #### <i>(4) Electronic estimator on FAFSA</i>
 
-&emsp;<i>In accordance with subsection (d)(5) of section 1090 of this title, the Secretary shall maintain an electronic method for applicants to enter income and family size, and level of education sought information to calculate a non-binding estimate (which may include a range, ceiling, or minimum) of the applicant's Federal financial aid available under this subchapter and shall place such calculator on a prominent location on the FAFSA website and in a manner that encourages students to fill out the FAFSA.</i>
+&emsp;<i>In accordance with subsection (d)(5) of section 1090 of this title, the Secretary shall maintain an electronic method for applicants to enter income and family size, and level of education sought information to calculate a non-binding estimate (which may include a range, ceiling, or minimum)</i><i>of the applicant's Federal financial aid available under this subchapter and shall place such calculator on a prominent location on the FAFSA website and in a manner that encourages students to fill out the FAFSA.</i>
 
 #### <i>(c) Early awareness plans</i>
 
@@ -96,7 +96,7 @@ The Secretary shall implement, in cooperation with States, institutions of highe
 
 &emsp;&emsp;<i>The Secretary shall develop plans for each population described in this subparagraph to disseminate information about the availability of Federal financial aid under this subchapter, in addition to and in coordination with the distribution of the method of estimating eligibility under subsection (b), to—</i>
 
-&emsp;&emsp;&emsp;<i>(i) all middle schools and secondary schools eligible for funds under part A of title I of the</i><i>Elementary and Secondary Education Act of 1965;</i>
+&emsp;&emsp;&emsp;<i>(i) all middle schools and secondary schools eligible for funds under part A of title I of the Elementary and Secondary Education Act of 1965;</i>
 
 &emsp;&emsp;&emsp;<i>(ii) local educational agencies and middle schools and high schools that serve students not less than 25 percent of whom meet a measure of poverty as described in section 1113(a)(5) of the Elementary and Secondary Education Act;</i>
 
@@ -166,7 +166,7 @@ The Secretary shall implement, in cooperation with States, institutions of highe
 
 #### <i>(C) Plan with Secretary of the Treasury</i>
 
-&emsp;&emsp;<i>The interagency coordination plan under subparagraph (A)(i) between the Secretary and the Secretary of the Treasury shall further include specific methods to increase the application for Federal financial aid under this subchapter from individuals who file Federal tax returns, including collaboration with tax preparation entities or other third parties, as appropriate.</i>
+&emsp;&emsp;<i>The interagency coordination plan under subparagraph (A)(i) between the Secretary and the Secretary of the Treasury shall further include specific methods to increase the application for Federal financial aid under this subchapter from individuals who file Federal tax returns,</i><i>including collaboration with tax preparation entities or other third parties, as appropriate.</i>
 
 #### <i>(D) Reporting and updates</i>
 
@@ -208,6 +208,8 @@ The Secretary shall implement, in cooperation with States, institutions of highe
 
 <i>See 2020 Amendment note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Food and Nutrition Act of 2008, referred to in subsec. (b)(1)(A), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
@@ -217,6 +219,8 @@ The Food and Nutrition Act of 2008, referred to in subsec. (b)(1)(A), is Pub. L.
 <b>2020</b>—Pub. L. 116–260 amended section generally. Prior to amendment, section related to early awareness of financial aid eligibility.
 
 <b>2010</b>—Subsec. (b)(1)(A). Pub. L. 111–152 substituted "of such students' potential eligibility for the Federal Pell Grant amount, determined under section 1070a(b)(2)(A) of this title, for which the student would be eligible" for "of such students' potential eligibility for a maximum Federal Pell Grant under subpart 1 of part A".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 

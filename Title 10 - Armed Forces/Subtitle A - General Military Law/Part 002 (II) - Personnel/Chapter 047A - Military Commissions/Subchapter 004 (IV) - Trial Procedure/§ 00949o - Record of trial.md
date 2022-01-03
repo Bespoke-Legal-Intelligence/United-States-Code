@@ -14,6 +14,8 @@ Provision of Copy to Accused.—A copy of the record of the proceedings of the m
 
 (Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2590.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 949o, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2617, related to record of trial, prior to the general amendment of this chapter by Pub. L. 111–84.

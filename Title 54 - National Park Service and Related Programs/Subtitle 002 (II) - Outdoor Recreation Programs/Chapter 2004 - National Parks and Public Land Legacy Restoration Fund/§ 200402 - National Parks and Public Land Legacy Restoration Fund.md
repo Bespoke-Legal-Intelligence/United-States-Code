@@ -10,7 +10,7 @@ Deposits.—
 
 &emsp;(1)
 
-In general.—Except as provided in paragraph (2), for each of fiscal years 2021 through 2025, there shall be deposited in the Fund an amount equal to 50 percent of all energy development revenues due and payable to the United States from oil, gas, coal, or alternative or renewable energy development onFederal land and water credited, covered, or deposited as miscellaneous receipts under Federal law in the preceding fiscal year.
+In general.—Except as provided in paragraph (2), for each of fiscal years 2021 through 2025, there shall be deposited in the Fund an amount equal to 50 percent of all energy development revenues due and payable to the United States from oil, gas, coal, or alternative or renewable energy development on Federal land and water credited, covered, or deposited as miscellaneous receipts under Federal law in the preceding fiscal year.
 
 &emsp;(2)
 

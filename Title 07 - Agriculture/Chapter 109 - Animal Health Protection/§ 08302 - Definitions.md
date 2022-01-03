@@ -114,6 +114,8 @@ In this chapter:
 
 (Pub. L. 107–171, title X, §10403, May 13, 2002, 116 Stat. 494; Pub. L. 115–334, title XII, §12101(a), Dec. 20, 2018, 132 Stat. 4937.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in introductory provisions and par. (16), was in the original "this subtitle", meaning subtitle E (§§10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Short Title note set out under section 8301 of this title and Tables.
@@ -121,6 +123,8 @@ This chapter, referred to in introductory provisions and par. (16), was in the o
 #### Amendments
 
 <b>2018</b>—Par. (18). Pub. L. 115–334 added par. (18).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

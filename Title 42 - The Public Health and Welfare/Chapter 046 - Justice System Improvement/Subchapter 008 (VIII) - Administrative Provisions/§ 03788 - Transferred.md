@@ -1,5 +1,7 @@
 ### §3788. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 3788 was editorially reclassified as section 10226 of Title 34, Crime Control and Law Enforcement.

@@ -10,6 +10,8 @@ Notwithstanding section 7543(a) of this title, any State which has plan provisio
 
 (July 14, 1955, ch. 360, title I, §177, as added Pub. L. 95–95, title I, §129(b), Aug. 7, 1977, 91 Stat. 750; amended Pub. L. 101–549, title II, §232, Nov. 15, 1990, 104 Stat. 2529.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Pub. L. 101–549 added sentence at end prohibiting States from limiting or prohibiting sale or manufacture of new vehicles or engines certified in California as having met California standards and from taking any actions where effect of those actions would be to create a "third vehicle".

@@ -28,7 +28,7 @@ Any agreement entered into under subsection (a) of this section shall not requir
 
 &emsp;(B) when an individual first receives an appointment, the request shall be effective on the day of appointment, if the individual makes the request at the time of appointment.
 
-(3) An individual may change the State designated by him for the purposes of having withholdings made and request that the withholdings be remitted in accordance with such change, and he may also revoke his request for withholdings. Any change in the State designated or revocation is effective on the firstday of the first pay period commencing on or after the day on which the request for change or the revocation is received in the appropriate office.
+(3) An individual may change the State designated by him for the purposes of having withholdings made and request that the withholdings be remitted in accordance with such change, and he may also revoke his request for withholdings. Any change in the State designated or revocation is effective on the first day of the first pay period commencing on or after the day on which the request for change or the revocation is received in the appropriate office.
 
 (4) The Architect is authorized to issue rules and regulations he considers appropriate in carrying out this subsection.
 

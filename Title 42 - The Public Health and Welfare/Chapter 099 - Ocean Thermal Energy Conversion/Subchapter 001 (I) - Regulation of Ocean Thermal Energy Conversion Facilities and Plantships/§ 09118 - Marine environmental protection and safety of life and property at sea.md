@@ -22,7 +22,7 @@ Whenever a licensee fails to mark any component of such an ocean thermal energy 
 
 #### (e) Rules and regulations; vessels; "ocean thermal energy conversion facility" defined
 
-(1) The Secretary of the department in which the Coast Guard is operating shall promulgateand enforce regulations specified in paragraph (2) of this subsection and such other regulations as he deems necessary concerning the documentation, design, construction, alteration, equipment, maintenance, repair, inspection, certification, and manning of ocean thermal energy conversion facilities and plantships. In addition to other requirements prescribed under those regulations, the Secretary of the department in which the Coast Guard is operating may require compliance with those vessel documentation, inspection, and manning laws which he determines to be appropriate.
+(1) The Secretary of the department in which the Coast Guard is operating shall promulgate and enforce regulations specified in paragraph (2) of this subsection and such other regulations as he deems necessary concerning the documentation, design, construction, alteration, equipment, maintenance, repair, inspection, certification, and manning of ocean thermal energy conversion facilities and plantships. In addition to other requirements prescribed under those regulations, the Secretary of the department in which the Coast Guard is operating may require compliance with those vessel documentation, inspection, and manning laws which he determines to be appropriate.
 
 (2) Within 1 year after August 3, 1980, the Secretary of the department in which the Coast Guard is operating shall promulgate regulations under paragraph (1) of this subsection which require that any ocean thermal energy conversion facility or plantship—
 
@@ -38,13 +38,15 @@ Whenever a licensee fails to mark any component of such an ocean thermal energy 
 
 (3) For the purposes of the documentation laws, for which compliance is required under paragraph (1) of this subsection, ocean thermal energy conversion facilities and plantships shall be deemed to be vessels and, if documented, vessels of the United States for the purposes of the Ship Mortgage Act, 1920 (46 U.S.C. 911–984).
 
-(4) For the purposes of this subsection the term "ocean thermal energy conversion facility" refers only to an ocean thermal energy conversion facility which has major components other than water intake or discharge pipes located seaward of the highwater mark <sup>1</sup>
+(4) For the purposes of this subsection the term "ocean thermal energy conversion facility" refers only to an ocean thermal energy conversion facility which has major componentsother than water intake or discharge pipes located seaward of the highwater mark <sup>1</sup>
 
 #### (f) Protection of navigation
 
 Subject to recognized principles of international law, the Secretary of the department in which the Coast Guard is operating shall promulgate and enforce such regulations as he deems necessary to protect navigation in the vicinity of a vessel engaged in the installation, repair, or maintenance of any submarine electric transmission cable or equipment, and to govern the markings and signals used by such a vessel.
 
 (Pub. L. 96–320, title I, §108, Aug. 3, 1980, 94 Stat. 986; Pub. L. 98–623, title VI, §602(a)(6), (7), (e)(1), (15), Nov. 8, 1984, 98 Stat. 3410–3412.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -61,6 +63,8 @@ Subsec. (d)(3). Pub. L. 98–623, §602(e)(15), added par. (3) by inserting text
 Subsec. (e)(2)(C)(ii). Pub. L. 98–623, §602(a)(6), substituted "moored, fixed or standing" for "moored or standing".
 
 Subsec. (e)(4). Pub. L. 98–623, §602(a)(7), added par. (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

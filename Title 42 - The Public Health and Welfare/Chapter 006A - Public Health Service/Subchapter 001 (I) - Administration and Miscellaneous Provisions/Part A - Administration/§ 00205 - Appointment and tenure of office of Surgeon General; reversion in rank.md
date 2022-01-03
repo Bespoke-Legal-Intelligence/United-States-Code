@@ -4,6 +4,8 @@ The Surgeon General shall be appointed from the Regular Corps for a four-year te
 
 (July 1, 1944, ch. 373, title II, §204, 58 Stat. 684; Pub. L. 97–25, title III, §303(a), July 27, 1981, 95 Stat. 145; Pub. L. 97–35, title XXVII, §2765(b), Aug. 13, 1981, 95 Stat. 932; Pub. L. 116–136, div. A, title III, §3214(e)(1), Mar. 27, 2020, 134 Stat. 373.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2020</b>—Pub. L. 116–136 substituted "Regular Corps or Ready Reserve Corps" for "Regular or Reserve Corps".
@@ -12,7 +14,15 @@ The Surgeon General shall be appointed from the Regular Corps for a four-year te
 
 Pub. L. 97–25 inserted provision that the President may appoint to office of Surgeon General an individual who is sixty-four years of age or older.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+
+#### <b>Executive Documents</b>
+
 #### Transfer of Functions
 
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855,80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
 

@@ -16,7 +16,7 @@ In selecting the members of the Advisory Committee, the President may seek and g
 
 #### (1) In general
 
-&emsp;The Advisory Committee shall advise the President and the Subcommittee and make recommendations for the President to consider when reviewing and revising the Program.
+&emsp;The Advisory Committee shall advise the President, the Subcommittee on Quantum Information Science, and the Subcommittee on Economic and Security Implications and make recommendations for the President to consider when reviewing and revising the Program.
 
 #### (2) Independent assessments
 
@@ -48,15 +48,23 @@ Non-Federal members of the Advisory Committee, while attending meetings of the A
 
 The Advisory Committee shall be exempt from section 14 of the Federal Advisory Committee Act (5 U.S.C. App.).
 
-(Pub. L. 115–368, title I, §104, Dec. 21, 2018, 132 Stat. 5096.)
+(Pub. L. 115–368, title I, §104, Dec. 21, 2018, 132 Stat. 5096; Pub. L. 117–81, div. F, title LXVI, §6606(c)(3), Dec. 27, 2021, 135 Stat. 2444.)
 
 #### Termination of Section
 
 <i>For termination of section, see section 8815 of this title.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 14 of the Federal Advisory Committee Act, referred to in subsec. (g), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Amendments
+
+<b>2021</b>—Subsec. (d)(1). Pub. L. 117–81 substituted ", the Subcommittee on Quantum Information Science, and the Subcommittee on Economic and Security Implications" for "and the Subcommittee".
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13885. Establishing the National Quantum Initiative Advisory Committee
 
@@ -84,7 +92,7 @@ Sec. 3. <i>Administration</i>. (a) The heads of agencies shall, to the extent pe
 
 (d) The Department of Energy shall provide such funding and administrative and technical support as the Committee may require.
 
-(e) Committee members shall serve without any compensation for their work on the Committee, but may receive travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service (5 U.S.C. 5701–5707).
+(e) Committee members shall serve without any compensation for their work on the Committee, but mayreceive travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service (5 U.S.C. 5701–5707).
 
 Sec. 4. <i>General Provisions</i>. (a) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (FACA), may apply to the Committee, any functions of the President under the FACA, except for those in section 6 of the FACA, shall be performed by the Secretary of Energy, in consultation with the Director, in accordance with the guidelines and procedures established by the Administrator of General Services.
 

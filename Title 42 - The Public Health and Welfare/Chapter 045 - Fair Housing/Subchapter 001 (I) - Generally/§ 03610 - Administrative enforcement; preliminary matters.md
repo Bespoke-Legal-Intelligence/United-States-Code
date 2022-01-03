@@ -34,7 +34,7 @@
 
 (3) A conciliation agreement may provide for binding arbitration of the dispute arising from the complaint. Any such arbitration that results from a conciliation agreement may award appropriate relief, including monetary relief.
 
-(4) Each conciliation agreement shall be made public unless the complainant and respondent otherwise agree and the Secretary determines that disclosure is not required to further the purposes of this subchapter.
+(4) Each conciliation agreement shall be made public unless the complainant and respondentotherwise agree and the Secretary determines that disclosure is not required to further the purposes of this subchapter.
 
 (5)(A) At the end of each investigation under this section, the Secretary shall prepare a final investigative report containing—
 
@@ -104,7 +104,7 @@ Whenever the Secretary has reasonable cause to believe that a respondent has bre
 
 #### (g) Reasonable cause determination and effect
 
-(1) The Secretary shall, within 100 days after the filing of the complaint (or, when the Secretary takes further action under subsection\(f)(2) with respect to a complaint, within 100 days after the commencement of such further action), determine based on the facts whether reasonable cause exists to believe that a discriminatory housing practice has occurred or is about to occur, unless it is impracticable to do so, or unless the Secretary has approved a conciliation agreement with respect to the complaint. If the Secretary is unable to make the determination within 100 days after the filing of the complaint (or, when the Secretary takes further action under subsection (f)(2) with respect to a complaint, within 100 days after the commencement of such further action), the Secretary shall notify the complainant and respondent in writing of the reasons for not doing so.
+(1) The Secretary shall, within 100 days after the filing of the complaint (or, when the Secretary takes further action under subsection (f)(2) with respect to a complaint, within 100 days after the commencement of such further action), determine based on the facts whether reasonable cause exists to believe that a discriminatory housing practice has occurred or is about to occur, unless it is impracticable to do so, or unless the Secretary has approved a conciliation agreement with respect to the complaint. If the Secretary is unable to make the determination within 100 days after the filing of the complaint (or, when the Secretary takes further action under subsection (f)(2) with respect to a complaint, within 100 days after the commencement of such further action), the Secretary shall notify the complainant and respondent in writing of the reasons for not doing so.
 
 (2)(A) If the Secretary determines that reasonable cause exists to believe that a discriminatory housing practice has occurred or is about to occur, the Secretary shall, except as provided in subparagraph (C), immediately issue a charge on behalf of the aggrieved person, for further proceedings under section 3612 of this title.
 
@@ -132,6 +132,8 @@ After the Secretary issues a charge under this section, the Secretary shall caus
 
 (Pub. L. 90–284, title VIII, §810, as added Pub. L. 100–430, §8(2), Sept. 13, 1988, 102 Stat. 1625.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Rules of Civil Procedure, referred to in subsec. (e)(1), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
@@ -139,6 +141,8 @@ The Federal Rules of Civil Procedure, referred to in subsec. (e)(1), are set out
 #### Prior Provisions
 
 A prior section 3610, Pub. L. 90–284, title VIII, §810, Apr. 11, 1968, 82 Stat. 85, related to enforcement, prior to repeal by Pub. L. 100–430, §8(2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -42,6 +42,8 @@
 
 (Pub. L. 96–386, §2, Oct. 7, 1980, 94 Stat. 1539.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title
 
 Pub. L. 96–386, §1, Oct. 7, 1980, 94 Stat. 1539, provided: "That this Act \[enacting this chapter\] may be cited as the 'Magnetic Fusion Energy Engineering Act of 1980'."

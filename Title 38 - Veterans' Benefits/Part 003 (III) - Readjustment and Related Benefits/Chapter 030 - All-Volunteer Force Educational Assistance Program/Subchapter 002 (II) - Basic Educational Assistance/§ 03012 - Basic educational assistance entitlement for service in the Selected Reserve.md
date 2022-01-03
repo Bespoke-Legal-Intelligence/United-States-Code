@@ -4,7 +4,7 @@
 
 &emsp;(1) who—
 
-&emsp;&emsp;(A) after June 30, 1985, first becomes a member of the Armed Forces or first enterson active duty as a member of the Armed Forces and—
+&emsp;&emsp;(A) after June 30, 1985, first becomes a member of the Armed Forces or first enters on active duty as a member of the Armed Forces and—
 
 &emsp;&emsp;&emsp;(i) serves an obligated period of active duty of at least two years of continuous active duty in the Armed Forces, subject to subsection (b) of this section, characterized by the Secretary concerned as honorable service; and
 
@@ -32,7 +32,7 @@
 
 &emsp;(3) who, after completion of the service described in clause (1) of this subsection—
 
-&emsp;&emsp;(A) is discharged from service with an honorable discharge, is placed on the retired list, or is transferred to the Standby Reserve or an element of the Ready Reserve other than the Selected Reserve after service in the Selected Reserve characterized by the Secretary concerned as honorable service; or
+&emsp;&emsp;(A) is discharged from service with an honorable discharge, is placed on the retiredlist, or is transferred to the Standby Reserve or an element of the Ready Reserve other than the Selected Reserve after service in the Selected Reserve characterized by the Secretary concerned as honorable service; or
 
 &emsp;&emsp;(B) continues on active duty or in the Selected Reserve;
 
@@ -198,7 +198,7 @@ Subsec. (a)(1)(B). Pub. L. 99–576, §307(a)(2), inserted "and was on active du
 
 Subsec. (b)(1). Pub. L. 99–576, §321(2)(B), inserted "such" after "three and one-half years of".
 
-Subsec. (c). Pub. L. 99–576, §303(a)(2), substituted "Any amount by which the basic pay of an individual is reduced under this subsection shall revert to the Treasury and shall not, for purposes of any Federal law, be considered to have been received by or to be within the control of such individual" for "Any amounts withheld from basic pay under this paragraph shall revert to the Treasury".
+Subsec. (c). Pub. L. 99–576, §303(a)(2), substituted "Any amount by which the basic pay of an individual is reduced under this subsection shall revert to the Treasury and shall not, for purposes of any Federal law, be considered to have been received by or to be within the control of such individual" for "Anyamounts withheld from basic pay under this paragraph shall revert to the Treasury".
 
 <b>1985</b>—Subsec. (a)(1)(B). Pub. L. 99–145 struck out "and without a break in service on active duty since December 31, 1976," after "chapter 34 of this title".
 
@@ -250,7 +250,7 @@ Amendment by section 303(a)(2) of Pub. L. 99–576 applicable to any reduction i
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Notification Requirement
 

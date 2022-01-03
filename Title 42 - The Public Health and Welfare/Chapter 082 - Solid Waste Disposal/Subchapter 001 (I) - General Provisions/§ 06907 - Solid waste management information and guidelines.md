@@ -10,13 +10,15 @@ Within one year of October 21, 1976, and from time to time thereafter, the Admin
 
 &emsp;(3) provide minimum criteria to be used by the States to define those solid waste management practices which constitute the open dumping of solid waste or hazardous waste and are to be prohibited under subchapter IV of this chapter.
 
-> Where appropriate, such suggested guidelines also shall include minimum information for usein deciding the adequate location, design, and construction of facilities associated with solid waste management practices, including the consideration of regional, geographic, demographic, and climatic factors.
+> Where appropriate, such suggested guidelines also shall include minimum information for use in deciding the adequate location, design, and construction of facilities associated with solid waste management practices, including the consideration of regional, geographic, demographic, and climatic factors.
 
 #### (b) Notice
 
 The Administrator shall notify the Committee on Environment and Public Works of the Senate and the Committee on Energy and Commerce of the House of Representatives a reasonable time before publishing any suggested guidelines or proposed regulations under this chapter of the content of such proposed suggested guidelines or proposed regulations under this chapter.
 
 (Pub. L. 89–272, title II, §1008, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2803; amended Pub. L. 95–609, §7(c), (d), Nov. 8, 1978, 92 Stat. 3081; Pub. L. 103–437, §15(r), Nov. 2, 1994, 108 Stat. 4594.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -36,9 +38,13 @@ Provisions similar to those in this section were contained in section 3254c of t
 
 Subsec. (b). Pub. L. 95–609, §7(d), struck out "pursuant to this section" after "any suggested guidelines" and inserted "or proposed regulations under this chapter" after "suggested guidelines" in two places.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

@@ -50,7 +50,7 @@ Each State in which all or part of a Moderate Area is located shall, with respec
 
 #### (3) Oxygenated gasoline
 
-&emsp;(A) Within 2 years after November 15, 1990, the State shall submit a revision to require that gasoline sold, supplied, offered for sale or supply, dispensed, transported or introduced into commerce in the larger of—
+&emsp;(A) Within 2 years after November 15, 1990, the State shall submit a revision to require that gasoline sold, supplied, offered for sale orsupply, dispensed, transported or introduced into commerce in the larger of—
 
 &emsp;&emsp;(i) the Consolidated Metropolitan Statistical Area (as defined by the United States Office of Management and Budget) (CMSA) in which the area is located, or
 
@@ -107,6 +107,8 @@ Each State containing a carbon monoxide nonattainment area reclassified under se
 If the Administrator determines under section 7512(b)(2) of this title that the national primary ambient air quality standard for carbon monoxide has not been attained in a Serious Area by the applicable attainment date, the State shall submit a plan revision for the area within 9 months after the date of such determination. The plan revision shall provide that a program of incentives and requirements as described in section 7511a(g)(4) of this title shall be applicable in the area, and such program, in combination with other elements of the revised plan, shall be adequate to reduce the total tonnage of emissions of carbon monoxide in the area by at least 5 percent per year in each year after approval of the plan revision and before attainment of the national primary ambient air quality standard for carbon monoxide.
 
 (July 14, 1955, ch. 360, title I, §187, as added Pub. L. 101–549, title I, §104, Nov. 15, 1990, 104 Stat. 2454.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Moratorium on Certain Emissions Testing Requirements
 

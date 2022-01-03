@@ -18,7 +18,7 @@ This section \[section 129(b) of Act May 24, 1949\] incorporates in title 4, U.S
 
 <b>1956</b>—Act Aug. 3, 1956, designated existing provisions as subsec. (a) and added subsec. (b).
 
-#### <b>Statutory Notes and Related Subsidiaries</b>
+#### <b>Executive Documents</b>
 
 #### Admission of Alaska and Hawaii to Statehood
 

@@ -34,7 +34,7 @@ From funds made available under section 6332(a) of this title the Secretary is a
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the effort factor for a State shall be determined in accordance with the succeeding sentence, except that such factor shall not be less than 0.95 nor greater than 1.05. The effort factor determined under this sentence shall be a fraction the numerator of which is the product of the 3-year average per-pupil expenditure in the State multiplied by the 3-year average per capita income in the United States and the denominator of which is the product of the 3-year average per capita income in such State multiplied by the 3-year average per-pupil expenditure in the United States.
+&emsp;&emsp;Except as provided in subparagraph (B), the effort factor for a State shall be determined in accordance with the succeeding sentence, except that such factor shall not be less than 0.95 nor greater than 1.05. The effort factor determined under this sentence shall be a fraction the numerator of which is the product of the 3-year average per-pupilexpenditure in the State multiplied by the 3-year average per capita income in the United States and the denominator of which is the product of the 3-year average per capita income in such State multiplied by the 3-year average per-pupil expenditure in the United States.
 
 #### (B) Commonwealth of Puerto Rico
 
@@ -198,7 +198,7 @@ Funds received by States under this section shall be allocated within States to 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For each fiscal year for which the Secretary uses local educational agency data, the weighted child count used to determine a local educational agency's grant under this section is the larger of the two amounts determined under clauses (ii) and (iii).
+&emsp;&emsp;&emsp;For each fiscal year for which the Secretary uses local educational agency data,the weighted child count used to determine a local educational agency's grant under this section is the larger of the two amounts determined under clauses (ii) and (iii).
 
 #### (ii) By percentage of children
 
@@ -282,7 +282,7 @@ Funds received by States under this section shall be allocated within States to 
 
 &emsp;&emsp;&emsp;&emsp;(III) the number of such children who constitute more than 22.11 percent, but not more than 30.16 percent, of such population, multiplied by 4.0;
 
-&emsp;&emsp;&emsp;&emsp;(IV) the number of such children who constitute more than 30.16 percent, but not more than 38.24 percent, of such population, multiplied by 6.0; and
+&emsp;&emsp;&emsp;&emsp;(IV) the number of such children who constitute more than 30.16 percent, butnot more than 38.24 percent, of such population, multiplied by 6.0; and
 
 &emsp;&emsp;&emsp;&emsp;(V) the number of such children who constitute more than 38.24 percent of such population, multiplied by 8.0.
 
@@ -350,6 +350,8 @@ Funds received by States under this section shall be allocated within States to 
 
 (Pub. L. 89–10, title I, §1125A, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1525; amended Pub. L. 114–95, title I, §1017, Dec. 10, 2015, 129 Stat. 1878.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 6337, Pub. L. 89–10, title I, §1126, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3577, related to special allocation procedures, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 6338 of this title.
@@ -360,7 +362,7 @@ A prior section 1125A of Pub. L. 89–10 was classified to section 6336 of this 
 
 <b>2015</b>—Subsec. (a). Pub. L. 114–95, §1017(1), substituted "funds made available under section 6332(a) of this title" for "funds appropriated under subsection (f) of this section".
 
-Subsec. (b)(1)(A). Pub. L. 114–95, §1017(2)(A), substituted "funds made available for any fiscal year to carry out this section" for "funds appropriated pursuant to subsection (f) of this section" in introductory provisions.
+Subsec. (b)(1)(A). Pub. L. 114–95, §1017(2)(A), substituted "funds made available for any fiscal year tocarry out this section" for "funds appropriated pursuant to subsection (f) of this section" in introductory provisions.
 
 Subsec. (b)(1)(B)(i). Pub. L. 114–95, §1017(2)(B), substituted "the total amount reserved under section 6332(a) of this title to carry out this section" for "total appropriations".
 
@@ -377,6 +379,8 @@ Subsec. (f)(1). Pub. L. 114–95, §1017(8)(A), substituted "to carry out this s
 Subsec. (f)(3). Pub. L. 114–95, §1017(8)(B), substituted "shall be—" for "shall be" in introductory provisions.
 
 Subsec. (g). Pub. L. 114–95, §1017(7), redesignated subsec. (g) as (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

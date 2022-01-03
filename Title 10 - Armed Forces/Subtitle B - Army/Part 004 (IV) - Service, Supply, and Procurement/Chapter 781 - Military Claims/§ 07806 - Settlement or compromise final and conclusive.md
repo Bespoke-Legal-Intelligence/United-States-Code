@@ -22,11 +22,15 @@ Oct. 20, 1951, ch. 524, §§1 (35 words before 1st proviso), 2 (last 32 words of
 
 The words "for all purposes" and "to the contrary", in 10:1861 and 1862; "by the claimant and not until then", in 10:1861; and "but not until then", in 10:1862; are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232, §809(a), substituted "section 7802 or 7803" for "section 4802 or 4803".
 
 Pub. L. 115–232, §808(d), renumbered section 4806 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

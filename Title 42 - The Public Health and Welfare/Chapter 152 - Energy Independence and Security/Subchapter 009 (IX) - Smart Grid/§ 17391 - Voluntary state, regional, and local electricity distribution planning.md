@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-On the request of a State, regional organization, or electric utility, the Secretary of Energyshall provide assistance to States, regional organizations, and electric utilities to facilitate the development of State, regional, and local electricity distribution plans by—
+On the request of a State, regional organization, or electric utility, the Secretary of Energy shall provide assistance to States, regional organizations, and electric utilities to facilitate the development of State, regional, and local electricity distribution plans by—
 
 &emsp;(1) conducting a resource assessment and analysis of future demand and distribution requirements; and
 
@@ -43,6 +43,8 @@ A State or any entity that has requested technical assistance under this section
 Nothing in this section authorizes the Secretary to require any State, regional organization, regional reliability entity, asset owner, or asset operator to adopt any model, tool, plan, analysis, or assessment.
 
 (Pub. L. 116–260, div. Z, title VIII, §8010, Dec. 27, 2020, 134 Stat. 2588.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

@@ -74,7 +74,7 @@ If a law enforcement official determines that a notification, notice, or posting
 
 #### (B) Exception in case timely guidance not issued
 
-&emsp;&emsp;In the case that the Secretary does not issue guidance under paragraph (2) by the date specified in such paragraph, for purposes of this section, the term "unsecured protected health information" shall mean protected health information that is not secured by a technology standard that renders protected health information unusable,unreadable, or indecipherable to unauthorized individuals and is developed or endorsed by a standards developing organization that is accredited by the American National Standards Institute.
+&emsp;&emsp;In the case that the Secretary does not issue guidance under paragraph (2) by the date specified in such paragraph, for purposes of this section, the term "unsecured protected health information" shall mean protected health information that is not secured by a technology standard that renders protected health information unusable, unreadable, or indecipherable to unauthorized individuals and is developed or endorsed by a standards developing organization that is accredited by the American National Standards Institute.
 
 #### (2) Guidance
 
@@ -100,11 +100,15 @@ To carry out this section, the Secretary of Health and Human Services shall prom
 
 (Pub. L. 111–5, div. A, title XIII, §13402, Feb. 17, 2009, 123 Stat. 260.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 300jj–12(b)(2)(B)(vi) of this title, referred to in subsec. (h)(2), was repealed by Pub. L. 114–255, div. A, title IV, §4003(e)(1), Dec. 13, 2016, 130 Stat. 1168. Similar provisions as pertaining to the HIT Advisory Committee are contained in section 300jj–12(b)(2)(C)(vii) of this title as enacted by Pub. L. 114–255.
 
 Section 13101 of this Act, referred to in subsec. (h)(2), means section 13101 of div. A of Pub. L. 111–5.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

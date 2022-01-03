@@ -506,6 +506,8 @@ In this section:
 
 (Pub. L. 94–241, §6, as added Pub. L. 110–229, title VII, §702(a), May 8, 2008, 122 Stat. 854; amended Pub. L. 113–235, §10, Dec. 16, 2014, 128 Stat. 2134; Pub. L. 115–53, §2, Aug. 22, 2017, 131 Stat. 1091; Pub. L. 115–91, div. A, title X, §1049(a), Dec. 12, 2017, 131 Stat. 1558; Pub. L. 115–218, §3(a), July 24, 2018, 132 Stat. 1547; Pub. L. 115–232, div. A, title X, §1045(a), Aug. 13, 2018, 132 Stat. 1959; Pub. L. 116–24, §2, June 25, 2019, 133 Stat. 977; Pub. L. 116–94, div. P, title IX, §902, Dec. 20, 2019, 133 Stat. 3197; Pub. L. 116–283, div. H, title XCV, §9502, Jan. 1, 2021, 134 Stat. 4822.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Immigration and Nationality Act, referred to in subsecs. (d)(3)(A) and (e)(3), (4), (6)(B)(ii), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
@@ -566,6 +568,8 @@ Subsec. (d)(2). Pub. L. 113–235, §10(2)(A), substituted " 'ending on Decembe
 
 Subsec. (d)(5), (6). Pub. L. 113–235, §10(2)(B), (C), redesignated par. (6) as (5), and struck out former par. (5), which related to ascertaining current and anticipated labor needs of the Commonwealth, determination whether an extension of up to 5 years of provisions of subsection is necessary, publication of notice of such extension, and factors in determining whether alien workers are necessary to ensure adequate number of workers.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
@@ -610,7 +614,7 @@ In General.—Except as specifically provided in this section or otherwise in th
 
 "(b)
 
-Amendments to the Immigration and Nationality Act.—The amendments to the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] made by this subtitle \[amending sections 1101, 1158, 1182, 1184, and 1225 of Title 8\], and other provisions of this subtitle applying the immigration laws (as defined in section 101(a)(17) of Immigration and Nationality Act (8 U.S.C. 1101(a)(17))) to the Commonwealth, shall take effect on the transition program effective date described in section 6 ofPublic Law 94–241 \[48 U.S.C. 1806\] (as added by section 702(a)), unless specifically provided otherwise in this subtitle.
+Amendments to the Immigration and Nationality Act.—The amendments to the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] made by this subtitle \[amending sections 1101, 1158, 1182, 1184, and 1225 ofTitle 8\], and other provisions of this subtitle applying the immigration laws (as defined in section 101(a)(17) of Immigration and Nationality Act (8 U.S.C. 1101(a)(17))) to the Commonwealth, shall take effect on the transition program effective date described in section 6 of Public Law 94–241 \[48 U.S.C. 1806\] (as added by section 702(a)), unless specifically provided otherwise in this subtitle.
 
 "(c)
 
@@ -678,7 +682,7 @@ Immigration and Growth.—In recognition of the need to ensure uniform adherence
 
 &emsp;&emsp;"(B) recognizing local self-government, as provided for in the Covenant To Establish a Commonwealth of the Northern Mariana Islands in Political Union With the United States of America through consultation with the Governor of the Commonwealth;
 
-&emsp;&emsp;"(C) assisting the Commonwealth in achieving a progressively higher standard of living for citizens of the Commonwealth through the provision of technical and other assistance;
+&emsp;&emsp;"(C) assisting the Commonwealth in achieving a progressively higher standard of living for citizensof the Commonwealth through the provision of technical and other assistance;
 
 &emsp;&emsp;"(D) providing opportunities for individuals authorized to work in the United States, including citizens of the freely associated states; and
 

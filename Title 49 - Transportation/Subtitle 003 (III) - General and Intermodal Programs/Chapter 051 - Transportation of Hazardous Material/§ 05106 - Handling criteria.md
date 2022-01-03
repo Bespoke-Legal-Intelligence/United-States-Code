@@ -34,6 +34,8 @@ Jan. 3, 1975, Pub. L. 93–633, §106(a), 88 Stat. 2157.
 
 Before clause (1), the text of 49 App.:1805(a) (last sentence) is omitted as being included in "prescribe". In clause (4), the words "to be used" are omitted as surplus. In clause (6), the word "assurance" is omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Pub. L. 109–59 substituted "Secretary" for "Secretary of Transportation" in introductory provisions.

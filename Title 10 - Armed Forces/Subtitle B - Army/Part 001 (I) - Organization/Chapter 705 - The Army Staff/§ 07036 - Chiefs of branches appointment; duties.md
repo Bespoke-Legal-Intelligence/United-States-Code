@@ -124,6 +124,8 @@ Oct. 27, 1965, Pub. L. 89–298, §219, 79 Stat. 1089.
 
 The first sentence is restated to clarify that the Secretary concerned is the Secretary of the Army. The word "services" is substituted for "work or services" because it is inclusive. The word "instrumentality" is added for clarity.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 3306 and 3307 of this title, referred to in subsec. (g), were repealed by Pub. L. 96–513, title II, §204, title VII, §701, Dec. 12, 1980, 94 Stat. 2880, 2955, effective Sept. 15, 1981.
@@ -172,6 +174,8 @@ Subsec. (d)(3). Pub. L. 104–201 substituted "In this subsection" for "For purp
 
 <b>1965</b>—Subsec. (b). Pub. L. 89–288 provided Surgeon General, while so serving, with grade of lieutenant general.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
@@ -202,7 +206,7 @@ Pub. L. 114–189, July 6, 2016, 130 Stat. 613, provided that:
 
 #### "SEC. 2. TRAINING AND EMPLOYMENT FOR VETERANS AND MEMBERS OF ARMED FORCES IN CURATION AND HISTORIC PRESERVATION.
 
-"Using available funds, the Secretary of the Army, acting through the Chief of Engineers, shall carry outa Veterans' Curation Program to hire veterans and members of the Armed Forces to assist the Secretary in carrying out curation and historic preservation activities."
+"Using available funds, the Secretary of the Army, acting through the Chief of Engineers, shall carry out a Veterans' Curation Program to hire veterans and members of the Armed Forces to assist the Secretary in carrying out curation and historic preservation activities."
 
 #### Corps of Engineers; Annual Budget Submission
 
@@ -218,7 +222,7 @@ In General.—On the third Tuesday of January of each year beginning January 200
 
 &emsp;"(1) the expenditures by the Corps for the preceding fiscal year and estimated expenditures by the Corps for the current fiscal year; and
 
-&emsp;"(2) for projects and activities that are not scheduled for completion in the current fiscal year, the estimated expenditures by the Corps necessary in the following fiscal year for each project or activity to maintain the same level of effort being achieved in the current fiscal year.
+&emsp;"(2) for projects and activities that are not scheduled for completion in the current fiscal year, the estimated expenditures by the Corps necessary in thefollowing fiscal year for each project or activity to maintain the same level of effort being achieved in the current fiscal year.
 
 "(b)
 
@@ -324,7 +328,7 @@ Sec. 3. <i>Performance of transferred functions</i>. The Secretary of the Army m
 
 Sec. 4. <i>Transitional provisions</i>. In order to assist in the orderly transfer of functions and to promote continuity of operation, the Secretary of the Army may, if he considers it necessary, delay beyond the effective date of this order the abolition of any office or transfer of any function.
 
-Sec. 5. <i>Effective date</i>. The provisions of this order shall take effect on the date determined under section202(c) of the National Security Act of 1947, as amended (72 Stat. 514; 5 U.S.C. 171a(c)), or the 16th day of February 1962, whichever is later.
+Sec. 5. <i>Effective date</i>. The provisions of this order shall take effect on the date determined under section 202(c) of the National Security Act of 1947, as amended (72 Stat. 514; 5 U.S.C. 171a(c)), or the 16th day of February 1962, whichever is later.
 
 J. C. Lambert,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

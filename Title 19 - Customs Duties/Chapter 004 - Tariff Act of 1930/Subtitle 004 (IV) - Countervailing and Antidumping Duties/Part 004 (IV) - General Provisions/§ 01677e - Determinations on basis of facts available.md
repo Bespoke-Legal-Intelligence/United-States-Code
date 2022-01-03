@@ -44,7 +44,7 @@ If—
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), when the administering authority or the Commission relies on secondary information ratherthan on information obtained in the course of an investigation or review, the administering authority or the Commission, as the case may be, shall, to the extent practicable, corroborate that information from independent sources that are reasonably at their disposal.
+&emsp;Except as provided in paragraph (2), when the administering authority or the Commission relies on secondary information rather than on information obtained in the course of an investigation or review, the administering authority or the Commission, as the case may be, shall, to the extent practicable, corroborate that information from independent sources that are reasonably at their disposal.
 
 #### (2) Exception
 
@@ -78,11 +78,13 @@ If—
 
 (June 17, 1930, ch. 497, title VII, §776, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 186; amended Pub. L. 98–573, title VI, §618, Oct. 30, 1984, 98 Stat. 3037; Pub. L. 100–418, title I, §§1326(d)(1), 1331, Aug. 23, 1988, 102 Stat. 1204, 1207; Pub. L. 103–465, title II, §231(c), Dec. 8, 1994, 108 Stat. 4896; Pub. L. 114–27, title V, §502, June 29, 2015, 129 Stat. 383.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (b). Pub. L. 114–27, §502(1), inserted par. (1) designation and heading before "If the administering", substituted "under this subtitle—" for "under this subtitle, may use", inserted "(A) may use" before "an inference that is adverse", substituted "facts otherwise available; and" for "facts otherwise available. Such adverse inference may include", added subpar. (B), inserted par. (2) designation, heading, and "An adverse inference under paragraph (1)(A) may include" before "reliance on information", and redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (2) and realigned margins.
 
-Subsec. (c). Pub. L. 114–27, §502(2), designated existing provisions as par. (1) and inserted heading, substituted "Except as provided in paragraph (2), when the" for "When the", and added par. (2).
+Subsec. (c). Pub. L. 114–27, §502(2), designated existing provisions as par. (1) and inserted heading, substituted"Except as provided in paragraph (2), when the" for "When the", and added par. (2).
 
 Subsec. (d). Pub. L. 114–27, §502(3), added subsec. (d).
 
@@ -97,6 +99,8 @@ Subsec. (b)(3)(A). Pub. L. 100–418, §1326(d)(1), which directed the amendment
 Subsec. (c). Pub. L. 100–418, §1331(1), redesignated former subsec. (b) as (c).
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–573 amended subsec. (a) generally, which prior to amendment read as follows: "Except with respect to information the verification of which is waived under section 1673b(b)(2) of this title, the administering authority shall verify all information relied upon in making a final determination in an investigation. In publishing such a determination, the administering authority shall report the methods and procedures used to verify such information. If the administering authority is unable to verify the accuracy of the information submitted, it shall use the best information available to it as the basis for its determination, which may include the information submitted in support of the petition."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

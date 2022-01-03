@@ -86,7 +86,7 @@ The Secretary shall establish a program, to be known as the "community forest an
 
 #### (A) Ineligibility
 
-&emsp;&emsp;The Secretary shall not provide a grant under the Program for any project on landheld in trust by the United States (including Indian reservations and allotment land).
+&emsp;&emsp;The Secretary shall not provide a grant under the Program for any project on land held in trust by the United States (including Indian reservations and allotment land).
 
 #### (B) Acquired land
 
@@ -116,7 +116,7 @@ An eligible entity shall provide public access to, and manage, forest land acqui
 
 #### (f) State administration and technical assistance
 
-The Secretary may allocate not more than 10 percent of all funds made available to carry out the Program for each fiscal year to State foresters or equivalent officials (including equivalent officials of Indian tribes) for Program administration and technical assistance.
+The Secretary may allocate not more than 10 percent of all funds made available to carry outthe Program for each fiscal year to State foresters or equivalent officials (including equivalent officials of Indian tribes) for Program administration and technical assistance.
 
 #### (g) Authorization of appropriations
 
@@ -124,9 +124,13 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 (Pub. L. 95–313, §7A, as added Pub. L. 110–234, title VIII, §8003(b), May 22, 2008, 122 Stat. 1281, and Pub. L. 110–246, §4(a), title VIII, §8003(b), June 18, 2008, 122 Stat. 1664, 2043.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

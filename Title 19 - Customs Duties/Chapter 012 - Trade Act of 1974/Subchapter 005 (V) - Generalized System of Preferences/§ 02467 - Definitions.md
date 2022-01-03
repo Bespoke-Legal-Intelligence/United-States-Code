@@ -48,15 +48,21 @@ For purposes of this subchapter:
 
 (Pub. L. 93–618, title V, §507, as added Pub. L. 104–188, title I, §1952(a), Aug. 20, 1996, 110 Stat. 1926; amended Pub. L. 106–200, title IV, §412(b), May 18, 2000, 114 Stat. 298; Pub. L. 107–210, div. D, title XLI, §4102(b), Aug. 6, 2002, 116 Stat. 1041.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Par. (4)(D). Pub. L. 107–210 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: "a minimum age for the employment of children; and".
 
 <b>2000</b>—Par. (6). Pub. L. 106–200 added par. (6).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section applicable to articles entered on or after Oct. 1, 1996, with provisions relating to retroactive application, see section 1953 of Pub. L. 104–188, set out as a note under section 2461 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Termination of Trust Territory of the Pacific Islands
 

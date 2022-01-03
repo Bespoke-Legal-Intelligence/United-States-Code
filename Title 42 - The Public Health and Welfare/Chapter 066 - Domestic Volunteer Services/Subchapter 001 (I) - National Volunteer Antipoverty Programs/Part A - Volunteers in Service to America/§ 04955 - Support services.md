@@ -4,7 +4,7 @@
 
 (1)(A) The Director may provide a stipend to volunteers, while they are in training and during their assignments, enrolled for periods of service of not less than one year under this part, except that the Director may, on an individual basis, make an exception to provide a stipend to a volunteer enrolled under this part for an extended period of service not totaling one year.
 
-(B) Such stipend shall be set at a rate that is not less than a minimum of $125 per month and not more than a maximum of $150 per month, subject to the availability of funds to provide such a maximum rate. The Director may provide a stipend set at a rate that is not more than a maximum of $250 per month in the case of persons who have served as volunteers under this part for at least 1 year and who, in accordance with standards established in such regulations as the Director shall prescribe, have been designated volunteer leaders on the basis of experience and special skills and a demonstrated leadership among volunteers.
+(B) Such stipend shall be set at a rate that is not less than a minimum of $125 per month andnot more than a maximum of $150 per month, subject to the availability of funds to provide such a maximum rate. The Director may provide a stipend set at a rate that is not more than a maximum of $250 per month in the case of persons who have served as volunteers under this part for at least 1 year and who, in accordance with standards established in such regulations as the Director shall prescribe, have been designated volunteer leaders on the basis of experience and special skills and a demonstrated leadership among volunteers.
 
 (C) The Director shall not provide a stipend under this subsection to an individual who elects to receive a national service educational award under subtitle D of title I of the National and Community Service Act of 1990 \[42 U.S.C. 12601 et seq.\].
 
@@ -20,7 +20,7 @@
 
 &emsp;(B) the average subsistence allowance, excluding allowances for Hawaii, Guam, American Samoa, and Alaska, is no less than 105 percent of such poverty line.
 
-(3) The Director shall adjust the subsistence allowances for volunteers serving in areas that have a higher cost of living than the nationalaverage to reflect such higher cost. The Director shall review such adjustments on an annual basis to ensure that the adjustments are current.
+(3) The Director shall adjust the subsistence allowances for volunteers serving in areas that have a higher cost of living than the national average to reflect such higher cost. The Director shall review such adjustments on an annual basis to ensure that the adjustments are current.
 
 #### (c) Child care
 
@@ -33,6 +33,8 @@
 (2) The Corporation shall establish guidelines regarding the circumstances under which child care shall be made available under this subsection and the value of any child care allowance to be provided.
 
 (Pub. L. 93–113, title I, §105, Oct. 1, 1973, 87 Stat. 398; Pub. L. 94–130, §5(a), Nov. 14, 1975, 89 Stat. 684; Pub. L. 96–143, §3, Dec. 13, 1979, 93 Stat. 1074; Pub. L. 98–288, §6, May 21, 1984, 98 Stat. 191; Pub. L. 99–551, §10(i)(1), Oct. 27, 1986, 100 Stat. 3078; Pub. L. 101–204, title I, §102, Dec. 7, 1989, 103 Stat. 1811; Pub. L. 103–82, title III, §325, Sept. 21, 1993, 107 Stat. 901; Pub. L. 111–13, title II, §2103, Apr. 21, 2009, 123 Stat. 1583.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -61,6 +63,8 @@ Subsec. (b). Pub. L. 101–204, §102(2), designated existing provisions as par.
 <b>1979</b>—Subsec. (a)(2). Pub. L. 96–143 substituted "under such circumstances as the Director shall determine, in accordance with regulations which the director shall prescribe, the accrued stipend, or any part of the accrued stipend, may be paid to the volunteer, or, on behalf of the volunteer, to members of the volunteer's family or others during the period of the volunteer's service" for "in extraordinary circumstances the Director may from time to time advance all or a portion of the accrued stipend to or on behalf of a volunteer".
 
 <b>1975</b>—Subsec. (a)(1). Pub. L. 94–130 substituted "shall not exceed $75" for "shall not exceed $50".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

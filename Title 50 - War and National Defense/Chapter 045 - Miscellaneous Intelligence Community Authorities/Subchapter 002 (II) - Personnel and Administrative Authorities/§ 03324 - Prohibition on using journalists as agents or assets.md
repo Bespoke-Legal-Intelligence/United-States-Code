@@ -2,7 +2,7 @@
 
 #### (a) Policy
 
-It is the policy of the United States that an element of the Intelligence Community may not use as an agent or asset for the purposes of collecting intelligence any individual who—
+It is the policy of the United States that an element of the Intelligence Community may notuse as an agent or asset for the purposes of collecting intelligence any individual who—
 
 &emsp;(1) is authorized by contract or by the issuance of press credentials to represent himself or herself, either in the United States or abroad, as a correspondent of a United States news media organization; or
 
@@ -18,9 +18,13 @@ Subsection (a) shall not be construed to prohibit the voluntary cooperation of a
 
 (Pub. L. 104–293, title III, §309, Oct. 11, 1996, 110 Stat. 3467.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 403–7 of this title prior to editorial reclassification and renumbering as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

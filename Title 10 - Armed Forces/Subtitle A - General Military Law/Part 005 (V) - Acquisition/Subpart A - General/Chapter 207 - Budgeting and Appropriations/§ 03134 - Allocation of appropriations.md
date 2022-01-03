@@ -4,9 +4,31 @@
 
 (b) A disbursing official of the allotting agency may make any disbursement chargeable to an allotment under subsection (a) upon a voucher certified by an officer or civilian employee of the procuring agency.
 
-(c) For purposes of sections 3064 and 3066 of this title, this section shall be deemed to be a section of chapter 137 of this title.
+(Aug. 10, 1956, ch. 1041, 70A Stat. 132, §2309; Pub. L. 97–258, §2(b)(1)(B), Sept. 13, 1982, 96 Stat. 1052; renumbered §3134 and amended Pub. L. 116–283, div. A, title XVIII, §1809(e), Jan. 1, 2021, 134 Stat. 4161; Pub. L. 117–81, div. A, title XVII, §1701(b)(3), Dec. 27, 2021, 135 Stat. 2132.)
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 132, §2309; Pub. L. 97–258, §2(b)(1)(B), Sept. 13, 1982, 96 Stat. 1052; renumbered §3134 and amended Pub. L. 116–283, div. A, title XVIII, §1809(e), Jan. 1, 2021, 134 Stat. 4161.)
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+2309(a)
+
+2309(b)
+
+41:159 (2d sentence).
+
+41:159 (less 1st and 2d sentences).
+
+Feb. 19, 1948, ch. 65, §10 (less 1st sentence), 62 Stat. 25.
+
+In subsection (a), the words "an agency named in section 2303 of this title" are substituted for the words "any such agency".
+
+In subsection (b), the words "an allotment under subsection (a)" are substituted for the words "such allotments".
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -14,9 +36,15 @@
 
 Subsec. (a). Pub. L. 116–283, §1809(e)(2)(A), substituted "named in section 3063" for "named in section 2303".
 
-Subsec. (c). Pub. L. 116–283, §1809(e)(2)(B), added subsec. (c).
+Subsec. (c). Pub. L. 116–283, §1809(e)(2)(B), which directed adding subsec. (c), was repealed by Pub. L. 117–81, §1701(b)(3).
+
+<b>1982</b>—Subsec. (b). Pub. L. 97–258 substituted "disbursing official" for "disbursing officer".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and note below.
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 

@@ -36,6 +36,8 @@ On and after a date determined by the Secretary which is—
 
 (July 1, 1944, ch. 373, title XXI, §2126, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3775; amended Pub. L. 100–203, title IV, §4302(b)(1), Dec. 22, 1987, 101 Stat. 1330–221; Pub. L. 101–239, title VI, §6601(p), Dec. 19, 1989, 103 Stat. 2292; Pub. L. 102–531, title III, §312(d)(15), Oct. 27, 1992, 106 Stat. 3505; Pub. L. 103–183, title VII, §708, Dec. 14, 1993, 107 Stat. 2242.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 In subsec. (a), "December 22, 1987" substituted for "the effective date of this subpart" on authority of section 323 of Pub. L. 99–660, as amended, set out as an Effective Date note under section 300aa–1 of this title.
@@ -84,7 +86,9 @@ Subsec. (d). Pub. L. 103–183, §708(c), (d), in concluding provisions, inserte
 
 <b>1987</b>—Subsec. (a). Pub. L. 100–203 substituted "effective date of this subpart" for "effective date of this part".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1989 Amendment
 
-For applicability of amendments by Pub. L. 101–239 to petitions filed after Dec. 19, 1989, petitions currentlypending in which the evidentiary record is closed, and petitions currently pending in which the evidentiary record is not closed, with provision for an immediate suspension for 30 days of all pending cases, see section 6601(s)(1) of Pub. L. 101–239, set out as a note under section 300aa–10 of this title.
+For applicability of amendments by Pub. L. 101–239 to petitions filed after Dec. 19, 1989, petitions currently pending in which the evidentiary record is closed, and petitions currently pending in which the evidentiary record is not closed, with provision for an immediate suspension for 30 days of all pending cases, see section 6601(s)(1) of Pub. L. 101–239, set out as a note under section 300aa–10 of this title.
 

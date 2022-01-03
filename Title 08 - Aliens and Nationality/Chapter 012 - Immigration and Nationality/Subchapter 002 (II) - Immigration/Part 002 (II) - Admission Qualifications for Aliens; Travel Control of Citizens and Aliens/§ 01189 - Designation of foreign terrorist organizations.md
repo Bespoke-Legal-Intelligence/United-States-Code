@@ -120,7 +120,7 @@
 
 #### (7) Effect of revocation
 
-&emsp;The revocation of a designation under paragraph (5) or (6) shall not affect any action orproceeding based on conduct committed prior to the effective date of such revocation.
+&emsp;The revocation of a designation under paragraph (5) or (6) shall not affect any action or proceeding based on conduct committed prior to the effective date of such revocation.
 
 #### (8) Use of designation in trial or hearing
 
@@ -130,7 +130,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary may amend a designation under this subsection if the Secretary finds that the organization has changed its name, adopted a new alias, dissolved and then reconstituted itself under a different name or names, or merged with another organization.
+&emsp;The Secretary may amend a designation under this subsection if the Secretary findsthat the organization has changed its name, adopted a new alias, dissolved and then reconstituted itself under a different name or names, or merged with another organization.
 
 #### (2) Procedure
 

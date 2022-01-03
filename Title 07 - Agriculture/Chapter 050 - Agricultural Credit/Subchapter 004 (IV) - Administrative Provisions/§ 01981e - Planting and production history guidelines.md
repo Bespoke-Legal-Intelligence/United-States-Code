@@ -20,6 +20,8 @@ The Secretary shall ensure that appropriate procedures, including to the extent 
 
 (Pub. L. 87–128, title III, §331E, as added Pub. L. 100–233, title VI, §606, Jan. 6, 1988, 101 Stat. 1667; amended Pub. L. 102–237, title V, §501(d)(1), Dec. 13, 1991, 105 Stat. 1866; Pub. L. 102–552, title V, §516(g)(1), Oct. 28, 1992, 106 Stat. 4138.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsecs. (a) and (b)(2), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
@@ -33,6 +35,8 @@ This chapter, referred to in subsec. (b)(1), (3), was in the original "this titl
 Subsec. (b)(2). Pub. L. 102–552, §516(g)(1)(B), inserted "Robert T. Stafford" before "Disaster Relief".
 
 <b>1991</b>—Pub. L. 102–237 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

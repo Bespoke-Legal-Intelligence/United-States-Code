@@ -44,7 +44,7 @@ Towaway trailer transporter combination.—The term "towaway trailer transporter
 
 General Limitations.—(1) Except as provided in this section, a State may not prescribe or enforce a regulation of commerce that—
 
-&emsp;(A) imposes a vehicle length limitation of less than 45 feet on a bus, of less than 48 feet on a semitrailer operating in a truck tractor-semitrailer combination, or of less than 28 feet on a semitrailer or trailer operating in a truck tractor-semitrailer-trailer combination, on any segment of the Dwight D. Eisenhower System of Interstate and Defense Highways (except a segment exempted under subsection (f) of this section) and those classes of qualifying Federal-aid Primary System highways designated by the Secretary of Transportation under subsection (e) of this section;
+&emsp;(A) imposes a vehicle length limitation of less than 45 feet on a bus, of less than 48 feeton a semitrailer operating in a truck tractor-semitrailer combination, or of less than 28 feet on a semitrailer or trailer operating in a truck tractor-semitrailer-trailer combination, on any segment of the Dwight D. Eisenhower System of Interstate and Defense Highways (except a segment exempted under subsection (f) of this section) and those classes of qualifying Federal-aid Primary System highways designated by the Secretary of Transportation under subsection (e) of this section;
 
 &emsp;(B) imposes an overall length limitation on a commercial motor vehicle operating in a truck tractor-semitrailer or truck tractor-semitrailer-trailer combination;
 
@@ -78,7 +78,7 @@ Qualifying Highways.—The Secretary by regulation shall designate as qualifying
 
 Exemptions.—(1) If the chief executive officer of a State, after consulting under paragraph (2) of this subsection, decides a segment of the Dwight D. Eisenhower System of Interstate and Defense Highways is not capable of safely accommodating a commercial motor vehicle having a length described in subsection (b)(1)(A) of this section or the motor vehicle combination described in subsection (c) of this section, the chief executive officer may notify the Secretary of that decision and request the Secretary to exempt that segment from either or both provisions.
 
-(2) Before making a decision under paragraph (1) of this subsection, the chief executive officer shall consult with units of local government in the State in which the segment of the Dwight D.Eisenhower System of Interstate and Defense Highways is located and with the chief executive officer of any adjacent State that may be directly affected by the exemption. As part of the consultations, consideration shall be given to any potential alternative route that serves the area in which the segment is located and can safely accommodate a commercial motor vehicle having a length described in subsection (b)(1)(A) of this section or the motor vehicle combination described in subsection (c) of this section.
+(2) Before making a decision under paragraph (1) of this subsection, the chief executive officer shall consult with units of local government in the State in which the segment of the Dwight D. Eisenhower System of Interstate and Defense Highways is located and with the chief executive officer of any adjacent State that may be directly affected by the exemption. As part of the consultations, consideration shall be given to any potential alternative route that serves the area in which the segment is located and can safely accommodate a commercial motor vehicle having a length described in subsection (b)(1)(A) of this section or the motor vehicle combination described in subsection (c) of this section.
 
 (3) A chief executive officer's notification under this subsection must include specific evidence of safety problems supporting the officer's decision and the results of consultations about alternative routes.
 
@@ -86,7 +86,7 @@ Exemptions.—(1) If the chief executive officer of a State, after consulting un
 
 (B) The Secretary shall make a decision about a specific segment not later than 120 days after the date of receipt of notification from a chief executive officer under paragraph (1) of this subsection or the date on which the Secretary initiates action under subparagraph (A) of this paragraph, whichever is applicable. If the Secretary finds the decision will not be made in time, the Secretary immediately shall notify Congress, giving the reasons for the delay, information about the resources assigned, and the projected date for the decision.
 
-(C) Before making a decision, the Secretary shall give an interested person notice and an opportunity for comment. If the Secretary exempts a segment under this subsection before the final regulations under subsection (e) of this section are prescribed, the Secretary shall include the exemption as part of the final regulations. If the Secretary exempts the segment after the final regulations are prescribed, the Secretary shall publish the exemption as an amendment to the final regulations.
+(C) Before making a decision, the Secretary shall give an interested person notice and an opportunity for comment. If the Secretary exempts a segment under this subsection before the final regulations under subsection (e) of this section are prescribed, the Secretary shall include the exemption as part of the final regulations. If the Secretary exempts the segment after the final regulations are prescribed, theSecretary shall publish the exemption as an amendment to the final regulations.
 
 (g)
 
@@ -178,6 +178,8 @@ In subsection (f)(4)(C), the reference to regulations prescribed under subsectio
 
 Subsection (g) is substituted for 49 App.:2311(d) to eliminate unnecessary words. The Secretary's general authority to prescribe regulations is provided in 49:322(a). The word "vessel" is substituted for "boat" because of 1:3. The text of 49 App.:2311(g) is omitted as executed.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (a)(1). Pub. L. 114–94, §5520(a), struck out "specifically" before "for the transport" and inserted at end "An automobile transporter shall not be prohibited from the transport of cargo or general freight on a backhaul, so long as it complies with weight limitations for a truck tractor and semitrailer combination."
@@ -217,6 +219,8 @@ Truck tractor.—The term" after "(2)".
 Subsec. (a)(3). Pub. L. 105–178, §4005(4), redesignated par. (2) as (3).
 
 <b>1995</b>—Subsec. (b)(1)(E). Pub. L. 104–88 added subpar. (E).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

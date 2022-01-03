@@ -22,7 +22,7 @@
 
 #### (b) State application and plan
 
-Beginning with fiscal year 2000, to be eligible to receive a grant or allotment under section 9905 or 9906 of this title, a State shall prepare and submit to the Secretary an application and State plan covering a period of not less than 1 fiscal year and not more than 2 fiscal years. The plan shall be submitted not later than 30 days prior to the beginning of the first fiscal year covered by the plan, and shall contain such information as the Secretary shall require, including—
+Beginning with fiscal year 2000, to be eligible to receive a grant or allotment under section 9905 or 9906 of this title, a State shall prepare and submit to the Secretary an application and State plan covering a period of not less than 1fiscal year and not more than 2 fiscal years. The plan shall be submitted not later than 30 days prior to the beginning of the first fiscal year covered by the plan, and shall contain such information as the Secretary shall require, including—
 
 &emsp;(1) an assurance that funds made available through the grant or allotment will be used—
 
@@ -124,6 +124,8 @@ For fiscal year 2000, to be eligible to receive a grant or allotment under secti
 
 (Pub. L. 97–35, title VI, §676, as added Pub. L. 105–285, title II, §201, Oct. 27, 1998, 112 Stat. 2735; amended Pub. L. 113–128, title V, §512(f), July 22, 2014, 128 Stat. 1707.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Social Security Act, referred to in subsec. (b)(1)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
@@ -141,6 +143,8 @@ A prior section 676 of Pub. L. 97–35 was classified to section 9905 of this ti
 #### Amendments
 
 <b>2014</b>—Subsec. (b)(5). Pub. L. 113–128 substituted "the eligible entities will coordinate the provision of employment and training activities, as defined in section 3 of the Workforce Innovation and Opportunity Act, in the State and in communities with entities providing activities through statewide and local workforce development systems under such Act" for "the eligible entities will coordinate the provision of employment and training activities, as defined in section 101 of such Act, in the State and in communities with entities providing activities through statewide and local workforce investment systems under the Workforce Investment Act of 1998".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

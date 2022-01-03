@@ -54,6 +54,8 @@ For purposes of this section—
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 34; Pub. L. 89–739, §1, Nov. 2, 1966, 80 Stat. 1165; Pub. L. 92–279, §1, Apr. 26, 1972, 86 Stat. 124; Pub. L. 93–597, §2(a), (b), Jan. 2, 1975, 88 Stat. 1950; Pub. L. 94–569, §3(b), Oct. 20, 1976, 90 Stat. 2699; Pub. L. 104–117, §1(d), Mar. 20, 1996, 110 Stat. 828; Pub. L. 104–188, title I, §1704(t)(4)(A), Aug. 20, 1996, 110 Stat. 1887; Pub. L. 113–295, div. A, title II, §221(a)(18), Dec. 19, 2014, 128 Stat. 4039; Pub. L. 114–328, div. A, title VI, §618(k), Dec. 23, 2016, 130 Stat. 2161.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Subsec. (c)(5)(B). Pub. L. 114–328 inserted ", or paragraph (1) or (3) of section 351(a)," after "section 310".
@@ -89,6 +91,8 @@ Subsec. (c)(5). Pub. L. 93–597, §2(b), struck out par. (5) which defined "ind
 <b>1972</b>—Subsec. (d). Pub. L. 92–279 added subsec. (d).
 
 <b>1966</b>—Subsec. (b). Pub. L. 89–739 substituted "$500" for "$200".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 
@@ -168,7 +172,7 @@ Withholding.—Subsection (a)(5) shall apply to remuneration paid after the date
 
 #### Sense of Congress Regarding Tax Treatment of Members Receiving Special Pay for Duty Subject to Hostile Fire or Imminent Danger
 
-Pub. L. 106–398, §1 \[\[div. A\], title X, §1089\], Oct. 30, 2000, 114 Stat. 1654, 1654A–294, provided that: "It is the sense of Congress that members of the Armed Forces who receive special pay under section 310 of title 37,United States Code, for duty subject to hostile fire or imminent danger should receive the same treatment under Federal income tax laws as members serving in combat zones."
+Pub. L. 106–398, §1 \[\[div. A\], title X, §1089\], Oct. 30, 2000, 114 Stat. 1654, 1654A–294, provided that: "It is the sense of Congress that members of the Armed Forces who receive special pay under section 310 of title 37, United States Code, for duty subject to hostile fire or imminent danger should receive the same treatment under Federal income tax laws as members serving in combat zones."
 
 #### Sense of Congress Regarding Treatment Under Internal Revenue Code of Members Receiving Hostile Fire or Imminent Danger Special Pay During Contingency Operations
 
@@ -285,6 +289,8 @@ Pub. L. 92–279, §3(a)(2), (3), Apr. 26, 1972, 86 Stat. 125, as amended by Pub
 &emsp;"(A) the day which is one year after the date of the enactment of this Act \[Apr. 26, 1972\], or
 
 &emsp;"(B) the day which is 2 years after the date on which it is determined that the individual's missing status (within the meaning of section 112(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) has terminated for purposes of such section 112."
+
+#### Executive Documents
 
 #### Ex. Ord. No. 10585. Termination of Combatant Activities in Korea
 

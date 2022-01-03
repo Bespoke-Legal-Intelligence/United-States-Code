@@ -296,7 +296,7 @@
 
 #### (6) Monthly beneficiary premium
 
-&emsp;Except as provided in section 1395w–113(b) of this title (relating to late enrollment penalty) and subject to section 1395w–114 of this title (relating to low-income assistance), the monthly beneficiary premium to be charged under a fallback prescription drug plan offered in all fallback service areas in a PDP region shall be uniform and shall be equal to 25.5 percent of an amount equal to the Secretary's estimate of the average monthly per capita actuarial cost, including administrative expenses, under the fallback prescription drug plan of providing coverage in the region, as calculated by the Chief Actuary of the Centers for Medicare \& Medicaid Services. In calculating such administrative expenses, the Chief Actuary shall use a factor that is based on similar expenses of prescription drug plans that are not fallback prescription drug plans.
+&emsp;Except as provided in section 1395w–113(b) of this title (relating to late enrollment penalty) and subject to section 1395w–114 of this title (relating to low-income assistance), themonthly beneficiary premium to be charged under a fallback prescription drug plan offered in all fallback service areas in a PDP region shall be uniform and shall be equal to 25.5 percent of an amount equal to the Secretary's estimate of the average monthly per capita actuarial cost, including administrative expenses, under the fallback prescription drug plan of providing coverage in the region, as calculated by the Chief Actuary of the Centers for Medicare \& Medicaid Services. In calculating such administrative expenses, the Chief Actuary shall use a factor that is based on similar expenses of prescription drug plans that are not fallback prescription drug plans.
 
 #### (7) General contract terms and conditions
 
@@ -336,6 +336,8 @@ A PDP sponsor offering a prescription drug plan shall permit State Pharmaceutica
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1860D–11, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2092; amended Pub. L. 111–148, title III, §3209(b), Mar. 23, 2010, 124 Stat. 460.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1395w–115(e)(2)(B)(iii) of this title, referred to in subsec. (b)(2)(E)(ii)(I), was in the original "section 1869D–15(e)(2)(B)(iii)", and was translated as reading "section 1860D–15(e)(2)(B)(iii)", meaning 1860D–15(e)(2)(B)(iii) of the Social Security Act, to reflect the probable intent of Congress, because the Social Security Act does not contain a section 1869D–15 and section 1395w–115(e)(2)(B)(iii) of this title provides for an application of a higher percentage for years 2006 and 2007.
@@ -347,6 +349,8 @@ In subsec. (g)(1)(B)(iii), "section 132 of title 41" substituted for "section 4(
 #### Amendments
 
 <b>2010</b>—Subsec. (d)(3). Pub. L. 111–148 added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

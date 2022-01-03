@@ -2,7 +2,7 @@
 
 #### (a) Licenses
 
-The Commission is authorized (i) to issue licenses to transfer or receive in interstate commerce, transfer, deliver, acquire, possess, own,receive possession of or title to, import, or export under the terms of an agreement for cooperation arranged pursuant to section 2153 of this title, special nuclear material, (ii) to make special nuclear material available for the period of the license, and, (iii) to distribute special nuclear material within the United States to qualified applicants requesting such material—
+The Commission is authorized (i) to issue licenses to transfer or receive in interstate commerce, transfer, deliver, acquire, possess, own, receive possession of or title to, import, or export under the terms of an agreement for cooperation arranged pursuant to section 2153 of this title, special nuclear material, (ii) to make special nuclear material available for the period of the license, and, (iii) to distribute special nuclear material within the United States to qualified applicants requesting such material—
 
 &emsp;(1) for the conduct of research and development activities of the types specified in section 2051 of this title;
 
@@ -34,7 +34,7 @@ The Commission shall establish, by rule, minimum criteria for the issuance of sp
 
 #### (d) Determination of charges
 
-In determining the reasonable charge to be made by the Commission for the use of special nuclear material distributed by lease to licensees of utilization or production facilities licensed pursuant to section 2133 or 2134 of this title, in addition to consideration of the cost thereof, the Commission shall take into consideration—
+In determining the reasonable charge to be made by the Commission for the use of special nuclear material distributed by lease to licensees of utilization or production facilities licensed pursuant to section 2133 or 2134 of this title, in addition to consideration of the costthereof, the Commission shall take into consideration—
 
 &emsp;(1) the use to be made of the special nuclear material;
 
@@ -72,6 +72,8 @@ The Commission is directed to distribute within the United States sufficient spe
 
 (Aug. 1, 1946, ch. 724, title I, §53, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 930; amended Pub. L. 85–256, §2, Sept. 2, 1957, 71 Stat. 576; Pub. L. 85–681, §§1, 2, Aug. 19, 1958, 72 Stat. 632; Pub. L. 88–489, §§5–8, Aug. 26, 1964, 78 Stat. 603, 604; Pub. L. 90–190, §§9, 10, Dec. 14, 1967, 81 Stat. 577; renumbered title I and amended Pub. L. 102–486, title IX, §902(a)(3), (8), Oct. 24, 1992, 106 Stat. 2944.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a)(4) and (e)(3) to (5), was in the original "this Act", meaning act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
@@ -92,7 +94,7 @@ Subsec. (f). Pub. L. 90–190, §9, struck out reference to the limitations on t
 
 Subsec. (c). Pub. L. 88–489, §6, designated existing provisions as par. (4), inserted "by lease" wherever appearing and "special nuclear material will be distributed by grant and for the determination of whether", and added pars. (1) to (3).
 
-Subsec. (d). Pub. L. 88–489, §7, inserted "by lease" in introductory provisions, and in ch. (5) substituted "equivalent to the sale price for similar special nuclear material established by the Commission in accordance with subsection (c)(2), and the Commission may make such a charge with respect to such material consumed in a facility licensed pursuant to section 2134 of this title" for "based on the cost to the Commission, as estimated by the Commission, or the average fair price paid for the production of such special nuclear material as determined by section 2076 of this title, whichever is lower".
+Subsec. (d). Pub. L. 88–489, §7, inserted "by lease" in introductory provisions, and in ch. (5) substituted "equivalent to the sale price for similar special nuclear material established by the Commission in accordance with subsection (c)(2), and the Commission may make such a charge with respect to such material consumed in a facility licensed pursuant to section 2134 of this title" for "based on the cost to the Commission, as estimated by the Commission, or the average fair price paid for the production of such special nuclear materialas determined by section 2076 of this title, whichever is lower".
 
 Subsec. (e)(1). Pub. L. 88–489, §8, struck out par. (1) which provided that title to all special nuclear material shall at all times be in the United States.
 

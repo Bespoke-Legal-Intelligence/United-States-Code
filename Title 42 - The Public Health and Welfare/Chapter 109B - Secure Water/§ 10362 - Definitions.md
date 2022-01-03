@@ -154,6 +154,8 @@ In this chapter:
 
 (Pub. L. 111–11, title IX, §9502, Mar. 30, 2009, 123 Stat. 1330; Pub. L. 116–260, div. FF, title XI, §1106(a), Dec. 27, 2020, 134 Stat. 3240.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2020</b>—Pub. L. 116–260, §1106(a)(1), substituted "chapter" for "section" in introductory provisions.
@@ -162,5 +164,5 @@ Par. (7). Pub. L. 116–260, §1106(a)(2), added par. (7) and struck out former 
 
 Par. (10). Pub. L. 116–260, §1106(a)(3), made technical amendment to reference in original act which appears in text as a reference to section 5304 of title 25.
 
-Pars. (13) to (19). Pub. L. 116–260, §1106(a)(4), (5), added pars. (13) and (14) and redesignated former pars. (13) to (17) as (15) to (19).
+Pars. (13) to (19). Pub. L. 116–260, §1106(a)(4), (5), added pars. (13) and (14) and redesignated former pars. (13) to (17) as (15) to (19), respectively.
 

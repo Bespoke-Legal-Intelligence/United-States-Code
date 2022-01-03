@@ -42,7 +42,7 @@ In this subchapter:
 
 #### (4) Condition class 2
 
-&emsp;The term "condition class 2", with respect to an area of Federal land, means the condition class description developed by the Forest Service Rocky Mountain Research Station inthe general technical report entitled "Development of Coarse-Scale Spatial Data for Wildland Fire and Fuel Management" (RMRS–87), dated April 2000 (including any subsequent revision to the report), under which—
+&emsp;The term "condition class 2", with respect to an area of Federal land, means the condition class description developed by the Forest Service Rocky Mountain Research Station in the general technical report entitled "Development of Coarse-Scale Spatial Data for Wildland Fire and Fuel Management" (RMRS–87), dated April 2000 (including any subsequent revision to the report), under which—
 
 &emsp;&emsp;(A) fire regimes on the land have been moderately altered from historical ranges;
 
@@ -169,6 +169,8 @@ In this subchapter:
 &emsp;&emsp;&emsp;(iii) an area that is adjacent to an evacuation route for an at-risk community that the Secretary determines, in cooperation with the at-risk community, requires hazardous fuel reduction to provide safer evacuation from the at-risk community.
 
 (Pub. L. 108–148, title I, §101, Dec. 3, 2003, 117 Stat. 1889; Pub. L. 115–141, div. O, title II, §203, Mar. 23, 2018, 132 Stat. 1064.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

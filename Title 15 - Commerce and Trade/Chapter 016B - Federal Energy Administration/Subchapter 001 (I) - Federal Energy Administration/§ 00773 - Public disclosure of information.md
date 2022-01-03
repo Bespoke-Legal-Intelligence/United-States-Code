@@ -2,7 +2,7 @@
 
 #### (a) Analyses, data, information, reports, and summaries; objectives of disclosure
 
-The Administrator shall make public, on a continuing basis, any statistical and economicanalyses, data, information, and whatever reports and summaries are necessary to keep the public fully and currently informed as to the nature, extent, and projected duration of shortages of energy supplies, the impact of such shortages, and the steps being taken to minimize such impacts.
+The Administrator shall make public, on a continuing basis, any statistical and economic analyses, data, information, and whatever reports and summaries are necessary to keep the public fully and currently informed as to the nature, extent, and projected duration of shortages of energy supplies, the impact of such shortages, and the steps being taken to minimize such impacts.
 
 #### (b) Freedom of Information Act applicable; disclosure of confidential information or trade secrets; disclosure of matter included in public annual reports to Securities and Exchange Commission and matter excepted from such disclosure
 
@@ -13,6 +13,8 @@ Subject to the provisions of this chapter, section 552 of title 5 shall apply to
 To protect and assure privacy of individuals and confidentiality of personal information, the Administrator is directed to establish guidelines and procedures for handling any information which the Administration obtains pertaining to individuals. He shall provide, to the extent practicable, in such guidelines and procedures a method for allowing any such individual to gain access to such information pertaining to himself.
 
 (Pub. L. 93–275, §14, May 7, 1974, 88 Stat. 108.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

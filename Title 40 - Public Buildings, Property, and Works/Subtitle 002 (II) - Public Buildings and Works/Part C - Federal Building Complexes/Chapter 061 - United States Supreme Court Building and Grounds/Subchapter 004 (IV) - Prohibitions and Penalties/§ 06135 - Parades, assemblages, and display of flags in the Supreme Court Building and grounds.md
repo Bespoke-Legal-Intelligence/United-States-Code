@@ -20,9 +20,3 @@ Historical and Revision Notes
 
 Aug. 18, 1949, ch. 479, §6, 63 Stat. 617.
 
-#### <b>Editorial Notes</b>
-
-#### Constitutionality
-
-For information regarding constitutionality of section 6 of act Aug. 18, 1949, cited as the source of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
-

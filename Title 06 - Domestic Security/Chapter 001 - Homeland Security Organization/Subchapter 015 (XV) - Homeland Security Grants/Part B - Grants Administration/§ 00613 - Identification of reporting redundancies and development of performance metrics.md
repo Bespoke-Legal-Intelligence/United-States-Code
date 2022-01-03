@@ -52,7 +52,7 @@ Not later than 1 year after the date on which the initial report is required to 
 
 &emsp;Not later than 30 days after October 12, 2010, the Administrator shall enter into a contract with the National Academy of Public Administration under which the National Academy of Public Administration shall assist the Administrator in studying, developing, and implementing—
 
-&emsp;&emsp;(A) quantifiable performance measures and metrics to assess the effectiveness of grantsadministered by the Department, as required under this section and section 749 of this title; and
+&emsp;&emsp;(A) quantifiable performance measures and metrics to assess the effectiveness of grants administered by the Department, as required under this section and section 749 of this title; and
 
 &emsp;&emsp;(B) the plan required under subsection (b)(3).
 

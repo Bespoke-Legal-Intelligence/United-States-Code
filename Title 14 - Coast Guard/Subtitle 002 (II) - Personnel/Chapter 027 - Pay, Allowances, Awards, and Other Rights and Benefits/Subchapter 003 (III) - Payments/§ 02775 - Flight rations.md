@@ -1,6 +1,6 @@
 ### §2775. Flight rations
 
-There may be furnished to officers, enlisted members, and civilian employees, while actually engaged in flight operations, an aircraft flightration in kind, chargeable to the proper Coast Guard appropriation, which flight ration shall be supplementary to any ration or subsistence allowance now granted to such personnel. No part of an aircraft flight ration shall be furnished without cost to any individual in a travel status or to any individual to whom a per diem allowance is granted in lieu of actual subsistence.
+There may be furnished to officers, enlisted members, and civilian employees, while actually engaged in flight operations, an aircraft flight ration in kind, chargeable to the proper Coast Guard appropriation, which flight ration shall be supplementary to any ration or subsistence allowance now granted to such personnel. No part of an aircraft flight ration shall be furnished without cost to any individual in a travel status or to any individual to whom a per diem allowance is granted in lieu of actual subsistence.
 
 (Aug. 4, 1949, ch. 393, 63 Stat. 533, §480; Pub. L. 98–557, §15(a)(3)(B), Oct. 30, 1984, 98 Stat. 2865; renumbered §2775, Pub. L. 115–282, title I, §116(b), Dec. 4, 2018, 132 Stat. 4226; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8505(a)(43), Jan. 1, 2021, 134 Stat. 4750.)
 

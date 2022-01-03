@@ -14,7 +14,7 @@ From amounts appropriated under section 300b–16 of this title, the Secretary, 
 
 &emsp;&emsp;(C) sharing of medical and diagnostic information with providers and families;
 
-&emsp;(3) to develop and deliver educational programs (at appropriate literacy levels) about newborn screening counseling, testing, follow-up, treatment, and specialty services to parents, families, and patient advocacy and support groups;
+&emsp;(3) to develop and deliver educational programs (at appropriate literacy levels) aboutnewborn screening counseling, testing, follow-up, treatment, and specialty services to parents, families, and patient advocacy and support groups;
 
 &emsp;(4) to establish, maintain, and operate a system to assess and coordinate followup and treatment relating to congenital, genetic, and metabolic disorders; and
 
@@ -81,6 +81,8 @@ Funds appropriated under this section shall be used to supplement and not suppla
 The Secretary shall provide to entities receiving grants under subsection (a) such technical assistance as may be necessary to ensure the quality of programs conducted under this section.
 
 (July 1, 1944, ch. 373, title XI, §1109, as added Pub. L. 106–310, div. A, title XXVI, §2601, Oct. 17, 2000, 114 Stat. 1164; amended Pub. L. 110–204, §2, Apr. 24, 2008, 122 Stat. 705; Pub. L. 110–237, §1(a)(1), May 27, 2008, 122 Stat. 1556; Pub. L. 113–240, §2, Dec. 18, 2014, 128 Stat. 2851.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

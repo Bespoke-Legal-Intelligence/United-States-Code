@@ -26,7 +26,7 @@ As used in this chapter—
 
 &emsp;&emsp;(F) aircraft use, relating to the activities described in this paragraph except for flights in emergencies involving the health or safety of crew members or the safety of a vessel.
 
-&emsp;(7) The term "fishing vessel" or "vessel" means any boat, ship, or other craft which is used for, equipped to be used for, or of a type normally used for commercial fishing, and which is documented under the laws of the United States.
+&emsp;(7) The term "fishing vessel" or "vessel" means any boat, ship, or other craft which isused for, equipped to be used for, or of a type normally used for commercial fishing, and which is documented under the laws of the United States.
 
 &emsp;(8) The term "Licensing Area" means all waters in the Treaty Area except for—
 
@@ -58,11 +58,13 @@ As used in this chapter—
 
 (Pub. L. 100–330, §2, June 7, 1988, 102 Stat. 591.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Pub. L. 100–330, §21, June 7, 1988, 102 Stat. 601, provided that:
 
-"(a) Except as provided in subsection (b) of this section, this Act \[enacting this chapter\] shall be effectiveon the date on which the Treaty enters into force for the United States. \[The Treaty entered into force for the United States June 15, 1988.\]
+"(a) Except as provided in subsection (b) of this section, this Act \[enacting this chapter\] shall be effective on the date on which the Treaty enters into force for the United States. \[The Treaty entered into force for the United States June 15, 1988.\]
 
 "(b)(1) The authority to promulgate regulations pursuant to this Act shall be effective on the date of enactment of this Act \[June 7, 1988\].
 

@@ -14,7 +14,7 @@ Annual Naval Vessel Construction Plan and Certification.—The Secretary of the 
 
 (b)
 
-Annual Naval Vessel Construction Plan.—(1) The annual naval vessel construction plan developed for a fiscal year for purposes of subsection (a)(1) shall be designed so that the naval vessel force provided for under that plan supports the national security strategy of the United States as set forth in the most recent national security strategy report of the President under section 108 of the National Security Act of 1947 (50 U.S.C. 3043), except that, if at the timesuch plan is submitted with the defense budget materials for that fiscal year, a national security strategy report required under such section 108 has not been submitted to Congress as required by paragraph (2) or paragraph (3), if applicable, of subsection (a) of such section, then such annual plan shall be designed so that the naval vessel force provided for under that plan supports the ship force structure recommended in the report of the most recent national defense strategy.
+Annual Naval Vessel Construction Plan.—(1) The annual naval vessel construction plan developed for a fiscal year for purposes of subsection (a)(1) shall be designed so that the naval vessel force provided for under that plan supports the national security strategy of the United States as set forth in the most recent national security strategy report of the President under section 108 of the National Security Act of 1947 (50 U.S.C. 3043), except that, if at the time such plan is submitted with the defense budget materials for that fiscal year, a national security strategy report required under such section 108 has not been submitted to Congress as required by paragraph (2) or paragraph (3), if applicable, of subsection (a) of such section, then such annual plan shall be designed so that the naval vessel force provided for under that plan supports the ship force structure recommendedin the report of the most recent national defense strategy.
 
 (2) Each such naval vessel construction plan shall include the following:
 
@@ -29,6 +29,12 @@ Annual Naval Vessel Construction Plan.—(1) The annual naval vessel constructio
 &emsp;(E) The estimated total cost of construction for each vessel used to determine estimated levels of annual funding under subparagraph (D).
 
 &emsp;(F) The estimated operations and sustainment costs required to support the vessels delivered under the naval vessel construction plan.
+
+&emsp;(G) The expected service life of each vessel in the naval vessel force provided for under the naval vessel construction plan, disaggregated by ship class, and the rationale for any changes to such expectations from the previous year's plan.
+
+&emsp;(H) A certification by the appropriate Senior Technical Authority designated under section 8669b of this title of the expected service life of each vessel in the naval vessel force provided for under the naval vessel construction plan, disaggregated by ship class, and the rationale for any changes to such expectations from the previous year's plan.
+
+&emsp;(I) For each battle force ship planned to be inactivated during the five-year period beginning on the date of the submittal of the report, a description of the planned disposition of each such ship following such inactivation and the potential gaps in warfighting capability that will result from such ship being removed from service.
 
 (c)
 
@@ -58,7 +64,11 @@ Definitions.—In this section:
 
 &emsp;(5) The term "auxiliary vessel" means any ship designed to operate in the open ocean in a variety of sea states to provide general support to either combatant forces or shore based establishments.
 
-(Added Pub. L. 107–314, div. A, title X, §1022(a)(1), Dec. 2, 2002, 116 Stat. 2639; amended Pub. L. 111–383, div. A, title X, §1023(a), Jan. 7, 2011, 124 Stat. 4349; Pub. L. 112–81, div. A, title X, §1011(a), Dec. 31, 2011, 125 Stat. 1558; Pub. L. 112–239, div. A, title X, §1014(a), Jan. 2, 2013, 126 Stat. 1908; Pub. L. 113–66, div. A, title X, §1021, Dec. 26, 2013, 127 Stat. 844; Pub. L. 113–291, div. A, title X, §§1021, 1071(c)(2), Dec. 19, 2014, 128 Stat. 3486, 3508; Pub. L. 114–92, div. A, title X, §1021, Nov. 25, 2015, 129 Stat. 965; Pub. L. 115–91, div. A, title X, §1021(d), Dec. 12, 2017, 131 Stat. 1547; Pub. L. 115–232, div. A, title X, §1011, Aug. 13, 2018, 132 Stat. 1947; Pub. L. 116–283, div. A, title X, §§1021, 1081(a)(13), Jan. 1, 2021, 134 Stat. 3839, 3871.)
+&emsp;(6) The term "expected service life" means the number of years a naval vessel is expected to be in service.
+
+(Added Pub. L. 107–314, div. A, title X, §1022(a)(1), Dec. 2, 2002, 116 Stat. 2639; amended Pub. L. 111–383, div. A, title X, §1023(a), Jan. 7, 2011, 124 Stat. 4349; Pub. L. 112–81, div. A, title X, §1011(a), Dec. 31, 2011, 125 Stat. 1558; Pub. L. 112–239, div. A, title X, §1014(a), Jan. 2, 2013, 126 Stat. 1908; Pub. L. 113–66, div. A, title X, §1021, Dec. 26, 2013, 127 Stat. 844; Pub. L. 113–291, div. A, title X, §§1021, 1071(c)(2), Dec. 19, 2014, 128 Stat.3486, 3508; Pub. L. 114–92, div. A, title X, §1021, Nov. 25, 2015, 129 Stat. 965; Pub. L. 115–91, div. A, title X, §1021(d), Dec. 12, 2017, 131 Stat. 1547; Pub. L. 115–232, div. A, title X, §1011, Aug. 13, 2018, 132 Stat. 1947; Pub. L. 116–283, div. A, title X, §§1021, 1081(a)(13), Jan. 1, 2021, 134 Stat. 3839, 3871; Pub. L. 117–81, div. A, title X, §1011(a), Dec. 27, 2021, 135 Stat. 1889.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -68,11 +78,15 @@ Subsec. (a). Pub. L. 116–283, §1021(1)(A), substituted "Secretary of the Navy
 
 Subsec. (a)(1). Pub. L. 116–283, §1021(1)(B), struck out "and" after colon at end.
 
+Subsec. (b)(2)(G) to (I). Pub. L. 117–81, §1011(a)(1), added subpars. (G) to (I).
+
 Subsec. (e)(1). Pub. L. 116–283, §1021(2)(A), substituted "the Secretary of Defense may not use more than 25 percent of the funds" for "the Secretary of the Navy may not use more than 50 percent of the funds".
 
 Subsec. (e)(2). Pub. L. 116–283, §1021(2)(B), substituted "Secretary of Defense" for "Secretary of the Navy" and "operation and maintenance, Defense-wide" for "operation and maintenance, Navy" and inserted ", that remain available for obligation or expenditure as of the date on which the plan and certification under subsection (a) are required to be submitted" before period at end.
 
 Subsec. (f)(3). Pub. L. 116–283, §1081(a)(13)(B), substituted "section 113(g)" for "section 118".
+
+Subsec. (f)(6). Pub. L. 117–81, §1011(a)(2), added par. (6).
 
 <b>2018</b>—Subsec. (b)(2)(F). Pub. L. 115–232 added subpar. (F).
 
@@ -109,6 +123,8 @@ Subsecs. (e), (f). Pub. L. 112–239 added subsec. (e) and redesignated former s
 <b>2011</b>—Pub. L. 112–81 amended section generally. Prior to amendment, section related to submission of a long-range plan for construction of combatant and support naval vessels that supports the force structure recommendations of a quadrennial defense review.
 
 Pub. L. 111–383 amended section generally. Prior to amendment, section related to submission of an annual plan for construction of naval vessels and certification that the budget for the current fiscal year and the future-years defense program is sufficient for procurement of vessels provided for in the plan.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Reporting Requirements
 

@@ -34,11 +34,15 @@
 
 <i>(f) "Jurisdiction of the United States" includes jurisdiction over the areas referred to as eastern special areas in Article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990; in particular, those areas east of the maritime boundary, as defined in that Agreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1993</b>—Subsec. (h). Pub. L. 103–199 substituted "Russia (except that as used in subsection (b) of this section, 'party' and 'parties' refer to the Union of Soviet Socialist Republics)" for "the Union of Soviet Socialist Republics".
 
 <b>1983</b>—Pub. L. 98–129 amended section generally, substituting provisions defining terms, previously defined in former sections 1159 and 1186 of this title, for provisions enumerating the activities prohibited under this chapter. See section 1152 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 
@@ -58,7 +62,7 @@ Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(e)(1)\], Dec. 21, 2000, 11
 
 #### Short Title of 1983 Amendment
 
-Pub. L. 98–129, §1, Oct. 14, 1983, 97 Stat. 835, provided: "That this Act \[amending this chapter generally, sections 8332 and 8334 of Title 5, Government Organizationand Employees, and section 5323 of Title 25, Indians\] may be cited as the 'Fur Seal Act Amendments of 1983'."
+Pub. L. 98–129, §1, Oct. 14, 1983, 97 Stat. 835, provided: "That this Act \[amending this chapter generally, sections 8332 and 8334 of Title 5, Government Organization and Employees, and section 5323 of Title 25, Indians\] may be cited as the 'Fur Seal Act Amendments of 1983'."
 
 #### Short Title
 

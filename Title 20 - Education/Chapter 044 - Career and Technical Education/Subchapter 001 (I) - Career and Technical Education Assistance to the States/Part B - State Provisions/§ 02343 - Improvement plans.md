@@ -40,7 +40,7 @@
 
 #### (2) Plan
 
-&emsp;If, after reviewing the evaluation in paragraph (1), the eligible agency determines that an eligible recipient failed to meet at least 90 percent of an agreed upon local level of performance for any of the core indicators of performance described in section 2323(b)(4) of this title for all CTE concentrators, the eligible recipient shall develop and implement a program improvement plan (that includes an analysis of the performance disparities or gaps identified under section 2323(b)(3)(C)(ii)(II) of this title, and actions that will be taken to address such gaps) in consultation with local stakeholders described in section 2354(d)(1) of this title, the eligible agency, and appropriate agencies, individuals, and organizations during the first program year succeeding the program year for which the eligible recipient failed to so meet any of the local levels of performance for any of the core indicators of performance.
+&emsp;If, after reviewing the evaluation in paragraph (1), the eligible agency determines thatan eligible recipient failed to meet at least 90 percent of an agreed upon local level of performance for any of the core indicators of performance described in section 2323(b)(4) of this title for all CTE concentrators, the eligible recipient shall develop and implement a program improvement plan (that includes an analysis of the performance disparities or gaps identified under section 2323(b)(3)(C)(ii)(II) of this title, and actions that will be taken to address such gaps) in consultation with local stakeholders described in section 2354(d)(1) of this title, the eligible agency, and appropriate agencies, individuals, and organizations during the first program year succeeding the program year for which the eligible recipient failed to so meet any of the local levels of performance for any of the core indicators of performance.
 
 #### (3) Technical assistance
 
@@ -75,6 +75,8 @@
 &emsp;An eligible recipient shall not be eligible to adjust performance levels while executing an improvement plan under this section.
 
 (Pub. L. 88–210, title I, §123, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 721; amended Pub. L. 115–224, title I, §123, July 31, 2018, 132 Stat. 1606.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -111,6 +113,8 @@ Subsec. (b)(4)(A)(ii), (iii). Pub. L. 115–224, §123(2)(C)(i), added cl. (ii) 
 Subsec. (b)(4)(B)(iii). Pub. L. 115–224, §123(2)(C)(ii), added cl. (iii).
 
 Subsec. (b)(6). Pub. L. 115–224, §123(2)(D), added par. (6).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

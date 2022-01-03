@@ -4,6 +4,8 @@ It shall be the duty of each United States attorney, to whom satisfactory eviden
 
 (Aug. 23, 1916, ch. 396, §6, 39 Stat. 531; June 25, 1948, ch. 646, §1, 62 Stat. 909.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Act June 25, 1948, eff. Sept. 1, 1948, substituted "United States attorney" for "district attorney". See section 541 of Title 28, Judiciary and Judicial Procedure.

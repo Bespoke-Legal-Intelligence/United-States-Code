@@ -14,7 +14,7 @@
 
 &emsp;(6) knowingly make any false representation that any grain has been officially inspected, or officially inspected and found to be of a particular kind, class, quality, or condition, or that particular facts have been established with respect to grain by official inspection under this chapter, or that any weighing service under this chapter has been performed with respect to grain;
 
-&emsp;(7) improperly influence, or attempt to improperly influence, any official inspection personnel or personnel of agencies delegated authority or of agencies or other persons designated under this chapter or any officer oremployee of the Department of Agriculture with respect to the performance of the duties of the officer, employee, or other person under this chapter;
+&emsp;(7) improperly influence, or attempt to improperly influence, any official inspection personnel or personnel of agencies delegated authority or of agencies or other persons designated under this chapter or any officer or employee of the Department of Agriculture with respect to the performance of the duties of the officer, employee, or other person under this chapter;
 
 &emsp;(8) forcibly assault, resist, oppose, impede, intimidate, or interfere with any official inspection personnel or personnel of agencies delegated authority or of agencies or other persons designated under this chapter or any officer or employee of the Department of Agriculture in, or on account of, the performance of the duties of the officer, employee, or other person under this chapter;
 
@@ -94,6 +94,8 @@
 
 (Aug. 11, 1916, ch. 313, pt. B, §13, as added Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 766; amended Pub. L. 94–582, §15, Oct. 21, 1976, 90 Stat. 2883; Pub. L. 95–113, title XVI, §§1604(j), 1606(h), Sept. 29, 1977, 91 Stat. 1029, 1030; Pub. L. 99–641, title III, §303(a), Nov. 10, 1986, 100 Stat. 3564; Pub. L. 101–624, title XX, §2008, Nov. 28, 1990, 104 Stat. 3931; Pub. L. 103–156, §§7, 12(l), Nov. 24, 1993, 107 Stat. 1526, 1529; Pub. L. 103–354, title II, §293(a)(7), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 106–472, title I, §107, Nov. 9, 2000, 114 Stat. 2060.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Subsec. (e)(1). Pub. L. 106–472 inserted ", or prohibit disguising the quality of grain," after "sound and pure grain" in introductory provisions.
@@ -141,6 +143,8 @@ Subsec. (a)(11). Pub. L. 94–582, §15(a)(5), inserted after "sections 77, 78,"
 Subsecs. (a)(12), (13). Pub. L. 94–582, §15(a)(6), added pars. (12) and (13).
 
 Subsec. (b)(2). Pub. L. 94–582, §15(b), substituted "inspection or weighing function" for "inspection function".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

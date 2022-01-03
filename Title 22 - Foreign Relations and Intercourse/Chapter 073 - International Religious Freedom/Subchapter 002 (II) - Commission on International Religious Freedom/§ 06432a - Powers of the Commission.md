@@ -40,7 +40,7 @@ Not later than March 1 of each year, each Member of the Commission shall submit 
 
 &emsp;(3) brief details of the travel and events related to such travel.
 
-(Pub. L. 105–292, title II, §203, as added Pub. L. 106–55, §1(b)(3), Aug. 17, 1999, 113 Stat. 401;amended Pub. L. 116–94, div. J, title VIII, §§804(b), 806(b), (c), Dec. 20, 2019, 133 Stat. 3077, 3078.)
+(Pub. L. 105–292, title II, §203, as added Pub. L. 106–55, §1(b)(3), Aug. 17, 1999, 113 Stat. 401; amended Pub. L. 116–94, div. J, title VIII, §§804(b), 806(b), (c), Dec. 20, 2019, 133 Stat. 3077, 3078.)
 
 #### <b>Editorial Notes</b>
 
@@ -54,7 +54,7 @@ A prior section 203 of Pub. L. 105–292 was renumbered section 205 and is class
 
 #### Amendments
 
-<b>2019</b>—Subsec. (e). Pub. L. 116–94, §804(b), inserted at end "If a Member of the Commission is invited to speak at an event in his or her capacity as a Commissioner, the Member shall provide notice of the request to all Commissioners and the Executive Director as soon as the Commissioner becomes aware of such invitation. Speeches and responses to questions at official events shall reflect the views of the Commission. Official speeches and other prepared materials shall be made available to all Commissioners in advance of the event. If a Commissioner is speaking in his or her private capacity, he or she shall include qualifying language that the views they are representing are his or her own views and not the views of the Commission."
+<b>2019</b>—Subsec. (e). Pub. L. 116–94, §804(b), inserted at end "If a Member of the Commission is invited to speak at an event in his or her capacity as a Commissioner, the Member shall provide notice of the request to all Commissioners and the Executive Director as soon as the Commissioner becomes aware of such invitation. Speeches and responses to questions at official events shall reflect the views of the Commission. Officialspeeches and other prepared materials shall be made available to all Commissioners in advance of the event. If a Commissioner is speaking in his or her private capacity, he or she shall include qualifying language that the views they are representing are his or her own views and not the views of the Commission."
 
 Subsec. (f). Pub. L. 116–94, §806(b), designated existing provisions as par. (1), inserted heading, and added par. (2).
 

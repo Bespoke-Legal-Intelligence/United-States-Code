@@ -12,7 +12,7 @@ Any State which desires to do so may enter into and participate in an agreement 
 
 &emsp;&emsp;(A) the amount determined under the State law (before the application of this paragraph), plus
 
-&emsp;&emsp;(B) an additional amount equal to the amount specified in paragraph (3) (in this section referred to as "Federal Pandemic Unemployment Compensation"), plus
+&emsp;&emsp;(B) an additional amount equal to the amount specified in paragraph (3) (in thissection referred to as "Federal Pandemic Unemployment Compensation"), plus
 
 &emsp;&emsp;(C) an additional amount of $100 (in this section referred to as "Mixed Earner Unemployment Compensation") in any case in which the individual received at least $5,000 of self-employment income (as defined in section 1402(b) of title 26) in the most recent taxable year ending prior to the individual's application for regular compensation.
 
@@ -32,7 +32,7 @@ Any State which desires to do so may enter into and participate in an agreement 
 
 &emsp;&emsp;&emsp;(i) For weeks of unemployment beginning after the date on which an agreement is entered into under this section and ending on or before July 31, 2020, $600.
 
-&emsp;&emsp;&emsp;(ii) For weeks of unemployment beginning after December 26, 2020 (or, if later, the date on which such agreement is entered into), and ending on or before March 14, 2021, $300.
+&emsp;&emsp;&emsp;(ii) For weeks of unemployment beginning after December 26, 2020 (or, if later, the date on which such agreement is entered into), and ending on or before September 6, 2021, $300.
 
 #### (4) Certain documentation required
 
@@ -78,13 +78,13 @@ An agreement entered into under this section shall apply—
 
 &emsp;(1) to weeks of unemployment beginning after the date on which such agreement is entered into and ending on or before July 31, 2020; and
 
-&emsp;(2) to weeks of unemployment beginning after December 26, 2020 (or, if later, the date on which such agreement is entered into), and ending on or before March 14, 2021.
+&emsp;(2) to weeks of unemployment beginning after December 26, 2020 (or, if later, the date on which such agreement is entered into), and ending on or before September 6, 2021.
 
 #### (f) Fraud and overpayments
 
 #### (1) In general
 
-&emsp;If an individual knowingly has made, or caused to be made by another, a false statement or representation of a material fact, or knowingly has failed, or caused another to fail, to disclose a material fact, and as a result of such false statement or representation or of such nondisclosure such individual has received an amount of Federal Pandemic Unemployment Compensation or Mixed Earner Unemployment Compensation to which such individual was not entitled, such individual—
+&emsp;If an individual knowingly has made, or caused to be made by another, a false statement or representation of a material fact, or knowingly has failed, or caused another tofail, to disclose a material fact, and as a result of such false statement or representation or of such nondisclosure such individual has received an amount of Federal Pandemic Unemployment Compensation or Mixed Earner Unemployment Compensation to which such individual was not entitled, such individual—
 
 &emsp;&emsp;(A) shall be ineligible for further Federal Pandemic Unemployment Compensation or Mixed Earner Unemployment Compensation in accordance with the provisions of the applicable State unemployment compensation law relating to fraud in connection with a claim for unemployment compensation; and
 
@@ -142,15 +142,21 @@ For purposes of this section—
 
 &emsp;&emsp;(E) short-time compensation under a short-time compensation program (as defined in section 3306(v) of title 26).
 
-(Pub. L. 116–136, div. A, title II, §2104, Mar. 27, 2020, 134 Stat. 318; Pub. L. 116–260, div. N, title II, §§203, 261(a), (b)(1), Dec. 27, 2020, 134 Stat. 1953, 1961.)
+(Pub. L. 116–136, div. A, title II, §2104, Mar. 27, 2020, 134 Stat. 318; Pub. L. 116–260, div. N, title II, §§203, 261(a), (b)(1), Dec. 27, 2020, 134 Stat. 1953, 1961; Pub. L. 117–2, title IX, §9013, Mar. 11, 2021, 135 Stat. 119.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (h), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XIX andXXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (h), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Section 205 of the Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsec. (i)(1), (2)(A), is section 205 of Pub. L. 91–373, which is set out in a note under section 3304 of Title 26, Internal Revenue Code.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (b)(3)(A)(ii). Pub. L. 117–2, §9013(b), substituted "September 6, 2021" for "March 14, 2021".
+
+Subsec. (e)(2). Pub. L. 117–2, §9013(a), substituted "September 6, 2021" for "March 14, 2021".
 
 <b>2020</b>—Subsec. (b)(1)(B). Pub. L. 116–260, §261(a)(1)(A), substituted ", plus" for period at end.
 
@@ -179,6 +185,8 @@ Subsec. (f). Pub. L. 116–260, §261(b)(1)(A), inserted "or Mixed Earner Unempl
 Subsec. (g). Pub. L. 116–260, §261(b)(1)(C), substituted "provide that—" and pars. (1) and (2) for "provide that the purposes of the preceding provisions of this section shall be applied with respect to unemployment benefits described in subsection (i)(2) to the same extent and in the same manner as if those benefits were regular compensation."
 
 Subsec. (i)(2)(E). Pub. L. 116–260, §203(b)(2), added subpar. (E).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### State's Right of Non-Participation
 

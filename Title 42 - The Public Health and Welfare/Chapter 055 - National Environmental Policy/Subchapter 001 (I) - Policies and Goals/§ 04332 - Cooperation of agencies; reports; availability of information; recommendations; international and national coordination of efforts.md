@@ -44,9 +44,13 @@ The Congress authorizes and directs that, to the fullest extent possible: (1) th
 
 (Pub. L. 91–190, title I, §102, Jan. 1, 1970, 83 Stat. 853; Pub. L. 94–83, Aug. 9, 1975, 89 Stat. 424.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>1975</b>—Subpars. (D) to (I). Pub. L. 94–83 added subpar. (D) and redesignated former subpars. (D) to (H) as (E) to (I), respectively.
+<b>1975</b>—Par. (2)(D) to (I). Pub. L. 94–83 added subpar. (D) and redesignated former subpars. (D) to (H) as (E) to (I), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Certain Commercial Space Launch Activities
 
@@ -55,6 +59,8 @@ Pub. L. 104–88, title IV, §401, Dec. 29, 1995, 109 Stat. 955, provided that: 
 &emsp;"(1) the Department of the Army has issued a permit for the activity; and
 
 &emsp;"(2) the Army Corps of Engineers has found that the activity has no significant impact."
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13352. Facilitation of Cooperative Conservation
 

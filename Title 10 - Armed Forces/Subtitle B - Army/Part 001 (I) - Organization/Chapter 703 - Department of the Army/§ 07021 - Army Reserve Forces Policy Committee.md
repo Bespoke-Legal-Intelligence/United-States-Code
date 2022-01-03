@@ -4,9 +4,13 @@ There is in the Office of the Secretary of the Army an Army Reserve Forces Polic
 
 (Added Pub. L. 103–337, div. A, title XVI, §1661(b)(4)(A), Oct. 5, 1994, 108 Stat. 2982, §3021; renumbered §7021, Pub. L. 115–232, div. A, title VIII, §808(a), Aug. 13, 2018, 132 Stat. 1838.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 3021 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

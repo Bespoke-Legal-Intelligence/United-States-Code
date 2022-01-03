@@ -16,6 +16,8 @@ Not later than January 15, 1969, the President shall make a report to the Congre
 
 (Pub. L. 90–448, title XVI, §1602, Aug. 1, 1968, 82 Stat. 601.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was not enacted as part of the Housing Act of 1949 which comprises this chapter.

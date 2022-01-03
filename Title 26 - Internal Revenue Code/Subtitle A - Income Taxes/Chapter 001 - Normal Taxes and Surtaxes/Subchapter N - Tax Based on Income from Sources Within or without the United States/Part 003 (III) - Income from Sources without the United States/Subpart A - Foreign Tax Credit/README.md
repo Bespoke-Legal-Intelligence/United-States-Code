@@ -14,6 +14,8 @@ Subpart A—Foreign Tax Credit
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Pub. L. 115–97, title I, §14301(c)(38), Dec. 22, 2017, 131 Stat. 2225, struck out item 902 "Deemed paid credit where domestic corporation owns 10 percent or more of voting stock of foreign corporation".

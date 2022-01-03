@@ -20,7 +20,7 @@ Transfers To Be at No Cost to Department of Defense.—Any transfer of a vessel 
 
 (d)
 
-Application of Environmental Laws.—Nothing in this section shall affect the applicability of Federal, State, interstate, and local environmental laws and regulations, including the Toxic Substances Control Act (15 U.S.C. 2601 et seq.) and the Comprehensive Environmental Response, Compensation, and Liability Act of 1980\(42 U.S.C. 9601 et seq.), to the Department of Defense or to a donee.
+Application of Environmental Laws.—Nothing in this section shall affect the applicability of Federal, State, interstate, and local environmental laws and regulations, including the Toxic Substances Control Act (15 U.S.C. 2601 et seq.) and the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.), to the Department of Defense or to a donee.
 
 (e)
 
@@ -32,7 +32,9 @@ Definitions.—In this section:
 
 &emsp;(3) The term "donee" means any entity receiving a vessel pursuant to subsection (a).
 
-(Added Pub. L. 103–160, div. A, title VIII, §824(b), Nov. 30, 1993, 107 Stat. 1709, §7306; amended Pub. L. 106–65, div. A, title X, §1011, Oct. 5, 1999, 113 Stat. 739; Pub. L. 107–217, §3(b)(29), Aug. 21, 2002, 116 Stat. 1297; Pub. L. 113–66, div. A, title X, §1022(a)–(e)(1), Dec. 26, 2013, 127 Stat. 845, 846; Pub. L. 114–92, div. A, title X, §1074(b), Nov. 25, 2015, 129 Stat. 996; renumbered §8676, Pub. L. 115–232, div. A, title VIII, §807(d)(2), Aug. 13, 2018, 132 Stat. 1836.)
+(Added Pub. L. 103–160, div. A, title VIII, §824(b), Nov. 30, 1993, 107 Stat. 1709, §7306; amended Pub. L. 106–65, div. A, title X, §1011, Oct. 5, 1999, 113 Stat. 739; Pub. L. 107–217, §3(b)(29), Aug. 21, 2002,116 Stat. 1297; Pub. L. 113–66, div. A, title X, §1022(a)–(e)(1), Dec. 26, 2013, 127 Stat. 845, 846; Pub. L. 114–92, div. A, title X, §1074(b), Nov. 25, 2015, 129 Stat. 996; renumbered §8676, Pub. L. 115–232, div. A, title VIII, §807(d)(2), Aug. 13, 2018, 132 Stat. 1836.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -75,6 +77,8 @@ Subsecs. (e), (f). Pub. L. 113–66, §1022(d), added subsecs. (e) and (f).
 &emsp;"(B) 60 days of continuous session of Congress have expired following the date on which such notice is sent to Congress.
 
 "(2) For purposes of paragraph (1)(B), the continuity of a session of Congress is broken only by an adjournment of the Congress sine die, and the days on which either House is not in session because of an adjournment of more than 3 days to a day certain are excluded in the computation of such 60-day period."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

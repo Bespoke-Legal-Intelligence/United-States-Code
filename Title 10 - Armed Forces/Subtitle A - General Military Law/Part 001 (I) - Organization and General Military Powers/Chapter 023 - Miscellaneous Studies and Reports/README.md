@@ -9,15 +9,20 @@
 | [483\.](%C2%A7%2000483%20-%20Notifications%20related%20to%20basing%20decision-making%20process.md) | Notifications related to basing decision-making process. |
 | [484\.](%C2%A7%2000484%20-%20Quarterly%20cyber%20operations%20briefings.md) | Quarterly cyber operations briefings. |
 | [485\.](%C2%A7%2000485%20-%20Monthly%20counterterrorism%20operations%20briefings.md) | Monthly counterterrorism operations briefings. |
-| \[486, 487. | Repealed.\] |
+| [486\.](%C2%A7%2000486%20-%20Annual%20reports%20on%20racial%20and%20ethnic%20demographics%20in%20the%20military%20justice%20system.md) | Annual reports on racial and ethnic demographics in the military justice system. |
+| \[487. | Repealed.\] |
 | [488\.](%C2%A7%2000488%20-%20Management%20and%20review%20of%20electromagnetic%20spectrum.md) | Management and review of electromagnetic spectrum. |
 | \[489 to 491. Repealed or Renumbered.\] |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>2021</b>—Pub. L. 116–283, div. B, title XXVIII, §2871(c), Jan. 1, 2021, 134 Stat. 4366, added item 483.
+<b>2021</b>—Pub. L. 117–81, div. A, title V, §549G(a)(2), Dec. 27, 2021, 135 Stat. 1728, added item 486.
+
+Pub. L. 116–283, div. B, title XXVIII, §2871(c), Jan. 1, 2021, 134 Stat. 4366, added item 483.
 
 <b>2019</b>—Pub. L. 116–92, div. A, title III, §361(c), Dec. 20, 2019, 133 Stat. 1327, added item 482 and struck out former item 482 "Quarterly reports: personnel and unit readiness".
 
@@ -55,13 +60,15 @@ Pub. L. 105–261, div. A, title III, §373(d)(2), Oct. 17, 1998, 112 Stat. 1992
 
 Pub. L. 104–106, div. A, title III, §361(a)(2), Feb. 10, 1996, 110 Stat. 273, added item 452.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Questions in Surveys Regarding Extremist Activity in the Workplace
 
 Pub. L. 116–92, div. A, title V, §593, Dec. 20, 2019, 133 Stat. 1415, as amended by Pub. L. 116–283, div. A, title V, §553, Jan. 1, 2021, 134 Stat. 3633, provided that:
 
 "(a)
 
-Questions Required.—The Secretary of Defense shall include in appropriate surveys administered by the Department of Defense questions regarding whether respondents have ever—
+Questions Required.—The Secretary of Defense shall include in appropriate surveys administered bythe Department of Defense questions regarding whether respondents have ever—
 
 &emsp;"(1) experienced or witnessed extremist, racist, anti-Semitic, or supremacist activity in the workplace; or
 
@@ -87,7 +94,7 @@ Briefing.—Not later than March 1, 2021, the Secretary shall provide to the Com
 - [&sect; 00483 - Notifications related to basing decision-making process](%C2%A7%2000483%20-%20Notifications%20related%20to%20basing%20decision-making%20process.md)
 - [&sect; 00484 - Quarterly cyber operations briefings](%C2%A7%2000484%20-%20Quarterly%20cyber%20operations%20briefings.md)
 - [&sect; 00485 - Monthly counterterrorism operations briefings](%C2%A7%2000485%20-%20Monthly%20counterterrorism%20operations%20briefings.md)
-- [&sect; 00486 - Repealed. Pub. L. 112&#8211;81, div. A, title X, &sect;1061(8)(A), Dec. 31, 2011, 125 Stat. 1583](%C2%A7%2000486%20-%20Repealed.%20Pub.%20L.%20112%E2%80%9381%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71061%288%29%28A%29%2C%20Dec.%2031%2C%202011%2C%20125%20Stat.%201583.md)
+- [&sect; 00486 - Annual reports on racial and ethnic demographics in the military justice system](%C2%A7%2000486%20-%20Annual%20reports%20on%20racial%20and%20ethnic%20demographics%20in%20the%20military%20justice%20system.md)
 - [&sect; 00487 - Repealed. Pub. L. 112&#8211;81, div. A, title X, &sect;1061(9)(A), Dec. 31, 2011, 125 Stat. 1583](%C2%A7%2000487%20-%20Repealed.%20Pub.%20L.%20112%E2%80%9381%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71061%289%29%28A%29%2C%20Dec.%2031%2C%202011%2C%20125%20Stat.%201583.md)
 - [&sect; 00488 - Management and review of electromagnetic spectrum](%C2%A7%2000488%20-%20Management%20and%20review%20of%20electromagnetic%20spectrum.md)
 - [&sect; 00489 - Repealed. Pub. L. 113&#8211;291, div. A, title III, &sect;331(a), Dec. 19, 2014, 128 Stat. 3344](%C2%A7%2000489%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93291%2C%20div.%20A%2C%20title%20III%2C%20%C2%A7331%28a%29%2C%20Dec.%2019%2C%202014%2C%20128%20Stat.%203344.md)

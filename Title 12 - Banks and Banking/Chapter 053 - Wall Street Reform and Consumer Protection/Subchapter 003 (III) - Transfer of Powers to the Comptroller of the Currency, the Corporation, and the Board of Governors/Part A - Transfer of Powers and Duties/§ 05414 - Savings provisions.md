@@ -48,7 +48,7 @@ All orders, resolutions, determinations, agreements, and regulations, interpreta
 
 &emsp;Not later than the transfer date, the Corporation shall—
 
-&emsp;&emsp;(A) after consultation with the Office of the Comptroller of the Currency, identify the regulations continued under subsection\(b) that will be enforced by the Corporation; and
+&emsp;&emsp;(A) after consultation with the Office of the Comptroller of the Currency, identify the regulations continued under subsection (b) that will be enforced by the Corporation; and
 
 &emsp;&emsp;(B) publish a list of the regulations identified under subparagraph (A) in the Federal Register.
 

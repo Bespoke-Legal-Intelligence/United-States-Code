@@ -46,7 +46,7 @@ If a small business lending company violates this chapter, the Administrator may
 
 &emsp;(A) The Administrator, after finding extraordinary circumstances and in order to protect the financial or legal position of the United States, may issue a suspension order without conducting a hearing pursuant to subsection (f). If the Administrator issues a suspension under the preceding sentence, the Administrator shall within two business days follow the procedures set forth in subsection (f).
 
-&emsp;(B) Any suspension under paragraph (1) shall remain in effect until the Administrator makes a decision pursuant to subparagraph (4) to permanently revoke the authority of the small business lending company or non-Federally regulated lender, suspend the authority for a time certain, or terminate the suspension.
+&emsp;(B) Any suspension under paragraph (1) shall remain in effect until the Administrator makes a decision pursuant to subparagraph (4)to permanently revoke the authority of the small business lending company or non-Federally regulated lender, suspend the authority for a time certain, or terminate the suspension.
 
 (3) The small business lending company or non-Federally regulated lender must notify borrowers of a revocation and that a new entity has been appointed to service their loans. The Administrator or an employee of the Administration designated by the Administrator may provide such notice to the borrower.
 
@@ -64,7 +64,7 @@ If a small business lending company violates this chapter, the Administrator may
 
 #### (f) Procedure for revocation or suspension of loan authority and for cease and desist order
 
-(1) Before revoking or suspending authority under subsection (d) or issuing a cease and desist order under subsection (e), the Administrator shall serve an order to show cause upon the small business lending company, non-Federally regulated lender, or other person why an order revoking or suspending the authority or a cease and desist order should not be issued. The order to show cause shall contain a statement of the matters of fact and law asserted by the Administrator and the legal authority and jurisdiction under which a hearing is to be held, and shall set forth that a hearing will be held before an administrative law judge at a time and place stated in the order. Such hearing shall be conducted pursuant to the provisions of sections 554, 556, and 557 of title 5. If after hearing, or a waiver thereof, the Administrator determines that an order revoking or suspending the authority or a cease and desist order should be issued, the Administrator shall promptly issue such order, which shall include a statement of the findings of the Administrator and thegrounds and reasons therefor and specify the effective date of the order, and shall cause the order to be served on the small business lending company, non-Federally regulated lender, or other person involved.
+(1) Before revoking or suspending authority under subsection (d) or issuing a cease and desist order under subsection (e), the Administrator shall serve an order to show cause upon the small business lending company, non-Federally regulated lender, or other person why an order revoking or suspending the authority or a cease and desist order should not be issued. The order to show cause shall contain a statement of the matters of fact and law asserted by the Administrator and the legal authority and jurisdiction under which a hearing is to be held, and shall set forth that a hearing will be held before an administrative law judge at a time and place stated in the order. Such hearing shall be conducted pursuant to the provisions of sections 554, 556, and 557 of title 5. If after hearing, or a waiver thereof, the Administrator determines that an order revoking or suspending the authority or a cease and desist order should be issued, the Administrator shall promptly issue such order, which shall include a statement of the findings of the Administrator and the grounds and reasons therefor and specify the effective date of the order, and shall cause the order to be served on the small business lending company, non-Federally regulated lender, or other person involved.
 
 (2) Witnesses summoned before the Administrator shall be paid by the party at whose instance they were called the same fees and mileage that are paid witnesses in the courts of the United States.
 
@@ -142,7 +142,7 @@ If a small business lending company violates this chapter, the Administrator may
 
 &emsp;&emsp;&emsp;&emsp;(I) pending the completion of the administrative proceedings pursuant to a notice of intention to remove served under paragraph (2); and
 
-&emsp;&emsp;&emsp;&emsp;(II) until such time as the Administrator dismisses the charges specified inthe notice, or, if an order of removal or prohibition is issued against the management official, until the effective date of any such order.
+&emsp;&emsp;&emsp;&emsp;(II) until such time as the Administrator dismisses the charges specified in the notice, or, if an order of removal or prohibition is issued against the management official, until the effective date of any such order.
 
 #### (C) Judicial review of suspension prior to hearing
 
@@ -199,6 +199,8 @@ If a small business lending company violates this chapter, the Administrator may
 (2) The Administrator may by rules and regulations that shall be codified in the Code of Federal Regulations, after an opportunity for notice and comment, or upon application of an interested party, at any time previous to such failure, by order, after notice and opportunity for hearing which shall be conducted pursuant to sections 554, 556, and 557 of title 5, exempt in whole or in part, any small business lending company or non-Federally regulated lender from paragraph (1), upon such terms and conditions and for such period of time as it deems necessary and appropriate, if the Administrator finds that such action is not inconsistent with the public interest or the protection of the Administration. The Administrator may for the purposes of this section make any alternative requirements appropriate to the situation.
 
 (Pub. L. 85–536, §2\[23\], as added Pub. L. 98–473, title I, §111A(a), Oct. 12, 1984, 98 Stat. 1965; Pub. L. 108–447, div. K, title I, §161, Dec. 8, 2004, 118 Stat. 3458.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

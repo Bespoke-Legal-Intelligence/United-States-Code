@@ -60,13 +60,13 @@ For purposes of this part, part II, and chapter 3, the term "trade or business w
 
 #### (2) Periodical, etc., income from sources within United States—factors
 
-&emsp;In determining whether income from sources within the United States of the types described in section 871(a)(1), section 871(h), section 881(a), or section 881(c), or whether gain or loss from sources within the United States from the sale or exchange of capital assets, is effectively connected with the conduct of a trade or business within the United States, the factors taken into account shall include whether—
+&emsp;In determining whether income from sources within the United States of the types described in section 871(a)(1), section 871(h), section 881(a), or section 881(c), or whether gain or loss from sources within the United States from the sale or exchange of capital assets, is effectively connected with the conduct of atrade or business within the United States, the factors taken into account shall include whether—
 
 &emsp;&emsp;(A) the income, gain, or loss is derived from assets used in or held for use in the conduct of such trade or business, or
 
 &emsp;&emsp;(B) the activities of such trade or business were a material factor in the realization of the income, gain, or loss.
 
-> &emsp;In determining whether an asset is used in or held for use in the conduct of such trade or business or whether the activities of suchtrade or business were a material factor in realizing an item of income, gain, or loss, due regard shall be given to whether or not such asset or such income, gain, or loss was accounted for through such trade or business.
+> &emsp;In determining whether an asset is used in or held for use in the conduct of such trade or business or whether the activities of such trade or business were a material factor in realizing an item of income, gain, or loss, due regard shall be given to whether or not such asset or such income, gain, or loss was accounted for through such trade or business.
 
 #### (3) Other income from sources within United States
 
@@ -274,7 +274,7 @@ For purposes of this subchapter—
 
 #### (D) Coordination with subpart F, etc.
 
-&emsp;&emsp;For purposes of this paragraph, proper adjustment shall be made to the earnings andprofits of any corporation to take into account any earnings and profits included in gross income under section 951 or under any other provision of this title and reflected in the adjusted basis of the stock.
+&emsp;&emsp;For purposes of this paragraph, proper adjustment shall be made to the earnings and profits of any corporation to take into account any earnings and profits included in gross income under section 951 or under any other provision of this title and reflected in the adjusted basis of the stock.
 
 #### (5) Affiliated group
 
@@ -334,127 +334,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;(G) that this subsection shall not apply for purposes of any provision of this subchapter to the extent the Secretary determines that the application of this subsection for such purposes would not be appropriate.
 
-#### (f) Election to allocate interest, etc. on worldwide basis
-
-For purposes of this subchapter, at the election of the worldwide affiliated group—
-
-#### (1) Allocation and apportionment of interest expense
-
-#### (A) In general
-
-&emsp;&emsp;The taxable income of each domestic corporation which is a member of a worldwide affiliated group shall be determined by allocating and apportioning interest expense of each member as if all members of such group were a single corporation.
-
-#### (B) Treatment of worldwide affiliated group
-
-&emsp;&emsp;The taxable income of the domestic members of a worldwide affiliated group from sources outside the United States shall be determined by allocating and apportioning the interest expense of such domestic members to such income in an amount equal to the excess (if any) of—
-
-&emsp;&emsp;&emsp;(i) the total interest expense of the worldwide affiliated group multiplied by the ratio which the foreign assets of the worldwide affiliated group bears to all the assets of the worldwide affiliated group, over
-
-&emsp;&emsp;&emsp;(ii) the interest expense of all foreign corporations which are members of the worldwide affiliated group to the extent such interest expense of such foreign corporations would have been allocated and apportioned to foreign source income if this subsection were applied to a group consisting of all the foreign corporations in such worldwide affiliated group.
-
-#### (C) Worldwide affiliated group
-
-&emsp;&emsp;For purposes of this paragraph, the term "worldwide affiliated group" means a group consisting of—
-
-&emsp;&emsp;&emsp;(i) the includible members of an affiliated group (as defined in section 1504(a), determined without regard to paragraph (2) of section 1504(b)), and
-
-&emsp;&emsp;&emsp;(ii) all controlled foreign corporations in which such members in the aggregate meet the ownership requirements of section 1504(a)(2) either directly or indirectly through applying paragraph (2) of section 958(a) or through applying rules similar to the rules of such paragraph to stock owned directly or indirectly by domestic partnerships, trusts, or estates.
-
-#### (2) Allocation and apportionment of other expenses
-
-&emsp;Expenses other than interest which are not directly allocable or apportioned to any specific income producing activity shall be allocated and apportioned as if all members of the affiliated group were a single corporation. For purposes of the preceding sentence, the term "affiliated group" has the meaning given such term by section 1504 (determined without regard to paragraph (2) of section 1504(b)).
-
-#### (3) Treatment of tax-exempt assets; basis of stock in nonaffiliated 10-percent owned corporations
-
-&emsp;The rules of paragraphs (3) and (4) of subsection (e) shall apply for purposes of this subsection, except that paragraph (4) shall be applied on a worldwide affiliated group basis.
-
-#### (4) Treatment of certain financial institutions
-
-#### (A) In general
-
-&emsp;&emsp;For purposes of paragraph (1), any corporation described in subparagraph (B) shall be treated as an includible corporation for purposes of section 1504 only for purposes of applying this subsection separately to corporations so described.
-
-#### (B) Description
-
-&emsp;&emsp;A corporation is described in this subparagraph if—
-
-&emsp;&emsp;&emsp;(i) such corporation is a financial institution described in section 581 or 591,
-
-&emsp;&emsp;&emsp;(ii) the business of such financial institution is predominantly with persons other than related persons (within the meaning of subsection (d)(4)) or their customers, and
-
-&emsp;&emsp;&emsp;(iii) such financial institution is required by State or Federal law to be operated separately from any other entity which is not such an institution.
-
-#### (C) Treatment of bank and financial holding companies
-
-&emsp;&emsp;To the extent provided in regulations—
-
-&emsp;&emsp;&emsp;(i) a bank holding company (within the meaning of section 2(a) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(a)),
-
-&emsp;&emsp;&emsp;(ii) a financial holding company (within the meaning of section 2(p) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(p)), and
-
-&emsp;&emsp;&emsp;(iii) any subsidiary of a financial institution described in section 581 or 591, or of any such bank or financial holding company, if such subsidiary is predominantly engaged (directly or indirectly) in the active conduct of a banking, financing, or similar business,
-
-> &emsp;&emsp;shall be treated as a corporation described in subparagraph (B).
-
-#### (5) Election to expand financial institution group of worldwide group
-
-#### (A) In general
-
-&emsp;&emsp;If a worldwide affiliated group elects the application of this subsection, all financial corporations which—
-
-&emsp;&emsp;&emsp;(i) are members of such worldwide affiliated group, but
-
-&emsp;&emsp;&emsp;(ii) are not corporations described in paragraph (4)(B),
-
-> &emsp;&emsp;shall be treated as described in paragraph (4)(B) for purposes of applying paragraph (4)(A). This subsection (other than this paragraph) shall apply to any such group in the same manner as this subsection (other than this paragraph) applies to the pre-election worldwide affiliated group of which such group is a part.
-
-#### (B) Financial corporation
-
-&emsp;&emsp;For purposes of this paragraph, the term "financial corporation" means any corporation if at least 80 percent of its gross income is income described in section 904(d)(2)(D)(ii) and the regulations thereunder which is derived from transactions with persons who are not related (within the meaning of section 267(b) or 707(b)(1)) to the corporation. For purposes of the preceding sentence, there shall be disregarded any item of income or gain from a transaction or series of transactions a principal purpose of which is the qualification of any corporation as a financial corporation.
-
-#### (C) Anti-abuse rules
-
-&emsp;&emsp;In the case of a corporation which is a member of an electing financial institution group, to the extent that such corporation—
-
-&emsp;&emsp;&emsp;(i) distributes dividends or makes other distributions with respect to its stock after the date of the enactment of this paragraph to any member of the pre-election worldwide affiliated group (other than to a member of the electing financial institution group) in excess of the greater of—
-
-&emsp;&emsp;&emsp;&emsp;(I) its average annual dividend (expressed as a percentage of current earnings and profits) during the 5-taxable-year period ending with the taxable year preceding the taxable year, or
-
-&emsp;&emsp;&emsp;&emsp;(II) 25 percent of its average annual earnings and profits for such 5-taxable-year period, or
-
-&emsp;&emsp;&emsp;(ii) deals with any person in any manner not clearly reflecting the income of thecorporation (as determined under principles similar to the principles of section 482),
-
-> &emsp;&emsp;an amount of indebtedness of the electing financial institution group equal to the excess distribution or the understatement or overstatement of income, as the case may be, shall be recharacterized (for the taxable year and subsequent taxable years) for purposes of this paragraph as indebtedness of the worldwide affiliated group (excluding the electing financial institution group). If a corporation has not been in existence for 5 taxable years, this subparagraph shall be applied with respect to the period it was in existence.
-
-#### (D) Election
-
-&emsp;&emsp;An election under this paragraph with respect to any financial institution group may be made only by the common parent of the pre-election worldwide affiliated group and may be made only for the first taxable year beginning after December 31, 2020, in which such affiliated group includes 1 or more financial corporations. Such an election, once made, shall apply to all financial corporations which are members of the electing financial institution group for such taxable year and all subsequent years unless revoked with the consent of the Secretary.
-
-#### (E) Definitions relating to groups
-
-&emsp;&emsp;For purposes of this paragraph—
-
-#### (i) Pre-election worldwide affiliated group
-
-&emsp;&emsp;&emsp;The term "pre-election worldwide affiliated group" means, with respect to a corporation, the worldwide affiliated group of which such corporation would (but for an election under this paragraph) be a member for purposes of applying paragraph (1).
-
-#### (ii) Electing financial institution group
-
-&emsp;&emsp;&emsp;The term "electing financial institution group" means the group of corporations to which this subsection applies separately by reason of the application of paragraph (4)(A) and which includes financial corporations by reason of an election under subparagraph (A).
-
-#### (F) Regulations
-
-&emsp;&emsp;The Secretary shall prescribe such regulations as may be appropriate to carry out this subsection, including regulations—
-
-&emsp;&emsp;&emsp;(i) providing for the direct allocation of interest expense in other circumstances where such allocation would be appropriate to carry out the purposes of this subsection,
-
-&emsp;&emsp;&emsp;(ii) preventing assets or interest expense from being taken into account more than once, and
-
-&emsp;&emsp;&emsp;(iii) dealing with changes in members of any group (through acquisitions or otherwise) treated under this paragraph as an affiliated group for purposes of this subsection.
-
-#### (6) Election
-
-&emsp;An election to have this subsection apply with respect to any worldwide affiliated group may be made only by the common parent of the domestic affiliated group referred to in paragraph (1)(C) and may be made only for the first taxable year beginning after December 31, 2020, in which a worldwide affiliated group exists which includes such affiliated group and at least 1 foreign corporation. Such an election, once made, shall apply to such common parent and all other corporations which are members of such worldwide affiliated group for such taxable year and all subsequent years unless revoked with the consent of the Secretary.
+#### \[(f) Repealed. Pub. L. 117–2, title IX, §9671(a), Mar. 11, 2021, 135 Stat. 184\]
 
 #### (g) Allocation of research and experimental expenditures
 
@@ -462,7 +342,7 @@ For purposes of this subchapter, at the election of the worldwide affiliated gro
 
 &emsp;For purposes of sections 861(b), 862(b), and 863(b), qualified research and experimental expenditures shall be allocated and apportioned as follows:
 
-&emsp;&emsp;(A) Any qualified research and experimental expenditures expended solely to meet legal requirements imposed by a political entity with respect to the improvement or marketing of specific products or processes for purposes not reasonably expected to generate gross income (beyond de minimis amounts) outside the jurisdiction of the political entity shall be allocated only to gross income from sources within such jurisdiction.
+&emsp;&emsp;(A) Any qualified research and experimental expenditures expended solely to meet legal requirements imposed by a political entity with respect to the improvement or marketing of specific products or processes for purposes not reasonably expected to generate gross income (beyond de minimis amounts) outside the jurisdiction of the political entity shall be allocated only to grossincome from sources within such jurisdiction.
 
 &emsp;&emsp;(B) In the case of any qualified research and experimental expenditures (not allocated under subparagraph (A)) to the extent—
 
@@ -474,7 +354,7 @@ For purposes of this subchapter, at the election of the worldwide affiliated gro
 
 #### (2) Qualified research and experimental expenditures
 
-&emsp;For purposes of this section, the term "qualified research and experimental expenditures" means amounts which are research and experimental expenditures within the meaningof section 174. For purposes of this paragraph, rules similar to the rules of subsection (c) <sup>2</sup> of section 174 shall apply. Any qualified research and experimental expenditures treated as deferred expenses under subsection (b) <sup>2</sup> of section 174 shall be taken into account under this subsection for the taxable year for which such expenditures are allowed as a deduction under such subsection.
+&emsp;For purposes of this section, the term "qualified research and experimental expenditures" means amounts which are research and experimental expenditures within the meaning of section 174. For purposes of this paragraph, rules similar to the rules of subsection (c) <sup>2</sup> of section 174 shall apply. Any qualified research and experimental expenditures treated as deferred expenses under subsection (b) <sup>2</sup> of section 174 shall be taken into account under this subsection for the taxable year for which such expenditures are allowed as a deduction under such subsection.
 
 #### (3) Special rules for expenditures attributable to activities conducted in space, etc.
 
@@ -522,19 +402,21 @@ For purposes of this subchapter, at the election of the worldwide affiliated gro
 
 &emsp;This subsection shall apply to the taxpayer's first taxable year (beginning on or before August 1, 1994) following the taxpayer's last taxable year to which Revenue Procedure 92–56 applies or would apply if the taxpayer elected the benefits of such Revenue Procedure.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 278; Pub. L. 89–809, title I, §102(d), Nov. 13, 1966, 80 Stat. 1544; Pub. L. 94–455, title XIX, §1901(a)(113), Oct. 4, 1976, 90 Stat. 1783; Pub. L. 98–369, div. A, title I, §§123(a), 127(c), July 18, 1984, 98 Stat. 644, 651; Pub. L. 99–514, title XII, §§1201(d)(4), 1211(b)(2), 1215(a), (b)(1), 1221(a)(2), 1223(b)(1), 1242(a), (b), 1275(c)(7), title XVIII, §§1810(c)(2), (3), 1899A(21), Oct. 22, 1986, 100 Stat. 2525, 2536, 2544, 2545, 2550, 2558, 2580, 2599, 2824, 2959; Pub. L. 100–203, title X, §10242(b), Dec. 22, 1987, 101 Stat. 1330–423; Pub. L. 100–647, title I, §1012(a)(1)(B), (d)(7), (10), (g)(5), (h)(1), (2)(A), (3)–(6), (p)(30), (r), Nov. 10, 1988, 102 Stat. 3494, 3498, 3499, 3501–3503, 3521, 3525; Pub. L. 101–239, title VII, §7111, Dec. 19, 1989, 103 Stat. 2326; Pub. L. 101–508, title XI, §11401(a), Nov. 5, 1990, 104 Stat. 1388–472; Pub. L. 102–227, title I, §101(a), Dec. 11, 1991, 105 Stat. 1686; Pub. L. 103–66, title XIII, §13234, Aug. 10, 1993, 107 Stat. 504; Pub. L. 105–34, title XI, §1162(a), Aug. 5, 1997, 111 Stat. 987; Pub. L. 106–170, title V, §532(c)(2)(N)–(P), Dec. 17, 1999, 113 Stat. 1931; Pub. L. 106–519, §4(3), Nov. 15, 2000, 114 Stat. 2432; Pub. L. 108–357, title I, §101(b)(6), title IV, §§401(a), (b), 403(b)(6), 413(c)(12), title VIII, §894(a), Oct. 22, 2004, 118 Stat. 1423, 1488, 1491, 1494, 1507, 1647; Pub. L. 110–289, div. C, title III, §3093(a), (b), July 30, 2008, 122 Stat. 2912; Pub. L. 111–92, §15(a), (b), Nov. 6, 2009, 123 Stat. 2996; Pub. L. 111–147, title V, §551(a), Mar. 18, 2010, 124 Stat. 117; Pub. L. 111–226, title II, §216(a), Aug. 10, 2010, 124 Stat. 2400; Pub. L. 111–240, title II, §2122(c), Sept. 27, 2010, 124 Stat. 2568; Pub. L. 115–97, title I, §§13501(a), 14502(a), Dec. 22, 2017, 131 Stat. 2138, 2235; Pub. L. 115–141, div. U, title IV, §401(a)(152), (d)(1)(D)(x), (xvii)(IV), (V), Mar. 23, 2018, 132 Stat. 1191, 1207, 1208.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 278; Pub. L. 89–809, title I, §102(d), Nov. 13, 1966, 80 Stat. 1544; Pub. L. 94–455, title XIX, §1901(a)(113), Oct. 4, 1976, 90 Stat. 1783; Pub. L. 98–369, div. A, title I, §§123(a), 127(c), July 18, 1984, 98 Stat. 644, 651;Pub. L. 99–514, title XII, §§1201(d)(4), 1211(b)(2), 1215(a), (b)(1), 1221(a)(2), 1223(b)(1), 1242(a), (b), 1275(c)(7), title XVIII, §§1810(c)(2), (3), 1899A(21), Oct. 22, 1986, 100 Stat. 2525, 2536, 2544, 2545, 2550, 2558, 2580, 2599, 2824, 2959; Pub. L. 100–203, title X, §10242(b), Dec. 22, 1987, 101 Stat. 1330–423; Pub. L. 100–647, title I, §1012(a)(1)(B), (d)(7), (10), (g)(5), (h)(1), (2)(A), (3)–(6), (p)(30), (r), Nov. 10, 1988, 102 Stat. 3494, 3498, 3499, 3501–3503, 3521, 3525; Pub. L. 101–239, title VII, §7111, Dec. 19, 1989, 103 Stat. 2326; Pub. L. 101–508, title XI, §11401(a), Nov. 5, 1990, 104 Stat. 1388–472; Pub. L. 102–227, title I, §101(a), Dec. 11, 1991, 105 Stat. 1686; Pub. L. 103–66, title XIII, §13234, Aug. 10, 1993, 107 Stat. 504; Pub. L. 105–34, title XI, §1162(a), Aug. 5, 1997, 111 Stat. 987; Pub. L. 106–170, title V, §532(c)(2)(N)–(P), Dec. 17, 1999, 113 Stat. 1931; Pub. L. 106–519, §4(3), Nov. 15, 2000, 114 Stat. 2432; Pub. L. 108–357, title I, §101(b)(6), title IV, §§401(a), (b), 403(b)(6), 413(c)(12), title VIII, §894(a), Oct. 22, 2004, 118 Stat. 1423, 1488, 1491, 1494, 1507, 1647; Pub. L. 110–289, div. C, title III, §3093(a), (b), July 30, 2008, 122 Stat. 2912; Pub. L. 111–92, §15(a), (b), Nov. 6, 2009, 123 Stat. 2996; Pub. L. 111–147, title V, §551(a), Mar. 18, 2010, 124 Stat. 117; Pub. L. 111–226, title II, §216(a), Aug. 10, 2010, 124 Stat. 2400; Pub. L. 111–240, title II, §2122(c), Sept. 27, 2010, 124 Stat. 2568; Pub. L. 115–97, title I, §§13501(a), 14502(a), Dec. 22, 2017, 131 Stat. 2138, 2235; Pub. L. 115–141, div. U, title IV, §401(a)(152), (d)(1)(D)(x), (xvii)(IV), (V), Mar. 23, 2018, 132 Stat. 1191, 1207, 1208; Pub. L. 117–2, title IX, §9671(a), Mar. 11, 2021, 135 Stat. 184.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 Section 2(a) of the Bank Holding Company Act of 1956, referred to in subsec. (e)(5)(D)(i), is classified to section 1841(a) of Title 12, Banks and Banking.
-
-The date of the enactment of this paragraph, referred to in subsec. (f)(5)(C)(i), is the date of enactment of Pub. L. 108–357, which was approved Oct. 22, 2004.
 
 Section 174, referred to in subsec. (g)(2), was amended generally by Pub. L. 115–97, title I, §13206(a), Dec. 22, 2017, 131 Stat. 2111. Provisions similar to those contained in former subsec. (c) of section 174 are now contained in subsec. (c)(1) of section 174. For provisions similar to those contained in former subsec. (b) of section 174 relating to amortization of certain research and experimental expenditures, see subsecs. (a) and (b) of section 174.
 
 Section 936, referred to in subsec. (g)(4)(B), (C), was repealed by Pub. L. 115–141, div. U, title IV, §401(d)(1)(C), Mar. 23, 2018, 132 Stat. 1206.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (f). Pub. L. 117–2 struck out subsec. (f) which related to election to allocate interest and other expenses on worldwide basis.
 
 <b>2018</b>—Subsec. (d)(5). Pub. L. 115–141, §401(d)(1)(D)(x), amended par. (5) generally. Prior to amendment, par. (5) related to certain provisions that did not apply to any amount treated as interest under par. (1) or (6).
 
@@ -698,6 +580,12 @@ Subsec. (c)(5)(C). Pub. L. 94–455, §1901(a)(113)(B), substituted "sale or exc
 
 <b>1966</b>—Pub. L. 89–809 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Pub. L. 117–2, title IX, §9671(b), Mar. 11, 2021, 135 Stat. 184, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2020."
+
 #### Effective Date of 2017 Amendment
 
 Pub. L. 115–97, title I, §13501(c)(1), Dec. 22, 2017, 131 Stat. 2141, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply to sales, exchanges, and dispositions on or after November 27, 2017."
@@ -803,7 +691,7 @@ General phase-in amount.—Except as provided in clause (iii), the general phase
 | &nbsp; | <b>The applicable</b> |
 | <b>"In the case of the:</b> | <b>percentage is:</b> |
 | 1st taxable year | 75&nbsp; |
-| 2nd taxable year | 50  |
+| 2nd taxable year | 50&nbsp; |
 | 3rd taxable year | 25\. |
 
 &emsp;&emsp;"(iii)
@@ -934,7 +822,7 @@ Indebtedness outstanding on may 29, 1985.—Indebtedness is described in this cl
 
 &emsp;"(E)
 
-Treatment of affiliated group.—For purposes of this paragraph, all members of the same affiliated group of corporations (as defined in section 864(e)(5)(A) of the Internal Revenue Code of 1986, asadded by this section) shall be treated as 1 taxpayer whether or not such members filed a consolidated return.
+Treatment of affiliated group.—For purposes of this paragraph, all members of the same affiliated group of corporations (as defined in section 864(e)(5)(A) of the Internal Revenue Code of 1986, as added by this section) shall be treated as 1 taxpayer whether or not such members filed a consolidated return.
 
 &emsp;"(F)
 
@@ -1014,7 +902,7 @@ Special rule.—In the case of the first taxable year beginning after December 3
 
 Amendment by section 1221(a)(2) of Pub. L. 99–514 applicable to taxable years of foreign corporations beginning after Dec. 31, 1986, except as otherwise provided, see section 1221(g) of Pub. L. 99–514, set out as a note under section 954 of this title.
 
-Pub. L. 99–514, title XII, §1223(c), Oct. 22, 1986, 100 Stat. 2558, provided that: "The amendments made by this section \[amending this section and sections 881 and 954 of this title\] shall apply to taxable years beginning after December 31, 1986."
+Pub. L. 99–514, title XII, §1223(c), Oct. 22, 1986, 100 Stat. 2558, provided that: "The amendments made bythis section \[amending this section and sections 881 and 954 of this title\] shall apply to taxable years beginning after December 31, 1986."
 
 Pub. L. 99–514, title XII, §1242(c), Oct. 22, 1986, 100 Stat. 2580, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1986."
 

@@ -186,7 +186,7 @@ Subsections (g) and (h) of this section, referred to in subsec. (b)(1)(B), were 
 
 #### Amendments
 
-<b>2014</b>—Subsec. (g)(2). Pub. L. 113–188 substituted "The Comptroller General shall make each list available through the public website of the Government Accountability Office." for "A copy of each list shall be sent to each committee of Congress and each member of Congress." and inserted "of Congress" after "committee or member".
+<b>2014</b>—Subsec. (g)(2). Pub. L. 113–188 substituted "The Comptroller General shall make each list availablethrough the public website of the Government Accountability Office." for "A copy of each list shall be sent to each committee of Congress and each member of Congress." and inserted "of Congress" after "committee or member".
 
 <b>2004</b>—Subsec. (b)(1)(C), (3). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
@@ -236,7 +236,7 @@ Annual Reports.—The Comptroller General shall include—
 
 &emsp;&emsp;"(C) an assessment of the role of sections 2, 3, 4, 6, 7, 9, and 10 of this Act in contributing to the General Accounting Office's \[now Government Accountability Office\] ability to carry out its mission, meet its performance goals, and fulfill its strategic plan; and
 
-&emsp;"(2) in each report submitted to Congress under such section 719(a) after the effective date of section 3 of this Act \[see Effective Date of 2004 Amendment note under section 731 of this title\] and before theclose of the 5-year period referred to in paragraph (1)—
+&emsp;"(2) in each report submitted to Congress under such section 719(a) after the effective date of section 3 of this Act \[see Effective Date of 2004 Amendment note under section 731 of this title\] and before the close of the 5-year period referred to in paragraph (1)—
 
 &emsp;&emsp;"(A) a detailed description of the methodologies applied under section 3 of this Act and the manner in which such methodologies were applied to determine the appropriate annual pay adjustments for officers and employees of the Office;
 

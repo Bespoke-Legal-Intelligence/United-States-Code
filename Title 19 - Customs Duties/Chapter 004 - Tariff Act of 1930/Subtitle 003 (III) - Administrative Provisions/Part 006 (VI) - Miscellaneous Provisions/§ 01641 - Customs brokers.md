@@ -34,7 +34,7 @@ As used in this section:
 
 #### (6) Prohibited acts
 
-&emsp;Any person who intentionally transacts customs business, other than solely on the behalf of that person, without holding a valid customs broker's license granted to that person under this subsection shall be liable to the United States for a monetary penalty not to exceed $10,000 for each such transaction as well as for each violation of any other provision of this section. This penalty shall be assessed in the same manner and under the same procedures as the monetary penalties provided for in subsection (d)(2)(A).
+&emsp;Any person who intentionally transacts customs business, other than solely on the behalf of that person, without holding a valid customs broker's license granted to that person under this subsection shall be liable to the United States for a monetary penalty not to exceed $10,000 for each such transaction as well as for each violation of any other provision of this section. This penalty shall be assessed inthe same manner and under the same procedures as the monetary penalties provided for in subsection (d)(2)(A).
 
 #### (c) Customs broker's permits
 
@@ -94,7 +94,7 @@ As used in this section:
 
 #### (A) Monetary penalty
 
-&emsp;&emsp;Unless action has been taken under subparagraph (B), the appropriate customs officer shall serve notice in writing upon any customs broker to show cause why the broker should not be subject to a monetary penalty not to exceed $30,000 in total for a violation or violations of this section. The notice shall advise the customs broker of the allegations or complaints against him and shall explain that the broker has a right to respond to the allegations or complaints in writing within 30 days of the date of the notice. Before imposing a monetary penalty, the customs officer shall consider the allegations or complaints and any timely response made by the customs broker and issue a written decision. A customs broker against whom a monetary penalty has been issued under this section shall have a reasonable opportunity under section 1618 of this title to make representations seeking remission or mitigation of the monetary penalty. Following the conclusion of any proceeding under section 1618 of this title, the appropriate customs officer shall provide to the customs broker a written statement which sets forth the final determination and the findings of fact and conclusions of law on which such determination is based.
+&emsp;&emsp;Unless action has been taken under subparagraph (B), the appropriate customs officer shall serve notice in writing upon any customs broker to show cause why the broker should not be subject to a monetary penalty not to exceed $30,000 in total for a violation or violations of this section. The notice shall advise the customs broker of the allegations or complaints against him and shall explain that the broker has a right to respond to the allegations or complaints in writing within 30 days of the date of the notice. Before imposing a monetary penalty, the customs officer shall consider the allegations or complaints and any timely responsemade by the customs broker and issue a written decision. A customs broker against whom a monetary penalty has been issued under this section shall have a reasonable opportunity under section 1618 of this title to make representations seeking remission or mitigation of the monetary penalty. Following the conclusion of any proceeding under section 1618 of this title, the appropriate customs officer shall provide to the customs broker a written statement which sets forth the final determination and the findings of fact and conclusions of law on which such determination is based.
 
 #### (B) Revocation or suspension
 
@@ -136,7 +136,7 @@ As used in this section:
 
 #### (f) Regulations by the Secretary
 
-The Secretary may prescribe such rules and regulations relating to the customs business of customs brokers as the Secretary considers necessary to protect importers and the revenue of the United States, and to carry out the provisions of this section, including rules and regulations governing the licensing of or issuance of permits to customs brokers, the keeping of books, accounts, and records by customs brokers, and documents and correspondence, andthe furnishing by customs brokers of any other information relating to their customs business to any duly accredited officer or employee of U.S. Customs and Border Protection. The Secretary may not prohibit customs brokers from limiting their liability to other persons in the conduct of customs business. For purposes of this subsection or any other provision of this chapter pertaining to recordkeeping, all data required to be retained by a customs broker may be kept on microfilm, optical disc, magnetic tapes, disks or drums, video files or any other electrically generated medium. Pursuant to such regulations as the Secretary shall prescribe, the conversion of data to such storage medium may be accomplished at any time subsequent to the relevant customs transaction and the data may be retained in a centralized basis according to such broker's business system.
+The Secretary may prescribe such rules and regulations relating to the customs business of customs brokers as the Secretary considers necessary to protect importers and the revenue of the United States, and to carry out the provisions of this section, including rules and regulations governing the licensing of or issuance of permits to customs brokers, the keeping of books, accounts, and records by customs brokers, and documents and correspondence, and the furnishing by customs brokers of any other information relating to their customs business to any duly accredited officer or employee of U.S. Customs and Border Protection. The Secretary may not prohibit customs brokers from limiting their liability to other persons in the conduct of customs business. For purposes of this subsection or any other provision of this chapter pertaining to recordkeeping, all data required to be retained by a customs broker may be kept on microfilm, optical disc, magnetic tapes, disks or drums, video files or any other electrically generated medium. Pursuant to such regulations as the Secretary shall prescribe, the conversion of data to such storage medium may be accomplished at any time subsequent to the relevant customs transaction and the data may be retained in a centralized basis according to such broker's business system.
 
 #### (g) Triennial reports by customs brokers
 
@@ -200,6 +200,8 @@ The Secretary may prescribe reasonable fees and charges to defray the costs of U
 
 (June 17, 1930, ch. 497, title IV, §641, 46 Stat. 759; Aug. 26, 1935, ch. 689, §§3–5, 49 Stat. 864, 865; Pub. L. 85–791, §8, Aug. 28, 1958, 72 Stat. 945; Pub. L. 91–271, title III, §301(jj), June 2, 1970, 84 Stat. 291; Pub. L. 95–410, title I, §113, Oct. 3, 1978, 92 Stat. 898; Pub. L. 96–417, title VI, §611, Oct. 10, 1980, 94 Stat. 1746; Pub. L. 98–573, title II, §212(a), Oct. 30, 1984, 98 Stat. 2978; Pub. L. 99–514, title XVIII, §1888(8), Oct. 22, 1986, 100 Stat. 2925; Pub. L. 103–182, title VI, §648, Dec. 8, 1993, 107 Stat. 2207; Pub. L. 104–295, §21(e)(11), Oct. 11, 1996, 110 Stat. 3531; Pub. L. 105–258, title III, §302(b), Oct. 14, 1998, 112 Stat. 1916; Pub. L. 114–125, title I, §116(a), title IX, §903, Feb. 24, 2016, 130 Stat. 144, 223.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Harmonized Tariff Schedule of the United States, referred to in subsec. (i)(4)(B)(ii), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
@@ -260,6 +262,8 @@ Subsecs. (b) to (d). Act Aug. 26, 1935, §4, amended subsecs. (b) to (d) general
 
 Subsec. (e). Act Aug. 26, 1935, §5, repealed subsec. (e) which related to licenses under the act of June 10, 1910.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–258, §2, Oct. 14, 1998, 112 Stat. 1902, provided that: "Except as otherwise expressly provided in this Act \[see Tables for classification\], this Act and the amendments made by this Act take effect May 1, 1999."
@@ -270,7 +274,7 @@ Amendment by Pub. L. 98–573 effective on close of 180th day following Oct. 30,
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–417 applicable with respect to civil actions commenced on or after Nov. 1, 1980, seesection 701(b)(2) of Pub. L. 96–417, set out as a note under section 251 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 96–417 applicable with respect to civil actions commenced on or after Nov. 1, 1980, see section 701(b)(2) of Pub. L. 96–417, set out as a note under section 251 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1970 Amendment
 

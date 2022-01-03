@@ -54,7 +54,7 @@
 
 &emsp;The President may not designate any article as an eligible article under subsection (a) if such article is within one of the following categories of import-sensitive articles:
 
-&emsp;&emsp;(A) Except as provided in paragraphs (4) and (5),<sup>1</sup> textile and apparel articles which were not eligible articles for purposes of this subchapter on January 1, 1994, as this subchapter was in effect on such date.
+&emsp;&emsp;(A) Except as provided in paragraphs (4) and (5),<sup>1</sup> textile and apparel articles which were not eligible articles for purposes of thissubchapter on January 1, 1994, as this subchapter was in effect on such date.
 
 &emsp;&emsp;(B) Watches, except those watches entered after June 30, 1989, that the President specifically determines, after public notice and comment, will not cause material injury to watch or watch band, strap, or bracelet manufacturing and assembly operations in the United States or the United States insular possessions.
 
@@ -126,7 +126,7 @@
 
 #### (C) Redesignations
 
-&emsp;&emsp;A country which is no longer treated as a beneficiary developing country with respect to an eligible article by reason of subparagraph (A) may, subject to the considerations set forth in sections 2461 and 2462 of this title, be redesignated a beneficiary developing country with respect to such article if imports of such article from such country did not exceed the limitations in subparagraph (A) during the preceding calendar year.
+&emsp;&emsp;A country which is no longer treated as a beneficiary developing country with respectto an eligible article by reason of subparagraph (A) may, subject to the considerations set forth in sections 2461 and 2462 of this title, be redesignated a beneficiary developing country with respect to such article if imports of such article from such country did not exceed the limitations in subparagraph (A) during the preceding calendar year.
 
 #### (D) Least-developed beneficiary developing countries and beneficiary sub-Saharan African countries
 
@@ -224,6 +224,8 @@ No action under this subchapter may affect any tariff duty imposed by the Legisl
 
 (Pub. L. 93–618, title V, §503, as added Pub. L. 104–188, title I, §1952(a), Aug. 20, 1996, 110 Stat. 1921; amended Pub. L. 106–36, title I, §1001(a)(7), June 25, 1999, 113 Stat. 130; Pub. L. 106–200, title I, §111(b), May 18, 2000, 114 Stat. 258; Pub. L. 108–429, title I, §1555(a), (b), Dec. 3, 2004, 118 Stat. 2578, 2579; Pub. L. 109–432, div. D, title VIII, §8001, Dec. 20, 2006, 120 Stat. 3195; Pub. L. 114–27, title II, §§202, 204, June 29, 2015, 129 Stat. 372; Pub. L. 115–141, div. M, title V, §502, Mar. 23, 2018, 132 Stat. 1051.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Paragraph (5), referred to in subsec. (b)(1)(A), (E), probably means the subsec. (b)(5) relating to certain luggage and travel articles because section 204 of Pub. L. 114–27 added such par. (5) as well as those references. See 2015 Amendment notes below.
@@ -259,6 +261,8 @@ Subsec. (b)(4). Pub. L. 108–429, §1555(a), added par. (4).
 <b>2000</b>—Subsec. (c)(2)(D). Pub. L. 106–200 amended heading and text of subpar. (D) generally. Prior to amendment, text read as follows: "Subparagraph (A) shall not apply to any least-developed beneficiary developing country."
 
 <b>1999</b>—Subsec. (a)(2)(A)(ii). Pub. L. 106–36 added subcl. (II) and concluding provisions and struck out former subcl. (II) which read as follows: "the direct costs of processing operations performed in such beneficiary developing country or such member countries, is not less than 35 percent of the appraised value of such article at the time it is entered."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

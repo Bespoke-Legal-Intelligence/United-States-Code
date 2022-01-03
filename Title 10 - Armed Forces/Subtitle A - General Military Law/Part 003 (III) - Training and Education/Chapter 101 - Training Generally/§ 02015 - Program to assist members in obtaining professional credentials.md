@@ -48,6 +48,8 @@ Expenses Defined.—In this section, the term "expenses" means expenses for clas
 
 (Added Pub. L. 109–163, div. A, title V, §538(a), Jan. 6, 2006, 119 Stat. 3250; amended Pub. L. 113–291, div. A, title V, §551(a), Dec. 19, 2014, 128 Stat. 3376; Pub. L. 114–92, div. A, title V, §559, Nov. 25, 2015, 129 Stat. 827; Pub. L. 114–328, div. A, title V, §561, Dec. 23, 2016, 130 Stat. 2137; Pub. L. 115–232, div. A, title V, §556, Aug. 13, 2018, 132 Stat. 1773.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 2016, referred to in subsec. (c)(1), is the date of enactment of Pub. L. 114–92, which was approved Nov. 25, 2015.
@@ -83,6 +85,8 @@ Subsec. (c)(2). Pub. L. 114–328, §561(b)(2), added par. (2) and struck out fo
 <b>2015</b>—Subsecs. (c) to (e). Pub. L. 114–92 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
 <b>2014</b>—Pub. L. 113–291 amended section generally. Prior to amendment, section related to payment of certain expenses to obtain professional credentials.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Improvements to the Credentialing Opportunities On-Line Programs of the Armed Forces
 
@@ -150,7 +154,7 @@ In general.—In carrying out a program under subsection (a), the Secretary of a
 
 &emsp;"(2)
 
-Qualifications and standards.—Any institution of higher education included on a list under paragraph (1), and any course of instruction toward obtaining a private pilot's certificate offered by such institution, shall meet such qualifications and standards as the Secretary shall prescribe for purposes of the program. Such qualifications and standards shall include a requirement that any institution included on the list award, to individual participating in the program, academic credit at such institution for anyportion of course work completed on the ground school course of instruction of such institution in connection with obtaining a private pilot's certificate, regardless of whether the participant fully completed the ground school course of instruction.
+Qualifications and standards.—Any institution of higher education included on a list under paragraph (1), and any course of instruction toward obtaining a private pilot's certificate offered by such institution, shall meet such qualifications and standards as the Secretary shall prescribe for purposes of the program. Such qualifications and standards shall include a requirement that any institution included on the list award, to individual participating in the program, academic credit at such institution for any portion of course work completed on the ground school course of instruction of such institution in connection with obtaining a private pilot's certificate, regardless of whether the participant fully completed the ground school course of instruction.
 
 "(d)
 
@@ -222,7 +226,7 @@ Construction of Authorities.—Nothing in this section may be construed to—
 
 &emsp;"(1) authorize an officer or employee of the Federal Government to create, endorse, or otherwise incentivize a particular curriculum or degree track; or
 
-&emsp;"(2) require, direct, review, or control a State or educational institution, or the instructional content, curriculum, and related activities of a State or educational institution."
+&emsp;"(2) require, direct, review, or control a State or educational institution, or the instructional content,curriculum, and related activities of a State or educational institution."
 
 #### Enhancement of Mechanisms To Correlate Skills and Training for Military Occupational Specialties With Skills and Training Required for Civilian Certifications and Licenses
 
@@ -311,6 +315,8 @@ Report.—Not later than one year after commencement of the pilot program, the S
 &emsp;"(3) A comparison of the cost associated with receipt by members of credentialing or licensing under the pilot program with the cost of receipt of similar credentialing or licensing by recently-discharged veterans of the Armed Forces under programs currently operated by the Department of Veterans Affairs and the Department of Labor.
 
 &emsp;"(4) The recommendation of the Secretary as to the feasibility and advisability of expanding the pilot program to additional military occupational specialties or duty specialty codes, and, if such expansion is considered feasible and advisable, a list of the military occupational specialties and duty specialty codes recommended for inclusion in the expansion."
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13860. Supporting the Transition of Active Duty Service Members and Military Veterans Into the Merchant Marine
 

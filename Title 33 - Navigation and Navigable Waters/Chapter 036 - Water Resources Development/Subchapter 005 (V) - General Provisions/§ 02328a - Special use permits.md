@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary may issue special permits for uses such as group activities, recreation events, motorized recreation vehicles, and such other specialized recreation uses as the Secretary determines to be appropriate, subject to such terms and conditions as the Secretary determines to be in the best interest of the Federal Government.
+&emsp;The Secretary may issue special permits for uses such as group activities, recreationevents, motorized recreation vehicles, and such other specialized recreation uses as the Secretary determines to be appropriate, subject to such terms and conditions as the Secretary determines to be in the best interest of the Federal Government.
 
 #### (2) Fees
 

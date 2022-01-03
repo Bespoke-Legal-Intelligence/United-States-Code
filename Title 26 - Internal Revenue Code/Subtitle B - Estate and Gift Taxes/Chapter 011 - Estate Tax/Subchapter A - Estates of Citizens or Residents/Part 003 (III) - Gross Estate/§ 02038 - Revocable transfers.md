@@ -10,13 +10,15 @@ The value of the gross estate shall include the value of all property—
 
 #### (2) Transfers on or before June 22, 1936
 
-&emsp;To the extent of any interest therein of which the decedent has at any time made atransfer (except in case of a bona fide sale for an adequate and full consideration in money or money's worth), by trust or otherwise, where the enjoyment thereof was subject at the date of his death to any change through the exercise of a power, either by the decedent alone or in conjunction with any person, to alter, amend, or revoke, or where the decedent relinquished any such power during the 3 year period ending on the date of the decedent's death. Except in the case of transfers made after June 22, 1936, no interest of the decedent of which he has made a transfer shall be included in the gross estate under paragraph (1) unless it is includible under this paragraph.
+&emsp;To the extent of any interest therein of which the decedent has at any time made a transfer (except in case of a bona fide sale for an adequate and full consideration in money or money's worth), by trust or otherwise, where the enjoyment thereof was subject at the date of his death to any change through the exercise of a power, either by the decedent alone or in conjunction with any person, to alter, amend, or revoke, or where the decedent relinquished any such power during the 3 year period ending on the date of the decedent's death. Except in the case of transfers made after June 22, 1936, no interest of the decedent of which he has made a transfer shall be included in the gross estate under paragraph (1) unless it is includible under this paragraph.
 
 #### (b) Date of existence of power
 
 For purposes of this section, the power to alter, amend, revoke, or terminate shall be considered to exist on the date of the decedent's death even though the exercise of the power is subject to a precedent giving of notice or even though the alteration, amendment, revocation, or termination takes effect only on the expiration of a stated period after the exercise of the power, whether or not on or before the date of the decedent's death notice has been given or the power has been exercised. In such cases proper adjustment shall be made representing the interests which would have been excluded from the power if the decedent had lived, and for such purpose, if the notice has not been given or the power has not been exercised on or before the date of his death, such notice shall be considered to have been given, or the power exercised, on the date of his death.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 383; Pub. L. 86–141, §1, Aug. 7, 1959, 73 Stat. 288; Pub. L. 87–834, §18(a)(2)(F), Oct. 16, 1962, 76 Stat. 1052; Pub. L. 94–455, title XIX, §1902(a)(3), title XX, §2001(c)(1)(K), Oct. 4, 1976, 90 Stat. 1804, 1852.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -29,6 +31,8 @@ Subsec. (c). Pub. L. 94–455, §1902(a)(3), struck out subsec. (c) which covere
 <b>1962</b>—Subsec. (a). Pub. L. 87–834 struck out provisions which excepted real property situated outside of the United States.
 
 <b>1959</b>—Subsec. (c). Pub. L. 86–141 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

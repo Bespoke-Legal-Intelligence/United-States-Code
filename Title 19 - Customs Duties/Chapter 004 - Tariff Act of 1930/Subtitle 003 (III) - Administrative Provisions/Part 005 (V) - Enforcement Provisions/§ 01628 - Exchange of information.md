@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary may by regulation authorize customs officers to exchange information or documents with foreign customs and law enforcement agencies if the Secretary reasonably believes the exchange of information is necessary to—
+The Secretary may by regulation authorize customs officers to exchange information ordocuments with foreign customs and law enforcement agencies if the Secretary reasonably believes the exchange of information is necessary to—
 
 &emsp;(1) insure compliance with any law or regulation enforced or administered by the Customs Service;
 
@@ -34,6 +34,8 @@ The Secretary may by regulation authorize customs officers to exchange informati
 
 (June 17, 1930, ch. 497, title IV, §628, as added Pub. L. 99–570, title III, §3127, Oct. 27, 1986, 100 Stat. 3207–89; amended Pub. L. 103–182, title II, §209, Dec. 8, 1993, 107 Stat. 2098; Pub. L. 116–113, title II, §209(c), Jan. 29, 2020, 134 Stat. 52.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2020</b>—Subsec. (c). Pub. L. 116–113 added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: "The Secretary may authorize the Customs Service to exchange information with any government agency of a NAFTA country, as defined in section 3301(4) of this title, if the Secretary—
@@ -43,6 +45,8 @@ The Secretary may by regulation authorize customs officers to exchange informati
 &emsp;"(2) obtains assurances from such country that the information will be held in confidence and used only for governmental purposes."
 
 <b>1993</b>—Subsec. (c). Pub. L. 103–182 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment; Retention of Authority To Exchange Information
 

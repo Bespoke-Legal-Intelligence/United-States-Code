@@ -4,9 +4,13 @@ Any farmer who is dissatisfied with his farm marketing quota may, within fifteen
 
 (Feb. 16, 1938, ch. 30, title III, §363, 52 Stat. 63; Apr. 12, 1951, ch. 28, §3, 65 Stat. 31.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1951</b>—Act Apr. 12, 1951, provided that the Secretary appoint a local review committee composed of 3 farmers from the same or nearby counties.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Review of 1950 Cotton Farm Acreage Allotment
 

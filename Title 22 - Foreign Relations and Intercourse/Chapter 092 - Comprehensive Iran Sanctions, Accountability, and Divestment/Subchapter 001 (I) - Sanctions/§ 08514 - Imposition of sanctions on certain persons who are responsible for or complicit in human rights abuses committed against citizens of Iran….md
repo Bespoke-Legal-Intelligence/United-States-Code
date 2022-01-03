@@ -30,7 +30,7 @@ The President shall impose sanctions described in subsection (c) with respect to
 
 #### (4) Consideration of data from other countries and nongovernmental organizations
 
-&emsp;In preparing the list required by paragraph (1), the President shall consider credible dataalready obtained by other countries and nongovernmental organizations, including organizations in Iran, that monitor the human rights abuses of the Government of Iran.
+&emsp;In preparing the list required by paragraph (1), the President shall consider credible data already obtained by other countries and nongovernmental organizations, including organizations in Iran, that monitor the human rights abuses of the Government of Iran.
 
 #### (c) Sanctions described
 

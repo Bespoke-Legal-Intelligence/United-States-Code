@@ -2,7 +2,7 @@
 
 #### (a) Congressional declaration and statement of findings
 
-The Congress declares that the achievement of a just and lasting Cyprus settlement is and will remain a central objective of United States foreign policy. The Congress further declares thatany action of the United States with respect to section 2370(x) <sup>1</sup> of this title shall not signify a lessening of the United States commitment to a just solution to the conflict on Cyprus but is authorized in the expectation that this action will be conducive to achievement of a Cyprus solution and a general improvement in relations among Greece, Turkey, and Cyprus and between those countries and the United States. The Congress finds that—
+The Congress declares that the achievement of a just and lasting Cyprus settlement is and will remain a central objective of United States foreign policy. The Congress further declares that any action of the United States with respect to section 2370(x) <sup>1</sup> of this title shall not signify a lessening of the United States commitment to a just solution to the conflict on Cyprus but is authorized in the expectation that this action will be conducive to achievement of a Cyprus solution and a general improvement in relations among Greece, Turkey, and Cyprus and between those countries and the United States. The Congress finds that—
 
 &emsp;(1) a just settlement on Cyprus must involve the establishment of a free and independent government on Cyprus and must guarantee that the human rights of all of the people of Cyprus are fully protected;
 
@@ -16,7 +16,7 @@ The Congress declares that the achievement of a just and lasting Cyprus settleme
 
 #### (b) Governing principles
 
-United States policy regarding Cyprus, Greece, and Turkey shall be directed toward the restoration of a stable and peaceful atmosphere in the Eastern Mediterranean region and shall therefore be governed by the following principles:
+United States policy regarding Cyprus, Greece, and Turkey shall be directed toward the restoration of a stable and peaceful atmospherein the Eastern Mediterranean region and shall therefore be governed by the following principles:
 
 &emsp;(1) The United States shall actively support the resolution of differences through negotiations and internationally established peaceful procedures, shall encourage all parties to avoid provocative actions, and shall strongly oppose any attempt to resolve disputes through force or threat of force.
 
@@ -42,7 +42,7 @@ In order to ensure that United States assistance is furnished consistent with th
 
 (1) Except as provided in paragraph (3), any agreement for the sale or provision of any article on the United States Munitions List (established pursuant to section 38 of the Arms Export Control Act \[22 U.S.C. 2778\]) entered into by the United States after December 22, 1987, shall expressly state that the article is being provided by the United States only with the understanding that it will not be transferred to Cyprus or otherwise used to further the severance or division of Cyprus.
 
-(2) The President shall report to Congress any substantial evidence that equipment providedunder any such agreement has been used in a manner inconsistent with the purposes of this subsection.
+(2) The President shall report to Congress any substantial evidence that equipment provided under any such agreement has been used in a manner inconsistent with the purposes of this subsection.
 
 (3) The requirement under paragraph (1) shall not apply to any sale or other provision of any defense article or defense service to Cyprus if the end-user of such defense article or defense service is the Government of the Republic of Cyprus.
 
@@ -81,6 +81,24 @@ Subsec. (e)(3). Pub. L. 116–92, §1250A(b)(2), and Pub. L. 116–94, §205(b)(
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Eastern Mediterranean Security and Energy Partnership
+
+Pub. L. 117–81, div. A, title XIII, §1312, Dec. 27, 2021, 135 Stat. 2000, provided that:
+
+"(a)
+
+In General.—To the maximum extent feasible, amounts appropriated or otherwise made available for the European Recapitalization Incentive Program should be considered for Greece as appropriate to assist the country in meeting its defense needs and transitioning away from Russian-produced military equipment.
+
+"(b)
+
+Report.—Not later than 180 days after the date of the enactment of this Act \[Dec. 27, 2021\], the Secretary of State shall submit to the appropriate congressional committees a report that provides a full accounting of all funds distributed under the European Recapitalization Incentive Program, including—
+
+&emsp;"(1) identification of each recipient country;
+
+&emsp;"(2) a description of how the funds were used; and
+
+&emsp;"(3) an accounting of remaining equipment in recipient countries that was provided by the then-Soviet Union or Russian Federation."
+
+\[For definition of "appropriate congressional committees" as used in section 1312 of Pub. L. 117–81, set out above, see section 1317 of Pub. L. 117–81, set out below.\]
 
 Pub. L. 116–94, div. J, title II, Dec. 20, 2019, 133 Stat. 3048, provided that:
 
@@ -144,7 +162,7 @@ Pub. L. 116–94, div. J, title II, Dec. 20, 2019, 133 Stat. 3048, provided that
 
 &emsp;"(24) At least 40,000 Turkish troops are stationed in the occupied part of Cyprus with some weapons procured from the United States through mainland Turkey.
 
-&emsp;"(25) While the United States has, as a matter of policy, avoided the provision of defense articles and services to the Republic of Cyprus, the Government of Cyprus has, in the past, sought to obtain defense articles from other countries, including countries, such as Russia, that pose challenges to United States interests around the world.
+&emsp;"(25) While the United States has, as a matter of policy, avoided the provision of defense articles and services to the Republic of Cyprus, the Government of Cyprus has, in the past, sought to obtain defense articles from other countries, including countries,such as Russia, that pose challenges to United States interests around the world.
 
 #### "SEC. 203. STATEMENT OF POLICY.
 
@@ -246,7 +264,7 @@ In general.—The policy of denial for exports, re-exports, or transfers of defe
 
 &emsp;"(2)
 
-Waiver.—The President may waive the limitations contained in this subsection for one fiscal year if the President determines that it is essential to the national security interests of the United States to do so.
+Waiver.—The President may waive the limitations contained in this subsection for one fiscal yearif the President determines that it is essential to the national security interests of the United States to do so.
 
 &emsp;"(3)
 
@@ -440,7 +458,15 @@ Report.—Not later than June 1, 1988, the President shall submit a report to th
 
 "(d)
 
-Funding.—Up to $500,000 of the funds appropriated under any heading of this Act \[Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1988, as enacted by section 101(e) of Pub. L. 101–202\] which are allocated for Greece and up to $500,000 of the funds appropriated under any heading of this Act which are allocated for Turkey, may be usedby the Department of State for any administrative costs associated with the activities of the special ambassador and supporting personnel, including transportation, salaries and per diem."
+Funding.—Up to $500,000 of the funds appropriated under any heading of this Act \[Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1988, as enacted by section 101(e) of Pub. L. 101–202\] which are allocated for Greece and up to $500,000 of the funds appropriated under any heading of this Act which are allocated for Turkey, may be used by the Department of State for any administrative costs associated with the activities of the special ambassador and supporting personnel, including transportation, salaries and per diem."
+
+#### Definition of Appropriate Congressional Committees
+
+Pub. L. 117–81, div. A, title XIII, §1317, Dec. 27, 2021, 135 Stat. 2001, provided that: "In this subtitle \[subtitle B (§§1311–1317) of title XIII of div. A of Pub. L. 117–81, enacting provisions set out as a note above and as a note preceding section 261 of this title\], the term 'appropriate congressional committees' means—
+
+&emsp;"(1) the Committee on Foreign Relations, the Committee on Armed Services, and the Committee on Appropriations of the Senate; and
+
+&emsp;"(2) the Committee on Foreign Affairs, the Committee on Armed Services, and the Committee on Appropriations of the House of Representatives."
 
 #### <b>Executive Documents</b>
 

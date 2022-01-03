@@ -10,9 +10,13 @@ Notice to Congress of Regulations.—The Secretary of Defense shall notify Congr
 
 (Added Pub. L. 104–201, div. A, title XVI, §1632(d), Sept. 23, 1996, 110 Stat. 2750; amended Pub. L. 105–85, div. A, title X, §1073(a)(32), Nov. 18, 1997, 111 Stat. 1902.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1997</b>—Subsec. (a). Pub. L. 105–85 substituted "1603" for "1604".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -20,7 +20,7 @@ Such charges may be made subject to revisions and adjustments at such times, to 
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–381, §104(a)(1), substituted "beginning June 1, 1937" for "during the period beginning June 1,1937, and ending May 31, 1987" in provisions preceding subsec. (a).
+<b>1984</b>—Pub. L. 98–381, §104(a)(1), substituted "beginning June 1, 1937" for "during the period beginning June 1, 1937, and ending May 31, 1987" in provisions preceding subsec. (a).
 
 Subsec. (a). Pub. L. 98–381, §104(a)(1), substituted "beginning June 1, 1937" for "during the period beginning June 1, 1937, and ending May 31, 1987".
 

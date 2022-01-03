@@ -22,7 +22,7 @@
 
 <b>1980</b>—Subsec. (c). Pub. L. 96–483 inserted authorization of the sum of $7,000,000 for each of fiscal years ending Sept. 30, 1981 and 1982.
 
-<b>1977</b>—Subsec. (c). Pub. L. 95–217 substituted "June 30, 1975, $6,000,000 for the fiscal year ending September 30, 1977, $7,000,000 for the fiscal year ending September 30, 1978, $7,000,000 for the fiscal year ending September 30, 1979, and $7,000,000 for the fiscal year ending September 30, 1980," for "June 30, 1975,".
+<b>1977</b>—Subsec. (c). Pub. L. 95–217 substituted "June 30, 1975, $6,000,000 for the fiscal year ending September 30,1977, $7,000,000 for the fiscal year ending September 30, 1978, $7,000,000 for the fiscal year ending September 30, 1979, and $7,000,000 for the fiscal year ending September 30, 1980," for "June 30, 1975,".
 
 <b>1975</b>—Subsec. (c). Pub. L. 93–592 substituted "June 30, 1974, and June 30, 1975," for "and June 30, 1974,".
 

@@ -4,6 +4,8 @@ The area bounded by Seventh Street, Constitution Avenue, Fourth Street, and Nort
 
 (Mar. 24, 1937, ch. 50, §1, 50 Stat. 51.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Smithsonian American Art Museum
 
 Pub. L. 106–385, Oct. 27, 2000, 114 Stat. 1463, provided that:
@@ -22,7 +24,7 @@ References in Law.—Any reference in any law, regulation, document, or paper to
 
 "Section 1 shall take effect on the day after the date of enactment of this Act \[Oct. 27, 2000\]."
 
-Pub. L. 96–441, §§1, 3, 4, Oct. 13, 1980, 94 Stat. 1884, provided: "That the bureau of the Smithsonian Institution designated as the National Collection of Fine Arts by section 6(c) of the joint resolution entitled 'Joint Resolution providing for the construction and maintenance of a National Gallery of Art', approved March 24, 1937 (20 U.S.C. 71 note), shall be known as the 'National Museum of American Art'.
+Pub. L. 96–441, §§1, 3, 4, Oct. 13, 1980, 94 Stat. 1884, provided: "That the bureau of the Smithsonian Institutiondesignated as the National Collection of Fine Arts by section 6(c) of the joint resolution entitled 'Joint Resolution providing for the construction and maintenance of a National Gallery of Art', approved March 24, 1937 (20 U.S.C. 71 note), shall be known as the 'National Museum of American Art'.
 
 "Sec. 3. Any reference in any law, regulation, document, or paper to the National Collection of Fine Arts or the Museum of History and Technology shall on and after the effective date of this Act \[Oct. 13, 1980\] be considered to be a reference to the National Museum of American Art and the National Museum of American History, respectively.
 

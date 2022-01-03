@@ -22,11 +22,15 @@ Oct. 20, 1951, ch. 524, §3, 65 Stat. 573.
 
 The words "under this section" are substituted for the words "for salvage services rendered". The words "consider, ascertain, adjust, determine" are omitted as covered by the word "settle", as defined in section 4801 of this title. The words "and receive payment of" are inserted for clarity and to conform to section 4803 of this title. The words "as miscellaneous receipts" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4804 of this title as this section.
 
 <b>1972</b>—Pub. L. 92–417 designated existing provisions as subsec. (a), struck out requirement that the Secretary of the Army discharge his functions under the direction of the Secretary of Defense, and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

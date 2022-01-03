@@ -15,7 +15,7 @@ Limitations.—(1) Of the total number of members of a reserve component who are
 | 12,000 | 1,668 | 864 | 252&nbsp;&nbsp; |
 | 13,000 | 1,804 | 924 | 262&nbsp;&nbsp; |
 | 14,000 | 1,940 | 984 | 272&nbsp;&nbsp; |
-| 15,000 | 2,075 | 1,044 | 282   |
+| 15,000 | 2,075 | 1,044 | 282&nbsp;&nbsp; |
 | 16,000 | 2,210 | 1,104 | 291&nbsp;&nbsp; |
 | 17,000 | 2,345 | 1,164 | 300&nbsp;&nbsp; |
 | 18,000 | 2,479 | 1,223 | 309&nbsp;&nbsp; |
@@ -90,7 +90,7 @@ Limitations.—(1) Of the total number of members of a reserve component who are
 | 32,000 | 2,271 | 2,210 | 608&nbsp;&nbsp; |
 | 34,000 | 2,404 | 2,338 | 630&nbsp;&nbsp; |
 | 36,000 | 2,537 | 2,466 | 653&nbsp;&nbsp; |
-| 38,000 | 2,670 | 2,595 | 676&nbsp;&nbsp; |
+| 38,000 | 2,670 | 2,595 | 676   |
 | 40,000 | 2,803 | 2,723 | 698&nbsp;&nbsp; |
 
 (2) Of the total number of members of the Navy Reserve who are serving on full-time reserve component duty at the end of any fiscal year, the number of those members who may be serving in each of the grades of lieutenant commander, commander, and captain may not, as of the end of that fiscal year, exceed the number determined in accordance with the following table:
@@ -126,7 +126,7 @@ Reallocations to Lower Grades.—Whenever the number of officers serving in any 
 
 (d)
 
-Secretarial Waiver.—(1) Upon determining that it is in the national interest to doso, the Secretary of Defense may increase for a particular fiscal year the number of reserve officers that may be on full-time reserve component duty for a reserve component in a grade referred to in a table in subsection (a) by a number that does not exceed the number equal to 5 percent of the maximum number specified for the grade in that table.
+Secretarial Waiver.—(1) Upon determining that it is in the national interest to do so, the Secretary of Defense may increase for a particular fiscal year the number of reserve officers that may be on full-time reserve component duty for a reserve component in a grade referred to in a table in subsection (a) by a number that does not exceed the number equal to 5 percent of the maximum number specified for the grade in that table.
 
 (2) Whenever the Secretary exercises the authority provided in paragraph (1), the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives notice in writing of the adjustment made.
 
@@ -141,6 +141,8 @@ Full-Time Reserve Component Duty Defined.—In this section, the term "full-time
 &emsp;(3) Active duty described in section 708 of title 32.
 
 (Added Pub. L. 96–513, title I, §103, Dec. 12, 1980, 94 Stat. 2844, §524; amended Pub. L. 97–86, title V, §503(b), Dec. 1, 1981, 95 Stat. 1108; Pub. L. 97–252, title V, §503(b), Sept. 8, 1982, 96 Stat. 727; Pub. L. 98–94, title V, §503(b), Sept. 24, 1983, 97 Stat. 631; Pub. L. 98–525, title IV, §§413(b), 414(a)(4)(A), (B)(i), Oct. 19, 1984, 98 Stat. 2518, 2519; Pub. L. 99–145, title IV, §413(b), Nov. 8, 1985, 99 Stat. 619; Pub. L. 100–180, div. A, title IV, §413(b), Dec. 4, 1987, 101 Stat. 1083; Pub. L. 101–189, div. A, title IV, §413(b), Nov. 29, 1989, 103 Stat. 1433; Pub. L. 102–190, div. A, title IV, §413(b), Dec. 5, 1991, 105 Stat. 1352; Pub. L. 103–160, div. A, title IV, §413(b), Nov. 30, 1993, 107 Stat. 1642; renumbered §12011 and amended Pub. L. 103–337, div. A, title XVI, §1662(a)(2), Oct. 5, 1994, 108 Stat. 2988; Pub. L. 104–106, div. A, title IV, §414(a), Feb. 10, 1996, 110 Stat. 288; Pub. L. 105–261, div. A, title IV, §414(a), Oct. 17, 1998, 112 Stat. 1998; Pub. L. 106–65, div. A, title IV, §414(a), Oct. 5, 1999, 113 Stat. 586; Pub. L. 106–398, §1 \[\[div. A\], title IV, §§415(a), 421(b), 424(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–94 to 1654A–96; Pub. L. 107–107, div. A, title IV, §415(a), Dec. 28, 2001, 115 Stat. 1070; Pub. L. 108–375, div. A, title IV, §416(h), Oct. 28, 2004, 118 Stat. 1869; Pub. L. 109–163, div. A, title V, §515(b)(1)(HH), Jan. 6, 2006, 119 Stat. 3233; Pub. L. 110–417, \[div. A\], title V, §512(a), (b), Oct. 14, 2008, 122 Stat. 4439, 4440; Pub. L. 115–232, div. A, title V, §515(a), Aug. 13, 2018, 132 Stat. 1752; Pub. L. 116–92, div. A, title IV, §§415(a), 416(a), Dec. 20, 2019, 133 Stat. 1337, 1338.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -194,7 +196,7 @@ Pub. L. 100–180, §413(b)(1), in table, changed fiscal year limitation on numb
 
 <b>1984</b>—Pub. L. 98–525, §414(a)(4)(B)(i), inserted references to National Guard and to full-time National Guard duty in section catchline.
 
-Subsec. (a). Pub. L. 98–525, §414(a)(4)(A), inserted "or full-time National Guard duty" after "Marine Corps who may be on active duty" and inserted "or full-time National Guard duty (other than for training) under section 502(f) of title 32".
+Subsec. (a). Pub. L. 98–525, §414(a)(4)(A), inserted "or full-time National Guard duty" after "Marine Corpswho may be on active duty" and inserted "or full-time National Guard duty (other than for training) under section 502(f) of title 32".
 
 Pub. L. 98–525, §413(b), increased fiscal year limitation on number of reserve officers in grade of major or lieutenant commander, lieutenant colonel or commander, and colonel or Navy captain who may be on active duty to, respectively: Army, to 2,261, 1,121, and 345 from 1,948, 967, and 338; Air Force, to 471, 293, and 172 from 408, 303, and 171; Marine Corps, to 100, 50, and 25 from 95, 48, and 23. Figures for the Navy remained unchanged.
 
@@ -203,6 +205,8 @@ Pub. L. 98–525, §413(b), increased fiscal year limitation on number of reserv
 <b>1982</b>—Subsec. (a). Pub. L. 97–252 increased numbers in columns headed "Army", "Air Force", and "Marine Corps" from 1,105, 189, and 51 in line for major or lieutenant commander to 1,351, 281, and 95, respectively, from 551, 194, and 35 in line for lieutenant colonel or commander to 671, 267, and 40, respectively, and from 171, 147, and 19 in line for colonel or Navy captain to 234, 170, and 21, respectively.
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–86 increased numbers in columns headed "Army" and "Air Force" from 821 and 170 in line for major or lieutenant commander to 1,105 and 189, respectively, from 503 and 183 in line for lieutenant colonel or commander to 551 and 194, respectively, and from 163 and 146 in line for colonel or Navy captain to 171 and 147, respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2019 Amendment
 

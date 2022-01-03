@@ -10,13 +10,17 @@ Salvage Services Defined.—In this section, the term "salvage services" include
 
 (Added Pub. L. 104–106, div. A, title X, §1015, Feb. 10, 1996, 110 Stat. 425, §7363; amended Pub. L. 108–136, div. A, title III, §315(b), Nov. 24, 2003, 117 Stat. 1431; renumbered §8703, Pub. L. 115–232, div. A, title VIII, §807(d)(3), Aug. 13, 2018, 132 Stat. 1836.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7363 of this title as this section.
 
 <b>2003</b>—Pub. L. 108–136 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments andspecial rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 

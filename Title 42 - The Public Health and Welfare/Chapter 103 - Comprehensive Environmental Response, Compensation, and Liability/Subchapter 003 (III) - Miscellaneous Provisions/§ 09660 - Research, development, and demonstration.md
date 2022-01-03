@@ -102,7 +102,7 @@
 
 #### (C) Applications
 
-&emsp;&emsp;Any person and any public or private nonprofit entity may submit an application to the Administrator in response to the solicitation. The application shall contain a proposed demonstration plan setting forth how and when the project is to be carried out and such other information as the Administrator may require.
+&emsp;&emsp;Any person and any public or private nonprofit entity may submit an application tothe Administrator in response to the solicitation. The application shall contain a proposed demonstration plan setting forth how and when the project is to be carried out and such other information as the Administrator may require.
 
 #### (D) Project selection
 
@@ -114,7 +114,7 @@
 
 #### (F) Demonstration plan
 
-&emsp;&emsp;Within 60 days after the selection of the site under this paragraph to be the location of a demonstration project, the Administrator shall establish a final demonstration plan for the project, based upon the demonstration plan contained in the applicationfor the project. Such plan shall clearly set forth how and when the demonstration project will be carried out.
+&emsp;&emsp;Within 60 days after the selection of the site under this paragraph to be the location of a demonstration project, the Administrator shall establish a final demonstration plan for the project, based upon the demonstration plan contained in the application for the project. Such plan shall clearly set forth how and when the demonstration project will be carried out.
 
 #### (G) Supervision and testing
 
@@ -246,6 +246,8 @@ The Administrator shall ensure, to the maximum extent practicable, an adequate o
 
 (Pub. L. 96–510, title III, §311, as added Pub. L. 99–499, title II, §209(b), Oct. 17, 1986, 100 Stat. 1708; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (a)(1)(B)(iii), (6), was in the original "this Act", meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
@@ -257,6 +259,8 @@ The Solid Waste Disposal Act, referred to in subsec. (f), is title II of Pub. L.
 #### Amendments
 
 <b>1986</b>—Subsec. (b)(3). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Methamphetamine Remediation Research
 
@@ -286,7 +290,7 @@ Pub. L. 110–143, Dec. 21, 2007, 121 Stat. 1809, provided that:
 
 "(a)
 
-Establishment of Voluntary Guidelines.—Not later than one year after the date of enactment of this Act \[Dec. 21, 2007\], the Administrator of the Environmental Protection Agency (in this Act referred to as the 'Administrator'), in consultation with the National Institute of Standards and Technology, shall establish voluntary guidelines, based on the best currently available scientific knowledge, for the remediation of former methamphetamine laboratories, including guidelines regarding preliminary site assessment and the remediation of residual contaminants.
+Establishment of Voluntary Guidelines.—Not later than one year after the date of enactment of thisAct \[Dec. 21, 2007\], the Administrator of the Environmental Protection Agency (in this Act referred to as the 'Administrator'), in consultation with the National Institute of Standards and Technology, shall establish voluntary guidelines, based on the best currently available scientific knowledge, for the remediation of former methamphetamine laboratories, including guidelines regarding preliminary site assessment and the remediation of residual contaminants.
 
 "(b)
 
@@ -380,7 +384,7 @@ Purposes of the center.—The Center shall carry out a program of research, eval
 
 Operation of center.—(A) For purposes of operating the Center, the Administrator is authorized to enter into contracts and cooperative agreements with, and make grants to, a university related institute involved with the improvement of waste management. Such institute shall be located in Jefferson County, Texas.
 
-"(B) The Center shall be authorized to make grants, accept contributions, and enter into agreements with universities located in the States of Texas, Louisiana, Mississippi, Alabama, and Florida in order to carry out the purposes of the Center.
+"(B) The Center shall be authorized to make grants, accept contributions, and enter into agreements withuniversities located in the States of Texas, Louisiana, Mississippi, Alabama, and Florida in order to carry out the purposes of the Center.
 
 "(4)
 
@@ -416,7 +420,7 @@ Hazardous waste research at the hanford site.—
 
 &emsp;"(A)
 
-Interagency agreements.—The Administrator and the Secretary of Energy are authorized toenter into interagency agreements with one another for the purpose of providing for research, evaluation, testing, development, and demonstration into alternative or innovative technologies to characterize and assess the nature and extent of hazardous waste (including radioactive mixed waste) contamination at the Hanford site, in the State of Washington.
+Interagency agreements.—The Administrator and the Secretary of Energy are authorized to enter into interagency agreements with one another for the purpose of providing for research, evaluation, testing, development, and demonstration into alternative or innovative technologies to characterize and assess the nature and extent of hazardous waste (including radioactive mixed waste) contamination at the Hanford site, in the State of Washington.
 
 &emsp;"(B)
 

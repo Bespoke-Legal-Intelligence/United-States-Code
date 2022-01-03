@@ -4,6 +4,8 @@ The Commissioner of U.S. Customs and Border Protection shall direct customs offi
 
 (June 17, 1930, ch. 497, title IV, §646A, as added Pub. L. 102–519, title IV, §401, Oct. 25, 1992, 106 Stat. 3400; amended Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 "Commissioner of U.S. Customs and Border Protection" substituted for "Commissioner of Customs" in text on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under section 211 of Title 6, Domestic Security.
@@ -14,5 +16,5 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 #### Pilot Study Authorizing Utility of Nondestructive Examination System
 
-Pub. L. 102–519, title IV, §402, Oct. 25, 1992, 106 Stat. 3401, provided that: "The Secretary of the Treasury, acting through the Commissioner of Customs, shall conduct a pilot study of the utility of a nondestructiveexamination system to be used for inspection of containers that may contain automobiles leaving the country for the purpose of determining whether such automobiles have been stolen."
+Pub. L. 102–519, title IV, §402, Oct. 25, 1992, 106 Stat. 3401, provided that: "The Secretary of the Treasury, acting through the Commissioner of Customs, shall conduct a pilot study of the utility of a nondestructive examination system to be used for inspection of containers that may contain automobiles leaving the country for the purpose of determining whether such automobiles have been stolen."
 

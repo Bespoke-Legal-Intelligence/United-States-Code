@@ -28,9 +28,31 @@ Plan Contents.—A State freight plan described in subsection (a) shall include,
 
 &emsp;(8) consideration of any significant congestion or delay caused by freight movements and any strategies to mitigate that congestion or delay;
 
-&emsp;(9) a freight investment plan that, subject to subsection (c)(2), includes a list of priority projects and describes how funds made available to carry out section 167 of title 23 would be invested and matched; and
+&emsp;(9) a freight investment plan that, subject to subsection (c)(2), includes a list of priority projects and describes how funds made available to carry out section 167 of title 23 would be invested and matched;
 
-&emsp;(10) consultation with the State freight advisory committee, if applicable.
+&emsp;(10) the most recent commercial motor vehicle parking facilities assessment conducted by the State under subsection (f);
+
+&emsp;(11) the most recent supply chain cargo flows in the State, expressed by mode of transportation;
+
+&emsp;(12) an inventory of commercial ports in the State;
+
+&emsp;(13) if applicable, consideration of the findings or recommendations made by any multi-State freight compact to which the State is a party under section 70204;
+
+&emsp;(14) the impacts of e-commerce on freight infrastructure in the State;
+
+&emsp;(15) considerations of military freight;
+
+&emsp;(16) strategies and goals to decrease—
+
+&emsp;&emsp;(A) the severity of impacts of extreme weather and natural disasters on freight mobility;
+
+&emsp;&emsp;(B) the impacts of freight movement on local air pollution;
+
+&emsp;&emsp;(C) the impacts of freight movement on flooding and stormwater runoff; and
+
+&emsp;&emsp;(D) the impacts of freight movement on wildlife habitat loss; and
+
+&emsp;(17) consultation with the State freight advisory committee, if applicable.
 
 (c)
 
@@ -46,7 +68,7 @@ Fiscal constraint.—The freight investment plan component of a freight plan sha
 
 (d)
 
-Planning Period.—A State freight plan described in subsection (a) shall address a 5-year forecast period.
+Planning Period.—A State freight plan described in subsection (a) shall address a 8-year forecast period.
 
 (e)
 
@@ -54,13 +76,57 @@ Updates.—
 
 &emsp;(1)
 
-In general.—A State shall update a State freight plan described in subsection (a) not less frequently than once every 5 years.
+In general.—A State shall update a State freight plan described in subsection (a) not less frequently than once every 4 years.
 
 &emsp;(2)
 
 Freight investment plan.—A State may update a freight investment plan described in subsection (b)(9) more frequently than is required under paragraph (1).
 
-(Added Pub. L. 114–94, div. A, title VIII, §8001(a), Dec. 4, 2015, 129 Stat. 1610.)
+(f)
+
+Commercial Motor Vehicle Parking Facilities Assessments.—As part of the development or updating, as applicable, of a State freight plan under this section, each State that receives funding under section 167 of title 23, in consultation with relevant State motor carrier safety personnel, shall conduct an assessment of—
+
+&emsp;(1) the capability of the State, together with the private sector in the State, to provide adequate parking facilities and rest facilities for commercial motor vehicles engaged in interstate transportation;
+
+&emsp;(2) the volume of commercial motor vehicle traffic in the State; and
+
+&emsp;(3) whether there exist any areas within the State with a shortage of adequate commercial motor vehicle parking facilities, including an analysis (economic or otherwise, as the State determines to be appropriate) of the underlying causes of such a shortage.
+
+(g)
+
+Priority.—Each State freight plan under this section shall include a requirement that the State, in carrying out activities under the State freight plan—
+
+&emsp;(1) enhance reliability or redundancy of freight transportation; or
+
+&emsp;(2) incorporate the ability to rapidly restore access and reliability with respect to freight transportation.
+
+(h)
+
+Approval.—
+
+&emsp;(1)
+
+In general.—The Secretary of Transportation shall approve a State freight plan described in subsection (a) if the plan achieves compliance with the requirements of this section.
+
+&emsp;(2)
+
+Savings provision.—Nothing in this subsection establishes new procedural requirements for the approval of a State freight plan described in subsection (a).
+
+(Added Pub. L. 114–94, div. A, title VIII, §8001(a), Dec. 4, 2015, 129 Stat. 1610; amended Pub. L. 117–58, div. B, title I, §21104(a), (c), Nov. 15, 2021, 135 Stat. 658, 659.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2021</b>—Subsec. (b)(10) to (17). Pub. L. 117–58, §21104(a)(1), added pars. (10) to (16) and redesignated former par. (10) as (17).
+
+Subsec. (d). Pub. L. 117–58, §21104(c)(1), substituted "8-year" for "5-year".
+
+Subsec. (e)(1). Pub. L. 117–58, §21104(c)(2), substituted "4 years" for "5 years".
+
+Subsecs. (f) to (h). Pub. L. 117–58, §21104(a)(2), added subsecs. (f) to (h).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

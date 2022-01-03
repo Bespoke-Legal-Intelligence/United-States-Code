@@ -48,7 +48,7 @@ In this title,<sup>1</sup> the term "essential health benefits package" means, w
 
 #### (3) Notice and hearing
 
-&emsp;In defining the essential health benefits described in paragraph (1), and in revising the benefits under paragraph (4)(H), the Secretary shall provide notice and an opportunity for public comment.
+&emsp;In defining the essential health benefits described in paragraph (1), and in revising thebenefits under paragraph (4)(H), the Secretary shall provide notice and an opportunity for public comment.
 
 #### (4) Required elements for consideration
 
@@ -116,7 +116,7 @@ In this title,<sup>1</sup> the term "essential health benefits package" means, w
 
 &emsp;&emsp;&emsp;(i) deductibles, coinsurance, copayments, or similar charges; and
 
-&emsp;&emsp;&emsp;(ii) any other expenditure required of an insured individual which is a qualified medical expense (within the meaning of section 223(d)(2) of title 26) with respect to essential health benefits covered under the plan.
+&emsp;&emsp;&emsp;(ii) any other expenditure required of an insured individual which is a qualified medical expense (within the meaning ofsection 223(d)(2) of title 26) with respect to essential health benefits covered under the plan.
 
 #### (B) Exceptions
 
@@ -210,6 +210,8 @@ If any item or service covered by a qualified health plan is provided by a Feder
 
 (Pub. L. 111–148, title I, §1302, title X, §10104(b), Mar. 23, 2010, 124 Stat. 163, 896; Pub. L. 113–93, title II, §213(a), Apr. 1, 2014, 128 Stat. 1047.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This title, referred to in subsecs. (a), (b)(5), (d)(2)(C), (4), and (e)(2)(B), is title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 130, which enacted this chapter and enacted, amended, and transferred numerous other sections and notes in the Code. For complete classification of title I to the Code, see Tables.
@@ -227,6 +229,8 @@ Subsec. (c)(4). Pub. L. 113–93, §213(a)(2), which directed amendment of par. 
 <b>2010</b>—Subsec. (d)(2)(B). Pub. L. 111–148, §10104(b)(1), substituted "shall issue" for "may issue".
 
 Subsec. (g). Pub. L. 111–148, §10104(b)(2), added subsec. (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

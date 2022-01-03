@@ -14,13 +14,15 @@ Each recipient of such a grant shall comply with requirements that are consisten
 
 #### (d) Grantee application
 
-To be eligible to receive a grant under this section, an entity shall submit an application to the Secretary under section 10407 of this title at such time, in such manner, and containing such information as the Secretary determines to be essential to carry out the objectives and provisions of this chapter. The Secretary shall approve any application that meets requirements consistent with the requirements of section 10406(c) of this title and section 10407(a) of this title.
+To be eligible to receive a grant under this section, an entity shall submit an application to the Secretary under section 10407 of this title at such time, in such manner, and containing such information as the Secretary determines to beessential to carry out the objectives and provisions of this chapter. The Secretary shall approve any application that meets requirements consistent with the requirements of section 10406(c) of this title and section 10407(a) of this title.
 
 #### (e) Use of funds
 
 An amount provided under a grant to an eligible entity shall be used for the services described in section 10408(b) of this title.
 
 (Pub. L. 98–457, title III, §309, as added Pub. L. 111–320, title II, §201, Dec. 20, 2010, 124 Stat. 3496.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

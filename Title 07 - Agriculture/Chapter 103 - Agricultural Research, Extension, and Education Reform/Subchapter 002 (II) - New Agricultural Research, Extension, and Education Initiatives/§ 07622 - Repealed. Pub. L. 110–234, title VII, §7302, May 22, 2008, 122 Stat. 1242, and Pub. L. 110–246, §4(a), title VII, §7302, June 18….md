@@ -2,9 +2,13 @@
 
 Section, Pub. L. 105–185, title IV, §402, June 23, 1998, 112 Stat. 566; Pub. L. 107–171, title VII, §7123, May 13, 2002, 116 Stat. 434, related to partnerships for high-value agricultural product quality research.
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 repealed this section. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of Repeal
 

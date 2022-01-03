@@ -54,6 +54,8 @@ In carrying out his responsibilities under this section, the Secretary of Defens
 
 (Pub. L. 103–160, div. A, title XVII, §1701, Nov. 30, 1993, 107 Stat. 1853; Pub. L. 104–201, div. A, title II, §228, Sept. 23, 1996, 110 Stat. 2460.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1994, and not as part of Pub. L. 91–121, title IV, §409, Nov. 19, 1969, 83 Stat. 209, which comprises this chapter.
@@ -67,6 +69,8 @@ Subsec. (d)(1). Pub. L. 104–201, §228(b)(1), substituted "program for the Dep
 Subsec. (d)(2). Pub. L. 104–201, §228(b)(2), in first sentence, inserted "(other than for activities under the program conducted by the Defense Advanced Research Projects Agency under subsection (c)(2))" after "requests for the program".
 
 Subsec. (d)(3), (4). Pub. L. 104–201, §228(b)(3), (4), added par. (3) and redesignated former par. (3) as (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Implementation of GAO Recommendations on Preparedness of United States Forces To Counter North Korean Chemical and Biological Weapons
 
@@ -118,7 +122,7 @@ Nonimplementation.—The Secretary of Defense may decide not to implement a reco
 
 #### National Bio-Weapons Defense Analysis Center
 
-Pub. L. 107–296, title XVII, §1708, Nov. 25, 2002, 116 Stat. 2318, provided that: "There is established in the Department of Defense a National Bio-Weapons Defense Analysis Center, whose mission is to develop countermeasures to potential attacks by terrorists using weapons of mass destruction."
+Pub. L. 107–296, title XVII, §1708, Nov. 25, 2002, 116 Stat. 2318, provided that: "There is established in the Department of Defense a National Bio-Weapons DefenseAnalysis Center, whose mission is to develop countermeasures to potential attacks by terrorists using weapons of mass destruction."
 
 \[For transfer of functions, personnel, assets, and liabilities of the National Bio-Weapons Defense Analysis Center of the Department of Defense, including the functions of the Secretary of Defense related thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 183(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
@@ -154,7 +158,7 @@ Objectives.—The objectives for the modification of policies and doctrines of t
 
 &emsp;"(2) To provide for—
 
-&emsp;&emsp;"(A) the prevention of and protection against, and the detection (including confirmation) of, exposures to a chemical warfare agent (whether intentional or inadvertent) at levels that, even if not sufficient to endanger health immediately, are greater than the level that is recognized under Department of Defense policies as being the maximum safe levelof exposure to that agent for the general population; and
+&emsp;&emsp;"(A) the prevention of and protection against, and the detection (including confirmation) of, exposures to a chemical warfare agent (whether intentional or inadvertent) at levels that, even if not sufficient to endanger health immediately, are greater than the level that is recognized under Department of Defense policies as being the maximum safe level of exposure to that agent for the general population; and
 
 &emsp;&emsp;"(B) the recording, reporting, coordinating, and retaining of information on possible exposures described in subparagraph (A), including the monitoring of the health effects of exposures on humans and animals, environmental effects, and ecological effects, and the documenting and reporting of those effects specifically by location.
 
@@ -218,7 +222,7 @@ Sense of congress.—It is the sense of Congress that the facility considered un
 
 &emsp;&emsp;"(i) be under the jurisdiction of the Secretary of Defense; and
 
-&emsp;&emsp;"(ii) be located at a principal facility of the Department of Defense for the testing and evaluation of the use of chemical and biological weapons during any period of armed conflict."
+&emsp;&emsp;"(ii) be located at a principal facility of the Department of Defense for the testing and evaluationof the use of chemical and biological weapons during any period of armed conflict."
 
 #### Consolidation of Chemical and Biological Defense Training Activities
 

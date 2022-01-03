@@ -1,8 +1,10 @@
 ### §1205. General authority of Secretary for conducting studies, research, and investigations unaffected
 
-Nothing in this chapter shall be construed to alter, amend, repeal, modify, or diminish the present general authority of the Secretary of Commerce to conduct studies, research, and investigations related to the mission of the Department of Commerce.
+Nothing in this chapter shall be construed to alter, amend, repeal, modify, or diminish thepresent general authority of the Secretary of Commerce to conduct studies, research, and investigations related to the mission of the Department of Commerce.
 
 (Pub. L. 89–720, §5, Nov. 2, 1966, 80 Stat. 1149; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

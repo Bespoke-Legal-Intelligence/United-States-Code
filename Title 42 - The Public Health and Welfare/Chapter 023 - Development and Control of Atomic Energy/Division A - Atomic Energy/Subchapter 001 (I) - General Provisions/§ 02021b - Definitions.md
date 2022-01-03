@@ -74,9 +74,15 @@ For purposes of sections 2021b to 2021j of this title:
 
 (Pub. L. 96–573, §2, as added Pub. L. 99–240, title I, §102, Jan. 15, 1986, 99 Stat. 1842; amended Pub. L. 109–58, title VI, §651(e)(3)(B), Aug. 8, 2005, 119 Stat. 808.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Low-Level Radioactive Waste Policy Act, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
+
+#### Constitutionality
+
+For constitutionality of certain provisions of Low-Level Radioactive Waste Policy Act \[sections 2021b to 2021j of this title\], see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
 #### Prior Provisions
 
@@ -85,6 +91,8 @@ A prior section 2021b, Pub. L. 96–573, §2, Dec. 22, 1980, 94 Stat. 3347, rela
 #### Amendments
 
 <b>2005</b>—Par. (9). Pub. L. 109–58 designated existing provisions as subpar. (A), inserted heading, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, and added subpar. (B).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 1986 Amendment
 

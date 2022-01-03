@@ -30,7 +30,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (C) Exchange visitors
 
-&emsp;&emsp;If the alien was at any time a nonimmigrant exchange alien (as defined in section 1101(a)(15)(J) of this title), the alien must establish that the alien was not subject to the two-year foreign residence requirement of section 1182(e) of this title or has fulfilled that requirement or received a waiver thereof.
+&emsp;&emsp;If the alien was at any time a nonimmigrant exchange alien (as defined in section 1101(a)(15)(J) of this title), the alienmust establish that the alien was not subject to the two-year foreign residence requirement of section 1182(e) of this title or has fulfilled that requirement or received a waiver thereof.
 
 #### (3) Continuous physical presence since November 6, 1986
 
@@ -254,7 +254,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (1) Before application period
 
-&emsp;The Attorney General shall provide that in the case of an alien who is apprehended before the beginning of the application period described in subsection (a)(1)(A) and who can establish a prima facie case of eligibility to have his status adjusted under subsection (a) (but for the fact that he may not apply for such adjustment until the beginning of such period), until the alien has had the opportunity during the first 30 days of the application period to complete the filing of an application for adjustment, the alien—
+&emsp;The Attorney General shall provide that in the case of an alien who is apprehended before the beginning of the application period described in subsection (a)(1)(A) and who can establish a prima facie case of eligibility to havehis status adjusted under subsection (a) (but for the fact that he may not apply for such adjustment until the beginning of such period), until the alien has had the opportunity during the first 30 days of the application period to complete the filing of an application for adjustment, the alien—
 
 &emsp;&emsp;(A) may not be deported, and
 
@@ -330,7 +330,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (C) Waivers of certain absences
 
-&emsp;&emsp;The Attorney General may provide for a waiver, in the discretion of the Attorney General, of the periods specified under subparagraph (A) in the case of an absence from the United States due merely to a brief temporary trip abroad required by emergency or extenuating circumstances outside the control of the alien.
+&emsp;&emsp;The Attorney General may provide for a waiver, in the discretion of the Attorney General, of the periods specified under subparagraph (A) in the case of an absence fromthe United States due merely to a brief temporary trip abroad required by emergency or extenuating circumstances outside the control of the alien.
 
 #### (D) Use of certain documentation
 
@@ -402,7 +402,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (4) Treatment of certain programs
 
-&emsp;Assistance furnished under any of the following provisions of law shall not be construedto be financial assistance described in paragraph (1)(A)(i):
+&emsp;Assistance furnished under any of the following provisions of law shall not be construed to be financial assistance described in paragraph (1)(A)(i):
 
 &emsp;&emsp;(A) The Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\].
 
@@ -458,7 +458,7 @@ The Richard B. Russell National School Lunch Act, referred to in subsec. (h)(4)(
 
 The Child Nutrition Act of 1966, referred to in subsec. (h)(4)(B), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
 
-The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (h)(4)(C), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
+The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (h)(4)(C), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification ofthis Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (h)(4)(D), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
@@ -614,7 +614,7 @@ Pub. L. 103–416, title I, §109, Oct. 25, 1994, 108 Stat. 4310, provided that 
 
 #### Family Unity
 
-Pub. L. 101–649, title III, §301, Nov. 29, 1990, 104 Stat. 5029, as amended by Pub. L. 101–649, title VI, §603(a)(23), Nov. 29, 1990, 104 Stat. 5084; Pub. L. 103–416, title II, §206(a), Oct. 25, 1994, 108 Stat. 4311; Pub. L. 104–208, div. C, title III, §§308(d)(4)(R), (e)(2)(H), (16), (g)(1), (7)(E)(ii), 383(a), Sept. 30, 1996, 110 Stat. 3009–619 to 3009–622, 3009–624, 3009–652, provided that:
+Pub. L. 101–649, title III, §301, Nov. 29, 1990, 104 Stat. 5029, as amended by Pub. L. 101–649, title VI, §603(a)(23),Nov. 29, 1990, 104 Stat. 5084; Pub. L. 103–416, title II, §206(a), Oct. 25, 1994, 108 Stat. 4311; Pub. L. 104–208, div. C, title III, §§308(d)(4)(R), (e)(2)(H), (16), (g)(1), (7)(E)(ii), 383(a), Sept. 30, 1996, 110 Stat. 3009–619 to 3009–622, 3009–624, 3009–652, provided that:
 
 "(a)
 
@@ -704,7 +704,7 @@ Similar provisions were contained in Pub. L. 100–202, §101(a) \[title IX, §�
 
 #### Procedures for Property Acquisition or Leasing
 
-Pub. L. 99–603, title II, §201(c)(1), Nov. 6, 1986, 100 Stat. 3403, provided that notwithstanding Federal Property and Administrative Services Act of 1949 \[see chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts\], the Attorney General was authorized for period of up to two years after effective date of legalization program, to expend from appropriation provided for administration and enforcement of this chapter, such amounts necessary for leasing or acquisition of property in fulfillment of section 201 of Pub. L. 99–603, which enacted this section and amended sections 602, 672, and 673 of Title 42, The Public Health and Welfare.
+Pub. L. 99–603, title II, §201(c)(1), Nov. 6, 1986, 100 Stat. 3403, provided that notwithstanding Federal Propertyand Administrative Services Act of 1949 \[see chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts\], the Attorney General was authorized for period of up to two years after effective date of legalization program, to expend from appropriation provided for administration and enforcement of this chapter, such amounts necessary for leasing or acquisition of property in fulfillment of section 201 of Pub. L. 99–603, which enacted this section and amended sections 602, 672, and 673 of Title 42, The Public Health and Welfare.
 
 #### Use of Retired Federal Employees
 

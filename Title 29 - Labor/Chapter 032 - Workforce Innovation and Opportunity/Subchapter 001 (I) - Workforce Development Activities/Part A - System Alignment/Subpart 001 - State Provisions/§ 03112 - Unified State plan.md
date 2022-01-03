@@ -108,7 +108,7 @@ For a State to be eligible to receive allotments for the core programs, the Gove
 
 &emsp;&emsp;&emsp;&emsp;(V) how the eligible agency will assess the quality of providers of adult education and literacy activities under subchapter II and take actions to improve such quality, including providing the activities described in section 3303(a)(1)(B) of this title;
 
-&emsp;&emsp;&emsp;(iii) with respect to programs carried out under title I of the Rehabilitation Act of1973 (29 U.S.C. 720 et seq.), other than section 112 or part C of that title (29 U.S.C. 732, 741), the information described in section 101(a) of that Act (29 U.S.C. 721(a)); and
+&emsp;&emsp;&emsp;(iii) with respect to programs carried out under title I of the Rehabilitation Act of 1973 (29 U.S.C. 720 et seq.), other than section 112 or part C of that title (29 U.S.C. 732, 741), the information described in section 101(a) of that Act (29 U.S.C. 721(a)); and
 
 &emsp;&emsp;&emsp;(iv) information on such additional specific requirements for a program referenced in any of clauses (i) through (iii) or the Wagner-Peyser Act (29 U.S.C. 49 et seq.) as the Secretary of Labor determines to be necessary to administer that program but cannot reasonably be applied across all such programs.
 
@@ -162,7 +162,7 @@ For a State to be eligible to receive allotments for the core programs, the Gove
 
 #### (A) Submission
 
-&emsp;&emsp;In approving a unified State plan under this section, the Secretary shall submit the portion of the unified State plan covering a program or activity to the head of the Federal agency that administers the program or activity for the approval of such portion by such head.
+&emsp;&emsp;In approving a unified State plan under this section, the Secretary shall submit theportion of the unified State plan covering a program or activity to the head of the Federal agency that administers the program or activity for the approval of such portion by such head.
 
 #### (B) Approval
 

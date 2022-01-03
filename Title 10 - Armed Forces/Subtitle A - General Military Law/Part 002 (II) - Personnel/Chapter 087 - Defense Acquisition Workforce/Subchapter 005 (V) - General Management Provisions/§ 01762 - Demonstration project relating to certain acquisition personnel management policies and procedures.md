@@ -70,7 +70,7 @@ Assessments.—(1) The Secretary of Defense shall designate an independent organ
 
 &emsp;(L) Whether there is a process for ensuring employee involvement in the development and improvement of the project.
 
-(3) The first assessment under this subsection shall be completed not later than September 30, 2012. The second and final assessment shall be completed not later than September 30, 2016. The Secretary shall submit to the covered congressional committees a copy of each assessment within 30 days after receipt by the Secretary of the assessment.
+(3) The first assessment under this subsection shall be completed not later than September 30, 2012. The second and final assessment shall be completed not later than September 30, 2016.The Secretary shall submit to the covered congressional committees a copy of each assessment within 30 days after receipt by the Secretary of the assessment.
 
 (f)
 
@@ -84,13 +84,15 @@ Covered Congressional Committees.—In this section, the term "covered congressi
 
 (g)
 
-Termination of Authority.—The authority to conduct a demonstration project under this section shall terminate on December 31, 2023.
+Termination of Authority.—The authority to conduct a demonstration project under this section shall terminate on December 31, 2026.
 
 (h)
 
 Conversion.—Within 6 months after the authority to conduct a demonstration project under this section is terminated as provided in subsection (g), employees in the project shall convert to the civilian personnel system created pursuant to section 9902 of title 5.
 
-(Added Pub. L. 111–383, div. A, title VIII, §872(a)(1), Jan. 7, 2011, 124 Stat. 4300; amended Pub. L. 114–92, div. A, title VIII, §846, Nov. 25, 2015, 129 Stat. 916; Pub. L. 114–328, div. A, title VIII, §867(a), Dec. 23, 2016, 130 Stat. 2306; Pub. L. 115–91, div. A, title VIII, §844(a), (b), Dec. 12, 2017, 131 Stat. 1482; Pub. L. 116–92, div. A, title XVII, §1731(a)(27), Dec. 20, 2019, 133 Stat. 1813.)
+(Added Pub. L. 111–383, div. A, title VIII, §872(a)(1), Jan. 7, 2011, 124 Stat. 4300; amended Pub. L. 114–92, div. A, title VIII, §846, Nov. 25, 2015, 129 Stat. 916; Pub. L. 114–328, div. A, title VIII, §867(a), Dec. 23, 2016, 130 Stat. 2306; Pub. L. 115–91, div. A, title VIII, §844(a), (b), Dec. 12, 2017, 131 Stat. 1482; Pub. L. 116–92, div. A, title XVII, §1731(a)(27), Dec. 20, 2019, 133 Stat. 1813; Pub. L. 117–81, div. A, title VIII, §812, Dec. 27, 2021, 135 Stat. 1823.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -99,6 +101,8 @@ A prior section 1762, added Pub. L. 101–510, div. A, title XII, §1202(a), Nov
 Provisions similar to those in this section were contained in Pub. L. 104–106, div. D, title XLIII, §4308, Feb. 10, 1996, 110 Stat. 669, which was set out as a note under section 1701 of this title, prior to repeal by Pub. L. 111–383, §872(b).
 
 #### Amendments
+
+<b>2021</b>—Subsec. (g). Pub. L. 117–81 substituted "December 31, 2026" for "December 31, 2023".
 
 <b>2019</b>—Subsec. (c). Pub. L. 116–92 substituted "at any one time in" for "in at any one time".
 
@@ -109,6 +113,8 @@ Subsec. (g). Pub. L. 115–91, §844(a), substituted "December 31, 2023" for "De
 <b>2016</b>—Subsec. (b)(4). Pub. L. 114–328 added par. (4).
 
 <b>2015</b>—Subsec. (g). Pub. L. 114–92 substituted "demonstration project" for "demonstration program" and "December 31, 2020" for "September 30, 2017".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2016 Amendment
 

@@ -6,7 +6,7 @@ There is established, as an independent office within the legislative branch of 
 
 #### (b) Board of Directors
 
-The Office shall have a Board of Directors. The Board shall consist of 5 individuals appointedjointly by the Speaker of the House of Representatives, the Majority Leader of the Senate, and the Minority Leaders of the House of Representatives and the Senate, who are authorized to take such steps as they consider appropriate to ensure the timely appointment of the members of the Board consistent with the requirements of this section. Appointments of the first 5 members of the Board shall be completed not later than 90 days after January 23, 1995.
+The Office shall have a Board of Directors. The Board shall consist of 5 individuals appointed jointly by the Speaker of the House of Representatives, the Majority Leader of the Senate, and the Minority Leaders of the House of Representatives and the Senate, who are authorized to take such steps as they consider appropriate to ensure the timely appointment of the members of the Board consistent with the requirements of this section. Appointments of the first 5 members of the Board shall be completed not later than 90 days after January 23, 1995.
 
 #### (c) Chair
 
@@ -238,7 +238,7 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 Pub. L. 115–397, title II, §201(a)(2), Dec. 21, 2018, 132 Stat. 5316, provided that: "The amendment made by paragraph (1)(B) \[amending this section\] shall take effect on January 1, 2019."
 
-Pub. L. 115–397, title III, §308(d), Dec. 21, 2018, 132 Stat. 5326, provided that: "The amendments made by this section \[amending this section and sections 1301,1331, 1341, 1351, and 1384 of this title\] shall take effect on the date of the enactment of this Act \[Dec. 21, 2018\]. Any reference to the Office of Compliance in any law, rule, regulation, or other official paper in effect as of such date shall be considered to refer and apply to the Office of Congressional Workplace Rights."
+Pub. L. 115–397, title III, §308(d), Dec. 21, 2018, 132 Stat. 5326, provided that: "The amendments made by this section \[amending this section and sections 1301, 1331, 1341, 1351, and 1384 of this title\] shall take effect on the date of the enactment of this Act \[Dec. 21, 2018\]. Any reference to the Office of Compliance in any law, rule, regulation, or other official paper in effect as of such date shall be considered to refer and apply to the Office of Congressional Workplace Rights."
 
 Except as otherwise provided, amendment by Pub. L. 115–397 effective upon expiration of the 180-day period beginning on Dec. 21, 2018, with provisions for effect on pending proceedings, see section 401 of Pub. L. 115–397, set out as a note under section 1301 of this title.
 
@@ -278,7 +278,7 @@ Service of Current Members.—Notwithstanding the second sentence of section 301
 
 Pub. L. 114–6, §3, Mar. 20, 2015, 129 Stat. 82, provided that: "Notwithstanding section 301(e)(1) of the Congressional Accountability Act of 1995 (2 U.S.C. 1381(e)(1)), any individual serving as a member of the Board of Directors of the Office of Compliance \[now Office of Congressional Workplace Rights\] as of February 28, 2015, may be appointed to serve for one additional term of 2 years."
 
-Pub. L. 111–114, §1, Dec. 14, 2009, 123 Stat. 3028, provided that: "Notwithstanding the second sentence of section 301(e)(1) of the Congressional Accountability Act of 1995 (2 U.S.C. 1381(e)(1)), any individual serving as a member of the Board of Directors of the Office of Compliance \[now Office of Congressional Workplace Rights\] as of September 30, 2009, may serve for 3 terms."
+Pub. L. 111–114, §1, Dec. 14, 2009, 123 Stat. 3028, provided that: "Notwithstanding the second sentence of section 301(e)(1) of the Congressional Accountability Act of 1995 (2 U.S.C. 1381(e)(1)), any individual servingas a member of the Board of Directors of the Office of Compliance \[now Office of Congressional Workplace Rights\] as of September 30, 2009, may serve for 3 terms."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

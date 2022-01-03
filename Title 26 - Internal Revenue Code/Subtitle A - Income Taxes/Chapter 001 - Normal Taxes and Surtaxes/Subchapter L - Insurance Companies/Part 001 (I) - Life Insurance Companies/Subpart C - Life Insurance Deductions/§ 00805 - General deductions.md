@@ -48,7 +48,7 @@ For purposes of this part, there shall be allowed the following deductions:
 
 #### (ii) Treatment of dividends from noninsurance companies
 
-&emsp;&emsp;&emsp;The term "100 percent dividend" does not include any distribution by a corporation which is not an insurance company to the extent such distribution is out of tax-exempt interest, or out of the increase for the taxable year in policy cash values (within the meaning of subparagraph (F)) of life insurance policies and annuity andendowment contracts to which section 264(f) applies, or out of dividends which are not 100 percent dividends (determined with the application of this clause as if it applies to distributions by all corporations including insurance companies).
+&emsp;&emsp;&emsp;The term "100 percent dividend" does not include any distribution by a corporation which is not an insurance company to the extent such distribution is out of tax-exempt interest, or out of the increase for the taxable year in policy cash values (within the meaning of subparagraph (F)) of life insurance policies and annuity and endowment contracts to which section 264(f) applies, or out of dividends which are not 100 percent dividends (determined with the application of this clause as if it applies to distributions by all corporations including insurance companies).
 
 #### (D) Special rules for certain dividends from insurance companies
 
@@ -170,6 +170,8 @@ The modifications referred to in subsection (a)(8) are as follows:
 
 (Added Pub. L. 98–369, div. A, title II, §211(a), July 18, 1984, 98 Stat. 722; amended Pub. L. 99–514, title VI, §611(a)(5), title VIII, §805(c)(6), title X, §1011(b)(4), title XVIII, §1821(p), Oct. 22, 1986, 100 Stat. 2249, 2362, 2389, 2842; Pub. L. 100–203, title X, §10221(c)(2), Dec. 22, 1987, 101 Stat. 1330–409; Pub. L. 104–188, title I, §1702(h)(3), Aug. 20, 1996, 110 Stat. 1873; Pub. L. 105–34, title X, §1084(b)(1), Aug. 5, 1997, 111 Stat. 954; Pub. L. 113–295, div. A, title II, §221(a)(41)(G), (I), Dec. 19, 2014, 128 Stat. 4044; Pub. L. 115–97, title I, §§13511(a), (b)(4)–(6), 13512(b)(5), (6), Dec. 22, 2017, 131 Stat. 2142, 2143.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Another section 1084(b) of Pub. L. 105–34 amended sections 101 and 264 of this title.
@@ -224,13 +226,15 @@ Subsec. (a)(4)(F). Pub. L. 105–34, §1084(b)(1)(C), added subpar. (F).
 
 Subsec. (a)(4)(B)(i). Pub. L. 99–514, §1011(b)(4), struck out "the special life insurance company deduction and" before "the small life".
 
-Subsec. (a)(4)(C) to (E). Pub. L. 99–514, §1821(p), added subpars. (C) and (D), redesignated former subpar. (D) as (E), and struck out former subpar. (C) which read as follows: "For purposes of subparagraph (A), the term '100 percent dividend' means any dividend if the percentage used for purposes of determining the deduction allowable under section 243 or 244 is 100 percent. Suchterm does not include any dividend to the extent it is a distribution out of tax-exempt interest or out of dividends which are not 100 percent dividends (determined with the application of this sentence)."
+Subsec. (a)(4)(C) to (E). Pub. L. 99–514, §1821(p), added subpars. (C) and (D), redesignated former subpar. (D) as (E), and struck out former subpar. (C) which read as follows: "For purposes of subparagraph (A), the term '100 percent dividend' means any dividend if the percentage used for purposes of determining the deduction allowable under section 243 or 244 is 100 percent. Such term does not include any dividend to the extent it is a distribution out of tax-exempt interest or out of dividends which are not 100 percent dividends (determined with the application of this sentence)."
 
 Subsec. (b)(2). Pub. L. 99–514, §805(c)(6), redesignated par. (3) as (2). Former par. (2), which provided that section 166(c) (relating to reserve for bad debts) shall not apply, was struck out.
 
 Subsec. (b)(2)(A)(iii). Pub. L. 99–514, §1011(b)(4), which directed that subsec. (b)(3)(A)(iii) be amended by striking out "the special life insurance company deduction and" before "the small life", was executed to subsec. (b)(2)(A)(iii) to reflect the probable intent of Congress and the redesignation of subsec. (b)(3) as (b)(2) by Pub. L. 99–514, §805(c)(6).
 
 Subsec. (b)(3) to (6). Pub. L. 99–514, §805(c)(6), redesignated pars. (3) to (6) as (2) to (5), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 
@@ -240,7 +244,7 @@ Amendment by section 13512(b)(5), (6) of Pub. L. 115–97 applicable to taxable 
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–295 not applicable to preferred stock issued before Oct. 1, 1942 (determined in the same manner as under section 247 of this title as in effect before its repeal by Pub. L. 113–295), see section 221(a)(41)(K) of Pub. L. 113–295, set out as a note under section 172 of this title.
+Amendment by Pub. L. 113–295 not applicable to preferred stock issued before Oct. 1, 1942 (determined inthe same manner as under section 247 of this title as in effect before its repeal by Pub. L. 113–295), see section 221(a)(41)(K) of Pub. L. 113–295, set out as a note under section 172 of this title.
 
 Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 

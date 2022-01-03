@@ -10,6 +10,8 @@ The financial transactions of participating jurisdictions and of other recipient
 
 (Pub. L. 101–625, title II, §283, Nov. 28, 1990, 104 Stat. 4125; Pub. L. 103–233, title II, §205, Apr. 11, 1994, 108 Stat. 364; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Subsec. (b). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office" in two places.
@@ -25,6 +27,8 @@ Pub. L. 103–233, §205(2), struck out heading and text of subsec. (a). Text re
 Subsec. (b). Pub. L. 103–233, §205(3), struck out heading "
 
 Audits by the Comptroller General.—", redesignated subsec. (b)(2) as (b), and realigned margins.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

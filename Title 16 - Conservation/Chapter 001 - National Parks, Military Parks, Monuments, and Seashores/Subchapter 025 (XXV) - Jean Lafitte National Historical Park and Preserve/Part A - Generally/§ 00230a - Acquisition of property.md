@@ -16,7 +16,7 @@
 
 #### (ii) Boundary adjustment
 
-&emsp;&emsp;&emsp;On the date on which the Secretary acquires a parcel of land described in clause (i), the boundary of the Barataria Preserve Unit shall be adjusted to reflect the acquisition.
+&emsp;&emsp;&emsp;On the date on which the Secretary acquires a parcel of land described in clause\(i), the boundary of the Barataria Preserve Unit shall be adjusted to reflect the acquisition.
 
 #### (iii) Easements
 
@@ -64,6 +64,8 @@ The Secretary is authorized to acquire lands or interests in lands by donation, 
 
 (Pub. L. 95–625, title IX, §902, Nov. 10, 1978, 92 Stat. 3535; Pub. L. 96–87, title IV, §401(q)(1), Oct. 12, 1979, 93 Stat. 666; Pub. L. 100–250, §1(b), Feb. 16, 1988, 102 Stat. 16; Pub. L. 111–11, title VII, §7105(b), (f)(2)(B), Mar. 30, 2009, 123 Stat. 1191, 1193.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2009</b>—Subsec. (a). Pub. L. 111–11, §7105(b)(1), inserted heading, inserted par. (1) designation and heading and substituted text of par. (1) for "Within the Barataria Marsh Unit the Secretary is authorized to acquire not to exceed eight thousand six hundred acres of lands, waters, and interests therein (hereinafter referred to as the 'core area'), as depicted on the map referred to in section 230 of this title, by donation, purchase with donated or appropriated funds, or exchange.", inserted par. (2) designation and heading and substituted "The Secretary may acquire by any of the methods referred to in paragraph (1)(A)" for "The Secretary may also acquire by any of the foregoing methods", inserted par. (3) designation and heading and substituted "Land, water, and interests in land and water" for "Lands, waters, and interests therein", and inserted par. (4) designation and heading.
@@ -76,7 +78,7 @@ Pub. L. 111–11, §7105(b)(2), struck out subsec. (d). Prior to amendment, text
 
 Subsecs. (e), (f). Pub. L. 111–11, §7105(b)(2), struck out subsecs. (e) and (f) which read as follows:
 
-"(e) The Secretary, upon the failure of the State or local units of government to enact rules pursuant to subsection (b) of this section or enforce such rules so asto protect the values enumerated in subsection (c) of this section, may acquire such lands, servitudes, or interests in lands within the park protection zone as he deems necessary to protect the values enumerated in subsection (c) of this section.
+"(e) The Secretary, upon the failure of the State or local units of government to enact rules pursuant to subsection (b) of this section or enforce such rules so as to protect the values enumerated in subsection (c) of this section, may acquire such lands, servitudes, or interests in lands within the park protection zone as he deems necessary to protect the values enumerated in subsection (c) of this section.
 
 "(f) The Secretary may revise the boundaries of the park protection zone, notwithstanding any other provision of law, to include or exclude properties, but only with the consent of Jefferson Parish."
 
@@ -85,6 +87,8 @@ Subsec. (g). Pub. L. 111–11, §7105(b)(3), redesignated subsec. (g) as (d).
 <b>1988</b>—Subsec. (g). Pub. L. 100–250 added subsec. (g).
 
 <b>1979</b>—Subsec. (a). Pub. L. 96–87 substituted "eight thousand six hundred acres" for "eight thousand acres".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

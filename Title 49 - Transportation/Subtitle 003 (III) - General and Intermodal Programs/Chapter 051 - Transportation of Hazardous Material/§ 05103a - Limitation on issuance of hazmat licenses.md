@@ -8,7 +8,7 @@ Limitation.—
 
 Issuance of licenses.—A State may not issue to any individual a license to operate a motor vehicle transporting in commerce a hazardous material unless—
 
-&emsp;&emsp;(A) "the Secretary of Homeland Security"; <sup>1</sup> has first determined, upon receipt of a notification under subsection (d)(1)(B),that the individual does not pose a security risk warranting denial of the license; or
+&emsp;&emsp;(A) "the Secretary of Homeland Security"; <sup>1</sup> has first determined, upon receipt of a notification under subsection (d)(1)(B), that the individual does not pose a security risk warranting denial of the license; or
 
 &emsp;&emsp;(B) the individual holds a valid transportation security card issued under section 70105 of title 46.
 
@@ -72,7 +72,7 @@ Employer notification.—Not later than 90 days after the date of enactment of t
 
 &emsp;&emsp;&emsp;(i) such notification is appropriate considering the potential security implications; and
 
-&emsp;&emsp;&emsp;(ii) the Director, in a final notification of threat assessment,<sup>2</sup> served on the applicant <sup>2</sup> determines that the applicant does not meet the standards set forth in regulations issued to carry out this section.
+&emsp;&emsp;&emsp;(ii) the Director, in a final notification of threat assessment,<sup>2</sup> served on the applicant <sup>2</sup> determines that the applicant doesnot meet the standards set forth in regulations issued to carry out this section.
 
 &emsp;&emsp;(B)
 
@@ -146,6 +146,8 @@ Commercial motor vehicle defined.—In this subsection, the term "commercial mot
 
 (Added Pub. L. 107–56, title X, §1012(a)(1), Oct. 26, 2001, 115 Stat. 396; amended Pub. L. 109–59, title VII, §§7104, 7105, 7126, Aug. 10, 2005, 119 Stat. 1894, 1909; Pub. L. 110–53, title XV, §1556(a), Aug. 3, 2007, 121 Stat. 475; Pub. L. 110–244, title III, §302(b), June 6, 2008, 122 Stat. 1618; Pub. L. 115–254, div. K, title I, §1978, Oct. 5, 2018, 132 Stat. 3618.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 101(a)(3) of the Immigration and Nationality Act, referred to in subsec. (f), is classified to section 1101(a)(3) of Title 8, Aliens and Nationality.
@@ -191,6 +193,8 @@ Pub. L. 109–59, §7104(b)(1), redesignated subsec. (d) as (e). Former subsec. 
 Subsec. (f). Pub. L. 109–59, §7104(b)(1), redesignated subsec. (e) as (f).
 
 Subsecs. (g), (h). Pub. L. 109–59, §7105, added subsecs. (g) and (h).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Authorization of Appropriations
 

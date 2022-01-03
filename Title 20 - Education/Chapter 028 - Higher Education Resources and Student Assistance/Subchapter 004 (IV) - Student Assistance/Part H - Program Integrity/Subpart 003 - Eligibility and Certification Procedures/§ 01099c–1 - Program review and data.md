@@ -38,7 +38,7 @@ In carrying out paragraphs (1) and (2) of subsection (a) and any other relevant 
 
 &emsp;(1) establish guidelines designed to ensure uniformity of practice in the conduct of program reviews of institutions of higher education;
 
-&emsp;(2) make available to each institution participating in programs authorized under this subchapter complete copies of all review guidelines and procedures used in program reviews;
+&emsp;(2) make available to each institution participating in programs authorized under this subchapter complete copies of all reviewguidelines and procedures used in program reviews;
 
 &emsp;(3) permit the institution to correct or cure an administrative, accounting, or recordkeeping error if the error is not part of a pattern of error and there is no evidence of fraud or misconduct related to the error;
 
@@ -72,6 +72,8 @@ The provisions of section 3403(b) of this title shall not apply to Secretarial d
 
 (Pub. L. 89–329, title IV, §498A, as added Pub. L. 102–325, title IV, §499, July 23, 1992, 106 Stat. 652; amended Pub. L. 103–208, §2(i)(15), Dec. 20, 1993, 107 Stat. 2480; Pub. L. 105–244, title IV, §494, Oct. 7, 1998, 112 Stat. 1763; Pub. L. 110–315, title IV, §497, Aug. 14, 2008, 122 Stat. 3328.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (b)(6) to (8). Pub. L. 110–315 added pars. (6) to (8).
@@ -99,6 +101,8 @@ Subsec. (b). Pub. L. 105–244, §494(2), amended heading and text of subsec. (b
 "(2) The Secretary shall review the regulations of the Department and the application of such regulations to ensure the uniformity of interpretation and application of the regulations."
 
 <b>1993</b>—Subsec. (e). Pub. L. 103–208 struck out comma after "title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

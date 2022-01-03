@@ -22,7 +22,7 @@
 
 &emsp;(D) to construct, acquire, or contract for the use of storage and shipping facilities on and off the reserves and pipelines and associated facilities on and off the reserves for transporting petroleum from such reserves to the points where the production from such reserves will be refined or shipped.
 
-> Any pipeline in the vicinity of a naval petroleum reserve not otherwise operated as a common carrier may be acquired by the Secretary by condemnation, if necessary, if the owner thereof refuses to accept, convey, and transport without discrimination and at reasonable rates any petroleum produced at such reserve. With the approval of the Secretary, rights-of-way for new pipelines and associated facilities may be acquired by the exercise of the right of eminent domain in the appropriate United States district court. Such rights-of-way may be acquired in the manner set forth in sections 3114–3116 and3118 of title 40, and the prospective holder of the right-of-way is "the authority empowered by law to acquire the land" within the meaning of those sections. Such new pipelines shall accept, convey, and transport without discrimination and at reasonable rates any petroleum produced at such reserves as a common carrier.
+> Any pipeline in the vicinity of a naval petroleum reserve not otherwise operated as a common carrier may be acquired by the Secretary by condemnation, if necessary, if the owner thereof refuses to accept, convey, and transport without discrimination and at reasonable rates any petroleum produced at such reserve. With the approval of the Secretary, rights-of-way for new pipelines and associated facilities may be acquired by the exercise of the right of eminent domain in the appropriate United States district court. Such rights-of-way may be acquired in the manner set forth in sections 3114–3116 and 3118 of title 40, and the prospective holder of the right-of-way is "the authority empowered by law to acquire the land" within the meaning of those sections. Such new pipelines shall accept, convey, and transport without discrimination and at reasonable rates any petroleum produced at such reserves as a common carrier.
 
 (2) After April 5, 1982, the President may extend the period of production in the case of any naval petroleum reserve for additional periods of not to exceed three years each—
 
@@ -32,7 +32,7 @@
 
 &emsp;(C) if neither House of Congress within ninety days after receipt of such report and certification adopts a resolution disapproving further production from such naval petroleum reserve.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 458, §7422; Pub. L. 87–599, §1, Aug. 24, 1962, 76 Stat. 401; Pub. L. 87–796, §1(2), Oct. 11, 1962, 76 Stat. 904; Pub. L. 94–258, title II, §201(3), Apr. 5, 1976, 90 Stat. 307; Pub. L. 96–137, §3(a), Dec. 12, 1979, 93 Stat. 1061; Pub. L. 96–513, title V, §513(31), Dec. 12, 1980, 94 Stat. 2933; Pub. L. 98–525, title XIV, §1405(51), Oct. 19, 1984, 98 Stat. 2625; Pub. L. 99–413, §1(a), Aug. 29, 1986, 100 Stat. 944; Pub. L. 100–202, §101(g) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–213, 1329–242; Pub. L. 101–189, div. A, title XVI, §1622(f)(2), Nov. 29, 1989, 103 Stat. 1605; Pub. L. 107–217, §3(b)(30), Aug. 21, 2002, 116 Stat. 1297; Pub. L. 108–178, §4(b)(6), Dec. 15, 2003, 117 Stat. 2641; renumbered §8722 and amended Pub. L. 115–232, div. A, title VIII, §§807(d)(5), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 458, §7422; Pub. L. 87–599, §1, Aug. 24, 1962, 76 Stat. 401; Pub. L.87–796, §1(2), Oct. 11, 1962, 76 Stat. 904; Pub. L. 94–258, title II, §201(3), Apr. 5, 1976, 90 Stat. 307; Pub. L. 96–137, §3(a), Dec. 12, 1979, 93 Stat. 1061; Pub. L. 96–513, title V, §513(31), Dec. 12, 1980, 94 Stat. 2933; Pub. L. 98–525, title XIV, §1405(51), Oct. 19, 1984, 98 Stat. 2625; Pub. L. 99–413, §1(a), Aug. 29, 1986, 100 Stat. 944; Pub. L. 100–202, §101(g) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–213, 1329–242; Pub. L. 101–189, div. A, title XVI, §1622(f)(2), Nov. 29, 1989, 103 Stat. 1605; Pub. L. 107–217, §3(b)(30), Aug. 21, 2002, 116 Stat. 1297; Pub. L. 108–178, §4(b)(6), Dec. 15, 2003, 117 Stat. 2641; renumbered §8722 and amended Pub. L. 115–232, div. A, title VIII, §§807(d)(5), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840.)
 
 Historical and Revision Notes
 
@@ -47,6 +47,8 @@ Historical and Revision Notes
 34 U.S.C. 524 (1st par., 37th through 62d words, and 123d through 185th words).
 
 June 4, 1920, ch. 228 (1st par., 37th through 62d words, and 123d through 185th words, of amended 3d and 4th provisos), 41 Stat. 813; June 30, 1938, ch. 851, §1, 52 Stat. 1252; June 17, 1944, ch. 262, 58 Stat. 280.
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -86,13 +88,15 @@ Subsec. (c)(3). Pub. L. 96–513, §513(31)(F), substituted "by July 4, 1976" fo
 
 Subsec. (b). Pub. L. 94–258 in introductory cl. substituted provisions authorizing use and operation of naval petroleum reserves except as otherwise provided in this chapter and in particular subsec. (c) of this section, for provisions authorizing use and operation of naval petroleum and oil shale reserves and lands outside naval petroleum reserve numbered 1 covered by contracts under section 7426 of this title and in cl. (2) struck out reference to gas, oil shale and products thereof.
 
-Subsec. (c). Pub. L. 94–258 substituted provisions setting forth manner of administration by Secretary of Naval Petroleum Reserves Numbered 1, 2, and 3, authorizing President to extend period of production ofany naval petroleum reserve, and conditioning production authorization for Reserve Numbered 1, for provisions authorizing the Secretary to develop naval petroleum reserve numbered 4, South Barrow gas field, and to supply gas to government installations at or near Point Barrow and to the native village of Barrow.
+Subsec. (c). Pub. L. 94–258 substituted provisions setting forth manner of administration by Secretary of Naval Petroleum Reserves Numbered 1, 2, and 3, authorizing President to extend period of production of any naval petroleum reserve, and conditioning production authorization for Reserve Numbered 1, for provisions authorizing the Secretary to develop naval petroleum reserve numbered 4, South Barrow gas field, and to supply gas to government installations at or near Point Barrow and to the native village of Barrow.
 
 <b>1962</b>—Subsec. (a). Pub. L. 87–796 substituted "Except as otherwise provided in section 7438 hereof, the Secretary" for "The Secretary", and included oil shale reserves.
 
 Subsec. (b). Pub. L. 87–796 included oil shale reserves in the opening provisions, and substituted "petroleum, gas, oil shale and products thereof whenever" for "petroleum whenever" in cl. (2).
 
 Subsec. (c). Pub. L. 87–599 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

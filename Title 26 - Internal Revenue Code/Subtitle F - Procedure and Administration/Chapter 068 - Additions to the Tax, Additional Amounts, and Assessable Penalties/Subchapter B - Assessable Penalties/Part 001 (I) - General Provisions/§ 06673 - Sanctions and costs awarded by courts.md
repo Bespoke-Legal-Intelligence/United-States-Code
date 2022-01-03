@@ -30,13 +30,15 @@
 
 #### (2) Collection of sanctions and costs
 
-&emsp;In any civil proceeding before any court (other than the Tax Court) which is brought by or against the United States in connection with the determination, collection, or refund of any tax, interest, or penalty under this title, any monetary sanctions, penalties, or costs awarded by the court to the UnitedStates may be assessed by the Secretary and, upon notice and demand, may be collected in the same manner as a tax.
+&emsp;In any civil proceeding before any court (other than the Tax Court) which is brought by or against the United States in connection with the determination, collection, or refund of any tax, interest, or penalty under this title, any monetary sanctions, penalties, or costs awarded by the court to the United States may be assessed by the Secretary and, upon notice and demand, may be collected in the same manner as a tax.
 
 #### (3) Sanctions and costs awarded by a court of appeals
 
 &emsp;In connection with any appeal from a proceeding in the Tax Court or a civil proceeding described in paragraph (2), an order of a United States Court of Appeals or the Supreme Court awarding monetary sanctions, penalties or court costs to the United States may be registered in a district court upon filing a certified copy of such order and shall be enforceable as other district court judgments. Any such sanctions, penalties, or costs may be assessed by the Secretary and, upon notice and demand, may be collected in the same manner as a tax.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 828; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title II, §292(b), (d)(2)(A), Sept. 3, 1982, 96 Stat. 574; Pub. L. 99–514, title XV, §1552(a), Oct. 22, 1986, 100 Stat. 2753; Pub. L. 100–647, title VI, §6241(b), Nov. 10, 1988, 102 Stat. 3748; Pub. L. 101–239, title VII, §7731(a), Dec. 19, 1989, 103 Stat. 2400.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -48,9 +50,11 @@
 
 <b>1982</b>—Pub. L. 97–248, §292(d)(2)(A), substituted "primarily for delay, etc." for "merely for delay" after "Tax Court" in section catchline.
 
-Subsec. (a). Pub. L. 97–248, §292(b), substituted "or maintained by the taxpayer primarily for delay or that the taxpayer's position in such proceedings is frivolous or groundless, damages in an amount not in excess of $5,000" for "by the taxpayer merely for delay, damages in an amount not in excess of $500" in first sentence.
+Subsec. (a). Pub. L. 97–248, §292(b), substituted "or maintained by the taxpayer primarily for delay or thatthe taxpayer's position in such proceedings is frivolous or groundless, damages in an amount not in excess of $5,000" for "by the taxpayer merely for delay, damages in an amount not in excess of $500" in first sentence.
 
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1989 Amendment
 

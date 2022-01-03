@@ -56,7 +56,7 @@ Pub. L. 115–182, title V, §501(b), June 6, 2018, 132 Stat. 1475, added item 7
 
 <b>2017</b>—Pub. L. 115–46, title II, §§202(c), 203(b), Aug. 12, 2017, 131 Stat. 962, added item 725 and added item for subchapter III and item 741.
 
-Pub. L. 115–41, title I, §102(b), title II, §§201(c), 202(b)(1), 203(a)(2), 204(b), 205(b), June 23, 2017, 131 Stat. 867, 869, 873, 875–877, substituted "removal, demotion, or suspension" for "removal" in item 713, added items 714, 719, 721, 723, and 731 to 733, and struck out former items731 "Whistleblower complaint defined", 732 "Treatment of whistleblower complaints", and 733 "Adverse actions against supervisory employees who commit prohibited personnel actions relating to whistleblower complaints", and items 734 "Evaluation criteria of supervisors and treatment of bonuses", 735 "Training regarding whistleblower complaints", and 736 "Reports to Congress".
+Pub. L. 115–41, title I, §102(b), title II, §§201(c), 202(b)(1), 203(a)(2), 204(b), 205(b), June 23, 2017, 131 Stat. 867, 869, 873, 875–877, substituted "removal, demotion, or suspension" for "removal" in item 713, added items 714, 719, 721, 723, and 731 to 733, and struck out former items 731 "Whistleblower complaint defined", 732 "Treatment of whistleblower complaints", and 733 "Adverse actions against supervisory employees who commit prohibited personnel actions relating to whistleblower complaints", and items 734 "Evaluation criteria of supervisors and treatment of bonuses", 735 "Training regarding whistleblower complaints", and 736 "Reports to Congress".
 
 <b>2016</b>—Pub. L. 114–315, title V, §503(a)(2), Dec. 16, 2016, 130 Stat. 1568, added item 717.
 

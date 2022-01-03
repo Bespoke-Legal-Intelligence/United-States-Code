@@ -18,6 +18,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Pub. L. 115–97, title I, §13404(a), Dec. 22, 2017, 131 Stat. 2138, struck out items for subparts H "Nonrefundable credit to holders of clean renewable energy bonds", I "Qualified tax credit bonds", and J "Build America bonds".

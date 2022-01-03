@@ -12,7 +12,7 @@
 
 (2) A contract under subsection (a)(3) of this section may be renewed at the existing rate by mutual agreement between the contractor or subcontractor and the Postal Service.
 
-(3) Any contract between the Postal Service and any carrier or person for the transportationof mail shall be available for inspection in the office of the Postal Service and either the Surface Transportation Board or the Secretary of Transportation if for the carriage of mail in foreign air transportation (as defined in section 40102(a) of title 49), as appropriate, and in post offices on the post roads involved as determined by the Postal Service, at least 15 days prior to the effective date of the contract.
+(3) Any contract between the Postal Service and any carrier or person for the transportation of mail shall be available for inspection in the office of the Postal Service and either the Surface Transportation Board or the Secretary of Transportation if for the carriage of mail in foreign air transportation (as defined in section 40102(a) of title 49), as appropriate, and in post offices on the post roads involved as determined by the Postal Service, at least 15 days prior to the effective date of the contract.
 
 (c) The Postal Service, in determining whether to obtain transportation of mail by contract under subsection (a)(3) of this section or by Government motor vehicle, shall use the mode of transportation which best serves the public interest, due consideration being given to the cost of the transportation service under each mode.
 

@@ -28,7 +28,7 @@
 
 &emsp;&emsp;&emsp;(iii) intelligence or influence operations directed against the United States, allies or partners of the United States, or other jurisdictions believed to be subject to Chinese or Russian interference.
 
-&emsp;&emsp;(C) An updated identification of the countertechnologies that have been or could be developed and deployed by the United States Government, or by the private sector with Government support, to deter, detect, and attribute the use of machine-manipulated media and machine-generated text by foreign governments, foreign-government affiliates, or foreign individuals, along with an analysis of the benefits, limitations and drawbacks of such identified counter-technologies, including any emerging concerns related to privacy.
+&emsp;&emsp;(C) An updated identification of the countertechnologies that have been or couldbe developed and deployed by the United States Government, or by the private sector with Government support, to deter, detect, and attribute the use of machine-manipulated media and machine-generated text by foreign governments, foreign-government affiliates, or foreign individuals, along with an analysis of the benefits, limitations and drawbacks of such identified counter-technologies, including any emerging concerns related to privacy.
 
 &emsp;&emsp;(D) An identification of the offices within the elements of the intelligence community that have, or should have, lead responsibility for monitoring the development of, use of, and response to machine-manipulated media and machine-generated text, including—
 
@@ -72,9 +72,13 @@ Upon submission of the report in subsection (a), on an annual basis, the Directo
 
 (Pub. L. 116–92, div. E, title LVII, §5709, Dec. 20, 2019, 133 Stat. 2168.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 5724, referred to in subsec. (e)(2), is section 5724 of Pub. L. 116–92, which is set out as a note under section 3024 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

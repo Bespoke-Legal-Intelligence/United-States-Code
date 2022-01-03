@@ -4,6 +4,8 @@ The Congress finds that the statutory authority of the Secretary of Agriculture,
 
 (Pub. L. 87–128, title III, §301(b), Aug. 8, 1961, 75 Stat. 307.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this title", meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out below and Tables.
@@ -11,6 +13,8 @@ This chapter, referred to in text, was in the original "this title", meaning tit
 #### Codification
 
 Section is comprised of subsec. (b) of section 301 of Pub. L. 87–128. Subsec. (a) of such section 301 is set out as a Short Title note below.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -50,7 +54,47 @@ Pub. L. 92–419, §1, Aug. 30, 1972, 86 Stat. 657, provided: "That this Act \[e
 
 #### Short Title
 
-Pub. L. 87–128, title III, §301(a), Aug. 8, 1961, 75 Stat. 307, as amended by Pub. L. 92–419, title I, §101, Aug. 30, 1972, 86 Stat. 657, provided that: "This title \[enacting this section and sections 1013a, 1922 to 1933, 1941 to 1947, 1961 to 1968, 1969, 1970, 1971, and 1981 to 1993 of this title, amending sections 1924 to 1927, 1929, 1941 to 1943, 1981, 1983, 1985, and 1991 of this title, repealing sections 1001 to 1005d, 1006c to 1006e, 1007, 1008, 1009, 1014 to 1025, 1027 to 1029 of this title, sections 1148a–1 to 1148a–3 of Title 12, Banks and Banking, and sections 590r to 590x–4 of Title 16, Conservation, and enacting provisions set out as a note under this section\] may be cited as the 'Consolidated Farm and Rural Development Act'."
+Pub. L. 87–128, title III, §301(a), Aug. 8, 1961, 75 Stat. 307, as amended by Pub. L. 92–419, title I, §101, Aug. 30,1972, 86 Stat. 657, provided that: "This title \[enacting this section and sections 1013a, 1922 to 1933, 1941 to 1947, 1961 to 1968, 1969, 1970, 1971, and 1981 to 1993 of this title, amending sections 1924 to 1927, 1929, 1941 to 1943, 1981, 1983, 1985, and 1991 of this title, repealing sections 1001 to 1005d, 1006c to 1006e, 1007, 1008, 1009, 1014 to 1025, 1027 to 1029 of this title, sections 1148a–1 to 1148a–3 of Title 12, Banks and Banking, and sections 590r to 590x–4 of Title 16, Conservation, and enacting provisions set out as a note under this section\] may be cited as the 'Consolidated Farm and Rural Development Act'."
+
+#### Farm Loan Assistance for Socially Disadvantaged Farmers and Ranchers
+
+Pub. L. 117–2, title I, §1005, Mar. 11, 2021, 135 Stat. 12, provided that:
+
+"(a)
+
+Payments.—
+
+&emsp;"(1)
+
+Appropriation.—In addition to amounts otherwise available, there is appropriated to the Secretary for fiscal year 2021, out of amounts in the Treasury not otherwise appropriated, such sums as may be necessary, to remain available until expended, for the cost of loan modifications and payments under this section.
+
+&emsp;"(2)
+
+Payments.—The Secretary shall provide a payment in an amount up to 120 percent of the outstanding indebtedness of each socially disadvantaged farmer or rancher as of January 1, 2021, to pay off the loan directly or to the socially disadvantaged farmer or rancher (or a combination of both), on each—
+
+&emsp;&emsp;"(A) direct farm loan made by the Secretary to the socially disadvantaged farmer or rancher; and
+
+&emsp;&emsp;"(B) farm loan guaranteed by the Secretary the borrower of which is the socially disadvantaged farmer or rancher.
+
+"(b)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Farm loan.—The term 'farm loan' means—
+
+&emsp;&emsp;"(A) a loan administered by the Farm Service Agency under subtitle A, B, or C of the Consolidated Farm and Rural Development Act (7 U.S.C. 1922 et seq.\[, 1941 et seq., 1961 et seq.\]); and
+
+&emsp;&emsp;"(B) a Commodity Credit Corporation Farm Storage Facility Loan.
+
+&emsp;"(2)
+
+Secretary.—The term 'Secretary' means the Secretary of Agriculture.
+
+&emsp;"(3)
+
+Socially disadvantaged farmer or rancher.—The term 'socially disadvantaged farmer or rancher' has the meaning given the term in section 2501(a) of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 2279(a))."
 
 #### Regulations
 
@@ -72,7 +116,7 @@ Pub. L. 95–334, title I, §126, Aug. 4, 1978, 92 Stat. 429, provided that: "It
 
 Pub. L. 87–128, title III, §341, Aug. 8, 1961, 75 Stat. 318, provided that:
 
-"(a) Reference to any provisions of the Bankhead-Jones Farm Tenant Act \[see section 1000 of this title\] or the Act of August 28, 1937 (50 Stat. 869), as amended, superseded by any provision of this title \[this chapter\] shall be construed as referring to the appropriate provision of this title \[this chapter\]. Titles I, II, and IV of the Bankhead-Jones Farm Tenant Act, as amended, and the Act of August 28, 1937 (50 Stat. 869), as amended, the Act of April 6, 1949 (63 Stat. 43), as amended, and the Act of August 31, 1954 (68 Stat. 999), as amended, are hereby repealed effective one hundred and twenty days after enactment hereof \[Aug. 8, 1961\], or such earlier date as the provisions of this title \[this chapter\] are made effective by the Secretary's regulations except that the repeal of section 2(c) of the Act of April 6, 1949, shall not be effective prior to January 1, 1962. The foregoing provisions shall not have the effect of repealing the amendments to section 24, chapter 6 of the Federal Reserve Act \[section 371 of Title 12\], as amended, section 5200 of the Revised Statutes \[section 84 of Title 12\],section 35 of chapter III of the Act approved June 19, 1934 (D.C. Code, title 35, section 535), enacted by section 15 of the Bankhead-Jones Farm Tenant Act, as amended, and by section 10(f) of the Act of August 28, 1937 (50 Stat. 869), as amended.
+"(a) Reference to any provisions of the Bankhead-Jones Farm Tenant Act \[see section 1000 of this title\] or the Act of August 28, 1937 (50 Stat. 869), as amended, superseded by any provision of this title \[this chapter\] shall be construed as referring to the appropriate provision of this title \[this chapter\]. Titles I, II, and IV of the Bankhead-Jones Farm Tenant Act, as amended, and the Act of August 28, 1937 (50 Stat. 869), as amended, the Act of April 6, 1949 (63 Stat. 43), as amended, and the Act of August 31, 1954 (68 Stat. 999), as amended, are hereby repealed effective one hundred and twenty days after enactment hereof \[Aug. 8, 1961\], or such earlier date as the provisions of this title \[this chapter\] are made effective by the Secretary's regulations except that the repeal of section 2(c) of the Act of April 6, 1949, shall not be effective prior to January 1, 1962. The foregoing provisions shall not have the effect of repealing the amendments to section 24, chapter 6 of the Federal Reserve Act \[section 371 of Title 12\], as amended, section 5200 of the Revised Statutes \[section 84 of Title 12\], section 35 of chapter III of the Act approved June 19, 1934 (D.C. Code, title 35, section 535), enacted by section 15 of the Bankhead-Jones Farm Tenant Act, as amended, and by section 10(f) of the Act of August 28, 1937 (50 Stat. 869), as amended.
 
 "(b) The repeal of any provision of law by this title \[this chapter\] shall not—
 

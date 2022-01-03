@@ -6,7 +6,7 @@ The President, in coordination with the Secretary of State, the Administrator of
 
 &emsp;(1) consider the causes of fragility and violence at both the local and national levels, the external actors that reinforce and exploit such conditions, and successful prevention strategies and their key features;
 
-&emsp;(2) include specific objectives and multisectoral approaches to reduce fragility and the causes of violence, including those that strengthen state-society relations, curb extremist ideology, and make society less vulnerable to the spread of extremism and violence;
+&emsp;(2) include specific objectives and multisectoral approaches to reduce fragility and the causes of violence, including those thatstrengthen state-society relations, curb extremist ideology, and make society less vulnerable to the spread of extremism and violence;
 
 &emsp;(3) encourage and empower local and national actors to address the concerns of their citizens, including those in vulnerable communities, and build community resilience against violence and extremism;
 

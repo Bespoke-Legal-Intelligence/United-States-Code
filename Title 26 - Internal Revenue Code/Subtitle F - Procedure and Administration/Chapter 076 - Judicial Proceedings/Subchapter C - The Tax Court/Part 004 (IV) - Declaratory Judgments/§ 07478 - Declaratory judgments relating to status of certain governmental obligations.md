@@ -26,9 +26,13 @@ In a case of actual controversy involving—
 
 (Added Pub. L. 95–600, title III, §336(a), Nov. 6, 1978, 92 Stat. 2841; amended Pub. L. 100–647, title I, §1013(a)(42), Nov. 10, 1988, 102 Stat. 3544.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–647 substituted "whether interest on prospective obligations will be excludable from gross income under section 103(a)" for "whether prospective obligations are described in section 103(a)" in par. (1) and "whether interest on such prospective obligations will be excludable from gross income under section 103(a)" for "whether such prospective obligations are described in section 103(a)" in concluding provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

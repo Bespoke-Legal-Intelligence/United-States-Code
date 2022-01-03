@@ -92,7 +92,7 @@ In any judicial proceeding in which review is sought of a determination under th
 
 (7)(A) The record for judicial review shall consist exclusively of the material referred to in paragraph (3), clause (i) of paragraph (4)(B), and subparagraphs (A) and (B) of paragraph (6).
 
-(B) Only an objection to a rule or procedure which was raised with reasonable specificity during the period for public comment (including any public hearing) may be raised during judicial review. If the person raising an objection can demonstrate to the Administrator that it was impracticable to raise such objection within such time or if the grounds for such objection arose after the period for public comment (but within the time specified for judicial review) and if such objection is of central relevance to the outcome of the rule, the Administrator shall convene a proceeding for reconsideration of the rule and provide the same procedural rights as would have been afforded had the information been available at the time the rule was proposed. If the Administrator refuses to convene such a proceeding, such person may seek review of such refusal in the United States court of appeals for the appropriate circuit (as provided in subsection (b)). Such reconsideration shall not postpone the effectiveness of the rule. The effectiveness of the rule may be stayed during suchreconsideration, however, by the Administrator or the court for a period not to exceed three months.
+(B) Only an objection to a rule or procedure which was raised with reasonable specificity during the period for public comment (including any public hearing) may be raised during judicial review. If the person raising an objection can demonstrate to the Administrator that it was impracticable to raise such objection within such time or if the grounds for such objection arose after the period for public comment (but within the time specified for judicial review) and if such objection is of central relevance to the outcome of the rule, the Administrator shall convene a proceeding for reconsideration of the rule and provide the same procedural rights as would have been afforded had the information been available at the time the rule was proposed. If the Administrator refuses to convene such a proceeding, such person may seek review of such refusal in the United States court of appeals for the appropriate circuit (as provided in subsection (b)). Such reconsideration shall not postpone the effectiveness of the rule. The effectiveness of the rule may be stayed during such reconsideration, however, by the Administrator or the court for a period not to exceed three months.
 
 (8) The sole forum for challenging procedural determinations made by the Administrator under this subsection shall be in the United States court of appeals for the appropriate circuit (as provided in subsection (b)) at the time of the substantive review of the rule. No interlocutory appeals shall be permitted with respect to such procedural determinations. In reviewing alleged procedural errors, the court may invalidate the rule only if the errors were so serious and related to matters of such central relevance to the rule that there is a substantial likelihood that the rule would have been significantly changed if such errors had not been made.
 
@@ -127,6 +127,8 @@ In any action respecting the promulgation of regulations under section 7420 of t
 It is the intent of Congress that, consistent with the policy of subchapter II of chapter 5 of title 5, the Administrator in promulgating any regulation under this chapter, including a regulation subject to a deadline, shall ensure a reasonable period for public participation of at least 30 days, except as otherwise expressly provided in section <sup>7</sup> 7407(d), 7502(a), 7511(a) and (b), and 7512(a) and (b) of this title.
 
 (July 14, 1955, ch. 360, title III, §307, as added Pub. L. 91–604, §12(a), Dec. 31, 1970, 84 Stat. 1707; amended Pub. L. 92–157, title III, §302(a), Nov. 18, 1971, 85 Stat. 464; Pub. L. 93–319, §6(c), June 22, 1974, 88 Stat. 259; Pub. L. 95–95, title III, §§303(d), 305(a), (c), (f)–(h), Aug. 7, 1977, 91 Stat. 772, 776, 777; Pub. L. 95–190, §14(a)(79), (80), Nov. 16, 1977, 91 Stat. 1404; Pub. L. 101–549, title I, §§108(p), 110(5), title III, §302(g), (h), title VII, §§702(c), 703, 706, 707(h), 710(b), Nov. 15, 1990, 104 Stat. 2469, 2470, 2574, 2681–2684.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -212,6 +214,8 @@ Subsec. (g). Pub. L. 95–95, §305(g), added subsec. (g).
 
 <b>1971</b>—Subsec. (a)(1). Pub. L. 92–157 substituted reference to section "7545(c)(3)" for "7545(c)(4)" of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1977 Amendment
 
 Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d) of Pub. L. 95–95, set out as a note under section 7401 of this title.
@@ -222,7 +226,7 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 
 #### Pending Actions and Proceedings
 
-Suits, actions, and other proceedings lawfully commenced by or against the Administrator or any otherofficer or employee of the United States in his official capacity or in relation to the discharge of his official duties under act July 14, 1955, the Clean Air Act, as in effect immediately prior to the enactment of Pub. L. 95–95 \[Aug. 7, 1977\], not to abate by reason of the taking effect of Pub. L. 95–95, see section 406(a) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
+Suits, actions, and other proceedings lawfully commenced by or against the Administrator or any other officer or employee of the United States in his official capacity or in relation to the discharge of his official duties under act July 14, 1955, the Clean Air Act, as in effect immediately prior to the enactment of Pub. L. 95–95 \[Aug. 7, 1977\], not to abate by reason of the taking effect of Pub. L. 95–95, see section 406(a) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
 
 #### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
 

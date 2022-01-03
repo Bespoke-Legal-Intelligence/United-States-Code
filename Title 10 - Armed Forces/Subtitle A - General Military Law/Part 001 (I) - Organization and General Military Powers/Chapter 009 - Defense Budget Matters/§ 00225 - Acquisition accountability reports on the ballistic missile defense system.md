@@ -48,7 +48,7 @@ Elements of Baselines.—Each acquisition baseline required by subsection (a) fo
 
 &emsp;(3) A cost estimate, including—
 
-&emsp;&emsp;(A) a life-cycle cost estimate that separately identifies the costs regarding research and development, procurement, militaryconstruction, operations and sustainment, and disposal;
+&emsp;&emsp;(A) a life-cycle cost estimate that separately identifies the costs regarding research and development, procurement, military construction, operations and sustainment, and disposal;
 
 &emsp;&emsp;(B) program acquisition unit costs for the program element;
 
@@ -62,7 +62,7 @@ Elements of Baselines.—Each acquisition baseline required by subsection (a) fo
 
 Annual Reports on Acquisition Baselines.—(1) Not later than February 15 of each year, the Director shall submit to the congressional defense committees a report on the acquisition baselines required by subsection (a).
 
-(2)(A) The first report under paragraph (1) shall set forth each acquisition baseline required by subsection (a) for a program element or major subprogram.
+(2)(A) The first report under paragraph (1) shall set forth each acquisition baseline requiredby subsection (a) for a program element or major subprogram.
 
 (B) Each subsequent report under paragraph (1) shall include—
 
@@ -96,9 +96,13 @@ Operations and Sustainment Cost Estimates.—The Director shall ensure that each
 
 (Added Pub. L. 112–81, div. A, title II, §231(a)(1), Dec. 31, 2011, 125 Stat. 1337; amended Pub. L. 113–66, div. A, title II, §231(b), Dec. 26, 2013, 127 Stat. 711.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2013</b>—Subsec. (e). Pub. L. 113–66 added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Reporting Requirements
 

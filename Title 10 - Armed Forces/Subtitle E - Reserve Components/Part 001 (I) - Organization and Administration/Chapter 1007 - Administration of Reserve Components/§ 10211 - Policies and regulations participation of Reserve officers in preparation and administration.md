@@ -4,9 +4,13 @@ Within such numbers and in such grades and assignments as the Secretary concerne
 
 (Added Pub. L. 103–337, div. A, title XVI, §1661(a)(1), Oct. 5, 1994, 108 Stat. 2978.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 265 of this title, prior to repeal by Pub. L. 103–337, §1661(a)(2)(A).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

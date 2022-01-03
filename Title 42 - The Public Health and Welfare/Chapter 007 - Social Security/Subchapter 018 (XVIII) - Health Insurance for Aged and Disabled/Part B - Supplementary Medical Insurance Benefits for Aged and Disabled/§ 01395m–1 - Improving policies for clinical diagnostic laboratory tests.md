@@ -12,9 +12,9 @@
 
 &emsp;&emsp;In the case of reporting with respect to clinical diagnostic laboratory tests that are not advanced diagnostic laboratory tests, the Secretary shall revise the reporting period under subparagraph (A) such that—
 
-&emsp;&emsp;&emsp;(i) no reporting is required during the period beginning January 1, 2020, and ending December 31, 2021;
+&emsp;&emsp;&emsp;(i) no reporting is required during the period beginning January 1, 2020, and ending December 31, 2022;
 
-&emsp;&emsp;&emsp;(ii) reporting is required during the period beginning January 1, 2022, and ending March 31, 2022; and
+&emsp;&emsp;&emsp;(ii) reporting is required during the period beginning January 1, 2023, and ending March 31, 2023; and
 
 &emsp;&emsp;&emsp;(iii) reporting is required every three years after the period described in clause (ii).
 
@@ -80,7 +80,7 @@
 
 #### (10) Confidentiality of information
 
-&emsp;Notwithstanding any other provision of law, information disclosed by a laboratory under this subsection is confidential and shall not be disclosed by the Secretary or a Medicare contractor in a form that discloses the identity of a specific payor or laboratory, or prices charged or payments made to any such laboratory, except—
+&emsp;Notwithstanding any other provision of law, information disclosed by a laboratory underthis subsection is confidential and shall not be disclosed by the Secretary or a Medicare contractor in a form that discloses the identity of a specific payor or laboratory, or prices charged or payments made to any such laboratory, except—
 
 &emsp;&emsp;(A) as the Secretary determines to be necessary to carry out this section;
 
@@ -118,7 +118,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Payment amounts determined under this subsection for a clinical diagnostic laboratory test for each of 2017 through 2024 shall not result in a reduction in payments for a clinical diagnostic laboratory test for the year of greater than the applicable percent (as defined in subparagraph (B)) of the amount of payment for the test for the preceding year.
+&emsp;&emsp;Payment amounts determined under this subsection for a clinical diagnostic laboratory test for each of 2017 through 2025 shall not result in a reduction in payments for a clinical diagnostic laboratory test for the year of greater than the applicable percent (as defined in subparagraph (B)) of the amount of payment for the test for the preceding year.
 
 #### (B) Applicable percent defined
 
@@ -126,9 +126,9 @@
 
 &emsp;&emsp;&emsp;(i) for each of 2017 through 2020, 10 percent;
 
-&emsp;&emsp;&emsp;(ii) for 2021, 0 percent; and
+&emsp;&emsp;&emsp;(ii) for each of 2021 and 2022, 0 percent; and
 
-&emsp;&emsp;&emsp;(iii) for each of 2022 through 2024, 15 percent.
+&emsp;&emsp;&emsp;(iii) for each of 2023 through 2025, 15 percent.
 
 #### (C) No application to new tests
 
@@ -150,7 +150,7 @@
 
 #### (5) Sample collection fee
 
-&emsp;In the case of a sample collected from an individual in a skilled nursing facility or by a laboratory on behalf of a home health agency, the nominal fee that would otherwise applyunder section 1395l(h)(3)(A) of this title shall be increased by $2.
+&emsp;In the case of a sample collected from an individual in a skilled nursing facility or by a laboratory on behalf of a home health agency, the nominal fee that would otherwise apply under section 1395l(h)(3)(A) of this title shall be increased by $2.
 
 #### (c) Payment for new tests that are not advanced diagnostic laboratory tests
 
@@ -164,7 +164,7 @@
 
 #### (2) Gapfilling process described
 
-&emsp;The gapfilling process described in this paragraph shall take into account the following sources of information to determine gapfill amounts, if available:
+&emsp;The gapfilling process described in this paragraph shall take into account the followingsources of information to determine gapfill amounts, if available:
 
 &emsp;&emsp;(A) Charges for the test and routine discounts to charges.
 
@@ -230,7 +230,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), the temporary code shall be effective until a permanentHCPCS code is established (but not to exceed 2 years).
+&emsp;&emsp;&emsp;Subject to clause (ii), the temporary code shall be effective until a permanent HCPCS code is established (but not to exceed 2 years).
 
 #### (ii) Exception
 
@@ -246,7 +246,7 @@
 
 #### (3) Establishment of unique identifier for certain tests
 
-&emsp;For purposes of tracking and monitoring, if a laboratory or a manufacturer requests a unique identifier for an advanced diagnostic laboratory test (as so defined) or a laboratory test that is cleared or approved by the Food and Drug Administration, the Secretary shall utilize a means to uniquely track such test through a mechanism such as a HCPCS code or modifier.
+&emsp;For purposes of tracking and monitoring, if a laboratory or a manufacturer requests aunique identifier for an advanced diagnostic laboratory test (as so defined) or a laboratory test that is cleared or approved by the Food and Drug Administration, the Secretary shall utilize a means to uniquely track such test through a mechanism such as a HCPCS code or modifier.
 
 #### (f) Input from clinicians and technical experts
 
@@ -308,13 +308,25 @@
 
 During the period beginning on April 1, 2014, and ending on December 31, 2016, with respect to advanced diagnostic laboratory tests under this part, the Secretary shall use the methodologies for pricing, coding, and coverage in effect on the day before April 1, 2014, which may include cross-walking or gapfilling methods.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1834A, as added Pub. L. 113–93, title II, §216(a), Apr. 1, 2014,128 Stat. 1053; amended Pub. L. 116–94, div. N, title I, §105(a), Dec. 20, 2019, 133 Stat. 3100; Pub. L. 116–136, div. A, title III, §3718, Mar. 27, 2020, 134 Stat. 425.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1834A, as added Pub. L. 113–93, title II, §216(a), Apr. 1, 2014, 128 Stat. 1053; amended Pub. L. 116–94, div. N, title I, §105(a), Dec. 20, 2019, 133 Stat. 3100; Pub. L. 116–136, div. A, title III, §3718, Mar. 27, 2020, 134 Stat. 425; Pub. L. 117–71, §4, Dec. 10, 2021, 135 Stat. 1507.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (f)(2), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(1)(B)(i). Pub. L. 117–71, §4(b)(1), substituted "December 31, 2022" for "December 31, 2021".
+
+Subsec. (a)(1)(B)(ii). Pub. L. 117–71, §4(b)(2), substituted "January 1, 2023" for "January 1, 2022" and "March 31, 2023" for "March 31, 2022".
+
+Subsec. (b)(3)(A). Pub. L. 117–71, §4(a)(1), substituted "through 2025" for "through 2024".
+
+Subsec. (b)(3)(B)(ii). Pub. L. 117–71, §4(a)(2)(A), substituted "for each of 2021 and 2022" for "for 2021".
+
+Subsec. (b)(3)(B)(iii). Pub. L. 117–71, §4(a)(2)(B), substituted "2023 through 2025" for "2022 through 2024".
 
 <b>2020</b>—Subsec. (a)(1)(B)(i). Pub. L. 116–136, §3718(a)(1), substituted "December 31, 2021" for "December 31, 2020".
 
@@ -333,6 +345,8 @@ Subsec. (b)(3)(A). Pub. L. 116–94, §105(a)(2)(A), substituted "through 2023" 
 Subsec. (b)(3)(B)(i). Pub. L. 116–94, §105(a)(2)(B)(i), substituted "through 2020" for "through 2019".
 
 Subsec. (b)(3)(B)(ii). Pub. L. 116–94, §105(a)(2)(B)(ii), substituted "2021 through 2023" for "2020 through 2022".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Monitoring of Medicare Expenditures and Implementation of New Payment System for Laboratory Tests
 

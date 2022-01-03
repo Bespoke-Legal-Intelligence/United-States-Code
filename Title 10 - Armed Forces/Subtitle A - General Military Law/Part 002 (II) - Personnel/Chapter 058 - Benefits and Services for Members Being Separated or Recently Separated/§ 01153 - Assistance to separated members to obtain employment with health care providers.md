@@ -62,6 +62,8 @@ Definitions.—In this section, the term "State" includes the District of Columb
 
 (Added Pub. L. 103–160, div. A, title XIII, §1332(b), Nov. 30, 1993, 107 Stat. 1795; amended Pub. L. 103–337, div. A, title V, §543(e), Oct. 5, 1994, 108 Stat. 2771; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsecs. (a), (c)(1), (2), (d)(1), (e)(1). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
@@ -83,6 +85,8 @@ Subsec. (d)(2) to (5). Pub. L. 103–337, §543(e)(6)(B), inserted "concerned" a
 Subsec. (e)(1). Pub. L. 103–337, §543(e)(7)(A), inserted ", and the Secretary of Transportation with respect to the Coast Guard," after "the Secretary of Defense".
 
 Subsec. (e)(2). Pub. L. 103–337, §543(e)(7)(B), inserted "concerned" after "The Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

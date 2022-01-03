@@ -76,6 +76,8 @@ In any case in which a termination, reduction, or suspension of financial assist
 
 (Pub. L. 97–35, title VI, §646, Aug. 13, 1981, 95 Stat. 504; Pub. L. 101–501, title I, §115, Nov. 3, 1990, 104 Stat. 1232; Pub. L. 103–252, title I, §113, May 18, 1994, 108 Stat. 641; Pub. L. 110–134, §16, Dec. 12, 2007, 121 Stat. 1421.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2007</b>—Subsec. (a). Pub. L. 110–134, §16(1), struck out "procedures to assure that" after "prescribe" in introductory provisions.
@@ -103,6 +105,8 @@ Subsecs. (b) to (e). Pub. L. 103–252, §113(b), added subsecs. (b) to (e) and 
 <b>1990</b>—Subsec. (a). Pub. L. 101–501, §115(1), (2), designated existing provisions as subsec. (a) and inserted "or reduced" after "terminated" in par. (3).
 
 Subsec. (b). Pub. L. 101–501, §115(3), added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

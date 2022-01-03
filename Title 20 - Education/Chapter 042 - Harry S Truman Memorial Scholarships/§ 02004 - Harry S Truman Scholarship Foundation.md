@@ -18,13 +18,15 @@ There is established, as an independent establishment of the executive branch of
 
 #### (c) Term of office
 
-The term of office of each member of the Board shall be six years; except that (1) the members first taking office shall serve as designated by the President, four for terms of two years, five for terms of four years, and four for terms of six years, and (2) any member appointed to fill a vacancy shall serve for the remainder of the term for which his predecessor was appointed, and shall be appointed in the same manner as the original appointment for that vacancy was made.
+The term of office of each member of the Board shall be six years; except that (1) themembers first taking office shall serve as designated by the President, four for terms of two years, five for terms of four years, and four for terms of six years, and (2) any member appointed to fill a vacancy shall serve for the remainder of the term for which his predecessor was appointed, and shall be appointed in the same manner as the original appointment for that vacancy was made.
 
 #### (d) Compensation
 
 Members of the Board shall serve without pay, but shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of their duties.
 
 (Pub. L. 93–642, §5, Jan. 4, 1975, 88 Stat. 2277; Pub. L. 96–88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

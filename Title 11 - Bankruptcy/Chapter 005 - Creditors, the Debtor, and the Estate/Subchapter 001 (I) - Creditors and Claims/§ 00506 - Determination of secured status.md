@@ -26,7 +26,7 @@ Section 506(b) of the House amendment adopts language contained in the Senate am
 
 Section 506(c) of the House amendment was contained in H.R. 8200 as passed by the House and adopted, verbatim, in the Senate amendment. Any time the trustee or debtor in possession expends money to provide for the reasonable and necessary cost and expenses of preserving or disposing of a secured creditor's collateral, the trustee or debtor in possession is entitled to recover such expenses from the secured party or from the property securing an allowed secured claim held by such party.
 
-Section 506(d) of the House amendment is derived from H.R. 8200 as passed by the House and is adopted in lieu of the alternative test provided in section 506(d) of the Senate amendment. For purposes of section 506(d)of the House amendment, the debtor is a party in interest.
+Section 506(d) of the House amendment is derived from H.R. 8200 as passed by the House and is adopted in lieu of the alternative test provided in section 506(d) of the Senate amendment. For purposes of section 506(d) of the House amendment, the debtor is a party in interest.
 
 Determination of Secured Status: The House amendment deletes section 506(d)(3) of the Senate amendment, which insures that a tax lien securing a nondischargeable tax claim is not voided because a tax authority with notice or knowledge of the bankruptcy case fails to file a claim for the liability (as it may elect not to do, if it is clear there are insufficient assets to pay the liability). Since the House amendment retains section 506(d) of the House bill that a lien is not voided unless a party in interest has requested that the court determine and allow or disallow the claim, provision of the Senate amendment is not necessary.
 
@@ -56,7 +56,7 @@ Subsec. (c). Pub. L. 109–8, §712(d)(2), inserted ", including the payment of
 
 <b>1984</b>—Subsec. (b). Pub. L. 98–353, §448(a), inserted "for" after "provided".
 
-Subsec. (d)(1). Pub. L. 98–353, §448(b), substituted "such claim was disallowed only under section 502(b)(5) or 502(e) of this title" for "a party in interest has not requested that the court determine and allow or disallow such claim under section 502 of this title".
+Subsec. (d)(1). Pub. L. 98–353, §448(b), substituted "such claim was disallowed only under section 502(b)(5)or 502(e) of this title" for "a party in interest has not requested that the court determine and allow or disallow such claim under section 502 of this title".
 
 Subsec. (d)(2). Pub. L. 98–353, §448(b), substituted "such claim is not an allowed secured claim due only to the failure of any entity to file a proof of such claim under section 501 of this title" for "such claim was disallowed only under section 502(e) of this title".
 

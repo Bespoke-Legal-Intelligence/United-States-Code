@@ -4,6 +4,8 @@ The Service shall consist of (1) the Office of the Surgeon General, (2) the Nati
 
 (July 1, 1944, ch. 373, title II, §202, 58 Stat. 683; June 16, 1948, ch. 481, §6(b), 62 Stat. 469; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 103–43, title XX, §2008(g), June 10, 1993, 107 Stat. 212; Pub. L. 106–129, §2(b)(2), Dec. 6, 1999, 113 Stat. 1670.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1999</b>—Pub. L. 106–129 substituted "Agency for Healthcare Research and Quality" for "Agency for Health Care Policy and Research".
@@ -14,11 +16,19 @@ Pub. L. 103–43, §2008(g)(1), which directed the amendment of this section by 
 
 <b>1948</b>—Act June 16, 1948, substituted "National Institutes of Health" for "National Institute of Health" in cl. (2).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+"Secretary of Health and Human Services" substituted in text for "Secretary of Health, Education, and Welfare" pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+
+#### <b>Executive Documents</b>
+
 #### Transfer of Functions
 
-Bureau of Medical Services, Bureau of State Services, National Institutes of Health, excluding several research Institutes in agency, and Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and all functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
+Bureau of Medical Services, Bureau of State Services, National Institutes of Health, excluding several research Institutes in agency, and Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and all functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
 
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare, and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20.
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare, and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
 <i><sup>1</sup></i><i> So in original. The "and" probably should not appear.</i>
 

@@ -14,7 +14,7 @@ The Secretary shall prepare (in consultation with groups representing the elderl
 
 #### (b) Medicare and medigap information
 
-The Secretary shall provide information via a toll-free telephone number on the programs under this subchapter. The Secretary shall provide, through the toll-free telephone number 1–800–MEDICARE, for a means by which individuals seeking information about, or assistance with, such programs who phone such toll-free number are transferred (without charge) to appropriate entities for the provision of such information or assistance. Such toll-free number shall be the toll-free number listed for general information and assistance in the annual notice under subsection (a) instead of the listing of numbers of individual contractors.
+The Secretary shall provide information via a toll-free telephone number on the programs under this subchapter. The Secretary shall provide, through the toll-free telephone number 1–800–MEDICARE, for a means by which individuals seeking information about, or assistance with, such programs who phone such toll-free number are transferred (without charge) to appropriate entities for the provision of such information or assistance. Such toll-free number shall be the toll-free number listed for general information and assistance in the annual noticeunder subsection (a) instead of the listing of numbers of individual contractors.
 
 #### (c) Contents of notice
 
@@ -40,6 +40,8 @@ The notice provided under subsection (a) shall include—
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1804, as added Pub. L. 100–360, title II, §223(a), July 1, 1988, 102 Stat. 747; amended Pub. L. 103–432, title I, §171(j)(1), Oct. 31, 1994, 108 Stat. 4450; Pub. L. 105–33, title IV, §4311(a)(1), Aug. 5, 1997, 111 Stat. 384; Pub. L. 108–173, title IX, §923(d)(1), Dec. 8, 2003, 117 Stat. 2394; Pub. L. 115–271, title VI, §6021(a), Oct. 24, 2018, 132 Stat. 3977.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (d). Pub. L. 115–271 added subsec. (d).
@@ -49,6 +51,8 @@ The notice provided under subsection (a) shall include—
 <b>1997</b>—Subsec. (c). Pub. L. 105–33 added subsec. (c).
 
 <b>1994</b>—Pub. L. 103–432 inserted "; medicare and medigap information" in section catchline, designated existing provisions as subsec. (a), and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 
@@ -92,5 +96,5 @@ Pub. L. 101–234, title II, §203(c), Dec. 13, 1989, 103 Stat. 1984, provided t
 
 #### Benefits Counseling and Assistance Demonstration Project for Certain Medicare and Medicaid Beneficiaries
 
-Pub. L. 100–360, title IV, §424, July 1, 1988, 102 Stat. 812, which directed Secretary of Health and Human Services to establish a demonstration project to demonstrate that its volunteers were adequately trained and competent to render effective benefits counseling and assistance to the elderly, was repealed by Pub. L. 101–234, title III, §301(a), Dec. 13, 1989, 103 Stat. 1985.
+Pub. L. 100–360, title IV, §424, July 1, 1988, 102 Stat. 812, which directed Secretary of Health and HumanServices to establish a demonstration project to demonstrate that its volunteers were adequately trained and competent to render effective benefits counseling and assistance to the elderly, was repealed by Pub. L. 101–234, title III, §301(a), Dec. 13, 1989, 103 Stat. 1985.
 

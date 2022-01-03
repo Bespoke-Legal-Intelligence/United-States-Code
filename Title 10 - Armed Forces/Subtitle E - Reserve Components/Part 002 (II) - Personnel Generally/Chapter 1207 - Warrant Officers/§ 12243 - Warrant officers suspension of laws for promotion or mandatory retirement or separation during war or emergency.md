@@ -26,9 +26,13 @@ May 29, 1954, ch. 249, §18 (as applicable to reserve warrant officers), 68 Stat
 
 The word "may" is substituted for the words "is authorized, in his discretion". The words "any provision of law" are substituted for the words "all or any part or parts of the several provisions of law".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–337 renumbered section 599 of this title as this section.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

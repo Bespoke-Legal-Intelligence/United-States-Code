@@ -50,7 +50,7 @@ Requirements for issuing order.—The court may not grant an application under c
 
 &emsp;&emsp;&emsp;&emsp;(VI) the application describes with reasonable particularity the matter to be seized and, to the extent reasonable under the circumstances, identifies the location where the matter is to be seized;
 
-&emsp;&emsp;&emsp;&emsp;(VII) the person against whom seizure would be ordered, or persons acting in concert with such person, would destroy, move, hide, or otherwise make such matter inaccessible to the court, if the applicant were to proceed on notice to such person; and
+&emsp;&emsp;&emsp;&emsp;(VII) the person against whom seizure would be ordered, or persons acting inconcert with such person, would destroy, move, hide, or otherwise make such matter inaccessible to the court, if the applicant were to proceed on notice to such person; and
 
 &emsp;&emsp;&emsp;&emsp;(VIII) the applicant has not publicized the requested seizure.
 

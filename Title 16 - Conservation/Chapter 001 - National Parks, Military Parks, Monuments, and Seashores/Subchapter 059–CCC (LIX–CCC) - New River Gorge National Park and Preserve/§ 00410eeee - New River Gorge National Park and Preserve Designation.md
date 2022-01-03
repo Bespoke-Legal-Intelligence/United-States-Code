@@ -44,7 +44,7 @@ This section may be cited as the "New River Gorge National Park and Preserve Des
 
 &emsp;&emsp;Hunting within the New River Gorge National Preserve shall be administered by the Secretary—
 
-&emsp;&emsp;&emsp;(i) in the same manner as hunting was administered on the day before December27, 2020, in those portions of the New River Gorge National River designated as the New River Gorge National Preserve by subsection (b)(3); and
+&emsp;&emsp;&emsp;(i) in the same manner as hunting was administered on the day before December 27, 2020, in those portions of the New River Gorge National River designated as the New River Gorge National Preserve by subsection (b)(3); and
 
 &emsp;&emsp;&emsp;(ii) in accordance with—
 
@@ -112,6 +112,8 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 (Pub. L. 116–260, div. FF, title II, §202, Dec. 27, 2020, 134 Stat. 3089.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The National Parks and Recreation Act of 1978, referred to in subsecs. (b)(1) and (c)(1)(C), (2)(A)(ii)(I), (B)(ii)(I), is Pub. L. 95–625, Nov. 10, 1978, 92 Stat. 3467. Title XI of the Act was classified principally to subchapter LXXI–A (§460m–15 et seq.) of this chapter prior to transfer to this subchapter. Sections 1101 and 1106 of the Act were transferred to sections 410eeee–1 and 410eeee–6, respectively, of this title. For complete classification of this Act to the Code, see Tables.
@@ -121,6 +123,8 @@ Section 402 of the West Virginia National Interest River Conservation Act of 198
 #### Codification
 
 Section was enacted as part of the New River Gorge National Park and Preserve Designation Act and as part of the Consolidated Appropriations Act, 2021, and not as part of title XI of the National Parks and Recreation Act of 1978 which comprises this subchapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2002 Amendment
 

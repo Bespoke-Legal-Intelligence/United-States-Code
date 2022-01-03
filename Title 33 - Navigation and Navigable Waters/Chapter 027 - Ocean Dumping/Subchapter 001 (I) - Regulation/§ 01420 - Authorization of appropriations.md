@@ -2,7 +2,7 @@
 
 There are authorized to be appropriated, for purposes of carrying out this subchapter, not to exceed $12,000,000 for fiscal year 1993 and not to exceed $14,000,000 for each of the fiscal years 1994, 1995, 1996, and 1997, to remain available until expended.
 
-(Pub. L. 92–532, title I, §111, Oct. 23, 1972, 86 Stat. 1060; Pub. L. 93–472, Oct. 26, 1974, 88 Stat. 1430; Pub. L. 94–62, §1, July 25, 1975, 89 Stat. 303; Pub. L. 94–326, §1, June 30, 1976, 90 Stat. 725; Pub. L. 95–153, §1, Nov. 4, 1977, 91 Stat. 1255; Pub. L. 96–572, §1, Dec. 22, 1980, 94 Stat. 3344; Pub. L. 97–16, June 23, 1981, 95 Stat. 100; Pub. L. 100–536,Oct. 28, 1988, 102 Stat. 2710; Pub. L. 102–580, title V, §509(a), Oct. 31, 1992, 106 Stat. 4870.)
+(Pub. L. 92–532, title I, §111, Oct. 23, 1972, 86 Stat. 1060; Pub. L. 93–472, Oct. 26, 1974, 88 Stat. 1430; Pub. L. 94–62, §1, July 25, 1975, 89 Stat. 303; Pub. L. 94–326, §1, June 30, 1976, 90 Stat. 725; Pub. L. 95–153, §1, Nov. 4, 1977, 91 Stat. 1255; Pub. L. 96–572, §1, Dec. 22, 1980, 94 Stat. 3344; Pub. L. 97–16, June 23, 1981, 95 Stat. 100; Pub. L. 100–536, Oct. 28, 1988, 102 Stat. 2710; Pub. L. 102–580, title V, §509(a), Oct. 31, 1992, 106 Stat. 4870.)
 
 #### <b>Editorial Notes</b>
 

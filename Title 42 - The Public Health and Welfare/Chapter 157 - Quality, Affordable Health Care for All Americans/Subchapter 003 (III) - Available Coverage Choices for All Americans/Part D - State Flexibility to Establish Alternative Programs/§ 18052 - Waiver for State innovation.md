@@ -78,7 +78,7 @@
 
 &emsp;The Secretary may grant a request for a waiver under subsection (a)(1) only if the Secretary determines that the State plan—
 
-&emsp;&emsp;(A) will provide coverage that is at least as comprehensive as the coverage defined in section 18022(b) of this title and offered through Exchanges established under this title <sup>2</sup> as certified by Office <sup>3</sup> of the Actuaryof the Centers for Medicare \& Medicaid Services based on sufficient data from the State and from comparable States about their experience with programs created by this Act and the provisions of this Act that would be waived;
+&emsp;&emsp;(A) will provide coverage that is at least as comprehensive as the coverage defined in section 18022(b) of this title and offered through Exchanges established under this title <sup>2</sup> as certified by Office <sup>3</sup> of the Actuary of the Centers for Medicare \& Medicaid Services based on sufficient data from the State and from comparable States about their experience with programs created by this Act and the provisions of this Act that would be waived;
 
 &emsp;&emsp;(B) will provide coverage and cost sharing protections against excessive out-of-pocket spending that are at least as affordable as the provisions of this title <sup>2</sup> would provide;
 
@@ -127,6 +127,8 @@
 No waiver under this section may extend over a period of longer than 5 years unless the State requests continuation of such waiver, and such request shall be deemed granted unless the Secretary, within 90 days after the date of its submission to the Secretary, either denies such request in writing or informs the State in writing with respect to any additional information which is needed in order to make a final determination with respect to the request.
 
 (Pub. L. 111–148, title I, §1332, Mar. 23, 2010, 124 Stat. 203.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

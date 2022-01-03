@@ -32,7 +32,7 @@ Suspension.—(1)(A) Pending a decision under subsection (a)(1) of this section,
 
 (2) A suspension becomes effective when the Secretary files with the tariff and delivers to the air carrier or foreign air carrier affected by the suspension a written statement of the reasons for the suspension. To suspend a tariff, reasonable notice of the suspension must be given to the affected carrier.
 
-(3) The suspension of a newly filed tariff may be for periods totaling not more than 365 days after the date the tariff otherwise would go into effect. The suspension of an existing tariff may be for periods totaling not more than 365 days after the effective date of the suspension. The Secretary may rescind at any time the suspension of a newly filed tariff and allow the price, classification, rule, or practice to go into effect.
+(3) The suspension of a newly filed tariff may be for periods totaling not more than 365 days after the date the tariff otherwise would go into effect. The suspension of an existing tariff may be for periods totaling not more than 365 daysafter the effective date of the suspension. The Secretary may rescind at any time the suspension of a newly filed tariff and allow the price, classification, rule, or practice to go into effect.
 
 (c)
 
@@ -70,7 +70,7 @@ Standard Foreign Fare Level.—(1)(A) In this subsection, "standard foreign fare
 
 (B) At least once every 60 days for fuel costs, and at least once every 180 days for other costs, the Secretary shall adjust the standard foreign fare level for the particular foreign air transportation to which the standard foreign fare level applies by increasing or decreasing that level by the percentage change from the last previous period in the actual operating cost for each available seat-mile. In adjusting a standard foreign fare level, the Secretary may not make an adjustment to costs actually incurred. In establishing a standard foreign fare level and making adjustments in the level under this paragraph, the Secretary may use all relevant or appropriate information reasonably available to the Secretary.
 
-(2) The Secretary may not decide that a proposed fare for foreign air transportation is unreasonable on the basis that the fare is too low or too high if the proposed fare is neither more than 5 percent higher nor 50 percent lower thanthe standard foreign fare level for the same or essentially similar class of transportation. The Secretary by regulation may increase the 50 percent specified in this paragraph.
+(2) The Secretary may not decide that a proposed fare for foreign air transportation is unreasonable on the basis that the fare is too low or too high if the proposed fare is neither more than 5 percent higher nor 50 percent lower than the standard foreign fare level for the same or essentially similar class of transportation. The Secretary by regulation may increase the 50 percent specified in this paragraph.
 
 (3) Paragraph (2) of this subsection does not apply to a proposed fare that is not more than—
 
@@ -220,7 +220,7 @@ In subsection (b)(1)(A), the words "such hearing and" are omitted as surplus.
 
 In subsection (b)(1)(B), the words "or in the case of" are omitted as surplus.
 
-In subsection (b)(2), the text of 49 App.:1373(c)(3) is omitted as obsolete. Reference to 49 App.:1482(g) is omitted because 49 App.:1482(g) does not relate to foreign air transportation and 49 App.:1551(a)(5)(D) provides that 49 App.:1482(g) ceased to be in effect on January 1, 1985, except insofar as it related to foreign airtransportation. Reference to 49 App.:1482(j) is omitted because it consistently has been interpreted that the minimum notice requirement does not apply to foreign air transportation.
+In subsection (b)(2), the text of 49 App.:1373(c)(3) is omitted as obsolete. Reference to 49 App.:1482(g) is omitted because 49 App.:1482(g) does not relate to foreign air transportation and 49 App.:1551(a)(5)(D) provides that 49 App.:1482(g) ceased to be in effect on January 1, 1985, except insofar as it related to foreign air transportation. Reference to 49 App.:1482(j) is omitted because it consistently has been interpreted that the minimum notice requirement does not apply to foreign air transportation.
 
 In subsection (b)(3), the words "for periods totaling not more than 365 days after" are substituted for "a period or periods not exceeding 365 days in the aggregate beyond the time when" and "a period or periods not exceeding 365 days in the aggregate from" to eliminate unnecessary words.
 
@@ -243,6 +243,8 @@ In subsection (e)(2), the text of 49 App.:1482(j)(6)(A) is omitted as expired. T
 In subsection (e)(3)(A), the words "unreasonably discriminatory" are substituted for "unduly preferential, unduly prejudicial, or unjustly discriminatory" to eliminate unnecessary words and for consistency in the revised title. See the revision notes following 49:10101.
 
 In subsection (g), the words "express" and "now . . . or hereafter issued" are omitted as surplus. The words "may provide foreign air transportation only as long as" are substituted for "shall be a condition to the continuation of the affected service" for clarity.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

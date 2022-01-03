@@ -6,6 +6,8 @@
 
 (Pub. L. 96–510, title I, §102, Dec. 11, 1980, 94 Stat. 2772; Pub. L. 99–499, title I, §102, Oct. 17, 1986, 100 Stat. 1617.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–499 inserted provisions setting deadlines for promulgation of proposed and final regulations.

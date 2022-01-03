@@ -4,6 +4,8 @@ The Director may establish a classification of goods and services, for convenien
 
 (July 5, 1946, ch. 540, title IV, §30, 60 Stat. 436; Pub. L. 87–772, §16, Oct. 9, 1962, 76 Stat. 773; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 100–667, title I, §126, Nov. 16, 1988, 102 Stat. 3943; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Act May 4, 1906, ch. 2081, §2, 34 Stat. 169.
@@ -17,6 +19,8 @@ Act May 4, 1906, ch. 2081, §2, 34 Stat. 169.
 <b>1975</b>—Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office".
 
 <b>1962</b>—Pub. L. 87–772, among other changes, substituted "may" for "shall".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1999 Amendment
 
@@ -34,7 +38,9 @@ Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 9
 
 Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrations and rights under prior acts, see notes set out under section 1051 of this title.
 
+#### <b>Executive Documents</b>
+
 #### Transfer of Functions
 
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certainexceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 

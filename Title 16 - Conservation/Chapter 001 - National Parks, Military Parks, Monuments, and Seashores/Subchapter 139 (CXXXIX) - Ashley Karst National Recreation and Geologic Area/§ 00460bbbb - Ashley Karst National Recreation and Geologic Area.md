@@ -118,7 +118,7 @@ The Secretary shall only allow such uses of the Recreation Area that would—
 
 #### (5) Applicable law
 
-&emsp;Activities authorized under this subsection shall be consistent with the applicable forestplan and travel management plan for, and any law (including regulations) applicable to, the Ashley National Forest.
+&emsp;Activities authorized under this subsection shall be consistent with the applicable forest plan and travel management plan for, and any law (including regulations) applicable to, the Ashley National Forest.
 
 #### (h) Water infrastructure
 
@@ -212,9 +212,11 @@ Outfitting and guide services within the Recreation Area, including commercial o
 
 (Pub. L. 116–9, title I, §1117, Mar. 12, 2019, 133 Stat. 623.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in subsec. (e)(1)(A), is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, which is classified generally to subchapter I (§1600 et seq.) of chapter 36 of this title. For complete classification of this Actto the Code, see Short Title note set out under section 1600 of this title and Tables.
+The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in subsec. (e)(1)(A), is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, which is classified generally to subchapter I (§1600 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of this title and Tables.
 
 #### Prior Provisions
 

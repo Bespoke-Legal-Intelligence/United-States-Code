@@ -20,6 +20,8 @@ Separation Under Section 14514.—An officer selected for early retirement under
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2957; amended Pub. L. 105–261, div. A, title V, §515, Oct. 17, 1998, 112 Stat. 2008; Pub. L. 108–136, div. A, title V, §511(b)(3), Nov. 24, 2003, 117 Stat. 1459; Pub. L. 109–163, div. A, title V, §515(b)(1)(VV), Jan. 6, 2006, 119 Stat. 3234.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 6389(f)(3) of this title, prior to repeal by Pub. L. 103–337, §1628(4).
@@ -31,6 +33,8 @@ Provisions similar to those in this section were contained in section 6389(f)(3)
 <b>2003</b>—Subsec. (b)(1). Pub. L. 108–136 substituted "selection board" for "continuation board".
 
 <b>1998</b>—Subsec. (b). Pub. L. 105–261 designated existing provisions as par. (1), inserted "of officers" after "consideration" and "continuation" after "shall convene a", and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

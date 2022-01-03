@@ -8,9 +8,11 @@ Nothing in this subchapter shall be construed as—
 
 &emsp;(3) authorizing a restriction on the taking of fish and wildlife for nonsubsistence uses on the public lands (other than national parks and park monuments) unless necessary for the conservation of healthy populations of fish and wildlife, for the reasons set forth in section 3126 of this title, to continue subsistence uses of such populations, or pursuant to other applicable law; or
 
-&emsp;(4) modifying or repealing the provisions of any Federal law governing the conservation or protection of fish and wildlife, including the National Wildlife Refuge System Administration Act of 1966 (80 Stat. 927; 16 U.S.C. 668dd–jj), section 100101(b)(1), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of title 54, the Fur Seal Act of 1966 (80 Stat. 1091; 16 U.S.C. 1187) \[16 U.S.C. 1151 et seq.\], the Endangered Species Act of 1973 (87 Stat. 884; 16 U.S.C. 1531–1543), the Marine Mammal Protection Act of 1972 (86 Stat. 1027; 16 U.S.C. 1361–1407), the Act entitled "An Act for the Protection of the Bald Eagle", approved June 8, 1940 (54 Stat. 250; 16 U.S.C. 742a–754) \[16 U.S.C. 668 et seq.\], the Migratory Bird Treaty Act (40 Stat. 755; 16 U.S.C. 703–711), the Federal Aid in Wildlife Restoration Act (50 Stat. 917; 16 U.S.C. 669–669i), the Magnuson-Stevens Fishery Conservation and Management Act (90 Stat. 331; 16 U.S.C. 1801–1882), the Federal Aid in Fish Restoration Act (64 Stat. 430; 16 U.S.C. 777–777k), or any amendments to any one or more of such Acts or such title.
+&emsp;(4) modifying or repealing the provisions of any Federal law governing the conservation or protection of fish and wildlife, including the National Wildlife Refuge System Administration Act of 1966 (80 Stat. 927; 16 U.S.C. 668dd–jj), section 100101(b)(1), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of title 54, the Fur Seal Act of 1966 (80 Stat. 1091; 16 U.S.C. 1187) \[16 U.S.C. 1151 et seq.\], the Endangered Species Act of 1973 (87 Stat. 884; 16 U.S.C. 1531–1543), the Marine Mammal Protection Act of 1972 (86 Stat. 1027; 16 U.S.C. 1361–1407), the Act entitled "An Act for theProtection of the Bald Eagle", approved June 8, 1940 (54 Stat. 250; 16 U.S.C. 742a–754) \[16 U.S.C. 668 et seq.\], the Migratory Bird Treaty Act (40 Stat. 755; 16 U.S.C. 703–711), the Federal Aid in Wildlife Restoration Act (50 Stat. 917; 16 U.S.C. 669–669i), the Magnuson-Stevens Fishery Conservation and Management Act (90 Stat. 331; 16 U.S.C. 1801–1882), the Federal Aid in Fish Restoration Act (64 Stat. 430; 16 U.S.C. 777–777k), or any amendments to any one or more of such Acts or such title.
 
 (Pub. L. 96–487, title VIII, §815, Dec. 2, 1980, 94 Stat. 2429; Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 105–83, title III, §316(b)(9), (d), Nov. 14, 1997, 111 Stat. 1594, 1595; Pub. L. 113–287, §5(d)(33), Dec. 19, 2014, 128 Stat. 3267.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -22,7 +24,7 @@ The Endangered Species Act of 1973, referred to in par. (4), is Pub. L. 93–205
 
 The Marine Mammal Protection Act of 1972, referred to in par. (4), is Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, as amended, which is classified generally to chapter 31 (§1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1361 of this title and Tables.
 
-The Act entitled "An Act for the Protection of the Bald Eagle", approved June 8, 1940, referred to in par. (4), is act June 8, 1940, ch. 278, 54 Stat. 250, as amended, which is classified generally to subchapter II (§668 etseq.) of chapter 5A of this title. For complete classification of this Act to the Code, see Tables.
+The Act entitled "An Act for the Protection of the Bald Eagle", approved June 8, 1940, referred to in par. (4), is act June 8, 1940, ch. 278, 54 Stat. 250, as amended, which is classified generally to subchapter II (§668 et seq.) of chapter 5A of this title. For complete classification of this Act to the Code, see Tables.
 
 The Migratory Bird Treaty Act, referred to in par. (4), is act July 3, 1918, ch. 128, 40 Stat. 755, as amended, which is classified generally to subchapter II (§703 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 710 of this title and Tables.
 
@@ -41,6 +43,8 @@ The Federal Aid in Fish Restoration Act, referred to in par. (4), is act Aug. 9,
 <b>1996</b>—Par. (4). Pub. L. 104–208 substituted "Magnuson-Stevens Fishery" for "Magnuson Fishery".
 
 <b>1980</b>—Par. (4). Pub. L. 96–561 substituted "Magnuson Fishery Conservation and Management Act" for "Fishery Conservation and Management Act of 1976".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective and Termination Dates of 1997 Amendment
 

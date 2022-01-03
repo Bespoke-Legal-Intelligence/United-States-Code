@@ -30,6 +30,8 @@ Definitions.—In this section:
 
 (Added Pub. L. 106–398, §1 \[\[div. A\], title X, §1085(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–287, §4595; renumbered §7595, Pub. L. 115–232, div. A, title VIII, §808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior sections 7601 to 7603 were renumbered sections 8801 to 8803 of this title, respectively.
@@ -43,6 +45,8 @@ Prior sections 7605 and 7606 were renumbered sections 8805 and 8806 of this titl
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4595 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

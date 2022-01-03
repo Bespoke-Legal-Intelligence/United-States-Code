@@ -16,7 +16,7 @@ No requirement or prohibition may be imposed under the laws of any State—
 
 &emsp;&emsp;(C) subsections (a) and (b) of section 1681m of this title, relating to the duties of a person who takes any adverse action with respect to a consumer;
 
-&emsp;&emsp;(D) section 1681m(d) of this title, relating to the duties of persons who use a consumer report of a consumer in connection with any credit or insurance transaction that is not initiated by the consumer and that consists of a firm offer of credit or insurance;
+&emsp;&emsp;(D) section 1681m(d) of this title, relating to the duties of persons who use a consumerreport of a consumer in connection with any credit or insurance transaction that is not initiated by the consumer and that consists of a firm offer of credit or insurance;
 
 &emsp;&emsp;(E) section 1681c of this title, relating to information contained in consumer reports, except that this subparagraph shall not apply to any State law in effect on September 30, 1996;
 
@@ -92,6 +92,8 @@ Subsections (b) and (c) do not affect any settlement, agreement, or consent judg
 
 (Pub. L. 90–321, title VI, §625, formerly §622, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1136; renumbered §623, Pub. L. 102–537, §2(a), Oct. 27, 1992, 106 Stat. 3531; renumbered §624 and amended Pub. L. 104–208, div. A, title II, §§2413(a)(1), 2419, Sept. 30, 1996, 110 Stat. 3009–447, 3009–452; renumbered §625 and amended Pub. L. 108–159, title I, §151(a)(2), title II, §§212(e), 214(a)(1), (c)(2), title III, §311(b), title VII, §711, Dec. 4, 2003, 117 Stat. 1964, 1977, 1980, 1983, 1989, 2011; Pub. L. 115–174, title III, §§301(b), 302(d)(2), May 24, 2018, 132 Stat. 1332, 1335.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 625 of Pub. L. 90–321 was renumbered section 626 and is classified to section 1681u of this title.
@@ -129,6 +131,8 @@ Subsec. (d). Pub. L. 108–159, §711(3), substituted "(b) and (c)" for "(b) and
 <b>1996</b>—Subsec. (a). Pub. L. 104–208, §2419(1), designated existing provisions as subsec. (a), inserted heading, and substituted "Except as provided in subsections (b) and (c), this subchapter" for "This subchapter".
 
 Subsecs. (b) to (d). Pub. L. 104–208, §2419(2), added subsecs. (b) to (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

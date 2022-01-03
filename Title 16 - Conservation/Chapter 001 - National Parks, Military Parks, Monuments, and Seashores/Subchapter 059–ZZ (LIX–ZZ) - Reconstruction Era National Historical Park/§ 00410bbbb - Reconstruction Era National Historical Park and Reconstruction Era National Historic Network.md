@@ -48,7 +48,7 @@ In this section:
 
 #### (C) Camp Saxton
 
-&emsp;&emsp;Subject to subparagraph (D), the Secretary is authorized to accept administrative jurisdiction of Federal land or interests in Federal land adjacent to the existing boundary at Camp Saxton, as reflected on the Map. Upon finalizing an agreement to accept administrative jurisdiction of Federal land or interests in Federal land, the Secretary shall expand the boundary of the historicalpark to encompass that Federal land or interests in Federal land.
+&emsp;&emsp;Subject to subparagraph (D), the Secretary is authorized to accept administrative jurisdiction of Federal land or interests in Federal land adjacent to the existing boundary at Camp Saxton, as reflected on the Map. Upon finalizing an agreement to accept administrative jurisdiction of Federal land or interests in Federal land, the Secretary shall expand the boundary of the historical park to encompass that Federal land or interests in Federal land.
 
 #### (D) Land acquisition authority
 
@@ -115,6 +115,8 @@ In this section:
 &emsp;To achieve the purposes of this section and to ensure effective coordination of the Federal and non-Federal elements of the Network and units and programs of the National Park Service, the Secretary may enter into cooperative agreements and memoranda of understanding with, and provide technical assistance to, the heads of other Federal agencies, States, units of local government, regional governmental bodies, and private entities.
 
 (Pub. L. 116–9, title II, §2204, Mar. 12, 2019, 133 Stat. 735.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definition of "Secretary"
 

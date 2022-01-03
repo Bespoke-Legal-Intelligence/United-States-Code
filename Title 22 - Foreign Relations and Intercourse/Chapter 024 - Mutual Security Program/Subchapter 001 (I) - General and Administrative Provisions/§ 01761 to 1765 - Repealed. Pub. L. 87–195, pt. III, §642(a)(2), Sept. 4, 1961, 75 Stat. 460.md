@@ -1,6 +1,6 @@
 ### §§1761 to 1765. Repealed. Pub. L. 87–195, pt. III, §642(a)(2), Sept. 4, 1961, 75 Stat. 460
 
-Section 1761, acts Aug. 26, 1954, ch. 937, ch. IV, §509, 68 Stat. 853; July 8, 1955, ch. 301, §9(d), 69 Stat. 288; July 18, 1956, ch. 627, §9(d), 70 Stat. 560; Aug. 14, 1957, Pub. L. 85–141, §9(d), 71 Stat. 363; June 30, 1958, Pub. L. 85–477, ch. IV, §401(b), 72 Stat. 269, related to shipping on United States vessels. See section 2353 of this title.
+Section 1761, acts Aug. 26, 1954, ch. 937, ch. IV, §509, 68 Stat. 853; July 8, 1955, ch. 301, §9(d), 69 Stat. 288; July18, 1956, ch. 627, §9(d), 70 Stat. 560; Aug. 14, 1957, Pub. L. 85–141, §9(d), 71 Stat. 363; June 30, 1958, Pub. L. 85–477, ch. IV, §401(b), 72 Stat. 269, related to shipping on United States vessels. See section 2353 of this title.
 
 Section 1762, acts Aug. 26, 1954, ch. 937, ch. IV, §510, 68 Stat. 853; June 30, 1958, Pub. L. 85–477, ch. IV, §401(c), ch. V, §501(19), 72 Stat. 269, 271; July 24, 1959, Pub. L. 86–108, ch. IV, §401(d), 73 Stat. 253, related to purchase of commodities in bulk and to surplus agricultural commodities. See section 2354 of this title.
 

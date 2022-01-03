@@ -1,8 +1,12 @@
 ### §13961. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 13961 was editorially reclassified as section 12331 of Title 34, Crime Control and Law Enforcement.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Development of Research Agenda Identified by the Violence Against Women Act of 1994
 

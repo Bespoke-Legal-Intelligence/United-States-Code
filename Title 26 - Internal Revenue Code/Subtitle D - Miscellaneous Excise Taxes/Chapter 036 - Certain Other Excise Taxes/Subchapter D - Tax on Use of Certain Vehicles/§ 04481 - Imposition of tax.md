@@ -33,7 +33,7 @@ The tax imposed by this section shall be paid by the person in whose name the hi
 
 #### (d) One tax liability per period
 
-To the extent that the tax imposed by this section is paid with respect to any highway motor vehicle for any taxable period, no further tax shall be imposed by this section for such taxable period with respect to such vehicle.
+To the extent that the tax imposed by this section is paid with respect to any highway motor vehicle for any taxable period, no furthertax shall be imposed by this section for such taxable period with respect to such vehicle.
 
 #### (e) Electronic filing
 
@@ -41,11 +41,15 @@ Any taxpayer who files a return under this section with respect to 25 or more ve
 
 #### (f) Period tax in effect
 
-The tax imposed by this section shall apply only to use before October 1, 2023.
+The tax imposed by this section shall apply only to use before October 1, 2029.
 
-(Added June 29, 1956, ch. 462, title II, §206(a), 70 Stat. 390; amended Pub. L. 87–61, title II, §203(a), (b)(1), (2)(A), (B), June 29, 1961, 75 Stat. 124; Pub. L. 91–605, title III, §303(a)(7), (8), Dec. 31, 1970, 84 Stat. 1744; Pub. L. 94–280, title III, §303(a)(7), (8), May 5, 1976, 90 Stat. 456; Pub. L. 95–599, title V, §502(a)(6), (7), Nov. 6, 1978, 92 Stat. 2756; Pub. L. 97–424, title V, §§513(a), (d), 516(a)(4), Jan. 6, 1983, 96 Stat. 2177, 2179, 2182; Pub. L. 98–369, div. A, title VII, §734(f), title IX, §901(a), July 18, 1984, 98 Stat. 980, 1003; Pub. L. 100–17, title V, §§502(a)(5), 507(a), Apr. 2, 1987, 101 Stat. 256, 260; Pub. L. 101–508, title XI, §11211(c)(5), Nov. 5, 1990, 104 Stat. 1388–426; Pub. L. 102–240, title VIII, §8002(a)(5), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 104–188, title I, §1704(t)(57), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 105–178, title IX, §9002(a)(1)(G), June 9, 1998, 112 Stat. 499; Pub. L. 108–357, title VIII, §867(a), (c), Oct. 22, 2004, 118 Stat. 1622; Pub. L. 109–14, §9(c)(1), May 31, 2005, 119 Stat. 336; Pub. L. 109–59, title XI, §11101(a)(2)(A), Aug. 10, 2005, 119 Stat. 1944; Pub. L. 112–30, title I, §142(b)(1), Sept. 16, 2011, 125 Stat. 356; Pub. L. 112–102, title IV, §402(b)(1), Mar. 30, 2012, 126 Stat. 282; Pub. L. 112–141, div. D, title I, §40102(b)(1)(A), July 6, 2012, 126 Stat. 844; Pub. L. 114–94, div. C, title XXXI, §31102(b)(1), Dec. 4, 2015, 129 Stat. 1727; Pub. L. 115–141, div. U, title IV, §401(b)(43), Mar. 23, 2018, 132 Stat. 1204.)
+(Added June 29, 1956, ch. 462, title II, §206(a), 70 Stat. 390; amended Pub. L. 87–61, title II, §203(a), (b)(1), (2)(A), (B), June 29, 1961, 75 Stat. 124; Pub. L. 91–605, title III, §303(a)(7), (8), Dec. 31, 1970, 84 Stat. 1744; Pub. L. 94–280, title III, §303(a)(7), (8), May 5, 1976, 90 Stat. 456; Pub. L. 95–599, title V, §502(a)(6), (7), Nov. 6, 1978, 92 Stat. 2756; Pub. L. 97–424, title V, §§513(a), (d), 516(a)(4), Jan. 6, 1983, 96 Stat. 2177, 2179, 2182; Pub. L. 98–369, div. A, title VII, §734(f), title IX, §901(a), July 18, 1984, 98 Stat. 980, 1003; Pub. L. 100–17, title V, §§502(a)(5), 507(a), Apr. 2, 1987, 101 Stat. 256, 260; Pub. L. 101–508, title XI, §11211(c)(5), Nov. 5, 1990, 104 Stat. 1388–426; Pub. L. 102–240, title VIII, §8002(a)(5), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 104–188, title I, §1704(t)(57), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 105–178, title IX, §9002(a)(1)(G), June 9, 1998, 112 Stat. 499; Pub. L. 108–357, title VIII, §867(a), (c), Oct. 22, 2004, 118 Stat. 1622; Pub. L. 109–14, §9(c)(1), May 31, 2005, 119 Stat. 336; Pub. L. 109–59, title XI, §11101(a)(2)(A), Aug. 10, 2005, 119 Stat. 1944; Pub. L. 112–30, title I, §142(b)(1), Sept. 16, 2011, 125 Stat. 356; Pub. L. 112–102, title IV, §402(b)(1), Mar. 30, 2012, 126 Stat. 282; Pub. L. 112–141, div. D, title I, §40102(b)(1)(A), July 6, 2012, 126 Stat. 844; Pub. L. 114–94, div. C, title XXXI, §31102(b)(1), Dec. 4, 2015, 129 Stat. 1727; Pub. L. 115–141, div. U, title IV, §401(b)(43), Mar. 23, 2018, 132 Stat. 1204; Pub. L. 117–58, div. H, title I, §80102(b)(1), Nov. 15, 2021, 135 Stat. 1327.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (f). Pub. L. 117–58 substituted "2029" for "2023".
 
 <b>2018</b>—Subsec. (d). Pub. L. 115–141 amended subsec. (d) generally. Prior to amendment, text read as follows:
 
@@ -122,11 +126,17 @@ Subsec. (e). Pub. L. 91–605, §303(a)(8), substituted "1977" for "1972".
 
 <b>1961</b>—Subsec. (a). Pub. L. 87–61, §203(a), (b)(2)(A), increased rate of tax from $1.50 to $3.00 a year, and provided for a tax at the rate of 75 cents for each 1,000 pounds during the period beginning on July 1, 1972, and ending on September 30, 1972.
 
-Subsec. (c). Pub. L. 87–61, §203(b)(2)(B), substituted "any taxable period" for "any year", "after the first month in such period" for "after July 31", and "the last day in such taxable period" for "the last day of June following".
+Subsec. (c). Pub. L. 87–61, §203(b)(2)(B), substituted "any taxable period" for "any year", "after the firstmonth in such period" for "after July 31", and "the last day in such taxable period" for "the last day of June following".
 
 Subsec. (d). Pub. L. 87–61, §203(b)(2)(B), made conforming changes to refer to payment of tax for a taxable period instead of payment for a year, and inserted cross reference to section 6156.
 
 Subsec. (e). Pub. L. 87–61, §203(b)(1), substituted "before October 1, 1972" for "after June 30, 1956, and before July 1, 1972".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 80102(f) of Pub. L. 117–58, set out as a note under section 4041 of this title.
 
 #### Effective Date of 2015 Amendment
 
@@ -174,7 +184,7 @@ Special rule in the case of certain owner-operators.—
 
 "(A) In general.—In the case of a small owner-operator, paragraph (1) of this subsection and paragraph (2) of section 4481(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by this section) shall be applied by substituting for each date contained in such paragraphs a date which is 1 year after the date so contained.
 
-"(B) Small owner-operator.—For purposes of this paragraph, the term "small owner-operator" meansany person who owns and operates at any time during the taxable period no more than 5 highway motor vehicles with respect to which a tax is imposed by section 4481 of such Code for such taxable period.
+"(B) Small owner-operator.—For purposes of this paragraph, the term "small owner-operator" means any person who owns and operates at any time during the taxable period no more than 5 highway motor vehicles with respect to which a tax is imposed by section 4481 of such Code for such taxable period.
 
 &emsp;"\[No subpar. (C) has been enacted.\]
 
@@ -206,7 +216,7 @@ Pub. L. 100–17, title V, §507(c), Apr. 2, 1987, 101 Stat. 260, provided that:
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
+For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certaintransactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 
 #### Special Rules in the Case of Certain Owner-Operators
 

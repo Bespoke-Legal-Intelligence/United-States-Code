@@ -22,7 +22,7 @@ The Commission may not make a reimbursement under the Program to a provider of a
 
 &emsp;&emsp;&emsp;(i) as defined in the Report and Order of the Commission in the matter of Protecting Against National Security Threats to the Communications Supply Chain Through FCC Programs (FCC 19–121; WC Docket No. 18–89; adopted November 22, 2019) (in this section referred to as the "Report and Order"); or
 
-&emsp;&emsp;&emsp;(ii) as determined to be covered by both the process of the Report and Order and the Designation Orders of the Commission on June 30, 2020 (DA 20–690; PS Docket No. 19–351; adopted June 30, 2020) (DA 20–691; PS Docket No. 19–352; adopted June 30, 2020) (in this section collectively referred to as the "Designation Orders");
+&emsp;&emsp;&emsp;(ii) as determined to be covered by both the process of the Report and Order and the Designation Orders of the Commission on June 30, 2020 (DA 20–690; PS Docket No. 19–351; adopted June 30, 2020) (DA 20–691; PS Docket No. 19–352; adopted June 30,2020) (in this section collectively referred to as the "Designation Orders");
 
 &emsp;&emsp;(B) replacing the covered communications equipment or services removed as described in subparagraph (A) with communications equipment or services that are not covered communications equipment or services; and
 
@@ -90,7 +90,7 @@ The Commission may not make a reimbursement under the Program to a provider of a
 
 #### (B) Opportunity for applicant to cure deficiency
 
-&emsp;&emsp;If the Commission determines that an application is materially deficient (including by lacking an adequate cost estimate or adequate supporting materials), the Commission shall provide the applicant a 15-day period to cure the defect before denying the application. If such period would extend beyond the deadline under subparagraph (A)for approving or denying the application, such deadline shall be extended through the end of such period.
+&emsp;&emsp;If the Commission determines that an application is materially deficient (including by lacking an adequate cost estimate or adequate supporting materials), the Commission shall provide the applicant a 15-day period to cure the defect before denying the application. If such period would extend beyond the deadline under subparagraph (A) for approving or denying the application, such deadline shall be extended through the end of such period.
 
 #### (C) Effect of denial
 
@@ -166,11 +166,11 @@ The Commission may not make a reimbursement under the Program to a provider of a
 
 #### (ii) Grant
 
-&emsp;&emsp;&emsp;The Commission may grant a petition filed under clause (i) by extending, for therecipient that filed the petition, the deadline described in subparagraph (A) or, if the Commission has granted an extension of such deadline under subparagraph (B), such deadline as so extended, for a period of not more than 6 months if the Commission finds that, due to no fault of such recipient, such recipient is unable to complete the permanent removal, replacement, and disposal described in subparagraph (A).
+&emsp;&emsp;&emsp;The Commission may grant a petition filed under clause (i) by extending, for the recipient that filed the petition, the deadline described in subparagraph (A) or, if the Commission has granted an extension of such deadline under subparagraph (B), such deadline as so extended, for a period of not more than 6 months if the Commission finds that, due to no fault of such recipient, such recipient is unable to complete the permanent removal, replacement, and disposal described in subparagraph (A).
 
 #### (7) Disposal of covered communications equipment or services
 
-&emsp;The Commission shall include in the regulations promulgated under subsection (g) requirements for the disposal by a recipient of a reimbursement under the Program of covered communications equipment or services identified under paragraph (4)(A)(i) and removed from the network of the recipient in order to prevent such equipment or services from being used in the networks of providers of advanced communications service.
+&emsp;The Commission shall include in the regulations promulgated under subsection (g) requirements for the disposal by a recipient of a reimbursement under the Program of covered communications equipment or services identified under paragraph (4)(A)(i) and removed from the network of the recipient in order to prevent such equipment or services from beingused in the networks of providers of advanced communications service.
 
 #### (8) Status updates
 

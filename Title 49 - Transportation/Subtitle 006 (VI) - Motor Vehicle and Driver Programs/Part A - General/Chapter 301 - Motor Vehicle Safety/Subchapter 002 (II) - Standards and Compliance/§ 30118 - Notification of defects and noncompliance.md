@@ -6,7 +6,7 @@ Notification by Secretary.—The Secretary of Transportation shall notify the ma
 
 (b)
 
-Defect and Noncompliance Proceedings and Orders.—(1) The Secretary may make a final decision that a motor vehicle or replacement equipment contains a defect related to motor vehicle safety or does not comply with an applicable motor vehicle safety standard prescribed under this chapter only after giving the manufacturer an opportunity to present information, views, and arguments showing that there is no defect or noncompliance or that thedefect does not affect motor vehicle safety. Any interested person also shall be given an opportunity to present information, views, and arguments.
+Defect and Noncompliance Proceedings and Orders.—(1) The Secretary may make a final decision that a motor vehicle or replacement equipment contains a defect related to motor vehicle safety or does not comply with an applicable motor vehicle safety standard prescribed under this chapter only after giving the manufacturer an opportunity to present information, views, and arguments showing that there is no defect or noncompliance or that the defect does not affect motor vehicle safety. Any interested person also shall be given an opportunity to present information, views, and arguments.
 
 (2) If the Secretary decides under paragraph (1) of this subsection that the vehicle or equipment contains the defect or does not comply, the Secretary shall order the manufacturer to—
 
@@ -30,7 +30,23 @@ Exemptions.—On application of a manufacturer, the Secretary shall exempt the m
 
 Hearings About Meeting Notification Requirements.—On the motion of the Secretary or on petition of any interested person, the Secretary may conduct a hearing to decide whether the manufacturer has reasonably met the notification requirements under this section. Any interested person may make written and oral presentations of information, views, and arguments on whether the manufacturer has reasonably met the notification requirements. If the Secretary decides that the manufacturer has not reasonably met the notification requirements, the Secretary shall order the manufacturer to take specified action to meet those requirements and may take any other action authorized under this chapter.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 950; Pub. L. 106–346, §101(a) \[title III, §364\], Oct. 23, 2000, 114 Stat. 1356, 1356A–37; Pub. L. 106–414, §2, Nov. 1, 2000, 114 Stat. 1800; Pub. L. 114–94, div. B, title XXIV, §24104(b), Dec. 4, 2015, 129 Stat. 1703.)
+(f)
+
+Reports on Notification Campaigns.—
+
+&emsp;(1)
+
+In general.—Each manufacturer that is conducting a campaign under subsection (b) or (c) or any other provision of law (including regulations) to notify manufacturers, distributors, owners, purchasers, or dealers of a defect or noncompliance shall submit to the Administrator of the National Highway Traffic Safety Administration—
+
+&emsp;&emsp;(A) by the applicable date described in section 573.7(d) of title 49, Code of Federal Regulations (or a successor regulation), a quarterly report describing the campaign for each of 8 consecutive quarters, beginning with the quarter in which the campaign was initiated; and
+
+&emsp;&emsp;(B) an annual report for each of the 3 years beginning after the date of completion of the last quarter for which a quarterly report is submitted under subparagraph (A).
+
+&emsp;(2)
+
+Requirements.—Except as otherwise provided in this subsection, each report under this subsection shall comply with the requirements of section 573.7 of title 49, Code of Federal Regulations (or a successor regulation).
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 950; Pub. L. 106–346, §101(a) \[title III, §364\], Oct. 23, 2000, 114 Stat. 1356, 1356A–37; Pub. L. 106–414, §2, Nov. 1, 2000, 114 Stat. 1800; Pub. L. 114–94, div. B, title XXIV, §24104(b), Dec. 4, 2015, 129 Stat. 1703; Pub. L. 117–58, div. B, title IV, §24202(a), Nov. 15, 2021, 135 Stat. 819.)
 
 Historical and Revision Notes
 
@@ -106,13 +122,19 @@ In subsection (d), the words "any requirement under", "to give notice with respe
 
 In subsection (e), the words "(including a manufacturer)" are omitted as surplus. The word "information" is substituted for "data" for consistency in the revised title.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Subsec. (f). Pub. L. 117–58 added subsec. (f).
 
 <b>2015</b>—Subsec. (c). Pub. L. 114–94 inserted "or electronic mail" after "certified mail" in introductory provisions.
 
 <b>2000</b>—Pub. L. 106–346, §101(a) \[title III, §364\], which directed amendment of this section in subsecs. (a), (b)(1), and (c), by inserting ", original equipment," before "or replacement equipment" wherever appearing, and in subsec. (c), by redesignating pars. (1) and (2) as subpars. (A) and (B), respectively, and realigning margins, by substituting "(1)
 
 In general.—A manufacturer" for "A manufacturer", and by adding a new par (2) relating to duty of manufacturers, was repealed by Pub. L. 106–414, §2. See Construction of 2000 Amendment note below.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Construction of 2000 Amendment
 

@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Actual production history yield
 
-&emsp;The term "actual production history yield" means the weighted average of the actual production history for each insurable commodity or noninsurable commodity, as calculated under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.) or the noninsured crop disaster assistance program, respectively.
+&emsp;The term "actual production history yield" means the weighted average of the actual production history for each insurable commodityor noninsurable commodity, as calculated under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.) or the noninsured crop disaster assistance program, respectively.
 
 #### (2) Actual production on the farm
 
@@ -98,7 +98,7 @@ In this section:
 
 #### (11) Insurable commodity
 
-&emsp;The term "insurable commodity" means an agricultural commodity (excluding livestock) for which the producer on a farm is eligible to obtain a policy or plan of insurance under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.).
+&emsp;The term "insurable commodity" means an agricultural commodity (excluding livestock)for which the producer on a farm is eligible to obtain a policy or plan of insurance under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.).
 
 #### (12) Livestock
 
@@ -394,7 +394,7 @@ In this section:
 
 #### (E) Normal grazing period
 
-&emsp;&emsp;The term "normal grazing period", with respect to a county, means the normal grazing period during the calendar year for thecounty, as determined under paragraph (3)(D)(i).
+&emsp;&emsp;The term "normal grazing period", with respect to a county, means the normal grazing period during the calendar year for the county, as determined under paragraph (3)(D)(i).
 
 #### (2) Program
 
@@ -480,7 +480,7 @@ In this section:
 
 #### (II) D3
 
-&emsp;&emsp;&emsp;&emsp;An eligible livestock producer that owns or leases grazing land or pastureland that is physically located in a county that is rated by the U.S. Drought Monitor as having at least a D3 (extreme drought) intensity in any area of the county at any time during the normal grazing period for the county, as determined by the Secretary, shall be eligible to receive assistance under this paragraph—
+&emsp;&emsp;&emsp;&emsp;An eligible livestock producer that owns or leases grazing land orpastureland that is physically located in a county that is rated by the U.S. Drought Monitor as having at least a D3 (extreme drought) intensity in any area of the county at any time during the normal grazing period for the county, as determined by the Secretary, shall be eligible to receive assistance under this paragraph—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) in an amount equal to 2 monthly payments using the monthly payment rate determined under subparagraph (B); or
 
@@ -638,11 +638,11 @@ In this section:
 
 &emsp;&emsp;(A) in the case of each insurable commodity of the eligible producers on the farm, excluding grazing land, did not obtain a policy or plan of insurance under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.) (excluding a crop insurance pilot program under that Act); or
 
-&emsp;&emsp;(B) in the case of each noninsurable commodity of the eligible producers on the farm, did not file the required paperwork, and pay the administrative fee by the applicable State filing deadline, for the noninsured crop assistance program.
+&emsp;&emsp;(B) in the case of each noninsurable commodity of the eligible producers on the farm,did not file the required paperwork, and pay the administrative fee by the applicable State filing deadline, for the noninsured crop assistance program.
 
 #### (2) Minimum
 
-&emsp;To be considered to have obtained insurance under paragraph (1)(A), an eligible producer on a farm shall have obtained a policy or plan of insurance with not less than 50 percent yield coverage at 55 percent of the insurable pricefor each crop planted or intended to be planted for harvest on a whole farm.
+&emsp;To be considered to have obtained insurance under paragraph (1)(A), an eligible producer on a farm shall have obtained a policy or plan of insurance with not less than 50 percent yield coverage at 55 percent of the insurable price for each crop planted or intended to be planted for harvest on a whole farm.
 
 #### (3) Waiver for socially disadvantaged, limited resource, or beginning farmer or rancher
 
@@ -704,7 +704,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) in the case of each insurable commodity of the eligible producers on the farm, had obtained a policy or plan of insurance for the 2008 crop year at a level of coverage not to exceed 70 percent or more of the recorded or appraised average yield indemnified at 100 percent of the expected market price, or an equivalent coverage; and
 
-&emsp;&emsp;&emsp;(ii) in the case of each noninsurable commodity of the eligible producers on the farm, had filed the required paperwork,and paid the administrative fee by the applicable State filing deadline, for the noninsured crop assistance program for the 2008 crop year, except that in determining the level of coverage, the Secretary shall use 70 percent of the applicable yield.
+&emsp;&emsp;&emsp;(ii) in the case of each noninsurable commodity of the eligible producers on the farm, had filed the required paperwork, and paid the administrative fee by the applicable State filing deadline, for the noninsured crop assistance program for the 2008 crop year, except that in determining the level of coverage, the Secretary shall use 70 percent of the applicable yield.
 
 #### (C) Equitable relief
 
@@ -770,11 +770,13 @@ This section shall be effective only for losses that are incurred as the result 
 
 In implementing any other program which makes disaster assistance payments (except for indemnities made under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.)) <sup>7</sup> and section 7333 of title 7), the Secretary shall prevent duplicative payments with respect to the same loss for which a person receives a payment under subsections (b), (c), (d), (e), or (f).
 
-(Pub. L. 93–618, title IX, §901, as added Pub. L. 110–234, title XV, §15101(a), May 22, 2008, 122 Stat. 1484, and Pub. L. 110–246, §4(a), title XV, §15101(a), June 18, 2008, 122 Stat. 1664, 2246; amended Pub. L. 110–398, §2(b), Oct. 13, 2008, 122 Stat. 4218; Pub. L. 111–5, div. A, title I, §102(b), Feb. 17, 2009, 123 Stat. 123; Pub. L. 111–80, title VII, §745(b), Oct. 21, 2009, 123 Stat. 2130; Pub. L. 113–79, title XI, §11028(d), Feb. 7, 2014, 128 Stat. 978.)
+(Pub. L. 93–618, title IX, §901, as added Pub. L. 110–234, title XV, §15101(a), May 22, 2008, 122 Stat.1484, and Pub. L. 110–246, §4(a), title XV, §15101(a), June 18, 2008, 122 Stat. 1664, 2246; amended Pub. L. 110–398, §2(b), Oct. 13, 2008, 122 Stat. 4218; Pub. L. 111–5, div. A, title I, §102(b), Feb. 17, 2009, 123 Stat. 123; Pub. L. 111–80, title VII, §745(b), Oct. 21, 2009, 123 Stat. 2130; Pub. L. 113–79, title XI, §11028(d), Feb. 7, 2014, 128 Stat. 978.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Federal Crop Insurance Act, referred to in subsecs. (a)(1), (11), (b)(2)(C)(i), (4)(A)(i)(I), (B)(iii),\(d)(5)(A)(i), (D)(ii), (g)(1)(A), (5)(B), (7)(A)(ii)(I), and (j), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§1501 et seq.) of chapter 36 of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1501 of Title 7 and Tables.
+The Federal Crop Insurance Act, referred to in subsecs. (a)(1), (11), (b)(2)(C)(i), (4)(A)(i)(I), (B)(iii), (d)(5)(A)(i), (D)(ii), (g)(1)(A), (5)(B), (7)(A)(ii)(I), and (j), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§1501 et seq.) of chapter 36 of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1501 of Title 7 and Tables.
 
 Section 2279(e) of title 7, referred to in subsec. (a)(18), was redesignated section 2279(a) of title 7 by Pub. L. 115–334, title XII, §12301(b)(3), Dec. 20, 2018, 132 Stat. 4951.
 
@@ -854,7 +856,7 @@ Subsec. (b)(5)(A). Pub. L. 110–398, §2(b)(2)(E)(ii)(I), substituted "for each
 
 Subsec. (b)(5)(A)(i). Pub. L. 110–398, §2(b)(2)(E)(ii)(II), substituted "greater" for "greatest".
 
-Subsec. (b)(5)(A)(iii). Pub. L. 110–398, §2(b)(2)(E)(ii)(III), substituted "of the price election for the commodity used to calculate an indemnity for an applicable policy of insurance if an indemnity is triggered; and" for "of the insurance price guarantee; and".
+Subsec. (b)(5)(A)(iii). Pub. L. 110–398, §2(b)(2)(E)(ii)(III), substituted "of the price election forthe commodity used to calculate an indemnity for an applicable policy of insurance if an indemnity is triggered; and" for "of the insurance price guarantee; and".
 
 Subsec. (b)(5)(B). Pub. L. 110–398, §2(b)(2)(E)(iii)(I), substituted "for each noninsurable crop, the product" for "the product" in introductory provisions.
 
@@ -864,7 +866,7 @@ Subsec. (b)(6). Pub. L. 110–398, §2(b)(2)(F), added par. (6).
 
 Subsec. (d)(5)(B)(ii). Pub. L. 110–398, §2(b)(3), substituted "subsection" for "section".
 
-Subsec. (f)(2)(A). Pub. L. 110–398, §2(b)(4), substituted "the Secretary shall use such sums as are necessaryfrom the Trust Fund to provide" for "the Secretary shall provide" in introductory provisions.
+Subsec. (f)(2)(A). Pub. L. 110–398, §2(b)(4), substituted "the Secretary shall use such sums as are necessary from the Trust Fund to provide" for "the Secretary shall provide" in introductory provisions.
 
 Subsec. (g)(1). Pub. L. 110–398, §2(b)(6)(A)(i), substituted "(other than subsections (c) and (d))" for "(other than subsection (c))" in introductory provisions.
 
@@ -877,6 +879,8 @@ Subsec. (g)(4). Pub. L. 110–398, §2(b)(6)(C), (D), substituted "Waivers for c
 Subsec. (g)(6). Pub. L. 110–398, §2(b)(5), added par. (6).
 
 Subsec. (h)(5). Pub. L. 110–398, §2(b)(7), added par. (5).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

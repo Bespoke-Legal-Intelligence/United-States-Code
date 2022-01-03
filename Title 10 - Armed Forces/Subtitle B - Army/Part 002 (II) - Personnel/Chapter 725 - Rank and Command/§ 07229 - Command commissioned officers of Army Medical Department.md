@@ -28,7 +28,7 @@ R.S. 1169.
 
 Apr. 16, 1947, ch. 38, §106 (less 1st sentence), 61 Stat. 44.
 
-In subsection (a), the word "commissioned" is inserted for clarity. The words "Except as provided in section 94 of this title", not contained in section 1169 of the Revised Statutes, but contained in 10:94, are omitted as surplusage, since 10:94 deals exclusively with assignments. The words "except within the Army Medical Service" are substituted for the words "in the line or in other staff corps". Officers of the Army Nurse Corps and Women's Medical Specialist Corps are not covered by subsection (a), since their command authority is specifically stated in subsection (b).
+In subsection (a), the word "commissioned" is inserted for clarity. The words "Except as provided in section 94 of this title", not contained in section 1169 of the Revised Statutes, but contained in 10:94, are omitted as surplusage, since 10:94 deals exclusively with assignments. The words "except within the Army Medical Service" are substituted for the words "in the line orin other staff corps". Officers of the Army Nurse Corps and Women's Medical Specialist Corps are not covered by subsection (a), since their command authority is specifically stated in subsection (b).
 
 In subsection (b), 10:166e (last 22 words of 1st sentence) is omitted as superseded by sections 3012(e) and 3065 of this title. The words "may exercise command only" are substituted for the words "shall not be entitled \* \* \* to command except". The words "by virtue of their rank" and "by competent authority" are omitted as surplusage.
 
@@ -49,6 +49,8 @@ Act
 Aug. 9, 1955, ch. 654, §2, 69 Stat. 579.
 
 The amendment of subsec. (b) also reflects the authority contained in section 3357 of this title to appoint males as reserve officers of the Corps concerned.
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -75,6 +77,8 @@ Subsec. (c). Pub. L. 87–142, §1(2), added subsec. (c).
 <b>1958</b>—Subsec. (a). Pub. L. 85–861, §1(60), substituted "Army Medical Specialist Corps" for "Women's Medical Specialist Corps".
 
 Subsec. (b). Pub. L. 85–861, §1(60), (87), substituted "Army Medical Specialist Corps" for "Women's Medical Specialist Corps" and "his" for "her own" and "her".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

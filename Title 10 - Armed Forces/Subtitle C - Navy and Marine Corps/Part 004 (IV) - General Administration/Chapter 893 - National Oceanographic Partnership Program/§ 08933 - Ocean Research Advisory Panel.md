@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—(1) The Ocean Policy Committee shall establish an Ocean ResearchAdvisory Panel (in this section referred to as the "Advisory Panel"). The Advisory Panel shall consist of not fewer than 10 and not more than 18 members appointed by the co-chairs of the Committee, including each of the following:
+Establishment.—(1) The Ocean Policy Committee shall establish an Ocean Research Advisory Panel (in this section referred to as the "Advisory Panel"). The Advisory Panel shall consist of not fewer than 10 and not more than 18 members appointed by the co-chairs of the Committee, including each of the following:
 
 &emsp;(A) Three members who represent the National Academies of Sciences, Engineering, and Medicine.
 
@@ -44,6 +44,8 @@ Termination.—Notwithstanding section 14 of the Federal Advisory Committee Act 
 
 The Federal Advisory Committee Act, referred to in subsec. (e), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283 amended section generally. Prior to amendment, section related to establishment, membership, and responsibilities of Ocean Research Advisory Panel.
@@ -62,9 +64,11 @@ Establishment.—The Council shall establish an Ocean Research Advisory Panel co
 
 Responsibilities.—The Council shall assign to the Advisory Panel responsibilities that the Council considers appropriate."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments andspecial rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 1997 Amendment
 

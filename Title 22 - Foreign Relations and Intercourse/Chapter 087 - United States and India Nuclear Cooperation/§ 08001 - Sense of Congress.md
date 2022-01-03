@@ -64,7 +64,7 @@ Table of Contents.—\[Omitted.\]
 
 &emsp;"(1)
 
-Agreement.—The term 'United States-India Agreement for Cooperation on Peaceful Uses of Nuclear Energy' or 'Agreement' means the Agreement for Cooperation Between the Government of the United States of America and the Government of India Concerning Peaceful Uses of Nuclear Energy that was transmitted to Congress by the President on September 10, 2008.
+Agreement.—The term 'United States-India Agreement for Cooperation on Peaceful Uses of Nuclear Energy' or 'Agreement' means the Agreement for Cooperation Between the Government of the United States of America and the Government ofIndia Concerning Peaceful Uses of Nuclear Energy that was transmitted to Congress by the President on September 10, 2008.
 
 &emsp;"(2)
 
@@ -104,7 +104,7 @@ Declarations of Policy Relating to Transfer of Nuclear Equipment, Materials, and
 
 "(c)
 
-Certification Requirement.—Before exchanging diplomatic notes pursuant to Article 16(1) of the Agreement, the President shall certify to Congress that entry into force and implementation of the Agreement pursuant to its terms is consistent with the obligationof the United States under the Treaty on the Non-Proliferation of Nuclear Weapons, done at Washington, London, and Moscow July 1, 1968, and entered into force March 5, 1970 (commonly known as the 'Nuclear Non-Proliferation Treaty'), not in any way to assist, encourage, or induce India to manufacture or otherwise acquire nuclear weapons or other nuclear explosive devices.
+Certification Requirement.—Before exchanging diplomatic notes pursuant to Article 16(1) of the Agreement, the President shall certify to Congress that entry into force and implementation of the Agreement pursuant to its terms is consistent with the obligation of the United States under the Treaty on the Non-Proliferation of Nuclear Weapons, done at Washington, London, and Moscow July 1, 1968, and entered into force March 5, 1970 (commonly known as the 'Nuclear Non-Proliferation Treaty'), not in any way to assist, encourage, or induce India to manufacture or otherwise acquire nuclear weapons or other nuclear explosive devices.
 
 "(d)
 
@@ -200,7 +200,7 @@ Memorandum for the Secretary of State
 
 Pursuant to section 102(c) and section 204(a) of the United States-India Nuclear Cooperation Approval and Nonproliferation Enhancement Act, I hereby certify that:
 
-1\. Entry into force and implementation of the United States-India Agreement for Cooperation on PeacefulUses of Nuclear Energy pursuant to its terms is consistent with the obligation of the United States under the Treaty on the Non-Proliferation of Nuclear Weapons not in any way to assist, encourage, or induce India to manufacture or otherwise acquire nuclear weapons or other nuclear explosive devices; and
+1\. Entry into force and implementation of the United States-India Agreement for Cooperation on Peaceful Uses of Nuclear Energy pursuant to its terms is consistent with the obligation of the United States under the Treaty on the Non-Proliferation of Nuclear Weapons not in any way to assist, encourage, or induce India to manufacture or otherwise acquire nuclear weapons or other nuclear explosive devices; and
 
 2\. It is the policy of the United States to work with members of the Nuclear Suppliers Group, individually and collectively, to agree to further restrict the transfers of equipment and technology related to the enrichment of uranium and reprocessing of spent nuclear fuel.
 

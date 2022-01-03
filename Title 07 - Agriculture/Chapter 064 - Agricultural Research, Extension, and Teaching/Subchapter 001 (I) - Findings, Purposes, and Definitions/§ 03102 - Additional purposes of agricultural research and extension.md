@@ -6,7 +6,7 @@ The purposes of this chapter are to—
 
 &emsp;(2) undertake the special measures set forth in this chapter to improve the coordination and planning of agricultural research, extension, and teaching programs, identify needs and establish priorities for these programs, assure that national agricultural research, extension, and teaching objectives are fully achieved, and assure that the results of agricultural research are effectively communicated and demonstrated to farmers, processors, handlers, consumers, and all other users who can benefit therefrom;
 
-&emsp;(3) increase cooperation and coordination in the performance of agricultural research by Federal departments and agencies, the States, State agricultural experiment stations, colleges and universities, and user groups;
+&emsp;(3) increase cooperation and coordination in the performance of agricultural research byFederal departments and agencies, the States, State agricultural experiment stations, colleges and universities, and user groups;
 
 &emsp;(4) enable the Federal Government, the States, colleges and universities, and others to implement needed agricultural research, extension, and teaching programs, through the establishment of new programs and the improvement of existing programs, as provided for in this chapter;
 
@@ -17,6 +17,8 @@ The purposes of this chapter are to—
 &emsp;(7) establish a new program of education grants and fellowships to strengthen research, extension, and teaching programs in the food and agricultural sciences, to be awarded on the basis of competition.
 
 (Pub. L. 95–113, title XIV, §1403, Sept. 29, 1977, 91 Stat. 983; Pub. L. 97–98, title XIV, §1403, Dec. 22, 1981, 95 Stat. 1296; Pub. L. 101–624, title XVI, §1602(b), Nov. 28, 1990, 104 Stat. 3705.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -33,6 +35,8 @@ Par. (4). Pub. L. 97–98, §1403(2), substituted "programs through" for "progra
 Par. (5). Pub. L. 97–98, §1403(3), substituted "among research workers" for "among scientific research workers".
 
 Par. (7). Pub. L. 97–98, §1403(4), substituted "research, extension, and teaching" for "training and research".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1981 Amendment
 

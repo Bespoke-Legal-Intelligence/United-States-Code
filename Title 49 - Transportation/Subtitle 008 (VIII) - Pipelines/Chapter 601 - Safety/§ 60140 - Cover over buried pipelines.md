@@ -38,6 +38,8 @@ Report to congress.—If the Secretary develops legislative recommendations unde
 
 (Added Pub. L. 112–90, §28(a), Jan. 3, 2012, 125 Stat. 1920.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this section, referred to in subsec. (a)(2), is the date of enactment of Pub. L. 112–90, which was approved Jan. 3, 2012.

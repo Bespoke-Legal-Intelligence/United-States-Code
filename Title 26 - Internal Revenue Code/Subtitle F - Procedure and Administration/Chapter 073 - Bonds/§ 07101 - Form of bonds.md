@@ -12,6 +12,8 @@ Whenever, pursuant to the provisions of this title (other than section 7485), or
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 847; Pub. L. 92–310, title II, §230(b), June 6, 1972, 86 Stat. 209; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–258, §3(f)(11), Sept. 13, 1982, 96 Stat. 1065.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1982</b>—Par. (2). Pub. L. 97–258 substituted "section 9303 of title 31, United States Code" for "6 U.S.C. 15".

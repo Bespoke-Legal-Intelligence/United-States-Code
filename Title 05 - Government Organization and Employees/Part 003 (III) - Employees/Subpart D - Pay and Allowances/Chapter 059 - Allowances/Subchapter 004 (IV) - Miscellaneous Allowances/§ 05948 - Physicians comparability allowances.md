@@ -180,7 +180,7 @@ Pub. L. 97–141, §1, Dec. 29, 1981, 95 Stat. 1719, provided: "That this Act \[
 
 #### Short Title of 1979 Amendment
 
-Pub. L. 96–166, §1, Dec. 29, 1979, 93 Stat. 1273, provided: "That this Act \[amending this section and section 5383 of this title and provisions set out as a note under this section, and enacting provisions set out below\] may be cited as the 'Federal Physicians Comparability Allowance Amendments of 1979'."
+Pub. L. 96–166, §1, Dec. 29, 1979, 93 Stat. 1273, provided: "That this Act \[amending this section and section 5383of this title and provisions set out as a note under this section, and enacting provisions set out below\] may be cited as the 'Federal Physicians Comparability Allowance Amendments of 1979'."
 
 #### Short Title
 

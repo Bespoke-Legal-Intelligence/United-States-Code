@@ -2,7 +2,7 @@
 
 #### (a) Personnel of U.S. Customs and Border Protection
 
-The Commissioner and the Director of U.S. Immigration and Customs Enforcement shall ensure that sufficient personnel are assigned throughout U.S. Customs and Border Protection and U.S. Immigration and Customs Enforcement, respectively, who have responsibility for preventing the importation into the United States of merchandise that infringes intellectual property rights.
+The Commissioner and the Director of U.S. Immigration and Customs Enforcement shall ensure that sufficient personnel are assignedthroughout U.S. Customs and Border Protection and U.S. Immigration and Customs Enforcement, respectively, who have responsibility for preventing the importation into the United States of merchandise that infringes intellectual property rights.
 
 #### (b) Staffing of National Intellectual Property Rights Coordination Center
 

@@ -18,7 +18,7 @@ In this section:
 
 #### (b) Budget request
 
-The President shall submit to Congress, together with the annual budget submission of thePresident, a single budget line item reflecting the total amount requested by the President for funding for research, education, and extension activities of the Research, Education, and Economics mission area of the Department for that fiscal year and for the preceding 5 fiscal years.
+The President shall submit to Congress, together with the annual budget submission of the President, a single budget line item reflecting the total amount requested by the President for funding for research, education, and extension activities of the Research, Education, and Economics mission area of the Department for that fiscal year and for the preceding 5 fiscal years.
 
 #### (c) Capacity and infrastructure program request
 
@@ -82,7 +82,7 @@ Of the funds requested for competitive programs in excess of the competitive pro
 
 #### (3) Additional information described
 
-&emsp;The additional information described in this paragraph is information that the Secretary, after consulting with the Committee on Agriculture of the House of Representatives, the Committee on Agriculture, Nutrition, and Forestry of the Senate, and the Subcommittees on Agriculture, Rural Development, Food and Drug Administration, and Related Agencies of the Committee on Appropriations of the House of Representatives and the Senate, determines is a necessary revision or clarification to the information described in paragraph (2).
+&emsp;The additional information described in this paragraph is information that the Secretary, after consulting with the Committee on Agriculture of the House of Representatives, the Committee on Agriculture, Nutrition, and Forestry of the Senate, and the Subcommittees on Agriculture, Rural Development, Food and Drug Administration, and Related Agencies of the Committee on Appropriations ofthe House of Representatives and the Senate, determines is a necessary revision or clarification to the information described in paragraph (2).
 
 #### (4) Prohibition
 
@@ -124,6 +124,8 @@ Nothing in this section shall be construed so as to limit the authority of the S
 
 (Pub. L. 110–234, title VII, §7506, May 22, 2008, 122 Stat. 1259; Pub. L. 110–246, §4(a), title VII, §7506, June 18, 2008, 122 Stat. 1664, 2020; Pub. L. 113–79, title VII, §7513, Feb. 7, 2014, 128 Stat. 901; Pub. L. 115–334, title XII, §12301(a)(2)(C), Dec. 20, 2018, 132 Stat. 4950.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
@@ -147,6 +149,8 @@ Subsec. (e)(4)(C) to (E). Pub. L. 115–334, §12301(a)(2)(C)(ii)(I), (V), (VI),
 <b>2014</b>—Subsec. (a). Pub. L. 113–79, §7513(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "In this section, the term 'competitive programs' includes only competitive programs for which annual appropriations are requested in the annual budget submission of the President."
 
 Subsecs. (e) to (g). Pub. L. 113–79, §7513(2), added subsecs. (e) to (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

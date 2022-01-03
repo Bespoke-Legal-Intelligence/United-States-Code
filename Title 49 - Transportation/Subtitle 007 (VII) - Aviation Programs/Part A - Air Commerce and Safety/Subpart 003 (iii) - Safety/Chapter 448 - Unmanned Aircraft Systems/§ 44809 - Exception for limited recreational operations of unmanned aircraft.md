@@ -70,7 +70,7 @@ Savings clause.—Nothing in this subsection shall be construed as expanding the
 
 (e)
 
-Statutory Construction.—Nothing in this section shall be construed to limit the authority of the Administrator to pursue an enforcementaction against a person operating any unmanned aircraft who endangers the safety of the national airspace system.
+Statutory Construction.—Nothing in this section shall be construed to limit the authority of the Administrator to pursue an enforcement action against a person operating any unmanned aircraft who endangers the safety of the national airspace system.
 
 (f)
 
@@ -122,6 +122,8 @@ Recognition of Community-based Organizations.—In collaboration with aeromodell
 
 (Added Pub. L. 115–254, div. B, title III, §349(a), Oct. 5, 2018, 132 Stat. 3298.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this section, referred to in subsecs. (g)(1) and (i), is the date of enactment of Pub. L. 115–254, which was approved Oct. 5, 2018.
@@ -131,6 +133,8 @@ Section 501 of the Internal Revenue Code of 1986, referred to in subsec. (h)(1),
 #### Prior Provisions
 
 Provisions similar to those in subsecs. (a) and (e) of this section were contained in section 336(a) and (b) of Pub. L. 112–95, which was set out in a note under section 40101 of this title, prior to repeal by Pub. L. 115–254, div. B, title III, §349(b)(2), Oct. 5, 2018, 132 Stat. 3300. The remainder of the note comprised of subtitle B of title III of Pub. L. 112–95 was transferred and is set out under section 44802 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Use of Unmanned Aircraft Systems for Educational Purposes
 

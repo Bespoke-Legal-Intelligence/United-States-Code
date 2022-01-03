@@ -86,7 +86,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) more than one-half of the personal services performed in trades or businesses by the taxpayer during such taxable year are performed in real property trades or businesses in which the taxpayer materially participates, and
 
-&emsp;&emsp;&emsp;(ii) such taxpayer performs more than 750 hours of services during the taxable year in real property trades or businesses in which the taxpayer materially participates.
+&emsp;&emsp;&emsp;(ii) such taxpayer performs more than 750 hours of services during the taxableyear in real property trades or businesses in which the taxpayer materially participates.
 
 > &emsp;&emsp;In the case of a joint return, the requirements of the preceding sentence are satisfied if and only if either spouse separately satisfies such requirements. For purposes of the preceding sentence, activities in which a spouse materially participates shall be determined under subsection (h).
 
@@ -330,7 +330,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) any amount includible in gross income under section 86,
 
-&emsp;&emsp;&emsp;(ii) the amounts excludable from gross income under sections 135 and 137,
+&emsp;&emsp;&emsp;(ii) the amounts excludable from gross income under sections 85(c), 135, and 137,
 
 &emsp;&emsp;&emsp;(iii) the amounts allowable as a deduction under sections 219, 221, and 250, and
 
@@ -458,7 +458,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;This section shall be applied separately with respect to items attributable to each publicly traded partnership (and subsection (i) shall not apply with respect to items attributable to any such partnership). The preceding sentence shall not apply to any credit determined undersection 42, or any rehabilitation credit determined under section 47, attributable to a publicly traded partnership to the extent the amount of any such credits exceeds the regular tax liability attributable to income from such partnership.
+&emsp;This section shall be applied separately with respect to items attributable to each publicly traded partnership (and subsection (i) shall not apply with respect to items attributable to any such partnership). The preceding sentence shall not apply to any credit determined under section 42, or any rehabilitation credit determined under section 47, attributable to a publicly traded partnership to the extent the amount of any such credits exceeds the regular tax liability attributable to income from such partnership.
 
 #### (2) Publicly traded partnership
 
@@ -474,7 +474,7 @@ For purposes of this section—
 
 #### (4) Application to regulated investment companies
 
-&emsp;For purposes of this section, a regulated investment company (as defined in section 851) holding an interest in a qualified publicly traded partnership (as defined in section 851(h)) shall be treated as a taxpayer described in subsection (a)(2) with respect to items attributable to such interest.
+&emsp;For purposes of this section, a regulated investment company (as defined in section 851)holding an interest in a qualified publicly traded partnership (as defined in section 851(h)) shall be treated as a taxpayer described in subsection (a)(2) with respect to items attributable to such interest.
 
 #### (l) Regulations
 
@@ -490,9 +490,13 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;(5) which deal with changes in marital status and changes between joint returns and separate returns.
 
-(Added Pub. L. 99–514, title V, §501(a), Oct. 22, 1986, 100 Stat. 2233; amended Pub. L. 100–203, title X, §10212(a), Dec. 22, 1987, 101 Stat. 1330–405; Pub. L. 100–647, title I, §1005(a)(1)–(9), (11), (12), title II, §2004(g), title VI, §6009(c)(3), Nov. 10, 1988, 102 Stat. 3387–3389, 3603, 3690; Pub. L. 101–239, title VII, §7109(a), Dec. 19, 1989, 103 Stat. 2322; Pub. L. 101–508, title XI, §§11704(a)(6), 11813(b)(16), Nov. 5, 1990, 104 Stat. 1388–518, 1388–555; Pub. L. 103–66, title XIII, §13143(a), (b), Aug. 10, 1993, 107 Stat. 440, 441; Pub. L. 104–188, title I, §§1704(d)(1), (e)(1), 1807(c)(4), Aug. 20, 1996, 110 Stat. 1878, 1902; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(D), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 106–554, §1(a)(7) \[title I, §101(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–599; Pub. L. 107–16, title IV, §431(c)(3), June 7, 2001, 115 Stat. 68; Pub. L. 107–147, title IV, §412(a), Mar. 9, 2002, 116 Stat. 53; Pub. L. 108–357, title I, §102(d)(5), title III, §331(g), Oct. 22, 2004, 118 Stat. 1429, 1477; Pub. L. 113–295, div. A, title II, §221(a)(41)(G), (60)(A), Dec. 19, 2014, 128 Stat. 4044, 4047; Pub. L. 115–97, title I, §§13305(b)(1), 14202(b)(3), Dec. 22, 2017, 131 Stat. 2126, 2216; Pub. L. 115–141, div. U, title IV, §401(d)(1)(D)(ii), (5)(B)(i)–(iii), Mar. 23, 2018, 132 Stat. 1206, 1210; Pub. L. 116–260, div. EE, title I, §104(b)(2)(H), Dec. 27, 2020, 134 Stat. 3041.)
+(Added Pub. L. 99–514, title V, §501(a), Oct. 22, 1986, 100 Stat. 2233; amended Pub. L. 100–203, title X, §10212(a), Dec. 22, 1987, 101 Stat. 1330–405; Pub. L. 100–647, title I, §1005(a)(1)–(9), (11), (12), title II, §2004(g), title VI, §6009(c)(3), Nov. 10, 1988, 102 Stat. 3387–3389, 3603, 3690; Pub. L. 101–239, title VII, §7109(a), Dec. 19, 1989, 103 Stat. 2322; Pub. L. 101–508, title XI, §§11704(a)(6), 11813(b)(16), Nov. 5, 1990, 104 Stat. 1388–518, 1388–555; Pub. L. 103–66, title XIII, §13143(a), (b), Aug. 10, 1993, 107 Stat. 440, 441; Pub. L. 104–188, title I, §§1704(d)(1), (e)(1), 1807(c)(4), Aug. 20, 1996, 110 Stat. 1878, 1902; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(D), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 106–554, §1(a)(7) \[title I, §101(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–599; Pub. L. 107–16, title IV, §431(c)(3), June 7, 2001, 115 Stat. 68; Pub. L. 107–147, title IV, §412(a), Mar. 9, 2002, 116 Stat. 53; Pub. L. 108–357, title I, §102(d)(5), title III, §331(g), Oct. 22, 2004, 118 Stat. 1429, 1477; Pub. L. 113–295, div. A, title II, §221(a)(41)(G), (60)(A), Dec. 19, 2014, 128 Stat. 4044, 4047; Pub. L. 115–97, title I, §§13305(b)(1), 14202(b)(3), Dec. 22, 2017, 131 Stat. 2126, 2216; Pub. L. 115–141, div. U, title IV, §401(d)(1)(D)(ii), (5)(B)(i)–(iii), Mar. 23, 2018, 132 Stat. 1206, 1210; Pub. L. 116–260, div. EE, title I, §104(b)(2)(H), Dec. 27, 2020, 134 Stat. 3041; Pub. L. 117–2, title IX, §9042(b)(8), Mar. 11, 2021, 135 Stat. 122.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (i)(3)(E)(ii). Pub. L. 117–2 substituted "85(c), 135, and 137" for "135 and 137".
 
 <b>2020</b>—Subsec. (i)(3)(E)(iii). Pub. L. 116–260 struck out "222," after "221,".
 
@@ -646,13 +650,19 @@ Subsec. (m)(3)(A). Pub. L. 100–647, §1005(a)(12), added subpar. (A) and struc
 
 <b>1987</b>—Subsecs. (k) to (m). Pub. L. 100–203 added subsec. (k) and redesignated former subsecs. (k) and (l) as (l) and (m), respectively.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 117–2 applicable to taxable years beginning after Dec. 31, 2019, see section 9042(c) of Pub. L. 117–2, set out as a note under section 74 of this title.
+
 #### Effective Date of 2020 Amendment
 
 Amendment by Pub. L. 116–260 applicable to taxable years beginning after Dec. 31, 2020, see section 104(c) of div. EE of Pub. L. 116–260, set out as a note under section 25A of this title.
 
 #### Effective Date of 2017 Amendment
 
-Amendment by section 13305(b)(1) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, except as provided by transition rule, see section 13305(c) of Pub. L. 115–97, set out as a note under section 74 of this title.
+Amendment by section 13305(b)(1) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017,except as provided by transition rule, see section 13305(c) of Pub. L. 115–97, set out as a note under section 74 of this title.
 
 Amendment by section 14202(b)(3) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 14202(c) of Pub. L. 115–97, set out as a note under section 172 of this title.
 
@@ -746,7 +756,7 @@ Income from sales of passive activities in taxable years beginning before januar
 
 #### Savings Provision
 
-Amendment by section 401(d)(5)(B)(i)–(iii) of Pub. L. 115–141 not applicable to certain qualified community assets acquired, wages paid or incurred, qualified revitalization buildings placed in service, or property acquired before Jan. 1, 2010, see section 401(d)(5)(C) of Pub. L. 115–141, set out as a note under former section 1400E of this title.
+Amendment by section 401(d)(5)(B)(i)–(iii) of Pub. L. 115–141 not applicable to certain qualified communityassets acquired, wages paid or incurred, qualified revitalization buildings placed in service, or property acquired before Jan. 1, 2010, see section 401(d)(5)(C) of Pub. L. 115–141, set out as a note under former section 1400E of this title.
 
 For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 
@@ -842,7 +852,7 @@ Special Rules.—
 
 &emsp;"(1)
 
-Where more than 1 building in project.—If there is more than 1 building in any project, the determination of when such project is placed in service shall be based on when the 1st building in such project is placed in service.
+Where more than 1 building in project.—If there is more than 1 building in any project, the determination of when such project is placed in serviceshall be based on when the 1st building in such project is placed in service.
 
 &emsp;"(2)
 

@@ -1,5 +1,7 @@
 ### §314. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act Aug. 8, 1894, ch. 238, 28 Stat. 273, related to making promotions in service without prejudice to those transferred from Signal Service of War Department.

@@ -26,7 +26,7 @@ The Secretary shall adjust the apportionment base for each county as may be nece
 
 #### (f) Surrender of farm base acreage allotments
 
-Effective for the 1971 through 1977 crops, any part of any farm base acreage allotment on which upland cotton will not be planted and which is voluntarily surrendered to the county committee shall be deducted from the farm base acreage allotment for such farm and may be reapportioned by the county committee to other farms in the same county receiving farm base acreage allotments in amounts determined by the county committee to be fair and reasonable on the basis of past acreage of upland cotton,land, labor, equipment available for the production of upland cotton, crop rotation practices, and soil and other physical facilities affecting the production of upland cotton. If all of the acreage voluntarily surrendered is not needed in the county, the county committee may surrender the excess acreage to the State committee to be used to make adjustments in farm base acreage allotments for other farms in the State adversely affected by abnormal conditions affecting plantings or to correct inequities or to prevent hardship. Any farm base acreage allotment released under this provision shall be regarded for the purpose of establishing future farm base acreage allotments as having been planted on the farm and in the county where the release was made rather than on the farm and in the county to which the allotment was transferred: <i>Provided</i>, That, notwithstanding any other provision of law, any part of any farm base acreage allotment for any crop year may be permanently released in writing to the county committee by the owner and operator of the farm and reapportioned as provided herein. Acreage released under this subsection shall be credited to the State in determining future allotments.
+Effective for the 1971 through 1977 crops, any part of any farm base acreage allotment on which upland cotton will not be planted and which is voluntarily surrendered to the county committee shall be deducted from the farm base acreage allotment for such farm and may be reapportioned by the county committee to other farms in the same county receiving farm base acreage allotments in amounts determined by the county committee to be fair and reasonable on the basis of past acreage of upland cotton, land, labor, equipment available for the production of upland cotton, crop rotation practices, and soil and other physical facilities affecting the production of upland cotton. If all of the acreage voluntarily surrendered is not needed in the county, the county committee may surrender the excess acreage to the State committee to be used to make adjustments in farm base acreage allotments for other farms in the State adversely affected by abnormal conditions affecting plantings or to correct inequities or to prevent hardship. Any farm base acreage allotment released under this provision shall be regarded for the purpose of establishing future farm base acreage allotments as having been planted on the farm and in the county where the release was made rather than on the farm and in the county to which the allotment was transferred: <i>Provided</i>, That, notwithstanding any other provision of law, any part of any farm base acreage allotment for any crop year may be permanently released in writing to the county committee by the owner and operator of the farm and reapportioned as provided herein. Acreage released under this subsection shall be credited to the State in determining future allotments.
 
 #### (g) Compliance with set-aside requirements
 
@@ -37,6 +37,8 @@ Any farm receiving any base acreage allotment through release and reapportionmen
 Notwithstanding any other provision of this chapter, if the Secretary determines for any year that because of drought, flood, other natural disaster, or a condition beyond the control of the producer a portion of the farm base acreage allotment in a county cannot be timely planted or replanted in such year, he may authorize for such year the transfer of all or a part of such cotton acreage for any farm in the county so affected to another farm in the county or in any other nearby county on which one or more of the producers on the farm from which the transfer is to be made will be engaged in the production of upland cotton and will share in the proceeds thereof, in accordance with such regulations as the Secretary may prescribe. Any farm base acreage allotment transferred under this subsection shall be regarded as planted to upland cotton on the farm and in the county and State from which transfer is made for purposes of establishing future farm, county and State allotments.
 
 (Feb. 16, 1938, ch. 30, title III, §350, as added Pub. L. 88–297, title I, §105, Apr. 11, 1964, 78 Stat. 175; amended Pub. L. 89–321, title IV, §401(3), Nov. 3, 1965, 79 Stat. 1193; Pub. L. 90–559, §1(2), Oct. 11, 1968, 82 Stat. 996; Pub. L. 91–524, title VI, §601(4), Nov. 30, 1970, 84 Stat. 1372; Pub. L. 93–86, §1(19)(A), (D)–(G), Aug. 10, 1973, 87 Stat. 233.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -62,6 +64,8 @@ Subsec. (h). Pub. L. 93–86, §1(19)(G), substituted "to another farm in the co
 
 <b>1965</b>—Pub. L. 89–321 extended domestic acreage allotment program through the 1969 crop and otherwise amended section generally to authorize establishment of a national domestic allotment for each crop year equal to the estimated domestic consumption for the marketing year beginning in year in which crop is to be produced and to authorize determination of a farm domestic acreage allotment percentage for each year by dividing national domestic allotment by total for all States of product of State acreage allotment and the projected State yield.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1973 Amendment
 
 Pub. L. 93–86, §1(19)(E)–(G), Aug. 10, 1973, 87 Stat. 233, provided that the amendments made by section 1(19)(E)–(G) of Pub. L. 93–86 are effective beginning with the 1974 crop.
@@ -78,7 +82,7 @@ Pub. L. 89–321, title IV, §401(3), Nov. 3, 1965, 79 Stat. 1193, provided that
 
 Section inapplicable to 2014 through 2018 crops of covered commodities, cotton, and sugar and inapplicable to milk during period beginning Feb. 7, 2014, through Dec. 31, 2018, see section 9092(a)(1) of this title.
 
-Section inapplicable to 2008 through 2012 crops of covered commodities, peanuts, and sugar and inapplicableto milk during period beginning June 18, 2008, through Dec. 31, 2012, see section 8782(a)(1) of this title.
+Section inapplicable to 2008 through 2012 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning June 18, 2008, through Dec. 31, 2012, see section 8782(a)(1) of this title.
 
 Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(a)(1) of this title.
 

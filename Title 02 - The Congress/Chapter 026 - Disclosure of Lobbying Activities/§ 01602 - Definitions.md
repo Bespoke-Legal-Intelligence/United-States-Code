@@ -136,7 +136,7 @@ As used in this chapter:
 
 &emsp;&emsp;&emsp;(xix) between—
 
-&emsp;&emsp;&emsp;&emsp;(I) officials of a self-regulatory organization (as defined in section 3(a)(26) of the Securities Exchange Act \[15 U.S.C. 78c(a)(26)\]) that is registered with or established by the Securities and Exchange Commission as required by that Act \[15 U.S.C. 78a et seq.\] or a similar organization that is designated by or registered with the Commodities Future Trading Commission as provided underthe Commodity Exchange Act \[7 U.S.C. 1 et seq.\]; and
+&emsp;&emsp;&emsp;&emsp;(I) officials of a self-regulatory organization (as defined in section 3(a)(26) of the Securities Exchange Act \[15 U.S.C. 78c(a)(26)\]) that is registered with or established by the Securities and Exchange Commission as required by that Act \[15 U.S.C. 78a et seq.\] or a similar organization that is designated by or registered with the Commodities Future Trading Commission as provided under the Commodity Exchange Act \[7 U.S.C. 1 et seq.\]; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the Securities and Exchange Commission or the Commodities Future Trading Commission, respectively;
 

@@ -6,17 +6,23 @@ The Secretary is authorized and directed to prepare a comprehensive program mana
 
 #### (b) Transmission to Congressional committees; revisions
 
-The Secretary shall transmit the comprehensive program management plan along with any comments by the Commission on the plan to the Committee on Science and Technology of the House of Representatives and the Committee on Energy and Natural Resources and the Committee on Environment and Public Works of the Senate within twelve months after December 22, 1980. Revisions to the plan shall be transmitted to such committees whenever deemed appropriate by the Secretary.
+The Secretary shall transmit the comprehensive program management plan along with anycomments by the Commission on the plan to the Committee on Science and Technology of the House of Representatives and the Committee on Energy and Natural Resources and the Committee on Environment and Public Works of the Senate within twelve months after December 22, 1980. Revisions to the plan shall be transmitted to such committees whenever deemed appropriate by the Secretary.
 
 (Pub. L. 96–567, §8, Dec. 22, 1980, 94 Stat. 3332; Pub. L. 104–66, title I, §1051(l), Dec. 21, 1995, 109 Stat. 717.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>1995</b>—Subsec. (c). Pub. L. 104–66 struck out subsec. (c) which directed Secretary of Energy to transmit to Congress, concurrently with submission of President's annual budget to Congress, detailed description of comprehensive plan as then in effect.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

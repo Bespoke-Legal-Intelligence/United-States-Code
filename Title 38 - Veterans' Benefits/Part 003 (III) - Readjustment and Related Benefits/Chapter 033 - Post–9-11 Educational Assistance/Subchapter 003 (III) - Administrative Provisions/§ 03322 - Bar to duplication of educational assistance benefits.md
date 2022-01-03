@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—An individual entitled to educational assistance under this chapter who isalso eligible for educational assistance under chapter 30, 31, 32, or 35 of this title, chapter 107, 1606, or 1607 or section 510 of title 10, or the provisions of the Hostage Relief Act of 1980 (Public Law 96–449; 5 U.S.C. 5561 note) may not receive assistance under two or more such programs concurrently, but shall elect (in such form and manner as the Secretary may prescribe) under which chapter or provisions to receive educational assistance.
+In General.—An individual entitled to educational assistance under this chapter who is also eligible for educational assistance under chapter 30, 31, 32, or 35 of this title, chapter 107, 1606, or 1607 or section 510 of title 10, or the provisions of the Hostage Relief Act of 1980 (Public Law 96–449; 5 U.S.C. 5561 note) may not receive assistance under two or more such programs concurrently, but shall elect (in such form and manner as the Secretary may prescribe) under which chapter or provisions to receive educational assistance.
 
 (b)
 
@@ -14,7 +14,7 @@ Service in Selected Reserve.—An individual who serves in the Selected Reserve 
 
 (d)
 
-Additional Coordination Matters.—In the case of an individual entitled to educational assistance under chapter 30, 31, 32, or 35 of this title, chapter 107, 1606, or 1607 of title 10, or the provisions of the Hostage Relief Act of 1980, or making contributions toward entitlement to educational assistance under chapter 30 of this title, as of August 1, 2009, coordination of entitlement to educational assistance under this chapter, on the one hand, and such chapters or provisions, on the other, shall be governed by the provisions of section 5003(c) of the Post-9/11 Veterans Educational Assistance Act of 2008.
+Additional Coordination Matters.—In the case of an individual entitled to educational assistance under chapter 30, 31, 32, or 35 of this title, chapter 107, 1606, or 1607 of title 10, or the provisions of the Hostage Relief Act of 1980, or making contributions toward entitlement to educational assistance under chapter 30 of thistitle, as of August 1, 2009, coordination of entitlement to educational assistance under this chapter, on the one hand, and such chapters or provisions, on the other, shall be governed by the provisions of section 5003(c) of the Post-9/11 Veterans Educational Assistance Act of 2008.
 
 (e)
 
@@ -78,7 +78,7 @@ Subsec. (h). Pub. L. 111–377, §111(d), added subsec. (h).
 
 #### Effective Date of 2021 Amendment
 
-Amendment by Pub. L. 116–315 effective immediately after the amendments made by section 105 of Pub. L.115–48 \[amendments effective Aug. 1, 2020\] and applicable with respect to a quarter, semester, or term, commencing on or after Aug. 1, 2021, see section 1002(c) of Pub. L. 116–315, set out as a note under section 3311 of this title.
+Amendment by Pub. L. 116–315 effective immediately after the amendments made by section 105 of Pub. L. 115–48 \[amendments effective Aug. 1, 2020\] and applicable with respect to a quarter, semester, or term, commencing on or after Aug. 1, 2021, see section 1002(c) of Pub. L. 116–315, set out as a note under section 3311 of this title.
 
 #### Effective Date of 2017 Amendment
 

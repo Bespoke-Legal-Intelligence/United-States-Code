@@ -2,7 +2,7 @@
 
 #### (a) Grants
 
-The Secretary of Health and Human Services (referred to in this section as the "Secretary") shall award grants to, or enter into cooperative agreements with, Federal, State, and local agencies to improve coordination between publichealth laboratories and laboratories operated by law enforcement agencies, such as Customs and Border Protection and the Drug Enforcement Administration, to improve detection of synthetic opioids, including fentanyl and its analogues, as described in subsection (b).
+The Secretary of Health and Human Services (referred to in this section as the "Secretary")shall award grants to, or enter into cooperative agreements with, Federal, State, and local agencies to improve coordination between public health laboratories and laboratories operated by law enforcement agencies, such as Customs and Border Protection and the Drug Enforcement Administration, to improve detection of synthetic opioids, including fentanyl and its analogues, as described in subsection (b).
 
 #### (b) Detection activities
 
@@ -39,6 +39,8 @@ The Secretary shall require recipients of grants or cooperative agreements under
 To carry out this section, there is authorized to be appropriated $15,000,000 for each of fiscal years 2019 through 2023.
 
 (Pub. L. 115–271, title VII, §7011, Oct. 24, 2018, 132 Stat. 4008.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

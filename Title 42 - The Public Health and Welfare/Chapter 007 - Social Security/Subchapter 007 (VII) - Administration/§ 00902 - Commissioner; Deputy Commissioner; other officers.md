@@ -46,7 +46,9 @@ There shall be in the Administration a Chief Financial Officer appointed by the 
 
 There shall be in the Administration an Inspector General appointed by the President, by and with the advice and consent of the Senate, in accordance with section 3(a) of the Inspector General Act of 1978.
 
-(Aug. 14, 1935, ch. 531, title VII, §702, 49 Stat. 636; Aug. 28, 1950, ch. 809, title III, pt. 6, §361(c), (d),64 Stat. 558; Pub. L. 98–369, div. B, title VI, §2663(j)(2)(C)(i), (l)(1), July 18, 1984, 98 Stat. 1170, 1171; Pub. L. 103–296, title I, §102, Aug. 15, 1994, 108 Stat. 1465; Pub. L. 104–121, title I, §103(e)(1), Mar. 29, 1996, 110 Stat. 851.)
+(Aug. 14, 1935, ch. 531, title VII, §702, 49 Stat. 636; Aug. 28, 1950, ch. 809, title III, pt. 6, §361(c), (d), 64 Stat. 558; Pub. L. 98–369, div. B, title VI, §2663(j)(2)(C)(i), (l)(1), July 18, 1984, 98 Stat. 1170, 1171; Pub. L. 103–296, title I, §102, Aug. 15, 1994, 108 Stat. 1465; Pub. L. 104–121, title I, §103(e)(1), Mar. 29, 1996, 110 Stat. 851.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -66,9 +68,11 @@ Pub. L. 98–369, §2663(j)(2)(C)(i), which directed the substitution of "Health
 
 <b>1950</b>—Act Aug. 28, 1950, substituted "Administrator" for "Board" and "him" for "it".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–121, title I, §103(e)(2), Mar. 29, 1996, 110 Stat. 851, provided that: "The amendments made by this subsection \[amending this section\] shall take effect on the date of the enactment of this Act \[Mar. 29, 1996\]."
+Pub. L. 104–121, title I, §103(e)(2), Mar. 29, 1996, 110 Stat. 851, provided that: "The amendments made bythis subsection \[amending this section\] shall take effect on the date of the enactment of this Act \[Mar. 29, 1996\]."
 
 #### Effective Date of 1994 Amendment
 
@@ -130,7 +134,7 @@ Pub. L. 98–21, title III, §343, Apr. 20, 1983, 97 Stat. 136, directed Secreta
 
 #### Universal Coverage of Social Security Programs; Study and Report to President and Congress Respecting Scope, Alternatives, etc.; Consultation by Secretary
 
-Pub. L. 95–216, title III, §311, Dec. 20, 1977, 91 Stat. 1531, as amended by 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783, directed Secretary of Health, Education, and Welfare to undertake as soon as possible after Dec. 20, 1977, a thorough study with respect to extent of coverage under old-age, survivors, and disability insurance programs and under programs established by subchapter XVIII of this chapter and submit a report on findings of such study not later than 2 years after Dec. 20, 1977.
+Pub. L. 95–216, title III, §311, Dec. 20, 1977, 91 Stat. 1531, as amended by 1978 Reorg. Plan No. 2, §102, eff.Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783, directed Secretary of Health, Education, and Welfare to undertake as soon as possible after Dec. 20, 1977, a thorough study with respect to extent of coverage under old-age, survivors, and disability insurance programs and under programs established by subchapter XVIII of this chapter and submit a report on findings of such study not later than 2 years after Dec. 20, 1977.
 
 #### Proposals for Elimination of Dependency and Sex Discrimination Under Social Security Program; Study and Report to Congress
 

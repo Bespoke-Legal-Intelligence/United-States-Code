@@ -42,7 +42,7 @@ In this section, the term—
 
 &emsp;&emsp;&emsp;(iii) a discharge that is not covered by part 122.3 of title 40, Code of Federal Regulations (as in effect on February 10, 1996);
 
-&emsp;(13) "marine pollution control device" means, except as provided in subsection (p), any equipment or management practice, for installation or use on board a vessel of the Armed Forces, that is—
+&emsp;(13) "marine pollution control device" means, except as provided in subsection (p),any equipment or management practice, for installation or use on board a vessel of the Armed Forces, that is—
 
 &emsp;&emsp;(A) designed to receive, retain, treat, control, or discharge a discharge incidental to the normal operation of a vessel; and
 
@@ -106,7 +106,7 @@ Before the standards and regulations under this section are promulgated, the Adm
 
 &emsp;&emsp;(A) for the manufacturer of any vessel subject to such standards and regulations to manufacture for sale, to sell or offer for sale, or to distribute for sale or resale any such vessel unless it is equipped with a marine sanitation device and marine pollution control device equipment which is in all material respects substantially the same as the appropriate test device certified pursuant to this section;
 
-&emsp;&emsp;(B) for any person, prior to the sale or delivery of a vessel subject to such standards and regulations to the ultimate purchaser, wrongfully to remove or render inoperative any certified marine sanitation device or element of design of such device or any certified marine pollution control device equipment or element of design of such equipment installed in such vessel;
+&emsp;&emsp;(B) for any person, prior to the sale or delivery of a vessel subject to such standards and regulations to the ultimate purchaser, wrongfully to remove or render inoperative any certified marine sanitation device orelement of design of such device or any certified marine pollution control device equipment or element of design of such equipment installed in such vessel;
 
 &emsp;&emsp;(C) for any person to fail or refuse to permit access to or copying of records or to fail to make reports or provide information required under this section; and
 
@@ -172,7 +172,7 @@ Any person who violates subsection (g)(1), clause (1) or (2) of subsection (h), 
 
 #### (B) Jurisdiction
 
-&emsp;&emsp;The appropriate Federal district court shall have jurisdiction with respect to a civilaction filed pursuant to subparagraph (A), without regard to the amount in controversy or the citizenship of the parties—
+&emsp;&emsp;The appropriate Federal district court shall have jurisdiction with respect to a civil action filed pursuant to subparagraph (A), without regard to the amount in controversy or the citizenship of the parties—
 
 &emsp;&emsp;&emsp;(i) to enforce the requirements of this section; and
 
@@ -184,7 +184,7 @@ Anyone authorized by the Secretary of the department in which the Coast Guard is
 
 #### (m) Enforcement in United States possessions
 
-In the case of Guam and the Trust Territory of the Pacific Islands, actions arising under this section may be brought in the district court of Guam, and in the case of the Virgin Islands such actions may be brought in the district court of the Virgin Islands. In the case of American Samoa and the Trust Territory of the Pacific Islands, such actions may be brought in the District Court of the United States for the District of Hawaii and such court shall have jurisdiction of such actions. In the case of the Canal Zone, such actions may be brought in the District Court for the District of the Canal Zone.
+In the case of Guam and the Trust Territory of the Pacific Islands, actions arising under this section may be brought in the district court of Guam, and in the case of the Virgin Islands suchactions may be brought in the district court of the Virgin Islands. In the case of American Samoa and the Trust Territory of the Pacific Islands, such actions may be brought in the District Court of the United States for the District of Hawaii and such court shall have jurisdiction of such actions. In the case of the Canal Zone, such actions may be brought in the District Court for the District of the Canal Zone.
 
 #### (n) Uniform national discharge standards for vessels of Armed Forces
 
@@ -330,7 +330,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 &emsp;&emsp;&emsp;(i) shall not impose any design, construction, manning, or equipment standard on a foreign flagged vessel engaged in innocent passage unless the prohibition implements a generally accepted international rule or standard; and
 
-&emsp;&emsp;&emsp;(ii) that relates to the prevention, reduction, and control of pollution shall not apply to a foreign flagged vessel engaged in transit passage unless the prohibition implements an applicable international regulation regarding the discharge of oil, oily waste, or any other noxious substance into the waters.
+&emsp;&emsp;&emsp;(ii) that relates to the prevention, reduction, and control of pollution shall notapply to a foreign flagged vessel engaged in transit passage unless the prohibition implements an applicable international regulation regarding the discharge of oil, oily waste, or any other noxious substance into the waters.
 
 #### (8) Prohibition relating to vessels of the Armed Forces
 
@@ -744,7 +744,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 &emsp;&emsp;&emsp;&emsp;(III) a small vessel or fishing vessel, except that this subsection shall apply to any discharge of ballast water from a small vessel or fishing vessel; or
 
-&emsp;&emsp;&emsp;&emsp;(IV) a floating craft that is permanently moored to a pier, including a"floating" casino, hotel, restaurant, or bar;
+&emsp;&emsp;&emsp;&emsp;(IV) a floating craft that is permanently moored to a pier, including a "floating" casino, hotel, restaurant, or bar;
 
 &emsp;&emsp;&emsp;(ii) of ballast water from a vessel—
 
@@ -752,7 +752,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 &emsp;&emsp;&emsp;&emsp;(II) in the National Defense Reserve Fleet that is scheduled for disposal, if the vessel does not have an operable ballast water management system;
 
-&emsp;&emsp;&emsp;&emsp;(III) that discharges ballast water consisting solely of water taken onboard from a public or commercial source that, at the time the water is taken onboard, meets the applicable requirements or permit requirements of the Safe Drinking Water Act (42 U.S.C. 300f et seq.);
+&emsp;&emsp;&emsp;&emsp;(III) that discharges ballast water consisting solely of water taken onboard from a public or commercial source that, at the time the water is taken onboard,meets the applicable requirements or permit requirements of the Safe Drinking Water Act (42 U.S.C. 300f et seq.);
 
 &emsp;&emsp;&emsp;&emsp;(IV) that carries all permanent ballast water in sealed tanks that are not subject to discharge; or
 
@@ -902,7 +902,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(BB) would have justified the application of a less-stringent standard of performance at the time of promulgation; or
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) if the Administrator determines that a material technical mistake ormisinterpretation of law occurred when promulgating the existing standard of performance or comparable requirement of the Vessel General Permit, as applicable.
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) if the Administrator determines that a material technical mistake or misinterpretation of law occurred when promulgating the existing standard of performance or comparable requirement of the Vessel General Permit, as applicable.
 
 #### (E) Best management practices for aquatic nuisance species emergencies and further protection of water quality
 
@@ -1046,7 +1046,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) would compromise the safety of the vessel; or
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) is otherwise prohibited by any Federal, Canadian, or internationallaw (including regulations) pertaining to vessel safety;
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) is otherwise prohibited by any Federal, Canadian, or international law (including regulations) pertaining to vessel safety;
 
 &emsp;&emsp;&emsp;&emsp;(IV) if design limitations of the vessel prevent a ballast water exchange or saltwater flush from being conducted in accordance with clause (i); or
 
@@ -1408,7 +1408,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;The Governor of a Great Lakes State (or a State employee designee) may submit a petition in accordance with subclause (II) to propose that other Governors of Great Lakes States endorse an enhanced standard of performance or other requirement with respect to any discharge that—
+&emsp;&emsp;&emsp;&emsp;The Governor of a Great Lakes State (or a State employee designee) may submit a petition in accordance with subclause (II) to propose that other Governors of Great Lakes States endorse anenhanced standard of performance or other requirement with respect to any discharge that—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) is subject to regulation under this subsection; and
 
@@ -1558,7 +1558,7 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 #### (IV) Approval or disapproval
 
-&emsp;&emsp;&emsp;&emsp;Not later than 180 days after the date of receipt of each proposed standard of performance or other requirement under subclause (I), the Administrator and the Secretary shall—
+&emsp;&emsp;&emsp;&emsp;Not later than 180 days after the date of receipt of each proposed standard ofperformance or other requirement under subclause (I), the Administrator and the Secretary shall—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) determine, as applicable, whether each proposed standard or other requirement satisfies the criteria under subclause (III)(aa);
 
@@ -1624,11 +1624,11 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) voyaging—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(AA) between or to a port or place of destination in the State of Washington, if the ballast water to be discharged from the commercial vesseloriginated solely from waters located between the parallel 46 degrees north latitude, including the internal waters of the Columbia River, and the internal waters of Canada south of parallel 50 degrees north latitude, including the waters of the Strait of Georgia and the Strait of Juan de Fuca;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(AA) between or to a port or place of destination in the State of Washington, if the ballast water to be discharged from the commercial vessel originated solely from waters located between the parallel 46 degrees north latitude, including the internal waters of the Columbia River, and the internal waters of Canada south of parallel 50 degrees north latitude, including the waters of the Strait of Georgia and the Strait of Juan de Fuca;
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(BB) between ports or places of destination in the State of Oregon, if the ballast water to be discharged from the commercial vessel originated solely from waters located between the parallel 40 degrees north latitude and the parallel 50 degrees north latitude;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(CC) between ports or places of destination in the State of California within the San Francisco Bay area east of the Golden Gate Bridge, including the Port of Stockton and the Port of Sacramento, if the ballast water to be discharged from the commercial vessel originated solely from ports or places within that area;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(CC) between ports or places of destination in the State of Californiawithin the San Francisco Bay area east of the Golden Gate Bridge, including the Port of Stockton and the Port of Sacramento, if the ballast water to be discharged from the commercial vessel originated solely from ports or places within that area;
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(DD) between the Port of Los Angeles, the Port of Long Beach, and the El Segundo offshore marine oil terminal, if the ballast water to be discharged from the commercial vessel originated solely from the Port of Los Angeles, the Port of Long Beach, or the El Segundo offshore marine oil terminal;
 
@@ -1756,7 +1756,7 @@ Sections 92, 93, and 633 of title 14, referred to in subsec. (p)(1)(J), were red
 
 The Act of July 24, 1968, referred to in subsec. (p)(1)(L), (10)(B)(iii)(VIII), is Pub. L. 90–419, July 24, 1968, 82 Stat. 414, which is not classified to the Code.
 
-The Safe Drinking Water Act, referred to in subsec. (p)(2)(B)(ii)(III), is title XIV of act July 1, 1944, as addedDec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1660, which is classified generally to subchapter XII (§300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Safe Drinking Water Act, referred to in subsec. (p)(2)(B)(ii)(III), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1660, which is classified generally to subchapter XII (§300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 Section 903(a)(2)(A) of the Vessel Incidental Discharge Act of 2018, referred to in subsec. (p)(3)(B), is section 903(a)(2)(A) of title IX of Pub. L. 115–282, Dec. 4, 2018, 132 Stat. 4354, which repealed section 4711 of Title 16, Conservation, and provisions set out as a note under section 1342 of this title.
 
@@ -1826,15 +1826,11 @@ Subsec. (f)(4). Pub. L. 95–217, §59(e), designated existing provisions as sub
 
 #### Change of Name
 
-"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsec. (e) pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsec. (e) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-#### Termination of Trust Territory of the Pacific Islands
-
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
 #### Termination of United States District Court for the District of the Canal Zone
 
@@ -1950,7 +1946,7 @@ Plan.—Within 6 months after the notification under section 5605(b), and based 
 
 &emsp;"(1) develop and submit to the Secretary of the Interior a plan for any construction or renovation of pumpout stations and waste reception facilities that are necessary to ensure that, based on the guidance issued under section 5605(a), there are pumpout stations and waste reception facilities in the State that are adequate and reasonably available to meet the needs of recreational vessels using the coastal waters of the State; and
 
-&emsp;"(2) submit to the Secretary of the Interior with that plan a list of all stations and facilities in the coastal zone of the State which are operational on the date of submittal.
+&emsp;"(2) submit to the Secretary of the Interior with that plan a list of all stations and facilities in thecoastal zone of the State which are operational on the date of submittal.
 
 "(c)
 
@@ -2058,7 +2054,7 @@ Issuance of Guidance.—Not later than 3 months after the date of the enactment 
 
 "(b)
 
-Notification.—Not later than one month after the guidance issued under subsection (a) is finalized,the Secretary of the Interior shall provide notification in writing to the fish and wildlife, water pollution control, and coastal zone management authorities of each State, of—
+Notification.—Not later than one month after the guidance issued under subsection (a) is finalized, the Secretary of the Interior shall provide notification in writing to the fish and wildlife, water pollution control, and coastal zone management authorities of each State, of—
 
 &emsp;"(1) the availability of amounts under the Act of August 9, 1950 (16 U.S.C. 777a et seq. \[16 U.S.C. 777 et seq.\]) to implement the Clean Vessel Act of 1992; and
 
@@ -2111,6 +2107,10 @@ Notification.—Not later than one month after the guidance issued under subsect
 &emsp;"(8) 'waste reception facility' means a facility specifically designed to receive wastes from portable toilets carried on vessels, and does not include lavatories."
 
 #### <b>Executive Documents</b>
+
+#### Termination of Trust Territory of the Pacific Islands
+
+For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
 #### Contiguous Zone of United States
 

@@ -46,7 +46,7 @@ Controlled Substance Criminal Penalty.—(1) In this subsection, "controlled sub
 
 &emsp;(B) that is provided is related to an act punishable by death or imprisonment for more than one year under a law of the United States or a State related to a controlled substance (except a law related to simple possession of a controlled substance).
 
-(3) A term of imprisonment imposed under paragraph (2) of this subsection shall be servedin addition to, and not concurrently with, any other term of imprisonment imposed on the individual.
+(3) A term of imprisonment imposed under paragraph (2) of this subsection shall be served in addition to, and not concurrently with, any other term of imprisonment imposed on the individual.
 
 (d)
 
@@ -82,7 +82,7 @@ Relationship to State Laws.—This part does not prevent a State from establishi
 
 &emsp;(2) knowingly sells, uses, attempts to use, or possesses with the intent to use, a fraudulent aircraft certificate of registration;
 
-&emsp;(3) knowingly and willfully displays or causes to be displayed on an aircraft a mark that is false or misleading about the nationality or registration of the aircraft; or
+&emsp;(3) knowingly and willfully displays or causes to be displayed on an aircraft a markthat is false or misleading about the nationality or registration of the aircraft; or
 
 &emsp;(4) obtains an aircraft certificate of registration from the Administrator of the Federal Aviation Administration by—
 
@@ -158,13 +158,17 @@ In subsection (e), before clause (1), the words "this subsection or in any other
 
 This makes a clarifying amendment to 49:46306(c)(2)(B).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (c)(2)(B). Pub. L. 104–287 inserted "that is" before "provided".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
-"Commissioner of U.S. Customs and Border Protection" substituted for "Commissioner of Customs" in subsec. (d)(1) on authority of section 802(d)(2) of Pub. L.114–125, set out as a note under section 211 of Title 6, Domestic Security.
+"Commissioner of U.S. Customs and Border Protection" substituted for "Commissioner of Customs" in subsec. (d)(1) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under section 211 of Title 6, Domestic Security.
 
 #### Effective Date of 1996 Amendment
 

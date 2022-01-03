@@ -4,15 +4,21 @@ No officer, agent, or employee of the Department of Agriculture shall demand or 
 
 (Jan. 31, 1925, ch. 124, §2, 43 Stat. 803.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 522 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
-#### Transfer of Functions
-
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Department of the Interior Personnel
 
 Application to Department of the Interior employees, see note under section 2217 of this title.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 

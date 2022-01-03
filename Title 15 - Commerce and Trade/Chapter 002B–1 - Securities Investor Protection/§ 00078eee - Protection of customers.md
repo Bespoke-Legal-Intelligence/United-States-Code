@@ -16,13 +16,13 @@
 
 &emsp;&emsp;SIPC may, upon notice to a member of SIPC, file an application for a protective decree with any court of competent jurisdiction specified in section 78u(e) or 78aa of this title, except that no such application shall be filed with respect to a member, the only customers of which are persons whose claims could not be satisfied by SIPC advances pursuant to section 78fff–3 of this title, if SIPC determines that—
 
-&emsp;&emsp;(A) <sup>1</sup> the member (including any person who was a member within one hundred eighty days prior to such determination) has failed or is in danger of failing to meet its obligations to customers; and
+&emsp;&emsp;(A) <sup>1</sup> the member (including any person who was a member within one hundred eighty days prior to such determination) hasfailed or is in danger of failing to meet its obligations to customers; and
 
 &emsp;&emsp;(B) <sup>2</sup> one or more of the conditions specified in subsection (b)(1) exist with respect to such member.
 
 #### (B) Consent required
 
-&emsp;&emsp;No member of SIPC that has a customer may enter into an insolvency, receivership, or bankruptcy proceeding, under Federal orState law, without the specific consent of SIPC, except as provided in title II of the Dodd-Frank Wall Street Reform and Consumer Protection Act \[12 U.S.C. 5381 et seq.\].
+&emsp;&emsp;No member of SIPC that has a customer may enter into an insolvency, receivership, or bankruptcy proceeding, under Federal or State law, without the specific consent of SIPC, except as provided in title II of the Dodd-Frank Wall Street Reform and Consumer Protection Act \[12 U.S.C. 5381 et seq.\].
 
 #### (4) Effect of other pending actions
 
@@ -74,11 +74,11 @@
 
 #### (C) Exception from stay
 
-&emsp;&emsp;(i) Notwithstanding section 362 of title 11, neither the filing of an application under subsection (a)(3) nor any order or decree obtained by SIPC from the court shall operate as a stay of any contractual rights of a creditor to liquidate, terminate, or accelerate a securities contract, commodity contract, forward contract, repurchase agreement, swap agreement, or master netting agreement, as those terms are defined in sections 101, 741, and 761 of title 11, to offset or net termination values, payment amounts, or other transfer obligations arising under or in connection with one or more of such contracts or agreements, or to foreclose on any cash collateral pledged by the debtor, whether or not with respect to one or more of such contracts or agreements.
+&emsp;&emsp;(i) Notwithstanding section 362 of title 11, neither the filing of an application under subsection (a)(3) nor any order or decree obtained by SIPC from the court shall operate as a stay of any contractual rights of a creditor to liquidate, terminate, or accelerate a securities contract, commodity contract, forward contract, repurchase agreement, swap agreement, or master netting agreement, as those terms are defined in sections 101, 741, and 761 of title 11, to offset or net termination values, payment amounts, or other transfer obligations arising under or inconnection with one or more of such contracts or agreements, or to foreclose on any cash collateral pledged by the debtor, whether or not with respect to one or more of such contracts or agreements.
 
 &emsp;&emsp;(ii) Notwithstanding clause (i), such application, order, or decree may operate as a stay of the foreclosure on, or disposition of, securities collateral pledged by the debtor, whether or not with respect to one or more of such contracts or agreements, securities sold by the debtor under a repurchase agreement, or securities lent under a securities lending agreement.
 
-&emsp;&emsp;(iii) As used in this subparagraph, the term "contractual right" includes a right setforth in a rule or bylaw of a derivatives clearing organization (as defined in the Commodity Exchange Act \[7 U.S.C. 1 et seq.\]), a multilateral clearing organization (as defined in the Federal Deposit Insurance Corporation Improvement Act of 1991), a national securities exchange, a national securities association, a securities clearing agency, a contract market designated under the Commodity Exchange Act, a derivatives transaction execution facility registered under the Commodity Exchange Act, or a board of trade (as defined in the Commodity Exchange Act), or in a resolution of the governing board thereof, and a right, whether or not in writing, arising under common law, under law merchant, or by reason of normal business practice.
+&emsp;&emsp;(iii) As used in this subparagraph, the term "contractual right" includes a right set forth in a rule or bylaw of a derivatives clearing organization (as defined in the Commodity Exchange Act \[7 U.S.C. 1 et seq.\]), a multilateral clearing organization (as defined in the Federal Deposit Insurance Corporation Improvement Act of 1991), a national securities exchange, a national securities association, a securities clearing agency, a contract market designated under the Commodity Exchange Act, a derivatives transaction execution facility registered under the Commodity Exchange Act, or a board of trade (as defined in the Commodity Exchange Act), or in a resolution of the governing board thereof, and a right, whether or not in writing, arising under common law, under law merchant, or by reason of normal business practice.
 
 #### (3) Appointment of trustee and attorney
 
@@ -140,6 +140,8 @@ SIPC shall be deemed to be a party in interest as to all matters arising in a li
 
 (Pub. L. 91–598, §5, Dec. 30, 1970, 84 Stat. 1644; Pub. L. 95–283, §7, May 21, 1978, 92 Stat. 254; Pub. L. 95–598, title III, §308(a)–(f), Nov. 6, 1978, 92 Stat. 2674; Pub. L. 109–8, title IX, §911, Apr. 20, 2005, 119 Stat. 185; Pub. L. 109–390, §5(c), Dec. 12, 2006, 120 Stat. 2698; Pub. L. 111–203, title IX, §929H(b), July 21, 2010, 124 Stat. 1857.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in subsec. (a)(3)(B), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376. Title II of the Act is classified principally to subchapter II (§5381 et seq.) of chapter 53 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 12 and Tables.
@@ -156,11 +158,11 @@ The Federal Deposit Insurance Corporation Improvement Act of 1991, referred to i
 
 <b>2010</b>—Subsec. (a)(3). Pub. L. 111–203 designated existing provisions as subpar. (A) relating to general rule, inserted heading, substituted "SIPC may, upon notice to a member of SIPC, file an application for a protective decree with any court of competent jurisdiction specified in section 78u(e) or 78aa of this title, except that no such application shall be filed with respect to a member, the only customers of which are persons whose claims could not be satisfied by SIPC advances pursuant to section 78fff–3 of this title, if SIPC determines that—" for "If SIPC determines that—", in subpar. (A) relating to failure to meet obligations, substituted "the member" for "any member of SIPC", in subpar. (B) relating to conditions, substituted period for comma at end, added subpar. (B) relating to consent requirement, and struck out concluding provisions which read as follows: "SIPC may, upon notice to such member, file an application for a protective decree with any court of competent jurisdiction specified in section 78u(e) or 78aa of this title, except that no such application shall be filed with respect to a member the only customers of which are persons whose claims could not be satisfied by SIPC advances pursuant to section 78fff–3 of this title."
 
-<b>2006</b>—Subsec. (b)(2)(C)(iii). Pub. L. 109–390 inserted "a derivatives clearing organization (as defined in the Commodity Exchange Act), a multilateral clearing organization (as defined in the Federal Deposit Insurance Corporation Improvement Act of 1991)," after "rule or bylaw of" and substituted "a securities clearing agency, a contract market designated under the Commodity Exchange Act, a derivatives transaction execution facility registered under the Commodity Exchange Act, or a board of trade (as defined in the Commodity Exchange Act)," for "or a securities clearing agency, a right set forth in a bylaw of a clearing organization or contract market".
+<b>2006</b>—Subsec. (b)(2)(C)(iii). Pub. L. 109–390 inserted "a derivatives clearing organization (as defined in theCommodity Exchange Act), a multilateral clearing organization (as defined in the Federal Deposit Insurance Corporation Improvement Act of 1991)," after "rule or bylaw of" and substituted "a securities clearing agency, a contract market designated under the Commodity Exchange Act, a derivatives transaction execution facility registered under the Commodity Exchange Act, or a board of trade (as defined in the Commodity Exchange Act)," for "or a securities clearing agency, a right set forth in a bylaw of a clearing organization or contract market".
 
 <b>2005</b>—Subsec. (b)(2)(C). Pub. L. 109–8 added subpar. (C).
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–283, §7(a), added par. (2), redesignated former par. (2) as (3) and, as so redesignated, revised format of provisions by setting out cls. (A) and (B) and inserted provisions relating to any person who was a member within 180 days prior to such determination and provisions relating to claims filed under section 78fff–3 of this title, and redesignated former par. (3) as (4) and, as so redesignated, substituted "with respect to a member of SIPC filed witha court under paragraph (3)" for "under paragraph (2)" in introductory text and inserted "may," before "with the" in cl. (A).
+<b>1978</b>—Subsec. (a). Pub. L. 95–283, §7(a), added par. (2), redesignated former par. (2) as (3) and, as so redesignated, revised format of provisions by setting out cls. (A) and (B) and inserted provisions relating to any person who was a member within 180 days prior to such determination and provisions relating to claims filed under section 78fff–3 of this title, and redesignated former par. (3) as (4) and, as so redesignated, substituted "with respect to a member of SIPC filed with a court under paragraph (3)" for "under paragraph (2)" in introductory text and inserted "may," before "with the" in cl. (A).
 
 Subsec. (b)(1)(A). Pub. L. 95–598, §308(a)(1), substituted "section 101 of title 11" for "the Bankruptcy Act".
 
@@ -185,6 +187,8 @@ Subsec. (b)(5)(E), (F). Pub. L. 95–598, §308(f)(5), redesignated subpar. (F) 
 Subsec. (b). Pub. L. 95–283, §7(b), in par. (1) inserted "protective" after "of" in heading and substituted provisions relating to issuance of protective decrees, for provisions relating to specific findings necessary for issuance of a decree and uncontested, etc., applications, in par. (2) substituted "Jurisdiction and powers of court" for "Exclusive jurisdiction over debtor" in heading and substituted provisions setting forth jurisdiction and powers of court with respect to exclusivity of such jurisdiction, for provisions relating to exclusive jurisdiction over the debtor, in par. (3) inserted "and attorney" after "trustee" in heading and substituted provisions relating to appointment of trustee and attorney, for provisions relating to appointment of trustee, in par. (4) substituted "Reference to referee in bankruptcy" for "Debtor and filing date defined" in heading and substituted provisions relating to reference to referee in bankruptcy, for provisions defining terms "debtor" and "filing date", and added pars. (5) and (6).
 
 Subsec. (d). Pub. L. 95–283, §7(c), added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

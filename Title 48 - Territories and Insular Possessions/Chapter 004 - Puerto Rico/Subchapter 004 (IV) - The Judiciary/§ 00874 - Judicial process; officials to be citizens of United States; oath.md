@@ -4,9 +4,13 @@ All judicial process shall run in the name of "United States of America, ss, the
 
 (Mar. 2, 1917, ch. 145, §10, 39 Stat. 954; May 17, 1932, ch. 190, 47 Stat. 158.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in act Apr. 12, 1900, ch. 191, §16, 31 Stat. 81.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

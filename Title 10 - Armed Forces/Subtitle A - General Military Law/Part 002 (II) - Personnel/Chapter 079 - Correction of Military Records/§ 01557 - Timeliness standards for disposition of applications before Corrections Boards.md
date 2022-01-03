@@ -28,7 +28,7 @@ Failure To Meet Timeliness Standards Not To Affect Any Individual Application.�
 
 (e)
 
-Reports on Failure To Meet Timeliness Standards.—The Secretary of the military department concerned shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report not later than June 1 following any fiscal year during which the Corrections Board of that Secretary's military department was unable to meet the applicable timeliness standard for that fiscal year under subsections (a) and (b). The report shall specify the reasons why the standard could not be met and the corrective actions initiated to ensure compliance in the future. The report shall alsospecify the number of waivers granted under subsection (c) during that fiscal year.
+Reports on Failure To Meet Timeliness Standards.—The Secretary of the military department concerned shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report not later than June 1 following any fiscal year during which the Corrections Board of that Secretary's military department was unable to meet the applicable timeliness standard for that fiscal year under subsections (a) and (b). The report shall specify the reasons why the standard could not be met and the corrective actions initiated to ensure compliance in the future. The report shall also specify the number of waivers granted under subsection (c) during that fiscal year.
 
 (f)
 
@@ -42,11 +42,15 @@ Corrections Board Defined.—In this section, the term "Corrections Board" means
 
 (Added Pub. L. 105–261, div. A, title V, §544(a), Oct. 17, 1998, 112 Stat. 2021; amended Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–375, div. A, title X, §1084(d)(12), Oct. 28, 2004, 118 Stat. 2062.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Subsec. (b). Pub. L. 108–375 substituted "Final" for "Effective October 1, 2002, final".
 
 <b>1999</b>—Subsec. (e). Pub. L. 106–65 substituted "and the Committee on Armed Services" for "and the Committee on National Security".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Reporting Requirements
 

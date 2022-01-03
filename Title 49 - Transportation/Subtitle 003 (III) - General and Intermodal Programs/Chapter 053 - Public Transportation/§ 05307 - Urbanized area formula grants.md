@@ -112,13 +112,13 @@ Remaining costs.—Subject to paragraph (4), the remainder of the net project co
 
 &emsp;&emsp;(C) from an undistributed cash surplus, a replacement or depreciation cash fund or reserve, or new capital;
 
-&emsp;&emsp;(D) from amounts appropriated or otherwise made available to a department or agency of the Government (other than the Department of Transportation) that are eligible to be expended for transportation; and
+&emsp;&emsp;(D) from amounts appropriated or otherwise made available to a department oragency of the Government (other than the Department of Transportation) that are eligible to be expended for transportation; and
 
 &emsp;&emsp;(E) from amounts received under a service agreement with a State or local social service agency or private social service organization.
 
 &emsp;(4)
 
-Use of certain funds.—For purposes of subparagraphs (D) and (E) of paragraph (3), the prohibitions on the use of funds for matching requirements under section 403(a)(5)(C)(vii) of the Social Security Act (42 U.S.C. 603(a)(5)(C)(vii)) shall not apply to Federal orState funds to be used for transportation purposes.
+Use of certain funds.—For purposes of subparagraphs (D) and (E) of paragraph (3), the prohibitions on the use of funds for matching requirements under section 403(a)(5)(C)(vii) of the Social Security Act (42 U.S.C. 603(a)(5)(C)(vii)) shall not apply to Federal or State funds to be used for transportation purposes.
 
 (e)
 
@@ -206,7 +206,7 @@ Grant requirements.—Except as otherwise provided in this subsection, a grant u
 
 Competitive process.—The Secretary shall solicit grant applications and make grants for eligible projects on a competitive basis.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 795; Pub. L. 103–429, §6(7), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 104–287, §5(11), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 105–178, title III, §3007(a)(1), (b)–(h), June 9, 1998, 112 Stat. 347, 348; Pub. L. 105–206, title IX, §9009(e), July 22, 1998, 112 Stat. 855; Pub. L. 107–232, §1, Oct. 1, 2002, 116 Stat. 1478; Pub. L. 108–88, §8(n), Sept. 30, 2003, 117 Stat. 1125; Pub. L. 108–202, §9(n), Feb. 29, 2004, 118 Stat. 488; Pub. L. 108–224, §7(n), Apr. 30, 2004, 118 Stat. 636; Pub. L. 108–263, §7(n), June 30, 2004, 118 Stat. 708; Pub. L. 108–280, §7(n), July 30, 2004, 118 Stat. 885; Pub. L. 108–310, §8(n), Sept. 30, 2004, 118 Stat. 1158; Pub. L. 109–14, §7(m), May 31, 2005, 119 Stat. 333; Pub. L. 109–20, §7(m), July 1, 2005, 119 Stat. 355; Pub. L. 109–35, §7(m), July 20, 2005, 119 Stat. 389; Pub. L. 109–37, §7(m), July 22, 2005, 119 Stat. 404; Pub. L. 109–40, §7(m), July 28, 2005, 119 Stat. 420; Pub. L. 109–59, title III, §§3002(b)(4), 3009(a)–(h), Aug. 10, 2005, 119 Stat. 1545, 1568–1571; Pub. L. 110–244, title II, §201(c), June 6, 2008, 122 Stat. 1609; Pub. L. 111–147, title IV, §432, Mar. 18, 2010, 124 Stat. 88; Pub. L. 111–322, title II, §2302, Dec. 22, 2010, 124 Stat. 3526; Pub. L. 112–5, title III, §302, Mar. 4, 2011, 125 Stat. 18; Pub. L. 112–30, title I, §132, Sept. 16, 2011, 125 Stat. 350; Pub. L. 112–102, title III, §302, Mar. 30, 2012, 126 Stat. 275; Pub. L. 112–140, title III, §302, June 29, 2012, 126 Stat. 396; Pub. L. 112–141, div. B, §20007, div. G, title III, §113002, July 6, 2012, 126 Stat. 652, 983; Pub. L. 114–94, div. A, title III, §3004, Dec. 4, 2015, 129 Stat. 1450; Pub. L. 115–31, div. K, title I, §165, May 5, 2017, 131 Stat. 749.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 795; Pub. L. 103–429, §6(7), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 104–287, §5(11), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 105–178, title III, §3007(a)(1), (b)–(h), June 9, 1998, 112 Stat. 347, 348; Pub. L. 105–206, title IX, §9009(e), July 22, 1998, 112 Stat. 855; Pub. L. 107–232, §1, Oct. 1, 2002, 116 Stat. 1478; Pub. L. 108–88, §8(n), Sept. 30, 2003, 117 Stat. 1125; Pub. L. 108–202, §9(n), Feb. 29, 2004, 118 Stat. 488; Pub. L. 108–224, §7(n), Apr. 30, 2004, 118 Stat. 636; Pub. L. 108–263, §7(n), June 30, 2004, 118 Stat. 708; Pub. L. 108–280, §7(n), July 30, 2004, 118 Stat. 885; Pub. L. 108–310, §8(n), Sept. 30, 2004, 118 Stat. 1158; Pub. L. 109–14, §7(m), May 31, 2005, 119 Stat. 333; Pub. L. 109–20, §7(m), July 1, 2005, 119 Stat. 355; Pub. L. 109–35, §7(m), July 20, 2005, 119 Stat. 389; Pub. L. 109–37, §7(m), July 22, 2005, 119 Stat. 404; Pub. L. 109–40, §7(m), July 28, 2005, 119 Stat. 420; Pub.L. 109–59, title III, §§3002(b)(4), 3009(a)–(h), Aug. 10, 2005, 119 Stat. 1545, 1568–1571; Pub. L. 110–244, title II, §201(c), June 6, 2008, 122 Stat. 1609; Pub. L. 111–147, title IV, §432, Mar. 18, 2010, 124 Stat. 88; Pub. L. 111–322, title II, §2302, Dec. 22, 2010, 124 Stat. 3526; Pub. L. 112–5, title III, §302, Mar. 4, 2011, 125 Stat. 18; Pub. L. 112–30, title I, §132, Sept. 16, 2011, 125 Stat. 350; Pub. L. 112–102, title III, §302, Mar. 30, 2012, 126 Stat. 275; Pub. L. 112–140, title III, §302, June 29, 2012, 126 Stat. 396; Pub. L. 112–141, div. B, §20007, div. G, title III, §113002, July 6, 2012, 126 Stat. 652, 983; Pub. L. 114–94, div. A, title III, §3004, Dec. 4, 2015, 129 Stat. 1450; Pub. L. 115–31, div. K, title I, §165, May 5, 2017, 131 Stat. 749.)
 
 Historical and Revision Notes
 
@@ -374,7 +374,7 @@ In subsection (f), the word "authority" is substituted for "agency or instrument
 
 In subsection (f)(1), the words "is responsible under State laws for the financing, construction and operation, directly by lease, contract or otherwise, of public transportation services" are omitted as surplus because a State that is a designated recipient has that responsibility. The words "of UMTA funds", "combined total permissible", and "regardless of whether the amount for any particular urbanized area is exceeded" are omitted as surplus.
 
-In subsection (f)(2), the word "Secretary" is substituted for "UMTA" \[subsequently changed to "FTA"because of section 3004(b) of the Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240, 105 Stat. 2088)\] because of 49:102(b) and 107(a). The words "This provision shall take effect with the fiscal year 1990 section 9 apportionment" are omitted as obsolete.
+In subsection (f)(2), the word "Secretary" is substituted for "UMTA" \[subsequently changed to "FTA" because of section 3004(b) of the Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240, 105 Stat. 2088)\] because of 49:102(b) and 107(a). The words "This provision shall take effect with the fiscal year 1990 section 9 apportionment" are omitted as obsolete.
 
 In subsection (g)(2), before clause (A), the word "applies" is substituted for "is sought beyond the currently authorized funds for such recipient" to eliminate unnecessary words. In clause (A), the words "of funds" are omitted as surplus.
 
@@ -405,6 +405,8 @@ This makes a clarifying amendment to 49:5307(d)(1)(E)(iii).
 #### Pub. L. 104–287
 
 This amends 49:5307(a)(2) to delete an obsolete provision.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -450,7 +452,7 @@ Pub. L. 112–140, §§1(c), 302(1), temporarily substituted "
 
 ending on july 6, 2012" for "
 
-ending on june 30, 2012" in heading. See Effective and Termination Dates of 2012 Amendment note below.
+ending on june 30, 2012" inheading. See Effective and Termination Dates of 2012 Amendment note below.
 
 Pub. L. 112–102, §302(1), substituted "
 
@@ -706,7 +708,7 @@ Designated recipient.—The term" after "(2)".
 
 Subsec. (b)(1). Pub. L. 105–178, §3007(h)(1), as added by Pub. L. 105–206, §9009(e), inserted at end "The Secretary may make grants under this section from funds made available for fiscal year 1998 to finance the operating costs of equipment and facilities for use in mass transportation in an urbanized area with a population of at least 200,000."
 
-Pub. L. 105–178, §3007(c)(1), substituted "and improvement costs of equipment" for ", improvement, and operating costs of equipment" and inserted at end "The Secretary may also make grants under this section tofinance the operating cost of equipment and facilities for use in mass transportation in an urbanized area with a population of less than 200,000."
+Pub. L. 105–178, §3007(c)(1), substituted "and improvement costs of equipment" for ", improvement, and operating costs of equipment" and inserted at end "The Secretary may also make grants under this section to finance the operating cost of equipment and facilities for use in mass transportation in an urbanized area with a population of less than 200,000."
 
 Subsec. (b)(2)(A). Pub. L. 105–178, §3007(c)(2)(A), inserted ", in writing," after "approved".
 
@@ -731,6 +733,8 @@ Subsec. (n)(2). Pub. L. 105–178, §3007(g), inserted "5319," after "5318,".
 <b>1994</b>—Subsec. (d)(1)(D). Pub. L. 103–429, §6(7)(A), substituted "section" for "chapter".
 
 Subsec. (d)(1)(E)(iii). Pub. L. 103–429, §6(7)(B), substituted "Buy America" for "Buy-American".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 
@@ -764,7 +768,7 @@ Pub. L. 108–199, div. F, title I, §166, Jan. 23, 2004, 118 Stat. 309, require
 
 #### Local Share
 
-Pub. L. 105–178, title III, §3011, June 9, 1998, 112 Stat. 357, as amended by Pub. L. 108–202, §9(u), Feb. 29, 2004, 118 Stat. 489; Pub. L. 108–224, §7(u), Apr. 30, 2004, 118 Stat. 637; Pub. L. 108–263, §7(u), June 30, 2004, 118 Stat. 708; Pub. L. 108–280, §7(u), July 30, 2004, 118 Stat. 886; Pub. L. 108–310, §8(u), Sept. 30, 2004, 118 Stat. 1158; Pub. L. 109–14, §7(t), May 31, 2005, 119 Stat. 334; Pub. L. 109–20, §7(s), July 1, 2005, 119 Stat. 356; Pub. L. 109–35, §7(s), July 20, 2005, 119 Stat. 389; Pub. L. 109–37, §7(s), July 22, 2005, 119 Stat. 404; Pub. L. 109–40, §7(s), July 28, 2005, 119 Stat. 421, allowed recipients of assistance under section 5307 or 5309 of this title to use proceeds from the issuance of revenue bonds as part of the local matching funds for a capital project for fiscal years 1999 to 2004 and from Oct. 1, 2004, to July 30, 2005.
+Pub. L. 105–178, title III, §3011, June 9, 1998, 112 Stat. 357, as amended by Pub. L. 108–202, §9(u), Feb. 29, 2004, 118 Stat. 489; Pub. L. 108–224, §7(u), Apr. 30, 2004, 118 Stat. 637; Pub. L. 108–263, §7(u), June 30, 2004, 118 Stat. 708; Pub. L. 108–280, §7(u), July 30, 2004, 118 Stat. 886; Pub. L. 108–310, §8(u), Sept. 30, 2004, 118 Stat. 1158; Pub. L. 109–14, §7(t), May 31, 2005, 119 Stat. 334; Pub. L. 109–20, §7(s), July 1, 2005, 119 Stat. 356; Pub. L. 109–35, §7(s), July 20, 2005, 119 Stat. 389; Pub. L. 109–37, §7(s), July 22, 2005, 119 Stat. 404; Pub. L. 109–40, §7(s), July 28, 2005, 119 Stat. 421, allowed recipients of assistance under section 5307 or 5309 of this title to use proceeds from the issuance of revenue bonds as part of the localmatching funds for a capital project for fiscal years 1999 to 2004 and from Oct. 1, 2004, to July 30, 2005.
 
 #### Pilot Program for Intercity Rail Infrastructure Investment From Mass Transit Account of Highway Trust Fund
 
@@ -772,5 +776,5 @@ Pub. L. 105–178, title III, §3021, June 9, 1998, 112 Stat. 363; as amended by
 
 #### Continuation of Operating Assistance to Certain Larger Urbanized Areas
 
-Pub. L. 105–178, title III, §3027(c), June 9, 1998, 112 Stat. 366; as amended by Pub. L. 105–206, title IX, §9009(o)(1), July 22, 1998, 112 Stat. 858; Pub. L. 105–277, div. A, §101(g) \[title III, §360\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–477; Pub. L. 106–31, title VI, §6004, May 21,1999, 113 Stat. 113; Pub. L. 106–346, §101(a) \[title III, §341\], Oct. 23, 2000, 114 Stat. 1356, 1356A–32; Pub. L. 108–199, div. F, title I, §176, Jan. 23, 2004, 118 Stat. 311, authorized the Secretary of Transportation to continue helping to finance mass transportation operating costs in certain urban areas for the period beginning on June 9, 1998, and ending no later than 3 years after that date.
+Pub. L. 105–178, title III, §3027(c), June 9, 1998, 112 Stat. 366; as amended by Pub. L. 105–206, title IX, §9009(o)(1), July 22, 1998, 112 Stat. 858; Pub. L. 105–277, div. A, §101(g) \[title III, §360\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–477; Pub. L. 106–31, title VI, §6004, May 21, 1999, 113 Stat. 113; Pub. L. 106–346, §101(a) \[title III, §341\], Oct. 23, 2000, 114 Stat. 1356, 1356A–32; Pub. L. 108–199, div. F, title I, §176, Jan. 23, 2004, 118 Stat. 311, authorized the Secretary of Transportation to continue helping to finance mass transportation operating costs in certain urban areas for the period beginning on June 9, 1998, and ending no later than 3 years after that date.
 

@@ -10,9 +10,13 @@ If—
 
 (Pub. L. 100–418, title I, §1378, Aug. 23, 1988, 102 Stat. 1222; Pub. L. 103–465, title VI, §621(a)(6), Dec. 8, 1994, 108 Stat. 4993.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>1994</b>—Par. (2). Pub. L. 103–465 substituted "the WTO Agreement and the multilateral trade agreements (as such terms are defined in paragraphs (9) and (4), respectively, of section 3501 of this title)" for "the General Agreement on Tariffs and Trade".
+<b>1994</b>—Par. (2). Pub. L. 103–465 substituted "the WTO Agreement and the multilateral trade agreements (assuch terms are defined in paragraphs (9) and (4), respectively, of section 3501 of this title)" for "the General Agreement on Tariffs and Trade".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

@@ -60,6 +60,8 @@ Nov. 29, 1990, Pub. L. 101–647, §1704, 104 Stat. 4846.
 
 The words "to the extent of the authority of a police officer certified or commissioned under the laws of that jurisdiction" are placed before clause (1) rather than at the end of clause (4), as in the source provision, to reflect the probable intent of Congress.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (a). Pub. L. 114–94, §11412(a)(1), substituted "directly employed by or contracted by" for "employed by" in introductory provisions.
@@ -71,6 +73,8 @@ Subsecs. (c), (d). Pub. L. 114–94, §11412(a)(3), added subsecs. (c) and (d).
 <b>2007</b>—Pub. L. 110–53 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 <b>1994</b>—Pub. L. 103–440 renumbered section 26101 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

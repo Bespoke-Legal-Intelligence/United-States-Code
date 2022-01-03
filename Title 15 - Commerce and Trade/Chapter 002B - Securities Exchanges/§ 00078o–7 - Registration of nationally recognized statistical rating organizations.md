@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;(vii) the categories described in any of clauses (i) through (v) of section 78c(a)(62)(B) of this title with respect to which the applicant intends to apply for registration under this section;
 
-&emsp;&emsp;&emsp;(viii) on a confidential basis, a list of the 20 largest issuers and subscribers that use the credit rating services of the applicant, by amount of net revenues received therefrom in the fiscal year immediately preceding the date of submission of the application;
+&emsp;&emsp;&emsp;(viii) on a confidential basis, a list of the 20 largest issuers and subscribers that usethe credit rating services of the applicant, by amount of net revenues received therefrom in the fiscal year immediately preceding the date of submission of the application;
 
 &emsp;&emsp;&emsp;(ix) on a confidential basis, as to each applicable category of obligor described in any of clauses (i) through (v) of section 78c(a)(62)(B) of this title, written certifications described in subparagraph (C), except as provided in subparagraph (D); and
 
@@ -364,7 +364,7 @@
 
 #### (k) Statements of financial condition
 
-Each nationally recognized statistical rating organization shall, on a confidential basis, file with the Commission, at intervals determined by the Commission, such financial statements, certified (if required by the rules or regulations of the Commission) by an independent public accountant, and information concerning its financial condition, as the Commission, by rule, may prescribe as necessary or appropriate in the public interest or for the protection of investors.
+Each nationally recognized statistical rating organization shall, on a confidential basis, filewith the Commission, at intervals determined by the Commission, such financial statements, certified (if required by the rules or regulations of the Commission) by an independent public accountant, and information concerning its financial condition, as the Commission, by rule, may prescribe as necessary or appropriate in the public interest or for the protection of investors.
 
 #### (l) Sole method of registration
 
@@ -446,7 +446,7 @@ Each nationally recognized statistical rating organization shall, on a confident
 
 #### (2) Staffing
 
-&emsp;The Office established under this subsection shall be staffed sufficiently to carry out fully the requirements of this section. The staff shall include persons with knowledge of and expertise in corporate, municipal, and structured debt finance.
+&emsp;The Office established under this subsection shall be staffed sufficiently to carry out fully the requirements of this section. The staff shall include persons with knowledge of andexpertise in corporate, municipal, and structured debt finance.
 
 #### (3) Commission examinations
 
@@ -502,7 +502,7 @@ Each nationally recognized statistical rating organization shall, on a confident
 
 &emsp;The rules of the Commission under this subsection shall require, at a minimum, disclosures that—
 
-&emsp;&emsp;(A) are comparable among nationally recognized statistical rating organizations, to allow users of credit ratings to compare theperformance of credit ratings across nationally recognized statistical rating organizations;
+&emsp;&emsp;(A) are comparable among nationally recognized statistical rating organizations, to allow users of credit ratings to compare the performance of credit ratings across nationally recognized statistical rating organizations;
 
 &emsp;&emsp;(B) are clear and informative for investors having a wide range of sophistication who use or might use credit ratings;
 
@@ -524,7 +524,7 @@ The Commission shall prescribe rules, for the protection of investors and in the
 
 &emsp;&emsp;(B) in accordance with the policies and procedures of the nationally recognized statistical rating organization for the development and modification of credit rating procedures and methodologies;
 
-&emsp;(2) to ensure that when material changes to credit rating procedures and methodologies (including changes to qualitative and quantitative data and models) are made, that—
+&emsp;(2) to ensure that when material changes to credit rating procedures and methodologies\(including changes to qualitative and quantitative data and models) are made, that—
 
 &emsp;&emsp;(A) the changes are applied consistently to all credit ratings to which the changed procedures and methodologies apply;
 
@@ -684,7 +684,7 @@ The Commission shall prescribe rules, for the protection of investors and in the
 
 #### (4) Treatment of NRSRO subsidiaries
 
-&emsp;If a nationally recognized statistical rating organization is a subsidiary of a parent entity, the board of the directors of the parent entity may satisfy the requirements of this subsection by assigning to a committee of such board of directors the duties under paragraph (3), if—
+&emsp;If a nationally recognized statistical rating organization is a subsidiary of a parent entity,the board of the directors of the parent entity may satisfy the requirements of this subsection by assigning to a committee of such board of directors the duties under paragraph (3), if—
 
 &emsp;&emsp;(A) at least ½ of the members of the committee (including the chairperson of the committee) are independent, as defined in this section; and
 
@@ -710,6 +710,8 @@ In producing a credit rating, a nationally recognized statistical rating organiz
 
 (June 6, 1934, ch. 404, title I, §15E, as added Pub. L. 109–291, §4(a), Sept. 29, 2006, 120 Stat. 1329; amended Pub. L. 111–203, title IX, §§932(a), 933(a), 934, 935, July 21, 2010, 124 Stat. 1872, 1883, 1884.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a)(1)(A), (B)(iii), (c), (e)(2), (f)(2), (3), (g), and (m)(1), was in the original "this title". See References in Text note set out under section 78a of this title.
@@ -728,7 +730,7 @@ Subsec. (c)(2). Pub. L. 111–203, §932(a)(2)(A), inserted "any other provision
 
 Subsec. (c)(3). Pub. L. 111–203, §932(a)(2)(B), added par. (3).
 
-Subsec. (d). Pub. L. 111–203, §932(a)(3), designated existing provisions as par. (1), inserted heading, inserted ", or with respect to any person who is associated with, who is seeking to become associated with, or, at the time of the alleged misconduct, who was associated or was seeking to become associated with a nationallyrecognized statistical rating organization, the Commission, by order, shall censure, place limitations on the activities or functions of such person, suspend for a period not exceeding 1 year, or bar such person from being associated with a nationally recognized statistical rating organization," before "if the Commission finds" and "bar" before "or revocation is necessary", redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1) and former subpars. (A) and (B) of par. (2) as cls. (i) and (ii), respectively, of subpar. (B), in subpar. (B), substituted "filed with" for "furnished to" in introductory provisions, in subpar. (D), substituted "file" for "furnish", and added subpar. (F) and par. (2).
+Subsec. (d). Pub. L. 111–203, §932(a)(3), designated existing provisions as par. (1), inserted heading, inserted ", or with respect to any person who is associated with, who is seeking to become associated with, or, at the time of the alleged misconduct, who was associated or was seeking to become associated with a nationally recognized statistical rating organization, the Commission, by order, shall censure, place limitations on the activities or functions of such person, suspend for a period not exceeding 1 year, or bar such person from being associated with a nationally recognized statistical rating organization," before "if the Commission finds" and "bar" before "or revocation is necessary", redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1) and former subpars. (A) and (B) of par. (2) as cls. (i) and (ii), respectively, of subpar. (B), in subpar. (B), substituted "filed with" for "furnished to" in introductory provisions, in subpar. (D), substituted "file" for "furnish", and added subpar. (F) and par. (2).
 
 Subsec. (h)(3) to (5). Pub. L. 111–203, §932(a)(4), added pars. (3) to (5).
 
@@ -745,6 +747,8 @@ Subsecs. (p) to (t). Pub. L. 111–203, §932(a)(8), added subsecs. (p) to (t) a
 Subsec. (u). Pub. L. 111–203, §934, added subsec. (u).
 
 Subsec. (v). Pub. L. 111–203, §935, added subsec. (v).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 
@@ -820,7 +824,7 @@ Pub. L. 109–291, §2, Sept. 29, 2006, 120 Stat. 1327, provided that: "Upon the
 
 &emsp;"(1) their ratings, publications, writings, analyses, and reports are furnished and distributed, and their contracts, subscription agreements, and other arrangements with clients are negotiated and performed, by the use of the mails and other means and instrumentalities of interstate commerce;
 
-&emsp;"(2) their ratings, publications, writings, analyses, and reports customarily relate to the purchase and sale of securities traded on securities exchanges and in interstate over-the-counter markets, securities issued by companies engaged in business in interstate commerce, and securities issued by national banks and member banks of the Federal Reserve System;
+&emsp;"(2) their ratings, publications, writings, analyses, and reports customarily relate to the purchase and sale of securities traded on securities exchanges andin interstate over-the-counter markets, securities issued by companies engaged in business in interstate commerce, and securities issued by national banks and member banks of the Federal Reserve System;
 
 &emsp;"(3) the foregoing transactions occur in such volume as substantially to affect interstate commerce, the securities markets, the national banking system, and the national economy;
 

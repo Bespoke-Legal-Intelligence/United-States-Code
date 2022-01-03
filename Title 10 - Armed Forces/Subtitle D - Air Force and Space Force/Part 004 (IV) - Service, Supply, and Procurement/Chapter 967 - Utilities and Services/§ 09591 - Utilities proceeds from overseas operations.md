@@ -20,6 +20,8 @@ July 9, 1918, ch. 143, subch. XX (1st par.), 40 Stat. 893; May 29, 1928, ch. 901
 
 The words "Air Force" are substituted for the word "Engineer", since the Air Force does not have organic corps created by statute.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283 inserted "or the Space Force" after "the Air Force".

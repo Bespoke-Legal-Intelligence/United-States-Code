@@ -70,7 +70,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) representatives of labor organizations representing firefighters, police, other New York City employees, and recovery and cleanup workers who responded to the September 11, 2001, terrorist attacks; and
 
-&emsp;&emsp;&emsp;&emsp;(III) 3 representatives of New York City, 1 of whom will be selected by the police commissioner of New York City, 1 by the health commissioner of New YorkCity, and 1 by the mayor of New York City.
+&emsp;&emsp;&emsp;&emsp;(III) 3 representatives of New York City, 1 of whom will be selected by the police commissioner of New York City, 1 by the health commissioner of New York City, and 1 by the mayor of New York City.
 
 #### (ii) Initial membership
 
@@ -103,6 +103,8 @@
 &emsp;&emsp;A vacancy in a Steering Committee shall be filled by an individual recommended by the Steering Committee.
 
 (July 1, 1944, ch. 373, title XXXIII, §3302, as added Pub. L. 111–347, title I, §101, Jan. 2, 2011, 124 Stat. 3627.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

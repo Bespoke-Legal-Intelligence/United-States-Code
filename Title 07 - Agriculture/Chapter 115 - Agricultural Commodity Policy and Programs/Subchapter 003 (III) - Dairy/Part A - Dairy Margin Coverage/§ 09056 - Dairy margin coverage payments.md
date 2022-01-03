@@ -42,6 +42,8 @@ The dairy margin coverage payment for the participating dairy operation shall be
 
 (Pub. L. 113–79, title I, §1406, Feb. 7, 2014, 128 Stat. 691; Pub. L. 115–123, div. F, §60101(b)(1)(C), Feb. 9, 2018, 132 Stat. 311; Pub. L. 115–334, title I, §1401(g), (k)(7), Dec. 20, 2018, 132 Stat. 4513, 4517.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–334, §1401(k)(7)(A) substituted "Dairy margin coverage" for "Margin protection" in section catchline.
@@ -59,6 +61,8 @@ Subsec. (b). Pub. L. 115–334, §1401(k)(7)(B), substituted "dairy margin cover
 Subsec. (c). Pub. L. 115–334, §1401(k)(7)(B), (C), struck out "margin protection" before "payment" in heading and substituted "dairy margin coverage" for "margin protection" in text.
 
 Subsec. (c)(2)(B). Pub. L. 115–123, §60101(b)(1)(C)(ii), substituted "divided by 12" for "divided by 6".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 
@@ -84,7 +88,7 @@ In general.—An eligible dairy operation described in this subsection is a dair
 
 &emsp;&emsp;"(A) is located in the United States; and
 
-&emsp;&emsp;"(B) during a calendar year in which such dairy operation is a participating dairy operation (as defined in section 1401 of the Agricultural Act of 2014 (7 U.S.C. 9051)), has a production history established under the dairy margin coverage program undersection 1405 of the Agricultural Act of 2014 (7 U.S.C. 9055) of less than 5,000,000 pounds, as determined in accordance with subsection (c) of such section 1405.
+&emsp;&emsp;"(B) during a calendar year in which such dairy operation is a participating dairy operation (as defined in section 1401 of the Agricultural Act of 2014 (7 U.S.C. 9051)), has a production history established under the dairy margin coverage program under section 1405 of the Agricultural Act of 2014 (7 U.S.C. 9055) of less than 5,000,000 pounds, as determined in accordance with subsection (c) of such section 1405.
 
 &emsp;"(2)
 

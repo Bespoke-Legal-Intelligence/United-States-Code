@@ -10,7 +10,7 @@ The provisions of this part (other than subsection (d) of this section and subse
 
 &emsp;&emsp;&emsp;(i) 90 percent of the real estate investment trust taxable income for the taxable year (determined without regard to the deduction for dividends paid (as defined in section 561) and by excluding any net capital gain); and
 
-&emsp;&emsp;&emsp;(ii) 90 percent of the excess of the net income from foreclosure property over thetax imposed on such income by subsection (b)(4)(A); minus
+&emsp;&emsp;&emsp;(ii) 90 percent of the excess of the net income from foreclosure property over the tax imposed on such income by subsection (b)(4)(A); minus
 
 &emsp;&emsp;(B) any excess noncash income (as determined under subsection (e)); and
 
@@ -26,7 +26,7 @@ The provisions of this part (other than subsection (d) of this section and subse
 
 #### (1) Imposition of tax on real estate investment trusts
 
-&emsp;There is hereby imposed for each taxable year on the real estate investment trust taxable income of every real estate investment trust a tax computed as provided in section 11, as though the real estate investment trust taxable income were the taxable income referred to in section 11.
+&emsp;There is hereby imposed for each taxable year on the real estate investment trust taxable income of every real estate investment trust a tax computed as provided in section 11,as though the real estate investment trust taxable income were the taxable income referred to in section 11.
 
 #### (2) Real estate investment trust taxable income
 
@@ -138,7 +138,7 @@ The provisions of this part (other than subsection (d) of this section and subse
 
 #### (C) Certain sales not to constitute prohibited transactions
 
-&emsp;&emsp;For purposes of this part, the term "prohibited transaction" does not include a sale of property which is a real estate asset (as defined in section 856(c)(5)(B)) if—
+&emsp;&emsp;For purposes of this part, the term "prohibited transaction" does not include a saleof property which is a real estate asset (as defined in section 856(c)(5)(B)) if—
 
 &emsp;&emsp;&emsp;(i) the trust has held the property for not less than 2 years;
 
@@ -174,7 +174,7 @@ The provisions of this part (other than subsection (d) of this section and subse
 
 &emsp;&emsp;&emsp;(iv)(I) during the taxable year the trust does not make more than 7 sales of property (other than sales of foreclosure property or sales to which section 1033 applies), or
 
-&emsp;&emsp;&emsp;(II) the aggregate adjusted bases (as determined for purposes of computing earnings and profits) of property (other than sales of foreclosure property or sales to which section 1033 applies) sold during the taxable year does not exceed 10 percent of the aggregate bases (as so determined) ofall of the assets of the trust as of the beginning of the taxable year, or
+&emsp;&emsp;&emsp;(II) the aggregate adjusted bases (as determined for purposes of computing earnings and profits) of property (other than sales of foreclosure property or sales to which section 1033 applies) sold during the taxable year does not exceed 10 percent of the aggregate bases (as so determined) of all of the assets of the trust as of the beginning of the taxable year, or
 
 &emsp;&emsp;&emsp;(III) the fair market value of property (other than sales of foreclosure property or sales to which section 1033 applies) sold during the taxable year does not exceed 10 percent of the fair market value of all of the assets of the trust as of the beginning of the taxable year, or
 
@@ -190,7 +190,7 @@ The provisions of this part (other than subsection (d) of this section and subse
 
 &emsp;&emsp;In applying subparagraphs (C) and (D) the following special rules apply:
 
-&emsp;&emsp;&emsp;(i) The holding period of property acquired through foreclosure (or deed in lieu of foreclosure), or termination of the lease, includes the period for which the trust held the loan which such property secured, or the lease of such property.
+&emsp;&emsp;&emsp;(i) The holding period of property acquired through foreclosure (or deed in lieuof foreclosure), or termination of the lease, includes the period for which the trust held the loan which such property secured, or the lease of such property.
 
 &emsp;&emsp;&emsp;(ii) In the case of a property acquired through foreclosure (or deed in lieu of foreclosure), or termination of a lease, expenditures made by, or for the account of, the mortgagor or lessee after default became imminent will be regarded as made by the trust.
 
@@ -236,7 +236,7 @@ The provisions of this part (other than subsection (d) of this section and subse
 
 #### (A) Imposition of tax
 
-&emsp;&emsp;There is hereby imposed for each taxable year of the real estate investment trust a tax equal to 100 percent of redeterminedrents, redetermined deductions, excess interest, and redetermined TRS service income.
+&emsp;&emsp;There is hereby imposed for each taxable year of the real estate investment trust a tax equal to 100 percent of redetermined rents, redetermined deductions, excess interest, and redetermined TRS service income.
 
 #### (B) Redetermined rents
 
@@ -308,7 +308,7 @@ The provisions of this part (other than subsection (d) of this section and subse
 
 &emsp;&emsp;&emsp;(ii) the taxpayer has held such share or interest for 6 months or less,
 
-> &emsp;&emsp;then any loss on the sale or exchange of such share or interest shall, to the extent of theamount described in clause (i), be treated as a long-term capital loss.
+> &emsp;&emsp;then any loss on the sale or exchange of such share or interest shall, to the extent of the amount described in clause (i), be treated as a long-term capital loss.
 
 #### (B) Determination of holding periods
 
@@ -474,7 +474,9 @@ The provisions of this part (other than subsection (d) of this section and subse
 
 &emsp;&emsp;<b>For provisions relating to excise tax based on certain real estate investment trust taxable income not distributed during the taxable year, see section 4981.</b>
 
-(Added Pub. L. 86–779, §10(a), Sept. 14, 1960, 74 Stat. 1006; amended Pub. L. 88–272, title II, §201(d)(11), Feb. 26, 1964, 78 Stat. 32; Pub. L. 91–172, title V, §511(c)(3), Dec. 30, 1969, 83 Stat. 637; Pub. L. 93–625, §6(c), (d)(2)–(4), Jan. 3, 1975, 88 Stat. 2113, 2114; Pub. L. 94–455, title XIV, §1402(b)(1)(P), (2), title XVI, §§1601(c), 1602(b), 1603(b), (c)(5), 1604(c)(2), (f)(3)(B), (j), (k)(2)(B), 1605(b)(2), 1606(a), (d), 1607(a), (b)(1)(A), (2), (3), title XIX, §§1901(a)(112), (b)(1)(V), (33)(K), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1732, 1746–1748, 1750–1757, 1783, 1792, 1801, 1834; Pub. L. 95–600,title III, §§301(b)(12), 362(d)(3), 363(b), title IV, §403(c)(3), Nov. 6, 1978, 92 Stat. 2822, 2851, 2852, 2868; Pub. L. 96–222, title I, §103(a)(1), Apr. 1, 1980, 94 Stat. 208; Pub. L. 96–223, title IV, §404(b)(8), Apr. 2, 1980, 94 Stat. 307; Pub. L. 97–34, title III, §302(c)(5), (d)(1), Aug. 13, 1981, 95 Stat. 273, 274; Pub. L. 98–369, div. A, title I, §§16(a), 55(b), title X, §1001(b)(13), (e), July 18, 1984, 98 Stat. 505, 572, 1011, 1012; Pub. L. 99–514, title VI, §§612(b)(7), 661(b), 664, 665(a), (b)(1), 666, 668(b)(1)(A), (2), (3), Oct. 22, 1986, 100 Stat. 2251, 2300, 2303–2305, 2307, 2308; Pub. L. 100–647, title I, §§1006(r), (s)(2), (4), (5), 1018(u)(28), Nov. 10, 1988, 102 Stat. 3418, 3419, 3591; Pub. L. 101–508, title XI, §11704(a)(37), Nov. 5, 1990, 104 Stat. 1388–520; Pub. L. 105–34, title XII, §§1251(a), 1254(a), (b)(1), 1255(b)(2), (3), 1256, 1259, 1260, Aug. 5, 1997, 111 Stat. 1030, 1032–1035; Pub. L. 105–206, title VI, §6012(g), July 22, 1998, 112 Stat. 819; Pub. L. 106–170, title V, §§532(c)(2)(L), (M), 545, 556(a), (b), 566(a)(2), (b), Dec. 17, 1999, 113 Stat. 1930, 1944, 1949, 1950; Pub. L. 106–554, §1(a)(7) \[title III, §311(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–640; Pub. L. 107–147, title IV, §§413(a), 417(13), Mar. 9, 2002, 116 Stat. 54, 56; Pub. L. 108–27, title III, §302(d), May 28, 2003, 117 Stat. 763; Pub. L. 108–311, title IV, §402(a)(5)(E), Oct. 4, 2004, 118 Stat. 1185; Pub. L. 108–357, title II, §243(c), (e), (f)(4), title III, §321(a), title IV, §418(b), Oct. 22, 2004, 118 Stat. 1442, 1445, 1473, 1512; Pub. L. 109–135, title IV, §§403(d)(3), 412(ii), Dec. 21, 2005, 119 Stat. 2622, 2639; Pub. L. 110–172, §11(a)(17)(B), Dec. 29, 2007, 121 Stat. 2486; Pub. L. 110–234, title XV, §§15311(c), 15315(a)–(d), May 22, 2008, 122 Stat. 1503–1505; Pub. L. 110–246, §4(a), title XV, §§15311(c), 15315(a)–(d), June 18, 2008, 122 Stat. 1664, 2265–2267; Pub. L. 110–289, div. C, title II, §§3033, 3051, 3052, July 30, 2008, 122 Stat. 2900, 2901; Pub. L. 114–113, div. Q, title III, §§313(a), (b), 316(a), 320(a), 321(a)(1), (2), (b), 322(a)(2)(B), Dec. 18, 2015, 129 Stat. 3091–3093, 3096, 3097, 3101; Pub. L. 115–97, title I, §13001(b)(2)(K), Dec. 22, 2017, 131 Stat. 2096; Pub. L. 115–141, div. U, title IV, §401(a)(148), Mar. 23, 2018, 132 Stat. 1191.)
+(Added Pub. L. 86–779, §10(a), Sept. 14, 1960, 74 Stat. 1006; amended Pub. L. 88–272, title II, §201(d)(11), Feb. 26, 1964, 78 Stat. 32; Pub. L. 91–172, title V, §511(c)(3), Dec. 30, 1969, 83 Stat. 637; Pub. L. 93–625, §6(c), (d)(2)–(4), Jan. 3, 1975, 88 Stat. 2113, 2114; Pub. L. 94–455, title XIV, §1402(b)(1)(P), (2), title XVI, §§1601(c), 1602(b), 1603(b), (c)(5), 1604(c)(2), (f)(3)(B), (j), (k)(2)(B), 1605(b)(2), 1606(a), (d), 1607(a), (b)(1)(A), (2), (3), title XIX, §§1901(a)(112), (b)(1)(V), (33)(K), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1732, 1746–1748, 1750–1757, 1783, 1792, 1801, 1834; Pub. L. 95–600, title III, §§301(b)(12), 362(d)(3), 363(b), title IV, §403(c)(3), Nov. 6, 1978, 92 Stat. 2822, 2851, 2852, 2868; Pub. L. 96–222, title I, §103(a)(1), Apr. 1, 1980, 94 Stat. 208; Pub. L. 96–223, title IV, §404(b)(8), Apr. 2, 1980, 94 Stat. 307; Pub. L. 97–34, title III, §302(c)(5), (d)(1), Aug. 13, 1981, 95 Stat. 273, 274; Pub. L. 98–369, div. A, title I, §§16(a), 55(b), title X, §1001(b)(13), (e), July 18, 1984, 98 Stat. 505, 572, 1011, 1012; Pub. L. 99–514, title VI, §§612(b)(7), 661(b), 664, 665(a), (b)(1), 666, 668(b)(1)(A), (2), (3), Oct. 22, 1986, 100 Stat. 2251, 2300, 2303–2305, 2307, 2308; Pub. L. 100–647, title I, §§1006(r), (s)(2), (4), (5), 1018(u)(28), Nov. 10, 1988, 102 Stat. 3418, 3419, 3591; Pub. L. 101–508, title XI, §11704(a)(37), Nov. 5, 1990, 104 Stat. 1388–520; Pub. L. 105–34, title XII, §§1251(a), 1254(a), (b)(1), 1255(b)(2), (3), 1256, 1259, 1260, Aug. 5, 1997, 111 Stat. 1030, 1032–1035; Pub. L. 105–206, title VI, §6012(g), July 22, 1998, 112 Stat. 819; Pub. L. 106–170, title V, §§532(c)(2)(L), (M), 545, 556(a), (b), 566(a)(2), (b), Dec. 17, 1999, 113 Stat. 1930, 1944, 1949, 1950; Pub. L. 106–554, §1(a)(7) \[title III, §311(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–640; Pub. L. 107–147, title IV, §§413(a), 417(13), Mar. 9, 2002, 116 Stat. 54, 56; Pub. L. 108–27, title III, §302(d), May 28, 2003, 117 Stat. 763; Pub. L. 108–311, title IV, §402(a)(5)(E), Oct. 4, 2004, 118 Stat. 1185; Pub. L. 108–357, title II, §243(c), (e), (f)(4), title III, §321(a), title IV, §418(b), Oct. 22, 2004, 118 Stat. 1442, 1445, 1473, 1512; Pub. L. 109–135, title IV, §§403(d)(3), 412(ii), Dec. 21, 2005, 119 Stat. 2622, 2639; Pub. L. 110–172, §11(a)(17)(B), Dec. 29, 2007, 121 Stat. 2486; Pub. L. 110–234, title XV, §§15311(c), 15315(a)–(d), May 22, 2008, 122 Stat. 1503–1505; Pub. L. 110–246, §4(a), title XV, §§15311(c), 15315(a)–(d), June 18, 2008, 122 Stat. 1664, 2265–2267; Pub. L. 110–289, div. C, title II, §§3033, 3051, 3052, July 30, 2008, 122 Stat. 2900, 2901; Pub. L. 114–113, div. Q, title III, §§313(a), (b), 316(a), 320(a), 321(a)(1), (2), (b), 322(a)(2)(B), Dec. 18, 2015, 129 Stat. 3091–3093, 3096, 3097, 3101; Pub. L. 115–97, title I, §13001(b)(2)(K), Dec. 22, 2017, 131 Stat. 2096; Pub. L. 115–141, div. U, title IV, §401(a)(148), Mar. 23, 2018, 132 Stat. 1191.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -534,7 +536,7 @@ Subsecs. (g), (h). Pub. L. 114–113, §316(a), added subsec. (g) and redesignat
 
 Subsec. (b)(4)(B)(i). Pub. L. 110–289, §3033(a), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: "gain from the sale or other disposition of foreclosure property described in section 1221(a)(1) and the gross income for the taxable year derived from foreclosure property (as defined in section 856(e)), but only to the extent such gross income is not described in subparagraph (A), (B), (C), (D), (E), or (G) of section 856(c)(3), over".
 
-Subsec. (b)(6)(B)(i). Pub. L. 110–289, §3033(b), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: "the term 'net income derived from prohibitedtransactions' means the excess of the gain from prohibited transactions over the deductions allowed by this chapter which are directly connected with prohibited transactions;".
+Subsec. (b)(6)(B)(i). Pub. L. 110–289, §3033(b), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: "the term 'net income derived from prohibited transactions' means the excess of the gain from prohibited transactions over the deductions allowed by this chapter which are directly connected with prohibited transactions;".
 
 Subsec. (b)(6)(C). Pub. L. 110–289, §3051(a)(3), substituted "real estate asset (as defined in section 856(c)(5)(B)) and which is described in section 1221(a)(1) if" for "real estate asset as defined in section 856(c)(5)(B) if" in introductory provisions.
 
@@ -756,6 +758,8 @@ Subsec. (b)(3)(C). Pub. L. 91–172, §511(c)(3)(B), inserted provision requirin
 
 <b>1964</b>—Subsec. (c). Pub. L. 88–272 struck out "section 34(a) (relating to credit for dividends received by individuals)," before "section 116" and the comma before "and".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2017 Amendment
 
 Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 13001(c)(1) of Pub. L. 115–97, set out as a note under section 11 of this title.
@@ -920,7 +924,7 @@ Amendment by section 1901(a)(112), (b)(1)(V), (33)(K) of Pub. L. 94–455 effect
 
 #### Effective Date of 1975 Amendment
 
-Amendment by Pub. L. 93–625 applicable to foreclosure property acquired after Dec. 31, 1973, see section6(e) of Pub. L. 93–625, set out as a note under section 856 of this title.
+Amendment by Pub. L. 93–625 applicable to foreclosure property acquired after Dec. 31, 1973, see section 6(e) of Pub. L. 93–625, set out as a note under section 856 of this title.
 
 #### Effective Date of 1969 Amendment
 

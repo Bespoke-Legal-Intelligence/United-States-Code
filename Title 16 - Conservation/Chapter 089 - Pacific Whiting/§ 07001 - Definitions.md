@@ -40,6 +40,8 @@ In this chapter:
 
 (Pub. L. 109–479, title VI, §602, Jan. 12, 2007, 120 Stat. 3644.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title
 
 Pub. L. 109–479, title VI, §601, Jan. 12, 2007, 120 Stat. 3644, provided that: "This title \[enacting this chapter\] may be cited as the 'Pacific Whiting Act of 2006'."

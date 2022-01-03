@@ -2,7 +2,7 @@
 
 (a) An employee who performs work during a regularly scheduled 8-hour period of service which is not overtime work as defined by section 5542(a) of this title a part of which is performed on Sunday is entitled to pay for the entire period of service at the rate of his basic pay, plus premium pay at a rate equal to 25 percent of his rate of basic pay. For employees serving outside the United States in areas where Sunday is a routine workday and another day of the week is officially recognized as the day of rest and worship, the Secretary of State may designate the officially recognized day of rest and worship as the day with respect to which the preceding sentence shall apply instead of Sunday.
 
-(b) An employee who performs work on a holiday designated by Federal statute, Executive order, or with respect to an employee of the government of the District of Columbia, by order of the District of Columbia Council, is entitled to pay at the rate of his basic pay, plus premium pay at a rate equal to the rate of his basic pay, for that holiday work which is not—
+(b) An employee who performs work on a holiday designated by Federal statute, Executive order, or with respect to an employee of the government of the District of Columbia, by order of the District of Columbia Council, is entitled to pay at the rate of his basic pay, plus premiumpay at a rate equal to the rate of his basic pay, for that holiday work which is not—
 
 &emsp;(1) in excess of 8 hours; or
 
@@ -66,7 +66,7 @@ Act
 
 July 18, 1966, Pub. L. 89–504, §405(b)(1), (c), 80 Stat. 297.
 
-In subsection (a), the words "An employee who performs work . . . is entitled to pay . . . at the rate of hisbasic pay" are coextensive with and substituted for "Any . . . service . . . performed . . . shall be compensated . . . at the rate of basic compensation of the officer or employee performing such work." The words "section 5542(a) of this title" are substituted for "section 201 of this Act" to reflect the codification of that section in title 5, United States Code. The words "between midnight Saturday and midnight Sunday" are coextensive with and substituted for "within the period commencing at midnight Saturday and ending at midnight Sunday".
+In subsection (a), the words "An employee who performs work . . . is entitled to pay . . . at the rate of his basic pay" are coextensive with and substituted for "Any . . . service . . . performed . . . shall be compensated . . . at the rate of basic compensation of the officer or employee performing such work." The words "section 5542(a) of this title" are substituted for "section 201 of this Act" to reflect the codification of that section in title 5, United States Code. The words "between midnight Saturday and midnight Sunday" are coextensive with and substituted for "within the period commencing at midnight Saturday and ending at midnight Sunday".
 
 #### <b>Editorial Notes</b>
 

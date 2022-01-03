@@ -36,7 +36,7 @@ Communication During Time Off Duty.—During a signal employee's minimum off-dut
 
 (e)
 
-Exclusivity.—The hours of service, duty hours, and rest periods of signal employees shall be governed exclusively by this chapter. Signal employees operating motor vehicles shall not be subject to any hours of service rules, duty hours or rest period rules promulgated by any Federal authority, including the Federal Motor Carrier Safety Administration, other than the Federal Railroad Administration.
+Exclusivity.—The hours of service, duty hours, and rest periods of signal employees shall be governed exclusively by this chapter. Signal employees operating motor vehicles shall not besubject to any hours of service rules, duty hours or rest period rules promulgated by any Federal authority, including the Federal Motor Carrier Safety Administration, other than the Federal Railroad Administration.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 889; Pub. L. 110–432, div. A, title I, §108(c), Oct. 16, 2008, 122 Stat. 4862.)
 
@@ -88,6 +88,8 @@ In subsection (b), the words before paragraph (1) are added as related to 45:63a
 
 In subsection (c), the word "actual" is omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–432, §108(c)(1), added subsec. (a) and struck out former subsec. (a) which limited the amount of time spent on duty by signal employees.
@@ -97,6 +99,8 @@ Subsec. (b)(3). Pub. L. 110–432, §108(c)(2), substituted "duty." for "duty, e
 Subsec. (c). Pub. L. 110–432, §108(c)(3), inserted at end "A signal employee may not be allowed to remain or go on duty under the emergency authority provided under this subsection to conduct routine repairs, routine maintenance, or routine inspection of signal systems."
 
 Subsecs. (d), (e). Pub. L. 110–432, §108(c)(4), added subsecs. (d) and (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

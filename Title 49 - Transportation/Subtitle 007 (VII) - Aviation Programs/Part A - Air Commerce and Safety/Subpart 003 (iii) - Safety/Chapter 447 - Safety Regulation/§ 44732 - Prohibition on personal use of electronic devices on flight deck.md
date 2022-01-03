@@ -18,6 +18,8 @@ Personal Wireless Communications Device Defined.—In this section, the term "pe
 
 (Added Pub. L. 112–95, title III, §307(a), Feb. 14, 2012, 126 Stat. 61.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Regulations
 
 Pub. L. 112–95, title III, §307(d), Feb. 14, 2012, 126 Stat. 62, provided that: "Not later than 90 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator of the Federal Aviation Administration shall initiate a rulemaking procedure for regulations to carry out section 44732 of title 49, United States Code (as added by this section), and shall issue a final rule thereunder not later than 2 years after the date of enactment of this Act."

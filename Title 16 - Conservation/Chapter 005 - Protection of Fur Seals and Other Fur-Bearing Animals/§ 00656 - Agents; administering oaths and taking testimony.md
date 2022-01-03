@@ -4,6 +4,8 @@ The agents are empowered to administer oaths in all cases relating to the servic
 
 (R.S. §1976.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §1976 derived from act Mar. 5, 1872, ch. 31, §3, 17 Stat. 35.

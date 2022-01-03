@@ -2,7 +2,7 @@
 
 #### (a) Popular participation through encouragement of democratic institutions
 
-In carrying out programs authorized in this part and part I of this subchapter, emphasisshall be placed on assuring maximum participation in the task of economic development on the part of the people of the developing countries, through the encouragement of democratic private and local governmental institutions.
+In carrying out programs authorized in this part and part I of this subchapter, emphasis shall be placed on assuring maximum participation in the task of economic development on the part of the people of the developing countries, through the encouragement of democratic private and local governmental institutions.
 
 #### (b) Human and intellectual resources; self-government through civic education and training in requisite skills
 

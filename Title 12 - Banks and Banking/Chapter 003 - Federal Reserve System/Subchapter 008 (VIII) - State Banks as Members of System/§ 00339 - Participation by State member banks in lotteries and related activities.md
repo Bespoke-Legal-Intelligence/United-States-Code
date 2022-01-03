@@ -26,7 +26,7 @@ As used in this section—
 
 &emsp;(1) The term "deal in" includes making, taking, buying, selling, redeeming, or collecting.
 
-&emsp;(2) The term "lottery" includes any arrangement, other than a savings promotion raffle, whereby three or more persons (the "participants") advance money or credit to another in exchange for the possibility or expectationthat one or more but not all of the participants (the "winners") will receive by reason of their advances more than the amounts they have advanced, the identity of the winners being determined by any means which includes—
+&emsp;(2) The term "lottery" includes any arrangement, other than a savings promotion raffle, whereby three or more persons (the "participants") advance money or credit to another in exchange for the possibility or expectation that one or more but not all of the participants (the "winners") will receive by reason of their advances more than the amounts they have advanced, the identity of the winners being determined by any means which includes—
 
 &emsp;&emsp;(A) a random selection;
 

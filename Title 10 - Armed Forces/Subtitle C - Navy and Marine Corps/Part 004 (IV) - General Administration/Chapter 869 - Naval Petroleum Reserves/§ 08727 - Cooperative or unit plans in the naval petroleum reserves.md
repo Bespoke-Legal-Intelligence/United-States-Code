@@ -18,6 +18,8 @@ Historical and Revision Notes
 
 Aug. 8, 1946, ch. 916, §13 (29th through 85th words) 60 Stat. 958.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7427 of this title as this section.
@@ -28,6 +30,8 @@ Aug. 8, 1946, ch. 916, §13 (29th through 85th words) 60 Stat. 958.
 
 <b>1976</b>—Pub. L. 94–258 struck out "of the Navy" after "Secretary" wherever appearing.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
@@ -36,11 +40,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 12929. Delegation of Authority Regarding Naval Petroleum and Oil Shale Reserves
 
 Ex. Ord. No. 12929, Sept. 29, 1994, 59 F.R. 50473, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3 and sections 7427 and 7428 \[now 8727 and 8728\] of title 10, United States Code, and in order to meet the goals and requirements of the Naval Petroleum and Oil Shale Reserves, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, including section 301 of title 3 and sections 7427 and 7428 \[now 8727 and 8728\] of title 10, United States Code, and in order to meet the goals and requirements of the Naval Petroleum and Oil Shale Reserves, it is hereby ordered as follows:
 
 The functions vested in the President by sections 7427 and 7428 \[now 8727 and 8728\] of title 10 of the United States Code are delegated to the Secretary of Energy.
 

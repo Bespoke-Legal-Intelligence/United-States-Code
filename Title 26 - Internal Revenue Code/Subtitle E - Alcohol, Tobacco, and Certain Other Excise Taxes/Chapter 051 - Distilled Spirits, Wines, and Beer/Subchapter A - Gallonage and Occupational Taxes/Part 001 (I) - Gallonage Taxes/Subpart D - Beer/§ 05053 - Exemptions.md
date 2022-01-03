@@ -6,7 +6,7 @@ Beer may be removed from the brewery, without payment of tax, for export, in suc
 
 #### (b) Removals when unfit for beverage use
 
-When beer has become sour or damaged, so as to be incapable of use as such, a brewer may remove the same from his brewery without payment of tax, for manufacturing purposes, undersuch regulations as the Secretary may prescribe.
+When beer has become sour or damaged, so as to be incapable of use as such, a brewer may remove the same from his brewery without payment of tax, for manufacturing purposes, under such regulations as the Secretary may prescribe.
 
 #### (c) Removals for laboratory analysis
 
@@ -14,7 +14,7 @@ Beer may be removed from the brewery, without payment of tax, for laboratory ana
 
 #### (d) Removals for research, development, or testing
 
-Under such conditions and regulations as the Secretary may prescribe, beer may be removed from the brewery without payment of tax for use in research, development, or testing (other than consumer testing or other market analysis) of processes, systems, materials, or equipment relating to beer or brewery operations.
+Under such conditions and regulations as the Secretary may prescribe, beer may be removed from the brewery without payment of tax foruse in research, development, or testing (other than consumer testing or other market analysis) of processes, systems, materials, or equipment relating to beer or brewery operations.
 
 #### (e) Beer for personal or family use
 
@@ -56,6 +56,8 @@ Subject to such regulations as the Secretary may prescribe, beer may be removed 
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1334; amended Pub. L. 89–44, title VIII, §807(b), June 21, 1965, 79 Stat. 164; Pub. L. 91–673, §2, Jan. 12, 1971, 84 Stat. 2056; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–458, §2(b)(1), Oct. 14, 1978, 92 Stat. 1255; Pub. L. 105–34, title XIV, §§1414(b), 1418(a), 1419(a), Aug. 5, 1997, 111 Stat. 1047–1049.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 5053, act Aug. 16, 1954, ch. 736, 68A Stat. 612, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
@@ -78,6 +80,8 @@ Subsec. (i). Pub. L. 105–34, §1414(b), redesignated subsec. (f) as (i).
 
 <b>1965</b>—Subsec. (a). Pub. L. 89–44 struck out "to a foreign country" after "export".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1997 Amendment
 
 Pub. L. 105–34, title XIV, §1414(d), Aug. 5, 1997, 111 Stat. 1047, provided that: "The amendments made by this section \[amending this section and sections 5056 and 5222 of this title\] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act \[Aug. 5, 1997\]."
@@ -92,7 +96,7 @@ Amendment by Pub. L. 95–458 effective on first day of first calendar month beg
 
 #### Effective Date of 1971 Amendment
 
-Amendment by Pub. L. 91–673 effective on first day of first calendar month which begins more than 90 daysafter Jan. 12, 1971, see section 5 of Pub. L. 91–673, set out as a note under section 5056 of this title.
+Amendment by Pub. L. 91–673 effective on first day of first calendar month which begins more than 90 days after Jan. 12, 1971, see section 5 of Pub. L. 91–673, set out as a note under section 5056 of this title.
 
 #### Effective Date of 1965 Amendment
 

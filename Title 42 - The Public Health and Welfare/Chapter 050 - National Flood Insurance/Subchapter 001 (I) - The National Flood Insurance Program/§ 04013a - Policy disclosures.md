@@ -10,9 +10,13 @@ The Administrator may impose a civil penalty of not more than $50,000 on any per
 
 (Pub. L. 112–141, div. F, title II, §100234, July 6, 2012, 126 Stat. 956.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Biggert-Waters Flood Insurance Reform Act of 2012, and also as part of the Moving Ahead for Progress in the 21st Century Act, also known as the MAP–21, and not as part of the National Flood Insurance Act of 1968 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

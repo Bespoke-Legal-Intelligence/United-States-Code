@@ -36,11 +36,15 @@ Historical and Revision Notes
 
 R.S. 4615.
 
-As does 34 U.S.C. 1133, the revised section reflects the Act of March 3, 1899, ch. 413, §13, 30 Stat. 1007, and the Act of May 29, 1920, ch. 214, §1, 41 Stat. 654, which, respectively, abolished the interest of captors in prize property and substituted "Treasurer of the United States or public depositary" for "assistant treasurer of the United States".
+As does 34 U.S.C. 1133, the revised section reflects the Act of March 3, 1899, ch. 413, §13, 30 Stat. 1007, and theAct of May 29, 1920, ch. 214, §1, 41 Stat. 654, which, respectively, abolished the interest of captors in prize property and substituted "Treasurer of the United States or public depositary" for "assistant treasurer of the United States".
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7657 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

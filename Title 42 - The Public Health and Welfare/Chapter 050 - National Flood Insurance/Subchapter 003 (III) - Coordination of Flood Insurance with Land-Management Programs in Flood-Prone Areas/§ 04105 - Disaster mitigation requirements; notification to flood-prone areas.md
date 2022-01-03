@@ -18,9 +18,11 @@ Formally identified flood-prone communities that do not qualify for the national
 
 #### (e) Administrative procedures; establishment; reimbursement of certain expenses; appropriation authorization
 
-The Administrator is authorized to establish administrative procedures whereby the identification under this section of one or more areas in the community as having special flood hazards may be appealed to the Administrator by the community or any owner or lessee of real property within the community who believes his property has been inadvertently included in aspecial flood hazard area by the identification. When, incident to any appeal under this subsection, the owner or lessee of real property or the community, as the case may be, incurs expense in connection with the services of surveyors, engineers, or similar services, but not including legal services, in the effecting of an appeal which is successful in whole or part, the Administrator shall reimburse such individual or community to an extent measured by the ratio of the successful portion of the appeal as compared to the entire appeal and applying such ratio to the reasonable value of all such services, but no reimbursement shall be made by the Administrator in respect to any fee or expense payment, the payment of which was agreed to be contingent upon the result of the appeal. There is authorized to be appropriated for purposes of implementing this subsection not to exceed $250,000.
+The Administrator is authorized to establish administrative procedures whereby the identification under this section of one or more areas in the community as having special flood hazards may be appealed to the Administrator by the community or any owner or lessee of real property within the community who believes his property has been inadvertently included in a special flood hazard area by the identification. When, incident to any appeal under this subsection, the owner or lessee of real property or the community, as the case may be, incurs expense in connection with the services of surveyors, engineers, or similar services, but not including legal services, in the effecting of an appeal which is successful in whole or part, the Administrator shall reimburse such individual or community to an extent measured by the ratio of the successful portion of the appeal as compared to the entire appeal and applying such ratio to the reasonable value of all such services, but no reimbursement shall be made by the Administrator in respect to any fee or expense payment, the payment of which was agreed to be contingent upon the result of the appeal. There is authorized to be appropriated for purposes of implementing this subsection not to exceed $250,000.
 
 (Pub. L. 93–234, title II, §201, Dec. 31, 1973, 87 Stat. 982; Pub. L. 95–128, title VII, §704(d), Oct. 12, 1977, 91 Stat. 1146; Pub. L. 98–181, title I \[title IV, §451(e)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 98–479, title II, §204(j), Oct. 17, 1984, 98 Stat. 2233; Pub. L. 112–141, div. F, title II, §100238(a), July 6, 2012, 126 Stat. 958.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -39,6 +41,8 @@ Section was enacted as part of the Flood Disaster Protection Act of 1973, and no
 <b>1983</b>—Subsecs. (a) to (c), (e). Pub. L. 98–181 substituted "Director" for "Secretary" and "Director's" for "Secretary's" wherever appearing.
 
 <b>1977</b>—Subsec. (e). Pub. L. 95–128 added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

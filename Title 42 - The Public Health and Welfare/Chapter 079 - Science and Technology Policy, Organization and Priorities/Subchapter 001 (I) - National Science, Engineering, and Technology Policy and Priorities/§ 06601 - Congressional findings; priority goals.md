@@ -4,7 +4,7 @@
 
 &emsp;(1) the general welfare, the security, the economic health and stability of the Nation, the conservation and efficient utilization of its natural and human resources, and the effective functioning of government and society require vigorous, perceptive support and employment of science and technology in achieving national objectives;
 
-&emsp;(2) the many large and complex scientific and technological factors which increasingly influence the course of national and international events require appropriate provision, involving long-range, inclusive planning as well as more immediate program development, to incorporate scientific and technological knowledge in the national decisionmaking process;
+&emsp;(2) the many large and complex scientific and technological factors which increasinglyinfluence the course of national and international events require appropriate provision, involving long-range, inclusive planning as well as more immediate program development, to incorporate scientific and technological knowledge in the national decisionmaking process;
 
 &emsp;(3) the scientific and technological capabilities of the United States, when properly fostered, applied, and directed, can effectively assist in improving the quality of life, in anticipating and resolving critical and emerging international, national, and local problems, in strengthening the Nation's international economic position, and in furthering its foreign policy objectives;
 
@@ -43,6 +43,8 @@
 &emsp;(13) advancing the exploration and peaceful uses of outer space.
 
 (Pub. L. 94–282, title I, §101, May 11, 1976, 90 Stat. 459.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2017 Amendment
 
@@ -352,7 +354,7 @@ High-energy Physics.—
 
 &emsp;"(1)
 
-In general.—The Physical Science Subcommittee of the National Science and Technology Council (referred to in this section as 'Subcommittee') shall continue to coordinate Federal efforts related to high-energy physics research to maximize the efficiency and effectiveness of United States investment in high-energy physics.
+In general.—The Physical Science Subcommittee of the National Science and TechnologyCouncil (referred to in this section as 'Subcommittee') shall continue to coordinate Federal efforts related to high-energy physics research to maximize the efficiency and effectiveness of United States investment in high-energy physics.
 
 &emsp;"(2)
 
@@ -431,6 +433,8 @@ Responsibilities for fusion energy sciences.—In regard to coordinating Federal
 &emsp;&emsp;"(C) ensure coordination between the Department of Energy Office of Science, National Nuclear Security Administration, Advanced Research Projects Agency-Energy, National Aeronautics and Space Administration, \[National Science\] Foundation, and Department of Defense regarding fusion energy sciences and plasma physics; and
 
 &emsp;&emsp;"(D) formulate overall scientific goals for the future of fusion energy sciences and plasma physics."
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 12039. Transfer of Certain Science and Technology Policy Functions
 
@@ -528,7 +532,7 @@ Sec. 5. <i>Administration</i>. (a) The Council will oversee the duties of the Fe
 
 (c) To the extent practicable and permitted by law, executive departments and agencies shall make resources, including, but not limited to, personnel, office support, and printing, available to the Council as requested by the Assistant.
 
-(d) All executive departments and agencies shall cooperate with the Council and provide such assistance,information, and advice to the Council as the Council may request, to the extent permitted by law.
+(d) All executive departments and agencies shall cooperate with the Council and provide such assistance, information, and advice to the Council as the Council may request, to the extent permitted by law.
 
 #### Executive Order No. 12882
 
@@ -540,7 +544,7 @@ Ex. Ord. No. 12975, Oct. 3, 1995, 60 F.R. 52063, as amended by Ex. Ord. No. 1301
 
 #### Executive Order No. 13226
 
-Ex. Ord. No. 13226, Sept. 30, 2001, 66 F.R. 50523, as amended by Ex. Ord. No. 13305, May 28, 2003, 68 F.R. 32323; Ex. Ord. No. 13349, July 23, 2004, 69 F.R. 44891; Ex. Ord. No. 13385, §8, Sept. 29, 2005, 70 F.R. 57991, which established the President's Council of Advisors on Science and Technology, was revoked by Ex. Ord. No. 13539, §6, Apr. 21, 2010, 75 F.R. 21975, set out below.
+Ex. Ord. No. 13226, Sept. 30, 2001, 66 F.R. 50523, as amended by Ex. Ord. No. 13305, May 28, 2003, 68 F.R. 32323; Ex. Ord. No. 13349, July 23, 2004, 69 F.R. 44891; Ex. Ord. No. 13385, §8, Sept. 29, 2005, 70 F.R. 57991, which established the President's Council of Advisors on Science and Technology, was revoked by Ex. Ord. No. 13539, §6, Apr. 21, 2010, 75 F.R. 21975, formerly set out below.
 
 #### Extension of Term of President's Council of Advisors on Science and Technology
 
@@ -574,7 +578,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Establishment</i>. There is established within the Department of Health and Human Services the Presidential Commission for the Study of Bioethical Issues (Commission).
 
-Sec. 2. <i>Mission</i>.
+Sec. 2. <i>Mission.</i>
 
 (a) The Commission shall advise the President on bioethical issues that may emerge as a consequence of advances in biomedicine and related areas of science and technology. The Commission shall pursue its work with the goal of identifying and promoting policies and practices that ensure scientific research, healthcare delivery, and technological innovation are conducted in an ethically responsible manner. To achieve this goal, the Commission shall:
 
@@ -594,7 +598,7 @@ Sec. 2. <i>Mission</i>.
 
 (f) The Commission is authorized to conduct original empirical and conceptual research, commission papers and studies, hold hearings, and establish committees and subcommittees, as necessary. The Commission is authorized to develop reports or other materials.
 
-Sec. 3. <i>Membership</i>.
+Sec. 3. <i>Membership.</i>
 
 (a) The Commission shall be an expert panel composed of not more than 13 members appointed by the President, drawn from the fields of bioethics, science, medicine, technology, engineering, law, philosophy, theology, or other areas of the humanities or social sciences, at least one and not more than three of whom may be bioethicists or scientists drawn from the executive branch, as designated by the President.
 
@@ -602,7 +606,7 @@ Sec. 3. <i>Membership</i>.
 
 (c) Members shall serve for a term of 2 years and shall be eligible for reappointment. Members may continue to serve after the expiration of their terms until the appointment of a successor.
 
-Sec. 4. <i>Administration</i>.
+Sec. 4. <i>Administration.</i>
 
 (a) The Department of Health and Human Services shall provide funding and administrative support for the Commission to the extent permitted by law and within existing appropriations.
 
@@ -614,7 +618,7 @@ Sec. 4. <i>Administration</i>.
 
 Sec. 5. <i>Termination</i>. The Commission shall terminate 2 years after the date of this order unless extended by the President.
 
-Sec. 6. <i>General Provisions</i>.
+Sec. 6. <i>General Provisions.</i>
 
 (a) This order supersedes Executive Order 13237 of November 28, 2001.
 
@@ -634,7 +638,7 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of Presidential Commission for the Study of Bioethical Issues
 
-Term of Presidential Commission for the Study of Bioethical Issues extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Presidential Commission for the Study of Bioethical Issues extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Previous extensions of term of Presidential Commission for the Study of Bioethical Issues were contained in the following prior Executive Orders:
 
@@ -644,11 +648,11 @@ Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, extended term until Sept. 30, 
 
 #### Executive Order No. 13539
 
-Ex. Ord. No. 13539, Apr. 21, 2010, 75 F.R. 21973, as amended by Ex. Ord. No. 13596, §2, Dec. 19, 2011, 76 F.R. 80725, which established the President's Council of Advisors on Science and Technology, was revoked by Ex. Ord. No. 13895, §7, Oct. 22, 2019, 84 F.R. 57311, set out below.
+Ex. Ord. No. 13539, Apr. 21, 2010, 75 F.R. 21973, as amended by Ex. Ord. No. 13596, §2, Dec. 19, 2011, 76 F.R. 80725, which established the President's Council of Advisors on Science and Technology, was revoked by Ex. Ord. No. 13895, §7, Oct. 22, 2019, 84 F.R. 57311, formerly set out below.
 
 #### Extension of Term of President's Council of Advisors on Science and Technology
 
-Term of President's Council of Advisors on Science and Technology extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President's Council of Advisors on Science and Technology extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Previous extensions of term of President's Council of Advisors on Science and Technology were contained in the following prior Executive Orders:
 
@@ -694,7 +698,7 @@ Sec. 2. <i>Objectives</i>. Artificial Intelligence will affect the missions of n
 
 Sec. 3. <i>Roles and Responsibilities</i>. The Initiative shall be coordinated through the National Science and Technology Council (NSTC) Select Committee on Artificial Intelligence (Select Committee). Actions shall be implemented by agencies that conduct foundational AI R\&D, develop and deploy applications of AI technologies, provide educational grants, and regulate and provide guidance for applications of AI technologies, as determined by the co-chairs of the NSTC Select Committee (implementing agencies).
 
-Sec. 4. <i>Federal Investment in AI Research and Development</i>.
+Sec. 4. <i>Federal Investment in AI Research and Development.</i>
 
 (a) Heads of implementing agencies that also perform or fund R\&D (AI R\&D agencies), shall consider AI as an agency R\&D priority, as appropriate to their respective agencies' missions, consistent with applicable law and in accordance with the Office of Management and Budget (OMB) and the Office of Science and Technology Policy (OSTP) R\&D priorities memoranda. Heads of such agencies shall take this priority into account when developing budget proposals and planning for the use of funds in Fiscal Year 2020 and in future years. Heads of these agencies shall also consider appropriate administrative actions to increase focus on AI for 2019.
 
@@ -706,7 +710,7 @@ Sec. 4. <i>Federal Investment in AI Research and Development</i>.
 
 (c) To the extent appropriate and consistent with applicable law, heads of AI R\&D agencies shall explore opportunities for collaboration with non-Federal entities, including: the private sector; academia; non-profit organizations; State, local, tribal, and territorial governments; and foreign partners and allies, so all collaborators can benefit from each other's investment and expertise in AI R\&D.
 
-Sec. 5. <i>Data and Computing Resources for AI Research and Development</i>.
+Sec. 5. <i>Data and Computing Resources for AI Research and Development.</i>
 
 (a) Heads of all agencies shall review their Federal data and models to identify opportunities to increase access and use by the greater non-Federal AI research community in a manner that benefits that community, while protecting safety, security, privacy, and confidentiality. Specifically, agencies shall improve data and model inventory documentation to enable discovery and usability, and shall prioritize improvements to access and quality of AI data and models based on the AI research community's user feedback.
 
@@ -740,7 +744,7 @@ Sec. 5. <i>Data and Computing Resources for AI Research and Development</i>.
 
 (d) The Select Committee shall provide technical expertise to the American Technology Council on matters regarding AI and the modernization of Federal technology, data, and the delivery of digital services, as appropriate.
 
-Sec. 6. <i>Guidance for Regulation of AI Applications</i>.
+Sec. 6. <i>Guidance for Regulation of AI Applications.</i>
 
 (a) Within 180 days of the date of this order, the OMB Director, in coordination with the OSTP Director, the Director of the Domestic Policy Council, and the Director of the National Economic Council, and in consultation with any other relevant agencies and key stakeholders as the OMB Director shall determine, shall issue a memorandum to the heads of all agencies that shall:
 
@@ -764,7 +768,7 @@ Sec. 6. <i>Guidance for Regulation of AI Applications</i>.
 
 (ii) This plan shall be developed in consultation with the Select Committee, as needed, and in consultation with the private sector, academia, non-governmental entities, and other stakeholders, as appropriate.
 
-Sec. 7. <i>AI and the American Workforce</i>.
+Sec. 7. <i>AI and the American Workforce.</i>
 
 (a) Heads of implementing agencies that also provide educational grants shall, to the extent consistent with applicable law, consider AI as a priority area within existing Federal fellowship and service programs.
 
@@ -786,7 +790,7 @@ Sec. 7. <i>AI and the American Workforce</i>.
 
 (c) The Select Committee shall provide technical expertise to the National Council for the American Worker on matters regarding AI and the American workforce, as appropriate.
 
-Sec. 8. <i>Action Plan for Protection of the United States Advantage in AI Technologies</i>.
+Sec. 8. <i>Action Plan for Protection of the United States Advantage in AI Technologies.</i>
 
 (a) As directed by the NSPM, the Assistant to the President for National Security Affairs, in coordination with the OSTP Director and the recipients of the NSPM, shall organize the development of an action plan to protect the United States advantage in AI and AI technology critical to United States economic and national security interests against strategic competitors and adversarial nations.
 
@@ -800,7 +804,7 @@ Sec. 9. <i>Definitions</i>. As used in this order:
 
 (b) the term "open data" shall, in accordance with OMB Circular A–130 and memorandum M–13–13, mean "publicly available data structured in a way that enables the data to be fully discoverable and usable by end users."
 
-Sec. 10. <i>General Provisions</i>.
+Sec. 10. <i>General Provisions.</i>
 
 (a) Nothing in this order shall be construed to impair or otherwise affect:
 
@@ -814,59 +818,69 @@ Sec. 10. <i>General Provisions</i>.
 
 Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Ex. Ord. No. 13895. President's Council of Advisors on Science and Technology
+#### Executive Order No. 13895
 
-Ex. Ord. No. 13895, Oct. 22, 2019, 84 F.R. 57309, provided:
+Ex. Ord. No. 13895, Oct. 22, 2019, 84 F.R. 57309, which established the President's Council of Advisors on Science and Technology, was revoked by Ex. Ord. No. 14007, §6, Jan. 27, 2021, 86 F.R. 7616, set out below.
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to establish an advisory council on science and technology, it is hereby ordered as follows:
+#### Ex. Ord. No. 14007. President's Council of Advisors on Science and Technology
 
-Section 1. <i>Purpose</i>. In every age of our Nation's history, American ingenuity has driven technologicalprogress and the promise of the American Dream. Scientific advancement has improved the lives of our citizens, created jobs and better futures for American workers, and kept the American people safe at home and abroad. American thinkers, inventors, and entrepreneurs, empowered by free-market capitalism and driven by bold ideas, have created an ecosystem of innovation that is the envy of the world, making our Nation prosperous and strong.
+Ex. Ord. No. 14007, Jan. 27, 2021, 86 F.R. 7615, as amended by Ex. Ord. No. 14044, Sept. 13, 2021, 86 F.R. 51579, provided:
 
-Since World War II, our Nation's greatest scientists and engineers have advised the Federal Government, guiding the United States through the nuclear age, the mission to the moon, and the transformations of the digital revolution. Emerging technologies like artificial intelligence and quantum information science are now on the horizon, and how we address their development will determine whether they give rise to new American industries or challenge American values. With American leadership facing fierce global competition, today more than ever our Nation is in need of new approaches for unleashing the creativity of our research enterprise and empowering private sector innovation to ensure American technological dominance.
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to establish an advisory council on science, technology, and innovation, it is hereby ordered as follows:
 
-Through collaborative partnerships across the American science and technology enterprise, which includes an unmatched constellation of public and private educational institutions, research laboratories, corporations, and foundations, the United States can usher extraordinary new technologies into homes, hospitals, and highways across the world. These technologies would have American values at their core. By strengthening the ties that connect government, industry, and academia, my Administration will champion a new era of American research and innovation, which will give rise to new discoveries that create the industries of the future.
+Section 1. <i>Policy</i>. As directed in the Presidential Memorandum of January 27, 2021 (Scientific Integrity and Evidence-Based Policymaking) \[set out below\], it is the policy of my Administration to make evidence-based decisions guided by the best available science and data. Officials and employees across my Administration shall seek from scientists, engineers, and other experts the best available scientific and technological information and advice.
 
-Sec. 2. <i>Establishment</i>. The President's Council of Advisors on Science and Technology (PCAST) is hereby established. The PCAST shall be composed of the Director of the Office of Science and Technology Policy (the "Director"), and not more than 16 additional members appointed by the President. These additional members shall include distinguished individuals from sectors outside of the Federal Government. They shall have diverse perspectives and expertise in science, technology, education, and innovation. The Director shall serve as the Chair of the PCAST.
+Sec. 2. <i>Establishment</i>. (a) There is hereby established the President's Council of Advisors on Science and Technology (PCAST).
 
-Sec. 3. <i>Functions</i>. (a) The PCAST shall advise the President on matters involving science, technology, education, and innovation policy. The Council shall also provide the President with scientific and technical information that is needed to inform public policy relating to the American economy, the American worker, national and homeland security, and other topics. The PCAST shall meet regularly and shall:
+(b) The PCAST shall be composed of not more than 32 members. The Assistant to the President for Science and Technology (the "Science Advisor") shall be a member of the PCAST. The Science Advisor, if also serving as the Director of the Office of Science and Technology Policy, may designate the U.S. Chief Technology Officer as a member. The remaining members shall be distinguished individuals and representatives from sectors outside of the Federal Government appointed by the President. These non-Federal members shall have diverse perspectives and expertise in science, technology, and innovation.
 
-(i) respond to requests from the President or the Director for information, analysis, evaluation, or advice;
+(c) The Science Advisor shall serve as a Co-Chair of the PCAST. The President shall also designate at least one, but not more than two, of the non-Federal members to serve as a Co-Chair, or Co-Chairs, of the PCAST with the Science Advisor. The Science Advisor may designate up to three Vice Chairs of the PCAST from among the non-Federal members of the PCAST, to support the Co-Chairs in the leadership and organization of the PCAST.
 
-(ii) solicit information and ideas from a broad range of stakeholders on contemporary topics of critical importance to the Nation in order to inform policy making. Stakeholders include the research community, the private sector, universities, national laboratories, State and local governments, and non-profit organizations;
+Sec. 3. <i>Functions</i>. (a) The PCAST shall advise the President on matters involving policy affecting science, technology, and innovation, as well as on matters involving scientific and technological information that is needed to inform public policy relating to the economy, worker empowerment, education, energy, the environment, public health, national and homeland security, racial equity, and other topics.
 
-(iii) serve as the advisory committee identified in subsection 101(b) of the High-Performance Computing Act of 1991 (Public Law 102–194), as amended (15 U.S.C. 5511(b)). In performing the functions of such advisory committee, the PCAST shall be known as the President's Innovation and Technology Advisory Committee; and
+(b) The PCAST shall meet regularly and shall:
 
-(iv) serve as the advisory panel identified in section 4 of the 21st Century Nanotechnology Research and Development Act (Public Law 108–153), as amended (15 U.S.C. 7503). In performing the functions of such advisory committee, the PCAST shall be known as the National Nanotechnology Advisory Panel.
+(i) respond to requests from the President or the Science Advisor for information, analysis, evaluation, or advice;
 
-(b) The PCAST shall provide advice to the National Science and Technology Council in response to requests from that Council.
+(ii) solicit information and ideas from a broad range of stakeholders, including the research community; the private sector; universities; national laboratories; State, local, and Tribal governments; foundations; and nonprofit organizations;
 
-Sec. 4. <i>Administration</i>. (a) The heads of executive departments and agencies shall, to the extent permitted by law, provide the PCAST with information concerning scientific and technological matters when requested by the PCAST Chair.
+(iii) serve as the advisory committee identified in section 101(b) of the High-Performance Computing Act of 1991 (Public Law 102–194), as amended (15 U.S.C. 5511(b)), in which capacity the PCAST shall be known as the President's Innovation and Technology Advisory Committee; and
 
-(b) In consultation with the Director, the PCAST may create standing subcommittees and ad hoc groups, including technical advisory groups to assist the PCAST and provide preliminary information to the PCAST.
+(iv) serve as the advisory panel identified in section 4 of the 21st Century Nanotechnology Research and Development Act (Public Law 108–153), as amended (15 U.S.C. 7503), in which capacity the PCAST shall be known as the National Nanotechnology Advisory Panel.
 
-(c) The Director may request that members of the PCAST, its standing subcommittees, or ad hoc groups who do not hold a current clearance for access to classified information, receive security clearance and access determinations pursuant to Executive Order 12968 of August 2, 1995 (Access to Classified Information) \[50 U.S.C. 3161 note\], as amended, or any successor order.
+(c) The PCAST shall provide advice from the non-Federal sector to the National Science and Technology Council (NSTC) in response to requests from the NSTC.
 
-(d) The Department of Energy shall provide such funding and administrative and technical support as the PCAST may require.
+Sec. 4. <i>Administration</i>. (a) The heads of executive departments and agencies shall, to the extent permitted by law, provide the PCAST with information concerning scientific and technological matters when requested by the PCAST Co-Chairs and as required for the purpose of carrying out the PCAST's functions.
+
+(b) In consultation with the Science Advisor, the PCAST is authorized to create standing subcommittees and ad hoc groups, including technical advisory groups, to assist the PCAST and provide preliminary information directly to the PCAST.
+
+(c) In order to allow the PCAST to provide advice and analysis regarding classified matters, the Science Advisor may request that members of the PCAST, its standing subcommittees, or ad hoc groups, who do not hold a current clearance for access to classified information, receive security clearance and access determinations pursuant to Executive Order 12968 of August 2, 1995 (Access to Classified Information) \[50 U.S.C. 3161 note\], as amended, or any successor order.
+
+(d) The Department of Energy shall provide such funding and administrative and technical support as the PCAST may require, to the extent permitted by law and within existing appropriations.
 
 (e) Members of the PCAST shall serve without any compensation for their work on the PCAST, but may receive travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the government service (5 U.S.C. 5701–5707).
 
-Sec. 5. <i>Termination</i>. The PCAST shall terminate 2 years from the date of this order \[Oct. 22, 2019\] unless extended by the President.
+(f) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.), may apply to the PCAST, any functions of the President under that Act, except that of reporting to the Congress, shall be performed by the Secretary of Energy, in accordance with the guidelines and procedures established by the Administrator of General Services.
 
-Sec. 6. <i>General Provisions</i>. (a) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (FACA), may apply to the PCAST, any functions of the President under the FACA, except that of reporting to the Congress, shall be performed by the Secretary of Energy in accordance with the guidelines and procedures established by the Administrator of General Services.
+Sec. 5. <i>Termination</i>. The PCAST shall terminate 2 years from the date of this order \[Jan. 27, 2021\] unless extended by the President.
 
-(b) Nothing in this order shall be construed to impair or otherwise affect:
+Sec. 6. <i>Revocation</i>. Executive Order 13895 of October 22, 2019 (President's Council of Advisors on Science and Technology) \[formerly set out above\], is hereby revoked.
+
+Sec. 7. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
 
 (i) the authority granted by law to an executive department or agency, or the head thereof; or
 
 (ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
 
-(c) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
 
-(d) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
-Sec. 7. <i>Revocation.</i> Executive Order 13539 of April 21, 2010 (President's Council of Advisors on Science and Technology) \[formerly set out above\], as amended, is hereby revoked.
+J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+#### Extension of Term of President's Council of Advisors on Science and Technology
+
+Term of President's Council of Advisors on Science and Technology extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 #### Strengthened Protections for Human Subjects of Classified Research
 
@@ -874,9 +888,9 @@ Memorandum of President of the United States, Mar. 27, 1997, 62 F.R. 26369, prov
 
 Memorandum for the Secretary of Defense, the Attorney General, the Secretary of Agriculture, the Secretary of Commerce, the Secretary of Labor, the Secretary of Health and Human Services, the Secretary of Housing and Urban Development, the Secretary of Transportation, the Secretary of Energy, the Secretary of Education, the Secretary of Veterans Affairs, the Director of Central Intelligence, the Administrator of the Environmental Protection Agency, the Administrator of the Agency for International Development, the Administrator of the National Aeronautics and Space Administration, the Director of the National Science Foundation, the Chair of the Nuclear Regulatory Commission, the Director of the Office of Science and Technology Policy, \[and\] the Chair of the Consumer Product Safety Commission
 
-I have worked hard to restore trust and ensure openness in government. This memorandum will further ourprogress toward these goals by strengthening the Federal Government's protections for human subjects of classified research.
+I have worked hard to restore trust and ensure openness in government. This memorandum will further our progress toward these goals by strengthening the Federal Government's protections for human subjects of classified research.
 
-In January 1994, I established the Advisory Committee on Human Radiation Experiments (the "Advisory Committee") to examine reports that the government had funded and conducted unethical human radiation experiments during the Cold War \[see Ex. Ord. No. 12891, set out as a note under section 2210 of this title\]. I directed the Advisory Committee to uncover the truth, recommend steps to right past wrongs, and propose ways to prevent unethical human subjects research from occurring in the future. In its October 1995 final report, the Advisory Committee recommended, among other things, that the government modify its policy governing classified research on human subjects ("Recommendations for Balancing National Security Interests and the Rights of the Public," Recommendation 15, Final Report, Advisory Committee on Human Radiation Experiments). This memorandum sets forth policy changes in response to those recommendations.
+In January 1994, I established the Advisory Committee on Human Radiation Experiments (the "Advisory Committee") to examine reports that the government had funded and conducted unethical human radiation experiments during the Cold War \[see Ex. Ord. No. 12891, formerly set out as a note under section 2210 of this title\]. I directed the Advisory Committee to uncover the truth, recommend steps to right past wrongs, and propose ways to prevent unethical human subjects research from occurring in the future. In its October 1995 final report, the Advisory Committee recommended, among other things, that the government modify its policy governing classified research on human subjects ("Recommendations for Balancing National Security Interests and the Rights of the Public," Recommendation 15, Final Report, Advisory Committee on Human Radiation Experiments). This memorandum sets forth policy changes in response to those recommendations.
 
 The Advisory Committee acknowledged that it is in the Nation's interest to continue to allow the government to conduct classified research involving human subjects where such research serves important national security interests. The Advisory Committee found, however, that classified human subjects research should be a "rare event" and that the "subjects of such research, as well as the interests of the public in openness in science and in government, deserve special protections." The Advisory Committee was concerned about "exceptions to informed consent requirements and the absence of any special review and approval process for human research that is to be classified." The Advisory Committee recommended that in all classified research projects the agency conducting or sponsoring the research meet the following requirements:
 
@@ -916,7 +930,7 @@ These steps, set forth in detail below, will preserve the government's ability t
 
 (i) The Common Rule currently requires that each IRB "include at least one member who is not otherwise affiliated with the institution and who is not part of the immediate family of a person who is affiliated with the institution." For classified research, the agencies shall define "not otherwise affiliated with the institution," as a nongovernmental member with the appropriate security clearance.
 
-(ii) Under the Common Rule, research projects are approved by the IRB if a "majority of those (IRB) members present at a meeting" approved the project. For classified research, the agencies shall propose to permit any member of the IRB who does not believe a specific project should be approved by the IRB to appeal a majority decision to approve the project to the head of the sponsoring agency. If the agency head affirms the IRB's decision to approve the project, the dissenting IRB member may appeal the IRB's decisions to the Director of OSTP. The Director of OSTP shall review the IRB's decision and approve or disapprove the project, or, at the Director's discretion, convene an IRB made up of nongovernmental officials, each with the appropriate security clearances, to approve or disapprove the project.
+(ii) Under the Common Rule, research projects are approved by the IRB if a "majority of those (IRB) members present at a meeting" approved the project. For classified research, the agencies shall propose to permit any member of the IRB who does not believe a specific project should be approved by the IRB to appeal a majority decision to approve the project to the head of the sponsoring agency. If the agency head affirms the IRB's decision to approve the project, the dissenting IRBmember may appeal the IRB's decisions to the Director of OSTP. The Director of OSTP shall review the IRB's decision and approve or disapprove the project, or, at the Director's discretion, convene an IRB made up of nongovernmental officials, each with the appropriate security clearances, to approve or disapprove the project.
 
 (iii) IRBs for classified research shall determine whether potential subjects need access to classified information to make a valid informed consent decision.
 
@@ -924,7 +938,7 @@ These steps, set forth in detail below, will preserve the government's ability t
 
 3\. <i>Agency Head Approval of Classified Research Projects</i>. Agencies may not conduct any classified human research project subject to the Common Rule unless the agency head has personally approved the specific project.
 
-4\. <i>Annual Public Disclosure of the Number of Classified Research Projects</i>. Each agency head shall inform the Director of OSTP by September 30 of each year of the number of classified research projects involving human subjects underway on that date, the number completedin the previous 12-month period, and the number of human subjects in each project. The Director of OSTP shall report the total number of classified research projects and participating subjects to the President and shall then report to the congressional armed services and intelligence committees and further shall publish the numbers in the Federal Register.
+4\. <i>Annual Public Disclosure of the Number of Classified Research Projects</i>. Each agency head shall inform the Director of OSTP by September 30 of each year of the number of classified research projects involving human subjects underway on that date, the number completed in the previous 12-month period, and the number of human subjects in each project. The Director of OSTP shall report the total number of classified research projects and participating subjects to the President and shall then report to the congressional armed services and intelligence committees and further shall publish the numbers in the Federal Register.
 
 5\. <i>Definitions</i>. For purposes of this memorandum, the terms "research" and "human subject" shall have the meaning set forth in the Common Rule. "Classified human research" means research involving "classified information" as defined in \[former\] Executive Order 12958.
 
@@ -935,4 +949,118 @@ These steps, set forth in detail below, will preserve the government's ability t
 8\. The Secretary of Health and Human Services shall publish this memorandum in the Federal Register.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Restoring Trust in Government Through Scientific Integrity and Evidence-Based Policymaking
+
+Memorandum of President of the United States, Jan. 27, 2021, 86 F.R. 8845, provided:
+
+Memorandum for the Heads of Executive Departments and Agencies
+
+It is the policy of my Administration to make evidence-based decisions guided by the best available science and data. Scientific and technological information, data, and evidence are central to the development and iterative improvement of sound policies, and to the delivery of equitable programs, across every area of government. Scientific findings should never be distorted or influenced by political considerations. When scientific or technological information is considered in policy decisions, it should be subjected to well-established scientific processes, including peer review where feasible and appropriate, with appropriate protections for privacy. Improper political interference in the work of Federal scientists or other scientists who support the work of the Federal Government and in the communication of scientific facts undermines the welfare of the Nation, contributes to systemic inequities and injustices, and violates the trust that the public places in government to best serve its collective interests.
+
+This memorandum reaffirms and builds on the Presidential Memorandum of March 9, 2009 (Scientific Integrity) \[74 F.R. 10671\], and the Director of the Office of Science and Technology Policy's Memorandum of December 17, 2010 (Scientific Integrity).
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, I direct as follows:
+
+Section 1. <i>Role of the Director of the Office of Science and Technology Policy</i>. The Director of the Office of Science and Technology Policy (Director) shall ensure the highest level of integrity in all aspects of executive branch involvement with scientific and technological processes. This responsibility shall include ensuring that executive departments and agencies (agencies) establish and enforce scientific-integrity policies that ban improper political interference in the conduct of scientific research and in the collection of scientific or technological data, and that prevent the suppression or distortion of scientific or technological findings, data, information, conclusions, or technical results. In implementing this memorandum, the Director shall, as appropriate, convene and confer with the heads of agencies and with personnel within the offices of the Executive Office of the President, including the Office of Management and Budget.
+
+Sec. 2. <i>Task Force on Scientific Integrity</i>. (a) The Director shall convene an interagency task force (the "Task Force") of the National Science and Technology Council (NSTC) to conduct a thorough review of the effectiveness of agency scientific-integrity policies developed since the issuance of the Presidential Memorandum of March 9, 2009.
+
+(b) The Task Force shall complete its review within 120 days of the date of the appointment of its members, and shall take the following actions when completing its review.
+
+&emsp;(i) The Task Force shall ensure its review considers whether existing Federal scientific-integrity policies prevent improper political interference in the conduct of scientific research and the collection of scientific or technological data; prevent the suppression or distortion of scientific or technological findings, data, information, conclusions, or technical results; support scientists and researchers of all genders, races, ethnicities, and backgrounds; and advance the equitable delivery of the Federal Government's programs.
+
+&emsp;(ii) The Task Force's review shall include an analysis of any instances in which existing scientific-integrity policies have not been followed or enforced, including whether such deviations from existing policies have resulted in improper political interference in the conduct of scientific research and the collection of scientific or technological data; led to the suppression or distortion of scientific or technological findings, data, information, conclusions, or technical results; disproportionately harmed Federal scientists and researchers from groups that are historically underrepresented in science, technology, and related fields; or impeded the equitable delivery of the Federal Government's programs. The scope of this review shall include the work of scientific and technological advisory committees, boards, and similar bodies. The existing policies examined by this review shall include those issued pursuant to the Presidential Memorandum of March 9, 2009, and the Director's Memorandum of December 17, 2010; any other scientific-integrity policies published on agency websites; and commonly accepted scientific-integrity practices.
+
+&emsp;(iii) The Task Force shall identify effective practices regarding engagement of Federal scientists, as well as contractors working on scientific matters for agencies, with news media and on social media; effective policies that protect scientific independence during clearance and review, and that avoid improper political interference in research or data collection; effective approaches for handling any disagreements about scientific methods and conclusions; effective reporting practices that promote transparency in the implementation of agency scientific-integrity policies and in the handling of any allegations of misconduct; effective practices for educating and informing employees and contractors of their rights and responsibilities related to agency scientific-integrity policies; promising opportunities to address gaps in current scientific-integrity policies related to emerging technologies, such as artificial intelligence and machine-learning, and evolving scientific practices, such as citizen science and community-engaged research; effective approaches to minimizing conflicts of interest in Federal Government science; and policies that support the professional development of Federal scientists in accordance with, and building on, section IV of the Director's Memorandum of December 17, 2010.
+
+&emsp;(iv) To inform the review, the Task Force shall gather input from stakeholders and the public regarding scientific-integrity practices. The Task Force shall consider obtaining such input through various means, which may include holding a virtual stakeholder summit hosted by the Office of Science and Technology Policy (OSTP), issuing a public request for information, and conducting a virtual listening tour or open forums.
+
+&emsp;(v) Upon the conclusion of its review, the Director shall publish a report on the OSTP website synthesizing the Task Force's findings. The report shall include a description of agencies' strengths and weaknesses regarding scientific-integrity policies, as well as a description of best practices and lessons learned.
+
+(c) Within 120 days of the publication of the Task Force's initial 120-day review of existing scientific-integrity policies, the Task Force shall develop a framework to inform and support the regular assessment and iterative improvement of agency scientific-integrity policies and practices, to support the Director and OSTP in ensuring that agencies adhere to the principles of scientific integrity. This framework shall include assessment criteria that OSTP and agencies can use to inform, review, and improve the design and implementation of agency scientific-integrity policies. The Director shall publish this framework on the OSTP website.
+
+Sec. 3. <i>Agency Scientific-Integrity Policies</i>. (a) Heads of agencies shall ensure that all agency activities associated with scientific and technological processes are conducted in accordance with the 6 principles set forth in section 1 of the Presidential Memorandum of March 9, 2009, and the 4 foundations of scientific integrity in government set forth in part I of the Director's Memorandum of December 17, 2010.
+
+(b) Heads of agencies shall ensure that their agency scientific-integrity policies reflect the findings in the Task Force report produced under section (2)(b)(v) of this memorandum and apply to all agency employees, regardless of the nature of their appointment, as well as contractors who perform scientific activities for agencies. Heads of agencies shall coordinate with the Director in the development, updating, and implementation of any agency-specific policies or procedures deemed necessary to ensure the integrity of scientific decision-making. The following time frames shall apply when completing the activities described in this subsection:
+
+&emsp;(i) The head of each agency with an existing scientific-integrity policy shall submit an updated policy to the Director within 180 days of the publication of the Task Force's report.
+
+&emsp;(ii) The head of each agency without an existing scientific-integrity policy shall submit a draft agency scientific-integrity policy to the Director within 180 days of the publication of the Task Force's report.
+
+&emsp;(iii) The Director shall expeditiously review scientific-integrity policies submitted by the agencies to ensure that the policies respond to the Task Force's analysis, adhere to the policy directives in this memorandum, and uphold the highest standards of scientific practice.
+
+&emsp;(iv) The Director shall notify agencies of any deficiencies in the scientific-integrity policies and collaborate with agencies to expeditiously correct those deficiencies.
+
+(c) In implementing this section, heads of agencies shall:
+
+&emsp;(i) Provide the Director with any information the Director deems necessary to conduct the Director's duties under this memorandum;
+
+&emsp;(ii) Publish the agency's scientific-integrity policy on the agency's website, and disseminate information about the policy through the agency's social media channels;
+
+&emsp;(iii) Develop and publish procedures, as appropriate and consistent with applicable law, for implementing the agency's scientific-integrity policy, including establishing and publishing an administrative process for reporting, investigating, and appealing allegations of deviations from the agency's policy, and for resolving any disputes or disagreements about scientific methods and conclusions;
+
+&emsp;(iv) Review and, as needed, update within 60 days of the date of this memorandum \[Jan. 27, 2021\] any website content, and within 300 days of the date of this memorandum any agency reports, data, and other agency materials issued or published since January 20, 2017, that are inconsistent with the principles set forth in this memorandum and that remain in use by the agency or its stakeholders;
+
+&emsp;(v) Educate agency employees, as well as contractors who perform scientific activities for the agency, on their rights and responsibilities related to scientific integrity, including by conducting routine training on the agency's scientific-integrity policy for all employees, and by ensuring any new employees are made aware of their responsibilities under the agency's scientific-integrity policy shortly after they are hired; and
+
+&emsp;(vi) Publish, consistent with any requirements related to national security and privacy, as well as any other applicable law, an annual report on the agency's website that includes the number of administrative investigations and appeals involving alleged deviations from the agency's scientific-integrity policies, as described in section (3)(c)(iii) of this memorandum, for the year covered by the report, and the number of investigations and appeals pending from years prior to the year covered by the report, if any.
+
+Sec. 4. <i>Publication of Scientific-Integrity Policies and Ongoing Biennial Reporting</i>. (a) The Director shall publish on the OSTP website, and disseminate via social media, information about this memorandum, related OSTP and NSTC reports on scientific integrity, and links to the scientific-integrity policies posted on agency websites, to ensure such information and policies can be easily accessed by the public.
+
+(b) The Director shall publish on the OSTP website, and disseminate via social media, a biennial report on the status of the implementation of this memorandum across the executive branch. This report shall include a review of the impact on scientific integrity of diversity, equity, and inclusion practices related to the Federal scientific and engineering workforce and scientific Federal advisory committees.
+
+Sec. 5. <i>Evidence-Based Policymaking</i>. (a) Heads of agencies shall ensure that the scientific-integrity policies of their agencies consider, supplement, and support their plans for forming evidence-based policies, including the evidence-building plans required by 5 U.S.C. 312(a) and the annual evaluation plans required by 5 U.S.C. 312(b).
+
+(b) Within 120 days of the date of this memorandum, after consultation with the Director, the Director of the Office of Management and Budget (OMB) shall issue guidance to improve agencies' evidence-building plans and annual evaluation plans. Specifically, the Director of OMB shall consider whether, consistent with, and building upon, Executive Order 13707 of September 15, 2015 (Using Behavioral Science Insights to Better Serve the American People) \[5 U.S.C. 601 note\], agencies' evidence-building plans and annual evaluation plans shall include a broad set of methodological approaches for the evidence-based and iterative development and the equitable delivery of policies, programs, and agency operations. Relevant approaches might include use of pilot projects, randomized control trials, quantitative-survey research and statistical analysis, qualitative research, ethnography, research based on data linkages in which records from two or more datasets that refer to the same entity are joined, well-established processes for community engagement and inclusion in research, and other approaches that may be informed by the social and behavioral sciences and data science.
+
+(c) The statutory positions required to be designated by agencies by the Foundations for Evidence-Based Policymaking Act of 2018 (Public Law 115–435) \[see Tables for classification\], which include the Evaluation Officer, the Chief Data Officer, and a senior statistical official, shall incorporate scientific-integrity principles consistent with this memorandum into agencies' data governance and evaluation approaches. Similarly, the Chief Data Officers Council shall incorporate scientific-integrity principles consistent with this memorandum into its efforts to establish government-wide best practices for the use, protection, dissemination, and generation of data, and both the Chief Data Officers Council and the Evaluation Officer Council shall identify ways in which agencies can improve upon the production of evidence for use in policymaking.
+
+(d) Consistent with the provisions of the Foundations for Evidence-Based Policymaking Act of 2018, heads of agencies shall, as appropriate and consistent with applicable law, expand open and secure access to Federal data routinely collected in the course of administering Federal, State, local, Tribal, or territorial government programs or fulfilling Federal, State, local, Tribal, or territorial government mandates, such as tax data, vital records, other statistical data, and Social Security Administration earnings and employment reports, to ensure governmental and non-governmental researchers can use Federal data to assess and evaluate the effectiveness and equitable delivery of policies and to suggest improvements. In implementing this provision, heads of agencies shall:
+
+&emsp;(i) Make these data available by default in a machine-readable format and in a manner that protects privacy and confidential or classified information, and any other information protected from disclosure by law;
+
+&emsp;(ii) Publish an agency data plan that provides a consistent framework for data stewardship, use, and access. If publishing such a plan is not feasible, then the head of the agency shall publish guidelines outlining how the data were collected, metadata on data use, any limitations on data use, and ways for researchers to provide feedback on data shared;
+
+&emsp;(iii) Follow the mandates of the Information Quality Act (section 515 of \[H.R. 5658 of the 106th Congress, as enacted by section 1(a)(3) of\] Public Law 106–554) \[44 U.S.C. 3516 note\] in assessing and making available to researchers information on the quality of the data being provided; and
+
+&emsp;(iv) Where possible, provide such data disaggregated by gender, race, ethnicity, age, income, and other demographic factors that support researchers in understanding the effects of policies and programs on equity and justice.
+
+(e) The Director of OMB shall review whether guidance to agencies on implementation of the Information Quality Act needs to be updated and reissued.
+
+(f) Heads of agencies shall review and expeditiously update any agency policies, processes, and practices issued or published since January 20, 2017, that prevent the best available science and data from informing the agency's evidence-based and iterative development and equitable delivery of policies and programs.
+
+Sec. 6. <i>Agency Chief Science Officers and Scientific Integrity Officials</i>. (a) Within 120 days of the date of this memorandum, the heads of agencies that fund, conduct, or oversee scientific research shall, to the extent consistent with applicable law, designate a senior agency employee for the role of chief science officer, science advisor, or chief scientist ("Chief Science Officer"), who shall:
+
+&emsp;(i) Serve as the principal advisor to the head of the agency on scientific issues and ensure that the agency's research programs are scientifically and technologically well-founded and conducted with integrity; and
+
+&emsp;(ii) Oversee the implementation and iterative improvement of policies and processes affecting the integrity of research funded, conducted, or overseen by the agency, as well as policies affecting the Federal and non-Federal scientists who support the research activities of the agency, including scientific-integrity policies consistent with the provisions of this memorandum.
+
+(b) Because science, facts, and evidence are vital to addressing policy and programmatic issues across the Federal Government, the heads of all agencies (not only those that fund, conduct, or oversee scientific research) shall designate expeditiously a senior career employee as the agency's lead scientific-integrity official ("Scientific Integrity Official") to oversee implementation and iterative improvement of scientific-integrity policies and processes consistent with the provisions of this memorandum, including implementation of the administrative and dispute resolution processes described in section (3)(c)(iii) of this memorandum. For agencies with a Chief Science Officer, the Scientific Integrity Official shall report to the Chief Science Officer on all matters involving scientific-integrity policies.
+
+(c) To the extent necessary to fully implement the provisions of this memorandum, heads of agencies may designate additional scientific-integrity points of contact in different offices and components, who shall coordinate with the agency's Scientific Integrity Official in implementing the agency's scientific-integrity policies and processes.
+
+(d) Heads of agencies should ensure those designated to serve in the roles described in this section, along with their respective staffs, are selected based on their scientific and technological knowledge, skills, experience, and integrity, including experience conducting and overseeing scientific research and utilizing scientific and technological information and data in agency decision-making, prioritizing experience with evidence-based, equitable, inclusive, and participatory practices and structures for the conduct of scientific research and the communication of scientific results.
+
+(e) The Director or a designee of the Director shall regularly convene Chief Science Officers and Scientific Integrity Officials to encourage the discussion and expansion of effective scientific-integrity policies and practices among agencies.
+
+Sec. 7. <i>Scientific Advisory Committees</i>. (a) Within 90 days of the date of this memorandum, heads of agencies shall review their current and future needs for independent scientific and technological advice from Federal advisory committees, commissions, and boards. The review should include an evaluation of those advisory bodies established by law, and should consider both current and anticipated needs.
+
+(b) This review shall assess which Federal scientific and technological advisory committees should be rechartered or recreated to ensure that relevant and highly qualified external experts, with proper safeguards against conflicts of interest, can contribute to critical Federal regulations and other agency actions and decision-making. The review shall also identify any agency policies, processes, or practices that may currently prevent or inhibit relevant and highly qualified external experts from serving on such committees.
+
+(c) In conducting this review, heads of agencies shall take steps to review the membership of scientific and technological advisory committees and, as appropriate and consistent with applicable law, ensure that members and future nominees reflect the diversity of America in terms of gender, race, ethnicity, geography, and other characteristics; represent a variety of backgrounds, areas of expertise, and experiences; provide well-rounded and expert advice to agencies; and are selected based on their scientific and technological knowledge, skills, experience, and integrity, including prioritization of experience with evidence-based, equitable, inclusive, and participatory practices and structures for the conduct of scientific research and the communication of scientific results.
+
+(d) Upon completion of their 90-day review, heads of agencies shall provide a summary report to the Director and the Director of OMB with recommendations on which Federal scientific and technological advisory committees should be rechartered or recreated in accordance with subsection (b) of this section; which scientific and technological advisory committees should be prioritized for membership appointments to ensure they provide well-rounded and expert advice reflecting diverse perspectives, in accordance with subsection (c) of this section; and which agency policies, processes, or practices, if any, should be updated to encourage relevant and highly qualified external experts to serve on such committees.
+
+Sec. 8. <i>General Provisions</i>. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+&emsp;(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+&emsp;(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

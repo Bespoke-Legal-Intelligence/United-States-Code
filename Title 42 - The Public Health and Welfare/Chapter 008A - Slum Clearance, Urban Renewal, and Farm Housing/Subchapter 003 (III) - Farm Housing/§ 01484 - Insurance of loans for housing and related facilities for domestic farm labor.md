@@ -84,7 +84,9 @@ Housing and related facilities constructed with loans under this section shall c
 
 &emsp;(2) any other standards as may be adopted by the Secretary, in collaboration with the Secretary of Housing and Urban Development, including any relevant updates to the International Fire Code, through a notice published in the Federal Register.
 
-(July 15, 1949, ch. 338, title V, §514, as added Pub. L. 87–70, title VIII, §804(a), June 30, 1961, 75 Stat. 186; amended Pub. L. 88–560, title V, §502, Sept. 2, 1964, 78 Stat. 796; Pub. L. 90–448, title X, §1004, Aug. 1, 1968, 82 Stat. 553; Pub. L. 91–609, title VIII, §801(a)–(c), Dec. 31, 1970, 84 Stat. 1805, 1806; Pub. L. 95–128, title V, §505, Oct. 12, 1977, 91 Stat. 1140; Pub. L. 95–557, title V, §§501(d), 504, Oct. 31, 1978, 92 Stat. 2111, 2112; Pub. L. 96–153, title V, §501(b), Dec. 21, 1979, 93 Stat. 1133; Pub. L. 96–399, title V, §507(b), Oct. 8, 1980, 94 Stat. 1670; Pub. L. 98–181, title I \[title V, §510\], Nov. 30, 1983, 97 Stat. 1243; Pub. L. 100–242, title III, §§305(a), 316(b), Feb. 5, 1988, 101 Stat. 1895, 1897; Pub. L. 100–628, title X, §1043(a), Nov. 7, 1988, 102 Stat. 3273; Pub. L. 104–180, title VII, §734(e)(1), Aug. 6, 1996, 110 Stat. 1603; Pub. L. 105–276, title V, §599C(d), Oct. 21, 1998, 112 Stat. 2661; Pub. L. 106–569, title VII, §§703, 708(b), Dec. 27, 2000, 114 Stat. 3013, 3018; Pub. L. 110–234, title VI, §6205, May 22, 2008, 122 Stat. 1209; Pub. L. 110–246, §4(a),title VI, §6205, June 18, 2008, 122 Stat. 1664, 1971; Pub. L. 115–141, div. A, title III, Mar. 23, 2018, 132 Stat. 365; Pub. L. 116–260, div. Q, title I, §101(f)(1), Dec. 27, 2020, 134 Stat. 2164.)
+(July 15, 1949, ch. 338, title V, §514, as added Pub. L. 87–70, title VIII, §804(a), June 30, 1961, 75 Stat. 186; amended Pub. L. 88–560, title V, §502, Sept. 2, 1964, 78 Stat. 796; Pub. L. 90–448, title X, §1004, Aug. 1, 1968, 82 Stat. 553; Pub. L. 91–609, title VIII, §801(a)–(c), Dec. 31, 1970, 84 Stat. 1805, 1806; Pub. L. 95–128, title V, §505, Oct. 12, 1977, 91 Stat. 1140; Pub. L. 95–557, title V, §§501(d), 504, Oct. 31, 1978, 92 Stat. 2111, 2112; Pub. L. 96–153, title V, §501(b), Dec. 21, 1979, 93 Stat. 1133; Pub. L. 96–399, title V, §507(b), Oct. 8, 1980, 94 Stat. 1670; Pub. L. 98–181, title I \[title V, §510\], Nov. 30, 1983, 97 Stat. 1243; Pub. L. 100–242, title III, §§305(a), 316(b), Feb. 5, 1988, 101 Stat. 1895, 1897; Pub. L. 100–628, title X, §1043(a), Nov. 7, 1988, 102 Stat. 3273; Pub. L. 104–180, title VII, §734(e)(1), Aug. 6, 1996, 110 Stat. 1603; Pub. L. 105–276, title V,§599C(d), Oct. 21, 1998, 112 Stat. 2661; Pub. L. 106–569, title VII, §§703, 708(b), Dec. 27, 2000, 114 Stat. 3013, 3018; Pub. L. 110–234, title VI, §6205, May 22, 2008, 122 Stat. 1209; Pub. L. 110–246, §4(a), title VI, §6205, June 18, 2008, 122 Stat. 1664, 1971; Pub. L. 115–141, div. A, title III, Mar. 23, 2018, 132 Stat. 365; Pub. L. 116–260, div. Q, title I, §101(f)(1), Dec. 27, 2020, 134 Stat. 2164.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -139,6 +141,8 @@ Subsec. (f)(1), (2). Pub. L. 91–609, §801(c), substituted "structures (includ
 <b>1968</b>—Subsec. (f)(2). Pub. L. 90–448 included land necessary for an adequate site within the definition of "related facilities".
 
 <b>1964</b>—Subsec. (f)(3). Pub. L. 88–560 included residents of the United States after being legally admitted for permanent residence.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

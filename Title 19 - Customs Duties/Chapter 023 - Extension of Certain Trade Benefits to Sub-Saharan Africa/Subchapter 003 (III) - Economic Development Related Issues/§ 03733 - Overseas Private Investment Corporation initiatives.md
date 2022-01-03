@@ -32,6 +32,8 @@ It is the sense of the Congress that the Overseas Private Investment Corporation
 
 (Pub. L. 106–200, title I, §123, May 18, 2000, 114 Stat. 269.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 2193(e) of title 22, referred to in subsec. (c)(2), was repealed by Pub. L. 115–254, div. F, title VI, §1464(2), Oct. 5, 2018, 132 Stat. 3513.
@@ -39,6 +41,8 @@ Section 2193(e) of title 22, referred to in subsec. (c)(2), was repealed by Pub.
 #### Codification
 
 Section is comprised of section 123 of Pub. L. 106–200. Subsec. (c)(1) of section 123 of Pub. L. 106–200 amended section 2193 of Title 22, Foreign Relations and Intercourse.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

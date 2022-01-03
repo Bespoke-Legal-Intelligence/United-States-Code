@@ -15,3 +15,6 @@
 - [&sect; 00348 - Joint task forces](%C2%A7%2000348%20-%20Joint%20task%20forces.md)
 - [&sect; 00349 - Office of Strategy, Policy, and Plans](%C2%A7%2000349%20-%20Office%20of%20Strategy%2C%20Policy%2C%20and%20Plans.md)
 - [&sect; 00350 - Workforce health and medical support](%C2%A7%2000350%20-%20Workforce%20health%20and%20medical%20support.md)
+- [&sect; 00351 - Employee engagement](%C2%A7%2000351%20-%20Employee%20engagement.md)
+- [&sect; 00352 - Annual employee award program](%C2%A7%2000352%20-%20Annual%20employee%20award%20program.md)
+- [&sect; 00353 - Acquisition professional career program](%C2%A7%2000353%20-%20Acquisition%20professional%20career%20program.md)

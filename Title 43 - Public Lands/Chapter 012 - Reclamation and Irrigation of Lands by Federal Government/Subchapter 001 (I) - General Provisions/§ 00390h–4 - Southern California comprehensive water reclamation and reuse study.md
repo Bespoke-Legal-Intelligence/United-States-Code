@@ -48,7 +48,7 @@ Southern california comprehensive water reuse system.—
 
 &emsp;&emsp;"(A)
 
-Description.—A regional water reuse system for Southern California to treat, store, and transfer water in order to provide a new increment of watersupply for agricultural, municipal, industrial, and environmental needs of Southern California.
+Description.—A regional water reuse system for Southern California to treat, store, and transfer water in order to provide a new increment of water supply for agricultural, municipal, industrial, and environmental needs of Southern California.
 
 &emsp;&emsp;"(B)
 

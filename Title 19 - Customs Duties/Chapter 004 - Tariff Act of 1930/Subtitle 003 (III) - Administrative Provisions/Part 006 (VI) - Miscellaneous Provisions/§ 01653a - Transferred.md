@@ -1,5 +1,7 @@
 ### §1653a. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act June 25, 1938, ch. 679, §37, 52 Stat. 1094, related to the effective date of the Customs Administrative Act of 1938, and is set out as a note under section 1401 of this title.

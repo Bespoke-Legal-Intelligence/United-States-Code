@@ -70,7 +70,7 @@ Section 3 of the Agent Orange Act of 1991, referred to in subsecs. (b)(2) and (c
 
 <b>2001</b>—Pub. L. 107–103, §201(c)(2)(A), amended section catchline generally. Prior to amendment, catchline read as follows: "Presumptions of service connection for diseases associated with exposure to certain herbicide agents".
 
-Subsec. (a)(2)(F). Pub. L. 107–103, §201(a)(1)(A), struck out "within 30 years after the last date on which the veteran performed active military, naval, or air service in the Republic of Vietnam during the period beginningon January 9, 1962, and ending on May 7, 1975" before period at end.
+Subsec. (a)(2)(F). Pub. L. 107–103, §201(a)(1)(A), struck out "within 30 years after the last date on which the veteran performed active military, naval, or air service in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975" before period at end.
 
 Subsec. (a)(2)(H). Pub. L. 107–103, §201(b), added subpar. (H).
 
@@ -164,7 +164,7 @@ Descendant.—The term 'descendant' means, with respect to an individual, the bi
 
 &emsp;"(3)
 
-Toxic exposure.—The term 'toxic exposure' means a condition in which an individual inhaled or ingested an agent determined to be hazardous to thehealth of the individual or the agent came in contact with the skin or eyes of the individual in a manner that could be hazardous to the health of the individual.
+Toxic exposure.—The term 'toxic exposure' means a condition in which an individual inhaled or ingested an agent determined to be hazardous to the health of the individual or the agent came in contact with the skin or eyes of the individual in a manner that could be hazardous to the health of the individual.
 
 &emsp;"(4)
 
@@ -366,7 +366,7 @@ Compensation.—The Chair may fix the compensation of the executive director and
 
 "(a)
 
-In General.—Unless the Secretary of Veterans Affairs certifies under section 632(d) that the results of the assessment and determination under section 632(c) indicate that it is not feasible to conduct further research regarding health conditions of descendants of veterans with toxic exposure, not later than 1 year after receiving such results and determination, the Secretary shall (in consultation with the advisory board established under section 633 (in this section referred to as the 'Advisory Board')) enter into an agreement with one or more research entities identified under section 632(b)(6) (excluding an entity of the Department of Veterans Affairs) to conduct research on health conditions of descendants of veterans with toxic exposure while serving as members of the Armed Forces (in this section referred to as the 'research entity or entities').
+In General.—Unless the Secretary of Veterans Affairs certifies under section 632(d) that the results of the assessment and determination under section 632(c) indicate that it is not feasible to conduct further research regarding health conditions of descendants of veterans with toxic exposure, not later than 1 year after receiving such results and determination, the Secretary shall (in consultation with the advisory board established under section 633 (in this section referred to as the 'Advisory Board')) enter into an agreement with one or more research entities identifiedunder section 632(b)(6) (excluding an entity of the Department of Veterans Affairs) to conduct research on health conditions of descendants of veterans with toxic exposure while serving as members of the Armed Forces (in this section referred to as the 'research entity or entities').
 
 "(b)
 
@@ -416,7 +416,7 @@ Elements.—Each report submitted under paragraph (1) shall include the followin
 
 &emsp;"(3)
 
-Upon request.—Upon the request of any organization exempt from taxation under section501(c)(19) of the Internal Revenue Code of 1986 \[26 U.S.C. 501(c)(19)\], the Secretary of Veterans Affairs may transmit to such organization a copy of a report received by the Secretary under paragraph (1)."
+Upon request.—Upon the request of any organization exempt from taxation under section 501(c)(19) of the Internal Revenue Code of 1986 \[26 U.S.C. 501(c)(19)\], the Secretary of Veterans Affairs may transmit to such organization a copy of a report received by the Secretary under paragraph (1)."
 
 #### Report on Time Limit for Presumption of Cancer Caused by Herbicide Agent
 
@@ -450,7 +450,7 @@ Agreement.—The Secretary shall seek to enter into an agreement with the Nation
 
 "(c)
 
-Review of Scientific Evidence.—Under an agreement between the Secretary and the National Academy of Sciences under this section, the Academy shall review and summarize the scientific evidence, and assess the strength thereof, concerning the association between exposure to an herbicide used in support of the United States and allied military operations in the Republic of Vietnam during the Vietnam era and each disease suspected to be associated with such exposure.
+Review of Scientific Evidence.—Under an agreement between the Secretary and the National Academy of Sciences under this section, the Academyshall review and summarize the scientific evidence, and assess the strength thereof, concerning the association between exposure to an herbicide used in support of the United States and allied military operations in the Republic of Vietnam during the Vietnam era and each disease suspected to be associated with such exposure.
 
 "(d)
 
@@ -524,7 +524,7 @@ Pub. L. 102–4, §6, Feb. 6, 1991, 105 Stat. 15, as amended by Pub. L. 102–83
 
 "(a)
 
-In General.—Subject to subsections (d) and (e), the Secretary of Veterans Affairs shall compile and analyze, on a continuing basis, all clinical data that (1) is obtained by the Department of Veterans Affairs in connection with examinations and treatment furnished to veterans by the Department after November 3, 1981, by reason of eligibility provided in section 1710(e)(1)(A) of title 38, United States Code, and (2) is likely to be scientifically useful in determining the association, if any, between the disabilities of veterans referred to in such section and exposure to dioxin or any other toxic substance referred to in such section or between such disabilities and active military, naval, or air service in the Republic of Vietnam during the Vietnam era.
+In General.—Subject to subsections (d) and (e), the Secretary of Veterans Affairs shall compile and analyze, on a continuing basis, all clinical data that (1) is obtained by the Department of Veterans Affairs inconnection with examinations and treatment furnished to veterans by the Department after November 3, 1981, by reason of eligibility provided in section 1710(e)(1)(A) of title 38, United States Code, and (2) is likely to be scientifically useful in determining the association, if any, between the disabilities of veterans referred to in such section and exposure to dioxin or any other toxic substance referred to in such section or between such disabilities and active military, naval, or air service in the Republic of Vietnam during the Vietnam era.
 
 "(b)
 
@@ -714,7 +714,7 @@ Approval of Protocol.—(1) The study required by subsection (a) shall be conduc
 
 "(c)
 
-OTA Reports.—(1) Concurrent with the approval or disapproval of any protocol under subsection (b)(1), the Director shall submit to the appropriate committees of the Congress a report—
+OTA Reports.—(1) Concurrent with the approval or disapproval of any protocol under subsection (b)(1),the Director shall submit to the appropriate committees of the Congress a report—
 
 &emsp;"(A) explaining the reasons for the Director's approval or disapproval of the protocol, as the case may be; and
 

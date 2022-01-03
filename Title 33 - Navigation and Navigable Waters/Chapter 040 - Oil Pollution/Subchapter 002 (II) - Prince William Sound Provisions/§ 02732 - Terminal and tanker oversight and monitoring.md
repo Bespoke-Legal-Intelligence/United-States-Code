@@ -46,7 +46,7 @@
 
 #### (4) Suits barred
 
-&emsp;No program, association, council, committee or other organization created by this section may sue any person or entity, public or private, concerning any matter arising under this section except for the performance of contracts.
+&emsp;No program, association, council, committee or other organization created by this section may sue any person or entity, public or private, concerning any matter arising under thissection except for the performance of contracts.
 
 #### (c) Oil Terminal Facilities and Oil Tanker Operations Association
 
@@ -72,7 +72,7 @@
 
 #### (4) Designation of existing organization
 
-&emsp;The Secretary may designate an existing nonprofit organization as an Associationunder this subsection if the organization is organized to meet the purposes of this section and consists of at least the individuals listed in paragraph (2).
+&emsp;The Secretary may designate an existing nonprofit organization as an Association under this subsection if the organization is organized to meet the purposes of this section and consists of at least the individuals listed in paragraph (2).
 
 #### (d) Regional Citizens' Advisory Councils
 
@@ -164,7 +164,7 @@
 
 &emsp;&emsp;(C) monitor those aspects of terminal facilities' and crude oil tankers' operations and maintenance which affect or may affect the environment in the vicinity of the terminal facilities;
 
-&emsp;&emsp;(D) review through the committee established under subsection (f), the adequacy ofoil spill prevention and contingency plans for the terminal facilities and the adequacy of oil spill prevention and contingency plans for crude oil tankers, operating in Prince William Sound or in Cook Inlet;
+&emsp;&emsp;(D) review through the committee established under subsection (f), the adequacy of oil spill prevention and contingency plans for the terminal facilities and the adequacy of oil spill prevention and contingency plans for crude oil tankers, operating in Prince William Sound or in Cook Inlet;
 
 &emsp;&emsp;(E) provide advice and recommendations to the Association on port operations, policies and practices;
 
@@ -198,7 +198,7 @@
 
 &emsp;In fulfilling its responsibilities, the Monitoring Committee shall—
 
-&emsp;&emsp;(A) advise the Council on a monitoring strategy that will permit early detection of environmental impacts of terminal facility operations and crude oil tanker operations while in Prince William Sound and Cook Inlet;
+&emsp;&emsp;(A) advise the Council on a monitoring strategy that will permit early detection of environmental impacts of terminal facilityoperations and crude oil tanker operations while in Prince William Sound and Cook Inlet;
 
 &emsp;&emsp;(B) develop monitoring programs and make recommendations to the Council on the implementation of those programs;
 
@@ -266,7 +266,7 @@ Appointments, designations, and selections of individuals to serve as members of
 
 #### (2) Prince William Sound Program
 
-&emsp;The owners or operators of terminal facilities or crude oil tankers operating in Prince William Sound shall provide, on an annual basis, an aggregate amount of not more than $2,000,000, as determined by the Secretary. Such amount—
+&emsp;The owners or operators of terminal facilities or crude oil tankers operating in PrinceWilliam Sound shall provide, on an annual basis, an aggregate amount of not more than $2,000,000, as determined by the Secretary. Such amount—
 
 &emsp;&emsp;(A) shall provide for the establishment and operation on the environmental oversight and monitoring program in Prince William Sound;
 
@@ -330,7 +330,7 @@ As used in this section, the term—
 
 #### (o) Alternative voluntary advisory group in lieu of Council
 
-The requirements of subsections (c) through (l), as such subsections apply respectively to the Prince William Sound Program and the Cook Inlet Program, are deemed to have been satisfied so long as the following conditions are met:
+The requirements of subsections (c) through (l), as such subsections apply respectively to thePrince William Sound Program and the Cook Inlet Program, are deemed to have been satisfied so long as the following conditions are met:
 
 #### (1) Prince William Sound
 

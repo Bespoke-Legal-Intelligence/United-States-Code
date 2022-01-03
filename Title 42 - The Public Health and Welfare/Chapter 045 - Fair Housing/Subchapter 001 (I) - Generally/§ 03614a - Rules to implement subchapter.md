@@ -4,9 +4,13 @@ The Secretary may make rules (including rules for the collection, maintenance, a
 
 (Pub. L. 90–284, title VIII, §815, as added Pub. L. 100–430, §8(2), Sept. 13, 1988, 102 Stat. 1635.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 815 of Pub. L. 90–284 was renumbered section 816 and is classified to section 3615 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -14,5 +18,5 @@ Section effective on 180th day beginning after Sept. 13, 1988, see section 13(a)
 
 #### Initial Rulemaking
 
-Secretary to issue rules to implement this subchapter as amended by Pub. L. 100–430 not later than the 180th day after Sept. 13, 1988, see section 13(b) of Pub. L. 100–430, set out as a note under section 3601 of this title.
+Secretary to issue rules to implement this subchapter as amended by Pub. L. 100–430 not later than the 180thday after Sept. 13, 1988, see section 13(b) of Pub. L. 100–430, set out as a note under section 3601 of this title.
 

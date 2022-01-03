@@ -8,7 +8,7 @@ This section may be cited as the "Boy Scouts of America Equal Access Act".
 
 #### (1) Equal access
 
-&emsp;Notwithstanding any other provision of law, no public elementary school, public secondary school, local educational agency, or State educational agency that has a designated open forum or a limited public forum and that receives funds made available through the Department shall deny equal access or a fair opportunity to meet to, or discriminate against, any group officially affiliated with the Boy Scouts of America, or any other youth group listed in title 36 (as a patriotic society), that wishes to conduct a meeting within that designated open forum or limited public forum, including denying such access or opportunity or discriminating for reasons based on the membership or leadership criteria or oath of allegiance to God and country of the Boy Scouts of America or of the youth group listed in title 36 (as a patriotic society).
+&emsp;Notwithstanding any other provision of law, no public elementary school, public secondary school, local educational agency, or State educational agency that has a designated open forum or a limited public forum and that receives funds made available through the Department shall deny equal access or a fair opportunity to meet to, or discriminate against, any group officially affiliated with the Boy Scouts of America, or any other youth group listed in title 36 (as a patriotic society), that wishes to conduct a meeting within that designated open forum or limited public forum, including denying such access or opportunity or discriminating for reasons based on the membership or leadership criteria or oath of allegiance to God and country of the BoyScouts of America or of the youth group listed in title 36 (as a patriotic society).
 
 #### (2) Voluntary sponsorship
 
@@ -36,9 +36,11 @@ This section may be cited as the "Boy Scouts of America Equal Access Act".
 
 #### (2) Rule
 
-&emsp;For the purpose of this section, an elementary school or secondary school has a limitedpublic forum whenever the school involved grants an offering to, or opportunity for, one or more outside youth or community groups to meet on school premises or in school facilities before or after the hours during which attendance at the school is compulsory.
+&emsp;For the purpose of this section, an elementary school or secondary school has a limited public forum whenever the school involved grants an offering to, or opportunity for, one or more outside youth or community groups to meet on school premises or in school facilities before or after the hours during which attendance at the school is compulsory.
 
 (Pub. L. 89–10, title VIII, §8525, formerly title IX, §9525, as added Pub. L. 107–110, title IX, §901, Jan. 8, 2002, 115 Stat. 1981; renumbered title VIII, §8525, Pub. L. 114–95, title VIII, §8001(a)(6), Dec. 10, 2015, 129 Stat. 2088, 2089.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

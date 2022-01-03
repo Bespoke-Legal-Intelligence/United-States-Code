@@ -8,6 +8,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior subchapter B of chapter 31 was redesignated subchapter C by Pub. L. 101–508, title XI, §11221(a), Nov. 5, 1990, 104 Stat. 1388–438.

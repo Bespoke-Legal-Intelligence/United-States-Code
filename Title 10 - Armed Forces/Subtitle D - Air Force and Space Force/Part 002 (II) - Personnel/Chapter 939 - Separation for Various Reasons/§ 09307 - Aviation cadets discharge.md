@@ -20,9 +20,13 @@ June 3, 1941, ch. 165, §3 (last sentence), 55 Stat. 239.
 
 10:299 (last sentence, less 1st 14 words) is omitted as superseded by section 681 of this title.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 8817 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

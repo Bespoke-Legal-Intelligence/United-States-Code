@@ -8,7 +8,7 @@ In carrying out the purposes of this chapter, any Federal agency is authorized t
 
 In performing any services under this chapter, any Federal agency is authorized—
 
-&emsp;(1) to appoint and fix the compensation of such temporary personnel as may be necessary, without regard to the provisions of title 5 governing appointments in competitive service;
+&emsp;(1) to appoint and fix the compensation of such temporary personnel as may be necessary, without regard to the provisions oftitle 5 governing appointments in competitive service;
 
 &emsp;(2) to employ experts and consultants in accordance with the provisions of section 3109 of such title, without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates; and
 
@@ -19,6 +19,8 @@ In performing any services under this chapter, any Federal agency is authorized�
 The Administrator of the Federal Emergency Management Agency is authorized to appoint temporary personnel, after serving continuously for 3 years, to positions in the Federal Emergency Management Agency in the same manner that competitive service employees with competitive status are considered for transfer, reassignment, or promotion to such positions. An individual appointed under this subsection shall become a career-conditional employee, unless the employee has already completed the service requirements for career tenure.
 
 (Pub. L. 93–288, title III, §306, formerly §309, May 22, 1974, 88 Stat. 149; renumbered §306, Pub. L. 100–707, title I, §105(d), Nov. 23, 1988, 102 Stat. 4691; amended Pub. L. 115–254, div. D, §1222, Oct. 5, 2018, 132 Stat. 3454.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -31,6 +33,8 @@ A prior section 306 of Pub. L. 93–288 was classified to section 5146 of this t
 #### Amendments
 
 <b>2018</b>—Subsec. (c). Pub. L. 115–254 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

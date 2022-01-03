@@ -10,7 +10,7 @@ When used in this chapter—
 
 &emsp;(4) The term "livestock" means cattle, sheep, swine, horses, mules, or goats—whether live or dead;
 
-&emsp;(5) The term "livestock products" means all products and byproducts (other than meats and meat food products) of the slaughtering and meat-packing industry derived in whole or in part from livestock;
+&emsp;(5) The term "livestock products" means all products and byproducts (other than meatsand meat food products) of the slaughtering and meat-packing industry derived in whole or in part from livestock;
 
 &emsp;(6) The term "poultry" means chickens, turkeys, ducks, geese, and other domestic fowl;
 
@@ -42,6 +42,8 @@ Swine production contract grower.—The term "swine production contract grower" 
 
 (Aug. 15, 1921, ch. 64, title I, §2(a), 42 Stat. 159; Pub. L. 94–410, §3(c), Sept. 13, 1976, 90 Stat. 1249; Pub. L. 100–173, §2, Nov. 23, 1987, 101 Stat. 917; Pub. L. 107–171, title X, §10502(a), May 13, 2002, 116 Stat. 509.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is composed of subsec. (a) of section 2 of act Aug. 15, 1921. Subsec. (b) of section 2 is classified to section 183 of this title.
@@ -53,6 +55,8 @@ Section is composed of subsec. (a) of section 2 of act Aug. 15, 1921. Subsec. (b
 <b>1987</b>—Pars. (6) to (11). Pub. L. 100–173 added pars. (6) to (10) and redesignated former par. (6) as (11).
 
 <b>1976</b>—Pars. (4), (5). Pub. L. 94–410 substituted "livestock" for "live stock" in par. (4) and for "live-stock" in par. (5).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1987 Amendment
 

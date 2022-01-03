@@ -52,6 +52,8 @@
 
 (Sept. 1, 1937, ch. 896, title I, §13, as added Pub. L. 96–153, title II, §209, Dec. 21, 1979, 93 Stat. 1109; amended Pub. L. 96–399, title II, §202(b), Oct. 8, 1980, 94 Stat. 1629; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 105–276, title V, §515, Oct. 21, 1998, 112 Stat. 2549.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 13 of act Sept. 1, 1937, ch. 896, 50 Stat. 894, as amended, enumerated powers of the Authority and was classified to section 1413 of this title, prior to the general revision of this chapter by Pub. L. 93–383.
@@ -61,6 +63,8 @@ A prior section 13 of act Sept. 1, 1937, ch. 896, 50 Stat. 894, as amended, enum
 <b>1998</b>—Pub. L. 105–276 amended section catchline and text of section generally. Prior to amendment, text read as follows: "The Secretary shall, to the maximum extent practicable, require that newly constructed and substantially rehabilitated projects assisted under this chapter with authority provided on or after October 1, 1979, shall be equipped with heating and cooling systems selected on the basis of criteria which include a life-cycle cost analysis of such systems."
 
 <b>1980</b>—Pub. L. 96–399 struck out subsec. (a) which related to consideration by the Secretary, in utilizing contract authority, of projects which will be modernized to a substantial extent with weatherization materials as defined in section 6862(9) of this title, and redesignated former subsec. (b) as entire section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

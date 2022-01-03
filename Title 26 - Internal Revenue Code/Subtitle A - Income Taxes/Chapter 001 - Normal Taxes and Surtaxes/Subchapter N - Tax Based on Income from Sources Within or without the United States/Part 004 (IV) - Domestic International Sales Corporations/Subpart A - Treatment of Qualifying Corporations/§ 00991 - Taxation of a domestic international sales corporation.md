@@ -4,9 +4,13 @@ For purposes of the taxes imposed by this subtitle upon a DISC (as defined in se
 
 (Added Pub. L. 92–178, title V, §501, Dec. 10, 1971, 85 Stat. 535; amended Pub. L. 105–206, title VI, §6011(e)(1), July 22, 1998, 112 Stat. 818.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Pub. L. 105–206 struck out "except for the tax imposed by chapter 5" before period at end.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 
@@ -114,7 +118,7 @@ Treatment of transfers to fsc.—In the case of any export trade corporation whi
 
 "(3)
 
-Export trade corporation.—For purposes of this subsection, the term 'export trade corporation' has the meaning given such term by section 971 of the Internal Revenue Code of 1986."
+Export trade corporation.—For purposes of this subsection, the term 'export trade corporation' hasthe meaning given such term by section 971 of the Internal Revenue Code of 1986."
 
 #### Submission of Annual Reports to Congress
 

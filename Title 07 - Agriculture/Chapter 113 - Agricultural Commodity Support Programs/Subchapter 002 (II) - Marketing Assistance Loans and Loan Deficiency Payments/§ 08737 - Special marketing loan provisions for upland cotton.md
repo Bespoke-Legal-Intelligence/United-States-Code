@@ -4,7 +4,7 @@
 
 #### (1) Definition of special import quota
 
-&emsp;In this subsection, the term "special import quota" means a quantity of imports that is not subject to the over-quota tariff rate of a tariff-rate quota.
+&emsp;In this subsection, the term "special import quota" means a quantity of imports that isnot subject to the over-quota tariff rate of a tariff-rate quota.
 
 #### (2) Establishment
 
@@ -102,13 +102,15 @@
 
 #### (D) Quota entry period
 
-&emsp;&emsp;When a quota is established under this subsection, cotton may be entered under the quota during the 90-day period beginning on the date the quota is established by the Secretary.
+&emsp;&emsp;When a quota is established under this subsection, cotton may be entered under thequota during the 90-day period beginning on the date the quota is established by the Secretary.
 
 #### (3) No overlap
 
 &emsp;Notwithstanding paragraph (2), a quota period may not be established that overlaps an existing quota period or a special quota period established under subsection (a).
 
 (Pub. L. 110–234, title I, §1207, May 22, 2008, 122 Stat. 960; Pub. L. 110–246, §4(a), title I, §1207, June 18, 2008, 122 Stat. 1664, 1689; Pub. L. 115–334, title I, §1203(a), Dec. 20, 2018, 132 Stat. 4510.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -124,7 +126,9 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 <b>2018</b>—Subsec. (c). Pub. L. 115–334 struck out subsec. (c) which related to economic adjustment assistance to users of upland cotton.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 

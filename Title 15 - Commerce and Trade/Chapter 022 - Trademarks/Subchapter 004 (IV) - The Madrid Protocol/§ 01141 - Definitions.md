@@ -34,7 +34,7 @@ In this subchapter:
 
 #### (7) Holder of an international registration
 
-&emsp;A "holder" of an international registration is the natural or juristic person in whose namethe international registration is recorded on the International Register.
+&emsp;A "holder" of an international registration is the natural or juristic person in whose name the international registration is recorded on the International Register.
 
 #### (8) International application
 
@@ -81,6 +81,8 @@ In this subchapter:
 &emsp;The term "opposition period" means the time allowed for filing an opposition in the United States Patent and Trademark Office, including any extension of time granted under section 1063 of this title.
 
 (July 5, 1946, ch. 540, title XII, §60, as added Pub. L. 107–273, div. C, title III, §13402, Nov. 2, 2002, 116 Stat. 1913.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

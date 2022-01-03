@@ -28,7 +28,7 @@ For purposes of section 1101(a)(15)(D)(i) of this title, the term "normal operat
 
 (1) Subsection (a) shall not apply to a particular activity of longshore work in and about a local port if—
 
-&emsp;(A)(i) there is in effect in the local port one or more collective bargaining agreements each covering at least 30 percent of the number of individuals employed in performing longshore work and (ii) each such agreement (covering such percentage of longshore workers) permitsthe activity to be performed by alien crewmen under the terms of such agreement; or
+&emsp;(A)(i) there is in effect in the local port one or more collective bargaining agreements each covering at least 30 percent of the number of individuals employed in performing longshore work and (ii) each such agreement (coveringsuch percentage of longshore workers) permits the activity to be performed by alien crewmen under the terms of such agreement; or
 
 &emsp;(B) there is no collective bargaining agreement in effect in the local port covering at least 30 percent of the number of individuals employed in performing longshore work, and an employer of alien crewmen (or the employer's designated agent or representative) has filed with the Secretary of Labor at least 14 days before the date of performance of the activity (or later, if necessary due to an unanticipated emergency, but not later than the date of performance of the activity) an attestation setting forth facts and evidence to show that—
 
@@ -114,7 +114,7 @@ For purposes of section 1101(a)(15)(D)(i) of this title, the term "normal operat
 
 &emsp;&emsp;(IV) travel distance to the vessel from the point of embarkation does not exceed 5 miles.
 
-(B) In the cases of Wide Bay, Alaska, and Klawock/Craig, Alaska, the travel times andtravel distances specified in subclauses (III) and (IV) of subparagraph (A)(iii) shall be extended to 45 minutes and 7½ miles, respectively, unless the party responding to the request for longshore workers agrees to the lesser time and distance limitations specified in those subclauses.
+(B) In the cases of Wide Bay, Alaska, and Klawock/Craig, Alaska, the travel times and travel distances specified in subclauses (III) and (IV) of subparagraph (A)(iii) shall be extended to 45 minutes and 7½ miles, respectively, unless the party responding to the request for longshore workers agrees to the lesser time and distance limitations specified in those subclauses.
 
 (4) Subject to subparagraphs (A) through (D) of subsection (c)(4), attestations filed under paragraph (1) of this subsection shall—
 

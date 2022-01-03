@@ -150,7 +150,7 @@ Sec. 3. <i>Improving Operational Coordination with State, Local, and Tribal Part
 
 (b) Within 90 days of the date of this order, the Attorney General, through the head of the Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF), shall assess the feasibility of sharing data related to the storage of explosive materials with SERCs, TEPCs, and LEPCs.
 
-(c) Within 90 days of the date of this order, the Secretary of Homeland Security shall assess the feasibility of sharing Chemical Facility Anti-Terrorism Standards\(CFATS) data with SERCs, TEPCs, and LEPCs on a categorical basis.
+(c) Within 90 days of the date of this order, the Secretary of Homeland Security shall assess the feasibility of sharing Chemical Facility Anti-Terrorism Standards (CFATS) data with SERCs, TEPCs, and LEPCs on a categorical basis.
 
 Sec. 4. <i>Enhanced Federal Coordination</i>. In order to enhance Federal coordination regarding chemical facility safety and security:
 

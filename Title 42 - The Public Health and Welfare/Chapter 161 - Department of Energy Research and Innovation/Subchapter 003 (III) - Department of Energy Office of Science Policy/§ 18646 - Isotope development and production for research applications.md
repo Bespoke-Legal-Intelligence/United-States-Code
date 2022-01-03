@@ -4,7 +4,7 @@ The Director—
 
 &emsp;(1) may carry out a program for the production of isotopes, including the development of techniques to produce isotopes, that the Secretary determines are needed for research, medical, industrial, or related purposes; and
 
-&emsp;(2) shall ensure that isotope production activities carried out under the program under this paragraph do not compete with private industry unless the Director determines that critical national interests require the involvement of the Federal Government.
+&emsp;(2) shall ensure that isotope production activities carried out under the program under this paragraph do not compete with private industry unless the Director determines thatcritical national interests require the involvement of the Federal Government.
 
 (Pub. L. 115–246, title III, §308(a), Sept. 28, 2018, 132 Stat. 3150.)
 

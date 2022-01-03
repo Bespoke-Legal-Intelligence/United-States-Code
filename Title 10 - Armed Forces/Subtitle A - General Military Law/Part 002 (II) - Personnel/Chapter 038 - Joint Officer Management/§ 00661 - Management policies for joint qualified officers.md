@@ -8,7 +8,7 @@ Establishment.—The Secretary of Defense shall establish policies, procedures, 
 
 Levels, Designation, and Numbers.—(1)(A) The Secretary of Defense shall establish different levels of joint qualification, as well as the criteria for qualification at each level. Such levels of joint qualification shall be established by the Secretary with the advice of the Chairman of the Joint Chiefs of Staff. Each level shall, as a minimum, have both joint education criteria and joint experience criteria. The purpose of establishing such qualification levels is to ensure a systematic, progressive, career-long development of officers in joint matters and to ensure that officers serving as general and flag officers have the requisite experience and education to be highly proficient in joint matters.
 
-(B) The number of officers who are joint qualified shall be determined by the Secretary of Defense, with the advice of the Chairman of the Joint Chiefs of Staff. Such number shall be large enough to meet the requirements of subsection (d).
+(B) The number of officers who are joint qualified shall be determined by the Secretary of Defense, with the advice of the Chairman of the Joint Chiefs of Staff. Such number shall be largeenough to meet the requirements of subsection (d).
 
 (2) Certain officers shall be designated as joint qualified by the Secretary of Defense with the advice of the Chairman of the Joint Chiefs of Staff.
 
@@ -84,9 +84,11 @@ Career Guidelines.—The Secretary, with the advice of the Chairman of the Joint
 
 (f)
 
-Treatment of Certain Service.—Any service by an officer in the grade of captain or, in the case of the Navy, lieutenant in a joint duty assignment shall be considered to be service in a joint duty assignment for purposes of all laws (including section 619a of this title) establishing a requirement or condition with respect to an officer's service in a joint duty assignment.
+Treatment of Certain Service.—Any service by an officer in the grade of captain or, in the case of the Navy, lieutenant in a joint duty assignment shall be considered to be service in a joint duty assignment for purposes of all laws\(including section 619a of this title) establishing a requirement or condition with respect to an officer's service in a joint duty assignment.
 
 (Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1025; amended Pub. L. 100–180, div. A, title XIII, §1301–1302(b), Dec. 4, 1987, 101 Stat. 1168, 1169; Pub. L. 100–456, div. A, title V, §§511, 512(a), 517(a), 518, Sept. 29, 1988, 102 Stat. 1968, 1971; Pub. L. 101–189, div. A, title XI, §§1113, 1122, Nov. 29, 1989, 103 Stat. 1554, 1556; Pub. L. 104–106, div. A, title V, §501(a), (d), title XV, §1503(a)(6), Feb. 10, 1996, 110 Stat. 290, 292, 511; Pub. L. 107–107, div. A, title V, §521(a), Dec. 28, 2001, 115 Stat. 1097; Pub. L. 107–314, div. A, title V, §502(c), title X, §1062(a)(3), Dec. 2, 2002, 116 Stat. 2530, 2649; Pub. L. 109–364, div. A, title V, §516(a)–(e)(1), Oct. 17, 2006, 120 Stat. 2187–2189; Pub. L. 110–417, \[div. A\], title V, §522(a)(1), (2), Oct. 14, 2008, 122 Stat. 4444, 4445; Pub. L. 115–91, div. A, title X, §1081(a)(20), Dec. 12, 2017, 131 Stat. 1595; Pub. L. 116–92, div. A, title V, §505, Dec. 20, 2019, 133 Stat. 1345; Pub. L. 116–283, div. A, title IX, §924(b)(1)(D), Jan. 1, 2021, 134 Stat. 3820.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -150,7 +152,9 @@ Subsec. (c)(3). Pub. L. 100–180, §1301(b)(3), added par. (3).
 
 Subsec. (d)(1). Pub. L. 100–180, §1302(a)(1), added subpars. (A) and (B) and substituted "by officers who—" for "by officers who have (or have been nominated for) the joint specialty." in introductory provisions.
 
-Subsec. (d)(2) to (4). Pub. L. 100–180, §1302(b), added pars. (2) to (4) and struck out former par. (2) which read as follows: "The Secretary of Defense shall designate not fewer than 1,000 joint duty assignment positions as critical joint duty assignment positions. Each such position shall be held only by an officer with the joint specialty."
+Subsec. (d)(2) to (4). Pub. L. 100–180, §1302(b), added pars. (2) to (4) and struck out former par. (2) which readas follows: "The Secretary of Defense shall designate not fewer than 1,000 joint duty assignment positions as critical joint duty assignment positions. Each such position shall be held only by an officer with the joint specialty."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 
@@ -166,7 +170,7 @@ Pub. L. 109–364, div. A, title V, §516(h), Oct. 17, 2006, 120 Stat. 2189, pro
 
 "(1)
 
-Plan required.—Not later than March 31, 2007, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a plan for the implementation of the joint officer management system, which will take effect on October1, 2007, as provided in subsection (f) \[set out above\], as a result of the amendments made by this section \[amending this section\] and other provisions of this Act \[see Tables for classification\] to provisions of chapter 38 of title 10, United States Code.
+Plan required.—Not later than March 31, 2007, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a plan for the implementation of the joint officer management system, which will take effect on October 1, 2007, as provided in subsection (f) \[set out above\], as a result of the amendments made by this section \[amending this section\] and other provisions of this Act \[see Tables for classification\] to provisions of chapter 38 of title 10, United States Code.
 
 "(2)
 
@@ -230,5 +234,5 @@ Sunset.—The authority provided by paragraph (1) shall expire on October 1, 198
 
 "(c)
 
-Career Guidelines.—The career guidelines required to be established by section 661(e) of such title, the procedures required to be established by section 665(a) of such title, and the personnel policies required to be established by section 666 of such title (as added by section 401) shall be established not later than the end of the eight-month period beginning on the date of the enactment of this Act \[Oct. 1, 1986\]. The provisions of section 665(b) of such title shall be implemented not later than the end of such period."
+Career Guidelines.—The career guidelines required to be established by section 661(e) of such title,the procedures required to be established by section 665(a) of such title, and the personnel policies required to be established by section 666 of such title (as added by section 401) shall be established not later than the end of the eight-month period beginning on the date of the enactment of this Act \[Oct. 1, 1986\]. The provisions of section 665(b) of such title shall be implemented not later than the end of such period."
 

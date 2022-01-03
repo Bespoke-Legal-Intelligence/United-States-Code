@@ -6,7 +6,7 @@ For purposes of this subtitle, if a purchasing corporation makes an election und
 
 &emsp;(1) shall be treated as having sold all of its assets at the close of the acquisition date at fair market value in a single transaction, and
 
-&emsp;(2) shall be treated as a new corporation which purchased all of the assets referred to in paragraph (1) as of the beginning of the day after the acquisition date.
+&emsp;(2) shall be treated as a new corporation which purchased all of the assets referred to inparagraph (1) as of the beginning of the day after the acquisition date.
 
 #### (b) Basis of assets after deemed purchase
 
@@ -222,7 +222,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the target corporation recognizes gain or loss with respect to the transaction as if it sold all of its assets in a single transaction,
 
-> &emsp;&emsp;then the target corporation shall be treated as a member of the selling consolidatedgroup with respect to such sale, and (to the extent provided in regulations) no gain or loss will be recognized on stock sold or exchanged in the transaction by members of the selling consolidated group.
+> &emsp;&emsp;then the target corporation shall be treated as a member of the selling consolidated group with respect to such sale, and (to the extent provided in regulations) no gain or loss will be recognized on stock sold or exchanged in the transaction by members of the selling consolidated group.
 
 #### (B) Selling consolidated group
 
@@ -274,6 +274,8 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 (Added Pub. L. 97–248, title II, §224(a), Sept. 3, 1982, 96 Stat. 485; amended Pub. L. 97–448, title III, §306(a)(8)(A)(i), Jan. 12, 1983, 96 Stat. 2402; Pub. L. 98–369, div. A, title VII, §712(k)(1)–(5)(D), (6), (7), July 18, 1984, 98 Stat. 948–952; Pub. L. 99–514, title VI, §631(b), (e)(5), title XII, §1275(c)(6), title XVIII, §§1804(e)(8)(A), 1899A(7), Oct. 22, 1986, 100 Stat. 2272, 2273, 2599, 2804, 2958; Pub. L. 100–647, title I, §§1006(e)(20), 1012(bb)(5)(A), 1018(d)(9), Nov. 10, 1988, 102 Stat. 3403, 3535, 3581; Pub. L. 101–508, title XI, §11323(c)(1), Nov. 5, 1990, 104 Stat. 1388–465; Pub. L. 108–27, title III, §302(e)(4)(B)(i), May 28, 2003, 117 Stat. 763; Pub. L. 108–357, title VIII, §839(a), Oct. 22, 2004, 118 Stat. 1597; Pub. L. 115–141, div. U, title IV, §401(a)(64), (d)(1)(D)(vii), Mar. 23, 2018, 132 Stat. 1187, 1207.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 338, act Aug. 16, 1954, ch. 736, 68A Stat. 107, made reference to a special rule relating to the effect on earnings and profits of certain distributions in partial liquidation in section 312(e), prior to repeal by Pub. L. 97–248, §222(e)(4).
@@ -294,7 +296,7 @@ Subsec. (h)(6)(B)(i). Pub. L. 115–141, §401(d)(1)(D)(vii), substituted "or a 
 
 Subsec. (h)(7). Pub. L. 100–647, §1006(e)(20), struck out par. (7) which read as follows: "
 
-Additional percentagemust be attributable to purchase, etc.—For purposes of subsection (c)(1), any increase in the maximum percentage of stock taken into account over the percentage of stock (by value) of the target corporation held by the purchasing corporation on the acquisition date shall be taken into account only to the extent such increase is attributable to—
+Additional percentage must be attributable to purchase, etc.—For purposes of subsection (c)(1), any increase in the maximum percentage of stock taken into account over the percentage of stock (by value) of the target corporation held by the purchasing corporation on the acquisition date shall be taken into account only to the extent such increase is attributable to—
 
 &emsp;"(A) purchase, or
 
@@ -370,6 +372,8 @@ Subsec. (i). Pub. L. 98–369, §712(k)(7), provided in introductory text that t
 
 <b>1983</b>—Subsec. (h)(8), (9). Pub. L. 97–448 added pars. (8) and (9).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2004 Amendment
 
 Pub. L. 108–357, title VIII, §839(b), Oct. 22, 2004, 118 Stat. 1597, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to transactions occurring after the date of the enactment of this Act \[Oct. 22, 2004\]."
@@ -410,7 +414,7 @@ Pub. L. 98–369, div. A, title VII, §712(k)(9), July 18, 1984, 98 Stat. 952, a
 
 "(A)
 
-In general.—The amendments made by this subsection \[amending this section and sections 269 and 318 of this title\] shall not apply to any qualified stock purchase (as defined in section 338(d)(3) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) where the acquisition date (as defined in section 338(h)(2) of such Code) is before September 1, 1982.
+In general.—The amendments made by this subsection \[amending this section and sections 269 and318 of this title\] shall not apply to any qualified stock purchase (as defined in section 338(d)(3) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) where the acquisition date (as defined in section 338(h)(2) of such Code) is before September 1, 1982.
 
 "(B)
 
@@ -514,7 +518,7 @@ Pub. L. 97–448, title III, §306(a)(8)(A)(ii), Jan. 12, 1983, 96 Stat. 2402, a
 
 &emsp;"(I) any portion of a qualified stock purchase is pursuant to a binding contract entered into on or after September 1, 1982, and on or before the date of the enactment of this Act \[Jan. 12, 1983\], and
 
-&emsp;"(II) the purchasing corporation establishes by clear and convincing evidence that such contract was negotiated on the contemplation that, with respect to the deemed sale under section 338 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the target corporation would be treated as a member of the affiliated group which includes the selling corporation,
+&emsp;"(II) the purchasing corporation establishes by clear and convincing evidence that such contract was negotiated on the contemplation that, with respectto the deemed sale under section 338 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the target corporation would be treated as a member of the affiliated group which includes the selling corporation,
 
 > then the amendment made by clause (i) \[amending subsec. (h)\] shall not apply to such qualified stock purchase."
 

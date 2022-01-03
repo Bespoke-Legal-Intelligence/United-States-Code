@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Each fiscal year, the Secretary, acting through the Director of the Centers for Disease Control and Prevention, in coordinationwith the heads of other departments and agencies as appropriate, shall support States or localities for the purpose of improving the efficiency and use of PDMPs, including—
+&emsp;Each fiscal year, the Secretary, acting through the Director of the Centers for Disease Control and Prevention, in coordination with the heads of other departments and agencies as appropriate, shall support States or localities for the purpose of improving the efficiency and use of PDMPs, including—
 
 &emsp;&emsp;(A) establishment and implementation of a PDMP;
 
@@ -190,6 +190,8 @@ For purposes of this section:
 
 (July 1, 1944, ch. 373, title III, §399O, as added Pub. L. 109–60, §3, Aug. 11, 2005, 119 Stat. 1979; amended Pub. L. 114–198, title I, §109(b), July 22, 2016, 130 Stat. 706; Pub. L. 115–271, title VII, §7162, Oct. 24, 2018, 132 Stat. 4062.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 264(c) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (h)(3), is section 264(c) of Pub. L. 104–191, which is set out as a note under section 1320d–2 of this title.
@@ -206,7 +208,7 @@ Another section 399O of act July 1, 1944, was renumbered section 399P and is cla
 
 Subsec. (a)(1)(C). Pub. L. 114–198, §109(b)(1)(B)–(D), added subpar. (C).
 
-Subsec. (b). Pub. L. 114–198, §109(b)(2), amended subsec. (b) generally. Prior to amendment, text read as follows: "Prior to awarding a grant under this section, and not later than 6 months after the date on which funds are first appropriated to carry out this section, after seeking consultation with States and other interested parties, the Secretary shall, after publishing in the Federal Register proposed minimum requirements and receiving public comments, establish minimum requirements for criteria to be used by States for purposes of clauses (ii), (v), (vi), and (vii) of subsection (c)(1)(A) of this section."
+Subsec. (b). Pub. L. 114–198, §109(b)(2), amended subsec. (b) generally. Prior to amendment, text read as follows: "Prior to awarding a grant under this section, and not later than 6 months after the date on which funds are first appropriated to carry out this section,after seeking consultation with States and other interested parties, the Secretary shall, after publishing in the Federal Register proposed minimum requirements and receiving public comments, establish minimum requirements for criteria to be used by States for purposes of clauses (ii), (v), (vi), and (vii) of subsection (c)(1)(A) of this section."
 
 Subsec. (c)(1)(A)(iv). Pub. L. 114–198, §109(b)(9), substituted "subsection (i)" for "subsection (h)".
 
@@ -226,7 +228,7 @@ Subsec. (c)(3). Pub. L. 114–198, §109(b)(3)(B), designated existing provision
 
 Subsec. (c)(5). Pub. L. 114–198, §109(b)(3)(C), substituted "establish, improve, or maintain" for "implement or improve" and inserted at end "The Secretary shall redistribute any funds that are so returned among the remaining grantees under this section in accordance with the formula described in subsection (a)(2)(B)."
 
-Subsec. (d). Pub. L. 114–198, §109(b)(4)(A), in introductory provisions, substituted "In establishing, improving, or maintaining a controlled substance monitoring program under this section, a State shall comply, or with respect to a State that applies for a grant undersubparagraph (B) or (C) of subsection (a)(1)" for "In implementing or improving a controlled substance monitoring program under this section, a State shall comply, or with respect to a State that applies for a grant under subsection (a)(1)(B)" and "public health or safety" for "public health".
+Subsec. (d). Pub. L. 114–198, §109(b)(4)(A), in introductory provisions, substituted "In establishing, improving, or maintaining a controlled substance monitoring program under this section, a State shall comply, or with respect to a State that applies for a grant under subparagraph (B) or (C) of subsection (a)(1)" for "In implementing or improving a controlled substance monitoring program under this section, a State shall comply, or with respect to a State that applies for a grant under subsection (a)(1)(B)" and "public health or safety" for "public health".
 
 Subsec. (d)(4). Pub. L. 114–198, §109(b)(9), substituted "subsection (i)" for "subsection (h)".
 
@@ -255,6 +257,8 @@ Subsec. (l)(1). Pub. L. 114–198, §109(b)(12), substituted "establishment, imp
 Subsec. (m)(8). Pub. L. 114–198, §109(b)(13), substituted ", the District of Columbia, and any commonwealth or territory of the United States" for "and the District of Columbia".
 
 Subsec. (n). Pub. L. 114–198, §109(b)(14), amended subsec. (n) generally. Prior to amendment, subsec. (n) authorized appropriations for fiscal years 2006 to 2010.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Purpose
 

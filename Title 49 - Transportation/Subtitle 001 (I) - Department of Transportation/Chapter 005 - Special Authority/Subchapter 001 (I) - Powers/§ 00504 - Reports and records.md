@@ -108,11 +108,15 @@ In subsection (a), references to "water line" and "pipe line" are omitted as not
 
 In subsection (f), the words "the course of the" are omitted as surplus. The words "civil action" are substituted for "suit or action" because of rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Subsec. (c). Pub. L. 112–141 inserted ", or an employee of the recipient of a grant issued under section 31102 of this title" after "a contractor" and ", in person or in writing" after "proper credentials" in introductory provisions.
 
 <b>1998</b>—Subsec. (c). Pub. L. 105–178 inserted "(and, in the case of a motor carrier, a contractor)" after "employee" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

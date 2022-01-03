@@ -2,7 +2,7 @@
 
 #### (a) Disclosure by United States of identity of covert agent
 
-It is a defense to a prosecution under section 3121 of this title that before the commission of the offense with which the defendant is charged, the United States had publicly acknowledged or revealed the intelligence relationship to the United States of the individual the disclosure of whose intelligence relationship to the United States is the basis for the prosecution.
+It is a defense to a prosecution under section 3121 of this title that before the commission ofthe offense with which the defendant is charged, the United States had publicly acknowledged or revealed the intelligence relationship to the United States of the individual the disclosure of whose intelligence relationship to the United States is the basis for the prosecution.
 
 #### (b) Conspiracy, misprision of felony, aiding and abetting, etc.
 
@@ -19,6 +19,8 @@ It shall not be an offense under section 3121 of this title to transmit informat
 It shall not be an offense under section 3121 of this title for an individual to disclose information that solely identifies himself as a covert agent.
 
 (July 26, 1947, ch. 343, title VI, §602, as added Pub. L. 97–200, §2(a), June 23, 1982, 96 Stat. 122; amended Pub. L. 107–306, title III, §353(b)(9), Nov. 27, 2002, 116 Stat. 2402.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

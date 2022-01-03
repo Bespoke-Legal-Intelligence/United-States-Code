@@ -20,6 +20,8 @@
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 903, §7607; renumbered §7608, July 18, 1956, ch. 629, title I, §104(a), 70 Stat. 570; renumbered §7609 and amended Pub. L. 85–859, title II, §204(14), (15), Sept. 2, 1958, 72 Stat. 1429, 1430; Pub. L. 91–513, title III, §1102(h), Oct. 27, 1970, 84 Stat. 1293; renumbered §7611 and amended Pub. L. 94–455, title XII, §1205(a), title XIX, §1904(b)(7)(D), (9)(E), Oct. 4, 1976, 90 Stat. 1699, 1815, 1816; renumbered §7612, Pub. L. 98–369, div. A, title X, §1033(a), July 18, 1984, 98 Stat. 1034; renumbered §7613, Pub. L. 105–206, title III, §3413(a), July 22, 1998, 112 Stat. 751.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–455, §1904(b)(7)(D), (9)(E), struck out pars. (1) and (2) relating to cross references to wholesale dealers in oleomargarine and wholesale dealers in process or renovated butter or adulterated butter, respectively, and redesignated pars. (5) and (6) as (1) and (2), respectively.
@@ -32,9 +34,11 @@ Subsec. (b)(2). Pub. L. 85–859, §204(15), substituted "with respect to subtit
 
 Subsec. (b)(3). Pub. L. 85–859, §204(15), added par. (3).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–513 effective on first day of seventh calendar month that begins after Oct. 26, 1970,see section 1105(a) of Pub. L. 91–513, set out as an Effective Date note under section 951 of Title 21, Food and Drugs.
+Amendment by Pub. L. 91–513 effective on first day of seventh calendar month that begins after Oct. 26, 1970, see section 1105(a) of Pub. L. 91–513, set out as an Effective Date note under section 951 of Title 21, Food and Drugs.
 
 #### Effective Date of 1958 Amendment
 
@@ -42,5 +46,5 @@ Amendment by Pub. L. 85–859 effective Sept. 3, 1958, see section 210(a)(1) of 
 
 #### Savings Provision
 
-Prosecutions for any violation of law occurring, and civil seizures or forfeitures and injunctive proceedings commenced, prior to the effective date of amendment of this section by section 1102 of Pub. L. 91–513 not to be affected or abated by reason thereof, see section 1103 of Pub. L. 91–513, set out as a note under sections 171 to 174 of Title 21, Food and Drugs.
+Prosecutions for any violation of law occurring, and civil seizures or forfeitures and injunctive proceedings commenced, prior to the effective date of amendmentof this section by section 1102 of Pub. L. 91–513 not to be affected or abated by reason thereof, see section 1103 of Pub. L. 91–513, set out as a note under sections 171 to 174 of Title 21, Food and Drugs.
 

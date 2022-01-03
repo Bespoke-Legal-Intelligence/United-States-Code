@@ -16,7 +16,7 @@
 
 &emsp;(A) the period which the member would have been permitted to remain in class but for the decrease in maximum time in class, or
 
-&emsp;(B) such minimum period as the Secretary determines is necessary to provide members of the Service who are in the same category andsalary class as that member a reasonable opportunity to be promoted into the next higher class or combination of classes, as the case may be.
+&emsp;(B) such minimum period as the Secretary determines is necessary to provide members of the Service who are in the same category and salary class as that member a reasonable opportunity to be promoted into the next higher class or combination of classes, as the case may be.
 
 #### (b) Limited career extension
 
@@ -42,7 +42,7 @@ Any member of the Service—
 
 Notwithstanding any other provision of this section—
 
-&emsp;(1) the career appointment of a member of the Service whose maximum time in class under subsection (a) expires, or whose limited career extension under subsection (b) expires, while that member is occupying a position to which he or she was appointed by the President, by and with the advice and consent of the Senate, shall be extended until the appointment to that position is terminated; and
+&emsp;(1) the career appointment of a member of the Service whose maximum time in class under subsection (a) expires, or whose limited career extension under subsection (b) expires,while that member is occupying a position to which he or she was appointed by the President, by and with the advice and consent of the Senate, shall be extended until the appointment to that position is terminated; and
 
 &emsp;(2) if the Secretary determines it to be in the public interest, the Secretary may extend temporarily the career appointment of a career member of the Service whose maximum time in class or limited career extension expires, but in no case may any extension under this paragraph exceed one year and such extensions may be granted only in special circumstances.
 

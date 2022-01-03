@@ -26,7 +26,7 @@ For purposes of the application of Federal civil rights laws, all assistance pro
 
 #### (e) Eligible grantees
 
-A grant under this section may be made, pursuant to such requirements as the Secretary ofthe Treasury shall establish for experience and success in attracting private financing and carrying out the types of activities proposed under the application of the grantee, only to—
+A grant under this section may be made, pursuant to such requirements as the Secretary of the Treasury shall establish for experience and success in attracting private financing and carrying out the types of activities proposed under the application of the grantee, only to—
 
 &emsp;(1) a Treasury certified community development financial institution; or
 
@@ -120,7 +120,7 @@ Grant amounts awarded from the Capital Magnet Fund pursuant to this section may 
 
 #### (7) Prohibition of consideration of use for meeting housing goals or duty to serve
 
-&emsp;In determining the compliance of the enterprises with the housing goals under this section and the duty to serve underserved markets under section 4565 of this title, the Director of the Federal Housing Finance Agency may not consider any Capital Magnet Fund amounts used under this section for eligible activities under subsection (f). The Director ofthe Federal Housing Finance Agency shall give credit toward the achievement of such housing goals and such duty to serve underserved markets to purchases by the enterprises of mortgages for housing that receives funding from Capital Magnet Fund grant amounts, but only to the extent that such purchases by the enterprises are funded other than with such grant amounts.
+&emsp;In determining the compliance of the enterprises with the housing goals under this section and the duty to serve underserved markets under section 4565 of this title, the Director of the Federal Housing Finance Agency may not consider any Capital Magnet Fund amounts used under this section for eligible activities under subsection (f). The Director of the Federal Housing Finance Agency shall give credit toward the achievement of such housing goals and such duty to serve underserved markets to purchases by the enterprises of mortgages for housing that receives funding from Capital Magnet Fund grant amounts, but only to the extent that such purchases by the enterprises are funded other than with such grant amounts.
 
 #### (8) Accountability of recipients and grantees
 

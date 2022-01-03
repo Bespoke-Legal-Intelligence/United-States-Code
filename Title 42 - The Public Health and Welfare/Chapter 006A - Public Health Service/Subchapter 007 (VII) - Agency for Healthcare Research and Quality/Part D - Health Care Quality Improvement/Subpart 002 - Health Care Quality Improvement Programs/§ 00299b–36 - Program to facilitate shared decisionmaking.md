@@ -108,7 +108,7 @@ In this section:
 
 #### (C) Limitation
 
-&emsp;&emsp;Funds under this paragraph shall not be used to purchase or implement use of patient decision aids other than those certifiedunder the process identified in subsection (c).
+&emsp;&emsp;Funds under this paragraph shall not be used to purchase or implement use of patient decision aids other than those certified under the process identified in subsection (c).
 
 #### (4) Guidance
 
@@ -119,6 +119,8 @@ In this section:
 For purposes of carrying out this section there are authorized to be appropriated such sums as may be necessary for fiscal year 2010 and each subsequent fiscal year.
 
 (July 1, 1944, ch. 373, title IX, §936, as added Pub. L. 111–148, title III, §3506, Mar. 23, 2010, 124 Stat. 527.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

@@ -1,6 +1,6 @@
 ### §8612. Employment of outside architects and engineers
 
-(a) Whenever the Secretary of the Navy believes that the existing facilities of the Department of the Navy are inadequate and he considers it advantageous to national defense, he may employ, by contract or otherwise, without advertising and without reference to sections 305, 3324, and 7204, chapter 51, and subchapters III, IV, and VI of chapter 53 of title 5, architectural or engineering corporations, or firms, or individual architects or engineers, to produce designs, plans, drawings, and specifications for the accomplishment of any naval public works or utilities project or for the construction of any vessel or aircraft, or part thereof.
+(a) Whenever the Secretary of the Navy believes that the existing facilities of the Department of the Navy are inadequate and he considers it advantageous to national defense, he may employ, by contract or otherwise, without advertising and without reference to sections305, 3324, and 7204, chapter 51, and subchapters III, IV, and VI of chapter 53 of title 5, architectural or engineering corporations, or firms, or individual architects or engineers, to produce designs, plans, drawings, and specifications for the accomplishment of any naval public works or utilities project or for the construction of any vessel or aircraft, or part thereof.
 
 (b) The fee for any service under this section may not exceed 6 percent of the estimated cost, as determined by the Secretary, of the project to which the fee applies.
 
@@ -22,6 +22,8 @@ Apr. 25, 1939, ch. 87, §3, 53 Stat. 591.
 
 In subsection (a) the word "outside" is omitted as surplusage and the words "architects or engineers" are inserted for clarity. The words "without advertising" are substituted for the reference to R.S. 3609, for brevity and clarity.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 8612, act Aug. 10, 1956, ch. 1041, 70A Stat. 531, provided for disposition of uniforms of enlisted members of Air Force who were discharged and for disposition of uniforms of and issuance of civilian clothing to enlisted members of Air Force who were discharged otherwise than honorably, prior to repeal by Pub. L. 90–235, §8(2), Jan. 2, 1968, 81 Stat. 764.
@@ -37,6 +39,8 @@ A prior section 8612, act Aug. 10, 1956, ch. 1041, 70A Stat. 531, provided for d
 Pub. L. 95–454, §703(c)(3), substituted "7204" for "7154".
 
 <b>1966</b>—Subsec. (a). Pub. L. 89–718 substituted "sections 305, 3324, 5101–5115, 5331–5338, 5341, 5342, and 7154 of title 5" for "sections 1071–1153 of title 5".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

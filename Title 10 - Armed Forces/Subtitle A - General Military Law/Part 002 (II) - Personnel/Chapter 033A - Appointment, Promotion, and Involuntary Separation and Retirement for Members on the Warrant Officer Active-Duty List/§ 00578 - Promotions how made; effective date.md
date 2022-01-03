@@ -14,11 +14,15 @@
 
 (Added Pub. L. 102–190, div. A, title XI, §1112(a), Dec. 5, 1991, 105 Stat. 1497; amended Pub. L. 102–484, div. A, title X, §1052(4), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 103–337, div. A, title V, §501(c), Oct. 5, 1994, 108 Stat. 2748.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsecs. (e), (f). Pub. L. 103–337 added subsecs. (e) and (f).
 
 <b>1992</b>—Pub. L. 102–484 substituted "Promotions:" for "Promotions;" in section catchline.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

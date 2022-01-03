@@ -6,13 +6,15 @@ In General.—The Secretary of the Navy may have remitted or cancelled any part 
 
 (b)
 
-Retroactive Applicability to Certain Debts.—The authority in subsection (a) may be exercised with respect to any debt covered by that subsection that is incurred on or after October 7, 2001.
+Retroactive Applicability to Certain Debts.—The authority in subsection (a) may beexercised with respect to any debt covered by that subsection that is incurred on or after October 7, 2001.
 
 (c)
 
 Regulations.—This section shall be administered under regulations prescribed by the Secretary of Defense.
 
 (Added Pub. L. 86–511, §1(a), June 11, 1960, 74 Stat. 207, §6161; amended Pub. L. 109–163, div. A, title VI, §683(b)(1), Jan. 6, 2006, 119 Stat. 3322; Pub. L. 109–364, div. A, title VI, §673(b)(1), (2), (e)(2), Oct. 17, 2006, 120 Stat. 2271, 2272; Pub. L. 110–181, div. A, title X, §1063(c)(7)(B), Jan. 28, 2008, 122 Stat. 323; Pub. L. 114–328, div. A, title VI, §671(b)(2), Dec. 23, 2016, 130 Stat. 2173; renumbered §8271, Pub. L. 115–232, div. A, title VIII, §807(b)(10), Aug. 13, 2018, 132 Stat. 1835.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -24,7 +26,7 @@ Regulations.—This section shall be administered under regulations prescribed b
 
 <b>2006</b>—Pub. L. 109–163 amended section catchline and text generally. Prior to amendment, text read as follows: "If he considers it in the best interest of the United States, the Secretary of the Navy may have remitted or canceled any part of an enlisted member's indebtedness to the United States or any of its instrumentalities remaining unpaid before, or at the time of that member's honorable discharge."
 
-Subsec. (a). Pub. L. 109–364, §673(e)(2), substituted "The Secretary of the Navy" for "If the Secretary ofthe Navy considers it to be in the best interest of the United States, the Secretary" and inserted ", but only if the Secretary considers such action to be in the best interest of the United States" before period at end.
+Subsec. (a). Pub. L. 109–364, §673(e)(2), substituted "The Secretary of the Navy" for "If the Secretary of the Navy considers it to be in the best interest of the United States, the Secretary" and inserted ", but only if the Secretary considers such action to be in the best interest of the United States" before period at end.
 
 Pub. L. 109–364, §673(b)(1), as amended by Pub. L. 110–181, substituted "of a person to the United States or any instrumentality of the United States incurred while the person was serving on active duty as a member of the naval service" for "of a member of the Navy on active duty, or a member of a reserve component of the Navy in an active status, to the United States or any instrumentality of the United States incurred while the member was serving on active duty".
 
@@ -35,6 +37,8 @@ Subsecs. (b) to (d). Pub. L. 109–364, §673(b)(2), redesignated subsecs. (c) a
 &emsp;"(2) if discharged from the armed forces under honorable conditions, during the one-year period beginning on the date of such discharge; or
 
 &emsp;"(3) if released from active status in a reserve component, during the one-year period beginning on the date of such release."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

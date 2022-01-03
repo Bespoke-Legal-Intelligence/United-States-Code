@@ -4,6 +4,8 @@ This chapter may be cited as the "Federal Seed Act."
 
 (Aug. 9, 1939, ch. 615, §1, 53 Stat. 1275.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 See section 1610 of this title.

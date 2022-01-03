@@ -6,7 +6,7 @@ Notwithstanding any other provision of law, the Commodity Futures Trading Commis
 
 #### (b) National Futures Association regulatory experience; report; contents
 
-The Commodity Futures Trading Commission shall submit to Congress a report containing theresults of a study of the regulatory experience of the National Futures Association for the period beginning January 1, 1983 and ending September 30, 1985. The report shall be submitted not later than January 1, 1986. The report shall include (but not to be limited to) the following—
+The Commodity Futures Trading Commission shall submit to Congress a report containing the results of a study of the regulatory experience of the National Futures Association for the period beginning January 1, 1983 and ending September 30, 1985. The report shall be submitted not later than January 1, 1986. The report shall include (but not to be limited to) the following—
 
 &emsp;(1) the extent to which the National Futures Association has fully implemented the program provided in the rules approved by the Commission under section 17(p) and (q) of the Commodity Exchange Act \[7 U.S.C. 21(p), (q)\] and the effectiveness of the operation of such program;
 
@@ -28,6 +28,8 @@ Nothing in this section shall limit the authority of the Commission to promulgat
 
 (Pub. L. 95–405, §26, Sept. 30, 1978, 92 Stat. 877; Pub. L. 97–444, title II, §237, Jan. 11, 1983, 96 Stat. 2325.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Commodity Exchange Act, referred to in subsec. (c), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§1 et seq.) of this title. For complete classification of this Act to the Code, see section 1 of this title and Tables.
@@ -39,6 +41,8 @@ Section was enacted as part of the Futures Trading Act of 1978, and not as part 
 #### Amendments
 
 <b>1983</b>—Pub. L. 97–444 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1983 Amendment
 

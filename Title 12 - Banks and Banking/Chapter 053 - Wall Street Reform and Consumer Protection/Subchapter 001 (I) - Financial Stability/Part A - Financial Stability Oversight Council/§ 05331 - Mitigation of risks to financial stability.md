@@ -18,7 +18,7 @@ If the Board of Governors determines that a bank holding company with total cons
 
 #### (1) In general
 
-&emsp;The Board of Governors, in consultation with the Council, shall provide to a company described in subsection (a) written notice that such company is being considered for mitigatory action pursuant to this section, including an explanation of the basis for, and description of, the proposed mitigatory action.
+&emsp;The Board of Governors, in consultation with the Council, shall provide to a companydescribed in subsection (a) written notice that such company is being considered for mitigatory action pursuant to this section, including an explanation of the basis for, and description of, the proposed mitigatory action.
 
 #### (2) Hearing
 
@@ -26,7 +26,7 @@ If the Board of Governors determines that a bank holding company with total cons
 
 #### (3) Decision
 
-&emsp;Not later than 60 days after the date of a hearing under paragraph (2), or not later than60 days after the provision of a notice under paragraph (1) if no hearing was held, the Board of Governors shall notify the company of the final decision of the Board of Governors, including the results of the vote of the Council, as described in subsection (a).
+&emsp;Not later than 60 days after the date of a hearing under paragraph (2), or not later than 60 days after the provision of a notice under paragraph (1) if no hearing was held, the Board of Governors shall notify the company of the final decision of the Board of Governors, including the results of the vote of the Council, as described in subsection (a).
 
 #### (c) Factors for consideration
 

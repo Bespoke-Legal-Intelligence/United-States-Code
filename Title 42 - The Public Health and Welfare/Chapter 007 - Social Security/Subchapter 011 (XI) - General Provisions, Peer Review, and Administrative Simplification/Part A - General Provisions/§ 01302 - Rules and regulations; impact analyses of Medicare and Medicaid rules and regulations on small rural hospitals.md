@@ -10,6 +10,8 @@
 
 (Aug. 14, 1935, ch. 531, title XI, §1102, 49 Stat. 647; Aug. 28, 1950, ch. 809, title IV, §403(c), 64 Stat. 559; Pub. L. 98–369, div. B, title VI, §2663(j)(2)(D)(i), (l)(2), July 18, 1984, 98 Stat. 1170, 1171; Pub. L. 100–203, title IV, §4402(a), Dec. 22, 1987, 101 Stat. 1330–226.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1987</b>—Pub. L. 100–203 designated existing provision as subsec. (a) and added subsec. (b).
@@ -18,9 +20,11 @@
 
 <b>1950</b>—Act Aug. 28, 1950, substituted "Federal Security Administrator" for "Social Security Board".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–203, title IV, §4402(b), Dec. 22, 1987, 101 Stat. 1330–226, provided that: "The amendments made by paragraph (1) \[probably means subsec. (a), amending this section\] shall apply to regulations proposed more than 30 days after the date of the enactment of this Act \[Dec. 22, 1987\]."
+Pub. L. 100–203, title IV, §4402(b), Dec. 22, 1987, 101 Stat. 1330–226, provided that: "The amendments made by paragraph (1) \[probably means subsec. (a), amending this section\] shall apply to regulations proposed morethan 30 days after the date of the enactment of this Act \[Dec. 22, 1987\]."
 
 #### Effective Date of 1984 Amendment
 

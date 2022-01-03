@@ -22,13 +22,15 @@ The operations of an establishment affect commerce within the meaning of this su
 
 #### (d) Support by State action
 
-Discrimination or segregation by an establishment is supported by State action within the meaning of this subchapter if such discrimination or segregation (1) is carried on under color of any law, statute, ordinance, or regulation; or (2) is carried on under color of any custom or usage required or enforced by officials of the State or political subdivision thereof; or (3) is required by action of the State or political subdivision thereof.
+Discrimination or segregation by an establishment is supported by State action within themeaning of this subchapter if such discrimination or segregation (1) is carried on under color of any law, statute, ordinance, or regulation; or (2) is carried on under color of any custom or usage required or enforced by officials of the State or political subdivision thereof; or (3) is required by action of the State or political subdivision thereof.
 
 #### (e) Private establishments
 
 The provisions of this subchapter shall not apply to a private club or other establishment not in fact open to the public, except to the extent that the facilities of such establishment are made available to the customers or patrons of an establishment within the scope of subsection (b).
 
 (Pub. L. 88–352, title II, §201, July 2, 1964, 78 Stat. 243.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2009 Amendment
 

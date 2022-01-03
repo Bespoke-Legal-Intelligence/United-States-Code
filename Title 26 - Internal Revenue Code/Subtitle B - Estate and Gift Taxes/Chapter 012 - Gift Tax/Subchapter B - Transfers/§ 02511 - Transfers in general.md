@@ -20,6 +20,8 @@ For purposes of this chapter, in the case of a nonresident not a citizen of the 
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 406; Pub. L. 89–809, title I, §109(b), Nov. 13, 1966, 80 Stat. 1575; Pub. L. 107–16, title V, §511(e), June 7, 2001, 115 Stat. 71; Pub. L. 107–147, title IV, §411(g)(1), Mar. 9, 2002, 116 Stat. 46; Pub. L. 111–312, title III, §302(e), Dec. 17, 2010, 124 Stat. 3302.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (c). Pub. L. 111–312 struck out subsec. (c). Text read as follows: "Notwithstanding any other provision of this section and except as provided in regulations, a transfer in trust shall be treated as a transfer of property by gift, unless the trust is treated as wholly owned by the donor or the donor's spouse under subpart E of part I of subchapter J of chapter 1."
@@ -29,6 +31,8 @@ For purposes of this chapter, in the case of a nonresident not a citizen of the 
 <b>2001</b>—Subsec. (c). Pub. L. 107–16 added subsec. (c).
 
 <b>1966</b>—Subsec. (b). Pub. L. 89–809 inserted reference to nonresidents who are excepted from the application of section 2501(a)(2) and expanded section to include debt obligations of United States persons or the United States, a State or any political subdivision thereof, or the District of Columbia.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

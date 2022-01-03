@@ -1,22 +1,24 @@
 ### §4370m–7. Reports
 
-#### (a) Report to Congress
+#### (a) Reports to Congress
 
-#### (1) In general
+#### (1) Executive Director annual report
 
-&emsp;Not later than April 15 of each year for 10 years beginning on December 4, 2015, the Executive Director shall submit to Congress a report detailing the progress accomplished under this subchapter during the previous fiscal year.
+#### (A) In general
 
-#### (2) Contents
+&emsp;&emsp;Not later than April 15 of each year for 10 years beginning on November 15, 2021, the Executive Director shall submit to Congress a report detailing the progress accomplished under this subchapter during the previous fiscal year.
 
-&emsp;The report described in paragraph (1) shall assess the performance of each participating agency and lead agency based on the best practices described in section 4370m–1(c)(2)(B) of this title, including—
+#### (B) Opportunity to include comments
 
-&emsp;&emsp;(A) agency progress in making improvements consistent with those best practices; and
+&emsp;&emsp;Each councilmember, with input from the respective agency CERPO, shall have the opportunity to include comments concerning the performance of the agency in the report described in subparagraph (A).
 
-&emsp;&emsp;(B) agency compliance with the performance schedules established under section 4370m–1(c)(1)(C) of this title.
+#### (2) Quarterly agency performance report
 
-#### (3) Opportunity to include comments
+&emsp;The Executive Director shall submit to Congress a quarterly report evaluating agency compliance with the provisions of this subchapter, which shall include a description of the implementation and adherence of each agency to the coordinated project plan and permitting timetable requirements under section 4370m–2(c) of this title.
 
-&emsp;Each councilmember, with input from the respective agency CERPO, shall have the opportunity to include comments concerning the performance of the agency in the report described in paragraph (1).
+#### (3) Agency best practices report
+
+&emsp;Not later than April 15 of each year, each participating agency and lead agency shall submit to Congress and the Director of the Office of Management and Budget a report assessing the performance of the agency in implementing the best practices described in section 4370m–1(c)(2)(B) of this title.
 
 #### (b) Comptroller general report
 
@@ -26,9 +28,15 @@ Not later than 3 years after December 4, 2015, the Comptroller General of the Un
 
 &emsp;(2) agency compliance with the performance schedules established under section 4370m–1(c)(1)(C) of this title.
 
-(Pub. L. 114–94, div. D, title XLI, §41008, Dec. 4, 2015, 129 Stat. 1760.)
+(Pub. L. 114–94, div. D, title XLI, §41008, Dec. 4, 2015, 129 Stat. 1760; Pub. L. 117–58, div. G, title VIII, §70801(f), Nov. 15, 2021, 135 Stat. 1293.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
 Section was enacted as part of the Fixing America's Surface Transportation Act, also known as the FAST Act, and not as part of the National Environmental Policy Act of 1969 which comprises this chapter.
+
+#### Amendments
+
+<b>2021</b>—Subsec. (a). Pub. L. 117–58 added subsec. (a) and struck out former subsec. (a) which required, for a period of 10 years beginning on Dec. 4, 2015, Executive Director to submit annual reports to Congress on progress accomplished under this subchapter during previous fiscal year.
 

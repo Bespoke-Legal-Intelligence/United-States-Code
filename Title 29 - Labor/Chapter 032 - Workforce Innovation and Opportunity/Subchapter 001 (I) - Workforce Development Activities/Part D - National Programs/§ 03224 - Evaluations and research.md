@@ -92,7 +92,7 @@
 
 #### (B) Study on resources available to assist disconnected youth
 
-&emsp;&emsp;The Secretary of Labor, in coordination with the Secretary of Education, may conduct a study examining the characteristics of eligible youth that result in such youth being significantly disconnected from education and workforce participation, the ways in which such youth could have greater opportunities for education attainment and obtaining employment, and the resources available to assist such youth in obtainingthe skills, credentials, and work experience necessary to become economically self-sufficient.
+&emsp;&emsp;The Secretary of Labor, in coordination with the Secretary of Education, may conduct a study examining the characteristics of eligible youth that result in such youth being significantly disconnected from education and workforce participation, the ways in which such youth could have greater opportunities for education attainment and obtaining employment, and the resources available to assist such youth in obtaining the skills, credentials, and work experience necessary to become economically self-sufficient.
 
 #### (C) Study of effectiveness of workforce development system in meeting business needs
 
@@ -184,7 +184,7 @@ This Act, referred to in subsec. (b)(4)(A), (J), is Pub. L. 113–128, July 22, 
 
 #### Change of Name
 
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Education and the Workforce of House of Representatives changed to Committee on Educationand Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date
 

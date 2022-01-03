@@ -6,7 +6,7 @@ There are hereby transferred to the Institute of American Indian and Alaska Nati
 
 #### (b) Certain matters relating to transferred functions
 
-(1) Subject to subsection (d), all personnel, liabilities, contracts, real property (including the collections of the museum located on the site known as the "Santa Fe Indian School" but not the museum building), personal property, assets, and records as are determined by the Director of the Office of Management and Budget to be employed, held, or used primarily in connection with any function transferred under the provisions of this chapter (regardless of the administrative entity providing the services on the date before the transfer) shall be transferred to the Institute.
+(1) Subject to subsection (d), all personnel, liabilities, contracts, real property (including the collections of the museum located on the site known as the "Santa Fe Indian School" but not the museum building), personal property, assets, and records as are determined by the Director ofthe Office of Management and Budget to be employed, held, or used primarily in connection with any function transferred under the provisions of this chapter (regardless of the administrative entity providing the services on the date before the transfer) shall be transferred to the Institute.
 
 (2) Personnel engaged in functions transferred by this chapter shall be transferred in accordance with applicable laws and regulations relating to the transfer of functions, except that such transfer shall be without reduction in classification or compensation for one year after such transfer.
 
@@ -26,6 +26,8 @@ All laws and regulations relating to the Institute of American Indian Arts estab
 
 (Pub. L. 99–498, title XV, §1514, Oct. 17, 1986, 100 Stat. 1608; Pub. L. 100–153, §8, Nov. 5, 1987, 101 Stat. 887; Pub. L. 100–297, title V, §5406(d), Apr. 28, 1988, 102 Stat. 418; Pub. L. 101–644, title V, §503, Nov. 29, 1990, 104 Stat. 4669; Pub. L. 102–325, title XIII, §1331(f), July 23, 1992, 106 Stat. 807.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Subsec. (b)(1). Pub. L. 102–325, §1331(f)(1), substituted "Subject to subsection (d), all personnel" for "All personnel".
@@ -43,6 +45,8 @@ Subsecs. (e), (f). Pub. L. 101–644, §503(1), struck out subsec. (e) which rel
 Subsec. (e). Pub. L. 100–153, §8(3), added subsec. (e) and struck out former subsec. (e) which read as follows: "During the period beginning on October 17, 1986, and ending on the date referred to in subsection (f) of this section, the Advisory Board for Institute of American Indian Arts shall continue to act in an advisory role for the Board and the Institute of American Indian and Alaska Native Culture and Arts Development."
 
 Subsec. (f). Pub. L. 100–153, §8(3), added subsec. (f) and struck out former subsec. (f) which read as follows: "The provisions of this section (other than subsection (e) of this section) shall take effect on October 1, 1986."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

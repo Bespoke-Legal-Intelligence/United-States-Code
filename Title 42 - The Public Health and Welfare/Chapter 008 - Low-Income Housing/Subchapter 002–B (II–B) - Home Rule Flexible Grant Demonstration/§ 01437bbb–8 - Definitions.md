@@ -16,7 +16,7 @@ For purposes of this subchapter, the following definitions shall apply:
 
 #### (2) Participating jurisdiction
 
-&emsp;The term "participating jurisdiction" means, with respect to a period for which such an agreement is made, a jurisdiction that has entered into an agreement under section 1437bbb–5(b)(3) of this title to receive assistance pursuant to this subchapter for such fiscal year.
+&emsp;The term "participating jurisdiction" means, with respect to a period for which suchan agreement is made, a jurisdiction that has entered into an agreement under section 1437bbb–5(b)(3) of this title to receive assistance pursuant to this subchapter for such fiscal year.
 
 (Sept. 1, 1937, ch. 896, title IV, §409, as added Pub. L. 105–276, title V, §561, Oct. 21, 1998, 112 Stat. 2624.)
 

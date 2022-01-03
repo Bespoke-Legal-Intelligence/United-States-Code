@@ -14,7 +14,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall implement any program under paragraph (1) through an Office of Financial Stability, established for such purpose within the Office of Domestic Finance of the Department of the Treasury, which office shall be headed by an Assistant Secretary of the Treasury, appointed by thePresident, by and with the advice and consent of the Senate, except that an interim Assistant Secretary may be appointed by the Secretary.
+&emsp;&emsp;The Secretary shall implement any program under paragraph (1) through an Office of Financial Stability, established for such purpose within the Office of Domestic Finance of the Department of the Treasury, which office shall be headed by an Assistant Secretary of the Treasury, appointed by the President, by and with the advice and consent of the Senate, except that an interim Assistant Secretary may be appointed by the Secretary.
 
 #### (B) Omitted
 
@@ -50,7 +50,7 @@ Before the earlier of the end of the 2-business-day period beginning on the date
 
 #### (e) Preventing unjust enrichment
 
-In making purchases under the authority of this chapter, the Secretary shall take such steps as may be necessary to prevent unjust enrichment of financial institutions participating in a program established under this section, including by preventing the sale of a troubled asset to the Secretary at a higher price than what the seller paid to purchase the asset. This subsection does not apply to troubled assets acquired in a merger or acquisition, or a purchase of assets from a financial institution in conservatorship or receivership, or that has initiated bankruptcy proceedings under title 11.
+In making purchases under the authority of this chapter, the Secretary shall take such steps as may be necessary to prevent unjust enrichment of financial institutions participating in a program established under this section, including by preventing the sale of a troubled asset to the Secretary at a higher price than what theseller paid to purchase the asset. This subsection does not apply to troubled assets acquired in a merger or acquisition, or a purchase of assets from a financial institution in conservatorship or receivership, or that has initiated bankruptcy proceedings under title 11.
 
 (Pub. L. 110–343, div. A, title I, §101, Oct. 3, 2008, 122 Stat. 3767.)
 

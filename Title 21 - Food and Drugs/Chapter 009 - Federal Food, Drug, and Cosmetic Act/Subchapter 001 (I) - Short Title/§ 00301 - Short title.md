@@ -12,7 +12,7 @@ Act June 23, 1939, ch. 242, §§1, 2, 53 Stat. 853, 854, provided that:
 
 "\[Sec. 1\] (a) The effective date of the following provisions of the Federal Food, Drug, and Cosmetic Act is hereby postponed until January 1, 1940: Sections 402(c) \[342(c) of this title\]; 403(e)(1) \[343(e)(1) of this title\]; 403(g), (h), (i), (j), and (k) \[343(g) to (k) of this title\]; 501(a), (4) \[351(a)(4) of this title\]; 502(b), (d), (e), (f), (g), and (h) \[352(b), (d) to (h) of this title\]; 601(e) \[361(e) of this title\]; and 602(b) \[362(b) of this title\].
 
-"(b) The Secretary of Agriculture shall promulgate regulations further postponing to July 1, 1940\[,\] the effective date of the provisions of sections 403(e)(1) \[343(e)(1) of this title\]; 403(g), (h), (i), (j), and (k) \[343(g)to (k)\]; 502(b), (d), (e), (f), (g), and (h) \[352(b), (d) to (h) of this title\]; and 602(b) \[362(b) of this title\] of such Act with respect to lithographed labeling which was manufactured prior to February 1, 1939, and to containers bearing labeling which, prior to February 1, 1939, was lithographed, etched, stamped, pressed, printed, fused or blown on or in such containers, where compliance with such provisions would be unduly burdensome by reason of causing the loss of valuable stocks of such labeling or containers, and where such postponement would not prevent the public interest being adequately served: Provided, That in no case shall such regulations apply to labeling which would not have complied with the requirements of the Food and Drugs Act of June 30, 1906, as amended.
+"(b) The Secretary of Agriculture shall promulgate regulations further postponing to July 1, 1940\[,\] the effective date of the provisions of sections 403(e)(1) \[343(e)(1) of this title\]; 403(g), (h), (i), (j), and (k) \[343(g) to (k)\]; 502(b), (d), (e), (f), (g), and (h) \[352(b), (d) to (h) of this title\]; and 602(b) \[362(b) of this title\] of such Act with respect to lithographed labeling which was manufactured prior to February 1, 1939, and to containers bearing labeling which, prior to February 1, 1939, was lithographed, etched, stamped, pressed, printed, fused or blown on or in such containers, where compliance with such provisions would be unduly burdensome by reason of causing the loss of valuable stocks of such labeling or containers, and where such postponement would not prevent the public interest being adequately served: Provided, That in no case shall such regulations apply to labeling which would not have complied with the requirements of the Food and Drugs Act of June 30, 1906, as amended.
 
 "Sec. 2. (a) The provisions of section 8 \[section 10 of this title\], paragraph fifth, under the heading 'In the case of food:', of the Food and Drugs Act of June 30, 1906, as amended, and regulations promulgated thereunder, and all other provisions of such Act to the extent that they may relate to the enforcement of such section 8 \[section 10 of this title\] and of such regulations, shall remain in force until January 1, 1940.
 
@@ -30,6 +30,10 @@ Act June 25, 1938, ch. 675, §1002(a), formerly §902(a), 52 Stat. 1059; renumbe
 
 #### Short Title of 2021 Amendment
 
+Pub. L. 117–79, §1, Dec. 23, 2021, 135 Stat. 1533, provided that: "This Act \[enacting section 360ee–1 of this title, section 280g–7b of Title 42, The Public Health and Welfare, and provisions set out as notes under sections 360aa and 360ee of this title\] may be cited as the 'Accelerating Access to Critical Therapies for ALS Act'."
+
+Pub. L. 117–11, §1, Apr. 23, 2021, 135 Stat. 262, provided that: "This Act \[amending section 321 of this title and enacting provisions set out as a note under section 321 of this title\] may be cited as the 'Food Allergy Safety, Treatment, Education, and Research Act of 2021' or the 'FASTER Act of 2021'."
+
 Pub. L. 116–304, §1, Jan. 5, 2021, 134 Stat. 4915, provided that: "This Act \[amending sections 321 and 381 of this title\] may be cited as the 'Safeguarding Therapeutics Act'."
 
 Pub. L. 116–290, §1, Jan. 5, 2021, 134 Stat. 4889, provided that: "This Act \[amending section 355 of this title and enacting provisions set out as a note under section 355 of this title\] may be cited as the 'Orange Book Transparency Act of 2020'."
@@ -40,7 +44,7 @@ Pub. L. 115–271, §1(a), Oct. 24, 2018, 132 Stat. 3894, provided that: "This A
 
 Pub. L. 115–271, title III, §3011, Oct. 24, 2018, 132 Stat. 3935, provided that: "This chapter \[chapter 2 (§§3011–3014) of subtitle A of title III of Pub. L. 115–271, enacting sections 360bbb–8d and 384f of this title, amending sections 331 and 381 of this title, and enacting provisions set out as a note under section 331 of this title\] may be cited as the 'Stop Counterfeit Drugs by Regulating and Enhancing Enforcement Now Act' or the 'SCREEN Act'."
 
-Pub. L. 115–271, title III, §3021, Oct. 24, 2018, 132 Stat. 3938, provided that: "This chapter \[chapter 3 (§§3021, 3022) of subtitle A of title III of Pub. L. 115–271, enacting section 384g of this title and amending sections 331, 335a, and 381 of this title\] may be cited as the 'Stop Illicit Drug Importation Act of 2018'."
+Pub. L. 115–271, title III, §3021, Oct. 24, 2018, 132 Stat. 3938, provided that: "This chapter \[chapter 3 (§§3021,3022) of subtitle A of title III of Pub. L. 115–271, enacting section 384g of this title and amending sections 331, 335a, and 381 of this title\] may be cited as the 'Stop Illicit Drug Importation Act of 2018'."
 
 Pub. L. 115–271, title III, §3031, Oct. 24, 2018, 132 Stat. 3940, provided that: "This chapter \[chapter 4 (§§3031, 3032) of subtitle A of title III of Pub. L. 115–271, amending section 355–1 of this title\] may be cited as the 'Securing Opioids and Unused Narcotics with Deliberate Disposal and Packaging Act of 2018' or the 'SOUND Disposal and Packaging Act'."
 
@@ -50,7 +54,7 @@ Pub. L. 115–234, title I, §101(a), Aug. 14, 2018, 132 Stat. 2428, provided th
 
 Pub. L. 115–234, title II, §201(a), Aug. 14, 2018, 132 Stat. 2432, provided that: "This title \[amending sections 379j–21 and 379j–22 of this title, enacting provisions set out as notes under sections 379j–21 and 379j–22 of this title, and repealing provisions set out as notes under sections 379j–21 and 379j–22 of this title\] may be cited as the 'Animal Generic Drug User Fee Amendments of 2018'."
 
-Pub. L. 115–176, §1, May 30, 2018, 132 Stat. 1372, provided that: "This Act \[enacting section 360bbb–0a ofthis title and provisions set out as a note under section 360bbb–0a of this title\] may be cited as the 'Trickett Wendler, Frank Mongiello, Jordan McLinn, and Matthew Bellina Right to Try Act of 2017'."
+Pub. L. 115–176, §1, May 30, 2018, 132 Stat. 1372, provided that: "This Act \[enacting section 360bbb–0a of this title and provisions set out as a note under section 360bbb–0a of this title\] may be cited as the 'Trickett Wendler, Frank Mongiello, Jordan McLinn, and Matthew Bellina Right to Try Act of 2017'."
 
 #### Short Title of 2017 Amendment
 
@@ -94,7 +98,7 @@ Pub. L. 113–14, §1, June 13, 2013, 127 Stat. 451, provided that: "This Act \[
 
 Pub. L. 113–14, title I, §101(a), June 13, 2013, 127 Stat. 451, provided that: "This title \[amending sections 379j–11 to 379j–13 of this title, enacting provisions set out as notes under sections 379j–11 to 379j–13 of this title, and repealing provisions set out as notes under section 379j–11 of this title\] may be cited as the 'Animal Drug User Fee Amendments of 2013'."
 
-Pub. L. 113–14, title II, §201(a), June 13, 2013, 127 Stat. 464, provided that: "This title \[amending sections 379j–21 and 379j–22 of this title, enacting provisions set out as notes under sections 379j–21 and 379j–22 of this title, and repealing provisions set out as notes under sections 379j–21 and 379j–22 of this title\] may be cited as the 'Animal Generic Drug User Fee Amendments of 2013'."
+Pub. L. 113–14, title II, §201(a), June 13, 2013, 127 Stat. 464, provided that: "This title \[amending sections 379j–21 and 379j–22 of this title, enacting provisions set out as notes under sections 379j–21 and 379j–22 of this title, and repealing provisions set out as notes under sections 379j–21 and 379j–22 of this title\] may be cited asthe 'Animal Generic Drug User Fee Amendments of 2013'."
 
 #### Short Title of 2012 Amendment
 
@@ -108,7 +112,7 @@ Pub. L. 112–144, title II, §201(a), July 9, 2012, 126 Stat. 1002, provided th
 
 Pub. L. 112–144, title III, §301(a), July 9, 2012, 126 Stat. 1008, provided that: "This title \[enacting sections 379d–4 and 379j–41 to 379j–43 of this title, amending sections 352 and 379d–3 of this title, and enacting provisions set out as notes under sections 379j–41 and 379j–43 of this title\] may be cited as the 'Generic Drug User Fee Amendments of 2012'."
 
-Pub. L. 112–144, title IV, §401(a), July 9, 2012, 126 Stat. 1026, provided that: "This title \[enacting sections 379j–51 to 379j–53 of this title, amending sections 379d–4and 379g of this title, and enacting provisions set out as notes under sections 379g, 379j–51, and 379j–53 of this title\] may be cited as the 'Biosimilar User Fee Act of 2012'."
+Pub. L. 112–144, title IV, §401(a), July 9, 2012, 126 Stat. 1026, provided that: "This title \[enacting sections 379j–51 to 379j–53 of this title, amending sections 379d–4 and 379g of this title, and enacting provisions set out as notes under sections 379g, 379j–51, and 379j–53 of this title\] may be cited as the 'Biosimilar User Fee Act of 2012'."
 
 #### Short Title of 2009 Amendment
 
@@ -146,7 +150,7 @@ Pub. L. 109–43, §1, Aug. 1, 2005, 119 Stat. 439, provided that: "This Act \[a
 
 #### Short Title of 2004 Amendments
 
-Pub. L. 108–282, title I, §101, Aug. 2, 2004, 118 Stat. 891, provided that: "This title \[enacting sections 360ccc to 360ccc–2 of this title, amending sections 321, 331, 352, 353, 354, and 360b of this title, enacting provisions set out as notes under sections 360ccc and 393 of this title, and amending provisions set out as a note under section 360b of this title\] may be cited as the 'Minor Use and Minor Species Animal Health Act of 2004'."
+Pub. L. 108–282, title I, §101, Aug. 2, 2004, 118 Stat. 891, provided that: "This title \[enacting sections 360ccc to360ccc–2 of this title, amending sections 321, 331, 352, 353, 354, and 360b of this title, enacting provisions set out as notes under sections 360ccc and 393 of this title, and amending provisions set out as a note under section 360b of this title\] may be cited as the 'Minor Use and Minor Species Animal Health Act of 2004'."
 
 Pub. L. 108–282, title II, §201, Aug. 2, 2004, 118 Stat. 905, provided that: "This title \[enacting section 374a of this title and section 242r of Title 42, The Public Health and Welfare, amending sections 321, 343, and 343–1 of this title, and enacting provisions set out as notes under sections 321 and 343 of this title and sections 243 and 300d–2 of Title 42\] may be cited as the 'Food Allergen Labeling and Consumer Protection Act of 2004'."
 
@@ -212,7 +216,7 @@ Pub. L. 102–353, §1(a), Aug. 26, 1992, 106 Stat. 941, provided that: "This Ac
 
 Pub. L. 102–300, §1(a), June 16, 1992, 106 Stat. 238, provided that: "This Act \[amending sections 321, 331, 334, 346a, 352, 353, 356, 357, 360c, 360d, 360g to 360i, 360l, 360mm, 371 to 372a, 376, and 381 of this title and section 262 of Title 42, The Public Health and Welfare and enacting and amending provisions set out as notes under section 360i of this title\] may be cited as the 'Medical Device Amendments of 1992'."
 
-Pub. L. 102–282, §1(a), May 13, 1992, 106 Stat. 149, provided that: "This Act \[enacting sections 335a to 335c of this title, amending sections 321, 336, 337, and 355 of thistitle, and enacting provisions set out as notes under section 335a of this title\] may be cited as the 'Generic Drug Enforcement Act of 1992'."
+Pub. L. 102–282, §1(a), May 13, 1992, 106 Stat. 149, provided that: "This Act \[enacting sections 335a to 335c of this title, amending sections 321, 336, 337, and 355 of this title, and enacting provisions set out as notes under section 335a of this title\] may be cited as the 'Generic Drug Enforcement Act of 1992'."
 
 #### Short Title of 1990 Amendments
 
@@ -260,7 +264,7 @@ Pub. L. 96–359, §1, Sept. 26, 1980, 94 Stat. 1190, provided: "That this Act \
 
 #### Short Title of 1977 Amendment
 
-Pub. L. 95–203, §1, Nov. 23, 1977, 91 Stat. 1451, provided that: "This Act \[enacting section 343a of this title, amending sections 321 and 343 of this title, enacting provisions set out as notes under sections 343 and 348 of this title, and amending provisions set out as notes under sections 218 and 289l–1 of Title 42, The Public Health and Welfare\] may be cited as the 'Saccharin Study and Labeling Act'."
+Pub. L. 95–203, §1, Nov. 23, 1977, 91 Stat. 1451, provided that: "This Act \[enacting section 343a of this title,amending sections 321 and 343 of this title, enacting provisions set out as notes under sections 343 and 348 of this title, and amending provisions set out as notes under sections 218 and 289l–1 of Title 42, The Public Health and Welfare\] may be cited as the 'Saccharin Study and Labeling Act'."
 
 #### Short Title of 1976 Amendment
 
@@ -274,7 +278,7 @@ Pub. L. 92–387, §1, Aug. 16, 1972, 86 Stat. 559, provided that: "This Act \[a
 
 Pub. L. 90–602, §1, Oct. 18, 1968, 82 Stat. 1173, provided that: "This Act \[enacting provisions now comprising part C (§§360hh–360ss) of subchapter III of this chapter and provisions set out as notes under section 360hh of this title\] may be cited as the 'Radiation Control for Health and Safety Act of 1968'."
 
-Pub. L. 90–399, §1, July 13, 1968, 82 Stat. 342, provided: "That this Act \[enacting section 360b of this title,amending sections 321, 331, 342, 351, 352, 357, 381, and 392 of this title, and enacting provisions set out as a note under section 360b of this title\] may be cited as the 'Animal Drug Amendments of 1968'."
+Pub. L. 90–399, §1, July 13, 1968, 82 Stat. 342, provided: "That this Act \[enacting section 360b of this title, amending sections 321, 331, 342, 351, 352, 357, 381, and 392 of this title, and enacting provisions set out as a note under section 360b of this title\] may be cited as the 'Animal Drug Amendments of 1968'."
 
 #### Short Title of 1965 Amendment
 

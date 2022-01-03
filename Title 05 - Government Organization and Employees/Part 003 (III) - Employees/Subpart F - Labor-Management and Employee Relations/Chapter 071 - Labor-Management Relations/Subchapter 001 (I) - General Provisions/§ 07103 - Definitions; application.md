@@ -174,11 +174,11 @@ Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 
 For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
+#### <b>Executive Documents</b>
+
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
-#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 12171. Exclusions From Coverage of Program
 
@@ -586,7 +586,7 @@ States and the District of Columbia
 
 Ex. Ord. No. 12391, Nov. 4, 1982, 47 F.R. 50457, provided:
 
-By the authority vested in me as President by the Constitution and statutes of the United States ofAmerica, including Section 7103(b)(2) of Title 5 and Section 301 of Title 3 of the United States Code, and having determined that it is necessary in the interest of national security to suspend certain labor-management relations provisions with respect to overseas activities of the Department of Defense, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and statutes of the United States of America, including Section 7103(b)(2) of Title 5 and Section 301 of Title 3 of the United States Code, and having determined that it is necessary in the interest of national security to suspend certain labor-management relations provisions with respect to overseas activities of the Department of Defense, it is hereby ordered as follows:
 
 Section 1. <i>Suspensions</i>. With regard to United States citizen employees of the Department of Defense, including the Military Departments, who are employed outside the United States as defined in 5 U.S.C. 7103(a)(18), with the exception of those employed in the Republic of Panama:
 
@@ -648,7 +648,7 @@ Ex. Ord. No. 13760, Jan. 12, 2017, 82 F.R. 5325, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 7103(b)(1) of title 5, United States Code, and in order to reflect the effects of the reorganization and restructuring of the Department of Defense on its agencies and subdivisions exempted from coverage under the Federal Labor-Management Relations Program, it is hereby ordered as follows:
 
-Section 1. <i>Determinations</i>. The agencies and subdivisions of the Department of Defense set forth in section2 of this order are hereby determined to have as a primary function intelligence, counterintelligence, investigative, or national security work. It is further determined that chapter 71 of title 5, United States Code, cannot be applied to these subdivisions in a manner consistent with national security requirements and considerations.
+Section 1. <i>Determinations</i>. The agencies and subdivisions of the Department of Defense set forth in section 2 of this order are hereby determined to have as a primary function intelligence, counterintelligence, investigative, or national security work. It is further determined that chapter 71 of title 5, United States Code, cannot be applied to these subdivisions in a manner consistent with national security requirements and considerations.
 
 Sec. 2. <i>Department of Defense</i>. Executive Order 12171 of November 19, 1979, as amended, is further amended by:
 
@@ -922,35 +922,7 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Delegation of Certain Authority Under the Federal Service Labor-Management Relations Statute
 
-Memorandum of President of the United States, Jan. 29, 2020, 85 F.R. 10033, provided:
-
-Memorandum for the Secretary of Defense
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, it is hereby ordered as follows:
-
-Section 1. <i>Policy</i>. The national security interests of the United States require expedient and efficient decisionmaking. When new missions emerge or existing ones evolve, the Department of Defense requires maximum flexibility to respond to threats to carry out its mission of protecting the American people. This flexibility requires that military and civilian leadership manage their organizations to cultivate a lethal, agile force adaptive to new technologies and posture changes. Where collective bargaining is incompatible with these organizations' missions, the Department of Defense should not be forced to sacrifice its national security mission and, instead, seek relief through third parties and administrative fora.
-
-Sec. 2. <i>Delegation of Authority to the Secretary of Defense</i>. (a) The Secretary of Defense (Secretary) is delegated authority under 5 U.S.C. 7103(b)(1) and 7103(b)(2) to issue orders excluding Department of Defense agencies or subdivisions thereof from Federal Service Labor-Management Relations Statute coverage. The Secretary is authorized to further delegate this authority to any official of the Department of Defense appointed by the President with the advice and consent of the Senate.
-
-(b) When making the determination required by 5 U.S.C. 7103(b)(1) or 7103(b)(2), the Secretary or other official delegated this authority pursuant to subsection (a) of this section shall publish this determination in the Federal Register.
-
-(c) Any official to whom the Secretary of Defense delegates the authority pursuant to subsection (a) of this section may not further delegate this authority.
-
-(d) For purposes of this memorandum, the term "Department of Defense agencies or subdivisions" includes without limitation the military departments.
-
-Sec. 3. <i>General Provisions</i>. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
-
-(i) the authority granted by law to an executive department or agency, or the head thereof; or
-
-(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
-
-(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
-
-(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-
-You are authorized and directed to publish this memorandum in the Federal Register.
-
-Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Memorandum of President of the United States, Jan. 29, 2020, 85 F.R. 10033, which delegated to the Secretary of Defense authority under subsec. (b)(1) and (2) of this section to issue orders excluding Department of Defense agencies or subdivisions thereof from Federal Service Labor-Management Relations Statute coverage, was revoked by Ex. Ord. No. 14018, §1, Feb. 24, 2021, 86 F.R. 11855.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) Powers, remedies, and procedures
 
-The powers, remedies, and procedures set forth in sections 2000e–4, 2000e–5, 2000e–6, 2000e–8, and 2000e–9 of this title shall be the powers, remedies, and procedures this subchapter provides to the Commission, to the Attorney General, or to any person alleging discrimination on the basis of disability in violation of any provision of this chapter, or regulations promulgated under section 12116 of this title, concerning employment.
+The powers, remedies, and procedures set forth in sections 2000e–4, 2000e–5, 2000e–6, 2000e–8, and 2000e–9 of this title shall be the powers, remedies, and procedures this subchapter providesto the Commission, to the Attorney General, or to any person alleging discrimination on the basis of disability in violation of any provision of this chapter, or regulations promulgated under section 12116 of this title, concerning employment.
 
 #### (b) Coordination
 
@@ -10,11 +10,15 @@ The agencies with enforcement authority for actions which allege employment disc
 
 (Pub. L. 101–336, title I, §107, July 26, 1990, 104 Stat. 336.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
 
 The Rehabilitation Act of 1973, referred to in subsec. (b), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -4,9 +4,13 @@ The Secretary of Agriculture is authorized to purchase from appropriations made 
 
 (Mar. 4, 1907, ch. 2907, 34 Stat. 1281.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 538 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Repeal
 

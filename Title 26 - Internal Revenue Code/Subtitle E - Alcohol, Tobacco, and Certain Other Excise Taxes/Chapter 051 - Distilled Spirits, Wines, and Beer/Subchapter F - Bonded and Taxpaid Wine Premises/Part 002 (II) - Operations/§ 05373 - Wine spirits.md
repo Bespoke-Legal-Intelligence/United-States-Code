@@ -28,6 +28,8 @@ When the Secretary deems such removal and use will not jeopardize the revenue no
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1382; amended Pub. L. 90–619, §1, Oct. 22, 1968, 82 Stat. 1236; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 5373, act Aug. 16, 1954, ch. 736, 68A Stat. 667, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
@@ -37,6 +39,8 @@ A prior section 5373, act Aug. 16, 1954, ch. 736, 68A Stat. 667, consisted of pr
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
 <b>1968</b>—Subsec. (a). Pub. L. 90–619 inserted special natural wine, under conditions prescribed by regulations, as one of the materials from which wine spirits may be produced and extended to special natural wines the existing prohibition on the use of natural wine whose sugars have been refermented.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1968 Amendment
 

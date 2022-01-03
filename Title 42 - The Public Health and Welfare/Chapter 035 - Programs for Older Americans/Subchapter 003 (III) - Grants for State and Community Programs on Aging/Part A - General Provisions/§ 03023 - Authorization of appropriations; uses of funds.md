@@ -6,7 +6,7 @@
 
 (b)(1) There are authorized to be appropriated to carry out subpart I of part C (relating to congregate nutrition services) $530,015,940 for fiscal year 2020, $561,816,896 for fiscal year 2021, $595,525,910 for fiscal year 2022, $631,257,465 for fiscal year 2023, and $669,132,913 for fiscal year 2024.
 
-(2) There are authorized to be appropriated to carry out subpart II of part C (relating to home delivered nutrition services) $268,935,940 for fiscal year 2020, $285,072,096 for fiscal year 2021, $302,176,422 for fiscal year 2022, $320,307,008 forfiscal year 2023, and $339,525,428 for fiscal year 2024.
+(2) There are authorized to be appropriated to carry out subpart II of part C (relating to home delivered nutrition services) $268,935,940 for fiscal year 2020, $285,072,096 for fiscal year 2021, $302,176,422 for fiscal year 2022, $320,307,008 for fiscal year 2023, and $339,525,428 for fiscal year 2024.
 
 (c) Grants made under part B, and subparts I and II of part C, of this subchapter may be used for paying part of the cost of—
 
@@ -19,6 +19,8 @@
 (e) There are authorized to be appropriated to carry out part E (relating to family caregiver support) $193,869,020 for fiscal year 2020, $205,501,161 for fiscal year 2021, $217,831,231 for fiscal year 2022, $230,901,105 for fiscal year 2023, and $244,755,171 for fiscal year 2024.
 
 (Pub. L. 89–73, title III, §303, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1518; amended Pub. L. 97–115, §3(c), (d), Dec. 29, 1981, 95 Stat. 1597; Pub. L. 98–459, title III, §303, Oct. 9, 1984, 98 Stat. 1771; Pub. L. 100–175, title I, §§122(a), (b), 129(c)(1), 140(a), 141(a), 143(a), 144(b), 145, 155(b), Nov. 29, 1987, 101 Stat. 933, 935, 944, 946, 947, 949, 950, 952; Pub. L. 102–375, title III, §§303, 316(b), title VII, §708(c)(3), Sept. 30, 1992, 106 Stat. 1220, 1241, 1293; Pub. L. 106–501, title III, §302, Nov. 13, 2000, 114 Stat. 2238; Pub. L. 109–365, title III, §303, Oct. 17, 2006, 120 Stat. 2538; Pub. L. 114–144, §4(a), Apr. 19, 2016, 130 Stat. 337; Pub. L. 116–131, title II, §203(a), Mar. 25, 2020, 134 Stat. 254.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -46,7 +48,7 @@ Subsec. (e). Pub. L. 114–144, §4(a)(4), struck out par. (2) designation befor
 
 <b>2006</b>—Subsecs. (a)(1), (b)(1), (2), (d). Pub. L. 109–365, §303(1), substituted "years 2007, 2008, 2009, 2010, and 2011" for "year 2001, and such sums as may be necessary for each of the 4 succeeding fiscal years".
 
-Subsec. (e)(1). Pub. L. 109–365, §303(2)(A), substituted "$160,000,000 for fiscal year 2007" for "$125,000,000 for fiscal year 2001 if the aggregate amount appropriated under subsection (a)(1) of this section (relating to part B of this subchapter, supportive services), paragraphs (1) (relating to subpart I of part C of this subchapter, congregate nutrition services) and (2) (relating to subpart II of part C of this subchapter, home delivered nutrition services) of subsection (b) of this section, and (d) (relating to part D of this subchapter, disease prevention and health promotion services) of this section for fiscal year 2001 is not less than the aggregate amount appropriated under subsection (a)(1) of this section, paragraphs (1) and (2) of subsection (b) of this section, and subsection (d) of this section for fiscal year 2000".
+Subsec. (e)(1). Pub. L. 109–365, §303(2)(A), substituted "$160,000,000 for fiscal year 2007" for "$125,000,000 for fiscal year 2001 if the aggregate amount appropriated under subsection (a)(1) of this section (relating to part B of this subchapter, supportive services), paragraphs (1) (relating to subpart I of part C of this subchapter, congregate nutrition services) and (2) (relating to subpart II of part C of this subchapter, home delivered nutrition services) of subsection (b) of this section, and (d) (relating to part D of this subchapter, disease prevention and health promotion services) of this section for fiscal year 2001 is not less than the aggregateamount appropriated under subsection (a)(1) of this section, paragraphs (1) and (2) of subsection (b) of this section, and subsection (d) of this section for fiscal year 2000".
 
 Subsec. (e)(2). Pub. L. 109–365, §303(2)(B), substituted "$166,500,000 for fiscal year 2008, $173,000,000 for fiscal year 2009, $180,000,000 for fiscal year 2010, and $187,000,000 for fiscal year 2011" for "such sums as may be necessary for each of the 4 succeeding fiscal years".
 
@@ -104,7 +106,7 @@ Subsec. (b). Pub. L. 100–175, §122(b), amended subsec. (b) generally. Prior t
 
 "(1) There are authorized to be appropriated $365,300,000 for fiscal year 1984, $360,800,000 for fiscal year 1985, $376,500,000 for fiscal year 1986, and $395,000,000 for fiscal year 1987, for the purpose of making grants under subpart I of part C of this subchapter (relating to congregate nutrition services).
 
-"(2) There are authorized to be appropriated $68,700,000 for fiscal year 1984, $69,100,000 for fiscal year 1985, $72,000,000 for fiscal year 1986, and $75,600,000 for fiscal year 1987, for the purpose of making grants under subpart II of part C of this subchapter (relating to home delivered nutrition services)."
+"(2) There are authorized to be appropriated $68,700,000 for fiscal year 1984, $69,100,000 for fiscal year 1985, $72,000,000 for fiscal year 1986, and $75,600,000 forfiscal year 1987, for the purpose of making grants under subpart II of part C of this subchapter (relating to home delivered nutrition services)."
 
 Subsec. (d). Pub. L. 100–175, §140(a), added subsec. (d).
 
@@ -131,6 +133,8 @@ Subsec. (b)(1). Pub. L. 97–115, §3(c)(2), inserted provisions authorizing app
 Subsec. (b)(2). Pub. L. 97–115, §3(c)(3), inserted provisions authorizing appropriations of $60,000,000 for fiscal year 1982, $64,200,000 for fiscal year 1983, and $68,700,000 for fiscal year 1984.
 
 Subsec. (c)(2). Pub. L. 97–115, §3(d), substituted "supportive services" for "social services".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendments
 

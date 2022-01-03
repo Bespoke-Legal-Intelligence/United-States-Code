@@ -44,6 +44,8 @@ The functions and programs referred to in subsection (a) are the following:
 
 (Pub. L. 114–125, title I, §103, Feb. 24, 2016, 130 Stat. 129.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Tariff Act of 1930, referred to in subsec. (b)(4), (6), is act June 17, 1930, ch. 497, 46 Stat. 590. Section 313 of the Tariff Act of 1930, as amended by section 906 of this Act, is section 1313 of this title, as amended by section 906 of Pub. L. 114–125. Subtitles A and B of title VII of the Act are classified generally to parts I (§1671 et seq.) and II (§1673 et seq.), respectively, of subtitle IV of chapter 4 of this title. For complete classification of this Act to the Code, see section 1654 of this title and Tables.

@@ -488,7 +488,7 @@ In general.—The Secretary of Health and Human Services, in coordination with t
 
 &emsp;&emsp;"(B)
 
-Allocation of grants.—The Secretary shall award grants to qualifying States under this paragraph based on the proportion that the estimated annual average number of birth and death records created by a State applying for a grant bears to the estimated annual average number of birth and death records originated by all States.
+Allocation of grants.—The Secretary shall award grants to qualifying States under this paragraph based on the proportion that the estimated annual average number of birth and death records created by a State applying for a grant bears to theestimated annual average number of birth and death records originated by all States.
 
 &emsp;&emsp;"(C)
 

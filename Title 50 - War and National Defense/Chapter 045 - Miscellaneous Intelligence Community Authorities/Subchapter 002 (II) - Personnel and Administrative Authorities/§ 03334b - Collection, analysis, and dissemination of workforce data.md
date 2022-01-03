@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;(iv) that provides demographic comparisons to the relevant nongovernmental labor force and the relevant civilian labor force;
 
-&emsp;&emsp;(C) shall include an analysis of applicant flow data, including the percentage and levelof positions for which data are collected, and a discussion of any resulting policy changes or recommendations;
+&emsp;&emsp;(C) shall include an analysis of applicant flow data, including the percentage and level of positions for which data are collected, and a discussion of any resulting policy changes or recommendations;
 
 &emsp;&emsp;(D) shall include demographic data relating to participants in professional development programs of the intelligence community and the rate of placement into senior positions for participants in such programs;
 
@@ -94,9 +94,13 @@ In this section:
 
 (Pub. L. 116–92, div. E, title LVII, §5704, Dec. 20, 2019, 133 Stat. 2162.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is comprised of section 5704 of Pub. L. 116–92. Subsec. (a) of section 5704 of Pub. L. 116–92 amended section 3050 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Expansion of Intelligence Community Recruitment Efforts
 

@@ -52,7 +52,7 @@ Nothing in this chapter supersedes any provision of the Year 2000 Information an
 
 #### (ii) State
 
-&emsp;&emsp;&emsp;The term "State" means each of the several States of the United States, the District of Columbia, the Commonwealth ofPuerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+&emsp;&emsp;&emsp;The term "State" means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
 #### (iii) Local government
 
@@ -92,7 +92,7 @@ Nothing in this chapter supersedes any provision of the Year 2000 Information an
 
 &emsp;&emsp;(C) noncompliance with the applicable federally enforceable measurement, monitoring, or reporting requirement was unavoidable in the face of an emergency directly related to a Y2K failure and was necessary to prevent the disruption of critical functions or services that could result in harm to life or property;
 
-&emsp;&emsp;(D) upon identification of noncompliance the defendant invoking the defense began immediate actions to correct any violation of federally enforceable measurement, monitoring, or reporting requirements; and
+&emsp;&emsp;(D) upon identification of noncompliance the defendant invoking the defense began immediate actions to correct any violationof federally enforceable measurement, monitoring, or reporting requirements; and
 
 &emsp;&emsp;(E) the defendant submitted notice to the appropriate Federal regulatory authority of a Y2K upset within 72 hours from the time that the defendant became aware of the upset.
 
@@ -157,6 +157,8 @@ Nothing in this chapter supersedes any provision of the Year 2000 Information an
 In any Y2K action in which the underlying claim arises under the securities laws (as defined in section 78c(a) of this title), the provisions of this chapter, other than section 6612(b) of this title, shall not apply.
 
 (Pub. L. 106–37, §4, July 20, 1999, 113 Stat. 188.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

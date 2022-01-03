@@ -10,6 +10,8 @@ Minimum Tour of Duty.—An officer who is detailed to the position of Superinten
 
 (Added Pub. L. 106–65, div. A, title V, §532(a)(1)(B), Oct. 5, 1999, 113 Stat. 603, §4333a; amended Pub. L. 108–375, div. A, title V, §541(b)(1), Oct. 28, 2004, 118 Stat. 1902; renumbered §7433a and amended Pub. L. 115–232, div. A, title VIII, §§808(c)(1), 809(a), Aug. 13, 2018, 132 Stat. 1839, 1840.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232, §808(c)(1), renumbered section 4333a of this title as this section.
@@ -18,11 +20,13 @@ Subsec. (a). Pub. L. 115–232, §809(a), substituted "section 7321(a)" for "sec
 
 <b>2004</b>—Pub. L. 108–375 designated existing provisions as subsec. (a), inserted heading, inserted "pursuant to section 3921(a) of this title, unless such retirement is waived under section 3921(b) of this title" before period at end, and added subsec. (b).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
 #### Application of Section to Superintendents Serving on October 5, 1999
 
-Section not applicable to an officer serving on Oct. 5, 1999, in the position of Superintendent of the UnitedStates Military Academy, Naval Academy, or Air Force Academy for so long as that officer continues on and after that date to serve in that position without a break in service, see section 532(a)(5) of Pub. L. 106–65, set out as a note under section 7321 of this title.
+Section not applicable to an officer serving on Oct. 5, 1999, in the position of Superintendent of the United States Military Academy, Naval Academy, or Air Force Academy for so long as that officer continues on and after that date to serve in that position without a break in service, see section 532(a)(5) of Pub. L. 106–65, set out as a note under section 7321 of this title.
 

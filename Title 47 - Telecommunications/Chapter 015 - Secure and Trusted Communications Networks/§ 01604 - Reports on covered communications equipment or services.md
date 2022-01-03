@@ -10,7 +10,7 @@ Each provider of advanced communications service shall submit an annual report t
 
 #### (b) Rule of construction
 
-If a provider of advanced communications service certifies to the Commission that suchprovider does not have any covered communications equipment or service in the network of such provider, such provider is not required to submit a report under subsection (a) after making such certification, unless such provider later purchases, rents, leases, or otherwise obtains any covered communications equipment or service.
+If a provider of advanced communications service certifies to the Commission that such provider does not have any covered communications equipment or service in the network of such provider, such provider is not required to submit a report under subsection (a) after making such certification, unless such provider later purchases, rents, leases, or otherwise obtains any covered communications equipment or service.
 
 #### (c) Justification
 

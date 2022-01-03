@@ -68,11 +68,11 @@ If the President selects a remedial action that results in any hazardous substan
 
 (iv) Where the remedial action selected by the President does not conform to a State standard and the State has initiated a law suit against the Environmental Protection Agency prior to May 1, 1986, to seek to have the remedial action conform to such standard, the President shall conform the remedial action to the State standard. The State shall assure the availability of an offsite facility for such remedial action.
 
-(3) In the case of any removal or remedial action involving the transfer of any hazardous substance or pollutant or contaminant offsite, such hazardous substance or pollutant or contaminant shall only be transferred to a facility which is operating in compliance with section 3004 and 3005 of the Solid Waste Disposal Act \[42 U.S.C. 6924, 6925\] (or, where applicable, in compliance with the Toxic Substances Control Act \[15 U.S.C. 2601 et seq.\] or other applicable Federal law) and all applicable State requirements. Such substance or pollutant or contaminant may be transferred to a land disposal facility only if the President determines that both of the following requirements are met:
+(3) In the case of any removal or remedial action involving the transfer of any hazardous substance or pollutant or contaminant offsite, such hazardous substance or pollutant or contaminant shall only be transferred to a facility which is operating in compliance with section 3004 and 3005 of the Solid Waste Disposal Act \[42 U.S.C. 6924, 6925\] (or, where applicable, in compliance with the Toxic Substances Control Act \[15 U.S.C. 2601 et seq.\] or other applicable Federal law) and all applicable State requirements. Such substance or pollutant or contaminant may be transferred to a land disposal facilityonly if the President determines that both of the following requirements are met:
 
 &emsp;(A) The unit to which the hazardous substance or pollutant or contaminant is transferred is not releasing any hazardous waste, or constituent thereof, into the groundwater or surface water or soil.
 
-&emsp;(B) All such releases from other units at the facility are being controlled by a correctiveaction program approved by the Administrator under subtitle C of the Solid Waste Disposal Act \[42 U.S.C. 6921 et seq.\].
+&emsp;(B) All such releases from other units at the facility are being controlled by a corrective action program approved by the Administrator under subtitle C of the Solid Waste Disposal Act \[42 U.S.C. 6921 et seq.\].
 
 > The President shall notify the owner or operator of such facility of determinations under this paragraph.
 
@@ -128,7 +128,7 @@ If the President selects a remedial action that results in any hazardous substan
 
 &emsp;(H) Prompt notice and explanation of each proposed action to the State in which the facility is located.
 
-> Prior to the promulgation of such regulations, the President shall provide notice to the State of negotiations with potentially responsible parties regarding the scope of any response action at a facility in the State, and such State mayparticipate in such negotiations and, subject to paragraph (2), any settlements.
+> Prior to the promulgation of such regulations, the President shall provide notice to the State of negotiations with potentially responsible parties regarding the scope of any response action at a facility in the State, and such State may participate in such negotiations and, subject to paragraph (2), any settlements.
 
 (2)(A) This paragraph shall apply to remedial actions secured under section 9606 of this title. At least 30 days prior to the entering of any consent decree, if the President proposes to select a remedial action that does not attain a legally applicable or relevant and appropriate standard, requirement, criteria, or limitation, under the authority of subsection (d)(4), the President shall provide an opportunity for the State to concur or not concur in such selection. If the State concurs, the State may become a signatory to the consent decree.
 
@@ -150,6 +150,8 @@ If the President selects a remedial action that results in any hazardous substan
 
 (Pub. L. 96–510, title I, §121, as added Pub. L. 99–499, title I, §121(a), Oct. 17, 1986, 100 Stat. 1672.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Solid Waste Disposal Act, referred to in subsecs. (b)(1)(B) and (d)(2)(A)(i), (3)(B), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. Subtitle C of the Solid Waste Disposal Act is classified generally to subchapter III (§6921 et seq.) of chapter 82 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
@@ -164,7 +166,9 @@ The Clean Air Act, referred to in subsec. (d)(2)(A)(i), is act July 14, 1955, ch
 
 The Clean Water Act, referred to in subsec. (d)(2)(A)(i), (B)(i), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, also known as the Federal Water Pollution Control Act, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
-The Marine Protection, Research and Sanctuaries Act, referred to in subsec. (d)(2)(A)(i), probably means the Marine Protection, Research and Sanctuaries Act of 1972, Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, whichenacted chapters 32 (§1431 et seq.) and 32A (§1447 et seq.) of Title 16, Conservation, and chapters 27 (§1401 et seq.) and 41 (§2801 et seq.) of Title 33. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of Title 33 and Tables.
+The Marine Protection, Research and Sanctuaries Act, referred to in subsec. (d)(2)(A)(i), probably means the Marine Protection, Research and Sanctuaries Act of 1972, Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, which enacted chapters 32 (§1431 et seq.) and 32A (§1447 et seq.) of Title 16, Conservation, and chapters 27 (§1401 et seq.) and 41 (§2801 et seq.) of Title 33. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of Title 33 and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

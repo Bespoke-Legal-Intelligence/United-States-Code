@@ -88,7 +88,7 @@ Definitions.—In this subsection:
 
 &emsp;&emsp;(A)
 
-Beneficial ownership.—The term "beneficial ownership" has the meaning given under section 847 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 133 Stat. 1505; 10 U.S.C. 2509 note).
+Beneficial ownership.—The term "beneficial ownership" has the meaning given under section 847 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 133 Stat. 1505; 10 U.S.C. 2509 note).<sup>1</sup>
 
 &emsp;&emsp;(B)
 
@@ -130,7 +130,7 @@ Rulemaking.—The Administrator of General Services shall prescribe regulations 
 
 #### Amendments Not Shown in Text
 
-<i>This section was derived from section 417b of former Title 41, Public Contracts, which was amended by Pub. L. 111–212, title III, §3010, July 29, 2010, 124 Stat. 2340, and Pub. L. 111–383, div. A, title VIII, §834(d), Jan. 7, 2011, 124 Stat. 4279, prior to being repealed and reenacted as this section by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For applicability of those amendments to this section, see section 6(a) of Pub. L. 111–350, set out as a Transitional and Savings Provisions note preceding section 101 of this title. Section 417b of former Title 41 was amended by adding at the end of subsec. (e)(1) the following: "In addition, the Administrator shall post all such information, excluding past performance reviews, on a publicly available Internet website." and by adding at the end of subsec. (c)(1) the following new subparagraph:</i>
+<i>This section was derived from section 417b of former Title 41, Public Contracts, which was</i><i>amended by Pub. L. 111–212, title III, §3010, July 29, 2010, 124 Stat. 2340, and Pub. L. 111–383, div. A, title VIII, §834(d), Jan. 7, 2011, 124 Stat. 4279, prior to being repealed and reenacted as this section by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For applicability of those amendments to this section, see section 6(a) of Pub. L. 111–350, set out as a Transitional and Savings Provisions note preceding section 101 of this title. Section 417b of former Title 41 was amended by adding at the end of subsec. (e)(1) the following: "In addition, the Administrator shall post all such information, excluding past performance reviews, on a publicly available Internet website." and by adding at the end of subsec. (c)(1) the following new subparagraph:</i>
 
 &emsp;&emsp;<i>"(E) In an administrative proceeding, a final determination of contractor fault by the Secretary of Defense pursuant to section 823(d) of the National Defense Authorization Act for Fiscal Year 2010 (10 U.S.C. 2302 note)."</i>
 
@@ -164,6 +164,8 @@ In subsection (f)(2), the words "the information submitted under paragraph (1)" 
 
 Section 1704(b) of the National Defense Authorization Act for Fiscal Year 2013, referred to in subsec. (c)(1)(E)(ii), is section 1704(b) of Pub. L. 112–239, which is classified to section 7104b(b) of Title 22, Foreign Relations and Intercourse.
 
+Section 847 of the National Defense Authorization Act for Fiscal Year 2020, referred to in subsec. (d)(4)(A), which was formerly set out as a note under section 2509 of Title 10, Armed Forces, was transferred and is now set out as a note under section 4819 of Title 10.
+
 #### Amendments
 
 <b>2021</b>—Subsec. (d)(3). Pub. L. 116–283, §885(1), inserted ", and an identification of any beneficial owner of such corporation," after "to the corporation".
@@ -185,4 +187,6 @@ Pub. L. 111–350, §6(f)(3), Jan. 4, 2011, 124 Stat. 3855, provided that: "The 
 #### Deadline for Amending Federal Acquisition Regulation
 
 Pub. L. 111–350, §6(f)(4), Jan. 4, 2011, 124 Stat. 3855, provided that: "The Federal Acquisition Regulation shall be amended to meet the requirements of sections 2313(f), 3302(b) and (d), 4710(b), and 4711(b) of title 41, United States Code, not later than one year after October 14, 2008."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

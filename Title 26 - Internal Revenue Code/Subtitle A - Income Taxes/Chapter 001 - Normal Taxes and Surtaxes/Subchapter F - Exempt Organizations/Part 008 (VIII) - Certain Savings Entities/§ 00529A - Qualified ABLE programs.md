@@ -236,6 +236,8 @@ The Secretary shall prescribe such regulations or other guidance as the Secretar
 
 (Added Pub. L. 113–295, div. B, title I, §102(a), Dec. 19, 2014, 128 Stat. 4056; amended Pub. L. 114–113, div. Q, title III, §303(a)–(c), Dec. 18, 2015, 129 Stat. 3087; Pub. L. 115–97, title I, §11024(a), Dec. 22, 2017, 131 Stat. 2075; Pub. L. 115–141, div. U, title I, §101(o), title IV, §401(a)(129), (130), Mar. 23, 2018, 132 Stat. 1166, 1190.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Stephen Beck, Jr., ABLE Act of 2014, referred to in subsec. (d)(4), is div. B of Pub. L. 113–295, Dec. 19, 2014, 128 Stat. 4056, also known as the "Stephen Beck, Jr., Achieving a Better Life Experience Act of 2014". Section 103 of div. B of Pub. L. 113–295 is set out as a note under this section.
@@ -264,7 +266,9 @@ Subsec. (d)(3). Pub. L. 114–113, §303(b)(1), struck out "and State of residen
 
 Subsec. (d)(4). Pub. L. 114–113, §303(c)(1), substituted "section 103" for "section 4".
 
-Subsec. (e)(7). Pub. L. 114–113, §303(b)(2), struck out par. (7). Text read as follows: "The term 'contractingState' means a State without a qualified ABLE program which has entered into a contract with a State with a qualified ABLE program to provide residents of the contracting State access to a qualified ABLE program."
+Subsec. (e)(7). Pub. L. 114–113, §303(b)(2), struck out par. (7). Text read as follows: "The term 'contracting State' means a State without a qualified ABLE program which has entered into a contract with a State with a qualified ABLE program to provide residents of the contracting State access to a qualified ABLE program."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 
@@ -272,7 +276,7 @@ Amendment by section 101(o) of Pub. L. 115–141 effective as if included in the
 
 #### Effective Date of 2017 Amendment
 
-Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 22, 2017, see section 11024(c) of Pub. L. 115–97, set out as a note under section 25B of this title.
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 22, 2017, see section 11024(c)of Pub. L. 115–97, set out as a note under section 25B of this title.
 
 #### Effective Date of 2015 Amendment
 

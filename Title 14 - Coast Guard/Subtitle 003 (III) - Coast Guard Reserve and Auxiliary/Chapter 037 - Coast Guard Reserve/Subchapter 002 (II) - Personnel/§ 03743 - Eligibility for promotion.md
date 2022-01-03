@@ -20,7 +20,7 @@ In general.—The Commandant may provide that an officer may, upon the officer's
 
 Approval of request.—The Commandant shall approve a request under paragraph (1) only if—
 
-&emsp;&emsp;(A) the basis for the request is to allow an officer to complete a broadening assignment, advanced education, another assignment of significant value to the Coast Guard, a career progression requirement delayed by the assignment or education, or a qualifying personal or professional circumstance, as determined by the Commandant;
+&emsp;&emsp;(A) the basis for the request is to allow an officer to complete a broadening assignment,advanced education, another assignment of significant value to the Coast Guard, a career progression requirement delayed by the assignment or education, or a qualifying personal or professional circumstance, as determined by the Commandant;
 
 &emsp;&emsp;(B) the Commandant determines the exclusion from consideration is in the best interest of the Coast Guard; and
 

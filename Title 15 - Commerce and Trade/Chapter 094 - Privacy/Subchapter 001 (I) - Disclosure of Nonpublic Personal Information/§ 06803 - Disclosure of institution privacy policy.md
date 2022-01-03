@@ -88,11 +88,15 @@ A financial institution that—
 
 (Pub. L. 106–102, title V, §503, Nov. 12, 1999, 113 Stat. 1439; Pub. L. 109–351, title VI, §609, title VII, §728, Oct. 13, 2006, 120 Stat. 1983, 2003; Pub. L. 114–94, div. G, title LXXV, §75001, Dec. 4, 2015, 129 Stat. 1787.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (f). Pub. L. 114–94 added subsec. (f).
 
 <b>2006</b>—Pub. L. 109–351 designated concluding provisions of subsec. (a) as (b), inserted heading, substituted "Disclosures required by subsection (a)" for "Such disclosures", redesignated former subsec. (b) as (c), and added subsecs. (d) and (e).
+
+#### <b>Executive Documents</b>
 
 #### Termination of Trust Territory of the Pacific Islands
 

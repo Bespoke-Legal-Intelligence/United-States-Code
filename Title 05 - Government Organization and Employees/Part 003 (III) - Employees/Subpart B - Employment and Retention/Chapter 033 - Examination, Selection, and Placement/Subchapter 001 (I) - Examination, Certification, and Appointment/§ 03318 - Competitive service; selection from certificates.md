@@ -54,7 +54,7 @@ Collective bargaining obligations.—Nothing in this subsection limits any colle
 
 (d) When three or more names of preference eligibles are on a reemployment list appropriate for the position to be filled, a nominating or appointing authority may appoint from a register of eligibles established after examination only an individual who qualifies as a preference eligible under section 2108(3)(C)–(G) of this title.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 421; Pub. L. 90–83, §1(8), Sept. 11, 1967, 81 Stat. 197; Pub. L.95–454, title III, §307(d), title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1148, 1224; Pub. L. 114–137, §2(a), Mar. 18, 2016, 130 Stat. 310.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 421; Pub. L. 90–83, §1(8), Sept. 11, 1967, 81 Stat. 197; Pub. L. 95–454, title III, §307(d), title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1148, 1224; Pub. L. 114–137, §2(a), Mar. 18, 2016, 130 Stat. 310.)
 
 #### Repeal and Reenactment of Section
 
@@ -64,7 +64,7 @@ Collective bargaining obligations.—Nothing in this subsection limits any colle
 
 (a)
 
-In General.—An appointing authority shall select for appointment from the eligibles certified for appointment on a certificate furnished under section 3317(a), unless objection to one or more of the individuals certified is made to, and sustained by, the Director of the Office of Personnel Management or the head of an agency to which the Director has delegated examining authority under section 1104(a)(2), for proper and adequate reason under regulations prescribed by the Director.
+In General.—An appointing authority shall select for appointment from the eligibles certified for appointment on a certificate furnished under section 3317(a), unless objection toone or more of the individuals certified is made to, and sustained by, the Director of the Office of Personnel Management or the head of an agency to which the Director has delegated examining authority under section 1104(a)(2), for proper and adequate reason under regulations prescribed by the Director.
 
 (b)
 

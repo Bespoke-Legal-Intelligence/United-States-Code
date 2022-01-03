@@ -9,9 +9,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–254, div. B, title IV, §428(b), Oct. 5, 2018, 132 Stat. 3341, added item 42304.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Advisory Committee on Air Ambulance and Patient Billing
 

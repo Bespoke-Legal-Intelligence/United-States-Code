@@ -44,6 +44,8 @@ Definition.—In this section, the term "Executive agency" has the meaning given
 
 (Added Pub. L. 105–85, div. A, title III, §325(a), Nov. 18, 1997, 111 Stat. 1678; amended Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–375, div. A, title X, §1084(c)(3), Oct. 28, 2004, 118 Stat. 2061.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Subsec. (g). Pub. L. 108–375 substituted "Government Accountability Office" for "General Accounting Office".

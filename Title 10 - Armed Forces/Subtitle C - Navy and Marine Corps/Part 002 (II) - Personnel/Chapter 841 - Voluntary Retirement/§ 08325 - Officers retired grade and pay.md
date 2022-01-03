@@ -82,7 +82,7 @@ May 29, 1954, ch. 249, §14(f), 68 Stat. 163 (as applicable to officers retired 
 
 Title III of the Officer Personnel Act of 1947 authorizes temporary promotions to the grades of lieutenant through rear admiral. The purpose of §316(j) of that act (34 U.S.C. 410m) was to insure that each officer who is temporarily promoted under that Title, and who retires before he receives a permanent appointment in the grade in which he is serving, will be considered, for the purposes of the laws relating to retired grade and pay, to be serving in the grade he holds pursuant to his temporary appointment. Since §5001 of this title provides that an officer who holds a permanent appointment in one grade and a temporary appointment in a higher grade is considered as serving in the higher grade, a restatement of the substance of §316(j) is unnecessary and is omitted from subsection (a). The words "retired other than by reason of physical disability incurred in line of duty", in 34 U.S.C. 43g(d) and (f) and 34 U.S.C. 410r(g), are omitted as unnecessary, since this section relates only to officers who are voluntarily retired under this chapter. The words "basic pay to which he would be entitled if serving on active duty in the grade in which retired" are substituted for the words "active-duty pay with longevity credit of the rank with which retired" in 34 U.S.C. 410c(a), for the words "active-duty pay to which entitled at the time of retirement" in 34 U.S.C. 43g(d), and for the words "active-duty pay to which she would be entitled if serving, at the time of retirement, on active duty in the rank in which placed upon the retired list" in 34 U.S.C. 43g(f) and 34 U.S.C. 410r(g), to make clear the fact that the amount of retired pay is not permanently fixed at the time of retirement but is subject to change when rates of basic pay are changed, as provided in 34 U.S.C. 410q. The words "basic pay" are substituted for the words "active-duty pay" and the words "creditable for basic pay" are substituted for the words "for which entitled to credit in the computation of her active-duty pay", and for the words "for which entitled to credit in the computation of their pay while on active duty" to conform to the terminology used in the Career Compensation Act of 1949 (37 U.S.C. 231 et seq.)
 
-Unlike provisions of law authorizing retirement on various other grounds, R.S. 1443, which provides for the retirement of officers on their own application after 40 years of service, contains no provisions as to retired pay. R.S. 1588 provided, inter alia, that officers so retired should received retired pay at the rate of 75 percent of the sea pay of their respective grades, but that section was expressly repealed by §531(a)(7) of the Career Compensation Act of 1949, leaving no specific provision for the retired pay of officers retired under R.S. 1443. It would be absurd to assume, however, that Congress intended that an officer having 40 years of service should be retired without pay, when he could have been retired with pay at any time within the preceding 20 years. By the repeal of R.S. 1588 Congress intended merely to remove obsolete and superseded provisions as to retirement at age 62 and retirement after 45 years of service, references to sea pay, and provisions, inconsistent with later law, for half pay for officers retired for other reasons. Congress intended the retired pay of officers retired after 40 years of service to be computed according to the formula prescribed generally for retired officers, other than for officers retired by reason of physical disability, and this section is worded accordingly.
+Unlike provisions of law authorizing retirement on various other grounds, R.S. 1443, which provides for theretirement of officers on their own application after 40 years of service, contains no provisions as to retired pay. R.S. 1588 provided, inter alia, that officers so retired should received retired pay at the rate of 75 percent of the sea pay of their respective grades, but that section was expressly repealed by §531(a)(7) of the Career Compensation Act of 1949, leaving no specific provision for the retired pay of officers retired under R.S. 1443. It would be absurd to assume, however, that Congress intended that an officer having 40 years of service should be retired without pay, when he could have been retired with pay at any time within the preceding 20 years. By the repeal of R.S. 1588 Congress intended merely to remove obsolete and superseded provisions as to retirement at age 62 and retirement after 45 years of service, references to sea pay, and provisions, inconsistent with later law, for half pay for officers retired for other reasons. Congress intended the retired pay of officers retired after 40 years of service to be computed according to the formula prescribed generally for retired officers, other than for officers retired by reason of physical disability, and this section is worded accordingly.
 
 Subsection (b) is added for clarity. With respect to officers appointed under §§5231 or 5232 of this title it represents a necessary inference from 34 U.S.C. 410o and 623b(e), codified in §5233 of this title.
 
@@ -103,6 +103,8 @@ Act
 \[No source\].
 
 The reference to section 6323 is deleted, since it is no longer appropriate to include in this section officers retired under section 6323.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -152,9 +154,11 @@ Pub. L. 96–342, §813(d)(3)(B), designated existing provisions as subpar. (A),
 
 Subsecs. (a)(2), (b)(2). Pub. L. 85–422 substituted "that may be credited to him under section 1405 of this title" for "creditable for basic pay".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 1981 Amendment
 
@@ -170,7 +174,7 @@ Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 
 
 #### Effective Date of 1958 Amendment
 
-Amendment by Pub. L. 85–422 effective June 1, 1958, see section 9 of Pub. L. 85–422.
+Amendment by Pub. L. 85–422 effective June 1, 1958, see section 9 of Pub. L. 85–422, May 20, 1958, 72 Stat. 130.
 
 #### Recomputation of Retired Pay of Admirals and Vice Admirals
 

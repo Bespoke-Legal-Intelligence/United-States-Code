@@ -22,7 +22,7 @@ Pub. L. 107–228, div. B, title XIII, §1302, Sept. 30, 2002, 116 Stat. 1435, p
 
 In General.—For the purpose of enhancing the nonproliferation and export control capabilities of friendly countries, of the amount authorized to be appropriated for fiscal year 2003 by section 585 \[586\] of the Foreign Assistance Act of 1961 (22 U.S.C. 2349bb et seq.) \[22 U.S.C. 2349bb–4\], the Secretary is authorized to make available—
 
-&emsp;"(1) $5,000,000 for the procurement and provision of nuclear, chemical, and biological detection systems, including spectroscopic and pulse echo technologies; and
+&emsp;"(1) $5,000,000 for the procurement and provision of nuclear, chemical, and biological detection systems,including spectroscopic and pulse echo technologies; and
 
 &emsp;"(2) $10,000,000 for the procurement and provision of x-ray systems capable of imaging sea-cargo containers.
 

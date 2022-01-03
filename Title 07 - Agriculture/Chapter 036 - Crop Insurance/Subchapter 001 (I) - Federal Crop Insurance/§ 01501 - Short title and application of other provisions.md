@@ -4,6 +4,8 @@ This subchapter may be cited as the "Federal Crop Insurance Act". Except as othe
 
 (Feb. 16, 1938, ch. 30, title V, §501, 52 Stat. 72; Pub. L. 110–234, title XII, §12033(c), May 22, 2008, 122 Stat. 1405; Pub. L. 110–246, §4(a), title XII, §12033(c), June 18, 2008, 122 Stat. 1664, 2167.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 "Titles I to IV, inclusive," and "such titles", referred to in text, are references to titles I to IV of act Feb. 16, 1938, ch. 30, 52 Stat. 31, as amended, known as the Agricultural Adjustment Act of 1938, which is classified principally to chapter 35 (§1281 et seq.) of this title. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
@@ -15,6 +17,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 #### Amendments
 
 <b>2008</b>—Pub. L. 110–246, §12033(c), inserted section catchline and substituted "subchapter" for "chapter" wherever appearing in text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 
@@ -78,7 +82,7 @@ Pub. L. 106–224, §1(a), June 20, 2000, 114 Stat. 358, provided that: "This Ac
 
 #### Short Title of 1994 Amendment
 
-Pub. L. 103–354, title I, §101(a), Oct. 13, 1994, 108 Stat. 3179, provided that: "This title \[enacting sections 1433f, 1515, 1521, and 2008f of this title, amending sections 1441–2, 1444–2, 1444f, 1445b–3a, 1502 to 1509, 1511, 1513, 1516, and 1518 to 1520 of this title, sections 901 and 902 of Title 2, The Congress, and section 1014 of Title 18, Crimes and Criminal Procedure, repealing sections 1446i and 1508a of this title, enacting provisions set out as notes under sections 1502, 1506, and 1508 of this title and sections 901and 902 of Title 2, and repealing provisions set out as a note under section 1421 of this title\] may be cited as the 'Federal Crop Insurance Reform Act of 1994'."
+Pub. L. 103–354, title I, §101(a), Oct. 13, 1994, 108 Stat. 3179, provided that: "This title \[enacting sections 1433f, 1515, 1521, and 2008f of this title, amending sections 1441–2, 1444–2, 1444f, 1445b–3a, 1502 to 1509, 1511, 1513, 1516, and 1518 to 1520 of this title, sections 901 and 902 of Title 2, The Congress, and section 1014 of Title 18, Crimes and Criminal Procedure, repealing sections 1446i and 1508a of this title, enacting provisions set out as notes under sections 1502, 1506, and 1508 of this title and sections 901 and 902 of Title 2, and repealing provisions set out as a note under section 1421 of this title\] may be cited as the 'Federal Crop Insurance Reform Act of 1994'."
 
 #### Short Title of 1980 Amendment
 

@@ -18,6 +18,8 @@ The Bureau shall determine whether tolerances for numerical disclosures other th
 
 (Pub. L. 90–321, title I, §121, May 29, 1968, 82 Stat. 152; Pub. L. 93–495, title III, §307(c), (d), title IV, §409, Oct. 28, 1974, 88 Stat. 1516, 1519; Pub. L. 94–205, §11, Jan. 2, 1976, 89 Stat. 1159; Pub. L. 96–221, title VI, §611, Mar. 31, 1980, 94 Stat. 174; Pub. L. 104–29, §3(b), Sept. 30, 1995, 109 Stat. 273; Pub. L. 111–203, title X, §1100A(2), July 21, 2010, 124 Stat. 2107.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1602(f) of this title, referred to in subsec. (b), was redesignated section 1602(g) of this title by Pub. L. 111–203, title X, §1100A(1)(A), July 21, 2010, 124 Stat. 2107.
@@ -26,7 +28,7 @@ Section 1602(f) of this title, referred to in subsec. (b), was redesignated sect
 
 <b>2010</b>—Subsecs. (b) to (d). Pub. L. 111–203 substituted "Bureau" for "Board" wherever appearing.
 
-<b>1995</b>—Subsec. (c). Pub. L. 104–29 inserted at end "In the case of any consumer credit transaction a portion of the interest on which is determined on a per diembasis and is to be collected upon the consummation of such transaction, any disclosure with respect to such portion of interest shall be deemed to be accurate for purposes of this subchapter if the disclosure is based on information actually known to the creditor at the time that the disclosure documents are being prepared for the consummation of the transaction."
+<b>1995</b>—Subsec. (c). Pub. L. 104–29 inserted at end "In the case of any consumer credit transaction a portion of the interest on which is determined on a per diem basis and is to be collected upon the consummation of such transaction, any disclosure with respect to such portion of interest shall be deemed to be accurate for purposes of this subchapter if the disclosure is based on information actually known to the creditor at the time that the disclosure documents are being prepared for the consummation of the transaction."
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–221 substituted provisions respecting to which obligor duty of creditor or lessor, where one or more than one obligor is involved, is owed, for provisions setting forth clear and conspicuous disclosure requirements for creditors to persons extended consumer credit.
 
@@ -41,6 +43,8 @@ Subsecs. (c), (d). Pub. L. 96–221 added subsecs. (c) and (d).
 Subsec. (b). Pub. L. 93–495, §307(d), inserted reference to part D of this subchapter.
 
 Subsec. (c). Pub. L. 93–495, §409, added subsec (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

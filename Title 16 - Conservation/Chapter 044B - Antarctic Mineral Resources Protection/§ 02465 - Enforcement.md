@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A violation of this chapter or any regulation promulgated under this chapter is deemed to be a violation of the Antarctic Marine Living Resources Convention Act (16 U.S.C. 2431–2444) and shall be enforced under that Act by the Under Secretary or another Federal official to whom the Under Secretary has delegated this responsibility.
+A violation of this chapter or any regulation promulgated under this chapter is deemed to bea violation of the Antarctic Marine Living Resources Convention Act (16 U.S.C. 2431–2444) and shall be enforced under that Act by the Under Secretary or another Federal official to whom the Under Secretary has delegated this responsibility.
 
 #### (b) Penalty
 
@@ -13,6 +13,8 @@ If the Under Secretary determines that a person has violated section 2463 of thi
 &emsp;(2) the Secretary of the Interior shall refuse to issue a patent under the mining laws of the United States, or a lease under the laws of the United States related to mineral or geothermal leasing, to any such person who attempts to perfect such patent or lease application after the Under Secretary has made such determination.
 
 (Pub. L. 101–594, §5, formerly §6, Nov. 16, 1990, 104 Stat. 2977; renumbered §5, Pub. L. 104–227, title II, §202(c), Oct. 2, 1996, 110 Stat. 3044.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

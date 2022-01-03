@@ -90,6 +90,8 @@ In subsection (g), the word "perform" is substituted for the words "be charged w
 
 The change is necessary to make subsection (d) coextensive with subsection (c), to which it was a proviso in the source law, the Act of June 3, 1916, chapter 134, section 5 (1st sentence of 2d par.) (formerly 10 U.S.C. 38 (1st sentence of 2d par.)).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–337 renumbered section 8021 of this title as this section.
@@ -103,6 +105,8 @@ Subsec. (b)(2). Pub. L. 99–433, §521(a)(6)(B), inserted "and" after the semic
 <b>1967</b>—Pub. L. 90–168 amended section generally, and among other changes, redesignated subsec. (e) as (h) and increased from seven to eight the number of subsecs. in the section and in such subsecs. (a)–(h) restated with certain changes the existing authority relating to the Staff Committee on Air Force Reserve Policy within the Office of the Secretary of the Air Force, reduced the membership of the Committee from 21 to 15, reduced the grade requirements so as to permit inclusion of colonels, and provided that the Committee review and comment on all major policies affecting Air Force Reserve matters and that the Committee comments accompany any final submission to the Chief of Staff and Assistant Secretary responsible for Reserve matters.
 
 <b>1958</b>—Subsec. (d). Pub. L. 85–861 substituted "affecting the organization, distribution, training, appointment, assignment, promotion, or discharge of members of the Air Force Reserve and those of either" for "affecting the Air Force Reserve and either".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1967 Amendment
 

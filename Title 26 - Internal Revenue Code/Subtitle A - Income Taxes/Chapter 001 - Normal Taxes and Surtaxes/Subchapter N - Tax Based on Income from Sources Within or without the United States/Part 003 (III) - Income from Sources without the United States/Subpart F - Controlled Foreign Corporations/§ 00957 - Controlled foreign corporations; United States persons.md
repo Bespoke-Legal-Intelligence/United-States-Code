@@ -32,6 +32,8 @@ For purposes of this subpart, the term "United States person" has the meaning as
 
 (Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1017; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title XII, §§1221(b)(3)(C), 1222(a), 1224(a), 1273(a), Oct. 22, 1986, 100 Stat. 2553, 2556, 2558, 2595; Pub. L. 108–357, title VIII, §908(c)(5), Oct. 22, 2004, 118 Stat. 1656; Pub. L. 115–97, title I, §14101(e)(2), Dec. 22, 2017, 131 Stat. 2192; Pub. L. 115–141, div. U, title IV, §401(a)(164), Mar. 23, 2018, 132 Stat. 1192.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (b). Pub. L. 115–141 substituted "contracts not described in section 953(e)(2)" for "contracts described in section 953(a)(1)".
@@ -54,15 +56,17 @@ Subsec. (c). Pub. L. 99–514, §1273(a), added par. (2) and concluding provisio
 
 "(3) with respect to a corporation organized under the laws of any other possession of the United States, such term does not include an individual who is a bona fide resident of any such other possession and whose income derived from sources within possessions of the United States is not, by reason of section 931(a), includible in gross income under this subtitle for the taxable year."
 
-Pub. L. 99–514, §1224(a), redesignated subsec. (d) as (c) and struck out former subsec. (c) which provided circumstances under which for purposes of this subpart, the term "controlled foreign corporation" would not include certain corporations created or organized in Puerto Rico or a possession of the United States orunder the laws of Puerto Rico or a possession of the United States.
+Pub. L. 99–514, §1224(a), redesignated subsec. (d) as (c) and struck out former subsec. (c) which provided circumstances under which for purposes of this subpart, the term "controlled foreign corporation" would not include certain corporations created or organized in Puerto Rico or a possession of the United States or under the laws of Puerto Rico or a possession of the United States.
 
 Subsec. (d). Pub. L. 99–514, §1224(a), redesignated subsec. (d) as (c).
 
 <b>1976</b>—Subsec. (c) Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2017 Amendment
 
-Amendment by Pub. L. 115–97 applicable to distributions made after Dec. 31, 2017, see section 14101(f) of Pub. L. 115–97, set out as an Effective Date note under section 245A of this title.
+Amendment by Pub. L. 115–97 applicable to distributions made after Dec. 31, 2017, see section 14101(f) ofPub. L. 115–97, set out as an Effective Date note under section 245A of this title.
 
 #### Effective Date of 2004 Amendment
 

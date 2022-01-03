@@ -22,7 +22,7 @@ Information.—To prevent repeated delays of a misidentified passenger or other 
 
 &emsp;&emsp;(A) ensure that the records maintained under this subsection contain information determined by the Secretary to authenticate the identity of such a passenger or individual;
 
-&emsp;&emsp;(B) furnish to the Transportation Security Administration, United States Customs and Border Protection, or any other appropriate office or component of the Department, uponrequest, such information as may be necessary to allow such office or component to assist air carriers in improving their administration of the advanced passenger prescreening system and reduce the number of false positives; and
+&emsp;&emsp;(B) furnish to the Transportation Security Administration, United States Customs and Border Protection, or any other appropriate office or component of the Department, upon request, such information as may be necessary to allow such office or component to assist air carriers in improving their administration of the advanced passenger prescreening system and reduce the number of false positives; and
 
 &emsp;&emsp;(C) require air carriers and foreign air carriers take action to identify passengers determined, under the process established under subsection (a), to have been wrongly identified.
 
@@ -49,6 +49,8 @@ Handling of personally identifiable information.—The Secretary, in conjunction
 Initiation of redress process at airports.—The Office shall establish at each airport at which the Department has a significant presence a process to provide information to air carrier passengers to begin the redress process established pursuant to subsection (a).
 
 (Added Pub. L. 110–53, title XVI, §1606(a), Aug. 3, 2007, 121 Stat. 482; amended Pub. L. 115–254, div. K, title I, §1991(d)(22), Oct. 5, 2018, 132 Stat. 3637.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

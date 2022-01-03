@@ -17,6 +17,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Pub. L. 115–97, title I, §13309(b), Dec. 22, 2017, 131 Stat. 2131, added items 1061 and 1062 and struck out former item 1061 "Cross references".

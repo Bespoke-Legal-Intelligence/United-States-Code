@@ -16,7 +16,7 @@ Agreement Requirements.—A citizen of the United States appointed as a cadet at
 
 &emsp;&emsp;(C) a Coast Guard medical certificate;
 
-&emsp;(4) apply for, and accept if tendered, an appointment as a commissioned officer in the Navy Reserve (including the Strategic Sealift Officer Program, Navy Reserve), the Coast Guard Reserve, or any other reserve component of an armed force of the United States, and, if tendered the appointment, to serve, meet the participation requirements, and maintain active status in good standing, as determined by the program manager of the appropriate military service, for at least 8 years after the date of commissioning;
+&emsp;(4) apply for, and accept if tendered, an appointment as a commissioned officer in theNavy Reserve (including the Strategic Sealift Officer Program, Navy Reserve), the Coast Guard Reserve, or any other reserve component of an armed force of the United States, and, if tendered the appointment, to serve, meet the participation requirements, and maintain active status in good standing, as determined by the program manager of the appropriate military service, for at least 8 years after the date of commissioning;
 
 &emsp;(5) serve the foreign and domestic commerce and the national defense of the United States for at least 5 years after graduation from the Academy—
 
@@ -88,7 +88,7 @@ In general.—Subject to any otherwise applicable restrictions on disclosure in 
 
 &emsp;(2)
 
-Information to be provided.—A report or notice under paragraph (1) shall identify any graduate determined to have failed to comply with service obligation requirements and provide all required information as to why such graduate failed to comply.
+Information to be provided.—A report or notice under paragraph (1) shall identifyany graduate determined to have failed to comply with service obligation requirements and provide all required information as to why such graduate failed to comply.
 
 &emsp;(3)
 

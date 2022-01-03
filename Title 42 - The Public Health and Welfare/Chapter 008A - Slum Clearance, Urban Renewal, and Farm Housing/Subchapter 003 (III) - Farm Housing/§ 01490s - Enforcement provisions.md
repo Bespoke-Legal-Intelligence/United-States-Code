@@ -70,13 +70,15 @@
 
 #### (A) Judicial intervention
 
-&emsp;&emsp;If a person or entity fails to comply with a final determination by the Secretary imposing a civil monetary penalty under this subsection, the Secretary may request the Attorney General of the United States to bring an action in an appropriate United States district court to obtain a monetary judgment against such individual or entity and such other relief as may be available. The monetary judgment may, in the court's discretion, include the attorney's fees and other expenses incurred by the United States in connection with the action.
+&emsp;&emsp;If a person or entity fails to comply with a final determination by the Secretary imposing a civil monetary penalty under this subsection, the Secretary may request the Attorney General of the United States to bring an action in an appropriate United States district court to obtain a monetary judgment against such individual or entityand such other relief as may be available. The monetary judgment may, in the court's discretion, include the attorney's fees and other expenses incurred by the United States in connection with the action.
 
 #### (B) Reviewability of determination
 
 &emsp;&emsp;In an action under this paragraph, the validity and appropriateness of a determination by the Secretary imposing the penalty shall not be subject to review.
 
 (July 15, 1949, ch. 338, title V, §543, as added Pub. L. 106–569, title VII, §708(a), Dec. 27, 2000, 114 Stat. 3016.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

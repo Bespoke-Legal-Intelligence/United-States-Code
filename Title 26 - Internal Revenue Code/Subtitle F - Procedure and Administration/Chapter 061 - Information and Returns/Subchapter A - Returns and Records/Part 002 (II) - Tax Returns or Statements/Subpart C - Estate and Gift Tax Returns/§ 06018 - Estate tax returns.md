@@ -24,6 +24,8 @@ If the executor is unable to make a complete return as to any part of the gross 
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 739; Pub. L. 89–809, title I, §108(g), Nov. 13, 1966, 80 Stat. 1574; Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XX, §2001(c)(1)(J), Oct. 4, 1976, 90 Stat. 1834, 1852; Pub. L. 97–34, title IV, §401(a)(2)(B), Aug. 13, 1981, 95 Stat. 299; Pub. L. 98–369, div. A, title V, §544(b)(3), July 18, 1984, 98 Stat. 894; Pub. L. 100–647, title I, §1011A(g)(12), Nov. 10, 1988, 102 Stat. 3482; Pub. L. 101–239, title VII, §7304(b)(2)(B), Dec. 19, 1989, 103 Stat. 2353; Pub. L. 101–508, title XI, §11801(a)(43), (c)(19)(C), Nov. 5, 1990, 104 Stat. 1388–521, 1388–528; Pub. L. 105–34, title V, §501(a)(1)(C), title X, §1073(b)(4), Aug. 5, 1997, 111 Stat. 845, 948; Pub. L. 107–16, title V, §542(b)(1), June 7, 2001, 115 Stat. 81; Pub. L. 111–312, title III, §§301(a), 303(b)(3), Dec. 17, 2010, 124 Stat. 3300, 3303.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 2521 of this title, referred to in subsec. (a)(3)(B), was repealed by section 2001(b)(3) of Pub. L. 94–455, applicable to gifts made after Dec. 31, 1976.
@@ -60,7 +62,7 @@ Return by executor.—The return which the executor is required to file under th
 
 &emsp;"(2)
 
-Return by plan administrator.—The plan administrator of an employee stock ownership plan orthe eligible worker-owned cooperative, as the case may be, shall make a return with respect to that portion of the tax imposed by section 2001 which such plan or cooperative is required to pay under section 2210(b)."
+Return by plan administrator.—The plan administrator of an employee stock ownership plan or the eligible worker-owned cooperative, as the case may be, shall make a return with respect to that portion of the tax imposed by section 2001 which such plan or cooperative is required to pay under section 2210(b)."
 
 <b>1988</b>—Subsec. (a)(5). Pub. L. 100–647 added par. (5).
 
@@ -79,6 +81,8 @@ Subsec. (a)(3), (4). Pub. L. 94–455, §2001(c)(1)(J)(iii), added pars. (3) and
 Subsec. (b). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
 <b>1966</b>—Subsec. (a)(2). Pub. L. 89–809 substituted "$30,000" for "$2,000".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

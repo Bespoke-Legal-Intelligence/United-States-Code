@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(A) in the case of an in-person interview with the taxpayer relating to the determination of any tax, an explanation of the audit process and the taxpayer's rights under such process, or
 
-&emsp;&emsp;(B) in the case of an in-person interview with the taxpayer relating to the collectionof any tax, an explanation of the collection process and the taxpayer's rights under such process.
+&emsp;&emsp;(B) in the case of an in-person interview with the taxpayer relating to the collection of any tax, an explanation of the collection process and the taxpayer's rights under such process.
 
 #### (2) Right of consultation
 
@@ -38,9 +38,13 @@ This section shall not apply to criminal investigations or investigations relati
 
 (Added Pub. L. 100–647, title VI, §6228(a), Nov. 10, 1988, 102 Stat. 3731, §7520; renumbered §7521, Pub. L. 101–239, title VII, §7816(u)(1), Dec. 19, 1989, 103 Stat. 2423.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Another section 7521 was renumbered section 7522 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

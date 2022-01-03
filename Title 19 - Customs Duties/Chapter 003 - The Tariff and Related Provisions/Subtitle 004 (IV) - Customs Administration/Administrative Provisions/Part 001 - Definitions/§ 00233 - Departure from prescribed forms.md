@@ -4,9 +4,11 @@ In cases where the forms of official documents, as prescribed by title 34 of the
 
 (R.S. §2769.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-Title 34 of the Revised Statutes, referred to in text, was in the original "this Title", meaning title 34 of the Revised Statutes, consisting of R.S. §§2517 to 3129. For complete classification of R.S. §§2517 to 3129 to the Code, see Tables.
+Title 34 of the Revised Statutes, referred to in text, was in the original "this Title", meaning title 34 of theRevised Statutes, consisting of R.S. §§2517 to 3129. For complete classification of R.S. §§2517 to 3129 to the Code, see Tables.
 
 #### Codification
 

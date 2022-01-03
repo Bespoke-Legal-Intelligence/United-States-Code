@@ -2,7 +2,7 @@
 
 #### (a) State authority for new systems
 
-A State shall receive only 80 percent of the allotment that the State is otherwise entitled toreceive under section 300j–12 of this title (relating to State loan funds) unless the State has obtained the legal authority or other means to ensure that all new community water systems and new nontransient, noncommunity water systems commencing operation after October 1, 1999, demonstrate technical, managerial, and financial capacity with respect to each national primary drinking water regulation in effect, or likely to be in effect, on the date of commencement of operations.
+A State shall receive only 80 percent of the allotment that the State is otherwise entitled to receive under section 300j–12 of this title (relating to State loan funds) unless the State has obtained the legal authority or other means to ensure that all new community water systems and new nontransient, noncommunity water systems commencing operation after October 1, 1999, demonstrate technical, managerial, and financial capacity with respect to each national primary drinking water regulation in effect, or likely to be in effect, on the date of commencement of operations.
 
 #### (b) Systems in significant noncompliance
 
@@ -64,7 +64,7 @@ A State shall receive only 80 percent of the allotment that the State is otherwi
 
 #### (4) Review
 
-&emsp;The decisions of the State under this section regarding any particular public water system are not subject to review by the Administrator and may not serve as the basis for withholding funds under section 300j–12 of this title.
+&emsp;The decisions of the State under this section regarding any particular public water systemare not subject to review by the Administrator and may not serve as the basis for withholding funds under section 300j–12 of this title.
 
 #### (d) Federal assistance
 
@@ -148,7 +148,7 @@ Based on information obtained under subsection (c)(3), the Administrator shall, 
 
 #### (2) National capacity development clearinghouse
 
-&emsp;The Administrator shall establish a national public water system capacity developmentclearinghouse to receive and disseminate information with respect to developing, improving, and maintaining financial and managerial capacity at public water systems. The Administrator shall ensure that the clearinghouse does not duplicate other federally supported clearinghouse activities.
+&emsp;The Administrator shall establish a national public water system capacity development clearinghouse to receive and disseminate information with respect to developing, improving, and maintaining financial and managerial capacity at public water systems. The Administrator shall ensure that the clearinghouse does not duplicate other federally supported clearinghouse activities.
 
 #### (3) Capacity development techniques
 
@@ -163,6 +163,8 @@ Based on information obtained under subsection (c)(3), the Administrator shall, 
 &emsp;No portion of any funds made available under this subsection may be used for lobbying expenses.
 
 (July 1, 1944, ch. 373, title XIV, §1420, as added Pub. L. 104–182, title I, §119, Aug. 6, 1996, 110 Stat. 1647; amended Pub. L. 115–270, title II, §2012, Oct. 23, 2018, 132 Stat. 3849.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

@@ -8,6 +8,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Pub. L. 101–508, title XI, §11213(e)(2), Nov. 5, 1990, 104 Stat. 1388–436, struck out item 4283 "Reduction in aviation-related taxes in certain cases".

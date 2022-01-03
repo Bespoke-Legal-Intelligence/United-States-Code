@@ -16,7 +16,7 @@ Annual Certification.—The President shall annually certify in writing to the c
 
 (b)
 
-Additional Report Matters Following Certain Certifications.—If in any year before fiscal year 2020 the President certifies under subsection (a) that plans to modernize or replacestrategic delivery systems are not fully funded, the President shall include in the next annual report transmitted to Congress under section 1043 of the National Defense Authorization Act for Fiscal Year 2012 the following:
+Additional Report Matters Following Certain Certifications.—If in any year before fiscal year 2020 the President certifies under subsection (a) that plans to modernize or replace strategic delivery systems are not fully funded, the President shall include in the next annual report transmitted to Congress under section 1043 of the National Defense Authorization Act for Fiscal Year 2012 the following:
 
 &emsp;(1) A determination of whether or not the lack of full funding will result in a loss of military capability when compared with the November 2010 update to the plan referred to in section 1251 of the National Defense Authorization Act for Fiscal Year 2010.
 
@@ -60,6 +60,8 @@ Definitions.—In this section:
 
 (Added Pub. L. 112–239, div. A, title X, §1035(a), Jan. 2, 2013, 126 Stat. 1923; amended Pub. L. 112–240, title VIII, §801(a), Jan. 2, 2013, 126 Stat. 2369; Pub. L. 115–232, div. A, title X, §1081(a)(6), Aug. 13, 2018, 132 Stat. 1983.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1251 of the National Defense Authorization Act for Fiscal Year 2010, referred to in subsecs. (a) and (b)(1), is section 1251 of Pub. L. 111–84, which is set out as a note under section 2523 of Title 50, War and National Defense.
@@ -71,6 +73,8 @@ Section 1043 of the National Defense Authorization Act for Fiscal Year 2012, ref
 <b>2018</b>—Subsec. (a). Pub. L. 115–232 substituted "The" for "Beginning in fiscal year 2013, the" in introductory provisions.
 
 <b>2013</b>—Subsec. (c)(3). Pub. L. 112–240 substituted "whether the Russian Federation" for "that the Russian Federation" and inserted "strategic" before "arms control obligations".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2013 Amendment
 
@@ -107,6 +111,8 @@ Pub. L. 113–66, div. A, title X, §1062(a), Dec. 26, 2013, 127 Stat. 866, prov
 &emsp;"(3) maintain and modernize the nuclear weapons production capabilities that will ensure the safety, security, reliability, and performance of the nuclear forces of the United States at the levels required by the New START Treaty; and
 
 &emsp;"(4) underpin deterrence by meeting the requirements for hedging against possible international developments or technical problems, in accordance with the policies of the United States."
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Authority Pursuant to Section 1035 of the National Defense Authorization Act for Fiscal Year 2013
 

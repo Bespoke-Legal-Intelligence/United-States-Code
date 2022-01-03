@@ -4,6 +4,8 @@ Nothing in this chapter contained shall be construed as obliging the United Stat
 
 (R.S. §5578.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §5578 derived from act Aug. 18, 1856, ch. 164, §4, 11 Stat. 120.

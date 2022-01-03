@@ -8,9 +8,13 @@ Appropriations made under this authorization, within the limit prescribed in suc
 
 (Aug. 9, 1939, ch. 615, title IV, §415, 53 Stat. 1289; Sept. 21, 1944, ch. 412, title VII, §701(b), 58 Stat. 741.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1944</b>—Act Sept. 21, 1944, added last par.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

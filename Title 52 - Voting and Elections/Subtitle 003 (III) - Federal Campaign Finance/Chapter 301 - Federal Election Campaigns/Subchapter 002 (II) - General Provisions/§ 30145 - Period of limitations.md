@@ -1,6 +1,6 @@
 ### §30145. Period of limitations
 
-(a) No person shall be prosecuted, tried, or punished for any violation of subchapter I ofthis chapter, unless the indictment is found or the information is instituted within 5 years after the date of the violation.
+(a) No person shall be prosecuted, tried, or punished for any violation of subchapter I of this chapter, unless the indictment is found or the information is instituted within 5 years after the date of the violation.
 
 (b) Notwithstanding any other provision of law—
 

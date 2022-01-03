@@ -42,7 +42,7 @@ In this section, the term "child welfare agency" means—
 
 #### (h) Definition of education terms
 
-In this section, the terms "elementary school", "local educational agency", "secondary school", and "State educational agency" have the meanings given to those terms in section 7801 of title 20.
+In this section, the terms "elementary school", "local educational agency", "secondaryschool", and "State educational agency" have the meanings given to those terms in section 7801 of title 20.
 
 (Pub. L. 109–248, title I, §153, July 27, 2006, 120 Stat. 610; Pub. L. 114–95, title IX, §9215(b), Dec. 10, 2015, 129 Stat. 2166.)
 

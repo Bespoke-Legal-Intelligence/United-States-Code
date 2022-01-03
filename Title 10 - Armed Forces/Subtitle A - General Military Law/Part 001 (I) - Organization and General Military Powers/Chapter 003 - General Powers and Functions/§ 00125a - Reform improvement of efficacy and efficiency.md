@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary of Defense shall take such action as is necessary to reform the Department of Defense to improve the efficacy and efficiency of the Department, and to improve the ability of the Department to prioritize among and assess the costs and benefits of covered elements of reform.
+In General.—The Secretary of Defense shall take such action as is necessary to reformthe Department of Defense to improve the efficacy and efficiency of the Department, and to improve the ability of the Department to prioritize among and assess the costs and benefits of covered elements of reform.
 
 (b)
 

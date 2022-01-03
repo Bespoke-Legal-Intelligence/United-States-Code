@@ -26,7 +26,7 @@ Section 1702, Pub. L. 97–300, title IV, §432, Oct. 13, 1982, 96 Stat. 1376, r
 
 Section 1703, Pub. L. 97–300, title IV, §433, Oct. 13, 1982, 96 Stat. 1376; Pub. L. 102–367, title VII, §702(a)(13), Sept. 7, 1992, 106 Stat. 1112, related to experimental and developmental projects and coordination with other programs.
 
-Section 1703a, Pub. L. 97–300, title IV, §433A, as added Pub. L. 101–645, title VI, §622, Nov. 29, 1990, 104 Stat.4744; amended Pub. L. 102–367, title VII, §702(a)(14), Sept. 7, 1992, 106 Stat. 1112, related to Job Corps centers for homeless families.
+Section 1703a, Pub. L. 97–300, title IV, §433A, as added Pub. L. 101–645, title VI, §622, Nov. 29, 1990, 104 Stat. 4744; amended Pub. L. 102–367, title VII, §702(a)(14), Sept. 7, 1992, 106 Stat. 1112, related to Job Corps centers for homeless families.
 
 Section 1704, Pub. L. 97–300, title IV, §434, Oct. 13, 1982, 96 Stat. 1378, related to advisory boards and committees.
 

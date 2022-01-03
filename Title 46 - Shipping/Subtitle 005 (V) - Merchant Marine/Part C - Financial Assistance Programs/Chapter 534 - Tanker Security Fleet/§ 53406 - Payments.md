@@ -6,7 +6,7 @@ Annual Payment.—Subject to the availability of appropriations for such purpose
 
 (b)
 
-Certification Required for Payment.—As a condition of receiving payment under this section for a fiscal year for a vessel, the program participant shall certify, in accordance with regulations issued by the Secretary, that the vessel has been and will be operated in accordance with section 53405(a) of this title for at least 320 days during the fiscal year. Days during which the vessel is drydocked, surveyed, inspected, or repaired shall be considered days of operation for purposes of this subsection.
+Certification Required for Payment.—As a condition of receiving payment under this section for a fiscal year for a vessel, the programparticipant shall certify, in accordance with regulations issued by the Secretary, that the vessel has been and will be operated in accordance with section 53405(a) of this title for at least 320 days during the fiscal year. Days during which the vessel is drydocked, surveyed, inspected, or repaired shall be considered days of operation for purposes of this subsection.
 
 (c)
 
@@ -49,10 +49,4 @@ Limitation on application.—Paragraph (1) shall not apply to a program particip
 Participates in a noncontiguous trade defined.—In this subsection the term "participates in a noncontiguous domestic trade" means directly or indirectly owns, charters, or operates a vessel engaged in transportation of cargo between a point in the contiguous 48 States and a point in Alaska, Hawaii, or Puerto Rico, other than a point in Alaska north of the Arctic Circle.
 
 (Added Pub. L. 116–283, div. C, title XXXV, §3511(a), Jan. 1, 2021, 134 Stat. 4415.)
-
-#### <b>Statutory Notes and Related Subsidiaries</b>
-
-#### Effective Date
-
-Section effective upon completion and submission to Congress of report on United States-flagged fuel tanker vessel capacity and upon publication of certification related to program for United States-flagged fuel tanker vessels, see section 3511(d) of Pub. L. 116–283, set out as a note under section 53401 of this title.
 

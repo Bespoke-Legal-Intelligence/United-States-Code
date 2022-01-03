@@ -24,7 +24,7 @@ Historical and Revision Notes
 
 June 3, 1916, ch. 134, §91, 39 Stat. 206.
 
-In subsection (a), the words "that of" are substituted for the words "the system which is or may be prescribed for". The word "Army" is substituted for the words "Regular Army", since the Army is the category for which the discipline and training is prescribed and the Regular Army is a personnel category for which no discipline and training is prescribed. Similarly, the words "Air Force" are used instead of the words "Regular Air Force".
+In subsection (a), the words "that of" are substituted for the words "the system which is or may be prescribed for". The word "Army" is substituted for the words "Regular Army", since the Army is the category for which the discipline and training is prescribed and the Regular Army is a personnel category for which no discipline and training is prescribed. Similarly, thewords "Air Force" are used instead of the words "Regular Air Force".
 
 #### <b>Editorial Notes</b>
 
@@ -38,7 +38,7 @@ In subsection (a), the words "that of" are substituted for the words "the system
 
 #### Pilot Program on Regional Cybersecurity Training Center for the Army National Guard
 
-Pub. L. 115–232, div. A, title XVI, §1651, Aug. 13, 2018, 132 Stat. 2139, as amended by Pub. L. 116–283, div. A,title XVII, §1743, Jan. 1, 2021, 134 Stat. 4135, provided that:
+Pub. L. 115–232, div. A, title XVI, §1651, Aug. 13, 2018, 132 Stat. 2139, as amended by Pub. L. 116–283, div. A, title XVII, §1743, Jan. 1, 2021, 134 Stat. 4135; Pub. L. 117–81, div. A, title XV, §1502, Dec. 27, 2021, 135 Stat. 2021, provided that:
 
 "(a)
 
@@ -98,7 +98,7 @@ Notification Required.—If the Secretary carries out the pilot program under su
 
 "(e)
 
-Sunset.—The authority provided under this section shall expire on August 31, 2022."
+Sunset.—The authority provided under this section shall expire on August 31, 2024."
 
 #### Training for National Guard Personnel on Wildfire Response
 
@@ -126,7 +126,7 @@ Report.—Not later than February 1, 2005, the Secretary shall submit to Congres
 
 #### Pilot Program To Use National Guard Personnel in Medically Underserved Communities
 
-Pub. L. 102–484, div. A, title III, §376, Oct. 23, 1992, 106 Stat. 2385, as amended by Pub. L. 103–160, div. A, title III, §365, Nov. 30, 1993, 107 Stat. 1629; Pub. L. 103–337, div. A, title III, §384, Oct. 5, 1994, 108 Stat. 2741, provided that:
+Pub. L. 102–484, div. A, title III, §376, Oct. 23, 1992, 106 Stat. 2385, as amended by Pub. L. 103–160, div. A, titleIII, §365, Nov. 30, 1993, 107 Stat. 1629; Pub. L. 103–337, div. A, title III, §384, Oct. 5, 1994, 108 Stat. 2741, provided that:
 
 "(a)
 
@@ -134,7 +134,7 @@ Pilot Program.—The Chief of the National Guard Bureau shall enter into an agre
 
 "(b)
 
-Funding Assistance.—Amounts made available from Department of Defense accounts for operation and maintenance and for pay and allowances to carry out the pilot program shall be apportioned by the Chief of the National Guard Bureau among those States with which the Chief has entered into approved agreements. In addition to such amounts, the Chief of the NationalGuard Bureau may authorize any such State, in order to carry out the pilot program during a fiscal year, to use funds received as part of the operation and maintenance allotments and the pay and allowances allotments for the National Guard of the State for that fiscal year.
+Funding Assistance.—Amounts made available from Department of Defense accounts for operation and maintenance and for pay and allowances to carry out the pilot program shall be apportioned by the Chief of the National Guard Bureau among those States with which the Chief has entered into approved agreements. In addition to such amounts, the Chief of the National Guard Bureau may authorize any such State, in order to carry out the pilot program during a fiscal year, to use funds received as part of the operation and maintenance allotments and the pay and allowances allotments for the National Guard of the State for that fiscal year.
 
 "(c)
 

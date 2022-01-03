@@ -10,7 +10,7 @@ In carrying out the program authorized by section 3402 of this title, the Admini
 
 &emsp;(3) conduct scientific voyages to locate, define, and document historic shipwrecks, submerged sites, and other ocean exploration activities that combine archaeology and oceanographic sciences;
 
-&emsp;(4) develop and implement, in consultation with the National Science Foundation, a transparent, competitive process for merit-based peer-review and approval of proposals for activities to be conducted under this program, taking into consideration advice of the Board established under section 3405 of this title;
+&emsp;(4) develop and implement, in consultation with the National Science Foundation, atransparent, competitive process for merit-based peer-review and approval of proposals for activities to be conducted under this program, taking into consideration advice of the Board established under section 3405 of this title;
 
 &emsp;(5) enhance the technical capability of the United States marine science community by promoting the development of improved oceanographic research, communication, navigation, and data collection systems, as well as underwater platforms and sensor and autonomous vehicles; and
 

@@ -4,6 +4,8 @@ No part of the consular and other commercial reports of the Department of Commer
 
 (Feb. 25, 1885, ch. 150, 23 Stat. 324; Feb. 14, 1903, ch. 552, §10, 32 Stat. 829; Mar. 4, 1913, ch. 141, §1, 37 Stat. 736.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Act Mar. 4, 1913, substituted "Department of Commerce" for "Department of Commerce and Labor".

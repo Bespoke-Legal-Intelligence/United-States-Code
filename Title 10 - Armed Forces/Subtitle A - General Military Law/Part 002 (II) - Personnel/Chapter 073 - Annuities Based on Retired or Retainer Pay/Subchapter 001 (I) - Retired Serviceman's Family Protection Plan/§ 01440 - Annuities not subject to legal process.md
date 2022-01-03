@@ -20,6 +20,8 @@ Aug. 8, 1953, ch. 393, §9, 67 Stat. 504.
 
 The words "either in law or equity" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1985</b>—Pub. L. 99–145 substituted "1437(c)(3)(B)" for "1437(c)(3)".

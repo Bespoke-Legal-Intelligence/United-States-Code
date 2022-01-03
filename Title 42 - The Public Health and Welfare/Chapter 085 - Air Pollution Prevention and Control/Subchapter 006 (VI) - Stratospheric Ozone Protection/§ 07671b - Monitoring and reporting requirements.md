@@ -6,7 +6,7 @@ Within 270 days after November 15, 1990, the Administrator shall amend the regul
 
 #### (b) Production, import, and export level reports
 
-On a quarterly basis, or such other basis (not less than annually) as determined by the Administrator, each person who produced, imported, or exported a class I or class II substance shall file a report with the Administrator setting forth the amount of the substance that such person produced, imported, and exported during the preceding reporting period. Each such report shall be signed and attested by a responsible officer. No such report shall be required from a person after April 1 of the calendar year after such person permanently ceases production, importation, and exportation of the substance and so notifies the Administrator in writing.
+On a quarterly basis, or such other basis (not less than annually) as determined by the Administrator, each person who produced, imported, or exported a class I or class II substance shall file a report with the Administrator setting forth the amount of the substance that such person produced, imported, and exported during the preceding reporting period. Each such reportshall be signed and attested by a responsible officer. No such report shall be required from a person after April 1 of the calendar year after such person permanently ceases production, importation, and exportation of the substance and so notifies the Administrator in writing.
 
 #### (c) Baseline reports for class I substances
 
@@ -41,6 +41,8 @@ The Administrator shall review, on a periodic basis, the progress being made in 
 If, in consultation with the Administrators of the National Aeronautics and Space Administration and the National Oceanic and Atmospheric Administration, and after notice and opportunity for public comment, the Administrator determines that the global production, consumption, and use of class II substances are projected to contribute to an atmospheric chlorine loading in excess of the base case projections by more than 5/10ths parts per billion, the Administrator shall so inform the Congress immediately. The determination referred to in the preceding sentence shall be based on the monitoring under subsection (d) and updated not less often than every 3 years.
 
 (July 14, 1955, ch. 360, title VI, §603, as added Pub. L. 101–549, title VI, §602(a), Nov. 15, 1990, 104 Stat. 2653.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Reporting Requirements
 
@@ -92,7 +94,7 @@ Natural Sources.—Not later than 2 years after the enactment of this Act \[Nov.
 
 "(e)
 
-Study of Measures To Limit Growth in Methane Concentrations.—Not later than 2 years after the completion of the studies in subsections (b), (c), and (d), the Administrator shall prepare and submit to the Congress a report that presents options outlining measures that could be implemented to stop or reduce thegrowth in atmospheric concentrations of methane from sources within the United States referred to in paragraphs (1) through (6) of subsection (b). This study shall identify and evaluate the technical options for reducing methane emissions from each of the activities listed in subsection (b), as well as other activities or sources deemed by such agencies to be significant, and shall include an evaluation of costs, technology, safety, energy, and other factors. The study shall be based on the other studies under this section. The study shall also identify programs of the United States and international lending agencies that could be used to induce lesser developed countries to undertake measures that will reduce methane emissions and the resource needs of such programs.
+Study of Measures To Limit Growth in Methane Concentrations.—Not later than 2 years after the completion of the studies in subsections (b), (c), and (d), the Administrator shall prepare and submit to the Congress a report that presents options outlining measures that could be implemented to stop or reduce the growth in atmospheric concentrations of methane from sources within the United States referred to in paragraphs (1) through (6) of subsection (b). This study shall identify and evaluate the technical options for reducing methane emissions from each of the activities listed in subsection (b), as well as other activities or sources deemed by such agencies to be significant, and shall include an evaluation of costs, technology, safety, energy, and other factors. The study shall be based on the other studies under this section. The study shall also identify programs of the United States and international lending agencies that could be used to induce lesser developed countries to undertake measures that will reduce methane emissions and the resource needs of such programs.
 
 "(f)
 

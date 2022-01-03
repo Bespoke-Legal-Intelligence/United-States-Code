@@ -86,6 +86,8 @@ Except as provided in subsections (b) and (c), if—
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 116; June 29, 1956, ch. 463, §2, 70 Stat. 403; Pub. L. 95–600, title III, §365(a), Nov. 6, 1978, 92 Stat. 2854; Pub. L. 96–222, title I, §103(a)(12), Apr. 1, 1980, 94 Stat. 213; Pub. L. 96–589, §4(h)(2), Dec. 24, 1980, 94 Stat. 3405; Pub. L. 101–508, title XI, §11801(c)(8)(F), Nov. 5, 1990, 104 Stat. 1388–524; Pub. L. 106–36, title III, §3001(a)(1), (b)(1), (d)(2)–(5), June 25, 1999, 113 Stat. 181–184; Pub. L. 106–554, §1(a)(7) \[title III, §309(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–638; Pub. L. 108–357, title VIII, §898(b), Oct. 22, 2004, 118 Stat. 1649; Pub. L. 109–135, title IV, §403(jj)(2), Dec. 21, 2005, 119 Stat. 2632.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Subsec. (d)(1). Pub. L. 109–135 inserted "section 361(b)(3)," after "section 358(h),".
@@ -122,6 +124,8 @@ Subsec. (b). Act June 29, 1956, §2(1), substituted "371, or 374" for "or 371".
 
 Subsec. (c)(2)(B). Act June 29, 1956, §2(2), substituted "371 or 374" for "371".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2005 Amendment
 
 Amendment by Pub. L. 109–135 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
@@ -146,7 +150,7 @@ Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–600, title III, §365(c), Nov. 6, 1978, 92 Stat. 2855, provided that: "The amendments made by subsections (a) and (b) \[amending this section and section 358 of this title\] shall apply to transfers occurring on or after the date of the enactment of this Act \[Nov. 6, 1978\]."
+Pub. L. 95–600, title III, §365(c), Nov. 6, 1978, 92 Stat. 2855, provided that: "The amendments made by subsections (a) and (b) \[amending this section and section358 of this title\] shall apply to transfers occurring on or after the date of the enactment of this Act \[Nov. 6, 1978\]."
 
 #### Savings Provision
 

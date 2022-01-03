@@ -8,7 +8,7 @@
 
 #### (2) Determination of quantity of SME
 
-&emsp;For purposes of determining the quantity of square meter equivalents under paragraph (1), the conversion factors listed in "Correlation: U.S. Textile and Apparel Industry Category System with the Harmonized Tariff Schedule of the United States of America, 2008", or itssuccessor publications, of the United States Department of Commerce, shall apply.
+&emsp;For purposes of determining the quantity of square meter equivalents under paragraph (1),the conversion factors listed in "Correlation: U.S. Textile and Apparel Industry Category System with the Harmonized Tariff Schedule of the United States of America, 2008", or its successor publications, of the United States Department of Commerce, shall apply.
 
 #### (b) Earned import allowance program
 
@@ -96,9 +96,13 @@ For purposes of this section—
 
 <i>For termination of section by section 107(d) of Pub. L. 109–53, see Termination Date note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For Nov. 25, 2008, as the date on which the President certified to the appropriate congressional committees that sections A, B, C, and D of the Annex to Presidential Proclamation 8213 (December 20, 2007) had taken effect, referred to in subsec. (e)(1), see Proc. No. 8323, Nov. 25, 2008, 73 F.R. 72677. Presidential Proclamation 8213 is Proc. No. 8213, Dec. 20, 2007, 72 F.R. 73555, which is not set out in the Code.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination Date
 

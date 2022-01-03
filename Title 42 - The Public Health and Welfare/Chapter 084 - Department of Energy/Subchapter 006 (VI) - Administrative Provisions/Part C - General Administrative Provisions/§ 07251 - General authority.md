@@ -4,9 +4,13 @@ To the extent necessary or appropriate to perform any function transferred by th
 
 (Pub. L. 95–91, title VI, §641, Aug. 4, 1977, 91 Stat. 598.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Improvement and Streamlining of the Missions and Operations of the Department of Energy and National Nuclear Security Administration
 
@@ -50,5 +54,5 @@ Appropriate congressional committees defined.—In this subsection, the term 'ap
 
 #### Department of Energy Security Management Board
 
-Pub. L. 105–85, div. C, title XXXI, §3161, Nov. 18, 1997, 111 Stat. 2048, required the Secretary of Energy to establish the Department of Energy Security Management Board, and provided for its duties which related to the security functions of the Department, and its membership, appointments, personnel, compensation,expenses, and termination on Oct. 31, 2000, prior to repeal by Pub. L. 106–65, div. C, title XXXI, §3142(h)(1), Oct. 5, 1999, 113 Stat. 933.
+Pub. L. 105–85, div. C, title XXXI, §3161, Nov. 18, 1997, 111 Stat. 2048, required the Secretary of Energy to establish the Department of Energy Security Management Board, and provided for its duties which related to the security functions of the Department, and its membership, appointments, personnel, compensation, expenses, and termination on Oct. 31, 2000, prior to repeal by Pub. L. 106–65, div. C, title XXXI, §3142(h)(1), Oct. 5, 1999, 113 Stat. 933.
 

@@ -30,7 +30,7 @@ The Secretary shall award grants to eligible entities to enable such entities to
 
 &emsp;(4) special health and nutrition services, and other related activities, that address the special health, social, and psychological problems of Indian children and youth;
 
-&emsp;(5) special compensatory and other programs and projects designed to assist and encourage Indian children and youth to enter, remain in, or reenter school, and to increase the rate of high school graduation for Indian children and youth;
+&emsp;(5) special compensatory and other programs and projects designed to assist and encourage Indian children and youth to enter, remain in, or reenter school, and to increase the rate ofhigh school graduation for Indian children and youth;
 
 &emsp;(6) comprehensive guidance, counseling, and testing services;
 
@@ -108,6 +108,8 @@ Not more than 5 percent of the funds provided to a grantee under this subpart fo
 
 (Pub. L. 89–10, title VI, §6121, formerly title VII, §7121, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1919; renumbered title VI, §6121, and amended Pub. L. 114–95, title VI, §§6001(a), (b)(1), 6002(k), Dec. 10, 2015, 129 Stat. 2046, 2054.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 6121 of Pub. L. 89–10 was renumbered section 5101 and is classified to section 7305 of this title.
@@ -129,6 +131,8 @@ Subsec. (d)(1)(C). Pub. L. 114–95, §6002(k)(5)(A), substituted "award grants 
 Subsec. (d)(3)(B)(i). Pub. L. 114–95, §6002(k)(5)(B)(i), substituted "parents and family of Indian children" for "parents of Indian children".
 
 Subsec. (d)(3)(B)(iii). Pub. L. 114–95, §6002(k)(5)(B)(ii), substituted "information demonstrating that the proposed program is an evidence-based program" for "information demonstrating that the proposed program for the activities is a scientifically based research program".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

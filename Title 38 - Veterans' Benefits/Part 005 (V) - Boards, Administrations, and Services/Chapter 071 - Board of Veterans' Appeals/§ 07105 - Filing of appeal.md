@@ -56,7 +56,7 @@ Subsec. (d). Pub. L. 115–55, §2(q)(1)(D), added subsec. (d) and struck out fo
 
 Subsec. (e). Pub. L. 115–55, §2(q)(1)(E), struck out subsec. (e) which read as follows:
 
-"(1) If, either at the time or after the agency of original jurisdiction receives a substantive appeal, the claimant or the claimant's representative, if any, submits evidence to either the agency of original jurisdiction or the Board of Veterans' Appeals for consideration in connection with the issue or issues with which disagreement has been expressed, such evidence shall be subject to initial review by the Board unless the claimant or the claimant's representative, as the casemay be, requests in writing that the agency of original jurisdiction initially review such evidence.
+"(1) If, either at the time or after the agency of original jurisdiction receives a substantive appeal, the claimant or the claimant's representative, if any, submits evidence to either the agency of original jurisdiction or the Board of Veterans' Appeals for consideration in connection with the issue or issues with which disagreement has been expressed, such evidence shall be subject to initial review by the Board unless the claimant or the claimant's representative, as the case may be, requests in writing that the agency of original jurisdiction initially review such evidence.
 
 "(2) A request for review of evidence under paragraph (1) shall accompany the submittal of the evidence."
 

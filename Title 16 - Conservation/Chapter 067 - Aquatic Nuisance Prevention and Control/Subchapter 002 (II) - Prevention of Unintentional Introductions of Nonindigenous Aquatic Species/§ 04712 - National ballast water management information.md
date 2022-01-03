@@ -138,7 +138,7 @@ Out of amounts appropriated to carry out this subsection for a fiscal year, the 
 
 #### (A) In general
 
-&emsp;&emsp;Not later than July 1, 2019, and annually thereafter, the Secretary shall prepare and submit a report in accordance with this paragraph.
+&emsp;&emsp;Not later than July 1, 2019, and annually thereafter, the Secretary shall prepare andsubmit a report in accordance with this paragraph.
 
 #### (B) Contents
 
@@ -175,6 +175,8 @@ Out of amounts appropriated to carry out this subsection for a fiscal year, the 
 &emsp;Not later than 1 year after December 4, 2018, the Secretary shall establish a working group, including members from the National Ballast Information Clearinghouse and States with ballast water management programs, to establish a process for compiling and readily sharing Federal and State commercial vessel reporting and enforcement data regarding compliance with this chapter.
 
 (Pub. L. 101–646, title I, §1102, Nov. 29, 1990, 104 Stat. 4764; Pub. L. 104–332, §2(c), (g), (h)(1), Oct. 26, 1996, 110 Stat. 4081, 4091; Pub. L. 105–362, title XV, §1502(d), Nov. 10, 1998, 112 Stat. 3295; Pub. L. 115–282, title IX, §903(a)(2)(B), (h)(1), Dec. 4, 2018, 132 Stat. 4354, 4362.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

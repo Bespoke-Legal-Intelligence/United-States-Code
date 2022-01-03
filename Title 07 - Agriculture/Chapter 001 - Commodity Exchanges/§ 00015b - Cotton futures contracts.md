@@ -40,7 +40,7 @@ For purposes of this section—
 
 #### (1) Definition
 
-&emsp;For purposes of this section, the only markets which shall be considered bona fide spot markets shall be those which the Secretary shall, from time to time, after investigation, determine and designate to be such, and of which he shall give public notice.
+&emsp;For purposes of this section, the only markets which shall be considered bona fide spotmarkets shall be those which the Secretary shall, from time to time, after investigation, determine and designate to be such, and of which he shall give public notice.
 
 #### (2) Determination
 
@@ -66,7 +66,7 @@ Each cotton futures contract shall be a basis grade contract, or a tendered grad
 
 #### (B) Specification of grade, price, and dates of sale and settlement
 
-&emsp;&emsp;Specify the basis grade for the cotton involved in the contract, which shall be one ofthe grades for which standards are established by the Secretary, except grades prohibited from being delivered on a contract made under this subsection by subparagraph (E), the price per pound at which the cotton of such basis grade is contracted to be bought or sold, the date when the purchase or sale was made, and the month or months in which the contract is to be fulfilled or settled; except that middling shall be deemed the basis grade incorporated into the contract if no other basis grade be specified either in the contract or in the memorandum evidencing the same.
+&emsp;&emsp;Specify the basis grade for the cotton involved in the contract, which shall be one of the grades for which standards are established by the Secretary, except grades prohibited from being delivered on a contract made under this subsection by subparagraph (E), the price per pound at which the cotton of such basis grade is contracted to be bought or sold, the date when the purchase or sale was made, and the month or months in which the contract is to be fulfilled or settled; except that middling shall be deemed the basis grade incorporated into the contract if no other basis grade be specified either in the contract or in the memorandum evidencing the same.
 
 #### (C) Provision for delivery of standard grades only
 
@@ -78,7 +78,7 @@ Each cotton futures contract shall be a basis grade contract, or a tendered grad
 
 #### (E) Prohibition of delivery of inferior cotton
 
-&emsp;&emsp;Provide that cotton that, because of the presence of extraneous matter of any character, or irregularities or defects, is reduced in value below that of low middling, or cotton that is below the grade of low middling, or, if tinged, cotton that is below the grade of strict middling, or, if yellow stained, cotton that is below the grade of good middling, the grades mentioned being of the official cotton standards of the United States, or cotton that is less than seven-eighths of an inch in length of staple, or cotton of perished staple, or of immature staple, or cotton that is "gin cut" or reginned, or cotton that is "repacked" or "false packed" or "mixed packed" or "water packed", shall not be delivered on, under, or in settlement of such contract.
+&emsp;&emsp;Provide that cotton that, because of the presence of extraneous matter of any character, or irregularities or defects, is reduced in value below that of low middling, or cotton that is below the grade of low middling, or, if tinged, cotton that is below the grade of strict middling, or, if yellow stained, cotton that is below the grade of good middling, the grades mentioned being of the official cotton standards of the United States, or cotton that is less than seven-eighths of an inch in length of staple, or cotton of perished staple, or of immature staple, or cotton that is "gin cut" or reginned, or cotton that is "repacked" or "false packed" or"mixed packed" or "water packed", shall not be delivered on, under, or in settlement of such contract.
 
 #### (F) Provisions for tender in full, notice of delivery date, and certificate of grade
 
@@ -94,7 +94,7 @@ Each cotton futures contract shall be a basis grade contract, or a tendered grad
 
 #### (3) Delivery allowances
 
-&emsp;For the purpose of this subsection, the differences above or below the contract price which the receiver shall pay for cotton of grades above or below the basic <sup>1</sup> grade in the settlement of a contract of sale for the future delivery of cotton shall be determined by the actual commercial differences in value thereof upon the sixth business day prior to the day fixed, in accordance with paragraph (1)(F), for the delivery of cotton on the contract, established by the sale of spot cotton in the spot markets of not less than five places designated for the purpose from time to time by the Secretary, as such values were established by the sales of spot cotton, in such designated five or more markets. For purposes of this paragraph, such values in the such spot markets shall be based upon the standards for grades of cottonestablished by the Secretary. Whenever the value of one grade is to be determined from the sale or sales of spot cotton of another grade or grades, such value shall be fixed in accordance with rules and regulations which shall be prescribed for the purpose by the Secretary.
+&emsp;For the purpose of this subsection, the differences above or below the contract price which the receiver shall pay for cotton of grades above or below the basic <sup>1</sup> grade in the settlement of a contract of sale for the future delivery of cotton shall be determined by the actual commercial differences in value thereof upon the sixth business day prior to the day fixed, in accordance with paragraph (1)(F), for the delivery of cotton on the contract, established by the sale of spot cotton in the spot markets of not less than five places designated for the purpose from time to time by the Secretary, as such values were established by the sales of spot cotton, in such designated five or more markets. For purposes of this paragraph, such values in the such spot markets shall be based upon the standards for grades of cotton established by the Secretary. Whenever the value of one grade is to be determined from the sale or sales of spot cotton of another grade or grades, such value shall be fixed in accordance with rules and regulations which shall be prescribed for the purpose by the Secretary.
 
 #### (g) Tendered grade contracts
 
@@ -116,7 +116,7 @@ Each cotton futures contract shall be a basis grade contract, or a tendered grad
 
 #### (3) Application of subsection
 
-&emsp;Nothing in this subsection shall be so construed as to authorize any contract in which, or in the settlement of or in respect to which, any device or arrangement whatever is resorted to, or any agreement is made, for the determination or adjustment of the price of the grade or grades tendered other than the basis grade specified in the contract by any "fixed difference" system, or by arbitration, or by any other method not provided for by this section.
+&emsp;Nothing in this subsection shall be so construed as to authorize any contract in which, or in the settlement of or in respect to which, any device or arrangement whatever is resorted to, or any agreement is made, for the determination or adjustment of the price ofthe grade or grades tendered other than the basis grade specified in the contract by any "fixed difference" system, or by arbitration, or by any other method not provided for by this section.
 
 #### (h) Specific grade contracts
 
@@ -162,13 +162,15 @@ Any person who knowingly violates any regulation made in pursuance of this secti
 
 #### (l) Applicability to contracts prior to effective date
 
-The provisions of this section shall not apply to any cotton futures contract entered intoprior to the effective date of this section or to any act or failure to act by any person prior to such effective date and all such prior contracts, acts or failure to act shall continue to be governed by the applicable provisions of the Internal Revenue Code of 1954 <sup>2</sup> as in effect prior to the enactment of this section. All designations of bona fide spot markets and all rules and regulations issued by the Secretary pursuant to the applicable provisions of the Internal Revenue Code of 1954 <sup>2</sup> which were in effect on the effective date of this section, shall remain fully effective as designations and regulations under this section until superseded, amended, or terminated by the Secretary.
+The provisions of this section shall not apply to any cotton futures contract entered into prior to the effective date of this section or to any act or failure to act by any person prior to such effective date and all such prior contracts, acts or failure to act shall continue to be governed by the applicable provisions of the Internal Revenue Code of 1954 <sup>2</sup> as in effect prior to the enactment of this section. All designations of bona fide spot markets and all rules and regulations issued by the Secretary pursuant to the applicable provisions of the Internal Revenue Code of 1954 <sup>2</sup> which were in effect on the effective date of this section, shall remain fully effective as designations and regulations under this section until superseded, amended, or terminated by the Secretary.
 
 #### (m) Authorization
 
 There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
 (Pub. L. 94–455, title XIX, §1952(a)–(m), Oct. 4, 1976, 90 Stat. 1841–1846; Pub. L. 97–35, title I, §156(c), Aug. 13, 1981, 95 Stat. 374; Pub. L. 102–237, title I, §123, Dec. 13, 1991, 105 Stat. 1844; Pub. L. 106–472, title III, §311, Nov. 9, 2000, 114 Stat. 2076; Pub. L. 114–36, §1(a), July 20, 2015, 129 Stat. 435.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -195,6 +197,8 @@ In subsec. (f)(1)(G), "chapters 1 to 11 of title 40 and division C (except secti
 <b>1991</b>—Subsec. (c)(1). Pub. L. 102–237 inserted before period at end ", except that any cotton futures contract that, by its terms, is settled in cash is excluded from the coverage of this paragraph and section".
 
 <b>1981</b>—Subsec. (f)(1)(G). Pub. L. 97–35 inserted provisions relating to crediting to account referred to in section 55 of this title and provisions respecting cotton samples submitted or used becoming the property of the United States.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

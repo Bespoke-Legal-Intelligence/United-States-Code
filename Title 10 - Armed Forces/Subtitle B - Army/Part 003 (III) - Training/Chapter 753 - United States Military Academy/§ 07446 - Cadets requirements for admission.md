@@ -48,7 +48,7 @@ Aug. 9, 1912, ch. 275 (2d proviso under "Permanent Establishment"), 37 Stat. 252
 
 R.S. 1320.
 
-In subsection (a), the words "Effective January 1, 1951" are omitted as executed. The word "Calendar" is omitted as surplusage. The words "must not have passed his twenty-second birthday" are substituted for the words "not more than twenty-two years of age", to make it clear that a person whose twenty-second birthday falls on July 1 of the year of admission is eligible (see opinion of the Judge Advocate General of the Army (JAGA 1952/7083, 2 Sept. 1952)).
+In subsection (a), the words "Effective January 1, 1951" are omitted as executed. The word "Calendar" isomitted as surplusage. The words "must not have passed his twenty-second birthday" are substituted for the words "not more than twenty-two years of age", to make it clear that a person whose twenty-second birthday falls on July 1 of the year of admission is eligible (see opinion of the Judge Advocate General of the Army (JAGA 1952/7083, 2 Sept. 1952)).
 
 In subsection (b), the words "To be" are substituted for the words "before they shall be". The words "must show \* \* \* that he is qualified" are substituted for the words "shall be required to be well versed". The words "from time to time" are omitted as surplusage.
 
@@ -56,11 +56,15 @@ In subsection (c), the word "shall" is substituted for the word "may", since the
 
 In subsection (d), the word "county" is omitted as surplusage. The words "Uniform Code of Military Justice" are substituted for the words "rules and articles governing the armies of the United States", since the Articles of War have been superseded by the Uniform Code of Military Justice. The words "his appointment is terminated" are substituted for the words "shall be dismissed from the service", since a cadet who has not taken the oath is not yet a member.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4346 of this title as this section.
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–201 substituted "twenty-third birthday" for "twenty-second birthday".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 
@@ -110,7 +114,7 @@ Waiver Authority.—The Secretary of the military department concerned may waive
 
 Definitions.—For purposes of this section:
 
-&emsp;"(1) The term 'Operation Desert Storm' has the meaning given such term in section 3(1) of the Persian Gulf Conflict Supplemental Authorization andPersonnel Benefits Act of 1991 (Public Law 102–25; 105 Stat. 77; 10 U.S.C. 101 note).
+&emsp;"(1) The term 'Operation Desert Storm' has the meaning given such term in section 3(1) of the Persian Gulf Conflict Supplemental Authorization and Personnel Benefits Act of 1991 (Public Law 102–25; 105 Stat. 77; 10 U.S.C. 101 note).
 
 &emsp;"(2) The term 'Persian Gulf War' has the meaning given such term in section 101(33) of title 38, United States Code."
 

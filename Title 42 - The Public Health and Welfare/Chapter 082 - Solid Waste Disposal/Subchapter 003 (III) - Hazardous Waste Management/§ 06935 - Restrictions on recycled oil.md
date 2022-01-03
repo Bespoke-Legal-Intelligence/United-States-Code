@@ -12,7 +12,7 @@ Not later than twelve months after November 8, 1984, the Administrator shall pro
 
 (1) With respect to generators and transporters of used oil identified or listed as a hazardous waste under section 6921 of this title, the standards promulgated under section <sup>1</sup> 6921(d), 6922, and 6923 of this title shall not apply to such used oil if such used oil is recycled.
 
-(2)(A) In the case of used oil which is exempt under paragraph (1), not later than twenty-four months after November 8, 1984, the Administrator shall promulgate such standards under this subsection regarding the generation and transportation of used oil which is recycled as may be necessary to protect human health and the environment. In promulgating such regulations with respect to generators, the Administrator shall take into account the effect of such regulations on environmentally acceptable types of used oil recycling and the effect of such regulations on small quantity generators and generators which are small businesses (as defined by the Administrator).
+(2)(A) In the case of used oil which is exempt under paragraph (1), not later than twenty-four months after November 8, 1984, the Administrator shall promulgate such standards under this subsection regarding the generation andtransportation of used oil which is recycled as may be necessary to protect human health and the environment. In promulgating such regulations with respect to generators, the Administrator shall take into account the effect of such regulations on environmentally acceptable types of used oil recycling and the effect of such regulations on small quantity generators and generators which are small businesses (as defined by the Administrator).
 
 (B) The regulations promulgated under this subsection shall provide that no generator of used oil which is exempt under paragraph (1) from the standards promulgated under section <sup>1</sup> 6921(d), 6922, and 6923 of this title shall be subject to any manifest requirement or any associated recordkeeping and reporting requirement with respect to such used oil if such generator—
 
@@ -36,6 +36,8 @@ Not later than twelve months after November 8, 1984, the Administrator shall pro
 
 (Pub. L. 89–272, title II, §3014, formerly §3012, as added Pub. L. 96–463, §7(a), Oct. 15, 1980, 94 Stat. 2057, and renumbered and amended Pub. L. 98–616, title II, §§241(a), 242, title V, §502(g)(1), Nov. 8, 1984, 98 Stat. 3258, 3260, 3277.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 6932 of this title.
@@ -45,6 +47,8 @@ Section was formerly classified to section 6932 of this title.
 <b>1984</b>—Subsec. (a). Pub. L. 98–616, §§241(a), 242, designated existing provisions as subsec. (a) and inserted ", consistent with the protection of human health and the environment" at end.
 
 Subsecs. (b) to (d). Pub. L. 98–616, §241(a), added subsecs. (b) to (d).
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

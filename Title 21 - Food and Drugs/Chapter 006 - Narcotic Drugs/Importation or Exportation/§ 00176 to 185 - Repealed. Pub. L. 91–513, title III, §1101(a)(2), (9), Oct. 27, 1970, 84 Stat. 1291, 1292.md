@@ -1,6 +1,6 @@
 ### §§176 to 185. Repealed. Pub. L. 91–513, title III, §1101(a)(2), (9), Oct. 27, 1970, 84 Stat. 1291, 1292
 
-Section 176, acts Feb. 9, 1909, ch. 100, §2(g), 35 Stat. 614; Jan. 17, 1914, ch. 9, 38 Stat. 275; May 26, 1922, ch. 202§1, 42 Stat. 596; June 7, 1924, ch. 352, 43 Stat. 657, covered liability of masters of vessels and persons in charge of railroad cars and other vehicles used to carry narcotic drugs.
+Section 176, acts Feb. 9, 1909, ch. 100, §2(g), 35 Stat. 614; Jan. 17, 1914, ch. 9, 38 Stat. 275; May 26, 1922, ch. 202 §1, 42 Stat. 596; June 7, 1924, ch. 352, 43 Stat. 657, covered liability of masters of vessels and persons in charge of railroad cars and other vehicles used to carry narcotic drugs.
 
 Section 176a, act Feb. 9, 1909, ch. 100, §2(h), as added July 18, 1956, ch. 629, title I, §106, 70 Stat. 570, covered illegal importation of marihuana and set penalties for such illegal importation. See section 801 et seq. of this title.
 

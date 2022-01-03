@@ -8,9 +8,9 @@ The Secretary shall establish and maintain an information system to track the st
 
 #### Effective Date
 
-Section effective 90 days after Nov. 21, 1997, except as otherwise provided, see section 501 of Pub. L. 105–115,set out as an Effective Date of 1997 Amendment note under section 321 of this title.
+Section effective 90 days after Nov. 21, 1997, except as otherwise provided, see section 501 of Pub. L. 105–115, set out as an Effective Date of 1997 Amendment note under section 321 of this title.
 
 #### Report on Status of System
 
-Pub. L. 105–115, title IV, §407(b), Nov. 21, 1997, 111 Stat. 2370, provided that not later than 1 year after Nov. 21, 1997, Secretary of Health and Human Services was to submit report to Congress on status of system to be established under this section, including projected costs of system and concerns about confidentiality.
+Pub. L. 105–115, title IV, §407(b), Nov. 21, 1997, 111 Stat. 2370, provided that not later than 1 year after Nov. 21, 1997, Secretary of Health and Human Serviceswas to submit report to Congress on status of system to be established under this section, including projected costs of system and concerns about confidentiality.
 

@@ -34,6 +34,8 @@ In subsections (a) and (b), the words "or volunteer service, or both" are omitte
 
 In subsection (b), the applicability of 10:942 to warrant officers is based on an opinion of the Judge Advocate General of the Army (JAGA 1950/6951, 4 Jan. 1951), which holds that 10:594 (less provisos) makes 10:942 applicable to warrant officers.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232, §808(b)(12), renumbered section 3924 of this title as this section.
@@ -43,6 +45,8 @@ Subsec. (a). Pub. L. 115–232, §809(a), substituted "section 7326" for "sectio
 Subsec. (b). Pub. L. 115–232, §809(a), substituted "section 7326(a)" for "section 3926(a)".
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted "1186" for "3786".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

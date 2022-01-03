@@ -54,6 +54,8 @@ Limitation.—The aggregate amount of educational assistance payable under this 
 
 (Added Pub. L. 110–181, div. A, title V, §528(b)(1), Jan. 28, 2008, 122 Stat. 107.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Pub. L. 110–181, div. A, title V, §528(b)(3), Jan. 28, 2008, 122 Stat. 109, provided that: "The amendments made by this subsection \[enacting this section\] shall take effect on October 1, 2008, and shall only apply to initial enrollments in approved programs of education after such date."

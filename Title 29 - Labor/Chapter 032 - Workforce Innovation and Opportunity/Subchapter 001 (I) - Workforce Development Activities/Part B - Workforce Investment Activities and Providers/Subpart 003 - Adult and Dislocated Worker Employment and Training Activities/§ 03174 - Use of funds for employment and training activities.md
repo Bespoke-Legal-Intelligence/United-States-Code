@@ -34,7 +34,7 @@
 
 #### (B) Statewide employment and training activities
 
-&emsp;&emsp;Funds reserved by a Governor under sections 3163(a)(1) and 3173(a)(1) of this title and not used under paragraph (1)(A) (regardless of whether the funds were allotted to the States under section 3162(b)(1)(C) of this title or paragraph (1)(B) or (2)(B) of section 3172(b) of this title) shall be used for statewide employment and training activities, including—
+&emsp;&emsp;Funds reserved by a Governor under sections 3163(a)(1) and 3173(a)(1) of this title and not used under paragraph (1)(A) (regardless of whether the funds were allotted to the States under section 3162(b)(1)(C) of this titleor paragraph (1)(B) or (2)(B) of section 3172(b) of this title) shall be used for statewide employment and training activities, including—
 
 &emsp;&emsp;&emsp;(i) providing assistance to—
 
@@ -44,7 +44,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) local areas by providing information on and support for the effective development, convening, and implementation of industry or sector partnerships; and
 
-&emsp;&emsp;&emsp;&emsp;(IV) local areas, one-stop operators, one-stop partners, and eligible providers, including the development and training of staff, which may include the development and training of staff to provide opportunities for individuals with barriersto employment to enter in-demand industry sectors or occupations and nontraditional occupations, the development of exemplary program activities, and the provision of technical assistance to local areas that fail to meet local performance accountability measures described in section 3141(c) of this title;
+&emsp;&emsp;&emsp;&emsp;(IV) local areas, one-stop operators, one-stop partners, and eligible providers, including the development and training of staff, which may include the development and training of staff to provide opportunities for individuals with barriers to employment to enter in-demand industry sectors or occupations and nontraditional occupations, the development of exemplary program activities, and the provision of technical assistance to local areas that fail to meet local performance accountability measures described in section 3141(c) of this title;
 
 &emsp;&emsp;&emsp;(ii) providing assistance to local areas as described in section 3121(b)(7) of this title;
 
@@ -166,7 +166,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 #### (B) Other funds
 
-&emsp;&emsp;Consistent with subsections (h) and (i) of section 3151 of this title, a portion of the funds made available under Federal law authorizing the programs and activities described in section 3151(b)(1)(B) of this title, including the Wagner-Peyser Act (29 U.S.C.49 et seq.), shall be used as described in clauses (i) and (ii) of subparagraph (A), to the extent not inconsistent with the Federal law involved.
+&emsp;&emsp;Consistent with subsections (h) and (i) of section 3151 of this title, a portion of the funds made available under Federal law authorizing the programs and activities described in section 3151(b)(1)(B) of this title, including the Wagner-Peyser Act (29 U.S.C. 49 et seq.), shall be used as described in clauses (i) and (ii) of subparagraph (A), to the extent not inconsistent with the Federal law involved.
 
 #### (2) Career services
 
@@ -220,7 +220,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) in-depth interviewing and evaluation to identify employment barriers and appropriate employment goals;
 
-&emsp;&emsp;&emsp;&emsp;(II) development of an individual employment plan, to identify the employment goals, appropriate achievement objectives, and appropriate combination of services for the participant to achieve the employment goals, including providing information on eligible providersof training services pursuant to paragraph (3)(F)(ii), and career pathways to attain career objectives;
+&emsp;&emsp;&emsp;&emsp;(II) development of an individual employment plan, to identify the employment goals, appropriate achievement objectives, and appropriate combination of services for the participant to achieve the employment goals, including providing information on eligible providers of training services pursuant to paragraph (3)(F)(ii), and career pathways to attain career objectives;
 
 &emsp;&emsp;&emsp;&emsp;(III) group counseling;
 
@@ -362,7 +362,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), training services provided under this paragraph shall be provided through the use of individual training accounts in accordance with this paragraph, and shall be provided to eligible individuals through the one-stop delivery system.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), training services provided under this paragraph shall be provided through the use of individual training accounts in accordance with this paragraph, and shall be providedto eligible individuals through the one-stop delivery system.
 
 #### (ii) Training contracts
 
@@ -378,7 +378,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 &emsp;&emsp;&emsp;&emsp;(V) the local board determines that—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) it would be most appropriate to award a contract to an institution ofhigher education or other eligible provider of training services in order to facilitate the training of multiple individuals in in-demand industry sectors or occupations; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) it would be most appropriate to award a contract to an institution of higher education or other eligible provider of training services in order to facilitate the training of multiple individuals in in-demand industry sectors or occupations; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) such contract does not limit customer choice; or
 
@@ -430,7 +430,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 &emsp;&emsp;&emsp;(iv) customer support to enable individuals with barriers to employment (including individuals with disabilities) and veterans, to navigate among multiple services and activities for such populations;
 
-&emsp;&emsp;&emsp;(v) technical assistance for one-stop operators, one-stop partners, and eligible providers of training services, regarding the provision of services to individuals with disabilities in local areas, including the development and training of staff, the provision of outreach, intake, assessments, and service delivery, the coordination of services across providers and programs, and the development of performance accountability measures;
+&emsp;&emsp;&emsp;(v) technical assistance for one-stop operators, one-stop partners, and eligible providers of training services, regarding the provision of services to individualswith disabilities in local areas, including the development and training of staff, the provision of outreach, intake, assessments, and service delivery, the coordination of services across providers and programs, and the development of performance accountability measures;
 
 &emsp;&emsp;&emsp;(vi) employment and training activities provided in coordination with—
 
@@ -546,7 +546,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 #### (i) Factors
 
-&emsp;&emsp;&emsp;Subject to clause (ii), the local board shall establish the non-Federal share of such cost (taking into consideration such other factors as the number of employees participating in the training, the wage and benefit levels of the employees (at the beginning and anticipated upon completion of the training), the relationship of the training to the competitiveness of the employer and employees, and the availability of other employer-provided training and advancement opportunities.<sup>1</sup>
+&emsp;&emsp;&emsp;Subject to clause (ii), the local board shall establish the non-Federal share of such cost (taking into consideration such other factors as the number of employeesparticipating in the training, the wage and benefit levels of the employees (at the beginning and anticipated upon completion of the training), the relationship of the training to the competitiveness of the employer and employees, and the availability of other employer-provided training and advancement opportunities.<sup>1</sup>
 
 #### (ii) Limits
 

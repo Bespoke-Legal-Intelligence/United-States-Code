@@ -20,6 +20,8 @@
 
 Hawaii was admitted into the Union on August 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74, as required by sections 1 and 7(c) of Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out below.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Hawaii Statehood
 
 Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, as amended, provided:
@@ -60,7 +62,7 @@ Sec. 5. \[Title to property; land grants; reservation of lands; public school su
 
 "
 
-Sec. 6. \[Certification by President; proclamation for elections.\] As soon as possible after the enactment of this Act, it shall be the duty of the President of the United States to certify such fact to the Governor of the Territory of Hawaii. Thereupon the Governor of the Territory shall, within thirty days after receipt of the official notification of such approval, issue his proclamation for the elections, as hereinafter provided, for officers of all State elective offices provided for by the constitution of the proposed State of Hawaii, and for two Senators and one Representative in Congress. In the first election of Senators from said State the two senatorial offices shall be separately identified and designated, and no person may be a candidate for both offices. No identification or designation of either of the two senatorial offices, however, shall refer to or be taken to refer to the term of that office, nor shall any such identification or designation in any way impair the privilege of the Senate to determine the class to which each of the Senators elected shall be assigned.
+Sec. 6. \[Certification by President; proclamation for elections.\] As soon as possible after the enactment of this Act, it shall be the duty of the President of the United States to certify such fact to the Governor ofthe Territory of Hawaii. Thereupon the Governor of the Territory shall, within thirty days after receipt of the official notification of such approval, issue his proclamation for the elections, as hereinafter provided, for officers of all State elective offices provided for by the constitution of the proposed State of Hawaii, and for two Senators and one Representative in Congress. In the first election of Senators from said State the two senatorial offices shall be separately identified and designated, and no person may be a candidate for both offices. No identification or designation of either of the two senatorial offices, however, shall refer to or be taken to refer to the term of that office, nor shall any such identification or designation in any way impair the privilege of the Senate to determine the class to which each of the Senators elected shall be assigned.
 
 "
 
@@ -86,7 +88,7 @@ Sec. 7. \[Election of officers; date; propositions; certification of voting resu
 
 "
 
-Sec. 8. \[House of Representatives membership.\] The State of Hawaii upon its admission into the Union shall be entitled to one Representative until the taking effect of the next reapportionment, and such Representative shall be in addition to the membership of the House of Representatives as now prescribed by law: <i>Provided</i>, That such temporary increase in the membership shall not operate to either increase or decrease the permanent membership of the House of Representatives asprescribed in the Act of August 8, 1911 (37 Stat. 13), nor shall such temporary increase affect the basis of apportionment established by the Act of November 15, 1941 (55 Stat. 761; 2 U.S.C., sec. 2a), for the Eighty-third Congress and each Congress thereafter.
+Sec. 8. \[House of Representatives membership.\] The State of Hawaii upon its admission into the Union shall be entitled to one Representative until the taking effect of the next reapportionment, and such Representative shall be in addition to the membership of the House of Representatives as now prescribed by law: <i>Provided</i>, That such temporary increase in the membership shall not operate to either increase or decrease the permanent membership of the House of Representatives as prescribed in the Act of August 8, 1911 (37 Stat. 13), nor shall such temporary increase affect the basis of apportionment established by the Act of November 15, 1941 (55 Stat. 761; 2 U.S.C., sec. 2a), for the Eighty-third Congress and each Congress thereafter.
 
 "
 
@@ -134,7 +136,7 @@ Sec. 14. \[Judicial and criminal provisions; amendment.\] Effective upon the adm
 
 &emsp;"(c) title 28, United States Code, section 1294, as amended, is further amended by striking out paragraph (4) thereof and by renumbering paragraphs (5) and (6) accordingly;
 
-&emsp;"(d) the first paragraph of section 373 of title 28, United States Code, as amended, is further amended by striking out the words 'United States District Courts for the districts of Hawaii or Puerto Rico,' and inserting in lieu thereof the words 'United States District Court for the District of Puerto Rico,'; and by striking out the words 'and any justice of the Supreme Court of the Territory of Hawaii': <i>Provided</i>, That the amendments made by this subsection shall not affect the rights of any judge or justice who may have retired before the effective date of this subsection: <i>And provided further</i>, That service as a judge of the District Court for the Territory of Hawaii or as a judge of the United States District Court for the District of Hawaii or as a justice of the Supreme Court of the Territory of Hawaii or as a judge of the circuit courts of the Territory of Hawaii shall be included in computing under section 371, 372, or 373 of title 28, United States Code, the aggregate years ofjudicial service of any person who is in office as a district judge for the District of Hawaii on the date of enactment of this Act;
+&emsp;"(d) the first paragraph of section 373 of title 28, United States Code, as amended, is further amended by striking out the words 'United States District Courts for the districts of Hawaii or Puerto Rico,' and inserting in lieu thereof the words 'United States District Court for the District of Puerto Rico,'; and by striking out the words 'and any justice of the Supreme Court of the Territory of Hawaii': <i>Provided</i>, That the amendments made by this subsection shall not affect the rights of any judge or justice who may have retired before the effective date of this subsection: <i>And provided further</i>, That service as a judge of the District Court for the Territory of Hawaii or as a judge of the United States District Court for the District of Hawaii or as a justice of the Supreme Court of the Territory of Hawaii or as a judge of the circuit courts of the Territory of Hawaii shall be included in computing under section 371, 372, or 373 of title 28, United States Code, the aggregate years of judicial service of any person who is in office as a district judge for the District of Hawaii on the date of enactment of this Act;
 
 &emsp;"(e) section 92 of the act of April 30, 1900 (ch. 339, 31 Stat. 159), as amended, and the Act of May 29, 1928 (ch. 904, 45 Stat. 997), as amended, are repealed;
 
@@ -150,7 +152,7 @@ Sec. 14. \[Judicial and criminal provisions; amendment.\] Effective upon the adm
 
 "
 
-Sec. 15. \[Laws in effect.\] All Territorial laws in force in the Territory of Hawaii at the time of its admission into the Union shall continue in force in the State of Hawaii, except as modified or changed by this Act or by the constitution of the State, and shall be subject to repeal or amendment by the Legislature of the State of Hawaii, except as provided in section 4 of this Act with respect to the Hawaiian Homes Commission Act, 1920, as amended; and the laws of the United States shall have the same force and effect within the said State as elsewhere within the United States: <i>Provided</i>, That, except as herein otherwise provided, a Territorial law enacted by the Congress shall be terminated two years after the date of admission of the State of Hawaii into the Union or upon the effective date of any law enacted by the State of Hawaii which amends or repeals it, whichever may occur first. As used in this section, the term 'Territorial laws' includes (in addition to laws enacted by the Territorial Legislature of Hawaii) all laws or parts thereof enacted by the Congress the validity of which is dependent solely upon the authority of the Congress to provide for the government of Hawaii prior to its admission into the Union, and the term 'laws of the United States' includes all laws or parts thereof enacted by the Congress that (1) apply to or within Hawaii at the time of its admission into the Union, (2) are not 'Territorial laws' as defined in this paragraph, and (3) are not in conflict with any other provision of this Act.
+Sec. 15. \[Laws in effect.\] All Territorial laws in force in the Territory of Hawaii at the time of its admissioninto the Union shall continue in force in the State of Hawaii, except as modified or changed by this Act or by the constitution of the State, and shall be subject to repeal or amendment by the Legislature of the State of Hawaii, except as provided in section 4 of this Act with respect to the Hawaiian Homes Commission Act, 1920, as amended; and the laws of the United States shall have the same force and effect within the said State as elsewhere within the United States: <i>Provided</i>, That, except as herein otherwise provided, a Territorial law enacted by the Congress shall be terminated two years after the date of admission of the State of Hawaii into the Union or upon the effective date of any law enacted by the State of Hawaii which amends or repeals it, whichever may occur first. As used in this section, the term 'Territorial laws' includes (in addition to laws enacted by the Territorial Legislature of Hawaii) all laws or parts thereof enacted by the Congress the validity of which is dependent solely upon the authority of the Congress to provide for the government of Hawaii prior to its admission into the Union, and the term 'laws of the United States' includes all laws or parts thereof enacted by the Congress that (1) apply to or within Hawaii at the time of its admission into the Union, (2) are not 'Territorial laws' as defined in this paragraph, and (3) are not in conflict with any other provision of this Act.
 
 "
 
@@ -320,7 +322,7 @@ Value of lost use.—(A) the value of any lands conveyed to the Department of Ha
 
 &emsp;"(5)
 
-Federal lands for exchange.—(A) Subject to subparagraphs (B) and (C), Federal lands located in Hawaii that are under the control of an agency (other than lands within the National Park System or the National Wildlife Refuge System) may be conveyed to the Department of Hawaiian Home Lands under paragraphs (1) and (3). To assist the Secretary in carrying out this Act \[title\], the head of an agency may transfer to the Department of the Interior, without reimbursement, jurisdiction and control over any lands and any structures that the Secretary determines to be suitable for conveyance to the Department of Hawaiian Home Lands pursuant to an exchange conducted under this section.
+Federal lands for exchange.—(A) Subject to subparagraphs (B) and (C), Federal lands located in Hawaii that are under the control of an agency (other than lands within the National Park System or the National Wildlife Refuge System) may be conveyed to the Department of Hawaiian Home Lands under paragraphs (1) and (3). To assist the Secretary in carryingout this Act \[title\], the head of an agency may transfer to the Department of the Interior, without reimbursement, jurisdiction and control over any lands and any structures that the Secretary determines to be suitable for conveyance to the Department of Hawaiian Home Lands pursuant to an exchange conducted under this section.
 
 &emsp;"(B) No Federal lands that the Federal Government is required to convey to the State of Hawaii under section 5 of the Hawaii State Admission Act \[section 5 of Pub. L. 86–3, set out above\] may be conveyed under paragraph (1) or (3).
 
@@ -402,7 +404,7 @@ Limitation.—No Federal lands that generate income (or would be expected to gen
 
 "(a)
 
-Notice to the Secretary.—Not later than 120 days after a proposed amendment to the Hawaiian Homes Commission Act is approved in the manner provided in section 4 of the Hawaii State Admission Act\[section 4 of Pub. L. 86–3, set out above\], the Chairman shall submit to the Secretary—
+Notice to the Secretary.—Not later than 120 days after a proposed amendment to the Hawaiian Homes Commission Act is approved in the manner provided in section 4 of the Hawaii State Admission Act \[section 4 of Pub. L. 86–3, set out above\], the Chairman shall submit to the Secretary—
 
 &emsp;"(1) a copy of the proposed amendment;
 
@@ -536,7 +538,7 @@ Responsibilities.—The individual designated pursuant to subsection (a) shall, 
 
 In General.—Not later than 180 days after the date of enactment of this Act \[Nov. 2, 1995\], the Chairman shall report to the Secretary concerning any claims that—
 
-&emsp;"(1) involve the transfer of lands designated as available lands under section 203 of the HawaiianHomes Commission Act \[former 48 U.S.C. 697\] (as in effect on the date of enactment of such Act \[July 9, 1921\]); and
+&emsp;"(1) involve the transfer of lands designated as available lands under section 203 of the Hawaiian Homes Commission Act \[former 48 U.S.C. 697\] (as in effect on the date of enactment of such Act \[July 9, 1921\]); and
 
 &emsp;"(2) are not otherwise covered under this title.
 
@@ -636,7 +638,7 @@ Sec. 8. \[Soil Conservation and Domestic Allotment Act; amendment.\] (a) Section
 
 "
 
-Sec. 9. \[Water Storage and Utilization.\] Section 1 of the Act of August 28, 1937 (50 Stat. 869), as amended, is further amended by striking out the words 'the United States, including the Territories of Alaska and Hawaii, and Puerto Rico and the Virgin Islands' and insertingin lieu thereof the words 'the States of the United States and in Puerto Rico and the Virgin Islands'.
+Sec. 9. \[Water Storage and Utilization.\] Section 1 of the Act of August 28, 1937 (50 Stat. 869), as amended, is further amended by striking out the words 'the United States, including the Territories of Alaska and Hawaii, and Puerto Rico and the Virgin Islands' and inserting in lieu thereof the words 'the States of the United States and in Puerto Rico and the Virgin Islands'.
 
 "
 
@@ -656,7 +658,7 @@ Sec. 11. \[Fishery Resources.\] The Act of Aug. 4, 1947 (61 Stat. 726), is amend
 
 "
 
-Sec. 12. \[Fish Restoration.\] Section 2(d) of the Act of August 9, 1950 (64 Stat. 431), as amended, is further amended by striking out the words '; and the term "State" shall be construed to mean and include the several States and the Territory of Hawaii'.
+Sec. 12. \[Fish Restoration.\] Section 2(d) of the Act of August 9, 1950 (64 Stat. 431), as amended, is furtheramended by striking out the words '; and the term "State" shall be construed to mean and include the several States and the Territory of Hawaii'.
 
 "
 
@@ -806,7 +808,7 @@ Sec. 23. \[Water Pollution Control Act; amendment.\] (a)(1) Subsection (h) of se
 
 "
 
-Sec. 24. \[Coast and Geodetic Survey.\] The first sentence of section 1 of the Act of August 3, 1956 (70 Stat. 988), is amended by striking out the words 'the several States' and inserting in lieu thereof the words 'the States of the continental United States, excluding Alaska.'
+Sec. 24. \[Coast and Geodetic Survey.\] The first sentence of section 1 of the Act of August 3, 1956 (70 Stat.988), is amended by striking out the words 'the several States' and inserting in lieu thereof the words 'the States of the continental United States, excluding Alaska.'
 
 "
 
@@ -1006,11 +1008,17 @@ Sec. 50. \[Separability.\] If any provision of this Act, or the application ther
 
 Sec. 2. \[Public trust; terms and conditions.\] Any lands, property, improvements, and proceeds conveyed or paid to the State of Hawaii under section 1 of this Act shall be considered a part of public trust established by section 5(f) of Public Law 86–3 \[set out above\], and shall be subject to the terms and conditions of that trust."
 
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+Ex. Ord. No. 11230, June 28, 1965, 30 F.R. 8447, under which the functions of the President under section 5(e) of the Hawaii Statehood Act of Mar. 18, 1959, \[set out above\], were delegated to the Director of the Bureau of the Budget \[now Director of Office of Management and Budget\], was superseded by Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out under section 301 of Title 3, The President.
+
 #### Proc. No. 3309. Admission of the State of Hawaii Into the Union
 
 Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74, provided:
 
-WHEREAS the Congress of the United States by the act approved on March 18, 1959 (73 Stat. 4) \[set outabove\], accepted, ratified, and confirmed the constitution adopted by a vote of the people of Hawaii in an election held on November 7, 1950, and provided for the admission of the State of Hawaii into the Union on an equal footing with the other States upon compliance with certain procedural requirements specified in that act; and
+WHEREAS the Congress of the United States by the act approved on March 18, 1959 (73 Stat. 4) \[set out above\], accepted, ratified, and confirmed the constitution adopted by a vote of the people of Hawaii in an election held on November 7, 1950, and provided for the admission of the State of Hawaii into the Union on an equal footing with the other States upon compliancewith certain procedural requirements specified in that act; and
 
 WHEREAS it appears from the information before me that a majority of the legal votes cast at an election on June 27, 1959, were in favor of each of the propositions required to be submitted to the people of Hawaii by section 7(b) of the act of March 18, 1959 \[set out above\]; and
 
@@ -1084,7 +1092,7 @@ Sec. 3. (a) The Secretary of the Interior, through the United States Fish and Wi
 
 (5) in a manner compatible with refuge purposes, shall recognize and maintain the historic significance of the Midway Islands consistent with the policy stated in Executive Order 11593 of May 13, 1971 \[54 U.S.C. 300101 note\].
 
-(b) The Secretary of the Interior shall be responsible for the civil administration of the Midway Islands and all executive and legislative authority necessary for that administration, and all judicial authority respecting the Midway Islands other than the authority contained in 48 U.S.C. 644a.
+(b) The Secretary of the Interior shall be responsible for the civil administration of the Midway Islands and all executive and legislative authority necessary forthat administration, and all judicial authority respecting the Midway Islands other than the authority contained in 48 U.S.C. 644a.
 
 Sec. 4. Any civil or criminal proceeding that is pending under the Midway Islands Code, 32 CFR Part 762, upon the date of this order, shall remain under the jurisdiction of the Secretary of the Navy. Actions arising after the date of this order are the responsibility of the Secretary of the Interior and shall be administered pursuant to regulations promulgated by the Secretary of the Interior.
 
@@ -1093,10 +1101,6 @@ Sec. 5. To the extent that any prior Executive order or proclamation is inconsis
 Sec. 6. Nothing in this order shall be deemed to reduce, limit, or otherwise modify the authority or responsibility of the Attorney General of the United States to represent the legal interests of the United States in civil or criminal cases arising under the provisions of 48 U.S.C. 644a.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Delegation of Functions
-
-Ex. Ord. No. 11230, June 28, 1965, 30 F.R. 8447, under which the functions of the President under section 5(e) of the Hawaii Statehood Act of Mar. 18, 1959, \[set out above\], were delegated to the Director of the Bureau of the Budget \[now Director of Office of Management and Budget\], was superseded by Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out under section 301 of Title 3, The President.
 
 
 ---

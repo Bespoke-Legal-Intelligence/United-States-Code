@@ -4,15 +4,21 @@ The Secretary of Agriculture shall have charge, in the building and premises app
 
 (R.S. §525; Feb. 9, 1889, ch. 122, §§1, 4, 25 Stat. 659.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §525 derived from act May 15, 1862, ch. 72, §3, 12 Stat. 387 and Res. Dec. 15, 1868, No. 1, 15 Stat. 343.
 
 Section was formerly classified to section 516 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 "Secretary of Agriculture" substituted in text for "Commissioner of Agriculture" pursuant to sections 1 and 4 of act Feb. 9, 1889, which are classified to section 2202 of this title. See, also, section 2205 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

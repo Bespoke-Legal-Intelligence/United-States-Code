@@ -12,7 +12,7 @@ Section was formerly classified to section 452 of this title prior to editorial 
 
 #### Amendments
 
-<b>1936</b>—Act June 4, 1936, substituted "with any State or Territory, or political subdivision thereof, or with any State university, college, or school, or with any appropriate State or private corporation, agency, or institution", "through the agencies of the State or Territoryor of the corporations and organizations hereinbefore named,", and "such State or Territory" for "any State or Territory having legal authority so to do,", "through the qualified agencies of such State or Territory,", and "such State", respectively.
+<b>1936</b>—Act June 4, 1936, substituted "with any State or Territory, or political subdivision thereof, or with any State university, college, or school, or with any appropriate State or private corporation, agency, or institution", "through the agencies of the State or Territory or of the corporations and organizations hereinbefore named,", and "such State or Territory" for "any State or Territory having legal authority so to do,", "through the qualified agencies of such State or Territory,", and "such State", respectively.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

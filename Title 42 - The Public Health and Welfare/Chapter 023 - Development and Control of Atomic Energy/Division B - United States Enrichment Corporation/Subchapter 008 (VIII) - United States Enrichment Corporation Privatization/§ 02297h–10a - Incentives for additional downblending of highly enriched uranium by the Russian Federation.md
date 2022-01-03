@@ -26,7 +26,7 @@ In this section:
 
 #### (5) Low-enriched uranium
 
-&emsp;The term "low-enriched uranium" means a uranium product in any form, including uranium hexafluoride (UF<sub>6</sub>) and uranium oxide (UO<sub>2</sub>), in which the uranium contains less than 20 percent uranium-235, including natural uranium, without regard to whether the uraniumis incorporated into fuel rods or complete fuel assemblies.
+&emsp;The term "low-enriched uranium" means a uranium product in any form, including uranium hexafluoride (UF<sub>6</sub>) and uranium oxide (UO<sub>2</sub>), in which the uranium contains less than 20 percent uranium-235, including natural uranium, without regard to whether the uranium is incorporated into fuel rods or complete fuel assemblies.
 
 #### (6) Russian HEU Agreement
 
@@ -130,11 +130,11 @@ It is the policy of the United States—
 
 &emsp;&emsp;&emsp;The Secretary of Commerce shall administer the import limitations described in subparagraph (A) in accordance with the provisions of the Suspension Agreement, including—
 
-&emsp;&emsp;&emsp;&emsp;(I) the limitations on sales of enriched uranium product and separative work units plus conversion, in amounts determined in accordance with Section IV.B.1 of the Suspension Agreement (as amended by the amendment published in the Federal Register on October 9, 2020 (85 Fed. Reg. 64112));
+&emsp;&emsp;&emsp;&emsp;(I) the limitations on sales of enriched uranium product and separative workunits plus conversion, in amounts determined in accordance with Section IV.B.1 of the Suspension Agreement (as amended by the amendment published in the Federal Register on October 9, 2020 (85 Fed. Reg. 64112));
 
 &emsp;&emsp;&emsp;&emsp;(II) the export limit allocations set forth in Appendix 5 of the Suspension Agreement (as so amended);
 
-&emsp;&emsp;&emsp;&emsp;(III) the requirements for natural uranium returned feed associated with imports of low-enriched uranium, including pursuant to sales of enrichment, with orwithout conversion, from the Russian Federation, as set forth in Section IV.B.1 of the Suspension Agreement (as so amended);
+&emsp;&emsp;&emsp;&emsp;(III) the requirements for natural uranium returned feed associated with imports of low-enriched uranium, including pursuant to sales of enrichment, with or without conversion, from the Russian Federation, as set forth in Section IV.B.1 of the Suspension Agreement (as so amended);
 
 &emsp;&emsp;&emsp;&emsp;(IV) any other provisions of the Suspension Agreement (as so amended); and
 
@@ -200,7 +200,7 @@ It is the policy of the United States—
 
 #### (C) Incentive adjustment
 
-&emsp;&emsp;Beginning in the second calendar year after the calendar year of the completion of the Russian HEU Agreement, the Secretary of Energy shall increase or decrease the amount of low-enriched uranium that may be imported in a calendar year under paragraph (2)(C) (including the amount of low-enriched uranium that may be imported for each kilogram of highly enriched uranium downblended under paragraph (2)(C)(i)) by apercentage equal to the percentage increase or decrease, as the case may be, in the average amount of uranium loaded into nuclear power reactors in the United States in the most recent 3-calendar-year period for which data are available, as reported by the Energy Information Administration of the Department of Energy, compared to the average amount of uranium loaded into such reactors during the 3-calendar-year period beginning on January 1, 2011, as reported by the Energy Information Administration.
+&emsp;&emsp;Beginning in the second calendar year after the calendar year of the completion of the Russian HEU Agreement, the Secretary of Energy shall increase or decrease the amount of low-enriched uranium that may be imported in a calendar year under paragraph (2)(C) (including the amount of low-enriched uranium that may be imported for each kilogram of highly enriched uranium downblended under paragraph (2)(C)(i)) by a percentage equal to the percentage increase or decrease, as the case may be, in the average amount of uranium loaded into nuclear power reactors in the United States in the most recent 3-calendar-year period for which data are available, as reported by the Energy Information Administration of the Department of Energy, compared to the average amount of uranium loaded into such reactors during the 3-calendar-year period beginning on January 1, 2011, as reported by the Energy Information Administration.
 
 #### (D) Publication of adjustments
 
@@ -264,9 +264,11 @@ It is the policy of the United States—
 
 (Pub. L. 104–134, title III, §3112A, as added Pub. L. 110–329, div. C, title VIII, §8118(2), Sept. 30, 2008, 122 Stat. 3647; amended Pub. L. 116–260, div. Z, title II, §2007(a), Dec. 27, 2020, 134 Stat. 2472.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
-Section was enacted as part of the USEC Privatization Act and also as part of the Omnibus ConsolidatedRescissions and Appropriations Act of 1996, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
+Section was enacted as part of the USEC Privatization Act and also as part of the Omnibus Consolidated Rescissions and Appropriations Act of 1996, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
 
 #### Amendments
 
@@ -289,6 +291,8 @@ Subsec. (c)(5)(B) to (D). Pub. L. 116–260, §2007(a)(3)(C)(ii)–(iv), added s
 Subsec. (c)(9). Pub. L. 116–260, §2007(a)(3)(D), substituted "2040" for "2020".
 
 Subsec. (c)(12)(B). Pub. L. 116–260, §2007(a)(3)(E), inserted "or the Suspension Agreement" after "the Russian HEU Agreement".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Applicability
 

@@ -8,11 +8,15 @@ Midshipmen at the Naval Academy shall be appointed by the President alone. An ap
 
 This section is included in this chapter without specific reference to statutory source to resolve the ambiguities and conflicts existing in the statutes relating to the appointment of midshipmen at the Naval Academy. The word "appoint" has been used in various statutes when the intent of Congress was to provide authority in the persons named to "choose," "select," or "nominate" for the office of midshipman. These statutes have been collected and codified in §6954 of this title, which reflects the various sources of nominees for "appointment" as midshipmen and the persons who may so "nominate" them. The actual appointing power resides in the President and this implied authority is herein expressed for clarity and for the purpose of uniformity of expression.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 6953 of this title as this section.
 
 <b>1981</b>—Pub. L. 97–60 inserted provision that an appointment is conditional until the midshipman is admitted.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

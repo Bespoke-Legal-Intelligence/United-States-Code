@@ -134,13 +134,15 @@ In this section:
 
 #### (1) In general
 
-&emsp;Not later than 3 years after the date on which funds are made available to carry out this section, the Secretary shall complete a study assessing the historical significance of additional properties in the State of Delawarethat are associated with the purposes of historical park.
+&emsp;Not later than 3 years after the date on which funds are made available to carry out this section, the Secretary shall complete a study assessing the historical significance of additional properties in the State of Delaware that are associated with the purposes of historical park.
 
 #### (2) Requirements
 
 &emsp;The study prepared under paragraph (1) shall include an assessment of the potential for designating the additional properties as National Historic Landmarks.
 
 (Pub. L. 113–291, div. B, title XXX, §3033, Dec. 19, 2014, 128 Stat. 3775.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

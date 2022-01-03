@@ -28,5 +28,5 @@ In this section, the text of section 1 (words before 1st semicolon) of the Act o
 
 #### Designation of Theodore Roosevelt Island
 
-Act Feb. 11, 1933, ch. 48, §2, 47 Stat. 799, provided that: "In all public documents, records, and maps of the United States in which Roosevelt Island is designated or referred to it shall be designated as 'Theodore Roosevelt Island'."
+Act Feb. 11, 1933, ch. 48, §2, 47 Stat. 799, provided that: "In all public documents, records, and maps of theUnited States in which Roosevelt Island is designated or referred to it shall be designated as 'Theodore Roosevelt Island'."
 

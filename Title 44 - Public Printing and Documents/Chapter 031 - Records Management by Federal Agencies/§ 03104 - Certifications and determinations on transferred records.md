@@ -1,6 +1,6 @@
 ### §3104. Certifications and determinations on transferred records
 
-An official of the Government who is authorized to certify to facts on the basis of records in such official's custody, may certify to facts on the basis of records that have been transferred by such official or such official's predecessors to the Archivist, and may authorize the Archivist to certify to facts and to make administrative determinations on the basis of records transferred to the Archivist, notwithstanding any other law.
+An official of the Government who is authorized to certify to facts on the basis of records in such official's custody, may certify to facts on the basis of records that have been transferredby such official or such official's predecessors to the Archivist, and may authorize the Archivist to certify to facts and to make administrative determinations on the basis of records transferred to the Archivist, notwithstanding any other law.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1298; Pub. L. 98–497, title I, §107(b)(21), Oct. 19, 1984, 98 Stat. 2290; Pub. L. 113–187, §8(10), Nov. 26, 2014, 128 Stat. 2012.)
 

@@ -16,7 +16,7 @@ Within 1 year after December 27, 2020, the President shall submit to the Congres
 
 &emsp;(2) recommendations for the collection, analysis, and dissemination of information concerning domestic and international long-range materials demand, supply and needs, including consideration of the establishment of a separate materials information agency patterned after the Bureau of Labor Statistics; and
 
-&emsp;(3) recommendations for legislation and administrative initiatives necessary to reconcile policy conflicts and to establish programs and institutional structures necessary to achieve the goals of a national materials policy.
+&emsp;(3) recommendations for legislation and administrative initiatives necessary to reconcilepolicy conflicts and to establish programs and institutional structures necessary to achieve the goals of a national materials policy.
 
 #### (b) Director of Office of Science and Technology Policy; coordination, etc., activities
 
@@ -72,9 +72,9 @@ The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (d
 
 <b>2020</b>—Pub. L. 116–260, §7002(m)(1)(A), which directed substitution of "date of enactment of the Energy Act of 2020" for "date of enactment of this Act" wherever appearing, was executed by substituting "December 27, 2020" for "October 21, 1980" in subsecs. (a), (d), and (e). Substitutions in subsecs. (d) and (e) were made for original text reading "enactment of this Act" and "the enactment of this Act", to reflect the probable intent of Congress.
 
-Subsec. (b)(1). Pub. L. 116–260, §7002(m)(1)(B), substituted "National Science and Technology Council" for "Federal Coordinating Council for Science, Engineering, and Technology".
+Subsec. (b)(1). Pub. L. 116–260, §7002(m)(1)(B), substituted "National Science and Technology Council"for "Federal Coordinating Council for Science, Engineering, and Technology".
 
-Subsec. (c). Pub. L. 116–260, §7002(m)(1)(C)(i), in introductory provisions, struck out "the Federal Emergency Management Administration, the Secretary of the Interior, the Secretary of Defense, the Director of theCentral Intelligence Agency, and" before "such" and substituted "appropriate, shall—" for "appropriate shall—".
+Subsec. (c). Pub. L. 116–260, §7002(m)(1)(C)(i), in introductory provisions, struck out "the Federal Emergency Management Administration, the Secretary of the Interior, the Secretary of Defense, the Director of the Central Intelligence Agency, and" before "such" and substituted "appropriate, shall—" for "appropriate shall—".
 
 Subsec. (c)(1). Pub. L. 116–260, §7002(m)(1)(C)(ii), (iii), (iv)(II), (III), redesignated par. (2) as (1), substituted "that assesses" for "which assesses" and "and that" for "in the case identified in paragraph (1) of this subsection, and which", and struck out former par. (1) which read as follows: "within 3 months after October 21, 1980, identify and submit to the Congress a specific materials needs case related to national security, economic well-being and industrial production which will be the subject of the report required by paragraph (2) of this subsection;".
 

@@ -8,7 +8,7 @@
 
 &emsp;(ii) An agency or laboratory may provide appropriate incentives, from royalties, or other payments, to laboratory employees who are not an inventor of such inventions but who substantially increased the technical value of such inventions.
 
-&emsp;(iii) The agency or laboratory shall retain the royalties and other payments received from an invention until the agency or laboratory makes payments to employees of a laboratory under clause (i) or (ii).
+&emsp;(iii) The agency or laboratory shall retain the royalties and other payments receivedfrom an invention until the agency or laboratory makes payments to employees of a laboratory under clause (i) or (ii).
 
 &emsp;(B) The balance of the royalties or other payments shall be transferred by the agency to its laboratories, with the majority share of the royalties or other payments from any invention going to the laboratory where the invention occurred. The royalties or other payments so transferred to any laboratory may be used or obligated by that laboratory during the fiscal year in which they are received or during the 2 succeeding fiscal years—
 
@@ -28,7 +28,7 @@
 
 (3) Any payment made to an employee under this section shall be in addition to the regular pay of the employee and to any other awards made to the employee, and shall not affect the entitlement of the employee to any regular pay, annuity, or award to which he is otherwise entitled or for which he is otherwise eligible or limit the amount thereof. Any payment made to an inventor as such shall continue after the inventor leaves the laboratory or agency. Payments made under this section shall not exceed $150,000 per year to any one person, unless the President approves a larger award (with the excess over $150,000 being treated as a Presidential award under section 4504 of title 5).
 
-(4) A Federal agency receiving royalties or other payments as a result of invention management services performed for another Federal agency or laboratory under section 207 of title 35, may retain such royalties or payments to the extent required to offset payments to inventors under clause (i) of paragraph (1)(A), costs and expenses incurred under clause (iv) of paragraph\(1)(B), and the cost of foreign patenting and maintenance for any invention of the other agency. All royalties and other payments remaining after offsetting the payments to inventors, costs, and expenses described in the preceding sentence shall be transferred to the agency for which the services were performed, for distribution in accordance with paragraph (1)(B).
+(4) A Federal agency receiving royalties or other payments as a result of invention management services performed for another Federal agency or laboratory under section 207 of title 35, may retain such royalties or payments to the extent required to offset payments to inventors under clause (i) of paragraph (1)(A), costs and expenses incurred under clause (iv) of paragraph (1)(B), and the cost of foreign patenting and maintenance for any invention of the other agency. All royalties and other payments remaining after offsetting the payments to inventors, costs, and expenses described in the preceding sentence shall be transferred to the agency for which the services were performed, for distribution in accordance with paragraph (1)(B).
 
 #### (b) Certain assignments
 
@@ -45,6 +45,8 @@ If the invention involved was one assigned to the Federal agency—
 The Comptroller General shall transmit a report to the appropriate committees of the Senate and House of Representatives on the effectiveness of Federal technology transfer programs, including findings, conclusions, and recommendations for improvements in such programs. The report shall be integrated with, and submitted at the same time as, the report required by section 202(b)(3) <sup>1</sup> of title 35.
 
 (Pub. L. 96–480, §14, as added, renumbered §13, and amended Pub. L. 99–502, §§7, 9(e)(1), (3), Oct. 20, 1986, 100 Stat. 1792, 1797; renumbered §14 and amended Pub. L. 100–418, title V, §§5122(a)(1), 5162(a), Aug. 23, 1988, 102 Stat. 1438, 1450; Pub. L. 100–519, title III, §303(a), Oct. 24, 1988, 102 Stat. 2597; Pub. L. 101–189, div. C, title XXXI, §3133(c), Nov. 29, 1989, 103 Stat. 1677; Pub. L. 104–113, §5, Mar. 7, 1996, 110 Stat. 777; Pub. L. 106–404, §§7(7), 10(b), Nov. 1, 2000, 114 Stat. 1746, 1749.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -89,6 +91,8 @@ Subsec. (a)(1)(A)(ii). Pub. L. 100–519, §303(a)(2), substituted "under clause
 Subsec. (a)(4). Pub. L. 100–418, §5162(a), substituted "may" for "shall" and "any invention of the other agency" for "such invention performed at the request of the other agency or laboratory" in first sentence.
 
 <b>1986</b>—Subsec. (a)(1). Pub. L. 99–502, §9(e)(3), in introductory par. made technical amendment to reference to section 3710a of this title to reflect renumbering of corresponding section of original act.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

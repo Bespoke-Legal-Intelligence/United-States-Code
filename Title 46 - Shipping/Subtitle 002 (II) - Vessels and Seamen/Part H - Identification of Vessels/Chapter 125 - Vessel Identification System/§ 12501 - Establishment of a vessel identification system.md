@@ -32,13 +32,13 @@
 
 (c) The Secretary may maintain information under this chapter in connection with any other information system maintained by the Secretary.
 
-(Added Pub. L. 100–710, title I, §101(a), Nov. 23, 1988, 102 Stat. 4735; amended Pub. L. 101–225, title III, §302(1), Dec. 12, 1989, 103 Stat. 1922; Pub. L. 101–595, title VI, §603(10), Nov. 16, 1990, 104 Stat. 2993.)
+(Added Pub. L. 100–710, title I, §101(a), Nov. 23, 1988, 102 Stat. 4735; amended Pub. L. 101–225, titleIII, §302(1), Dec. 12, 1989, 103 Stat. 1922; Pub. L. 101–595, title VI, §603(10), Nov. 16, 1990, 104 Stat. 2993.)
 
 #### Historical and Revision Notes
 
 #### <i>Revised section 12501</i>
 
-Subsection (a) of section 12501 requires the Secretary of Transportation to establish a system of information concerning vessels of the United States for law enforcement and other purposes. The Secretary is required tomake available information from the system relating to the ownership of vessels documented under chapter 121 of title 46, numbered under chapter 123 of that title, and titled under the law of a State. The information is available under section 12503 for use by the public, similarly under the Ship Mortgage Act, 1920.
+Subsection (a) of section 12501 requires the Secretary of Transportation to establish a system of information concerning vessels of the United States for law enforcement and other purposes. The Secretary is required to make available information from the system relating to the ownership of vessels documented under chapter 121 of title 46, numbered under chapter 123 of that title, and titled under the law of a State. The information is available under section 12503 for use by the public, similarly under the Ship Mortgage Act, 1920.
 
 Subsection (b) lists the vessel identification information which is required to be maintained by the Secretary. The Secretary has the authority to prescribe other information to be maintained in addition to the items listed. For example, the Secretary may identify vessels issued fisheries permits by the Department of Commerce. The Secretary may also monitor transactions involving vessels that require approval by the Secretary under section 9 of the Shipping Act, 1916 (46 App. U.S.C. 808) before interest or control in the vessel may be transferred to a noncitizen.
 

@@ -44,13 +44,13 @@ The taxable income of an estate or trust shall be computed in the same manner as
 
 &emsp;&emsp;&emsp;(iv) Any interest expense paid or accrued on indebtedness incurred to acquire stock in an S corporation.
 
-> &emsp;&emsp;No deduction or credit shall be allowed for any amount not described in this paragraph, and no item described in this paragraph shall be apportioned to any beneficiary.
+> &emsp;&emsp;No deduction or credit shall be allowed for any amount not described in this paragraph,and no item described in this paragraph shall be apportioned to any beneficiary.
 
 &emsp;&emsp;(D) No amount shall be allowed under paragraph (1) or (2) of section 1211(b).
 
 &emsp;&emsp;(E)(i) Section 642(c) shall not apply.
 
-&emsp;&emsp;(ii) For purposes of section 170(b)(1)(G), adjusted gross income shall be computed in the same manner as in the case of an individual, except that the deductions for costs which are paid or incurred in connection with the administration of the trust and which would not have been incurred if the property werenot held in such trust shall be treated as allowable in arriving at adjusted gross income.
+&emsp;&emsp;(ii) For purposes of section 170(b)(1)(G), adjusted gross income shall be computed in the same manner as in the case of an individual, except that the deductions for costs which are paid or incurred in connection with the administration of the trust and which would not have been incurred if the property were not held in such trust shall be treated as allowable in arriving at adjusted gross income.
 
 #### (3) Treatment of remainder of trust and distributions
 
@@ -71,6 +71,8 @@ The taxable income of an estate or trust shall be computed in the same manner as
 &emsp;For purposes of this subsection, the term "electing small business trust" has the meaning given such term by section 1361(e)(1).
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 215; Pub. L. 91–172, title VIII, §803(d)(3), Dec. 30, 1969, 83 Stat. 684; Pub. L. 94–455, title VII, §701(e)(2), Oct. 4, 1976, 90 Stat. 1579; Pub. L. 95–30, title I, §101(d)(8), May 23, 1977, 91 Stat. 134; Pub. L. 104–188, title I, §1302(d), Aug. 20, 1996, 110 Stat. 1778; Pub. L. 105–34, title XVI, §1601(i)(3)(B), Aug. 5, 1997, 111 Stat. 1093; Pub. L. 105–206, title VI, §6007(f)(2), July 22, 1998, 112 Stat. 810; Pub. L. 110–28, title VIII, §8236(a), May 25, 2007, 121 Stat. 199; Pub. L. 115–97, title I, §13542(a), Dec. 22, 2017, 131 Stat. 2154.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -99,6 +101,8 @@ Cross reference.—
 <b>1976</b>—Subsec. (c). Pub. L. 94–455 added subsec. (c).
 
 <b>1969</b>—Subsec. (a). Pub. L. 91–172 substituted "The tax imposed by section 1(d)" for "The taxes imposed by this chapter on individuals".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 

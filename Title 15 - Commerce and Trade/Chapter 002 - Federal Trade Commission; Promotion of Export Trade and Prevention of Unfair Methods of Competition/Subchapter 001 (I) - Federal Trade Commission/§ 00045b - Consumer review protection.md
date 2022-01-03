@@ -106,7 +106,7 @@ It shall be unlawful for a person to offer a form contract containing a provisio
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (iii), the attorney general of a State shall notify the Commission in writing that the attorney general intends to bring a civil action under paragraph (1) before initiating the civil action against a person described in subsection (d)(1).
+&emsp;&emsp;&emsp;Except as provided in clause (iii), the attorney general of a State shall notify the Commission in writing that the attorney general intends to bring a civil action under paragraph (1) before initiating thecivil action against a person described in subsection (d)(1).
 
 #### (ii) Contents
 
@@ -185,6 +185,8 @@ This section shall take effect on December 14, 2016, except that—
 &emsp;(2) subsections (d) and (e) shall apply with respect to contracts in effect on or after the date that is 1 year after December 14, 2016.
 
 (Pub. L. 114–258, §2, Dec. 14, 2016, 130 Stat. 1355.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

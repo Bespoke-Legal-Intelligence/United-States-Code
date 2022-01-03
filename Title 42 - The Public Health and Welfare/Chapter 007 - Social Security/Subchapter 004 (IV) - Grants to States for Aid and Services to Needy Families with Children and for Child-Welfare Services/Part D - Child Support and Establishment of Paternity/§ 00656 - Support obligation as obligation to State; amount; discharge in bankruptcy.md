@@ -18,6 +18,8 @@ A debt (as defined in section 101 of title 11) owed under State law to a State (
 
 (Aug. 14, 1935, ch. 531, title IV, §456, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2356; amended Pub. L. 95–598, title III, §328, Nov. 6, 1978, 92 Stat. 2679; Pub. L. 97–35, title XXIII, §2334(a), Aug. 13, 1981, 95 Stat. 863; Pub. L. 98–369, div. B, title VI, §2663(c)(15), July 18, 1984, 98 Stat. 1167; Pub. L. 98–378, §11(b)(2), Aug. 16, 1984, 98 Stat. 1318; Pub. L. 104–193, title I, §108(c)(13), title III, §§374(b), 395(d)(2)(C), Aug. 22, 1996, 110 Stat. 2166, 2255, 2260; Pub. L. 105–33, title V, §§5513(a)(3), 5556(d), Aug. 5, 1997, 111 Stat. 619, 637.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1997</b>—Subsec. (a)(1). Pub. L. 105–33, §5513(a)(3), amended Pub. L. 104–193, §108(c)(13). See 1996 Amendment note below.
@@ -42,6 +44,8 @@ Subsec. (a)(3). Pub. L. 98–369, §2663(c)(15)(C), (D), redesignated former par
 
 <b>1978</b>—Subsec. (b). Pub. L. 95–598 repealed provision declaring a debt which is a child support obligation assigned to a State under section 602(a)(26) of this title as not released by a discharge in bankruptcy under the Bankruptcy Act.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1997 Amendment
 
 Amendment by section 5513(a)(3) of Pub. L. 105–33 effective as if included in section 108 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, at the time such section 108 became law, see section 5518(b) of Pub. L. 105–33, set out as a note under section 652 of this title.
@@ -52,7 +56,7 @@ Amendment by section 5556(d) of Pub. L. 105–33 effective as if included in the
 
 Amendment by section 108(c)(13) of Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of this title.
 
-Amendment by section 374(b) of Pub. L. 104–193 applicable only with respect to cases commenced underTitle 11, Bankruptcy, after Aug. 22, 1996, see section 374(c) of Pub. L. 104–193, set out as a note under section 523 of Title 11.
+Amendment by section 374(b) of Pub. L. 104–193 applicable only with respect to cases commenced under Title 11, Bankruptcy, after Aug. 22, 1996, see section 374(c) of Pub. L. 104–193, set out as a note under section 523 of Title 11.
 
 For provisions relating to effective date of title III of Pub. L. 104–193, see section 395(a)–(c) of Pub. L. 104–193, set out as a note under section 654 of this title.
 

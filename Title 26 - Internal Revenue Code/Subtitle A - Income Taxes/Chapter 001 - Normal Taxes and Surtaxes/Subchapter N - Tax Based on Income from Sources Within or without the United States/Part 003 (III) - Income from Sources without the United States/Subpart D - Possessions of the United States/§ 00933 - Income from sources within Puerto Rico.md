@@ -12,9 +12,13 @@ The following items shall not be included in gross income and shall be exempt fr
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 293; Pub. L. 99–514, title XII, §1272(d)(3), Oct. 22, 1986, 100 Stat. 2594.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1986</b>—Pub. L. 99–514 inserted ", or any credit," in pars. (1) and (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

@@ -12,9 +12,11 @@ For the purposes of this part:
 
 (Pub. L. 102–575, title XXVIII, §2803, Oct. 30, 1992, 106 Stat. 4691.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This part, referred to in text, was in the original "this title", meaning title XXVIII of Pub. L. 102–575,Oct. 30, 1992, 106 Stat. 4690, which enacted sections 460l–31 to 460l–34 of this title and amended sections 460l–13 to 460l–15 and 460l–18 of this title.
+This part, referred to in text, was in the original "this title", meaning title XXVIII of Pub. L. 102–575, Oct. 30, 1992, 106 Stat. 4690, which enacted sections 460l–31 to 460l–34 of this title and amended sections 460l–13 to 460l–15 and 460l–18 of this title.
 
 Act of June 17, 1902, referred to in pars. (2) and (3), is act June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, which is classified generally to chapter 12 (§371 et seq.) of Title 43, Public Lands. However, section 371 of Title 43 is act Dec. 5, 1924, ch. 4, §4, subsec. A, 43 Stat. 701. For complete classification of act June 17, 1902, to the Code, see Short Title note set out under section 371 of Title 43 and Tables.
 

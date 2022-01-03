@@ -8,9 +8,29 @@
 
 &emsp;(2) the total number of such orders either granted, modified, or denied.
 
-(Pub. L. 95–511, title V, §503, as added Pub. L. 105–272, title VI, §602, Oct. 20, 1998, 112 Stat. 2412.)
+(Pub. L. 95–511, title V, §503, as added Pub. L. 105–272, title VI, §602, Oct. 20, 1998, 112 Stat. 2412; Pub. L. 109–177, title I, §102(b)(1), Mar. 9, 2006, 120 Stat. 195; Pub. L. 111–118, div. B, §1004(a), Dec. 19, 2009, 123 Stat. 3470; Pub. L. 111–141, §1(a), Feb. 27, 2010, 124 Stat. 37; Pub. L. 112–3, §2(a), Feb. 25, 2011, 125 Stat. 5; Pub. L. 112–14, §2(a), May 26, 2011, 125 Stat. 216; Pub. L. 114–23, title VII, §705(a), (c), June 2, 2015, 129 Stat. 300; Pub. L. 116–69, div. B, title VII, §1703(a), Nov. 21, 2019, 133 Stat. 1143.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2019</b>—Pub. L. 116–69 amended directory language of Pub. L. 109–177, §102(b)(1). See 2006 Amendment note below.
+
+<b>2015</b>—Pub. L. 114–23, §705(a), (c), amended directory language of Pub. L. 109–177, §102(b)(1). See 2006 Amendment note below.
+
+<b>2011</b>—Pub. L. 112–14 amended directory language of Pub. L. 109–177, §102(b)(1). See 2006 Amendment note below.
+
+Pub. L. 112–3 amended directory language of Pub. L. 109–177, §102(b)(1). See 2006 Amendment note below.
+
+<b>2010</b>—Pub. L. 111–141 amended directory language of Pub. L. 109–177, §102(b)(1). See 2006 Amendment note below.
+
+<b>2009</b>—Pub. L. 111–118 amended directory language of Pub. L. 109–177, §102(b)(1). See 2006 Amendment note below.
+
+<b>2006</b>—Pub. L. 109–177, §102(b)(1), revived this section to read as it read on Oct. 25, 2001.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of Revival
 
-Revival of section, which had been repealed by Pub. L. 107–56, title II, §215, Oct. 26, 2001, 115 Stat. 287, by section 102(b)(1) of Pub. L. 109–177 effective Mar. 15, 2020, except that former provisions to continue in effect with respect to any particular foreign intelligence investigation that began before Mar. 15, 2020, or with respect to any particular offense or potential offense that began or occurred before Mar. 15, 2020, see section 102(b) of Pub. L. 109–177, set out as an Effective Date of 2006 Amendment note under section 1805 of this title.
+Section, which had been repealed by Pub. L. 107–56, title II, §215, Oct. 26, 2001, 115 Stat. 287, was revived by section 102(b)(1) of Pub. L. 109–177 effective Mar. 15, 2020, except that former provisions to continue in effect with respect to any particular foreign intelligence investigation that began before Mar. 15, 2020, or with respect to any particular offense or potential offense that began or occurred before Mar. 15, 2020, see section 102(b) of Pub. L. 109–177, set out as an Effective Date of 2006 Amendment note under section 1805 of this title.
 

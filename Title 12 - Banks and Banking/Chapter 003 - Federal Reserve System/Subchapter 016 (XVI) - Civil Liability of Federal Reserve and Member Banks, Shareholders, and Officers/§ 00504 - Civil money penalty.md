@@ -108,7 +108,7 @@ Amendment by section 907(g) of Pub. L. 101–73 applicable to conduct engaged in
 
 #### Effective Date
 
-Section effective with respect to violations occurring or continuing after Nov. 10, 1978, see section 109 of Pub. L. 95–630 set out as an Effective Date of 1978 Amendment note under section 93 of this title.
+Section effective with respect to violations occurring or continuing after Nov. 10, 1978, see section 109 of Pub.L. 95–630 set out as an Effective Date of 1978 Amendment note under section 93 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a dash.</i>
 

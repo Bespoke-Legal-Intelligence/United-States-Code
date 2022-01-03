@@ -86,9 +86,13 @@ In subsection (c), the words "The Attorney General may bring a civil action" are
 
 Subsection (d) is substituted for 15:1947 (last sentence) and 1948(c) for clarity and consistency in this part by restating 15:1917(c)(3) and (4).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2007</b>—Subsecs. (c) to (e). Pub. L. 110–140 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

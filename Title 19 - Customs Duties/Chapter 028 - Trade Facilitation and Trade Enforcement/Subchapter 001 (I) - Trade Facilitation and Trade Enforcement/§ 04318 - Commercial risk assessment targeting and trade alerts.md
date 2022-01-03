@@ -58,6 +58,8 @@ In carrying out its duties under section 211(g)(4) of title 6, the National Targ
 
 (Pub. L. 114–125, title I, §111, Feb. 24, 2016, 130 Stat. 139.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is comprised of section 111 of Pub. L. 114–125. Subsec. (c) of section 111 of Pub. L. 114–125 amended section 1415 of this title.

@@ -1,6 +1,6 @@
 ### §74. Congressional findings and declaration of policy
 
-(a) Grain is an essential source of the world's total supply of human food and animal feed andis merchandised in interstate and foreign commerce. It is declared to be the policy of the Congress, for the promotion and protection of such commerce in the interests of producers, merchandisers, warehousemen, processors, and consumers of grain, and the general welfare of the people of the United States, to provide for the establishment of official United States standards for grain, to promote the uniform application thereof by official inspection personnel, to provide for an official inspection system for grain, and to regulate the weighing and the certification of the weight of grain shipped in interstate or foreign commerce in the manner hereinafter provided; with the objectives that grain may be marketed in an orderly and timely manner and that trading in grain may be facilitated. It is hereby found that all grain and other articles and transactions in grain regulated under this chapter are either in interstate or foreign commerce or substantially affect such commerce and that regulation thereof as provided in this chapter is necessary to prevent or eliminate burdens on such commerce and to regulate effectively such commerce.
+(a) Grain is an essential source of the world's total supply of human food and animal feed and is merchandised in interstate and foreign commerce. It is declared to be the policy of the Congress, for the promotion and protection of such commerce in the interests of producers, merchandisers, warehousemen, processors, and consumers of grain, and the general welfare of the people of the United States, to provide for the establishment of official United States standards for grain, to promote the uniform application thereof by official inspection personnel, to provide for an official inspection system for grain, and to regulate the weighing and the certification of the weight of grain shipped in interstate or foreign commerce in the manner hereinafter provided; with the objectives that grain may be marketed in an orderly and timely manner and that trading in grain may be facilitated. It is hereby found that all grain and other articles and transactions in grain regulated under this chapter are either in interstate or foreign commerce or substantially affect such commerce and that regulation thereof as provided in this chapter is necessary to prevent or eliminate burdens on such commerce and to regulate effectively such commerce.
 
 (b) It is also declared to be the policy of Congress—
 
@@ -24,6 +24,8 @@
 
 (Aug. 11, 1916, ch. 313, pt. B, §2, 39 Stat. 482; July 18, 1940, ch. 636, 54 Stat. 765; Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 761; Pub. L. 94–582, §2, Oct. 21, 1976, 90 Stat. 2867; Pub. L. 99–641, title III, §302, Nov. 10, 1986, 100 Stat. 3564; Pub. L. 101–624, title XX, §2004, Nov. 28, 1990, 104 Stat. 3929.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Subsec. (b)(3)(E), (F). Pub. L. 101–624 added subpars. (E) and (F).
@@ -35,6 +37,8 @@
 <b>1968</b>—Pub. L. 90–487 substituted a declaration of policy by the Congress for provisions authorizing promulgation and establishment of grain standards by Secretary of Agriculture.
 
 <b>1940</b>—Act July 18, 1940, inserted "soybeans," after "flaxseed,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

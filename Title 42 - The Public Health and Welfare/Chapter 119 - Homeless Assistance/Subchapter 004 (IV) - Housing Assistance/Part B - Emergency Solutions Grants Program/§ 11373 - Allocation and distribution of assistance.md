@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall allocate assistance under this part to metropolitan cities, urban counties, and States (for distribution to local governments and private nonprofit organizations in the States) in a manner that ensures that the percentage of the total amount available under this part for any fiscal year that is allocated to any State, metropolitan city, or urban county is equal to the percentage of the total amount available for section 5306 of this title for such prior fiscal year that is allocated to such State, metropolitan city, or urban county.
+The Secretary shall allocate assistance under this part to metropolitan cities, urban counties,and States (for distribution to local governments and private nonprofit organizations in the States) in a manner that ensures that the percentage of the total amount available under this part for any fiscal year that is allocated to any State, metropolitan city, or urban county is equal to the percentage of the total amount available for section 5306 of this title for such prior fiscal year that is allocated to such State, metropolitan city, or urban county.
 
 #### (b) Minimum allocation requirement
 
@@ -18,13 +18,15 @@ Any local government receiving assistance under this part may distribute all or 
 
 (2) If a city or county eligible for a grant under subsection (a) fails to obtain approval of its comprehensive plan during the 90-day period following the date funds authorized by this part first become available for allocation during any fiscal year, the amount that the city or county would have received shall be available to the State in which the city or county is located if the State has obtained approval of its comprehensive plan. Any amounts that cannot be allocated to a State under the preceding sentence shall be reallocated to other States, counties, and cities that demonstrate extraordinary need or large numbers of homeless individuals, as determined by the Secretary.
 
-(3) If a State fails to obtain approval of its comprehensive plan during the 90-day period following the date funds authorized by this part first become available for allocation during any fiscal year, the amount that the State would have received shall be reallocated to other States and to cities and counties as applicable,that demonstrate extraordinary need or large numbers of homeless individuals, as determined by the Secretary.
+(3) If a State fails to obtain approval of its comprehensive plan during the 90-day period following the date funds authorized by this part first become available for allocation during any fiscal year, the amount that the State would have received shall be reallocated to other States and to cities and counties as applicable, that demonstrate extraordinary need or large numbers of homeless individuals, as determined by the Secretary.
 
 #### (e) Allocations to territories
 
 In addition to the other allocations required in this section, the Secretary shall (for amounts appropriated after July 22, 1987) allocate assistance under this part to the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States, in accordance with an allocation formula established by the Secretary.
 
 (Pub. L. 100–77, title IV, §414, formerly §413, July 22, 1987, 101 Stat. 496; Pub. L. 100–628, title IV, §421, Nov. 7, 1988, 102 Stat. 3231; Pub. L. 101–625, title VIII, §832(f)(3)–(5), Nov. 28, 1990, 104 Stat. 4361; Pub. L. 104–330, title V, §506(a)(3), Oct. 26, 1996, 110 Stat. 4044; renumbered §414 and amended Pub. L. 111–22, div. B, title II, §1201(3), (5), May 20, 2009, 123 Stat. 1678, 1679; Pub. L. 114–94, div. G, title LXXIX, §79002, Dec. 4, 2015, 129 Stat. 1792; Pub. L. 114–201, title IV, §402, July 29, 2016, 130 Stat. 808.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -56,6 +58,8 @@ Subsec. (d)(3). Pub. L. 101–625, §832(f)(5), inserted "or Indian tribe" after
 
 Subsec. (c). Pub. L. 100–628, §421(b), inserted at end "Any State receiving assistance under this part may distribute all or a portion of such assistance to private nonprofit organizations providing assistance to homeless individuals, if the local government for the locality in which the project is located certifies that it approves of the project."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2009 Amendment
 
 Amendment by Pub. L. 111–22 effective on the earlier of 18 months after May 20, 2009, or 3 months after publication of certain final regulations by Secretary of Housing and Urban Development, see section 1503 of Pub. L. 111–22, set out as a note under section 11302 of this title.
@@ -65,6 +69,8 @@ Amendment by Pub. L. 111–22 effective on the earlier of 18 months after May 20
 Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as an Effective Date note under section 4101 of Title 25, Indians.
 
 Amendment by Pub. L. 104–330 applicable with respect to amounts made available for assistance under this subchapter for fiscal year 1998 and fiscal years thereafter, see section 506(c) of Pub. L. 104–330, set out as a note under section 11371 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Termination of Trust Territory of the Pacific Islands
 

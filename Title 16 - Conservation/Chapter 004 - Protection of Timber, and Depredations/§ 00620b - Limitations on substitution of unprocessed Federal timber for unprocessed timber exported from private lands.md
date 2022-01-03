@@ -42,7 +42,7 @@ Applicability.—In the case of the purchase by a person of unprocessed timber o
 
 &emsp;(A) The Secretary of Agriculture shall, as soon as practicable but not later than 9 months after August 20, 1990, establish, by rule, a limited amount of unprocessed timber originating from Federal lands described in subparagraph (B) which may be purchased by a person otherwise covered by the prohibition contained in paragraph (1). Such limit shall equal—
 
-&emsp;&emsp;(i) the amount of such timber acquired by such person, based on the higher of the applicant's actual timber purchasing receipts or the appropriate Federal agency's records, during fiscal years 1988, 1989, and 1990, divided by 3, or
+&emsp;&emsp;(i) the amount of such timber acquired by such person, based on the higher of the applicant's actual timber purchasing receiptsor the appropriate Federal agency's records, during fiscal years 1988, 1989, and 1990, divided by 3, or
 
 &emsp;&emsp;(ii) 15 million board feet,
 
@@ -64,7 +64,7 @@ Applicability.—In the case of the purchase by a person of unprocessed timber o
 
 &emsp;&emsp;(B) during the period in which such approval is in effect, does not export unprocessed timber originating from private lands within the sourcing area.
 
-> &emsp;The Secretary concerned may waive the 24-month requirement set forth in subparagraph (A) for any person who, within 3 months after August 20, 1990, certifies that, within 6 months after August 20, 1990, such person will, for a period of not less than 3 years, cease exportingunprocessed timber originating from private lands within the sourcing area.
+> &emsp;The Secretary concerned may waive the 24-month requirement set forth in subparagraph (A) for any person who, within 3 months after August 20, 1990, certifies that, within 6 months after August 20, 1990, such person will, for a period of not less than 3 years, cease exporting unprocessed timber originating from private lands within the sourcing area.
 
 #### (2) Requirements for application for sourcing areas for processing facilities located outside the northwestern private timber open market area
 
@@ -88,7 +88,7 @@ Applicability.—In the case of the purchase by a person of unprocessed timber o
 
 #### (C) For timber manufacturing facilities located in States other than Idaho
 
-&emsp;&emsp;Except as provided in subparagraph (D), in making the determination referred to in subparagraph (A), the Secretary concerned shall consider the private timber export and the Federal timber sourcing patterns for the applicant's timber manufacturing facilities, as well as the Federal timber sourcing patterns for the timber manufacturing facilities of other persons in the same local vicinity of the applicant, and the relative similarity of such Federal timber sourcing patterns. Private timber sourcing patterns shall not be a factor in such determinations in States other than Idaho.
+&emsp;&emsp;Except as provided in subparagraph (D), in making the determination referred to in subparagraph (A), the Secretary concerned shall consider the private timber export and the Federal timber sourcing patterns for the applicant's timber manufacturing facilities,as well as the Federal timber sourcing patterns for the timber manufacturing facilities of other persons in the same local vicinity of the applicant, and the relative similarity of such Federal timber sourcing patterns. Private timber sourcing patterns shall not be a factor in such determinations in States other than Idaho.
 
 #### (D) Area not included
 
@@ -102,7 +102,7 @@ Applicability.—In the case of the purchase by a person of unprocessed timber o
 
 &emsp;(A) Subject to subparagraph (B), and notwithstanding any other provision of law, in the 9-month period after receiving disapproval of an application submitted pursuant to this subsection, the applicant may purchase unprocessed timber originating from Federal lands in the area which is the subject of the application in an amount not to exceed 75 percent of the annual average of such person's purchases of unprocessed timber originating from Federal lands in the same area during the 5 full fiscal years immediately prior to submission of the application. In the subsequent 6-month period, such person may purchase not more than 25 percent of such annual average, after which time the prohibitions contained in subsection (a) shall fully apply.
 
-&emsp;(B) If a person referred to in subparagraph (A) certifies to the Secretary concerned, within 90 days after receiving disapproval of such application, that such person shall, within 15 months after such disapproval, cease the export of unprocessed timber originating from private lands from the geographic area determined by the Secretary for which the application would have been approved, such person may continue to purchase unprocessed timber originating from Federal lands in the area which is the subject of the application, without being subject to the restrictions of subparagraph (A), except that such purchases during that 15-month period may not exceed 125 percent of the annual average of such person'spurchases of unprocessed timber originating from Federal lands in the same area during the 5 full fiscal years immediately prior to submission of the application which was denied.
+&emsp;(B) If a person referred to in subparagraph (A) certifies to the Secretary concerned, within 90 days after receiving disapproval of such application, that such person shall, within 15 months after such disapproval, cease the export of unprocessed timber originating from private lands from the geographic area determined by the Secretary for which the application would have been approved, such person may continue to purchase unprocessed timber originating from Federal lands in the area which is the subject of the application, without being subject to the restrictions of subparagraph (A), except that such purchases during that 15-month period may not exceed 125 percent of the annual average of such person's purchases of unprocessed timber originating from Federal lands in the same area during the 5 full fiscal years immediately prior to submission of the application which was denied.
 
 &emsp;(C) Any person to whom subparagraph (B) applies may not, during the 15-month period after the person's application for sourcing area boundaries is denied, export unprocessed timber originating from private lands in the geographic area determined by the Secretary concerned for which the application would have been approved in amounts that exceed 125 percent of the annual average of such person's exports of unprocessed timber from such private lands during the 5 full fiscal years immediately prior to submission of the application.
 
@@ -169,6 +169,8 @@ Applicability.—In the case of the purchase by a person of unprocessed timber o
 Nothing in this section restricts or authorizes any restriction on the domestic transportation or processing of timber harvested from private land, except that the Secretary may prohibit processing facilities located in the State of Idaho that have sourcing areas from processing timber harvested from private land outside of the boundaries of those sourcing areas.
 
 (Pub. L. 101–382, title IV, §490, Aug. 20, 1990, 104 Stat. 715; Pub. L. 105–83, title VI, §602(a), Nov. 14, 1997, 111 Stat. 1618.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

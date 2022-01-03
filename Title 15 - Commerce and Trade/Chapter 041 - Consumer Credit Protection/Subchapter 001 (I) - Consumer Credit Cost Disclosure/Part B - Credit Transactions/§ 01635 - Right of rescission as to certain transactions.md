@@ -30,7 +30,7 @@ This section does not apply to—
 
 #### (f) Time limit for exercise of right
 
-An obligor's right of rescission shall expire three years after the date of consummation of the transaction or upon the sale of the property, whichever occurs first, notwithstanding the fact that the information and forms required under this section or any other disclosures required under this part have not been delivered to the obligor, except that if (1) any agency empowered to enforce the provisions of this subchapter institutes a proceeding to enforce the provisions of this section within three years after the date of consummation of the transaction, (2) such agency finds a violation of this section, and (3) the obligor's right to rescind is based in whole or in part on any matter involved in such proceeding, then the obligor's right of rescission shall expire three years after the date of consummation of the transaction or upon the earlier sale of the property, or upon the expirationof one year following the conclusion of the proceeding, or any judicial review or period for judicial review thereof, whichever is later.
+An obligor's right of rescission shall expire three years after the date of consummation of the transaction or upon the sale of the property, whichever occurs first, notwithstanding the fact that the information and forms required under this section or any other disclosures required under this part have not been delivered to the obligor, except that if (1) any agency empowered to enforce the provisions of this subchapter institutes a proceeding to enforce the provisions of this section within three years after the date of consummation of the transaction, (2) such agency finds a violation of this section, and (3) the obligor's right to rescind is based in whole or in part on any matter involved in such proceeding, then the obligor's right of rescission shall expire three years after the date of consummation of the transaction or upon the earlier sale of the property, or upon the expiration of one year following the conclusion of the proceeding, or any judicial review or period for judicial review thereof, whichever is later.
 
 #### (g) Additional relief
 
@@ -52,7 +52,7 @@ An obligor shall have no rescission rights arising solely from the form of writt
 
 #### (2) Tolerance for disclosures
 
-&emsp;Notwithstanding section 1605(f) of this title, and subject to the time period provided in subsection (f), for the purposes of exercising any rescission rights after the initiation of any judicial or nonjudicial foreclosure process on the principal dwelling of the obligor securing an extension of credit, the disclosure of the finance charge and other disclosures affected by any finance charge shall be treated as being accurate for purposes of this section if the amount disclosed as the finance charge does not vary from the actual finance charge by more than $35 or is greater than the amount required to be disclosed under this subchapter.
+&emsp;Notwithstanding section 1605(f) of this title, and subject to the time period provided in subsection (f), for the purposes of exercising anyrescission rights after the initiation of any judicial or nonjudicial foreclosure process on the principal dwelling of the obligor securing an extension of credit, the disclosure of the finance charge and other disclosures affected by any finance charge shall be treated as being accurate for purposes of this section if the amount disclosed as the finance charge does not vary from the actual finance charge by more than $35 or is greater than the amount required to be disclosed under this subchapter.
 
 #### (3) Right of recoupment under State law
 
@@ -63,6 +63,8 @@ An obligor shall have no rescission rights arising solely from the form of writt
 &emsp;This subsection shall apply to all consumer credit transactions in existence or consummated on or after September 30, 1995.
 
 (Pub. L. 90–321, title I, §125, May 29, 1968, 82 Stat. 153; Pub. L. 93–495, title IV, §§404, 405, 412, Oct. 28, 1974, 88 Stat. 1517, 1519; Pub. L. 96–221, title VI, §612(a)(1), (3)–(6), Mar. 31, 1980, 94 Stat. 175, 176; Pub. L. 98–479, title II, §205, Oct. 17, 1984, 98 Stat. 2234; Pub. L. 104–29, §§5, 8, Sept. 30, 1995, 109 Stat. 274, 275; Pub. L. 111–203, title X, §1100A(2), July 21, 2010, 124 Stat. 2107.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -96,13 +98,15 @@ Subsec. (e). Pub. L. 93–495, §412, inserted exemption for consumer credit tra
 
 Subsec. (f). Pub. L. 93–495, §405, added subsec. (f).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with allregulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
+Amendment by Pub. L. 96–221 effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see section 625 of Pub. L. 96–221, set out as a note under section 1602 of this title.
 
 #### Effective Date of 1974 Amendment
 

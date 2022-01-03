@@ -30,7 +30,7 @@ This chapter shall apply—
 
 &emsp;&emsp;&emsp;(ii) an emission control area designated under section 1903 of this title; or
 
-&emsp;&emsp;&emsp;(iii) any other area that the Administrator, in consultation with the Secretary and each State in which any part of the area is located, has designated by order as being an area from which emissions from ships are of concern with respect to protection of public health, welfare, or the environment; and
+&emsp;&emsp;&emsp;(iii) any other area that the Administrator, in consultation with the Secretaryand each State in which any part of the area is located, has designated by order as being an area from which emissions from ships are of concern with respect to protection of public health, welfare, or the environment; and
 
 &emsp;&emsp;(D) to any other ship, to the extent that, and in the same manner as, such ship may be boarded by the Secretary to implement or enforce any other law of the United States or Annex I, II, or V of the Convention, and is in—
 
@@ -124,7 +124,7 @@ Notwithstanding any other provision of law, the discharge from a vessel of any a
 
 #### (f) Regulations
 
-The Secretary or the Administrator, consistent with section 1903 of this title, shall prescribe regulations applicable to the ships of a country not a party to the MARPOL Protocol (or the applicable Annex), including regulations conforming to and giving effect to the requirements of Annex V and Annex VI as they applyunder subsection (a) of this section, to ensure that their treatment is not more favorable than that accorded ships to parties to the MARPOL Protocol.
+The Secretary or the Administrator, consistent with section 1903 of this title, shall prescribe regulations applicable to the ships of a country not a party to the MARPOL Protocol (or the applicable Annex), including regulations conforming to and giving effect to the requirements of Annex V and Annex VI as they apply under subsection (a) of this section, to ensure that their treatment is not more favorable than that accorded ships to parties to the MARPOL Protocol.
 
 #### (g) Compliance by excluded vessels
 
@@ -158,7 +158,7 @@ The heads of Federal departments and agencies shall prescribe standards applicab
 
 Nothing in this section shall be construed to restrict in a manner inconsistent with international law navigational rights and freedoms as defined by United States law, treaty, convention, or customary international law.
 
-(Pub. L. 96–478, §3, Oct. 21, 1980, 94 Stat. 2297; Pub. L. 100–220, title II, §2102, Dec. 29, 1987, 101 Stat. 1461; Pub. L. 103–160, div. A, title X, §1003(a)–(d), Nov. 30, 1993, 107 Stat. 1745–1747; Pub. L. 104–201, div. A, title III, §324(a), (d), Sept. 23, 1996, 110 Stat. 2480, 2481; Pub. L. 104–227, title II, §201(b), Oct. 2, 1996, 110 Stat. 3042; Pub. L. 105–261, div. A, title III, §326, Oct. 17, 1998, 112 Stat. 1965; Pub. L. 110–280, §4, July 21, 2008, 122 Stat. 2611; Pub. L. 112–81, div. A, title III, §313, Dec. 31, 2011, 125 Stat. 1355; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8502(a)(2), Jan. 1, 2021, 134 Stat. 4746.)
+(Pub. L. 96–478, §3, Oct. 21, 1980, 94 Stat. 2297; Pub. L. 100–220, title II, §2102, Dec. 29, 1987, 101Stat. 1461; Pub. L. 103–160, div. A, title X, §1003(a)–(d), Nov. 30, 1993, 107 Stat. 1745–1747; Pub. L. 104–201, div. A, title III, §324(a), (d), Sept. 23, 1996, 110 Stat. 2480, 2481; Pub. L. 104–227, title II, §201(b), Oct. 2, 1996, 110 Stat. 3042; Pub. L. 105–261, div. A, title III, §326, Oct. 17, 1998, 112 Stat. 1965; Pub. L. 110–280, §4, July 21, 2008, 122 Stat. 2611; Pub. L. 112–81, div. A, title III, §313, Dec. 31, 2011, 125 Stat. 1355; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8502(a)(2), Jan. 1, 2021, 134 Stat. 4746.)
 
 #### <b>Editorial Notes</b>
 

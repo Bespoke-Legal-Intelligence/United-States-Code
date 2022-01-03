@@ -28,7 +28,7 @@ An employee shall be a "qualified employee" if the Board finds that his compensa
 
 <b>1940</b>—Act Oct. 10, 1940, reorganized structure by striking out designations for subsecs. "(a)" and "(b)" and, as so restructured, provisions of former subsec. (a) became entire section and defined "qualified employee" and provisions of former subsec. (b), which related to the employee's waiting period, were omitted.
 
-<b>1939</b>—Subsec. (b). Act June 20, 1939, substituted provisions relating to half-months as the waiting period, forprovisions relating to fifteen consecutive days of unemployment or two half months.
+<b>1939</b>—Subsec. (b). Act June 20, 1939, substituted provisions relating to half-months as the waiting period, for provisions relating to fifteen consecutive days of unemployment or two half months.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

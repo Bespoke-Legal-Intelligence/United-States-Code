@@ -12,7 +12,7 @@ The following terms wherever used in this subchapter shall have the following re
 
 "Replacements" shall mean such replacements as may be necessary to keep the project in good operating condition beginning June 1, 1937, but shall not include (except where used in conjunction with the word "emergency" or the words "however necessitated") replacements made necessary by any act of God, or of the public enemy, or by any major catastrophe; and
 
-"Year of operation" shall mean the period from and including June 1 of any calendar year to and including May 31 of the following calendar year.
+"Year of operation" shall mean the period from and including June 1 of any calendar yearto and including May 31 of the following calendar year.
 
 (July 19, 1940, ch. 643, §12, 54 Stat. 778; Pub. L. 98–381, title I, §104(a)(6), Aug. 18, 1984, 98 Stat. 1335.)
 

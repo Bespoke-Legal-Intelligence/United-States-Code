@@ -12,6 +12,8 @@ The Administrator is authorized to make grants to appropriate State agencies in 
 
 (July 14, 1955, ch. 360, title II, §210, formerly §209, as added Pub. L. 90–148, §2, Nov. 21, 1967, 81 Stat. 502; renumbered and amended Pub. L. 91–604, §§8(a), 10(b), Dec. 31, 1970, 84 Stat. 1694, 1700; Pub. L. 95–95, title II, §204, Aug. 7, 1977, 91 Stat. 754.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 1857f–6b of this title.
@@ -25,6 +27,8 @@ A prior section 210 of act July 14, 1955, was renumbered section 211 by Pub. L. 
 <b>1977</b>—Pub. L. 95–95 inserted provision allowing grants to be made by way of reimbursement in any case in which amounts have been expended by States before the date on which the grants were made.
 
 <b>1970</b>—Pub. L. 91–604, §10(b), substituted provisions authorizing the Administrator to make grants to appropriate State agencies for the development and maintenance of effective vehicle emission devices and systems inspection and emission testing and control programs, for provisions authorizing the Secretary to make grants to appropriate State air pollution control agencies for the development of meaningful uniform motor vehicle emission device inspection and emission testing programs.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1977 Amendment
 

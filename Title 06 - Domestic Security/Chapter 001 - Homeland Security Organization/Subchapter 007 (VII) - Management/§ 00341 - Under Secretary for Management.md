@@ -20,7 +20,7 @@ The Under Secretary for Management shall serve as the Chief Management Officer a
 
 &emsp;(8) Grants and other assistance management programs.
 
-&emsp;(9) The management integration and transformation within each functional management discipline of the Department, including information technology, financial management, acquisition management, and human capital management, to ensure an efficient and orderly consolidation of functions and personnel in the Department, including—
+&emsp;(9) The management integration and transformation within each functional management discipline of the Department, including information technology, financial management, acquisition management, and human capitalmanagement, to ensure an efficient and orderly consolidation of functions and personnel in the Department, including—
 
 &emsp;&emsp;(A) the development of centralized data sources and connectivity of information systems to the greatest extent practicable to enhance program visibility, transparency, and operational effectiveness and coordination;
 
@@ -28,7 +28,7 @@ The Under Secretary for Management shall serve as the Chief Management Officer a
 
 &emsp;&emsp;(C) the development of effective program management and regular oversight mechanisms, including clear roles and processes for program governance, sharing of best practices, and access to timely, reliable, and evaluated data on all acquisitions and investments; and
 
-&emsp;&emsp;(D) the overall supervision, including the conduct of internal audits and management analyses, of the programs and activities of the Department, including establishment of oversight procedures to ensure a full and effective review of the efforts by components of the Department to implement policies andprocedures of the Department for management integration and transformation.
+&emsp;&emsp;(D) the overall supervision, including the conduct of internal audits and management analyses, of the programs and activities of the Department, including establishment of oversight procedures to ensure a full and effective review of the efforts by components of the Department to implement policies and procedures of the Department for management integration and transformation.
 
 &emsp;(10) The development of a transition and succession plan, before December 1 of each year in which a Presidential election is held, to guide the transition of Department functions to a new Presidential administration, and making such plan available to the next Secretary and Under Secretary for Management and to the congressional homeland security committees.
 
@@ -232,7 +232,7 @@ In this section, the term "interoperable communications" has the meaning given t
 
 Subsecs. (c) to (e). Pub. L. 115–38, §2(2), (3), added subsec. (c), redesignated former subsec. (c) as (d), and redesignated former subsec. (d), relating to System for Award Management consultation, as (e).
 
-<b>2016</b>—Subsec. (a)(9) to (13). Pub. L. 114–328, §1903(b)(1), added pars. (9) to (11), redesignated former pars. (10) and (11) as (12) and (13), respectively, and struck out former par. (9). Prior to amendment, text of par. (9) read as follows: "The management integration and transformation process, as well as the transition process, to ensure an efficient and orderly consolidation of functions and personnel in the Department and transition, including—
+<b>2016</b>—Subsec. (a)(9) to (13). Pub. L. 114–328, §1903(b)(1), added pars. (9) to (11), redesignated former pars. (10) and (11) as (12) and (13), respectively, and struck out former par. (9). Prior to amendment, text of par. (9) read as follows: "The management integration and transformation process, as well as the transition process, to ensure an efficient and orderly consolidation offunctions and personnel in the Department and transition, including—
 
 &emsp;"(A) the development of a management integration strategy for the Department, and
 
@@ -250,7 +250,7 @@ Subsec. (d). Pub. L. 114–29, §3(2), added subsec. (d).
 
 Subsec. (a)(7). Pub. L. 110–53, §2405(a)(2), added par. (7) and struck out former par. (7) which read as follows: "Identification and tracking of performance measures relating to the responsibilities of the Department."
 
-Subsec. (a)(9). Pub. L. 110–53, §2405(a)(3), added par. (9) and struck out former par. (9) which read as follows: "The transition and reorganization process, to ensurean efficient and orderly transfer of functions and personnel to the Department, including the development of a transition plan."
+Subsec. (a)(9). Pub. L. 110–53, §2405(a)(3), added par. (9) and struck out former par. (9) which read as follows: "The transition and reorganization process, to ensure an efficient and orderly transfer of functions and personnel to the Department, including the development of a transition plan."
 
 Subsec. (c). Pub. L. 110–53, §2405(b), added subsec. (c).
 

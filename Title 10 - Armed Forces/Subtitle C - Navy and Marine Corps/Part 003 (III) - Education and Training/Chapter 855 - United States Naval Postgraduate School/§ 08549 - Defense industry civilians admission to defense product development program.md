@@ -40,6 +40,8 @@ Use of Funds.—Amounts received by the school for instruction of students enrol
 
 (Added Pub. L. 106–398, §1 \[\[div. A\], title V, §535(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–112, §7049; amended Pub. L. 108–136, div. A, title X, §1031(a)(57), Nov. 24, 2003, 117 Stat. 1603; Pub. L. 108–375, div. A, title V, §557(a)(4)(B), Oct. 28, 2004, 118 Stat. 1915; Pub. L. 109–163, div. A, title V, §525, Jan. 6, 2006, 119 Stat. 3245; Pub. L. 110–417, \[div. A\], title V, §542, Oct. 14, 2008, 122 Stat. 4456; Pub. L. 112–239, div. A, title V, §589(a), Jan. 2, 2013, 126 Stat. 1769; renumbered §8549 and amended Pub. L. 115–232, div. A, title VIII, §§807(c)(1), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232, §807(c)(1), renumbered section 7049 of this title as this section.
@@ -60,13 +62,15 @@ Subsec. (a). Pub. L. 115–232, §809(a), substituted "section 8548" for "sectio
 
 A prior section 8549, act Aug. 10, 1956, ch. 1041, 70A Stat. 528, prohibited assignment of female members, except those designated under section 8067, to duty in aircraft engaged in combat missions, prior to repeal by Pub. L. 102–190, div. A, title V, §531(a)(1), Dec. 5, 1991, 105 Stat. 1365.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
 #### Request for Increase in Number of Defense Industry Civilians Authorized for Admission
 
-Pub. L. 112–239, div. A, title V, §589(c), Jan. 2, 2013, 126 Stat. 1769, as amended by Pub. L. 115–232, div. A, title VIII, §809(b)(10), Aug. 13, 2018, 132 Stat. 1841, provided that: "If the Secretary of Defense determines that it is in the best interest of the Department of Defense to increase the maximum number of defense industry employees authorized to be enrolled in the Naval Defense Development Program or the Air Force Institute of Technology at any one time, as specified in sections 8549(a) and 9414a(a) of title 10, United States Code, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a request for such an increase, including draft legislation to effectuate the increase."
+Pub. L. 112–239, div. A, title V, §589(c), Jan. 2, 2013, 126 Stat. 1769, as amended by Pub. L. 115–232, div. A, title VIII, §809(b)(10), Aug. 13, 2018, 132 Stat. 1841, provided that: "If the Secretary of Defense determines that it is in the best interest of the Department of Defense to increase the maximum number of defense industry employees authorized to be enrolled in the Naval Defense Development Program or the Air Force Institute of Technology at any one time, as specified in sections8549(a) and 9414a(a) of title 10, United States Code, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a request for such an increase, including draft legislation to effectuate the increase."
 
 #### Program Evaluation and Report
 

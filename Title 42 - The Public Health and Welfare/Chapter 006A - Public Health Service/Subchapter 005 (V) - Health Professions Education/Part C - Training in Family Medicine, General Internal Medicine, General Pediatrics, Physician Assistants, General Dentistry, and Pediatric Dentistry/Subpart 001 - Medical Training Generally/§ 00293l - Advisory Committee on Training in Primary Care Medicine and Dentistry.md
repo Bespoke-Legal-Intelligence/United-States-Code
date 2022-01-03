@@ -12,7 +12,7 @@ The Secretary shall establish an advisory committee to be known as the Advisory 
 
 #### (2) Appointment
 
-&emsp;Not later than 90 days after November 13, 1998, the Secretary shall appoint the members of the Advisory Committee from among individuals who are health professionals. In making such appointments, the Secretary shall ensure a fair balance between the health professions, that at least 75 percent of the members of the Advisory Committee are health professionals, a broad geographic representation of members and a balance between urban and rural members. Members shall be appointed based on their competence, interest, and knowledge of the mission of the profession involved.
+&emsp;Not later than 90 days after November 13, 1998, the Secretary shall appoint the members of the Advisory Committee from among individuals who are health professionals. In making such appointments, the Secretary shall ensure a fair balance between the health professions, that at least 75 percent of the members of the Advisory Committee are health professionals, a broad geographic representation of members and a balance between urban and rural members. Members shall be appointedbased on their competence, interest, and knowledge of the mission of the profession involved.
 
 #### (3) Minority representation
 
@@ -80,6 +80,8 @@ The Federal Advisory Committee Act shall apply to the Advisory Committee under t
 
 (July 1, 1944, ch. 373, title VII, §749, formerly §748, as added Pub. L. 105–392, title I, §102(4), Nov. 13, 1998, 112 Stat. 3539; renumbered §749 and amended Pub. L. 111–148, title V, §§5103(d)(1), 5303(1), Mar. 23, 2010, 124 Stat. 605, 618; Pub. L. 116–136, div. A, title III, §3401(5), Mar. 27, 2020, 134 Stat. 386.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -101,6 +103,8 @@ Another prior section 749 of act July 1, 1944, was classified to section 294s of
 <b>2020</b>—Subsec. (d)(2). Pub. L. 116–136 substituted "Committee on Health, Education, Labor, and Pensions of the Senate, and the Committee on Energy and Commerce of the House of Representatives" for "Committee on Labor and Human Resources of the Senate, and the Committee on Commerce of the House of Representatives".
 
 <b>2010</b>—Subsec. (d)(3) to (5). Pub. L. 111–148, §5103(d)(1), added pars. (3) to (5).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Advisory Committees
 

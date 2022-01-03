@@ -26,7 +26,7 @@
 
 (d) The number of beds in a health facility in a State that has been treated as a State home under subsection (a) shall be taken into account in determining the unmet need for beds for State homes for the State under section 8134(d)(1) of this title.
 
-(e) The Secretary may not treat any new health facilities (or any new certain beds in ahealth facility) as a State home under subsection (a) after September 30, 2009.
+(e) The Secretary may not treat any new health facilities (or any new certain beds in a health facility) as a State home under subsection (a) after September 30, 2009.
 
 (Added Pub. L. 109–461, title II, §211(c)(1), Dec. 22, 2006, 120 Stat. 3420.)
 

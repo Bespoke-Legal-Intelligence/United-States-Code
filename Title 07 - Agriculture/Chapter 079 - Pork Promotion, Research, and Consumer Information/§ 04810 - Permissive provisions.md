@@ -22,7 +22,7 @@ On the recommendation of the Board, and with the approval of the Secretary, an o
 
 (1) Information referred to in subsection (a)(1) shall be made available to the Secretary and the Board as is appropriate or necessary for the effectuation, administration, or enforcement of this chapter or an order.
 
-(2)(A) Except as provided in subparagraphs (B) and (C), information obtained under subsection (a)(1) shall be kept confidential by officers or employees of the Department of Agriculture or the Board.
+(2)(A) Except as provided in subparagraphs (B) and (C), information obtained under subsection\(a)(1) shall be kept confidential by officers or employees of the Department of Agriculture or the Board.
 
 (B) Such information may be disclosed only—
 
@@ -49,6 +49,8 @@ A person who willfully violates subsection (a)(1) or (b) shall, on conviction, b
 &emsp;(2) if such person is an employee of the Department of Agriculture or the Board, removed from office.
 
 (Pub. L. 99–198, title XVI, §1621, Dec. 23, 1985, 99 Stat. 1617.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

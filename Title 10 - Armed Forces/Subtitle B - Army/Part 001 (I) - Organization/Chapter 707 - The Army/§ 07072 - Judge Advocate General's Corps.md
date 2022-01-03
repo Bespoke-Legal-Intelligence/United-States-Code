@@ -28,11 +28,15 @@ June 28, 1950, ch. 383, §308 (1st sentence, less applicability to strength), 64
 
 The words "authorized by sections 21f and 21h, respectively, of this title" are omitted as surplusage. The word "grade" is substituted for the word "rank". The words "but the Secretary shall not assign to the Judge Advocate General's Corps any officer who has been appointed and commissioned in some other special branch or in the Regular Army without specification of branch" are omitted as covered by section 3064 of this title.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 3072 of this title as this section.
 
 <b>2016</b>—Pars. (3) to (5). Pub. L. 114–328 redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: "three officers in the grade of brigadier general;".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

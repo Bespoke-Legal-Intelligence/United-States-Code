@@ -4,6 +4,8 @@ Every person who, having knowledge that any of the wrongs conspired to be done, 
 
 (R.S. §1981.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §1981 derived from act Apr. 20, 1871, ch. 22, §6, 17 Stat. 15.

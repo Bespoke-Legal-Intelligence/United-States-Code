@@ -20,7 +20,9 @@
 
 &emsp;(2) The term "surviving spouse" means a widow or widower who is not remarried.
 
-(Added Pub. L. 96–342, title IX, §901(a), Sept. 8, 1980, 94 Stat. 1113; amended Pub. L. 97–22, §10(b)(3), July 10, 1981, 95 Stat. 137; Pub. L. 99–145, title VI, §673, Nov. 8, 1985, 99 Stat. 664; Pub. L. 100–180, div. A, title XII, §1231(17), Dec. 4, 1987, 101 Stat. 1161.)
+(Added Pub. L. 96–342, title IX, §901(a), Sept. 8, 1980, 94 Stat. 1113; amended Pub. L. 97–22,§10(b)(3), July 10, 1981, 95 Stat. 137; Pub. L. 99–145, title VI, §673, Nov. 8, 1985, 99 Stat. 664; Pub. L. 100–180, div. A, title XII, §1231(17), Dec. 4, 1987, 101 Stat. 1161.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -29,6 +31,8 @@
 <b>1985</b>—Subsec. (a)(1). Pub. L. 99–145 designated existing first sentence as subpar. (A), added subpar. (B), and incorporated existing second sentence as subpar. (C).
 
 <b>1981</b>—Subsec. (d)(1). Pub. L. 97–22 substituted "section 1072(2)(D) of this title" for "section 1072(2)(E) of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1981 Amendment
 

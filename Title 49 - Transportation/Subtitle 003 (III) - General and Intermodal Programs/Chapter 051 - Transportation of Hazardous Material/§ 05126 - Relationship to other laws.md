@@ -38,6 +38,8 @@ Jan. 3, 1975, Pub. L. 93–633, §112(f), 88 Stat. 2161; Nov. 30, 1979, Pub. L. 
 
 In subsection (a), the word "manufactures" is substituted for "manufacturers" to correct an error in the source provisions. The words "of the executive, legislative, or judicial branch", "be subject to and", "substantive and procedural", and "this chapter or any other" are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–244 amended Pub. L. 109–59. See 2005 Amendment note below.
@@ -49,6 +51,8 @@ Pub. L. 109–59, §7124(3), as amended by Pub. L. 110–244, substituted "shall
 Pub. L. 109–59, §7124(1), (2), substituted "transports hazardous material, or causes hazardous material to be transported," for "transports or causes to be transported hazardous material," and "designs, manufactures, fabricates, inspects, marks, maintains, reconditions, repairs, or tests a package, container, or packaging component that is represented" for "manufactures, fabricates, marks, maintains, reconditions, repairs, or tests a packaging or a container that the person represents, marks, certifies, or sells".
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–311 substituted "a packaging or a" for "a package or".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

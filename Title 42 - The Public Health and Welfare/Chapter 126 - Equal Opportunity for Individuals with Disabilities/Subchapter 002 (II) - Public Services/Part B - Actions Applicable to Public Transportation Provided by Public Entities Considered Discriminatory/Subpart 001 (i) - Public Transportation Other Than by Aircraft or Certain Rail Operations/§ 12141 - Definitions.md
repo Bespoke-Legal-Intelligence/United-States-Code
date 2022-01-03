@@ -28,6 +28,8 @@ As used in this subpart:
 
 (Pub. L. 101–336, title II, §221, July 26, 1990, 104 Stat. 338.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Pub. L. 101–336, title II, §231, July 26, 1990, 104 Stat. 346, provided that:

@@ -66,7 +66,7 @@ Consistent with the requirements of this section, the Board, the Comptroller of 
 
 &emsp;&emsp;&emsp;(i) a State licensed or certified appraiser who receives a fee for performing an appraisal and certifies that the appraisal has been prepared in accordance with the Uniform Standards of Professional Appraisal Practice; or
 
-&emsp;&emsp;&emsp;(ii) a company not subject to the requirements of section 3353 of title 12 that utilizes the services of State licensed or certified appraisers and receives a fee forperforming appraisals in accordance with the Uniform Standards of Professional Appraisal Practice.
+&emsp;&emsp;&emsp;(ii) a company not subject to the requirements of section 3353 of title 12 that utilizes the services of State licensed or certified appraisers and receives a fee for performing appraisals in accordance with the Uniform Standards of Professional Appraisal Practice.
 
 #### (B) Rule of construction related to appraisal donations
 
@@ -78,7 +78,7 @@ Consistent with the requirements of this section, the Board, the Comptroller of 
 
 #### (j) Sunset
 
-Effective on the date the interim final regulations are promulgated pursuant to subsection (g), the Home Valuation Code of Conduct announced by the Federal Housing Finance Agency on December 23, 2008, shall have no force or effect.
+Effective on the date the interim final regulations are promulgated pursuant to subsection\(g), the Home Valuation Code of Conduct announced by the Federal Housing Finance Agency on December 23, 2008, shall have no force or effect.
 
 #### (k) Penalties
 
@@ -96,9 +96,13 @@ Effective on the date the interim final regulations are promulgated pursuant to 
 
 (Pub. L. 90–321, title I, §129E, as added Pub. L. 111–203, title XIV, §1472(a), July 21, 2010, 124 Stat. 2187; amended Pub. L. 115–174, title I, §102, May 24, 2018, 132 Stat. 1299.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (i)(2). Pub. L. 115–174 designated existing provisions as subpar. (A) and inserted heading, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A) and realigned margins, and added subpar. (B).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

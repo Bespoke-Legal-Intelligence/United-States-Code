@@ -32,7 +32,7 @@ Each common carrier providing telephone voice transmission services shall, not l
 
 &emsp;(1) with respect to intrastate telecommunications relay services in any State that does not have a certified program under subsection (f) and with respect to interstate telecommunications relay services, if such common carrier (or other entity through which the carrier is providing such relay services) is in compliance with the Commission's regulations under subsection (d); or
 
-&emsp;(2) with respect to intrastate telecommunications relay services in any State that has a certified program under subsection (f) for such State, if such common carrier (or other entity through which the carrier is providing such relay services) is in compliance with the program certified under subsection (f) for such State.
+&emsp;(2) with respect to intrastate telecommunications relay services in any State that has acertified program under subsection (f) for such State, if such common carrier (or other entity through which the carrier is providing such relay services) is in compliance with the program certified under subsection (f) for such State.
 
 #### (d) Regulations
 
@@ -124,7 +124,7 @@ Each common carrier providing telephone voice transmission services shall, not l
 
 #### References in Text
 
-This chapter, referred to in subsec. (b)(2), was in the original "this Act", meaning act June 19, 1934, ch. 652,48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+This chapter, referred to in subsec. (b)(2), was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
 #### Amendments
 

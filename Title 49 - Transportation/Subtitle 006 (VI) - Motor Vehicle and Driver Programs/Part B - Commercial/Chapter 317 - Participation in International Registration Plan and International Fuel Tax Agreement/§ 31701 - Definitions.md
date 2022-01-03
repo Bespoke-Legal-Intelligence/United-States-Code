@@ -36,6 +36,8 @@ Historical and Revision Notes
 
 Dec. 18, 1991, Pub. L. 102–240, §4008(k), 105 Stat. 2155.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Operation of Trailers
 
 Pub. L. 105–277, div. C, title I, §109, Oct. 21, 1998, 112 Stat. 2681–586, provided that:
@@ -50,7 +52,7 @@ Registration of Trailers.—A State that requires annual registration of contain
 
 "(b)
 
-Limitation on Registration of Trailers.—A State described in subsection (a) may not deny the use of trip permits for the operation in the State of a container chassis that is registered under the laws of another State.
+Limitation on Registration of Trailers.—A State described in subsection (a) may not deny the useof trip permits for the operation in the State of a container chassis that is registered under the laws of another State.
 
 "(c)
 

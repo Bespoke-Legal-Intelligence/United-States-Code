@@ -4,7 +4,7 @@
 
 (1) The Director shall provide for the establishment of an advisory committee for each school in the defense dependents' education system. An advisory committee for a school shall advise the principal or superintendent of the school with respect to the operation of the school, may make recommendations with respect to curriculum and budget matters, and, except as provided under paragraph (2), shall advise the local military commander with respect to problems concerning dependents' education within the jurisdiction of the commander. The membership of each such advisory committee shall include an equal number of parents of students enrolled in the school and of employees working at the school and, when appropriate, may include a student enrolled in the school. The membership of each such advisory committee shall also include one nonvoting member designated by the organization recognized as the exclusive bargaining representative of the employees working at the school.
 
-(2) In the case of any military installation or overseas area where there is more than one school in the defense dependents' education system, the Director shall provide for the establishment of an advisory committee for such military installation or overseas area to advise the local military commander with respect to problems concerning dependents' education within the jurisdiction of the commander.
+(2) In the case of any military installation or overseas area where there is more than oneschool in the defense dependents' education system, the Director shall provide for the establishment of an advisory committee for such military installation or overseas area to advise the local military commander with respect to problems concerning dependents' education within the jurisdiction of the commander.
 
 #### (b) Election of members; regulations respecting qualifications and election procedures
 
@@ -16,6 +16,8 @@ Members of school advisory committees established under this section shall serve
 
 (Pub. L. 95–561, title XIV, §1410, Nov. 1, 1978, 92 Stat. 2369; Pub. L. 96–88, title V, §508(j)(1), (2), Oct. 17, 1979, 93 Stat. 693; Pub. L. 99–145, title XII, §1204(b)(2), Nov. 8, 1985, 99 Stat. 720.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1985</b>—Subsec. (a)(1). Pub. L. 99–145, §1204(b)(2)(A), included as member of the advisory committee the designee of the exclusive bargaining representative of the employees.
@@ -25,6 +27,8 @@ Subsec. (b). Pub. L. 99–145, §1204(b)(2)(B), (C), substituted "Except in the 
 <b>1979</b>—Subsec. (a)(1). Pub. L. 96–88, §508(j)(1), substituted "parents" for "representatives of sponsors".
 
 Subsec. (b). Pub. L. 96–88, §508(j)(2), empowered the Secretary of Education, in consultation with the Secretary of Defense, to prescribe election qualifications and procedures in regard to advisory committees rather than vesting such power in the Secretary of Defense exclusively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1979 Amendment
 

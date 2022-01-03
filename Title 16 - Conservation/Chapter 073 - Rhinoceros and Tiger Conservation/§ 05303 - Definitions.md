@@ -32,6 +32,8 @@ multinational species conservation fund" \[16 U.S.C. 4246\];
 
 (Pub. L. 103–391, §4, Oct. 22, 1994, 108 Stat. 4095; Pub. L. 105–312, title IV, §404, Oct. 30, 1998, 112 Stat. 2960; Pub. L. 107–112, §6(a)(1), Jan. 8, 2002, 115 Stat. 2098.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Division A, section 101(e), title I of Public Law 105–277, referred to in par. (3), is Pub. L. 105–277, div. A, §101(e) \[title I\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–232. Provisions under the heading "

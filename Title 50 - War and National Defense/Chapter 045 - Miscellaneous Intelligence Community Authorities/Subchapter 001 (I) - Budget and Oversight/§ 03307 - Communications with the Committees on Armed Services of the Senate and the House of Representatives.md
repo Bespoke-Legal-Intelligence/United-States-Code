@@ -2,7 +2,7 @@
 
 #### (a) Requests of committees
 
-The Director of the National Counterterrorism Center, the Director of a national intelligence center, or the head of any element of the intelligence community shall, not later than 45 days after receiving a written request from the Chair or ranking minority member of the Committee on Armed Services of the Senate or the Committee on Armed Services of the House of Representatives for any existing intelligence assessment, report, estimate, or legal opinion relating to matters within the jurisdiction of such Committee, make available to such committee such assessment, report, estimate, or legal opinion, as the case may be.
+The Director of the National Counterterrorism Center, the Director of a national intelligence center, or the head of any element of the intelligence community shall, not later than 45 daysafter receiving a written request from the Chair or ranking minority member of the Committee on Armed Services of the Senate or the Committee on Armed Services of the House of Representatives for any existing intelligence assessment, report, estimate, or legal opinion relating to matters within the jurisdiction of such Committee, make available to such committee such assessment, report, estimate, or legal opinion, as the case may be.
 
 #### (b) Assertion of privilege
 
@@ -31,6 +31,8 @@ In this section:
 &emsp;The term "intelligence estimate" means an appraisal of available intelligence relating to a specific situation or condition with a view to determining the courses of action open to an enemy or potential enemy and the probable order of adoption of such courses of action.
 
 (Pub. L. 110–181, div. A, title X, §1079, Jan. 28, 2008, 122 Stat. 334.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

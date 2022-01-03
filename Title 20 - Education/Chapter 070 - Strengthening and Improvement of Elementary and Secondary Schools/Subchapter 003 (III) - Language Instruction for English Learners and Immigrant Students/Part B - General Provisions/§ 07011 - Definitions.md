@@ -94,6 +94,8 @@ Except as otherwise provided, in this subchapter:
 
 (Pub. L. 89–10, title III, §3201, formerly §3301, as added Pub. L. 107–110, title III, §301, Jan. 8, 2002, 115 Stat. 1729; amended Pub. L. 110–315, title IX, §941(k)(2)(F)(i), Aug. 14, 2008, 122 Stat. 3466; renumbered §3201 and amended Pub. L. 114–95, title III, §§3001(5)(A), 3004(a), Dec. 10, 2015, 129 Stat. 1953, 1965.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Alaska Native Claims Settlement Act, referred to in par. (6), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
@@ -106,7 +108,7 @@ Another prior section 3201 of Pub. L. 89–10 was classified to section 6891 of 
 
 #### Amendments
 
-<b>2015</b>—Pars. (3), (4). Pub. L. 114–95, §3004(a)(1), (2), added pars. (3) and (4) and struck out former pars. (3) and (4) which defined "community college" and "Director", respectively.
+<b>2015</b>—Pars. (3), (4). Pub. L. 114–95, §3004(a)(1), (2), added pars. (3) and (4) and struck out former pars. (3)and (4) which defined "community college" and "Director", respectively.
 
 Par. (5). Pub. L. 114–95, §3004(a)(1), (3), redesignated par. (6) as (5) and struck out former par. (5) which defined "family education program".
 
@@ -123,6 +125,8 @@ Par. (12). Pub. L. 114–95, §3004(a)(3), (5), redesignated par. (13) as (12) a
 Pars. (13), (14). Pub. L. 114–95, §3004(a)(3), redesignated pars. (14) and (15) as (13) and (14), respectively. Former par. (13) redesignated (12).
 
 <b>2008</b>—Par. (3). Pub. L. 110–315 substituted "the Tribally Controlled Colleges and Universities Assistance Act of 1978" for "the Tribally Controlled College or University Assistance Act of 1978".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

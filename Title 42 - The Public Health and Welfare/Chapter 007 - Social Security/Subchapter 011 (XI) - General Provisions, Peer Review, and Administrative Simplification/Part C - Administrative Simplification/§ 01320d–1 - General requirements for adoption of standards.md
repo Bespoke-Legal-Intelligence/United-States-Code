@@ -70,13 +70,15 @@ Except as otherwise required by law, a standard adopted under this part shall no
 
 #### (f) Assistance to Secretary
 
-In complying with the requirements of this part, the Secretary shall rely on the recommendations of the National Committee on Vital and Health Statistics established under section 242k(k) of this title, and shall consult with appropriate Federal and State agencies and private organizations. The Secretary shall publish in the Federal Register any recommendation of the National Committee on Vital and Health Statistics regarding the adoption of a standard under this part.
+In complying with the requirements of this part, the Secretary shall rely on the recommendations of the National Committee on Vital and Health Statistics established under section 242k(k) of this title, and shall consult with appropriate Federal and State agencies andprivate organizations. The Secretary shall publish in the Federal Register any recommendation of the National Committee on Vital and Health Statistics regarding the adoption of a standard under this part.
 
 #### (g) Application to modifications of standards
 
 This section shall apply to a modification to a standard (including an addition to a standard) adopted under section 1320d–3(b) of this title in the same manner as it applies to an initial standard adopted under section 1320d–3(a) of this title.
 
 (Aug. 14, 1935, ch. 531, title XI, §1172, as added Pub. L. 104–191, title II, §262(a), Aug. 21, 1996, 110 Stat. 2023.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

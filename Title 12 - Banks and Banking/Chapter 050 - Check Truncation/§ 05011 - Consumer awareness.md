@@ -16,7 +16,7 @@ Each bank shall provide, in accordance with subsection (b), a brief notice about
 
 #### (1) Existing customers
 
-&emsp;With respect to consumers who are customers of a bank on the effective date of this chapter and who receive original checks or substitute checks, a bank shall provide the notice described in subsection (a) to each such consumer no later than the first regularly scheduled communication with the consumer after the effective date of this chapter.
+&emsp;With respect to consumers who are customers of a bank on the effective date of thischapter and who receive original checks or substitute checks, a bank shall provide the notice described in subsection (a) to each such consumer no later than the first regularly scheduled communication with the consumer after the effective date of this chapter.
 
 #### (2) New account holders
 

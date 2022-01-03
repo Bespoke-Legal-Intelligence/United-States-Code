@@ -2,7 +2,7 @@
 
 #### (a) Appellate jurisdiction of District Court
 
-Prior to the establishment of the appellate court authorized by section 1611(a) of this title, the District Court of the Virgin Islands shall have such appellate jurisdiction over the courts of the Virgin Islands established by local law to the extent now or hereafter prescribed by local law: <i>Provided</i>, That the legislature may not preclude the review of any judgment or order whichinvolves the Constitution, treaties, or laws of the United States, including this chapter, or any authority exercised thereunder by an officer or agency of the Government of the United States, or the conformity of any law enacted by the legislature of the Virgin Islands or of any order or regulation issued or action taken by the executive branch of the government of the Virgin Islands with the Constitution, treaties, or laws of the United States, including this chapter, or any authority exercised thereunder by an officer or agency of the United States.
+Prior to the establishment of the appellate court authorized by section 1611(a) of this title, the District Court of the Virgin Islands shall have such appellate jurisdiction over the courts of the Virgin Islands established by local law to the extent now or hereafter prescribed by local law: <i>Provided</i>, That the legislature may not preclude the review of any judgment or order which involves the Constitution, treaties, or laws of the United States, including this chapter, or any authority exercised thereunder by an officer or agency of the Government of the United States, or the conformity of any law enacted by the legislature of the Virgin Islands or of any order or regulation issued or action taken by the executive branch of the government of the Virgin Islands with the Constitution, treaties, or laws of the United States, including this chapter, or any authority exercised thereunder by an officer or agency of the United States.
 
 #### (b) Appellate division of District Court; quorum; presiding judge; designation of judges; decisions
 
@@ -18,11 +18,15 @@ Upon the establishment of the appellate court provided for in section 1611(a) of
 
 (July 22, 1954, ch. 558, §23A, as added Pub. L. 98–454, title VII, §705, Oct. 5, 1984, 98 Stat. 1739.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (a), was in the original "this Act", meaning act July 22, 1954, ch. 558, 68 Stat. 497, as amended, known as the Revised Organic Act of the Virgin Islands, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1541 of this title and Tables.
 
 The effective date of this Act, referred to in subsec. (b), probably means the effective date of title VII of Pub. L. 98–454, which is 90 days after Oct. 5, 1984, and which enacted this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

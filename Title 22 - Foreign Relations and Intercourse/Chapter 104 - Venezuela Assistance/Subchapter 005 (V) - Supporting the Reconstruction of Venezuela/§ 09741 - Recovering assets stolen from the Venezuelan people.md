@@ -2,7 +2,7 @@
 
 #### (a) Recovering assets
 
-The President, acting through the Secretary of State and in consultation with the Secretaryof the Treasury, shall advance a coordinated international effort—
+The President, acting through the Secretary of State and in consultation with the Secretary of the Treasury, shall advance a coordinated international effort—
 
 &emsp;(1) to work with foreign governments—
 
@@ -24,7 +24,7 @@ The President, acting through the Secretary of State and in consultation with th
 
 &emsp;The strategy required under paragraph (1) shall—
 
-&emsp;&emsp;(A) assess whether the United States or another member of the international community should establish a managed fund to hold the assets identified pursuant to subsection (a)(2) that could be returned to a future democratic government in Venezuela; and
+&emsp;&emsp;(A) assess whether the United States or another member of the international community should establish a managed fund tohold the assets identified pursuant to subsection (a)(2) that could be returned to a future democratic government in Venezuela; and
 
 &emsp;&emsp;(B) include such recommendations as the President and the Secretary of State consider appropriate for legislative or administrative action in the United States that would be needed to establish and manage the fund described in subparagraph (A).
 

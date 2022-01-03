@@ -52,7 +52,7 @@ A prior section 12114, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 589; Pub. L. 99�
 
 #### Documentation of Recreational Vessels
 
-Pub. L. 115–282, title VIII, §826, Dec. 4, 2018, 132 Stat. 4314, provided that: "Coast Guard personnel performingnonrecreational vessel documentation functions under subchapter II of chapter 121 of title 46, United States Code, may perform recreational vessel documentation under section 12114 of such title in any fiscal year in which—
+Pub. L. 115–282, title VIII, §826, Dec. 4, 2018, 132 Stat. 4314, provided that: "Coast Guard personnel performing nonrecreational vessel documentation functions under subchapter II of chapter 121 of title 46, United States Code, may perform recreational vessel documentation under section 12114 of such title in any fiscal year in which—
 
 &emsp;"(1) funds available for Coast Guard operating expenses may not be used for expenses incurred for recreational vessel documentation;
 

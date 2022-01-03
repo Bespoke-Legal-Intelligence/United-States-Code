@@ -6,6 +6,8 @@
 
 (Aug. 15, 1921, ch. 64, title III, §314, 42 Stat. 167; June 25, 1948, ch. 646, §1, 62 Stat. 909.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Act June 25, 1948, eff. Sept. 1, 1948, substituted "United States attorneys" for "district attorneys" in subsec. (a). See section 541 of Title 28, Judiciary and Judicial Procedure, and Historical and Revision Notes thereunder.

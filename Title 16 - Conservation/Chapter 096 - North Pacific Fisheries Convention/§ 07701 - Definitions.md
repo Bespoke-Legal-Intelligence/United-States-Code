@@ -24,7 +24,7 @@ In this chapter:
 
 &emsp;&emsp;(A) with respect to the United States, the zone established by Presidential Proclamation Numbered 5030 of March 10, 1983 (16 U.S.C. 1453 note); and
 
-&emsp;&emsp;(B) with respect to a foreign country, a designated zone similar to the zone referredto in subparagraph (A) for that country, consistent with international law.
+&emsp;&emsp;(B) with respect to a foreign country, a designated zone similar to the zone referred to in subparagraph (A) for that country, consistent with international law.
 
 #### (6) Fisheries resources
 
@@ -107,6 +107,8 @@ In this chapter:
 &emsp;The term "1982 Convention" means the United Nations Convention on the Law of the Sea of 10 December 1982.
 
 (Pub. L. 114–327, title I, §101, Dec. 16, 2016, 130 Stat. 1974.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

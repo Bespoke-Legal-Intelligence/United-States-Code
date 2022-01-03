@@ -20,7 +20,7 @@ As used in this subchapter:
 
 (6) The term "controlled substance" means a drug or other substance, or immediate precursor, included in schedule I, II, III, IV, or V of part B of this subchapter. The term does not include distilled spirits, wine, malt beverages, or tobacco, as those terms are defined or used in subtitle E of the Internal Revenue Code of 1986.
 
-(7) The term "counterfeit substance" means a controlled substance which, or the container or labeling of which, without authorization, bears the trademark, trade name, or other identifying mark, imprint, number, or device, or any likeness thereof, of a manufacturer, distributor, ordispenser other than the person or persons who in fact manufactured, distributed, or dispensed such substance and which thereby falsely purports or is represented to be the product of, or to have been distributed by, such other manufacturer, distributor, or dispenser.
+(7) The term "counterfeit substance" means a controlled substance which, or the container or labeling of which, without authorization, bears the trademark, trade name, or other identifying mark, imprint, number, or device, or any likeness thereof, of a manufacturer, distributor, or dispenser other than the person or persons who in fact manufactured, distributed, or dispensed such substance and which thereby falsely purports or is represented to be the product of, or to have been distributed by, such other manufacturer, distributor, or dispenser.
 
 (8) The terms "deliver" or "delivery" mean the actual, constructive, or attempted transfer of a controlled substance or a listed chemical, whether or not there exists an agency relationship.
 
@@ -68,13 +68,13 @@ As used in this subchapter:
 
 &emsp;(F) Any compound, mixture, or preparation which contains any quantity of any of the substances referred to in subparagraphs (A) through (E).
 
-(18) The term "opiate" or "opioid" means any drug or other substance having an addiction-forming or addiction-sustaining liability similar to morphine or being capable of conversion into a drug having such addiction-forming or addiction-sustaining liability.
+(18) The term "opiate" or "opioid" means any drug or other substance having an addiction-forming or addiction-sustaining liability similar to morphine or being capable of conversion intoa drug having such addiction-forming or addiction-sustaining liability.
 
 (19) The term "opium poppy" means the plant of the species Papaver somniferum L., except the seed thereof.
 
 (20) The term "poppy straw" means all parts, except the seeds, of the opium poppy, after mowing.
 
-(21) The term "practitioner" means a physician, dentist, veterinarian, scientific investigator, pharmacy, hospital, or other person licensed, registered, or otherwise permitted, by the United States or the jurisdiction in which hepractices or does research, to distribute, dispense, conduct research with respect to, administer, or use in teaching or chemical analysis, a controlled substance in the course of professional practice or research.
+(21) The term "practitioner" means a physician, dentist, veterinarian, scientific investigator, pharmacy, hospital, or other person licensed, registered, or otherwise permitted, by the United States or the jurisdiction in which he practices or does research, to distribute, dispense, conduct research with respect to, administer, or use in teaching or chemical analysis, a controlled substance in the course of professional practice or research.
 
 (22) The term "production" includes the manufacture, planting, cultivation, growing, or harvesting of a controlled substance.
 
@@ -232,7 +232,7 @@ As used in this subchapter:
 
 &emsp;(B) a distribution, importation, or exportation of a tableting machine or encapsulating machine.
 
-(40) The term "chemical mixture" means a combination of two or more chemical substances, at least one of which is not a list I chemical or a list II chemical, except that such term does not include any combination of a list I chemical or a list II chemical with another chemical that is present solely as an impurity.
+(40) The term "chemical mixture" means a combination of two or more chemical substances, at least one of which is not a list I chemical or a list II chemical, except that suchterm does not include any combination of a list I chemical or a list II chemical with another chemical that is present solely as an impurity.
 
 (41)(A) The term "anabolic steroid" means any drug or hormonal substance, chemically and pharmacologically related to testosterone (other than estrogens, progestins, corticosteroids, and dehydroepiandrosterone), and includes—
 
@@ -472,11 +472,11 @@ As used in this subchapter:
 
 (46) The term "regulated seller" means a retail distributor (including a pharmacy or a mobile retail vendor), except that such term does not include an employee or agent of such distributor.
 
-(47) The term "mobile retail vendor" means a person or entity that makes sales at retail from a stand that is intended to be temporary, or is capable of being moved from one location to another, whether the stand is located within or on the premises of a fixed facility (such as a kiosk at a shopping center or an airport) or whether the stand is located on unimproved real estate (such as a lot or field leased for retail purposes).
+(47) The term "mobile retail vendor" means a person or entity that makes sales at retail froma stand that is intended to be temporary, or is capable of being moved from one location to another, whether the stand is located within or on the premises of a fixed facility (such as a kiosk at a shopping center or an airport) or whether the stand is located on unimproved real estate (such as a lot or field leased for retail purposes).
 
 (48) The term "at retail", with respect to the sale or purchase of a scheduled listed chemical product, means a sale or purchase for personal use, respectively.
 
-(49)(A) The term "retail distributor" means a grocery store, general merchandise store, drug store, or other entity or person whose activitiesas a distributor relating to ephedrine, pseudoephedrine, or phenylpropanolamine products are limited almost exclusively to sales for personal use, both in number of sales and volume of sales, either directly to walk-in customers or in face-to-face transactions by direct sales.
+(49)(A) The term "retail distributor" means a grocery store, general merchandise store, drug store, or other entity or person whose activities as a distributor relating to ephedrine, pseudoephedrine, or phenylpropanolamine products are limited almost exclusively to sales for personal use, both in number of sales and volume of sales, either directly to walk-in customers or in face-to-face transactions by direct sales.
 
 (B) For purposes of this paragraph, entities are defined by reference to the Standard Industrial Classification (SIC) code, as follows:
 
@@ -538,7 +538,7 @@ As used in this subchapter:
 
 &emsp;&emsp;&emsp;&emsp;(bb) is—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(AA) an employee or contractor of the Department of Veterans Affairs who is acting in the scope of such employment or contract; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(AA) an employee or contractor of the Department of Veterans Affairswho is acting in the scope of such employment or contract; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(BB) registered under section 823(f) of this title in any State or is utilizing the registration of a hospital or clinic operated by the Department of Veterans Affairs registered under section 823(f) of this title;
 
@@ -678,7 +678,7 @@ Par. (45). Pub. L. 109–177, §§711(a)(1)(B), 712(a)(1)(B), added par. (45) an
 
 Pars. (46) to (48). Pub. L. 109–177, §§711(a)(1)(B), added pars. (46) to (48). Former par. (46) redesignated (49).
 
-Par. (49). Pub. L. 109–177, §711(a)(1)(A), (2)(A), redesignated par. (46) as (49), substituted "ephedrine, pseudoephedrine, or" for "pseudoephedrine or" in subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: "For purposesof this paragraph, sale for personal use means the sale of below-threshold quantities in a single transaction to an individual for legitimate medical use."
+Par. (49). Pub. L. 109–177, §711(a)(1)(A), (2)(A), redesignated par. (46) as (49), substituted "ephedrine, pseudoephedrine, or" for "pseudoephedrine or" in subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: "For purposes of this paragraph, sale for personal use means the sale of below-threshold quantities in a single transaction to an individual for legitimate medical use."
 
 <b>2004</b>—Par. (41). Pub. L. 108–358, §2(a)(1), realigned margins, added subpar. (A), and struck out former subpar. (A) which defined "anabolic steroid".
 
@@ -858,7 +858,7 @@ Amendment by Pub. L. 105–115 effective 90 days after Nov. 21, 1997, except as 
 
 #### Effective Date of 1996 Amendments
 
-Amendment by section 604(b)(4) of Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of Title 18, Crimes and Criminal Procedure.
+Amendment by section 604(b)(4) of Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L.104–294, set out as a note under section 13 of Title 18, Crimes and Criminal Procedure.
 
 Pub. L. 104–237, title IV, §401(g), Oct. 3, 1996, 110 Stat. 3110, provided that: "Notwithstanding any other provision of this Act \[see section 1(a) of Pub. L. 104–237, set out as a Short Title of 1996 Amendments note under section 801 of this title\], this section \[amending this section and section 814 of this title and enacting provisions set out as a note below\] shall not apply to the sale of any pseudoephedrine or phenylpropanolamine product prior to 12 months after the date of enactment of this Act \[Oct. 3, 1996\], except that, on application of a manufacturer of a particular pseudoephedrine or phenylpropanolamine drug product, the Attorney General may, in her sole discretion, extend such effective date up to an additional six months. Notwithstanding any other provision of law, the decision of the Attorney General on such an application shall not be subject to judicial review."
 
@@ -926,7 +926,7 @@ Elements.—The report shall include—
 
 &emsp;"(3)
 
-Matters considered.—In preparing the report, the Attorney General shall consider the comments and recommendations including the comments on the Attorney General's proposed findings and recommendations, of State and local law enforcement and regulatory officials and of representatives of the industry described in subsection (a)(2).
+Matters considered.—In preparing the report, the Attorney General shall consider the comments and recommendations including the comments on theAttorney General's proposed findings and recommendations, of State and local law enforcement and regulatory officials and of representatives of the industry described in subsection (a)(2).
 
 "(c)
 
@@ -936,7 +936,7 @@ Regulation of Retail Sales.—
 
 In general.—Notwithstanding section 401(d) of the Comprehensive Methamphetamine Control Act of 1996 \[Pub. L. 104–237\] (21 U.S.C. 802 note) and subject to paragraph (2), the Attorney General shall establish by regulation a single-transaction limit of not less than 24 grams of ordinary, over-the-counter pseudoephedrine or phenylpropanolamine (as the case may be) for retail distributors, if the Attorney General finds, in the report under subsection (b), that—
 
-&emsp;&emsp;"(A) there is a significant number of instances (as set forth in paragraph (3)(A) of such section 401(d) for purposes of such section) where ordinary, over-the-counter pseudoephedrine products, phenylpropanolamine products, or both such products that were purchased from retail distributors were widelyused in the clandestine production of illicit drugs; and
+&emsp;&emsp;"(A) there is a significant number of instances (as set forth in paragraph (3)(A) of such section 401(d) for purposes of such section) where ordinary, over-the-counter pseudoephedrine products, phenylpropanolamine products, or both such products that were purchased from retail distributors were widely used in the clandestine production of illicit drugs; and
 
 &emsp;&emsp;"(B) the best practical method of preventing such use is the establishment of single-transaction limits for retail distributors of either or both of such products.
 

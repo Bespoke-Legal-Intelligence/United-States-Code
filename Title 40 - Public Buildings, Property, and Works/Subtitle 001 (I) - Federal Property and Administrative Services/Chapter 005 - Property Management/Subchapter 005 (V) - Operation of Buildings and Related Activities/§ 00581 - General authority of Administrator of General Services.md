@@ -90,7 +90,7 @@ Utilities for Defense Industrial Reserve and Surplus Property.—The Administrat
 
 &emsp;(1) provide utilities and services, if the utilities and services are not provided by other sources, to a person, firm, or corporation occupying or using a plant or portion of a plant that constitutes—
 
-&emsp;&emsp;(A) any part of the Defense Industrial Reserve pursuant to section 2535 of title 10; or
+&emsp;&emsp;(A) any part of the Defense Industrial Reserve pursuant to section 4881 of title 10; or
 
 &emsp;&emsp;(B) surplus real property; and
 
@@ -124,7 +124,7 @@ Deposit and credit of amounts received.—The Administrator may deposit into the
 
 Furnishing utilities and maintenance.—The Administrator may furnish utilities, maintenance, repair, and other services to a person, firm, or organization leasing space pursuant to paragraph (1) or (2). The services may be provided during and outside of regular working hours of federal agencies.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1108; Pub. L. 107–296, title XVII, §1706(a), Nov. 25, 2002, 116 Stat. 2316; Pub. L. 109–284, §6(5), Sept. 27, 2006, 120 Stat. 1212.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1108; Pub. L. 107–296, title XVII, §1706(a), Nov. 25, 2002, 116 Stat. 2316; Pub. L. 109–284, §6(5), Sept. 27, 2006, 120 Stat. 1212; Pub. L. 117–81, div. A, title XVII, §1702(g)(2), Dec. 27, 2021, 135 Stat. 2158.)
 
 Historical and Revision Notes
 
@@ -148,7 +148,7 @@ In subsection (c)(3) and (4), the words "without regard to the provisions of sec
 
 In subsection (c)(5), the words "Defense Industrial Reserve" are substituted for "National Industrial Reserve" because the National Industrial Reserve Act was renamed the Defense Industrial Reserve Act by section 809 of the Department of Defense Appropriation Authorization Act, 1974 (Public Law 93–155, 87 Stat. 617), and transferred to 10:2535 by section 4235 of the Defense Conversion, Reinvestment and Transition Assistance Act of 1992, which was included as Division D in the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484, title XLII, 106 Stat. 2690).
 
-In subsection (d)(3), the words "Federal Buildings Fund" are substituted for "Buildings Management Fund" because the fund established under 40:490(f)(1) is the Federal Buildings Fund and unexpended balances inthe Buildings Management Fund were merged into the Federal Buildings Fund under 40:490(f)(3).
+In subsection (d)(3), the words "Federal Buildings Fund" are substituted for "Buildings Management Fund" because the fund established under 40:490(f)(1) isthe Federal Buildings Fund and unexpended balances in the Buildings Management Fund were merged into the Federal Buildings Fund under 40:490(f)(3).
 
 In subsection (e), before clause (1), the words "section 501 of title 36" are substituted for "the Act of August 6, 1965, 70 Stat 1049" in section 210(a)(15) of the Federal Property and Administrative Services Act of 1949 because of section 5(b) of the Act of August 12, 1998 (Public Law 105–225, 112 Stat. 1499), the first section of which enacted Title 36, United States Code. In clause (1), the words "chapters 33 and 51 and subchapter III of chapter 53 of title 5" are substituted for "the civil service and classification laws" because of section 7(b) of the Act of September 6, 1966 (Public Law 89–554, 80 Stat. 631), the first section of which enacted Title 5, United States Code.
 
@@ -159,6 +159,8 @@ In subsection (g)(1), the words "mixed-ownership Government corporation" are sub
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (f)(1)(A). Pub. L. 117–81 substituted "section 4881" for "section 2535".
 
 <b>2006</b>—Subsec. (b). Pub. L. 109–284 substituted "The Administrator of General Services may—" for "The Administrator may—" in introductory provisions.
 

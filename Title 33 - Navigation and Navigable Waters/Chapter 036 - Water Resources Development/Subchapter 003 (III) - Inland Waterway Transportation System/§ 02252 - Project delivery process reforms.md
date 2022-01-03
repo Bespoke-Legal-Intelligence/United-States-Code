@@ -22,7 +22,7 @@ With respect to each qualifying project, the Secretary shall require—
 
 &emsp;&emsp;&emsp;(iii) for a qualifying project without a completed feasibility report in accordance with section 2282 of this title, prior to the completion of such a report; and
 
-&emsp;&emsp;&emsp;(iv) for a qualifying project with a completed feasibility report in accordance with section 2282 of this title that has not yet been authorized, during design for the qualifying project.
+&emsp;&emsp;&emsp;(iv) for a qualifying project with a completed feasibility report in accordancewith section 2282 of this title that has not yet been authorized, during design for the qualifying project.
 
 #### (b) Additional project delivery process reforms
 

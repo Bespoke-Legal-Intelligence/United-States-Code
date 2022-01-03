@@ -10,7 +10,7 @@ In accordance with section 1234c of this title, the Secretary may issue to a rec
 
 #### (b) Appearance contesting order
 
-The recipient upon which a complaint has been served shall have the right to appear before the Office on the date specified and to show cause why an order should not be entered by the Office requiring the recipient to cease and desist from the violation of law charged in the complaint.
+The recipient upon which a complaint has been served shall have the right to appear before the Office on the date specified and to showcause why an order should not be entered by the Office requiring the recipient to cease and desist from the violation of law charged in the complaint.
 
 #### (c) Report; issuance of cease and desist order
 
@@ -34,9 +34,13 @@ The Secretary may enforce a final order of the Office under this section which b
 
 (Pub. L. 90–247, title IV, §456, as added Pub. L. 95–561, title XII, §1232, Nov. 1, 1978, 92 Stat. 2351; amended Pub. L. 100–297, title III, §3501(a), Apr. 28, 1988, 102 Stat. 355.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–297 amended section generally, substituting provisions relating to cease and desist orders for provisions relating to use of recovered funds. See section 1234h of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

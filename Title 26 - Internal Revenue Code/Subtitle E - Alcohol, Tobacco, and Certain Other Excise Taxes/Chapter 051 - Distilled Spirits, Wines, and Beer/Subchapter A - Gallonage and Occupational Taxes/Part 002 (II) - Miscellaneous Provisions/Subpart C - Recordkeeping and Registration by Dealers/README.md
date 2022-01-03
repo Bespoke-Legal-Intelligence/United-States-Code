@@ -9,6 +9,8 @@ Subpart C—Recordkeeping and Registration by Dealers
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior subpart C was redesignated subpart A of this part.

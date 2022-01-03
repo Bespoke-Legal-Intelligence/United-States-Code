@@ -2,7 +2,7 @@
 
 (a)
 
-Transitory Digital Network Communications.—A service provider shall not be liable for monetary relief, or, except as provided in subsection (j), for injunctive or other equitable relief, for infringement of copyright by reason of the provider's transmitting, routing, or providing connections for, material through a system or network controlled or operated by or for the service provider, or by reason of the intermediate and transient storage of that material in the course of such transmitting, routing, or providing connections, if—
+Transitory Digital Network Communications.—A service provider shall not be liable formonetary relief, or, except as provided in subsection (j), for injunctive or other equitable relief, for infringement of copyright by reason of the provider's transmitting, routing, or providing connections for, material through a system or network controlled or operated by or for the service provider, or by reason of the intermediate and transient storage of that material in the course of such transmitting, routing, or providing connections, if—
 
 &emsp;(1) the transmission of the material was initiated by or at the direction of a person other than the service provider;
 
@@ -52,7 +52,7 @@ Conditions.—The conditions referred to in paragraph (1) are that—
 
 &emsp;&emsp;&emsp;(i) the material has previously been removed from the originating site or access to it has been disabled, or a court has ordered that the material be removed from the originating site or that access to the material on the originating site be disabled; and
 
-&emsp;&emsp;&emsp;(ii) the party giving the notification includes in the notification a statement confirming that the material has been removed from the originating site or access to it has been disabled or that a court has ordered that the material be removed from the originating site or that access to the material on the originating site be disabled.
+&emsp;&emsp;&emsp;(ii) the party giving the notification includes in the notification a statement confirming that the material has been removed from the originating site or access to it has been disabled or that a court has ordered that the material be removed fromthe originating site or that access to the material on the originating site be disabled.
 
 (c)
 
@@ -114,7 +114,7 @@ Information Location Tools.—A service provider shall not be liable for monetar
 
 &emsp;(C) upon obtaining such knowledge or awareness, acts expeditiously to remove, or disable access to, the material;
 
-&emsp;(2) does not receive a financial benefit directly attributable to the infringing activity,in a case in which the service provider has the right and ability to control such activity; and
+&emsp;(2) does not receive a financial benefit directly attributable to the infringing activity, in a case in which the service provider has the right and ability to control such activity; and
 
 &emsp;(3) upon notification of claimed infringement as described in subsection (c)(3), responds expeditiously to remove, or disable access to, the material that is claimed to be infringing or to be the subject of infringing activity, except that, for purposes of this paragraph, the information described in subsection (c)(3)(A)(iii) shall be identification of the reference or link, to material or activity claimed to be infringing, that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit the service provider to locate that reference or link.
 

@@ -1,8 +1,10 @@
 ### §1066. Interference; declaration by Director
 
-Upon petition showing extraordinary circumstances, the Director may declare that an interference exists when application is made for the registration of a mark which so resembles a mark previously registered by another, or for the registration of which another has previously made application, as to be likely when used onor in connection with the goods or services of the applicant to cause confusion or mistake or to deceive. No interference shall be declared between an application and the registration of a mark the right to the use of which has become incontestable.
+Upon petition showing extraordinary circumstances, the Director may declare that an interference exists when application is made for the registration of a mark which so resembles a mark previously registered by another, or for the registration of which another has previously made application, as to be likely when used on or in connection with the goods or services of the applicant to cause confusion or mistake or to deceive. No interference shall be declared between an application and the registration of a mark the right to the use of which has become incontestable.
 
 (July 5, 1946, ch. 540, title I, §16, 60 Stat. 434; Pub. L. 87–772, §11, Oct. 9, 1962, 76 Stat. 771; Pub. L. 97–247, §11, Aug. 27, 1982, 96 Stat. 321; Pub. L. 100–667, title I, §117, Nov. 16, 1988, 102 Stat. 3941; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -17,6 +19,8 @@ Act Feb. 20, 1905, ch. 592, §7, 33 Stat. 726.
 <b>1982</b>—Pub. L. 97–247 substituted "Upon petition showing extraordinary circumstances, the Commissioner may declare that an interference exists when application is made for the registration of a mark which so resembles a mark previously registered by another, or for the registration of which another has previously made application, as to be likely when applied to the goods or when used in connection with the services of the applicant to cause confusion or mistake or to deceive" for "Whenever application is made for the registration of a mark which so resembles a mark previously registered by another, or for the registration of which another has previously made application, as to be likely when applied to the goods or when used in connection with the services of the applicant to cause confusion or mistake or to deceive, the Commissioner may declare that an interference exists".
 
 <b>1962</b>—Pub. L. 87–772 struck out "purchasers" after "or to deceive".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1999 Amendment
 
@@ -33,6 +37,8 @@ Amendment by Pub. L. 97–247 effective six months after Aug. 27, 1982, see sect
 #### Repeal and Effect on Existing Rights
 
 Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrations and rights under prior acts, see notes set out under section 1051 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

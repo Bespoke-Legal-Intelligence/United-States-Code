@@ -8,11 +8,11 @@ There is hereby established within the Department of the Treasury the Office of 
 
 #### (1) In general
 
-&emsp;The head of the Office of the Special Inspector General for Pandemic Recovery shall be the Special Inspector General for Pandemic Recovery (referred to in this section as the "Special Inspector General"), who shall be appointed by the President, by and with the advice and consent of the Senate.
+&emsp;The head of the Office of the Special Inspector General for Pandemic Recovery shall bethe Special Inspector General for Pandemic Recovery (referred to in this section as the "Special Inspector General"), who shall be appointed by the President, by and with the advice and consent of the Senate.
 
 #### (2) Nomination
 
-&emsp;The nomination of the Special Inspector General shall be made on the basis of integrityand demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations. The nomination of an individual as Special Inspector General shall be made as soon as practicable after any loan, loan guarantee, or other investment is made under section 9042 of this title.
+&emsp;The nomination of the Special Inspector General shall be made on the basis of integrity and demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations. The nomination of an individual as Special Inspector General shall be made as soon as practicable after any loan, loan guarantee, or other investment is made under section 9042 of this title.
 
 #### (3) Removal
 
@@ -78,11 +78,11 @@ There is hereby established within the Department of the Treasury the Office of 
 
 #### (A) In general
 
-&emsp;&emsp;Upon request of the Special Inspector General for information or assistance from any department, agency, or other entity of the Federal Government, the head of that department, agency, or entity shall, to the extent practicable and not in contravention of any existing law, furnish that information or assistance to the Special Inspector General, or an authorized designee.
+&emsp;&emsp;Upon request of the Special Inspector General for information or assistance from anydepartment, agency, or other entity of the Federal Government, the head of that department, agency, or entity shall, to the extent practicable and not in contravention of any existing law, furnish that information or assistance to the Special Inspector General, or an authorized designee.
 
 #### (B) Refusal to provide requested information
 
-&emsp;&emsp;Whenever information or assistance requested by the Special Inspector General is,in the judgment of the Special Inspector General, unreasonably refused or not provided, the Special Inspector General shall report the circumstances to the appropriate committees of Congress without delay.
+&emsp;&emsp;Whenever information or assistance requested by the Special Inspector General is, in the judgment of the Special Inspector General, unreasonably refused or not provided, the Special Inspector General shall report the circumstances to the appropriate committees of Congress without delay.
 
 #### (f) Reports
 
@@ -133,6 +133,8 @@ The Secretary shall—
 &emsp;(2) with respect to a deficiency identified under paragraph (1), certify to the Committee on Banking, Housing, and Urban Affairs of the Senate, the Committee on Finance of the Senate, the Committee on Financial Services of the House of Representatives, and the Committee on Ways and Means of the House of Representatives that no action is necessary or appropriate.
 
 (Pub. L. 116–136, div. A, title IV, §4018, Mar. 27, 2020, 134 Stat. 482.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

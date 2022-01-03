@@ -18,7 +18,9 @@ The Secretary shall, insofar as is practicable, develop and require the use of�
 
 &emsp;(3) a common application for grants to local educational agencies in applicable programs which are directly administered by the Secretary, and such application shall be used as the single application for as many of these programs as is practicable.
 
-(Pub. L. 90–247, title IV, §436, formerly §430, as added Pub. L. 95–561, title XII, §1213, Nov. 1, 1978, 92 Stat. 2342; renumbered §436 and amended Pub. L. 103–382, title II, §§212(b)(1), 246, Oct. 20, 1994, 108 Stat. 3913, 3923.)
+(Pub. L. 90–247, title IV, §436, formerly §430, as added Pub. L. 95–561, title XII, §1213, Nov. 1, 1978,92 Stat. 2342; renumbered §436 and amended Pub. L. 103–382, title II, §§212(b)(1), 246, Oct. 20, 1994, 108 Stat. 3913, 3923.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -33,6 +35,8 @@ Another prior section 436 of Pub. L. 90–247 was renumbered section 446, and wa
 <b>1994</b>—Pub. L. 103–382, §246(2), substituted "Secretary" for "Commissioner" wherever appearing.
 
 Subsec. (a). Pub. L. 103–382, §246(1), substituted "for more than one fiscal year" for "for three fiscal years".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -24,6 +24,8 @@ For purposes of this subchapter—
 
 (Added Pub. L. 101–239, title VII, §7504(a), Dec. 19, 1989, 103 Stat. 2362.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 4472 was contained in subchapter C of this chapter prior to repeal by Pub. L. 89–44, title IV, §404, June 21, 1965, 79 Stat. 149.

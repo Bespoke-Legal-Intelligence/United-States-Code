@@ -50,6 +50,8 @@ Punitive damages in a Y2K action may not be awarded against a government entity.
 
 (Pub. L. 106–37, §5, July 20, 1999, 113 Stat. 192; Pub. L. 106–113, div. B, §1000(a)(4) \[title III, §311\], Nov. 29, 1999, 113 Stat. 1535, 1501A–265.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1999</b>—Subsec. (d). Pub. L. 106–113 added subsec. (d).

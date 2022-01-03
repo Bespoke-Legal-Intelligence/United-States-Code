@@ -192,9 +192,9 @@ There is authorized to be appropriated for purposes of carrying out the complian
 
 &emsp;&emsp;&emsp;The amount under clause (i) shall not exceed—
 
-&emsp;&emsp;&emsp;&emsp;(I) 1 percent of the amount of meal reimbursements earned for the fiscal yearfor the first finding of 1 or more program violations under subparagraph (A);
+&emsp;&emsp;&emsp;&emsp;(I) 1 percent of the amount of meal reimbursements earned for the fiscal year for the first finding of 1 or more program violations under subparagraph (A);
 
-&emsp;&emsp;&emsp;&emsp;(II) 5 percent of the amount of meal reimbursements earned for the fiscal year for the second finding of 1 or more program violations under subparagraph (A); and
+&emsp;&emsp;&emsp;&emsp;(II) 5 percent of the amount of meal reimbursements earned for the fiscal yearfor the second finding of 1 or more program violations under subparagraph (A); and
 
 &emsp;&emsp;&emsp;&emsp;(III) 10 percent of the amount of meal reimbursements earned for the fiscal year for the third or subsequent finding of 1 or more program violations under subparagraph (A).
 
@@ -225,6 +225,8 @@ There is authorized to be appropriated for purposes of carrying out the complian
 &emsp;Funds to pay a fine imposed under paragraph (1) or (2) shall be derived from non-Federal sources.
 
 (June 4, 1946, ch. 281, §22, as added Pub. L. 101–147, title I, §110(a), Nov. 10, 1989, 103 Stat. 889; amended Pub. L. 103–448, title I, §121, Nov. 2, 1994, 108 Stat. 4727; Pub. L. 105–336, title I, §111, Oct. 31, 1998, 112 Stat. 3157; Pub. L. 108–265, title I, §§126(b)(1), 127, June 30, 2004, 118 Stat. 763, 767; Pub. L. 111–296, title II, §207, title III, §§303, 304, title IV, §408, Dec. 13, 2010, 124 Stat. 3220, 3240, 3242, 3260.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -259,6 +261,8 @@ Subsec. (d). Pub. L. 108–265, §127, substituted "$6,000,000 for each of fisca
 <b>1998</b>—Subsec. (d). Pub. L. 105–336 substituted "2003" for "1996".
 
 <b>1994</b>—Subsec. (d). Pub. L. 103–448 substituted "fiscal years 1994 through 1996" for "fiscal years 1990, 1991, 1992, 1993, and 1994".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

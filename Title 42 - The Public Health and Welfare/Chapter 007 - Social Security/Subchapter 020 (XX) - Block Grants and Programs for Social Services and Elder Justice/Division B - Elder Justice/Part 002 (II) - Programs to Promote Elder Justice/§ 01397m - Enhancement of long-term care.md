@@ -24,7 +24,7 @@
 
 #### (ii) Application
 
-&emsp;&emsp;&emsp;To be eligible to receive a grant under this subparagraph, an eligible entity shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require (which may include evidence of consultation with the State in which the eligible entity is located with respect to carrying out activities funded under the grant).
+&emsp;&emsp;&emsp;To be eligible to receive a grant under this subparagraph, an eligible entity shallsubmit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require (which may include evidence of consultation with the State in which the eligible entity is located with respect to carrying out activities funded under the grant).
 
 #### (iii) Authority to limit number of applicants
 
@@ -145,6 +145,8 @@ There are authorized to be appropriated to carry out this section—
 &emsp;(3) for each of fiscal years 2013 and 2014, $15,000,000.
 
 (Aug. 14, 1935, ch. 531, title XX, §2041, as added Pub. L. 111–148, title VI, §6703(a)(1)(C), Mar. 23, 2010, 124 Stat. 791.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

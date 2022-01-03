@@ -1,8 +1,10 @@
 ### §500. Payment and evaluation of receipts to State or Territory for schools and roads; moneys received; projections of revenues and estimated payments
 
-On and after May 23, 1908, an amount equal to the annual average of 25 percent of all amounts received for the applicable fiscal year and each of the preceding 6 fiscal years from each national forest shall be paid, at the end of such year, by the Secretary of the Treasury to the State or Territory in which such national forest is situated, to be expended as the State or Territorial legislature may prescribe for the benefit of the public schools and public roads of the county or counties in which such national forest is situated: <i>Provided</i>, That when any national forest is in more than one State or Territory or county the distributive share to each from the proceeds of such forest shall be proportional to its area therein. In sales of logs, ties, poles, posts, cordwood, pulpwood, and other forest products the amounts made available for schools and roads by this section shall be based upon the stumpage value of the timber. Beginning October 1, 1976, the term "moneys received" shall include all collections under the Act of June 9, 1930, and all amounts earned or allowed any purchaser of national forest timber and other forest products within such State as purchaser credits, for the construction of roads on the National Forest Transportation System within such national forests or parts thereof in connection with any Forest Service timber sales contract. The Secretary of Agriculture shall, from time to time as he goes through his process of developing the budget revenue estimates, make available to the States his current projections of revenues and payments estimated to be made under the Act of May 23, 1908, as amended, or any other special Acts making payments in lieu of taxes, for their use for local budget planning purposes.
+On and after May 23, 1908, an amount equal to the annual average of 25 percent of all amounts received for the applicable fiscal year and each of the preceding 6 fiscal years from each national forest shall be paid, at the end of such year, by the Secretary of the Treasury to the State or Territory in which such national forest is situated, to be expended as the State or Territorial legislature may prescribe for the benefit of the public schools and public roads of the county or counties in which such national forestis situated: <i>Provided</i>, That when any national forest is in more than one State or Territory or county the distributive share to each from the proceeds of such forest shall be proportional to its area therein. In sales of logs, ties, poles, posts, cordwood, pulpwood, and other forest products the amounts made available for schools and roads by this section shall be based upon the stumpage value of the timber. Beginning October 1, 1976, the term "moneys received" shall include all collections under the Act of June 9, 1930, and all amounts earned or allowed any purchaser of national forest timber and other forest products within such State as purchaser credits, for the construction of roads on the National Forest Transportation System within such national forests or parts thereof in connection with any Forest Service timber sales contract. The Secretary of Agriculture shall, from time to time as he goes through his process of developing the budget revenue estimates, make available to the States his current projections of revenues and payments estimated to be made under the Act of May 23, 1908, as amended, or any other special Acts making payments in lieu of taxes, for their use for local budget planning purposes.
 
 (May 23, 1908, ch. 192, 35 Stat. 260; Mar. 1, 1911, ch. 186, §13, 36 Stat. 963; June 30, 1914, ch. 131, 38 Stat. 441; Sept. 21, 1944, ch. 412, title II, §212, 58 Stat. 737; Apr. 24, 1950, ch. 97, §17(b), 64 Stat. 87; Pub. L. 94–588, §16, Oct. 22, 1976, 90 Stat. 2961; Pub. L. 110–343, div. C, title VI, §601(b), Oct. 3, 2008, 122 Stat. 3910.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -40,6 +42,8 @@ July 1, 1941, ch. 267, 55 Stat. 423.
 
 <b>1914</b>—Act June 30, 1914, changed per centum to be paid to each State from five to twenty-five.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title of 2000 Amendment
 
 Pub. L. 106–393, §1(a), Oct. 30, 2000, 114 Stat. 1607, which provided that the Act could be cited as the "Secure Rural Schools and Community Self-Determination Act of 2000", was repealed by Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3893. See section 1 of Pub. L. 106–393, set out as a Short Title note under section 7101 of this title.
@@ -50,7 +54,7 @@ Provisions of Federal Land Policy and Management Act of 1976, Pub. L. 94–579, 
 
 #### Secure Rural Schools and Community Self-Determination
 
-Pub. L. 107–76, title VII, §751, Nov. 28, 2001, 115 Stat. 739, provided for the determination of the full paymentamount for each eligible State and eligible county for fiscal years 2002 to 2006 under former section 102 of Pub. L. 106–393, formerly set out below.
+Pub. L. 107–76, title VII, §751, Nov. 28, 2001, 115 Stat. 739, provided for the determination of the full payment amount for each eligible State and eligible county for fiscal years 2002 to 2006 under former section 102 of Pub. L. 106–393, formerly set out below.
 
 Pub. L. 106–393, §§2, 3, Oct. 30, 2000, 114 Stat. 1608, 1609, which related to findings and purposes and provided definitions for Pub. L. 106–393, was repealed by Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3893. See sections 7101 and 7102 of this title.
 
@@ -64,7 +68,7 @@ Pub. L. 106–393, titles I–IV, Oct. 30, 2000, 114 Stat. 1611–1623, as amend
 
 #### Advisory Committee on Forest Counties Payments
 
-Pub. L. 106–291, title III, §320, Oct. 11, 2000, 114 Stat. 990, as amended by Pub. L. 108–319, §1, Oct. 5, 2004, 118 Stat. 1212, established the Forest Counties Payments Committee to recommend methods for making payments to States and counties with Federal lands and provided for its termination on Sept. 30, 2007.
+Pub. L. 106–291, title III, §320, Oct. 11, 2000, 114 Stat. 990, as amended by Pub. L. 108–319, §1, Oct. 5, 2004, 118Stat. 1212, established the Forest Counties Payments Committee to recommend methods for making payments to States and counties with Federal lands and provided for its termination on Sept. 30, 2007.
 
 \[Pub. L. 108–319, §1, Oct. 5, 2004, 118 Stat. 1212, provided that the amendment made by section 1 to section 320 of Pub. L. 106–291 was effective as of Oct. 11, 2003.\]
 

@@ -4,13 +4,17 @@ Notwithstanding any other provision of law, in this fiscal year and each fiscal 
 
 (Pub. L. 113–235, div. D, title IV, Dec. 16, 2014, 128 Stat. 2330.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Inspector General Act of 1978, referred to in text, is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is setout in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in text, is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 
 Section was enacted as part of the appropriation act cited in the credit of this section, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Similar Provisions
 

@@ -6,7 +6,7 @@ Notwithstanding paragraphs (2) and (3) of section 3651 of this title, as used in
 
 &emsp;(1) "position" means a civilian position; and
 
-&emsp;(2) "employee" means an individual serving in a position in the Department of Defense whose permanent duty station is in the area which, before October 1, 1979, was known as the Canal Zone.
+&emsp;(2) "employee" means an individual serving in a position in the Department of Defensewhose permanent duty station is in the area which, before October 1, 1979, was known as the Canal Zone.
 
 #### (b) Covered employees
 

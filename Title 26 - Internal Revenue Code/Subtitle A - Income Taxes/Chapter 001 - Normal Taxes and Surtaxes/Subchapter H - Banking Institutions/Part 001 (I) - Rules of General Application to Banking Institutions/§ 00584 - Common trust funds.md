@@ -120,6 +120,8 @@ For purposes of this subtitle, the taxable year of any common trust fund shall b
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 203; Pub. L. 87–722, §4, Sept. 28, 1962, 76 Stat. 670; Pub. L. 88–272, title II, §201(d)(5), Feb. 26, 1964, 78 Stat. 32; Pub. L. 94–414, §1, Sept. 17, 1976, 90 Stat. 1273; Pub. L. 94–455, title XIV, §1402(b)(1)(H), (2), title XIX, §§1901(b)(1)(G), 1906(b)(13)(A), title XXI, §§2131(d), 2138, Oct. 4, 1976, 90 Stat. 1732, 1790, 1834, 1924, 1932; Pub. L. 95–30, title I, §101(d)(7), May 23, 1977, 91 Stat. 133; Pub. L. 96–223, title IV, §404(b)(3), Apr. 2, 1980, 94 Stat. 306; Pub. L. 97–34, title III, §301(b)(3), (6)(A), Aug. 13, 1981, 95 Stat. 270; Pub. L. 97–448, title I, §103(a)(2), Jan. 12, 1983, 96 Stat. 2375; Pub. L. 98–369, div. A, title X, §1001(b)(7), (e), July 18, 1984, 98 Stat. 1011, 1012; Pub. L. 99–514, title VI, §612(b)(2), Oct. 22, 1986, 100 Stat. 2250; Pub. L. 100–647, title I, §1008(e)(5)(A), Nov. 10, 1988, 102 Stat. 3440; Pub. L. 104–188, title I, §1805(a), Aug. 20, 1996, 110 Stat. 1894; Pub. L. 106–36, title III, §3001(c)(1), June 25, 1999, 113 Stat. 183; Pub. L. 108–27, title III, §302(e)(7), May 28, 2003, 117 Stat. 764.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2003</b>—Subsec. (c). Pub. L. 108–27 inserted concluding provisions.
@@ -140,7 +142,7 @@ Subsec. (h)(3)(C). Pub. L. 106–36, §3001(c)(1)(B), added subpar. (C).
 
 <b>1986</b>—Subsec. (c). Pub. L. 99–514, §612(b)(2)(B), substituted "1 year" for "6 months" wherever appearing in pars. (1) and (2).
 
-Pub. L. 99–514, §612(b)(2)(A), amended subsec. (c) generally, restating subpars. (A) to (C) of former par. (1) aspars. (1) to (3) and striking out former par. (2) which read as follows: "The proportionate share of each participant in the amount of dividends or interest received by the common trust fund and to which section 116 or 128 applies shall be considered for purposes of such section as having been received by such participant."
+Pub. L. 99–514, §612(b)(2)(A), amended subsec. (c) generally, restating subpars. (A) to (C) of former par. (1) as pars. (1) to (3) and striking out former par. (2) which read as follows: "The proportionate share of each participant in the amount of dividends or interest received by the common trust fund and to which section 116 or 128 applies shall be considered for purposes of such section as having been received by such participant."
 
 <b>1984</b>—Subsec. (c)(1)(A), (B). Pub. L. 98–369 substituted "6 months" for "1 year", wherever appearing, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
 
@@ -172,6 +174,8 @@ Subsec. (g). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" af
 
 <b>1962</b>—Subsec. (a)(2). Pub. L. 87–722 inserted "or the Comptroller of the Currency" after "the Board of Governors of the Federal Reserve System".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2003 Amendment
 
 Amendment by Pub. L. 108–27 applicable, except as otherwise provided, to taxable years beginning after Dec. 31, 2002, see section 302(f) of Pub. L. 108–27, set out as an Effective and Termination Dates of 2003 Amendment note under section 1 of this title.
@@ -186,7 +190,7 @@ Pub. L. 104–188, title I, §1805(b), Aug. 20, 1996, 110 Stat. 1895, provided t
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–647, title I, §1008(e)(5)(B), Nov. 10, 1988, 102 Stat. 3440, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the amendments made by section 806 of the Reform Act \[Pub. L. 99–514\], except that section 806(e)(1) \[set out as a note under section 1378 of this title\] shall be applied by substituting 'December 31, 1987' for 'December 31, 1986'. For purposes of section 806(e)(2) of the Reform Act \[set out as a note under section 1378 of this title\]—
+Pub. L. 100–647, title I, §1008(e)(5)(B), Nov. 10, 1988, 102 Stat. 3440, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the amendments made by section 806 of the Reform Act \[Pub. L. 99–514\], except that section 806(e)(1) \[set out as a note under section 1378 of this title\] shall be applied by substituting 'December 31, 1987' for 'December 31, 1986'. For purposes of section806(e)(2) of the Reform Act \[set out as a note under section 1378 of this title\]—
 
 &emsp;"(i) a participant in a common trust fund shall be treated in the same manner as a partner, and
 
@@ -226,7 +230,7 @@ Pub. L. 94–455, title XIV, §1402(b)(1), Oct. 4, 1976, 90 Stat. 1731, provided
 
 Pub. L. 94–455, title XIV, §1402(b)(2), Oct. 4, 1976, 90 Stat. 1732, provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1977.
 
-Amendment by section 1901(b)(1)(G) of Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, setout as an Effective Date of 1976 Amendment note under section 2 of this title.
+Amendment by section 1901(b)(1)(G) of Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as an Effective Date of 1976 Amendment note under section 2 of this title.
 
 Pub. L. 94–414, §2, Sept. 17, 1976, 90 Stat. 1273, provided that: "The amendment made by the first section of this Act \[amending this section\] shall apply to taxable years beginning after December 31, 1975."
 

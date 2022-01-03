@@ -74,7 +74,7 @@ Exemption for national parks with 50 or fewer flights each year.—
 
 &emsp;&emsp;(A)
 
-In general.—Notwithstanding paragraph (1), a national park that has 50 orfewer commercial air tour operations over the park each year shall be exempt from the requirements of this section, except as provided in subparagraph (B).
+In general.—Notwithstanding paragraph (1), a national park that has 50 or fewer commercial air tour operations over the park each year shall be exempt from the requirements of this section, except as provided in subparagraph (B).
 
 &emsp;&emsp;(B)
 
@@ -350,6 +350,8 @@ Director.—The term "Director" means the Director of the National Park Service.
 
 (Added Pub. L. 106–181, title VIII, §803(a), Apr. 5, 2000, 114 Stat. 186; amended Pub. L. 108–176, title III, §323(a), Dec. 12, 2003, 117 Stat. 2541; Pub. L. 109–115, div. A, title I, §177, Nov. 30, 2005, 119 Stat. 2427; Pub. L. 112–95, title V, §501, Feb. 14, 2012, 126 Stat. 100; Pub. L. 112–141, div. C, title V, §35002, July 6, 2012, 126 Stat. 843; Pub. L. 115–254, div. B, title V, §539(c), Oct. 5, 2018, 132 Stat. 3370.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this section, referred to in subsecs. (a)(4), (c)(2)(A), (3)(C), and (g)(2), is the date of enactment of Pub. L. 106–181, which was approved Apr. 5, 2000.
@@ -401,6 +403,8 @@ operation" in heading.
 Subsec. (f)(4)(A). Pub. L. 108–176, §323(a)(8), in introductory provisions, substituted "commercial air tour operation over a national park" for "commercial air tour operation" and "park (except the Grand Canyon National Park), or over tribal lands (except those within or abutting the Grand Canyon National Park)," for "park, or over tribal lands,".
 
 Subsec. (f)(4)(B). Pub. L. 108–176, §323(a)(9), inserted "over a national park" after "operation" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 
@@ -666,7 +670,7 @@ Pub. L. 100–91, Aug. 18, 1987, 101 Stat. 674, as amended by Pub. L. 106–510,
 
 "(a)
 
-Study by Park Service.—The Secretary of the Interior (hereinafter referred to as the 'Secretary'),acting through the Director of the National Park Service, shall conduct a study to determine the proper minimum altitude which should be maintained by aircraft when flying over units of the National Park System. The Secretary of Transportation, acting through the Administrator of the Federal Aviation Administration (hereinafter referred to as the 'Administrator'), shall provide technical assistance to the Secretary in carrying out the study.
+Study by Park Service.—The Secretary of the Interior (hereinafter referred to as the 'Secretary'), acting through the Director of the National Park Service, shall conduct a study to determine the proper minimum altitude which should be maintained by aircraft when flying over units of the National Park System. The Secretary of Transportation, acting through the Administrator of the Federal Aviation Administration (hereinafter referred to as the 'Administrator'), shall provide technical assistance to the Secretary in carrying out the study.
 
 "(b)
 
@@ -738,7 +742,7 @@ Recommendations.—
 
 &emsp;"(1)
 
-Submission.—Within 30 days after the enactment of this Act \[Aug. 18, 1987\], the Secretary shall submit to the Administrator recommendations regarding actions necessary for the protection of resources in the Grand Canyon from adverse impactsassociated with aircraft overflights. The recommendations shall provide for substantial restoration of the natural quiet and experience of the park and protection of public health and safety from adverse effects associated with aircraft overflight. Except as provided in subsection (c), the recommendations shall contain provisions prohibiting the flight of aircraft below the rim of the Canyon, and shall designate flight free zones. Such zones shall be flight free except for purposes of administration and for emergency operations, including those required for the transportation of persons and supplies to and from Supai Village and the lands of the Havasupai Indian Tribe of Arizona. The Administrator, after consultation with the Secretary, shall define the rim of the Canyon in a manner consistent with the purposes of this paragraph.
+Submission.—Within 30 days after the enactment of this Act \[Aug. 18, 1987\], the Secretary shall submit to the Administrator recommendations regarding actions necessary for the protection of resources in the Grand Canyon from adverse impacts associated with aircraft overflights. The recommendations shall provide for substantial restoration of the natural quiet and experience of the park and protection of public health and safety from adverse effects associated with aircraft overflight. Except as provided in subsection (c), the recommendations shall contain provisions prohibiting the flight of aircraft below the rim of the Canyon, and shall designate flight free zones. Such zones shall be flight free except for purposes of administration and for emergency operations, including those required for the transportation of persons and supplies to and from Supai Village and the lands of the Havasupai Indian Tribe of Arizona. The Administrator, after consultation with the Secretary, shall define the rim of the Canyon in a manner consistent with the purposes of this paragraph.
 
 &emsp;"(2)
 

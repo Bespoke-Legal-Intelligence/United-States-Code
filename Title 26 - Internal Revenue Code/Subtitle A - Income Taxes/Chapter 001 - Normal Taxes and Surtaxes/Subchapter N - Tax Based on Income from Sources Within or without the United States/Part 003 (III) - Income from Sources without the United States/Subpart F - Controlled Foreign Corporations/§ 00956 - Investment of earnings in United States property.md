@@ -6,7 +6,7 @@ In the case of any controlled foreign corporation, the amount determined under t
 
 &emsp;(1) the excess (if any) of—
 
-&emsp;&emsp;(A) such shareholder's pro rata share of the average of the amounts of United States property held (directly or indirectly) by thecontrolled foreign corporation as of the close of each quarter of such taxable year, over
+&emsp;&emsp;(A) such shareholder's pro rata share of the average of the amounts of United States property held (directly or indirectly) by the controlled foreign corporation as of the close of each quarter of such taxable year, over
 
 &emsp;&emsp;(B) the amount of earnings and profits described in section 959(c)(1)(A) with respect to such shareholder, or
 
@@ -82,11 +82,11 @@ In the case of any controlled foreign corporation, the amount determined under t
 
 &emsp;&emsp;(E) an amount of assets of an insurance company equivalent to the unearned premiums or reserves ordinary and necessary for the proper conduct of its insurance business attributable to contracts which are contracts described in section 953(e)(2);
 
-&emsp;&emsp;(F) the stock or obligations of a domestic corporation which is neither a United States shareholder (as defined in section 951(b)) of the controlled foreign corporation, nor a domestic corporation, 25 percent or more of the total combined voting power of which,immediately after the acquisition of any stock in such domestic corporation by the controlled foreign corporation, is owned, or is considered as being owned, by such United States shareholders in the aggregate;
+&emsp;&emsp;(F) the stock or obligations of a domestic corporation which is neither a United States shareholder (as defined in section 951(b)) of the controlled foreign corporation, nor a domestic corporation, 25 percent or more of the total combined voting power of which, immediately after the acquisition of any stock in such domestic corporation by the controlled foreign corporation, is owned, or is considered as being owned, by such United States shareholders in the aggregate;
 
 &emsp;&emsp;(G) any movable property (other than a vessel or aircraft) which is used for the purpose of exploring for, developing, removing, or transporting resources from ocean waters or under such waters when used on the Continental Shelf of the United States;
 
-&emsp;&emsp;(H) an amount of assets of the controlled foreign corporation equal to the earnings and profits accumulated after December 31, 1962, and excluded from subpart F income under section 952(b);
+&emsp;&emsp;(H) an amount of assets of the controlled foreign corporation equal to the earningsand profits accumulated after December 31, 1962, and excluded from subpart F income under section 952(b);
 
 &emsp;&emsp;(I) deposits of cash or securities made or received on commercial terms in the ordinary course of a United States or foreign person's business as a dealer in securities or in commodities, but only to the extent such deposits are made or received as collateral or margin for (i) a securities loan, notional principal contract, options contract, forward contract, or futures contract, or (ii) any other financial transaction in which the Secretary determines that it is customary to post collateral or margin;
 
@@ -134,6 +134,8 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 (Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1015; amended Pub. L. 94–455, title X, §1021(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1618, 1834; Pub. L. 98–369, div. A, title I, §123(b), title VIII, §801(d)(8), July 18, 1984, 98 Stat. 646, 996; Pub. L. 99–514, title XVIII, §1810(c)(1), Oct. 22, 1986, 100 Stat. 2824; Pub. L. 103–66, title XIII, §13232(a), (b), Aug. 10, 1993, 107 Stat. 501; Pub. L. 104–188, title I, §1501(b)(2), (3), Aug. 20, 1996, 110 Stat. 1825; Pub. L. 105–34, title XI, §1173(a), title XVI, §1601(e), Aug. 5, 1997, 111 Stat. 988, 1090; Pub. L. 108–357, title IV, §407(a), (b), title VIII, §837(a), Oct. 22, 2004, 118 Stat. 1498, 1499, 1596; Pub. L. 110–172, §11(g)(15)(A), Dec. 29, 2007, 121 Stat. 2490; Pub. L. 115–141, div. U, title IV, §401(a)(162), (163), Mar. 23, 2018, 132 Stat. 1192.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (c)(2)(E). Pub. L. 115–141, §401(a)(162), substituted "which are contracts described in section 953(e)(2)" for "which are not contracts described in section 953(a)(1)".
@@ -142,7 +144,7 @@ Subsec. (e). Pub. L. 115–141, §401(a)(163), substituted "provisions" for "pro
 
 <b>2007</b>—Subsec. (c)(2). Pub. L. 110–172, §11(g)(15)(A)(ii), substituted "subparagraphs (I), (J), and (K)" for "subparagraphs (J), (K), and (L)" in concluding provisions.
 
-Subsec. (c)(2)(I) to (M). Pub. L. 110–172, §11(g)(15)(A)(i), redesignated subpars. (J) to (M) as (I) to (L), respectively, and struck out former subpar. (I) which read as follows: "to the extent provided in regulations prescribed by the Secretary, property which is otherwise United States property which is held by aFSC and which is related to the export activities of such FSC;".
+Subsec. (c)(2)(I) to (M). Pub. L. 110–172, §11(g)(15)(A)(i), redesignated subpars. (J) to (M) as (I) to (L), respectively, and struck out former subpar. (I) which read as follows: "to the extent provided in regulations prescribed by the Secretary, property which is otherwise United States property which is held by a FSC and which is related to the export activities of such FSC;".
 
 <b>2004</b>—Subsec. (c)(2). Pub. L. 108–357, §407(b), substituted ", (K), and (L)" for "and (K)" in concluding provisions.
 
@@ -173,6 +175,8 @@ Subsec. (b)(3). Pub. L. 98–369, §123(b), added par. (3).
 <b>1976</b>—Subsec. (b)(2)(F) to (H). Pub. L. 94–455, §1021(a), added subpars. (F) and (G) and redesignated former subpar. (F) as (H).
 
 Subsec. (c). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

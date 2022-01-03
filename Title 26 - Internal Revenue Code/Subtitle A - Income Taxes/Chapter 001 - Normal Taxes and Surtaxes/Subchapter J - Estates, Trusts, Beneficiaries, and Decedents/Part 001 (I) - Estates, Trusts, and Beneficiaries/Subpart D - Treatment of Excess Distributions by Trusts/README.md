@@ -10,6 +10,8 @@ Subpart D—Treatment of Excess Distributions by Trusts
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Pub. L. 94–455, title VII, §701(g)(1), title X, §1014(c), Oct. 4, 1976, 90 Stat. 1580, 1617, substituted in item 667 "Treatment of amounts deemed distributed by trust in preceding years" for "Denial of refund to trusts; authorization of credit to beneficiaries", in item 668 "Interest charge on accumulation distributions from foreign trusts" for "Treatment of amounts deemed distributed in preceding years", and struck out item 669 "Treatment of capital gain deemed distributed in preceding years".

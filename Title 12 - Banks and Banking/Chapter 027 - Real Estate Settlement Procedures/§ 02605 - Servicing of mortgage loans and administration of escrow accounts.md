@@ -8,7 +8,7 @@ Each person who makes a federally related mortgage loan shall disclose to each p
 
 #### (1) Notice requirement
 
-&emsp;Each servicer of any federally related mortgage loan shall notify the borrower in writingof any assignment, sale, or transfer of the servicing of the loan to any other person.
+&emsp;Each servicer of any federally related mortgage loan shall notify the borrower in writing of any assignment, sale, or transfer of the servicing of the loan to any other person.
 
 #### (2) Time of notice
 
@@ -18,7 +18,7 @@ Each person who makes a federally related mortgage loan shall disclose to each p
 
 #### (B) Exception for certain proceedings
 
-&emsp;&emsp;The notice required under paragraph (1) shall be made to the borrower not more than 30 days after the effective date of assignment, sale, or transfer of the servicing of the mortgage loan (with respect to which such notice is made) in any case in which the assignment, sale, or transfer of the servicing of the mortgage loan is preceded by—
+&emsp;&emsp;The notice required under paragraph (1) shall be made to the borrower not more than30 days after the effective date of assignment, sale, or transfer of the servicing of the mortgage loan (with respect to which such notice is made) in any case in which the assignment, sale, or transfer of the servicing of the mortgage loan is preceded by—
 
 &emsp;&emsp;&emsp;(i) termination of the contract for servicing the loan for cause;
 
@@ -80,7 +80,7 @@ Each person who makes a federally related mortgage loan shall disclose to each p
 
 #### (d) Treatment of loan payments during transfer period
 
-During the 60-day period beginning on the effective date of transfer of the servicing of any federally related mortgage loan, a late fee may not be imposed on the borrower with respect to any payment on such loan and no such paymentmay be treated as late for any other purposes, if the payment is received by the transferor servicer (rather than the transferee servicer who should properly receive payment) before the due date applicable to such payment.
+During the 60-day period beginning on the effective date of transfer of the servicing of any federally related mortgage loan, a late fee may not be imposed on the borrower with respect to any payment on such loan and no such payment may be treated as late for any other purposes, if the payment is received by the transferor servicer (rather than the transferee servicer who should properly receive payment) before the due date applicable to such payment.
 
 #### (e) Duty of loan servicer to respond to borrower inquiries
 
@@ -88,7 +88,7 @@ During the 60-day period beginning on the effective date of transfer of the serv
 
 #### (A) In general
 
-&emsp;&emsp;If any servicer of a federally related mortgage loan receives a qualified written request from the borrower (or an agent of the borrower) for information relating to the servicing of such loan, the servicer shall provide a written response acknowledging receipt of the correspondence within 5 days (excluding legal public holidays, Saturdays, and Sundays) unless the action requested is taken within such period.
+&emsp;&emsp;If any servicer of a federally related mortgage loan receives a qualified written request from the borrower (or an agent of the borrower) for information relating to the servicing of such loan, the servicer shall provide a written response acknowledging receipt of the correspondence within 5 days\(excluding legal public holidays, Saturdays, and Sundays) unless the action requested is taken within such period.
 
 #### (B) Qualified written request
 
@@ -158,7 +158,7 @@ Whoever fails to comply with any provision of this section shall be liable to th
 
 #### (g) Administration of escrow accounts
 
-If the terms of any federally related mortgage loan require the borrower to make payments to the servicer of the loan for deposit into an escrow account for the purpose of assuring payment of taxes, insurance premiums, and other charges with respect to the property, the servicer shall make payments from the escrow account for such taxes, insurance premiums, and other charges in a timely manner as such payments become due. Any balance in any such account that is within the servicer's control at the time the loan is paid off shall be promptly returned to the borrower within 20 business days or credited to a similar account for a new mortgage loan to the borrower with the same lender.
+If the terms of any federally related mortgage loan require the borrower to make payments to the servicer of the loan for deposit into an escrow account for the purpose of assuring payment of taxes, insurance premiums, and other charges with respect to the property, the servicer shall make payments from the escrow account for such taxes, insurance premiums, andother charges in a timely manner as such payments become due. Any balance in any such account that is within the servicer's control at the time the loan is paid off shall be promptly returned to the borrower within 20 business days or credited to a similar account for a new mortgage loan to the borrower with the same lender.
 
 #### (h) Preemption of conflicting State laws
 
@@ -230,7 +230,7 @@ A servicer of a federally related mortgage shall not be construed as having a re
 
 #### (1) Written notices to borrower
 
-&emsp;A servicer may not impose any charge on any borrower for force-placed insurance with respect to any property securing a federally related mortgage unless—
+&emsp;A servicer may not impose any charge on any borrower for force-placed insurance withrespect to any property securing a federally related mortgage unless—
 
 &emsp;&emsp;(A) the servicer has sent, by first-class mail, a written notice to the borrower containing—
 

@@ -28,7 +28,7 @@ The Commission shall make an interim report within one year of the date of the c
 
 #### (c) Clearance by Federal agencies prior to transmittal of interim or final report
 
-The Commission shall not be required to obtain the clearance of any Federal agency priorto the transmittal of any interim or final report.
+The Commission shall not be required to obtain the clearance of any Federal agency prior to the transmittal of any interim or final report.
 
 (Pub. L. 93–495, title II, §203, Oct. 28, 1974, 88 Stat. 1508; Pub. L. 94–200, title II, §201, Dec. 31, 1975, 89 Stat. 1124.)
 

@@ -28,9 +28,13 @@ R.S. 4629.
 
 In subsection (b) the words "He is responsible for its sale" are substituted for the words "It shall be the duty of the marshal to \* \* \* sell the same", because, as shown in §7666 of this title, the marshal does not sell the property himself but supervises the auctioneer who conducts the sale.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7667 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

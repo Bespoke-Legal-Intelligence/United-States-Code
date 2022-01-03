@@ -4,6 +4,8 @@ All money of the Corporation not otherwise employed may be deposited with the Tr
 
 (Feb. 16, 1938, ch. 30, title V, §510, 52 Stat. 75; Pub. L. 110–234, title XII, §12033(c)(2)(B), May 22, 2008, 122 Stat. 1405; Pub. L. 110–246, §4(a), title XII, §12033(c)(2)(B), June 18, 2008, 122 Stat. 1664, 2167.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -12,13 +14,17 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>2008</b>—Pub. L. 110–246, §12033(c)(2)(B), substituted "this subchapter" for "this chapter".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
+#### <b>Executive Documents</b>
+
 #### Transfer of Functions
 
-Administration of program of Federal Crop Insurance Corporation transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, §501, eff. July 16, 1946, 11 F.R.7877, 60 Stat. 1100. See note set out under section 1503 of this title.
+Administration of program of Federal Crop Insurance Corporation transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, §501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100. See note set out under section 1503 of this title.
 
 Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Conservation and Adjustment Administration, see note set out under section 1503 of this title.
 

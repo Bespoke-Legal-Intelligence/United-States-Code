@@ -16,6 +16,8 @@
 
 (June 17, 1930, ch. 497, title III, §318, 46 Stat. 696; Pub. L. 107–210, div. A, title III, §342, Aug. 6, 2002, 116 Stat. 981; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The National Emergencies Act, referred to in subsec. (b)(1), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, as amended, which is classified principally to chapter 34 (§1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
@@ -28,17 +30,23 @@ Provisions similar to those in subsec. (a) of this section were contained in act
 
 <b>2002</b>—Pub. L. 107–210 designated existing provisions as subsec. (a) and added subsec. (b).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 "Commissioner of U.S. Customs and Border Protection" substituted for "Commissioner of Customs" in subsec. (b)(2) and (3) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under section 211 of Title 6, Domestic Security.
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–210 applicable to petitions for certification filed under part 2 or 3 of subchapter II of chapter 12 of this title on or after the date that is 90 days after Aug. 6, 2002, except as otherwise provided, see section 151 of Pub. L. 107–210, set out as a note preceding section 2271 of this title.
+Amendment by Pub. L. 107–210 applicable to petitions for certification filed under part 2 or 3 of subchapter IIof chapter 12 of this title on or after the date that is 90 days after Aug. 6, 2002, except as otherwise provided, see section 151 of Pub. L. 107–210, set out as a note preceding section 2271 of this title.
 
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
 
 Functions of Secretary of the Treasury under this section with respect to functions transferred to Secretary of Commerce in sections 1303 and 1671 et seq. of this title by section 5(a)(1)(C) of Reorg. Plan No. 3 of 1979 transferred to Secretary of Commerce pursuant to Reorg. Plan No. 3 of 1979, §5(a)(1)(E), 44 F.R. 69275, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title, to be exercised in consultation with Secretary of the Treasury.
 
@@ -54,7 +62,7 @@ NOW, THEREFORE, I, HARRY S. TRUMAN, President of the United States of America, a
 
 (2) To extend the three-year period prescribed in sections 557 and 559, <i>supra</i>, as amended \[sections 1557 and 1559 of this title\], for not more than one year from and after the expiration of such three-year period in any case in which such period has already expired or shall hereafter expire during the continuance of the said national emergency; and
 
-(3) To extend further the one-year period prescribed in section 491, <i>supra</i>, as amended \[section 1491 of this title\], and the three-year period prescribed in sections557 and 559, <i>supra</i>, as amended \[sections 1557 and 1559 of this title\], for additional periods of not more than one year each from and after the expiration of the immediately preceding extension in any case in which such extension shall expire during the continuance of the said national emergency:
+(3) To extend further the one-year period prescribed in section 491, <i>supra</i>, as amended \[section 1491 of this title\], and the three-year period prescribed in sections 557 and 559, <i>supra</i>, as amended \[sections 1557 and 1559 of this title\], for additional periods of not more than one year each from and after the expiration of the immediately preceding extension in any case in which such extension shall expire during the continuance of the said national emergency:
 
 <i>Provided, however</i>, that in each and every case under numbered paragraphs (1), (2), and (3) above in which the merchandise is charged against an entry bond the Secretary of the Treasury shall require that the principal on such bond, in order to obtain the benefit of any extension which may be granted under the authority of this proclamation, shall furnish to the collector of customs at the port where the bond is on file either the agreement of the sureties on the bond to remain bound under the terms and conditions of the bond to the same extent as if no extension had been granted, or an additional bond with acceptable sureties to cover the period of extension; and that, in each and every case in which the merchandise remains charged against a carrier's bond the Secretary of the Treasury shall require that the principal on such bond shall agree to the extension and shall furnish to the collector of customs at the port where the charge was made the agreement of the sureties on the bond to remain bound under the terms and conditions of the bond to the same extent as if no extension had been granted; and
 

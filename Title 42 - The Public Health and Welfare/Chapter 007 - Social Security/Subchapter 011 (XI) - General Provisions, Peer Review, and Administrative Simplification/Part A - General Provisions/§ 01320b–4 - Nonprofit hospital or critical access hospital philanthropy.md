@@ -2,7 +2,7 @@
 
 For purposes of determining, under subchapters XVIII and XIX of this chapter, the reasonable costs of services provided by nonprofit hospitals or critical access hospitals, the following items shall not be deducted from the operating costs of such hospitals or critical access hospitals:
 
-&emsp;(1) A grant, gift, or endowment, or income therefrom, which is to or for such a hospital and which has not been designated by the donor for paying any specific operating costs.
+&emsp;(1) A grant, gift, or endowment, or income therefrom, which is to or for such a hospitaland which has not been designated by the donor for paying any specific operating costs.
 
 &emsp;(2) A grant or similar payment which is to such a hospital, which was made by a governmental entity, and which is not available under the terms of the grant or payment for use as operating funds.
 
@@ -14,6 +14,8 @@ For purposes of determining, under subchapters XVIII and XIX of this chapter, th
 
 (Aug. 14, 1935, ch. 531, title XI, §1134, as added Pub. L. 96–499, title IX, §901(a), Dec. 5, 1980, 94 Stat. 2611; amended Pub. L. 97–35, title XXI, §2193(c)(6), Aug. 13, 1981, 95 Stat. 827; Pub. L. 97–248, title I, §137(b)(5), Sept. 3, 1982, 96 Stat. 377; Pub. L. 101–239, title VI, §6003(g)(3)(D)(iii), Dec. 19, 1989, 103 Stat. 2153; Pub. L. 105–33, title IV, §4201(c)(1), Aug. 5, 1997, 111 Stat. 373.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1997</b>—Pub. L. 105–33 substituted "critical access" for "rural primary care" in two places in introductory provisions.
@@ -23,6 +25,8 @@ For purposes of determining, under subchapters XVIII and XIX of this chapter, th
 <b>1982</b>—Par. (4). Pub. L. 97–248 substituted "sale" for "scale".
 
 <b>1981</b>—Pub. L. 97–35 substituted "subchapters XVIII and" for "subchapters V, XVIII, and" in provision preceding par. (1).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1997 Amendment
 

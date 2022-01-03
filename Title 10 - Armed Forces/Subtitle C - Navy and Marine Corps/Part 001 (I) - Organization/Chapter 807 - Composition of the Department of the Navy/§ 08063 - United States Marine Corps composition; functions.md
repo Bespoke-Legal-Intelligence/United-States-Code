@@ -30,9 +30,13 @@ A prior section 8067 was renumbered section 9067 of this title.
 
 A prior section 8069 was renumbered section 9069 of this title.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 5063 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

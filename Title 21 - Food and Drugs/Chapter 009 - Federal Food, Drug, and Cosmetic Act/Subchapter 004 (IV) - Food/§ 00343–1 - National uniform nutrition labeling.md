@@ -2,7 +2,7 @@
 
 (a) Except as provided in subsection (b), no State or political subdivision of a State may directly or indirectly establish under any authority or continue in effect as to any food in interstate commerce—
 
-&emsp;(1) any requirement for a food which is the subject of a standard of identity established under section 341 of this title that is not identical to such standard of identity or that is not identical to the requirement of section 343(g) of this title, except that this paragraph does not apply to a standard of identity of a State or political subdivision of a State formaple syrup that is of the type required by sections 341 and 343(g) of this title,
+&emsp;(1) any requirement for a food which is the subject of a standard of identity established under section 341 of this title that is not identical to such standard of identity or that is not identical to the requirement of section 343(g) of this title, except that this paragraph does not apply to a standard of identity of a State or political subdivision of a State for maple syrup that is of the type required by sections 341 and 343(g) of this title,
 
 &emsp;(2) any requirement for the labeling of food of the type required by section 343(c), 343(e), 343(i)(2), 343(w), or 343(x) of this title that is not identical to the requirement of such section, except that this paragraph does not apply to a requirement of a State or political subdivision of a State that is of the type required by section 343(c) of this title and that is applicable to maple syrup,
 
@@ -110,7 +110,7 @@ Pub. L. 101–535, §6(c), Nov. 8, 1990, 104 Stat. 2364, provided that:
 
 "(1) The Nutrition Labeling and Education Act of 1990 \[Pub. L. 101–535, see Short Title of 1990 Amendment note set out under section 301 of this title\] shall not be construed to preempt any provision of State law, unless such provision is expressly preempted under section 403A of the Federal Food, Drug, and Cosmetic Act \[this section\].
 
-"(2) The amendment made by subsection (a) \[enacting this section\] and the provisions of subsection (b) \[set out as a note above\] shall not be construed to apply to any requirement respecting a statement in the labeling of food that provides for a warning concerning the safety of the food or component of the food.
+"(2) The amendment made by subsection (a) \[enacting this section\] and the provisions of subsection (b) \[set out as a note above\] shall not be construed to apply to any requirement respecting a statement in the labelingof food that provides for a warning concerning the safety of the food or component of the food.
 
 "(3) The amendment made by subsection (a), the provisions of subsection (b) and paragraphs (1) and (2) of this subsection shall not be construed to affect preemption, express or implied, of any such requirement of a State or political subdivision, which may arise under the Constitution, any provision of the Federal Food, Drug, and Cosmetic Act \[this chapter\] not amended by subsection (a), any other Federal law, or any Federal regulation, order, or other final agency action reviewable under chapter 7 of title 5, United States Code."
 

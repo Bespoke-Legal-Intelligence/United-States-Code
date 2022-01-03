@@ -34,7 +34,7 @@ Implementation.—The head of each executive agency shall ensure that procuremen
 
 &emsp;(1) acquire commercial services or commercial products or nondevelopmental items other than commercial products to meet the needs of the executive agency;
 
-&emsp;(2) require that prime contractors and subcontractors at all levels under contracts of the executive agency incorporate commercial services or commercial products or nondevelopmental items other than commercial products as components of items supplied to the executive agency;
+&emsp;(2) require that prime contractors and subcontractors at all levels under contracts of the executive agency incorporate commercial services or commercial products or nondevelopmental items other than commercialproducts as components of items supplied to the executive agency;
 
 &emsp;(3) modify requirements in appropriate cases to ensure that the requirements can be met by commercial services or commercial products or, to the extent that commercial products suitable to meet the executive agency's needs are not available, nondevelopmental items other than commercial products;
 
@@ -80,7 +80,7 @@ Regulations.—
 
 &emsp;(1)
 
-In general.—The Federal Acquisition Regulation shall provide regulations to implement this section, sections 102, 103, 103a, 104, 105, and 110 of this title, and chapter 140 of title 10.
+In general.—The Federal Acquisition Regulation shall provide regulations to implement this section, sections 102, 103, 103a, 104, 105, and 110 of this title, and chapter 247 of title 10.
 
 &emsp;(2)
 
@@ -184,7 +184,7 @@ Contract quality requirements.—Regulations prescribed under paragraph (1) shal
 
 &emsp;&emsp;(C) set forth guidance regarding the use of past performance of commercial products and sources as a factor in contract award decisions.
 
-(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3754; Pub. L. 115–232, div. A, title VIII, §836(b)(10)(A), (B)(i), Aug. 13, 2018, 132 Stat. 1861–1863; Pub. L. 116–92, div. A, title VIII, §818(b), Dec. 20, 2019, 133 Stat. 1488.)
+(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3754; Pub. L. 115–232, div. A, title VIII, §836(b)(10)(A), (B)(i), Aug. 13, 2018, 132 Stat. 1861–1863; Pub. L. 116–92, div. A, title VIII, §818(b), Dec. 20, 2019, 133 Stat. 1488; Pub. L. 117–81, div. A, title XVII, §1702(h)(13), Dec. 27, 2021, 135 Stat. 2158.)
 
 Historical and Revision Notes
 
@@ -230,6 +230,8 @@ In subsection (e)(2)(B)(i) and (C)(i), the words "as the case may be" are omitte
 
 #### Amendments
 
+<b>2021</b>—Subsec. (e)(1). Pub. L. 117–81 substituted "chapter 247" for "chapter 140".
+
 <b>2019</b>—Subsec. (d)(4). Pub. L. 116–92 added par. (4).
 
 <b>2018</b>—Pub. L. 115–232, §836(b)(10)(B)(i), substituted "Preference for commercial products and commercial services" for "Preference for commercial items" in section catchline.
@@ -264,7 +266,7 @@ Subsec. (e)(2)(D). Pub. L. 115–232, §836(b)(10)(A)(v)(IV), substituted "comme
 
 Subsec. (e)(4)(A). Pub. L. 115–232, §836(b)(10)(A)(v)(VI), substituted "commercial products or commercial services" for "commercial items" in introductory provisions.
 
-Subsec. (e)(4)(C)(i). Pub. L. 115–232, §836(b)(10)(A)(v)(VII), substituted "commercial product,as described in section 103a(1)" for "commercial item, as described in section 103(5)".
+Subsec. (e)(4)(C)(i). Pub. L. 115–232, §836(b)(10)(A)(v)(VII), substituted "commercial product, as described in section 103a(1)" for "commercial item, as described in section 103(5)".
 
 Subsec. (e)(5). Pub. L. 115–232, §836(b)(10)(A)(v)(VIII), substituted "products" for "items" wherever appearing.
 

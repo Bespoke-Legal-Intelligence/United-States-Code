@@ -7,6 +7,8 @@ Subpart D—Information Regarding Health Insurance Coverage
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior subpart D, consisting of section 6056, related to information concerning private foundations, prior to repeal by Pub. L. 96–603, §1(c), Dec. 28, 1980, 94 Stat. 3504.

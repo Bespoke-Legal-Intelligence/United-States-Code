@@ -34,6 +34,8 @@ Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L.
 
 The words "their duly authorized agents" are omitted as surplus. The words "may bring a civil action" are substituted for "may apply" for consistency in the revised title and with other titles of the United States Code and rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.). The word "prescribed" is added for consistency in the revised title and with other titles of the Code. The words "condition, or limitation" are omitted as being included in "term". The text of 49 App.:1487(a) (words after semicolon related to Secretary and CAB) is omitted as surplus because of 28:1651 and rule 81(b) of the Federal Rules of Civil Procedure (28 App. U.S.C.).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–254, §1991(f)(3), substituted "by the Administrator of the Federal Aviation Administration)" for "by the Administrator)".

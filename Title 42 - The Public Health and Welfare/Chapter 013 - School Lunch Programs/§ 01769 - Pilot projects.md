@@ -88,7 +88,7 @@
 
 #### (6) Evaluation
 
-&emsp;As a condition of receiving a grant under this subsection, each grant recipient shallagree to cooperate in an evaluation by the Secretary of the program carried out using grant funds.
+&emsp;As a condition of receiving a grant under this subsection, each grant recipient shall agree to cooperate in an evaluation by the Secretary of the program carried out using grant funds.
 
 #### (7) Technical assistance
 
@@ -188,7 +188,7 @@
 
 &emsp;&emsp;&emsp;(iii) in the case of a service institution that provides meal service at a nonschool site to children who are not in school for a period during the school year due to a natural disaster, building repair, court order, or similar case, at anytime during such a period; and
 
-&emsp;&emsp;(B) for a snack served during each day of operation after school hours, weekends, andschool holidays during the regular school calendar.
+&emsp;&emsp;(B) for a snack served during each day of operation after school hours, weekends, and school holidays during the regular school calendar.
 
 #### (2) Payments
 
@@ -200,7 +200,7 @@
 
 #### (4) Evaluation
 
-&emsp;Not later than September 30, 2007, the State agency shall submit to the Secretary a report on the effect of this subsection on participation in the summer food service program for children established under section 1761 of this title.
+&emsp;Not later than September 30, 2007, the State agency shall submit to the Secretary a report on the effect of this subsection on participation in the summer food service program forchildren established under section 1761 of this title.
 
 #### (5) Funding
 
@@ -306,6 +306,8 @@
 
 (June 4, 1946, ch. 281, §18, formerly §20, as added Pub. L. 95–166, §10(2), Nov. 10, 1977, 91 Stat. 1336; amended Pub. L. 95–627, §11, Nov. 10, 1978, 92 Stat. 3624; renumbered §18 and amended Pub. L. 99–500, title III, §§327, 371(c)(1), Oct. 18, 1986, 100 Stat. 1783–362, 1783–368, and Pub. L. 99–591, title III, §§327, 371(c)(1), Oct. 30, 1986, 100 Stat. 3341–365, 3341–372; renumbered §18 and amended Pub. L. 99–661, div. D, title II, §4207, title V, §4501(c)(1), Nov. 14, 1986, 100 Stat. 4073, 4080; Pub. L. 100–237, §5, Jan. 8, 1988, 101 Stat. 1739; Pub. L. 101–147, title I, §107, title II, §205(a), title III, §311, Nov. 10, 1989, 103 Stat. 886, 910, 916; Pub. L. 102–342, title I, §101(a), title III, §301, Aug. 14, 1992, 106 Stat. 911, 913; Pub. L. 102–512, title I, §102, Oct. 24, 1992, 106 Stat. 3363; Pub. L. 103–448, title I, §§117(a)(2)(A), (b), 118, Nov. 2, 1994, 108 Stat. 4717, 4719; Pub. L. 104–193, title VII, §709, Aug. 22, 1996, 110 Stat. 2301; Pub. L. 105–336, title I, §109(a)–(c)(1), Oct. 31, 1998, 112 Stat. 3154–3156; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §102(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–215; Pub. L. 107–171, title IV, §4305(a), May 13, 2002, 116 Stat. 332; Pub. L. 108–30, §1, May 29, 2003, 117 Stat. 774; Pub. L. 108–134, §5(2), Nov. 22, 2003, 117 Stat. 1390; Pub. L. 108–211, §5(b), Mar. 31, 2004, 118 Stat. 567; Pub. L. 108–265, title I, §§116(f), 120–124, June 30, 2004, 118 Stat. 750, 756–760; Pub. L. 109–97, title VII, §777(a), Nov. 10, 2005, 119 Stat. 2161; Pub. L. 110–161, div. A, title VII, §738(b), Dec. 26, 2007, 121 Stat. 1880; Pub. L. 110–234, title IV, §§4303, 4304(b), May 22, 2008, 122 Stat. 1126, 1131; Pub. L. 110–246, §4(a), title IV, §§4303, 4304(b), June 18, 2008, 122 Stat. 1664, 1887, 1892; Pub. L. 111–80, title VII, §749(d), Oct. 21, 2009, 123 Stat. 2132; Pub. L. 111–296, title II, §§210, 243, title IV, §§405, 441(a)(9)–(13), Dec. 13, 2010, 124 Stat. 3223, 3236, 3259, 3264.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (j)(3)(B)(ii)(IV), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
@@ -342,7 +344,7 @@ Subsec. (k). Pub. L. 111–296, §243(1), redesignated subsec. (j) as (k).
 
 <b>2009</b>—Subsec. (h)(5). Pub. L. 111–80 substituted "2010" for "2009".
 
-<b>2008</b>—Subsecs. (f), (g). Pub. L. 110–246, §4304(b), redesignated subsecs. (g) and (h) as (f) and (g), respectively,and struck out former subsec. (f) which related to fresh fruit and vegetable program.
+<b>2008</b>—Subsecs. (f), (g). Pub. L. 110–246, §4304(b), redesignated subsecs. (g) and (h) as (f) and (g), respectively, and struck out former subsec. (f) which related to fresh fruit and vegetable program.
 
 Subsec. (h). Pub. L. 110–246, §4304(b), redesignated subsec. (i) as (h). Former subsec. (h) redesignated (g).
 
@@ -459,6 +461,8 @@ Subsec. (d). Pub. L. 99–500 and Pub. L. 99–591, §327(a), and Pub. L. 99–6
 <b>1978</b>—Subsec. (c). Pub. L. 95–627, §11(1), inserted provision excluding pilot projects conducted under subsec. (d) of this section.
 
 Subsec. (d). Pub. L. 95–627, §11(2), added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

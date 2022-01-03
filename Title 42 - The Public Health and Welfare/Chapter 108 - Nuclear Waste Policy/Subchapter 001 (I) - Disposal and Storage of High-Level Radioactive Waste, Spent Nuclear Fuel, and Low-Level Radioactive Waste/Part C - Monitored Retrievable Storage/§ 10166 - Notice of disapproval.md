@@ -10,6 +10,8 @@ For purposes of carrying out the provisions of this subsection,<sup>1</sup> refe
 
 (Pub. L. 97–425, title I, §146, as added Pub. L. 100–202, §101(d) \[title III, §300\], Dec. 22, 1987, 101 Stat. 1329–104, 1329–121; Pub. L. 100–203, title V, §5021, Dec. 22, 1987, 101 Stat. 1330–235.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.

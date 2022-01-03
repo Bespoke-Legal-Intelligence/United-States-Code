@@ -24,7 +24,7 @@
 
 &emsp;(F) section 1343 (relating to wire fraud),
 
-> involving the sale of assets acquired or held by the the <sup>1</sup> Federal Deposit Insurance Corporation,as conservator or receiver for a financial institution or any other conservator for a financial institution appointed by the Office of the Comptroller of the Currency, or the National Credit Union Administration, as conservator or liquidating agent for a financial institution, shall order that the person forfeit to the United States any property, real or personal, which represents or is traceable to the gross receipts obtained, directly or indirectly, as a result of such violation.
+> involving the sale of assets acquired or held by the the <sup>1</sup> Federal Deposit Insurance Corporation, as conservator or receiver for a financial institution or any other conservator for a financial institution appointed by the Office of the Comptroller of the Currency, or the National Credit Union Administration, as conservator or liquidating agent for a financial institution, shall order that the person forfeit to the United States any property, real or personal, which represents or is traceable to the gross receipts obtained, directly or indirectly, as a result of such violation.
 
 (4) With respect to an offense listed in subsection (a)(3) committed for the purpose of executing or attempting to execute any scheme or artifice to defraud, or for obtaining money or property by means of false or fraudulent statements, pretenses, representations, or promises, the gross receipts of such an offense shall include any property, real or personal, tangible or intangible, which is obtained, directly or indirectly, as a result of such offense.
 
@@ -118,7 +118,7 @@ Subsec. (b)(1)(A). Pub. L. 104–191, §249(b), inserted "or (a)(6)" after "(a)(
 
 <b>1992</b>—Subsec. (a)(1). Pub. L. 102–550 substituted ", 1957, or 1960" for "or 1957".
 
-Subsec. (a)(2). Pub. L. 102–393 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The court, in imposing sentence on a person convicted of a violation of, or a conspiracy to violate, section 215, 656, 657, 1005, 1006, 1007, 1014, 1341, 1343, or 1344 of this title, affecting a financial institution, shall order that the person forfeit to the United States any property constituting, or derived from, proceeds the person obtained directly or indirectly, as the result of such violation."
+Subsec. (a)(2). Pub. L. 102–393 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The court, in imposing sentence on a person convicted of a violation of, or a conspiracy to violate, section 215, 656, 657, 1005, 1006, 1007, 1014, 1341, 1343, or 1344 of thistitle, affecting a financial institution, shall order that the person forfeit to the United States any property constituting, or derived from, proceeds the person obtained directly or indirectly, as the result of such violation."
 
 Subsec. (a)(5). Pub. L. 102–519 added par. (5).
 

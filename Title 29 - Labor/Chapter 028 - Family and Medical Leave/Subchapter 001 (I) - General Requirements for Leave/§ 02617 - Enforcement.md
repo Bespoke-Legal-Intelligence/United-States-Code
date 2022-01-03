@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(A) on the filing of a complaint by the Secretary in an action under subsection (d) in which restraint is sought of any further delay in the payment of the amount described in paragraph (1)(A) to such employee by an employer responsible under paragraph (1) for the payment; or
 
-&emsp;&emsp;(B) on the filing of a complaint by the Secretary in an action under subsection (b) inwhich a recovery is sought of the damages described in paragraph (1)(A) owing to an eligible employee by an employer liable under paragraph (1),
+&emsp;&emsp;(B) on the filing of a complaint by the Secretary in an action under subsection (b) in which a recovery is sought of the damages described in paragraph (1)(A) owing to an eligible employee by an employer liable under paragraph (1),
 
 > &emsp;unless the action described in subparagraph (A) or (B) is dismissed without prejudice on motion of the Secretary.
 

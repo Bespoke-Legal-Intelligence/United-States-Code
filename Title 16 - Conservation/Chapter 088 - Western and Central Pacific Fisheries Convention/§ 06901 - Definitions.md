@@ -66,9 +66,13 @@ In this chapter:
 
 (Pub. L. 109–479, title V, §502, Jan. 12, 2007, 120 Stat. 3635.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Presidential Proclamation Numbered 5030, referred to in par. (5), is Proc. No. 5030, Mar. 10, 1983, 48 F.R. 10605, which is set out as a note under section 1453 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

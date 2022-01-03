@@ -20,9 +20,13 @@ Aug. 22, 1951, ch. 340, §1, 65 Stat. 196.
 
 The word "new" before "midshipmen" and the word "subsequently" after "deducted" are omitted as surplusage. The words "while owing the United States for pay advanced for the purchase of" are substituted for the words "who is indebted to the United States on account of advances of pay to purchase".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 6960 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

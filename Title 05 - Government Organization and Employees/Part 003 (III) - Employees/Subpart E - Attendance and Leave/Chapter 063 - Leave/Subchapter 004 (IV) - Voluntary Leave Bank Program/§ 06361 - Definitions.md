@@ -70,7 +70,7 @@ Definitions.—For purposes of subsection (a), the term 'employee' means an empl
 
 "(c)
 
-Deadline for Regulations.—Within 30 days after the date of the enactment of this Act \[Apr. 6, 1991\], the Office of Personnel Management shall prescribe regulations necessary for the administration of subsection (a).
+Deadline for Regulations.—Within 30 days after the date of the enactment of this Act \[Apr. 6,1991\], the Office of Personnel Management shall prescribe regulations necessary for the administration of subsection (a).
 
 "(d)
 

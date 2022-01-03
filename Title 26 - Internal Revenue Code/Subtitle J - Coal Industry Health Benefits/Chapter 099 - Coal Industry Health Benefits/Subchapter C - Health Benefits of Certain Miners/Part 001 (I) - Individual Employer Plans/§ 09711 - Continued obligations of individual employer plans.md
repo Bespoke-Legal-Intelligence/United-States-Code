@@ -12,7 +12,7 @@ The last signatory operator of any individual who, as of February 1, 1993, is re
 
 #### (2) Coverage
 
-&emsp;Subject to the provisions of subsection (d), health benefits coverage is described in thisparagraph if it is substantially the same as (and subject to all the limitations of) the coverage provided by the individual employer plan as of January 1, 1992. Such coverage shall continue for as long as the last signatory operator (and any related person) remains in business.
+&emsp;Subject to the provisions of subsection (d), health benefits coverage is described in this paragraph if it is substantially the same as (and subject to all the limitations of) the coverage provided by the individual employer plan as of January 1, 1992. Such coverage shall continue for as long as the last signatory operator (and any related person) remains in business.
 
 #### (c) Joint and several liability of related persons
 
@@ -84,9 +84,11 @@ For purposes of this part and part II—
 
 (Added Pub. L. 102–486, title XIX, §19143(a), Oct. 24, 1992, 106 Stat. 3051; amended Pub. L. 109–432, div. C, title II, §211(b), Dec. 20, 2006, 120 Stat. 3022; Pub. L. 115–141, div. U, title IV, §401(a)(347), Mar. 23, 2018, 132 Stat. 1201.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (c)(4)(B). Pub. L. 115–141 substituted "paragraph (3)(C)" for "paragraph (4)(C)".
 
-<b>2006</b>—Subsec. (c). Pub. L. 109–432 reenacted heading without change and amended text of subsec. (c) generally. Prior to amendment, text read as follows: "Eachrelated person of a last signatory operator to which subsection (a) or (b) applies shall be jointly and severally liable with the last signatory operator for the provision of health care coverage described in subsection (a) or (b)."
+<b>2006</b>—Subsec. (c). Pub. L. 109–432 reenacted heading without change and amended text of subsec. (c) generally. Prior to amendment, text read as follows: "Each related person of a last signatory operator to which subsection (a) or (b) applies shall be jointly and severally liable with the last signatory operator for the provision of health care coverage described in subsection (a) or (b)."
 

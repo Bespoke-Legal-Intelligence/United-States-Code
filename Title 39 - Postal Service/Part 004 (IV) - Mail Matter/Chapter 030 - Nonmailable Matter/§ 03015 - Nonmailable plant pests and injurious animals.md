@@ -126,7 +126,7 @@ Agreement between postal service and hawaii.—
 
 &emsp;&emsp;"(A)
 
-In general.—Not later than 90 days after the date of enactment of this Act, the Postal Serviceshall offer to enter into a cooperative agreement with the State of Hawaii for a 2-year period to enforce in the State, under terms and conditions acceptable to the Postal Service and in compliance with postal regulations, Public Law 100–574 \[enacting section 3014 of this title, sections 1716B and 1716C of Title 18, Crimes and Criminal Procedure, and provisions set out as a note under section 3014 of this title\] and the amendments made by such Public Law.
+In general.—Not later than 90 days after the date of enactment of this Act, the Postal Service shall offer to enter into a cooperative agreement with the State of Hawaii for a 2-year period to enforce in the State, under terms and conditions acceptable to the Postal Service and in compliance with postal regulations, Public Law 100–574 \[enacting section 3014 of this title, sections 1716B and 1716C of Title 18, Crimes and Criminal Procedure, and provisions set out as a note under section 3014 of this title\] and the amendments made by such Public Law.
 
 &emsp;&emsp;"(B)
 

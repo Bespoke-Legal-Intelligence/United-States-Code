@@ -108,7 +108,7 @@ The Secretary shall guarantee payments on bonds or notes issued by any qualified
 
 #### (1) In general
 
-&emsp;A capital distribution plan meets the requirements of this subsection, if not less than 90 percent of the principal amount of guaranteed bonds or notes (other than costs of issuance fees) are used to make loans for any eligible community or economic development purpose, measured annually, beginning at the end of the 1-year period beginning on the issuance date of such guaranteed bonds or notes.
+&emsp;A capital distribution plan meets the requirements of this subsection, if not less than90 percent of the principal amount of guaranteed bonds or notes (other than costs of issuance fees) are used to make loans for any eligible community or economic development purpose, measured annually, beginning at the end of the 1-year period beginning on the issuance date of such guaranteed bonds or notes.
 
 #### (2) Relending account
 

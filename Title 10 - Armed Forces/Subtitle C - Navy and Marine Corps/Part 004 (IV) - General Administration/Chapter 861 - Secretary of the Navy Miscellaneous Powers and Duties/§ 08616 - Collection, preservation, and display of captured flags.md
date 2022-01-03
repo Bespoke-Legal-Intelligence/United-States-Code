@@ -20,9 +20,13 @@ R.S. 428; R.S. 1554; R.S. 1555.
 
 The words "from time to time cause to be", "transmitted to him", and "for the purpose of being" are omitted as surplusage. The words "Marine Corps" are inserted for clarity, since the provision is interpreted as applicable thereto.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7216 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

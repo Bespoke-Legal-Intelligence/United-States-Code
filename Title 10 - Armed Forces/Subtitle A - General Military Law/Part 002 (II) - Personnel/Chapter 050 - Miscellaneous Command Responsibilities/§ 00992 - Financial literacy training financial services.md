@@ -104,7 +104,9 @@ Financial Services Defined.—In this section, the term "financial services" inc
 
 &emsp;(4) Health insurance, budget management, Thrift Savings Plan (TSP), retirement lump sum payments (including rollover options and tax consequences), and Survivor Benefit Plan (SBP).
 
-(Added Pub. L. 109–163, div. A, title V, §578(a)(1), Jan. 6, 2006, 119 Stat. 3274; amended Pub. L. 111–84, div. A, title X, §1073(a)(8), Oct. 28, 2009, 123 Stat. 2472; Pub. L. 114–92, div. A, title VI, §661(b)–(e)(1), Nov. 25, 2015, 129 Stat. 857, 858.)
+(Added Pub. L. 109–163, div. A, title V, §578(a)(1), Jan. 6, 2006, 119 Stat. 3274; amended Pub. L.111–84, div. A, title X, §1073(a)(8), Oct. 28, 2009, 123 Stat. 2472; Pub. L. 114–92, div. A, title VI, §661(b)–(e)(1), Nov. 25, 2015, 129 Stat. 857, 858.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -131,6 +133,8 @@ Subsec. (e). Pub. L. 114–92, §661(c)(1), redesignated subsec. (d) as (e).
 Subsec. (e)(4). Pub. L. 114–92, §661(d), added par. (4).
 
 <b>2009</b>—Subsec. (b)(4). Pub. L. 111–84 struck out period after "under this section".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 
@@ -222,7 +226,7 @@ Included insurance.—The term 'life insurance product' includes the granting of
 
 &emsp;&emsp;&emsp;"(iii) disability income benefits;
 
-&emsp;&emsp;&emsp;"(iv) additional disability benefits that operate to safeguard the contract from lapse or to provide a special surrender value, or special benefit in the event of total and permanent disability;
+&emsp;&emsp;&emsp;"(iv) additional disability benefits that operate to safeguard the contract from lapse or to providea special surrender value, or special benefit in the event of total and permanent disability;
 
 &emsp;&emsp;&emsp;"(v) benefits that provide payment or reimbursement for long-term home health care, or long-term care in a nursing home or other related facility;
 
@@ -420,7 +424,7 @@ Establishment.—The Secretary of Defense shall maintain a list of the name, add
 
 Notice and Access.—The Secretary of Defense shall ensure that—
 
-&emsp;"(1) the appropriate Federal and State agencies responsible for securities and insurance regulation arepromptly notified upon the inclusion in or removal from the list required by subsection (a) of a person under the jurisdiction of one or more of such agencies; and
+&emsp;"(1) the appropriate Federal and State agencies responsible for securities and insurance regulation are promptly notified upon the inclusion in or removal from the list required by subsection (a) of a person under the jurisdiction of one or more of such agencies; and
 
 &emsp;"(2) the list is kept current and easily accessible—
 
@@ -442,7 +446,7 @@ Timing.—
 
 &emsp;&emsp;"(A)
 
-Proposed regulations.—Not later than the expiration of the 60-day period beginning on the date of enactment of this Act \[Sept. 29, 2006\], the Secretary of Defense shall prepare and submit to the appropriate Committees of Congress a copy of the regulations required by this subsection that are proposed to be published for comment. The Secretary may not publish such regulations for comment in the Federal Register until the expiration of the 15-day period beginning on the date of such submission to the appropriate Committees of Congress.
+Proposed regulations.—Not later than the expiration of the 60-day period beginning on thedate of enactment of this Act \[Sept. 29, 2006\], the Secretary of Defense shall prepare and submit to the appropriate Committees of Congress a copy of the regulations required by this subsection that are proposed to be published for comment. The Secretary may not publish such regulations for comment in the Federal Register until the expiration of the 15-day period beginning on the date of such submission to the appropriate Committees of Congress.
 
 &emsp;&emsp;"(B)
 

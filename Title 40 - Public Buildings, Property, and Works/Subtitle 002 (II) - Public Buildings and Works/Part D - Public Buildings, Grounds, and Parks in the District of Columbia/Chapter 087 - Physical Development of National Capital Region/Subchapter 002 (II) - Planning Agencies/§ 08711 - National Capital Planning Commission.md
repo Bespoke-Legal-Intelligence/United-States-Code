@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment and Purpose.—The National Capital Planning Commission is the central federal planning agency for the Federal Government in the National Capital, created to preserve the important historical and natural features of the National Capital, except for theUnited States Capitol Buildings and Grounds (as defined and described in sections 5101 and 5102 of this title), any extension of, or additions to, those Buildings and Grounds, and buildings and grounds under the care of the Architect of the Capitol.
+Establishment and Purpose.—The National Capital Planning Commission is the central federal planning agency for the Federal Government in the National Capital, created to preserve the important historical and natural features of the National Capital, except for the United States Capitol Buildings and Grounds (as defined and described in sections 5101 and 5102 of this title), any extension of, or additions to, those Buildings and Grounds, and buildings and grounds under the care of the Architect of the Capitol.
 
 (b)
 
@@ -106,7 +106,7 @@ Pub. L. 105–83, (last proviso in par. under heading "National Capital Planning
 
 In this chapter, the word "Mayor" is substituted for "Commissioners" \[meaning the Board of Commissioners of the District of Columbia\] \[subsequently changed to "Commissioner" \[meaning the Commissioner of the District of Columbia\] because of section 401 of Reorganization Plan No. 3 of 1967 (eff. Nov. 3, 1967, 81 Stat. 951)\] because of section 421 of the District of Columbia Home Rule Act (Public Law 93–198, 87 Stat. 789). The words "Council of the District of Columbia" are substituted for "Board of Commissioners of the District of Columbia" \[subsequently changed to "District of Columbia Council" because of section 402(21), (28), (32), and (199) of Reorganization Plan No. 3 of 1967 (eff. Nov. 3, 1967, 81 Stat. 952, 953, 963)\] because of sections 401 and 404(a) of the Act (87 Stat. 785, 787).
 
-In subsection (b)(1)(A), the words "the Chairman of the Committee on Governmental Affairs of the Senate,and the Chairman of the Committee on Government Reform of the House of Representatives" are substituted for "and the chairman of the Committees of the District of Columbia of the Senate and the House of Representatives" in section 2(b)(1) of the Act of June 24, 1924 (ch. 270), because of Rule XXV of the Standing Rules of the Senate, as amended by Senate Resolution 4 (popularly cited as the "Committee System Reorganization Amendments of 1977"), approved February 4, 1977, section 1(b)(1) of the Act of June 3, 1995 (Public Law 104–14, 2:21 note prec.), and Rule X(1)(h) of House Resolution No. 5 (105th Congress, January 6, 1999).
+In subsection (b)(1)(A), the words "the Chairman of the Committee on Governmental Affairs of the Senate, and the Chairman of the Committee on Government Reform of the House of Representatives" are substituted for "and the chairman of the Committees of the District of Columbia of the Senate and the House of Representatives" in section 2(b)(1) of the Act of June 24, 1924 (ch. 270), because of Rule XXV of the Standing Rules of the Senate, as amended by Senate Resolution 4 (popularly cited as the "Committee System Reorganization Amendments of 1977"), approved February 4, 1977, section 1(b)(1) of the Act of June 3, 1995 (Public Law 104–14, 2:21 note prec.), and Rule X(1)(h) of House Resolution No. 5 (105th Congress, January 6, 1999).
 
 In subsection (b)(2), the words "bona fide" are omitted as unnecessary.
 
@@ -114,7 +114,7 @@ In subsection (b)(3), the words "except that of the members first appointed, the
 
 In subsection (b)(4), the words "are entitled to $100 a day when performing duties" are substituted for "shall each receive compensation at the rate of $100 for each day such member is engaged in the actual performance of duties" to eliminate unnecessary words.
 
-In subsection (d), the words "chapters 33 and 51, and subchapter III of chapter 53" are substituted for "the civil service and classification laws" because of section 7(b) of the Act of September 6, 1966 (Public Law 89–554, 80 Stat. 631), the first section of which enacted Title 5, United States Code.
+In subsection (d), the words "chapters 33 and 51, and subchapter III of chapter 53" are substituted for "the civil service and classification laws" because of section 7(b) of the Act of September 6, 1966 (Public Law 89–554,80 Stat. 631), the first section of which enacted Title 5, United States Code.
 
 In subsection (e), before clause (1), the words "As hereinafter more specifically described in sections 71c to 71g of this title" are omitted as unnecessary. The text of 40:71a(e)(3) is omitted as obsolete because the National Capital Regional Planning Council was abolished by section 1 of Reorganization Plan No. 5 of 1966 (eff. Sept. 8, 1966, 40:71b note). In clause (2), the words "in such capacity" are omitted as unnecessary.
 

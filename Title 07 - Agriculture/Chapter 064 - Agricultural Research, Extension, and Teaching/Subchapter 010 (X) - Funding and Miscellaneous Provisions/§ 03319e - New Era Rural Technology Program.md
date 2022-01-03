@@ -16,7 +16,7 @@ In this section, the term "community college" means an institution of higher edu
 
 &emsp;&emsp;(A) provides an educational program of not less than 2 years that is acceptable for full credit toward such a degree; or
 
-&emsp;&emsp;(B) offers a 2-year program in engineering, technology, mathematics, or the physical,chemical, or biological sciences, designed to prepare a student to work as a technician or at the semiprofessional level in engineering, scientific, or other technological fields requiring the understanding and application of basic engineering, scientific, or mathematical principles of knowledge.
+&emsp;&emsp;(B) offers a 2-year program in engineering, technology, mathematics, or the physical, chemical, or biological sciences, designed to prepare a student to work as a technician or at the semiprofessional level in engineering, scientific, or other technological fields requiring the understanding and application of basic engineering, scientific, or mathematical principles of knowledge.
 
 #### (b) Functions
 
@@ -62,6 +62,8 @@ There are authorized to be appropriated to carry out this section such sums as a
 
 (Pub. L. 95–113, title XIV, §1473E, as added Pub. L. 110–234, title VII, §7137, May 22, 2008, 122 Stat. 1229, and Pub. L. 110–246, §4(a), title VII, §7137, June 18, 2008, 122 Stat. 1664, 1990; amended Pub. L. 115–334, title VII, §7130, Dec. 20, 2018, 132 Stat. 4795.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this section, referred to in subsec. (b)(2)(A), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
@@ -79,6 +81,8 @@ A prior section 3319e, Pub. L. 95–113, title XIV, §1473E, as added Pub. L. 10
 <b>2018</b>—Subsec. (b)(1)(B)(iv). Pub. L. 115–334, §7130(1), added cl. (iv).
 
 Subsec. (d). Pub. L. 115–334, §7130(2), substituted "2019 through 2023" for "2008 through 2012".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

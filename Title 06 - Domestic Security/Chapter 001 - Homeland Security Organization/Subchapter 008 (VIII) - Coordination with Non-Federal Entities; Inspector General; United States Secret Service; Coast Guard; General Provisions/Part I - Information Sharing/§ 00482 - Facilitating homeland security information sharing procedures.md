@@ -76,7 +76,7 @@
 
 (B) The officials referred to in subparagraph (A) are officials of State and local government agencies and representatives of private sector entities with responsibilities relating to the oversight and management of first responders, counterterrorism activities, or critical infrastructure.
 
-(C) The Secretary shall consult with the Attorney General to ensure that the training program established in subparagraph (A) does not duplicate the training program established in section 908 of the USA PATRIOT Act (Public Law 107–56; 28 U.S.C. 509 note).
+(C) The Secretary shall consult with the Attorney General to ensure that the training program established in subparagraph (A) does notduplicate the training program established in section 908 of the USA PATRIOT Act (Public Law 107–56; 28 U.S.C. 509 note).
 
 (D) The Secretary shall carry out this paragraph in consultation with the Director of Central Intelligence and the Attorney General.
 

@@ -30,6 +30,8 @@ Regulations.—The Board shall, by regulation, establish rules to implement this
 
 (Added Pub. L. 104–88, title I, §106(a), Dec. 29, 1995, 109 Stat. 925; amended Pub. L. 104–287, §5(44), Oct. 11, 1996, 110 Stat. 3393.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 11101 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
@@ -37,6 +39,8 @@ Provisions similar to those in this section were contained in section 11101 of t
 #### Amendments
 
 <b>1996</b>—Subsec. (e). Pub. L. 104–287 substituted "January 1, 1996" for "the effective date of this section".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -2,7 +2,7 @@
 
 #### (a) Designation of liaison
 
-The Secretary shall designate an individual in the Office of Special Education and Rehabilitative Services of the Department of Education from among individuals who have experience inthe education of individuals who are deaf to serve as liaison between the Department and Gallaudet University, the National Technical Institute for the Deaf, and other postsecondary educational programs for individuals who are deaf under the Individuals with Disabilities Education Act \[20 U.S.C. 1400 et seq.\], the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\], and other Federal or non-Federal agencies, institutions, or organizations involved with the education or rehabilitation of individuals who are deaf or hard of hearing.
+The Secretary shall designate an individual in the Office of Special Education and Rehabilitative Services of the Department of Education from among individuals who have experience in the education of individuals who are deaf to serve as liaison between the Department and Gallaudet University, the National Technical Institute for the Deaf, and other postsecondary educational programs for individuals who are deaf under the Individuals with Disabilities Education Act \[20 U.S.C. 1400 et seq.\], the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\], and other Federal or non-Federal agencies, institutions, or organizations involved with the education or rehabilitation of individuals who are deaf or hard of hearing.
 
 #### (b) Duties of liaison
 
@@ -19,6 +19,8 @@ The individual serving as liaison for educational programs for individuals who a
 Nothing in this section may be construed to affect the authority of the Secretary under this chapter or any other Act with respect to Gallaudet University or the National Technical Institute for the Deaf.
 
 (Pub. L. 99–371, title II, §206, formerly title IV, §406, Aug. 4, 1986, 100 Stat. 790; Pub. L. 101–476, title IX, §901(a)(2), Oct. 30, 1990, 104 Stat. 1142; renumbered title II, §206, and amended Pub. L. 102–421, title I, §§101(b)(5), (6), 136, 151(a)(4), (5), Oct. 16, 1992, 106 Stat. 2151, 2159, 2164; Pub. L. 103–73, title II, §204(e), Aug. 11, 1993, 107 Stat. 735; Pub. L. 110–315, title IX, §908, Aug. 14, 2008, 122 Stat. 3453.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -43,6 +45,8 @@ Subsec. (b). Pub. L. 102–421, §151(a)(4), substituted "individuals who are de
 Subsec. (b)(1) to (3). Pub. L. 102–421, §136(2), struck out "and" at end of par. (1), added par. (2), and redesignated former par. (2) as (3).
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–476 substituted "Individuals with Disabilities Education Act" for "Education of the Handicapped Act".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

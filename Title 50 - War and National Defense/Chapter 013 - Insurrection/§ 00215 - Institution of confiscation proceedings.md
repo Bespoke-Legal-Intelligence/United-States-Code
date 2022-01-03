@@ -4,9 +4,13 @@ The Attorney General, or the United States attorney for any judicial district in
 
 (R.S. §5311; June 25, 1948, ch. 646, §1, 62 Stat. 909.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §5311 derived from act Aug. 6, 1861, ch. 60, §3, 12 Stat. 319.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

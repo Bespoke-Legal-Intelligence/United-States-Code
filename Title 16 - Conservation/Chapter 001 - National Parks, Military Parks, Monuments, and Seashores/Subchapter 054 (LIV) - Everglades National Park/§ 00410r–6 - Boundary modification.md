@@ -18,7 +18,7 @@
 
 #### (B) Administration; applicable law
 
-&emsp;&emsp;On acquisition of the land under subparagraph (A), the land shall be administered as part of the park in accordance with the laws (including regulations) applicable to the park.
+&emsp;&emsp;On acquisition of the land under subparagraph (A), the land shall be administered aspart of the park in accordance with the laws (including regulations) applicable to the park.
 
 #### (b) Boundary adjustment
 
@@ -110,11 +110,13 @@ Upon the request of the Governor of the State of Florida, the Secretary is autho
 
 (Pub. L. 101–229, title I, §102, Dec. 13, 1989, 103 Stat. 1947; Pub. L. 108–483, §1, Dec. 23, 2004, 118 Stat. 3919.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 In subsec. (b), "section 100506(c) of title 54" substituted for "section 7(c) of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 4601–4 \[sic\] and following)" on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
 
-In subsec. (d), "chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" substituted for "theFederal Property and Administrative Services Act of 1949 (63 Stat. 377)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (d), "chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" substituted for "the Federal Property and Administrative Services Act of 1949 (63 Stat. 377)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 

@@ -14,7 +14,7 @@ Limitations on Response.—The President shall not provide for a removal or reme
 
 &emsp;(A) of a naturally occurring substance in its unaltered form, or altered solely through naturally occurring processes or phenomena, from a location where it is naturally found;
 
-&emsp;(B) from products which are part of the structure of, and result in exposure within,residential buildings or business or community structures; or
+&emsp;(B) from products which are part of the structure of, and result in exposure within, residential buildings or business or community structures; or
 
 &emsp;(C) into public or private drinking water supplies due to deterioration of the system through ordinary use.
 
@@ -42,7 +42,7 @@ Exception to Limitations.—Notwithstanding paragraph (3) of this subsection, to
 
 (4)
 
-Selection of Remedial Action.—The President shall select remedial actions to carryout this section in accordance with section 9621 of this title (relating to cleanup standards).
+Selection of Remedial Action.—The President shall select remedial actions to carry out this section in accordance with section 9621 of this title (relating to cleanup standards).
 
 (5)
 
@@ -158,7 +158,7 @@ Reimbursements.—Any State which expended funds during the period beginning Sep
 
 #### (A) Authority
 
-&emsp;&emsp;Any officer, employee or representative described in paragraph (1) is authorized toinspect and obtain samples from any vessel, facility, establishment, or other place or property referred to in paragraph (3) or from any location of any suspected hazardous substance or pollutant or contaminant. Any such officer, employee, or representative is authorized to inspect and obtain samples of any containers or labeling for suspected hazardous substances or pollutants or contaminants. Each such inspection shall be completed with reasonable promptness.
+&emsp;&emsp;Any officer, employee or representative described in paragraph (1) is authorized to inspect and obtain samples from any vessel, facility, establishment, or other place or property referred to in paragraph (3) or from any location of any suspected hazardous substance or pollutant or contaminant. Any such officer, employee, or representative is authorized to inspect and obtain samples of any containers or labeling for suspected hazardous substances or pollutants or contaminants. Each such inspection shall be completed with reasonable promptness.
 
 #### (B) Samples
 
@@ -174,7 +174,7 @@ Reimbursements.—Any State which expended funds during the period beginning Sep
 
 &emsp;&emsp;The President may ask the Attorney General to commence a civil action to compel compliance with a request or order referred to in subparagraph (A). Where there is a reasonable basis to believe there may be a release or threat of a release of a hazardous substance or pollutant or contaminant, the court shall take the following actions:
 
-&emsp;&emsp;&emsp;(i) In the case of interference with entry or inspection, the court shall enjoin such interference or direct compliance with orders to prohibit interference with entry or inspection unless under the circumstances of the case the demand for entry or inspection is arbitrary and capricious, an abuse of discretion, or otherwise not in accordance with law.
+&emsp;&emsp;&emsp;(i) In the case of interference with entry or inspection, the court shall enjoin such interference or direct compliance with orders to prohibit interference with entry or inspection unless under the circumstancesof the case the demand for entry or inspection is arbitrary and capricious, an abuse of discretion, or otherwise not in accordance with law.
 
 &emsp;&emsp;&emsp;(ii) In the case of information or document requests or orders, the court shall enjoin interference with such information or document requests or orders or direct compliance with the requests or orders to provide such information or documents unless under the circumstances of the case the demand for information or documents is arbitrary and capricious, an abuse of discretion, or otherwise not in accordance with law.
 
@@ -250,7 +250,7 @@ Notwithstanding any other provision of law, subject to the provisions of section
 
 &emsp;(E) either independently or as part of other health status survey, conduct periodic survey and screening programs to determine relationships between exposure to toxic substances and illness. In cases of public health emergencies, exposed persons shall be eligible for admission to hospitals and other facilities and services operated or provided by the Public Health Service.
 
-(2)(A) Within 6 months after October 17, 1986, the Administrator of the Agency for Toxic Substances and Disease Registry (ATSDR) and theAdministrator of the Environmental Protection Agency ("EPA") shall prepare a list, in order of priority, of at least 100 hazardous substances which are most commonly found at facilities on the National Priorities List and which, in their sole discretion, they determine are posing the most significant potential threat to human health due to their known or suspected toxicity to humans and the potential for human exposure to such substances at facilities on the National Priorities List or at facilities to which a response to a release or a threatened release under this section is under consideration.
+(2)(A) Within 6 months after October 17, 1986, the Administrator of the Agency for Toxic Substances and Disease Registry (ATSDR) and the Administrator of the Environmental Protection Agency ("EPA") shall prepare a list, in order of priority, of at least 100 hazardous substances which are most commonly found at facilities on the National Priorities List and which, in their sole discretion, they determine are posing the most significant potential threat to human health due to their known or suspected toxicity to humans and the potential for human exposure to such substances at facilities on the National Priorities List or at facilities to which a response to a release or a threatened release under this section is under consideration.
 
 (B) Within 24 months after October 17, 1986, the Administrator of ATSDR and the Administrator of EPA shall revise the list prepared under subparagraph (A). Such revision shall include, in order of priority, the addition of 100 or more such hazardous substances. In each of the 3 consecutive 12-month periods that follow, the Administrator of ATSDR and the Administrator of EPA shall revise, in the same manner as provided in the 2 preceding sentences, such list to include not fewer than 25 additional hazardous substances per revision. The Administrator of ATSDR and the Administrator of EPA shall not less often than once every year thereafter revise such list to include additional hazardous substances in accordance with the criteria in subparagraph (A).
 
@@ -290,7 +290,7 @@ Notwithstanding any other provision of law, subject to the provisions of section
 
 (6)(A) The Administrator of ATSDR shall perform a health assessment for each facility on the National Priorities List established under section 9605 of this title. Such health assessment shall be completed not later than December 10, 1988, for each facility proposed for inclusion on such list prior to October 17, 1986, or not later than one year after the date of proposal for inclusion on such list for each facility proposed for inclusion on such list after October 17, 1986.
 
-(B) The Administrator of ATSDR may perform health assessments for releases or facilities where individual persons or licensed physicians provide information that individuals have been exposed to a hazardous substance, for which the probable source of such exposure is a release. In addition to other methods (formal or informal) of providing such information, such individual persons or licensed physicians may submit a petition to the Administrator of ATSDR providing such information and requesting a health assessment. If such a petition is submitted and the Administrator of ATSDR does not initiate a health assessment, the Administrator of ATSDR shall provide a written explanation of why a health assessment is not appropriate.
+(B) The Administrator of ATSDR may perform health assessments for releases or facilities where individual persons or licensed physiciansprovide information that individuals have been exposed to a hazardous substance, for which the probable source of such exposure is a release. In addition to other methods (formal or informal) of providing such information, such individual persons or licensed physicians may submit a petition to the Administrator of ATSDR providing such information and requesting a health assessment. If such a petition is submitted and the Administrator of ATSDR does not initiate a health assessment, the Administrator of ATSDR shall provide a written explanation of why a health assessment is not appropriate.
 
 (C) In determining the priority in which to conduct health assessments under this subsection, the Administrator of ATSDR, in consultation with the Administrator of EPA, shall give priority to those facilities at which there is documented evidence of the release of hazardous substances, at which the potential risk to human health appears highest, and for which in the judgment of the Administrator of ATSDR existing health assessment data are inadequate to assess the potential risk to human health as provided in subparagraph (F). In determining the priorities for conducting health assessments under this subsection, the Administrator of ATSDR shall consider the National Priorities List schedules and the needs of the Environmental Protection Agency and other Federal agencies pursuant to schedules for remedial investigation and feasibility studies.
 
@@ -300,7 +300,7 @@ Notwithstanding any other provision of law, subject to the provisions of section
 
 (F) For the purposes of this subsection and section 9611(c)(4) of this title, the term "health assessments" shall include preliminary assessments of the potential risk to human health posed by individual sites and facilities, based on such factors as the nature and extent of contamination, the existence of potential pathways of human exposure (including ground or surface water contamination, air emissions, and food chain contamination), the size and potential susceptibility of the community within the likely pathways of exposure, the comparison of expected human exposure levels to the short-term and long-term health effects associated with identified hazardous substances and any available recommended exposure or tolerance limits for such hazardous substances, and the comparison of existing morbidity and mortality data on diseases that may be associated with the observed levels of exposure. The Administrator of ATSDR shall use appropriate data, risk assessments, risk evaluations and studies available from the Administrator of EPA.
 
-(G) The purpose of health assessments under this subsection shall be to assist in determining whether actions under paragraph (11) of this subsection should be taken to reduce human exposure to hazardous substances from a facility and whether additional information on human exposure and associated health risks is needed and should be acquired by conducting epidemiological studies under paragraph (7), establishing a registry under paragraph (8), establishing a health surveillance program under paragraph (9), or through other means. In using the results of health assessments for determining additional actions to be taken under this section, the Administrator of ATSDR may consider additional information on the risks to the potentially affected population from all sources ofsuch hazardous substances including known point or nonpoint sources other than those from the facility in question.
+(G) The purpose of health assessments under this subsection shall be to assist in determining whether actions under paragraph (11) of this subsection should be taken to reduce human exposure to hazardous substances from a facility and whether additional information on human exposure and associated health risks is needed and should be acquired by conducting epidemiological studies under paragraph (7), establishing a registry under paragraph (8), establishing a health surveillance program under paragraph (9), or through other means. In using the results of health assessments for determining additional actions to be taken under this section, the Administrator of ATSDR may consider additional information on the risks to the potentially affected population from all sources of such hazardous substances including known point or nonpoint sources other than those from the facility in question.
 
 (H) At the completion of each health assessment, the Administrator of ATSDR shall provide the Administrator of EPA and each affected State with the results of such assessment, together with any recommendations for further actions under this subsection or otherwise under this chapter. In addition, if the health assessment indicates that the release or threatened release concerned may pose a serious threat to human health or the environment, the Administrator of ATSDR shall so notify the Administrator of EPA who shall promptly evaluate such release or threatened release in accordance with the hazard ranking system referred to in section 9605(a)(8)(A) of this title to determine whether the site shall be placed on the National Priorities List or, if the site is already on the list, the Administrator of ATSDR may recommend to the Administrator of EPA that the site be accorded a higher priority.
 
@@ -308,7 +308,7 @@ Notwithstanding any other provision of law, subject to the provisions of section
 
 (B) Whenever in the judgment of the Administrator of ATSDR it is appropriate on the basis of the results of such pilot study or other study or health assessment, the Administrator of ATSDR shall conduct such full scale epidemiological or other health studies as may be necessary to determine the health effects on the population exposed to hazardous substances from a release or threatened release. If a significant excess of disease in a population is identified, the letter of transmittal of such study shall include an assessment of other risk factors, other than a release, that may, in the judgment of the peer review group, be associated with such disease, if such risk factors were not taken into account in the design or conduct of the study.
 
-(8) In any case in which the results of a health assessment indicate a potential significant risk to human health, the Administrator of ATSDR shall consider whether the establishment of a registry of exposed persons would contribute to accomplishing the purposes of this subsection, taking into account circumstances bearing on the usefulness of such a registry, including the seriousness or unique character of identified diseases or the likelihood of population migration from the affected area.
+(8) In any case in which the results of a health assessment indicate a potential significant riskto human health, the Administrator of ATSDR shall consider whether the establishment of a registry of exposed persons would contribute to accomplishing the purposes of this subsection, taking into account circumstances bearing on the usefulness of such a registry, including the seriousness or unique character of identified diseases or the likelihood of population migration from the affected area.
 
 (9) Where the Administrator of ATSDR has determined that there is a significant increased risk of adverse health effects in humans from exposure to hazardous substances based on the results of a health assessment conducted under paragraph (6), an epidemiologic study conducted under paragraph (7), or an exposure registry that has been established under paragraph (8), and the Administrator of ATSDR has determined that such exposure is the result of a release from a facility, the Administrator of ATSDR shall initiate a health surveillance program for such population. This program shall include but not be limited to—
 
@@ -500,7 +500,7 @@ Notwithstanding any other provision of law, subject to the provisions of section
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;A grant under paragraph (2) may be awarded to an eligible entity on a community-wide or site-by-site basis, and shall not exceed, for any individual brownfield site covered by the grant, $200,000.
+&emsp;&emsp;&emsp;&emsp;A grant under paragraph (2) may be awarded to an eligible entity on a community-wide or site-by-site basis, and shall not exceed, for any individualbrownfield site covered by the grant, $200,000.
 
 #### (II) Waiver
 
@@ -566,7 +566,7 @@ Notwithstanding any other provision of law, subject to the provisions of section
 
 #### (I) Application
 
-&emsp;&emsp;&emsp;&emsp;An eligible entity may submit to the Administrator, through a regional office of the Environmental Protection Agency and in such form as the Administratormay require, an application for a grant under this subsection for one or more brownfield sites (including information on the criteria used by the Administrator to rank applications under subparagraph (C), to the extent that the information is available).
+&emsp;&emsp;&emsp;&emsp;An eligible entity may submit to the Administrator, through a regional office of the Environmental Protection Agency and in such form as the Administrator may require, an application for a grant under this subsection for one or more brownfield sites (including information on the criteria used by the Administrator to rank applications under subparagraph (C), to the extent that the information is available).
 
 #### (II) NCP requirements
 
@@ -706,6 +706,8 @@ Notwithstanding any other provision of law, subject to the provisions of section
 
 (Pub. L. 96–510, title I, §104, Dec. 11, 1980, 94 Stat. 2774; Pub. L. 99–499, title I, §§104, 110, title II, §207(b), Oct. 17, 1986, 100 Stat. 1617, 1636, 1705; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–531, title III, §312(h), Oct. 27, 1992, 106 Stat. 3506; Pub. L. 107–118, title II, §211(b), Jan. 11, 2002, 115 Stat. 2362; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–59, title I, §1956, Aug. 10, 2005, 119 Stat. 1515; Pub. L. 115–141, div. N, §§6–13, 14(b), Mar. 23, 2018, 132 Stat. 1054–1058.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
@@ -718,7 +720,7 @@ Reorganization Plan Numbered 14 of 1950, referred to in subsec. (g)(2), is set o
 
 The Toxic Substances Control Act, referred to in subsecs. (i)(5)(C), (D) and (k)(12)(D), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003, which is classified generally to chapter 53 (§2601 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 15 and Tables.
 
-The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (i)(5)(C), (D), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516,Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
+The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (i)(5)(C), (D), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
 
 The Alaska Native Claims Settlement Act, referred to in subsec. (k)(1)(H), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
@@ -819,6 +821,8 @@ Subsec. (e)(7). Pub. L. 99–499, §104(m), (n), redesignated par. (2) as (7), a
 Subsec. (i). Pub. L. 99–499, §110, designated existing provisions as par. (1), redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1), in introductory provisions of par. (1), struck out "and" after "Health Administration," and inserted "the Secretary of Transportation, and appropriate State and local health officials," in par. (1)(D), inserted "where appropriate", and added pars. (2) to (18).
 
 Subsec. (j). Pub. L. 99–499, §104(o)(1), added subsec. (j).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Reporting Requirements
 

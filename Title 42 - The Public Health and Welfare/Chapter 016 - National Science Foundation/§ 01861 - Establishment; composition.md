@@ -4,9 +4,11 @@ There is established in the executive branch of the Government an independent ag
 
 (May 10, 1950, ch. 171, §2, 64 Stat. 149.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title of 2021 Amendment
 
-Pub. L. 116–339, §1, Jan. 13, 2021, 134 Stat. 5126, provided that: "This Act \[enacting section 1862v of thistitle and provisions set out as a note under section 1862v of this title\] may be cited as the 'Advancing Research to Prevent Suicide Act'."
+Pub. L. 116–339, §1, Jan. 13, 2021, 134 Stat. 5126, provided that: "This Act \[enacting section 1862v of this title and provisions set out as a note under section 1862v of this title\] may be cited as the 'Advancing Research to Prevent Suicide Act'."
 
 Pub. L. 116–335, §1(a), Jan. 13, 2021, 134 Stat. 5117, provided that: "This Act \[enacting section 1862u of this title and provisions set out as a note under section 1862u of this title\] may be cited as the 'Expanding Findings for Federal Opioid Research and Treatment Act' or the 'EFFORT Act'."
 
@@ -36,7 +38,7 @@ Pub. L. 114–124, §1, Feb. 18, 2016, 130 Stat. 120, provided that: "This Act \
 
 #### Short Title of 2015 Amendment
 
-Pub. L. 114–59, §1, Oct. 7, 2015, 129 Stat. 540, provided that: "This Act \[enacting section 1862q of this title, amending sections 1862n–1 and 1862n–1a of this title, and enacting provisions set out as a note under section 6621 of this title\] may be cited as the 'STEM Education Act of 2015'."
+Pub. L. 114–59, §1, Oct. 7, 2015, 129 Stat. 540, provided that: "This Act \[enacting section 1862q of this title, amending sections 1862n–1 and 1862n–1a of this title, and enacting provisions set out as a note under section 6621of this title\] may be cited as the 'STEM Education Act of 2015'."
 
 #### Short Title of 2011 Amendment
 
@@ -70,7 +72,7 @@ Pub. L. 99–383, §1, Aug. 21, 1986, 100 Stat. 813, provided: "That this Act \[
 
 #### Short Title of 1985 Amendment
 
-Pub. L. 99–159, title I, §101, Nov. 22, 1985, 99 Stat. 887, provided that: "This title \[enacting section 1886 of this title, amending sections 1862, 1863, 1864, 1868 to 1872, 1873, 1874, 1881a, 1882, and 1885 to 1885d of this title, repealing sections 1873a and 1884 of this title, and amending provisions set out as notes under sections 1861 and1882 of this title\] may be cited as the 'National Science Foundation Authorization Act for Fiscal Year 1986'."
+Pub. L. 99–159, title I, §101, Nov. 22, 1985, 99 Stat. 887, provided that: "This title \[enacting section 1886 of this title, amending sections 1862, 1863, 1864, 1868 to 1872, 1873, 1874, 1881a, 1882, and 1885 to 1885d of this title, repealing sections 1873a and 1884 of this title, and amending provisions set out as notes under sections 1861 and 1882 of this title\] may be cited as the 'National Science Foundation Authorization Act for Fiscal Year 1986'."
 
 #### Short Title of 1980 Amendment
 
@@ -90,13 +92,15 @@ Pub. L. 94–471, §1, Oct. 11, 1976, 90 Stat. 2053, provided: "That this Act \[
 
 Act May 10, 1950, ch. 171, §1, 64 Stat. 149, provided: "That this Act \[enacting this chapter\] may be cited as the 'National Science Foundation Act of 1950'."
 
-#### Transfer of Functions
-
-Office of Science and Technology, including offices of Director and Deputy Director, provided for by sections 1 and 2 of Reorg. Plan No. 2 of 1962, abolished and all functions vested by law in Office of Science and Technology or Director or Deputy Director of Office of Science and Technology transferred to Director of National Science Foundation by sections 2 and 3(a)(5) of Reorg. Plan No. 1 of 1973, eff. July 1, 1973, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Continuation of Existing Offices, Procedures, and Organization
 
 Amendments by Pub. L. 90–407, July 18, 1868, 82 Stat. 360, intended to continue in effect the existing offices, procedures, and organization of the Foundation as provided by this chapter, part II of Reorg. Plan No. 2 of 1962 \[set out below\], and Reorg. Plan, No. 5 of 1965 \[set out in Appendix to Title 5, Government Organization and Employees\], but on and after July 18, 1968, part II of Reorg. Plan No. 2 of 1962, and Reorg. Plan No. 5 of 1965, as being of no force or affect, and nothing in Pub. L. 90–407 as altering or affecting any transfers of functions made by part I of Reorg. Plan No. 2 of 1962, see section 16 of Pub. L. 90–407, set out as Continuation of Existing Offices, Procedures, and Organization of the National Science Foundation note under section 1862 of this title.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Office of Science and Technology, including offices of Director and Deputy Director, provided for by sections1 and 2 of Reorg. Plan No. 2 of 1962, abolished and all functions vested by law in Office of Science and Technology or Director or Deputy Director of Office of Science and Technology transferred to Director of National Science Foundation by sections 2 and 3(a)(5) of Reorg. Plan No. 1 of 1973, eff. July 1, 1973, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### <b>REORGANIZATION PLAN NO. 2 OF 1962</b>
 
@@ -152,7 +156,7 @@ Sec. 4. \[Repealed. Pub. L. 94–282, title V, §502, May 11, 1976, 90 Stat. 472
 
 (2) The functions of the Director of the National Science Foundation provided for in sections 4(a) and 5(a) of the National Science Foundation Act of 1950 (42 U.S.C. 1863(a), 1864(a)) with respect to serving as a nonvoting member of the Board and his functions with respect to serving as a nonvoting member of the Executive Committee provided for in section 6(b) of that Act (42 U.S.C. 1865(b)).
 
-(3) So much of the functions conferred upon divisional committees by the provisions of section 8(d) of the National Science Foundation Act of 1950 (42 U.S.C. 1867(d)) as consists of making recommendations to, and advising and consulting with, the Board.
+(3) So much of the functions conferred upon divisional committees by the provisions of section 8(d) ofthe National Science Foundation Act of 1950 (42 U.S.C. 1867(d)) as consists of making recommendations to, and advising and consulting with, the Board.
 
 (c) The provisions of sections 23(a)(1) and 23(b)(1) hereof shall become effective on the date of the first meeting of the Board held after the effective date of the other provisions of this reorganization plan.
 
@@ -206,7 +210,7 @@ The ever-growing significance and complexity of Federal programs in science and 
 
 &emsp;(4) The Federal Council for Science and Technology, composed of policy officials of the principal agencies engaged in scientific and technical activities, was established in 1959.
 
-The National Science Foundation has proved to be an effective instrument for administering sizable programs in support of basic research and education in the sciences and has set an example for other agencies through the administration of its own programs. However, the Foundation, being at the same organizational level as other agencies, cannot satisfactorily coordinate Federal science policies or evaluate programs of other agencies. Science policies, transcending agency lines, need to be coordinated and shaped at the level of the Executive Office of the President drawing upon many resources both within and outside of Government. Similarly, staff efforts at that higher level are required for the evaluation of Government programs in science and technology.
+The National Science Foundation has proved to be an effective instrument for administering sizable programs in support of basic research and education in the sciences and has set an example for other agencies through the administration of its own programs. However, the Foundation, being at the same organizational level as other agencies, cannot satisfactorily coordinate Federal science policies or evaluate programs ofother agencies. Science policies, transcending agency lines, need to be coordinated and shaped at the level of the Executive Office of the President drawing upon many resources both within and outside of Government. Similarly, staff efforts at that higher level are required for the evaluation of Government programs in science and technology.
 
 Thus, the further steps contained in part I of the reorganization plan are now needed in order to meet most effectively new and expanding requirements brought about by the rapid and far-reaching growth of the Government's research and development programs. These requirements call for the further strengthening of science organization at the Presidential level and for the adjustment of the Foundation's role to reflect changed conditions. The Foundation will continue to originate policy proposals and recommendations concerning the support of basic research and education in the sciences, and the new Office will look to the Foundation to provide studies and information on which sound national policies in science and technology can be based.
 

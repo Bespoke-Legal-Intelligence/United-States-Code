@@ -36,7 +36,7 @@ The treasurer shall preserve all records required to be kept by this section and
 
 #### (e) Principal and additional campaign committees; designations, status of candidate, authorized committees, etc.
 
-(1) Each candidate for Federal office (other than the nominee for the office of Vice President) shall designate in writing a political committee in accordance with paragraph (3) to serve as the principal campaign committee of such candidate. Such designation shall be made no later than 15 days after becoming a candidate. A candidate may designate additional political committees in accordance with paragraph (3) to serve as authorized committees of such candidate. Such designation shall be in writing and filed with the principal campaign committee of such candidate in accordance with subsection (f)(1).
+(1) Each candidate for Federal office (other than the nominee for the office of Vice President) shall designate in writing a political committee in accordance with paragraph (3) to serve as the principal campaign committee of such candidate. Such designation shall be made no later than 15 days after becoming a candidate. A candidate may designate additional political committees in accordance with paragraph (3) toserve as authorized committees of such candidate. Such designation shall be in writing and filed with the principal campaign committee of such candidate in accordance with subsection (f)(1).
 
 (2) Any candidate described in paragraph (1) who receives a contribution, or any loan for use in connection with the campaign of such candidate for election, or makes a disbursement in connection with such campaign, shall be considered, for purposes of this Act, as having received the contribution or loan, or as having made the disbursement, as the case may be, as an agent of the authorized committee or committees of such candidate.
 
@@ -90,7 +90,7 @@ Section was formerly classified to section 432 of Title 2, The Congress, prior t
 
 "(1) Designations, statements, and reports required to be filed under this Act by a candidate for the office of Senator, by the principal campaign committee of such candidate, and by the Republican and Democratic Senatorial Campaign Committees shall be filed with the Secretary of the Senate, who shall receive such designations, statements, and reports, as custodian for the Commission.
 
-"(2) The Secretary of the Senate shall forward a copy of any designation, statement, or report filed with the Secretary under this subsection to the Commission as soon as possible (but no later than 2 working days) after receiving such designation, statement, or report.
+"(2) The Secretary of the Senate shall forward a copy of any designation, statement, or report filed with the Secretary under this subsection to the Commission assoon as possible (but no later than 2 working days) after receiving such designation, statement, or report.
 
 "(3) All designations, statements, and reports required to be filed under this Act, except designations, statements, and reports filed in accordance with paragraph (1), shall be filed with the Commission.
 

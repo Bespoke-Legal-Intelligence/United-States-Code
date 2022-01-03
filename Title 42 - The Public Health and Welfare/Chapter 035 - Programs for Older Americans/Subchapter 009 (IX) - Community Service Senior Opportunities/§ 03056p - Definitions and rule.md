@@ -48,9 +48,11 @@ For purposes of this subchapter:
 
 &emsp;&emsp;&emsp;&emsp;(III) meet the eligibility requirements related to age for, but do not receive, benefits under title II of the Social Security Act (42 U.S.C. 401 et seq.);
 
-&emsp;&emsp;&emsp;&emsp;(IV) live in an area with persistent unemployment and are individuals with severely limited employment prospects; or
+&emsp;&emsp;&emsp;&emsp;(IV) live in an area with persistent unemployment and are individuals with severely limited employment prospects;
 
-&emsp;&emsp;&emsp;&emsp;(V) have limited English proficiency or low literacy skills.
+&emsp;&emsp;&emsp;&emsp;(V) have limited English proficiency or low literacy skills; or
+
+&emsp;&emsp;&emsp;&emsp;(VI) have been incarcerated within the last 5 years or are under supervision following release from prison or jail within the last 5 years.
 
 #### (4) Income
 
@@ -92,37 +94,15 @@ Pursuant to regulations prescribed by the Secretary, an eligible individual shal
 
 &emsp;(E) has low employment prospects;
 
-&emsp;(F) has failed to find employment after utilizing services provided under title I of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3111 et seq.\]; or
+&emsp;(F) has failed to find employment after utilizing services provided under title I of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3111 et seq.\];
 
-&emsp;(G) is homeless or at risk for homelessness.
+&emsp;(G) is homeless or at risk for homelessness; or
+
+&emsp;(H) has been incarcerated within the last 5 years or is under supervision following release from prison or jail within the last 5 years.
 
 (Pub. L. 89–73, title V, §518, as added Pub. L. 109–365, title V, §501, Oct. 17, 2006, 120 Stat. 2588; amended Pub. L. 113–128, title V, §512(w)(8), July 22, 2014, 128 Stat. 1716; Pub. L. 114–144, §6(g), Apr. 19, 2016, 130 Stat. 346; Pub. L. 116–131, title IV, §401(a)(3), Mar. 25, 2020, 134 Stat. 266.)
 
-#### Amendment of Subsections (a)(3)(B)(ii) and (b)(2)
-
-<i>Pub. L. 116–131, title IV, §401(a)(3), (b), Mar. 25, 2020, 134 Stat. 266, 267, provided that, effective 1 year after Mar. 25, 2020, subsections (a)(3)(B)(ii) and (b)(2) of this section are amended as follows:</i>
-
-<i>(1) in subsection (a)(3)(B)(ii)—</i>
-
-<i>(A) in subclause (IV), by striking "or" at the end;</i>
-
-<i>(B) in subclause (V), by striking the period at the end and inserting "; or"; and</i>
-
-<i>(C) by adding at the end the following:</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>"(VI) have been incarcerated within the last 5 years or are under supervision following release from prison or jail within the last 5 years."; and</i>
-
-<i>(2) in subsection (b)(2)—</i>
-
-<i>(A) in subparagraph (F), by striking "or" at the end;</i>
-
-<i>(B) in subparagraph (G), by striking the period at the end and inserting "; or"; and</i>
-
-<i>(C) by adding at the end the following:</i>
-
-&emsp;<i>"(H) has been incarcerated within the last 5 years or is under supervision following release from prison or jail within the last 5 years."</i>
-
-<i>See 2020 Amendment notes below.</i>
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -140,11 +120,13 @@ Subsec. (b)(2)(H). Pub. L. 116–131, §401(a)(3)(B), added subpar. (H).
 
 <b>2014</b>—Subsec. (b)(2)(F). Pub. L. 113–128 substituted "has failed to find employment after utilizing services provided under title I of the Workforce Innovation and Opportunity Act" for "has failed to find employment after utilizing services provided under title I of the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.)".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2020 Amendment
 
 Amendment by Pub. L. 116–131 effective 1 year after Mar. 25, 2020, see section 401(b) of Pub. L. 116–131, set out as a note under section 3056a of this title.
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014\(July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 

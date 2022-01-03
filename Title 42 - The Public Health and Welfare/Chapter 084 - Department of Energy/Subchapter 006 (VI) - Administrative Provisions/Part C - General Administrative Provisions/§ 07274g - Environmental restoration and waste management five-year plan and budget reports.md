@@ -2,7 +2,7 @@
 
 #### (a) Five-year plan
 
-(1) Not later than September 1 of each year, the Secretary of Energy shall issue a plan for environmental restoration and waste management activities to be conducted, during the five-year period beginning on October 1 of the next calendar year, at all facilities owned or operated by the Department of Energy except defense nuclear facilities. The plan also shall contain a description of environmental restoration and waste management activities conducted during the fiscal year in which the plan is submitted and of such activities to be conducted during the fiscal year beginning on October 1 of the same calendar year. Such five-year plan shall be designed to complete environmental restoration at all such Department of Energy facilities not later than the year 2019.
+(1) Not later than September 1 of each year, the Secretary of Energy shall issue a plan for environmental restoration and waste management activities to be conducted, during the five-year period beginning on October 1 of the next calendar year, at all facilities owned or operated by the Department of Energy except defense nuclear facilities. The plan also shall contain a description of environmental restoration andwaste management activities conducted during the fiscal year in which the plan is submitted and of such activities to be conducted during the fiscal year beginning on October 1 of the same calendar year. Such five-year plan shall be designed to complete environmental restoration at all such Department of Energy facilities not later than the year 2019.
 
 (2) The Secretary shall prepare each annual five-year plan in a preliminary form at least four months before the date on which that plan is required to be issued under paragraph (1). The preliminary plan shall contain the matters referred to in paragraph (4) (other than the matters referred to in subparagraph (J) of that paragraph). The Secretary shall provide the preliminary plan to the Governors and Attorneys General of affected States, appropriate representatives of affected Indian tribes, and the public for coordination, review, and comment.
 
@@ -34,7 +34,7 @@
 
 &emsp;(L) Such other matters as the Secretary finds appropriate and in the public interest.
 
-(5) The Secretary shall consult with the Administrator of the Environmental Protection Agency, Governors and Attorneys General of affected States, and appropriate representatives of affected Indian tribes in the preparation of the plan and the preliminary form of the plan pursuant to paragraphs (1) and (2). The Secretaryshall include as an appendix to the plan (A) all comments submitted on the preliminary form of the plan by the Administrator, Governors and Attorneys General of affected States, and affected Indian tribes, and (B) a summary of comments submitted by the public.
+(5) The Secretary shall consult with the Administrator of the Environmental Protection Agency, Governors and Attorneys General of affected States, and appropriate representatives of affected Indian tribes in the preparation of the plan and the preliminary form of the plan pursuant to paragraphs (1) and (2). The Secretary shall include as an appendix to the plan (A) all comments submitted on the preliminary form of the plan by the Administrator, Governors and Attorneys General of affected States, and affected Indian tribes, and (B) a summary of comments submitted by the public.
 
 (6) The first annual five-year plan issued pursuant to this section shall be issued in 1992.
 
@@ -56,6 +56,8 @@ Each year, at the same time the President submits to Congress the budget for a f
 
 (Pub. L. 102–190, div. C, title XXXI, §3135, Dec. 5, 1991, 105 Stat. 1575; Pub. L. 103–337, div. C, title XXXI, §3160(a), Oct. 5, 1994, 108 Stat. 3094.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 3103, referred to in subsec. (d), is section 3103 of Pub. L. 102–190, div. C, title XXXI, Dec. 5, 1991, 105 Stat. 1566, which is not classified to the Code.
@@ -71,6 +73,8 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 Subsec. (a)(4). Pub. L. 103–337, §3160(a)(2), substituted "The plan shall include, with respect to the Department of Energy facilities required by paragraph (1) to be covered by the plan, the following matters:" for "The plan shall contain the following matters:" in introductory provisions.
 
 Subsec. (a)(6), (7). Pub. L. 103–337, §3160(a)(3), (4), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: "The Secretary shall include in the annual five-year plan issued in 1992 a discussion of the feasibility and need, if any, for the establishment of a contingency fund in the Department of Energy to provide funds necessary to meet the requirements in environmental laws, to remove an immediate threat to worker or public health and safety, to prevent or improve a condition where postponement of activity would lead to deterioration of the environment, and to undertake additional environmental restoration activities at Department of Energy defense nuclear facilities that are not provided for in the budgets for fiscal years in which it is necessary to meet such requirements or undertake such activities."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Public Participation in Planning
 

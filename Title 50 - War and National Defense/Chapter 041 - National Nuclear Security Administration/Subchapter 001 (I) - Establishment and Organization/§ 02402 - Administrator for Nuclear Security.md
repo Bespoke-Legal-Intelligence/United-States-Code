@@ -66,9 +66,11 @@ Except as provided by subsections (b) and (c) of section 2481 of this title:
 
 &emsp;(1) The Administrator may establish, abolish, alter, consolidate, or discontinue any organizational unit or component of the Administration, or transfer any function of the Administration.
 
-&emsp;(2) Such authority does not apply to the abolition of organizational units or componentsestablished by law or the transfer of functions vested by law in any organizational unit or component.
+&emsp;(2) Such authority does not apply to the abolition of organizational units or components established by law or the transfer of functions vested by law in any organizational unit or component.
 
 (Pub. L. 106–65, div. C, title XXXII, §3212, Oct. 5, 1999, 113 Stat. 957; Pub. L. 106–398, §1 \[div. C, title XXXI, §§3152(b), 3159(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–464, 1654A–469; Pub. L. 107–107, div. A, title X, §1048(i)(12), Dec. 28, 2001, 115 Stat. 1230; Pub. L. 108–375, div. A, title IX, §902(e), Oct. 28, 2004, 118 Stat. 2025; Pub. L. 110–417, div. C, title XXXI, §3111, Oct. 14, 2008, 122 Stat. 4753; Pub. L. 112–239, div. C, title XXXI, §3132(d)(1), Jan. 2, 2013, 126 Stat. 2187; Pub. L. 113–66, div. C, title XXXI, §3145(a), Dec. 26, 2013, 127 Stat. 1071.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -86,17 +88,19 @@ Subsec. (c). Pub. L. 113–66 substituted "section 1702(c) of title 41" for "sec
 
 Pub. L. 106–398, §1 \[div. C, title XXXI, §3152(b)\], added subsec. (e) relating to membership on Joint Nuclear Weapons Council.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as a note under section 2401 of this title.
 
 #### Infrastructure Modernization Initiative
 
-Pub. L. 115–91, div. C, title XXXI, §3111(b), Dec. 12, 2017, 131 Stat. 1881, provided that:
+Pub. L. 115–91, div. C, title XXXI, §3111(b), Dec. 12, 2017, 131 Stat. 1881, as amended by Pub. L. 117–81, div. C, title XXXI, §3116, Dec. 27, 2021, 135 Stat. 2227, provided that:
 
 "(1)
 
-Establishment.—Not later than 30 days after the date of the enactment of this Act \[Dec. 12, 2017\], the Administrator for Nuclear Security shall establish and carry out a program, to be known as the 'Infrastructure Modernization Initiative', to reduce the backlog of deferred maintenance and repair needs of the nuclear security enterprise (as defined in section 4002(6) of the Atomic Energy Defense Act (50 U.S.C. 2501(6))). In carrying out that program, the Administrator shall establish and execute infrastructure modernization milestones that reduce the deferred maintenance and repair needs of the nuclear security enterprise by not less than 30 percent by 2025.
+Establishment.—Not later than 30 days after the date of the enactment of this Act \[Dec. 12, 2017\], the Administrator for Nuclear Security shall establish and carry out a program, to be known as the 'Infrastructure Modernization Initiative', to reduce the backlog of deferred maintenance and repair needs of the nuclear security enterprise (as defined in section 4002(6) of the Atomic Energy Defense Act (50 U.S.C. 2501(6))). In carrying out that program, the Administrator shall establish and execute infrastructure modernization milestones that reduce the total deferred maintenance per replacement plant value of the nuclear security enterprise by not less than 45 percent by 2030.
 
 "(2)
 
@@ -112,7 +116,7 @@ In general.—The Secretary of Energy shall provide to the Administrator a proce
 
 &emsp;&emsp;&emsp;"(I) the demolition or construction of non-nuclear facilities of the Administration that have a total estimated project cost of less than $100,000,000; and
 
-&emsp;&emsp;&emsp;"(II) the decontamination, decommissioning, and demolition (to be performed in accordance with applicable health and safety standards used by the Defense Environmental Cleanup Program) of process-contaminated facilities of the Administration that have a total estimated project cost of less than $50,000,000.
+&emsp;&emsp;&emsp;"(II) the decontamination, decommissioning, and demolition (to be performed in accordance with applicable health and safety standards used by the Defense Environmental Cleanup Program) of process-contaminated facilities of the Administration that have a total estimated project cost of less than $75,000,000.
 
 &emsp;&emsp;"(ii)
 
@@ -130,7 +134,7 @@ Application of certain requirements.—For purposes of the Management Procedures
 
 "(3)
 
-Initial plan.—Not later than March 1, 2018, the Administrator shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] an initial plan to carry out the program under paragraph (1) to achieve the goal specified in such paragraph. Such plan shall include—
+Plan required.—Not later than March 1, 2022, the Administrator shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a plan to carry out the program under paragraph (1) to achieve the goal specified in such paragraph. Such plan shall include—
 
 &emsp;"(A) the funding required to carry out the program during the period covered by the future-years nuclear security program under section 3253 of the National Nuclear Security Administration Act (50 U.S.C. 2453);
 
@@ -144,7 +148,11 @@ Initial plan.—Not later than March 1, 2018, the Administrator shall submit to 
 
 "(4)
 
-Reassessment.—Not later than February 1, 2024, the Administrator shall reassess the program under paragraph (1) and, as appropriate, develop and establish goals for the program beyond 2025."
+Reassessment.—Not later than February 1, 2023, the Administrator shall reassess the program under paragraph (1) and, as appropriate, develop and establish goals for the program beyond 2030.
+
+"(5)
+
+Annual reports.—Not later than March 1, 2023, and annually thereafter through 2030, the Administrator for Nuclear Security shall submit to the congressional defense committees a report with respect to whether the updated plan under paragraph (3) is being implemented in a manner adequate to achieve the goal specified in paragraph (1)."
 
 #### Technology Infrastructure Pilot Program
 

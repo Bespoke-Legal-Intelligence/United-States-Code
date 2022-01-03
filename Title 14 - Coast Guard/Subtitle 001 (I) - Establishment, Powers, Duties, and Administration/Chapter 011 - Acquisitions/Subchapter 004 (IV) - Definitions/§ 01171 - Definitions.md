@@ -4,7 +4,7 @@ In this chapter:
 
 &emsp;(1)
 
-Appropriate congressional committees.—The term "appropriate congressionalcommittees" means the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+Appropriate congressional committees.—The term "appropriate congressional committees" means the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
 
 &emsp;(2)
 
@@ -82,7 +82,7 @@ Operational test and evaluation.—The term "operational test and evaluation" me
 
 &emsp;&emsp;(B) the evaluation of the results of such testing.
 
-(Added Pub. L. 111–281, title IV, §402(a), Oct. 15, 2010, 124 Stat. 2948, §581; amended Pub. L. 114–120, title II, §209(8), Feb. 8, 2016, 130 Stat. 41; Pub. L. 114–328, div. A, title VIII, §899(b)(1)(F), Dec. 23, 2016, 130 Stat. 2334; Pub. L. 115–232, div. C, title XXXV, §3531(c)(8), Aug. 13, 2018, 132 Stat. 2320; renumbered §1171 and amended Pub. L. 115–282, title I, §§108(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4208, 4240.)
+(Added Pub. L. 111–281, title IV, §402(a), Oct. 15, 2010, 124 Stat. 2948, §581; amended Pub. L. 114–120, title II, §209(8), Feb. 8, 2016, 130 Stat. 41; Pub. L. 114–328, div. A, title VIII, §899(b)(1)(F), Dec. 23, 2016, 130 Stat. 2334; Pub. L. 115–232, div. C, title XXXV, §3531(c)(8), Aug. 13, 2018, 132 Stat.2320; renumbered §1171 and amended Pub. L. 115–282, title I, §§108(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4208, 4240.)
 
 #### <b>Editorial Notes</b>
 

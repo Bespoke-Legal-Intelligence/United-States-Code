@@ -6,7 +6,7 @@ The provisions of section 28 of title 30 specified in subsection (b) shall not a
 
 #### (b) Requirements
 
-The provisions in section 28 of title 30 that shall not apply under subsection (a) are those which require that on each mining claim located after May 10, 1872, and until a patent has beenissued for such claim, not less than $100 worth of labor shall be performed or improvements made during each year.
+The provisions in section 28 of title 30 that shall not apply under subsection (a) are those which require that on each mining claim located after May 10, 1872, and until a patent has been issued for such claim, not less than $100 worth of labor shall be performed or improvements made during each year.
 
 #### (c) Period of protection from forfeiture
 
@@ -18,6 +18,8 @@ In order to obtain the protections of this section, the claimant of a mining loc
 
 (Oct. 17, 1940, ch. 888, title V, §504, as added Pub. L. 108–189, §1, Dec. 19, 2003, 117 Stat. 2856.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 564 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
@@ -25,6 +27,8 @@ Section was formerly classified to section 564 of the former Appendix to this ti
 #### Prior Provisions
 
 A prior section 504 of act Oct. 17, 1940, ch. 888, art. V, 54 Stat. 1187; Pub. L. 102–12, §9(19), Mar. 18, 1991, 105 Stat. 40, related to desert-land entries and the suspension of requirements, prior to the general amendment of this Act by Pub. L. 108–189. See section 3993 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

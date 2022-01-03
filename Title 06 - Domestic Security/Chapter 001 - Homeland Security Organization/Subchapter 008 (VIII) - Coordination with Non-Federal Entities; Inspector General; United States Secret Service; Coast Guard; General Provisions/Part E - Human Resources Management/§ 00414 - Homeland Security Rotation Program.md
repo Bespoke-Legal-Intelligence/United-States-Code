@@ -38,7 +38,7 @@
 
 &emsp;&emsp;&emsp;(ii) establish a framework that supports the goals of the Rotation Program and promotes cross-disciplinary rotational opportunities;
 
-&emsp;&emsp;&emsp;(iii) establish eligibility for employees to participate in the Rotation Program and select participants from employees who apply;
+&emsp;&emsp;&emsp;(iii) establish eligibility for employees to participate in the Rotation Program andselect participants from employees who apply;
 
 &emsp;&emsp;&emsp;(iv) establish incentives for employees to participate in the Rotation Program, including promotions and employment preferences;
 

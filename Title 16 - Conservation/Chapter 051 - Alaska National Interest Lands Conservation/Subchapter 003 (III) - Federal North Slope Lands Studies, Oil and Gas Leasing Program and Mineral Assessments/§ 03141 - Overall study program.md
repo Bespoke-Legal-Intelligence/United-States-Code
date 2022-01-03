@@ -2,7 +2,7 @@
 
 #### (a) Area designated
 
-The Secretary shall initiate and carry out a study of all Federal lands (other than submerged lands on the Outer Continental Shelf) in Alaskanorth of 68 degrees north latitude and east of the western boundary of the National Petroleum Reserve—Alaska, other than lands included in the National Petroleum Reserve—Alaska and in conservation system units established by this Act.
+The Secretary shall initiate and carry out a study of all Federal lands (other than submerged lands on the Outer Continental Shelf) in Alaska north of 68 degrees north latitude and east of the western boundary of the National Petroleum Reserve—Alaska, other than lands included in the National Petroleum Reserve—Alaska and in conservation system units established by this Act.
 
 #### (b) Purposes
 
@@ -41,6 +41,8 @@ The Secretary shall submit the study and his findings to the President and the C
 Nothing in this subchapter shall be construed as impeding, delaying, or otherwise affecting the selection and conveyance of land to the State pursuant to the Alaska Statehood Act, or any other Federal law referred to in section 3102(3)(A) of this title, and to the Natives pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\] and this Act.
 
 (Pub. L. 96–487, title X, §1001, Dec. 2, 1980, 94 Stat. 2448.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

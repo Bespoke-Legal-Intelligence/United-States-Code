@@ -56,7 +56,7 @@ The Secretary shall maintain a national health care fraud and abuse data collect
 
 #### (2) Corrections
 
-&emsp;Each Government agency and health plan shall report corrections of information alreadyreported about any final adverse action taken against a health care provider, supplier, or practitioner, in such form and manner that the Secretary prescribes by regulation.
+&emsp;Each Government agency and health plan shall report corrections of information already reported about any final adverse action taken against a health care provider, supplier, or practitioner, in such form and manner that the Secretary prescribes by regulation.
 
 #### (d) Access to reported information
 
@@ -134,6 +134,8 @@ For purposes of this section:
 
 (Aug. 14, 1935, ch. 531, title XI, §1128E, as added Pub. L. 104–191, title II, §221(a), Aug. 21, 1996, 110 Stat. 2009; amended Pub. L. 105–33, title IV, §4331(a)(2), (b), (d), Aug. 5, 1997, 111 Stat. 395, 396; Pub. L. 111–148, title VI, §6403(a), Mar. 23, 2010, 124 Stat. 763.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Health Care Quality Improvement Act of 1986, referred to in subsecs. (a) and (f), is title IV of Pub. L. 99–660, Nov. 14, 1986, 100 Stat. 3784, which is classified generally to chapter 117 (§11101 et seq.) of this title. Part B of the Act is classified generally to subchapter II (§11131 et seq.) of chapter 117 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 11101 of this title and Tables.
@@ -142,7 +144,7 @@ The Internal Revenue Code of 1986, referred to in subsec. (b)(2)(A), is classifi
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–148, §6403(a)(1), added subsec. (a) and struck out former subsec. (a). Prior toamendment, text read as follows: "Not later than January 1, 1997, the Secretary shall establish a national health care fraud and abuse data collection program for the reporting of final adverse actions (not including settlements in which no findings of liability have been made) against health care providers, suppliers, or practitioners as required by subsection (b) of this section, with access as set forth in subsection (c) of this section, and shall maintain a database of the information collected under this section."
+<b>2010</b>—Subsec. (a). Pub. L. 111–148, §6403(a)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "Not later than January 1, 1997, the Secretary shall establish a national health care fraud and abuse data collection program for the reporting of final adverse actions (not including settlements in which no findings of liability have been made) against health care providers, suppliers, or practitioners as required by subsection (b) of this section, with access as set forth in subsection (c) of this section, and shall maintain a database of the information collected under this section."
 
 Subsec. (d). Pub. L. 111–148, §6403(a)(2), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows:
 
@@ -181,6 +183,8 @@ Subsec. (g)(3)(F). Pub. L. 111–148, §6403(a)(4)(B)(ii), redesignated subpar. 
 Subsec. (g)(3)(C). Pub. L. 105–33, §4331(a)(2), substituted "Department of Veterans Affairs" for "Veterans' Administration".
 
 Subsec. (g)(5). Pub. L. 105–33, §4331(b), substituted "paragraphs (1) through (4)" for "paragraph (4)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1997 Amendment
 

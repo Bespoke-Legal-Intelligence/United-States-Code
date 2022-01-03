@@ -10,7 +10,7 @@ The Secretary shall establish a research and education program concerning integr
 
 &emsp;(3) to accumulate and analyze information on agricultural production practices researched or developed under programs established under this subchapter, chapter 86 of this title,<sup>1</sup> and other appropriate programs of the Department of Agriculture to further the development of integrated crop and livestock management systems;
 
-&emsp;(4) to facilitate the adoption of whole-farm integrated crop and livestock management systems through demonstration projects on individual farms, including small and limited resource farms, throughout the United States; and
+&emsp;(4) to facilitate the adoption of whole-farm integrated crop and livestock managementsystems through demonstration projects on individual farms, including small and limited resource farms, throughout the United States; and
 
 &emsp;(5) to evaluate and recommend appropriate integrated crop and livestock management policies and programs.
 
@@ -38,6 +38,8 @@ There are authorized to be appropriated to carry out this section through the Na
 
 (Pub. L. 101–624, title XVI, §1627, Nov. 28, 1990, 104 Stat. 3739; Pub. L. 104–127, title VIII, §862(b)(2), Apr. 4, 1996, 110 Stat. 1174; Pub. L. 110–234, title VII, §7511(c)(16), May 22, 2008, 122 Stat. 1269; Pub. L. 110–246, §4(a), title VII, §7511(c)(16), June 18, 2008, 122 Stat. 1664, 2030; Pub. L. 113–79, title VII, §7202, Feb. 7, 2014, 128 Stat. 880; Pub. L. 115–334, title VII, §7202, Dec. 20, 2018, 132 Stat. 4803.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This subchapter, referred to in subsec. (a)(3), was in the original "this subtitle", meaning subtitle B (§§1619–1629) of title XVI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3733, which enacted this subchapter, repealed sections 4701 to 4710 of this title, and repealed provisions set out as a note under section 4701 of this title. For complete classification of subtitle B to the Code, see Tables.
@@ -57,6 +59,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 <b>2008</b>—Subsec. (d). Pub. L. 110–246, §7511(c)(16), substituted "National Institute of Food and Agriculture" for "Extension Service".
 
 <b>1996</b>—Subsec. (a)(3). Pub. L. 104–127 struck out "and section 5881 of this title" before "and other appropriate".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

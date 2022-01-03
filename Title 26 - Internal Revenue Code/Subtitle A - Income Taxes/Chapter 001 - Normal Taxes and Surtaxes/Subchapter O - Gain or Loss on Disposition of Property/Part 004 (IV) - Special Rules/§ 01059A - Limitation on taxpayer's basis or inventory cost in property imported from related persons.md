@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-If any property is imported into the United States in a transaction (directly or indirectly)between related persons (within the meaning of section 482), the amount of any costs—
+If any property is imported into the United States in a transaction (directly or indirectly) between related persons (within the meaning of section 482), the amount of any costs—
 
 &emsp;(1) which are taken into account in computing the basis or inventory cost of such property by the purchaser, and
 
@@ -23,6 +23,8 @@ For purposes of this section—
 &emsp;Except as provided in regulations, the term "import" means the entering, or withdrawal from warehouse, for consumption.
 
 (Added Pub. L. 99–514, title XII, §1248(a), Oct. 22, 1986, 100 Stat. 2584.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

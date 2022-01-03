@@ -44,13 +44,15 @@
 
 &emsp;&emsp;(E) entity that desires to receive such assistance from a State, territory, or Indian tribe for an activity described in section 12521(a)(5) <sup>2</sup> of this title,
 
-> &emsp;shall prepare, submit to the State educational agency for the State, territory, or Indiantribe, and obtain approval of, an application for the program.
+> &emsp;shall prepare, submit to the State educational agency for the State, territory, or Indian tribe, and obtain approval of, an application for the program.
 
 #### (2) Submission
 
 &emsp;Such application shall be submitted at such time and in such manner, and shall contain such information, as the agency, territory, or Indian tribe may reasonably require.
 
 (Pub. L. 101–610, title I, §113, as added Pub. L. 111–13, title I, §1201, Apr. 21, 2009, 123 Stat. 1471.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -63,6 +65,8 @@ A prior section 12525, Pub. L. 101–610, title I, §113, as added Pub. L. 103�
 Another prior section 12525, Pub. L. 101–610, title I, §115, Nov. 16, 1990, 104 Stat. 3137; Pub. L. 102–384, §4, Oct. 5, 1992, 106 Stat. 1455, related to priority applications and private school participation, prior to repeal by Pub. L. 103–82, §103(a)(2).
 
 A prior section 113 of Pub. L. 101–610 was classified to section 12523 of this title prior to repeal by Pub. L. 103–82.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

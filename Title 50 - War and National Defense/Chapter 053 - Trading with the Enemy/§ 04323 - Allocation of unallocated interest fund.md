@@ -10,13 +10,15 @@ The Alien Property Custodian, when the allocation has been made, is authorized a
 
 #### (c) Credit against amount invested in certificates
 
-In the case of persons entitled, under paragraph (12), (13), (14), or (16) of subsection (b) of section 4309 of this title, to such return, and in the case of persons who would be entitled to such return thereunder if all such money or property had not been returned under paragraph (9) or (10) of such subsection, and in the case of persons entitled to such return under subsection (n) of section 4309 of this title, an amount equal to the aggregate amount allocated to their trusts shall be credited against the sum of $25,000,000 invested in participating certificates under paragraph (1) of subsection (b) of section 4322 of this title. If the aggregate amount so allocated is in excess of $25,000,000, an amount equal to the excess shall be invested in the same manner. Upon the repayment of any of the amounts so invested, under the provisions of section 4 of the Settlement of War Claims Act of1928, the amount so repaid shall be distributed pro rata among such persons, notwithstanding any receipts or releases given by them.
+In the case of persons entitled, under paragraph (12), (13), (14), or (16) of subsection (b) of section 4309 of this title, to such return, and in the case of persons who would be entitled to such return thereunder if all such money or property had not been returned under paragraph (9) or (10) of such subsection, and in the case of persons entitled to such return under subsection (n) of section 4309 of this title, an amount equal to the aggregate amount allocated to their trusts shall be credited against the sum of $25,000,000 invested in participating certificates under paragraph (1) of subsection (b) of section 4322 of this title. If the aggregate amount so allocated is in excess of $25,000,000, an amount equal to the excess shall be invested in the same manner. Upon the repayment of any of the amounts so invested, under the provisions of section 4 of the Settlement of War Claims Act of 1928, the amount so repaid shall be distributed pro rata among such persons, notwithstanding any receipts or releases given by them.
 
 #### (d) Availability of unallocated interest fund
 
 The unallocated interest fund shall be available for carrying out the provisions of this section, including the expenses of making the allocation.
 
 (Oct. 6, 1917, ch. 106, §26, as added Mar. 10, 1928, ch. 167, §15, 45 Stat. 273; amended June 11, 1929, ch. 14, 46 Stat. 6.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -29,6 +31,8 @@ Section was formerly classified to section 26 of the former Appendix to this tit
 #### Amendments
 
 <b>1929</b>—Subsec. (a). Act June 11, 1929, struck out "average rate of" before "earnings" in second sentence.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

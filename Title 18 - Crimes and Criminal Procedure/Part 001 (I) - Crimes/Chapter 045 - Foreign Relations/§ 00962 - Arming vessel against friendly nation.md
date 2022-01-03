@@ -1,6 +1,6 @@
 ### §962. Arming vessel against friendly nation
 
-Whoever, within the United States, furnishes, fits out, arms, or attempts to furnish, fit out or arm, any vessel, with intent that such vessel shall be employed in the service of any foreign prince, or state, or of any colony, district, or people, to cruise, or commit hostilities against the subjects, citizens, or property of any foreign prince or state, or of any colony, district, or people with whom the United States is at peace; or
+Whoever, within the United States, furnishes, fits out, arms, or attempts to furnish, fit out orarm, any vessel, with intent that such vessel shall be employed in the service of any foreign prince, or state, or of any colony, district, or people, to cruise, or commit hostilities against the subjects, citizens, or property of any foreign prince or state, or of any colony, district, or people with whom the United States is at peace; or
 
 Whoever issues or delivers a commission within the United States for any vessel, to the intent that she may be so employed—
 

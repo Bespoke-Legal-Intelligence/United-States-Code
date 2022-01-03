@@ -28,7 +28,7 @@ In text, "section 6101 of title 41" substituted for "section 3709 of the Revised
 
 <b>1988</b>—Pub. L. 100–459 inserted "serving abroad" after "use of the representatives provided for in section 287 of this title", inserted "abroad" after "such living quarters" and struck out at end "Any payments made by United States Government personnel for occupancy by them of living quarters leased or rented under this section shall be credited to the appropriation, fund, or account utilized by the Secretary of State for such lease or rental or to the appropriation, fund, or account currently available for such purpose."
 
-<b>1982</b>—Pub. L. 97–241 substituted "use of the representatives provided for in section 287 of this title and of their appropriate staffs" for "use of the representative of the United States to the United Nations referred to in subsection (a) of section 287 of this title" and inserted provision that payments made by United States Government personnel for occupancy of living quarters leased or rented be credited to the appropriation, fund, or account utilized for such lease or rental or to the appropriation, fund, or account currently available for such purpose.
+<b>1982</b>—Pub. L. 97–241 substituted "use of the representatives provided for in section 287 of this title and oftheir appropriate staffs" for "use of the representative of the United States to the United Nations referred to in subsection (a) of section 287 of this title" and inserted provision that payments made by United States Government personnel for occupancy of living quarters leased or rented be credited to the appropriation, fund, or account utilized for such lease or rental or to the appropriation, fund, or account currently available for such purpose.
 
 <b>1980</b>—Pub. L. 96–465 substituted reference to section 4085 of this title for reference to section 1131 of this title.
 
@@ -116,7 +116,7 @@ Findings.—The Congress makes the following findings:
 
 &emsp;"(8) If the Secretary-General's probable exemptions are adopted, the Soviet Union will be allowed to replace retiring Soviet and Soviet-bloc personnel with new, highly skilled and well-trained intelligence officers of the KGB or the GRU.
 
-&emsp;"(9) The Secretary-General's proposed exceptions would thus provide the Soviet Union with the capability to rebuild its intelligence apparatus within the United States, which was devastated in recent years when the United States ordered severe reductions in the size of the Soviet mission to the United Nations,the Soviet Embassy in Washington, District of Columbia, and the Soviet Consulate in San Francisco, California.
+&emsp;"(9) The Secretary-General's proposed exceptions would thus provide the Soviet Union with the capability to rebuild its intelligence apparatus within the United States, which was devastated in recent years when the United States ordered severe reductions in the size of the Soviet mission to the United Nations, the Soviet Embassy in Washington, District of Columbia, and the Soviet Consulate in San Francisco, California.
 
 &emsp;"(10) Article 100 of the United Nations Charter calls for the establishment of an international civil service whose members are neutral and loyal only to the United Nations.
 
@@ -182,7 +182,7 @@ Assessed Contributions.—For assessed contributions authorized to be appropriat
 
 "(b)
 
-Notice to Congress.—The President shall notify the Congress when a decision is made to withhold any share of the United States assessed contribution to the United Nations or its specialized agencies pursuant to subsection (a) and shall notify the Congress when the decision is made to pay any previously withheld assessed contribution. A notification under this subsection shall include appropriate consultation between the President (or the President's representative) and the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
+Notice to Congress.—The President shall notify the Congress when a decision is made to withhold any share of the United States assessed contribution to theUnited Nations or its specialized agencies pursuant to subsection (a) and shall notify the Congress when the decision is made to pay any previously withheld assessed contribution. A notification under this subsection shall include appropriate consultation between the President (or the President's representative) and the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
 
 "(c)
 

@@ -48,6 +48,8 @@ Oct. 30, 1986, Pub. L. 99–591, title VI, §6002, 100 Stat. 3341–376.
 
 In clause (4), the word "authority" is substituted for "agency" for consistency in the revised title and with other titles of the United States Code.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Airline Deregulation Act of 1978, referred to in par. (4), is Pub. L. 95–504, Oct. 24, 1978, 92 Stat. 1705, as amended, which was classified principally to sections of former Title 49, Transportation. The Act was substantially repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 49, see Table at the beginning of Title 49.

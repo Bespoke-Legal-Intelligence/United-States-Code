@@ -26,6 +26,8 @@ In this subchapter:
 
 (Pub. L. 106–224, title IV, §452, as added Pub. L. 108–412, §1, Oct. 30, 2004, 118 Stat. 2320.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title
 
 For short title of this subchapter as the "Noxious Weed Control and Eradication Act of 2004", see section 451 of Pub. L. 106–224, set out as a note under section 7701 of this title.
@@ -240,7 +242,7 @@ Reporting.—
 
 &emsp;"(1)
 
-In general.—The Secretary shall submit to Congress an annual report that describes the results of carrying out this Act, including a synopsis of any independent review under subsection (I) \[sic\] and details of the manner and purposes for which funds are expended.
+In general.—The Secretary shall submit to Congress an annual report that describes the resultsof carrying out this Act, including a synopsis of any independent review under subsection (I) \[sic\] and details of the manner and purposes for which funds are expended.
 
 &emsp;"(2)
 

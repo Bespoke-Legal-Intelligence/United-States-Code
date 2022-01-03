@@ -18,7 +18,7 @@ Multiple Award Contracts.—When multiple contracts are awarded under section 41
 
 &emsp;(1) the executive agency's need for the services or property ordered is of such unusual urgency that providing the opportunity to all of those contractors would result in unacceptable delays in fulfilling that need;
 
-&emsp;(2) only one of those contractors is capable of providing the services or property required at the level of quality required because the services or property ordered are unique or highly specialized;
+&emsp;(2) only one of those contractors is capable of providing the services or property required at the level of quality required because theservices or property ordered are unique or highly specialized;
 
 &emsp;(3) the task or delivery order should be issued on a sole-source basis in the interest of economy and efficiency because it is a logical follow-on to a task or delivery order already issued on a competitive basis; or
 
@@ -136,5 +136,5 @@ In subsection (g)(2), the words "advocate for competition" are substituted for "
 
 #### Postaward Explanations for Unsuccessful Offerors for Certain Contracts
 
-Pub. L. 116–92, div. A, title VIII, §874, Dec. 20, 2019, 133 Stat. 1527, provided that: "Not later than 180 days after the date of the enactment of this Act \[Dec. 20, 2019\], theFederal Acquisition Regulation shall be revised to require that with respect to an offer for a task order or delivery order in an amount greater than the simplified acquisition threshold (as defined in section 134 of title 41, United States Code) and less than or equal to $5,500,000 issued under an indefinite delivery-indefinite quantity contract, the contracting officer for such contract shall, upon written request from an unsuccessful offeror, provide a brief explanation as to why such offeror was unsuccessful that includes a summary of the rationale for the award and an evaluation of the significant weak or deficient factors in the offeror's offer."
+Pub. L. 116–92, div. A, title VIII, §874, Dec. 20, 2019, 133 Stat. 1527, provided that: "Not later than 180 days afterthe date of the enactment of this Act \[Dec. 20, 2019\], the Federal Acquisition Regulation shall be revised to require that with respect to an offer for a task order or delivery order in an amount greater than the simplified acquisition threshold (as defined in section 134 of title 41, United States Code) and less than or equal to $5,500,000 issued under an indefinite delivery-indefinite quantity contract, the contracting officer for such contract shall, upon written request from an unsuccessful offeror, provide a brief explanation as to why such offeror was unsuccessful that includes a summary of the rationale for the award and an evaluation of the significant weak or deficient factors in the offeror's offer."
 

@@ -10,11 +10,15 @@ The Administrator shall collect, maintain, and disseminate information concernin
 
 (Pub. L. 89–272, title II, §6003, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2823; amended Pub. L. 96–482, §32(g), Oct. 21, 1980, 94 Stat. 2355.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1980</b>—Pub. L. 96–482 designated existing provision as subsec. (a), substituted provision that information be provided in a format determined by the Administrator for provision that information be furnished on a reimbursable basis, and added subsec. (b).
 
+#### <b>Executive Documents</b>
+
 #### Transfer of Functions
 
-For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural GasTransportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 6903 of this title.
+For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 6903 of this title.
 

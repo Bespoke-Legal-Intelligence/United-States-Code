@@ -102,7 +102,7 @@ Requirements.—An examination improvement program meets the requirements of thi
 
 #### Study on Regulatory Burden
 
-Pub. L. 102–242, title II, §221, Dec. 19, 1991, 105 Stat. 2305, required the Federal Financial Institutions Examination Council, by 1 year after Dec. 19, 1991, and in consultation with individuals representing insured depository institutions, consumers, community groups, and other interested parties, to undertake a comprehensive study of the regulatory burden on insured depository institutions of compliance with Federal banking agencies and their regulations and policies, and report to Congress on any revisions of such policies, procedures, and requirements that could reduce unnecessary burdens on insured depository institutions.
+Pub. L. 102–242, title II, §221, Dec. 19, 1991, 105 Stat. 2305, required the Federal Financial Institutions Examination Council, by 1 year after Dec. 19, 1991, and in consultation with individuals representing insured depository institutions, consumers, community groups, and other interested parties, to undertake a comprehensive study of the regulatory burden on insured depository institutions of compliance with Federalbanking agencies and their regulations and policies, and report to Congress on any revisions of such policies, procedures, and requirements that could reduce unnecessary burdens on insured depository institutions.
 
 #### Study and Report Assessing Feasibility and Usefulness of Depository Institutions Making Small Business Loans To Compile and Disclose Loan Information
 

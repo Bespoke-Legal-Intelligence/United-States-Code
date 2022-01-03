@@ -4,6 +4,8 @@ Copies of the Code of Laws relating to the District of Columbia, and of the supp
 
 (July 30, 1947, ch. 388, 61 Stat. 640.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Cross References
 
 Distribution of Statutes at Large, see section 728 of Title 44, Public Printing and Documents.

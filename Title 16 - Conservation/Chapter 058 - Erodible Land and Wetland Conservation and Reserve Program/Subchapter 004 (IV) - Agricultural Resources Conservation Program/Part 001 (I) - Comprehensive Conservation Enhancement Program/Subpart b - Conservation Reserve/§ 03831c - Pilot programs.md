@@ -108,7 +108,7 @@
 
 #### (D) Payments to others
 
-&emsp;&emsp;The Secretary shall make a payment, in accordance with regulations prescribed by the Secretary, in a manner as the Secretary determines is fair and reasonable under the circumstances, if an owner who is entitled to a payment under this section—
+&emsp;&emsp;The Secretary shall make a payment, in accordance with regulations prescribed by the Secretary, in a manner as the Secretarydetermines is fair and reasonable under the circumstances, if an owner who is entitled to a payment under this section—
 
 &emsp;&emsp;&emsp;(i) dies;
 
@@ -158,7 +158,7 @@
 
 &emsp;&emsp;&emsp;(ii) as determined by the Secretary—
 
-&emsp;&emsp;&emsp;&emsp;(I) is located within 1 or more States that are part of the prairie pothole region, as selected by the Secretary based on consultation with State Committeesof the Farm Service Agency and State technical committees established under section 3861(a) of this title from that region;
+&emsp;&emsp;&emsp;&emsp;(I) is located within 1 or more States that are part of the prairie pothole region, as selected by the Secretary based on consultation with State Committees of the Farm Service Agency and State technical committees established under section 3861(a) of this title from that region;
 
 &emsp;&emsp;&emsp;&emsp;(II) had a cropping history or was considered to be planted during each of the 3 crop years preceding enrollment; and
 
@@ -200,7 +200,7 @@
 
 #### (B) Payments
 
-&emsp;&emsp;Except as provided in subparagraphs (E) and (F)(ii)(II), the annual rental rate for a payment under a contract described in paragraph (2) shall be equal to 50 percent of the average rental rate for the applicable county under section 3834(d) of this title, as determined by the Secretary.
+&emsp;&emsp;Except as provided in subparagraphs (E) and (F)(ii)(II), the annual rental rate for apayment under a contract described in paragraph (2) shall be equal to 50 percent of the average rental rate for the applicable county under section 3834(d) of this title, as determined by the Secretary.
 
 #### (C) Limitation on enrolled land
 
@@ -238,7 +238,7 @@
 
 &emsp;&emsp;The harvesting for seed, haying, or grazing of eligible land under subparagraph (A)(ii)(III) outside of the primary nesting season established for the applicable county shall be subject to the conditions that—
 
-&emsp;&emsp;&emsp;(i) with respect to eligible land that is so hayed or grazed, adequate stubble heightshall be maintained to protect the soil on the eligible land, as determined by the applicable State conservationist after considering the advice of the applicable State technical committee; and
+&emsp;&emsp;&emsp;(i) with respect to eligible land that is so hayed or grazed, adequate stubble height shall be maintained to protect the soil on the eligible land, as determined by the applicable State conservationist after considering the advice of the applicable State technical committee; and
 
 &emsp;&emsp;&emsp;(ii) with respect to eligible land that is so harvested for seed—
 
@@ -260,9 +260,13 @@
 
 (Pub. L. 99–198, title XII, §1231C, as added Pub. L. 115–334, title II, §2204, Dec. 20, 2018, 132 Stat. 4538.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Crop Insurance Act, referred to in subsec. (b)(3)(F)(ii)(I), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§1501 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see section 1501 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Soil Health and Income Protection Pilot Program Extension
 

@@ -6,13 +6,19 @@
 
 (Pub. L. 95–242, title IV, §402, Mar. 10, 1978, 92 Stat. 145.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Nuclear Non-Proliferation Act of 1978, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective Mar. 10, 1978, except as otherwise provided and regardless of any requirements for the promulgation of implementing regulations, see section 603(c) of Pub. L. 95–242, set out as a note under section 3201 of Title 22, Foreign Relations and Intercourse.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

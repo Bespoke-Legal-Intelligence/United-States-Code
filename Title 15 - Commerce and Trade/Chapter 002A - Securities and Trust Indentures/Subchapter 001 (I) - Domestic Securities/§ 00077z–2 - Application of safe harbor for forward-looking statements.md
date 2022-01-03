@@ -150,7 +150,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (3) Penny stock
 
-&emsp;The term "penny stock" has the same meaning as in section 78c(a)(51) of this title, and therules and regulations, or orders issued pursuant to that section.
+&emsp;The term "penny stock" has the same meaning as in section 78c(a)(51) of this title, and the rules and regulations, or orders issued pursuant to that section.
 
 #### (4) Going private transaction
 
@@ -170,11 +170,15 @@ For purposes of this section, the following definitions shall apply:
 
 (May 27, 1933, ch. 38, title I, §27A, as added Pub. L. 104–67, title I, §102(a), Dec. 22, 1995, 109 Stat. 749; amended Pub. L. 105–353, title III, §301(a)(5), Nov. 3, 1998, 112 Stat. 3235; Pub. L. 111–203, title IX, §985(a)(4), July 21, 2010, 124 Stat. 1933.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (c)(1)(B)(ii). Pub. L. 111–203 substituted comma for semicolon after "entity" in introductory provisions.
 
 <b>1998</b>—Pub. L. 105–353 made technical correction relating to placement of section in subchapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

@@ -42,7 +42,7 @@ For purposes of subsection (a)—
 
 &emsp;&emsp;(A) A power to consume, invade, or appropriate property for the benefit of the decedent which is limited by an ascertainable standard relating to the health, education, support, or maintenance of the decedent shall not be deemed a general power of appointment.
 
-&emsp;&emsp;(B) A power of appointment created on or before October 21, 1942, which is exercisable by the decedent only in conjunction with another person shall not be deemed a general power of appointment.
+&emsp;&emsp;(B) A power of appointment created on or before October 21, 1942, which is exercisableby the decedent only in conjunction with another person shall not be deemed a general power of appointment.
 
 &emsp;&emsp;(C) In the case of a power of appointment created after October 21, 1942, which is exercisable by the decedent only in conjunction with another person—
 
@@ -68,11 +68,15 @@ For purposes of subsection (a)—
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 385; Pub. L. 87–834, §18(a)(2)(H), Oct. 16, 1962, 76 Stat. 1052; Pub. L. 94–455, title XX, §2009(b)(4)(A), Oct. 4, 1976, 90 Stat. 1894.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Subsec. (a)(2). Pub. L. 94–455 struck out provision that a disclaimer or renunciation of a power of appointment not be deemed a release of that power.
 
 <b>1962</b>—Subsec. (a). Pub. L. 87–834 struck out provisions which excepted real property situated outside of the United States.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

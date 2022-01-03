@@ -1,8 +1,10 @@
 ### §2217a. Power to administer oaths, examine witnesses, or require production of books, etc.
 
-On and after July 24, 1919, in the performance of the duties required of the Bureau of Agricultural Economics in the administration or enforcement of provisions of Acts (United States Cotton Futures Act, Thirty-ninth Statutes at Large, page 476; United States Grain Standards Act, Thirty-ninth Statutes at Large, page 482 \[7 U.S.C. 71 et seq.\]; United States Warehouse Act, Thirty-ninth Statutes at Large, page 486 \[7 U.S.C. 241 et seq.\]; Standard Container Act, Thirty-ninth Statutes at Large, page 673; and the Acts making annual appropriations for the Department of Agriculture) relating to the Department of Agriculture, the Secretary of Agriculture, or any representative specifically authorized in writing by him for the purpose, shall have power to administer oaths, examine witnesses, and call for the production of books and papers.
+On and after July 24, 1919, in the performance of the duties required of the Bureau of Agricultural Economics in the administration or enforcement of provisions of Acts (United States Cotton Futures Act, Thirty-ninth Statutes at Large, page 476; United States Grain Standards Act, Thirty-ninth Statutes at Large, page 482 \[7 U.S.C. 71 et seq.\]; United States Warehouse Act, Thirty-ninth Statutes at Large, page 486 \[7 U.S.C. 241 et seq.\]; Standard Container Act,Thirty-ninth Statutes at Large, page 673; and the Acts making annual appropriations for the Department of Agriculture) relating to the Department of Agriculture, the Secretary of Agriculture, or any representative specifically authorized in writing by him for the purpose, shall have power to administer oaths, examine witnesses, and call for the production of books and papers.
 
 (July 24, 1919, ch. 26, 41 Stat. 267; May 11, 1922, ch. 185, 42 Stat. 532.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -18,11 +20,17 @@ The Standard Container Act, referred to in text, is act Aug. 31, 1916, ch. 426, 
 
 Section was formerly classified to section 420 of this title prior to editorial reclassification and renumbering as this section.
 
-#### Transfer of Functions
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+#### Transfer of Functions
 
 Functions of Bureau of Agricultural Economics transferred to other units of Department of Agriculture by Secretary's memorandum of Nov. 2, 1953.
 
 Act May 11, 1922, transferred powers of former "Bureau of Markets, Bureau of Markets and Crop Estimates, and the Office of Farm Management and Farm Economics" to "Bureau of Agricultural Economics".
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 

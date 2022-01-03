@@ -28,9 +28,7 @@ Implementing Matters.—(1) Payment of indemnification under this section is not
 
 Construction With Other Transfer Authority.—Authority to transfer funds under this section is in addition to any other authority provided by law to transfer funds (whether enacted before, on, or after the date of the enactment of this section) and is not subject to any dollar limitation or notification requirement contained in any other such authority to transfer funds.
 
-\[(f) Repealed. Pub. L. 108–136, div. A, title X, §1031(a)(60)(B), Nov. 24, 2003, 117 Stat. 1603.\]
-
-(g)
+(f)
 
 Definitions.—In this section:
 
@@ -42,13 +40,17 @@ Defense-related aviation insurance.—The term "defense-related aviation insuran
 
 Loss.—The term "loss" includes damage to or destruction of property, personal injury or death, and other liabilities and expenses covered by the defense-related aviation insurance.
 
-(Added Pub. L. 104–201, div. A, title X, §1079(a)(1), Sept. 23, 1996, 110 Stat. 2667; amended Pub. L. 108–136, div. A, title X, §1031(a)(60), Nov. 24, 2003, 117 Stat. 1603; Pub. L. 112–81, div. A, title X, §1064(10), Dec. 31, 2011, 125 Stat. 1587.)
+(Added Pub. L. 104–201, div. A, title X, §1079(a)(1), Sept. 23, 1996, 110 Stat. 2667; amended Pub. L. 108–136, div. A, title X, §1031(a)(60), Nov. 24, 2003, 117 Stat. 1603; Pub. L. 112–81, div. A, title X, §1064(10), Dec. 31, 2011, 125 Stat. 1587; Pub. L. 117–81, div. A, title X, §1083(c)(1)(C), Dec. 27, 2021, 135 Stat. 1923.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 The date of the enactment of this section, referred to in subsec. (e), is the date of enactment of Pub. L. 104–201, which was approved Sept. 23, 1996.
 
 #### Amendments
+
+<b>2021</b>—Subsecs. (f), (g). Pub. L. 117–81 redesignated subsec. (g) as (f).
 
 <b>2011</b>—Subsec. (c). Pub. L. 112–81 substituted "$10,000,000" for "$1,000,000".
 

@@ -14,7 +14,7 @@ To carry out the purposes of subsection (a), the following types of programs for
 
 &emsp;(1) Activities by the Export-Import Bank to complete the review process for eligibility for financing under the Export-Import Bank Act of 1945 \[12 U.S.C. 635 et seq.\].
 
-&emsp;(2) The provision of insurance, reinsurance, financing, or other assistance by the UnitedStates International Development Finance Corporation.
+&emsp;(2) The provision of insurance, reinsurance, financing, or other assistance by the United States International Development Finance Corporation.
 
 &emsp;(3) Assistance under section 2421 of this title (relating to the Trade and Development Agency).
 

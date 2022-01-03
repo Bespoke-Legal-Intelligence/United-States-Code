@@ -52,7 +52,7 @@ A person meets the requirements of this subsection if such person—
 
 &emsp;&emsp;(B) provides to the Secretary an assertion regarding Federal employment tax payments and an examination level attestation on such assertion from an independent certified public accountant not later than the last day of the second month beginning after the end of each calendar quarter.
 
-> &emsp;Such assertion shall state that the organization has withheld and made deposits of all taxes imposed by chapters 21, 22, and 24 in accordance with regulations imposed by the Secretary for such calendar quarter and such examination level attestation shall state that such assertion is fairly stated, in all material respects.
+> &emsp;Such assertion shall state that the organization has withheld and made deposits of alltaxes imposed by chapters 21, 22, and 24 in accordance with regulations imposed by the Secretary for such calendar quarter and such examination level attestation shall state that such assertion is fairly stated, in all material respects.
 
 #### (4) Controlled group rules
 
@@ -119,6 +119,8 @@ Except to the extent necessary for purposes of section 3511, nothing in this sec
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
 (Added Pub. L. 113–295, div. B, title II, §206(b), Dec. 19, 2014, 128 Stat. 4067.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

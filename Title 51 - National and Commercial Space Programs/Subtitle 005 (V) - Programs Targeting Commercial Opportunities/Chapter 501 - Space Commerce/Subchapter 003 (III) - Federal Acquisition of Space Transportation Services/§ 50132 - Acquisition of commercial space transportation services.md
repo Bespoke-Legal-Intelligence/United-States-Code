@@ -2,13 +2,13 @@
 
 (a)
 
-Treatment of Commercial Space Transportation Services as Commercial Service Under Acquisition Laws.—Acquisitions of space transportation services by the Federal Government shall be carried out in accordance with applicable acquisition laws and regulations (including chapters 137 and 140 of title 10). For purposes of such law and regulations, space transportation services shall be considered to be a commercial service.
+Treatment of Commercial Space Transportation Services as Commercial Service Under Acquisition Laws.—Acquisitions of space transportation services by the Federal Government shall be carried out in accordance with applicable acquisition laws and regulations (including applicable provisions of chapters 201 through 285, 341 through 343, and 363 of title 10). For purposes of such law and regulations, space transportation services shall be considered to be a commercial service.
 
 (b)
 
 Safety Standards.—Nothing in this section shall be construed to prohibit the Federal Government from requiring compliance with applicable safety standards.
 
-(Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3400; Pub. L. 115–232, div. A, title VIII, §836(g)(10)(C), Aug. 13, 2018, 132 Stat. 1874.)
+(Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3400; Pub. L. 115–232, div. A, title VIII, §836(g)(10)(C), Aug. 13, 2018, 132 Stat. 1874; Pub. L. 117–81, div. A, title XVII, §1702(l)(10), Dec. 27, 2021, 135 Stat. 2161.)
 
 Historical and Revision Notes
 
@@ -30,11 +30,13 @@ Pub. L. 105–303, title II, §202, Oct. 28, 1998, 112 Stat. 2855.
 
 #### Amendments
 
+<b>2021</b>—Subsec. (a). Pub. L. 117–81 substituted "including applicable provisions of chapters 201 through 285, 341 through 343, and 363" for "including chapters 137 and 140".
+
 <b>2018</b>—Subsec. (a). Pub. L. 115–232 substituted "Commercial Service" for "Commercial Item" in heading and "commercial service" for "commercial item" in text.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub.L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
 

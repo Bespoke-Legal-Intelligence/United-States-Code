@@ -76,7 +76,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 19
 
 49 App.:1551(b)(1)(E).
 
-In subsection (a), the words "the term" are omitted as surplus. The words "the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, and" are omitted as surplus because of the definition of "territory or possession of the United States" in section 40102(a) of therevised title, 48:734, and section 502 of the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America. The text of 49 App.:1305(c) is omitted as obsolete.
+In subsection (a), the words "the term" are omitted as surplus. The words "the Commonwealth of PuertoRico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, and" are omitted as surplus because of the definition of "territory or possession of the United States" in section 40102(a) of the revised title, 48:734, and section 502 of the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America. The text of 49 App.:1305(c) is omitted as obsolete.
 
 In subsection (b)(1) and (3), the words "interstate agency or other" are omitted as surplus. The word "authority" is substituted for "agency" for consistency in the revised title and with other titles of the United States Code.
 
@@ -88,6 +88,8 @@ In subsection (b)(2), the words "pursuant to a certificate issued by the Board",
 
 This amends 49:41713(b)(4)(B)(ii) to correct a cross-reference necessary because of the restatement of subtitle IV of title 49 by the ICC Termination Act (Public Law 104–88, 109 Stat. 803).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1997</b>—Subsec. (b)(4)(B)(ii). Pub. L. 105–102 substituted "13102" for "10102".
@@ -95,6 +97,8 @@ This amends 49:41713(b)(4)(B)(ii) to correct a cross-reference necessary because
 <b>1994</b>—Subsec. (b)(2). Pub. L. 103–305, §601(b)(2)(A), substituted "Paragraphs (1) and (4) of this subsection do" for "Paragraph (1) of this subsection does".
 
 Subsec. (b)(4). Pub. L. 103–305, §601(b)(1), added par. (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

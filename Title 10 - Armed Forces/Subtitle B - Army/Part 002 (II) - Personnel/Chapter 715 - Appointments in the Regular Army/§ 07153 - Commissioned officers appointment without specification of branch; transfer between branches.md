@@ -32,6 +32,8 @@ Subsection (a) is substituted for 10:506(b) (2d sentence) and 506(c) (1st senten
 
 In subsection (b), the words "other than the special branches and the Women's Army Corps" are substituted for 10:506(c) (words between 3d and 4th parentheses). The word "their" is substituted for the words "of the officers concerned". The words "of the Army" are substituted for the words "of the branches, arms, and services". The words "from time to time" and "arms, and services" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 3283 of this title as this section.
@@ -43,6 +45,8 @@ Pub. L. 95–485 struck out ", in the Women's Army Corps," after "special branc
 Subsec. (b). Pub. L. 95–485 struck out "and the Women's Army Corps" after "special branches".
 
 <b>1958</b>—Subsec. (a). Pub. L. 85–600 inserted reference to registrar of the Military Academy.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

@@ -26,6 +26,8 @@ A number of the source provisions of the subchapter are taken from 49:ch. 20. Th
 
 This makes a clarifying amendment to 49:321.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–429 struck out ", respectively" after "of this title".
@@ -34,7 +36,9 @@ Pub. L. 103–272 substituted "section 40102(a) of this title" for "section 101(
 
 <b>1984</b>—Pub. L. 98–216 substituted "49 App. U.S.C." for "49 U.S.C.".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1994 Amendment
 
-Pub. L. 103–429, §9, Oct. 31, 1994, 108 Stat. 4391, provided that: "The amendments made by sections 6(2)–(15), (19)–(35), (37)–(39), (41), (44)–(52), (54)–(62), (65), (66)(B), (70), (73)–(76), and (78)–(81) of this Act \[enacting section 41312 of this title and amending this section and sections 5103, 5104, 5115, 5125, 5307, 5318, 5320, 5323, 5326, 5327, 5331, 5337, 5565, 20136, 22108, 24501, 24904, 30141, 30165, 30166, 30308, 31501, 32101, 32304, 32309, 32505, 32703, 32705, 32706, 32908 to 32910, 32913, 33101, 33106, 40102, 40104, 40110, 41103, 41110, 41734, 44502, 44701, 44711, 44937, 45105, 45302, 46301, 46310, 46502, 47101, 47113, 47114, 47128, 47531, 47532, 60109, and 60112 of this title\] shall take effect on July 5, 1994."
+Pub. L. 103–429, §9, Oct. 31, 1994, 108 Stat. 4391, provided that: "The amendments made by sections6(2)–(15), (19)–(35), (37)–(39), (41), (44)–(52), (54)–(62), (65), (66)(B), (70), (73)–(76), and (78)–(81) of this Act \[enacting section 41312 of this title and amending this section and sections 5103, 5104, 5115, 5125, 5307, 5318, 5320, 5323, 5326, 5327, 5331, 5337, 5565, 20136, 22108, 24501, 24904, 30141, 30165, 30166, 30308, 31501, 32101, 32304, 32309, 32505, 32703, 32705, 32706, 32908 to 32910, 32913, 33101, 33106, 40102, 40104, 40110, 41103, 41110, 41734, 44502, 44701, 44711, 44937, 45105, 45302, 46301, 46310, 46502, 47101, 47113, 47114, 47128, 47531, 47532, 60109, and 60112 of this title\] shall take effect on July 5, 1994."
 

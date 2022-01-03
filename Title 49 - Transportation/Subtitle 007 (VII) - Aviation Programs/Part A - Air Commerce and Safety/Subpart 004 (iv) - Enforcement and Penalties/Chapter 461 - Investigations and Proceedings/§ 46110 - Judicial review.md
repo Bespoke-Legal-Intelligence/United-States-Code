@@ -6,7 +6,7 @@ Filing and Venue.—Except for an order related to a foreign air carrier subject
 
 (b)
 
-Judicial Procedures.—When a petition is filed under subsection (a) of this section, the clerk of the court immediately shall send a copy of the petition to the Secretary, Administrator of the Transportation Security Administration,or Administrator of the Federal Aviation Administration, as appropriate. The Secretary, Administrator of the Transportation Security Administration, or Administrator of the Federal Aviation Administration shall file with the court a record of any proceeding in which the order was issued, as provided in section 2112 of title 28.
+Judicial Procedures.—When a petition is filed under subsection (a) of this section, the clerk of the court immediately shall send a copy of the petition to the Secretary, Administrator of the Transportation Security Administration, or Administrator of the Federal Aviation Administration, as appropriate. The Secretary, Administrator of the Transportation Security Administration, or Administrator of the Federal Aviation Administration shall file with the court a record of any proceeding in which the order was issued, as provided in section 2112 of title 28.
 
 (c)
 
@@ -116,6 +116,8 @@ In subsection (c), the word "amend" is added for consistency in the revised titl
 
 In subsection (d), the words "made in the proceeding conducted by" are substituted for "urged before" for clarity.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Subsection (s) of section 114, referred to in subsec. (a), was redesignated subsec. (r) by Pub. L. 110–161, div. E, title V, §568(a), Dec. 26, 2007, 121 Stat. 2092.
@@ -135,6 +137,8 @@ Pub. L. 115–254, §1991(f)(1), substituted "Administrator of the Transportatio
 <b>2001</b>—Subsec. (a). Pub. L. 107–71, §140(b)(1), inserted "the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or" after "(or".
 
 Subsecs. (b) to (d). Pub. L. 107–71, §140(b)(2), substituted ", Under Secretary, or Administrator" for "or Administrator" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

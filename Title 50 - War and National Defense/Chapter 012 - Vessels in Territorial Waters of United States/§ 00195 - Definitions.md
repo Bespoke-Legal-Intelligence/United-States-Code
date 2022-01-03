@@ -12,6 +12,8 @@ Territorial waters.—The term "territorial waters of the United States" include
 
 (June 15, 1917, ch. 30, title XIII, §1, 40 Stat. 231; Pub. L. 96–70, title III, §3302(b), Sept. 27, 1979, 93 Stat. 498; Pub. L. 107–295, title I, §104(a), Nov. 25, 2002, 116 Stat. 2085.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in text, means act June 15, 1917, ch. 30, 40 Stat. 217, as amended. For complete classification of this Act to the Code, see Tables.
@@ -27,6 +29,8 @@ Section was formerly classified to section 40 of this title. In the original thi
 <b>2002</b>—Pub. L. 107–295 added introductory provisions, designated existing provisions as par. (1), inserted heading, struck out "as used in this Act" before "includes", and added par. (2).
 
 <b>1979</b>—Pub. L. 96–70 struck out "the Canal Zone and" after "this Act includes".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1979 Amendment
 

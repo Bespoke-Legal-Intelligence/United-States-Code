@@ -32,7 +32,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(IV) freedom of the press, including the Internet and social media;
 
-&emsp;&emsp;&emsp;(viii) universal suffrage, including the ultimate aim of the selection of the ChiefExecutive and all members of the Legislative Council by universal suffrage;
+&emsp;&emsp;&emsp;(viii) universal suffrage, including the ultimate aim of the selection of the Chief Executive and all members of the Legislative Council by universal suffrage;
 
 &emsp;&emsp;&emsp;(ix) judicial independence;
 
@@ -62,7 +62,7 @@
 
 #### (3) Additional certifications
 
-&emsp;The certification under section (1) shall be issued annually, but the Secretary may issue additional certifications at any time if the Secretary determines it is warranted by circumstances in Hong Kong.
+&emsp;The certification under section (1) shall be issued annually, but the Secretary may issueadditional certifications at any time if the Secretary determines it is warranted by circumstances in Hong Kong.
 
 #### (b) Waiver authority
 

@@ -28,7 +28,7 @@ The Secretary of Energy, acting through the Administrator of the Energy Informat
 
 &emsp;(2) with respect to the first Commercial Buildings Energy Consumption Survey conducted after April 30, 2015, to the extent full compliance with the requirements of paragraph (1) is not feasible, conduct activities to develop the capability to collect such data and begin to collect such data; and
 
-&emsp;(3) make data collected under paragraphs (1) and (2) available to the public in aggregatedform and provide such data, and any associated results, to the Administrator of the Environmental Protection Agency for use in accordance with subsection (d).
+&emsp;(3) make data collected under paragraphs (1) and (2) available to the public in aggregated form and provide such data, and any associated results, to the Administrator of the Environmental Protection Agency for use in accordance with subsection (d).
 
 #### (d) Recognition of owners and tenants
 

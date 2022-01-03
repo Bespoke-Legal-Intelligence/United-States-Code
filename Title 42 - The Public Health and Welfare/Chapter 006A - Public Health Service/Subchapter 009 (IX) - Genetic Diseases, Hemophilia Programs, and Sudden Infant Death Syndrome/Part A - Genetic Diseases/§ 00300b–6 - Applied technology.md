@@ -12,9 +12,13 @@ The Secretary, acting through an identifiable administrative unit, shall—
 
 (July 1, 1944, ch. 373, title XI, §1107, as added Pub. L. 95–626, title II, §205(d)(1), Nov. 10, 1978, 92 Stat. 3584; amended Pub. L. 97–35, title XXI, §2193(b)(5), Aug. 13, 1981, 95 Stat. 827.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1981</b>—Pub. L. 97–35 substituted provisions relating to allotments under section 702(a) of this title for provisions relating to appropriations under section 300b(b) of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1981 Amendment, Savings, and Transitional Provisions
 

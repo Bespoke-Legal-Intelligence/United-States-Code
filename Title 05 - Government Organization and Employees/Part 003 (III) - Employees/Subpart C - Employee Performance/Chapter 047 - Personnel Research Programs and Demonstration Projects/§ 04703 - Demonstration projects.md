@@ -1,6 +1,6 @@
 ### §4703. Demonstration projects
 
-(a) Except as provided in this section, the Office of Personnel Management may, directly or through agreement or contract with one or moreagencies and other public and private organizations, conduct and evaluate demonstration projects. Subject to the provisions of this section, the conducting of demonstration projects shall not be limited by any lack of specific authority under this title to take the action contemplated, or by any provision of this title or any rule or regulation prescribed under this title which is inconsistent with the action, including any law or regulation relating to—
+(a) Except as provided in this section, the Office of Personnel Management may, directly or through agreement or contract with one or more agencies and other public and private organizations, conduct and evaluate demonstration projects. Subject to the provisions of this section, the conducting of demonstration projects shall not be limited by any lack of specific authority under this title to take the action contemplated, or by any provision of this title or any rule or regulation prescribed under this title which is inconsistent with the action, including any law or regulation relating to—
 
 &emsp;(1) the methods of establishing qualification requirements for, recruitment for, and appointment to positions;
 
@@ -92,7 +92,7 @@
 
 &emsp;(2) if the project is not covered by such a collective bargaining agreement, until there has been consultation or negotiation, as appropriate, by the agency with the labor organization.
 
-(g) Employees within any unit with respect to which a labor organization has not been accorded exclusive recognition under chapter 71 ofthis title shall not be included within any project under subsection (a) of this section unless there has been agency consultation regarding the project with the employees in the unit.
+(g) Employees within any unit with respect to which a labor organization has not been accorded exclusive recognition under chapter 71 of this title shall not be included within any project under subsection (a) of this section unless there has been agency consultation regarding the project with the employees in the unit.
 
 (h) The Office shall provide for an evaluation of the results of each demonstration project and its impact on improving public management.
 
@@ -128,7 +128,7 @@ Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 
 #### Authority of Export-Import Bank To Conduct Demonstration Program
 
-Pub. L. 104–97, §2, Jan. 11, 1996, 109 Stat. 984, provided that: "Notwithstanding section 4701(a)(1)(A) of title 5, United States Code, the Export-Import Bank of the United States may conduct a demonstration project in accordance with section 4703 of such title."
+Pub. L. 104–97, §2, Jan. 11, 1996, 109 Stat. 984, provided that: "Notwithstanding section 4701(a)(1)(A) of title 5,United States Code, the Export-Import Bank of the United States may conduct a demonstration project in accordance with section 4703 of such title."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "of".</i>
 

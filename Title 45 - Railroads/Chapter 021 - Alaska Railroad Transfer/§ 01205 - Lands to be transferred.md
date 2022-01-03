@@ -14,7 +14,7 @@ Lands among the rail properties of the Alaska Railroad shall not be—
 
 #### (b) Review and settlement of claims; administrative adjudication; management of lands; procedures applicable
 
-(1)(A) During the ten months following January 14, 1983, so far as practicable consistent withthe priority of preparing the report required pursuant to section 1204(a) of this title, the Secretary of the Interior, Village Corporations with claims of valid existing rights, and the State shall review and make a good faith effort to settle as many of the claims as possible. Any agreement to settle such claims shall take effect and bind the United States, the State, and the Village Corporation only as of the date of transfer of the railroad.
+(1)(A) During the ten months following January 14, 1983, so far as practicable consistent with the priority of preparing the report required pursuant to section 1204(a) of this title, the Secretary of the Interior, Village Corporations with claims of valid existing rights, and the State shall review and make a good faith effort to settle as many of the claims as possible. Any agreement to settle such claims shall take effect and bind the United States, the State, and the Village Corporation only as of the date of transfer of the railroad.
 
 (B) At the conclusion of the review and settlement process provided in subparagraph (A) of this paragraph, the Secretary of the Interior shall prepare a report identifying lands to be conveyed in accordance with settlement agreements under this chapter or applicable law. Such settlement shall not give rise to a presumption as to whether a parcel of land subject to such agreement is or is not public land.
 
@@ -36,7 +36,7 @@ Lands among the rail properties of the Alaska Railroad shall not be—
 
 (2) No administrative or judicial action under this chapter shall enjoin or otherwise delay the transfer of the Alaska Railroad pursuant to this chapter, or substantially impair or impede the operations of the Alaska Railroad or the State-owned railroad.
 
-(3) Before the date of transfer, the State shall have standing to participate in any administrative determination or judicial review pursuant to this chapter. If transfer to the State does not occur pursuant to section 1203 of this title, the State shall not thereafter have standing to participate in any such determination or review.
+(3) Before the date of transfer, the State shall have standing to participate in any administrative determination or judicial review pursuant to this chapter. If transfer to the State does notoccur pursuant to section 1203 of this title, the State shall not thereafter have standing to participate in any such determination or review.
 
 #### (d) Omitted
 

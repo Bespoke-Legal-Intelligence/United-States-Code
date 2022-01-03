@@ -12,7 +12,7 @@ It shall be unlawful for any registered investment company issuing periodic paym
 
 &emsp;(4) the first payment on such certificate is less than $20, or any subsequent payment is less than $10;
 
-&emsp;(5) if such registered company is a management company, the proceeds of such certificate or the securities in which such proceeds are invested are subject to management fees (other than fees for administrative services of the character described in clause (C), paragraph (2), of section 80a–26(a) of this title) exceeding such reasonable amount as the Commission may prescribe, whether such fees are payable to such company or to investment advisers thereof; or
+&emsp;(5) if such registered company is a management company, the proceeds of such certificate or the securities in which such proceeds are invested are subject to management fees\(other than fees for administrative services of the character described in clause (C), paragraph (2), of section 80a–26(a) of this title) exceeding such reasonable amount as the Commission may prescribe, whether such fees are payable to such company or to investment advisers thereof; or
 
 &emsp;(6) if such registered company is a unit investment trust the assets of which are securities issued by a management company, the depositor of or principal underwriter for such trust, or any affiliated person of such depositor or underwriter, is to receive from such management company or any affiliated person thereof any fee or payment on account of payments on such certificate exceeding such reasonable amount as the Commission may prescribe.
 
@@ -42,7 +42,7 @@ With respect to any periodic payment plan (other than a plan under which the amo
 
 #### (g) Governing provisions; election
 
-Notwithstanding the provisions of subsections (a) and (d), a registered investment company issuing periodic payment plan certificates may elect, by written notice to the Commission, to be governed by the provisions of subsection (h) rather than the provisions of subsections (a) and (d) of this section.
+Notwithstanding the provisions of subsections (a) and (d), a registered investment company issuing periodic payment plan certificates may elect, by written notice to the Commission, to be governed by the provisions of subsection (h)rather than the provisions of subsections (a) and (d) of this section.
 
 #### (h) Sale of certificates; restrictions
 
@@ -88,6 +88,8 @@ Upon making the election specified in subsection (g), it shall be unlawful for a
 
 (Aug. 22, 1940, ch. 686, title I, §27, 54 Stat. 829; Pub. L. 91–547, §16, Dec. 14, 1970, 84 Stat. 1424; Pub. L. 92–165, Nov. 23, 1971, 85 Stat. 487; Pub. L. 104–290, title II, §205(b), Oct. 11, 1996, 110 Stat. 3429; Pub. L. 109–290, §4(a), (b), Sept. 29, 2006, 120 Stat. 1318, 1319.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (i)(2)(B). Pub. L. 109–290, §4(b), substituted "section 80a–26(f)" for "section 80a–26(e)" in two places.
@@ -100,9 +102,13 @@ Subsec. (j). Pub. L. 109–290, §4(a), added subsec. (j).
 
 <b>1970</b>—Subsecs. (d) to (h). Pub. L. 91–547 added subsecs. (d) to (h).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1970 Amendment
 
 Amendment by Pub. L. 91–547 effective on expiration of six months after Dec. 14, 1970, see section 30(3) of Pub. L. 91–547, set out as a note under section 80a–52 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

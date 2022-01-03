@@ -18,9 +18,11 @@ The Director of the Institute shall establish procedures for the selection of th
 
 #### (e) Term of award; renewal
 
-Awards under this section shall be made for a one-year period, and may be renewed for notmore than six additional consecutive one-year periods.
+Awards under this section shall be made for a one-year period, and may be renewed for not more than six additional consecutive one-year periods.
 
-(July 1, 1944, ch. 373, title IV, §445B, formerly Pub. L. 99–660, title IX, §931, Nov. 14, 1986, 100 Stat. 3807; renumbered §445B of act July 1, 1944; amended Pub. L. 100–607, title I, §142(a), (d)(1), Nov. 4, 1988, 102 Stat. 3057.)
+(July 1, 1944, ch. 373, title IV, §445B, formerly Pub. L. 99–660, title IX, §931, Nov. 14, 1986, 100Stat. 3807; renumbered §445B of act July 1, 1944; amended Pub. L. 100–607, title I, §142(a), (d)(1), Nov. 4, 1988, 102 Stat. 3057.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -35,6 +37,8 @@ Subsec. (a). Pub. L. 100–607, §142(d)(1)(A), substituted "the Institute" for 
 Subsec. (b). Pub. L. 100–607, §142(d)(1)(B), substituted "the Institute" for "the National Institute on Aging" and made technical amendment to reference to section 285e–2 of this title to correct reference to corresponding provision of original act.
 
 Subsecs. (c), (d). Pub. L. 100–607, §142(d)(1)(C), substituted "the Institute" for "the National Institute on Aging".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Availability of Appropriations
 

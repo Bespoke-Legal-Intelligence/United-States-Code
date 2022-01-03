@@ -10,6 +10,8 @@ Repeal of section effective Nov. 1, 1987, and applicable only to offenses commit
 
 #### Short Title of 2021 Amendment
 
+Pub. L. 117–59, §1, Nov. 18, 2021, 135 Stat. 1468, provided that: "This Act \[amending sections 111, 115, and 1114 of this title and enacting provisions set out as a note under section 1114 of this title\] may be cited as the 'Jaime Zapata and Victor Avila Federal Officers and Employees Protection Act'."
+
 Pub. L. 116–309, §1, Jan. 5, 2021, 134 Stat. 4922, provided that: "This Act \[enacting section 41312 of Title 34, Crime Control and Law Enforcement, amending section 116 of this title, and enacting provisions set out as notes under section 116 of this title\] may be cited as the 'Strengthening the Opposition to Female Genital Mutilation Act of 2020' or the 'STOP FGM Act of 2020'."
 
 #### Short Title of 2020 Amendment
@@ -44,7 +46,7 @@ Pub. L. 115–271, title VIII, §8121, Oct. 24, 2018, 132 Stat. 4108, provided t
 
 Pub. L. 115–253, §1, Oct. 3, 2018, 132 Stat. 3183, provided that: "This Act \[amending sections 2331, 2333 and 2334 of this title and enacting provisions set out as notes under sections 2331, 2332 and 2334 of this title\] may be cited as the 'Anti-Terrorism Clarification Act of 2018'."
 
-Pub. L. 115–249, §1, Sept. 28, 2018, 132 Stat. 3162, provided that: "This Act \[amending section 247 of this title\] may be cited as the 'Protecting Religiously Affiliated Institutions Act of 2018'."
+Pub. L. 115–249, §1, Sept. 28, 2018, 132 Stat. 3162, provided that: "This Act \[amending section 247 of thistitle\] may be cited as the 'Protecting Religiously Affiliated Institutions Act of 2018'."
 
 Pub. L. 115–164, §1, Apr. 11, 2018, 132 Stat. 1253, provided that: "This Act \[enacting section 2421A of this title, amending sections 1591 and 1595 of this title and section 230 of Title 47, Telecommunications, and enacting provisions set out as notes under section 230 of Title 47\] may be cited as the 'Allow States and Victims to Fight Online Sex Trafficking Act of 2017'."
 
@@ -112,11 +114,11 @@ Pub. L. 111–272, §1, Oct. 12, 2010, 124 Stat. 2855, provided that: "This Act 
 
 Pub. L. 111–225, §1, Aug. 10, 2010, 124 Stat. 2387, provided that: "This Act \[amending section 1791 of this title\] may be cited as the 'Cell Phone Contraband Act of 2010'."
 
-Pub. L. 111–174, §1, May 27, 2010, 124 Stat. 1216, provided that: "This Act \[enacting section 114 of Title 28, Judiciary and Judicial Procedure, amending sections 2519, 3006A, 3154, and 3553 of this title and section 631 of Title 28, and repealing section 114 of Title 28\] may be cited as the 'Federal Judiciary Administrative Improvements Act of 2010'."
+Pub. L. 111–174, §1, May 27, 2010, 124 Stat. 1216, provided that: "This Act \[enacting section 114 of Title 28, Judiciary and Judicial Procedure, amending sections2519, 3006A, 3154, and 3553 of this title and section 631 of Title 28, and repealing section 114 of Title 28\] may be cited as the 'Federal Judiciary Administrative Improvements Act of 2010'."
 
 #### Short Title of 2009 Amendment
 
-Pub. L. 111–84, div. E, §4701, Oct. 28, 2009, 123 Stat. 2835, which set out short title of division E of Pub. L.111–84, was editorially reclassified and is set out as a note under section 10101 of Title 34, Crime Control and Law Enforcement.
+Pub. L. 111–84, div. E, §4701, Oct. 28, 2009, 123 Stat. 2835, which set out short title of division E of Pub. L. 111–84, was editorially reclassified and is set out as a note under section 10101 of Title 34, Crime Control and Law Enforcement.
 
 Pub. L. 111–79, §1, Oct. 19, 2009, 123 Stat. 2086, provided that: "This Act \[enacting section 3512 of this title and amending sections 2703, 2711, and 3127 of this title\] may be cited as the 'Foreign Evidence Request Efficiency Act of 2009'."
 
@@ -172,9 +174,9 @@ Pub. L. 109–177, title VI, §601, Mar. 9, 2006, 120 Stat. 251, provided that: 
 
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–458, title VI, §6701, Dec. 17, 2004, 118 Stat. 3764, provided that: "This subtitle \[subtitle H (§§6701–6704) of title VI of Pub. L. 108–458, enacting section 1038 of this title, amending sections 1001, 1505, and 1958 of this title, and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Stop Terrorist and Military Hoaxes Act of 2004'."
+Pub. L. 108–458, title VI, §6701, Dec. 17, 2004, 118 Stat. 3764, provided that: "This subtitle \[subtitle H (§§6701–6704) of title VI of Pub. L. 108–458, enacting section 1038 of this title, amending sections 1001, 1505, and1958 of this title, and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Stop Terrorist and Military Hoaxes Act of 2004'."
 
-Pub. L. 108–458, title VI, §6801, Dec. 17, 2004, 118 Stat. 3766, provided that: "This subtitle \[subtitle I (§§6801–6803) of title VI of Pub. L. 108–458, enacting section 832 of this title, amending sections 175b, 1961, 2332a,and 2332b of this title and sections 2077 and 2122 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under section 175b of this title\] may be cited as the 'Weapons of Mass Destruction Prohibition Improvement Act of 2004'."
+Pub. L. 108–458, title VI, §6801, Dec. 17, 2004, 118 Stat. 3766, provided that: "This subtitle \[subtitle I (§§6801–6803) of title VI of Pub. L. 108–458, enacting section 832 of this title, amending sections 175b, 1961, 2332a, and 2332b of this title and sections 2077 and 2122 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under section 175b of this title\] may be cited as the 'Weapons of Mass Destruction Prohibition Improvement Act of 2004'."
 
 Pub. L. 108–458, title VI, §6901, Dec. 17, 2004, 118 Stat. 3769, provided that: "This subtitle \[subtitle J (§§6901–6911) of title VI of Pub. L. 108–458, enacting sections 175c, 2332g, and 2332h of this title, amending sections 1956, 2332b, and 2516 of this title, section 2778 of Title 22, Foreign Relations and Intercourse, and sections 2122 and 2272 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under section 175c of this title\] may be cited as the 'Prevention of Terrorist Access to Destructive Weapons Act of 2004'."
 

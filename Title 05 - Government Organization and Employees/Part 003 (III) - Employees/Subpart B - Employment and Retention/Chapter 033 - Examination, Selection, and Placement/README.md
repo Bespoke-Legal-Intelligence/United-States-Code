@@ -153,7 +153,7 @@
 
 Pub. L. 115–232, div. A, title V, §573(b), (e), Aug. 13, 2018, 132 Stat. 1779, which amended analysis by adding item 3330d "Appointment of military spouses" and striking out former item 3330d, "Appointment of certain military spouses", was treated as temporary to reflect the probable intent of Congress, notwithstanding termination provision in section 573(e) of Pub. L. 115–232, which effectively undid the amendments made to section 3330d of this title but only provided that the amendment made to this analysis would expire. See Termination Date of 2018 Amendment note set out under section 3330d of this title.
 
-<b>2016</b>—Pub. L. 114–328, div. A, title XI, §§1136(c), 1140(c), Dec. 23, 2016, 130 Stat. 2460, 2471, which directed the amendment of the table of sections of subchapter I of chapter 33 by adding item 3330e at end and inserting item 3322 after item 3321, respectively, was executed to the table of sections for this chapter, to reflect the probable intent of Congress.
+<b>2016</b>—Pub. L. 114–328, div. A, title XI, §§1136(c), 1140(c), Dec. 23, 2016, 130 Stat. 2460, 2471, which directed theamendment of the table of sections of subchapter I of chapter 33 by adding item 3330e at end and inserting item 3322 after item 3321, respectively, was executed to the table of sections for this chapter, to reflect the probable intent of Congress.
 
 <b>2013</b>—Pub. L. 112–239, div. A, title V, §566(c), Jan. 2, 2013, 126 Stat. 1751, added item 3330d.
 

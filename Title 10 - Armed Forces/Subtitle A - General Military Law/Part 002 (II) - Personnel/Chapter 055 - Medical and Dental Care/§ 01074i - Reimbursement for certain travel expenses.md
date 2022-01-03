@@ -28,9 +28,11 @@ Definitions.—In this section:
 
 (Added Pub. L. 106–398, §1 \[\[div. A\], title VII, §758(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–199; amended Pub. L. 107–107, div. A, title VII, §706, Dec. 28, 2001, 115 Stat. 1163; Pub. L. 108–136, div. A, title VII, §712, Nov. 24, 2003, 117 Stat. 1530; Pub. L. 110–181, div. A, title XVI, §1632(a), (b), Jan. 28, 2008, 122 Stat. 458, 459; Pub. L. 111–84, div. A, title VI, §634, Oct. 28, 2009, 123 Stat. 2363; Pub. L. 113–66, div. A, title VI, §621(d), Dec. 26, 2013, 127 Stat. 784.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>2013</b>—Subsec. (a). Pub. L. 113–66, §621(d)(1), substituted "travel and transportation allowances as specified in regulations prescribed under section 464 of title 37" for "reimbursement for reasonable travel expenses".
+<b>2013</b>—Subsec. (a). Pub. L. 113–66, §621(d)(1), substituted "travel and transportation allowances as specified in regulations prescribed under section 464 of title37" for "reimbursement for reasonable travel expenses".
 
 Subsec. (b). Pub. L. 113–66, §621(d)(2), substituted "
 
@@ -51,6 +53,8 @@ Subsec. (c)(3). Pub. L. 110–181, §1632(b), added par. (3).
 In General.—" before "In any case" and added subsec. (b).
 
 <b>2001</b>—Pub. L. 107–107 inserted before period at end "and, when accompaniment by an adult is necessary, for a parent or guardian of the covered beneficiary or another member of the covered beneficiary's family who is at least 21 years of age".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

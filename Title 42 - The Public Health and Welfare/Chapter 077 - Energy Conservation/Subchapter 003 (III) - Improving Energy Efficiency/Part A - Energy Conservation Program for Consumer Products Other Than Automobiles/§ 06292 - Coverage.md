@@ -64,7 +64,9 @@ The following consumer products, excluding those consumer products designed sole
 
 &emsp;(C) The term "household" shall be defined under rules of the Secretary.
 
-(Pub. L. 94–163, title III, §322, Dec. 22, 1975, 89 Stat. 918; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 100–12, §§3, 11(b)(1),Mar. 17, 1987, 101 Stat. 105, 125; Pub. L. 100–357, §2(b), June 28, 1988, 102 Stat. 672; Pub. L. 102–486, title I, §123(c), Oct. 24, 1992, 106 Stat. 2821; Pub. L. 105–388, §5(a)(3), Nov. 13, 1998, 112 Stat. 3478; Pub. L. 110–140, title III, §§321(a)(2), 324(b), Dec. 19, 2007, 121 Stat. 1577, 1593.)
+(Pub. L. 94–163, title III, §322, Dec. 22, 1975, 89 Stat. 918; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 100–12, §§3, 11(b)(1), Mar. 17, 1987, 101 Stat. 105, 125; Pub. L. 100–357, §2(b), June 28, 1988, 102 Stat. 672; Pub. L. 102–486, title I, §123(c), Oct. 24, 1992, 106 Stat. 2821; Pub. L. 105–388, §5(a)(3), Nov. 13, 1998, 112 Stat. 3478; Pub. L. 110–140, title III, §§321(a)(2), 324(b), Dec. 19, 2007, 121 Stat. 1577, 1593.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -115,6 +117,8 @@ Subsec. (a)(19), (20). Pub. L. 110–140, §324(b), added par. (19) and redesign
 Subsec. (b). Pub. L. 100–12, §11(b)(1), inserted heading.
 
 <b>1978</b>—Subsecs. (a)(14), (b)(1), (2)(C). Pub. L. 95–619 substituted "Secretary" for "Administrator", meaning Administrator of the Federal Energy Administration, wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 
@@ -216,7 +220,7 @@ Alternative System.—(1) If the Secretary makes a determination under subsectio
 
 #### Report on Potential of Cooperative Advanced Appliance Development
 
-Pub. L. 102–486, title I, §127, Oct. 24, 1992, 106 Stat. 2835, provided that not later than 18 months after Oct. 24, 1992, the Secretary would, in consultation with the Administrator of the Environmental Protection Agency, utilities, and appliance manufacturers, submit to Congress, a report, based on certain criteria, on the potential for the development and commercialization of appliances substantially more efficient than required by Federal or State law.
+Pub. L. 102–486, title I, §127, Oct. 24, 1992, 106 Stat. 2835, provided that not later than 18 months after Oct. 24, 1992, the Secretary would, in consultation with the Administrator of the Environmental Protection Agency, utilities, and appliance manufacturers, submit to Congress a report, based on certain criteria, on the potential for the development and commercialization of appliances substantially more efficient than required by Federal or State law.
 
 #### Evaluation of Utility Early Replacement Programs for Appliances
 

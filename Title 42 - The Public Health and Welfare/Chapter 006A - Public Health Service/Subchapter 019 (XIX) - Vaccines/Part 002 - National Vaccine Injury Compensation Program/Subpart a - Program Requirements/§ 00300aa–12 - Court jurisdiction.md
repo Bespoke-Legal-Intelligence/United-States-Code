@@ -22,7 +22,7 @@ The United States Court of Federal Claims and the United States Court of Federal
 
 (3) A special master's office shall be terminated if the judges of the United States Court of Federal Claims determine, upon advice of the chief special master, that the services performed by that office are no longer needed.
 
-(4) The appointment of any individual as a special master shall be for a term of 4 years, subject to termination under paragraphs (2) and (3). Individuals serving as special masters on December 19, 1989, shall serve for 4 years from the date of their original appointment, subject to termination under paragraphs (2) and (3). The chief special master in office on December 19, 1989, shall continue to serve as chief special master for the balance of the master's term, subject to termination under paragraphs (2) and (3).
+(4) The appointment of any individual as a special master shall be for a term of 4 years, subject to termination under paragraphs (2) and (3). Individuals serving as special masters on December 19, 1989, shall serve for 4 years from the date of their original appointment, subject to termination under paragraphs (2) and (3). The chief special master in office on December 19,1989, shall continue to serve as chief special master for the balance of the master's term, subject to termination under paragraphs (2) and (3).
 
 (5) The compensation of the special masters shall be determined by the judges of the United States Court of Federal Claims, upon advice of the chief special master. The salary of the chief special master shall be the annual rate of basic pay for level IV of the Executive Schedule, as prescribed by section 5315, title 5. The salaries of the other special masters shall not exceed the annual rate of basic pay of level V of the Executive Schedule, as prescribed by section 5316, title 5.
 
@@ -82,7 +82,7 @@ The United States Court of Federal Claims and the United States Court of Federal
 
 (C) In conducting a proceeding on a petition a special master shall suspend the proceedings one time for 30 days on the motion of either party. After a motion for suspension is granted, further motions for suspension by either party may be granted by the special master, if the special master determines the suspension is reasonable and necessary, for an aggregate period not to exceed 150 days.
 
-(D) If, in reviewing proceedings on petitions for vaccine-related injuries or deaths associated with the administration of vaccines before October 1, 1988, the chief special master determines that the number of filings and resultant workload place an undue burden on the parties or the special master involved in such proceedings, the chief special master may, in the interest of justice, suspend proceedings on any petition for up to 30 months (but for not more than 6 months at a time) in addition to the suspension time under subparagraph (C).
+(D) If, in reviewing proceedings on petitions for vaccine-related injuries or deaths associated with the administration of vaccines before October 1, 1988, the chief special master determines that the number of filings and resultant workload place an undue burden on the parties or the special master involved in such proceedings, the chief special master may, in the interest of justice, suspend proceedings on any petition for upto 30 months (but for not more than 6 months at a time) in addition to the suspension time under subparagraph (C).
 
 (4)(A) Except as provided in subparagraph (B), information submitted to a special master or the court in a proceeding on a petition may not be disclosed to a person who is not a party to the proceeding without the express written consent of the person who submitted the information.
 
@@ -96,7 +96,7 @@ The United States Court of Federal Claims and the United States Court of Federal
 
 #### (e) Action by United States Court of Federal Claims
 
-(1) Upon issuance of the special master's decision, the parties shall have 30 days to file with the clerk of the United States Court of Federal Claims a motion to have the court review thedecision. If such a motion is filed, the other party shall file a response with the clerk of the United States Court of Federal Claims no later than 30 days after the filing of such motion.
+(1) Upon issuance of the special master's decision, the parties shall have 30 days to file with the clerk of the United States Court of Federal Claims a motion to have the court review the decision. If such a motion is filed, the other party shall file a response with the clerk of the United States Court of Federal Claims no later than 30 days after the filing of such motion.
 
 (2) Upon the filing of a motion under paragraph (1) with respect to a petition, the United States Court of Federal Claims shall have jurisdiction to undertake a review of the record of the proceedings and may thereafter—
 
@@ -112,7 +112,7 @@ The United States Court of Federal Claims and the United States Court of Federal
 
 #### (f) Appeals
 
-The findings of fact and conclusions of law of the United States Court of Federal Claims on a petition shall be final determinations of the matters involved, except that the Secretary or any petitioner aggrieved by the findings or conclusions of the court may obtain review of the judgment of the court in the United States court of appeals for the Federal Circuit upon petition filed within 60 days of the date of the judgment with such court of appeals within 60 days of the date of entry of the United States Claims Court's <sup>2</sup> judgment with such court of appeals.
+The findings of fact and conclusions of law of the United States Court of Federal Claims on a petition shall be final determinations of the matters involved, except that the Secretary or any petitioner aggrieved by the findings or conclusions of the court may obtain review of the judgment of the court in the United States court of appeals for the Federal Circuit upon petition filed within 60 days of the date of the judgment with such court of appeals within 60 days of the date of entry of the United States Claims Court's <sup>1</sup> judgment with such court of appeals.
 
 #### (g) Notice
 
@@ -125,6 +125,8 @@ If—
 > the special master or court shall notify the petitioner under such petition that the petitioner may withdraw the petition under section 300aa–21(b) of this title or the petitioner may choose under section 300aa–21(b) of this title to have the petition remain before the special master or court, as the case may be.
 
 (July 1, 1944, ch. 373, title XXI, §2112, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3761; amended Pub. L. 100–203, title IV, §§4303(d)(2)(A), 4307(3), 4308(a), (b), Dec. 22, 1987, 101 Stat. 1330–222, 1330–224; Pub. L. 100–360, title IV, §411(o)(2), (3)(A), July 1, 1988, 102 Stat. 808; Pub. L. 101–239, title VI, §6601(d)–(i), Dec. 19, 1989, 103 Stat. 2286–2290; Pub. L. 101–502, §5(b), Nov. 3, 1990, 104 Stat. 1286; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 102–168, title II, §201(c), (d)(1), (h)(2), (3), Nov. 26, 1991, 105 Stat. 1103, 1104; Pub. L. 102–572, title IX, §902(b), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–66, title XIII, §13632(c), Aug. 10, 1993, 107 Stat. 646.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -142,7 +144,7 @@ A prior section 2112 of act July 1, 1944, was successively renumbered by subsequ
 
 <b>1993</b>—Subsec. (d)(3)(D). Pub. L. 103–66 substituted "30 months (but for not more than 6 months at a time)" for "540 days".
 
-<b>1992</b>—Subsecs. (a), (c) to (g). Pub. L. 102–572 substituted "United States Court of Federal Claims" for "United States Claims Court" and "Court of Federal Claims" for "Claims Court", wherever appearing.
+<b>1992</b>—Subsecs. (a), (c) to (g). Pub. L. 102–572 substituted "United States Court of Federal Claims" for"United States Claims Court" and "Court of Federal Claims" for "Claims Court", wherever appearing.
 
 <b>1991</b>—Subsec. (d)(3)(D). Pub. L. 102–168, §201(c), (h)(2), realigned margin and substituted "540 days" for "180 days".
 
@@ -202,6 +204,8 @@ Subsec. (f). Pub. L. 100–203, §4303(d)(2)(A), struck out subsec. (f) which re
 
 Subsec. (g). Pub. L. 100–203, §4303(d)(2)(A), redesignated subsec. (g) as (e).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 "United States magistrate judges" substituted for "United States magistrates" in subsec. (c)(6)(C) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
@@ -224,7 +228,7 @@ For applicability of amendments by Pub. L. 101–239 to petitions filed after De
 
 #### Effective Date of 1988 Amendment
 
-Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
+Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Referenceto OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 
 #### Termination of Reporting Requirements
 
@@ -237,6 +241,4 @@ Section 322(c) of Pub. L. 99–660, as added by Pub. L. 101–502, §5(g)(2), No
 \[Enactment of section 322(c) of Pub. L. 99–660 by section 5(g)(2) of Pub. L. 101–502, set out above, effective Nov. 14, 1986, see section 5(h) of Pub. L. 101–502, set out as an Effective Date of 1990 Amendment note under section 300aa–11 of this title.\]
 
 <i><sup>1</sup></i><i> So in original. Probably should be a reference to the United States Court of Federal Claims.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be a reference to the United States Court of Federal Claims.</i>
 

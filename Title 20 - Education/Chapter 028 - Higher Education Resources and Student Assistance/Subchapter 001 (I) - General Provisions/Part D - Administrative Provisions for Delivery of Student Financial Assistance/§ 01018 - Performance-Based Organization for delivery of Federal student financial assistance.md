@@ -60,13 +60,23 @@
 
 &emsp;&emsp;(B) Annual development of a budget for the activities and functions of the PBO, in consultation with the Secretary, and for consideration and inclusion in the Department's annual budget submission.
 
+&emsp;&emsp;(C) Taking action to prevent and address the improper use of access devices, as described in section 1092b(d)(7) of this title, including by—
+
+&emsp;&emsp;&emsp;(i) detecting common patterns of improper use of any system that processes payments on Federal Direct Loans or other Department information technology systems;
+
+&emsp;&emsp;&emsp;(ii) maintaining a reporting system for contractors involved in the processing of payments on Federal Direct Loans in order to allow those contractors to alert the Secretary of potentially improper use of Department information technology systems;
+
+&emsp;&emsp;&emsp;(iii) proactively contacting Federal student loan borrowers whose Federal student loan accounts demonstrate a likelihood of improper use in order to warn those borrowers of suspicious activity or potential fraud regarding their Federal student loan accounts; and
+
+&emsp;&emsp;&emsp;(iv) providing clear and simple disclosures in communications with borrowers who are applying for or requesting assistance with Federal Direct Loan programs (including assistance or applications regarding income-driven repayment, forbearance, deferment, consolidation, rehabilitation, cancellation, and forgiveness) to ensure that borrowers are aware that the Department will never require borrowers to pay for such assistance or applications.
+
 #### (3) Additional functions
 
 &emsp;The Secretary may allocate to the PBO such additional functions as the Secretary and the Chief Operating Officer determine are necessary or appropriate to achieve the purposes of the PBO.
 
 #### (4) Independence
 
-&emsp;Subject to paragraph (1), in carrying out its functions, the PBO shall exercise independent control of its budget allocations and expenditures, personnel decisions and processes, procurements, and other administrative and management functions.
+&emsp;Subject to paragraph (1), in carrying out its functions, the PBO shall exercise independentcontrol of its budget allocations and expenditures, personnel decisions and processes, procurements, and other administrative and management functions.
 
 #### (5) Audits and review
 
@@ -266,25 +276,11 @@ The PBO shall establish an annual performance management system, subject to comp
 
 #### (i) Authorization of appropriations
 
-The Secretary shall allocate from funds made available under section 1087h of this title suchfunds as are appropriate to the functions assumed by the PBO. In addition, there are authorized to be appropriated such sums as may be necessary to carry out the purposes of this part.
+The Secretary shall allocate from funds made available under section 1087h of this title such funds as are appropriate to the functions assumed by the PBO. In addition, there are authorized to be appropriated such sums as may be necessary to carry out the purposes of this part.
 
 (Pub. L. 89–329, title I, §141, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1604; amended Pub. L. 110–315, title I, §§103(b)(2), 117, Aug. 14, 2008, 122 Stat. 3088, 3114; Pub. L. 111–39, title I, §101(b)(5), July 1, 2009, 123 Stat. 1935; Pub. L. 116–251, §5, Dec. 22, 2020, 134 Stat. 1131.)
 
-#### Amendment of Subsection (b)(2)
-
-<i>Pub. L. 116–251, §§5, 6, Dec. 22, 2020, 134 Stat. 1131, 1132, provided that, effective 180 days after Dec. 22, 2020, subsection (b)(2) of this section is amended by adding at the end the following:</i>
-
-&emsp;&emsp;<i>(C) Taking action to prevent and address the improper use of access devices, as described in section 1092b(d)(7) of this title, including by—</i>
-
-&emsp;&emsp;&emsp;<i>(i) detecting common patterns of improper use of any system that processes payments on Federal Direct Loans or other Department information technology systems;</i>
-
-&emsp;&emsp;&emsp;<i>(ii) maintaining a reporting system for contractors involved in the processing of payments on Federal Direct Loans in order to allow those contractors to alert the Secretary of potentially improper use of Department information technology systems;</i>
-
-&emsp;&emsp;&emsp;<i>(iii) proactively contacting Federal student loan borrowers whose Federal student loan accounts demonstrate a likelihood of improper use in order to warn those borrowers of suspicious activity or potential fraud regarding their Federal student loan accounts; and</i>
-
-&emsp;&emsp;&emsp;<i>(iv) providing clear and simple disclosures in communications with borrowers who are applying for or requesting assistance with Federal Direct Loan programs (including assistance or applications regarding income-driven repayment, forbearance, deferment, consolidation, rehabilitation, cancellation, and forgiveness) to ensure that borrowers are aware that the Department will never require borrowers to pay for such assistance or applications.</i>
-
-<i>See 2020 Amendment note below.</i>
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -367,6 +363,8 @@ Subsec. (g)(3). Pub. L. 110–315, §117(6), struck out "not more than 25" befor
 Subsec. (h). Pub. L. 110–315, §117(7), substituted "effectiveness" for "organizational effectiveness".
 
 Subsecs. (i), (j). Pub. L. 110–315, §117(8)–(10), redesignated subsec. (j) as (i), struck out ", including transition costs" before period at end, and struck out former subsec. (i). Text of former subsec. (i) read as follows: "The Secretary and the Chief Operating Officer, not later than 180 days after October 7, 1998, shall report to Congress on the proposed budget and sources of funding for the operation of the PBO."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 

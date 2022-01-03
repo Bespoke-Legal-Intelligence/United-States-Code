@@ -8,7 +8,7 @@ The Secretary shall, as soon as practicable after the end of each fiscal year, c
 
 &emsp;&emsp;(B) areas within such areas which are unincorporated or are specified by the Bureau of the Census, Department of Commerce, as rural areas;
 
-&emsp;(2) an estimate of (A) the domestic and foreign energy supply on which the United States will be expected to rely to meet such needs in an economic manner with due regard for the protection of the environment, the conservation of natural resources, and the implementation of foreign policy objectives, and (B) thequantities of energy expected to be provided by different sources (including petroleum, natural and synthetic gases, coal, uranium, hydroelectric, solar, and other means) and the expected means of obtaining such quantities;
+&emsp;(2) an estimate of (A) the domestic and foreign energy supply on which the United States will be expected to rely to meet such needs in an economic manner with due regard for the protection of the environment, the conservation of natural resources, and the implementation of foreign policy objectives, and (B) the quantities of energy expected to be provided by different sources (including petroleum, natural and synthetic gases, coal, uranium, hydroelectric, solar, and other means) and the expected means of obtaining such quantities;
 
 &emsp;(3) current and foreseeable trends in the price, quality, management, and utilization of energy resources and the effects of those trends on the social, environmental, economic, and other requirements of the Nation;
 
@@ -24,6 +24,8 @@ The Secretary shall, as soon as practicable after the end of each fiscal year, c
 
 (Pub. L. 95–91, title VI, §657, Aug. 4, 1977, 91 Stat. 603; Pub. L. 104–66, title I, §1052(g), Dec. 21, 1995, 109 Stat. 718.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 5914 of this title, referred to in text, was omitted from the Code.
@@ -34,9 +36,11 @@ This chapter, referred to in par. (5), was in the original "this Act", meaning P
 
 <b>1995</b>—Pub. L. 104–66 inserted "section 6325(c) of this title, section 10224(c) of this title," after "section 774 of title 15," in introductory provisions.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 3rd item on page 88 identifies a reporting provision which, as subsequently amended, is contained in this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed inHouse Document No. 103–7 (in which the 3rd item on page 88 identifies a reporting provision which, as subsequently amended, is contained in this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

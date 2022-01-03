@@ -2,7 +2,7 @@
 
 (a) Whoever—
 
-&emsp;(1) willfully uses the mails for the mailing, carriage in the mails, or delivery of any sexually oriented advertisement in violation of section 3010 of title 39, or willfully violatesany regulations of the Board of Governors issued under such section; or
+&emsp;(1) willfully uses the mails for the mailing, carriage in the mails, or delivery of any sexually oriented advertisement in violation of section 3010 of title 39, or willfully violates any regulations of the Board of Governors issued under such section; or
 
 &emsp;(2) sells, leases, rents, lends, exchanges, or licenses the use of, or, except for the purpose expressly authorized by section 3010 of title 39, uses a mailing list maintained by the Board of Governors under such section;
 

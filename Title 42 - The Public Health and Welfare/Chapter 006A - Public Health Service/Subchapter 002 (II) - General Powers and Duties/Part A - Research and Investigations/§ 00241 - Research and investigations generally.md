@@ -16,7 +16,7 @@ The Secretary shall conduct in the Service, and encourage, cooperate with, and r
 
 &emsp;(6) make available, to health officials, scientists, and appropriate public and other nonprofit institutions and organizations, technical advice and assistance on the application of statistical methods to experiments, studies, and surveys in health and medical fields;
 
-&emsp;(7) enter into contracts, including contracts for research in accordance with and subject to the provisions of law applicable to contracts entered into by the military departments under sections 2353 and 2354 of title 10, except that determination, approval, and certification required thereby shall be by the Secretary of Health and Human Services; and
+&emsp;(7) enter into contracts, including contracts for research in accordance with and subject to the provisions of law applicable to contracts entered into by the military departments under sections 3861 and 4141 of title 10, except that determination, approval, and certification required thereby shall be by the Secretary of Health and Human Services; and
 
 &emsp;(8) adopt, upon recommendations of the advisory councils to the appropriate entities of the Department or, with respect to mental health, the National Advisory Mental Health Council, such additional means as the Secretary considers necessary or appropriate to carry out the purposes of this section.
 
@@ -74,7 +74,7 @@ The Secretary may conduct biomedical research, directly or through grants or con
 
 (D) Any person to whom a certificate is issued under subparagraph (A) to protect the privacy of an individual described in such subparagraph shall not, in any Federal, State, or local civil, criminal, administrative, legislative, or other proceeding, disclose or provide the name of such individual or any such information, document, or biospecimen that contains identifiable, sensitive information about the individual and that was created or compiled for purposes of the research, except in the circumstance described in subparagraph (C)(iii).
 
-(E) Identifiable, sensitive information protected under subparagraph (A), and all copies thereof, shall be immune from the legal process, and shall not, without the consent of the individual to whom the information pertains, be admissible as evidence or used for any purpose in any action, suit, or other judicial, legislative, or administrative proceeding.
+(E) Identifiable, sensitive information protected under subparagraph (A), and all copies thereof, shall be immune from the legal process,and shall not, without the consent of the individual to whom the information pertains, be admissible as evidence or used for any purpose in any action, suit, or other judicial, legislative, or administrative proceeding.
 
 (F) Identifiable, sensitive information collected by a person to whom a certificate has been issued under subparagraph (A), and all copies thereof, shall be subject to the protections afforded by this section for perpetuity.
 
@@ -116,13 +116,17 @@ Subchapter I of chapter 35 of title 44 shall not apply to the voluntary collecti
 
 (1) The Secretary may make available to individuals and entities, for biomedical and behavioral research, substances and living organisms. Such substances and organisms shall be made available under such terms and conditions (including payment for them) as the Secretary determines appropriate.
 
-(2) Where research substances and living organisms are made available under paragraph (1)through contractors, the Secretary may direct such contractors to collect payments on behalf of the Secretary for the costs incurred to make available such substances and organisms and to forward amounts so collected to the Secretary, in the time and manner specified by the Secretary.
+(2) Where research substances and living organisms are made available under paragraph (1) through contractors, the Secretary may direct such contractors to collect payments on behalf of the Secretary for the costs incurred to make available such substances and organisms and to forward amounts so collected to the Secretary, in the time and manner specified by the Secretary.
 
 (3) Amounts collected under paragraph (2) shall be credited to the appropriations accounts that incurred the costs to make available the research substances and living organisms involved, and shall remain available until expended for carrying out activities under such accounts.
 
-(July 1, 1944, ch. 373, title III, §301, 58 Stat. 691; July 3, 1946, ch. 538, §7(a), (b), 60 Stat. 423; June 16, 1948, ch. 481, §4(e), (f), 62 Stat. 467; June 24, 1948, ch. 621, §4(e), (f), 62 Stat. 601; June 25, 1948, ch. 654, §1, 62 Stat. 1017; July 3, 1956, ch. 510, §4, 70 Stat. 490; Pub. L. 86–798, Sept. 15, 1960, 74 Stat. 1053; Pub. L. 87–838, §2, Oct. 17, 1962, 76 Stat. 1073; Pub. L. 89–115, §3, Aug. 9, 1965, 79 Stat. 448; Pub. L. 90–174, §9, Dec. 5, 1967, 81 Stat. 540; Pub. L. 91–513, title I, §3(a), Oct. 27, 1970, 84 Stat. 1241; Pub. L. 91–515, title II, §292, Oct. 30, 1970, 84 Stat. 1308; Pub. L. 92–218, §6(a)(2), Dec. 23, 1971, 85 Stat. 785; Pub. L. 92–423, §7(b), Sept. 19, 1972, 86 Stat. 687; Pub. L. 93–282, title I, §122(b), May 14, 1974, 88 Stat. 132; Pub. L. 93–348, title I, §104(a)(1), July 12, 1974, 88 Stat. 346; Pub. L. 93–352, title I, §111, July 23, 1974, 88 Stat. 360; Pub. L. 94–278, title I, §111, Apr. 22, 1976, 90 Stat. 405; Pub. L. 95–622, title II, §§261, 262, Nov. 9, 1978, 92 Stat. 3434; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 99–158, §3(a)(5), Nov. 20, 1985, 99 Stat. 879; Pub. L. 99–570, title IV, §4021(b)(2), Oct. 27, 1986, 100 Stat. 3207–124; Pub. L. 99–660, title I, §104, Nov. 14, 1986, 100 Stat. 3751; Pub. L. 100–607, title I, §163(1), (2), Nov. 4, 1988, 102 Stat. 3062; Pub. L. 103–43, title XX, §2009, June 10, 1993, 107 Stat. 213; Pub. L. 109–450, §3(a), Dec. 22, 2006, 120 Stat. 3341; Pub. L. 114–255, div. A, title II, §§2012(a), 2013, 2035, 2043, Dec. 13, 2016, 130 Stat. 1049, 1050, 1062, 1074.)
+(July 1, 1944, ch. 373, title III, §301, 58 Stat. 691; July 3, 1946, ch. 538, §7(a), (b), 60 Stat. 423; June 16, 1948, ch. 481, §4(e), (f), 62 Stat. 467; June 24, 1948, ch. 621, §4(e), (f), 62 Stat. 601; June 25, 1948, ch. 654, §1, 62 Stat. 1017; July 3, 1956, ch. 510, §4, 70 Stat. 490; Pub. L. 86–798, Sept. 15, 1960, 74 Stat. 1053; Pub. L. 87–838, §2, Oct. 17, 1962, 76 Stat. 1073; Pub. L. 89–115, §3, Aug. 9, 1965, 79 Stat. 448; Pub. L. 90–174, §9, Dec. 5, 1967, 81 Stat. 540; Pub. L. 91–513, title I, §3(a), Oct. 27, 1970, 84 Stat. 1241; Pub. L. 91–515, title II, §292, Oct. 30, 1970, 84 Stat. 1308; Pub. L. 92–218, §6(a)(2), Dec. 23, 1971, 85 Stat. 785; Pub. L. 92–423, §7(b), Sept. 19, 1972, 86 Stat. 687; Pub. L. 93–282, title I, §122(b), May 14, 1974, 88 Stat. 132; Pub. L. 93–348, title I, §104(a)(1), July 12, 1974, 88 Stat. 346; Pub. L. 93–352, title I, §111, July 23, 1974, 88 Stat. 360; Pub. L. 94–278, title I, §111, Apr. 22, 1976, 90 Stat. 405; Pub. L. 95–622, title II, §§261, 262, Nov. 9, 1978, 92 Stat. 3434; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 99–158, §3(a)(5), Nov. 20, 1985, 99 Stat. 879; Pub. L. 99–570, title IV, §4021(b)(2), Oct. 27, 1986, 100 Stat. 3207–124; Pub. L. 99–660, title I, §104, Nov. 14, 1986, 100 Stat. 3751; Pub. L. 100–607, title I, §163(1), (2), Nov. 4, 1988, 102 Stat. 3062; Pub. L. 103–43, title XX, §2009, June 10, 1993, 107 Stat. 213; Pub. L. 109–450, §3(a), Dec. 22, 2006, 120 Stat. 3341; Pub. L. 114–255, div. A, title II, §§2012(a), 2013, 2035, 2043, Dec. 13, 2016, 130 Stat. 1049, 1050, 1062, 1074; Pub. L. 117–81, div. A, title XVII, §1702(j)(1)(A), Dec. 27, 2021, 135 Stat. 2159.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(7). Pub. L. 117–81 substituted "sections 3861 and 4141" for "sections 2353 and 2354".
 
 <b>2016</b>—Subsec. (a). Pub. L. 114–255, §2043(1), redesignated concluding provisions of subsec. (a) as par. (1) of subsec. (h).
 
@@ -194,9 +198,11 @@ Subsec. (g). Acts June 16, 1948, §4(f), and June 24, 1948, §4(f), made provisi
 
 Subsec. (g). Act July 3, 1946, gave National Advisory Health Council the right to make recommendations to carry out purposes of this section.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
-"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsec. (a)(7), and "Department of Health and Human Services" substituted for "Department of Health, Education, and Welfare" in subsec. (b)(1), (3), and (4)(D)(I), (II), pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsec. (a)(7), and "Department of Health and Human Services" substituted for "Department of Health, Education, and Welfare" in subsec. (b)(1), (3), and (4)(D)(I), (II), pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
 #### Effective Date of 1978 Amendment
 
@@ -250,7 +256,7 @@ Pub. L. 103–43, title XIX, §1910, June 10, 1993, 107 Stat. 205, directed Secr
 
 #### Study of Thyroid Morbidity for Hanford, Washington
 
-Pub. L. 100–607, title I, §161, Nov. 4, 1988, 102 Stat. 3059, as amended by Pub. L. 102–531, title III, §312(e)(1), Oct. 27, 1992, 106 Stat. 3506, directed Secretary of Health and Human Services, acting through Director of Centers for Disease Control and Prevention, to conduct a study of thyroid morbidity of the population, including Indian tribes and tribal organizations, in vicinity of Hanford, in State of Washington, authorized Director to contract out portions of study, and required Director, not later than 42 months after Nov. 4, 1988, to transmit a report, including such study, to Congress, chief executive officers of States of Oregon and Washington, and governing officials of Indian tribes in vicinity of Hanford, Washington.
+Pub. L. 100–607, title I, §161, Nov. 4, 1988, 102 Stat. 3059, as amended by Pub. L. 102–531, title III, §312(e)(1),Oct. 27, 1992, 106 Stat. 3506, directed Secretary of Health and Human Services, acting through Director of Centers for Disease Control and Prevention, to conduct a study of thyroid morbidity of the population, including Indian tribes and tribal organizations, in vicinity of Hanford, in State of Washington, authorized Director to contract out portions of study, and required Director, not later than 42 months after Nov. 4, 1988, to transmit a report, including such study, to Congress, chief executive officers of States of Oregon and Washington, and governing officials of Indian tribes in vicinity of Hanford, Washington.
 
 #### National Commission on Sleep Disorders Research
 
@@ -290,6 +296,8 @@ Pub. L. 97–414, §7, Jan. 4, 1983, 96 Stat. 2059, as amended by Pub. L. 109–
 
 Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 
+#### <b>Executive Documents</b>
+
 #### Executive Order No. 13435
 
 Ex. Ord. No. 13435, June 20, 2007, 72 F.R. 34591, which directed research with stem cells not derived from the creation or destruction of a human embryo or fetus, was revoked by Ex. Ord. No. 13505, §5(b), Mar. 9, 2009, 74 F.R. 10668, set out below.
@@ -302,7 +310,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. Research involving human embryonic stem cells and human non-embryonic stem cells has the potential to lead to better understanding and treatment of many disabling diseases and conditions. Advances over the past decade in this promising scientific field have been encouraging, leading to broad agreement in the scientific community that the research should be supported by Federal funds.
 
-For the past 8 years, the authority of the Department of Health and Human Services, including the National Institutes of Health (NIH), to fund and conduct human embryonic stem cell research has been limited by Presidential actions. The purpose of this order is to remove these limitations on scientific inquiry, to expand NIH support for the exploration of human stem cell research, and in so doing to enhance the contribution of America's scientists to important new discoveries and new therapies for the benefit of humankind.
+For the past 8 years, the authority of the Department of Health and Human Services, including the National Institutes of Health (NIH), to fund and conduct human embryonic stem cell research has been limited by Presidential actions. The purpose of this order is to remove these limitations on scientific inquiry, to expand NIH support for the exploration of human stem cell research, and in so doing to enhance the contribution ofAmerica's scientists to important new discoveries and new therapies for the benefit of humankind.
 
 Sec. 2. <i>Research</i>. The Secretary of Health and Human Services (Secretary), through the Director of NIH, may support and conduct responsible, scientifically worthy human stem cell research, including human embryonic stem cell research, to the extent permitted by law.
 

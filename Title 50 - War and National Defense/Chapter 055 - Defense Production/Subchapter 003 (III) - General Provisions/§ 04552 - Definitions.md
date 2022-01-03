@@ -28,7 +28,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (6) Domestic industrial base
 
-&emsp;The term "domestic industrial base" means domestic sources which are providing, or which would be reasonably expected to provide, materials or services to meet national defense requirements during peacetime, national emergency, or war.
+&emsp;The term "domestic industrial base" means domestic sources which are providing, orwhich would be reasonably expected to provide, materials or services to meet national defense requirements during peacetime, national emergency, or war.
 
 #### (7) Domestic source
 
@@ -104,6 +104,8 @@ For purposes of this chapter, the following definitions shall apply:
 
 <i>For termination of section, see section 4564(a) of this title.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning act Sept. 8, 1950, ch. 932, 64 Stat. 798, known as the Defense Production Act of 1950, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 4501 of this title and Tables.
@@ -120,7 +122,7 @@ Section was formerly classified to section 2152 of the former Appendix to this t
 
 Pars. (2), (3). Pub. L. 111–67, §8(2)–(4), added par. (3), redesignated former par. (3) as (2), and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: "The term 'critical industry for national security' means any industry (or industry sector) identified pursuant to section 2503(6) of title 10 and such other industries or industry sectors as may be designated by the President as essential to provide industrial resources required for the execution of the national security strategy of the United States."
 
-Pars. (4), (5). Pub. L. 111–67, §8(2), (5), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out former par. (4). Prior to amendment, text of par. (4) read as follows: "The term 'critical technology' includes any technology that is included in 1 or more of the plans submitted pursuant to section 6681 of title 42or section 2508 of title 10 (unless subsequently deleted), or such other emerging or dual use technology as may be designated by the President."
+Pars. (4), (5). Pub. L. 111–67, §8(2), (5), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out former par. (4). Prior to amendment, text of par. (4) read as follows: "The term 'critical technology' includes any technology that is included in 1 or more of the plans submitted pursuant to section 6681 of title 42 or section 2508 of title 10 (unless subsequently deleted), or such other emerging or dual use technology as may be designated by the President."
 
 Par. (6). Pub. L. 111–67, §8(5), (6), redesignated par. (7) as (6), in heading, struck out "defense" after "Domestic", and, in text, substituted " 'domestic industrial base' " for " 'domestic defense industrial base' " and struck out "graduated mobilization," after "peacetime,". Former par. (6) redesignated (5).
 
@@ -151,6 +153,8 @@ Pars. (15) to (18). Pub. L. 108–195, §5(1), redesignated pars. (14) to (17) a
 Subsec. (f). Pub. L. 91–379, §102(2), added subsec. (f).
 
 <b>1953</b>—Subsec. (d). Act June 30, 1953, amended subsec. (d) generally which, among other changes, inserted references to construction, military assistance to foreign nations and stockpiling, and struck out specific reference to "operations or activities in connection with the Mutual Defense Assistance Act of 1949, as amended".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

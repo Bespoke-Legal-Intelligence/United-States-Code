@@ -30,6 +30,8 @@ Except as provided in subsection (b), no gain or loss shall be recognized to a c
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 94; Pub. L. 91–172, title IX, §905(a), (b)(1), Dec. 30, 1969, 83 Stat. 713, 714; Pub. L. 94–452, §2(b), Oct. 2, 1976, 90 Stat. 1511; Pub. L. 94–455, title XIX, §1901(a)(42)(A), (B)(i), (C), Oct. 4, 1976, 90 Stat. 1771; Pub. L. 95–600, title VII, §703(j)(2)(A), (B), Nov. 6, 1978, 92 Stat. 2941; Pub. L. 96–471, §2(b)(1), Oct. 19, 1980, 94 Stat. 2253; Pub. L. 97–248, title II, §223(a), Sept. 3, 1982, 96 Stat. 483; Pub. L. 98–369, div. A, title I, §54(a), title VII, §712(j), July 18, 1984, 98 Stat. 568, 948; Pub. L. 99–514, title VI, §631(c), Oct. 22, 1986, 100 Stat. 2272; Pub. L. 100–647, title I, §§1006(e)(8)(B), (21)(B), 1018(d)(5)(E), Nov. 10, 1988, 102 Stat. 3401, 3403, 3580.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–647, §1018(d)(5)(E), substituted "distribution (not in complete liquidation) with respect to its stock" for "distribution, with respect to its stock,".
@@ -75,6 +77,8 @@ Subsec. (d)(2). Pub. L. 94–452 and Pub. L. 94–455 §1901(a)(42)(B)(i), (C), 
 <b>1969</b>—Subsec. (a). Pub. L. 91–172, §905(b)(1), inserted reference to subsec. (d).
 
 Subsec. (d). Pub. L. 91–172, §905(a), added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 
@@ -194,7 +198,7 @@ Definitions.—For purposes of this paragraph—
 
 Exception for certain distribution of partnership interests.—The amendments made by this section shall not apply to any distribution before February 1, 1986, of an interest in a partnership the interests of which were being traded on a national securities exchange on March 7, 1984, if—
 
-&emsp;"(A) such interest was owned by the distributing corporation (or any member of an affiliated group within the meaning of section 1504(a) of such Code ofwhich the distributing corporation was a member) on March 7, 1984,
+&emsp;"(A) such interest was owned by the distributing corporation (or any member of an affiliated group within the meaning of section 1504(a) of such Code of which the distributing corporation was a member) on March 7, 1984,
 
 &emsp;"(B) the distributing corporation (or any such affiliated member) owned more than 80 percent of the interests in such partnership on March 7, 1984, and
 

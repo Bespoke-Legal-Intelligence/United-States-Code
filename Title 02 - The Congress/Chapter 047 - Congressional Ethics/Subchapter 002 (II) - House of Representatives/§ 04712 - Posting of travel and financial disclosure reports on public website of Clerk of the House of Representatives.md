@@ -54,7 +54,7 @@ Section was formerly classified to section 104e of this title prior to editorial
 
 #### Change of Name
 
-Committee on Standards of Official Conduct of House of Representatives changed to Committee on Ethics ofHouse of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+Committee on Standards of Official Conduct of House of Representatives changed to Committee on Ethics of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date of 2012 Amendment
 

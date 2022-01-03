@@ -20,6 +20,8 @@ July 9, 1952, ch. 608, §237, 66 Stat. 492.
 
 The words "armed force concerned" are substituted for the words "Armed Forces of the United States". The words "now or hereafter" and "officers and enlisted" are omitted as surplusage. The words "other than for training" are inserted, since the words "active duty" were defined in the source statute cited above to exclude active duty for training.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–337 renumbered section 682 of this title as this section.

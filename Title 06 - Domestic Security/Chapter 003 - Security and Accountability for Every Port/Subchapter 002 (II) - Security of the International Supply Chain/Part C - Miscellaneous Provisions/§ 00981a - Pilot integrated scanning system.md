@@ -8,7 +8,7 @@
 
 #### (2) Collaboration and cooperation
 
-&emsp;The Secretary shall collaborate with the Secretary of Energy and cooperate with theprivate sector and host foreign government to implement the pilot program under this subsection.
+&emsp;The Secretary shall collaborate with the Secretary of Energy and cooperate with the private sector and host foreign government to implement the pilot program under this subsection.
 
 #### (b) Implementation
 
@@ -40,7 +40,7 @@ The Secretary shall evaluate the pilot program in subsection (b) to determine wh
 
 #### (d) Report
 
-Not later than 120 days after achieving full-scale implementation under subsection (b), the Secretary, in consultation with the Secretary of Energy and the Secretary of State, shall submit a report, to the appropriate congressional committees, that includes—
+Not later than 120 days after achieving full-scale implementation under subsection (b), the Secretary, in consultation with the Secretary of Energy and the Secretary of State, shall submita report, to the appropriate congressional committees, that includes—
 
 &emsp;(1) an evaluation of the lessons derived from the pilot program implemented under this section;
 

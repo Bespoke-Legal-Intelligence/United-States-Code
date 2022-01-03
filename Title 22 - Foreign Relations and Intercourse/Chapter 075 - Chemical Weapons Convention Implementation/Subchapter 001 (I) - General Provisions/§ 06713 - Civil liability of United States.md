@@ -6,7 +6,7 @@
 
 #### (A) United States Court of Federal Claims
 
-&emsp;&emsp;The United States Court of Federal Claims shall, subject to subparagraph (B), have jurisdiction of any civil action or claim against the United States for any taking of property without just compensation that occurs by reason of the action of any officer or employee of the Organization for the Prohibition of Chemical Weapons, including any member of an inspection team of the Technical Secretariat, or by reason of the action of any officer or employee of the United States pursuant to this chapter or the Convention. For purposes of this subsection, action taken pursuant to or under the color of this chapter or the Convention shall be deemed to be action taken by the United States for a public purpose.
+&emsp;&emsp;The United States Court of Federal Claims shall, subject to subparagraph (B), have jurisdiction of any civil action or claim against the United States for any taking of property without just compensation that occurs by reason of the action of any officer or employee of the Organization for the Prohibition of Chemical Weapons, including any member of an inspection team of the Technical Secretariat, or by reason of the action of any officer or employee of the UnitedStates pursuant to this chapter or the Convention. For purposes of this subsection, action taken pursuant to or under the color of this chapter or the Convention shall be deemed to be action taken by the United States for a public purpose.
 
 #### (B) District courts
 
@@ -54,7 +54,7 @@ In any action under subsection (a) or (b), the United States may not raise sover
 
 #### (3) Actions brought by individuals and businesses
 
-&emsp;Notwithstanding any other law, any national of the United States, or any business entity organized and operating under the laws of the United States, may bring a civil action in a United States District Court for money damages against any foreign national or any business entity organized and operating under the laws of a foreign nation for an unauthorized or unlawful acquisition, receipt, transmission, or use of property by or on behalf of such foreign national or business entity as a result of any tort under the Constitution orany Federal or State law arising from acts or omissions by any officer or employee of the United States or any member of an inspection team of the Technical Secretariat taken pursuant to or under the color of the Convention or this chapter.
+&emsp;Notwithstanding any other law, any national of the United States, or any business entity organized and operating under the laws of the United States, may bring a civil action in a United States District Court for money damages against any foreign national or any business entity organized and operating under the laws of a foreign nation for an unauthorized or unlawful acquisition, receipt, transmission, or use of property by or on behalf of such foreign national or business entity as a result of any tort under the Constitution or any Federal or State law arising from acts or omissions by any officer or employee of the United States or any member of an inspection team of the Technical Secretariat taken pursuant to or under the color of the Convention or this chapter.
 
 #### (e) Recoupment
 
@@ -128,7 +128,7 @@ In any action under subsection (a) or (b), the United States may not raise sover
 
 #### (v) International financial assistance
 
-&emsp;&emsp;&emsp;The United States shall oppose any loan or financial or technical assistance by international financial institutions in accordance with section 262d of this title to a country described in subparagraph (A).
+&emsp;&emsp;&emsp;The United States shall oppose any loan or financial or technical assistance byinternational financial institutions in accordance with section 262d of this title to a country described in subparagraph (A).
 
 #### (vi) Termination of assistance under Foreign Assistance Act of 1961
 

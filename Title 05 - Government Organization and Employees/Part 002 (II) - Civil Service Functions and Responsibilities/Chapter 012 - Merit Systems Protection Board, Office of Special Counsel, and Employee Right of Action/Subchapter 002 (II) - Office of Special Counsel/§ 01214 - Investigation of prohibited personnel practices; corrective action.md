@@ -12,7 +12,7 @@
 
 &emsp;(i) within 90 days after notice is provided under subparagraph (B), notify the person who made the allegation of the status of the investigation and any action taken by the Office of the Special Counsel since the filing of the allegation;
 
-&emsp;(ii) notify such person of the status of the investigation and any action taken by the Office of the Special Counsel since the last notice, at least every 60 days after notice is given under clause (i); and
+&emsp;(ii) notify such person of the status of the investigation and any action taken by the Officeof the Special Counsel since the last notice, at least every 60 days after notice is given under clause (i); and
 
 &emsp;(iii) notify such person of the status of the investigation and any action taken by the Special Counsel at such time as determined appropriate by the Special Counsel.
 
@@ -98,7 +98,7 @@
 
 (4)(A) The Board shall order such corrective action as the Board considers appropriate, if the Board determines that the Special Counsel has demonstrated that a prohibited personnel practice, other than one described in section 2302(b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D), has occurred, exists, or is to be taken.
 
-(B)(i) Subject to the provisions of clause (ii), in any case involving an alleged prohibited personnel practice as described under section 2302(b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D), the Board shall order such corrective action as the Board considers appropriate if the Special Counsel has demonstrated that a disclosure or protected activity described under section 2302(b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D) was a contributing factor in the personnelaction which was taken or is to be taken against the individual.
+(B)(i) Subject to the provisions of clause (ii), in any case involving an alleged prohibited personnel practice as described under section 2302(b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D), the Board shall order such corrective action as the Board considers appropriate if the Special Counsel has demonstrated that a disclosure or protected activity described under section 2302(b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D) was a contributing factor in the personnel action which was taken or is to be taken against the individual.
 
 (ii) Corrective action under clause (i) may not be ordered if, after a finding that a protected disclosure was a contributing factor, the agency demonstrates by clear and convincing evidence that it would have taken the same personnel action in the absence of such disclosure.
 
@@ -114,7 +114,7 @@
 
 &emsp;(B) the Attorney General is pursuing an investigation, in which case the Special Counsel, after consultation with the Attorney General, has discretion as to whether to proceed.
 
-(e) If, in connection with any investigation under this subchapter, the Special Counsel determines that there is reasonable cause to believe that any violation of any law, rule, or regulation has occurred other than one referred to in subsection (b) or (d), the Special Counsel shall report such violation to the head of the agency involved. The Special Counsel shall require, within 30 days after the receipt of the report by the agency, a certification by the head of the agency which states—
+(e) If, in connection with any investigation under this subchapter, the Special Counsel determines that there is reasonable cause to believe that any violation of any law, rule, or regulation has occurred other than one referred to in subsection (b) or (d), the Special Counsel shall report such violation to the head of the agency involved. The Special Counsel shall require, within 30 days after the receipt of the report bythe agency, a certification by the head of the agency which states—
 
 &emsp;(1) that the head of the agency has personally reviewed the report; and
 

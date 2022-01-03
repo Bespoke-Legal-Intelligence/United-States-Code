@@ -22,7 +22,7 @@ The Director shall, promptly upon receipt of a petition regarding a reduction, s
 
 #### References in Text
 
-Section 301(b)(3) of the Federal Home Loan Mortgage Corporation Act, referred to in subsec. (b)(2), is section 301(b)(3) of Pub. L. 91–351, which is set out as a Short Title and Statement of Purpose note under section 1451 of this title.
+Section 301(b)(3) of the Federal Home Loan Mortgage Corporation Act, referred to in subsec. (b)(2), is section301(b)(3) of Pub. L. 91–351, which is set out as a Short Title and Statement of Purpose note under section 1451 of this title.
 
 #### Prior Provisions
 

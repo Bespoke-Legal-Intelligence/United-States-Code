@@ -18,7 +18,7 @@ Disclosure Not Required.—Notwithstanding any other provision of law, the Secre
 
 (b)
 
-Exception for Certain Questions.—Notwithstanding subsection (a), the Secretary may, for the purpose of preparation by the general public for examinations required for merchantmariner credentials, release an examination question and answer that the Secretary has retired or is not presently on or part of an examination, or that the Secretary determines is appropriate for release.
+Exception for Certain Questions.—Notwithstanding subsection (a), the Secretary may, for the purpose of preparation by the general public for examinations required for merchant mariner credentials, release an examination question and answer that the Secretary has retired or is not presently on or part of an examination, or that the Secretary determines is appropriate for release.
 
 (c)
 
@@ -108,7 +108,7 @@ Merchant Mariner Credential Defined.—In this section, the term "merchant marin
 
 #### References in Text
 
-The date of the enactment of the Coast Guard Authorization Act of 2016, referred to in subsec. (c)(1), (4)(A), (8)(B), is the date of enactment of Pub. L. 114–120, which was approved Feb. 8, 2016.
+The date of the enactment of the Coast Guard Authorization Act of 2016, referred to in subsec. (c)(1),\(4)(A), (8)(B), is the date of enactment of Pub. L. 114–120, which was approved Feb. 8, 2016.
 
 The Federal Advisory Committee Act, referred to in subsec. (c)(9), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 

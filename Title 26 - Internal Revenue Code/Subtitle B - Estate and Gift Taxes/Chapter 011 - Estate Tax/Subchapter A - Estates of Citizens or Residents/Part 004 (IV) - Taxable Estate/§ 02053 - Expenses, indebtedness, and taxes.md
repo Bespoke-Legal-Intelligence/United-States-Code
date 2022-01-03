@@ -24,7 +24,7 @@ Subject to the limitations in paragraph (1) of subsection (c), there shall be de
 
 #### (A) Consideration for claims
 
-&emsp;&emsp;The deduction allowed by this section in the case of claims against the estate, unpaid mortgages, or any indebtedness shall, when founded on a promise or agreement, be limited to the extent that they were contracted bona fide and for an adequate and full consideration in money or money's worth; except that in any case in which any such claim is founded on a promise or agreement of the decedent to make a contribution or gift to or for the use of any donee described in section 2055 for the purposes specified therein, the deduction for such claims shall not be so limited, but shall be limited to the extent that it would be allowable as a deduction under section 2055 if such promise or agreement constituted a bequest.
+&emsp;&emsp;The deduction allowed by this section in the case of claims against the estate, unpaidmortgages, or any indebtedness shall, when founded on a promise or agreement, be limited to the extent that they were contracted bona fide and for an adequate and full consideration in money or money's worth; except that in any case in which any such claim is founded on a promise or agreement of the decedent to make a contribution or gift to or for the use of any donee described in section 2055 for the purposes specified therein, the deduction for such claims shall not be so limited, but shall be limited to the extent that it would be allowable as a deduction under section 2055 if such promise or agreement constituted a bequest.
 
 #### (B) Certain taxes
 
@@ -68,6 +68,8 @@ Subject to the limitations in paragraph (1) of subsection (c), there shall be de
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 389; Feb. 20, 1956, ch. 63, §2, 70 Stat. 23; Pub. L. 85–866, title I, §102(c)(3), Sept. 2, 1958, 72 Stat. 1674; Pub. L. 86–175, §1, Aug. 21, 1959, 73 Stat. 396; Pub. L. 94–455, title XIX, §§1902(a)(12)(B), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1806, 1834; Pub. L. 98–369, div. A, title IV, §425(a)(2), title X, §1027(b), July 18, 1984, 98 Stat. 804, 1031; Pub. L. 100–647, title I, §1011A(g)(11), Nov. 10, 1988, 102 Stat. 3482; Pub. L. 105–34, title V, §503(b)(1), title X, §1073(b)(3), Aug. 5, 1997, 111 Stat. 853, 948; Pub. L. 107–16, title V, §532(c)(5), June 7, 2001, 115 Stat. 74; Pub. L. 107–134, title I, §103(b)(2), Jan. 23, 2002, 115 Stat. 2431.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (d)(3)(B). Pub. L. 107–134 substituted "section 2011(d)" for "section 2011(e)".
@@ -91,6 +93,8 @@ Subsec. (e). Pub. L. 98–369, §425(a)(2), substituted "For provisions treating
 <b>1958</b>—Subsec. (d)(1). Pub. L. 85–866 struck out "or any possession of the United States," after "District of Columbia,".
 
 <b>1956</b>—Subsecs. (d), (e). Act Feb. 20, 1956, added subsec. (d) and redesignated former subsec. (d) as (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 
@@ -116,7 +120,7 @@ Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and gene
 
 Amendment by section 503(b)(1) of Pub. L. 105–34 applicable to estates of decedents dying after Dec. 31, 1997, with special rule in case of estate of any decedent dying before Jan. 1, 1998, with respect to which there is an election under section 6166 of this title, see section 503(d) of Pub. L. 105–34, set out as a note under section 163 of this title.
 
-Amendment by section 1073(b)(3) of Pub. L. 105–34 applicable to estates of decedents dying after Dec. 31,1996, see section 1073(c) of Pub. L. 105–34, set out as an Effective Date of Repeal note under section 4980A of this title.
+Amendment by section 1073(b)(3) of Pub. L. 105–34 applicable to estates of decedents dying after Dec. 31, 1996, see section 1073(c) of Pub. L. 105–34, set out as an Effective Date of Repeal note under section 4980A of this title.
 
 #### Effective Date of 1988 Amendment
 

@@ -4,11 +4,15 @@ The Secretary of Defense and the Secretary of Homeland Security shall develop a 
 
 (Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1556; amended Pub. L. 103–337, div. A, title V, §542(a)(7), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
 <b>1994</b>—Pub. L. 103–337 inserted "and the Secretary of Transportation" after "Secretary of Defense".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

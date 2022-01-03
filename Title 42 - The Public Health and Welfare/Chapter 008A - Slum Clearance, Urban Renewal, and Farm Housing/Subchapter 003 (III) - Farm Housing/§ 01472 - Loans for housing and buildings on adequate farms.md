@@ -8,7 +8,7 @@
 
 (3)(A) Notwithstanding any other provision of this subchapter, a loan may be made under this section for the purchase of a dwelling located on land owned by a community land trust, if the borrower and the loan otherwise meet the requirements applicable to loans under this section.
 
-(B) For purposes of this paragraph, the term "community land trust" means a community housing development organization as such term is defined in section 12704 of this title (exceptthat the requirements under section 12704(6)(C) of this title and section 12704(6)(D) of this title shall not apply for purposes of this paragraph)—
+(B) For purposes of this paragraph, the term "community land trust" means a community housing development organization as such term is defined in section 12704 of this title (except that the requirements under section 12704(6)(C) of this title and section 12704(6)(D) of this title shall not apply for purposes of this paragraph)—
 
 &emsp;(i) that is not sponsored by a for-profit organization;
 
@@ -32,7 +32,7 @@ The instruments under which the loan is made and the security given shall—
 
 &emsp;(2) provide for the repayment of principal and interest in accordance with schedules and repayment plans prescribed by the Secretary, except that any prepayment of a loan made or insured under section 1484 or 1485 of this title shall be subject to the provisions of subsection (c);
 
-&emsp;(3) except for guaranteed loans, contain the agreement of the borrower that he will, at the request of the Secretary, proceed with diligence to refinance the balance of the indebtedness through cooperative or other responsible private credit sources whenever the Secretary determines, in the light of the borrower's circumstances, including his earning capacity and the income from the farm, that he is able to do so upon reasonable terms and conditions;
+&emsp;(3) except for guaranteed loans, contain the agreement of the borrower that he will, at the request of the Secretary, proceed with diligence to refinance the balance of the indebtedness through cooperative or other responsible private credit sources whenever the Secretarydetermines, in the light of the borrower's circumstances, including his earning capacity and the income from the farm, that he is able to do so upon reasonable terms and conditions;
 
 &emsp;(4) be in such form and contain such covenants as the Secretary shall prescribe to secure the payment of the loan with interest, protect the security, and assure that the farm will be maintained in repair and that waste and exhaustion of the farm will be prevented.
 
@@ -122,7 +122,7 @@ Financing of sale.—To facilitate the sale described in subparagraph (A), the S
 
 &emsp;(ii) approve the assumption, by the nonprofit organization or public agency involved, of the loan made or insured under section 1484 or 1485 of this title;
 
-&emsp;(iii) to the extent provided in appropriation Acts, transfer any rental assistance payments that are received under section 1490a(a)(2)(A) of this title or under section 1437f of this title, or any assistance payments received undersection 1490a(a)(5) of this title, with respect to the housing and related facilities involved; and
+&emsp;(iii) to the extent provided in appropriation Acts, transfer any rental assistance payments that are received under section 1490a(a)(2)(A) of this title or under section 1437f of this title, or any assistance payments received under section 1490a(a)(5) of this title, with respect to the housing and related facilities involved; and
 
 &emsp;(iv) to the extent provided in appropriation Acts, provide a loan under section 1485(c)(3) of this title to the nonprofit organization or public agency whose offer to purchase is accepted under this paragraph to enable the organization or agency to purchase the housing and related facilities involved.
 
@@ -140,7 +140,7 @@ Restriction on subsequent transfers.—Except as provided in subparagraph (B)(ii
 
 (F)
 
-General restriction on prepayments and refinancings.—Following the transfer of the maximum number of dwelling units set forth in subparagraph (H)(i) in any fiscal year or the maximum number of dwelling units for which budget authority is available in any fiscal year, the Secretary may not accept in such fiscal year any offer to prepay, or request refinancing in accordance with subsection (b)(3) of, any loan made or insured under section 1484 or 1485 of this title pursuant to a contract entered into prior to December 15, 1989, except in accordance with subparagraph (G). The limitation established in this subparagraph shall not apply to an offer to prepay, or request to refinance, if, following the date on which such offer or request is made (or following February 5, 1988, whichever occurs later) a 15-month period expires during which no budget authority is available to carry out this paragraph. For purposes of this subparagraph, the Secretary shall allocate budget authority under this paragraph in the order in which offers to prepay, or request to refinance, are made.
+General restriction on prepayments and refinancings.—Following the transfer of the maximum number of dwelling units set forth in subparagraph (H)(i) in any fiscal year or the maximum number of dwelling units for which budget authority is available in any fiscal year, the Secretary may not accept in such fiscal yearany offer to prepay, or request refinancing in accordance with subsection (b)(3) of, any loan made or insured under section 1484 or 1485 of this title pursuant to a contract entered into prior to December 15, 1989, except in accordance with subparagraph (G). The limitation established in this subparagraph shall not apply to an offer to prepay, or request to refinance, if, following the date on which such offer or request is made (or following February 5, 1988, whichever occurs later) a 15-month period expires during which no budget authority is available to carry out this paragraph. For purposes of this subparagraph, the Secretary shall allocate budget authority under this paragraph in the order in which offers to prepay, or request to refinance, are made.
 
 (G)
 
@@ -212,7 +212,7 @@ On and after November 30, 1983—
 
 &emsp;(B) the manufactured home, or the manufactured home and lot, meets the installation, structural, and site requirements which would apply under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\]; and
 
-&emsp;(C) the manufactured home meets the energy conserving requirements established under paragraph (2), or until the energy conserving requirements are established under paragraph (2), the manufactured home meets the energy conserving requirements applicable to housing other than manufactured housing financed under this subchapter.
+&emsp;(C) the manufactured home meets the energy conserving requirements established under paragraph (2), or until the energy conserving requirements are established under paragraph (2), the manufactured home meetsthe energy conserving requirements applicable to housing other than manufactured housing financed under this subchapter.
 
 (2) Energy conserving requirements established by the Secretary for the purpose of paragraph (1)(C) shall—
 
@@ -390,7 +390,7 @@ On and after November 30, 1983—
 
 &emsp;&emsp;&emsp;(i) is an adult;
 
-&emsp;&emsp;&emsp;(ii) has not worked full-time full-year in the labor force for a number of years buthas, during such years, worked primarily without remuneration to care for the home and family; and
+&emsp;&emsp;&emsp;(ii) has not worked full-time full-year in the labor force for a number of years but has, during such years, worked primarily without remuneration to care for the home and family; and
 
 &emsp;&emsp;&emsp;(iii) is unemployed or underemployed and is experiencing difficulty in obtaining or upgrading employment.
 
@@ -450,7 +450,9 @@ On and after November 30, 1983—
 
 &emsp;Any amounts collected from such fees shall be credited to the Rural Development Expense Account as offsetting collections and shall remain available until expended, in the amounts provided in appropriation Acts, solely for expenses described in paragraph (1).
 
-(July 15, 1949, ch. 338, title V, §502, 63 Stat. 433; Pub. L. 87–70, title VIII, §801(b), June 30, 1961, 75 Stat. 186; Pub. L. 87–723, §4(a)(2), Sept. 28, 1962, 76 Stat. 671; Pub. L. 89–117, title X, §1002, Aug. 10, 1965, 79 Stat. 497; Pub. L. 89–754, title VIII, §802, Nov. 3, 1966, 80 Stat. 1282; Pub. L. 93–383, title V, §505(b), Aug. 22, 1974, 88 Stat. 693; Pub. L. 95–128, title V, §502(a), Oct. 12, 1977, 91 Stat. 1139; Pub. L. 96–153, title V, §503, Dec. 21, 1979, 93 Stat. 1134; Pub. L. 96–399, title V, §514(a), Oct. 8, 1980, 94 Stat. 1671; Pub. L. 98–181, title I \[title V, §503(a), (d)\], Nov. 30, 1983, 97 Stat. 1240, 1241; Pub. L. 98–479, title I, §105(b)(1), Oct. 17, 1984, 98 Stat.2226; Pub. L. 100–242, title II, §241, title III, §314, Feb. 5, 1988, 101 Stat. 1886, 1897; Pub. L. 100–628, title X, §1028, Nov. 7, 1988, 102 Stat. 3271; Pub. L. 101–235, title II, §206, Dec. 15, 1989, 103 Stat. 2041; Pub. L. 101–625, title VII, §§704(a), 705(a), 706(b), 719(b), Nov. 28, 1990, 104 Stat. 4283, 4284, 4297; Pub. L. 102–142, title VII, §743(b), Oct. 28, 1991, 105 Stat. 915; Pub. L. 102–550, title VII, §§701(g), 702(a), 703, 704, 712(a), (b), Oct. 28, 1992, 106 Stat. 3834, 3835, 3841; Pub. L. 104–180, title VII, §734(c)(3)(A), (B), Aug. 6, 1996, 110 Stat. 1602; Pub. L. 105–276, title V, §599C(e)(2)(A), (f), Oct. 21, 1998, 112 Stat. 2662, 2663; Pub. L. 106–569, title VII, §701, Dec. 27, 2000, 114 Stat. 3013; Pub. L. 108–285, §3(b), (c), Aug. 2, 2004, 118 Stat. 917, 918; Pub. L. 108–447, div. A, title VII, §726(b), Dec. 8, 2004, 118 Stat. 2842; Pub. L. 111–22, div. A, title I, §101(a), (b), May 20, 2009, 123 Stat. 1633, 1635; Pub. L. 111–212, title I, §102(a), July 29, 2010, 124 Stat. 2303; Pub. L. 114–201, title II, §§201, 202, July 29, 2016, 130 Stat. 805; Pub. L. 115–141, div. A, title VII, §758, Mar. 23, 2018, 132 Stat. 395.)
+(July 15, 1949, ch. 338, title V, §502, 63 Stat. 433; Pub. L. 87–70, title VIII, §801(b), June 30, 1961, 75 Stat. 186; Pub. L. 87–723, §4(a)(2), Sept. 28, 1962, 76 Stat. 671; Pub. L. 89–117, title X, §1002, Aug. 10, 1965, 79 Stat. 497; Pub. L. 89–754, title VIII, §802, Nov. 3, 1966, 80 Stat. 1282; Pub. L. 93–383, title V, §505(b), Aug. 22, 1974, 88 Stat. 693; Pub. L. 95–128, title V, §502(a), Oct. 12, 1977, 91 Stat. 1139; Pub. L. 96–153, title V, §503, Dec. 21, 1979, 93 Stat. 1134; Pub. L. 96–399, title V, §514(a), Oct. 8, 1980, 94 Stat. 1671; Pub. L. 98–181, title I \[title V, §503(a), (d)\], Nov. 30, 1983, 97 Stat. 1240, 1241; Pub. L. 98–479, title I, §105(b)(1), Oct. 17, 1984, 98 Stat. 2226; Pub. L. 100–242, title II, §241, title III, §314, Feb. 5, 1988, 101 Stat. 1886, 1897; Pub. L. 100–628, title X, §1028, Nov. 7, 1988, 102 Stat. 3271; Pub. L. 101–235, title II, §206, Dec. 15, 1989, 103 Stat. 2041; Pub. L. 101–625, title VII, §§704(a), 705(a), 706(b), 719(b), Nov. 28, 1990, 104 Stat. 4283, 4284, 4297; Pub. L. 102–142, title VII, §743(b), Oct. 28, 1991, 105 Stat. 915; Pub. L. 102–550, title VII, §§701(g), 702(a), 703, 704, 712(a), (b), Oct. 28, 1992, 106 Stat. 3834, 3835, 3841; Pub. L. 104–180, title VII, §734(c)(3)(A), (B), Aug. 6, 1996, 110 Stat. 1602; Pub. L. 105–276, title V, §599C(e)(2)(A), (f), Oct. 21, 1998, 112 Stat. 2662, 2663; Pub. L. 106–569, title VII, §701, Dec. 27, 2000, 114 Stat. 3013; Pub. L. 108–285, §3(b), (c), Aug. 2, 2004, 118 Stat. 917, 918; Pub. L. 108–447, div. A, title VII, §726(b), Dec. 8, 2004, 118 Stat. 2842; Pub. L. 111–22, div. A, title I, §101(a), (b), May 20, 2009, 123 Stat. 1633, 1635; Pub. L. 111–212, title I, §102(a), July 29, 2010, 124 Stat. 2303; Pub. L. 114–201, title II, §§201, 202, July 29, 2016, 130 Stat. 805; Pub. L. 115–141, div. A, title VII, §758, Mar. 23, 2018, 132 Stat. 395.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -596,6 +598,8 @@ Subsec. (c). Pub. L. 96–153, §503(b), added subsec. (c).
 
 <b>1961</b>—Subsec. (b)(1). Pub. L. 87–70 substituted "or such other security" for "and such additional security".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–276, title V, §599C(g), Oct. 21, 1998, 112 Stat. 2663, provided that: "The amendments made by this section \[amending this section and sections 1479, 1483 to 1485, 1490a, 1490j, and 1490p–2 of this title\] are made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\]."
@@ -631,10 +635,6 @@ Consultation.—In developing and promulgating the regulations under paragraphs 
 &emsp;"(A) are made in a manner that is cost-effective; and
 
 &emsp;"(B) are made in a manner that reduces, to the extent practicable, the burden of administration and paperwork for borrowers and lenders."
-
-#### Termination of Trust Territory of the Pacific Islands
-
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
 #### Procedure
 
@@ -704,7 +704,7 @@ Purpose.—The purpose of this section \[amending this section and section 1701x
 
 #### Rural Housing Guaranteed Loan Demonstration
 
-Pub. L. 100–242, title III, §304, Feb. 5, 1988, 101 Stat. 1894, as amended by Pub. L. 100–628, title X, §1041(a), (b), Nov. 7, 1988, 102 Stat. 3272, provided for establishment by Secretary of Agriculture of a rural housing guaranteed loan demonstration to provide guaranteed loans in accordance with section 1487(d) of this title and last sentence of section 1490(a)(1)(A) of this title, authorized amount available for such loans, established loan criteria, directed Secretary to submit to Congress, as soon as practicable after Sept. 30, 1989, an interim report setting forth findings and recommendations as a result of the demonstration and a final report on such findings and recommendations as soon as practicable after Sept. 30, 1991, prohibited Secretary from providing any guaranteed loans after Sept. 30, 1991, except pursuant to a commitment entered into on or before such date, and excluded applicability of subsec. (d) of this section and second sentence of section 1487(e) of this title to loan demonstration.
+Pub. L. 100–242, title III, §304, Feb. 5, 1988, 101 Stat. 1894, as amended by Pub. L. 100–628, title X, §1041(a), (b), Nov. 7, 1988, 102 Stat. 3272, provided for establishment by Secretary of Agriculture of a rural housing guaranteed loan demonstration to provide guaranteed loans in accordance with section 1487(d) of this title and last sentence of section 1490(a)(1)(A) of this title, authorized amount available for such loans, established loan criteria, directed Secretary to submit to Congress, as soon as practicable after Sept. 30, 1989, an interim report setting forth findings and recommendations as a result of the demonstration and a final report on such findings and recommendations as soon as practicable after Sept. 30, 1991, prohibited Secretary from providing any guaranteed loans after Sept. 30, 1991, except pursuant to a commitment entered into on or before suchdate, and excluded applicability of subsec. (d) of this section and second sentence of section 1487(e) of this title to loan demonstration.
 
 #### Prohibition on Acceptance of Prepayment of Certain Loans
 
@@ -719,6 +719,12 @@ Pub. L. 98–181, title I \[title V, §503(b)\], Nov. 30, 1983, 97 Stat. 1241, p
 #### Study and Report to Congress of Adverse Effects on Housing of Prepayment of Loans
 
 Pub. L. 96–399, title V, §514(b), Oct. 8, 1980, 94 Stat. 1672, required Secretary of Agriculture to conduct a study of, and report to Congress not later than 6 months after Oct. 8, 1980, on any adverse effects the amendments made by subsection (a) \[amending this section\] may have on housing, particularly for the elderly and persons of low income.
+
+#### <b>Executive Documents</b>
+
+#### Termination of Trust Territory of the Pacific Islands
+
+For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -96,18 +96,22 @@
 | [931f.](%C2%A7%2000931f%20-%20Art.%20131f.%20Noncompliance%20with%20procedural%20rules.md) | 131f. | Noncompliance with procedural rules. |
 | [931g.](%C2%A7%2000931g%20-%20Art.%20131g.%20Wrongful%20interference%20with%20adverse%20administrative%20proceeding.md) | 131g. | Wrongful interference with adverse administrative proceeding. |
 | [932\.](%C2%A7%2000932%20-%20Art.%20132.%20Retaliation.md) | 132\. | Retaliation. |
-| [933\.](%C2%A7%2000933%20-%20Art.%20133.%20Conduct%20unbecoming%20an%20officer%20and%20a%20gentleman.md) | 133\. | Conduct unbecoming an officer and a gentleman. |
+| [933\.](%C2%A7%2000933%20-%20Art.%20133.%20Conduct%20unbecoming%20an%20officer.md) | 133\. | Conduct unbecoming an officer. |
 | [934\.](%C2%A7%2000934%20-%20Art.%20134.%20General%20article.md) | 134\. | General article. |
 
-<sup>1</sup> See 2017 Amendment note below.
+<sup>1</sup> Editorially added, see second 2017 Amendment note below.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Pub. L. 117–81, div. A, title V, §542(b), Dec. 27, 2021, 135 Stat. 1709, substituted "Conduct unbecoming an officer" for "Conduct unbecoming an officer and a gentleman" in item 933.
 
 <b>2018</b>—Pub. L. 115–232, div. A, title V, §532(a)(2), Aug. 13, 2018, 132 Stat. 1759, added item 928b.
 
 <b>2017</b>—Pub. L. 115–91, div. A, title X, §1081(d)(18), Dec. 12, 2017, 131 Stat. 1600, amended Pub. L. 114–328, §5452. See 2016 Amendment note below.
 
-Pub. L. 115–91, div. A, title V, §533(b), Dec. 12, 2017, 131 Stat. 1390, added item 917a. As subsequently amended generally by Pub. L. 114–328, effective Jan. 1, 2019 (see 2016 Amendment note below), analysis no longer included item 917a, but item was added back editorially, to reflect the probable intent of Congress.
+Pub. L. 115–91, div. A, title V, §533(b), Dec. 12, 2017, 131 Stat. 1390, added item 917a. As amended generally by section 5452 of Pub. L. 114–328, which was enacted Dec. 23, 2016, but effective Jan. 1, 2019 (see 2016 Amendmentnote below), analysis no longer included item 917a, but item was added back editorially, to reflect the probable intent of Congress.
 
 <b>2016</b>—Pub. L. 114–328, div. E, title LX, §5452, Dec. 23, 2016, 130 Stat. 2958, as amended by Pub. L. 115–91, div. A, title X, §1081(d)(18), Dec. 12, 2017, 131 Stat. 1600, amended analysis generally, substituting items 877 to 934 for former items 877 to 934.
 
@@ -230,5 +234,5 @@ Pub. L. 109–163, div. A, title V, §551(a)(2), Jan. 6, 2006, 119 Stat. 3256, a
 - [&sect; 00931f - Art. 131f. Noncompliance with procedural rules](%C2%A7%2000931f%20-%20Art.%20131f.%20Noncompliance%20with%20procedural%20rules.md)
 - [&sect; 00931g - Art. 131g. Wrongful interference with adverse administrative proceeding](%C2%A7%2000931g%20-%20Art.%20131g.%20Wrongful%20interference%20with%20adverse%20administrative%20proceeding.md)
 - [&sect; 00932 - Art. 132. Retaliation](%C2%A7%2000932%20-%20Art.%20132.%20Retaliation.md)
-- [&sect; 00933 - Art. 133. Conduct unbecoming an officer and a gentleman](%C2%A7%2000933%20-%20Art.%20133.%20Conduct%20unbecoming%20an%20officer%20and%20a%20gentleman.md)
+- [&sect; 00933 - Art. 133. Conduct unbecoming an officer](%C2%A7%2000933%20-%20Art.%20133.%20Conduct%20unbecoming%20an%20officer.md)
 - [&sect; 00934 - Art. 134. General article](%C2%A7%2000934%20-%20Art.%20134.%20General%20article.md)

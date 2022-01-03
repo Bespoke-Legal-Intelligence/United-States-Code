@@ -18,9 +18,13 @@ There are transferred to and vested in the Secretary all functions vested by cha
 
 (Pub. L. 95–91, title III, §307, Aug. 4, 1977, 91 Stat. 581; Pub. L. 115–232, div. A, title VIII, §809(n)(3)(A), Aug. 13, 2018, 132 Stat. 1844.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 substituted "chapter 869 of title 10" for "chapter 641 of title 10" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

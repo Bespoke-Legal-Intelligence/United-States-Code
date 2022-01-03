@@ -16,6 +16,8 @@ In addition to individuals appointed under subsection (a), the Secretary, jointl
 
 (Pub. L. 109–479, title VI, §605, Jan. 12, 2007, 120 Stat. 3646; Pub. L. 111–348, title III, §302(a), Jan. 4, 2011, 124 Stat. 3672.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Subsec. (a)(1). Pub. L. 111–348 substituted "no more than 2" for "at least 6 but not more than 12".

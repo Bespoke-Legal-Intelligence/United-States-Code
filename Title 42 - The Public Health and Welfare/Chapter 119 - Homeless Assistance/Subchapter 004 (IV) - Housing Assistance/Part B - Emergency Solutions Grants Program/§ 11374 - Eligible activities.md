@@ -32,6 +32,8 @@ A grantee of assistance provided under section 11372 of this title for any fisca
 
 (Pub. L. 100–77, title IV, §415, as added Pub. L. 111–22, div. B, title II, §1202, May 20, 2009, 123 Stat. 1679.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The effective date under section 1503 of the Homeless Emergency Assistance and Rapid Transition to Housing Act of 2009, referred to in subsec. (b)(2), is the effective date under section 1503 of div. B of Pub. L. 111–22, set out as an Effective Date of 2009 Amendment note under section 11302 of this title.
@@ -42,13 +44,15 @@ A prior section 11374, Pub. L. 100–77, title IV, §415, formerly §414, July 2
 
 Another prior section 415 of Pub. L. 100–77 was renumbered section 416 and is classified to section 11375 of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective on the earlier of 18 months after May 20, 2009, or 3 months after publication of certain final regulations by Secretary of Housing and Urban Development, see section 1503 of Pub. L. 111–22, set out as an Effective Date of 2009 Amendment note under section 11302 of this title.
 
 #### Report by Comptroller General
 
-Pub. L. 100–628, title IV, §423(b), Nov. 7, 1988, 102 Stat. 3232, required the Comptroller General to conduct a study and report to Congress not later than 1 year after Nov. 7, 1988, on programs to prevent homelessness implemented by grantees.
+Pub. L. 100–628, title IV, §423(b), Nov. 7, 1988, 102 Stat. 3232, required the Comptroller General to conduct a study and report to Congress not later than 1 year afterNov. 7, 1988, on programs to prevent homelessness implemented by grantees.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "the fiscal year".</i>
 

@@ -18,7 +18,7 @@ It is the policy of the United States—
 
 &emsp;&emsp;(E) promoting national reconciliation and enabling a just, comprehensive, and sustainable peace;
 
-&emsp;&emsp;(F) promoting the role of women in government, the economy, and society, in recognition of the seminal role that womenplayed in the social movement that ousted former president Omar al-Bashir;
+&emsp;&emsp;(F) promoting the role of women in government, the economy, and society, in recognition of the seminal role that women played in the social movement that ousted former president Omar al-Bashir;
 
 &emsp;&emsp;(G) promoting accountability for genocide, war crimes, crimes against humanity, and sexual and gender-based violence;
 

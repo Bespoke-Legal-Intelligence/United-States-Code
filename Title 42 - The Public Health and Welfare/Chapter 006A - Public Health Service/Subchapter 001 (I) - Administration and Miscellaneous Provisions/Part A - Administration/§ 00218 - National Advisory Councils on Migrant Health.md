@@ -16,7 +16,9 @@ Each member of the Council shall hold office for a term of four years, except th
 
 Section 14(a) of the Federal Advisory Committee Act shall not apply to the Council.
 
-(July 1, 1944, ch. 373, title II, §217, 58 Stat. 691; July 3, 1946, ch. 538, §5(b)–(d), 60 Stat. 422; June 16, 1948, ch. 481, §§4(a)–(c), 6(b), 62 Stat. 467, 469; June 24, 1948, ch. 621, §4(a)–(c), 62 Stat. 600; Aug. 15, 1950, ch. 714, §3(a)–(d), 64 Stat. 446; 1953 Reorg.Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 91–515, title VI, §601(a)(1), Oct. 30, 1970, 84 Stat. 1310; Pub. L. 91–616, title IV, §401, Dec. 31, 1970, 84 Stat. 1853; Pub. L. 92–157, title III, §301(b), Nov. 18, 1971, 85 Stat. 463; Pub. L. 92–218, §6(a)(1), Dec. 23, 1971, 85 Stat. 785; Pub. L. 92–255, title V, §502(a), Mar. 21, 1972, 86 Stat. 85; Pub. L. 92–423, §7(a), Sept. 19, 1972, 86 Stat. 687; Pub. L. 93–348, title II, §211(a), July 12, 1974, 88 Stat. 351; Pub. L. 94–63, title IV, §401(b), July 29, 1975, 89 Stat. 341; Pub. L. 94–371, §9, July 26, 1976, 90 Stat. 1040; Pub. L. 95–622, title III, §302(b), Nov. 9, 1978, 92 Stat. 3442; Pub. L. 95–626, title I, §102(b)(1), Nov. 10, 1978, 92 Stat. 3551; Pub. L. 96–180, §13, Jan. 2, 1980, 93 Stat. 1304; Pub. L. 96–181, §14, Jan. 2, 1980, 93 Stat. 1315; Pub. L. 98–24, §2(a)(2), Apr. 26, 1983, 97 Stat. 176; Pub. L. 98–509, title III, §302, Oct. 19, 1984, 98 Stat. 2364; Pub. L. 99–158, §3(a)(2), (3), Nov. 20, 1985, 99 Stat. 878, 879; Pub. L. 99–570, title IV, §4004(c), Oct. 27, 1986, 100 Stat. 3207–111; Pub. L. 99–660, title III, §311(b)(1), Nov. 14, 1986, 100 Stat. 3779.)
+(July 1, 1944, ch. 373, title II, §217, 58 Stat. 691; July 3, 1946, ch. 538, §5(b)–(d), 60 Stat. 422; June 16, 1948, ch. 481, §§4(a)–(c), 6(b), 62 Stat. 467, 469; June 24, 1948, ch. 621, §4(a)–(c), 62 Stat. 600; Aug. 15, 1950, ch. 714, §3(a)–(d), 64 Stat. 446; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 91–515, title VI, §601(a)(1), Oct. 30, 1970, 84 Stat. 1310; Pub. L. 91–616, title IV, §401, Dec. 31, 1970, 84 Stat. 1853; Pub. L. 92–157, title III, §301(b), Nov. 18, 1971, 85 Stat. 463; Pub. L. 92–218, §6(a)(1), Dec. 23, 1971, 85 Stat. 785; Pub. L. 92–255, title V, §502(a), Mar. 21, 1972, 86 Stat. 85; Pub. L. 92–423, §7(a), Sept. 19, 1972, 86 Stat. 687; Pub. L. 93–348, title II, §211(a), July 12, 1974, 88 Stat. 351; Pub. L. 94–63, title IV, §401(b), July 29, 1975, 89 Stat. 341; Pub. L. 94–371, §9, July 26, 1976, 90 Stat. 1040; Pub. L. 95–622, title III, §302(b), Nov. 9, 1978, 92 Stat. 3442; Pub. L. 95–626, title I, §102(b)(1), Nov. 10, 1978, 92 Stat. 3551; Pub. L. 96–180, §13, Jan. 2, 1980, 93 Stat. 1304; Pub. L. 96–181, §14, Jan. 2, 1980, 93 Stat. 1315; Pub. L. 98–24, §2(a)(2), Apr. 26, 1983, 97 Stat. 176; Pub. L. 98–509, title III, §302, Oct. 19, 1984, 98 Stat. 2364; Pub. L. 99–158, §3(a)(2), (3), Nov. 20, 1985, 99 Stat. 878, 879; Pub. L. 99–570, title IV, §4004(c), Oct. 27, 1986, 100 Stat. 3207–111; Pub. L. 99–660, title III, §311(b)(1), Nov. 14, 1986, 100 Stat. 3779.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -26,7 +28,7 @@ Section 14(a) of the Federal Advisory Committee Act, referred to in subsec. (d),
 
 #### Amendments
 
-<b>1986</b>—Pub. L. 99–570 redesignated former subsec. (e)(1) to (4) as subsecs. (a) to (d), respectively, in subsec. (c), further redesignated former cls. (A) and (B) as (1) and (2), respectively, and struck out former subsecs. (a) to (d), which related, respectively, to composition, qualifications, appointment and tenure of the National Advisory Mental Health Council and the National Advisory Council on Alcohol Abuse and Alcoholism; duties of the National Advisory Mental Health Council; duties of the National Advisory Council on Alcohol Abuse and Alcoholism; and the composition, qualifications, and duties of the National Advisory Council on Drug Abuse.
+<b>1986</b>—Pub. L. 99–570 redesignated former subsec. (e)(1) to (4) as subsecs. (a) to (d), respectively, in subsec. (c), further redesignated former cls. (A) and (B) as (1) and (2), respectively, and struck out former subsecs. (a) to (d), which related, respectively, to composition, qualifications, appointment and tenure of the National Advisory Mental Health Council and the National Advisory Council on Alcohol Abuse and Alcoholism; duties of the National Advisory Mental Health Council; dutiesof the National Advisory Council on Alcohol Abuse and Alcoholism; and the composition, qualifications, and duties of the National Advisory Council on Drug Abuse.
 
 Subsec. (c). Pub. L. 99–660 which directed that "section 300cc of this title" be substituted for "section 300aa of this title" could not be executed because the reference in question appeared in former subsec. (c) which was repealed by Pub. L. 99–570.
 
@@ -108,6 +110,12 @@ Subsec. (b). Act July 3, 1946, inserted "or of the National Advisory Mental Heal
 
 Subsecs. (d), (e). Act July 3, 1946, added subsecs. (d) and (e).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsecs. (a) and (c) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+
 #### Effective Date of 1978 Amendment
 
 Pub. L. 95–622, title III, §302(b), Nov. 9, 1978, 92 Stat. 3442, provided that the amendment made by that section is effective Nov. 1, 1978.
@@ -138,14 +146,6 @@ Pub. L. 92–218, §7, Dec. 23, 1971, 85 Stat. 785, provided that:
 
 Act Aug. 15, 1950, ch. 714, §3(a), (c), 64 Stat. 446, provided that the amendments and repeals made by section 3(a) and (c) are effective Oct. 1, 1950.
 
-#### Transfer of Functions
-
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
-
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20.
-
-For transfer of certain membership functions, insofar as they pertain to the Air Force, which functions were not previously transferred from Secretary of the Army to Secretary of the Air Force and from Department of the Army to Department of the Air Force, see Secretary of Defense Transfer Order No. 40 \[App. C(7)\], July 22, 1949.
-
 #### Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center
 
 Reference to community health center, migrant health center, public housing health center, or homeless health center considered reference to health center, see section 4(c) of Pub. L. 104–299, set out as a note under section 254b of this title.
@@ -161,6 +161,16 @@ Pub. L. 99–158, §3(a)(1), Nov. 20, 1985, 99 Stat. 878, provided that: "The Na
 #### Termination of Advisory Committees
 
 Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title.
+
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
+
+For transfer of certain membership functions, insofar as they pertain to the Air Force, which functions were not previously transferred from Secretary of the Army to Secretary of the Air Force and from Department of the Army to Department of the Air Force, see Secretary of Defense Transfer Order No. 40 \[App. C(7)\], July 22, 1949.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

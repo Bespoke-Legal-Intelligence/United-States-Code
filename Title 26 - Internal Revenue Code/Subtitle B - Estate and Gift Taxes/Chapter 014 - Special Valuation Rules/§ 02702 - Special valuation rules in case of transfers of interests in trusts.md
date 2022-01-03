@@ -80,6 +80,8 @@ For purposes of this section, the term "member of the family" shall have the mea
 
 (Added Pub. L. 101–508, title XI, §11602(a), Nov. 5, 1990, 104 Stat. 1388–497; amended Pub. L. 104–188, title I, §1702(f)(11), Aug. 20, 1996, 110 Stat. 1872.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (a)(3)(A)(i). Pub. L. 104–188, §1702(f)(11)(A)(i), (ii), (B)(i), substituted "if" for "to the extent" and "incomplete gift" for "incomplete transfer", and struck out "or" at end.
@@ -90,7 +92,9 @@ Subsec. (a)(3)(A)(iii). Pub. L. 104–188, §1702(f)(11)(A)(iv), added cl. (iii)
 
 Subsec. (a)(3)(B). Pub. L. 104–188, §1702(f)(11)(B), substituted "incomplete gift" for "incomplete transfer" in heading and text.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
+Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates,see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
 

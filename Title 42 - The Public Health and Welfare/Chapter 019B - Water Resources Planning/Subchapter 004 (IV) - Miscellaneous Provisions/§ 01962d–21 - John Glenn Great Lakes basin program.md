@@ -4,7 +4,7 @@
 
 #### (1) Study
 
-&emsp;The Secretary shall conduct a comprehensive study of the Great Lakes region to ensurethe future use, management, and protection of water resources and related resources of the Great Lakes basin.
+&emsp;The Secretary shall conduct a comprehensive study of the Great Lakes region to ensure the future use, management, and protection of water resources and related resources of the Great Lakes basin.
 
 #### (2) Report
 
@@ -110,6 +110,8 @@ The non-Federal interest may provide up to 100 percent of the non-Federal share 
 
 (Pub. L. 106–53, title IV, §455, Aug. 17, 1999, 113 Stat. 330; Pub. L. 110–114, title IV, §4001, Nov. 8, 2007, 121 Stat. 1173.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 1999, and not as part of the Water Resources Planning Act which comprises this chapter.
@@ -117,6 +119,8 @@ Section was enacted as part of the Water Resources Development Act of 1999, and 
 #### Amendments
 
 <b>2007</b>—Subsec. (g). Pub. L. 110–114 added subsec. (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

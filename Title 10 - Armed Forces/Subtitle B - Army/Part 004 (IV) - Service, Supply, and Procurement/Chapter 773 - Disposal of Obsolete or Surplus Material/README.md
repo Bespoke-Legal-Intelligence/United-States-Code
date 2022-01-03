@@ -14,6 +14,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232, div. A, title VIII, §808(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 443 of this title as this chapter and items 4682 to 4690 as 7682 to 7690, respectively.
@@ -32,13 +34,15 @@
 
 <b>1997</b>—Pub. L. 105–85, div. A, title X, §1065(a)(2), Nov. 18, 1997, 111 Stat. 1895, added item 4687.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Repurposing and Reuse of Surplus Army Firearms
 
 Pub. L. 115–91, div. A, title III, §348, Dec. 12, 2017, 131 Stat. 1365, as amended by Pub. L. 115–232, div. A, title III, §354, Aug. 13, 2018, 132 Stat. 1731, provided that:
 
 "(a)
 
-Required Transfer.—Not later than 90 days after the date of the enactment of this Act \[Dec. 12, 2017\], and subject to subsection (c), the Secretary of theArmy shall transfer to a suitable organic facility all excess firearms, related spare parts and components, small arms ammunition, and ammunition components currently stored at Defense Distribution Depot, Anniston, Alabama, that are no longer actively issued for military service and that are otherwise prohibited from commercial sale, or distribution, under Federal law.
+Required Transfer.—Not later than 90 days after the date of the enactment of this Act \[Dec. 12, 2017\], and subject to subsection (c), the Secretary of the Army shall transfer to a suitable organic facility all excess firearms, related spare parts and components, small arms ammunition, and ammunition components currently stored at Defense Distribution Depot, Anniston, Alabama, that are no longer actively issued for military service and that are otherwise prohibited from commercial sale, or distribution, under Federal law.
 
 "(b)
 
@@ -54,7 +58,7 @@ Items Exempt From Transfer.—M–1 Garand, caliber .45 M1911/M1911A1 pistols, c
 
 "(d)
 
-Annual Report.—Not later than 5 days after the budget of the President for a fiscal year is submitted to Congress under section 1105 of title 31, United States Code, the Secretary of the Army, in coordination with the Director of the Defense Logistics Agency, shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report specifying additional excess firearms, related spare parts and components, small arms ammunition, and ammunition components designated as no longer actively issued for military service and that are otherwise prohibited from commercial sale, or distribution, under Federal law. The Secretary of the Army shall designate these items to either be added to the transfer list for the purposes described under subsection (b) or the list of items exempted under subsection (c). The report may not include the redesignation or change in status of items previously designated for transfer or exemption pursuant to subsections \[sic\] (a) or (c).
+Annual Report.—Not later than 5 days after the budget of the President for a fiscal year is submitted toCongress under section 1105 of title 31, United States Code, the Secretary of the Army, in coordination with the Director of the Defense Logistics Agency, shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report specifying additional excess firearms, related spare parts and components, small arms ammunition, and ammunition components designated as no longer actively issued for military service and that are otherwise prohibited from commercial sale, or distribution, under Federal law. The Secretary of the Army shall designate these items to either be added to the transfer list for the purposes described under subsection (b) or the list of items exempted under subsection (c). The report may not include the redesignation or change in status of items previously designated for transfer or exemption pursuant to subsections \[sic\] (a) or (c).
 
 "(e)
 

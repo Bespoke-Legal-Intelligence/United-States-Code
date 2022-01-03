@@ -22,9 +22,13 @@ The words "captor or" between "any" and "claimant" are omitted because the Act o
 
 The section is worded in the style of Title 18, U.S. Code.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7678 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

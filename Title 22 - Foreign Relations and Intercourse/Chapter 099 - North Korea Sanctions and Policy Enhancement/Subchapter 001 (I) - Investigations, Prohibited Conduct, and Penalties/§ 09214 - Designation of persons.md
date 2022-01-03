@@ -16,9 +16,9 @@ Except as provided in section 9228 of this title, the President shall designate 
 
 &emsp;(6) knowingly, directly or indirectly, engages in money laundering, the counterfeiting of goods or currency, bulk cash smuggling, or narcotics trafficking that supports the Government of North Korea or any senior official or person acting for or on behalf of that Government;
 
-&emsp;(7) knowingly engages in significant activities undermining cybersecurity through theuse of computer networks or systems against foreign persons, governments, or other entities on behalf of the Government of North Korea;
+&emsp;(7) knowingly engages in significant activities undermining cybersecurity through the use of computer networks or systems against foreign persons, governments, or other entities on behalf of the Government of North Korea;
 
-&emsp;(8) knowingly, directly or indirectly, sells, supplies, or transfers to or from the Government of North Korea or any person acting for or on behalf of that Government, a significant amount of precious metal, graphite, raw or semi-finished metals or aluminum, steel, coal, or software, for use by or in industrial processes directly related to weapons of mass destruction and delivery systems for such weapons, other proliferation activities, the Korean Workers' Party, armed forces, internal security, or intelligence activities, or the operation and maintenance of political prison camps or forced labor camps, including outside of North Korea;
+&emsp;(8) knowingly, directly or indirectly, sells, supplies, or transfers to or from the Government of North Korea or any person acting for or on behalf of that Government, a significant amount of precious metal, graphite, raw or semi-finished metals or aluminum, steel, coal, or software, for use by or in industrial processes directly related to weapons of mass destruction and delivery systems for such weapons, other proliferation activities, the Korean Workers' Party, armed forces, internal security, or intelligence activities, or the operation and maintenance of political prisoncamps or forced labor camps, including outside of North Korea;
 
 &emsp;(9) knowingly, directly or indirectly, imports, exports, or reexports to, into, or from North Korea any arms or related materiel or any defense article or defense service (as such terms are defined in section 2794 of this title);
 
@@ -72,7 +72,7 @@ Except as provided in section 9228 of this title, the President shall designate 
 
 &emsp;&emsp;(J) knowingly, directly or indirectly, purchased or otherwise acquired fishing rights from the Government of North Korea;
 
-&emsp;&emsp;(K) knowingly, directly or indirectly, purchased or otherwise acquired significant types or amounts of food or agriculturalproducts from the Government of North Korea;
+&emsp;&emsp;(K) knowingly, directly or indirectly, purchased or otherwise acquired significant types or amounts of food or agricultural products from the Government of North Korea;
 
 &emsp;&emsp;(L) knowingly, directly or indirectly, engaged in, facilitated, or was responsible for the exportation of workers from North Korea in a manner intended to generate significant revenue, directly or indirectly, for use by the Government of North Korea or by the Workers' Party of Korea;
 

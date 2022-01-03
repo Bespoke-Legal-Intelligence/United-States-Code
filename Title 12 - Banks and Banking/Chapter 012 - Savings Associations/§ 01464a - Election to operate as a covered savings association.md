@@ -66,7 +66,7 @@ The Comptroller shall issue rules to carry out this section—
 
 #### (g) Grandfathered covered savings associations
 
-Subject to the rules issued under subsection (f), a covered savings association may continue to operate as a covered savings association if, after the date on which the election is madeunder subsection (b), the covered savings association has total consolidated assets greater than $20,000,000,000.
+Subject to the rules issued under subsection (f), a covered savings association may continue to operate as a covered savings association if, after the date on which the election is made under subsection (b), the covered savings association has total consolidated assets greater than $20,000,000,000.
 
 (June 13, 1933, ch. 64, §5A, as added Pub. L. 115–174, title II, §206, May 24, 2018, 132 Stat. 1310.)
 

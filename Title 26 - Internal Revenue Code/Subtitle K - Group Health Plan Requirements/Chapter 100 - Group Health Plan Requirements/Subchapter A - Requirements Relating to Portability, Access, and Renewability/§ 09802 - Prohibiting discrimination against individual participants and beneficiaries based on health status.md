@@ -82,7 +82,7 @@
 
 &emsp;Notwithstanding paragraph (1), a group health plan may request, but not require, that a participant or beneficiary undergo a genetic test if each of the following conditions is met:
 
-&emsp;&emsp;(A) The request is made pursuant to research that complies with part 46 of title 45,Code of Federal Regulations, or equivalent Federal regulations, and any applicable State or local law or regulations for the protection of human subjects in research.
+&emsp;&emsp;(A) The request is made pursuant to research that complies with part 46 of title 45, Code of Federal Regulations, or equivalent Federal regulations, and any applicable State or local law or regulations for the protection of human subjects in research.
 
 &emsp;&emsp;(B) The plan clearly indicates to each participant or beneficiary, or in the case of a minor child, to the legal guardian of such beneficiary, to whom the request is made that—
 
@@ -134,6 +134,8 @@ Any reference in this chapter to genetic information concerning an individual or
 
 (Added Pub. L. 104–191, title IV, §401(a), Aug. 21, 1996, 110 Stat. 2078; amended Pub. L. 105–34, title XV, §1532(a), Aug. 5, 1997, 111 Stat. 1085; Pub. L. 110–233, title I, §103(a)–(c), May 21, 2008, 122 Stat. 896, 897; Pub. L. 113–295, div. A, title II, §220(aa), Dec. 19, 2014, 128 Stat. 4037.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Social Security Act, referred to in subsec. (c)(3)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part C of title XI of the Act is classified generally to part C (§1320d et seq.) of subchapter XI of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
@@ -155,6 +157,8 @@ Subsec. (f). Pub. L. 110–233, §103(c), added subsec. (f) relating to genetic 
 Pub. L. 110–233, §103(b), redesignated subsec. (c) as (f) relating to special rules for church plans.
 
 <b>1997</b>—Subsec. (c). Pub. L. 105–34 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

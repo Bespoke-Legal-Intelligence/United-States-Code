@@ -40,7 +40,7 @@ The Secretary of Energy may carry out a program to undertake an accelerated, com
 
 &emsp;(M) Programs to—
 
-&emsp;&emsp;(i) assist in the placement of employees displaced as a result of actions pursuant tothe program in enterprises not representing a proliferation threat; and
+&emsp;&emsp;(i) assist in the placement of employees displaced as a result of actions pursuant to the program in enterprises not representing a proliferation threat; and
 
 &emsp;&emsp;(ii) convert sites identified as presenting risks of proliferation regarding proliferation-attractive fissile materials, radiological materials, and related equipment to purposes not representing a proliferation threat to the extent necessary to eliminate the proliferation threat.
 
@@ -96,7 +96,7 @@ Amounts authorized to be appropriated to the Secretary of Energy for defense nuc
 
 #### (6) Expiration
 
-&emsp;The authority to accept, retain, and use contributions under this subsection expires on December 31, 2023.
+&emsp;The authority to accept, retain, and use contributions under this subsection expires on December 31, 2028.
 
 #### (g) Definitions
 
@@ -106,7 +106,7 @@ In this section:
 
 &emsp;(2) The term "radiological materials" includes Americium-241, Californium-252, Cesium-137, Cobalt-60, Iridium-192, Plutonium-238, Radium-226, Strontium-90, Curium-244, and irradiated items containing such materials, or other materials designated by the Secretary of Energy for purposes of this paragraph.
 
-&emsp;(3) The term "related equipment" includes equipment useful for enrichment of uraniumin the isotope 235 and for extraction of fissile materials from irradiated fuel rods and other equipment designated by the Secretary of Energy for purposes of this section.
+&emsp;(3) The term "related equipment" includes equipment useful for enrichment of uranium in the isotope 235 and for extraction of fissile materials from irradiated fuel rods and other equipment designated by the Secretary of Energy for purposes of this section.
 
 &emsp;(4) The term "highly-enriched uranium" means uranium enriched to or above 20 percent in the isotope 235.
 
@@ -114,13 +114,13 @@ In this section:
 
 &emsp;(6) The term "proliferation-attractive", in the case of fissile materials and radiological materials, means quantities and types of such materials that are determined by the Secretary of Energy to present a significant risk to the national security of the United States if diverted to a use relating to proliferation.
 
-(Pub. L. 108–375, div. C, title XXXI, §3132, Oct. 28, 2004, 118 Stat. 2166; Pub. L. 109–364, div. C, title XXXI, §3113, Oct. 17, 2006, 120 Stat. 2504; Pub. L. 112–239, div. C, title XXXI, §3118, Jan. 2, 2013, 126 Stat. 2173; Pub. L. 115–232, div. C, title XXXI, §3114, Aug. 13, 2018, 132 Stat. 2290.)
+(Pub. L. 107–314, div. D, title XLIII, §4306B, formerly Pub. L. 108–375, div. C, title XXXI, §3132,Oct. 28, 2004, 118 Stat. 2166; Pub. L. 109–364, div. C, title XXXI, §3113, Oct. 17, 2006, 120 Stat. 2504; Pub. L. 112–239, div. C, title XXXI, §3118, Jan. 2, 2013, 126 Stat. 2173; Pub. L. 115–232, div. C, title XXXI, §3114, Aug. 13, 2018, 132 Stat. 2290; renumbered Pub. L. 107–314, div. D, title XLIII, §4306B, and amended Pub. L. 117–81, div. C, title XXXI, §3118(a), Dec. 27, 2021, 135 Stat. 2228.)
 
-#### Codification
-
-Section was enacted as part of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005, and not as part of the Atomic Energy Defense Act which comprises this chapter.
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (f)(6). Pub. L. 117–81, §3118(a)(4), substituted "December 31, 2028" for "December 31, 2023".
 
 <b>2018</b>—Subsec. (f)(5). Pub. L. 115–232, §3114(1), (2), redesignated par. (6) as (5) and struck out former par. (5). Prior to amendment text of par. (5) read as follows: "Not later than 30 days after the receipt of an amount contributed under paragraph (1), the Secretary of Energy shall submit to the congressional defense committees a notice specifying the purpose and value of the contribution and identifying the person who contributed it. The Secretary may not use the amount until 15 days after the notice is submitted."
 
@@ -131,6 +131,8 @@ Subsec. (f)(6), (7). Pub. L. 115–232, §3114(2), (3), redesignated par. (7) as
 Subsec. (f)(7). Pub. L. 112–239, §3118(b), substituted "December 31, 2018" for "December 31, 2013".
 
 <b>2006</b>—Subsecs. (f), (g). Pub. L. 109–364 added subsec. (f) and redesignated former subsec. (f) as (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Acceleration of Replacement of Cesium Blood Irradiation Sources
 

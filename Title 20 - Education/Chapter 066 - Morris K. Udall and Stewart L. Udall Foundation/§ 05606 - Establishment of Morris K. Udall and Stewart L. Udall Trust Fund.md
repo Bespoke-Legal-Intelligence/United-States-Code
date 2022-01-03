@@ -12,6 +12,8 @@ In general.—It shall be the duty of the Secretary of the Treasury to invest, a
 
 (Pub. L. 102–259, §8, Mar. 19, 1992, 106 Stat. 82; Pub. L. 105–156, §9, Feb. 11, 1998, 112 Stat. 12; Pub. L. 111–90, §7, Nov. 3, 2009, 123 Stat. 2978.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2009</b>—Pub. L. 111–90 substituted "and Stewart L. Udall" for "Scholarship and Excellence in National Environmental Policy" in section catchline and in subsec. (a).

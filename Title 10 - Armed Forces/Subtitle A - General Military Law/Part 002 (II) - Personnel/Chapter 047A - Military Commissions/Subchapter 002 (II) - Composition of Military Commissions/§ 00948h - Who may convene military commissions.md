@@ -1,8 +1,10 @@
 ### §948h. Who may convene military commissions
 
-Military commissions under this chapter may be convened by the Secretary of Defense or byany officer or official of the United States designated by the Secretary for that purpose.
+Military commissions under this chapter may be convened by the Secretary of Defense or by any officer or official of the United States designated by the Secretary for that purpose.
 
 (Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2576.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

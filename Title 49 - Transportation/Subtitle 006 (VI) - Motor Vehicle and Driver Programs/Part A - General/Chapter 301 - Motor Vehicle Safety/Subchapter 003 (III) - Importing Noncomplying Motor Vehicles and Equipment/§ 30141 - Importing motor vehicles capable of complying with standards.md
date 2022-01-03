@@ -126,9 +126,13 @@ In subsection (d)(1), before clause (A), the word "conditions" is omitted as bei
 
 This amends 49:30141(c)(4)(A) and 30165(a) to correct erroneous cross-references.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (c)(4)(A). Pub. L. 103–429 substituted "any of sections 30112" for "section 30112" and inserted "any of" before "those sections".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

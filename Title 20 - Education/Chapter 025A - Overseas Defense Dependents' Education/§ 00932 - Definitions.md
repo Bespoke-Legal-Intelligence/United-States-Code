@@ -26,7 +26,9 @@ For purposes of this chapter:
 
 &emsp;(6) The term "Director" means the Director of the Department of Defense Education Activity.
 
-(Pub. L. 95–561, title XIV, §1414, Nov. 1, 1978, 92 Stat. 2372; Pub. L. 101–189, div. A, title III,§325(a), Nov. 29, 1989, 103 Stat. 1415; Pub. L. 101–510, div. A, title V, §504(b), Nov. 5, 1990, 104 Stat. 1559; Pub. L. 106–65, div. A, title III, §354(7), Oct. 5, 1999, 113 Stat. 574.)
+(Pub. L. 95–561, title XIV, §1414, Nov. 1, 1978, 92 Stat. 2372; Pub. L. 101–189, div. A, title III, §325(a), Nov. 29, 1989, 103 Stat. 1415; Pub. L. 101–510, div. A, title V, §504(b), Nov. 5, 1990, 104 Stat. 1559; Pub. L. 106–65, div. A, title III, §354(7), Oct. 5, 1999, 113 Stat. 574.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -40,9 +42,13 @@ For purposes of this chapter:
 
 &emsp;"(B) a civilian officer or employee of the Department of Defense paid from appropriated funds."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–189 applicable with respect to periods of enrollment in schools of the defense dependents' education system beginning after Sept. 30, 1989, see section 325(c) of Pub. L. 101–189, set out as a note under section 923 of this title.
+Amendment by Pub. L. 101–189 applicable with respect to periods of enrollment in schools of the defense dependents' education system beginning after Sept. 30,1989, see section 325(c) of Pub. L. 101–189, set out as a note under section 923 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Termination of Trust Territory of the Pacific Islands
 

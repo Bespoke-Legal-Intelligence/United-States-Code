@@ -44,7 +44,7 @@ The Secretary may not make a grant under this part unless the applicant for the 
 
 #### (d) Maintenance of support
 
-The Secretary may not make a grant under this part unless the applicant for the grant agrees to maintain the expenditures of the applicant for early intervention services at a level equal to not less than the level of such expenditures maintained by the State for the fiscal year preceding the fiscal year for which the applicant is applying to receive the grant.
+The Secretary may not make a grant under this part unless the applicant for the grantagrees to maintain the expenditures of the applicant for early intervention services at a level equal to not less than the level of such expenditures maintained by the State for the fiscal year preceding the fiscal year for which the applicant is applying to receive the grant.
 
 #### (e) Requirements regarding imposition of charges for services
 
@@ -52,7 +52,7 @@ The Secretary may not make a grant under this part unless the applicant for the 
 
 &emsp;The Secretary may not make a grant under this part unless, subject to paragraph (5), the applicant for the grant agrees that—
 
-&emsp;&emsp;(A) in the case of individuals with an income less than or equal to 100 percent of theofficial poverty line, the applicant will not impose a charge on any such individual for the provision of early intervention services under the grant;
+&emsp;&emsp;(A) in the case of individuals with an income less than or equal to 100 percent of the official poverty line, the applicant will not impose a charge on any such individual for the provision of early intervention services under the grant;
 
 &emsp;&emsp;(B) in the case of individuals with an income greater than 100 percent of the official poverty line, the applicant—
 
@@ -108,17 +108,19 @@ The Secretary may not make a grant under this part unless the applicant for the 
 
 &emsp;(2) the applicant will establish such procedures for fiscal control and fund accounting as may be necessary to ensure proper disbursement and accounting with respect to the grant;
 
-&emsp;(3) the applicant will not expend more than 10 percent of the grant for administrative expenses with respect to the grant, including planning and evaluation, except that the costs of a clinical quality management program under paragraph (5) may not be considered administrative expenses for purposes of such limitation;
+&emsp;(3) the applicant will not expend more than 10 percent of the grant for administrative expenses with respect to the grant, including planning and evaluation, except that the costsof a clinical quality management program under paragraph (5) may not be considered administrative expenses for purposes of such limitation;
 
 &emsp;(4) the applicant will submit evidence that the proposed program is consistent with the statewide coordinated statement of need and agree to participate in the ongoing revision of such statement of need; and
 
 &emsp;(5) the applicant will provide for the establishment of a clinical quality management program—
 
-&emsp;&emsp;(A) to assess the extent to which medical services funded under this subchapter that are provided to patients are consistent withthe most recent Public Health Service guidelines for the treatment of HIV/AIDS and related opportunistic infections, and as applicable, to develop strategies for ensuring that such services are consistent with the guidelines; and
+&emsp;&emsp;(A) to assess the extent to which medical services funded under this subchapter that are provided to patients are consistent with the most recent Public Health Service guidelines for the treatment of HIV/AIDS and related opportunistic infections, and as applicable, to develop strategies for ensuring that such services are consistent with the guidelines; and
 
 &emsp;&emsp;(B) to ensure that improvements in the access to and quality of HIV health services are addressed.
 
 (July 1, 1944, ch. 373, title XXVI, §2664, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 611; amended Pub. L. 104–146, §3(d)(5), May 20, 1996, 110 Stat. 1358; Pub. L. 106–345, title III, §§301(b)(3), 322, Oct. 20, 2000, 114 Stat. 1345, 1346; Pub. L. 109–415, title III, §§301(b), 306(b), (c), title VII, §§702(3), 703, Dec. 19, 2006, 120 Stat. 2806, 2809, 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -151,6 +153,8 @@ Subsec. (h). Pub. L. 106–345, §301(b)(3)(C), struck out heading and text of s
 <b>1996</b>—Subsec. (g)(3). Pub. L. 104–146, §3(d)(5)(B)(i), substituted "7.5 percent including planning and evaluation" for "5 percent".
 
 Subsec. (g)(4). Pub. L. 104–146, §3(d)(5)(A), (B)(ii), (C), added par. (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment; Revival of Section
 

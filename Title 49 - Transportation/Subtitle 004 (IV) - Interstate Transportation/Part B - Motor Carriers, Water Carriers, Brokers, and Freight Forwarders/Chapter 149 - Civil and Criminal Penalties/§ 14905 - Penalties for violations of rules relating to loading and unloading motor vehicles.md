@@ -2,7 +2,7 @@
 
 (a)
 
-Civil Penalties.—Whoever knowingly authorizes, consents to, or permits a violation ofsubsection (a) or (b) of section 14103 or who knowingly violates subsection (a) of such section is liable to the United States for a civil penalty of not more than $10,000 for each violation.
+Civil Penalties.—Whoever knowingly authorizes, consents to, or permits a violation of subsection (a) or (b) of section 14103 or who knowingly violates subsection (a) of such section is liable to the United States for a civil penalty of not more than $10,000 for each violation.
 
 (b)
 
@@ -10,9 +10,13 @@ Criminal Penalties.—Whoever knowingly violates section 14103(b) of this title 
 
 (Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 916.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 11902a of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

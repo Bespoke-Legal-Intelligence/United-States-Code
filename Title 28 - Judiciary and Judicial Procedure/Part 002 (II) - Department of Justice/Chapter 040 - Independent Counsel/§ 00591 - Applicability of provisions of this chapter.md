@@ -34,7 +34,7 @@ In general.—When the Attorney General determines that an investigation or pros
 
 &emsp;(2)
 
-Members of congress.—When the Attorney General determines that it would be in the public interest, the Attorney General may conduct a preliminary investigation in accordance with section 592 if the Attorney General receives information sufficient to constitute grounds to investigate whether a Member of Congress may have violated any Federal criminal law other than a violation classified as a Class B or C misdemeanor or an infraction.
+Members of congress.—When the Attorney General determines that it would be in the public interest, the Attorney General may conduct a preliminary investigation in accordance with section 592 if the Attorney General receives information sufficient to constitute grounds to investigate whether a Member of Congress may have violated any Federal criminal law other than a violation classifiedas a Class B or C misdemeanor or an infraction.
 
 (d)
 
@@ -58,7 +58,7 @@ Recusal of Attorney General.—
 
 &emsp;(1)
 
-When recusal is required.—(A) If information received under this chapter involvesthe Attorney General, the next most senior official in the Department of Justice who is not also recused shall perform the duties assigned under this chapter to the Attorney General.
+When recusal is required.—(A) If information received under this chapter involves the Attorney General, the next most senior official in the Department of Justice who is not also recused shall perform the duties assigned under this chapter to the Attorney General.
 
 &emsp;(B) If information received under this chapter involves a person with whom the Attorney General has a personal or financial relationship, the Attorney General shall recuse himself or herself by designating the next most senior official in the Department of Justice who is not also recused to perform the duties assigned under this chapter to the Attorney General.
 
@@ -106,7 +106,7 @@ Requirements for recusal determination.—The Attorney General shall, before per
 
 <b>1983</b>—Subsec. (a). Pub. L. 97–409, §4(a)(1), substituted "information sufficient to constitute grounds to investigate" for "specific information" after "the Attorney General receives".
 
-Subsec. (b)(3). Pub. L. 97–409, §3, substituted "who is compensated at or above a rate equivalent to level II" for "and compensated at a rate not less than the annual rate of basic pay provided for level IV".
+Subsec. (b)(3). Pub. L. 97–409, §3, substituted "who is compensated at or above a rate equivalent to level II"for "and compensated at a rate not less than the annual rate of basic pay provided for level IV".
 
 Subsec. (b)(4), (5). Pub. L. 97–409, §3, redesignated as par. (5) "the Director of Central Intelligence" and all that followed through end of par. (4). Former par. (5) redesignated (6).
 
@@ -122,7 +122,7 @@ Subsec. (c). Pub. L. 97–409, §4(a)(2), added subsec. (c).
 
 #### Change of Name
 
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head ofthe Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.
 
 #### Effective Date of 1994 Amendment; Transition Provisions
 
@@ -182,7 +182,7 @@ Pending Proceedings.—With respect to any proceeding under chapter 39 of title 
 
 &emsp;&emsp;"(A) Section 593(f) of title 28, United States Code, as amended by section 2 of this Act, relating to the award of attorneys' fees.
 
-&emsp;&emsp;"(B) Section 594(d)(2) of such title, as added by section 2 of this Act, to the extent that such section 594(d)(2) relates to reports by the Attorney General on expenditures by independent counsel, except that the first such report shall be made only with respect to expenditures on or after the date of the enactment of this Act.
+&emsp;&emsp;"(B) Section 594(d)(2) of such title, as added by section 2 of this Act, to the extent that such section 594(d)(2) relates to reports by the Attorney General on expenditures by independent counsel, except that the first such report shall be made onlywith respect to expenditures on or after the date of the enactment of this Act.
 
 &emsp;&emsp;"(C) Section 594(h)(1)(A) of such title, as added by section 2 of this Act, relating to reports by independent counsel, except that the 6-month periods described in such section 594(h)(1)(A) shall be calculated from the date of the enactment of this Act.
 
@@ -204,7 +204,7 @@ Pub. L. 98–473, title II, §235(a)(1)(B)(ii)(IV), Oct. 12, 1984, 98 Stat. 2032
 
 #### Effective Date
 
-Pub. L. 95–521, title VI, §604, Oct. 26, 1978, 92 Stat. 1875, provided that: "Except as provided in this section,the amendments made by this title \[enacting this chapter and sections 49, 528, and 529 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 26, 1978\]. The provisions of chapter 39 of title 28 of the United States Code, as added by section 601 of this Act, shall not apply to specific information received by the Attorney General pursuant to section 591 of such title 28, if the Attorney General determines that—
+Pub. L. 95–521, title VI, §604, Oct. 26, 1978, 92 Stat. 1875, provided that: "Except as provided in this section, the amendments made by this title \[enacting this chapter and sections 49, 528, and 529 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 26, 1978\]. The provisions of chapter 39 of title 28 of the United States Code, as added by section 601 of this Act, shall not apply to specific information received by the Attorney General pursuant to section 591 of such title 28, if the Attorney General determines that—
 
 &emsp;"(1) such specific information is directly related to a prosecution pending at the time such specific information is received by the Attorney General;
 

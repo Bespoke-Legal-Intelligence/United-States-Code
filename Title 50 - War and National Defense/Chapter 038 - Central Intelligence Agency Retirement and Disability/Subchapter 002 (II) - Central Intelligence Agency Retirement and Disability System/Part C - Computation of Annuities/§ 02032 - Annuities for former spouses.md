@@ -78,7 +78,7 @@
 
 #### (A) Maximum amount
 
-&emsp;&emsp;The maximum survivor annuity or combination of survivor annuities under this subsection (and section 2031(b)(3) of this title) with respect to any participant may not exceed 55 percent of the full amount of the participant's annuity, as calculated under section 2031(a) of this title.
+&emsp;&emsp;The maximum survivor annuity or combination of survivor annuities under this subsection (and section 2031(b)(3) of this title) with respect to any participant may not exceed 55 percent of the full amount ofthe participant's annuity, as calculated under section 2031(a) of this title.
 
 #### (B) Limitation on other survivor annuities based on service of same participant
 
@@ -152,6 +152,8 @@
 
 (Pub. L. 88–643, title II, §222, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3212; amended Pub. L. 103–178, title II, §202(a)(5), Dec. 3, 1993, 107 Stat. 2026; Pub. L. 116–92, div. E, title LXII, §6202(b), Dec. 20, 2019, 133 Stat. 2186.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 222 of Pub. L. 88–643, as added Pub. L. 97–269, title VI, §606, Sept. 27, 1982, 96 Stat. 1148; amended Pub. L. 99–335, title V, §501(2), (3), June 6, 1986, 100 Stat. 622; Pub. L. 102–88, title III, §305(a)(2), Aug. 14, 1991, 105 Stat. 432, related to computation of annuities for former spouses and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
@@ -165,6 +167,8 @@ A prior section 222 of Pub. L. 88–643, as added Pub. L. 97–269, title VI, §
 Subsec. (c)(3)(C). Pub. L. 103–178, §202(a)(5)(B), inserted "the participant" before "or does not qualify".
 
 Subsec. (c)(4). Pub. L. 103–178, §202(a)(5)(C), substituted "before the spouse's or the former spouse's death" for "before the former spouse's death".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1993 Amendment
 
@@ -344,7 +348,7 @@ Disability annuities.—Notwithstanding subparagraph (A)(i)(II), in the case of 
 
 &emsp;&emsp;"(C)
 
-Election of benefits.—A former wife or husband of a participant or retired participant shall not become entitled under this subsection to an annuity or to the restoration of an annuity unless the former wife or husband elects to receive it instead of any survivor annuity to which the former wife orhusband may be entitled under the Central Intelligence Agency Retirement and Disability System or any other retirement system for Government employees on the basis of a marriage to someone other than the participant.
+Election of benefits.—A former wife or husband of a participant or retired participant shall not become entitled under this subsection to an annuity or to the restoration of an annuity unless the former wife or husband elects to receive it instead of any survivor annuity to which the former wife or husband may be entitled under the Central Intelligence Agency Retirement and Disability System or any other retirement system for Government employees on the basis of a marriage to someone other than the participant.
 
 &emsp;&emsp;"(D)
 

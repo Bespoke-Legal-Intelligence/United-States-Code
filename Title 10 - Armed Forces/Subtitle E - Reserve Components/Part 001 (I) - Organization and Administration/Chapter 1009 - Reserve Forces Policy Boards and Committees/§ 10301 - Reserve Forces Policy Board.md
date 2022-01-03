@@ -6,7 +6,7 @@ In General.—As provided in section 175 of this title, there is in the Office o
 
 (b)
 
-Functions.—The Board shall serve as an independent adviser to the Secretary of Defense to provide advice and recommendations to theSecretary on strategies, policies, and practices designed to improve and enhance the capabilities, efficiency, and effectiveness of the reserve components.
+Functions.—The Board shall serve as an independent adviser to the Secretary of Defense to provide advice and recommendations to the Secretary on strategies, policies, and practices designed to improve and enhance the capabilities, efficiency, and effectiveness of the reserve components.
 
 (c)
 
@@ -70,6 +70,8 @@ Relationship to Service Reserve Policy Committees and Boards.—This section doe
 
 (Added Pub. L. 103–337, div. A, title XVI, §1661(b)(1), Oct. 5, 1994, 108 Stat. 2980; amended Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title V, §515(b)(1)(CC), Jan. 6, 2006, 119 Stat. 3233; Pub. L. 111–383, div. A, title V, §514(a)(1), Jan. 7, 2011, 124 Stat. 4211.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 175 of this title, prior to amendment by Pub. L. 103–337, §1661(b)(3).
@@ -82,13 +84,15 @@ Provisions similar to those in this section were contained in section 175 of thi
 
 <b>2002</b>—Subsec. (b). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2011 Amendment
 
 Pub. L. 111–383, div. A, title V, §514(a)(2), Jan. 7, 2011, 124 Stat. 4213, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect on July 1, 2011."
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department ofHomeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
 #### Effective Date
 

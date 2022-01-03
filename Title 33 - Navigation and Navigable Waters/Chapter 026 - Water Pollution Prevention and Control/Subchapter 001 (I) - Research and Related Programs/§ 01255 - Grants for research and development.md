@@ -4,7 +4,7 @@
 
 The Administrator is authorized to conduct in the Environmental Protection Agency, and to make grants to any State, municipality, or intermunicipal or interstate agency for the purpose of assisting in the development of—
 
-&emsp;(1) any project which will demonstrate a new or improved method of preventing, reducing, and eliminating the discharge into any waters of pollutants from sewers which carry storm water or both storm water and pollutants; or
+&emsp;(1) any project which will demonstrate a new or improved method of preventing, reducing,and eliminating the discharge into any waters of pollutants from sewers which carry storm water or both storm water and pollutants; or
 
 &emsp;(2) any project which will demonstrate advanced waste treatment and water purification methods (including the temporary use of new or improved chemical additives which provide substantial immediate improvements to existing treatment processes), or new or improved methods of joint treatment systems for municipal and industrial wastes;
 
@@ -70,17 +70,11 @@ The Administrator is authorized to make a grant to any grantee who received an i
 
 <b>1975</b>—Subsec. (h). Pub. L. 93–592 substituted "the fiscal year ending June 30, 1974, and the fiscal year ending June 30, 1975," for "and the fiscal year ending June 30, 1974,".
 
-#### <b>Statutory Notes and Executive Documents</b>
-
-#### Transfer of Functions
-
-Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
-
 #### <b>Executive Documents</b>
 
 #### Transfer of Functions
 
-Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas were transferred to the Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until the first anniversary of date of initial operation of the Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees.
+Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas were transferred to the Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until the first anniversary of date of initial operation of the Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

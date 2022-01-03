@@ -60,6 +60,8 @@ The analysis referred to in subsection (b)(6) shall include, for each of the nex
 
 (Pub. L. 93–275, §15, May 7, 1974, 88 Stat. 108; Pub. L. 94–385, title I, §109(a)–(c), Aug. 14, 1976, 90 Stat. 1130.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For effective date of this chapter, referred to in subsecs. (a) and (c), see Effective and Termination Dates note set out under section 761 of this title.
@@ -71,6 +73,8 @@ For effective date of this chapter, referred to in subsecs. (a) and (c), see Eff
 Subsec. (b). Pub. L. 94–385, §109(a)(2), (b), redesignated subsec. (c) as (b) and added par. (6) and provisions requiring Administrator to include in report a discussion on benefits of employing a utility and Btu tax as a means for obtaining national energy goals. Former subsec. (b) redesignated (a).
 
 Subsecs. (c) to (e). Pub. L. 94–385, §109(a)(2), (c), redesignated subsecs. (c) to (e) as (b) to (d), respectively, and added new subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

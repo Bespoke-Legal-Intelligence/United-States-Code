@@ -4,9 +4,13 @@ Subject to regulations of the President, lightkeepers, assistant lightkeepers, a
 
 (Pub. L. 93–353, title I, §108(a), July 23, 1974, 88 Stat. 371.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as a part of Health Services Research, Health Statistics, and Medical Libraries Act of 1974, and also as a part of Health Services Research and Evaluation and Health Statistics Act of 1974, and not as a part of the Public Health Service Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -14,5 +18,5 @@ Pub. L. 93–353, title I, §108(b), July 23, 1974, 88 Stat. 371, provided that:
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

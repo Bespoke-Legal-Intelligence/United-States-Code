@@ -88,7 +88,7 @@ Rural infrastructure projects.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—The interest rate of a loan offered to a rural infrastructureproject or a rural projects fund under the TIFIA program shall be at ½ of the Treasury Rate in effect on the date of execution of the loan agreement.
+In general.—The interest rate of a loan offered to a rural infrastructure project or a rural projects fund under the TIFIA program shall be at ½ of the Treasury Rate in effect on the date of execution of the loan agreement.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -108,7 +108,7 @@ Maturity date.—
 
 &emsp;&emsp;(A)
 
-In general.—Except as provided in subparagraph (B), the final maturity date of the secured loan shall be the lesser of—
+In general.—Except as provided in subparagraphs (B) and (C), the final maturity date of the secured loan shall be the lesser of—
 
 &emsp;&emsp;&emsp;(i) 35 years after the date of substantial completion of the project; and
 
@@ -117,6 +117,14 @@ In general.—Except as provided in subparagraph (B), the final maturity date of
 &emsp;&emsp;(B)
 
 Rural projects fund.—In the case of a project capitalizing a rural projects fund, the final maturity date of the secured loan shall not exceed 35 years after the date on which the secured loan is obligated.
+
+&emsp;&emsp;(C)
+
+Long lived assets.—In the case of a capital asset with an estimated life of more than 50 years, the final maturity date of the secured loan shall be the lesser of—
+
+&emsp;&emsp;&emsp;(i) 75 years after the date of substantial completion of the project; or
+
+&emsp;&emsp;&emsp;(ii) 75 percent of the estimated useful life of the capital asset.
 
 &emsp;(6)
 
@@ -218,7 +226,15 @@ Prepayment.—
 
 &emsp;&emsp;(A)
 
-Use of excess revenues.—Any excess revenues that remain after satisfying scheduled debt service requirements on the project obligations and secured loan and all deposit requirements under the terms of any trust agreement, bond resolution, or similar agreement securing project obligations may be applied annually to prepay the secured loan without penalty.
+Use of excess revenues.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—Except as provided in clause (ii), any excess revenues that remain after satisfying scheduled debt service requirements on the project obligations and secured loan and all deposit requirements under the terms of any trust agreement, bond resolution, or similar agreement securing project obligations may be applied annually to prepay the secured loan without penalty.
+
+&emsp;&emsp;&emsp;(ii)
+
+Certain applicants.—In the case of a secured loan or other secured Federal credit instrument provided after the date of enactment of the Surface Transportation Reauthorization Act of 2021, if the obligor is a governmental entity, agency, or instrumentality, the obligor shall not be required to prepay the secured loan or other secured Federal credit instrument with any excess revenues described in clause (i) if the obligor enters into an agreement to use those excess revenues only for purposes authorized under this title or title 49.
 
 &emsp;&emsp;(B)
 
@@ -266,17 +282,59 @@ Terms.—In establishing the streamlined application process required by this su
 
 &emsp;&emsp;(C) repayment of the loan commences not later than 5 years after disbursement.
 
-(Added Pub. L. 105–178, title I, §1503(a), June 9, 1998, 112 Stat. 245, §183; renumbered §603 and amended Pub. L. 109–59, title I, §§1601(d), 1602(b)(3), (5), (d), Aug. 10, 2005, 119 Stat. 1240, 1247; Pub. L. 112–141, div. A, title II, §2002, July 6, 2012, 126 Stat. 614; Pub. L. 114–94, div. A, title II, §2001(c), Dec. 4, 2015, 129 Stat. 1442.)
+&emsp;(3)
+
+Additional terms for expedited decisions.—
+
+&emsp;&emsp;(A)
+
+In general.—Not later than 120 days after the date of enactment of this paragraph, the Secretary shall implement an expedited decision timeline for public agency borrowers seeking secured loans that meet—
+
+&emsp;&emsp;&emsp;(i) the terms under paragraph (2); and
+
+&emsp;&emsp;&emsp;(ii) the additional criteria described in subparagraph (B).
+
+&emsp;&emsp;(B)
+
+Additional criteria.—The additional criteria referred to in subparagraph (A)(ii) are the following:
+
+&emsp;&emsp;&emsp;(i) The secured loan is made on terms and conditions that substantially conform to the conventional terms and conditions established by the National Surface Transportation Innovative Finance Bureau.
+
+&emsp;&emsp;&emsp;(ii) The secured loan is rated in the A category or higher.
+
+&emsp;&emsp;&emsp;(iii) The TIFIA program share of eligible project costs is 33 percent or less.
+
+&emsp;&emsp;&emsp;(iv) The applicant demonstrates a reasonable expectation that the contracting process for the project can commence by not later than 90 days after the date on which a Federal credit instrument is obligated for the project under the TIFIA program.
+
+&emsp;&emsp;&emsp;(v) The project has received a categorical exclusion, a finding of no significant impact, or a record of decision under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
+
+&emsp;&emsp;(C)
+
+Written notice.—The Secretary shall provide to an applicant seeking a secured loan under the expedited decision process under this paragraph a written notice informing the applicant whether the Secretary has approved or disapproved the application by not later than 180 days after the date on which the Secretary submits to the applicant a letter indicating that the National Surface Transportation Innovative Finance Bureau has commenced the creditworthiness review of the project.
+
+(Added Pub. L. 105–178, title I, §1503(a), June 9, 1998, 112 Stat. 245, §183; renumbered §603 and amended Pub. L. 109–59, title I, §§1601(d), 1602(b)(3), (5), (d), Aug. 10, 2005, 119 Stat. 1240, 1247; Pub. L. 112–141, div. A, title II, §2002, July 6, 2012, 126 Stat. 614; Pub. L. 114–94, div. A, title II, §2001(c), Dec. 4, 2015, 129 Stat. 1442; Pub. L. 117–58, div. A, title II, §12001(e), (f), (h), Nov. 15, 2021, 135 Stat. 619.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
+The date of enactment of the Surface Transportation Reauthorization Act of 2021 and the date of enactment of this paragraph, referred to in subsecs. (c)(4)(A)(ii) and (f)(3)(A), are the date of enactment of div. A of Pub. L. 117–58, which was approved Nov. 15, 2021.
+
 The date of enactment of the FAST Act, referred to in subsec. (f)(1), is the date of enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
+
+The National Environmental Policy Act of 1969, referred to in subsec. (f)(3)(B)(v), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Amendments
 
-<b>2015</b>—Subsec. (a)(2). Pub. L. 114–94, §2001(c)(1), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "A loan under paragraph (1) shall not refinance interim construction financing under paragraph (1)(B) later than 1 year after the date of substantial completion of the project."
+<b>2021</b>—Subsec. (b)(5)(A). Pub. L. 117–58, §12001(e)(1), substituted "subparagraphs (B) and (C)" for "subparagraph (B)" in introductory provisions.
+
+Subsec. (b)(5)(C). Pub. L. 117–58, §12001(e)(2), added subpar. (C).
+
+Subsec. (c)(4)(A). Pub. L. 117–58, §12001(f), designated existing provisions as cl. (i), inserted heading, substituted "Except as provided in clause (ii), any excess" for "Any excess", and added cl. (ii).
+
+Subsec. (f)(3). Pub. L. 117–58, §12001(h), added par. (3).
+
+<b>2015</b>—Subsec. (a)(2). Pub. L. 114–94, §2001(c)(1), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "A loan under paragraph (1)shall not refinance interim construction financing under paragraph (1)(B) later than 1 year after the date of substantial completion of the project."
 
 Subsec. (b)(2). Pub. L. 114–94, §2001(c)(2)(A), designated existing provisions as subpar. (A), inserted subpar. (A) heading, substituted "Except as provided in subparagraph (B), the amount of" for "The amount of", and added subpar. (B).
 
@@ -319,6 +377,10 @@ Subsec. (b)(8). Pub. L. 109–59, §1602(b)(5), substituted "this chapter" for "
 Subsec. (c)(3) to (5). Pub. L. 109–59, §1601(d)(4), redesignated pars. (4) and (5) as (3) and (4), respectively, in par. (3)(A), struck out "during the 10 years" after "at any time", in par. (3)(B)(ii), substituted "loan" for "loan beginning not later than 10 years after the date of substantial completion of the project in accordance with paragraph (1)", and struck out heading and text of former par. (3). Text read as follows: "The sources of funds for scheduled loan repayments under this section shall include tolls, user fees, or other dedicated revenue sources."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as a note under section 101 of this title.
 
 #### Effective Date of 2015 Amendment
 

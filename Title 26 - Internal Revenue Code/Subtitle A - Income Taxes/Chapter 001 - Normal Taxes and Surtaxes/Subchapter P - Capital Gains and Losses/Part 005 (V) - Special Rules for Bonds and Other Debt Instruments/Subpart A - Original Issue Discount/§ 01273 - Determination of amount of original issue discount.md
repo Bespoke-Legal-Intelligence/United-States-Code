@@ -68,7 +68,7 @@ For purposes of this subpart—
 
 #### (5) Property
 
-&emsp;In applying this subsection, the term "property" includes services and the right to useproperty, but such term does not include money.
+&emsp;In applying this subsection, the term "property" includes services and the right to use property, but such term does not include money.
 
 #### (c) Special rules for applying subsection (b)
 
@@ -82,7 +82,7 @@ For purposes of subsection (b)—
 
 &emsp;In the case of any debt instrument and an option, security, or other property issued together as an investment unit—
 
-&emsp;&emsp;(A) the issue price for such unit shall be determined in accordance with the rules of this subsection and subsection (b) as if it were a debt instrument,
+&emsp;&emsp;(A) the issue price for such unit shall be determined in accordance with the rules ofthis subsection and subsection (b) as if it were a debt instrument,
 
 &emsp;&emsp;(B) the issue price determined for such unit shall be allocated to each element of such unit on the basis of the relationship of the fair market value of such element to the fair market value of all elements in such unit, and
 
@@ -90,9 +90,13 @@ For purposes of subsection (b)—
 
 (Added Pub. L. 98–369, div. A, title I, §41(a), July 18, 1984, 98 Stat. 536; amended Pub. L. 99–514, title XVIII, §1803(a)(10), Oct. 22, 1986, 100 Stat. 2794.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1986</b>—Subsec. (b)(3)(B). Pub. L. 99–514 amended subpar. (B) generally, designating existing provisions as cl. (i) and adding cl. (ii).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

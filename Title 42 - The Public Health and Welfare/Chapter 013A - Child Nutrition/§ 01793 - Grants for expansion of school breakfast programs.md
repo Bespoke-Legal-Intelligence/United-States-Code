@@ -70,7 +70,7 @@ Subject to the availability of appropriations provided in advance in an appropri
 
 #### (2) Preference
 
-&emsp;In awarding subgrants under this section, a State educational agency shall give preferenceto local educational agencies for qualifying schools or groups of qualifying schools that have adopted, or provide assurances that the subgrant funds will be used to adopt, the most effective mechanisms identified by the Secretary under paragraph (1).
+&emsp;In awarding subgrants under this section, a State educational agency shall give preference to local educational agencies for qualifying schools or groups of qualifying schools that have adopted, or provide assurances that the subgrant funds will be used to adopt, the most effective mechanisms identified by the Secretary under paragraph (1).
 
 #### (f) Use of funds
 
@@ -112,9 +112,13 @@ There are authorized to be appropriated to carry out this section such sums as a
 
 (Pub. L. 89–642, §23, as added Pub. L. 111–296, title I, §105, Dec. 13, 2010, 124 Stat. 3201.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Richard B. Russell National School Lunch Act, referred to in subsec. (d)(2), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

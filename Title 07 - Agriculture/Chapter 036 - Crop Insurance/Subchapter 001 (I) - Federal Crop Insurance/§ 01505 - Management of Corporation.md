@@ -88,9 +88,11 @@ The manager of the Corporation shall be its chief executive officer, with such p
 
 #### (6) Relation to other authority
 
-&emsp;The contract authority provided in this subsection is in addition to any other contracting authority that may be exercised by the Board under section 1506(l) of this title.
+&emsp;The contract authority provided in this subsection is in addition to any other contractingauthority that may be exercised by the Board under section 1506(l) of this title.
 
 (Feb. 16, 1938, ch. 30, title V, §505, 52 Stat. 72; Aug. 1, 1947, ch. 440, §8, 61 Stat. 719; Aug. 25, 1949, ch. 512, §7, 63 Stat. 665; Pub. L. 96–365, title I, §102, Sept. 26, 1980, 94 Stat. 1312; Pub. L. 103–354, title I, §§102(b)(3), (4), 103, 115(a), Oct. 13, 1994, 108 Stat. 3181, 3204; Pub. L. 106–224, title I, §142(a)(1), (b), June 20, 2000, 114 Stat. 389, 390; Pub. L. 110–234, title XII, §12033(c)(2)(B), May 22, 2008, 122 Stat. 1405; Pub. L. 110–246, §4(a), title XII, §12033(c)(2)(B), June 18, 2008, 122 Stat. 1664, 2167.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -110,7 +112,7 @@ Subsec. (e). Pub. L. 106–224, §142(b), added subsec. (e).
 
 Pub. L. 103–354, §103, in second sentence struck out "or Assistant Secretary" after "Corporation, the Under Secretary" and substituted "one additional Under Secretary of Agriculture (as designated by the Secretary of Agriculture)" for "the Under Secretary or Assistant Secretary of Agriculture responsible for the farm credit programs of the Department of Agriculture".
 
-Pub. L. 103–354, §115(a)(1), substituted "The Board shall be appointed by, and hold office at the pleasure of, the Secretary. The Secretary shall not be a member of the Board." for former third sentence which read as follows: "The Board shall be appointed by, and hold officeat the pleasure of the Secretary, who shall not, himself, be a member of the Board."
+Pub. L. 103–354, §115(a)(1), substituted "The Board shall be appointed by, and hold office at the pleasure of, the Secretary. The Secretary shall not be a member of the Board." for former third sentence which read as follows: "The Board shall be appointed by, and hold office at the pleasure of the Secretary, who shall not, himself, be a member of the Board."
 
 Pub. L. 103–354, §102(b)(4)(C), in third sentence struck out "of Agriculture" before ", who shall not".
 
@@ -128,6 +130,8 @@ Subsec. (c). Pub. L. 96–365, §102(c), substituted as limitation on compensati
 
 <b>1947</b>—Act Aug. 1, 1947, amended section generally and, among other changes, increased membership of Board from three to five, provided for two members with insurance experience, not Government employees, increased from two to three the number of members necessary to carry on functions and to constitute a quorum, provided for compensation and expenses of Board members not otherwise Government employed, and for appointment of manager of corporation by the Secretary of Agriculture instead of being selected by the Board.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
@@ -140,19 +144,13 @@ Amendment by Pub. L. 103–354 effective Oct. 13, 1994, and applicable to provis
 
 Amendment by Pub. L. 96–365 effective Sept. 26, 1980, see section 112 of Pub. L. 96–365, set out as a note under section 1504 of this title.
 
-#### Transfer of Functions
-
-Administration of program of Federal Crop Insurance Corporation transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, §501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100. See note set out under section 1503 of this title.
-
-Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Conservation and Adjustment Administration, see note set out under section 1503 of this title.
-
 #### Appointment of Board of Directors Beginning February 1, 2001
 
 Pub. L. 106-224, title I, §142(a)(2), (3), June 20, 2000, 114 Stat. 390, provided that:
 
 "(2)
 
-Implementation.—The initial members of the Board of Directors of the Federal Crop Insurance Corporation required to be appointed under section 505(a)(3) of the Federal Crop Insurance Act \[7 U.S.C. 1505(a)(3)\] (as amended by paragraph (1)) shall be appointed during the period beginning February 1, 2001, and ending April 1, 2001.
+Implementation.—The initial members of the Board of Directors of the Federal Crop Insurance Corporation required to be appointed under section505(a)(3) of the Federal Crop Insurance Act \[7 U.S.C. 1505(a)(3)\] (as amended by paragraph (1)) shall be appointed during the period beginning February 1, 2001, and ending April 1, 2001.
 
 "(3)
 
@@ -161,4 +159,12 @@ Effect on existing board.—A member of the Board of Directors of the Federal Cr
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Administration of program of Federal Crop Insurance Corporation transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, §501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100. See note set out under section 1503 of this title.
+
+Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Conservation and Adjustment Administration, see note set out under section 1503 of this title.
 

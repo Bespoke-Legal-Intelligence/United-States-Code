@@ -22,6 +22,8 @@ Limitation.—Expenditures for the purchase or production of mementos for award 
 
 (Added Pub. L. 108–136, div. A, title XII, §1222(a), Nov. 24, 2003, 117 Stat. 1652, §1051b; renumbered §313, Pub. L. 114–328, div. A, title XII, §1241(b), Dec. 23, 2016, 130 Stat. 2500.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Pub. L. 114–328 renumbered section 1051b of this title as this section.

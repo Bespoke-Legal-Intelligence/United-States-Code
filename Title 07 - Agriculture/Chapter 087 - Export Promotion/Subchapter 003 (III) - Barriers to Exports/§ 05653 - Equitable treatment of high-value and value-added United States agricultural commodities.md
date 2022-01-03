@@ -4,6 +4,8 @@ In the case of any program operated by the Secretary or the Commodity Credit Cor
 
 (Pub. L. 95–501, title III, §302, formerly §303, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3680; renumbered §302 and amended Pub. L. 110–246, title III, §3103(b)(2), (3), June 18, 2008, 122 Stat. 1832.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 302 of Pub. L. 95–501 was renumbered section 301 and is classified to section 5652 of this title.
@@ -11,6 +13,8 @@ A prior section 302 of Pub. L. 95–501 was renumbered section 301 and is classi
 #### Amendments
 
 <b>2008</b>—Pub. L. 110–246, §3103(b)(3), struck out ", such as that established under section 5651 of this title," after "any program".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

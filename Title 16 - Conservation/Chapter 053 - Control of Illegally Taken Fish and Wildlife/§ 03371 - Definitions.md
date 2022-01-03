@@ -4,7 +4,7 @@ For the purposes of this chapter:
 
 (a) The term "fish or wildlife" means any wild animal, whether alive or dead, including without limitation any wild mammal, bird, reptile, amphibian, fish, mollusk, crustacean, arthropod, coelenterate, or other invertebrate, whether or not bred, hatched, or born in captivity, and includes any part, product, egg, or offspring thereof.
 
-(b) The term "import" means to land on, bring into, or introduce into, any place subject to thejurisdiction of the United States, whether or not such landing, bringing, or introduction constitutes an importation within the meaning of the customs laws of the United States.
+(b) The term "import" means to land on, bring into, or introduce into, any place subject to the jurisdiction of the United States, whether or not such landing, bringing, or introduction constitutes an importation within the meaning of the customs laws of the United States.
 
 (c) The term "Indian tribal law" means any regulation of, or other rule of conduct enforceable by, any Indian tribe, band, or group but only to the extent that the regulation or rule applies within Indian country as defined in section 1151 of title 18.
 
@@ -64,6 +64,8 @@ Taking.—The term "taking" means the act by which fish, wildlife, or plants are
 
 (Pub. L. 97–79, §2, Nov. 16, 1981, 95 Stat. 1073; Pub. L. 108–191, §2, Dec. 19, 2003, 117 Stat. 2871; Pub. L. 110–234, title VIII, §8204(a), May 22, 2008, 122 Stat. 1291; Pub. L. 110–246, §4(a), title VIII, §8204(a), June 18, 2008, 122 Stat. 1664, 2052.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in the provision preceding par. (a), and in par. (h), was in the original "this Act" and "the Act", meaning Pub. L. 97–79, Nov. 16, 1981, 95 Stat. 1073, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
@@ -85,6 +87,8 @@ Subsec. (h). Pub. L. 110–246, §8204(a)(2), substituted "plants, the term also
 Subsec. (j). Pub. L. 110–246, §8204(a)(3), amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: "The term 'taken' means captured, killed, or collected."
 
 <b>2003</b>—Subsecs. (g) to (k). Pub. L. 108–191 added subsec. (g) and redesignated former subsecs. (g) to (j) as (h) to (k), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

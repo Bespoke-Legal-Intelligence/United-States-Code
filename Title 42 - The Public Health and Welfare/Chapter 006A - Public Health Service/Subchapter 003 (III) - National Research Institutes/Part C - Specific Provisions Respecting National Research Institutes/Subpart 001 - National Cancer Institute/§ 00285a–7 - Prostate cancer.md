@@ -42,6 +42,8 @@ The Director of the Institute shall coordinate the activities of the Director un
 
 (July 1, 1944, ch. 373, title IV, §417A, as added Pub. L. 103–43, title IV, §402, June 10, 1993, 107 Stat. 155.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.

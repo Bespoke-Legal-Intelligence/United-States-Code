@@ -42,7 +42,7 @@ Of the amount appropriated under section 6302(a) of this title to carry out this
 
 #### (4) Population data
 
-&emsp;For any fiscal year for which the Secretary calculates grants on the basis of population data for counties, the Secretary shall apply the hold-harmless percentages in paragraphs (1) and (2) to counties and, if the Secretary's allocation for a county is not sufficient to meet the hold-harmless requirements of this subsection for every local educational agency within that county, the State educational agency shall reallocate funds proportionately from all other local educational agencies in the State that are receiving funds in excess of the hold-harmless amounts specified in this subsection.
+&emsp;For any fiscal year for which the Secretary calculates grants on the basis of population data for counties, the Secretary shall apply the hold-harmless percentages in paragraphs\(1) and (2) to counties and, if the Secretary's allocation for a county is not sufficient to meet the hold-harmless requirements of this subsection for every local educational agency within that county, the State educational agency shall reallocate funds proportionately from all other local educational agencies in the State that are receiving funds in excess of the hold-harmless amounts specified in this subsection.
 
 #### (d) Ratable reductions
 
@@ -60,6 +60,8 @@ For the purpose of this section and sections 6333, 6334, 6335, and 6337 of this 
 
 (Pub. L. 89–10, title I, §1122, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1515; amended Pub. L. 114–95, title I, §1015, Dec. 10, 2015, 129 Stat. 1878.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 6332, Pub. L. 89–10, title I, §1122, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3562, related to allocations to States, prior to the general amendment of this subchapter by Pub. L. 107–110.
@@ -69,6 +71,8 @@ A prior section 6332, Pub. L. 89–10, title I, §1122, as added Pub. L. 103–3
 <b>2015</b>—Subsec. (a). Pub. L. 114–95, §1015(1), substituted "2017–2020" for "2002–2007" in introductory provisions.
 
 Subsec. (a)(3). Pub. L. 114–95, §1015(2), added par. (3) and struck out former par. (3) which read as follows: "an amount equal to 100 percent of the amount, if any, by which the amount made available to carry out sections 6333, 6334, and 6335 of this title for the current fiscal year for which the determination is made exceeds the amount available to carry out sections 6333 and 6334 of this title for fiscal year 2001 shall be allocated in accordance with section 6335 of this title."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

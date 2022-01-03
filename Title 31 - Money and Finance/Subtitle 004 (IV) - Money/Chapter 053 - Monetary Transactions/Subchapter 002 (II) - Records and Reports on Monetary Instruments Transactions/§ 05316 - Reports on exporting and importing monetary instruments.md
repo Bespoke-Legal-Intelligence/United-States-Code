@@ -1,6 +1,6 @@
 ### §5316. Reports on exporting and importing monetary instruments
 
-(a) Except as provided in subsection (c) of this section, a person or an agent or bailee of the person shall file a report under subsection (b) of this section when the person, agent, or bailee knowingly—
+(a) Except as provided in subsection (c) of this section, a person or an agent or bailee of theperson shall file a report under subsection (b) of this section when the person, agent, or bailee knowingly—
 
 &emsp;(1) transports, is about to transport, or has transported, monetary instruments of more than $10,000 at one time—
 

@@ -104,7 +104,7 @@ In general, the Director shall permit applicants to include in their proposed bu
 
 #### (iii) Uses of funds
 
-&emsp;&emsp;&emsp;A fellowship may include salary and benefits for up to one academic year, expenses to support coursework or equivalent training in artificial intelligence systems, and additional such expenses that the Director deems appropriate.
+&emsp;&emsp;&emsp;A fellowship may include salary and benefits for up to one academic year, expensesto support coursework or equivalent training in artificial intelligence systems, and additional such expenses that the Director deems appropriate.
 
 #### (C) Omitted
 
@@ -173,6 +173,8 @@ There are authorized to be appropriated to the National Science Foundation to ca
 &emsp;(5) $1,055,060,000 for fiscal year 2025.
 
 (Pub. L. 116–283, div. E, title LIV, §5401, Jan. 1, 2021, 134 Stat. 4540.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

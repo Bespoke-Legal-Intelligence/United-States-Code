@@ -30,11 +30,15 @@ The purposes of this chapter are—
 
 (Pub. L. 93–383, title VI, §602, Aug. 22, 1974, 88 Stat. 700; Pub. L. 96–399, title III, §308(c)(4), Oct. 8, 1980, 94 Stat. 1641; Pub. L. 97–35, title III, §339B(c), Aug. 13, 1981, 95 Stat. 417; Pub. L. 106–569, title VI, §602, Dec. 27, 2000, 114 Stat. 2997.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Pub. L. 106–569 amended section catchline and text generally. Prior to amendment, text read as follows: "The Congress declares that the purposes of this chapter are to reduce the number of personal injuries and deaths and the amount of insurance costs and property damage resulting from manufactured home accidents and to improve the quality and durability of manufactured homes. Therefore, the Congress determines that it is necessary to establish Federal construction and safety standards for manufactured homes and to authorize manufactured home safety research and development."
 
 <b>1980</b>—Pub. L. 96–399 substituted "manufactured home" for "mobile home" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 
@@ -46,7 +50,7 @@ Pub. L. 93–383, title VI, §627, formerly §628, Aug. 22, 1974, 88 Stat. 714, 
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–569, title VI, §601(a), Dec. 27, 2000, 114 Stat. 2997, provided that: "This title \[amending this sectionand sections 5402 to 5404, 5406, 5407, 5409, 5412 to 5415, 5419, 5422, and 5426 of this title, repealing section 5425 of this title, and enacting and amending provisions set out as notes under this section\] may be cited as the 'Manufactured Housing Improvement Act of 2000'."
+Pub. L. 106–569, title VI, §601(a), Dec. 27, 2000, 114 Stat. 2997, provided that: "This title \[amending this section and sections 5402 to 5404, 5406, 5407, 5409, 5412 to 5415, 5419, 5422, and 5426 of this title, repealing section 5425 of this title, and enacting and amending provisions set out as notes under this section\] may be cited as the 'Manufactured Housing Improvement Act of 2000'."
 
 #### Short Title
 

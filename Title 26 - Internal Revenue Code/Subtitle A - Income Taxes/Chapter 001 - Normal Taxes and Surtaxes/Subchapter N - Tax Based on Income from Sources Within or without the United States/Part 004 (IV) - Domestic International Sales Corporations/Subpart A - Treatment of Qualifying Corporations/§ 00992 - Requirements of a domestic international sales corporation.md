@@ -26,7 +26,7 @@
 
 #### (1) Election
 
-&emsp;(A) An election by a corporation to be treated as a DISC shall be made by such corporation for a taxable year at any time during the 90–day period immediately preceding the beginning of the taxable year, except that the Secretary may give his consent to the makingof an election at such other times as he may designate.
+&emsp;(A) An election by a corporation to be treated as a DISC shall be made by such corporation for a taxable year at any time during the 90–day period immediately preceding the beginning of the taxable year, except that the Secretary may give his consent to the making of an election at such other times as he may designate.
 
 &emsp;(B) Such election shall be made in such manner as the Secretary shall prescribe and shall be valid only if all persons who are shareholders in such corporation on the first day of the first taxable year for which such election is effective consent to such election.
 
@@ -106,6 +106,8 @@ If—
 
 (Added Pub. L. 92–178, title V, §501, Dec. 10, 1971, 85 Stat. 535; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–354, §5(a)(32), Oct. 19, 1982, 96 Stat. 1695; Pub. L. 98–369, div. A, title VIII, §802(c)(1), July 18, 1984, 98 Stat. 999; Pub. L. 104–188, title I, §1616(b)(11), Aug. 20, 1996, 110 Stat. 1857; Pub. L. 110–172, §11(g)(16), Dec. 29, 2007, 121 Stat. 2491; Pub. L. 115–141, div. U, title IV, §401(b)(30), Mar. 23, 2018, 132 Stat. 1203.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (d)(6), (7). Pub. L. 115–141 redesignated par. (7) as (6) and struck out former par. (6) which read as follows: "a China Trade Act corporation receiving the special deduction provided in section 941(a),".
@@ -119,6 +121,8 @@ If—
 <b>1982</b>—Subsec. (d)(7). Pub. L. 97–354 substituted "an S corporation" for "an electing small business corporation (as defined in section 1371(b))".
 
 <b>1976</b>—Subsecs. (a)(2), (b)(1), (3), (c)(2)(B). Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 
@@ -134,5 +138,5 @@ Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 3
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
+For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into accountprior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 

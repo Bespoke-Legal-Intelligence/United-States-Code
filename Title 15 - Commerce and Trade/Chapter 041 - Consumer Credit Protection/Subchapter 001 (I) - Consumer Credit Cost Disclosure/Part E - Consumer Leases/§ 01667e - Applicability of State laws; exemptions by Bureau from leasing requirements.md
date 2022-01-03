@@ -6,9 +6,13 @@
 
 (Pub. L. 90–321, title I, §186, as added Pub. L. 94–240, §3, Mar. 23, 1976, 90 Stat. 260; amended Pub. L. 111–203, title X, §1100A(2), (10), July 21, 2010, 124 Stat. 2107, 2109.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–203, §1100A(2), (10), substituted "Bureau" for "Board", "the Bureau" for "the Board", and "The Bureau" for "The Board" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

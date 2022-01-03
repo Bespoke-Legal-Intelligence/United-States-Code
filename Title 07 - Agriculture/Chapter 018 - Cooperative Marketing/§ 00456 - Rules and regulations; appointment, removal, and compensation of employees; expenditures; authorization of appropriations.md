@@ -4,9 +4,13 @@ The Secretary of Agriculture may make such rules and regulations as may be deeme
 
 (July 2, 1926, ch. 725, §6, 44 Stat. 803.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transfer to Secretary of Agriculture
 
 Transfer of Division of Cooperative Marketing "(by whatever name now called)" from Farm Credit Administration to Secretary of Agriculture, by act Aug. 6, 1953, ch. 335, §9, 67 Stat. 394, see note set out under section 452 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

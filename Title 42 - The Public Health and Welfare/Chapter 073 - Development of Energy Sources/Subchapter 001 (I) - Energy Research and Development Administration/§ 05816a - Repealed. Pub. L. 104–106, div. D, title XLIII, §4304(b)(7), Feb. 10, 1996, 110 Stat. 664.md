@@ -2,7 +2,9 @@
 
 Section, Pub. L. 95–39, title III, §308, June 3, 1977, 91 Stat. 189; Pub. L. 96–470, title II, §203(d), Oct. 19, 1980, 94 Stat. 2243, related to financial statements of Department of Energy officers and employees.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of Repeal
 
-For effective date and applicability of repeal, see section 4401 of Pub. L. 104–106, set out as an Effective Date of 1996 Amendment note under section 2302 of Title 10, Armed Forces.
+For effective date and applicability of repeal, see section 4401 of Pub. L. 104–106, set out as an Effective Date of 1996 Amendment note under section 2220 of Title 10, Armed Forces.
 

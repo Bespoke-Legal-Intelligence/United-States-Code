@@ -82,7 +82,7 @@ Not later than September 30, 2021, the Secretary shall update—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A watershed group may apply for and receive second-phase grants of $1,000,000 eachyear for a period of not more than 4 years if—
+&emsp;&emsp;&emsp;A watershed group may apply for and receive second-phase grants of $1,000,000 each year for a period of not more than 4 years if—
 
 &emsp;&emsp;&emsp;&emsp;(I) the watershed group has applied for and received watershed grants under subparagraph (A); or
 
@@ -186,7 +186,7 @@ Not later than September 30, 2021, the Secretary shall update—
 
 #### (f) Report
 
-Not later than 5 years after March 30, 2009, and every 5 years thereafter, the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report that describes—
+Not later than 5 years after March 30, 2009, and every 5 years thereafter, the Secretary shallsubmit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report that describes—
 
 &emsp;(1) the ways in which the program assists the Secretary—
 
@@ -213,6 +213,8 @@ There are authorized to be appropriated to carry out this section—
 &emsp;(4) $20,000,000 for each of fiscal years 2012 through 2026.
 
 (Pub. L. 111–11, title VI, §6002, Mar. 30, 2009, 123 Stat. 1166; Pub. L. 116–260, div. D, title II, §206, div. FF, title XI, §1107(b), Dec. 27, 2020, 134 Stat. 1363, 3243.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

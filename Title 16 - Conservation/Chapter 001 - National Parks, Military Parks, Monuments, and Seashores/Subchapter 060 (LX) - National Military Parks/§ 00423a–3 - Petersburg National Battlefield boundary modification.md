@@ -42,7 +42,7 @@ The Secretary shall administer any land or interests in land acquired under subs
 
 #### (i) Land transferred to the Secretary of the Army
 
-&emsp;&emsp;&emsp;The land transferred to the Secretary of the Army under paragraph (1)(A) shall beexcluded from the boundary of the Petersburg National Battlefield.
+&emsp;&emsp;&emsp;The land transferred to the Secretary of the Army under paragraph (1)(A) shall be excluded from the boundary of the Petersburg National Battlefield.
 
 #### (ii) Land transferred to the Secretary
 
@@ -53,6 +53,8 @@ The Secretary shall administer any land or interests in land acquired under subs
 &emsp;&emsp;&emsp;&emsp;(II) shall be administered as part of Petersburg National Battlefield in accordance with applicable laws and regulations.
 
 (Pub. L. 114–328, div. B, title XXVIII, §2834, Dec. 23, 2016, 130 Stat. 2740.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

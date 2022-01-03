@@ -38,7 +38,7 @@ The services and activities referred to in subsection (a) may include—
 
 &emsp;(12) dropout prevention strategies for Indian students; and
 
-&emsp;(13) strategies to meet the educational needs of at-risk Indian students in correctional facilities, including such strategies that support Indian students who are transitioning from such facilities to schools served by local educational agencies.
+&emsp;(13) strategies to meet the educational needs of at-risk Indian students in correctional facilities, including such strategies that supportIndian students who are transitioning from such facilities to schools served by local educational agencies.
 
 #### (c) Schoolwide programs
 
@@ -59,6 +59,8 @@ Not more than 5 percent of the funds provided to a grantee under this subpart fo
 Funds provided to a grantee under this subpart may not be used for long-distance travel expenses for training activities that are available locally or regionally.
 
 (Pub. L. 89–10, title VI, §6115, formerly title VII, §7115, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1912; amended Pub. L. 109–270, §2(f)(4), Aug. 12, 2006, 120 Stat. 747, renumbered title VI, §6115, and amended Pub. L. 114–95, title VI, §§6001(a), (b)(1), (5), 6002(g), Dec. 10, 2015, 129 Stat. 2046, 2052; Pub. L. 115–224, title III, §302(2), July 31, 2018, 132 Stat. 1623.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -91,6 +93,8 @@ Subsec. (c)(3). Pub. L. 114–95, §6002(g)(3), added par. (3).
 Subsec. (e). Pub. L. 114–95, §6002(g)(4), added subsec. (e).
 
 <b>2006</b>—Subsec. (b)(5). Pub. L. 109–270 substituted "Carl D. Perkins Career and Technical Education Act of 2006" for "Carl D. Perkins Vocational and Technical Education Act of 1998".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

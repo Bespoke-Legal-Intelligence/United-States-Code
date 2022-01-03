@@ -22,6 +22,8 @@ For purposes of this chapter and chapter 13, property includible in the gross es
 
 (Added Pub. L. 97–34, title IV, §403(d)(3)(A)(i), Aug. 13, 1981, 95 Stat. 304; amended Pub. L. 97–448, title I, §104(a)(1)(B), Jan. 12, 1983, 96 Stat. 2380.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 2044 was renumbered section 2045 of this title.
@@ -29,6 +31,8 @@ A prior section 2044 was renumbered section 2045 of this title.
 #### Amendments
 
 <b>1983</b>—Subsec. (c). Pub. L. 97–448 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1983 Amendment
 

@@ -44,7 +44,7 @@ Pub. L. 95–62, §5, July 5, 1977, 91 Stat. 263, provided that:
 
 "(a) Except as provided in subsection (b) of this section, the amendments made by this Act \[amending this section and sections 5032 to 5036 \[now 8132 to 8136\] of this title and repealing section 644 of this title\] shall be effective October 1, 1977.
 
-"(b)(1) The terms and conditions of any grant made prior to October 1, 1977, under section 644 of title 38, United States Code \[former section 644 of this title\], and regulations prescribed thereunder, shall remain infull force and effect unless modified, by the mutual agreement of the parties, in accordance with the provisions of subchapter III of chapter 81 of such title, and regulations prescribed thereunder, in effect after September 30, 1977.
+"(b)(1) The terms and conditions of any grant made prior to October 1, 1977, under section 644 of title 38, United States Code \[former section 644 of this title\], and regulations prescribed thereunder, shall remain in full force and effect unless modified, by the mutual agreement of the parties, in accordance with the provisions of subchapter III of chapter 81 of such title, and regulations prescribed thereunder, in effect after September 30, 1977.
 
 "(2) With respect to any grant made prior to October 1, 1977, under subchapter III of chapter 81 of such title, the Administrator of Veterans' Affairs shall, upon application of a grantee, modify the terms and conditions of such grant to comply with the provisions of such subchapter as amended by this Act, and regulations prescribed thereunder, and shall promptly notify each such grantee of the grantee's right to request such modification."
 

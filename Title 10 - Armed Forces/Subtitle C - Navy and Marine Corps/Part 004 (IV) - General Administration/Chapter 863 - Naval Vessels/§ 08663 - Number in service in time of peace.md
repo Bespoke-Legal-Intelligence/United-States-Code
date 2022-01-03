@@ -20,6 +20,8 @@ R.S. 1534.
 
 The words "vessels of the Navy" are substituted for the words "of the public armed vessels". The words "actual", "in his opinion", and "by the nature of the service" are omitted as surplusage. The words "in reserve" are substituted for the words "to be laid up in ordinary in convenient ports" to conform to modern terminology.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 8663, act Aug. 10, 1956, ch. 1041, 70A Stat. 533, authorized Secretary of Air Force to parole or remit sentence and restore to duty offenders who are confined in the United States Disciplinary Barracks, prior to repeal by Pub. L. 90–377, §6(3), July 5, 1968, 82 Stat. 288.
@@ -27,6 +29,8 @@ A prior section 8663, act Aug. 10, 1956, ch. 1041, 70A Stat. 533, authorized Sec
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7293 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

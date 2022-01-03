@@ -58,7 +58,7 @@ The local educational agency shall use the guidelines promulgated by the Secreta
 
 #### (A) In general
 
-&emsp;&emsp;Subject to the availability of appropriations, the Secretary, in conjunction with the Director of the Centers for Disease Control and Prevention, shall prepare a report on the implementation, strength, and effectivenessof the local school wellness policies carried out in accordance with this section.
+&emsp;&emsp;Subject to the availability of appropriations, the Secretary, in conjunction with the Director of the Centers for Disease Control and Prevention, shall prepare a report on the implementation, strength, and effectiveness of the local school wellness policies carried out in accordance with this section.
 
 #### (B) Study of local school wellness policies
 
@@ -78,9 +78,13 @@ The local educational agency shall use the guidelines promulgated by the Secreta
 
 (June 4, 1946, ch. 281, §9A, as added Pub. L. 111–296, title II, §204(a), Dec. 13, 2010, 124 Stat. 3216.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Child Nutrition Act of 1966, referred to in subsec. (a), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, which is classified generally to chapter 13A (§1771 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

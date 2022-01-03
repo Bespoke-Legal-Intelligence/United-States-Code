@@ -10,6 +10,8 @@ All special taxes shall be imposed as of on the first day of July in each year, 
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 593; Pub. L. 89–44, title IV, §405(b), June 21, 1965, 79 Stat. 149; Pub. L. 91–513, title III, §1102(a), Oct. 27, 1970, 84 Stat. 1292; Pub. L. 94–455, title XIX, §1904(a)(19), Oct. 4, 1976, 90 Stat. 1814; Pub. L. 95–600, title V, §521(c)(2), Nov. 6, 1978, 92 Stat. 2884.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–600 struck out "or 4461(a)(1) (coin-operated gaming devices)" after "(wagering)".
@@ -19,6 +21,8 @@ All special taxes shall be imposed as of on the first day of July in each year, 
 <b>1970</b>—Subsec. (a). Pub. L. 91–513 struck out references to tax imposed by sections 4721 (narcotic drugs) and 4751 (marihuana).
 
 <b>1965</b>—Subsec. (a). Pub. L. 89–44 substituted "4461(a)(1)" for "4461(2)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

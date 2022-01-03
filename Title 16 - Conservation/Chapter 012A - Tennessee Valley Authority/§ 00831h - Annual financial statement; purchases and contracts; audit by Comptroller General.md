@@ -6,7 +6,7 @@ The Board shall file with the President and with the Congress, in March of each 
 
 #### (b) Bids
 
-All purchases and contracts for supplies or services, except for personal services, made by the Corporation, shall be made after advertising, in such manner and at such times sufficiently in advance of opening bids, as the Board shall determine to be adequate to insure notice and opportunity for competition: <i>Provided</i>, That advertisement shall not be required when, (1) an emergency requires immediate delivery of the supplies or performance of the services; or (2) repair parts, accessories, supplemental equipment, or services are required for supplies or services previously furnished or contracted for; or (3) the aggregate amount involved in any purchase of supplies or procurement of services does not exceed $25,000; in which cases such purchases of supplies or procurement of services may be made in the open market in the manner common among businessmen: <i>Provided further</i>, That in comparing bids and in making awards the Board may consider such factors as relative quality and adaptability of supplies or services, the bidder's financial responsibility, skill, experience, record of integrity in dealing, ability to furnish repairs and maintenance services, the time of delivery or performance offered, and whether the bidder has complied with the specifications.
+All purchases and contracts for supplies or services, except for personal services, made bythe Corporation, shall be made after advertising, in such manner and at such times sufficiently in advance of opening bids, as the Board shall determine to be adequate to insure notice and opportunity for competition: <i>Provided</i>, That advertisement shall not be required when, (1) an emergency requires immediate delivery of the supplies or performance of the services; or (2) repair parts, accessories, supplemental equipment, or services are required for supplies or services previously furnished or contracted for; or (3) the aggregate amount involved in any purchase of supplies or procurement of services does not exceed $25,000; in which cases such purchases of supplies or procurement of services may be made in the open market in the manner common among businessmen: <i>Provided further</i>, That in comparing bids and in making awards the Board may consider such factors as relative quality and adaptability of supplies or services, the bidder's financial responsibility, skill, experience, record of integrity in dealing, ability to furnish repairs and maintenance services, the time of delivery or performance offered, and whether the bidder has complied with the specifications.
 
 #### (c) Audits
 
@@ -17,6 +17,8 @@ The Comptroller General of the United States shall audit the transactions of the
 The Corporation shall determine its own system of administrative accounts and the forms and contents of its contracts and other business documents except as otherwise provided in this chapter.
 
 (May 18, 1933, ch. 32, §9, 48 Stat. 63; Aug. 31, 1935, ch. 836, §14, 49 Stat. 1080; Nov. 21, 1941, ch. 485, 55 Stat. 775; Aug. 30, 1954, ch. 1076, §1 (32), 68 Stat. 968; Pub. L. 93–356, §5, July 25, 1974, 88 Stat. 390; Pub. L. 94–273, §5(1), Apr. 21, 1976, 90 Stat. 377; Pub. L. 98–191, §9(d), Dec. 1, 1983, 97 Stat. 1332; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–447, div. C, title VI, §603(a)(2), (b), Dec. 8, 2004, 118 Stat. 2966.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -43,6 +45,8 @@ Subsecs. (c), (d). Pub. L. 108–447, §603(b), designated second and third pars
 <b>1941</b>—Subsec. (b). Act Nov. 21, 1941, inserted last paragraph and last sentence of next to last paragraph.
 
 <b>1935</b>—Subsec. (b). Act Aug. 31, 1935, amended subsec. (b) generally.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

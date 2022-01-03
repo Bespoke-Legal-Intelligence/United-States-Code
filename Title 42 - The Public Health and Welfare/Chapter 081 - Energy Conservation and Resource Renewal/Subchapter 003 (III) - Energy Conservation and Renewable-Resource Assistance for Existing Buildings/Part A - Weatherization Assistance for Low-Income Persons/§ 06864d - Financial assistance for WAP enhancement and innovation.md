@@ -94,7 +94,7 @@ In awarding financial assistance under this section, the Secretary shall conside
 
 #### (2) Technical and training assistance
 
-&emsp;The total amount of financial assistance awarded to an entity under this section shall be reduced by the cost of any technical and training assistance provided by the Secretary that relates to such financial assistance.
+&emsp;The total amount of financial assistance awarded to an entity under this section shallbe reduced by the cost of any technical and training assistance provided by the Secretary that relates to such financial assistance.
 
 #### (3) Term
 
@@ -160,7 +160,7 @@ The Secretary shall submit to Congress an annual report that provides a descript
 
 #### (B) Minimum
 
-&emsp;&emsp;For each of fiscal years 2021 through 2025, if the amount made available under section 6872 of this title (not including any of such amount made available for Department of Energy headquarters training or technicalassistance) for such fiscal year is less than $225,000,000, no funds shall be made available to carry out this section.
+&emsp;&emsp;For each of fiscal years 2021 through 2025, if the amount made available under section 6872 of this title (not including any of such amount made available for Department of Energy headquarters training or technical assistance) for such fiscal year is less than $225,000,000, no funds shall be made available to carry out this section.
 
 #### (2) Limitation
 

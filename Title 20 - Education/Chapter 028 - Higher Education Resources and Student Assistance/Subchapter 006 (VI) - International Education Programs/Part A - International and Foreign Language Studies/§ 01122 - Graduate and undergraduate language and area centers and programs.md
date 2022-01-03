@@ -76,7 +76,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary is authorized to make grants to institutions of higher education or combinations of such institutions for the purpose of paying stipends to individuals undergoing advanced training in any center or program approved by the Secretary.
+&emsp;The Secretary is authorized to make grants to institutions of higher education or combinations of such institutions for the purpose of paying stipends to individuals undergoingadvanced training in any center or program approved by the Secretary.
 
 #### (2) Eligible students
 
@@ -123,6 +123,8 @@ Each institution of higher education or consortium of such institutions desiring
 &emsp;(2) a description of how the applicant will encourage government service in areas of national need, as identified by the Secretary, as well as in areas of need in the education, business, and nonprofit sectors.
 
 (Pub. L. 89–329, title VI, §602, as added Pub. L. 105–244, title VI, §601, Oct. 7, 1998, 112 Stat. 1775; amended Pub. L. 110–315, title VI, §602, Aug. 14, 2008, 122 Stat. 3334.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

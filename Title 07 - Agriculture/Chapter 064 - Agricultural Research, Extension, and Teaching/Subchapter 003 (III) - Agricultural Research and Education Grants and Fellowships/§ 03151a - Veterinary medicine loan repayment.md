@@ -18,7 +18,7 @@
 
 &emsp;&emsp;&emsp;(i) A veterinarian shall not be required to serve more than 60 working days per year of the agreement.
 
-&emsp;&emsp;&emsp;(ii) A veterinarian who provides service pursuant to the agreement shall receive a salary commensurate with the duties and shall be reimbursed for travel and per diem expenses as appropriate for the duration of the service.
+&emsp;&emsp;&emsp;(ii) A veterinarian who provides service pursuant to the agreement shall receive a salary commensurate with the duties andshall be reimbursed for travel and per diem expenses as appropriate for the duration of the service.
 
 #### (b) Determination of veterinarian shortage situations
 
@@ -92,6 +92,8 @@ There are authorized to be appropriated for carrying out this section such sums 
 
 (Pub. L. 95–113, title XIV, §1415A, as added Pub. L. 108–161, §2, Dec. 6, 2003, 117 Stat. 2014; amended Pub. L. 110–234, title VII, §7105(a), May 22, 2008, 122 Stat. 1216; Pub. L. 110–246, §4(a), title VII, §7105(a), June 18, 2008, 122 Stat. 1664, 1977.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this subsection, referred to in subsec. (e), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
@@ -108,7 +110,9 @@ Subsec. (c)(8). Pub. L. 110–246, §7105(a)(2), added par. (8).
 
 Subsecs. (d) to (f). Pub. L. 110–246, §7105(a)(3), (4), added subsecs. (d) and (e) and redesignated former subsec. (d) as (f).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 

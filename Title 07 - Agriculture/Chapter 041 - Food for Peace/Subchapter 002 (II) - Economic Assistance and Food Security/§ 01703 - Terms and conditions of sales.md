@@ -32,7 +32,9 @@ The Secretary may defer the date on which the developing country or private enti
 
 Delivery of the commodities shall be made in accordance with the terms of the agreement.
 
-(July 10, 1954, ch. 469, title I, §103, 68 Stat. 456; Aug. 12, 1955, ch. 873, §1, 69 Stat. 721; May 28, 1956, ch. 327, title II, §208(a), 70 Stat. 201; Aug. 3, 1956, ch. 933, §1, 70 Stat. 988; Pub. L. 85–128, §1(2), Aug. 13, 1957, 71 Stat. 345; Pub. L. 85–931, §2, Sept. 6, 1958, 72 Stat. 1790; Pub. L. 86–341, title I, §2, Sept. 21, 1959, 73 Stat. 606; Pub. L. 87–28, May 4, 1961, 75 Stat. 64; Pub. L. 87–128, title II, §201(2), Aug. 8, 1961, 75 Stat. 306; Pub. L. 88–638, §1(4), (5), Oct. 8, 1964, 78 Stat. 1035; Pub. L. 89–808, §2(B), Nov. 11, 1966, 80 Stat. 1526; Pub. L. 90–436, §§4, 5, July 29, 1968, 82 Stat. 450; Pub. L. 91–524, title VII, §703, Nov. 30, 1970, as added Pub. L. 93–86, §1(26), Aug. 10, 1973, 87 Stat. 237; Pub. L. 93–125, §1(e), Oct. 18, 1973, 87 Stat. 450; Pub. L. 94–161, title II, §203, Dec. 20, 1975, 89 Stat. 851; Pub. L. 95–88, title II, §§201(b), 211(b)(1), Aug. 3, 1977, 91 Stat. 545, 551; Pub. L. 95–424, title I, §102(b)(2)(B), Oct. 6, 1978, 92 Stat. 941; Pub. L. 96–53, title II, §201, Aug. 14, 1979, 93 Stat. 368; Pub. L. 97–113, title IV, §401(2)–(4), Dec. 29, 1981, 95 Stat. 1537; Pub. L. 99–198, title XI, §1111(d), Dec. 23, 1985, 99 Stat. 1475; Pub. L. 100–202, §9, Dec. 22, 1987, 101 Stat. 1329–448; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3634; Pub. L. 104–127, title II, §204, Apr. 4, 1996, 110 Stat. 953.)
+(July 10, 1954, ch. 469, title I, §103, 68 Stat. 456; Aug. 12, 1955, ch. 873, §1, 69 Stat. 721; May 28, 1956, ch. 327, title II, §208(a), 70 Stat. 201; Aug. 3, 1956, ch. 933, §1, 70 Stat. 988; Pub. L. 85–128, §1(2), Aug. 13, 1957, 71 Stat. 345; Pub. L. 85–931, §2, Sept. 6, 1958, 72 Stat. 1790; Pub. L. 86–341, title I, §2, Sept. 21, 1959, 73 Stat. 606; Pub. L. 87–28, May 4, 1961, 75 Stat. 64; Pub. L. 87–128, title II, §201(2), Aug. 8, 1961, 75 Stat. 306; Pub. L. 88–638, §1(4), (5), Oct. 8, 1964, 78 Stat. 1035; Pub. L. 89–808, §2(B), Nov. 11, 1966, 80 Stat. 1526; Pub. L. 90–436, §§4, 5, July 29, 1968, 82 Stat. 450; Pub. L. 91–524, title VII, §703, Nov. 30, 1970, as added Pub. L. 93–86, §1(26), Aug. 10, 1973, 87 Stat. 237; Pub. L. 93–125, §1(e), Oct. 18, 1973, 87 Stat. 450; Pub. L. 94–161, title II, §203, Dec. 20, 1975, 89 Stat. 851; Pub. L. 95–88, title II, §§201(b), 211(b)(1), Aug. 3, 1977, 91 Stat. 545, 551; Pub. L. 95–424, title I, §102(b)(2)(B), Oct. 6, 1978, 92 Stat. 941; Pub. L. 96–53, title II,§201, Aug. 14, 1979, 93 Stat. 368; Pub. L. 97–113, title IV, §401(2)–(4), Dec. 29, 1981, 95 Stat. 1537; Pub. L. 99–198, title XI, §1111(d), Dec. 23, 1985, 99 Stat. 1475; Pub. L. 100–202, §9, Dec. 22, 1987, 101 Stat. 1329–448; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3634; Pub. L. 104–127, title II, §204, Apr. 4, 1996, 110 Stat. 953.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -42,7 +44,7 @@ Subsec. (c). Pub. L. 104–127, §204(2), struck out "less than 10 nor" before "
 
 Subsec. (d). Pub. L. 104–127, §204(3), substituted "developing country or private entity" for "recipient country" and "5 years" for "7 years".
 
-<b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions requiringPresident to consider efforts of recipients to increase agricultural production, determine amount needed in foreign currencies, protect other markets for United States commodities, make sales only to friendly countries, use private trade channels whenever practicable, consider expansion of markets, prevent resale by recipients, obtain favorable exchange rates, emphasize production of food crops, assist friendly countries in avoiding Communist domination, require payment of at least 5 per centum of purchase price upon delivery in dollars or convertible currency, obtain commitments from recipients to publicize source of food, require convertibility of foreign currencies, avoid displacement of sales that would otherwise have been made, assure United States obtains fair share in increase of commercial purchases by recipients, assure convertibility of foreign currencies at uniform exchange rates, and favor countries promoting private sector in allocation of commodities.
+<b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions requiring President to consider efforts of recipients to increase agricultural production, determine amount needed in foreign currencies, protect other markets for United States commodities, make sales only to friendly countries, use private trade channels whenever practicable, consider expansion of markets, prevent resale by recipients, obtain favorable exchange rates, emphasize production of food crops, assist friendly countries in avoiding Communist domination, require payment of at least 5 per centum of purchase price upon delivery in dollars or convertible currency, obtain commitments from recipients to publicize source of food, require convertibility of foreign currencies, avoid displacement of sales that would otherwise have been made, assure United States obtains fair share in increase of commercial purchases by recipients, assure convertibility of foreign currencies at uniform exchange rates, and favor countries promoting private sector in allocation of commodities.
 
 <b>1987</b>—Subsec. (r). Pub. L. 100–202 added subsec. (r).
 
@@ -134,6 +136,8 @@ Subsec. (b). Act Aug. 3, 1956, increased from $1,500,000,000 to $3,000,000,000 t
 
 <b>1955</b>—Subsec. (b). Act Aug. 12, 1955, increased from $700,000,000 to $1,500,000,000 the limitation on sales, and provided that this limitation shall not be apportioned by year or by country.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–624 effective Jan. 1, 1991, see section 1513 of Pub. L. 101–624, set out as a note under section 1691 of this title.
@@ -144,7 +148,7 @@ Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. 
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a note undersection 2151 of Title 22, Foreign Relations and Intercourse.
+Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as a note under section 2151 of Title 22, Foreign Relations and Intercourse.
 
 #### Effective Date of 1977 Amendment
 

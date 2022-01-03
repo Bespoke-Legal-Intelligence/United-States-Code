@@ -12,19 +12,67 @@ The Secretary of Defense shall ensure that before a contract for the delivery of
 
 (Added and amended Pub. L. 116–283, div. A, title XVIII, §1811(f), Jan. 1, 2021, 134 Stat. 4173.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 The text of subsec. (c) of section 2305 of this title, which was transferred to this section and amended by Pub. L. 116–283, §1811(f)(2), was based on Pub. L. 98–525, title XII, §1213(a), Oct. 19, 1984, 98 Stat. 2591.
 
 #### Prior Provisions
 
-A prior section 3207, act Aug. 10, 1956, ch. 1041, 70A Stat. 173; Pub. L. 85–155, title I, §101(5), Aug. 21, 1957, 71 Stat. 376; Pub. L. 90–130, §1(9)(C), (D), Nov. 8, 1967, 81 Stat. 375, prescribed authorized strength of Army Medical Specialist Corps in commissioned officers on active list of Regular Army, prior to repeal by Pub. L. 96–513, title II, §202, title VII, §701, Dec. 12, 1980, 94 Stat. 2878, 2955, effective Sept. 15, 1981.
+A prior section 3207, act Aug. 10, 1956, ch. 1041, 70A Stat. 173; Pub. L. 85–155, title I, §101(5), Aug. 21, 1957, 71Stat. 376; Pub. L. 90–130, §1(9)(C), (D), Nov. 8, 1967, 81 Stat. 375, prescribed authorized strength of Army Medical Specialist Corps in commissioned officers on active list of Regular Army, prior to repeal by Pub. L. 96–513, title II, §202, title VII, §701, Dec. 12, 1980, 94 Stat. 2878, 2955, effective Sept. 15, 1981.
 
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283, §1811(f)(2), transferred subsec. (c) of section 2305 of this title to this section and struck out subsec. (c) designation at beginning.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
+
+#### Process for Enhanced Supply Chain Scrutiny
+
+Pub. L. 115–91, div. A, title VIII, §807, Dec. 12, 2017, 131 Stat. 1456, provided that:
+
+"(a)
+
+Process.—Not later than 90 days after the date of the enactment of this Act \[Dec. 12, 2017\], the Secretary of Defense shall establish a process for enhancing scrutiny of acquisition decisions in order to improve the integration of supply chain risk management into the overall acquisition decision cycle.
+
+"(b)
+
+Elements.—The process under subsection (a) shall include the following elements:
+
+&emsp;"(1) Designation of a senior official responsible for overseeing the development and implementation of the process.
+
+&emsp;"(2) Development or integration of tools to support commercial due-diligence, business intelligence, or otherwise analyze and monitor commercial activity to understand business relationships with entities determined to be threats to the United States.
+
+&emsp;"(3) Development of risk profiles of products or services based on commercial due-diligence tools and data services.
+
+&emsp;"(4) Development of education and training curricula for the acquisition workforce that supports the process.
+
+&emsp;"(5) Integration, as needed, with intelligence sources to develop threat profiles of entities determined to be threats to the United States.
+
+&emsp;"(6) Periodic review and assessment of software products and services on computer networks of the Department of Defense to remove prohibited products or services.
+
+&emsp;"(7) Synchronization of the use of current authorities for making supply chain decisions, including section 806 of Public Law 111–383 (10 U.S.C. 2304 note) or improved use of suspension and debarment officials.
+
+&emsp;"(8) Coordination with interagency, industrial, and international partners, as appropriate, to share information, develop Government-wide strategies for dealing with significant entities determined to be significant threats to the United States, and effectively use authorities in other departments and agencies to provide consistent, Government-wide approaches to supply chain threats.
+
+&emsp;"(9) Other matters as the Secretary considers necessary.
+
+"(c)
+
+Notification.—Not later than 90 days after establishing the process required by subsection (a), the Secretary shall provide a written notification to the Committees on Armed Services of the Senate and House of Representatives that the process has been established. The notification also shall include the following:
+
+&emsp;"(1) Identification of the official designated under subsection (b)(1).
+
+&emsp;"(2) Identification of tools and services currently available to the Department of Defense under subsection (b)(2).
+
+&emsp;"(3) Assessment of additional tools and services available under subsection (b)(2) that the Department of Defense should evaluate.
+
+&emsp;"(4) Identification of, or recommendations for, any statutory changes needed to improve the effectiveness of the process.
+
+&emsp;"(5) Projected resource needs for implementing any recommendations made by the Secretary."
 

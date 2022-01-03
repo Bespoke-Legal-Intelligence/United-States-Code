@@ -40,7 +40,7 @@
 
 #### (6) Use of amounts collected after fiscal year 2002
 
-&emsp;After September 30, 2002, the unobligated balance in the Agricultural Quarantine Inspection User Fee Account and fees and other amounts collected under this subsection shall be credited to the Department of Agriculture accounts that incur the costs associated with the provision of agricultural quarantine and inspection services and the administration of this subsection. The fees and other amountsshall remain available to the Secretary until expended without fiscal year limitation.
+&emsp;After September 30, 2002, the unobligated balance in the Agricultural Quarantine Inspection User Fee Account and fees and other amounts collected under this subsection shall be credited to the Department of Agriculture accounts that incur the costs associated with the provision of agricultural quarantine and inspection services and the administration of this subsection. The fees and other amounts shall remain available to the Secretary until expended without fiscal year limitation.
 
 #### (7) Staff years
 

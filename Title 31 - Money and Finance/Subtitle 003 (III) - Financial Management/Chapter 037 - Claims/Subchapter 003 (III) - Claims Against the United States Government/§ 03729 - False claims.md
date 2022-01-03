@@ -28,7 +28,7 @@ In general.—Subject to paragraph (2), any person who—
 
 Reduced damages.—If the court finds that—
 
-&emsp;&emsp;(A) the person committing the violation of this subsection furnished officials of the United States responsible for investigating false claims violations with all informationknown to such person about the violation within 30 days after the date on which the defendant first obtained the information;
+&emsp;&emsp;(A) the person committing the violation of this subsection furnished officials of the United States responsible for investigating false claims violations with all information known to such person about the violation within 30 days after the date on which the defendant first obtained the information;
 
 &emsp;&emsp;(B) such person fully cooperated with any Government investigation of such violation; and
 
@@ -142,7 +142,7 @@ Pub. L. 111–21, §4(f), May 20, 2009, 123 Stat. 1625, provided that: "The amen
 
 &emsp;"(1) subparagraph (B) of section 3729(a)(1) of title 31, United States Code, as added by subsection (a)(1), shall take effect as if enacted on June 7, 2008, and apply to all claims under the False Claims Act (31 U.S.C. 3729 et seq.) that are pending on or after that date; and
 
-&emsp;"(2) section 3731(b) \[probably should be section 3731\] of title 31, as amended by subsection (b); section 3733, of title 31, as amended by subsection (c); and section 3732 of title 31, as amended by subsection (e); shall apply to cases pending on the date of enactment."
+&emsp;"(2) section 3731(b) \[probably should be section 3731\] of title 31, as amended by subsection (b); section 3733, of title 31, as amended by subsection (c); and section3732 of title 31, as amended by subsection (e); shall apply to cases pending on the date of enactment."
 
 #### Increased Penalties for False Claims in Defense Procurement
 

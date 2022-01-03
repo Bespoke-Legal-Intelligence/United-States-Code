@@ -26,6 +26,8 @@ Effect of Other Laws.—Nothing in section 8471 of this title shall be construed
 
 (Added Pub. L. 105–85, div. B, title XXVIII, §2871(a)(1), Nov. 18, 1997, 111 Stat. 2014, §6976; amended Pub. L. 106–65, div. B, title XXVIII, §2814, Oct. 5, 1999, 113 Stat. 851; renumbered §8476 and amended Pub. L. 115–232, div. A, title VIII, §§807(c)(1), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232, §807(c)(1), renumbered section 6976 of this title as this section.
@@ -33,6 +35,8 @@ Effect of Other Laws.—Nothing in section 8471 of this title shall be construed
 Subsec. (d). Pub. L. 115–232, §809(a), substituted "section 8471" for "section 6971".
 
 <b>1999</b>—Subsecs. (c), (d). Pub. L. 106–65 added subsec. (c) and redesignated former subsec. (c) as (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

@@ -12,13 +12,15 @@
 
 &emsp;&emsp;(A) 14 days after making the request for admission to such a program; or
 
-&emsp;&emsp;(B) 120 days after the date of such request, if no such program has the capacity to admit the individual on the date of such request and if interim services are made available to the individual not later than 48 hours after such request.
+&emsp;&emsp;(B) 120 days after the date of such request, if no such program has the capacity to admitthe individual on the date of such request and if interim services are made available to the individual not later than 48 hours after such request.
 
 #### (b) Outreach to persons who inject drugs
 
 A funding agreement for a grant under section 300x–21 of this title is that the State involved, in providing amounts from the grant to any entity for treatment services for persons who inject drugs, will require the entity to carry out activities to encourage individuals in need of such treatment to undergo treatment.
 
 (July 1, 1944, ch. 373, title XIX, §1923, as added Pub. L. 102–321, title II, §202, July 10, 1992, 106 Stat. 390; amended Pub. L. 114–255, div. B, title VIII, §8002(b), Dec. 13, 2016, 130 Stat. 1229.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

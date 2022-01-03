@@ -2,9 +2,9 @@
 
 #### (a) Research, development, and demonstration
 
-(1) Except as otherwise provided in this Act, research, development, and demonstration activities under this Act may be carried out under the procedures of the Federal Nonnuclear Research and Development Act of 1974 (42 U.S.C. 5901–5920), the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.), or any other Act under which the Secretary is authorized to carry out such activities, but only to the extent the Secretary is authorized to carry out such activities under each such Act. An objective of any demonstration program under this Act shall be to determine the technical and commercial feasibility of energy technologies.
+(1) Except as otherwise provided in this Act, research, development, and demonstration activities under this Act may be carried out under the procedures of the Federal Nonnuclear Research and Development Act of 1974 (42 U.S.C. 5901–5920), the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.), or any other Act under which the Secretary is authorized to carry outsuch activities, but only to the extent the Secretary is authorized to carry out such activities under each such Act. An objective of any demonstration program under this Act shall be to determine the technical and commercial feasibility of energy technologies.
 
-(2) Except as otherwise provided in this Act, in carrying out research, development, and demonstration programs and activities under this Act, the Secretary may use, to the extent authorized under applicable provisions of law, contracts, cooperative agreements, cooperative research and development agreements under theStevenson-Wydler Technology Innovation Act of 1980 \[15 U.S.C. 3701 et seq.\], grants, joint ventures, and any other form of agreement available to the Secretary.
+(2) Except as otherwise provided in this Act, in carrying out research, development, and demonstration programs and activities under this Act, the Secretary may use, to the extent authorized under applicable provisions of law, contracts, cooperative agreements, cooperative research and development agreements under the Stevenson-Wydler Technology Innovation Act of 1980 \[15 U.S.C. 3701 et seq.\], grants, joint ventures, and any other form of agreement available to the Secretary.
 
 #### (b) Commercial application
 
@@ -31,6 +31,8 @@ The Secretary shall provide guidelines and procedures for the transition, where 
 This section shall not apply to any contract, cooperative agreement, cooperative research and development agreement under the Stevenson-Wydler Technology Innovation Act of 1980 \[15 U.S.C. 3701 et seq.\], grant, joint venture, or any other form of agreement available to the Secretary that is in effect as of October 24, 1992.
 
 (Pub. L. 102–486, title XXX, §3001, Oct. 24, 1992, 106 Stat. 3126.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -6,11 +6,15 @@
 
 (Pub. L. 98–8, title II, §203C, as added Pub. L. 98–92, §2(5), Sept. 2, 1983, 97 Stat. 610; amended Pub. L. 99–198, title XV, §1566, Dec. 23, 1985, 99 Stat. 1591; Pub. L. 104–66, title I, §1011(k), Dec. 21, 1995, 109 Stat. 710.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1995</b>—Subsec. (a). Pub. L. 104–66 struck out at end "The Secretary shall submit to Congress each year a report as to whether and to what extent such displacements or substitutions are occurring."
 
 <b>1985</b>—Subsec. (a). Pub. L. 99–198 inserted at end "The Secretary shall submit to Congress each year a report as to whether and to what extent such displacements or substitutions are occurring."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

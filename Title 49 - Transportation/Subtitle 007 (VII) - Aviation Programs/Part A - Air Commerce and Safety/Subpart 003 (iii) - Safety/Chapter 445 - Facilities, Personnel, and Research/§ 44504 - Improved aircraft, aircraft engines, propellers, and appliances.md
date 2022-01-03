@@ -28,7 +28,7 @@ Research.—The Administrator shall conduct or supervise research—
 
 Authority To Buy Items Offering Special Advantages.—In carrying out this section, the Administrator, by negotiation or otherwise, may buy or exchange experimental aircraft, aircraft engines, propellers, and appliances that the Administrator decides may offer special advantages to aeronautics.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1176; Pub. L. 106–181, title IX, §904, Apr. 5, 2000, 114 Stat. 196; Pub. L. 112–95, title IX, §903(a), Feb. 14, 2012, 126 Stat. 138.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1176; Pub. L. 106–181, title IX, §904, Apr. 5, 2000, 114Stat. 196; Pub. L. 112–95, title IX, §903(a), Feb. 14, 2012, 126 Stat. 138.)
 
 Historical and Revision Notes
 
@@ -70,11 +70,15 @@ In this section, the word "Administrator" in section 312(b) of the Federal Aviat
 
 In subsection (a), the words "to improve" are substituted for "such . . . as tends to the creation of improved" to eliminate unnecessary words.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Subsec. (b)(8). Pub. L. 112–95 added par. (8).
 
 <b>2000</b>—Subsec. (b)(1). Pub. L. 106–181 inserted ", including nonstructural aircraft systems," after "life of aircraft".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 
@@ -222,7 +226,7 @@ Pub. L. 108–176, title VII, §711, Dec. 12, 2003, 117 Stat. 2585, provided tha
 
 "(a)
 
-Objective.—The Administrator of the Federal Aviation Administration shall establish a rotorcraft initiative with the objective of developing, and demonstrating in a relevant environment, within 10 years after the date of the enactment of this Act \[Dec. 12,2003\], technologies to enable rotorcraft with the following improvements relative to rotorcraft existing as of the date of the enactment of this Act:
+Objective.—The Administrator of the Federal Aviation Administration shall establish a rotorcraft initiative with the objective of developing, and demonstrating in a relevant environment, within 10 years after the date of the enactment of this Act \[Dec. 12, 2003\], technologies to enable rotorcraft with the following improvements relative to rotorcraft existing as of the date of the enactment of this Act:
 
 &emsp;"(1) 80 percent reduction in noise levels on takeoff and on approach and landing as perceived by a human observer.
 

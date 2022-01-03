@@ -10,9 +10,13 @@ Where a husband and wife enter into a written agreement relative to their marita
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 409; Pub. L. 98–369, div. A, title IV, §425(b), July 18, 1984, 98 Stat. 804.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Pub. L. 98–369 substituted in introductory text "within the 3-year period beginning on the date 1 year before such agreement is entered into" for "within 2 years thereafter".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

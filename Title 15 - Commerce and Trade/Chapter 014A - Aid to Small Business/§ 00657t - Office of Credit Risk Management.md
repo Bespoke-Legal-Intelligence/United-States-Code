@@ -130,6 +130,8 @@ The Director shall annually provide, in writing, a fiscal year budget submission
 
 (Pub. L. 85–536, §2\[47\], as added and amended Pub. L. 115–189, §3(a)(2), (b), June 21, 2018, 132 Stat. 1492, 1495.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 2\[47\] of Pub. L. 85–536 was renumbered section 2\[49\] and is set out as a note under section 631 of this title.
@@ -142,9 +144,11 @@ A prior section 2\[47\] of Pub. L. 85–536 was renumbered section 2\[49\] and i
 
 &emsp;"(2) supervise any such review that is not conducted on the premise of the 7(a) lender."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
-Pub. L. 115–189, §3(d)(1), June 21, 2018, 132 Stat. 1496, provided that: "Any reference in a law, regulation, guidance, document, paper, or other record of theUnited States to the Office of Credit Risk Management of the Small Business Administration shall be deemed a reference to the Office of Credit Risk Management, established under section 47 of the Small Business Act \[15 U.S.C. 657t\], as added by subsection (a)."
+Pub. L. 115–189, §3(d)(1), June 21, 2018, 132 Stat. 1496, provided that: "Any reference in a law, regulation, guidance, document, paper, or other record of the United States to the Office of Credit Risk Management of the Small Business Administration shall be deemed a reference to the Office of Credit Risk Management, established under section 47 of the Small Business Act \[15 U.S.C. 657t\], as added by subsection (a)."
 
 #### Effective Date of 2018 Amendment
 

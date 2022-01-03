@@ -4,6 +4,8 @@ No State or local educational agency receiving assistance under this subchapter 
 
 (Pub. L. 98–377, title V, §509, Aug. 11, 1984, 98 Stat. 1294; Pub. L. 101–637, §14(a)(9), Nov. 28, 1990, 104 Stat. 4594.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Pub. L. 101–637 inserted section catchline.

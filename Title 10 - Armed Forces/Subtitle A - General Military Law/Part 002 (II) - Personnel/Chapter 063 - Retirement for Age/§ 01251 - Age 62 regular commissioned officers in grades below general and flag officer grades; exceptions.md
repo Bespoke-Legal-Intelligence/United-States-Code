@@ -36,7 +36,7 @@ Deferred Retirement or Separation of Other Officers.—The Secretary of the mili
 
 Limitation on Deferment of Retirements.—(1) Except as provided in paragraph (2), a deferment under subsection (b) or (c) may not extend beyond the first day of the month following the month in which the officer becomes 68 years of age.
 
-(2) The Secretary of the military department concerned may extend a deferment under subsection (b) or (c) beyond the day referred to in paragraph (1) if the Secretary determines that extension of the deferment is necessary for the needs of the military department concerned. Such an extension shall be made on a case-by-case basis and shall be for such period as the Secretary considers appropriate.
+(2) The Secretary of the military department concerned may extend a deferment under subsection (b) or (c) beyond the day referred to in paragraph (1) if the Secretary determines thatextension of the deferment is necessary for the needs of the military department concerned. Such an extension shall be made on a case-by-case basis and shall be for such period as the Secretary considers appropriate.
 
 (e)
 
@@ -49,6 +49,8 @@ Retirement or Separation Based on Years of Creditable Service.—(1) The followi
 (2) Notwithstanding paragraph (1), in the case of a regular commissioned officer who was added to the retired list before the date of the enactment of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, the officer shall be retired, with retired pay computed under section 1401 of this title.
 
 (Added Pub. L. 96–513, title I, §111, Dec. 12, 1980, 94 Stat. 2875; amended Pub. L. 100–180, div. A, title VII, §719, Dec. 4, 1987, 101 Stat. 1115; Pub. L. 101–189, div. A, title VII, §709, Nov. 29, 1989, 103 Stat. 1476; Pub. L. 105–85, div. A, title V, §504(a), (b), Nov. 18, 1997, 111 Stat. 1725; Pub. L. 109–163, div. A, title V, §509(c)(3), Jan. 6, 2006, 119 Stat. 3231; Pub. L. 109–364, div. A, title V, §502(b), Oct. 17, 2006, 120 Stat. 2176; Pub. L. 111–383, div. A, title V, §501(b), Jan. 7, 2011, 124 Stat. 4206; Pub. L. 116–283, div. A, title V, §507, title IX, §924(b)(3)(T), Jan. 1, 2021, 134 Stat. 3573, 3821.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -85,6 +87,8 @@ Subsec. (d). Pub. L. 105–85, §504(b), added subsec. (d).
 <b>1989</b>—Subsec. (c)(2). Pub. L. 101–189 designated existing provisions as subpar. (A), substituted "Except as provided in subparagraph (B), a deferment" for "A deferment" and "68 years of age" for "67 years of age", and added subpar. (B).
 
 <b>1987</b>—Subsec. (c). Pub. L. 100–180 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

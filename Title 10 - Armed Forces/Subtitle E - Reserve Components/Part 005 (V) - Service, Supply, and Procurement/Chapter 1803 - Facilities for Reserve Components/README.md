@@ -17,9 +17,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–375, div. B, title XXVIII, §§2808(c), 2809(a)(2), Oct. 28, 2004, 118 Stat. 2125, 2127, substituted "Notice and wait requirements for certain projects" for "Limitation on certain projects; authority to carry out small projects with operation and maintenance funds" in item 18233a and added items 18233b and 18240.
+<b>2004</b>—Pub. L. 108–375, div. B, title XXVIII, §§2808(c), 2809(a)(2), Oct. 28, 2004, 118 Stat. 2125, 2127, substituted"Notice and wait requirements for certain projects" for "Limitation on certain projects; authority to carry out small projects with operation and maintenance funds" in item 18233a and added items 18233b and 18240.
 
 <b>1994</b>—Pub. L. 103–337, div. A, title XVI, §1664(b)(1), (3), Oct. 5, 1994, 108 Stat. 3010, renumbered chapter 133 as this chapter and renumbered items 2231 to 2239 as items 18231 to 18239, respectively.
 

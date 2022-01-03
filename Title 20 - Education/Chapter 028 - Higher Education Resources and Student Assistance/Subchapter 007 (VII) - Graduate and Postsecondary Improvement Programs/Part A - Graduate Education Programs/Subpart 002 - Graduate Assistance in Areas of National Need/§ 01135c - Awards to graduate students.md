@@ -16,7 +16,7 @@ The Secretary shall make payments to institutions of higher education for the pu
 
 #### (c) Treatment of institutional payments
 
-An institution of higher education that makes institutional payments for tuition and fees on behalf of individuals supported by fellowships under this subpart in amounts that exceed the institutional payments made by the Secretary pursuant to section 1135d(a) of this title may count such excess toward the amounts the institution is required to provide pursuant to section 1135b(b)(2) of this title.
+An institution of higher education that makes institutional payments for tuition and fees onbehalf of individuals supported by fellowships under this subpart in amounts that exceed the institutional payments made by the Secretary pursuant to section 1135d(a) of this title may count such excess toward the amounts the institution is required to provide pursuant to section 1135b(b)(2) of this title.
 
 #### (d) Academic progress required
 
@@ -27,6 +27,8 @@ Notwithstanding the provisions of subsection (a), no student shall receive an aw
 &emsp;(2) if the student is engaging in gainful employment other than part-time employment involved in teaching, research, or similar activities determined by the institution to be in support of the student's progress towards a degree.
 
 (Pub. L. 89–329, title VII, §714, as added Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1792; amended Pub. L. 110–315, title VII, §703(b), (e)(4), Aug. 14, 2008, 122 Stat. 3346, 3347.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

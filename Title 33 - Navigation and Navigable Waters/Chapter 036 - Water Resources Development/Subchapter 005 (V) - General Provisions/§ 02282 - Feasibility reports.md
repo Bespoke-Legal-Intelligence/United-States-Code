@@ -190,7 +190,7 @@ Pub. L. 113–121, title I, §1003, June 10, 2014, 128 Stat. 1199, provided that
 
 &emsp;"(1) expedite the completion of any on-going feasibility study for a project initiated before the date of enactment of this Act \[June 10, 2014\]; and
 
-&emsp;"(2) if the Secretary determines that the project is justified in a completed report, proceed directly to preconstruction planning, engineering, and design of the project in accordance with section 910 of the Water Resources Development Act of 1986 (33 U.S.C. 2287)."
+&emsp;"(2) if the Secretary determines that the project is justified in a completed report, proceed directly to preconstruction planning, engineering, and design ofthe project in accordance with section 910 of the Water Resources Development Act of 1986 (33 U.S.C. 2287)."
 
 #### National Academy of Sciences Study
 

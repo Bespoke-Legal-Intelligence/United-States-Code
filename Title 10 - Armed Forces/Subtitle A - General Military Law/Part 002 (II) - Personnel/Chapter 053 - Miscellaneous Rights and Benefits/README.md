@@ -22,6 +22,7 @@
 | [1044c.](%C2%A7%2001044c%20-%20Advance%20medical%20directives%20of%20members%20and%20dependents%20requirement%20for%20recognition%20by%20States.md) | Advance medical directives of members and dependents: requirement for recognition by States. |
 | [1044d.](%C2%A7%2001044d%20-%20Military%20testamentary%20instruments%20requirement%20for%20recognition%20by%20States.md) | Military testamentary instruments: requirement for recognition by States. |
 | [1044e.](%C2%A7%2001044e%20-%20Special%20Victims%27%20Counsel%20for%20victims%20of%20sex-related%20offenses.md) | Special Victims' Counsel for victims of sex-related offenses. |
+| [1044f.](%C2%A7%2001044f%20-%20Policies%20with%20respect%20to%20special%20trial%20counsel.md) | Policies with respect to special trial counsel. |
 | [1045\.](%C2%A7%2001045%20-%20Voluntary%20withholding%20of%20State%20income%20tax%20from%20retired%20or%20retainer%20pay.md) | Voluntary withholding of State income tax from retired or retainer pay. |
 | [1046\.](%C2%A7%2001046%20-%20Overseas%20temporary%20foster%20care%20program.md) | Overseas temporary foster care program. |
 | [1047\.](%C2%A7%2001047%20-%20Allowance%20for%20civilian%20clothing.md) | Allowance for civilian clothing. |
@@ -45,7 +46,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Pub. L. 117–81, div. A, title V, §532(b), Dec. 27, 2021, 135 Stat. 1695, added item 1044f.
 
 <b>2019</b>—Pub. L. 116–92, div. A, title VII, §735(b), Dec. 20, 2019, 133 Stat. 1463, added item 1060c.
 
@@ -134,6 +139,8 @@ Pub. L. 89–132, §9(b), Aug. 21, 1965, 79 Stat. 548, added item 1040 "Free pos
 Pub. L. 86–142, §1(2), Aug. 7, 1959, 73 Stat. 289, added item 1038.
 
 <b>1958</b>—Pub. L. 85–861, §1(24)(B), Sept. 2, 1958, 72 Stat. 1445, added item 1037.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Policy To Improve Responses to Pregnancy and Childbirth by Certain Members of the Armed Forces
 
@@ -227,7 +234,7 @@ Protection of Chaplain Decisions Relating to Conscience, Moral Principles, or Re
 
 Regulations.—The Secretary of Defense shall issue regulations implementing the protections afforded by this section."
 
-\[Pub. L. 113–66, div. A, title V, §532(b), Dec. 26, 2013, 127 Stat. 759, provided that: "Not later than 90 daysafter the date of the enactment of this Act \[Dec. 26, 2013\], the Secretary of Defense shall prescribe the implementing regulations required by subsection (c) of such section \[section 533 of Pub. L. 112–239, set out above\]. In prescribing such regulations, the Secretary shall consult with the official military faith-group representatives who endorse military chaplains."\]
+\[Pub. L. 113–66, div. A, title V, §532(b), Dec. 26, 2013, 127 Stat. 759, provided that: "Not later than 90 days after the date of the enactment of this Act \[Dec. 26, 2013\], the Secretary of Defense shall prescribe the implementing regulations required by subsection (c) of such section \[section 533 of Pub. L. 112–239, set out above\]. In prescribing such regulations, the Secretary shall consult with the official military faith-group representatives who endorse military chaplains."\]
 
 #### Freedom of Conscience of Military Chaplains With Respect to the Performance of Marriages
 
@@ -321,7 +328,7 @@ Funding.—(1)(A) In carrying out the program under this section, the Secretary 
 
 "(e)
 
-Deployment of Additional Telephone Equipment or Internet Access.—If the Secretary of Defensedetermines that, in order to implement this section as quickly as practicable, it is necessary to provide additional telephones or Internet service in any area to facilitate telephone or packet based telephony calling for which benefits are provided under this section, the Secretary may, consistent with the availability of resources, award competitively bid contracts to one or more commercial entities for the provision and installation of telephones or Internet access in that area.
+Deployment of Additional Telephone Equipment or Internet Access.—If the Secretary of Defense determines that, in order to implement this section as quickly as practicable, it is necessary to provide additional telephones or Internet service in any area to facilitate telephone or packet based telephony calling for which benefits are provided under this section, the Secretary may, consistent with the availability of resources, award competitively bid contracts to one or more commercial entities for the provision and installation of telephones or Internet access in that area.
 
 "(f)
 
@@ -356,6 +363,7 @@ Contingency Operation Defined.—In this section, the term 'contingency operatio
 - [&sect; 01044c - Advance medical directives of members and dependents requirement for recognition by States](%C2%A7%2001044c%20-%20Advance%20medical%20directives%20of%20members%20and%20dependents%20requirement%20for%20recognition%20by%20States.md)
 - [&sect; 01044d - Military testamentary instruments requirement for recognition by States](%C2%A7%2001044d%20-%20Military%20testamentary%20instruments%20requirement%20for%20recognition%20by%20States.md)
 - [&sect; 01044e - Special Victims' Counsel for victims of sex-related offenses](%C2%A7%2001044e%20-%20Special%20Victims%27%20Counsel%20for%20victims%20of%20sex-related%20offenses.md)
+- [&sect; 01044f - Policies with respect to special trial counsel](%C2%A7%2001044f%20-%20Policies%20with%20respect%20to%20special%20trial%20counsel.md)
 - [&sect; 01045 - Voluntary withholding of State income tax from retired or retainer pay](%C2%A7%2001045%20-%20Voluntary%20withholding%20of%20State%20income%20tax%20from%20retired%20or%20retainer%20pay.md)
 - [&sect; 01046 - Overseas temporary foster care program](%C2%A7%2001046%20-%20Overseas%20temporary%20foster%20care%20program.md)
 - [&sect; 01047 - Allowance for civilian clothing](%C2%A7%2001047%20-%20Allowance%20for%20civilian%20clothing.md)

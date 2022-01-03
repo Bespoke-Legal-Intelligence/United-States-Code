@@ -88,9 +88,11 @@ For purposes of this section, the term "year", where applied to service as a tea
 
 (Pub. L. 89–329, title IV, §428J, as added Pub. L. 102–325, title IV, §422, July 23, 1992, 106 Stat. 541; amended Pub. L. 103–82, title I, §102(c)(2), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103–208, §2(c)(47)–(51), Dec. 20, 1993, 107 Stat. 2467; Pub. L. 105–244, title IV, §424, Oct. 7, 1998, 112 Stat. 1698; Pub. L. 108–409, §3(a)(1)(A), (b)(1), Oct. 30, 2004, 118 Stat. 2300; Pub. L. 109–171, title VIII, §8013(e)(1), Feb. 8, 2006, 120 Stat. 167; Pub. L. 110–315, title IV, §429, Aug. 14, 2008, 122 Stat. 3236; Pub. L. 111–39, title IV, §402(f)(6), July 1, 2009, 123 Stat. 1944.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-Section 9101 of the Elementary and Secondary Education Act of 1965, referred to in subsecs. (b)(1)(B) and\(g)(3), was amended by Pub. L. 114–95 and, as so amended, is now section 8101 of the Act and no longer defines "highly qualified". A reference in this section to the term "highly qualified" as defined in section 9101 of the Act is to be treated as a reference to such term under such section 9101 as in effect on the day before the date of enactment of Pub. L. 114–95. See section 9214(a)(1) of Pub. L. 114–95, set out as a Use of the Term "Highly Qualified" in Other Laws note under section 1070g–2 of this title.
+Section 9101 of the Elementary and Secondary Education Act of 1965, referred to in subsecs. (b)(1)(B) and (g)(3), was amended by Pub. L. 114–95 and, as so amended, is now section 8101 of the Act and no longer defines "highly qualified". A reference in this section to the term "highly qualified" as defined in section 9101 of the Act is to be treated as a reference to such term under such section 9101 as in effect on the day before the date of enactment of Pub. L. 114–95. See section 9214(a)(1) of Pub. L. 114–95, set out as a Use of the Term "Highly Qualified" in Other Laws note under section 1070g–2 of this title.
 
 The National and Community Service Act of 1990, referred to in subsec. (g)(2)(C), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127. Subtitle D of title I of the Act is classified generally to division D of subchapter I (§12601 et seq.) of chapter 129 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
@@ -134,7 +136,9 @@ Subsec. (c)(5). Pub. L. 103–82, §102(c)(2)(B), added par. (5).
 
 Subsec. (d). Pub. L. 103–208, §2(c)(50), substituted "to eligible" for "of eligibility" in heading.
 
-Subsec. (e). Pub. L. 103–208, §2(c)(51), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: "Each eligible individual desiring loan repayment under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require."
+Subsec. (e). Pub. L. 103–208, §2(c)(51), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: "Each eligible individual desiring loan repayment under this section shall submit an application tothe Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 
@@ -170,7 +174,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Effective Date of 1993 Amendments
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L.102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as a note under section 1701 of Title 16, Conservation.
 

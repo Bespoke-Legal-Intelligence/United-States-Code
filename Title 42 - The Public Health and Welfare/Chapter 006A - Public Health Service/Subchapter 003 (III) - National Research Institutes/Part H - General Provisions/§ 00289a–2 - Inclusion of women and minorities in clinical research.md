@@ -66,7 +66,7 @@ The requirement established in subsection (a) regarding women and members of min
 
 &emsp;&emsp;(A)(i) In the case of a clinical trial, the guidelines shall provide that the costs of such inclusion in the trial is not a permissible consideration in determining whether such inclusion is inappropriate.
 
-&emsp;&emsp;(ii) In the case of other projects of clinical research, the guidelines shall provide that the costs of such inclusion in the project is not a permissible consideration in determining whether such inclusion is inappropriate unless the data regarding women or members of minority groups, respectively, that would be obtained in such project (in the event that such inclusion were required) have been or are being obtained through other means that provide data of comparable quality.
+&emsp;&emsp;(ii) In the case of other projects of clinical research, the guidelines shall provide that the costs of such inclusion in the project is not a permissible consideration in determining whether such inclusion is inappropriate unless the data regarding women ormembers of minority groups, respectively, that would be obtained in such project (in the event that such inclusion were required) have been or are being obtained through other means that provide data of comparable quality.
 
 &emsp;&emsp;(B) In the case of a clinical trial, the guidelines may provide that such inclusion in the trial is not required if there is substantial scientific data demonstrating that there is no significant difference between—
 
@@ -116,6 +116,8 @@ For purposes of this section:
 
 (July 1, 1944, ch. 373, title IV, §492B, as added Pub. L. 103–43, title I, §131, June 10, 1993, 107 Stat. 133; amended Pub. L. 114–255, div. A, title II, §§2031(c), 2038(b), 2053, Dec. 13, 2016, 130 Stat. 1056, 1065, 1076.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Subsec. (a)(3). Pub. L. 114–255, §2031(c), added par. (3).
@@ -123,6 +125,8 @@ For purposes of this section:
 Subsec. (c). Pub. L. 114–255, §2053, designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 Subsec. (f). Pub. L. 114–255, §2038(b), designated existing provisions as par. (1), inserted heading, substituted "triennial" for "biennial" in two places, and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Clinical Research
 

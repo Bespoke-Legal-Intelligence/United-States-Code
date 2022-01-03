@@ -46,6 +46,8 @@ Act
 
 Aug. 9, 1955, ch. 669, §1 (less last sentence), 69 Stat. 607.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Level IV of the Executive Schedule, referred to in subsec. (b), is set out in section 5315 of Title 5, Government Organization and Employees.
@@ -71,6 +73,8 @@ Subsec. (b). Pub. L. 108–375, §557(b)(4), substituted "Provost and Academic D
 <b>1966</b>—Subsec. (b). Pub. L. 89–536 substituted for a limit of $13,500 per annum a rate of compensation comparable to grade 18 of the general schedule of the Classification Act of 1949, as amended.
 
 <b>1958</b>—Pub. L. 85–861, among other changes, increased the maximum compensation of the Academic Dean from $12,000 to $13,500 a year.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

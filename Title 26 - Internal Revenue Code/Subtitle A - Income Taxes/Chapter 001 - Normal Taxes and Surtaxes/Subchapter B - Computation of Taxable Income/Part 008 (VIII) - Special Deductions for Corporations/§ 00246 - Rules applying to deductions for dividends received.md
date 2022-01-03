@@ -142,6 +142,8 @@ No deduction shall be allowed under section 243 in respect of a dividend from a 
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 74; Pub. L. 85–866, title I, §§18(a), 57(c)(2), Sept. 2, 1958, 72 Stat. 1614, 1646; Pub. L. 88–272, title II, §214(b)(2), Feb. 26, 1964, 78 Stat. 55; Pub. L. 91–172, title IV, §434(b)(1), title V, §512(f)(3), Dec. 30, 1969, 83 Stat. 625, 641; Pub. L. 92–178, title V, §502(a), Dec. 10, 1971, 85 Stat. 549; Pub. L. 94–455, title X, §1051(f)(3), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1646, 1834; Pub. L. 97–248, title II, §213(c), Sept. 3, 1982, 96 Stat. 465; Pub. L. 98–369, div. A, title I, §§53(b), (d)(2), 177(b), title VIII, §801(b)(2)(A), July 18, 1984, 98 Stat. 567, 568, 709, 995; Pub. L. 99–514, title VI, §611(a)(3), title XII, §1275(a)(2)(B), title XVIII, §§1804(b)(1)(A), (B), 1812(d)(1), Oct. 22, 1986, 100 Stat. 2249, 2598, 2798, 2835; Pub. L. 100–203, title X, §10221(c)(1), Dec. 22, 1987, 101 Stat. 1330–409; Pub. L. 100–647, title I, §1018(u)(10), Nov. 10, 1988, 102 Stat. 3590; Pub. L. 104–188, title I, §1616(b)(4), Aug. 20, 1996, 110 Stat. 1856; Pub. L. 105–34, title X, §1015(a), (b), Aug. 5, 1997, 111 Stat. 921, 922; Pub. L. 108–311, title IV, §406(f), Oct. 4, 2004, 118 Stat. 1190; Pub. L. 108–357, title I, §102(d)(4), title VIII, §888(d), Oct. 22, 2004, 118 Stat. 1429, 1643; Pub. L. 109–135, title IV, §402(a)(4), Dec. 21, 2005, 119 Stat. 2610; Pub. L. 113–295, div. A, title II, §221(a)(41)(E), Dec. 19, 2014, 128 Stat. 4044; Pub. L. 115–97, title I, §§11011(d)(2), 13002(c), 13305(b)(1), 14101(b), (c)(1), 14202(b)(2), Dec. 22, 2017, 131 Stat. 2071, 2100, 2126, 2191, 2216; Pub. L. 115–141, div. U, title IV, §401(d)(1)(D)(vi), Mar. 23, 2018, 132 Stat. 1207.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (e). Pub. L. 115–141 struck out subsec. (e). Prior to amendment, text read as follows: "No deduction shall be allowed under section 243(a) with respect to a dividend received pursuant to a distribution described in section 936(h)(4)."
@@ -150,7 +152,7 @@ No deduction shall be allowed under section 243 in respect of a dividend from a 
 
 Subsec. (b)(1). Pub. L. 115–97, §14202(b)(2)(B), which directed amendment of par. (1) by substituting "subsection (a) and (b) of section 245, and 250" for "and subsection (a) and (b) of section 245" the second place appearing, was executed by making the substitution for "and subsection (a) or (b) of section 245", to reflect the probable intent of Congress.
 
-Pub. L. 115–97, §14202(b)(2)(A), which directed amendment of par. (1) by substituting ", subsection (a) and (b) of section 245, and section 250" for "and subsection (a) and (b) of section 245" the first place appearing, was executed by making the substitution for "and subsection (a) or (b) of section 245", to reflect the probable intent of Congress.
+Pub. L. 115–97, §14202(b)(2)(A), which directed amendment of par. (1) by substituting ", subsection (a) and (b) of section 245, and section 250" for "and subsection\(a) and (b) of section 245" the first place appearing, was executed by making the substitution for "and subsection (a) or (b) of section 245", to reflect the probable intent of Congress.
 
 Pub. L. 115–97, §13305(b)(1), struck out "199," after "sections 172,".
 
@@ -242,13 +244,15 @@ Subsec. (d). Pub. L. 91–172, §434(b)(1), added subsec. (d).
 
 Subsec. (c). Pub. L. 85–866, §18(a), added subsec. (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2017 Amendment
 
 Amendment by section 11011(d)(2) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11011(e) of Pub. L. 115–97, set out as a note under section 62 of this title.
 
 Amendment by section 13002(c) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 13002(f) of Pub. L. 115–97, set out as a note under section 243 of this title.
 
-Amendment by section 13305(b)(1) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, except as provided by transition rule, see section 13305(c) of Pub. L. 115–97, set out as a note under section 74 of this title.
+Amendment by section 13305(b)(1) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, except as provided by transition rule, see section13305(c) of Pub. L. 115–97, set out as a note under section 74 of this title.
 
 Amendment by section 14101(b), (c)(1) of Pub. L. 115–97 applicable to distributions made after Dec. 31, 2017, see section 14101(f) of Pub. L. 115–97, set out as an Effective Date note under section 245A of this title.
 
@@ -344,7 +348,7 @@ Certain sales made after july 1, 1982.—Paragraph (6) of \[former\] section 936
 
 "(3)
 
-Certain transfers of intangibles made after august 14, 1982.—Subsection (d) \[amending section 367 of this title\] shall apply to taxable years ending after August 14, 1982."
+Certain transfers of intangibles made after august 14, 1982.—Subsection (d) \[amending section 367 ofthis title\] shall apply to taxable years ending after August 14, 1982."
 
 #### Effective Date of 1976 Amendment
 

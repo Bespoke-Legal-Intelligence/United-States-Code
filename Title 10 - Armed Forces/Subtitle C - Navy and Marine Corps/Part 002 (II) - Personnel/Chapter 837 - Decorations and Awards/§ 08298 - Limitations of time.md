@@ -12,7 +12,7 @@
 
 &emsp;(2) no award was made, because the statement was lost or through inadvertence the recommendation was not acted on;
 
-> a medal of honor, Navy cross, distinguished-service medal, silver star medal, Navy and Marine Corps Medal, or bar, emblem, or insignia inplace thereof, as the case may be, may be awarded to the person within two years after the date of that determination.
+> a medal of honor, Navy cross, distinguished-service medal, silver star medal, Navy and Marine Corps Medal, or bar, emblem, or insignia in place thereof, as the case may be, may be awarded to the person within two years after the date of that determination.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 390, §6248; Pub. L. 86–582, §1(2), July 5, 1960, 74 Stat. 320; renumbered §8298 and amended Pub. L. 115–232, div. A, title VIII, §§807(b)(13), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840.)
 
@@ -32,6 +32,8 @@ Feb. 4, 1919, ch. 14, §7, 40 Stat. 1056; renumbered §9 and amended Aug. 7, 194
 
 The words "Except as provided in section 6246 of this title" are substituted for the words "That except as otherwise prescribed herein" to identify the only exception. The words "may be awarded to a person" are substituted for the words "shall be issued to any person" for uniformity. The words "specific", "or report distinctly", and "at the time of" are omitted as surplusage. The words "bar, emblem, or insignia" are substituted for the words "or bar or other suitable emblem or insignia" for uniformity. The words "from the date of that act or service" are substituted for the word "thereafter".
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 8298, acts Aug. 10, 1956, ch. 1041, 70A Stat. 511; Aug. 21, 1957, Pub. L. 85–155, title III, §301(9), title IV, §401(1), 71 Stat. 387, 390, provided for promotion from grade of second lieutenant to first lieutenant after three years of service, discharge under section 8814 of this title upon failure of promotion, and filling vacancies for first lieutenants with second lieutenants, except Air Force nurses and medical specialists, prior to completion of three years of service, prior to repeal by Pub. L. 96–513, title II, §204, Dec. 12, 1980, 94 Stat. 2880, effective Sept. 15, 1981. See section 630 of this title.
@@ -44,7 +46,9 @@ Subsec. (a). Pub. L. 115–232, §809(a), substituted "section 8296" for "sectio
 
 <b>1960</b>—Pub. L. 86–582 designated existing provisions as subsec. (a), inserted "or subsection (b)" after "title", and added subsec. (b).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments andspecial rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 

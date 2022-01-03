@@ -4,6 +4,8 @@ In the performance of and with respect to the Secretary's effectuation of his re
 
 (Pub. L. 89–329, title III, §348, formerly title VII, §728, as added Pub. L. 102–325, title VII, §704, July 23, 1992, 106 Stat. 747; renumbered title III, §348, and amended Pub. L. 105–244, title III, §301(a)(3), (4), (c)(7), Oct. 7, 1998, 112 Stat. 1636, 1637.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 1132c–7 of this title prior to renumbering by Pub. L. 105–244.
@@ -11,6 +13,8 @@ Section was formerly classified to section 1132c–7 of this title prior to renu
 #### Amendments
 
 <b>1998</b>—Pub. L. 105–244, §301(c)(7), substituted "section 1066d(1)" for "section 1132c–4(1)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

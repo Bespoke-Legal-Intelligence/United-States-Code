@@ -44,6 +44,8 @@ For purposes of this section—
 
 (Added Pub. L. 110–142, §5(a), Dec. 20, 2007, 121 Stat. 1805; amended Pub. L. 116–94, div. O, title III, §301(a), (b), Dec. 20, 2019, 133 Stat. 3175; Pub. L. 116–260, div. EE, title I, §103(a), Dec. 27, 2020, 134 Stat. 3040.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2020</b>—Subsec. (d). Pub. L. 116–260 struck out subsec. (d). Text read as follows: "This section shall not apply with respect to taxable years beginning—
@@ -55,6 +57,8 @@ For purposes of this section—
 <b>2019</b>—Subsec. (c)(2). Pub. L. 116–94, §301(a), substituted "$50" for "$30".
 
 Subsec. (d). Pub. L. 116–94, §301(b), substituted "beginning—" for "beginning after December 31, 2010." and added pars. (1) and (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 

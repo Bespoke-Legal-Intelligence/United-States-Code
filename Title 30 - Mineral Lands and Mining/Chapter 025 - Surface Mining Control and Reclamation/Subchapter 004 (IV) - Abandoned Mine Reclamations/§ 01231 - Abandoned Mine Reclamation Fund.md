@@ -70,17 +70,17 @@ The Secretary of the Interior shall notify the Secretary of the Treasury as to w
 
 #### (2) Amounts
 
-#### (A) For fiscal years 2008 through 2022
+#### (A) For fiscal years 2008 through 2035
 
-&emsp;&emsp;For each of fiscal years 2008 through 2022, the amount distributed by the Secretary under this subsection shall be equal to—
+&emsp;&emsp;For each of fiscal years 2008 through 2035, the amount distributed by the Secretary under this subsection shall be equal to—
 
 &emsp;&emsp;&emsp;(i) the amounts deposited into the fund under paragraphs (1), (2), and (4) of subsection (b) for the preceding fiscal year that were allocated under paragraphs (1) and (5) of section 1232(g) of this title; plus
 
 &emsp;&emsp;&emsp;(ii) the amount needed for the adjustment under section 1232(g)(8) of this title for the current fiscal year.
 
-#### (B) Fiscal years 2023 and thereafter
+#### (B) Fiscal years 2036 and thereafter
 
-&emsp;&emsp;For fiscal year 2023 and each fiscal year thereafter, to the extent that funds are available, the Secretary shall distribute an amount equal to the amount distributed under subparagraph (A) during fiscal year 2022.
+&emsp;&emsp;For fiscal year 2036 and each fiscal year thereafter, to the extent that funds are available, the Secretary shall distribute an amount equal to the amount distributed under subparagraph (A) during fiscal year 2035.
 
 #### (3) Distribution
 
@@ -118,17 +118,21 @@ The Secretary of the Interior shall notify the Secretary of the Treasury as to w
 
 &emsp;&emsp;&emsp;(iv) 75 percent in fiscal year 2011.
 
-(Pub. L. 95–87, title IV, §401, Aug. 3, 1977, 91 Stat. 456; Pub. L. 98–473, title I, §101(c) \[title III, §324\], Oct. 12, 1984, 98 Stat. 1837, 1875; Pub. L. 101–508, title VI, §6002, Nov. 5, 1990, 104 Stat. 1388–289; Pub. L. 102–486, title XIX, §19143(b)(3)(A), title XXV, §2504(c)(1), Oct. 24, 1992, 106 Stat. 3056, 3105; Pub. L. 109–432, div. C, title II, §201(a), Dec. 20, 2006, 120 Stat. 3006.)
+(Pub. L. 95–87, title IV, §401, Aug. 3, 1977, 91 Stat. 456; Pub. L. 98–473, title I, §101(c) \[title III, §324\], Oct. 12, 1984, 98 Stat. 1837, 1875; Pub. L. 101–508, title VI, §6002, Nov. 5, 1990, 104 Stat. 1388–289; Pub. L. 102–486, title XIX, §19143(b)(3)(A), title XXV, §2504(c)(1), Oct. 24, 1992, 106 Stat. 3056, 3105; Pub. L. 109–432, div. C, title II, §201(a), Dec. 20, 2006, 120 Stat. 3006; Pub. L. 117–58, div. D, title VII, §40703, Nov. 15, 2021, 135 Stat. 1093.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
 
-<b>2006</b>—Subsec. (c)(2) to (13). Pub. L. 109–432, §201(a)(1), redesignated pars. (3) to (5) and (7) to (13) as (2) to (4) and (5) to (11), respectively, and struck out former pars. (2) and (6) which read as follows:
+<b>2021</b>—Subsec. (f)(2)(A). Pub. L. 117–58, §40703(1), substituted "2035" for "2022" in heading and in introductory provisions.
+
+Subsec. (f)(2)(B). Pub. L. 117–58, §40703(2), substituted "2036" for "2023" in heading and "2036" for "2023" and "2035" for "2022" in text.
+
+<b>2006</b>—Subsec. (c)(2) to (13). Pub. L. 109–432, §201(a)(1), redesignated pars. (3) to (5) and (7) to (13) as (2) to (4)and (5) to (11), respectively, and struck out former pars. (2) and (6) which read as follows:
 
 "(2) for transfer on an annual basis to the Secretary of Agriculture for use under section 1236 of this title;" and
 
-"(6) studies, research, and demonstration projects by the Department of the Interior to such extent or in such amounts as are provided in appropriation Actswith public and private organizations conducted in accordance with section 3501 of the Omnibus Budget Reconciliation Act of 1986, conducted for the purposes of this subchapter;".
+"(6) studies, research, and demonstration projects by the Department of the Interior to such extent or in such amounts as are provided in appropriation Acts with public and private organizations conducted in accordance with section 3501 of the Omnibus Budget Reconciliation Act of 1986, conducted for the purposes of this subchapter;".
 
 Subsec. (d). Pub. L. 109–432, §201(a)(2), added subsec. (d) and struck out former subsec. (d) which read as follows: "Moneys from the fund shall be available for the purposes of this subchapter, only when appropriated therefor, and such appropriations shall be made without fiscal year limitations."
 
@@ -165,6 +169,10 @@ Pub. L. 101–508, title VI, §6014, Nov. 5, 1990, 104 Stat. 1388–298, provide
 #### Savings Provision
 
 Pub. L. 101–508, title VI, §6013, Nov. 5, 1990, 104 Stat. 1388–298, provided that: "Nothing in this subtitle \[subtitle A (§§6001–6014) of title VI of Pub. L. 101–508, see Short Title of 1990 Amendment note set out under section 1201 of this title\] shall be construed to affect the certifications made by the State of Wyoming, the State of Montana, and the State of Louisiana to the Secretary of the Interior prior to the date of enactment of this subtitle \[Nov. 5, 1990\] that such State has completed the reclamation of eligible abandoned coal mine lands."
+
+#### Wage Rate Requirements
+
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of Title 42, The Public Health and Welfare.
 
 #### Abandoned Mine Reclamation Fund; Deposit and Expenditure of Certain Donations
 

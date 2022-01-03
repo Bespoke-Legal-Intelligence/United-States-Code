@@ -6,7 +6,7 @@ The taxes imposed by sections 4261 and 4271 shall not apply to transportation by
 
 #### (b) Maximum certificated takeoff weight
 
-For purposes of this section, the term "maximum certificated takeoff weight" means the maximum such weight contained in the type certificate or airworthiness certificate.
+For purposes of this section, the term "maximum certificated takeoff weight" means themaximum such weight contained in the type certificate or airworthiness certificate.
 
 #### (c) Sightseeing
 
@@ -17,6 +17,8 @@ For purposes of this section, an aircraft shall not be considered as operated on
 For purposes of this section, the term "jet aircraft" shall not include any aircraft which is a rotorcraft or propeller aircraft.
 
 (Added Pub. L. 91–258, title II, §205(a)(1), May 21, 1970, 84 Stat. 241; amended Pub. L. 97–248, title II, §280(c)(2)(B), Sept. 3, 1982, 96 Stat. 564; Pub. L. 109–59, title XI, §11124(a), Aug. 10, 2005, 119 Stat. 1952; Pub. L. 112–95, title XI, §1107(a), Feb. 14, 2012, 126 Stat. 154; Pub. L. 113–295, div. A, title II, §204(a), Dec. 19, 2014, 128 Stat. 4025.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -31,6 +33,8 @@ A prior section 4281, act Aug. 16, 1954, ch. 736, 68A Stat. 508, related to tax 
 <b>2005</b>—Pub. L. 109–59 inserted at end "For purposes of this section, an aircraft shall not be considered as operated on an established line at any time during which such aircraft is being operated on a flight the sole purpose of which is sightseeing."
 
 <b>1982</b>—Pub. L. 97–248 struck out "(as defined in section 4492(b))" after "certificated takeoff weight", and inserted provision defining "maximum certificated takeoff weight".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

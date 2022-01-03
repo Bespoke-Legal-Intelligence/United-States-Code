@@ -12,9 +12,13 @@ As used in this subchapter:
 
 (Pub. L. 89–73, title VII, §761, as added Pub. L. 102–375, title VII, §707, Sept. 30, 1992, 106 Stat. 1291; amended Pub. L. 106–501, title VIII, §801(e)(4), Nov. 13, 2000, 114 Stat. 2293.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Par. (2). Pub. L. 106–501 substituted "part A" for "subpart II, III, IV, or V of this subchapter".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

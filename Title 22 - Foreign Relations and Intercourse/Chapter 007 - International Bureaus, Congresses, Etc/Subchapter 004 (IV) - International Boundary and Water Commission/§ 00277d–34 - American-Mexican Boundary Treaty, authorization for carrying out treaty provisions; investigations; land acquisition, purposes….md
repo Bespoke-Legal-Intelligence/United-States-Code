@@ -1,6 +1,6 @@
 ### §277d–34. American-Mexican Boundary Treaty, authorization for carrying out treaty provisions; investigations; land acquisition, purposes; damages, repair or compensation
 
-In connection with the treaty between the United States of America and the United Mexican States to resolve pending boundary differences and maintain the Rio Grande and the Colorado River as the international boundary between the United States of America and the United Mexican States, signed November 23, 1970, (hereafter in this Act referred to as the "treaty"), the Secretary of State, acting through the United States Commissioner, International Boundary and Water Commission, United States, and Mexico (hereafter in this Act referred to as the "Commissioner"), is authorized—
+In connection with the treaty between the United States of America and the United Mexican States to resolve pending boundary differences and maintain the Rio Grande and the Colorado River as the international boundary between the United States of America and the United Mexican States, signed November 23, 1970, (hereafter in this Act referred to as the"treaty"), the Secretary of State, acting through the United States Commissioner, International Boundary and Water Commission, United States, and Mexico (hereafter in this Act referred to as the "Commissioner"), is authorized—
 
 &emsp;(1) to conduct technical and other investigations relating to—
 
@@ -20,7 +20,7 @@ In connection with the treaty between the United States of America and the Unite
 
 &emsp;&emsp;(C) to preserve the Rio Grande and the Colorado River as the boundary by preventing the construction of works which may cause deflection or obstruction of the normal flow of the rivers or of their floodflows; and
 
-&emsp;&emsp;(D) for relocation of any structure or facility, public or private, the relocation ofwhich, in the judgment of the Commissioner, is necessitated by the project; and
+&emsp;&emsp;(D) for relocation of any structure or facility, public or private, the relocation of which, in the judgment of the Commissioner, is necessitated by the project; and
 
 &emsp;(3) to remove, modify, or repair the damages caused to Mexico by works constructed in the United States which the International Boundary and Water Commission, United States and Mexico, as determined have an adverse effect on Mexico, or to compensate Mexico for such damages.
 

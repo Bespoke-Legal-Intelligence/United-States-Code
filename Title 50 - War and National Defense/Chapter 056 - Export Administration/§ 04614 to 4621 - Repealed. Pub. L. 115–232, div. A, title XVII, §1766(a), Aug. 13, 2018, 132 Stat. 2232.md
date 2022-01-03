@@ -6,7 +6,7 @@ Section 4615, Pub. L. 96–72, §13, Sept. 29, 1979, 93 Stat. 531; Pub. L. 99–
 
 Section 4616, Pub. L. 96–72, §14, Sept. 29, 1979, 93 Stat. 532; Pub. L. 99–64, title I, §115, July 12, 1985, 99 Stat. 152; Pub. L. 100–418, title II, §§2418(c), 2445, Aug. 23, 1988, 102 Stat. 1357, 1369, related to annual report on the administration of this chapter. See section 4824 of this title.
 
-Section 4617, Pub. L. 96–72, §15, Sept. 29, 1979, 93 Stat. 533; Pub. L. 99–64, title I, §116(a), July 12, 1985, 99 Stat. 152; Pub. L. 100–418, title II, §§2420(b), 2429, Aug. 23, 1988, 102 Stat. 1358, 1362, related to appointment of UnderSecretary of Commerce for Export Administration and issuance of regulations.
+Section 4617, Pub. L. 96–72, §15, Sept. 29, 1979, 93 Stat. 533; Pub. L. 99–64, title I, §116(a), July 12, 1985, 99 Stat. 152; Pub. L. 100–418, title II, §§2420(b), 2429, Aug. 23, 1988, 102 Stat. 1358, 1362, related to appointment of Under Secretary of Commerce for Export Administration and issuance of regulations.
 
 Section 4618, Pub. L. 96–72, §16, Sept. 29, 1979, 93 Stat. 533; Pub. L. 99–64, title I, §117, July 12, 1985, 99 Stat. 153, defined terms as used in this chapter. See section 4801 of this title.
 
@@ -24,7 +24,9 @@ Section 2411, Pub. L. 91–184, §12, Dec. 30, 1969, 83 Stat. 846, related to th
 
 Section 2412, Pub. L. 91–184, §14, formerly §13, Dec. 30, 1969, 83 Stat. 847; renumbered §14, Pub. L. 95–52, title I, §102, June 22, 1977, 91 Stat. 235, set forth the effective date of the Export Administration Act of 1969.
 
-Section 2413, Pub. L. 91–184, §15, formerly §14, Dec. 30, 1969, 83 Stat. 847; Pub. L. 92–37, June 30, 1971, 85 Stat. 89; Pub. L. 92–150, Oct. 30, 1971, 85 Stat. 416; Pub. L. 92–284, Apr. 29, 1972, 86 Stat. 133; Pub. L. 92–412, title I, §106, Aug. 29, 1972, 86 Stat. 646; Pub. L. 93–327, June 30, 1974, 88 Stat. 287; Pub. L. 93–372, Aug. 14, 1974, 88 Stat. 444; Pub. L. 93–500, §13, Oct. 29, 1974, 88 Stat. 1557; renumbered §15 and amended Pub. L. 95–52, title I, §§101, 102, June 22, 1977, 91 Stat. 235, provided for the termination of authority granted by the Export Administration Act of 1969.
+Section 2413, Pub. L. 91–184, §15, formerly §14, Dec. 30, 1969, 83 Stat. 847; Pub. L. 92–37, June 30, 1971, 85 Stat. 89;Pub. L. 92–150, Oct. 30, 1971, 85 Stat. 416; Pub. L. 92–284, Apr. 29, 1972, 86 Stat. 133; Pub. L. 92–412, title I, §106, Aug. 29, 1972, 86 Stat. 646; Pub. L. 93–327, June 30, 1974, 88 Stat. 287; Pub. L. 93–372, Aug. 14, 1974, 88 Stat. 444; Pub. L. 93–500, §13, Oct. 29, 1974, 88 Stat. 1557; renumbered §15 and amended Pub. L. 95–52, title I, §§101, 102, June 22, 1977, 91 Stat. 235, provided for the termination of authority granted by the Export Administration Act of 1969.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Application of Certain Provisions of Export Administration Act of 1979
 

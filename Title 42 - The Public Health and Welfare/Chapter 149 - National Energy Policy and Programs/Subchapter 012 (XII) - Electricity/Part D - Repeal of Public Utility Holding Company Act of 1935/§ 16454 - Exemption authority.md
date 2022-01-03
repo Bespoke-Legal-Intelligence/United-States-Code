@@ -20,9 +20,11 @@ The Commission shall exempt a person or transaction from the requirements of sec
 
 (Pub. L. 109–58, title XII, §1266, Aug. 8, 2005, 119 Stat. 975.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For the effective date of this part, referred to in subsec. (a), see Effective Date note set out under section 16451 of this title.
 
-The Public Utility Regulatory Policies Act of 1978, referred to in subsec. (a)(1), is Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3117, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 16, Conservation, and Tables.
+The Public Utility Regulatory Policies Act of 1978, referred to in subsec. (a)(1), is Pub. L. 95–617, Nov. 9,1978, 92 Stat. 3117. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 16, Conservation, and Tables.
 

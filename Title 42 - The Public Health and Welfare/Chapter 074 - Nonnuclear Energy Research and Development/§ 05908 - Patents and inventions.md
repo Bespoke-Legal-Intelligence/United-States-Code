@@ -4,7 +4,7 @@
 
 Whenever any invention is made or conceived in the course of or under any contract of the Department, other than nuclear energy research, development, and demonstration pursuant to the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.) and the Secretary determines that—
 
-&emsp;(1) the person who made the invention was employed or assigned to perform research, development, or demonstration work and the invention is related to the work he was employed or assigned to perform, or that it was within the scope of his employment duties, whether or not it was made during working hours, or with a contribution by the Government of the use of Government facilities, equipment, materials, allocated funds, information proprietary to the Government, orservices of Government employees during working hours; or
+&emsp;(1) the person who made the invention was employed or assigned to perform research, development, or demonstration work and the invention is related to the work he was employed or assigned to perform, or that it was within the scope of his employment duties, whether or not it was made during working hours, or with a contribution by the Government of the use of Government facilities, equipment, materials, allocated funds, information proprietary to the Government, or services of Government employees during working hours; or
 
 &emsp;(2) the person who made the invention was not employed or assigned to perform research, development, or demonstration work, but the invention is nevertheless related to the contract or to the work or duties he was employed or assigned to perform, and was made during working hours, or with a contribution from the Government of the sort referred to in clause (1).<sup>1</sup>
 
@@ -66,7 +66,7 @@ Whenever title to an invention is vested in the United States, there may be rese
 
 &emsp;(1) a revocable or irrevocable nonexclusive, paid-up license for the practice of the invention throughout the world; and
 
-&emsp;(2) the rights to such invention in any foreign country where the United States has elected not to secure patent rights and thecontractor elects to do so, subject to the rights set forth in paragraphs (2), (3), (6), and (7) of subsection (h): <i>Provided</i>, That when specifically requested by the Department and three years after issuance of such a patent, the contractor shall submit the report specified in subsection (h)(1) of this section.
+&emsp;(2) the rights to such invention in any foreign country where the United States has elected not to secure patent rights and the contractor elects to do so, subject to the rights set forth in paragraphs (2), (3), (6), and (7) of subsection (h): <i>Provided</i>, That when specifically requested by the Department and three years after issuance of such a patent, the contractor shall submit the report specified in subsection (h)(1) of this section.
 
 #### (g) to (i) Repealed. Pub. L. 96–517, §7(c), Dec. 12, 1980, 94 Stat. 3027
 
@@ -101,6 +101,8 @@ As used in this section—
 Within twelve months after December 31, 1974, the Secretary with the participation of the Attorney General, the Secretary of Commerce, and other officials as the President may designate, shall submit to the President and the appropriate congressional committees a report concerning the applicability of existing patent policies affecting the programs under this chapter, along with his recommendations for amendments or additions to the statutory patent policy, including his recommendations on mandatory licensing, which he deems advisable for carrying out the purposes of this chapter.
 
 (Pub. L. 93–577, §9, Dec. 31, 1974, 88 Stat. 1887; Pub. L. 96–517, §7(c), Dec. 12, 1980, 94 Stat. 3027; Pub. L. 109–58, title X, §1009(b)(7), Aug. 8, 2005, 119 Stat. 935.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -140,9 +142,11 @@ Subsec. (h). Pub. L. 96–517 struck out subsec. (h) which related to required t
 
 Subsec. (i). Pub. L. 96–517 struck out subsec. (i) which related to publication in the Federal Register by the Administrator of waiver or license termination hearing requirements and availability of records.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–517 effective July 1, 1981, but implementing regulations authorized to be issued earlier, see section 8(f) of Pub. L. 96–517, set out as a note under section 41 of Title 35, Patents.
+Amendment by Pub. L. 96–517 effective July 1, 1981, but implementing regulations authorized to be issuedearlier, see section 8(f) of Pub. L. 96–517, set out as a note under section 41 of Title 35, Patents.
 
 <i><sup>1</sup></i><i> So in original. Probably should be a comma.</i>
 

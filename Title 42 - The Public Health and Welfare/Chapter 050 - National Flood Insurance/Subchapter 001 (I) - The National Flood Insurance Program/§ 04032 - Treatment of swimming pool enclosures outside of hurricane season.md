@@ -10,7 +10,7 @@ Notwithstanding any other provision of law, including the adequate land use and 
 
 #### (b) Rule of construction
 
-Nothing in subsection (a) shall be construed to alter the terms and conditions of eligibility and insurability of coverage for a building under the standard flood insurance policy under the national flood insurance program.
+Nothing in subsection (a) shall be construed to alter the terms and conditions of eligibility andinsurability of coverage for a building under the standard flood insurance policy under the national flood insurance program.
 
 (Pub. L. 90–448, title XIII, §1325, as added Pub. L. 112–141, div. F, title II, §100242, July 6, 2012, 126 Stat. 962.)
 

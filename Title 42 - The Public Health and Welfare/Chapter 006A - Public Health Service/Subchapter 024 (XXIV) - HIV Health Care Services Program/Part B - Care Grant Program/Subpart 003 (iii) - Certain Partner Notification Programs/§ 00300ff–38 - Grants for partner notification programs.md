@@ -46,17 +46,21 @@ In making grants under subsection (a), the Secretary shall give preference to St
 
 For the purpose of carrying out this section, there is authorized to be appropriated $10,000,000 for each of the fiscal years 2007 through 2009.
 
-(July 1, 1944, ch. 373, title XXVI, §2631, as added Pub. L. 106–345, title II, §221, Oct. 20, 2000, 114Stat. 1343; amended Pub. L. 109–415, title II, §210, title VII, §§702(3), 703, Dec. 19, 2006, 120 Stat. 2803, 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
+(July 1, 1944, ch. 373, title XXVI, §2631, as added Pub. L. 106–345, title II, §221, Oct. 20, 2000, 114 Stat. 1343; amended Pub. L. 109–415, title II, §210, title VII, §§702(3), 703, Dec. 19, 2006, 120 Stat. 2803, 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
-<b>2009</b>—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+<b>2009</b>—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect onSept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
 <b>2006</b>—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
 
 Subsecs. (b), (c). Pub. L. 109–415, §702(3), substituted "HIV/AIDS" for "HIV disease" wherever appearing.
 
 Subsec. (d). Pub. L. 109–415, §210, substituted "there is authorized to be appropriated $10,000,000 for each of the fiscal years 2007 through 2009." for "there are authorized to be appropriated $30,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 through 2005."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment; Revival of Section
 

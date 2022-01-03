@@ -58,7 +58,7 @@ Not later than August 1, 1994, the Secretary shall, in consultation with the app
 
 &emsp;(A) population estimates and the population status and trends of such stocks;
 
-&emsp;(B) uncertainties and research needed regarding stock separation, abundance, or trends, and factors affecting the distribution, size, or productivity of the stock;
+&emsp;(B) uncertainties and research needed regarding stock separation, abundance, ortrends, and factors affecting the distribution, size, or productivity of the stock;
 
 &emsp;(C) uncertainties and research needed regarding the species, number, ages, gender, and reproductive status of marine mammals;
 
@@ -79,6 +79,8 @@ Not later than August 1, 1994, the Secretary shall, in consultation with the app
 This section shall not affect or otherwise modify the provisions of section 1371(b) of this title.
 
 (Pub. L. 92–522, title I, §117, as added Pub. L. 103–238, §10, Apr. 30, 1994, 108 Stat. 543.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

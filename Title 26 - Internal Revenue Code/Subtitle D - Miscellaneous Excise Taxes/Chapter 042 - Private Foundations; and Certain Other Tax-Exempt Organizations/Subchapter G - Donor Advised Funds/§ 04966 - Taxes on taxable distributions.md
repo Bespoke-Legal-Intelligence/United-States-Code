@@ -8,7 +8,7 @@
 
 #### (2) On the fund management
 
-&emsp;There is hereby imposed on the agreement of any fund manager to the making of a distribution, knowing that it is a taxable distribution, a tax equal to 5 percent of the amount thereof. The tax imposed by this paragraph shall be paid by any fund manager who agreed to the making of the distribution.
+&emsp;There is hereby imposed on the agreement of any fund manager to the making of a distribution, knowing that it is a taxable distribution, a tax equal to 5 percent of the amount thereof.The tax imposed by this paragraph shall be paid by any fund manager who agreed to the making of the distribution.
 
 #### (b) Special rules
 
@@ -131,6 +131,8 @@ For purposes of this subchapter—
 &emsp;&emsp;An organization is described in this subparagraph if the organization is a functionally integrated type III supporting organization (as defined under section 4943(f)(5)(B)).
 
 (Added Pub. L. 109–280, title XII, §1231(a), Aug. 17, 2006, 120 Stat. 1095.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

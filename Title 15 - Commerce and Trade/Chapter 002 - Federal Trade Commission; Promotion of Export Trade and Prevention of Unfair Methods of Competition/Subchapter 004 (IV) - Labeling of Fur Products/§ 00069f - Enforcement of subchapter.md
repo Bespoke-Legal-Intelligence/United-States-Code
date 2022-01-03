@@ -4,7 +4,7 @@
 
 (1) Except as otherwise specifically provided in this subchapter, sections 69a, 69d, and 69h(b) of this title shall be enforced by the Federal Trade Commission under rules, regulations, and procedure provided for in the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\].
 
-(2) The Commission is authorized and directed to prevent any person from violating the provisions of sections 69a, 69d, and 69h(b) of this title in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] were incorporated into and made a part of this subchapter; and any such person violating any provision of section 69a, 69d, or 69h(b) of this title shall be subject to the penalties and entitled to the privileges and immunities provided in said Federal Trade Commission Act as though the applicable terms and provisions of the said Act were incorporated into and made a part of this subchapter.
+(2) The Commission is authorized and directed to prevent any person from violating the provisions of sections 69a, 69d, and 69h(b) of this title in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] were incorporated into and made a part of this subchapter; and any such person violating any provision of section 69a, 69d, or 69h(b)of this title shall be subject to the penalties and entitled to the privileges and immunities provided in said Federal Trade Commission Act as though the applicable terms and provisions of the said Act were incorporated into and made a part of this subchapter.
 
 #### (b) Rules and regulations for disclosure of information
 
@@ -22,9 +22,13 @@ The Commission is authorized (1) to cause inspections, analyses, tests, and exam
 
 (Aug. 8, 1951, ch. 298, §8, 65 Stat. 179.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Trade Commission Act, referred to in subsec. (a), is defined in section 69 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

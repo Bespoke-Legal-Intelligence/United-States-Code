@@ -14,6 +14,7 @@ Part P—Additional Programs
 - [&sect; 00280g&#8211;6 - Chronic kidney disease initiatives](%C2%A7%2000280g%E2%80%936%20-%20Chronic%20kidney%20disease%20initiatives.md)
 - [&sect; 00280g&#8211;7 - Amyotrophic lateral sclerosis registry](%C2%A7%2000280g%E2%80%937%20-%20Amyotrophic%20lateral%20sclerosis%20registry.md)
 - [&sect; 00280g&#8211;7a - Surveillance of neurological diseases](%C2%A7%2000280g%E2%80%937a%20-%20Surveillance%20of%20neurological%20diseases.md)
+- [&sect; 00280g&#8211;7b - HHS public-private partnership for rare neurodegenerative diseases](%C2%A7%2000280g%E2%80%937b%20-%20HHS%20public-private%20partnership%20for%20rare%20neurodegenerative%20diseases.md)
 - [&sect; 00280g&#8211;8 - Support for patients receiving a positive diagnosis of Down syndrome or other prenatally or postnatally diagnosed conditions](%C2%A7%2000280g%E2%80%938%20-%20Support%20for%20patients%20receiving%20a%20positive%20diagnosis%20of%20Down%20syndrome%20or%20other%20prenatally%20or%20postnatally%20diagnosed%20conditions.md)
 - [&sect; 00280g&#8211;9 - Programs to improve quality of life for persons with paralysis and other physical disabilities](%C2%A7%2000280g%E2%80%939%20-%20Programs%20to%20improve%20quality%20of%20life%20for%20persons%20with%20paralysis%20and%20other%20physical%20disabilities.md)
 - [&sect; 00280g&#8211;10 - Community Preventive Services Task Force](%C2%A7%2000280g%E2%80%9310%20-%20Community%20Preventive%20Services%20Task%20Force.md)

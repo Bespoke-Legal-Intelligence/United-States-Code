@@ -48,6 +48,8 @@ Notwithstanding any other provision of law, in determining the reimbursement due
 
 (July 10, 1954, ch. 469, title IV, §412, as added Pub. L. 94–161, title II, §212, Dec. 20, 1975, 89 Stat. 855; amended Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3655; Pub. L. 104–127, title II, §220, Apr. 4, 1996, 110 Stat. 958; Pub. L. 106–387, §1(a) \[title VII, §768\], Oct. 28, 2000, 114 Stat. 1549, 1549A–45; Pub. L. 110–246, title III, §§3020, 3021, June 18, 2008, 122 Stat. 1829; Pub. L. 113–79, title III, §3012, Feb. 7, 2014, 128 Stat. 777; Pub. L. 115–334, title III, §3114, Dec. 20, 2018, 132 Stat. 4607.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Foreign Assistance Act of 1961, referred to in subsec. (e)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Part I of the Act is classified generally to subchapter I (§2151 et seq.) of chapter 32 of Title 22, Foreign Relations and Intercourse. For provisions deeming references to subchapter I to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of chapter 32, see section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of Title 22, and sections 2348c and 2349aa–5 of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
@@ -74,6 +76,8 @@ Subsecs. (c) to (e). Pub. L. 104–127, §220, redesignated subsecs. (d) and (e)
 
 <b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions authorizing President to seek agreement for international food reserve, with costs to be shared equitably among nations, and with safeguards against price disruptions.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
 Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
@@ -84,7 +88,7 @@ Amendment by Pub. L. 101–624 effective Jan. 1, 1991, see section 1513 of Pub. 
 
 #### Availability of Funds
 
-Pub. L. 109–97, title VII, §722, Nov. 10, 2005, 119 Stat. 2152, as amended by Pub. L. 110–246, title III, §3001(c), June 18, 2008, 122 Stat. 1821, provided that: "Hereafter, notwithstanding section 412 of the Food for Peace Act (7 U.S.C. 1736f), any balances available to carry out title III of such Act \[7 U.S.C. 1727 et seq.\] as of the date of enactment of this Act \[Nov. 10, 2005\], and any recoveries and reimbursements that become available to carry out title III of such Act, may be used to carry out title II of such Act \[7 U.S.C. 1721 et seq.\]."
+Pub. L. 109–97, title VII, §722, Nov. 10, 2005, 119 Stat. 2152, as amended by Pub. L. 110–246, title III, §3001(c),June 18, 2008, 122 Stat. 1821, provided that: "Hereafter, notwithstanding section 412 of the Food for Peace Act (7 U.S.C. 1736f), any balances available to carry out title III of such Act \[7 U.S.C. 1727 et seq.\] as of the date of enactment of this Act \[Nov. 10, 2005\], and any recoveries and reimbursements that become available to carry out title III of such Act, may be used to carry out title II of such Act \[7 U.S.C. 1721 et seq.\]."
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -95,6 +99,8 @@ Pub. L. 108–199, div. A, title VII, §724, Jan. 23, 2004, 118 Stat. 34.
 Pub. L. 108–7, div. A, title VII, §727, Feb. 20, 2003, 117 Stat. 42.
 
 Pub. L. 107–76, title VII, §730, Nov. 28, 2001, 115 Stat. 736.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

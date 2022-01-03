@@ -90,7 +90,7 @@ In general.—On the date that is 90 days after the date on which an authorizati
 
 &emsp;&emsp;"(B)
 
-Additional review.—If an authorization is extended under subparagraph (A), the chief judge ofthe district court (or, if the chief judge is unavailable, the most senior available active judge of the court or the chief judge or circuit justice of the circuit that includes the district court) to which the authorization applies shall review the extension of authority not less frequently than once every 90 days until the earlier of—
+Additional review.—If an authorization is extended under subparagraph (A), the chief judge of the district court (or, if the chief judge is unavailable, the most senior available active judge of the court or the chief judge or circuit justice of the circuit that includes the district court) to which the authorization applies shall review the extension of authority not less frequently than once every 90 days until the earlier of—
 
 &emsp;&emsp;&emsp;"(i) the date on which the chief judge (or other judge or justice) determines the authorization is no longer warranted; or
 

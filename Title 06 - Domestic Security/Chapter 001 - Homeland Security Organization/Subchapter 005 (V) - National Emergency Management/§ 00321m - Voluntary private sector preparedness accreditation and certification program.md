@@ -128,7 +128,7 @@
 
 #### (D) Disadvantaged business involvement
 
-&emsp;&emsp;In accrediting qualified third parties to carry out the certification process under this subsection, a selected entity shall ensure, to the extent practicable, that the third parties include qualified small, minority, women-owned, or disadvantaged business concerns when appropriate. The term "disadvantaged business concern" means a small business that is owned and controlled by socially and economically disadvantaged individuals, as defined in section 124 of title 13, United States Code of Federal Regulations.
+&emsp;&emsp;In accrediting qualified third parties to carry out the certification process underthis subsection, a selected entity shall ensure, to the extent practicable, that the third parties include qualified small, minority, women-owned, or disadvantaged business concerns when appropriate. The term "disadvantaged business concern" means a small business that is owned and controlled by socially and economically disadvantaged individuals, as defined in section 124 of title 13, United States Code of Federal Regulations.
 
 #### (E) Treatment of other certifications
 
@@ -172,7 +172,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The designated officer, in consultation with representatives of appropriate organizations that coordinate or facilitate the development and use of voluntary consensus standards, appropriate voluntary consensus standards development organizations, appropriate representatives of State and local governments, including emergency management officials, and each private sector advisory council created under section 112(f)(4) of this title, shall annually review the voluntary accreditation and certification program established under this subsection to ensure the effectiveness of such program (including the operations and management of such program by any selected entity and theselected entity's inclusion of qualified disadvantaged business concerns under paragraph (3)(D)) and make improvements and adjustments to the program as necessary and appropriate.
+&emsp;&emsp;The designated officer, in consultation with representatives of appropriate organizations that coordinate or facilitate the development and use of voluntary consensus standards, appropriate voluntary consensus standards development organizations, appropriate representatives of State and local governments, including emergency management officials, and each private sector advisory council created under section 112(f)(4) of this title, shall annually review the voluntary accreditation and certification program established under this subsection to ensure the effectiveness of such program (including the operations and management of such program by any selected entity and the selected entity's inclusion of qualified disadvantaged business concerns under paragraph (3)(D)) and make improvements and adjustments to the program as necessary and appropriate.
 
 #### (B) Review of standards
 

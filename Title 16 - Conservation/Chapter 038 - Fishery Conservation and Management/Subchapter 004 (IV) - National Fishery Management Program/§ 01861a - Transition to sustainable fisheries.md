@@ -32,9 +32,9 @@
 
 (2) The objective of the program shall be to obtain the maximum sustained reduction in fishing capacity at the least cost and in a minimum period of time. To achieve that objective, the Secretary is authorized to pay—
 
-&emsp;(A) the owner of a fishing vessel, if the permit authorizing the participation of the vessel in the fishery is surrendered for permanent revocation and the vessel owner and permit holder relinquish any claim associated with the vessel or permit that could qualify such owner or holder for any present or future limited access system permit in the fishery forwhich the program is established or in any other fishery and such vessel is (i) scrapped, or (ii) through the Secretary of the department in which the Coast Guard is operating, subjected to title restrictions (including loss of the vessel's fisheries endorsement) that permanently prohibit and effectively prevent its use in fishing in federal <sup>1</sup> or state <sup>1</sup> waters, or fishing on the high seas or in the waters of a foreign nation; or
+&emsp;(A) the owner of a fishing vessel, if the permit authorizing the participation of the vessel in the fishery is surrendered for permanent revocation and the vessel owner and permit holder relinquish any claim associated with the vessel or permit that could qualify such owner or holder for any present or future limited access system permit in the fishery for which the program is established or in any other fishery and such vessel is (i) scrapped, or (ii) through the Secretary of the department in which the Coast Guard is operating, subjected to title restrictions (including loss of the vessel's fisheries endorsement) that permanently prohibit and effectively prevent its use in fishing in federal <sup>1</sup> or state <sup>1</sup> waters, or fishing on the high seas or in the waters of a foreign nation; or
 
-&emsp;(B) the holder of a permit authorizing participation in the fishery, if such permit is surrendered for permanent revocation, and such holder relinquishes any claim associated with the permit and vessel used to harvest fishery resources under the permit that could qualify such holder for any present or future limited access system permit in the fishery for which the program was established.
+&emsp;(B) the holder of a permit authorizing participation in the fishery, if such permit is surrendered for permanent revocation, and such holder relinquishes any claim associated withthe permit and vessel used to harvest fishery resources under the permit that could qualify such holder for any present or future limited access system permit in the fishery for which the program was established.
 
 (3) Participation in the program shall be voluntary, but the Secretary shall ensure compliance by all who do participate.
 
@@ -146,6 +146,8 @@ Basis for recommendations.—The Secretary shall base the recommendations made w
 
 (Pub. L. 94–265, title III, §312, as added Pub. L. 104–297, title I, §116(a), Oct. 11, 1996, 110 Stat. 3600; amended Pub. L. 109–479, title I, §112(a), Jan. 12, 2007, 120 Stat. 3598.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 In subsecs. (b)(1)(C), (c)(1)(C), (2), and (d)(2), "section 53735 of title 46" substituted for "section 1111 of title XI of the Merchant Marine Act, 1936" on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 53735 of Title 46, Shipping.
@@ -174,15 +176,17 @@ Subsec. (b)(5), (6). Pub. L. 109–479, §112(a)(8), added pars. (5) and (6).
 
 Subsec. (d)(1)(A). Pub. L. 109–479, §112(a)(9), (10), in introductory provisions, substituted "Secretary" for "Secretary, at the request of the appropriate Council," before "may conduct" and "Secretary" for "Secretary, in consultation with the Council," before "shall—".
 
-Subsec. (d)(1)(B). Pub. L. 109–479, §112(a)(11), substituted "at least a majority of the permit holders inthe fishery, or 50 percent of the permitted allocation of the fishery, who participated in the fishery." for "a two-thirds majority of the participants voting."
+Subsec. (d)(1)(B). Pub. L. 109–479, §112(a)(11), substituted "at least a majority of the permit holders in the fishery, or 50 percent of the permitted allocation of the fishery, who participated in the fishery." for "a two-thirds majority of the participants voting."
 
 Subsec. (d)(2)(C). Pub. L. 109–479, §112(a)(12), substituted "establish, unless the Secretary determines that such fees should be collected from the seller;" for "establish;".
 
 Subsec. (e). Pub. L. 109–479, §112(a)(13), added subsec. (e) and struck out former subsec. (e) which related to implementation plan.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Pub. L. 109–479, title I, §112(b), Jan. 12, 2007, 120 Stat. 3601, provided that: "Sections 116, 203, 204, 205, and 206 of the Sustainable Fisheries Act \[Pub. L. 104–297, see Tables for classification\] are deemed to have added sections 312, 402, 403, 404, and 405 \[16 U.S.C. 1861a, 1881a to 1881d\], respectively to the Act \[Pub. L. 94–265\] as of the date of enactment of the Sustainable Fisheries Act \[Oct. 11, 1996\]."
+Pub. L. 109–479, title I, §112(b), Jan. 12, 2007, 120 Stat. 3601, provided that: "Sections 116, 203, 204, 205, and 206of the Sustainable Fisheries Act \[Pub. L. 104–297, see Tables for classification\] are deemed to have added sections 312, 402, 403, 404, and 405 \[16 U.S.C. 1861a, 1881a to 1881d\], respectively to the Act \[Pub. L. 94–265\] as of the date of enactment of the Sustainable Fisheries Act \[Oct. 11, 1996\]."
 
 #### Study of Federal Investment in Fisheries
 

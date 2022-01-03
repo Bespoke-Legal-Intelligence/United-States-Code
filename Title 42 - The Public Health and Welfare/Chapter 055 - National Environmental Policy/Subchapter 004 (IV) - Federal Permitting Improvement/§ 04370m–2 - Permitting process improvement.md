@@ -26,11 +26,19 @@
 
 &emsp;&emsp;&emsp;(v) an assessment that the proposed project meets the definition of a covered project under section 4370m of this title and a statement of reasons supporting the assessment.
 
+#### (D) Confidentiality
+
+&emsp;&emsp;Any information relating to Native American natural, cultural, and historical resources submitted in a notice by a project sponsor under subparagraph (A) shall be—
+
+&emsp;&emsp;&emsp;(i) kept confidential; and
+
+&emsp;&emsp;&emsp;(ii) exempt from the disclosure requirements under section 552 of title 5 (commonly known as the "Freedom of Information Act") and the Federal Advisory Committee Act (5 U.S.C. App.).
+
 #### (2) Invitation
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 45 days after the date on which the Executive Director must make a specific entry for the project on the Dashboard under subsection (b)(2)(A), the facilitating agency or lead agency, as applicable, shall—
+&emsp;&emsp;Not later than 21 calendar days after the date on which the Executive Director must make a specific entry for the project on the Dashboard under subsection (b)(2)(A), the facilitating agency or lead agency, as applicable, shall—
 
 &emsp;&emsp;&emsp;(i) identify all Federal and non-Federal agencies and governmental entities likely to have financing, environmental review, authorization, or other responsibilities with respect to the proposed project; and
 
@@ -38,13 +46,13 @@
 
 #### (B) Deadlines
 
-&emsp;&emsp;Each invitation made under subparagraph (A) shall include a deadline for a response to be submitted to the facilitating or lead agency, as applicable.
+&emsp;&emsp;Each invitation made under subparagraph (A) shall include a 14 calendar day deadline for a response to be submitted to the facilitating or lead agency, as applicable.
 
 #### (3) Participating and cooperating agencies
 
 #### (A) In general
 
-&emsp;&emsp;An agency invited under paragraph (2) shall be designated as a participating or cooperating agency for a covered project, unless the agency informs the facilitating or lead agency, as applicable, in writing before the deadline under paragraph (2)(B) that the agency—
+&emsp;&emsp;An agency invited under paragraph (2) shall be designated as a participating or cooperating agency for a covered project, unless the agency informs the facilitating or lead agency, as applicable, and the Executive Director in writing before the deadline under paragraph (2)(B) that the agency—
 
 &emsp;&emsp;&emsp;(i) has no jurisdiction or authority with respect to the proposed project; or
 
@@ -66,7 +74,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;On establishment of the lead agency, the lead agency shall assume the responsibilities of the facilitating agency under this subchapter.
+&emsp;&emsp;On establishment of the lead agency, the lead agency shall assume the responsibilitiesof the facilitating agency under this subchapter.
 
 #### (B) Redesignation of facilitating agency
 
@@ -106,6 +114,24 @@
 
 &emsp;&emsp;&emsp;Not later than 14 days after the date on which the Executive Director receives a notice under subsection (a)(1), the Executive Director shall create a specific entry on the Dashboard for the covered project, unless the Executive Director, facilitating agency, or lead agency, as applicable, determines that the project is not a covered project.
 
+#### (iii) Projects other than covered projects
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;The Executive Director may direct a lead agency to create a specific entry on the Dashboard for a project that is not a covered project and is under review by the lead agency if the Executive Director determines that a Dashboard entry for that project is in the interest of transparency.
+
+#### (II) Requirements
+
+&emsp;&emsp;&emsp;&emsp;Not later than 14 days after the date on which the Executive Director directs the lead agency to create a specific entry on the Dashboard for a project described in subclause (I), the lead agency shall create and maintain a specific entry on the Dashboard for the project that contains—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) a comprehensive permitting timetable, as described in subsection (c)(2)(A);
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the status of the compliance of each lead agency, cooperating agency, and participating agency with the permitting timetable required under item (aa);
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) any modifications of the permitting timetable required under item (aa), including an explanation as to why the permitting timetable was modified; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(dd) information about project-related public meetings, public hearings, and public comment periods, which shall be presented in English and the predominant language of the community or communities most affected by the project, as that information becomes available.
+
 #### (B) Explanation
 
 &emsp;&emsp;If the facilitating agency or lead agency, as applicable, determines that the project is not a covered project, the project sponsor may submit a further explanation as to why the project is a covered project not later than 14 days after the date of the determination under subparagraph (A).
@@ -134,11 +160,15 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) a description of any Federal agency action taken or decision made that materially affects the status of a covered project;
 
-&emsp;&emsp;&emsp;&emsp;(IV) any significant document that supports the action or decision described in subclause (III); and
+&emsp;&emsp;&emsp;&emsp;(IV) any significant document that supports the action or decision described in subclause (III);
 
-&emsp;&emsp;&emsp;&emsp;(V) a description of the status of any litigation to which the agency is a party that is directly related to the project, including, if practicable, any judicial document made available on an electronic docket maintained by a Federal, State, or local court; and
+&emsp;&emsp;&emsp;&emsp;(V) information on the status of mitigation measures that were agreed to as part of the environmental review and permitting process, including whether and when the mitigation measures have been fully implemented; and
 
-&emsp;&emsp;&emsp;(ii) any document described in clause (i) that is not available by hyperlink on another website.
+&emsp;&emsp;&emsp;&emsp;(VI) a description of the status of any litigation to which the agency is a party that is directly related to the project, including, if practicable, any judicial document made available on an electronic docket maintained by a Federal, State, or local court;
+
+&emsp;&emsp;&emsp;(ii) any document described in clause (i) that is not available by hyperlink on another website; and
+
+&emsp;&emsp;&emsp;(iii) information about project-related public meetings, public hearings, and public comment periods, which shall be presented in English and the predominant language of the community or communities most affected by the project, as that information becomes available.
 
 #### (B) Deadline
 
@@ -164,7 +194,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 60 days after the date on which the Executive Director must make aspecific entry for the project on the Dashboard under subsection (b)(2)(A), the facilitating or lead agency, as applicable, in consultation with each coordinating and participating agency, shall establish a concise plan for coordinating public and agency participation in, and completion of, any required Federal environmental review and authorization for the project.
+&emsp;&emsp;Not later than 60 days after the date on which the Executive Director must make a specific entry for the project on the Dashboard under subsection (b)(2)(A), the facilitating or lead agency, as applicable, in consultation with each coordinating and participating agency, shall establish a concise plan for coordinating public and agency participation in, and completion of, any required Federal environmental review and authorization for the project.
 
 #### (B) Required information
 
@@ -186,7 +216,7 @@
 
 #### (A) Establishment
 
-&emsp;&emsp;As part of the coordination project plan under paragraph (1), the facilitating or lead agency, as applicable, in consultation with each cooperating and participating agency, the project sponsor, and any State in which the project is located, and, subject to subparagraph (C), with the concurrence of each cooperating agency, shall establish a permitting timetable that includes intermediate and final completion dates for action by each participating agency on any Federal environmental review or authorization required for the project.
+&emsp;&emsp;As part of the coordinated project plan under paragraph (1), the facilitating or lead agency, as applicable, in consultation with each cooperating and participating agency, the project sponsor, and any State in which the project is located, and, subject to subparagraph (C), with the concurrence of each cooperating agency, shall establish a permitting timetable that includes intermediate and final completion dates for action by each participating agency on any Federal environmental review or authorization required for the project.
 
 #### (B) Factors for consideration
 
@@ -228,11 +258,13 @@
 
 &emsp;&emsp;&emsp;The facilitating or lead agency, as applicable, may modify a permitting timetable established under subparagraph (A) only if—
 
-&emsp;&emsp;&emsp;&emsp;(I) the facilitating or lead agency, as applicable, and the affected cooperating agencies, after consultation with the participating agencies and the project sponsor, agree to a different completion date;
+&emsp;&emsp;&emsp;&emsp;(I) the facilitating or lead agency, as applicable, consults with the Executive Director regarding the potential modification not less than 15 days before engaging in the consultation under subclause (II);
 
-&emsp;&emsp;&emsp;&emsp;(II) the facilitating agency or lead agency, as applicable, or the affected cooperating agency provides a written justification for the modification; and
+&emsp;&emsp;&emsp;&emsp;(II) the facilitating or lead agency, as applicable, and the affected cooperating agencies, after consultation with the participating agencies, the Executive Director, and the project sponsor, agree to a different completion date;
 
-&emsp;&emsp;&emsp;&emsp;(III) in the case of a modification that would necessitate an extension of a final completion date under a permitting timetable established under subparagraph (A) to a date more than 30 days after the final completion date originally established under subparagraph (A), the facilitating or lead agency submits a request to modify the permitting timetable to the Executive Director, who shall consult with the project sponsor and make a determination on the record, based on consideration of the relevant factors described under subparagraph (B), whether to grant the facilitating or lead agency, as applicable, authority to make such modification.
+&emsp;&emsp;&emsp;&emsp;(III) the facilitating agency or lead agency, as applicable, or the affected cooperating agency provides a written justification for the modification; and
+
+&emsp;&emsp;&emsp;&emsp;(IV) in the case of a modification that would necessitate an extension of a final completion date under a permitting timetable established under subparagraph (A) to a date more than 30 days after the final completion date originally established under subparagraph (A), the facilitating or lead agency submits a request to modify the permitting timetable to the Executive Director, who shall consult with the project sponsor and make a determination on the record, based on consideration of the relevant factors described under subparagraph (B), whether to grant the facilitating or lead agency, as applicable, authority to make such modification.
 
 #### (ii) Completion date
 
@@ -264,13 +296,13 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Each Federal agency shall conform to the completion dates set forth in the permitting timetable established under subparagraph (A), or with any completion date modified under subparagraph (D).
+&emsp;&emsp;&emsp;Each Federal agency shall conform to the intermediate and final completion dates set forth in the permitting timetable established under subparagraph (A), or with any intermediate or final completion date modified under subparagraph (D).
 
 #### (ii) Failure to conform
 
-&emsp;&emsp;&emsp;If a Federal agency fails to conform with a completion date for agency action on a covered project or is at significant risk of failing to conform with such a completion date, the agency shall—
+&emsp;&emsp;&emsp;If a Federal agency fails to conform with an intermediate or final completion date for agency action on a covered project or reasonably believes the agency will fail to conform with a completion date 30 days before such a completion date, the agency shall—
 
-&emsp;&emsp;&emsp;&emsp;(I) promptly submit to the Executive Director for publication on the Dashboard an explanation of the specific reasons for failing or significantly risking failing to conform to the completion date and a proposal for an alternative completion date;
+&emsp;&emsp;&emsp;&emsp;(I) promptly submit to the Executive Director for publication on the Dashboard an explanation of the specific reasons for failing or reasonably believing the agency will fail to conform to the completion date and a proposal for an alternative completion date;
 
 &emsp;&emsp;&emsp;&emsp;(II) in consultation with the facilitating or lead agency, as applicable, establish an alternative completion date; and
 
@@ -294,7 +326,7 @@
 
 #### (A) State authority
 
-&emsp;&emsp;If the Federal environmental review is being implemented within the boundaries of a State, the State, consistent with Statelaw, may choose to participate in the environmental review and authorization process under this subsection and to make subject to the process all State agencies that—
+&emsp;&emsp;If the Federal environmental review is being implemented within the boundaries of a State, the State, consistent with State law, may choose to participate in the environmental review and authorization process under this subsection and to make subject to the process all State agencies that—
 
 &emsp;&emsp;&emsp;(i) have jurisdiction over the covered project;
 
@@ -334,7 +366,7 @@ The facilitating or lead agency, as applicable, shall provide an expeditious pro
 
 #### (1) In general
 
-&emsp;A lead agency may designate a participating agency as a cooperating agency in accordance with part 1501 of title 40, Code of Federal Regulations (or successor regulations).
+&emsp;A lead agency may designate a participating agency as a cooperating agency in accordancewith part 1501 of title 40, Code of Federal Regulations (or successor regulations).
 
 #### (2) Effect on other designation
 
@@ -358,13 +390,45 @@ The facilitating or lead agency, as applicable, shall provide an expeditious pro
 
 &emsp;Inclusion on the Dashboard of information regarding projects subject to section 139 of title 23 or section 2348 of title 33 shall not subject those projects to any requirements of this subchapter.
 
-(Pub. L. 114–94, div. D, title XLI, §41003, Dec. 4, 2015, 129 Stat. 1747.)
+(Pub. L. 114–94, div. D, title XLI, §41003, Dec. 4, 2015, 129 Stat. 1747; Pub. L. 117–58, div. G, title VIII, §70801(c), Nov. 15, 2021, 135 Stat. 1289.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
+
+The Federal Advisory Committee Act, referred to in subsec. (a)(1)(D)(ii), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 NEPA, referred to in subsec. (f)(1)(B), means the National Environmental Policy Act of 1969, Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to this chapter. See section 4370m(16) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
 
 #### Codification
 
 Section was enacted as part of the Fixing America's Surface Transportation Act, also known as the FAST Act, and not as part of the National Environmental Policy Act of 1969 which comprises this chapter.
+
+#### Amendments
+
+<b>2021</b>—Subsec. (a)(1)(D). Pub. L. 117–58, §70801(c)(1)(A), added subpar. (D).
+
+Subsec. (a)(2)(A). Pub. L. 117–58, §70801(c)(1)(B)(i), substituted "21 calendar days" for "45 days" in introductory provisions.
+
+Subsec. (a)(2)(B). Pub. L. 117–58, §70801(c)(1)(B)(ii), inserted "14 calendar day" before "deadline".
+
+Subsec. (a)(3)(A). Pub. L. 117–58, §70801(c)(1)(C), inserted "and the Executive Director" after "as applicable," in introductory provisions.
+
+Subsec. (b)(2)(A)(iii). Pub. L. 117–58, §70801(c)(2)(A), added cl. (iii).
+
+Subsec. (b)(3)(A)(i)(V), (VI). Pub. L. 117–58, §70801(c)(2)(B)(i), added subcl. (V), redesignated former subcl. (V) as (VI), and struck out "and" at end of subcl. (VI).
+
+Subsec. (b)(3)(A)(iii). Pub. L. 117–58, §70801(c)(2)(B)(ii), (iii), added cl. (iii).
+
+Subsec. (c)(2)(A). Pub. L. 117–58, §70801(c)(3)(A), substituted "coordinated" for "coordination".
+
+Subsec. (c)(2)(D)(i). Pub. L. 117–58, §70801(c)(3)(B)(i), (ii), added subcl. (I) and redesignated former subcls. (I) to (III) as (II) to (IV), respectively.
+
+Subsec. (c)(2)(D)(i)(II). Pub. L. 117–58, §70801(c)(3)(B)(iii), inserted ", the Executive Director," after "participating agencies".
+
+Subsec. (c)(2)(F)(i). Pub. L. 117–58, §70801(c)(3)(C)(i), inserted "intermediate and final" before "completion dates" and "intermediate or final" before "completion date".
+
+Subsec. (c)(2)(F)(ii). Pub. L. 117–58, §70801(c)(3)(C)(ii)(I), substituted "an intermediate or final completion date for agency action on a covered project or reasonably believes the agency will fail to conform with a completion date 30 days before" for "a completion date for agency action on a covered project or is at significant risk of failing to conform with" in introductory provisions.
+
+Subsec. (c)(2)(F)(ii)(I). Pub. L. 117–58, §70801(c)(3)(C)(ii)(II), substituted "reasonably believing the agency will fail to conform" for "significantly risking failing to conform".
 

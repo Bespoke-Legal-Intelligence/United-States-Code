@@ -20,7 +20,7 @@ The Administrator shall—
 
 &emsp;(2) before promulgating any rules, regulations, or policies, and before establishing any programs under the authority of this chapter, provide, where practicable, a reasonable period in which State governments may provide written comments if such rules, regulations, policies, or programs substantially affect the authority or responsibility of such State governments;
 
-&emsp;(3) provide, in accordance with the provisions of this chapter, upon request, to State governments all relevant information he possesses concerning the status and impact of energy shortages, the extent and location of available supplies and shortages of crude oil, petroleum products, natural gas, and coal,within the distribution area serving that particular State government; and
+&emsp;(3) provide, in accordance with the provisions of this chapter, upon request, to State governments all relevant information he possesses concerning the status and impact of energy shortages, the extent and location of available supplies and shortages of crude oil, petroleum products, natural gas, and coal, within the distribution area serving that particular State government; and
 
 &emsp;(4) provide for a central clearinghouse for Federal agencies and State governments seeking energy information and assistance from the Federal Government.
 
@@ -37,6 +37,8 @@ Pursuant to his responsibility under this section, the Administrator shall—
 &emsp;(4) promote the promulgation of uniform criteria, procedures, and forms for grant or contract applications for energy proposals submitted by State governments.
 
 (Pub. L. 93–275, §20, May 7, 1974, 88 Stat. 111.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

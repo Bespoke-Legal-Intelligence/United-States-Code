@@ -148,7 +148,7 @@ The head of an agency may enter into a grant, contract, cooperative agreement, o
 
 #### (1) In general
 
-&emsp;Support for a prize competition under this section, including financial support for the design and administration of a prize competition or funds for a cash prize purse, may consist of Federal appropriated funds and funds provided by private sector for-profit and nonprofit entities. The head of an agency may request andaccept funds from other Federal agencies, State, United States territory, local, or tribal government agencies, private sector for-profit entities, and nonprofit entities, to be available to the extent provided by appropriations Acts, to support such prize competitions. The head of an agency may not give any special consideration to any agency or entity in return for a donation.
+&emsp;Support for a prize competition under this section, including financial support for the design and administration of a prize competition or funds for a cash prize purse, may consist of Federal appropriated funds and funds provided by private sector for-profit and nonprofit entities. The head of an agency may request and accept funds from other Federal agencies, State, United States territory, local, or tribal government agencies, private sector for-profit entities, and nonprofit entities, to be available to the extent provided by appropriations Acts, to support such prize competitions. The head of an agency may not give any special consideration to any agency or entity in return for a donation.
 
 #### (2) Availability of funds
 
@@ -158,7 +158,7 @@ The head of an agency may enter into a grant, contract, cooperative agreement, o
 
 #### (A) Announcement
 
-&emsp;&emsp;No prize competition may be announced under subsection (f) until all the funds needed to pay out the announced amount of the cash prize purse have been appropriated or committed in writing by a private or State, United States territory, local, or tribal government source.
+&emsp;&emsp;No prize competition may be announced under subsection (f) until all the funds needed to pay out the announced amount of the cash prize purse have been appropriated orcommitted in writing by a private or State, United States territory, local, or tribal government source.
 
 #### (B) Increase in amount
 
@@ -220,7 +220,7 @@ Not later than 180 days after January 6, 2017, the General Services Administrati
 
 #### (E) Resources
 
-&emsp;&emsp;A description of the resources, including personnel and funding, used in the executionof each prize competition together with a detailed description of the activities for which such resources were used and an accounting of how funding for execution was allocated among the accounts of the agency for recording as obligations and expenditures.
+&emsp;&emsp;A description of the resources, including personnel and funding, used in the execution of each prize competition together with a detailed description of the activities for which such resources were used and an accounting of how funding for execution was allocated among the accounts of the agency for recording as obligations and expenditures.
 
 #### (F) Results
 
@@ -232,9 +232,11 @@ Not later than 180 days after January 6, 2017, the General Services Administrati
 
 (Pub. L. 96–480, §24, as added Pub. L. 111–358, title I, §105(a), Jan. 4, 2011, 124 Stat. 3989; amended Pub. L. 114–329, title IV, §401(b), Jan. 6, 2017, 130 Stat. 3016.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (k)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (k)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770,which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 

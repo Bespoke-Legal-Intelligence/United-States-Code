@@ -148,6 +148,8 @@ If, at any time after the initiation of an investigation under this part, the ad
 
 (June 17, 1930, ch. 497, title VII, §732, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 162; amended Pub. L. 98–573, title VI, §609, Oct. 30, 1984, 98 Stat. 3030; Pub. L. 99–514, title XVIII, §1886(a)(2), Oct. 22, 1986, 100 Stat. 2921; Pub. L. 100–418, title I, §§1324(b)(1), 1326(d)(1), Aug. 23, 1988, 102 Stat. 1200, 1204; Pub. L. 103–465, title II, §§211(b), 212(a)(2), 233(a)(5)(P)–(R), (6)(A)(v)–(vii), (C), Dec. 8, 1994, 108 Stat. 4843, 4845, 4900, 4901; Pub. L. 104–295, §20(b)(4), (8), (9), Oct. 11, 1996, 110 Stat. 3527; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (a)(2)(B). Pub. L. 104–295, §20(b)(9), amended directory language of Pub. L. 103–465, §233(a)(6)(C). See 1994 Amendment note below.
@@ -188,13 +190,15 @@ Subsec. (e). Pub. L. 100–418, §1324(b)(1), added subsec. (e).
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–573 designated existing provisions as par. (1) and added par. (2).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 "Commissioner of U.S. Customs and Border Protection" substituted for "Commissioner of Customs" in two places in subsec. (e) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under section 211 of Title 6, Domestic Security.
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapterafter such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
 
 #### Effective Date of 1988 Amendment
 

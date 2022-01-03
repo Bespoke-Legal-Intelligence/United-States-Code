@@ -52,7 +52,7 @@
 
 &emsp;(ii) has been brought into the United States in violation of this subsection.
 
-(4) In the case of a person who has brought aliens into the United States in violation of thissubsection, the sentence otherwise provided for may be increased by up to 10 years if—
+(4) In the case of a person who has brought aliens into the United States in violation of this subsection, the sentence otherwise provided for may be increased by up to 10 years if—
 
 &emsp;(A) the offense was part of an ongoing commercial organization or enterprise;
 
@@ -122,7 +122,7 @@ Subsec. (a)(1)(B)(ii). Pub. L. 104–208, §203(b)(2)(B), substituted "(iv), or 
 
 Subsec. (a)(1)(B)(iii), (iv). Pub. L. 104–208, §203(b)(2)(C), (D), substituted "(iv), or (v)" for "or (iv)".
 
-Subsec. (a)(2). Pub. L. 104–208, §203(d), substituted "for each alien in respect to whom a violation of thisparagraph occurs" for "for each transaction constituting a violation of this paragraph, regardless of the number of aliens involved" in introductory provisions.
+Subsec. (a)(2). Pub. L. 104–208, §203(d), substituted "for each alien in respect to whom a violation of this paragraph occurs" for "for each transaction constituting a violation of this paragraph, regardless of the number of aliens involved" in introductory provisions.
 
 Subsec. (a)(2)(B). Pub. L. 104–208, §203(b)(3), in concluding provisions, substituted "be fined under title 18 and shall be imprisoned, in the case of a first or second violation of subparagraph (B)(iii), not more than 10 years, in the case of a first or second violation of subparagraph (B)(i) or (B)(ii), not less than 3 nor more than 10 years, and for any other violation, not less than 5 nor more than 15 years." for "be fined in accordance with title 18 or in the case of a violation of subparagraph (B)(ii), imprisoned not more than 10 years, or both; or in the case of a violation of subparagraph (B)(i) or (B)(iii), imprisoned not more than 5 years, or both.."
 
@@ -180,7 +180,7 @@ Pub. L. 106–185, §21, Apr. 25, 2000, 114 Stat. 225, provided that: "Except as
 
 Pub. L. 104–208, div. C, title II, §203(f), Sept. 30, 1996, 110 Stat. 3009–567, provided that: "This section \[amending this section and enacting provisions set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] and the amendments made by this section shall apply with respect to offenses occurring on or after the date of the enactment of this Act \[Sept. 30, 1996\]."
 
-Amendment by section 671(a)(1) of Pub. L. 104–208 effective as if included in the enactment of the ViolentCrime Control and Law Enforcement Act of 1994, Pub. L. 103–322, see section 671(a)(7) of Pub. L. 104–208, set out as a note under section 1101 of this title.
+Amendment by section 671(a)(1) of Pub. L. 104–208 effective as if included in the enactment of the Violent Crime Control and Law Enforcement Act of 1994, Pub. L. 103–322, see section 671(a)(7) of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
 #### Effective Date of 1988 Amendment
 

@@ -72,7 +72,7 @@ If the Director approves the offering of any product by an enterprise, the Direc
 
 #### (B) Director determination
 
-&emsp;&emsp;Not later than 15 days after the date of receipt of a notice under subparagraph (A), the Director shall determine whether such activity is a product subject to approval under this section. The Director shall, immediately upon so determining, notify the enterprise.
+&emsp;&emsp;Not later than 15 days after the date of receipt of a notice under subparagraph (A), theDirector shall determine whether such activity is a product subject to approval under this section. The Director shall, immediately upon so determining, notify the enterprise.
 
 #### (C) Failure to act
 

@@ -94,7 +94,7 @@ Subsec. (h). Pub. L. 104–208, §308(f)(2)(B), substituted "be admitted" for "e
 
 <b>1988</b>—Subsecs. (a) to (c). Pub. L. 100–525 made technical correction to Pub. L. 99–653, §5. See 1986 Amendment note below.
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–653, §5(a)(1), formerly §5(a)(a), as redesignated by Pub. L. 100–525, in cl. (1) substituted "specify the foreign state" for "specify the quota", "under such foreign state" for "under such quota", "special immigrant classification" for "special immigration classification", and struck out "one copy of" after "shall consist of".
+<b>1986</b>—Subsec. (a). Pub. L. 99–653, §5(a)(1), formerly §5(a)(a), as redesignated by Pub. L. 100–525, in cl. (1) substituted "specify the foreign state" for "specify the quota", "under such foreign state" for "under such quota", "special immigrant classification" for "specialimmigration classification", and struck out "one copy of" after "shall consist of".
 
 Subsec. (b). Pub. L. 99–653, §5(a)(2), formerly §5(a)(b), as redesignated by Pub. L. 100–525, amended subsec. (b) generally, striking out "and fingerprinted" after "shall be registered" and substituting "sections 1101(a)(15)(A) and 1101(a)(15)(G) of this title" for "section 1101(a)(15)(A) and (G) of this title".
 
@@ -184,7 +184,7 @@ Policy.—It shall be the policy of the Department of State to process immigrant
 
 "(b)
 
-Reports.—Not later than 180 days after the date of enactment of this Act \[Nov. 29, 1999\], and not later than 1 year thereafter, the Secretary of State shall submit to the appropriate congressional committees \[Committee on Foreign Affairs of the House of Representatives and Committee on Foreign Relations of the Senate\] a report on the extent to which the Department of State is meeting the policy standards under subsection (a). Each report shall be based on a survey of the 22 consular posts which account for approximately 72 percent of immigrant visas issued and, in addition, the consular posts in Guatemala City, Nicosia, Caracas, Naples, and Jakarta. Each report should include data on the average time for processing each category of visa application under subsection (a), a list of the embassies and consular posts which do not meet the policy standards under subsection (a), the amount of funds collected worldwide for processing of visa applications during the most recent fiscal year, the estimated costs of processing such visa applications (based on the Department of State's most recent fee study), the steps being taken by the Department of State to achieve such policy standards, and results achieved by the interagency working group charged with the goal of reducing the overall processing time for visa applications."
+Reports.—Not later than 180 days after the date of enactment of this Act \[Nov. 29, 1999\], and not later than 1 year thereafter, the Secretary of State shall submit to the appropriate congressional committees \[Committee on Foreign Affairs of the House of Representatives and Committee on Foreign Relations of the Senate\] a report on the extent to which the Department of State is meeting the policy standards under subsection (a). Each report shall be based on a survey of the 22consular posts which account for approximately 72 percent of immigrant visas issued and, in addition, the consular posts in Guatemala City, Nicosia, Caracas, Naples, and Jakarta. Each report should include data on the average time for processing each category of visa application under subsection (a), a list of the embassies and consular posts which do not meet the policy standards under subsection (a), the amount of funds collected worldwide for processing of visa applications during the most recent fiscal year, the estimated costs of processing such visa applications (based on the Department of State's most recent fee study), the steps being taken by the Department of State to achieve such policy standards, and results achieved by the interagency working group charged with the goal of reducing the overall processing time for visa applications."
 
 #### Permitting Extension of Period of Validity of Immigrant Visas for Certain Residents of Hong Kong
 
@@ -254,7 +254,7 @@ Processing of Certain Cuban Political Prisoners as Refugees.—In light of the a
 
 "(b)
 
-Processing of Immigrant Visa Applications of Cuban Nationals in Third Countries.—Notwithstanding section 212(f) and section 243(d) of the Immigration and Nationality Act \[8 U.S.C. 1182(f), 1253(d)\], on and after the date of the enactment of this Act \[Dec. 22, 1987\], consular officers of the Department of State shall process immigrant visa applications by nationals of Cuba located in third countries on the same basis asimmigrant visa applications by nationals of other countries.
+Processing of Immigrant Visa Applications of Cuban Nationals in Third Countries.—Notwithstanding section 212(f) and section 243(d) of the Immigration and Nationality Act \[8 U.S.C. 1182(f), 1253(d)\], on and after the date of the enactment of this Act \[Dec. 22, 1987\], consular officers of the Department of State shall process immigrant visa applications by nationals of Cuba located in third countries on the same basis as immigrant visa applications by nationals of other countries.
 
 "(c)
 

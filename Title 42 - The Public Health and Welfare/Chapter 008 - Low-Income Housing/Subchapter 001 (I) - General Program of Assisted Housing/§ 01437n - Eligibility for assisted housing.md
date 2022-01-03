@@ -86,7 +86,7 @@ Targeting.—Except as provided in paragraph (4), of the public housing dwelling
 
 #### (C) Income limitation
 
-&emsp;&emsp;The income limitation under this subparagraph shall be 120 percent of the median income for the area, as determined by the Secretary with adjustments for smaller and larger families, except that the Secretary may establish income limitations higher or lower than 120 percent of such median income on the basis of the Secretary's findings that such variations are necessary because of prevailing levels of construction costs, or unusually high or low family incomes, vacancy rates, or rental costs.
+&emsp;&emsp;The income limitation under this subparagraph shall be 120 percent of the median income for the area, as determined by the Secretary with adjustments for smaller and larger families, except that the Secretarymay establish income limitations higher or lower than 120 percent of such median income on the basis of the Secretary's findings that such variations are necessary because of prevailing levels of construction costs, or unusually high or low family incomes, vacancy rates, or rental costs.
 
 #### (D) Exception
 
@@ -118,7 +118,7 @@ Targeting.—Except as provided in paragraph (4), of the public housing dwelling
 
 #### (1) Pre-1981 act projects
 
-&emsp;Not more than 25 percent of the dwelling units that were available for occupancy undersection 8 \[42 U.S.C. 1437f\] housing assistance payments contracts under this chapter before October 1, 1981, and which will be leased on or after October 1, 1981, shall be available for leasing by low-income families other than very low-income families.
+&emsp;Not more than 25 percent of the dwelling units that were available for occupancy under section 8 \[42 U.S.C. 1437f\] housing assistance payments contracts under this chapter before October 1, 1981, and which will be leased on or after October 1, 1981, shall be available for leasing by low-income families other than very low-income families.
 
 #### (2) Post-1981 act projects
 
@@ -240,7 +240,7 @@ Notwithstanding subsection (a)(2) or (b)(1), if approved by the Secretary, a pub
 
 &emsp;(C)(i) An authorization obtained by the public housing agency pursuant to this paragraph shall be considered to meet the requirements of the Right to Financial Privacy Act \[12 U.S.C. 3401 et seq.\] for purposes of section 1103(a) of such Act \[12 U.S.C. 3403(a)\], and need not be furnished to the financial institution, notwithstanding section 1104(a) of such Act \[12 U.S.C. 3404(a)\].
 
-&emsp;(ii) The certification requirements of section 1103(b) of the Right to Financial Privacy Act \[12 U.S.C. 3403(b)\] shall not apply to requestsby the public housing agency pursuant to an authorization provided under this clause.
+&emsp;(ii) The certification requirements of section 1103(b) of the Right to Financial Privacy Act \[12 U.S.C. 3403(b)\] shall not apply to requests by the public housing agency pursuant to an authorization provided under this clause.
 
 &emsp;(iii) A request by the public housing agency pursuant to an authorization provided under this clause is deemed to meet the requirements of section 1104(a)(3) of the Right to Financial Privacy Act \[12 U.S.C. 3404(a)(3)\] and the flush language of section 1102 of such Act \[12 U.S.C. 3402\].
 
@@ -258,13 +258,15 @@ Notwithstanding any other provision of law, a public housing agency shall establ
 
 (Sept. 1, 1937, ch. 896, title I, §16, as added Pub. L. 97–35, title III, §323, Aug. 13, 1981, 95 Stat. 404; amended Pub. L. 98–181, title I \[title II, §213\], Nov. 30, 1983, 97 Stat. 1184; Pub. L. 100–242, title I, §§103, 112(b)(8), Feb. 5, 1988, 101 Stat. 1822, 1824; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 100–628, title X, §1001(a), Nov. 7, 1988, 102 Stat. 3263; Pub. L. 101–625, title V, §§511, 572(1), Nov. 28, 1990, 104 Stat. 4194, 4236; Pub. L. 102–550, title I, §105, Oct. 28, 1992, 106 Stat. 3684; Pub. L. 104–99, title IV, §402(d)(6)(A)(v), Jan. 26, 1996, 110 Stat. 42; Pub. L. 104–120, §9(d), Mar. 28, 1996, 110 Stat. 837; Pub. L. 104–330, title V, §501(b)(7), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title IV, §428, title V, §§513(a), 576(d)(2), Oct. 21, 1998, 112 Stat. 2511, 2543, 2640; Pub. L. 105–277, div. A, §123, Oct. 21, 1998, 112 Stat. 2681–546; Pub. L. 106–74, title II, §205, Oct. 20, 1999, 113 Stat. 1069; Pub. L. 113–76, div. L, title II, §238(b), Jan. 17, 2014, 128 Stat. 635; Pub. L. 114–201, title I, §§103, 104, July 29, 2016, 130 Stat. 792, 793.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1437d(s) of this title, referred to in subsec. (a)(3)(B)(iii), probably should be a reference to section 1437d(r) of this title. Pub. L. 105–276, title V, §§525, 575(d), 576(d)(1)(B), Oct. 21, 1998, 112 Stat. 2568, 2637, 2640, amended section 1437d by adding a subsec. (s) relating to site-based waiting lists and a subsec. (t) relating to authority to require access to criminal records and then redesignated those subsecs. (s) and (t) as (r) and (s), respectively.
 
 Section 503(a) of the Quality Housing and Work Responsibility Act of 1998, referred to in subsec. (c)(6)(B), (G), is section 503(a) of Pub. L. 105–276, which is set out as an Effective Date of 1998 Amendment note under section 1437 of this title.
 
-The Low-Income Housing Preservation and Resident Homeownership Act of 1990, referred to in subsec. (c)(6)(F), is title II of Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 1877, as amended, which is classified principally to chapter 42 (§4101 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 12 and Tables.
+The Low-Income Housing Preservation and Resident Homeownership Act of 1990, referred to in subsec. (c)(6)(F), is title II of Pub. L. 100–242, Feb. 5, 1988, 101Stat. 1877, as amended, which is classified principally to chapter 42 (§4101 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 12 and Tables.
 
 The Emergency Low Income Housing Preservation Act of 1987, referred to in subsec. (c)(6)(F), is title II of Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 1877, which, as amended by Pub. L. 101–625, is known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990. Subtitles A and B of title II, which were formerly set out as a note under section 1715l of Title 12, Banks and Banking, and which amended section 1715z–6 of Title 12, were amended generally by Pub. L. 101–625 and are classified to subchapter I (§4101 et seq.) of chapter 42 of Title 12. Subtitles C and D of title II amended section 1715z–15 of Title 12 and sections 1437f, 1472, 1485, and 1487 of this title. Another subtitle C of title II of Pub. L. 100–242, as added by Pub. L. 102–550, is classified generally to subchapter II (§4141 et seq.) of chapter 42 of Title 12. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 12 and Tables.
 
@@ -282,7 +284,7 @@ Subsec. (e). Pub. L. 114–201, §104, added subsec. (e).
 
 <b>2014</b>—Subsec. (a)(2)(A). Pub. L. 113–76, §238(b)(1), substituted "extremely low-income families" for "families whose incomes at the time of commencement of occupancy do not exceed 30 percent of the area median income, as determined by the Secretary with adjustments for smaller and larger families; except that the Secretary may establish income ceilings higher or lower than 30 percent of the area median income on the basis of the Secretary's findings that such variations are necessary because of unusually high or low family incomes".
 
-Subsec. (b)(1). Pub. L. 113–76, §238(b)(2), substituted "extremely low-income families" for "families whose incomes do not exceed 30 percent of the area median income, as determined by the Secretary with adjustments for smaller and larger families; except that the Secretary may establish income ceilings higher or lower than 30 percent of the area median income on the basis of the Secretary's findings that such variationsare necessary because of unusually high or low family incomes".
+Subsec. (b)(1). Pub. L. 113–76, §238(b)(2), substituted "extremely low-income families" for "families whose incomes do not exceed 30 percent of the area median income, as determined by the Secretary with adjustments for smaller and larger families; except that the Secretary may establish income ceilings higher or lower than 30 percent of the area median income on the basis of the Secretary's findings that such variations are necessary because of unusually high or low family incomes".
 
 Subsec. (c)(3). Pub. L. 113–76, §238(b)(3), substituted "extremely low-income families" for "families whose incomes at the time of commencement of occupancy do not exceed 30 percent of the area median income, as determined by the Secretary with adjustments for smaller and larger families; except that the Secretary may establish income ceilings higher or lower than 30 percent of the area median income on the basis of the Secretary's findings that such variations are necessary because of unusually high or low family incomes".
 
@@ -325,6 +327,8 @@ Pub. L. 100–242, §103, added subsec. (c).
 Subsec. (d). Pub. L. 100–242, §103, added subsec. (d).
 
 <b>1983</b>—Subsec. (a). Pub. L. 98–181 increased to 25 from 10 the percentage of dwelling units available for leasing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendments
 

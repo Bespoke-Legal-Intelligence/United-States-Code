@@ -24,7 +24,7 @@ Whenever more than one of the pursuits or occupations described in this subchapt
 
 #### (d) Death or change of location
 
-Certain persons, other than the person who has paid the special tax under this subchapter for the carrying on of any business at any place, may secure the right to carry on, without incurring additional special tax, the same business at the same place for the remainder of the taxable period for which the special tax was paid. The persons who may secure such right are:
+Certain persons, other than the person who has paid the special tax under this subchapterfor the carrying on of any business at any place, may secure the right to carry on, without incurring additional special tax, the same business at the same place for the remainder of the taxable period for which the special tax was paid. The persons who may secure such right are:
 
 &emsp;(1) the surviving spouse or child, or executor or administrator or other legal representative, of a deceased taxpayer;
 
@@ -42,6 +42,8 @@ Any tax imposed by this subchapter shall apply to any agency or instrumentality 
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1347, §5143; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; renumbered §5733 and amended Pub. L. 109–59, title XI, §11125(b)(20)(A), (C), Aug. 10, 2005, 119 Stat. 1956, 1957.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Pub. L. 109–59, §11125(b)(20)(A), renumbered section 5143 of this title as this section, transferred section to this subchapter, and substituted "this subchapter" for "this part" wherever appearing.
@@ -49,6 +51,8 @@ Any tax imposed by this subchapter shall apply to any agency or instrumentality 
 Subsec. (c)(2). Pub. L. 109–59, §11125(b)(20)(C), substituted "tobacco products and cigarette papers and tubes" for "liquors" in two places.
 
 <b>1976</b>—Subsec. (d)(4). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2005 Amendment
 

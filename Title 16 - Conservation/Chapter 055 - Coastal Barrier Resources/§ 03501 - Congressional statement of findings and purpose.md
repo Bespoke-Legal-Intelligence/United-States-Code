@@ -2,7 +2,7 @@
 
 (a) The Congress finds that—
 
-&emsp;(1) coastal barriers along the Atlantic and Gulf coasts and along the shore areas of theGreat Lakes of the United States and the adjacent wetlands, marshes, estuaries, inlets and nearshore waters provide—
+&emsp;(1) coastal barriers along the Atlantic and Gulf coasts and along the shore areas of the Great Lakes of the United States and the adjacent wetlands, marshes, estuaries, inlets and nearshore waters provide—
 
 &emsp;&emsp;(A) habitats for migratory birds and other wildlife; and
 
@@ -20,6 +20,8 @@
 
 (Pub. L. 97–348, §2, Oct. 18, 1982, 96 Stat. 1653; Pub. L. 100–707, title II, §204(c)(1), Nov. 23, 1988, 102 Stat. 4714; Pub. L. 106–167, §3(c)(1), Dec. 9, 1999, 113 Stat. 1804.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 97–348, Oct. 18, 1982, 96 Stat. 1653, as amended, known as the Coastal Barrier Resources Act, which is classified generally to this chapter (§3501 et seq.). For complete classification of this Act to the Code, see Short Title note set out below and Tables.
@@ -29,6 +31,8 @@ This chapter, referred to in subsec. (b), was in the original "this Act", meanin
 <b>1999</b>—Subsec. (b). Pub. L. 106–167 substituted "the John H. Chafee Coastal Barrier Resources System" for "a Coastal Barrier Resources System".
 
 <b>1988</b>—Subsecs. (a)(1), (b). Pub. L. 100–707 inserted "and along the shore areas of the Great Lakes" after "Atlantic and Gulf coasts".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2018 Amendment
 
@@ -40,7 +44,7 @@ Pub. L. 106–514, §1, Nov. 13, 2000, 114 Stat. 2394, provided that: "This Act 
 
 #### Short Title of 1999 Amendment
 
-Pub. L. 106–167, §1, Dec. 9, 1999, 113 Stat. 1803, provided that: "This Act \[amending this section and sections 3502, 3503, and 3509 of this title, section 1441a–3 of Title 12, Banks and Banking, and section 4028 of Title 42, The Public Health and Welfare, and enacting and amending provisions set out as notes under section 3503 of this title\] may be cited as the 'John H. Chafee Coastal Barrier Resources System Act'."
+Pub. L. 106–167, §1, Dec. 9, 1999, 113 Stat. 1803, provided that: "This Act \[amending this section and sections3502, 3503, and 3509 of this title, section 1441a–3 of Title 12, Banks and Banking, and section 4028 of Title 42, The Public Health and Welfare, and enacting and amending provisions set out as notes under section 3503 of this title\] may be cited as the 'John H. Chafee Coastal Barrier Resources System Act'."
 
 #### Short Title of 1990 Amendment
 

@@ -102,7 +102,9 @@ Whenever a final determination is made that the amount of payment made under thi
 
 (4) Notwithstanding any other provision of law, the Secretary may implement the provisions of this subsection by program instruction or otherwise.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1815, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 297; amended Pub. L. 94–182, title I, §112(a)(2), Dec. 31, 1975, 89 Stat. 1055; Pub. L. 95–142, §2(a)(2), Oct. 25, 1977, 91 Stat. 1175; Pub. L. 96–473, §6(i), Oct. 19, 1980, 94 Stat. 2266; Pub. L. 97–248, title I, §§117(a)(1), 148(b), Sept. 3, 1982, 96 Stat. 354, 394; Pub. L. 99–509, title IX, §9311(a)(1), Oct. 21, 1986, 100 Stat. 1996; Pub. L. 101–239, title VI, §6021(a), Dec. 19, 1989, 103 Stat. 2166; Pub. L. 105–33, title IV, §4603(b), Aug. 5, 1997, 111 Stat. 470; Pub. L. 108–173, title IV, §405(c)(1), title VII,§736(a)(3), Dec. 8, 2003, 117 Stat. 2266, 2354; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 112–40, title II, §261(a)(3)(B), Oct. 21, 2011, 125 Stat. 423; Pub. L. 116–136, div. A, title III, §3719, Mar. 27, 2020, 134 Stat. 426; Pub. L. 116–159, div. C, title V, §2501(a)(1)(A), (B), (b)(1)(A), Oct. 1, 2020, 134 Stat. 733–735.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1815, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 297; amended Pub. L. 94–182, title I, §112(a)(2), Dec. 31, 1975, 89 Stat. 1055; Pub. L. 95–142, §2(a)(2), Oct. 25, 1977, 91 Stat. 1175; Pub. L. 96–473, §6(i), Oct. 19, 1980, 94 Stat. 2266; Pub. L. 97–248, title I, §§117(a)(1), 148(b), Sept. 3, 1982, 96 Stat. 354, 394; Pub. L. 99–509, title IX, §9311(a)(1), Oct. 21, 1986, 100 Stat. 1996; Pub. L. 101–239, title VI, §6021(a), Dec. 19, 1989, 103 Stat. 2166; Pub. L. 105–33, title IV, §4603(b), Aug. 5, 1997, 111 Stat. 470; Pub. L. 108–173, title IV, §405(c)(1), title VII, §736(a)(3), Dec. 8, 2003, 117 Stat. 2266, 2354; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 112–40, title II, §261(a)(3)(B), Oct. 21, 2011, 125 Stat. 423; Pub. L. 116–136, div. A, title III, §3719, Mar. 27, 2020, 134 Stat. 426; Pub. L. 116–159, div. C, title V, §2501(a)(1)(A), (B), (b)(1)(A), Oct. 1, 2020, 134 Stat. 733–735.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -145,6 +147,8 @@ Subsec. (d). Pub. L. 97–248, §117(a)(1), added subsec. (d).
 <b>1977</b>—Subsec. (c). Pub. L. 95–142 added subsec. (c).
 
 <b>1975</b>—Pub. L. 94–182 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 
@@ -288,7 +292,7 @@ Pub. L. 97–248, title I, §120, Sept. 3, 1982, 96 Stat. 355, provided that: "N
 
 &emsp;"(1) with respect to the last 21 days for which such payments would otherwise be made during fiscal year 1983, such payments shall be deferred until fiscal year 1984; and
 
-&emsp;"(2) with respect to the last 21 days for which such payments would otherwise be made during fiscal year1984, such payments shall be deferred until fiscal year 1985."
+&emsp;"(2) with respect to the last 21 days for which such payments would otherwise be made during fiscal year 1984, such payments shall be deferred until fiscal year 1985."
 
-Pub. L. 96–499, title IX, §959, Dec. 5, 1980, 94 Stat. 2650, provided for deferral of interim payments to be made during last twenty-one days of fiscal year 1981 until fiscal year 1982, prior to repeal by Pub. L. 97–35, title XXI, §2155, Aug. 13, 1981, 95 Stat. 802.
+Pub. L. 96–499, title IX, §959, Dec. 5, 1980, 94 Stat. 2650, provided for deferral of interim payments to be madeduring last twenty-one days of fiscal year 1981 until fiscal year 1982, prior to repeal by Pub. L. 97–35, title XXI, §2155, Aug. 13, 1981, 95 Stat. 802.
 

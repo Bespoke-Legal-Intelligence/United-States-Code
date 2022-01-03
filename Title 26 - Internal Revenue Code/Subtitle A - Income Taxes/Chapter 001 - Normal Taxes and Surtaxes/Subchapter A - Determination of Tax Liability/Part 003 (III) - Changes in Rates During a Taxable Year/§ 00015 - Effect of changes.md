@@ -20,7 +20,7 @@ For purposes of subsection (a)—
 
 For purposes of subsections (a) and (b)—
 
-&emsp;(1) if the rate changes for taxable years "beginning after" or "ending after" a certain date, the following day shall be considered the effective date of the change; and
+&emsp;(1) if the rate changes for taxable years "beginning after" or "ending after" a certaindate, the following day shall be considered the effective date of the change; and
 
 &emsp;(2) if a rate changes for taxable years "beginning on or after" a certain date, that date shall be considered the effective date of the change.
 
@@ -38,13 +38,15 @@ This section shall not apply to any change in rates under subsection (i) of sect
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 12, §21; Pub. L. 88–272, title I, §132, Feb. 26, 1964, 78 Stat. 30; Pub. L. 91–172, title VIII, §803(e), Dec. 30, 1969, 83 Stat. 685; Pub. L. 92–178, title II, §205, Dec. 10, 1971, 85 Stat. 511; Pub. L. 94–12, title III, §305(b)(2), Mar. 29, 1975, 89 Stat. 45; Pub. L. 94–164, §4(d)(2), Dec. 23, 1975, 89 Stat. 975; Pub. L. 94–455, title IX, §901(c)(2), Oct. 4, 1976, 90 Stat. 1607; Pub. L. 95–30, title I, §101(d)(2), May 23, 1977, 91 Stat. 133; Pub. L. 95–600, title I, §106, Nov. 6, 1978, 92 Stat. 2776; Pub. L. 97–34, title I, §101(d)(3), Aug. 13, 1981, 95 Stat. 184; renumbered §15, Pub. L. 98–369, div. A, title IV, §474(b)(1), July 18, 1984, 98 Stat. 830; Pub. L. 99–514, title I, §101(b), Oct. 22, 1986, 100 Stat. 2099; Pub. L. 100–647, title I, §1006(a), Nov. 10, 1988, 102 Stat. 3393; Pub. L. 107–16, title I, §101(c)(3), June 7, 2001, 115 Stat. 43.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2001</b>—Subsec. (f). Pub. L. 107–16, §101(c)(3), added subsec. (f).
 
 <b>1988</b>—Subsec. (e). Pub. L. 100–647 added subsec. (e).
 
-<b>1986</b>—Subsec. (d). Pub. L. 99–514 amended subsec. (d) generally, substituting "apply to inflation adjustments" for "apply to section 1 rate changes made by Economic Recovery Tax Act of 1981" in heading and struck out "section 1 attributable to the amendmentsmade by section 101 of the Economic Tax Act of 1981 or" before "subsection (f)" in text.
+<b>1986</b>—Subsec. (d). Pub. L. 99–514 amended subsec. (d) generally, substituting "apply to inflation adjustments" for "apply to section 1 rate changes made by Economic Recovery Tax Act of 1981" in heading and struck out "section 1 attributable to the amendments made by section 101 of the Economic Tax Act of 1981 or" before "subsection (f)" in text.
 
 <b>1984</b>—Pub. L. 98–369 renumbered section 21 of this title as this section.
 
@@ -71,6 +73,8 @@ Pub. L. 94–12 added subsec. (f).
 <b>1969</b>—Subsec. (d). Pub. L. 91–172 substituted provisions covering changes made by the Tax Reform Act of 1969 in case of individuals for provisions covering changes made by Revenue Act of 1964.
 
 <b>1964</b>—Subsec. (d). Pub. L. 88–272 amended subsection generally by substituting provisions relating to changes made by the Revenue Act of 1964, for provisions relating to taxable years beginning before Jan. 1, 1954, and ending after Dec. 31, 1953.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2001 Amendment
 

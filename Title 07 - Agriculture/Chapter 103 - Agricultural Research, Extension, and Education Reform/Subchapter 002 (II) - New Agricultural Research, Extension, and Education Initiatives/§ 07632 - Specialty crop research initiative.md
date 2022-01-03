@@ -104,7 +104,7 @@ In carrying out this section, the Secretary shall award competitive grants on th
 
 Each fiscal year, before conducting the scientific peer review described in paragraph (1) of subsection (d) and the merit and relevancy review described in paragraph (2) of such subsection, the Secretary shall consult with the specialty crops committee regarding such reviews. The committee shall provide the Secretary—
 
-&emsp;(1) in the first fiscal year in which that consultation occurs, any recommendations for conducting such reviews in such fiscal year; and
+&emsp;(1) in the first fiscal year in which that consultation occurs, any recommendations forconducting such reviews in such fiscal year; and
 
 &emsp;(2) in any subsequent fiscal year in which such consultation occurs—
 
@@ -248,6 +248,8 @@ Funds made available under this section shall not be used for the construction o
 
 (Pub. L. 105–185, title IV, §412, as added Pub. L. 110–234, title VII, §7311(a), May 22, 2008, 122 Stat. 1243, and Pub. L. 110–246, §4(a), title VII, §7311(a), June 18, 2008, 122 Stat. 1664, 2004; amended Pub. L. 112–240, title VII, §701(e)(2), Jan. 2, 2013, 126 Stat. 2364; Pub. L. 113–79, title VII, §§7128(b)(3)(B), 7306, Feb. 7, 2014, 128 Stat. 879, 888; Pub. L. 115–334, title VII, §§7305, 7614(b)(3)(B), Dec. 20, 2018, 132 Stat. 4815, 4836.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this section, referred to in subsec. (k)(4), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
@@ -317,6 +319,8 @@ Subsec. (k)(2). Pub. L. 113–79, §7306(9)(B), substituted "2014 through 2018" 
 Subsec. (h)(2). Pub. L. 112–240, §701(e)(2)(B), inserted "for fiscal years 2008 through 2012" after "appropriations" in heading.
 
 Subsec. (h)(3) to (5). Pub. L. 112–240, §701(e)(2)(C), (D), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

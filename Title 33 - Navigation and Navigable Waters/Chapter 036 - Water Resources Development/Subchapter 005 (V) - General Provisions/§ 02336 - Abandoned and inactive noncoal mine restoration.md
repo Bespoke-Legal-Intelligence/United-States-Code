@@ -12,7 +12,7 @@ Assistance provided under subsection (a) may be in support of projects for the p
 
 &emsp;(2) restoring and protecting streams, rivers, wetlands, other waterbodies, and riparian areas degraded by drainage from abandoned and inactive noncoal mines; and
 
-&emsp;(3) demonstrating management practices and innovative and alternative treatmenttechnologies to minimize or eliminate adverse environmental effects associated with drainage from abandoned and inactive noncoal mines.
+&emsp;(3) demonstrating management practices and innovative and alternative treatment technologies to minimize or eliminate adverse environmental effects associated with drainage from abandoned and inactive noncoal mines.
 
 #### (c) Non-Federal share
 

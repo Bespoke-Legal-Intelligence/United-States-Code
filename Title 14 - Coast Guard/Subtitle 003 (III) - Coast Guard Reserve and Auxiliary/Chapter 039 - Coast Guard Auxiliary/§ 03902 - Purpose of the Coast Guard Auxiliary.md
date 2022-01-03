@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The purpose of the Auxiliary is to assist the Coast Guard as authorized by the Commandant, in performing any Coast Guard function, power, duty, role, mission, or operation authorized by law.
+In General.—The purpose of the Auxiliary is to assist the Coast Guard as authorized by theCommandant, in performing any Coast Guard function, power, duty, role, mission, or operation authorized by law.
 
 (b)
 

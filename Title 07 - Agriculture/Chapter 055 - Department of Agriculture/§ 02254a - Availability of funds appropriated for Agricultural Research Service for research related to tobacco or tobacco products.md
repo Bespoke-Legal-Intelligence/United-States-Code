@@ -4,6 +4,8 @@ On and after December 26, 2007, none of the funds appropriated under this headin
 
 (Pub. L. 110–161, div. A, title I, Dec. 26, 2007, 121 Stat. 1850.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This heading, referred to in text, refers to the headings "

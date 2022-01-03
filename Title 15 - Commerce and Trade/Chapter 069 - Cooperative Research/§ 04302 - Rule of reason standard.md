@@ -10,6 +10,8 @@ In any action under the antitrust laws, or under any State law similar to the an
 
 (Pub. L. 98–462, §3, Oct. 11, 1984, 98 Stat. 1816; Pub. L. 103–42, §3(d), June 10, 1993, 107 Stat. 119; Pub. L. 108–237, title I, §104, June 22, 2004, 118 Stat. 663.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Pub. L. 108–237 substituted "of—

@@ -54,7 +54,7 @@
 
 &emsp;(3) The term "sequestration order" means an order of the President issued under part C of such Act.
 
-(Added Pub. L. 99–576, title VI, §601(a)(1), Oct. 28, 1986, 100 Stat. 3287; amended Pub. L. 100–198, §12(a), Dec. 21, 1987, 101 Stat. 1325; Pub. L. 100–322, title IV, §411(b), (c), May 20, 1988, 102 Stat. 547; Pub. L. 102–40, title IV, §402(d)(1), May7, 1991, 105 Stat. 239; Pub. L. 102–83, §§4(a)(2)(B)(i), (3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 116–315, title II, §2202(b)(1)(D), Jan. 5, 2021, 134 Stat. 4985.)
+(Added Pub. L. 99–576, title VI, §601(a)(1), Oct. 28, 1986, 100 Stat. 3287; amended Pub. L. 100–198, §12(a), Dec. 21, 1987, 101 Stat. 1325; Pub. L. 100–322, title IV, §411(b), (c), May 20, 1988, 102 Stat. 547; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; Pub. L. 102–83, §§4(a)(2)(B)(i), (3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 116–315, title II, §2202(b)(1)(D), Jan. 5, 2021, 134 Stat. 4985.)
 
 #### Amendment of Subsection (c)(1)
 
@@ -104,7 +104,7 @@ Subsecs. (e) to (g). Pub. L. 100–198, §12(a)(2), redesignated subsecs. (f) an
 
 &emsp;"(2) The total amount of the loans for which commitments were made during the fiscal year through the end of such preceding month.
 
-&emsp;"(3) The Administrator's estimates as to the total amounts of the loans for which commitments would, in the absence of any limits on such commitments or guarantees, be made during (A) the month in which the report is required to be submitted, and (B) the succeeding months of the fiscal year."
+&emsp;"(3) The Administrator's estimates as to the total amounts of the loans for which commitments would, in the absence of any limits on such commitments orguarantees, be made during (A) the month in which the report is required to be submitted, and (B) the succeeding months of the fiscal year."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

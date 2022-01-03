@@ -34,11 +34,11 @@
 
 #### legislative statements
 
-Section 1104 of the House amendment represents a compromise between the House bill and the Senate amendment concerning the appointment of a trustee or examiner. The method of appointment rather than election, is derived from the House bill; the two alternative standards of appointment are derived with modifications from the Senate amendment, instead of the standard stated in the House bill. For example, if the current management of the debtor gambled away rental income before the filing of the petition, a trustee should be appointed after the petition, whether or not postpetition mismanagement can be shown. However, under no circumstances will cause include the number of security holders of the debtor or the amount of assets or liabilities of the debtor. The standard also applies to the appointment of an examiner in those circumstances in which mandatory appointment, as previously detailed, is not required.
+Section 1104 of the House amendment represents a compromise between the House bill and the Senateamendment concerning the appointment of a trustee or examiner. The method of appointment rather than election, is derived from the House bill; the two alternative standards of appointment are derived with modifications from the Senate amendment, instead of the standard stated in the House bill. For example, if the current management of the debtor gambled away rental income before the filing of the petition, a trustee should be appointed after the petition, whether or not postpetition mismanagement can be shown. However, under no circumstances will cause include the number of security holders of the debtor or the amount of assets or liabilities of the debtor. The standard also applies to the appointment of an examiner in those circumstances in which mandatory appointment, as previously detailed, is not required.
 
 #### senate report no. 95–989
 
-Subsection (a) provides for the mandatory appointment of a disinterested trustee in the case of a public company, as defined in section 1101(3), within 10 days ofthe order for relief, or of a successor, in the event of a vacancy, as soon as practicable.
+Subsection (a) provides for the mandatory appointment of a disinterested trustee in the case of a public company, as defined in section 1101(3), within 10 days of the order for relief, or of a successor, in the event of a vacancy, as soon as practicable.
 
 Section 156 of chapter X (\[former\] 11 U.S.C. 516 \[556\]) requires the appointment of a disinterested trustee if the debtor's liabilities are $250,000 or over. Section 1104(a) marks a substantial change. The appointment of a trustee is mandatory only for a public company, which under section 1101(3), has $5 million in liabilities, excluding tax and trade obligations, and 1,000 security holders. In view of past experience, cases involving public companies will under normal circumstances probably be relatively few in number but of vast importance in terms of public investor interest.
 
@@ -90,7 +90,7 @@ Subsec. (c). Pub. L. 99–554, §222(3), substituted "the United States trustee,
 
 Amendment by section 1405 of Pub. L. 109–8 effective Apr. 20, 2005, and applicable only with respect to cases commenced under this title on or after Apr. 20, 2005, see section 1406 of Pub. L. 109–8, set out as a note under section 507 of this title.
 
-Amendment by sections 416 and 442(b) of Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
+Amendment by sections 416 and 442(b) of Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicablewith respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Use of mixtures or fluidized bed combustion not feasible
 
-Except in the case of an exemption under section 8322(d) of this title, the Secretary may grant a permanent exemption for a powerplant under this part only—
+Except in the case of an exemption under section 8322(d) of this title, the Secretary maygrant a permanent exemption for a powerplant under this part only—
 
 &emsp;(1) if the applicant has demonstrated that the use of a mixture of natural gas or petroleum and coal or another alternate fuel, for which an exemption under section 8322(d) of this title would be available, is not economically or technically feasible; and
 
@@ -20,6 +20,8 @@ If the appropriate State regulatory authority has not approved a powerplant for 
 
 (Pub. L. 95–620, title II, §213, Nov. 9, 1978, 92 Stat. 3304; Pub. L. 100–42, §1(c)(7), May 21, 1987, 101 Stat. 312.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1987</b>—Subsec. (a). Pub. L. 100–42, §1(c)(7)(A), (B), in introductory provisions struck out "or (g)" after "8322(d)" and "or installation" after "powerplant".
@@ -31,6 +33,8 @@ Subsec. (b). Pub. L. 100–42, §1(c)(7)(C), amended subsec. (b) generally. Prio
 &emsp;"(2) to the extent it applies to the prohibition under section 8311(1) of this title against the use of natural gas or petroleum as a primary energy source, shall not take effect until all approvals required by such State regulatory authority which relate to construction or operation have been obtained."
 
 Subsec. (c)(1). Pub. L. 100–42, §1(c)(7)(A), in introductory provisions struck out "or (g)" after "section 8322(c)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Exemption for Certain Electric Powerplants as Effective Prior to 180 Days After November 9, 1978
 

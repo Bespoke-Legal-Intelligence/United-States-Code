@@ -10,7 +10,7 @@ No principal underwriter for or depositor of a registered unit investment trust 
 
 &emsp;(3) provides, in substance, that the trustee or custodian shall not resign until either (A) the trust has been completely liquidated and the proceeds of the liquidation distributed to the security holders of the trust, or (B) a successor trustee or custodian, having the qualifications prescribed in paragraph (1) of this subsection, has been designated and has accepted such trusteeship or custodianship; and
 
-&emsp;(4) provides, in substance, (A) that a record will be kept by the depositor or an agent ofthe depositor of the name and address of, and the shares issued by the trust and held by, every holder of any security issued pursuant to such instrument, insofar as such information is known to the depositor or agent; and (B) that whenever a security is deposited with the trustee in substitution for any security in which such security holder has an undivided interest, the depositor or the agent of the depositor will, within five days after such substitution, either deliver or mail to such security holder a notice of substitution, including an identification of the securities eliminated and the securities substituted, and a specification of the shares of such security holder affected by the substitution.
+&emsp;(4) provides, in substance, (A) that a record will be kept by the depositor or an agent of the depositor of the name and address of, and the shares issued by the trust and held by, every holder of any security issued pursuant to such instrument, insofar as such information is known to the depositor or agent; and (B) that whenever a security is deposited with the trustee in substitution for any security in which such security holder has an undivided interest, the depositor or the agent of the depositor will, within five days after such substitution, either deliver or mail to such security holder a notice of substitution, including an identification of the securities eliminated and the securities substituted, and a specification of the shares of such security holder affected by the substitution.
 
 #### (b) Bank or affiliated person of bank as trustee or custodian
 
@@ -58,6 +58,8 @@ Whenever the Commission has reason to believe that a unit investment trust is in
 
 (Aug. 22, 1940, ch. 686, title I, §26, 54 Stat. 827; Pub. L. 91–547, §15, Dec. 14, 1970, 84 Stat. 1424; Pub. L. 100–181, title VI, §§618, 619, Dec. 4, 1987, 101 Stat. 1262; Pub. L. 104–290, title II, §205(a), Oct. 11, 1996, 110 Stat. 3429; Pub. L. 106–102, title II, §211(b), Nov. 12, 1999, 113 Stat. 1396.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1999</b>—Subsecs. (b) to (f). Pub. L. 106–102 added subsec. (b) and redesignated former subsecs. (b) to (e) as (c) to (f), respectively.
@@ -70,6 +72,8 @@ Subsec. (c). Pub. L. 100–181, §619, substituted "contract or agreement" for "
 
 <b>1970</b>—Subsecs. (b) to (d). Pub. L. 91–547 added subsec. (b), redesignated former subsec. (b) as (c), struck out "at the effective date of this subchapter" before "comply", substituted "contract of agreement" for "contract or agreement", and redesignated former subsec. (c) as (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1999 Amendment
 
 Amendment by Pub. L. 106–102 effective 18 months after Nov. 12, 1999, see section 225 of Pub. L. 106–102, set out as a note under section 77c of this title.
@@ -77,6 +81,8 @@ Amendment by Pub. L. 106–102 effective 18 months after Nov. 12, 1999, see sect
 #### Effective Date of 1970 Amendment
 
 Amendment by Pub. L. 91–547 effective Dec. 14, 1970, see section 30 of Pub. L. 91–547, set out as a note under section 80a–52 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

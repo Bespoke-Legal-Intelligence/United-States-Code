@@ -30,6 +30,8 @@ Each biennial report submitted under subsection (a) after the first report shall
 
 (Pub. L. 101–508, title VI, §6608, Nov. 5, 1990, 104 Stat. 1388–326.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 13103(b) of this title, referred to in subsec. (a), was in the original "section 4(b)" and was translated as reading "section 6604(b)", meaning section 6604(b) of Pub. L. 101–508, because Pub. L. 101–508 has no section 4 but section 6604(b) of Pub. L. 101–508 relates to development of a strategy to promote source reduction.

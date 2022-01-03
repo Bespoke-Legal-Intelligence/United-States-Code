@@ -62,6 +62,8 @@ In subsections (c) and (d), the word "hereafter" is omitted, since all wars and 
 
 In subsection (d), the words "now or hereafter" are omitted as surplusage and as executed. The second sentence is substituted for 10:1811(d) (last 31 words of 1st sentence). The third sentence is substituted for 10:1811(d) (2d sentence). 10:1811(d) (1st 13 words of last sentence) is omitted as executed. The words "This subsection does not apply" are substituted for the words "and shall be inapplicable".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Subsec. (b)(8). Pub. L. 116–283 inserted "or the Space Force" after "of the Air Force".
@@ -75,6 +77,8 @@ In subsection (d), the words "now or hereafter" are omitted as surplusage and as
 <b>1975</b>—Subsec. (c). Pub. L. 93–608 struck out requirement of annual report to Congress on the number of officers in the executive part of the Department of the Air Force and the justification therefor.
 
 <b>1966</b>—Subsec. (c). Pub. L. 89–718 changed the reporting requirement from quarterly to annually.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

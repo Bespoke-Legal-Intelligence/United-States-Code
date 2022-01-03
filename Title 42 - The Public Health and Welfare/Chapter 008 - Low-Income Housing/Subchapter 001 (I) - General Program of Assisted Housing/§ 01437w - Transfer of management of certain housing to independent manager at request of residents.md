@@ -38,7 +38,7 @@ Pursuant to a contract under subsection (d), the Secretary shall require the pub
 
 #### (1) Requirements
 
-&emsp;Pursuant to the approval of a request under this section for transfer of the management of specified housing, the Secretary shall enter into a contract with the eligible management entity.
+&emsp;Pursuant to the approval of a request under this section for transfer of the management ofspecified housing, the Secretary shall enter into a contract with the eligible management entity.
 
 #### (2) Terms
 
@@ -116,9 +116,13 @@ For purposes of this section, the following definitions shall apply:
 
 (Sept. 1, 1937, ch. 896, title I, §25, as added Pub. L. 105–276, title V, §534, Oct. 21, 1998, 112 Stat. 2579.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1437w, act Sept. 1, 1937, ch. 896, title I, §25, as added Pub. L. 102–550, title I, §121(b), Oct. 28, 1992, 106 Stat. 3701; amended Pub. L. 104–330, title V, §501(b)(10), Oct. 26, 1996, 110 Stat. 4042, known as the Choice in Public Housing Management Act of 1992, related to choice in public housing management, prior to repeal by Pub. L. 105–276, title V, §§503, 534, Oct. 21, 1998, 112 Stat. 2521, 2579, effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement repeal before such date, and with savings provision.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

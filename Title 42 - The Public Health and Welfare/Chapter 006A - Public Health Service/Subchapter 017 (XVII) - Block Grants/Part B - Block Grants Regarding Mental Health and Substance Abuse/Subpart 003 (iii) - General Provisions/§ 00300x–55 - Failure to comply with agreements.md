@@ -8,7 +8,7 @@ Subject to subsection (e), if the Secretary determines that a State has material
 
 #### (1) In general
 
-&emsp;Subject to subsection (e), the Secretary may require a State to repay with interest any payments received by the State under section 300xor 300x–21 of this title that the Secretary determines were not expended by the State in accordance with the agreements required under the program involved.
+&emsp;Subject to subsection (e), the Secretary may require a State to repay with interest any payments received by the State under section 300x or 300x–21 of this title that the Secretary determines were not expended by the State in accordance with the agreements required under the program involved.
 
 #### (2) Offset against payments
 

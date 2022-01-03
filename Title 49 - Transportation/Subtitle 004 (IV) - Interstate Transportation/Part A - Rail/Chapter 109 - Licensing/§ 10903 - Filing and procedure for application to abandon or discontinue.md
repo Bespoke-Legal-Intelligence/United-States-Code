@@ -60,6 +60,8 @@
 
 (Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 823; amended Pub. L. 112–141, div. C, title II, §32932(b), July 6, 2012, 126 Stat. 829.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 24706(c) of this title, referred to in subsec. (b)(2), was repealed by Pub. L. 105–134, title I, §142(a), Dec. 2, 1997, 111 Stat. 2576, effective 180 days after Dec. 2, 1997.
@@ -71,6 +73,8 @@ A prior section 10903, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1403; Pub. L. 9
 #### Amendments
 
 <b>2012</b>—Subsec. (b)(2). Pub. L. 112–141 substituted "24706(c) of this title before May 31, 1998" for "24706(c) of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

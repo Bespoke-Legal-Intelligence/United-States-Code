@@ -4,6 +4,8 @@ The Secretary of the Interior is authorized to cooperate with the Secretary of A
 
 (Sept. 2, 1937, ch. 899, §8A, formerly §8(a), as added Aug. 18, 1941, ch. 367, 55 Stat. 632; amended Aug. 3, 1950, ch. 523, 64 Stat. 399; July 2, 1956, ch. 489, §2, 70 Stat. 473; Aug. 1, 1956, ch. 852, §7, 70 Stat. 908; Pub. L. 86–70, §15, June 25, 1959, 73 Stat. 143; renumbered §8A and amended Pub. L. 91–503, title I, §102, Oct. 23, 1970, 84 Stat. 1101; Pub. L. 96–597, title III, §302(b), Dec. 24, 1980, 94 Stat. 3478; Pub. L. 98–347, §2(a), July 9, 1984, 98 Stat. 321; Pub. L. 99–396, §8(a), Aug. 27, 1986, 100 Stat. 839.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Migratory Bird Conservation Act, referred to in text, is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, as amended, which is classified generally to subchapter III (§715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 715 of this title and Tables.
@@ -12,7 +14,7 @@ The Migratory Bird Conservation Act, referred to in text, is act Feb. 18, 1929, 
 
 <b>1986</b>—Pub. L. 99–396 inserted reference to hunter safety programs as provided by section 669g(b) of this title.
 
-<b>1984</b>—Pub. L. 98–347 inserted "the Governor of American Samoa," after "the Governor of Guam,", "American Samoa," after "Puerto Rico, Guam," in two places, and "for American Samoa one-sixth of one per centum," after "for Guam one-sixth of 1 per centum,".
+<b>1984</b>—Pub. L. 98–347 inserted "the Governor of American Samoa," after "the Governor of Guam,", "American Samoa," after "Puerto Rico, Guam," in twoplaces, and "for American Samoa one-sixth of one per centum," after "for Guam one-sixth of 1 per centum,".
 
 <b>1980</b>—Pub. L. 96–597 inserted references to Governor and Commonwealth of the Northern Mariana Islands.
 
@@ -25,6 +27,8 @@ The Migratory Bird Conservation Act, referred to in text, is act Feb. 18, 1929, 
 Act July 2, 1956, struck out provisions which authorized the Secretary to cooperate with the Division of Game and Fish of the Board of Commissioners of Agriculture and Forestry of Hawaii, removed the limitation of $25,000 on the amount of funds which could be apportioned to Hawaii in any one year, and substituted "Territory of Alaska" for "Territories" in two places.
 
 <b>1950</b>—Act Aug. 3, 1950, increased funds allocated annually to Alaska and Hawaii from $25,000 to $10,000, respectively, to $75,000 and $25,000.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

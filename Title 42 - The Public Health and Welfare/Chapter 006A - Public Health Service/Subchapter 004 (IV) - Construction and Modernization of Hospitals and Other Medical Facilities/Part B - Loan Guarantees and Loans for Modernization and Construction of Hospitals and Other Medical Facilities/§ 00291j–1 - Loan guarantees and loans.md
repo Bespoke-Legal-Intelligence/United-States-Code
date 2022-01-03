@@ -8,7 +8,7 @@
 
 #### (b) Cost limitations
 
-(1) No loan guarantee under this part with respect to any modernization or construction project may apply to so much of the principal amount thereof as, when added to the amount of any grant or loan under part A with respect to such project, exceeds 90 per centum of the cost of such project.
+(1) No loan guarantee under this part with respect to any modernization or constructionproject may apply to so much of the principal amount thereof as, when added to the amount of any grant or loan under part A with respect to such project, exceeds 90 per centum of the cost of such project.
 
 (2) No loan to a public agency under this part shall be made in an amount which, when added to the amount of any grant or loan under part A with respect to such project, exceeds 90 per centum of the cost of such project.
 
@@ -17,6 +17,8 @@
 The Secretary, with the consent of the Secretary of Housing and Urban Development, shall obtain from the Department of Housing and Urban Development such assistance with respect to the administration of this part as will promote efficiency and economy thereof.
 
 (July 1, 1944, ch. 373, title VI, §621, as added Pub. L. 91–296, title II, §201, June 30, 1970, 84 Stat. 344; amended Pub. L. 93–45, title I, §108(b)(1), June 18, 1973, 87 Stat. 93.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

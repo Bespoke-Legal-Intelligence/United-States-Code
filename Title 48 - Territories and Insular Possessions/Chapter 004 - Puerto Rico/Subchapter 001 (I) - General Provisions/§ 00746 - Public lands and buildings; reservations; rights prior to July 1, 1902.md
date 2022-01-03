@@ -4,9 +4,13 @@ All public lands and buildings, not including harbor areas and navigable streams
 
 (July 1, 1902, ch. 1383, §1, 32 Stat. 731; May 17, 1932, ch. 190, 47 Stat. 158.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was not enacted as part of the Puerto Rican Federal Relations Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

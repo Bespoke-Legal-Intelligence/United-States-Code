@@ -2,7 +2,7 @@
 
 (a)
 
-Availability of Legal Assistance and Victim Advocate Services.—(1) A member ofthe armed forces, or a dependent of a member, who is the victim of a sexual assault may be provided the following:
+Availability of Legal Assistance and Victim Advocate Services.—(1) A member of the armed forces, or a dependent of a member, who is the victim of a sexual assault may be provided the following:
 
 &emsp;(A) Legal assistance provided by military or civilian legal assistance counsel pursuant to sections 1044 and 1044e of this title.
 
@@ -44,6 +44,8 @@ State.—The term "State" includes the District of Columbia, the Commonwealth of
 
 (Added Pub. L. 112–81, div. A, title V, §581(b)(1), Dec. 31, 2011, 125 Stat. 1431; amended Pub. L. 113–66, div. A, title XVII, §1716(a)(3)(C), Dec. 26, 2013, 127 Stat. 969; Pub. L. 114–92, div. A, title V, §§534(b), 536, Nov. 25, 2015, 129 Stat. 816, 817.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (a)(3), (4). Pub. L. 114–92, §534(b), added par. (3) and redesignated former par. (3) as (4).
@@ -55,6 +57,8 @@ Subsec. (b)(3). Pub. L. 114–92, §536(a), added par. (3).
 Subsec. (c). Pub. L. 114–92, §536(c), added subsec. (c).
 
 <b>2013</b>—Subsec. (a)(1)(A). Pub. L. 113–66 substituted "sections 1044 and 1044e" for "section 1044".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Coordination of Support for Survivors of Sexual Trauma
 
@@ -96,7 +100,7 @@ Reports.—
 
 &emsp;"(1)
 
-Report on residential treatment.—Not later than 180 days after the date of the enactment of this Act, the Secretaries of Defense and Veterans Affairsshall provide a report to the appropriate committees of Congress regarding the availability of residential treatment programs for survivors of sexual trauma, including—
+Report on residential treatment.—Not later than 180 days after the date of the enactment of this Act, the Secretaries of Defense and Veterans Affairs shall provide a report to the appropriate committees of Congress regarding the availability of residential treatment programs for survivors of sexual trauma, including—
 
 &emsp;&emsp;"(A) barriers to access for such programs; and
 

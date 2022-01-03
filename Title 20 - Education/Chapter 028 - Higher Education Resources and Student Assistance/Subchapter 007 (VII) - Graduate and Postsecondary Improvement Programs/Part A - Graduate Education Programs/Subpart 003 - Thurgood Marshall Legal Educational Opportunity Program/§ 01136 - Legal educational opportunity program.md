@@ -88,6 +88,8 @@ There are authorized to be appropriated to carry out this section $5,000,000 for
 
 (Pub. L. 89–329, title VII, §721, as added Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1794; amended Pub. L. 110–315, title VII, §704(a)–(h), Aug. 14, 2008, 122 Stat. 3347, 3348; Pub. L. 111–39, title VII, §701(1), July 1, 2009, 123 Stat. 1954.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1136, Pub. L. 89–329, title XI, §1101, as added Pub. L. 102–325, title XI, §1101, July 23, 1992, 106 Stat. 784, stated findings of Congress, prior to repeal by Pub. L. 105–244, §3, title VII, §702, Oct. 7, 1998, 112 Stat. 1585, 1803, effective Oct. 1, 1998.
@@ -96,7 +98,7 @@ Another prior section 1136, Pub. L. 89–329, title XI, §1101, as added Pub. L.
 
 Another prior section 1136, Pub. L. 89–329, title XI, §1101, as added Pub. L. 96–374, title XI, §1101, Oct. 3, 1980, 94 Stat. 1491, stated Congressional findings and declaration of purpose, prior to the general amendment of subchapter XI of this chapter by Pub. L. 99–498.
 
-Another prior section 1136, Pub. L. 89–329, title XI, §1101, as added Pub. L. 90–575, title II, §281, Oct. 16, 1968, 82 Stat. 1048; amended Pub. L. 92–318, title I, §191(a), (b), June 23, 1972, 86 Stat. 323, authorized a program for grants and contracts covering the establishment of a law school clinical experiences regimen, prior to the general amendment of subchapter XI of this chapter by Pub. L. 96–374.
+Another prior section 1136, Pub. L. 89–329, title XI, §1101, as added Pub. L. 90–575, title II, §281, Oct. 16, 1968,82 Stat. 1048; amended Pub. L. 92–318, title I, §191(a), (b), June 23, 1972, 86 Stat. 323, authorized a program for grants and contracts covering the establishment of a law school clinical experiences regimen, prior to the general amendment of subchapter XI of this chapter by Pub. L. 96–374.
 
 A prior section 721 of Pub. L. 89–329 was renumbered section 341 and is classified to section 1066 of this title.
 
@@ -135,6 +137,8 @@ Subsec. (f). Pub. L. 110–315, §704(f), inserted "national and State bar assoc
 Subsec. (g). Pub. L. 110–315, §704(g), amended subsec. (g) generally. Prior to amendment, text read as follows: "The Secretary shall annually establish the maximum stipend to be paid (including allowances for participant travel and for the travel of the dependents of the participant) to Thurgood Marshall Fellows for the period of participation in summer institutes and midyear seminars. A Fellow may be eligible for such a stipend only if the Thurgood Marshall Fellow maintains satisfactory academic progress toward the Juris Doctor or Bachelor of Laws degree, as determined by the respective institutions."
 
 Subsec. (h). Pub. L. 110–315, §704(h), substituted "fiscal year 2009 and each of the five succeeding fiscal years" for "fiscal year 1999 and each of the 4 succeeding fiscal years".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

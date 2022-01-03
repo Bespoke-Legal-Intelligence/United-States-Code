@@ -10,7 +10,7 @@
 
 &emsp;The Administrator of General Services shall dispose of all distilled spirits, wines, and beer which have been delivered to him pursuant to paragraph (1)—
 
-&emsp;&emsp;(A) by delivery to such Government agencies as, in his opinion, have a need for such distilled spirits, wines, or beer for medicinal, scientific, or mechanical purposes, or for any other official purpose for which appropriated funds may be expended by a Government agency; or
+&emsp;&emsp;(A) by delivery to such Government agencies as, in his opinion, have a need for such distilled spirits, wines, or beer for medicinal, scientific, or mechanical purposes, or forany other official purpose for which appropriated funds may be expended by a Government agency; or
 
 &emsp;&emsp;(B) by gifts to such eleemosynary institutions as, in his opinion, have a need for such distilled spirits, wines, or beer for medicinal purposes; or
 
@@ -37,6 +37,8 @@ Except as provided in section 5243, all distilled spirits sold by order of court
 Notwithstanding any provisions of law relating to the return on bond of any vessel or vehicle seized for the violation of any law of the United States, the court having jurisdiction of the subject matter may, in its discretion and upon good cause shown by the United States, refuse to order such return of any such vessel or vehicle to the claimant thereof. As used in this subsection, the word "vessel" includes every description of watercraft used, or capable of being used, as a means of transportation in water or in water and air; and the word "vehicle" includes every animal and description of carriage or other contrivance used, or capable of being used, as a means of transportation on land or through the air.
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1412; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

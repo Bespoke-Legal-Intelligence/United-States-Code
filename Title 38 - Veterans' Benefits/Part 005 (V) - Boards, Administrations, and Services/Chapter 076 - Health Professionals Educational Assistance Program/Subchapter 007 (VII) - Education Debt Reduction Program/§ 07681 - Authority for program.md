@@ -96,7 +96,7 @@ Liability.—An individual who participates in the pilot program and fails to sa
 
 &emsp;"(2)
 
-Repayment period.—Any amount of damages that the United States is entitled to recover underthis subsection shall be paid to the United States not later than 1 year after the date of the breach of the agreement.
+Repayment period.—Any amount of damages that the United States is entitled to recover under this subsection shall be paid to the United States not later than 1 year after the date of the breach of the agreement.
 
 "(g)
 

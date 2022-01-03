@@ -4,9 +4,13 @@ An owner who, with notice that release is for testing only, releases possession 
 
 (Pub. L. 91–577, title III, §102, Dec. 24, 1970, 84 Stat. 1554; Pub. L. 103–349, §8(d)(2), Oct. 6, 1994, 108 Stat. 3141.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–349 inserted "or tuber propagable" after "sexually reproducible" in two places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

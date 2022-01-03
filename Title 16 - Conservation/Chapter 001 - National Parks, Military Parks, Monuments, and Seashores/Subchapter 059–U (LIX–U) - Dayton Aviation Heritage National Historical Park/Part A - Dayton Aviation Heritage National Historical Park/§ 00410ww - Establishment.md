@@ -30,6 +30,8 @@ In addition to the sites described in subsection (b), the park shall consist of 
 
 (Pub. L. 102–419, title I, §101, Oct. 16, 1992, 106 Stat. 2141; Pub. L. 106–356, §2(a), Oct. 24, 2000, 114 Stat. 1391; Pub. L. 111–11, title VII, §7117(a), Mar. 30, 2009, 123 Stat. 1204; Pub. L. 114–328, div. B, title XXVIII, §2832, Dec. 23, 2016, 130 Stat. 2740.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Subsec. (b)(5). Pub. L. 114–328 substituted "National Museum" for "Aviation Center".
@@ -45,6 +47,8 @@ In addition to the sites described in subsection (b), the park shall consist of 
 &emsp;"(3) The Wright 1905 Flyer and Wright Hall, Dayton, Ohio.
 
 &emsp;"(4) The Paul Laurence Dunbar home, Dayton, Ohio."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2000 Amendment
 

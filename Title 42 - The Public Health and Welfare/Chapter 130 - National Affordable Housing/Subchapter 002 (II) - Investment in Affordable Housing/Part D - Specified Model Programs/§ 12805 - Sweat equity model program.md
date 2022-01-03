@@ -30,6 +30,8 @@ The guidelines for the model program shall generally comport with the additional
 
 (Pub. L. 101–625, title II, §255, Nov. 28, 1990, 104 Stat. 4121.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Assistance for Self-Help Housing Providers
 
 Pub. L. 104–120, §11, Mar. 28, 1996, 110 Stat. 841, as amended by Pub. L. 105–276, title V, §599E(a), Oct. 21, 1998, 112 Stat. 2663; Pub. L. 106–569, title II, §202, Dec. 27, 2000, 114 Stat. 2951; Pub. L. 108–285, §2, Aug. 2, 2004, 118 Stat. 917; Pub. L. 114–201, title V, §502, July 29, 2016, 130 Stat. 811, provided that:
@@ -114,7 +116,7 @@ Energy Efficiency Requirements.—The Secretary may not require any dwelling dev
 
 "(h)
 
-Geographical Diversity.—In making grants under subsection (a), the Secretary shall ensure thatgrants are provided and grant amounts are used in a manner that results in national geographic diversity among housing developed using grant amounts under this section.
+Geographical Diversity.—In making grants under subsection (a), the Secretary shall ensure that grants are provided and grant amounts are used in a manner that results in national geographic diversity among housing developed using grant amounts under this section.
 
 "(i)
 
@@ -182,7 +184,7 @@ Regulations.—The Secretary shall issue any final regulations necessary to carr
 
 \[Pub. L. 105–276, title V, §599E(b), Oct. 21, 1998, 112 Stat. 2664, provided that: "Notwithstanding the amendments made by subsection (a) \[amending section 11 of Pub. L. 104–120, set out above\], any grant under section 11 of the Housing Opportunity Program Extension Act of 1996 \[Pub. L. 104–120\] (42 U.S.C. 12805 note) from amounts appropriated in fiscal year 1998 or any prior fiscal year shall be governed by the provisions of such section 11 as in effect immediately before the enactment of this Act \[Oct. 21, 1998\], except that the amendments made by paragraphs (8) and (9) of subsection (a) of this section shall apply to such grants."\]
 
-\[Pub. L. 105–276, title V, §599E(c), Oct. 21, 1998, 112 Stat. 2664, provided that: "This section \[amending section 11 of Pub. L. 104–120, set out above, and enacting provisions set out as a note above\] shall take effect, and the amendments made by this section are made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\]."\]
+\[Pub. L. 105–276, title V, §599E(c), Oct. 21, 1998, 112 Stat. 2664, provided that: "This section \[amending section 11 of Pub. L. 104–120, set out above, and enacting provisions set out as a note above\] shall take effect, and the amendments made by this section are made on,and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\]."\]
 
 #### Funding for Self-Help Housing Assistance, National Cities in Schools Community Development Program, and Capacity Building Through National Community Development Initiative
 
@@ -206,7 +208,7 @@ Self-help housing assistance.—$40,000,000 for carrying out section 11 of this 
 
 &emsp;"(2)
 
-National cities in schools community development program.—$10,000,000 for carrying out section930 of the Housing and Community Development Act of 1992 (Public Law 102–550; 106 Stat. 3887).
+National cities in schools community development program.—$10,000,000 for carrying out section 930 of the Housing and Community Development Act of 1992 (Public Law 102–550; 106 Stat. 3887).
 
 &emsp;"(3)
 

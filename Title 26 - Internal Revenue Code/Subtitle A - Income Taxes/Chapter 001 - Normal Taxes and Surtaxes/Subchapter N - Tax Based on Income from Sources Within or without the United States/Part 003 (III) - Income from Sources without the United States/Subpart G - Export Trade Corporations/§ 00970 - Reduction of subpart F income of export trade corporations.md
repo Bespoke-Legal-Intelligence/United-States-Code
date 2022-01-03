@@ -42,13 +42,15 @@
 
 #### (4) Special rule
 
-&emsp;A United States shareholder of an export trade corporation may, under regulations prescribed by the Secretary, make the determinations under paragraphs (2) and (3) as of the close of the 75th day after the close of the years referred to in such paragraphs in lieu of on the last day of such years. A United States shareholder of an export trade corporation may, under regulations prescribed by the Secretary, make the determinations under paragraphs (2) and (3) with respect to export trade assets described in section 971(c)(3) as of the close of the years following the years referred to in such paragraphs, or as of the close of such longer period of time as such regulations may permit, in lieu of on the last day of such years and in lieu of on the day prescribed in the preceding sentence. Any election under this paragraph made with respect to any taxable year shall apply to such year and to all succeeding taxable years unless the Secretary consents to the revocation of such election.
+&emsp;A United States shareholder of an export trade corporation may, under regulations prescribed by the Secretary, make the determinations under paragraphs (2) and (3) as of the close of the 75th day after the close of the years referred to in such paragraphs in lieu of on the last day of such years. A United Statesshareholder of an export trade corporation may, under regulations prescribed by the Secretary, make the determinations under paragraphs (2) and (3) with respect to export trade assets described in section 971(c)(3) as of the close of the years following the years referred to in such paragraphs, or as of the close of such longer period of time as such regulations may permit, in lieu of on the last day of such years and in lieu of on the day prescribed in the preceding sentence. Any election under this paragraph made with respect to any taxable year shall apply to such year and to all succeeding taxable years unless the Secretary consents to the revocation of such election.
 
 (Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1027; amended Pub. L. 94–455, title XIX, §§1901(b)(27)(A), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1799, 1834; Pub. L. 115–97, title I, §14212(b)(5), Dec. 22, 2017, 131 Stat. 2217.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>2017</b>—Subsec. (b). Pub. L. 115–97 struck out subsec. (b). Text read as follows: "Each United States shareholder of a controlled foreign corporation which for any prior taxable year was an export trade corporation shall include in his gross income under section 951(a)(1)(A)(ii), as an amount to which section 955 (relating to withdrawal of previously excluded subpart F income fromqualified investment) applies, his pro rata share of the amount of decrease in the investments in export trade assets of such corporation for such year, but only to the extent that his pro rata share of such amount does not exceed an amount equal to—
+<b>2017</b>—Subsec. (b). Pub. L. 115–97 struck out subsec. (b). Text read as follows: "Each United States shareholder of a controlled foreign corporation which for any prior taxable year was an export trade corporation shall include in his gross income under section 951(a)(1)(A)(ii), as an amount to which section 955 (relating to withdrawal of previously excluded subpart F income from qualified investment) applies, his pro rata share of the amount of decrease in the investments in export trade assets of such corporation for such year, but only to the extent that his pro rata share of such amount does not exceed an amount equal to—
 
 &emsp;"(1) his pro rata share of the sum of (A) the amounts by which the subpart F income of such corporation was reduced for all prior taxable years under subsection (a), and (B) the amounts not included in subpart F income (determined without regard to this subpart) for all prior taxable years by reason of the treatment (under section 972 as in effect before the date of the enactment of the Tax Reform Act of 1976) of two or more controlled foreign corporations which are export trade corporations as a single controlled foreign corporation, reduced by
 
@@ -59,6 +61,8 @@
 Subsec. (b)(1). Pub. L. 94–455, §1901(b)(27)(A), substituted "treatment (under section 972 as in effect before the date of enactment of the Tax Reform Act of 1976) of two or more controlled foreign corporations which are export trade corporations as a single controlled corporation" for "application of section 972" after "reason of the".
 
 Subsec. (c)(4). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary" in three places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 
@@ -104,7 +108,7 @@ In general.—If a corporation (hereinafter in this section called 'parent') own
 
 &emsp;"(2)
 
-Definition of untaxed subpart f income.—For purposes of this section, the term 'untaxed subpart F income' means with respect to an export trade corporation the amount by which—
+Definition of untaxed subpart f income.—For purposes of this section, the term 'untaxed subpart Fincome' means with respect to an export trade corporation the amount by which—
 
 &emsp;&emsp;"(A) the sum of the amount by which the subpart F income of such corporation was reduced for the taxable year and all prior taxable years under section 970(a) and the amounts not included in subpart F income (determined without regard to subpart G of subchapter N of chapter 1) for all prior taxable years by reason of the application of section 972, exceeds
 

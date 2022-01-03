@@ -12,7 +12,7 @@ The Secretary of Agriculture shall administer the recreation management area in 
 
 #### (c) Withdrawal
 
-Subject to valid existing rights, all lands within the recreation management area are hereby withdrawn from all forms of entry, appropriation, or disposal under the public land laws, from location, entry, and patent under the mining laws, and from disposition under the mineral and geothermal leasing laws, including all amendments thereto.
+Subject to valid existing rights, all lands within the recreation management area are herebywithdrawn from all forms of entry, appropriation, or disposal under the public land laws, from location, entry, and patent under the mining laws, and from disposition under the mineral and geothermal leasing laws, including all amendments thereto.
 
 #### (d) Timber harvesting
 
@@ -31,6 +31,8 @@ No developed campgrounds shall be constructed within the recreation management a
 Motorized travel shall be permitted within the recreation management area only on those established trails and routes existing as of July 1, 1991, on which such travel was permitted as of such date, except that other trails and routes may be used where necessary for administrative purposes or to respond to an emergency. No later than one year after August 13, 1993, the Secretary shall identify such routes and trails and shall prepare and make available to the public a map showing such routes and trails. Nothing in this subsection shall be construed as precluding the Secretary from closing any trail or route from use for purposes of resource protection or public safety.
 
 (Pub. L. 103–77, §5, Aug. 13, 1993, 107 Stat. 760.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

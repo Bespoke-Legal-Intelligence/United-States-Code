@@ -74,7 +74,7 @@ For the purposes of this chapter:
 
 #### (4) Application for protection or entering into a register of varieties
 
-&emsp;The filing of an application for the protection or for the entering of a variety in an official register of varieties, in any country, shallbe considered to render the variety a matter of common knowledge from the date of the application, if the application leads to the granting of protection or to the entering of the variety in the official register of varieties, as the case may be.
+&emsp;The filing of an application for the protection or for the entering of a variety in an official register of varieties, in any country, shall be considered to render the variety a matter of common knowledge from the date of the application, if the application leads to the granting of protection or to the entering of the varietyin the official register of varieties, as the case may be.
 
 #### (5) Distinctness
 
@@ -96,11 +96,15 @@ For the purposes of this chapter:
 
 (Pub. L. 91–577, title II, §41, Dec. 24, 1970, 84 Stat. 1546; Pub. L. 103–349, §2, Oct. 6, 1994, 108 Stat. 3136; Pub. L. 115–334, title X, §10108(a), Dec. 20, 2018, 132 Stat. 4906.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–334 added par. (1) and redesignated former pars. (1) to (9) as (2) to (10), respectively.
 
 <b>1994</b>—Pub. L. 103–349 amended section generally, substituting provisions consisting of subsecs. (a) and (b) for former provisions consisting of subsecs. (a) to (j).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

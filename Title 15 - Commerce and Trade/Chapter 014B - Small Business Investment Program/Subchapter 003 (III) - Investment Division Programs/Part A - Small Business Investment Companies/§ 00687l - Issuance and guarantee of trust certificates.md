@@ -6,7 +6,7 @@ The Administration is authorized to issue trust certificates representing owners
 
 #### (b) Terms and conditions of guarantee; payment of principal and interest
 
-The Administration is authorized, upon such terms and conditions as are deemed appropriate, to guarantee the timely payment of the principal of and interest on trust certificates issued by the Administration or its agent for purposes of this section. Such guarantee shall be limited to the extent of principal and interest on the guaranteed debentures or the redemption price of and priority payments on the participating securities, which compose the trust or pool. In the event that a debenture in such trust or pool is prepaid, or participating securities are redeemed, either voluntarily or involuntarily, or in the event of default of a debenture or voluntary or involuntary redemption of a participating security, the guarantee of timely payment of principal and interest on the trust certificates shall be reduced in proportion to the amount of principal and interest such prepaid debenture or redeemed participating security and priority payments represent in the trust or pool. Interest on prepaid or defaulted debentures, or priority payments on participating securities, shall accrue and be guaranteed by theAdministration only through the date of payment on the guarantee. During the term of the trust certificate, it may be called for redemption due to prepayment or default of all debentures or redemption, whether voluntary or involuntary, of all participating securities residing in the pool.
+The Administration is authorized, upon such terms and conditions as are deemed appropriate, to guarantee the timely payment of the principal of and interest on trust certificates issued by the Administration or its agent for purposes of this section. Such guarantee shall be limited to the extent of principal and interest on the guaranteed debentures or the redemption price of and priority payments on the participating securities, which compose the trust or pool. In the event that a debenture in such trust or pool is prepaid, or participating securities are redeemed, either voluntarily or involuntarily, or in the event of default of a debenture or voluntary or involuntary redemption of a participating security, the guarantee of timely payment of principal and interest on the trust certificates shall be reduced in proportion to the amount of principal and interest such prepaid debenture or redeemed participating security and priority payments represent in the trust or pool. Interest on prepaid or defaulted debentures, or priority payments on participating securities, shall accrue and be guaranteed by the Administration only through the date of payment on the guarantee. During the term of the trust certificate, it may be called for redemption due to prepayment or default of all debentures or redemption, whether voluntary or involuntary, of all participating securities residing in the pool.
 
 #### (c) Full faith and credit of United States
 
@@ -35,6 +35,8 @@ The Administration shall not collect a fee for any guarantee under this section:
 (5) Nothing in this subsection shall prohibit the use of a book-entry or other electronic form of registration for trust certificates.
 
 (Pub. L. 85–699, title III, §319, formerly §321, as added Pub. L. 99–272, title XVIII, §18005(a), Apr. 7, 1986, 100 Stat. 364; amended Pub. L. 101–162, title V, (5), Nov. 21, 1989, 103 Stat. 1028; Pub. L. 102–366, title IV, §404, Sept. 4, 1992, 106 Stat. 1013; renumbered §319 and amended Pub. L. 104–208, div. D, title II, §§205(b), 208(h)(1)(E), (F), Sept. 30, 1996, 110 Stat. 3009–738, 3009–747.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -73,6 +75,8 @@ Subsec. (f)(5). Pub. L. 104–208, §205(b)(2), added par. (5).
 <b>1992</b>—Pub. L. 102–366 amended section generally, in subsec. (a) authorizing issuance of trust certificates representing ownership of participating securities, in subsec. (b) inserting provisions authorizing Administration to guarantee payment of redemption price of and priority payments on participating securities, in subsec. (e)(2) including participating securities within prohibition against preclusion or limitation of Administration's ownership rights, and in subsec. (f) in par. (1) substituting provisions relating to small business investment company for provisions relating to development company and requiring prioritized payment rate to be included in central registration requirements, and in par. (2) inserting provisions relating to participating securities, contracts to carry out pooling, and maintenance of commercial bank accounts.
 
 <b>1989</b>—Subsec. (a). Pub. L. 101–162 inserted ", including companies operating under the authority of section 681(d) of this title," after "investment companies".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

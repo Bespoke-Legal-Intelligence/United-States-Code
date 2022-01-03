@@ -16,7 +16,7 @@ Authority To Lend or Donate.—(1) The Secretary of the Army, under regulations 
 
 (b)
 
-Relief From Liability.—The Secretary may relieve an eligible organization to which materials are lent or donated under subsection (a), and the surety on its bond, from liability forloss or destruction of the material lent or donated, if there is conclusive evidence that the loss or destruction did not result from negligence.
+Relief From Liability.—The Secretary may relieve an eligible organization to which materials are lent or donated under subsection (a), and the surety on its bond, from liability for loss or destruction of the material lent or donated, if there is conclusive evidence that the loss or destruction did not result from negligence.
 
 (c)
 
@@ -60,6 +60,8 @@ In subsection (a), the words "rules, limitations" and "in suitable amounts" are 
 
 In subsection (b), the words "a unit to which materials are lent under subsection (a)" are substituted for the description of the posts or camps covered. The words "the material lent" are substituted for the words "obsolete or condemned Army rifles, slings, and cartridge belts loaned by the Secretary of the Army under authority of section 62 of this title".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4683 of this title as this section.
@@ -85,6 +87,8 @@ Subsec. (b). Pub. L. 106–65, §381(c), inserted heading, substituted "an eligi
 Subsecs. (c), (d). Pub. L. 106–65, §381(b), added subsecs. (c) and (d).
 
 <b>1989</b>—Subsec. (a)(1). Pub. L. 101–189 substituted "Department of Veterans Affairs" for "Veterans' Administration".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

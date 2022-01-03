@@ -18,9 +18,11 @@ The President may exempt any contract, loan, or grant from all or part of the pr
 
 (July 14, 1955, ch. 360, title III, §306, as added Pub. L. 91–604, §12(a), Dec. 31, 1970, 84 Stat. 1707; amended Pub. L. 101–549, title VII, §705, Nov. 15, 1990, 104 Stat. 2682.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
-Subsec. (e) of this section, which required the President to annually report to Congress on measures taken toward implementing the purpose and intent of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as anote under section 1113 of Title 31, Money and Finance. See, also, the 14th item on page 20 of House Document No. 103–7.
+Subsec. (e) of this section, which required the President to annually report to Congress on measures taken toward implementing the purpose and intent of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, the 14th item on page 20 of House Document No. 103–7.
 
 Section was formerly classified to section 1857h–4 of this title.
 
@@ -34,9 +36,13 @@ Another prior section 306 of act July 14, 1955, ch. 360, title III, formerly §1
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–549 substituted "section 7413(c)" for "section 7413(c)(1)" and inserted sentences at end relating to convictions arising under section 7413(c)(2) of this title and extension of prohibition to other facilities owned by convicted persons.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Federal Acquisition Regulation: Contractor Certification or Contract Clause for Acquisition of Commercial Items
 
-Pub. L. 103–355, title VIII, §8301(g), Oct. 13, 1994, 108 Stat. 3397, as amended by Pub. L. 115–232, div. A, title VIII, §836(g)(8), Aug. 13, 2018, 132 Stat. 1874, provided that: "The Federal Acquisition Regulation may not contain a requirement for a certification by a contractor under a contract for the acquisition of commercial products or commercial services, or a requirement that such a contract include a contract clause, in order to implement a prohibition or requirement of section 306 of the Clean Air Act (42 U.S.C. 7606) or a prohibition or requirement issued in the implementation of that section, since there is nothing in such section 306 that requires such a certification or contract clause."
+Pub. L. 103–355, title VIII, §8301(g), Oct. 13, 1994, 108 Stat. 3397, as amended by Pub. L. 115–232, div. A, title VIII, §836(g)(8), Aug. 13, 2018, 132 Stat. 1874, providedthat: "The Federal Acquisition Regulation may not contain a requirement for a certification by a contractor under a contract for the acquisition of commercial products or commercial services, or a requirement that such a contract include a contract clause, in order to implement a prohibition or requirement of section 306 of the Clean Air Act (42 U.S.C. 7606) or a prohibition or requirement issued in the implementation of that section, since there is nothing in such section 306 that requires such a certification or contract clause."
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 11602
 
@@ -68,7 +74,7 @@ Sec. 7. <i>Enforcement</i>. The Administrator may recommend to the Department of
 
 Sec. 8. <i>Exemptions—Reports to Congress</i>. (a) Upon a determination that the paramount interest of the United States so requires—
 
-(1) The head of a Federal agency may exempt any contract, grant, or loan, and, following consultationwith the Administrator, any class of contracts, grants or loans from the provisions of this Order. In any such case, the head of the Federal agency granting such exemption shall (A) promptly notify the Administrator of such exemption and the justification therefor; (B) review the necessity for each such exemption annually; and (C) report to the Administrator annually all such exemptions in effect. Exemptions granted pursuant to this section shall be for a period not to exceed one year. Additional exemptions may be granted for periods not to exceed one year upon the making of a new determination by the head of the Federal agency concerned.
+(1) The head of a Federal agency may exempt any contract, grant, or loan, and, following consultation with the Administrator, any class of contracts, grants or loans from the provisions of this Order. In any such case, the head of the Federal agency granting such exemption shall (A) promptly notify the Administrator of such exemption and the justification therefor; (B) review the necessity for each such exemption annually; and (C) report to the Administrator annually all such exemptions in effect. Exemptions granted pursuant to this section shall be for a period not to exceed one year. Additional exemptions may be granted for periods not to exceed one year upon the making of a new determination by the head of the Federal agency concerned.
 
 (2) The Administrator may, by rule or regulation, exempt any or all Federal agencies from any or all of the provisions of this Order with respect to any class or classes of contracts, grants, or loans, which (A) involve less than specified dollar amounts, or (B) have a minimal potential impact upon the environment, or (C) involve persons who are not prime contractors or direct recipients of Federal assistance by way of contracts, grants, or loans.
 

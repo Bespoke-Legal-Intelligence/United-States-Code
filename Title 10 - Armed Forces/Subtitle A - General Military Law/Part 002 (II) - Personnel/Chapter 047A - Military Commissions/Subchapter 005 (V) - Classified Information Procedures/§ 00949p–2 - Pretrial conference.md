@@ -36,6 +36,8 @@ Effect of Admissions by Accused at Pretrial Conference.—No admission made by t
 
 (Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2591.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Classified Information Procedures Act, referred to in subsec. (b), is Pub. L. 96–456, Oct. 15, 1980, 94 Stat. 2025, which is set out in the Appendix to Title 18, Crimes and Criminal Procedure.

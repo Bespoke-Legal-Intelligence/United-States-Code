@@ -36,7 +36,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) The pituitary gland, pineal gland, or craniopharyngeal duct.
 
-&emsp;&emsp;&emsp;(ii) The term "listed", with respect to a primary tumor, means a primary tumorthat is listed in the International Classification of Diseases for Oncology (commonly referred to as the ICD–O).
+&emsp;&emsp;&emsp;(ii) The term "listed", with respect to a primary tumor, means a primary tumor that is listed in the International Classification of Diseases for Oncology (commonly referred to as the ICD–O).
 
 &emsp;&emsp;&emsp;(iii) The term "International Classification of Diseases for Oncology" means a classification system that includes topography (site) information and histology (cell type information) developed by the World Health Organization, in collaboration with international centers, to promote international comparability in the collection, classification, processing, and presentation of cancer statistics. The ICD–O system is a supplement to the International Statistical Classification of Diseases and Related Health Problems (commonly known as the ICD) and is the standard coding system used by cancer registries worldwide. Such term includes any modification made to such system for purposes of the United States. Such term further includes any published classification system that is internationally recognized as a successor to the classification system referred to in the first sentence of this clause.
 
@@ -76,7 +76,7 @@
 
 &emsp;&emsp;&emsp;(i) a means to assure complete reporting of cancer cases (as described in subsection (a)) to the statewide cancer registry by hospitals or other facilities providing screening, diagnostic or therapeutic services to patients with respect to cancer;
 
-&emsp;&emsp;&emsp;(ii) a means to assure the complete reporting of cancer cases (as defined in subsection (a)) to the statewide cancer registry by physicians, surgeons, and all other health care practitioners diagnosing or providing treatment for cancer patients, except for cases directly referred to or previously admitted to a hospital or other facility providing screening, diagnostic or therapeutic services to patients in that State and reported by those facilities;
+&emsp;&emsp;&emsp;(ii) a means to assure the complete reporting of cancer cases (as defined in subsection (a)) to the statewide cancer registry by physicians, surgeons, and all otherhealth care practitioners diagnosing or providing treatment for cancer patients, except for cases directly referred to or previously admitted to a hospital or other facility providing screening, diagnostic or therapeutic services to patients in that State and reported by those facilities;
 
 &emsp;&emsp;&emsp;(iii) a means for the statewide cancer registry to access all records of physicians and surgeons, hospitals, outpatient clinics, nursing homes, and all other facilities, individuals, or agencies providing such services to patients which would identify cases of cancer or would establish characteristics of the cancer, treatment of the cancer, or medical status of any identified patient;
 
@@ -114,11 +114,15 @@ In the case of a grant under subsection (a) to any State specified in subsection
 
 (July 1, 1944, ch. 373, title III, §399B, formerly §399H, as added Pub. L. 102–515, §3, Oct. 24, 1992, 106 Stat. 3372; renumbered §399B and amended Pub. L. 106–310, div. A, title V, §502(2)(A), (B), Oct. 17, 2000, 114 Stat. 1115; Pub. L. 107–260, §2(a), Oct. 29, 2002, 116 Stat. 1743.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–260 designated existing provisions as par. (1), inserted par. (1) heading, substituted "population-based, statewide registries to collect, for each condition specified in paragraph (2)(A), data" for "population-based, statewide cancer registries in order to collect, for each form of in-situ and invasive cancer (with the exception of basal cell and squamous cell carcinoma of the skin), data", redesignated former pars. (1) to (5) as subpars. (A) to (E) of par. (1), respectively, and added par. (2).
 
 <b>2000</b>—Subsec. (e). Pub. L. 106–310, §502(2)(B), substituted "subsection (b) of section 280e–3 of this title" for "section 280e–3(b) of this title" and "such section" for "section 399C".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -148,5 +152,5 @@ Findings.—Congress finds that—
 
 "(b)
 
-Purpose.—It is the purpose of this Act \[enacting this part and provisions set out as a note under section201 of this title\] to establish a national program of cancer registries."
+Purpose.—It is the purpose of this Act \[enacting this part and provisions set out as a note under section 201 of this title\] to establish a national program of cancer registries."
 

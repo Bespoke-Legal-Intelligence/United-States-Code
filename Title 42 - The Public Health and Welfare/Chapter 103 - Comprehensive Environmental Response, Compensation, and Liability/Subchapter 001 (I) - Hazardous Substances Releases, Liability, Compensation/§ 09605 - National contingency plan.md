@@ -60,7 +60,7 @@ Whenever there has been, after January 1, 1985, a significant release of hazardo
 
 #### (f) Minority contractors
 
-In awarding contracts under this chapter, the President shall consider the availability of qualified minority firms. The President shall describe, as part of any annual report submitted to the Congress under this chapter, the participation of minority firms in contracts carried out under this chapter. Such report shall contain a brief description of the contracts which have been awarded to minority firms under this chapter and of the efforts made by the President to encourage the participation of such firms in programs carried out under this chapter.
+In awarding contracts under this chapter, the President shall consider the availability ofqualified minority firms. The President shall describe, as part of any annual report submitted to the Congress under this chapter, the participation of minority firms in contracts carried out under this chapter. Such report shall contain a brief description of the contracts which have been awarded to minority firms under this chapter and of the efforts made by the President to encourage the participation of such firms in programs carried out under this chapter.
 
 #### (g) Special study wastes
 
@@ -108,7 +108,7 @@ In awarding contracts under this chapter, the President shall consider the avail
 
 #### (3) Cleanup agreements
 
-&emsp;With respect to an eligible response site under paragraph (1)(B), if, after the last day of the 1-year period beginning on the date on which the President proposes to list the eligible response site on the National PrioritiesList, an agreement described in paragraph (1)(B) has not been reached, the President may defer the listing of the eligible response site on the National Priorities List for an additional period of not to exceed 180 days if the President determines deferring the listing would be appropriate based on—
+&emsp;With respect to an eligible response site under paragraph (1)(B), if, after the last day of the 1-year period beginning on the date on which the President proposes to list the eligible response site on the National Priorities List, an agreement described in paragraph (1)(B) has not been reached, the President may defer the listing of the eligible response site on the National Priorities List for an additional period of not to exceed 180 days if the President determines deferring the listing would be appropriate based on—
 
 &emsp;&emsp;(A) the complexity of the site;
 
@@ -127,6 +127,8 @@ In awarding contracts under this chapter, the President shall consider the avail
 &emsp;&emsp;(C) the conditions in paragraphs (1) through (3), as applicable, are no longer being met.
 
 (Pub. L. 96–510, title I, §105, Dec. 11, 1980, 94 Stat. 2779; Pub. L. 99–499, title I, §105, Oct. 17, 1986, 100 Stat. 1625; Pub. L. 107–118, title II, §232, Jan. 11, 2002, 115 Stat. 2379.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

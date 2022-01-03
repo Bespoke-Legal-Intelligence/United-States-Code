@@ -66,7 +66,7 @@
 
 In carrying out this section, the Secretary shall, to the maximum extent practicable—
 
-&emsp;(1) facilitate the transfer of farms and ranches from retiring farmers and ranchers topersons eligible for insured loans under this subchapter;
+&emsp;(1) facilitate the transfer of farms and ranches from retiring farmers and ranchers to persons eligible for insured loans under this subchapter;
 
 &emsp;(2) make efforts to widely publicize the availability of loans under this section among—
 
@@ -100,6 +100,8 @@ In this section, the term "eligible farmer or rancher" means—
 
 (Pub. L. 87–128, title III, §310E, as added Pub. L. 102–554, §7(a), Oct. 28, 1992, 106 Stat. 4144; amended Pub. L. 107–171, title V, §5005, May 13, 2002, 116 Stat. 342; Pub. L. 110–234, title V, §5004, May 22, 2008, 122 Stat. 1144; Pub. L. 110–246, §4(a), title V, §5004, June 18, 2008, 122 Stat. 1664, 1905; Pub. L. 113–79, title V, §5005, Feb. 7, 2014, 128 Stat. 834; Pub. L. 115–334, title XII, §12306(c), Dec. 20, 2018, 132 Stat. 4969.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -124,7 +126,7 @@ Subsec. (b)(2). Pub. L. 113–79, §5005(b), struck out second par. (2) which re
 
 <b>2008</b>—Subsec. (a)(1). Pub. L. 110–246, §5004(1), substituted "or ranchers and socially disadvantaged farmers or ranchers" for "and ranchers".
 
-Subsec. (b)(1), (2). Pub. L. 110–246, §5004(2)(A), added par. (1) and par. (2) consisting of subpars. (A) and (B) and struck out former par. (1). Prior to amendment, text of par. (1) read as follows: "Each loan made under this section shall be in an amount equal to 40 percent of the purchase price or appraisal value, whichever is lower, of the farm or ranch to be acquired, unless the borrower requests a lesser amount."
+Subsec. (b)(1), (2). Pub. L. 110–246, §5004(2)(A), added par. (1) and par. (2) consisting of subpars. (A) and (B) and struck out former par. (1). Prior to amendment,text of par. (1) read as follows: "Each loan made under this section shall be in an amount equal to 40 percent of the purchase price or appraisal value, whichever is lower, of the farm or ranch to be acquired, unless the borrower requests a lesser amount."
 
 Subsec. (b)(3). Pub. L. 110–246, §5004(2)(B), substituted "20" for "15".
 
@@ -147,6 +149,8 @@ Subsec. (e). Pub. L. 110–246, §5004(5), added subsec. (e).
 Subsec. (b)(3). Pub. L. 107–171, §5005(1)(B), substituted "15 years" for "10 years".
 
 Subsec. (c)(3)(B). Pub. L. 107–171, §5005(2), substituted "15-year" for "10-year".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

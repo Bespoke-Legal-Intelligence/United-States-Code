@@ -30,7 +30,7 @@ Oct. 26, 1970, Pub. L. 91–510, §§207, 236, 84 Stat. 1168, 1171.
 
 In subsection (a), the words "As used . . . the term", "Federal", and "establishment" are omitted as surplus. The words in parentheses are included for consistency with section 101 of the revised title.
 
-In subsection (b), before clause (1), the words "Comptroller General" are substituted for "General Accounting Office", and the words "head of the" are added, forconsistency. The word "written" is omitted as surplus. In clause (1), the words "Governmental Affairs of the Senate" are substituted for "Government Operations of the . . . Senate" because of Rule 25.1(k) of the Standing Rules of the Senate (S. Doc. 96–1, 96th Cong., 1st Sess.). In clause (2), the words "both Houses of Congress" are substituted for "the House of Representatives and the Senate" for consistency. The words "connection with", "for that agency", and "to the Congress" are omitted as surplus.
+In subsection (b), before clause (1), the words "Comptroller General" are substituted for "General Accounting Office", and the words "head of the" are added, for consistency. The word "written" is omitted as surplus. In clause (1), the words "Governmental Affairs of the Senate" are substituted for "Government Operations of the . . . Senate" because of Rule 25.1(k) of the Standing Rules of the Senate (S. Doc. 96–1, 96th Cong., 1st Sess.). In clause (2), the words "both Houses of Congress" are substituted for "the House of Representatives and the Senate" for consistency. The words "connection with", "for that agency", and "to the Congress" are omitted as surplus.
 
 #### <b>Editorial Notes</b>
 

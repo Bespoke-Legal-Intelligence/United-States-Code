@@ -28,6 +28,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283, div. A, title IV, §403(b), Jan. 1, 2021, 134 Stat. 3556, added item 517 and struck out former item 517 "Authorized daily average: members in pay grades E–8 and E–9".

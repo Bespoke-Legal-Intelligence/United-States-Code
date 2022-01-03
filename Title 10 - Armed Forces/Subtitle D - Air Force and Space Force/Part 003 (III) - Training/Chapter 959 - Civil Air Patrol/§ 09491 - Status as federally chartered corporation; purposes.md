@@ -12,11 +12,15 @@ Purposes.—The purposes of the Civil Air Patrol are set forth in section 40302 
 
 (Added Pub. L. 106–398, §1 \[\[div. A\], title X, §1090(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–295, §9441; renumbered §9491 and amended Pub. L. 115–232, div. A, title VIII, §§806(a)(1), 809(a), Aug. 13, 2018, 132 Stat. 1832, 1840.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232, §806(a)(1), renumbered section 9441 of this title as this section.
 
 Subsec. (a)(2). Pub. L. 115–232, §809(a), substituted "section 9492(b)(2)" for "section 9442(b)(2)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Immunity
 
-A provider or user of Next Generation 9–1–1 services, a public safety answering point, and the officers, directors, employees, vendors, agents, and authorizing government entity (if any) of such provider, user, or public safety answering point, shall have immunity and protection from liability under Federal and State lawto the extent provided in subsection (b) with respect to—
+A provider or user of Next Generation 9–1–1 services, a public safety answering point, and the officers, directors, employees, vendors, agents, and authorizing government entity (if any) of such provider, user, or public safety answering point, shall have immunity and protection from liability under Federal and State law to the extent provided in subsection (b) with respect to—
 
 &emsp;(1) the release of subscriber information related to emergency calls or emergency services;
 

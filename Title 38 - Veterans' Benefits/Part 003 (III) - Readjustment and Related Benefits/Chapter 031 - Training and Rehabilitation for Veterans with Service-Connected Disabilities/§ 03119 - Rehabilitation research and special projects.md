@@ -2,7 +2,7 @@
 
 (a) The Secretary shall carry out an ongoing program of activities for the purpose of advancing the knowledge, methods, techniques, and resources available for use in rehabilitation programs for veterans. For this purpose, the Secretary shall conduct and provide support for the development or conduct, or both the development and conduct, of—
 
-&emsp;(1) studies and research concerning the psychological, educational, employment, social,vocational, industrial, and economic aspects of the rehabilitation of disabled veterans, including new methods of rehabilitation; and
+&emsp;(1) studies and research concerning the psychological, educational, employment, social, vocational, industrial, and economic aspects of the rehabilitation of disabled veterans, including new methods of rehabilitation; and
 
 &emsp;(2) projects which are designed to increase the resources and potential for accomplishing the rehabilitation of disabled veterans.
 

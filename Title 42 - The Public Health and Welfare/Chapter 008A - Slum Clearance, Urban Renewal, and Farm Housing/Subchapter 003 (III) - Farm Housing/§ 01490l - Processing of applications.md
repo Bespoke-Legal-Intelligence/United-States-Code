@@ -44,6 +44,8 @@ In making available the assistance authorized by section 1483 of this title and 
 
 (July 15, 1949, ch. 338, title V, §532, as added Pub. L. 98–181, title I \[title V, §521\], Nov. 30, 1983, 97 Stat. 1250; amended Pub. L. 104–180, title VII, §734(f), Aug. 6, 1996, 110 Stat. 1604.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–180, §734(f)(1), substituted "Except as otherwise provided in subsection (c), the Secretary" for "The Secretary" in introductory provisions.

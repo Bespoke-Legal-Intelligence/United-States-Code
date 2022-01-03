@@ -14,11 +14,11 @@ There is hereby established an independent establishment in the executive branch
 
 (4) The President shall enter into an arrangement with the National Academy of Sciences under which the National Academy shall maintain a list of individuals who meet the qualifications described in paragraph (1) to assist the President in selecting individuals to nominate for positions as members of the Board.
 
-#### (c) Chairman, Vice Chairman, and members
+#### (c) Chairperson, Vice Chairperson, and members
 
-(1) The President shall designate a Chairman and Vice Chairman of the Board from among members of the Board.
+(1) The President shall designate a Chairperson and Vice Chairperson of the Board from among members of the Board.
 
-(2) In accordance with paragraphs (5) and (6), the Chairman shall be the chief executive officer of the Board and, subject to such policies as the Board may establish, shall exercise the functions of the Board with respect to—
+(2) In accordance with paragraphs (5) and (6), the Chairperson shall be the chief executive officer of the Board and, subject to such policies as the Board may establish, shall exercise the functions of the Board with respect to—
 
 &emsp;(A) the appointment and supervision of employees of the Board;
 
@@ -26,9 +26,9 @@ There is hereby established an independent establishment in the executive branch
 
 &emsp;(C) the use and expenditure of funds.
 
-(3)(A) The Chairman may delegate any of the functions under this paragraph to any othermember or to any appropriate officer of the Board.
+(3)(A) The Chairperson may delegate any of the functions under this paragraph to any other member or to any appropriate officer of the Board.
 
-(B) In carrying out subparagraph (A), the Chairman shall delegate to the Executive Director of Operations established under section 2286b(b)(3) of this title the following functions:
+(B) In carrying out subparagraph (A), the Chairperson shall delegate to the Executive Director of Operations established under section 2286b(b)(3) of this title the following functions:
 
 &emsp;(i) Administrative functions of the Board.
 
@@ -44,9 +44,9 @@ There is hereby established an independent establishment in the executive branch
 
 &emsp;&emsp;(III) the proposed distribution of funds according to purposes approved by the Board.
 
-(4) The Vice Chairman shall act as Chairman in the event of the absence or incapacity of the Chairman or in case of a vacancy in the office of Chairman.
+(4) The Vice Chairperson shall act as Chairperson in the event of the absence or incapacity of the Chairperson or in case of a vacancy in the office of Chairperson.
 
-(5) Each member of the Board, including the Chairman and Vice Chairman, shall—
+(5) Each member of the Board, including the Chairperson and Vice Chairperson, shall—
 
 &emsp;(A) have equal responsibility and authority in establishing decisions and determining actions of the Board;
 
@@ -54,9 +54,9 @@ There is hereby established an independent establishment in the executive branch
 
 &emsp;(C) have one vote.
 
-(6)(A) The Chairman, subject to the approval of the Board, shall appoint the senior employees described in subparagraph (C). Any member of the Board may propose to the Chairman an individual to be so appointed.
+(6)(A) The Chairperson, subject to the approval of the Board, shall appoint the senior employees described in subparagraph (C). Any member of the Board may propose to the Chairperson an individual to be so appointed.
 
-(B) The Chairman, subject to the approval of the Board, may remove a senior employee described in subparagraph (C). Any member of the Board may propose to the Chairman an individual to be so removed.
+(B) The Chairperson, subject to the approval of the Board, may remove a senior employee described in subparagraph (C). Any member of the Board may propose to the Chairperson an individual to be so removed.
 
 (C) The senior employees described in this subparagraph are the following senior employees of the Board:
 
@@ -96,15 +96,19 @@ There is hereby established an independent establishment in the executive branch
 
 &emsp;&emsp;(II) a plan for submitting such a nomination during the 90-day period following the submission of the report.
 
-(B) If the President does not submit to the Senate the nomination of an individual to fill a vacancy during the 90-day period described in subclause (II) of subparagraph (A)(ii), the President shall submit to the Committee on Armed Services a report described in that subparagraph not less frequently than every 90 days until the President submits such a nomination.
+(B) If the President does not submit to the Senate the nomination of an individual to fill a vacancy during the 90-day period described in subclause (II) of subparagraph (A)(ii), the President shall submit to the Committee on Armed Services a report described in that subparagraphnot less frequently than every 90 days until the President submits such a nomination.
 
 #### (e) Quorum
 
 Three members of the Board shall constitute a quorum, but a lesser number may hold hearings.
 
-(Aug. 1, 1946, ch. 724, title I, §311, as added Pub. L. 100–456, div. A, title XIV, §1441(a)(1), Sept. 29, 1988, 102 Stat. 2076; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; amended Pub. L. 112–239, div. C, title XXXII, §3202(a), Jan. 2, 2013, 126 Stat. 2217; Pub. L. 114–92, div. C, title XXXII, §3202(a), (b)(1), Nov. 25, 2015, 129 Stat. 1217; Pub. L. 116–92, div. C, title XXXII, §3202(a)(1)(B)–(3), §3203(a), (b)(1), (c), Dec. 20, 2019, 133 Stat. 1964, 1966.)
+(Aug. 1, 1946, ch. 724, title I, §311, as added Pub. L. 100–456, div. A, title XIV, §1441(a)(1), Sept. 29, 1988, 102 Stat. 2076; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; amended Pub. L. 112–239, div. C, title XXXII, §3202(a), Jan. 2, 2013, 126 Stat. 2217; Pub. L. 114–92, div. C, title XXXII, §3202(a), (b)(1), Nov. 25, 2015, 129 Stat. 1217; Pub. L. 116–92, div. C, title XXXII, §3202(a)(1)(B)–(3), §3203(a), (b)(1), (c), Dec. 20, 2019, 133 Stat. 1964, 1966; Pub. L. 117–81, div. C, title XXXII, §3202, Dec. 27, 2021, 135 Stat. 2235.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (c). Pub. L. 117–81 substituted "Chairperson, Vice Chairperson" for "Chairman, Vice Chairman" in heading and "Chairperson" for "Chairman" wherever appearing.
 
 <b>2019</b>—Subsec. (b)(4). Pub. L. 116–92, §3203(a), added par. (4).
 
@@ -150,6 +154,8 @@ Subsec. (c)(2). Pub. L. 112–239, §3202(a)(2)(B), substituted "In accordance w
 
 Subsec. (c)(5). Pub. L. 112–239, §3202(a)(2)(C), added par. (5).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2019 Amendment
 
 Pub. L. 116–92, div. C, title XXXII, §3203(b)(2), Dec. 20, 2019, 133 Stat. 1966, provided that: "The amendments made by paragraph (1) \[amending this section\] shall take effect on the date that is one year after the date of the enactment of this Act \[Dec. 20, 2019\]."
@@ -174,7 +180,7 @@ Reporting Requirement.—The Defense Nuclear Facilities Safety Board (in this se
 
 &emsp;"(4) An assessment of the relative advantages and disadvantages to the Department and the public of continuing the functions of the Board with respect to Department of Energy defense nuclear facilities and replacing the activities of the Board with external regulation of such facilities.
 
-&emsp;"(5) A list of all existing or planned Department of Energy defense nuclear facilities that are similar to facilities under the regulatory jurisdiction of the Nuclear Regulatory Commission.
+&emsp;"(5) A list of all existing or planned Department of Energy defense nuclear facilities that are similar tofacilities under the regulatory jurisdiction of the Nuclear Regulatory Commission.
 
 &emsp;"(6) A list of all Department of Energy defense nuclear facilities that are in compliance with all applicable Department of Energy orders, regulations, and requirements relating to the design, construction, operation, and decommissioning of defense nuclear facilities.
 
@@ -202,7 +208,7 @@ Reporting Requirement.—The Defense Nuclear Facilities Safety Board (in this se
 
 &emsp;"(15) An assessment of the comparative advantages and disadvantages to the Department of Energy in the event some or all Department of Energy defense nuclear facilities were no longer included in the functions of the Board and were regulated by the Nuclear Regulatory Commission.
 
-&emsp;"(16) A comparison of the cost, as identified by the Nuclear Regulatory Commission, that would be incurred at a gaseous diffusion plant to comply with regulations issued by the Nuclear Regulatory Commission, with the cost that would be incurred by agaseous diffusion plant if such a plant was considered to be a Department of Energy defense nuclear facility as defined by chapter 21 of the Atomic Energy Act of 1954 (42 U.S.C. 2286 et seq.).
+&emsp;"(16) A comparison of the cost, as identified by the Nuclear Regulatory Commission, that would be incurred at a gaseous diffusion plant to comply with regulations issued by the Nuclear Regulatory Commission, with the cost that would be incurred by a gaseous diffusion plant if such a plant was considered to be a Department of Energy defense nuclear facility as defined by chapter 21 of the Atomic Energy Act of 1954 (42 U.S.C. 2286 et seq.).
 
 "(b)
 

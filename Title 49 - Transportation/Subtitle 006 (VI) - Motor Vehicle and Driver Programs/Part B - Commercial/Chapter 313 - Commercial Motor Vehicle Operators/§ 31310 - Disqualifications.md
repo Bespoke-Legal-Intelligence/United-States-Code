@@ -6,7 +6,7 @@ Blood Alcohol Concentration Level.—In this section, the blood alcohol concentr
 
 (b)
 
-First Violation or Committing Felony.—(1) Except as provided in paragraph (2) of this subsection and subsection (c) of this section, the Secretary of Transportation shall disqualifyfrom operating a commercial motor vehicle for at least one year an individual—
+First Violation or Committing Felony.—(1) Except as provided in paragraph (2) of this subsection and subsection (c) of this section, the Secretary of Transportation shall disqualify from operating a commercial motor vehicle for at least one year an individual—
 
 &emsp;(A) committing a first violation of driving a commercial motor vehicle under the influence of alcohol or a controlled substance;
 
@@ -82,7 +82,7 @@ Issuance of regulations.—The Secretary shall issue regulations providing for t
 
 &emsp;(2)
 
-Requirements for regulations.—Regulations issued under paragraph (1) shall establish the minimum periods for which the disqualifications shall be in effect, but in no case shall the time periods for disqualification for noncommercial motor vehicle violations be more stringent than those for offenses or violations involving a commercial motor vehicle. The Secretary shall determine such periodsbased on the seriousness of the offenses on which the convictions are based.
+Requirements for regulations.—Regulations issued under paragraph (1) shall establish the minimum periods for which the disqualifications shall be in effect, but in no case shall the time periods for disqualification for noncommercial motor vehicle violations be more stringent than those for offenses or violations involving a commercial motor vehicle. The Secretary shall determine such periods based on the seriousness of the offenses on which the convictions are based.
 
 (h)
 
@@ -182,6 +182,8 @@ In subsection (g)(1)(A), the words "Not later than 1 year after October 27, 1986
 
 In subsection (g)(2), before clause (A), the words "Not later than December 18, 1992, the Secretary shall prescribe regulations" are substituted for "The Secretary shall issue regulations" and 49 App.:2718(c) to eliminate executed words. The word "individuals" is substituted for "persons" for clarity and consistency in the revised title and with other titles of the United States Code. In clause (C), the words "permits, authorizes" are omitted as being included in "allows".
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Paragraph (9) of section 103 of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7102(9)), referred to in subsec. (d)(2), was redesignated par. (11) of section 103 of that Act by Pub. L. 115–427, §2(1), Jan. 9, 2019, 132 Stat. 5503, and is classified to section 7102(11) of Title 22, Foreign Relations and Intercourse.
@@ -192,7 +194,7 @@ Paragraph (9) of section 103 of the Trafficking Victims Protection Act of 2000 (
 
 <b>2012</b>—Subsec. (f). Pub. L. 112–141, §32507, inserted "section 521 or" before "section 5102" in pars. (1) and (2).
 
-Subsec. (g)(1). Pub. L. 112–141, §32931(d), which directed substitution of "The" for "Not later than 1 yearafter the date of enactment of this Act, the", was executed by making the substitution for "Not later than 1 year after the date of the enactment of this Act, the", to reflect the probable intent of Congress.
+Subsec. (g)(1). Pub. L. 112–141, §32931(d), which directed substitution of "The" for "Not later than 1 year after the date of enactment of this Act, the", was executed by making the substitution for "Not later than 1 year after the date of the enactment of this Act, the", to reflect the probable intent of Congress.
 
 Subsec. (k). Pub. L. 112–141, §32204, added subsec. (k).
 
@@ -220,6 +222,8 @@ Subsecs. (i), (j). Pub. L. 106–159, §201(b)(1), redesignated subsecs. (g) and
 
 <b>1995</b>—Subsec. (h). Pub. L. 104–88 added subsec. (h).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2012 Amendment
 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
@@ -230,7 +234,7 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 #### Regulations
 
-Pub. L. 104–88, title IV, §403(b), Dec. 29, 1995, 109 Stat. 956, provided that: "The initial regulations required under section 31310(h) of title 49, United States Code, shall be issued not later than 1 year after the date of the enactment of this Act \[Dec. 29, 1995\]."
+Pub. L. 104–88, title IV, §403(b), Dec. 29, 1995, 109 Stat. 956, provided that: "The initial regulations requiredunder section 31310(h) of title 49, United States Code, shall be issued not later than 1 year after the date of the enactment of this Act \[Dec. 29, 1995\]."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

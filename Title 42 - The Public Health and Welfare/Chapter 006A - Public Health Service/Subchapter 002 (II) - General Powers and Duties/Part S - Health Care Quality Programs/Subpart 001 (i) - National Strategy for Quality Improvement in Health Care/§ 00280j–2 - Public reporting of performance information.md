@@ -12,7 +12,7 @@ The performance information made publicly available on an Internet website, as d
 
 #### (1) In general
 
-&emsp;In carrying out this section, the Secretary shall consult with the entity with a contract under section 1890(a) of the Social Security Act \[42 U.S.C. 1395aaa(a)\], and other entities, as appropriate, to determine the type of information that is useful to stakeholders and the format that best facilitates use of the reports and of performance reporting Internet websites.
+&emsp;In carrying out this section, the Secretary shall consult with the entity with a contractunder section 1890(a) of the Social Security Act \[42 U.S.C. 1395aaa(a)\], and other entities, as appropriate, to determine the type of information that is useful to stakeholders and the format that best facilitates use of the reports and of performance reporting Internet websites.
 
 #### (2) Consultation with stakeholders
 
@@ -27,6 +27,8 @@ Where appropriate, the Secretary shall coordinate the manner in which data are p
 To carry out this section, there are authorized to be appropriated such sums as may be necessary for fiscal years 2010 through 2014.
 
 (July 1, 1944, ch. 373, title III, §399JJ, as added Pub. L. 111–148, title III, §3015, Mar. 23, 2010, 124 Stat. 388.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -40,6 +40,8 @@ Whenever a mistake has been made in a registration and a showing has been made t
 
 (July 5, 1946, ch. 540, title I, §7, 60 Stat. 430; Aug. 17, 1950, ch. 733, 64 Stat. 459; Pub. L. 87–772, §4, Oct. 9, 1962, 76 Stat. 769; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 100–667, title I, §109, Nov. 16, 1988, 102 Stat. 3938; Pub. L. 105–330, title II, §201(a)(3), Oct. 30, 1998, 112 Stat. 3070; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 111–146, §3(a), Mar. 17, 2010, 124 Stat. 66.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Subsecs. (a) and (c) are from acts Feb. 20, 1905, ch. 592, §11, 33 Stat. 727; Mar. 4, 1925, ch. 535, §3, 43 Stat. 1269.
@@ -66,7 +68,7 @@ Subsec. (g). Pub. L. 111–146, §3(a)(4), amended subsec. (g) generally. Prior 
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–330 struck out second period at end of first sentence.
 
-<b>1988</b>—Subsec. (b). Pub. L. 100–667, §109(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "A certificate of registration of a mark upon the principal register provided by this chapter shall be prima facie evidence of the validity of the registration, registrant's ownership of the mark, and ofregistrant's exclusive right to use the mark in commerce in connection with the goods or services specified in the certificate, subject to any conditions and limitations stated therein."
+<b>1988</b>—Subsec. (b). Pub. L. 100–667, §109(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "A certificate of registration of a mark upon the principal register provided by this chapter shall be prima facie evidence of the validity of the registration, registrant's ownership of the mark, and of registrant's exclusive right to use the mark in commerce in connection with the goods or services specified in the certificate, subject to any conditions and limitations stated therein."
 
 Subsec. (c). Pub. L. 100–667, §109(3), added subsec. (c). Former subsec. (c) redesignated (d).
 
@@ -92,6 +94,8 @@ Subsec. (f). Pub. L. 87–772, among other changes, struck out ", signed by the
 
 <b>1950</b>—Subsec. (a). Act Aug. 17, 1950, made it unnecessary to include in the certificate a statement of the applicant.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1999 Amendment
 
 Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
@@ -111,6 +115,8 @@ Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 9
 #### Repeal and Effect on Existing Rights
 
 Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrations and rights under prior acts, see notes set out under section 1051 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

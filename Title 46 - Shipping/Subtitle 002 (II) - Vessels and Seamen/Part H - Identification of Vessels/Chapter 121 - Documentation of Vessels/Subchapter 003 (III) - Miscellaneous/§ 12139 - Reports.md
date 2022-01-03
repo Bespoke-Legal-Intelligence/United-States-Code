@@ -18,13 +18,13 @@ Tonnage.—The tonnage referred to in paragraph (1) is—
 
 &emsp;&emsp;(A) 500 gross tons as measured under section 14502 of this title; or
 
-&emsp;&emsp;(B) an alternate tonnage as measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title.
+&emsp;&emsp;(B) an alternate tonnage as measured under section 14302 of this title as prescribedby the Secretary under section 14104 of this title.
 
 &emsp;(3)
 
 Timing of submission.—If the rebuilding is completed in the United States, the report shall be submitted when the rebuilding is completed. If the rebuilding is completed outside the United States, the report shall be submitted when the vessel first arrives at a port in the customs territory of the United States.
 
-(Pub. L. 109–304, §5, Oct. 6, 2006, 120 Stat. 1507; Pub. L. 109–241, title III, §308, July 11, 2006, 120Stat. 528; Pub. L. 110–181, div. C, title XXXV, §3525(a)(2), (b), Jan. 28, 2008, 122 Stat. 600, 601.)
+(Pub. L. 109–304, §5, Oct. 6, 2006, 120 Stat. 1507; Pub. L. 109–241, title III, §308, July 11, 2006, 120 Stat. 528; Pub. L. 110–181, div. C, title XXXV, §3525(a)(2), (b), Jan. 28, 2008, 122 Stat. 600, 601.)
 
 Historical and Revision Notes
 

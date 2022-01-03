@@ -20,11 +20,15 @@ Mar. 3, 1899, ch. 413, §19, 30 Stat. 1008; Mar. 3, 1903, ch. 1010, 32 Stat. 119
 
 The words "from other persons" are substituted for the words "from civil life" because 34 U.S.C. 1020e authorizes the appointment of graduates of the NROTC program as well as of other persons in civil life. Such graduates are, properly, persons in "civil life", since they are members of the Naval Reserve who are not on active duty. However, since the status of members of the NROTC is not always clear, the statement of the class is expanded.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 5585 of this title as this section.
 
 <b>1980</b>—Pub. L. 96–513 substituted "active-duty list" for "active list".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

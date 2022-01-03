@@ -110,7 +110,7 @@ In this section, the term "eligible institution" means an institution of higher 
 
 #### (1) Authorization
 
-&emsp;An eligible institution that receives a grant under this section shall use the grant funds tomake fellowship awards to minorities and women who are enrolled at such institution in a doctoral degree program, or program for the highest possible degree available, and—
+&emsp;An eligible institution that receives a grant under this section shall use the grant funds to make fellowship awards to minorities and women who are enrolled at such institution in a doctoral degree program, or program for the highest possible degree available, and—
 
 &emsp;&emsp;(A) intend to pursue a career in instruction at—
 

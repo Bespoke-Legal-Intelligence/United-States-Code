@@ -60,9 +60,13 @@
 
 (June 17, 1930, ch. 497, title IV, §592A, as added Pub. L. 103–465, title III, §333, Dec. 8, 1994, 108 Stat. 4947; amended Pub. L. 104–295, §20(c)(3), Oct. 11, 1996, 110 Stat. 3528.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (a)(3). Pub. L. 104–295 substituted "list under paragraph (1)" for "list under paragraph (2)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

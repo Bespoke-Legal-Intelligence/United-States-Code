@@ -154,7 +154,7 @@ From the amounts appropriated under subsection (i), the Secretary is authorized 
 
 &emsp;&emsp;(C) Learning communities that ensure that students participating in the program are clustered together for at least two courses beginning in the first semester after enrolling and have other opportunities to create and maintain bonds that allow them to provide academic and social support to each other.
 
-&emsp;&emsp;(D) Curricular redesign, which may include such innovations as blended or accelerated remediation classes that help student success grant recipients to attain college-level reading, writing, or math skills (or a combination thereof) more rapidly than traditional remediation formats allow, and intensive skills refresher classes, offered prior to each semester, to help students who have tested into remedial coursework to reach entry level assessment scores for the postsecondary programs they wish to enter.
+&emsp;&emsp;(D) Curricular redesign, which may include such innovations as blended or accelerated remediation classes that help student success grant recipients to attain college-level reading, writing, or math skills (or a combination thereof) more rapidly than traditional remediation formats allow, and intensive skills refresher classes, offered prior to each semester, to help students who have tested into remedial coursework to reachentry level assessment scores for the postsecondary programs they wish to enter.
 
 &emsp;&emsp;(E) Instructional support, such as learning labs, supplemental instruction, and tutoring.
 
@@ -218,6 +218,8 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 (Pub. L. 89–329, title VIII, §820, as added Pub. L. 110–315, title VIII, §801, Aug. 14, 2008, 122 Stat. 3404; amended Pub. L. 111–39, title VIII, §801(5), July 1, 2009, 123 Stat. 1955.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2009</b>—Subsec. (d)(5). Pub. L. 111–39, §801(5)(A), inserted "the" before "grant".
@@ -225,6 +227,8 @@ There are authorized to be appropriated to carry out this section such sums as m
 Subsec. (f)(2). Pub. L. 111–39, §801(5)(B), substituted "section" for "subpart" in two places.
 
 Subsec. (h). Pub. L. 111–39, §801(5)(C), substituted "used" for "use".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

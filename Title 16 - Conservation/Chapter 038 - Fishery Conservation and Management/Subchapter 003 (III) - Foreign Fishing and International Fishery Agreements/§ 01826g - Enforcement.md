@@ -60,7 +60,7 @@ This section applies to—
 
 &emsp;&emsp;&emsp;&emsp;(IV) to assist in any investigative, judicial, or administrative enforcement proceeding in the United States; or
 
-&emsp;&emsp;&emsp;&emsp;(V) to assist in any law enforcement action undertaken by a law enforcement agency of a foreign government, or in relation to a legal proceeding undertaken by a foreign government to the extent the enforcement action is consistent with rules and regulations of a regional fisheries management organization (as that term is defined by the United Nation's <sup>1</sup> Food and Agriculture Organization Agreement on Port State Measures to Prevent, Deter and Eliminate Illegal, Unreported and Unregulated Fishing) of which the United States is a member, or the Secretary has determined that the enforcement action is consistent with the requirements under Federal law for enforcement actions with respect to illegal, unreported, and unregulated fishing.
+&emsp;&emsp;&emsp;&emsp;(V) to assist in any law enforcement action undertaken by a law enforcement agency of a foreign government, or in relation to a legal proceeding undertaken by a foreign government to the extent the enforcement action is consistent with rules and regulations of a regional fisheries management organization (as that term is defined by the United Nation's <sup>1</sup> Food and Agriculture Organization Agreement on Port State Measures to Prevent, Deter and Eliminate Illegal, Unreported and Unregulated Fishing) of which the United States is a member, or the Secretary has determined that the enforcement action is consistent with the requirements under Federal law forenforcement actions with respect to illegal, unreported, and unregulated fishing.
 
 #### (B) Data confidentiality provisions not applicable
 
@@ -104,6 +104,8 @@ The President shall utilize appropriate assets of the Department of Defense, the
 
 (Pub. L. 104–43, title VI, §606, Nov. 3, 1995, 109 Stat. 392; Pub. L. 114–81, title I, §101(a)(1), Nov. 5, 2015, 129 Stat. 650; Pub. L. 114–327, title IV, §401(a), Dec. 16, 2016, 130 Stat. 1994.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsecs. (a), (c)(1), (d)(2)(B), and (e)(1), (2), and (6), probably means title VI of Pub. L. 104–43, Nov. 3, 1995, 109 Stat. 391, known as the High Seas Driftnet Fishing Moratorium Protection Act, which is classified generally to sections 1826d to 1826k of this title. For complete classification of title VI to the Code, see Short Title of 1995 Amendment note set out under section 1801 of this title and Tables.
@@ -122,7 +124,7 @@ The Northwest Atlantic Fisheries Convention Act of 1995, referred to in subsec. 
 
 The Western and Central Pacific Fisheries Convention Implementation Act, referred to in subsecs. (b)(7) and (d)(2)(A), is Pub. L. 109–479, title V, Jan. 12, 2007, 120 Stat. 3635, which is classified generally to chapter 88 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
-The Antigua Convention Implementing Act of 2015, referred to in subsec. (b)(8), is Pub. L. 114–81, title II, Nov. 5, 2015, 129 Stat. 660. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note set out under section 951 of this title and Tables.
+The Antigua Convention Implementing Act of 2015, referred to in subsec. (b)(8), is Pub. L. 114–81, title II, Nov. 5, 2015, 129 Stat. 660. For complete classification ofthis Act to the Code, see Short Title of 2015 Amendment note set out under section 951 of this title and Tables.
 
 The Ensuring Access to Pacific Fisheries Act, referred to in subsec. (b)(9), is Pub. L. 114–327, Dec. 16, 2016, 130 Stat. 1974. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of this title and Tables.
 
@@ -137,6 +139,8 @@ Section was enacted as part of the High Seas Driftnet Fishing Moratorium Protect
 <b>2016</b>—Subsec. (b)(9). Pub. L. 114–327 added par. (9).
 
 <b>2015</b>—Pub. L. 114–81 designated existing provisions as subsec. (h), inserted heading, and added subsecs. (a) to (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

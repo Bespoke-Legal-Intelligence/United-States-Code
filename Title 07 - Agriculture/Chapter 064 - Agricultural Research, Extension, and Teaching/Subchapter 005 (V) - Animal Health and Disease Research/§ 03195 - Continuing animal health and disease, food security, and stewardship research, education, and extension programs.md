@@ -92,7 +92,7 @@
 
 #### (4) Additional apportionment
 
-&emsp;The funds reserved under paragraph (2) and apportioned under paragraph (3)(A) to carryout the capacity and infrastructure program under subsection (a) shall be apportioned as follows:
+&emsp;The funds reserved under paragraph (2) and apportioned under paragraph (3)(A) to carry out the capacity and infrastructure program under subsection (a) shall be apportioned as follows:
 
 &emsp;&emsp;(A) Four percent shall be retained by the Department of Agriculture for administration, program assistance to the eligible institutions, and program coordination.
 
@@ -111,6 +111,8 @@
 &emsp;&emsp;(C) Whenever two or more States jointly establish an accredited regional college of veterinary medicine or jointly support an accredited college of veterinary medicine serving the States involved, the Secretary is authorized to make funds which are available to such States pursuant to paragraph (4) available for such college in such amount that reflects the combined relative value of, and income from, domestic livestock, poultry, and commercial aquaculture species in the cooperating States, such amount to be adjusted, as necessary, pursuant to subsection (a)(1) and subparagraph (B).
 
 (Pub. L. 95–113, title XIV, §1433, Sept. 29, 1977, 91 Stat. 1003; Pub. L. 97–98, title XIV, §1429, Dec. 22, 1981, 95 Stat. 1309; Pub. L. 99–198, title XIV, §1414(b), Dec. 23, 1985, 99 Stat. 1549; Pub. L. 101–624, title XVI, §1601(b)(1), Nov. 28, 1990, 104 Stat. 3703; Pub. L. 104–127, title VIII, §811, Apr. 4, 1996, 110 Stat. 1165; Pub. L. 105–185, title III, §301(a)(7), title VI, §606(d)(2), June 23, 1998, 112 Stat. 562, 604; Pub. L. 107–171, title VII, §7107, May 13, 2002, 116 Stat. 432; Pub. L. 110–234, title VII, §§7117, 7118, May 22, 2008, 122 Stat. 1221, 1222; Pub. L. 110–246, §4(a), title VII, §§7117, 7118, June 18, 2008, 122 Stat. 1664, 1983; Pub. L. 113–79, title VII, §7111(a), Feb. 7, 2014, 128 Stat. 871; Pub. L. 115–334, title VII, §7113, Dec. 20, 2018, 132 Stat. 4785.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -142,7 +144,9 @@ Subsecs. (d), (f). Pub. L. 104–127, §811(3), (4), substituted "domestic lives
 
 <b>1985</b>—Subsec. (a). Pub. L. 99–198 substituted "1990" for "1985".
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–98 substituted "as Congress may determine necessary to support continuing animal health and disease research programs at eligible institutions, but not to exceed $25,000,000 annually for the period beginning October 1, 1981, and ending September 30, 1985, and not in excess of such sums as may after September 29, 1977, be authorized by law for any subsequent fiscal year" for ", not to exceed $25,000,000annually, as Congress may determine necessary to support continuing animal health and disease research programs at eligible institutions".
+<b>1981</b>—Subsec. (a). Pub. L. 97–98 substituted "as Congress may determine necessary to support continuing animal health and disease research programs at eligibleinstitutions, but not to exceed $25,000,000 annually for the period beginning October 1, 1981, and ending September 30, 1985, and not in excess of such sums as may after September 29, 1977, be authorized by law for any subsequent fiscal year" for ", not to exceed $25,000,000 annually, as Congress may determine necessary to support continuing animal health and disease research programs at eligible institutions".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

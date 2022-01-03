@@ -18,6 +18,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2020</b>—Pub. L. 116–260, div. EE, title I, §104(b)(1), Dec. 27, 2020, 134 Stat. 3041, struck out item 222 "Qualified tuition and related expenses".

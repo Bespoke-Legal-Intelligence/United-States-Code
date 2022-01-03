@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In accordance with regulations which the Secretary shall prescribe, each group health plan that is maintained by any State that receivesfunds under this chapter, by any political subdivision of such a State, or by any agency or instrumentality of such a State or political subdivision, shall provide, in accordance with this subchapter, that each qualified beneficiary who would lose coverage under the plan as a result of a qualifying event is entitled, under the plan, to elect, within the election period, continuation coverage under the plan.
+In accordance with regulations which the Secretary shall prescribe, each group health plan that is maintained by any State that receives funds under this chapter, by any political subdivision of such a State, or by any agency or instrumentality of such a State or political subdivision, shall provide, in accordance with this subchapter, that each qualified beneficiary who would lose coverage under the plan as a result of a qualifying event is entitled, under the plan, to elect, within the election period, continuation coverage under the plan.
 
 #### (b) Exception for certain plans
 
@@ -14,9 +14,13 @@ Subsection (a) shall not apply to—
 
 (July 1, 1944, ch. 373, title XXII, §2201, as added Pub. L. 99–272, title X, §10003(a), Apr. 7, 1986, 100 Stat. 232; amended Pub. L. 101–239, title VI, §6801(a)(1), Dec. 19, 1989, 103 Stat. 2296.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1989</b>—Subsec. (b). Pub. L. 101–239 struck out at end "Under regulations, rules similar to the rules of subsections (a) and (b) of section 52 of title 26 (relating to employers under common control) shall apply for purposes of paragraph (1)."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1989 Amendment
 

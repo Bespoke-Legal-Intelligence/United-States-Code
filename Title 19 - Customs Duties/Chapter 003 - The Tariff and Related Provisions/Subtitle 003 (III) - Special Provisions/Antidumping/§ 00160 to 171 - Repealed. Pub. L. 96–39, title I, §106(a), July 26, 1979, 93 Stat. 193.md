@@ -26,6 +26,8 @@ Section 170a, act May 27, 1921, ch. 14, §212, as added Aug. 14, 1958, Pub. L. 8
 
 Section 171, act May 27, 1921, ch. 14, §213, formerly §212, 42 Stat. 15, renumbered Aug. 14, 1958, Pub. L. 85–630, §5, 72 Stat. 585, authorized citation of sections 160 to 171 of this title as the "Antidumping Act, 1921".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of Repeal
 
 Repeal effective Jan. 1, 1980, see section 107 of Pub. L. 96–39, set out as an Effective Date note under section 1671 of this title.
@@ -40,7 +42,7 @@ Pub. L. 90–634, title II, §201, Oct. 24, 1968, 82 Stat. 1347, provided that t
 
 #### Antidumping Act Unaffected by Act August 2, 1956; Review of Operation of Act and Report to Congress
 
-Act Aug. 2, 1956, ch. 887, §5, 70 Stat. 948, provided that nothing in that act would be considered to repeal, modify, or supersede, directly or indirectly, any provisions of former sections 160 to 171 of this title \[known as the Antidumping Act, 1921\] and required the Secretary of the Treasury, after consulting with the United States Tariff Commission, to review the operation and effectiveness of those sections and report thereon to the Congress within six months after August 2, 1956, and to recommend to the Congress any amendment to those sections considered desirable or necessary to provide for greater certainty, speed, and efficiency in the enforcement thereof.
+Act Aug. 2, 1956, ch. 887, §5, 70 Stat. 948, provided that nothing in that act would be considered to repeal, modify, or supersede, directly or indirectly, any provisions of former sections 160 to 171 of this title \[known as the Antidumping Act, 1921\] and required the Secretary of the Treasury, after consulting with the United States Tariff Commission, to review the operation and effectiveness of those sections and report thereon to theCongress within six months after August 2, 1956, and to recommend to the Congress any amendment to those sections considered desirable or necessary to provide for greater certainty, speed, and efficiency in the enforcement thereof.
 
 #### Antidumping Act Unaffected by Tariff Act of 1930
 

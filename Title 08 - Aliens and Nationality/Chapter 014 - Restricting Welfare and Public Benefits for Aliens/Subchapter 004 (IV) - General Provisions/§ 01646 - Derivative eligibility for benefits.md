@@ -18,5 +18,5 @@ References to the food stamp program established under the Food and Nutrition Ac
 
 #### Effective Date
 
-Section effective, except as otherwise provided, as if included in the enactment of title IV of the PersonalResponsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5308 of Pub. L. 105–33, set out as an Effective Date of 1997 Amendment note under section 1612 of this title.
+Section effective, except as otherwise provided, as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5308 of Pub. L. 105–33, set out as an Effective Date of 1997 Amendment note under section 1612 of this title.
 

@@ -1,5 +1,7 @@
 ### §3784. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 3784 was editorially reclassified as section 10223 of Title 34, Crime Control and Law Enforcement.

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Beginning twenty-four months after November 8, 1984, no person shall export any hazardouswaste identified or listed under this subchapter unless <sup>1</sup>
+Beginning twenty-four months after November 8, 1984, no person shall export any hazardous waste identified or listed under this subchapter unless <sup>1</sup>
 
 &emsp;(1)(A) such person has provided the notification required in subsection (c) of this section,
 
@@ -16,7 +16,7 @@ Beginning twenty-four months after November 8, 1984, no person shall export any 
 
 #### (b) Regulations
 
-Not later than twelve months after November 8, 1984, the Administrator shall promulgate the regulations necessary to implement this section. Such regulations shall become effective one hundred and eighty days after promulgation.
+Not later than twelve months after November 8, 1984, the Administrator shall promulgate the regulations necessary to implement this section.Such regulations shall become effective one hundred and eighty days after promulgation.
 
 #### (c) Notification
 

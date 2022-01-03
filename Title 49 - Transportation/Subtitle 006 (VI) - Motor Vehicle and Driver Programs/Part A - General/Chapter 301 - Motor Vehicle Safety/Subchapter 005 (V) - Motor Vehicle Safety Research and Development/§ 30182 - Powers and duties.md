@@ -44,7 +44,7 @@ Facilities.—The Secretary may plan, design, and construct a new facility or mo
 
 &emsp;(3) an estimate of the maximum cost of the facility;
 
-&emsp;(4) a statement identifying private and public agencies that will use the facility and thecontribution each agency will make to the cost of the facility; and
+&emsp;(4) a statement identifying private and public agencies that will use the facility and the contribution each agency will make to the cost of the facility; and
 
 &emsp;(5) a justification of the need for the facility.
 
@@ -58,9 +58,13 @@ Availability of Information, Patents, and Developments.—When the United States
 
 (Added Pub. L. 112–141, div. C, title I, §31204(a), July 6, 2012, 126 Stat. 759; amended Pub. L. 114–94, div. B, title XXIV, §24202(a), Dec. 4, 2015, 129 Stat. 1711.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (b)(6). Pub. L. 114–94 added par. (6).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

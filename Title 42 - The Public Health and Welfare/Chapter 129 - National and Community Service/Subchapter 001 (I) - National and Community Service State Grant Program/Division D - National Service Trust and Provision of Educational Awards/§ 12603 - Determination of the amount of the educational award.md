@@ -22,6 +22,12 @@ An individual described in section 12602(a) of this title who successfully compl
 
 (Pub. L. 101–610, title I, §147, as added Pub. L. 103–82, title I, §102(a), Sept. 21, 1993, 107 Stat. 819; amended Pub. L. 111–13, title I, §1404, Apr. 21, 2009, 123 Stat. 1515.)
 
+#### <b>Editorial Notes</b>
+
+#### Prior Provisions
+
+A prior section 147 of Pub. L. 101–610 was classified to section 12577 of this title prior to the general amendment of subtitle D of title I of Pub. L. 101–610 \[former part D of this subchapter\] by Pub. L. 103–82, §102(a).
+
 #### Amendments
 
 <b>2009</b>—Pub. L. 111–13, §1404(1), substituted section catchline for former section catchline.
@@ -36,9 +42,7 @@ Subsec. (b). Pub. L. 111–13, §1404(3), struck out ", for each of not more th
 
 Subsecs. (d), (e). Pub. L. 111–13, §1404(4), added subsecs. (d) and (e).
 
-#### Prior Provisions
-
-A prior section 147 of Pub. L. 101–610 was classified to section 12577 of this title prior to the general amendment of subtitle D of title I of Pub. L. 101–610 \[former part D of this subchapter\] by Pub. L. 103–82, §102(a).
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

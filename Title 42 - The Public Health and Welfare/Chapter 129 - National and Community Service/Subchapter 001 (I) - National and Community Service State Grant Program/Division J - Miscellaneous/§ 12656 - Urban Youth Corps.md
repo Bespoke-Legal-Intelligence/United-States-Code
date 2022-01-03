@@ -60,7 +60,7 @@ For purposes of this section:
 
 #### (5) State
 
-&emsp;The term "State" means any State of the United States, the District of Columbia, theCommonwealth of Puerto Rico, Guam, the Virgin Islands of the United States, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+&emsp;The term "State" means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands of the United States, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
 #### (d) Establishment of Urban Youth Corps
 
@@ -120,7 +120,7 @@ The nondisplacement requirements of section 177 of the National and Community Se
 
 #### (1) Projects by qualified urban youth corps
 
-&emsp;The Secretaries are each authorized to pay not more than 75 percent of the costs of anyappropriate service project carried out pursuant to this section by a qualified urban youth corps. The remaining 25 percent of the costs of such a project may be provided from nonfederal sources in the form of funds, services, facilities, materials, equipment, or any combination of the foregoing.
+&emsp;The Secretaries are each authorized to pay not more than 75 percent of the costs of any appropriate service project carried out pursuant to this section by a qualified urban youth corps. The remaining 25 percent of the costs of such a project may be provided from nonfederal sources in the form of funds, services, facilities, materials, equipment, or any combination of the foregoing.
 
 #### (2) Donations
 
@@ -132,6 +132,8 @@ The nondisplacement requirements of section 177 of the National and Community Se
 
 (Pub. L. 103–82, title I, §106, Sept. 21, 1993, 107 Stat. 854.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 140(a)(3) of the National and Community Service Act of 1990, referred to in subsec. (e), was redesignated section 140(a)(2) of the Act by Pub. L. 111–13, title I, §1315(1)(C), Apr. 21, 2009, 123 Stat. 1511, and is classified to section 12594(a)(2) of this title.
@@ -141,6 +143,8 @@ The National and Community Service Act of 1990, referred to in subsecs. (e), (f)
 #### Codification
 
 Section was enacted as part of the National and Community Service Trust Act of 1993, and not as part of the National and Community Service Act of 1990 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

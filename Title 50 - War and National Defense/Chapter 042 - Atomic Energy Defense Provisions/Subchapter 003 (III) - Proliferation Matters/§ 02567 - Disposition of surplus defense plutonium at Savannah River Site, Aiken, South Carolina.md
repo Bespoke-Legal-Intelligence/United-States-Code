@@ -28,7 +28,7 @@ The Secretary shall prepare a plan for disposal of the surplus defense plutonium
 
 #### (d) Plan for alternative disposition
 
-If the Secretary determines not to proceed at the Savannah River Site with construction of the plutonium immobilization plant, or with the mixed oxide fuel fabrication facility, the Secretary shall prepare a plan that identifies a disposition path for all defense plutonium and defense plutonium materials that would otherwise have been disposed of at such plant or such facility, as applicable.
+If the Secretary determines not to proceed at the Savannah River Site with construction ofthe plutonium immobilization plant, or with the mixed oxide fuel fabrication facility, the Secretary shall prepare a plan that identifies a disposition path for all defense plutonium and defense plutonium materials that would otherwise have been disposed of at such plant or such facility, as applicable.
 
 #### (e) Submission of plans
 

@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—A citizen of the United States owning or leasing an eligible vessel may make an agreement with the Secretary under this chapter to establish a capital construction fund for the vessel.
+In General.—A citizen of the United States owning or leasing an eligible vessel maymake an agreement with the Secretary under this chapter to establish a capital construction fund for the vessel.
 
 (b)
 

@@ -12,5 +12,5 @@ The moneys derived from the sale of such lands shall be covered into the reclama
 
 #### References in Text
 
-Act of June seventeenth, nineteen hundred and two, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, which isclassified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
+Act of June seventeenth, nineteen hundred and two, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
 

@@ -140,7 +140,9 @@ A credit shall not be allowed under this section for any qualified investment fo
 
 The Secretary shall provide for recapturing the benefit of any credit allowable under subsection (a) with respect to any project which fails to attain or maintain the separation and sequestration requirements for such project under subsection (d)(1).
 
-(Added Pub. L. 109–58, title XIII, §1307(b), Aug. 8, 2005, 119 Stat. 1004; amended Pub. L. 110–343, div. B, title I, §112(a)–(e), Oct. 3, 2008, 122 Stat. 3824; Pub. L. 111–5, div. B, title I, §1103(b)(2)(D), Feb. 17, 2009, 123 Stat. 321.)
+(Added Pub. L. 109–58, title XIII, §1307(b), Aug. 8, 2005, 119 Stat. 1004; amended Pub. L. 110–343, div.B, title I, §112(a)–(e), Oct. 3, 2008, 122 Stat. 3824; Pub. L. 111–5, div. B, title I, §1103(b)(2)(D), Feb. 17, 2009, 123 Stat. 321.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -161,6 +163,8 @@ Subsec. (d)(1). Pub. L. 110–343, §112(b), substituted "shall not exceed—" f
 Subsec. (d)(4). Pub. L. 110–343, §112(d), added par. (4).
 
 Subsec. (f). Pub. L. 110–343, §112(c), added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

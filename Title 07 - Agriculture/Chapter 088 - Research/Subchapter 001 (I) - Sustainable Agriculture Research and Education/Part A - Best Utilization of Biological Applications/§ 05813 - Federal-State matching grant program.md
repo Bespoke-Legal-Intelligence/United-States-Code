@@ -50,13 +50,17 @@ States eligible to receive a grant under this section may conduct a variety of a
 
 (Pub. L. 101–624, title XVI, §1623, Nov. 28, 1990, 104 Stat. 3738; Pub. L. 113–79, title VII, §7128(b)(2)(A), Feb. 7, 2014, 128 Stat. 878; Pub. L. 115–334, title VII, §7614(b)(2)(A), Dec. 20, 2018, 132 Stat. 4834.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (d)(2). Pub. L. 115–334 struck out at end "The matching funds requirement under section 3371 of this title shall not apply to grants awarded under this section."
 
 <b>2014</b>—Subsec. (d)(2). Pub. L. 113–79 inserted at end "The matching funds requirement under section 3371 of this title shall not apply to grants awarded under this section."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–334 applicable to grants, cooperative agreements, or other awards made afterDec. 20, 2018, with matching funds requirement in effect on Dec. 20, 2018, to continue to apply to such grant, cooperative agreement, or other award, see section 7614(c) of Pub. L. 115–334, set out as a note under section 3151 of this title.
+Amendment by Pub. L. 115–334 applicable to grants, cooperative agreements, or other awards made after Dec. 20, 2018, with matching funds requirement in effect on Dec. 20, 2018, to continue to apply to such grant, cooperative agreement, or other award, see section 7614(c) of Pub. L. 115–334, set out as a note under section 3151 of this title.
 

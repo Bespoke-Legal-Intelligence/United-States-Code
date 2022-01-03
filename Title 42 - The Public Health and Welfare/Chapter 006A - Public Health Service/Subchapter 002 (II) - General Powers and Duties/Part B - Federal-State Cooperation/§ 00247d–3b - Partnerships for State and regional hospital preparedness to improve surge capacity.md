@@ -136,13 +136,15 @@ A political subdivision shall not participate in more than one coalition describ
 
 #### (A) In general
 
-&emsp;&emsp;Amounts provided to an eligible entity under a cooperative agreement under subsection (a) for a fiscal year and remainingunobligated at the end of such year shall remain available to such entity for the next fiscal year for the purposes for which such funds were provided.
+&emsp;&emsp;Amounts provided to an eligible entity under a cooperative agreement under subsection (a) for a fiscal year and remaining unobligated at the end of such year shall remain available to such entity for the next fiscal year for the purposes for which such funds were provided.
 
 #### (B) Funds contingent on achieving benchmarks
 
 &emsp;&emsp;The continued availability of funds under subparagraph (A) with respect to an entity shall be contingent upon such entity achieving the benchmarks and submitting the pandemic influenza plan as required under subsection (i).
 
 (July 1, 1944, ch. 373, title III, §319C–2, as added Pub. L. 107–188, title I, §131(a), June 12, 2002, 116 Stat. 624; amended Pub. L. 109–417, title III, §305, Dec. 19, 2006, 120 Stat. 2861; Pub. L. 110–85, title XI, §1104(1), Sept. 27, 2007, 121 Stat. 975; Pub. L. 113–5, title II, §§202(c)(2), 203(c), Mar. 13, 2013, 127 Stat. 175, 176; Pub. L. 116–22, title II, §§201(b), 202(c), (e), 203(c), (e)(2), June 24, 2019, 133 Stat. 908–910, 914.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

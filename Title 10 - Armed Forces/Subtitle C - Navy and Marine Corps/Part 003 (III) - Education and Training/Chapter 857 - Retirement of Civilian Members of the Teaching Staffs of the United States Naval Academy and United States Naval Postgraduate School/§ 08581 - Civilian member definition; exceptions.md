@@ -2,7 +2,7 @@
 
 (a) In this chapter, the term "civilian member" means a civilian member of the teaching staff of the United States Naval Academy or the United States Naval Postgraduate School. It includes the Provost and Academic Dean of the Postgraduate School, senior professors, professors, associate professors, assistant professors, chief instructors, assistant chief instructors, and instructors.
 
-(b) This chapter does not apply to any civilian member who was employed at the Naval Academy or the Postgraduate School on January 16, 1936, and who did not elect to participate in thebenefits provided by the Act of January 16, 1936, ch. 3 (49 Stat. 1092).
+(b) This chapter does not apply to any civilian member who was employed at the Naval Academy or the Postgraduate School on January 16, 1936, and who did not elect to participate in the benefits provided by the Act of January 16, 1936, ch. 3 (49 Stat. 1092).
 
 (c) This chapter does not apply to any person who was a civilian member after September 30, 1956.
 
@@ -68,6 +68,8 @@ Act
 
 Subsection (c) is added to reflect the effect on chapter 607 of this title of the Act of July 31, 1956, ch. 804, §402(a) (70 Stat. 760) which brought the civilian faculties of the Naval Academy and Naval Postgraduate School under the Civil Service Retirement Act effective October 1, 1956, and provided that on and after that date the Act of January 16, 1936, ch. 3 (49 Stat. 1092) would no longer apply to civilians employed at those schools on or after that date.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Act of January 16, 1936, ch. 3 (49 Stat. 1092), referred to in subsec. (b), was classified to sections 1073 to 1073f of former Title 34, Navy, and was repealed by act Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641. See section 7081 et seq. of this title.
@@ -85,6 +87,8 @@ A prior section 8581 was renumbered section 9231 of this title.
 <b>1989</b>—Subsec. (a). Pub. L. 101–189 inserted ", the term" after "In this chapter".
 
 <b>1958</b>—Subsec. (c). Pub. L. 85–861 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

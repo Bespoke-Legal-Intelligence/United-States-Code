@@ -8,6 +8,8 @@ Whoever, lawfully or unlawfully, having possession of, access to, control over, 
 
 (Aug. 1, 1946, ch. 724, title I, §224, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 958; amended Pub. L. 91–161, §3(b), Dec. 24, 1969, 83 Stat. 444; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 106–65, div. C, title XXXI, §3148(a), Oct. 5, 1999, 113 Stat. 938; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(g)(9)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–294.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Cl. (b). Pub. L. 106–398 substituted "$50,000" for "$500,000".
@@ -18,11 +20,13 @@ Cl. (b). Pub. L. 106–65, §3148(a)(2), substituted "$500,000" for "$10,000".
 
 <b>1969</b>—Pub. L. 91–161 made death penalty inapplicable for willful violation, or attempted violation of this section with intent to injure the United States, or secure an advantage for any foreign nation.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(g)(9)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–294, provided that the amendment made by that section is effective as of Oct. 5, 1999.
+Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(g)(9)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–294, provided that theamendment made by that section is effective as of Oct. 5, 1999.
 
 #### Effective Date of 1969 Amendment
 
-Amendment by Pub. L. 91–161 applicable to offenses committed on or after Dec. 24, 1969, see section 7 ofPub. L. 91–161, set out as a note under section 2272 of this title.
+Amendment by Pub. L. 91–161 applicable to offenses committed on or after Dec. 24, 1969, see section 7 of Pub. L. 91–161, set out as a note under section 2272 of this title.
 

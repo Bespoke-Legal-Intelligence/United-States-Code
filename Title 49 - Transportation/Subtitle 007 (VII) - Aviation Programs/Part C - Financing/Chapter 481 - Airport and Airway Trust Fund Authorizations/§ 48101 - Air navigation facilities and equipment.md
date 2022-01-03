@@ -2,7 +2,7 @@
 
 (a)
 
-General Authorization of Appropriations.—Not more than a total of the followingamounts may be appropriated to the Secretary of Transportation out of the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 (26 U.S.C. 9502) to acquire, establish, and improve air navigation facilities under section 44502(a)(1)(A) of this title:
+General Authorization of Appropriations.—Not more than a total of the following amounts may be appropriated to the Secretary of Transportation out of the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 (26 U.S.C. 9502) to acquire, establish, and improve air navigation facilities under section 44502(a)(1)(A) of this title:
 
 &emsp;(1) $3,330,000,000 for fiscal year 2018.
 
@@ -86,6 +86,8 @@ Sept. 3, 1982, Pub. L. 97–248, §506(a)(2), 96 Stat. 677; Dec. 30, 1987, Pub. 
 
 In subsection (a), the words "to the Secretary of Transportation" are added for clarity and consistency in this chapter. The words "for fiscal years beginning after September 30, 1990" and "$2,500,000,000 for fiscal year 1991" are omitted as obsolete.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 161 of the FAA Reauthorization Act of 2018, referred to in subsec. (c)(2), is section 161 of Pub. L. 115–254, which is set out as a note under section 47104 of this title.
@@ -116,7 +118,7 @@ Pub. L. 115–254, §112(b)(1), substituted "Authorized Expenditures" for "Autom
 
 <b>2017</b>—Subsec. (a)(6). Pub. L. 115–63 added par. (6).
 
-<b>2016</b>—Subsec. (a)(5). Pub. L. 114–190 amended par. (5) generally. Prior to amendment, par. (5) read as follows:"$2,058,333,333 for the period beginning on October 1, 2015, and ending on July 15, 2016."
+<b>2016</b>—Subsec. (a)(5). Pub. L. 114–190 amended par. (5) generally. Prior to amendment, par. (5) read as follows: "$2,058,333,333 for the period beginning on October 1, 2015, and ending on July 15, 2016."
 
 Pub. L. 114–141 amended par. (5) generally. Prior to amendment, par. (5) read as follows: "$1,300,000,000 for the period beginning on October 1, 2015, and ending on March 31, 2016."
 
@@ -201,6 +203,8 @@ Subsec. (a)(2). Pub. L. 103–305, §102(a)(2), substituted "For" for "for" and 
 Subsec. (a)(3). Pub. L. 103–305, §102(a)(3), substituted "For" for "for" and "$13,394,000,000" for "$14,000,000,000".
 
 Subsec. (a)(4). Pub. L. 103–305, §102(a)(4), added par. (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

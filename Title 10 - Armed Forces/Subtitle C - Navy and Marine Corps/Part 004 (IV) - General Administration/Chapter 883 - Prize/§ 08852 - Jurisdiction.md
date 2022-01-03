@@ -16,7 +16,7 @@
 
 &emsp;(2) cannot be brought in for adjudication because of its condition.
 
-(c) The jurisdiction conferred by this section of prizes brought into the territorial waters of acobelligerent may not be exercised, nor may prizes be appropriated for the use of the United States within those territorial waters, unless the government having jurisdiction over those waters consents to the exercise of the jurisdiction or to the appropriation.
+(c) The jurisdiction conferred by this section of prizes brought into the territorial waters of a cobelligerent may not be exercised, nor may prizes be appropriated for the use of the United States within those territorial waters, unless the government having jurisdiction over those waters consents to the exercise of the jurisdiction or to the appropriation.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 474, §7652; Pub. L. 109–163, div. A, title X, §1057(a)(5), Jan. 6, 2006, 119 Stat. 3440; renumbered §8852, Pub. L. 115–232, div. A, title VIII, §807(d)(9), Aug. 13, 2018, 132 Stat. 1837.)
 
@@ -58,6 +58,8 @@ In clause (4) the words "taken or" preceding the words "appropriated for the use
 
 Subsection (b) is included to make the statement of jurisdiction complete. It is derived by implication from the first sentence of R.S. 4625 (34 U.S.C. 1141) which is the source of subsection (c) of §7653 of this title.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 8852, added Pub. L. 85–861, §1(192), Sept. 2, 1958, 72 Stat. 1537; amended Pub. L. 86–559, §1(74), June 30, 1960, 74 Stat. 280; Pub. L. 99–145, title XIII, §1303(a)(27)(B), Nov. 8, 1985, 99 Stat. 740; Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059, related to transfer or discharge of reserve major generals and brigadier generals with 35 years of service or five years in grade, prior to repeal by Pub. L. 103–337, div. A, title XVI, §1629(c)(3), Oct. 5, 1994, 108 Stat. 2963, effective Oct. 1, 1996.
@@ -67,6 +69,8 @@ A prior section 8852, added Pub. L. 85–861, §1(192), Sept. 2, 1958, 72 Stat. 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7652 of this title as this section.
 
 <b>2006</b>—Subsec. (a)(1). Pub. L. 109–163 substituted "Commonwealths or possessions" for "Territories, Commonwealths, or possessions".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

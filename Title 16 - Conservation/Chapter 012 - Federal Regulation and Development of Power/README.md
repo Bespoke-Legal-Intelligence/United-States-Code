@@ -81,6 +81,7 @@
 | [824q.](Subchapter%20002%20%28II%29%20-%20Regulation%20of%20Electric%20Utility%20Companies%20Engaged%20in%20Interstate%20Commerce/%C2%A7%2000824q%20-%20Native%20load%20service%20obligation.md) | Native load service obligation. |
 | [824r.](Subchapter%20002%20%28II%29%20-%20Regulation%20of%20Electric%20Utility%20Companies%20Engaged%20in%20Interstate%20Commerce/%C2%A7%2000824r%20-%20Protection%20of%20transmission%20contracts%20in%20the%20Pacific%20Northwest.md) | Protection of transmission contracts in the Pacific Northwest. |
 | [824s.](Subchapter%20002%20%28II%29%20-%20Regulation%20of%20Electric%20Utility%20Companies%20Engaged%20in%20Interstate%20Commerce/%C2%A7%2000824s%20-%20Transmission%20infrastructure%20investment.md) | Transmission infrastructure investment. |
+| 824s–1. | Incentives for cybersecurity investments. |
 | [824t.](Subchapter%20002%20%28II%29%20-%20Regulation%20of%20Electric%20Utility%20Companies%20Engaged%20in%20Interstate%20Commerce/%C2%A7%2000824t%20-%20Electricity%20market%20transparency%20rules.md) | Electricity market transparency rules. |
 | [824u.](Subchapter%20002%20%28II%29%20-%20Regulation%20of%20Electric%20Utility%20Companies%20Engaged%20in%20Interstate%20Commerce/%C2%A7%2000824u%20-%20Prohibition%20on%20filing%20false%20information.md) | Prohibition on filing false information. |
 | [824v.](Subchapter%20002%20%28II%29%20-%20Regulation%20of%20Electric%20Utility%20Companies%20Engaged%20in%20Interstate%20Commerce/%C2%A7%2000824v%20-%20Prohibition%20of%20energy%20market%20manipulation.md) | Prohibition of energy market manipulation. |
@@ -137,6 +138,8 @@
 | [828c.](Subchapter%20004%20%28IV%29%20-%20State%20and%20Municipal%20Water%20Conservation%20Facilities/%C2%A7%2000828c%20-%20Applicability%20of%20this%20subchapter.md) | Applicability of this subchapter. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Findings
 

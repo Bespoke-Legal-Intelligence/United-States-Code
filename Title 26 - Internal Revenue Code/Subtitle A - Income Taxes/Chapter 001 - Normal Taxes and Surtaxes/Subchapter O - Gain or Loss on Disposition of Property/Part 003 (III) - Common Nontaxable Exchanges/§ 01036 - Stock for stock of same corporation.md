@@ -16,9 +16,13 @@ For purposes of this section, nonqualified preferred stock (as defined in sectio
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 309; Pub. L. 105–34, title X, §1014(e)(3), Aug. 5, 1997, 111 Stat. 921.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1997</b>—Subsecs. (b), (c). Pub. L. 105–34 added subsec. (b) and redesignated former subsec. (b) as (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1997 Amendment
 

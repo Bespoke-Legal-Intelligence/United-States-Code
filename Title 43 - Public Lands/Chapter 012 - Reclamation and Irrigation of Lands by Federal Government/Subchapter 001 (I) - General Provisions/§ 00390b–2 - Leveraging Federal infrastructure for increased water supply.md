@@ -124,7 +124,7 @@ The Secretary shall not approve a proposal submitted under subsection (a) thatâ€
 
 #### (2) Contributed funds for other Federal reservoir projects
 
-&emsp;The Secretary is authorized to receive and expend funds from a non-Federal interest to formulate, review, or revise operational documents, pursuant to a proposal submitted in accordance subsection (a), for any reservoir for which the Secretary is authorized to prescribe regulations for the use of storage allocated for flood control or navigation pursuant to section 709 of title 33.
+&emsp;The Secretary is authorized to receive and expend funds from a non-Federal interest to formulate, review, or revise operational documents, pursuant to a proposal submitted in accordance subsection (a), for any reservoir for which the Secretary is authorized to prescribe regulations for the use of storage allocated forflood control or navigation pursuant to section 709 of title 33.
 
 #### (j) Assistance
 

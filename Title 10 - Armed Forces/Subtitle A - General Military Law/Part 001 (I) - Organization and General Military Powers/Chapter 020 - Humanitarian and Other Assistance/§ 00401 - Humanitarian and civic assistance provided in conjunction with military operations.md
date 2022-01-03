@@ -36,7 +36,9 @@
 
 &emsp;(4) Rudimentary construction and repair of public facilities.
 
-(Added Pub. L. 99–661, div. A, title III, §333(a)(1), Nov. 14, 1986, 100 Stat. 3857; amended Pub. L. 100–180, div. A, title III, §332(b)(1)–(5), Dec. 4, 1987, 101 Stat. 1080; Pub. L. 100–456, div. A, title XII, §1233(g)(1), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 103–160, div. A, title XI, §1182(a)(1), title XV, §1504(b), Nov. 30, 1993, 107 Stat. 1771, 1839; Pub. L. 104–106, div. A, title XIII, §1313(a), (b), title XV, §1502(a)(8), Feb. 10, 1996, 110 Stat. 474, 475, 503; Pub. L. 104–201, div. A, title X, §1074(a)(2), title XIII, §1304, Sept. 23, 1996, 110 Stat. 2658, 2704; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[\[div. A\], title XII, §1235\], Oct. 30, 2000, 114 Stat. 1654, 1654A–331; Pub. L. 108–375, div. A, title XII, §1221,Oct. 28, 2004, 118 Stat. 2089; Pub. L. 109–163, div. A, title XII, §1201, Jan. 6, 2006, 119 Stat. 3455; Pub. L. 109–364, div. A, title XII, §1203(a), Oct. 17, 2006, 120 Stat. 2413; Pub. L. 112–239, div. A, title X, §1076(f)(7), Jan. 2, 2013, 126 Stat. 1952.)
+(Added Pub. L. 99–661, div. A, title III, §333(a)(1), Nov. 14, 1986, 100 Stat. 3857; amended Pub. L. 100–180, div. A, title III, §332(b)(1)–(5), Dec. 4, 1987, 101 Stat. 1080; Pub. L. 100–456, div. A, title XII, §1233(g)(1), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 103–160, div. A, title XI, §1182(a)(1), title XV, §1504(b), Nov. 30, 1993, 107 Stat. 1771, 1839; Pub. L. 104–106, div. A, title XIII, §1313(a), (b), title XV, §1502(a)(8), Feb. 10, 1996, 110 Stat. 474, 475, 503; Pub. L. 104–201, div. A, title X, §1074(a)(2), title XIII, §1304, Sept. 23, 1996, 110 Stat. 2658, 2704; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[\[div. A\], title XII, §1235\], Oct. 30, 2000, 114 Stat. 1654, 1654A–331; Pub. L. 108–375, div. A, title XII, §1221, Oct. 28, 2004, 118 Stat. 2089; Pub. L. 109–163, div. A, title XII, §1201, Jan. 6, 2006, 119 Stat. 3455; Pub. L. 109–364, div. A, title XII, §1203(a), Oct. 17, 2006, 120 Stat. 2413; Pub. L. 112–239, div. A, title X, §1076(f)(7), Jan. 2, 2013, 126 Stat. 1952.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -118,6 +120,8 @@ Subsec. (e). Pub. L. 100–180, §332(b)(4), (5), struck out section catchline o
 
 Subsec. (f). Pub. L. 100–180, §332(b)(4), (5), struck out section catchline of former section 406 "Expenditure limitation", designated text of former section 406 as subsec. (f) of this section, and substituted "section" for "chapter".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Termination of Reporting Requirements
 
 For termination, effective Dec. 31, 2021, of provisions in subsec. (d) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
@@ -170,7 +174,7 @@ Limitation on Use of Funds.—\[Amended section 401(c)(2) of this title.\]
 
 "(c)
 
-Notifications Regarding Humanitarian Relief.—Any notification provided to the appropriate congressional committees with respect to assistance activities under section 2551 \[now 2561\] of title 10, United States Code, shall include a detailed description of any items for which transportation is provided that are excess nonlethal supplies of the Department of Defense, including the quantity, acquisition value, and value at the time of the transportation of such items.
+Notifications Regarding Humanitarian Relief.—Any notification provided to the appropriate congressional committees with respect to assistanceactivities under section 2551 \[now 2561\] of title 10, United States Code, shall include a detailed description of any items for which transportation is provided that are excess nonlethal supplies of the Department of Defense, including the quantity, acquisition value, and value at the time of the transportation of such items.
 
 "(d)
 
@@ -196,7 +200,7 @@ Pub. L. 102–396, title II, Oct. 6, 1992, 106 Stat. 1884, provided: "That where
 
 #### Appropriation of Funds for Humanitarian and Civic Assistance; Annual Report to Congress on Obligations; Use of Civic Action Teams in Trust Territories of Pacific Islands and Freely Associated States of Micronesia
 
-Pub. L. 109–148, div. A, title VIII, §8009, Dec. 30, 2005, 119 Stat. 2699, which appropriated funds pursuant tothis section and authorized obligations for humanitarian and civic assistance costs under this chapter, with such obligations being reported as required by subsec. (d) of this section, and authorized the use of Civic Action Teams for the provision of assistance in the Trust Territories of the Pacific Islands and freely associated states of Micronesia and the provision of medical services at Army medical facilities in Hawaii upon a determination by the Secretary of the Army, was from the Department of Defense Appropriations Act, 2006 and was repeated in provisions of subsequent appropriations acts which are not set out in the Code. Similar provisions were contained in the following prior appropriations acts:
+Pub. L. 109–148, div. A, title VIII, §8009, Dec. 30, 2005, 119 Stat. 2699, which appropriated funds pursuant to this section and authorized obligations for humanitarian and civic assistance costs under this chapter, with such obligations being reported as required by subsec. (d) of this section, and authorized the use of Civic Action Teams for the provision of assistance in the Trust Territories of the Pacific Islands and freely associated states of Micronesia and the provision of medical services at Army medical facilities in Hawaii upon a determination by the Secretary of the Army, was from the Department of Defense Appropriations Act, 2006 and was repeated in provisions of subsequent appropriations acts which are not set out in the Code. Similar provisions were contained in the following prior appropriations acts:
 
 Pub. L. 108–287, title VIII, §8009, Aug. 5, 2004, 118 Stat. 971.
 

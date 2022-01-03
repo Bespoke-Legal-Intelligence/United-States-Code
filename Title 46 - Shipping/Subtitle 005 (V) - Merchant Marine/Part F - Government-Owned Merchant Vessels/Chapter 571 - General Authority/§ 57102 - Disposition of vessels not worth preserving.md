@@ -38,7 +38,7 @@ Pub. L. 110–417, div. C, title XXXV, §3502, Oct. 14, 2008, 122 Stat. 4761, pr
 
 "(a)
 
-In General.—Except as provided in subsection (b), no vessel that is owned by the Government of the United States shall be approved for export to a foreign country for purposes of dismantling, recycling, or scrapping.
+In General.—Except as provided in subsection (b), no vessel that is owned by the Government of theUnited States shall be approved for export to a foreign country for purposes of dismantling, recycling, or scrapping.
 
 "(b)
 
@@ -82,7 +82,7 @@ Purpose.—The working group shall—
 
 &emsp;"(2) examine Federal and State laws and regulations governing such policies, procedures, and practices and any applicable environmental laws; and
 
-&emsp;"(3) within 90 days after the date of enactment of the \[this\] Act \[Jan. 28, 2008\], submit a plan to the Committee on Armed Services and the Committee on Commerce, Science and Transportation of the Senate and the Committee on Armed Services of the Houseof Representatives to improve and harmonize practices for storage and disposal of such vessels, including the interim transportation of such vessels.
+&emsp;"(3) within 90 days after the date of enactment of the \[this\] Act \[Jan. 28, 2008\], submit a plan to the Committee on Armed Services and the Committee on Commerce, Science and Transportation of the Senate and the Committee on Armed Services of the House of Representatives to improve and harmonize practices for storage and disposal of such vessels, including the interim transportation of such vessels.
 
 "(d)
 

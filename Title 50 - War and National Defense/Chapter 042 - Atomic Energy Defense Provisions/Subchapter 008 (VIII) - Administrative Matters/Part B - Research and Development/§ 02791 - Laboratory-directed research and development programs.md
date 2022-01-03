@@ -10,13 +10,15 @@ The Secretary of Energy shall prescribe regulations for the conduct of laborator
 
 #### (c) Funding
 
-Of the funds provided by the Department of Energy to a national security laboratory for national security activities, the Secretary shallprovide a specific amount, of not less than 5 percent and not more than 7 percent of such funds, to be used by the laboratory for laboratory-directed research and development.
+Of the funds provided by the Department of Energy to a national security laboratory for national security activities, the Secretary shall provide a specific amount, of not less than 5 percent and not more than 7 percent of such funds, to be used by the laboratory for laboratory-directed research and development.
 
 #### (d) "Laboratory-directed research and development" defined
 
 For purposes of this section, the term "laboratory-directed research and development" means research and development work of a creative and innovative nature which, under the regulations prescribed pursuant to subsection (b), is selected by the director of a laboratory for the purpose of maintaining the vitality of the laboratory in defense-related scientific disciplines.
 
 (Pub. L. 107–314, div. D, title XLVIII, §4811, formerly Pub. L. 101–510, div. C, title XXXI, §3132, Nov. 5, 1990, 104 Stat. 1832; renumbered Pub. L. 107–314, div. D, title XLVIII, §4811, and amended Pub. L. 108–136, div. C, title XXXI, §3141(k)(6), Nov. 24, 2003, 117 Stat. 1784; Pub. L. 114–92, div. C, title XXXI, §3115(a), Nov. 25, 2015, 129 Stat. 1193.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -27,6 +29,8 @@ Section was formerly classified to section 7257a of Title 42, The Public Health 
 <b>2015</b>—Subsec. (c). Pub. L. 114–92 substituted "to a national security laboratory" for "to such laboratories", "of not less than 5 percent and not more than 7 percent" for "not to exceed 6 percent", and "by the laboratory" for "by such laboratories".
 
 <b>2003</b>—Pub. L. 108–136, §3141(k)(6)(D), made technical amendment to section catchline.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Pilot Program on Unavailability for Overhead Costs of Amounts Specified for Laboratory-Directed Research and Development
 

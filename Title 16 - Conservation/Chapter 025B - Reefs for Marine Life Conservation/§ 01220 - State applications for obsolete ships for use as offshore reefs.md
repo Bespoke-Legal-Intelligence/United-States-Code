@@ -6,7 +6,7 @@ Any State may apply to the Secretary of Transportation (hereafter referred to in
 
 #### (b) Manner and form of applications; minimum requirements
 
-A State shall apply for obsolete ships under this chapter in such manner and form as the Secretary shall prescribe, but such application shall include at least (1) the location at which the State proposes to sink the ships, (2) a certificate from the Administrator, Environmental Protection Agency, that the proposed use of the particular vessel or vessels requested by the State will be compatible with water quality standards and other appropriate environmental protection requirements, and (3) statements and estimates with respect to the conservation goals which are sought to be achieved by use of the ships.
+A State shall apply for obsolete ships under this chapter in such manner and form as the Secretary shall prescribe, but such applicationshall include at least (1) the location at which the State proposes to sink the ships, (2) a certificate from the Administrator, Environmental Protection Agency, that the proposed use of the particular vessel or vessels requested by the State will be compatible with water quality standards and other appropriate environmental protection requirements, and (3) statements and estimates with respect to the conservation goals which are sought to be achieved by use of the ships.
 
 #### (c) Copies to Federal officers for official comments and views
 
@@ -18,11 +18,15 @@ Any territory, possession, or Commonwealth of the United States, and any foreign
 
 (Pub. L. 92–402, §3, Aug. 22, 1972, 86 Stat. 618; Pub. L. 98–623, title II, §207(1), (2), Nov. 8, 1984, 98 Stat. 3397; Pub. L. 111–84, div. C, title XXXV, §3513(a), Oct. 28, 2009, 123 Stat. 2724.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2009</b>—Subsec. (d). Pub. L. 111–84 added subsec. (d).
 
 <b>1984</b>—Subsecs. (a), (b). Pub. L. 98–623, §207, substituted "Secretary of Transportation" for "Secretary of Commerce" and "obsolete ships" for "Liberty ships", wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Environmental Best Management Practices for Preparing Vessels for Use as Artificial Reefs
 

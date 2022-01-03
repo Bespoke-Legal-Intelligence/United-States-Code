@@ -72,7 +72,7 @@
 | :--- | ---: |
 | \[3561. | Repealed.\] |
 | [3562\.](Subchapter%20006%20%28VI%29%20-%20Recovery%20Audits/%C2%A7%2003562%20-%20Disposition%20of%20recovered%20funds.md) | Disposition of recovered funds.<sup>1</sup> |
-| \[3563 to 3567. Repealed.\]. |  |
+| \[3563 to 3567. Repealed.\] |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

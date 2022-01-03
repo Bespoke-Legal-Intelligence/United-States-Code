@@ -6,7 +6,7 @@ In the case of a small business refiner (as defined in section 45H(c)(1)) which 
 
 #### (b) Reduced percentage
 
-In the case of a small business refiner with average daily domestic refinery runs for the 1-year period ending on December 31, 2002, in excess of 155,000 barrels, the number of percentage points described in subsection (a) shall be reduced (notbelow zero) by the product of such number (before the application of this subsection) and the ratio of such excess to 50,000 barrels.
+In the case of a small business refiner with average daily domestic refinery runs for the 1-year period ending on December 31, 2002, in excess of 155,000 barrels, the number of percentage points described in subsection (a) shall be reduced (not below zero) by the product of such number (before the application of this subsection) and the ratio of such excess to 50,000 barrels.
 
 #### (c) Basis reduction
 
@@ -42,13 +42,17 @@ Section 280B shall not apply to amounts which are treated as expenses under this
 
 &emsp;If any portion of the deduction available under subsection (a) is allocated to owners under paragraph (1), the cooperative shall provide any owner receiving an allocation written notice of the amount of the allocation. Such notice shall be provided before the date on which the return described in paragraph (2) is due.
 
-(Added Pub. L. 108–357, title III, §338(a), Oct. 22, 2004, 118 Stat. 1480; amended Pub. L. 109–58, title XIII, §1324(a), Aug. 8, 2005, 119 Stat. 1015; Pub. L. 110–172, §7(a)(3)(A), (C), Dec. 29, 2007, 121 Stat. 2482.)
+(Added Pub. L. 108–357, title III, §338(a), Oct. 22, 2004, 118 Stat. 1480; amended Pub. L. 109–58, title XIII, §1324(a), Aug. 8, 2005, 119 Stat. 1015; Pub. L.110–172, §7(a)(3)(A), (C), Dec. 29, 2007, 121 Stat. 2482.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>2007</b>—Subsec. (a). Pub. L. 110–172 substituted "qualified costs" for "qualified capital costs" and inserted "and which are properly chargeable to capital account" before period at end.
 
 <b>2005</b>—Subsec. (e). Pub. L. 109–58 added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

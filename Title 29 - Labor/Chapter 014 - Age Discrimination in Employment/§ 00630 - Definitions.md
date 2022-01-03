@@ -20,7 +20,7 @@ For the purposes of this chapter—
 
 &emsp;(4) has been chartered by a labor organization representing or actively seeking to represent employees within the meaning of paragraph (1) or (2) as the local or subordinate body through which such employees may enjoy membership or become affiliated with such labor organization; or
 
-&emsp;(5) is a conference, general committee, joint or system board, or joint council subordinate to a national or international labor organization, which includes a labor organization engaged in an industry affecting commerce within the meaning of any of the preceding paragraphs of this subsection.
+&emsp;(5) is a conference, general committee, joint or system board, or joint council subordinateto a national or international labor organization, which includes a labor organization engaged in an industry affecting commerce within the meaning of any of the preceding paragraphs of this subsection.
 
 (f) The term "employee" means an individual employed by any employer except that the term "employee" shall not include any person elected to public office in any State or political subdivision of any State by the qualified voters thereof, or any person chosen by such officer to be on such officer's personal staff, or an appointee on the policymaking level or an immediate adviser with respect to the exercise of the constitutional or legal powers of the office. The exemption set forth in the preceding sentence shall not include employees subject to the civil service laws of a State government, governmental agency, or political subdivision. The term "employee" includes any individual who is a citizen of the United States employed by an employer in a workplace in a foreign country.
 

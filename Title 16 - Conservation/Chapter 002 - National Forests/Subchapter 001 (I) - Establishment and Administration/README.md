@@ -134,6 +134,7 @@
 - [&sect; 00536 - Recording of instruments; furnishing of instruments affecting public domain lands to Secretary of the Interior](%C2%A7%2000536%20-%20Recording%20of%20instruments%3B%20furnishing%20of%20instruments%20affecting%20public%20domain%20lands%20to%20Secretary%20of%20the%20Interior.md)
 - [&sect; 00537 - Maintenance and reconstruction by road users; funds for maintenance and reconstruction; availability of deposits until expended, transfer&#8230;](%C2%A7%2000537%20-%20Maintenance%20and%20reconstruction%20by%20road%20users%3B%20funds%20for%20maintenance%20and%20reconstruction%3B%20availability%20of%20deposits%20until%20expended%2C%20transfer%E2%80%A6.md)
 - [&sect; 00538 - User fees fund for delayed payments to grantors](%C2%A7%2000538%20-%20User%20fees%20fund%20for%20delayed%20payments%20to%20grantors.md)
+- [&sect; 00538a - Forest Service Legacy Road and Trail Remediation Program](%C2%A7%2000538a%20-%20Forest%20Service%20Legacy%20Road%20and%20Trail%20Remediation%20Program.md)
 - [&sect; 00539 - Additions to existing national forests; administration](%C2%A7%2000539%20-%20Additions%20to%20existing%20national%20forests%3B%20administration.md)
 - [&sect; 00539a - Mining and mineral leasing on certain national forest lands](%C2%A7%2000539a%20-%20Mining%20and%20mineral%20leasing%20on%20certain%20national%20forest%20lands.md)
 - [&sect; 00539b - Fisheries on national forest lands in Alaska](%C2%A7%2000539b%20-%20Fisheries%20on%20national%20forest%20lands%20in%20Alaska.md)

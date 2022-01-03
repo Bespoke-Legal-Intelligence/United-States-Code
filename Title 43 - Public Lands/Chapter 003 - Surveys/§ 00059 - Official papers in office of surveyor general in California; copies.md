@@ -1,6 +1,6 @@
 ### §59. Official papers in office of surveyor general in California; copies
 
-All official books, papers, instruments of writing, documents, archives, official seals, stamps, or dies, which have been authorized by law to be collected and deposited in the surveyor general's office in California, shall be safely and securely kept by the Secretary of the Interior, or such officer as he may designate, in the archives of his office until disposed of as provided by law; and copies thereof, authenticated by the Secretary or such officer under his seal of office, shall be evidence in all cases where the originals would be evidence.
+All official books, papers, instruments of writing, documents, archives, official seals, stamps, or dies, which have been authorized by law to becollected and deposited in the surveyor general's office in California, shall be safely and securely kept by the Secretary of the Interior, or such officer as he may designate, in the archives of his office until disposed of as provided by law; and copies thereof, authenticated by the Secretary or such officer under his seal of office, shall be evidence in all cases where the originals would be evidence.
 
 (R.S. §2229; Mar. 3, 1925, ch. 462, 43 Stat. 1144; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100; Oct. 25, 1951, ch. 562, §3(3), 65 Stat. 639.)
 

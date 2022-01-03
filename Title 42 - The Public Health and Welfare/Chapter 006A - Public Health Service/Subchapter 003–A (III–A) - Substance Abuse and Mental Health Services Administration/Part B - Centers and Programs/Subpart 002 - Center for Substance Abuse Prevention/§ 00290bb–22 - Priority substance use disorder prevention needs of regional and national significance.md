@@ -58,7 +58,9 @@ The Secretary shall establish comprehensive information and education programs t
 
 There are authorized to be appropriated to carry out this section, $211,148,000 for each of fiscal years 2018 through 2022.
 
-(July 1, 1944, ch. 373, title V, §516, formerly §509, as added Pub. L. 99–570, title IV, §4005(a), Oct. 27,1986, 100 Stat. 3207–112; renumbered §516 and amended Pub. L. 102–321, title I, §113(f), July 10, 1992, 106 Stat. 345; Pub. L. 106–310, div. B, title XXXIII, §3302(a), Oct. 17, 2000, 114 Stat. 1209; Pub. L. 114–255, div. B, title VII, §7005, Dec. 13, 2016, 130 Stat. 1224.)
+(July 1, 1944, ch. 373, title V, §516, formerly §509, as added Pub. L. 99–570, title IV, §4005(a), Oct. 27, 1986, 100 Stat. 3207–112; renumbered §516 and amended Pub. L. 102–321, title I, §113(f), July 10, 1992, 106 Stat. 345; Pub. L. 106–310, div. B, title XXXIII, §3302(a), Oct. 17, 2000, 114 Stat. 1209; Pub. L. 114–255, div. B, title VII, §7005, Dec. 13, 2016, 130 Stat. 1224.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -85,6 +87,8 @@ Subsec. (f). Pub. L. 114–255, §7005(5), substituted "$211,148,000 for each of
 <b>2000</b>—Pub. L. 106–310 amended section catchline and text generally, substituting provisions relating to priority substance abuse prevention needs of regional and national significance for provisions relating to community programs.
 
 <b>1992</b>—Pub. L. 102–321, §113(f)(4), amended section generally, substituting provisions relating to community programs for provisions relating to alcohol and drug abuse information clearinghouse.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

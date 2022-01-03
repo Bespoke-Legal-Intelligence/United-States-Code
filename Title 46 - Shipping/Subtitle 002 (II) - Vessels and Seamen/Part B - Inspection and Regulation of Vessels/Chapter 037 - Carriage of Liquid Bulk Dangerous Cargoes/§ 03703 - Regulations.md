@@ -16,7 +16,7 @@
 
 &emsp;(7) the reduction or elimination of discharges during ballasting, deballasting, tank cleaning, cargo handling, or other such activity.
 
-(b) In prescribing regulations under subsection (a) of this section, the Secretary shall consider the types and grades of cargo permitted to be on board a tank vessel.
+(b) In prescribing regulations under subsection (a) of this section, the Secretary shall considerthe types and grades of cargo permitted to be on board a tank vessel.
 
 (c) In prescribing regulations under subsection (a) of this section, the Secretary shall establish procedures for consulting with, and receiving and considering the views of—
 
@@ -208,7 +208,7 @@ Report.—Not later than 18 months after the date of enactment of this Act \[Oct
 
 &emsp;"(5)
 
-Rulemaking.—If the Secretary of Transportation determines, based on the results of the study under this subsection, that there are significant risks to public health or the environment resulting from the actual or threatened discharge of group-5 fuel oil from a vessel or facility that cannot be technologically or economically addressed by existing or anticipated cleanup efforts, the Secretary may initiate a rulemaking to take such action as is necessary to abate the threat.
+Rulemaking.—If the Secretary of Transportation determines, based on the results of the study under this subsection, that there are significant risks to public health or the environment resulting from the actual or threatened discharge of group-5 fuel oilfrom a vessel or facility that cannot be technologically or economically addressed by existing or anticipated cleanup efforts, the Secretary may initiate a rulemaking to take such action as is necessary to abate the threat.
 
 "(b)
 
@@ -232,7 +232,7 @@ Rulemaking.—If the Secretary of Transportation determines, based on the result
 
 "(c)
 
-Lightering Study.—The Secretary of Transportation shall coordinate with the Marine Board of theNational Research Council on a study into the actual incidence and risk of oil spills from lightering operations off the coast of the United States. Among other things, the study shall address the manner in which existing regulations are serving to reduce oil spill risks. The study shall take into account current or proposed international rules and standards and also include recommendations on measures that would be likely to further reduce the risks of oil spills from lightering operations. Not later than 18 months after the date of enactment of this Act \[Oct. 19, 1996\], the Secretary shall submit a report on the study to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives."
+Lightering Study.—The Secretary of Transportation shall coordinate with the Marine Board of the National Research Council on a study into the actual incidence and risk of oil spills from lightering operations off the coast of the United States. Among other things, the study shall address the manner in which existing regulations are serving to reduce oil spill risks. The study shall take into account current or proposed international rules and standards and also include recommendations on measures that would be likely to further reduce the risks of oil spills from lightering operations. Not later than 18 months after the date of enactment of this Act \[Oct. 19, 1996\], the Secretary shall submit a report on the study to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives."
 
 #### Existing Tank Vessel Research
 
@@ -286,7 +286,7 @@ Use.—No sooner than 1 year after the Secretary prescribes regulations under su
 
 &emsp;"(2) tank level or pressure monitoring devices,
 
-> which are referred to in subsection (a) and which meet any standards established by the Secretary under subsection (a), on vessels constructed or adapted to carry, or that carry, oil in bulk as cargo or cargo residue on the navigable waters and the waters of the exclusive economic zone."
+> which are referred to in subsection (a) and which meet any standards established by the Secretary under subsection (a), on vessels constructed or adapted to carry,or that carry, oil in bulk as cargo or cargo residue on the navigable waters and the waters of the exclusive economic zone."
 
 #### Tanker Navigation Safety Standards Study
 
@@ -306,7 +306,7 @@ Escorts for Certain Tankers.—
 
 &emsp;"(1)
 
-In general.—The Secretary shall initiate issuance of regulations under section 3703(a)(3) of title 46, United States Code, to define those areas, including Prince William Sound, Alaska, and Rosario Strait and Puget Sound, Washington (including those portions of the Strait of Juan de Fuca east of PortAngeles, Haro Strait, and the Strait of Georgia subject to United States jurisdiction), on which single hulled tankers over 5,000 gross tons transporting oil in bulk shall be escorted by at least two towing vessels (as defined under section 2101 of title 46, United States Code) or other vessels considered appropriate by the Secretary.
+In general.—The Secretary shall initiate issuance of regulations under section 3703(a)(3) of title 46, United States Code, to define those areas, including Prince William Sound, Alaska, and Rosario Strait and Puget Sound, Washington (including those portions of the Strait of Juan de Fuca east of Port Angeles, Haro Strait, and the Strait of Georgia subject to United States jurisdiction), on which single hulled tankers over 5,000 gross tons transporting oil in bulk shall be escorted by at least two towing vessels (as defined under section 2101 of title 46, United States Code) or other vessels considered appropriate by the Secretary.
 
 &emsp;"(2)
 

@@ -4,9 +4,13 @@ When such game sanctuaries or refuges have been established as provided in secti
 
 (June 28, 1930, ch. 709, §2, 46 Stat. 828; June 25, 1948, ch. 645, §15, 62 Stat. 861.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1948</b>—Act June 25, 1948, struck out penal provisions (see section 41 of Title 18, Crimes and Criminal Procedure), and inserted reference to rules and regulations of the Secretary of Agriculture.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1948 Amendment
 

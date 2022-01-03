@@ -1,8 +1,10 @@
 ### §1464. Penalties in connection with sealed vessels and vehicles <sup>1</sup>
 
-If the master of such <sup>1</sup> vessel or the person in charge of any such vehicle fails to proceed with reasonable promptness to the port of destinationand to deliver such vessel or vehicle to the proper officers of the customs, or fails to proceed in accordance with such regulations of the Secretary of the Treasury, or unlades such merchandise or any part thereof at other than such port of destination, or disposes of any such merchandise by sale or otherwise, he shall be guilty of a felony and upon conviction thereof shall be fined not more than $1,000 or imprisoned for not more than five years, or both; and any such vessel or vehicle, with its contents, shall be subject to forfeiture.
+If the master of such <sup>1</sup> vessel or the person in charge of any such vehicle fails to proceed withreasonable promptness to the port of destination and to deliver such vessel or vehicle to the proper officers of the customs, or fails to proceed in accordance with such regulations of the Secretary of the Treasury, or unlades such merchandise or any part thereof at other than such port of destination, or disposes of any such merchandise by sale or otherwise, he shall be guilty of a felony and upon conviction thereof shall be fined not more than $1,000 or imprisoned for not more than five years, or both; and any such vessel or vehicle, with its contents, shall be subject to forfeiture.
 
 (June 17, 1930, ch. 497, title IV, §464, 46 Stat. 718.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

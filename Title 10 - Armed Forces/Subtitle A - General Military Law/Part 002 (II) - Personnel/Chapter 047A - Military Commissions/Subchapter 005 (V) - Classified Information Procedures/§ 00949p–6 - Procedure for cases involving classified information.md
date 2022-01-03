@@ -88,7 +88,7 @@ Prohibition on Disclosure of Classified Information by the Accused; Relief for A
 
 &emsp;(1)
 
-Order to prevent disclosure by accused.—Whenever the military judge denies a motion by the trial counsel that the judge issue an order under subsection (a), (c), or (d)and the trial counsel files with the military judge a declaration signed by a knowledgeable United States official possessing authority to classify information objecting to disclosure of the classified information at issue, the military judge shall order that the accused not disclose or cause the disclosure of such information.
+Order to prevent disclosure by accused.—Whenever the military judge denies a motion by the trial counsel that the judge issue an order under subsection (a), (c), or (d) and the trial counsel files with the military judge a declaration signed by a knowledgeable United States official possessing authority to classify information objecting to disclosure of the classified information at issue, the military judge shall order that the accused not disclose or cause the disclosure of such information.
 
 &emsp;(2)
 

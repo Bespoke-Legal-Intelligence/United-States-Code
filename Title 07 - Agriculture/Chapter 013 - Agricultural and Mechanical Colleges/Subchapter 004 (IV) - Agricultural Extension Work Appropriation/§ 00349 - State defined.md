@@ -4,11 +4,15 @@ The term "State" means the States of the Union, Puerto Rico, the Virgin Islands,
 
 (May 8, 1914, ch. 79, §10, as added Pub. L. 87–749, §1(i), Oct. 5, 1962, 76 Stat. 745; amended Pub. L. 92–318, title V, §506(h), June 23, 1972, 86 Stat. 351; Pub. L. 99–396, §9(f), Aug. 27, 1986, 100 Stat. 840.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1986</b>—Pub. L. 99–396 amended section generally, expanding definition of "State" to include the Northern Mariana Islands.
 
 <b>1972</b>—Pub. L. 92–318 inserted reference to Virgin Islands and Guam.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1972 Amendment
 

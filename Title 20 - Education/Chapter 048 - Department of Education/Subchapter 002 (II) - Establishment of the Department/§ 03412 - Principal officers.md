@@ -28,7 +28,7 @@
 
 (3) There shall be in the Department, a Special Assistant for Gender Equity who shall be appointed by the Secretary. The Special Assistant shall promote, coordinate, and evaluate gender equity programs, including the dissemination of information, technical assistance, and coordination of research activities. The Special Assistant shall advise the Secretary and Deputy Secretary on all matters relating to gender equity.
 
-(4) There shall be in the Department a Director of the Institute of Education Sciences who shall be appointed in accordance with section 114(a) of the Education Sciences Reform Act of2002 \[20 U.S.C. 9514(a)\] and perform the duties described in that Act \[20 U.S.C. 9501 et seq.\].
+(4) There shall be in the Department a Director of the Institute of Education Sciences who shall be appointed in accordance with section 114(a) of the Education Sciences Reform Act of 2002 \[20 U.S.C. 9514(a)\] and perform the duties described in that Act \[20 U.S.C. 9501 et seq.\].
 
 #### (c) Inspector General
 
@@ -64,7 +64,7 @@ Each officer of the Department established under this section shall report direc
 
 #### (h) Coordination of literacy related functions by Assistant Secretary for Career, Technical, and Adult Education
 
-The Assistant Secretary for Career, Technical, and Adult Education, in addition to performing such functions as the Secretary may prescribe, shall have responsibility for coordination of all literacy related programs and policy initiatives in the Department. The Assistant Secretary for Career, Technical, and Adult Education shall assist in coordinating the related activities and programs of other Federal departments and agencies.
+The Assistant Secretary for Career, Technical, and Adult Education, in addition to performing such functions as the Secretary may prescribe, shall have responsibility for coordination of all literacy related programs and policy initiativesin the Department. The Assistant Secretary for Career, Technical, and Adult Education shall assist in coordinating the related activities and programs of other Federal departments and agencies.
 
 #### (i) Liaison for Community and Junior Colleges
 
@@ -92,6 +92,8 @@ The Assistant Secretary for Career, Technical, and Adult Education, in addition 
 
 (Pub. L. 96–88, title II, §202, Oct. 17, 1979, 93 Stat. 671; Pub. L. 99–145, title XII, §1204(a)(1), Nov. 8, 1985, 99 Stat. 720; Pub. L. 101–509, title V, §529 \[title I, §112(a)(3)(B)\], Nov. 5, 1990, 104 Stat. 1427, 1454; Pub. L. 102–73, title I, §101, July 25, 1991, 105 Stat. 334; Pub. L. 102–103, title II, §201, Aug. 17, 1991, 105 Stat. 498; Pub. L. 102–325, title XV, §1553(a), July 23, 1992, 106 Stat. 838; Pub. L. 103–227, title IX, §913, Mar. 31, 1994, 108 Stat. 223; Pub. L. 103–382, title II, §271(b), Oct. 20, 1994, 108 Stat. 3929; Pub. L. 107–110, title X, §1072(e)(2), Jan. 8, 2002, 115 Stat. 2089; Pub. L. 107–279, title IV, §402(1), Nov. 5, 2002, 116 Stat. 1984; Pub. L. 112–166, §2(d)(1), Aug. 10, 2012, 126 Stat. 1284; Pub. L. 113–76, div. H, title III, §307(b), Jan. 17, 2014, 128 Stat. 399.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Education Sciences Reform Act of 2002, referred to in subsec. (b)(4), is title I of Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1941, which is classified generally to subchapter I (§9501 et seq.) of chapter 76 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9501 of this title and Tables.
@@ -100,7 +102,7 @@ The Inspector General Act of 1978, referred to in subsec. (c), is Pub. L. 95–4
 
 #### Amendments
 
-<b>2014</b>—Subsec. (b)(1)(C). Pub. L. 113–76, §307(b)(1), substituted "Assistant Secretary for Career, Technical,and Adult Education" for "Assistant Secretary for Vocational and Adult Education".
+<b>2014</b>—Subsec. (b)(1)(C). Pub. L. 113–76, §307(b)(1), substituted "Assistant Secretary for Career, Technical, and Adult Education" for "Assistant Secretary for Vocational and Adult Education".
 
 Subsec. (h). Pub. L. 113–76, §307(b)(2), substituted "Assistant Secretary for Career, Technical, and Adult Education" for "Assistant Secretary for Vocational and Adult Education" in two places.
 
@@ -136,6 +138,8 @@ Subsec. (h). Pub. L. 102–73 added subsec. (h).
 
 <b>1985</b>—Subsec. (e). Pub. L. 99–145 struck out subsec. (e) which provided for presence in the Department of Education of an Administrator of Education for Overseas Dependents.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2012 Amendment
 
 Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
@@ -154,7 +158,7 @@ Pub. L. 102–103, title II, §203, Aug. 17, 1991, 105 Stat. 499, provided that:
 
 "(a)
 
-In General.—This Act \[probably should be "this title", meaning title II of Pub. L. 102–103, amending this section and section 5314 of Title 5, Government Organization and Employees\] shall take effect on the first day of the first Department of Education pay period that begins on or after the date of enactment of this Act \[Aug. 17, 1991\].
+In General.—This Act \[probably should be "this title", meaning title II of Pub. L. 102–103, amendingthis section and section 5314 of Title 5, Government Organization and Employees\] shall take effect on the first day of the first Department of Education pay period that begins on or after the date of enactment of this Act \[Aug. 17, 1991\].
 
 "(b)
 

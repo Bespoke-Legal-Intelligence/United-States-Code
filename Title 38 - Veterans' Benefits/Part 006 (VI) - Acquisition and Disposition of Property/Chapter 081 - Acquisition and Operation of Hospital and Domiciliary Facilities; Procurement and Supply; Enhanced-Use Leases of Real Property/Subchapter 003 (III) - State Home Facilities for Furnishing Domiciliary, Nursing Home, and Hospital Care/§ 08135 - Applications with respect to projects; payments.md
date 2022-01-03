@@ -40,7 +40,7 @@
 
 (2) Subject to paragraphs (3) and (5)(C) of this subsection, the Secretary shall accord priority to applications in the following order:
 
-&emsp;(A) An application from a State that has made sufficient funds available for the project for which the grant is requested so that such project may proceed upon approval of the grant without further action required by the State to make such funds available for such purpose.
+&emsp;(A) An application from a State that has made sufficient funds available for the projectfor which the grant is requested so that such project may proceed upon approval of the grant without further action required by the State to make such funds available for such purpose.
 
 &emsp;(B) An application from a State for a project at an existing facility to remedy a condition or conditions that have been cited by an accrediting institution, by the Secretary, or by a local licensing or approving body of the State as being threatening to the lives or safety of the patients in the facility.
 
@@ -152,7 +152,7 @@ Subsec. (d). Pub. L. 99–576, §224(c), struck out par. (1) designation, substi
 
 Subsec. (b). Pub. L. 99–166, §205(b), designated existing provisions as par. (1), redesignated cls. (1) to (4) as (A) to (D), respectively, and added par. (2).
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–528, §105(3)(A), inserted "(or acquisition of a facility to be used as a State home facility)" after "State home facilities" in provisions preceding par. (1).
+<b>1984</b>—Subsec. (a). Pub. L. 98–528, §105(3)(A), inserted "(or acquisition of a facility to be used as a State homefacility)" after "State home facilities" in provisions preceding par. (1).
 
 Subsec. (a)(1). Pub. L. 98–528, §105(3)(B), inserted "(or of the estimated cost of facility acquisition and construction)" after "cost of construction".
 
@@ -202,7 +202,7 @@ Amendment by Pub. L. 99–576 effective July 1, 1987, see section 224(e) of Pub.
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–62 effective Oct. 1, 1977, with provision for the continuing force and effect of theterms and conditions of grants made prior to Oct. 1, 1977, under former section 644 of this title and with additional provision for the modification of the terms and conditions of both grants made under former section 644 of this title prior to Oct. 1, 1977, and of grants made under this subchapter prior to Oct. 1, 1977, see section 5 of Pub. L. 95–62, set out as a note under section 8131 of this title.
+Amendment by Pub. L. 95–62 effective Oct. 1, 1977, with provision for the continuing force and effect of the terms and conditions of grants made prior to Oct. 1, 1977, under former section 644 of this title and with additional provision for the modification of the terms and conditions of both grants made under former section 644 of this title prior to Oct. 1, 1977, and of grants made under this subchapter prior to Oct. 1, 1977, see section 5 of Pub. L. 95–62, set out as a note under section 8131 of this title.
 
 #### Effective Date of 1976 Amendment
 
@@ -232,7 +232,7 @@ Pub. L. 106–117, title II, §207(c), Nov. 30, 1999, 113 Stat. 1566, provided t
 
 &emsp;"(A) the term 'fiscal year 1999 priority one project' means a project on the list of approved projects established by the Secretary on October 29, 1998, under section 8135(b)(4) of title 38, United States Code, as in effect on that date that (pursuant to section 8135(b)(2)(A) of that title) is in the grouping of projects on that list designated as Priority Group 1;
 
-&emsp;"(B) the term 'fiscal year 2000 priority one project' means a project on the list of approved projects established by the Secretary on November 3, 1999, under section 8135(b)(4) of title 38, United States Code, as in effect on that date that (pursuant to section 8135(b)(2)(A) of that title) is in the grouping of projects on that list designated as Priority Group 1; and
+&emsp;"(B) the term 'fiscal year 2000 priority one project' means a project on the list of approved projects established by the Secretary on November 3, 1999, under section 8135(b)(4) of title 38, United States Code, as ineffect on that date that (pursuant to section 8135(b)(2)(A) of that title) is in the grouping of projects on that list designated as Priority Group 1; and
 
 &emsp;"(C) the term 'State home grant program' means the grant program under subchapter III of chapter 81 of title 38, United States Code."
 

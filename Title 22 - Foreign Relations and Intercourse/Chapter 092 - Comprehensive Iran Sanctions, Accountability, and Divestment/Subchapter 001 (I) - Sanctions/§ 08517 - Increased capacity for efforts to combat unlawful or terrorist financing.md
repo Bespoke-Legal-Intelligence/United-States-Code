@@ -4,7 +4,7 @@
 
 Congress finds the following:
 
-&emsp;(1) The work of the Office of Terrorism and Financial Intelligence of the Department of the Treasury, which includes the Office of Foreign Assets Control and the Financial CrimesEnforcement Network, is critical to ensuring that the international financial system is not used for purposes of supporting terrorism and developing weapons of mass destruction.
+&emsp;(1) The work of the Office of Terrorism and Financial Intelligence of the Department of the Treasury, which includes the Office of Foreign Assets Control and the Financial Crimes Enforcement Network, is critical to ensuring that the international financial system is not used for purposes of supporting terrorism and developing weapons of mass destruction.
 
 &emsp;(2) The Secretary of the Treasury has designated, including most recently on June 16, 2010, various Iranian individuals and banking, military, energy, and shipping entities as proliferators of weapons of mass destruction pursuant to Executive Order 13382 (50 U.S.C. 1701 note), thereby blocking transactions subject to the jurisdiction of the United States by those individuals and entities and their supporters.
 

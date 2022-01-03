@@ -18,7 +18,7 @@ Inquiries, Reports, and Orders.—The Board may—
 
 (c)
 
-Subpoena Witnesses.—(1) The Board may subpoena witnesses and records related to a proceeding of the Board from any place in the United States, to the designated place of the proceeding. If a witness disobeys a subpoena, the Board, or a party to a proceeding before the Board, may petition a court of the United States to enforce that subpoena.
+Subpoena Witnesses.—(1) The Board may subpoena witnesses and records related to a proceeding of the Board from any place in the United States, to the designated place of the proceeding. If a witness disobeys a subpoena, theBoard, or a party to a proceeding before the Board, may petition a court of the United States to enforce that subpoena.
 
 (2) The district courts of the United States have jurisdiction to enforce a subpoena issued under this section. Trial is in the district in which the proceeding is conducted. The court may punish a refusal to obey a subpoena as a contempt of court.
 
@@ -28,7 +28,7 @@ Depositions.—(1) In a proceeding, the Board may take the testimony of a witnes
 
 (2) If a witness fails to be deposed or to produce records under paragraph (1), the Board may subpoena the witness to take a deposition, produce the records, or both.
 
-(3) A deposition may be taken before a judge of a court of the United States, a United States magistrate judge, a clerk of a district court, or a chancellor, justice, or judge of a supreme or superior court, mayor or chief magistrate of acity, judge of a county court, or court of common pleas of any State, or a notary public who is not counsel or attorney of a party or interested in the proceeding.
+(3) A deposition may be taken before a judge of a court of the United States, a United States magistrate judge, a clerk of a district court, or a chancellor, justice, or judge of a supreme or superior court, mayor or chief magistrate of a city, judge of a county court, or court of common pleas of any State, or a notary public who is not counsel or attorney of a party or interested in the proceeding.
 
 (4) Before taking a deposition, reasonable notice must be given in writing by the party or the attorney of that party proposing to take a deposition to the opposing party or the attorney of record of that party, whoever is nearest. The notice shall state the name of the witness and the time and place of taking the deposition.
 
@@ -41,6 +41,8 @@ Depositions.—(1) In a proceeding, the Board may take the testimony of a witnes
 Witness Fees.—Each witness summoned before the Board or whose deposition is taken under this section and the individual taking the deposition are entitled to the same fees and mileage paid for those services in the courts of the United States.
 
 (Added Pub. L. 104–88, title II, §201(a), Dec. 29, 1995, 109 Stat. 935, §721; renumbered §1321, Pub. L. 114–110, §3(a)(5), Dec. 18, 2015, 129 Stat. 2228.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

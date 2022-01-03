@@ -1,6 +1,6 @@
 ### §436. Regulations
 
-The Secretary of Defense shall prescribe regulations to implement the authority provided inthis subchapter. Such regulations shall be consistent with this subchapter and shall at a minimum—
+The Secretary of Defense shall prescribe regulations to implement the authority provided in this subchapter. Such regulations shall be consistent with this subchapter and shall at a minimum—
 
 &emsp;(1) specify all elements of the Department of Defense who are authorized to engage in commercial activities pursuant to this subchapter;
 
@@ -15,6 +15,8 @@ The Secretary of Defense shall prescribe regulations to implement the authority 
 &emsp;(6) provide for appropriate internal audit controls and oversight for such activities.
 
 (Added Pub. L. 102–88, title V, §504(a)(2), Aug. 14, 1991, 105 Stat. 439; amended Pub. L. 113–66, div. A, title IX, §921(b), Dec. 26, 2013, 127 Stat. 827.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

@@ -12,7 +12,7 @@
 
 &emsp;(D) the card issuer has provided the cardholder with a description of a means by which the card issuer may be notified of loss or theft of the card, which description may be provided on the face or reverse side of the statement required by section 1637(b) of this title or on a separate notice accompanying such statement;
 
-&emsp;(E) the unauthorized use occurs before the card issuer has been notified that an unauthorized use of the credit card has occurred or may occur as the result of loss, theft, or otherwise; and
+&emsp;(E) the unauthorized use occurs before the card issuer has been notified that an unauthorized use of the credit card has occurred ormay occur as the result of loss, theft, or otherwise; and
 
 &emsp;(F) the card issuer has provided a method whereby the user of such card can be identified as the person authorized to use it.
 
@@ -32,9 +32,13 @@ Except as provided in this section, a cardholder incurs no liability from the un
 
 (Pub. L. 90–321, title I, §133, as added Pub. L. 91–508, title V, §502(a), Oct. 26, 1970, 84 Stat. 1126; amended Pub. L. 96–221, title VI, §617, Mar. 31, 1980, 94 Stat. 182.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–221 revised existing provisions into pars. (1) and (2) and, as so revised, in par. (1) made changes in structure and phraseology and revised means of notice and verification, and in par. (2) made changes in phraseology.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

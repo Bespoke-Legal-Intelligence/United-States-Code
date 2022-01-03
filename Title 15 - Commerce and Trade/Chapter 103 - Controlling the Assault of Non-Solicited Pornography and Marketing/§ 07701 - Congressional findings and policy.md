@@ -8,7 +8,7 @@ The Congress finds the following:
 
 &emsp;(2) The convenience and efficiency of electronic mail are threatened by the extremely rapid growth in the volume of unsolicited commercial electronic mail. Unsolicited commercial electronic mail is currently estimated to account for over half of all electronic mail traffic, up from an estimated 7 percent in 2001, and the volume continues to rise. Most of these messages are fraudulent or deceptive in one or more respects.
 
-&emsp;(3) The receipt of unsolicited commercial electronic mail may result in costs to recipients who cannot refuse to accept such mail and who incur costs for the storage of such mail, or for the time spent accessing, reviewing, and discarding such mail, or for both.
+&emsp;(3) The receipt of unsolicited commercial electronic mail may result in costs to recipients who cannot refuse to accept such mailand who incur costs for the storage of such mail, or for the time spent accessing, reviewing, and discarding such mail, or for both.
 
 &emsp;(4) The receipt of a large number of unwanted messages also decreases the convenience of electronic mail and creates a risk that wanted electronic mail messages, both commercial and noncommercial, will be lost, overlooked, or discarded amidst the larger volume of unwanted messages, thus reducing the reliability and usefulness of electronic mail to the recipient.
 
@@ -39,6 +39,8 @@ On the basis of the findings in subsection (a), the Congress determines that—
 &emsp;(3) recipients of commercial electronic mail have a right to decline to receive additional commercial electronic mail from the same source.
 
 (Pub. L. 108–187, §2, Dec. 16, 2003, 117 Stat. 2699.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

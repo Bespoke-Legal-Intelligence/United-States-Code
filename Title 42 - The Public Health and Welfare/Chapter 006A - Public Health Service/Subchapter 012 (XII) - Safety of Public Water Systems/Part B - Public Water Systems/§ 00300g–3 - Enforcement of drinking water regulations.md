@@ -140,7 +140,7 @@ The Administrator may bring a civil action in the appropriate United States dist
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not later than January 1, 1998, and annually thereafter, each State that has primary enforcement responsibility under section 300g–2 of this title shall prepare, make readily available to the public, and submit to the Administrator an annual report on violations of national primary drinking water regulations by public water systems in the State, including violationswith respect to (I) maximum contaminant levels, (II) treatment requirements, (III) variances and exemptions, and (IV) monitoring requirements determined to be significant by the Administrator after consultation with the States.
+&emsp;&emsp;&emsp;Not later than January 1, 1998, and annually thereafter, each State that has primary enforcement responsibility under section 300g–2 of this title shall prepare, make readily available to the public, and submit to the Administrator an annual report on violations of national primary drinking water regulations by public water systems in the State, including violations with respect to (I) maximum contaminant levels, (II) treatment requirements, (III) variances and exemptions, and (IV) monitoring requirements determined to be significant by the Administrator after consultation with the States.
 
 #### (ii) Distribution
 
@@ -252,7 +252,7 @@ The Administrator may bring a civil action in the appropriate United States dist
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) with respect to the concentration of lead in the drinking water of the affected households; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) that the concentration of lead in the drinking water of the affectedhouseholds exceeds the lead action level under section 141.80(c) of title 40, Code of Federal Regulations (or a prescribed level of lead that the Administrator establishes for public education or notification in a successor regulation promulgated pursuant to section 300g–1 of this title).
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) that the concentration of lead in the drinking water of the affected households exceeds the lead action level under section 141.80(c) of title 40,Code of Federal Regulations (or a prescribed level of lead that the Administrator establishes for public education or notification in a successor regulation promulgated pursuant to section 300g–1 of this title).
 
 #### (iii) Consultation
 
@@ -440,7 +440,9 @@ In this section, the term "applicable requirement" means—
 
 &emsp;In developing the strategic plan under paragraph (1), the Administrator may, as appropriate, consult with States or other Federal agencies that have experience using practicable methods and means to improve the accuracy and availability of submitted data described in such paragraph.
 
-(July 1, 1944, ch. 373, title XIV, §1414, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1666; amended Pub. L. 95–190, §12(b), Nov. 16, 1977, 91 Stat. 1398; Pub. L. 99–339, title I, §§102, 103, June 19, 1986, 100 Stat. 647, 648; Pub. L. 104–182, title I, §§113(a), 114(a), Aug. 6, 1996, 110 Stat. 1634, 1636;Pub. L. 107–188, title IV, §403(1), June 12, 2002, 116 Stat. 687; Pub. L. 114–322, title II, §2106(a), Dec. 16, 2016, 130 Stat. 1722; Pub. L. 115–270, title II, §§2008–2010(a), 2011, Oct. 23, 2018, 132 Stat. 3846, 3847, 3849.)
+(July 1, 1944, ch. 373, title XIV, §1414, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1666; amended Pub. L. 95–190, §12(b), Nov. 16, 1977, 91 Stat. 1398; Pub. L. 99–339, title I, §§102, 103, June 19, 1986, 100 Stat. 647, 648; Pub. L. 104–182, title I, §§113(a), 114(a), Aug. 6, 1996, 110 Stat. 1634, 1636; Pub. L. 107–188, title IV, §403(1), June 12, 2002, 116 Stat. 687; Pub. L. 114–322, title II, §2106(a), Dec. 16, 2016, 130 Stat. 1722; Pub. L. 115–270, title II, §§2008–2010(a), 2011, Oct. 23, 2018, 132 Stat. 3846, 3847, 3849.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 180 days after the date on which Commission staff provide <sup>1</sup> a written Wells notification to any person, the Commission staff shall either file an action againstsuch person or provide notice to the Director of the Division of Enforcement of its intent to not file an action.
+&emsp;Not later than 180 days after the date on which Commission staff provide <sup>1</sup> a written Wells notification to any person, the Commission staff shall either file an action against such person or provide notice to the Director of the Division of Enforcement of its intent to not file an action.
 
 #### (2) Exceptions for certain complex actions
 
@@ -18,9 +18,11 @@
 
 #### (2) Exception for certain complex actions
 
-&emsp;Notwithstanding paragraph (1), if the head of any division or office within the Commission responsible for compliance examinations and inspections or his designee determines that a particular compliance examination or inspection is sufficiently complex such that a determination regarding concluding the examination or inspection, or regarding the staff requests the entity undertake corrective action, cannot be completed within the deadline specified in paragraph (1), the head of any division or office within the Commission responsible for compliance examinations and inspections or his designee may, after providing notice to the Chairman of the Commission, extend such deadline as needed for one additional 180-day period.
+&emsp;Notwithstanding paragraph (1), if the head of any division or office within the Commission responsible for compliance examinations and inspections or his designee determines that a particular compliance examination or inspection is sufficiently complex such that a determination regarding concluding the examination or inspection, or regarding the staff requests the entity undertake corrective action, cannot be completed within the deadline specified in paragraph (1), the head of any divisionor office within the Commission responsible for compliance examinations and inspections or his designee may, after providing notice to the Chairman of the Commission, extend such deadline as needed for one additional 180-day period.
 
 (June 6, 1934, ch. 404, title I, §4E, as added Pub. L. 111–203, title IX, §929U, July 21, 2010, 124 Stat. 1867.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

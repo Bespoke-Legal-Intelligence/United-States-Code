@@ -40,6 +40,7 @@
 |  |  |
 | :--- | ---: |
 | [1231\.](Subchapter%20004%20%28IV%29%20-%20Abandoned%20Mine%20Reclamations/%C2%A7%2001231%20-%20Abandoned%20Mine%20Reclamation%20Fund.md) | Abandoned Mine Reclamation Fund. |
+| [1231a.](Subchapter%20004%20%28IV%29%20-%20Abandoned%20Mine%20Reclamations/%C2%A7%2001231a%20-%20Abandoned%20mine%20reclamation%20fund%20authorization%20of%20appropriations.md) | Abandoned mine reclamation fund authorization of appropriations. |
 | [1232\.](Subchapter%20004%20%28IV%29%20-%20Abandoned%20Mine%20Reclamations/%C2%A7%2001232%20-%20Reclamation%20fee.md) | Reclamation fee. |
 | [1233\.](Subchapter%20004%20%28IV%29%20-%20Abandoned%20Mine%20Reclamations/%C2%A7%2001233%20-%20Objectives%20of%20fund.md) | Objectives of fund. |
 | [1234\.](Subchapter%20004%20%28IV%29%20-%20Abandoned%20Mine%20Reclamations/%C2%A7%2001234%20-%20Eligible%20lands%20and%20water.md) | Eligible lands and water. |
@@ -54,6 +55,7 @@
 | [1242\.](Subchapter%20004%20%28IV%29%20-%20Abandoned%20Mine%20Reclamations/%C2%A7%2001242%20-%20Powers%20of%20Secretary%20or%20State.md) | Powers of Secretary or State. |
 | [1243\.](Subchapter%20004%20%28IV%29%20-%20Abandoned%20Mine%20Reclamations/%C2%A7%2001243%20-%20Interagency%20cooperation.md) | Interagency cooperation. |
 | [1244\.](Subchapter%20004%20%28IV%29%20-%20Abandoned%20Mine%20Reclamations/%C2%A7%2001244%20-%20Remining%20incentives.md) | Remining incentives. |
+| [1245\.](Subchapter%20004%20%28IV%29%20-%20Abandoned%20Mine%20Reclamations/%C2%A7%2001245%20-%20Abandoned%20hardrock%20mine%20reclamation.md) | Abandoned hardrock mine reclamation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -66,7 +66,7 @@ Each PDP sponsor of a prescription drug plan shall meet the following requiremen
 
 &emsp;&emsp;&emsp;(i) may be used for the purposes of carrying out this part, improving public health through research on the utilization, safety, effectiveness, quality, and efficiency of health care services (as the Secretary determines appropriate); and
 
-&emsp;&emsp;&emsp;(ii) shall be made available to Congressional <sup>1</sup> support agencies (in accordance with their obligations to support Congress as set out in their authorizing statutes) for the purposes of conducting Congressional <sup>1</sup> oversight, monitoring, making recommendations, and analysis of the program under this subchapter.
+&emsp;&emsp;&emsp;(ii) shall be made available to Congressional <sup>1</sup> support agencies (in accordance with their obligations to support Congress as set out in their authorizing statutes) for the purposes of conducting Congressional <sup>1</sup>oversight, monitoring, making recommendations, and analysis of the program under this subchapter.
 
 #### (E) Intermediate sanctions
 
@@ -136,7 +136,7 @@ Each PDP sponsor of a prescription drug plan shall meet the following requiremen
 
 #### (iii) Obligation to pay
 
-&emsp;&emsp;&emsp;A claim submitted to a PDP sponsor that is not paid or contested by the sponsor within the applicable number of days (as defined in subparagraph (B)) after the date on which the claim is received shall be deemed to be a clean claim and shall bepaid by the PDP sponsor in accordance with subparagraph (A).
+&emsp;&emsp;&emsp;A claim submitted to a PDP sponsor that is not paid or contested by the sponsor within the applicable number of days (as defined in subparagraph (B)) after the date on which the claim is received shall be deemed to be a clean claim and shall be paid by the PDP sponsor in accordance with subparagraph (A).
 
 #### (iv) Date of payment of claim
 
@@ -208,7 +208,7 @@ Each PDP sponsor of a prescription drug plan shall meet the following requiremen
 
 &emsp;&emsp;In applying subparagraph (A)(i)—
 
-&emsp;&emsp;&emsp;(i) the ground of approval described in section 1395w–25(a)(2)(B) of this title isdeemed to have been met if the State does not have a licensing process in effect with respect to the PDP sponsor; and
+&emsp;&emsp;&emsp;(i) the ground of approval described in section 1395w–25(a)(2)(B) of this title is deemed to have been met if the State does not have a licensing process in effect with respect to the PDP sponsor; and
 
 &emsp;&emsp;&emsp;(ii) for plan years beginning before January 1, 2008, if the State does have such a licensing process in effect, such ground for approval described in such section is deemed to have been met upon submission of an application described in such section.
 
@@ -254,6 +254,8 @@ The provisions of sections 1395w–24(g) and 1395w–26(b)(3) of this title shal
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1860D–12, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2099; amended Pub. L. 110–275, title I, §§171(a), 172(a)(1), 173(a), 181, July 15, 2008, 122 Stat. 2578, 2580–2582; Pub. L. 115–271, title II, §2008(a), Oct. 24, 2018, 132 Stat. 3931.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (b)(7). Pub. L. 115–271 added par. (7).
@@ -265,6 +267,8 @@ Subsec. (b)(4). Pub. L. 110–275, §171(a), added par. (4).
 Subsec. (b)(5). Pub. L. 110–275, §172(a)(1), added par. (5).
 
 Subsec. (b)(6). Pub. L. 110–275, §173(a), added par. (6).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

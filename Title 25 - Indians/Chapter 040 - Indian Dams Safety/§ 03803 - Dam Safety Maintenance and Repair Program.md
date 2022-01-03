@@ -98,7 +98,7 @@ The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq
 
 #### Change of Name
 
-Subcommittee on Native American Affairs changed to Subcommittee on Native American and Insular Affairs.
+Subcommittee on Native American Affairs changed to Subcommittee for Indigenous Peoples of the United States.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

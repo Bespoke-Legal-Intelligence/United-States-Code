@@ -2,7 +2,7 @@
 
 #### (a) Loan guarantees; criteria for approval; recovery of payments by United States; modification, etc., of terms and conditions; incontestability
 
-(1) The Secretary may not approve a loan guarantee for a project under this part unless he determines that (A) the terms, conditions, security (if any), and schedule and amount of repayments with respect to the loan are sufficient to protect the financial interests of the United States and are otherwise reasonable, including a determination that the rate of interest does not exceed such per centum per annum on the principal obligation outstanding as the Secretary determines to be reasonable, taking into account the range of interest rates prevailing inthe private market for similar loans and the risks assumed by the United States, and (B) the loan would not be available on reasonable terms and conditions without the guarantee under this part.
+(1) The Secretary may not approve a loan guarantee for a project under this part unless he determines that (A) the terms, conditions, security (if any), and schedule and amount of repayments with respect to the loan are sufficient to protect the financial interests of the United States and are otherwise reasonable, including a determination that the rate of interest does not exceed such per centum per annum on the principal obligation outstanding as the Secretary determines to be reasonable, taking into account the range of interest rates prevailing in the private market for similar loans and the risks assumed by the United States, and (B) the loan would not be available on reasonable terms and conditions without the guarantee under this part.
 
 (2)(A) The United States shall be entitled to recover from the applicant for a loan guarantee under this part the amount of any payment made pursuant to such guarantee, unless the Secretary for good cause waives such right of recovery; and, upon making any such payment, the United States shall be subrogated to all of the rights of the recipient of the payments with respect to which the guarantee was made.
 
@@ -26,7 +26,7 @@
 
 #### (c) Sale of loans; authority; amount; agreements with purchasers; deposit of proceeds
 
-(1) The Secretary shall from time to time, but with due regard to the financial interests of the United States, sell loans made under this part either on the private market or to the Federal National Mortgage Association in accordance with section 1717 of title 12 or to the Federal Financing Bank.
+(1) The Secretary shall from time to time, but with due regard to the financial interests of theUnited States, sell loans made under this part either on the private market or to the Federal National Mortgage Association in accordance with section 1717 of title 12 or to the Federal Financing Bank.
 
 (2) Any loan so sold shall be sold for an amount which is equal (or approximately equal) to the amount of the unpaid principal of such loans as of time of sale.
 
@@ -82,7 +82,7 @@
 
 &emsp;(F) to enable the Secretary to take the action authorized by subsection (f),
 
-> he is authorized to issue to the Secretary of the Treasury notes or other obligations in such forms and denominations, bearing such maturities, and subject to such terms and conditions, as may be prescribed by the Secretary with the approval of the Secretary of the Treasury. Such notes or other obligations shall bear interest at a rate determined by the Secretary of the Treasury, taking into consideration the current average market yield on outstanding marketable obligations of the United States of comparable maturities during the month preceding the issuance of the notes or other obligations. The Secretary of the Treasury shall purchase any notes and other obligations issued under this paragraph and for that purpose he may use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, and the purposes for which the securities may be issued under that chapter are extended to include any purchase of such notes and obligations. The Secretary of the Treasury may at any time sell any of the notes or other obligations acquired by him under this paragraph. All redemptions, purchases, and sales by the Secretary of the Treasury of such notes or other obligations shall be treated as public debt transactions of the United States. Sums borrowed under this paragraph shall be deposited in the fund and redemption of such notes and obligations shall be made by the Secretary from the fund.
+> he is authorized to issue to the Secretary of the Treasury notes or other obligations in such forms and denominations, bearing such maturities, and subject to such terms and conditions, as may be prescribed by the Secretary with the approval of the Secretary of the Treasury. Such notes or other obligations shall bear interest at a rate determined by the Secretary of the Treasury, taking into consideration the current average market yield on outstanding marketable obligations of the United States of comparable maturities during the month preceding the issuance of the notes or other obligations. TheSecretary of the Treasury shall purchase any notes and other obligations issued under this paragraph and for that purpose he may use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, and the purposes for which the securities may be issued under that chapter are extended to include any purchase of such notes and obligations. The Secretary of the Treasury may at any time sell any of the notes or other obligations acquired by him under this paragraph. All redemptions, purchases, and sales by the Secretary of the Treasury of such notes or other obligations shall be treated as public debt transactions of the United States. Sums borrowed under this paragraph shall be deposited in the fund and redemption of such notes and obligations shall be made by the Secretary from the fund.
 
 #### (e) Transfers to and additional capitalization of loan and loan guarantee fund
 
@@ -94,9 +94,11 @@
 
 (1) The Secretary may take such action as may be necessary to prevent a default on a loan made or guaranteed under this part or under subchapter IV, including the waiver of regulatory conditions, deferral of loan payments, renegotiation of loans, and the expenditure of funds for technical and consultative assistance, for the temporary payment of the interest and principal on such a loan, and for other purposes. Any such expenditure made under the preceding sentence on behalf of a medical facility shall be made under such terms and conditions as the Secretary shall prescribe, including the implementation of such organizational, operational, and financial reforms as the Secretary determines are appropriate and the disclosure of such financial or other information as the Secretary may require to determine the extent of the implementation of such reforms.
 
-(2) The Secretary may take such action, consistent with State law respecting foreclosureprocedures, as he deems appropriate to protect the interest of the United States in the event of a default on a loan made or guaranteed under this part or under subchapter IV, including selling real property pledged as security for such a loan or loan guarantee and for a reasonable period of time taking possession of, holding, and using real property pledged as security for such a loan or loan guarantee.
+(2) The Secretary may take such action, consistent with State law respecting foreclosure procedures, as he deems appropriate to protect the interest of the United States in the event of a default on a loan made or guaranteed under this part or under subchapter IV, including selling real property pledged as security for such a loan or loan guarantee and for a reasonable period of time taking possession of, holding, and using real property pledged as security for such a loan or loan guarantee.
 
 (July 1, 1944, ch. 373, title XVI, §1602, formerly §1622, as added Pub. L. 93–641, §4, Jan. 4, 1975, 88 Stat. 2265; amended Pub. L. 95–83, title I, §106(x)(2), (y), Aug. 1, 1977, 91 Stat. 385; renumbered §1602 and amended Pub. L. 96–79, title II, §§201(b)(2), (3), 203(a)(1), (3), (g), Oct. 4, 1979, 93 Stat. 631, 635; Pub. L. 97–414, §8(q), Jan. 4, 1983, 96 Stat. 2062; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -125,6 +127,8 @@ Subsec. (f). Pub. L. 96–79, §203(g)(1), added subsec. (f).
 <b>1977</b>—Subsec. (c)(5). Pub. L. 95–83, §106(y), added subsec. (c)(5).
 
 Subsec. (e)(2). Pub. L. 95–83, §106(x)(2), substituted provisions authorizing appropriations for fiscal years ending Sept. 30, 1977 and 1978, for prior such authorization for fiscal year ending June 30, 1977.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1979 Amendment
 

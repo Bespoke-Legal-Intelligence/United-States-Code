@@ -34,7 +34,7 @@ Amendment of an approved application shall be subject to approval in the same ma
 
 #### (f) Incontestable guarantee
 
-Any guarantee of a loan to a nonprofit private agency made by the Secretary pursuant to thispart shall be incontestable in the hands of an applicant on whose behalf such guarantee is made, and as to any person who makes or contracts to make a loan to such applicant in reliance thereon, except for fraud or misrepresentation on the part of such applicant or such other person.
+Any guarantee of a loan to a nonprofit private agency made by the Secretary pursuant to this part shall be incontestable in the hands of an applicant on whose behalf such guarantee is made, and as to any person who makes or contracts to make a loan to such applicant in reliance thereon, except for fraud or misrepresentation on the part of such applicant or such other person.
 
 (July 1, 1944, ch. 373, title VI, §623, as added Pub. L. 91–296, title II, §201, June 30, 1970, 84 Stat. 346.)
 

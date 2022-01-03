@@ -20,13 +20,19 @@ The Congress makes the following findings:
 
 (Pub. L. 107–210, div. B, title XXI, §2101, Aug. 6, 2002, 116 Stat. 993.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (a), was in the original "This title", meaning title XXI of Pub. L. 107–210, div. B, Aug. 6, 2002, 116 Stat. 993, which enacted this chapter and amended sections 2151 to 2155, 2191, and 2212 of this title. For complete classification of title XXI to the Code, see Tables.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title
 
 Pub. L. 107–210, §1, Aug. 6, 2002, 116 Stat. 933, provided that: "This Act \[see Tables for classification\] may be cited as the 'Trade Act of 2002'."
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13277. Delegation of Certain Authorities and Assignment of Certain Functions Under the Trade Act of 2002
 
@@ -34,7 +40,7 @@ Ex. Ord. No. 13277, Nov. 19, 2002, 67 F.R. 70305, as amended by Ex. Ord. No. 133
 
 By the authority vested in me as President by the Constitution and the laws of the United States, including the Trade Act of 2002 (the "Act") (Public Law 107–210) \[see Short Title note above\] and section 301 of title 3, United States Code, it is hereby ordered as follows:
 
-Section 1. <i>Trade Promotion</i>. (a) Except as provided in subsections (b) and (c) of this section, the authorities granted to and functions specifically assigned to the President under Division B of the Act \[19 U.S.C. 3801 et seq.\] are delegated and assigned, respectively, to the United States Trade Representative (U.S. Trade Representative).
+Section 1. <i>Trade Promotion</i>. (a) Except as provided in subsections (b) and (c) of this section, the authoritiesgranted to and functions specifically assigned to the President under Division B of the Act \[19 U.S.C. 3801 et seq.\] are delegated and assigned, respectively, to the United States Trade Representative (U.S. Trade Representative).
 
 (b) The exercise of the following authorities of, and functions specifically assigned to the President, under Division B of the Act are reserved to the President:
 

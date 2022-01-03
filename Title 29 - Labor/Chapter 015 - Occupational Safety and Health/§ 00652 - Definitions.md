@@ -10,7 +10,7 @@ For the purposes of this chapter—
 
 &emsp;(4) The term "person" means one or more individuals, partnerships, associations, corporations, business trusts, legal representatives, or any organized group of persons.
 
-&emsp;(5) The term "employer" means a person engaged in a business affecting commerce who has employees, but does not include the United States (not including the United States Postal Service) or any State or political subdivision of a State.
+&emsp;(5) The term "employer" means a person engaged in a business affecting commerce who has employees, but does not include the United States (not including the United StatesPostal Service) or any State or political subdivision of a State.
 
 &emsp;(6) The term "employee" means an employee of an employer who is employed in a business of his employer which affects commerce.
 
@@ -40,13 +40,15 @@ For the purposes of this chapter—
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
-#### Termination of Trust Territory of the Pacific Islands
-
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
 #### Termination of Advisory Committees
 
 Advisory committees in existence on January 5, 1973, to terminate not later than the expiration of the 2-year period following January 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### <b>Executive Documents</b>
+
+#### Termination of Trust Territory of the Pacific Islands
+
+For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "means".</i>
 

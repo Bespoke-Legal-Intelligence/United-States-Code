@@ -10,9 +10,13 @@ The Administration may not award any contract for the performance of any "commer
 
 (Pub. L. 99–272, title VI, §6083, Apr. 7, 1986, 100 Stat. 135; Pub. L. 103–437, §5(b)(3), Nov. 2, 1994, 108 Stat. 4582.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–437 in introductory provisions substituted "Committee on Science, Space, and Technology" for "Committee on Science and Technology" before "of the House".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 

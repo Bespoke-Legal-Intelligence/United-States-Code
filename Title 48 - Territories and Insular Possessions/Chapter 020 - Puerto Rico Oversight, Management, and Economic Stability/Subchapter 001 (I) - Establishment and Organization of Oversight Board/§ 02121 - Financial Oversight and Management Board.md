@@ -32,7 +32,7 @@ An Oversight Board established under this section—
 
 #### (B) Budgets and reports
 
-&emsp;&emsp;The Oversight Board may require, in its sole discretion, the Governor to submit to the Oversight Board such budgets and monthly or quarterly reports regarding a covered territorial instrumentality as the Oversight Board determines to be necessary and may designate any covered territorial instrumentality to be included in the Territory Budget; except that the Oversight Board may not designate a covered territorial instrumentality to be included in the Territory Budget if applicable territory law does not require legislative approval of such covered territorial instrumentality's budget.
+&emsp;&emsp;The Oversight Board may require, in its sole discretion, the Governor to submit to the Oversight Board such budgets and monthly or quarterly reports regarding a covered territorial instrumentality as the Oversight Board determines to be necessaryand may designate any covered territorial instrumentality to be included in the Territory Budget; except that the Oversight Board may not designate a covered territorial instrumentality to be included in the Territory Budget if applicable territory law does not require legislative approval of such covered territorial instrumentality's budget.
 
 #### (C) Separate Instrumentality Budgets and reports
 
@@ -161,6 +161,8 @@ Members of the Oversight Board shall serve without pay, but may receive reimburs
 &emsp;Upon a majority vote of the Oversight Board's full voting membership, the Oversight Board may conduct its business in an executive session that consists solely of the Oversight Board's voting members and any professionals the Oversight Board determines necessary and is closed to the public, but only for the business items set forth as part of the vote to convene an executive session.
 
 (Pub. L. 114–187, title I, §101, June 30, 2016, 130 Stat. 553.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

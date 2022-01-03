@@ -2,7 +2,7 @@
 
 #### (a) Establishment, operation, and purpose; qualifications for funds
 
-The Secretary may make grants to States, or otherwise as provided in subsection (c), under this section to provide for the establishment and operation of offices of consumer services to assist consumers in their presentations before utility regulatory commissions. Any assistanceprovided under this section shall be provided only for an office of consumer services which is operated independently of any such utility regulatory commission and which is empowered to—
+The Secretary may make grants to States, or otherwise as provided in subsection (c), under this section to provide for the establishment and operation of offices of consumer services to assist consumers in their presentations before utility regulatory commissions. Any assistance provided under this section shall be provided only for an office of consumer services which isoperated independently of any such utility regulatory commission and which is empowered to—
 
 &emsp;(1) make general factual assessments of the impact of proposed rate changes and other proposed regulatory actions upon all affected consumers;
 
@@ -19,6 +19,8 @@ Grants pursuant to subsection (a) of this section shall be made only to States w
 Assistance may be provided under this section to an office of consumer services established by the Tennessee Valley Authority, if such office is operated independently of the Tennessee Valley Authority.
 
 (Pub. L. 94–385, title II, §205, Aug. 14, 1976, 90 Stat. 1144; Pub. L. 95–617, title I, §143, Nov. 9, 1978, 92 Stat. 3134.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

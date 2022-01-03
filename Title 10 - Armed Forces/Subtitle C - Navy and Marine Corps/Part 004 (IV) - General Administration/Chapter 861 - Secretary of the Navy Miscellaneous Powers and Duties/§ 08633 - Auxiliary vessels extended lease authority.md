@@ -44,7 +44,7 @@ Vessel Operation.—(1) The Secretary may operate a vessel held by the Secretary
 
 (g)
 
-Contingent Waiver of Other Provisions of Law.—(1) The Secretary may waive the applicability of subsections (e)(2) and (f) of section 2401 of this title to a contract authorized by law as provided in subsection (b) if the Secretary makes the following findings with respect to that contract:
+Contingent Waiver of Other Provisions of Law.—(1) The Secretary may waive the applicability of subsection (b)(2) of section 3672 and section 3675 of this title to a contract authorized by law as provided in subsection (b) if the Secretary makes the following findings with respect to that contract:
 
 &emsp;(A) The need for the vessels or services to be provided under the contract is expected to remain substantially unchanged during the contemplated contract or option period.
 
@@ -66,9 +66,7 @@ Source of Funds for Termination Liability.—If a contract entered into under th
 
 (Added Pub. L. 106–65, div. A, title X, §1014(a)(1), Oct. 5, 1999, 113 Stat. 741, §7233; renumbered §8633, Pub. L. 115–232, div. A, title VIII, §807(d)(1), Aug. 13, 2018, 132 Stat. 1836; Pub. L. 116–283, div. A, title XVIII, §1883(b)(2), Jan. 1, 2021, 134 Stat. 4294.)
 
-#### Amendment of Section
-
-<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, except as otherwise provided in title XVIII of Pub. L. 116–283, in title 10, United States Code, each reference in the text of such title to a source section that is redesignated by title XVIII of Pub. L. 116–283, is amended by striking such reference and inserting a reference to the appropriate section as so redesignated. See 2021 Amendment note below.</i>
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -79,6 +77,8 @@ A prior section 8633, act Aug. 10, 1946, ch. 1041, 70A Stat. 532, provided for f
 <b>2021</b>—Subsec. (g)(1). Pub. L. 116–283 substituted "subsection (b)(2) of section 3672 and section 3675" for "subsections (e)(2) and (f) of section 2401".
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7233 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2021 Amendment
 
@@ -91,4 +91,30 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 #### Effective Date
 
 Pub. L. 106–65, div. A, title X, §1014(c), Oct. 5, 1999, 113 Stat. 742, provided that: "Section 7233 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1999."
+
+#### Long-Term Lease or Charter Authority for Certain Double-Hull Tankers and Oceanographic Vessels
+
+Pub. L. 103–160, div. A, title I, §126, Nov. 30, 1993, 107 Stat. 1567, as amended by Pub. L. 104–106, div. D, title XLIII, §4321(i)(1)(A), Feb. 10, 1996, 110 Stat. 676, provided that:
+
+"(a)
+
+Authority.—The Secretary of the Navy may enter into a long-term lease or charter for any double-hull tanker or oceanographic vessel constructed in a United States shipyard after the date of the enactment of this Act \[Nov. 30, 1993\] using assistance provided under the National Shipbuilding Initiative.
+
+"(b)
+
+Conditions on Obligation of Funds.—Unless budget authority is specifically provided in an appropriations Act for the lease or charter of vessels pursuant to subsection (a), the Secretary may not enter into a contract for a lease or charter pursuant to that subsection unless the contract includes the following provisions:
+
+&emsp;"(1) A statement that the obligation of the United States to make payments under the contract in any fiscal year is subject to appropriations being provided specifically for that fiscal year and specifically for that lease or charter or that kind of vessel lease or charter.
+
+&emsp;"(2) A commitment to obligate the necessary amount for each fiscal year covered by the contract when and to the extent that funds are appropriated for that lease or charter, or that kind of lease or charter, for that fiscal year.
+
+&emsp;"(3) A statement that such a commitment given under paragraph (2) does not constitute an obligation of the United States.
+
+"(c)
+
+Inapplicability of Certain Laws.—A long-term lease or charter authorized by subsection (a) may be entered into without regard to the provisions of section 2401 \[see 10 U.S.C. 3671 et seq.\] or 2401a \[see 10 U.S.C. 3678, 3681\] of title 10, United States Code.
+
+"(d)
+
+Definition.—For purposes of subsection (a), the term 'long-term lease or charter' has the meaning given that term in subparagraph (A) of section 2401(d)(1) of title 10, United States Code \[now 10 U.S.C. 3674(a)(1)(A)\]."
 

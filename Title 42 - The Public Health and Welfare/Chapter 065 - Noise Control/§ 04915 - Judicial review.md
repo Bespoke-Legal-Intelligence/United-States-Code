@@ -2,7 +2,7 @@
 
 #### (a) Petition for review
 
-A petition for review of action of the Administrator of the Environmental Protection Agencyin promulgating any standard or regulation under sections 4905, 4916, or 4917 of this title or any labeling regulation under section 4907 of this title may be filed only in the United States Court of Appeals for the District of Columbia Circuit, and a petition for review of action of the Administrator of the Federal Aviation Administration in promulgating any standard or regulation under section 44715 of title 49 may be filed only in such court. Any such petition shall be filed within ninety days from the date of such promulgation, or after such date if such petition is based solely on grounds arising after such ninetieth day. Action of either Administrator with respect to which review could have been obtained under this subsection shall not be subject to judicial review in civil or criminal proceedings for enforcement.
+A petition for review of action of the Administrator of the Environmental Protection Agency in promulgating any standard or regulation under sections 4905, 4916, or 4917 of this title or any labeling regulation under section 4907 of this title may be filed only in the United States Court of Appeals for the District of Columbia Circuit, and a petition for review of action of the Administrator of the Federal Aviation Administration in promulgating any standard or regulation under section 44715 of title 49 may be filed only in such court. Any such petition shall be filed within ninety days from the date of such promulgation, or after such date if such petition is based solely on grounds arising after such ninetieth day. Action of either Administrator with respect to which review could have been obtained under this subsection shall not be subject to judicial review in civil or criminal proceedings for enforcement.
 
 #### (b) Additional evidence
 
@@ -17,6 +17,8 @@ With respect to relief pending review of an action by either Administrator, no s
 For the purpose of obtaining information to carry out this chapter, the Administrator of the Environmental Protection Agency may issue subpenas for the attendance and testimony of witnesses and the production of relevant papers, books, and documents, and he may administer oaths. Witnesses summoned shall be paid the same fees and mileage that are paid witnesses in the courts of the United States. In cases of contumacy or refusal to obey a subpena served upon any person under this subsection, the district court of the United States for any district in which such person is found or resides or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the Administrator, to appear and produce papers, books, and documents before the Administrator, or both, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
 
 (Pub. L. 92–574, §16, Oct. 27, 1972, 86 Stat. 1247.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

@@ -52,7 +52,7 @@ In this chapter:
 
 &emsp;The term "foreign person" means—
 
-&emsp;&emsp;(A) an individual who is not a United States citizen or an alien lawfully admittedfor permanent residence to the United States; or
+&emsp;&emsp;(A) an individual who is not a United States citizen or an alien lawfully admitted for permanent residence to the United States; or
 
 &emsp;&emsp;(B) an entity that is not a United States person.
 

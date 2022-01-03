@@ -1,0 +1,62 @@
+### §18752. Property interests relating to certain projects and protection of information relating to certain agreements
+
+#### (a) <sup>1</sup> Property interests relating to federally funded advanced nuclear reactor projects
+
+#### (1) Definitions
+
+&emsp;In this section:
+
+#### (A) Advanced nuclear reactor
+
+&emsp;&emsp;The term "advanced nuclear reactor" has the meaning given the term in section 16271(b) of this title.
+
+#### (B) Property interest
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Except as provided in clause (ii), the term "property interest" means any interest in real property or personal property (as those terms are defined in section 200.1 of title 2, Code of Federal Regulations (as in effect on November 15, 2021)).
+
+#### (ii) Exclusion
+
+&emsp;&emsp;&emsp;The term "property interest" does not include any interest in intellectual property developed using funding provided under a project described in paragraph (3).
+
+#### (2) Assignment of property interests
+
+&emsp;The Secretary may assign to any entity, including the United States, fee title or any other property interest acquired by the Secretary under an agreement entered into with respect to a project described in paragraph (3).
+
+#### (3) Project described
+
+&emsp;A project referred to in paragraph (2) is—
+
+&emsp;&emsp;(A) a project for which funding is provided pursuant to the funding opportunity announcement of the Department numbered DE–FOA–0002271, including any project for which funding has been provided pursuant to that announcement as of November 15, 2021;
+
+&emsp;&emsp;(B) any other project for which funding is provided using amounts made available for the Advanced Reactor Demonstration Program of the Department under the heading "Nuclear Energy" under the heading "ENERGY PROGRAMS" in title III of division C of the Further Consolidated Appropriations Act, 2020 (Public Law 116–94; 133 Stat. 2670);
+
+&emsp;&emsp;(C) any other project for which Federal funding is provided under the Advanced Reactor Demonstration Program of the Department; or
+
+&emsp;&emsp;(D) a project—
+
+&emsp;&emsp;&emsp;(i) relating to advanced nuclear reactors; and
+
+&emsp;&emsp;&emsp;(ii) for which Federal funding is provided under a program focused on development and demonstration.
+
+#### (4) Retroactive vesting
+
+&emsp;The vesting of fee title or any other property interest assigned under paragraph (2) shall be retroactive to the date on which the applicable project first received Federal funding as described in any of subparagraphs (A) through (D) of paragraph (3).
+
+(Pub. L. 117–58, div. D, title III, §40322(a), Nov. 15, 2021, 135 Stat. 1017.)
+
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+The Further Consolidated Appropriations Act, 2020, referred to in subsec. (a)(3)(B), is Pub. L. 116–94, Dec. 20, 2019, 133 Stat. 2534. Title III of division C of the Act is title III of div. C of Pub. L. 116–94, Dec. 20, 2019, 133 Stat. 2669, which enacted section 825s–8 of Title 16, Conservation, and provisions set out as notes under section 6939f of this title and 838i of Title 16, and provisions set out in a table under sections 6241 and 7171 of this title. For complete classification of this Act to the Code, see Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Wage Rate Requirements
+
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of this title.
+
+<i><sup>1</sup></i><i> So in original. No subsec. (b) has been enacted.</i>
+

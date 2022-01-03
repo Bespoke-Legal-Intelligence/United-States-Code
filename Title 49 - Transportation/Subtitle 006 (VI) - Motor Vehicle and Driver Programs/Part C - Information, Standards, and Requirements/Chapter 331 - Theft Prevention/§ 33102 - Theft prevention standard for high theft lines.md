@@ -10,7 +10,7 @@ General.—(1) The Secretary of Transportation by regulation shall prescribe a v
 
 (2) The standard may apply only to—
 
-&emsp;(A) major parts that manufacturers install in passenger motor vehicles having a model year designation later than the calendar year in which the standard takes effect; and
+&emsp;(A) major parts that manufacturers install in passenger motor vehicles having a modelyear designation later than the calendar year in which the standard takes effect; and
 
 &emsp;(B) major replacement parts manufactured after the standard takes effect.
 
@@ -73,6 +73,8 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, §602(e); added Oct. 25, 1984, Pu
 In subsection (a)(1), before clause (A), the words "in accordance with this section" are omitted as surplus.
 
 In subsection (a)(2), the text of 15:2022(c)(1)–(3) is omitted as obsolete because the standard has already been prescribed. See 49 C.F.R. part 541.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -12,11 +12,11 @@ Under regulations prescribed by the Secretary, the basis of a United States shar
 
 #### (2) Amount in excess of basis
 
-&emsp;To the extent that an amount excluded from gross income under section 959(a) exceeds the adjusted basis of the stock or other property with respect to which it is received, the amount shall be treated as gain from the sale or exchange of property.
+&emsp;To the extent that an amount excluded from gross income under section 959(a) exceeds the adjusted basis of the stock or other propertywith respect to which it is received, the amount shall be treated as gain from the sale or exchange of property.
 
 #### (c) Basis adjustments in stock held by foreign corporations
 
-Under regulations prescribed by the Secretary, if a United States shareholder is treated undersection 958(a)(2) as owning stock in a controlled foreign corporation which is owned by another controlled foreign corporation, then adjustments similar to the adjustments provided by subsections (a) and (b) shall be made to—
+Under regulations prescribed by the Secretary, if a United States shareholder is treated under section 958(a)(2) as owning stock in a controlled foreign corporation which is owned by another controlled foreign corporation, then adjustments similar to the adjustments provided by subsections (a) and (b) shall be made to—
 
 &emsp;(1) the basis of such stock, and
 
@@ -30,6 +30,8 @@ If a domestic corporation received a dividend from a specified 10-percent owned 
 
 (Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1022; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–34, title XI, §1112(b)(1), Aug. 5, 1997, 111 Stat. 969; Pub. L. 109–135, title IV, §409(b), Dec. 21, 2005, 119 Stat. 2635; Pub. L. 115–97, title I, §14102(b)(1), Dec. 22, 2017, 131 Stat. 2192.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Subsec. (d). Pub. L. 115–97 added subsec. (d).
@@ -39,6 +41,8 @@ If a domestic corporation received a dividend from a specified 10-percent owned 
 <b>1997</b>—Subsec. (c). Pub. L. 105–34 added subsec. (c).
 
 <b>1976</b>—Subsecs. (a), (b)(1). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 

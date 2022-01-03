@@ -10,7 +10,7 @@ Contracting officer.—The term "contracting officer" means an individual who, b
 
 Contractor bid or proposal information.—The term "contractor bid or proposal information" means any of the following information submitted to a Federal agency as part of, or in connection with, a bid or proposal to enter into a Federal agency procurement contract, if that information previously has not been made available to the public or disclosed publicly:
 
-&emsp;&emsp;(A) Cost or pricing data (as defined in section 2306a(h) of title 10 with respect to procurements subject to that section and section 3501(a) of this title with respect to procurements subject to that section).
+&emsp;&emsp;(A) Cost or pricing data (as defined in section 3701 of title 10 with respect to procurements subject to that section and section 3501(a) of this title with respect to procurements subject to that section).
 
 &emsp;&emsp;(B) Indirect costs and direct labor rates.
 
@@ -56,7 +56,7 @@ Source selection information.—The term "source selection information" means an
 
 &emsp;&emsp;(F) Cost or price evaluations of proposals.
 
-&emsp;&emsp;(G) Competitive range determinations that identify proposals that have a reasonable chance of being selected for award of a contract.
+&emsp;&emsp;(G) Competitive range determinations that identify proposals that have a reasonablechance of being selected for award of a contract.
 
 &emsp;&emsp;(H) Rankings of bids, proposals, or competitors.
 
@@ -64,7 +64,7 @@ Source selection information.—The term "source selection information" means an
 
 &emsp;&emsp;(J) Other information marked as "source selection information" based on a case-by-case determination by the head of the agency, the head's designee, or the contracting officer that its disclosure would jeopardize the integrity or successful completion of the Federal agency procurement to which the information relates.
 
-(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3727.)
+(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3727; Pub. L. 117–81, div. A, title XVII, §1702(h)(10), Dec. 27, 2021, 135 Stat. 2158.)
 
 Historical and Revision Notes
 
@@ -105,4 +105,10 @@ Pub. L. 93–400, §27(f), as added Pub. L. 100–679, §6(a), Nov. 17, 1988, 10
 2101(7)
 
 41:423(f)(2).
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2021</b>—Par. (2)(A). Pub. L. 117–81 substituted "section 3701" for "section 2306a(h)".
 

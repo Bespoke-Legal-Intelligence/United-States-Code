@@ -4,6 +4,8 @@ Regulations issued pursuant to this chapter shall provide for the redemption of 
 
 (Pub. L. 88–525, §10, Aug. 31, 1964, 78 Stat. 706; Pub. L. 91–671, §6, Jan. 11, 1971, 84 Stat. 2051; Pub. L. 92–603, title IV, §411(c)–(e), Oct. 30, 1972, 86 Stat. 1491; Pub. L. 93–86, §3(f), (i), (k), Aug. 10, 1973, 87 Stat. 247, 248; Pub. L. 93–125, §1(j), Oct. 18, 1973, 87 Stat. 450; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 969; Pub. L. 96–58, §8, Aug. 14, 1979, 93 Stat. 392; Pub. L. 96–249, title I, §101(b), May 26, 1980, 94 Stat. 357; Pub. L. 97–98, title XIII, §1315, Dec. 22, 1981, 95 Stat. 1285; Pub. L. 99–198, title XV, §§1501(b), 1522, 1523(a), Dec. 23, 1985, 99 Stat. 1566, 1580; Pub. L. 99–570, title XI, §11002(e), Oct. 27, 1986, 100 Stat. 3207–168; Pub. L. 107–171, title IV, §4113(a), May 13, 2002, 116 Stat. 313; Pub. L. 110–234, title IV, §4115(b)(7), May 22, 2008, 122 Stat. 1107; Pub. L. 110–246, §4(a), title IV, §4115(b)(7), June 18, 2008, 122 Stat. 1664, 1868; Pub. L. 113–79, title IV, §4011(b)(2)(B), Feb. 7, 2014, 128 Stat. 793; Pub. L. 115–334, title IV, §4022(4), Dec. 20, 2018, 132 Stat. 4653.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Credit Union Act, referred to in text, is act June 26, 1934, ch. 750, 48 Stat. 1216, as amended, which is classified generally to chapter 14 (§1751 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
@@ -28,7 +30,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 Pub. L. 99–198, §1522, inserted ", or which are insured under the Federal Credit Union Act and have retail food stores or wholesale food concerns in their field of membership" and "or the Federal Credit Union Act".
 
-Pub. L. 99–198, §1523(a), inserted sentence providing that no financial institution may impose on or collect from a retail food store a fee or other charge for the redemption of coupons that are submitted to the financial institution in a manner consistent with the requirements, other than any requirements relating tocancellation of coupons, for the presentation of coupons by financial institutions to the Federal Reserve banks.
+Pub. L. 99–198, §1523(a), inserted sentence providing that no financial institution may impose on or collect from a retail food store a fee or other charge for the redemption of coupons that are submitted to the financial institution in a manner consistent with the requirements, other than any requirements relating to cancellation of coupons, for the presentation of coupons by financial institutions to the Federal Reserve banks.
 
 <b>1981</b>—Pub. L. 97–98 substituted "financial institutions which are insured by the Federal Deposit Insurance Corporation or the Federal Savings and Loan Insurance Corporation" for "banks" wherever appearing.
 
@@ -55,6 +57,8 @@ Subsec. (e). Pub. L. 92–603, §411(d), (e), substituted "prescribed by the Sec
 Subsec. (e). Pub. L. 91–671, §6(b), substituted "regulations" for "regulation" in second sentence preceding cl. (1) and "from time to time may" for "may from time to time", and added cls. (5) and (6) and provision for withholding in the State plan.
 
 Subsec. (h). Pub. L. 91–671, §6(c), added subsec. (h).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

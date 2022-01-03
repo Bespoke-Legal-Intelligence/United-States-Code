@@ -18,7 +18,7 @@
 
 #### (2) Expansion of negotiated rulemaking
 
-&emsp;All regulations pertaining to this subchapter that are promulgated after October 7, 1998, shall be subject to a negotiated rulemaking (including the selection of the issues to be negotiated), unless the Secretary determines that applying such a requirement with respect to given regulations is impracticable, unnecessary, or contrary to the public interest (within the meaning of section 553(b)(3)(B) of title 5), and publishes the basis for such determination in the Federal Register at the same time as the proposed regulations in question are first published. All published proposed regulations shall conform to agreements resulting from such negotiated rulemaking unless the Secretary reopens the negotiated rulemaking process or provides a written explanation to the participants in that process why the Secretary has decided to depart from such agreements. Such negotiated rulemaking shall be conducted in accordance with the provisions of paragraph (1), and the Secretary shall ensure that a clear and reliable record of agreements reached during the negotiations process is maintained.
+&emsp;All regulations pertaining to this subchapter that are promulgated after October 7, 1998, shall be subject to a negotiated rulemaking (including the selection of the issues to be negotiated), unless the Secretary determines that applying such a requirement with respect to given regulations is impracticable, unnecessary, or contrary to the public interest (within the meaning of section 553(b)(3)(B) of title 5), and publishes the basis for such determination in the Federal Register at the same time as the proposed regulations in question are first published. All published proposed regulations shall conform to agreements resulting from such negotiated rulemaking unless the Secretary reopens the negotiated rulemaking process or provides a written explanation to the participants in that process why the Secretary has decided to depart from such agreements. Such negotiated rulemaking shall be conducted in accordance with the provisions of paragraph (1), and the Secretary shall ensure that a clear and reliable record of agreementsreached during the negotiations process is maintained.
 
 #### (c) Applicability of Federal Advisory Committee Act
 
@@ -29,6 +29,8 @@ The Federal Advisory Committee Act shall not apply to activities carried out und
 There are authorized to be appropriated in any fiscal year or made available from funds appropriated to carry out this part in any fiscal year such sums as may be necessary to carry out the provisions of this section, except that if no funds are appropriated pursuant to this subsection, the Secretary shall make funds available to carry out this section from amounts appropriated for the operations and expenses of the Department of Education.
 
 (Pub. L. 89–329, title IV, §492, as added Pub. L. 102–325, title IV, §497, July 23, 1992, 106 Stat. 633; amended Pub. L. 105–244, title IV, §490D, Oct. 7, 1998, 112 Stat. 1755; Pub. L. 110–315, title IV, §494D, Aug. 14, 2008, 122 Stat. 3324; Pub. L. 111–39, title IV, §407(b)(12), July 1, 2009, 123 Stat. 1953.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -56,7 +58,9 @@ Subsec. (a)(2). Pub. L. 105–244, §490D(a)(2)(B)–(D), substituted "this subc
 
 Pub. L. 105–244, §490D(a)(2)(A), which directed substitution of "The" for "During such meetings the", was executed by making the substitution for "During such meetings, the" before "Secretary shall provide", to reflect the probable intent of Congress.
 
-Subsec. (b). Pub. L. 105–244, §490D(b), designated existing provisions as par. (1), inserted par. (1) heading, substituted "obtaining the advice and recommendations described in subsection (a)(1)" for "holding regional meetings", "this subchapter" for "parts B, G, and H of this subchapter", "1998" for "1992", "360-day" for "240-day", and "section 1232(e)" for "section 1232(g)", struck out "The Secretary shall follow the guidance provided in sections 305.82–4 and 305.85–5 ofchapter 1, Code of Federal Regulations, and any successor recommendation, regulation, or law." after "rulemaking process." and "participating in the regional meetings" after "nominated by groups", and added par. (2).
+Subsec. (b). Pub. L. 105–244, §490D(b), designated existing provisions as par. (1), inserted par. (1) heading, substituted "obtaining the advice and recommendations described in subsection (a)(1)" for "holding regional meetings", "this subchapter" for "parts B, G, and H of this subchapter", "1998" for "1992", "360-day" for "240-day", and "section 1232(e)" for "section 1232(g)", struck out "The Secretary shall follow the guidance provided in sections 305.82–4 and 305.85–5 of chapter 1, Code of Federal Regulations, and any successor recommendation, regulation, or law." after "rulemaking process." and "participating in the regional meetings" after "nominated by groups", and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

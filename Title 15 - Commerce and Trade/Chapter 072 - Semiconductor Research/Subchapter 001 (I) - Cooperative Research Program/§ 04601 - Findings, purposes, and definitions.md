@@ -26,6 +26,8 @@ In this subchapter:
 
 (Pub. L. 100–180, div. A, title II, §271, Dec. 4, 1987, 101 Stat. 1068; Pub. L. 103–160, div. A, title II, §263(c)(1), Nov. 30, 1993, 107 Stat. 1610.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1993</b>—Subsec. (c)(1). Pub. L. 103–160 substituted "Semiconductor Technology Council" for "Advisory Council on Federal Participation in Sematech".

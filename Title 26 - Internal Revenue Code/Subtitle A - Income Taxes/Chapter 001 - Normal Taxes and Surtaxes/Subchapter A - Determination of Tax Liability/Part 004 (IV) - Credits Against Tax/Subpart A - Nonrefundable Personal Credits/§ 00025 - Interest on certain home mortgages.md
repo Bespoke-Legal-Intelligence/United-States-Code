@@ -158,7 +158,7 @@ For purposes of this section—
 
 #### (C) Applicable tax limit
 
-&emsp;&emsp;For purposes of this paragraph, the term "applicable tax limit" means the limitation imposed by section 26(a) for the taxable year reduced by the sum of the credits allowable under this subpart (other than this section and sections 23 and 25D).
+&emsp;&emsp;For purposes of this paragraph, the term "applicable tax limit" means the limitationimposed by section 26(a) for the taxable year reduced by the sum of the credits allowable under this subpart (other than this section and sections 23 and 25D).
 
 #### (2) Indebtedness not treated as certified where certain requirements not in fact met
 
@@ -188,7 +188,7 @@ For purposes of this section—
 
 #### (4) Reissuance of mortgage credit certificates
 
-&emsp;The Secretary may prescribe regulations which allow the administrator of a mortgage credit certificate program to reissue a mortgage credit certificate specifying a certifiedmortgage indebtedness that replaces the outstanding balance of the certified mortgage indebtedness specified on the original certificate to any taxpayer to whom the original certificate was issued, under such terms and conditions as the Secretary determines are necessary to ensure that the amount of the credit allowable under subsection (a) with respect to such reissued certificate is equal to or less than the amount of credit which would be allowable under subsection (a) with respect to the original certificate for any taxable year ending after such reissuance.
+&emsp;The Secretary may prescribe regulations which allow the administrator of a mortgage credit certificate program to reissue a mortgage credit certificate specifying a certified mortgage indebtedness that replaces the outstanding balance of the certified mortgage indebtedness specified on the original certificate to any taxpayer to whom the original certificate was issued, under such terms and conditions as the Secretary determines are necessary to ensure that the amount of the credit allowable under subsection (a) with respect to such reissued certificate is equal to or less than the amount of credit which would be allowable under subsection (a) with respect to the original certificate for any taxable year ending after such reissuance.
 
 #### (5) Public notice that certificates will be issued
 
@@ -236,7 +236,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of paragraph (1), the term "correction amount" means an amount equal to the excess credit amount divided by 0.25.
+&emsp;&emsp;For purposes of paragraph (1), the term "correction amount" means an amountequal to the excess credit amount divided by 0.25.
 
 #### (B) Excess credit amount
 
@@ -292,6 +292,8 @@ Each person who makes a loan which is a certified indebtedness amount under any 
 
 (Added Pub. L. 98–369, div. A, title VI, §612(a), July 18, 1984, 98 Stat. 905; amended Pub. L. 99–514, title XIII, §1301(f), title XVIII, §§1862(a)–(d)(1), 1899A(1), Oct. 22, 1986, 100 Stat. 2655, 2883, 2884, 2958; Pub. L. 100–647, title I, §1013(a)(25), (26), title IV, §4005(a)(2), (g)(7), Nov. 10, 1988, 102 Stat. 3543, 3645, 3651; Pub. L. 101–239, title VII, §7104(b), Dec. 19, 1989, 103 Stat. 2305; Pub. L. 101–508, title XI, §11408(b), Nov. 5, 1990, 104 Stat. 1388–477; Pub. L. 102–227, title I, §108(b), Dec. 11, 1991, 105 Stat. 1688; Pub. L. 103–66, title XIII, §13141(b), Aug. 10, 1993, 107 Stat. 436; Pub. L. 104–188, title I, §1807(c)(1), Aug. 20, 1996, 110 Stat. 1902; Pub. L. 105–34, title III, §312(d)(1), Aug. 5, 1997, 111 Stat. 839; Pub. L. 105–206, title VI, §6008(d)(7), July 22, 1998, 112 Stat. 812; Pub. L. 107–16, title II, §201(b)(2)(F), title VI, §618(b)(2)(B), June 7, 2001, 115 Stat. 46, 108; Pub. L. 109–58, title XIII, §1335(b)(2), Aug. 8, 2005, 119 Stat. 1036; Pub. L. 109–135, title IV, §402(i)(3)(C), (4), Dec. 21, 2005, 119 Stat. 2613, 2615; Pub. L. 110–343, div. B, title II, §205(d)(1)(B), Oct. 3, 2008, 122 Stat. 3838; Pub. L. 111–5, div. B, title I, §§1004(b)(2), 1142(b)(1)(B), 1144(b)(1)(B), Feb. 17, 2009, 123 Stat. 314, 330, 332; Pub. L. 111–148, title X, §10909(b)(2)(B), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 112–240, title I, §104(c)(2)(C), Jan. 2, 2013, 126 Stat. 2322; Pub. L. 115–141, div. U, title IV, §401(d)(4)(B)(ii), Mar. 23, 2018, 132 Stat. 1209.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 25 was renumbered section 26 of this title.
@@ -306,7 +308,7 @@ A prior section 25 was renumbered section 26 of this title.
 
 &emsp;"(ii) in the case of a taxable year to which section 26(a)(2) does not apply, the limitation imposed by section 26(a)(1) for the taxable year reduced by the sum of the credits allowable under this subpart (other than this section and sections 23, 24, 25A(i), 25B, 25D, 30, 30B, 30D, and 1400C)."
 
-<b>2010</b>—Subsec. (e)(1)(C). Pub. L. 111–148, §10909(b)(2)(B), (c), as amended by Pub. L. 111–312, temporarily struck out "23," after "and sections" in cls. (i) and (ii). See Effective and Termination Dates of 2010 Amendment note below.
+<b>2010</b>—Subsec. (e)(1)(C). Pub. L. 111–148, §10909(b)(2)(B), (c), as amended by Pub. L. 111–312, temporarily struckout "23," after "and sections" in cls. (i) and (ii). See Effective and Termination Dates of 2010 Amendment note below.
 
 <b>2009</b>—Subsec. (e)(1)(C)(ii). Pub. L. 111–5, §1144(b)(1)(B), inserted "30B," after "30,".
 
@@ -412,6 +414,8 @@ Subsec. (f)(3). Pub. L. 99–514, §1301(f)(2)(O), substituted "section 146(d)(3
 
 Subsec. (f)(4). Pub. L. 99–514, §1899A(1), substituted "ensure" for "insure".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2013 Amendment
 
 Amendment by Pub. L. 112–240 applicable to taxable years beginning after Dec. 31, 2011, see section 104(d) of Pub. L. 112–240, set out as a note under section 23 of this title.
@@ -440,7 +444,7 @@ Amendment by section 402(i)(3)(C) of Pub. L. 109–135 subject to title IX of th
 
 The Internal Revenue Code of 1986 to be applied and administered as if the amendments made by section 1335(b)(1)–(3) of Pub. L. 109–58 had never been enacted, see section 402(i)(4) of Pub. L. 109–135, set out as a note under section 23 of this title.
 
-Amendments by Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of2005, Pub. L. 109–58, to which they relate, except that amendment by section 402(i)(3)(C) of Pub. L. 109–135 is applicable to taxable years beginning after Dec. 31, 2005, see section 402(m) of Pub. L. 109–135, set out as a note under section 23 of this title.
+Amendments by Pub. L. 109–135 effective as if included in the provisions of the Energy Policy Act of 2005, Pub. L. 109–58, to which they relate, except that amendment by section 402(i)(3)(C) of Pub. L. 109–135 is applicable to taxable years beginning after Dec. 31, 2005, see section 402(m) of Pub. L. 109–135, set out as a note under section 23 of this title.
 
 Amendment by Pub. L. 109–58 applicable to property placed in service after Dec. 31, 2005, in taxable years ending after such date, see section 1335(c) of Pub. L. 109–58, set out as a note under section 23 of this title.
 
@@ -490,7 +494,7 @@ Amendment by section 4005(g)(7) of Pub. L. 100–647 applicable to financing pro
 
 Amendment by section 1301(f)(1) of Pub. L. 99–514 applicable to nonissued bond amounts elected after Aug. 15, 1986, and amendment by section 1301(f)(2) of Pub. L. 99–514 applicable to certificates issued with respect to nonissued bond amounts elected after Aug. 15, 1986, see section 1311(b) of Pub. L. 99–514, as amended, set out as an Effective Date; Transitional Rules note under section 141 of this title.
 
-Amendment by section 1862(a)–(d)(1) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by section 1862(a)–(d)(1) of Pub. L. 99–514 effective, except as otherwise provided, as if included inthe provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date
 

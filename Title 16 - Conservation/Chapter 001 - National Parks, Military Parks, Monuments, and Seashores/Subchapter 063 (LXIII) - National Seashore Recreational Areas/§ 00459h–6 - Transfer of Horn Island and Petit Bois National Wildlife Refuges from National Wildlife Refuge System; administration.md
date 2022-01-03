@@ -6,9 +6,13 @@
 
 (Pub. L. 91–660, §7, Jan. 8, 1971, 84 Stat. 1969; Pub. L. 109–163, div. B, title XXVIII, §2872(b), Jan. 6, 2006, 119 Stat. 3535.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–163 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Excess Department of Defense Property on Santa Rosa and Okaloosa Island, Florida, to Gulf Islands National Seashore
 

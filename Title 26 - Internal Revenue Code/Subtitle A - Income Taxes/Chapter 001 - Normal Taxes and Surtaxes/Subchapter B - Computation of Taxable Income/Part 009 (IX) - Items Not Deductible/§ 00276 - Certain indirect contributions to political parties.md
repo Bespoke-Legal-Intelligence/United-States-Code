@@ -38,11 +38,15 @@ For purposes of this section—
 
 (Added Pub. L. 89–368, title III, §301(a), Mar. 15, 1966, 80 Stat. 66; amended Pub. L. 90–364, title I, §108(a), June 28, 1968, 82 Stat. 268; Pub. L. 93–443, title IV, §406(d), Oct. 15, 1974, 88 Stat. 1296.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1974</b>—Subsecs. (c), (d). Pub. L. 93–443 struck out subsec. (c) relating to advertising in a convention program of a national political convention, and redesignated subsec. (d) as (c).
 
 <b>1968</b>—Subsecs. (c), (d). Pub. L. 90–364 added subsec. (c) and redesignated former subsec. (c) as (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1974 Amendment
 

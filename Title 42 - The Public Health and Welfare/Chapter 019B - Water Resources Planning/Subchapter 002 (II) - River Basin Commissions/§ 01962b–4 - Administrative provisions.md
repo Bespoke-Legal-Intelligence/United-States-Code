@@ -30,7 +30,7 @@ To the extent permitted by law, all appropriate records and papers of each river
 
 #### (d) Information and personnel from other Federal agencies
 
-Upon request of the chairman of any river basin commission, or any member or employee of such commission designated by the chairman thereof for the purpose, the head of any Federal department or agency is authorized (1) to furnish to such commission such information as may be necessary for carrying out its functions and as may be available to or procurable by such department or agency, and (2) to detail to temporary duty with such commission on a reimbursable basis such personnel within his administrative jurisdiction as it may need or believe to be useful for carrying out its functions, each such detail to be without loss of seniority, pay, or other employee status.
+Upon request of the chairman of any river basin commission, or any member or employeeof such commission designated by the chairman thereof for the purpose, the head of any Federal department or agency is authorized (1) to furnish to such commission such information as may be necessary for carrying out its functions and as may be available to or procurable by such department or agency, and (2) to detail to temporary duty with such commission on a reimbursable basis such personnel within his administrative jurisdiction as it may need or believe to be useful for carrying out its functions, each such detail to be without loss of seniority, pay, or other employee status.
 
 #### (e) Responsibility for personnel and funds
 
@@ -38,9 +38,13 @@ The chairman of each river basin commission shall, with the concurrence of the v
 
 (Pub. L. 89–80, title II, §205, July 22, 1965, 79 Stat. 249; Pub. L. 94–112, §1(c), Oct. 16, 1975, 89 Stat. 575.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1975</b>—Subsec. (a)(4). Pub. L. 94–112 substituted "not in excess of the daily equivalent of the rate prescribed for grade GS–18 under section 5332 of title 5" for "not to exceed $100 per diem".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

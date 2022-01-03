@@ -8,7 +8,7 @@ In this section—
 
 &emsp;(2) the term "private nonprofit organization" means an entity that is described in section 501(c) of title 26 and exempt from taxation under section 501(a) of such title;
 
-&emsp;(3) the term "small business concern owned and controlled by women", either startup or existing, includes any small business concern—
+&emsp;(3) the term "small business concern owned and controlled by women", either startup orexisting, includes any small business concern—
 
 &emsp;&emsp;(A) that is not less than 51 percent owned by 1 or more women; and
 
@@ -60,7 +60,7 @@ The Administration may provide financial assistance to private nonprofit organiz
 
 #### (d) Contract authority
 
-A women's business center may enter into a contract with a Federal department or agency to provide specific assistance to women andother underserved small business concerns. Performance of such contract should not hinder the women's business centers in carrying out the terms of the grant received by the women's business centers from the Administration.
+A women's business center may enter into a contract with a Federal department or agency to provide specific assistance to women and other underserved small business concerns. Performance of such contract should not hinder the women's business centers in carrying out the terms of the grant received by the women's business centers from the Administration.
 
 #### (e) Submission of 5-year plan
 
@@ -82,7 +82,7 @@ The Administration shall evaluate and rank applicants in accordance with predete
 
 #### (1) Establishment
 
-&emsp;There is established within the Administration an Office of Women's Business Ownership, which shall be responsible for the administration of the Administration's programs for the development of women's business enterprises (as defined in section 7108 of this title). The Office of Women's Business Ownership shall be administered by an Assistant Administrator, who shall be appointed by the Administrator.
+&emsp;There is established within the Administration an Office of Women's Business Ownership, which shall be responsible for the administration of the Administration's programs for thedevelopment of women's business enterprises (as defined in section 7108 of this title). The Office of Women's Business Ownership shall be administered by an Assistant Administrator, who shall be appointed by the Administrator.
 
 #### (2) Assistant Administrator of the Office of Women's Business Ownership
 
@@ -148,7 +148,7 @@ The Administration shall evaluate and rank applicants in accordance with predete
 
 #### (2) Conditions for continued funding
 
-&emsp;In determining whether to award a contract (as a sustainability grant) under subsection (l)or to renew a contract (either as a grant or cooperative agreement) under this section with a women's business center, the Administration—
+&emsp;In determining whether to award a contract (as a sustainability grant) under subsection (l) or to renew a contract (either as a grant or cooperative agreement) under this section with a women's business center, the Administration—
 
 &emsp;&emsp;(A) shall consider the results of the most recent examination of the center under paragraph (1); and
 
@@ -280,7 +280,7 @@ The authority of the Administrator to enter into contracts shall be in effect fo
 
 #### (D) Priority
 
-&emsp;&emsp;In allocating funds made available for grants under this section, the Administrator shall give applications under this subsection or subsection (l) priority over first-time applications under subsection (b).
+&emsp;&emsp;In allocating funds made available for grants under this section, the Administratorshall give applications under this subsection or subsection (l) priority over first-time applications under subsection (b).
 
 #### (5) Renewal
 
@@ -325,6 +325,8 @@ The authority of the Administrator to enter into contracts shall be in effect fo
 &emsp;Not later than 3 years after January 2, 2013, and every 5 years thereafter, the Administrator shall submit to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives a report on the results of each study under paragraph (1) conducted during the 5-year period ending on the date of the report.
 
 (Pub. L. 85–536, §2\[29\], formerly §2\[28\], as added Pub. L. 102–191, §2, Dec. 5, 1991, 105 Stat. 1589; renumbered §2\[29\] and amended Pub. L. 103–403, title IV, §§411, 412, Oct. 22, 1994, 108 Stat. 4192, 4193; Pub. L. 105–135, title III, §308(a), Dec. 2, 1997, 111 Stat. 2611; Pub. L. 106–17, §§2(a), 3, Apr. 6, 1999, 113 Stat. 27; Pub. L. 106–165, §§2–4(b), Dec. 9, 1999, 113 Stat. 1795–1798; Pub. L. 110–28, title VIII, §8305(a), (b), May 25, 2007, 121 Stat. 209, 210; Pub. L. 111–240, title I, §1401(b), (c)(2), Sept. 27, 2010, 124 Stat. 2549, 2550; Pub. L. 112–239, div. A, title XVI, §1697(b), Jan. 2, 2013, 126 Stat. 2091; Pub. L. 113–291, div. A, title VIII, §825(c), Dec. 19, 2014, 128 Stat. 3438.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -372,7 +374,7 @@ In general.—Not later than 180 days after December 2, 1997, the Administrator 
 
 Extension of contracts.—In extending or renewing a contract with a women's business center, the Administrator shall consider the results of the examination conducted under paragraph (1)."
 
-Subsec. (j). Pub. L. 106–165, §3(2), added subsec. (j) and struck out heading and text of former subsec. (j). Text read as follows: "The Administrator shall prepare and submit an annual report to the Committees on Small Business of the House of Representatives and the Senate on the effectiveness of all projects conducted under the authority of this section. Such report shall provide information concerning—
+Subsec. (j). Pub. L. 106–165, §3(2), added subsec. (j) and struck out heading and text of former subsec. (j). Text read as follows: "The Administrator shall prepare and submit an annual report to the Committees on SmallBusiness of the House of Representatives and the Senate on the effectiveness of all projects conducted under the authority of this section. Such report shall provide information concerning—
 
 &emsp;"(1) the number of individuals receiving assistance;
 
@@ -399,6 +401,8 @@ Subsec. (l). Pub. L. 106–165, §4(a), added subsec. (l).
 <b>1994</b>—Subsec. (g). Pub. L. 103–403, §411(2), substituted "1997" for "1995".
 
 Subsec. (h). Pub. L. 103–403, §412, added subsec. (h).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -440,7 +444,7 @@ In general.—Subject to paragraph (2), any organization conducting a 3-year pro
 
 "(2)
 
-Terms of assistance for certain organizations.—Any organization operating in the third year of a 3-year project under section 29 of the Small Business Act (15 U.S.C. 656) (as in effect on the day before the effective date of this Act) on September 30, 1997, may request an extension of the term of that project to a total term of 5 years. If such an extension is made, duringthe fourth and fifth years of the project, the organization shall receive financial assistance in accordance with section 29(c)(1)(C) of the Small Business Act (as amended by this section) subject to procedures established by the Administrator, in coordination with the Assistant Administrator of the Office of Women's Business Ownership established under section 29 of the Small Business Act (15 U.S.C. 656) (as amended by this section)."
+Terms of assistance for certain organizations.—Any organization operating in the third year of a 3-year project under section 29 of the Small Business Act (15 U.S.C. 656) (as in effect on the day before the effective date of this Act) on September 30, 1997, may request an extension of the term of that project to a total term of 5 years. If such an extension is made, during the fourth and fifth years of the project, the organization shall receive financial assistance in accordance with section 29(c)(1)(C) of the Small Business Act (as amended by this section) subject to procedures established by the Administrator, in coordination with the Assistant Administrator of the Office of Women's Business Ownership established under section 29 of the Small Business Act (15 U.S.C. 656) (as amended by this section)."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "therefor".</i>
 

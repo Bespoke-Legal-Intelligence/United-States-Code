@@ -16,27 +16,7 @@ Selection of Programs.—In selecting the programs to be conducted under subsect
 
 Additional Authority.—The Commander may expend up to $10,000,000 during each fiscal year, from funds available for Major Force Program 11, to carry out family support programs under this section.
 
-(d)
-
-Annual Report.—
-
-&emsp;(1)
-
-Report required.—Not later than March 1 each year, the Commander, in coordination with the Under Secretary of Defense for Personnel and Readiness, shall submit to the congressional defense committees a report describing the progress made in achieving the goals of the family support programs conducted under this section.
-
-&emsp;(2)
-
-Elements of reports.—Each report under this subsection shall include the following:
-
-&emsp;&emsp;(A) A detailed description of the programs conducted under this section to address family support requirements for covered individuals.
-
-&emsp;&emsp;(B) An assessment of the impact of the programs on military readiness and on covered individuals.
-
-&emsp;&emsp;(C) A description of the special operations-peculiar aspects of the programs and a comparison and differentiation of these programs with other programs conducted by the Secretaries of the military departments to provide family support services to immediate family members of members of the armed forces.
-
-&emsp;&emsp;(D) Recommendations for incorporating lessons learned into other family support programs.
-
-&emsp;&emsp;(E) Any other matters the Commander considers appropriate regarding the programs.
+\[(d) Repealed. Pub. L. 116–92, div. A, title XVII, §1702(c)(1), Dec. 20, 2019, 133 Stat. 1796.\]
 
 (e)
 
@@ -46,27 +26,31 @@ Definitions.—In this section:
 
 &emsp;(2) The term "immediate family members" has the meaning given that term in section 1789(c) of this title.
 
-&emsp;(3) The term "special operations forces" means those forces of the armed forces identified as special operations forces under section 167(i) <sup>1</sup> of this title.
+&emsp;(3) The term "special operations forces" means those forces of the armed forces identified as special operations forces under section 167(j) of this title.
 
-&emsp;(4) The term "family support services" includes psychological support, spiritual support, and costs of transportation, food, lodging, child care, supplies, fees, and training materials for covered personnel while participating in programs under subsection (a).
+&emsp;(4) The term "family support services" includes psychological support, spiritual support, and costs of transportation, food, lodging, child care, supplies, fees, and training materials for covered individuals while participating in programs under subsection (a).
 
-&emsp;(5) The term "covered personnel" means—
+&emsp;(5) The term "covered individuals" means—
 
 &emsp;&emsp;(A) members of the Armed Forces (including the reserve components) assigned to special operations forces;
 
-&emsp;&emsp;(B) service personnel assigned to support special operations forces; and
+&emsp;&emsp;(B) service personnel assigned to support special operations forces;
 
-&emsp;&emsp;(C) immediate family members of individuals described in subparagraphs (A) and (B).
+&emsp;&emsp;(C) immediate family members of individuals described in subparagraphs (A) and (B); and
 
-(Added and amended Pub. L. 115–91, div. A, title V, §555(a)–(d), Dec. 12, 2017, 131 Stat. 1402, 1403; Pub. L. 115–232, div. A, title V, §572, Aug. 13, 2018, 132 Stat. 1778; Pub. L. 116–92, div. A, title XVII, §§1702(c)(1), 1731(a)(28), Dec. 20, 2019, 133 Stat. 1796, 1813; Pub. L. 116–283, div. A, title V, §583(a), Jan. 1, 2021, 134 Stat. 3653.)
+&emsp;&emsp;(D) immediate family members of individuals described in subparagraphs (A) or (B) in a case in which such individual died—
 
-#### Amendment of Section
+&emsp;&emsp;&emsp;(i) as a direct result of armed conflict;
 
-<i>Pub. L. 116–92, div. A, title XVII, §1702(c), Dec. 20, 2019, 133 Stat. 1796, provided that, effective on Dec. 30, 2021, this section is amended by striking out subsection (d). See 2019 Amendment note below.</i>
+&emsp;&emsp;&emsp;(ii) while engaged in hazardous service;
 
-#### References in Text
+&emsp;&emsp;&emsp;(iii) in the performance of duty under conditions simulating war; or
 
-Section 167(i) of this title, referred to in subsec. (e)(3), was redesignated section 167(j) of this title by Pub. L. 114–328, div. A, title IX, §922(c)(2)(A), Dec. 23, 2016, 130 Stat. 2356.
+&emsp;&emsp;&emsp;(iv) through an instrumentality of war.
+
+(Added and amended Pub. L. 115–91, div. A, title V, §555(a)–(d), Dec. 12, 2017, 131 Stat. 1402, 1403; Pub. L. 115–232, div. A, title V, §572, Aug. 13, 2018, 132 Stat. 1778; Pub. L. 116–92, div. A, title XVII, §§1702(c)(1), 1731(a)(28), Dec. 20, 2019, 133 Stat. 1796, 1813; Pub. L. 116–283, div. A, title V, §583(a), Jan. 1, 2021, 134 Stat. 3653; Pub. L. 117–81, div. A, title V, §561, title X, §1081(a)(24), Dec. 27, 2021, 135 Stat. 1746, 1920.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -82,11 +66,23 @@ Subsec. (b)(1). Pub. L. 116–283, §583(a)(3), substituted "covered individuals
 
 Subsec. (d)(2)(A). Pub. L. 116–283, §583(a)(4)(A), substituted "covered individuals" for "family members of members of the armed forces assigned to special operations forces".
 
-Subsec. (d)(2)(B). Pub. L. 116–283, §583(a)(4)(B), substituted "covered individuals" for "family members ofmembers of the armed forces assigned to special operations forces".
+Subsec. (d)(2)(B). Pub. L. 116–283, §583(a)(4)(B), substituted "covered individuals" for "family members of members of the armed forces assigned to special operations forces".
 
-Subsec. (e)(4). Pub. L. 116–283, §583(a)(5)(A), (B), inserted "psychological support, spiritual support, and" before "costs" and substituted "covered personnel" for "immediate family members of members of the armed forces assigned to special operations forces".
+Subsec. (e)(3). Pub. L. 117–81, §1081(a)(24)(A), substituted "section 167(j)" for "section 167(i)".
 
-Subsec. (e)(5). Pub. L. 116–283, §583(a)(5)(C), which directed amendment of subsec. (e)(4) "by adding at the end" par. (5), was executed by adding par. (5) after par. (4), to reflect the probable intent of Congress.
+Subsec. (e)(4). Pub. L. 117–81, §1081(a)(24)(B), substituted "covered individuals" for "covered personnel".
+
+Pub. L. 117–81, §561(1), which directed substitution of "covered individuals" for "covered personnel", could not be executed because of the prior amendment by Pub. L. 117–81, §1081(a)(24)(B). See note above and Coordination of Amendments by Pub. L. 117–81 note below.
+
+Pub. L. 116–283, §583(a)(5)(A), (B), inserted "psychological support, spiritual support, and" before "costs" and substituted "covered personnel" for "immediate family members of members of the armed forces assigned to special operations forces".
+
+Subsec. (e)(5). Pub. L. 117–81, §1081(a)(24)(C), substituted " 'covered individuals' " for " 'covered personnel' ".
+
+Pub. L. 117–81, §561(2)(A), which directed substitution of "covered individuals" for "covered personnel", could not be executed because of the prior amendment by Pub. L. 117–81, §1081(a)(24)(C). See note above and Coordination of Amendments by Pub. L. 117–81 note below.
+
+Pub. L. 116–283, §583(a)(5)(C), which directed amendment of subsec. (e)(4) "by adding at the end" par. (5), was executed by adding par. (5) after par. (4), to reflect the probable intent of Congress.
+
+Subsec. (e)(5)(D). Pub. L. 117–81, §561(2)(B)–(D), added subpar. (D).
 
 <b>2019</b>—Subsec. (d). Pub. L. 116–92, §1702(c)(1), struck out subsec. (d) which required an annual report regarding the family support programs.
 
@@ -118,6 +114,8 @@ Subsec. (e)(3). Pub. L. 115–91, §555(d)(4)(B), substituted "this title" for "
 
 Pub. L. 115–91, §555(d)(1), substituted "armed forces" for "Armed Forces".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2019 Amendment
 
 Pub. L. 116–92, div. A, title XVII, §1702(c)(2), Dec. 20, 2019, 133 Stat. 1796, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect on December 30, 2021."
@@ -126,5 +124,7 @@ Pub. L. 116–92, div. A, title XVII, §1702(c)(2), Dec. 20, 2019, 133 Stat. 179
 
 For termination, effective Dec. 30, 2021, of provisions in subsec. (d) of this section requiring submittal of annual report to Congress, see section 1702(a), (b) of Pub. L. 116–92, set out as a note under section 111 of this title.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+#### Coordination of Amendments by Pub. L. 117–81
+
+Amendment by section 1081 of Pub. L. 117–81 to be treated as having been enacted immediately before amendments by other provisions of Pub. L. 117–81, see section 1081(d) of Pub. L. 117–81, set out as a Coordination of Certain Sections of an Act With Other Provisions of That Act note under section 101 of this title.
 

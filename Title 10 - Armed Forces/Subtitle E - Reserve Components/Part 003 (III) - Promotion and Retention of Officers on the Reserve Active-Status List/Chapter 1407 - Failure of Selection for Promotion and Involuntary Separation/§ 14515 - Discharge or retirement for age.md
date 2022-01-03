@@ -8,6 +8,8 @@ Each reserve officer of the Army, Navy, Air Force, or Marine Corps who is in an 
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2954; amended Pub. L. 104–106, div. A, title XV, §1501(b)(31), Feb. 10, 1996, 110 Stat. 498; Pub. L. 107–107, div. A, title V, §517(d), Dec. 28, 2001, 115 Stat. 1095.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2001</b>—Par. (1). Pub. L. 107–107, §517(d)(1), substituted "if the officer is qualified for such transfer and does not request (in accordance with regulations prescribed by the Secretary concerned) not to be transferred to the Retired Reserve" for ", if the officer is qualified and applies for such transfer".
@@ -16,13 +18,15 @@ Par. (2). Pub. L. 107–107, §517(d)(2), added par. (2) and struck out former p
 
 <b>1996</b>—Pub. L. 104–106 substituted "inactive-status" for "inactive status" in introductory provisions.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2001 Amendment
 
 Amendment by Pub. L. 107–107 effective on the first day of the first month that begins more than 180 days after Dec. 28, 2001, see section 517(g) of Pub. L. 107–107, set out as a note under section 10154 of this title.
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of this title.
+Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, titleXVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of this title.
 
 #### Effective Date
 

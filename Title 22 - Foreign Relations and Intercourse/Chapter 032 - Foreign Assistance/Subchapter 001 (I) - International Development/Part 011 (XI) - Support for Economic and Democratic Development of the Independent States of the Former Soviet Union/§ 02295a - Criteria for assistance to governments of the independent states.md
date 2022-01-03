@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In providing assistance under this part for the government of any independent state of the former Soviet Union, the President shall take into account not only relative need but also the extent to which that independent state is acting to—
+In providing assistance under this part for the government of any independent state of theformer Soviet Union, the President shall take into account not only relative need but also the extent to which that independent state is acting to—
 
 &emsp;(1) make significant progress toward, and is committed to the comprehensive implementation of, a democratic system based on principles of the rule of law, individual freedoms, and representative government determined by free and fair elections;
 
@@ -46,7 +46,7 @@ The President shall not provide assistance under this part—
 
 &emsp;&emsp;(A) missiles or missile technology inconsistent with the guidelines and parameters of the Missile Technology Control Regime; or
 
-&emsp;&emsp;(B) any material, equipment, or technology that would contribute significantly to the ability of such country to manufacture any weapon of mass destruction (including nuclear, chemical, and biological weapons) if the President determines thatthe material, equipment, or technology was to be used by such country in the manufacture of such weapon;
+&emsp;&emsp;(B) any material, equipment, or technology that would contribute significantly to the ability of such country to manufacture any weapon of mass destruction (including nuclear, chemical, and biological weapons) if the President determines that the material, equipment, or technology was to be used by such country in the manufacture of such weapon;
 
 &emsp;(4) for the government of any independent state that is prohibited from receiving such assistance by section 2799aa or 2799aa–1 of this title or sections 5604(a)(1) and 5605 of this title;
 
@@ -110,7 +110,7 @@ Assistance prohibited by subsection (b) or any similar provision of law, other t
 
 This chapter, referred to in subsec. (d)(1), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-The Cooperative Threat Reduction Act of 1993, referred to in subsec. (d)(3)(G), is title XII of div. A of Pub. L. 103–160, Nov. 30, 1993, 107 Stat. 1777, which is classified generally to chapter 68A (§5951 et seq.) of thistitle. For complete classification of this Act to the Code, see Short Title note set out under section 5951 of this title and Tables.
+The Cooperative Threat Reduction Act of 1993, referred to in subsec. (d)(3)(G), is title XII of div. A of Pub. L. 103–160, Nov. 30, 1993, 107 Stat. 1777, which is classified generally to chapter 68A (§5951 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5951 of this title and Tables.
 
 #### Amendments
 

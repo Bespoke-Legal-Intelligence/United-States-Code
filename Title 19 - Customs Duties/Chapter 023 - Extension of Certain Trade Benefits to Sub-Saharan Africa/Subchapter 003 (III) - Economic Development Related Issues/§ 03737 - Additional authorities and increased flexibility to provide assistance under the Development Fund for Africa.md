@@ -34,13 +34,17 @@ The Congress makes the following declarations:
 
 (Pub. L. 106–200, title I, §127, May 18, 2000, 114 Stat. 272.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Foreign Assistance Act of 1961, referred to in subsec. (b)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 10 of part I of the Act is classified generally to part X (§2293 et seq.) of subchapter I of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
 
 #### Codification
 
-Section is comprised of section 127 of Pub. L. 106–200. Subsec. (c) of section 127 of Pub. L. 106–200 amended section 2293 of Title 22, Foreign Relations and Intercourse.
+Section is comprised of section 127 of Pub. L. 106–200. Subsec. (c) of section 127 of Pub. L. 106–200 amendedsection 2293 of Title 22, Foreign Relations and Intercourse.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

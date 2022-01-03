@@ -28,7 +28,7 @@ One or more of the prize commissioners shall—
 
 &emsp;&emsp;(D) their inventory of the prize property; and
 
-&emsp;(10) report to the Secretary of the Navy, if, in their judgment, any of the prize property isuseful to the United States in the prosecution of war.
+&emsp;(10) report to the Secretary of the Navy, if, in their judgment, any of the prize property is useful to the United States in the prosecution of war.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 477, §7660; renumbered §8860 and amended Pub. L. 115–232, div. A, title VIII, §§807(d)(9), 809(a), Aug. 13, 2018, 132 Stat. 1837, 1840.)
 
@@ -48,6 +48,8 @@ R.S. 4622 (less applicability to procedure for interrogating witnesses).
 
 The words "but the custody of the property shall be in the marshal only" are omitted as surplusage, since this fact is made clear in §7662 of this title.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232, §807(d)(9), renumbered section 7660 of this title as this section.
@@ -55,6 +57,8 @@ The words "but the custody of the property shall be in the marshal only" are omi
 Par. (2). Pub. L. 115–232, §809(a), substituted "section 8858" for "section 7658".
 
 Par. (3). Pub. L. 115–232, §809(a), substituted "section 8861" for "section 7661".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

@@ -24,6 +24,8 @@ Notwithstanding any other provision of Federal law, no funds provided under this
 
 (Pub. L. 107–279, title I, §182, Nov. 5, 2002, 116 Stat. 1971.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 9003 of this title, referred to in subsec. (d)(2), was repealed by Pub. L. 107–279, title IV, §403(1), Nov. 5, 2002, 116 Stat. 1985.

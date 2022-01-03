@@ -96,7 +96,7 @@ For purposes of subsection (a)(1), the Secretary shall select the eligible appli
 
 #### (1) Definition
 
-&emsp;In this subsection, the term "individuals with barriers to employment" means minority individuals, Indian individuals, individuals with greatest economic need, and individuals described in subsection (a)(3)(B)(ii) or (b)(2) of section 3056p of this title.
+&emsp;In this subsection, the term "individuals with barriers to employment" means minority individuals, Indian individuals, individuals with greatest economic need, eligible individuals who have been incarcerated or are under supervision following release from prison or jail, and individuals described in subsection (a)(3)(B)(ii) or (b)(2) of section 3056p of this title.
 
 #### (2) Special consideration
 
@@ -108,13 +108,11 @@ The Secretary may not promulgate rules or regulations affecting grantees in area
 
 (Pub. L. 89–73, title V, §514, as added Pub. L. 109–365, title V, §501, Oct. 17, 2006, 120 Stat. 2584; amended Pub. L. 114–144, §6(e), Apr. 19, 2016, 130 Stat. 346; Pub. L. 116–131, title IV, §401(a)(2), Mar. 25, 2020, 134 Stat. 266.)
 
-#### Amendment of Subsection (e)(1)
-
-<i>Pub. L. 116–131, title IV, §401(a)(2), (b), Mar. 25, 2020, 134 Stat. 266, 267, provided that, effective 1 year after Mar. 25, 2020, subsection (e)(1) of this section is amended by inserting "eligible individuals who have been incarcerated or are under supervision following release from prison or jail," after "need,". See 2020 Amendment note below.</i>
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Debt Collection Improvement Act of 1996, referred to in subsec. (d)(6), is section 31001 of title III of Pub. L. 104–134, Apr. 26, 1996, 110 Stat. 1321–358. For complete classification of this Act to the Code, see ShortTitle of 1996 Amendment note set out under section 3701 of Title 31, Money and Finance, and Tables.
+The Debt Collection Improvement Act of 1996, referred to in subsec. (d)(6), is section 31001 of title III of Pub. L. 104–134, Apr. 26, 1996, 110 Stat. 1321–358. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 3701 of Title 31, Money and Finance, and Tables.
 
 #### Prior Provisions
 
@@ -125,6 +123,8 @@ A prior section 3056l, Pub. L. 89–73, title V, §514, as added Pub. L. 106–5
 <b>2020</b>—Subsec. (e)(1). Pub. L. 116–131 inserted "eligible individuals who have been incarcerated or are under supervision following release from prison or jail," after "need,".
 
 <b>2016</b>—Subsec. (c)(4). Pub. L. 114–144 struck out "and addressing additional indicators of performance" after "measures of performance" and "and additional indicators of performance" after "core indicators of performance".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 

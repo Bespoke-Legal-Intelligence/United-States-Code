@@ -118,7 +118,7 @@ Oct. 20, 1972, Pub. L. 92–513, §2(1)–(6) (words before semicolon), (7)–(1
 
 15:1901(18).
 
-In clause (1), the text of 15:1901(11) is omitted as surplus because the complete title of the Secretary of Transportation is used the first time the term appears in a section. The definition of "property loss reduction standard" is combined with the definition of "bumper standard" because the former term is used only in the definition of the latter term. Before subclause (A), the words "the purpose of which is" and "eliminate" are omitted as surplus. In subclauses (A) and (B), the words "(or both)" are omitted as surplus. In subclause (A), the word "physical" is omitted as surplus.
+In clause (1), the text of 15:1901(11) is omitted as surplus because the complete title of the Secretary of Transportation is used the first time the term appearsin a section. The definition of "property loss reduction standard" is combined with the definition of "bumper standard" because the former term is used only in the definition of the latter term. Before subclause (A), the words "the purpose of which is" and "eliminate" are omitted as surplus. In subclauses (A) and (B), the words "(or both)" are omitted as surplus. In subclause (A), the word "physical" is omitted as surplus.
 
 In clause (2), the words "of passenger motor vehicles" and "engaged" are omitted as surplus.
 
@@ -136,9 +136,13 @@ In clause (13), the words "of the Commonwealth of Puerto Rico" are omitted as su
 
 This makes a conforming amendment to 49:32101 necessary because of the amendment to 49:32304(a)(11) made by section 6(29) of the bill and to clarify the restatement of 15:1901 by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1034).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–429 amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: "In this part (except section 32304 and chapter 329)—".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

@@ -58,7 +58,7 @@ Section is comprised of section 40302 of Pub. L. 103–322. Subsec. (e)(5) of se
 
 #### Constitutionality
 
-For constitutionality of section 40302 of Pub. L. 103–322, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For constitutionality of this provision of the Violence Against Women Act, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
 
 <i><sup>1</sup></i><i> So in original. The word "means" probably should appear after "(A)" below.</i>
 

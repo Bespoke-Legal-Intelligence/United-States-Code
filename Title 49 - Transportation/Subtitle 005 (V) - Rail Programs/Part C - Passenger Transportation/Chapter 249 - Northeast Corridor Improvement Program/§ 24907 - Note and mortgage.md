@@ -2,7 +2,7 @@
 
 (a)
 
-General Authority.—To secure amounts expended by the United States Government to acquire and improve rail property designated under section 206(c)(1)(C) and (D) of the Regional Rail Reorganization Act of 1973 (45 U.S.C. 716(c)(1)(C) and (D)), the Secretary of Transportation may obtain a note of indebtedness from, and make a mortgage agreement with, Amtrak to establish a mortgage lien on the property for the Government. The note and mortgage may not supersede section 24903.
+General Authority.—To secure amounts expended by the United States Government to acquire and improve rail property designatedunder section 206(c)(1)(C) and (D) of the Regional Rail Reorganization Act of 1973 (45 U.S.C. 716(c)(1)(C) and (D)), the Secretary of Transportation may obtain a note of indebtedness from, and make a mortgage agreement with, Amtrak to establish a mortgage lien on the property for the Government. The note and mortgage may not supersede section 24903.
 
 (b)
 
@@ -46,6 +46,8 @@ In subsection (b), the words "obtained by the Secretary" and "the provisions of 
 
 In subsection (c), the words "to any party for any damages, or in any other matter" are omitted as surplus. The word "because" is substituted for 'by reason of the fact that" to eliminate unnecessary words. The words "related to the note or agreement" are substituted for "in connection with" for clarity. The words "all" and "(including fees of accountants, experts, and attorneys)" are omitted as surplus. The words "a civil action" are substituted for "any litigation" for consistency with rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.). The words "legal" and "given, issued, or entered into" are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Regional Rail Reorganization Act of 1973, referred to in subsecs. (a) and (b), is Pub. L. 93–236, Jan. 2, 1974, 87 Stat. 985, as amended, which is classified principally to chapter 16 (§701 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 45 and Tables.
@@ -53,6 +55,8 @@ The Regional Rail Reorganization Act of 1973, referred to in subsecs. (a) and (b
 #### Amendments
 
 <b>2015</b>—Subsec. (a). Pub. L. 114–94 substituted "section 24903" for "section 24904 of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

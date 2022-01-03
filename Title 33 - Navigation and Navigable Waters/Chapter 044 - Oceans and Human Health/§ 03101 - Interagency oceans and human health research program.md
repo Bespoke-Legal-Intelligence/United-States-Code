@@ -6,7 +6,7 @@ The President, through the National Science and Technology Council, shall coordi
 
 #### (b) Implementation plan
 
-Within 1 year after December 8, 2004, the National Science and Technology Council, through the Director of the Office of Science and Technology Policy shall develop and submit to the Congress a plan for coordinated Federal activities under the program. Nothing in this subsection is intended to duplicate or supersede the activities of the Inter-Agency Task Force on Harmful Algal Blooms and Hypoxia established under section 4001 <sup>1</sup> of this title. In developing the plan, the Committee will consult with the Inter-Agency Task Force on Harmful Algal Blooms and Hypoxia. Such plan will build onand complement the ongoing activities of the National Oceanic and Atmospheric Administration, the National Science Foundation, and other departments and agencies and shall—
+Within 1 year after December 8, 2004, the National Science and Technology Council, through the Director of the Office of Science and Technology Policy shall develop and submit to the Congress a plan for coordinated Federal activities under the program. Nothing in this subsection is intended to duplicate or supersede the activities of the Inter-Agency Task Force on Harmful Algal Blooms and Hypoxia established under section 4001 <sup>1</sup> of this title. In developing the plan, the Committee will consult with the Inter-Agency Task Force on Harmful Algal Blooms and Hypoxia. Such plan will build on and complement the ongoing activities of the National Oceanic and Atmospheric Administration, the National Science Foundation, and other departments and agencies and shall—
 
 &emsp;(1) establish, for the 10-year period beginning in the year it is submitted, the goals and priorities for Federal research which most effectively advance scientific understanding of the connections between the oceans and human health, provide usable information for the prediction of marine-related public health problems and use the biological potential of the oceans for development of new treatments of human diseases and a greater understanding of human biology;
 
@@ -78,7 +78,7 @@ Beginning with the first year occurring more than 24 months after December 8, 20
 
 #### References in Text
 
-Section 4001 of this title, referred to in subsec. (b), was in the original "section 603 of the Harmful AlgalBloom and Hypoxia Research and Control Act of 1998 (16 U.S.C. 1451 note)", meaning section 603 of Pub. L. 105–383, which was set out in a note under section 1451 of Title 16, Conservation, prior to transfer to section 4001 of this title.
+Section 4001 of this title, referred to in subsec. (b), was in the original "section 603 of the Harmful Algal Bloom and Hypoxia Research and Control Act of 1998 (16 U.S.C. 1451 note)", meaning section 603 of Pub. L. 105–383, which was set out in a note under section 1451 of Title 16, Conservation, prior to transfer to section 4001 of this title.
 
 #### Amendments
 

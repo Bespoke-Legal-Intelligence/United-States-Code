@@ -12,7 +12,7 @@ Additional Prohibitions.—The following prohibitions and exemptions also apply 
 
 &emsp;(2) A prohibition against discrimination against an otherwise qualified handicapped individual under section 504 of the Rehabilitation Act of 1973.
 
-&emsp;(3) A prohibition against discrimination because of religion, or an exemption from that prohibition, under the Civil Rights Act of 1964 or title VIII of the Act of April 11, 1968 (popularly known as the Civil Rights Act of 1968).
+&emsp;(3) A prohibition against discrimination because of religion, or an exemption from thatprohibition, under the Civil Rights Act of 1964 or title VIII of the Act of April 11, 1968 (popularly known as the Civil Rights Act of 1968).
 
 (c)
 
@@ -24,7 +24,7 @@ Investigation Agreements.—The Secretary shall try to make agreements with head
 
 &emsp;(1) describe the cooperative efforts to be taken (including sharing civil rights enforcement personnel and resources) to obtain compliance with this section; and
 
-&emsp;(2) provide for notifying immediately the Secretary of actions brought by the United States Government or State agencies againsta unit of general local government alleging a violation of a civil rights law or a regulation prescribed under a civil rights law.
+&emsp;(2) provide for notifying immediately the Secretary of actions brought by the United States Government or State agencies against a unit of general local government alleging a violation of a civil rights law or a regulation prescribed under a civil rights law.
 
 (Added Pub. L. 103–322, title III, §31001(a), Sept. 13, 1994, 108 Stat. 1874.)
 

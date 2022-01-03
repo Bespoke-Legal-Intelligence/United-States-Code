@@ -18,7 +18,7 @@ Subject to the direction and control of the Director of the National Counterinte
 
 #### (1) National threat identification and prioritization assessment
 
-&emsp;Subject to subsection (e), in consultation with appropriate department and agencies of the United States Government, and private sector entities, to produce a strategic planning assessment of the counterintelligence requirements of the United States to be known as the National Threat Identification and Prioritization Assessment.
+&emsp;Subject to subsection (e), in consultation with appropriate department and agencies ofthe United States Government, and private sector entities, to produce a strategic planning assessment of the counterintelligence requirements of the United States to be known as the National Threat Identification and Prioritization Assessment.
 
 #### (2) National Counterintelligence Strategy
 
@@ -28,7 +28,7 @@ Subject to the direction and control of the Director of the National Counterinte
 
 #### (B) Revision and requirement
 
-&emsp;&emsp;The National Counterintelligence Strategy shall be revised or updated at least onceevery three years and shall be aligned with the strategy and policies of the Director of National Intelligence.
+&emsp;&emsp;The National Counterintelligence Strategy shall be revised or updated at least once every three years and shall be aligned with the strategy and policies of the Director of National Intelligence.
 
 #### (3) Implementation of National Counterintelligence Strategy
 
@@ -112,6 +112,8 @@ Nothing in this section shall be construed as affecting the authority of the Dir
 
 (Pub. L. 107–306, title IX, §904, Nov. 27, 2002, 116 Stat. 2434; Pub. L. 108–458, title I, §§1071(g)(2)(B), 1072(d)(1)(C), Dec. 17, 2004, 118 Stat. 3691, 3693; Pub. L. 111–259, title IV, §412, Oct. 7, 2010, 124 Stat. 2725; Pub. L. 112–18, title IV, §401, June 8, 2011, 125 Stat. 227; Pub. L. 112–87, title III, §311(b), Jan. 3, 2012, 125 Stat. 1886; Pub. L. 115–31, div. N, title IV, §401(b)(1)–(5), May 5, 2017, 131 Stat. 817, 818.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 104(d), referred to in subsec. (f)(2), is section 104(d) of Pub. L. 107–306, title I, Nov. 27, 2002, 116 Stat. 2387, which is not classified to the Code.
@@ -189,6 +191,8 @@ Subsec. (h)(1), (2). Pub. L. 108–458, §1071(g)(2)(B)(iii), substituted "Direc
 Subsec. (l). Pub. L. 108–458, §1072(d)(1)(C)(ii), substituted "Office of the Director of National Intelligence" for "Office of the Director of Central Intelligence" in introductory provisions.
 
 Subsec. (m). Pub. L. 108–458, §1071(g)(2)(B)(iv), substituted "Director of National Intelligence" for "Director of Central Intelligence".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

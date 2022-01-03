@@ -21,7 +21,7 @@
 | [1167\.](%C2%A7%2001167%20-%20Theft%20from%20gaming%20establishments%20on%20Indian%20lands.md) | Theft from gaming establishments on Indian lands. |
 | [1168\.](%C2%A7%2001168%20-%20Theft%20by%20officers%20or%20employees%20of%20gaming%20establishments%20on%20Indian%20lands.md) | Theft by officers or employees of gaming establishments on Indian lands. |
 | [1169\.](%C2%A7%2001169%20-%20Reporting%20of%20child%20abuse.md) | Reporting of child abuse. |
-| [1170\.](%C2%A7%2001170%20-%20Illegal%20trafficking%20in%20Native%20American%20human%20remains%20and%20cultural%20items.md) | Illegal trafficking in Native American human remains and cultural items.<br> |
+| [1170\.](%C2%A7%2001170%20-%20Illegal%20trafficking%20in%20Native%20American%20human%20remains%20and%20cultural%20items.md) | Illegal trafficking in Native American human remains and cultural items. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

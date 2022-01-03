@@ -10,11 +10,15 @@ Payment Date.—Amounts of retired pay and retainer pay due a retired member of 
 
 (Added Pub. L. 99–348, title I, §105, July 1, 1986, 100 Stat. 691; amended Pub. L. 111–383, div. A, title VI, §632(a), (b)(1), Jan. 7, 2011, 124 Stat. 4240.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Pub. L. 111–383, §632(b)(1), substituted "Administrative provisions" for "Rounding to next lower dollar" in section catchline.
 
 Pub. L. 111–383, §632(a), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 

@@ -124,7 +124,7 @@
 
 #### (ii) Consultation with Congressional Committees
 
-&emsp;&emsp;&emsp;Upon submission of a proposed amendment under clause (i)(III) to the appropriate Congressional Committees, the Trade Representative shall consult with the appropriate Congressional Committees with regard to the individuals included in the proposed amendment.
+&emsp;&emsp;&emsp;Upon submission of a proposed amendment under clause (i)(III) to the appropriate Congressional Committees, theTrade Representative shall consult with the appropriate Congressional Committees with regard to the individuals included in the proposed amendment.
 
 #### (iii) Adjustment of proposed amendment
 
@@ -138,7 +138,7 @@
 
 #### (II) Inclusion of individuals
 
-&emsp;&emsp;&emsp;&emsp;An individual may be included in the final form of an amendment submittedunder subclause (I) only if such individual was included in the proposed form of such amendment or if written notice of the addition of such individual to the proposed form of such amendment was submitted to the appropriate Congressional Committees at least 15 days before the date on which the final form of such amendment is submitted to such Committees under subclause (I).
+&emsp;&emsp;&emsp;&emsp;An individual may be included in the final form of an amendment submitted under subclause (I) only if such individual was included in the proposed form of such amendment or if written notice of the addition of such individual to the proposed form of such amendment was submitted to the appropriate Congressional Committees at least 15 days before the date on which the final form of such amendment is submitted to such Committees under subclause (I).
 
 #### (III) Eligibility for service
 
@@ -204,7 +204,7 @@ If the USMCA enters into force after January 3, 2020, the provisions of subsecti
 
 #### (f) Immunity
 
-With the exception of acts described in section 777(f)(3) of the Tariff Act of 1930 (19 U.S.C. 1677f(f)(3)), individuals serving on panels or committees convened pursuant to chapter 10, and individuals designated to assist the individuals serving on such panels or committees, shall beimmune from suit and legal process relating to acts performed by such individuals in their official capacity and within the scope of their functions as such panelists or committee members or assistants to such panelists or committee members.
+With the exception of acts described in section 777(f)(3) of the Tariff Act of 1930 (19 U.S.C. 1677f(f)(3)), individuals serving on panels or committees convened pursuant to chapter 10, and individuals designated to assist the individuals serving on such panels or committees, shall be immune from suit and legal process relating to acts performed by such individuals in their official capacity and within the scope of their functions as such panelists or committee members or assistants to such panelists or committee members.
 
 #### (g) Regulations
 
@@ -215,6 +215,8 @@ The administering authority under title VII of the Tariff Act of 1930 \[19 U.S.C
 At such time as the final candidate lists are submitted under subsection (c)(4)(A) and the final forms of amendments are submitted under subsection (c)(4)(C)(iv), the Trade Representative shall submit to the Committee on the Judiciary and the Committee on Ways and Means of the House of Representatives, and to the Committee on Finance and the Committee on the Judiciary of the Senate, a report regarding the efforts made to secure the participation of judges and former judges on binational panels, extraordinary challenge committees, and special committees established under chapter 10.
 
 (Pub. L. 116–113, title IV, §412, formerly Pub. L. 103–182, title IV, §402, Dec. 8, 1993, 107 Stat. 2129; Pub. L. 104–295, §21(c)(1), Oct. 11, 1996, 110 Stat. 3530; renumbered §412 of Pub. L. 116–113 and amended Pub. L. 116–113, title V, §504(c), Jan. 29, 2020, 134 Stat. 73.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -275,6 +277,8 @@ Subsec. (e). Pub. L. 116–113, §504(c)(3)(E), substituted "If the USMCA enters
 Subsecs. (f) to (h). Pub. L. 116–113, §504(c)(3)(F)–(H), substituted "chapter 10" for "chapter 19".
 
 <b>1996</b>—Subsec. (d)(3). Pub. L. 104–295 substituted "subsection (c)(4)" for "(c)(4)" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Except as provided in subsection (b), if property is transferred to a trust in exchange for aninterest in other trust property and if the trust would be an investment company (within the meaning of section 351) if it were a corporation, then gain shall be recognized to the transferor.
+Except as provided in subsection (b), if property is transferred to a trust in exchange for an interest in other trust property and if the trust would be an investment company (within the meaning of section 351) if it were a corporation, then gain shall be recognized to the transferor.
 
 #### (b) Exception for pooled income funds
 
@@ -10,9 +10,13 @@ Subsection (a) shall not apply to any transfer to a pooled income fund (within t
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 235; Pub. L. 94–455, title XXI, §2131(e)(1), Oct. 4, 1976, 90 Stat. 1924.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Pub. L. 94–455 substituted provisions relating to use of trust as an exchange fund for provisions setting forth rule that this part applies only to taxable years beginning after Dec. 31, 1953, and ending after the date of the enactment of this title and exceptions thereto.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

@@ -34,7 +34,7 @@ Applications.—An institution of higher education interested in receiving a gra
 
 Selection Criteria.—The Administrator shall select recipients of grants under this section on the basis of the following criteria:
 
-&emsp;(1) the extent to which the needs of the State in which the applicant is located are representative of the needs of the region forimproved air transportation services and facilities.
+&emsp;(1) the extent to which the needs of the State in which the applicant is located are representative of the needs of the region for improved air transportation services and facilities.
 
 &emsp;(2) the demonstrated research and extension resources available to the applicant to carry out this section.
 
@@ -92,11 +92,15 @@ In this section, the words "institutions of higher education" and "institution o
 
 In subsection (a), the words "one or more" are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Subsec. (f). Pub. L. 112–95, §907(a), amended subsec. (f) generally. Prior to amendment, text read as follows: "The United States Government's share of a grant under this section is 50 percent of the costs of establishing and operating the center and related research activities that the grant recipient carries out."
 
 Subsec. (h). Pub. L. 112–95, §907(b), added subsec. (h).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### FAA Center of Excellence for Automated Systems and Human Factors in Aircraft
 
@@ -148,7 +152,7 @@ Coordination.—Nothing in this section shall preclude coordination and collabor
 
 "(e)
 
-Authorization of Appropriations.—There is authorized to be appropriated to the Administrator$2,000,000 for each of fiscal years 2021 through 2023, out of funds made available under section 48102(a) of title 49, United States Code, to carry out this section. Amounts appropriated under the preceding sentence for any fiscal year shall remain available until expended."
+Authorization of Appropriations.—There is authorized to be appropriated to the Administrator $2,000,000 for each of fiscal years 2021 through 2023, out of funds made available under section 48102(a) of title 49, United States Code, to carry out this section. Amounts appropriated under the preceding sentence for any fiscal year shall remain available until expended."
 
 \[For definitions of terms used in section 127 of div. V of Pub. L. 116–260, set out above, see section 137 of div. V of Pub. L. 116–260, set out as a note under section 40101 of this title.\]
 

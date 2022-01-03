@@ -33,7 +33,7 @@ Prohibition on Use or Procurement.—(1) The head of an executive agency may not
 
 &emsp;"(A) prohibit the head of an executive agency from procuring with an entity to provide a service that connects to the facilities of a third-party, such as backhaul, roaming, or interconnection arrangements; or
 
-&emsp;"(B) cover telecommunications equipment that cannot route or redirect user data traffic or permit visibility into any user data or packets that such equipment transmits or otherwise handles.
+&emsp;"(B) cover telecommunications equipment that cannot route or redirect user data traffic or permitvisibility into any user data or packets that such equipment transmits or otherwise handles.
 
 "(b)
 
@@ -183,13 +183,15 @@ Definitions.—In this section:
 
 Termination.—No share-in-savings contracts may be entered into under this section after September 30, 2005."
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 13496. Notification of Employee Rights Under Federal Labor Laws
 
 Ex. Ord. No. 13496, Jan. 30, 2009, 74 F.R. 6107, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Property and Administrative Services Act, 40 U.S.C. 101 <i>et seq</i>., and in order to ensure the economical and efficient administration and completion of Government contracts, it is hereby ordered that:
 
-Section 1. <i>Policy</i>. This order is designed to promote economy and efficiency in Government procurement. When the Federal Government contracts for goods orservices, it has a proprietary interest in ensuring that those contracts will be performed by contractors whose work will not be interrupted by labor unrest. The attainment of industrial peace is most easily achieved and workers' productivity is enhanced when workers are well informed of their rights under Federal labor laws, including the National Labor Relations Act (Act), 29 U.S.C. 151 <i>et seq</i>. As the Act recognizes, "encouraging the practice and procedure of collective bargaining and . . . protecting the exercise by workers of full freedom of association, self-organization, and designation of representatives of their own choosing, for the purpose of negotiating the terms and conditions of their employment or other mutual aid or protection" will "eliminate the causes of certain substantial obstructions to the free flow of commerce" and "mitigate and eliminate these obstructions when they have occurred." 29 U.S.C. 151. Relying on contractors whose employees are informed of such rights under Federal labor laws facilitates the efficient and economical completion of the Federal Government's contracts.
+Section 1. <i>Policy</i>. This order is designed to promote economy and efficiency in Government procurement. When the Federal Government contracts for goods or services, it has a proprietary interest in ensuring that those contracts will be performed by contractors whose work will not be interrupted by labor unrest. The attainment of industrial peace is most easily achieved and workers' productivity is enhanced when workers are well informed of their rights under Federal labor laws, including the National Labor Relations Act (Act), 29 U.S.C. 151 <i>et seq</i>. As the Act recognizes, "encouraging the practice and procedure of collective bargaining and . . . protecting the exercise by workers of full freedom of association, self-organization, and designation of representatives of their own choosing, for the purpose of negotiating the terms and conditions of their employment or other mutual aid or protection" will "eliminate the causes of certain substantial obstructions to the free flow of commerce" and "mitigate and eliminate these obstructions when they have occurred." 29 U.S.C. 151. Relying on contractors whose employees are informed of such rights under Federal labor laws facilitates the efficient and economical completion of the Federal Government's contracts.
 
 Sec. 2. <i>Contract Clause</i>. Except in contracts exempted in accordance with section 3 of this order, all Government contracting departments and agencies shall, to the extent consistent with law, include the following provisions in every Government contract, other than collective bargaining agreements as defined in 5 U.S.C. 7103(a)(8) and purchases under the simplified acquisition threshold as defined in the Office of Federal Procurement Policy Act, 41 U.S.C. 403.
 
@@ -197,7 +199,7 @@ Sec. 2. <i>Contract Clause</i>. Except in contracts exempted in accordance with 
 
 "2. The contractor will comply with all provisions of the Secretary's Notice, and related rules, regulations, and orders of the Secretary of Labor.
 
-"3. In the event that the contractor does not comply with any of the requirements set forth in paragraphs (1) or (2) above, this contract may be cancelled, terminated, or suspended in whole or in part, and the contractor may be declared ineligible for further Government contracts in accordance with procedures authorized in or adopted pursuant to Executive Order \[number as provided by the Federal Register \[13496\]\] of \[insert new date \[Jan. 30, 2009\]\]. Such other sanctions or remedies may be imposed as are provided in Executive Order \[number as provided by the Federal Register \[13496\]\] of \[insert new date \[Jan. 30, 2009\]\], or by rule, regulation, or order of the Secretary of Labor, or as are otherwise provided by law.
+"3. In the event that the contractor does not comply with any of the requirements set forth in paragraphs (1) or (2) above, this contract may be cancelled, terminated, or suspended in whole or in part, and the contractor may be declared ineligible for further Government contracts in accordance with procedures authorized in or adopted pursuant to Executive Order \[number as provided by the Federal Register \[13496\]\] of \[insert new date \[Jan. 30, 2009\]\]. Such other sanctions or remedies may be imposed as are provided in ExecutiveOrder \[number as provided by the Federal Register \[13496\]\] of \[insert new date \[Jan. 30, 2009\]\], or by rule, regulation, or order of the Secretary of Labor, or as are otherwise provided by law.
 
 "4. The contractor will include the provisions of paragraphs (1) through (3) above in every subcontract entered into in connection with this contract (unless exempted by rules, regulations, or orders of the Secretary of Labor issued pursuant to section 3 of Executive Order \[number as provided by the Federal Register \[13496\]\] of \[insert new date \[Jan. 30, 2009\]\]) so that such provisions will be binding upon each subcontractor. The contractor will take such action with respect to any such subcontract as may be directed by the Secretary of Labor as a means of enforcing such provisions, including the imposition of sanctions for non-compliance: Provided, however, that if the contractor becomes involved in litigation with a subcontractor, or is threatened with such involvement, as a result of such direction, the contractor may request the United States to enter into such litigation to protect the interests of the United States."
 
@@ -229,7 +231,7 @@ Sec. 6. <i>Compliance</i>.
 
 Sec. 7. <i>Remedies</i>. In accordance with such rules, regulations, or orders as the Secretary may issue or adopt, the Secretary may:
 
-(a) after consulting with the contracting department or agency, direct that department or agency to cancel, terminate, suspend, or cause to be cancelled, terminated, or suspended, any contract, or any portion or portions thereof, for failure of the contractor to comply with the contractual provisions required by section 2 of this order; contracts may be cancelled, terminated, or suspended absolutely, or continuance of contracts may be conditioned upon future compliance: Provided, that before issuing a directive under this subsection, theSecretary shall provide the head of the contracting department or agency an opportunity to offer written objections to the issuance of such a directive, which objections shall include a complete statement of reasons for the objections, among which reasons shall be a finding that completion of the contract is essential to the agency's mission: And provided further, that no directive shall be issued by the Secretary under this subsection so long as the head of the contracting department or agency, or his or her designee, continues to object to the issuance of such directive;
+(a) after consulting with the contracting department or agency, direct that department or agency to cancel, terminate, suspend, or cause to be cancelled, terminated, or suspended, any contract, or any portion or portions thereof, for failure of the contractor to comply with the contractual provisions required by section 2 of this order; contracts may be cancelled, terminated, or suspended absolutely, or continuance of contracts may be conditioned upon future compliance: Provided, that before issuing a directive under this subsection, the Secretary shall provide the head of the contracting department or agency an opportunity to offer written objections to the issuance of such a directive, which objections shall include a complete statement of reasons for the objections, among which reasons shall be a finding that completion of the contract is essential to the agency's mission: And provided further, that no directive shall be issued by the Secretary under this subsection so long as the head of the contracting department or agency, or his or her designee, continues to object to the issuance of such directive;
 
 (b) after consulting with each affected contracting department or agency, provide that one or more contracting departments or agencies shall refrain from entering into further contracts, or extensions or other modifications of existing contracts, with any noncomplying contractor, until such contractor has satisfied the Secretary that such contractor has complied with and will carry out the provisions of this order: Provided, that before issuing a directive under this subsection, the Secretary shall provide the head of each contracting department or agency an opportunity to offer written objections to the issuance of such a directive, which objections shall include a complete statement of reasons for the objections, among which reasons shall be a finding that further contracts or extensions or other modifications of existing contracts with the noncomplying contractor are essential to the agency's mission: And provided further, that no directive shall be issued by the Secretary under this subsection so long as the head of a contracting department or agency, or his or her designee, continues to object to the issuance of such directive; and
 
@@ -328,6 +330,82 @@ Sec. 10. <i>General</i>. (a) Nothing in this order shall be construed to impair 
 Sec. 11. <i>Effective Date</i>. This order shall be effective immediately and shall apply to all solicitations for contracts issued on or after the effective date of the action taken by the FAR Council under section 6 of this order.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13981. Protecting the United States From Certain Unmanned Aircraft Systems
+
+Ex. Ord. No. 13981, Jan. 18, 2021, 86 F.R. 6821, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America,
+
+I, DONALD J. TRUMP, President of the United States of America, find that additional actions are necessary to ensure the security of Unmanned Aircraft Systems (UAS) owned, operated, and controlled by the Federal Government; to secure the integrity of American infrastructure, including America's National Airspace System (NAS); to protect our law enforcement and warfighters; and to maintain and expand our domestic industrial base capabilities.
+
+Accordingly, I hereby order:
+
+Section 1. <i>Policy</i>. UAS have tremendous potential to support public safety and national security missions and are increasingly being used by Federal, State, and local governments. UAS are used, for example, to assist law enforcement and support natural disaster relief efforts. Reliance on UAS and components manufactured by our adversaries, however, threatens our national and economic security.
+
+United States Government operations involving UAS require accessing, collecting, and maintaining data, which could reveal sensitive information. The use of UAS and critical components manufactured and developed by foreign adversaries, or by persons under their control, may allow this sensitive information to be accessed by or transferred to foreign adversaries. Furthermore, the manufacturing of UAS involves combining several critical components, including advanced manufacturing techniques, artificial intelligence, microelectronic components, and multi-spectral sensors. The Nation's capability to produce UAS and certain critical UAS components domestically is critical for national defense and the security and strength of our defense industrial base.
+
+It is the policy of the United States, therefore, to prevent the use of taxpayer dollars to procure UAS that present unacceptable risks and are manufactured by, or contain software or critical electronic components from, foreign adversaries, and to encourage the use of domestically produced UAS.
+
+Sec. 2. <i>Reviewing Federal Government Authority to Limit Government Procurement of Covered UAS</i>. (a) The heads of all executive departments and agencies (agencies) shall review their respective authorities to determine whether, and to what extent consistent with applicable law, they could cease:
+
+(i) directly procuring or indirectly procuring through a third party, such as a contractor, a covered UAS;
+
+(ii) providing Federal financial assistance (e.g., through award of a grant) that may be used to procure a covered UAS;
+
+(iii) entering into, or renewing, a contract, order, or other commitment for the procurement of a covered UAS; or
+
+(iv) otherwise providing Federal funding for the procurement of a covered UAS.
+
+(b) After conducting the review described in subsection (a) of this section, the heads of all agencies shall each submit a report to the Director of the Office of Management and Budget identifying any authority to take the actions outlined in subsections (a)(i) through (iv) of this section.
+
+Sec. 3. <i>Reviewing Federal Government Use of UAS</i>. (a) Within 60 days of the date of this order \[Jan. 18, 2021\], the heads of all agencies shall each submit a report to the Director of National Intelligence and the Director of the Office of Science and Technology Policy describing the manufacturer, model, and any relevant security protocols for all UAS currently owned or operated by their respective agency, or controlled by their agency through a third party, such as a contractor, that are manufactured by foreign adversaries or have significant components that are manufactured by foreign adversaries.
+
+(b) Within 180 days of the date of this order, the Director of National Intelligence, in consultation with the Secretary of Defense, the Attorney General, the Secretary of Homeland Security, the Director of the Office of Science and Technology Policy, and the heads of other agencies, as appropriate, shall review the reports required by subsection (a) of this section and submit a report to the President assessing the security risks posed by the existing Federal UAS fleet and outlining potential steps that could be taken to mitigate these risks, including, if warranted, discontinuing all Federal use of covered UAS and the expeditious removal of UAS from Federal service.
+
+Sec. 4. <i>Restricting Use of UAS On or Over Critical Infrastructure or Other Sensitive Sites</i>. Within 270 days of the date of this order, the Administrator of the Federal Aviation Administration (FAA) shall propose regulations pursuant to section 2209 of the FAA Extension, Safety, and Security Act of 2016 (Public Law 114–190) \[49 U.S.C. 44802 note\].
+
+Sec. 5. <i>Budget</i>. (a) The heads of all agencies shall consider the replacement of covered UAS to be a priority when developing budget proposals and planning for the use of funds.
+
+(b) The Director of the Office of Management and Budget shall work with the heads of all agencies to identify possible sources of funding to replace covered UAS in the Federal fleet in future submissions of the President's Budget request.
+
+Sec. 6. <i>Definitions</i>. For purposes of this order, the following definitions shall apply:
+
+(a) The term "adversary country" means the Democratic People's Republic of Korea, the Islamic Republic of Iran, the People's Republic of China, the Russian Federation, or, as determined by the Secretary of Commerce, any other foreign nation, foreign area, or foreign non-government entity engaging in long-term patterns or serious instances of conduct significantly adverse to the national or economic security of the United States.
+
+(b) The term "covered UAS" means any UAS that:
+
+(i) is manufactured, in whole or in part, by an entity domiciled in an adversary country;
+
+(ii) uses critical electronic components installed in flight controllers, ground control system processors, radios, digital transmission devices, cameras, or gimbals manufactured, in whole or in part, in an adversary country;
+
+(iii) uses operating software (including cell phone or tablet applications, but not cell phone or tablet operating systems) developed, in whole or in part, by an entity domiciled in an adversary country;
+
+(iv) uses network connectivity or data storage located outside the United States, or administered by any entity domiciled in an adversary country; or
+
+(v) contains hardware and software components used for transmitting photographs, videos, location information, flight paths, or any other data collected by the UAS manufactured by an entity domiciled in an adversary country.
+
+(c) The term "critical electronic component" means any electronic device that stores, manipulates, or transfers digital data. The term critical electronic component does not include, for example, passive electronics such as resistors, and non-data transmitting motors, batteries, and wiring.
+
+(d) The term "entity" means a partnership, association, trust, joint venture, corporation, government, group, subgroup, other organization, or person.
+
+(e) The term "Intelligence Community" has the same meaning set forth for that term in section 3003(4) of title 50, United States Code.
+
+(f) The term "National Airspace System" (NAS) means the common network of United States airspace; air navigation facilities, equipment, and services; airports or landing areas; aeronautical charts, information, and services; related rules, regulations, and procedures; technical information; and manpower and material. The term also includes system components shared jointly by the Departments of Defense, Transportation, and Homeland Security.
+
+(g) The term "Unmanned Aircraft Systems" (UAS) means any unmanned aircraft, and the associated elements that are required for the pilot or system operator to operate safely and efficiently in the NAS, including communication links, the components that control the unmanned aircraft, and all critical electronic components. The term UAS does not include any separate communication device, such as a cellular phone or tablet, designed to perform independently of a UAS system, which may be incorporated into the operation of a UAS.
+
+Sec. 7. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ---

@@ -36,7 +36,7 @@ Only a major league baseball player has standing to sue under this section. For 
 
 (1) As used in this section, "person" means any entity, including an individual, partnership, corporation, trust or unincorporated association or any combination or association thereof. As used in this section, the National Association of Professional Baseball Leagues, its member leagues and the clubs of those leagues, are not "in the business of organized professional major league baseball".
 
-(2) In cases involving conduct, acts, practices, or agreements that directly relate to or affect both employment of major league baseball players to play baseball at the major league level and also relate to or affect any other aspect of organized professional baseball, including but not limited to employment to play baseball at the minor league level and the other areas set forth in subsection (b), only those components, portions or aspects of such conduct, acts, practices, or agreements that directly relate to or affect employment of major league players to play baseball at the major league level may bechallenged under subsection (a) and then only to the extent that they directly relate to or affect employment of major league baseball players to play baseball at the major league level.
+(2) In cases involving conduct, acts, practices, or agreements that directly relate to or affect both employment of major league baseball players to play baseball at the major league level and also relate to or affect any other aspect of organized professional baseball, including but not limited to employment to play baseball at the minor league level and the other areas set forth in subsection (b), only those components, portions or aspects of such conduct, acts, practices, or agreements that directly relate to or affect employment of major league players to play baseball at the major league level may be challenged under subsection (a) and then only to the extent that they directly relate to or affect employment of major league baseball players to play baseball at the major league level.
 
 (3) As used in subsection (a), interpretation of the term "directly" shall not be governed by any interpretation of section 151 et seq. of title 29, United States Code (as amended).
 
@@ -45,6 +45,8 @@ Only a major league baseball player has standing to sue under this section. For 
 (5) The scope of the conduct, acts, practices, or agreements covered by subsection (b) shall not be strictly or narrowly construed.
 
 (Oct. 15, 1914, ch. 323, §27, as added Pub. L. 105–297, §3, Oct. 27, 1998, 112 Stat. 2824.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -55,6 +57,8 @@ Public Law 87–331, referred to in subsec. (b)(4), is Pub. L. 87–331, Sept. 3
 #### Codification
 
 Another section 27 of act Oct. 15, 1914, ch. 323, was renumbered section 28 and is classified to section 27 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Purpose
 

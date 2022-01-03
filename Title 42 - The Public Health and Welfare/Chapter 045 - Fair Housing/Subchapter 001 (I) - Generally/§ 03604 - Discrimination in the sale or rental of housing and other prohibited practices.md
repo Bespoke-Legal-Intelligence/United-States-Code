@@ -8,7 +8,7 @@ As made applicable by section 3603 of this title and except as exempted by secti
 
 (c) To make, print, or publish, or cause to be made, printed, or published any notice, statement, or advertisement, with respect to the sale or rental of a dwelling that indicates any preference, limitation, or discrimination based on race, color, religion, sex, handicap, familial status, or national origin, or an intention to make any such preference, limitation, or discrimination.
 
-(d) To represent to any person because of race, color, religion, sex, handicap, familial status, or national origin that any dwelling is not available for inspection, sale, or rental when such dwelling is in fact so available.
+(d) To represent to any person because of race, color, religion, sex, handicap, familial status, ornational origin that any dwelling is not available for inspection, sale, or rental when such dwelling is in fact so available.
 
 (e) For profit, to induce or attempt to induce any person to sell or rent any dwelling by representations regarding the entry or prospective entry into the neighborhood of a person or persons of a particular race, color, religion, sex, handicap, familial status, or national origin.
 
@@ -72,9 +72,11 @@ As made applicable by section 3603 of this title and except as exempted by secti
 
 (8) Nothing in this subchapter shall be construed to invalidate or limit any law of a State or political subdivision of a State, or other jurisdiction in which this subchapter shall be effective, that requires dwellings to be designed and constructed in a manner that affords handicapped persons greater access than is required by this subchapter.
 
-(9) Nothing in this subsection requires that a dwelling be made available to an individual whose tenancy would constitute a direct threat to the health or safety of other individuals or whose tenancy would result in substantial physical damage to the property of others.
+(9) Nothing in this subsection requires that a dwelling be made available to an individualwhose tenancy would constitute a direct threat to the health or safety of other individuals or whose tenancy would result in substantial physical damage to the property of others.
 
 (Pub. L. 90–284, title VIII, §804, Apr. 11, 1968, 82 Stat. 83; Pub. L. 93–383, title VIII, §808(b)(1), Aug. 22, 1974, 88 Stat. 729; Pub. L. 100–430, §§6(a)–(b)(2), (e), 15, Sept. 13, 1988, 102 Stat. 1620, 1622, 1623, 1636.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -89,6 +91,8 @@ Subsec. (f). Pub. L. 100–430, §6(a), added subsec. (f).
 Subsec. (f)(3)(A). Pub. L. 100–430, §15, which directed the substitution of "except that, in the case of a rental, the landlord may where it is reasonable to do so condition permission for a modification on the renter agreeing to restore the interior of the premises to the condition that existed before the modification, reasonable wear and tear excepted." for the period at the end of subpar. (A) was executed by making the substitution for a semicolon as the probable intent of Congress because subpar. (A) ended with a semicolon, not a period.
 
 <b>1974</b>—Pub. L. 93–383 inserted ", sex" after "religion" wherever appearing in cls. (a) to (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

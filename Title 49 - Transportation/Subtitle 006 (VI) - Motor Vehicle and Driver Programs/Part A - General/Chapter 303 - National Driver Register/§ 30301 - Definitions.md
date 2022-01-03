@@ -46,13 +46,11 @@ In clause (4), the words "rail line" are substituted for "rail or rails" for con
 
 The definitions of "Secretary", "Register", and "Register system" are omitted as surplus because the complete name of the Secretary of Transportation and the National Driver Register are used the first time the terms appear in a section.
 
-#### Termination of Trust Territory of the Pacific Islands
-
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Protection of Domestic Violence and Crime Victims From Certain Disclosures of Information
 
-Pub. L. 109–162, title VIII, §827, Jan. 5, 2006, 119 Stat. 3066, provided that: "In developing regulations or guidance with regard to identification documents, including driver's licenses, the Secretary of Homeland Security, in consultation with the Administrator of SocialSecurity, shall consider and address the needs of victims, including victims of battery, extreme cruelty, domestic violence, dating violence, sexual assault, stalking or trafficking, who are entitled to enroll in State address confidentiality programs, whose addresses are entitled to be suppressed under State or Federal law or suppressed by a court order, or who are protected from disclosure of information pursuant to section 384 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (8 U.S.C. 1367)."
+Pub. L. 109–162, title VIII, §827, Jan. 5, 2006, 119 Stat. 3066, provided that: "In developing regulations or guidance with regard to identification documents, including driver's licenses, the Secretary of Homeland Security, in consultation with the Administrator of Social Security, shall consider and address the needs of victims, including victims of battery, extreme cruelty, domestic violence, dating violence, sexual assault, stalking or trafficking, who are entitled to enroll in State address confidentiality programs, whose addresses are entitled to be suppressed under State or Federal law or suppressed by a court order, or who are protected from disclosure of information pursuant to section 384 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (8 U.S.C. 1367)."
 
 #### Improved Security for Drivers' Licenses and Personal Identification Cards
 
@@ -272,7 +270,7 @@ Other Requirements.—To meet the requirements of this section, a State shall ad
 
 &emsp;"(8) Subject all persons authorized to manufacture or produce drivers' licenses and identification cards to appropriate background checks.
 
-&emsp;"(9) Establish fraud detection and prevention training programs for appropriate employees engaged in the issuance of drivers' licenses and identification cards.
+&emsp;"(9) Establish fraud detection and prevention training programs for appropriate employees engaged inthe issuance of drivers' licenses and identification cards.
 
 &emsp;"(10) Limit the period of validity of all driver's licenses and identification cards that are not temporary to a period that does not exceed 8 years.
 
@@ -353,4 +351,10 @@ Report to congress.—Not later than 2 years after the date of enactment of this
 "(4)
 
 Authorization of Appropriations.—There is authorized to be appropriated to carry out paragraph (2) $250,000 in the aggregate for fiscal years beginning after September 30, 1998."
+
+#### <b>Executive Documents</b>
+
+#### Termination of Trust Territory of the Pacific Islands
+
+For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 

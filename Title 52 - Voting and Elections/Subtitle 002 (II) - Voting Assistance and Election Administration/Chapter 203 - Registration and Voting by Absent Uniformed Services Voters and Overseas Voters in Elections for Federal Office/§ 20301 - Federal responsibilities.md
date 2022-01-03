@@ -16,7 +16,7 @@ The Presidential designee shall—
 
 &emsp;(4) prescribe a suggested design for absentee ballot mailing envelopes;
 
-&emsp;(5) compile and distribute (A) descriptive material on State absentee registration and voting procedures, and (B) to the extent practicable, facts relating to specific elections, including dates, offices involved, and the text of ballot questions;
+&emsp;(5) compile and distribute (A) descriptive material on State absentee registration andvoting procedures, and (B) to the extent practicable, facts relating to specific elections, including dates, offices involved, and the text of ballot questions;
 
 &emsp;(6) not later than the end of each year after a Presidential election year, transmit to the President and the Congress a report on the effectiveness of assistance under this chapter, including a statistical analysis of uniformed services voter participation, a separate statistical analysis of overseas nonmilitary participation, and a description of State-Federal cooperation;
 
@@ -110,7 +110,7 @@ Pub. L. 111–84, div. A, title V, §584(c), Oct. 28, 2009, 123 Stat. 2331, prov
 
 #### Effective Date
 
-Pub. L. 99–410, title II, §204, Aug. 28, 1986, 100 Stat. 930, provided that: "The amendments and repeals madeby this Act \[see Tables for classification\] shall apply with respect to elections taking place after December 31, 1987."
+Pub. L. 99–410, title II, §204, Aug. 28, 1986, 100 Stat. 930, provided that: "The amendments and repeals made by this Act \[see Tables for classification\] shall apply with respect to elections taking place after December 31, 1987."
 
 #### Sense of Congress Regarding the Importance of Voting
 

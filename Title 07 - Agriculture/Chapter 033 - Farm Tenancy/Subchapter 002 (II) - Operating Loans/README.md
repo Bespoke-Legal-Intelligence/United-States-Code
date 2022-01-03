@@ -1,5 +1,7 @@
 ### SUBCHAPTER II—OPERATING LOANS
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1956</b>—Act Aug. 1, 1956, ch. 829, §2\[6\], 70 Stat. 802, substituted "OPERATING LOANS" for "PRODUCTION AND SUBSISTENCE LOANS".

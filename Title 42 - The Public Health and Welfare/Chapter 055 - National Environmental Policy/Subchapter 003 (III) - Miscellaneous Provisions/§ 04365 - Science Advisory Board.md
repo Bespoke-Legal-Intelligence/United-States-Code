@@ -76,6 +76,8 @@ The Administrator shall annually report to the Committees on Environment and Pub
 
 (Pub. L. 95–155, §8, Nov. 8, 1977, 91 Stat. 1260; Pub. L. 96–569, §3, Dec. 22, 1980, 94 Stat. 3337; Pub. L. 103–437, §15(o), Nov. 2, 1994, 108 Stat. 4593; Pub. L. 104–66, title II, §2021(k)(3), Dec. 21, 1995, 109 Stat. 728; Pub. L. 113–79, title XII, §12307, Feb. 7, 2014, 128 Stat. 989.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Clean Air Act, referred to in subsec. (c)(1), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
@@ -100,13 +102,15 @@ Section was enacted as part of the Environmental Research, Development, and Demo
 
 Subsecs. (h), (i). Pub. L. 113–79, §12307(2), added subsecs. (h) and (i).
 
-<b>1995</b>—Subsecs. (c) to (i). Pub. L. 104–66 redesignated subsecs. (e) to (i) as (c) to (g), respectively, and struck out former subsec. (c) which read as follows: "In addition to providing scientific advice when requested by the Administrator under subsection (a) of this section,the Board shall review and comment on the Administration's five-year plan for environmental research, development, and demonstration provided for by section 4361 of this title and on each annual revision thereof. Such review and comment shall be transmitted to the Congress by the Administrator, together with his comments thereon, at the time of the transmission to the Congress of the annual revision involved."
+<b>1995</b>—Subsecs. (c) to (i). Pub. L. 104–66 redesignated subsecs. (e) to (i) as (c) to (g), respectively, and struck out former subsec. (c) which read as follows: "In addition to providing scientific advice when requested by the Administrator under subsection (a) of this section, the Board shall review and comment on the Administration's five-year plan for environmental research, development, and demonstration provided for by section 4361 of this title and on each annual revision thereof. Such review and comment shall be transmitted to the Congress by the Administrator, together with his comments thereon, at the time of the transmission to the Congress of the annual revision involved."
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–437, §15(o)(1), substituted "Committee on Science, Space, and Technology, on Energy and Commerce, or on" for "Committees on Science and Technology, Interstate and Foreign Commerce, or".
 
 Subsec. (d). Pub. L. 103–437, §15(o)(2), struck out subsec. (d) which related to review and report to Administrator, President, and Congress on health effects research.
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–569 inserted provisions relating to requests by the enumerated Congressional committees.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

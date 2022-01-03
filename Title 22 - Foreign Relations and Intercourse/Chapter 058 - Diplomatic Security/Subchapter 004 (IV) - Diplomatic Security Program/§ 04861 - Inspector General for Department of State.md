@@ -10,7 +10,7 @@ The Inspector General of the Department of State (as established by the amendmen
 
 #### (c) Earmark
 
-Of the amounts made available for fiscal year 1987 for salaries and expenses under the heading"Administration of Foreign Affairs", not less than $6,500,000 shall be used for the sole purpose of establishing and maintaining the Office of Inspector General of the Department of State.
+Of the amounts made available for fiscal year 1987 for salaries and expenses under the heading "Administration of Foreign Affairs", not less than $6,500,000 shall be used for the sole purpose of establishing and maintaining the Office of Inspector General of the Department of State.
 
 #### (d) Limitation on appointment
 

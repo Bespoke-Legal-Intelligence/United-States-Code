@@ -2,7 +2,7 @@
 
 (a)(1) No person shall buy, sell, or transport, or offer to buy or sell, or offer or receive for transportation, in any business in commerce any restricted eggs, capable of use as human food, except as authorized by regulations of the Secretary under such conditions as he may prescribe to assure that only eggs fit for human food are used for such purpose.
 
-(2) No egg handler shall possess with intent to use, or use, any restricted eggs in the preparation of human food for commerce except that such eggs may be so possessed and used when authorized by regulations of the Secretary undersuch conditions as he may prescribe to assure that only eggs fit for human food are used for such purpose.
+(2) No egg handler shall possess with intent to use, or use, any restricted eggs in the preparation of human food for commerce except that such eggs may be so possessed and used when authorized by regulations of the Secretary under such conditions as he may prescribe to assure that only eggs fit for human food are used for such purpose.
 
 (b)(1) No person shall process any egg products for commerce at any plant except in compliance with the requirements of this chapter.
 

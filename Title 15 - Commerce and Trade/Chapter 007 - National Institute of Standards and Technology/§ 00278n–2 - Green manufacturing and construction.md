@@ -10,9 +10,13 @@ The Director shall carry out a green manufacturing and construction initiative�
 
 (Pub. L. 111–358, title IV, §408, Jan. 4, 2011, 124 Stat. 4004.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the America COMPETES Reauthorization Act of 2010, also known as the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Reauthorization Act of 2010, and as part of the National Institute of Standards and Technology Authorization Act of 2010, and not as part of the National Institute of Standards and Technology Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

@@ -134,7 +134,7 @@ The Commission shall actively consult with a variety of representatives from pri
 
 #### (1) In general
 
-&emsp;Not later than 18 months after the date of the first meeting of the Commission, and annually thereafter, the Commission shall issue a report, the Strategy for Assuring Financial Empowerment ("SAFE Strategy"), to theCommittee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives on the progress of the Commission in carrying out this chapter.
+&emsp;Not later than 18 months after the date of the first meeting of the Commission, and annually thereafter, the Commission shall issue a report, the Strategy for Assuring Financial Empowerment ("SAFE Strategy"), to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives on the progress of the Commission in carrying out this chapter.
 
 #### (2) Contents
 
@@ -174,9 +174,13 @@ The Commission shall annually provide testimony by the Chairperson to the Commit
 
 (Pub. L. 108–159, title V, §514, Dec. 4, 2003, 117 Stat. 2004; Pub. L. 115–174, title VI, §603, May 24, 2018, 132 Stat. 1367.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a)(3). Pub. L. 115–174 added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

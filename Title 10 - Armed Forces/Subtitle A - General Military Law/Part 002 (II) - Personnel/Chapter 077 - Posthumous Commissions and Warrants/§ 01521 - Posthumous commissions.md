@@ -6,7 +6,7 @@
 
 &emsp;(2) successfully completed the course at an officers' training school and was recommended for appointment to a commissioned grade by the commanding officer or officer in charge of the school but was unable to accept the appointment because of death; or
 
-&emsp;(3) was officially recommended for appointment or promotion to a commissioned gradebut was unable to accept the promotion or appointment because of death.
+&emsp;(3) was officially recommended for appointment or promotion to a commissioned grade but was unable to accept the promotion or appointment because of death.
 
 (b) A commission issued under subsection (a) shall issue as of the date of the appointment, recommendation, or official recommendation, as the case may be, and the member's name shall be carried on the records of the military or executive department concerned as if he had served in the grade, and branch if any, in which posthumously commissioned, from the date of the appointment, recommendation, or official recommendation to the date of his death.
 
@@ -72,6 +72,8 @@ In subsection (a), the words "a member of" are substituted for the words "any pe
 
 In subsection (b), the words "if any" are substituted for words "of the service". The words "appointment and", in 10:491b and 34:285c, and "appointment or promotion and", in 10:491c and 34:285d, are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–417, §502(a)(1), struck out "in line of duty" after "death" in pars. (1) to (3).
@@ -82,9 +84,13 @@ Subsec. (c). Pub. L. 110–417, §502(a)(2), added subsec. (c).
 
 Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title V, §505(b)\], substituted "official recommendation" for "approval" in two places.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Determination of Date of Death Under Missing Persons Act
 
 Act July 28, 1942, ch. 528, §5, as added July 17, 1953, ch. 220, §1(e), 67 Stat. 177, provided that for purposes of this chapter, in any case where the date of death is established under the Missing Persons Act, as amended, the date of death is the date of receipt by the head of the department concerned of evidence that the person is dead, or the date the finding of death is made under section 5 of that Act, prior to repeal by Pub. L. 89–718, §12(b), Nov. 2, 1966, 80 Stat. 1117. See section 1524 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

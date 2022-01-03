@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, under such terms and conditions as the Secretary shall establish, maymake loans to economically disadvantaged rural communities for the purposes of securing technical assistance and services to aid in the development and implementation of action plans, including planning for—
+The Secretary, under such terms and conditions as the Secretary shall establish, may make loans to economically disadvantaged rural communities for the purposes of securing technical assistance and services to aid in the development and implementation of action plans, including planning for—
 
 &emsp;(1) improving existing facilities in the community that may generate employment or revenue;
 
@@ -15,6 +15,8 @@ The Secretary, under such terms and conditions as the Secretary shall establish,
 The interest rates on a loan made pursuant to this section shall be as determined by the Secretary, but not in excess of the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the maturity of such loan, plus not to exceed 1 percent, as determined by the Secretary, and rounded to the nearest one-eighth of 1 percent.
 
 (Pub. L. 101–624, title XXIII, §2378, Nov. 28, 1990, 104 Stat. 4048; Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §345(f)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–204.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

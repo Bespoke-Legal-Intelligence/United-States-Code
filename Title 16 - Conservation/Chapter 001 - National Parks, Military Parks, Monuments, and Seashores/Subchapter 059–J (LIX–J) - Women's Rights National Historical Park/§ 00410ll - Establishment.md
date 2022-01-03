@@ -8,7 +8,7 @@ The Congress finds that—
 
 &emsp;(2) The Declaration of Sentiments approved by the 1848 Women's Rights Convention is a document of enduring relevance, which expresses the goal that equality and justice should be extended to all people without regard to sex.
 
-&emsp;(3) There are nine sites located in Seneca Falls and Waterloo, New York, associated with the nineteenth century women's rights movement which should be recognized, preserved, and interpreted for the benefit of the public.
+&emsp;(3) There are nine sites located in Seneca Falls and Waterloo, New York, associated withthe nineteenth century women's rights movement which should be recognized, preserved, and interpreted for the benefit of the public.
 
 #### (b) Statement of purposes
 
@@ -50,7 +50,7 @@ The Secretary is authorized to acquire by donation, purchase with donated or app
 
 #### (e) Cooperative agreements
 
-The Secretary is authorized to enter into cooperative agreements with the owners of properties designated as part of the park, pursuant to which the Secretary may mark, interpret, improve, restore, and provide technical assistance with respect to the preservation and interpretation of such properties. Such agreements shall contain, but need not be limited to, provisions that the Secretary shall have the right of access at reasonable times to public portions ofthe property for interpretative and other purposes, and that no changes or alterations shall be made in the property except by mutual agreement.
+The Secretary is authorized to enter into cooperative agreements with the owners of properties designated as part of the park, pursuant to which the Secretary may mark, interpret, improve, restore, and provide technical assistance with respect to the preservation and interpretation of such properties. Such agreements shall contain, but need not be limited to, provisions that the Secretary shall have the right of access at reasonable times to public portions of the property for interpretative and other purposes, and that no changes or alterations shall be made in the property except by mutual agreement.
 
 #### (f) State and local participation; financial assistance
 
@@ -91,6 +91,8 @@ The Secretary shall administer the park in accordance with the provisions of thi
 (2) In addition to those sums appropriated prior to November 12, 1996, for land acquisition and development, there is hereby authorized to be appropriated an additional $2,000,000.
 
 (Pub. L. 96–607, title XVI, §1601, Dec. 28, 1980, 94 Stat. 3546; Pub. L. 98–402, Aug. 28, 1984, 98 Stat. 1478; Pub. L. 100–475, §1, Oct. 6, 1988, 102 Stat. 2303; Pub. L. 104–333, div. I, title V, §505, Nov. 12, 1996, 110 Stat. 4155; Pub. L. 106–258, §1, Aug. 8, 2000, 114 Stat. 655.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -133,6 +135,8 @@ Subsec. (i). Pub. L. 104–333, §505(b), designated existing provisions as par.
 <b>1984</b>—Subsec. (c)(8). Pub. L. 98–402, §1(a), substituted "McClintock House and related structures, 14 and 16 East Williams Street" for "McClintock House, 16 East Williams Street".
 
 Subsec. (d). Pub. L. 98–402, §1(b), substituted "paragraphs (7) and (9)" for "paragraphs (7) through (9)", and inserted "Within two years of the acquisition of the property listed in subsection (c)(8) of this section the Secretary shall have removed all structures from the property that are not relevant to the historic integrity of the McClintock House."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### General Management Plans; Submittal to Congressional Committees
 

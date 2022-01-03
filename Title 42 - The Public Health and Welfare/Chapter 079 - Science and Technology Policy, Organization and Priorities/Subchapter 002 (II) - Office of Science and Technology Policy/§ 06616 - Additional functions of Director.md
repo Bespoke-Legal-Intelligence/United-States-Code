@@ -24,15 +24,21 @@ In carrying out his functions under this chapter, the Director is authorized to�
 
 (Pub. L. 94–282, title II, §207, May 11, 1976, 90 Stat. 466.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 In subsec. (c)(3), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes (41 U.S.C. 5)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-#### Abolition of the Federal Coordinating Council for Science, Engineering, and Technology; Transfer of Functions
-
-See note set out under section 6651 of this title.
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+
+#### <b>Executive Documents</b>
+
+#### Abolition of the Federal Coordinating Council for Science, Engineering, and Technology; Transfer of Functions
+
+See note set out under section 6651 of this title.
 

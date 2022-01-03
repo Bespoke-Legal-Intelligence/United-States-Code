@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-In order to preserve for public use and enjoyment certain areas possessing outstanding natural, historic, and recreational values, the Secretary of the Interior (hereinafter referred to as the "Secretary") may establish and administer the Gulf Islands National Seashore (hereinafter referred to as the "seashore").
+In order to preserve for public use and enjoyment certain areas possessing outstanding natural, historic, and recreational values, the Secretary of the Interior (hereinafter referred to asthe "Secretary") may establish and administer the Gulf Islands National Seashore (hereinafter referred to as the "seashore").
 
 #### (b) Composition
 
@@ -35,6 +35,8 @@ In order to preserve for public use and enjoyment certain areas possessing outst
 &emsp;The Cat Island Map shall be on file and available for public inspection in the appropriate offices of the National Park Service.
 
 (Pub. L. 91–660, §1, Jan. 8, 1971, 84 Stat. 1967; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §137(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–231.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

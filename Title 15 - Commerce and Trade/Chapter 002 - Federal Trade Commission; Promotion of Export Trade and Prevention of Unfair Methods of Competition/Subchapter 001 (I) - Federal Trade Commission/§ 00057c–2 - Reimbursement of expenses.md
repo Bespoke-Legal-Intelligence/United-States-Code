@@ -8,9 +8,13 @@ The Commission may accept payment or reimbursement, in cash or in kind, from a d
 
 <i>For repeal of section by section 13 of Pub. L. 109–455, see Effective Date of Repeal note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 26 of act Sept. 26, 1914, was renumbered section 28 and is classified to section 58 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of Repeal
 

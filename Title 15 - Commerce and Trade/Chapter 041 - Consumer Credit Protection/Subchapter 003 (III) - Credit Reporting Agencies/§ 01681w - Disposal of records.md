@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Federal Trade Commission, the Securities and Exchange Commission, the Commodity Futures Trading Commission, the Federal banking agencies, and the National Credit Union Administration, with respect to the entities that are subject to their respective enforcement authority under section 1681s of this title, and in coordination as described in paragraph (2), shall issue final regulations requiring any person that maintains or otherwisepossesses consumer information, or any compilation of consumer information, derived from consumer reports for a business purpose to properly dispose of any such information or compilation.
+&emsp;The Federal Trade Commission, the Securities and Exchange Commission, the Commodity Futures Trading Commission, the Federal banking agencies, and the National Credit Union Administration, with respect to the entities that are subject to their respective enforcement authority under section 1681s of this title, and in coordination as described in paragraph (2), shall issue final regulations requiring any person that maintains or otherwise possesses consumer information, or any compilation of consumer information, derived from consumer reports for a business purpose to properly dispose of any such information or compilation.
 
 #### (2) Coordination
 
@@ -28,6 +28,8 @@ Nothing in this section shall be construed—
 
 (Pub. L. 90–321, title VI, §628, as added Pub. L. 108–159, title II, §216(a), Dec. 4, 2003, 117 Stat. 1985; amended Pub. L. 111–203, title X, §1088(a)(12), (13), July 21, 2010, 124 Stat. 2091, 2092.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Public Law 106–102, referred to in subsec. (a)(2)(B), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338, as amended, known as the Gramm-Leach-Bliley Act. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
@@ -37,6 +39,8 @@ Public Law 106–102, referred to in subsec. (a)(2)(B), is Pub. L. 106–102, No
 <b>2010</b>—Subsec. (a)(1). Pub. L. 111–203, §1088(a)(12), substituted "The Federal Trade Commission, the Securities and Exchange Commission, the Commodity Futures Trading Commission, the Federal banking agencies, and the National Credit Union Administration, with respect to the entities that are subject to their respective enforcement authority under section 1681s of this title," for "Not later than 1 year after December 4, 2003, the Federal banking agencies, the National Credit Union Administration, and the Commission with respect to the entities that are subject to their respective enforcement authority under section 1681s of this title, and the Securities and Exchange Commission,".
 
 Subsec. (a)(3). Pub. L. 111–203, §1088(a)(13), substituted "the agencies identified in paragraph (1)" for "the Federal banking agencies, the National Credit Union Administration, the Commission, and the Securities and Exchange Commission".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

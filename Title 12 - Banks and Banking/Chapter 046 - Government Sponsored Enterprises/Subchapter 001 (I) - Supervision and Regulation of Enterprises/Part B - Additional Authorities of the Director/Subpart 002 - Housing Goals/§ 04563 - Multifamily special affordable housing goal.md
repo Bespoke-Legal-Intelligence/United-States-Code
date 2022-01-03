@@ -8,7 +8,7 @@
 
 #### (2) Additional requirements for units affordable to very low-income families
 
-&emsp;When establishing the goal under this section, the Director shall establish additional requirements for the purchase by each enterprise of mortgages on multifamily housing that finance dwelling units affordable to very low-income families.
+&emsp;When establishing the goal under this section, the Director shall establish additionalrequirements for the purchase by each enterprise of mortgages on multifamily housing that finance dwelling units affordable to very low-income families.
 
 #### (3) Reporting on smaller properties
 

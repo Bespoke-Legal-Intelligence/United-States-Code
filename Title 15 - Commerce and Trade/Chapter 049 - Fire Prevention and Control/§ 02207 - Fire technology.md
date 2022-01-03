@@ -24,7 +24,7 @@ The Administrator shall conduct a continuing program of development, testing, an
 
 #### (b) Limitation on manufacture and sale of equipment
 
-The Administration shall not engage in the manufacture or sale of any equipment or device developed pursuant to this section, except to theextent that it deems it necessary to adequately develop, test, or evaluate such equipment or device.
+The Administration shall not engage in the manufacture or sale of any equipment or device developed pursuant to this section, except to the extent that it deems it necessary to adequately develop, test, or evaluate such equipment or device.
 
 #### (c) Management studies
 
@@ -126,6 +126,8 @@ In establishing and conducting programs under this section, the Administrator sh
 
 (Pub. L. 93–498, §8, Oct. 29, 1974, 88 Stat. 1540; Pub. L. 108–169, title II, §202, Dec. 6, 2003, 117 Stat. 2037; Pub. L. 110–376, §§6, 9(b), Oct. 8, 2008, 122 Stat. 4059, 4061.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (c)(2) to (5). Pub. L. 110–376, §9(b), added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively.
@@ -136,11 +138,17 @@ Subsec. (h). Pub. L. 110–376, §6(b), added subsec. (h).
 
 <b>2003</b>—Subsecs. (e) to (g). Pub. L. 108–169 added subsecs. (e) and (f) and redesignated former subsec. (e) as (g).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transfer of Functions
 
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) andsections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
 
 Functions of National Fire Prevention and Control Administration \[now United States Fire Administration\] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under section 2202 of this title.
 

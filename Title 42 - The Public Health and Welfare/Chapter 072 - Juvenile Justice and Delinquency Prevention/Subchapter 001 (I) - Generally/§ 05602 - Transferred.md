@@ -1,5 +1,7 @@
 ### §5602. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 5602 was editorially reclassified as section 11102 of Title 34, Crime Control and Law Enforcement.

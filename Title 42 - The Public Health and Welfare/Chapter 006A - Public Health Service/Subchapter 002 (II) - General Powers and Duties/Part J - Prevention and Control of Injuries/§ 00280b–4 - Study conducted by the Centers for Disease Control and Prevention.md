@@ -2,7 +2,7 @@
 
 #### (a) Purposes
 
-The Secretary of Health and Human Services acting through the National Center for Injury Prevention and Control at the Centers for Disease Control <sup>1</sup> Prevention shall make grants to entities, including domestic and sexual assault coalitions and programs, research organizations, tribal organizations, and academic institutions to support research to examine prevention and intervention programs to further the understanding of sexual and domestic violence by and against adults, youth, and children.
+The Secretary of Health and Human Services acting through the National Center for InjuryPrevention and Control at the Centers for Disease Control <sup>1</sup> Prevention shall make grants to entities, including domestic and sexual assault coalitions and programs, research organizations, tribal organizations, and academic institutions to support research to examine prevention and intervention programs to further the understanding of sexual and domestic violence by and against adults, youth, and children.
 
 #### (b) Use of funds
 
@@ -13,6 +13,8 @@ The research conducted under this section shall include evaluation and study of 
 There shall be authorized to be appropriated to carry out this title $1,000,000 for each of the fiscal years 2014 through 2018.
 
 (Pub. L. 109–162, title IV, §402, Jan. 5, 2006, 119 Stat. 3023; Pub. L. 113–4, title IV, §401, Mar. 7, 2013, 127 Stat. 92.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -48,9 +50,11 @@ A prior section 280b–12, act July 1, 1944, ch. 373, title III, §399b, as adde
 
 <b>2013</b>—Subsec. (c). Pub. L. 113–4 substituted "$1,000,000 for each of the fiscal years 2014 through 2018" for "$2,000,000 for each of the fiscal years 2007 through 2011".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2013 Amendment
 
-Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal year following Mar. 7, 2013, seesection 4 of Pub. L. 113–4, set out as a note under section 2261 of Title 18, Crimes and Criminal Procedure.
+Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal year following Mar. 7, 2013, see section 4 of Pub. L. 113–4, set out as a note under section 2261 of Title 18, Crimes and Criminal Procedure.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by "and".</i>
 

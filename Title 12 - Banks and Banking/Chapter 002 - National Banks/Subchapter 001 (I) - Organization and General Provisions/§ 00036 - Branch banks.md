@@ -36,7 +36,7 @@ A national banking association may, with the approval of the Comptroller of the 
 
 #### (d) Branches resulting from interstate merger transactions
 
-A national bank resulting from an interstate merger transaction (as defined in section1831u(f)(6) <sup>1</sup> of this title) may maintain and operate a branch in a State other than the home State (as defined in subsection (g)(3)(B)) of such bank in accordance with section 1831u of this title.
+A national bank resulting from an interstate merger transaction (as defined in section 1831u(f)(6) <sup>1</sup> of this title) may maintain and operate a branch in a State other than the home State (as defined in subsection (g)(3)(B)) of such bank in accordance with section 1831u of this title.
 
 #### (e) Exclusive authority for additional branches
 
@@ -102,7 +102,7 @@ A national bank resulting from an interstate merger transaction (as defined in s
 
 #### (B) Operation
 
-&emsp;&emsp;Subsections (c) and (d)(2) of section 1831u of this title shall apply with respect to each branch of a national bank which is established and operated pursuant to an application approved under this subsection in the same manner and to the same extent suchprovisions of such section 1831u of this title apply to a branch of a national bank which resulted from an interstate merger transaction approved pursuant to such section 1831u of this title.
+&emsp;&emsp;Subsections (c) and (d)(2) of section 1831u of this title shall apply with respect to each branch of a national bank which is established and operated pursuant to an application approved under this subsection in the same manner and to the same extent such provisions of such section 1831u of this title apply to a branch of a national bank which resulted from an interstate merger transaction approved pursuant to such section 1831u of this title.
 
 #### (3) Definitions
 
@@ -182,7 +182,7 @@ Pub. L. 103–328, §102(b)(1)(A), redesignated subsec. (g) as (k).
 
 Subsecs. (h) to (l). Pub. L. 103–328, §102(b)(1)(A), redesignated subsecs. (d) to (h) as (h) to (l), respectively.
 
-<b>1962</b>—Subsec. (b). Pub. L. 87–721 substituted provisions permitting a national bank resulting from the conversion of a State bank to retain and operate as a branch any office which was a branch of the State bank immediately prior to conversion if such office might be established as a new branch of the resulting national bank, and is approved by the Comptroller for continued operation as a branch of the resulting bank, or any office which was a branch of any bank on Feb. 25, 1927, or any office which is approved by the Comptroller for continued operation as a branch, and a national bank resulting from consolidation of a national bank under whose charter the consolidation is effected with another bank or banks to retain and operate any office which, immediately prior to consolidation, was in operation as a main office or branch office of any bank (other than the national bank) participating in the consolidation if it might be established as a new branch of the resulting bank, and if the Comptroller approves ofits continued operation, or was in operation as a branch of any bank participating in the consolidation and which, on Feb. 25, 1927, was in operation as a branch of any bank, or was in operation as a branch of the national bank and which, on Feb. 25, 1927, was not in operation as a branch of any bank, if the Comptroller approves of its continued operation, for provisions which permitted State banks converted into or consolidated with national banking associations after Feb. 25, 1927, or two or more national banking associations which are consolidated, to retain and operate only those branches which may have been in lawful operation on Feb. 25, 1927, and inserted provisions prohibiting the Comptroller from granting approval under clauses (1)(C) and (2)(C) if a State bank resulting from the conversion or consolidation would be prohibited by law of the State from retaining and operating as a branch an identically situated office which was a branch of the national bank or State bank immediately prior to the conversion or consolidation.
+<b>1962</b>—Subsec. (b). Pub. L. 87–721 substituted provisions permitting a national bank resulting from the conversion of a State bank to retain and operate as a branch any office which was a branch of the State bank immediately prior to conversion if such office might be established as a new branch of the resulting national bank, and is approved by the Comptroller for continued operation as a branch of the resulting bank, or any office which was a branch of any bank on Feb. 25, 1927, or any office which is approved by the Comptroller for continued operation as a branch, and a national bank resulting from consolidation of a national bank under whose charter the consolidation is effected with another bank or banks to retain and operate any office which, immediately prior to consolidation, was in operation as a main office or branch office of any bank\(other than the national bank) participating in the consolidation if it might be established as a new branch of the resulting bank, and if the Comptroller approves of its continued operation, or was in operation as a branch of any bank participating in the consolidation and which, on Feb. 25, 1927, was in operation as a branch of any bank, or was in operation as a branch of the national bank and which, on Feb. 25, 1927, was not in operation as a branch of any bank, if the Comptroller approves of its continued operation, for provisions which permitted State banks converted into or consolidated with national banking associations after Feb. 25, 1927, or two or more national banking associations which are consolidated, to retain and operate only those branches which may have been in lawful operation on Feb. 25, 1927, and inserted provisions prohibiting the Comptroller from granting approval under clauses (1)(C) and (2)(C) if a State bank resulting from the conversion or consolidation would be prohibited by law of the State from retaining and operating as a branch an identically situated office which was a branch of the national bank or State bank immediately prior to the conversion or consolidation.
 
 <b>1952</b>—Subsec. (c). Act July 15, 1952, struck out the minimum capital requirement for the establishment of branches by national banks.
 
@@ -198,10 +198,6 @@ Subsecs. (h) to (l). Pub. L. 103–328, §102(b)(1)(A), redesignated subsecs. (d
 
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of this title.
 
-#### Exception as to Transfer of Functions
-
-Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
-
 #### Right of State To Opt Out
 
 Nothing in Pub. L. 105–24 to alter right of States under section 525 of Pub. L. 96–221, see section 3 of Pub. L. 105–24, set out as a note under section 1831a of this title.
@@ -209,6 +205,12 @@ Nothing in Pub. L. 105–24 to alter right of States under section 525 of Pub. L
 #### Applicability of McFadden Act to Present Financial Environment; Report and Recommendations by President to Congress
 
 Pub. L. 95–369, §14, Sept. 17, 1978, 92 Stat. 625, provided for a report to Congress by the President, not later than one year after Sept. 17, 1978, containing recommendations concerning the applicability of the McFadden Act \[Feb. 25, 1927, ch. 191, 44 Stat. 1224\] to the then current financial, banking, and economic environment.
+
+#### <b>Executive Documents</b>
+
+#### Exception as to Transfer of Functions
+
+Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

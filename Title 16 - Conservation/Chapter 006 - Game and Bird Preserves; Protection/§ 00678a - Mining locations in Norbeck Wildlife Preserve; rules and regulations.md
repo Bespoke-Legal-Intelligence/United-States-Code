@@ -4,9 +4,15 @@ Subject to the conditions herein provided, mining locations may be made under th
 
 (June 24, 1948, ch. 611, §1, 62 Stat. 580; Oct. 6, 1949, ch. 620, §1, 63 Stat. 708.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 "Custer State Park Game Sanctuary" changed to "Norbeck Wildlife Preserve" by act Oct. 6, 1949.
+
+#### <b>Executive Documents</b>
+
+#### Change of Name
 
 Harney National Forest abolished and its lands transferred to and consolidated with those of Black Hills National Forest by Public Land Order No. 1016 of Oct. 4, 1954, 19 F.R. 6500.
 

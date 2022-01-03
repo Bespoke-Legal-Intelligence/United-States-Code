@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) not more than $1,900,000 may be reserved to carry out section 3005 of this title; and
 
-&emsp;&emsp;&emsp;&emsp;(II) of the amount so reserved, the portion exceeding $1,235,000 shall be used to carry out paragraphs (1) and (2) of section 3005(b) of this title.
+&emsp;&emsp;&emsp;&emsp;(II) of the amount so reserved, the portion exceeding $1,235,000 shall be used tocarry out paragraphs (1) and (2) of section 3005(b) of this title.
 
 #### (b) State grants for protection and advocacy services related to assistive technology
 

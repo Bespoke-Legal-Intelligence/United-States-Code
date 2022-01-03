@@ -54,7 +54,7 @@ The rates per $1,000,000 required by this section shall be applied pro rata to a
 
 #### (1) Annual adjustment
 
-&emsp;Subject to subsections (i)(1)(B) and (k), for each fiscal year, the Commission shall by order adjust each of the rates applicable under subsections (b) and (c) for such fiscal year to a uniform adjusted rate that, when applied to the baseline estimate of the aggregate dollaramount of sales for such fiscal year, is reasonably likely to produce aggregate fee collections under this section (including assessments collected under subsection (d) of this section) that are equal to the regular appropriation to the Commission by Congress for such fiscal year.
+&emsp;Subject to subsections (i)(1)(B) and (k), for each fiscal year, the Commission shall by order adjust each of the rates applicable under subsections (b) and (c) for such fiscal year to a uniform adjusted rate that, when applied to the baseline estimate of the aggregate dollar amount of sales for such fiscal year, is reasonably likely to produce aggregate fee collections under this section (including assessments collected under subsection (d) of this section) that are equal to the regular appropriation to the Commission by Congress for such fiscal year.
 
 #### (2) Mid-year adjustment
 
@@ -107,6 +107,8 @@ The baseline estimate of the aggregate dollar amount of sales for any fiscal yea
 &emsp;&emsp;(C) a designation of any activities of the Commission for which multi-year budget authority would be suitable.
 
 (June 6, 1934, ch. 404, title I, §31, 48 Stat. 904; Mar. 17, 1944, ch. 101, 58 Stat. 117; Pub. L. 94–29, §22, June 4, 1975, 89 Stat. 162; Pub. L. 104–290, title IV, §405(a), Oct. 11, 1996, 110 Stat. 3442; Pub. L. 105–353, title III, §301(b)(14), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 106–554, §1(a)(5) \[title II, §206(f)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–432; Pub. L. 107–123, §§2, 3, Jan. 16, 2002, 115 Stat. 2390; Pub. L. 111–203, title IX, §991(a)(1), (d)(1), July 21, 2010, 124 Stat. 1950, 1954.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -176,6 +178,8 @@ Subsec. (h). Pub. L. 106–554, §1(a)(5) \[title II, §206(f)(5)\], redesignate
 
 <b>1944</b>—Act Mar. 17, 1944, amended section generally, inserting provisions exempting from the payment of the fee securities designated for exemption by the Secretary of the Treasury.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Amendment by section 991(d)(1) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
@@ -221,10 +225,6 @@ Off-exchange trades of last sale reported transactions.—The amendment made by 
 #### Effective Date of 1975 Amendment
 
 Amendment by Pub. L. 94–29 effective Jan. 1, 1976, see section 31(a) of Pub. L. 94–29, set out as a note under section 78b of this title.
-
-#### Transfer of Functions
-
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 #### Securities and Exchange Commission Overpayment Credit
 
@@ -303,6 +303,12 @@ By order dated Apr. 25, 2013, the Securities and Exchange Commission adjusted th
 By order dated Mar. 1, 2012, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $22.40 per $1,000,000, effective Apr. 1, 2012, see 77 F.R. 13663.
 
 By order dated Jan. 20, 2012, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $18.00 per $1,000,000, effective Feb. 21, 2012, see 77 F.R. 3818.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 <i><sup>1</sup></i><i> See Adjustment of Transaction Fee Rate notes below.</i>
 

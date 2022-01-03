@@ -6,7 +6,7 @@ Except as provided in subsections (b), (c), and (e) State law shall apply to a c
 
 #### (b) Unavoidable adverse side effects; warnings
 
-(1) No vaccine manufacturer shall be liable in a civil action for damages arising from a vaccine-related injury or death associated with theadministration of a vaccine after October 1, 1988, if the injury or death resulted from side effects that were unavoidable even though the vaccine was properly prepared and was accompanied by proper directions and warnings.
+(1) No vaccine manufacturer shall be liable in a civil action for damages arising from a vaccine-related injury or death associated with the administration of a vaccine after October 1, 1988, if the injury or death resulted from side effects that were unavoidable even though the vaccine was properly prepared and was accompanied by proper directions and warnings.
 
 (2) For purposes of paragraph (1), a vaccine shall be presumed to be accompanied by proper directions and warnings if the vaccine manufacturer shows that it complied in all material respects with all requirements under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] and section 262 of this title (including regulations issued under such provisions) applicable to the vaccine and related to vaccine-related injury or death for which the civil action was brought unless the plaintiff shows—
 
@@ -27,6 +27,8 @@ The standards of responsibility prescribed by this section are not to be constru
 No State may establish or enforce a law which prohibits an individual from bringing a civil action against a vaccine manufacturer for damages for a vaccine-related injury or death if such civil action is not barred by this part.
 
 (July 1, 1944, ch. 373, title XXI, §2122, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3773; amended Pub. L. 100–203, title IV, §4302(b)(1), Dec. 22, 1987, 101 Stat. 1330–221.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

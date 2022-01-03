@@ -120,7 +120,7 @@ In this section:
 
 &emsp;&emsp;(A) who is a disabled beneficiary as defined in section 1320b–19(k)(2) of this title;
 
-&emsp;&emsp;(B) who is receiving a cash payment described in section 1382e(a) of this title or a supplementary payment described in section 212(a)(3) of Public Law 93–66 (without regard to whether such payment is paid by the Commissioner pursuant to an agreement under section 1382e(a) of this title or under section 212(b) of Public Law 93–66);
+&emsp;&emsp;(B) who is receiving a cash payment described in section 1382e(a) of this title or asupplementary payment described in section 212(a)(3) of Public Law 93–66 (without regard to whether such payment is paid by the Commissioner pursuant to an agreement under section 1382e(a) of this title or under section 212(b) of Public Law 93–66);
 
 &emsp;&emsp;(C) who, pursuant to section 1382h(b) of this title, is considered to be receiving benefits under subchapter XVI of this chapter; or
 
@@ -131,6 +131,8 @@ In this section:
 There are authorized to be appropriated to carry out this section $23,000,000 for each of the fiscal years 2000 through 2011.
 
 (Aug. 14, 1935, ch. 531, title XI, §1149, as added Pub. L. 106–170, title I, §121, Dec. 17, 1999, 113 Stat. 1887; amended Pub. L. 108–203, title IV, §§404(a)(1), 407(a), Mar. 2, 2004, 118 Stat. 525, 527; Pub. L. 111–63, §2, Sept. 18, 2009, 123 Stat. 2001; Pub. L. 111–280, §§2(a), 3(a), (b)(1), Oct. 13, 2010, 124 Stat. 2903; Pub. L. 113–128, title V, §512(dd)(3), July 22, 2014, 128 Stat. 1718.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -163,6 +165,8 @@ Subsec. (e). Pub. L. 111–280, §3(a), redesignated subsec. (d) as (e).
 <b>2004</b>—Subsec. (c)(2). Pub. L. 108–203, §404(a)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "The term 'disabled beneficiary' has the meaning given that term in section 1320b–19(k)(2) of this title."
 
 Subsec. (d). Pub. L. 108–203, §407(a), substituted "2009" for "2004".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

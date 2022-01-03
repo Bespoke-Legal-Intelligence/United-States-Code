@@ -30,7 +30,7 @@ In determining the amount of income of an alien during the period of 3 years aft
 
 (1) Any individual who is an alien shall, during the period of 3 years after entry into the United States, in order to be an eligible individual or eligible spouse for purposes of this subchapter, be required to provide to the Commissioner of Social Security such information and documentation with respect to his sponsor as may be necessary in order for the Commissioner of Social Security to make any determination required under this section, and to obtain any cooperation from such sponsor necessary for any such determination. Such alien shall also be required to provide to the Commissioner of Social Security such information and documentation as the Commissioner of Social Security may request and which such alien or his sponsor provided in support of such alien's immigration application.
 
-(2) The Commissioner of Social Security shall enter into agreements with the Secretary of State and the Attorney General whereby any information available to such persons and required in order to make any determinationunder this section will be provided by such persons to the Commissioner of Social Security, and whereby such persons shall inform any sponsor of an alien, at the time such sponsor executes an affidavit of support or similar agreement, of the requirements imposed by this section.
+(2) The Commissioner of Social Security shall enter into agreements with the Secretary of State and the Attorney General whereby any information available to such persons and required in order to make any determination under this section will be provided by such persons to the Commissioner of Social Security, and whereby such persons shall inform any sponsor of an alien, at the time such sponsor executes an affidavit of support or similar agreement, of the requirements imposed by this section.
 
 #### (e) Joint and several liability of alien and sponsor for overpayments
 
@@ -52,6 +52,8 @@ Any sponsor of an alien, and such alien, shall be jointly and severally liable f
 
 (Aug. 14, 1935, ch. 531, title XVI, §1621, as added Pub. L. 96–265, title V, §504(b), June 9, 1980, 94 Stat. 471; amended Pub. L. 98–369, div. B, title VI, §§2611(d), 2663(g)(10), July 18, 1984, 98 Stat. 1131, 1169; Pub. L. 103–152, §7(a)(1), (b)(1), Nov. 24, 1993, 107 Stat. 1519; Pub. L. 103–296, title I, §107(a)(4), Aug. 15, 1994, 108 Stat. 1478.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1153(a)(7) of title 8, referred to in subsec. (f)(2)(A), to be deemed a reference to such section as in effect prior to Apr. 1, 1980, and to sections 1157 and 1158 of Title 8, Aliens and Nationality. See section 203(h) of Pub. L. 96–212, set out as a note under section 1153 of Title 8.
@@ -68,13 +70,15 @@ Pub. L. 103–152, §7(a)(1), substituted "5 years" for "three years" in subsecs
 
 Subsec. (e). Pub. L. 98–369, §2663(g)(10), substituted "severally" for "severably".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of this title.
 
 #### Effective Date of 1993 Amendment
 
-Pub. L. 103–152, §7(a)(2), Nov. 24, 1993, 107 Stat. 1519, provided that: "The amendments made by paragraph (1) \[amending this section\] shall take effect on January 1, 1994."
+Pub. L. 103–152, §7(a)(2), Nov. 24, 1993, 107 Stat. 1519, provided that: "The amendments made by paragraph (1)\[amending this section\] shall take effect on January 1, 1994."
 
 Pub. L. 103–152, §7(b)(2), Nov. 24, 1993, 107 Stat. 1519, provided that: "The amendments made by paragraph (1) \[amending this section\] shall take effect on October 1, 1996."
 

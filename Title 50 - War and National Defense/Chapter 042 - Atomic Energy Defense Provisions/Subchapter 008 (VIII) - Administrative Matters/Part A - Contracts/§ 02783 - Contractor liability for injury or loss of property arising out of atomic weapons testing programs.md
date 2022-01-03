@@ -12,7 +12,7 @@ This section may be cited as the "Atomic Testing Liability Act".
 
 #### (2) Exclusivity
 
-&emsp;The remedies referred to in paragraph (1) shall be exclusive of any other civil action orproceeding for the purpose of determining civil liability arising from any act or omission of the contractor without regard to when the act or omission occurred. The employees of a contractor referred to in paragraph (1) shall be considered to be employees of the Federal Government, as provided in section 2671 of title 28, for the purposes of any such civil action or proceeding; and the civil action or proceeding shall proceed in the same manner as any action against the United States filed pursuant to section 1346(b) of such title and shall be subject to the limitations and exceptions applicable to those actions.
+&emsp;The remedies referred to in paragraph (1) shall be exclusive of any other civil action or proceeding for the purpose of determining civil liability arising from any act or omission of the contractor without regard to when the act or omission occurred. The employees of a contractor referred to in paragraph (1) shall be considered to be employees of the FederalGovernment, as provided in section 2671 of title 28, for the purposes of any such civil action or proceeding; and the civil action or proceeding shall proceed in the same manner as any action against the United States filed pursuant to section 1346(b) of such title and shall be subject to the limitations and exceptions applicable to those actions.
 
 #### (c) Procedure
 
@@ -27,6 +27,8 @@ The provisions of this section shall apply to any action, within the provisions 
 For purposes of this section, the term "contractor" includes a contractor or cost reimbursement subcontractor of any tier participating in the conduct of the United States atomic weapons testing program for the Department of Energy (or its predecessor agencies, including the Manhattan Engineer District, the Atomic Energy Commission, and the Energy Research and Development Administration). Such term also includes facilities which conduct or have conducted research concerning health effects of ionizing radiation in connection with the testing under contract with the Department of Energy (or any of its predecessor agencies).
 
 (Pub. L. 107–314, div. D, title XLVIII, §4803, formerly Pub. L. 101–510, div. C, title XXXI, §3141, Nov. 5, 1990, 104 Stat. 1837; renumbered Pub. L. 107–314, div. D, title XLVIII, §4803, and amended Pub. L. 108–136, div. C, title XXXI, §3141(k)(4), Nov. 24, 2003, 117 Stat. 1783; Pub. L. 113–66, div. C, title XXXI, §3146(i)(2), Dec. 26, 2013, 127 Stat. 1081.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

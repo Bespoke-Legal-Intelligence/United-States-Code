@@ -62,7 +62,7 @@ Assistance to Other Agencies.—The Secretary may provide assistance requested b
 
 (h)
 
-Detail of Employees From Other Agencies.—Upon approval by the Secretary, the Director of a center may request the temporaryassignment or detail to the center, on a nonreimbursable basis, of employees from other departments and agencies of the United States who have expertise that would further the mission of the center. Any such employee may be so assigned or detailed on a nonreimbursable basis pursuant to such a request.
+Detail of Employees From Other Agencies.—Upon approval by the Secretary, the Director of a center may request the temporary assignment or detail to the center, on a nonreimbursable basis, of employees from other departments and agencies of the United States who have expertise that would further the mission of the center. Any such employee may be so assigned or detailed on a nonreimbursable basis pursuant to such a request.
 
 (i)
 

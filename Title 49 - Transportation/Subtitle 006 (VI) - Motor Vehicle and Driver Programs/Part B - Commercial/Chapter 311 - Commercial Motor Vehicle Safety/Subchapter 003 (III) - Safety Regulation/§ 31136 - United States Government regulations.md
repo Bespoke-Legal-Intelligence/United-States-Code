@@ -130,11 +130,13 @@ Oct. 30, 1984, Pub. L. 98–554, §206(h), 98 Stat. 2835; restated Nov. 18, 1988
 
 In subsection (a), the text of 49 App.:2505(g) is omitted because 5:ch. 7 applies unless otherwise stated. Before clause (1), the words "Not later than 18 months after October 30, 1984" are omitted because the time period specified has expired. The words "Subject to section 30103(a) of this title" are added to alert the reader to that section.
 
-In subsection (c)(1), the words "except that the time periods specified in this subsection shall apply to the issuance of such regulations" are omitted because thetime periods referred to do not appear in subsection (c) as enacted. The reference was probably to the time periods in a prior version of subsection (c). See S. 2174, 98th Cong., 2d Sess., §6(b) (as reported by the Committee on Commerce, Science, and Transportation of the Senate on May 2, 1984, in S. Rept. 98–424).
+In subsection (c)(1), the words "except that the time periods specified in this subsection shall apply to the issuance of such regulations" are omitted because the time periods referred to do not appear in subsection (c) as enacted. The reference was probably to the time periods in a prior version of subsection (c). See S. 2174, 98th Cong., 2d Sess., §6(b) (as reported by the Committee on Commerce, Science, and Transportation of the Senate on May 2, 1984, in S. Rept. 98–424).
 
 In subsection (d), the text of 49 App.:2505(d) is omitted as obsolete.
 
 In subsection (f)(2)(C)(i), the words "an operator" are substituted for "such person" because only a natural person can have a medical or physical condition.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -152,6 +154,8 @@ Subsecs. (g), (h). Pub. L. 114–94, §5202(2), added subsecs. (g) and (h).
 
 <b>1995</b>—Subsec. (e)(1) to (3). Pub. L. 104–59 designated existing text as par. (1) and inserted heading, and added pars. (2) and (3).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
@@ -163,6 +167,94 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 #### Effective Date of 2005 Amendment
 
 Amendment by Pub. L. 109–59 effective on the 365th day following Aug. 10, 2005, see section 4116(f) of Pub. L. 109–59, set out as an Effective Date note under section 31149 of this title.
+
+#### Automatic Emergency Braking
+
+Pub. L. 117–58, div. B, title III, §23010, Nov. 15, 2021, 135 Stat. 766, provided that:
+
+"(a)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Automatic emergency braking system.—The term 'automatic emergency braking system' means a system on a commercial motor vehicle that, based on a predefined distance and closing rate with respect to an obstacle in the path of the commercial motor vehicle—
+
+&emsp;&emsp;"(A) alerts the driver of the obstacle; and
+
+&emsp;&emsp;"(B) if necessary to avoid or mitigate a collision with the obstacle, automatically applies the brakes of the commercial motor vehicle.
+
+&emsp;"(2)
+
+Commercial motor vehicle.—The term 'commercial motor vehicle' has the meaning given the term in section 31101 of title 49, United States Code.
+
+"(b)
+
+Federal Motor Vehicle Safety Standard.—
+
+&emsp;"(1)
+
+In general.—Not later than 2 years after the date of enactment of this Act \[Nov. 15, 2021\], the Secretary \[of Transportation\] shall—
+
+&emsp;&emsp;"(A) prescribe a motor vehicle safety standard under section 30111 of title 49, United States Code, that requires any commercial motor vehicle subject to section 571.136 of title 49, Code of Federal Regulations (relating to Federal Motor Vehicle Safety Standard Number 136) (or a successor regulation) that is manufactured after the effective date of the standard prescribed under this subparagraph to be equipped with an automatic emergency braking system; and
+
+&emsp;&emsp;"(B) as part of the standard under subparagraph (A), establish performance requirements for automatic emergency braking systems.
+
+&emsp;"(2)
+
+Considerations.—Prior to prescribing the motor vehicle safety standard under paragraph (1)(A), the Secretary shall—
+
+&emsp;&emsp;"(A) conduct a review of automatic emergency braking systems in use in applicable commercial motor vehicles and address any identified deficiencies with respect to those automatic emergency braking systems in the rulemaking proceeding to prescribe the standard, if practicable; and
+
+&emsp;&emsp;"(B) consult with representatives of commercial motor vehicle drivers regarding the experiences of drivers with automatic emergency braking systems in use in applicable commercial motor vehicles, including any malfunctions or unwarranted activations of those automatic emergency braking systems.
+
+"(c)
+
+Federal Motor Carrier Safety Regulation.—Not later than 1 year after the date of enactment of this Act, the Secretary shall prescribe a regulation under section 31136 of title 49, United States Code, that requires that an automatic emergency braking system installed in a commercial motor vehicle manufactured after the effective date of the standard prescribed under subsection (b)(1)(A) that is in operation on or after that date and is subject to section 571.136 of title 49, Code of Federal Regulations (relating to Federal Motor Vehicle Safety Standard Number 136) (or a successor regulation) be used at any time during which the commercial motor vehicle is in operation.
+
+"(d)
+
+Report on Automatic Emergency Braking in Other Commercial Motor Vehicles.—
+
+&emsp;"(1)
+
+Study.—Not later than 2 years after the date of enactment of this Act, the Secretary shall complete a study on equipping a variety of commercial motor vehicles not subject to section 571.136 of title 49, Code of Federal Regulations (relating to Federal Motor Vehicle Safety Standard Number 136) (or a successor regulation) as of that date of enactment with automatic emergency braking systems to avoid or mitigate a collision with an obstacle in the path of the commercial motor vehicle, including an assessment of the feasibility, benefits, and costs associated with installing automatic emergency braking systems on a variety of newly manufactured commercial motor vehicles with a gross vehicle weight rating greater than 10,001 pounds.
+
+&emsp;"(2)
+
+Independent research.—If the Secretary enters into a contract with a third party to perform research relating to the study required under paragraph (1), the Secretary shall ensure that the third party does not have any financial or contractual ties to, or relationships with—
+
+&emsp;&emsp;"(A) a motor carrier that transports passengers or property for compensation;
+
+&emsp;&emsp;"(B) the motor carrier industry; or
+
+&emsp;&emsp;"(C) an entity producing or supplying automatic emergency braking systems.
+
+&emsp;"(3)
+
+Public comment.—Not later than 90 days after the date on which the study under paragraph (1) is completed, the Secretary shall—
+
+&emsp;&emsp;"(A) issue a notice in the Federal Register containing the findings of the study; and
+
+&emsp;&emsp;"(B) provide an opportunity for public comment.
+
+&emsp;"(4)
+
+Report to congress.—Not later than 90 days after the conclusion of the public comment period under paragraph (3)(B), the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committees on Transportation and Infrastructure and Energy and Commerce of the House of Representatives a report that includes—
+
+&emsp;&emsp;"(A) the results of the study under paragraph (1);
+
+&emsp;&emsp;"(B) a summary of any comments received under paragraph (3)(B); and
+
+&emsp;&emsp;"(C) a determination as to whether the Secretary intends to develop performance requirements for automatic emergency braking systems for applicable commercial motor vehicles, including any analysis that led to that determination.
+
+&emsp;"(5)
+
+Rulemaking.—Not later than 2 years after the date on which the study under paragraph (1) is completed, the Secretary shall—
+
+&emsp;&emsp;"(A) determine whether a motor vehicle safety standard relating to equipping the commercial motor vehicles described in that paragraph with automatic emergency braking systems would meet the requirements and considerations described in subsections (a) and (b) of section 30111 of title 49, United States Code; and
+
+&emsp;&emsp;"(B) if the Secretary determines that a motor vehicle safety standard described in subparagraph (A) would meet the requirements and considerations described in that subparagraph, initiate a rulemaking to prescribe such a motor vehicle safety standard."
 
 #### Windshield Technology
 
@@ -364,7 +456,7 @@ Roof strength and crush resistance.—The Secretary shall establish improved roo
 
 &emsp;"(2)
 
-Anti-ejection safety countermeasures.—The Secretary shall consider requiring advanced glazing standards for each motorcoach portal and shall consider other portal improvements to prevent partial and complete ejection of motorcoach passengers, including children. In prescribing such standards, the Secretary shall consider the impact of such standardson the use of motorcoach portals as a means of emergency egress.
+Anti-ejection safety countermeasures.—The Secretary shall consider requiring advanced glazing standards for each motorcoach portal and shall consider other portal improvements to prevent partial and complete ejection of motorcoach passengers, including children. In prescribing such standards, the Secretary shall consider the impact of such standards on the use of motorcoach portals as a means of emergency egress.
 
 &emsp;"(3)
 
@@ -704,7 +796,7 @@ Pub. L. 106–159, title I, §101(f), Dec. 9, 1999, 113 Stat. 1752, provided tha
 
 #### Certain Exemptions
 
-Pub. L. 106–159, title II, §229, as added and amended by Pub. L. 109–59, title IV, §§4115(a), (c), 4130–4132, 4147, Aug. 10, 2005, 119 Stat. 1726, 1743, 1744, 1749; Pub. L. 110–244, title III, §301(i), June 6, 2008, 122 Stat. 1616; Pub. L. 112–141, div. C, title II, §32101(d), July 6, 2012, 126 Stat. 778; Pub. L. 114–94, div. A, title V, §§5508(c), 5522, Dec. 4, 2015, 129 Stat. 1554, 1559, provided that:
+Pub. L. 106–159, title II, §229, as added and amended by Pub. L. 109–59, title IV, §§4115(a), (c), 4130–4132, 4147, Aug. 10, 2005, 119 Stat. 1726, 1743, 1744, 1749; Pub. L. 110–244, title III, §301(i), June 6, 2008, 122 Stat. 1616; Pub. L. 112–141, div. C, title II, §32101(d), July 6, 2012, 126 Stat. 778; Pub. L. 114–94, div. A, title V, §§5508(c), 5522, Dec. 4, 2015, 129 Stat. 1554, 1559; Pub. L. 117–58, div. B, title III, §23018, Nov. 15, 2021, 135 Stat. 777, provided that:
 
 "(a)
 
@@ -716,9 +808,11 @@ Transportation of agricultural commodities and farm supplies.—Regulations pres
 
 &emsp;&emsp;"(A) drivers transporting agricultural commodities from the source of the agricultural commodities to a location within a 150 air-mile radius from the source;
 
-&emsp;&emsp;"(B) drivers transporting farm supplies for agricultural purposes from a wholesale or retail distribution point of the farm supplies to a farm or other location where the farm supplies are intended to be used within a 150 air-mile radius from the distribution point; or
+&emsp;&emsp;"(B) drivers transporting farm supplies for agricultural purposes from a wholesale or retail distribution point of the farm supplies to a farm or other location where the farm supplies are intended to be used within a 150 air-mile radius from the distribution point;
 
-&emsp;&emsp;"(C) drivers transporting farm supplies for agricultural purposes from a wholesale distribution point of the farm supplies to a retail distribution point of the farm supplies within a 150 air-mile radius from the wholesale distribution point.
+&emsp;&emsp;"(C) drivers transporting farm supplies for agricultural purposes from a wholesale distribution point of the farm supplies to a retail distribution point of the farm supplies within a 150 air-mile radius from the wholesale distribution point; or
+
+&emsp;&emsp;"(D) drivers transporting livestock (as defined in section 602 of the Emergency Livestock Feed Assistance Act of 1988 (7 U.S.C. 1471) including insects) within a 150 air-mile radius from the final destination of the livestock.
 
 &emsp;"(2)
 
@@ -766,7 +860,7 @@ or 8 consecutive days.—The term '7 or 8 consecutive days' means the period of 
 
 &emsp;"(2) 24-
 
-hour period.—The term '24-hour period' means any 24 consecutive hour period beginning at the time designated by the motor carrier for the terminal from which the driver is normally dispatched.
+hour period.—The term '24-hour period' means any 24 consecutive hour period beginning atthe time designated by the motor carrier for the terminal from which the driver is normally dispatched.
 
 &emsp;"(3)
 
@@ -816,7 +910,7 @@ Pub. L. 105–178, title IV, §4007(d), June 9, 1998, 112 Stat. 404, provided th
 
 #### Application of Regulations to Certain Commercial Motor Vehicles
 
-Pub. L. 105–178, title IV, §4008(b), June 9, 1998, 112 Stat. 404, provided that: "Effective on the last day ofthe 1-year period beginning on the date of enactment of this Act \[June 9, 1998\], regulations prescribed under section 31136 of title 49, United States Code, shall apply to operators of commercial motor vehicles described in section 31132(1)(B) of such title (as amended by subsection (a)) to the extent that those regulations did not apply to those operators on the day before such effective date, except to the extent that the Secretary determines, through a rulemaking proceeding, that it is appropriate to exempt such operators of commercial motor vehicles from the application of those regulations."
+Pub. L. 105–178, title IV, §4008(b), June 9, 1998, 112 Stat. 404, provided that: "Effective on the last day of the 1-year period beginning on the date of enactment of this Act \[June 9, 1998\], regulations prescribed under section 31136 of title 49, United States Code, shall apply to operators of commercial motor vehicles described in section 31132(1)(B) of such title (as amended by subsection (a)) to the extent that those regulations did not apply to those operators on the day before such effective date, except to the extent that the Secretary determines, through a rulemaking proceeding, that it is appropriate to exempt such operators of commercial motor vehicles from the application of those regulations."
 
 #### Improved Interstate School Bus Safety
 
@@ -836,7 +930,7 @@ Rulemaking.—The Federal Highway Administration shall issue a notice of propose
 
 #### Exemptions From Requirements Relating to Commercial Motor Vehicles and Their Operators
 
-Pub. L. 104–59, title III, §345, Nov. 28, 1995, 109 Stat. 613, which related to exemption from certain regulatory or statutory requirements for transportation of agricultural commodities and farm supplies, transportation and operation of ground water well drilling rigs, transportation of construction materials and equipment, utility service vehicles, and vehicles operated for snow or ice removal, was repealed by Pub. L. 109–59, title IV, §4115(d), Aug. 10, 2005, 119 Stat. 1726. The text of former section 345 of Pub. L. 104–59 was inserted as part of section 229 of Pub. L. 106–159, as added by section 4115(a) of Pub. L. 109–59, and is set out above.
+Pub. L. 104–59, title III, §345, Nov. 28, 1995, 109 Stat. 613, which related to exemption from certain regulatory or statutory requirements for transportation ofagricultural commodities and farm supplies, transportation and operation of ground water well drilling rigs, transportation of construction materials and equipment, utility service vehicles, and vehicles operated for snow or ice removal, was repealed by Pub. L. 109–59, title IV, §4115(d), Aug. 10, 2005, 119 Stat. 1726. The text of former section 345 of Pub. L. 104–59 was inserted as part of section 229 of Pub. L. 106–159, as added by section 4115(a) of Pub. L. 109–59, and is set out above.
 
 #### Winter Home Heating Oil Delivery State Flexibility Program
 

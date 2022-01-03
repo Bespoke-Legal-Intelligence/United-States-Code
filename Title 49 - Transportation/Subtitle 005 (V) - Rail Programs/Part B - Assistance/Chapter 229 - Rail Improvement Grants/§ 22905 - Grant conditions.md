@@ -72,7 +72,7 @@ Grant Conditions.—The Secretary shall require as a condition of making any gra
 
 &emsp;&emsp;(A) the standards of section 24312 of this title, as such section was in effect on September 1, 2003, with respect to the project in the same manner that Amtrak is required to comply with those standards for construction work financed under an agreement made under section 24308(a) of this title; and
 
-&emsp;&emsp;(B) the protective arrangements that are equivalent to the protective arrangements established under section 504 of the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 836) with respect to employees affected by actions taken in connection with the project to be financed in whole or in part by grants under this chapter.
+&emsp;&emsp;(B) the protective arrangements that are equivalent to the protective arrangements established under section 22404 with respect to employees affected by actions taken in connection with the project to be financed in whole or in part by grants under this chapter.
 
 (d)
 
@@ -82,7 +82,7 @@ Replacement of Existing Intercity Passenger Rail Service.—
 
 Collective bargaining agreement for intercity passenger rail projects.—Any entity providing intercity passenger railroad transportation that begins operations after the date of enactment of this Act <sup>1</sup> on a project funded in whole or in part by grants made under this chapter and replaces intercity rail passenger service that was provided by Amtrak, unless such service was provided solely by Amtrak to another entity or unless Amtrak ceased providing intercity passenger railroad transportation over the affected route more than 3 years before the commencement of new service, as of such date shall enter into an agreement with the authorized bargaining agent or agents for adversely affected employees of the predecessor provider that—
 
-&emsp;&emsp;(A) gives each such qualified employee of the predecessor provider priority in hiring according to the employee's seniority on thepredecessor provider for each position with the replacing entity that is in the employee's craft or class and is available within 3 years after the termination of the service being replaced;
+&emsp;&emsp;(A) gives each such qualified employee of the predecessor provider priority in hiring according to the employee's seniority on the predecessor provider for each position with the replacing entity that is in the employee's craft or class and is available within 3 years after the termination of the service being replaced;
 
 &emsp;&emsp;(B) establishes a procedure for notifying such an employee of such positions;
 
@@ -96,7 +96,7 @@ Immediate replacement service.—
 
 &emsp;&emsp;(A)
 
-Negotiations.—If the replacement of preexisting intercity rail passenger service occurs concurrent with or within a reasonable time before the commencement of the replacing entity's rail passenger service, the replacing entity shall give written notice of its plan to replace existing rail passenger service to the authorized collective bargaining agent or agents for the potentially adversely affected employees of the predecessor provider at least 90 days before the date on which it plans to commence service. Within 5 days after the date of receipt of such written notice, negotiations between the replacing entity and the collective bargaining agent or agents for the employees of the predecessor provider shall commence for the purpose of reaching agreement with respect to all matters set forth in subparagraphs (A) through (D) of paragraph (1). The negotiations shall continue for 30 days or until an agreement is reached, whichever is sooner. If at the end of 30 days the parties have not entered into an agreement with respect to all such matters, the unresolved issues shall be submitted for arbitration in accordance with the procedure set forth in subparagraph (B).
+Negotiations.—If the replacement of preexisting intercity rail passenger service occurs concurrent with or within a reasonable time before the commencement of the replacing entity's rail passenger service, thereplacing entity shall give written notice of its plan to replace existing rail passenger service to the authorized collective bargaining agent or agents for the potentially adversely affected employees of the predecessor provider at least 90 days before the date on which it plans to commence service. Within 5 days after the date of receipt of such written notice, negotiations between the replacing entity and the collective bargaining agent or agents for the employees of the predecessor provider shall commence for the purpose of reaching agreement with respect to all matters set forth in subparagraphs (A) through (D) of paragraph (1). The negotiations shall continue for 30 days or until an agreement is reached, whichever is sooner. If at the end of 30 days the parties have not entered into an agreement with respect to all such matters, the unresolved issues shall be submitted for arbitration in accordance with the procedure set forth in subparagraph (B).
 
 &emsp;&emsp;(B)
 
@@ -124,7 +124,9 @@ Inapplicability to Certain Rail Operations.—Nothing in this section applies to
 
 Limitation.—No grants shall be provided under this chapter for commuter rail passenger transportation (as defined in section 24102(3)).
 
-(Added Pub. L. 110–432, div. B, title III, §301(a), Oct. 16, 2008, 122 Stat. 4942, §24405; amended Pub. L. 114–94, div. A, title XI, §11303(b)(1)(D), Dec. 4, 2015, 129 Stat. 1654; renumbered §22905 and amended Pub. L. 115–420, §7(a)(1), (b)(1)(B), (2)(C), Jan. 3, 2019, 132 Stat. 5445, 5446.)
+(Added Pub. L. 110–432, div. B, title III, §301(a), Oct. 16, 2008, 122 Stat. 4942, §24405; amended Pub. L. 114–94, div. A, title XI, §11303(b)(1)(D), Dec. 4, 2015, 129 Stat. 1654; renumbered §22905 and amended Pub. L. 115–420, §7(a)(1), (b)(1)(B), (2)(C), Jan. 3, 2019, 132 Stat. 5445, 5446; Pub. L. 117–58, div. B, title I, §21301(j)(4)(D), Nov. 15, 2021, 135 Stat. 693.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -138,6 +140,8 @@ The date of enactment of this Act, referred to in subsec. (d)(1), probably means
 
 #### Amendments
 
+<b>2021</b>—Subsec. (c)(2)(B). Pub. L. 117–58 substituted "section 22404" for "section 504 of the Railroad Revitalization and Regulatory Reform Act of 1976 (45 U.S.C. 836)".
+
 <b>2019</b>—Pub. L. 115–420, §7(a)(1), renumbered section 24405 of this title as this section.
 
 Subsec. (e)(1). Pub. L. 115–420, §7(b)(1)(B), (2)(C), substituted "section 24102) operations of a State or local governmental authority (as those terms are defined in section 5302)" for "section 24102(4) of this title) operations of a State or local government authority (as those terms are defined in section 5302(11) and (6), respectively, of this title)".
@@ -149,6 +153,8 @@ Subsec. (c)(2)(B). Pub. L. 114–94, §11303(b)(1)(D)(ii), substituted "protecti
 Subsec. (d)(1). Pub. L. 114–94, §11303(b)(1)(D)(iii), in introductory provisions, inserted "or unless Amtrak ceased providing intercity passenger railroad transportation over the affected route more than 3 years before the commencement of new service" after "unless such service was provided solely by Amtrak to another entity".
 
 Subsec. (f). Pub. L. 114–94, §11303(b)(1)(D)(iv), substituted "under this chapter for commuter rail passenger transportation (as defined in section 24102(3))." for "under this chapter for commuter rail passenger transportation, as defined in section 24102(4) of this title."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

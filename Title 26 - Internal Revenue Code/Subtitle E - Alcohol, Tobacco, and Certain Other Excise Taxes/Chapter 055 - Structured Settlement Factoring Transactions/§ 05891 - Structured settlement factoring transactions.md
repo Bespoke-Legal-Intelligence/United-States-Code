@@ -98,7 +98,7 @@ For purposes of this section—
 
 #### (5) Responsible administrative authority
 
-&emsp;The term "responsible administrative authority" means the administrative authoritywhich had jurisdiction over the underlying action or proceeding which was resolved by means of the structured settlement.
+&emsp;The term "responsible administrative authority" means the administrative authority which had jurisdiction over the underlying action or proceeding which was resolved by means of the structured settlement.
 
 #### (6) State
 
@@ -115,6 +115,8 @@ For purposes of this section—
 &emsp;The provisions of section 3405 regarding withholding of tax shall not apply to the person making the payments in the event of a structured settlement factoring transaction.
 
 (Added Pub. L. 107–134, title I, §115(a), Jan. 23, 2002, 115 Stat. 2436.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

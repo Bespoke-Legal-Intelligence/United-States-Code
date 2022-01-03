@@ -16,7 +16,7 @@ In providing for the effective management of this project, the Secretary of Ener
 
 &emsp;(2) determine optimum overall electric and hybrid vehicle design;
 
-&emsp;(3) conduct demonstration projects with respect to the feasibility of commercial electricand hybrid vehicles (A) by contracting for the purchase or lease of electric and hybrid vehicles for practical use, and (B) by entering into arrangements, with other governmental entities and with nongovernmental entities, for the operation of such vehicles;
+&emsp;(3) conduct demonstration projects with respect to the feasibility of commercial electric and hybrid vehicles (A) by contracting for the purchase or lease of electric and hybrid vehicles for practical use, and (B) by entering into arrangements, with other governmental entities and with nongovernmental entities, for the operation of such vehicles;
 
 &emsp;(4) ascertain consumer needs and desires so as to match the design of electric and hybrid vehicles to their potential market; and
 
@@ -24,9 +24,13 @@ In providing for the effective management of this project, the Secretary of Ener
 
 (Pub. L. 94–413, §4, Sept. 17, 1976, 90 Stat. 1262; Pub. L. 95–91, title III, §301(a), Aug. 4, 1977, 91 Stat. 577.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 2513 of this title, referred to in subsec. (c)(5), was repealed by Pub. L. 104–66, title I, §1051(o), Dec. 21, 1995, 109 Stat. 717.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

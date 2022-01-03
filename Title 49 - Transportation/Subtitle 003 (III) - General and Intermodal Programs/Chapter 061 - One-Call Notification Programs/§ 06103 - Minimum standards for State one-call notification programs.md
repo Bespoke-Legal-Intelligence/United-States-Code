@@ -52,6 +52,8 @@ Penalties.—To the extent the State determines appropriate and necessary to ach
 
 (Added Pub. L. 105–178, title VII, §7302(a), June 9, 1998, 112 Stat. 479; amended Pub. L. 107–355, §2(a), Dec. 17, 2002, 116 Stat. 2985; Pub. L. 112–90, §3(a), Jan. 3, 2012, 125 Stat. 1906.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Subsec. (a). Pub. L. 112–90, §3(a), amended subsec. (a) generally. Prior to amendment, text read as follows: "In order to qualify for a grant under section 6106, a State one-call notification program shall, at a minimum, provide for—
@@ -67,6 +69,8 @@ Penalties.—To the extent the State determines appropriate and necessary to ach
 Subsec. (a)(2). Pub. L. 107–355, §2(a)(1)(B), inserted ", including all government and contract excavators" before semicolon.
 
 Subsec. (c). Pub. L. 107–355, §2(a)(2), substituted "provide for and document" for "provide for" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

@@ -18,6 +18,8 @@ Historical and Revision Notes
 
 June 4, 1920, ch. 228 (1st par., 186th through 243d words, of amended 3d and 4th provisos), 41 Stat. 813; June 30, 1938, ch. 851, §1, 52 Stat. 1252; June 17, 1944, ch. 262, 58 Stat. 280.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 8723 was renumbered section 9263 of this title.
@@ -31,6 +33,8 @@ Pub. L. 115–232, §807(d)(5), renumbered section 7423 of this title as this se
 <b>1976</b>—Pub. L. 94–258 struck out "of the Navy" after "Secretary" and "or products" after "petroleum".
 
 <b>1962</b>—Pub. L. 87–796 directed the Secretary to reexamine, from time to time, the need for production of products from oil shale.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

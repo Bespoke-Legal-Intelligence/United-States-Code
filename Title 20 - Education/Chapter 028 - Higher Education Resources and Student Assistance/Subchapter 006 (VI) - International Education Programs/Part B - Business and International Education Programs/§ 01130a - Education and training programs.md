@@ -42,6 +42,8 @@ The Federal share under this part for each fiscal year shall not exceed 50 perce
 
 (Pub. L. 89–329, title VI, §613, formerly §612, as added Pub. L. 96–374, title VI, §601(a), Oct. 3, 1980, 94 Stat. 1468; amended Pub. L. 99–498, title VI, §611, Oct. 17, 1986, 100 Stat. 1519; renumbered §613 and amended Pub. L. 100–418, title VI, §§6261(1), 6263, Aug. 23, 1988, 102 Stat. 1520, 1523; Pub. L. 102–325, title VI, §601, July 23, 1992, 106 Stat. 732; Pub. L. 110–315, title VI, §611(b), Aug. 14, 2008, 122 Stat. 3339.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 613 of Pub. L. 89–329 was renumbered section 614 and is classified to section 1130b of this title.
@@ -50,11 +52,13 @@ A prior section 613 of Pub. L. 89–329 was renumbered section 614 and is classi
 
 <b>2008</b>—Subsec. (c). Pub. L. 110–315 inserted at end "Each such application shall include an assurance that, where applicable, the activities funded by the grant will reflect diverse perspectives and a wide range of views on world regions and international affairs."
 
-<b>1992</b>—Pub. L. 102–325 amended section generally, adding provisions relating to establishment of linkages overseas with institutions of higher education and organizations that contribute to educational objectives of this section and relating to summer institutes ininternational business, foreign area and other international studies designed to carry out purposes of this section.
+<b>1992</b>—Pub. L. 102–325 amended section generally, adding provisions relating to establishment of linkages overseas with institutions of higher education and organizations that contribute to educational objectives of this section and relating to summer institutes in international business, foreign area and other international studies designed to carry out purposes of this section.
 
 <b>1988</b>—Subsecs. (a), (c), (d). Pub. L. 100–418 substituted "section" for "part" wherever appearing.
 
 <b>1986</b>—Subsec. (b)(10). Pub. L. 99–498 added par. (10).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

@@ -88,6 +88,8 @@ The Secretary shall designate a State or unit of general local government to be 
 
 (Pub. L. 101–625, title II, §216, Nov. 28, 1990, 104 Stat. 4103; Pub. L. 102–550, title II, §202(a), Oct. 28, 1992, 106 Stat. 3751.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Par. (3)(A). Pub. L. 102–550, §202(a)(1), substituted "Except as provided in paragraph (10), a jurisdiction" for "A jurisdiction".
@@ -95,6 +97,8 @@ The Secretary shall designate a State or unit of general local government to be 
 Par. (9)(B). Pub. L. 102–550, §202(a)(2), inserted ", except as provided in paragraph (10)" after "in any 1 year".
 
 Par. (10). Pub. L. 102–550, §202(a)(3), added par. (10).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

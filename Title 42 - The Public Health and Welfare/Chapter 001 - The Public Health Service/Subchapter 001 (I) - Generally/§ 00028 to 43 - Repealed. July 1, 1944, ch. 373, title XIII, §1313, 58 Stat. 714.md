@@ -34,7 +34,9 @@ Section 41, act Apr. 9, 1930, ch. 125, §7, 46 Stat. 151, provided for appointme
 
 Section 42, act Apr. 9, 1930, ch. 125, §12, 46 Stat. 152, provided for medical and hospital services to officers disabled by sickness or injury. See sections 213 and 248 of this title.
 
-Section 43, act Mar. 3, 1919, ch. 98, §3, 40 Stat. 1303, related to transfer of property and equipment to Service.Act Mar. 4, 1921, ch. 156, 41 Stat. 1365, formerly cited to section 43, was repealed by act Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641.
+Section 43, act Mar. 3, 1919, ch. 98, §3, 40 Stat. 1303, related to transfer of property and equipment to Service. Act Mar. 4, 1921, ch. 156, 41 Stat. 1365, formerly cited to section 43, was repealed by act Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Renumbering and Repeal of Repealing Act
 

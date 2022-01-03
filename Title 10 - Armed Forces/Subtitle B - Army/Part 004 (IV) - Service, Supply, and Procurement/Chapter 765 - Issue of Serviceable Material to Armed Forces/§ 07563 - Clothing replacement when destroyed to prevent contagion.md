@@ -20,9 +20,13 @@ R.S. 1298.
 
 The words "enlisted member" are substituted for the word "soldiers". The words "any articles of their" are omitted as surplusage. The words "while he had that disease" are inserted for clarity. The words "an officer of the Medical Corps" are substituted for the words "proper medical officers".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4563 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

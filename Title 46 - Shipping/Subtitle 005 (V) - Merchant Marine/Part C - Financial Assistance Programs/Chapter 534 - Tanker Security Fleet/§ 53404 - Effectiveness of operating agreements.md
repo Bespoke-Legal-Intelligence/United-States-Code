@@ -6,7 +6,7 @@ In General.—Subject to the availability of appropriations for such purpose, th
 
 (b)
 
-Vessels Under Charter to the United States.—The program participant of a vessel under charter to the United States is eligible to receive payments pursuant to any operating agreement that covers such vessel.
+Vessels Under Charter to the United States.—Any vessel under long term charter to the United States is not eligible to participate in the Fleet.
 
 (c)
 
@@ -26,7 +26,7 @@ Termination by program participant.—If a program participant provides notice o
 
 (d)
 
-Nonrenewal for Lack of Funds.—If, by the first day of a fiscal year, sufficient fundshave not been appropriated under the authority provided by this chapter for that fiscal year, then the Secretary shall notify the Committee on Armed Services and the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Armed Services and the Committee on Transportation and Infrastructure of the House of Representatives that operating agreements authorized under this chapter for which sufficient funds are not available will not be renewed for that fiscal year if sufficient funds are not appropriated by the 60th day of that fiscal year.
+Nonrenewal for Lack of Funds.—If, by the first day of a fiscal year, sufficient funds have not been appropriated under the authorityprovided by this chapter for that fiscal year, then the Secretary shall notify the Committee on Armed Services and the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Armed Services and the Committee on Transportation and Infrastructure of the House of Representatives that operating agreements authorized under this chapter for which sufficient funds are not available will not be renewed for that fiscal year if sufficient funds are not appropriated by the 60th day of that fiscal year.
 
 (e)
 
@@ -38,11 +38,11 @@ Release of Vessels From Obligations.—If funds are not appropriated for payment
 
 &emsp;(3) if chapter 563 of this title is applicable to the vessel after registration, then the vessel is available to be requisitioned by the Secretary pursuant to chapter 563 of this title.
 
-(Added Pub. L. 116–283, div. C, title XXXV, §3511(a), Jan. 1, 2021, 134 Stat. 4413.)
+(Added Pub. L. 116–283, div. C, title XXXV, §3511(a), Jan. 1, 2021, 134 Stat. 4413; amended Pub. L. 117–81, div. C, title XXXV, §3515(b), Dec. 27, 2021, 135 Stat. 2243.)
 
-#### <b>Statutory Notes and Related Subsidiaries</b>
+#### <b>Editorial Notes</b>
 
-#### Effective Date
+#### Amendments
 
-Section effective upon completion and submission to Congress of report on United States-flagged fuel tanker vessel capacity and upon publication of certification related to program for United States-flagged fuel tanker vessels, see section 3511(d) of Pub. L. 116–283, set out as a note under section 53401 of this title.
+<b>2021</b>—Subsec. (b). Pub. L. 117–81 substituted "Any" for "The program participant of a", inserted "long term" before "charter" and "not" before "eligible", and substituted "participate in the Fleet" for "receive payments pursuant to any operating agreement that covers such vessel".
 

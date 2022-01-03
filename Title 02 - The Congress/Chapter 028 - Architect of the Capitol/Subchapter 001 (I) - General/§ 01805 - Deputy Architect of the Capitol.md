@@ -6,7 +6,7 @@ The Architect of the Capitol shall appoint a suitable individual to be the Deput
 
 #### (b) Compensation
 
-The Deputy Architect of the Capitol shall be paid at an annual rate of pay to be determinedby the Architect but not to exceed $1,500 less than the annual rate of pay for the Architect of the Capitol.
+The Deputy Architect of the Capitol shall be paid at an annual rate of pay to be determined by the Architect but not to exceed $1,500 less than the annual rate of pay for the Architect of the Capitol.
 
 (Pub. L. 108–7, div. H, title I, §1203, Feb. 20, 2003, 117 Stat. 373; Pub. L. 108–11, title II, §2601(a), Apr. 16, 2003, 117 Stat. 599; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–316, §1(b), Dec. 18, 2010, 124 Stat. 3452; Pub. L. 116–260, div. O, title VII, §701(b), Dec. 27, 2020, 134 Stat. 2154.)
 

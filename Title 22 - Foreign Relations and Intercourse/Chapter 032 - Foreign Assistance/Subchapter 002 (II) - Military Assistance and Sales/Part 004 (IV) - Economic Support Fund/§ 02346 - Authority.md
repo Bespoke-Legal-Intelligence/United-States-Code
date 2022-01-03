@@ -54,7 +54,7 @@ Pub. L. 107–228, div. B, title XII, §1224, Sept. 30, 2002, 116 Stat. 1432, pr
 
 "(a)
 
-Prohibition.—Notwithstanding any other provision of law, $10,000,000 of the amounts made available for fiscal year 2003 or any subsequent fiscal year thatare allocated for assistance to Lebanon under chapter 4 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2346 et seq.; relating to the economic support fund) may not be obligated unless and until the President certifies to the appropriate congressional committees that—
+Prohibition.—Notwithstanding any other provision of law, $10,000,000 of the amounts made available for fiscal year 2003 or any subsequent fiscal year that are allocated for assistance to Lebanon under chapter 4 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2346 et seq.; relating to the economic support fund) may not be obligated unless and until the President certifies to the appropriate congressional committees that—
 
 &emsp;"(1) the armed forces of Lebanon have been deployed to the internationally recognized border between Lebanon and Israel; and
 

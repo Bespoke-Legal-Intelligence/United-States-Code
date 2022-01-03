@@ -6,6 +6,8 @@
 
 (Pub. L. 91–664, §8, Jan. 8, 1971, 84 Stat. 1980; Pub. L. 95–625, title III, §320, Nov. 10, 1978, 92 Stat. 3488.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1978</b>—Subsec. (b). Pub. L. 95–625 substituted "$28,400,000" for "$20,400,000".

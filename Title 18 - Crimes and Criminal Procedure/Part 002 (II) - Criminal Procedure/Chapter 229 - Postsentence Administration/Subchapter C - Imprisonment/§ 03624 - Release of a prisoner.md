@@ -24,7 +24,7 @@ In general.—The Director of the Bureau of Prisons shall, to the extent practic
 
 &emsp;(2)
 
-Home confinement authority.—The authority under this subsection may be used to place a prisoner in home confinement for the shorter of 10 percent of the term of imprisonment of that prisoner or 6 months. The Bureau of Prisons shall, to the extent practicable, place prisoners with lower risk levels andlower needs on home confinement for the maximum amount of time permitted under this paragraph.
+Home confinement authority.—The authority under this subsection may be used to place a prisoner in home confinement for the shorter of 10 percent of the term of imprisonment of that prisoner or 6 months. The Bureau of Prisons shall, to the extent practicable, place prisoners with lower risk levels and lower needs on home confinement for the maximum amount of time permitted under this paragraph.
 
 &emsp;(3)
 
@@ -90,7 +90,7 @@ Prerelease Custody or Supervised Release for Risk and Needs Assessment System Pa
 
 Eligible prisoners.—This subsection applies in the case of a prisoner (as such term is defined in section 3635) who—
 
-&emsp;&emsp;(A) has earned time credits under the risk and needs assessment system developed under subchapter D (referred to in this subsection as the "System") in an amount thatis equal to the remainder of the prisoner's imposed term of imprisonment;
+&emsp;&emsp;(A) has earned time credits under the risk and needs assessment system developed under subchapter D (referred to in this subsection as the "System") in an amount that is equal to the remainder of the prisoner's imposed term of imprisonment;
 
 &emsp;&emsp;(B) has shown through the periodic risk reassessments a demonstrated recidivism risk reduction or has maintained a minimum or low recidivism risk, during the prisoner's term of imprisonment;
 
@@ -192,7 +192,7 @@ Assistance.—United States Probation and Pretrial Services shall, to the greate
 
 &emsp;(9)
 
-Mentoring, reentry, and spiritual services.—Any prerelease custody into which a prisoner is placed under this subsection may not include a condition prohibiting the prisoner from receiving mentoring, reentry, or spiritual services from a person who provided such services to the prisoner while the prisoner was incarcerated, except that the warden of the facility at which the prisoner was incarcerated may waive the requirement under this paragraph if the warden finds that the provision of such services would pose a significant security risk to the prisoner, persons who provide such services, or any other person. The warden shall provide written notice of any such waiver to the person providing such services and to the prisoner.
+Mentoring, reentry, and spiritual services.—Any prerelease custody into which a prisoner is placed under this subsection may not include a condition prohibiting the prisoner from receiving mentoring, reentry, or spiritual services from a person who provided such services to the prisoner while the prisoner was incarcerated, except that the warden of the facility at which the prisoner was incarcerated may waive the requirement under this paragraph if the warden finds that the provision of such services would pose a significant security risk to the prisoner, persons who provide such services, or any other person. The warden shall provide written notice of anysuch waiver to the person providing such services and to the prisoner.
 
 &emsp;(10)
 

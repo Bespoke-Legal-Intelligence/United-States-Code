@@ -2,7 +2,7 @@
 
 (a) The United States Court of Appeals for the Federal Circuit shall have exclusive jurisdiction—
 
-&emsp;(1) of an appeal from a final decision of a district court of the United States, the District Court of Guam, the District Court of the Virgin Islands, or the District Court of the Northern Mariana Islands, in any civil action arising under, or in any civil action in which a party has asserted a compulsory counterclaimarising under, any Act of Congress relating to patents or plant variety protection;
+&emsp;(1) of an appeal from a final decision of a district court of the United States, the District Court of Guam, the District Court of the Virgin Islands, or the District Court of the Northern Mariana Islands, in any civil action arising under, or in any civil action in which a party has asserted a compulsory counterclaim arising under, any Act of Congress relating to patents or plant variety protection;
 
 &emsp;(2) of an appeal from a final decision of a district court of the United States, the United States District Court for the District of the Canal Zone, the District Court of Guam, the District Court of the Virgin Islands, or the District Court for the Northern Mariana Islands, if the jurisdiction of that court was based, in whole or in part, on section 1346 of this title, except that jurisdiction of an appeal in a case brought in a district court under section 1346(a)(1), 1346(b), 1346(e), or 1346(f) of this title or under section 1346(a)(2) when the claim is founded upon an Act of Congress or a regulation of an executive department providing for internal revenue shall be governed by sections 1291, 1292, and 1294 of this title;
 
@@ -40,7 +40,7 @@
 
 (c) The Court of Appeals for the Federal Circuit shall review the matter referred in accordance with the standards specified in section 7107(b) of title 41. The court shall proceed with judicial review on the administrative record made before the board of contract appeals on matters so referred as in other cases pending in such court, shall determine the issue of finality of the appeal decision, and shall, if appropriate, render judgment thereon, or remand the matter to any administrative or executive body or official with such direction as it may deem proper and just.
 
-(Added Pub. L. 97–164, title I, §127(a), Apr. 2, 1982, 96 Stat. 37; amended Pub. L. 98–622, title II, §205(a), Nov. 8, 1984, 98 Stat. 3388; Pub. L. 100–418, title I, §1214(a)(3), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 100–702, title X, §1020(a)(3), Nov. 19, 1988, 102 Stat. 4671; Pub. L. 102–572, title I, §102(c), title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4507, 4516; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4402(b)(2), 4732(b)(14)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–560, 1501A–584; Pub. L. 111–350, §5(g)(5), Jan. 4, 2011, 124 Stat. 3848; Pub. L. 112–29, §§7(c)(2), 19(b), Sept. 16, 2011, 125 Stat. 314, 331.)
+(Added Pub. L. 97–164, title I, §127(a), Apr. 2, 1982, 96 Stat. 37; amended Pub. L. 98–622, title II, §205(a), Nov. 8, 1984, 98 Stat. 3388; Pub. L. 100–418, title I, §1214(a)(3), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 100–702, title X, §1020(a)(3), Nov. 19, 1988, 102 Stat. 4671; Pub. L. 102–572, title I, §102(c),title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4507, 4516; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4402(b)(2), 4732(b)(14)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–560, 1501A–584; Pub. L. 111–350, §5(g)(5), Jan. 4, 2011, 124 Stat. 3848; Pub. L. 112–29, §§7(c)(2), 19(b), Sept. 16, 2011, 125 Stat. 314, 331.)
 
 #### <b>Editorial Notes</b>
 
@@ -134,5 +134,5 @@ Pending Cases.—(1) Any appeal which, before the effective date of abolition de
 
 #### Termination of United States District Court for the District of the Canal Zone
 
-For termination of the United States District Court for the District of the Canal Zone at end of the "transition period", being the 30-month period beginning Oct.1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
+For termination of the United States District Court for the District of the Canal Zone at end of the "transition period", being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 

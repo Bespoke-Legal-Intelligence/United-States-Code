@@ -18,6 +18,8 @@ The requests and specifications referred to in subsection (a) are, respectively�
 
 (Pub. L. 104–43, title II, §203, Nov. 3, 1995, 109 Stat. 378; Pub. L. 114–327, title V, §503, Dec. 16, 2016, 130 Stat. 1995.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Subsec. (a). Pub. L. 114–327, §503(1), in introductory provisions, substituted "A Representative may" for "The Representatives may", "described in paragraph (1) or (2) of subsection (b)" for "described in subsection (b)(1) or (2)", and "the Representative has" for "the Representatives have".

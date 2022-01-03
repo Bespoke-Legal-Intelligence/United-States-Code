@@ -6,7 +6,7 @@ Three or more individuals (hereinafter in this chapter referred to as "incorpora
 
 #### (b) Articles of incorporation
 
-The incorporators may adopt articles of incorporation which shall be filed with the Secretary at his office in the District of Columbia and may thereupon make application to the Secretary for a certificate of incorporation in such manner and form as shall be by regulation prescribed. The articles of incorporation shall state—
+The incorporators may adopt articles of incorporation which shall be filed with the Secretary at his office in the District of Columbia and may thereupon make application to the Secretary fora certificate of incorporation in such manner and form as shall be by regulation prescribed. The articles of incorporation shall state—
 
 &emsp;(1) The name of the proposed China Trade Act corporation, which shall end with the legend, "Federal Inc. U.S.A.", and which shall not, in the opinion of the Secretary, be likely in any manner to mislead the public;
 
@@ -24,13 +24,15 @@ The incorporators may adopt articles of incorporation which shall be filed with 
 
 #### (c) Prohibited transactions
 
-A China Trade Act corporation shall not engage in the business of discounting bills, notes, or other evidences of debt, of receiving deposits, of buying and selling bills of exchange, or of issuing bills, notes, or other evidences of debt, for circulation as money; nor engage in anyother form of banking business; nor engage in any form of insurance business; nor engage in, nor be formed to engage in, the business of owning or operating any vessel, unless the controlling interest in such corporation is owned by citizens of the United States, within the meaning of section 50501 of title 46.
+A China Trade Act corporation shall not engage in the business of discounting bills, notes, or other evidences of debt, of receiving deposits, of buying and selling bills of exchange, or of issuing bills, notes, or other evidences of debt, for circulation as money; nor engage in any other form of banking business; nor engage in any form of insurance business; nor engage in, nor be formed to engage in, the business of owning or operating any vessel, unless the controlling interest in such corporation is owned by citizens of the United States, within the meaning of section 50501 of title 46.
 
 #### (d) Capital stock requirements
 
 No certificate of incorporation shall be delivered to a China Trade Act corporation and no incorporation shall be complete until at least 25 per centum of its authorized capital stock has been paid in cash, or, in accordance with the provisions of section 148 of this title, in real or personal property which has been placed in the custody of the directors, and such corporation has filed a statement to this effect under oath with the registrar within six months after the issuance of its certificate of incorporation, except that the registrar may grant additional time for the filing of such statement upon application made prior to the expiration of such six months. If any such corporation transacts business in violation of this subdivision of this section or fails to file such statement within six months, or within such time as the registrar prescribes upon such application, the registrar shall institute proceedings under section 154 of this title for the revocation of the certificate.
 
 (Sept. 19, 1922, ch. 346, §4, 42 Stat. 850; Feb. 26, 1925, ch. 345, §§1–5, 43 Stat. 995; June 25, 1938, ch. 696, §1, 52 Stat. 1195.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -41,6 +43,8 @@ In subsec. (c), "section 50501 of title 46" substituted for "section 2 of the Sh
 <b>1938</b>—Subsec. (b)(5). Act June 25, 1938, amended par. (5) generally.
 
 <b>1925</b>—Act Feb. 26, 1925 amended subsecs. (a), (b)(6), (7), and (c), and added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1938 Amendment
 

@@ -12,7 +12,7 @@ The Secretary shall negotiate and enter into a written funding agreement with ea
 
 #### (2) Inclusion of certain programs, services, functions, and activities
 
-&emsp;Such programs, services, functions, or activities (or portions thereof) include all programs, services, functions, activities (or portions thereof), including grants (which may be added to a funding agreement after an award of such grants), with respect to which Indian tribes or Indians are primary or significant beneficiaries, administered by the Department of Health and Human Services through the Indian Health Service and all local, field, service unit, area, regional, and central headquarters or national office functions so administered under the authority of—
+&emsp;Such programs, services, functions, or activities (or portions thereof) include all programs, services, functions, activities (or portions thereof), including grants (which may be added to a funding agreement after an award of such grants), with respect to which Indian tribes or Indians are primary or significant beneficiaries, administered by the Departmentof Health and Human Services through the Indian Health Service and all local, field, service unit, area, regional, and central headquarters or national office functions so administered under the authority of—
 
 &emsp;&emsp;(A) section 13 of this title;
 
@@ -52,7 +52,7 @@ Each funding agreement under this subchapter shall set forth—
 
 #### (e) Subsequent funding agreements
 
-Absent notification from an Indian tribe that is withdrawing or retroceding the operation of one or more programs, services, functions, or activities (or portions thereof) identified in a funding agreement, or unless otherwise agreed to by the parties, each funding agreement shall remain in full force and effect until a subsequent funding agreement is executed, and the terms ofthe subsequent funding agreement shall be retroactive to the end of the term of the preceding funding agreement.
+Absent notification from an Indian tribe that is withdrawing or retroceding the operation of one or more programs, services, functions, or activities (or portions thereof) identified in a funding agreement, or unless otherwise agreed to by the parties, each funding agreement shall remain in full force and effect until a subsequent funding agreement is executed, and the terms of the subsequent funding agreement shall be retroactive to the end of the term of the preceding funding agreement.
 
 #### (f) Existing funding agreements
 

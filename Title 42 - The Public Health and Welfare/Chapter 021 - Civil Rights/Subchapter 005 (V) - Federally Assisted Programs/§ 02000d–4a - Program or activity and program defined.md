@@ -24,6 +24,8 @@ For the purposes of this subchapter, the term "program or activity" and the term
 
 (Pub. L. 88–352, title VI, §606, as added Pub. L. 100–259, §6, Mar. 22, 1988, 102 Stat. 31; amended Pub. L. 103–382, title III, §391(q), Oct. 20, 1994, 108 Stat. 4024; Pub. L. 107–110, title X, §1076(y), Jan. 8, 2002, 115 Stat. 2093; Pub. L. 114–95, title IX, §9215(r), Dec. 10, 2015, 129 Stat. 2171.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Par. (2)(B). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to section 7801 of title 20.
@@ -31,6 +33,8 @@ For the purposes of this subchapter, the term "program or activity" and the term
 <b>2002</b>—Par. (2)(B). Pub. L. 107–110 substituted "7801" for "8801".
 
 <b>1994</b>—Par. (2)(B). Pub. L. 103–382 substituted "section 8801 of title 20" for "section 198(a)(10) of the Elementary and Secondary Education Act of 1965".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 
@@ -42,7 +46,7 @@ Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to ce
 
 #### Exclusion From Coverage
 
-This section not to be construed to extend application of Civil Rights Act of 1964 \[42 U.S.C. 2000a et seq.\]to ultimate beneficiaries of Federal financial assistance excluded from coverage before Mar. 22, 1988, see section 7 of Pub. L. 100–259, set out as a Construction note under section 1687 of Title 20, Education.
+This section not to be construed to extend application of Civil Rights Act of 1964 \[42 U.S.C. 2000a et seq.\] to ultimate beneficiaries of Federal financial assistance excluded from coverage before Mar. 22, 1988, see section 7 of Pub. L. 100–259, set out as a Construction note under section 1687 of Title 20, Education.
 
 #### Abortion Neutrality
 

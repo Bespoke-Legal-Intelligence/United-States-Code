@@ -21,6 +21,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232, div. A, title VIII, §808(f)(2), Aug. 13, 2018, 132 Stat. 1839, redesignated items for chapters 331 to 375 as 711 to 749 and redesignated section numbers 3201 to 4061 as 7101 to 7381. Section numbers were conformed to the first section appearing in each chapter after renumbering by Pub. L. 115–232 to reflect the probable intent of Congress.

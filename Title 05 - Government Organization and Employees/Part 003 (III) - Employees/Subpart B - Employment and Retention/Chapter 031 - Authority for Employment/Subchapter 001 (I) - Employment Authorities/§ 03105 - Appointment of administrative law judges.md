@@ -18,7 +18,7 @@ Historical and Revision Notes
 
 June 11, 1946, ch. 324, §11 (1st sentence), 60 Stat. 244.
 
-The words "Subject to the civil service" are omitted as unnecessary inasmuch as appointments are made subject to the civil service laws unless specifically excepted. The words "and other laws not inconsistent with this chapter" are omitted as unnecessary because of the organization of this title.
+The words "Subject to the civil service" are omitted as unnecessary inasmuch as appointments are madesubject to the civil service laws unless specifically excepted. The words "and other laws not inconsistent with this chapter" are omitted as unnecessary because of the organization of this title.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

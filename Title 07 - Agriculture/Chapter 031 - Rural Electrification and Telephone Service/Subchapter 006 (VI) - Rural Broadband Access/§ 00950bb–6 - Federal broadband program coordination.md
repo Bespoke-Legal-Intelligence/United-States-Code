@@ -8,7 +8,7 @@ The Secretary shall consult with the Assistant Secretary to assist in the verifi
 
 #### (1) By USDA
 
-&emsp;The Secretary shall consult with the Commission before providing broadband assistancefor a project to serve an area with respect to which another entity is receiving Connect America Fund or Mobility Fund support under the Federal universal service support mechanisms established under section 254 of title 47.
+&emsp;The Secretary shall consult with the Commission before providing broadband assistance for a project to serve an area with respect to which another entity is receiving Connect America Fund or Mobility Fund support under the Federal universal service support mechanisms established under section 254 of title 47.
 
 #### (2) By FCC
 
@@ -62,9 +62,13 @@ In this section:
 
 (Pub. L. 115–334, title VI, §6212, Dec. 20, 2018, 132 Stat. 4744.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Agriculture Improvement Act of 2018, and not as part of the Rural Electrification Act of 1936 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definition of "Secretary"
 

@@ -8,7 +8,7 @@ After June 30, 1966, no department or agency listed in section 1717(c)(2) of thi
 
 #### Codification
 
-Section was enacted as a part of the Participation Sales Act of 1966, and not as a part of the NationalHousing Act, which comprises this chapter or the Federal National Mortgage Association Charter Act which comprises this subchapter.
+Section was enacted as a part of the Participation Sales Act of 1966, and not as a part of the National Housing Act, which comprises this chapter or the Federal National Mortgage Association Charter Act which comprises this subchapter.
 
 #### Amendments
 

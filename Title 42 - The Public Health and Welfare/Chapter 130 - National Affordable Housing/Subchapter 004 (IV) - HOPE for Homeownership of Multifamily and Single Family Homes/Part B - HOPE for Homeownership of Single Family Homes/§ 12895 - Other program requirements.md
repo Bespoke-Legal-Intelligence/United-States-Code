@@ -60,7 +60,7 @@ No tenant residing in a dwelling unit in a property on the date the Secretary ap
 
 #### (2) Access by Secretary
 
-&emsp;The Secretary shall have access for the purpose of audit and examination to any books,documents, papers, and records of the recipient that are pertinent to assistance received under this part.
+&emsp;The Secretary shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipient that are pertinent to assistance received under this part.
 
 #### (3) Access by Comptroller General
 

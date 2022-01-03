@@ -16,7 +16,7 @@ Regulations.—Before making a delegation under this section, the Secretary shal
 
 (c)
 
-Inspection of Records.—A person delegated authority under this section shall make available to the Secretary for inspection, on request, records the person is required to keep.
+Inspection of Records.—A person delegated authority under this section shall makeavailable to the Secretary for inspection, on request, records the person is required to keep.
 
 (d)
 

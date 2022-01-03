@@ -22,7 +22,7 @@ The Congress finds the following:
 
 &emsp;&emsp;(E) demonstrates management practices and techniques that may be useful to other areas of the public lands and elsewhere.
 
-&emsp;(6) There exists near the conservation area a facility, the World Center for Birds of Prey operated by The Peregrine Fund, Inc., where research, public education, recovery, and reestablishment operations exist for endangeredraptor species. There also exists at Boise State University a raptor study program which attracts national and international graduate and undergraduate students.
+&emsp;(6) There exists near the conservation area a facility, the World Center for Birds of Prey operated by The Peregrine Fund, Inc., where research, public education, recovery, and reestablishment operations exist for endangered raptor species. There also exists at Boise State University a raptor study program which attracts national and international graduate and undergraduate students.
 
 &emsp;(7) The Bureau of Land Management and Boise State University, together with other State, Federal, and private entities, have formed the Raptor Research and Technical Assistance Center to be housed at Boise State University, which provides a unique adjunct to the conservation area for raptor management, recovery, research, and public visitation, interpretation, and education.
 
@@ -37,6 +37,8 @@ The Congress finds the following:
 &emsp;(12) Hydroelectric facilities for the generation and transmission of electricity exist within the Snake River Birds of Prey Area pursuant to a license(s) issued by the Federal Energy Regulatory Commission, or its predecessor, the Federal Power Commission.
 
 (Pub. L. 103–64, §1, Aug. 4, 1993, 107 Stat. 302.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

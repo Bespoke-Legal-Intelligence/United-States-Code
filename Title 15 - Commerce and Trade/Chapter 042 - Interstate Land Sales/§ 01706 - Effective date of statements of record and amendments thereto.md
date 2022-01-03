@@ -26,13 +26,17 @@ Any notice required under this section shall be sent to or served on the develop
 
 (Pub. L. 90–448, title XIV, §1407, Aug. 1, 1968, 82 Stat. 593; Pub. L. 111–203, title X, §1098A(1), July 21, 2010, 124 Stat. 2105.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–203 substituted "Director" for "Secretary" wherever appearing.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L.111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date
 

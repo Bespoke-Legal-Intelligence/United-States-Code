@@ -36,9 +36,13 @@ The Secretary shall by regulation prescribe reasonable procedures for a taxpayer
 
 (Added Pub. L. 100–647, title VI, §6240(a), Nov. 10, 1988, 102 Stat. 3746.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 7432 was renumbered 7437 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

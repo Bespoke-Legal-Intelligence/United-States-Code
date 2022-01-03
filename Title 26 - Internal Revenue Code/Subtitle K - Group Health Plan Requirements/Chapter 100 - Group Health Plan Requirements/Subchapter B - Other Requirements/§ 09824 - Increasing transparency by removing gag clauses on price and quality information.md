@@ -30,9 +30,11 @@
 
 #### (4) Rules of construction
 
-&emsp;Nothing in this section shall be construed to modify or eliminate existing privacy protections and standards under State and Federal law. Nothing in this subsection shall be construed to otherwise limit access by a group health plan or plan sponsor to data as permitted under the privacy regulations promulgated pursuant to section 264(c) of the Health Insurance Portability and Accountability Act of 1996, the amendments made by the Genetic Information Nondiscrimination Act of 2008,and the Americans with Disabilities Act of 1990.
+&emsp;Nothing in this section shall be construed to modify or eliminate existing privacy protections and standards under State and Federal law. Nothing in this subsection shall be construed to otherwise limit access by a group health plan or plan sponsor to data as permitted under the privacy regulations promulgated pursuant to section 264(c) of the Health Insurance Portability and Accountability Act of 1996, the amendments made by the Genetic Information Nondiscrimination Act of 2008, and the Americans with Disabilities Act of 1990.
 
 (Added Pub. L. 116–260, div. BB, title II, §201(c), Dec. 27, 2020, 134 Stat. 2893.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

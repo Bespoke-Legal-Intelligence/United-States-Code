@@ -6,7 +6,7 @@ Establishment of Program.—The Administrator shall establish and promote a Gove
 
 (b)
 
-Issuance of Announcements Seeking Innovative Solutions.—Under the program, the Administrator, in consultation with the Council and the Administrator for Federal Procurement Policy, shall issue announcements seeking unique and innovative solutions to facilitate the development and enhancement of electronic Government services and processes.
+Issuance of Announcements Seeking Innovative Solutions.—Under the program, the Administrator, in consultation with the Council and the Administrator for Federal ProcurementPolicy, shall issue announcements seeking unique and innovative solutions to facilitate the development and enhancement of electronic Government services and processes.
 
 (c)
 

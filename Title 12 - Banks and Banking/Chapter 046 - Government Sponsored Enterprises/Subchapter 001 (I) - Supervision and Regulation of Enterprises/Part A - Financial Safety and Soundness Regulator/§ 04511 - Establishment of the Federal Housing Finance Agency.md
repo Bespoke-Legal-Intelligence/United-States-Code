@@ -16,7 +16,7 @@ There is established the Federal Housing Finance Agency, which shall be an indep
 
 #### (c) Savings provision
 
-The authority of the Director to take actions under subchapters II and III shall not in any way limit the general supervisory and regulatory authority granted to the Director under subsection (b).
+The authority of the Director to take actions under subchapters II and III shall not in anyway limit the general supervisory and regulatory authority granted to the Director under subsection (b).
 
 (Pub. L. 102–550, title XIII, §1311, as added Pub. L. 110–289, div. A, title I, §1101, July 30, 2008, 122 Stat. 2661.)
 
@@ -122,7 +122,7 @@ Disposition of Affairs.—During the 1-year period beginning on the date of enac
 
 "(c)
 
-Status of Employees Before Transfer.—The amendments made by title I \[title I (§§1101–1163) of div. A of Pub. L. 110–289, see Tables for classification\] and the abolishment of the Office of Federal Housing Enterprise Oversight under subsection (a) of this section may not be construed to affect the status of any employee of such Office as an employee of an agency of the United States for purposes of any other provision of law before the effective date of the transfer of any such employee under section 1303.
+Status of Employees Before Transfer.—The amendments made by title I \[title I (§§1101–1163) of div. A of Pub. L. 110–289, see Tables for classification\] and the abolishment of the Office of Federal Housing Enterprise Oversight under subsection (a) of this section may not be construed to affect the status of any employee of such Office as an employee of an agency of the United States for purposes of any other provision oflaw before the effective date of the transfer of any such employee under section 1303.
 
 "(d)
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1) It is the purpose of this subsection to ensure that obligations to repay loans and grantoverpayments are enforced without regard to any Federal or State statutory, regulatory, or administrative limitation on the period within which debts may be enforced.
+(1) It is the purpose of this subsection to ensure that obligations to repay loans and grant overpayments are enforced without regard to any Federal or State statutory, regulatory, or administrative limitation on the period within which debts may be enforced.
 
 (2) Notwithstanding any other provision of statute, regulation, or administrative limitation, no limitation shall terminate the period within which suit may be filed, a judgment may be enforced, or an offset, garnishment, or other action initiated or taken by—
 
@@ -34,6 +34,8 @@ This section shall not apply in the case of a student who is deceased, or to a d
 
 (Pub. L. 89–329, title IV, §484A, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1482; amended Pub. L. 102–26, §3(a), Apr. 9, 1991, 105 Stat. 124; Pub. L. 105–244, title IV, §484, Oct. 7, 1998, 112 Stat. 1737; Pub. L. 110–315, title IV, §486, Aug. 14, 2008, 122 Stat. 3290.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1091a, Pub. L. 89–329, title IV, §484A, as added Pub. L. 99–272, title XVI, §16033, Apr. 7, 1986, 100 Stat. 355, related to statute of limitations, collection costs, and defense of infancy, prior to the general revision of this part by Pub. L. 99–498.
@@ -51,6 +53,8 @@ Subsec. (d). Pub. L. 110–315, §486(2), added subsec. (d).
 Subsec. (c). Pub. L. 105–244, §484(2), added subsec. (c).
 
 <b>1991</b>—Subsec. (a). Pub. L. 102–26 amended subsec. (a) generally, substituting provisions eliminating statute of limitations for student loan collections for provisions establishing six year limitations period for collection of such loans.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

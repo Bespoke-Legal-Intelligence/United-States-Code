@@ -58,6 +58,8 @@ In the case of an electing group, subsections (c)(1) and (d)(3) shall be applied
 
 (Added Pub. L. 108–357, title II, §248(a), Oct. 22, 2004, 118 Stat. 1454; amended Pub. L. 109–135, title IV, §403(g)(3), Dec. 21, 2005, 119 Stat. 2624.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Subsec. (c)(2). Pub. L. 109–135, §403(g)(3)(B), inserted concluding provisions.
@@ -71,6 +73,8 @@ In general.—Such term shall not include any core qualifying activities.
 "(B)
 
 Nonelecting corporations.—In the case of a corporation (other than an electing corporation) which is a member of an electing group, any core qualifying activities of the corporation shall be treated as qualifying secondary activities (and not as core qualifying activities)."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2005 Amendment
 

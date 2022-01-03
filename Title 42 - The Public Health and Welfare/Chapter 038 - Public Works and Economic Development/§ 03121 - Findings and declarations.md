@@ -36,6 +36,8 @@ In order to promote a strong and growing economy throughout the United States, C
 
 (Pub. L. 89–136, §2, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3598; amended Pub. L. 108–373, title I, §101, Oct. 27, 2004, 118 Stat. 1757.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 3121, Pub. L. 89–136, §2, Aug. 26, 1965, 79 Stat. 552; Pub. L. 94–487, title I, §102, Oct. 12, 1976, 90 Stat. 2331, set forth congressional findings and statement of purpose of chapter, prior to repeal by Pub. L. 105–393, §102(a).
@@ -43,6 +45,8 @@ A prior section 3121, Pub. L. 89–136, §2, Aug. 26, 1965, 79 Stat. 552; Pub. L
 #### Amendments
 
 <b>2004</b>—Pub. L. 108–373 reenacted section catchline without change and amended text generally, substituting pars. (1) to (6) for former pars. (1) to (8) in subsec. (a) and pars. (1) to (4) for former pars. (1) to (3) in subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -68,7 +72,7 @@ Pub. L. 94–487, §101, Oct. 12, 1976, 90 Stat. 2331, provided that: "This Act 
 
 #### Short Title of 1975 Amendments
 
-Pub. L. 94–188, §1, Dec. 31, 1975, 89 Stat. 1079, provided: "That this Act \[enacting sections 3194 to 3196 of this title and sections 225 and 303 of the Appendix to former Title 40, Public Buildings, Property, and Works, amending sections 3181, 3182, 3188a and 3192 of this title, and sections 2, 101, 102, 105–107, 201, 202, 205, 207, 211, 214, 223, 224, 302, 401 and 405 of the Appendix to former Title 40, repealing section 3134 of this title, and enacting provisions set out as notes under sections 3181 and 3183 of this title and sections 1, 2 and 201 of the Appendix of former Title 40\] may be cited as the 'Regional Development Act of 1975'."
+Pub. L. 94–188, §1, Dec. 31, 1975, 89 Stat. 1079, provided: "That this Act \[enacting sections 3194 to 3196 of this title and sections 225 and 303 of the Appendix to former Title 40, Public Buildings, Property, and Works, amending sections 3181, 3182, 3188a and 3192 of this title, and sections 2, 101, 102, 105–107, 201, 202, 205, 207, 211, 214, 223, 224, 302, 401 and 405 of the Appendix to former Title 40, repealing section 3134 of this title, and enacting provisions set out as notes under sections 3181 and 3183 ofthis title and sections 1, 2 and 201 of the Appendix of former Title 40\] may be cited as the 'Regional Development Act of 1975'."
 
 Pub. L. 94–188, title II, §201, Dec. 31, 1975, 89 Stat. 1087, provided that: "This title \[enacting sections 3194 to 3196 of this title, amending sections 3181, 3182, 3188a, and 3192 of this title, and enacting provisions set out as note under section 3183 of this title\] may be cited as the 'Regional Action Planning Commission Improvement Act of 1975'."
 
@@ -88,7 +92,7 @@ Pub. L. 91–123, title II, §201, Nov. 25, 1969, 83 Stat. 216, provided that: "
 
 Pub. L. 89–136, §1(a), as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3597, provided that: "This Act \[enacting this chapter\] may be cited as the 'Public Works and Economic Development Act of 1965'."
 
-A prior section 1 of Pub. L. 89–136, which provided that Pub. L. 89–136 could be cited as the "Public Works and Economic Development Act of 1965", was repealedby Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3597.
+A prior section 1 of Pub. L. 89–136, which provided that Pub. L. 89–136 could be cited as the "Public Works and Economic Development Act of 1965", was repealed by Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3597.
 
 #### Transition Provisions
 
@@ -120,7 +124,7 @@ Administration.—The Secretary of Commerce shall take such actions authorized b
 
 Pub. L. 116–260, div. D, title V, §505(c), Dec. 27, 2020, 134 Stat. 1379, provided that: "Requirements relating to non-Federal cost-share grants and cooperative agreements for the Denali Commission are waived for grants awarded in fiscal year 2020 and in subsequent years in response to economic distress directly related to the impacts of the Coronavirus Disease (COVID–19)."
 
-Pub. L. 105–277, div. C, title III, Oct. 21, 1998, 112 Stat. 2681–637, as amended by Pub. L. 106–31, title I, §105(a), May 21, 1999, 113 Stat. 62; Pub. L. 106–113, div. B, §1000(a)(4) \[title VII, §701\], Nov. 29, 1999, 113 Stat. 1535, 1501A–280; Pub. L. 108–7, div. A, title VII, §749, div. D, title V, §504, Feb. 20, 2003, 117 Stat. 44, 158; Pub. L. 108–199, div. B, title I, §112(d), div. E, title II, §222, Jan. 23, 2004, 118 Stat. 63, 256; Pub. L. 108–447, div. H, title V, §521, Dec. 8, 2004, 118 Stat. 3268; Pub. L. 109–59, title I, §1960, Aug. 10, 2005, 119 Stat. 1516; Pub. L. 112–141, div. A, title I, §1520, July 6, 2012, 126 Stat. 577; Pub. L. 114–322, title IV, §5002, Dec. 16, 2016, 130 Stat. 1885, provided that:
+Pub. L. 105–277, div. C, title III, Oct. 21, 1998, 112 Stat. 2681–637, as amended by Pub. L. 106–31, title I, §105(a), May 21, 1999, 113 Stat. 62; Pub. L. 106–113, div. B, §1000(a)(4) \[title VII, §701\], Nov. 29, 1999, 113 Stat. 1535, 1501A–280; Pub. L. 108–7, div. A, title VII, §749, div. D, title V, §504, Feb. 20, 2003, 117 Stat. 44, 158; Pub. L. 108–199, div. B, title I, §112(d), div. E, title II, §222, Jan. 23, 2004, 118 Stat. 63, 256; Pub. L. 108–447, div. H, title V, §521, Dec. 8, 2004, 118 Stat. 3268; Pub. L. 109–59, title I, §1960, Aug. 10, 2005, 119 Stat. 1516; Pub. L. 112–141, div. A, title I, §1520, July 6, 2012, 126 Stat. 577; Pub. L. 114–322, title IV, §5002, Dec. 16, 2016, 130 Stat. 1885; Pub. L. 117–58, div. A, title I, §11507(b), Nov. 15, 2021, 135 Stat. 586, provided that:
 
 #### "SEC. 301. SHORT TITLE.
 
@@ -404,7 +408,7 @@ Rural Utilities.—In carrying out its functions under this title, the Commissio
 
 "(b)
 
-Bulk Fuels.—Funds transferred to the Commission pursuant to section 329 of the Department of Transportation and Related Agencies Appropriations Act, 1999 (section 101(g) of division A of this Act) \[43 U.S.C. 1653 note\] shall be available without further appropriation and until expended. The Commission, in consultation with the Commandant of the Coast Guard, shall develop a plan to provide for the repair or replacement of bulk fuel storage tanks in Alaska that are not in compliance with applicable—
+Bulk Fuels.—Funds transferred to the Commission pursuant to section 329 of the Department of Transportation and Related Agencies Appropriations Act, 1999 (section 101(g) of division A of this Act) \[43U.S.C. 1653 note\] shall be available without further appropriation and until expended. The Commission, in consultation with the Commandant of the Coast Guard, shall develop a plan to provide for the repair or replacement of bulk fuel storage tanks in Alaska that are not in compliance with applicable—
 
 &emsp;"(1) Federal law, including the Oil Pollution Act of 1990 (104 Stat. 484) \[33 U.S.C. 2701 et seq.\]; or
 
@@ -542,7 +546,7 @@ Sec. 310. (a) The Federal Co-chairman of the Denali Commission shall appoint an 
 
 "(c) The State Co-chairman of the Denali Commission shall appoint a Regional Advisory Committee for each region which may include representatives from local, borough, and tribal governments, the Alaska Native non-profit corporation operating in the region, local Chambers of Commerce, and representatives of the private sector. Each Regional Advisory Committee shall develop a regional economic development plan for consideration by the Economic Development Committee.
 
-"(d) The Economic Development Committee, in consultation with the First Alaskans Institute, may develop rural development performance measures linking economic growth to poverty reduction to measure thesuccess of its program which may include economic, educational, social, and cultural indicators. The performance measures will be tested in one region for 2 years and evaluated by the University of Alaska before being deployed statewide. Thereafter, performance in each region shall be evaluated using the performance measures, and the Economic Development Committee shall not fund projects which do not demonstrate success.
+"(d) The Economic Development Committee, in consultation with the First Alaskans Institute, may develop rural development performance measures linking economic growth to poverty reduction to measure the success of its program which may include economic, educational, social, and cultural indicators. The performance measures will be tested in one region for 2 years and evaluated by the University of Alaska before being deployed statewide. Thereafter, performance in each region shall be evaluated using the performance measures, and the Economic Development Committee shall not fund projects which do not demonstrate success.
 
 "(e) Within the amounts made available annually to the Denali Commission for training, the Commission may make a grant to the First Alaskans Foundation upon submittal of an acceptable work plan to assist Alaska Natives and other rural residents in acquiring the skills and training necessary to participate fully in private sector business and economic and development opportunities through fellowships, scholarships, internships, public service programs, and other leadership initiatives.
 
@@ -574,9 +578,15 @@ Transfers.—Any Federal agency authorized to carry out an activity that is with
 
 Treatment.—Any funds transferred to the Commission under this subsection—
 
-&emsp;"(1) shall remain available until expended; and
+&emsp;"(1) shall remain available until expended;
 
-&emsp;"(2) may, to the extent necessary to carry out this Act \[probably means this title\], be transferred to, and merged with, the amounts made available by appropriations Acts for the Commission by the Federal Cochairperson.
+&emsp;"(2) may, to the extent necessary to carry out this Act \[probably means this title\], be transferred to, and merged with, the amounts made available by appropriations Acts for the Commission by the Federal Cochairperson; and
+
+&emsp;"(3) notwithstanding any other provision of law, shall—
+
+&emsp;&emsp;"(A) be treated as if directly appropriated to the Commission and subject to applicable provisions of this Act; and
+
+&emsp;&emsp;"(B) not be subject to any requirements that applied to the funds before the transfer, including a requirement in an appropriations Act or a requirement or regulation of the Federal agency from which the funds are transferred.
 
 #### "SEC. 312. AUTHORIZATION OF APPROPRIATIONS.
 
@@ -608,6 +618,8 @@ Pub. L. 98–501, title I, Oct. 19, 1984, 98 Stat. 2320, known as the "Public Wo
 
 Pub. L. 94–487, title II, Oct. 12, 1976, 90 Stat. 2339, 2340, as amended by Pub. L. 95–31, title II, §§201, 202, May 23, 1977, 91 Stat. 170, provided for calling of a White House Conference on Balanced National Growth and Economic Development within 18 months of Oct. 12, 1976, set forth powers, functions, membership, etc., of Conference, and required submission to President of a final report within 180 days after calling of Conference, with President to forward recommendations to Congress within 90 days after submission of report.
 
+#### <b>Executive Documents</b>
+
 #### Executive Order No. 11386
 
 Ex. Ord. No. 11386, Dec. 28, 1967, 33 F.R. 5, which related to coordination of activities of regional commissions and Federal Government relating to regional economic development and which established Federal Advisory Council on Regional Economic Development, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
@@ -618,7 +630,7 @@ Ex. Ord. No. 11422, Aug. 15, 1968, 33 F.R. 11739, as amended by Ex. Ord. No. 121
 
 #### Executive Order No. 11493
 
-Ex. Ord. No. 11493, Nov. 13, 1969, 34 F.R. 18289, which created Council for Rural Affairs to advise President with respect to further development of non-metropolitan areas of country, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237. Council terminated and its functions transferred to Domestic Council by section 2(b) of Ex. Ord. No. 11541, July 1, 1970, 35 F.R. 10737, setout as a note under section 501 of Title 31, Money and Finance.
+Ex. Ord. No. 11493, Nov. 13, 1969, 34 F.R. 18289, which created Council for Rural Affairs to advise President with respect to further development of non-metropolitan areas of country, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237. Council terminated and its functions transferred to Domestic Council by section 2(b) of Ex. Ord. No. 11541, July 1, 1970, 35 F.R. 10737, set out as a note under section 501 of Title 31, Money and Finance.
 
 #### Ex. Ord. No. 13122. Interagency Task Force on the Economic Development of the Southwest Border
 

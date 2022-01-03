@@ -48,6 +48,8 @@ The Secretary of Agriculture (hereinafter in this section referred to as the "Se
 
 (June 25, 1947, ch. 125, §32, as added Pub. L. 104–170, title II, §210(j), Aug. 3, 1996, 110 Stat. 1501.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 2 of Public Law 89–106, referred to in subsec. (a)(1), was formerly classified to secton 450i of this title prior to editorial reclassification and renumbering as section 3157 of this title.

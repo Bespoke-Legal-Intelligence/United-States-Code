@@ -4,9 +4,13 @@ If and when appropriations are made therefor, the Secretary is authorized and di
 
 (Feb. 16, 1938, ch. 30, title III, §303, 52 Stat. 45; Pub. L. 108–357, title VI, §611(g), Oct. 22, 2004, 118 Stat. 1522.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Pub. L. 108–357 substituted "or rice," for "rice, or tobacco,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

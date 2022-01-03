@@ -10,7 +10,7 @@
 
 #### (c) Indebtedness of foreign country to United States citizen or person
 
-No assistance shall be provided under this chapter to the government of any country which is indebted to any United States citizen or person for goods or services furnished or ordered where (i) such citizen or person has exhausted available legal remedies, which shall include arbitration, or (ii) the debt is not denied or contested by such government, or (iii) such indebtedness arises under an unconditional guaranty of payment given by such government, or any predecessor government, directly or indirectly, through any controlled entity: <i>Provided</i>, That the President does not find such action contrary to the national security.
+No assistance shall be provided under this chapter to the government of any country whichis indebted to any United States citizen or person for goods or services furnished or ordered where (i) such citizen or person has exhausted available legal remedies, which shall include arbitration, or (ii) the debt is not denied or contested by such government, or (iii) such indebtedness arises under an unconditional guaranty of payment given by such government, or any predecessor government, directly or indirectly, through any controlled entity: <i>Provided</i>, That the President does not find such action contrary to the national security.
 
 #### (d) Productive enterprises competing with United States enterprise; conditions on assistance; import controls; waiver of restriction by President
 
@@ -82,7 +82,9 @@ In determining whether or not to furnish assistance under this chapter, consider
 
 #### (q) Defaults in principal or interest payments on loans; meeting obligations under loans; notice to Congressional committees
 
-No assistance shall be furnished under this chapter to any country which is in default, during a period in excess of six calendar months, in payment to the United States of principal or interest on any loan made to such country under this chapter, unless such country meets its obligations under the loan or unless the President determines that assistance to such country is in the national interest and notifies the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate of such determination.
+(1) No assistance shall be furnished under this chapter to the government of any country which is in default, during a period in excess of six calendar months, in payment to the United States of principal or interest on any loan made to the government of such country under this chapter, unless the government of such country meets its obligations under the loan or unless the President determines, after consultation with the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate, that assistance for such country is in the national interest of the United States.
+
+(2) No assistance shall be furnished under this chapter, the Peace Corps Act \[22 U.S.C. 2501 et seq.\], the Millennium Challenge Act of 2003 \[22 U.S.C. 7701 et seq.\], the African Development Foundation Act \[22 U.S.C. 290h et seq.\], the BUILD Act of 2018 \[22 U.S.C. 9601 et seq.\], section 5854 of this title, or section 2763 of this title to the government of any country which is in default during a period in excess of 1 calendar year in payment to the United States of principal or interest or any loan made to the government of such country by the United States unless the President determines, following consultation with the congressional committees specified in paragraph (1), that assistance for such country is in the national interest of the United States.
 
 #### (r) Liability for repayment of principal or interest on loans outstanding after September 19, 1966
 
@@ -126,11 +128,11 @@ In any decision to provide or continue to provide any program of assistance to a
 
 (3) The Secretary of State shall prepare and submit to the Congress each year a report containing a description of the amount of nuclear fuel and related assistance and credits provided by any country, or any entity of a country, to Cuba during the preceding year, including the terms of each transfer of such fuel, assistance, or credits.
 
-(Pub. L. 87–195, pt. III, §620, Sept. 4, 1961, 75 Stat. 444; Pub. L. 87–565, pt. III, §301(d), Aug. 1, 1962, 76 Stat. 260; Pub. L. 88–205, pt. III, §301(e), Dec. 16, 1963, 77 Stat. 386; Pub. L. 88–633, pt. III, §301(d)–(g), Oct. 7, 1964, 78 Stat. 1013; Pub. L. 89–171, pt. III, §301(d), Sept. 6, 1965, 79 Stat. 659; Pub. L. 89–583, pt. III, §301(h), Sept. 19, 1966, 80 Stat. 805, 806; Pub. L. 90–137, pt. III, §301(f), Nov. 14, 1967, 81 Stat. 459; Pub. L. 90–554, pt. III, §301(c), Oct. 8, 1968, 82 Stat. 963; Pub. L. 91–175, pt. III, §303, Dec. 30, 1969, 83 Stat. 820; Pub. L. 92–226, pt. III, §301, Feb. 7, 1972, 86 Stat. 27; Pub. L. 93–189, §15, Dec. 17, 1973, 87 Stat. 722; Pub. L. 93–559, §§22–24, 44, Dec. 30, 1974, 88 Stat. 1801, 1802, 1813; Pub. L. 94–104, §2(c)(1), (2), Oct. 6, 1975, 89 Stat. 509; Pub. L. 94–329, title IV, §403, title VI, §606, June 30, 1976, 90 Stat. 757, 768; Pub. L. 95–88, title I, §123(a), (b), Aug. 3, 1977, 91 Stat. 541; Pub. L. 95–92, §22(d), Aug. 4, 1977, 91 Stat. 624; Pub. L. 95–384, §13(a), Sept. 26, 1978, 92 Stat. 737; Pub. L. 95–424, title I, §§102(g)(2)(F), 115(k), title V, §502(d)(1), Oct. 6, 1978, 92 Stat. 943, 952, 959; Pub. L. 96–533, title II, §203, Dec. 16, 1980, 94 Stat. 3145; Pub. L. 97–113, title VII, §§702, 707, 734(a)(1), (13), (b), Dec. 29, 1981, 95 Stat. 1544, 1546, 1560; Pub. L. 99–83, title XII, §§1202, 1203, Aug. 8, 1985, 99 Stat. 276, 277; Pub. L. 102–511, title IX, §901, Oct. 24, 1992, 106 Stat. 3355; Pub. L. 103–199, title VII, §705(3), Dec. 17, 1993, 107 Stat. 2328; Pub. L. 103–306, title V, §573, Aug. 23, 1994, 108 Stat. 1653; Pub. L. 105–277, div. G, subdiv. B, title XXVIII, §2810(a), Oct. 21, 1998, 112 Stat. 2681–850; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Q), June 18, 2008, 122 Stat. 1820.)
+(Pub. L. 87–195, pt. III, §620, Sept. 4, 1961, 75 Stat. 444; Pub. L. 87–565, pt. III, §301(d), Aug. 1, 1962, 76 Stat. 260; Pub. L. 88–205, pt. III, §301(e), Dec. 16, 1963, 77 Stat. 386; Pub. L. 88–633, pt. III, §301(d)–(g), Oct. 7, 1964, 78 Stat. 1013; Pub. L. 89–171, pt. III, §301(d), Sept. 6, 1965, 79 Stat. 659; Pub. L. 89–583, pt. III, §301(h), Sept. 19, 1966, 80 Stat. 805, 806; Pub. L. 90–137, pt. III, §301(f), Nov. 14, 1967, 81 Stat. 459; Pub. L. 90–554, pt. III, §301(c), Oct. 8, 1968, 82 Stat. 963; Pub. L. 91–175, pt. III, §303, Dec. 30, 1969, 83 Stat. 820; Pub. L. 92–226, pt. III, §301, Feb. 7, 1972, 86 Stat. 27; Pub. L. 93–189, §15, Dec. 17, 1973, 87 Stat. 722; Pub. L. 93–559, §§22–24, 44, Dec. 30, 1974, 88 Stat. 1801, 1802, 1813; Pub. L. 94–104, §2(c)(1), (2), Oct. 6, 1975, 89 Stat. 509; Pub. L. 94–329, title IV, §403, title VI, §606, June 30, 1976, 90 Stat. 757, 768; Pub. L. 95–88, title I, §123(a), (b), Aug. 3, 1977, 91 Stat. 541; Pub. L. 95–92, §22(d), Aug. 4, 1977, 91 Stat. 624; Pub. L. 95–384, §13(a), Sept. 26, 1978, 92 Stat. 737; Pub. L. 95–424, title I, §§102(g)(2)(F), 115(k), title V, §502(d)(1), Oct. 6, 1978, 92 Stat. 943, 952, 959; Pub. L. 96–533, title II, §203, Dec. 16, 1980, 94 Stat. 3145; Pub. L. 97–113, title VII, §§702, 707, 734(a)(1), (13), (b), Dec. 29, 1981, 95 Stat. 1544, 1546, 1560; Pub. L. 99–83, title XII, §§1202, 1203, Aug. 8, 1985, 99 Stat. 276, 277; Pub. L. 102–511, title IX, §901, Oct. 24, 1992, 106 Stat. 3355; Pub. L. 103–199, title VII, §705(3), Dec. 17, 1993, 107 Stat. 2328; Pub. L. 103–306, title V, §573, Aug. 23, 1994, 108 Stat. 1653; Pub. L. 105–277, div. G, subdiv. B, title XXVIII, §2810(a), Oct. 21, 1998, 112 Stat. 2681–850; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Q), June 18, 2008, 122 Stat. 1820; Pub. L. 117–81, div. E, title LVII, §5701, Dec. 27, 2021, 135 Stat. 2381.)
 
 #### Amendment of Section
 
-<i>Pub. L. 104–114, title II, §204(d)(1), (2), Mar. 12, 1996, 110 Stat. 810, provided that on date on which President submits determination under section 6063(c)(3) of this title that democratically elected government in Cuba is in power, this section is amended by repealing subsec. (a)</i><i>and by striking out "Republic of Cuba" in subsec. (f).</i>
+<i>Pub. L. 104–114, title II, §204(d)(1), (2), Mar. 12, 1996, 110 Stat. 810, provided that on date on which President submits determination under section 6063(c)(3) of this title that democratically elected government in Cuba is in power, this section is amended by repealing subsec. (a) and by striking out "Republic of Cuba" in subsec. (f).</i>
 
 #### <b>Editorial Notes</b>
 
@@ -142,6 +144,14 @@ Reorganization Plan No. 1 of 1954, 68 Stat. 1279, referred to in subsec. (e)(1),
 
 Section 2194(a)(1) of this title, referred to in subsec. (l), was repealed by Pub. L. 115–254, div. F, title VI, §1464(2), Oct. 5, 2018, 132 Stat. 3513.
 
+The Peace Corps Act, referred to in subsec. (q)(2), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, which is classified principally to chapter 34 (§2501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
+
+The Millennium Challenge Act of 2003, referred to in subsec. (q)(2), is Pub. L. 108–199, div. D, title VI, Jan. 23, 2004, 118 Stat. 211, which is classified principally to chapter 84 (§7701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of this title and Tables.
+
+The African Development Foundation Act, referred to in subsec. (q)(2), is Pub. L. 96–533, title V, Dec. 16, 1980, 94 Stat. 3151, which is classified generally to subchapter XXIII (§290h et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 290h of this title and Tables.
+
+The BUILD Act of 2018, referred to in subsec. (q)(2), is div. F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3485, also known as the Better Utilization of Investments Leading to Development Act of 2018. Div. F is classified principally to chapter 103 (§9601 et seq.) of this title. For complete classification of div. F to the Code, see Short Title note set out under section 9601 of this title and Tables.
+
 The Food for Peace Act, referred to in subsecs. (s)(1) and (t), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified principally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
 #### Codification
@@ -151,6 +161,8 @@ Subsec. (s)(2) of this section, which required the President to report annually 
 Subsec. (x) was omitted pursuant to Pub. L. 95–384, §13(a), Sept. 26, 1978, 92 Stat. 737, which provided that subsec. (x) be of no further force and effect upon the President's determination and certification of certain conditions precedent which was made by Presidential Memorandum dated Sept. 26, 1978. See notes set out below.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (q). Pub. L. 117–81 designated existing provisions as par. (1), inserted "the government of" before "any country" and before "such country" wherever appearing, substituted "determines, after consultation with the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate, that assistance for such country is in the national interest of the United States." for "determines that assistance to such country is in the national interest and notifies the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate of such determination." and added par. (2).
 
 <b>2008</b>—Subsecs. (s)(1), (t). Pub. L. 110–246 substituted "Food for Peace Act" for "Agricultural Trade Development and Assistance Act of 1954".
 
@@ -192,7 +204,7 @@ Subsec. (a)(3). Pub. L. 95–88, §123(a)(2), struck out par. (3) which had dire
 
 Subsec. (n). Pub. L. 95–88, §123(b), struck out subsec. (n) which had prohibited the giving of aid to countries that sold or furnished to North Vietnam, or permitted their ships or aircraft to carry to or from North Vietnam, equipment, materials, or commodities, unless the President determined that the giving of aid was in the national interest.
 
-Subsec. (x)(1). Pub. L. 95–92 substituted "1978" for "1976, the period beginning July 1, 1976, and ending September 30, 1976, and the fiscal year 1977," and provisions authorizing $175,000,000 during the fiscal year 1978 for Turkey as the total value of defense articles and services sold to such country, for provisions authorizing $125,000,000 during the fiscal year 1976, and the period beginning July 1, 1976, and ending Sept. 30, 1976, and $125,000,000 during the fiscal year 1977 for Turkey as thetotal value of defense articles and services sold to such country.
+Subsec. (x)(1). Pub. L. 95–92 substituted "1978" for "1976, the period beginning July 1, 1976, and ending September 30, 1976, and the fiscal year 1977," and provisions authorizing $175,000,000 during the fiscal year 1978 for Turkey as the total value of defense articles and services sold to such country, for provisions authorizing $125,000,000 during the fiscal year 1976, and the period beginning July 1, 1976, and ending Sept. 30, 1976, and $125,000,000 during the fiscal year 1977 for Turkey as the total value of defense articles and services sold to such country.
 
 <b>1976</b>—Subsec. (k). Pub. L. 94–329, §606, inserted provision exempting from the condition of express approval of Congress any productive enterprise in Egypt which is described in the presentation to Congress for fiscal year 1977.
 
@@ -204,7 +216,7 @@ Subsec. (x)(1). Pub. L. 94–329, §403, further modified existing restrictions 
 
 Subsec. (p). Pub. L. 93–559, §44, repealed subsec. (p) relating to assistance to United Arab Republic if essential to national interest of United States, and without any aid to aggressive actions by the United Arab Republic, and reports to Congressional committees.
 
-Subsec. (v). Pub. L. 93–559, §24, repealed subsec. (v) relating to prohibition against assistance to Greece, waiver of the restriction by the President, report to Congress, and fiscal year limitation of assistance made available to Greece.
+Subsec. (v). Pub. L. 93–559, §24, repealed subsec. (v) relating to prohibition against assistance to Greece,waiver of the restriction by the President, report to Congress, and fiscal year limitation of assistance made available to Greece.
 
 Subsec. (x). Pub. L. 93–559, §22, added subsec. (x).
 
@@ -354,7 +366,7 @@ Prohibition.—Subject to paragraph (2), no United States military assistance ma
 
 &emsp;&emsp;"(iii) has been accepted, within 15 days from its announcement, by the FMLN and is being complied with by the FMLN;
 
-&emsp;"(D) the Government of El Salvador has failed to conduct a thorough and professional investigation into, and prosecution of those responsible for the eight murders at the University of Central America on November 16, 1989; or
+&emsp;"(D) the Government of El Salvador has failed to conduct a thorough and professional investigation into, and prosecution of those responsible for theeight murders at the University of Central America on November 16, 1989; or
 
 &emsp;"(E) the military and security forces of El Salvador are assassinating or abducting civilian noncombatants, are engaging in other acts of violence directed at civilian targets, or are failing to control such activities by elements subject to the control of those forces; or
 
@@ -428,7 +440,7 @@ Duration of Availability of Funds.—Notwithstanding any other provision of law,
 
 "(g)
 
-Strengthening Civilian Control Over the Military.—In order to strengthen the control of thedemocratically-elected civilian Government of El Salvador over the armed forces of that country, United States military assistance for any fiscal year may be delivered to the armed forces of El Salvador only with the prior approval of the duly elected President of El Salvador.
+Strengthening Civilian Control Over the Military.—In order to strengthen the control of the democratically-elected civilian Government of El Salvador over the armed forces of that country, United States military assistance for any fiscal year may be delivered to the armed forces of El Salvador only with the prior approval of the duly elected President of El Salvador.
 
 "(h)
 

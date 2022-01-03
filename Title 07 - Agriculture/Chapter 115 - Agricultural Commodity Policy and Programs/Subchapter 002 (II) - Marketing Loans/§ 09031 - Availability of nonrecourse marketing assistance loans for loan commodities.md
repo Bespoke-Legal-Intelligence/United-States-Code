@@ -20,7 +20,7 @@ The producers on a farm shall be eligible for a marketing assistance loan under 
 
 #### (d) Compliance with conservation and wetlands requirements
 
-As a condition of the receipt of a marketing assistance loan under subsection (b), the producer shall comply with applicable conservation requirements under subtitle B of title XII of the Food Security Act of 1985 (16 U.S.C. 3811 et seq.) and applicable wetland protection requirementsunder subtitle C of title XII of that Act (16 U.S.C. 3821 et seq.) during the term of the loan.
+As a condition of the receipt of a marketing assistance loan under subsection (b), the producer shall comply with applicable conservation requirements under subtitle B of title XII of the Food Security Act of 1985 (16 U.S.C. 3811 et seq.) and applicable wetland protection requirements under subtitle C of title XII of that Act (16 U.S.C. 3821 et seq.) during the term of the loan.
 
 #### (e) Special rules for peanuts
 
@@ -68,9 +68,11 @@ As a condition of the receipt of a marketing assistance loan under subsection (b
 
 (Pub. L. 113–79, title I, §1201, Feb. 7, 2014, 128 Stat. 674; Pub. L. 115–334, title I, §1201(a), Dec. 20, 2018, 132 Stat. 4509.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Food Security Act of 1985, referred to in subsec. (d), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subtitles B and C of title XII of the Act are classified generally to subchapters II (§3811 et seq.) and III (§3821 et seq.), respectively, of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
+The Food Security Act of 1985, referred to in subsec. (d), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subtitles B and C of title XII of the Act are classified generally to subchapters II (§3811 et seq.) and III (§3821 etseq.), respectively, of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
 #### Amendments
 

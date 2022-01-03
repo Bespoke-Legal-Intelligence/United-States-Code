@@ -36,6 +36,8 @@ The purpose of this section is to provide the Department of Agriculture with add
 
 (Pub. L. 88–525, §29, as added Pub. L. 113–79, title IV, §4029, Feb. 7, 2014, 128 Stat. 813; amended Pub. L. 115–334, title IV, §4020, Dec. 20, 2018, 132 Stat. 4652.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (c)(1). Pub. L. 115–334 substituted "2023" for "2018".

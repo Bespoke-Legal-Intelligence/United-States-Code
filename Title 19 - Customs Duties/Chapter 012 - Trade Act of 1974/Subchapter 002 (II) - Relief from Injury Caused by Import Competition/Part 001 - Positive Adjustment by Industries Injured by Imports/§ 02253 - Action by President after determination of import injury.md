@@ -108,7 +108,7 @@ If the President reports under subsection (b)(1) or (2) that—
 
 (3) No action may be taken under this section which would increase a rate of duty to (or impose a rate) which is more than 50 percent ad valorem above the rate (if any) existing at the time the action is taken.
 
-(4) Any action taken under this section proclaiming a quantitative restriction shall permit the importation of a quantity or value of the article which is not less than the average quantity or value of such article entered into the United States in the most recent 3 years that are representative of imports of such article and for which data are available, unless the President finds that the importation of a different quantity or value is clearly justified in order to prevent or remedy the serious injury.
+(4) Any action taken under this section proclaiming a quantitative restriction shall permit the importation of a quantity or value of the article which is not less than the average quantity or value of such article entered into the UnitedStates in the most recent 3 years that are representative of imports of such article and for which data are available, unless the President finds that the importation of a different quantity or value is clearly justified in order to prevent or remedy the serious injury.
 
 (5) An action described in subsection (a)(3)(A), (B), or (C) that has an effective period of more than 1 year shall be phased down at regular intervals during the period in which the action is in effect.
 
@@ -155,6 +155,8 @@ If the President reports under subsection (b)(1) or (2) that—
 (3) Regulations prescribed under this subsection shall, to the extent practicable and consistent with efficient and fair administration, insure against inequitable sharing of imports by a relatively small number of the larger importers.
 
 (Pub. L. 93–618, title II, §203, Jan. 3, 1975, 88 Stat. 2015; Pub. L. 96–39, title XI, §1106(d), July 26, 1979, 93 Stat. 312; Pub. L. 98–573, title II, §248(a), Oct. 30, 1984, 98 Stat. 2998; Pub. L. 100–418, title I, §§1214(j)(2), 1401(a), Aug. 23, 1988, 102 Stat. 1158, 1234; Pub. L. 100–647, title IX, §9001(a)(2), Nov. 10, 1988, 102 Stat. 3806; Pub. L. 103–465, title III, §§301(d)(3), 302(a)–(b)(4)(A), 303(7)–(10), Dec. 8, 1994, 108 Stat. 4933–4937.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -223,6 +225,8 @@ Subsec. (g)(2). Pub. L. 96–39, §1106(d)(6), inserted references to subsec. (e
 Subsec. (h)(3). Pub. L. 96–39, §1106(d)(7)(A), (B), inserted reference to subsec. (i)(3) of this section and substituted "one period of not more than 3 years" for "one 3-year period".
 
 Subsec. (h)(4). Pub. L. 96–39, §1106(d)(7)(A), inserted reference to subsec. (i)(3) of this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

@@ -58,7 +58,7 @@
 
 #### (3) Coordination
 
-&emsp;To minimize regulatory burden, the Bureau shall coordinate its supervisory activities with the supervisory activities conducted by prudential regulators, the State bank regulatory authorities, and the State agencies that licence, supervise, or examine the offering of consumer financial products or services, including establishing their respective schedules for examining persons described in subsection (a)(1) and requirements regarding reports to be submitted by such persons. The sharing of information with such regulators, authorities, and agencies shall not be construed as waiving, destroying, or otherwise affecting any privilege or confidentiality such person may claim with respect to such information under Federal or State law as to any person or entity other than such Bureau, agency, supervisor, or authority.
+&emsp;To minimize regulatory burden, the Bureau shall coordinate its supervisory activities withthe supervisory activities conducted by prudential regulators, the State bank regulatory authorities, and the State agencies that licence, supervise, or examine the offering of consumer financial products or services, including establishing their respective schedules for examining persons described in subsection (a)(1) and requirements regarding reports to be submitted by such persons. The sharing of information with such regulators, authorities, and agencies shall not be construed as waiving, destroying, or otherwise affecting any privilege or confidentiality such person may claim with respect to such information under Federal or State law as to any person or entity other than such Bureau, agency, supervisor, or authority.
 
 #### (4) Use of existing reports
 

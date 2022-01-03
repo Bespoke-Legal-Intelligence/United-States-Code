@@ -54,7 +54,7 @@ Other claims.—For purposes of applying chapter 71 of title 41 to disputes aris
 
 &emsp;&emsp;(A) the agency board having jurisdiction to decide an appeal relative to such a dispute shall be such board of contract appeals as the Director of the Office of Personnel Management shall specify in writing; and
 
-&emsp;&emsp;(B) the district courts of the United States shall have original jurisdiction, concurrentwith the United States Court of Federal Claims, of any action described in section 7104(b)(1) of title 41 relative to such a dispute.
+&emsp;&emsp;(B) the district courts of the United States shall have original jurisdiction, concurrent with the United States Court of Federal Claims, of any action described in section 7104(b)(1) of title 41 relative to such a dispute.
 
 &emsp;(4)
 

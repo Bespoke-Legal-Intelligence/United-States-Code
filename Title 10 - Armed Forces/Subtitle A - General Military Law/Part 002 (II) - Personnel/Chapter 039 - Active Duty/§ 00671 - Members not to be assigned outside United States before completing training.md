@@ -26,6 +26,8 @@ June 24, 1948, ch. 625, §4(a) (words between semicolon and proviso of 6th par.)
 
 The words "four months of basic training or its equivalent" are substituted for the words "the equivalent of at least four months of basic training". The words "who is enlisted, inducted, appointed, or ordered to active duty after the date of enactment of the 1951 Amendments to the Universal Military Training and Service Act \[June 19, 1951\]" and "at any installation located" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Subsec. (c)(1). Pub. L. 114–328 substituted "(50 U.S.C. 3803(a))" for "(50 U.S.C. App. 454(a))".
@@ -39,6 +41,8 @@ Subsec. (c). Pub. L. 103–160, §511(2), added subsec. (c).
 <b>1986</b>—Pub. L. 99–661 amended section generally. Prior to amendment, section read as follows: "No member of an armed force may be assigned to active duty on land outside the United States and its Territories and possessions, until he has had twelve weeks of basic training or its equivalent."
 
 <b>1975</b>—Pub. L. 94–106 reduced minimum period of basic training from four months to twelve weeks.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

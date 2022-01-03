@@ -38,9 +38,13 @@ Rule of Construction.—Nothing in this section may be construed to prevent the 
 
 (Added Pub. L. 104–264, title VIII, §804(a), Oct. 9, 1996, 110 Stat. 3271; amended Pub. L. 112–95, title I, §149(a), Feb. 14, 2012, 126 Stat. 32.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Subsec. (b). Pub. L. 112–95, designated existing provisions as par. (1), inserted heading, and added pars. (2) and (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 
@@ -60,7 +64,7 @@ In General.—Notwithstanding any other provision of law, the Administrator of t
 
 "(b)
 
-Use of Revenue.—An airport sponsor that is in compliance with the conditions under subsection (c) may allocate revenue identified by the Administratorunder subsection (a) for Federal, State, or local transportation infrastructure projects carried out by the airport sponsor or by a governing body within the geographical limits of the airport sponsor's jurisdiction.
+Use of Revenue.—An airport sponsor that is in compliance with the conditions under subsection (c) may allocate revenue identified by the Administrator under subsection (a) for Federal, State, or local transportation infrastructure projects carried out by the airport sponsor or by a governing body within the geographical limits of the airport sponsor's jurisdiction.
 
 "(c)
 

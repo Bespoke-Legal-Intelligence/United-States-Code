@@ -44,9 +44,11 @@ The Secretary shall not implement subsections (a), (b), and (c) of this section 
 
 (1) The Secretary shall reimburse the State, from funds appropriated to the Department of the Interior for such purposes, for reasonable costs relating to the establishment and operation of the regional advisory councils established by the State in accordance with subsection (d) and the operation of the State fish and game advisory committees so long as such committees are not superseded by the Secretary pursuant to paragraph (2) of subsection (a). Such reimbursement may not exceed 50 per centum of such costs in any fiscal year. Such costs shall be verified in a statement which the Secretary determines to be adequate and accurate. Sums paid under this subsection shall be in addition to any grants, payments, or other sums to which the State is entitled from appropriations to the Department of the Interior.
 
-(2) Total payments to the State under this subsection shall not exceed the sum of $5,000,000 in any one fiscal year. The Secretary shall advise the Congress at least once in every five years as to whether or not the maximum payments specified in this subsection are adequate to ensure the effectiveness of the program established by the State to provide the preference for subsistence uses of fish and wildlife set forth in section 3114 of this title.
+(2) Total payments to the State under this subsection shall not exceed the sum of $5,000,000 in any one fiscal year. The Secretary shall advise the Congress at least once in every fiveyears as to whether or not the maximum payments specified in this subsection are adequate to ensure the effectiveness of the program established by the State to provide the preference for subsistence uses of fish and wildlife set forth in section 3114 of this title.
 
 (Pub. L. 96–487, title VIII, §805, Dec. 2, 1980, 94 Stat. 2424; Pub. L. 105–83, title III, §316(b)(6), (d), Nov. 14, 1997, 111 Stat. 1593, 1595; Pub. L. 105–277, div. A, §101(e) \[title III, §339(c)\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–296.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -57,6 +59,8 @@ Subsec. (d). Pub. L. 105–277, §101(e) \[title III, §339(c)(2)\], struck out 
 <b>1997</b>—Subsec. (a). Pub. L. 105–83, §316(b)(6)(A), which directed the amendment of subsec. (a) by striking out "one year after December 2, 1980," before "the Secretary" in introductory provisions, was repealed by Pub. L. 105–83, §316(d). See Effective and Termination Dates of 1997 Amendment note below.
 
 Subsec. (d). Pub. L. 105–83, §316(b)(6)(B), which directed the amendment of subsec. (d) generally to provide for supersedure by enactment and implementation of State laws governing State responsibility, consideration of recommendations by State rulemaking authority, and for the creation of regional advisory councils, was repealed by Pub. L. 105–83, §316(d). See Effective and Termination Dates of 1997 Amendment note below.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective and Termination Dates of 1997 Amendment
 

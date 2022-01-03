@@ -12,7 +12,7 @@
 
 #### (2) Limitation on requirements
 
-&emsp;The Secretary may not require that an entity described in paragraph (1) provide investment or capital that is not required of other companies eligible to apply to operate as a rural business investment company under section 2009cc–3(a) of this title.
+&emsp;The Secretary may not require that an entity described in paragraph (1) provide investment or capital that is not required of othercompanies eligible to apply to operate as a rural business investment company under section 2009cc–3(a) of this title.
 
 #### (b) Limitation
 
@@ -23,6 +23,8 @@ No bank, association, or institution described in subsection (a) may make invest
 If a Farm Credit System institution described in section 1.2(a) of the Farm Credit Act of 1971 (12 U.S.C. 2002(a)) holds more than 50 percent of the shares of a rural business investment company, either alone or in conjunction with other System institutions (or affiliates), the rural business investment company shall not provide equity investments in, or provide other financial assistance to, entities that are not otherwise eligible to receive financing from the Farm Credit System under that Act (12 U.S.C. 2001 et seq.).
 
 (Pub. L. 87–128, title III, §384J, as added Pub. L. 107–171, title VI, §6029, May 13, 2002, 116 Stat. 397; amended Pub. L. 110–234, title VI, §6027(d), May 22, 2008, 122 Stat. 1182; Pub. L. 110–246, §4(a), title VI, §6027(d), June 18, 2008, 122 Stat. 1664, 1944; Pub. L. 115–334, title VI, §6426(e), (f), Dec. 20, 2018, 132 Stat. 4771.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -43,6 +45,8 @@ Subsec. (c). Pub. L. 115–334, §6426(e), substituted "50" for "25".
 <b>2008</b>—Subsec. (a)(1). Pub. L. 110–246, §6027(d)(1), inserted ", including an investment pool created entirely by such bank or savings association" before period at end.
 
 Subsec. (c). Pub. L. 110–246, §6027(d)(2), substituted "25" for "15".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

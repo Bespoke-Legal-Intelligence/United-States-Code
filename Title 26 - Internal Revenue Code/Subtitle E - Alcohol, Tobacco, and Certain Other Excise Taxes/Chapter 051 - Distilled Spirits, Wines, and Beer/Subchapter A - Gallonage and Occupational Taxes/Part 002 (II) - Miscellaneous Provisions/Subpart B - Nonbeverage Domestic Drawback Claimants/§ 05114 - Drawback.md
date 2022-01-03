@@ -6,7 +6,7 @@ In the case of distilled spirits on which the tax has been paid or determined, a
 
 #### (b) Claims
 
-Such drawback shall be due and payable quarterly upon filing of a proper claim with the Secretary; except that, where any person entitled to such drawback shall elect in writing to file monthly claims therefor, such drawback shall be due and payable monthly upon filing of a proper claim with the Secretary. The Secretary may require persons electing to file monthly drawback claims to file with him a bond or other security in such amount and with such conditions as he shall by regulations prescribe. Any such election may be revoked on filing of notice thereof with the Secretary. No claim under this subpart shall be allowed unless filed with the Secretary within the 6 months next succeeding the quarter in which the distilled spirits covered by the claim were used as provided in this subpart.
+Such drawback shall be due and payable quarterly upon filing of a proper claim with the Secretary; except that, where any person entitled tosuch drawback shall elect in writing to file monthly claims therefor, such drawback shall be due and payable monthly upon filing of a proper claim with the Secretary. The Secretary may require persons electing to file monthly drawback claims to file with him a bond or other security in such amount and with such conditions as he shall by regulations prescribe. Any such election may be revoked on filing of notice thereof with the Secretary. No claim under this subpart shall be allowed unless filed with the Secretary within the 6 months next succeeding the quarter in which the distilled spirits covered by the claim were used as provided in this subpart.
 
 #### (c) Allowance of drawback even where certain requirements not met
 
@@ -29,6 +29,8 @@ Such drawback shall be due and payable quarterly upon filing of a proper claim w
 &emsp;The penalty imposed by paragraph (2) shall be assessed, collected, and paid in the same manner as taxes, as provided in section 6665(a).
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1346, §5134; amended Pub. L. 90–615, §2(a), Oct. 21, 1968, 82 Stat. 1210; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title IV, §452, July 18, 1984, 98 Stat. 819; Pub. L. 103–465, title I, §136(b), Dec. 8, 1994, 108 Stat. 4841; Pub. L. 104–188, title I, §1704(t)(12), Aug. 20, 1996, 110 Stat. 1888; renumbered §5114, Pub. L. 109–59, title XI, §11125(b)(3)(A), Aug. 10, 2005, 119 Stat. 1953.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -59,6 +61,8 @@ A prior section 5117, added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
 <b>1968</b>—Subsec. (b). Pub. L. 90–615 substituted "6 months" for "3 months" in last sentence.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

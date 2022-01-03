@@ -4,9 +4,13 @@ Guayule shrub may be sold to the Reconstruction Finance Corporation at a price r
 
 (June 30, 1945, ch. 215, §1, 59 Stat. 310; July 5, 1945, ch. 271, title I, 59 Stat. 423.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transfer of Functions
 
 Rubber Reserve Company dissolved and functions transferred to Reconstruction Finance Corporation by Joint Res. June 30, 1945, eff. July 1, 1945.
+
+#### <b>Executive Documents</b>
 
 #### Abolition of Reconstruction Finance Corporation
 

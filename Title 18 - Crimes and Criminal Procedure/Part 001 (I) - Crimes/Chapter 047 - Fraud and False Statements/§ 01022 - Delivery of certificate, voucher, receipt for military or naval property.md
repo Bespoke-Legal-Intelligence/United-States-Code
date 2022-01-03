@@ -10,7 +10,7 @@ Based on title 18, U.S.C., 1940 ed., §84 (Mar. 4, 1909, ch. 321, §35, 35 Stat.
 
 Word "agency" was substituted for "department" so as to eliminate any possible ambiguity as to scope of section. (See definitions of "department" and "agency" in section 6 of this title.)
 
-Words "or any corporation in which the United States of America is a stockholder" were omitted asunnecessary in view of definition of "agency" in section 6 of this title.
+Words "or any corporation in which the United States of America is a stockholder" were omitted as unnecessary in view of definition of "agency" in section 6 of this title.
 
 Minor changes were made in phraseology.
 

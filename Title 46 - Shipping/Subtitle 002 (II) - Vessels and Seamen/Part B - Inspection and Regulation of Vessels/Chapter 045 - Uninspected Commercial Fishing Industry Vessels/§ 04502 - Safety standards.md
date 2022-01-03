@@ -48,7 +48,7 @@
 
 &emsp;(C) capable, in accordance with the Coast Guard capacity rating, when applicable, of safely holding all individuals on board the vessel to which the craft functions as an auxiliary.
 
-(c)(1) In addition to the requirements described in subsections (a) and (b) of this section,the Secretary may prescribe regulations establishing the standards in paragraph (2) of this subsection for vessels to which this chapter applies that—
+(c)(1) In addition to the requirements described in subsections (a) and (b) of this section, the Secretary may prescribe regulations establishing the standards in paragraph (2) of this subsection for vessels to which this chapter applies that—
 
 &emsp;(A)(i) were built after December 31, 1988, or undergo a major conversion completed after that date; and
 
@@ -202,7 +202,7 @@ Subsec. (b)(1). Pub. L. 111–281, §604(a)(2)(A), struck out "documented" befor
 
 Subsec. (b)(1)(A). Pub. L. 111–281, §604(a)(2)(B), substituted "3 nautical miles from the baseline from which the territorial sea of the United States is measured or beyond 3 nautical miles from the coastline of the Great Lakes" for "the Boundary Line".
 
-Subsec. (b)(2)(B). Pub. L. 111–281, §604(a)(2)(C), substituted "a survival craft that ensures that no part of an individual is immersed in water" for "lifeboats or liferafts".
+Subsec. (b)(2)(B). Pub. L. 111–281, §604(a)(2)(C), substituted "a survival craft that ensures that no part ofan individual is immersed in water" for "lifeboats or liferafts".
 
 Subsec. (b)(2)(D). Pub. L. 111–281, §604(a)(2)(D), inserted "marine" before "radio communications".
 

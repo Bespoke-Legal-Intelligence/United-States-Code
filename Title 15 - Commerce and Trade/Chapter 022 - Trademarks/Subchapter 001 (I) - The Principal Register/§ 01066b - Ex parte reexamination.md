@@ -38,7 +38,7 @@ A petition filed under subsection (a), together with any supporting documents, s
 
 #### (1) Prima facie case determination, institution, and notification
 
-&emsp;The Director shall, for each good or service identified under subsection (c)(2), determine whether the petition sets forth a prima facie case of the mark having not been in use in commerce on or in connection with each such good or service, institute an ex parte reexamination proceeding for each good or service for which the Director determines that the prima facie case has been set forth, and provide a notice to the registrant and petitioner of the determination of whether or not the proceeding was instituted. Such notice shall include a copy of the petition and any supporting documents and evidence that were included with the petition.
+&emsp;The Director shall, for each good or service identified under subsection (c)(2), determine whether the petition sets forth a prima facie case of the mark having not been in use incommerce on or in connection with each such good or service, institute an ex parte reexamination proceeding for each good or service for which the Director determines that the prima facie case has been set forth, and provide a notice to the registrant and petitioner of the determination of whether or not the proceeding was instituted. Such notice shall include a copy of the petition and any supporting documents and evidence that were included with the petition.
 
 #### (2) Reasonable investigation guidance
 
@@ -96,9 +96,11 @@ The provisions of subsection (b) apply, as appropriate, to registrations under s
 
 (July 5, 1946, ch. 540, title I, §16B, as added Pub. L. 116–260, div. Q, title II, §225(c), Dec. 27, 2020, 134 Stat. 2205.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Section effective upon the expiration of the 1-year period beginning on Dec. 27, 2020, and applicable to any mark registered before, on, or after that effective date, see section 225(g) of div Q of Pub. L. 116–260, set out as an Effective Date of 2020 Amendment note under section 1064 of this title.
+Section effective upon the expiration of the 1-year period beginning on Dec. 27, 2020, and applicable to anymark registered before, on, or after that effective date, see section 225(g) of div Q of Pub. L. 116–260, set out as an Effective Date of 2020 Amendment note under section 1064 of this title.
 
 #### Regulations
 

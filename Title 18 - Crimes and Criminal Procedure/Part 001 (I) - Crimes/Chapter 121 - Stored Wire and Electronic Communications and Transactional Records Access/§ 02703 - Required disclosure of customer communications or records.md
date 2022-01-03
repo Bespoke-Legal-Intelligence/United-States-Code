@@ -98,7 +98,7 @@ Definitions.—In this subsection—
 
 &emsp;(2)
 
-Motions to quash or modify.—(A) A provider of electronic communication service to the public or remote computing service, including a foreign electronic communication service or remote computing service, that isbeing required to disclose pursuant to legal process issued under this section the contents of a wire or electronic communication of a subscriber or customer, may file a motion to modify or quash the legal process where the provider reasonably believes—
+Motions to quash or modify.—(A) A provider of electronic communication service to the public or remote computing service, including a foreign electronic communication service or remote computing service, that is being required to disclose pursuant to legal process issued under this section the contents of a wire or electronic communication of a subscriber or customer, may file a motion to modify or quash the legal process where the provider reasonably believes—
 
 &emsp;&emsp;(i) that the customer or subscriber is not a United States person and does not reside in the United States; and
 
@@ -156,7 +156,7 @@ The Federal Rules of Criminal Procedure, referred to in subsecs. (a), (b)(1)(A),
 
 <b>2018</b>—Subsec. (h). Pub. L. 115–141 added subsec. (h).
 
-<b>2016</b>—Subsecs. (a), (b)(1)(A), (c)(1)(A). Pub. L. 114–328 inserted "and, in the case of a court-martial or otherproceeding under chapter 47 of title 10 (the Uniform Code of Military Justice), issued under section 846 of that title, in accordance with regulations prescribed by the President" after "warrant procedures".
+<b>2016</b>—Subsecs. (a), (b)(1)(A), (c)(1)(A). Pub. L. 114–328 inserted "and, in the case of a court-martial or other proceeding under chapter 47 of title 10 (the Uniform Code of Military Justice), issued under section 846 of that title, in accordance with regulations prescribed by the President" after "warrant procedures".
 
 <b>2009</b>—Subsecs. (a), (b)(1)(A), (c)(1)(A). Pub. L. 111–79, which directed substitution of "(or, in the case of a State court, issued using State warrant procedures) by a court of competent jurisdiction" for "by a court with jurisdiction over the offense under investigation or an equivalent State warrant", was executed by making the substitution for "by a court with jurisdiction over the offense under investigation or equivalent State warrant" to reflect the probable intent of Congress.
 

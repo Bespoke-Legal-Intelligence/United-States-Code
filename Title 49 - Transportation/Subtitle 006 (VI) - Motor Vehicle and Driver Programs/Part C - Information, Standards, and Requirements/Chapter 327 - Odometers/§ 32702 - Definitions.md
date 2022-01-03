@@ -80,11 +80,15 @@ In clause (5), the words "the distance a motor vehicle is driven" are substitute
 
 This amends 49:32702(8) and 32705 to clarify the restatement of 15:1982(5) and 1988 by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1049).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Par. (5). Pub. L. 112–141, which directed insertion of "or system of components" after "instrument", was executed by making the insertion after "instrument" both places it appeared.
 
 <b>1996</b>—Par. (8). Pub. L. 104–287 inserted "any" after "or".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

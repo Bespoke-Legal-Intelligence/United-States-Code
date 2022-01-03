@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 5 years after October 30, 2020, and every 5 years thereafter, the Board shall submit to the appropriate congressional committees a report describing the progress of this chapter.
+&emsp;Not later than 5 years after October 30, 2020, and every 5 years thereafter, the Board shallsubmit to the appropriate congressional committees a report describing the progress of this chapter.
 
 #### (2) Contents
 

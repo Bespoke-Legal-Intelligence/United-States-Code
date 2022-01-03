@@ -52,6 +52,8 @@ Notwithstanding paragraphs (1) through (6) of subsection (b) or any other provis
 
 (Pub. L. 89–329, title IV, §421, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1353; amended Pub. L. 100–297, title II, §2601(a), Apr. 28, 1988, 102 Stat. 330; Pub. L. 100–369, §8, July 18, 1988, 102 Stat. 837; Pub. L. 102–325, title IV, §411(a)(2), (c), July 23, 1992, 106 Stat. 510, 511; Pub. L. 105–244, title IV, §411, Oct. 7, 1998, 112 Stat. 1673; Pub. L. 109–171, title VIII, §8004(a), Feb. 8, 2006, 120 Stat. 158; Pub. L. 110–227, §6(a), May 7, 2008, 122 Stat. 746; Pub. L. 111–152, title II, §2201, Mar. 30, 2010, 124 Stat. 1074.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Higher Education Amendments of 1986, referred to in subsec. (b), is Pub. L. 99–498, Oct. 17, 1986, 100 Stat. 1268. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
@@ -62,7 +64,7 @@ Another section 411 of Pub. L. 105–244 enacted subpart 8 (§1070f et seq.) of 
 
 #### Prior Provisions
 
-A prior section 1071, Pub. L. 89–329, title IV, §421, Nov. 8, 1965, 79 Stat. 1236; Pub. L. 90–460, §§2(b)(3), 3(a), Aug.3, 1968, 82 Stat. 635, 636; Pub. L. 90–575, title I, §§113(b)(1), 114(a), 119(b), Oct. 16, 1968, 82 Stat. 1021, 1027; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2099; Pub. L. 95–43, §1(a)(8)–(10), June 15, 1977, 91 Stat. 213; Pub. L. 96–374, title XIII, §1391(a)(1), (2), Oct. 3, 1980, 94 Stat. 1503; Pub. L. 98–79, §6, Aug. 15, 1983, 97 Stat. 482, related to statement of purpose of, appropriations for, and implementation of programs to provide low-interest insured loans to students in institutions of higher education, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1071, Pub. L. 89–329, title IV, §421, Nov. 8, 1965, 79 Stat. 1236; Pub. L. 90–460, §§2(b)(3), 3(a), Aug. 3, 1968, 82 Stat. 635, 636; Pub. L. 90–575, title I, §§113(b)(1), 114(a), 119(b), Oct. 16, 1968, 82 Stat. 1021, 1027; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2099; Pub. L. 95–43, §1(a)(8)–(10), June 15, 1977, 91 Stat. 213; Pub. L. 96–374, title XIII, §1391(a)(1), (2), Oct. 3, 1980, 94 Stat. 1503; Pub. L. 98–79, §6, Aug. 15, 1983, 97 Stat. 482,related to statement of purpose of, appropriations for, and implementation of programs to provide low-interest insured loans to students in institutions of higher education, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 
@@ -83,6 +85,8 @@ Subsec. (d). Pub. L. 102–325, §411(c), added subsec. (d).
 <b>1988</b>—Subsec. (c). Pub. L. 100–369 substituted "shall be referred" for "may be referred" and inserted provision identifying loans made under this part as "Stafford Loans".
 
 Pub. L. 100–297 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 
@@ -142,9 +146,9 @@ Effective Dates.—The changes made in part B of title IV of the Act \[20 U.S.C.
 
 &emsp;"(1) as otherwise provided in such part B;
 
-&emsp;"(2) the changes in sections 427(a)(2)(C) and 428(b)(1)(M) of the Act \[20 U.S.C. 1077(a)(2)(C), 1078(b)(1)(M)\] (other than clauses (viii), (ix), and (x) of each such section) shall apply only to loans to newborrowers that (A) are made to cover the cost of instruction for periods of enrollment beginning on or after July 1, 1987; or (B) are disbursed on or after July 1, 1987;
+&emsp;"(2) the changes in sections 427(a)(2)(C) and 428(b)(1)(M) of the Act \[20 U.S.C. 1077(a)(2)(C), 1078(b)(1)(M)\] (other than clauses (viii), (ix), and (x) of each such section) shall apply only to loans to new borrowers that (A) are made to cover the cost of instruction for periods of enrollment beginning on or after July 1, 1987; or (B) are disbursed on or after July 1, 1987;
 
-&emsp;"(3) the changes made in sections 425(a), 428(b)(1)(A), and 428(b)(1)(B) of the Act \[20 U.S.C. 1075(a), 1078(b)(1)(A), (B)\] shall apply with respect only to loans disbursed on or after January 1, 1987, or made to cover the costs of instruction for periods of enrollment beginning on or after January 1, 1987;
+&emsp;"(3) the changes made in sections 425(a), 428(b)(1)(A), and 428(b)(1)(B) of the Act \[20 U.S.C.1075(a), 1078(b)(1)(A), (B)\] shall apply with respect only to loans disbursed on or after January 1, 1987, or made to cover the costs of instruction for periods of enrollment beginning on or after January 1, 1987;
 
 &emsp;"(4) the changes made in subsections (a), (b), and (d) of section 433 of the Act \[20 U.S.C. 1083(a), (b), (d)\] shall apply with respect only to loans disbursed on or after January 1, 1987, or made to cover the costs of instruction for periods of enrollment beginning on or after January 1, 1987;
 

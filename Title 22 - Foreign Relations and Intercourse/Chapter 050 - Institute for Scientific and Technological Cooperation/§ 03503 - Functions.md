@@ -8,7 +8,7 @@ In carrying out its purposes, the Institute shall—
 
 &emsp;(2) support research, in the United States and in developing countries, on critical development problems, with emphasis on research relating to technologies which are labor-intensive or which do not generate additional unemployment or underemployment and with emphasis on those problems which are the greatest impediment to improvement in the lives of the majority of the poor;
 
-&emsp;(3) foster the exchange of scientists and other technological experts with developing countries, and other forms of exchange and communication to promote the joint solution of problems of mutual concern to the United States and developing countries;
+&emsp;(3) foster the exchange of scientists and other technological experts with developing countries, and other forms of exchange and communication to promote the joint solutionof problems of mutual concern to the United States and developing countries;
 
 &emsp;(4) advise and assist other agencies of the United States Government in planning and executing policies and programs of scientific and technological cooperation with developing countries;
 

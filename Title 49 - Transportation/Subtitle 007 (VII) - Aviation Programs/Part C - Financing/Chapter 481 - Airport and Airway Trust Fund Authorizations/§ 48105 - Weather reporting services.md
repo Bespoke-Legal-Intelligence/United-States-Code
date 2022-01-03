@@ -30,6 +30,8 @@ Sept. 3, 1982, Pub. L. 97–248, §506(d), 96 Stat. 678; Dec. 30, 1987, Pub. L. 
 
 The words "for fiscal years beginning after September 30, 1982" are omitted as obsolete. The words "Secretary of Commerce" are substituted for "National Oceanic and Atmospheric Administration" because of 15:1501. The words "The Federal Aviation Administration with" are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–254, §114(1), substituted "To sustain the aviation weather reporting programs of the Federal Aviation Administration, the Secretary of Transportation" for "To reimburse the Secretary of Commerce for the cost incurred by the National Oceanic and Atmospheric Administration of providing weather reporting services to the Federal Aviation Administration, the Secretary of Transportation" in introductory provisions.

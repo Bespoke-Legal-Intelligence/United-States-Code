@@ -30,7 +30,7 @@ An agreement described in subsection (a) may not—
 
 #### (c) Monitoring and reporting
 
-To ensure that any agreement described in subsection (a) complies with the requirements of this section and other applicable provisions of this chapter, the Assistant Secretary shall develop and implement uniform monitoring procedures and reporting requirements consistent with the provisions of subparagraphs (A) through (E) of section 3026(a)(13) of this title in consultation with the State agencies and area agencies on aging. The Assistant Secretary shall annually prepare and submit to the chairpersons and ranking members of the appropriate committees of Congress a report analyzing all such agreements, and the costs incurred and services provided under the agreements. This report shall contain information on the number of the agreements per State, summaries of all theagreements, and information on the type of organizations participating in the agreements, types of services provided under the agreements, and the net proceeds from, and documentation of funds spent and reimbursed, under the agreements.
+To ensure that any agreement described in subsection (a) complies with the requirements of this section and other applicable provisions of this chapter, the Assistant Secretary shall develop and implement uniform monitoring procedures and reporting requirements consistent with the provisions of subparagraphs (A) through (E) of section 3026(a)(13) of this title in consultation with the State agencies and area agencies on aging. The Assistant Secretary shall annually prepare and submit to the chairpersons and ranking members of the appropriate committees of Congress a report analyzing all such agreements, and the costs incurred and services provided under the agreements. This report shall contain information on the number of the agreements per State, summaries of all the agreements, and information on the type of organizations participating in the agreements, types of services provided under the agreements, and the net proceeds from, and documentation of funds spent and reimbursed, under the agreements.
 
 #### (d) Timely reimbursement
 
@@ -41,6 +41,8 @@ All reimbursements made under this section shall be made in a timely manner, acc
 In this section, the term "cost" means an expense, including an administrative expense, incurred by a recipient in developing or carrying out an agreement described in subsection (a), whether the recipient contributed funds, staff time, or other plant, equipment, or services to meet the expense.
 
 (Pub. L. 89–73, title II, §212, formerly §213, as added Pub. L. 95–478, title I, §102(i), Oct. 18, 1978, 92 Stat. 1516; amended Pub. L. 97–35, title VI, §606(c), Aug. 13, 1981, 95 Stat. 486; renumbered §212, Pub. L. 97–115, §2(e)(2), Dec. 29, 1981, 95 Stat. 1596; Pub. L. 100–175, title I, §107(c), Nov. 29, 1987, 101 Stat. 931; Pub. L. 103–171, §3(a)(4), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 109–365, title II, §207, Oct. 17, 2006, 120 Stat. 2536.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -55,6 +57,8 @@ A prior section 212 of Pub. L. 89–73 was renumbered section 211 and is classif
 <b>1987</b>—Pub. L. 100–175 inserted "(or in the case of a grantee under subchapter X of this chapter, subject to the recommendation of the Associate Commissioner on American Indian, Alaskan Native, and Native Hawaiian Aging and the approval of the Commissioner)" after "State agency".
 
 <b>1981</b>—Pub. L. 97–35 struck out provisions respecting demonstration of superiority by the organization.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1987 Amendment
 

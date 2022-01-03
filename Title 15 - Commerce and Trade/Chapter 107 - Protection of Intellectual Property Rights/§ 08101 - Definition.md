@@ -12,9 +12,13 @@ In this Act, the term "United States person" means—
 
 (Pub. L. 110–403, §3, Oct. 13, 2008, 122 Stat. 4257.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in text, is Pub. L. 110–403, Oct. 13, 2008, 122 Stat. 4256, known as the Prioritizing Resources and Organization for Intellectual Property Act of 2008, which enacted this chapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note below and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

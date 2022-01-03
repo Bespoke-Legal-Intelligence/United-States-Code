@@ -24,7 +24,7 @@ After consideration of a petition (and comments thereon) for an exemption for a 
 
 #### (e) Duration of temporary exemptions
 
-(1) Except as provided in paragraph (2), exemptions under this section for any powerplant may not exceed, taking into account any extension or renewal, 5 years.
+(1) Except as provided in paragraph (2), exemptions under this section for any powerplant maynot exceed, taking into account any extension or renewal, 5 years.
 
 (2)(A) An exemption under subsection (a)(1) may be granted for a period of more than 5 years, but may not exceed, taking into account any extension or renewal, 10 years.
 
@@ -33,6 +33,8 @@ After consideration of a petition (and comments thereon) for an exemption for a 
 (3) If an exemption is granted for any powerplant before the powerplant is placed in service, the period before it is placed in service shall not be taken into account in computing the 5-year and the 10-year limitations of paragraphs (1) and (2).
 
 (Pub. L. 95–620, title II, §211, Nov. 9, 1978, 92 Stat. 3299; Pub. L. 100–42, §1(c)(5), May 21, 1987, 101 Stat. 312.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -45,6 +47,8 @@ Subsec. (c). Pub. L. 100–42, §1(c)(5)(E), struck out subsec. (c) which read a
 Subsec. (d). Pub. L. 100–42, §1(c)(5)(E), struck out subsec. (d) which read as follows: "After consideration of a petition (and comments thereon) for an exemption from the prohibition of the use of petroleum under section 8312 of this title for an installation with a design capacity of consuming any fuel (or any mixture thereof) at a fuel heat input rate which does not exceed 300 million Btu's per hour, the Secretary may, by order, grant an exemption under this subsection for the use of petroleum if he finds that the petitioner has demonstrated, by the existence of binding contracts or other evidence, including appropriate State construction permits, that he will use coal or another alternate fuel for at least 75 percent of the annual fuel heat input rate upon the expiration of such exemption. For provisions relating to authority to receive, consider and granting (or denying) certain petitons \[sic\] for an exemption under this subsection, see section 902(b)."
 
 Subsec. (e)(1), (3). Pub. L. 100–42, §1(c)(5)(B), struck out "or installation" after "powerplant" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Exemption for Certain Electric Powerplants and Temporary Exemption Issued Under Subsection (d) as Effective Prior to 180 Days After November 9, 1978
 

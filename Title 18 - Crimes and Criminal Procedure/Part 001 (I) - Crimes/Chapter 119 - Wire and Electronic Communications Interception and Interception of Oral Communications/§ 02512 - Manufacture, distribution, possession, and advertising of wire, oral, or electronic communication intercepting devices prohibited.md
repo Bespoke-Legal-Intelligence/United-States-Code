@@ -20,7 +20,7 @@
 
 &emsp;(a) a provider of wire or electronic communication service or an officer, agent, or employee of, or a person under contract with, such a provider, in the normal course of the business of providing that wire or electronic communication service, or
 
-&emsp;(b) an officer, agent, or employee of, or a person under contract with, the United States, a State, or a political subdivision thereof, in the normal course of the activities of the United States, a State, or a political subdivision thereof,
+&emsp;(b) an officer, agent, or employee of, or a person under contract with, the United States, a State, or a political subdivision thereof, inthe normal course of the activities of the United States, a State, or a political subdivision thereof,
 
 > to send through the mail, send or carry in interstate or foreign commerce, or manufacture, assemble, possess, or sell any electronic, mechanical, or other device knowing or having reason to know that the design of such device renders it primarily useful for the purpose of the surreptitious interception of wire, oral, or electronic communications.
 

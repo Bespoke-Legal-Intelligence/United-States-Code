@@ -118,6 +118,8 @@ The Secretary shall permit producers on a farm to repay a marketing assistance l
 
 (Pub. L. 113–79, title I, §1204, Feb. 7, 2014, 128 Stat. 676; Pub. L. 115–334, title I, §§1201(b), 1202(b), Dec. 20, 2018, 132 Stat. 4509, 4510.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (e)(2)(B). Pub. L. 115–334, §1201(b)(1), substituted "2024" for "2019" in introductory provisions.

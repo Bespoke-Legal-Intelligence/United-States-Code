@@ -28,6 +28,8 @@ The word "otherwise" is omitted as surplus. The word "assigned" is omitted as be
 
 This amends 49:44937 to correct an error in the codification enacted by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1219).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–254 substituted "Administrator of the Transportation Security Administration" for "Under Secretary of Transportation for Security".
@@ -35,6 +37,8 @@ This amends 49:44937 to correct an error in the codification enacted by section 
 <b>2001</b>—Pub. L. 107–71 substituted "Under Secretary of Transportation for Security" for "Administrator of the Federal Aviation Administration".
 
 <b>1994</b>—Pub. L. 103–429 substituted "44906" for "44906(a)(1) or (b)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

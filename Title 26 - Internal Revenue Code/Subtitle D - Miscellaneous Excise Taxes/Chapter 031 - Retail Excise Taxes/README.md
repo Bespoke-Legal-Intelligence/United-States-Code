@@ -8,6 +8,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 The provisions of a prior chapter 31, Miscellaneous Excise Taxes, were set out as:
@@ -34,7 +36,7 @@ A prior section 4001, acts Aug. 16, 1954, ch. 736, 68A Stat. 473; Sept. 2, 1958,
 
 A prior section 4002, act Aug. 16, 1954, ch. 736, 68A Stat. 473, defined "articles sold at retail" to include articles sold at auction.
 
-A prior section 4003, acts Aug. 16, 1954, ch. 736, 68A Stat. 474; Sept. 2, 1958, Pub. L. 85–859, title I, §102, 72 Stat. 1276, specified exemptions to tax imposed by section 4001.
+A prior section 4003, acts Aug. 16, 1954, ch. 736, 68A Stat. 474; Sept. 2, 1958, Pub. L. 85–859, title I, §102, 72Stat. 1276, specified exemptions to tax imposed by section 4001.
 
 A prior section 4011, act Aug. 16, 1954, ch. 736, 68A Stat. 475, imposed an excise tax equivalent to 10 percent of selling price upon fur articles.
 

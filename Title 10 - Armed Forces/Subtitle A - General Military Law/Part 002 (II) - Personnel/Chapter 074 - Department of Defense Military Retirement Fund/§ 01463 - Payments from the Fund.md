@@ -8,13 +8,15 @@
 
 &emsp;(3) retainer pay payable to members of the Fleet Reserve and Fleet Marine Corps Reserve;
 
-&emsp;(4) benefits payable under programs under the jurisdiction of the Department of Defense and the Department of Homeland Security that that <sup>2</sup> provide annuities for survivors of members and former members of the armed forces, including chapter 73 of this title, section 4 of Public Law 92–425, and section 5 of Public Law 96–402; and
+&emsp;(4) benefits payable under programs under the jurisdiction of the Department of Defense and the Department of Homeland Security that provide annuities for survivors of members and former members of the armed forces, including chapter 73 of this title, section 4 of Public Law 92–425, and section 5 of Public Law 96–402; and
 
 &emsp;(5) amounts payable under section 1408(h) of this title.
 
 (b) The assets of the Fund are hereby made available for payments under subsection (a).
 
-(Added Pub. L. 98–94, title IX, §925(a)(1), Sept. 24, 1983, 97 Stat. 645; amended Pub. L. 101–189, div. A, title VI, §651(c), Nov. 29, 1989, 103 Stat. 1460; Pub. L. 102–484, div. A, title VI, §653(b)(2), Oct. 23, 1992, 106 Stat. 2428; Pub. L. 103–35, title II, §202(a)(4), May 31, 1993, 107 Stat. 101; Pub. L. 104–106, div. A, title XV, §1501(c)(18), Feb. 10, 1996, 110 Stat. 499; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title VI, §641(c)(2), Nov. 24, 2003, 117 Stat. 1515; Pub. L. 108–375, div. A, title X, §1084(d)(11), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 114–92, div. A, title VI, §633(a)(3), Nov. 25, 2015, 129 Stat. 850; Pub. L. 116–283, div. A, title IX,§924(b)(1)(L), div. G, title LVXXXII \[LXXXII\], §8223, Jan. 1, 2021, 134 Stat. 3820, 4658.)
+(Added Pub. L. 98–94, title IX, §925(a)(1), Sept. 24, 1983, 97 Stat. 645; amended Pub. L. 101–189, div. A, title VI, §651(c), Nov. 29, 1989, 103 Stat. 1460; Pub. L. 102–484, div. A, title VI, §653(b)(2), Oct. 23, 1992, 106 Stat. 2428; Pub. L. 103–35, title II, §202(a)(4), May 31, 1993, 107 Stat. 101; Pub. L. 104–106, div. A, title XV, §1501(c)(18), Feb. 10, 1996, 110 Stat. 499; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title VI, §641(c)(2), Nov. 24, 2003, 117 Stat. 1515; Pub. L. 108–375, div. A, title X, §1084(d)(11), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 114–92, div. A, title VI, §633(a)(3), Nov. 25, 2015, 129 Stat. 850; Pub. L. 116–283, div. A, title IX, §924(b)(1)(L), div. G, title LVXXXII \[LXXXII\], §8223, Jan. 1, 2021, 134 Stat. 3820, 4658; Pub. L. 117–81, div. A, title X, §1081(a)(17), Dec. 27, 2021, 135 Stat. 1920.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -30,7 +32,9 @@ Pub. L. 116–283, §924(b)(1)(L), substituted "Marine Corps, and Space Force" f
 
 Subsec. (a)(2). Pub. L. 116–283, §8223(2), struck out "(other than retired pay payable by the Secretary of Homeland Security)" after "armed forces".
 
-Subsec. (a)(4). Pub. L. 116–283, §8223(3), inserted "and the Department of Homeland Security that" after "Department of Defense".
+Subsec. (a)(4). Pub. L. 117–81 substituted "Homeland Security that provide" for "Homeland Security that that provide".
+
+Pub. L. 116–283, §8223(3), inserted "and the Department of Homeland Security that" after "Department of Defense".
 
 <b>2015</b>—Subsec. (a)(1). Pub. L. 114–92 substituted ", 1414, or 1415" for "or 1414".
 
@@ -47,6 +51,8 @@ Subsec. (a)(4). Pub. L. 116–283, §8223(3), inserted "and the Department of Ho
 <b>1992</b>—Subsec. (a). Pub. L. 102–484, as amended by Pub. L. 103–35, added par. (5).
 
 <b>1989</b>—Subsec. (a). Pub. L. 101–189 substituted "members" for "persons" in par. (1), added par. (2), and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment; Implementation
 
@@ -73,6 +79,4 @@ Amendment by Pub. L. 103–35 applicable as if included in the enactment of Pub.
 Pub. L. 98–94, title IX, §925(b)(2), Sept. 24, 1983, 97 Stat. 648, provided that: "Sections 1463 (relating to payments from the Fund) and 1466 (relating to payments to the Fund) of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1984."
 
 <i><sup>1</sup></i><i> See 2021 Amendment notes below.</i>
-
-<i><sup>2</sup></i><i> So in original.</i>
 

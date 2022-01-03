@@ -64,13 +64,13 @@ Elements of report.—To satisfy the requirements of paragraph (1)(B), a report 
 
 Definitions.—In this section:
 
-&emsp;(1) The term "covered military unit" means a unit of the armed forces whose initial assignment to a military installation or relocation from a military installation to a different military installation requires the preparation of an environmental impact statement in accordance with the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
+&emsp;(1) The term "covered military unit" means a unit of the armed forces whose initial assignment to a military installation or relocation from a military installation to a differentmilitary installation requires the preparation of an environmental impact statement in accordance with the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
 
 &emsp;(2) The term "major headquarters" means the headquarters of a military unit or command that is the appropriate command of a general officer or flag officer.
 
-&emsp;(3) The term "major weapon system" means a weapon system that is treatable as a major system under section 2302(5) of title.<sup>1</sup>
+&emsp;(3) The term "major weapon system" means a weapon system that is treatable as a major system under section 3041(a) and (b) of this title.
 
-&emsp;(4) The term "military installation" means a base, camp, post, station, yard, center,homeport facility for any ship, or other activity under the jurisdiction of the Department of Defense, including any leased facility, which is located within any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, or Guam. Such term does not include any facility used primarily for civil works, rivers and harbors projects, or flood control projects.
+&emsp;(4) The term "military installation" means a base, camp, post, station, yard, center, homeport facility for any ship, or other activity under the jurisdiction of the Department of Defense, including any leased facility, which is located within any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, or Guam. Such term does not include any facility used primarily for civil works, rivers and harbors projects, or flood control projects.
 
 &emsp;(5) The term "Secretary concerned" means—
 
@@ -78,11 +78,9 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) the Secretary of Defense with respect to matters concerning the Defense Agencies and the Joint Staff.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, §1883(b)(2), div. B, title XXVIII, §2871(b), Jan. 1, 2021, 134 Stat. 4294, 4363.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, §1883(b)(2), div. B, title XXVIII, §2871(b), Jan. 1, 2021, 134 Stat. 4294, 4363; Pub. L. 117–81, div. A, title X, §1081(a)(10), Dec. 27, 2021, 135 Stat. 1920.)
 
-#### Amendment of Section
-
-<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, except as otherwise provided in title XVIII of Pub. L. 116–283, in title 10, United States Code, each reference in the text of such title to a source section that is redesignated by title XVIII of Pub. L. 116–283, is amended by striking such reference and inserting a reference to the appropriate section as so redesignated. See 2021 Amendment note below.</i>
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -94,11 +92,13 @@ A prior section 483, added Pub. L. 105–85, div. A, title III, §323(a), Nov. 1
 
 #### Amendments
 
-<b>2021</b>—Subsec. (f)(3). Pub. L. 116–283, §1883(b)(2), substituted "section 3041 of this title" for "section 2302(5) of title".
+<b>2021</b>—Subsec. (f)(3). Pub. L. 117–81 inserted "this" before "title".
+
+Pub. L. 116–283, §1883(b)(2), which directed that each reference in the text of title 10 to a section that was redesignated by title XVIII of Pub. L. 116–283, as such section was in effect before the redesignation, be amended by striking such reference and inserting a reference to the appropriate redesignated section, was executed by substituting "section 3041(a) and (b) of this title" for "section 2302(5) of title". Section 1806(c)(2) of Pub. L. 116–283 first redesignated section 2302(5) of this title as section 3041(a) and subsequently designated the third sentence thereof as subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2021 Amendment
 
 Amendment by section 1883(b)(2) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be "of this title".</i>
 

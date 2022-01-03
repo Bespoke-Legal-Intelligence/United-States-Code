@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In order to preserve and protect for the education, inspiration, and enjoyment of present and future generations an outstanding example of a near-virgin southern hardwood forest situated in the Congaree River floodplain in Richland County, South Carolina, there is established the Congaree National Park (hereinafter referred to as the "park"). The park shall consist of the area within the boundary as generally depicted on the map entitled "Congaree Swamp National Monument", numbered CS–80, 001–B, and dated August 1976 (generally known as the Beidler Tract), which shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior. Following reasonable notice in writing to the Committees on Interior and Insular Affairs of the Senate and House of Representatives of his intention to do so, the Secretary of the Interior (hereinafter referred to as the "Secretary") may make minor revisions of the boundary of the park by publication of a revised map or other boundary description in the Federal Register.
+In order to preserve and protect for the education, inspiration, and enjoyment of present and future generations an outstanding example of a near-virgin southern hardwood forest situated in the Congaree River floodplain in Richland County, South Carolina, there is established the Congaree National Park (hereinafter referred to as the "park"). The park shall consist of the area within the boundary as generally depicted on the map entitled "Congaree SwampNational Monument", numbered CS–80, 001–B, and dated August 1976 (generally known as the Beidler Tract), which shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior. Following reasonable notice in writing to the Committees on Interior and Insular Affairs of the Senate and House of Representatives of his intention to do so, the Secretary of the Interior (hereinafter referred to as the "Secretary") may make minor revisions of the boundary of the park by publication of a revised map or other boundary description in the Federal Register.
 
 #### (b) Additional land
 
@@ -48,6 +48,8 @@ The total acreage of the park shall not exceed 26,776 acres.
 
 (Pub. L. 94–545, §1, Oct. 18, 1976, 90 Stat. 2517; Pub. L. 100–524, §5, Oct. 24, 1988, 102 Stat. 2607; Pub. L. 108–108, title I, §§135, 148, Nov. 10, 2003, 117 Stat. 1270, 1281; Pub. L. 108–199, div. H, §139(a), Jan. 23, 2004, 118 Stat. 442.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Hereinafter, referred to in subsec. (a), means Pub. L. 94–545, which is classified to this subchapter. For complete classification of Pub. L. 94–545 to the Code, see Tables.
@@ -68,13 +70,15 @@ Subsecs. (c), (d). Pub. L. 108–108, §148(2), added subsecs. (c) and (d).
 
 <b>1988</b>—Pub. L. 100–524 designated existing provisions as subsec. (a), struck out ", but the total area may not exceed fifteen thousand, two hundred acres" after "Federal Register", and added subsec. (b).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 "Congaree National Park", "park", and "Park" substituted in text for "Congaree Swamp National Monument", "monument", and "Monument", respectively, pursuant to Pub. L. 108–108, §135, which is set out below and which redesignated the Congaree Swamp National Monument as the Congaree National Park.
 
 Pub. L. 108–108, title I, §135, Nov. 10, 2003, 117 Stat. 1270, provided that: "Upon enactment of this Act, the Congaree Swamp National Monument shall be designated the Congaree National Park."
 
-Committee on Interior and Insular Affairs of the Senate abolished and replaced by Committee on Energy and Natural Resources of the Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of the Senate, asamended by Senate Resolution No. 4 (popularly cited as the "Committee System Reorganization Amendments of 1977"), approved Feb. 4, 1977.
+Committee on Interior and Insular Affairs of the Senate abolished and replaced by Committee on Energy and Natural Resources of the Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of the Senate, as amended by Senate Resolution No. 4 (popularly cited as the "Committee System Reorganization Amendments of 1977"), approved Feb. 4, 1977.
 
 Committee on Interior and Insular Affairs of House of Representatives changed to Committee on Natural Resources of House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
 

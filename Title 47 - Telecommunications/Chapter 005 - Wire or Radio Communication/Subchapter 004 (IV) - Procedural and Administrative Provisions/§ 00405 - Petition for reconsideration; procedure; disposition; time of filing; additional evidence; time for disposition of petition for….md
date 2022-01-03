@@ -20,7 +20,7 @@
 
 <b>1982</b>—Pub. L. 97–259 substituted "reconsideration" for "rehearing" wherever appearing and "the Commission gives public notice of the order, decision, report, or action complained of" for "public notice is given of orders disposing of all petitions for rehearing filed with the Commission in such proceeding or case, but any order, decision, report, or action made or taken after such rehearing reversing, changing, or modifying the original order shall be subject to the same provisions with respect to rehearing as an original order".
 
-<b>1961</b>—Pub. L. 87–192 provided for petition for rehearing to the authority making or taking the order, decision, report, or action, substituted references to report and action for requirement, wherever else appearing,and inserted references to proceeding by any designated authority within the Commission, wherever appearing.
+<b>1961</b>—Pub. L. 87–192 provided for petition for rehearing to the authority making or taking the order, decision, report, or action, substituted references to report and action for requirement, wherever else appearing, and inserted references to proceeding by any designated authority within the Commission, wherever appearing.
 
 <b>1960</b>—Pub. L. 86–752 substituted "any party" for "and party" in first sentence, and inserted sentence dealing with disposition of petitions for rehearing.
 

@@ -4,7 +4,7 @@
 
 In General.—Each State rail plan shall, at a minimum, contain the following:
 
-&emsp;(1) An inventory of the existing overall rail transportation system and rail services and facilities within the State and an analysis of the role of rail transportation within the State's surface transportation system.
+&emsp;(1) An inventory of the existing overall rail transportation system and rail services and facilities within the State and an analysis of therole of rail transportation within the State's surface transportation system.
 
 &emsp;(2) A review of all rail lines within the State, including proposed high-speed rail corridors and significant rail line segments not currently in service.
 
@@ -70,9 +70,13 @@ Considerations for project list.—In preparing the list of freight and intercit
 
 (Added Pub. L. 110–432, div. B, title III, §303(a), Oct. 16, 2008, 122 Stat. 4949; amended Pub. L. 114–94, div. A, title XI, §11315(a)(2), Dec. 4, 2015, 129 Stat. 1674.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>2015</b>—Subsec. (a)(12). Pub. L. 114–94 struck out par. (12) which read as follows: "A statement that the Stateis in compliance with the requirements of section 22102."
+<b>2015</b>—Subsec. (a)(12). Pub. L. 114–94 struck out par. (12) which read as follows: "A statement that the State is in compliance with the requirements of section 22102."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

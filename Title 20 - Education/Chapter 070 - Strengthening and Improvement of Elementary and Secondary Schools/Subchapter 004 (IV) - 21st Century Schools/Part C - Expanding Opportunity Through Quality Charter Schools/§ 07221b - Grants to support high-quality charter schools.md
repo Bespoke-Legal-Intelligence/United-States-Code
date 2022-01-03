@@ -40,7 +40,7 @@ From the amount available under section 7221a(b)(3) of this title, the Secretary
 
 #### (2) Contracts and grants
 
-&emsp;A State entity may use a grant received under this section to carry out the activities described in subsection (b)(2) directly or through grants, contracts, or cooperative agreements.
+&emsp;A State entity may use a grant received under this section to carry out the activities described in subsection (b)(2) directly orthrough grants, contracts, or cooperative agreements.
 
 #### (3) Rule of construction
 
@@ -144,7 +144,7 @@ A State entity desiring to receive a grant under this section shall submit an ap
 
 #### (1) Description of program
 
-&emsp;A description of the State entity's objectives in running a quality charter school programunder this section and how the objectives of the program will be carried out, including—
+&emsp;A description of the State entity's objectives in running a quality charter school program under this section and how the objectives of the program will be carried out, including—
 
 &emsp;&emsp;(A) a description of how the State entity will—
 
@@ -194,7 +194,7 @@ A State entity desiring to receive a grant under this section shall submit an ap
 
 &emsp;&emsp;&emsp;(xii)(I) in the case of a State entity not described in subclause (II), a description of how the State entity will provide oversight of authorizing activity, including how the State will help ensure better authorizing, such as by establishing authorizing standards that may include approving, monitoring, and re-approving or revoking the authority of an authorized public chartering agency based on the performance of the charter schools authorized by such agency in the areas of student achievement, student safety, financial and operational management, and compliance with all applicable statutes and regulations; and
 
-&emsp;&emsp;&emsp;(II) in the case of a State entity described in subsection (a)(4), a description of how the State entity will work with the State to support the State's system of technical assistance and oversight, as described in subclause (I), of the authorizing activity of authorized public chartering agencies; and
+&emsp;&emsp;&emsp;(II) in the case of a State entity described in subsection (a)(4), a description of how the State entity will work with theState to support the State's system of technical assistance and oversight, as described in subclause (I), of the authorizing activity of authorized public chartering agencies; and
 
 &emsp;&emsp;&emsp;(xiii) work with eligible applicants receiving a subgrant under the State entity's program to support the opening of new charter schools or charter school models described in clause (i) that are high schools;
 
@@ -254,7 +254,7 @@ A State entity desiring to receive a grant under this section shall submit an ap
 
 &emsp;&emsp;(F) the State entity will work to ensure that charter schools are included with the traditional public schools in decisionmaking about the public school system in the State; and
 
-&emsp;&emsp;(G) the State entity will ensure that each charter school receiving funds under the State entity's program makes publicly available, consistent with the dissemination requirements of the annual State reportcard under section 6311(h) of this title, including on the website of the school, information to help parents make informed decisions about the education options available to their children, including—
+&emsp;&emsp;(G) the State entity will ensure that each charter school receiving funds under the State entity's program makes publicly available, consistent with the dissemination requirements of the annual State report card under section 6311(h) of this title, including on the website of the school, information to help parents make informed decisions about the education options available to their children, including—
 
 &emsp;&emsp;&emsp;(i) information on the educational program;
 
@@ -328,7 +328,7 @@ A State entity desiring to receive a grant under this section shall submit an ap
 
 &emsp;&emsp;(D) The State entity is located in a State that uses best practices from charter schools to help improve struggling schools and local educational agencies.
 
-&emsp;&emsp;(E) The State entity supports charter schools that serve at-risk students through activities such as dropout prevention, dropout recovery, or comprehensive career counseling services.
+&emsp;&emsp;(E) The State entity supports charter schools that serve at-risk students throughactivities such as dropout prevention, dropout recovery, or comprehensive career counseling services.
 
 &emsp;&emsp;(F) The State entity has taken steps to ensure that all authorizing public chartering agencies implement best practices for charter school authorizing.
 
@@ -380,11 +380,15 @@ Each State entity receiving a grant under this section shall submit to the Secre
 
 (Pub. L. 89–10, title IV, §4303, as added Pub. L. 114–95, title IV, §4301(1), Dec. 10, 2015, 129 Stat. 1995.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 7221b, Pub. L. 89–10, title IV, §4303, formerly title V, §5203, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1790; renumbered title IV, §4303, Pub. L. 114–95, title IV, §4001(b)(2)(A), (B), (D)(iii), Dec. 10, 2015, 129 Stat. 1967, related to applications from State agencies, prior to repeal by Pub. L. 114–95, §5, title IV, §4301(1), Dec. 10, 2015, 129 Stat. 1806, 1993, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
 
 A prior section 4303 of Pub. L. 89–10 was renumbered section 8573, and is classified to section 7973 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -14,7 +14,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to the extent of amounts made available in appropriations Acts, a grantmade for purposes of this paragraph to an eligible area shall be made in an amount equal to the product of—
+&emsp;&emsp;Subject to the extent of amounts made available in appropriations Acts, a grant made for purposes of this paragraph to an eligible area shall be made in an amount equal to the product of—
 
 &emsp;&emsp;&emsp;(i) an amount equal to the amount available for distribution under paragraph (2) for the fiscal year involved; and
 
@@ -76,7 +76,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) fiscal year 2007 was the first year in which the count of living non-AIDS cases of HIV in such area, for purposes of this section, was based on a names-based reporting system; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) the amount of funding that such area received under this part for fiscalyear 2007 was less than 70 percent of the amount of funding (exclusive of funds that were identified as being for purposes of the Minority AIDS Initiative) that such area received under such part for fiscal year 2006.
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) the amount of funding that such area received under this part for fiscal year 2007 was less than 70 percent of the amount of funding (exclusive of funds that were identified as being for purposes of the Minority AIDS Initiative) that such area received under such part for fiscal year 2006.
 
 #### (vii) Multiple political jurisdictions
 
@@ -120,7 +120,7 @@
 
 &emsp;&emsp;&emsp;For each of the fiscal years 2007 through 2012, if code-based reporting (within the meaning of subparagraph (C)(vi)) applies in an eligible area or any portion thereof as of the beginning of the fiscal year involved, then notwithstanding any other provision of this paragraph, the amount of the grant pursuant to this paragraph for such area for such fiscal year may not—
 
-&emsp;&emsp;&emsp;&emsp;(I) for fiscal year 2007, exceed by more than 5 percent the amount of the grant for the area that would have been made pursuant to this paragraph and paragraph (4) for fiscal year 2006 (as such paragraphs were in effect for such fiscal year) if paragraph (2) (as so in effect) had been applied by substituting "662/3 percent" for "50 percent"; and
+&emsp;&emsp;&emsp;&emsp;(I) for fiscal year 2007, exceed by more than 5 percent the amount of the grant for the area that would have been made pursuant to this paragraph and paragraph (4) for fiscal year 2006 (as such paragraphs were in effect for such fiscal year) if paragraph (2) (as so in effect) hadbeen applied by substituting "662/3 percent" for "50 percent"; and
 
 &emsp;&emsp;&emsp;&emsp;(II) for each of the fiscal years 2008 through 2012, exceed by more than 5 percent the amount of the grant pursuant to this paragraph and paragraph (4) for the area for the preceding fiscal year.
 
@@ -258,7 +258,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Effective for fiscal year 2007 and subsequent fiscal years, if a grant award made pursuant to subsection (a) for an eligible area for a fiscal year has an unobligated balance as of the end of the grant year for the award, the Secretary shall cancel that unobligated balance of the award, and shall require the eligible area to return any amounts from such balance that have been disbursed to the area, unless—
+&emsp;&emsp;Effective for fiscal year 2007 and subsequent fiscal years, if a grant award madepursuant to subsection (a) for an eligible area for a fiscal year has an unobligated balance as of the end of the grant year for the award, the Secretary shall cancel that unobligated balance of the award, and shall require the eligible area to return any amounts from such balance that have been disbursed to the area, unless—
 
 &emsp;&emsp;&emsp;(i) before the end of the grant year, the chief elected official of the area submits to the Secretary a written application for a waiver of the cancellation, which application includes a description of the purposes for which the area intends to expend the funds involved; and
 
@@ -315,6 +315,8 @@ Not later than 45 days after the awarding of supplemental funds under this secti
 &emsp;(5) the rationale used for the amount of funds disbursed as described under paragraphs (2), (3), and (4).
 
 (July 1, 1944, ch. 373, title XXVI, §2603, as added Pub. L. 101–381, title I, §101(3), Aug. 18, 1990, 104 Stat. 578; amended Pub. L. 101–502, §6(a), Nov. 3, 1990, 104 Stat. 1289; Pub. L. 102–531, title III, §312(d)(27), Oct. 27, 1992, 106 Stat. 3506; Pub. L. 104–146, §§3(b)(2), (3), 4, 6(c)(1), 12(c)(2), May 20, 1996, 110 Stat. 1349, 1350, 1364, 1367, 1373; Pub. L. 106–345, title I, §§102(d), 111, 112, Oct. 20, 2000, 114 Stat. 1323, 1326; Pub. L. 109–415, title I, §§102–104, 107(b), title VII, §§702(3), 703, Dec. 19, 2006, 120 Stat. 2768–2774, 2783, 2820; Pub. L. 111–87, §§2(a)(1), (3)(A), 3(a), 5(a), 6(b), 7(a), 8(a)(1), (b)(1)(A), (2)(A), (C), (c)(1), Oct. 30, 2009, 123 Stat. 2885, 2888, 2890, 2892–2894.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -520,7 +522,9 @@ Amount relating to per capita incidence of cases.—The amount referred to in cl
 
 &emsp;&emsp;"(I) the per capita incidence of cumulative cases of acquired immune deficiency syndrome in the eligible area involved (computed on the basis of the most recently available data on the population of the area); to
 
-&emsp;&emsp;"(II) the per capita incidence of such cumulative cases in all eligible areas for which an applicationfor a grant under paragraph (1) has been approved (computed on the basis of the most recently available data on the population of such areas)."
+&emsp;&emsp;"(II) the per capita incidence of such cumulative cases in all eligible areas for which an application for a grant under paragraph (1) has been approved (computed on the basis of the most recently available data on the population of such areas)."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment; Revival of Section
 

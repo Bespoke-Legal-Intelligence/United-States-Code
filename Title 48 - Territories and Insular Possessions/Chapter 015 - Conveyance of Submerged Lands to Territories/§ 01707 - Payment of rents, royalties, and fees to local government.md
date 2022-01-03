@@ -4,6 +4,8 @@ On and after the date of enactment of this Act, all rents, royalties, or fees fr
 
 (Pub. L. 93–435, §4, Oct. 5, 1974, 88 Stat. 1212.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Date of enactment, referred to in text, is the date of enactment of Pub. L. 93–435, which was approved Oct. 5, 1974.
@@ -11,6 +13,8 @@ Date of enactment, referred to in text, is the date of enactment of Pub. L. 93�
 This Act, referred to in text, is Pub. L. 93–435, Oct. 5, 1974, 88 Stat. 1210, which enacted sections 1705 to 1708 of this title, amended section 1545 of this title, and repealed sections 1701 to 1703 of this title. For complete classification of this Act to the Code, see Tables.
 
 The amendment made by this Act, referred to in text, means the amendment made by section 3 of Pub. L. 93–435 to section 1545(b) of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### References to "Date of Enactment"
 

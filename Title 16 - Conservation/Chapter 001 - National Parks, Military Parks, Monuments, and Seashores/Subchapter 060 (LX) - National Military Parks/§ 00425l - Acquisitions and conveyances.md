@@ -16,7 +16,7 @@
 
 #### (c) Alternative access
 
-In order to facilitate the acquisition by the United States of existing easements or rights of access across Federal lands within the park and to provide the owners of such easements or rights of access with alternative rights of access across nonpark lands, the Secretary may acquire, by donation, purchase with donated or appropriated funds, or exchange, interests in land of similar estate across lands which are not within the park. With or without the acceptance of payment of cash to equalize the values of the properties, the Secretary may convey such nonpark lands or interests in lands to the holders of such existing easements or rights of access across Federal lands within the park in exchange for their conveyance to the United States of such easements or rights. Nothing in sections 425k to 425o of this title shall prohibit the Secretary from acquiring any outstanding easements or rights of access across Federal lands by donation, purchase with donated or appropriated funds or by exchange.
+In order to facilitate the acquisition by the United States of existing easements or rights ofaccess across Federal lands within the park and to provide the owners of such easements or rights of access with alternative rights of access across nonpark lands, the Secretary may acquire, by donation, purchase with donated or appropriated funds, or exchange, interests in land of similar estate across lands which are not within the park. With or without the acceptance of payment of cash to equalize the values of the properties, the Secretary may convey such nonpark lands or interests in lands to the holders of such existing easements or rights of access across Federal lands within the park in exchange for their conveyance to the United States of such easements or rights. Nothing in sections 425k to 425o of this title shall prohibit the Secretary from acquiring any outstanding easements or rights of access across Federal lands by donation, purchase with donated or appropriated funds or by exchange.
 
 #### (d) Conservation easements
 
@@ -27,6 +27,8 @@ The Secretary is authorized to accept donations of conservation easements on lan
 Within the area bounded by the Orange Turnpike, the Orange Plank Road, and McLaws Drive no improved property (as defined in section 425m of this title) may be acquired without the consent of the owner thereof unless the Secretary determines that, in his judgment, the property is subject to, or threatened with, uses which are having, or would have, an adverse impact on the park.
 
 (Pub. L. 101–214, §3, Dec. 11, 1989, 103 Stat. 1849; Pub. L. 106–150, §1(b)(1), Dec. 9, 1999, 113 Stat. 1730.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

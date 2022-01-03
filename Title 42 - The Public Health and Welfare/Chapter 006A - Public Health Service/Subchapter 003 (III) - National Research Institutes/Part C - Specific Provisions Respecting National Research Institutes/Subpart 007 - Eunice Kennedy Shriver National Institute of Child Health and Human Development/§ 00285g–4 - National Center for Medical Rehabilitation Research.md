@@ -100,7 +100,7 @@ The general purpose of the Center is the conduct, support, and coordination of r
 
 #### (g) Review and coordination of medical rehabilitation research programs
 
-(1) The Secretary and the heads of other Federal agencies shall jointly review the programs carried out (or proposed to be carried out) by each such official with respect to medical rehabilitation research and, as appropriate, enter into agreements preventing duplication among such programs.
+(1) The Secretary and the heads of other Federal agencies shall jointly review the programscarried out (or proposed to be carried out) by each such official with respect to medical rehabilitation research and, as appropriate, enter into agreements preventing duplication among such programs.
 
 (2) The Secretary shall, as appropriate, enter into interagency agreements relating to the coordination of medical rehabilitation research conducted by agencies of the National Institutes of Health and other agencies of the Federal Government.
 
@@ -109,6 +109,8 @@ The general purpose of the Center is the conduct, support, and coordination of r
 For purposes of this section, the term "medical rehabilitation research" means the science of mechanisms and interventions that prevent, improve, restore, or replace lost, underdeveloped, or deteriorating function.
 
 (July 1, 1944, ch. 373, title IV, §452, as added Pub. L. 101–613, §3(a), Nov. 16, 1990, 104 Stat. 3227; amended Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 109–482, title I, §102(f)(1)(B), Jan. 15, 2007, 120 Stat. 3685; Pub. L. 114–255, div. A, title II, §2040(a), (b)(1), Dec. 13, 2016, 130 Stat. 1069, 1070.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -126,7 +128,7 @@ Subsec. (b). Pub. L. 114–255, §2040(a)(1), substituted "conduct, support, and
 
 Subsec. (c)(1)(C). Pub. L. 114–255, §2040(a)(2), substituted "within the Center" for "of the Center".
 
-Subsec. (d)(1). Pub. L. 114–255, §2040(a)(3)(A), added par. (1) and struck out former par. (1), which read asfollows: "In consultation with the Director of the Center, the coordinating committee established under subsection (e), and the advisory board established under subsection (f), the Director of the Institute shall develop a comprehensive plan for the conduct and support of medical rehabilitation research (hereafter in this section referred to as the 'Research Plan')."
+Subsec. (d)(1). Pub. L. 114–255, §2040(a)(3)(A), added par. (1) and struck out former par. (1), which read as follows: "In consultation with the Director of the Center, the coordinating committee established under subsection (e), and the advisory board established under subsection (f), the Director of the Institute shall develop a comprehensive plan for the conduct and support of medical rehabilitation research (hereafter in this section referred to as the 'Research Plan')."
 
 Subsec. (d)(2)(C). Pub. L. 114–255, §2040(a)(3)(B), added subpar. (C).
 
@@ -145,6 +147,8 @@ Subsecs. (g), (h). Pub. L. 114–255, §2040(a)(6), added subsecs. (g) and (h).
 <b>2007</b>—Subsec. (c)(1)(E)(i). Pub. L. 109–482 substituted "section 282(b)(16)" for "section 282(b)(6)".
 
 <b>1992</b>—Subsec. (f)(3)(B)(xi). Pub. L. 102–405 substituted "Under Secretary for Health of the Department of Veterans Affairs" for "Chief Medical Director of the Department of Veterans Affairs".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

@@ -28,6 +28,8 @@ Subject to the provisions of subsection (b), the Administrator—
 
 (July 1, 1944, ch. 373, title XIV, §1451, as added Pub. L. 99–339, title III, §302(a), June 19, 1986, 100 Stat. 665; amended Pub. L. 104–182, title V, §501(f)(6), Aug. 6, 1996, 110 Stat. 1692.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–182 made technical amendment to section catchline and subsec. (a) designation.

@@ -18,13 +18,15 @@ The Congress finds that—
 
 &emsp;(7) these institutions play an important role in the American system of higher education, and there is a strong national interest in assisting them in solving their problems and in stabilizing their management and fiscal operations, and in becoming financially independent; and
 
-&emsp;(8) there is a particular national interest in aiding those institutions of higher education that have historically served students who have been denied access to postsecondary education because of race or national origin andwhose participation in the American system of higher education is in the Nation's interest so that equality of access and quality of postsecondary education opportunities may be enhanced for all students.
+&emsp;(8) there is a particular national interest in aiding those institutions of higher education that have historically served students who have been denied access to postsecondary education because of race or national origin and whose participation in the American system of higher education is in the Nation's interest so that equality of access and quality of postsecondary education opportunities may be enhanced for all students.
 
 #### (b) Purpose
 
 It is the purpose of this subchapter to assist such institutions in equalizing educational opportunity through a program of Federal assistance.
 
 (Pub. L. 89–329, title III, §301, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1290; amended Pub. L. 102–325, title III, §301, July 23, 1992, 106 Stat. 472; Pub. L. 103–208, §2(a)(4), Dec. 20, 1993, 107 Stat. 2457; Pub. L. 105–244, title III, §302, Oct. 7, 1998, 112 Stat. 1637.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -55,6 +57,8 @@ Section 1056, Pub. L. 89–329, title III, §306, as added Pub L. 90–575, titl
 Subsec. (a)(2). Pub. L. 102–325, §301(2), struck out "recruitment activities," after "long-range planning,".
 
 Subsec. (a)(5). Pub. L. 102–325, §301(3), amended par. (5) generally. Prior to amendment, par. (5) read as follows: "providing a minimum level of assistance to all categories of eligible institutions will assure the continued participation of the institutions in the program established in this subchapter and enhance their role in providing access and quality education to low-income and minority students;".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

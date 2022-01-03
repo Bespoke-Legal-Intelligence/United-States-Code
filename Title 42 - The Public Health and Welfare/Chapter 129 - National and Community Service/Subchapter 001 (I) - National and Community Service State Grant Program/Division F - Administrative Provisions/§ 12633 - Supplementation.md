@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Assistance provided under this subchapter shall be used to supplement the level of State and local public funds expended for services of the type assisted under this subchapter in the previous fiscal year.
+Assistance provided under this subchapter shall be used to supplement the level of Stateand local public funds expended for services of the type assisted under this subchapter in the previous fiscal year.
 
 #### (b) Aggregate expenditure
 

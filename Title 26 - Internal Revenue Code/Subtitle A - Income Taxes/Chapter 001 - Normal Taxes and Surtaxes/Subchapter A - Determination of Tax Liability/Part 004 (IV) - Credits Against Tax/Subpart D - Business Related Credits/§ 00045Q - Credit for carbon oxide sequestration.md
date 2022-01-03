@@ -20,7 +20,7 @@ For purposes of section 38, the carbon oxide sequestration credit for any taxabl
 
 &emsp;(3) the applicable dollar amount (as determined under subsection (b)(1)) per metric ton of qualified carbon oxide which is—
 
-&emsp;&emsp;(A) captured by the taxpayer using carbon capture equipment which is originally placed in service at a qualified facility on or after the date of the enactment of the Bipartisan Budget Act of 2018, during the 12-year period beginning on the date the equipment was originally placed in service, and
+&emsp;&emsp;(A) captured by the taxpayer using carbon capture equipment which is originally placed in service at a qualified facility on or after the date of the enactment of the Bipartisan Budget Act of 2018, during the 12-yearperiod beginning on the date the equipment was originally placed in service, and
 
 &emsp;&emsp;(B) disposed of by the taxpayer in secure geological storage and not used by the taxpayer as described in paragraph (4)(B), and
 
@@ -240,6 +240,16 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the inflation adjustment factor for such calendar year determined under section 43(b)(3)(B) for such calendar year, determined by substituting "2008" for "1990".
 
+#### (3) <sup>1</sup> Credit reduced for certain tax-exempt bonds
+
+&emsp;The amount of the credit determined under subsection (a) with respect to any project for any taxable year shall be reduced by the amount which is the product of the amount so determined for such year and the lesser of ½ or a fraction—
+
+&emsp;&emsp;(A) the numerator of which is the sum, for the taxable year and all prior taxable years, of the proceeds from an issue described in section 142(a)(17) used to provide financing for the project the interest on which is exempt from tax under section 103, and
+
+&emsp;&emsp;(B) the denominator of which is the aggregate amount of additions to the capital account for the project for the taxable year and all prior taxable years.
+
+> &emsp;The amounts under the preceding sentence for any taxable year shall be determined as of the close of the taxable year.
+
 #### (g) Application of section for certain carbon capture equipment
 
 In the case of any carbon capture equipment placed in service before the date of the enactment of the Bipartisan Budget Act of 2018, the credit under this section shall apply with respect to qualified carbon oxide captured using such equipment before the end of the calendar year in which the Secretary, in consultation with the Administrator of the Environmental Protection Agency, certifies that, during the period beginning after October 3, 2008, a total of 75,000,000 metric tons of qualified carbon oxide have been taken into account in accordance with—
@@ -256,17 +266,21 @@ The Secretary may prescribe such regulations and other guidance as may be necess
 
 &emsp;(2) determine whether a facility satisfies the requirements under subsection (d)(1) during such taxable year.
 
-(Added Pub. L. 110–343, div. B, title I, §115(a), Oct. 3, 2008, 122 Stat. 3829; amended Pub. L. 111–5, div. B, title I, §1131(a), (b), Feb. 17, 2009, 123 Stat. 325; Pub. L. 113–295, div. A, title II, §209(j)(1), Dec. 19, 2014, 128 Stat. 4030; Pub. L. 115–123, div. D, title II, §41119(a), Feb. 9, 2018, 132 Stat. 162; Pub. L. 116–260, div. EE, title I, §121, Dec. 27, 2020, 134 Stat. 3051.)
+(Added Pub. L. 110–343, div. B, title I, §115(a), Oct. 3, 2008, 122 Stat. 3829; amended Pub. L. 111–5, div. B, title I, §1131(a), (b), Feb. 17, 2009, 123 Stat. 325; Pub. L. 113–295, div. A, title II, §209(j)(1), Dec. 19, 2014, 128 Stat. 4030; Pub. L. 115–123, div. D, title II, §41119(a), Feb. 9, 2018, 132 Stat. 162; Pub. L. 116–260, div. EE, title I, §121, Dec. 27, 2020, 134 Stat. 3051; Pub. L. 117–58, div. H, title IV, §80402(e), Nov. 15, 2021, 135 Stat. 1334.)
 
 #### Inflation Adjusted Items for Certain Tax Years
 
 <i>For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 The date of the enactment of the Bipartisan Budget Act of 2018 and the date of the enactment of such Act, referred to in text, is the date of enactment of Pub. L. 115–123, which was approved Feb. 9, 2018.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (f)(3). Pub. L. 117–58 added par. (3) relating to certain tax-exempt bonds at end of subsec. (f).
 
 <b>2020</b>—Subsec. (d)(1). Pub. L. 116–260 substituted "January 1, 2026" for "January 1, 2024" in introductory provisions.
 
@@ -281,6 +295,12 @@ Subsec. (a)(2)(C). Pub. L. 111–5, §1131(a), added subpar. (C).
 Subsec. (d)(2). Pub. L. 111–5, §1131(b)(1), inserted "the Secretary of Energy, and the Secretary of the Interior," after "Environmental Protection Agency" and substituted "paragraph (1)(B) or (2)(C) of subsection (a)" for "subsection (a)(1)(B)" and ", oil and gas reservoirs, and unminable coal seams" for "and unminable coal seems".
 
 Subsec. (e). Pub. L. 111–5, §1131(b)(3), substituted "taken into account in accordance with subsection (a)" for "captured and disposed of or used as a tertiary injectant".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Pub. L. 117–58, div. H, title IV, §80402(f), Nov. 15, 2021, 135 Stat. 1334, provided that: "The amendments made by this section \[amending this section and sections 141, 142, and 146 of this title\] shall apply to obligations issued after December 31, 2021."
 
 #### Effective Date of 2018 Amendment
 
@@ -301,6 +321,8 @@ Section applicable to carbon dioxide captured after Oct. 3, 2008, see section 11
 #### Inflation Adjusted Items for Certain Years
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+<b>2021</b>—Internal Revenue Notice 2021–35.
 
 <b>2020</b>—Internal Revenue Notice 2020–40.
 
@@ -323,4 +345,6 @@ Provisions relating to inflation adjustment of items in this section for certain
 <b>2011</b>—Internal Revenue Notice 2011–50.
 
 <b>2010</b>—Internal Revenue Notice 2010–75.
+
+<i><sup>1</sup></i><i> So in original. Probably should be "(8)".</i>
 

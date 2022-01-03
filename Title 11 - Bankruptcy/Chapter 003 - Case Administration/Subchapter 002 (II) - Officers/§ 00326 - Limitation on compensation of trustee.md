@@ -8,7 +8,7 @@
 
 (d) The court may deny allowance of compensation for services or reimbursement of expenses of the trustee if the trustee failed to make diligent inquiry into facts that would permit denial of allowance under section 328(c) of this title or, with knowledge of such facts, employed a professional person under section 327 of this title.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2562; Pub. L. 98–353, title III, §430(a), (b), July 10, 1984, 98 Stat.369; Pub. L. 99–554, title II, §209, Oct. 27, 1986, 100 Stat. 3098; Pub. L. 103–394, title I, §107, Oct. 22, 1994, 108 Stat. 4111; Pub. L. 116–54, §4(a)(4), Aug. 23, 2019, 133 Stat. 1085.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2562; Pub. L. 98–353, title III, §430(a), (b), July 10, 1984, 98 Stat. 369; Pub. L. 99–554, title II, §209, Oct. 27, 1986, 100 Stat. 3098; Pub. L. 103–394, title I, §107, Oct. 22, 1994, 108 Stat. 4111; Pub. L. 116–54, §4(a)(4), Aug. 23, 2019, 133 Stat. 1085.)
 
 #### Historical and Revision Notes
 
@@ -70,7 +70,7 @@ Effective date and applicability of amendment by Pub. L. 99–554 dependent upon
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
 #### References in Subsection (b) Temporarily Deemed To Include Additional References
 

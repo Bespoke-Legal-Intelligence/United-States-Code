@@ -10,15 +10,19 @@ The Secretary of State, in consultation with the Secretary and the Secretary of 
 
 (Pub. L. 94–70, §5, Aug. 5, 1975, 89 Stat. 386; Pub. L. 104–43, title III, §303(3), Nov. 3, 1995, 109 Stat. 384; Pub. L. 105–384, title II, §202(b)(1)(B), Nov. 13, 1998, 112 Stat. 3452.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Subsec. (b). Pub. L. 105–384 directed amendment identical to amendment by Pub. L. 104–43. See 1995 Amendment note below.
 
 <b>1995</b>—Subsec. (b). Pub. L. 104–43 substituted "exclusive economic zone" for "fisheries zone" after "territorial seas or" in third sentence.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Management of Atlantic Yellowfin Tuna
 

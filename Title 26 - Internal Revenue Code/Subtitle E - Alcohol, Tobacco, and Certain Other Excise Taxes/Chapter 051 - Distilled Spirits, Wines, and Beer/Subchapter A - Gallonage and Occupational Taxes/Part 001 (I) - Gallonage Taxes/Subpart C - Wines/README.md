@@ -10,6 +10,8 @@ Subpart C—Wines
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior subpart C, comprising sections 5041 to 5045, related to wines, prior to the general revision of this chapter by Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1313.

@@ -18,7 +18,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;&emsp;(E) establishing or strengthening key elements of a social safety net to cushion the effects on workers of unemployment and dislocation; and
 
-&emsp;&emsp;(F) encouraging the opening of markets for agricultural commodities and products by requiring recipient countries to make efforts to reduce trade barriers.
+&emsp;&emsp;(F) encouraging the opening of markets for agricultural commodities and products byrequiring recipient countries to make efforts to reduce trade barriers.
 
 &emsp;(3) Vigorously promote policies to increase the effectiveness of the International Monetary Fund, in concert with appropriate international authorities and other international financial institutions (as defined in section 262r(c)(2) of this title), in strengthening financial systems in developing countries, and encouraging the adoption of sound banking principles and practices, including the development of laws and regulations that will help to ensure that domestic financial institutions meet strong standards regarding capital reserves, regulatory oversight, and transparency.
 
@@ -58,7 +58,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;(10) Vigorously promote International Monetary Fund programs and assistance that are structured to the maximum extent feasible to discourage practices which may promote ethnic or social strife in a recipient country.
 
-&emsp;(11) Vigorously promote recognition by the International Monetary Fund that macroeconomic developments and policies can affect and be affected by environmental conditions and policies, and urge the International Monetary Fund to encourage member countries to pursue macroeconomic stability while promoting environmental protection.
+&emsp;(11) Vigorously promote recognition by the International Monetary Fund that macroeconomic developments and policies can affectand be affected by environmental conditions and policies, and urge the International Monetary Fund to encourage member countries to pursue macroeconomic stability while promoting environmental protection.
 
 &emsp;(12) Facilitate greater International Monetary Fund transparency, including by enhancing accessibility of the International Monetary Fund and its staff, fostering a more open release policy toward working papers, past evaluations, and other International Monetary Fund documents, seeking to publish all Letters of Intent to the International Monetary Fund and Policy Framework Papers, and establishing a more open release policy regarding Article IV consultations.
 
@@ -94,7 +94,7 @@ To the extent that it would assist in achieving the goals described in subsectio
 
 #### Annual Report on Lending, Surveillance, or Technical Assistance Policies of the International Monetary Fund
 
-Pub. L. 114–113, div. K, title IX, §9006, Dec. 18, 2015, 129 Stat. 2832, provided that: "Not later than one year afterthe date of the enactment of this Act \[Dec. 18, 2015\], and annually thereafter until 2025, the Secretary of the Treasury shall submit to the Committees on Appropriations and Foreign Relations of the Senate and the Committees on Appropriations and Financial Services of the House of Representatives a written report that includes—
+Pub. L. 114–113, div. K, title IX, §9006, Dec. 18, 2015, 129 Stat. 2832, provided that: "Not later than one year after the date of the enactment of this Act \[Dec. 18, 2015\], and annually thereafter until 2025, the Secretary of the Treasury shall submit to the Committees on Appropriations and Foreign Relations of the Senate and the Committees on Appropriations and Financial Services of the House of Representatives a written report that includes—
 
 &emsp;"(1) a description of any changes in the policies of the International Monetary Fund (the Fund) with respect to lending, surveillance, or technical assistance;
 
@@ -118,7 +118,7 @@ Report to the Congress Showing Costs of United States Participation in the Inter
 
 "(c)
 
-Continuation of Forgoing of Reimbursement of IMF for Expenses of Administering ESAF.—The Secretary of the Treasury shall instruct the United States Executive Director at the International Monetary Fund to use the voice, vote, and influence of the United States to urge vigorously the International Monetary Fund to continue to forgo reimbursements of the expenses incurred by the International Monetary Fund in administering the Enhanced Structural Adjustment Facility, until the Heavily Indebted Poor Countries Initiative (as defined in section 1623 of the International Financial Institutions Act \[22 U.S.C. 262p–6\]) is terminated.
+Continuation of Forgoing of Reimbursement of IMF for Expenses of Administering ESAF.—The Secretary of the Treasury shall instruct the United States Executive Director at the International Monetary Fund to use the voice, vote, and influence of the United States to urge vigorously the International Monetary Fund to continue to forgo reimbursements of the expenses incurred by the International Monetary Fund in administering the Enhanced Structural Adjustment Facility, until the Heavily Indebted Poor Countries Initiative (as defined in section 1623 of theInternational Financial Institutions Act \[22 U.S.C. 262p–6\]) is terminated.
 
 "(d)
 

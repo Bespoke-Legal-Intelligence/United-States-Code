@@ -4,9 +4,13 @@ In the case of articles of merchandise made in whole or in part of gold or of an
 
 (June 13, 1906, ch. 3289, §2, 34 Stat. 260; Pub. L. 94–450, §2, Oct. 1, 1976, 90 Stat. 1501.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Pub. L. 94–450 substituted "three one-thousandth parts" for "one-half of one carat", "in an article mentioned in this section" for "in such article", "than three one-thousandth parts, in the case of a watchcase or flatware, or than seven one-thousandth parts, in the case of any other such article," for "than one carat", struck out "in the case of any article mentioned in this section" which followed "<i>Provided, further</i>, That", and exception which permitted the actual fineness of gold or its alloys used for watchcases and flatware to be not less by more than three one-thousandth parts the fineness indicated by stamp or label.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

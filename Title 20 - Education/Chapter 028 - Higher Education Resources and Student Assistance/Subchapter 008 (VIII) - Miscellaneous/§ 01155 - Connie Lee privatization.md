@@ -8,7 +8,7 @@
 
 #### (2) Corporate powers
 
-&emsp;The Corporation shall be subject to the provisions of this section, and, to the extent not inconsistent with this section, to the District of Columbia Business Corporation Act (or the comparable law of another State, if applicable). The Corporation shall have the powers conferred upon a corporation by the District of Columbia Business Corporation Act (or such other applicable State law) as from time to time in effect in order to conduct the Corporation's affairs as a private, for-profit corporation and to carry out the Corporation's purposes and activities incidental thereto. The Corporation shall have the power to enter into contracts, to execute instruments, to incur liabilities, to provide products and services, and to do all things as are necessary or incidental to the proper management of the Corporation's affairs and the efficient operation of a private, for-profit business.
+&emsp;The Corporation shall be subject to the provisions of this section, and, to the extent not inconsistent with this section, to the District of Columbia Business Corporation Act (or the comparable law of another State, if applicable). The Corporation shall have the powers conferred upon a corporation by the District ofColumbia Business Corporation Act (or such other applicable State law) as from time to time in effect in order to conduct the Corporation's affairs as a private, for-profit corporation and to carry out the Corporation's purposes and activities incidental thereto. The Corporation shall have the power to enter into contracts, to execute instruments, to incur liabilities, to provide products and services, and to do all things as are necessary or incidental to the proper management of the Corporation's affairs and the efficient operation of a private, for-profit business.
 
 #### (3) Limitation on ownership of stock
 
@@ -150,7 +150,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Using the amounts described in subparagraph (A)(ii), the Mayor of the District of Columbia shall make grants to entities to carry out the purposes described in subparagraph (E).
+&emsp;&emsp;&emsp;Using the amounts described in subparagraph (A)(ii), the Mayor of the District ofColumbia shall make grants to entities to carry out the purposes described in subparagraph (E).
 
 #### (ii) Participation of schools
 
@@ -192,6 +192,8 @@
 
 (Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §603\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–290; Pub. L. 106–113, div. A, title I, §153, Nov. 29, 1999, 113 Stat. 1526; Pub. L. 106–522, §161, Nov. 22, 2000, 114 Stat. 2483; Pub. L. 106–553, §1(a)(1) \[§161\], Dec. 21, 2000, 114 Stat. 2762, 2762A–45; Pub. L. 106–554, §1(a)(4) \[div. A, §406(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–189; Pub. L. 107–96, Dec. 21, 2001, 115 Stat. 936; Pub. L. 108–7, div. C, title III, §143(c), Feb. 20, 2003, 117 Stat. 131; Pub. L. 108–199, div. C, title IV, §434, Jan. 23, 2004, 118 Stat. 141; Pub. L. 108–335, title III, §340(a), Oct. 18, 2004, 118 Stat. 1348; Pub. L. 108–447, div. J, title I, §103(a)(2), Dec. 8, 2004, 118 Stat. 3341.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The District of Columbia Business Corporation Act, referred to in subsec. (a)(2), is act June 8, 1954, ch. 269, 68 Stat. 179, as amended, which is not classified to the Code.
@@ -218,7 +220,7 @@ Subsec. (e)(3)(E)(i)(IV). Pub. L. 108–335, §340, as amended by Pub. L. 108–
 
 Subsec. (e)(3)(F). Pub. L. 108–7, §143(c)(2), added subpar. (F).
 
-<b>2001</b>—Subsec. (e)(2)(B). Pub. L. 107–96, par. (2), which directed amendment of section 161 of Pub. L. 106–522, by inserting "revolving" after "enhancement" in second sentence of par. (2)(B), was executed by revising the amendment by Pub. L. 106–522, §161(1), which had amended the second sentence of subsec. (e)(2)(B) of this section, to reflect the probable intent of Congress. See 2000 Amendment note below.
+<b>2001</b>—Subsec. (e)(2)(B). Pub. L. 107–96, par. (2), which directed amendment of section 161 of Pub. L. 106–522, byinserting "revolving" after "enhancement" in second sentence of par. (2)(B), was executed by revising the amendment by Pub. L. 106–522, §161(1), which had amended the second sentence of subsec. (e)(2)(B) of this section, to reflect the probable intent of Congress. See 2000 Amendment note below.
 
 Subsec. (e)(3). Pub. L. 107–96, pars. (1), (3), amended Pub. L. 106–522, §161(2). See 2000 Amendment note below.
 
@@ -235,6 +237,8 @@ Subsec. (e)(3). Pub. L. 106–553, §1(a)(1) \[§161(2)\], which directed amendm
 Pub. L. 106–522, §161(2), as amended by Pub. L. 107–96, pars. (1) to (3), added par. (3).
 
 <b>1999</b>—Subsec. (e)(2)(B). Pub. L. 106–113 inserted "and public charter" after "public" and inserted at end "Of such amounts and proceeds, $5,000,000 shall be set aside for use as a credit enhancement fund for public charter schools in the District of Columbia, with the administration of the fund (including the making of loans) to be carried out by the Mayor through a committee consisting of three individuals appointed by the Mayor of the District of Columbia and two individuals appointed by the Public Charter School Board established under section 2214 of the District of Columbia School Reform Act of 1995."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

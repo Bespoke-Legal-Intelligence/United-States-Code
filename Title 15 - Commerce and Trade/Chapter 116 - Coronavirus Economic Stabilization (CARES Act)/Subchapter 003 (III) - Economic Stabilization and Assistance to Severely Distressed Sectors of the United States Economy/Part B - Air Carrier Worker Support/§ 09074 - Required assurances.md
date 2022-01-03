@@ -52,6 +52,8 @@ To be eligible for financial assistance under this part, an air carrier or contr
 
 (Pub. L. 116–136, div. A, title IV, §4114, Mar. 27, 2020, 134 Stat. 499; Pub. L. 116–260, div. N, title IV, §412(a), Dec. 27, 2020, 134 Stat. 2060.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2020</b>—Subsecs. (c), (d). Pub. L. 116–260 added subsecs. (c) and (d).

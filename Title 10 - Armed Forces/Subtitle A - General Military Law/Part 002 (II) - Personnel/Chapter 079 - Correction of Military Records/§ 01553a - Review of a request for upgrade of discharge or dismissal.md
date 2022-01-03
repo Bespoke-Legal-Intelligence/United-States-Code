@@ -24,6 +24,8 @@ Definitions.—In this section:
 
 (Added Pub. L. 116–92, div. A, title V, §523(a), Dec. 20, 2019, 133 Stat. 1354.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Implementation and Reporting
 
 Pub. L. 116–92, div. A, title V, §523(c)–(e), Dec. 20, 2019, 133 Stat. 1355, provided that:

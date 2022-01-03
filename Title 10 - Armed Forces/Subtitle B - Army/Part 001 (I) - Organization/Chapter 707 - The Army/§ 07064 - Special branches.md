@@ -38,6 +38,8 @@ In subsection (a), the words "The special branches of the Army" are substituted 
 
 In subsection (b), the words "who has been appointed and commissioned in some other special branch, or \* \* \* without specification of branch" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 3064 of this title as this section.
@@ -51,6 +53,8 @@ Subsec. (c). Pub. L. 97–22, §5(a)(2), substituted "Commissioned officers of t
 Subsecs. (b), (c). Pub. L. 96–513, §231(2), (3), added subsec. (b) and redesignated former subsec. (b) as (c).
 
 <b>1968</b>—Subsec. (a)(1). Pub. L. 90–329 substituted "Army Medical Department" for "Army Medical Service".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

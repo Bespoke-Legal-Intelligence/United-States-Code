@@ -12,7 +12,7 @@ When used in this Act:
 
 &emsp;(D) a primary election held for the expression of a preference for the nomination of individuals for election to the office of President.
 
-(2) The term "candidate" means an individual who seeks nomination for election, or election,to Federal office, and for purposes of this paragraph, an individual shall be deemed to seek nomination for election, or election—
+(2) The term "candidate" means an individual who seeks nomination for election, or election, to Federal office, and for purposes of this paragraph, an individual shall be deemed to seek nomination for election, or election—
 
 &emsp;(A) if such individual has received contributions aggregating in excess of $5,000 or has made expenditures aggregating in excess of $5,000; or
 
@@ -48,7 +48,7 @@ When used in this Act:
 
 &emsp;(iii) the sale of any food or beverage by a vendor for use in any candidate's campaign or for use by or on behalf of any political committee of a political party at a charge less than the normal comparable charge, if such charge is at least equal to the cost of such food or beverage to the vendor, to the extent that the cumulative value of such activity by such vendor on behalf of any single candidate does not exceed $1,000 with respect to any single election, and on behalf of all political committees of a political party does not exceed $2,000 in any calendar year;
 
-&emsp;(iv) any unreimbursed payment for travel expenses made by any individual on behalf of any candidate or any political committee of a political party, to the extent that the cumulative value of such activity by such individual on behalf of any single candidate does not exceed $1,000 with respect to any single election, and on behalf of all political committees of a political party does not exceed $2,000 in any calendar year;
+&emsp;(iv) any unreimbursed payment for travel expenses made by any individual on behalf ofany candidate or any political committee of a political party, to the extent that the cumulative value of such activity by such individual on behalf of any single candidate does not exceed $1,000 with respect to any single election, and on behalf of all political committees of a political party does not exceed $2,000 in any calendar year;
 
 &emsp;(v) the payment by a State or local committee of a political party of the costs of preparation, display, or mailing or other distribution incurred by such committee with respect to a printed slate card or sample ballot, or other printed listing, of 3 or more candidates for any public office for which an election is held in the State in which such committee is organized, except that this clause shall not apply to any cost incurred by such committee with respect to a display of any such listing made on broadcasting stations, or in newspapers, magazines, or similar types of general public political advertising;
 
@@ -56,7 +56,7 @@ When used in this Act:
 
 &emsp;(vii) any loan of money by a State bank, a federally chartered depository institution, or a depository institution the deposits or accounts of which are insured by the Federal Deposit Insurance Corporation, Federal Savings and Loan Insurance Corporation, or the National Credit Union Administration, other than any overdraft made with respect to a checking or savings account, made in accordance with applicable law and in the ordinary course of business, but such loan—
 
-&emsp;&emsp;(I) shall be considered a loan by each endorser or guarantor, in that proportion ofthe unpaid balance that each endorser or guarantor bears to the total number of endorsers or guarantors;
+&emsp;&emsp;(I) shall be considered a loan by each endorser or guarantor, in that proportion of the unpaid balance that each endorser or guarantor bears to the total number of endorsers or guarantors;
 
 &emsp;&emsp;(II) shall be made on a basis which assures repayment, evidenced by a written instrument, and subject to a due date or amortization schedule; and
 
@@ -92,7 +92,7 @@ When used in this Act:
 
 &emsp;(xiii) any honorarium (within the meaning of section 30125 of this title); and
 
-&emsp;(xiv) any loan of money derived from an advance on a candidate's brokerage account, credit card, home equity line of credit, or other line of credit available to the candidate, if such loan is made in accordance with applicable law and under commercially reasonable terms and if the person making such loan makes loans derived from an advance on the candidate's brokerage account, credit card, home equity line of credit, or other line of credit in the normal course of the person's business.
+&emsp;(xiv) any loan of money derived from an advance on a candidate's brokerage account, credit card, home equity line of credit, or other line of credit available to the candidate, if such loan is made in accordance with applicable law and under commercially reasonable terms and if the person making such loan makes loans derived from an advance on the candidate's brokerage account, credit card,home equity line of credit, or other line of credit in the normal course of the person's business.
 
 (9)(A) The term "expenditure" includes—
 
@@ -164,7 +164,7 @@ Independent expenditure.—The term "independent expenditure" means an expenditu
 
 &emsp;(A) expressly advocating the election or defeat of a clearly identified candidate; and
 
-&emsp;(B) that is not made in concert or cooperation with or at the request or suggestion ofsuch candidate, the candidate's authorized political committee, or their agents, or a political party committee or its agents.
+&emsp;(B) that is not made in concert or cooperation with or at the request or suggestion of such candidate, the candidate's authorized political committee, or their agents, or a political party committee or its agents.
 
 (18) The term "clearly identified" means that—
 
@@ -302,7 +302,7 @@ Subsec. (d). Pub. L. 93–443, §201(a)(3), inserted reference to "club," before
 
 Subsec. (e). Pub. L. 93–443, §201(a)(4), transferred the word "means" after introductory word "contribution" to become the initial word in pars. (1) to (4); in par. (1), incorporated existing provisions in provisions designated subpars. (A) and (B), and deleted former provisions respecting contributions for the purpose of influencing the nomination for election, or election, of any person as a presidential election or for the purpose of influencing the election of delegates to a constitutional convention for proposing amendments to the Constitution of the United States; in par. (2), provided for express or implied transactions; in par. (3), substitution of "funds received by a political committee which are transferred to such committee from another political committee or other source" for "a transfer of funds between political committees"; inserted at end of par. (4) the word "but"; and added par. (5).
 
-Subsec. (f). Pub. L. 93–443, §201(a)(5), transferred the word "means" following introductory word "expenditure" to become the initial word in pars. (1) to (3); in par. (1), incorporated existing provisions in provisions designated subpars. (A) to (C) and deleted end text reading ", or for the purpose of influencing the election of delegates to a constitutional convention for proposing amendments to the Constitution of the United States"; in par. (2), provided for express or implied transactions; in par. (3), substituted "the transfer of funds by a political committee to another political committee; but" for "a transfer of funds between political committees"; and added par. (4).
+Subsec. (f). Pub. L. 93–443, §201(a)(5), transferred the word "means" following introductory word "expenditure" to become the initial word in pars. (1) to (3); in par. (1), incorporated existing provisions in provisionsdesignated subpars. (A) to (C) and deleted end text reading ", or for the purpose of influencing the election of delegates to a constitutional convention for proposing amendments to the Constitution of the United States"; in par. (2), provided for express or implied transactions; in par. (3), substituted "the transfer of funds by a political committee to another political committee; but" for "a transfer of funds between political committees"; and added par. (4).
 
 Subsec. (g). Pub. L. 93–443, §208(c)(1), substituted definition of "Commission" for "supervisory officer".
 
@@ -336,7 +336,7 @@ Severability; effective dates and regulations; judicial review.—Title IV \[ena
 
 &emsp;"(4)
 
-Provisions not to apply to runoff elections.—Section 323(b) of the Federal Election Campaign Act of 1971 \[52 U.S.C. 30125(b)\] (as added by section 101(a)), section 103(a) \[amending section 30104 of this title\], title II \[amending this section and sections 30104, 30116, and 30118 of this title and enactingprovisions set out as notes under sections 30104 and 30116 of this title\], sections 304 \[amending this section and sections 30104 and 30116 of this title\] (including section 315(j) of Federal Election Campaign Act of 1971 \[52 U.S.C. 30116(j)\], as added by section 304(a)(2)), 305 \[amending section 315 of Title 47, Telecommunications, and enacting provisions set out as a note under section 315 of Title 47\] (notwithstanding subsection (c) of such section \[enacting provisions set out as a note under section 315 of Title 47\]), 311 \[amending section 30120 of this title\], 316 \[amending section 30116 of this title\], 318 \[enacting section 30126 of this title\], and 319 \[enacting section 30117 of this title and amending section 30116 of this title\], and title V \[enacting section 30112 of this title and amending section 30104 of this title and section 315 of Title 47\] (and the amendments made by such sections and titles) shall take effect on November 6, 2002, but shall not apply with respect to runoff elections, recounts, or election contests resulting from elections held prior to such date.
+Provisions not to apply to runoff elections.—Section 323(b) of the Federal Election Campaign Act of 1971 \[52 U.S.C. 30125(b)\] (as added by section 101(a)), section 103(a) \[amending section 30104 of this title\], title II \[amending this section and sections 30104, 30116, and 30118 of this title and enacting provisions set out as notes under sections 30104 and 30116 of this title\], sections 304 \[amending this section and sections 30104 and 30116 of this title\] (including section 315(j) of Federal Election Campaign Act of 1971 \[52 U.S.C. 30116(j)\], as added by section 304(a)(2)), 305 \[amending section 315 of Title 47, Telecommunications, and enacting provisions set out as a note under section 315 of Title 47\] (notwithstanding subsection (c) of such section \[enacting provisions set out as a note under section 315 of Title 47\]), 311 \[amending section 30120 of this title\], 316 \[amending section 30116 of this title\], 318 \[enacting section 30126 of this title\], and 319 \[enacting section 30117 of this title and amending section 30116 of this title\], and title V \[enacting section 30112 of this title and amending section 30104 of this title and section 315 of Title 47\] (and the amendments made by such sections and titles) shall take effect on November 6, 2002, but shall not apply with respect to runoff elections, recounts, or election contests resulting from elections held prior to such date.
 
 "(b)
 
@@ -432,5 +432,5 @@ Pub. L. 107–155, title III, §310, Mar. 27, 2002, 116 Stat. 104, related to a 
 
 #### Voting System Study; Report to Congress; Cost of Study
 
-Pub. L. 96–187, title III, §302, Jan. 8, 1980, 93 Stat. 1368, as amended by Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433, provided that: "The Federal Election Commission with the cooperation and assistance of the National Institute of Standards and Technology, shall conduct a preliminary study with respect to the future development of voluntary engineering and procedural performance standards for voting systems used in the United States. The Commission shall report to the Congress the results of the study, and such report shall include recommendations, if any, for the implementation of a program of such standards (including estimates of the costs and time requirements of implementing such a program). The cost of the study shall be paid out of any funds otherwise available to defray the expenses of the Commission."
+Pub. L. 96–187, title III, §302, Jan. 8, 1980, 93 Stat. 1368, as amended by Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433, required the Federal Election Commission, with the cooperation and assistance of the National Institute of Standards and Technology, to conduct a preliminary study of the future development of voluntary engineering and procedural performance standards for voting systems and report the results to Congress with certain recommendations.
 

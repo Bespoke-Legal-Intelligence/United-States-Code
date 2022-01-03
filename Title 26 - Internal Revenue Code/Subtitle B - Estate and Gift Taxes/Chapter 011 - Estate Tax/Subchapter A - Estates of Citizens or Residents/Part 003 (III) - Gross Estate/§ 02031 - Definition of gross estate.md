@@ -20,7 +20,7 @@ In the case of stock and securities of a corporation the value of which, by reas
 
 #### (2) Applicable percentage
 
-&emsp;For purposes of paragraph (1), the term "applicable percentage" means 40 percent reduced (but not below zero) by 2 percentage points for each percentage point (or fraction thereof) by which the value of the qualified conservation easement is less than 30 percent of the value ofthe land (determined without regard to the value of such easement and reduced by the value of any retained development right (as defined in paragraph (5))). The values taken into account under the preceding sentence shall be such values as of the date of the contribution referred to in paragraph (8)(B).
+&emsp;For purposes of paragraph (1), the term "applicable percentage" means 40 percent reduced (but not below zero) by 2 percentage points for each percentage point (or fraction thereof) bywhich the value of the qualified conservation easement is less than 30 percent of the value of the land (determined without regard to the value of such easement and reduced by the value of any retained development right (as defined in paragraph (5))). The values taken into account under the preceding sentence shall be such values as of the date of the contribution referred to in paragraph (8)(B).
 
 #### \[(3) Repealed. Pub. L. 113–295, div. A, title II, §221(a)(96), Dec. 19, 2014, 128 Stat. 4051\]
 
@@ -130,6 +130,8 @@ In the case of stock and securities of a corporation the value of which, by reas
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 380; Pub. L. 87–834, §18(a)(1), Oct. 16, 1962, 76 Stat. 1052; Pub. L. 94–455, title XX, §2008(a)(2)(A), Oct. 4, 1976, 90 Stat. 1891; Pub. L. 105–34, title V, §508(a), Aug. 5, 1997, 111 Stat. 857; Pub. L. 105–206, title VI, §6007(g), July 22, 1998, 112 Stat. 810; Pub. L. 105–277, div. J, title IV, §4006(c)(3), Oct. 21, 1998, 112 Stat. 2681–913; Pub. L. 107–16, title V, §551(a), (b), June 7, 2001, 115 Stat. 86; Pub. L. 113–295, div. A, title II, §221(a)(96), (97)(B), Dec. 19, 2014, 128 Stat. 4051; Pub. L. 115–141, div. U, title IV, §401(a)(200), (201), Mar. 23, 2018, 132 Stat. 1193.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 2057, referred to in subsec. (c)(10), was repealed by Pub. L. 113–295, div. A, title II, §221(a)(97)(A), Dec. 19, 2014, 128 Stat. 4051, effective Dec. 19, 2014.
@@ -170,6 +172,8 @@ Pub. L. 105–206, §6007(g)(1), redesignated par. (9) as (10).
 
 <b>1962</b>—Subsec. (a). Pub. L. 87–834 struck out provisions which excepted real property situated outside the United States.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2014 Amendment
 
 Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
@@ -192,7 +196,7 @@ Pub. L. 87–834, §18(b), Oct. 16, 1962, 76 Stat. 1052, provided that:
 
 "(1) Except as provided in paragraph (2), the amendments made by subsection (a) \[amending this section and sections 2033, 2034, 2035, 2036, 2037, 2038, 2040, and 2041 of this title\] shall apply to the estates of decedents dying after the date of the enactment of this Act \[Oct. 16, 1962\].
 
-"(2) In the case of a decedent dying after the date of the enactment of this Act \[Oct. 16, 1962\] and before July 1, 1964, the value of real property situated outside of the United States shall not be included in the gross estate (as defined in section 2031(a)) of the decedent—
+"(2) In the case of a decedent dying after the date of the enactment of this Act \[Oct. 16, 1962\] and before July 1, 1964, the value of real property situated outside ofthe United States shall not be included in the gross estate (as defined in section 2031(a)) of the decedent—
 
 &emsp;"(A) under section 2033, 2034, 2035(a), 2036(a), 2037(a), or 2038(a) to the extent the real property, or the decedent's interest in it, was acquired by the decedent before February 1, 1962;
 

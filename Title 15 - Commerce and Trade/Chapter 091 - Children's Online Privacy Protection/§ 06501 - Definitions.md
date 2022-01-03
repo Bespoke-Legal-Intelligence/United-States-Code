@@ -104,9 +104,11 @@ In this chapter:
 
 (Pub. L. 105–277, div. C, title XIII, §1302, Oct. 21, 1998, 112 Stat. 2681–728.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Pub. L. 105–277, div. C, title XIII, §1308, Oct. 21, 1998, 112 Stat. 2681–735, provided that: "Sections 1303(a), 1305, and 1306 of this title \[enacting sections 6502(a), 6504, and 6505 of this title\] take effect on the later of—
+Pub. L. 105–277, div. C, title XIII, §1308, Oct. 21, 1998, 112 Stat. 2681–735, provided that: "Sections 1303(a), 1305,and 1306 of this title \[enacting sections 6502(a), 6504, and 6505 of this title\] take effect on the later of—
 
 &emsp;"(1) the date that is 18 months after the date of enactment of this Act \[Oct. 21, 1998\]; or
 

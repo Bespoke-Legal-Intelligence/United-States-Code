@@ -12,6 +12,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232, div. A, title VIII, §808(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 453 of this title as this chapter and items 4831 to 4842 as 7831 to 7842, respectively.

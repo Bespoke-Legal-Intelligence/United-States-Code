@@ -1,6 +1,6 @@
 ### §1095. Health care services incurred on behalf of covered beneficiaries: collection from third-party payers
 
-(a)(1) In the case of a person who is a covered beneficiary, the United States shall have theright to collect from a third-party payer reasonable charges for health care services incurred by the United States on behalf of such person through a facility of the uniformed services to the extent that the person would be eligible to receive reimbursement or indemnification from the third-party payer if the person were to incur such charges on the person's own behalf. If the insurance, medical service, or health plan of that payer includes a requirement for a deductible or copayment by the beneficiary of the plan, then the amount that the United States may collect from the third-party payer is a reasonable charge for the care provided less the appropriate deductible or copayment amount.
+(a)(1) In the case of a person who is a covered beneficiary, the United States shall have the right to collect from a third-party payer reasonable charges for health care services incurred by the United States on behalf of such person through a facility of the uniformed services to the extent that the person would be eligible to receive reimbursement or indemnification from the third-party payer if the person were to incur such charges on the person's own behalf. If the insurance, medical service, or health plan of that payer includes a requirement for a deductible or copayment by the beneficiary of the plan, then the amount that the United States may collect from the third-party payer is a reasonable charge for the care provided less the appropriate deductible or copayment amount.
 
 (2) A covered beneficiary may not be required to pay an additional amount to the United States for health care services by reason of this section.
 
@@ -50,7 +50,7 @@
 
 (k)(1) To improve the administration of this section and sections 1079(j)(1) <sup>1</sup> and 1086(d) of this title, the Secretary of Defense, in consultation with the other administering Secretaries, may prescribe regulations providing for the collection of information regarding insurance, medical service, or health plans of third-party payers held by covered beneficiaries.
 
-(2) The collection of information under regulations prescribed under paragraph (1) shall be conducted in the same manner as is provided in section 1862(b)(5) of the Social Security Act (42 U.S.C. 1395y(b)(5)). The Secretary may provide for obtaining from the Commissioner of Social Security employment information comparable to the information provided to the Administrator of the Centers for Medicare \& Medicaid Services pursuant to such section. Such regulations may require the mandatory disclosure ofSocial Security account numbers for all covered beneficiaries.
+(2) The collection of information under regulations prescribed under paragraph (1) shall be conducted in the same manner as is provided in section 1862(b)(5) of the Social Security Act (42 U.S.C. 1395y(b)(5)). The Secretary may provide for obtaining from the Commissioner of Social Security employment information comparable to the information provided to the Administrator of the Centers for Medicare \& Medicaid Services pursuant to such section. Such regulations may require the mandatory disclosure of Social Security account numbers for all covered beneficiaries.
 
 (3) The Secretary may disclose relevant employment information collected under this subsection to fiscal intermediaries or other designated contractors.
 
@@ -58,7 +58,9 @@
 
 (5) Information obtained under this subsection may not be disclosed for any purpose other than to carry out the purpose of this section and sections 1079(j)(1) <sup>1</sup> and 1086(d) of this title.
 
-(Added Pub. L. 99–272, title II, §2001(a)(1), Apr. 7, 1986, 100 Stat. 100; amended Pub. L. 101–189, div. A, title VII, §727(a), title XVI, §1622(e)(5), Nov. 29, 1989, 103 Stat. 1480, 1605; Pub. L. 101–510, div. A, title VII, §713(a)–(d)(2), Nov. 5, 1990, 104 Stat. 1583, 1584; Pub. L. 102–25, title VII, §701(j)(8), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–190, div. A, title VII, §714, Dec. 5, 1991, 105 Stat. 1403; Pub. L. 103–160, div. A, title VII, §713, Nov. 30, 1993, 107 Stat. 1689; Pub. L. 103–337, div. A, title VII, §714(b), title X, §1070(b)(6), Oct. 5, 1994, 108 Stat. 2802, 2857; Pub. L. 104–106, div. A, title VII, §734, Feb. 10, 1996, 110 Stat. 381; Pub. L. 104–201, div. A, title VII, §735(a), (b), Sept. 23, 1996, 110 Stat. 2598; Pub. L. 106–65, div. A, title VII, §716(c)(1), Oct. 5, 1999, 113 Stat. 691; Pub. L. 107–314, div. A, title X, §1041(a)(5), Dec. 2, 2002, 116 Stat. 2645; Pub. L. 108–173, title IX, §900(e)(4)(B), Dec. 8, 2003, 117 Stat. 2373.)
+(Added Pub. L. 99–272, title II, §2001(a)(1), Apr. 7, 1986, 100 Stat. 100; amended Pub. L. 101–189, div. A, title VII, §727(a), title XVI, §1622(e)(5), Nov. 29, 1989, 103 Stat. 1480, 1605; Pub. L. 101–510, div. A, title VII, §713(a)–(d)(2), Nov. 5, 1990, 104 Stat. 1583, 1584; Pub. L. 102–25, title VII, §701(j)(8), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–190, div. A, title VII, §714, Dec. 5, 1991, 105 Stat. 1403; Pub. L. 103–160, div. A, title VII, §713, Nov. 30, 1993, 107 Stat. 1689; Pub. L. 103–337, div. A, title VII, §714(b), title X, §1070(b)(6), Oct. 5, 1994, 108 Stat. 2802, 2857; Pub. L. 104–106, div. A, title VII, §734, Feb. 10, 1996, 110 Stat. 381; Pub. L. 104–201, div. A,title VII, §735(a), (b), Sept. 23, 1996, 110 Stat. 2598; Pub. L. 106–65, div. A, title VII, §716(c)(1), Oct. 5, 1999, 113 Stat. 691; Pub. L. 107–314, div. A, title X, §1041(a)(5), Dec. 2, 2002, 116 Stat. 2645; Pub. L. 108–173, title IX, §900(e)(4)(B), Dec. 8, 2003, 117 Stat. 2373.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -140,13 +142,15 @@ Subsec. (h). Pub. L. 101–189, §1622(e)(5), which directed amendment of subsec
 
 Pub. L. 101–189, §727(a)(1), redesignated subsec. (g) as (h).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1994 Amendment
 
 Pub. L. 103–337, div. A, title X, §1070(b), Oct. 5, 1994, 108 Stat. 2856, provided that the amendment made by that section is effective as of Nov. 30, 1993, and as if included in the National Defense Authorization Act for Fiscal Year 1994, Pub. L. 103–160, as enacted.
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–510, div. A, title VII, §713(e), Nov. 5, 1990, 104 Stat. 1584, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to health care services provided in a medical facility of the uniformed services after the date of the enactment of this Act \[Nov. 5, 1990\], but not with respect to collection under any insurance, medical service, or health plan agreement entered into before the date of the enactment of this Act that the Secretary of Defense determines clearly excludes payment for such services. Such an exception shall apply until the amendment or renewal of such agreement after that date."
+Pub. L. 101–510, div. A, title VII, §713(e), Nov. 5, 1990, 104 Stat. 1584, provided that: "The amendments madeby subsection (a) \[amending this section\] shall apply with respect to health care services provided in a medical facility of the uniformed services after the date of the enactment of this Act \[Nov. 5, 1990\], but not with respect to collection under any insurance, medical service, or health plan agreement entered into before the date of the enactment of this Act that the Secretary of Defense determines clearly excludes payment for such services. Such an exception shall apply until the amendment or renewal of such agreement after that date."
 
 #### Effective Date of 1989 Amendment
 

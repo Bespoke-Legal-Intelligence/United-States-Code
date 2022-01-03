@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(D) reviews of individual case files, including individualized plans for employment and ineligibility determinations; and
 
-&emsp;&emsp;(E) meetings with qualified vocational rehabilitation counselors and other personnel, including personnel of a client assistanceprogram under section 732 of this title, and past or current recipients of vocational rehabilitation services.
+&emsp;&emsp;(E) meetings with qualified vocational rehabilitation counselors and other personnel, including personnel of a client assistance program under section 732 of this title, and past or current recipients of vocational rehabilitation services.
 
 #### (4) Areas of inquiry
 
@@ -106,7 +106,7 @@ The Commissioner shall—
 
 #### (1) Petition
 
-&emsp;Any State that is dissatisfied with a final determination of the Commissioner under section 721(b) of this title or subsection (c) may file a petition for judicial review of such determination in the United States Court of Appeals for the circuit in which the State is located. Such a petition may be filed only within the 30-day period beginning on the date that notice of such final determination was received by the State. The clerk of the court shall transmit a copy of the petition to the Commissioner or to any officer designated by the Commissioner for that purpose. In accordance with section 2112 of title 28, the Commissioner shall file with the court a record of theproceeding on which the Commissioner based the determination being appealed by the State. Until a record is so filed, the Commissioner may modify or set aside any determination made under such proceedings.
+&emsp;Any State that is dissatisfied with a final determination of the Commissioner under section 721(b) of this title or subsection (c) may file a petition for judicial review of such determination in the United States Court of Appeals for the circuit in which the State is located. Such a petition may be filed only within the 30-day period beginning on the date that notice of such final determination was received by the State. The clerk of the court shall transmit a copy of the petition to the Commissioner or to any officer designated by the Commissioner for that purpose. In accordance with section 2112 of title 28, the Commissioner shall file with the court a record of the proceeding on which the Commissioner based the determination being appealed by the State. Until a record is so filed, the Commissioner may modify or set aside any determination made under such proceedings.
 
 #### (2) Submissions and determinations
 

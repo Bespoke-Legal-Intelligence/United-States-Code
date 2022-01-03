@@ -48,7 +48,7 @@ The Administrator shall include in the budget justification materials submitted 
 
 &emsp;(3) The number of full-time equivalent contractor employees working under each contract identified under paragraph (2).
 
-&emsp;(4) The number of full-time equivalent contractor employees described in paragraph (3)that have been employed under such a contract for a period greater than two years.
+&emsp;(4) The number of full-time equivalent contractor employees described in paragraph (3) that have been employed under such a contract for a period greater than two years.
 
 &emsp;(5) With respect to each contract identified under paragraph (2)—
 
@@ -59,6 +59,8 @@ The Administrator shall include in the budget justification materials submitted 
 &emsp;(6) With respect to each appropriations account identified under paragraph (5)(A), the total amount obligated for contracts identified under paragraph (2).
 
 (Pub. L. 106–65, div. C, title XXXII, §3241A, as added Pub. L. 112–239, div. C, title XXXI, §3111(a)(1), Jan. 2, 2013, 126 Stat. 2168; amended Pub. L. 113–291, div. C, title XXXI, §3116, Dec. 19, 2014, 128 Stat. 3888; Pub. L. 114–92, div. C, title XXXI, §3138, Nov. 25, 2015, 129 Stat. 1215; Pub. L. 114–328, div. C, title XXXI, §3136(a), Dec. 23, 2016, 130 Stat. 2771; Pub. L. 116–92, div. C, title XXXI, §3111(a), Dec. 20, 2019, 133 Stat. 1949.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

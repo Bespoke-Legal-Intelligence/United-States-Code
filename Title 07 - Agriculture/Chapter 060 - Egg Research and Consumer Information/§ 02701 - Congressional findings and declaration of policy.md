@@ -4,9 +4,11 @@ Eggs constitute one of the basic, natural foods in the diet. They are produced b
 
 It has long been recognized that it is in the public interest to provide an adequate, steady supply of fresh eggs readily available to the consumers of the Nation. Maintenance of markets and the development of new markets, both domestic and foreign, are essential to the egg industry if the consumers of eggs, egg products, spent fowl, or products of spent fowl are to be assured of an adequate, steady supply of such products.
 
-It is therefore declared to be the policy of the Congress and the purpose of this chapter that it is essential and in the public interest, through the exercise of the powers provided herein, to authorize and enable the establishment of an orderly procedure for the development and the financing through an adequate assessment, an effective and continuous coordinated program of research, consumer and producer education, and promotion designed to strengthen the egg industry's position in the marketplace, and maintain and expand domestic and foreign markets and uses for eggs, egg products, spent fowl, and products of spent fowl of the United States. Nothing in this chapter shall be construed to mean, or provide for, control of production or otherwise limit the right of individual egg producers to produce commercial eggs.
+It is therefore declared to be the policy of the Congress and the purpose of this chapter that itis essential and in the public interest, through the exercise of the powers provided herein, to authorize and enable the establishment of an orderly procedure for the development and the financing through an adequate assessment, an effective and continuous coordinated program of research, consumer and producer education, and promotion designed to strengthen the egg industry's position in the marketplace, and maintain and expand domestic and foreign markets and uses for eggs, egg products, spent fowl, and products of spent fowl of the United States. Nothing in this chapter shall be construed to mean, or provide for, control of production or otherwise limit the right of individual egg producers to produce commercial eggs.
 
 (Pub. L. 93–428, §2, Oct. 1, 1974, 88 Stat. 1171.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

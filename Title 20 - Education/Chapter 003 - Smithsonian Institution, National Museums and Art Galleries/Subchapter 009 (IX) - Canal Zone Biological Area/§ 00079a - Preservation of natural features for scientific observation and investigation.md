@@ -4,9 +4,13 @@ The purpose of setting aside such an area is to preserve and conserve its natura
 
 (July 2, 1940, ch. 516, §2, 54 Stat. 724; 1946 Reorg. Plan No. 3, §801, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1101.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 1382 of Title 48, Territories and Insular Possessions.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

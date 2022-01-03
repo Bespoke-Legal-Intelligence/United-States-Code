@@ -42,7 +42,7 @@ All grants awarded by the Attorney General under this section shall be subject t
 
 #### (A) Definition
 
-&emsp;&emsp;In this paragraph, the term "unresolved audit finding" means a finding in the finalaudit report of the Inspector General of the Department of Justice that the audited grantee has utilized grant funds for an unauthorized expenditure or otherwise unallowable cost that is not closed or resolved within 12 months from the date when the final audit report is issued.
+&emsp;&emsp;In this paragraph, the term "unresolved audit finding" means a finding in the final audit report of the Inspector General of the Department of Justice that the audited grantee has utilized grant funds for an unauthorized expenditure or otherwise unallowable cost that is not closed or resolved within 12 months from the date when the final audit report is issued.
 
 #### (B) Audits
 
@@ -76,7 +76,7 @@ All grants awarded by the Attorney General under this section shall be subject t
 
 #### (C) Disclosure
 
-&emsp;&emsp;Each nonprofit organization that is awarded a grant under this section and uses the procedures prescribed in regulations to create a rebuttable presumption of reasonableness for the compensation of its officers, directors, trustees, and key employees, shall disclose to the Attorney General, in the application for the grant, the process for determining such compensation, including the independent persons involved in reviewing and approving such compensation, the comparability data used, and contemporaneous substantiation of the deliberation and decision. Upon request, the Attorney General shall make the information disclosed under this subparagraph available for public inspection.
+&emsp;&emsp;Each nonprofit organization that is awarded a grant under this section and uses the procedures prescribed in regulations to create a rebuttable presumption of reasonableness for the compensation of its officers, directors, trustees, and key employees, shalldisclose to the Attorney General, in the application for the grant, the process for determining such compensation, including the independent persons involved in reviewing and approving such compensation, the comparability data used, and contemporaneous substantiation of the deliberation and decision. Upon request, the Attorney General shall make the information disclosed under this subparagraph available for public inspection.
 
 #### (3) Conference expenditures
 

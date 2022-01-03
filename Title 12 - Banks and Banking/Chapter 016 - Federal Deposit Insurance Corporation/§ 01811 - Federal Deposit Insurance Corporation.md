@@ -54,11 +54,11 @@ Pub. L. 109–351, §1(a), Oct. 13, 2006, 120 Stat. 1966, provided that: "This A
 
 Pub. L. 109–173, §1, Feb. 15, 2006, 119 Stat. 3601, provided that: "This Act \[see Tables for classification\] may be cited as the 'Federal Deposit Insurance Reform Conforming Amendments Act of 2005'."
 
-Pub. L. 109–171, title II, §2101, Feb. 8, 2006, 120 Stat. 9, provided that: "This subtitle \[subtitle B (§§2101–2109) of title II of Pub. L. 109–171, amending sections 24, 338a, 347b, 1431, 1441a, 1441b, 1464, 1467a, 1723i, 1735f–14, 1813, 1815 to 1817, 1821, 1821a, 1823 to 1825, 1827, 1828, 1831a, 1831e, 1831h, 1831m, 1831o, 1833a, 1834, 1841, and 3341 of this title and section 905 of Title 2, The Congress, enacting provisions set out as notes under sections 1817 and 1821 of this title, and repealing provisions set out as notes under section 1821 of this title\] may be cited as the 'Federal Deposit Insurance Reform Act of 2005'."
+Pub. L. 109–171, title II, §2101, Feb. 8, 2006, 120 Stat. 9, provided that: "This subtitle \[subtitle B (§§2101–2109) of title II of Pub. L. 109–171, amending sections 24, 338a, 347b, 1431, 1441a, 1441b, 1464, 1467a, 1723i, 1735f–14, 1813, 1815 to 1817, 1821, 1821a, 1823 to 1825, 1827, 1828, 1831a, 1831e, 1831h, 1831m, 1831o, 1833a, 1834, 1841, and 3341 ofthis title and section 905 of Title 2, The Congress, enacting provisions set out as notes under sections 1817 and 1821 of this title, and repealing provisions set out as notes under section 1821 of this title\] may be cited as the 'Federal Deposit Insurance Reform Act of 2005'."
 
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–386, §1, Oct. 30, 2004, 118 Stat. 2228, provided that: "This Act \[amending sections 321, 1709, 1813,1817, 1820, 1821, 1828, 1841, 1842, 1881, 3206, and 3207 of this title and sections 78c, 78l, and 78q of Title 15, Commerce and Trade, and enacting provisions set out as notes under section 321 of this title\] may be cited as the '2004 District of Columbia Omnibus Authorization Act'."
+Pub. L. 108–386, §1, Oct. 30, 2004, 118 Stat. 2228, provided that: "This Act \[amending sections 321, 1709, 1813, 1817, 1820, 1821, 1828, 1841, 1842, 1881, 3206, and 3207 of this title and sections 78c, 78l, and 78q of Title 15, Commerce and Trade, and enacting provisions set out as notes under section 321 of this title\] may be cited as the '2004 District of Columbia Omnibus Authorization Act'."
 
 #### Short Title of 2000 Amendment
 
@@ -130,7 +130,7 @@ Pub. L. 95–630, title VI, §601, Nov. 10, 1978, 92 Stat. 3683, provided that: 
 
 #### Short Title
 
-Act Sept. 21, 1950, ch. 967, §1, 64 Stat. 873, provided: "That section 12B of the Federal Reserve Act, asamended, is hereby withdrawn as a part of that Act and is made a separate Act \[enacting this chapter\] to be known as the 'Federal Deposit Insurance Act'."
+Act Sept. 21, 1950, ch. 967, §1, 64 Stat. 873, provided: "That section 12B of the Federal Reserve Act, as amended, is hereby withdrawn as a part of that Act and is made a separate Act \[enacting this chapter\] to be known as the 'Federal Deposit Insurance Act'."
 
 #### Separability
 
@@ -204,11 +204,11 @@ Form of Report.—The report required under subsection (a) shall be submitted in
 
 "(c)
 
-Congressional Briefing.—Upon request, the head of each banking regulator shall provide a detailed briefing to the appropriate Members of Congress on each report submitted pursuant to subsection (a), except—
+Congressional Briefing.—Upon request, the head of each banking regulator shall provide a detailedbriefing to the appropriate Members of Congress on each report submitted pursuant to subsection (a), except—
 
 &emsp;"(1) the Chairman of the Board of Governors of the Federal Reserve System may designate another member of the Board of Governors of the Federal Reserve System to provide such briefing;
 
-&emsp;"(2) the Chairperson of the Federal Deposit Insurance Corporation may designate another member ofthe Board of Directors of the Corporation to provide such briefing; and
+&emsp;"(2) the Chairperson of the Federal Deposit Insurance Corporation may designate another member of the Board of Directors of the Corporation to provide such briefing; and
 
 &emsp;"(3) the Chairman of the National Credit Union Administration may designate another member of the National Credit Union Administration Board to provide such briefing.
 
@@ -340,7 +340,7 @@ Matters studied.—The study required under paragraph (1) shall include consider
 
 &emsp;&emsp;"(A) the changes underway in the national and international economies and the financial services industry, and how those changes affect the financial services system's ability to efficiently meet the needs of the national economy and the system's users during the next 10 years and beyond; and
 
-&emsp;&emsp;"(B) the adequacy of existing statutes and regulations, and the existing regulatory structure, to meet the needs of the financial services system's users effectively, efficiently, and without unfair, anticompetitive, or discriminatory practices.
+&emsp;&emsp;"(B) the adequacy of existing statutes and regulations, and the existing regulatory structure, to meet the needs of the financial services system'susers effectively, efficiently, and without unfair, anticompetitive, or discriminatory practices.
 
 &emsp;"(3)
 
@@ -668,7 +668,7 @@ Appropriate federal banking agency.—The term 'appropriate Federal banking agen
 
 &emsp;"(2)
 
-Minority bank.—The term 'minority bank' means any depository institution described in clause (i), (ii), or (iii) of section 19(b)(1)(A) of the Federal Reserve Act \[12 U.S.C. 461(b)(1)(A)(i), (ii), (iii)\]—
+Minority bank.—The term 'minority bank' means any depository institution described in clause\(i), (ii), or (iii) of section 19(b)(1)(A) of the Federal Reserve Act \[12 U.S.C. 461(b)(1)(A)(i), (ii), (iii)\]—
 
 &emsp;&emsp;"(A) more than 50 percent of the ownership or control of which is held by 1 or more minority individuals; and
 

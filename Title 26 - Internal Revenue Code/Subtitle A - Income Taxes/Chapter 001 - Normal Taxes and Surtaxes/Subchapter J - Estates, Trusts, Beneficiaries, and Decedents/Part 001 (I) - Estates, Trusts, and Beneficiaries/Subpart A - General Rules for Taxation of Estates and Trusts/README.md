@@ -11,6 +11,8 @@ Subpart A—General Rules for Taxation of Estates and Trusts
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2001</b>—Pub. L. 107–16, title VI, §671(c)(1), June 7, 2001, 115 Stat. 147, added item 646.

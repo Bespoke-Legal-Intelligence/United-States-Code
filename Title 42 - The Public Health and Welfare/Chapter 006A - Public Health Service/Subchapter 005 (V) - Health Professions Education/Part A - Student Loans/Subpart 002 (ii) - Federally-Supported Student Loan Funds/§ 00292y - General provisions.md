@@ -28,7 +28,7 @@ Allotments to a loan fund of a school shall be paid to it from time to time in s
 
 #### (3) Preference in making contributions
 
-&emsp;In making Federal capital contributions to student loans funds under section 292q of this title for a fiscal year from amounts describedin paragraph (1), the Secretary shall give preference to health professions schools of the same disciplines as the health professions schools returning such amounts for the period during which the amounts expended for such contributions were received by the Secretary. Any such amounts that, prior to being so returned, were available only for the purpose of loans under this subpart to individuals from disadvantaged backgrounds shall be available only for such purpose.
+&emsp;In making Federal capital contributions to student loans funds under section 292q of this title for a fiscal year from amounts described in paragraph (1), the Secretary shall give preference to health professions schools of the same disciplines as the health professions schools returning such amounts for the period during which the amounts expended for such contributions were received by the Secretary. Any such amounts that, prior to being so returned, were available only for the purpose of loans under this subpart to individuals from disadvantaged backgrounds shall be available only for such purpose.
 
 #### (f) Funding for certain medical schools
 
@@ -44,6 +44,8 @@ Allotments to a loan fund of a school shall be paid to it from time to time in s
 
 (July 1, 1944, ch. 373, title VII, §735, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2021; amended Pub. L. 102–531, title III, §313(a)(1), Oct. 27, 1992, 106 Stat. 3507; Pub. L. 103–43, title XX, §2014(d), June 10, 1993, 107 Stat. 217; Pub. L. 105–392, title I, §134(c), Nov. 13, 1998, 112 Stat. 3578.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 735 of act July 1, 1944, was classified to section 294h of this title prior to the general revision of this subchapter by Pub. L. 102–408.
@@ -55,6 +57,8 @@ A prior section 735 of act July 1, 1944, was classified to section 294h of this 
 <b>1993</b>—Subsec. (f). Pub. L. 103–43 added subsec. (f).
 
 <b>1992</b>—Subsec. (b). Pub. L. 102–531 inserted designations for cls. (A) and (B) in first sentence.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

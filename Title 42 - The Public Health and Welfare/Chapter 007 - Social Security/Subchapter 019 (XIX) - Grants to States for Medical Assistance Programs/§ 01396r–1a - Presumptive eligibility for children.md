@@ -42,7 +42,7 @@ For purposes of this section:
 
 &emsp;(A) notify the State agency of the determination within 5 working days after the date on which determination is made, and
 
-&emsp;(B) inform the parent or custodian of the child at the time the determination is made that an application for medical assistance under the State plan is required to be made bynot later than the last day of the month following the month during which the determination is made.
+&emsp;(B) inform the parent or custodian of the child at the time the determination is made that an application for medical assistance under the State plan is required to be made by not later than the last day of the month following the month during which the determination is made.
 
 (3) In the case of a child who is determined by a qualified entity to be presumptively eligible for medical assistance under a State plan, the parent, guardian, or other person shall make application on behalf of the child for medical assistance under such plan by not later than the last day of the month following the month during which the determination is made, which application may be the application used for the receipt of medical assistance by individuals described in section 1396a(l)(1) of this title.
 
@@ -62,9 +62,11 @@ Notwithstanding any other provision of this subchapter, medical assistance for i
 
 (Aug. 14, 1935, ch. 531, title XIX, §1920A, as added Pub. L. 105–33, title IV, §4912(a), Aug. 5, 1997, 111 Stat. 571; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(r)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–397; Pub. L. 106–554, §1(a)(6) \[title VII, §708\], Dec. 21, 2000, 114 Stat. 2763, 2763A–577.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Head Start Act, referred to in subsec. (b)(3)(A)(i)(II), is subchapter B (§§635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables.
+The Head Start Act, referred to in subsec. (b)(3)(A)(i)(II), is subchapter B (§§635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, seeShort Title note set out under section 9801 of this title and Tables.
 
 The Child Care and Development Block Grant Act of 1990, referred to in subsec. (b)(3)(A)(i)(II), is subchapter C (§658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236, which is classified generally to subchapter II–B (§9857 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see section 9857(a) of this title and Tables.
 

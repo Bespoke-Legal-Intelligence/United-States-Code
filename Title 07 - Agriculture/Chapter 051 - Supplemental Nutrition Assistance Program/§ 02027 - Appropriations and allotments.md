@@ -32,7 +32,7 @@ Not later than sixty days after the issuance of a report under subsection (a) of
 
 #### (e) Disposition of funds collected pursuant to claims
 
-Funds collected from claims against households or State agencies, including claims collected pursuant to section 2016(f) <sup>1</sup> of this title, subsections (g) and (h) of section 2020 of this title, subsections (b) and (c) of section 2022 of this title, and section 2025(c)(1) of this title, claims resulting from resolution of audit findings, and claims collected from households receiving overissuances, shall be credited to the supplemental nutrition assistance program appropriation account for the fiscal year in which the collection occurs. Funds provided to State agencies under section 2025(c) of this title shall be paid from the appropriation account for the fiscal year in which the funds are provided.
+Funds collected from claims against households or State agencies, including claims collected pursuant to section 2016(f) <sup>1</sup> of this title,subsections (g) and (h) of section 2020 of this title, subsections (b) and (c) of section 2022 of this title, and section 2025(c)(1) of this title, claims resulting from resolution of audit findings, and claims collected from households receiving overissuances, shall be credited to the supplemental nutrition assistance program appropriation account for the fiscal year in which the collection occurs. Funds provided to State agencies under section 2025(c) of this title shall be paid from the appropriation account for the fiscal year in which the funds are provided.
 
 #### (f) Transfer of funds
 
@@ -58,7 +58,9 @@ No funds appropriated to carry out this chapter may be transferred to the Office
 
 The Secretary shall issue regulations that prohibit entities that receive funds under this chapter to compensate any person for conducting outreach activities relating to participation in, or for recruiting individuals to apply to receive benefits under, the supplemental nutrition assistance program, if the amount of the compensation would be based on the number of individuals who apply to receive the benefits.
 
-(Pub. L. 88–525, §18, as added Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 979; amendedPub. L. 96–58, §1, Aug. 14, 1979, 93 Stat. 389; Pub. L. 96–249, title I, §134, title II, §201, May 26, 1980, 94 Stat. 368, 370; Pub. L. 97–18, §1, June 30, 1981, 95 Stat. 102; Pub. L. 97–98, title XIII, §§1331, 1332, Dec. 22, 1981, 95 Stat. 1291; Pub. L. 97–253, title I, §§180(b)(2), 183, Sept. 8, 1982, 96 Stat. 784, 785; Pub. L. 99–198, title XV, §§1535(c)(2), 1541, 1542(a), Dec. 23, 1985, 99 Stat. 1585, 1589; Pub. L. 101–624, title XVII, §§1760, 1761, Nov. 28, 1990, 104 Stat. 3803, 3804; Pub. L. 104–127, title IV, §401(e), Apr. 4, 1996, 110 Stat. 1026; Pub. L. 104–193, title VIII, §853, Aug. 22, 1996, 110 Stat. 2339; Pub. L. 105–362, title I, §101(b), Nov. 10, 1998, 112 Stat. 3281; Pub. L. 107–171, title IV, §§4118(c), 4122(c), May 13, 2002, 116 Stat. 321, 324; Pub. L. 110–234, title IV, §§4001(b), 4002(a)(10), 4406(a)(1), title VII, §7101(b)(3), May 22, 2008, 122 Stat. 1092, 1095, 1140, 1213; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4002(a)(10), 4406(a)(1), title VII, §7101(b)(3), June 18, 2008, 122 Stat. 1664, 1853, 1856, 1902, 1974; Pub. L. 113–79, title IV, §§4018(b), (c), 4024, 4030(j), Feb. 7, 2014, 128 Stat. 797, 809, 814; Pub. L. 115–334, title IV, §4016, Dec. 20, 2018, 132 Stat. 4648.)
+(Pub. L. 88–525, §18, as added Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 979; amended Pub. L. 96–58, §1, Aug. 14, 1979, 93 Stat. 389; Pub. L. 96–249, title I, §134, title II, §201, May 26, 1980, 94 Stat. 368, 370; Pub. L. 97–18, §1, June 30, 1981, 95 Stat. 102; Pub. L. 97–98, title XIII, §§1331, 1332, Dec. 22, 1981, 95 Stat. 1291; Pub. L. 97–253, title I, §§180(b)(2), 183, Sept. 8, 1982, 96 Stat. 784, 785; Pub. L. 99–198, title XV, §§1535(c)(2), 1541, 1542(a), Dec. 23, 1985, 99 Stat. 1585, 1589; Pub. L. 101–624, title XVII, §§1760, 1761, Nov. 28, 1990, 104 Stat. 3803, 3804; Pub. L. 104–127, title IV, §401(e), Apr. 4, 1996, 110 Stat. 1026; Pub. L. 104–193, title VIII, §853, Aug. 22, 1996, 110 Stat. 2339; Pub. L. 105–362, title I, §101(b), Nov. 10, 1998, 112 Stat. 3281; Pub. L. 107–171, title IV, §§4118(c), 4122(c), May 13, 2002, 116 Stat. 321, 324; Pub. L. 110–234, title IV, §§4001(b), 4002(a)(10), 4406(a)(1), title VII, §7101(b)(3), May 22, 2008, 122 Stat. 1092, 1095, 1140, 1213; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4002(a)(10), 4406(a)(1), title VII, §7101(b)(3), June 18, 2008, 122 Stat. 1664, 1853, 1856, 1902, 1974; Pub. L. 113–79, title IV, §§4018(b), (c), 4024, 4030(j), Feb. 7, 2014, 128 Stat. 797, 809, 814; Pub. L. 115–334, title IV, §4016, Dec. 20, 2018, 132 Stat. 4648.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -133,6 +135,8 @@ Subsec. (e). Pub. L. 97–98, §1332, added subsec. (e).
 Subsec. (b). Pub. L. 96–58, §1(3), substituted "Notwithstanding any other provision of this chapter, if" for "If" at beginning of second sentence.
 
 Subsecs. (c), (d). Pub. L. 96–58, §1(4), added subsecs. (c) and (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

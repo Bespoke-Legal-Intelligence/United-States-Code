@@ -4,7 +4,7 @@
 
 The Secretary shall provide grants in accordance with this section to assist the residents of rural areas and small communities to secure adequate quantities of safe water—
 
-&emsp;(1) after a significant decline in the quantity or quality of water available from the watersupplies of such rural areas and small communities, or when such a decline is imminent; or
+&emsp;(1) after a significant decline in the quantity or quality of water available from the water supplies of such rural areas and small communities, or when such a decline is imminent; or
 
 &emsp;(2) when repairs, partial replacement, or significant maintenance efforts on established water systems would remedy—
 
@@ -102,7 +102,7 @@ Subject to subsection (e), grants under this section shall be made in an amount 
 
 #### (A) In general
 
-&emsp;&emsp;For each fiscal year, not less than 5 percent and not more than 7 percent of thetotal amount made available to carry out section 1926(a)(2) of this title for the fiscal year shall be reserved for grants under this section.
+&emsp;&emsp;For each fiscal year, not less than 5 percent and not more than 7 percent of the total amount made available to carry out section 1926(a)(2) of this title for the fiscal year shall be reserved for grants under this section.
 
 #### (B) Release
 
@@ -112,13 +112,15 @@ Subject to subsection (e), grants under this section shall be made in an amount 
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;Notwithstanding clause (i), in response to an eligible community where the drinking water supplies are inadequate, as determined by the Secretary, due to an event, including drought, severe weather, or contamination, the Secretary may use funds described in subparagraph (A) from July 1 through September 30 each fiscal year to provide potable water under this section in order to protect public health.
+&emsp;&emsp;&emsp;Notwithstanding clause (i), in response to an eligible community where the drinking water supplies are inadequate, as determined by the Secretary, due to anevent, including drought, severe weather, or contamination, the Secretary may use funds described in subparagraph (A) from July 1 through September 30 each fiscal year to provide potable water under this section in order to protect public health.
 
 #### (2) Authorization of appropriations
 
 &emsp;In addition to funds made available under paragraph (1), there is authorized to be appropriated to carry out this section $50,000,000 for each of fiscal years 2019 through 2023.
 
 (Pub. L. 87–128, title III, §306A, as added Pub. L. 101–82, title V, §501(a), Aug. 14, 1989, 103 Stat. 584; amended Pub. L. 104–127, title VII, §742, Apr. 4, 1996, 110 Stat. 1124; Pub. L. 107–171, title VI, §6009, May 13, 2002, 116 Stat. 356; Pub. L. 110–234, title VI, §6008, May 22, 2008, 122 Stat. 1163; Pub. L. 110–246, §4(a), title VI, §6008, June 18, 2008, 122 Stat. 1664, 1924; Pub. L. 113–79, title VI, §6007, Feb. 7, 2014, 128 Stat. 843; Pub. L. 115–334, title VI, §6407(a), Dec. 20, 2018, 132 Stat. 4759.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -177,6 +179,8 @@ Subsec. (i). Pub. L. 107–171, §6009(7), added subsec. (i) and struck out head
 Subsec. (e)(2). Pub. L. 104–127, §742(1)(B), substituted "3,000" for "5,000".
 
 Subsec. (i). Pub. L. 104–127, §742(2), added subsec. (i) and struck out heading and text of former subsec. (i). Text read as follows: "There are authorized to be appropriated to carry out this section, $35,000,000 for each of the fiscal years 1990 and 1991, such sums to remain authorized until fully appropriated."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

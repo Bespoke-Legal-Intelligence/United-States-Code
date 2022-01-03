@@ -114,7 +114,7 @@ As part of the international cooperative activities authorized in this section, 
 
 #### (g) Cybersecurity
 
-As part of the international cooperative activities authorized in this section, the UnderSecretary, in coordination with the Department of State and appropriate Federal officials, may enter into cooperative research activities with Israel to strengthen preparedness against cyber threats and enhance capabilities in cybersecurity.
+As part of the international cooperative activities authorized in this section, the Under Secretary, in coordination with the Department of State and appropriate Federal officials, may enter into cooperative research activities with Israel to strengthen preparedness against cyber threats and enhance capabilities in cybersecurity.
 
 #### (h) Construction; authorities of the Secretary of State
 

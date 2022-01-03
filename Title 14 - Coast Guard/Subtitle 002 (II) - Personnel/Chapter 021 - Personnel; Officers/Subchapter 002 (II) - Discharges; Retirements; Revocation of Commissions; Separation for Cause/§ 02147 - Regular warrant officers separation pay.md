@@ -8,7 +8,7 @@
 
 (d) The acceptance of separation pay under this section does not deprive an individual of any retirement benefits from the United States. However, there shall be deducted from each of his retirement payments so much thereof as is based on the service for which he has received separation pay under this section, until the total deductions equal the amount of such separation pay.
 
-(Added Pub. L. 96–513, title V, §505(a)(1), Dec. 12, 1980, 94 Stat. 2918, §286a; amended Pub. L. 102–190, div. A, title XI, §1125(b)(1), Dec. 5, 1991, 105 Stat. 1505; Pub. L. 103–337, div. A, title V, §541(f)(2), Oct. 5, 1994, 108 Stat. 2766; Pub. L. 105–383, title II, §201(a), (b), Nov. 13, 1998, 112 Stat. 3414; Pub. L. 107–295, title IV, §416(a)(4), Nov. 25, 2002, 116 Stat. 2121; Pub. L. 112–213, title II, §217(4), Dec. 20, 2012, 126 Stat. 1557; renumbered §2147, Pub. L. 115–282, title I, §112(b), Dec. 4, 2018, 132 Stat. 4216; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8505(a)(17), Jan. 1, 2021, 134 Stat. 4748.)
+(Added Pub. L. 96–513, title V, §505(a)(1), Dec. 12, 1980, 94 Stat. 2918, §286a; amended Pub. L. 102–190, div. A, title XI, §1125(b)(1), Dec. 5, 1991, 105 Stat. 1505; Pub. L. 103–337, div. A, title V, §541(f)(2), Oct. 5, 1994, 108 Stat. 2766; Pub. L. 105–383, title II, §201(a), (b), Nov. 13, 1998, 112 Stat. 3414; Pub. L. 107–295, title IV, §416(a)(4),Nov. 25, 2002, 116 Stat. 2121; Pub. L. 112–213, title II, §217(4), Dec. 20, 2012, 126 Stat. 1557; renumbered §2147, Pub. L. 115–282, title I, §112(b), Dec. 4, 2018, 132 Stat. 4216; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8505(a)(17), Jan. 1, 2021, 134 Stat. 4748.)
 
 #### <b>Editorial Notes</b>
 
@@ -26,7 +26,7 @@
 
 Subsec. (d). Pub. L. 105–383, §201(a), struck out at end "However, no person is entitled to severance pay under this section in an amount that is more than $15,000."
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–337 substituted "section 580(a)(4)(A) of title 10" for "section 564(a)(3) of title 10\(as in effect on the day before the effective date of the Warrant Officer Management Act)".
+<b>1994</b>—Subsec. (a). Pub. L. 103–337 substituted "section 580(a)(4)(A) of title 10" for "section 564(a)(3) of title 10 (as in effect on the day before the effective date of the Warrant Officer Management Act)".
 
 <b>1991</b>—Subsec. (a). Pub. L. 102–190 inserted "(as in effect on the day before the effective date of the Warrant Officer Management Act)" after "section 564(a)(3) of title 10".
 

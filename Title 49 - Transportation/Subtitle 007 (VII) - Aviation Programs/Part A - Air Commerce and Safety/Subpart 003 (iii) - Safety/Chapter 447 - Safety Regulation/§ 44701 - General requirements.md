@@ -88,7 +88,7 @@ Acceptance.—Subject to subparagraph (D), the Administrator may accept an airwo
 
 &emsp;&emsp;(B)
 
-Alternative approval process.—Notwithstanding subparagraph (A), the Administrator may issue a Federal Aviation Administration airworthiness directive insteadof accepting an airworthiness directive otherwise eligible for acceptance under such subparagraph, if the Administrator determines that such issuance is necessary for safety or operational reasons due to the complexity or unique features of the Federal Aviation Administration airworthiness directive or the United States aviation system.
+Alternative approval process.—Notwithstanding subparagraph (A), the Administrator may issue a Federal Aviation Administration airworthiness directive instead of accepting an airworthiness directive otherwise eligible for acceptance under such subparagraph, if the Administrator determines that such issuance is necessary for safety or operational reasons due to the complexity or unique features of the Federal Aviation Administration airworthiness directive or the United States aviation system.
 
 &emsp;&emsp;(C)
 
@@ -100,7 +100,7 @@ Alternative means of compliance.—The Administrator may—
 
 &emsp;&emsp;(D)
 
-Limitation.—The Administrator may not accept an airworthiness directive issued by an aeronautical safety authority of a foreign country if the airworthiness directive addresses matters other than those involving the safe operation of an aircraft.
+Limitation.—The Administrator may not accept an airworthiness directive issuedby an aeronautical safety authority of a foreign country if the airworthiness directive addresses matters other than those involving the safe operation of an aircraft.
 
 (f)
 
@@ -188,6 +188,8 @@ In subsection (e), the words "from time to time" are omitted as surplus. The wor
 
 This amends 49:44701(d) and (e) to correct erroneous cross-references.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (e)(5). Pub. L. 115–254 added par. (5).
@@ -195,6 +197,8 @@ This amends 49:44701(d) and (e) to correct erroneous cross-references.
 <b>2000</b>—Subsecs. (e), (f). Pub. L. 106–181 added subsec. (e) and redesignated former subsec. (e) as (f).
 
 <b>1994</b>—Subsecs. (d), (e). Pub. L. 103–429 substituted "any of sections 44702–44716" for "section 44702–44716".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 
@@ -450,7 +454,7 @@ Functions.—In carrying out its duties under subsection (b), the Advisory Commi
 
 &emsp;&emsp;"(C) other interested parties.
 
-&emsp;"(3) Recommend consensus national goals, strategic objectives, and priorities for the most efficient,streamlined, and cost-effective certification and safety oversight processes in order to maintain the safety of the aviation system and, at the same time, allow the FAA to meet future needs and ensure that aviation stakeholders remain competitive in the global marketplace.
+&emsp;"(3) Recommend consensus national goals, strategic objectives, and priorities for the most efficient, streamlined, and cost-effective certification and safety oversight processes in order to maintain the safety of the aviation system and, at the same time, allow the FAA to meet future needs and ensure that aviation stakeholders remain competitive in the global marketplace.
 
 &emsp;"(4) Provide policy guidance recommendations for the FAA's certification and safety oversight efforts.
 
@@ -872,7 +876,7 @@ Authority.—Notwithstanding any other provision of law, the Administrator shall
 
 "(e)
 
-Report.—Not later than 1 year after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator shall submit to the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives\] a report on the results of the study required under subsection (a), including the recommendations described in subsection (c).
+Report.—Not later than 1 year after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator shall submit to the appropriate committees of Congress \[Committee on Commerce, Science, and Transportationof the Senate and Committee on Transportation and Infrastructure of the House of Representatives\] a report on the results of the study required under subsection (a), including the recommendations described in subsection (c).
 
 "(f)
 
@@ -982,7 +986,7 @@ Fatigue Risk Management Plan.—
 
 &emsp;"(1)
 
-Submission of plan by part 121 air carriers.—Not later than 90 days after the date of enactment ofthis Act, each air carrier operating under part 121 of title 14, Code of Federal Regulations (in this section referred to as a 'part 121 air carrier'), shall submit to the Administrator of the Federal Aviation Administration for review and acceptance a fatigue risk management plan for the carrier's flight attendants.
+Submission of plan by part 121 air carriers.—Not later than 90 days after the date of enactment of this Act, each air carrier operating under part 121 of title 14, Code of Federal Regulations (in this section referred to as a 'part 121 air carrier'), shall submit to the Administrator of the Federal Aviation Administration for review and acceptance a fatigue risk management plan for the carrier's flight attendants.
 
 &emsp;"(2)
 
@@ -1118,7 +1122,7 @@ Duties.—The interagency working group shall consult with relevant stakeholders
 
 "(d)
 
-Update.—Not later than 1 year after the date of enactment of this Act, the Secretary of Transportation shall provide to the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives\] an update on the status of the public awareness campaign required under subsection (a)."
+Update.—Not later than 1 year after the date of enactment of this Act, the Secretary of Transportation shall provide to the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives\] anupdate on the status of the public awareness campaign required under subsection (a)."
 
 #### Cockpit Automation Management
 
@@ -1230,7 +1234,7 @@ Goals of Program.—The goals of the NOTAM Improvement Program are—
 
 "(c)
 
-Advice From Private Sector Groups.—The Administrator shall establish a NOTAM Improvement Panel, which shall be comprised of representatives of relevant nonprofit and not-for-profit general aviation pilot groups, to advise the Administrator in carrying out the goals of the NOTAM Improvement Program under this section.
+Advice From Private Sector Groups.—The Administrator shall establish a NOTAM Improvement Panel, which shall be comprised of representatives of relevant nonprofit and not-for-profit general aviationpilot groups, to advise the Administrator in carrying out the goals of the NOTAM Improvement Program under this section.
 
 "(d)
 
@@ -1424,7 +1428,7 @@ Limited exceptions to restrictions on air transportation of medical device batte
 
 Medial \[sic\]
 
-device defined.—ln \[sic\] this subsection, the term 'medical device' means an instrument, apparatus, implement, machine, contrivance, implant, or in vitro reagent, including any component, part, or accessory thereof, which is intended foruse in the diagnosis of disease or other conditions, or in the cure, mitigation, treatment, or prevention of disease, of a person.
+device defined.—ln \[sic\] this subsection, the term 'medical device' means an instrument, apparatus, implement, machine, contrivance, implant, or in vitro reagent, including any component, part, or accessory thereof, which is intended for use in the diagnosis of disease or other conditions, or in the cure, mitigation, treatment, or prevention of disease, of a person.
 
 &emsp;"(4)
 
@@ -1800,13 +1804,13 @@ Aviation Rulemaking Committee.—
 
 &emsp;"(1)
 
-In general.—The Administrator of the Federal Aviation Administration shall convene an aviationrulemaking committee to develop procedures for each part 121 air carrier to take the following actions:
+In general.—The Administrator of the Federal Aviation Administration shall convene an aviation rulemaking committee to develop procedures for each part 121 air carrier to take the following actions:
 
 &emsp;&emsp;"(A) Establish flight crewmember mentoring programs under which the air carrier will pair highly experienced flight crewmembers who will serve as mentor pilots and be paired with newly employed flight crewmembers. Mentor pilots should be provided, at a minimum, specific instruction on techniques for instilling and reinforcing the highest standards of technical performance, airmanship, and professionalism in newly employed flight crewmembers.
 
 &emsp;&emsp;"(B) Establish flight crewmember professional development committees made up of air carrier management and labor union or professional association representatives to develop, administer, and oversee formal mentoring programs of the carrier to assist flight crewmembers to reach their maximum potential as safe, seasoned, and proficient flight crewmembers.
 
-&emsp;&emsp;"(C) Establish or modify training programs to accommodate substantially different levels and types of flight experience by newly employed flight crewmembers.
+&emsp;&emsp;"(C) Establish or modify training programs to accommodate substantially different levels and typesof flight experience by newly employed flight crewmembers.
 
 &emsp;&emsp;"(D) Establish or modify training programs for second-in-command flight crewmembers attempting to qualify as pilot-in-command flight crewmembers for the first time in a specific aircraft type and ensure that such programs include leadership and command training.
 
@@ -2072,7 +2076,7 @@ Effect of Commuting on Fatigue.—
 
 &emsp;"(1)
 
-In general.—Not later than 60 days after the date of enactment of this Act, the Administrator shall enter into appropriate arrangements with the National Academy of Sciences to conduct a study ofthe effects of commuting on pilot fatigue and report its findings to the Administrator.
+In general.—Not later than 60 days after the date of enactment of this Act, the Administrator shall enter into appropriate arrangements with the National Academy of Sciences to conduct a study of the effects of commuting on pilot fatigue and report its findings to the Administrator.
 
 &emsp;"(2)
 
@@ -2202,7 +2206,7 @@ Deadlines.—The Administrator shall issue—
 
 "(d)
 
-Safety Management System Defined.—In this section, the term 'safety management system' meansthe program established by the Federal Aviation Administration in Advisory Circular 120–92, dated June 22, 2006, including any subsequent revisions thereto.
+Safety Management System Defined.—In this section, the term 'safety management system' means the program established by the Federal Aviation Administration in Advisory Circular 120–92, dated June 22, 2006, including any subsequent revisions thereto.
 
 #### "SEC. 216. FLIGHT CREWMEMBER SCREENING AND QUALIFICATIONS.
 
@@ -2346,7 +2350,7 @@ Contents.—The study shall include the following:
 
 &emsp;"(3)
 
-Report.—Not later than 12 months after the initiation of the arrangements under subsection (a),the National Academy of Sciences shall transmit to Congress a report on the results of the study."
+Report.—Not later than 12 months after the initiation of the arrangements under subsection (a), the National Academy of Sciences shall transmit to Congress a report on the results of the study."
 
 #### Air Transportation Oversight System
 
@@ -2362,7 +2366,7 @@ Required Contents.—At a minimum, the report shall indicate—
 
 &emsp;"(1) any funding or staffing constraints that would adversely impact the Administration's ability to continue to develop and implement the air transportation oversight system;
 
-&emsp;"(2) progress in integrating the aviation safety data derived from such system's inspections with existing aviation data of the Administration in the safety performance analysis system of the Administration; and
+&emsp;"(2) progress in integrating the aviation safety data derived from such system's inspections with existingaviation data of the Administration in the safety performance analysis system of the Administration; and
 
 &emsp;"(3) the Administration's efforts in collaboration with the aviation industry to develop and validate safety performance measures and appropriate risk weightings for such system.
 
@@ -2466,7 +2470,7 @@ In General.—Not later than 120 days after the last day of the 1-year period de
 
 "(b)
 
-Form of Decision.—A decision under this section shall be in the form of a notice of proposed rulemaking requiring automatic external defibrillators in airports or on passenger aircraft operated by air carriers, orboth, or a recommendation to Congress for legislation requiring such defibrillators or a notice in the Federal Register that such defibrillators should not be required in airports or on such aircraft. If a decision under this section is in the form of a notice of proposed rulemaking, the Administrator shall make a final decision not later than the 120th day following the date on which comments are due on the notice of proposed rulemaking.
+Form of Decision.—A decision under this section shall be in the form of a notice of proposed rulemaking requiring automatic external defibrillators in airports or on passenger aircraft operated by air carriers, or both, or a recommendation to Congress for legislation requiring such defibrillators or a notice in the Federal Register that such defibrillators should not be required in airports or on such aircraft. If a decision under this section is in the form of a notice of proposed rulemaking, the Administrator shall make a final decision not later than the 120th day following the date on which comments are due on the notice of proposed rulemaking.
 
 "(c)
 

@@ -10,11 +10,15 @@ In this chapter:
 
 (Pub. L. 113–291, div. A, title XIII, §1312, Dec. 19, 2014, 128 Stat. 3595.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this subtitle", meaning subtitle B (§§1311–1352) of title XIII of div. A of Pub. L. 113–291, Dec. 19, 2014, 128 Stat. 3595, known as the Department of Defense Cooperative Threat Reduction Act, which is classified principally to this chapter. For complete classification of subtitle B to the Code, see Short Title note set out below and Tables.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title
 
-Pub. L. 113–291, div. A, title XIII, §1311, Dec. 19, 2014, 128 Stat. 3595, provided that: "This subtitle \[subtitle B (§§1311–1352) of title XIII of div. A of Pub. L. 113–291, enacting this chapter, repealing sections 5902, 5921, 5952, 5953, 5955, 5957, 5959 to 5961, and 5962 to 5965 of Title 22, Foreign Relations and Intercourse, amending provisions set out as notes under sections 2551, 5952, and 5955 of Title 22, and repealing provisions set out as notes under section 2362 of this title and section 5952 of Title 22\] may be cited as the 'Department of Defense Cooperative Threat Reduction Act'."
+Pub. L. 113–291, div. A, title XIII, §1311, Dec. 19, 2014, 128 Stat. 3595, provided that: "This subtitle \[subtitle B\(§§1311–1352) of title XIII of div. A of Pub. L. 113–291, enacting this chapter, repealing sections 5902, 5921, 5952, 5953, 5955, 5957, 5959 to 5961, and 5962 to 5965 of Title 22, Foreign Relations and Intercourse, amending provisions set out as notes under sections 2551, 5952, and 5955 of Title 22, and repealing provisions set out as notes under section 2362 of this title and section 5952 of Title 22\] may be cited as the 'Department of Defense Cooperative Threat Reduction Act'."
 

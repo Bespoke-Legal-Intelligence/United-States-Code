@@ -50,7 +50,7 @@ To the extent possible, in collecting and reporting the data described in subsec
 
 The Secretary shall—
 
-&emsp;(1) submit the report described in subsection (a) to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives; and
+&emsp;(1) submit the report described in subsection (a) to the Committee on Finance of the Senateand the Committee on Ways and Means of the House of Representatives; and
 
 &emsp;(2) publish the report in the Federal Register and on the website of the Department of Commerce.
 
@@ -70,13 +70,15 @@ The Secretary shall—
 
 <i>For termination of section beginning on July 1, 2021, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see Termination Date note below.</i>
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Termination Date
 
 For revival and applicability, beginning on June 29, 2015, of this section as in effect on Dec. 31, 2013, see section 402(b), (c) of Pub. L. 114–27, set out as an Effective and Termination Dates of 2015 Revival note preceding section 2271 of this title.
 
 For termination of section, beginning on July 1, 2021, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see section 406 of Pub. L. 114–27, set out as an Effective and Termination Dates of 2015 Revival note preceding section 2271 of this title.
 
-Section 233 of Pub. L. 112–40, formerly set out as an Effective and Termination Dates of 2011 Revival note preceding section 2271 of this title, which provided for the termination of this section beginning on Jan. 1,2014, subject to certain exceptions, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, effective June 29, 2015.
+Section 233 of Pub. L. 112–40, formerly set out as an Effective and Termination Dates of 2011 Revival note preceding section 2271 of this title, which provided for the termination of this section beginning on Jan. 1, 2014, subject to certain exceptions, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, effective June 29, 2015.
 
 Except as otherwise provided, assistance may not be provided under this section after June 30, 2021, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 

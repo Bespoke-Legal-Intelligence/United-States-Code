@@ -10,6 +10,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2013</b>—Pub. L. 112–239, div. A, title IX, §921(b)(2), Jan. 2, 2013, 126 Stat. 1878, added item 443 and struck out former item 443 "Imagery intelligence and geospatial information: support for foreign countries".

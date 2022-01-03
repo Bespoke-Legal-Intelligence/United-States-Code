@@ -52,7 +52,7 @@ The Administrator shall direct the Office of Oceanic and Atmospheric Research (i
 
 #### (2) Location
 
-&emsp;The Administrator shall, if practicable, carry out the activities authorized by thischapter at a facility where the Navy and the Administration are co-located, for the following purposes:
+&emsp;The Administrator shall, if practicable, carry out the activities authorized by this chapter at a facility where the Navy and the Administration are co-located, for the following purposes:
 
 &emsp;&emsp;(A) Gaining efficiencies through collaboration.
 

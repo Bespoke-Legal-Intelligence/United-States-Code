@@ -130,9 +130,11 @@ The State shall include the following information in the annual report required 
 
 #### (2) Inclusion of information on enrollees in managed care plans
 
-&emsp;The information under paragraph (1) shall include information on children who are enrolled in managed care plans and other privatehealth plans and contracts with such plans under this subchapter shall provide for the reporting of such information by such plans to the State.
+&emsp;The information under paragraph (1) shall include information on children who are enrolled in managed care plans and other private health plans and contracts with such plans under this subchapter shall provide for the reporting of such information by such plans to the State.
 
 (Aug. 14, 1935, ch. 531, title XXI, §2108, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 566; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §703(b), (c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–401; Pub. L. 111–3, title II, §201(b)(2)(B)(ii), title IV, §402(a), title V, §501(e)(2), title VI, §§603, 604, Feb. 4, 2009, 123 Stat. 39, 82, 87, 99; Pub. L. 111–8, div. G, title I, §1301(e), Mar. 11, 2009, 123 Stat. 829; Pub. L. 111–148, title IV, §4302(b)(1)(B), Mar. 23, 2010, 124 Stat. 581.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -153,6 +155,8 @@ Subsec. (e). Pub. L. 111–3, §501(e)(2), added subsec. (e) relating to informa
 Pub. L. 111–3, §402(a)(2), added subsec. (e) relating to information required for inclusion in State annual report.
 
 <b>1999</b>—Subsecs. (c), (d). Pub. L. 106–113 added subsecs. (c) and (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

@@ -1,10 +1,12 @@
 ### §1623. Financial assistance to certain employees in acquisition of critical skills
 
-(a) The Secretary of Defense shall establish an undergraduate training program with respect to civilian employees of the Defense Intelligence Agency that is similar in purpose, conditions, content, and administration to the programwhich the Secretary of Defense is authorized to establish under section 16 of the National Security Agency Act of 1959 (50 U.S.C. 3614) for civilian employees of the National Security Agency.
+(a) The Secretary of Defense shall establish an undergraduate training program with respect to civilian employees of the Defense Intelligence Agency that is similar in purpose, conditions, content, and administration to the program which the Secretary of Defense is authorized to establish under section 16 of the National Security Agency Act of 1959 (50 U.S.C. 3614) for civilian employees of the National Security Agency.
 
 (b) Any payments made by the Secretary to carry out the program required to be established by subsection (a) may be made in any fiscal year only to the extent that appropriated funds are available for that purpose.
 
 (Added Pub. L. 101–193, title V, §507(a)(1), Nov. 30, 1989, 103 Stat. 1709, §1608; renumbered §1623, Pub. L. 104–201, div. A, title XVI, §1632(a)(2), Sept. 23, 1996, 110 Stat. 2745; amended Pub. L. 113–291, div. A, title X, §1071(c)(9), Dec. 19, 2014, 128 Stat. 3509.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -17,6 +19,8 @@ A prior section 1624, added Pub. L. 99–145, title IX, §924(a)(1), Nov. 8, 198
 <b>2014</b>—Subsec. (a). Pub. L. 113–291 substituted "(50 U.S.C. 3614)" for "(50 U.S.C. 402 note)".
 
 <b>1996</b>—Pub. L. 104–201 renumbered section 1608 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

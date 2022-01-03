@@ -42,7 +42,7 @@ Vessels Described.—A vessel referred to in subsection (a) is a foreign vessel 
 
 (c)
 
-Information and Publication.—The Secretary of the department in which the Coast Guard is operating, with the concurrence of the Secretary of State, shall—
+Information and Publication.—The Secretary of the department in which the CoastGuard is operating, with the concurrence of the Secretary of State, shall—
 
 &emsp;(1) maintain timely information on the registrations of all foreign vessels over 300 gross tons that are known to be—
 

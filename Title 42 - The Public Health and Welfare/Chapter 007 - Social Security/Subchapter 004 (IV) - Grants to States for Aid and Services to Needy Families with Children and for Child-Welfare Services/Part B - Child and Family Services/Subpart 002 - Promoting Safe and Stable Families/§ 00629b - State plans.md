@@ -6,7 +6,7 @@ A State plan meets the requirements of this subsection if the plan—
 
 &emsp;(1) provides that the State agency shall administer, or supervise the administration of, the State program under this subpart;
 
-&emsp;(2)(A)(i) sets forth the goals intended to be accomplished under the plan by the end of the 5th fiscal year in which the plan is in operation in the State, and (ii) is updated periodically to set forth the goals intended to be accomplished under the plan by the end of each 5th fiscal year thereafter;
+&emsp;(2)(A)(i) sets forth the goals intended to be accomplished under the plan by the end of the5th fiscal year in which the plan is in operation in the State, and (ii) is updated periodically to set forth the goals intended to be accomplished under the plan by the end of each 5th fiscal year thereafter;
 
 &emsp;(B) describes the methods to be used in measuring progress toward accomplishment of the goals;
 
@@ -94,6 +94,8 @@ A State plan meets the requirements of this subsection if the plan—
 
 (Aug. 14, 1935, ch. 531, title IV, §432, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 651; amended Pub. L. 105–89, title III, §305(b)(1), (c)(1), Nov. 19, 1997, 111 Stat. 2130, 2131; Pub. L. 105–200, title IV, §410(c), July 16, 1998, 112 Stat. 673; Pub. L. 109–288, §§3(e)(1), (2), 5(b)(3)(A), (c), Sept. 28, 2006, 120 Stat. 1235, 1243, 1244; Pub. L. 112–34, title I, §102(b), (e), (g)(1), Sept. 30, 2011, 125 Stat. 371, 372; Pub. L. 115–123, div. E, title VII, §50721(b)(2), Feb. 9, 2018, 132 Stat. 245.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 432 of act Aug. 14, 1935, was classified to section 632 of this title prior to repeal by Pub. L. 100–485.
@@ -134,6 +136,8 @@ Subsec. (a)(9). Pub. L. 105–89, §305(c)(1), added par. (9).
 
 Subsec. (b)(1). Pub. L. 105–89, §305(b)(1)(B), substituted ", family support, time-limited family reunification, and adoption promotion and support" for "and family support".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–123 effective Oct. 1, 2018, subject to transition rules for required State legislation or tribal action, see section 50734 of Pub. L. 115–123, set out as a note under section 622 of this title.
@@ -144,7 +148,7 @@ Amendment by Pub. L. 112–34 effective Oct. 1, 2011, and applicable to payments
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–288, §3(e)(3), Sept. 28, 2006, 120 Stat. 1236, provided that: "The amendments made by this subsection \[amending this section\] take effect on the date of enactment of this Act \[Sept. 28, 2006\]. Each State with an approved plan under subpart 1 or 2 of part B of title IV of the Social Security Act \[42 U.S.C. 620 et seq., 629 et seq.\] shall make its initial submission of the forms required under section 432(a)(8)(B) of the Social Security Act \[42 U.S.C. 629b(a)(8)(B)\] to the Secretary of Health and Human Services by June 30, 2007, and the Secretary of Health and Human Services shall submit the first compilation required under section 432(c) of the Social Security Act \[42 U.S.C. 629b(c)\] by September 30, 2007."
+Pub. L. 109–288, §3(e)(3), Sept. 28, 2006, 120 Stat. 1236, provided that: "The amendments made by this subsection \[amending this section\] take effect on the date of enactment of this Act \[Sept. 28, 2006\]. Each State with an approved plan under subpart 1 or 2 of part B of title IV of the Social Security Act \[42 U.S.C. 620 et seq., 629 et seq.\] shall make its initial submission of the forms required under section 432(a)(8)(B) of the Social Security Act \[42 U.S.C. 629b(a)(8)(B)\] to the Secretary of Health and Human Services by June 30, 2007, and the Secretary of Health and Human Services shall submit the first compilation required under section 432(c) ofthe Social Security Act \[42 U.S.C. 629b(c)\] by September 30, 2007."
 
 Amendment by Pub. L. 109–288 effective Oct. 1, 2006, except as otherwise provided, and applicable to payments under this part and part E of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 12(a), (b) of Pub. L. 109–288, set out as a note under section 621 of this title.
 

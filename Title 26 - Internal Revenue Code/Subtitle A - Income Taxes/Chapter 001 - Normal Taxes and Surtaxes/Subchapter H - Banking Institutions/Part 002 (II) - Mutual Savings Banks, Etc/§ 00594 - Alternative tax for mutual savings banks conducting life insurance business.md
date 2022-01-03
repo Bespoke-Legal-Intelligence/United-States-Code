@@ -6,13 +6,15 @@ In the case of a mutual savings bank not having capital stock represented by sha
 
 &emsp;(1) A partial tax computed on the taxable income determined without regard to any items of gross income or deductions properly allocable to the business of the life insurance department, at the rates and in the manner as if this section had not been enacted; and
 
-&emsp;(2) a partial tax computed on the income of the life insurance department determined without regard to any items of gross incomeor deductions not properly allocable to such department, at the rates and in the manner provided in subchapter L (sec. 801 and following) with respect to life insurance companies.
+&emsp;(2) a partial tax computed on the income of the life insurance department determined without regard to any items of gross income or deductions not properly allocable to such department, at the rates and in the manner provided in subchapter L (sec. 801 and following) with respect to life insurance companies.
 
 #### (b) Limitations of section
 
 Subsection (a) shall apply only if the life insurance department would, if it were treated as a separate corporation, qualify as a life insurance company under section 816.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 205; Mar. 13, 1956, ch. 83, §5(3), 70 Stat. 49; Pub. L. 98–369, div. A, title II, §211(b)(8), July 18, 1984, 98 Stat. 755; Pub. L. 115–97, title I, §13001(b)(2)(E), Dec. 22, 2017, 131 Stat. 2096.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -21,6 +23,8 @@ Subsection (a) shall apply only if the life insurance department would, if it we
 <b>1984</b>—Subsec. (b). Pub. L. 98–369 substituted "section 816" for "section 801".
 
 <b>1956</b>—Subsec. (a)(2). Act Mar. 13, 1956, substituted "the income" for "the taxable income (as defined in section 803)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 

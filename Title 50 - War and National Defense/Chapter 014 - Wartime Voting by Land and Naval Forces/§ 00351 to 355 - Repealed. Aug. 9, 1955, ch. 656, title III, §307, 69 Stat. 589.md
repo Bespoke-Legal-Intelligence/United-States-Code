@@ -18,6 +18,8 @@ A prior section 354, act Sept. 16, 1942, ch. 561, title IV, §404, as added Apr.
 
 Section 355, act Sept. 16, 1942, ch. 561, title IV, §405, as added Apr. 19, 1946, ch. 142, 60 Stat. 103, related to construction of this chapter.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Additional Repeal
 
 Sections 351 to 355 were also repealed by act Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641.

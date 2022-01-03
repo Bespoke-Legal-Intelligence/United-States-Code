@@ -4,13 +4,17 @@
 
 (b) The General Counsel shall perform such functions as the Secretary of the Air Force may prescribe.
 
-(Added Pub. L. 99–433, title V, §521(a)(5), Oct. 1, 1986, 100 Stat. 1059, §8019; amended Pub. L. 100–456, div. A, title VII, §703(a), Sept. 29, 1988, 102 Stat. 1996; renumbered §9019, Pub. L. 115–232,div. A, title VIII, §806(c), Aug. 13, 2018, 132 Stat. 1833.)
+(Added Pub. L. 99–433, title V, §521(a)(5), Oct. 1, 1986, 100 Stat. 1059, §8019; amended Pub. L. 100–456, div. A, title VII, §703(a), Sept. 29, 1988, 102 Stat. 1996; renumbered §9019, Pub. L. 115–232, div. A, title VIII, §806(c), Aug. 13, 2018, 132 Stat. 1833.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 8019 of this title as this section.
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–456 inserted ", by and with the advice and consent of the Senate" before period at end.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

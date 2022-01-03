@@ -4,6 +4,8 @@ The President may proclaim duty-free treatment (or other preferential treatment)
 
 (Pub. L. 98–67, title II, §211, Aug. 5, 1983, 97 Stat. 384; Pub. L. 106–200, title II, §211(e)(1)(A), May 18, 2000, 114 Stat. 287.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this title", meaning title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out below and Tables.
@@ -11,6 +13,8 @@ This chapter, referred to in text, was in the original "this title", meaning tit
 #### Amendments
 
 <b>2000</b>—Pub. L. 106–200 inserted "(or other preferential treatment)" after "treatment".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2020 Amendment
 

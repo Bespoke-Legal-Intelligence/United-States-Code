@@ -22,7 +22,7 @@ If a teacher does not report for service at the beginning of the next school yea
 
 #### (e) Employment in other positions during recess periods
 
-Quarters, quarters allowance, and storage provided under this section shall be in lieu of any quarters, quarters allowance, and storage to which he otherwise might be entitled by reason of employment in another position during any recess period between two school years.
+Quarters, quarters allowance, and storage provided under this section shall be in lieu of anyquarters, quarters allowance, and storage to which he otherwise might be entitled by reason of employment in another position during any recess period between two school years.
 
 #### (f) Lease of military family housing by teacher assigned to teach at Guantanamo Bay Naval Station, Cuba
 
@@ -31,6 +31,8 @@ Quarters, quarters allowance, and storage provided under this section shall be i
 (2) For any period for which military family housing is leased under paragraph (1) to a teacher described in such paragraph, the teacher shall receive a quarters allowance in the amount determined under subsection (b). The teacher is entitled to such quarters allowance without regard to whether other Government furnished quarters are available for occupancy by the teacher without charge to the teacher.
 
 (Pub. L. 86–91, §7, July 17, 1959, 73 Stat. 216; Pub. L. 87–172, §1, Aug. 30, 1961, 75 Stat. 409; Pub. L. 107–314, div. A, title III, §342, Dec. 2, 2002, 116 Stat. 2515.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -43,6 +45,8 @@ Section was formerly classified to section 2355 of Title 5 prior to the general 
 <b>2002</b>—Subsec. (f). Pub. L. 107–314 added subsec. (f).
 
 <b>1961</b>—Subsec. (d). Pub. L. 87–172 inserted "except for reasons beyond his control and acceptable to the Department of Defense".
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

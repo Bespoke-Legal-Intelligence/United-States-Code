@@ -4,6 +4,8 @@ The purpose of this part is to establish the contracting process which the Secre
 
 (Aug. 14, 1935, ch. 531, title XI, §1151, as added Pub. L. 97–248, title I, §143, Sept. 3, 1982, 96 Stat. 382; amended Pub. L. 112–40, title II, §261(a)(2)(C), Oct. 21, 2011, 125 Stat. 423.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1320c, act Aug. 14, 1935, ch. 531, title XI, §1151, as added Oct. 30, 1972, Pub. L. 92–603, title II, §249F(b), 86 Stat. 1429; amended Aug. 13, 1981, Pub. L. 97–35, title XXI, §2113(a), 95 Stat. 794, set out the Congressional declaration of purpose of former part B, in the general revision of this part by Pub. L. 97–248.
@@ -11,6 +13,8 @@ A prior section 1320c, act Aug. 14, 1935, ch. 531, title XI, §1151, as added Oc
 #### Amendments
 
 <b>2011</b>—Pub. L. 112–40 substituted "the quality improvement organizations" for "the utilization and quality control peer review organizations" and "such quality improvement organizations" for "such peer review organizations".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 
@@ -76,7 +80,7 @@ Pub. L. 97–448, title III, §309(d), Jan. 12, 1983, 96 Stat. 2410, provided th
 
 Pub. L. 97–248, title I, §150, Sept. 3, 1982, 96 Stat. 395, as amended by Pub. L. 97–448, title III, §309(a)(9), Jan. 12, 1983, 96 Stat. 2408, provided that:
 
-"(a) The Secretary of Health and Human Services shall not terminate or fail to renew any agreement in effect with a professional standards review organization under part B of title XI of the Social Security Act\[42 U.S.C. 1320c et seq.\] on the earlier of the date of the enactment of this Act \[Sept. 3, 1982\] or September 30, 1982 until such time as he enters into a contract with a utilization and quality control peer review organization under such part, as amended by this subtitle \[subtitle C (§§141–150) of title I of Pub. L. 97–248\], for the area served by such professional standards review organization. In complying with this subsection, the Secretary may renew any such agreement with a professional standards review organization for a period of less than 12 months.
+"(a) The Secretary of Health and Human Services shall not terminate or fail to renew any agreement in effect with a professional standards review organization under part B of title XI of the Social Security Act \[42 U.S.C. 1320c et seq.\] on the earlier of the date of the enactment of this Act \[Sept. 3, 1982\] or September 30, 1982 until such time as he enters into a contract with a utilization and quality control peer review organization under such part, as amended by this subtitle \[subtitle C (§§141–150) of title I of Pub. L. 97–248\], for the area served by such professional standards review organization. In complying with this subsection, the Secretary may renew any such agreement with a professional standards review organization for a period of less than 12 months.
 
 "(b) The provisions of part B of title XI of the Social Security Act \[42 U.S.C. 1320c et seq.\] as in effect prior to the amendments made by this subtitle \[subtitle C (§§141–150) of title I of Pub. L. 97–248\] shall remain in effect with respect to agreements with professional standards review organizations in effect on the earlier of the date of the enactment of this Act \[Sept. 3, 1982\] or September 30, 1982, until such time as such agreement is terminated or is not renewed, in accordance with subsection (a). Any matters awaiting a determination by a Statewide Professional Standards Review Council on the date of the enactment of this Act shall be transferred to the Secretary of Health and Human Services for a determination unless such determination is made by such Council within 30 days after the date of the enactment of this Act. No payments shall be made under part B of title XI of the Social Security Act to Statewide Professional Standards Review Councils for services performed under section 1162 of such Act \[42 U.S.C. 1320c–11\] after the end of such 30-day period."
 

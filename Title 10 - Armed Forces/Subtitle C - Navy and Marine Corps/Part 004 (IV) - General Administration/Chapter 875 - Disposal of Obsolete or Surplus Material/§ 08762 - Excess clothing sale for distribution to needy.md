@@ -24,6 +24,8 @@ In subsection (a) the words "absolutely free" are omitted as surplusage.
 
 In subsection (b) the words "for other distribution" are substituted for the words "distribution within any other State". The words "at least" are added for clarity.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7542 of this title as this section.
@@ -31,6 +33,8 @@ In subsection (b) the words "for other distribution" are substituted for the wor
 <b>2002</b>—Subsec. (a). Pub. L. 107–217 substituted "section 121 of title 40" for "section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486)".
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted "section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486)" for "section 486 of title 40".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

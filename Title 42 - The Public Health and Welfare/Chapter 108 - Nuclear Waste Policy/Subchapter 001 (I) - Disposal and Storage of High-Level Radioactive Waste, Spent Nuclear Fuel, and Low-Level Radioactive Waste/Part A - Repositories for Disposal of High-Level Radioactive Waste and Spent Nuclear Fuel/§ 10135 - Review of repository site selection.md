@@ -30,7 +30,7 @@ If any notice of disapproval of a repository site designation has been submitted
 
 (B) Debate on a resolution of siting approval, and on all debatable motions and appeals in connection with such resolution, shall be limited to not more than 10 hours, which shall be divided equally between Members favoring and Members opposing such resolution. A motion further to limit debate shall be in order and shall not be debatable. Such motion shall not be subject to amendment, to a motion to postpone, or to a motion to proceed to the consideration of other business, and a motion to recommit such resolution shall not be in order. A motion to reconsider the vote by which such resolution is agreed to or disagreed to shall not be in order.
 
-(C) Immediately following the conclusion of the debate on a resolution of siting approval, and a single quorum call at the conclusion of such debate if requested in accordance with the rules of the Senate, the vote on final approval of such resolution shall occur.
+(C) Immediately following the conclusion of the debate on a resolution of siting approval, and a single quorum call at the conclusion of such debate if requested in accordance with therules of the Senate, the vote on final approval of such resolution shall occur.
 
 (D) Appeals from the decisions of the Chair relating to the application of the rules of the Senate to the procedure relating to a resolution of siting approval shall be decided without debate.
 
@@ -81,6 +81,8 @@ For purposes of this section—
 In considering any notice of disapproval submitted to the Congress under section 10136 or 10138 of this title, the Congress may obtain any comments of the Commission with respect to such notice of disapproval. The provision of such comments by the Commission shall not be construed as binding the Commission with respect to any licensing or authorization action concerning the repository involved.
 
 (Pub. L. 97–425, title I, §115, Jan. 7, 1983, 96 Stat. 2217.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Yucca Mountain, Nevada Repository Site
 

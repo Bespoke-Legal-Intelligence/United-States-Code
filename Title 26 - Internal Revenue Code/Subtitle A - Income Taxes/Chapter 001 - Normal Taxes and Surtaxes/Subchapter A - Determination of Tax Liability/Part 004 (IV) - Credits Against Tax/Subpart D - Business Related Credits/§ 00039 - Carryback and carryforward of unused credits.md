@@ -52,7 +52,9 @@ The amount of the unused credit which may be taken into account under section 38
 
 No portion of the unused business credit for any taxable year which is attributable to a credit specified in section 38(b) or any portion thereof may be carried back to any taxable year before the first taxable year for which such specified credit or such portion is allowable (without regard to subsection (a)).
 
-(Added Pub. L. 98–369, div. A, title IV, §473, July 18, 1984, 98 Stat. 828; amended Pub. L. 99–514, title II, §231(d)(3)(C)(i), title XVIII, §1846, Oct. 22, 1986, 100 Stat. 2179, 2856; Pub. L. 100–647, title I, §1002(l)(26), Nov. 10, 1988, 102 Stat. 3381; Pub. L. 101–508, title XI, §§11511(b)(2), 11611(b)(2), 11801(a)(2), Nov. 5, 1990, 104 Stat. 1388–485, 1388–503, 1388–520; Pub. L. 102–486, title XIX, §1914(c), Oct. 24, 1992, 106 Stat. 3023; Pub. L. 103–66, title XIII, §§13302(a)(2), 13322(d), 13443(b)(2), Aug. 10, 1993, 107 Stat. 555, 563, 569; Pub. L. 104–188, title I, §§1205(c), 1703(n)(1), Aug. 20, 1996, 110 Stat. 1775, 1877; Pub. L. 105–34, title VII, §701(b)(1), title X, §1083(a), Aug. 5, 1997, 111 Stat. 869, 951; Pub. L. 105–206, title VI, §6010(n), July 22, 1998, 112 Stat. 816; Pub. L. 106–554, §1(a)(7) \[title I, §121(b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–610; Pub. L. 107–16, title VI, §619(c)(1), June 7, 2001, 115 Stat. 110; Pub. L. 108–357, title II, §245(b)(1), title III, §341(c), Oct. 22, 2004, 118 Stat. 1447, 1487; Pub. L. 109–135, title IV, §412(g), Dec. 21, 2005, 119 Stat. 2637; Pub. L. 111–240, title II, §2012(a), (b), Sept. 27, 2010, 124 Stat. 2554; Pub. L. 115–141, div. U, title IV, §401(b)(5)(E), (F), Mar. 23, 2018, 132 Stat. 1202.)
+(Added Pub. L. 98–369, div. A, title IV, §473, July 18, 1984, 98 Stat. 828; amended Pub. L. 99–514, title II, §231(d)(3)(C)(i), title XVIII, §1846, Oct. 22, 1986, 100 Stat. 2179, 2856; Pub. L. 100–647, title I, §1002(l)(26), Nov. 10, 1988, 102 Stat. 3381; Pub. L. 101–508, title XI, §§11511(b)(2), 11611(b)(2), 11801(a)(2), Nov. 5, 1990, 104 Stat. 1388–485, 1388–503, 1388–520; Pub. L. 102–486, title XIX, §1914(c), Oct. 24, 1992, 106 Stat. 3023; Pub. L. 103–66, title XIII, §§13302(a)(2), 13322(d), 13443(b)(2), Aug. 10, 1993, 107 Stat. 555, 563, 569; Pub. L. 104–188, title I, §§1205(c), 1703(n)(1), Aug. 20, 1996, 110 Stat. 1775, 1877; Pub. L. 105–34, title VII, §701(b)(1), title X, §1083(a), Aug. 5, 1997, 111 Stat. 869, 951; Pub. L. 105–206, title VI, §6010(n), July 22, 1998, 112 Stat. 816; Pub. L. 106–554, §1(a)(7) \[title I, §121(b)(2)\], Dec. 21, 2000, 114 Stat.2763, 2763A–610; Pub. L. 107–16, title VI, §619(c)(1), June 7, 2001, 115 Stat. 110; Pub. L. 108–357, title II, §245(b)(1), title III, §341(c), Oct. 22, 2004, 118 Stat. 1447, 1487; Pub. L. 109–135, title IV, §412(g), Dec. 21, 2005, 119 Stat. 2637; Pub. L. 111–240, title II, §2012(a), (b), Sept. 27, 2010, 124 Stat. 2554; Pub. L. 115–141, div. U, title IV, §401(b)(5)(E), (F), Mar. 23, 2018, 132 Stat. 1202.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -118,6 +120,8 @@ Subsec. (d)(2)(B). Pub. L. 99–514, §1846(2), substituted "as defined in secti
 
 Subsec. (d)(3). Pub. L. 99–514, §231(d)(3)(C)(i), added par. (3).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Pub. L. 111–240, title II, §2012(c), Sept. 27, 2010, 124 Stat. 2554, provided that: "The amendments made by this section \[amending this section\] shall apply to credits determined in taxable years beginning after December 31, 2009."
@@ -162,7 +166,7 @@ Amendment by section 13443(b)(2) of Pub. L. 103–66 applicable with respect to 
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–486 applicable to taxable years ending after Dec. 31, 1992, see section 1914(e) ofPub. L. 102–486, set out as a note under section 38 of this title.
+Amendment by Pub. L. 102–486 applicable to taxable years ending after Dec. 31, 1992, see section 1914(e) of Pub. L. 102–486, set out as a note under section 38 of this title.
 
 #### Effective Date of 1990 Amendment
 

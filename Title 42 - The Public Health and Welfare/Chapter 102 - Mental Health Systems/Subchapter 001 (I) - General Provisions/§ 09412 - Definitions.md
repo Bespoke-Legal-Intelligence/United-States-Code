@@ -6,9 +6,11 @@ For purposes of this chapter:
 
 &emsp;(2) The term "State" includes (in addition to the fifty States) the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Trust Territory of the Pacific Islands, and the Northern Mariana Islands.
 
-&emsp;(3) The term "nonprofit", as applied to any entity, means an entity which is owned andoperated by one or more corporations or associations no part of the net earnings of which inures or may lawfully inure to the benefit of any private shareholder or person.
+&emsp;(3) The term "nonprofit", as applied to any entity, means an entity which is owned and operated by one or more corporations or associations no part of the net earnings of which inures or may lawfully inure to the benefit of any private shareholder or person.
 
 (Pub. L. 96–398, title I, §102, Oct. 7, 1980, 94 Stat. 1569; Pub. L. 97–35, title IX, §902(f)(1)(B), (C), Aug. 13, 1981, 95 Stat. 560.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -18,9 +20,13 @@ This chapter, referred to in text, was in the original "this Act", meaning Pub. 
 
 <b>1981</b>—Pub. L. 97–35 redesignated former par. (5) as (3). Former pars. (3), (4), (6), and (7), which defined "State mental health authority", "mental health service area", "priority population group", and "Governor", respectively, were struck out.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 902(h) of Pub. L. 97–35, set out as a note under section 238l of this title.
+
+#### <b>Executive Documents</b>
 
 #### Termination of Trust Territory of the Pacific Islands
 

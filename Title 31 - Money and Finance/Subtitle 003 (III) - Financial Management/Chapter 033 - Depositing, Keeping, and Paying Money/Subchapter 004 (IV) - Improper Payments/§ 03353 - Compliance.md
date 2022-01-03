@@ -32,7 +32,7 @@ OMB guidance.—Not later than 180 days after the date of enactment of this sect
 
 &emsp;&emsp;(B) Inspectors General evaluate and take into account the adequacy of executive agency risk assessments, improper payment estimates methodology, and executive agency action plans to address the causes of improper payments;
 
-&emsp;&emsp;(C) Inspectors General take into account whether the executive agency has correctly identified the causes of improper paymentsand whether the actions of the executive agency to address those causes are adequate and effective;
+&emsp;&emsp;(C) Inspectors General take into account whether the executive agency has correctly identified the causes of improper payments and whether the actions of the executive agency to address those causes are adequate and effective;
 
 &emsp;&emsp;(D) Inspectors General evaluate the adequacy of executive agency action plans on how the executive agency addresses the causes of improper payments; and
 

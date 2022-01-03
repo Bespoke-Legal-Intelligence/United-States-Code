@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than 180 days after December 27, 2020, the Secretary shall issue final agency-specific procedures necessary to implement the principles and requirements and the interagency guidelines.
+Not later than 180 days after December 27, 2020, the Secretary shall issue final agency-specific procedures necessary to implement theprinciples and requirements and the interagency guidelines.
 
 #### (b) Development of future water resources development projects
 
@@ -44,9 +44,13 @@ In this section:
 
 (Pub. L. 116–260, div. AA, title I, §110, Dec. 27, 2020, 134 Stat. 2624.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as a part of the Water Resources Development Act of 2020, and not as a part of the Water Resources Planning Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

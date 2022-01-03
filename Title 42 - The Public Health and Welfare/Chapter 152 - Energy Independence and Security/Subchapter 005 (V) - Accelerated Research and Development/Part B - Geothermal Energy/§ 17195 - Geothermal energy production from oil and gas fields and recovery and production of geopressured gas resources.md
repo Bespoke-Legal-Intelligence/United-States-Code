@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall establish a program of research, development, demonstration, and commercial application to support development ofgeothermal energy production from oil and gas fields and production and recovery of energy, including electricity, from geopressured resources. In addition, the Secretary shall conduct such supporting activities including research, resource characterization, and technology development as necessary.
+The Secretary shall establish a program of research, development, demonstration, and commercial application to support development of geothermal energy production from oil and gas fields and production and recovery of energy, including electricity, from geopressured resources. In addition, the Secretary shall conduct such supporting activities including research, resource characterization, and technology development as necessary.
 
 #### (b) Geothermal energy production from oil and gas fields
 
@@ -63,6 +63,8 @@ Not less than 90 days after December 19, 2007, the Secretary shall conduct a nat
 No funds may be used under this section for the purpose of drilling new wells.
 
 (Pub. L. 110–140, title VI, §616, Dec. 19, 2007, 121 Stat. 1681.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

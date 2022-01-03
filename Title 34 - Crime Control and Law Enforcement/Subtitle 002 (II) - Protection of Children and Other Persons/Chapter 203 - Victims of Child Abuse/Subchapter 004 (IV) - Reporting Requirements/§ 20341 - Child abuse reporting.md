@@ -62,7 +62,7 @@ For the purposes of this section—
 
 &emsp;(9) the term "covered individual" means an adult who—
 
-&emsp;&emsp;(A) is authorized, by a national governing body, a member of a national governing body, or an amateur sports organization that participates in interstate or international amateur athletic competition, to interact with a minor or amateur athlete at an amateur sports organization facility or at any event sanctioned by a national governing body, a member of a national governing body, or such an amateur sports organization; or
+&emsp;&emsp;(A) is authorized, by a national governing body, a member of a national governing body, or an amateur sports organization that participates in interstate or international amateur athletic competition, tointeract with a minor or amateur athlete at an amateur sports organization facility or at any event sanctioned by a national governing body, a member of a national governing body, or such an amateur sports organization; or
 
 &emsp;&emsp;(B) is an employee or representative of the United States Center for SafeSport;
 

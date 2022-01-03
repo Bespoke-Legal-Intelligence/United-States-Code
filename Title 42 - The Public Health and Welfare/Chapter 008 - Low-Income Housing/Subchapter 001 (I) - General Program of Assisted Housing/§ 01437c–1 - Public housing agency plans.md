@@ -66,7 +66,7 @@
 
 #### (d) Contents
 
-An annual public housing agency plan under subsection (b) for a public housing agency shallcontain the following information relating to the upcoming fiscal year for which the assistance under this chapter is to be made available:
+An annual public housing agency plan under subsection (b) for a public housing agency shall contain the following information relating to the upcoming fiscal year for which the assistance under this chapter is to be made available:
 
 #### (1) Needs
 
@@ -218,7 +218,7 @@ An annual public housing agency plan under subsection (b) for a public housing a
 
 #### (1) In general
 
-&emsp;In developing a public housing agency plan under this section, the board of directors or similar governing body of a public housing agency shall conduct a public hearing to discuss the public housing agency plan and to invite public comment regarding that plan. Thehearing shall be conducted at a location that is convenient to residents.
+&emsp;In developing a public housing agency plan under this section, the board of directors or similar governing body of a public housing agency shall conduct a public hearing to discuss the public housing agency plan and to invite public comment regarding that plan. The hearing shall be conducted at a location that is convenient to residents.
 
 #### (2) Availability of information and notice
 
@@ -366,6 +366,8 @@ In carrying out this section, the Secretary may establish a streamlined public h
 
 (Sept. 1, 1937, ch. 896, title I, §5A, as added Pub. L. 105–276, title V, §511(a), Oct. 21, 1998, 112 Stat. 2531; amended Pub. L. 109–162, title VI, §603, Jan. 5, 2006, 119 Stat. 3040; Pub. L. 110–289, div. B, title VII, §2702, July 30, 2008, 122 Stat. 2863.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Cranston-Gonzalez National Affordable Housing Act, referred to in subsecs. (c)(2)(B) and (i)(1)(B), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Title I of the Act is classified generally to subchapter I (§12701 et seq.) of chapter 130 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
@@ -392,6 +394,8 @@ Subsec. (a)(2), (3). Pub. L. 109–162, §603(1)(B), (C), added par. (2) and red
 
 Subsec. (d)(13) to (19). Pub. L. 109–162, §603(2), (3), added par. (13) and redesignated former pars. (13) to (18) as (14) to (19), respectively.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Pub. L. 105–276, title V, §511(e), Oct. 21, 1998, 112 Stat. 2539, provided that: "This section \[enacting this section, amending section 1437d of this title, and enacting provisions set out as notes under this section\] shall take effect, and the amendments made by this section are made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\]."
@@ -406,7 +410,7 @@ Interim rule.—Not later than 120 days after the date of the enactment of this 
 
 "(2)
 
-Final regulations.—Not later than 1 year after the date of the enactment of this Act \[Oct. 21, 1998\], the Secretary shall issue final regulations implementing section 5A of the United States Housing Act of 1937 \[42 U.S.C. 1437c–1\] (as added by subsection (a) of this section).
+Final regulations.—Not later than 1 year after the date of the enactment of this Act \[Oct. 21, 1998\], the Secretary shall issue final regulations implementing section 5A of the United States Housing Act of 1937 \[42U.S.C. 1437c–1\] (as added by subsection (a) of this section).
 
 "(3)
 

@@ -50,7 +50,7 @@
 
 &emsp;(7) the current incidence of the offense in the community and in the Nation as a whole.
 
-(d) The Commission in establishing categories of defendants for use in the guidelines and policy statements governing the imposition of sentences of probation, a fine, or imprisonment, governing the imposition of other authorized sanctions, governing the size of a fine or the length of a term of probation, imprisonment, or supervised release, and governing the conditions of probation, supervised release, or imprisonment, shall consider whether the following matters, among others, with respect to a defendant, have any relevance to the nature, extent, place of service, or other incidents <sup>2</sup> of an appropriate sentence, and shall take them into account only to the extent that they do have relevance—
+(d) The Commission in establishing categories of defendants for use in the guidelines and policy statements governing the imposition of sentences of probation, a fine, or imprisonment, governing the imposition of other authorized sanctions, governing the size of a fine or the length of a term of probation, imprisonment, or supervised release, and governing the conditions of probation, supervised release, or imprisonment, shall consider whether the following matters, among others, with respect to a defendant,have any relevance to the nature, extent, place of service, or other incidents <sup>2</sup> of an appropriate sentence, and shall take them into account only to the extent that they do have relevance—
 
 &emsp;(1) age;
 
@@ -126,7 +126,7 @@
 
 (n) The Commission shall assure that the guidelines reflect the general appropriateness of imposing a lower sentence than would otherwise be imposed, including a sentence that is lower than that established by statute as a minimum sentence, to take into account a defendant's substantial assistance in the investigation or prosecution of another person who has committed an offense.
 
-(o) The Commission periodically shall review and revise, in consideration of comments anddata coming to its attention, the guidelines promulgated pursuant to the provisions of this section. In fulfilling its duties and in exercising its powers, the Commission shall consult with authorities on, and individual and institutional representatives of, various aspects of the Federal criminal justice system. The United States Probation System, the Bureau of Prisons, the Judicial Conference of the United States, the Criminal Division of the United States Department of Justice, and a representative of the Federal Public Defenders shall submit to the Commission any observations, comments, or questions pertinent to the work of the Commission whenever they believe such communication would be useful, and shall, at least annually, submit to the Commission a written report commenting on the operation of the Commission's guidelines, suggesting changes in the guidelines that appear to be warranted, and otherwise assessing the Commission's work.
+(o) The Commission periodically shall review and revise, in consideration of comments and data coming to its attention, the guidelines promulgated pursuant to the provisions of this section. In fulfilling its duties and in exercising its powers, the Commission shall consult with authorities on, and individual and institutional representatives of, various aspects of the Federal criminal justice system. The United States Probation System, the Bureau of Prisons, the Judicial Conference of the United States, the Criminal Division of the United States Department of Justice, and a representative of the Federal Public Defenders shall submit to the Commission any observations, comments, or questions pertinent to the work of the Commission whenever they believe such communication would be useful, and shall, at least annually, submit to the Commission a written report commenting on the operation of the Commission's guidelines, suggesting changes in the guidelines that appear to be warranted, and otherwise assessing the Commission's work.
 
 (p) The Commission, at or after the beginning of a regular session of Congress, but not later than the first day of May, may promulgate under subsection (a) of this section and submit to Congress amendments to the guidelines and modifications to previously submitted amendments that have not taken effect, including modifications to the effective dates of such amendments. Such an amendment or modification shall be accompanied by a statement of the reasons therefor and shall take effect on a date specified by the Commission, which shall be no earlier than 180 days after being so submitted and no later than the first day of November of the calendar year in which the amendment or modification is submitted, except to the extent that the effective date is revised or the amendment is otherwise modified or disapproved by Act of Congress.
 
@@ -218,7 +218,7 @@ Subsec. (p). Pub. L. 100–690, §7109, amended subsec. (p) generally. Prior to 
 
 <b>1987</b>—Subsec. (r). Pub. L. 100–182, §23(a), substituted "two years" for "one year".
 
-Subsec. (s). Pub. L. 100–182, §23(b), struck out at end: "Within one hundred and eighty days of the filing of such petition the Commission shall provide written notice to the defendant whether or not it has approved the petition. If the petition is disapproved the written notice shall contain the reasons for such disapproval. The Commission shall submit to the Congress at least annually an analysis of such written notices."
+Subsec. (s). Pub. L. 100–182, §23(b), struck out at end: "Within one hundred and eighty days of the filing ofsuch petition the Commission shall provide written notice to the defendant whether or not it has approved the petition. If the petition is disapproved the written notice shall contain the reasons for such disapproval. The Commission shall submit to the Congress at least annually an analysis of such written notices."
 
 Subsec. (w). Pub. L. 100–182, §16(b), inserted "(other than a sentence imposed for a petty offense, as defined in title 18, for which there is no applicable sentencing guideline)" after "each sentence imposed".
 
@@ -310,7 +310,7 @@ Pub. L. 109–76, §3, Sept. 29, 2005, 119 Stat. 2035.—False testimony and obs
 
 Pub. L. 109–9, title I, §105, Apr. 27, 2005, 119 Stat. 222.—Intellectual property rights crimes.
 
-Pub. L. 108–482, title II, §204(b), Dec. 23, 2004, 118 Stat. 3917.—Online felony offenses involving use of a domain name registered with materially false contact information.
+Pub. L. 108–482, title II, §204(b), Dec. 23, 2004, 118 Stat. 3917.—Online felony offenses involving use of a domainname registered with materially false contact information.
 
 Pub. L. 108–458, title VI, §6703(b), Dec. 17, 2004, 118 Stat. 3766.—False testimony and obstruction of justice involving international or domestic terrorism.
 

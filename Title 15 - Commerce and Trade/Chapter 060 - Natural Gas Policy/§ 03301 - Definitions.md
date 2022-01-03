@@ -74,7 +74,7 @@ For purposes of this chapter—
 
 #### (12) Rollover contract
 
-&emsp;The term "rollover contract" means any contract, entered into on or after November 9, 1978, for the first sale of natural gas that was previously subject to an existing contract which expired at the end of a fixed term (not including any extension thereof taking effect on or after November 9, 1978) specified by the provisions of such existing contract, as such contract was in effect on November 9, 1978, whether or not there is an identity of parties or terms with those of such existing contract.
+&emsp;The term "rollover contract" means any contract, entered into on or after November 9,1978, for the first sale of natural gas that was previously subject to an existing contract which expired at the end of a fixed term (not including any extension thereof taking effect on or after November 9, 1978) specified by the provisions of such existing contract, as such contract was in effect on November 9, 1978, whether or not there is an identity of parties or terms with those of such existing contract.
 
 #### (13) Existing contract
 
@@ -150,7 +150,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;&emsp;(iv) which precedes any sale described in clauses (i), (ii), or (iii); and
 
-&emsp;&emsp;&emsp;(v) which precedes or follows any sale described in clauses (i), (ii), (iii), or (iv) and is defined by the Commission as a first sale in order to prevent circumvention of any maximum lawful price established under this chapter.
+&emsp;&emsp;&emsp;(v) which precedes or follows any sale described in clauses (i), (ii), (iii), or (iv) and is defined by the Commission as a first sale in order to prevent circumvention ofany maximum lawful price established under this chapter.
 
 #### (B) Certain sales not included
 
@@ -222,6 +222,8 @@ For purposes of this chapter—
 
 (Pub. L. 95–621, §2, Nov. 9, 1978, 92 Stat. 3352.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Natural Gas Act, and such Act, referred to in pars. (15), (16), (18)(A)(ii), (B)(i), (iii)(II), (23), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to chapter 15B (§717 et seq.) of this title. For complete classification of this Act to the Code, see section 717w of this title and Tables.
@@ -234,7 +236,9 @@ The Clayton Act (15 U.S.C. 12, 13, 14–19, 20, 21, 22–27), referred to in par
 
 The Federal Trade Commission Act (15 U.S.C. 41 et seq.), referred to in par. (37), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
-Act of June 19, 1936, chapter 592, referred to in par. (37), means act June 19, 1936, ch. 592, 49 Stat. 1526, popularly known as the Robinson-Patman Antidiscrimination Act and also as the Robinson-Patman Price Discrimination Act, which enacted sections 13a, 13b, and 21a of this title and amended section 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 13 of this title and Tables.
+Act of June 19, 1936, chapter 592, referred to in par. (37), means act June 19, 1936, ch. 592, 49 Stat. 1526, popularly known as the Robinson-Patman Antidiscrimination Act and also as the Robinson-Patman Price Discrimination Act, which enacted sections 13a, 13b, and 21a of this title and amended section 13 of this title. For complete classification of this Act to the Code, seeShort Title note set out under section 13 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 1989 Amendment
 

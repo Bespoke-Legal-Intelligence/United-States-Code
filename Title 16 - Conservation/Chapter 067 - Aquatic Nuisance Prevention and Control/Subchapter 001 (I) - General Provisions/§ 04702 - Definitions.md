@@ -10,7 +10,7 @@ As used in this chapter, the term—
 
 &emsp;(4) "Director" means the Director of the United States Fish and Wildlife Service;
 
-&emsp;(5) "exclusive economic zone" means the Exclusive Economic Zone of the United States established by Proclamation Number 5030, dated March 10, 1983, and the equivalent zone of Canada;
+&emsp;(5) "exclusive economic zone" means the Exclusive Economic Zone of the United Statesestablished by Proclamation Number 5030, dated March 10, 1983, and the equivalent zone of Canada;
 
 &emsp;(6) "environmentally sound" methods, efforts, actions or programs means methods, efforts, actions or programs to prevent introductions or control infestations of aquatic nuisance species that minimize adverse impacts to the structure and function of an ecosystem and adverse effects on non-target organisms and ecosystems and emphasize integrated pest management techniques and nonchemical measures;
 
@@ -62,6 +62,8 @@ As used in this chapter, the term—
 
 (Pub. L. 101–646, title I, §1003, Nov. 29, 1990, 104 Stat. 4762; Pub. L. 102–580, title III, §302(b)(2), Oct. 31, 1992, 106 Stat. 4839; Pub. L. 104–332, §2(a)(2), (h)(1), (3), Oct. 26, 1996, 110 Stat. 4074, 4091.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", which, to reflect the probable intent of Congress, was translated as reading "this title" meaning title I of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4761, known as the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under section 4701 of this title and Tables.
@@ -95,6 +97,8 @@ Pub. L. 104–332, §2(a)(2)(C), redesignated pars. (9) and (10) as (11) and (12
 Pars. (11) to (17). Pub. L. 104–332, §2(a)(2)(C), redesignated pars. (9) to (15) as (11) to (17), respectively.
 
 <b>1992</b>—Par. (1). Pub. L. 102–580 inserted "the Committee on Public Works and Transportation and" after "means".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

@@ -78,7 +78,7 @@
 
 #### (3) Standard of review
 
-&emsp;The Secretary shall review activities carried out under the program described in paragraph (1) to determine the achievement of technical milestones.
+&emsp;The Secretary shall review activities carried out under the program described in paragraph\(1) to determine the achievement of technical milestones.
 
 #### (4) Prohibition
 
@@ -111,6 +111,8 @@
 &emsp;No funds allocated to the program described in paragraph (1) may be obligated or expended for commercial application of energy technology.
 
 (Pub. L. 109–58, title IX, §975, Aug. 8, 2005, 119 Stat. 903; Pub. L. 115–246, title III, §303(e)(1), Sept. 28, 2018, 132 Stat. 3143.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

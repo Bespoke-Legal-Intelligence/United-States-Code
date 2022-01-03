@@ -48,9 +48,13 @@ Clause (4) is added to avoid the necessity of repeating the substance of the def
 
 In clause (5), the words "train employee" are substituted for "employee" to distinguish the term from the terms "dispatching service employee" and "signal employee". The word "actually" is omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Par. (4). Pub. L. 110–432 struck out "employed by a railroad carrier" after "individual".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

@@ -44,7 +44,7 @@ The State leadership activities described in subsection (a) may include—
 
 &emsp;&emsp;(B) prepares career and technical education teachers, faculty, specialized instructional support personnel, and paraprofessionals to provide appropriate accommodations for students who are members of special populations, including through the use of principles of universal design for learning, multi-tier systems of supports, and positive behavioral interventions and support; and
 
-&emsp;&emsp;(C) increases the ability of teachers, faculty, specialized instructional support personnel, and paraprofessionals providing career and technical education instruction to stay current with industry standards and earn an industry-recognized credential or license, as appropriate, including by assisting those with relevant industry experience in obtaining State teacher licensure or credential requirements;
+&emsp;&emsp;(C) increases the ability of teachers, faculty, specialized instructional support personnel, and paraprofessionals providing career and technical education instruction to stay current with industry standards andearn an industry-recognized credential or license, as appropriate, including by assisting those with relevant industry experience in obtaining State teacher licensure or credential requirements;
 
 &emsp;(6) supporting eligible recipients in eliminating inequities in student access to—
 
@@ -118,6 +118,8 @@ An eligible agency that receives funds under section 2322(a)(2) of this title ma
 
 (Pub. L. 88–210, title I, §124, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 723; amended Pub. L. 113–128, title V, §512(e)(4), July 22, 2014, 128 Stat. 1707; Pub. L. 114–95, title IX, §9215(n)(7), Dec. 10, 2015, 129 Stat. 2170; Pub. L. 115–224, title I, §124, July 31, 2018, 132 Stat. 1608.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(5), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Title II of the Act is classified generally to subchapter II (§6601 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
@@ -126,7 +128,7 @@ The Higher Education Act of 1965, referred to in subsec. (b)(5), is Pub. L. 89�
 
 #### Prior Provisions
 
-A prior section 2344, Pub. L. 88–210, title I, §124, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3107,related to State leadership activities, prior to the general amendment of this chapter by Pub. L. 109–270.
+A prior section 2344, Pub. L. 88–210, title I, §124, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3107, related to State leadership activities, prior to the general amendment of this chapter by Pub. L. 109–270.
 
 #### Amendments
 
@@ -139,6 +141,8 @@ Subsecs. (c), (d). Pub. L. 115–224, §124(3)–(5), redesignated subsec. (d) a
 <b>2015</b>—Subsec. (b)(4)(A). Pub. L. 114–95 substituted "a well-rounded education (as defined in section 8101 of the Elementary and Secondary Education Act of 1965)" for "the core academic subjects (as defined in section 9101 of the Elementary and Secondary Education Act of 1965)".
 
 <b>2014</b>—Subsec. (c)(13). Pub. L. 113–128 substituted "such as through referral to the system established under section 3151 of title 29" for "such as through referral to the system established under section 2841 of title 29".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

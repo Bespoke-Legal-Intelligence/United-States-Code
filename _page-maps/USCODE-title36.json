@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title36",
- "package": "USCODE-2020-title36",
+ "package": "USCODE-2021-title36",
  "pieces": [
   {
    "id": "36_",
@@ -158,81 +158,81 @@
    "marks": [
     [
      "L",
-     60,
+     61,
      "[Page 14]",
      true
     ],
     [
      "I",
-     192,
+     195,
      [
       [
-       268,
+       113,
        "[Page 15]"
       ]
      ]
     ],
     [
      "L",
-     352,
+     353,
      "[Page 16]",
      true
     ],
     [
      "L",
-     480,
+     479,
      "[Page 17]",
      true
     ],
     [
      "L",
-     652,
+     651,
      "[Page 18]",
      true
     ],
     [
      "I",
-     806,
+     809,
      [
       [
-       163,
+       110,
        "[Page 19]"
       ]
      ]
     ],
     [
      "I",
-     916,
+     919,
      [
       [
-       203,
+       98,
        "[Page 20]"
       ]
      ]
     ],
     [
      "I",
-     1052,
+     1055,
      [
       [
-       384,
+       335,
        "[Page 21]"
       ]
      ]
     ],
     [
      "I",
-     1200,
+     1203,
      [
       [
-       141,
+       90,
        "[Page 22]"
       ]
      ]
     ],
     [
      "I",
-     1332,
+     1335,
      [
       [
        98,
@@ -242,19 +242,19 @@
     ],
     [
      "L",
-     1472,
+     1475,
      "[Page 24]",
      true
     ],
     [
      "L",
-     1646,
+     1649,
      "[Page 25]",
      true
     ],
     [
      "I",
-     1784,
+     1787,
      [
       [
        136,
@@ -264,31 +264,31 @@
     ],
     [
      "L",
-     1936,
+     1939,
      "[Page 27]",
      true
     ],
     [
      "L",
-     2076,
+     2079,
      "[Page 28]",
      true
     ],
     [
      "L",
-     2240,
+     2243,
      "[Page 29]",
      true
     ],
     [
      "L",
-     2378,
+     2381,
      "[Page 30]",
      true
     ],
     [
      "I",
-     2518,
+     2521,
      [
       [
        102,
@@ -298,7 +298,7 @@
     ],
     [
      "I",
-     2610,
+     2613,
      [
       [
        117,
@@ -308,15 +308,19 @@
     ],
     [
      "L",
-     2682,
+     2679,
      "[Page 33]",
      true
     ],
     [
-     "L",
-     2730,
-     "[Page 34]",
-     true
+     "I",
+     2737,
+     [
+      [
+       255,
+       "[Page 34]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 001 (I) - Patriotic and National Observances and Ceremonies/Part A - Observances and Ceremonies/Chapter 001 - Patriotic and National Observances/README.md",
@@ -330,7 +334,7 @@
    "marks": [
     [
      "L",
-     76,
+     68,
      "[Page 35]",
      true
     ]
@@ -381,14 +385,10 @@
    "id": "36_106",
    "marks": [
     [
-     "I",
-     16,
-     [
-      [
-       87,
-       "[Page 36]"
-      ]
-     ]
+     "L",
+     10,
+     "[Page 36]",
+     true
     ]
    ],
    "path": "Subtitle 001 (I) - Patriotic and National Observances and Ceremonies/Part A - Observances and Ceremonies/Chapter 001 - Patriotic and National Observances/§ 00106 - Constitution Day and Citizenship Day.md",
@@ -420,7 +420,7 @@
    "marks": [
     [
      "L",
-     42,
+     18,
      "[Page 37]",
      true
     ]
@@ -481,7 +481,7 @@
    "marks": [
     [
      "L",
-     14,
+     6,
      "[Page 38]",
      true
     ]
@@ -497,23 +497,19 @@
    "marks": [
     [
      "L",
-     130,
+     122,
      "[Page 39]",
      true
     ],
     [
-     "I",
-     306,
-     [
-      [
-       86,
-       "[Page 40]"
-      ]
-     ]
+     "L",
+     296,
+     "[Page 40]",
+     true
     ],
     [
      "L",
-     456,
+     442,
      "[Page 41]",
      true
     ]
@@ -537,10 +533,14 @@
    "id": "36_118",
    "marks": [
     [
-     "L",
-     12,
-     "[Page 42]",
-     true
+     "I",
+     8,
+     [
+      [
+       94,
+       "[Page 42]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 001 (I) - Patriotic and National Observances and Ceremonies/Part A - Observances and Ceremonies/Chapter 001 - Patriotic and National Observances/§ 00118 - National Aviation Day.md",
@@ -593,7 +593,7 @@
      40,
      [
       [
-       427,
+       209,
        "[Page 43]"
       ]
      ]
@@ -646,7 +646,7 @@
    "marks": [
     [
      "L",
-     16,
+     12,
      "[Page 44]",
      true
     ]
@@ -836,17 +836,22 @@
    ]
   },
   {
+   "id": "36_146",
+   "marks": [],
+   "path": "Subtitle 001 (I) - Patriotic and National Observances and Ceremonies/Part A - Observances and Ceremonies/Chapter 001 - Patriotic and National Observances/§ 00146 - National Atomic Veterans Day.md",
+   "printed_pages": [
+    47,
+    47
+   ]
+  },
+  {
    "id": "36_-Subtitle_I-Part_A-ch3",
    "marks": [
     [
-     "I",
-     58,
-     [
-      [
-       157,
-       "[Page 48]"
-      ]
-     ]
+     "L",
+     54,
+     "[Page 48]",
+     true
     ]
    ],
    "path": "Subtitle 001 (I) - Patriotic and National Observances and Ceremonies/Part A - Observances and Ceremonies/Chapter 003 - National Anthem, Motto, Floral Emblem, March, and Tree/README.md",
@@ -866,26 +871,26 @@
   },
   {
    "id": "36_302",
-   "marks": [],
-   "path": "Subtitle 001 (I) - Patriotic and National Observances and Ceremonies/Part A - Observances and Ceremonies/Chapter 003 - National Anthem, Motto, Floral Emblem, March, and Tree/§ 00302 - National motto.md",
-   "printed_pages": [
-    48,
-    48
-   ]
-  },
-  {
-   "id": "36_303",
    "marks": [
     [
      "L",
-     24,
+     34,
      "[Page 49]",
      true
     ]
    ],
-   "path": "Subtitle 001 (I) - Patriotic and National Observances and Ceremonies/Part A - Observances and Ceremonies/Chapter 003 - National Anthem, Motto, Floral Emblem, March, and Tree/§ 00303 - National floral emblem.md",
+   "path": "Subtitle 001 (I) - Patriotic and National Observances and Ceremonies/Part A - Observances and Ceremonies/Chapter 003 - National Anthem, Motto, Floral Emblem, March, and Tree/§ 00302 - National motto.md",
    "printed_pages": [
     48,
+    49
+   ]
+  },
+  {
+   "id": "36_303",
+   "marks": [],
+   "path": "Subtitle 001 (I) - Patriotic and National Observances and Ceremonies/Part A - Observances and Ceremonies/Chapter 003 - National Anthem, Motto, Floral Emblem, March, and Tree/§ 00303 - National floral emblem.md",
+   "printed_pages": [
+    49,
     49
    ]
   },
@@ -918,26 +923,26 @@
   },
   {
    "id": "36_501",
-   "marks": [],
-   "path": "Subtitle 001 (I) - Patriotic and National Observances and Ceremonies/Part A - Observances and Ceremonies/Chapter 005 - Presidential Inaugural Ceremonies/§ 00501 - Definitions.md",
-   "printed_pages": [
-    49,
-    49
-   ]
-  },
-  {
-   "id": "36_502",
    "marks": [
     [
      "L",
-     12,
+     36,
      "[Page 50]",
      true
     ]
    ],
-   "path": "Subtitle 001 (I) - Patriotic and National Observances and Ceremonies/Part A - Observances and Ceremonies/Chapter 005 - Presidential Inaugural Ceremonies/§ 00502 - Regulations, licenses, and registration tags.md",
+   "path": "Subtitle 001 (I) - Patriotic and National Observances and Ceremonies/Part A - Observances and Ceremonies/Chapter 005 - Presidential Inaugural Ceremonies/§ 00501 - Definitions.md",
    "printed_pages": [
     49,
+    50
+   ]
+  },
+  {
+   "id": "36_502",
+   "marks": [],
+   "path": "Subtitle 001 (I) - Patriotic and National Observances and Ceremonies/Part A - Observances and Ceremonies/Chapter 005 - Presidential Inaugural Ceremonies/§ 00502 - Regulations, licenses, and registration tags.md",
+   "printed_pages": [
+    50,
     50
    ]
   },
@@ -954,14 +959,10 @@
    "id": "36_504",
    "marks": [
     [
-     "I",
-     52,
-     [
-      [
-       103,
-       "[Page 51]"
-      ]
-     ]
+     "L",
+     14,
+     "[Page 51]",
+     true
     ]
    ],
    "path": "Subtitle 001 (I) - Patriotic and National Observances and Ceremonies/Part A - Observances and Ceremonies/Chapter 005 - Presidential Inaugural Ceremonies/§ 00504 - Installation and removal of electrical facilities.md",
@@ -1019,10 +1020,14 @@
    "id": "36_510",
    "marks": [
     [
-     "L",
-     22,
-     "[Page 52]",
-     true
+     "I",
+     4,
+     [
+      [
+       81,
+       "[Page 52]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 001 (I) - Patriotic and National Observances and Ceremonies/Part A - Observances and Ceremonies/Chapter 005 - Presidential Inaugural Ceremonies/§ 00510 - Disclosure of and prohibition on certain donations.md",
@@ -1054,7 +1059,7 @@
    "marks": [
     [
      "L",
-     12,
+     6,
      "[Page 53]",
      true
     ]
@@ -1106,10 +1111,10 @@
    "marks": [
     [
      "I",
-     12,
+     4,
      [
       [
-       216,
+       266,
        "[Page 54]"
       ]
      ]
@@ -1126,10 +1131,10 @@
    "marks": [
     [
      "I",
-     112,
+     100,
      [
       [
-       106,
+       101,
        "[Page 55]"
       ]
      ]
@@ -1161,26 +1166,26 @@
   },
   {
    "id": "36_-Subtitle_I-Part_B-ch21",
-   "marks": [],
-   "path": "Subtitle 001 (I) - Patriotic and National Observances and Ceremonies/Part B - United States Government Organizations Involved with Observances and Ceremonies/Chapter 021 - American Battle Monuments Commission/README.md",
-   "printed_pages": [
-    55,
-    55
-   ]
-  },
-  {
-   "id": "36_2101",
    "marks": [
     [
      "L",
-     6,
+     28,
      "[Page 56]",
      true
     ]
    ],
-   "path": "Subtitle 001 (I) - Patriotic and National Observances and Ceremonies/Part B - United States Government Organizations Involved with Observances and Ceremonies/Chapter 021 - American Battle Monuments Commission/§ 02101 - Membership.md",
+   "path": "Subtitle 001 (I) - Patriotic and National Observances and Ceremonies/Part B - United States Government Organizations Involved with Observances and Ceremonies/Chapter 021 - American Battle Monuments Commission/README.md",
    "printed_pages": [
     55,
+    56
+   ]
+  },
+  {
+   "id": "36_2101",
+   "marks": [],
+   "path": "Subtitle 001 (I) - Patriotic and National Observances and Ceremonies/Part B - United States Government Organizations Involved with Observances and Ceremonies/Chapter 021 - American Battle Monuments Commission/§ 02101 - Membership.md",
+   "printed_pages": [
+    56,
     56
    ]
   },
@@ -1188,10 +1193,14 @@
    "id": "36_2102",
    "marks": [
     [
-     "L",
-     22,
-     "[Page 57]",
-     true
+     "I",
+     12,
+     [
+      [
+       395,
+       "[Page 57]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 001 (I) - Patriotic and National Observances and Ceremonies/Part B - United States Government Organizations Involved with Observances and Ceremonies/Chapter 021 - American Battle Monuments Commission/§ 02102 - Employment of personnel.md",
@@ -1204,35 +1213,38 @@
    "id": "36_2103",
    "marks": [
     [
-     "L",
-     42,
-     "[Page 58]",
-     true
-    ]
-   ],
-   "path": "Subtitle 001 (I) - Patriotic and National Observances and Ceremonies/Part B - United States Government Organizations Involved with Observances and Ceremonies/Chapter 021 - American Battle Monuments Commission/§ 02103 - Administrative.md",
-   "printed_pages": [
-    57,
-    58
-   ]
-  },
-  {
-   "id": "36_2104",
-   "marks": [
-    [
      "I",
-     2,
+     32,
      [
       [
-       513,
+       91,
+       "[Page 58]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     164,
+     [
+      [
+       262,
        "[Page 59]"
       ]
      ]
     ]
    ],
+   "path": "Subtitle 001 (I) - Patriotic and National Observances and Ceremonies/Part B - United States Government Organizations Involved with Observances and Ceremonies/Chapter 021 - American Battle Monuments Commission/§ 02103 - Administrative.md",
+   "printed_pages": [
+    57,
+    59
+   ]
+  },
+  {
+   "id": "36_2104",
+   "marks": [],
    "path": "Subtitle 001 (I) - Patriotic and National Observances and Ceremonies/Part B - United States Government Organizations Involved with Observances and Ceremonies/Chapter 021 - American Battle Monuments Commission/§ 02104 - Military cemeteries in foreign countries.md",
    "printed_pages": [
-    58,
+    59,
     59
    ]
   },
@@ -1240,10 +1252,14 @@
    "id": "36_2105",
    "marks": [
     [
-     "L",
-     64,
-     "[Page 60]",
-     true
+     "I",
+     36,
+     [
+      [
+       141,
+       "[Page 60]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 001 (I) - Patriotic and National Observances and Ceremonies/Part B - United States Government Organizations Involved with Observances and Ceremonies/Chapter 021 - American Battle Monuments Commission/§ 02105 - Monuments built by the United States Government.md",
@@ -1256,14 +1272,10 @@
    "id": "36_2106",
    "marks": [
     [
-     "I",
-     96,
-     [
-      [
-       6,
-       "[Page 61]"
-      ]
-     ]
+     "L",
+     40,
+     "[Page 61]",
+     true
     ]
    ],
    "path": "Subtitle 001 (I) - Patriotic and National Observances and Ceremonies/Part B - United States Government Organizations Involved with Observances and Ceremonies/Chapter 021 - American Battle Monuments Commission/§ 02106 - War memorials not built by the United States Government.md",
@@ -1286,10 +1298,10 @@
    "marks": [
     [
      "I",
-     72,
+     34,
      [
       [
-       6,
+       138,
        "[Page 62]"
       ]
      ]
@@ -1314,14 +1326,10 @@
    "id": "36_2110",
    "marks": [
     [
-     "I",
-     22,
-     [
-      [
-       1004,
-       "[Page 63]"
-      ]
-     ]
+     "L",
+     6,
+     "[Page 63]",
+     true
     ]
    ],
    "path": "Subtitle 001 (I) - Patriotic and National Observances and Ceremonies/Part B - United States Government Organizations Involved with Observances and Ceremonies/Chapter 021 - American Battle Monuments Commission/§ 02110 - Claims against the Commission.md",
@@ -1335,10 +1343,10 @@
    "marks": [
     [
      "I",
-     82,
+     72,
      [
       [
-       269,
+       1494,
        "[Page 64]"
       ]
      ]
@@ -1352,11 +1360,18 @@
   },
   {
    "id": "36_2112",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     24,
+     "[Page 65]",
+     true
+    ]
+   ],
    "path": "Subtitle 001 (I) - Patriotic and National Observances and Ceremonies/Part B - United States Government Organizations Involved with Observances and Ceremonies/Chapter 021 - American Battle Monuments Commission/§ 02112 - Care and maintenance of Surrender Tree site.md",
    "printed_pages": [
     64,
-    64
+    65
    ]
   },
   {
@@ -1364,20 +1379,10 @@
    "marks": [
     [
      "I",
-     16,
+     54,
      [
       [
-       87,
-       "[Page 65]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     66,
-     [
-      [
-       173,
+       422,
        "[Page 66]"
       ]
      ]
@@ -1385,7 +1390,7 @@
    ],
    "path": "Subtitle 001 (I) - Patriotic and National Observances and Ceremonies/Part B - United States Government Organizations Involved with Observances and Ceremonies/Chapter 021 - American Battle Monuments Commission/§ 02113 - World War II memorial in the District of Columbia.md",
    "printed_pages": [
-    64,
+    65,
     66
    ]
   },
@@ -1409,46 +1414,47 @@
   },
   {
    "id": "36_-Subtitle_I-Part_B-ch23",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     8,
+     [
+      [
+       17,
+       "[Page 67]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 001 (I) - Patriotic and National Observances and Ceremonies/Part B - United States Government Organizations Involved with Observances and Ceremonies/Chapter 023 - United States Holocaust Memorial Museum/README.md",
    "printed_pages": [
     66,
-    66
+    67
    ]
   },
   {
    "id": "36_2301",
    "marks": [
     [
-     "I",
-     4,
-     [
-      [
-       86,
-       "[Page 67]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     78,
-     [
-      [
-       93,
-       "[Page 68]"
-      ]
-     ]
-    ],
-    [
      "L",
-     176,
-     "[Page 69]",
+     58,
+     "[Page 68]",
      true
+    ],
+    [
+     "I",
+     156,
+     [
+      [
+       97,
+       "[Page 69]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 001 (I) - Patriotic and National Observances and Ceremonies/Part B - United States Government Organizations Involved with Observances and Ceremonies/Chapter 023 - United States Holocaust Memorial Museum/§ 02301 - Establishment of the United States Holocaust Memorial Museum; functions.md",
    "printed_pages": [
-    66,
+    67,
     69
    ]
   },
@@ -1465,10 +1471,14 @@
    "id": "36_2303",
    "marks": [
     [
-     "L",
-     12,
-     "[Page 70]",
-     true
+     "I",
+     4,
+     [
+      [
+       85,
+       "[Page 70]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 001 (I) - Patriotic and National Observances and Ceremonies/Part B - United States Government Organizations Involved with Observances and Ceremonies/Chapter 023 - United States Holocaust Memorial Museum/§ 02303 - Compensation; travel expenses; full-time officers or employees of United States or Members of Congress.md",
@@ -1509,10 +1519,10 @@
    "marks": [
     [
      "I",
-     10,
+     2,
      [
       [
-       115,
+       273,
        "[Page 71]"
       ]
      ]
@@ -1562,26 +1572,26 @@
   },
   {
    "id": "36_2501",
-   "marks": [],
-   "path": "Subtitle 001 (I) - Patriotic and National Observances and Ceremonies/Part B - United States Government Organizations Involved with Observances and Ceremonies/Chapter 025 - President's Committee on Employment of People with Disabilities/§ 02501 - Acceptance of voluntary services and money or property.md",
-   "printed_pages": [
-    71,
-    71
-   ]
-  },
-  {
-   "id": "36_2502",
    "marks": [
     [
      "L",
-     16,
+     40,
      "[Page 72]",
      true
     ]
    ],
-   "path": "Subtitle 001 (I) - Patriotic and National Observances and Ceremonies/Part B - United States Government Organizations Involved with Observances and Ceremonies/Chapter 025 - President's Committee on Employment of People with Disabilities/§ 02502 - Authorization of appropriations.md",
+   "path": "Subtitle 001 (I) - Patriotic and National Observances and Ceremonies/Part B - United States Government Organizations Involved with Observances and Ceremonies/Chapter 025 - President's Committee on Employment of People with Disabilities/§ 02501 - Acceptance of voluntary services and money or property.md",
    "printed_pages": [
     71,
+    72
+   ]
+  },
+  {
+   "id": "36_2502",
+   "marks": [],
+   "path": "Subtitle 001 (I) - Patriotic and National Observances and Ceremonies/Part B - United States Government Organizations Involved with Observances and Ceremonies/Chapter 025 - President's Committee on Employment of People with Disabilities/§ 02502 - Authorization of appropriations.md",
+   "printed_pages": [
+    72,
     72
    ]
   },
@@ -5231,30 +5241,26 @@
   },
   {
    "id": "36_40729",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     58,
+     "[Page 147]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 407 - Corporation for the Promotion of Rifle Practice and Firearms Safety/Subchapter 002 (II) - Civilian Marksmanship Program/§ 40729 - Reservation of firearms, ammunition, and parts.md",
    "printed_pages": [
     146,
-    146
+    147
    ]
   },
   {
    "id": "36_40730",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       135,
-       "[Page 147]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 407 - Corporation for the Promotion of Rifle Practice and Firearms Safety/Subchapter 002 (II) - Civilian Marksmanship Program/§ 40730 - Surplus property.md",
    "printed_pages": [
-    146,
+    147,
     147
    ]
   },
@@ -5272,7 +5278,7 @@
    "marks": [
     [
      "L",
-     86,
+     78,
      "[Page 148]",
      true
     ]
@@ -5333,10 +5339,10 @@
    "marks": [
     [
      "I",
-     16,
+     14,
      [
       [
-       225,
+       180,
        "[Page 149]"
       ]
      ]
@@ -5386,30 +5392,30 @@
   },
   {
    "id": "36_50108",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 501 - Daughters of Union Veterans of the Civil War 1861–1865/§ 50108 - Duty to maintain tax-exempt status.md",
-   "printed_pages": [
-    149,
-    149
-   ]
-  },
-  {
-   "id": "36_50109",
    "marks": [
     [
      "I",
-     8,
+     2,
      [
       [
-       91,
+       186,
        "[Page 150]"
       ]
      ]
     ]
    ],
-   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 501 - Daughters of Union Veterans of the Civil War 1861–1865/§ 50109 - Records and inspection.md",
+   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 501 - Daughters of Union Veterans of the Civil War 1861–1865/§ 50108 - Duty to maintain tax-exempt status.md",
    "printed_pages": [
     149,
+    150
+   ]
+  },
+  {
+   "id": "36_50109",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 501 - Daughters of Union Veterans of the Civil War 1861–1865/§ 50109 - Records and inspection.md",
+   "printed_pages": [
+    150,
     150
    ]
   },
@@ -5463,7 +5469,7 @@
    "marks": [
     [
      "L",
-     14,
+     4,
      "[Page 151]",
      true
     ]
@@ -5494,26 +5500,26 @@
   },
   {
    "id": "36_50305",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 503 - Disabled American Veterans/§ 50305 - Exclusive right to name.md",
-   "printed_pages": [
-    151,
-    151
-   ]
-  },
-  {
-   "id": "36_50306",
    "marks": [
     [
      "L",
-     6,
+     4,
      "[Page 152]",
      true
     ]
    ],
-   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 503 - Disabled American Veterans/§ 50306 - Restrictions.md",
+   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 503 - Disabled American Veterans/§ 50305 - Exclusive right to name.md",
    "printed_pages": [
     151,
+    152
+   ]
+  },
+  {
+   "id": "36_50306",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 503 - Disabled American Veterans/§ 50306 - Restrictions.md",
+   "printed_pages": [
+    152,
     152
    ]
   },
@@ -5573,26 +5579,26 @@
   },
   {
    "id": "36_60102",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 601 - 82nd Airborne Division Association, Incorporated/§ 60102 - Organization.md",
-   "printed_pages": [
-    152,
-    152
-   ]
-  },
-  {
-   "id": "36_60103",
    "marks": [
     [
      "L",
-     6,
+     10,
      "[Page 153]",
      true
     ]
    ],
-   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 601 - 82nd Airborne Division Association, Incorporated/§ 60103 - Purposes.md",
+   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 601 - 82nd Airborne Division Association, Incorporated/§ 60102 - Organization.md",
    "printed_pages": [
     152,
+    153
+   ]
+  },
+  {
+   "id": "36_60103",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 601 - 82nd Airborne Division Association, Incorporated/§ 60103 - Purposes.md",
+   "printed_pages": [
+    153,
     153
    ]
   },
@@ -5628,7 +5634,7 @@
    "marks": [
     [
      "L",
-     68,
+     24,
      "[Page 154]",
      true
     ]
@@ -5706,14 +5712,10 @@
    "id": "36_70101",
    "marks": [
     [
-     "I",
-     22,
-     [
-      [
-       97,
-       "[Page 155]"
-      ]
-     ]
+     "L",
+     4,
+     "[Page 155]",
+     true
     ]
    ],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 701 - Fleet Reserve Association/§ 70101 - Definition.md",
@@ -5754,10 +5756,10 @@
    "marks": [
     [
      "I",
-     12,
+     4,
      [
       [
-       89,
+       87,
        "[Page 156]"
       ]
      ]
@@ -13104,7 +13106,7 @@
      62,
      [
       [
-       122,
+       126,
        "[Page 294]"
       ]
      ]
@@ -13130,7 +13132,7 @@
    "marks": [
     [
      "L",
-     68,
+     82,
      "[Page 295]",
      true
     ]
@@ -13146,7 +13148,7 @@
    "marks": [
     [
      "L",
-     50,
+     56,
      "[Page 296]",
      true
     ]
@@ -13159,34 +13161,31 @@
   },
   {
    "id": "36_220503",
-   "marks": [
-    [
-     "L",
-     78,
-     "[Page 297]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2205 - United States Olympic and Paralympic Committee/Subchapter 001 (I) - Corporation/§ 220503 - Purposes.md",
    "printed_pages": [
     296,
-    297
+    296
    ]
   },
   {
    "id": "36_220504",
    "marks": [
     [
-     "L",
-     78,
-     "[Page 298]",
-     true
+     "I",
+     8,
+     [
+      [
+       79,
+       "[Page 297]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2205 - United States Olympic and Paralympic Committee/Subchapter 001 (I) - Corporation/§ 220504 - Membership.md",
    "printed_pages": [
-    297,
-    298
+    296,
+    297
    ]
   },
   {
@@ -13194,10 +13193,20 @@
    "marks": [
     [
      "I",
-     76,
+     4,
      [
       [
-       81,
+       83,
+       "[Page 298]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     94,
+     [
+      [
+       178,
        "[Page 299]"
       ]
      ]
@@ -13205,7 +13214,7 @@
    ],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2205 - United States Olympic and Paralympic Committee/Subchapter 001 (I) - Corporation/§ 220505 - Powers and duties.md",
    "printed_pages": [
-    298,
+    297,
     299
    ]
   },
@@ -13213,38 +13222,31 @@
    "id": "36_220506",
    "marks": [
     [
-     "I",
-     20,
-     [
-      [
-       88,
-       "[Page 300]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     116,
-     [
-      [
-       105,
-       "[Page 301]"
-      ]
-     ]
+     "L",
+     24,
+     "[Page 300]",
+     true
     ]
    ],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2205 - United States Olympic and Paralympic Committee/Subchapter 001 (I) - Corporation/§ 220506 - Exclusive right to name, seals, emblems, and badges.md",
    "printed_pages": [
     299,
-    301
+    300
    ]
   },
   {
    "id": "36_220507",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 301]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2205 - United States Olympic and Paralympic Committee/Subchapter 001 (I) - Corporation/§ 220507 - Restrictions.md",
    "printed_pages": [
-    301,
+    300,
     301
    ]
   },
@@ -13265,16 +13267,20 @@
      18,
      [
       [
-       100,
+       560,
        "[Page 302]"
       ]
      ]
     ],
     [
-     "L",
-     130,
-     "[Page 303]",
-     true
+     "I",
+     140,
+     [
+      [
+       124,
+       "[Page 303]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2205 - United States Olympic and Paralympic Committee/Subchapter 001 (I) - Corporation/§ 220509 - Resolution of disputes.md",
@@ -13297,15 +13303,19 @@
    "marks": [
     [
      "L",
-     14,
+     18,
      "[Page 304]",
      true
     ],
     [
-     "L",
-     130,
-     "[Page 305]",
-     true
+     "I",
+     138,
+     [
+      [
+       111,
+       "[Page 305]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2205 - United States Olympic and Paralympic Committee/Subchapter 001 (I) - Corporation/§ 220511 - Reports and audits.md",
@@ -13346,7 +13356,7 @@
    "marks": [
     [
      "L",
-     30,
+     32,
      "[Page 306]",
      true
     ]
@@ -13361,24 +13371,16 @@
    "id": "36_220522",
    "marks": [
     [
-     "I",
-     30,
-     [
-      [
-       94,
-       "[Page 307]"
-      ]
-     ]
+     "L",
+     32,
+     "[Page 307]",
+     true
     ],
     [
-     "I",
-     90,
-     [
-      [
-       100,
-       "[Page 308]"
-      ]
-     ]
+     "L",
+     94,
+     "[Page 308]",
+     true
     ]
    ],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2205 - United States Olympic and Paralympic Committee/Subchapter 002 (II) - National Governing Bodies/§ 220522 - Eligibility requirements.md",
@@ -13392,10 +13394,10 @@
    "marks": [
     [
      "I",
-     12,
+     14,
      [
       [
-       142,
+       91,
        "[Page 309]"
       ]
      ]
@@ -13411,14 +13413,10 @@
    "id": "36_220524",
    "marks": [
     [
-     "I",
-     28,
-     [
-      [
-       94,
-       "[Page 310]"
-      ]
-     ]
+     "L",
+     32,
+     "[Page 310]",
+     true
     ]
    ],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2205 - United States Olympic and Paralympic Committee/Subchapter 002 (II) - National Governing Bodies/§ 220524 - General duties of national governing bodies.md",
@@ -13431,10 +13429,14 @@
    "id": "36_220525",
    "marks": [
     [
-     "L",
-     50,
-     "[Page 311]",
-     true
+     "I",
+     64,
+     [
+      [
+       115,
+       "[Page 311]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2205 - United States Olympic and Paralympic Committee/Subchapter 002 (II) - National Governing Bodies/§ 220525 - Granting sanctions for amateur athletic competitions.md",
@@ -13456,14 +13458,10 @@
    "id": "36_220527",
    "marks": [
     [
-     "I",
-     58,
-     [
-      [
-       6,
-       "[Page 312]"
-      ]
-     ]
+     "L",
+     74,
+     "[Page 312]",
+     true
     ]
    ],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2205 - United States Olympic and Paralympic Committee/Subchapter 002 (II) - National Governing Bodies/§ 220527 - Complaints against national governing bodies.md",
@@ -13477,7 +13475,7 @@
    "marks": [
     [
      "L",
-     56,
+     114,
      "[Page 313]",
      true
     ]
@@ -13492,14 +13490,10 @@
    "id": "36_220529",
    "marks": [
     [
-     "I",
-     54,
-     [
-      [
-       101,
-       "[Page 314]"
-      ]
-     ]
+     "L",
+     108,
+     "[Page 314]",
+     true
     ]
    ],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2205 - United States Olympic and Paralympic Committee/Subchapter 002 (II) - National Governing Bodies/§ 220529 - Arbitration of corporation determinations.md",
@@ -13518,7 +13512,7 @@
    ]
   },
   {
-   "id": "36_-Subtitle_II-Part_B-ch2205-scIII&#160;&#160;",
+   "id": "36_-Subtitle_II-Part_B-ch2205-scIII",
    "marks": [],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2205 - United States Olympic and Paralympic Committee/Subchapter 003 (III) - Grant to Keep Young Athletes Safe/README.md",
    "printed_pages": [
@@ -13531,10 +13525,10 @@
    "marks": [
     [
      "I",
-     12,
+     30,
      [
       [
-       136,
+       76,
        "[Page 315]"
       ]
      ]
@@ -13547,9 +13541,9 @@
    ]
   },
   {
-   "id": "36_-Subtitle_II-Part_B-ch2205-scIII&#160;&#160;_2",
+   "id": "36_-Subtitle_II-Part_B-ch2205-scIV",
    "marks": [],
-   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2205 - United States Olympic and Paralympic Committee/Subchapter 003 (III) - United States Center for SafeSport/README.md",
+   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2205 - United States Olympic and Paralympic Committee/Subchapter 004 (IV) - United States Center for SafeSport/README.md",
    "printed_pages": [
     315,
     315
@@ -13560,32 +13554,28 @@
    "marks": [
     [
      "L",
-     36,
+     68,
      "[Page 316]",
      true
     ],
     [
      "I",
-     152,
+     200,
      [
       [
-       208,
+       74,
        "[Page 317]"
       ]
      ]
     ],
     [
-     "I",
-     280,
-     [
-      [
-       73,
-       "[Page 318]"
-      ]
-     ]
+     "L",
+     316,
+     "[Page 318]",
+     true
     ]
    ],
-   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2205 - United States Olympic and Paralympic Committee/Subchapter 003 (III) - United States Center for SafeSport/§ 220541 - Designation of United States Center for SafeSport.md",
+   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2205 - United States Olympic and Paralympic Committee/Subchapter 004 (IV) - United States Center for SafeSport/§ 220541 - Designation of United States Center for SafeSport.md",
    "printed_pages": [
     315,
     318
@@ -13595,23 +13585,23 @@
    "id": "36_220542",
    "marks": [
     [
-     "L",
-     6,
-     "[Page 319]",
-     true
-    ],
-    [
      "I",
-     58,
+     18,
      [
       [
-       231,
-       "[Page 320]"
+       182,
+       "[Page 319]"
       ]
      ]
+    ],
+    [
+     "L",
+     86,
+     "[Page 320]",
+     true
     ]
    ],
-   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2205 - United States Olympic and Paralympic Committee/Subchapter 003 (III) - United States Center for SafeSport/§ 220542 - Additional duties.md",
+   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2205 - United States Olympic and Paralympic Committee/Subchapter 004 (IV) - United States Center for SafeSport/§ 220542 - Additional duties.md",
    "printed_pages": [
     318,
     320
@@ -13621,17 +13611,13 @@
    "id": "36_220543",
    "marks": [
     [
-     "I",
-     64,
-     [
-      [
-       101,
-       "[Page 321]"
-      ]
-     ]
+     "L",
+     96,
+     "[Page 321]",
+     true
     ]
    ],
-   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2205 - United States Olympic and Paralympic Committee/Subchapter 003 (III) - United States Center for SafeSport/§ 220543 - Records, audits, and reports.md",
+   "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2205 - United States Olympic and Paralympic Committee/Subchapter 004 (IV) - United States Center for SafeSport/§ 220543 - Records, audits, and reports.md",
    "printed_pages": [
     320,
     321
@@ -13648,26 +13634,26 @@
   },
   {
    "id": "36_220551",
-   "marks": [
-    [
-     "L",
-     18,
-     "[Page 322]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2205 - United States Olympic and Paralympic Committee/Subchapter 005 (V) - Dissolution of Board of Directors of Corporation and Termination of Recognition of National Governing Bodies/§ 220551 - Definitions.md",
    "printed_pages": [
     321,
-    322
+    321
    ]
   },
   {
    "id": "36_220552",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     12,
+     "[Page 322]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2205 - United States Olympic and Paralympic Committee/Subchapter 005 (V) - Dissolution of Board of Directors of Corporation and Termination of Recognition of National Governing Bodies/§ 220552 - Dissolution of board of directors of corporation and termination of recognition of national governing bodies.md",
    "printed_pages": [
-    322,
+    321,
     322
    ]
   },
@@ -13700,18 +13686,11 @@
   },
   {
    "id": "36_220703",
-   "marks": [
-    [
-     "L",
-     36,
-     "[Page 323]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2207 - United States Submarine Veterans of World War II/§ 220703 - Purposes.md",
    "printed_pages": [
     322,
-    323
+    322
    ]
   },
   {
@@ -13719,8 +13698,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2207 - United States Submarine Veterans of World War II/§ 220704 - Membership.md",
    "printed_pages": [
-    323,
-    323
+    322,
+    322
    ]
   },
   {
@@ -13728,16 +13707,23 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2207 - United States Submarine Veterans of World War II/§ 220705 - Governing body.md",
    "printed_pages": [
-    323,
-    323
+    322,
+    322
    ]
   },
   {
    "id": "36_220706",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 323]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2207 - United States Submarine Veterans of World War II/§ 220706 - Powers.md",
    "printed_pages": [
-    323,
+    322,
     323
    ]
   },
@@ -13761,18 +13747,11 @@
   },
   {
    "id": "36_220709",
-   "marks": [
-    [
-     "L",
-     34,
-     "[Page 324]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2207 - United States Submarine Veterans of World War II/§ 220709 - Records and inspection.md",
    "printed_pages": [
     323,
-    324
+    323
    ]
   },
   {
@@ -13780,8 +13759,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2207 - United States Submarine Veterans of World War II/§ 220710 - Service of process.md",
    "printed_pages": [
-    324,
-    324
+    323,
+    323
    ]
   },
   {
@@ -13789,16 +13768,27 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2207 - United States Submarine Veterans of World War II/§ 220711 - Liability for acts of officers and agents.md",
    "printed_pages": [
-    324,
-    324
+    323,
+    323
    ]
   },
   {
    "id": "36_220712",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       144,
+       "[Page 324]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2207 - United States Submarine Veterans of World War II/§ 220712 - Annual report.md",
    "printed_pages": [
-    324,
+    323,
     324
    ]
   },
@@ -13831,26 +13821,26 @@
   },
   {
    "id": "36_230102",
-   "marks": [
-    [
-     "L",
-     20,
-     "[Page 325]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2301 - Veterans of Foreign Wars of the United States/§ 230102 - Purposes.md",
    "printed_pages": [
     324,
-    325
+    324
    ]
   },
   {
    "id": "36_230103",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     16,
+     "[Page 325]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2301 - Veterans of Foreign Wars of the United States/§ 230103 - Membership.md",
    "printed_pages": [
-    325,
+    324,
     325
    ]
   },
@@ -13865,18 +13855,11 @@
   },
   {
    "id": "36_230105",
-   "marks": [
-    [
-     "L",
-     30,
-     "[Page 326]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2301 - Veterans of Foreign Wars of the United States/§ 230105 - Exclusive right to name, seal, emblems, and badges.md",
    "printed_pages": [
     325,
-    326
+    325
    ]
   },
   {
@@ -13884,16 +13867,23 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2301 - Veterans of Foreign Wars of the United States/§ 230106 - Service of process.md",
    "printed_pages": [
-    326,
-    326
+    325,
+    325
    ]
   },
   {
    "id": "36_230107",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     22,
+     "[Page 326]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2301 - Veterans of Foreign Wars of the United States/§ 230107 - Annual report.md",
    "printed_pages": [
-    326,
+    325,
     326
    ]
   },
@@ -13917,18 +13907,11 @@
   },
   {
    "id": "36_230302",
-   "marks": [
-    [
-     "L",
-     22,
-     "[Page 327]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2303 - Veterans of World War I of the United States of America, Incorporated/§ 230302 - Purposes.md",
    "printed_pages": [
     326,
-    327
+    326
    ]
   },
   {
@@ -13936,45 +13919,48 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2303 - Veterans of World War I of the United States of America, Incorporated/§ 230303 - Membership.md",
    "printed_pages": [
-    327,
-    327
+    326,
+    326
    ]
   },
   {
    "id": "36_230304",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 327]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2303 - Veterans of World War I of the United States of America, Incorporated/§ 230304 - Governing body.md",
    "printed_pages": [
-    327,
+    326,
     327
    ]
   },
   {
    "id": "36_230305",
-   "marks": [
-    [
-     "I",
-     52,
-     [
-      [
-       330,
-       "[Page 328]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2303 - Veterans of World War I of the United States of America, Incorporated/§ 230305 - Powers.md",
    "printed_pages": [
     327,
-    328
+    327
    ]
   },
   {
    "id": "36_230306",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 328]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2303 - Veterans of World War I of the United States of America, Incorporated/§ 230306 - Exclusive right to name, seals, emblems, and badges.md",
    "printed_pages": [
-    328,
+    327,
     328
    ]
   },
@@ -13998,18 +13984,11 @@
   },
   {
    "id": "36_230309",
-   "marks": [
-    [
-     "L",
-     34,
-     "[Page 329]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2303 - Veterans of World War I of the United States of America, Incorporated/§ 230309 - Records and inspection.md",
    "printed_pages": [
     328,
-    329
+    328
    ]
   },
   {
@@ -14017,8 +13996,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2303 - Veterans of World War I of the United States of America, Incorporated/§ 230310 - Service of process.md",
    "printed_pages": [
-    329,
-    329
+    328,
+    328
    ]
   },
   {
@@ -14026,16 +14005,23 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2303 - Veterans of World War I of the United States of America, Incorporated/§ 230311 - Liability for acts of officers and agents.md",
    "printed_pages": [
-    329,
-    329
+    328,
+    328
    ]
   },
   {
    "id": "36_230312",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 329]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2303 - Veterans of World War I of the United States of America, Incorporated/§ 230312 - Annual report.md",
    "printed_pages": [
-    329,
+    328,
     329
    ]
   },
@@ -14059,18 +14045,11 @@
   },
   {
    "id": "36_230501",
-   "marks": [
-    [
-     "L",
-     24,
-     "[Page 330]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2305 - Vietnam Veterans of America, Inc/§ 230501 - Definition.md",
    "printed_pages": [
     329,
-    330
+    329
    ]
   },
   {
@@ -14078,16 +14057,23 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2305 - Vietnam Veterans of America, Inc/§ 230502 - Organization.md",
    "printed_pages": [
-    330,
-    330
+    329,
+    329
    ]
   },
   {
    "id": "36_230503",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     10,
+     "[Page 330]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2305 - Vietnam Veterans of America, Inc/§ 230503 - Purposes.md",
    "printed_pages": [
-    330,
+    329,
     330
    ]
   },
@@ -14102,18 +14088,11 @@
   },
   {
    "id": "36_230505",
-   "marks": [
-    [
-     "L",
-     46,
-     "[Page 331]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2305 - Vietnam Veterans of America, Inc/§ 230505 - Governing body.md",
    "printed_pages": [
     330,
-    331
+    330
    ]
   },
   {
@@ -14121,8 +14100,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2305 - Vietnam Veterans of America, Inc/§ 230506 - Powers.md",
    "printed_pages": [
-    331,
-    331
+    330,
+    330
    ]
   },
   {
@@ -14130,16 +14109,23 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2305 - Vietnam Veterans of America, Inc/§ 230507 - Exclusive right to name, seals, emblems, and badges.md",
    "printed_pages": [
-    331,
-    331
+    330,
+    330
    ]
   },
   {
    "id": "36_230508",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 331]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2305 - Vietnam Veterans of America, Inc/§ 230508 - Restrictions.md",
    "printed_pages": [
-    331,
+    330,
     331
    ]
   },
@@ -14163,18 +14149,11 @@
   },
   {
    "id": "36_230511",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 332]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2305 - Vietnam Veterans of America, Inc/§ 230511 - Service of process.md",
    "printed_pages": [
     331,
-    332
+    331
    ]
   },
   {
@@ -14182,16 +14161,23 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2305 - Vietnam Veterans of America, Inc/§ 230512 - Liability for acts of officers and agents.md",
    "printed_pages": [
-    332,
-    332
+    331,
+    331
    ]
   },
   {
    "id": "36_230513",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     30,
+     "[Page 332]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2305 - Vietnam Veterans of America, Inc/§ 230513 - Annual report.md",
    "printed_pages": [
-    332,
+    331,
     332
    ]
   },
@@ -14233,18 +14219,11 @@
   },
   {
    "id": "36_240103",
-   "marks": [
-    [
-     "L",
-     28,
-     "[Page 333]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2401 - Women's Army Corps Veterans' Association/§ 240103 - Purposes.md",
    "printed_pages": [
     332,
-    333
+    332
    ]
   },
   {
@@ -14252,8 +14231,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2401 - Women's Army Corps Veterans' Association/§ 240104 - Membership.md",
    "printed_pages": [
-    333,
-    333
+    332,
+    332
    ]
   },
   {
@@ -14261,16 +14240,23 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2401 - Women's Army Corps Veterans' Association/§ 240105 - Governing body.md",
    "printed_pages": [
-    333,
-    333
+    332,
+    332
    ]
   },
   {
    "id": "36_240106",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     6,
+     "[Page 333]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2401 - Women's Army Corps Veterans' Association/§ 240106 - Powers.md",
    "printed_pages": [
-    333,
+    332,
     333
    ]
   },
@@ -14294,22 +14280,11 @@
   },
   {
    "id": "36_240109",
-   "marks": [
-    [
-     "I",
-     34,
-     [
-      [
-       111,
-       "[Page 334]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2401 - Women's Army Corps Veterans' Association/§ 240109 - Records and inspection.md",
    "printed_pages": [
     333,
-    334
+    333
    ]
   },
   {
@@ -14317,8 +14292,8 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2401 - Women's Army Corps Veterans' Association/§ 240110 - Service of process.md",
    "printed_pages": [
-    334,
-    334
+    333,
+    333
    ]
   },
   {
@@ -14326,16 +14301,23 @@
    "marks": [],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2401 - Women's Army Corps Veterans' Association/§ 240111 - Liability for acts of officers and agents.md",
    "printed_pages": [
-    334,
-    334
+    333,
+    333
    ]
   },
   {
    "id": "36_240112",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     4,
+     "[Page 334]",
+     true
+    ]
+   ],
    "path": "Subtitle 002 (II) - Patriotic and National Organizations/Part B - Organizations/Chapter 2401 - Women's Army Corps Veterans' Association/§ 240112 - Annual report.md",
    "printed_pages": [
-    334,
+    333,
     334
    ]
   },
@@ -14397,51 +14379,49 @@
    "id": "36_300101",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 335]",
-     true
-    ],
-    [
-     "L",
-     126,
-     "[Page 336]",
-     true
+     "I",
+     66,
+     [
+      [
+       307,
+       "[Page 335]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 003 (III) - Treaty Obligation Organizations/Chapter 3001 - The American National Red Cross/§ 300101 - Organization.md",
    "printed_pages": [
     334,
-    336
+    335
    ]
   },
   {
    "id": "36_300102",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     10,
+     [
+      [
+       96,
+       "[Page 336]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 003 (III) - Treaty Obligation Organizations/Chapter 3001 - The American National Red Cross/§ 300102 - Purposes.md",
    "printed_pages": [
-    336,
+    335,
     336
    ]
   },
   {
    "id": "36_300103",
-   "marks": [
-    [
-     "I",
-     46,
-     [
-      [
-       316,
-       "[Page 337]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 003 (III) - Treaty Obligation Organizations/Chapter 3001 - The American National Red Cross/§ 300103 - Membership and chapters.md",
    "printed_pages": [
     336,
-    337
+    336
    ]
   },
   {
@@ -14449,10 +14429,20 @@
    "marks": [
     [
      "I",
-     98,
+     30,
      [
       [
-       204,
+       77,
+       "[Page 337]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     138,
+     [
+      [
+       77,
        "[Page 338]"
       ]
      ]
@@ -14460,53 +14450,46 @@
    ],
    "path": "Subtitle 003 (III) - Treaty Obligation Organizations/Chapter 3001 - The American National Red Cross/§ 300104 - Board of governors.md",
    "printed_pages": [
-    337,
+    336,
     338
    ]
   },
   {
    "id": "36_300105",
+   "marks": [],
+   "path": "Subtitle 003 (III) - Treaty Obligation Organizations/Chapter 3001 - The American National Red Cross/§ 300105 - Powers.md",
+   "printed_pages": [
+    338,
+    338
+   ]
+  },
+  {
+   "id": "36_300106",
    "marks": [
     [
-     "L",
-     24,
-     "[Page 339]",
-     true
+     "I",
+     4,
+     [
+      [
+       223,
+       "[Page 339]"
+      ]
+     ]
     ]
    ],
-   "path": "Subtitle 003 (III) - Treaty Obligation Organizations/Chapter 3001 - The American National Red Cross/§ 300105 - Powers.md",
+   "path": "Subtitle 003 (III) - Treaty Obligation Organizations/Chapter 3001 - The American National Red Cross/§ 300106 - Emblem, badge, and brassard.md",
    "printed_pages": [
     338,
     339
    ]
   },
   {
-   "id": "36_300106",
-   "marks": [],
-   "path": "Subtitle 003 (III) - Treaty Obligation Organizations/Chapter 3001 - The American National Red Cross/§ 300106 - Emblem, badge, and brassard.md",
-   "printed_pages": [
-    339,
-    339
-   ]
-  },
-  {
    "id": "36_300107",
-   "marks": [
-    [
-     "I",
-     58,
-     [
-      [
-       646,
-       "[Page 340]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 003 (III) - Treaty Obligation Organizations/Chapter 3001 - The American National Red Cross/§ 300107 - Annual meeting.md",
    "printed_pages": [
     339,
-    340
+    339
    ]
   },
   {
@@ -14514,10 +14497,20 @@
    "marks": [
     [
      "I",
-     64,
+     42,
      [
       [
-       318,
+       107,
+       "[Page 340]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     84,
+     [
+      [
+       650,
        "[Page 341]"
       ]
      ]
@@ -14525,7 +14518,7 @@
    ],
    "path": "Subtitle 003 (III) - Treaty Obligation Organizations/Chapter 3001 - The American National Red Cross/§ 300108 - Buildings.md",
    "printed_pages": [
-    340,
+    339,
     341
    ]
   },
@@ -14543,10 +14536,10 @@
    "marks": [
     [
      "I",
-     4,
+     46,
      [
       [
-       86,
+       215,
        "[Page 342]"
       ]
      ]
@@ -14586,6 +14579,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2020-title36 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2021-title36 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 36 - Patriotic and National Observances, Ceremonies, and Organizations"
 }

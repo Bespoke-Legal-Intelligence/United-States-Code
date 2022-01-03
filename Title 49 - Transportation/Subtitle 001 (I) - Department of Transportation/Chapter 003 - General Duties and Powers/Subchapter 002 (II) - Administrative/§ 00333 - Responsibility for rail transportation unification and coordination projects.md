@@ -36,7 +36,7 @@
 
 &emsp;(E) representatives of the Federal Trade Commission and the Attorney General.
 
-(2) A person attending or represented at a conference on a proposed unification or coordination project is not liable under the antitrust laws of the United States for any discussion atthe conference and for any agreements reached at the conference, that are entered into with the approval of the Secretary to achieve or determine a plan of action to carry out the unification or coordination project.
+(2) A person attending or represented at a conference on a proposed unification or coordination project is not liable under the antitrust laws of the United States for any discussion at the conference and for any agreements reached at the conference, that are entered into with the approval of the Secretary to achieve or determine a plan of action to carry out the unification or coordination project.
 
 (e) When the approval of a proposal submitted by a rail carrier for a merger or other action is subject to the jurisdiction of the Surface Transportation Board under section 11323(a) of this title, the Secretary may study the proposal to decide whether it satisfies section 11324(b) of this title. When the proposal is the subject of an application and proceeding before the Board, the Secretary may appear in any proceeding related to the application.
 
@@ -90,6 +90,8 @@ In subsection (d)(1)(C), the words "representatives of" are added for consistenc
 
 In subsection (e), the words "in his judgment" are omitted as unnecessary and covered by "decide". The word "satisfies" is substituted for "is in accordance with the standards set forth in" to eliminate unnecessary words.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 203 of the Regional Rail Reorganization Act of 1973, referred to in subsec. (c)(2), which is classified to section 713 of Title 45, Railroads, was amended generally by Pub. L. 97–35, title XI, §1149, Aug. 13, 1981, 95 Stat. 675, and as so amended does not contain a subsec. (c). For further details, see the fifth par. of Historical and Revision Notes above.
@@ -103,6 +105,8 @@ Subsec. (e). Pub. L. 112–141, §32932(a)(4), substituted "Surface Transportati
 <b>1995</b>—Subsec. (c)(2). Pub. L. 104–88, §308(b)(1), substituted "11904" for "11910(a)(1)".
 
 Subsec. (e). Pub. L. 104–88, §308(b)(2), substituted "11323(a)" for "11343(a)" and "11324(b)" for "11344(b)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

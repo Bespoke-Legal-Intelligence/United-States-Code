@@ -162,7 +162,7 @@
 
 #### (B) Interagency agreement
 
-&emsp;&emsp;The State plan shall include an assurance that the Governor of the State, in consultation with the entity in the State responsible for the vocational rehabilitation program and other appropriate agencies, will ensure that an interagency agreement or othermechanism for interagency coordination takes effect between any appropriate public entity, including the State entity responsible for administering the State Medicaid program, a public institution of higher education, and a component of the statewide workforce development system, and the designated State unit, in order to ensure the provision of vocational rehabilitation services described in subparagraph (A) (other than those services specified in paragraph (5)(E), and in paragraphs (1) through (4) and (14) of section 723(a) of this title), and, if appropriate, accommodations or auxiliary aids and services, that are included in the individualized plan for employment of an eligible individual, including the provision of such vocational rehabilitation services (including, if appropriate, accommodations or auxiliary aids and services) during the pendency of any dispute described in clause (iii). Such agreement or mechanism shall include the following:
+&emsp;&emsp;The State plan shall include an assurance that the Governor of the State, in consultation with the entity in the State responsible for the vocational rehabilitation program and other appropriate agencies, will ensure that an interagency agreement or other mechanism for interagency coordination takes effect between any appropriate public entity, including the State entity responsible for administering the State Medicaid program, a public institution of higher education, and a component of the statewide workforce development system, and the designated State unit, in order to ensure the provision of vocational rehabilitation services described in subparagraph (A) (other than those services specified in paragraph (5)(E), and in paragraphs (1) through (4) and (14) of section 723(a) of this title), and, if appropriate, accommodations or auxiliary aids and services, that are included in the individualized plan for employment of an eligible individual, including the provision of such vocational rehabilitation services (including, if appropriate, accommodations or auxiliary aids and services) during the pendency of any dispute described in clause (iii). Such agreement or mechanism shall include the following:
 
 #### (i) Agency financial responsibility
 
@@ -218,7 +218,7 @@
 
 #### (B) Annual reporting
 
-&emsp;&emsp;In specifying the information to be submitted in the reports, the Commissionershall require annual reporting of information, on eligible individuals receiving the services, that is necessary to assess the State's performance on the standards and indicators described in section 726(a) of this title that are determined by the Secretary to be relevant in assessing the performance of designated State units in carrying out the vocational rehabilitation program established under this subchapter.
+&emsp;&emsp;In specifying the information to be submitted in the reports, the Commissioner shall require annual reporting of information, on eligible individuals receiving the services, that is necessary to assess the State's performance on the standards and indicators described in section 726(a) of this title that are determined by the Secretary to be relevant in assessing the performance of designated State units in carrying out thevocational rehabilitation program established under this subchapter.
 
 #### (C) Additional data
 
@@ -330,7 +330,7 @@
 
 #### (B) Replication of cooperative agreements
 
-&emsp;&emsp;The State plan shall provide for the replication of such cooperative agreements at the local level between individual offices of the designated State unit and local entitiescarrying out activities through the statewide workforce development system.
+&emsp;&emsp;The State plan shall provide for the replication of such cooperative agreements at the local level between individual offices of the designated State unit and local entities carrying out activities through the statewide workforce development system.
 
 #### (C) Interagency cooperation with other agencies
 
@@ -426,7 +426,7 @@
 
 &emsp;&emsp;&emsp;(ii) include an assessment of the needs of individuals with disabilities for transition services and pre-employment transition services, and the extent to which such services provided under this chapter are coordinated with transition services provided under the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.) in order to meet the needs of individuals with disabilities.
 
-&emsp;&emsp;&emsp;(iii) include an assessment of the need to establish, develop, or improve communityrehabilitation programs within the State; and
+&emsp;&emsp;&emsp;(iii) include an assessment of the need to establish, develop, or improve community rehabilitation programs within the State; and
 
 &emsp;&emsp;&emsp;(iv) provide that the State shall submit to the Commissioner a report containing information regarding updates to the assessments, for any year in which the State updates the assessments.
 
@@ -548,7 +548,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The State plan shall include an assurance that the designated State agency will implement an information and referral system adequate to ensure that individuals with disabilities will be provided accurate vocational rehabilitation information and guidance, using appropriate modes of communication, to assist such individuals in preparing for, securing, retaining, or regainingemployment, and will be appropriately referred to Federal and State programs (other than the vocational rehabilitation program carried out under this subchapter), including other components of the statewide workforce development system in the State.
+&emsp;&emsp;The State plan shall include an assurance that the designated State agency will implement an information and referral system adequate to ensure that individuals with disabilities will be provided accurate vocational rehabilitation information and guidance, using appropriate modes of communication, to assist such individuals in preparing for, securing, retaining, or regaining employment, and will be appropriately referred to Federal and State programs (other than the vocational rehabilitation program carried out under this subchapter), includingother components of the statewide workforce development system in the State.
 
 #### (B) Referrals
 
@@ -616,7 +616,7 @@
 
 #### (A) Contracts with for-profit organizations
 
-&emsp;&emsp;The State plan shall provide that the designated State agency has the authority to enter into contracts with for-profit organizations for the purpose of providing, as vocational rehabilitation services, on-the-job training and related programs for individuals with disabilities under part A of subchapter VI, upon a determination by such agency that such for-profit organizations are better qualified to provide such rehabilitation services than nonprofit agencies and organizations.
+&emsp;&emsp;The State plan shall provide that the designated State agency has the authority toenter into contracts with for-profit organizations for the purpose of providing, as vocational rehabilitation services, on-the-job training and related programs for individuals with disabilities under part A of subchapter VI, upon a determination by such agency that such for-profit organizations are better qualified to provide such rehabilitation services than nonprofit agencies and organizations.
 
 #### (B) Cooperative agreements with private nonprofit organizations
 
@@ -672,7 +672,7 @@ Section 776 of this title, referred to in subsec. (a)(17)(B), was in the origina
 
 #### Prior Provisions
 
-A prior section 721, Pub. L. 93–112, title I, §101, Sept. 26, 1973, 87 Stat. 363; Pub. L. 93–516, title I, §111(b)–(d), Dec. 7, 1974, 88 Stat. 1619, 1620; Pub. L. 93–651, title I, §111(b)–(d), Nov. 21, 1974, 89 Stat. 2–5; Pub. L. 95–602, title I, §§102, 122(b)(1), Nov. 6, 1978, 92 Stat. 2957, 2987; Pub. L. 98–221, title I, §104(a)(2), Feb. 22, 1984, 98 Stat. 18; Pub. L. 98–524, §4(f), Oct. 19, 1984, 98 Stat. 2489; Pub. L. 99–506, title I, §103(d)(2), title II, §202, title X, §1001(b)(1)–(4), Oct. 21, 1986, 100 Stat. 1810, 1814, 1841, 1842; Pub. L. 100–630, title II, §202(b), Nov. 7, 1988, 102 Stat. 3304; Pub. L. 102–54, §13(k)(1)(A), June 13, 1991, 105Stat. 276; Pub. L. 102–119, §26(e), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–569, title I, §§102(o), (p)(7), 122, Oct. 29, 1992, 106 Stat. 4355, 4356, 4367; Pub. L. 103–73, title I, §§102(2), 107(a), Aug. 11, 1993, 107 Stat. 718, 719; Pub. L. 104–106, div. D, title XLIII, §4321(i)(7), Feb. 10, 1996, 110 Stat. 676, related to State plans, prior to the general amendment of this subchapter by Pub. L. 105–220.
+A prior section 721, Pub. L. 93–112, title I, §101, Sept. 26, 1973, 87 Stat. 363; Pub. L. 93–516, title I, §111(b)–(d), Dec. 7, 1974, 88 Stat. 1619, 1620; Pub. L. 93–651, title I, §111(b)–(d), Nov. 21, 1974, 89 Stat. 2–5; Pub. L. 95–602, title I, §§102, 122(b)(1), Nov. 6, 1978, 92 Stat. 2957, 2987; Pub. L. 98–221, title I, §104(a)(2), Feb. 22, 1984, 98 Stat. 18; Pub. L. 98–524, §4(f), Oct. 19, 1984, 98 Stat. 2489; Pub. L. 99–506, title I, §103(d)(2), title II, §202, title X, §1001(b)(1)–(4), Oct. 21, 1986, 100 Stat. 1810, 1814, 1841, 1842; Pub. L. 100–630, title II, §202(b), Nov. 7, 1988, 102 Stat. 3304; Pub. L. 102–54, §13(k)(1)(A), June 13, 1991, 105 Stat. 276; Pub. L. 102–119, §26(e), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–569, title I, §§102(o), (p)(7), 122, Oct. 29, 1992, 106 Stat. 4355, 4356, 4367; Pub. L. 103–73, title I, §§102(2), 107(a), Aug. 11, 1993, 107 Stat. 718, 719; Pub. L. 104–106, div. D, title XLIII, §4321(i)(7), Feb. 10, 1996, 110 Stat. 676, related to State plans, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 #### Amendments
 
@@ -740,7 +740,7 @@ Subsec. (a)(11)(A)(v). Pub. L. 113–128, §412(a)(7)(A)(v), substituted "workfo
 
 Subsec. (a)(11)(B). Pub. L. 113–128, §412(a)(7)(B), substituted "workforce development system" for "workforce investment system".
 
-Subsec. (a)(11)(C). Pub. L. 113–128, §412(a)(7)(C), inserted "the State programs carried out under section 3003 of this title," after "including" and ", noneducational agencies serving out-of-school youth," after "Agriculture" and substituted "such Federal, State, and local agencies and programs" for "such agencies and programs" and "workforce development system" for "workforce investment system".
+Subsec. (a)(11)(C). Pub. L. 113–128, §412(a)(7)(C), inserted "the State programs carried out under section3003 of this title," after "including" and ", noneducational agencies serving out-of-school youth," after "Agriculture" and substituted "such Federal, State, and local agencies and programs" for "such agencies and programs" and "workforce development system" for "workforce investment system".
 
 Subsec. (a)(11)(D). Pub. L. 113–128, §412(a)(7)(D), inserted ", including pre-employment transition services," after "vocational rehabilitation services" in introductory provisions and ", which may be provided using alternative means for meeting participation (such as video conferences and conference calls)," after "consultation and technical assistance" in cl. (i) and substituted "implementation" for "completion" in cl. (ii).
 

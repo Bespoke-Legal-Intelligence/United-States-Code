@@ -14,9 +14,13 @@ Discharge From Reserve Appointment.—An officer of the Army National Guard of t
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2960.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in sections 3820(a), (b) and 8820 of this title, prior to repeal by Pub. L. 103–337, §1629(a)(2), (c)(2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -1,8 +1,10 @@
 ### §1408d. Ratification of prior acts
 
-All legislation heretofore enacted by the legislative assembly of the Virgin Islands dealingwith any part of the subject matter of this Act and not inconsistent herewith is ratified and confirmed.
+All legislation heretofore enacted by the legislative assembly of the Virgin Islands dealing with any part of the subject matter of this Act and not inconsistent herewith is ratified and confirmed.
 
 (July 18, 1950, ch. 466, title III, §305, 64 Stat. 347.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

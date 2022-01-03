@@ -46,7 +46,7 @@ A Regional Marine Research board <sup>1</sup> shall be established for each of 
 
 #### (4) Vacancies
 
-&emsp;In the event of a vacancy, a replacement member shall be appointed in the same manner and in accordance with the same requirements as the member being replaced and shallserve the remainder of the term of the replaced member.
+&emsp;In the event of a vacancy, a replacement member shall be appointed in the same manner and in accordance with the same requirements as the member being replaced and shall serve the remainder of the term of the replaced member.
 
 #### (5) Reimbursement of expenses
 
@@ -105,6 +105,8 @@ Each Board shall be authorized to—
 Each Board shall cease to exist on October 1, 1999, unless extended by Congress.
 
 (Pub. L. 92–532, title IV, §403, as added Pub. L. 101–593, title III, §301, Nov. 16, 1990, 104 Stat. 2964.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

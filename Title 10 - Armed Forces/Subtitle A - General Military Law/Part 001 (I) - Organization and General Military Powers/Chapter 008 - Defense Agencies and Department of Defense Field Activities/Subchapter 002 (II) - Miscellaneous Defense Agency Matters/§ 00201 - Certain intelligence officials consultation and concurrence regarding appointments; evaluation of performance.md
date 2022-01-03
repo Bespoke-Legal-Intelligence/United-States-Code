@@ -6,7 +6,7 @@ Consultation Regarding Appointment.—Before submitting a recommendation to the 
 
 (b)
 
-Concurrence in Appointment.—(1) In the event of a vacancy in a position referred to inparagraph (2), before appointing an individual to fill the vacancy or recommending to the President an individual to be nominated to fill the vacancy, the Secretary of Defense shall obtain the concurrence of the Director of National Intelligence as provided in section 106(b) of the National Security Act of 1947 (50 U.S.C. 3041(b)).
+Concurrence in Appointment.—(1) In the event of a vacancy in a position referred to in paragraph (2), before appointing an individual to fill the vacancy or recommending to the President an individual to be nominated to fill the vacancy, the Secretary of Defense shall obtain the concurrence of the Director of National Intelligence as provided in section 106(b) of the National Security Act of 1947 (50 U.S.C. 3041(b)).
 
 (2) Paragraph (1) applies to the following positions:
 
@@ -29,6 +29,8 @@ Performance Evaluations.—(1) The Director of National Intelligence shall provi
 &emsp;(C) The Director of the National Geospatial-Intelligence Agency.
 
 (Added Pub. L. 102–190, div. A, title IX, §922(a)(2), Dec. 5, 1991, 105 Stat. 1453; amended Pub. L. 104–201, div. A, title XI, §1103(a), Sept. 23, 1996, 110 Stat. 2676; Pub. L. 108–136, div. A, title IX, §921(d)(4), Nov. 24, 2003, 117 Stat. 1569; Pub. L. 110–181, div. A, title IX, §931(a)(4), (5), (c)(2), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, \[div. A\], title IX, §932(a)(3)–(5), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, §1073(c)(10), Oct. 28, 2009, 123 Stat. 2475; Pub. L. 113–291, div. A, title X, §1071(c)(4), Dec. 19, 2014, 128 Stat. 3508.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -53,6 +55,8 @@ Pub. L. 110–181, §931(a)(5), and Pub. L. 110–417, §932(a)(5), amended par.
 <b>2003</b>—Subsecs. (b)(2)(C), (c)(2)(C). Pub. L. 108–136 substituted "National Geospatial-Intelligence Agency" for "National Imagery and Mapping Agency".
 
 <b>1996</b>—Pub. L. 104–201 substituted "Certain intelligence officials: consultation and concurrence regarding appointments; evaluation of performance" for "Consultation regarding appointment of certain intelligence officials" in section catchline and amended text generally. Prior to amendment, text read as follows: "Before submitting a recommendation to the President regarding the appointment of an individual to the position of Director of the Defense Intelligence Agency or Director of the National Security Agency, the Secretary of Defense shall consult with the Director of Central Intelligence regarding the recommendation."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

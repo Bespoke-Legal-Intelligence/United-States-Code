@@ -30,7 +30,7 @@
 
 <b>1998</b>—Subsec. (b)(1). Pub. L. 105–368 struck out "after the 18-month period beginning on the date of the enactment of this section" after "section 3674(a) of this title" in introductory provisions.
 
-<b>1994</b>—Subsec. (a)(3) to (5). Pub. L. 103–446, §606(c)(1), redesignated pars. (4) and (5) as (3) and (4), respectively,and struck out former par. (3) which read as follows: "supervise functionally the provision of course-approval services by State approving agencies under this subchapter;".
+<b>1994</b>—Subsec. (a)(3) to (5). Pub. L. 103–446, §606(c)(1), redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: "supervise functionally the provision of course-approval services by State approving agencies under this subchapter;".
 
 Subsec. (b). Pub. L. 103–446, §606(c)(2)(A), substituted "subsection (a)(4)" for "subsection (a)(5) of this section" in pars. (1)(A) and (2).
 

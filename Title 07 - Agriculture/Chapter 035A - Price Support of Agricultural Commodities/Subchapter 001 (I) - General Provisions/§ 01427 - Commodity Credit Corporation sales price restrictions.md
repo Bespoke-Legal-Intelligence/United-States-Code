@@ -102,7 +102,9 @@ For the purposes of this section, sales for export shall include—
 
 &emsp;(2) sales made on condition that commodities of the same kind and of comparable value or quantity be exported, either in raw or processed form.
 
-(Oct. 31, 1949, ch. 792, title IV, §407, 63 Stat. 1055; July 10, 1954, ch. 469, title III, §308, formerly §301, 68 Stat. 458, renumbered §308, Pub. L. 95–88, title II, §211(a)(1), Aug. 3, 1977, 91 Stat. 548; amended July 29, 1954, ch. 643, 68 Stat. 583; Jan. 28, 1956, ch. 14, 70 Stat. 6; Pub. L. 85–835, title I, §109, Aug. 28, 1958, 72 Stat. 993; Pub. L. 87–127, Aug. 7, 1961, 75 Stat. 293; Pub. L. 87–703, title III, §325(2), title IV, §404, Sept. 27, 1962, 76 Stat. 631, 632; Pub. L. 88–297, title I, §104, title II, §204, Apr. 11, 1964, 78 Stat. 175, 183; Pub. L. 88–585, §1, Sept. 11, 1964, 78 Stat. 927; Pub. L. 89–321, title IV, §404, Nov. 3, 1965, 79 Stat. 1197; Pub. L. 89–808, §3(e), Nov. 11, 1966, 80 Stat. 1538; Pub. L. 90–475, §7, Aug. 11, 1968, 82 Stat. 703; Pub. L. 90–559, §1(5), Oct. 11, 1968, 82 Stat. 996; Pub. L. 91–524, title IV, §409, title VI, §603, Nov. 30, 1970, 84 Stat. 1367, 1377; Pub. L. 95–113, title IV, §408, title VI, §603, Sept. 29, 1977, 91 Stat. 927, 939; Pub. L. 97–98, title V, §503, title XI, §§1103, 1111(a), Dec. 22, 1981, 95 Stat. 1240, 1264, 1267; Pub. L. 98–88, §5, Aug. 26, 1983, 97 Stat. 499; Pub. L. 99–198, title V, §503, title X, §1007, title XVII, §1763(b), Dec. 23, 1985, 99 Stat. 1418, 1451, 1651; Pub. L. 100–387, title I, §101(b)(2), Aug. 11, 1988, 102 Stat. 931; Pub. L. 100–707, title I, §109(a)(2), Nov. 23, 1988, 102 Stat. 4708; Pub. L. 101–624, title XI, §1130, Nov. 28, 1990, 104 Stat. 3509.)
+(Oct. 31, 1949, ch. 792, title IV, §407, 63 Stat. 1055; July 10, 1954, ch. 469, title III, §308, formerly §301, 68 Stat. 458, renumbered §308, Pub. L. 95–88, title II, §211(a)(1), Aug. 3, 1977, 91 Stat. 548; amended July 29, 1954, ch. 643, 68 Stat. 583; Jan. 28, 1956, ch. 14, 70 Stat. 6; Pub. L. 85–835, title I, §109, Aug. 28, 1958, 72 Stat. 993; Pub. L. 87–127, Aug. 7, 1961, 75 Stat. 293; Pub. L. 87–703, title III, §325(2), title IV, §404, Sept. 27, 1962, 76 Stat. 631, 632; Pub. L. 88–297, title I, §104, title II, §204, Apr. 11, 1964, 78 Stat. 175, 183; Pub. L. 88–585, §1, Sept. 11, 1964, 78 Stat. 927; Pub. L. 89–321, title IV, §404, Nov. 3, 1965, 79 Stat. 1197; Pub. L. 89–808, §3(e), Nov. 11, 1966, 80 Stat. 1538; Pub. L. 90–475, §7, Aug. 11, 1968, 82 Stat. 703; Pub. L. 90–559, §1(5), Oct. 11, 1968, 82 Stat. 996; Pub. L. 91–524, title IV, §409, title VI, §603, Nov. 30, 1970, 84 Stat. 1367, 1377; Pub. L. 95–113, title IV, §408, title VI, §603, Sept. 29, 1977, 91 Stat. 927, 939; Pub. L. 97–98, title V, §503, title XI, §§1103, 1111(a), Dec. 22, 1981, 95 Stat. 1240, 1264, 1267; Pub. L. 98–88, §5, Aug. 26, 1983, 97 Stat. 499; Pub. L. 99–198, title V, §503, title X, §1007, title XVII, §1763(b), Dec. 23, 1985, 99 Stat. 1418, 1451, 1651; Pub. L. 100–387, title I, §101(b)(2), Aug. 11, 1988, 102 Stat. 931; Pub. L. 100–707, title I, §109(a)(2), Nov. 23, 1988, 102 Stat.4708; Pub. L. 101–624, title XI, §1130, Nov. 28, 1990, 104 Stat. 3509.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -140,7 +142,7 @@ Pub. L. 90–475 required that notwithstanding any other provision of this secti
 
 <b>1966</b>—Pub. L. 89–808 inserted proviso to third sentence prohibiting, whenever carryover at end of any marketing year of a price supported agricultural commodity for which a voluntary adjustment program is in effect will be less than 25 per centum (35 per centum in the case of wheat) of the estimated export and domestic consumption of such commodity during such marketing year, sale of CCC stocks of such commodity during such year for unrestricted use at less than 115 per centum (120 per centum in the case of wheat whenever its carryover will be less than 25 per centum of such estimated export and domestic consumption) of the current price support loan plus reasonable carrying charges.
 
-<b>1965</b>—Pub. L. 89–321 required that notwithstanding any other provision of this section, for the period August 1, 1966, through July 31, 1970, (1) the Commodity Credit Corporation shall sell upland cotton for unrestricted use at the same prices as it sells cotton for export, in no event, however, at less than 110 per centum of the loan rate, and (2) the Commodity Credit Corporation shall sell or make available for unrestricted use at current market prices in each marketing year a quantity of upland cotton equal to the amount by which the production of upland cotton is less than the estimated requirements for domestic use and for export for such marketing year, permitted the Secretary to make suchestimates and adjustments therein at such times as he determines will best effectuate the provisions of part (2) of the foregoing sentence, and required such quantities of cotton as are required to be sold under such sentence to be offered for sale in an orderly manner and so as not to affect market prices unduly.
+<b>1965</b>—Pub. L. 89–321 required that notwithstanding any other provision of this section, for the period August 1, 1966, through July 31, 1970, (1) the Commodity Credit Corporation shall sell upland cotton for unrestricted use at the same prices as it sells cotton for export, in no event, however, at less than 110 per centum of the loan rate, and (2) the Commodity Credit Corporation shall sell or make available for unrestricted use at current market prices in each marketing year a quantity of upland cotton equal to the amount by which the production of upland cotton is less than the estimated requirements for domestic use and for export for such marketing year, permitted the Secretary to make such estimates and adjustments therein at such times as he determines will best effectuate the provisions of part (2) of the foregoing sentence, and required such quantities of cotton as are required to be sold under such sentence to be offered for sale in an orderly manner and so as not to affect market prices unduly.
 
 <b>1964</b>—Pub. L. 88–585 provided that the Corporation, in providing feed to distressed areas, may charge not less than 75 percent of the current basic county support rate including the value of any applicable price support payment in kind, included the Virgin Islands within those areas where such feed can be made obtainable, authorized the Secretary to provide feed by feed dealers under such arrangement that the feed so furnished would be replaced with feed owned or controlled by the Corporation and sold to such persons, and inserted "or other area" after "one or more central locations in each State".
 
@@ -160,6 +162,8 @@ Pub. L. 88–297, §204, temporarily substituted proviso that if wheat marketing
 
 Act July 10, 1954, inserted provisions relating to use of farm commodities and products in relieving distress.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–624 effective beginning with 1991 crop of an agricultural commodity, with provision for prior crops, see section 1171 of Pub. L. 101–624, set out as a note under section 1421 of this title.
@@ -176,7 +180,7 @@ Pub. L. 100–387, title I, §101(c), Aug. 11, 1988, 102 Stat. 932, provided tha
 
 Pub. L. 99–198, title V, §503, Dec. 23, 1985, 99 Stat. 1418, provided that the amendment made by section 503 is effective only with respect to the period beginning Aug. 1, 1978, and ending July 31, 1991.
 
-Pub. L. 99–198, title X, §1007, Dec. 23, 1985, 99 Stat. 1451, provided that the amendment made by section 1007 is effective only for the marketing years for the 1986 through 1990 crops.
+Pub. L. 99–198, title X, §1007, Dec. 23, 1985, 99 Stat. 1451, provided that the amendment made by section1007 is effective only for the marketing years for the 1986 through 1990 crops.
 
 #### Effective and Termination Dates of 1981 Amendment
 
@@ -204,11 +208,7 @@ Amendment by Pub. L. 89–808 effective Jan. 1, 1967, see section 5 of Pub. L. 8
 
 #### Effective and Termination Dates of 1964 Amendment
 
-Pub. L. 88–297, title II, §204, Apr. 11, 1964, 78 Stat. 183, as amended by Pub. L. 89–321, title V, §505(3), Nov. 3,1965, 79 Stat. 1203; Pub. L. 90–559, §1(1), Oct. 11, 1968, 82 Stat. 996, provided that the amendment made by section 204 is effective only with respect to the marketing years beginning in calendar years 1964 through 1970.
-
-#### Exceptions From Transfer of Functions
-
-Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, §1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Pub. L. 88–297, title II, §204, Apr. 11, 1964, 78 Stat. 183, as amended by Pub. L. 89–321, title V, §505(3), Nov. 3, 1965, 79 Stat. 1203; Pub. L. 90–559, §1(1), Oct. 11, 1968, 82 Stat. 996, provided that the amendment made by section 204 is effective only with respect to the marketing years beginning in calendar years 1964 through 1970.
 
 #### Inapplicability of Section
 
@@ -260,7 +260,7 @@ Other Commodities.—The Secretary may, at the request of a domestic producer of
 
 #### Emergency Feed Assistance
 
-Pub. L. 98–180, title III, §303, Nov. 29, 1983, 97 Stat. 1151, which authorized Secretary of Agriculture to make damaged corn available to assist eligible farmers and ranchers in areas adversely affected by drought, hot weather, or related disaster to preserve and maintain foundation herds of livestock and poultry, which corn was to be available until Sept. 30, 1984, or date, as determined by the Secretary, on which emergency no longer exists, was repealed by Pub. L. 100–387, title I, §101(b)(5), Aug. 11, 1988, 102 Stat. 932, eff. 15 days after Aug. 11, 1988.
+Pub. L. 98–180, title III, §303, Nov. 29, 1983, 97 Stat. 1151, which authorized Secretary of Agriculture to make damaged corn available to assist eligible farmers and ranchers in areas adversely affected by drought, hot weather, or related disaster to preserve and maintain foundation herds of livestock and poultry, which corn was to be available until Sept. 30, 1984, or date, as determined by the Secretary, on which emergency nolonger exists, was repealed by Pub. L. 100–387, title I, §101(b)(5), Aug. 11, 1988, 102 Stat. 932, eff. 15 days after Aug. 11, 1988.
 
 #### Sale of Feed for Livestock in Emergency Areas; Designation of Emergency Area; Conditions; Penalty
 
@@ -277,6 +277,12 @@ Pub. L. 85–683, Aug. 19, 1958, 72 Stat. 635, as authorizing Commodity Credit C
 #### Sale of Commodities for Foreign Currencies
 
 Sale of surplus agricultural commodities for foreign currencies, see section 1691 et seq., of this title.
+
+#### <b>Executive Documents</b>
+
+#### Exceptions From Transfer of Functions
+
+Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, §1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
 #### Ex. Ord. No. 11336. Delegation of Authority Relating to Emergency Livestock Feed
 

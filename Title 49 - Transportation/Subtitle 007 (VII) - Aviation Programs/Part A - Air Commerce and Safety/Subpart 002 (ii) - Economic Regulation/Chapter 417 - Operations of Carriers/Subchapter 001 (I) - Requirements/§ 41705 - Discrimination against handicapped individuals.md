@@ -58,6 +58,8 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §404(c); added Oct. 2, 1986, Pub
 
 In this section, before clause (1), the words "on the following grounds" are substituted for "by reason of such handicap" and "For purposes of paragraph (1) of this subsection the term 'handicapped individual' means any individual who" because of the restatement.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this subsection, referred to in subsec. (c)(4), is the date of enactment of Pub. L. 106–181, which was approved Apr. 5, 2000.
@@ -67,6 +69,8 @@ The date of the enactment of this subsection, referred to in subsec. (c)(4), is 
 <b>2003</b>—Subsec. (b). Pub. L. 108–176 substituted "section 46301" for "section 46301(a)(3)(E)".
 
 <b>2000</b>—Pub. L. 106–181 designated existing provisions as subsec. (a), inserted heading, substituted "carrier, including (subject to section 40105(b)) any foreign air carrier," for "carrier" in introductory provisions, and added subsecs. (b) and (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

@@ -64,7 +64,7 @@
 
 &emsp;(i) not later than 7 days before the date first set for the first meeting of creditors, to the trustee a copy of the Federal income tax return required under applicable law (or at the election of the debtor, a transcript of such return) for the most recent tax year ending immediately before the commencement of the case and for which a Federal income tax return was filed; and
 
-&emsp;(ii) at the same time the debtor complies with clause (i), a copy of such return (or ifelected under clause (i), such transcript) to any creditor that timely requests such copy.
+&emsp;(ii) at the same time the debtor complies with clause (i), a copy of such return (or if elected under clause (i), such transcript) to any creditor that timely requests such copy.
 
 (B) If the debtor fails to comply with clause (i) or (ii) of subparagraph (A), the court shall dismiss the case unless the debtor demonstrates that the failure to so comply is due to circumstances beyond the control of the debtor.
 
@@ -212,7 +212,7 @@ Amendment by Pub. L. 111–16 effective Dec. 1, 2009, see section 7 of Pub. L. 1
 
 Pub. L. 109–8, title VI, §603(e), Apr. 20, 2005, 119 Stat. 123, provided that: "The amendments made by this section \[amending this section, section 727 of this title and section 586 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as a note under section 586 of Title 28\] shall take effect 18 months after the date of enactment of this Act \[Apr. 20, 2005\]."
 
-Amendment by sections 106(d), 225(b), 304(1), 305(2), 315(b), 316, 446(a), and 720 of Pub. L. 109–8 effective 180days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
+Amendment by sections 106(d), 225(b), 304(1), 305(2), 315(b), 316, 446(a), and 720 of Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1986 Amendment
 

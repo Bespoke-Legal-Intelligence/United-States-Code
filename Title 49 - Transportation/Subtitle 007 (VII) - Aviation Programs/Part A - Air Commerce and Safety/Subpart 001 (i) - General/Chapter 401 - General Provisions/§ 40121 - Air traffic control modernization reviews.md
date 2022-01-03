@@ -26,7 +26,7 @@ Exceptions and Report.—
 
 &emsp;(1)
 
-Continuance of program, etc.—Notwithstanding subsection (a), the Administrator may continue an acquisitions program required to be terminated under subsection (a) ifthe Administrator determines that termination would be inconsistent with the development or operation of the national air transportation system in a safe and efficient manner.
+Continuance of program, etc.—Notwithstanding subsection (a), the Administrator may continue an acquisitions program required to be terminated under subsection (a) if the Administrator determines that termination would be inconsistent with the development or operation of the national air transportation system in a safe and efficient manner.
 
 &emsp;(2)
 
@@ -37,6 +37,8 @@ Department of defense.—The Department of Defense shall have the same exemption
 Report.—If the Administrator makes a determination under paragraph (1), the Administrator shall transmit a copy of the determination, together with a statement of the basis for the determination, to the Committees on Appropriations of the Senate and the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives.
 
 (Added Pub. L. 104–264, title II, §252, Oct. 9, 1996, 110 Stat. 3236; amended Pub. L. 106–181, title III, §307(c)(2), Apr. 5, 2000, 114 Stat. 126.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -53,6 +55,8 @@ Another section 40121 was renumbered section 40124 of this title.
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

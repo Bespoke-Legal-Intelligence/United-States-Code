@@ -14,7 +14,7 @@ In order to help retired individuals and working older individuals to share thei
 
 #### (b) Proportion of required local contribution; exceptions
 
-In no event shall the required proportion of the local contribution (including in-kind contributions) for a grant or contract made under this section be more than 10 per centum in the first year of assistance under this section, 20 per centum in the second such year, and 30 per centum in any subsequent such years: <i>Provided,</i><i>however</i>, That the Director may make exceptions in cases of demonstrated need, determined (in accordance with regulations which the Director shall prescribe) on the basis of the financial capability of a particular recipient of assistance under this section, to permit a lesser local contribution proportion than any required contribution proportion established by the Director in generally applicable regulations.
+In no event shall the required proportion of the local contribution (including in-kind contributions) for a grant or contract made under this section be more than 10 per centum in the first year of assistance under this section, 20 per centum in the second such year, and 30 per centum in any subsequent such years: <i>Provided, however</i>, That the Director may make exceptions in cases of demonstrated need, determined (in accordance with regulations which the Director shall prescribe) on the basis of the financial capability of a particular recipient of assistance under this section, to permit a lesser local contribution proportion than any required contribution proportion established by the Director in generally applicable regulations.
 
 #### (c) Conditions upon award of grant or contract
 
@@ -22,7 +22,7 @@ The Director shall not award any grant or contract under this part for a project
 
 #### (d) Volunteer service as employment
 
-Notwithstanding any other provision of law, volunteer service under this part shall not be deemed employment for any purpose which the Director finds is not fully consistent with the provisions and in furtherance of the purpose of this part.
+Notwithstanding any other provision of law, volunteer service under this part shall not bedeemed employment for any purpose which the Director finds is not fully consistent with the provisions and in furtherance of the purpose of this part.
 
 #### (e) Duration of grant or contract; competitive process
 
@@ -130,6 +130,8 @@ The Corporation shall develop and disseminate an online resource guide for progr
 
 (Pub. L. 93–113, title II, §201, Oct. 1, 1973, 87 Stat. 401; Pub. L. 93–351, §4, July 12, 1974, 88 Stat. 357; Pub. L. 95–478, title IV, §402(a), Oct. 18, 1978, 92 Stat. 1556; Pub. L. 98–288, §14(a), (b), May 21, 1984, 98 Stat. 192; Pub. L. 101–204, title IX, §902(2), Dec. 7, 1989, 103 Stat. 1826; Pub. L. 103–82, title III, §343, Sept. 21, 1993, 107 Stat. 904; Pub. L. 111–13, title II, §2143, Apr. 21, 2009, 123 Stat. 1584.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2009</b>—Subsec. (a). Pub. L. 111–13, §2143(1)(A), substituted "share their experiences, abilities, and skills to improve their communities and themselves through service in their communities," for "avail themselves of opportunities for volunteer service in their community," in introductory provisions.
@@ -159,6 +161,8 @@ Subsec. (c). Pub. L. 95–478, §402(a)(1), (2), substituted reference to sectio
 Subsec. (d). Pub. L. 95–478, §402(a)(3), added subsec. (d).
 
 <b>1974</b>—Subsecs. (b), (c). Pub. L. 93–351 added subsec. (b) and redesignated former subsec. (b) as (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

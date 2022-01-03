@@ -46,11 +46,11 @@ Relationship to Other Funding.—Any amount provided by the Chairman of the Join
 
 Limitations.—(1) Of funds made available under this section for any fiscal year—
 
-&emsp;(A) not more than $20,000,000 may be used to purchase items with a unit cost in excess of $250,000;
+&emsp;(A) not more than $25,000,000 may be used to purchase items with a unit cost in excess of $300,000;
 
-&emsp;(B) not more than $10,000,000 may be used to pay for any expenses of foreign countries participating in joint exercises as authorized by subsection (b)(5); and
+&emsp;(B) not more than $15,000,000 may be used to pay for any expenses of foreign countries participating in joint exercises as authorized by subsection (b)(5); and
 
-&emsp;(C) not more than $5,000,000 may be used to provide military education and training (including transportation, translation, and administrative expenses) to military and related civilian personnel of foreign countries as authorized by subsection (b)(7).
+&emsp;(C) not more than $10,000,000 may be used to provide military education and training (including transportation, translation, and administrative expenses) to military and related civilian personnel of foreign countries as authorized by subsection (b)(7).
 
 (2) Funds may not be provided under this section for any activity that has been denied authorization by Congress.
 
@@ -58,9 +58,17 @@ Limitations.—(1) Of funds made available under this section for any fiscal yea
 
 Inclusion of NORAD.—For purposes of this section, the Commander, United States Element, North American Aerospace Defense Command shall be considered to be a commander of a combatant command.
 
-(Added Pub. L. 102–190, div. A, title IX, §902(a), Dec. 5, 1991, 105 Stat. 1450; amended Pub. L. 102–396, title IX, §9128, Oct. 6, 1992, 106 Stat. 1935; Pub. L. 102–484, div. A, title IX, §934, Oct. 23, 1992, 106 Stat. 2477; Pub. L. 103–35, title II, §201(a), May 31, 1993, 107 Stat. 97; Pub. L. 105–85, div. A, title IX, §902, Nov. 18, 1997, 111 Stat. 1854; Pub. L. 108–136, div. A, title IX, §902(a)(2), (b), (c), Nov. 24, 2003, 117 Stat. 1558; Pub. L. 109–364, div. A, title IX, §902, Oct. 17, 2006, 120 Stat. 2351; Pub. L. 111–84, div. A, title IX, §904, Oct. 28, 2009, 123 Stat. 2424; Pub. L. 114–328, div. A, title VIII, §833(b)(1)(C), Dec. 23, 2016, 130 Stat. 2284.)
+(Added Pub. L. 102–190, div. A, title IX, §902(a), Dec. 5, 1991, 105 Stat. 1450; amended Pub. L. 102–396, title IX, §9128, Oct. 6, 1992, 106 Stat. 1935; Pub. L. 102–484, div. A, title IX, §934, Oct. 23, 1992, 106 Stat. 2477; Pub. L. 103–35, title II, §201(a), May 31, 1993, 107 Stat. 97; Pub. L. 105–85, div. A, title IX, §902, Nov. 18, 1997, 111 Stat. 1854; Pub. L. 108–136, div. A, title IX, §902(a)(2), (b), (c), Nov. 24, 2003, 117 Stat. 1558; Pub. L. 109–364, div. A, title IX, §902, Oct. 17, 2006, 120 Stat. 2351; Pub. L. 111–84, div. A, title IX, §904, Oct. 28, 2009, 123 Stat. 2424; Pub. L. 114–328, div. A, title VIII, §833(b)(1)(C), Dec. 23, 2016, 130 Stat. 2284; Pub. L. 117–81, div. A, title X, §1002, Dec. 27, 2021, 135 Stat. 1883.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (e)(1)(A). Pub. L. 117–81, §1002(1), substituted "$25,000,000" for "$20,000,000" and "$300,000" for "$250,000".
+
+Subsec. (e)(1)(B). Pub. L. 117–81, §1002(2), substituted "$15,000,000" for "$10,000,000".
+
+Subsec. (e)(1)(C). Pub. L. 117–81, §1002(3), substituted "$10,000,000" for "$5,000,000".
 
 <b>2016</b>—Subsec. (e)(1)(A). Pub. L. 114–328 substituted "$250,000" for "the investment unit cost threshold in effect under section 2245a of this title".
 
@@ -119,6 +127,8 @@ Priority.—The Chairman of the Joint Chiefs of Staff, in considering requests f
 Subsec. (e)(1)(C). Pub. L. 102–484, §934(d), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "not more than $5,000,000 may be used to provide military education and training (including transportation, translation, and administrative expenses) to military and related civilian personnel of foreign countries as authorized by subsection (b)(7)."
 
 Pub. L. 102–396, §9128(d), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "not more than $500,000 may be used to provide military education and training to military and related civilian personnel of foreign countries as authorized by subsection (b)(7)."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Redesignation of CINC Initiative Fund
 

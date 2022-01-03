@@ -2,7 +2,7 @@
 
 #### (a) Maintenance and operation; admission of children
 
-(1) The Chief Administrative Officer of the House of Representatives shall maintain and operate a child care center (to be known as the "House of Representatives Child Care Center") to furnish pre-school child care and (subject tothe approval of regulations by the Committee on House Administration) child care for school age children other than during the course of the ordinary school day—
+(1) The Chief Administrative Officer of the House of Representatives shall maintain and operate a child care center (to be known as the "House of Representatives Child Care Center") to furnish pre-school child care and (subject to the approval of regulations by the Committee on House Administration) child care for school age children other than during the course of the ordinary school day—
 
 &emsp;(A) for children of individuals whose pay is disbursed by the Chief Administrative Officer of the House of Representatives and children of support personnel of the House of Representatives;
 
@@ -68,7 +68,7 @@ As used in this section—
 
 &emsp;(1) the term "Member of the House of Representatives" means a Representative in, or a Delegate or Resident Commissioner to, the Congress;
 
-&emsp;(2) the term "agency of the legislative branch" means the Office of the Architect ofthe Capitol, the Botanic Garden, the Government Accountability Office, the Government Publishing Office, the Library of Congress, the Office of Technology Assessment, the Congressional Budget Office, and the Copyright Royalty Tribunal; and
+&emsp;(2) the term "agency of the legislative branch" means the Office of the Architect of the Capitol, the Botanic Garden, the Government Accountability Office, the Government Publishing Office, the Library of Congress, the Office of Technology Assessment, the Congressional Budget Office, and the Copyright Royalty Tribunal; and
 
 &emsp;(3) the term "support personnel" means, with respect to the House of Representatives, any employee of a credit union or of the Architect of the Capitol, whose principal duties are to support the functions of the House of Representatives.
 
@@ -148,7 +148,7 @@ Pub. L. 108–7, div. H, title I, §108(b), Feb. 20, 2003, 117 Stat. 355, provid
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–100, §1(b), Nov. 12, 1999, 113 Stat. 1332, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to children admitted to the House of RepresentativesChild Care Center on or after the date of the enactment of this Act \[Nov. 12, 1999\]."
+Pub. L. 106–100, §1(b), Nov. 12, 1999, 113 Stat. 1332, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to children admitted to the House of Representatives Child Care Center on or after the date of the enactment of this Act \[Nov. 12, 1999\]."
 
 #### Effective Date of 1992 Amendment
 

@@ -26,9 +26,13 @@ If more than one State organization is certified in a State (or in a unit referr
 
 (Pub. L. 94–294, §6, May 28, 1976, 90 Stat. 531; Pub. L. 99–198, title XVI, §1601(b), Dec. 23, 1985, 99 Stat. 1603.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1985</b>—Pub. L. 99–198 amended section generally, substituting provisions relating to certification of organizations to nominate for provisions relating to findings and issuance of orders.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1985 Amendment
 

@@ -14,9 +14,13 @@ No person shall be subject to regulation as a common carrier under any provision
 
 (Pub. L. 95–621, title VI, §602, Nov. 9, 1978, 92 Stat. 3411; Pub. L. 101–60, §3(b)(8), July 26, 1989, 103 Stat. 159.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1989</b>—Subsec. (a). Pub. L. 101–60 struck out "lower" after "prescribe" in heading and struck out before period at end "which does not exceed the applicable maximum lawful price, if any, under subchapter I of this chapter".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1989 Amendment
 

@@ -108,7 +108,7 @@
 
 #### (5) Consultation
 
-&emsp;For purposes of setting priorities under this subsection, the Secretary shall consult with eligible entities specified in paragraph (3). The Federal Advisory Committee Act (5 U.S.C.App.) shall not apply to consultation carried out under this paragraph.
+&emsp;For purposes of setting priorities under this subsection, the Secretary shall consult with eligible entities specified in paragraph (3). The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to consultation carried out under this paragraph.
 
 #### (6) Application
 
@@ -162,7 +162,7 @@
 
 #### (3) Priority for response to foot and mouth disease
 
-&emsp;The Secretary shall prioritize the acquisition and maintenance of sufficient quantities of foot and mouth disease vaccine and accompanying diagnostic products for the Vaccine Bank. As part of such prioritization, the Secretary may offer to enter into one or more contracts with one or more entities that are capable of producing foot and mouth disease vaccine and that have surge production capacity of the vaccine.
+&emsp;The Secretary shall prioritize the acquisition and maintenance of sufficient quantities of foot and mouth disease vaccine and accompanying diagnostic products for the Vaccine Bank. As part of such prioritization, the Secretary may offer to enter into one or more contracts with one or more entities that arecapable of producing foot and mouth disease vaccine and that have surge production capacity of the vaccine.
 
 #### (d) Funding
 
@@ -194,7 +194,7 @@
 
 #### (A) Secretary
 
-&emsp;&emsp;Of the funds made available under this section or section 8316 of this title to carry outthe National Animal Health Laboratory Network under subsection (a) and the National Animal Disease Preparedness and Response Program under subsection (b), not more than 4 percent may be retained by the Secretary to pay administrative costs incurred by the Secretary.
+&emsp;&emsp;Of the funds made available under this section or section 8316 of this title to carry out the National Animal Health Laboratory Network under subsection (a) and the National Animal Disease Preparedness and Response Program under subsection (b), not more than 4 percent may be retained by the Secretary to pay administrative costs incurred by the Secretary.
 
 #### (B) Eligible entities
 
@@ -227,6 +227,8 @@
 &emsp;Nothing in paragraph (1) shall be construed to terminate a contract, grant, cooperative agreement, or other legal instrument entered into during the period specified in such paragraph.
 
 (Pub. L. 107–171, title X, §10409A, as added Pub. L. 113–79, title XII, §12105, Feb. 7, 2014, 128 Stat. 980; amended Pub. L. 115–334, title XII, §12101(b)–(d), Dec. 20, 2018, 132 Stat. 4937–4940.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

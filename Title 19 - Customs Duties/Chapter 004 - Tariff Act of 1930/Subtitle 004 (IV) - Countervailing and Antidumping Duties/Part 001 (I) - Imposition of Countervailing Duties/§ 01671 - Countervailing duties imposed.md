@@ -76,7 +76,9 @@ Whenever the administering authority has reasonable grounds to believe or suspec
 
 &emsp;A countervailing duty is not required to be imposed under subsection (a) on a class or kind of merchandise imported, or sold (or likely to be sold) for importation, into the United States from a nonmarket economy country if the administering authority is unable to identify and measure subsidies provided by the government of the nonmarket economy country or a public entity within the territory of the nonmarket economy country because the economy of that country is essentially comprised of a single entity.
 
-(June 17, 1930, ch. 497, title VII, §701, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 151; amended Pub. L. 98–573, title VI, §§602(a)(1),613(b), Oct. 30, 1984, 98 Stat. 3024, 3035; Pub. L. 99–514, title XVIII, §1886(a)(1), Oct. 22, 1986, 100 Stat. 2921; Pub. L. 100–418, title I, §§1314, 1315, Aug. 23, 1988, 102 Stat. 1185; Pub. L. 100–647, title IX, §9001(a)(9), Nov. 10, 1988, 102 Stat. 3807; Pub. L. 103–465, title II, §§233(a)(5)(A), 261(d)(1)(B)(iii), 262, 270(b)(1)(A), Dec. 8, 1994, 108 Stat. 4899, 4910, 4917; Pub. L. 112–99, §1(a), Mar. 13, 2012, 126 Stat. 265.)
+(June 17, 1930, ch. 497, title VII, §701, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 151; amended Pub. L. 98–573, title VI, §§602(a)(1), 613(b), Oct. 30, 1984, 98 Stat. 3024, 3035; Pub. L. 99–514, title XVIII, §1886(a)(1), Oct. 22, 1986, 100 Stat. 2921; Pub. L. 100–418, title I, §§1314, 1315, Aug. 23, 1988, 102 Stat. 1185; Pub. L. 100–647, title IX, §9001(a)(9), Nov. 10, 1988, 102 Stat. 3807; Pub. L. 103–465, title II, §§233(a)(5)(A), 261(d)(1)(B)(iii), 262, 270(b)(1)(A), Dec. 8, 1994, 108 Stat. 4899, 4910, 4917; Pub. L. 112–99, §1(a), Mar. 13, 2012, 126 Stat. 265.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -111,6 +113,8 @@ Subsec. (a)(1). Pub. L. 98–573, §602(a)(1)(A), inserted ", or sold (or likel
 Subsec. (a)(2). Pub. L. 98–573, §602(a)(1)(B), inserted "or by reason of sales (or the likelihood of sales) of that merchandise for importation" in provisions following subpar. (B).
 
 Subsec. (g). Pub. L. 98–573, §613(b), added subsec. (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 
@@ -272,7 +276,7 @@ Waived Countervailing Duty Orders.—
 
 &emsp;"(1)
 
-Notification of commission.—The administering authority shall notify the United States International Trade Commission by January 7, 1980, of any countervailing duty order in effect on January 1, 1980—
+Notification of commission.—The administering authority shall notify the United StatesInternational Trade Commission by January 7, 1980, of any countervailing duty order in effect on January 1, 1980—
 
 &emsp;&emsp;"(A)(i) for which the Secretary of the Treasury has waived the imposition of countervailing duties under section 303(d) of the Tariff Act of 1930 (19 U.S.C. 1303(d)), and
 
@@ -365,6 +369,8 @@ Publication of Notice of Determinations.—Whenever the Commission makes a deter
 "(e)
 
 Definitions.—Whenever any term which is defined in section 771 of the Tariff Act of 1930 \[section 1677 of this title\] is used in this section, it has the same meaning as when it is used in title VII of that Act \[this subtitle\]."
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

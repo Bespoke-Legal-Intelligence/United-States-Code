@@ -26,7 +26,7 @@
 
 #### (2) Cost recovery authority
 
-&emsp;The non-Federal interest may recover the costs assigned to the additional capacity under paragraph (1)(A)(i) through fees assessed on third parties whose dredged material is deposited at the facility and who enter into agreements with the non-Federal interest forthe use of the facility. The amount of such fees may be determined by the non-Federal interest.
+&emsp;The non-Federal interest may recover the costs assigned to the additional capacity under paragraph (1)(A)(i) through fees assessed on third parties whose dredged material is deposited at the facility and who enter into agreements with the non-Federal interest for the use of the facility. The amount of such fees may be determined by the non-Federal interest.
 
 #### (3) Special rule for designation of replacement capacity facility or site
 
@@ -68,7 +68,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary may enter into a partnership agreement under section 1962d–5b of title 42 with one or more non-Federal interests with respect to a water resources project, or group of water resources projects within a geographic region, if appropriate, for the acquisition, design, construction, management, or operation of a dredged material processing, treatment, contaminant reduction, or disposal facility (including any facility used to demonstrate potential beneficial uses of dredged material, which may include effective sediment contaminant reduction technologies) using funds provided in whole or in part by the Federal Government.
+&emsp;The Secretary may enter into a partnership agreement under section 1962d–5b of title 42with one or more non-Federal interests with respect to a water resources project, or group of water resources projects within a geographic region, if appropriate, for the acquisition, design, construction, management, or operation of a dredged material processing, treatment, contaminant reduction, or disposal facility (including any facility used to demonstrate potential beneficial uses of dredged material, which may include effective sediment contaminant reduction technologies) using funds provided in whole or in part by the Federal Government.
 
 #### (2) Performance
 

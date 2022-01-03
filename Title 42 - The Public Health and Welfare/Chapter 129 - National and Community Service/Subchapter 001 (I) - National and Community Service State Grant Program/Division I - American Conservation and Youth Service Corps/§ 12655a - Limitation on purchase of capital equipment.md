@@ -1,8 +1,10 @@
 ### §12655a. Limitation on purchase of capital equipment
 
-Not to exceed 10 percent of the amount of assistance made available to a program agencyunder this division shall be used for the purchase of major capital equipment.
+Not to exceed 10 percent of the amount of assistance made available to a program agency under this division shall be used for the purchase of major capital equipment.
 
 (Pub. L. 101–610, title I, §199B, formerly §122, Nov. 16, 1990, 104 Stat. 3140; Pub. L. 102–10, §5(2), Mar. 12, 1991, 105 Stat. 30; renumbered §199B and amended Pub. L. 103–82, title I, §101(a), (e)(3), Sept. 21, 1993, 107 Stat. 788, 815.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -13,6 +15,8 @@ Section was formerly classified to section 12542 of this title prior to renumber
 <b>1993</b>—Pub. L. 103–82, §101(e)(3), amended section generally, substituting provisions relating to limitation on purchase of capital equipment for provisions relating to allocation of funds.
 
 <b>1991</b>—Subsec. (e). Pub. L. 102–10 inserted "service" after "youth".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1993 Amendment
 

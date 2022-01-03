@@ -6,7 +6,7 @@ Until September 30, 2017,<sup>1</sup> and subject to subsection (d),<sup>2</sup>
 
 #### (1) In general
 
-&emsp;When the Secretary carries out basic, applied, and advanced research and development projects, including the expenditure of funds for such projects, the Secretary may exercise the same authority (subject to the same limitations and conditions) with respect to such research and projects as the Secretary of Defense may exercise under section 2371 of title 10 (except for subsections (b) and (f)), after making a determination that the use of a contract, grant, or cooperative agreement for such project is not feasible or appropriate. The annual report required under subsection (b) <sup>1</sup> of this section, as applied to the Secretary by this paragraph, shall be submitted to the President of the Senate and the Speaker of the House of Representatives.
+&emsp;When the Secretary carries out basic, applied, and advanced research and development projects, including the expenditure of funds for such projects, the Secretary may exercise the same authority (subject to the same limitations and conditions) with respect to such research and projects as the Secretary of Defense may exercise under section 4021 of title 10 (except for subsections (b) and (f)), after making a determination that the use of a contract, grant, or cooperative agreement for such project is not feasible or appropriate. The annual report required under subsection (b) <sup>1</sup> of this section, as applied to the Secretary by this paragraph, shall be submitted to the President of the Senate and the Speaker of the House of Representatives.
 
 #### (2) Prototype projects
 
@@ -38,7 +38,7 @@ The Secretary may—
 
 In this section, the term "nontraditional Government contractor" has the same meaning as the term "nontraditional defense contractor" as defined in section 845(e) <sup>1</sup> of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; 10 U.S.C. 2371 note).
 
-(Pub. L. 107–296, title VIII, §831, Nov. 25, 2002, 116 Stat. 2224; Pub. L. 110–161, div. E, title V, §572, Dec. 26, 2007, 121 Stat. 2093; Pub. L. 110–329, div. D, title V, §537, Sept. 30, 2008, 122 Stat. 3687; Pub. L. 111–83, title V, §531, Oct. 28, 2009, 123 Stat. 2174; Pub. L. 112–10, div. B, title VI, §1651, Apr. 15, 2011, 125 Stat. 146; Pub. L. 112–74, div. D, title V, §527, Dec. 23, 2011, 125 Stat. 974; Pub. L. 113–6, div. D, title V, §525, Mar. 26, 2013, 127 Stat. 371; Pub. L. 113–76, div. F, title V, §525, Jan. 17, 2014, 128 Stat. 273; Pub. L. 114–4, title V, §523, Mar. 4, 2015, 129 Stat. 65; Pub. L. 114–113, div. F, title V, §523, Dec. 18, 2015, 129 Stat. 2516; Pub. L. 115–31, div. F, title V, §514, May 5, 2017, 131 Stat. 427.)
+(Pub. L. 107–296, title VIII, §831, Nov. 25, 2002, 116 Stat. 2224; Pub. L. 110–161, div. E, title V, §572, Dec. 26, 2007, 121 Stat. 2093; Pub. L. 110–329, div. D, title V, §537, Sept. 30, 2008, 122 Stat. 3687; Pub. L. 111–83, title V, §531, Oct. 28, 2009, 123 Stat. 2174; Pub. L. 112–10, div. B, title VI, §1651, Apr. 15, 2011, 125 Stat. 146; Pub. L. 112–74, div. D, title V, §527, Dec. 23, 2011, 125 Stat. 974; Pub. L. 113–6, div. D, title V, §525, Mar. 26, 2013, 127 Stat. 371; Pub. L. 113–76, div. F, title V, §525, Jan. 17, 2014, 128 Stat. 273; Pub. L. 114–4, title V, §523, Mar. 4, 2015, 129 Stat. 65; Pub. L. 114–113, div. F, title V, §523, Dec. 18, 2015, 129 Stat. 2516; Pub. L. 115–31, div. F, title V, §514, May 5, 2017, 131 Stat. 427; Pub. L. 117–81, div. A, title XVII, §1702(c)(1), Dec. 27, 2021, 135 Stat. 2155.)
 
 #### <b>Editorial Notes</b>
 
@@ -48,9 +48,11 @@ Subsection (d), referred to in subsec. (a), was redesignated subsec. (c) of this
 
 Subsection (b) of this section, referred to in subsec. (a)(1), probably means the former subsec. (b) of this section which related to annual reports by the Comptroller General and which was struck out by Pub. L. 112–74, div. D, title V, §527(2), Dec. 23, 2011, 125 Stat. 974. See 2011 Amendment note for subsec. (b) below.
 
-Section 845 of the National Defense Authorization Act for Fiscal Year 1994, referred to in subsecs. (a)(2) and (d), is section 845 of Pub. L. 103–160, which was formerly set out as a note under section 2371 of Title 10, Armed Forces, prior to repeal by Pub. L. 114–92, div. A, title VIII, §815(c), Nov. 25, 2015, 129 Stat. 896. See section 2371b of Title 10.
+Section 845 of the National Defense Authorization Act for Fiscal Year 1994, referred to in subsecs. (a)(2) and (d), is section 845 of Pub. L. 103–160, which was formerly set out as a note under former section 2371 of Title 10, Armed Forces, prior to repeal by Pub. L. 114–92, div. A, title VIII, §815(c), Nov. 25, 2015, 129 Stat. 896. See section 4022 of Title 10.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(1). Pub. L. 117–81 subtituted "section 4021" for "section 2371".
 
 <b>2017</b>—Subsec. (a). Pub. L. 115–31, §514(1), substituted "Until September 30, 2017," for "Until September 30, 2016," in introductory provisions.
 

@@ -26,13 +26,15 @@ It shall not be in order in either the House of Representatives or the Senate to
 
 (Pub. L. 93–618, title I, §153, Jan. 3, 1975, 88 Stat. 2006; Pub. L. 101–382, title I, §132(a)(3)–(6), Aug. 20, 1990, 104 Stat. 644, 645.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 402 of the Trade Act of 1974, referred to in catchline and subsec. (a), is classified to section 2432 of this title.
 
 #### Amendments
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–382, §132(a)(3), amended subsec. (a) generally. Prior to amendment, subsec. (a)read as follows: "For purposes of this section, the term 'resolution' means only—
+<b>1990</b>—Subsec. (a). Pub. L. 101–382, §132(a)(3), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "For purposes of this section, the term 'resolution' means only—
 
 &emsp;"(1) a concurrent resolution of the two Houses of the Congress, the matter after the resolving clause of which is as follows: 'That the Congress approves the extension of the authority contained in section 402(c)(1) of the Trade Act of 1974 recommended by the President to the Congress on \_\_\_\_\_\_, except with respect to \_\_\_\_\_\_.', with the first blank space being filled with the appropriate date and the second blank space being filled with the names of those countries, if any, with respect to which such extension of authority is not approved, and with the except clause being omitted if there is no such country; and
 
@@ -43,6 +45,8 @@ Subsec. (b). Pub. L. 101–382, §132(a)(4), in par. (2), struck out provisions 
 Subsec. (c). Pub. L. 101–382, §132(a)(5), substituted "subsection (a)" for "subsection (a)(1)".
 
 Subsec. (d). Pub. L. 101–382, §132(a)(6), added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

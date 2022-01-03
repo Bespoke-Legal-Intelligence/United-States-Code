@@ -24,7 +24,7 @@ Congress makes the following findings:
 
 &emsp;(10) The 1999 annual report by the United Nations Children's Fund (UNICEF) states "\[t\]he number of orphans, particularly in Africa, constitutes nothing less than an emergency, requiring an emergency response" and that "finding the resources needed to help stabilize the crisis and protect children is a priority that requires urgent action from the international community.".
 
-&emsp;(11) The discovery of a relatively simple and inexpensive means of interrupting the transmission of HIV from an infected mother to the unborn child—namely with nevirapine (NVP), which costs US$4 a tablet—has created a greatopportunity for an unprecedented partnership between the United States Government and the governments of Asian, African and Latin American countries to reduce mother-to-child transmission (also known as "vertical transmission") of HIV.
+&emsp;(11) The discovery of a relatively simple and inexpensive means of interrupting the transmission of HIV from an infected mother to the unborn child—namely with nevirapine (NVP), which costs US$4 a tablet—has created a great opportunity for an unprecedented partnership between the United States Government and the governments of Asian, African and Latin American countries to reduce mother-to-child transmission (also known as "vertical transmission") of HIV.
 
 &emsp;(12) According to UNAIDS, if implemented this strategy will decrease the proportion of orphans that are HIV-infected and decrease infant and child mortality rates in these developing regions.
 

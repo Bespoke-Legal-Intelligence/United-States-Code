@@ -116,11 +116,15 @@ In subsection (e)(2), the word "conditions" is omitted as being included in "ter
 
 In subsection (h), the text of section 8(b) (words before semicolon of the Hazardous Materials Transportation Uniform Safety Act of 1990 (Public Law 101–615, 104 Stat. 3258) is omitted as obsolete.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (h). Pub. L. 114–94 amended subsec. (h) generally. Prior to amendment, text read as follows: "The Secretary shall prescribe regulations necessary to carry out this section not later than November 16, 1991."
 
 <b>2005</b>—Subsec. (a). Pub. L. 109–59 substituted "Secretary issues" for "Secretary of Transportation issues" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

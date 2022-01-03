@@ -20,6 +20,8 @@ June 29, 1948, ch. 708, §204, 62 Stat. 1086.
 
 The words "hereafter", "rank or", and "shall thereafter be deemed to be enlisted or warrant officer personnel, as appropriate, for all purposes" are omitted as surplusage. The words "three months from June 29, 1948" and "whichever is later" are omitted as executed.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 9345, added Pub. L. 105–85, div. A, title V, §542(c)(1), Nov. 18, 1997, 111 Stat. 1742; amended Pub. L. 106–65, div. A, title V, §535(c), Oct. 5, 1999, 113 Stat. 606; Pub. L. 109–364, div. A, title V, §531(c), Oct. 17, 2006, 120 Stat. 2199, related to exchange program with foreign military academies, prior to repeal by Pub. L. 114–328, div. A, title XII, §1248(b)(1), Dec. 23, 2016, 130 Stat. 2525.
@@ -37,6 +39,8 @@ A prior section 9345a, added Pub. L. 110–417, \[div. A\], title V, §541(c)(1)
 <b>1988</b>—Pub. L. 100–456 substituted "retired" for "Regular Air Force" in section catchline.
 
 <b>1987</b>—Pub. L. 100–180 struck out "Regular" before "Air Force who".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

@@ -72,7 +72,7 @@ The quantity of payment acres determined under subsection (a) may not include an
 
 #### (1) Prohibition on payments
 
-&emsp;Notwithstanding any other provision of this chapter, a producer on a farm may not receive price loss coverage payments or agriculture risk coverage payments if the sum of the base acres on the farm is 10 acres or less, as determined by the Secretary, unless the sum of the base acres on the farm, when combined with the base acres of other farms in which the producer has an interest, is more than 10 acres.
+&emsp;Notwithstanding any other provision of this chapter, a producer on a farm may not receiveprice loss coverage payments or agriculture risk coverage payments if the sum of the base acres on the farm is 10 acres or less, as determined by the Secretary, unless the sum of the base acres on the farm, when combined with the base acres of other farms in which the producer has an interest, is more than 10 acres.
 
 #### (2) Exceptions
 
@@ -118,6 +118,8 @@ The Secretary shall maintain information on generic base acres on a farm allocat
 
 (Pub. L. 113–79, title I, §1114, Feb. 7, 2014, 128 Stat. 666; Pub. L. 115–123, div. F, §60101(a)(5), (6), (11), Feb. 9, 2018, 132 Stat. 308, 309, 311; Pub. L. 115–334, title I, §1104, Dec. 20, 2018, 132 Stat. 4502.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (d)(1), was in the original "this title", meaning title I of Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 658, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
@@ -135,6 +137,8 @@ Subsec. (d)(2)(C), (D). Pub. L. 115–334, §1104(1)(B), added subpars. (C) and 
 Subsec. (e)(5). Pub. L. 115–334, §1104(2), added par. (5).
 
 Subsec. (f). Pub. L. 115–123, §60101(a)(6), added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

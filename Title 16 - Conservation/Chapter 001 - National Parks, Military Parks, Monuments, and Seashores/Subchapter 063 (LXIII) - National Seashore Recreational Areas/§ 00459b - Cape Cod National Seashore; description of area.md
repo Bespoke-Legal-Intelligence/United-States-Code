@@ -66,7 +66,7 @@
 
 &emsp;thence crossing Route 6 and continuing to a point on the easterly right-of-way line of a power transmission line as depicted on said Wellfleet quadrangle sheet;
 
-&emsp;thence in a general southerly direction along the said easterly right-of-way line of a power transmission line to the Eastham-Wellfleet town line;
+&emsp;thence in a general southerly direction along the said easterly right-of-way line of apower transmission line to the Eastham-Wellfleet town line;
 
 &emsp;thence southeasterly for a distance of approximately 5,200 feet to a point due north of the intersection of the easterly right-of-way line of Nauset Road with the northerly right-of-way line of Cable Road;
 
@@ -113,6 +113,8 @@
 &emsp;thence generally northerly and northwesterly, and westerly along a line a quarter of a mile offshore of and parallel to the mean low-water line of the Atlantic Ocean on the easterly shore of Nauset Beach and on to the outer cape to the point of beginning.
 
 (Pub. L. 87–126, §1, Aug. 7, 1961, 75 Stat. 284.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Separability
 

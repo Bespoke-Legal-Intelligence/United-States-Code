@@ -22,7 +22,7 @@ In the performance of, and with respect to, the functions vested in the Secretar
 
 &emsp;(4) shall require that the first loans for capital projects authorized under section 1066b of this title be made no later than March 31, 1994;
 
-&emsp;(5) may sue and be sued in any court of record of a State having general jurisdiction or in any district court of the United States, and such district courts shall have jurisdiction of civil actions arising under this part without regard to the amount in controversy, and any action instituted under this part without regard to the amount in controversy, and anyaction instituted under this section by or against the Secretary shall survive notwithstanding any change in the person occupying the office of the Secretary or any vacancy in such office;
+&emsp;(5) may sue and be sued in any court of record of a State having general jurisdiction or in any district court of the United States, and such district courts shall have jurisdiction of civil actions arising under this part without regard to the amount in controversy, and any action instituted under this part without regard to the amount in controversy, and any action instituted under this section by or against the Secretary shall survive notwithstanding any change in the person occupying the office of the Secretary or any vacancy in such office;
 
 &emsp;(6)(A) may foreclose on any property and bid for and purchase at any foreclosure, or any other sale, any property in connection with which the Secretary has been assigned a loan pursuant to this part; and
 
@@ -41,6 +41,8 @@ In the performance of, and with respect to, the functions vested in the Secretar
 &emsp;(10) not later than 120 days after August 14, 2008, shall submit to the authorizing committees a report on the progress of the Department in implementing the recommendations made by the Government Accountability Office in October 2006 for improving the Historically Black College and Universities Capital Financing Program.
 
 (Pub. L. 89–329, title III, §345, formerly title VII, §725, as added Pub. L. 102–325, title VII, §704, July 23, 1992, 106 Stat. 745; amended Pub. L. 103–208, §2(j)(16), Dec. 20, 1993, 107 Stat. 2481; renumbered title III, §345, and amended Pub. L. 105–244, title III, §§301(a)(3), (4), (c)(6), 306(c), Oct. 7, 1998, 112 Stat. 1636, 1637, 1647; Pub. L. 110–315, title III, §314(d), Aug. 14, 2008, 122 Stat. 3181.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -63,6 +65,8 @@ Par. (10). Pub. L. 110–315, §314(d)(4)–(6), added par. (10).
 Par. (7). Pub. L. 105–244, §306(c), added par. (7).
 
 <b>1993</b>—Pars. (2) to (6). Pub. L. 103–208 added par. (2) and redesignated former pars. (2) to (5) as (3) to (6), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

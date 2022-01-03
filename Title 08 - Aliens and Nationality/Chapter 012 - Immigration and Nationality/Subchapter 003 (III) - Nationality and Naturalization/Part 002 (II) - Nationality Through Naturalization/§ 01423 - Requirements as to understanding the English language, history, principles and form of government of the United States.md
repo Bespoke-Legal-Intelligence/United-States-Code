@@ -30,6 +30,8 @@
 
 <b>1978</b>—Par. (1). Pub. L. 95–579 substituted "person who, on the date of the filing of his petition for naturalization as provided in section 1445 of this title, is over fifty years of age and has been living in the United States for periods totaling at least twenty years subsequent to a lawful admission for permanent residence" for "person who, on the effective date of this chapter, is over fifty years of age and has been living in the United States for periods totaling at least twenty years".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1994 Amendment
 
 Pub. L. 103–416, title I, §108(c), Oct. 25, 1994, 108 Stat. 4310, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 25, 1994\] and shall apply to applications for naturalization filed on or after such date and to such applications pending on such date."
@@ -78,7 +80,7 @@ Pub. L. 106–207, May 26, 2000, 114 Stat. 316, as amended by Pub. L. 106–415,
 
 #### "SEC. 3. SPECIAL CONSIDERATION CONCERNING CIVICS REQUIREMENT FOR CERTAIN ALIENS WHO SERVED WITH SPECIAL GUERRILLA UNITS OR IRREGULAR FORCES IN LAOS.
 
-"The Attorney General shall provide for special consideration, as determined by the Attorney General, concerning the requirement of paragraph (2) of section 312(a) of the Immigration and Nationality Act (8 U.S.C. 1423(a)(2)) with respect to the naturalization of any person described in paragraph (1), (2), or (3) of section 2 of this Act.
+"The Attorney General shall provide for special consideration, as determined by the Attorney General,concerning the requirement of paragraph (2) of section 312(a) of the Immigration and Nationality Act (8 U.S.C. 1423(a)(2)) with respect to the naturalization of any person described in paragraph (1), (2), or (3) of section 2 of this Act.
 
 #### "SEC. 4. DOCUMENTATION OF QUALIFYING SERVICE.
 

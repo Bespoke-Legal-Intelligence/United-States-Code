@@ -50,13 +50,13 @@ The Congress finds and declares that—
 
 The purpose of sections 31a to 31h of this title is to expedite the production of a geologic-map data base for the Nation, to be located within the United States Geological Survey, which can be applied to land-use management, assessment, and utilization, conservation of natural resources, groundwater management, and environmental protection and management.
 
-(Pub. L. 102–285, §2, May 18, 1992, 106 Stat. 166; Pub. L. 106–148, §2, Dec. 9, 1999, 113 Stat. 1719; Pub. L. 111–11, title XI, §11001(a), (b), Mar. 30, 2009, 123 Stat. 1414.)
+(Pub. L. 102–285, §2, May 18, 1992, 106 Stat. 166; Pub. L. 106–148, §2, Dec. 9, 1999, 113 Stat. 1719;Pub. L. 111–11, title XI, §11001(a), (b), Mar. 30, 2009, 123 Stat. 1414.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-Sections 31a to 31h of this title, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 102–285, known as the National Geologic Mapping Act of1992, which is classified principally to sections 31a to 31h of this title. For complete classification of this Act to the Code, see Short Title note below and Tables.
+Sections 31a to 31h of this title, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 102–285, known as the National Geologic Mapping Act of 1992, which is classified principally to sections 31a to 31h of this title. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 #### Amendments
 

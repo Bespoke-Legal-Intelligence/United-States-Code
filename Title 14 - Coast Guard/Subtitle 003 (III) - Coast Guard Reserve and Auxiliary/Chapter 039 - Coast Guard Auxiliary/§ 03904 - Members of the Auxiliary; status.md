@@ -24,7 +24,7 @@
 
 (c) A member of the Auxiliary, while assigned to duty, shall be deemed to be a person acting under an officer of the United States or an agency thereof for purposes of section 1442(a)(1) of title 28.
 
-(Added Pub. L. 104–324, title IV, §403(a), Oct. 19, 1996, 110 Stat. 3923, §823a; amended Pub. L. 107–295, title IV, §415, Nov. 25, 2002, 116 Stat. 2121; Pub. L. 109–304, §17(c), Oct. 6, 2006, 120 Stat. 1707; Pub. L. 114–120, title II, §209(15), Feb. 8, 2016, 130 Stat. 41; Pub. L. 115–232, div. C, title XXXV, §3533(i), Aug. 13, 2018, 132 Stat. 2321; renumbered §3904, Pub. L. 115–282, title I, §119(b), Dec. 4, 2018, 132 Stat. 4236.)
+(Added Pub. L. 104–324, title IV, §403(a), Oct. 19, 1996, 110 Stat. 3923, §823a; amended Pub. L. 107–295, title IV, §415, Nov. 25, 2002, 116 Stat. 2121; Pub. L. 109–304, §17(c), Oct. 6, 2006, 120 Stat. 1707; Pub. L. 114–120, title II, §209(15), Feb. 8, 2016, 130Stat. 41; Pub. L. 115–232, div. C, title XXXV, §3533(i), Aug. 13, 2018, 132 Stat. 2321; renumbered §3904, Pub. L. 115–282, title I, §119(b), Dec. 4, 2018, 132 Stat. 4236.)
 
 #### <b>Editorial Notes</b>
 

@@ -78,7 +78,7 @@ In this section:
 
 &emsp;&emsp;(A) A source selection for a covered system or a covered item of supply involving either a performance specification, as described in subsection (a)(3)(B) of section 3306 of title 41, or an evaluation factor, as described in subsection (b)(1) of such section, relating to supply chain risk.
 
-&emsp;&emsp;(B) The consideration of proposals for and issuance of a task or delivery order for acovered system or a covered item of supply, as provided in section 4106(d)(3) of title 41, where the task or delivery order contract concerned includes a contract clause establishing a requirement relating to supply chain risk.
+&emsp;&emsp;(B) The consideration of proposals for and issuance of a task or delivery order for a covered system or a covered item of supply, as provided in section 4106(d)(3) of title 41, where the task or delivery order contractconcerned includes a contract clause establishing a requirement relating to supply chain risk.
 
 &emsp;&emsp;(C) Any contract action involving a contract for a covered system or a covered item of supply if the contract includes a clause establishing requirements relating to supply chain risk.
 
@@ -116,9 +116,11 @@ In this section:
 
 #### (g) Termination
 
-The authority under this section shall terminate on June 30, 2023.
+The authority under this section shall terminate on December 31, 2028.
 
-(Pub. L. 107–314, div. D, title XLVIII, §4806, as added Pub. L. 113–66, div. C, title XXXI, §3113(a), Dec. 26, 2013, 127 Stat. 1053; amended Pub. L. 113–291, div. C, title XXXI, §3142(s), Dec. 19, 2014, 128 Stat. 3901; Pub. L. 115–232, div. C, title XXXI, §3117, Aug. 13, 2018, 132 Stat. 2292; Pub. L. 116–92, div. C, title XXXI, §3133, Dec. 20, 2019, 133 Stat. 1958; Pub. L. 116–283, div. C, title XXXI, §3161, Jan. 1, 2021, 134 Stat. 4391.)
+(Pub. L. 107–314, div. D, title XLVIII, §4806, as added Pub. L. 113–66, div. C, title XXXI, §3113(a), Dec. 26, 2013, 127 Stat. 1053; amended Pub. L. 113–291, div. C, title XXXI, §3142(s), Dec. 19, 2014, 128 Stat. 3901; Pub. L. 115–232, div. C, title XXXI, §3117, Aug. 13, 2018, 132 Stat. 2292; Pub. L. 116–92, div. C, title XXXI, §3133, Dec. 20, 2019, 133 Stat. 1958; Pub. L. 116–283, div. C, title XXXI, §3161, Jan. 1, 2021, 134 Stat. 4391; Pub. L. 117–81, div. C, title XXXI, §3119, Dec. 27, 2021, 135 Stat. 2228.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -130,7 +132,9 @@ Subsecs. (e), (f). Pub. L. 116–283, §3161(2), (3), added subsec. (e) and rede
 
 Subsec. (f)(6), (7). Pub. L. 116–283, §3161(4), added par. (6) and redesignated former par. (6) as (7).
 
-Subsec. (g). Pub. L. 116–283, §3161(2), redesignated subsec. (f) as (g).
+Subsec. (g). Pub. L. 117–81 substituted "December 31, 2028" for "June 30, 2023".
+
+Pub. L. 116–283, §3161(2), redesignated subsec. (f) as (g).
 
 <b>2019</b>—Subsecs. (e) to (g). Pub. L. 116–92 redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out former subsec. (e) which related to Comptroller General review and report to Congress.
 

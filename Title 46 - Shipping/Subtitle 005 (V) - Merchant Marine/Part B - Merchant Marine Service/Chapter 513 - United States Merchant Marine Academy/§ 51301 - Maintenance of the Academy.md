@@ -28,7 +28,7 @@ Appointment.—The Secretary of Transportation shall appoint as the Superintende
 
 &emsp;&emsp;(B) an individual who has—
 
-&emsp;&emsp;&emsp;(i)(I) served at sea in the merchant marine, Navy, Army, Air Force, Marine Corps, Coast Guard, or National Oceanic and Atmospheric Administration; or
+&emsp;&emsp;&emsp;(i)(I) served at sea in the merchant marine, Navy, Army, Air Force, MarineCorps, Coast Guard, or National Oceanic and Atmospheric Administration; or
 
 &emsp;&emsp;&emsp;(II) held a valid Coast Guard merchant mariner credential; and
 
@@ -90,7 +90,7 @@ Pub. L. 114–328, div. C, title XXXV, §3506(b), Dec. 23, 2016, 130 Stat. 2777,
 
 #### Concurrent Jurisdiction
 
-Pub. L. 115–232, div. C, title XXXV, §3506, Aug. 13, 2018, 132 Stat. 2309, provided that: "Notwithstandingany other law, the Secretary of Transportation may relinquish, at the Secretary's discretion, to the State of New York, such measure of legislative jurisdiction over the lands constituting the United States Merchant Marine Academy in King's Point, New York, as is necessary to establish concurrent jurisdiction between the Federal Government and the State of New York. Such partial relinquishment of legislative jurisdiction shall be accomplished—
+Pub. L. 115–232, div. C, title XXXV, §3506, Aug. 13, 2018, 132 Stat. 2309, provided that: "Notwithstanding any other law, the Secretary of Transportation may relinquish, at the Secretary's discretion, to the State of New York, such measure of legislative jurisdiction over the lands constituting the United States Merchant Marine Academy in King's Point, New York, as is necessary to establish concurrent jurisdiction between the Federal Government and the State of New York. Such partial relinquishment of legislative jurisdiction shall be accomplished—
 
 &emsp;"(1) by filing with the Governor of New York a notice of relinquishment to take effect upon acceptance thereof; or
 

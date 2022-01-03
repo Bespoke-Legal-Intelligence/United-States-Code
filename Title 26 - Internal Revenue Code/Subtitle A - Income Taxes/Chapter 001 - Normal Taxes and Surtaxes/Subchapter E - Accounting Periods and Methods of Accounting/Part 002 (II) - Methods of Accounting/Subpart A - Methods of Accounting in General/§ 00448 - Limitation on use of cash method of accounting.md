@@ -24,7 +24,7 @@ Except as otherwise provided in this section, in the case of a—
 
 #### (3) Entities which meet gross receipts test
 
-&emsp;Paragraphs (1) and (2) of subsection (a) shall not apply to any corporation or partnership for any taxable year if such entity (or anypredecessor) meets the gross receipts test of subsection (c) for such taxable year.
+&emsp;Paragraphs (1) and (2) of subsection (a) shall not apply to any corporation or partnership for any taxable year if such entity (or any predecessor) meets the gross receipts test of subsection (c) for such taxable year.
 
 #### (c) Gross receipts test
 
@@ -102,7 +102,7 @@ For purposes of this section—
 
 #### (3) Tax shelter defined
 
-&emsp;The term "tax shelter" has the meaning given such term by section 461(i)(3) (determined after application of paragraph (4) thereof). An S corporation shall not be treated as a tax shelter for purposes of this section merely by reason of being required to file a notice of exemption from registration with a State agency described in section 461(i)(3)(A), but only if there is a requirement applicable to all corporations offering securities for sale in the State that to be exempt from such registration the corporation must file such a notice.
+&emsp;The term "tax shelter" has the meaning given such term by section 461(i)(3) (determined after application of paragraph (4) thereof). An S corporation shall not be treated as a tax shelter for purposes of this section merely by reason of being required to file a notice of exemption from registration with a State agency described in section 461(i)(3)(A), but only if there is a requirement applicable to all corporations offering securities for sale in theState that to be exempt from such registration the corporation must file such a notice.
 
 #### (4) Special rules for application of paragraph (2)
 
@@ -118,7 +118,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any person using an accrual method of accounting with respect to amounts to be received for the performance of services by such person, such person shallnot be required to accrue any portion of such amounts which (on the basis of such person's experience) will not be collected if—
+&emsp;&emsp;In the case of any person using an accrual method of accounting with respect to amounts to be received for the performance of services by such person, such person shall not be required to accrue any portion of such amounts which (on the basis of such person's experience) will not be collected if—
 
 &emsp;&emsp;&emsp;(i) such services are in fields referred to in paragraph (2)(A), or
 
@@ -150,6 +150,8 @@ For purposes of this section—
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Subsec. (b)(3). Pub. L. 115–97, §13102(a)(2), amended par. (3) generally. Prior to amendment, text read as follows: "Paragraphs (1) and (2) of subsection (a) shall not apply to any corporation or partnership for any taxable year if, for all prior taxable years beginning after December 31, 1985, such entity (or any predecessor) met the $5,000,000 gross receipts test of subsection (c)."
@@ -179,6 +181,8 @@ Subsec. (d)(4)(C). Pub. L. 100–647, §1008(a)(8), substituted "90 percent or m
 Pub. L. 100–647, §1008(a)(2), substituted "such group" for "all such members".
 
 Subsec. (d)(8). Pub. L. 100–647, §1008(a)(1)(B), added par. (8).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 

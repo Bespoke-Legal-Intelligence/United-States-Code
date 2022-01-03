@@ -30,7 +30,7 @@ The rights and protections established under section 2108, sections 3309 through
 
 #### (C) Coordination
 
-&emsp;The regulations issued under subparagraph (A) shall be consistent with section 225 of theCongressional Accountability Act of 1995 (2 U.S.C. 1361).
+&emsp;The regulations issued under subparagraph (A) shall be consistent with section 225 of the Congressional Accountability Act of 1995 (2 U.S.C. 1361).
 
 #### (5) Applicability
 

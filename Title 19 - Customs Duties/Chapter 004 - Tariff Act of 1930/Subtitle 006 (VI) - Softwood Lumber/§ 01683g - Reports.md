@@ -24,13 +24,17 @@ The Comptroller General of the United States shall submit the following reports 
 
 &emsp;(1) Not later than 18 months after June 18, 2008, a report on the effectiveness of the reconciliations conducted under section 1683d of this title,<sup>1</sup> and verifications conducted under section 1683e of this title.
 
-&emsp;(2) Not later than 12 months after June 18, 2008, a report on whether countries that export softwood lumber or softwood lumber products to the United States are complying with any international agreements entered into by those countries and the United States.
+&emsp;(2) Not later than 12 months after June 18, 2008, a report on whether countries that export softwood lumber or softwood lumber products to the United States are complying with anyinternational agreements entered into by those countries and the United States.
 
 (June 17, 1930, ch. 497, title VIII, §809, as added Pub. L. 110–246, title III, §3301(a), June 18, 2008, 122 Stat. 1852.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 For the effective date of this subtitle, referred to in subsec. (a), see section 3301(b) of Pub. L. 110–246, set out as an Effective Date note under section 1683 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

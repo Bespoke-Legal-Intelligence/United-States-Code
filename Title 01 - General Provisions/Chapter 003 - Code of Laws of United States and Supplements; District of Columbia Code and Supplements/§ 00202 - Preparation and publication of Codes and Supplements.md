@@ -10,9 +10,11 @@ There shall be prepared and published under the supervision of the Committee on 
 
 (July 30, 1947, ch. 388, 61 Stat. 637.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Cross References
 
-Council of the District of Columbia, functions respecting, see section 2 of Pub. L. 94–386, Aug. 14, 1976, 90 Stat. 1170, set out as a note under section 285b of Title 2, The Congress.
+Council of the District of Columbia, functions respecting, see section 2 of Pub. L. 94–386, Aug. 14, 1976,90 Stat. 1170, set out as a note under section 285b of Title 2, The Congress.
 
 Office of the Law Revision Counsel, functions respecting preparation, revision, publication, etc., see section 285b of Title 2.
 

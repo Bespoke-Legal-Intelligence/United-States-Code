@@ -66,11 +66,15 @@ For purposes of this section and section 1637a of this title, the term "balloon 
 
 (Pub. L. 90–321, title I, §147, as added Pub. L. 100–709, §2(c), Nov. 23, 1988, 102 Stat. 4730; amended Pub. L. 109–8, title XIII, §1302(a)(2), Apr. 20, 2005, 119 Stat. 208; Pub. L. 111–203, title X, §1100A(2), July 21, 2010, 124 Stat. 2107.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsecs. (a), (c). Pub. L. 111–203 substituted "Bureau" for "Board" wherever appearing.
 
 <b>2005</b>—Subsec. (b). Pub. L. 109–8 designated existing provisions as par. (1), inserted par. heading, and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 
@@ -78,7 +82,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under Title 11, Bankruptcy, before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of Title 11.
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to casescommenced under Title 11, Bankruptcy, before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of Title 11.
 
 #### Effective Date
 

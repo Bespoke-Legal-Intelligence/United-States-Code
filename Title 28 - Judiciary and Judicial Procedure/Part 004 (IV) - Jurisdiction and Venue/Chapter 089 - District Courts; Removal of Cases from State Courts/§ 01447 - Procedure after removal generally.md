@@ -16,7 +16,7 @@
 
 #### 1948 Act
 
-Based on title 28, U.S.C., 1940 ed., §§71, 72, 74, 76, 80, 81 and 83 (Mar. 3, 1911, ch. 231, §§28, 29, 31, 33, 37 and 38,36 Stat. 1094–1098; Jan. 20, 1914, ch. 11, 39 Stat. 278; Aug. 23, 1916, ch. 399, 39 Stat. 532; Apr. 16, 1920, ch. 146, 41 Stat. 554; Jan. 31, 1928, ch. 14, §1, 45 Stat. 54).
+Based on title 28, U.S.C., 1940 ed., §§71, 72, 74, 76, 80, 81 and 83 (Mar. 3, 1911, ch. 231, §§28, 29, 31, 33, 37 and 38, 36 Stat. 1094–1098; Jan. 20, 1914, ch. 11, 39 Stat. 278; Aug. 23, 1916, ch. 399, 39 Stat. 532; Apr. 16, 1920, ch. 146, 41 Stat. 554; Jan. 31, 1928, ch. 14, §1, 45 Stat. 54).
 
 Section consolidates procedural provisions of sections 71, 72, 74, 76, 80, 81 and 83 of title 28, U.S.C., 1940 ed., with important changes in substance and phraseology.
 

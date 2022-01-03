@@ -44,7 +44,7 @@ For purposes of this part, the term "incentive stock option" means an option gra
 
 #### (3) Certain transfers by insolvent individuals
 
-&emsp;If an insolvent individual holds a share of stock acquired pursuant to his exercise of an incentive stock option, and if such share is transferred to a trustee, receiver, or other similar fiduciary in any proceeding under title 11 or any other similar insolvency proceeding, neither such transfer, nor any other transfer of such share for the benefit of his creditors in such proceeding, shall constitute a disposition of such share for purposes of subsection (a)(1).
+&emsp;If an insolvent individual holds a share of stock acquired pursuant to his exercise of an incentive stock option, and if such share is transferred to a trustee, receiver, or other similar fiduciary in any proceeding under title 11 or any other similar insolvency proceeding, neither such transfer, nor any other transfer of such share for the benefit of his creditors insuch proceeding, shall constitute a disposition of such share for purposes of subsection (a)(1).
 
 #### (4) Permissible provisions
 
@@ -86,6 +86,8 @@ For purposes of this part, the term "incentive stock option" means an option gra
 
 (Added Pub. L. 97–34, title II, §251(a), Aug. 13, 1981, 95 Stat. 256, §422A; amended Pub. L. 97–448, title I, §102(j)(1)–(4), Jan. 12, 1983, 96 Stat. 2373; Pub. L. 98–369, div. A, title V, §555(a)(1), div. B, title VI, §2662(f)(1), July 18, 1984, 98 Stat. 897, 1159; Pub. L. 99–514, title III, §321(a), (b), title XVIII, §1847(b)(5), Oct. 22, 1986, 100 Stat. 2220, 2856; Pub. L. 100–647, title I, §1003(d)(1)(A), (2), Nov. 10, 1988, 102 Stat. 3384; renumbered §422 and amended Pub. L. 101–508, title XI, §11801(c)(9)(A)(i), (C), Nov. 5, 1990, 104 Stat. 1388–524, 1388–525; Pub. L. 115–97, title I, §13603(c)(1)(A), Dec. 22, 2017, 131 Stat. 2163.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 422, added Pub. L. 88–272, title II, §221(a), Feb. 26, 1964, 78 Stat. 64; amended Pub. L. 94–455, title VI, §603(a), (b), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1574, 1834; Pub. L. 96–589, §6(i)(3), Dec. 24, 1980, 94 Stat. 3410, related to qualified stock options, prior to repeal by Pub. L. 101–508, title XI, §11801(a)(20), Nov. 5, 1990, 104 Stat. 1388–521. For savings provision, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
@@ -102,7 +104,7 @@ Subsec. (c)(5) to (8). Pub. L. 101–508, §11801(c)(9)(C)(ii), redesignated par
 
 <b>1988</b>—Subsec. (b). Pub. L. 100–647, §1003(d)(1)(A), inserted at end "Such term shall not include any option if (as of the time the option is granted) the terms of such option provide that it will not be treated as an incentive stock option."
 
-Subsec. (b)(7). Pub. L. 100–647, §1003(d)(2)(B), struck out par. (7) which read as follows: "under the terms of the plan, the aggregate fair market value (determined at the time the option is granted) of the stock with respect to which incentive stock options are exercisable for the 1st time by such individual during any calendaryear (under all such plans of the individual's employer corporation and its parent and subsidiary corporations) shall not exceed $100,000."
+Subsec. (b)(7). Pub. L. 100–647, §1003(d)(2)(B), struck out par. (7) which read as follows: "under the terms of the plan, the aggregate fair market value (determined at the time the option is granted) of the stock with respect to which incentive stock options are exercisable for the 1st time by such individual during any calendar year (under all such plans of the individual's employer corporation and its parent and subsidiary corporations) shall not exceed $100,000."
 
 Subsec. (c)(1). Pub. L. 100–647, §1003(d)(2)(C), substituted "subsection (d)" for "paragraph (7) of subsection (b)".
 
@@ -139,6 +141,8 @@ Subsec. (c)(1). Pub. L. 97–448, §102(j)(2), substituted "Good faith efforts t
 Subsec. (c)(2)(A). Pub. L. 97–448, §102(j)(3), substituted "either of the periods" for "the 2-year period".
 
 Subsec. (c)(4)(A)(ii). Pub. L. 97–448, §102(j)(4), substituted "granted incentive stock options" for "granted options".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 
@@ -194,5 +198,5 @@ Pub. L. 100–647, title I, §1003(d)(1)(B), Nov. 10, 1988, 102 Stat. 3384, prov
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, seesection 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

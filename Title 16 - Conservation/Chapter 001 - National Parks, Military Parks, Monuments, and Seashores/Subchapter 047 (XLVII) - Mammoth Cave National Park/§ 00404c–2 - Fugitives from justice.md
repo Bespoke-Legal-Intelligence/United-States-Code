@@ -4,9 +4,13 @@ All fugitives from justice taking refuge in the park shall be subject to the sam
 
 (June 5, 1942, ch. 341, §2, 56 Stat. 317; June 25, 1948, ch. 646, §39, 62 Stat. 992.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1948</b>—Act June 25, 1948, struck out first sentence relating to inclusion of park in a judicial district. See section 97 of Title 28, Judiciary and Judicial Procedure, and section 3231 of Title 18, Crimes and Criminal Procedure.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1948 Amendment
 

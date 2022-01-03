@@ -2,7 +2,7 @@
 
 #### (a) Finding
 
-Congress finds that it is in the national interest to accelerate efforts to develop a domestic capability to economically produce hydrogen in quantities that will make a significant contribution toward reducing the Nation's dependence on conventional fuels.
+Congress finds that it is in the national interest to accelerate efforts to develop a domesticcapability to economically produce hydrogen in quantities that will make a significant contribution toward reducing the Nation's dependence on conventional fuels.
 
 #### (b) Purposes
 
@@ -26,11 +26,15 @@ As used in this chapter, the term:
 
 (Pub. L. 101–566, §102, Nov. 15, 1990, 104 Stat. 2797; Pub. L. 104–271, title I, §101, Oct. 9, 1996, 110 Stat. 3304.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (b)(1). Pub. L. 104–271, §101(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "to direct the Secretary to prepare a comprehensive 5-year comprehensive program management plan that will identify and resolve critical technical issues necessary for the realization of a domestic capability to produce, distribute, and use hydrogen economically within the shortest time practicable;".
 
 Subsec. (c). Pub. L. 104–271, §101(b), added par. (2) and redesignated former par. (2) as (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 1996 Amendment
 

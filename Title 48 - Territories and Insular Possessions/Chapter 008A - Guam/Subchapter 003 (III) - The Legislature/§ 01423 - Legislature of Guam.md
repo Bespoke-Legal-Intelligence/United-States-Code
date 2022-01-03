@@ -18,13 +18,17 @@ General elections to the legislature shall be held on the Tuesday next after the
 
 (Aug. 1, 1950, ch. 512, §10, 64 Stat. 387; Pub. L. 89–552, §1, Sept. 2, 1966, 80 Stat. 375; Pub. L. 98–213, §5(b), Dec. 8, 1983, 97 Stat. 1460.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1983</b>—Subsec. (c). Pub. L. 98–213 substituted "Any" for "The laws of Guam shall not alter the manner in which members of the legislature are to be elected as provided in subsection (b) of this section more often than at ten-year intervals: <i>Provided</i>, That any".
 
 <b>1966</b>—Pub. L. 89–552 authorized election of senators in whole or in part from legislative districts if the laws of Guam so directed, provided that the legislators be called senators, prohibited any districting or apportionment which denied equal protection of the laws to any person in Guam, required that electors be permitted to vote for the whole number of candidates to be elected both within his district and at large, prohibited reapportionment oftener than at 10-year intervals, and required that any redistricting be based upon the latest Federal census.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Amendment of Laws of Guam To Conform to Changes Made by Pub. L. 89–552
 
-Pub. L. 89–552, §2, Sept. 2, 1966, 80 Stat. 376, provided that as soon as practicable after Sept. 2, 1966, and subject to certain conditions and requirements, the laws of Guam were to be amended to make provision for the manner of the election of members of the legislature.
+Pub. L. 89–552, §2, Sept. 2, 1966, 80 Stat. 376, provided that: "As soon as practicable after enactment of this Act \[Sept. 2, 1966\], and subject to the conditions and requirements of section 10 of the Organic Act of Guam, as amended by section 1 hereof \[this section\], the laws of Guam shall be amended to make provision for the manner of the election of members of the legislature. Until the laws of Guam shall make such provision the method of electing the legislature shall remain as it is upon the date of enactment of this Act."
 

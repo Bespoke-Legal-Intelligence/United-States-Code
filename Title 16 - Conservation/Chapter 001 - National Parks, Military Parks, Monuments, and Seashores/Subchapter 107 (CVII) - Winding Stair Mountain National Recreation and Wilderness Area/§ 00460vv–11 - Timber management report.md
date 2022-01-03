@@ -4,6 +4,8 @@ The Secretary of Agriculture shall submit to the Committee on Natural Resources 
 
 (Pub. L. 100–499, §13, Oct. 18, 1988, 102 Stat. 2497; Pub. L. 103–437, §6(d)(20), Nov. 2, 1994, 108 Stat. 4584.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–437 substituted "Natural Resources" for "Interior and Insular Affairs" after "Committee on".

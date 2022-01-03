@@ -90,7 +90,7 @@
 
 &emsp;&emsp;(D) to assess the risk of aquatic nuisance species introduction and spread via the range of vectors active within the Great Lakes and Lake Champlain Systems;
 
-&emsp;&emsp;(E) to advance the development of type-approved ballast water management system (as defined in subsection (p)(1) of section 1322 of title 33 <sup>1</sup> equipment for commercial, non-seagoing vessels that operate solely within the Great Lakes System (as defined in section 1268(a)(3) of title 33);
+&emsp;&emsp;(E) to advance the development of type-approved ballast water management system (as defined in subsection (p)(1) of section 1322 of title 33 <sup>1</sup> equipment for commercial, non-seagoing vessels that operate solely withinthe Great Lakes System (as defined in section 1268(a)(3) of title 33);
 
 &emsp;&emsp;(F) to immediately make available to the public information regarding—
 
@@ -143,6 +143,8 @@
 &emsp;There is authorized to be appropriated to carry out the Program $50,000,000 for each of fiscal years 2019 through 2023.
 
 (Pub. L. 115–282, title IX, §903(g), Dec. 4, 2018, 132 Stat. 4359.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

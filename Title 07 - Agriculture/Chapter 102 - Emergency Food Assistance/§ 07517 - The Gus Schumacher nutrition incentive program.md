@@ -230,7 +230,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;In carrying out the grant program under paragraph (1), the Secretary may enter into 1 or more memoranda of understanding with a Federal agency, a State, or a private entity to ensure the effective implementation and evaluation of each project.
+&emsp;&emsp;In carrying out the grant program under paragraph (1), the Secretary may enter into1 or more memoranda of understanding with a Federal agency, a State, or a private entity to ensure the effective implementation and evaluation of each project.
 
 #### (B) Memorandum of understanding
 
@@ -368,6 +368,8 @@ In this section:
 
 (Pub. L. 110–234, title IV, §4405, May 22, 2008, 122 Stat. 1138; Pub. L. 110–246, §4(a), title IV, §4405, June 18, 2008, 122 Stat. 1664, 1899; Pub. L. 113–79, title IV, §4208, Feb. 7, 2014, 128 Stat. 826; Pub. L. 115–334, title IV, §4205(a), Dec. 20, 2018, 132 Stat. 4656.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Food and Nutrition Act of 2008, referred to in subsecs. (a)(3)(A), (5)(A)(i), (b)(2)(A)(ii)(IV), and (d)(3), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
@@ -414,9 +416,11 @@ Subsec. (f). Pub. L. 115–334, §4205(a)(5), redesignated subsec. (c) as (f).
 
 <b>2014</b>—Pub. L. 113–79 amended section generally. Prior to amendment, section related to hunger-free communities.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
 Section effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as an Effective Date of 2008 Amendment note under section 1161 of Title 2, The Congress.
 

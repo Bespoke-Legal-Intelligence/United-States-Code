@@ -106,7 +106,7 @@ The social security account number issued to an individual for purposes of secti
 
 &emsp;&emsp;&emsp;(ii) by mail, pursuant to rules prescribed by the Secretary, or
 
-&emsp;&emsp;(B) in the case of an applicant who resides outside of the United States, by mail or in person to an employee of the Internal Revenue Service, a community-based certifying acceptance agent approved by the Secretary, or a designee of the Secretary at a United States diplomatic mission or consular post.
+&emsp;&emsp;(B) in the case of an applicant who resides outside of the United States, by mail or inperson to an employee of the Internal Revenue Service, a community-based certifying acceptance agent approved by the Secretary, or a designee of the Secretary at a United States diplomatic mission or consular post.
 
 #### (2) Required documentation
 
@@ -151,6 +151,8 @@ The social security account number issued to an individual for purposes of secti
 &emsp;The Secretary shall implement a system that ensures that individual taxpayer identification numbers issued solely for purposes of claiming tax treaty benefits are used only for such purposes, by distinguishing such numbers from other individual taxpayer identification numbers issued.
 
 (Added Pub. L. 87–397, §1(a), Oct. 5, 1961, 75 Stat. 828; amended Pub. L. 94–455, title XII, §§1203(d), 1211(c), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1691, 1712, 1834; Pub. L. 99–514, title XV, §1524(a), Oct. 22, 1986, 100 Stat. 2749; Pub. L. 100–485, title VII, §§703(c)(3), 704(a), Oct. 13, 1988, 102 Stat. 2427; Pub. L. 101–508, title XI, §11112(a), Nov. 5, 1990, 104 Stat. 1388–413; Pub. L. 101–624, title XVII, §1735(c), title XXII, §2201(d), Nov. 28, 1990, 104 Stat. 3792, 3953; Pub. L. 102–486, title XIX, §1933(a), Oct. 24, 1992, 106 Stat. 3031; Pub. L. 103–296, title III, §316(b), Aug. 15, 1994, 108 Stat. 1532; Pub. L. 103–465, title VII, §742(b), Dec. 8, 1994, 108 Stat. 5010; Pub. L. 104–188, title I, §§1615(a)(2)(A), 1704(t)(42), Aug. 20, 1996, 110 Stat. 1853, 1889; Pub. L. 105–206, title III, §3710(a), July 22, 1998, 112 Stat. 779; Pub. L. 110–28, title VIII, §8246(a)(2)(D), May 25, 2007, 121 Stat. 201; Pub. L. 110–234, title IV, §4002(b)(1)(B), (G), (2)(O), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (G), (2)(O), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 114–113, div. Q, title II, §203(a), Dec. 18, 2015, 129 Stat. 3078; Pub. L. 115–141, div. U, title I, §101(g)(1)–(3), title IV, §401(a)(276), Mar. 23, 2018, 132 Stat. 1161, 1197.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -235,6 +237,8 @@ Subsec. (e)(2). Pub. L. 100–485, §704(a), substituted "age of 2" for "age of 
 <b>1976</b>—Subsec. (a). Pub. L. 94–455, §§1203(d), 1906(b)(13)(A), struck out in provisions preceding par. (1) "or his delegate" after "Secretary" and added par. (4).
 
 Subsec. (d). Pub. L. 94–455, §1211(c), added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

@@ -48,6 +48,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2020</b>—Pub. L. 116–260, div. R, title I, §§104(b), 109(b), Dec. 27, 2020, 134 Stat. 2219, 2224, added items 60142 and 60143.
@@ -61,6 +63,8 @@
 <b>2002</b>—Pub. L. 107–355, §§6(c), 9(c), 11(b), 13(a)(2), 15(b), 16(b), 20(a)(2)(B), Dec. 17, 2002, 116 Stat. 2993, 2995, 2997, 3001, 3006, 3008, 3010, substituted "Purpose and general authority" for "General authority" in item 60102 and "Population encroachment and rights-of-way" for "Population encroachment" in item 60127 and added items 60129 to 60133.
 
 <b>1996</b>—Pub. L. 104–304, §§5(f)\[(b)\], 15(c)\[(b)\], 16(b), 18(b)(2), 20(e), Oct. 12, 1996, 110 Stat. 3800, 3803, 3804, substituted "State pipeline safety program certifications" for "State certifications" in item 60105, "State pipeline safety agreements" for "State agreements" in item 60106, "State pipeline safety grants" for "State grants" in item 60107, and "Biennial reports" for "Annual reports" in item 60124 and added items 60126, 60127, and 60128.
+
+#### <b>Executive Documents</b>
 
 #### Expediting Review of Pipeline Projects From Cushing, Oklahoma, to Port Arthur, Texas, and Other Domestic Pipeline Infrastructure Projects
 
@@ -82,7 +86,7 @@ Cushing, Oklahoma, is a prime example. There, in part due to rising domestic pro
 
 Although expanding and modernizing our Nation's pipeline infrastructure will not lower prices right away, it is a vital part of a sustained strategy to continue to reduce our reliance on foreign oil and enhance our Nation's energy security. Therefore, as part of my Administration's broader efforts to improve the performance of Federal permitting and review processes, we must make pipeline infrastructure a priority, ensuring the health, safety, and security of communities and the environment while supporting projects that can contribute to economic growth and a secure energy future. In doing so, the Federal Government must work in partnership with State, local, and tribal governments, which play a central role in the siting and permitting of pipelines; and, we must protect our natural resources and address the concerns of local communities.
 
-Section 1. <i>Expedited Review of Pipeline Projects from Cushing to Port Arthur and Other Domestic Pipeline Infrastructure Projects</i>. (a) To address the existing bottleneck in Cushing, as well as other current or anticipated bottlenecks, agencies shall, to the maximum extent practicable and consistent with available resources and applicable laws (including those relating to public safety, public health, and environmental protection), coordinate and expedite their reviews, consultations, and other processes as necessary to expedite decisions related to domestic pipeline infrastructure projects that would contribute to a more efficient domestic pipeline system for the transportation of crude oil, such as a pipeline from Cushing to Port Arthur. This subsection shall be implemented consistent with my Executive Order of March 22, 2012 (Improving Performance of Federal Permitting and Review of Infrastructure Projects), and applicable projects shall have their status tracked on the online Federal Infrastructure Projects Dashboard referenced therein.
+Section 1. <i>Expedited Review of Pipeline Projects from Cushing to Port Arthur and Other Domestic Pipeline Infrastructure Projects</i>. (a) To address the existing bottleneck in Cushing, as well as other current or anticipated bottlenecks, agencies shall, to the maximum extent practicable and consistent with available resources and applicable laws (including those relating to public safety, public health, and environmental protection), coordinate and expedite their reviews, consultations, and other processes as necessary to expedite decisions related to domestic pipeline infrastructure projects that would contribute to a more efficient domestic pipeline system for the transportation of crude oil, such as a pipeline from Cushing to Port Arthur. This subsection shall be implemented consistent with my ExecutiveOrder of March 22, 2012 (Improving Performance of Federal Permitting and Review of Infrastructure Projects), and applicable projects shall have their status tracked on the online Federal Infrastructure Projects Dashboard referenced therein.
 
 (b) In expediting reviews pursuant to subsection (a) of this section, agencies shall, to the maximum extent practicable and consistent with applicable law, utilize and incorporate information from prior environmental reviews and studies conducted in connection with previous applications for similar or overlapping infrastructure projects so as to avoid duplicating effort.
 

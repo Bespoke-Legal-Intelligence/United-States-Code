@@ -20,13 +20,15 @@ All provisions of section 6(k) of the National Forest Management Act of 1976 (16
 
 #### (e) Protection of riparian habitat; maintenance of buffer zones in Tongass National Forest; relocation of prior independent sale or released volume
 
-In order to assure protection of riparian habitat, the Secretary shall maintain a buffer zone of no less than one hundred feet in width on each side of all Class I streams in the Tongass National Forest, and on those Class II streamswhich flow directly into a Class I stream, within which commercial timber harvesting shall be prohibited, except where independent national forest timber sales have already been sold prior to March 1, 1990, or where volume has been released prior to March 1, 1990, to either the Alaska Pulp Corporation or the Ketchikan Pulp Company pursuant to the long-term timber sale contracts numbered 12–11–010–1545 and A10fs–1042 respectively. If such an independent timber sale or released volume is within the buffer zone, the Secretary shall make every effort to relocate such independent sale or released volume to an area outside of the buffer zone. The Secretary shall use best management practices, as defined in the Region 10 Soil and Water Conservation handbook <sup>1</sup> (FSH 2509.22), January 1990, to assure the protection of riparian habitat on streams or portions of streams not protected by such buffer zones. For the purposes of this subsection, the terms "Class I streams" and "Class II streams" mean the same as they do in the Region 10 Aquatic Habitat Management Handbook (FSH 2609.24), June 1986.
+In order to assure protection of riparian habitat, the Secretary shall maintain a buffer zone of no less than one hundred feet in width on each side of all Class I streams in the Tongass National Forest, and on those Class II streams which flow directly into a Class I stream, within which commercial timber harvesting shall be prohibited, except where independent national forest timber sales have already been sold prior to March 1, 1990, or where volume has been released prior to March 1, 1990, to either the Alaska Pulp Corporation or the Ketchikan Pulp Company pursuant to the long-term timber sale contracts numbered 12–11–010–1545 and A10fs–1042 respectively. If such an independent timber sale or released volume is within the buffer zone, the Secretary shall make every effort to relocate such independent sale or released volume to an area outside of the buffer zone. The Secretary shall use best management practices, as defined in the Region 10 Soil and Water Conservation handbook <sup>1</sup> (FSH 2509.22), January 1990, to assure the protection of riparian habitat on streams or portions of streams not protected by such bufferzones. For the purposes of this subsection, the terms "Class I streams" and "Class II streams" mean the same as they do in the Region 10 Aquatic Habitat Management Handbook (FSH 2609.24), June 1986.
 
 #### (f) Timber supply from Tongass National Forest for purchasers qualifying as "small business concerns"
 
 Subject to appropriations, the provisions of this Act and other applicable law (including but not limited to the requirements of the National Forest Management Act of 1976 (Public Law 94–588)) and in order to assure the continuation of the Small Business Administration timber sale program, the Secretary shall, in consultation with the Administrator of the Small Business Administration and to the extent consistent with providing for the multiple use and sustained yield of all renewable forest resources, seek to provide a supply of timber from the Tongass National Forest to those purchasers qualifying as "small business concerns" under the Small Business Act as amended (15 U.S.C. 631 et seq.).
 
 (Pub. L. 96–487, title VII, §705, Dec. 2, 1980, 94 Stat. 2420; Pub. L. 101–626, title I, §§101–103(a), 105(b), Nov. 28, 1990, 104 Stat. 4426, 4427.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -45,6 +47,8 @@ Subsec. (d). Pub. L. 101–626, §102, added subsec. (d) and struck out former s
 Subsec. (e). Pub. L. 101–626, §103(a), added subsec. (e).
 
 Subsec. (f). Pub. L. 101–626, §105(b), added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 1990 Amendment
 

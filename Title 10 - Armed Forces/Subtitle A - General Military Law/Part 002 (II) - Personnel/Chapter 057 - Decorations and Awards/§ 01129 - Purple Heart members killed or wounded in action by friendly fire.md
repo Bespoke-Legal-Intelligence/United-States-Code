@@ -8,6 +8,8 @@
 
 (Added Pub. L. 103–160, div. A, title XI, §1141(a), Nov. 30, 1993, 107 Stat. 1756; amended Pub. L. 105–85, div. A, title X, §1073(a)(18), Nov. 18, 1997, 111 Stat. 1901.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1997</b>—Subsec. (c). Pub. L. 105–85 substituted "November 30, 1993," for "the date of the enactment of this section," and "before such date or" for "before the date of the enactment of this section or".
@@ -39,6 +41,8 @@ Procedures for Award.—In determining whether a former prisoner of war who subm
 &emsp;"(3) To the extent that information is readily available, the Secretary shall assist the applicant in obtaining information or identifying the sources of information referred to in paragraph (2).
 
 &emsp;"(4) The Secretary shall review a completed application under this section based upon the totality of the information presented, taking into account the length of time between the period during which the applicant was held as a prisoner of war and the date of the application."
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 11016. Authorizing Award of the Purple Heart
 

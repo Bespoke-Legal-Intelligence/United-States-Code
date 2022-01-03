@@ -64,6 +64,8 @@ Any reference in this joint resolution to the "Compact" shall be treated as a re
 
 (Pub. L. 99–658, title I, §101, Nov. 14, 1986, 100 Stat. 3673.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Compact of Free Association and the Compact, referred to in text, is the Compact of Free Association between the United States and the Government of Palau, which is contained in section 201 of Pub. L. 99–658, set out below.
@@ -78,6 +80,8 @@ Section 601(b) of Public Law 94–329, referred to in subsec. (d)(3), is section
 
 Section was formerly set out as a note under section 1681 of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on Interior and Insular Affairs of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 5, One Hundred Third Congress, Jan. 5, 1993.
@@ -85,10 +89,6 @@ Committee on Interior and Insular Affairs of House of Representatives changed to
 #### Regulations Regarding Habitual Residence
 
 Commissioner of Immigration and Naturalization to issue regulations, not later than 6 months after Sept. 30, 1996, governing rights of "habitual residence" in United States under terms of the Compact of Free Association between the Government of the United States and the Government of Palau, see section 643 of Pub. L. 104–208, formerly set out as a note under section 1901 of this title.
-
-#### Termination of Trust Territory of the Pacific Islands
-
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of this title.
 
 #### Recital Clauses
 
@@ -98,7 +98,7 @@ Pub. L. 99–658 which enacted this part contained several "Whereas" clauses rea
 
 "Whereas the United States, in accordance with the Trusteeship Agreement, the Charter of the United Nations and the objectives of the international trusteeship system, has promoted the development of the peoples of the Trust Territory toward self-government or independence as appropriate to the particular cicumstances \[sic\] of the Trust Territory and its peoples and the freely expressed wishes of the peoples concerned; and
 
-"Whereas the United States, in response to the desires of the people of Palau expressed through their freely-elected representatives and by the official pronouncements and enactments of their lawfully constituted government, and in consideration of its ownobligations under the Trusteeship Agreement to promote self-determination, entered into political status negotiations with representatives of the people of Palau; and
+"Whereas the United States, in response to the desires of the people of Palau expressed through their freely-elected representatives and by the official pronouncements and enactments of their lawfully constituted government, and in consideration of its own obligations under the Trusteeship Agreement to promote self-determination, entered into political status negotiations with representatives of the people of Palau; and
 
 "Whereas these negotiations resulted in the 'Compact of Free Association' \[set out below\] between the United States and Palau which, together with its related agreements, was signed by the United States and by Palau on January 10, 1986; and
 
@@ -186,7 +186,7 @@ Pub. L. 99–658, title II, §201, Nov. 14, 1986, 100 Stat. 3678, provided that:
 
 #### "Section 124
 
-"(a) The Government of Palau has authority to conduct its foreign affairs relating to law of the sea andmarine resources matters, including the harvesting, conservation, exploration or exploitation of living and nonliving resources from the sea, seabed or subsoil to the full extent recognized under international law.
+"(a) The Government of Palau has authority to conduct its foreign affairs relating to law of the sea and marine resources matters, including the harvesting, conservation, exploration or exploitation of living and nonliving resources from the sea, seabed or subsoil to the full extent recognized under international law.
 
 "(b) The Government of Palau has jurisdiction and sovereignty over its territory, including its land and internal waters, territorial seas, the airspace superjacent thereto only to the extent recognized under international law.
 
@@ -252,7 +252,7 @@ Pub. L. 99–658, title II, §201, Nov. 14, 1986, 100 Stat. 3678, provided that:
 
 "(a) Any citizen or national of the United States may enter into, lawfully engage in occupations, and reside in Palau, subject to the right of that Government to deny entry to or deport any such citizen or national as an undesirable alien. A citizen or national of the United States may establish habitual residence or domicile in Palau only in accordance with the laws of Palau. This subsection is without prejudice to the right of the Government of Palau to regulate occupations in Palau in a nondiscriminatory manner.
 
-"(b) With respect to the subject matter of this Section, the Government of Palau shall accord to citizensand nationals of the United States treatment no less favorable than that accorded to citizens of other countries; any denial of entry to or deportation of a citizen or national of the United States as an undesirable alien must be pursuant to reasonable statutory grounds.
+"(b) With respect to the subject matter of this Section, the Government of Palau shall accord to citizens and nationals of the United States treatment no less favorable than that accorded to citizens of other countries; any denial of entry to or deportation of a citizen or national of the United States as an undesirable alien must be pursuant to reasonable statutory grounds.
 
 #### "Section 143
 
@@ -278,7 +278,7 @@ Pub. L. 99–658, title II, §201, Nov. 14, 1986, 100 Stat. 3678, provided that:
 
 #### "Section 152
 
-"(a) The premises of such representatives \[sic\] offices, and their archives wherever located, shall be inviolable. The property and assets of such representative offices shall be immune from search, requisition, attachment and any form of seizure unless such immunity is expressly waived. Official communications in transit shall be inviolable and accorded the freedom and protections accorded by recognized principles of intentional \[sic\] law to official communications of a diplomatic mission.
+"(a) The premises of such representatives \[sic\] offices, and their archives wherever located, shall be inviolable. The property and assets of such representative offices shall be immune from search, requisition, attachment and any form of seizure unless such immunity is expressly waived. Official communications in transit shall be inviolable and accorded the freedomand protections accorded by recognized principles of intentional \[sic\] law to official communications of a diplomatic mission.
 
 "(b) Persons designated by the sending Government may serve in the capacity of its resident representatives with the consent of the receiving Government. Such designated persons shall be immune from civil and criminal process relating to words spoken or written and all acts performed by them in their official capacity and falling within their functions as such representatives, except insofar as such immunity may be expressly waived by the sending Government. While serving in a resident representative capacity, such designated persons shall not be liable to arrest or detention pending trial, except in the case of a grave crime and pursuant to a decision by a competent judicial authority, and such persons shall enjoy immunity from seizure of personal property, immigration restrictions, and laws relating to alien registration, fingerprinting, and the registration of foreign agents.
 
@@ -340,7 +340,7 @@ Pub. L. 99–658, title II, §201, Nov. 14, 1986, 100 Stat. 3678, provided that:
 
 "Except as otherwise provided in this Compact and its related agreements:
 
-"(a) The Government of Palau shall be immune from the jurisdiction of the courts of the United States, and the Government of the United States shall be immune from the jurisdiction of the courts of Palau.
+"(a) The Government of Palau shall be immune from the jurisdiction of the courts of the United States, andthe Government of the United States shall be immune from the jurisdiction of the courts of Palau.
 
 "(b) The Government of the United States accepts responsibility for and shall pay:
 
@@ -458,7 +458,7 @@ Pub. L. 99–658, title II, §201, Nov. 14, 1986, 100 Stat. 3678, provided that:
 
 #### "Section 223
 
-"The citizens of Palau who are receiving post-secondary education assistance from the Government of the United States on the day preceding the effective date of this Compact shall continue to be eligible, if otherwise qualified, to receive such assistance to complete their academic programs for a maximum of four years after the effective date of this Compact.
+"The citizens of Palau who are receiving post-secondary education assistance from the Government ofthe United States on the day preceding the effective date of this Compact shall continue to be eligible, if otherwise qualified, to receive such assistance to complete their academic programs for a maximum of four years after the effective date of this Compact.
 
 #### "Section 224
 
@@ -560,7 +560,7 @@ Pub. L. 99–658, title II, §201, Nov. 14, 1986, 100 Stat. 3678, provided that:
 
 "(b) Subsection (a) of this Section shall not apply to Palau for any period after December 31, 1986, during which there is not in effect between Palau and the United States an exchange of information agreement of the kind described in section 274(h)(6)(C) (other than clause (ii) thereof) of the Internal Revenue Code of 1954.
 
-"(c) If the tax incentives extended to Palau under subsection (a) of this Section are, at any time during which the Compact is in effect, reduced, the United States Secretary of the Treasury shall negotiate an agreement with the Government of Palau under which, when such agreement is approved by law, Palau will be provided with benefits substantially equivalent to such reduction in benefits. If within the 1-year period after the date of the enactment of the Act making the reduction in benefits, an agreement negotiated under the preceding sentence is not approved by law, the matter shall be submitted to the Arbitration Board established pursuant to Section 424. For purposes of Article V of this Title, the Secretary of the Treasury or his delegateshall be the member of such Board representing the Government of the United States. Any decision of such Board in the matter when approved by law shall be binding on the United States, except that such decision rendered is binding only as to whether the United States has provided the substantially equivalent benefits referred to in this subsection.
+"(c) If the tax incentives extended to Palau under subsection (a) of this Section are, at any time during which the Compact is in effect, reduced, the United States Secretary of the Treasury shall negotiate an agreement with the Government of Palau under which, when such agreement is approved by law, Palau will be provided with benefits substantially equivalent to such reduction in benefits. If within the 1-year period after the date of the enactment of the Act making the reduction in benefits, an agreement negotiated under the preceding sentence is not approved by law, the matter shall be submitted to the Arbitration Board established pursuant to Section 424. For purposes of Article V of this Title, the Secretary of the Treasury or his delegate shall be the member of such Board representing the Government of the United States. Any decision of such Board in the matter when approved by law shall be binding on the United States, except that such decision rendered is binding only as to whether the United States has provided the substantially equivalent benefits referred to in this subsection.
 
 "(d) For purposes of section 274(h)(3)(A) of the Internal Revenue Code of 1954, the term 'North American area' shall include Palau.
 
@@ -594,7 +594,7 @@ Pub. L. 99–658, title II, §201, Nov. 14, 1986, 100 Stat. 3678, provided that:
 
 #### "Section 321
 
-"The Government of the United States may establish and use defense sites in Palau, and may designate for this purpose land and water areas and improvements in accordance with the provisions of a separate agreement which shall come into force simultaneously with this Compact.
+"The Government of the United States may establish and use defense sites in Palau, and may designate forthis purpose land and water areas and improvements in accordance with the provisions of a separate agreement which shall come into force simultaneously with this Compact.
 
 #### "Section 322
 
@@ -724,7 +724,7 @@ Pub. L. 99–658, title II, §201, Nov. 14, 1986, 100 Stat. 3678, provided that:
 
 #### "Section 431
 
-"The provisions of this Compact may be amended at any time by mutual agreement of the Government ofthe United States and the Government of Palau in accordance with their respective constitutional processes.
+"The provisions of this Compact may be amended at any time by mutual agreement of the Government of the United States and the Government of Palau in accordance with their respective constitutional processes.
 
 #### "Section 432
 
@@ -810,7 +810,7 @@ Pub. L. 99–658, title II, §201, Nov. 14, 1986, 100 Stat. 3678, provided that:
 
 &emsp;"(2) public and private sector projects identified in the official overall economic development plan.
 
-"(i) 'Current Account' means, for each year of the Compact, those portions of the total grant assistanceprovided in Article I of Title Two, which are to be obligated for recurring operational activities including infrastructure maintenance as identified in the annual budget justifications submitted yearly to the Government of the United States.
+"(i) 'Current Account' means, for each year of the Compact, those portions of the total grant assistance provided in Article I of Title Two, which are to be obligated for recurring operational activities including infrastructure maintenance as identified in the annual budget justifications submitted yearly to the Government of the United States.
 
 "(j) 'Official National Development Plan' means the documented program of annual development which identifies the specific policy and project activities necessary to achieve a specified set of economic goals and objectives during the period of free association, consistent with the economic assistance authority in Title Two. Such a document should include an analysis of population trends, manpower requirements, social needs, gross national product estimates, resource utilization, infrastructure needs and expenditures, and the specific private sector projects required to develop the local economy of Palau. Project identification should include initial cost estimates, with project purposes related to specific development goals and objectives.
 
@@ -885,6 +885,12 @@ Pub. L. 99–658, title II, §201, Nov. 14, 1986, 100 Stat. 3678, provided that:
 #### "\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_".
 
 \[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+
+#### <b>Executive Documents</b>
+
+#### Termination of Trust Territory of the Pacific Islands
+
+For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of this title.
 
 #### Proc. No. 6726. Placing Into Full Force and Effect Compact of Free Association With Republic of Palau
 

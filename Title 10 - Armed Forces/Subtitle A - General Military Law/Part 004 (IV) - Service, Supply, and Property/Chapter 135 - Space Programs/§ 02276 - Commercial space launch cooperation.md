@@ -1,0 +1,154 @@
+### §2276. Commercial space launch cooperation
+
+(a)
+
+Authority.—The Secretary of Defense may take such actions as the Secretary considers to be in the best interest of the Federal Government to—
+
+&emsp;(1) maximize the use of the capacity of the space transportation infrastructure of the Department of Defense by the private sector in the United States;
+
+&emsp;(2) maximize the effectiveness and efficiency of the space transportation infrastructure of the Department of Defense;
+
+&emsp;(3) reduce the cost of services provided by the Department of Defense related to space transportation infrastructure at launch support facilities and space recovery support facilities;
+
+&emsp;(4) encourage commercial space activities by enabling investment by covered entities in the space transportation infrastructure of the Department of Defense; and
+
+&emsp;(5) foster cooperation between the Department of Defense and covered entities.
+
+(b)
+
+Authority for Contracts and Other Agreements Relating to Space Transportation Infrastructure.—The Secretary of Defense—
+
+&emsp;(1) may enter into an agreement with a covered entity to provide the covered entity with support and services related to the space transportation infrastructure of the Department of Defense; and
+
+&emsp;(2) upon the request of such covered entity, may include such support and services in the space launch and reentry range support requirements of the Department of Defense if—
+
+&emsp;&emsp;(A) the Secretary determines that the inclusion of such support and services in such requirements—
+
+&emsp;&emsp;&emsp;(i) is in the best interest of the Federal Government;
+
+&emsp;&emsp;&emsp;(ii) does not interfere with the requirements of the Department of Defense; and
+
+&emsp;&emsp;&emsp;(iii) does not compete with the commercial space activities of other covered entities, unless that competition is in the national security interests of the United States; and
+
+&emsp;&emsp;(B) any commercial requirement included in the agreement has full non-Federal funding before the execution of the agreement.
+
+(c)
+
+Contributions.—
+
+&emsp;(1)
+
+In general.—The Secretary of Defense may enter into an agreement with a covered entity on a cooperative and voluntary basis toaccept contributions of funds, services, and equipment to carry out this section.
+
+&emsp;(2)
+
+Use of contributions.—Any funds, services, or equipment accepted by the Secretary under this subsection—
+
+&emsp;&emsp;(A) may be used only for the objectives specified in this section in accordance with terms of use set forth in the agreement entered into under this subsection; and
+
+&emsp;&emsp;(B) shall be managed by the Secretary in accordance with regulations of the Department of Defense.
+
+&emsp;(3)
+
+Requirements with respect to agreements.—An agreement entered into with a covered entity under this subsection—
+
+&emsp;&emsp;(A) shall address the terms of use, ownership, and disposition of the funds, services, or equipment contributed pursuant to the agreement; and
+
+&emsp;&emsp;(B) shall include a provision that the covered entity will not recover the costs of its contribution through any other agreement with the United States.
+
+(d)
+
+Defense Cooperation Space Launch Account.—
+
+&emsp;(1)
+
+Establishment.—There is established in the Treasury of the United States a special account to be known as the "Defense Cooperation Space Launch Account".
+
+&emsp;(2)
+
+Crediting of funds.—Funds received by the Secretary of Defense under subsection (c) shall be credited to the Defense Cooperation Space Launch Account.
+
+&emsp;(3)
+
+Use of funds.—Funds deposited in the Defense Cooperation Space Launch Account under paragraph (2) are authorized to be appropriated and shall be available for obligation only to the extent provided in advance in an appropriation Act for costs incurred by the Department of Defense in carrying out subsection (b). Funds in the Account shall remain available until expended.
+
+\[(e) Repealed. Pub. L. 115–232, div. A, title VIII, §813(a)(2), Aug. 13, 2018, 132 Stat. 1851.\]
+
+(f)
+
+Regulations.—The Secretary of Defense shall prescribe regulations to carry out this section.
+
+(g)
+
+Definitions.—In this section:
+
+&emsp;(1)
+
+Covered entity.—The term "covered entity" means a non-Federal entity that—
+
+&emsp;&emsp;(A) is organized under the laws of the United States or of any jurisdiction within the United States; and
+
+&emsp;&emsp;(B) is engaged in commercial space activities.
+
+&emsp;(2)
+
+Launch support facilities.—The term "launch support facilities" has the meaning given the term in section 50501(7) of title 51.
+
+&emsp;(3)
+
+Space recovery support facilities.—The term "space recovery support facilities" has the meaning given the term in section 50501(11) of title 51.
+
+&emsp;(4)
+
+Space transportation infrastructure.—The term "space transportation infrastructure" has the meaning given that term in section 50501(12) of title 51.
+
+(Added Pub. L. 112–239, div. A, title IX, §912(a), Jan. 2, 2013, 126 Stat. 1872; amended Pub. L. 115–232, div. A, title VIII, §813(a)(2), Aug. 13, 2018, 132 Stat. 1851.)
+
+#### <b>Editorial Notes</b>
+
+#### Prior Provisions
+
+A prior section 2276, acts Aug. 10, 1956, ch. 1041, 70A Stat. 126; Sept. 7, 1962, Pub. L. 87–651, title I, §131, 76 Stat. 514, which related to inspection and audit of plants and books of contractors and provided criminal penalties for violations, was repealed by Pub. L. 103–160, div. A, title VIII, §821(a)(1), Nov. 30, 1993, 107 Stat. 1704.
+
+#### Amendments
+
+<b>2018</b>—Subsec. (e). Pub. L. 115–232 struck out subsec. (e). Text read as follows: "Not later than January 31 of each year, the Secretary of Defense shall submit to the congressional defense committees a report on the funds, services, and equipment accepted and used by the Secretary under this section during the preceding fiscal year."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### National Security Space Launch Program
+
+Pub. L. 117–81, div. A, title XVI, §1601(b), (c), (e), Dec. 27, 2021, 135 Stat. 2073–2075, provided that:
+
+"(b)
+
+Policy.—With respect to entering into contracts for launch services during the period beginning on the date of the enactment of this Act \[Dec. 27, 2021\] and ending September 30, 2024, it shall be the policy of the Department of Defense and the National Reconnaissance Office to—
+
+&emsp;"(1) use the National Security Space Launch program to the extent practical to procure launch services only from launch service providers that can meet Federal requirements with respect to delivering required payloads to reference orbits covered under the requirements of phase two; and
+
+&emsp;"(2) maximize continuous competition for launch services as the Space Force initiates planning for phase three, specifically for those technology areas that are unique to existing and emerging national security requirements.
+
+"(c)
+
+Notification.—If the Secretary of Defense or the Director of the National Reconnaissance Office determines that a program requiring launch services that could be met using phase two contracts will instead use an alternative launch procurement approach, not later than seven days after the date of such determination, the Secretary of Defense or, as appropriate, the Director of National Intelligence, shall submit to the appropriate congressional committees—
+
+&emsp;"(1) a notification of such determination;
+
+&emsp;"(2) a certification that the alternative launch procurement approach is in the national security interest of the United States; and
+
+&emsp;"(3) an outline of the cost analysis and any other rationale for such determination.
+
+"(e)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'appropriate congressional committees' means—
+
+&emsp;&emsp;"(A) the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\]; and
+
+&emsp;&emsp;"(B) the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
+
+&emsp;"(2) The term 'phase three' means, with respect to the National Security Space Launch program, launch missions ordered under the program after fiscal year 2024.
+
+&emsp;"(3) The term 'phase two' means, with respect to the National Security Space Launch program, launch missions ordered under the program during fiscal years 2020 through 2024."
+

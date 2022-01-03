@@ -10,7 +10,7 @@
 
 &emsp;(4) to group, coordinate, and consolidate agencies and functions of the Government, as nearly as may be, according to major purposes;
 
-&emsp;(5) to reduce the number of agencies by consolidating those having similar functions under a single head, and to abolish such agencies or functions thereof as may not be necessary for the efficient conduct of the Government; and
+&emsp;(5) to reduce the number of agencies by consolidating those having similar functionsunder a single head, and to abolish such agencies or functions thereof as may not be necessary for the efficient conduct of the Government; and
 
 &emsp;(6) to eliminate overlapping and duplication of effort.
 
@@ -250,7 +250,7 @@ A provision of this section transferring the administration of national cemeteri
 
 #### Effective Date
 
-See section 22 of this Ex. Ord. The transfer of national cemeteries located in the insular possessions to the Bureau of Insular Affairs, as provided in this section, was postponed until further order by Ex. Ord. No. 6228, §3, of July 28, 1933.
+See section 22 of this Ex. Ord. The transfer of national cemeteries located in the insular possessions tothe Bureau of Insular Affairs, as provided in this section, was postponed until further order by Ex. Ord. No. 6228, §3, of July 28, 1933.
 
 #### §3.
 
@@ -326,7 +326,7 @@ The effective date of section 8 of Ex. Ord. No. 6166, originally fixed by sectio
 
 Assistant Secretary of Commerce
 
-The Assistant Secretary of Commerce for Aeronautics shall be an Assistant Secretary of Commerce and shall perform such functions as the Secretary of Commerce may designate.
+The Assistant Secretary of Commerce for Aeronautics shall be an Assistant Secretary of Commerceand shall perform such functions as the Secretary of Commerce may designate.
 
 #### §10.
 
@@ -434,7 +434,7 @@ In accordance with law, this order shall become effective 61 days from its date:
 
 Executive Order No. 7261, promulgated December 31, 1935, provided that "except as hereinafter provided, the transfers, consolidations, and eliminations contemplated by section 4 of Executive Order No. 6166 of June 10, 1933, as amended, which are not effected prior to December 31, 1935, pursuant to Executive Order No. 6224 of July 27, 1933, Executive Order No. 6540 of December 28, 1933, Executive Order No. 6727 of May 29, 1934, Executive Order No. 6927 of December 21, 1934, and Executive Order No. 7077 of June 15, 1935, together with the operation of all other provisions of Executive Order No. 6166 of June 10, 1933, as amended, in so far as they relate to said section 4, be further delayed until June 30, 1936: Provided, that any transfer, consolidation, or elimination, in whole or in part, under said section 4, including any other provisions of the said order of June 10, 1933, in so far as they relate to section 4 thereof, may be made operative and effective between December 31, 1935, and June 30, 1936, by order of the Secretary of the Treasury, approved by the President."
 
-Executive Order No. 7980, promulgated September 29, 1938, provided: "That the transfers, consolidations, and eliminations contemplated by section 4 of Executive Order No. 6166 of June 10, 1933, as amended, together with the operation of all other provisions of Executive Order No. 6166 of June 10, 1933, as amended, so far as they relate to the said section 4, be further delayed until December 31, 1938, with respect to the function of disbursement now exercised by United States Marshals under the Department of Justice."
+Executive Order No. 7980, promulgated September 29, 1938, provided: "That the transfers, consolidations, andeliminations contemplated by section 4 of Executive Order No. 6166 of June 10, 1933, as amended, together with the operation of all other provisions of Executive Order No. 6166 of June 10, 1933, as amended, so far as they relate to the said section 4, be further delayed until December 31, 1938, with respect to the function of disbursement now exercised by United States Marshals under the Department of Justice."
 
 Functions relating to disbursement by United States marshals which would otherwise have become functions of Treasury Department on July 1, 1940, by virtue of Ex. Ord. No. 6166, as amended, were transferred to and vested in Department of Justice to be exercised by United States marshals under supervision of Attorney General in accordance with existing statutes pertaining to such functions, by Reorg. Plan No. IV of 1940, §3, eff. June 30, 1940. See, also, sections 13–15 of said plan for provisions relating to transfer of functions of department heads, records, property, personnel, and funds.
 

@@ -66,7 +66,7 @@ The WTC Program Administrator working with the Clinical Centers of Excellence sh
 
 #### (1) In general
 
-&emsp;Not later than 6 months after the end of each fiscal year in which the WTC Program is in operation, the WTC Program Administrator shall submit an annual report to the Congresson the operations of this subchapter for such fiscal year and for the entire period of operation of the program.
+&emsp;Not later than 6 months after the end of each fiscal year in which the WTC Program is in operation, the WTC Program Administrator shall submit an annual report to the Congress on the operations of this subchapter for such fiscal year and for the entire period of operation of the program.
 
 #### (2) Contents included in report
 
@@ -82,7 +82,7 @@ The WTC Program Administrator working with the Clinical Centers of Excellence sh
 
 &emsp;&emsp;&emsp;(iii) with respect to individuals so certified who received such treatment, on the WTC-related health conditions for which they were treated; and
 
-&emsp;&emsp;&emsp;(iv) on the projected number of individuals who will be certified under part B in the succeeding fiscal year and the succeeding 10-year period.
+&emsp;&emsp;&emsp;(iv) on the projected number of individuals who will be certified under part B inthe succeeding fiscal year and the succeeding 10-year period.
 
 #### (B) Monitoring, initial health evaluation, and treatment costs
 
@@ -150,7 +150,7 @@ The WTC Program Administrator shall engage in ongoing outreach and consultation 
 
 &emsp;&emsp;(B) The procedures for providing certifications of coverage of conditions as WTC-related health conditions for enrolled WTC responders under section 300mm–22(b)(2)(B)(iii) of this title and for screening-eligible WTC survivors and certified-eligible WTC survivors under such section as applied under section 300mm–32(a) of this title.
 
-&emsp;&emsp;(C) Any action under the WTC Program to ensure appropriate payment (including the avoidance of improper payments), including determining the extent to which individualsenrolled in the WTC Program are eligible for workers compensation or sources of health coverage, ascertaining the liability of such compensation or sources of health coverage, and making recommendations for ensuring effective and efficient coordination of benefits for individuals enrolled in the WTC Program that does not place an undue burden on such individuals.
+&emsp;&emsp;(C) Any action under the WTC Program to ensure appropriate payment (including the avoidance of improper payments), including determining the extent to which individuals enrolled in the WTC Program are eligible for workers compensation or sources of health coverage, ascertaining the liability of such compensation or sources of health coverage, and making recommendations for ensuring effective and efficient coordination of benefits for individuals enrolled in the WTC Program that does not place an undue burden on such individuals.
 
 #### (2) Subsequent assessments
 
@@ -169,6 +169,8 @@ The WTC Program Administrator is authorized to promulgate such regulations as th
 The WTC Program shall terminate on October 1, 2090.
 
 (July 1, 1944, ch. 373, title XXXIII, §3301, as added Pub. L. 111–347, title I, §101, Jan. 2, 2011, 124 Stat. 3624; amended Pub. L. 114–113, div. O, title III, §302(b), Dec. 18, 2015, 129 Stat. 2998.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

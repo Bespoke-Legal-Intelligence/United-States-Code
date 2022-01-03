@@ -18,13 +18,15 @@ Information about this chapter and activities undertaken in accordance with this
 
 #### (e) Allocations under section 4511
 
-Whenever the President makes a determination to exercise any authority to allocate any material pursuant to section 4511 of this title, small business concerns shall be accorded, to the extent practicable, a fair share of such material, in proportion to the share received by such business concerns under normal conditions, giving such special consideration as may be possible to emerging small business concerns.
+Whenever the President makes a determination to exercise any authority to allocate any material pursuant to section 4511 of this title, small business concerns shall be accorded, to theextent practicable, a fair share of such material, in proportion to the share received by such business concerns under normal conditions, giving such special consideration as may be possible to emerging small business concerns.
 
 (Sept. 8, 1950, ch. 932, title VII, §701, 64 Stat. 815; July 31, 1951, ch. 275, title I, §108, 65 Stat. 138; June 30, 1953, ch. 171, §7, 67 Stat. 130; Aug. 9, 1955, ch. 655, §§4, 5, 69 Stat. 580; Pub. L. 96–294, title I, §105(c), June 30, 1980, 94 Stat. 633; Pub. L. 102–558, title I, §131, Oct. 28, 1992, 106 Stat. 4209.)
 
 #### Termination of Section
 
 <i>For termination of section, see section 4564(a) of this title.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -48,6 +50,8 @@ Subsec. (d). Act Aug. 9, 1955, §5, added subsec. (d).
 
 <b>1951</b>—Subsec. (c). Act July 31, 1951, provided that limitations and restrictions on production of specific items shall not exclude new concerns.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–558 deemed to have become effective Mar. 1, 1992, see section 304 of Pub. L. 102–558, set out as a note under section 4502 of this title.
@@ -59,6 +63,8 @@ Amendment by Pub. L. 96–294 effective June 30, 1980, see section 107 of Pub. L
 #### Effective Date of 1955 Amendment
 
 Amendment by act Aug. 9, 1955, effective as of close of July 31, 1955, see section 11 of act Aug. 9, 1955, set out as a note under section 4502 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

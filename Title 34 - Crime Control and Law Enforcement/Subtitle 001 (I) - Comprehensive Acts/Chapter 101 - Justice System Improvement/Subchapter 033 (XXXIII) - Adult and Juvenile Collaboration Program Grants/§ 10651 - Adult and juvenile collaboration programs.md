@@ -28,7 +28,7 @@ In this section, the following definitions shall apply:
 
 #### (B) Appropriate use
 
-&emsp;&emsp;In this paragraph, the term "appropriate use" includes the discretion of the judge orsupervising authority, the leveraging of graduated sanctions to encourage compliance with treatment, and law enforcement diversion, including crisis intervention teams.
+&emsp;&emsp;In this paragraph, the term "appropriate use" includes the discretion of the judge or supervising authority, the leveraging of graduated sanctions to encourage compliance with treatment, and law enforcement diversion, including crisis intervention teams.
 
 #### (C) Graduated sanctions
 
@@ -64,7 +64,7 @@ In this section, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(i)(I) previously or currently has been diagnosed by a qualified mental health professional as having a mental illness or co-occurring mental illness and substance abuse disorders;
 
-&emsp;&emsp;&emsp;(II) manifests obvious signs of mental illness or co-occurring mental illness and substance abuse disorders during arrest or confinement or before any court; or
+&emsp;&emsp;&emsp;(II) manifests obvious signs of mental illness or co-occurring mental illness andsubstance abuse disorders during arrest or confinement or before any court; or
 
 &emsp;&emsp;&emsp;(III) in the case of a veterans treatment court provided under subsection (i), has been diagnosed with, or manifests obvious signs of, mental illness or a substance abuse disorder or co-occurring mental illness and substance abuse disorder;
 
@@ -144,7 +144,7 @@ In this section, the following definitions shall apply:
 
 #### (B) Combined planning and implementation grant application
 
-&emsp;&emsp;The Attorney General and the Secretary shall develop a procedure under which applicants may apply at the same time and in a single application for a planning grant and an implementation grant, with receipt of the implementation grant conditioned on successful completion of the activities funded by the planning grant.
+&emsp;&emsp;The Attorney General and the Secretary shall develop a procedure under which applicants may apply at the same time and in asingle application for a planning grant and an implementation grant, with receipt of the implementation grant conditioned on successful completion of the activities funded by the planning grant.
 
 #### (4) Planning grants
 
@@ -216,7 +216,7 @@ In this section, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;&emsp;(VI) make available, to the extent practicable, other support services that will ensure the preliminarily qualified offender's successful reintegration into the community (such as housing, education, job placement, mentoring, and health care and benefits, as well as the services of faith-based and community organizations for mentally ill individuals served by the collaboration program); and
 
-&emsp;&emsp;&emsp;&emsp;(VII) include strategies, to the extent practicable, to address developmental and learning disabilities and problems arising from a documented history of physical or sexual abuse.
+&emsp;&emsp;&emsp;&emsp;(VII) include strategies, to the extent practicable, to address developmentaland learning disabilities and problems arising from a documented history of physical or sexual abuse.
 
 #### (D) Housing and job placement
 
@@ -256,7 +256,7 @@ In this section, the following definitions shall apply:
 
 #### (i) Mental health courts and diversion/alternative prosecution and sentencing programs
 
-&emsp;&emsp;&emsp;Funds may be used to create or expand existing mental health courts that meetprogram requirements established by the Attorney General under subchapter XXI of this chapter, other court-based programs, or diversion and alternative prosecution and sentencing programs (including crisis intervention teams and treatment accountability services for communities) that meet requirements established by the Attorney General and the Secretary.
+&emsp;&emsp;&emsp;Funds may be used to create or expand existing mental health courts that meet program requirements established by the Attorney General under subchapter XXI of this chapter, other court-based programs, or diversion and alternative prosecution and sentencing programs (including crisis intervention teams and treatment accountability services for communities) that meet requirements established by the Attorney General and the Secretary.
 
 #### (ii) Training
 
@@ -336,7 +336,7 @@ The Attorney General, in consultation with the Secretary, in administering grant
 
 &emsp;(2) offer specialized training to personnel of criminal and juvenile justice agencies in appropriate diversion techniques;
 
-&emsp;(3) provide technical assistance to local governments, mental health courts, and diversionprograms, including technical assistance relating to program evaluation;
+&emsp;(3) provide technical assistance to local governments, mental health courts, and diversion programs, including technical assistance relating to program evaluation;
 
 &emsp;(4) help localities build public understanding and support for community reintegration of individuals with mental illness;
 
@@ -378,7 +378,7 @@ The Attorney General shall use not less than 8 percent of funds appropriated to 
 
 #### (C) Improved technology
 
-&emsp;&emsp;To provide for computerized information systems (or to improve existing systems) to provide timely information to law enforcement personnel and criminal justice system personnel to improve the response of such respective personnel to mentally ill offenders.
+&emsp;&emsp;To provide for computerized information systems (or to improve existing systems) to provide timely information to law enforcement personnel and criminal justice system personnel to improve the response of suchrespective personnel to mentally ill offenders.
 
 #### (D) Cooperative programs
 
@@ -778,7 +778,7 @@ Pub. L. 108–414, §2, Oct. 30, 2004, 118 Stat. 2327, provided that: "Congress 
 
 &emsp;"(2) According to the Office of Juvenile Justice and Delinquency Prevention, approximately 20 percent of youth in the juvenile justice system have serious mental health problems, and a significant number have co-occurring mental health and substance abuse disorders.
 
-&emsp;"(3) According to the National Alliance for the Mentally Ill, up to 40 percent of adults who sufferfrom a serious mental illness will come into contact with the American criminal justice system at some point in their lives.
+&emsp;"(3) According to the National Alliance for the Mentally Ill, up to 40 percent of adults who suffer from a serious mental illness will come into contact with the American criminal justice system at some point in their lives.
 
 &emsp;"(4) According to the Office of Juvenile Justice and Delinquency Prevention, over 150,000 juveniles who come into contact with the juvenile justice system each year meet the diagnostic criteria for at least 1 mental or emotional disorder.
 

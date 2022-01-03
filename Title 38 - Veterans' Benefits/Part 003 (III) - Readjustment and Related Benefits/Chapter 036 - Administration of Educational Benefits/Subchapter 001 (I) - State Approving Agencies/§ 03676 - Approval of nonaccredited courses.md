@@ -30,7 +30,7 @@
 
 (c) The appropriate State approving agency may approve the application of such institution when the institution and its non-accredited courses are found upon investigation to have met the following criteria:
 
-&emsp;(1) The courses, curriculum, and instruction are consistent in quality, content, and lengthwith similar courses in public schools and other private schools in the State, with recognized accepted standards.
+&emsp;(1) The courses, curriculum, and instruction are consistent in quality, content, and length with similar courses in public schools and other private schools in the State, with recognized accepted standards.
 
 &emsp;(2) There is in the institution adequate space, equipment, instructional material, and instructor personnel to provide training of good quality.
 
@@ -48,7 +48,13 @@
 
 &emsp;(9) The institution is financially sound and capable of fulfilling its commitments for training.
 
-&emsp;(10) The institution does not utilize advertising of any type which is erroneous or misleading, either by actual statement, omission, or intimation. The institution shall not be deemed to have met this requirement until the State approving agency (A) has ascertained from the Federal Trade Commission whether the Commission has issued an order to the institution to cease and desist from any act or practice, and (B) has, if such an order has been issued, given due weight to that fact.
+&emsp;(10) The institution, and any entity that owns the institution, does not engage in substantial misrepresentation described in section 3696(e) <sup>1</sup> of this title. The institution shall not be deemed to have met this requirement until the State approving agency—
+
+&emsp;&emsp;(A) has ascertained that no Federal department or agency has taken a punitive action, not including a settlement agreement, against the school for misleading or deceptive practices;
+
+&emsp;&emsp;(B) has, if such an order has been issued, given due weight to that fact; and
+
+&emsp;&emsp;(C) has reviewed the complete record of advertising, sales, or enrollment materials (and copies thereof) used by or on behalf of the institution during the preceding 12-month period.
 
 &emsp;(11) The institution does not exceed its enrollment limitations as established by the State approving agency.
 
@@ -64,13 +70,13 @@
 
 &emsp;&emsp;(A) meets all instructional curriculum licensure or certification requirements of such State; and
 
-&emsp;&emsp;(B) in the case of a course designed to prepare an individual for licensure to practice law in a State, is accredited by an accrediting agency or association recognized by the Secretary of Education under subpart 2 of part H of title IV of the Higher Education Act of 1965 (20 U.S.C. 1099b).
+&emsp;&emsp;(B) in the case of a course designed to prepare an individual for licensure to practice law in a State, is accredited by a specialized accrediting agency for programs of legal education or association recognized by the Secretary of Education under subpart 2 of part H of title IV of the Higher Education Act of 1965 (20 U.S.C. 1099b), from which recipients of law degrees from such accredited programs are eligible to sit for a bar examination in any State.
 
 &emsp;(15) In the case of a course designed to prepare an individual for employment pursuant to standards developed by a board or agency of a State in an occupation that requires approval, licensure, or certification, the course—
 
 &emsp;&emsp;(A) meets such standards; and
 
-&emsp;&emsp;(B) in the case of a course designed to prepare an individual for licensure to practice law in a State, is accredited by an accrediting agency or association recognized by the Secretary of Education under subpart 2 of part H of title IV of the Higher Education Act of 1965 (20 U.S.C. 1099b).
+&emsp;&emsp;(B) in the case of a course designed to prepare an individual for licensure to practice law in a State, is accredited by a specialized accrediting agency for programs of legal education or association recognized by the Secretary of Education under subpart 2 of part H of title IV of the Higher Education Act of 1965 (20 U.S.C. 1099b), from which recipients of law degrees from such accredited programs are eligible to sit for a bar examination in any State.
 
 &emsp;(16) Such additional criteria as may be deemed necessary by the State approving agency if the Secretary, in consultation with the State approving agency and pursuant to regulations prescribed to carry out this paragraph, determines such criteria are necessary and treat public, private, and proprietary for-profit educational institutions equitably.
 
@@ -100,33 +106,13 @@
 
 (2) Not later than 30 days after the date on which the Secretary issues a waiver under paragraph (1), the Secretary shall submit to Congress notice of such waiver and a justification for issuing such waiver.
 
-(Added Pub. L. 88–126, §1, Sept. 23, 1963, 77 Stat. 159, §1776; amended Pub. L. 89–358, §3(a)(9), Mar. 3, 1966, 80 Stat. 21; Pub. L. 97–66, title VI, §606, Oct. 17, 1981, 95 Stat. 1037; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3676 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §313(a)(1), Oct. 29, 1992, 106 Stat. 4331; Pub. L. 109–461, title III, §303, Dec. 22, 2006, 120 Stat. 3428; Pub. L. 110–389, title III, §322, Oct. 10, 2008, 122 Stat. 4168; Pub. L. 114–315, title IV, §§409(a), (b), 410(a), Dec. 16, 2016, 130 Stat. 1559, 1561; Pub. L. 116–315, title I, §§1016(a), 1020(b), Jan. 5, 2021, 134 Stat. 4945, 4958.)
-
-#### Amendment of Subsection (c)
-
-<i>Pub. L. 116–315, title I, §§1016, 1020(b), (c), Jan. 5, 2021, 134 Stat. 4945, 4958, provided that, effective on Aug. 1, 2021, subsection (c) of this section is amended—</i>
-
-<i>(1) by amending paragraph (10) to read as follows:</i>
-
-&emsp;<i>"(10) The institution, and any entity that owns the institution, does not engage in substantial misrepresentation described in section 3696(e) of this title. The institution shall not be deemed to have met this requirement until the State approving agency—</i>
-
-&emsp;&emsp;<i>"(A) has ascertained that no Federal department or agency has taken a punitive action, not including a settlement agreement, against the school for misleading or deceptive practices;</i>
-
-&emsp;&emsp;<i>"(B) has, if such an order has been issued, given due weight to that fact; and</i>
-
-&emsp;&emsp;<i>"(C) has reviewed the complete record of advertising, sales, or enrollment materials (and copies thereof) used by or on behalf of the institution during the preceding 12-month period."; and</i>
-
-<i>(2) in paragraphs (14)(B) and (15)(B)—</i>
-
-<i>(A) by striking "an accrediting agency" both places it appears and inserting "a specialized accrediting agency for programs of legal education"; and</i>
-
-<i>(B) by inserting before the period the following: ", from which recipients of law degrees from such accredited programs are eligible to sit for a bar examination in any State".</i>
-
-<i>See 2021 Amendment notes below.</i>
+(Added Pub. L. 88–126, §1, Sept. 23, 1963, 77 Stat. 159, §1776; amended Pub. L. 89–358, §3(a)(9), Mar. 3, 1966, 80 Stat. 21; Pub. L. 97–66, title VI, §606, Oct. 17, 1981, 95 Stat. 1037; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; renumbered §3676 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §313(a)(1), Oct. 29, 1992, 106 Stat. 4331; Pub. L. 109–461, title III, §303, Dec. 22, 2006, 120 Stat. 3428; Pub. L. 110–389, title III, §322, Oct. 10, 2008, 122 Stat. 4168; Pub. L. 114–315, title IV,§§409(a), (b), 410(a), Dec. 16, 2016, 130 Stat. 1559, 1561; Pub. L. 116–315, title I, §§1016(a), 1020(b), Jan. 5, 2021, 134 Stat. 4945, 4958.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
+
+Section 3696(e) of this title, referred to in subsec. (c)(10), probably should be a reference to section 3696(b) of this title, because section 3696(b), and not section 3696(e), describes substantial misrepresentation.
 
 The Higher Education Act of 1965, referred to in subsec. (c)(14)(B), (15)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Subpart 2 of part H of title IV of the Act is classified generally to subpart 2 (§1099b) of part H of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
@@ -179,4 +165,6 @@ Pub. L. 114–315, title IV, §410(c), Dec. 16, 2016, 130 Stat. 1561, provided t
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–66 effective Oct. 17, 1981, see section 701(b)(1) of Pub. L. 97–66, set out as a note under section 1114 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

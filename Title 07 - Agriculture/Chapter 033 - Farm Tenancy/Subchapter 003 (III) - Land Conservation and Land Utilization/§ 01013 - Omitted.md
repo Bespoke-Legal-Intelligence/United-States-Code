@@ -1,5 +1,7 @@
 ### §1013. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act July 22, 1937, ch. 517, title III, §34, 50 Stat. 526, related to appropriations and expired by its own limitations at end of fiscal year 1940.

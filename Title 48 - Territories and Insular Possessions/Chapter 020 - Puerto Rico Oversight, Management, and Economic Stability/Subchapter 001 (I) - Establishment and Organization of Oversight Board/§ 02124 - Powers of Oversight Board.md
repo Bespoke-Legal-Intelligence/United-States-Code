@@ -20,7 +20,7 @@ Any member or agent of the Oversight Board may, if authorized by the Oversight B
 
 #### (d) Obtaining creditor information
 
-(1) Upon request of the Oversight Board, each creditor or organized group of creditors of a covered territory or covered territorial instrumentality seeking to participate in voluntary negotiations shall provide to the Oversight Board, and the Oversight Board shall make publicly available to any other participant, a statement setting forth—
+(1) Upon request of the Oversight Board, each creditor or organized group of creditors of a covered territory or covered territorial instrumentality seeking to participate in voluntary negotiations shall provide to the Oversight Board,and the Oversight Board shall make publicly available to any other participant, a statement setting forth—
 
 &emsp;(A) the name and address of the creditor or of each member of an organized group of creditors; and
 
@@ -104,7 +104,7 @@ The Oversight Board shall ensure the purposes of this chapter are met, including
 
 #### (3) Condition for plans of adjustment
 
-&emsp;The Oversight Board may certify a plan of adjustment only if it determines, in its solediscretion, that it is consistent with the applicable certified Fiscal Plan.
+&emsp;The Oversight Board may certify a plan of adjustment only if it determines, in its sole discretion, that it is consistent with the applicable certified Fiscal Plan.
 
 #### (k) Civil actions to enforce powers
 
@@ -141,6 +141,8 @@ The Oversight Board may investigate the disclosure and selling practices in conn
 The Oversight Board shall make public the findings of any investigation referenced in subsection (o).
 
 (Pub. L. 114–187, title I, §104, June 30, 2016, 130 Stat. 558.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

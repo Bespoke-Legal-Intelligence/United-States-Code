@@ -26,6 +26,8 @@ Aug. 7, 1947, ch. 512, §515(h), 61 Stat. 908.
 
 The first 12 words are substituted for 10:506d(h) (1st 11 words). The words "has the rights and privileges, and is entitled to the benefits" are substituted for the words "shall be entitled \* \* \* to the same rights, privileges, and benefits". Clause (1) is substituted for the words "in a grade the same as such 'active-duty grade' ". The words "as the officer not of the Regular Army" are substituted for the words "holding appointment in the Army Reserve". The words "his reserve grade" are substituted for the words "the grade held in the Army Reserve".
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior section 7201, act Aug. 10, 1956, ch. 1041, 70A Stat. 442, authorized Secretary of the Navy to conduct research and development relating to guided missiles and to procure and construct guided missiles, prior to repeal by Pub. L. 103–160, div. A, title VIII, §824(a)(1), Nov. 30, 1993, 107 Stat. 1707.
@@ -35,6 +37,8 @@ Prior section 7202, act Aug. 10, 1956, ch. 1041, 70A Stat. 442, related to autho
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 3491 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

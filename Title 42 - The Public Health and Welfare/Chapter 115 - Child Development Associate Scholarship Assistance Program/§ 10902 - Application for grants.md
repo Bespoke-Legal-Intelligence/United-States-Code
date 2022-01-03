@@ -30,11 +30,15 @@ In making grants under this chapter, the Secretary shall—
 
 (Pub. L. 99–425, title VI, §603, Sept. 30, 1986, 100 Stat. 976; Pub. L. 101–501, title V, §501, Nov. 3, 1990, 104 Stat. 1256.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Subsec. (b)(1)(C). Pub. L. 101–501, §501(a), (b)(1), inserted "(including, at the option of the State, any training necessary for credentialing)" after "credentialing" and struck out "and" at end.
 
 Subsec. (b)(2), (3). Pub. L. 101–501, §501(b)(2), (3), added par. (2) and redesignated former par. (2) as (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

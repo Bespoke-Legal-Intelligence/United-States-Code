@@ -4,6 +4,8 @@ The action of the Secretary in allowing or denying any payment under subchapter 
 
 (Dec. 2, 1942, ch. 668, title II, §205, 56 Stat. 1034.)
 
+#### <b>Executive Documents</b>
+
 #### Transfer of Functions
 
 For transfer of functions to Secretary of Labor, see note set out under section 1711 of this title.

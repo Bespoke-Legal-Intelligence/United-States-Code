@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section and section 31306a, "controlled substance" means any substance under section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970\(21 U.S.C. 802) specified by the Secretary of Transportation.
+Definition.—In this section and section 31306a, "controlled substance" means any substance under section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 802) specified by the Secretary of Transportation.
 
 (b)
 
@@ -36,7 +36,7 @@ Testing and Laboratory Requirements.—In carrying out subsection (b) of this se
 
 &emsp;(2) for laboratories and testing procedures for controlled substances, incorporate the Department of Health and Human Services scientific and technical guidelines dated April 11, 1988, and any amendments to those guidelines, for urine testing, and technical guidelines for hair testing, including mandatory guidelines establishing—
 
-&emsp;&emsp;(A) comprehensive standards for every aspect of laboratory controlled substances testing and laboratory procedures to be applied in carrying out this section, including standards requiring the use of the best available technology to ensure the complete reliability and accuracy of controlled substances tests and strict procedures governing the chain of custody of specimens collected for controlled substances testing;
+&emsp;&emsp;(A) comprehensive standards for every aspect of laboratory controlled substancestesting and laboratory procedures to be applied in carrying out this section, including standards requiring the use of the best available technology to ensure the complete reliability and accuracy of controlled substances tests and strict procedures governing the chain of custody of specimens collected for controlled substances testing;
 
 &emsp;&emsp;(B) the minimum list of controlled substances for which individuals may be tested;
 
@@ -162,6 +162,8 @@ In subsection (d), the words "The Secretary of Transportation may provide" are s
 
 In subsection (g), the words "rule" and "ordinance" are omitted as being included in "law, regulation, standard, or order". The words "whether the provisions apply specifically to commercial motor vehicle employees, or to the general public" are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (b)(1)(A). Pub. L. 114–94, §5402(a)(1)(B), struck out at end "The regulations shall permit such motor carriers to conduct preemployment testing of such employees for the use of alcohol."
@@ -178,6 +180,8 @@ Subsec. (c)(2)(D). Pub. L. 114–94, §5402(a)(3)(B)–(D), added subpar. (D).
 
 <b>1995</b>—Subsec. (b)(1)(A). Pub. L. 104–59 added subpar. (A) and struck out former subpar. (A) which read as follows: "In the interest of commercial motor vehicle safety, the Secretary of Transportation shall prescribe regulations not later than October 28, 1992, that establish a program requiring motor carriers to conduct preemployment, reasonable suspicion, random, and post-accident testing of operators of commercial motor vehicles for the use of alcohol or a controlled substance in violation of law or a United States Government regulation."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
@@ -192,7 +196,7 @@ Pub. L. 115–271, title VIII, §8106, Oct. 24, 2018, 132 Stat. 4106, provided t
 
 "(a)
 
-In General.—Not later than 60 days after the date of enactment of this Act \[Oct. 24, 2018\], and annually thereafter until the date that the Secretary of Health and Human Services publishes in the Federal Register a final notice of scientific and technical guidelines for hair testing in accordance with section 5402(b) of the Fixing America's Surface Transportation Act\(Public Law 114–94; 129 Stat. 1312) \[set out below\], the Secretary of Health and Human Services shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on—
+In General.—Not later than 60 days after the date of enactment of this Act \[Oct. 24, 2018\], and annually thereafter until the date that the Secretary of Health and Human Services publishes in the Federal Register a final notice of scientific and technical guidelines for hair testing in accordance with section 5402(b) of the Fixing America's Surface Transportation Act (Public Law 114–94; 129 Stat. 1312) \[set out below\], the Secretary of Health and Human Services shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on—
 
 &emsp;"(1) the status of the hair testing guidelines;
 
@@ -238,13 +242,5 @@ Report.—Not later than 2 years after the date of the enactment of this Act \[D
 
 #### Post-Accident Alcohol Testing
 
-Pub. L. 105–178, title IV, §4020, June 9, 1998, 112 Stat. 414, provided that:
-
-"(a)
-
-Study.—The Secretary \[of Transportation\] shall conduct a study of the feasibility of utilizing law enforcement officers for conducting post-accident alcohol testing of commercial motor vehicle operators under section 31306 of title 49, United States Code, as a method of obtaining more timely information. The study shall also assess the impact of the current post-accident alcohol testing requirements on motor carrier employers, including any burden that employers may encounter in meeting the testing requirements of such section 31306.
-
-"(b)
-
-Report.—Not later than 18 months after the date of enactment of this Act \[June 9, 1998\], the Secretary shall transmit to Congress a report on the study, together with such recommendations as the Secretary determines appropriate."
+Pub. L. 105–178, title IV, §4020, June 9, 1998, 112 Stat. 414, required the Secretary of Transportation to conduct a study of the feasibility of utilizing law enforcement officers for conducting post-accident alcohol testing of commercial motor vehicle operators under this section to obtain more timely information and provided the study would also assess the impact of post-accident alcohol testing requirements on motor carrier employers, including any burden that employers may encounter in meeting the testing requirements under this section, and required the Secretary to transmit to Congress a report and recommendations on the study not later than 18 months after June 9, 1998.
 

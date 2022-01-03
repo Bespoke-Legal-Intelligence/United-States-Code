@@ -18,6 +18,8 @@ Section 1959g, Pub. L. 92–60, §9, July 29, 1971, 85 Stat. 162, defined terms 
 
 Section 1959h, Pub. L. 92–60, §10, July 29, 1971, 85 Stat. 162; Pub. L. 95–84, §1(a)(2), Aug. 2, 1977, 91 Stat. 400, authorized appropriations for saline water conversion programs. See sections 7873 and 7874 of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title
 
 Pub. L. 92–60, §1, July 29, 1971, 85 Stat. 159, which provided that Pub. L. 92–60, which enacted sections 1959 to 1959h of this title and repealed sections 1951 to 1958 of this title may be cited as "The Saline Water Conversion Act of 1971" was repealed by Pub. L. 95–467, title IV, §410(a), Oct. 17, 1978, 92 Stat. 1316.
@@ -40,5 +42,5 @@ Pub. L. 92–273, Apr. 17, 1972, 86 Stat. 122.
 
 #### Inventions—Definition, Title, and Licensing
 
-Pub. L. 94–316, §3, June 22, 1976, 90 Stat. 694, which provided that relative to the definition of, title to, and licensing of inventions made or conceived in the course of or under any contract or grant pursuant to the Water Resources Research Act of 1964 (42 U.S.C. 1961 et seq.) or the Saline Water Conversion Act of 1971 (42 U.S.C. 1959 et seq.), and that notwithstanding any otherprovision of law, the Secretary was to be governed by the provisions of sections 9 and 10 of the Federal Non-nuclear Energy, Research, and Development Act of 1974 (42 U.S.C. 5908, 5909), provided, however, that subsecs. (l) and (n) of section 5908 of this title were not to apply to this act, was omitted in view of the repeal of the Water Resources Research Act of 1964 and the Saline Water Conversion Act of 1971 by Pub. L. 95–467, title IV, §410(a), Oct. 17, 1978, 92 Stat. 1316.
+Pub. L. 94–316, §3, June 22, 1976, 90 Stat. 694, which provided that relative to the definition of, title to, and licensing of inventions made or conceived in the course of or under any contract or grant pursuant to the Water Resources Research Act of 1964 (42 U.S.C. 1961 et seq.) or the Saline Water Conversion Act of 1971 (42 U.S.C. 1959 et seq.), and that notwithstanding any other provision of law, the Secretary was to be governed by the provisions of sections 9 and 10 of the Federal Non-nuclear Energy, Research, and Development Act of 1974 (42 U.S.C. 5908, 5909), provided, however, that subsecs. (l) and (n) of section 5908 of this title were not to apply to this act, was omitted in view of the repeal of the Water Resources Research Act of 1964 and the Saline Water Conversion Act of 1971 by Pub. L. 95–467, title IV, §410(a), Oct. 17, 1978, 92 Stat. 1316.
 

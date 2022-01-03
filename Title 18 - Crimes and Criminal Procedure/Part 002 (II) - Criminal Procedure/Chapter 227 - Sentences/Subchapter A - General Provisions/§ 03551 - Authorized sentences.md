@@ -44,7 +44,7 @@ The Uniform Code of Military Justice, referred to in subsec. (a), is classified 
 
 #### Effective Date; Savings Provision
 
-Pub. L. 98–473, title II, §235, Oct. 12, 1984, 98 Stat. 2031, as amended by Pub. L. 99–217, §§2, 4, Dec. 26, 1985, 99Stat. 1728; Pub. L. 99–646, §35, Nov. 10, 1986, 100 Stat. 3599; Pub. L. 100–182, §2, Dec. 7, 1987, 101 Stat. 1266; Pub. L. 104–232, §4, Oct. 2, 1996, 110 Stat. 3056, provided that:
+Pub. L. 98–473, title II, §235, Oct. 12, 1984, 98 Stat. 2031, as amended by Pub. L. 99–217, §§2, 4, Dec. 26, 1985, 99 Stat. 1728; Pub. L. 99–646, §35, Nov. 10, 1986, 100 Stat. 3599; Pub. L. 100–182, §2, Dec. 7, 1987, 101 Stat. 1266; Pub. L. 104–232, §4, Oct. 2, 1996, 110 Stat. 3056, provided that:
 
 "(a)(1) This chapter \[chapter II (§§211–239) of title II of Pub. L. 98–473, see Tables for classification\] shall take effect on the first day of the first calendar month beginning 36 months after the date of enactment \[Oct. 12, 1984\] and shall apply only to offenses committed after the taking effect of this chapter, except that—
 
@@ -104,7 +104,7 @@ Pub. L. 98–473, title II, §235, Oct. 12, 1984, 98 Stat. 2031, as amended by P
 
 \[Pub. L. 113–47, §2, Oct. 31, 2013, 127 Stat. 572, provided that: "For purposes of section 235(b) of the Sentencing Reform Act of 1984 (18 U.S.C. 3551 note; Public Law 98–473; 98 Stat. 2032), as such section relates to chapter 311 of title 18, United States Code, and the United States Parole Commission, each reference in such section to '26 years' or '26-year period' shall be deemed a reference to '31 years' or '31-year period', respectively."\]
 
-\[Pub. L. 112–44, §2, Oct. 21, 2011, 125 Stat. 532, provided that: "For purposes of section 235(b) of the Sentencing Reform Act of 1984 (18 U.S.C. 3551 note; Public Law 98–473; 98 Stat. 2032), as such section relates to chapter311 of title 18, United States Code, and the United States Parole Commission, each reference in such section to '24 years' or '24-year period' shall be deemed a reference to '26 years' or '26-year period', respectively."\]
+\[Pub. L. 112–44, §2, Oct. 21, 2011, 125 Stat. 532, provided that: "For purposes of section 235(b) of the Sentencing Reform Act of 1984 (18 U.S.C. 3551 note; Public Law 98–473; 98 Stat. 2032), as such section relates to chapter 311 of title 18, United States Code, and the United States Parole Commission, each reference in such section to '24 years' or '24-year period' shall be deemed a reference to '26 years' or '26-year period', respectively."\]
 
 \[Pub. L. 110–312, §2, Aug. 12, 2008, 122 Stat. 3013, provided that: "For purposes of section 235(b) of the Sentencing Reform Act of 1984 (18 U.S.C. 3551 note; Public Law 98–473; 98 Stat. 2032), as such section relates to chapter 311 of title 18, United States Code, and the United States Parole Commission, each reference in such section to '21 years' or '21-year period' shall be deemed a reference to '24 years' or '24-year period', respectively."\]
 

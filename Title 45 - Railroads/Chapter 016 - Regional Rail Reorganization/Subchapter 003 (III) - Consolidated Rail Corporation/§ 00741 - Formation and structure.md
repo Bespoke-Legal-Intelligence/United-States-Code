@@ -18,7 +18,7 @@ The Corporation shall be a for-profit corporation established under the laws of 
 
 (1) Notwithstanding any provision of State law, the articles of incorporation and bylaws of the Corporation shall provide that the Board of Directors of the Corporation shall consist of 13 members selected in accordance with the articles and bylaws of the Corporation, as follows:
 
-&emsp;(A) six individuals selected by the holders of the Corporation's debentures and series A preferred stock voting as one class, with every $100 principal amount of debentures, and every$100 liquidation amount of series A preferred stock each receiving one vote for directors;
+&emsp;(A) six individuals selected by the holders of the Corporation's debentures and series A preferred stock voting as one class, with every $100 principal amount of debentures, and every $100 liquidation amount of series A preferred stock each receiving one vote for directors;
 
 &emsp;(B) three individuals selected by the holders of the Corporation's series B preferred stock; and
 
@@ -192,7 +192,7 @@ See section 1341 of this title.
 
 #### Applicability of National Environmental Policy Act
 
-Application of National Environmental Policy Act to actions of Commission not affected by title VI of Pub. L. 94–210, see section 619 of Pub. L. 94–210, set out as a note under section 791 of this title.
+Application of National Environmental Policy Act to actions of Commission not affected by title VI of Pub.L. 94–210, see section 619 of Pub. L. 94–210, set out as a note under section 791 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section "719(c)(3)".</i>
 

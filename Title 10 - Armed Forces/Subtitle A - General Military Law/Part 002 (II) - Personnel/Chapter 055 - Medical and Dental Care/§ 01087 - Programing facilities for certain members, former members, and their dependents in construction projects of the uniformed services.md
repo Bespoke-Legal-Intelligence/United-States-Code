@@ -1,6 +1,6 @@
 ### §1087. Programing facilities for certain members, former members, and their dependents in construction projects of the uniformed services
 
-(a) Space for inpatient and outpatient care may be programed in facilities of the uniformedservices for persons covered by sections 1074(b) and 1076(b) of this title. The maximum amount of space that may be so programed for a facility is the greater of—
+(a) Space for inpatient and outpatient care may be programed in facilities of the uniformed services for persons covered by sections 1074(b) and 1076(b) of this title. The maximum amount of space that may be so programed for a facility is the greater of—
 
 &emsp;(1) the amount of space that would be so programed for the facility in order to meet the requirements to be placed on the facility for support of the teaching and training of health-care professionals; and
 
@@ -15,6 +15,8 @@
 (2) In addition, a determination made for the purpose of clause (2) of subsection (a) shall be made in accordance with an economic analysis (including a life-cycle cost analysis) of the facility and consideration of all reasonable and available medical care treatment alternatives (including treatment provided under a contract under section 1086 of this title or under part A of title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.)).
 
 (Added Pub. L. 89–614, §2(7), Sept. 30, 1966, 80 Stat. 866; amended Pub. L. 97–337, §1, Oct. 15, 1982, 96 Stat. 1631; Pub. L. 98–525, title XIV, §1405(24), Oct. 19, 1984, 98 Stat. 2623; Pub. L. 99–661, div. A, title XIII, §1343(a)(4), Nov. 14, 1986, 100 Stat. 3992.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -31,6 +33,8 @@ The Social Security Act, referred to in subsec. (b)(2), is act Aug. 14, 1935, ch
 Pub. L. 97–337, §1(2), substituted provisions limiting the maximum amount of space to be programed as the greater of the amounts of space described in par. (1) or (2) for provisions limiting the amount of space to be programed to that amount needed to support teaching and training requirements, except that space may be programed in areas having large concentrations of retired members where there is a critical shortage of facilities.
 
 Subsec. (b). Pub. L. 97–337, §1(2), added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1982 Amendment
 

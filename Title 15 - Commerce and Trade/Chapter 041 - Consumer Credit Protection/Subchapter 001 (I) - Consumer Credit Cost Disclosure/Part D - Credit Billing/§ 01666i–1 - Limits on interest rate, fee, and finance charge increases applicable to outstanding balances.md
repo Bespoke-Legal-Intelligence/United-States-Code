@@ -24,7 +24,7 @@ The prohibition under subsection (a) shall not apply to—
 
 &emsp;&emsp;(B) the creditor has provided the obligor, prior to the commencement of such arrangement, with clear and conspicuous disclosure of the terms of the arrangement (including any increases due to such completion or failure); or
 
-&emsp;(4) an increase due solely to the fact that a minimum payment by the obligor has not beenreceived by the creditor within 60 days after the due date for such payment, provided that the creditor shall—
+&emsp;(4) an increase due solely to the fact that a minimum payment by the obligor has not been received by the creditor within 60 days after the due date for such payment, provided that the creditor shall—
 
 &emsp;&emsp;(A) include, together with the notice of such increase required under section 1637(i) of this title, a clear and conspicuous written statement of the reason for the increase and that the increase will terminate not later than 6 months after the date on which it is imposed, if the creditor receives the required minimum payments on time from the obligor during that period; and
 
@@ -50,9 +50,13 @@ For purposes of this section, the term "outstanding balance" means the amount ow
 
 (Pub. L. 90–321, title I, §171, as added Pub. L. 111–24, title I, §101(b)(2), May 22, 2009, 123 Stat. 1736.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 171 of Pub. L. 90–321 was renumbered section 173 and is classified to section 1666j of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

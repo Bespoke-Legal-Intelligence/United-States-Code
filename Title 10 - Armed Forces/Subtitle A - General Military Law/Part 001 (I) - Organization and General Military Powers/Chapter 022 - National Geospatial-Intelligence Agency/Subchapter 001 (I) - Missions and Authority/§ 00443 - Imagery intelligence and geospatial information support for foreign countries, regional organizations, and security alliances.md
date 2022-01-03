@@ -6,7 +6,7 @@ Use of Appropriated Funds.—The Director of the National Geospatial-Intelligenc
 
 (b)
 
-Use of Funds Other Than Appropriated Funds.—The Director may use funds other than appropriated funds to provide foreign countries with imagery intelligence and geospatial information support, notwithstanding provisions of law relating to the expenditure of funds of the United States, except that—
+Use of Funds Other Than Appropriated Funds.—The Director may use funds other thanappropriated funds to provide foreign countries with imagery intelligence and geospatial information support, notwithstanding provisions of law relating to the expenditure of funds of the United States, except that—
 
 &emsp;(1) no such funds may be expended, in whole or in part, by or for the benefit of the National Geospatial-Intelligence Agency for a purpose for which Congress had previously denied funds;
 
@@ -24,6 +24,8 @@ Coordination With Director of National Intelligence.—The Director of the Agenc
 
 (Added Pub. L. 104–201, div. A, title XI, §1112(a)(2), Sept. 23, 1996, 110 Stat. 2679; amended Pub. L. 105–85, div. A, title X, §1073(a)(7), Nov. 18, 1997, 111 Stat. 1900; Pub. L. 108–136, div. A, title IX, §921(d)(2)(A), Nov. 24, 2003, 117 Stat. 1568; Pub. L. 110–181, div. A, title IX, §931(a)(11), (c)(1)(B), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, \[div. A\], title IX, §932(a)(10), (b)(2), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, §1073(c)(10), Oct. 28, 2009, 123 Stat. 2475; Pub. L. 112–239, div. A, title IX, §921(a), (b)(1), Jan. 2, 2013, 126 Stat. 1878.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2013</b>—Pub. L. 112–239, §921(b)(1), substituted "foreign countries, regional organizations, and security alliances" for "foreign countries" in section catchline.
@@ -37,6 +39,8 @@ Subsec. (a). Pub. L. 112–239, §921(a), substituted "foreign countries, region
 <b>2003</b>—Subsecs. (a), (b)(1). Pub. L. 108–136 substituted "National Geospatial-Intelligence Agency" for "National Imagery and Mapping Agency" wherever appearing.
 
 <b>1997</b>—Subsec. (b)(1). Pub. L. 105–85 substituted semicolon for period after "denied funds".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

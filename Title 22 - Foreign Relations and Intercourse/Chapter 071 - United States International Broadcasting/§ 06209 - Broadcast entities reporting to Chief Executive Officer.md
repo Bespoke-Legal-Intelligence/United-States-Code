@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Chief Executive Officer, subject to the regular notification procedures of the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives and the Committee on Appropriations and the Committee on Foreign Relations of the Senate, who is authorized to incorporate a grantee, may condition annual grants to RFE/RL, Inc., Radio Free Asia, the Open Technology Fund, and the Middle East Broadcasting Networks on the consolidation of such grantees into a single, consolidated private, non-profit corporation (in accordance with section 501(c)(3) of title 26 and exempt from tax under section 501(a) of such title), in such a manner and under such terms and conditions as determined by the Chief Executive Officer, which may broadcast and provide news and information to audiences wherever the agency may broadcast, for activities that the Chief Executive Officer determines are consistent with the purposes of this chapter, including the terms and conditions of subsections (g)(5), (h), (i), and (j) of section 6207 of this title, except that the Agency may select any name for such a consolidated grantee.
+&emsp;The Chief Executive Officer, subject to the regular notification procedures of the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives and the Committee on Appropriations and the Committee on Foreign Relations of the Senate, who is authorized to incorporate a grantee, may condition annual grants to RFE/RL, Inc., Radio Free Asia, the Open Technology Fund, and the Middle East Broadcasting Networks on the consolidation of such grantees into a single, consolidated private, non-profit corporation (in accordance with section 501(c)(3) of title 26 and exempt from tax under section 501(a) of such title), in such a manner and under such terms and conditions as determined by the Chief Executive Officer, which may broadcast and provide news and information to audiences wherever the agency may broadcast, for activities that the Chief Executive Officer determines are consistent with the purposes of this chapter, including the terms and conditions of subsections (g)(5),\(h), (i), and (j) of section 6207 of this title, except that the Agency may select any name for such a consolidated grantee.
 
 #### (2) Special rule
 
@@ -56,7 +56,7 @@ Pub. L. 116–283, div. A, title XII, §1299Q(e)(5), (f), Jan. 1, 2021, 134 Stat
 
 #### Prior Provisions
 
-A prior section 6209, Pub. L. 103–236, title III, §310, Apr. 30, 1994, 108 Stat. 442, related to transition oftransfer of functions from Board for International Broadcasting to United States Information Agency, Board, or Bureau, prior to repeal by Pub. L. 105–277, div. G, subdiv. A, title XIII, §§1301, 1323(l)(2), Oct. 21, 1998, 112 Stat. 2681–776, 2681–780, effective Oct. 1, 1999.
+A prior section 6209, Pub. L. 103–236, title III, §310, Apr. 30, 1994, 108 Stat. 442, related to transition of transfer of functions from Board for International Broadcasting to United States Information Agency, Board, or Bureau, prior to repeal by Pub. L. 105–277, div. G, subdiv. A, title XIII, §§1301, 1323(l)(2), Oct. 21, 1998, 112 Stat. 2681–776, 2681–780, effective Oct. 1, 1999.
 
 #### Amendments
 

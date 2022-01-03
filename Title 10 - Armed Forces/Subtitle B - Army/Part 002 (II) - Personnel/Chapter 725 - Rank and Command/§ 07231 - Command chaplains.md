@@ -20,6 +20,8 @@ R.S. 1122.
 
 The words "and shall be on the same footing with other officers of the Army, as to tenure of office, retirement, and pensions" are omitted as obsolete, since there is no distinction between the status of a chaplain as an officer and the status of other officers of the Army.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 7231 was renumbered section 8631 of this title.
@@ -27,6 +29,8 @@ A prior section 7231 was renumbered section 8631 of this title.
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 3581 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

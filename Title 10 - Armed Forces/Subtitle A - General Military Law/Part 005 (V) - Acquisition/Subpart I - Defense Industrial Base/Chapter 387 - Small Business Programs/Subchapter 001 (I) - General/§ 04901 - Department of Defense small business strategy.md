@@ -32,6 +32,8 @@ Enhanced Outreach Under Procurement Technical Assistance Program Market.—The S
 
 (Added Pub. L. 115–232, div. A, title VIII, §851(a), Aug. 13, 2018, 132 Stat. 1883, §2283; renumbered §4901 and amended Pub. L. 116–283, div. A, title XVIII, §1871(b), Jan. 1, 2021, 134 Stat. 4287.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 3 of the Small Business Act, referred to in subsec. (b)(1), is classified to section 632 of Title 15, Commerce and Trade.
@@ -42,9 +44,71 @@ Section 801 of the National Defense Authorization Act for Fiscal Year 2018, refe
 
 <b>2021</b>—Pub. L. 116–283 renumbered section 2283 of this title as this section and substituted "chapter 388" for "chapter 142" in subsecs. (b)(3) and (e).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2021 Amendment
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+#### Report on Unfunded Priorities of the Small Business Innovation Research and Small Business Technology Transfer Program
+
+Pub. L. 117–81, div. A, title VIII, §865, Dec. 27, 2021, 135 Stat. 1853, provided that:
+
+"(a)
+
+In General.—Not later than 10 days after the date on which the budget of the President for fiscal years 2022 through 2032 is submitted to Congress pursuant to section 1105 of title 31, United States Code, each Secretary of a military department and the Under Secretary of Defense for Research and Engineering shall submit to the Secretary of Defense, the Chairman of the Joint Chiefs of Staff, and the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on unfunded priorities of the Department of Defense related to high-priority Small Business Innovation Research and Small Business Technology Transfer projects.
+
+"(b)
+
+Elements.—
+
+&emsp;"(1)
+
+In general.—Each report under subsection (a) shall include identification of not more than five unfunded priority projects and the following information for each such unfunded priority project:
+
+&emsp;&emsp;"(A) A summary description of the unfunded priority project, including the objectives to be achieved if such project were to be funded (either in whole or in part).
+
+&emsp;&emsp;"(B) The additional amount of funds recommended to achieve the objectives identified under subparagraph (A).
+
+&emsp;&emsp;"(C) Account information with respect to such unfunded priority project, including, as applicable, the following:
+
+&emsp;&emsp;&emsp;"(i) Line item number, in the case of applicable procurement accounts.
+
+&emsp;&emsp;&emsp;"(ii) Program element number, in the case of applicable research, development, test, and evaluation accounts.
+
+&emsp;&emsp;&emsp;"(iii) Subactivity group, in the case of applicable operation and maintenance accounts.
+
+&emsp;"(2)
+
+Priority.—Each Secretary of a military department and the Under Secretary of Defense for Research and Engineering shall ensure that the unfunded priorities covered by a report submitted under subsection (a) are listed in the order of urgency of priority.
+
+"(c)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Unfunded priority.—The term 'unfunded priority', with respect to a fiscal year, means a specific project related to a project successfully funded under Phase II of the Small Business Innovation Research or Small Business Technology Transfer program that—
+
+&emsp;&emsp;"(A) is not funded in the budget of the President for that fiscal year, as submitted to Congress pursuant to section 1105 of title 31, United States Code;
+
+&emsp;&emsp;"(B) has the potential to—
+
+&emsp;&emsp;&emsp;"(i) advance the national security capabilities of the United States;
+
+&emsp;&emsp;&emsp;"(ii) provide new technologies or processes, or new applications of existing technologies or processes, that will enable new alternatives to existing programs; and
+
+&emsp;&emsp;&emsp;"(iii) provide future cost savings; and
+
+&emsp;&emsp;"(C) would have been recommended for funding through the budget referred to in subparagraph (A) if—
+
+&emsp;&emsp;&emsp;"(i) additional resources had been available to fund the program, activity, or mission requirement to which the specific project relates; or
+
+&emsp;&emsp;&emsp;"(ii) the program, activity, or mission requirement for such specific project had emerged before the budget was formulated.
+
+&emsp;"(2)
+
+Phase ii; small business innovation research; small business technology transfer.—The terms 'Phase II', 'Small Business Innovation Research', and 'Small Business Technology Transfer' have the meanings given such terms, respectively, in section 9(e) of the Small Business Act (15 U.S.C. 638(e))."
 
 #### Initiatives To Support Small Businesses in the National Technology and Industrial Base
 
@@ -52,7 +116,7 @@ Pub. L. 116–283, div. A, title VIII, §861, Jan. 1, 2021, 134 Stat. 3775, prov
 
 "(a)
 
-In General.—The Secretary of Defense, acting through the Assistant Secretary of Defense for Industrial Base Policy (established under section 903 of this Act \[amending section 138 of this title\]) and other appropriate officials, in carrying out the activities described under subchapter II of chapter 148 of title 10, United States Code, shall establish initiatives to increase the effectiveness of the Department of Defense in specifically leveraging small businesses to eliminate gaps and vulnerabilities in the national technology and industrial base (as defined in section 2500 of title 10, United States Code) and expand the number of small businesses in the national technology and industrial base.
+In General.—The Secretary of Defense, acting through the Assistant Secretary of Defense for Industrial Base Policy (established under section 903 of this Act \[amending section 138 of this title\]) and other appropriate officials, in carrying out the activities described under \[former\] subchapter II of chapter 148 of title 10, United States Code \[see chapter 382 of this title\], shall establish initiatives to increase the effectiveness of the Department of Defense in specifically leveraging small businesses to eliminate gaps and vulnerabilities in the national technology and industrial base (as defined in section 2500 of title 10, United States Code \[now 10 U.S.C. 4801\]) and expand the number of small businesses in the national technology and industrial base.
 
 "(b)
 
@@ -60,7 +124,7 @@ Initiatives.—
 
 &emsp;"(1)
 
-Updates for small business strategy.—Not later than October 1, 2022, and biennially thereafter, \[sic\] shall update the small business strategy required under section 2283 of title 10, United States Code, and provide such updated strategy to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\].
+Updates for small business strategy.—Not later than October 1, 2022, and biennially thereafter, \[sic\] shall update the small business strategy required under section 2283 of title 10, United States Code \[now 10 U.S.C. 4901\], and provide such updated strategy to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\].
 
 &emsp;"(2)
 
@@ -68,7 +132,7 @@ Implementation plan.—
 
 &emsp;&emsp;"(A)
 
-In general.—Not later than March 1, 2023, and biennially thereafter, the Secretary of Defense shall develop an implementation plan consistent with the most recent small business strategy developed under such section 2283, and provide such plan to the congressional defense committees.
+In general.—Not later than March 1, 2023, and biennially thereafter, the Secretary of Defense shall develop an implementation plan consistent with the most recent small business strategy developed under such section 2283 \[now 4901\], and provide such plan to the congressional defense committees.
 
 &emsp;&emsp;"(B)
 
@@ -80,7 +144,7 @@ Elements.—The implementation plan described in subparagraph (A) shall include 
 
 &emsp;&emsp;&emsp;"(iii) Resources to support implementation activities.
 
-&emsp;&emsp;&emsp;"(iv) Outcomes achieved as a result of executing the previous small business strategy developed under such section 2283.
+&emsp;&emsp;&emsp;"(iv) Outcomes achieved as a result of executing the previous small business strategy developed under such section 2283 \[now 4901\].
 
 &emsp;"(3)
 
@@ -96,7 +160,7 @@ Mechanisms to assess and support small businesses in national technology and ind
 
 &emsp;&emsp;"(B) establish policies and procedures to assess the financial status of critical small businesses; and
 
-&emsp;&emsp;"(C) enter into an agreement with the acquisition research organization within a civilian college or university that is described under section 2361a(a) of title 10, United States Code (commonly referred to as the 'Acquisition Innovation Research Center'), to analyze mechanisms that could be established to allow the Secretary of Defense to provide direct financial support to critical small businesses that require additional financial assistance, including critical small businesses that are—
+&emsp;&emsp;"(C) enter into an agreement with the acquisition research organization within a civilian college or university that is described under section 2361a(a) of title 10, United States Code \[now 10 U.S.C. 4142(a)\] (commonly referred to as the 'Acquisition Innovation Research Center'), to analyze mechanisms that could be established to allow the Secretary of Defense to provide direct financial support to critical small businesses that require additional financial assistance, including critical small businesses that are—
 
 &emsp;&emsp;&emsp;"(i) contracting with the Defense Logistics Agency;
 
@@ -114,9 +178,141 @@ Report on activities.—Not later than October 1, 2021, the Assistant Secretary 
 
 &emsp;"(2)
 
-Implementation plan for 2019 small business strategy.—Not later than June 1, 2021, the Secretary of Defense shall submit an implementation plan for the small business strategy required under section 2283 of title 10, United States Code, and dated October 1, 2019, including an identification of specific responsible individuals and organizations, milestones and metrics, and resources to support activities identified in the implementation plan.
+Implementation plan for 2019 small business strategy.—Not later than June 1, 2021, the Secretary of Defense shall submit an implementation plan for the small business strategy required under section 2283 of title 10, United States Code \[now 10 U.S.C. 4901\], and dated October 1, 2019, including an identification of specific responsible individuals and organizations, milestones and metrics, and resources to support activities identified in the implementation plan.
 
 "(d)
 
 Small Business Defined.—In this section, the term 'small business' has the meaning given by the Secretary of Defense, except that such term shall include prime contractors and subcontractors (at any tier)."
+
+#### Pilot Program for Development of Technology-Enhanced Capabilities With Partnership Intermediaries
+
+Pub. L. 116–92, div. A, title VIII, §851, Dec. 20, 2019, 133 Stat. 1510, as amended by Pub. L. 117–81, div. A, title VIII, §852, Dec. 27, 2021, 135 Stat. 1846, provided that:
+
+"(a)
+
+Establishment.—The Secretary of Defense may authorize the Commander of the United States Special Operations Command to use funds described in subsection (b) for a pilot program under which the Commander shall make, through the use of a partnership intermediary, covered awards to small business concerns to develop technology-enhanced capabilities for special operations forces.
+
+"(b)
+
+Funds.—
+
+&emsp;"(1)
+
+In general.—The funds described in this subsection are funds transferred to the Commander of the United States Special Operations Command to carry out the pilot program established under this section from funds available to be expended by each covered entity pursuant to section 9(f) of the Small Business Act (15 U.S.C. 638(f)).
+
+&emsp;"(2)
+
+Limitations.—
+
+&emsp;&emsp;"(A)
+
+Fiscal year.—A covered entity may not transfer to the Commander an amount greater than 10 percent of the funds available to be expended by such covered entity pursuant to such section 9(f) for a fiscal year.
+
+&emsp;&emsp;"(B)
+
+Aggregate amount.—The aggregate amount of funds to be transferred to the Commander may not exceed $20,000,000.
+
+"(c)
+
+Partnership Intermediaries.—
+
+&emsp;"(1)
+
+Authorization.—The Commander may modify an existing agreement with a partnership intermediary to assist the Commander in carrying out the pilot program under this section, including with respect to the award of contracts and agreements to small business concerns.
+
+&emsp;"(2)
+
+Limitation.—None of the funds described in subsection (b) may be used to pay a partnership intermediary for any costs associated with the pilot program.
+
+&emsp;"(3)
+
+Data.—With respect to a covered award made under this section, the Commander shall gather data on the role of the partnership intermediary to include the—
+
+&emsp;&emsp;"(A) staffing structure;
+
+&emsp;&emsp;"(B) funding sources; and
+
+&emsp;&emsp;"(C) methods for identifying and evaluating small business concerns eligible for a covered award.
+
+"(d)
+
+Report.—
+
+&emsp;"(1)
+
+Annual report.—Not later than October 1 of each year until October 1, 2026, the Commander of the United States Special Operations Command, in coordination with the Under Secretary of Defense for Research and Engineering, shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on Small Business of the House of Representatives, and the Committee on Small Business and Entrepreneurship of the Senate a report including—
+
+&emsp;&emsp;"(A) a description of each agreement with a partnership intermediary entered into pursuant to this section;
+
+&emsp;&emsp;"(B) for each covered award made under this section—
+
+&emsp;&emsp;&emsp;"(i) a description of the role served by the partnership intermediary;
+
+&emsp;&emsp;&emsp;"(ii) the amount of funds obligated;
+
+&emsp;&emsp;&emsp;"(iii) an identification of the small business concern that received such covered award;
+
+&emsp;&emsp;&emsp;"(iv) a description of the use of such covered award;
+
+&emsp;&emsp;&emsp;"(v) a description of the role served by the program manager (as defined in section 1737 of title 10, United States Code) of the covered entity with respect to the small business concern that received such covered award, including a description of interactions and the process of the program manager in producing a past performance evaluation of such concern; and
+
+&emsp;&emsp;&emsp;"(vi) the benefits achieved as a result of the use of a partnership intermediary for the pilot program established under this section as compared to previous efforts of the Commander to increase participation by small business concerns in the development of technology-enhanced capabilities for special operations forces; and
+
+&emsp;&emsp;"(C) a plan detailing how each covered entity will apply lessons learned from the pilot program to improve processes for directly working with and supporting small business concerns to develop technology-enhanced capabilities for special operations forces.
+
+&emsp;"(2)
+
+Final report.—The final report required under this subsection shall include, along with the requirements of paragraph (1), a recommendation regarding—
+
+&emsp;&emsp;"(A) whether and for how long the pilot program established under this section should be extended; and
+
+&emsp;&emsp;"(B) whether to increase funding for the pilot program, including a justification for such an increase.
+
+"(e)
+
+Termination.—The authority to carry out a pilot program under this section shall terminate on September 30, 2025.
+
+"(f)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'covered award' means an award made under the Small Business Innovation Research Program.
+
+&emsp;"(2) The term 'covered entity' means—
+
+&emsp;&emsp;"(A) the Army;
+
+&emsp;&emsp;"(B) the Navy;
+
+&emsp;&emsp;"(C) the Air Force;
+
+&emsp;&emsp;"(D) the Marine Corps;
+
+&emsp;&emsp;"(E) the Space Force; and
+
+&emsp;&emsp;"(F) any element of the Department of Defense that makes awards under the Small Business Innovation Research Program.
+
+&emsp;"(3) The term 'partnership intermediary' has the meaning given the term in section 23(c) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3715(c)).
+
+&emsp;"(4) The term 'small business concern' has the meaning given the term under section 3 of the Small Business Act (15 U.S.C. 632).
+
+&emsp;"(5) The term 'Small Business Innovation Research Program' has the meaning given the term in section 9(e) of the Small Business Act (15 U.S.C. 638(e)).
+
+&emsp;"(6) The term 'technology-enhanced capability' means a product, concept, or process that improves the ability of a member of the Armed Forces to achieve an assigned mission."
+
+#### Implementation
+
+Pub. L. 115–232, div. A, title VIII, §851(b), Aug. 13, 2018, 132 Stat. 1884, provided that:
+
+"(1)
+
+Deadline.—The Secretary of Defense shall develop the small business strategy required by section 2283 of title 10, United States Code \[now 10 U.S.C. 4901\], as added by subsection (a), not later than 180 days after the date of the enactment of this Act \[Aug. 13, 2018\].
+
+"(2)
+
+Notice to congress and publication.—Upon completion of the development of the small business strategy pursuant to paragraph (1), the Secretary shall—
+
+&emsp;"(A) transmit the strategy to Congress; and
+
+&emsp;"(B) publish the strategy on a public website of the Department of Defense."
 

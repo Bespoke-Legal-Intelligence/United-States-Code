@@ -4,6 +4,8 @@ There shall be in the Department of Agriculture a Bureau of Animal Industry. The
 
 (May 29, 1884, ch. 60, §1, 23 Stat. 31; July 14, 1890, ch. 707, 26 Stat. 288; Feb. 7, 1928, ch. 30, 45 Stat. 59.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is composed of part of section 1 of act May 29, 1884.
@@ -16,15 +18,17 @@ Section 1 also contained a provision as to salary of the Chief of the Bureau and
 
 <b>1928</b>—Joint Res. Feb. 7, 1928, inserted "and live poultry" after "domestic animals".
 
+#### <b>Executive Documents</b>
+
 #### Transfer of Functions
 
 Section 301 of 1947 Reorg. Plan No. 1, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952, provided: "The functions of the following agencies of the Department of Agriculture, namely, the Bureau of Animal Industry, the Bureau of Dairy Industry, the Bureau of Plant Industry, Soils, and Agricultural Engineering, the Bureau of Entomology and Plant Quarantine, the Bureau of Agricultural and Industrial Chemistry, the Bureau of Human Nutrition and Home Economics, the Office of Experiment Stations, and the Agricultural Research Center, together with the functions of the Agricultural Research Administrator, are transferred to the Secretary of Agriculture and shall be performed by the Secretary or, subject to his direction and control, by such officers and agencies of the Department of Agriculture as he may designate." For provisions concerning transfer of records, property, personnel, and funds, see full text of this Plan, set out in the Appendix to Title 5, Government Organization and Employees.
 
-The President's message, set out in the Appendix to Title 5, Government Organization and Employees, transmitting this Reorg. Plan to Congress pointed out that the Plan would make it possible to continue theconsolidation of the agencies concerned in the Agricultural Research Administration which was affected on a temporary wartime basis by Ex. Ord. No. 9069, Feb. 23, 1942, 7 F.R. 1409, and to make further adjustments in the organization of agricultural research activities.
+The President's message, set out in the Appendix to Title 5, Government Organization and Employees, transmitting this Reorg. Plan to Congress pointed out that the Plan would make it possible to continue the consolidation of the agencies concerned in the Agricultural Research Administration which was affected on a temporary wartime basis by Ex. Ord. No. 9069, Feb. 23, 1942, 7 F.R. 1409, and to make further adjustments in the organization of agricultural research activities.
 
 Functions of Bureau of Animal Industry which were transferred to Secretary of Agriculture were transferred to Agricultural Research Service under Secretary's memorandum 1320, supp. 4, of Nov. 2, 1953.
 
-As of July 1, 1927, by order of the Secretary of Agriculture, the Packers and Stockyards administration was abolished, and the enforcement of the Packers and Stockyards Act of 1921, section 181 et seq. of this title, put under the control of the chief of the Bureau of Animal Industry.
+As of July 1, 1927, by order of the Secretary of Agriculture, the Packers and Stockyards administration was abolished, and the enforcement of the Packers andStockyards Act of 1921, section 181 et seq. of this title, put under the control of the chief of the Bureau of Animal Industry.
 
 Authority formerly granted to Commissioner of Agriculture by section 1 of act of May 29, 1884, vested in Secretary of Agriculture by act July 14, 1890. See also sections 2202 and 2205 of this title.
 

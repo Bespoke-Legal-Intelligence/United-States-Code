@@ -16,7 +16,7 @@ The purpose of the Residential Energy Assistance Challenge (in this section refe
 
 #### (1) Allocation
 
-&emsp;For each fiscal year, the Secretary may allocate not more than 25 percent of the amount made available pursuant to section 8621(d) of this title for such fiscal year to a R.E.A.Ch. fund for the purpose of making incentive grants to States that submit qualifying plansthat are approved by the Secretary as R.E.A.Ch. initiatives. States may use such grants for the costs of planning, implementing, and evaluating the initiative.
+&emsp;For each fiscal year, the Secretary may allocate not more than 25 percent of the amount made available pursuant to section 8621(d) of this title for such fiscal year to a R.E.A.Ch. fund for the purpose of making incentive grants to States that submit qualifying plans that are approved by the Secretary as R.E.A.Ch. initiatives. States may use such grants for the costs of planning, implementing, and evaluating the initiative.
 
 #### (2) Reservation
 
@@ -134,9 +134,11 @@ None of the costs of providing services or benefits under this section shall be 
 
 (Pub. L. 97–35, title XXVI, §2607B, as added Pub. L. 103–252, title III, §312, May 18, 1994, 108 Stat. 662; amended Pub. L. 105–285, title III, §308(c), (d), Oct. 27, 1998, 112 Stat. 2758.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Energy Conservation and Production Act, referred to in subsec. (e)(2)(B)(iii), is Pub. L. 94–385, Aug. 14, 1976, 90 Stat. 1125, as amended. Part A of title IV of the Act is classified generally to part A (§6861 et seq.) of subchapter III of chapter 81 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6801 of this title and Tables.
+The Energy Conservation and Production Act, referred to in subsec. (e)(2)(B)(iii), is Pub. L. 94–385, Aug. 14, 1976, 90 Stat. 1125, as amended. Part A of title IV of the Act is classified generally to part A (§6861 et seq.) of subchapter III of chapter 81 of this title. For complete classification of this Act to the Code, see ShortTitle note set out under section 6801 of this title and Tables.
 
 #### Amendments
 
@@ -151,6 +153,8 @@ Subsec. (e)(2)(I)(i). Pub. L. 105–285, §308(d)(1)(B), substituted "of" for "o
 Subsec. (e)(2)(J) to (N). Pub. L. 105–285, §308(d)(1)(A), redesignated subpars. (K) to (N) as (J) to (M), respectively.
 
 Subsecs. (f), (g). Pub. L. 105–285, §308(d)(2), redesignated subsec. (g) as (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

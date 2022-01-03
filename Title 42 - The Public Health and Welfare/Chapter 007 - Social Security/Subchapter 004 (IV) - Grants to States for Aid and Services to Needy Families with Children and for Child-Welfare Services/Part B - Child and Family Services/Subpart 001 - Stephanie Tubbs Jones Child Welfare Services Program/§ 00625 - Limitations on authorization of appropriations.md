@@ -4,6 +4,8 @@ To carry out this subpart (other than sections 626, 627, and 628b of this title)
 
 (Aug. 14, 1935, ch. 531, title IV, §425, as added Pub. L. 109–288, §6(a), Sept. 28, 2006, 120 Stat. 1244; amended Pub. L. 110–351, title I, §102(b), Oct. 7, 2008, 122 Stat. 3956; Pub. L. 112–34, title I, §101(a), Sept. 30, 2011, 125 Stat. 369; Pub. L. 115–123, div. E, title VII, §50752(a), Feb. 9, 2018, 132 Stat. 263.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 625, act Aug. 14, 1935, ch. 531, title IV, §425, as added Pub. L. 90–248, title II, §240(c), Jan. 2, 1968, 81 Stat. 914; amended Pub. L. 96–272, title I, §103(a), June 17, 1980, 94 Stat. 519; Pub. L. 103–432, title II, §202(d)(2), Oct. 31, 1994, 108 Stat. 4454; Pub. L. 105–33, title V, §5592(a)(1)(B), Aug. 5, 1997, 111 Stat. 644, defined terms for purposes of this subchapter, prior to repeal by Pub. L. 109–288, §§6(a), 12(a), Sept. 28, 2006, 120 Stat. 1244, 1255, effective Oct. 1, 2006, and applicable to payments under this part and part E of this subchapter for calendar quarters beginning on or after such date.
@@ -16,6 +18,8 @@ A prior section 625, act Aug. 14, 1935, ch. 531, title IV, §425, as added Pub. 
 
 <b>2008</b>—Pub. L. 110–351 inserted "(other than sections 626, 627, and 628b of this title)" after "this subpart".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2011 Amendment
 
 Amendment by Pub. L. 112–34 effective Oct. 1, 2011, and applicable to payments under this part and part E of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 107 of Pub. L. 112–34, set out as a note under section 622 of this title.
@@ -26,5 +30,5 @@ Amendment by Pub. L. 110–351 effective Oct. 7, 2008, and applicable to payment
 
 #### Effective Date
 
-Section effective Oct. 1, 2006, and applicable to payments under this part and part E of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 12(a), (b) of Pub. L. 109–288, set out as an Effective Date of 2006 Amendment note under section 621 of this title.
+Section effective Oct. 1, 2006, and applicable to payments under this part and part E of this subchapter forcalendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 12(a), (b) of Pub. L. 109–288, set out as an Effective Date of 2006 Amendment note under section 621 of this title.
 

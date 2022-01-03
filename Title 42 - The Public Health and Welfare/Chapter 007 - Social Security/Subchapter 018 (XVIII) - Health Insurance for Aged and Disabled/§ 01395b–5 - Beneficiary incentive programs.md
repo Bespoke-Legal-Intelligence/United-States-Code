@@ -6,7 +6,7 @@
 
 #### (1) Establishment of program
 
-&emsp;Not later than 3 months after August 21, 1996, the Secretary shall establish a program under which the Secretary shall encourage individuals to report to the Secretary information on individuals and entities who are engaging in or who have engaged in acts or omissions which constitute grounds for the imposition of a sanction under section 1320a–7, 1320a–7a, or 1320a–7b of this title, or who have otherwise engaged in fraud and abuse against the Medicare program under this subchapter for which there is a sanction provided under law. The program shall discourage provisionof, and not consider, information which is frivolous or otherwise not relevant or material to the imposition of such a sanction.
+&emsp;Not later than 3 months after August 21, 1996, the Secretary shall establish a program under which the Secretary shall encourage individuals to report to the Secretary information on individuals and entities who are engaging in or who have engaged in acts or omissions which constitute grounds for the imposition of a sanction under section 1320a–7, 1320a–7a, or 1320a–7b of this title, or who have otherwise engaged in fraud and abuse against the Medicare program under this subchapter for which there is a sanction provided under law. The program shall discourage provision of, and not consider, information which is frivolous or otherwise not relevant or material to the imposition of such a sanction.
 
 #### (2) Payment of portion of amounts collected
 
@@ -24,13 +24,15 @@
 
 (Pub. L. 104–191, title II, §203, Aug. 21, 1996, 110 Stat. 1998; Pub. L. 105–33, title IV, §4311(b)(2), Aug. 5, 1997, 111 Stat. 386.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Internal Revenue Code of 1986, referred to in subsec. (b)(2), is classified generally to Title 26, Internal Revenue Code.
 
 #### Codification
 
-Section was enacted as part of the Health Insurance Portability and Accountability Act of 1996, and not as part of the Social Security Act which comprises this chapter.
+Section was enacted as part of the Health Insurance Portability and Accountability Act of 1996, and not aspart of the Social Security Act which comprises this chapter.
 
 #### Amendments
 

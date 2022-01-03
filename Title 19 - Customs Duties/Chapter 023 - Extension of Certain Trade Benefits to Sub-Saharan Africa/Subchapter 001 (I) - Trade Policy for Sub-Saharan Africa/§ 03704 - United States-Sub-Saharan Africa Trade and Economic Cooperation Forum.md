@@ -22,13 +22,15 @@ In creating the Forum, the President shall meet the following requirements:
 
 #### (d) Dissemination of information by USIS
 
-In order to assist in carrying out the purposes of the Forum, the United States Information Service shall disseminate regularly, throughmultiple media, economic information in support of the free market economic reforms described in this chapter.
+In order to assist in carrying out the purposes of the Forum, the United States Information Service shall disseminate regularly, through multiple media, economic information in support of the free market economic reforms described in this chapter.
 
 #### (e) HIV/AIDS effect on the sub-Saharan African workforce
 
 In selecting issues of common interest to the United States-Sub-Saharan Africa Trade and Economic Cooperation Forum, the President shall instruct the United States delegates to the Forum to promote a review by the Forum of the HIV/AIDS epidemic in each sub-Saharan African country and the effect of the HIV/AIDS epidemic on economic development in each country.
 
 (Pub. L. 106–200, title I, §105, May 18, 2000, 114 Stat. 255.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

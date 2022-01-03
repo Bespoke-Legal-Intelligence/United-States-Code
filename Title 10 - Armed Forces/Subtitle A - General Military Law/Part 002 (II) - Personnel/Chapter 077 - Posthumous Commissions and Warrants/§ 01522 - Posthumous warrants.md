@@ -36,6 +36,8 @@ In subsection (a), the words "a member of" are substituted for the words "any pe
 
 In subsection (b), the words "appointment or promotion", "and branch of the service", "official", and "by such warrant" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–417, §502(b)(1), struck out "in line of duty" before period at end.

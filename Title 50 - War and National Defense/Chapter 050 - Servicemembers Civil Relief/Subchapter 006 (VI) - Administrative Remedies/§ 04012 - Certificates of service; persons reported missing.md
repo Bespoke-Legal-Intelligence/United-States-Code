@@ -24,9 +24,11 @@ The Secretary concerned shall furnish a certificate under subsection (a) upon re
 
 #### (c) Treatment of servicemembers in missing status
 
-A servicemember who has been reported missing is presumed to continue in service until accounted for. A requirement under this chapter that begins or ends with the death of a servicemember does not begin or end until the servicemember's death is reported to, or determined by, the Secretary concerned or by a court of competent jurisdiction.
+A servicemember who has been reported missing is presumed to continue in service until accounted for. A requirement under this chapterthat begins or ends with the death of a servicemember does not begin or end until the servicemember's death is reported to, or determined by, the Secretary concerned or by a court of competent jurisdiction.
 
 (Oct. 17, 1940, ch. 888, title VI, §602, as added Pub. L. 108–189, §1, Dec. 19, 2003, 117 Stat. 2859.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -35,6 +37,8 @@ Section was formerly classified to section 582 of the former Appendix to this ti
 #### Prior Provisions
 
 A prior section 602 of act Oct. 17, 1940, ch. 888, art. VI, 54 Stat. 1191, related to revocation of interlocutory orders, prior to the general amendment of this Act by Pub. L. 108–189. See section 4013 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

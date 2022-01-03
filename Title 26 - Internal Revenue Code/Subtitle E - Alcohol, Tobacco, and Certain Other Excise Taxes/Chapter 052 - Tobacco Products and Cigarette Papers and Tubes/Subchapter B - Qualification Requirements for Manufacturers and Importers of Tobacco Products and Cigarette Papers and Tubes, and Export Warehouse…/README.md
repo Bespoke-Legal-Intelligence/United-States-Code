@@ -8,6 +8,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1997</b>—Pub. L. 105–33, title IX, §9302(h)(2)(C), Aug. 5, 1997, 111 Stat. 674, inserted "and Importers" after "Manufacturers" in subchapter heading.

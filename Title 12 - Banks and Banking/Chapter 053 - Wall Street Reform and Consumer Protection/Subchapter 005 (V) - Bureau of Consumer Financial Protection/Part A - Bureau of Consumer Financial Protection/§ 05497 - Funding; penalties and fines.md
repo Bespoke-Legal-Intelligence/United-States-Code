@@ -10,7 +10,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding paragraph (1), and in accordance with this paragraph, the amount that shall be transferred to the Bureau in each fiscal year shall not exceed a fixed percentage of the total operating expenses of the Federal Reserve System, as reported in the Annual Report, 2009, of the Board of Governors, equal to—
+&emsp;&emsp;Notwithstanding paragraph (1), and in accordance with this paragraph, the amountthat shall be transferred to the Bureau in each fiscal year shall not exceed a fixed percentage of the total operating expenses of the Federal Reserve System, as reported in the Annual Report, 2009, of the Board of Governors, equal to—
 
 &emsp;&emsp;&emsp;(i) 10 percent of such expenses in fiscal year 2011;
 
@@ -74,7 +74,7 @@
 
 #### (C) Assistance and costs
 
-&emsp;&emsp;For the purpose of conducting an audit under this subsection, the Comptroller General may, in the discretion of the Comptroller General, employ by contract, without regard to section 6101 of title 41, professional services of firms and organizations of certified public accountants for temporary periods or for special purposes. Upon the request of the Comptroller General, the Director of the Bureau shall transfer to the Government Accountability Office from funds available, the amount requested by the Comptroller General to cover the full costs of any audit and report conducted by the ComptrollerGeneral. The Comptroller General shall credit funds transferred to the account established for salaries and expenses of the Government Accountability Office, and such amount shall be available upon receipt and without fiscal year limitation to cover the full costs of the audit and report.
+&emsp;&emsp;For the purpose of conducting an audit under this subsection, the Comptroller General may, in the discretion of the Comptroller General, employ by contract, without regard to section 6101 of title 41, professional services of firms and organizations of certified public accountants for temporary periods or for special purposes. Upon the request of the Comptroller General, the Director of the Bureau shall transfer to the Government Accountability Office from funds available, the amount requested by the Comptroller General to cover the full costs of any audit and report conducted by the Comptroller General. The Comptroller General shall credit funds transferred to the account established for salaries and expenses of the Government Accountability Office, and such amount shall be available upon receipt and without fiscal year limitation to cover the full costs of the audit and report.
 
 #### (b) Consumer Financial Protection Fund
 
@@ -134,7 +134,7 @@
 
 #### (B) Report required
 
-&emsp;&emsp;When making a determination under subparagraph (A), the Director shall prepare a report regarding the funding of the Bureau, including the assets and liabilities of the Bureau, and the extent to which the funding needs of the Bureau are anticipated to exceed the level of the amount set forth in subsection (a)(2). The Director shall submit the report to the President and to the Committee on Appropriations of the Senate and the Committee on Appropriations of the House of Representatives.
+&emsp;&emsp;When making a determination under subparagraph (A), the Director shall prepare a report regarding the funding of the Bureau, including the assets and liabilities of the Bureau, and the extent to which the funding needs of the Bureau are anticipated to exceed the level of the amount set forth in subsection (a)(2). The Director shall submit thereport to the President and to the Committee on Appropriations of the Senate and the Committee on Appropriations of the House of Representatives.
 
 #### (2) Authorization of appropriations
 

@@ -4,11 +4,15 @@ The Director of the Institute, in addition to other special functions specified 
 
 (July 1, 1944, ch. 373, title IV, §445H, as added Pub. L. 103–43, title VIII, §802, June 10, 1993, 107 Stat. 163; amended Pub. L. 105–340, title I, §105, Oct. 31, 1998, 112 Stat. 3193; Pub. L. 109–482, title I, §103(b)(24), Jan. 15, 2007, 120 Stat. 3688.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2007</b>—Pub. L. 109–482 struck out subsec. (a) designation before "The Director" and subsec. (b) which read as follows: "For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1999 through 2003. The authorization of appropriations established in the preceding sentence is in addition to any other authorization of appropriation that is available for such purpose."
 
 <b>1998</b>—Pub. L. 105–340 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

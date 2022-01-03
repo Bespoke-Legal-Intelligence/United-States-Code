@@ -10,9 +10,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>2018</b>—Pub. L. 115–232, div. A, title VIII, §808(e)(2)(A), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 345 of this title as this chapter and items 3572, 3575, 3579, 3581, and 3583 as 7222, 7225, 7229, 7231, and 7233, respectively.
+<b>2018</b>—Pub. L. 115–232, div. A, title VIII, §808(e)(2)(A), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter345 of this title as this chapter and items 3572, 3575, 3579, 3581, and 3583 as 7222, 7225, 7229, 7231, and 7233, respectively.
 
 <b>1997</b>—Pub. L. 105–85, div. A, title V, §507(a)(2), Nov. 18, 1997, 111 Stat. 1727, added item 3583.
 

@@ -56,6 +56,8 @@ Section 14 of the Federal Advisory Committee Act shall not apply to the Advisory
 
 (Pub. L. 107–368, §23, Dec. 19, 2002, 116 Stat. 3065; Pub. L. 108–423, §5(a), Nov. 30, 2004, 118 Stat. 2402.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 14 of the Federal Advisory Committee Act, referred to in subsec. (j), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -76,9 +78,11 @@ Subsec. (c)(3), (4). Pub. L. 108–423, §5(a)(3)(B)–(D), added par. (3) and r
 
 Subsec. (f). Pub. L. 108–423, §5(a)(4), substituted "other Federal advisory committees that advise Federal agencies that engage in related research activities" for "the advisory bodies of other Federal agencies, such as the Department of Energy, which may engage in related research activities".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
-Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Science and Technology of House of Representativeschanged to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date of 2004 Amendment
 

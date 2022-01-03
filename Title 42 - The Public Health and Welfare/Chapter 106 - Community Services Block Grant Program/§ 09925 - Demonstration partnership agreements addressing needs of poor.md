@@ -76,9 +76,11 @@ As used in this section—
 
 (2) Of the amounts appropriated for this section, not less than 30 percent and not more than 40 percent shall be used to carry out the programs authorized under subsection (c).
 
-(3) In addition to sums which are required to carry out the evaluation, reporting, and dissemination of results under subsections (a), (c), (d), and (f),<sup>1</sup> the Secretary is authorized to reserve up to 2 percent of the amounts appropriated pursuant to subparagraphs (1) and (2) foradministration of the program as well as for planning and technical assistance.
+(3) In addition to sums which are required to carry out the evaluation, reporting, and dissemination of results under subsections (a), (c), (d), and (f),<sup>1</sup> the Secretary is authorized to reserve up to 2 percent of the amounts appropriated pursuant to subparagraphs (1) and (2) for administration of the program as well as for planning and technical assistance.
 
 (Pub. L. 99–425, title IV, §408, Sept. 30, 1986, 100 Stat. 972; Pub. L. 101–204, title VII, §705, Dec. 7, 1989, 103 Stat. 1821; Pub. L. 101–501, title VI, §§601, 602, Nov. 3, 1990, 104 Stat. 1257, 1258; Pub. L. 103–252, title II, §207, May 18, 1994, 108 Stat. 656.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -100,7 +102,7 @@ Section was enacted as part of the Human Services Reauthorization Act of 1986, a
 
 Subsec. (b)(1)(B). Pub. L. 103–252, §207(2), substituted "After the first funding period" for "After the first fiscal year".
 
-Subsec. (c)(1). Pub. L. 103–252, §207(3)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "In addition to the grant programs described in subsection (a) of this section, the Secretary shall make grants to eligible entities for the purpose of demonstrating new and innovative approaches to addressing the problems of, and providing opportunities for leadership development, community involvement, and educational success to, disadvantaged persons between the ages of 14 and 25 from populations experiencing conditions such as a high poverty rate, high unemployment, high dropout rate, low labor force participation, low enrollment in college or participation in other post high school training classes, high incidence of involvement in violence, and a high rate of incarceration. Services provided through approaches funded by such grants may include assessment and development of employability plans, remedial education, motivational activities, life skills instruction, community service, mentoring, access to information on available financial aid, campus visits, career education, cultural enrichment, and employment training, placement, and follow-up."
+Subsec. (c)(1). Pub. L. 103–252, §207(3)(A), amended par. (1) generally. Prior to amendment, par. (1) read asfollows: "In addition to the grant programs described in subsection (a) of this section, the Secretary shall make grants to eligible entities for the purpose of demonstrating new and innovative approaches to addressing the problems of, and providing opportunities for leadership development, community involvement, and educational success to, disadvantaged persons between the ages of 14 and 25 from populations experiencing conditions such as a high poverty rate, high unemployment, high dropout rate, low labor force participation, low enrollment in college or participation in other post high school training classes, high incidence of involvement in violence, and a high rate of incarceration. Services provided through approaches funded by such grants may include assessment and development of employability plans, remedial education, motivational activities, life skills instruction, community service, mentoring, access to information on available financial aid, campus visits, career education, cultural enrichment, and employment training, placement, and follow-up."
 
 Subsec. (c)(4). Pub. L. 103–252, §207(3)(B), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "Such grants shall be made annually on such terms and conditions as the Secretary shall specify to eligible entities that serve the populations described in paragraph (1) and that are located within those areas where such populations are concentrated."
 
@@ -132,7 +134,9 @@ Subsecs. (d), (e). Pub. L. 101–204, §705(f)(2), added subsecs. (d) and (e). F
 
 Subsec. (f). Pub. L. 101–204, §705(d), (f)(1), redesignated subsec. (d) as (f) and inserted before semicolon in par. (1) ", except that such term includes an organization that serves migrant and seasonal farm workers and that receives a grant under the Community Services Block Grant Act (42 U.S.C. 9901 et seq.) in the fiscal year preceding the fiscal year for which such organization requests a grant under this section".
 
-Subsec. (g). Pub. L. 101–204, §705(e), (f)(1), redesignated subsec. (e) as (g), substituted "are" for "is", andinserted "and $7,000,000 for fiscal year 1990," after "1989,".
+Subsec. (g). Pub. L. 101–204, §705(e), (f)(1), redesignated subsec. (e) as (g), substituted "are" for "is", and inserted "and $7,000,000 for fiscal year 1990," after "1989,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

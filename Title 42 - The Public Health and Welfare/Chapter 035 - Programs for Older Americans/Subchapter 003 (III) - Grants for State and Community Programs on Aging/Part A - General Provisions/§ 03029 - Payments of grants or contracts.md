@@ -2,7 +2,7 @@
 
 #### (a) Advances or reimbursement; installments; assistance in development of State plan
 
-Payments of grants or contracts under this subchapter may be made (after necessary adjustments resulting from previously made overpayments or underpayments) in advance or by way of reimbursement, and in such installments, as the Assistant Secretary may determine. From a State's allotment for a fiscal year which is available under section 3028 of this title the Assistant Secretary may pay to a State which does not have a State plan approved under section 3027 of this title such amounts as the Assistant Secretary deems appropriate for the purpose of assisting such State in developing a State plan.
+Payments of grants or contracts under this subchapter may be made (after necessary adjustments resulting from previously made overpayments or underpayments) in advance or by way of reimbursement, and in such installments, asthe Assistant Secretary may determine. From a State's allotment for a fiscal year which is available under section 3028 of this title the Assistant Secretary may pay to a State which does not have a State plan approved under section 3027 of this title such amounts as the Assistant Secretary deems appropriate for the purpose of assisting such State in developing a State plan.
 
 #### (b) Matching funds; percentage limitation
 
@@ -16,9 +16,11 @@ A State's allotment under section 3024 of this title for a fiscal year shall be 
 
 (Pub. L. 89–73, title III, §309, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1532; amended Pub. L. 98–459, title III, §309, Oct. 9, 1984, 98 Stat. 1779; Pub. L. 100–175, title I, §139, Nov. 29, 1987, 101 Stat. 944; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 109–365, title III, §308, Oct. 17, 2006, 120 Stat. 2545.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
-A prior section 3029, Pub. L. 89–73, title III, §309, as added Pub. L. 93–351, §3, July 12, 1974, 88 Stat. 357, related to transportation projects, prior to the generalamendment of this subchapter by Pub. L. 95–478. See section 3026 of this title.
+A prior section 3029, Pub. L. 89–73, title III, §309, as added Pub. L. 93–351, §3, July 12, 1974, 88 Stat. 357, related to transportation projects, prior to the general amendment of this subchapter by Pub. L. 95–478. See section 3026 of this title.
 
 Provisions similar to those comprising this section were contained in Pub. L. 89–73, title III, §307, as added Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 44, which was classified to section 3027 of this title prior to repeal by Pub. L. 95–478.
 
@@ -33,6 +35,8 @@ Provisions similar to those comprising this section were contained in Pub. L. 89
 <b>1984</b>—Subsec. (a). Pub. L. 98–459, §309(a), substituted "as the Commissioner deems appropriate" for "as he deems appropriate".
 
 Subsec. (b)(2). Pub. L. 98–459, §309(b), substituted "section 3024(d)(1)(D)" for "section 3024(d)(1)(B)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1987 Amendment
 

@@ -44,13 +44,13 @@ As soon as practicable after August 21, 2002, the Secretary shall file with the 
 
 &emsp;&emsp;&emsp;(iii) the operation of the mineral leasing, mineral materials, and geothermal leasing laws, and all amendments thereto.
 
-> &emsp;&emsp;Nothing in this subparagraph shall be construed to affect discretionary authority of the Secretary under other Federal laws to grant, issue, or renew rights-of-way or other land use authorizations consistent with the other provisions of this Act.
+> &emsp;&emsp;Nothing in this subparagraph shall be construed to affect discretionary authority of the Secretary under other Federal laws to grant, issue, or renew rights-of-way or otherland use authorizations consistent with the other provisions of this Act.
 
 #### (C) Motorized and mechanized travel
 
 #### (i) Review and inventory
 
-&emsp;&emsp;&emsp;Not later than two years after August 21, 2002, the Secretary, in consultation withinterested parties, shall complete a review and inventory of all roads and trails in the Protection Area on which use was allowed on September 10, 2001, except those lands managed under the management prescription referred to in subparagraph (F). During the review and inventory, the Secretary may—
+&emsp;&emsp;&emsp;Not later than two years after August 21, 2002, the Secretary, in consultation with interested parties, shall complete a review and inventory of all roads and trails in the Protection Area on which use was allowed on September 10, 2001, except those lands managed under the management prescription referred to in subparagraph (F). During the review and inventory, the Secretary may—
 
 &emsp;&emsp;&emsp;&emsp;(I) connect existing roads and trails in the inventoried area to other existing roads and trails in the inventoried area for the purpose of mechanized and other nonmotorized use on any lands within the Protection Area as long as there is no net gain in the total mileage of either roads or trails open for public use within the Protection Area; and
 
@@ -112,9 +112,13 @@ As soon as practicable after August 21, 2002, the Secretary shall file with the 
 
 (Pub. L. 107–216, §3, Aug. 21, 2002, 116 Stat. 1056.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This Act, referred to in text, is Pub. L. 107–216, Aug. 21, 2002, 116 Stat. 1055, which is classified principally tosections 539l to 539l–5 of this title. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This Act, referred to in text, is Pub. L. 107–216, Aug. 21, 2002, 116 Stat. 1055, which is classified principally to sections 539l to 539l–5 of this title. For complete classification of this Act to the Code, see Short Title note below and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

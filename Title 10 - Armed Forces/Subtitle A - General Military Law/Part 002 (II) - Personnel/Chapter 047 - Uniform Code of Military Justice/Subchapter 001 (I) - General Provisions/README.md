@@ -13,6 +13,8 @@
 | [806a.](%C2%A7%2000806a%20-%20Art.%206a.%20Investigation%20and%20disposition%20of%20matters%20pertaining%20to%20the%20fitness%20of%20military%20judges.md) | 6a. | Investigation and disposition of matters pertaining to the fitness of military judges. |
 | [806b.](%C2%A7%2000806b%20-%20Art.%206b.%20Rights%20of%20the%20victim%20of%20an%20offense%20under%20this%20chapter.md) | 6b. | Rights of the victim of an offense under this chapter. |
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2013</b>—Pub. L. 113–66, div. A, title XVII, §1701(a)(2), Dec. 26, 2013, 127 Stat. 953, added item 806b.

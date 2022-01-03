@@ -14,7 +14,7 @@ The Secretary may award grants to or enter into contracts with eligible entities
 
 &emsp;(1) establishing or expanding nursing practice arrangements in noninstitutional settings to demonstrate methods to improve access to primary health care in medically underserved communities;
 
-&emsp;(2) providing care for underserved populations and high risk groups, such as the elderly, individuals with HIV/AIDS, individualswith mental health or substance use disorders, individuals who are homeless, and survivors of domestic violence;
+&emsp;(2) providing care for underserved populations and high risk groups, such as the elderly, individuals with HIV/AIDS, individuals with mental health or substance use disorders, individuals who are homeless, and survivors of domestic violence;
 
 &emsp;(3) providing coordinated care, and other skills needed to practice in existing and emerging organized health care systems; or
 
@@ -66,6 +66,8 @@ For purposes of this section, the term "eligible entity" includes an accredited 
 
 (July 1, 1944, ch. 373, title VIII, §831, as added Pub. L. 105–392, title I, §123(4), Nov. 13, 1998, 112 Stat. 3568; amended Pub. L. 107–205, title II, §201, Aug. 1, 2002, 116 Stat. 815; Pub. L. 111–148, title V, §5309(a), Mar. 23, 2010, 124 Stat. 629; Pub. L. 116–136, div. A, title III, §3404(a)(6), Mar. 27, 2020, 134 Stat. 393.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 831 of act July 1, 1944, was classified to section 297–1 of this title prior to repeal by Pub. L. 105–392.
@@ -84,7 +86,7 @@ Subsec. (c)(1)(A)(ii). Pub. L. 116–136, §3404(a)(6)(C)(i)(III), added cl. (ii
 
 Subsec. (c)(1)(C). Pub. L. 116–136, §3404(a)(6)(C)(ii), (iii), added subpar. (C).
 
-Subsec. (e). Pub. L. 116–136, §3404(a)(6)(F), substituted "As part of the report on nursing workforce programs described in section 296e(i) of this title, the Secretary shall include" for "The Secretary shall submit to the Congress before the end of each fiscal year".
+Subsec. (e). Pub. L. 116–136, §3404(a)(6)(F), substituted "As part of the report on nursing workforce programsdescribed in section 296e(i) of this title, the Secretary shall include" for "The Secretary shall submit to the Congress before the end of each fiscal year".
 
 Pub. L. 116–136, §3404(a)(6)(D), (E), redesignated subsec. (f) as (e) and struck out former subsec. (e). Prior to amendment, text of subsec. (e) read as follows: "For purposes of any amount of funds appropriated to carry out this section for fiscal year 2003, 2004, or 2005 that is in excess of the amount of funds appropriated to carry out this section for fiscal year 2002, the Secretary shall give preference to awarding grants or entering into contracts under subsections (a)(2) and (c)."
 

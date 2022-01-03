@@ -10,6 +10,8 @@ Any water resource development project authorized to be constructed by this sect
 
 (Pub. L. 89–298, title II, §201, Oct. 27, 1965, 79 Stat. 1073; Pub. L. 94–587, §131, Oct. 22, 1976, 90 Stat. 2928; Pub. L. 103–437, §15(d), Nov. 2, 1994, 108 Stat. 4592.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Flood Control Act of 1965, and not as part of the Water Resources Planning Act which comprises this chapter.
@@ -21,6 +23,8 @@ Section was enacted as part of the Flood Control Act of 1965, and not as part of
 <b>1976</b>—Subsec. (a). Pub. L. 94–587, §131(a), substituted "$15,000,000" for "$10,000,000".
 
 Subsec. (b). Pub. L. 94–587, §131(b), substituted "$15,000,000" for "$10,000,000".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

@@ -15,6 +15,7 @@
 | [8812\.](Subchapter%20001%20%28I%29%20-%20National%20Quantum%20Initiative/%C2%A7%2008812%20-%20National%20Quantum%20Coordination%20Office.md) | National Quantum Coordination Office. |
 | [8813\.](Subchapter%20001%20%28I%29%20-%20National%20Quantum%20Initiative/%C2%A7%2008813%20-%20Subcommittee%20on%20Quantum%20Information%20Science.md) | Subcommittee on Quantum Information Science. |
 | [8814\.](Subchapter%20001%20%28I%29%20-%20National%20Quantum%20Initiative/%C2%A7%2008814%20-%20National%20Quantum%20Initiative%20Advisory%20Committee.md) | National Quantum Initiative Advisory Committee. |
+| [8814a.](Subchapter%20001%20%28I%29%20-%20National%20Quantum%20Initiative/%C2%A7%2008814a%20-%20Subcommittee%20on%20the%20Economic%20and%20Security%20Implications%20of%20Quantum%20Information%20Science.md) | Subcommittee on the Economic and Security Implications of Quantum Information Science. |
 | [8815\.](Subchapter%20001%20%28I%29%20-%20National%20Quantum%20Initiative/%C2%A7%2008815%20-%20Sunset.md) | Sunset. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

@@ -6,9 +6,13 @@ Grazing of livestock within the memorial area to the extent now permitted within
 
 (Aug. 18, 1941, ch. 365, §3, 55 Stat. 631; Pub. L. 94–429, §3(f), Sept. 28, 1976, 90 Stat. 1342.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Pub. L. 94–429 struck out designation "(a)" before "grazing of livestock" and struck out subsec. (b) which related to the surface use of the land within the memorial area for prospecting and mining.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Mining Rights Existing Prior to 1976 Amendment
 

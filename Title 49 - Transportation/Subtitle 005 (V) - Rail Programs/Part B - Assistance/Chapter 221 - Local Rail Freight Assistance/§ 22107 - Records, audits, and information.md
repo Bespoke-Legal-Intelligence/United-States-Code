@@ -2,7 +2,7 @@
 
 (a)
 
-Records.—Each recipient of financial assistance through an arrangement under this chapter shall keep records required by the Secretary of Transportation. The records shall be kept for 3 years after a project is completed and shall disclose—
+Records.—Each recipient of financial assistance through an arrangement under thischapter shall keep records required by the Secretary of Transportation. The records shall be kept for 3 years after a project is completed and shall disclose—
 
 &emsp;(1) the amount of, and disposition by the recipient, of the assistance;
 
@@ -60,6 +60,8 @@ Subsection (b) is substituted for 49 App.:1654(k)(2) and (3) because of 31:ch. 7
 
 In subsection (d), the words "Not later than" are substituted for "On or before" for clarity. The word "submit" is substituted for "prepare, update, and submit" to eliminate unnecessary words. The words "based on level of usage" are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (b). Pub. L. 104–316 struck out "and the Comptroller General" after "Secretary".
@@ -67,6 +69,8 @@ In subsection (d), the words "Not later than" are substituted for "On or before"
 <b>1995</b>—Subsec. (c). Pub. L. 104–88, §308(f)(4), substituted "Surface Transportation Board" for "Interstate Commerce Commission" and "The Board" for "The Commission".
 
 Subsec. (d). Pub. L. 104–88, §308(f)(5), substituted "part A of subtitle IV" for "subchapter I of chapter 105".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1995 Amendment
 

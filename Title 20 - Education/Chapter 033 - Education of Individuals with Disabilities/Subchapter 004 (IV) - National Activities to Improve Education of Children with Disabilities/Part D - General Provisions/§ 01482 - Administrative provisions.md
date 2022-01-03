@@ -88,7 +88,7 @@ The Secretary may use funds made available to carry out part B or C to evaluate 
 
 &emsp;Subject to paragraph (2), the Secretary shall ensure that, for each fiscal year, not less than the following amounts are provided under parts B and C to address the following needs:
 
-&emsp;&emsp;(A) $12,832,000 to address the educational, related services, transitional, and early intervention needs of children with deaf-blindness.
+&emsp;&emsp;(A) $12,832,000 to address the educational, related services, transitional, and earlyintervention needs of children with deaf-blindness.
 
 &emsp;&emsp;(B) $4,000,000 to address the postsecondary, vocational, technical, continuing, and adult education needs of individuals with deafness.
 
@@ -99,6 +99,8 @@ The Secretary may use funds made available to carry out part B or C to evaluate 
 &emsp;If the sum of the amount appropriated to carry out parts B and C, and part E of the Education Sciences Reform Act of 2002 \[20 U.S.C. 9567 et seq.\] for any fiscal year is less than $130,000,000, the amounts listed in paragraph (1) shall be ratably reduced for the fiscal year.
 
 (Pub. L. 91–230, title VI, §682, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2797.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

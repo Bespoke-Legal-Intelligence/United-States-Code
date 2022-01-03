@@ -4,9 +4,13 @@ The payment for capital stock in the Federal Crop Insurance Corporation shall be
 
 (June 27, 1940, ch. 437, title I, 54 Stat. 640.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was not enacted as part of the Federal Crop Insurance Act which comprises this subchapter.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

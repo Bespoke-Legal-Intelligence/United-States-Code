@@ -68,7 +68,7 @@ The training program developed under paragraph (1)(C) shall include training inâ
 
 #### (4) Assistance to others
 
-The Secretary of Homeland Security may assist States, Indian tribes, local governments,and private organizations to establish training programs related to terrorist travel intelligence.
+The Secretary of Homeland Security may assist States, Indian tribes, local governments, and private organizations to establish training programs related to terrorist travel intelligence.
 
 #### (5) Authorization of appropriations
 

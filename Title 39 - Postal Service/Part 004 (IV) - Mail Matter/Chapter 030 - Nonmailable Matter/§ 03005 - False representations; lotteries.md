@@ -18,7 +18,7 @@
 
 (e)(1) In conducting an investigation to determine if a person is engaged in any of the activities covered by subsection (a) of this section, the Postmaster General (or any duly authorized agent of the Postmaster General) may tender, at any reasonable time and by any reasonable means, the price advertised or otherwise requested for any article or service that such person has offered to provide through the mails.
 
-(2) A failure to provide the article or service offered after the Postmaster General or his agent has tendered the price advertised or otherwise requested in the manner described in paragraph (1) of this subsection, and any reasons for such failure, may be considered in a proceeding held under section 3007 of this title to determine if there is probable cause to believe that a violation of this section has occurred.
+(2) A failure to provide the article or service offered after the Postmaster General or his agent has tendered the price advertised or otherwise requested in the manner described in paragraph (1) of this subsection, and any reasons for such failure, may be considered in a proceedingheld under section 3007 of this title to determine if there is probable cause to believe that a violation of this section has occurred.
 
 (3) The Postmaster General shall prescribe regulations under which any individual seeking to make a purchase on behalf of the Postal Service under this subsection from any person shall—
 

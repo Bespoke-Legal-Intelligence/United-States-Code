@@ -14,7 +14,7 @@ In carrying out this section, the Secretary shall—
 
 &emsp;(3) consider the available facilities and expertise at all National Laboratories and emphasize investments which complement rather than duplicate capabilities; and
 
-&emsp;(4) develop a timeline and a proposed budget for the completion of deferred maintenance on plant and equipment, with the goal of ensuring that Department programs under this part will be generally recognized to be among the best in the world.
+&emsp;(4) develop a timeline and a proposed budget for the completion of deferred maintenance onplant and equipment, with the goal of ensuring that Department programs under this part will be generally recognized to be among the best in the world.
 
 #### (c) Versatile neutron source
 
@@ -116,6 +116,8 @@ In carrying out this section, the Secretary shall—
 
 (Pub. L. 109–58, title IX, §955, Aug. 8, 2005, 119 Stat. 887; Pub. L. 115–248, §2(e), Sept. 28, 2018, 132 Stat. 3156; Pub. L. 116–260, div. Z, title II, §2003(f), Dec. 27, 2020, 134 Stat. 2466.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2020</b>—Subsec. (c)(1). Pub. L. 116–260, §2003(f)(1)(A), substituted "Authorization" for "Mission need" in heading.
@@ -126,7 +128,7 @@ Subsec. (c)(4). Pub. L. 116–260, §2003(f)(3), substituted "2026" for "2025".
 
 Subsec. (c)(7). Pub. L. 116–260, §2003(f)(2), added par. (7).
 
-Subsec. (d). Pub. L. 116–260, §2003(f)(4), added subsec.(d).
+Subsec. (d). Pub. L. 116–260, §2003(f)(4), added subsec. (d).
 
 <b>2018</b>—Subsecs. (c), (d). Pub. L. 115–248 added subsec. (c) and struck out former subsecs. (c) and (d) which required development of a comprehensive plan for the facilities at the Idaho National Laboratory and transmittal of the plan to Congress.
 

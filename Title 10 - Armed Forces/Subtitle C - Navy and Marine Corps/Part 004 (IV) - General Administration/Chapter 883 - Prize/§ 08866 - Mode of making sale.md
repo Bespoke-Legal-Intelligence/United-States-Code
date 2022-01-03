@@ -30,9 +30,13 @@ R.S. 4628.
 
 The statement in subsection (b) of the responsibility of the auctioneer and agent to the marshal in the collection and deposit of proceeds is inserted to clarify the marshal's functions. It is derived from 34 U.S.C. 1139, and appears in §7662 of this title.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7666 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

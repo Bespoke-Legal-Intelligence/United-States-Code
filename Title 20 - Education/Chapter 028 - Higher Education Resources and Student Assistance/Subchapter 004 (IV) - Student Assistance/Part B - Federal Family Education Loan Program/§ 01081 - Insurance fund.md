@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is hereby established a student loan insurance fund (hereinafter in this section called the "fund") which shall be available without fiscal year limitation to the Secretary for making payments in connection with the default of loans insured by the Secretary under this part, or in connection with payments under a guaranty agreement under section 1078(c) of this title. All amounts received by the Secretary as premium charges for insurance and as receipts, earnings, or proceeds derived from any claim or other assets acquired by the Secretary in connection with operations under this part, any excess advances under section 1072 of this title, and any other moneys, property, or assets derived by the Secretary from operations in connection with this section, shall be deposited in the fund. All payments in connection with the default of loans insured by the Secretary under this part, or in connection with such guaranty agreements shall be paid from the fund. Moneysin the fund not needed for current operations under this section may be invested in bonds or other obligations guaranteed as to principal and interest by the United States.
+There is hereby established a student loan insurance fund (hereinafter in this section called the "fund") which shall be available without fiscal year limitation to the Secretary for making payments in connection with the default of loans insured by the Secretary under this part, or in connection with payments under a guaranty agreement under section 1078(c) of this title. All amounts received by the Secretary as premium charges for insurance and as receipts, earnings, or proceeds derived from any claim or other assets acquired by the Secretary in connection with operations under this part, any excess advances under section 1072 of this title, and any other moneys, property, or assets derived by the Secretary from operations in connection with this section, shall be deposited in the fund. All payments in connection with the default of loans insured by the Secretary under this part, or in connection with such guaranty agreements shall be paid from the fund. Moneys in the fund not needed for current operations under this section may be invested in bonds or other obligations guaranteed as to principal and interest by the United States.
 
 #### (b) Borrowing authority
 
@@ -10,17 +10,21 @@ If at any time the moneys in the fund are insufficient to make payments in conne
 
 (Pub. L. 89–329, title IV, §431, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1400; amended Pub. L. 100–50, §10(w), June 3, 1987, 101 Stat. 346.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 In subsec. (b), "chapter 31 of title 31" and "that chapter" substituted for "the Second Liberty Bond Act, as amended" and "that Act, as amended", respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Prior Provisions
 
-A prior section 1081, Pub. L. 89–329, title IV, §431, Nov. 8, 1965, 79 Stat. 1245; Pub. L. 90–460, §3(c), Aug. 3, 1968, 82 Stat. 638; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2126; Pub. L. 96–374, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1503, related to a student loan insurance fund, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1081, Pub. L. 89–329, title IV, §431, Nov. 8, 1965, 79 Stat. 1245; Pub. L. 90–460, §3(c), Aug. 3, 1968, 82 Stat. 638; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976,90 Stat. 2126; Pub. L. 96–374, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1503, related to a student loan insurance fund, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 
 <b>1987</b>—Subsec. (a). Pub. L. 100–50 substituted "section 1072 of this title" for "section 1072(a)(4)(C) of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1987 Amendment
 

@@ -40,6 +40,8 @@ Not later than 60 days after completing development of a final plan for a site l
 
 (Pub. L. 107–314, div. D, title XLIV, §4402, formerly Pub. L. 104–201, div. C, title XXXI, §3153, Sept. 23, 1996, 110 Stat. 2839; renumbered Pub. L. 107–314, div. D, title XLIV, §4402, and amended Pub. L. 108–136, div. C, title XXXI, §3141(g)(3), Nov. 24, 2003, 117 Stat. 1764; Pub. L. 113–66, div. C, title XXXI, §3146(e)(2), Dec. 26, 2013, 127 Stat. 1076.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly set out as a note under section 7274k of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
@@ -58,7 +60,7 @@ Subsec. (f). Pub. L. 113–66, §3146(e)(2)(E), (F), redesignated subsec. (g) as
 
 Subsec. (g). Pub. L. 113–66, §3146(e)(2)(F), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
 
-Subsec. (g)(2). Pub. L. 113–66, §3146(e)(2)(G), substituted "a defense environmental cleanup" for "an environmental restoration or waste management" and "defense environmental cleanup" for "environmental restoration and waste management".
+Subsec. (g)(2). Pub. L. 113–66, §3146(e)(2)(G), substituted "a defense environmental cleanup" for "an environmental restoration or waste management" and"defense environmental cleanup" for "environmental restoration and waste management".
 
 Subsec. (h). Pub. L. 113–66, §3146(e)(2)(F), redesignated subsec. (h) as (g).
 

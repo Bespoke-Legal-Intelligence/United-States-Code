@@ -2,7 +2,7 @@
 
 #### (a) Actions to be taken under section 2411
 
-(1) Except as provided in paragraph (2), the Trade Representative shall implement the action the Trade Representative determines under section 2414(a)(1)(B) of this title to take under section 2411 of this title, subject to the specific direction, if any, of the President regarding any such action, by no later than the date that is 30 days after the date on which such determination is made.
+(1) Except as provided in paragraph (2), the Trade Representative shall implement the action the Trade Representative determines undersection 2414(a)(1)(B) of this title to take under section 2411 of this title, subject to the specific direction, if any, of the President regarding any such action, by no later than the date that is 30 days after the date on which such determination is made.
 
 (2)(A) Except as otherwise provided in this paragraph, the Trade Representative may delay, by not more than 180 days, the implementation of any action that is to be taken under section 2411 of this title—
 
@@ -20,7 +20,7 @@
 
 #### (b) Alternative actions in certain cases of export targeting
 
-(1) If the Trade Representative makes an affirmative determination under section2414(a)(1)(A) of this title involving export targeting by a foreign country and determines to take no action under section 2411 of this title with respect to such affirmation determination, the Trade Representative—
+(1) If the Trade Representative makes an affirmative determination under section 2414(a)(1)(A) of this title involving export targeting by a foreign country and determines to take no action under section 2411 of this title with respect to such affirmation determination, the Trade Representative—
 
 &emsp;(A) shall establish an advisory panel to recommend measures which will promote the competitiveness of the domestic industry affected by the export targeting,
 
@@ -38,6 +38,8 @@
 
 (Pub. L. 93–618, title III, §305, as added Pub. L. 96–39, title IX, §901, July 26, 1979, 93 Stat. 299; amended Pub. L. 98–573, title III, §304(g), Oct. 30, 1984, 98 Stat. 3006; Pub. L. 100–418, title I, §1301(a), Aug. 23, 1988, 102 Stat. 1172; Pub. L. 108–429, title II, §2201(c), Dec. 3, 2004, 118 Stat. 2599.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Subsec. (a)(2)(B). Pub. L. 108–429 substituted "section 2414(a)(3)(A)(ii)" for "section 2414(a)(3)(A)".
@@ -45,6 +47,8 @@
 <b>1988</b>—Pub. L. 100–418 amended section generally, substituting provisions relating to implementation of actions for provisions relating to requests for information. See section 2418 of this title.
 
 <b>1984</b>—Subsec. (c). Pub. L. 98–573 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

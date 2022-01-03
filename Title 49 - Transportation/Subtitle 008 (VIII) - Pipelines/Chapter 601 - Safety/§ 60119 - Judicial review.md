@@ -2,7 +2,7 @@
 
 (a)
 
-Review of Regulations, Orders, and Other Final Agency Actions.—(1) Except as provided in subsection (b) of this section, a person adversely affected by a regulation prescribed under this chapter or an order issued under this chapter may apply for review of the regulation or order by filing a petition for review in the United States Court of Appeals for the District of Columbia Circuit or in the court of appeals of the United States for the circuit in which the person resides or has its principal place of business. The petition must be filed not later than 89 days after the regulation is prescribed or order is issued. The clerk of the court immediately shall send a copy of the petition to the Secretary of Transportation.
+Review of Regulations, Orders, and Other Final Agency Actions.—(1) Except as provided in subsection (b) of this section, a person adversely affected by a regulation prescribed under this chapter or an order issued under this chapter may apply for review of the regulation or order by filing a petition for review in the United States Court of Appeals for the District of Columbia Circuit or in the court of appeals of the United States for the circuit in which theperson resides or has its principal place of business. The petition must be filed not later than 89 days after the regulation is prescribed or order is issued. The clerk of the court immediately shall send a copy of the petition to the Secretary of Transportation.
 
 (2) A judgment of a court under paragraph (1) of this subsection may be reviewed only by the Supreme Court under section 1254 of title 28. A remedy under paragraph (1) is in addition to any other remedies provided by law.
 
@@ -75,6 +75,8 @@ In subsection (a)(2), the text of 49 App.:1675(b) and 2005(b) is omitted as surp
 In subsection (b)(1), the words "adversely affected" are substituted for "aggrieved" for consistency in the revised title and with other titles of the Code. The word "only" is omitted as surplus. The text of 49 App.:1674b(b)(4)(B) (1st sentence) is omitted as surplus because 28:2112 applies in the absence of an exception. The text of 49 App.:1674b(b)(4)(B) (2d sentence) is omitted as surplus and because of 28:1651.
 
 In subsection (b)(2), the words "and decree" are omitted as surplus. The words "may be reviewed only" are substituted for "shall be final, except that such judgment and decree shall be subject to review" for consistency and to eliminate unnecessary words. The words "upon certiorari" are omitted as surplus because of 28:1254(1).
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

@@ -40,6 +40,8 @@ In subsection (b), the words "suitable space" are substituted for the words "pro
 
 In subsection (c), the words "the Secretary" are substituted for the words "the Quartermaster General", since the functions which, for the Army, are assigned by statute to subordinate officers of the Army, are, for the Air Force, assigned to the Secretary.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Subsec. (a). Pub. L. 116–283, §923(e)(19)(A), inserted "or the Space Force" after "economy of the Air Force".

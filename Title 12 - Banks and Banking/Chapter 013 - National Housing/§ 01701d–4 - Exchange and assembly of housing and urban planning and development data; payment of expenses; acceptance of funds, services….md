@@ -14,7 +14,7 @@
 
 #### References in Text
 
-The Department of Housing and Urban Development Act, referred to in subsec. (a), is Pub. L. 89–174, Sept. 9,1965, 79 Stat. 667, which is classified principally to chapter 44 (§3531 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3531 of Title 42 and Tables.
+The Department of Housing and Urban Development Act, referred to in subsec. (a), is Pub. L. 89–174, Sept. 9, 1965, 79 Stat. 667, which is classified principally to chapter 44 (§3531 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3531 of Title 42 and Tables.
 
 #### Codification
 

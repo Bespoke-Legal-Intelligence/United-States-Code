@@ -44,7 +44,7 @@ The President may provide to a country assistance otherwise prohibited under sub
 
 &emsp;The President may provide assistance under section 2347 of this title through the Defense Institute for International Legal Studies or the Center for Civil-Military Relations at the Naval Post-Graduate School, and may provide nonlethal supplies (as defined in section 2557(d)(1)(B) of title 10), to a country subject to the prohibition under subsection (a) upon certifying to the appropriate congressional committees that—
 
-&emsp;&emsp;(A) the government of such country is taking reasonable steps to implement effectivemeasures to demobilize child soldiers in its forces or in government-supported paramilitaries and is taking reasonable steps within the context of its national resources to provide demobilization, rehabilitation, and reintegration assistance to those former child soldiers; and
+&emsp;&emsp;(A) the government of such country is taking reasonable steps to implement effective measures to demobilize child soldiers in its forces or in government-supported paramilitaries and is taking reasonable steps within the context of its national resources to provide demobilization, rehabilitation, and reintegration assistance to those former child soldiers; and
 
 &emsp;&emsp;(B) the assistance provided by the United States Government to the government of such country will go to programs that will directly support professionalization of the military.
 

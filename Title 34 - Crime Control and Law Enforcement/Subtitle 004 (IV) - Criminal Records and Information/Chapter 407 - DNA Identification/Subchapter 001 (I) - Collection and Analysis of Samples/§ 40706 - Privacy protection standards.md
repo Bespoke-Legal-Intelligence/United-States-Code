@@ -22,7 +22,7 @@ Section was formerly classified to section 14135e of Title 42, The Public Health
 
 #### Amendments
 
-<b>2004</b>—Subsec. (c). Pub. L. 108–405, §309, reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "A person who knowingly—
+<b>2004</b>—Subsec. (c). Pub. L. 108–405, §309, reenacted heading without change and amended text generally.Prior to amendment, text read as follows: "A person who knowingly—
 
 &emsp;"(1) discloses a sample or result described in subsection (a) of this section in any manner to any person not authorized to receive it; or
 

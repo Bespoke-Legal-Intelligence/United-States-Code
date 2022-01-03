@@ -20,13 +20,17 @@ For purposes of this section, the term "reversionary interest" includes a possib
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 382; Pub. L. 87–834, §18(a)(2)(E), Oct. 16, 1962, 76 Stat. 1052; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Subsec. (b). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
 <b>1962</b>—Subsec. (a). Pub. L. 87–834 struck out provisions which excepted real property situated outside of the United States.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1962 Amendment
 
-Amendment by Pub. L. 87–834 applicable to estates of decedents dying after Oct. 16, 1962, except as otherwise provided, see section 18(b) of Pub. L. 87–834, set out as a note under section 2031 of this title.
+Amendment by Pub. L. 87–834 applicable to estates of decedents dying after Oct. 16, 1962, except as otherwiseprovided, see section 18(b) of Pub. L. 87–834, set out as a note under section 2031 of this title.
 

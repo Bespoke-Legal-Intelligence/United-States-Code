@@ -66,6 +66,8 @@ No owner or employee of any entity that serves as a medium in which an advertise
 
 (Pub. L. 90–321, title I, §184, as added Pub. L. 94–240, §3, Mar. 23, 1976, 90 Stat. 259; amended Pub. L. 103–325, title III, §336(a), Sept. 23, 1994, 108 Stat. 2234; Pub. L. 104–208, div. A, title II, §2605(c), Sept. 30, 1996, 110 Stat. 3009–473; Pub. L. 111–203, title X, §1100A(2), (10)(A), July 21, 2010, 124 Stat. 2107, 2109.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (c)(1)(D). Pub. L. 111–203, §1100A(2), (10)(A), made similar amendments, resulting in the substitution of "the Bureau" for "the Board".
@@ -77,6 +79,8 @@ Subsec. (b). Pub. L. 104–208, §2605(c)(3), added subsec. (b). Former subsec. 
 Subsec. (c). Pub. L. 104–208, §2605(c)(1), (2), redesignated subsec. (b) as (c) and struck out former subsec. (c) which read as follows: "There is no liability under this section on the part of any owner or personnel, as such, of any medium in which an advertisement appears or through which it is disseminated."
 
 <b>1994</b>—Subsecs. (b), (c). Pub. L. 103–325 added subsec. (b) and redesignated former subsec. (b) as (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

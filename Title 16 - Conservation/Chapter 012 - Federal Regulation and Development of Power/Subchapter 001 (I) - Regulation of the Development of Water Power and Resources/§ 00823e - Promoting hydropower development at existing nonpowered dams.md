@@ -32,7 +32,7 @@
 
 #### (c) Interagency communications
 
-Interagency cooperation in the preparation of environmental documents under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) with respect to an application for a license for a qualifying facility under this section, and interagency communications relating to licensing process coordination pursuant to this section, shall not—
+Interagency cooperation in the preparation of environmental documents under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) with respect to an application for a license for a qualifying facility under this section,and interagency communications relating to licensing process coordination pursuant to this section, shall not—
 
 &emsp;(1) be considered to be ex parte communications under Commission rules; or
 
@@ -109,6 +109,8 @@ Nothing in this section affects—
 &emsp;(2) any authority of the Commission to issue an exemption to a small hydroelectric power project under the Public Utility Regulatory Policies Act of 1978.
 
 (June 10, 1920, ch. 285, pt. I, §34, as added Pub. L. 115–270, title III, §3003, Oct. 23, 2018, 132 Stat. 3863.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -24,6 +24,8 @@
 
 (Pub. L. 93–288, title I, §101, May 22, 1974, 88 Stat. 143; Pub. L. 100–707, title I, §103(a), Nov. 23, 1988, 102 Stat. 4689.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
@@ -31,6 +33,8 @@ This chapter, referred to in subsec. (b), was in the original "this Act", meanin
 #### Amendments
 
 <b>1988</b>—Subsec. (b)(7). Pub. L. 100–707 struck out par. (7) expressing Congressional intent to provide disaster assistance through a long-range economic recovery program for major disaster areas.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 
@@ -98,7 +102,7 @@ Pub. L. 103–181, §1, Dec. 3, 1993, 107 Stat. 2054, provided that: "This Act \
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–707, title I, §101(a), Nov. 23, 1988, 102 Stat. 4689, provided that: "This title \[enacting sections 5141, 5153 to 5157, 5159 to 5164, 5170 to 5170c, 5172, 5174, 5178, 5189 to 5189b, and 5191 to 5193 of this title, amending this section, sections 1382a, 3030, 3231, 3232, 3539, 4003, 4013, 5122, 5131, 5143, 5144, 5147 to 5152, 5158, 5171, 5173, 5176, 5177, 5179 to 5188, 5201, 7704, and 9601 of this title,sections 1421, 1427, 1427a, 1961, 1964, and 2014 of Title 7, Agriculture, sections 1706c, 1709, and 1715l of Title 12, Banks and Banking, section 636 of Title 15, Commerce and Trade, sections 1536 and 3505 of Title 16, Conservation, sections 241–1 and 646 of Title 20, Education, section 125 of Title 23, Highways, sections 165, 5064, and 5708 of Title 26, Internal Revenue Code, section 701n of Title 33, Navigation and Navigable Waters, and section 1820 \[now 3720\] of Title 38, Veterans' Benefits, repealing sections 5142, 5145, 5146, 5175, and 5202 of this title and former sections 5141, 5153 to 5157, 5172, 5174, 5178, and 5189 of this title, enacting provisions set out as notes under this section and sections 3231, 5122, and 5201 of this title, amending provisions set out as a note under this section and section 1681 of Title 48, Territories and Insular Possessions, and repealing provisions set out as notes under this section and former section 5178 of this title\] may be cited as 'The Disaster Relief and Emergency Assistance Amendments of 1988'."
+Pub. L. 100–707, title I, §101(a), Nov. 23, 1988, 102 Stat. 4689, provided that: "This title \[enacting sections 5141, 5153 to 5157, 5159 to 5164, 5170 to 5170c, 5172, 5174, 5178, 5189 to 5189b, and 5191 to 5193 of this title, amending this section, sections 1382a, 3030, 3231, 3232, 3539, 4003, 4013, 5122, 5131, 5143, 5144, 5147 to 5152, 5158, 5171, 5173, 5176, 5177, 5179 to 5188, 5201, 7704, and 9601 of this title, sections 1421, 1427, 1427a, 1961, 1964, and 2014 of Title 7, Agriculture, sections 1706c, 1709, and 1715l of Title 12, Banks and Banking, section 636 of Title 15, Commerce and Trade, sections 1536 and 3505 of Title 16, Conservation, sections 241–1 and 646 of Title 20, Education, section 125 of Title 23, Highways, sections 165, 5064, and 5708 of Title 26, Internal Revenue Code, section 701n of Title 33, Navigation and Navigable Waters, and section 1820 \[now 3720\] of Title 38, Veterans' Benefits, repealing sections 5142, 5145, 5146, 5175, and 5202 of this title and former sections 5141, 5153 to 5157, 5172, 5174, 5178, and 5189 of this title, enacting provisions set out as notes under this section and sections 3231, 5122, and 5201 of this title, amending provisions set out as a note under this section and section 1681 of Title 48, Territories and Insular Possessions, and repealing provisions set out as notes under this section and former section 5178 of this title\] may be cited as 'The Disaster Relief and Emergency Assistance Amendments of 1988'."
 
 #### Short Title of 1980 Amendment
 
@@ -160,11 +164,13 @@ Pub. L. 105–199, July 16, 1998, 112 Stat. 641, as amended by Pub. L. 106–78,
 
 #### Recommendations Concerning Improvement of Relationships Among Disaster Management Officials
 
-Pub. L. 100–707, title I, §110, Nov. 23, 1988, 102 Stat. 4710, provided that not later than 1 year after Nov. 23,1988, the President was to recommend to the Congress proposals to improve the operational and fiscal relationships that exist among Federal, State, and local major disaster and emergency management officials, including provisions which would decrease the amount of time for processing requests for major disaster and emergency declarations and providing Federal assistance for major disasters and emergencies, provide for more effective utilization of State and local resources in relief efforts, and improve the timeliness of reimbursement.
+Pub. L. 100–707, title I, §110, Nov. 23, 1988, 102 Stat. 4710, provided that not later than 1 year after Nov. 23, 1988, the President was to recommend to the Congress proposals to improve the operational and fiscal relationships that exist among Federal, State, and local major disaster and emergency management officials, including provisions which would decrease the amount of time for processing requests for major disaster and emergency declarations and providing Federal assistance for major disasters and emergencies, provide for more effective utilization of State and local resources in relief efforts, and improve the timeliness of reimbursement.
 
 #### Declared Disasters and Emergencies Not Affected
 
 Pub. L. 100–707, title I, §112, Nov. 23, 1988, 102 Stat. 4711, provided that: "This title \[see Short Title of 1988 Amendment note above\] shall not affect the administration of any assistance for a major disaster or emergency declared by the President before the date of the enactment of this Act \[Nov. 23, 1988\]."
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

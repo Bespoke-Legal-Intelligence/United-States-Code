@@ -16,11 +16,11 @@ In this chapter:
 
 #### (3) Exporting authority
 
-&emsp;The term "exporting authority" means 1 or more entities designated by a Participant from whose territory a shipment of rough diamonds is being exported as having the authority to validate the Kimberley Process Certificate.
+&emsp;The term "exporting authority" means 1 or more entities designated by a Participantfrom whose territory a shipment of rough diamonds is being exported as having the authority to validate the Kimberley Process Certificate.
 
 #### (4) Importing authority
 
-&emsp;The term "importing authority" means 1 or more entities designated by a Participant intowhose territory a shipment of rough diamonds is imported as having the authority to enforce the laws and regulations of the Participant regulating imports, including the verification of the Kimberley Process Certificate accompanying the shipment.
+&emsp;The term "importing authority" means 1 or more entities designated by a Participant into whose territory a shipment of rough diamonds is imported as having the authority to enforce the laws and regulations of the Participant regulating imports, including the verification of the Kimberley Process Certificate accompanying the shipment.
 
 #### (5) Kimberley Process Certificate
 
@@ -58,9 +58,13 @@ In this chapter:
 
 (Pub. L. 108–19, §3, Apr. 25, 2003, 117 Stat. 632.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Harmonized Tariff Schedule of the United States, referred to in par. (9), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

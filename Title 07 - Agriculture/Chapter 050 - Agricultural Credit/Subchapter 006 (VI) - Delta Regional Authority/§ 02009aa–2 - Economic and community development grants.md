@@ -40,6 +40,8 @@ The Authority may approve grants to States and public and nonprofit entities for
 
 (Pub. L. 87–128, title III, §382C, as added Pub. L. 106–554, §1(a)(4) \[div. B, title V, §503\], Dec. 21, 2000, 114 Stat. 2763, 2763A–274; amended Pub. L. 107–171, title VI, §6027(c), May 13, 2002, 116 Stat. 373.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (b)(3). Pub. L. 107–171 struck out heading and text of par. (3). Text read as follows: "Notwithstanding any provision of law limiting the Federal share in any grant program, funds appropriated to carry out this section may be used to increase a Federal share in a grant program, as the Authority determines appropriate."

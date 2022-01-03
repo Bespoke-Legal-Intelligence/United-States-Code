@@ -4,6 +4,8 @@ Appropriations for the Department of Energy under this title <sup>1</sup> in th
 
 (Pub. L. 102–377, title III, §301, Oct. 2, 1992, 106 Stat. 1338.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This title, referred to in text, is title III of Pub. L. 102–377, Oct. 2, 1992, 106 Stat. 1332. For complete classification of title III to Code, see Tables.

@@ -2,9 +2,9 @@
 
 #### (a) Eligibility for issuance or transfer of license or permit
 
-Before issuing or transferring a license for exploration or permit for commercial recovery, the Administrator must find in writing, after consultation with interested departments and agencies pursuant to section 1413(e) of this title, and upon considering public comments received with respect to the license or permit, that the exploration or commercial recovery proposed in the application—
+Before issuing or transferring a license for exploration or permit for commercial recovery, the Administrator must find in writing, after consultation with interested departments and agencies pursuant to section 1413(e) of this title, and upon considering public comments receivedwith respect to the license or permit, that the exploration or commercial recovery proposed in the application—
 
-&emsp;(1) will not unreasonably interfere with the exercise of the freedoms of the high seas byother states, as recognized under general principles of international law;
+&emsp;(1) will not unreasonably interfere with the exercise of the freedoms of the high seas by other states, as recognized under general principles of international law;
 
 &emsp;(2) will not conflict with any international obligation of the United States established by any treaty or international convention in force with respect to the United States;
 
@@ -38,7 +38,7 @@ Before issuing or transferring a license for exploration or permit for commercia
 
 (3) The Administrator shall establish, by regulation, guidelines for a determination of the scale or extent of a proposed modification or revision for which any or all license or permit application requirements and procedures, including a public hearing, shall apply. Any increase in the size of the area, or any change in the location of an area, to which an exploration plan or a recovery plan applies, except an incidental increase or change, must be made by application for another license or permit.
 
-(4) The procedures set forth in subsection (b)(3) of this section shall apply with respect to any modification under this subsection in the same manner, and to the same extent, as if such modification were an initial term, condition, or restriction proposed by the Administrator.
+(4) The procedures set forth in subsection (b)(3) of this section shall apply with respect toany modification under this subsection in the same manner, and to the same extent, as if such modification were an initial term, condition, or restriction proposed by the Administrator.
 
 #### (d) Prior consultations
 

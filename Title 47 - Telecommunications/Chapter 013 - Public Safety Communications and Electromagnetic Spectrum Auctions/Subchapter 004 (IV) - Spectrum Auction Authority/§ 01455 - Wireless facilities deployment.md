@@ -24,7 +24,7 @@
 
 #### (1) Grant
 
-&emsp;If an executive agency, a State, a political subdivision or agency of a State, or a person, firm, or organization applies for the grant of an easement, right-of-way, or lease to, in, over, or on a building or other property owned by the Federal Government for the right to install, construct, modify, or maintain a communications facility installation, the executive agency having control of the building or other property may grant to the applicant, on behalf of the Federal Government, subject to paragraph (3), an easement, right-of-way, or lease to perform such installation, construction, modification, or maintenance.
+&emsp;If an executive agency, a State, a political subdivision or agency of a State, or a person,firm, or organization applies for the grant of an easement, right-of-way, or lease to, in, over, or on a building or other property owned by the Federal Government for the right to install, construct, modify, or maintain a communications facility installation, the executive agency having control of the building or other property may grant to the applicant, on behalf of the Federal Government, subject to paragraph (3), an easement, right-of-way, or lease to perform such installation, construction, modification, or maintenance.
 
 #### (2) Application
 
@@ -62,7 +62,7 @@
 
 #### (1) In general
 
-&emsp;Notwithstanding section 704 of the Telecommunications Act of 1996 (Public Law104–104; 110 Stat. 151) or any other provision of law, the Administrator of General Services shall—
+&emsp;Notwithstanding section 704 of the Telecommunications Act of 1996 (Public Law 104–104; 110 Stat. 151) or any other provision of law, the Administrator of General Services shall—
 
 &emsp;&emsp;(A) develop one or more master contracts that shall govern the placement of communications facility installations on buildings and other property owned by the Federal Government; and
 
@@ -96,7 +96,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) is designed for the purpose of emitting radio frequency;
 
-&emsp;&emsp;&emsp;(ii) is designed to be operated, or is operating, from a fixed location pursuant to authorization by the Federal Communications Commission or is using duly authorized devices that do not require individual licenses; and
+&emsp;&emsp;&emsp;(ii) is designed to be operated, or is operating, from a fixed location pursuant toauthorization by the Federal Communications Commission or is using duly authorized devices that do not require individual licenses; and
 
 &emsp;&emsp;&emsp;(iii) is added to a tower, building, or other structure.
 
@@ -134,7 +134,7 @@ Real property authorities.—Nothing in this section \[amending this section and
 
 "(2)
 
-Effect on other laws.—Nothing in this section, or the amendments made by this section, and no actions taken pursuant to this section, or the amendments made by this section, shall impact a decision or determination by any executive agency to sell, dispose of, declare excess or surplus, lease, reuse, or redevelopany Federal real property pursuant to title 40, United States Code, the Federal Assets Sale and Transfer Act of 2016 (Public Law 114–287) \[40 U.S.C. 1303 note\], or any other law governing real property activities of the Federal Government. No agreement entered into pursuant to this section, or the amendments made by this section, may obligate the Federal Government to hold, control, or otherwise retain or use real property that may otherwise be deemed as excess, surplus, or that could be otherwise sold, leased, or redeveloped."
+Effect on other laws.—Nothing in this section, or the amendments made by this section, and no actions taken pursuant to this section, or the amendments made by this section, shall impact a decision or determination by any executive agency to sell, dispose of, declare excess or surplus, lease, reuse, or redevelop any Federal real property pursuant to title 40, United States Code, the Federal Assets Sale and Transfer Act of 2016 (Public Law 114–287) \[40 U.S.C. 1303 note\], or any other law governing real property activities of the Federal Government. No agreement entered into pursuant to this section, or the amendments made by this section, may obligate the Federal Government to hold, control, or otherwise retain or use real property that may otherwise be deemed as excess, surplus, or that could be otherwise sold, leased, or redeveloped."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -14,6 +14,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Pub. L. 110–417, \[div. A\], title V, §521(b)(2), Oct. 14, 2008, 122 Stat. 4444, added item 619a and struck out former item 619a "Eligibility for consideration for promotion: joint duty assignment required before promotion to general or flag grade; exceptions".

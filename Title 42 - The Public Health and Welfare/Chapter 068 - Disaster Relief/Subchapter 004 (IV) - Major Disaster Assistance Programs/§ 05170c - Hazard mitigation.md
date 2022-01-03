@@ -110,7 +110,11 @@ Recipients of hazard mitigation assistance provided under this section and secti
 
 &emsp;(11) reducing hazardous fuels;
 
-&emsp;(12) mitigating windstorm damage, including replacing or installing electrical transmission or distribution utility pole structures with poles that are resilient to extreme wind and combined ice and wind loadings for the basic wind speeds and ice conditions associated with the relevant location;
+&emsp;(12) mitigating windstorm and wildfire damage, including—
+
+&emsp;&emsp;(A) replacing or installing electrical transmission or distribution utility pole structures with poles that are resilient to extreme wind, wildfire, and combined ice and wind loadings for the basic wind speeds and ice conditions associated with the relevant location; and
+
+&emsp;&emsp;(B) the installation of fire-resistant wires and infrastructure and the undergrounding of wires;
 
 &emsp;(13) removing standing burned trees; and
 
@@ -126,13 +130,15 @@ Recipients of hazard mitigation assistance provided under this section and secti
 
 &emsp;(3) improvements to seismometers, Global Positioning System receivers, and associated infrastructure in support of building a capability for earthquake early warning.
 
-(Pub. L. 93–288, title IV, §404, as added Pub. L. 100–707, title I, §106(a)(3), Nov. 23, 1988, 102 Stat. 4698; amended Pub. L. 103–181, §§2(a), 3, Dec. 3, 1993, 107 Stat. 2054; Pub. L. 106–390, title I, §104(c)(1), title II, §204, Oct. 30, 2000, 114 Stat. 1559, 1561; Pub. L. 108–7, div. K, title IV, §417, Feb. 20, 2003, 117 Stat. 525; Pub. L. 109–295, title VI, §684, Oct. 4, 2006, 120 Stat. 1447; Pub. L. 111–351, §3(c)(2), Jan. 4, 2011, 124 Stat. 3864; Pub. L. 113–2, div. B, §1104(a), (b), Jan. 29, 2013, 127 Stat. 43; Pub. L. 115–254, div. D, §§1204(b)(1), 1205, 1233, 1235(a), Oct. 5, 2018, 132 Stat. 3439, 3460, 3463.)
+(Pub. L. 93–288, title IV, §404, as added Pub. L. 100–707, title I, §106(a)(3), Nov. 23, 1988, 102 Stat. 4698; amended Pub. L. 103–181, §§2(a), 3, Dec. 3, 1993, 107 Stat. 2054; Pub. L. 106–390, title I, §104(c)(1), title II, §204, Oct. 30, 2000, 114 Stat. 1559, 1561; Pub. L. 108–7, div. K, title IV, §417, Feb. 20, 2003, 117 Stat. 525; Pub. L. 109–295, title VI, §684, Oct. 4, 2006, 120 Stat. 1447; Pub. L. 111–351, §3(c)(2), Jan. 4, 2011, 124 Stat. 3864; Pub. L. 113–2, div. B, §1104(a), (b), Jan. 29, 2013, 127 Stat. 43; Pub. L. 115–254, div. D, §§1204(b)(1), 1205, 1233, 1235(a), Oct. 5, 2018, 132 Stat. 3439, 3460, 3463; Pub. L. 117–58, div. D, title I, §40102, Nov. 15, 2021, 135 Stat. 928.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (d)(1), is Pub. L. 91–190, Jan. 1, 1970,83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (d)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
 
 The National Historic Preservation Act, referred to in subsec. (d)(1), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, which was classified generally to subchapter II (§470 et seq.) of chapter 1A of Title 16, Conservation. The Act, except for section 1, was repealed and restated in division A (§300101 et seq.) of subtitle III of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 7, Dec. 19, 2014, 128 Stat. 3094, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of Title 16, see Disposition Table preceding section 100101 of Title 54.
 
@@ -141,6 +147,8 @@ The National Historic Preservation Act, referred to in subsec. (d)(1), is Pub. L
 A prior section 404 of Pub. L. 93–288 was classified to section 5174 of this title prior to repeal by Pub. L. 100–707.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (f)(12). Pub. L. 117–58 inserted "and wildfire" after "windstorm" and substituted "including—" for "including", inserted subpar. (A) designation before "replacing" and ", wildfire," after "extreme wind", and added subpar. (B).
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–254, §1204(b)(1), inserted ", or any area affected by a fire for which assistance was provided under section 5187 of this title" after "affected by a major disaster" in first sentence as inserted by section 1235(a) of Pub. L. 115–254, and inserted "or event under section 5187 of this title" after "major disaster" in two places in third sentence.
 
@@ -166,6 +174,8 @@ Subsec. (c). Pub. L. 106–390, §204, added subsec. (c).
 
 <b>1993</b>—Pub. L. 103–181 designated existing provisions as subsec. (a), inserted heading, substituted "75 percent" for "50 percent" in first sentence, substituted "15 percent of the estimated aggregate amount of grants to be made (less any associated administrative costs) under this chapter with respect to the major disaster" for "10 percent of the estimated aggregate amounts of grants to be made under section 5172 of this title with respect to such major disaster" in last sentence, and added subsec. (b).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–254 applicable to each major disaster and emergency declared by the President on or after Aug. 1, 2017, and authorities provided under div. D of Pub. L. 115–254 applicable to each major disaster and emergency declared by the President on or after Jan. 1, 2016, except as otherwise provided, see section 1202 of Pub. L. 115–254, set out as a note under section 5121 of this title.
@@ -187,6 +197,10 @@ Pub. L. 103–181, §2(b), Dec. 3, 1993, 107 Stat. 2054, provided that: "The ame
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Wage Rate Requirements
+
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of this title.
 
 #### Funding of a Federally Authorized Water Resources Development Project
 

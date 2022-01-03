@@ -38,9 +38,11 @@ If the Secretary has reason to believe that a health care entity has failed to r
 
 #### (B) Effective date of election
 
-&emsp;&emsp;An election under State law is not effective, for purposes of,<sup>1</sup> for actions commenced before the effective date of the State law, which may not be earlier than the date of the enactment of that law.
+&emsp;&emsp;An election under State law is not effective, for purposes of,<sup>1</sup> for actions commencedbefore the effective date of the State law, which may not be earlier than the date of the enactment of that law.
 
 (Pub. L. 99–660, title IV, §411, Nov. 14, 1986, 100 Stat. 3784; Pub. L. 100–177, title IV, §402(c), as added Pub. L. 101–239, title VI, §6103(e)(6)(A), Dec. 19, 1989, 103 Stat. 2208.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -53,6 +55,8 @@ The Civil Rights Acts, referred to in subsec. (a)(1), are classified generally t
 <b>1989</b>—Subsec. (c)(2)(B), (C). Pub. L. 101–239 added Pub. L. 100–177, §402(c), see 1987 Amendment note below.
 
 <b>1987</b>—Subsec. (c)(2)(B), (C). Pub. L. 100–177, §402(c), as added by Pub. L. 101–239, redesignated subpar. (C) as (B), struck out "subparagraphs (A) and (B)" after "for purposes of", and struck out former subpar. (B) which read as follows: "Subsection (a) of this section shall not apply to State laws in a State for actions commenced on or after October 14, 1989, if the State by legislation elects such treatment."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1987 Amendment
 

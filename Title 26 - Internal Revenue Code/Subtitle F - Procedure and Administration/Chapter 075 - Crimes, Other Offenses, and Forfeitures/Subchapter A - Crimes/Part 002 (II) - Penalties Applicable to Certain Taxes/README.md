@@ -8,6 +8,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Pub. L. 109–59, title XI, §11164(b)(4), Aug. 10, 2005, 119 Stat. 1976, inserted "or reregister" after "register" in item 7232.
@@ -28,7 +30,7 @@ Pub. L. 100–418, title I, §1941(b)(3)(F), Aug. 23, 1988, 102 Stat. 1324, stru
 
 <b>1974</b>—Pub. L. 93–490, §3(b)(2), Oct. 26, 1974, 88 Stat. 1467, struck out item 7236 "Violation of laws relating to filled cheese".
 
-<b>1970</b>—Pub. L. 91–513, title III, §1101(b)(4)(B), Oct. 27, 1970, 84 Stat. 1292, struck out items 7237 "Violation oflaws relating to narcotic drugs and to marihuana" and 7238 "Violation of laws relating to opium for smoking".
+<b>1970</b>—Pub. L. 91–513, title III, §1101(b)(4)(B), Oct. 27, 1970, 84 Stat. 1292, struck out items 7237 "Violation of laws relating to narcotic drugs and to marihuana" and 7238 "Violation of laws relating to opium for smoking".
 
 <b>1965</b>—Pub. L. 89–44, title VIII, §802(b)(6), June 21, 1965, 79 Stat. 159, struck out "or give bond" after "Failure to register" in item 7232.
 

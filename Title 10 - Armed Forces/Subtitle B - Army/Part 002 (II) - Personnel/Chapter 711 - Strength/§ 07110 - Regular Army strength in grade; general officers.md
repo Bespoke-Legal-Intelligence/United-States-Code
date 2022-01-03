@@ -136,6 +136,8 @@ July 20, 1956, ch. 646, §302 (1st par.), 70 Stat. 587.
 
 In subsection (a), the words "Subject to section 3202(a) of this title" are inserted for clarity.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 3210 of this title as this section.
@@ -144,7 +146,7 @@ In subsection (a), the words "Subject to section 3202(a) of this title" are inse
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–22 struck out ", exclusive of the number authorized for the Army Medical Department and the Chaplains," before "is 75/10,000".
 
-Pub. L. 97–22, which directed amendment of subsec. (a) by striking out ", exclusive of the number of commissioned officers on the active-duty list authorized for the Army Medical Department and the Chaplains", was executed by striking out ", exclusive of the number of commissioned officers on the active list authorized for the Army Medical Department and the Chaplains" before period at end of first sentence, to reflect the probable intent of Congress. See 1980 Amendment note and Effective Date of 1980 Amendment note below.
+Pub. L. 97–22, which directed amendment of subsec. (a) by striking out ", exclusive of the number of commissioned officers on the active-duty list authorized for the Army Medical Department and the Chaplains", wasexecuted by striking out ", exclusive of the number of commissioned officers on the active list authorized for the Army Medical Department and the Chaplains" before period at end of first sentence, to reflect the probable intent of Congress. See 1980 Amendment note and Effective Date of 1980 Amendment note below.
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–513, §502(5)(A), (B), substituted "active-duty list" for "active list" wherever appearing and struck out provisions that, of the authorized strength, not more than one-half could be in a regular grade above brigadier general.
 
@@ -159,6 +161,8 @@ Subsecs. (d), (e). Pub. L. 96–513, §502(5)(D), struck out subsec. (d) which p
 <b>1958</b>—Subsec. (a). Pub. L. 85–861, §1(66)(A), substituted "Subject to section 3202(a) of this title, the" for "The".
 
 Subsecs. (c) to (e). Pub. L. 85–861, §1(66)(B), struck out subsec. (c) which prescribed the number of general officers authorized for the active list of the Regular Army, and redesignated subsecs. (d) and (e) as (c) and (d), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

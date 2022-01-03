@@ -4,7 +4,7 @@ Whenever the Attorney General determines, upon application of the Administrator�
 
 &emsp;(1) that—
 
-&emsp;&emsp;(A) in the implementation of the requirements of section 7411, 7412, or 7521 of this title, a right under any United States letters patent, which is being used or intended for public or commercial use and not otherwise reasonably available, is necessary to enable any person required to comply with such limitation to so comply, and
+&emsp;&emsp;(A) in the implementation of the requirements of section 7411, 7412, or 7521 of thistitle, a right under any United States letters patent, which is being used or intended for public or commercial use and not otherwise reasonably available, is necessary to enable any person required to comply with such limitation to so comply, and
 
 &emsp;&emsp;(B) there are no reasonable alternative methods to accomplish such purpose, and
 
@@ -14,6 +14,8 @@ Whenever the Attorney General determines, upon application of the Administrator�
 
 (July 14, 1955, ch. 360, title III, §308, as added Pub. L. 91–604, §12(a), Dec. 31, 1970, 84 Stat. 1708.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 1857h–6 of this title.
@@ -21,6 +23,8 @@ Section was formerly classified to section 1857h–6 of this title.
 #### Prior Provisions
 
 A prior section 308 of act July 14, 1955, was renumbered section 315 by Pub. L. 91–604 and is classified to section 7615 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
 

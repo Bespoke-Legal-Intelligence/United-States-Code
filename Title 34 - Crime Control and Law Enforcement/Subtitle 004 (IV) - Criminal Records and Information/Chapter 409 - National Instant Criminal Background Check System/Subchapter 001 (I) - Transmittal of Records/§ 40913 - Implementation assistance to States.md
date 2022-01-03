@@ -26,7 +26,7 @@ Grants awarded to States or Indian tribes under this section may only be used to
 
 &emsp;(6) collect and analyze data needed to demonstrate levels of State compliance with this chapter; and
 
-&emsp;(7) maintain the relief from disabilities program in accordance with section 40915 of this title, but not less than 3 percent, and no morethan 10 percent of each grant shall be used for this purpose.
+&emsp;(7) maintain the relief from disabilities program in accordance with section 40915 of this title, but not less than 3 percent, and no more than 10 percent of each grant shall be used for this purpose.
 
 #### (c) Eligibility
 
@@ -68,7 +68,7 @@ The Federal Bureau of Investigation shall not charge a user fee for background c
 
 The Attorney General shall direct the Office of Justice Programs, the Bureau of Alcohol, Tobacco, Firearms, and Explosives, and the Federal Bureau of Investigation to—
 
-&emsp;(1) assist States that are not currently eligible for grants under this section to achieve compliance with all eligibility requirements; and
+&emsp;(1) assist States that are not currently eligible for grants under this section to achievecompliance with all eligibility requirements; and
 
 &emsp;(2) provide technical assistance and training services to grantees under this section.
 

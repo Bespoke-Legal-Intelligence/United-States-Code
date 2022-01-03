@@ -4,6 +4,8 @@ If such <sup>1</sup> owner, agent, or other person shall fail to comply with hi
 
 (June 17, 1930, ch. 497, title IV, §462, 46 Stat. 718.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 As enacted by act June 17, 1930, the catchline for this section was "Same—forfeiture", as this section was intended to be read as a continuation of the provisions introduced in section 1459 of this title. When first enacted, section 1459 of this title related to arrival in the United States from a contiguous country but has since been amended by Pub. L. 99–570 to relate to arrival more generally. The uses of "such" and "the officer" in text are meant to refer back to section 1461 of this title.

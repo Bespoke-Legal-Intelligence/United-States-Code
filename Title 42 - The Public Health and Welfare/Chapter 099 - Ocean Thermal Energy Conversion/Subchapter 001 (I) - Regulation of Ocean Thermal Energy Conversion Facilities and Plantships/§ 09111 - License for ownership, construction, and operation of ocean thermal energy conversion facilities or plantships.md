@@ -20,7 +20,7 @@ The Administrator may issue a license to a citizen of the United States in accor
 
 &emsp;(2) he determines that the construction and operation of the ocean thermal energy conversion facility or plantship will not be in the national interest and consistent with national security and other national policy goals and objectives, including energy self-sufficiency and environmental quality;
 
-&emsp;(3) he determines, after consultation with the Secretary of the department in which theCoast Guard is operating, that the ocean thermal energy conversion facility or plantship will not be operated with reasonable regard to the freedom of navigation or other reasonable uses of the high seas and authorized uses of the Continental Shelf, as defined by United States law, treaty, convention, or customary international law;
+&emsp;(3) he determines, after consultation with the Secretary of the department in which the Coast Guard is operating, that the ocean thermal energy conversion facility or plantship will not be operated with reasonable regard to the freedom of navigation or other reasonable uses of the high seas and authorized uses of the Continental Shelf, as defined by United States law, treaty, convention, or customary international law;
 
 &emsp;(4) he has been informed, within 45 days after the conclusion of public hearings on that application, or on proposed licenses for the designated application area, by the Administrator of the Environmental Protection Agency that the ocean thermal energy conversion facility or plantship will not conform with all applicable provisions of any law for which he has regulatory authority;
 
@@ -66,6 +66,8 @@ Licenses issued under this chapter shall be for a term of not to exceed 25 years
 
 (Pub. L. 96–320, title I, §101, Aug. 3, 1980, 94 Stat. 976; Pub. L. 98–623, title VI, §602(a)(3)–(5), (b), (e)(8)–(11), Nov. 8, 1984, 98 Stat. 3410–3412.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 96–320, Aug. 3, 1980, 94 Stat. 974, known as the Ocean Thermal Energy Conversion Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9101 of this title and Tables.
@@ -94,9 +96,13 @@ Subsec. (c)(14). Pub. L. 98–623, §602(e)(10), substituted "if a regulation" f
 
 Subsec. (d)(2). Pub. L. 98–623, §602(e)(11), substituted "applicant, licensee" for "licensee".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### <b>Executive Documents</b>
 
 #### Territorial Sea of United States
 

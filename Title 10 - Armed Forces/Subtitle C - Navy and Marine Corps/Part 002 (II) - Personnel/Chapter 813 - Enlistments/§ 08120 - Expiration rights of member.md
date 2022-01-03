@@ -44,9 +44,13 @@ In subsection (b) the words "an increase in basic pay of 25 percent" are substit
 
 In subsection (c) the term "enlistment contract" is substituted for the term "shipping-articles" to conform to present terminology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 5540 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

@@ -76,7 +76,7 @@
 
 #### (A) Sale or transfer to consortium
 
-&emsp;&emsp;The requirements of section 3112 of the USEC Privatization Act (42 U.S.C. 2297h–10), except for the requirements of subparagraph (A) of section 3112(d)(2), shall not apply to the provision of enrichment services, or the sale or transfer of HA–LEU for commercial use by the Secretary to a member of the consortium under this subsection.
+&emsp;&emsp;The requirements of section 3112 of the USEC Privatization Act (42 U.S.C. 2297h–10), except for the requirements of subparagraph (A) of section 3112(d)(2), shall not apply to the provision of enrichment services, or the sale or transfer of HA–LEU for commercialuse by the Secretary to a member of the consortium under this subsection.
 
 #### (B) Demonstration
 
@@ -160,7 +160,7 @@
 
 &emsp;&emsp;&emsp;(i) the actions required to establish and carry out the program under subsection (a)(1) and the cost of such actions, including with respect to—
 
-&emsp;&emsp;&emsp;&emsp;(I) proposed preliminary terms for contracting between the Department and recipients of HA–LEU under the program (including guidelines defining the rolesand responsibilities between the Department and the recipient); and
+&emsp;&emsp;&emsp;&emsp;(I) proposed preliminary terms for contracting between the Department and recipients of HA–LEU under the program (including guidelines defining the roles and responsibilities between the Department and the recipient); and
 
 &emsp;&emsp;&emsp;&emsp;(II) the potential to coordinate with recipients of HA–LEU under the program regarding—
 
@@ -229,6 +229,8 @@ In this section:
 &emsp;The term "Secretary" means the Secretary of Energy.
 
 (Pub. L. 116–260, div. Z, title II, §2001, Dec. 27, 2020, 134 Stat. 2453.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

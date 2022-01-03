@@ -14,13 +14,15 @@ Automatic Federal Recognition.—An officer of the Army National Guard of the Un
 
 (c)
 
-National Guard Officers Failed of Selection.—An officer who is considered as failedof selection for promotion under section 14501 of this title to a grade may be extended Federal recognition in that grade only if the Secretary of the military department concerned finds that the officer is the only qualified officer available to fill a vacancy. The Secretary concerned may not delegate the authority under the preceding sentence.
+National Guard Officers Failed of Selection.—An officer who is considered as failed of selection for promotion under section 14501 of this title to a grade may be extended Federal recognition in that grade only if the Secretary of the military department concerned finds that the officer is the only qualified officer available to fill a vacancy. The Secretary concerned may not delegate the authority under the preceding sentence.
 
 (d)
 
 Transfer to Army Reserve or Air Force Reserve.—If, on the date on which an officer of the Army National Guard of the United States or of the Air National Guard of the United States who is on a promotion list as described in subsection (a) is to be promoted, the officer has not been promoted to fill a vacancy in the higher grade in the Army National Guard or the Air National Guard, the officer's Federal recognition in the officer's reserve grade shall be withdrawn and the officer shall be promoted and transferred to the Army Reserve or the Air Force Reserve as appropriate.
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2944.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

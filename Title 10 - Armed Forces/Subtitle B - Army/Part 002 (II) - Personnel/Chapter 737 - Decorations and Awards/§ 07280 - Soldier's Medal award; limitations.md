@@ -30,11 +30,15 @@ In subsection (a), the words "Under such rules and regulations as he may prescri
 
 In subsection (b), the words "that would otherwise justify" are substituted for the words "sufficient to".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 3750 of this title as this section.
 
 <b>1997</b>—Subsec. (a). Pub. L. 105–85 designated existing provisions as par. (1) and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

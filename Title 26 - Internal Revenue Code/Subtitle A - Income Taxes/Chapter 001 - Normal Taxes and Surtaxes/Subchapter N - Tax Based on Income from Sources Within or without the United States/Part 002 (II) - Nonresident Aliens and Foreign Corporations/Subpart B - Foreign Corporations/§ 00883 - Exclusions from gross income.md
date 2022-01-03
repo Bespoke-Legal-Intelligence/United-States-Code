@@ -52,7 +52,9 @@ The earnings derived from the ownership or operation of a communications satelli
 
 &emsp;For purposes of paragraph (1), stock owned (directly or indirectly) by or for a corporation, partnership, trust, or estate shall be treated as being owned proportionately by its shareholders, partners, or beneficiaries. Stock considered to be owned by a person by reason of the application of the preceding sentence shall, for purposes of applying such sentence, be treated as actually owned by such person.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 283; Pub. L. 90–622, §1(a), Oct. 22, 1968, 82 Stat. 1311; Pub. L. 94–164, §6(a), Dec. 23, 1975, 89 Stat. 975; Pub. L. 99–514, title XII, §1212(c)(3)–(5), Oct. 22, 1986, 100 Stat. 2538; Pub. L. 100–647, title I, §1012(e)(1), (2)(A), (5), Nov. 10, 1988, 102 Stat. 3499, 3500; Pub. L. 101–239, title VII, §7811(i)(8)(D), (10), Dec. 19, 1989, 103 Stat. 2411; Pub. L. 108–357, title IV, §419(b), Oct. 22, 2004, 118 Stat. 1513.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 283; Pub. L. 90–622, §1(a), Oct. 22, 1968, 82 Stat. 1311; Pub. L.94–164, §6(a), Dec. 23, 1975, 89 Stat. 975; Pub. L. 99–514, title XII, §1212(c)(3)–(5), Oct. 22, 1986, 100 Stat. 2538; Pub. L. 100–647, title I, §1012(e)(1), (2)(A), (5), Nov. 10, 1988, 102 Stat. 3499, 3500; Pub. L. 101–239, title VII, §7811(i)(8)(D), (10), Dec. 19, 1989, 103 Stat. 2411; Pub. L. 108–357, title IV, §419(b), Oct. 22, 2004, 118 Stat. 1513.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -87,6 +89,8 @@ Subsec. (c). Pub. L. 99–514, §1212(c)(5), added subsec. (c).
 <b>1975</b>—Subsec. (a)(3). Pub. L. 94–164 added par. (3).
 
 <b>1968</b>—Pub. L. 90–622 designated existing provisions as subsec. (a), added subsec. (a) heading, and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

@@ -48,7 +48,7 @@ The Administrator may publicly disseminate appropriate emergency preparedness in
 
 #### (h) Emergency preparedness compacts
 
-(1) The Administrator shall establish a program supporting the development of emergencypreparedness compacts for acts of terrorism, disasters, and emergencies throughout the Nation, by—
+(1) The Administrator shall establish a program supporting the development of emergency preparedness compacts for acts of terrorism, disasters, and emergencies throughout the Nation, by—
 
 &emsp;(A) identifying and cataloging existing emergency preparedness compacts for acts of terrorism, disasters, and emergencies at the State and local levels of government;
 
@@ -92,7 +92,7 @@ The Administrator may publicly disseminate appropriate emergency preparedness in
 
 (5) Financial contributions to the States for shelters and other protective facilities shall be determined by taking the amount of funds appropriated or available to the Administrator for such facilities in each fiscal year and apportioning such funds among the States in the ratio which the urban population of the critical target areas (as determined by the Administrator) in each State, at the time of the determination, bears to the total urban population of the critical target areas of all of the States.
 
-(6) The amounts authorized to be contributed by the Administrator to each State for such shelters and protective facilities shall be equally matched by such State from any source it determines is consistent with its laws and, if not matched within a reasonable time, the Administrator may reallocate such amounts to other States under the formula described in paragraph (4).<sup>1</sup> The value of any land contributed by any State or political subdivision thereof shall be excluded from the computation of the State share under this subsection.
+(6) The amounts authorized to be contributed by the Administrator to each State for such shelters and protective facilities shall be equally matched by such State from any source it determines is consistent with its laws and, if not matched within a reasonable time, the Administrator may reallocate such amounts to other States under the formula described in paragraph\(4).<sup>1</sup> The value of any land contributed by any State or political subdivision thereof shall be excluded from the computation of the State share under this subsection.
 
 (7) The amounts paid to any State under this subsection shall be expended solely in carrying out the purposes set forth herein and in accordance with State emergency preparedness programs or projects approved by the Administrator. The Administrator shall make no contribution toward the cost of any program or project for the procurement, construction, or leasing of any facility which (A) is intended for use, in whole or in part, for any purpose other than emergency preparedness, and (B) is of such kind that upon completion it will, in the judgment of the Administrator, be capable of producing sufficient revenue to provide reasonable assurance of the retirement or repayment of such cost; except that (subject to the preceding provisions of this subsection) the Administrator may make a contribution to any State toward that portion of the cost of the construction, reconstruction, or enlargement of any facility which the Administrator determines to be directly attributable to the incorporation in such facility of any feature of construction or design not necessary for the principal intended purpose thereof but which is, in the judgment of the Administrator necessary for the use of such facility for emergency preparedness purposes.
 
@@ -105,6 +105,8 @@ The Administrator may publicly disseminate appropriate emergency preparedness in
 The Administrator may arrange for the sale or disposal of materials and facilities found by the Administrator to be unnecessary or unsuitable for emergency preparedness purposes in the same manner as provided for excess property under chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41. Any funds received as proceeds from the sale or other disposition of such materials and facilities shall be deposited into the Treasury as miscellaneous receipts.
 
 (Pub. L. 93–288, title VI, §611, as added Pub. L. 103–337, div. C, title XXXIV, §3411(a)(3), Oct. 5, 1994, 108 Stat. 3102; amended Pub. L. 104–66, title II, §2071, Dec. 21, 1995, 109 Stat. 729; Pub. L. 108–458, title VII, §7406, Dec. 17, 2004, 118 Stat. 3851; Pub. L. 109–308, §3, Oct. 6, 2006, 120 Stat. 1725; Pub. L. 111–351, §3(c)(2), Jan. 4, 2011, 124 Stat. 3864.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -134,9 +136,11 @@ Subsec. (j)(2) to (9). Pub. L. 109–308, §3(2), added par. (2) and redesignate
 
 <b>1995</b>—Subsec. (i)(3) to (5). Pub. L. 104–66 redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: "The Director shall submit to Congress a report, at least quarterly, describing all property acquisitions made pursuant to this subsection."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transfer of Functions
 
-For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities ofthe Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

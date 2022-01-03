@@ -24,6 +24,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283, div. A, title XI, §1104(a)(2), Jan. 1, 2021, 134 Stat. 3890, added item 1492.
@@ -49,6 +51,8 @@ Pub. L. 106–65, div. A, title V, §578(k)(2)(A), Oct. 5, 1999, 113 Stat. 631, 
 <b>1965</b>—Pub. L. 89–150, §1(2), Aug. 28, 1965, 79 Stat. 585, struck out "; death while outside United States" from item 1485.
 
 <b>1958</b>—Pub. L. 85–861, §1(32)(B), (C), Sept. 2, 1958, 72 Stat. 1455, struck out "CARE OF THE DEAD" from chapter heading, and added items 1475 to 1480.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Meetings of Officials of the Department of Defense With Representative Groups of Survivors of Deceased Members of the Armed Forces
 

@@ -14,7 +14,7 @@ Proclamation.—The President may issue each year a proclamation calling on Unit
 
 (d)
 
-State and Local Observances.—The civil and educational authorities of States, counties,cities, and towns are urged to make plans for the proper observance of Constitution Day and Citizenship Day and for the complete instruction of citizens in their responsibilities and opportunities as citizens of the United States and of the State and locality in which they reside.
+State and Local Observances.—The civil and educational authorities of States, counties, cities, and towns are urged to make plans for the proper observance of Constitution Day and Citizenship Day and for the complete instruction of citizens in their responsibilities and opportunities as citizens of the United States and of the State and locality in which they reside.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1255; Pub. L. 108–447, div. J, title I, §111(c)(1), Dec. 8, 2004, 118 Stat. 3344.)
 

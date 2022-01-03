@@ -4,6 +4,8 @@ Bulk distilled spirits on which the internal revenue tax has not been paid or de
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1362; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, §805(b)(2), July 26, 1979, 93 Stat. 276; Pub. L. 96–598, §6(d), Dec. 24, 1980, 94 Stat. 3490; Pub. L. 115–97, title I, §13808(a), Dec. 22, 2017, 131 Stat. 2177; Pub. L. 116–94, div. Q, title I, §144(h)(1), Dec. 20, 2019, 133 Stat. 3235; Pub. L. 116–260, div. EE, title I, §106(h)(1), (2), Dec. 27, 2020, 134 Stat. 3045.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 5212, act Aug. 16, 1954, ch. 736, 68A Stat. 639, related to the prevention and detection of fraud and contained a cross reference to provisions for gauging and marking of spirits, prior to the general revision of this chapter by Pub. L. 85–859. See section 5204(b) of this title.
@@ -12,7 +14,7 @@ Provisions similar to those comprising this section were contained in prior sect
 
 #### Amendments
 
-<b>2020</b>—Pub. L. 116–260 substituted "between bonded premises belonging to the same person or members of the same controlled group (within the meaning of section 5001(c)(2))" for "and before January 1, 2021," and inserted at end "In the case of distilled spirits transferred in bond from the person who distilled or processed such distilled spirits (hereinafter referred to as 'transferor') to another person for bottling or storage of such distilled spirits, and returned to the transferorfor removal, this section shall be applied without regard to whether distilled spirits are bulk distilled spirits, but only if the transferor retains title during the entire period between such distillation, or processing, and removal."
+<b>2020</b>—Pub. L. 116–260 substituted "between bonded premises belonging to the same person or members of the same controlled group (within the meaning of section 5001(c)(2))" for "and before January 1, 2021," and inserted at end "In the case of distilled spirits transferred in bond from the person who distilled or processed such distilled spirits (hereinafter referred to as 'transferor') to another person for bottling or storage of such distilled spirits, and returned to the transferor for removal, this section shall be applied without regard to whether distilled spirits are bulk distilled spirits, but only if the transferor retains title during the entire period between such distillation, or processing, and removal."
 
 <b>2019</b>—Pub. L. 116–94 substituted "January 1, 2021" for "January 1, 2020".
 
@@ -23,6 +25,8 @@ Provisions similar to those comprising this section were contained in prior sect
 <b>1979</b>—Pub. L. 96–39 substituted "Bulk distilled spirits" for "Distilled spirits" and "bulk distilled spirits" for "distilled spirits".
 
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 

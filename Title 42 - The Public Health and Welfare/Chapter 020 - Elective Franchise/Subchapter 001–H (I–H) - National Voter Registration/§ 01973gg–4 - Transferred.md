@@ -1,5 +1,7 @@
 ### §1973gg–4. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 1973gg–4 was editorially reclassified as section 20505 of Title 52, Voting and Elections.

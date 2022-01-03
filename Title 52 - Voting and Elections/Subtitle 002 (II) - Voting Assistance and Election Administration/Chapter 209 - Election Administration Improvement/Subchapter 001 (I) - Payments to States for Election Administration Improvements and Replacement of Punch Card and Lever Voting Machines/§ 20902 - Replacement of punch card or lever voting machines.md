@@ -32,7 +32,7 @@
 
 &emsp;A State is eligible to receive a payment under the program under this section if it submits to the Administrator a notice not later than the date that is 6 months after October 29, 2002 (in such form as the Administrator may require) that contains—
 
-&emsp;&emsp;(A) certifications that the State will use the payment (either directly or as reimbursement, including as reimbursement for costs incurred on or after January 1, 2001,under multiyear contracts) to replace punch card voting systems or lever voting systems (as the case may be) in the qualifying precincts within the State by the deadline described in subsection (a)(3);
+&emsp;&emsp;(A) certifications that the State will use the payment (either directly or as reimbursement, including as reimbursement for costs incurred on or after January 1, 2001, under multiyear contracts) to replace punch card voting systems or lever voting systems (as the case may be) in the qualifying precincts within the State by the deadline described in subsection (a)(3);
 
 &emsp;&emsp;(B) certifications that the State will continue to comply with the laws described in section 21145 of this title;
 
@@ -112,5 +112,5 @@ Pub. L. 111–8, div. D, title VI, §625(b), Mar. 11, 2009, 123 Stat. 678, provi
 
 #### Effective Date of 2007 Amendment
 
-Pub. L. 110–28, title VI, §6301(b), May 25, 2007, 121 Stat. 171, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of the Help America Vote Act of 2002 \[Pub. L. 107–252, see Tables for classification\]."
+Pub. L. 110–28, title VI, §6301(b), May 25, 2007, 121 Stat. 171, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect asif included in the enactment of the Help America Vote Act of 2002 \[Pub. L. 107–252, see Tables for classification\]."
 

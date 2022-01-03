@@ -2,7 +2,7 @@
 
 #### (a) Eligibility for plan
 
-Upon the request of the borrower, a lender described in subparagraph (A), (B), or (C) of section 1078–3(a)(1) of this title, or an eligible lender as defined in section 719 of the Public Health Service Act (42 U.S.C. 292o) may, with respect to a consolidation loan made under section 1078–3 of this title (and section 1087–2(o) of this title as in effect prior to the enactment of section 1078–3of this title) and loans guaranteed under part A of title VII of the Public Health Service Act (42 U.S.C. 292 et seq.), offer a combined payment plan under which the lender shall submit one bill to the borrower for the repayment of all such loans for the monthly or other similar period of repayment.
+Upon the request of the borrower, a lender described in subparagraph (A), (B), or (C) of section 1078–3(a)(1) of this title, or an eligible lender as defined in section 719 of the Public Health Service Act (42 U.S.C. 292o) may, with respect to a consolidation loan made under section 1078–3 of this title (and section 1087–2(o) of this title as in effect prior to the enactment of section 1078–3 of this title) and loans guaranteed under part A of title VII of the Public Health Service Act (42 U.S.C. 292 et seq.), offer a combined payment plan under which the lender shall submit one bill to the borrower for the repayment of all such loans for the monthly or other similar period of repayment.
 
 #### (b) Applicability of other requirements
 
@@ -30,7 +30,7 @@ Upon selection of a lender to administer the combined payment plan, the lender m
 
 #### (f) Notes and insurance certificates
 
-(1) Each loan reissued under subsection (e) shall be evidenced by a note executed by the borrower. The Secretary of Health and Human Services shall insure such loan under a certificate of comprehensive insurance with no insurance limit, but any such certificate shall only be issued to an authorized holder of loans insured under part A of title VII of the Public Health Service Act (42 U.S.C. 292 et seq.) (including the Student Loan Marketing Association). Such certificates shall provide that all loans reissued under this section shall be fully insured against loss of principal and interest. Any insurance issued with respect to loans reissued under this section shall be excluded from the limitation on maximum insurance authority set forth in section 710 of the Public Health Service Act \[42 U.S.C. 292i\]. Notwithstanding the provisions of section 729(a) <sup>1</sup> of the Public Health Service Act, the reissued loan shall be made in an amount, including outstanding principal, capitalized interest, accrued unpaid interest not yet capitalized, and authorized late charges. The proceeds of each such loan will be paid by the lender to the holder of the original loan being reissued and the borrower's obligation to that holder on that loan shall be discharged.
+(1) Each loan reissued under subsection (e) shall be evidenced by a note executed by the borrower. The Secretary of Health and Human Services shall insure such loan under a certificate of comprehensive insurance with no insurance limit, but any such certificate shall only be issued to an authorized holder of loans insured under part A of title VII of the Public Health Service Act (42 U.S.C. 292 et seq.) (including the Student Loan Marketing Association). Such certificates shall provide that all loans reissued under this section shall be fully insured against loss of principal and interest. Any insurance issued with respect to loans reissued under this section shall be excluded from the limitation on maximum insurance authority set forth in section 710 of the Public Health Service Act \[42 U.S.C. 292i\]. Notwithstanding the provisions of section 729(a) <sup>1</sup> of the Public Health Service Act, the reissued loan shall be made in an amount, including outstanding principal, capitalized interest, accrued unpaid interest not yet capitalized, and authorized late charges. The proceeds of each such loan will be paid by the lender to the holder of the original loan being reissuedand the borrower's obligation to that holder on that loan shall be discharged.
 
 (2) Except as otherwise specifically provided for under the provisions of this section, the terms of any reissued loan shall be the same as the terms of the original loan. The maximum repayment period for a loan reissued under this section shall not exceed the remainder of the period which would have been permitted on the original loan. If the lender holds more than one loan insured under part A of title VII of the Public Health Service Act (42 U.S.C. 292 et seq.), the maximum repayment period for all such loans may extend to the latest date permitted for any individual loan. Any reissued loan may be consolidated with any other Health Education Assistance Loan as provided in the Public Health Service Act \[42 U.S.C. 201 et seq.\], and, with the concurrence of the borrower, repayment of any such loans during any period may be made in amounts that are less than the interest that accrues on such loans during that period.
 
@@ -46,7 +46,9 @@ No origination fee or insurance premium shall be charged to the borrower on any 
 
 Repayment of a combined payment plan shall commence within 60 days after the later of the date of acceptance of the lender's offer to administer a combined payment plan, the making of the consolidation loan or the reissuance of any Health Education Assistance Loans pursuant to subsection (e).
 
-(Pub. L. 89–329, title IV, §485A, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat.1484; amended Pub. L. 100–50, §15(12), June 3, 1987, 101 Stat. 357; Pub. L. 111–39, title IV, §407(b)(6), July 1, 2009, 123 Stat. 1951.)
+(Pub. L. 89–329, title IV, §485A, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1484; amended Pub. L. 100–50, §15(12), June 3, 1987, 101 Stat. 357; Pub. L. 111–39, title IV, §407(b)(6), July 1, 2009, 123 Stat. 1951.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -67,6 +69,8 @@ Subsec. (f)(1). Pub. L. 111–39, §407(b)(6)(D)(i), substituted "part A of titl
 Subsec. (f)(2). Pub. L. 111–39, §407(b)(6)(D)(ii), substituted "part A of title VII of the Public Health Service Act (42 U.S.C. 292 et seq.)" for "subpart I of part C of title VII of the Public Health Service Act".
 
 <b>1987</b>—Subsec. (a). Pub. L. 100–50 substituted "subparagraph (A), (B), or (C)" for "clause (i), (ii), or (iii)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

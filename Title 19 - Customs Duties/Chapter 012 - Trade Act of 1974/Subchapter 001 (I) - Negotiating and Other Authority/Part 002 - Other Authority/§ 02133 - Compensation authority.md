@@ -18,7 +18,7 @@ Whenever—
 
 (1) No proclamation shall be made pursuant to subsection (a) decreasing any rate of duty to a rate which is less than 70 percent of the existing rate of duty.
 
-(2) Where the rate of duty in effect at any time is an intermediate stage under section 2902(a) of this title, the proclamation made pursuant to subsection (a) may provide for the reduction of each rate of duty at each such stage proclaimed under such section 2902(a) of this title by not more than 30 percent of such rate of duty, and may provide for a final rate of duty which is not less than 70 percent of the rate of duty proclaimed as the final stage under such section 2902(a) of this title.
+(2) Where the rate of duty in effect at any time is an intermediate stage under section 2902(a) of this title, the proclamation made pursuant to subsection (a) may provide for the reduction of each rate of duty at each such stage proclaimed under such section 2902(a) of this title by not more than 30 percent of such rate of duty, andmay provide for a final rate of duty which is not less than 70 percent of the rate of duty proclaimed as the final stage under such section 2902(a) of this title.
 
 (3) If the President determines that such action will simplify the computation of the amount of duty imposed with respect to an article, he may exceed the limitations provided by paragraphs (1) and (2) of this subsection by not more than the lesser of—
 
@@ -42,6 +42,8 @@ The provisions of this section shall apply by reason of action taken under subch
 
 (Pub. L. 93–618, title I, §123, Jan. 3, 1975, 88 Stat. 1989; Pub. L. 100–418, title I, §§1104, 1401(b)(1)(A), Aug. 23, 1988, 102 Stat. 1132, 1239; Pub. L. 106–286, div. A, title I, §104, Oct. 10, 2000, 114 Stat. 891.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Subsec. (a)(1). Pub. L. 106–286 inserted ", or under part 2 of subchapter IV of this chapter" after "subchapter III of this chapter".
@@ -59,6 +61,8 @@ Subsec. (b)(4). Pub. L. 100–418, §1401(b)(1)(A), substituted "action under se
 Subsec. (d). Pub. L. 100–418, §1104(3), substituted "section 2902" for "section 2111".
 
 Subsec. (e). Pub. L. 100–418, §1104(4), added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Abusive practices
 
-There is abundant evidence of the use of abusive, deceptive, and unfair debt collection practices by many debt collectors. Abusive debt collection practices contribute to the number of personal bankruptcies, to marital instability, tothe loss of jobs, and to invasions of individual privacy.
+There is abundant evidence of the use of abusive, deceptive, and unfair debt collection practices by many debt collectors. Abusive debt collection practices contribute to the number of personal bankruptcies, to marital instability, to the loss of jobs, and to invasions of individual privacy.
 
 #### (b) Inadequacy of laws
 
@@ -21,6 +21,8 @@ Abusive debt collection practices are carried on to a substantial extent in inte
 It is the purpose of this subchapter to eliminate abusive debt collection practices by debt collectors, to insure that those debt collectors who refrain from using abusive debt collection practices are not competitively disadvantaged, and to promote consistent State action to protect consumers against debt collection abuses.
 
 (Pub. L. 90–321, title VIII, §802, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 874.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

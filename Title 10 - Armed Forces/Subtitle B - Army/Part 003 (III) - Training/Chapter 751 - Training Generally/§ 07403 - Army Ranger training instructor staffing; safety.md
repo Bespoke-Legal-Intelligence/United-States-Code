@@ -14,9 +14,13 @@ Training Safety Cells.—(1) The Secretary of the Army shall establish and maint
 
 (Added Pub. L. 104–106, div. A, title V, §562(a)(1), Feb. 10, 1996, 110 Stat. 323, §4303; renumbered §7403, Pub. L. 115–232, div. A, title VIII, §808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4303 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 
@@ -24,5 +28,5 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Accomplishment of Required Manning Levels; GAO Assessment
 
-Pub. L. 104–106, div. A, title V, §562(b), (c), Feb. 10, 1996, 110 Stat. 324, provided that if on Feb. 10, 1996, the number of officers, and the number of enlisted members, permanently assigned to the Army Ranger Training Brigade were not each at (or above) the requirement specified in this section, the Secretary of the Army was to take such steps as necessary to accomplish that requirement within 12 months and submit to Congress within 90 days a plan to achieve and maintain that requirement, and the Comptroller General was to submit to Congress by one year after Feb. 10, 1996, apreliminary assessment of the implementation and effectiveness of all corrective actions taken by the Army as a result of the February 1995 accident at the Florida Ranger Training Camp, including an evaluation of the implementation of the required manning levels established by this section, with a final assessment due 2 years after the required manning levels referred to in paragraph (1) are first attained.
+Pub. L. 104–106, div. A, title V, §562(b), (c), Feb. 10, 1996, 110 Stat. 324, provided that if on Feb. 10, 1996, the number of officers, and the number of enlisted members, permanently assigned to the Army Ranger Training Brigade were not each at (or above) the requirement specified in this section, the Secretary of the Army was to take such steps as necessary to accomplish that requirement within 12 months and submit to Congress within 90 days a plan to achieve and maintain that requirement, and the Comptroller General was to submit to Congress by one year after Feb. 10, 1996, a preliminary assessment of the implementation and effectiveness of all corrective actions taken by the Army as a result of the February 1995 accident at the Florida Ranger Training Camp, including an evaluation of the implementation of the required manning levels established by this section, with a final assessment due 2 years after the required manning levels referred to in paragraph (1) are first attained.
 

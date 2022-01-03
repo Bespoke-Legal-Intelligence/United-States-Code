@@ -4,11 +4,13 @@ In the performance of, and with respect to, the functions, powers, and duties ve
 
 &emsp;(1) have the functions, powers, and duties (including the authority to issue rules and regulations) set forth in section 1749a,<sup>1</sup> except subsections (c)(2), (c)(4), (d), and (f), of title 12: <i>Provided</i>, That subsection (a)(1) of section 1749a <sup>1</sup> of title 12 shall not apply with respect to functions, powers, and duties under section 4520 <sup>1</sup> of this title;
 
-&emsp;(2) have the power, notwithstanding any other provision of law, in connection with any assistance under this part, whether before or after any default, to provide by contract for the extinguishment upon default of any redemption, equitable, legal, or other right, title, or interest of the private new community developer or State land development agency in any mortgage, deed, trust, or other instrument held by or on behalf of the Secretary for the protection of the security interests of the United States; and
+&emsp;(2) have the power, notwithstanding any other provision of law, in connection with any assistance under this part, whether before or after any default, to provide by contract for the extinguishment upon default of any redemption, equitable, legal, or other right,title, or interest of the private new community developer or State land development agency in any mortgage, deed, trust, or other instrument held by or on behalf of the Secretary for the protection of the security interests of the United States; and
 
 &emsp;(3) have the power to foreclose on any property or commence any action to protect or enforce any right conferred upon him by law, contract, or other agreement, and bid for and purchase at any foreclosure or other sale any property in connection with which he has provided assistance pursuant to this part. In the event of any such acquisition, the Secretary may, notwithstanding any other provision of law relating to the acquisition, handling, or disposal of real property by the United States, complete, administer, remodel and convert, dispose of, lease, and otherwise deal with, such property. Notwithstanding any other provision of law, the Secretary shall also have power to pursue to final collection by way of compromise or otherwise all claims acquired by him in connection with any security, subrogation, or other rights obtained by him in administering this part.
 
 (Pub. L. 91–609, title VII, §726, Dec. 31, 1970, 84 Stat. 1801.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

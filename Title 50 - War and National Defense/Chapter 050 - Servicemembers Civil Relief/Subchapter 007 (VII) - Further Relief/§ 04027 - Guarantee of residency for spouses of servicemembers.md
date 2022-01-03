@@ -2,9 +2,17 @@
 
 For the purposes of establishing the residency of a spouse of a servicemember for any purpose (including the registration of a business), the spouse of a servicemember may elect to use the same residence as the servicemember regardless of the date on which the marriage of the spouse and the servicemember occurred.
 
-(Oct. 17, 1940, ch. 888, title VII, §707, as added Pub. L. 116–92, div. A, title XVII, §1739(a), Dec. 20, 2019, 133 Stat. 1820.)
+(Oct. 17, 1940, ch. 888, title VII, §707, as added Pub. L. 116–92, div. A, title XVII, §1739(a), Dec. 20, 2019, 133 Stat. 1820; amended Pub. L. 117–81, div. A, title X, §1081(c), Dec. 27, 2021, 135 Stat. 1922.)
 
-#### Codification
+#### <b>Editorial Notes</b>
 
-Section 1739(a) of Pub. L. 116–92, which directed amendment of title VI of the Servicemembers Civil Relief Act by adding this section at the end, was executed by adding this section at the end of title VII of the Act, to reflect the probable intent of Congress.
+#### Amendments
+
+<b>2021</b>—Pub. L. 117–81 made technical amendment to directory language of Pub. L. 116–92, §1739(a).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of of 2021 Amendment
+
+Pub. L. 117–81, div. A, title X, §1081(c), Dec. 27, 2021, 135 Stat. 1922, provided that the amendment made by section 1081(c) is effective Dec. 20, 2019.
 

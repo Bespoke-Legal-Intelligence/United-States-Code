@@ -14,7 +14,7 @@ Plans required under subsection (a) of this section for any water or related lan
 
 #### (c) Contracts for construction outside United States; competitive basis
 
-To the maximum extent practicable, all contracts for construction outside the UnitedStates made in connection with any agreement or grant subject to subsection (a) of this section shall be made on a competitive basis.
+To the maximum extent practicable, all contracts for construction outside the United States made in connection with any agreement or grant subject to subsection (a) of this section shall be made on a competitive basis.
 
 #### (d) Engineering, financial, and other plans
 
@@ -56,7 +56,7 @@ Subsec. (e). Pub. L. 95–424, §102(g)(2)(E), substituted "part I of subchapter
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 
-References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
+References to subchapter I of this chapter are deemed to include parts IV (§2346 et seq.), VI (§2348 et seq.), andVIII (§2349aa et seq.) of subchapter II of this chapter, and references to subchapter II are deemed to exclude such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 
 #### References to Part I Deemed To Include Section 2293
 

@@ -16,7 +16,7 @@ Within one year after October 8, 2010, the Commission shall establish regulation
 
 #### (A) In general
 
-&emsp;&emsp;Any person alleging a violation of section 255, 617, or 619 of this title by a manufacturer of equipment or provider of service subjectto such sections may file a formal or informal complaint with the Commission.
+&emsp;&emsp;Any person alleging a violation of section 255, 617, or 619 of this title by a manufacturer of equipment or provider of service subject to such sections may file a formal or informal complaint with the Commission.
 
 #### (B) Investigation of informal complaint
 

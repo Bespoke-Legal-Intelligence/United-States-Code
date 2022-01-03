@@ -76,6 +76,8 @@ In subsection (b), the word "accrues" is substituted for the words "shall be pai
 
 In subsection (c), the words "not less than $5" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Subsec. (b). Pub. L. 102–190, §639(a), substituted ", the Persian Gulf conflict, or a contingency operation" for "or during the Persian Gulf conflict" before period at end of second sentence and struck out at end "For purposes of this subsection, the Vietnam conflict begins on February 28, 1961, and ends on May 7, 1975, and the Persian Gulf conflict begins on January 16, 1991, and ends on the date thereafter prescribed by Presidential proclamation or by law."
@@ -106,6 +108,8 @@ Subsec. (c). Pub. L. 89–538 substituted provisions that, unless changed by joi
 
 Subsec. (d). Pub. L. 89–538 reenacted subsec. (d) substantially without change.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1967 Amendment
 
 Pub. L. 90–122, §2, Nov. 3, 1967, 81 Stat. 361, provided that: "This Act \[amending this section\] becomes effective as of September 1, 1966."
@@ -116,7 +120,7 @@ Pub. L. 101–510, div. A, title XI, §1114, Nov. 5, 1990, 104 Stat. 1636, as am
 
 #### Adjustment of Deposit Accounts of Certain Enlisted Men
 
-Pub. L. 89–738, Nov. 2, 1966, 80 Stat. 1165, provided: "That the Secretary of a military department or his designee, shall adjust the deposit account of any enlisted member or former enlisted member of the Army, Navy, Air Force, or Marine Corps, as the case may be, who, after July 14, 1954, and before the effective date ofthis Act \[Nov. 2, 1966\], upon discharge and immediate reenlistment or retirement and immediate recall to active duty, continued, without withdrawal and redeposit, his account for deposits made under section 1035 of title 10, United States Code, or prior laws authorizing enlisted members' deposits, to show that his deposits and interest accrued thereon were withdrawn and redeposited on the date of such reenlistment or recall to active duty.
+Pub. L. 89–738, Nov. 2, 1966, 80 Stat. 1165, provided: "That the Secretary of a military department or his designee, shall adjust the deposit account of any enlisted member or former enlisted member of the Army, Navy, Air Force, or Marine Corps, as the case may be, who, after July 14, 1954, and before the effective date of this Act \[Nov. 2, 1966\], upon discharge and immediate reenlistment or retirement and immediate recall to active duty, continued, without withdrawal and redeposit, his account for deposits made under section 1035 of title 10, United States Code, or prior laws authorizing enlisted members' deposits, to show that his deposits and interest accrued thereon were withdrawn and redeposited on the date of such reenlistment or recall to active duty.
 
 "
 
@@ -145,6 +149,8 @@ Authority vested by this section in "the Secretary concerned" to be exercised wi
 #### National Oceanic and Atmospheric Administration
 
 Authority vested by this chapter in "the Secretary concerned" to be exercised, with respect to commissioned officer corps of the National Oceanic and Atmospheric Administration, by Secretary of Commerce or Secretary's designee, see section 3071 of Title 33, Navigation and Navigable Waters.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 11298. Interest Rate
 

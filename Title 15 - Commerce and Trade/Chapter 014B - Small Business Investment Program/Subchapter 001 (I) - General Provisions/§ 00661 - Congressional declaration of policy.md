@@ -1,10 +1,12 @@
 ### §661. Congressional declaration of policy
 
-It is declared to be the policy of the Congress and the purpose of this chapter to improve and stimulate the national economy in general and the small-business segment thereof in particular by establishing a program to stimulate and supplement the flow of private equity capital and long-term loan funds which small-business concerns need for the sound financing of their business operations and for their growth, expansion, and modernization, and which are not available in adequate supply: <i>Provided, however</i>, That this policy shall be carried out in such manner as to insure the maximum participation of private financing sources.
+It is declared to be the policy of the Congress and the purpose of this chapter to improve and stimulate the national economy in general and the small-business segment thereof in particular by establishing a program to stimulate and supplement the flow of private equity capital and long-term loan funds which small-business concerns need for the sound financing of their business operations and for their growth, expansion, and modernization, and which are not availablein adequate supply: <i>Provided, however</i>, That this policy shall be carried out in such manner as to insure the maximum participation of private financing sources.
 
 It is the intention of the Congress that the provisions of this chapter shall be so administered that any financial assistance provided hereunder shall not result in a substantial increase of unemployment in any area of the country. It is the intention of the Congress that in the award of financial assistance under this chapter, when practicable, priority be accorded to small business concerns which lease or purchase equipment and supplies which are produced in the United States and that small business concerns receiving such assistance be encouraged to continue to lease or purchase such equipment and supplies.
 
 (Pub. L. 85–699, title I, §102, Aug. 21, 1958, 72 Stat. 689; Pub. L. 102–366, title IV, §416, Sept. 4, 1992, 106 Stat. 1019.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -13,6 +15,8 @@ This chapter, referred to in text, was in the original "this Act", meaning Pub. 
 #### Amendments
 
 <b>1992</b>—Pub. L. 102–366 inserted at end "It is the intention of the Congress that in the award of financial assistance under this chapter, when practicable, priority be accorded to small business concerns which lease or purchase equipment and supplies which are produced in the United States and that small business concerns receiving such assistance be encouraged to continue to lease or purchase such equipment and supplies."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2018 Amendment
 
@@ -64,7 +68,7 @@ Pub. L. 90–104, title II, §201, Oct. 11, 1967, 81 Stat. 269, provided that: "
 
 #### Short Title of 1966 Amendment
 
-Pub. L. 89–779, §1, Nov. 6, 1966, 80 Stat. 1359, provided: "That this Act \[enacting sections 687e, 687f, 687g, and 687h of this title and amending sections 633, 671, 687, 687a, 687b, and 687c of this title, and sections 5315 and 5316 of Title 5, Government Organization and Employees\] may be cited as the 'Small Business Investment Act Amendments of 1966'."
+Pub. L. 89–779, §1, Nov. 6, 1966, 80 Stat. 1359, provided: "That this Act \[enacting sections 687e, 687f, 687g, and687h of this title and amending sections 633, 671, 687, 687a, 687b, and 687c of this title, and sections 5315 and 5316 of Title 5, Government Organization and Employees\] may be cited as the 'Small Business Investment Act Amendments of 1966'."
 
 #### Short Title of 1964 Amendment
 
@@ -80,7 +84,7 @@ Pub. L. 86–502, §1, June 11, 1960, 74 Stat. 196, provided: "That this Act \[a
 
 #### Short Title
 
-Pub. L. 85–699, title I, §101, Aug. 21, 1958, 72 Stat. 689, as amended by Pub. L. 106–9, §2(d)(3), Apr. 5, 1999, 113Stat. 18, provided that: "This Act \[enacting this chapter, amending sections 77c, 77ddd, 80a–18, 633 and 636 of this title, and sections 217 \[now 212\], 218 \[now 213\], 221 \[now 216\], 657, 1006 and 1014 of Title 18, Crimes and Criminal Procedure, repealing section 352a of Title 12, Banks and Banking, and enacting notes set out under this section and former section 352a of title 12\] may be cited as the 'Small Business Investment Act of 1958'."
+Pub. L. 85–699, title I, §101, Aug. 21, 1958, 72 Stat. 689, as amended by Pub. L. 106–9, §2(d)(3), Apr. 5, 1999, 113 Stat. 18, provided that: "This Act \[enacting this chapter, amending sections 77c, 77ddd, 80a–18, 633 and 636 of this title, and sections 217 \[now 212\], 218 \[now 213\], 221 \[now 216\], 657, 1006 and 1014 of Title 18, Crimes and Criminal Procedure, repealing section 352a of Title 12, Banks and Banking, and enacting notes set out under this section and former section 352a of title 12\] may be cited as the 'Small Business Investment Act of 1958'."
 
 #### Regulations
 

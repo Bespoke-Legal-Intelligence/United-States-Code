@@ -4,11 +4,15 @@ To protect and administer more effectively the publicly owned lands within certa
 
 (June 22, 1948, ch. 593, §1, 62 Stat. 568; Pub. L. 87–351, Oct. 4, 1961, 75 Stat. 772.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1961</b>—Pub. L. 87–351 removed the restriction on condemnation of contiguous tracts of land in one ownership, not exceeding five hundred acres in the aggregate, if the lands were encumbered with structures of a permanent type suitable for human occupancy and if the owners thereof filed written objections before expiration of the time for answering the petition in the proceedings.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title
 
-The act of June 22, 1948, ch. 593, 62 Stat. 568, as amended, which is classified to sections 577c, 577d, and 577e to 577h of this title, is popularly known as the "Thye-Blatnik Act".
+The act of June 22, 1948, ch. 593, 62 Stat. 568, as amended, which is classified to sections 577c, 577d, and577e to 577h of this title, is popularly known as the "Thye-Blatnik Act".
 

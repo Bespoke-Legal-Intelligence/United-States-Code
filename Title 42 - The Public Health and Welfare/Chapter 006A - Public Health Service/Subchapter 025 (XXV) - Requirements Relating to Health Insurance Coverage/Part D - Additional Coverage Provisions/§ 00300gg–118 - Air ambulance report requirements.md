@@ -28,9 +28,13 @@ For purposes of subsection (a), information described in this subsection, with r
 
 (July 1, 1944, ch. 373, title XXVII, §2799A–8, as added Pub. L. 116–260, div. BB, title I, §106(b)(1), Dec. 27, 2020, 134 Stat. 2852.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 106(d) of the No Surprises Act, referred to in subsec. (a)(1), is section 106(d) of div. BB of Pub. L. 116–260, which is set out as a note below.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Reporting Requirements Regarding Air Ambulance Services
 
@@ -112,7 +116,7 @@ Publication of Comprehensive Report.—
 
 &emsp;"(1)
 
-In general.—Not later than the date that is one year after the date described in subsection (a)(2) of section 2799A–8 of the Public Health Service Act \[42 U.S.C. 300gg–118\], of section 723 of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1185l\], and of section 9823 of the Internal Revenue Code of 1986 \[26 U.S.C. 9823\], as such sections are added by subsection (b), the Secretary of Health and Human Services, in consultation with the Secretary of Transportation (referred to in this section as the 'Secretaries'), shall develop, and make publicly available (subject to paragraph (3)), a comprehensive report summarizing the information submitted under subsection (a) and the amendments made by subsection (b) and including each of the following:
+In general.—Not later than the date that is one year after the date described in subsection (a)(2) of section 2799A–8 of the Public Health Service Act \[42 U.S.C. 300gg–118\], of section 723 of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1185l\], and of section 9823 of the Internal Revenue Code of 1986 \[26 U.S.C. 9823\], as such sections are added bysubsection (b), the Secretary of Health and Human Services, in consultation with the Secretary of Transportation (referred to in this section as the 'Secretaries'), shall develop, and make publicly available (subject to paragraph (3)), a comprehensive report summarizing the information submitted under subsection (a) and the amendments made by subsection (b) and including each of the following:
 
 &emsp;&emsp;"(A) The percentage of providers of air ambulance services that are part of a hospital-owned or sponsored program, municipality-sponsored program, hospital-independent partnership (hybrid) program, or independent program.
 
@@ -120,7 +124,7 @@ In general.—Not later than the date that is one year after the date described 
 
 &emsp;&emsp;"(C) An assessment of the average charges for air ambulance services, amounts paid by group health plans and health insurance issuers offering group or individual health insurance coverage to providers of air ambulance services for furnishing such services, and amounts paid out-of-pocket by consumers, and any changes in such amounts paid over time.
 
-&emsp;&emsp;"(D) An assessment of the presence of air ambulance bases in, or with the capability to serve, ruralareas, and the relative growth in air ambulance bases in rural and urban areas over time.
+&emsp;&emsp;"(D) An assessment of the presence of air ambulance bases in, or with the capability to serve, rural areas, and the relative growth in air ambulance bases in rural and urban areas over time.
 
 &emsp;&emsp;"(E) Any evidence of gaps in rural access to providers of air ambulance services.
 
@@ -198,7 +202,7 @@ Membership.—The Committee shall be composed of the following members:
 
 &emsp;&emsp;"(D) Three representatives of the air ambulance industry, to be appointed by the Secretary of Transportation.
 
-&emsp;&emsp;"(E) Additional three representatives not covered under subparagraphs (A) through (D), as determined necessary and appropriate by the Secretary of Health and Human Services and Secretary of Transportation.
+&emsp;&emsp;"(E) Additional three representatives not covered under subparagraphs (A) through (D), as determinednecessary and appropriate by the Secretary of Health and Human Services and Secretary of Transportation.
 
 &emsp;"(3)
 
@@ -220,7 +224,7 @@ Duties.—The Committee shall study and make recommendations, as appropriate, to
 
 &emsp;"(5)
 
-Report.—Not later than the date that is 180 days after the date of the first meeting of the Committee, the Committee, in consultation with relevantexperts and stakeholders, as appropriate, shall develop and make publicly available a report on any recommendations submitted to Congress under paragraph (4). The Committee may update such report, as determined appropriate by the Committee.
+Report.—Not later than the date that is 180 days after the date of the first meeting of the Committee, the Committee, in consultation with relevant experts and stakeholders, as appropriate, shall develop and make publicly available a report on any recommendations submitted to Congress under paragraph (4). The Committee may update such report, as determined appropriate by the Committee.
 
 "(h)
 

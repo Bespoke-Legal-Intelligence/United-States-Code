@@ -2,7 +2,9 @@
 
 Under such regulations as the Secretary of Defense may prescribe, the Secretary may expend, from appropriations available for operation and maintenance, amounts necessary to carry out any project authorized under section 18233(a) of this title that costs not more than the amount specified in section 2805(c) of this title.
 
-(Added Pub. L. 108–375, div. B, title XXVIII, §2808(b), Oct. 28, 2004, 118 Stat. 2125; amendedPub. L. 112–81, div. B, title XXVIII, §2802(c)(4), Dec. 31, 2011, 125 Stat. 1685.)
+(Added Pub. L. 108–375, div. B, title XXVIII, §2808(b), Oct. 28, 2004, 118 Stat. 2125; amended Pub. L. 112–81, div. B, title XXVIII, §2802(c)(4), Dec. 31, 2011, 125 Stat. 1685.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

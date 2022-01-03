@@ -16,7 +16,7 @@ Discretion to provide exception to termination and repayment requirements.—Pur
 
 Special rule for deceased and disabled members.—(A) If a member of the uniformed services dies or is retired or separated with a combat-related disability, the Secretary concerned—
 
-&emsp;&emsp;(i) shall not require repayment by the member or the member's estate of the unearned portion of any bonus, incentive pay, or similar benefit previously paid to the member; and
+&emsp;&emsp;(i) shall not require repayment by the member or the member's estate of the unearned portion of any bonus, incentive pay,or similar benefit previously paid to the member; and
 
 &emsp;&emsp;(ii) shall require the payment to the member or the member's estate of the remainder of any bonus, incentive pay, or similar benefit that was not yet paid to the member, but to which the member was entitled immediately before the death, retirement, or separation of the member, and would be paid if not for the death, retirement, or separation of the member.
 

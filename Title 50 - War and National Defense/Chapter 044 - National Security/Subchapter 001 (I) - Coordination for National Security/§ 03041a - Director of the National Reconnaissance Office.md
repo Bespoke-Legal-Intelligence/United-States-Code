@@ -32,7 +32,7 @@ The Director of the National Reconnaissance Office shall be the head of the Nati
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Board shall be composed of five members appointed by the Director fromamong individuals with demonstrated academic, government, business, or other expertise relevant to the mission and functions of the National Reconnaissance Office.
+&emsp;&emsp;&emsp;The Board shall be composed of five members appointed by the Director from among individuals with demonstrated academic, government, business, or other expertise relevant to the mission and functions of the National Reconnaissance Office.
 
 #### (ii) Notification
 
@@ -76,6 +76,8 @@ The Director of the National Reconnaissance Office shall be the head of the Nati
 
 (July 26, 1947, ch. 343, title I, §106A, as added Pub. L. 113–126, title IV, §411(a), July 7, 2014, 128 Stat. 1409; amended Pub. L. 116–92, div. E, title LXIV, §6433(a), Dec. 20, 2019, 133 Stat. 2200.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (c), was in the original "this Act", meaning act July 26, 1947, ch. 343, 61 Stat. 495, known as the National Security Act of 1947, which is classified principally to this chapter. For complete classification of this Act to the Code, see Tables.
@@ -85,6 +87,8 @@ The Federal Advisory Committee Act, referred to in subsec. (d)(6), is Pub. L. 92
 #### Amendments
 
 <b>2019</b>—Subsec. (d). Pub. L. 116–92 added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

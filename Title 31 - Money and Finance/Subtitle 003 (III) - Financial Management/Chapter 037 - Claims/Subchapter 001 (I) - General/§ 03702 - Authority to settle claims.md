@@ -38,7 +38,7 @@ One-Year Limit for Check Claims.—(1) Any claim on account of a Treasury check 
 
 (3) This subsection does not apply to a claim in excess of $25,000.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 970; Pub. L. 97–452, §1(14), Jan. 12, 1983, 96 Stat. 2470; Pub. L. 100–86, title X, §1004(b), Aug. 10, 1987, 101 Stat. 659; Pub. L. 104–201, div. A, title VI, §608, Sept. 23, 1996, 110 Stat. 2542; Pub. L. 104–316, title II, §202(n)(1), Oct. 19, 1996, 110 Stat. 3843; Pub. L. 105–85, div. A, title X, §1012, Nov. 18, 1997, 111Stat. 1874; Pub. L. 106–398, §1 \[\[div. A\], title VI, §664\], Oct. 30, 2000, 114 Stat. 1654, 1654A–168; Pub. L. 107–314, div. A, title VI, §635(a), (b), Dec. 2, 2002, 116 Stat. 2574; Pub. L. 109–163, div. A, title X, §1056(e)(2), Jan. 6, 2006, 119 Stat. 3440.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 970; Pub. L. 97–452, §1(14), Jan. 12, 1983, 96 Stat. 2470; Pub. L. 100–86, title X, §1004(b), Aug. 10, 1987, 101 Stat. 659; Pub. L. 104–201, div. A, title VI, §608, Sept. 23, 1996, 110 Stat. 2542; Pub. L. 104–316, title II, §202(n)(1), Oct. 19, 1996, 110 Stat. 3843; Pub. L. 105–85, div. A, title X, §1012, Nov. 18, 1997, 111 Stat. 1874; Pub. L. 106–398, §1 \[\[div. A\], title VI, §664\], Oct. 30, 2000, 114 Stat. 1654, 1654A–168; Pub. L. 107–314, div. A, title VI, §635(a), (b), Dec. 2, 2002, 116 Stat. 2574; Pub. L. 109–163, div. A, title X, §1056(e)(2), Jan. 6, 2006, 119 Stat. 3440.)
 
 Historical and Revision Notes<br>1982
 

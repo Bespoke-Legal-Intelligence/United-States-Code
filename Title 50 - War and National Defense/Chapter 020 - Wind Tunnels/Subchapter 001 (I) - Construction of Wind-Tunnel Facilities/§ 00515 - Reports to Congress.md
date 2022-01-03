@@ -4,11 +4,15 @@ The Administrator shall submit semi-annual written reports to the Congress cover
 
 (Oct. 27, 1949, ch. 766, title I, §105, 63 Stat. 937; Pub. L. 85–568, title III, §301(d)(2), July 29, 1958, 72 Stat. 433.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1958</b>—Pub. L. 85–568 substituted "Administrator" for "Committee" and "Administrator's" for "Committee's".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1958 Amendment
 
-Amendment by Pub. L. 85–568 effective 90 days after July 29, 1958, or on any earlier date on which the Administrator of the National Aeronautics and Space Administration determines, and announces by proclamation, that the Administration has been organized and is prepared to discharge the duties and exercise the powers conferred upon it, see section 301(e) of Pub. L. 85–568, set out as a note under section 2302 of Title 10, Armed Forces.
+Amendment by Pub. L. 85–568 effective 90 days after July 29, 1958, or on any earlier date on which the Administrator of the National Aeronautics and Space Administration determines, and announces by proclamation, that the Administration has been organized and is prepared to discharge the duties and exercise the powers conferred upon it, see section 301(e) of Pub. L. 85–568, set out as a note under section 511 of this title.
 

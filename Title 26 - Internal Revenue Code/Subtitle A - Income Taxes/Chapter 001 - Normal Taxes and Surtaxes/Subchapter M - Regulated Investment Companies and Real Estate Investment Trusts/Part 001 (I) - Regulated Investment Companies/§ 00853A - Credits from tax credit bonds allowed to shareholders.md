@@ -72,6 +72,8 @@ The Secretary shall prescribe such regulations or other guidance as may be neces
 
 (Added Pub. L. 111–5, div. B, title I, §1541(a), Feb. 17, 2009, 123 Stat. 360; amended Pub. L. 111–325, title III, §301(d), Dec. 22, 2010, 124 Stat. 3544; Pub. L. 113–295, div. A, title II, §209(h), Dec. 19, 2014, 128 Stat. 4029.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 54, 54A, and 54AA, referred to in subsecs. (a) and (e)(1), were repealed by Pub. L. 115–97, title I, §13404(a), Dec. 22, 2017, 131 Stat. 2138.
@@ -103,6 +105,8 @@ Subsec. (e)(1)(A)(ii). Pub. L. 113–295, §209(h)(5), inserted "other than a qu
 <b>2010</b>—Subsec. (c). Pub. L. 111–325, §301(d)(1), which directed substitution of "Statements" for "Notice" in heading and "so reported by the regulated investment company in a written statement furnished to such shareholder" for "so designated by the regulated investment company in a written notice mailed to its shareholders not later than 60 days after the close of its taxable year" in text, could not be executed to the text because the words "so reported by the regulated investment company in a written statement furnished to such shareholder" already appeared after the subsequent general amendment of subsec. (c) by Pub. L. 113–295 which was effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009 (Pub. L. 111–5, div. B, title I) to which it relates. However, the substitution was executed to the heading to reflect the probable intent of Congress. See 2014 Amendment note above and Effective Date of 2014 Amendment note below.
 
 Subsec. (d). Pub. L. 111–325, §301(d)(2), struck out "and notifying shareholders" after "election" in heading and "and the notice to shareholders required by subsection (c)" after "subsection (a)" in text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

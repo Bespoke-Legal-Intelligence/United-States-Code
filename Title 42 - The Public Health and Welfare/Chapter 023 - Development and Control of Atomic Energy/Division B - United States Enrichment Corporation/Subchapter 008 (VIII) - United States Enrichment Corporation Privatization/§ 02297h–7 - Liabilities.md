@@ -16,7 +16,7 @@
 
 #### (b) Liability of Corporation
 
-Notwithstanding any provision of any agreement to which the Corporation is a party, the Corporation shall not be considered in breach, default, or violation of any agreement because of the transfer of such agreement to the privatecorporation under section 2297h–6 of this title or any other action the Corporation is required to take under this subchapter.
+Notwithstanding any provision of any agreement to which the Corporation is a party, the Corporation shall not be considered in breach, default, or violation of any agreement because of the transfer of such agreement to the private corporation under section 2297h–6 of this title or any other action the Corporation is required to take under this subchapter.
 
 #### (c) Liability of private corporation
 
@@ -29,6 +29,8 @@ Except as provided in this subchapter, the private corporation shall be liable f
 (2) This subsection shall not apply to claims arising under the Securities Act of 1933 (15 U.S.C. 77a et seq.), the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), or under the Constitution or laws of any State, territory, or possession of the United States relating to transactions in securities.
 
 (Pub. L. 104–134, title III, §3109, Apr. 26, 1996, 110 Stat. 1321–339.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -18,6 +18,8 @@ Deductions from retired pay or CRSC not to be refunded.—Any deduction made fro
 
 (Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 708; amended Pub. L. 95–397, title II, §207(a), Sept. 30, 1978, 92 Stat. 848; Pub. L. 101–189, div. A, title XIV, §1407(a)(3), title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1588, 1602; Pub. L. 104–201, div. A, title VI, §634, Sept. 23, 1996, 110 Stat. 2560; Pub. L. 114–328, div. A, title VI, §643(c)(1), Dec. 23, 2016, 130 Stat. 2166.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Subsec. (b)(2). Pub. L. 114–328 inserted "or CRSC" after "retired pay" in heading and "or combat-related special compensation" after "from retired pay" in text.
@@ -27,6 +29,8 @@ Deductions from retired pay or CRSC not to be refunded.—Any deduction made fro
 <b>1989</b>—Pub. L. 101–189 substituted "Department of Veterans Affairs" for "Veterans' Administration" and struck out "or retainer" after "made from retired".
 
 <b>1978</b>—Pub. L. 95–397 substituted "subsection (a)(2) or (b)" for "the first sentence of subsection (a), or subsection (b)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

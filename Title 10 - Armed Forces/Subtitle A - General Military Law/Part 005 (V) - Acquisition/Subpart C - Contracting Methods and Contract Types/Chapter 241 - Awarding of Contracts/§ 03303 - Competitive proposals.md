@@ -4,7 +4,7 @@
 
 Evaluation and Award.—The head of an agency shall evaluate competitive proposals in accordance with section 3301(a) of this title and may award a contract—
 
-&emsp;(1) after discussions with the offerors, provided that written or oral discussions have been conducted with all responsible offerors who submit proposals within the competitive range; or
+&emsp;(1) after discussions with the offerors, provided that written or oral discussions havebeen conducted with all responsible offerors who submit proposals within the competitive range; or
 
 &emsp;(2) based on the proposals received, without discussions with the offerors (other than discussions conducted for the purpose of minor clarification) provided that the solicitation included a statement that proposals are intended to be evaluated, and award made, without discussions, unless discussions are determined to be necessary.
 
@@ -18,9 +18,15 @@ Criteria for Awarding Contract.—Except as provided in section 3301(b) of this 
 
 (d)
 
-Notice of Award.—The head of the agency shall award the contract by transmitting, in writing or by electronic means, notice of the award to such source and, within three days after the date of contract award, shall notify, in writing or by electronic means, all other offerors of the rejection of their proposals. This subsection does not apply with respect to the award of a contract for the acquisition of perishable subsistence items.
+Notice of Award.—The head of the agency shall award the contract by transmitting, in writing or by electronic means, notice of the award to such source and, within three days after the date of contract award, shall notify, in writing or by electronic means, all other offerors of the rejection of their proposals.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, §1816(c)(2)(C), (5), Jan. 1, 2021, 134 Stat. 4182, 4183.)
+(e)
+
+Exception for Perishable Subsistence Items.—Subsections (c) and (d) do not apply with respect to the award of a contract for the acquisition of perishable subsistence items.
+
+(Added and amended Pub. L. 116–283, div. A, title XVIII, §1816(c)(2)(C), (5), Jan. 1, 2021, 134 Stat. 4182, 4183; Pub. L. 117–81, div. A, title XVII, §1701(b)(6)(A), Dec. 27, 2021, 135 Stat. 2133.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -40,11 +46,29 @@ Subsec. (b). Pub. L. 116–283, §1816(c)(5)(B), (E), redesignated subpar. (B) o
 
 Subsec. (c). Pub. L. 116–283, §1816(c)(5)(B), (F), redesignated subpar. (C) of former section 2305(b)(4) of this title as subsec. (c) of this section, inserted heading, and substituted "section 3301(b) of this title" for "paragraph (2)". Former second and third sentences designated subsec. (d).
 
-Subsec. (d). Pub. L. 116–283, §1816(c)(5)(G), inserted heading and substituted "This subsection" for "This subparagraph".
+Subsec. (d). Pub. L. 116–283, §1816(c)(5)(C), (G), as amended and added by Pub. L. 117–81, §1701(b)(6)(A), designated the second sentence of subsec. (c) as subsec. (d) and inserted heading.
 
-Pub. L. 116–283, §1816(c)(5)(C), which directed designation of the "second sentence of subsection (c)" as (d), was executed by designating the second and third sentences of subsec. (c) as subsec. (d) of this section to reflect the probable intent of Congress and the subsequent amendment made by section 1816(c)(5)(G), which was directed to "subsection (d), as so designated" and could only be executed in what had been the third sentence. See note above.
+Subsec. (e). Pub. L. 116–283, §1816(c)(5)(C), (H), as amended and added by Pub. L. 117–81, §1701(b)(6)(A), designated the third sentence of subsec. (c) as subsec. (e), inserted heading, and substituted "Subsections (c) and (d) do not" for "This subparagraph does not".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and Effective Date note below.
 
 #### Effective Date
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
+
+#### Procurement of Tents or Other Temporary Structures
+
+Pub. L. 112–81, div. A, title III, §368, Dec. 31, 2011, 125 Stat. 1381, provided that:
+
+"(a)
+
+In General.—In procuring tents or other temporary structures for use by the Armed Forces, and in establishing or maintaining an alternative source for such tents and structures, the Secretary of Defense shall award contracts that provide the best value to the United States. In determining the best value to the United States under this section, the Secretary shall consider the total life-cycle costs of such tents or structures, including the costs associated with any equipment or fuel needed to heat or cool such tents or structures.
+
+"(b)
+
+Interagency Procurement.—The requirements of this section shall apply to any agency or department of the United States that procures tents or other temporary structures on behalf of the Department of Defense."
 

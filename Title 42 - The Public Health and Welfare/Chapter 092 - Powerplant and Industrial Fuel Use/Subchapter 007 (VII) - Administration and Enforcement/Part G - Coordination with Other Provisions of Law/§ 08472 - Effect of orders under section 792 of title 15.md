@@ -14,9 +14,11 @@ The preceding provisions of this chapter shall not affect the validity of any or
 
 (Pub. L. 95–620, title VII, §762(a)–(c), Nov. 9, 1978, 92 Stat. 3345.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The effective date of this chapter, referred to in text, is the effective date of Pub. L. 95–620. See section 901 of Pub. L. 95–620, set out as an Effective Date note under section 8301 of this title.
+The effective date of this chapter, referred to in text, is the effective date of Pub. L. 95–620. See section 901 ofPub. L. 95–620, set out as an Effective Date note under section 8301 of this title.
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 95–620, Nov. 9, 1978, 92 Stat. 3289, known as the Powerplant and Industrial Fuel Use Act of 1978, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of this title and Tables.
 

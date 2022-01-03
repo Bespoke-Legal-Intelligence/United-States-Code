@@ -10,13 +10,15 @@ The park shall consist of the lands and interests therein within the area genera
 
 #### (c) Golden Gate National Recreation Area
 
-The Secretary shall revise the boundaries of the Golden Gate National Recreation Area to exclude from the National Recreation Area the area within the park (as depicted on the boundary map referred to in subsection (b)). The Secretary shall transfer to the jurisdiction of the park all real and personal property of the United States administered by the Secretary as part of the National Recreation Area located within the boundaries of the park (including the museum building), together with all vessels, marine collections, libraries, historic documents, equipment and other marine artifacts which are administered by the Secretary as part of the National Recreation Area and which relate to maritime history.
+The Secretary shall revise the boundaries of the Golden Gate National Recreation Area to exclude from the National Recreation Area the area within the park (as depicted on the boundary map referred to in subsection (b)). The Secretary shall transfer to the jurisdiction of the park all real and personal property of the UnitedStates administered by the Secretary as part of the National Recreation Area located within the boundaries of the park (including the museum building), together with all vessels, marine collections, libraries, historic documents, equipment and other marine artifacts which are administered by the Secretary as part of the National Recreation Area and which relate to maritime history.
 
 #### (d) Museum building
 
 The building housing and displaying the marine collections, libraries, historic documents, equipment, and marine artifacts shall be named the "Sala Burton Building" and an appropriate plaque with this designation shall be prominently displayed as part of the structure.
 
 (Pub. L. 100–348, §2, June 27, 1988, 102 Stat. 654; Pub. L. 103–437, §6(d)(11), Nov. 2, 1994, 108 Stat. 4584.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -29,6 +31,8 @@ In subsec. (b), "section 100506(c) of title 54" substituted for "section 7(c) of
 #### Amendments
 
 <b>1994</b>—Subsec. (b). Pub. L. 103–437 substituted "Natural Resources" for "Interior and Insular Affairs" after "Committee on".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

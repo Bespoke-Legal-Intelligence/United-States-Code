@@ -60,13 +60,13 @@ As used in this chapter, the following terms have the following meanings:
 
 &emsp;(10) A "professional model product" is an audio recording device that is designed, manufactured, marketed, and intended for use by recording professionals in the ordinary course of a lawful business, in accordance with such requirements as the Secretary of Commerce shall establish by regulation.
 
-&emsp;(11) The term "serial copying" means the duplication in a digital format of a copyrighted musical work or sound recording from a digital reproduction of a digital musical recording. The term "digital reproduction of a digital musical recording" does not include a digital musical recording as distributed, byauthority of the copyright owner, for ultimate sale to consumers.
+&emsp;(11) The term "serial copying" means the duplication in a digital format of a copyrighted musical work or sound recording from a digital reproduction of a digital musical recording. The term "digital reproduction of a digital musical recording" does not include a digital musical recording as distributed, by authority of the copyright owner, for ultimate sale to consumers.
 
 &emsp;(12) The "transfer price" of a digital audio recording device or a digital audio recording medium—
 
 &emsp;&emsp;(A) is, subject to subparagraph (B)—
 
-&emsp;&emsp;&emsp;(i) in the case of an imported product, the actual entered value at United States Customs (exclusive of any freight, insurance, and applicable duty), and
+&emsp;&emsp;&emsp;(i) in the case of an imported product, the actual entered value at United StatesCustoms (exclusive of any freight, insurance, and applicable duty), and
 
 &emsp;&emsp;&emsp;(ii) in the case of a domestic product, the manufacturer's transfer price (FOB the manufacturer, and exclusive of any direct sales taxes or excise taxes incurred in connection with the sale); and
 

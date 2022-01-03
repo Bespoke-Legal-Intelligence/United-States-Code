@@ -4,7 +4,7 @@ Section 1973dd, Pub. L. 94–203, §2, Jan. 2, 1976, 89 Stat. 1142; Pub. L. 95�
 
 Section 13973dd–1, Pub. L. 94–203, §3, Jan. 2, 1976, 89 Stat. 1142; Pub. L. 95–593, §2, Nov. 4, 1978, 92 Stat. 2535, related to qualifications for registration and vote by absentee ballot.
 
-Section 1973dd–2, Pub. L. 94–203, §4, Jan. 2, 1976, 89 Stat. 1143; Pub. L. 95–593, §3, Nov. 4, 1978, 92 Stat. 2535, related to State provisions concerning absentee registration or qualification and absentee ballots and to recommendations to States in carrying out the provisions of this section. See section 20302 of Title 52, Voting and Elections.
+Section 1973dd–2, Pub. L. 94–203, §4, Jan. 2, 1976, 89 Stat. 1143; Pub. L. 95–593, §3, Nov. 4, 1978, 92 Stat. 2535,related to State provisions concerning absentee registration or qualification and absentee ballots and to recommendations to States in carrying out the provisions of this section. See section 20302 of Title 52, Voting and Elections.
 
 Section 1973dd–2a, Pub. L. 94–203, §5, as added Pub. L. 95–593, §4(2), Nov. 4, 1978, 92 Stat. 2535, related to acquisition and dissemination by Presidential designee of current absentee voting information from each State.
 
@@ -17,6 +17,8 @@ Section 1973dd–4, Pub. L. 94–203, §8, formerly §6, Jan. 2, 1976, 89 Stat. 
 Section 1973dd–5, Pub. L. 94–203, §9, formerly §7, Jan. 2, 1976, 89 Stat. 1144; renumbered §9 and amended Pub. L. 95–593, §§4(1), 5, Nov. 4, 1978, 92 Stat. 2535, 2537, related to applicability of this subchapter to State registration requirements and voting practices and provided that exercise of any right to register or vote in Federal elections by any citizen outside the United States not affect the determination of residence or domicile for tax purposes. See section 20309 of Title 52, Voting and Elections.
 
 Section 1973dd–6, Pub. L. 94–203, §11, as added Pub. L. 95–593, §6, Nov. 4, 1978, 92 Stat. 2537, authorized appropriations as necessary to carry out this subchapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of Repeal
 

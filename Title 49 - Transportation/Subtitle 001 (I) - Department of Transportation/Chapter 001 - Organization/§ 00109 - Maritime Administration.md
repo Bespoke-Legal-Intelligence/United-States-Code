@@ -34,7 +34,7 @@ Contracts, Cooperative Agreements, and Audits.—
 
 &emsp;(1)
 
-Contracts and cooperative agreements.—In the same manner that a private corporation may make a contract within the scope of its authority under its charter, theSecretary may make contracts and cooperative agreements for the United States Government and disburse amounts to—
+Contracts and cooperative agreements.—In the same manner that a private corporation may make a contract within the scope of its authority under its charter, the Secretary may make contracts and cooperative agreements for the United States Government and disburse amounts to—
 
 &emsp;&emsp;(A) carry out the Secretary's duties and powers under this section, subtitle V of title 46, and all other Maritime Administration programs; and
 
@@ -78,7 +78,7 @@ Limitations.—Only those amounts specifically authorized by law may be appropri
 
 &emsp;&emsp;(I) other operations and training expenses related to the development of waterborne transportation systems, the use of waterborne transportation systems, and general administration.
 
-(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2417; Pub. L. 103–272, §5(m)(5), July 5, 1994, 108 Stat. 1375; Pub. L. 109–304, §12, Oct. 6, 2006, 120 Stat. 1698; Pub. L. 111–84, div. C, title XXXV, §3508, Oct. 28, 2009, 123 Stat. 2721; Pub. L. 111–383, div. A, title X, §1075(d)(26), Jan. 7, 2011, 124 Stat. 4374; Pub. L. 112–213, title IV, §409, Dec. 20, 2012, 126 Stat. 1572; Pub. L. 114–328, div. C, title XXXV, §3505(g), Dec. 23, 2016, 130 Stat. 2776.)
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2417; Pub. L. 103–272, §5(m)(5), July 5, 1994, 108 Stat. 1375; Pub. L. 109–304, §12, Oct. 6, 2006, 120 Stat. 1698; Pub. L. 111–84, div. C, title XXXV, §3508, Oct. 28, 2009, 123 Stat. 2721; Pub. L. 111–383, div. A, title X, §1075(d)(26), Jan. 7, 2011, 124 Stat. 4374;Pub. L. 112–213, title IV, §409, Dec. 20, 2012, 126 Stat. 1572; Pub. L. 114–328, div. C, title XXXV, §3505(g), Dec. 23, 2016, 130 Stat. 2776.)
 
 Historical and Revision Notes
 
@@ -192,7 +192,7 @@ Pub. L. 100–202, §101(a) \[title V (4th proviso on p. 1329–28)\], Dec. 22, 
 
 In subsection (b), the words "The Assistant Secretary of Commerce for Maritime Affairs shall, ex officio, be the Administrator" in section 201 of Reorganization Plan No. 7 of 1961 are omitted as superseded by 46 App. U.S.C. 1601 and 1603. The words "and who shall be compensated at the rate provided for level III of the Executive Schedule" in 46 App. U.S.C. 1603 are omitted as unnecessary because of 5 U.S.C. 5314.
 
-In subsection (c), the word "Secretary" means the "Secretary of Transportation" because under 46 App. U.S.C. 1602 all functions, powers, and duties relating tothe Maritime Administration were transferred from the Secretary of Commerce to the Secretary of Transportation. The words "in the competitive service" are substituted for "under the classified civil service" because of 5 U.S.C. 2102(c). The words "<i>Provided</i>, That such Deputy Administrator shall at no time sit as a member or acting member of the Federal Maritime Board" are omitted as obsolete because the Federal Maritime Board was abolished by section 304 of Reorganization Plan No. 7 of 1961 (46 App. U.S.C. 1111 note).
+In subsection (c), the word "Secretary" means the "Secretary of Transportation" because under 46 App. U.S.C. 1602 all functions, powers, and duties relating to the Maritime Administration were transferred from the Secretary of Commerce to the Secretary of Transportation. The words "in the competitive service" are substituted for "under the classified civil service" because of 5 U.S.C. 2102(c). The words "<i>Provided</i>, That such Deputy Administrator shall at no time sit as a member or acting member of the Federal Maritime Board" are omitted as obsolete because the Federal Maritime Board was abolished by section 304 of Reorganization Plan No. 7 of 1961 (46 App. U.S.C. 1111 note).
 
 In subsection (f), the words "vessels of the United States" are substituted for "vessels of United States registry" because of the definition of "vessel of the United States" in chapter 1 of the revised title.
 
@@ -201,6 +201,8 @@ In subsection (g), the words "equal to the amount that would be paid to an indiv
 In subsection (h)(2), the words "according to approved commercial practice as provided in the Act of March 20, 1922 (42 Stat. 444)" are omitted as obsolete and unnecessary.
 
 In subsection (i)(2), the words "Notwithstanding any other provision of this chapter or any other law" are omitted as unnecessary. In clause (G), the words "National Defense Reserve Fleet" are substituted for "reserve fleet" for clarity. Clause (H) is substituted for "(7) maritime training at the Merchant Marine Academy at Kings Point, New York", "(8) financial assistance to State maritime academies under section 1295c of this Appendix", "(10) expenses necessary for additional training provided under section 1295d of this Appendix", and "(10) expenses necessary to carry out subchapter XIII of this chapter" because of the reorganization of revised title 46 and to eliminate unnecessary words. The text of 46 App. U.S.C. 1119 (proviso) is omitted as obsolete.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -225,6 +227,8 @@ Subsecs. (i), (j). Pub. L. 111–84, §3508(6), added subsec. (i) and redesignat
 "(b) The Administrator of the Administration appointed under section 4 of the Maritime Act of 1981 (46 App. U.S.C. 1603) reports directly to the Secretary of Transportation."
 
 <b>1994</b>—Pub. L. 103–272 inserted "App." after "(46" in subsecs. (a) and (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 

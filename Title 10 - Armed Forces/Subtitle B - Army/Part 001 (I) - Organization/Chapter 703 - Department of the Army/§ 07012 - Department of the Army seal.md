@@ -20,6 +20,8 @@ July 26, 1947, ch. 343, §205(d), 61 Stat. 501.
 
 The words "of office" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 3012 of this title as this section.

@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(E) in the case of legislative branch officers and employees other than those specified in subparagraphs (A) and (B), the committee referred to in either such subparagraph to which reports filed by such officers and employees under title I of the Ethics in Government Act of 1978 are transmitted under such title, except that the authority of this section may be delegated by such committee with respect to such officers and employees; and
 
-&emsp;(2) the term "officer or employee" means an individual holding an appointive or electiveposition in the executive, legislative, or judicial branch of Government, other than a Member of Congress.
+&emsp;(2) the term "officer or employee" means an individual holding an appointive or elective position in the executive, legislative, or judicial branch of Government, other than a Member of Congress.
 
 (Added Pub. L. 101–194, title III, §303(a), Nov. 30, 1989, 103 Stat. 1746; amended Pub. L. 101–280, §4(d), May 4, 1990, 104 Stat. 158; Pub. L. 107–347, title II, §209(g)(1)(C), Dec. 17, 2002, 116 Stat. 2932.)
 
@@ -40,7 +40,7 @@
 
 #### References in Text
 
-The Ethics in Government Act of 1978, referred to in subsec. (d)(1)(E), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824, as amended. Title I of the Act, which was classified principally to chapter 18 (§701 et seq.) of Title 2, The Congress, was amended generally by Pub. L. 101–194, title II, §202, Nov. 30, 1989, 103 Stat. 1724, and as so amended, is set out in the Appendix to this title. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to this title and Tables.
+The Ethics in Government Act of 1978, referred to in subsec. (d)(1)(E), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824, as amended. Title I of the Act, which was classified principally to chapter 18 (§701 et seq.) of Title 2, The Congress, was amended generally by Pub. L. 101–194, title II, §202, Nov. 30, 1989, 103 Stat. 1724, and asso amended, is set out in the Appendix to this title. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to this title and Tables.
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 The United States Court of Federal Claims shall not have jurisdiction to hear any action or proceeding for any refund or credit of any penalty imposed under section 6700 of the Internal Revenue Code of 1986 (relating to penalty for promoting abusive tax shelters, etc.) or section 6701 of such Code (relating to penalties for aiding and abetting understatement of tax liability).
 
-(Added Pub. L. 98–369, div. A, title VII, §714(g)(2), July 18, 1984, 98 Stat. 962; amended Pub. L.99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–572, title IX, §902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(Added Pub. L. 98–369, div. A, title VII, §714(g)(2), July 18, 1984, 98 Stat. 962; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–572, title IX, §902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 #### <b>Editorial Notes</b>
 

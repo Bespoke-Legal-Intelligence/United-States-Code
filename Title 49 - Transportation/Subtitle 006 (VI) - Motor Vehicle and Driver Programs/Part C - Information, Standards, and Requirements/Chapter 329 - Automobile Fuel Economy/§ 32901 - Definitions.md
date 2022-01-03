@@ -26,7 +26,7 @@ General.—In this chapter—
 
 &emsp;&emsp;(J) electricity (including electricity from solar energy); and
 
-&emsp;&emsp;(K) any other fuel the Secretary of Transportation prescribes by regulation that is not substantially petroleum and that would yield substantial energy security and environmental benefits.
+&emsp;&emsp;(K) any other fuel the Secretary of Transportation prescribes by regulation that isnot substantially petroleum and that would yield substantial energy security and environmental benefits.
 
 &emsp;(2) "alternative fueled automobile" means an automobile that is a—
 
@@ -58,7 +58,7 @@ General.—In this chapter—
 
 &emsp;&emsp;(B) provides equal or superior energy efficiency, as calculated for the applicable model year during fuel economy testing for the United States Government, when operating on alternative fuel as when operating on gasoline or diesel fuel;
 
-&emsp;&emsp;(C) for model years 1993–1995 for an automobile capable of operating on a mixture of an alternative fuel and gasoline or diesel fuel and if the Administrator of the Environmental Protection Agency decides to extend the application of this subclause, for an additional period ending not later than the endof the last model year to which section 32905(b) and (d) of this title applies, provides equal or superior energy efficiency, as calculated for the applicable model year during fuel economy testing for the Government, when operating on a mixture of alternative fuel and gasoline or diesel fuel containing exactly 50 percent gasoline or diesel fuel as when operating on gasoline or diesel fuel; and
+&emsp;&emsp;(C) for model years 1993–1995 for an automobile capable of operating on a mixture of an alternative fuel and gasoline or diesel fuel and if the Administrator of the Environmental Protection Agency decides to extend the application of this subclause, for an additional period ending not later than the end of the last model year to which section 32905(b) and (d) of this title applies, provides equal or superior energy efficiency, as calculated for the applicable model year during fuel economy testing for the Government, when operating on a mixture of alternative fuel and gasoline or diesel fuel containing exactly 50 percent gasoline or diesel fuel as when operating on gasoline or diesel fuel; and
 
 &emsp;&emsp;(D) for a passenger automobile, meets or exceeds the minimum driving range prescribed under subsection (c) of this section.
 
@@ -102,7 +102,7 @@ General.—In this chapter—
 
 &emsp;&emsp;(A) is rated at between 8,500 and 10,000 pounds gross vehicle weight; and
 
-&emsp;&emsp;(B) is not a medium-duty passenger vehicle (as defined in section 86.1803–01 of title 40, Code of Federal Regulations, as in effect on the date of the enactment of the Ten-in-Ten Fuel Economy Act).
+&emsp;&emsp;(B) is not a medium-duty passenger vehicle (as defined in section 86.1803–01 of title 40,Code of Federal Regulations, as in effect on the date of the enactment of the Ten-in-Ten Fuel Economy Act).
 
 (b)
 
@@ -236,11 +236,13 @@ In subsection (a)(14), the word "particular" is omitted as surplus.
 
 Subsection (a)(15)(B) is substituted for "If a manufacturer has no annual production period, the term 'model year' means the calendar year" to eliminate unnecessary words.
 
-In subsection (a)(16), before clause (A), the words "but does not include an automobile capable of off-highway operation that" are substituted for "(other than an automobile capable of off-highway operation)" and "The term 'automobile capable of off-highway operation' means any automobile which" to eliminate unnecessary words.
+In subsection (a)(16), before clause (A), the words "but does not include an automobile capable of off-highway operation that" are substituted for "(other than an automobile capable of off-highway operation)"and "The term 'automobile capable of off-highway operation' means any automobile which" to eliminate unnecessary words.
 
 In subsection (b), the words "The Secretary may prescribe regulations changing the percentage . . . to not less than 70 percent because of" are substituted for "but not less than 70 percent, as determined by the Secretary, by rule, to provide for" for clarity and because of the restatement.
 
 In subsection (c)(1), the words "For purposes of the definitions in paragraph (1)(D)" are omitted as unnecessary because of the restatement. The words "within 18 months after October 14, 1988" are omitted as obsolete. The words "prescribe by regulation" are substituted for "establish by rule of general applicability" for clarity and consistency in the revised title and with other titles of the United States Code and because "rule" is synonymous with "regulation". The words "that are passenger automobiles" are substituted for "The rule issued under this subparagraph shall apply only to dual fueled automobiles that are passenger automobiles" to eliminate unnecessary words.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -279,6 +281,8 @@ Pub. L. 110–140, §103(a)(2), redesignated par. (16) as (17).
 Subsec. (a)(18). Pub. L. 110–140, §103(a)(5), redesignated par. (17) as (18).
 
 Subsec. (a)(19). Pub. L. 110–140, §103(a)(7), added par. (19).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 
@@ -324,7 +328,7 @@ value.—The voucher may be used to offset the purchase price or lease price of 
 
 &emsp;&emsp;"(A) the new fuel efficient automobile is a passenger automobile and the combined fuel economy value of such automobile is at least 4 miles per gallon higher than the combined fuel economy value of the eligible trade-in vehicle;
 
-&emsp;&emsp;"(B) the new fuel efficient automobile is a category 1 truck and the combined fuel economy value of such truck is at least 2 miles per gallon higher than the combined fuel economy value of the eligible trade-in vehicle;
+&emsp;&emsp;"(B) the new fuel efficient automobile is a category 1 truck and the combined fuel economy value of such truck is at least 2 miles per gallon higherthan the combined fuel economy value of the eligible trade-in vehicle;
 
 &emsp;&emsp;"(C) the new fuel efficient automobile is a category 2 truck that has a combined fuel economy value of at least 15 miles per gallon and—
 
@@ -482,7 +486,7 @@ Report on efficacy of the program.—Not later than 60 days after the terminatio
 
 &emsp;"(3)
 
-Review of administration of the program by government accountability office and inspectorgeneral.—Not later than 180 days after the termination date described in subsection (c)(1)(A), the Government Accountability Office and the Inspector General of the Department of Transportation shall submit reports to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate reviewing the administration of the program.
+Review of administration of the program by government accountability office and inspector general.—Not later than 180 days after the termination date described in subsection (c)(1)(A), the Government Accountability Office and the Inspector General of the Department of Transportation shall submit reports to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate reviewing the administration of the program.
 
 "(h)
 
@@ -518,7 +522,7 @@ Definitions.—As used in this section—
 
 &emsp;"(6) the term 'dealer' means a person licensed by a State who engages in the sale of new automobiles to ultimate purchasers;
 
-&emsp;"(7) the term 'eligible trade-in vehicle' means an automobile or a work truck (as such terms are defined in section 32901(a) of title 49, United States Code) that, at the time it is presented for trade-in under this section—
+&emsp;"(7) the term 'eligible trade-in vehicle' means an automobile or a work truck (as such terms are defined in section 32901(a) of title 49, United StatesCode) that, at the time it is presented for trade-in under this section—
 
 &emsp;&emsp;"(A) is in drivable condition;
 

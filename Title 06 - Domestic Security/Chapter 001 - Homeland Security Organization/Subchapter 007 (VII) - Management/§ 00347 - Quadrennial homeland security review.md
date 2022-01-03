@@ -44,7 +44,7 @@ In each quadrennial homeland security review, the Secretary shall—
 
 #### (1) In general
 
-&emsp;Not later than December 31 of the year in which a quadrennial homeland security review is conducted, the Secretary shall submit toCongress a report regarding that quadrennial homeland security review.
+&emsp;Not later than December 31 of the year in which a quadrennial homeland security review is conducted, the Secretary shall submit to Congress a report regarding that quadrennial homeland security review.
 
 #### (2) Contents of report
 

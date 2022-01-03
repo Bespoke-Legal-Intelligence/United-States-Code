@@ -1,10 +1,12 @@
 ### §4604. Repealed. Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232
 
-Section, Pub. L. 96–72, §5, Sept. 29, 1979, 93 Stat. 506; Pub. L. 99–64, title I, §§105(a)–(c)(1), (d)–(j), 106, 107, July12, 1985, 99 Stat. 123–129; Pub. L. 100–418, title II, §§2413–2418(b), 2419, 2420(a), 2421, 2422, 2446, Aug. 23, 1988, 102 Stat. 1347–1358, 1369; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210, related to prohibition or curtailment of exports for national security purposes.
+Section, Pub. L. 96–72, §5, Sept. 29, 1979, 93 Stat. 506; Pub. L. 99–64, title I, §§105(a)–(c)(1), (d)–(j), 106, 107, July 12, 1985, 99 Stat. 123–129; Pub. L. 100–418, title II, §§2413–2418(b), 2419, 2420(a), 2421, 2422, 2446, Aug. 23, 1988, 102 Stat. 1347–1358, 1369; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210, related to prohibition or curtailment of exports for national security purposes.
 
 Section was formerly classified to section 2404 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 
 A prior section 2404 of the former Appendix to this title, Pub. L. 91–184, §5, Dec. 30, 1969, 83 Stat. 843; Pub. L. 92–412, title I, §105, Aug. 29, 1972, 86 Stat. 645; Pub. L. 93–500, §§3(c), (d), 5(b), (c), 6, Oct. 29, 1974, 88 Stat. 1553, 1554; Pub. L. 95–52, title I, §111, June 22, 1977, 91 Stat. 240, set forth determinations, limitations, etc., respecting the control and monitoring of exports, prior to the expiration of Pub. L. 91–184 on Sept. 30, 1979.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Export Controls on High Performance Computers
 
@@ -22,7 +24,7 @@ Covered Countries.—For purposes of subsection (a), the countries specified in 
 
 "(c)
 
-Time Limit.—Written objections under subsection (a) to an export or reexport shall be raised within 10 days after the notification is received under subsection (a). If such a written objection to the export or reexport of a computer is raised, the computer may be exported or reexported only pursuant to a license issued by the Secretary of Commerce under the Export Administration Regulations of the Department of Commerce, without regard to the licensing exceptions otherwise authorized under section 740.7 of title 15 of the Code of Federal Regulations, as in effect on June 10, 1997. If no objection is raised within the 10-day period, the export or reexport is authorized.
+Time Limit.—Written objections under subsection (a) to an export or reexport shall be raisedwithin 10 days after the notification is received under subsection (a). If such a written objection to the export or reexport of a computer is raised, the computer may be exported or reexported only pursuant to a license issued by the Secretary of Commerce under the Export Administration Regulations of the Department of Commerce, without regard to the licensing exceptions otherwise authorized under section 740.7 of title 15 of the Code of Federal Regulations, as in effect on June 10, 1997. If no objection is raised within the 10-day period, the export or reexport is authorized.
 
 "(d)
 
@@ -151,6 +153,8 @@ Covered Countries.—For purposes of subsections (a) and (b), the countries spec
 \[Pub. L. 106–398, §1 \[\[div. A\], title XII, §1234(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–331, provided that: "The amendments made by subsection (a) \[amending section 1211 of Pub. L. 105–85, set out above\] shall apply to any new composite theoretical performance level established for purposes of section 1211(a) of the National Defense Authorization Act for Fiscal Year 1998 \[Pub. L. 105–85\] that is submitted by the President pursuant to section 1211(d) of that Act on or after the date of the enactment of this Act \[Oct. 30, 2000\]."\]
 
 \[For abolition, transfer of functions, and treatment of references to United States Arms Control and Disarmament Agency, see section 6511 et seq. of Title 22, Foreign Relations and Intercourse.\]
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Authority Under the National Defense Authorization Act for Fiscal Year 1998
 

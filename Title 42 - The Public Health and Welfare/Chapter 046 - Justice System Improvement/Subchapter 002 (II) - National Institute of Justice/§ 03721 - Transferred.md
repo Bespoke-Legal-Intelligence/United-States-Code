@@ -1,8 +1,12 @@
 ### §3721. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 3721 was editorially reclassified as section 10121 of Title 34, Crime Control and Law Enforcement.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Assessing and Reducing Threat to Law Enforcement Officers From Criminal Use of Firearms and Ammunition
 

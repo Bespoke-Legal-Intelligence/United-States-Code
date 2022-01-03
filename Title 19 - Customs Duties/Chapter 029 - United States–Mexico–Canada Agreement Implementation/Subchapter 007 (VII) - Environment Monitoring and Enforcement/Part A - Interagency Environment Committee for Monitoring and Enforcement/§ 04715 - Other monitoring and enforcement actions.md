@@ -60,6 +60,8 @@ Nothing in this section may be construed to supersede or otherwise limit in any 
 
 (Pub. L. 116–113, title VIII, §815, Jan. 29, 2020, 134 Stat. 93.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Marine Mammal Protection Act of 1972, referred to in subsec. (a), is Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, which is classified generally to chapter 31 (§1361 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1361 of Title 16 and Tables.
@@ -68,7 +70,7 @@ The Magnuson-Stevens Fishery Conservation and Management Act, referred to in sub
 
 The Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006, referred to in subsec. (b)(2), is Pub. L. 109–479, Jan. 12, 2007, 120 Stat. 3575. For complete classification of this Act to the Code, see Short Title of 2007 Amendment note set out under section 1801 of Title 16, Conservation, and Tables.
 
-The High Seas Driftnet Fishing Moratorium Protection Act, referred to in subsec. (b)(3), is Pub. L. 104–43, title VI, Nov. 3, 1995, 109 Stat. 391, which enacted sections 1826d to 1826g of Title 16, Conservation, and provisions set out as a note under section 1826d of Title 16. For complete classification of this Act to the Code, see Short Title of 1995 Amendment note set out under section 1801 of Title 16 and Tables.
+The High Seas Driftnet Fishing Moratorium Protection Act, referred to in subsec. (b)(3), is Pub. L. 104–43,title VI, Nov. 3, 1995, 109 Stat. 391, which enacted sections 1826d to 1826g of Title 16, Conservation, and provisions set out as a note under section 1826d of Title 16. For complete classification of this Act to the Code, see Short Title of 1995 Amendment note set out under section 1801 of Title 16 and Tables.
 
 The Shark Conservation Act of 2010, referred to in subsec. (b)(4), is Pub. L. 111–348, title I, Jan. 4, 2011, 124 Stat. 3668, which amended sections 1826i to 1826k, 1857, and 4107 of Title 16, Conservation, and enacted provisions set out as notes under sections 1826k and 1857 of Title 16. For complete classification of this Act to the Code, see Short Title of 2011 Amendment note set out under section 1801 of Title 16 and Tables.
 

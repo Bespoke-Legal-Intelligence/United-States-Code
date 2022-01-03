@@ -6,13 +6,15 @@
 
 (c) All Reserves assigned to units organized to serve as units and designated as units in the Ready Reserve are in the Ready Reserve.
 
-(d) Under such regulations as the Secretary concerned may prescribe, any qualified member of a reserve component or any qualified retired enlisted member of a regular component may, upon his request, be placed in the Ready Reserve. However, a member of the Retired Reserve entitled to retired pay or a retired enlisted member of a regular component may not be placed in the Ready Reserve unless the Secretary concerned makes a special finding that the member's services in the Ready Reserve are indispensable. The authority of the Secretary concerned under the preceding sentence may not be delegated—
+(d) Under such regulations as the Secretary concerned may prescribe, any qualified member of a reserve component or any qualified retired enlisted member of a regular component may, upon his request, be placed in the Ready Reserve. However, a member of the Retired Reserve entitled to retired pay or a retired enlisted member of a regular component may not be placed in the Ready Reserve unless the Secretary concerned makes a special finding thatthe member's services in the Ready Reserve are indispensable. The authority of the Secretary concerned under the preceding sentence may not be delegated—
 
 &emsp;(1) to a civilian officer or employee of the military department concerned below the level of Assistant Secretary; or
 
 &emsp;(2) to a member of the armed forces below the level of the lieutenant general or vice admiral in an armed force with responsibility for military personnel policy in that armed force.
 
 (Added Pub. L. 103–337, div. A, title XVI, §1661(a)(1), Oct. 5, 1994, 108 Stat. 2973; amended Pub. L. 108–136, div. A, title V, §513, Nov. 24, 2003, 117 Stat. 1460.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -21,6 +23,8 @@ Provisions similar to those in this section were contained in section 269(a)–(
 #### Amendments
 
 <b>2003</b>—Subsec. (d). Pub. L. 108–136 substituted last sentence of introductory provisions and pars. (1) and (2) for "The Secretary concerned may not delegate his authority under the preceding sentence."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

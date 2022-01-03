@@ -48,11 +48,15 @@ Out of funds authorized under section 17202 of this title, there is authorized t
 
 (Pub. L. 110–140, title VI, §625, Dec. 19, 2007, 121 Stat. 1685; Pub. L. 116–260, div. Z, title III, §3002(l), Dec. 27, 2020, 134 Stat. 2496.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2020</b>—Subsec. (a)(2). Pub. L. 116–260, §3002(l)(1), inserted "or heat" after "electrical power".
 
 Subsec. (e). Pub. L. 116–260, §3002(l)(2), amended subsec. (e) generally. Prior to amendment, text read as follows: "There are authorized to be appropriated such sums as are necessary to carry out this section."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -2,13 +2,15 @@
 
 #### (a) Authorization of appropriations
 
-For the purpose of carrying out this subchapter, there are authorized to be appropriated$50,000,000 for fiscal year 1991, such sums as may be necessary for each of the fiscal years 1992 and 1993, $150,000,000 for fiscal year 1994, such sums as may be necessary for each of the fiscal years 1995 through 2003, $225,000,000 for fiscal year 2008, $245,000,000 for fiscal year 2009, $250,000,000 for fiscal year 2010, $255,000,000 for fiscal year 2011, and $275,000,000 for fiscal year 2012.
+For the purpose of carrying out this subchapter, there are authorized to be appropriated $50,000,000 for fiscal year 1991, such sums as may be necessary for each of the fiscal years 1992 and 1993, $150,000,000 for fiscal year 1994, such sums as may be necessary for each of the fiscal years 1995 through 2003, $225,000,000 for fiscal year 2008, $245,000,000 for fiscal year 2009, $250,000,000 for fiscal year 2010, $255,000,000 for fiscal year 2011, and $275,000,000 for fiscal year 2012.
 
 #### (b) Set-aside for technical assistance and provision of supplies and services
 
 Of the amounts appropriated under subsection (a) for a fiscal year, the Secretary shall reserve not more than 20 percent for carrying out section 300n–3 of this title.
 
 (July 1, 1944, ch. 373, title XV, §1510, formerly §1509, as added Pub. L. 101–354, §2, Aug. 10, 1990, 104 Stat. 415; renumbered §1510 and amended Pub. L. 103–183, title I, §§102(a)(1), (b), 103, Dec. 14, 1993, 107 Stat. 2229, 2230; Pub. L. 105–340, title II, §203(c)(2), Oct. 31, 1998, 112 Stat. 3194; Pub. L. 110–18, §2(4), Apr. 20, 2007, 121 Stat. 83.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

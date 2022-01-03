@@ -34,7 +34,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not later than 20 days after the date on which the complaint is filed, the plaintiff or plaintiffs shall cause to be published, in a widely circulated national business-oriented publication or wire service, a notice advising members of the purported plaintiff class—
+&emsp;&emsp;&emsp;Not later than 20 days after the date on which the complaint is filed, the plaintiffor plaintiffs shall cause to be published, in a widely circulated national business-oriented publication or wire service, a notice advising members of the purported plaintiff class—
 
 &emsp;&emsp;&emsp;&emsp;(I) of the pendency of the action, the claims asserted therein, and the purported class period; and
 
@@ -56,7 +56,7 @@
 
 #### (ii) Consolidated actions
 
-&emsp;&emsp;&emsp;If more than one action on behalf of a class asserting substantially the sameclaim or claims arising under this subchapter has been filed, and any party has sought to consolidate those actions for pretrial purposes or for trial, the court shall not make the determination required by clause (i) until after the decision on the motion to consolidate is rendered. As soon as practicable after such decision is rendered, the court shall appoint the most adequate plaintiff as lead plaintiff for the consolidated actions in accordance with this subparagraph.
+&emsp;&emsp;&emsp;If more than one action on behalf of a class asserting substantially the same claim or claims arising under this subchapter has been filed, and any party has sought to consolidate those actions for pretrial purposes or for trial, the court shall not make the determination required by clause (i) until after the decision on the motion to consolidate is rendered. As soon as practicable after such decision is rendered, the court shall appoint the most adequate plaintiff as lead plaintiff for the consolidated actions in accordance with this subparagraph.
 
 #### (iii) Rebuttable presumption
 
@@ -170,7 +170,7 @@
 
 #### (2) Mandatory sanctions
 
-&emsp;If the court makes a finding under paragraph (1) that a party or attorney violated any requirement of Rule 11(b) of the Federal Rules of Civil Procedure as to any complaint, responsive pleading, or dispositive motion, the court shall impose sanctions on such party or attorney in accordance with Rule 11 of the Federal Rules of Civil Procedure. Prior to making a finding that any party or attorney has violated Rule 11 of the Federal Rules of Civil Procedure, the court shall give such party or attorney notice and an opportunity to respond.
+&emsp;If the court makes a finding under paragraph (1) that a party or attorney violated any requirement of Rule 11(b) of the Federal Rules ofCivil Procedure as to any complaint, responsive pleading, or dispositive motion, the court shall impose sanctions on such party or attorney in accordance with Rule 11 of the Federal Rules of Civil Procedure. Prior to making a finding that any party or attorney has violated Rule 11 of the Federal Rules of Civil Procedure, the court shall give such party or attorney notice and an opportunity to respond.
 
 #### (3) Presumption in favor of attorneys' fees and costs
 
@@ -192,13 +192,15 @@
 
 #### (C) Sanctions
 
-&emsp;&emsp;If the party or attorney against whom sanctions are to be imposed meets its burden under subparagraph (B), the court shall award the sanctions that the court deemsappropriate pursuant to Rule 11 of the Federal Rules of Civil Procedure.
+&emsp;&emsp;If the party or attorney against whom sanctions are to be imposed meets its burden under subparagraph (B), the court shall award the sanctions that the court deems appropriate pursuant to Rule 11 of the Federal Rules of Civil Procedure.
 
 #### (d) Defendant's right to written interrogatories
 
 In any private action arising under this subchapter in which the plaintiff may recover money damages only on proof that a defendant acted with a particular state of mind, the court shall, when requested by a defendant, submit to the jury a written interrogatory on the issue of each such defendant's state of mind at the time the alleged violation occurred.
 
 (May 27, 1933, ch. 38, title I, §27, as added Pub. L. 104–67, title I, §101(a), Dec. 22, 1995, 109 Stat. 737; amended Pub. L. 105–353, title I, §101(a)(2), title III, §301(a)(5), Nov. 3, 1998, 112 Stat. 3230, 3235.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -209,6 +211,8 @@ The Federal Rules of Civil Procedure, referred to in subsecs. (a)(1), (3)(A)(iii
 <b>1998</b>—Pub. L. 105–353, §301(a)(5), made technical correction relating to placement of section in subchapter.
 
 Subsec. (b)(4). Pub. L. 105–353, §101(a)(2), added par. (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

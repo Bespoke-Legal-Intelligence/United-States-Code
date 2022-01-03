@@ -14,9 +14,11 @@ The institution of each State responsible for administering the programs authori
 
 #### (d) Appointment of advisory council for program administration; eligibility, membership, etc.
 
-The institution in each State responsible for administering the programs authorized under this subchapter shall name an advisory council to review and approve budgets and plans of work conducted under this subchapter and to advise the chief administrative officer of the institution administering the programs on matters pertaining to the programs. An existing State rural development committee or council may be named to perform this function, or a new council may be appointed by the chief administrative officer or officers. The committee or council named or appointed shall consist of at least twelve members and shall include persons representing farmers, business, labor, banking, local government, multicounty planning and development districts, public and private colleges and universities in the State, and Federal and State agencies involved in rural development.
+The institution in each State responsible for administering the programs authorized underthis subchapter shall name an advisory council to review and approve budgets and plans of work conducted under this subchapter and to advise the chief administrative officer of the institution administering the programs on matters pertaining to the programs. An existing State rural development committee or council may be named to perform this function, or a new council may be appointed by the chief administrative officer or officers. The committee or council named or appointed shall consist of at least twelve members and shall include persons representing farmers, business, labor, banking, local government, multicounty planning and development districts, public and private colleges and universities in the State, and Federal and State agencies involved in rural development.
 
 (Pub. L. 92–419, title V, §504, as added Pub. L. 97–98, title XIV, §1444(a), Dec. 22, 1981, 95 Stat. 1325; amended Pub. L. 115–334, title VI, §6101(a)(3)(B), Dec. 20, 2018, 132 Stat. 4727.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -31,6 +33,8 @@ A prior section 2664, Pub. L. 92–419, title V, §504, Aug. 30, 1972, 86 Stat. 
 #### Amendments
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–334 substituted "subject to approval by the Secretary" for "subject to approval by the Secretary of Agriculture".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -36,7 +36,7 @@ Program Requirements.—The Secretary of the Air Force shall ensure that—
 
 (e)
 
-Tuition.—(1) The United States Air Force Institute of Technology shall charge tuition for students enrolled under this section at a rate not less than the rate charged for employees of the United States outside the Department of the Air Force.
+Tuition.—(1) The United States Air Force Institute of Technology shall charge tuition forstudents enrolled under this section at a rate not less than the rate charged for employees of the United States outside the Department of the Air Force.
 
 (2) Amounts received by the United States Air Force Institute of Technology for instruction of students enrolled under this section shall be retained by the school to defray the costs of such instruction. The source, and the disposition, of such funds shall be specifically identified in records of the school.
 
@@ -45,6 +45,8 @@ Tuition.—(1) The United States Air Force Institute of Technology shall charge 
 Standards of Conduct.—While receiving instruction at the United States Air Force Institute of Technology, covered private sector employees enrolled under this section, to the extent practicable, are subject to the same regulations governing academic performance, attendance, norms of behavior, and enrollment as apply to Government civilian employees receiving instruction at the school.
 
 (Added Pub. L. 111–383, div. A, title V, §593(a), Jan. 7, 2011, 124 Stat. 4232, §9314a; amended Pub. L. 112–239, div. A, title V, §589(b), Jan. 2, 2013, 126 Stat. 1769; Pub. L. 114–92, div. A, title V, §558, title X, §1081(a)(13), Nov. 25, 2015, 129 Stat. 827, 1001; Pub. L. 115–91, div. A, title V, §581(a)–(d)(1), Dec. 12, 2017, 131 Stat. 1414, 1415; renumbered §9414a and amended Pub. L. 115–232, div. A, title VIII, §§806(a)(3), 809(a), Aug. 13, 2018, 132 Stat. 1832, 1840.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -60,7 +62,7 @@ Subsec. (a)(2). Pub. L. 115–91, §581(b)(1)(B), substituted "covered private s
 
 Subsec. (a)(3). Pub. L. 115–91, §581(b)(1)(C), substituted "covered private sector employee" for "defense industry employee" in two places.
 
-Subsec. (b). Pub. L. 115–91, §581(a), amended subsec. (b) generally. Prior to amendment, text read as follows: "For purposes of this section, an eligible defense industry employee is an individual employed by a private firm that is engaged in providing to the Department of Defense significant and substantial defense-related systems, products, or services. A defense industry employee admitted for instruction at the United StatesAir Force Institute of Technology remains eligible for such instruction only so long as that person remains employed by the same firm."
+Subsec. (b). Pub. L. 115–91, §581(a), amended subsec. (b) generally. Prior to amendment, text read as follows: "For purposes of this section, an eligible defense industry employee is an individual employed by a private firm that is engaged in providing to the Department of Defense significant and substantial defense-related systems, products, or services. A defense industry employee admitted for instruction at the United States Air Force Institute of Technology remains eligible for such instruction only so long as that person remains employed by the same firm."
 
 Subsec. (c). Pub. L. 115–91, §581(b)(2), in introductory provisions, substituted "A covered private sector employee" for "Defense industry employees" and "covered private sector employees" for "defense industry employees".
 
@@ -77,6 +79,8 @@ Subsec. (c)(2). Pub. L. 114–92, §558, substituted "will not require an increa
 <b>2013</b>—Subsec. (a)(1). Pub. L. 112–239, §589(b)(1), inserted "or professional continuing education certificate" after "graduate degree".
 
 Subsec. (a)(3). Pub. L. 112–239, §589(b)(2), inserted "or an appropriate professional continuing education certificate, as applicable" before period at end.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

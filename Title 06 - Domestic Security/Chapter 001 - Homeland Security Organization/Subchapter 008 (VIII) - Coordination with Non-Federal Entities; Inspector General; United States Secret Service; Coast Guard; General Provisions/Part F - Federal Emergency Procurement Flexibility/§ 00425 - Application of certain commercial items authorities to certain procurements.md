@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) Sections 1901 and 1906 of title 41.
 
-&emsp;&emsp;(B) Section 2304(g) of title 10.
+&emsp;&emsp;(B) Section 3205 of title 10.
 
 &emsp;&emsp;(C) Section 3305 of title 41.
 
@@ -20,7 +20,7 @@
 
 #### (1) In general
 
-&emsp;The $5,000,000 limitation provided in section 1901(a)(2) of title 41, section 2304(g)(1)(B) of title 10, and section 3305(a)(2) of title 41 shall not apply to purchases of property or services to which any of the provisions of law referred to in subsection (a) are applied under the authority of this section.
+&emsp;The $5,000,000 limitation provided in section 1901(a)(2) of title 41, section 3205(a)(2) of title 10, and section 3305(a)(2) of title 41 shall not apply to purchases of property or services to which any of the provisions of law referred to in subsection (a) are applied under the authority of this section.
 
 #### (2) OMB guidance
 
@@ -30,7 +30,7 @@
 
 Authority under a provision of law referred to in subsection (a)(2) that expires under section 4202(e) of the Clinger-Cohen Act of 1996 (divisions D and E of Public Law 104–106; 10 U.S.C. 2304 note) shall, notwithstanding such section, continue to apply for use by the head of an executive agency as provided in subsections (a) and (b).
 
-(Pub. L. 107–296, title VIII, §855, Nov. 25, 2002, 116 Stat. 2236.)
+(Pub. L. 107–296, title VIII, §855, Nov. 25, 2002, 116 Stat. 2236; Pub. L. 117–81, div. A, title XVII, §1702(c)(3), Dec. 27, 2021, 135 Stat. 2155.)
 
 #### <b>Editorial Notes</b>
 
@@ -38,11 +38,15 @@ Authority under a provision of law referred to in subsection (a)(2) that expires
 
 Section 4202(e) of the Clinger-Cohen Act of 1996, referred to in subsec. (c), is section 4202(e) of Pub. L. 104–106, which is set out as a note under section 2304 of Title 10, Armed Forces.
 
-#### Codification
+#### Amendments
 
-In subsec. (a)(2)(A), "Sections 1901 and 1906 of title 41" substituted for "Sections 31 and 34 of the Office of Federal Procurement Policy Act (41 U.S.C. 427, 430)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+<b>2021</b>—Subsec. (a)(2). Pub. L. 117–81, §1702(c)(3)(A), added subpars. (A) to (C) and struck out former subpars. (A) to (C), which read as follows:
 
-In subsec. (a)(2)(C), "Section 3305 of title 41" substituted for "Section 303(g) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(g))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+&emsp;"(A) Sections 1901 and 1906 of title 41.
 
-In subsec. (b)(1), "section 1901(a)(2) of title 41" substituted for "section 31(a)(2) of the Office of Federal Procurement Policy Act (41 U.S.C. 427(a)(2))" and "section 3305(a)(2) of title 41" substituted for "section 303(g)(1)(B) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(g)(1)(B))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+&emsp;"(B) Section 2304(g) of title 10.
+
+&emsp;"(C) Section 3305 of title 41."
+
+Subsec. (b)(1). Pub. L. 117–81, §1702(c)(3)(B), substituted "provided in section 1901(a)(2) of title 41, section 3205(a)(2) of title 10, and section 3305(a)(2) of title 41 shall not" for "provided in section 1901(a)(2) of title 41, section 2304(g)(1)(B) of title 10, and section 3305(a)(2) of title 41 shall not".
 

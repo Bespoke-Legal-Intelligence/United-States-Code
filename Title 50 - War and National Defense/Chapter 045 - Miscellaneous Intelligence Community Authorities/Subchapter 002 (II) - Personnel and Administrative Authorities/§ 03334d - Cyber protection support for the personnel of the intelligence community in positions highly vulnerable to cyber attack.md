@@ -10,7 +10,7 @@ In this section:
 
 #### (2) Personal technology devices
 
-&emsp;The term "personal technology devices" means technology devices used by personnel ofthe intelligence community outside of the scope of their employment with elements of the intelligence community, including networks to which such devices connect.
+&emsp;The term "personal technology devices" means technology devices used by personnel of the intelligence community outside of the scope of their employment with elements of the intelligence community, including networks to which such devices connect.
 
 #### (b) Authority to provide cyber protection support
 
@@ -47,6 +47,8 @@ Not later than 180 days after December 20, 2019, the Director shall submit to th
 &emsp;(2) guidance for the use of cyber protection support and tracking of support requests for personnel receiving cyber protection support under subsection (b).
 
 (Pub. L. 116–92, div. E, title LXIII, §6308, Dec. 20, 2019, 133 Stat. 2189.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

@@ -72,7 +72,7 @@ In this section:
 
 &emsp;&emsp;Any annex described in clause (i)— <sup>3</sup>
 
-&emsp;&emsp;&emsp;(i) shall be available, as appropriate, and consistent with the National Security Act of 1947 \[50 U.S.C. 3001 et seq.\], to the Committee on Homeland Security and Governmental Affairs, the Committee on the Judiciary, the Select Committee on Intelligence, the Committee on Appropriations, and the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Homeland Security, the Committee on the Judiciary, the Permanent Select Committee on Intelligence, the Committee on Appropriations, and the Committee on Financial Services of the House of Representatives; and
+&emsp;&emsp;&emsp;(i) shall be available, as appropriate, and consistent with the National Security Act of 1947 \[50 U.S.C. 3001 et seq.\], to the Committee on Homeland Security and Governmental Affairs, the Committee on the Judiciary, the Select Committee on Intelligence, the Committee on Appropriations, and the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Homeland Security, the Committee on the Judiciary, the Permanent Select Committee on Intelligence, the Committee on Appropriations, and theCommittee on Financial Services of the House of Representatives; and
 
 &emsp;&emsp;&emsp;(ii) shall not be made available to the public.
 
@@ -85,6 +85,8 @@ In this section:
 &emsp;&emsp;(B) updated not less frequently than annually thereafter, to include any activity to use or develop data mining engaged in after the date of the prior report submitted under subparagraph (A).<sup>2</sup>
 
 (Pub. L. 110–53, title VIII, §804, Aug. 3, 2007, 121 Stat. 362.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

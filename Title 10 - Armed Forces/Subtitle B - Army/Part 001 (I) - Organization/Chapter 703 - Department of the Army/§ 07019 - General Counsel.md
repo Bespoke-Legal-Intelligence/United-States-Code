@@ -6,11 +6,15 @@
 
 (Added Pub. L. 99–433, title V, §501(a)(7), Oct. 1, 1986, 100 Stat. 1038, §3019; amended Pub. L. 100–456, div. A, title VII, §703(a), Sept. 29, 1988, 102 Stat. 1996; renumbered §7019, Pub. L. 115–232, div. A, title VIII, §808(a), Aug. 13, 2018, 132 Stat. 1838.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 3019 of this title as this section.
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–456 inserted ", by and with the advice and consent of the Senate" before period at end.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 
@@ -18,5 +22,5 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–456, div. A, title VII, §703(c), Sept. 29, 1988, 102 Stat. 1996, provided that: "The amendments made by this section \[amending this section and sections 5019 and 8019 of this title\] shall apply to appointments made under sections 3019, 5019, and 8019 \[now 7019, 8019, and 9019\], respectively, of title 10, United States Code, on and after the date of the enactment of this Act \[Sept. 29, 1988\]."
+Pub. L. 100–456, div. A, title VII, §703(c), Sept. 29, 1988, 102 Stat. 1996, provided that: "The amendments madeby this section \[amending this section and sections 5019 and 8019 of this title\] shall apply to appointments made under sections 3019, 5019, and 8019 \[now 7019, 8019, and 9019\], respectively, of title 10, United States Code, on and after the date of the enactment of this Act \[Sept. 29, 1988\]."
 

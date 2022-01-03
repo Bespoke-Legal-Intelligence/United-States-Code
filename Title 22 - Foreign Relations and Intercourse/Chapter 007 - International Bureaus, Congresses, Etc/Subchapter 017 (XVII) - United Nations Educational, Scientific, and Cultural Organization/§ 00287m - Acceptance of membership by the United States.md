@@ -48,7 +48,7 @@ The President is hereby authorized to accept membership for the United States in
 
 &emsp;&emsp;&nbsp;by encouraging cooperation among the nations in all branches of intellectual activity, including the international exchange of persons active in the fields of education, science and culture and the exchange of publications, objects of artistic and scientific interest and other materials of information;
 
-&emsp;&emsp;&nbsp;by initiating methods of international cooperation calculated to give the people of all countries access to the printed and published materials produced by any of them.
+&emsp;&emsp;&nbsp;by initiating methods of international cooperation calculated to give the people of all countriesaccess to the printed and published materials produced by any of them.
 
 3\. With a view to preserving the independence, integrity and fruitful diversity of the cultures and educational systems of the States Members of this Organisation, the Organisation is prohibited from intervening in matters which are essentially within their domestic jurisdiction.
 
@@ -132,7 +132,7 @@ The Organisation shall include a General Conference, an Executive Board and a Se
 
 7\. Subject to decisions of the General Conference, the Executive Board shall adopt its own rules of procedure. It shall elect its officers from among its members.
 
-8\. The Executive Board shall meet in regular session at least twice a year and may meet in special session if convoked by the Chairman on his own initiative or upon the request of six members of the Board.
+8\. The Executive Board shall meet in regular session at least twice a year and may meet in special sessionif convoked by the Chairman on his own initiative or upon the request of six members of the Board.
 
 9\. The Chairman of the Executive Board shall present to the General Conference, with or without comment, the annual report of the Director-General on the activities of the Organisation, which shall have been previously submitted to the Board.
 
@@ -148,7 +148,7 @@ The Organisation shall include a General Conference, an Executive Board and a Se
 
 2\. The Director-General shall be nominated by the Executive Board and appointed by the General Conference for a period of six years, under such conditions as the Conference may approve, and shall be eligible for re-appointment. He shall be the chief administrative officer of the Organisation.
 
-3\. The Director-General, or a deputy designated by him, shall participate, without the right to vote, in all meetings of the General Conference, of the Executive Board, and of the committees of the Organisation. Heshall formulate proposals for appropriate action by the Conference and the Board.
+3\. The Director-General, or a deputy designated by him, shall participate, without the right to vote, in all meetings of the General Conference, of the Executive Board, and of the committees of the Organisation. He shall formulate proposals for appropriate action by the Conference and the Board.
 
 4\. The Director-General shall appoint the staff of the Secretariat in accordance with staff regulations to be approved by the General Conference. Subject to the paramount consideration of securing the highest standards of integrity, efficiency and technical competence, appointment to the staff shall be on as wide a geographical basis as possible.
 

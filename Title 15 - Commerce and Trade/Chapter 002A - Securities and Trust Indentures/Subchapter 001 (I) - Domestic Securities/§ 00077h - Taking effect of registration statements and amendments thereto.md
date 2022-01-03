@@ -22,15 +22,19 @@ The Commission is empowered to make an examination in any case in order to deter
 
 #### (f) Notice requirements
 
-Any notice required under this section shall be sent to or served on the issuer, or, in case of a foreign government or political subdivision thereof, to or on the underwriter, or, in the caseof a foreign or Territorial person, to or on its duly authorized representative in the United States named in the registration statement, properly directed in each case of telegraphic notice to the address given in such statement.
+Any notice required under this section shall be sent to or served on the issuer, or, in case of a foreign government or political subdivision thereof, to or on the underwriter, or, in the case of a foreign or Territorial person, to or on its duly authorized representative in the United States named in the registration statement, properly directed in each case of telegraphic notice to the address given in such statement.
 
 (May 27, 1933, ch. 38, title I, §8, 48 Stat. 79; Aug. 22, 1940, ch. 686, title III, §301, 54 Stat. 857.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>1940</b>—Subsec. (a). Act Aug. 22, 1940, amended subsec. (a) generally.
 
+#### <b>Executive Documents</b>
+
 #### Transfer of Functions
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman ofsuch Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 

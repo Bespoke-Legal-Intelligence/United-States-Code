@@ -88,7 +88,7 @@ Qualified national organization representing handler interests.—The term "qual
 
 &emsp;(20)
 
-Qualified national organization representing importer interests.—The term "qualified national organization representing importer interests" means an organizationthat the Secretary certifies as being eligible to recommend nominations for the Committee importer, handler-importer, alternate importer, and alternate handler-importer members of the Honey Board under section 4606(b) of this title.
+Qualified national organization representing importer interests.—The term "qualified national organization representing importer interests" means an organization that the Secretary certifies as being eligible to recommend nominations for the Committee importer, handler-importer, alternate importer, and alternate handler-importer members of the Honey Board under section 4606(b) of this title.
 
 &emsp;(21) The term "research" means any type of research designed to advance the image, desirability, usage, marketability, production, or quality of honey or honey products.
 
@@ -99,6 +99,8 @@ Qualified national organization representing importer interests.—The term "qua
 &emsp;(24) The term "State association" means that organization of beekeepers in a State which is generally recognized as representing the beekeepers of that State.
 
 (Pub. L. 98–590, §3, Oct. 30, 1984, 98 Stat. 3116; Pub. L. 101–624, title XIX, §1982, Nov. 28, 1990, 104 Stat. 3904; Pub. L. 105–185, title VI, §605(b), June 23, 1998, 112 Stat. 588.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

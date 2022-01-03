@@ -96,9 +96,11 @@ A State may use amounts provided under grants made under section 300ff–21 of t
 
 #### (f) Construction
 
-A State may not use amounts received under a grant awarded under section 300ff–21 of thistitle to purchase or improve land, or to purchase, construct, or permanently improve (other than minor remodeling) any building or other facility, or to make cash payments to intended recipients of services.
+A State may not use amounts received under a grant awarded under section 300ff–21 of this title to purchase or improve land, or to purchase, construct, or permanently improve (other than minor remodeling) any building or other facility, or to make cash payments to intended recipients of services.
 
 (July 1, 1944, ch. 373, title XXVI, §2612, as added Pub. L. 101–381, title II, §201, Aug. 18, 1990, 104 Stat. 586; amended Pub. L. 104–146, §3(c)(2), May 20, 1996, 110 Stat. 1354; Pub. L. 106–345, title II, §202, title V, §503(b), Oct. 20, 2000, 114 Stat. 1330, 1355; Pub. L. 109–415, title II, §201(a), title VII, §703, Dec. 19, 2006, 120 Stat. 2785, 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -129,6 +131,8 @@ Subsec. (b) to (d). Pub. L. 106–345, §202(2), added subsecs. (b) to (d).
 <b>1996</b>—Pub. L. 104–146, §3(c)(2)(A), as amended by Pub. L. 106–345, §503(b), struck out "(a) In general" before "A State may use amounts", added par. (1), redesignated former pars. (1) to (4) as (2) to (5), respectively, substituted "therapeutics to treat HIV disease" for "treatments, that have been determined to prolong life or prevent serious deterioration of health," in par. (5), and inserted after par. (5) "Services described in paragraph (1) shall be delivered through consortia designed as described in paragraph (2), where such consortia exist, unless the State demonstrates to the Secretary that delivery of such services would be more effective when other delivery mechanisms are used. In making a determination regarding the delivery of services, the State shall consult with appropriate representatives of service providers and recipients of services who would be affected by such determination, and shall include in its demonstration to the Secretary the findings of the State regarding such consultation."
 
 Subsec. (b). Pub. L. 104–146, §3(c)(2)(B), struck out heading and text of subsec. (b). Text read as follows: "A State shall use not less than 15 percent of funds allocated under this part to provide health and support services to infants, children, women, and families with HIV disease."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment; Revival of Section
 

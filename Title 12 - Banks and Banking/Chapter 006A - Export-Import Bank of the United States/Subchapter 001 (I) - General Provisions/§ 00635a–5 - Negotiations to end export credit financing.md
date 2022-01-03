@@ -4,7 +4,7 @@
 
 The President shall initiate and pursue negotiations—
 
-&emsp;(1) with other major exporting countries, including members of the Organisation for Economic Co-operation and Development (in this section referred to as the "OECD") and non-OECD members, to substantially reduce, withthe possible goal of eliminating, before the date that is 10 years after December 4, 2015,,<sup>1</sup> subsidized export financing programs and other forms of export subsidies; and
+&emsp;(1) with other major exporting countries, including members of the Organisation for Economic Co-operation and Development (in this section referred to as the "OECD") and non-OECD members, to substantially reduce, with the possible goal of eliminating, before the date that is 10 years after December 4, 2015,,<sup>1</sup> subsidized export financing programs and other forms of export subsidies; and
 
 &emsp;(2) with all countries that finance air carrier aircraft with funds from a state-sponsored entity, to substantially reduce, with the ultimate goal of eliminating, aircraft export credit financing for all aircraft covered by the 2007 Sector Understanding on Export Credits for Civil Aircraft (in this section referred to as the "ASU"), including any modification thereof, and all of the following types of aircraft:
 
@@ -32,7 +32,7 @@ The President shall initiate and pursue negotiations with countries that are not
 
 #### (e) Annual reports on progress of negotiations
 
-Not later than 180 days after December 4, 2015, and annually thereafter through calendar year 2019, the President shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report on the progress of any negotiations described in subsection (d).
+Not later than 180 days after December 4, 2015, and annually thereafter through calendar year2019, the President shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report on the progress of any negotiations described in subsection (d).
 
 (Pub. L. 112–122, §11, May 30, 2012, 126 Stat. 356; Pub. L. 114–94, div. E, title LV, §55002(a), Dec. 4, 2015, 129 Stat. 1769.)
 

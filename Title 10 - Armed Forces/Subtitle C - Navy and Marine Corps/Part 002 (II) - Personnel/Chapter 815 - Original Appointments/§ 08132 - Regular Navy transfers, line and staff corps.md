@@ -34,6 +34,8 @@ In subsection (b) reference to the Construction Corps is omitted because that co
 
 The word "male" is inserted in both subsections to limit their application to men. Authority to appoint women is covered in §5590 of this title.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 5582 of this title as this section.
@@ -42,9 +44,11 @@ The word "male" is inserted in both subsections to limit their application to me
 
 Subsec. (b). Pub. L. 96–513 substituted "A regular officer" for "Any male officer on the active list" and "the same grade in a staff corps under regulations prescribed by the Secretary of Defense" for "the active list of the Navy in the Supply Corps or the Civil Engineer Corps, in the same grade, without regard to his age."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 1980 Amendment
 

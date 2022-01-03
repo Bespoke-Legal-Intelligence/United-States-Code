@@ -66,7 +66,7 @@ The standards and procedures prescribed under subsection (b) shall include the f
 
 #### (g) Acts or practices occurring prior to date of enactment of chapter or subsequent to its expiration or repeal
 
-No provision of this section shall be construed as granting immunity for, or as limiting or in any way affecting any remedy or penalty which may result from any legal action or proceeding arising from, any act or practice which occurred prior to the date of enactment of this chapter or subsequent to its expiration or repeal.
+No provision of this section shall be construed as granting immunity for, or as limiting or in any way affecting any remedy or penalty which may result from any legal action or proceedingarising from, any act or practice which occurred prior to the date of enactment of this chapter or subsequent to its expiration or repeal.
 
 #### (h) Applicability of Defense Production Act of 1950
 
@@ -134,7 +134,7 @@ The antitrust defense under subsection (f) shall not extend to the international
 
 (2) This subsection is enacted by the Congress—
 
-&emsp;(A) as an exercise of the rulemaking power of the Senate and as such it is deemed a part of the rules of the Senate, but applicable only with respect to the procedure to be followed in the Senate in the case of resolutions described by paragraph (3); it supersedes other rules only to the extent that is inconsistent therewith; and
+&emsp;(A) as an exercise of the rulemaking power of the Senate and as such it is deemed a part of the rules of the Senate, but applicable only with respect to the procedure to be followed inthe Senate in the case of resolutions described by paragraph (3); it supersedes other rules only to the extent that is inconsistent therewith; and
 
 &emsp;(B) with full recognition of the constitutional right of the Senate to change the rules (so far as relating to the procedure of the Senate) at any time, in the same manner and to the same extent as in the case of any other rule of the Senate.
 
@@ -156,6 +156,8 @@ The antitrust defense under subsection (f) shall not extend to the international
 
 (Pub. L. 94–163, title II, §252, Dec. 22, 1975, 89 Stat. 894; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 96–30, June 30, 1979, 93 Stat. 80; Pub. L. 96–94, Oct. 31, 1979, 93 Stat. 720; Pub. L. 96–133, §§1, 2, Nov. 30, 1979, 93 Stat. 1053; Pub. L. 97–5, Mar. 13, 1981, 95 Stat. 7; Pub. L. 97–50, Sept. 30, 1981, 95 Stat. 957; Pub. L. 97–163, Apr. 1, 1982, 96 Stat. 24; Pub. L. 97–190, June 1, 1982, 96 Stat. 106; Pub. L. 97–217, July 19, 1982, 96 Stat. 196; Pub. L. 97–229, §2(a), (b)(2), Aug. 3, 1982, 96 Stat. 248; Pub. L. 98–239, Mar. 20, 1984, 98 Stat. 93; Pub. L. 99–58, title I, §§104(c)(2), (4), 105, July 2, 1985, 99 Stat. 105; Pub. L. 104–66, title I, §1091(g), Dec. 21, 1995, 109 Stat. 722; Pub. L. 105–177, §1(4), June 1, 1998, 112 Stat. 105.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Antitrust Civil Process Act, referred to in subsec. (e)(4), is Pub. L. 87–664, Sept. 19, 1962, 76 Stat. 548, which is classified principally to chapter 34 (§1311 et seq.) of Title 15. For complete classification of that Act to the Code, see Short Title note set out under section 1311 of Title 15 and Tables.
@@ -176,9 +178,9 @@ Subsec. (e)(2). Pub. L. 105–177, §1(4)(C), substituted "may" for "shall".
 
 Subsec. (f)(2). Pub. L. 105–177, §1(4)(D), inserted "voluntary agreement or" after "approved".
 
-Subsec. (h). Pub. L. 105–177, §1(4)(E), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: "Upon the expiration of the 90-day period which begins on December 22, 1975, the provisions of sections 708 and 708A (other than 708A(o)) of the Defense Production Act of 1950 shall not apply to any agreement or action undertaken for the purpose of developing or carrying out (1) the international energy program, or (2) any allocation, price control, or similar program with respect to petroleum products under this chapter or under the Emergency Petroleum Allocation Act of 1973. For purposes of section 708(A)(o) of the Defense Production Act of 1950, the effective date of the provisions of this chapter which relate to international voluntary agreements to carry out the International Energy Program shall be deemed to be 90 days after December 22, 1975."
+Subsec. (h). Pub. L. 105–177, §1(4)(E), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: "Upon the expiration of the 90-day period which begins on December 22, 1975, the provisions of sections 708 and 708A (other than 708A(o)) of the Defense Production Act of 1950 shall not apply to any agreement or action undertaken for the purpose of developing or carrying out (1) the international energy program, or (2) any allocation, price control, or similar program with respect to petroleum products under this chapter or under the Emergency Petroleum Allocation Act of 1973. For purposes of section 708(A)(o) of the Defense Production Act of 1950, the effective date of the provisions of this chapter which relate to international voluntary agreements to carry out the InternationalEnergy Program shall be deemed to be 90 days after December 22, 1975."
 
-Subsec. (k)(2). Pub. L. 105–177, §1(4)(F), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The term 'allocation and information provisions of the international energy program' means the provisions of the international energy program which relateto international allocation of petroleum products and to the information system provided in such program."
+Subsec. (k)(2). Pub. L. 105–177, §1(4)(F), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The term 'allocation and information provisions of the international energy program' means the provisions of the international energy program which relate to international allocation of petroleum products and to the information system provided in such program."
 
 Subsec. (l). Pub. L. 105–177, §1(4)(G), amended subsec. (l) generally. Prior to amendment, subsec. (l) read as follows: "The authority granted by this section shall apply only to the development or carrying out of voluntary agreements and plans of action to implement chapters III, IV, and V of the international energy program."
 
@@ -216,6 +218,8 @@ Pub. L. 96–30 substituted "October 31, 1979" for "June 30, 1979".
 
 <b>1978</b>—Subsecs. (b), (c)(1)(A)(iii), (2), (3), (d)(1), (2), (e)(2). Pub. L. 95–619 substituted "Secretary" for "Administrator", meaning Administrator of the Federal Energy Administration, wherever appearing.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Study and Report on Energy Policy Cooperation Between United States and Other Western Hemisphere Countries
 
 Pub. L. 100–373, §2, July 19, 1988, 102 Stat. 878, directed Secretary of Energy, in consultation with Secretary of State and Secretary of Commerce, to conduct a study to determine how best to enhance cooperation between United States and other countries of Western Hemisphere with respect to energy policy including stable supplies of, and stable prices for, energy, with Secretary of Energy to report results of such study to Congress, propose a comprehensive international energy policy for United States designed to enhance cooperation between United States and other countries of the Western Hemisphere, and recommend such action as Secretary deemed necessary to establish and implement such policy.
@@ -223,6 +227,8 @@ Pub. L. 100–373, §2, July 19, 1988, 102 Stat. 878, directed Secretary of Ener
 #### Report of Implementation Activities Under International Voluntary Agreements
 
 Pub. L. 96–133, §3, Nov. 30, 1979, 93 Stat. 1053, directed Secretary of Energy, in consultation with Secretary of State, Attorney General, and Chairman of Federal Trade Commission, to prepare and submit to appropriate committees of Congress, a report concerning actions taken by them to carry out provisions of this section, which report was to examine and discuss extent to which all, or part, of any meeting held in accordance with subsec. (c) of this section to carry out a voluntary agreement or to develop or carry out a plan of action should be open to interested persons in furtherance of provisions of subsec. (c)(1)(A) of this section, policies and procedures followed by appropriate Federal agencies in reviewing and making public or withholding from the public all, or part, of any transcript of any meeting held to develop or carry out a voluntary agreement or plan of action under this section and in permitting persons, other than citizens of United States, to review such transcripts prior to any public disclosure thereof, extent to which classification of all, or part, of such transcripts should be carried out by one agency, adequacy of actions by responsible Federal agencies in insuring that standards and procedures required by this section are fully implemented and enforced, including monitoring of program concerning any anticompetitive effects, and number of personnel, and amount of funds, assigned by each such agency to carry out such standards and procedures, actions taken, or to be taken, to improve reporting of energy supply data under international energy program and to reconcile such reporting with similar reporting that is conducted by Department of Energy, actions taken, or planned, to improve reporting required by subsec. (i) of this section, and other actions under subsec. (i) of this section and to transmit such report to such committees within 120 days after Nov. 30, 1979, and to make such report available to the public.
+
+#### <b>Executive Documents</b>
 
 #### Classification of Certain Information and Material
 

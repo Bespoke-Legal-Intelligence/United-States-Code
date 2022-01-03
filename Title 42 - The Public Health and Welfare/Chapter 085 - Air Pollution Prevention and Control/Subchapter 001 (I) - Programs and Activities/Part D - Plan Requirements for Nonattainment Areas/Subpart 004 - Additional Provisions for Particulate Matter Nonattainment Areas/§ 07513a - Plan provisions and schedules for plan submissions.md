@@ -16,7 +16,7 @@
 
 &emsp;A State shall submit the plan required under subparagraph (1) no later than the following:
 
-&emsp;&emsp;(A) Within 1 year of November 15, 1990, for areas designated nonattainment under section 7407(d)(4) of this title, except that theprovision required under subparagraph (1)(A) shall be submitted no later than June 30, 1992.
+&emsp;&emsp;(A) Within 1 year of November 15, 1990, for areas designated nonattainment under section 7407(d)(4) of this title, except that the provision required under subparagraph (1)(A) shall be submitted no later than June 30, 1992.
 
 &emsp;&emsp;(B) 18 months after the designation as nonattainment, for those areas designated nonattainment after the designations prescribed under section 7407(d)(4) of this title.
 

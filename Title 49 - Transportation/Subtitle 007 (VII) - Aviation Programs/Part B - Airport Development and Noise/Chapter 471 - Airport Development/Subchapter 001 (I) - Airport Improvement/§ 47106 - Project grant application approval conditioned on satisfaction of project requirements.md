@@ -58,7 +58,7 @@ Environmental Requirements.—(1) The Secretary may approve an application under
 
 &emsp;&emsp;(iii) with respect to an airport development project involving the location of an airport, runway, or major runway extension at a medium or large hub airport, the airport sponsor has made available to and has provided upon request to the metropolitan planning organization in the area in which the airport is located, if any, a copy of the proposed amendment to the airport layout plan to depict the project and a copy of any airport master plan in which the project is described or depicted; and
 
-&emsp;(B) if the application is found to have a significant adverse effect on natural resources, including fish and wildlife, natural, scenic, and recreation assets, water and air quality, or another factor affecting the environment, only after finding that no possible and prudent alternative to the project exists and thatevery reasonable step has been taken to minimize the adverse effect.
+&emsp;(B) if the application is found to have a significant adverse effect on natural resources, including fish and wildlife, natural, scenic, and recreation assets, water and air quality, or another factor affecting the environment, only after finding that no possible and prudent alternative to the project exists and that every reasonable step has been taken to minimize the adverse effect.
 
 (2) The Secretary may approve an application under this subchapter for an airport development project that does not involve the location of an airport or runway, or a major runway extension, at an existing airport without requiring an environmental impact statement related to noise for the project if—
 
@@ -84,7 +84,7 @@ Withholding Approval.—(1) The Secretary may withhold approval of an applicatio
 
 &emsp;(B) the hearing officer if the officer decides an extension is necessary because the sponsor did not follow the schedule the officer established.
 
-(3) A person adversely affected by an order of the Secretary withholding approval may obtain review of the order by filing a petition in the United States Court of Appeals for the District of Columbia Circuit or in the court of appeals of the United States for the circuit in which the project is located. The action must be brought not later than 60 days after the order is served on the petitioner.
+(3) A person adversely affected by an order of the Secretary withholding approval may obtainreview of the order by filing a petition in the United States Court of Appeals for the District of Columbia Circuit or in the court of appeals of the United States for the circuit in which the project is located. The action must be brought not later than 60 days after the order is served on the petitioner.
 
 (e)
 
@@ -230,6 +230,8 @@ In subsection (e)(2)(A), the word "mutual" is omitted as surplus.
 
 In subsection (e)(3), the words "adversely affected" are substituted for "aggrieved" for consistency in the revised title and with other titles of the United States Code. The words "the date on which" are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a)(6). Pub. L. 115–254, §148(a)(2), inserted "that includes the project" before ", the master plan" in introductory provisions.
@@ -275,6 +277,8 @@ Subsec. (c)(4), (5). Pub. L. 108–176, §305(5)–(7), redesignated par. (5) as
 General Aviation Airport Project Grant Application Approval.—(1) In this subsection, 'general aviation airport' means a public airport that is not an air carrier airport.
 
 "(2) The Secretary may approve an application under this subchapter for an airport development project included in a project grant application involving the construction or extension of a runway at a general aviation airport located on both sides of a boundary line separating 2 counties within a State only if, before the application is submitted to the Secretary, the project is approved by the governing body of each village incorporated under the laws of the State and located entirely within 5 miles of the nearest boundary of the airport."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

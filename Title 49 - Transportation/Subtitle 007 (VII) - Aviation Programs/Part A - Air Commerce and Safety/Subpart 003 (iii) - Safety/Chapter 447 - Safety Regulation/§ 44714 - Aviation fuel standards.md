@@ -26,6 +26,8 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §601(e); added Dec. 31, 1970, Pu
 
 In this section, before clause (1), the words "and from time to time revise" are omitted as surplus. In clause (1), the words "establishing" and "the purpose of" are omitted as surplus.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Aviation Fuel
 
 Pub. L. 115–254, div. B, title V, §565, Oct. 5, 2018, 132 Stat. 3385, provided that:
@@ -38,7 +40,7 @@ Use of Unleaded Aviation Gasoline.—The Administrator \[of the Federal Aviation
 
 &emsp;"(2) identifies the aircraft and engines that are eligible to use the qualified replacement unleaded gasoline; and
 
-&emsp;"(3) adopts a process (other than the traditional means of certification) to allow eligible aircraft andengines to operate using qualified replacement unleaded gasoline in a manner that ensures safety.
+&emsp;"(3) adopts a process (other than the traditional means of certification) to allow eligible aircraft and engines to operate using qualified replacement unleaded gasoline in a manner that ensures safety.
 
 "(b)
 

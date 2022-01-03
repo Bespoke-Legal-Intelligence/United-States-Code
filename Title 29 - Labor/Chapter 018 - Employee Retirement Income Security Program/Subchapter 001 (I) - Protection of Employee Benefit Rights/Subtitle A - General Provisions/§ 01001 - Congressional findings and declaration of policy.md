@@ -6,7 +6,7 @@ The Congress finds that the growth in size, scope, and numbers of employee benef
 
 #### (b) Protection of interstate commerce and beneficiaries by requiring disclosure and reporting, setting standards of conduct, etc., for fiduciaries
 
-It is hereby declared to be the policy of this chapter to protect interstate commerce and the interests of participants in employee benefit plans and their beneficiaries, by requiring thedisclosure and reporting to participants and beneficiaries of financial and other information with respect thereto, by establishing standards of conduct, responsibility, and obligation for fiduciaries of employee benefit plans, and by providing for appropriate remedies, sanctions, and ready access to the Federal courts.
+It is hereby declared to be the policy of this chapter to protect interstate commerce and theinterests of participants in employee benefit plans and their beneficiaries, by requiring the disclosure and reporting to participants and beneficiaries of financial and other information with respect thereto, by establishing standards of conduct, responsibility, and obligation for fiduciaries of employee benefit plans, and by providing for appropriate remedies, sanctions, and ready access to the Federal courts.
 
 #### (c) Protection of interstate commerce, the Federal taxing power, and beneficiaries by vesting of accrued benefits, setting minimum standards of funding, requiring termination insurance
 
@@ -96,7 +96,7 @@ Requirement of Joint and Survivor Annuity and Preretirement Survivor Annuity.—
 
 &emsp;"(1)
 
-Requirement that participant have at least 1 hour of service or paid leave on or after date of enactment.—The amendments made by sections 103 and 203 \[amending section 1055 of this title and section 401 of Title 26 and enacting section 417 of Title 26\] shall apply only in the case of participants who have at least 1 hour of service under the plan on or after the date of the enactment of this Act \[Aug. 23, 1984\] or have at least 1 hour of paid leave on or after such date of enactment.
+Requirement that participant have at least 1 hour of service or paid leave on or after date ofenactment.—The amendments made by sections 103 and 203 \[amending section 1055 of this title and section 401 of Title 26 and enacting section 417 of Title 26\] shall apply only in the case of participants who have at least 1 hour of service under the plan on or after the date of the enactment of this Act \[Aug. 23, 1984\] or have at least 1 hour of paid leave on or after such date of enactment.
 
 &emsp;"(2)
 
@@ -194,7 +194,7 @@ Penalty.—If any plan fails to meet the requirements of clause (i), such plan s
 
 Responsibilities of secretary of labor.—The Secretary of Labor shall take such steps (by public announcements and otherwise) as may be necessary or appropriate to bring to public attention the provisions of this subsection.
 
-"(f) The amendments made by section 301 of this Act \[amending section 1054 of this title and sections 401 and 411 of Title 26\] shall not apply to the termination of a defined benefit plan if such termination—
+"(f) The amendments made by section 301 of this Act \[amending section 1054 of this title and sections 401 and411 of Title 26\] shall not apply to the termination of a defined benefit plan if such termination—
 
 &emsp;"(1) is pursuant to a resolution directing the termination of such plan which was adopted by the Board of Directors of a corporation on July 17, 1984, and
 

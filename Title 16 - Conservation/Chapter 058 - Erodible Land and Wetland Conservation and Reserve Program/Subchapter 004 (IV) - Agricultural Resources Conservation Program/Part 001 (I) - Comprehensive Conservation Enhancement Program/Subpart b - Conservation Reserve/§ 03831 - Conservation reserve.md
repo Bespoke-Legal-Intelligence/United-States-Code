@@ -14,7 +14,7 @@ The Secretary may include in the program established under this subpart—
 
 &emsp;&emsp;(ii) cannot be farmed in accordance with a plan that complies with the requirements of subchapter II; and
 
-&emsp;&emsp;(B) the Secretary determines had a cropping history or was considered to be plantedfor 4 of the 6 years preceding December 20, 2018, on the condition that the Secretary shall consider to be planted cropland enrolled in the conservation reserve program;
+&emsp;&emsp;(B) the Secretary determines had a cropping history or was considered to be planted for 4 of the 6 years preceding December 20, 2018, on the condition that the Secretary shall consider to be planted cropland enrolled in the conservation reserve program;
 
 &emsp;(2) marginal pasture land to be devoted to appropriate vegetation, including trees, in or near riparian areas, or devoted to similar water quality purposes (including marginal pastureland converted to wetland or established as wildlife habitat);
 
@@ -292,7 +292,7 @@ For purposes of determining the eligibility of land to be placed in the conserva
 
 &emsp;&emsp;&emsp;(i) riparian forested buffers;
 
-&emsp;&emsp;&emsp;(ii) forested wetlands enrolled under subsection (d)(3) or the conservation reserve enhancement program under section 3831a of this title; and
+&emsp;&emsp;&emsp;(ii) forested wetlands enrolled under subsection (d)(3) or the conservation reserveenhancement program under section 3831a of this title; and
 
 &emsp;&emsp;&emsp;(iii) shelterbelts.
 
@@ -301,6 +301,8 @@ For purposes of determining the eligibility of land to be placed in the conserva
 In determining the acceptability of contract offers under this subpart, the Secretary shall ensure, to the maximum extent practicable, an equitable balance among the conservation purposes of soil erosion, water quality, and wildlife habitat.
 
 (Pub. L. 99–198, title XII, §1231, as added Pub. L. 107–171, title II, §2101(a), May 13, 2002, 116 Stat. 238; amended Pub. L. 109–148, div. B, title I, §107(a), Dec. 30, 2005, 119 Stat. 2750; Pub. L. 109–234, title III, §3022, June 15, 2006, 120 Stat. 478; Pub. L. 110–28, title IV, §4101, May 25, 2007, 121 Stat. 152; Pub. L. 110–234, title II, §§2101–2105, 2106(a)(2), (b)(1), May 22, 2008, 122 Stat. 1028, 1029, 1031, 1032; Pub. L. 110–246, §4(a), title II, §§2101–2105, 2106(a)(2), (b)(1), June 18, 2008, 122 Stat. 1664, 1756, 1757, 1759, 1760; Pub. L. 112–240, title VII, §701(c)(1), Jan. 2, 2013, 126 Stat. 2363; Pub. L. 113–79, title II, §2001, Feb. 7, 2014, 128 Stat. 713; Pub. L. 115–334, title II, §2201, Dec. 20, 2018, 132 Stat. 4530.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -378,7 +380,7 @@ Subsec. (c). Pub. L. 113–79, §2001(c), substituted "if, during the crop year,
 
 "(B) the contract of the owner or operator of the cropland expired or will expire in calendar year 2000, 2001, or 2002."
 
-Subsec. (d). Pub. L. 113–79, §2001(d), amended subsec. (d) generally. Prior to amendment, text read as follows: "The Secretary may maintain up to 39,200,000 acres in the conservation reserve at any 1 time during the 2002 through 2009 fiscal years (including contracts extended by the Secretary pursuant to section 1437(c) of the Food, Agriculture, Conservation, and Trade Act of 1990 (16 U.S.C. 3831 note; Public Law 101–624)). During fiscal years 2010, 2011, 2012, and 2013, the Secretary may maintain up to 32,000,000 acres in the conservation reserve at any 1 time."
+Subsec. (d). Pub. L. 113–79, §2001(d), amended subsec. (d) generally. Prior to amendment, text read as follows: "The Secretary may maintain up to 39,200,000 acres inthe conservation reserve at any 1 time during the 2002 through 2009 fiscal years (including contracts extended by the Secretary pursuant to section 1437(c) of the Food, Agriculture, Conservation, and Trade Act of 1990 (16 U.S.C. 3831 note; Public Law 101–624)). During fiscal years 2010, 2011, 2012, and 2013, the Secretary may maintain up to 32,000,000 acres in the conservation reserve at any 1 time."
 
 Subsec. (e)(2), (3). Pub. L. 113–79, §2001(e), added par. (2) and struck out former pars. (2) and (3) which related to duration of contracts for certain land and 1-year extensions, respectively.
 
@@ -406,7 +408,7 @@ Subsec. (f)(1). Pub. L. 110–246, §2104, substituted "the Chesapeake Bay Regio
 
 Subsec. (g). Pub. L. 110–246, §2105, amended subsec. (g) generally. Prior to amendment, text read as follows: "For purposes of this subpart, alfalfa and other multi-year grasses and legumes in a rotation practice, approved by the Secretary, shall be considered agricultural commodities."
 
-Subsecs. (h) to (j). Pub. L. 110–246, §2106(a)(2), redesignated subsecs. (i) and (j) as (h) and (i), respectively, and struck out former subsec. (h) which related to pilot program for enrollment of wetland and buffer acreagein conservation reserve during 2002 through 2007 calendar years.
+Subsecs. (h) to (j). Pub. L. 110–246, §2106(a)(2), redesignated subsecs. (i) and (j) as (h) and (i), respectively, and struck out former subsec. (h) which related to pilot program for enrollment of wetland and buffer acreage in conservation reserve during 2002 through 2007 calendar years.
 
 Subsec. (k). Pub. L. 110–246, §2106(b)(1), renumbered subsec. (k) as section 3831a of this title.
 
@@ -415,6 +417,8 @@ Subsec. (k). Pub. L. 110–246, §2106(b)(1), renumbered subsec. (k) as section 
 <b>2006</b>—Subsec. (k)(3)(G). Pub. L. 109–234 substituted "$504,100,000" for "$404,100,000".
 
 <b>2005</b>—Subsec. (k). Pub. L. 109–148 added subsec. (k).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2013 Amendment
 
@@ -446,7 +450,7 @@ Updating of Existing Contracts.—The Secretary shall permit an owner or operato
 
 #### Study on Economic Effects
 
-Pub. L. 107–171, title II, §2101(b), May 13, 2002, 116 Stat. 252, provided that, not later than 18 months after May 13, 2002, the Secretary of Agriculture would submit to Congress a report, to include specified analyses, that describes the economic and social effects on rural communities resulting from the conservation reserve program established under subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3831 et seq.).
+Pub. L. 107–171, title II, §2101(b), May 13, 2002, 116 Stat. 252, provided that, not later than 18 months after May 13, 2002, the Secretary of Agriculture would submit to Congress a report, to include specified analyses, that describes the economic and social effects on rural communities resulting from the conservation reserve program established under subchapter B of chapter 1 ofsubtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3831 et seq.).
 
 #### Study of Impact of Pilot Program
 

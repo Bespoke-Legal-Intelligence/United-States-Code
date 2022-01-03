@@ -92,7 +92,7 @@ Pipeline Facilities Offshore and in Other Waters.—(1) In this subsection—
 
 (4)(A) The Secretary shall establish a standard that each pipeline facility described in paragraph (2) of this subsection that is a hazard to navigation is buried not later than 6 months after the date the condition of the facility is reported to the Secretary. The Secretary may extend that 6-month period for a reasonable period to ensure compliance with this paragraph.
 
-(B) In prescribing standards for subparagraph (A) of this paragraph for an underwater pipeline facility abandoned after October 24, 1992, the Secretary shall include requirements that will lessen the potential that the facility will pose a hazard to navigation and shall consider the relationship between water depth and navigationalsafety and factors relevant to the local marine environment.
+(B) In prescribing standards for subparagraph (A) of this paragraph for an underwater pipeline facility abandoned after October 24, 1992, the Secretary shall include requirements that will lessen the potential that the facility will pose a hazard to navigation and shall consider the relationship between water depth and navigational safety and factors relevant to the local marine environment.
 
 (5)(A) Not later than October 24, 1994, the Secretary shall establish standards on what is an exposed offshore pipeline facility and what is a hazard to navigation under this subsection.
 
@@ -104,7 +104,7 @@ Pipeline Facilities Offshore and in Other Waters.—(1) In this subsection—
 
 (B) Not later than October 24, 1995, the operator of a pipeline facility abandoned before October 24, 1992, shall report to the Secretary reasonably available information related to the facility, including information that a third party possesses. The information shall include the location, size, date, and method of abandonment, whether the facility has been abandoned properly under applicable law, and other relevant information the Secretary may require. Not later than April 24, 1994, the Secretary shall specify how the information shall be reported. The Secretary shall ensure that the Government maintains the information in a way accessible to appropriate Government agencies and State authorities.
 
-(C) The Secretary shall request that a State authority having information on a collision between a vessel and an underwater pipeline facility report the information to the Secretary in a timely way and make a reasonable effort to specify the location, date, and severity of the collision. Chapter 35 of title 44 does not apply to this subparagraph.
+(C) The Secretary shall request that a State authority having information on a collision between a vessel and an underwater pipeline facility report the information to the Secretary in atimely way and make a reasonable effort to specify the location, date, and severity of the collision. Chapter 35 of title 44 does not apply to this subparagraph.
 
 (7) The Secretary may not exempt from this chapter an offshore hazardous liquid pipeline facility only because the pipeline facility transfers hazardous liquid in an underwater pipeline between a vessel and an onshore facility.
 
@@ -324,11 +324,13 @@ In subsection (c)(7), the words "regulation under" are omitted as surplus. The w
 
 In subsection (d)(2), the words "(relating to coordination of Federal information policy)" are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this subparagraph, referred to in subsec. (a)(3)(A), is the date of enactment of Pub. L. 116–260, which was approved Dec. 27, 2020.
 
-Section 3(h)(1)(A) of the Natural Gas Pipeline Safety Act of 1968, referred to in subsec. (c)(2)(A), (5)(B), is section 3(h)(1)(A) of Pub. L. 90–481, which was classified to section 1672(h)(1)(A) of former Title 49, Transportation,prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379. For further details, see Historical and Revision Notes above.
+Section 3(h)(1)(A) of the Natural Gas Pipeline Safety Act of 1968, referred to in subsec. (c)(2)(A), (5)(B), is section 3(h)(1)(A) of Pub. L. 90–481, which was classified to section 1672(h)(1)(A) of former Title 49, Transportation, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379. For further details, see Historical and Revision Notes above.
 
 Section 203(l)(1)(A) of the Hazardous Liquid Pipeline Safety Act of 1979, referred to in subsec. (c)(2)(A), (5)(B), is section 203(l)(1)(A) of Pub. L. 96–129, which was classified to section 2002(l)(1)(A) of former Title 49, Transportation, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379. For further details, see Historical and Revision Notes above.
 
@@ -368,13 +370,15 @@ Subsec. (c)(4)(A). Pub. L. 104–304, §20(h)(2), substituted "establish a stand
 
 Subsecs. (c)(4)(B), (d)(3). Pub. L. 104–304, §20(h)(1), substituted "standards" for "regulations".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Deadline
 
-Pub. L. 116–260, div. R, title I, §114(b), Dec. 27, 2020, 134 Stat. 2231, provided that: "Not later than 1 year after the date of enactment of this Act \[Dec. 27, 2020\], each pipeline operator shall update the inspection and maintenance plan prepared by the operator under section 60108(a) of title 49, United States Code, to address the elements described in the amendments to that section made by subsection (a)."
+Pub. L. 116–260, div. R, title I, §114(b), Dec. 27, 2020, 134 Stat. 2231, provided that: "Not later than 1 year after the date of enactment of this Act \[Dec. 27, 2020\], eachpipeline operator shall update the inspection and maintenance plan prepared by the operator under section 60108(a) of title 49, United States Code, to address the elements described in the amendments to that section made by subsection (a)."
 
 #### Information-Sharing System
 
@@ -540,7 +544,7 @@ Congressional authority.—In order to provide Congress the necessary time to re
 
 &emsp;"(3)
 
-Standards.—As soon as practicable following the review period, if the report required by subsection\(a) finds that it is practicable to establish technically, operationally, and economically feasible standards for the capability of leak detection systems to detect leaks, the Secretary shall issue final regulations that—
+Standards.—As soon as practicable following the review period, if the report required by subsection (a) finds that it is practicable to establish technically, operationally, and economically feasible standards for the capability of leak detection systems to detect leaks, the Secretary shall issue final regulations that—
 
 &emsp;&emsp;"(A) require operators of hazardous liquid pipeline facilities to use leak detection systems where practicable; and
 

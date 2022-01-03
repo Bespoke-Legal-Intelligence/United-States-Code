@@ -32,7 +32,7 @@ An entity that receives a grant, contract, or cooperative agreement under this s
 
 &emsp;(7) To evaluate the effectiveness of the program carried out under this section in increasing student access to evidence-based trauma support services and mental health care.
 
-&emsp;(8) To establish partnerships with or provide subgrants to Head Start agencies (including Early Head Start agencies), public and private preschool programs, child care programs (including home-based providers), or other entities described in subsection (a), to includesuch entities described in this paragraph in the evidence-based trauma initiatives, activities, support services, and mental health systems established under this section in order to provide, develop, or improve prevention, screening, referral, and treatment and support services to young children and their families.
+&emsp;(8) To establish partnerships with or provide subgrants to Head Start agencies (including Early Head Start agencies), public and private preschool programs, child care programs (including home-based providers), or other entities described in subsection (a), to include such entities described in this paragraph in the evidence-based trauma initiatives, activities, support services, and mental health systems established under this section in order to provide, develop, or improve prevention, screening, referral, and treatment and support services to young children and their families.
 
 #### (d) Applications
 
@@ -62,7 +62,7 @@ To be eligible to receive a grant, contract, or cooperative agreement under this
 
 #### (2) Contents
 
-&emsp;In ensuring the provision of the services described in subsection (c), the local interagency agreement shall specify with respect to each agency, authority, or entity that is a party to such agreement—
+&emsp;In ensuring the provision of the services described in subsection (c), the local interagency agreement shall specify with respect to eachagency, authority, or entity that is a party to such agreement—
 
 &emsp;&emsp;(A) the financial responsibility for the services;
 
@@ -151,6 +151,8 @@ In this section:
 There is authorized to be appropriated to carry out this section, $50,000,000 for each of fiscal years 2019 through 2023.
 
 (Pub. L. 115–271, title VII, §7134, Oct. 24, 2018, 132 Stat. 4051.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

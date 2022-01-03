@@ -4,11 +4,13 @@ The Secretary of Agriculture shall utilize, to the fullest extent practicable, t
 
 (Pub. L. 97–98, title I, §106, Dec. 22, 1981, 95 Stat. 1220; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(A), June 18, 2008, 122 Stat. 1820.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Commodity Credit Corporation Charter Act, referred to in text, is act June 29, 1948, ch. 704, 62 Stat. 1070, which is classified generally to subchapter II (§714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 714 of Title 15 and Tables.
 
-The Food for Peace Act, referred to in text, is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to chapter 41 (§1691 et seq.) of this title. Forcomplete classification of this Act to the Code, see Short Title note set out under section 1691 of this title and Tables.
+The Food for Peace Act, referred to in text, is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to chapter 41 (§1691 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of this title and Tables.
 
 The Congressional Budget Act of 1974, referred to in text, is titles I through IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 298. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2, The Congress, and Tables.
 
@@ -19,6 +21,8 @@ Section was enacted as part of the Agriculture and Food Act of 1981, and not as 
 #### Amendments
 
 <b>2008</b>—Pub. L. 110–246 substituted "Food for Peace Act" for "Agricultural Trade Development and Assistance Act of 1954".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

@@ -1,5 +1,7 @@
 ### §15511. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 15511 was editorially reclassified as section 21111 of Title 52, Voting and Elections.

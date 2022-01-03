@@ -78,7 +78,7 @@ The conservation plan authorized by this section shall include—
 
 #### (2) Reconsideration
 
-&emsp;If the Governor submits a modified conservation plan to the Secretary, the Director, and the Administrator for their reconsideration, the Secretary, the Director, and Administrator shall have ninety days to determine whether the modifications are sufficient to bring the plan into compliance with requirements of subsection (d) of this section.
+&emsp;If the Governor submits a modified conservation plan to the Secretary, the Director,and the Administrator for their reconsideration, the Secretary, the Director, and Administrator shall have ninety days to determine whether the modifications are sufficient to bring the plan into compliance with requirements of subsection (d) of this section.
 
 #### (3) Approval of modified plan
 

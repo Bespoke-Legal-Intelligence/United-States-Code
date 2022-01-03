@@ -19,4 +19,4 @@
 - [&sect; 04011 - Termination of limited appointments](%C2%A7%2004011%20-%20Termination%20of%20limited%20appointments.md)
 - [&sect; 04012 - Termination of appointments of consular agents and foreign national employees](%C2%A7%2004012%20-%20Termination%20of%20appointments%20of%20consular%20agents%20and%20foreign%20national%20employees.md)
 - [&sect; 04012a - Foreign national employees separation pay](%C2%A7%2004012a%20-%20Foreign%20national%20employees%20separation%20pay.md)
-- [&sect; 04013 - Foreign Service awards](%C2%A7%2004013%20-%20Foreign%20Service%20awards.md)
+- [&sect; 04013 - Department awards](%C2%A7%2004013%20-%20Department%20awards.md)

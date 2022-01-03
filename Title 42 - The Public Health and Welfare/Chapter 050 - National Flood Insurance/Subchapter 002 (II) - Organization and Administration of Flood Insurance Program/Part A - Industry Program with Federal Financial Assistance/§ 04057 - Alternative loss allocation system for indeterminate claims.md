@@ -70,7 +70,7 @@ In this section:
 
 &emsp;&emsp;(A) incorporate data available from the Coastal Wind and Water Event Database established under section 3611(f) of title 33;
 
-&emsp;&emsp;(B) use relevant data provided on the National Flood Insurance Program Elevation Certificate, or other data or information used to determine a property's current risk of flood, as determined by the Administrator, for each indeterminate loss for which the formula is used;
+&emsp;&emsp;(B) use relevant data provided on the National Flood Insurance Program ElevationCertificate, or other data or information used to determine a property's current risk of flood, as determined by the Administrator, for each indeterminate loss for which the formula is used;
 
 &emsp;&emsp;(C) consider any sufficient and credible evidence, approved by the Administrator, of the pre-event condition of a specific property, including the findings of any policyholder or insurance claims adjuster in connection with the indeterminate loss to that specific property;
 
@@ -120,7 +120,7 @@ In this section:
 
 #### (i) Effective date
 
-&emsp;&emsp;&emsp;Paragraphs (1) and (2) of this subsection shall not take effect unless the report under subparagraph (A) relating to the establishment of the COASTAL Formula concludes that the use of the COASTAL Formula for purposes of paragraph <sup>2</sup> (1) and (2) would not have an adverse financial impact on the national flood insurance program and that the COASTAL Formula isbased on valid scientific assumptions that would allow a degree of accuracy of not less than 90 percent to be achieved in allocating flood losses for indeterminate losses.
+&emsp;&emsp;&emsp;Paragraphs (1) and (2) of this subsection shall not take effect unless the report under subparagraph (A) relating to the establishment of the COASTAL Formula concludes that the use of the COASTAL Formula for purposes of paragraph <sup>2</sup> (1) and (2) would not have an adverse financial impact on the national flood insurance program and that the COASTAL Formula is based on valid scientific assumptions that would allow a degree of accuracy of not less than 90 percent to be achieved in allocating flood losses for indeterminate losses.
 
 #### (ii) Effect of modifications
 
@@ -128,7 +128,7 @@ In this section:
 
 #### (C) Funding
 
-&emsp;&emsp;Notwithstanding section 4017 of this title, there shall be available to the Administrator from the National Flood Insurance Fund, of amounts not otherwise obligated, not more than $750,000 to carry out this paragraph.
+&emsp;&emsp;Notwithstanding section 4017 of this title, there shall be available to the Administratorfrom the National Flood Insurance Fund, of amounts not otherwise obligated, not more than $750,000 to carry out this paragraph.
 
 #### (d) Disclosure of COASTAL Formula
 
@@ -188,6 +188,8 @@ Nothing in this section shall be construed to create a cause of action under thi
 
 (Pub. L. 90–448, title XIII, §1337, as added Pub. L. 112–141, div. F, title II, §100253, July 6, 2012, 126 Stat. 974; amended Pub. L. 116–271, title II, §201(b), Dec. 31, 2020, 134 Stat. 3346.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2020</b>—Subsec. (a)(3). Pub. L. 116–271, §201(b)(1)(A), inserted ", except that the term shall not apply with respect to a State or territory that has an operational wind and flood loss allocation system" before period at end.
@@ -198,7 +200,7 @@ Subsec. (b)(1). Pub. L. 116–271, §201(b)(2)(A), substituted "publish for comm
 
 Subsec. (b)(2)(B). Pub. L. 116–271, §201(b)(2)(B), inserted ", or other data or information used to determine a property's current risk of flood, as determined by the Administrator," after "Elevation Certificate".
 
-Subsec. (c)(3)(A)(i). Pub. L. 116–271, §201(b)(3), substituted "publication of the COASTAL Formula in theFederal Register as required by subsection (b)(1)" for "the issuance of the rule establishing the COASTAL Formula".
+Subsec. (c)(3)(A)(i). Pub. L. 116–271, §201(b)(3), substituted "publication of the COASTAL Formula in the Federal Register as required by subsection (b)(1)" for "the issuance of the rule establishing the COASTAL Formula".
 
 Subsec. (d). Pub. L. 116–271, §201(b)(4), substituted "section 3611(b)(2)(E)" for "section 3611(b)(2)(C)".
 

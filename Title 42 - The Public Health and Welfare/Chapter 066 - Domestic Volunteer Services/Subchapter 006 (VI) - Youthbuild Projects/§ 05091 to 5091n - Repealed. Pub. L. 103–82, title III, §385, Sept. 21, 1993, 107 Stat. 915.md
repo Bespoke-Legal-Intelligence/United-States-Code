@@ -16,7 +16,7 @@ Section 5091f, Pub. L. 93–113, title VII, §707, as added Pub. L. 101–610, t
 
 Section 5091g, Pub. L. 93–113, title VII, §708, as added Pub. L. 101–610, title II, §211, Nov. 16, 1990, 104 Stat. 3176, directed that services and activities be carried out through arrangements or under contracts with certain entities.
 
-Section 5091h, Pub. L. 93–113, title VII, §709, as added Pub. L. 101–610, title II, §211, Nov. 16, 1990, 104 Stat. 3176, directed prescribing of standards for evaluating performance of projects.
+Section 5091h, Pub. L. 93–113, title VII, §709, as added Pub. L. 101–610, title II, §211, Nov. 16, 1990, 104 Stat. 3176,directed prescribing of standards for evaluating performance of projects.
 
 Section 5091i, Pub. L. 93–113, title VII, §710, as added Pub. L. 101–610, title II, §211, Nov. 16, 1990, 104 Stat. 3176, related to applications for grants.
 
@@ -29,6 +29,8 @@ Section 5091l, Pub. L. 93–113, title VII, §713, as added Pub. L. 101–610, t
 Section 5091m, Pub. L. 93–113, title VII, §715, as added Pub. L. 101–610, title II, §211, Nov. 16, 1990, 104 Stat. 3179; amended Pub. L. 102–10, §10, Mar. 12, 1991, 105 Stat. 32, directed issuance of necessary regulations.
 
 Section 5091n, Pub. L. 93–113, title VII, §716, as added Pub. L. 101–610, title II, §211, Nov. 16, 1990, 104 Stat. 3179, authorized appropriations to carry out this subchapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of Repeal
 

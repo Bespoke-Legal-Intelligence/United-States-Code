@@ -4,6 +4,8 @@ Employees of the Department of Agriculture stationed abroad may, with the approv
 
 (Sept. 21, 1944, ch. 412, title VII, §705(c), 58 Stat. 742.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 This section was enacted as part of the Department of Agriculture Organic Act of 1944.

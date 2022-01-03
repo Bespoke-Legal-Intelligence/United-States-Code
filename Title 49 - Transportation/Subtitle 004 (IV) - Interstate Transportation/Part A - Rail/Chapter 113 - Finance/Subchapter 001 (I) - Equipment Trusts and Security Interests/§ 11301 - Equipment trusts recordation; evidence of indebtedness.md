@@ -20,6 +20,8 @@
 
 (Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 837; amended Pub. L. 104–287, §5(25), Oct. 11, 1996, 110 Stat. 3390.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 11303 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
@@ -37,6 +39,8 @@ Section 11304, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1431; Pub. L. 96–258,
 #### Amendments
 
 <b>1996</b>—Subsec. (f). Pub. L. 104–287 substituted "January 1, 1996" for "the effective date of the ICC Termination Act of 1995".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -20,11 +20,15 @@ June 3, 1916, ch. 134, §47d (words after 3d semicolon of 1st sentence; and 2d s
 
 10:442 (2d sentence) is omitted, as superseded by section 10 of the Act of June 26, 1934, ch. 756, 48 Stat. 1229 (31 U.S.C. 725i), which limits credits to the replacing account to the actual cost of the items sold. The words "necessary for his proper equipment" are substituted for 10:442 (last 22 words of 1st sentence). The words "and at cost price, plus 10 per centum" are omitted to reflect Title IV of the National Security Act of 1947, as amended (63 Stat. 585), which authorized the Secretary of Defense to prescribe regulations governing the use and sale of certain inventories at cost, including applicable administrative expenses. (See opinion of the Assistant General Counsel (Fiscal Matters) of the Office of the Secretary of Defense, January 4, 1955.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232, §809(a), substituted "section 7481" for "section 4411".
 
 Pub. L. 115–232, §808(c)(2), renumbered section 4414 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

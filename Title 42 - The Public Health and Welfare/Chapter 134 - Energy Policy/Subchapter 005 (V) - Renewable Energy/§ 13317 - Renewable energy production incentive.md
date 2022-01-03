@@ -50,13 +50,15 @@ A qualified renewable energy facility may receive payments under this section fo
 
 #### (f) Sunset
 
-No payment may be made under this section to any facility after September 30, 2026, and nopayment may be made under this section to any facility after a payment has been made with respect to such facility for a 10-fiscal year period.
+No payment may be made under this section to any facility after September 30, 2026, and no payment may be made under this section to any facility after a payment has been made with respect to such facility for a 10-fiscal year period.
 
 #### (g) Authorization of appropriations
 
 There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2006 through 2026, to remain available until expended.
 
 (Pub. L. 102–486, title XII, §1212, Oct. 24, 1992, 106 Stat. 2969; Pub. L. 109–58, title II, §202, Aug. 8, 2005, 119 Stat. 651; Pub. L. 116–260, div. Z, title III, §3006(c), Dec. 27, 2020, 134 Stat. 2513.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

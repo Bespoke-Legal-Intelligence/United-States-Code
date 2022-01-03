@@ -28,7 +28,7 @@ The Attorney General shall prescribe rules and procedures to ensure that the cer
 
 Pub. L. 102–232, §305(i), struck out "before" after "may be taken".
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–649, §407(c)(18), (d)(15)(A), substituted "applied" for "petitioned" and "applicant" for "petitioner" in first sentence, "in a public ceremony before the Attorney General or a court with jurisdiction under section 1421(b) of this title" for "in open court", "Attorney General" for "naturalization court" wherever appearing in second and fourth sentences, and "Attorney General" for "court" before "the child" in fourth sentence.
+<b>1990</b>—Subsec. (a). Pub. L. 101–649, §407(c)(18), (d)(15)(A), substituted "applied" for "petitioned" and "applicant" for "petitioner" in first sentence, "in a public ceremony before the Attorney General or a courtwith jurisdiction under section 1421(b) of this title" for "in open court", "Attorney General" for "naturalization court" wherever appearing in second and fourth sentences, and "Attorney General" for "court" before "the child" in fourth sentence.
 
 Subsec. (b). Pub. L. 101–649, §407(c)(18), (d)(15)(B), substituted "applying" for "petitioning", "applicant" for "petitioner", and "in the same public ceremony in which the oath of allegiance is administered" for "in open court in the court in which the petition for naturalization is made", and struck out "in the court" after "shall be recorded".
 

@@ -12,7 +12,7 @@ Notice Requirement.—Except as provided in subsection (b)—
 
 &emsp;&emsp;(B) place an order, expected to exceed $25,000, under a basic agreement, basic ordering agreement, or similar arrangement; and
 
-&emsp;(3) an executive agency awarding a contract for property or services for a price exceeding $25,000, or placing an order exceeding $25,000 under a basic agreement, basic ordering agreement, or similar arrangement, shall furnish for publication a notice announcing the award or order if there is likely to be a subcontract under the contract or order.
+&emsp;(3) an executive agency awarding a contract for property or services for a price exceeding $25,000, or placing an order exceeding $25,000 under a basic agreement, basic ordering agreement, or similar arrangement, shall furnish for publication a notice announcing the awardor order if there is likely to be a subcontract under the contract or order.
 
 (b)
 
@@ -42,13 +42,13 @@ In general.—A notice is not required under subsection (a) if—
 
 &emsp;&emsp;(F) the procurement is for utility services, other than telecommunication services, and only one source is available; or
 
-&emsp;&emsp;(G) the procurement is for the services of an expert for use in any litigation or dispute\(including any reasonably foreseeable litigation or dispute) involving the Federal Government in a trial, hearing, or proceeding before a court, administrative tribunal, or agency, or in any part of an alternative dispute resolution process, whether or not the expert is expected to testify.
+&emsp;&emsp;(G) the procurement is for the services of an expert for use in any litigation or dispute (including any reasonably foreseeable litigation or dispute) involving the Federal Government in a trial, hearing, or proceeding before a court, administrative tribunal, or agency, or in any part of an alternative dispute resolution process, whether or not the expert is expected to testify.
 
 &emsp;(2)
 
 Certain procurements.—The requirements of subsection (a)(2) do not apply to a procurement—
 
-&emsp;&emsp;(A) under conditions described in paragraph (2), (3), (4), (5), or (7) of section 3304(a) of this title or paragraph (2), (3), (4), (5), or (7) of section 2304(c) of title 10; or
+&emsp;&emsp;(A) under conditions described in paragraph (2), (3), (4), (5), or (7) of section 3304(a) of this title or paragraph (2), (3), (4), (5), or (7) of section 3204(a) of title 10; or
 
 &emsp;&emsp;(B) for which the head of the executive agency makes a determination in writing, after consultation with the Administrator and the Administrator of the Small Business Administration, that it is not appropriate or reasonable to publish a notice before issuing a solicitation.
 
@@ -102,7 +102,7 @@ Issuing notice of solicitation and establishing deadline for submitting bids and
 
 &emsp;&emsp;(A) issue the solicitation earlier than 15 days after the date on which the notice is published; or
 
-&emsp;&emsp;(B) in the case of a contract or order expected to be greater than the simplified acquisition threshold, establish a deadline for the submission of all bids or proposals in response to the notice required by subsection (a)(2) that—
+&emsp;&emsp;(B) in the case of a contract or order expected to be greater than the simplified acquisition threshold, establish a deadline forthe submission of all bids or proposals in response to the notice required by subsection (a)(2) that—
 
 &emsp;&emsp;&emsp;(i) in the case of a solicitation for research and development, is earlier than 45 days after the date the notice required for a bid or proposal for a contract described in subsection (a)(2)(A) is published;
 
@@ -124,9 +124,9 @@ Consideration of Certain Timely Received Offers.—An executive agency intending
 
 (g)
 
-Availability of Complete Solicitation Package and Payment of Fee.—An executiveagency shall make available to a business concern, or the authorized representative of a concern, the complete solicitation package for any on-going procurement announced pursuant to a notice of solicitation under subsection (a). An executive agency may require the payment of a fee, not exceeding the actual cost of duplication, for a copy of the package.
+Availability of Complete Solicitation Package and Payment of Fee.—An executive agency shall make available to a business concern, or the authorized representative of a concern, the complete solicitation package for any on-going procurement announced pursuant to a notice of solicitation under subsection (a). An executive agency may require the payment of a fee, not exceeding the actual cost of duplication, for a copy of the package.
 
-(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3711; Pub. L. 115–232, div. A, title VIII, §836(b)(3), Aug. 13, 2018, 132 Stat. 1861.)
+(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3711; Pub. L. 115–232, div. A, title VIII, §836(b)(3), Aug. 13, 2018, 132 Stat. 1861; Pub. L. 117–81, div. A, title XVII, §1702(h)(4), Dec. 27, 2021, 135 Stat. 2158.)
 
 Historical and Revision Notes
 
@@ -187,6 +187,8 @@ In subsection (e)(1)(B)(ii), the words "required for an order described in" are 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (b)(2)(A). Pub. L. 117–81 substituted "section 3204(a)" for "section 2304(c)".
 
 <b>2018</b>—Subsecs. (c)(6), (e)(3). Pub. L. 115–232 substituted "commercial products or commercial services" for "commercial items".
 

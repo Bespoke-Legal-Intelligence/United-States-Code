@@ -1,5 +1,7 @@
 ### §§191 to 213. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Sections 191 to 213, relating to Territory of Alaska, were omitted in view of admission of Alaska into the Union.
@@ -14,7 +16,7 @@ Section 194, act Jan. 13, 1925, ch. 75, §7, 43 Stat. 742, required Commission t
 
 Section 195, acts Jan. 13, 1925, ch. 75, §7, 43 Stat. 743; July 1, 1943, ch. 183, 57 Stat. 305, prescribed restrictions on taking of animals, birds, fish, etc.
 
-Section 196, acts Jan. 13, 1925, ch. 75, §7, 43 Stat. 743; Feb. 4, 1931, ch. 185, §4, 46 Stat. 1112; July 1, 1943, ch. 183,57 Stat. 305, related to animals and birds escaping from captivity or introduced into Territory.
+Section 196, acts Jan. 13, 1925, ch. 75, §7, 43 Stat. 743; Feb. 4, 1931, ch. 185, §4, 46 Stat. 1112; July 1, 1943, ch. 183, 57 Stat. 305, related to animals and birds escaping from captivity or introduced into Territory.
 
 Section 197, acts Jan. 13, 1925, ch. 75, §8, 43 Stat. 743; July 1, 1943, ch. 183, 57 Stat. 305, prohibited use of poison and required the keeping of records of sales.
 

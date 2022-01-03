@@ -4,9 +4,13 @@ Whenever a permit or clearance is granted for either a foreign or domestic port,
 
 (R.S. §5321.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §5321 derived from act May 20, 1862, ch. 81, §2, 12 Stat. 404.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

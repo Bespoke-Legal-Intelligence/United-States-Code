@@ -60,6 +60,8 @@
 
 (Aug. 16, 1954, ch. 376, 68A Stat. 329; Pub. L. 85–866, title I, §53, Sept. 2, 1958, 72 Stat. 1644; Pub. L. 89–809, title II, §210(a), Nov. 13, 1966, 80 Stat. 1580; Pub. L. 94–455, title XIV, §1402(b)(1)(U), (2), title XXI, §2136(a), Oct. 4, 1976, 90 Stat. 1732, 1929; Pub. L. 98–369, div. A, title I, §105(a), title X, §1001(b)(18), (e), July 18, 1984, 98 Stat. 629, 1012; Pub. L. 106–170, title V, §532(c)(1)(H), Dec. 17, 1999, 113 Stat. 1930.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1999</b>—Subsec. (a)(3)(A). Pub. L. 106–170 substituted "section 1221(a)" for "section 1221".
@@ -84,6 +86,8 @@ Subsec. (d). Pub. L. 94–455, §2136(a), struck out provision respecting non-ap
 
 <b>1958</b>—Pub. L. 85–866 amended section generally and among other changes provided in subsec. (a) that gain or loss resulting from option to buy or sell property is to be considered gain or loss arising from property which has the same character as the property underlying the option, incorporated existing provisions in subsecs. (b) and (c)(3), and inserted provisions set out in subsec. (c)(1), (2), (4).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1999 Amendment
 
 Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or entered into, any transaction entered into, and supplies held or acquired on or after Dec. 17, 1999, see section 532(d) of Pub. L. 106–170, set out as a note under section 170 of this title.
@@ -92,7 +96,7 @@ Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or e
 
 Pub. L. 98–369, div. A, title I, §105(b), July 18, 1984, 98 Stat. 629, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to options purchased or granted after October 31, 1983, in taxable years ending after such date."
 
-Amendment by section 1001(b)(18) of Pub. L. 98–369 applicable to property acquired after June 22, 1984, andbefore Jan. 1, 1988, see section 1001(e) of Pub. L. 98–369, set out as a note under section 166 of this title.
+Amendment by section 1001(b)(18) of Pub. L. 98–369 applicable to property acquired after June 22, 1984, and before Jan. 1, 1988, see section 1001(e) of Pub. L. 98–369, set out as a note under section 166 of this title.
 
 #### Effective Date of 1976 Amendment
 

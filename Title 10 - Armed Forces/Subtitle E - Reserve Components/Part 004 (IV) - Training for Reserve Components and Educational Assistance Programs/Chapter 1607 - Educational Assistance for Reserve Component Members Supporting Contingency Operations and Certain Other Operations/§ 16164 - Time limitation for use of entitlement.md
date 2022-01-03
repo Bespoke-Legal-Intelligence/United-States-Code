@@ -18,7 +18,9 @@ Duration of Entitlement for Disabled Members.—(1) In the case of a person who 
 
 (2) The provisions of subsections (d) and (f) of section 3031 of title 38 shall apply to the period of entitlement prescribed by paragraph (1).
 
-(Added Pub. L. 108–375, div. A, title V, §527(a), Oct. 28, 2004, 118 Stat. 1892; amended Pub. L. 110–181, div. A, title V, §530(a)(1), Jan. 28, 2008, 122 Stat. 110; Pub. L. 110–417, \[div. A\], title V, §546(a), Oct. 14, 2008, 122 Stat. 4466.)
+(Added Pub. L. 108–375, div. A, title V, §527(a), Oct. 28, 2004, 118 Stat. 1892; amended Pub. L.110–181, div. A, title V, §530(a)(1), Jan. 28, 2008, 122 Stat. 110; Pub. L. 110–417, \[div. A\], title V, §546(a), Oct. 14, 2008, 122 Stat. 4466.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -29,6 +31,8 @@ Duration of Entitlement for Disabled Members.—(1) In the case of a person who 
 &emsp;"(2) in the Ready Reserve, in the case of a member ordered to active duty while serving in the Ready Reserve (other than the Selected Reserve)."
 
 Subsec. (a)(2). Pub. L. 110–417 substituted "honorable conditions" for "other than dishonorable conditions".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

@@ -6,9 +6,11 @@ For purposes of section 10101 of title 36 the Foundation shall be treated as a c
 
 #### (b) Annual reports
 
-The Foundation shall transmit each year to Congress a report of its proceedings and activities of the previous year, including a full andcomplete statement of its receipts, expenditures, and investments.
+The Foundation shall transmit each year to Congress a report of its proceedings and activities of the previous year, including a full and complete statement of its receipts, expenditures, and investments.
 
 (Pub. L. 101–593, title IV, §407, Nov. 16, 1990, 104 Stat. 2973; Pub. L. 114–54, title II, §201(c)(2), Sept. 30, 2015, 129 Stat. 516.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

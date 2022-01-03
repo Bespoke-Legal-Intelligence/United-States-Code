@@ -42,7 +42,7 @@ A group health plan, and a health insurance issuer offering group or individual 
 
 (2) This section shall not apply with respect to any group health plan, or any health insurance issuer offering group or individual health insurance coverage, which does not provide benefits for hospital lengths of stay in connection with childbirth for a mother or her newborn child.
 
-(3) Nothing in this section shall be construed as preventing a group health plan or health insurance issuer from imposing deductibles, coinsurance, or other cost-sharing in relation to benefits for hospital lengths of stay in connection with childbirth for a mother or newborn child under the plan (or under health insurancecoverage offered in connection with a group health plan), except that such coinsurance or other cost-sharing for any portion of a period within a hospital length of stay required under subsection (a) may not be greater than such coinsurance or cost-sharing for any preceding portion of such stay.
+(3) Nothing in this section shall be construed as preventing a group health plan or health insurance issuer from imposing deductibles, coinsurance, or other cost-sharing in relation to benefits for hospital lengths of stay in connection with childbirth for a mother or newborn child under the plan (or under health insurance coverage offered in connection with a group health plan), except that such coinsurance or other cost-sharing for any portion of a period within a hospital length of stay required under subsection (a) may not be greater than such coinsurance or cost-sharing for any preceding portion of such stay.
 
 #### (d) Notice
 
@@ -70,6 +70,8 @@ Nothing in this section shall be construed to prevent a group health plan or a h
 
 (July 1, 1944, ch. 373, title XXVII, §2725, formerly §2704, as added Pub. L. 104–204, title VI, §604(a)(3), Sept. 26, 1996, 110 Stat. 2939; renumbered §2725 and amended Pub. L. 111–148, title I, §§1001(2), 1563(c)(3), formerly §1562(c)(3), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 265, 911.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 300gg–23 of this title, referred to in subsec. (f), was in the original section "2723", and was translated as meaning section 2724 of act July 1, 1944, to reflect the probable intent of Congress and the renumbering of section 2723 as 2724 by Pub. L. 111–148, title I, §§1001(4), 1563(c)(14)(B), formerly §1562(c)(14)(B), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 269, 911.
@@ -80,7 +82,7 @@ Section was formerly classified to section 300gg–4 of this title prior to renu
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(1). Pub. L. 111–148, §1563(c)(3)(A), formerly §1562(c)(3)(A), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted "group or individual health insurance coverage" for "group health insurance coverage" in introductory provisions.
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–148, §1563(c)(3)(A), formerly §1562(c)(3)(A), as renumbered by Pub. L. 111–148,§10107(b)(1), substituted "group or individual health insurance coverage" for "group health insurance coverage" in introductory provisions.
 
 Subsec. (b). Pub. L. 111–148, §1563(c)(3)(B)(i), formerly §1562(c)(3)(B)(i), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted "group or individual health insurance coverage" for "group health insurance coverage in connection with a group health plan" in introductory provisions.
 
@@ -91,6 +93,8 @@ Subsec. (c)(2). Pub. L. 111–148, §1563(c)(3)(C)(i), formerly §1562(c)(3)(C)(
 Subsec. (c)(3). Pub. L. 111–148, §1563(c)(3)(C)(ii), formerly §1562(c)(3)(C)(ii), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted "health insurance issuer" for "issuer".
 
 Subsec. (e). Pub. L. 111–148, §1563(c)(3)(D), formerly §1562(c)(3)(D), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted "group or individual health insurance coverage" for "group health insurance coverage".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

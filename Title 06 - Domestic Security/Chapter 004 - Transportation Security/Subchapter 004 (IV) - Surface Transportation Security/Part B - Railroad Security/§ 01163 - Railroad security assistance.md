@@ -30,7 +30,7 @@ A recipient of a grant under this section shall use the grant funds for one or m
 
 &emsp;(7) The sharing of intelligence and information about security threats and preparedness, including connectivity to the National Terrorist Screening Center.
 
-&emsp;(8) To obtain train tracking and communications equipment, including equipment that is interoperable with Federal, State, and local agencies and tribal governments.
+&emsp;(8) To obtain train tracking and communications equipment, including equipment that isinteroperable with Federal, State, and local agencies and tribal governments.
 
 &emsp;(9) To hire, train, and employ police, security, and preparedness officers, including canine units, assigned to full-time security or counterterrorism duties related to railroad transportation.
 

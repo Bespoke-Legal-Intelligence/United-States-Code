@@ -1,6 +1,6 @@
 ### §302108. Review of threats to historic property
 
-At least once every 4 years, the Secretary, in consultation with the Council and with State Historic Preservation Officers, shall review significant threats to historic property to—
+At least once every 4 years, the Secretary, in consultation with the Council and with StateHistoric Preservation Officers, shall review significant threats to historic property to—
 
 &emsp;(1) determine the kinds of historic property that may be threatened;
 

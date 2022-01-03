@@ -16,7 +16,7 @@ Such agreements shall specify—
 
 &emsp;(4) the terms and conditions under which operating costs and allowances set forth in the schedules prescribed under section 4018 of this title may be paid, and
 
-&emsp;(5) the terms and conditions under which premium equalization payments under section4054 of this title will be made and reinsurance claims under section 4055 of this title will be paid.
+&emsp;(5) the terms and conditions under which premium equalization payments under section 4054 of this title will be made and reinsurance claims under section 4055 of this title will be paid.
 
 #### (c) Additional provisions
 
@@ -30,6 +30,8 @@ In addition, such agreements shall contain such provisions as the Administrator 
 
 (Pub. L. 90–448, title XIII, §1332, Aug. 1, 1968, 82 Stat. 582; Pub. L. 98–181, title I \[title IV, §451(d)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 112–141, div. F, title II, §§100232(d)(2), 100238(b)(1), July 6, 2012, 126 Stat. 954, 958.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (a), was in the original a reference to "this title" meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
@@ -41,6 +43,8 @@ This chapter, referred to in subsec. (a), was in the original a reference to "th
 Subsec. (c)(2). Pub. L. 112–141, §100232(d)(2), inserted "or reinsurance" after "flood insurance coverage".
 
 <b>1983</b>—Subsecs. (a), (b)(3), (c). Pub. L. 98–181 substituted "Director" for "Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

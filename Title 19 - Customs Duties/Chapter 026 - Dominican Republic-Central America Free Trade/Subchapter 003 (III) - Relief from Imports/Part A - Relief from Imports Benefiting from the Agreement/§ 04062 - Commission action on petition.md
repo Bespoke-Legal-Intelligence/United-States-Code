@@ -10,7 +10,7 @@ For purposes of this part, the provisions of paragraphs (1), (2), and (3) of sec
 
 #### (c) Additional finding and recommendation if determination affirmative
 
-If the determination made by the Commission under subsection (a) with respect to imports of an article is affirmative, or if the President mayconsider a determination of the Commission to be an affirmative determination as provided for under paragraph (1) of section 1330(d) of this title, the Commission shall find, and recommend to the President in the report required under subsection (d), the amount of import relief that is necessary to remedy or prevent the injury found by the Commission in the determination and to facilitate the efforts of the domestic industry to make a positive adjustment to import competition. The import relief recommended by the Commission under this subsection shall be limited to the relief described in section 4063(c) of this title. Only those members of the Commission who voted in the affirmative under subsection (a) are eligible to vote on the proposed action to remedy or prevent the injury found by the Commission. Members of the Commission who did not vote in the affirmative may submit, in the report required under subsection (d), separate views regarding what action, if any, should be taken to remedy or prevent the injury.
+If the determination made by the Commission under subsection (a) with respect to imports of an article is affirmative, or if the President may consider a determination of the Commission to be an affirmative determination as provided for under paragraph (1) of section 1330(d) of this title, the Commission shall find, and recommend to the President in the report required under subsection (d), the amount of import relief that is necessary to remedy or prevent the injury found by the Commission in the determination and to facilitate the efforts of the domestic industry to make a positive adjustment to import competition. The import relief recommended by the Commission under this subsection shall be limited to the relief described in section 4063(c) of this title. Only those members of the Commission who voted in the affirmative under subsection (a) are eligible to vote on the proposed action to remedy or prevent the injury found by the Commission. Members of the Commission who did not vote in the affirmative may submit, in the report required under subsection (d), separate views regarding what action, if any, should be taken to remedy or prevent the injury.
 
 #### (d) Report to President
 
@@ -32,9 +32,13 @@ Upon submitting a report to the President under subsection (d), the Commission s
 
 <i>For termination of section by section 107(d) of Pub. L. 109–53, see Effective and Termination Dates note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This part, referred to in subsec. (b), was in the original "this subtitle", meaning subtitle A (§§311–316) of title III of Pub. L. 109–53, Aug. 2, 2005, 119 Stat. 488, which enacted this part and amended section 2252 of this title. For complete classification of subtitle A to the Code, see Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective and Termination Dates
 

@@ -18,7 +18,7 @@ Such marine research plan shall include—
 
 &emsp;(2) a comprehensive inventory and description of all marine research related to water quality and ecosystem health expected to be conducted in the region during the 4-year term of the research plan;
 
-&emsp;(3) a statement and explanation of the marine research needs and priorities applicable to the marine and coastal waters of the regionover the upcoming 10-year period with emphasis on the upcoming 3-to-5 year period;
+&emsp;(3) a statement and explanation of the marine research needs and priorities applicable to the marine and coastal waters of the region over the upcoming 10-year period with emphasis on the upcoming 3-to-5 year period;
 
 &emsp;(4) an assessment of how the plan will incorporate existing marine, coastal, and estuarine research and management in the region, including activities pursuant to section 1330 of title 33 and section 1461 of this title; and
 
@@ -39,6 +39,8 @@ Such marine research plan shall include—
 &emsp;In the case of disapproval of such research plan, the Administrator of the National Oceanic and Atmospheric Administration and the Administrator of the Environmental Protection Agency shall jointly notify the appropriate Board in writing, stating in detail the revisions necessary to obtain approval of the plan. Such Administrators shall approve or disapprove the revised plan within 90 days after receiving the revised plan from the Board.
 
 (Pub. L. 92–532, title IV, §404, as added Pub. L. 101–593, title III, §301, Nov. 16, 1990, 104 Stat. 2966.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

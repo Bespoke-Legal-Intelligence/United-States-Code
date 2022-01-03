@@ -46,7 +46,7 @@
 
 &emsp;&emsp;(ii) a summary of the penalties for violation of Federal copyright laws; and
 
-&emsp;&emsp;(iii) a description of the institution's policies with respect to unauthorized peer-to-peer file sharing, including disciplinary actions that are taken against students who engage in unauthorized distribution of copyrighted materials using the institution's information technology system;
+&emsp;&emsp;(iii) a description of the institution's policies with respect to unauthorized peer-to-peer file sharing, including disciplinary actions that are taken against students whoengage in unauthorized distribution of copyrighted materials using the institution's information technology system;
 
 &emsp;(Q) student body diversity at the institution, including information on the percentage of enrolled, full-time students who—
 
@@ -70,7 +70,7 @@
 
 (2) For the purpose of this section, the term "prospective student" means any individual who has contacted an eligible institution requesting information concerning admission to that institution.
 
-(3) In calculating the completion or graduation rate under subparagraph (L) of paragraph\(1) of this subsection or under subsection (e), a student shall be counted as a completion or graduation if, within 150 percent of the normal time for completion of or graduation from the program, the student has completed or graduated from the program, or enrolled in any program of an eligible institution for which the prior program provides substantial preparation. The information required to be disclosed under such subparagraph—
+(3) In calculating the completion or graduation rate under subparagraph (L) of paragraph (1) of this subsection or under subsection (e), a student shall be counted as a completion or graduation if, within 150 percent of the normal time for completion of or graduation from the program, the student has completed or graduated from the program, or enrolled in any program of an eligible institution for which the prior program provides substantial preparation. The information required to be disclosed under such subparagraph—
 
 &emsp;(A) shall be made available by July 1 each year to enrolled students and prospective students prior to the students enrolling or entering into any financial obligation; and
 
@@ -90,7 +90,7 @@
 
 (ii) The requirements of clause (i) shall not apply to two-year, degree-granting institutions of higher education until academic year 2011-2012.
 
-(B)(i) In order to assist two-year degree-granting institutions of higher education in meeting the requirements of paragraph (1)(L) and subsection (e), the Secretary, in consultation with the Commissioner for Education Statistics, shall, not later than 90 days after August 14, 2008, convene a group of representatives from diverse institutions of higher education, experts in the field of higher education policy, state <sup>1</sup> higher education officials, students, and other stakeholders in the higher education community, to develop recommendations regarding the accurate calculation and reporting of the information required to be disseminated or reported under paragraph (1)(L) and subsection (e) by two-year, degree-granting institutions of higher education. In developing such recommendations, the group of representatives shall consider the mission and role of two-year degree-granting institutions of higher education, and may recommend additional or alternative measures of student success for such institutions in light of the mission and role of such institutions.
+(B)(i) In order to assist two-year degree-granting institutions of higher education in meeting the requirements of paragraph (1)(L) and subsection (e), the Secretary, in consultation with the Commissioner for Education Statistics, shall, not later than 90 days after August 14, 2008, convene a group of representatives from diverse institutions of higher education, experts in the field of higher education policy, state <sup>1</sup> higher education officials, students, and other stakeholders in the higher education community, to develop recommendations regarding the accurate calculation and reporting of the information required to be disseminated or reported under paragraph (1)(L) and subsection (e) by two-year, degree-granting institutions of highereducation. In developing such recommendations, the group of representatives shall consider the mission and role of two-year degree-granting institutions of higher education, and may recommend additional or alternative measures of student success for such institutions in light of the mission and role of such institutions.
 
 (ii) The Secretary shall widely disseminate the recommendations required under this subparagraph to two-year, degree-granting institutions of higher education, the public, and the authorizing committees not later than 18 months after the first meeting of the group of representatives convened under clause (i).
 
@@ -106,7 +106,7 @@
 
 #### (b) Exit counseling for borrowers
 
-(1)(A) Each eligible institution shall, through financial aid offices or otherwise, provide counseling to borrowers of loans that are made, insured, or guaranteed under part B (other than loans made pursuant to section 1078–3 of this title or loans under section 1078–2 of this titlemade on behalf of a student) or made under part D (other than Federal Direct Consolidation Loans or Federal Direct PLUS Loans made on behalf of a student) or made under part E of this subchapter prior to the completion of the course of study for which the borrower enrolled at the institution or at the time of departure from such institution. The counseling required by this subsection shall include—
+(1)(A) Each eligible institution shall, through financial aid offices or otherwise, provide counseling to borrowers of loans that are made, insured, or guaranteed under part B (other than loans made pursuant to section 1078–3 of this title or loans under section 1078–2 of this title made on behalf of a student) or made under part D (other than Federal Direct Consolidation Loans or Federal Direct PLUS Loans made on behalf of a student) or made under part E of this subchapter prior to the completion of the course of study for which the borrower enrolled at the institution or at the time of departure from such institution. The counseling required by this subsection shall include—
 
 &emsp;(i) information on the repayment plans available, including a description of the different features of each plan and sample information showing the average anticipated monthly payments, and the difference in interest paid and total payments, under each plan;
 
@@ -130,9 +130,17 @@
 
 &emsp;&emsp;(IV) that borrower benefit programs may vary among different lenders;
 
-&emsp;(viii) a general description of the types of tax benefits that may be available to borrowers; and
+&emsp;(viii) a general description of the types of tax benefits that may be available to borrowers;
 
 &emsp;(ix) a notice to borrowers about the availability of the National Student Loan Data System and how the system can be used by a borrower to obtain information on the status of the borrower's loans; and
+
+&emsp;(x) an explanation that—
+
+&emsp;&emsp;(I) the borrower may be contacted during the repayment period by third-party student debt relief companies;
+
+&emsp;&emsp;(II) the borrower should use caution when dealing with those companies; and
+
+&emsp;&emsp;(III) the services that those companies typically provide are already offered to borrowers free of charge through the Department or the borrower's servicer; and
 
 (B) In the case of borrower who leaves an institution without the prior knowledge of the institution, the institution shall attempt to provide the information described in subparagraph (A) to the student in writing.
 
@@ -156,7 +164,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 #### (d) Departmental publication of descriptions of assistance programs
 
-(1) The Secretary shall make available to eligible institutions, eligible lenders, and secondary schools descriptions of Federal student assistance programs including the rights and responsibilities of student and institutional participants, in order to (A) assist students in gaining information through institutional sources, and (B) assist institutions in carrying out the provisions of this section, so that individual and institutional participants will be fully aware of their rights and responsibilities under such programs. In particular, such information shall include information to enable students and prospective students to assess the debt burden and monthly and total repayment obligations that will be incurred as a result of receiving loans of varying amounts under this subchapter. Such information shall also include information on the various payment options available for student loans, including income-sensitive and income-based repayment plans for loans made, insured, or guaranteed under part B and income-contingent and income-based repayment plansfor loans made under part D. In addition, such information shall include information to enable borrowers to assess the practical consequences of loan consolidation, including differences in deferment eligibility, interest rates, monthly payments, and finance charges, and samples of loan consolidation profiles to illustrate such consequences. The Secretary shall provide information concerning the specific terms and conditions under which students may obtain partial or total cancellation or defer repayment of loans for service, shall indicate (in terms of the Federal minimum wage) the maximum level of compensation and allowances that a student borrower may receive from a tax-exempt organization to qualify for a deferment, and shall explicitly state that students may qualify for such partial cancellations or deferments when they serve as a paid employee of a tax-exempt organization. The Secretary shall also provide information on loan forbearance, including the increase in debt that results from capitalization of interest. Such information shall be provided by eligible institutions and eligible lenders at any time that information regarding loan availability is provided to any student.
+(1) The Secretary shall make available to eligible institutions, eligible lenders, and secondary schools descriptions of Federal student assistance programs including the rights and responsibilities of student and institutional participants, in order to (A) assist students in gaining information through institutional sources, and (B) assist institutions in carrying out the provisions of this section, so that individual and institutional participants will be fully aware of their rights and responsibilities under such programs. In particular, such information shall include information to enable students and prospective students to assess the debt burden and monthly and total repayment obligations that will be incurred as a result of receiving loans of varying amounts under this subchapter. Such information shall also include information on the various payment options available for student loans, including income-sensitive and income-based repayment plans for loans made, insured, or guaranteed under part B and income-contingent and income-based repayment plans for loans made under part D. In addition, such information shall include information to enable borrowers to assess the practical consequences of loan consolidation, including differences in deferment eligibility, interest rates, monthly payments, and finance charges, and samples of loan consolidation profiles to illustrate such consequences. The Secretary shall provide information concerning the specific terms and conditions under which students may obtain partial or total cancellation or defer repayment of loans for service, shall indicate (in terms of the Federal minimum wage) the maximum level of compensation and allowances that a student borrower may receive from a tax-exempt organization to qualify for a deferment, and shall explicitly state that students may qualify for such partial cancellations or deferments when they serve as a paid employee of a tax-exempt organization. The Secretary shall also provide information on loan forbearance, including the increase in debt that results from capitalization of interest. Such information shall be provided by eligible institutions and eligible lenders at any time that information regarding loan availability is provided to any student.
 
 (2) The Secretary, to the extent the information is available, shall compile information describing State and other prepaid tuition programs and savings programs and disseminate such information to States, eligible institutions, students, and parents in departmental publications.
 
@@ -220,7 +228,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 &emsp;&emsp;(iii) policies which encourage accurate and prompt reporting of all crimes to the campus police and the appropriate law enforcement agencies, when the victim of such crime elects or is unable to make such a report.
 
-&emsp;(D) A description of the type and frequency of programs designed to inform students and employees about campus security procedures and practices and to encourage students and employees to be responsible for their own security and the security of others.
+&emsp;(D) A description of the type and frequency of programs designed to inform students andemployees about campus security procedures and practices and to encourage students and employees to be responsible for their own security and the security of others.
 
 &emsp;(E) A description of programs designed to inform students and employees about the prevention of crimes.
 
@@ -278,7 +286,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 (ii) If new information about an entry into a log becomes available to a police or security department, then the new information shall be recorded in the log not later than two business days after the information becomes available to the police or security department.
 
-(iii) If there is clear and convincing evidence that the release of such information would jeopardize an ongoing criminal investigation or the safety of an individual, cause a suspect to flee or evade detection, or result in the destruction of evidence, such information may be withheld until that damage is no longer likely to occur from the release of such information.
+(iii) If there is clear and convincing evidence that the release of such information would jeopardize an ongoing criminal investigation or thesafety of an individual, cause a suspect to flee or evade detection, or result in the destruction of evidence, such information may be withheld until that damage is no longer likely to occur from the release of such information.
 
 (5) On an annual basis, each institution participating in any program under this subchapter, other than a foreign institution of higher education, shall submit to the Secretary a copy of the statistics required to be made available under paragraph (1)(F). The Secretary shall—
 
@@ -302,7 +310,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 &emsp;&emsp;(I) any building or property owned or controlled by a student organization recognized by the institution; and
 
-&emsp;&emsp;(II) any building or property (other than a branch campus) owned or controlled by an institution of higher education that is used in direct support of, or in relation to, the institution's educational purposes, is used bystudents, and is not within the same reasonably contiguous geographic area of the institution.
+&emsp;&emsp;(II) any building or property (other than a branch campus) owned or controlled by an institution of higher education that is used in direct support of, or in relation to, the institution's educational purposes, is used by students, and is not within the same reasonably contiguous geographic area of the institution.
 
 &emsp;(iv) The term "public property" means all public property that is within the same reasonably contiguous geographic area of the institution, such as a sidewalk, a street, other thoroughfare, or parking facility, and is adjacent to a facility owned or controlled by the institution if the facility is used by the institution in direct support of, or in a manner related to the institution's educational purposes.
 
@@ -460,7 +468,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 #### (2) Special rule
 
-&emsp;For the purposes of paragraph (1)(G), if a coach has responsibilities for more than one team and the institution does not allocate such coach's salary by team, the institution should divide the salary by the number of teams for which the coach has responsibility and allocate the salary among the teams on a basis consistent with the coach's responsibilities for the different teams.
+&emsp;For the purposes of paragraph (1)(G), if a coach has responsibilities for more than one team and the institution does not allocatesuch coach's salary by team, the institution should divide the salary by the number of teams for which the coach has responsibility and allocate the salary among the teams on a basis consistent with the coach's responsibilities for the different teams.
 
 #### (3) Disclosure of information to students and public
 
@@ -484,7 +492,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 &emsp;Each institution of higher education participating in any program under this subchapter shall publicly disclose, in a readable and comprehensible manner, the transfer of credit policies established by the institution which shall include a statement of the institution's current transfer of credit policies that includes, at a minimum—
 
-&emsp;&emsp;(A) any established criteria the institution uses regarding the transfer of credit earnedat another institution of higher education; and
+&emsp;&emsp;(A) any established criteria the institution uses regarding the transfer of credit earned at another institution of higher education; and
 
 &emsp;&emsp;(B) a list of institutions of higher education with which the institution has established an articulation agreement.
 
@@ -542,7 +550,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 &emsp;&emsp;(A) make the statistics submitted under paragraph (1)(A) to the Secretary available to the public; and
 
-&emsp;&emsp;(B) in coordination with nationally recognized fire organizations and representatives of institutions of higher education, representatives of associations of institutions of higher education, and other organizations that represent and house a significant number of students—
+&emsp;&emsp;(B) in coordination with nationally recognized fire organizations and representativesof institutions of higher education, representatives of associations of institutions of higher education, and other organizations that represent and house a significant number of students—
 
 &emsp;&emsp;&emsp;(i) identify exemplary fire safety policies, procedures, programs, and practices, including the installation, to the technical standards of the National Fire Protection Association, of fire detection, prevention, and protection technologies in student housing, dormitories, and other buildings;
 
@@ -566,7 +574,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 #### (6) Compliance report
 
-&emsp;The Secretary shall annually report to the authorizing committees regarding compliance with this subsection by institutions of highereducation, including an up-to-date report on the Secretary's monitoring of such compliance.
+&emsp;The Secretary shall annually report to the authorizing committees regarding compliance with this subsection by institutions of higher education, including an up-to-date report on the Secretary's monitoring of such compliance.
 
 #### (7) Evidence
 
@@ -698,23 +706,11 @@ Each eligible institution shall designate an employee or group of employees who 
 
 (Pub. L. 89–329, title IV, §485, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1482; amended Pub. L. 100–50, §15(10), (11), June 3, 1987, 101 Stat. 357; Pub. L. 101–542, title I, §§103(a), (b), 104(a), title II, §204(a), Nov. 8, 1990, 104 Stat. 2381–2385; Pub. L. 101–610, title II, §§201–203, Nov. 16, 1990, 104 Stat. 3171, 3172; Pub. L. 102–26, §10(a)–(d), Apr. 9, 1991, 105 Stat. 128; Pub. L. 102–164, title VI, §603, Nov. 15, 1991, 105 Stat. 1066; Pub. L. 102–325, title IV, §486(a)–(c)(2), July 23, 1992, 106 Stat. 620, 621; Pub. L. 103–208, §2(h)(28)–(37), (k)(9), Dec. 20, 1993, 107 Stat. 2477, 2486; Pub. L. 103–382, title III, §360B(c), Oct. 20, 1994, 108 Stat. 3970; Pub. L. 104–208, div. A, title I, §101(e) \[title III, §308\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–262; Pub. L. 105–18, title VI, §60001(a), June 12, 1997, 111 Stat. 214; Pub. L. 105–244, title I, §102(b)(3), title IV, §486, Oct. 7, 1998, 112 Stat. 1622, 1741; Pub. L. 106–386, div. B, title VI, §1601(c)(1), Oct. 28, 2000, 114 Stat. 1537; Pub. L. 110–315, title I, §103(b)(11), title IV, §488, title X, §1011(c), Aug. 14, 2008, 122 Stat. 3090, 3293, 3482; Pub. L. 111–39, title IV, §407(b)(5), July 1, 2009, 123 Stat. 1951; Pub. L. 113–4, title III, §304(a), Mar. 7, 2013, 127 Stat. 89; Pub. L. 116–251, §3, Dec. 22, 2020, 134 Stat. 1129; Pub. L. 116–260, div. FF, title VII, §702(n)(1)(C), Dec. 27, 2020, 134 Stat. 3186.)
 
-#### Amendment of Subsection (b)
-
-<i>Pub. L. 116–251, §§3, 6, Dec. 22, 2020, 134 Stat. 1129, 1132, provided that, effective 180 days after Dec. 22, 2020, subsection (b) of this section is amended by striking "and" after the semicolon in clause (viii) and by adding at the end the following:</i>
-
-&emsp;<i>(x) an explanation that—</i>
-
-&emsp;&emsp;<i>(I) the borrower may be contacted during the repayment period by third-party student debt relief companies;</i>
-
-&emsp;&emsp;<i>(II) the borrower should use caution when dealing with those companies; and</i>
-
-&emsp;&emsp;<i>(III) the services that those companies typically provide are already offered to borrowers free of charge through the Department or the borrower's servicer; and</i>
-
-<i>See 2020 Amendment note below.</i>
-
 #### Amendment of Subsection (k)
 
 <i>Pub. L. 116–260, div. FF, title VII, §§701(b), 702(n)(1)(C), (2), Dec. 27, 2020, 134 Stat. 3137, 3186, provided that, effective July 1, 2023, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, with additional provisions authorizing the Secretary of Education to implement amendment before (but not later than) July 1, 2023, this section is amended by striking out subsection (k). See 2020 Amendment note below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -760,7 +756,7 @@ Subsec. (f)(9). Pub. L. 113–4, §304(a)(6), substituted "The Secretary, in con
 
 Subsec. (f)(16). Pub. L. 113–4, §304(a)(7), added par. (16) and struck out former par. (16) which read as follows: "The Secretary may seek the advice and counsel of the Attorney General concerning the development, and dissemination to institutions of higher education, of best practices information about campus safety and emergencies."
 
-Subsec. (f)(17). Pub. L. 113–4, §304(a)(8), added par. (17) and struck out former par. (17) which read as follows: "Nothing in this subsection shall be construed to permit an institution, or an officer, employee, or agent of an institution, participating in any program under this subchapter to retaliate, intimidate, threaten, coerce, or otherwise discriminate against any individual with respect to the implementation of any provision of this subsection."
+Subsec. (f)(17). Pub. L. 113–4, §304(a)(8), added par. (17) and struck out former par. (17) which read as follows: "Nothing in this subsection shall be construed to permit an institution, or an officer, employee, or agent of an institution, participating in any program under this subchapter to retaliate, intimidate, threaten, coerce,or otherwise discriminate against any individual with respect to the implementation of any provision of this subsection."
 
 <b>2009</b>—Subsec. (a)(1). Pub. L. 111–39, §407(b)(5)(A)(i)(I), substituted "commonly known as the 'Family Educational Rights and Privacy Act of 1974' " for "also referred to as the Family Educational Rights and Privacy Act of 1974" in introductory provisions.
 
@@ -828,7 +824,7 @@ Subsec. (f)(5)(A). Pub. L. 110–315, §103(b)(11), substituted "authorizing com
 
 Subsec. (f)(15) to (18). Pub. L. 110–315, §488(e)(2), (3), added pars. (15) to (17) and redesignated former par. (15) as (18).
 
-Subsec. (g)(4)(B) to (D). Pub. L. 110–315, §488(f), redesignated subpars. (C) and (D) as (B) and (C), respectively, struck out "and the report to Congress described in subparagraph (B)" after "subparagraph (A)" in subpar. (B) and "the information reported under subparagraph (B) and" after "availability of" in subpar. (C), and struck out former subpar. (B) which read as follows: "The Secretary shall prepare a report regarding the information received under subparagraph (A) and submit such report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate by April 1, 2000. The report shall—
+Subsec. (g)(4)(B) to (D). Pub. L. 110–315, §488(f), redesignated subpars. (C) and (D) as (B) and (C), respectively, struck out "and the report to Congress described in subparagraph (B)" after "subparagraph (A)" in subpar. (B) and "the information reported under subparagraph (B) and" after "availability of" in subpar. (C), and struck out former subpar. (B) which read as follows:"The Secretary shall prepare a report regarding the information received under subparagraph (A) and submit such report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate by April 1, 2000. The report shall—
 
 &emsp;"(i) summarize the information and identify trends in the information;
 
@@ -1026,6 +1022,8 @@ Subsec. (f). Pub. L. 101–542, §204(a), added subsec. (f).
 
 Subsec. (d). Pub. L. 100–50, §15(11), inserted after second sentence "In addition, such information shall include information to enable borrowers to assess the practical consequences of loan consolidation, including differences in deferment eligibility, interest rates, monthly payments, and finance charges, and samples of loan consolidation profiles to illustrate such consequences."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2020 Amendment
 
 Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
@@ -1108,7 +1106,7 @@ Pub. L. 110–315, title IV, §484, Aug. 14, 2008, 122 Stat. 3286, provided that
 
 Model Format.—The Secretary of Education shall—
 
-&emsp;"(1) not later than six months after the date of enactment of the Higher Education Opportunity Act \[Aug. 14, 2008\], convene a group of students, families of students, secondary school guidance counselors, representatives of institutions of higher education (including financial aid administrators, registrars, and business officers), and nonprofit consumer groups for the purpose of offering recommendations for improvements that—
+&emsp;"(1) not later than six months after the date of enactment of the Higher Education Opportunity Act \[Aug. 14, 2008\], convene a group of students, families of students, secondary school guidance counselors, representatives of institutions of higher education (including financial aid administrators, registrars, and business officers), and nonprofit consumer groupsfor the purpose of offering recommendations for improvements that—
 
 &emsp;&emsp;"(A) can be made to financial aid offer forms; and
 
@@ -1208,6 +1206,8 @@ Pub. L. 101–542, title II, §202, Nov. 8, 1990, 104 Stat. 2384, provided that:
 
 &emsp;&emsp;"(C) to encourage the development of policies and procedures to address sexual assaults and racial violence on college campuses."
 
+#### <b>Executive Documents</b>
+
 #### Improving Repayment Options for Federal Student Loan Borrowers
 
 Memorandum of President of the United States, June 7, 2012, 77 F.R. 35241, provided:
@@ -1258,7 +1258,7 @@ Memorandum of President of the United States, Jan. 22, 2014, 79 F.R. 4385, provi
 
 The prevalence of rape and sexual assault at our Nation's institutions of higher education is both deeply troubling and a call to action. Studies show that about one in five women is a survivor of attempted or completed sexual violence while in college. In addition, a substantial number of men experience sexual violence during college. Although schools have made progress in addressing rape and sexual assault, more needs to be done to ensure safe, secure environments for students of higher education.
 
-There are a number of Federal laws aimed at making our campuses safer, and the Departments of Education and Justice have been working to enforce them. Among other requirements, institutions of higher education participating in Federal student financial assistance programs (institutions), including colleges, universities, community colleges, graduate and professional schools, for-profit schools, trade schools, and career and technical schools, must provide students with information on programs aimed at preventing rape and sexual assault, and on procedures for students to reporting rape and sexual assault. Institutions must also adopt and publish grievance procedures that provide for the prompt and equitable resolution of rape and sexual assault complaints, and investigate reports of rape and sexual assault and take swift action to prevent their recurrence. Survivors of rape and sexual assault must also be provided with information on how to access the support and services they need. Reports show, however, that institutions' compliance with these Federal laws is uneven and, in too many cases, inadequate. Building on existing enforcement efforts, we must strengthen and address compliance issues and provide institutions with additional tools to respond to and address rape and sexual assault.
+There are a number of Federal laws aimed at making our campuses safer, and the Departments of Education and Justice have been working to enforce them. Among other requirements, institutions of higher education participating in Federal student financial assistance programs (institutions), including colleges, universities, community colleges, graduate and professional schools, for-profit schools, trade schools, and career and technical schools, must provide students with information on programs aimed at preventing rape and sexual assault, and on procedures for students to reporting rape and sexual assault. Institutions must also adopt and publish grievance procedures that provide for the prompt and equitable resolution of rape and sexual assault complaints, and investigate reports of rape and sexual assault and take swift action to prevent their recurrence. Survivors of rape and sexual assault must also be provided with information on how to access the support and services they need. Reports show, however, that institutions' compliance with these Federal laws is uneven and, in too many cases, inadequate. Buildingon existing enforcement efforts, we must strengthen and address compliance issues and provide institutions with additional tools to respond to and address rape and sexual assault.
 
 Therefore, I am directing the Office of the Vice President and the White House Council on Women and Girls to lead an interagency effort to address campus rape and sexual assault, including coordinating Federal enforcement efforts by executive departments and agencies (agencies) and helping institutions meet their obligations under Federal law. To these ends, it is hereby ordered as follows:
 
@@ -1290,7 +1290,7 @@ Sec. 2. <i>Mission and Function of the Task Force</i>. (a) The Task Force shall 
 
 (ii) building on the Federal Government's existing enforcement efforts to ensure that institutions comply fully with their legal obligations to prevent and respond to rape and sexual assault;
 
-(iii) increasing the transparency of the Federal Government's enforcement activities concerning rape andsexual assault, consistent with applicable law and the interests of affected students;
+(iii) increasing the transparency of the Federal Government's enforcement activities concerning rape and sexual assault, consistent with applicable law and the interests of affected students;
 
 (iv) broadening the public's awareness of individual institutions' compliance with their legal obligation to address rape and sexual assault; and
 
@@ -1380,15 +1380,15 @@ Now is the time for stronger protections for the more than 40 million Americans 
 
 Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby direct the following:
 
-Section 1. <i>State-of-the-Art Complaint and Feedback System</i>.
+Section 1. <i>State-of-the-Art Complaint and Feedback System.</i>
 
 (a) <i>Complaints and Feedback Regarding Federal Financial Aid</i>. By July 1, 2016, the Secretary of Education shall develop and implement a simple process for borrowers to file complaints regarding Federal financial aid, including those pertaining to lenders, loan servicers, private collection agencies, and institutions of higher education. The process shall allow people to file a complaint and monitor its progress toward resolution. In addition, the Department of Education will provide data from the complaint system to other enforcement agencies that are responsible for oversight of Federal student loan lenders, loan servicers, private collection agencies, and institutions of higher education. By October 1, 2017, and annually thereafter, the Department of Education shall publish a report summarizing and analyzing the content in and resolution of borrower complaints and feedback received through the process. By October 1, 2015, the Secretary of Education shall report to the President, through the Director of the Domestic Policy Council and the Director of the Office of Management and Budget, on the optimal way to address other student complaints regarding institutions of higher education that participate in Federal student financial aid programs.
 
 (b) <i>Coordination Among Other Enforcement Agencies</i>. By October 1, 2015, the Secretary of Education shall, in consultation with the Director of the Consumer Financial Protection Bureau, recommend to the President, through the Director of the Domestic Policy Council and the Director of the Office of Management and Budget, a process for sharing information with relevant enforcement agencies so that those enforcement agencies may refer matters where there may be violations of consumer protection law.
 
-Sec. 2. <i>Helping Borrowers Repay Their Loans and Avoid Default</i>.
+Sec. 2. <i>Helping Borrowers Repay Their Loans and Avoid Default.</i>
 
-(a) <i>Higher Standards for Federal Direct Loan Servicing</i>. By January 1, 2016, the Secretary of Education shall require all Federal Direct student loan servicers to provide enhanced disclosures to borrowers and strengthened consumer protections. These disclosures and consumer protections shall be improved throughout the loan repayment process, and shall include disclosures to borrowers regarding loan transfers from one servicer to another and notifications when borrowers become delinquent or have incomplete applications to change repayment plans. As soon as practicable, the Secretary shall direct all Federal Direct student loan servicers toapply prepayments to loans with the highest interest rate to ensure consistency across servicers, unless otherwise instructed by borrowers.
+(a) <i>Higher Standards for Federal Direct Loan Servicing</i>. By January 1, 2016, the Secretary of Education shall require all Federal Direct student loan servicers to provide enhanced disclosures to borrowers and strengthened consumer protections. These disclosures and consumer protections shall be improved throughout the loan repayment process, and shall include disclosures to borrowers regarding loan transfers from one servicer to another and notifications when borrowers become delinquent or have incomplete applications to change repayment plans. As soon as practicable, the Secretary shall direct all Federal Direct student loan servicers to apply prepayments to loans with the highest interest rate to ensure consistency across servicers, unless otherwise instructed by borrowers.
 
 (b) <i>Regular Review of Student Loan Performance and Borrower Trends</i>. The Director of the Office of Management and Budget and the Secretary of Education shall convene quarterly an interagency task force consisting of the Department of the Treasury, Department of Education, Office of Management and Budget, and Domestic Policy Council to monitor trends in the student loan portfolio, budget costs, and borrower assistance efforts. No later than August 1, 2015, the task force shall review recommendations for the Department of Education from its members and the Consumer Financial Protection Bureau on best practices in performance-based contracting to better ensure that servicers help borrowers responsibly make affordable monthly payments on their student loans.
 
@@ -1400,7 +1400,7 @@ Sec. 2. <i>Helping Borrowers Repay Their Loans and Avoid Default</i>.
 
 (f) <i>Making it Easier for Federal Direct Student Loan Borrowers to Repay Their Student Loans</i>. As soon as practicable, the Secretary of Education shall establish a centralized point of access for all Federal student loan borrowers in repayment, including a central location for account information and payment processing for all Federal student loan servicing, regardless of the specific servicer.
 
-Sec. 3. <i>Fair Treatment for Struggling and Distressed Borrowers</i>.
+Sec. 3. <i>Fair Treatment for Struggling and Distressed Borrowers.</i>
 
 (a) <i>Raising Standards for Student Loan Debt Collectors</i>. By July 1, 2015, the Secretary of Education shall implement actions to ensure that the debt collection process for defaulted Federal student loans is fair, transparent, charges reasonable fees to defaulted borrowers, and effectively assists borrowers in meeting their obligations and returning to good standing. By January 1, 2016, the Secretary of Education shall publish a quarterly performance report on the Department's private debt collection agency contractors that includes the underlying data, disaggregated by contractor.
 

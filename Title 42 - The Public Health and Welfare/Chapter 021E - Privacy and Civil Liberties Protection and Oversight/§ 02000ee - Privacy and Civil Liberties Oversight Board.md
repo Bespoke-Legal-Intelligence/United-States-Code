@@ -20,7 +20,7 @@ The Board shall—
 
 &emsp;(1) analyze and review actions the executive branch takes to protect the Nation from terrorism, ensuring that the need for such actions is balanced with the need to protect privacy and civil liberties; and
 
-&emsp;(2) ensure that liberty concerns are appropriately considered in the development andimplementation of laws, regulations, and policies related to efforts to protect the Nation against terrorism.
+&emsp;(2) ensure that liberty concerns are appropriately considered in the development and implementation of laws, regulations, and policies related to efforts to protect the Nation against terrorism.
 
 #### (d) Functions
 
@@ -180,7 +180,7 @@ The Board—
 
 #### (5) Quorum and meetings
 
-&emsp;The Board shall meet upon the call of the chairman or a majority of its members. Threemembers of the Board shall constitute a quorum.
+&emsp;The Board shall meet upon the call of the chairman or a majority of its members. Three members of the Board shall constitute a quorum.
 
 #### (i) Compensation and travel expenses
 
@@ -250,6 +250,8 @@ There are authorized to be appropriated to carry out this section amounts as fol
 
 (Pub. L. 108–458, title I, §1061, Dec. 17, 2004, 118 Stat. 3684; Pub. L. 110–53, title VIII, §801(a), Aug. 3, 2007, 121 Stat. 352; Pub. L. 114–113, div. M, title III, §305, Dec. 18, 2015, 129 Stat. 2913; Pub. L. 115–118, title I, §108, Jan. 19, 2018, 132 Stat. 15.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 5703 of title 5, referred to in subsec. (i)(2), was amended generally by Pub. L. 94–22, §4, May 19, 1975, 89 Stat. 85, and, as so amended, does not contain a subsec. (b).
@@ -273,6 +275,8 @@ Subsec. (j)(2) to (4). Pub. L. 115–118, §108(a), added par. (2) and redesigna
 <b>2015</b>—Subsec. (g)(5). Pub. L. 114–113 added par. (5).
 
 <b>2007</b>—Pub. L. 110–53 amended section generally, substituting provisions relating to Privacy and Civil Liberties Oversight Board, consisting of subsecs. (a) to (m), for provisions relating to Privacy and Civil Liberties Oversight Board, consisting of subsecs. (a) to (l).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -321,6 +325,8 @@ In general.—The President and the Senate shall take such actions as necessary 
 &emsp;"(B)
 
 Designations.—In making the appointments described under subparagraph (A) of the first members of the Privacy and Civil Liberties Oversight Board as constituted under the amendments made by subsection (a), the President shall provide for the members to serve terms of 2, 3, 4, 5, and 6 years beginning on the effective date described under subsection (d)(1) \[set out above\], with the term of each such member to be designated by the President."
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13353. Establishing the President's Board on Safeguarding Americans' Civil Liberties
 
@@ -396,7 +402,7 @@ Sec. 4. <i>Membership and Operation</i>. The Board shall consist exclusively of 
 
 (u) such other officers of the United States as the Deputy Attorney General may from time to time designate.
 
-A member of the Board may designate, to perform the Board or Board subgroup functions of the member, any person who is part of such member's department or agency and who is either (i) an officer of the United States appointed by the President, or (ii) a member of the Senior Executive Service or the Senior Intelligence Service. The Chair, after consultation with the Vice Chair, shall convene and preside at meetings of the Board, determine its agenda, direct its work, and, as appropriate to deal with particular subject matters, establish and direct subgroups of the Board that shall consist exclusively of members of the Board. The Chair may invite, in his discretion, officers or employees of other departments or agencies to participate in the work of the Board. The Chair shall convene the first meeting of the Board within 20 days after the date of this order and shall thereafter convene meetings of the Board at such times as the Chair, after consultation with the Vice Chair, deems appropriate. The Deputy Attorney General shall designate an official of the Department of Justice to serve as the Executive Director of the Board.
+A member of the Board may designate, to perform the Board or Board subgroup functions of the member, any person who is part of such member's department or agency and who is either (i) an officer of the United States appointed by the President, or (ii) a member of the Senior Executive Service or the Senior Intelligence Service. The Chair, after consultation with the Vice Chair, shall convene and preside at meetings of the Board, determine its agenda, direct its work, and, as appropriate to deal with particular subject matters, establish and direct subgroups of the Board that shall consist exclusively of members of the Board. The Chair may invite, in his discretion, officers or employees of other departments or agencies to participate in thework of the Board. The Chair shall convene the first meeting of the Board within 20 days after the date of this order and shall thereafter convene meetings of the Board at such times as the Chair, after consultation with the Vice Chair, deems appropriate. The Deputy Attorney General shall designate an official of the Department of Justice to serve as the Executive Director of the Board.
 
 Sec. 5. <i>Cooperation</i>. To the extent permitted by law, all Federal departments and agencies shall cooperate with the Board and provide the Board with such information, support, and assistance as the Board, through the Chair, may request.
 

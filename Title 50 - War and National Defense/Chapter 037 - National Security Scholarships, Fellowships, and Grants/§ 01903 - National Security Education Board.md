@@ -50,7 +50,7 @@ The Board shall perform the following functions:
 
 &emsp;&emsp;(D) how students desiring scholarships or fellowships can be encouraged to work for an agency or office of the Federal Government involved in national security affairs or national security policy upon completion of their education; and
 
-&emsp;&emsp;(E) which foreign languages are critical to the national security interests of the United States for purposes of section 1902(a)(1)(D) of this title (relating to grants for the National Flagship Language Initiative) and section 1902(a)(1)(E) of this title (relating to the scholarship program for advanced Englishlanguage studies by heritage community citizens).
+&emsp;&emsp;(E) which foreign languages are critical to the national security interests of the United States for purposes of section 1902(a)(1)(D) of this title (relating to grants for the National Flagship Language Initiative) and section 1902(a)(1)(E) of this title (relating to the scholarship program for advanced English language studies by heritage community citizens).
 
 &emsp;(5) Encourage applications for fellowships under this chapter from graduate students having an educational background in any academic discipline, particularly in the areas of science or technology.
 
@@ -71,6 +71,8 @@ The Board shall perform the following functions:
 &emsp;&emsp;(D) overseeing the Corps efforts to work with Executive agencies and State and Local <sup>1</sup> governments to respond to interagency plans and agreements to address overall foreign language shortfalls and to utilize personnel to address the various types of crises that warrant foreign language skills.
 
 (Pub. L. 102–183, title VIII, §803, Dec. 4, 1991, 105 Stat. 1273; Pub. L. 102–496, title IV, §404(d), Oct. 24, 1992, 106 Stat. 3186; Pub. L. 104–201, div. A, title X, §1078(e), Sept. 23, 1996, 110 Stat. 2666; Pub. L. 105–272, title III, §305(a)(3), (b), Oct. 20, 1998, 112 Stat. 2401; Pub. L. 105–277, div. G, title XIII, §1335(g), Oct. 21, 1998, 112 Stat. 2681–788; Pub. L. 107–306, title III, §333(a)(4), Nov. 27, 2002, 116 Stat. 2396; Pub. L. 108–487, title VI, §603(a)(3), Dec. 23, 2004, 118 Stat. 3954; Pub. L. 112–81, div. A, title X, §1087, Dec. 31, 2011, 125 Stat. 1603; Pub. L. 112–166, §2(c)(2), Aug. 10, 2012, 126 Stat. 1284; Pub. L. 112–239, div. A, title IX, §954(b), Jan. 2, 2013, 126 Stat. 1896.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -104,7 +106,7 @@ Subsec. (d)(4). Pub. L. 105–272, §305(a)(3), substituted "area, and counterpr
 
 <b>1996</b>—Subsec. (d)(1). Pub. L. 104–201, §1078(e)(1), inserted before period at end ", including an order of priority in such awards that favors individuals expressing an interest in national security issues or pursuing a career in a national security position".
 
-Subsec. (d)(4). Pub. L. 104–201, §1078(e)(2)(A), in introductory provisions, substituted "After taking into account the annual analyses of trends in language, international, and area studies under section 1906(b)(1) of this title, make recommendations" for "Make recommendations".
+Subsec. (d)(4). Pub. L. 104–201, §1078(e)(2)(A), in introductory provisions, substituted "After taking into account the annual analyses of trends in language, international, and area studies under section 1906(b)(1) ofthis title, make recommendations" for "Make recommendations".
 
 Subsec. (d)(4)(A). Pub. L. 104–201, §1078(e)(2)(B), substituted "and countries which are of importance to the national security interests of the United States" after "are studying".
 
@@ -116,13 +118,15 @@ Subsec. (d)(5) to (8). Pub. L. 104–201, §1078(e)(3), (4), added pars. (5) to 
 
 Subsec. (b)(8). Pub. L. 102–496, §404(d)(1), (3), redesignated par. (7) as (8), substituted "Six individuals" for "Four individuals", and inserted before period at end "and who may not be officers or employees of the Federal Government".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of this title.
 
 #### Effective Date of 2012 Amendment
 
-Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made onand after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
+Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
 
 #### Effective Date of 2002 Amendment
 

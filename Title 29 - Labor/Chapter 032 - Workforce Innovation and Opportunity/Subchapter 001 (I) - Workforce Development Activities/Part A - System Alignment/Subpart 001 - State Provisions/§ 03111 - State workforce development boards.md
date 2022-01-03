@@ -32,7 +32,7 @@ The Governor of a State shall establish a State workforce development board to c
 
 &emsp;&emsp;&emsp;&emsp;(III) may include representatives of community-based organizations that have demonstrated experience and expertise in addressing the employment, training, or education needs of individuals with barriers to employment, including organizations that serve veterans or that provide or support competitive, integrated employment for individuals with disabilities; and
 
-&emsp;&emsp;&emsp;&emsp;(IV) may include representatives of organizations that have demonstrated experience and expertise in addressing the employment, training, or education needs of eligible youth, including representatives of organizations that serve out-of-school youth; and
+&emsp;&emsp;&emsp;&emsp;(IV) may include representatives of organizations that have demonstrated experience and expertise in addressing theemployment, training, or education needs of eligible youth, including representatives of organizations that serve out-of-school youth; and
 
 &emsp;&emsp;&emsp;(iii) the balance—
 
@@ -191,4 +191,14 @@ The Workforce Investment Act of 1998, referred to in subsec. (e)(1), is Pub. L. 
 #### Effective Date
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
+
+#### Telecommunications Workforce Guidance
+
+Pub. L. 117–58, div. F, title VI, §60603, Nov. 15, 2021, 135 Stat. 1249, provided that: "Not later than 1 year after the date of enactment of this Act \[Nov. 15, 2021\], the Secretary of Labor, in partnership with the Chairman of the Federal Communications Commission, shall establish and issue guidance on how States can address the workforce needs and safety of the telecommunications industry, including guidance on how a State workforce development board established under section 101 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3111) can—
+
+&emsp;"(1) utilize Federal resources available to States to meet the workforce needs of the telecommunications industry;
+
+&emsp;"(2) promote and improve recruitment in workforce development programs in the telecommunications industry; and
+
+&emsp;"(3) ensure the safety of the telecommunications workforce, including tower climbers."
 

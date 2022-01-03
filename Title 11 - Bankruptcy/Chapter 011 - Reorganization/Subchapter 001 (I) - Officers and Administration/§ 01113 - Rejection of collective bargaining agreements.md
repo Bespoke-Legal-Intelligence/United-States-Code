@@ -2,7 +2,7 @@
 
 (a) The debtor in possession, or the trustee if one has been appointed under the provisions of this chapter, other than a trustee in a case covered by subchapter IV of this chapter and by title I of the Railway Labor Act, may assume or reject a collective bargaining agreement only in accordance with the provisions of this section.
 
-(b)(1) Subsequent to filing a petition and prior to filing an application seeking rejection of acollective bargaining agreement, the debtor in possession or trustee (hereinafter in this section "trustee" shall include a debtor in possession), shall—
+(b)(1) Subsequent to filing a petition and prior to filing an application seeking rejection of a collective bargaining agreement, the debtor in possession or trustee (hereinafter in this section "trustee" shall include a debtor in possession), shall—
 
 &emsp;(A) make a proposal to the authorized representative of the employees covered by such agreement, based on the most complete and reliable information available at the time of such proposal, which provides for those necessary modifications in the employees benefits and protections that are necessary to permit the reorganization of the debtor and assures that all creditors, the debtor and all of the affected parties are treated fairly and equitably; and
 

@@ -62,7 +62,7 @@ In carrying out the initiative, the Commercial Director, in consultation with th
 
 &emsp;(2) conduct pilot programs and demonstration projects to evaluate replicable approaches to achieving energy efficient commercial buildings for a variety of building types in a variety of climate zones;
 
-&emsp;(3) conduct deployment, dissemination, and technical assistance activities to encourage widespread adoption of technologies, practices, and policies to achieve energy efficient commercial buildings;
+&emsp;(3) conduct deployment, dissemination, and technical assistance activities to encourage widespread adoption of technologies, practices, and policies (including demand-response technologies, practices, and policies) to achieve energy efficient commercial buildings;
 
 &emsp;(4) conduct other research, development, demonstration, and deployment activities necessary to achieve each goal of the initiative, as determined by the Commercial Director, in consultation with the consortium;
 
@@ -92,9 +92,21 @@ There are authorized to be appropriated to carry out this section—
 
 &emsp;(4) $200,000,000 for each of fiscal years 2013 through 2018.
 
-(Pub. L. 110–140, title IV, §422, Dec. 19, 2007, 121 Stat. 1604.)
+(Pub. L. 110–140, title IV, §422, Dec. 19, 2007, 121 Stat. 1604; Pub. L. 117–58, div. D, title I, §40104(d), Nov. 15, 2021, 135 Stat. 933.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2021</b>—Subsec. (d)(3). Pub. L. 117–58 inserted "(including demand-response technologies, practices, and policies)" after "policies".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.
+
+#### Wage Rate Requirements
+
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of this title.
 

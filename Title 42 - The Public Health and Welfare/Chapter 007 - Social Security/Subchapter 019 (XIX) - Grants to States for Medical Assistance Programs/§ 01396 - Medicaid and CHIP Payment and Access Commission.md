@@ -42,7 +42,7 @@ There is hereby established the Medicaid and CHIP Payment and Access Commission 
 
 #### (D) Coverage policies
 
-&emsp;&emsp;Medicaid and CHIP benefit and coverage policies, including a determination of the degree to which Federal and State policies provide access to the services enrollees require to improve and maintain their health and functional status.
+&emsp;&emsp;Medicaid and CHIP benefit and coverage policies, including a determination of the degree to which Federal and State policies provide access to the services enrollees requireto improve and maintain their health and functional status.
 
 #### (E) Quality of care
 
@@ -188,7 +188,7 @@ There is hereby established the Medicaid and CHIP Payment and Access Commission 
 
 #### (4) Compensation
 
-&emsp;While serving on the business of MACPAC (including travel time), a member of MACPAC shall be entitled to compensation at the per diem equivalent of the rate provided for level IV of the Executive Schedule under section5315 of title 5; and while so serving away from home and the member's regular place of business, a member may be allowed travel expenses, as authorized by the Chairman of MACPAC. Physicians serving as personnel of MACPAC may be provided a physician comparability allowance by MACPAC in the same manner as Government physicians may be provided such an allowance by an agency under section 5948 of title 5, and for such purpose subsection (i) of such section shall apply to MACPAC in the same manner as it applies to the Tennessee Valley Authority. For purposes of pay (other than pay of members of MACPAC) and employment benefits, rights, and privileges, all personnel of MACPAC shall be treated as if they were employees of the United States Senate.
+&emsp;While serving on the business of MACPAC (including travel time), a member of MACPAC shall be entitled to compensation at the per diem equivalent of the rate provided for level IV of the Executive Schedule under section 5315 of title 5; and while so serving away from home and the member's regular place of business, a member may be allowed travel expenses, as authorized by the Chairman of MACPAC. Physicians serving as personnel of MACPAC may be provided a physician comparability allowance by MACPAC in the same manner as Government physicians may be provided such an allowance by an agency under section 5948 of title 5, and for such purpose subsection (i) of such section shall apply to MACPAC in the same manner as it applies to the Tennessee Valley Authority. For purposes of pay (other than pay of members of MACPAC) and employment benefits, rights, and privileges, all personnel of MACPAC shall be treated as if they were employees of the United States Senate.
 
 #### (5) Chairman; Vice Chairman
 
@@ -242,7 +242,7 @@ Subject to such review as the Comptroller General of the United States deems nec
 
 #### (1) Request for appropriations
 
-&emsp;MACPAC shall submit requests for appropriations (other than for fiscal year 2010) in the same manner as the Comptroller General of the United States submits requests for appropriations, but amounts appropriated for MACPAC shall be separate from amounts appropriated for the Comptroller General of the United States.
+&emsp;MACPAC shall submit requests for appropriations (other than for fiscal year 2010) inthe same manner as the Comptroller General of the United States submits requests for appropriations, but amounts appropriated for MACPAC shall be separate from amounts appropriated for the Comptroller General of the United States.
 
 #### (2) Authorization
 
@@ -262,7 +262,9 @@ Subject to such review as the Comptroller General of the United States deems nec
 
 &emsp;Amounts made available under paragraphs (2) and (3) to MACPAC to carry out the provisions of this section shall remain available until expended.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1900, as added Pub. L. 111–3, title V, §506(a), Feb. 4, 2009, 123 Stat. 91; amended Pub. L. 111–148, title II,§2801(a), Mar. 23, 2010, 124 Stat. 328; Pub. L. 113–93, title II, §221(b), Apr. 1, 2014, 128 Stat. 1076.)
+(Aug. 14, 1935, ch. 531, title XIX, §1900, as added Pub. L. 111–3, title V, §506(a), Feb. 4, 2009, 123 Stat. 91; amended Pub. L. 111–148, title II, §2801(a), Mar. 23, 2010, 124 Stat. 328; Pub. L. 113–93, title II, §221(b), Apr. 1, 2014, 128 Stat. 1076.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -315,6 +317,8 @@ Subsec. (d)(2). Pub. L. 111–148, §2801(a)(3), inserted "and State" after "Fed
 Subsec. (e)(1). Pub. L. 111–148, §2801(a)(4), inserted "and, as a condition for receiving payments under sections 1396b(a) and 1397ee(a) of this title, from any State agency responsible for administering Medicaid or CHIP," after "United States".
 
 Subsec. (f). Pub. L. 111–148, §2801(a)(5), substituted "Funding" for "Authorization of appropriations" in heading, inserted "(other than for fiscal year 2010)" before "in the same manner" in par. (1), and added pars. (3) and (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -370,7 +374,7 @@ Pub. L. 111–3, title V, §501(f), Feb. 4, 2009, 123 Stat. 88, provided that: "
 
 #### Deadline for Initial Appointments
 
-Pub. L. 111–3, title V, §506(b), Feb. 4, 2009, 123 Stat. 95, provided that: "Not later than January 1, 2010, the Comptroller General of the United States shall appoint the initial members of the Medicaid and CHIP Payment and Access Commission established under section 1900 of the Social Security Act \[42 U.S.C. 1396\] (as added by subsection (a))."
+Pub. L. 111–3, title V, §506(b), Feb. 4, 2009, 123 Stat. 95, provided that: "Not later than January 1, 2010, the Comptroller General of the United States shall appoint the initial members of the Medicaid and CHIP Paymentand Access Commission established under section 1900 of the Social Security Act \[42 U.S.C. 1396\] (as added by subsection (a))."
 
 #### Annual Report
 

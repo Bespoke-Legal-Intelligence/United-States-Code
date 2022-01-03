@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) take into account specific illicit finance risks related to narcotics trafficking; and
 
-&emsp;&emsp;(B) be developed in consultation with the Undersecretary of the Treasury for Terrorism and Financial Crimes, appropriate officials of the Office of Intelligence and Analysis of the Department of the Treasury, theDirector of the Financial Crimes Enforcement Network, and appropriate Federal law enforcement agencies.
+&emsp;&emsp;(B) be developed in consultation with the Undersecretary of the Treasury for Terrorism and Financial Crimes, appropriate officials of the Office of Intelligence and Analysis of the Department of the Treasury, the Director of the Financial Crimes Enforcement Network, and appropriate Federal law enforcement agencies.
 
 #### (b) Review of counternarcotics efforts of the intelligence community
 
@@ -22,7 +22,7 @@ The Director of National Intelligence shall, in coordination with the Director o
 
 #### (1) Quarterly reports on program
 
-&emsp;Not later than 90 days after December 20, 2019, and every 90 days thereafter, the Director of National Intelligence and the Director of the Office of National Drug Control Policy shall jointly submit to the appropriate congressional committees and leadership a report on the status and accomplishments of the program required by subsection (a) during the 90-day period ending on the date of the report. The first report under this paragraph shall also include a description of the amount of funds devoted by the intelligence community to the efforts described in subsection (a) during each of fiscal years 2017 and 2018.
+&emsp;Not later than 90 days after December 20, 2019, and every 90 days thereafter, the Director of National Intelligence and the Director of the Office of National Drug Control Policy shall jointly submit to the appropriate congressional committees and leadership a reporton the status and accomplishments of the program required by subsection (a) during the 90-day period ending on the date of the report. The first report under this paragraph shall also include a description of the amount of funds devoted by the intelligence community to the efforts described in subsection (a) during each of fiscal years 2017 and 2018.
 
 #### (2) Report on review
 

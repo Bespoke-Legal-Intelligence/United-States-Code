@@ -22,6 +22,8 @@ Defense Intelligence Element Defined.—In this section, the term "Defense intel
 
 (Added Pub. L. 112–87, title IV, §433(a), Jan. 3, 2012, 125 Stat. 1894; amended Pub. L. 113–291, div. A, title X, §1071(c)(5), (f)(6), Dec. 19, 2014, 128 Stat. 3508, 3510.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Subsec. (a). Pub. L. 113–291, §1071(c)(5)(A), substituted "section 102A of the National Security Act of 1947 (50 U.S.C. 3024)" for "Section 102A of the National Security Act of 1947 (50 U.S.C. 403–1)".

@@ -2,7 +2,7 @@
 
 #### (a) Establishment; number and appointment of members; representation of interests; Chairman; term of office; vacancies; restriction on term
 
-(1) For the purpose of advising and assisting the Secretary of Education (hereinafter in this section referred to as the "Secretary") with respect to the education of the deaf, there is hereby created a National Advisory Committee onEducation of the Deaf, which shall consist of twelve persons, not otherwise in the employ of the United States, appointed by the Secretary without regard to the civil service laws.
+(1) For the purpose of advising and assisting the Secretary of Education (hereinafter in this section referred to as the "Secretary") with respect to the education of the deaf, there is hereby created a National Advisory Committee on Education of the Deaf, which shall consist of twelve persons, not otherwise in the employ of the United States, appointed by the Secretary without regard to the civil service laws.
 
 (2) The membership of the Advisory Committee shall include educators of the deaf, persons interested in education of the deaf, educators of the hearing, and deaf individuals.
 
@@ -30,9 +30,13 @@ The Advisory Committee shall meet at the request of the Secretary, but at least 
 
 (Pub. L. 85–905, §5, as added Pub. L. 89–258, Oct. 19, 1965, 79 Stat. 984; amended Pub. L. 96–88, title III, §301, title V, §507, Oct. 17, 1979, 93 Stat. 677, 692.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 In subsec. (d), "section 5703 of title 5" substituted for "section 5 of the Administrative Expenses Act", on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

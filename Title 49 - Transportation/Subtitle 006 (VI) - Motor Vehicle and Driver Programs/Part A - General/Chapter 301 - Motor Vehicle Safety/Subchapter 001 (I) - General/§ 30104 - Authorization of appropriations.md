@@ -22,6 +22,8 @@ Dec. 18, 1991, Pub. L. 102–240, §2501(a), 105 Stat. 2081.
 
 In this section, before clause (1), the words "to the Secretary of Transportation for the National Highway Traffic Safety Administration" are substituted for "For the National Highway Traffic Safety Administration" for clarity and consistency in the revised title and with other titles of the United States Code. The reference to fiscal year 1992 is omitted as obsolete.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1999</b>—Pub. L. 106–39 substituted "$98,313,500" for "$81,200,000".

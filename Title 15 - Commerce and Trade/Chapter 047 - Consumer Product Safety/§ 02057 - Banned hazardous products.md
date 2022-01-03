@@ -10,9 +10,13 @@ Whenever the Commission finds that—
 
 (Pub. L. 92–573, §8, Oct. 27, 1972, 86 Stat. 1215; Pub. L. 97–35, title XII, §1203(c), Aug. 13, 1981, 95 Stat. 713.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1981</b>—Pub. L. 97–35 substituted "may, in accordance with" for "may propose and, in accordance with".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1981 Amendment
 

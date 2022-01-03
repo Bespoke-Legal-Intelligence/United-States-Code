@@ -168,13 +168,15 @@ Nothing in this subchapter<sup>1</sup> shall be construed to limit or otherwise 
 
 (Pub. L. 115–232, div. A, title XVII, §1761, Aug. 13, 2018, 132 Stat. 2226.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is comprised of section 1761 of Pub. L. 115–232. Subsec. (f) of section 1761 of Pub. L. 115–232 amended section 2516 of Title 18, Crimes and Criminal Procedure.
 
 #### References in Text
 
-This subchapter, referred to in subsecs. (a), (b)(1), (2), (d), (e), and (h), was in the original "this part", meaning part I (§§1751–1768) of subtitle B of title XVII of div.A of Pub. L. 115–232, known as the Export Controls Act of 2018, which is classified principally to this subchapter. For complete classification of part I to the Code, see section 1751 of Pub. L. 115–232, set out as a Short Title note under section 4801 of this title and Tables.
+This subchapter, referred to in subsecs. (a), (b)(1), (2), (d), (e), and (h), was in the original "this part", meaning part I (§§1751–1768) of subtitle B of title XVII of div. A of Pub. L. 115–232, known as the Export Controls Act of 2018, which is classified principally to this subchapter. For complete classification of part I to the Code, see section 1751 of Pub. L. 115–232, set out as a Short Title note under section 4801 of this title and Tables.
 
 The Export Administration Act of 1979, referred to in subsec. (h)(2)(B)(i), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§4601 et seq.) of this title and was substantially repealed by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232. For complete classification of this Act to the Code, see Tables.
 

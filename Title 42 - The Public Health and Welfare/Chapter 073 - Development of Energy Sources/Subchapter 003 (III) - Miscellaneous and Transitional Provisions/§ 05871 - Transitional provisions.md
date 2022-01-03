@@ -2,7 +2,7 @@
 
 #### (a) Lapse of agency or other body from which functions or programs have been transferred and positions or offices therein
 
-Except as otherwise provided in this chapter, whenever all of the functions or programs of an agency, or other body, or any component thereof, affected by this chapter, have been transferred from that agency, or other body, or any component thereof by this chapter, the agency, or other body, or component thereof shall lapse. If an agency, or other body, or any component thereof, lapses pursuant to the preceding sentence, each position and office therein which was expressly authorized by law, or the incumbent of which was authorized to receive compensation at the rate prescribed for an office or position at level II, III, IV, or V of the Executive Schedule (5 U.S.C. 5313–5316), shall lapse.
+Except as otherwise provided in this chapter, whenever all of the functions or programs of an agency, or other body, or any component thereof, affected by this chapter, have been transferred from that agency, or other body, or any component thereof by this chapter, the agency, or other body, or component thereof shall lapse. If an agency, or other body, or any component thereof, lapses pursuant to the preceding sentence, each position and office therein whichwas expressly authorized by law, or the incumbent of which was authorized to receive compensation at the rate prescribed for an office or position at level II, III, IV, or V of the Executive Schedule (5 U.S.C. 5313–5316), shall lapse.
 
 #### (b) Continuation of orders, determinations, rules, etc.
 
@@ -28,7 +28,7 @@ Except as provided in subsection (f)—
 
 #### (e) Abatement of suits, actions, or other proceedings by or against officer, department, or agency
 
-No suit, action, or other proceeding commenced by or against any officer in his official capacity as an officer of any department or agency, functions of which are transferred by this chapter, shall abate by reason of the enactment of this chapter. No cause of action by or against any department or agency, functions of which are transferred by this chapter, or by or against any officer thereof in his official capacity shall abate by reason of the enactment of this chapter. Causes of actions, suits, actions, orother proceedings may be asserted by or against the United States or such official as may be appropriate and, in any litigation pending when this section takes effect, the court may at any time, on its own motion or that of any party, enter any order which will give effect to the provisions of this section.
+No suit, action, or other proceeding commenced by or against any officer in his official capacity as an officer of any department or agency, functions of which are transferred by this chapter, shall abate by reason of the enactment of this chapter. No cause of action by or against any department or agency, functions of which are transferred by this chapter, or by or against any officer thereof in his official capacity shall abate by reason of the enactment of this chapter. Causes of actions, suits, actions, or other proceedings may be asserted by or against the United States or such official as may be appropriate and, in any litigation pending when this section takes effect, the court may at any time, on its own motion or that of any party, enter any order which will give effect to the provisions of this section.
 
 #### (f) Continuation of suits; substitution of parties
 
@@ -56,15 +56,23 @@ Except as may be otherwise expressly provided in this chapter, all functions exp
 
 (Pub. L. 93–438, title III, §301, Oct. 11, 1974, 88 Stat. 1248.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, as amended, which enacted this chapter, amended sections 5313 to 5316 of Title 5, Government Organization and Employees, repealed sections 2031 and 2032 of this title, and enacted provisions set out as notes under section 5801 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
 References to "at the time this chapter takes effect" in subsec. (b)(2), "the date this chapter takes effect" in subsec. (d)(1), "date on which this chapter takes effect" in subsec. (f), and "the effective date of this chapter" in subsecs. (g), (h), (i), and (k), refer to the effective date of Pub. L. 93–438. See section 312 of Pub. L. 93–438, set out as an Effective Date; Interim Appointments note under section 5801 of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Transfer of Functions
+
+Energy Research and Development Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of this title.
+
+#### <b>Executive Documents</b>
+
 #### Transfer of Functions
 
 For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg. Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out as a note under section 5841 of this title.
-
-Energy Research and Development Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of this title.
 

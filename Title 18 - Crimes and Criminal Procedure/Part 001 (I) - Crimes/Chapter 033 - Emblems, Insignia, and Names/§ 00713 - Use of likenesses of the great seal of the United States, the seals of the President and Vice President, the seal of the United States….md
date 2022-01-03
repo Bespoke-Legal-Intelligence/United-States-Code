@@ -42,7 +42,7 @@ Subsec. (f)(3), (4). Pub. L. 105–55, §308(c), added pars. (3) and (4).
 
 Subsec. (a). Pub. L. 102–229, §210(b), inserted "or the seal of the United States Senate," after "Vice President of the United States,".
 
-Subsecs. (c), (d). Pub. L. 102–229, §210(c), (d), added subsec. (c), amended former subsec. (c) generally, andredesignated former subsec. (c) as (d). Prior to amendment and redesignation, former subsec. (c) read as follows: "A violation of subsection (a) or (b) of this section may be enjoined at the suit of the Attorney General upon complaint by any authorized representative of any department or agency of the United States."
+Subsecs. (c), (d). Pub. L. 102–229, §210(c), (d), added subsec. (c), amended former subsec. (c) generally, and redesignated former subsec. (c) as (d). Prior to amendment and redesignation, former subsec. (c) read as follows: "A violation of subsection (a) or (b) of this section may be enjoined at the suit of the Attorney General upon complaint by any authorized representative of any department or agency of the United States."
 
 <b>1971</b>—Pub. L. 91–651 substituted "Use of likenesses of the great seal of the United States, and of the seals of the President and Vice President" for "Use of the great seal of the United States" in section catchline.
 

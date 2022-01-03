@@ -6,7 +6,7 @@ No carrier shall undertake the construction of a new line or of an extension of 
 
 #### (b) Notification of Secretary of Defense, Secretary of State, and State Governor
 
-Upon receipt of an application for any such certificate, the Commission shall cause noticethereof to be given to, and shall cause a copy of such application to be filed with, the Secretary of Defense, the Secretary of State (with respect to such applications involving service to foreign points), and the Governor of each State in which such line is proposed to be constructed, extended, acquired, or operated, or in which such discontinuance, reduction, or impairment of service is proposed, with the right to those notified to be heard; and the Commission may require such published notice as it shall determine.
+Upon receipt of an application for any such certificate, the Commission shall cause notice thereof to be given to, and shall cause a copy of such application to be filed with, the Secretary of Defense, the Secretary of State (with respect to such applications involving service to foreign points), and the Governor of each State in which such line is proposed to be constructed, extended, acquired, or operated, or in which such discontinuance, reduction, or impairment of service is proposed, with the right to those notified to be heard; and the Commission may require such published notice as it shall determine.
 
 #### (c) Approval or disapproval; injunction
 
@@ -32,7 +32,7 @@ The Commission may, after full opportunity for hearing, in a proceeding upon com
 
 #### (3) Designation of eligible telecommunications carriers for unserved areas
 
-&emsp;If no common carrier will provide the services that are supported by Federal universal service support mechanisms under section 254(c) of this title to an unserved community or any portion thereof that requests such service, the Commission, with respect to interstate services or an area served by a common carrier to which paragraph (6) applies, or a State commission, with respect to intrastate services, shall determine which common carrier or carriers are best able to provide such service to the requesting unserved community or portion thereof and shall order such carrier or carriers to provide such service for that unserved community or portion thereof. Any carrier or carriers ordered to provide such service under this paragraph shall meet the requirements of paragraph (1) and shall be designated as an eligible telecommunications carrier for that community or portion thereof.
+&emsp;If no common carrier will provide the services that are supported by Federal universal service support mechanisms under section 254(c) of this title to an unserved community or any portion thereof that requests such service, the Commission, with respect to interstate services or an area served by a common carrier to which paragraph (6) applies, or a State commission, with respect to intrastate services, shall determine which common carrier or carriers are best able to provide such service to the requesting unserved community or portion thereof and shall order such carrier or carriers to provide such service for thatunserved community or portion thereof. Any carrier or carriers ordered to provide such service under this paragraph shall meet the requirements of paragraph (1) and shall be designated as an eligible telecommunications carrier for that community or portion thereof.
 
 #### (4) Relinquishment of universal service
 

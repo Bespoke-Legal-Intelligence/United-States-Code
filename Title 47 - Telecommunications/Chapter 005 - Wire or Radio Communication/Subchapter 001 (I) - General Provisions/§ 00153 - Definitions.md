@@ -30,7 +30,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 &emsp;The term "Bell operating company"—
 
-&emsp;&emsp;(A) means any of the following companies: Bell Telephone Company of Nevada, Illinois Bell Telephone Company, Indiana Bell Telephone Company, Incorporated, Michigan Bell Telephone Company, New England Telephone and Telegraph Company, New Jersey Bell Telephone Company, New York Telephone Company, U S West Communications Company, South Central Bell Telephone Company, Southern Bell Telephone and Telegraph Company, Southwestern Bell Telephone Company, The Bell Telephone Company of Pennsylvania, The Chesapeake and Potomac Telephone Company, The Chesapeake and Potomac Telephone Company of Maryland, The Chesapeake and Potomac Telephone Company of Virginia, The Chesapeake and Potomac Telephone Company of West Virginia, The Diamond State Telephone Company, The Ohio Bell Telephone Company, The Pacific Telephone and Telegraph Company, or Wisconsin Telephone Company; and
+&emsp;&emsp;(A) means any of the following companies: Bell Telephone Company of Nevada, Illinois Bell Telephone Company, Indiana Bell Telephone Company, Incorporated, Michigan Bell Telephone Company, New England Telephone and Telegraph Company, New Jersey Bell Telephone Company, New York Telephone Company, U S West Communications Company, South Central Bell Telephone Company, Southern Bell Telephone and Telegraph Company, Southwestern Bell Telephone Company, The Bell TelephoneCompany of Pennsylvania, The Chesapeake and Potomac Telephone Company, The Chesapeake and Potomac Telephone Company of Maryland, The Chesapeake and Potomac Telephone Company of Virginia, The Chesapeake and Potomac Telephone Company of West Virginia, The Diamond State Telephone Company, The Ohio Bell Telephone Company, The Pacific Telephone and Telegraph Company, or Wisconsin Telephone Company; and
 
 &emsp;&emsp;(B) includes any successor or assign of any such company that provides wireline telephone exchange service; but
 
@@ -38,7 +38,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 #### (6) Broadcast station
 
-&emsp;The term "broadcast station", "broadcasting station", or "radio broadcast station"means a radio station equipped to engage in broadcasting as herein defined.
+&emsp;The term "broadcast station", "broadcasting station", or "radio broadcast station" means a radio station equipped to engage in broadcasting as herein defined.
 
 #### (7) Broadcasting
 
@@ -110,7 +110,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 #### (24) Information service
 
-&emsp;The term "information service" means the offering of a capability for generating, acquiring, storing, transforming, processing, retrieving, utilizing, or making available information via telecommunications, and includes electronic publishing, but does not include any use of any such capability for the management, control, or operation of a telecommunications system or the management of a telecommunications service.
+&emsp;The term "information service" means the offering of a capability for generating, acquiring, storing, transforming, processing, retrieving, utilizing, or making available information via telecommunications, and includes electronic publishing, but does not include any useof any such capability for the management, control, or operation of a telecommunications system or the management of a telecommunications service.
 
 #### (25) Interconnected VoIP service
 
@@ -178,7 +178,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 #### (38) Operator
 
-&emsp;(A) The term "operator" on a ship of the United States means, for the purpose of parts II and III of subchapter III of this chapter, a person holding a radio operator's license of the proper class as prescribed and issued by the Commission.
+&emsp;(A) The term "operator" on a ship of the United States means, for the purpose of partsII and III of subchapter III of this chapter, a person holding a radio operator's license of the proper class as prescribed and issued by the Commission.
 
 &emsp;(B) "Operator" on a foreign ship means, for the purpose of part II of subchapter III of this chapter, a person holding a certificate as such of the proper class complying with the provisions of the radio regulations annexed to the International Telecommunication Convention in force, or complying with an agreement or treaty between the United States and the country in which the ship is registered.
 
@@ -242,7 +242,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 #### (48) State commission
 
-&emsp;The term "State commission" means the commission, board, or official (by whatever name designated) which under the laws of any State has regulatory jurisdiction with respect to intrastate operations of carriers.
+&emsp;The term "State commission" means the commission, board, or official (by whatevername designated) which under the laws of any State has regulatory jurisdiction with respect to intrastate operations of carriers.
 
 #### (49) Station license
 
@@ -392,7 +392,7 @@ Pub. L. 111–260, §2, Oct. 8, 2010, 124 Stat. 2751, provided that:
 
 "(a)
 
-In General.—Except as provided in subsection (b), no person shall be liable for a violation of the requirements of this Act \[see Short Title of 2010 Amendment note set out under section 609 of this title\] (or of the provisions of the Communications Act of 1934 \[47 U.S.C. 151 et seq.\] that are amended or added by this Act) with respect to video programming, online content, applications, services, advanced communications services, or equipment used to provide or access advanced communications services to the extent such person—
+In General.—Except as provided in subsection (b), no person shall be liable for a violation of the requirements of this Act \[see Short Title of 2010 Amendment note set out under section 609 of this title\] (or of the provisions of the Communications Act of 1934 \[47 U.S.C. 151 et seq.\] that are amended or added by this Act) with respect to video programming, online content, applications, services, advanced communicationsservices, or equipment used to provide or access advanced communications services to the extent such person—
 
 &emsp;"(1) transmits, routes, or stores in intermediate or transient storage the communications made available through the provision of advanced communications services by a third party; or
 

@@ -20,9 +20,13 @@ Aug. 7, 1947, ch. 512, §502(b) (less 2d sentence), 61 Stat. 884.
 
 The words "may be called" are substituted for the words "shall be known as" and "may be specifically referred to". The words "of that branch" are substituted for the enumeration of branches.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 3282 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

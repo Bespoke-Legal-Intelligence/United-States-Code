@@ -46,7 +46,7 @@ Each State shall submit statistical reports as the Secretary may require with re
 
 #### (C) Implementation authority
 
-&emsp;&emsp;The Secretary may provide the technical assistance and implementation services described in subparagraph (A) either directly or through a grant or contract with public or private organizations knowledgeable and experienced in the field of Indian tribal affairs and child welfare.
+&emsp;&emsp;The Secretary may provide the technical assistance and implementation services described in subparagraph (A) either directlyor through a grant or contract with public or private organizations knowledgeable and experienced in the field of Indian tribal affairs and child welfare.
 
 #### (3) Appropriation
 
@@ -60,7 +60,7 @@ Each State shall submit statistical reports as the Secretary may require with re
 
 #### (2) Clearinghouse of promising, supported, and well-supported practices
 
-&emsp;The Secretary shall, directly or through grants, contracts, or interagency agreements, evaluate research on the practices specified in clauses (iii), (iv), and (v), respectively, of section 671(e)(4)(C) of this title, and programs that meet the requirements described in section 627(a)(1) of this title, including culturally specific, or location- or population-based adaptations of the practices, to identify and establish a public clearinghouse of the practices that satisfy each category described by such clauses. In addition, the clearinghouse shallinclude information on the specific outcomes associated with each practice, including whether the practice has been shown to prevent child abuse and neglect and reduce the likelihood of foster care placement by supporting birth families and kinship families and improving targeted supports for pregnant and parenting youth and their children.
+&emsp;The Secretary shall, directly or through grants, contracts, or interagency agreements, evaluate research on the practices specified in clauses (iii), (iv), and (v), respectively, of section 671(e)(4)(C) of this title, and programs that meet the requirements described in section 627(a)(1) of this title, including culturally specific, or location- or population-based adaptations of the practices, to identify and establish a public clearinghouse of the practices that satisfy each category described by such clauses. In addition, the clearinghouse shall include information on the specific outcomes associated with each practice, including whether the practice has been shown to prevent child abuse and neglect and reduce the likelihood of foster care placement by supporting birth families and kinship families and improving targeted supports for pregnant and parenting youth and their children.
 
 #### (3) Data collection and evaluations
 
@@ -92,6 +92,8 @@ The Secretary shall conduct an evaluation of the procedures and protocols establ
 
 (Aug. 14, 1935, ch. 531, title IV, §476, as added Pub. L. 96–272, title I, §101(a)(1), June 17, 1980, 94 Stat. 511; amended Pub. L. 110–351, title III, §302, Oct. 7, 2008, 122 Stat. 3972; Pub. L. 115–123, div. E, title VII, §§50711(d), 50743(b), Feb. 9, 2018, 132 Stat. 242, 260.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (d). Pub. L. 115–123, §50711(d), added subsec. (d).
@@ -99,6 +101,8 @@ The Secretary shall conduct an evaluation of the procedures and protocols establ
 Subsec. (e). Pub. L. 115–123, §50743(b), added subsec. (e).
 
 <b>2008</b>—Subsec. (c). Pub. L. 110–351 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Appointment and compensation of officers and employees
 
-The Administrator is authorized to select, appoint, employ, and fix the compensation of such officers and employees, including attorneys, pursuant to section 2201(d) of this title as are necessary to perform the functions now or hereafter vested in him and to prescribe their functions.
+The Administrator is authorized to select, appoint, employ, and fix the compensation of suchofficers and employees, including attorneys, pursuant to section 2201(d) of this title as are necessary to perform the functions now or hereafter vested in him and to prescribe their functions.
 
 #### (b) Employment of experts and consultants
 
@@ -34,9 +34,13 @@ The Administrator is authorized to employ persons who are not citizens of the Un
 
 (Pub. L. 93–438, title I, §106, Oct. 11, 1974, 88 Stat. 1239.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

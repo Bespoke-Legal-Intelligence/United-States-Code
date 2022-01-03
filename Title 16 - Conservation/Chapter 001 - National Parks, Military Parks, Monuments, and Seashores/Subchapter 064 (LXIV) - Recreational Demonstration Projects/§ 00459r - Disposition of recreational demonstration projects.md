@@ -1,8 +1,10 @@
 ### §459r. Disposition of recreational demonstration projects
 
-Except as provided in section 459s of this title, the Secretary of the Interior is authorized, with the approval of the President, to convey or lease to the States or to the political subdivisions thereof, without consideration, any or all of the recreational demonstration projects and lands, improvements, and equipment comprised within such projects transferred to him by Executive Order Numbered 7496, dated November 14, 1936, or any parts of such projects, when in his judgment such grantees or lessees are adequately prepared to administer, operate, and maintain such project areas for public park, recreational, and conservation purposes, or he may, with the approval of the President, transfer to other Federal agencies any of the aforesaid recreational demonstration areas that may be of use to such agencies.
+Except as provided in section 459s of this title, the Secretary of the Interior is authorized, with the approval of the President, to convey or lease to the States or to the political subdivisionsthereof, without consideration, any or all of the recreational demonstration projects and lands, improvements, and equipment comprised within such projects transferred to him by Executive Order Numbered 7496, dated November 14, 1936, or any parts of such projects, when in his judgment such grantees or lessees are adequately prepared to administer, operate, and maintain such project areas for public park, recreational, and conservation purposes, or he may, with the approval of the President, transfer to other Federal agencies any of the aforesaid recreational demonstration areas that may be of use to such agencies.
 
 (June 6, 1942, ch. 380, §1, 56 Stat. 326.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Silver Creek Project
 
@@ -37,6 +39,8 @@ Sec. 2. The following-described lands also shall become a part of the Silver Cre
 #### "willamette meridian
 
 "Township 8 south, range 1 east: Section 36, northeast quarter, northeast quarter northwest quarter, north half southeast quarter northwest quarter, north half south half southeast quarter northwest quarter, north half northwest quarter northwest quarter, and north half south half northwest quarter northwest quarter; comprising two hundred and sixty acres."
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

@@ -64,7 +64,7 @@ As a condition of receiving a loan under this section, a borrower shall certify 
 
 #### (g) Opt-in for SBA qualified lenders
 
-Lenders qualified to participate as a lender under 7(a) <sup>3</sup> of the Small Business Act (15 U.S.C. 636(a)) may elect to participate in the paycheck protection program under the criteria, terms, and conditions established under this section. Such participation shall not preclude the lenders from continuing participation as a lender under section 7(a) of the Small Business Act (15 U.S.C. 636(a)).
+Lenders qualified to participate as a lender under 7(a) <sup>2</sup> of the Small Business Act (15 U.S.C. 636(a)) may elect to participate in the paycheck protection program under the criteria, terms, and conditions established under this section. Such participation shall not preclude the lenders from continuing participation as a lender under section 7(a) of the Small Business Act (15 U.S.C. 636(a)).
 
 #### (h) Program administration
 
@@ -75,6 +75,8 @@ With guidance from the Secretary, the Administrator shall administer the program
 A loan under this section shall be deemed to be a loan under the Small Business Act (15 U.S.C. 631 et seq.) for purposes of section 16 of such Act (15 U.S.C. 645).
 
 (Pub. L. 116–136, div. A, title I, §1109, Mar. 27, 2020, 134 Stat. 304; Pub. L. 116–260, div. N, title III, §304(b)(1)(C)(i), Dec. 27, 2020, 134 Stat. 1994.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -91,6 +93,8 @@ The Small Business Act, referred to in subsec. (i), is Pub. L. 85–536, §2(1 e
 #### Amendments
 
 <b>2020</b>—Subsec. (d)(2)(D). Pub. L. 116–260 substituted "section 7A of the Small Business Act" for "section 9005 of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 
@@ -172,5 +176,5 @@ Grants for shuttered venue operators; targeted eidl advances.—Subsection (d), 
 
 <i><sup>2</sup></i><i> So in original.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be preceded by "section".</i>
+<i><sup>2</sup></i><i> So in original. Probably should be preceded by "section".</i>
 

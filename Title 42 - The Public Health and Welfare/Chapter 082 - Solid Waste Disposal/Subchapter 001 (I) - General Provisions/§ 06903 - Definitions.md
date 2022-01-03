@@ -40,7 +40,7 @@ As used in this chapter:
 
 (16) The term "procurement item" means any device, good, substance, material, product, or other item whether real or personal property which is the subject of any purchase, barter, or other exchange made to procure such item.
 
-(17) The term "procuring agency" means any Federal agency, or any State agency or agency of a political subdivision of a State which is using appropriated Federal funds for such procurement, or any person contracting with any such agency with respect to work performed under such contract.
+(17) The term "procuring agency" means any Federal agency, or any State agency or agencyof a political subdivision of a State which is using appropriated Federal funds for such procurement, or any person contracting with any such agency with respect to work performed under such contract.
 
 (18) The term "recoverable" refers to the capability and likelihood of being recovered from solid waste for a commercial or industrial use.
 
@@ -100,11 +100,13 @@ As used in this chapter:
 
 (39) The term "re-refined oil" means used oil from which the physical and chemical contaminants acquired through previous use have been removed through a refining process.
 
-(40) Except as otherwise provided in this paragraph, the term "medical waste" means any solid waste which is generated in the diagnosis, treatment, or immunization of human beings or animals, in research pertaining thereto, or in the production or testing of biologicals. Such term does not include any hazardous waste identified or listed under subchapter III or any household waste as defined in regulations under subchapter III.
+(40) Except as otherwise provided in this paragraph, the term "medical waste" means any solid waste which is generated in the diagnosis, treatment, or immunization of human beings oranimals, in research pertaining thereto, or in the production or testing of biologicals. Such term does not include any hazardous waste identified or listed under subchapter III or any household waste as defined in regulations under subchapter III.
 
-(41) The term "mixed waste" means waste that contains both hazardous waste and source, special nuclear, or by-product material subject tothe Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.).
+(41) The term "mixed waste" means waste that contains both hazardous waste and source, special nuclear, or by-product material subject to the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.).
 
 (Pub. L. 89–272, title II, §1004, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2798; amended Pub. L. 95–609, §7(b), Nov. 8, 1978, 92 Stat. 3081; Pub. L. 96–463, §3, Oct. 15, 1980, 94 Stat. 2055; Pub. L. 96–482, §2, Oct. 21, 1980, 94 Stat. 2334; Pub. L. 100–582, §3, Nov. 1, 1988, 102 Stat. 2958; Pub. L. 102–386, title I, §§103, 105(b), Oct. 6, 1992, 106 Stat. 1507, 1512; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -134,9 +136,13 @@ Par. (10). Pub. L. 95–609, §7(b)(2), substituted "management" for "disposal".
 
 Par. (29)(C). Pub. L. 95–609, §7(b)(3), substituted "the collection, source separation, storage, transportation, transfer, processing, treatment or disposal" for "the treatment".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 "Government Publishing Office" substituted for "Government Printing Office" in par. (4) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

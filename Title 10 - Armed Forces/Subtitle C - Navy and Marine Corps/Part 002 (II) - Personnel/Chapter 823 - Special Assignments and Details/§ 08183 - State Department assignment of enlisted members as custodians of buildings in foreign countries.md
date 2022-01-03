@@ -18,9 +18,13 @@ Historical and Revision Notes
 
 Aug. 13, 1946, ch. 957, §562, 60 Stat. 1011.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 5983 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 
@@ -52,7 +56,7 @@ In general.—The Secretary of Defense, with the concurrence of the Secretary of
 
 &emsp;"(2)
 
-Reporting requirement.—Not later than 180 days after the date of the enactment of this Act \[Dec. 19, 2014\], the Secretary of Defense, in consultation with the Secretary of State, shall submit to the appropriate congressional committees an unclassifiedreport, with a classified annex as necessary, that addresses the requirements set forth in paragraph (1).
+Reporting requirement.—Not later than 180 days after the date of the enactment of this Act \[Dec. 19, 2014\], the Secretary of Defense, in consultation with the Secretary of State, shall submit to the appropriate congressional committees an unclassified report, with a classified annex as necessary, that addresses the requirements set forth in paragraph (1).
 
 "(b)
 

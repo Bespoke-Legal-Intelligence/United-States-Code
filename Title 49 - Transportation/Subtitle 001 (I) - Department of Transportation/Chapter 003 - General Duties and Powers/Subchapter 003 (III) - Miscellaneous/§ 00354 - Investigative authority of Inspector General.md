@@ -10,6 +10,8 @@ Regulated Entities.—The authority to conduct investigations referred to in sub
 
 (Added and amended Pub. L. 108–168, §8(a), (b)(1), Dec. 6, 2003, 117 Stat. 2034.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 The text of section 228 of Pub. L. 106–159, formerly set out as a note under section 4 of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, Government Organization and Employees, which was transferred to this section, redesignated as text of section, and amended by Pub. L. 108–168, §8(a), (b)(1), was based on Pub. L. 106–159, title II, §228, Dec. 9, 1999, 113 Stat. 1773.
@@ -18,9 +20,11 @@ The text of section 228 of Pub. L. 106–159, formerly set out as a note under s
 
 <b>2003</b>—Pub. L. 108–168 renumbered section 228 of Pub. L. 106–159 as this section and substituted "Investigative authority of Inspector General" for "DOT Authority" in section catchline. See Codification note above.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Deposit of Forfeited Funds
 
-Pub. L. 113–235, div. K, title I, Dec. 16, 2014, 128 Stat. 2724, provided in part: "That hereafter funds transferred to the Office of the Inspector General through forfeiture proceedings or from the Department of Justice Assets Forfeiture Fund or the Department of the Treasury Forfeiture Fund, as a participating agency, as an equitable share from the forfeiture of property in investigations in which the Office of Inspector General participates, or through the granting of a Petition for Remission or Mitigation, shall be deposited to the credit of this account \[Office of Inspector General, Salaries and Expenses\] for law enforcement activities authorized under the Inspector General Act of 1978, as amended \[5 U.S.C. App.\], to remain available until expended."
+Pub. L. 113–235, div. K, title I, Dec. 16, 2014, 128 Stat. 2724, provided in part: "That hereafter funds transferred to the Office of the Inspector General through forfeiture proceedings or from the Department of Justice Assets Forfeiture Fund or the Department of the Treasury Forfeiture Fund, as a participating agency, asan equitable share from the forfeiture of property in investigations in which the Office of Inspector General participates, or through the granting of a Petition for Remission or Mitigation, shall be deposited to the credit of this account \[Office of Inspector General, Salaries and Expenses\] for law enforcement activities authorized under the Inspector General Act of 1978, as amended \[5 U.S.C. App.\], to remain available until expended."
 
 Similar provisions were contained in the following prior appropriation act:
 

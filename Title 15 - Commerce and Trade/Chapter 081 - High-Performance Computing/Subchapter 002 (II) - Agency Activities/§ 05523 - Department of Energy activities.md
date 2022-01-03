@@ -12,6 +12,8 @@ As part of the Program described in subchapter I, the Secretary of Energy shall�
 
 (Pub. L. 102–194, title II, §203, Dec. 9, 1991, 105 Stat. 1600; Pub. L. 104–66, title I, §1052(j), Dec. 21, 1995, 109 Stat. 719; Pub. L. 109–58, title IX, §976(b), Aug. 8, 2005, 119 Stat. 903; Pub. L. 114–329, title I, §105(l), Jan. 6, 2017, 130 Stat. 2984.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Pub. L. 114–329, §105(l)(1), (4), struck out subsec. (a) designation and heading "General responsibilities" and struck out subsec. (b) which authorized to be appropriated to the Secretary of Energy such sums as necessary to carry out this section.

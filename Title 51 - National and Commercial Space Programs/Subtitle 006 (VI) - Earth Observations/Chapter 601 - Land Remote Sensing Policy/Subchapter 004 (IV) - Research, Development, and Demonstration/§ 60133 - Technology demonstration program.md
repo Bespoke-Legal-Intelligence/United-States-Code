@@ -16,7 +16,7 @@ Execution of Program.—In executing the technology demonstration program, the P
 
 (c)
 
-Broad Application.—To the greatest extent practicable, the technology demonstration program established under subsection (a) shall be designed to be responsive to the broad civilian, national security, commercial, and foreign policy needs of the United States.
+Broad Application.—To the greatest extent practicable, the technology demonstration program established under subsection (a) shallbe designed to be responsive to the broad civilian, national security, commercial, and foreign policy needs of the United States.
 
 (d)
 

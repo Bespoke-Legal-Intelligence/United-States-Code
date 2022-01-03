@@ -66,7 +66,7 @@
 
 (5) The head of each executive agency may provide to a consumer reporting agency or commercial reporting agency information from a system of records that a person is responsible for a claim which is current, if notice required by section 552a(e)(4) of title 5 indicates that information in the system may be disclosed to a consumer reporting agency or commercial reporting agency, respectively.
 
-(f)(1) The Secretary of Defense may suspend or terminate an action by the Secretary or by the Secretary of a military department under subsection (a) to collect a claim against the estate of a person who died while serving on active duty as a member of the Army, Navy, Air Force, Marine Corps, Space Force, or Coast Guard during a period when the Coast Guard is operating as a service in the Navy if the Secretary determines that, under the circumstances applicable with respect to the deceased person, it is appropriate to do so.
+(f)(1) The Secretary of Defense may suspend or terminate an action by the Secretary or by theSecretary of a military department under subsection (a) to collect a claim against the estate of a person who died while serving on active duty as a member of the Army, Navy, Air Force, Marine Corps, Space Force, or Coast Guard during a period when the Coast Guard is operating as a service in the Navy if the Secretary determines that, under the circumstances applicable with respect to the deceased person, it is appropriate to do so.
 
 (2) The Secretary of Homeland Security may suspend or terminate an action by the Secretary under subsection (a) to collect a claim against the estate of a person who died while serving on active duty as a member of the Coast Guard if the Secretary determines that, under the circumstances applicable with respect to the deceased person, it is appropriate to do so.
 
@@ -118,7 +118,7 @@
 
 (6) Any agency operating a debt collection center to which nontax claims are referred or transferred under this subsection may charge a fee sufficient to cover the full cost of implementing this subsection. The agency transferring or referring the nontax claim shall be charged the fee, and the agency charging the fee shall collect such fee by retaining the amount of the fee from amounts collected pursuant to this subsection. Agencies may agree to pay through a different method, or to fund an activity from another account or from revenue received from the procedure described under section 3720C of this title. Amounts charged under this subsection concerning delinquent claims may be considered as costs pursuant to section 3717(e) of this title.
 
-(7) Notwithstanding any other law concerning the depositing and collection of Federal payments, including section 3302(b) of this title, agencies collecting fees may retain the fees from amounts collected. Any fee charged pursuant to this subsection shall be deposited into an account to be determined by the executive department or agency operating the debt collection center charging the fee (in this subsection referred to in this section <sup>2</sup> as the "Account"). Amounts deposited in the Account shall be available until expended to cover costs associated with the implementation and operation of Governmentwide debt collection activities. Costs properly chargeable to the Account include—
+(7) Notwithstanding any other law concerning the depositing and collection of Federal payments, including section 3302(b) of this title, agencies collecting fees may retain the fees from amounts collected. Any fee charged pursuant to this subsection shall be deposited into an account to be determined by the executive department or agency operating the debt collection center charging the fee (in this subsection referred to in this section <sup>2</sup> as the "Account"). Amounts deposited in the Account shall beavailable until expended to cover costs associated with the implementation and operation of Governmentwide debt collection activities. Costs properly chargeable to the Account include—
 
 &emsp;(A) the costs of computer hardware and software, word processing and telecommunications equipment, and other equipment, supplies, and furniture;
 
@@ -156,7 +156,7 @@
 
 (2) The obtaining of a consumer report under this subsection is deemed to be a circumstance or purpose authorized or listed under section 604 of the Fair Credit Reporting Act (15 U.S.C. 1681b).
 
-(i)(1) The head of an executive, judicial, or legislative agency may sell, subject to section504(b) of the Federal Credit Reform Act of 1990 and using competitive procedures, any nontax debt owed to the United States that is delinquent for more than 90 days. Appropriate fees charged by a contractor to assist in the conduct of a sale under this subsection may be payable from the proceeds of the sale.
+(i)(1) The head of an executive, judicial, or legislative agency may sell, subject to section 504(b) of the Federal Credit Reform Act of 1990 and using competitive procedures, any nontax debt owed to the United States that is delinquent for more than 90 days. Appropriate fees charged by a contractor to assist in the conduct of a sale under this subsection may be payable from the proceeds of the sale.
 
 (2) After terminating collection action, the head of an executive, judicial, or legislative agency shall sell, using competitive procedures, any nontax debt or class of nontax debts owed to the United States, if the Secretary of the Treasury determines the sale is in the best interests of the United States.
 
@@ -180,7 +180,7 @@
 
 &emsp;(ii) The cumulative balance of delinquent debts, debts outstanding, the estimated net present value of such debts, the annual administrative expenses of those debts (including the portion of salaries and expenses that are directly related thereto), and the estimated net proceeds that would be received by the Government if such debts were sold.
 
-&emsp;(iii) The cumulative balance of guaranteed loans outstanding, the estimated net present value of such guarantees, the annual administrative expenses of such guarantees (including the portion of salaries and expenses that are directly related to such guaranteed loans), and the estimated net proceeds that would be received by the Government if such loan guarantees were sold.
+&emsp;(iii) The cumulative balance of guaranteed loans outstanding, the estimated net present value of such guarantees, the annual administrative expenses of such guarantees (including the portion of salaries and expenses that aredirectly related to such guaranteed loans), and the estimated net proceeds that would be received by the Government if such loan guarantees were sold.
 
 &emsp;(iv) The cumulative balance of defaulted loans that were previously guaranteed and have resulted in loans receivables, the estimated net present value of such loan assets, the annual administrative expenses of such loan assets (including the portion of salaries and expenses that are directly related to such loan assets), and the estimated net proceeds that would be received by the Government if such loan assets were sold.
 
@@ -234,7 +234,7 @@ In subsection (a), the word "Government" is added for consistency. In clause (2)
 
 In subsections (b) and (d), the word "official" is substituted for "officer" for consistency.
 
-In subsection (b), the words "Comptroller General" are substituted for "General Accounting Office" for consistency. The words "has the same authority that the head of the agency has" are substituted for "havethe foregoing authority" for clarity. The words "by another agency" are omitted as surplus. The words "only . . . may compromise" are substituted for "nor shall the head of an agency, other than . . . have authority to compromise" to eliminate unnecessary words.
+In subsection (b), the words "Comptroller General" are substituted for "General Accounting Office" for consistency. The words "has the same authority that the head of the agency has" are substituted for "have the foregoing authority" for clarity. The words "by another agency" are omitted as surplus. The words "only . . . may compromise" are substituted for "nor shall the head of an agency, other than . . . have authority to compromise" to eliminate unnecessary words.
 
 In subsection (c)(1), the words "that appears to be fraudulent, false, or misrepresented by" are substituted for "as to which there is an indication of fraud, the presentation of a false claim, or misrepresentation on the part of" to eliminate unnecessary words. The words "the debtor or . . . other" and "in whole or in part" are omitted as surplus.
 

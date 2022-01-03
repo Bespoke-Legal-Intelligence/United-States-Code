@@ -76,6 +76,8 @@ The Secretary may not award a grant under this section to an entity unless the e
 
 (July 1, 1944, ch. 373, title III, §330J, as added Pub. L. 107–251, title II, §221, Oct. 26, 2002, 116 Stat. 1638; amended Pub. L. 115–334, title XII, §12608, Dec. 20, 2018, 132 Stat. 5008.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–334, §12608(1), substituted "in rural areas or to residents of rural areas" for "in rural areas".

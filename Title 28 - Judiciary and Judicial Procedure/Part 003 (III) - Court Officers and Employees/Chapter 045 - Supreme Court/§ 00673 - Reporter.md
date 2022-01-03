@@ -20,7 +20,7 @@ Provisions of section 325 of title 28, U.S.C., 1940 ed., relating to appointment
 
 The provision as to tenure is new and is added to insure consistency with other revised sections relating to tenure of court officers.
 
-The provisions of section 333 of title 28, U.S.C., 1940 ed., fixing the reporter's salary at $8,000 per annum were omitted and the Court given authority to fix the salary in conformity with sections 671 and 672 of this title relating to the clerk and the marshal.
+The provisions of section 333 of title 28, U.S.C., 1940 ed., fixing the reporter's salary at $8,000 per annumwere omitted and the Court given authority to fix the salary in conformity with sections 671 and 672 of this title relating to the clerk and the marshal.
 
 Provisions of section 333 of title 28, U.S.C., 1940 ed., for allowance of stationery, supplies, equipment, and office rent are omitted as obsolete. Offices are now provided in the Supreme Court building and supplies are furnished by the marshal.
 

@@ -46,9 +46,13 @@ July 26, 1947, ch. 343, §201(a) (less last 10 words), (b); restated Aug. 10, 19
 
 The words "There is established", in 5 U.S.C. 171(a), are omitted as executed. 5 U.S.C. 171(b) (1st 26 words) is omitted as covered by the definitions of "department" and "military departments" in section 101(5) and (7), respectively, of this title. 5 U.S.C. 171(b) (27th through 49th words) is omitted as executed. 5 U.S.C. 171(b) (last 18 words) is omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1986</b>—Pub. L. 99–433 renumbered section 131 of this title as this section, designated existing provisions as subsec. (a), and added subsecs. (b) and (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -82,7 +86,7 @@ Ongoing Analysis Required.—The Assistant Secretary of Defense for Legislative 
 
 "(b)
 
-Consultation.—The Assistant Secretary shall conduct the analysis required by subsection (a) withthe assistance of and in consultation with the Chief Information Officer of the Department of Defense.
+Consultation.—The Assistant Secretary shall conduct the analysis required by subsection (a) with the assistance of and in consultation with the Chief Information Officer of the Department of Defense.
 
 "(c)
 
@@ -130,7 +134,7 @@ Covered Reports.—A report described in this subsection is any of the following
 
 &emsp;"(1) The report required by section 1696(b) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232) \[132 Stat. 2171\].
 
-&emsp;"(2) The report required by section 1071(b)(1) of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91) \[10 U.S.C. 2501 note\].
+&emsp;"(2) The report required by section 1071(b)(1) of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91) \[10 U.S.C. 4811 note\].
 
 &emsp;"(3) The report required by section 1788a(d) of title 10, United States Code, as added by section 555 of such Act.
 
@@ -162,19 +166,69 @@ Briefing.—Not later than one year after the date of the enactment of this Act,
 
 Pub. L. 115–91, div. A, title X, §1051(x), Dec. 12, 2017, 131 Stat. 1567, provided that: "Effective on December 31, 2021, the reports required under the following provisions of title 10, United States Code, shall no longer be required to be submitted to Congress:
 
-&emsp;"(1) Section 113(c)(1).
+&emsp;"(1) Section 113(c)(1) \[now 10 U.S.C. 113(c)\].
 
 &emsp;"(2) Section 113(e).
 
 &emsp;"(3) Section 116.
 
-&emsp;"(4) Section 2432."
+&emsp;"(4) Section 2432 \[now 10 U.S.C. 4351\]."
 
 #### Exemption to Report Termination Requirements
 
-Pub. L. 115–91, div. A, title VIII, §811(d)(2), Dec. 12, 2017, 131 Stat. 1460, provided that: "Section 1080(a) of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 129 Stat. 1000; 10 U.S.C. 111 note), as amended by section 1061(j) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 130 Stat. 2405; 10 U.S.C. 111 note), does not apply to the report required to be submitted to Congress under section 2313a of title 10, United States Code."
+Pub. L. 115–91, div. A, title VIII, §811(d)(2), Dec. 12, 2017, 131 Stat. 1460, provided that: "Section 1080(a) of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 129 Stat. 1000; 10 U.S.C. 111 note), as amended by section 1061(j) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 130 Stat. 2405; 10 U.S.C. 111 note), does not apply to the report required to be submitted to Congress under section 2313a of title 10, United States Code \[now 10 U.S.C. 3847\]."
 
 #### Organizational Strategy for the Department of Defense
+
+Pub. L. 117–81, div. A, title IX, §910, Dec. 27, 2021, 135 Stat. 1877, provided that:
+
+"(a)
+
+Establishment.—Using the authority provided pursuant to section 911(c) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 10 U.S.C. 111 note), the Secretary of Defense shall establish a cross-functional team to address national security challenges posed by anomalous health incidents (as defined by the Secretary) and ensure that individuals affected by anomalous health incidents receive timely and comprehensive health care and treatment pursuant to title 10, United States Code, for symptoms consistent with an anomalous health incident.
+
+"(b)
+
+Duties.—The duties of the cross-functional team established under subsection (a) shall be—
+
+&emsp;"(1) to assist the Secretary of Defense with addressing the challenges posed by anomalous health incidents and any other efforts regarding such incidents that the Secretary determines necessary; and
+
+&emsp;"(2) to integrate the efforts of the Department of Defense regarding anomalous health incidents with the efforts of other departments or agency of the Federal Government regarding such incidents.
+
+"(c)
+
+Team Leadership.—The Secretary shall select an Under Secretary of Defense to lead the cross-functional team and a senior military officer to serve as the deputy to the Under Secretary so selected.
+
+"(d)
+
+Determination of Organizational Roles and Responsibilities.—The Secretary, in consultation with the Director of National Intelligence and acting through the cross-functional team established under subsection (a), shall determine the roles and responsibilities of the organizations and elements of the Department of Defense with respect to addressing anomalous health incidents, including the roles and responsibilities of the Office of the Secretary of Defense, the intelligence components of the Department, Defense agencies, Department of Defense field activities, the military departments, combatant commands, and the Joint Staff.
+
+"(e)
+
+Briefings.—
+
+&emsp;"(1)
+
+Initial briefing.—Not later than 45 days after the date of the enactment of this Act \[Dec. 27, 2021\], the Secretary shall provide to the appropriate congressional committees a briefing on—
+
+&emsp;&emsp;"(A) the progress of the Secretary in establishing the cross-functional team; and
+
+&emsp;&emsp;"(B) the progress the team has made in—
+
+&emsp;&emsp;&emsp;"(i) determining the roles and responsibilities of the organizations and elements of the Department of Defense with respect the cross-functional team; and
+
+&emsp;&emsp;&emsp;"(ii) carrying out the duties under subsection (b).
+
+&emsp;"(2)
+
+Updates.—Not later than 90 days after the date of the enactment of this Act, and once every 60 days thereafter during the one-year period following such date of enactment, the Secretary shall provide to the appropriate congressional committees a briefing containing updates with respect to the efforts of the Department regarding anomalous health incidents.
+
+"(f)
+
+Appropriate Congressional Committees Defined.—In this section, the term 'appropriate congressional committees' means—
+
+&emsp;"(1) the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\]; and
+
+&emsp;"(2) the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate."
 
 Pub. L. 115–232, div. A, title IX, §918, Aug. 13, 2018, 132 Stat. 1925, provided that:
 
@@ -284,7 +338,7 @@ Guidance on teams.—Not later than September 30, 2017, the Secretary shall issu
 
 &emsp;&emsp;"(C) providing that the leaders of functional components of the Department that provide personnel to such teams respect and respond to team needs and activities; and
 
-&emsp;&emsp;"(D) emphasizing that personnel selected for assignment to such teams shall faithfully represent the views and expertise of their functional components while contributing to the best of their ability to the success of the team concerned.
+&emsp;&emsp;"(D) emphasizing that personnel selected for assignment to such teams shall faithfully representthe views and expertise of their functional components while contributing to the best of their ability to the success of the team concerned.
 
 &emsp;"(4)
 
@@ -368,7 +422,7 @@ Assessment team.—The Comptroller General may establish within the Government A
 
 #### Temporary Continuation of Certain Department of Defense Reporting Requirements
 
-Pub. L. 114–328, div. A, title X, §1061, Dec. 23, 2016, 130 Stat. 2400, as amended by Pub. L. 115–91, div. A, title X, §§1051(u)–(w), 1081(d)(11), (12), Dec. 12, 2017, 131 Stat. 1566, 1567, 1600; Pub. L. 115–232, div. A, title III, §314(b)(2), title VIII, §813(i)(1), Aug. 13, 2018, 132 Stat. 1712, 1851, provided that:
+Pub. L. 114–328, div. A, title X, §1061, Dec. 23, 2016, 130 Stat. 2400, as amended by Pub. L. 115–91, div. A, title X, §§1051(u)–(w), 1081(d)(11), (12), Dec. 12, 2017, 131 Stat. 1566, 1567, 1600; Pub. L. 115–232, div. A, title III, §314(b)(2), title VIII, §813(i)(1), Aug. 13, 2018, 132 Stat. 1712, 1851; Pub. L. 117–81, div. A, title X, §§1011(b), 1064, Dec. 27, 2021, 135 Stat. 1890, 1909, provided that:
 
 "(a)
 
@@ -392,7 +446,11 @@ Reports exempted from termination.—The termination dates specified in paragrap
 
 &emsp;&emsp;"(C) The submission of the future-years mission budget for the military programs of the Department of Defense under section 221 of such title.
 
-&emsp;&emsp;"(D) The submission of audits of contracting compliance by the Inspector General of the Department of Defense under section 1601(b) of the National Defense Authorization Act for Fiscal Year 2014 (Public Law 113–66; 10 U.S.C. 2533a note).
+&emsp;&emsp;"(D) The submission of audits of contracting compliance by the Inspector General of the Department of Defense under section 1601(b) of the National Defense Authorization Act for Fiscal Year 2014 (Public Law 113–66; 10 U.S.C. 2533a note \[now 10 U.S.C. 4862 note\]).
+
+&emsp;&emsp;"(E) The submission of the report required under section 14 of the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98h–5).
+
+&emsp;&emsp;"(F) The submission of the report required under section 2504 of title 10, United States Code \[now 10 U.S.C. 4814\].
 
 "(c)
 
@@ -420,7 +478,7 @@ Reports Required by Title 10
 
 &emsp;"(10) Section 179(f).
 
-&emsp;"(11) Section 196(d)(1), (d)(4), and (e)(3).
+&emsp;"(11) Section 196(d)(1), (d)(4), and (e)(3) \[now 10 U.S.C. 4173(d)(1), (4), (e)(3)\].
 
 &emsp;"(12) Section 223a(a).
 
@@ -428,7 +486,7 @@ Reports Required by Title 10
 
 &emsp;"(14) Section 229.
 
-&emsp;"(15) Section 231.
+&emsp;"\[(15) Repealed. Pub. L. 117–81, div. A, title X, §1011(b), Dec. 27, 2021, 135 Stat. 1890.\]
 
 &emsp;"\[(16) Repealed. Pub. L. 115–232, div. A, title VIII, §813(i)(1)(A), Aug. 13, 2018, 132 Stat. 1852.\]
 
@@ -444,7 +502,7 @@ Reports Required by Title 10
 
 &emsp;"(22) Section 482(a).
 
-&emsp;"(23) Section 488(c).
+&emsp;"(23) \[Former\] Section 488(c).
 
 &emsp;"(24) Section 494(b).
 
@@ -462,11 +520,11 @@ Reports Required by Title 10
 
 &emsp;"(31) Section 1781a(e).
 
-&emsp;"(32) Section 1781c(h) \[now 1781c(g)\].
+&emsp;"(32) Section 1781c(h) \[now 10 U.S.C. 1781c(g)\].
 
-&emsp;"(33) Section 2011(e) \[now 322(e)\].
+&emsp;"(33) Section 2011(e) \[now 10 U.S.C. 322(e)\].
 
-&emsp;"(34) Section 2166(i) \[now 343(i)\].
+&emsp;"(34) Section 2166(i) \[now 10 U.S.C. 343(i)\].
 
 &emsp;"(35) Section 2218(h).
 
@@ -476,23 +534,23 @@ Reports Required by Title 10
 
 &emsp;"(38) Section 2229a.
 
-&emsp;"(39) Section 2249c(c) \[now 345(c)\].
+&emsp;"(39) Section 2249c(c) \[now 10 U.S.C. 345(d)\].
 
 &emsp;"(40) Section 2275.
 
 &emsp;"\[(41) Repealed. Pub. L. 115–232, div. A, title VIII, §813(i)(1)(A), Aug. 13, 2018, 132 Stat. 1852.\]
 
-&emsp;"(42) Section 2367(d).
+&emsp;"(42) Section 2367(d) \[now 10 U.S.C. 4126(d)\].
 
-&emsp;"(43) Section 2399(g).
+&emsp;"(43) Section 2399(g) \[now 10 U.S.C. 4171(g)\].
 
-&emsp;"(44) Section 2445b.
+&emsp;"(44) \[Former\] Section 2445b.
 
 &emsp;"(45) Section 2464(d).
 
 &emsp;"(46) Section 2466(d).
 
-&emsp;"(47) Section 2504.
+&emsp;"\[(47) Repealed. Pub. L. 117–81, div. A, title X, §1064(2), Dec. 27, 2021, 135 Stat. 1909.\]
 
 &emsp;"(48) Section 2561(c).
 
@@ -504,21 +562,21 @@ Reports Required by Title 10
 
 &emsp;"(52) Sections \[sic\] 2884(b) and (c).
 
-&emsp;"(53) Section 2911(a) and (b)(3) \[now 2911(c) and (d)(3)\].
+&emsp;"(53) Section 2911(a) and (b)(3) \[now 10 U.S.C. 2911(c) and (d)(3)\].
 
 &emsp;"(54) Section 2925.
 
-&emsp;"(55) Section 2926(e)(4).
+&emsp;"(55) Section 2926(e)(4) \[now 10 U.S.C. 2926(f)(4)\].
 
-&emsp;"(56) Section 4361(d)(4)(B) \[now 7461(d)(4)(B)\].
+&emsp;"(56) Section 4361(d)(4)(B) \[now 10 U.S.C. 7461(d)(4)(B)\].
 
-&emsp;"(57) Section 4721(e) \[now 7271(e)\].
+&emsp;"(57) Section 4721(e) \[now 10 U.S.C. 7721(e)\].
 
-&emsp;"(58) Section 6980(d)(4)(B) \[now 8480(d)(4)(B)\].
+&emsp;"(58) Section 6980(d)(4)(B) \[now 10 U.S.C. 8480(d)(4)(B)\].
 
-&emsp;"(59) Section 7310(c) \[now 8680(c)\].
+&emsp;"(59) Section 7310(c) \[now 10 U.S.C. 8680(c)\].
 
-&emsp;"(60) Section 9361(d)(4)(B) \[now 9461(d)(4)(B)\].
+&emsp;"(60) Section 9361(d)(4)(B) \[now 10 U.S.C. 9461(d)(4)(B)\].
 
 &emsp;"(61) Section 10216(c).
 
@@ -526,9 +584,9 @@ Reports Required by Title 10
 
 &emsp;"(63) Section 10543.
 
-&emsp;"(64) Section 10504(b).
+&emsp;"(64) Section 10504(b) \[now 10 U.S.C. 10504(c)\].
 
-&emsp;"(65) Section 235.
+&emsp;"(65) \[Former\] Section 235.
 
 &emsp;"(66) Section 115a.
 
@@ -540,7 +598,7 @@ Reports Required by National Defense Authorization Act for Fiscal Year 2015.—S
 
 &emsp;"(1) Section 546(d) \[now 546(e)\] (10 U.S.C. 1561 note).
 
-&emsp;"(2) Section 1003\[A\] (10 U.S.C. 221 note).
+&emsp;"(2) Section 1003 (10 U.S.C. 221 note).
 
 &emsp;"\[(3) Repealed. Pub. L. 115–232, div. A, title VIII, §813(i)(1)(B), Aug. 13, 2018, 132 Stat. 1852.\]
 
@@ -550,7 +608,7 @@ Reports Required by National Defense Authorization Act for Fiscal Year 2015.—S
 
 &emsp;"(6) Section 1205(e) (128 Stat. 3537).
 
-&emsp;"(7) Section 1206(e) (10 U.S.C. 2282 note).
+&emsp;"(7) Section 1206(e) (\[former\] 10 U.S.C. 2282 note).
 
 &emsp;"(8) Section 1211 (128 Stat. 3544).
 
@@ -558,7 +616,7 @@ Reports Required by National Defense Authorization Act for Fiscal Year 2015.—S
 
 &emsp;"(10) Section 1235 (128 Stat. 3558).
 
-&emsp;"(11) Section 1245 (128 Stat. 3566).
+&emsp;"(11) \[Former\] Section 1245 (128 Stat. 3566).
 
 &emsp;"(12) Section 1253(b) (22 U.S.C. 2151 note).
 
@@ -618,7 +676,7 @@ Reports Required by National Defense Authorization Act for Fiscal Year 2010.—S
 
 &emsp;"(1) Section 711(d) (10 U.S.C. 1071 note).
 
-&emsp;"(2) Section 1003(b) (10 U.S.C. 2222 note).
+&emsp;"(2) Section 1003(b) (\[former\] 10 U.S.C. 2222 note).
 
 &emsp;"\[(3) Repealed. Pub. L. 115–232, div. A, title VIII, §813(i)(1)(E), Aug. 13, 2018, 132 Stat. 1852.\]
 
@@ -666,15 +724,15 @@ Reports Required by Other Laws.—Subject to subsection (b), subsection (a) appl
 
 &emsp;"(18) Section 1034(d) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 309) \[10 U.S.C. 272 note\].
 
-&emsp;"(19) Section 1107(d) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 358) \[10 U.S.C. 2358 note\].
+&emsp;"(19) Section 1107(d) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 358) \[10 U.S.C. 4121 note\].
 
 &emsp;"(20) Section 1233(f) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 393).
 
 &emsp;"(21) Section 1234(e) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 394).
 
-&emsp;"(22) Section 219(c) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (Public Law 110–417; 10 U.S.C. 2358 note).
+&emsp;"(22) Section 219(c) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (Public Law 110–417; \[former\] 10 U.S.C. 2358 note).
 
-&emsp;"(23) Section 533(i) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (Public Law 110–417; 10 U.S.C. prec. 701 note).
+&emsp;"(23) Section 533(i) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (Public Law 110–417; \[former\] 10 U.S.C. prec. 701 note).
 
 &emsp;"\[(24) Repealed. Pub. L. 115–232, div. A, title VIII, §813(i)(1)(F), Aug. 13, 2018, 132 Stat. 1852.\]
 
@@ -688,7 +746,7 @@ Reports Required by Other Laws.—Subject to subsection (b), subsection (a) appl
 
 &emsp;"(29) Section 901(f) \[now 901(g)\] of the Office of National Drug Control Policy Reauthorization Act of 2006 (Public Law 109–469; 32 U.S.C. 112 note), as added by section 1008 of the National Defense Authorization Act for Fiscal Year 2013 (Public Law 112–239).
 
-&emsp;"(30) Section 14 of the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98h–5).
+&emsp;"\[(30) Repealed. Pub. L. 117–81, div. A, title X, §1064(3), Dec. 27, 2021, 135 Stat. 1910.\]
 
 &emsp;"(31) Section 105A(b) of the Uniformed and Overseas Citizens Absentee Voting Act (52 U.S.C. 20308(b)), as added by section 586 of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84).
 
@@ -722,7 +780,7 @@ Plan for Achievement of Cost Savings.—
 
 &emsp;"(1)
 
-In general.—Commencing not later than 120 days after the date of the enactment of this Act \[Nov.25, 2015\], the Secretary of Defense shall implement a plan to ensure that the Department of Defense achieves not less than $10,000,000,000 in cost savings from the headquarters, administrative, and support activities of the Department during the period beginning with fiscal year 2015 and ending with fiscal year 2019. The Secretary shall ensure that at least one half of the required cost savings are programmed for fiscal years before fiscal year 2018.
+In general.—Commencing not later than 120 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary of Defense shall implement a plan to ensure that the Department of Defense achieves not less than $10,000,000,000 in cost savings from the headquarters, administrative, and support activities of the Department during the period beginning with fiscal year 2015 and ending with fiscal year 2019. The Secretary shall ensure that at least one half of the required cost savings are programmed for fiscal years before fiscal year 2018.
 
 &emsp;"(2)
 
@@ -1072,7 +1130,7 @@ Pub. L. 104–201, div. A, title IX, subtitle B, Sept. 23, 1996, 110 Stat. 2623,
 
 #### Commission on Roles and Missions of Armed Forces
 
-Pub. L. 103–160, div. A, title IX, subtitle E, Nov. 30, 1993, 107 Stat. 1738, as amended by Pub. L. 103–337, div. A, title IX, §923(a)(1), (2), (b)–(d), Oct. 5, 1994, 108 Stat. 2830, 2831, established the Commission on Roles and Missions of the Armed Forces to review the efficacy and appropriateness of post-Cold War era allocations of roles, missions, and functions among the Armed Forces and to evaluate and report on alternatives and make recommendations for changes, directed that appointments to the Commission be made within 45 days after Nov. 30, 1993, and that the Commission convene its first meeting within 30 days of all appointments, and thereafter submit a report not later than one year after the date of its first meeting, directed the Secretary of Defense to submit comments on the report not later than 90 days following receipt, and provided for the termination of the Commission on the last day of the sixteenth month after its first meeting or no earlier than30 days after submission of comments by the Secretary of Defense.
+Pub. L. 103–160, div. A, title IX, subtitle E, Nov. 30, 1993, 107 Stat. 1738, as amended by Pub. L. 103–337, div. A, title IX, §923(a)(1), (2), (b)–(d), Oct. 5, 1994, 108 Stat. 2830, 2831, established the Commission on Roles and Missions of the Armed Forces to review the efficacyand appropriateness of post-Cold War era allocations of roles, missions, and functions among the Armed Forces and to evaluate and report on alternatives and make recommendations for changes, directed that appointments to the Commission be made within 45 days after Nov. 30, 1993, and that the Commission convene its first meeting within 30 days of all appointments, and thereafter submit a report not later than one year after the date of its first meeting, directed the Secretary of Defense to submit comments on the report not later than 90 days following receipt, and provided for the termination of the Commission on the last day of the sixteenth month after its first meeting or no earlier than 30 days after submission of comments by the Secretary of Defense.
 
 #### Termination of Department of Defense Reporting Requirements Determined by Secretary of Defense To Be Unnecessary or Incompatible With Efficient Management of Department of Defense
 
@@ -1144,11 +1202,13 @@ Pub. L. 96–107, title VIII, §808, Nov. 9, 1979, 93 Stat. 814, which directed 
 
 #### Defense Manpower Commission
 
-Pub. L. 93–155, title VII, §§701–708, Nov. 16, 1973, 87 Stat. 609–611, established the Commission; provided forits composition, duties, powers, compensation, staff, appropriations, and use of General Services Administration; and directed that interim reports to President and Congress be submitted and that Commission terminate 60 days after its final report which was to be submitted not more than 24 months after appointment of Commission.
+Pub. L. 93–155, title VII, §§701–708, Nov. 16, 1973, 87 Stat. 609–611, established the Commission; provided for its composition, duties, powers, compensation, staff, appropriations, and use of General Services Administration; and directed that interim reports to President and Congress be submitted and that Commission terminate 60 days after its final report which was to be submitted not more than 24 months after appointment of Commission.
 
 #### Air Force Reserve and Air National Guard of United States; Study and Investigation of Relative Status; Advantages and Disadvantages of Alternatives; Modernization and Manpower Needs; Report to President and Congress
 
 Pub. L. 93–155, title VIII, §810, Nov. 16, 1973, 87 Stat. 618, directed the Secretary of Defense to study the relative status of the Air Force Reserve and the Air National Guard of the United States; to measure the effects on costs and combat capability as well as other advantages and disadvantages of (1) merging the Reserve into the Guard, (2) merging the Guard into the Reserve, and (3) retaining the status quo; and to consider the modernization needs and manpower problems of both; and also directed that a report of such study be submitted to the President and to the Congress no later than Jan. 31, 1975.
+
+#### <b>Executive Documents</b>
 
 #### <b>REORGANIZATION PLAN NO. 6 OF 1953</b>
 

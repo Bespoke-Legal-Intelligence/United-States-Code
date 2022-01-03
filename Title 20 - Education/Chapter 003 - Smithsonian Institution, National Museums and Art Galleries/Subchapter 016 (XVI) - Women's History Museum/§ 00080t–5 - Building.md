@@ -72,7 +72,7 @@
 
 #### (2) Transfer
 
-&emsp;As soon as practicable after the date on which Congress receives the written notification described in paragraph (1), the head of the Federal agency or entity shall transfer to the Smithsonian Institution its administrative jurisdiction over the land or structure that has been designated as the site for the Museum.
+&emsp;As soon as practicable after the date on which Congress receives the written notification described in paragraph (1), the head of theFederal agency or entity shall transfer to the Smithsonian Institution its administrative jurisdiction over the land or structure that has been designated as the site for the Museum.
 
 #### (c) Construction of building
 

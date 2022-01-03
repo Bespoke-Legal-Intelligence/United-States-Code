@@ -28,7 +28,7 @@ Increased Thresholds and Limitation.—For a procurement to which this section a
 
 &emsp;&emsp;(B) $1,500,000 in the case of a contract to be awarded and performed, or purchase to be made, outside the United States; and
 
-&emsp;(3) the $5,000,000 limitation in sections 1901(a)(2) and 3305(a)(2) of this title and section 2304(g)(1)(B) of title 10 is deemed to be $10,000,000.
+&emsp;(3) the $5,000,000 limitation in sections 1901(a)(2) and 3305(a)(2) of this title and section 3205(a)(2) of title 10 is deemed to be $10,000,000.
 
 (c)
 
@@ -44,9 +44,9 @@ Certain contracts not exempt from standards or requirements.—A contract in an 
 
 &emsp;&emsp;(A) cost accounting standards prescribed under section 1502 of this title; or
 
-&emsp;&emsp;(B) cost or pricing data requirements (commonly referred to as truth in negotiating) under chapter 35 of this title and section 2306a of title 10.
+&emsp;&emsp;(B) cost or pricing data requirements (commonly referred to as truth in negotiating) under chapter 35 of this title and chapter 271 of title 10.
 
-(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3721; Pub. L. 114–92, div. A, title VIII, §816, Nov. 25, 2015, 129 Stat. 897; Pub. L. 114–328, div. A, title VIII, §816, title XVI, §1641, Dec. 23, 2016, 130 Stat. 2272, 2600; Pub. L. 115–232, div. A, title VIII, §836(b)(5), Aug. 13, 2018, 132 Stat. 1861.)
+(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3721; Pub. L. 114–92, div. A, title VIII, §816, Nov. 25, 2015, 129 Stat. 897; Pub. L. 114–328, div. A, title VIII, §816, title XVI, §1641, Dec. 23, 2016, 130 Stat. 2272, 2600; Pub. L. 115–232, div. A, title VIII, §836(b)(5), Aug. 13, 2018, 132 Stat. 1861; Pub. L. 117–81, div. A, title XVII, §1702(h)(7), Dec. 27, 2021, 135 Stat. 2158.)
 
 Historical and Revision Notes
 
@@ -79,6 +79,10 @@ Pub. L. 93–400, §32A, as added Pub. L. 108–136, title XIV, §1443(a)(1), No
 The Foreign Assistance Act of 1961, referred to in subsec. (a)(3), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 9 of part I of the Act is classified generally to part IX \[§2292 et seq.\] of subchapter I of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (b)(3). Pub. L. 117–81, §1702(h)(7)(A), substituted "section 3205(a)(2)" for "section 2304(g)(1)(B)".
+
+Subsec. (c)(2)(B). Pub. L. 117–81, §1701(h)(7)(B), substituted "chapter 271" for "section 2306a".
 
 <b>2018</b>—Subsec. (c). Pub. L. 115–232, §836(b)(5)(A), substituted "Commercial Product or Commercial Service" for "Commercial Item" in heading.
 

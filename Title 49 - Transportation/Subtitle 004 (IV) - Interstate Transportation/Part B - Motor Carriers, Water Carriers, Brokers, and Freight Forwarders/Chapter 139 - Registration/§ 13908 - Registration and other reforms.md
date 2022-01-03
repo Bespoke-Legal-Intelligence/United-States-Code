@@ -20,7 +20,7 @@ Procedures for Correcting Information.—Not later than 60 days after the effect
 
 (d)
 
-Fee System.—The Secretary shall establish, under section 9701 of title 31, a fee systemfor the Unified Carrier Registration System according to the following guidelines:
+Fee System.—The Secretary shall establish, under section 9701 of title 31, a fee system for the Unified Carrier Registration System according to the following guidelines:
 
 &emsp;(1)
 
@@ -54,7 +54,7 @@ Use of Fees for Unified Carrier Registration System.—Fees collected under this
 
 Application to Certain Intrastate Operations.—Nothing in this section requires the registration of a motor carrier, a motor private carrier of property, or a transporter of waste or recyclable materials operating exclusively in intrastate transportation not otherwise required to register with the Secretary under another provision of this title.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 888; amended Pub. L. 104–287, §5(36), Oct. 11, 1996, 110 Stat. 3392; Pub. L. 109–59, title IV, §4304, Aug. 10, 2005, 119 Stat. 1763; Pub. L. 110–244, title III, §301(l), June 6, 2008, 122 Stat. 1617; Pub. L. 112–141, div. C, title II, §32106, July 6, 2012, 126 Stat. 781.)
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 888; amended Pub. L. 104–287, §5(36),Oct. 11, 1996, 110 Stat. 3392; Pub. L. 109–59, title IV, §4304, Aug. 10, 2005, 119 Stat. 1763; Pub. L. 110–244, title III, §301(l), June 6, 2008, 122 Stat. 1617; Pub. L. 112–141, div. C, title II, §32106, July 6, 2012, 126 Stat. 781.)
 
 #### Historical and Revision Notes
 
@@ -65,6 +65,8 @@ This amends 49:13908(d)(1) for clarity and consistency.
 #### Pub. L. 104–287, §5(36)(B)
 
 This sets out the effective date of 49:13908.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -85,6 +87,8 @@ The effective date of this section, referred to in subsec. (c), probably means t
 <b>1996</b>—Subsec. (d)(1). Pub. L. 104–287, §5(36)(A), substituted "December 31, 1995" for "the day before the effective date of this section".
 
 Subsec. (e). Pub. L. 104–287, §5(36)(B), substituted "January 1, 1996" for "the effective date of this section".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

@@ -4,6 +4,8 @@ Gross income shall not include any special subsidy payment received under sectio
 
 (Added Pub. L. 108–173, title XII, §1202(a), Dec. 8, 2003, 117 Stat. 2480; amended Pub. L. 111–148, title IX, §9012(a), Mar. 23, 2010, 124 Stat. 868.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1860D–22 of the Social Security Act, referred to in text, is classified to section 1395w–132 of Title 42, The Public Health and Welfare.
@@ -11,6 +13,8 @@ Section 1860D–22 of the Social Security Act, referred to in text, is classifie
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–148 struck out second sentence which read as follows: "This section shall not be taken into account for purposes of determining whether any deduction is allowable with respect to any cost taken into account in determining such payment."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

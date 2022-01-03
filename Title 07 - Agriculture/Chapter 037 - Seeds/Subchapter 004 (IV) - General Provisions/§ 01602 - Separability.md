@@ -4,9 +4,13 @@ The institution of any one of the proceedings provided for in sections 1595, 159
 
 (Aug. 9, 1939, ch. 615, title IV, §412, 53 Stat. 1288; July 9, 1956, ch. 520, §3, 70 Stat. 508.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1956</b>—Act July 9, 1956, inserted references to civil penalties as well as criminal penalties under section 1596 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1956 Amendment
 

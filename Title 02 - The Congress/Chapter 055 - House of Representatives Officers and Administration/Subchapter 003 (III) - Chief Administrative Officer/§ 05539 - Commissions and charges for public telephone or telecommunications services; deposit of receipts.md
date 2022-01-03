@@ -24,7 +24,7 @@ Section is from the Legislative Branch Appropriations Act, 1989.
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–186, §204(64)(A), substituted "Chief Administrative Officer" for "Clerk".
 
-Subsec. (b). Pub. L. 104–186, §204(64)(B), substituted "Chief Administrative Officer" for "Clerk", struck out "but not limited to Legislative Service Organizations,"after "entity, including", and substituted ", except that no amount charged to the Members' Representational Allowance" for ": <i>Provided</i>, That no amounts charged to the official expense allowances of Members of the House".
+Subsec. (b). Pub. L. 104–186, §204(64)(B), substituted "Chief Administrative Officer" for "Clerk", struck out "but not limited to Legislative Service Organizations," after "entity, including", and substituted ", except that no amount charged to the Members' Representational Allowance" for ": <i>Provided</i>, That no amounts charged to the official expense allowances of Members of the House".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

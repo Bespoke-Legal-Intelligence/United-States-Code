@@ -20,7 +20,7 @@ The Congress declares that it is the policy of the United States and a further p
 
 Such activities shall not compromise the national character of the Peace Corps.
 
-(Pub. L. 87–293, title III, §301, as added Pub. L. 88–200, §8, Dec. 13, 1963, 77 Stat. 360; amended Pub. L. 91–99, §3, Oct. 29, 1969, 83 Stat. 166; Pub. L. 91–352, §9, July 24, 1970, 84 Stat. 465; Pub. L. 92–352, title IV, §402, July 13, 1972, 86 Stat. 495; Pub. L. 95–331, §§7, 8(a), Aug. 2, 1978, 92 Stat. 415, 416.)
+(Pub. L. 87–293, title III, §301, as added Pub. L. 88–200, §8, Dec. 13, 1963, 77 Stat. 360; amendedPub. L. 91–99, §3, Oct. 29, 1969, 83 Stat. 166; Pub. L. 91–352, §9, July 24, 1970, 84 Stat. 465; Pub. L. 92–352, title IV, §402, July 13, 1972, 86 Stat. 495; Pub. L. 95–331, §§7, 8(a), Aug. 2, 1978, 92 Stat. 415, 416.)
 
 #### <b>Editorial Notes</b>
 

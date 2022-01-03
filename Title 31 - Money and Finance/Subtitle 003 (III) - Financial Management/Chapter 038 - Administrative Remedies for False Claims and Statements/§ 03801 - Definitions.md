@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(A) the head of an authority; or
 
-&emsp;&emsp;(B) an official or employee of the authority designated, in regulations promulgated by the head of the authority, to act on behalf of the head of the authority;
+&emsp;&emsp;(B) an official or employee of the authority designated, in regulations promulgatedby the head of the authority, to act on behalf of the head of the authority;
 
 &emsp;(3) "claim" means any request, demand, or submission—
 

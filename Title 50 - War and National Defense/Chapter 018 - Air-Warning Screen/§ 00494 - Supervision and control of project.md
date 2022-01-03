@@ -4,9 +4,13 @@ The provisions of this chapter shall be subject to the duties and authority of t
 
 (Mar. 30, 1949, ch. 41, §4, 63 Stat. 18; Aug. 10, 1949, ch. 412, §12(a), 63 Stat. 591.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The National Security Act of 1947, referred to in text, is act July 26, 1947, ch. 343, 61 Stat. 495, which is classified principally to chapter 44 (§3001 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

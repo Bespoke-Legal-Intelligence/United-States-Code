@@ -22,7 +22,7 @@ Each local exchange carrier has the following duties:
 
 #### (3) Dialing parity
 
-&emsp;The duty to provide dialing parity to competing providers of telephone exchange service and telephone toll service, and the duty to permit all such providers to have nondiscriminatory access to telephone numbers, operator services, directory assistance, and directory listing, with no unreasonable dialing delays.
+&emsp;The duty to provide dialing parity to competing providers of telephone exchange serviceand telephone toll service, and the duty to permit all such providers to have nondiscriminatory access to telephone numbers, operator services, directory assistance, and directory listing, with no unreasonable dialing delays.
 
 #### (4) Access to rights-of-way
 
@@ -38,7 +38,7 @@ In addition to the duties contained in subsection (b), each incumbent local exch
 
 #### (1) Duty to negotiate
 
-&emsp;The duty to negotiate in good faith in accordance with section 252 of this title the particular terms and conditions of agreements to fulfill the duties described in paragraphs (1) through (5) of subsection (b) and this subsection. The requesting telecommunicationscarrier also has the duty to negotiate in good faith the terms and conditions of such agreements.
+&emsp;The duty to negotiate in good faith in accordance with section 252 of this title the particular terms and conditions of agreements to fulfill the duties described in paragraphs (1) through (5) of subsection (b) and this subsection. The requesting telecommunications carrier also has the duty to negotiate in good faith the terms and conditions of such agreements.
 
 #### (2) Interconnection
 
@@ -108,7 +108,11 @@ In addition to the duties contained in subsection (b), each incumbent local exch
 
 #### (3) Universal emergency telephone number
 
-&emsp;The Commission and any agency or entity to which the Commission has delegated authority under this subsection shall designate 9–1–1 as the universal emergency telephone number within the United States for reporting anemergency to appropriate authorities and requesting assistance. The designation shall apply to both wireline and wireless telephone service. In making the designation, the Commission (and any such agency or entity) shall provide appropriate transition periods for areas in which 9–1–1 is not in use as an emergency telephone number on October 26, 1999.
+&emsp;The Commission and any agency or entity to which the Commission has delegated authority under this subsection shall designate 9–1–1 as the universal emergency telephone number within the United States for reporting an emergency to appropriate authorities and requesting assistance. The designation shall apply to both wireline and wireless telephone service. In making the designation, the Commission (and any such agency or entity) shall provide appropriate transition periods for areas in which 9–1–1 is not in use as an emergency telephone number on October 26, 1999.
+
+#### (4) Universal telephone number for national suicide prevention and mental health crisis hotline system
+
+&emsp;9–8–8 is designated as the universal telephone number within the United States for the purpose of the national suicide prevention and mental health crisis hotline system operating through the National Suicide Prevention Lifeline maintained by the Assistant Secretary for Mental Health and Substance Use under section 520E–3 of the Public Health Service Act (42 U.S.C. 290bb–36c) and through the Veterans Crisis Line maintained by the Secretary of Veterans Affairs under section 1720F(h) of title 38.
 
 #### (f) Exemptions, suspensions, and modifications
 
@@ -173,16 +177,6 @@ On and after February 8, 1996, each local exchange carrier, to the extent that i
 Nothing in this section shall be construed to limit or otherwise affect the Commission's authority under section 201 of this title.
 
 (June 19, 1934, ch. 652, title II, §251, as added Pub. L. 104–104, title I, §101(a), Feb. 8, 1996, 110 Stat. 61; amended Pub. L. 106–81, §3(a), Oct. 26, 1999, 113 Stat. 1287; Pub. L. 116–172, §3(a), Oct. 17, 2020, 134 Stat. 832.)
-
-#### Amendment of Subsection (e)(4)
-
-<i>Pub. L. 116–172, §3(a), (b), Oct. 17, 2020, 134 Stat. 832, 833, provided that, effective on the date that is 1 year after Oct. 17, 2020, subsection (e) of this section is amended by adding at the end the following new paragraph:</i>
-
-#### <i>(4) Universal telephone number for national suicide prevention and mental health crisis hotline system</i>
-
-&emsp;<i>9–8–8 is designated as the universal telephone number within the United States for the purpose of the national suicide prevention and mental health crisis hotline system operating through the National Suicide Prevention Lifeline maintained by the Assistant Secretary for Mental Health and Substance Use under section 290bb–36c of title 42 and through the Veterans Crisis Line maintained by the Secretary of Veterans Affairs under section 1720F(h) of title 38.</i>
-
-<i>See 2020 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 

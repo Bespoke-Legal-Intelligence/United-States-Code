@@ -2,7 +2,7 @@
 
 #### (a) Appraisal and sale of unclaimed merchandise
 
-Any entered or unentered merchandise (except merchandise entered under section 1557 of this title, but including merchandise entered for transportation in bond or for exportation) which shall remain in a bonded warehouse pursuant to section 1490 of this title for 6 months from the date of importation thereof, without all estimated duties, taxes, fees, interest, storage, or other charges thereon having been paid, shall be considered unclaimed and abandoned to the Government and shall be appraised and sold by the Customs Service at public auction under such regulations as the Secretary of the Treasury shall prescribe. All gunpowder and other explosive substances and merchandise liable to depreciation in value by damage, leakage, or other cause to such extent that the proceeds of sale thereof may be insufficient to pay the duties, taxes, fees, interest, storage, and other charges, if permitted to remain in <sup>1</sup> pursuant to section 1490 of this title in a bonded warehouse for 6 months, may be sold forthwith, under such regulations as the Secretary of the Treasury may prescribe. Merchandise subject to sale hereunder or under section 1559 of this title may be entered or withdrawn for consumption at any time prior to such sale upon payment of all duties, taxes, fees, interest, storage, and other charges, and expenses that may have accrued thereon, but such merchandise after becoming subject to sale may not be exported prior to sale without the payment of such duties, taxes, fees, interest, charges, and expenses nor may it be entered for warehouse. The computation of duties, taxes, interest, and fees for the purposes of this section and sections 1493 and 1559 of this title shall be at the rate or rates applicable at the time the merchandise becomes subject to sale.
+Any entered or unentered merchandise (except merchandise entered under section 1557 of this title, but including merchandise entered for transportation in bond or for exportation) which shall remain in a bonded warehouse pursuant to section 1490 of this title for 6 months from the date of importation thereof, without all estimated duties, taxes, fees, interest, storage, or other charges thereon having been paid, shall be considered unclaimed and abandoned to the Government and shall be appraised and sold by the Customs Service at public auction under such regulations as the Secretary of the Treasury shall prescribe. All gunpowder and other explosive substances and merchandise liable to depreciation in value by damage, leakage, or other cause to such extent that the proceeds of sale thereof may be insufficient to pay the duties, taxes, fees, interest, storage, and other charges, if permitted to remain in <sup>1</sup> pursuant to section 1490 of this title in a bonded warehouse for 6 months, may be sold forthwith, under such regulations as the Secretary of the Treasury may prescribe. Merchandise subject to sale hereunder or under section 1559 of this title may be entered or withdrawn for consumption at any time priorto such sale upon payment of all duties, taxes, fees, interest, storage, and other charges, and expenses that may have accrued thereon, but such merchandise after becoming subject to sale may not be exported prior to sale without the payment of such duties, taxes, fees, interest, charges, and expenses nor may it be entered for warehouse. The computation of duties, taxes, interest, and fees for the purposes of this section and sections 1493 and 1559 of this title shall be at the rate or rates applicable at the time the merchandise becomes subject to sale.
 
 #### (b) Notice of title vesting in United States
 
@@ -34,6 +34,8 @@ All distilled spirits, wines, and malt liquor forfeited to the Government summar
 
 (June 17, 1930, ch. 497, title IV, §491, 46 Stat. 726; June 25, 1938, ch. 679, §14, 52 Stat. 1083; Pub. L. 91–271, title III, §301(j), June 2, 1970, 84 Stat. 289; Pub. L. 95–410, title II, §208, Oct. 3, 1978, 92 Stat. 901; Pub. L. 103–182, title VI, §659, Dec. 8, 1993, 107 Stat. 2213; Pub. L. 104–295, §21(e)(8), Oct. 11, 1996, 110 Stat. 3531.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in R.S. §§2973, 2975 and 2976, all of which were superseded by act Sept. 21, 1922, ch. 356, title IV, §491, 42 Stat. 963, and repealed by section 642 thereof. Section 491 of the 1922 act was superseded by section 491 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
@@ -54,6 +56,8 @@ Subsec. (e). Pub. L. 103–182, §659(2), (3), redesignated subsec. (b) as (e) a
 
 <b>1938</b>—Act June 25, 1938, amended generally so much of this section as preceded "shall be considered unclaimed and abandoned".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1970 Amendment
 
 For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 91–271, set out as a note under section 1500 of this title.
@@ -65,6 +69,8 @@ Amendment by act June 25, 1938, effective on thirtieth day following June 25, 19
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+
+#### <b>Executive Documents</b>
 
 #### Extension of One-Year Period
 

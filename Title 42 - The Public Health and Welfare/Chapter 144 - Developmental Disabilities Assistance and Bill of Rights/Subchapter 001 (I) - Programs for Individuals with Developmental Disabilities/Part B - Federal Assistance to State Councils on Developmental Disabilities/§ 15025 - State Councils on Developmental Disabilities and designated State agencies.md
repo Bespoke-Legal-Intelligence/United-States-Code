@@ -44,7 +44,7 @@ Each State that receives assistance under this part shall establish and maintain
 
 &emsp;&emsp;&emsp;(i) representatives of relevant State entities, including—
 
-&emsp;&emsp;&emsp;&emsp;(I) State entities that administer funds provided under Federal laws related to individuals with disabilities, including the Rehabilitation Act of 1973 (29 U.S.C.701 et seq.), the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.), the Older Americans Act of 1965 (42 U.S.C. 3001 et seq.), and titles V and XIX of the Social Security Act (42 U.S.C. 701 et seq. and 1396 et seq.);
+&emsp;&emsp;&emsp;&emsp;(I) State entities that administer funds provided under Federal laws related to individuals with disabilities, including the Rehabilitation Act of 1973 (29 U.S.C. 701 et seq.), the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.), the Older Americans Act of 1965 (42 U.S.C. 3001 et seq.), and titles V and XIX of the Social Security Act (42 U.S.C. 701 et seq. and 1396 et seq.);
 
 &emsp;&emsp;&emsp;&emsp;(II) Centers in the State; and
 
@@ -178,7 +178,7 @@ Each State that receives assistance under this part shall establish and maintain
 
 #### (6) Review of designated State agency
 
-&emsp;The Council shall periodically review the designated State agency and activities carriedout under this part by the designated State agency and make any recommendations for change to the Governor.
+&emsp;The Council shall periodically review the designated State agency and activities carried out under this part by the designated State agency and make any recommendations for change to the Governor.
 
 #### (7) Reports
 
@@ -322,7 +322,7 @@ Each State that receives assistance under this part shall establish and maintain
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary shall provide amounts to a State under section 15024(c)(5)(B)(vi) ofthis title for a fiscal year only if the State expends an amount from State sources for carrying out the responsibilities of the designated State agency under paragraph (3) for the fiscal year that is not less than the total amount the State expended from such sources for carrying out similar responsibilities for the previous fiscal year.
+&emsp;&emsp;&emsp;The Secretary shall provide amounts to a State under section 15024(c)(5)(B)(vi) of this title for a fiscal year only if the State expends an amount from State sources for carrying out the responsibilities of the designated State agency under paragraph (3) for the fiscal year that is not less than the total amount the State expended from such sources for carrying out similar responsibilities for the previous fiscal year.
 
 #### (ii) Exception
 
@@ -333,6 +333,8 @@ Each State that receives assistance under this part shall establish and maintain
 &emsp;&emsp;With the agreement of the designated State agency, the Council may use or contract with agencies other than the designated State agency to perform the functions of the designated State agency.
 
 (Pub. L. 106–402, title I, §125, Oct. 30, 2000, 114 Stat. 1701; Pub. L. 108–364, §3(a)(2), Oct. 25, 2004, 118 Stat. 1736; Pub. L. 108–446, title III, §305(n)(1), Dec. 3, 2004, 118 Stat. 2806.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

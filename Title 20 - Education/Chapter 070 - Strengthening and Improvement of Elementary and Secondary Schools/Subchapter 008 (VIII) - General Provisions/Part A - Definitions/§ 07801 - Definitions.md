@@ -14,7 +14,7 @@ Except as otherwise provided, in this chapter:
 
 #### (B) Conversion
 
-&emsp;&emsp;The Secretary shall permit the conversion of average daily membership (or other similar data) to average daily attendance for local educational agencies in States thatprovide State aid to local educational agencies on the basis of average daily membership (or other similar data).
+&emsp;&emsp;The Secretary shall permit the conversion of average daily membership (or other similar data) to average daily attendance for local educational agencies in States that provide State aid to local educational agencies on the basis of average daily membership (or other similar data).
 
 #### (C) Special rule
 
@@ -34,7 +34,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;&emsp;(A) without regard to the source of funds—
 
-&emsp;&emsp;&emsp;(i) the aggregate current expenditures, during the third fiscal year preceding the fiscal year for which the determination is made (or, if satisfactory data for that year are not available, during the most recent preceding fiscal year for which satisfactory data are available) of all local educational agencies in the State or, in the case of the United States, for all States (which, for the purpose of this paragraph, means the 50 States and the District of Columbia); plus
+&emsp;&emsp;&emsp;(i) the aggregate current expenditures, during the third fiscal year preceding thefiscal year for which the determination is made (or, if satisfactory data for that year are not available, during the most recent preceding fiscal year for which satisfactory data are available) of all local educational agencies in the State or, in the case of the United States, for all States (which, for the purpose of this paragraph, means the 50 States and the District of Columbia); plus
 
 &emsp;&emsp;&emsp;(ii) any direct current expenditures by the State for the operation of those agencies; divided by
 
@@ -134,7 +134,7 @@ Except as otherwise provided, in this chapter:
 
 #### (19) Elementary school
 
-&emsp;The term "elementary school" means a nonprofit institutional day or residential school, including a public elementary charter school, that provides elementary education, as determined under State law.
+&emsp;The term "elementary school" means a nonprofit institutional day or residential school,including a public elementary charter school, that provides elementary education, as determined under State law.
 
 #### (20) English learner
 
@@ -278,7 +278,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(BB) a summer session immediately following the fourth year of high school; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) all students with the most significant cognitive disabilities in thecohort, as adjusted under clause (i), assessed using the alternate assessment aligned to alternate academic achievement standards under section 6311(b)(2)(D) of this title and awarded a State-defined alternate diploma that is—
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) all students with the most significant cognitive disabilities in the cohort, as adjusted under clause (i), assessed using the alternate assessment aligned to alternate academic achievement standards under section 6311(b)(2)(D) of this title and awarded a State-defined alternate diploma that is—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(AA) standards-based;
 
@@ -290,7 +290,7 @@ Except as otherwise provided, in this chapter:
 
 #### (B) Cohort removal
 
-&emsp;&emsp;To remove a student from a cohort, a school or local educational agency shall require documentation, or obtain documentation from the State educational agency, to confirm that the student has transferred out, emigrated to another country, or transferred to a prison or juvenile facility, or is deceased.
+&emsp;&emsp;To remove a student from a cohort, a school or local educational agency shall require documentation, or obtain documentation from the State educational agency, to confirm that the student has transferredout, emigrated to another country, or transferred to a prison or juvenile facility, or is deceased.
 
 #### (C) Transferred out
 
@@ -358,7 +358,7 @@ Except as otherwise provided, in this chapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term "local educational agency" means a public board of education or otherpublic authority legally constituted within a State for either administrative control or direction of, or to perform a service function for, public elementary schools or secondary schools in a city, county, township, school district, or other political subdivision of a State, or of or for a combination of school districts or counties that is recognized in a State as an administrative agency for its public elementary schools or secondary schools.
+&emsp;&emsp;The term "local educational agency" means a public board of education or other public authority legally constituted within a State for either administrative control or direction of, or to perform a service function for, public elementary schools or secondary schools in a city, county, township, school district, or other political subdivision of a State, or of or for a combination of school districts or counties that is recognized in a State as an administrative agency for its public elementary schools or secondary schools.
 
 #### (B) Administrative control and direction
 
@@ -446,7 +446,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;The term "professional development" means activities that—
 
-&emsp;&emsp;(A) are an integral part of school and local educational agency strategies for providing educators (including teachers, principals, other school leaders, specialized instructional support personnel, paraprofessionals, and, as applicable, early childhood educators) with the knowledge and skills necessary to enable students to succeed in a well-rounded education and to meet the challenging State academic standards; and
+&emsp;&emsp;(A) are an integral part of school and local educational agency strategies for providingeducators (including teachers, principals, other school leaders, specialized instructional support personnel, paraprofessionals, and, as applicable, early childhood educators) with the knowledge and skills necessary to enable students to succeed in a well-rounded education and to meet the challenging State academic standards; and
 
 &emsp;&emsp;(B) are sustained (not stand-alone, 1-day, or short term workshops), intensive, collaborative, job-embedded, data-driven, and classroom-focused, and may include activities that—
 
@@ -492,7 +492,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;&emsp;&emsp;(xvi) create programs to enable paraprofessionals (assisting teachers employed by a local educational agency receiving assistance under part A of subchapter I) to obtain the education necessary for those paraprofessionals to become certified and licensed teachers;
 
-&emsp;&emsp;&emsp;(xvii) provide follow-up training to teachers who have participated in activities described in this paragraph that are designed to ensure that the knowledge andskills learned by the teachers are implemented in the classroom; and
+&emsp;&emsp;&emsp;(xvii) provide follow-up training to teachers who have participated in activities described in this paragraph that are designed to ensure that the knowledge and skills learned by the teachers are implemented in the classroom; and
 
 &emsp;&emsp;&emsp;(xviii) where practicable, provide jointly for school staff and other early childhood education program providers, to address the transition to elementary school, including issues related to school readiness.
 
@@ -555,6 +555,8 @@ Except as otherwise provided, in this chapter:
 &emsp;The term "well-rounded education" means courses, activities, and programming in subjects such as English, reading or language arts, writing, science, technology, engineering, mathematics, foreign languages, civics and government, economics, arts, history, geography, computer science, music, career and technical education, health, physical education, and any other subject, as determined by the State or local educational agency, with the purpose of providing all students access to an enriched curriculum and educational experience.
 
 (Pub. L. 89–10, title VIII, §8101, formerly title IX, §9101, as added Pub. L. 107–110, title IX, §901, Jan. 8, 2002, 115 Stat. 1956; renumbered title VIII, §8101, and amended Pub. L. 114–95, title VIII, §§8001(a)(1), (b)(2), (3), 8002, Dec. 10, 2015, 129 Stat. 2088, 2089.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -657,6 +659,8 @@ Par. (50). Pub. L. 114–95, §8002(20), added par. (50) and struck out former p
 Pub. L. 114–95, §8002(2), redesignated par. (43) as (50).
 
 Pars. (51), (52). Pub. L. 114–95, §8002(21), added pars. (51) and (52).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

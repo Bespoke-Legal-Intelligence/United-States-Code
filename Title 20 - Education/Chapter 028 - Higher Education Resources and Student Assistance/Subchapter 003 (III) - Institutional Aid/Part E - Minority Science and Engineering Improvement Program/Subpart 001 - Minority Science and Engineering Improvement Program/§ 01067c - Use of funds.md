@@ -60,6 +60,8 @@ Funds appropriated to carry out this subpart may be made available as—
 
 (Pub. L. 89–329, title III, §353, formerly title X, §1023, as added Pub. L. 99–498, title X, §1002, Oct. 17, 1986, 100 Stat. 1562; renumbered title III, §353, and amended Pub. L. 105–244, title III, §301(a)(5), (7), (c)(8), Oct. 7, 1998, 112 Stat. 1636, 1637.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 1135b–2 of this title prior to renumbering by Pub. L. 105–244.
@@ -77,6 +79,8 @@ Subsec. (a)(2). Pub. L. 105–244, §301(c)(8)(B), substituted "section 1067k(7)
 Subsec. (a)(3). Pub. L. 105–244, §301(c)(8)(C), substituted "section 1067k(8)" for "section 1135d–5(8)".
 
 Subsec. (a)(4). Pub. L. 105–244, §301(c)(8)(D), substituted "section 1067k(9)" for "section 1135d–5(9)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

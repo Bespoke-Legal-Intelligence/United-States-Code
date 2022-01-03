@@ -4,6 +4,8 @@ The Secretary of the Navy shall require that access by recruit division commande
 
 (Added Pub. L. 105–261, div. A, title V, §522(b)(1), Oct. 17, 1998, 112 Stat. 2012, §6932; renumbered §8432, Pub. L. 115–232, div. A, title VIII, §807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior sections 8441 and 8442 were repealed by Pub. L. 96–513, title II, §207, Dec. 12, 1980, 94 Stat. 2884, effective Sept. 15, 1981.
@@ -28,13 +30,15 @@ Prior sections 8448 and 8449 were repealed by Pub. L. 96–513, title II, §208,
 
 Section 8448, acts Aug. 10, 1956, ch. 1041, 70A Stat. 523; Aug. 8, 1958, Pub. L. 85–603, §1(4), 72 Stat. 526; Sept. 2, 1958, Pub. L. 85–861, §33(a)(39), 72 Stat. 1566, authorized Secretary of the Air Force, upon his determination of need, to appoint qualified persons as warrant officers, with such appointments to continue at pleasure of Secretary, and such warrant officers entitled to count all periods of active duty under appointment as warrant or enlisted service for all purposes and to benefits of all laws and regulations applicable to retirement, pensions, and disability of members of Air Force on active duty. See section 602 of this title.
 
-Section 8449, act Aug. 10, 1956, ch. 1041, 70A Stat. 523, provided that temporary promotions in warrant officergrades be governed by such regulations as the Secretary of the Air Force prescribe. See section 602 of this title.
+Section 8449, act Aug. 10, 1956, ch. 1041, 70A Stat. 523, provided that temporary promotions in warrant officer grades be governed by such regulations as the Secretary of the Air Force prescribe. See section 602 of this title.
 
 A prior section 8450, act Aug. 10, 1956, ch. 1041, 70A Stat. 523, provided for suspension of laws for promotion or mandatory retirement or separation during war or emergency of temporary warrant officers of Air Force, prior to repeal by Pub. L. 90–235, §3(b)(1), Jan. 2, 1968, 81 Stat. 758.
 
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 6932 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

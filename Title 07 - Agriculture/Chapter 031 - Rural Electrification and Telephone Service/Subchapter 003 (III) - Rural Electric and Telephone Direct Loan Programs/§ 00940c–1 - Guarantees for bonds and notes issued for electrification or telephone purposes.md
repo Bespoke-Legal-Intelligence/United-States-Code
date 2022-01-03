@@ -24,7 +24,7 @@
 
 #### (1) Outstanding loans
 
-&emsp;A lender shall not receive a guarantee under this section for a bond or note if, at the time of the guarantee, the total principal amount of such guaranteed bonds or notes outstanding of the lender would exceed the principal amount of outstanding loans of the lender for eligible purposes described in subsection (a)(1).
+&emsp;A lender shall not receive a guarantee under this section for a bond or note if, at the time of the guarantee, the total principal amountof such guaranteed bonds or notes outstanding of the lender would exceed the principal amount of outstanding loans of the lender for eligible purposes described in subsection (a)(1).
 
 #### (2) Qualifications
 
@@ -108,7 +108,9 @@
 
 The authority provided under this section shall terminate on September 30, 2023.
 
-(May 20, 1936, ch. 432, title III, §313A, as added Pub. L. 107–171, title VI, §6101(a), May 13, 2002,116 Stat. 413; amended Pub. L. 110–234, title VI, §6106(a), May 22, 2008, 122 Stat. 1197; Pub. L. 110–246, §4(a), title VI, §6106(a), June 18, 2008, 122 Stat. 1664, 1958; Pub. L. 113–79, title VI, §6102, Feb. 7, 2014, 128 Stat. 851; Pub. L. 115–334, title VI, §§6504(d), 6505(a), Dec. 20, 2018, 132 Stat. 4774.)
+(May 20, 1936, ch. 432, title III, §313A, as added Pub. L. 107–171, title VI, §6101(a), May 13, 2002, 116 Stat. 413; amended Pub. L. 110–234, title VI, §6106(a), May 22, 2008, 122 Stat. 1197; Pub. L. 110–246, §4(a), title VI, §6106(a), June 18, 2008, 122 Stat. 1664, 1958; Pub. L. 113–79, title VI, §6102, Feb. 7, 2014, 128 Stat. 851; Pub. L. 115–334, title VI, §§6504(d), 6505(a), Dec. 20, 2018, 132 Stat. 4774.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -147,6 +149,8 @@ Subsec. (b)(4). Pub. L. 110–246, §6106(a)(1)(B), added par. (4) and struck ou
 Subsec. (c)(2), (3). Pub. L. 110–246, §6106(a)(2), added pars. (2) and (3) and struck out former pars. (2) and (3) which provided that the amount of an annual fee paid for the guarantee would be equal to 30 basis points of the amount of the unpaid principal and directed payment of fees required under subsec. (c) on a semiannual basis.
 
 Subsec. (f). Pub. L. 110–246, §6106(a)(3), substituted "2012" for "2007".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

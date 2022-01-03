@@ -10,9 +10,13 @@ Each department, agency, and instrumentality of the executive branch of the Fede
 
 (Pub. L. 94–413, §5, Sept. 17, 1976, 90 Stat. 1262; Pub. L. 95–91, title III, §301(a), Aug. 4, 1977, 91 Stat. 577.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 In subsec. (a), "Secretary of Transportation" substituted for "Secretary" for clarity, see Codification note set out under section 2502 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

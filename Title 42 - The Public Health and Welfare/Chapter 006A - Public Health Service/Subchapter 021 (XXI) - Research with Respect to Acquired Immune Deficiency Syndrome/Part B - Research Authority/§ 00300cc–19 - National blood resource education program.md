@@ -16,7 +16,7 @@ After consultation with the Director of the National Heart, Lung, and Blood Inst
 
 &emsp;&emsp;(A) improve knowledge, attitudes, and skills of health professionals in the appropriate use of blood and blood components;
 
-&emsp;&emsp;(B) increase the awareness and understanding of health professionals regardingthe risks versus benefits of blood transfusion; and
+&emsp;&emsp;(B) increase the awareness and understanding of health professionals regarding the risks versus benefits of blood transfusion; and
 
 &emsp;&emsp;(C) encourage health professionals to consider alternatives to the administration of blood or blood components for their patients; and
 

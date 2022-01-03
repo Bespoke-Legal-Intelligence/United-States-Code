@@ -14,7 +14,7 @@ Use of Amounts and Income.—
 
 &emsp;(1)
 
-Activities associated with transferred responsibilities.—The Administrator may use amounts transferred from the Corporation or income earned on Corporation property for activities associated with carrying out the responsibilities of the Corporation transferred to the Administrator. Any income earned after October 1, 1998, shall be deposited to the Federal Buildings Fund to be available for the purposes authorized under this subchapter, notwithstanding section 592(c)(1) of this title.
+Activities associated with transferred responsibilities.—The Administrator may use amounts transferred from the Corporation or income earned on Corporation property for activities associated with carrying out the responsibilities of the Corporation transferred to the Administrator. Any income earned after October 1, 1998, shall be deposited to the Federal Buildings Fund to be available for thepurposes authorized under this subchapter, notwithstanding section 592(c)(1) of this title.
 
 &emsp;(2)
 

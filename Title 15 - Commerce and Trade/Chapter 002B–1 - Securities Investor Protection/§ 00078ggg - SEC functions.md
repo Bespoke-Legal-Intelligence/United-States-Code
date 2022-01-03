@@ -2,7 +2,7 @@
 
 #### (a) Administrative procedure
 
-Determinations of the Commission, for purposes of making rules pursuant to section 78ccc(e)(3) and section 78iii(f) of this title shall be after appropriate notice and opportunity fora hearing, and for submission of views of interested persons in accordance with the rulemaking procedures specified in section 553 of title 5, but the holding of a hearing shall not prevent adoption of any such rule or regulation upon expiration of the notice period specified in subsection (d) of such section and shall not be required to be on a record within the meaning of subchapter II of chapter 5 of such title.
+Determinations of the Commission, for purposes of making rules pursuant to section 78ccc(e)(3) and section 78iii(f) of this title shall be after appropriate notice and opportunity for a hearing, and for submission of views of interested persons in accordance with the rulemaking procedures specified in section 553 of title 5, but the holding of a hearing shall not prevent adoption of any such rule or regulation upon expiration of the notice period specified in subsection (d) of such section and shall not be required to be on a record within the meaning of subchapter II of chapter 5 of such title.
 
 #### (b) Enforcement of actions
 
@@ -20,6 +20,8 @@ In the event of the refusal of SIPC to commit its funds or otherwise to act for 
 
 (Pub. L. 91–598, §11, formerly §7, Dec. 30, 1970, 84 Stat. 1652, 1653; renumbered §11 and amended Pub. L. 95–283, §§9, 10, May 21, 1978, 92 Stat. 260, 268.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (b) and (c), was in the original "this Act", meaning Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636. For complete classification of this Act to the Code, see Tables.
@@ -35,6 +37,8 @@ A prior section 11 of Pub. L. 91–598 was renumbered section 15 and is classifi
 #### Amendments
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–283 substituted "pursuant to section 78ccc(e)(3) and section 78iii(f) of this title" for "or regulations pursuant to section 78ccc(e) and 78iii(f) of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Reporting Requirements
 

@@ -2,7 +2,7 @@
 
 #### (a) Direct payment by third parties
 
-For purposes of sections 3102, 3202, 3402, and 3403, if a lender, surety, or other person, who isnot an employer under such sections with respect to an employee or group of employees, pays wages directly to such an employee or group of employees, employed by one or more employers, or to an agent on behalf of such employee or employees, such lender, surety, or other person shall be liable in his own person and estate to the United States in a sum equal to the taxes (together with interest) required to be deducted and withheld from such wages by such employer.
+For purposes of sections 3102, 3202, 3402, and 3403, if a lender, surety, or other person, who is not an employer under such sections with respect to an employee or group of employees, pays wages directly to such an employee or group of employees, employed by one or more employers, or to an agent on behalf of such employee or employees, such lender, surety, or other person shall be liable in his own person and estate to the United States in a sum equal to the taxes (together with interest) required to be deducted and withheld from such wages by such employer.
 
 #### (b) Personal liability where funds are supplied
 
@@ -13,6 +13,8 @@ If a lender, surety, or other person supplies funds to or for the account of an 
 Any amounts paid to the United States pursuant to this section shall be credited against the liability of the employer.
 
 (Added Pub. L. 89–719, title I, §105(a), Nov. 2, 1966, 80 Stat. 1138.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

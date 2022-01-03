@@ -80,7 +80,7 @@ In this subchapter, the term "home and community care" means one or more of the 
 
 #### (B) Specification of assessment instrument
 
-&emsp;&emsp;The State shall specify the instrument to be used in the State in complying with the requirement of subparagraph (A)(iii) which instrument shall be—
+&emsp;&emsp;The State shall specify the instrument to be used in the State in complying with therequirement of subparagraph (A)(iii) which instrument shall be—
 
 &emsp;&emsp;&emsp;(i) one of the instruments designated under subparagraph (C)(ii); or
 
@@ -164,7 +164,7 @@ In this subchapter, the term "home and community care" means one or more of the 
 
 #### (3) Appeals process
 
-&emsp;Each State which elects to provide home and community care under this section must havein effect an appeals process for individuals who disagree with the ICCP established.
+&emsp;Each State which elects to provide home and community care under this section must have in effect an appeals process for individuals who disagree with the ICCP established.
 
 #### (e) Ceiling on payment amounts and maintenance of effort
 
@@ -240,7 +240,7 @@ In this subchapter, the term "home and community care" means one or more of the 
 
 &emsp;&emsp;(B) meet the requirements of paragraphs (1)(A), (1)(C), (1)(D), (3), and (6) of section 1396r(c) of this title, to the extent applicable to such a setting;
 
-&emsp;&emsp;(C) inform each individual receiving community care under this section in the setting, orally and in writing at the time the individual first receives community care in the setting, of the individual's legal rightswith respect to such a setting and the care provided in the setting;
+&emsp;&emsp;(C) inform each individual receiving community care under this section in the setting, orally and in writing at the time the individual first receives community care in the setting, of the individual's legal rights with respect to such a setting and the care provided in the setting;
 
 &emsp;&emsp;(D) meet any applicable State or local requirements regarding certification or licensure;
 
@@ -308,7 +308,7 @@ In this subchapter, the term "home and community care" means one or more of the 
 
 #### (A) In general
 
-&emsp;&emsp;The certification under this subsection with respect to community care settings must be based on a survey. Such survey for such a setting must be conducted without prior notice to the setting. Any individual who notifies (or causes to be notified) a community care setting of the time or date on which such a survey is scheduled to be conducted is subject to a civil money penalty of not to exceed $2,000. The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title. The Secretary shall review each State's procedures for scheduling and conducting such surveys to assure that the State has taken all reasonable stepsto avoid giving notice of such a survey through the scheduling procedures and the conduct of the surveys themselves.
+&emsp;&emsp;The certification under this subsection with respect to community care settings must be based on a survey. Such survey for such a setting must be conducted without prior notice to the setting. Any individual who notifies (or causes to be notified) a community care setting of the time or date on which such a survey is scheduled to be conducted is subject to a civil money penalty of not to exceed $2,000. The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title. The Secretary shall review each State's procedures for scheduling and conducting such surveys to assure that the State has taken all reasonable steps to avoid giving notice of such a survey through the scheduling procedures and the conduct of the surveys themselves.
 
 #### (B) Survey protocol
 
@@ -352,7 +352,7 @@ In this subchapter, the term "home and community care" means one or more of the 
 
 &emsp;&emsp;If a State finds that—
 
-&emsp;&emsp;&emsp;(i) a provider of home or community care has provided care of substandard quality with respect to an individual, the State shall make a reasonable effort to notify promptly (I) an immediate family member of each such individual and (II) individuals receiving home or community care from that provider under this subchapter, or
+&emsp;&emsp;&emsp;(i) a provider of home or community care has provided care of substandard qualitywith respect to an individual, the State shall make a reasonable effort to notify promptly (I) an immediate family member of each such individual and (II) individuals receiving home or community care from that provider under this subchapter, or
 
 &emsp;&emsp;&emsp;(ii) a community care setting is substandard, the State shall make a reasonable effort to notify promptly (I) individuals receiving community care in that setting, and (II) immediate family members of such individuals.
 
@@ -398,7 +398,7 @@ In this subchapter, the term "home and community care" means one or more of the 
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall publish, by December 1, 1991, a proposed regulation that sets forth interim requirements, consistent with subparagraph (B), for the provision of home and community care and for community care settings, including—
+&emsp;&emsp;The Secretary shall publish, by December 1, 1991, a proposed regulation that sets forthinterim requirements, consistent with subparagraph (B), for the provision of home and community care and for community care settings, including—
 
 &emsp;&emsp;&emsp;(i) the requirements of subsection (c)(2) (relating to comprehensive functional assessments, including the use of assessment instruments), of subsection (d)(2)(E) (relating to qualifications for qualified case managers), of subsection (f) (relating to minimum requirements for home and community care), of subsection (g) (relating to minimum requirements for small community care settings), and of subsection (h) (relating to minimum requirements for large community care settings), and
 
@@ -406,7 +406,7 @@ In this subchapter, the term "home and community care" means one or more of the 
 
 #### (B) Minimum protections
 
-&emsp;&emsp;Interim requirements under subparagraph (A) and final requirements under paragraph\(2) shall assure, through methods other than reliance on State licensure processes, that individuals receiving home and community care are protected from neglect, physical and sexual abuse, financial exploitation, inappropriate involuntary restraint, and the provision of health care services by unqualified personnel in community care settings.
+&emsp;&emsp;Interim requirements under subparagraph (A) and final requirements under paragraph (2) shall assure, through methods other than reliance on State licensure processes, that individuals receiving home and community care are protected from neglect, physical and sexual abuse, financial exploitation, inappropriate involuntary restraint, and the provision of health care services by unqualified personnel in community care settings.
 
 #### (2) Development of final requirements
 
@@ -450,6 +450,8 @@ States may waive the requirement of section 1396a(a)(1) of this title (related t
 
 (Aug. 14, 1935, ch. 531, title XIX, §1929, as added Pub. L. 101–508, title IV, §4711(b), Nov. 5, 1990, 104 Stat. 1388–174; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(v)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 101–508, title IV, §4711(b)(1), Nov. 5, 1990, 104 Stat. 1388–174, which directed renumbering of section 1929 of the Social Security Act, act Aug. 14, 1935, as section 1930, could not be executed because there was no section 1929.
@@ -461,6 +463,8 @@ Pub. L. 101–508, title IV, §4711(b)(1), Nov. 5, 1990, 104 Stat. 1388–174, w
 Subsec. (k)(1)(A)(i). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(v)(2)\], substituted "large community care settings)," for "large community care settings,".
 
 Subsec. (l). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(v)(3)\], substituted "Statewideness" for "State wideness".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

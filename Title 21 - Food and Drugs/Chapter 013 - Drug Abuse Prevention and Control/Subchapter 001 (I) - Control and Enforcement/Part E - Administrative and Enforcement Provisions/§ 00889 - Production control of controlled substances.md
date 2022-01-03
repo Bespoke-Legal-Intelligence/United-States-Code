@@ -64,7 +64,7 @@ Section was classified to section 881a of this title prior to renumbering by Pub
 
 <b>1990</b>—Pub. L. 101–647 renumbered section 881a of this title as this section.
 
-#### <b>Statutory Notes and Related Subsidiaries</b>
+#### <b>Executive Documents</b>
 
 #### Termination of Trust Territory of the Pacific Islands
 

@@ -54,5 +54,5 @@ The National Security Act of 1947, referred to in subsec. (c)(1), is act July 26
 
 Section 1208 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 (Public Law 108–375; 118 Stat. 2086), referred to in subsec. (c)(4), is not classified to the Code.
 
-Section 943 of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (Public Law110–417; 122 Stat. 4578), referred to in subsec. (c)(6), is not classified to the Code.
+Section 943 of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (Public Law 110–417; 122 Stat. 4578), referred to in subsec. (c)(6), is not classified to the Code.
 

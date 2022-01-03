@@ -34,6 +34,8 @@ Historical and Revision Notes
 
 June 4, 1920, ch. 228 (4th par., less 1st proviso, of amended 3d and 4th provisos), 41 Stat. 813; June 30, 1938, ch. 851, §1, 52 Stat. 1252; June 17, 1944, ch. 262, 58 Stat. 282.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7424 of this title as this section.
@@ -43,6 +45,8 @@ June 4, 1920, ch. 228 (4th par., less 1st proviso, of amended 3d and 4th proviso
 <b>1976</b>—Subsec. (a). Pub. L. 94–258 struck out "of the Navy" after "Secretary", "and oil shale" after "petroleum" in par. (1), and "in the ground" after "conservation" in subpar. (A) of par. (1).
 
 <b>1962</b>—Subsec. (a). Pub. L. 87–796 inserted provisions in cl. (1) empowering the Secretary to contract with owners and lessees of land inside or adjoining oil shale reserves.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

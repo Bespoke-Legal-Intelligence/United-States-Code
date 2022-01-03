@@ -26,7 +26,7 @@ Certain Reserves on Active Duty To Be Authorized by Law.—(1) Congress shall an
 
 &emsp;(A) A call or order to active duty or full-time National Guard duty that specifies a period greater than three years.
 
-&emsp;(B) The cumulative periods of active duty and full-time National Guard duty performed by the member exceed 1095 days in the previous 1460 days.
+&emsp;(B) The cumulative periods of active duty and full-time National Guard duty performed by the member exceed 1825 days in the previous 2190 days.
 
 (3) In determining the period of active service under paragraph (2), the following periods of active service performed by a member shall not be included:
 
@@ -56,7 +56,7 @@ Limitation on Appropriations for Military Personnel.—No funds may be appropria
 
 (d)
 
-Military Technician (Dual Status) End Strengths To Be Authorized by Law.—Congress shall authorize for each fiscal year both the minimum end strength for non-temporary military technicians (dual status) and the end strength for temporary military technicians (dual status) for each reserve component of the Army and Air Force. Funds available to the Department of Defense for any fiscal year may not be used for the pay of a military technician (dual status) during that fiscal year unless the technician fills a position that is within the number of such positions authorized by law for that fiscal year for the reserve component of that technician. This subsection applies without regard to section 129 of this title. In each budget submitted by the President to Congress under section 1105 of title 31, the minimum end strength for non-temporary military technicians (dual status), and the end strength for temporary military technicians (dual status), requested for each reserve component of the Army and Air Force shall be specifically set forth.
+Military Technician (Dual Status) End Strengths To Be Authorized by Law.—Congress shall authorize for each fiscal year both the minimum end strength for non-temporary military technicians (dual status) and the end strength for temporary military technicians (dual status) for each reserve component of the Army and Air Force. Funds available to the Department of Defense for any fiscal year may not be used for the pay of a military technician (dual status) during that fiscal year unless the technician fills a position that is within thenumber of such positions authorized by law for that fiscal year for the reserve component of that technician. This subsection applies without regard to section 129 of this title. In each budget submitted by the President to Congress under section 1105 of title 31, the minimum end strength for non-temporary military technicians (dual status), and the end strength for temporary military technicians (dual status), requested for each reserve component of the Army and Air Force shall be specifically set forth.
 
 (e)
 
@@ -86,7 +86,7 @@ Authority for Service Secretary Variances for Active-duty and Selected Reserve E
 
 &emsp;(A) increase the end strength authorized pursuant to subsection (a)(1)(A) for a fiscal year for the armed force under the jurisdiction of that Secretary or, in the case of the Secretary of the Navy, for any of the armed forces under the jurisdiction of that Secretary, by a number equal to not more than 2 percent of such authorized end strength; and
 
-&emsp;(B) increase the end strength authorized pursuant to subsection (a)(2) for a fiscal year forthe Selected Reserve of the reserve component of the armed force under the jurisdiction of that Secretary or, in the case of the Secretary of the Navy, for the Selected Reserve of the reserve component of any of the armed forces under the jurisdiction of that Secretary, by a number equal to not more than 2 percent of such authorized end strength.
+&emsp;(B) increase the end strength authorized pursuant to subsection (a)(2) for a fiscal year for the Selected Reserve of the reserve component of the armed force under the jurisdiction of that Secretary or, in the case of the Secretary of the Navy, for the Selected Reserve of the reserve component of any of the armed forces under the jurisdiction of that Secretary, by a number equal to not more than 2 percent of such authorized end strength.
 
 (2) Any increase under paragraph (1)(A) of the end strength for an armed force for a fiscal year shall be counted as part of the increase for that armed force for that fiscal year authorized under subsection (f)(1). Any increase under paragraph (1)(B) of the end strength for the Selected Reserve of a reserve component of an armed force for a fiscal year shall be counted as part of the increase for that Selected Reserve for that fiscal year authorized under subsection (f)(3).
 
@@ -124,7 +124,9 @@ Certain Personnel Excluded From Counting for Active-Duty End Strengths.—In cou
 
 &emsp;(13) Members of the National Guard on full-time National Guard duty involuntarily and performing homeland defense activities under chapter 9 of title 32.
 
-(Added Pub. L. 101–510, div. A, title XIV, §1483(a), Nov. 5, 1990, 104 Stat. 1710; amended Pub. L. 102–190, div. A, title III, §312(a), Dec. 5, 1991, 105 Stat. 1335; Pub. L. 104–106, div. A, title IV, §§401(c), 415, title V, §513(a)(1), title X, §1061(c), title XV, §1501(c)(3), Feb. 10, 1996, 110 Stat. 286, 288, 305, 442, 498; Pub. L. 105–85, div. A, title IV, §413(b), title V, §522(i)(1), Nov. 18, 1997, 111 Stat. 1720, 1736; Pub. L. 106–65, div. A, title IV, §415, Oct. 5, 1999, 113 Stat. 587; Pub. L. 106–398, §1 \[\[div. A\], title IV, §422\], Oct. 30, 2000, 114 Stat. 1654, 1654A–96; Pub. L. 107–107, div. A, title IV, §§421(a), 422, Dec. 28, 2001, 115 Stat. 1076, 1077; Pub. L. 107–314, div. A, title IV, §403, Dec. 2, 2002, 116 Stat. 2525; Pub. L. 108–136, div. A, title IV, §403(a), (b), Nov. 24, 2003, 117 Stat. 1450, 1451; Pub. L. 108–375, div. A, title IV, §416(a)–(d), title V, §512(b), Oct. 28, 2004, 118 Stat. 1866, 1867, 1880; Pub. L. 109–364, div. A, title X, §1071(a)(1), (g)(1)(A), Oct. 17, 2006, 120 Stat. 2398, 2402; Pub. L. 110–181, div. A, title IV, §§416(b), 417, Jan. 28, 2008, 122 Stat. 91, 92; Pub. L. 111–84, div. A, title IV, §418, Oct. 28, 2009, 123 Stat. 2268; Pub. L. 114–328, div. A, title IV, §416, Dec. 23, 2016, 130 Stat. 2093; Pub. L. 115–91, div. A, title X, §1081(a)(2), Dec. 12, 2017, 131 Stat. 1594; Pub. L. 115–232, div. A, title XII, §1204(a)(4), Aug. 13, 2018, 132 Stat. 2017; Pub. L. 116–283, div. A, title IV, §415(a), Jan. 1, 2021, 134 Stat. 3558.)
+(Added Pub. L. 101–510, div. A, title XIV, §1483(a), Nov. 5, 1990, 104 Stat. 1710; amended Pub. L. 102–190, div. A, title III, §312(a), Dec. 5, 1991, 105 Stat. 1335; Pub. L. 104–106, div. A, title IV, §§401(c), 415, title V, §513(a)(1), title X, §1061(c), title XV, §1501(c)(3), Feb. 10, 1996, 110 Stat. 286, 288, 305, 442, 498; Pub. L. 105–85, div. A, title IV, §413(b), title V, §522(i)(1), Nov. 18, 1997, 111 Stat. 1720, 1736; Pub. L. 106–65, div. A, title IV, §415, Oct. 5, 1999, 113 Stat. 587; Pub. L. 106–398, §1 \[\[div. A\], title IV, §422\], Oct. 30, 2000, 114 Stat. 1654, 1654A–96; Pub. L. 107–107, div. A, title IV, §§421(a), 422, Dec. 28, 2001, 115 Stat. 1076, 1077; Pub. L. 107–314, div. A, title IV, §403, Dec. 2, 2002, 116 Stat. 2525; Pub. L. 108–136, div. A, title IV, §403(a), (b), Nov. 24, 2003, 117 Stat. 1450, 1451; Pub. L. 108–375, div. A, title IV, §416(a)–(d), title V, §512(b), Oct. 28, 2004, 118 Stat. 1866, 1867, 1880; Pub. L. 109–364, div. A, title X, §1071(a)(1), (g)(1)(A), Oct. 17, 2006, 120 Stat. 2398, 2402; Pub. L. 110–181, div. A, title IV, §§416(b), 417, Jan. 28, 2008, 122 Stat. 91, 92; Pub. L. 111–84, div. A, title IV, §418, Oct. 28, 2009, 123 Stat. 2268; Pub. L. 114–328, div. A, title IV, §416, Dec. 23, 2016, 130 Stat. 2093; Pub. L. 115–91, div. A, title X, §1081(a)(2), Dec. 12, 2017, 131 Stat. 1594; Pub. L. 115–232, div. A, title XII, §1204(a)(4), Aug. 13, 2018, 132 Stat. 2017; Pub. L. 116–283, div. A, title IV, §415(a), Jan. 1, 2021, 134 Stat. 3558; Pub. L. 117–81, div. A, title IV, §415, Dec. 27, 2021, 135 Stat. 1675.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -136,7 +138,9 @@ A prior section 115, added Pub. L. 93–155, title VIII, §803(a), Nov. 16, 1973
 
 #### Amendments
 
-<b>2021</b>—Subsec. (d). Pub. L. 116–283, §415(a)(2), which directed substitution of "the minimum end strength for non-temporary military technicians (dual status), and the end strength for temporary military technicians\(dual status), requested" for "the end strength requested for military technicians (dual status)" in the third sentence, was executed in the fourth sentence, to reflect to the probable intent of Congress.
+<b>2021</b>—Subsec. (b)(2)(B). Pub. L. 117–81 substituted "1825 days in the previous 2190 days" for "1095 days in the previous 1460 days".
+
+Subsec. (d). Pub. L. 116–283, §415(a)(2), which directed substitution of "the minimum end strength for non-temporary military technicians (dual status), and the end strength for temporary military technicians (dual status), requested" for "the end strength requested for military technicians (dual status)" in the third sentence, was executed in the fourth sentence, to reflect to the probable intent of Congress.
 
 Pub. L. 116–283, §415(a)(1), substituted "both the minimum end strength for non-temporary military technicians (dual status) and the end strength for temporary military technicians (dual status)" for "the end strength for military technicians (dual status)" in the first sentence.
 
@@ -256,13 +260,15 @@ Subsec. (g). Pub. L. 104–106, §513(a)(1), added subsec. (g).
 
 Subsec. (b)(2) to (4). Pub. L. 102–190, §312(a)(2), inserted "or" at end of par. (2), substituted a period for "; or" at end of par. (3), and struck out par. (4) which read as follows: "the use of the civilian personnel of any component of the Department of Defense unless the end strength for civilian personnel of that component for that fiscal year has been authorized by law."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2021 Amendment
 
 Pub. L. 116–283, div. A, title IV, §415(b), Jan. 1, 2021, 134 Stat. 3558, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on the day after the date of the enactment of this Act \[Jan. 1, 2021\]. The amendment made by subsection (a)(2) shall apply with respect to budgets submitted by the President to Congress under section 1105 of title 31, United States Code, after such effective date."
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–364, div. A, title X, §1071(g), Oct. 17, 2006, 120 Stat. 2402, provided that the amendment made by section 1071(g)(1)(A) is effective as of Oct. 28, 2004, and as if included in Pub. L. 108–375 as enacted.
+Pub. L. 109–364, div. A, title X, §1071(g), Oct. 17, 2006, 120 Stat. 2402, provided that the amendment made bysection 1071(g)(1)(A) is effective as of Oct. 28, 2004, and as if included in Pub. L. 108–375 as enacted.
 
 #### Effective Date of 2003 Amendment
 

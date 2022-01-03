@@ -92,7 +92,7 @@ There is established a commission to be known as the National Prison Rape Elimin
 
 &emsp;&emsp;(J) an assessment of the feasibility and cost of any particular proposals for prison reform;
 
-&emsp;&emsp;(K) an identification of the need for additional scientific and social science researchon the prevalence of prison rape in Federal, State, and local prisons;
+&emsp;&emsp;(K) an identification of the need for additional scientific and social science research on the prevalence of prison rape in Federal, State, and local prisons;
 
 &emsp;&emsp;(L) an assessment of the general relationship between prison rape and prison violence;
 
@@ -190,7 +190,7 @@ In developing recommended national standards for enhancing the detection, preven
 
 #### (1) In general
 
-&emsp;The Commission shall hold public hearings. The Commission may hold such hearings, sitand act at such times and places, take such testimony, and receive such evidence as the Commission considers advisable to carry out its duties under this section.
+&emsp;The Commission shall hold public hearings. The Commission may hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence as the Commission considers advisable to carry out its duties under this section.
 
 #### (2) Witness expenses
 

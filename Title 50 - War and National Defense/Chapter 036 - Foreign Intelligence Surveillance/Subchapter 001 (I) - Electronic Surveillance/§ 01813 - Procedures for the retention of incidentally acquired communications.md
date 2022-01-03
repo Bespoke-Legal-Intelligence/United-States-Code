@@ -68,9 +68,13 @@ In this section:
 
 (Pub. L. 113–293, title III, §309, Dec. 19, 2014, 128 Stat. 3998.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Intelligence Authorization Act for Fiscal Year 2015, and not as part of the Foreign Intelligence Surveillance Act of 1978 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

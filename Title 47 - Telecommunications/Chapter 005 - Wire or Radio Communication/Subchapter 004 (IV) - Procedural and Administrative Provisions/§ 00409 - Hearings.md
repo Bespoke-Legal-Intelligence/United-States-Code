@@ -2,7 +2,7 @@
 
 #### (a) Filing of initial decisions; exceptions
 
-In every case of adjudication (as defined in section 551 of title 5) which has been designatedby the Commission for hearing, the person or persons conducting the hearing shall prepare and file an initial, tentative, or recommended decision, except where such person or persons become unavailable to the Commission or where the Commission finds upon the record that due and timely execution of its functions imperatively and unavoidably require that the record be certified to the Commission for initial or final decision.
+In every case of adjudication (as defined in section 551 of title 5) which has been designated by the Commission for hearing, the person or persons conducting the hearing shall prepare and file an initial, tentative, or recommended decision, except where such person or persons become unavailable to the Commission or where the Commission finds upon the record that due and timely execution of its functions imperatively and unavoidably require that the record be certified to the Commission for initial or final decision.
 
 #### (b) Exceptions to initial decisions; memoranda; determination of Commission or authority within Commission; prohibition against consideration of own decision
 
@@ -36,11 +36,11 @@ The testimony of any witness may be taken, at the instance of a party, in any pr
 
 #### (i) Oaths; testimony in writing
 
-Every person deposing as herein provided shall be cautioned and sworn (or affirm, if he so request) to testify the whole truth, and shall becarefully examined. His testimony shall be reduced to writing by the magistrate taking the deposition, or under his direction, and shall, after it has been reduced to writing, be subscribed by the deponent.
+Every person deposing as herein provided shall be cautioned and sworn (or affirm, if he so request) to testify the whole truth, and shall be carefully examined. His testimony shall be reduced to writing by the magistrate taking the deposition, or under his direction, and shall, after it has been reduced to writing, be subscribed by the deponent.
 
 #### (j) Foreign depositions
 
-If a witness whose testimony may be desired to be taken by deposition be in a foreign country, the deposition may be taken before an officer or person designated by the Commission, or agreed upon by the parties by stipulation in writing to be filed with the Commission. All depositions must be promptly filed with the Commission.
+If a witness whose testimony may be desired to be taken by deposition be in a foreign country, the deposition may be taken before an officer or person designated by the Commission, oragreed upon by the parties by stipulation in writing to be filed with the Commission. All depositions must be promptly filed with the Commission.
 
 #### (k) Deposition fees
 
@@ -92,7 +92,7 @@ Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970,
 
 #### Savings Provision
 
-Pub. L. 87–192, §5, Aug. 31, 1961, 75 Stat. 422, provided that: "Notwithstanding the foregoing provisions of this Act \[amending this section and sections 155 and 405 of this title\], the second sentence of subsection (b) of section 409 of the Communications Act of 1934 \[subsec. (b) of this section\] (which relates to the filing of exceptions and the presentation of oral argument), as in force at the time of the enactment of this Act \[Aug. 31, 1961\], shall continue to be applicable with respect toany case of adjudication (as defined in the Administrative Procedure Act) \[see sections 551 et seq. and 701 et seq. of Title 5, Government Organization and Employees\] designated by the Federal Communications Commission for hearing by a notice of hearing issued prior to the date of the enactment of this Act."
+Pub. L. 87–192, §5, Aug. 31, 1961, 75 Stat. 422, provided that: "Notwithstanding the foregoing provisions of this Act \[amending this section and sections 155 and 405 of this title\], the second sentence of subsection (b) of section 409 of the Communications Act of 1934 \[subsec. (b) of this section\] (which relates to the filing of exceptions and the presentation of oral argument), as in force at the time of the enactment of this Act \[Aug. 31, 1961\], shall continue to be applicable with respect to any case of adjudication (as defined in the Administrative Procedure Act) \[see sections 551 et seq. and 701 et seq. of Title 5, Government Organization and Employees\] designated by the Federal Communications Commission for hearing by a notice of hearing issued prior to the date of the enactment of this Act."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

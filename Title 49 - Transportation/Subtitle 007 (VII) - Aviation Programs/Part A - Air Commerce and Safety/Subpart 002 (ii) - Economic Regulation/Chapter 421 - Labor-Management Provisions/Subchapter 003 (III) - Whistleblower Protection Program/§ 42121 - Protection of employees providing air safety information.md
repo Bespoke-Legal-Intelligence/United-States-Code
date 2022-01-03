@@ -66,7 +66,7 @@ Remedy.—If, in response to a complaint filed under paragraph (1), the Secretar
 
 &emsp;&emsp;&emsp;(iii) provide compensatory damages to the complainant.
 
-> &emsp;&emsp;If such an order is issued under this paragraph, the Secretary of Labor, at the request of the complainant, shall assess against the person against whom the order is issued a sum equal to the aggregate amount of all costs and expenses (including attorneys' and expert witness fees) reasonably incurred, as determined by the Secretary of Labor, by the complainant for, or in connection with, the bringing the complaint upon which the order was issued.
+> &emsp;&emsp;If such an order is issued under this paragraph, the Secretary of Labor, at the request of the complainant, shall assess against the person against whom the order is issued a sum equal to the aggregate amount of all costs and expenses (including attorneys' and expert witness fees) reasonably incurred, asdetermined by the Secretary of Labor, by the complainant for, or in connection with, the bringing the complaint upon which the order was issued.
 
 &emsp;&emsp;(C)
 
@@ -78,7 +78,7 @@ Review.—
 
 &emsp;&emsp;(A)
 
-Appeal to court of appeals.—Any person adversely affected or aggrieved by anorder issued under paragraph (3) may obtain review of the order in the United States Court of Appeals for the circuit in which the violation, with respect to which the order was issued, allegedly occurred or the circuit in which the complainant resided on the date of such violation. The petition for review must be filed not later than 60 days after the date of the issuance of the final order of the Secretary of Labor. Review shall conform to chapter 7 of title 5, United States Code. The commencement of proceedings under this subparagraph shall not, unless ordered by the court, operate as a stay of the order.
+Appeal to court of appeals.—Any person adversely affected or aggrieved by an order issued under paragraph (3) may obtain review of the order in the United States Court of Appeals for the circuit in which the violation, with respect to which the order was issued, allegedly occurred or the circuit in which the complainant resided on the date of such violation. The petition for review must be filed not later than 60 days after the date of the issuance of the final order of the Secretary of Labor. Review shall conform to chapter 7 of title 5, United States Code. The commencement of proceedings under this subparagraph shall not, unless ordered by the court, operate as a stay of the order.
 
 &emsp;&emsp;(B)
 
@@ -118,6 +118,8 @@ Contractor Defined.—In this section, the term "contractor" means—
 
 (Added Pub. L. 106–181, title V, §519(a), Apr. 5, 2000, 114 Stat. 145; amended Pub. L. 116–260, div. V, title I, §118, Dec. 27, 2020, 134 Stat. 2337.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2020</b>—Subsec. (a). Pub. L. 116–260, §118(1), added subsec. (a) and struck out former subsec. (a) which related to discrimination against airline employees.
@@ -125,6 +127,8 @@ Contractor Defined.—In this section, the term "contractor" means—
 Subsec. (d). Pub. L. 116–260, §118(2), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: "Subsection (a) shall not apply with respect to an employee of an air carrier, contractor, or subcontractor who, acting without direction from such air carrier, contractor, or subcontractor (or such person's agent), deliberately causes a violation of any requirement relating to air carrier safety under this subtitle or any other law of the United States."
 
 Subsec. (e). Pub. L. 116–260, §118(3), added subsec. (e) and struck out former subsec. (e) which defined the term "contractor" as a company that performs safety-sensitive functions by contract for an air carrier.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

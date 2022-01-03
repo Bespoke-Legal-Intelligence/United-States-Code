@@ -9,3 +9,4 @@
 - [&sect; 00352 - Authority to carry out certain transferred duties and powers](%C2%A7%2000352%20-%20Authority%20to%20carry%20out%20certain%20transferred%20duties%20and%20powers.md)
 - [&sect; 00353 - Toxicological testing of officers and employees](%C2%A7%2000353%20-%20Toxicological%20testing%20of%20officers%20and%20employees.md)
 - [&sect; 00354 - Investigative authority of Inspector General](%C2%A7%2000354%20-%20Investigative%20authority%20of%20Inspector%20General.md)
+- [&sect; 00355 - Motorcyclist Advisory Council](%C2%A7%2000355%20-%20Motorcyclist%20Advisory%20Council.md)

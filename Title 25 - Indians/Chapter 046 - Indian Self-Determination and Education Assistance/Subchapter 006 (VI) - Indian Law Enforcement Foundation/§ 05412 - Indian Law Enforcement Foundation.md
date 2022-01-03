@@ -30,7 +30,7 @@ The Foundation shall be incorporated and domiciled in the District of Columbia.
 
 The Foundation shall—
 
-&emsp;(1) encourage, accept, and administer, in accordance with the terms of each donation, private gifts of real and personal property, and any income from or interest in such gifts, for the benefit of, or in support of, public safety and justice services in American Indian and Alaska Native communities; and
+&emsp;(1) encourage, accept, and administer, in accordance with the terms of each donation, private gifts of real and personal property, and any income from or interest in such gifts, forthe benefit of, or in support of, public safety and justice services in American Indian and Alaska Native communities; and
 
 &emsp;(2) assist the Office of Justice Services of the Bureau of Indian Affairs and Indian tribal governments in funding and conducting activities and providing education to advance and support the provision of public safety and justice services in American Indian and Alaska Native communities.
 
@@ -144,7 +144,7 @@ The Foundation—
 
 #### (j) Service of process
 
-The Foundation shall comply with the law on service of process of each State in which the Foundation is incorporated and of each State in which the Foundation carries on activities.
+The Foundation shall comply with the law on service of process of each State in which theFoundation is incorporated and of each State in which the Foundation carries on activities.
 
 #### (k) Liability of officers, employees, and agents
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For purposes of section 38, the employer-provided child care credit determined under this section for the taxable year is an amount equal to the sum of—
+For purposes of section 38, the employer-provided child care credit determined under thissection for the taxable year is an amount equal to the sum of—
 
 &emsp;(1) 25 percent of the qualified child care expenditures, and
 
@@ -173,9 +173,13 @@ For purposes of this section—
 
 (Added Pub. L. 107–16, title II, §205(a), June 7, 2001, 115 Stat. 50; amended Pub. L. 107–147, title IV, §411(d)(1), Mar. 9, 2002, 116 Stat. 46.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (d)(4)(B). Pub. L. 107–147 substituted "this chapter or for purposes of section 55" for "subpart A, B, or D of this part".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

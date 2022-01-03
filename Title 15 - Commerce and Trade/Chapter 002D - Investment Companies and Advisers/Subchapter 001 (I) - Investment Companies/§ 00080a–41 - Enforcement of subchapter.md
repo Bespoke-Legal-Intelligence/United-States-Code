@@ -64,6 +64,8 @@ Whenever it shall appear to the Commission that any person has engaged or is abo
 
 (Aug. 22, 1940, ch. 686, title I, §42, 54 Stat. 842; Pub. L. 91–452, title II, §215, Oct. 15, 1970, 84 Stat. 929; Pub. L. 100–181, title VI, §623, Dec. 4, 1987, 101 Stat. 1262; Pub. L. 101–429, title III, §302, Oct. 15, 1990, 104 Stat. 945; Pub. L. 107–204, title III, §308(d)(4), July 30, 2002, 116 Stat. 785; Pub. L. 111–203, title IX, §923(a)(2), July 21, 2010, 124 Stat. 1849.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (e)(3)(A). Pub. L. 111–203 inserted "and section 78u–6 of this title" after "section 7246 of this title".
@@ -76,6 +78,8 @@ Whenever it shall appear to the Commission that any person has engaged or is abo
 
 <b>1970</b>—Subsec. (d). Pub. L. 91–452 struck out subsec. (d) which related to immunity from prosecution of any individual compelled to testify or produce evidence, documentary or otherwise, after claiming his privilege against self-incrimination.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
@@ -86,11 +90,13 @@ Amendment by Pub. L. 101–429 effective Oct. 15, 1990, with provisions relating
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970, see section 260 of Pub. L. 91–452, set out as an Effective Date; Savings Provision note under section 6001 of Title 18, Crimes and Criminal Procedure.
+Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970, see section 260 of Pub. L.91–452, set out as an Effective Date; Savings Provision note under section 6001 of Title 18, Crimes and Criminal Procedure.
 
 #### Savings Provision
 
 Amendment by Pub. L. 91–452 not to affect any immunity to which any individual is entitled under this section by reason of any testimony given before the sixtieth day following Oct. 15, 1970, see section 260 of Pub. L. 91–452, set out as an Effective Date; Savings Provision note under section 6001 of Title 18, Crimes and Criminal Procedure.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

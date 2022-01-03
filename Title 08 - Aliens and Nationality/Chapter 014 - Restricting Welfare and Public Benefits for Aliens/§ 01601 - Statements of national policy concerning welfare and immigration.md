@@ -32,5 +32,5 @@ This chapter, referred to in par. (7), was in the original "this title" meaning 
 
 #### Short Title of 2008 Amendment
 
-Pub. L. 110–328, §1, Sept. 30, 2008, 122 Stat. 3567, provided that: "This Act \[amending section 1612 of this title and sections 3304, 6103, and 6402 of Title 26, Internal Revenue Code, and enacting provisions set out as anote under section 3304 of Title 26\] may be cited as the 'SSI Extension for Elderly and Disabled Refugees Act'."
+Pub. L. 110–328, §1, Sept. 30, 2008, 122 Stat. 3567, provided that: "This Act \[amending section 1612 of this title and sections 3304, 6103, and 6402 of Title 26, Internal Revenue Code, and enacting provisions set out as a note under section 3304 of Title 26\] may be cited as the 'SSI Extension for Elderly and Disabled Refugees Act'."
 

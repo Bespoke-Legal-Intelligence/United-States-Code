@@ -20,7 +20,7 @@ Intentional Violations.—If it has been determined by a court or Federal agency
 
 &emsp;(1) affixed a label bearing a "Made in America" inscription, or any inscription with the same meaning, to any product used in projects to which this section applies, sold in or shipped to the United States that was not made in the United States; or
 
-&emsp;(2) represented that any product used in projects to which this section applies, sold in or shipped to the United States that was not produced in the United States, was produced in the United States;
+&emsp;(2) represented that any product used in projects to which this section applies, sold inor shipped to the United States that was not produced in the United States, was produced in the United States;
 
 > that person shall be ineligible to receive any contract or subcontract made with funds authorized under the Intermodal Surface Transportation Efficiency Act of 1991 pursuant to the debarment, suspension, and ineligibility procedures in subpart 9.4 of chapter 1 of title 48, Code of Federal Regulations.
 
@@ -36,9 +36,27 @@ Limitation on Applicability of Waivers to Products Produced in Certain Foreign C
 
 (g)
 
+Waivers.—
+
+&emsp;(1)
+
+In general.—Not less than 15 days before issuing a waiver under this section, the Secretary shall provide to the public—
+
+&emsp;&emsp;(A) notice of the proposed waiver;
+
+&emsp;&emsp;(B) an opportunity for comment on the proposed waiver; and
+
+&emsp;&emsp;(C) the reasons for the proposed waiver.
+
+&emsp;(2)
+
+Report.—Not less frequently than annually, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the waivers provided under this section.
+
+(h)
+
 Application to Highway Programs.—The requirements under this section shall apply to all contracts eligible for assistance under this chapter for a project carried out within the scope of the applicable finding, determination, or decision under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), regardless of the funding source of such contracts, if at least 1 contract for the project is funded with amounts made available to carry out this title.
 
-(Added and amended Pub. L. 109–59, title I, §1903(a), (c), Aug. 10, 2005, 119 Stat. 1464, 1465; Pub. L. 112–141, div. A, title I, §1518, July 6, 2012, 126 Stat. 574.)
+(Added and amended Pub. L. 109–59, title I, §1903(a), (c), Aug. 10, 2005, 119 Stat. 1464, 1465; Pub. L. 112–141, div. A, title I, §1518, July 6, 2012, 126 Stat. 574; Pub. L. 117–58, div. A, title I, §11513, Nov. 15, 2021, 135 Stat. 595.)
 
 #### <b>Editorial Notes</b>
 
@@ -48,7 +66,7 @@ The Surface Transportation Assistance Act of 1982, referred to in subsecs. (a) a
 
 The Intermodal Surface Transportation Efficiency Act of 1991, referred to in subsec. (e), is Pub. L. 102–240, Dec. 18, 1991, 105 Stat. 1914. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under section 101 of Title 49, Transportation, and Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (g), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (h), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Codification
 
@@ -59,6 +77,8 @@ Section, as added by Pub. L. 109–59, consists of text of Pub. L. 97–424, tit
 A prior section 313, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 915, authorized the Secretary to cooperate with State highway departments and other agencies in the promotion of highway safety and authorized the expenditure of $150,000 out of the administrative funds made available in accordance with section 104(a) of this title for the purposes of this section, prior to repeal by Pub. L. 89–564, title I, §102(a), Sept. 9, 1966, 80 Stat. 734. See section 401 et seq. of this title.
 
 #### Amendments
+
+<b>2021</b>—Subsecs. (g), (h). Pub. L. 117–58 added subsec. (g) and redesignated former subsec. (g) as (h).
 
 <b>2012</b>—Subsec. (g). Pub. L. 112–141 added subsec. (g).
 
@@ -71,6 +91,10 @@ Subsec. (d). Pub. L. 109–59, §1903(c)(3), substituted "the Surface Transporta
 Subsec. (e) to (g). Pub. L. 109–59, §1903(c)(4), (5), which directed amendment of this section by striking subsec. (e) and redesignating subsecs. (f) and (g) as (e) and (f), respectively, was executed by making the redesignations and by striking out two subsecs. (e), to reflect the probable intent of Congress. The first subsec. (e) based on subsec. (e) of section 165 of Pub. L. 97–424, as originally enacted, repealed section 401 of the Surface Transportation Assistance Act of 1978, Pub. L. 95–599. The second subsec. (e) based on subsec. (e) of section 165 of Pub. L. 97–424, as added by Pub. L. 102–240, §1048(b), related to report on purchases from foreign entities waived under subsec. (b) in fiscal years 1992 and 1993.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as a note under section 101 of this title.
 
 #### Effective Date of 2012 Amendment
 

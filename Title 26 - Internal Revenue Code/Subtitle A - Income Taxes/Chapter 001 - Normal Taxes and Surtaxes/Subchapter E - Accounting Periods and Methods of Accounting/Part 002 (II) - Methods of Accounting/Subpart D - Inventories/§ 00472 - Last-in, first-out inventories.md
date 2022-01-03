@@ -56,6 +56,8 @@ The Secretary shall prescribe regulations permitting the use of suitable publish
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 159; Pub. L. 94–455, title XIX, §§1901(b)(36)(A), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1802, 1834; Pub. L. 97–34, title II, §§235, 236(a), Aug. 13, 1981, 95 Stat. 252; Pub. L. 98–369, div. A, title I, §95(a), July 18, 1984, 98 Stat. 616.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Subsec. (g). Pub. L. 98–369 added subsec. (g).
@@ -67,6 +69,8 @@ Subsec. (f). Pub. L. 97–34, §235, added subsec. (f).
 <b>1976</b>—Subsecs. (a), (c), (e). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary" wherever appearing.
 
 Subsec. (f). Pub. L. 94–455, §1901(b)(36)(A), struck out subsec. (f) which provided for a cross reference relating to involuntary liquidation and replacement of LIFO inventories.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

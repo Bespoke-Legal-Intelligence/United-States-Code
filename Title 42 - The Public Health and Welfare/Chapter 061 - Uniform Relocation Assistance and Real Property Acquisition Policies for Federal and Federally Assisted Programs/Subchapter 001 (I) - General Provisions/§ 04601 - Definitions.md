@@ -16,7 +16,7 @@ As used in this chapter—
 
 &emsp;(i) any person who moves from real property, or moves his personal property from real property—
 
-&emsp;&emsp;(I) as a direct result of a written notice of intent to acquire or the acquisition of such real property in whole or in part for a program or project undertaken by a Federalagency or with Federal financial assistance; or
+&emsp;&emsp;(I) as a direct result of a written notice of intent to acquire or the acquisition of such real property in whole or in part for a program or project undertaken by a Federal agency or with Federal financial assistance; or
 
 &emsp;&emsp;(II) on which such person is a residential tenant or conducts a small business, a farm operation, or a business defined in paragraph (7)(D), as a direct result of rehabilitation, demolition, or such other displacing activity as the lead agency may prescribe, under a program or project undertaken by a Federal agency or with Federal financial assistance in any case in which the head of the displacing agency determines that such displacement is permanent; and
 
@@ -42,7 +42,7 @@ As used in this chapter—
 
 &emsp;(D) solely for the purposes of section 4622 of this title, for assisting in the purchase, sale, resale, manufacture, processing, or marketing of products, commodities, personal property, or services by the erection and maintenance of an outdoor advertising display or displays, whether or not such display or displays are located on the premises on which any of the above activities are conducted.
 
-(8) The term "farm operation" means any activity conducted solely or primarily for the production of one or more agricultural products or commodities, including timber, for sale or home use, and customarily producing such products or commodities in sufficient quantity to be capable of contributing materially to the operator's support.
+(8) The term "farm operation" means any activity conducted solely or primarily for the production of one or more agricultural products or commodities, including timber, for sale or home use, and customarily producing such products orcommodities in sufficient quantity to be capable of contributing materially to the operator's support.
 
 (9) The term "mortgage" means such classes of liens as are commonly given to secure advances on, or the unpaid purchase price of, real property, under the laws of the State in which the real property is located, together with the credit instruments, if any, secured thereby.
 
@@ -56,6 +56,8 @@ As used in this chapter—
 
 (Pub. L. 91–646, title I, §101, Jan. 2, 1971, 84 Stat. 1894; Pub. L. 100–17, title IV, §402, Apr. 2, 1987, 101 Stat. 246.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in introductory provision and par. (6)(B)(i), was in the original "this Act", meaning Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, known as the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
@@ -66,13 +68,15 @@ This chapter, referred to in introductory provision and par. (6)(B)(i), was in t
 
 Par. (3). Pub. L. 100–17, §402(b), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "The term 'State agency' means the National Capital Housing Authority, the District of Columbia Redevelopment Land Agency, and any department, agency, or instrumentality of a State or of a political subdivision of a State, or any department, agency, or instrumentality of two or more States or of two or more political subdivisions of a State or States."
 
-Par. (4). Pub. L. 100–17, §402(c), inserted ", any interest reduction payment to an individual in connectionwith the purchase and occupancy of a residence by that individual," after "insurance".
+Par. (4). Pub. L. 100–17, §402(c), inserted ", any interest reduction payment to an individual in connection with the purchase and occupancy of a residence by that individual," after "insurance".
 
 Par. (6). Pub. L. 100–17, §402(d), amended par. (6) generally. Prior to amendment, par. (6) read as follows: "The term 'displaced person' means any person who, on or after January 2, 1971, moves from real property, or moves his personal property from real property, as a result of the acquisition of such real property, in whole or in part, or as the result of the written order of the acquiring agency to vacate real property, for a program or project undertaken by a Federal agency, or with Federal financial assistance; and solely for the purposes of sections 4622(a) and (b) and 4625 of this title, as a result of the acquisition of or as the result of the written order of the acquiring agency to vacate other real property, on which such person conducts a business or farm operation, for such program or project."
 
 Par. (7)(D). Pub. L. 100–17, §402(f), substituted "section 4622" for "section 4622(a)".
 
 Pars. (10) to (13). Pub. L. 100–17, §402(e), added pars. (10) to (13).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1987 Amendment
 
@@ -95,10 +99,6 @@ Pub. L. 100–17, title IV, §401, Apr. 2, 1987, 101 Stat. 246, provided that: "
 #### Short Title
 
 Pub. L. 91–646, §1, Jan. 2, 1971, 84 Stat. 1894, provided: "That this Act \[enacting this chapter, amending sections 1415, 2473, and 3307 of this title and section 1606 of former Title 49, Transportation, repealing sections 1465 and 3071 to 3074 of this title, section 2680 of Title 10, Armed Forces, sections 141 and 501 to 512 of Title 23, Highways, section 596 of Title 33, Navigation and Navigable Waters, sections 1231 to 1234 of Title 43, Public Lands, and enacting provisions set out as notes under this section and sections 4621 and 4651 of this title, and repealing provisions set out as notes under sections 501 and 510 of Title 23\] may be cited as the 'Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970'."
-
-#### Termination of Trust Territory of the Pacific Islands
-
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
 #### Willing Sellers Considered Displaced Persons
 
@@ -133,4 +133,10 @@ Definition of 'Qualified Buyout Program'.—For purposes of this section, the te
 \[For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.\]
 
 \[For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+
+#### <b>Executive Documents</b>
+
+#### Termination of Trust Territory of the Pacific Islands
+
+For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 

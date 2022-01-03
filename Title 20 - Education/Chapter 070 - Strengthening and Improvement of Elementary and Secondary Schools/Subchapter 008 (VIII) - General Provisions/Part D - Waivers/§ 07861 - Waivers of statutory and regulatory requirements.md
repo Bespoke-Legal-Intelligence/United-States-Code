@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(E) includes only information directly related to the waiver request; and
 
-&emsp;&emsp;(F) describes how schools will continue to provide assistance to the same populations served by programs for which waivers are requested and, if the waiver relates to provisions of subsections (b) or (h) of section 6311 of this title, describes how the State educational agency, local educational agency, school, or Indian tribe will maintain or improve transparency in reporting to parents and the public on student achievement and school performance, including the achievement of the subgroups of students identified in section 6311(b)(2)(B)(xi) of this title.
+&emsp;&emsp;(F) describes how schools will continue to provide assistance to the same populations served by programs for which waivers are requested and, if the waiver relates to provisions of subsections (b) or (h) of section 6311 of this title, describes how the State educational agency, local educational agency, school, or Indian tribe will maintain or improve transparency in reporting to parents and the public on student achievement andschool performance, including the achievement of the subgroups of students identified in section 6311(b)(2)(B)(xi) of this title.
 
 #### (2) Additional information
 
@@ -110,7 +110,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) does not revise and resubmit the waiver request; or
 
-&emsp;&emsp;&emsp;&emsp;(II) revises and resubmits the waiver request, and the Secretary determines that such waiver request does not meet the requirements of this section after a hearing conducted under subparagraph (B)(iii), if such a hearing is requested.
+&emsp;&emsp;&emsp;&emsp;(II) revises and resubmits the waiver request, and the Secretary determines that such waiver request does not meet the requirements of this section after ahearing conducted under subparagraph (B)(iii), if such a hearing is requested.
 
 #### (D) External conditions
 
@@ -200,6 +200,8 @@ A notice of the Secretary's decision to grant each waiver under subsection (a) s
 
 (Pub. L. 89–10, title VIII, §8401, formerly title IX, §9401, as added Pub. L. 107–110, title IX, §901, Jan. 8, 2002, 115 Stat. 1972; renumbered title VIII, §8401, and amended Pub. L. 114–95, title VIII, §§8001(a)(4), 8013, Dec. 10, 2015, 129 Stat. 2088, 2089, 2103.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 7861, Pub. L. 89–10, title IX, §9141, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3792, related to national activities, prior to the general amendment of former subchapter IX of this chapter by Pub. L. 107–110.
@@ -257,6 +259,8 @@ Subsec. (d)(3). Pub. L. 114–95, §8013(4)(C), added par. (3).
 Subsec. (e). Pub. L. 114–95, §8013(5), added subsec. (e) and struck out former subsec. (e) which required certain reports to State educational agencies, the Secretary, and Congress concerning waivers under this section.
 
 Subsec. (f). Pub. L. 114–95, §8013(6), substituted "if, after notice and an opportunity for a hearing, the Secretary—" for "if the Secretary determines, after notice and an opportunity for a hearing, that the performance of the State or other recipient affected by the waiver has been inadequate to justify a continuation of the waiver or if the waiver is no longer necessary to achieve its original purposes." and added pars. (A) and (B).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

@@ -7,16 +7,20 @@
 | [403\.](%C2%A7%2000403%20-%20Highway%20safety%20research%20and%20development.md) | Highway safety research and development. |
 | [404\.](%C2%A7%2000404%20-%20High-visibility%20enforcement%20program.md) | High-visibility enforcement program. |
 | [405\.](%C2%A7%2000405%20-%20National%20priority%20safety%20programs.md) | National priority safety programs. |
-| \[406 to 408. Repealed.\] |  |
-| [409\.](%C2%A7%2000409%20-%20Discovery%20and%20admission%20as%20evidence%20of%20certain%20reports%20and%20surveys.md) | Discovery and admission as evidence of certain reports and surveys. |
+| [406\.](%C2%A7%2000406%20-%20General%20requirements%20for%20Federal%20assistance.md) | General requirements for Federal assistance. |
+| [407\.](%C2%A7%2000407%20-%20Discovery%20and%20admission%20as%20evidence%20of%20certain%20reports%20and%20surveys.md) | Discovery and admission as evidence of certain reports and surveys. |
+| [408\.](%C2%A7%2000408%20-%20Agency%20accountability.md) | Agency accountability. |
+| \[409. | Renumbered.\] |
 | \[410, 411. Repealed.\] |  |
-| [412\.](%C2%A7%2000412%20-%20Agency%20accountability.md) | Agency accountability. |
+| \[412. | Renumbered.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Pub. L. 117–58, div. B, title IV, §24101(d)(2), Nov. 15, 2021, 135 Stat. 785, which directed amendment of this analysis by striking out items 406 to 412 and adding new items 406 to 408, was executed by adding new items 406 to 408 and striking out items 409 "Discovery and admission as evidence of certain reports and surveys" and 412 "Agency accountability" to reflect the probable intent of Congress, as items 406 to 408, 410, and 411 had already been struck out by Pub. L. 112–141. See 2012 Amendment note below.
 
 <b>2015</b>—Pub. L. 114–94, div. A, title IV, §4004(b), Dec. 4, 2015, 129 Stat. 1501, substituted "High-visibility enforcement program" for "National Highway Safety Advisory Committee" in item 404.
 
@@ -52,7 +56,9 @@
 - [&sect; 00403 - Highway safety research and development](%C2%A7%2000403%20-%20Highway%20safety%20research%20and%20development.md)
 - [&sect; 00404 - High-visibility enforcement program](%C2%A7%2000404%20-%20High-visibility%20enforcement%20program.md)
 - [&sect; 00405 - National priority safety programs](%C2%A7%2000405%20-%20National%20priority%20safety%20programs.md)
-- [&sect; 00406 to 408 - Repealed. Pub. L. 112&#8211;141, div. C, title I, &sect;31109(b)&#8211;(d), July 6, 2012, 126 Stat. 756](%C2%A7%2000406%20to%20408%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93141%2C%20div.%20C%2C%20title%20I%2C%20%C2%A731109%28b%29%E2%80%93%28d%29%2C%20July%206%2C%202012%2C%20126%20Stat.%20756.md)
-- [&sect; 00409 - Discovery and admission as evidence of certain reports and surveys](%C2%A7%2000409%20-%20Discovery%20and%20admission%20as%20evidence%20of%20certain%20reports%20and%20surveys.md)
+- [&sect; 00406 - General requirements for Federal assistance](%C2%A7%2000406%20-%20General%20requirements%20for%20Federal%20assistance.md)
+- [&sect; 00407 - Discovery and admission as evidence of certain reports and surveys](%C2%A7%2000407%20-%20Discovery%20and%20admission%20as%20evidence%20of%20certain%20reports%20and%20surveys.md)
+- [&sect; 00408 - Agency accountability](%C2%A7%2000408%20-%20Agency%20accountability.md)
+- [&sect; 00409 - Renumbered &sect;407](%C2%A7%2000409%20-%20Renumbered%20%C2%A7407.md)
 - [&sect; 00410, 411 - Repealed. Pub. L. 112&#8211;141, div. C, title I, &sect;31109(e), (f), July 6, 2012, 126 Stat. 757](%C2%A7%2000410%2C%20411%20-%20Repealed.%20Pub.%20L.%20112%E2%80%93141%2C%20div.%20C%2C%20title%20I%2C%20%C2%A731109%28e%29%2C%20%28f%29%2C%20July%206%2C%202012%2C%20126%20Stat.%20757.md)
-- [&sect; 00412 - Agency accountability](%C2%A7%2000412%20-%20Agency%20accountability.md)
+- [&sect; 00412 - Renumbered &sect;408](%C2%A7%2000412%20-%20Renumbered%20%C2%A7408.md)

@@ -242,6 +242,8 @@ Expenditures by a State that would be considered administrative expenditures for
 
 (Aug. 14, 1935, ch. 531, title IV, §472, as added and amended Pub. L. 96–272, title I, §§101(a)(1), 102(a)(1), (2), June 17, 1980, 94 Stat. 503, 513, 514; Pub. L. 99–603, title II, §201(b)(2)(A), title III, §§302(b)(2), 303(e)(2), Nov. 6, 1986, 100 Stat. 3403, 3422, 3431; Pub. L. 100–203, title IX, §§9133(b)(2), 9139(a), Dec. 22, 1987, 101 Stat. 1330–314, 1330–321; Pub. L. 103–432, title II, §202(d)(3), Oct. 31, 1994, 108 Stat. 4454; Pub. L. 104–193, title I, §108(d)(3), (4), title V, §501, Aug. 22, 1996, 110 Stat. 2166, 2277; Pub. L. 105–33, title V, §§5513(b)(1), (2), 5592(b), Aug. 5, 1997, 111 Stat. 620, 644; Pub. L. 105–89, title I, §101(c), Nov. 19, 1997, 111 Stat. 2117; Pub. L. 106–169, title I, §111, Dec. 14, 1999, 113 Stat. 1829; Pub. L. 109–113, §2, Nov. 22, 2005, 119 Stat. 2371; Pub. L. 109–171, title VII, §§7403(a), 7404(a), Feb. 8, 2006, 120 Stat. 151; Pub. L. 109–288, §6(f)(6), Sept. 28, 2006, 120 Stat. 1247; Pub. L. 110–351, title II, §201(b), title III, §301(a)(2), Oct. 7, 2008, 122 Stat. 3958, 3967; Pub. L. 111–148, title VI, §6703(d)(2)(B), Mar. 23, 2010, 124 Stat. 803; Pub. L. 115–123, div. E, title VII, §§50712(a), 50741(a)(1), (b), Feb. 9, 2018, 132 Stat. 244, 253, 255.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (a)(4), is Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2105. Title IV of the Act is classified principally to chapter 14 (§1601 et seq.) of Title 8, Aliens and Nationality. For complete classification of title IV to the Code, see Tables.
@@ -274,7 +276,7 @@ Subsec. (i). Pub. L. 109–171, §7403(a), added subsec. (i).
 
 <b>2005</b>—Subsec. (b). Pub. L. 109–113 struck out "nonprofit" before "private" in pars. (1) and (2).
 
-<b>1999</b>—Subsec. (a). Pub. L. 106–169 inserted at end "In determining whether a child would have received aid under a State plan approved under section 602 of this title (as in effect on July 16, 1996), a child whose resources (determined pursuant to section 602(a)(7)(B) of this title, as so in effect) have a combined value of not more than $10,000 shall be considered to be a child whose resources have a combined value of not more than $1,000 (or such lower amount as the State may determine for purposes of such section 602(a)(7)(B) of this title).
+<b>1999</b>—Subsec. (a). Pub. L. 106–169 inserted at end "In determining whether a child would have received aid under a State plan approved under section 602 of this title (as in effect on July 16, 1996), a child whose resources (determined pursuant to section 602(a)(7)(B) of this title, as so in effect) have a combined value of not more than $10,000 shall be considered to be a childwhose resources have a combined value of not more than $1,000 (or such lower amount as the State may determine for purposes of such section 602(a)(7)(B) of this title).
 
 <b>1997</b>—Subsec. (a). Pub. L. 105–33, §5513(b)(1), substituted "July 16, 1996" for "June 1, 1995" in introductory provisions.
 
@@ -312,6 +314,8 @@ Pub. L. 99–603, §201(b)(2)(A), inserted closing provisions: "In any case wher
 
 Subsecs. (d) to (h). Pub. L. 96–272, §102(a)(2), added subsecs. (d) to (g). Former subsec. (d) was redesignated (h).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by section 50712(a) of Pub. L. 115–123 effective Oct. 1, 2018, subject to transition rules for required State legislation or tribal action, see section 50734 of Pub. L. 115–123, set out as a note under section 622 of this title.
@@ -346,11 +350,11 @@ Amendment by section 108(d)(3), (4) of Pub. L. 104–193 effective July 1, 1997,
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–432 effective with respect to fiscal years beginning on or after Apr. 1, 1996, see section 202(e) of Pub. L. 103–432, set out as a note under section 622 of this title.
+Amendment by Pub. L. 103–432 effective with respect to fiscal years beginning on or after Apr. 1, 1996, seesection 202(e) of Pub. L. 103–432, set out as a note under section 622 of this title.
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–203, title IX, §9133(c), Dec. 22, 1987, 101 Stat. 1330–315, provided that: "The amendments made by this section \[amending this section and sections 602,673, and 675 of this title\] shall become effective April 1, 1988."
+Pub. L. 100–203, title IX, §9133(c), Dec. 22, 1987, 101 Stat. 1330–315, provided that: "The amendments made by this section \[amending this section and sections 602, 673, and 675 of this title\] shall become effective April 1, 1988."
 
 #### Effective Date of 1980 Amendment
 

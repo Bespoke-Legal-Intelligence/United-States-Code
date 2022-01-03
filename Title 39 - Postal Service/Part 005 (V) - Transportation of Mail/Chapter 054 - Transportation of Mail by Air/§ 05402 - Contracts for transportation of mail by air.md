@@ -22,7 +22,7 @@
 
 &emsp;(10) the term "composite rate"—
 
-&emsp;&emsp;(A) means a combination of mainline and bush linehaul rates and a single terminalhandling payment at a bush terminal handling rate paid to a bush carrier for a direct flight from an acceptance point to a bush destination beyond a hub point; and
+&emsp;&emsp;(A) means a combination of mainline and bush linehaul rates and a single terminal handling payment at a bush terminal handling rate paid to a bush carrier for a direct flight from an acceptance point to a bush destination beyond a hub point; and
 
 &emsp;&emsp;(B) shall be based on the mainline rate paid to the hub, plus the lowest bush rate paid to bush carriers in the State of Alaska for the distance traveled from the hub point to the destination point;
 
@@ -88,7 +88,7 @@ In general.—
 
 &emsp;&emsp;(B) If the Postal Service has sought offers or proposals from certificated air carriers to transport mail in foreign air transportation between points, or pairs of points within a geographic region or regions, and has not received offers or proposals that meet Postal Service requirements at a fair and reasonable price from at least 2 such carriers, the Postal Service may seek offers or proposals from foreign air carriers. Where service in foreign air transportation meeting the Postal Service's requirements is unavailable at a fair and reasonable price from at least 2 certificated air carriers, either directly or through a code-share relationship with one or more foreign air carriers, the Postal Service may contract with foreign air carriers to provide the service sought if, when the Postal Service seeks offers or proposals from foreign air carriers, it also seeks an offer or proposal to provide that service from any certificated air carrier providing service between those points, or pairs of points within a geographic region or regions, on the same terms and conditions that are being sought from foreign air carriers.
 
-&emsp;&emsp;(C) For purposes of this subsection, the Postal Service shall use a methodology for determining fair and reasonable prices for the Postal Service designated region or regions developed in consultation with, and with the concurrence of, certificated air carriers representing at least 51 percent of available ton miles in the markets of interest.
+&emsp;&emsp;(C) For purposes of this subsection, the Postal Service shall use a methodology fordetermining fair and reasonable prices for the Postal Service designated region or regions developed in consultation with, and with the concurrence of, certificated air carriers representing at least 51 percent of available ton miles in the markets of interest.
 
 &emsp;&emsp;(D) For purposes of this subsection, ceiling prices determined pursuant to the methodology used under subparagraph (C) shall be presumed to be fair and reasonable if they do not exceed the ceiling prices derived from—
 
@@ -216,7 +216,7 @@ Good Faith Effort Required.—The Postal Service and potential offerors shall pu
 
 &emsp;&emsp;(iv) such tender will result in reduced payments to the carrier by the Postal Service over flying the entire route; and
 
-&emsp;(G) notwithstanding subparagraph (F), shall offer equitable tender of nonpriority bypass mail in proportion to passenger and nonmail freight mail pools described in this section between qualified passenger and nonmail freight carriers on a route from an acceptance point to a bush destination in the State of Alaska at a composite rate if—
+&emsp;(G) notwithstanding subparagraph (F), shall offer equitable tender of nonpriority bypassmail in proportion to passenger and nonmail freight mail pools described in this section between qualified passenger and nonmail freight carriers on a route from an acceptance point to a bush destination in the State of Alaska at a composite rate if—
 
 &emsp;&emsp;(i)(I) for a passenger carrier, the carrier receiving the composite rate provided 20 percent of the passenger service on the city pair route for the 12 months immediately preceding the date on which the carrier seeks tender of such mail; or
 
@@ -326,11 +326,11 @@ Good Faith Effort Required.—The Postal Service and potential offerors shall pu
 
 (6)(A) The Secretary shall establish new bush rates for passenger carriers operating in the State of Alaska receiving tender of nonpriority bypass mail under this subsection.
 
-(B) The Secretary shall establish a bush rate based on data collected under subsection (k) from 121 bush passenger carriers. Such rates shall be paid to all bush passenger carriers operating on city pair routes in the State of Alaska where a 121 bush passenger carrier is tendered nonpriority bypass mail.
+(B) The Secretary shall establish a bush rate based on data collected under subsection (k)from 121 bush passenger carriers. Such rates shall be paid to all bush passenger carriers operating on city pair routes in the State of Alaska where a 121 bush passenger carrier is tendered nonpriority bypass mail.
 
 (C) The Secretary shall establish a bush rate based on data collected under subsection (k) from 135 bush passenger carriers. Such rates shall be paid to all bush passenger carriers operating on bush city pair routes in the State of Alaska where no 121 bush passenger carrier is tendered nonpriority bypass mail.
 
-(D) The Secretary shall establish a bush rate based on data collected under subsection (k) from bush passenger carriers operating aircraft on city pair routes where only water landings are available. Such rates shall be paid to allbush passenger carriers operating on the city pair routes in the State of Alaska where only water landings are available.
+(D) The Secretary shall establish a bush rate based on data collected under subsection (k) from bush passenger carriers operating aircraft on city pair routes where only water landings are available. Such rates shall be paid to all bush passenger carriers operating on the city pair routes in the State of Alaska where only water landings are available.
 
 (7) The percentage rate in paragraph (1) shall be 75 percent beginning 3 years and 3 months after the date of enactment of the Rural Service Improvement Act of 2002.
 
@@ -368,7 +368,7 @@ Good Faith Effort Required.—The Postal Service and potential offerors shall pu
 
 &emsp;(iv) has invested at least $500,000 in a physical hanger facility prior to January 1, 2002 in such a hub city.
 
-(C) For purposes of subparagraph (B), a carrier may designate only one hub city as its main hub and once such designation is transmitted to the Postal Service it may not be changed. Such selection and transmission must be transmitted to the Postal Service within 6 months of the date of enactment of the Rural Service Improvement Act of 2002. A carrier attempting to receive tender of nonpriority bypass mail under this subsection shall not be eligible for such tender after the carrier becomes qualified for tender of nonpriority bypass mail under subsection (h) or (i) on any route. The purchase of another carrier's hanger facility after such date of enactment shall not be considered sufficient to meet the requirement of subparagraph (B)(iv).
+(C) For purposes of subparagraph (B), a carrier may designate only one hub city as its main hub and once such designation is transmitted to the Postal Service it may not be changed. Such selection and transmission must be transmitted to the Postal Service within 6 months of the date of enactment of the Rural Service Improvement Act of 2002. A carrier attempting to receive tender of nonpriority bypass mail under this subsection shall not be eligible for such tender after the carrier becomes qualified for tender of nonpriority bypass mail under subsection (h) or (i) on any route. The purchase of another carrier'shanger facility after such date of enactment shall not be considered sufficient to meet the requirement of subparagraph (B)(iv).
 
 (k)(1) At least once every 2 years, in conjunction with annual updates, the Secretary shall review the need for a bush mail rate investigation. The Secretary shall use show cause procedures to speedily and more accurately determine the cost of providing bush mail service. In determining such rates, the Secretary shall not take into account the cost of passenger insurance rates or premiums paid by the passenger carriers or other costs associated with passenger service.
 
@@ -430,7 +430,7 @@ Good Faith Effort Required.—The Postal Service and potential offerors shall pu
 
 (q) The Secretary shall make a regular review of carriers receiving, or attempting to qualify to receive, equitable tender of nonpriority bypass mail on a city pair route in the State of Alaska. If the Secretary suspends or revokes an operating certificate, the Secretary shall notify the Postal Service. Upon such notification, the Postal Service shall cease tender of mail to such carrier until the Secretary certifies the carrier is operating in a safe manner. Upon such receipt, the carrier shall demonstrate that it otherwise meets the minimum carriage requirements of this section before being tendered mail under this section.
 
-(r) The Postal Service shall have the authority to tender nonpriority bypass mail to any carrier that meets the requirements of subsection (g)(1)on any city pair route in the State of Alaska on an emergency basis. Such emergency tender shall cease when a carrier qualifies for tender on such route under the terms of this section.
+(r) The Postal Service shall have the authority to tender nonpriority bypass mail to any carrier that meets the requirements of subsection (g)(1) on any city pair route in the State of Alaska on an emergency basis. Such emergency tender shall cease when a carrier qualifies for tender on such route under the terms of this section.
 
 (s) Notwithstanding any other provision of law, and except for written contracts authorized under subsections (b), (c) and (d), tender by the Postal Service of any category of mail to a carrier for transportation between any two points in the State of Alaska shall not give rise to any contract between the Postal Service and a carrier, nor shall any such carrier acquire any right in continued or future tender of such mail by virtue of past or present receipt of such mail. This subsection shall apply to any case commenced before, on, or after the date of enactment of this subsection.
 
@@ -490,7 +490,7 @@ Subsec. (k)(5). Pub. L. 109–435, §1005(f), struck out par. (5) which read as 
 
 Subsec. (p)(3). Pub. L. 109–435, §1005(g), substituted "subsection (g)(1)(A)(iv)" for "subsection (g)(1)(D)".
 
-<b>2004</b>—Subsec. (a)(10)(C). Pub. L. 108–447, §301(c), added subpar. (C) and struck out former subpar. (C) which read as follows: "actually engaged in the carriage of mainline nonpriority bypass mail through scheduled service in the State of Alaska;".
+<b>2004</b>—Subsec. (a)(10)(C). Pub. L. 108–447, §301(c), added subpar. (C) and struck out former subpar. (C) whichread as follows: "actually engaged in the carriage of mainline nonpriority bypass mail through scheduled service in the State of Alaska;".
 
 Subsec. (g)(1). Pub. L. 108–447, §301(d), added par. (1) and struck out former par. (1) which read as follows: "The Postal Service, in selecting carriers of non-priority bypass mail to any point served by more than one carrier in the State of Alaska, shall adhere to an equitable tender policy within a qualified group of carriers, in accordance with the regulations of the Postal Service, and shall, at a minimum, require that any such carrier shall—
 
@@ -592,7 +592,7 @@ Pub. L. 107–206, title III, §3002(g), Aug. 2, 2002, 116 Stat. 924, provided t
 
 "(1)
 
-In general.—Except as provided under paragraph (2), this title \[amending this section, section 2703 of Title 19, Customs Duties, section 1626 of Title 43, Public Lands, and section 41901 of Title 49, Transportation, and enacting provisions set out as notes under this section and section 101 of this title, section 112 of Title 1, General Provisions, and sections 2703 and 3203 of Title 19\] (including the amendments made by this title) shall take effect on the date of enactment of this Act \[Aug. 2, 2002\].
+In general.—Except as provided under paragraph (2), this title \[amending this section, section 2703 of Title 19, Customs Duties, section 1626 of Title 43, Public Lands, and section 41901 of Title 49, Transportation, and enacting provisions set out as notes under this section and section 101 of this title, section 112 of Title 1,General Provisions, and sections 2703 and 3203 of Title 19\] (including the amendments made by this title) shall take effect on the date of enactment of this Act \[Aug. 2, 2002\].
 
 "(2)
 

@@ -16,7 +16,7 @@ As used in sections 544 to 544p of this title, the term—
 
 &emsp;(c) "Commission" means the Columbia River Gorge Commission established pursuant to section 544c of this title;
 
-&emsp;(d) "counties" means Hood River, Multnomah, and Wasco Counties, Oregon; and Clark, Klickitat, and Skamania Counties, Washington;
+&emsp;(d) "counties" means Hood River, Multnomah, and Wasco Counties, Oregon; andClark, Klickitat, and Skamania Counties, Washington;
 
 &emsp;(e) "Dodson/Warrendale Special Purchase Unit" means the Dodson/Warrendale Special Purchase Unit established pursuant to section 544b of this title;
 
@@ -76,9 +76,13 @@ As used in sections 544 to 544p of this title, the term—
 
 (Pub. L. 99–663, §2, Nov. 17, 1986, 100 Stat. 4274.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Federal Endangered Species Acts, referred to in subsec. (l)(3), are classified principally to chapter 35 (§1531 et seq.) of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

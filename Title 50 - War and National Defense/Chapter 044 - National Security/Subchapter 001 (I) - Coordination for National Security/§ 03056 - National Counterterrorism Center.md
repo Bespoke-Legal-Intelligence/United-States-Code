@@ -80,7 +80,7 @@ The Director of National Intelligence shall resolve disagreements between the Na
 
 #### (i) Directorate of Intelligence
 
-The Director of the National Counterterrorism Center shall establish and maintain within the National Counterterrorism Center a Directorate of Intelligence which shall have primary responsibility within the United States Government for analysis of terrorism and terrorist organizations (except for purely domestic terrorism and domestic terrorist organizations) from all sources of intelligence, whether collected inside or outside the United States.
+The Director of the National Counterterrorism Center shall establish and maintain within the National Counterterrorism Center a Directorate of Intelligence which shall have primary responsibility within the United States Governmentfor analysis of terrorism and terrorist organizations (except for purely domestic terrorism and domestic terrorist organizations) from all sources of intelligence, whether collected inside or outside the United States.
 
 #### (j) Directorate of Strategic Operational Planning
 
@@ -92,6 +92,8 @@ The Director of the National Counterterrorism Center shall establish and maintai
 
 (July 26, 1947, ch. 343, title I, §119, as added Pub. L. 108–458, title I, §1021, Dec. 17, 2004, 118 Stat. 3672; amended Pub. L. 111–259, title VIII, §804(5), Oct. 7, 2010, 124 Stat. 2747.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 404o of this title prior to editorial reclassification and renumbering as this section.
@@ -100,6 +102,8 @@ Section was formerly classified to section 404o of this title prior to editorial
 
 <b>2010</b>—Subsec. (c)(2)(B). Pub. L. 111–259 substituted "subsection (i)" for "subsection (h)".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 3001 of this title.
@@ -107,6 +111,8 @@ Section effective not later than six months after Dec. 17, 2004, except as other
 #### Strategy for Counterterrorist Travel Intelligence
 
 Pub. L. 108–458, title VII, §7201(b), Dec. 17, 2004, 118 Stat. 3809, directed the Director of the National Counterterrorism Center, not later than 1 year after Dec. 17, 2004, to submit to Congress unclassified and classified versions of a strategy, to be developed in coordination with all relevant Federal agencies, for combining terrorist travel intelligence, operations, and law enforcement into a cohesive effort to intercept terrorists, find terrorist travel facilitators, and constrain terrorist mobility domestically and internationally.
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 13354
 

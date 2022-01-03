@@ -16,7 +16,7 @@
 
 &emsp;(F) The term "former beneficiary country" means a country that ceases to be designated as a beneficiary country under this chapter because the country has become a party to a free trade agreement with the United States.
 
-(2) If the President has designated any country as a beneficiary country for purposes of this chapter, he shall not terminate such designation (either by issuing a proclamation for that purpose or by issuing a proclamation which has the effect of terminating such designation) unless, at least sixty days before such termination, he has notified the House of Representatives and the Senate and has notified such country of his intention to terminate such designation, together with the considerations entering into such decision.
+(2) If the President has designated any country as a beneficiary country for purposes of this chapter, he shall not terminate such designation (either by issuing a proclamation for that purpose or by issuing a proclamation which has the effect of terminating such designation) unless,at least sixty days before such termination, he has notified the House of Representatives and the Senate and has notified such country of his intention to terminate such designation, together with the considerations entering into such decision.
 
 #### (b) Countries eligible for designation as beneficiary countries; conditions
 
@@ -41,7 +41,7 @@ In designating countries as "beneficiary countries" under this chapter the Presi
 
 &emsp;(2) if such country—
 
-&emsp;&emsp;(A) has nationalized, expropriated or otherwise seized ownership or control of property owned by a United States citizen or bya corporation, partnership, or association which is 50 per centum or more beneficially owned by United States citizens,
+&emsp;&emsp;(A) has nationalized, expropriated or otherwise seized ownership or control of property owned by a United States citizen or by a corporation, partnership, or association which is 50 per centum or more beneficially owned by United States citizens,
 
 &emsp;&emsp;(B) has taken steps to repudiate or nullify—
 
@@ -97,7 +97,7 @@ In determining whether to designate any country a beneficiary country under this
 
 &emsp;(10) the extent to which such country prohibits its nationals from engaging in the broadcast of copyrighted material, including films or television material, belonging to United States copyright owners without their express consent; and
 
-&emsp;(11) the extent to which such country is prepared to cooperate with the United States inthe administration of the provisions of this chapter.
+&emsp;(11) the extent to which such country is prepared to cooperate with the United States in the administration of the provisions of this chapter.
 
 #### (d) Omitted
 
@@ -157,6 +157,8 @@ In determining whether to designate any country a beneficiary country under this
 
 <i>For termination of amendment by section 107(d) of Pub. L. 109–53, see Effective and Termination Dates of 2005 Amendment note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a) to (c) and (f), was in the original "this title", meaning title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 2701 of this title and Tables.
@@ -205,6 +207,8 @@ Subsec. (e). Pub. L. 100–418, §1909(c), amended subsec. (e) generally. Prior 
 
 <b>1986</b>—Subsec. (b)(6), (7). Pub. L. 99–570 redesignated par. (7) as (6) and struck out former par. (6) which provided that the President shall not designate a country as a beneficiary country under this chapter if the country does not take adequate steps to cooperate with the United States to prevent narcotic drugs and other controlled substances produced, processed, or transported in the country from entering the United States unlawfully.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2020 Amendment
 
 Amendment by Pub. L. 116–260 effective July 1, 2020, see section 602(g) of div. O of Pub. L. 116–260, set out as a note under section 2578b of this title.
@@ -231,10 +235,6 @@ Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement 
 
 Amendment by section 1214(q)(1) of Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of this title.
 
-#### Delegation of Functions
-
-Functions of President under subsec. (e)(2)(A) of this section, related to publishing notice of proposed actions, delegated to United States Trade Representative, see Proc. No. 7616, Oct. 31, 2002, 67 F.R. 67283, set out as a note under section 3203 of this title.
-
 #### Caribbean Basin Initiative
 
 Pub. L. 100–418, title I, §1909(a), (b), Aug. 23, 1988, 102 Stat. 1317, 1318, provided that:
@@ -260,6 +260,12 @@ Intent of the Congress.—The Congress hereby expresses its intention to ensure 
 &emsp;"(2) to the extent that Congress imposes changes that are intended to improve the competitive environment for United States industry and workers, such changes do not unduly affect the unilateral duty-free trade system available to the beneficiary countries designated under the Caribbean Basin Economic Recovery Act \[19 U.S.C. 2701 et seq.\]; and
 
 &emsp;"(3) generic changes in the trade laws of the United States do not discriminate against imports from designated beneficiary countries in relation to imports from other United States trading partners."
+
+#### <b>Executive Documents</b>
+
+#### Delegation of Functions
+
+Functions of President under subsec. (e)(2)(A) of this section, related to publishing notice of proposed actions, delegated to United States Trade Representative, see Proc. No. 7616, Oct. 31, 2002, 67 F.R. 67283, set out as a note under section 3203 of this title.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

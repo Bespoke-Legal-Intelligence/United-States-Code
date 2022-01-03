@@ -32,7 +32,7 @@ It shall be unlawful for any person—
 
 &emsp;&emsp;(B) to knowingly or recklessly sell at retail such a product in violation of paragraph (2) of such subsection (d);
 
-&emsp;(13) who is a regulated seller to knowingly or recklessly sell at retail a scheduled listedchemical product in violation of subsection (e) of such section;
+&emsp;(13) who is a regulated seller to knowingly or recklessly sell at retail a scheduled listed chemical product in violation of subsection (e) of such section;
 
 &emsp;(14) who is a regulated seller or an employee or agent of such seller to disclose, in violation of regulations under subparagraph (C) of section 830(e)(1) of this title, information in logbooks under subparagraph (A)(iii) of such section, or to refuse to provide such a logbook to Federal, State, or local law enforcement authorities;
 
@@ -76,7 +76,7 @@ It shall be unlawful for any person who is a registrant to manufacture a control
 
 (4)(A) If a regulated seller, or a distributor required to submit reports under section 830(b)(3) of this title, violates paragraph (12) of subsection (a) of this section, or if a regulated seller violates paragraph (13) of such subsection, the Attorney General may by order prohibit such seller or distributor (as the case may be) from selling any scheduled listed chemical product. Any sale of such a product in violation of such an order is subject to the same penalties as apply under paragraph (2).
 
-(B) An order under subparagraph (A) may be imposed only through the same procedures as apply under section 824(c) of this title for an order to show cause.
+(B) An order under subparagraph (A) may be imposed only through the same procedures asapply under section 824(c) of this title for an order to show cause.
 
 (Pub. L. 91–513, title II, §402, Oct. 27, 1970, 84 Stat. 1262; Pub. L. 95–633, title II, §202(b)(1), (2), Nov. 10, 1978, 92 Stat. 3776; Pub. L. 100–690, title VI, §6056, Nov. 18, 1988, 102 Stat. 4318; Pub. L. 104–237, title II, §205, Oct. 3, 1996, 110 Stat. 3103; Pub. L. 105–277, div. A, §101(b) \[title I, §117\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–68; Pub. L. 107–273, div. B, title IV, §4002(b)(16), (d)(2)(B), Nov. 2, 2002, 116 Stat. 1808, 1809; Pub. L. 109–177, title VII, §§711(f)(1)(A), (2), 714, Mar. 9, 2006, 120 Stat. 262–264; Pub. L. 111–268, §§4, 5, Oct. 12, 2010, 124 Stat. 2847, 2848; Pub. L. 113–260, §3(c), Dec. 18, 2014, 128 Stat. 2931; Pub. L. 115–271, title III, §3273(c), Oct. 24, 2018, 132 Stat. 3953.)
 

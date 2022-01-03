@@ -48,7 +48,7 @@ At the time the Secretary enters into a contract, the Secretary shall provide an
 
 #### (A) Fiscal year 1996
 
-&emsp;&emsp;At the option of the owner or producer, 50 percent of the contract payment for fiscalyear 1996 shall be made not later than 30 days after the date on which the contract is entered into and approved by the Secretary and the owner or producer.
+&emsp;&emsp;At the option of the owner or producer, 50 percent of the contract payment for fiscal year 1996 shall be made not later than 30 days after the date on which the contract is entered into and approved by the Secretary and the owner or producer.
 
 #### (B) Subsequent fiscal years
 
@@ -60,11 +60,15 @@ At the time the Secretary enters into a contract, the Secretary shall provide an
 
 (Pub. L. 104–127, title I, §112, Apr. 4, 1996, 110 Stat. 899; Pub. L. 105–228, §2, Aug. 12, 1998, 112 Stat. 1516; Pub. L. 106–78, title VIII, §811, Oct. 22, 1999, 113 Stat. 1181.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1999</b>—Subsec. (d)(3). Pub. L. 106–78, in par. heading, struck out "for fiscal year 1999" after "rule" and, in text, substituted "any of fiscal years 1999 through 2002" for "fiscal year 1999".
 
 <b>1998</b>—Subsec. (d)(3). Pub. L. 105–228 added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Production Flexibility Contract Payments
 

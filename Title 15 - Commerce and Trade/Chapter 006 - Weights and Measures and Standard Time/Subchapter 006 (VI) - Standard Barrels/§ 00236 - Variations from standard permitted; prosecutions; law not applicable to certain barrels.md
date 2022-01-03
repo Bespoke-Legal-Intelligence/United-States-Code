@@ -4,9 +4,13 @@ Reasonable variations shall be permitted and tolerance shall be established by r
 
 (Mar. 4, 1915, ch. 158, §3, 38 Stat. 1187; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–418 substituted "National Institute of Standards and Technology" for "Bureau of Standards".
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

@@ -98,6 +98,8 @@ For purposes of this part and part D—
 
 <i>Amendment of section by section 102(a)(3)(B) of div. BB of Pub. L. 116–260 applicable with respect to plan years beginning on or after Jan. 1, 2022. See 2020 Amendment notes below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Subparts 1 and 2, referred to in subsecs. (a)(1), (2)(A), (b), and (c)(1), (2), were amended by Pub. L. 111–148, title I, §§1001(5), 1201(1), 1563(c)(2), (11), formerly §1562(c)(2), (11), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 154, 265, 268, 911. The subpart 1 designation and heading "
@@ -170,9 +172,11 @@ Subsec. (b)(2)(D). Pub. L. 110–233, §102(c)(2), added subpar. (D).
 
 Subsec. (b) to (d). Pub. L. 104–204, §604(b)(1)(B), substituted "subparts 1 through 3" for "subparts 1 and 2" wherever appearing.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2020 Amendment
 
-Amendment by Pub. L. 116–260 applicable with respect to plan years beginning on or after Jan. 1, 2022,see section 102(e) of div. BB of Pub. L. 116–260, set out as a note under section 8902 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 116–260 applicable with respect to plan years beginning on or after Jan. 1, 2022, see section 102(e) of div. BB of Pub. L. 116–260, set out as a note under section 8902 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2008 Amendment
 

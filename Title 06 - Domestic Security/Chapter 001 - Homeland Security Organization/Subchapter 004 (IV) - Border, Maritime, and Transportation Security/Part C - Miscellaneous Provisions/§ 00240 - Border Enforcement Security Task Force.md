@@ -50,7 +50,7 @@ The purpose of BEST is to establish units to enhance border security by addressi
 
 #### (3) Duplication of efforts
 
-&emsp;In determining whether to establish a new BEST unit or to expand an existing BEST unitin a given jurisdiction, the Secretary shall ensure that the BEST unit under consideration does not duplicate the efforts of other existing interagency task forces or centers within that jurisdiction.
+&emsp;In determining whether to establish a new BEST unit or to expand an existing BEST unit in a given jurisdiction, the Secretary shall ensure that the BEST unit under consideration does not duplicate the efforts of other existing interagency task forces or centers within that jurisdiction.
 
 #### (d) Operation
 

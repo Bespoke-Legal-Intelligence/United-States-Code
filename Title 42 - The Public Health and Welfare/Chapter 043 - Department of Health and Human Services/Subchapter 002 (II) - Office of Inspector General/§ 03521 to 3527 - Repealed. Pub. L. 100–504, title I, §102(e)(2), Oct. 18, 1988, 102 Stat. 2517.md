@@ -14,7 +14,9 @@ Section 3526, Pub. L. 94–505, title II, §206, Oct. 15, 1976, 90 Stat. 2433, p
 
 Section 3527, Pub. L. 94–505, title II, §207, Oct. 15, 1976, 90 Stat. 2434; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, defined "Secretary", "Department", "Inspector General", "Deputy", and "Federal agency".
 
-For transfer of functions under sections 3521 to 3527 to and establishment of the Office of Inspector General of the Department of Health and Human Services, see the Inspector General Act of 1978, Pub. L. 95–452, as amended, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions under sections 3521 to 3527 to and establishment of the Office of Inspector Generalof the Department of Health and Human Services, see the Inspector General Act of 1978, Pub. L. 95–452, as amended, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of Repeal
 

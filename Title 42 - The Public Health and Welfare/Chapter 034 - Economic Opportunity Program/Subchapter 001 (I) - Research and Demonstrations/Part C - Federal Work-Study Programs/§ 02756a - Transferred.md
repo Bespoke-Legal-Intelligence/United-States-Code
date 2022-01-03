@@ -1,5 +1,7 @@
 ### §2756a. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 2756a, originally enacted as section 447 of Pub. L. 89–329, was transferred to section 1087–57 of Title 20, Education.

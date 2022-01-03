@@ -48,6 +48,8 @@ For the purposes of this section:
 
 (Pub. L. 89–329, title I, §112, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1591; amended Pub. L. 110–315, title I, §104, Aug. 14, 2008, 122 Stat. 3090.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1011a, Pub. L. 89–329, title I, §122, as added Pub. L. 102–325, title I, §101, July 23, 1992, 106 Stat. 462, authorized grants to States, prior to the general amendment of this subchapter by Pub. L. 105–244.

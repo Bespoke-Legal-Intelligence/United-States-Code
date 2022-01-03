@@ -6,7 +6,7 @@ Entry and Inspection.—An officer or employee of the National Transportation Sa
 
 &emsp;(1) on display of appropriate credentials and written notice of inspection authority, may enter property where a transportation accident has occurred or wreckage from the accident is located and do anything necessary to conduct an investigation; and
 
-&emsp;(2) during reasonable hours, may inspect any record, including an electronic record, process,control, or facility related to an accident investigation under this chapter.
+&emsp;(2) during reasonable hours, may inspect any record, including an electronic record, process, control, or facility related to an accident investigation under this chapter.
 
 (b)
 
@@ -107,6 +107,8 @@ In subsection (d), the word "individuals" is substituted for "persons" the 2d ti
 In subsection (e), the word "promptly" is substituted for "with reasonable promptness" to eliminate unnecessary words.
 
 In subsection (f)(1), the words "In the case of any fatal accident" in 49 App.:1441(c) are omitted as surplus. The words "to examine the remains of any deceased person aboard the aircraft at the time of the accident, who dies as a result of the accident" are omitted as unnecessary because of the authority of the Board to conduct autopsies.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

@@ -28,11 +28,15 @@ An organization described in subsection (a)(1) shall be subject to the tax impos
 
 (Added Pub. L. 87–834, §17(a), Oct. 16, 1962, 76 Stat. 1045; amended Pub. L. 108–357, title III, §319(d), Oct. 22, 2004, 118 Stat. 1472; Pub. L. 115–97, title I, §13001(b)(2)(O), Dec. 22, 2017, 131 Stat. 2097.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Subsec. (b). Pub. L. 115–97 substituted "tax imposed by section 11" for "taxes imposed by section 11 or 1201".
 
 <b>2004</b>—Subsec. (c). Pub. L. 108–357 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 

@@ -44,6 +44,8 @@ Notwithstanding the preceding provisions of this section, reimbursement may be p
 
 (Pub. L. 100–428, §3, Sept. 9, 1988, 102 Stat. 1615; Pub. L. 112–74, div. E, title IV, §411(3), Dec. 23, 2011, 125 Stat. 1040.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Subsec. (a). Pub. L. 112–74, §411(3)(A), inserted headings for subsec. (a) and pars. (1) and (2).

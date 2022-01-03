@@ -1,8 +1,12 @@
 ### §324. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act June 3, 1948, ch. 400, title III, 62 Stat. 328, which related to extra compensation for certain employees in Alaska and other territorial possessions, was from the Department of Commerce Appropriation Act, 1949, and was not repeated in subsequent appropriations acts. See section 327 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Similar Provisions
 

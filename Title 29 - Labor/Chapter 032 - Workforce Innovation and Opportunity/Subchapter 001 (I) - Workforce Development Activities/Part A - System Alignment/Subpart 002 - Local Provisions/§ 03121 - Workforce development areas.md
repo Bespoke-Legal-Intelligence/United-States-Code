@@ -114,7 +114,7 @@
 
 #### (2) Effect on local plan and local functions
 
-&emsp;In any case in which a State is designated as a local area pursuant to this subsection, the local plan prepared under section 3123 of this title for the area shall be submitted for approval as part of the State plan. In such a State, the State board shall carry out the functions of a local board, as specified in this Act or the provisions authorizing a core program, but the State shall not be required to meet and report on a set of local performance accountability measures.
+&emsp;In any case in which a State is designated as a local area pursuant to this subsection, the local plan prepared under section 3123 of this title for the area shall be submitted for approval as part of the State plan. In such a State, the State board shall carry out the functions of a local board, as specified in thisAct or the provisions authorizing a core program, but the State shall not be required to meet and report on a set of local performance accountability measures.
 
 #### (e) Definitions
 
@@ -122,7 +122,7 @@ For purposes of this section:
 
 #### (1) Performed successfully
 
-&emsp;The term "performed successfully", used with respect to a local area, means the local area met or exceeded the adjusted levels of performance for primary indicators of performance described in section 3141(b)(2)(A) of this title (or, if applicable, core indicators of performance described in section 136(b)(2)(A) of the Workforce Investment Act of 1998 \[29U.S.C. 2871(b)(2)(A)\], as in effect the day before July 22, 2014) for each of the last 2 consecutive years for which data are available preceding the determination of performance under this paragraph.
+&emsp;The term "performed successfully", used with respect to a local area, means the local area met or exceeded the adjusted levels of performance for primary indicators of performance described in section 3141(b)(2)(A) of this title (or, if applicable, core indicators of performance described in section 136(b)(2)(A) of the Workforce Investment Act of 1998 \[29 U.S.C. 2871(b)(2)(A)\], as in effect the day before July 22, 2014) for each of the last 2 consecutive years for which data are available preceding the determination of performance under this paragraph.
 
 #### (2) Sustained fiscal integrity
 

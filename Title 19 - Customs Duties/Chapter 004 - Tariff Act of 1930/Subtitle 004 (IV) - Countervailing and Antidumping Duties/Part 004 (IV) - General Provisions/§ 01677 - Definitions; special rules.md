@@ -18,7 +18,7 @@ For purposes of this subtitle—
 
 #### (A) In general
 
-&emsp;&emsp;The term "industry" means the producers as a whole of a domestic like product, or those producers whose collective output of a domestic like product constitutes a major proportion of the total domestic production of the product.
+&emsp;&emsp;The term "industry" means the producers as a whole of a domestic like product, orthose producers whose collective output of a domestic like product constitutes a major proportion of the total domestic production of the product.
 
 #### (B) Related parties
 
@@ -156,7 +156,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;&emsp;(i) Where the authority providing the subsidy, or the legislation pursuant to which the authority operates, expressly limits access to the subsidy to an enterprise or industry, the subsidy is specific as a matter of law.
 
-&emsp;&emsp;&emsp;(ii) Where the authority providing the subsidy, or the legislation pursuant towhich the authority operates, establishes objective criteria or conditions governing the eligibility for, and the amount of, a subsidy, the subsidy is not specific as a matter of law, if—
+&emsp;&emsp;&emsp;(ii) Where the authority providing the subsidy, or the legislation pursuant to which the authority operates, establishes objective criteria or conditions governing the eligibility for, and the amount of, a subsidy, the subsidy is not specific as a matter of law, if—
 
 &emsp;&emsp;&emsp;&emsp;(I) eligibility is automatic,
 
@@ -286,7 +286,7 @@ For purposes of this subtitle—
 
 #### (i) General rule
 
-&emsp;&emsp;&emsp;If a subsidy is provided pursuant to a program that has been notified in accordance with Article 8.3 of the SubsidiesAgreement, the subsidy shall be treated as noncountervailable and shall not be subject to investigation or review under this subtitle.
+&emsp;&emsp;&emsp;If a subsidy is provided pursuant to a program that has been notified in accordance with Article 8.3 of the Subsidies Agreement, the subsidy shall be treated as noncountervailable and shall not be subject to investigation or review under this subtitle.
 
 #### (ii) Exception
 
@@ -356,7 +356,7 @@ For purposes of this subtitle—
 
 #### (iii) Impact on affected domestic industry
 
-&emsp;&emsp;&emsp;In examining the impact required to be considered under subparagraph (B)(i)(III), the Commission shall evaluate all relevant economic factors which have a bearing on the state of the industry in the United States, including, but not limited to—
+&emsp;&emsp;&emsp;In examining the impact required to be considered under subparagraph (B)(i)(III),the Commission shall evaluate all relevant economic factors which have a bearing on the state of the industry in the United States, including, but not limited to—
 
 &emsp;&emsp;&emsp;&emsp;(I) actual and potential decline in output, sales, market share, gross profits, operating profits, net profits, ability to service debt, productivity, return on investments, return on assets, and utilization of capacity,
 
@@ -416,7 +416,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;&emsp;&emsp;(VI) the potential for product-shifting if production facilities in the foreign country, which can be used to produce the subject merchandise, are currently being used to produce other products,
 
-&emsp;&emsp;&emsp;&emsp;(VII) in any investigation under this subtitle which involves imports of both a raw agricultural product (within the meaning of paragraph (4)(E)(iv)) and any product processed from such raw agricultural product, the likelihood that there will be increased imports, by reason of product shifting, if there is an affirmative determination by the Commission under section 1671d(b)(1) or 1673d(b)(1) of this title with respect to either the raw agricultural product or the processed agricultural product (but not both),
+&emsp;&emsp;&emsp;&emsp;(VII) in any investigation under this subtitle which involves imports of both a raw agricultural product (within the meaning of paragraph (4)(E)(iv)) and any product processed from such raw agricultural product, the likelihood that there will be increased imports, by reason of product shifting, if there is an affirmative determination by the Commissionunder section 1671d(b)(1) or 1673d(b)(1) of this title with respect to either the raw agricultural product or the processed agricultural product (but not both),
 
 &emsp;&emsp;&emsp;&emsp;(VIII) the actual and potential negative effects on the existing development and production efforts of the domestic industry, including efforts to develop a derivative or more advanced version of the domestic like product, and
 
@@ -476,7 +476,7 @@ For purposes of this subtitle—
 
 #### (H) Cumulation for determining threat of material injury
 
-&emsp;&emsp;To the extent practicable and subject to subparagraph (G)(ii), for purposes of clause\(i)(III) and (IV) of subparagraph (F), the Commission may cumulatively assess the volume and price effects of imports of the subject merchandise from all countries with respect to which—
+&emsp;&emsp;To the extent practicable and subject to subparagraph (G)(ii), for purposes of clause (i)(III) and (IV) of subparagraph (F), the Commission may cumulatively assess the volume and price effects of imports of the subject merchandise from all countries with respect to which—
 
 &emsp;&emsp;&emsp;(i) petitions were filed under section 1671a(b) or 1673a(b) of this title on the same day,
 
@@ -788,7 +788,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;&emsp;(i) in making a preliminary determination under section 1673b(a) of this title in an investigation (including any investigation in which the Commission cumulatively assesses the volume and effect of imports under paragraph (7)(G)(i)), the dumping margin or margins published by the administering authority in its notice of initiation of the investigation;
 
-&emsp;&emsp;&emsp;(ii) in making a final determination under section 1673d(b) of this title, the dumping margin or margins most recentlypublished by the administering authority prior to the closing of the Commission's administrative record;
+&emsp;&emsp;&emsp;(ii) in making a final determination under section 1673d(b) of this title, the dumping margin or margins most recently published by the administering authority prior to the closing of the Commission's administrative record;
 
 &emsp;&emsp;&emsp;(iii) in a review under section 1675(b)(2) of this title, the most recent dumping margin or margins determined by the administering authority under section 1675a(c)(3) of this title, if any, or under section 1673b(b) or 1673d(a) of this title; and
 
@@ -830,6 +830,8 @@ For purposes of this subtitle—
 
 <i>For termination of amendment by section 501(c) of Pub. L. 100–449, see Effective and Termination Dates of 1988 Amendment note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Caribbean Basin Economic Recovery Act, referred to in par. (7)(G)(ii)(III), is title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, as amended, which is classified principally to chapter 15 (§2701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
@@ -848,7 +850,7 @@ For the effective date of title II of the Uruguay Round Agreements Act, referred
 
 <b>2015</b>—Par. (7)(C)(iii)(I). Pub. L. 114–27, §503(b), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: "actual and potential decline in output, sales, market share, profits, productivity, return on investments, and utilization of capacity,".
 
-Par. (7)(C)(iv)(I) to (III). Pub. L. 114–27, §503(c), inserted "and" at end of subcl. (I), struck out "and" after comma at end of subcl. (II), and struck out subcl. (III) which read as follows: "the production of the domestic like product sold in the merchant market is not generally used in the production of that downstream article,".
+Par. (7)(C)(iv)(I) to (III). Pub. L. 114–27, §503(c), inserted "and" at end of subcl. (I), struck out "and" after comma at end of subcl. (II), and struck out subcl. (III)which read as follows: "the production of the domestic like product sold in the merchant market is not generally used in the production of that downstream article,".
 
 Par. (7)(J). Pub. L. 114–27, §503(a), added subpar. (J).
 
@@ -1038,6 +1040,8 @@ Par. (14)(A), (B). Pub. L. 98–573, §612(a)(4), substituted "in commercial qua
 
 Par. (17). Pub. L. 98–573, §612(a)(5), substituted "commercial quantities" for "wholesale quantities".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 "Commissioner of U.S. Customs and Border Protection" substituted for "Commissioner of Customs" in two places in par. (18)(E) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under section 211 of Title 6, Domestic Security.
@@ -1082,12 +1086,6 @@ Part effective Jan. 1, 1980, see section 107 of Pub. L. 96–39, set out as a no
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
-All functions of the Secretary of the Treasury under this subtitle were transferred to the Secretary of Commerce pursuant to Reorg. Plan No. 3 of 1979, §5(a)(1)(C), 44 F.R. 69275, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title, except that the Customs Service of the Department of the Treasury was to accept such deposits, bonds, or other security as deemed appropriate by the Secretary of Commerce, assess and collect such duties as directed by the Secretary of Commerce, and furnish such of its important records or copies thereof as requested by the Secretary incident to the functions transferred.
-
-#### Uruguay Round Agreements: Entry Into Force
-
-The Uruguay Round Agreements, including the World Trade Organization Agreement and agreements annexed to that Agreement, as referred to in section 3511(d) of this title, entered into force with respect to the United States on Jan. 1, 1995. See note set out under section 3511 of this title.
-
 #### Effect of Termination of USMCA Country Status
 
 For provisions relating to effect of termination of USMCA country status on sections 401 to 432 of Pub. L. 116–113, see section 4601 of this title.
@@ -1095,6 +1093,16 @@ For provisions relating to effect of termination of USMCA country status on sect
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+All functions of the Secretary of the Treasury under this subtitle were transferred to the Secretary of Commerce pursuant to Reorg. Plan No. 3 of 1979, §5(a)(1)(C), 44 F.R. 69275, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title, except that the Customs Service of the Department of the Treasury was to accept such deposits, bonds, or other security as deemed appropriate by the Secretary of Commerce, assess and collect such duties as directed by the Secretary of Commerce, and furnish such of its important records or copies thereof as requested by the Secretary incident to the functions transferred.
+
+#### Uruguay Round Agreements: Entry Into Force
+
+The Uruguay Round Agreements, including the World Trade Organization Agreement and agreements annexed to that Agreement, as referred to in section 3511(d) of this title, entered into force with respect to the United States on Jan. 1, 1995. See note set out under section 3511 of this title.
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 

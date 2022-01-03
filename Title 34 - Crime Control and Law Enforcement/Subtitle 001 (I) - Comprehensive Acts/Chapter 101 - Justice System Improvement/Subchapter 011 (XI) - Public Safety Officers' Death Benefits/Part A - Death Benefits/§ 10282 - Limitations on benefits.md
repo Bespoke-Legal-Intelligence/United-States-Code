@@ -52,7 +52,7 @@ Par. (1). Pub. L. 112–239, §1086(b)(1)(C)(ii), substituted "bring about his d
 
 #### Effective Date of 2017 Amendment
 
-Pub. L. 115–36, §6, June 2, 2017, 131 Stat. 852, provided that: "The amendments made by this Act \[enactingsection 10288 of this title and amending this section and sections 10285 and 10302 of this title\] shall—
+Pub. L. 115–36, §6, June 2, 2017, 131 Stat. 852, provided that: "The amendments made by this Act \[enacting section 10288 of this title and amending this section and sections 10285 and 10302 of this title\] shall—
 
 &emsp;"(1) take effect on the date of enactment of this Act \[June 2, 2017\]; and
 

@@ -150,7 +150,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the fuel input for the project, when completed, is at least 75 percent coal;
 
-&emsp;&emsp;(C) the project, consisting of one or more electric generation units at one site, willhave a total nameplate generating capacity of at least 400 megawatts;
+&emsp;&emsp;(C) the project, consisting of one or more electric generation units at one site, will have a total nameplate generating capacity of at least 400 megawatts;
 
 &emsp;&emsp;(D) the applicant provides evidence that a majority of the output of the project is reasonably expected to be acquired or utilized;
 
@@ -281,6 +281,8 @@ The Secretary shall provide for recapturing the benefit of any credit allowable 
 
 (Added Pub. L. 109–58, title XIII, §1307(b), Aug. 8, 2005, 119 Stat. 999; amended Pub. L. 109–432, div. A, title II, §203(a), Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–172, §11(a)(10), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–234, title XV, §15346(a), May 22, 2008, 122 Stat. 1523; Pub. L. 110–246, §4(a), title XV, §15346(a), June 18, 2008, 122 Stat. 1664, 2285; Pub. L. 110–343, div. B, title I, §111(a)–(d), Oct. 3, 2008, 122 Stat. 3822, 3823; Pub. L. 111–5, div. B, title I, §1103(b)(2)(C), Feb. 17, 2009, 123 Stat. 321.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The enactment of the Revenue Reconciliation Act of 1990, referred to in subsec. (b)(3), is the date of enactment of title XI of Pub. L. 101–508, which was approved Nov. 5, 1990.
@@ -325,6 +327,8 @@ Subsec. (i). Pub. L. 110–343, §111(c)(3)(C), added subsec. (i).
 
 <b>2006</b>—Subsec. (f)(1). Pub. L. 109–432 inserted concluding provisions.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2009 Amendment
 
 Amendment by Pub. L. 111–5 applicable to periods after Dec. 31, 2008, under rules similar to the rules of section 48(m) of this title as in effect on the day before Nov. 5, 1990, see section 1103(c)(1) of Pub. L. 111–5, set out as a note under section 25C of this title.
@@ -345,7 +349,7 @@ Disclosure of allocations.—The amendment made by subsection (d) \[amending thi
 
 Clerical amendment.—The amendment made by subsection (c)(5) \[amending this section\] shall take effect as if included in the amendment made by section 1307(b) of the Energy Tax Incentives Act of 2005 \[Pub. L. 109–58\]."
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 Pub. L. 110–234, title XV, §15346(b), May 22, 2008, 122 Stat. 1523, and Pub. L. 110–246, §4(a), title XV, §15346(b), June 18, 2008, 122 Stat. 1664, 2285, provided that: "The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[June 18, 2008\] and is applicable to all competitive certification awards entered into under section 48A or 48B of the Internal Revenue Code of 1986, whether such awards were issued before, on, or after such date of enactment."
 

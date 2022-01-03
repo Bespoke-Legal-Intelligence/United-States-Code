@@ -72,7 +72,7 @@ Contract Modifications.—A task or delivery order may not increase the scope, p
 
 (f)
 
-Inapplicability to Contracts for Advisory and Assistance Services.—Except as otherwise specifically provided in section 4105 of this title, this section does not apply to a task or delivery order contract for the acquisition ofadvisory and assistance services (as defined in section 1105(g) of title 31).
+Inapplicability to Contracts for Advisory and Assistance Services.—Except as otherwise specifically provided in section 4105 of this title, this section does not apply to a task or delivery order contract for the acquisition of advisory and assistance services (as defined in section 1105(g) of title 31).
 
 (g)
 

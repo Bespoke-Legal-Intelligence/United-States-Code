@@ -64,7 +64,7 @@ July 7, 1898, ch. 571(7th par. 1st sentence words after 1st comma, last sentence
 
 R.S. §345.
 
-In subsection (a)(1), the words "Secretary of the Treasury shall deposit in the Treasury as miscellaneous receipts" are substituted for "shall . . . be covered into the Treasury" in 31:369 because of the source provisions restated in section 321(c) of the revised title. The words "amounts the Secretary receives from the operations of the Bureau of the Mint" are substituted for "The money arising from all charges and deductions on and from gold and silver bullion and from all other sources" for clarity and to eliminate unnecessary words. The words "amounts from" are substituted for "money arising from the manufacture and sale of" to eliminate unnecessary words. The words "numismatic items" are substituted for "medals, proof coins, and uncirculated coins" for consistency with section 5111(a)(3) of the revised title. The words "minting coins" are substituted for "silver or minor coinage" for consistency with section 5112 of the revised title. The words "made by law" are omitted as surplus. The words "on estimates furnished by the Secretary of the Treasury" are omitted because of section 1108 of the revised title. The text of 31:273(1st, 2d sentences) is omitted because of section 321 of the revised title and the other source provisions restated in this chapter.
+In subsection (a)(1), the words "Secretary of the Treasury shall deposit in the Treasury as miscellaneous receipts" are substituted for "shall . . . be covered into the Treasury" in 31:369 because of the source provisions restated in section 321(c) of the revised title. The words "amounts the Secretary receives from the operations of the Bureau of the Mint" are substitutedfor "The money arising from all charges and deductions on and from gold and silver bullion and from all other sources" for clarity and to eliminate unnecessary words. The words "amounts from" are substituted for "money arising from the manufacture and sale of" to eliminate unnecessary words. The words "numismatic items" are substituted for "medals, proof coins, and uncirculated coins" for consistency with section 5111(a)(3) of the revised title. The words "minting coins" are substituted for "silver or minor coinage" for consistency with section 5112 of the revised title. The words "made by law" are omitted as surplus. The words "on estimates furnished by the Secretary of the Treasury" are omitted because of section 1108 of the revised title. The text of 31:273(1st, 2d sentences) is omitted because of section 321 of the revised title and the other source provisions restated in this chapter.
 
 In subsection (a)(2), the words "ending September 30" are added for clarity and consistency in the revised title. The words "to pay costs" are substituted for "for all expenditures (salaries and expenses)" for consistency in the revised title and to eliminate unnecessary words. The words "not herein otherwise provided for" are omitted as surplus.
 
@@ -96,7 +96,7 @@ This is necessary because the language was restated by section 382(h)(1) of the 
 
 #### References in Text
 
-The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (a)(2)(D), is act June 7, 1939,ch. 190, as revised generally by Pub. L. 96–41, §2, July 30, 1979, 93 Stat. 319, which is classified generally to subchapter III (§98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 98 of Title 50 and Tables.
+The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (a)(2)(D), is act June 7, 1939, ch. 190, as revised generally by Pub. L. 96–41, §2, July 30, 1979, 93 Stat. 319, which is classified generally to subchapter III (§98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 98 of Title 50 and Tables.
 
 #### Amendments
 
@@ -148,5 +148,5 @@ Amendment by Pub. L. 98–216 effective Sept. 13, 1982, see section 4(c) of Pub.
 
 #### Termination of Numismatic Public Enterprise Fund
 
-All assets and liabilities of Numismatic Public Enterprise Fund transferred to United States Mint Public Enterprise Fund and Numismatic Public Enterprise Fund to cease to exist as separate fund as its activities and functions are subsumed under and subject to United States Mint Public Enterprise Fund, see section 5136 of this title.
+All assets and liabilities of Numismatic Public Enterprise Fund transferred to United States Mint PublicEnterprise Fund and Numismatic Public Enterprise Fund to cease to exist as separate fund as its activities and functions are subsumed under and subject to United States Mint Public Enterprise Fund, see section 5136 of this title.
 

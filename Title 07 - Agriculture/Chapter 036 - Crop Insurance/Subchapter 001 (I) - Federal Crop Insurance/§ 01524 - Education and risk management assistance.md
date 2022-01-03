@@ -10,7 +10,7 @@
 
 #### (A) Authority
 
-&emsp;&emsp;The Secretary, acting through the National Institute of Food and Agriculture, shall establish a program under which competitive grants are made to qualified public and private entities (including land grant colleges, cooperative extension services, and colleges or universities), as determined by the Secretary, for the purpose of educating agricultural producers and providing technical assistance to agricultural producers on a full range of farm viability and risk management activities, including futures, options, agricultural trade options, crop insurance, business planning, enterprise analysis, transfer and succession planning, management coaching, market assessment, cash flow analysis, cash forward contracting, debtreduction, production diversification, farm resources risk reduction, farm financial benchmarking, conservation activities, and other risk management strategies.
+&emsp;&emsp;The Secretary, acting through the National Institute of Food and Agriculture, shall establish a program under which competitive grants are made to qualified public and private entities (including land grant colleges, cooperative extension services, and colleges or universities), as determined by the Secretary, for the purpose of educating agricultural producers and providing technical assistance to agricultural producers on a full range of farm viability and risk management activities, including futures, options, agricultural trade options, crop insurance, business planning, enterprise analysis, transfer and succession planning, management coaching, market assessment, cash flow analysis, cash forward contracting, debt reduction, production diversification, farm resources risk reduction, farm financial benchmarking, conservation activities, and other risk management strategies.
 
 #### (B) Basis for grants
 
@@ -116,6 +116,8 @@
 
 (Feb. 16, 1938, ch. 30, title V, §524, as added Pub. L. 106–224, title I, §133, June 20, 2000, 114 Stat. 387; amended Pub. L. 107–171, title II, §2501, May 13, 2002, 116 Stat. 263; Pub. L. 108–199, div. A, title VII, §769, Jan. 23, 2004, 118 Stat. 40; Pub. L. 110–234, title I, §1603(g)(3), title II, §2801, title VII, §7511(c)(2), title XII, §12026, May 22, 2008, 122 Stat. 1011, 1085, 1267, 1390; Pub. L. 110–246, §4(a), title I, §1603(g)(3), title II, §2801, title VII, §7511(c)(2), title XII, §12026, June 18, 2008, 122 Stat. 1664, 1739, 1813, 2028, 2152; Pub. L. 112–55, div. A, title VII, §716(a), Nov. 18, 2011, 125 Stat. 582; Pub. L. 113–79, title I, §1609(b)(1), title XI, §11027(c), Feb. 7, 2014, 128 Stat. 709, 977; Pub. L. 115–334, title XI, §11125(a), title XII, §12306(b)(3), Dec. 20, 2018, 132 Stat. 4935, 4969.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1308(5) of this title, which required the Secretary to issue regulations defining "person", referred to in subsec. (b)(3), was redesignated section 1308(e) and amended by section 1603(b)(1) of Pub. L. 107–171. Section 1603(a) of the Food, Conservation, and Energy Act of 2008, Pub. L. 110–246, subsequently amended the definition of "covered commodity" in section 1308(a)(1). Section 1603(b) of Pub. L. 110–246 amended section 1308 by, among other things, striking out subsec. (e) and adding subsec. (a)(4) which defined "person". The amendments by section 1603 of Pub. L. 110–246 to section 1308 were effective May 22, 2008.
@@ -219,6 +221,8 @@ In general.—The Secretary shall carry out this subsection through the Commodit
 &emsp;"(B)
 
 Funding.—The Commodity Credit Corporation shall make available to carry out this subsection $10,000,000 for fiscal year 2001 and each subsequent fiscal year."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

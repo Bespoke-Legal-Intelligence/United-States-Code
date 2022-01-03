@@ -46,7 +46,7 @@ A system satisfies subsection (b), and a person is deemed to have control of a t
 
 #### (d) Status as holder
 
-Except as otherwise agreed, a person having control of a transferable record is the holder, as defined in section 1–201(20) of the Uniform Commercial Code, of the transferable record and has the same rights and defenses as a holder of an equivalent record or writing under the UniformCommercial Code, including, if the applicable statutory requirements under section 3–302(a), 9–308, or revised section 9–330 of the Uniform Commercial Code are satisfied, the rights and defenses of a holder in due course or a purchaser, respectively. Delivery, possession, and endorsement are not required to obtain or exercise any of the rights under this subsection.
+Except as otherwise agreed, a person having control of a transferable record is the holder, as defined in section 1–201(20) of the Uniform Commercial Code, of the transferable record and has the same rights and defenses as a holder of an equivalent record or writing under the Uniform Commercial Code, including, if the applicable statutory requirements under section 3–302(a), 9–308, or revised section 9–330 of the Uniform Commercial Code are satisfied, the rights and defenses of a holder in due course or a purchaser, respectively. Delivery, possession, and endorsement are not required to obtain or exercise any of the rights under this subsection.
 
 #### (e) Obligor rights
 
@@ -61,6 +61,8 @@ If requested by a person against which enforcement is sought, the person seeking
 For purposes of this subsection, all references to the Uniform Commercial Code are to the Uniform Commercial Code as in effect in the jurisdiction the law of which governs the transferable record.
 
 (Pub. L. 106–229, title II, §201, June 30, 2000, 114 Stat. 473.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

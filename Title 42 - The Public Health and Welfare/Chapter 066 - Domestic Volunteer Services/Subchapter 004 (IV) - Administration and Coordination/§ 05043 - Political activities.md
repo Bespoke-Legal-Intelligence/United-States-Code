@@ -14,7 +14,7 @@ No part of any funds appropriated to carry out this chapter, or any program admi
 
 &emsp;(C) any voter registration activity;
 
-> except that programs assisted under this chapter may make voter registration applications and nonpartisan voter registration information available to the public on the premises of such programs.
+> except that programs assisted under this chapter may make voter registration applicationsand nonpartisan voter registration information available to the public on the premises of such programs.
 
 (2) In carrying out any voter registration activity permitted under paragraph (1), an individual who is affiliated with, or employed to carry out, a program assisted under this chapter shall not—
 
@@ -35,6 +35,8 @@ No funds appropriated to carry out this chapter shall be used by any program ass
 The Director, after consultation with the Office of Personnel Management, shall issue rules and regulations to provide for the enforcement of this section, which shall include provisions for summary suspension of assistance for no more than thirty days until notice and an opportunity to be heard can be provided or other action necessary to permit enforcement on an emergency basis.
 
 (Pub. L. 93–113, title IV, §403, Oct. 1, 1973, 87 Stat. 408; Pub. L. 96–143, §§8, 18(c)(1), Dec. 13, 1979, 93 Stat. 1077, 1083; Pub. L. 96–187, title I, §112(e)(1), Jan. 8, 1980, 93 Stat. 1366; Pub. L. 99–551, §10(i)(6), Oct. 27, 1986, 100 Stat. 3078; Pub. L. 103–82, title III, §363, title IV, §405(a)(7), Sept. 21, 1993, 107 Stat. 907, 920.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -65,6 +67,8 @@ Subsec. (d). Pub. L. 103–82, §363(1), redesignated subsec. (c) as (d).
 Subsec. (b). Pub. L. 96–143, §8(b), designated existing provisions as par. (1), cls. (1) to (3) thereof as cls. (A) to (C), and last sentence thereof as subsec. (c), and added par. (2).
 
 Subsec. (c). Pub. L. 96–143, §§8(b)(3), 18(c)(1), designated as subsec. (c) provisions formerly contained in last sentence of subsec. (b) and, as so designated, substituted "Office of Personnel Management" for "Civil Service Commission".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1993 Amendment
 

@@ -20,6 +20,8 @@ Apr. 3, 1939, ch. 35, §4, 53 Stat. 556.
 
 The words "in his discretion and", "rules", "limitations", and "on hand and belonging to the Government, such articles as may appear to be" are omitted as surplusage. The words "Department of the Army or the Department of the Air Force" are substituted for the words "Military Establishment", since the authority is reciprocal.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 7656 was renumbered section 8856 of this title.
@@ -29,6 +31,8 @@ A prior section 7656 was renumbered section 8856 of this title.
 <b>2018</b>—Pub. L. 115–232 renumbered section 4656 of this title as this section.
 
 <b>1982</b>—Pub. L. 97–295 struck out ", and at least one of which is designated by the Civil Aeronautics Authority for the training of Negro air pilots" after "competent orders".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

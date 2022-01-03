@@ -44,7 +44,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), the Secretary may waive such provisions of this chapterand the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) as are necessary to carry out this subsection.
+&emsp;&emsp;Subject to subparagraph (B), the Secretary may waive such provisions of this chapter and the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) as are necessary to carry out this subsection.
 
 #### (B) Provisions
 
@@ -60,6 +60,8 @@ States, State educational agencies, local educational agencies, schools, institu
 
 (June 4, 1946, ch. 281, §28, as added Pub. L. 108–265, title I, §129, June 30, 2004, 118 Stat. 767; amended Pub. L. 111–296, title III, §305, Dec. 13, 2010, 124 Stat. 3243.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Child Nutrition Act of 1966, referred to in subsecs. (a)(1), (b)(4)(A), and (c), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of this title and Tables.
@@ -69,6 +71,8 @@ Those Acts, referred to in subsec. (c), mean the Richard B. Russell National Sch
 #### Amendments
 
 <b>2010</b>—Subsec. (c). Pub. L. 111–296 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

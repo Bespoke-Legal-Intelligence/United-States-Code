@@ -34,7 +34,7 @@
 
 #### (4) Database
 
-&emsp;The database described in this paragraph is, with respect to a group health plan, a database on the public website of such plan or issuer that contains—
+&emsp;The database described in this paragraph is, with respect to a group health plan, a databaseon the public website of such plan or issuer that contains—
 
 &emsp;&emsp;(A) a list of each health care provider and health care facility with which such plan or such issuer has a direct or indirect contractual relationship for furnishing items and services under such plan; and
 
@@ -85,6 +85,8 @@ For plan years beginning on or after January 1, 2022, each group health plan sha
 &emsp;(2) information on contacting appropriate State and Federal agencies in the case that an individual believes that such a provider or facility has violated any requirement described in paragraph (1) with respect to such individual.
 
 (Added Pub. L. 116–260, div. BB, title I, §116(c), Dec. 27, 2020, 134 Stat. 2884.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

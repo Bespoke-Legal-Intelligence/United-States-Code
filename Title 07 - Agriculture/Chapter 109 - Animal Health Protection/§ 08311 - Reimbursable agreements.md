@@ -54,6 +54,8 @@ Funds collected for preclearance activities—
 
 (Pub. L. 107–171, title X, §10412, May 13, 2002, 116 Stat. 503; Pub. L. 114–125, title VIII, §818(b), Feb. 24, 2016, 130 Stat. 222.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (c)(1), was in the original "this subtitle", meaning subtitle E (§§10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Short Title note set out under section 8301 of this title and Tables.
@@ -65,6 +67,8 @@ This chapter, referred to in subsec. (c)(1), was in the original "this subtitle"
 &emsp;"(1) be credited to accounts that may be established by the Secretary for carrying out this section; and
 
 &emsp;"(2) remain available until expended for the preclearance activities, without fiscal year limitation."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

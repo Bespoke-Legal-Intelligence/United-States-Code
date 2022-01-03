@@ -88,6 +88,8 @@ In subsection (b), the words "beginning after September 30, 1987" are omitted as
 
 This amends 49:47113(a)(2) to correct erroneous cross-references.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 31(b) of the Small Business Act, referred to in subsec. (a)(3), is classified to section 657a(b) of Title 15, Commerce and Trade.
@@ -113,6 +115,8 @@ Subsec. (a)(3). Pub. L. 115–254, §539(o), substituted "(15 U.S.C. 632(p))" fo
 Subsec. (b). Pub. L. 105–135, §604(h)(2)(B), inserted "or qualified HUBZone small business concerns" before period at end.
 
 <b>1994</b>—Subsec. (a)(2). Pub. L. 103–429 substituted "8(d)" for "8(c)" in two places and "637(d))" for "637(c))".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 
@@ -196,7 +200,7 @@ Program.—The term 'Program' means the airport disadvantaged business enterpris
 
 Pub. L. 112–95, title I, §140(a), Feb. 14, 2012, 126 Stat. 27, provided that: "Congress finds the following:
 
-&emsp;"(1) While significant progress has occurred due to the establishment of the airport disadvantaged business enterprise program (49 U.S.C. 47107(e) and 47113), discrimination and related barriers continue to pose significant obstacles for minority- and women-owned businesses seeking to do business in airport-related markets across the Nation. These continuing barriers merit the continuation of the airport disadvantaged business enterprise program.
+&emsp;"(1) While significant progress has occurred due to the establishment of the airport disadvantaged business enterprise program (49 U.S.C. 47107(e) and 47113),discrimination and related barriers continue to pose significant obstacles for minority- and women-owned businesses seeking to do business in airport-related markets across the Nation. These continuing barriers merit the continuation of the airport disadvantaged business enterprise program.
 
 &emsp;"(2) Congress has received and reviewed testimony and documentation of race and gender discrimination from numerous sources, including congressional hearings and roundtables, scientific reports, reports issued by public and private agencies, news stories, reports of discrimination by organizations and individuals, and discrimination lawsuits. This testimony and documentation shows that race- and gender-neutral efforts alone are insufficient to address the problem.
 

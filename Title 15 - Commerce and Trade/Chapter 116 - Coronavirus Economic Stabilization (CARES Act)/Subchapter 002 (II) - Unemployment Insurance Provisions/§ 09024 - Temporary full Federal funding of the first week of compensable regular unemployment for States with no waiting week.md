@@ -22,17 +22,13 @@ A State is eligible to enter into an agreement under this section if the State l
 
 &emsp;Sums payable to any State by reason of such State's having an agreement under this section shall be payable, either in advance or by way of reimbursement (as determined by the Secretary), in such amounts as the Secretary estimates the State will be entitled to receive under this section for each calendar month, reduced or increased, as the case may be, by any amount by which the Secretary finds that his estimates for any prior calendar month were greater or less than the amounts which should have been paid to the State. Such estimates may be made on the basis of such statistical, sampling, or other method as may be agreed upon by the Secretary and the State agency of the State involved.
 
-#### (3) Partial reimbursement
-
-&emsp;With respect to compensation paid to individuals for weeks of unemployment ending after December 31, 2020, paragraph (1) shall be applied by substituting "50 percent" for "100 percent".
-
 #### (d) Funding
 
 #### (1) Compensation
 
 #### (A) In general
 
-&emsp;&emsp;Funds in the Federal unemployment account (as established by section 905(g)) <sup>1</sup> ofthe Unemployment Trust Fund (as established by section 904(a)) <sup>1</sup> shall be used to make payments under subsection (c)(1)(A).
+&emsp;&emsp;Funds in the Federal unemployment account (as established by section 905(g)) <sup>1</sup> of the Unemployment Trust Fund (as established by section 904(a)) <sup>1</sup> shall be used to make payments under subsection (c)(1)(A).
 
 #### (B) Transfer of funds
 
@@ -58,7 +54,7 @@ An agreement entered into under this section shall apply to weeks of unemploymen
 
 &emsp;(1) beginning after the date on which such agreement is entered into; and
 
-&emsp;(2) ending on or before March 14, 2021.
+&emsp;(2) ending on or before September 6, 2021.
 
 #### (f) Fraud and overpayments
 
@@ -68,7 +64,9 @@ The provisions of section 9025(e) of this title shall apply with respect to comp
 
 For purposes of this section, the terms "regular compensation", "State", "State agency", "State law", and "week" have the respective meanings given such terms under section 205 of the Federal-State Extended Unemployment Compensation Act of 1970 (26 U.S.C. 3304 note).
 
-(Pub. L. 116–136, div. A, title II, §2105, Mar. 27, 2020, 134 Stat. 321; Pub. L. 116–260, div. N, title II, §204, Dec. 27, 2020, 134 Stat. 1953.)
+(Pub. L. 116–136, div. A, title II, §2105, Mar. 27, 2020, 134 Stat. 321; Pub. L. 116–260, div. N, title II, §204, Dec. 27, 2020, 134 Stat. 1953; Pub. L. 117–2, title IX, §9014, Mar. 11, 2021, 135 Stat. 119.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -78,11 +76,21 @@ Section 205 of the Federal-State Extended Unemployment Compensation Act of 1970,
 
 #### Amendments
 
+<b>2021</b>—Subsec. (c)(3). Pub. L. 117–2, §9014(b), struck out par. (3). Text read as follows: "With respect to compensation paid to individuals for weeks of unemployment ending after December 31, 2020, paragraph (1) shall be applied by substituting '50 percent' for '100 percent'."
+
+Subsec. (e)(2). Pub. L. 117–2, §9014(a), substituted "September 6, 2021" for "March 14, 2021".
+
 <b>2020</b>—Subsec. (c)(1). Pub. L. 116–260, §204(1)(A), substituted "Except as provided in paragraph (3), there shall be paid" for "There shall be paid" in introductory provisions.
 
 Subsec. (c)(3). Pub. L. 116–260, §204(1)(B), added par. (3).
 
 Subsec. (e)(2). Pub. L. 116–260, §204(2), substituted "March 14, 2021" for "December 31, 2020".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Full Reimbursement
+
+Pub. L. 117–2, title IX, §9014(b), Mar. 11, 2021, 135 Stat. 119, provided that: "Paragraph (3) of section 2105(c) of such Act (15 U.S.C. 9024(c)) is repealed and such section shall be applied to weeks of unemployment to which an agreement under section 2105 of such Act applies as if such paragraph had not been enacted. In implementing the preceding sentence, a State may, if necessary, reenter the agreement with the Secretary under section 2105 of such Act, and retroactively pay for the first week of regular compensation without a waiting week consistent with State law (including a waiver of State law) and receive full reimbursement for weeks of unemployment that ended after December 31, 2020."
 
 <i><sup>1</sup></i><i> So in original. See References in Text note below.</i>
 

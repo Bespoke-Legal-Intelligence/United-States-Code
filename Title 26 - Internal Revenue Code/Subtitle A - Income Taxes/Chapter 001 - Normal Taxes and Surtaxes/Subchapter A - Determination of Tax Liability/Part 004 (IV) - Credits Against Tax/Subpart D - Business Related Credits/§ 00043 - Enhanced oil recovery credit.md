@@ -78,7 +78,7 @@ For purposes of this section—
 
 #### (B) Certification
 
-&emsp;&emsp;A project shall not be treated as a qualified enhanced oil recovery project unless the operator submits to the Secretary (at such times and in such manner as the Secretary provides) a certification from a petroleumengineer that the project meets (and continues to meet) the requirements of subparagraph (A).
+&emsp;&emsp;A project shall not be treated as a qualified enhanced oil recovery project unless the operator submits to the Secretary (at such times and in such manner as the Secretary provides) a certification from a petroleum engineer that the project meets (and continues to meet) the requirements of subparagraph (A).
 
 #### (3) At-risk limitation
 
@@ -134,6 +134,8 @@ For purposes of this section—
 
 <i>For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 43 was renumbered section 32 of this title.
@@ -148,7 +150,7 @@ Subsec. (c)(5). Pub. L. 109–135 reenacted heading without change and amended t
 
 &emsp;"(1)
 
-In general.—The term 'Alaska natural gas' means natural gas entering the Alaska natural gas pipeline (as defined in section 168(i)(16) (determined without regard to subparagraph (B) thereof)) which is produced from a well—
+In general.—The term 'Alaska natural gas' means natural gas entering the Alaska natural gaspipeline (as defined in section 168(i)(16) (determined without regard to subparagraph (B) thereof)) which is produced from a well—
 
 &emsp;&emsp;"(A) located in the area of the State of Alaska lying north of 64 degrees North latitude, determined by excluding the area of the Alaska National Wildlife Refuge (including the continental shelf thereof within the meaning of section 638(1)), and
 
@@ -163,6 +165,8 @@ Natural gas.—The term 'natural gas' has the meaning given such term by section
 Subsec. (c)(5). Pub. L. 108–357, §707(b), added par. (5).
 
 <b>2000</b>—Subsec. (c)(1)(C). Pub. L. 106–554 inserted "(as defined in section 193(b))" after "expenses" and struck out "under section 193" after "allowable".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2005 Amendment
 
@@ -182,7 +186,7 @@ Pub. L. 101–508, title XI, §11511(d), Nov. 5, 1990, 104 Stat. 1388–485, pro
 
 "(1)
 
-In general.—The amendments made by this section \[enacting this section and amending sections 38,39, 196, and 6501 of this title\] shall apply to costs paid or incurred in taxable years beginning after December 31, 1990.
+In general.—The amendments made by this section \[enacting this section and amending sections 38, 39, 196, and 6501 of this title\] shall apply to costs paid or incurred in taxable years beginning after December 31, 1990.
 
 "(2)
 
@@ -191,6 +195,8 @@ Special rule for significant expansion of projects.—For purposes of section 43
 #### Inflation Adjusted Items for Certain Years
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+<b>2021</b>—Internal Revenue Notice 2021–47.
 
 <b>2020</b>—Internal Revenue Notice 2020–31.
 

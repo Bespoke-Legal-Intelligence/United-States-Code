@@ -60,7 +60,7 @@ Reinvestigation or Readjudication of Certain Individuals.—(1) The Secretary of
 
 (4) In this subsection:
 
-&emsp;(A) The term "sexual assault" includes rape, sexual assault, forcible sodomy, aggravated sexual contact, abusive sexual contact, and attempts to commit such offenses, as thoseterms are defined in chapter 47 of this title (the Uniform Code of Military Justice).
+&emsp;(A) The term "sexual assault" includes rape, sexual assault, forcible sodomy, aggravated sexual contact, abusive sexual contact, and attempts to commit such offenses, as those terms are defined in chapter 47 of this title (the Uniform Code of Military Justice).
 
 &emsp;(B) The term "sexual harassment" has the meaning given that term in section 1561 of this title.
 
@@ -84,6 +84,8 @@ Use of Appropriated Funds.—The Secretary of Defense may use funds authorized t
 
 (Added Pub. L. 106–398, §1 \[\[div. A\], title X, §1072(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–276; amended Pub. L. 111–383, div. A, title III, §351(a), Jan. 7, 2011, 124 Stat. 4192; Pub. L. 112–239, div. A, title X, §1076(e)(1), Jan. 2, 2013, 126 Stat. 1951; Pub. L. 115–232, div. A, title V, §542, Aug. 13, 2018, 132 Stat. 1762; Pub. L. 116–283, div. A, title X, §1081(a)(29), Jan. 1, 2021, 134 Stat. 3872.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Subsec. (c)(2). Pub. L. 116–283 substituted "is an individual" for "in an individual" in introductory provisions.
@@ -95,6 +97,8 @@ Use of Appropriated Funds.—The Secretary of Defense may use funds authorized t
 <b>2011</b>—Subsec. (a). Pub. L. 111–383, §351(a)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "The Secretary of Defense shall prescribe a process for expediting the completion of the background investigations necessary for granting security clearances for Department of Defense personnel and Department of Defense contractor personnel who are engaged in sensitive duties that are critical to the national security."
 
 Subsec. (f). Pub. L. 111–383, §351(a)(2), added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 
@@ -154,7 +158,7 @@ Commencement of activities.—The Director may not commence carrying out any act
 
 &emsp;"(2)
 
-Legal and reporting obligations.—The Director shall ensure that no activity carried out under subsection (a) obligates a State, local, or tribal entity to any additional legal or reporting obligation to the Defense Counterintelligence and Security Agency.
+Legal and reporting obligations.—The Director shall ensure that no activity carried out under subsection (a) obligates a State, local, or tribal entity to any additional legal or reporting obligation tothe Defense Counterintelligence and Security Agency.
 
 &emsp;"(3)
 
@@ -162,7 +166,7 @@ Scope.—No activity may be carried out under subsection (a) that applies to any
 
 &emsp;"(4)
 
-Consistency with access provided.—The Director shall ensure that the activities carried outunder subsection (a) are carried out in a manner that is consistent with the access provided by Federal law enforcement entities to the Defense Counterintelligence and Security Agency.
+Consistency with access provided.—The Director shall ensure that the activities carried out under subsection (a) are carried out in a manner that is consistent with the access provided by Federal law enforcement entities to the Defense Counterintelligence and Security Agency.
 
 "(d)
 
@@ -368,7 +372,7 @@ Report required.—Not later than 90 days after the date of the enactment of thi
 
 &emsp;&emsp;"(B) A plan to provide the Government with an enhanced risk management model that reduces the gaps in coverage perpetuated by the current time-based periodic reinvestigations model, particularly in light of the increasing use of continuous background evaluations of personnel referred to in subparagraph (A).
 
-&emsp;&emsp;"(C) A plan for expanding continuous background vetting capabilities, such as the InstallationMatching Engine for Security and Analysis, to the broader population, including those at the lowest tiers and levels of access, which plan shall include details to ensure that all individuals credentialed for physical access to Department of Defense facilities and installations are vetted to the same level of fitness determinations and subject to appropriate continuous vetting.
+&emsp;&emsp;"(C) A plan for expanding continuous background vetting capabilities, such as the Installation Matching Engine for Security and Analysis, to the broader population, including those at the lowest tiers and levels of access, which plan shall include details to ensure that all individuals credentialed for physical access to Department of Defense facilities and installations are vetted to the same level of fitness determinations and subject to appropriate continuous vetting.
 
 &emsp;&emsp;"(D) A plan to fully integrate and incorporate insider threat data, tools, and capabilities into the new end-to-end vetting processes and supporting information technology established by the Defense Security Service \[now Defense Counterintelligence and Security Agency\] to ensure a holistic and transformational approach to detecting, deterring, and mitigating threats posed by trusted insiders.
 
@@ -554,11 +558,11 @@ Reciprocity directive.—Not later than 180 days after the date of the enactment
 
 &emsp;"(3)
 
-Implementation directives.—The Secretary, working with the Security Executive Agent and the Suitability Executive Agent, shall jointly develop and issue directives on—
+Implementation directives.—The Secretary, working with the Security Executive Agent and theSuitability Executive Agent, shall jointly develop and issue directives on—
 
 &emsp;&emsp;"(A) completing the implementation of the National Security Sensitive Position designations required by section 1400 of title 5, Code of Federal Regulations; and
 
-&emsp;&emsp;"(B) aligning to the maximum practical extent the investigative and adjudicative standards and criteria for positions requiring access to classifiedinformation and national security sensitive positions not requiring access to classified information to ensure effective and efficient reciprocity and consistent designation of like-positions across the Federal Government.
+&emsp;&emsp;"(B) aligning to the maximum practical extent the investigative and adjudicative standards and criteria for positions requiring access to classified information and national security sensitive positions not requiring access to classified information to ensure effective and efficient reciprocity and consistent designation of like-positions across the Federal Government.
 
 "(e)
 
@@ -644,7 +648,7 @@ Security Enterprise Management.—Not later than 180 days after the date of enac
 
 &emsp;&emsp;"(C) to define and implement data standards to support common electronic access to critical Government records; and
 
-&emsp;&emsp;"(D) to reduce the burden placed on Government data providers by centralizing requests for records access and ensuring proper sharing of the data with appropriate investigative and adjudicative elements.
+&emsp;&emsp;"(D) to reduce the burden placed on Government data providers by centralizing requests for recordsaccess and ensuring proper sharing of the data with appropriate investigative and adjudicative elements.
 
 "(d)
 
@@ -782,7 +786,7 @@ Definitions.—In this section—
 
 &emsp;"(2) the term 'Performance Accountability Council' means the Suitability and Security Clearance Performance Accountability Council established under Executive Order 13467 (73 Fed. Reg. 38103) \[50 U.S.C. 3161 note\], or any successor thereto."
 
-\[Pub. L. 114–328, div. A, title X, §1081(c), Dec. 23, 2016, 130 Stat. 2419, provided that the amendment made bysection 1081(c)(7) to section 1086 of Pub. L. 114–92, set out above, is effective as of Nov. 25, 2015, and as if included in Pub. L. 114–92 as enacted.\]
+\[Pub. L. 114–328, div. A, title X, §1081(c), Dec. 23, 2016, 130 Stat. 2419, provided that the amendment made by section 1081(c)(7) to section 1086 of Pub. L. 114–92, set out above, is effective as of Nov. 25, 2015, and as if included in Pub. L. 114–92 as enacted.\]
 
 #### Personnel Security
 
@@ -958,7 +962,7 @@ Pub. L. 113–66, div. A, title XVII, §1747, Dec. 26, 2013, 127 Stat. 983, prov
 
 "(a)
 
-Notification of Policy.—Whenever a member of the Armed Forces is required to complete Standard Form 86 of the Questionnaire for National Security Positions in connection with an application, investigation, or reinvestigation for a security clearance, the member shall be notified of the policy described in subsection (b) regarding question 21 of such form.
+Notification of Policy.—Whenever a member of the Armed Forces is required to complete StandardForm 86 of the Questionnaire for National Security Positions in connection with an application, investigation, or reinvestigation for a security clearance, the member shall be notified of the policy described in subsection (b) regarding question 21 of such form.
 
 "(b)
 
@@ -971,6 +975,8 @@ Policy Described.—The policy referred to in subsection (a) is the policy of in
 #### Deadline for Prescribing Process for Prioritizing Background Investigations for Security Clearances
 
 Pub. L. 106–398, §1 \[\[div. A\], title X, §1072(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–277, provided that the process required by subsec. (a) of this section for expediting the completion of security clearance background investigations was to be prescribed by Jan. 1, 2001.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13869. Transferring Responsibility for Background Investigations to the Department of Defense
 

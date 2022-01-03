@@ -6,6 +6,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior chapter 949, consisting of sections 9771 to 9783, related to real property, prior to renumbering as chapter 979 of this title.

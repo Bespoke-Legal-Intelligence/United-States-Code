@@ -28,7 +28,7 @@
 
 &emsp;(13) such other basic branches as the Secretary considers necessary.
 
-(b) The Secretary may discontinue or consolidate basic branches of the Army for the duration of any war, or of any national emergency declared by Congress.
+(b) The Secretary may discontinue or consolidate basic branches of the Army for the durationof any war, or of any national emergency declared by Congress.
 
 (c) The Secretary may not assign to a basic branch any commissioned officer appointed in a special branch.
 
@@ -62,11 +62,15 @@ In subsection (b), the words "enumerated in this subsection" are omitted as surp
 
 In subsection (c), the words "and commissioned" are omitted as covered by the word "appointed". The words "specified in subsection (b) of this section" are omitted as surplusage. The word "commissioned" is inserted before the word "officer", for clarity.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 3063 of this title as this section.
 
 <b>2017</b>—Subsec. (a)(13), (14). Pub. L. 115–91, which directed the redesignation of par. (13) as (14) and the addition of a new par. (13) "Explosive Ordnance Disposal Corps; and", was not executed pursuant to section 582(b) of Pub. L. 115–91, set out as an Effective Date and Condition on Execution of 2017 Amendment note below.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

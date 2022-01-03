@@ -2,7 +2,7 @@
 
 #### (a) Requirements
 
-(1) The Secretary of Agriculture, in consultation with the Administrator of the Environmental Protection Agency, shall require certified applicators of restricted use pesticides (of the type described under section 136a(d)(1)(C) of this title) to maintain records comparable to records maintained by commercial applicators of pesticides in each State. If there is no State requirement for the maintenance of records, such applicator shall maintain records that contain the product name, amount, approximate date of application, and location of applicationof each such pesticide used for a 2-year period after such use.
+(1) The Secretary of Agriculture, in consultation with the Administrator of the Environmental Protection Agency, shall require certified applicators of restricted use pesticides (of the type described under section 136a(d)(1)(C) of this title) to maintain records comparable to records maintained by commercial applicators of pesticides in each State. If there is no State requirement for the maintenance of records, such applicator shall maintain records that contain the product name, amount, approximate date of application, and location of application of each such pesticide used for a 2-year period after such use.
 
 (2) Within 30 days of a pesticide application, a commercial certified applicator shall provide a copy of records maintained under paragraph (1) to the person for whom such application was provided.
 
@@ -35,6 +35,8 @@ The Secretary of Agriculture and the Administrator of the Environmental Protecti
 The Secretary of Agriculture and the Administrator of the Environmental Protection Agency shall promulgate regulations on their respective areas of responsibility implementing this section within 180 days after November 28, 1990.
 
 (Pub. L. 101–624, title XIV, §1491, Nov. 28, 1990, 104 Stat. 3627; Pub. L. 102–237, title X, §1006(d), Dec. 13, 1991, 105 Stat. 1896.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

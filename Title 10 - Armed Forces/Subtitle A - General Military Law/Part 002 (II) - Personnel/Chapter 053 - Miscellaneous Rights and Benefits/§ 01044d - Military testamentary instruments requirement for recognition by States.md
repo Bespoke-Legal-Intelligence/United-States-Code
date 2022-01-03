@@ -84,6 +84,8 @@ Definitions.—In this section:
 
 (Added Pub. L. 106–398, §1 \[\[div. A\], title V, §551(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–123; amended Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 114–328, div. A, title V, §523(a), Dec. 23, 2016, 130 Stat. 2116.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Subsec. (c)(2). Pub. L. 114–328, §523(a)(1), added par. (2) and struck out former par. (2) which read as follows: "the instrument is executed in the presence of a military legal assistance counsel acting as presiding attorney;".
@@ -91,6 +93,8 @@ Definitions.—In this section:
 Subsec. (c)(3). Pub. L. 114–328, §523(a)(2), substituted "person notarizing the instrument in accordance with paragraph (2)" for "presiding attorney".
 
 <b>2002</b>—Subsec. (f). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

@@ -64,7 +64,9 @@ In subsections (a)(1), before clause (A), the words "Beginning at a time establi
 
 In subsection (a)(2)(B), the word "automobile" is substituted for "vehicle" for consistency in the revised title.
 
-In subsections (b), before clause (1), the words "Beginning at a time established by the Secretary that is not sooner than the 3d month before the establishment or designation of" are substituted for "Beginning at a time determined by the Secretary, but no earlier than3 months prior to the establishment of" for clarity and consistency with the source provisions restated in section 30502 of the revised title. In clauses (1), (3), and (4), the words "each automobile" are substituted for "each vehicle", and the words "the automobile" are substituted for "the vehicle", for consistency in the revised title.
+In subsections (b), before clause (1), the words "Beginning at a time established by the Secretary that is not sooner than the 3d month before the establishment or designation of" are substituted for "Beginning at a time determined by the Secretary, but no earlier than 3 months prior to the establishment of" for clarity and consistency with the source provisions restated in section 30502 of the revised title. In clauses (1), (3), and (4), the words "each automobile" are substituted for "each vehicle", and the words "the automobile" are substituted for "the vehicle", for consistency in the revised title.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -75,6 +77,8 @@ In subsections (b), before clause (1), the words "Beginning at a time establishe
 Pub. L. 104–152, §2(c), as amended by Pub. L. 105–102, substituted "National Motor Vehicle Title Information System" for "National Automobile Title Information System".
 
 Subsecs. (b), (c). Pub. L. 104–152, §3(a), substituted "Attorney General" for "Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1997 Amendment
 

@@ -2,7 +2,7 @@
 
 Any person who has qualified for retired pay under chapter 1223 of this title may, with his consent and by order of the Secretary concerned, be retained on active duty, or in service in a reserve component other than that listed in section 12732(b) of this title. A member so retained shall be credited with that service for all purposes.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 29, §676; renumbered §12308 and amended Pub. L. 103–337, div. A,title XVI, §§1662(e)(2), 1675(c)(6), Oct. 5, 1994, 108 Stat. 2992, 3017.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 29, §676; renumbered §12308 and amended Pub. L. 103–337, div. A, title XVI, §§1662(e)(2), 1675(c)(6), Oct. 5, 1994, 108 Stat. 2992, 3017.)
 
 Historical and Revision Notes
 
@@ -22,11 +22,15 @@ June 29, 1948, ch. 708, §302(e), 62 Stat. 1088.
 
 The words "active duty, or in service, in a reserve component other than that listed in section 1332(b) of this title" are inserted to reflect the words "Federal service", as used in Title III of the source statute. The words "that service for all purposes" are substituted for 10:1036a(e) (last 11 words) and 34:440i(e) (last 11 words). The words "upon attaining the age of sixty years" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–337, §1675(c)(6), substituted "1223" for "67" and "12732(b)" for "1332(b)".
 
 Pub. L. 103–337, §1662(e)(2), renumbered section 676 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

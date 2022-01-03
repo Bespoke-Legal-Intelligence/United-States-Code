@@ -28,7 +28,7 @@ In this subchapter:
 
 &emsp;&emsp;(E) providing training or technical assistance for an individual with a developmental disability, or, where appropriate, a family member, guardian, advocate, or authorized representative of an individual with a developmental disability; and
 
-&emsp;&emsp;(F) providing training or technical assistance for professionals (including individuals providing education and rehabilitation services), employers, or other individuals who provide services to, employ, or are otherwise substantially involved in the major life functions of, an individual with developmental disabilities.
+&emsp;&emsp;(F) providing training or technical assistance for professionals (including individualsproviding education and rehabilitation services), employers, or other individuals who provide services to, employ, or are otherwise substantially involved in the major life functions of, an individual with developmental disabilities.
 
 #### (5) Center
 
@@ -118,7 +118,7 @@ In this subchapter:
 
 #### (15) Inclusion
 
-&emsp;The term "inclusion", used with respect to individuals with developmental disabilities,means the acceptance and encouragement of the presence and participation of individuals with developmental disabilities, by individuals without disabilities, in social, educational, work, and community activities, that enables individuals with developmental disabilities to—
+&emsp;The term "inclusion", used with respect to individuals with developmental disabilities, means the acceptance and encouragement of the presence and participation of individuals with developmental disabilities, by individuals without disabilities, in social, educational, work, and community activities, that enables individuals with developmental disabilities to—
 
 &emsp;&emsp;(A) have friendships and relationships with individuals and families of their own choice;
 

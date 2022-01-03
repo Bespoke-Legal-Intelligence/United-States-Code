@@ -42,7 +42,7 @@ Tenants seeking to purchase eligible low-income housing in accordance with secti
 
 #### (4) Use of proceeds from sales to eligible families
 
-&emsp;The entity that transfers ownership interests in, or shares representing, units to eligible families, or another entity specified in the approved application, may use 50 percent of the proceeds, if any, from the initial sale for costs of the homeownership program, including improvements to the project, operating and replacement reserves for the project, additional homeownership opportunities in the project, and other project-related activities approved by the Secretary. The remaining 50 percent of such proceeds shall be returned to the Secretary for use under section 4110 of this title, subject to availability under appropriations Acts. Such entity shall keep, and make available to the Secretary, all records necessary to calculate accurately payments due the Secretary under this paragraph.
+&emsp;The entity that transfers ownership interests in, or shares representing, units to eligible families, or another entity specified in the approved application, may use 50 percent of the proceeds, if any, from the initial sale for costs of the homeownership program, including improvements to the project, operating and replacement reserves for the project, additional homeownership opportunities in the project, and other project-related activities approved by the Secretary. The remaining 50 percent of such proceeds shall be returned tothe Secretary for use under section 4110 of this title, subject to availability under appropriations Acts. Such entity shall keep, and make available to the Secretary, all records necessary to calculate accurately payments due the Secretary under this paragraph.
 
 #### (5) Restrictions on resale by homeowners
 
@@ -74,7 +74,7 @@ Tenants seeking to purchase eligible low-income housing in accordance with secti
 
 #### (C) 6–20 years
 
-&emsp;&emsp;In the case of a transfer during the period beginning 6 years after the acquisition andending 20 years after the acquisition, the homeownership program shall provide for the recapture by the Secretary or the program of an amount equal to the amount of the declining balance on the note described in subparagraph (A)(iii).
+&emsp;&emsp;In the case of a transfer during the period beginning 6 years after the acquisition and ending 20 years after the acquisition, the homeownership program shall provide for the recapture by the Secretary or the program of an amount equal to the amount of the declining balance on the note described in subparagraph (A)(iii).
 
 #### (D) Use of recaptured funds
 
@@ -126,7 +126,7 @@ Tenants seeking to purchase eligible low-income housing in accordance with secti
 
 #### Amendments
 
-<b>1998</b>—Subsec. (b)(6)(B). Pub. L. 105–276, which directed the substitution of "Any system for preferences established under section 1437f(d)(1)(A) or 1437f(o)(6)(A)" for "The requirement for giving preferences to certain categories of eligible families under sections 1437f(d)(1)(A) and 1437f(o)(3)" in second sentence, was executed bymaking the substitution for text which included the word "preference" rather than "preferences" to reflect the probable intent of Congress.
+<b>1998</b>—Subsec. (b)(6)(B). Pub. L. 105–276, which directed the substitution of "Any system for preferences established under section 1437f(d)(1)(A) or 1437f(o)(6)(A)" for "The requirement for giving preferences to certain categories of eligible families under sections 1437f(d)(1)(A) and 1437f(o)(3)" in second sentence, was executed by making the substitution for text which included the word "preference" rather than "preferences" to reflect the probable intent of Congress.
 
 <b>1992</b>—Subsec. (b)(2). Pub. L. 102–550, §309(1), inserted "and limitation on conditions of approval" in heading and inserted at end of text "The Secretary may not require the prepayment of the mortgage on eligible low-income housing for the approval of a plan of action involving a homeownership program for the housing."
 

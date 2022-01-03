@@ -2,7 +2,7 @@
 
 #### (a) Application to existing agreements of undertakings required of new agreements after March 10, 1978
 
-The President shall initiate a program immediately to renegotiate agreements for cooperation in effect on March 10, 1978, or otherwise to obtain the agreement of parties to such agreements for cooperation to the undertakings thatwould be required for new agreements under the 1954 Act. To the extent that an agreement for cooperation in effect on March 10, 1978, with a cooperating party contains provisions equivalent to any or all of the criteria set forth in section 127 of the 1954 Act \[42 U.S.C. 2156\] with respect to materials and equipment transferred pursuant thereto or with respect to any special nuclear material used in or produced through the use of any such material or equipment, any renegotiated agreement with that cooperating party shall continue to contain an equivalent provision with respect to such transferred materials and equipment and such special nuclear material. To the extent that an agreement for cooperation in effect on March 10, 1978, with a cooperating party does not contain provisions with respect to any nuclear materials and equipment which have previously been transferred under an agreement for cooperation with the United States and which are under the jurisdiction or control of the cooperating party and with respect to any special nuclear material which is used in or produced through the use thereof and which is under the jurisdiction or control of the cooperating party, which are equivalent to any or all of those required for new and amended agreements for cooperation under section 123 a. of the 1954 Act \[42 U.S.C. 2153(a)\], the President shall vigorously seek to obtain the application of such provisions with respect to such nuclear materials and equipment and such special nuclear material. Nothing in this Act or in the 1954 Act shall be deemed to relinquish any rights which the United States may have under any agreement for cooperation in force on March 10, 1978.
+The President shall initiate a program immediately to renegotiate agreements for cooperation in effect on March 10, 1978, or otherwise to obtain the agreement of parties to such agreements for cooperation to the undertakings that would be required for new agreements under the 1954 Act. To the extent that an agreement for cooperation in effect on March 10, 1978, with a cooperating party contains provisions equivalent to any or all of the criteria set forth in section 127 of the 1954 Act \[42 U.S.C. 2156\] with respect to materials and equipment transferred pursuant thereto or with respect to any special nuclear material used in or produced through the use of any such material or equipment, any renegotiated agreement with that cooperating party shall continue to contain an equivalent provision with respect to such transferred materials and equipment and such special nuclear material. To the extent that an agreement for cooperation in effect on March 10, 1978, with a cooperating party does not contain provisions with respect to any nuclear materials and equipment which have previously been transferred under an agreement for cooperation with the United States and which are under the jurisdiction or control of the cooperating party and with respect to any special nuclear material which is used in or produced through the use thereof and which is under the jurisdiction or control of the cooperating party, which are equivalent to any or all of those required for new and amended agreements for cooperation under section 123 a. of the 1954 Act \[42 U.S.C. 2153(a)\], the President shall vigorously seek to obtain the application of such provisions with respect to such nuclear materials and equipment and such special nuclear material. Nothing in this Act or in the 1954 Act shall be deemed to relinquish any rights which the United States may have under any agreement for cooperation in force on March 10, 1978.
 
 #### (b) Presidential review of export agreement conditions and policy goals
 
@@ -18,6 +18,8 @@ If the Committee on Foreign Relations of the Senate or the Committee on Foreign 
 
 (Pub. L. 95–242, title IV, §404, Mar. 10, 1978, 92 Stat. 147; Pub. L. 103–437, §15(g), Nov. 2, 1994, 108 Stat. 4593.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsec. (a), means the Nuclear Non-Proliferation Act of 1978, Pub. L. 95–242, Mar. 10, 1978, 92 Stat. 120, which is classified principally to chapter 47 (§3201 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3201 of Title 22 and Tables.
@@ -26,11 +28,13 @@ This Act, referred to in subsec. (a), means the Nuclear Non-Proliferation Act of
 
 Section was enacted as part of the Nuclear Non-Proliferation Act of 1978, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
 
-Section 2153b of this title, referred to in subsec. (b), was in the original "section 401", meaning section 401 of Pub. L. 95–242, which amended section 2153 of this title. Section 401 has been translated as section 2153b of this title, which was enacted by section 403 of Pub. L. 95–242, to reflect the probable intent of Congress in view of the reference to the export policy goals which are set forth in section 2153b of this title.
+Section 2153b of this title, referred to in subsec. (b), was in the original "section 401", meaning section 401 of Pub. L. 95–242, which amended section 2153 of this title. Section 401 has been translated as section 2153b of this title, which was enacted by section 403 of Pub. L. 95–242, to reflect the probable intent of Congress inview of the reference to the export policy goals which are set forth in section 2153b of this title.
 
 #### Amendments
 
 <b>1994</b>—Subsec. (d). Pub. L. 103–437 substituted "Foreign Affairs" for "International Relations".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -49,6 +53,8 @@ Pub. L. 96–280, June 18, 1980, 94 Stat. 550, provided that:
 #### Definitions
 
 For definitions of terms used in this section, see section 3203 of Title 22, Foreign Relations and Intercourse.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

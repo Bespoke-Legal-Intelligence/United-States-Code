@@ -116,7 +116,7 @@ The Secretary shall award grants to States in order to assist in supporting the 
 
 #### (F) Statutorily permitted reports of abuse or neglect
 
-&emsp;&emsp;Nothing in this paragraph shall prohibit a grantee or subgrantee from reporting abuse and neglect, as those terms are defined by law, where mandated or expressly permitted by the State or Indian tribe involved.
+&emsp;&emsp;Nothing in this paragraph shall prohibit a grantee or subgrantee from reporting abuse and neglect, as those terms are defined bylaw, where mandated or expressly permitted by the State or Indian tribe involved.
 
 #### (G) Preemption
 
@@ -135,6 +135,8 @@ The Secretary shall award grants to States in order to assist in supporting the 
 Each grantee shall submit an annual performance report to the Secretary at such time as shall be reasonably required by the Secretary. Such performance report shall describe the grantee and subgrantee activities that have been carried out with grant funds made available under subsection (a) or section 10409 of this title, contain an evaluation of the effectiveness of such activities, and provide such additional information as the Secretary may reasonably require.
 
 (Pub. L. 98–457, title III, §306, as added Pub. L. 111–320, title II, §201, Dec. 20, 2010, 124 Stat. 3489.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

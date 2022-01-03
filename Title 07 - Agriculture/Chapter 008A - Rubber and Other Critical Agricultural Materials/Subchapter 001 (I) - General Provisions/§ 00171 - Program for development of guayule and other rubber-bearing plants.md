@@ -6,7 +6,7 @@ The Secretary of Agriculture (hereinafter called the "Secretary") is authorized�
 
 &emsp;(2) To plant, or contract for the planting of, not in excess of five hundred thousand acres of guayule in areas in the Western Hemisphere where the best growth and yields may be expected in order to maintain a nucleus planting of guayule to serve as a domestic source of crude rubber as well as of planting material for use in further expanding guayule planting to meet emergency needs of the United States for crude rubber; to establish and maintain nurseries to provide seedlings for field plants; and to purchase necessary equipment, facilities, land for nurseries and administrative sites and water rights;
 
-&emsp;(3) To acquire by lease, or other agreement, for not exceeding ten years, rights to land for the purpose of making plantings of guayule; to acquire water rights; to erect necessary buildings on leased land where suitable land cannot be purchased; to make surveys, directly or through appropriate Government agencies, of areas in the Western Hemisphere where guayule might be grown; and to establish and maintain records indicating areas to which guayule cultivation could be extended for emergency production;
+&emsp;(3) To acquire by lease, or other agreement, for not exceeding ten years, rights to land for the purpose of making plantings of guayule; to acquire water rights; to erect necessary buildings on leased land where suitable land cannotbe purchased; to make surveys, directly or through appropriate Government agencies, of areas in the Western Hemisphere where guayule might be grown; and to establish and maintain records indicating areas to which guayule cultivation could be extended for emergency production;
 
 &emsp;(4) To construct or operate, or to contract for the operation of, factories for the extraction of rubber from guayule, and from Chrysothamnus, commonly known as rabbit brush; to purchase guayule shrub; and to purchase, operate, and maintain equipment for the harvesting, storing, transporting, and complete processing of guayule, and Chrysothamnus, commonly known as rabbit brush, and to purchase land as sites for processing plants;
 
@@ -22,6 +22,8 @@ The Secretary of Agriculture (hereinafter called the "Secretary") is authorized�
 
 (Mar. 5, 1942, ch. 140, §1, 56 Stat. 126; Oct. 20, 1942, ch. 617, §§1–4, 56 Stat. 796, 797.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1942</b>—Par. (2). Act Oct. 20, 1942, §1, increased acreage from 75,000 to 500,000 and inserted reference to land for administrative sites and water rights.
@@ -31,6 +33,8 @@ Par. (3). Act Oct. 20, 1942, §2, inserted "to acquire water rights; to erect ne
 Par. (4). Act Oct. 20, 1942, §3, inserted "to purchase guayule shrub;".
 
 Par. (8). Act Oct. 20, 1942, §4, substituted "not in excess of five hundred" for "of seventy-five".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Additional Acreage Authorized
 

@@ -36,7 +36,7 @@ As used in this subchapter and in subchapter II:
 
 &emsp;(8) The term "housing" includes manufactured housing and manufactured housing lots and elder cottage housing opportunity units that are small, free-standing, barrier-free, energy-efficient, removable, and designed to be installed adjacent to existing 1- to 4-family dwellings.
 
-&emsp;(9) The term "very low-income families" means low-income families whose incomes do not exceed 50 percent of the median family income for the area, as determined by the Secretary with adjustments for smaller and larger families, except that the Secretary may establish income ceilings higher or lower than 50 percent of the median for the area on the basis of the Secretary's findings that such variations are necessary because of prevailing levels of construction costs or fair market rents, or unusually high or low family incomes.
+&emsp;(9) The term "very low-income families" means low-income families whose incomes donot exceed 50 percent of the median family income for the area, as determined by the Secretary with adjustments for smaller and larger families, except that the Secretary may establish income ceilings higher or lower than 50 percent of the median for the area on the basis of the Secretary's findings that such variations are necessary because of prevailing levels of construction costs or fair market rents, or unusually high or low family incomes.
 
 &emsp;(10) The term "low-income families" means families whose incomes do not exceed 80 percent of the median income for the area, as determined by the Secretary with adjustments for smaller and larger families, except that the Secretary may establish income ceilings higher or lower than 80 percent of the median for the area on the basis of the Secretary's findings that such variations are necessary because of prevailing levels of construction costs or fair market rents, or unusually high or low family incomes.
 
@@ -94,6 +94,8 @@ As used in this subchapter and in subchapter II:
 
 (Pub. L. 101–625, title I, §104, Nov. 28, 1990, 104 Stat. 4085; Pub. L. 102–229, title I, Dec. 12, 1991, 105 Stat. 1709; Pub. L. 101–230, §2, Dec. 12, 1991, 105 Stat. 1720; Pub. L. 102–486, title I, §105(a), Oct. 24, 1992, 106 Stat. 2792; Pub. L. 102–550, title II, §§211(a)(1), 217(a), 218, 219, title IX, §914(a), Oct. 28, 1992, 106 Stat. 3756, 3760, 3761, 3877; Pub. L. 103–233, title II, §201, Apr. 11, 1994, 108 Stat. 363.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in pars. (1), (2), (6), (16), and (21), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079, as amended, known as the Cranston-Gonzalez National Affordable Housing Act. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
@@ -123,6 +125,8 @@ Pub. L. 102–229 struck out "Guam, the Northern Mariana Islands, the Virgin Isl
 Par. (24). Pub. L. 102–230, §2(2), directed the addition of a par. (24) to read as follows: "(24) The term 'insular areas' means Guam, the Northern Mariana Islands, the United States Virgin Islands, and American Samoa." See 1992 Amendment note above.
 
 Pub. L. 102–229 added par. (24) defining "insular area".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

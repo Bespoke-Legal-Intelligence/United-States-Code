@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(vi) section 1343 (relating to wire fraud),
 
-> &emsp;if such violation relates to the sale of assets acquired or held by the the <sup>1</sup> Federal Deposit Insurance Corporation, as conservator or receiver for a financial institution, or any other conservator for a financial institution appointed by the Office of the Comptroller of the Currency or the National Credit Union Administration, as conservator or liquidating agent for a financial institution.
+> &emsp;if such violation relates to the sale of assets acquired or held by the the <sup>1</sup> Federal Deposit Insurance Corporation, as conservator or receiver for a financial institution, or any otherconservator for a financial institution appointed by the Office of the Comptroller of the Currency or the National Credit Union Administration, as conservator or liquidating agent for a financial institution.
 
 &emsp;(E) With respect to an offense listed in subsection (a)(1)(D) committed for the purpose of executing or attempting to execute any scheme or artifice to defraud, or for obtaining money or property by means of false or fraudulent statements, pretenses, representations or promises, the gross receipts of such an offense shall include all property, real or personal, tangible or intangible, which thereby is obtained, directly or indirectly.
 
@@ -50,7 +50,7 @@
 
 &emsp;&emsp;(ii) acquired or maintained by any person with the intent and for the purpose of supporting, planning, conducting, or concealing any Federal crime of terrorism (as defined in section 2332b(g)(5) <sup>2</sup> against the United States, citizens or residents of the United States, or their property;
 
-&emsp;&emsp;(iii) derived from, involved in, or used or intended to be used to commit any Federalcrime of terrorism (as defined in section 2332b(g)(5)) against the United States, citizens or residents of the United States, or their property; or
+&emsp;&emsp;(iii) derived from, involved in, or used or intended to be used to commit any Federal crime of terrorism (as defined in section 2332b(g)(5)) against the United States, citizens or residents of the United States, or their property; or
 
 &emsp;&emsp;(iv) of any individual, entity, or organization engaged in planning or perpetrating any act of international terrorism (as defined in section 2331) against any international organization (as defined in section 209 of the State Department Basic Authorities Act of 1956 (22 U.S.C. 4309(b)) or against any foreign Government.<sup>3</sup> Where the property sought for forfeiture is located beyond the territorial boundaries of the United States, an act in furtherance of such planning or perpetration must have occurred within the jurisdiction of the United States.
 
@@ -150,7 +150,7 @@
 
 &emsp;(C) is made to a country which, if applicable, has been certified under section 481(h) <sup>4</sup> of the Foreign Assistance Act of 1961.
 
-> A decision by the Attorney General or the Secretary of the Treasury pursuant to this paragraph shall not be subject to review. The foreign country shall, in the event of a transfer of property or proceeds of sale of property under this subsection, bear all expenses incurred by the United States in the seizure, maintenance, inventory, storage, forfeiture, and disposition of the property, and all transfer costs. The payment of all such expenses, and the transfer of assets pursuant to this paragraph, shall be upon such terms and conditions as the Attorney General or the Secretary of the Treasury may, in his discretion, set.
+> A decision by the Attorney General or the Secretary of the Treasury pursuant to this paragraph shall not be subject to review. The foreign country shall, in the event of a transfer of property or proceeds of sale of property under this subsection, bear all expenses incurred by the United States in the seizure, maintenance, inventory, storage, forfeiture, and disposition of the property, and all transfer costs. The payment of all such expenses, and the transfer of assets pursuant to this paragraph, shall be uponsuch terms and conditions as the Attorney General or the Secretary of the Treasury may, in his discretion, set.
 
 (2) The provisions of this section shall not be construed as limiting or superseding any other authority of the United States to provide assistance to a foreign country in obtaining property related to a crime committed in the foreign country, including property which is sought as evidence of a crime committed in the foreign country.
 
@@ -226,7 +226,7 @@ Exception.—The foreign financial institution (as defined in section 984(c)(2)(
 
 The Controlled Substances Act, referred to in subsecs. (a)(1)(B)(i), (b)(4)(A), and (k)(1)(A), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
-Section 104(a) of the North Korea Sanctions and Policy Enhancement Act of 2016, referred to in subsec.\(a)(1)(I), is classified to section 9214(a) of Title 22, Foreign Relations and Intercourse.
+Section 104(a) of the North Korea Sanctions and Policy Enhancement Act of 2016, referred to in subsec. (a)(1)(I), is classified to section 9214(a) of Title 22, Foreign Relations and Intercourse.
 
 The Federal Rules of Criminal Procedure, referred to in subsec. (b)(2), (3), are set out in the Appendix to this title.
 
@@ -296,7 +296,7 @@ Subsec. (b). Pub. L. 106–185, §5(a), amended subsec. (b) generally. Prior to 
 
 &emsp;"(A) the seizure is pursuant to a lawful arrest or search; or
 
-&emsp;"(B) the Attorney General, the Secretary of the Treasury, or the Postal Service, as the case may be,has obtained a warrant for such seizure pursuant to the Federal Rules of Criminal Procedure, in which event proceedings under subsection (d) of this section shall be instituted promptly."
+&emsp;"(B) the Attorney General, the Secretary of the Treasury, or the Postal Service, as the case may be, has obtained a warrant for such seizure pursuant to the Federal Rules of Criminal Procedure, in which event proceedings under subsection (d) of this section shall be instituted promptly."
 
 Subsec. (e)(6). Pub. L. 106–185, §6, added par. (6) and struck out former par. (6) which read as follows: "in the case of property referred to in subsection (a)(1)(C), restore forfeited property to any victim of an offense described in subsection (a)(1)(C); or".
 
@@ -394,7 +394,7 @@ Pub. L. 100–690, title VI, §6181, Nov. 18, 1988, 102 Stat. 4354, provided tha
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–570, title I, §1351, Oct. 27, 1986, 100 Stat. 3207–18, provided that: "This subtitle \[subtitle H (§§1351–1367) of title I of Pub. L. 99–570, enacting this section, sections 982, 1956, and 1957 of this title and section 5324 of Title 31, Money and Finance, amending sections 1952, 1961, and 2516 of this title, sections 1464, 1730, 1786, 1817, 1818, 3403, and 3413 of Title 12, Banks and Banking, and sections 5312, 5316 to 5318, 5321, and 5322 of Title 31, and enacting provisions set out as notes under this section, sections 1464 and 1730 of Title 12, and sections 5315 to 5317, 5321, and 5324 of Title 31\] may be cited as the 'Money Laundering Control Act of 1986'."
+Pub. L. 99–570, title I, §1351, Oct. 27, 1986, 100 Stat. 3207–18, provided that: "This subtitle \[subtitle H\(§§1351–1367) of title I of Pub. L. 99–570, enacting this section, sections 982, 1956, and 1957 of this title and section 5324 of Title 31, Money and Finance, amending sections 1952, 1961, and 2516 of this title, sections 1464, 1730, 1786, 1817, 1818, 3403, and 3413 of Title 12, Banks and Banking, and sections 5312, 5316 to 5318, 5321, and 5322 of Title 31, and enacting provisions set out as notes under this section, sections 1464 and 1730 of Title 12, and sections 5315 to 5317, 5321, and 5324 of Title 31\] may be cited as the 'Money Laundering Control Act of 1986'."
 
 #### Severability
 

@@ -32,7 +32,7 @@ The CASMIRC shall perform such duties as the Attorney General determines appropr
 
 #### (1) Selection of members of the CASMIRC and participating State and local law enforcement personnel
 
-&emsp;The Director of the Federal Bureau of Investigation shall appoint the members of the CASMIRC. The CASMIRC shall be staffed with Federal Bureau of Investigation personnel and other necessary personnel selected for their expertise that would enable them to assist in the research, data collection, and analysis, and provision of investigative support in child abduction, mysterious disappearances of children, child homicide and serial murder investigations. The Director may, with concurrence of the appropriate State or local agency, also appoint State and local law enforcement personnel to work with the CASMIRC.
+&emsp;The Director of the Federal Bureau of Investigation shall appoint the members of the CASMIRC. The CASMIRC shall be staffed with Federal Bureau of Investigation personnel and other necessary personnel selected for their expertise that would enable them to assist in the research, data collection, and analysis, and provision of investigative support in childabduction, mysterious disappearances of children, child homicide and serial murder investigations. The Director may, with concurrence of the appropriate State or local agency, also appoint State and local law enforcement personnel to work with the CASMIRC.
 
 #### (2) Status
 

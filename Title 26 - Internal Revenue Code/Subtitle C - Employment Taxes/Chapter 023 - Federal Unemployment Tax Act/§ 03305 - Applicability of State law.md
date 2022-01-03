@@ -20,11 +20,11 @@ No person shall be relieved from compliance with a State unemployment compensati
 
 #### (f) American vessels
 
-The legislature of any State in which a person maintains the operating office, from which the operations of an American vessel operating on navigable waters within or within and without the United States are ordinarily and regularly supervised, managed, directed and controlled, may require such person and the officers and members of the crew of such vessel to make contributions to its unemployment fund under its State unemployment compensation law approved by the Secretary of Labor under section 3304 and otherwise to comply with its unemployment compensation law with respect to the service performed by an officer or member of the crew on or in connection with such vessel to the same extent and with the same effect as though such service was performed entirely within such State. Such person and the officers and members of the crew of such vessel shall not be required to make contributions, with respect to such service, to the unemployment fund of any other State. The permission granted by this subsection is subject to the condition that such service shall be treated, for purposes of wage credits given employees, like other service subject to such State unemployment compensation law performed for such person in such State, and also subject to the same limitation, with respect to contributions required from such person and from the officers and members of the crew of such vessel, as is imposed by the second sentence (other than clause (B) thereof) of subsection (b) with respect to contributions required from instrumentalities of the United States and from individuals in their employ.
+The legislature of any State in which a person maintains the operating office, from which the operations of an American vessel operating on navigable waters within or within and without the United States are ordinarily and regularly supervised, managed, directed and controlled, may require such person and the officers and members of the crew of such vessel to make contributions to its unemployment fund under its State unemployment compensation law approved by the Secretary of Labor under section 3304 and otherwise to comply with its unemployment compensation law with respect to the service performed by an officer or member of the crew on or in connection with such vessel to the same extent and with the same effect as though such service was performed entirely within such State. Such person and the officers and members of the crew of such vessel shall not be required to make contributions, with respect to such service, to the unemployment fund of any other State. The permission granted by this subsection is subject to the condition that such service shall be treated, for purposes of wage credits given employees, like other service subject to such State unemployment compensation law performed for such person in such State, and also subject to the same limitation, with respectto contributions required from such person and from the officers and members of the crew of such vessel, as is imposed by the second sentence (other than clause (B) thereof) of subsection (b) with respect to contributions required from instrumentalities of the United States and from individuals in their employ.
 
 #### (g) Vessels operated by general agents of United States
 
-The permission granted by subsection (f) shall apply in the same manner and under the sameconditions (including the obligation to comply with all requirements of State unemployment compensation laws) to general agents of the Secretary of Transportation with respect to service performed by officers and members of the crew on or in connection with American vessels—
+The permission granted by subsection (f) shall apply in the same manner and under the same conditions (including the obligation to comply with all requirements of State unemployment compensation laws) to general agents of the Secretary of Transportation with respect to service performed by officers and members of the crew on or in connection with American vessels—
 
 &emsp;(1) owned by or bareboat chartered to the United States, and
 
@@ -50,6 +50,8 @@ Any person required, pursuant to the permission granted by this section, to make
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 445; Sept. 1, 1954, ch. 1212, §4(c), 68 Stat. 1135; Pub. L. 86–778, title V, §531(a), (b), Sept. 13, 1960, 74 Stat. 983; Pub. L. 91–373, title I, §123, Aug. 10, 1970, 84 Stat. 702; Pub. L. 94–455, title XIX, §§1903(a)(15), 1906(b)(13)(C), Oct. 4, 1976, 90 Stat. 1809, 1834; Pub. L. 114–92, div. C, title XXXV, §3503, Nov. 25, 2015, 129 Stat. 1219.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsecs. (g), (h)(2), (i). Pub. L. 114–92 substituted "Secretary of Transportation" for "Secretary of Commerce".
@@ -67,6 +69,8 @@ Subsec. (j). Pub. L. 94–455, §§1903(a)(15)(C), 1906(b)(13)(C), struck out "a
 Subsec. (g). Pub. L. 86–778, §531(b), substituted "neither wholly nor partially" for "not wholly".
 
 <b>1954</b>—Subsec. (e). Act Sept. 1, 1954, repealed subsec. (e) which related to the Bonneville Power Administrator.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1960 Amendment
 

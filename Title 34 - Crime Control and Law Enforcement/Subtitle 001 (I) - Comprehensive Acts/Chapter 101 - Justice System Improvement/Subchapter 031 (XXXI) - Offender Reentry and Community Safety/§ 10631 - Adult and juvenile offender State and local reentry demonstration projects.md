@@ -132,7 +132,7 @@ Funds for the juvenile offender reentry demonstration projects may be expended f
 
 &emsp;&emsp;&emsp;(i) planning for prerelease transitional housing and community release that begins upon admission for juveniles and jail inmates, and, as appropriate, for prison inmates, depending on the length of the sentence;
 
-&emsp;&emsp;&emsp;(ii) establishing prerelease planning procedures to ensure that the eligibility of anoffender for Federal, tribal, or State benefits upon release is established prior to release, subject to any limitations in law, and to ensure that offenders obtain all necessary referrals for reentry services, including assistance identifying and securing suitable housing; or
+&emsp;&emsp;&emsp;(ii) establishing prerelease planning procedures to ensure that the eligibility of an offender for Federal, tribal, or State benefits upon release is established prior to release, subject to any limitations in law, and to ensure that offenders obtain all necessary referrals for reentry services, including assistance identifying and securing suitable housing; or
 
 &emsp;&emsp;&emsp;(iii) delivery of continuous and appropriate mental health services, drug treatment, medical care, job training and placement, educational services, vocational services, and any other service or support needed for reentry;
 
@@ -168,7 +168,7 @@ Funds for the juvenile offender reentry demonstration projects may be expended f
 
 #### (ii) Maximum percentage
 
-&emsp;&emsp;&emsp;Not more than 50 percent of the amount provided by a recipient of a grant under this section to meet the matching requirement under subparagraph (A) may be provided through in-kind contributions under clause (i).
+&emsp;&emsp;&emsp;Not more than 50 percent of the amount provided by a recipient of a grant underthis section to meet the matching requirement under subparagraph (A) may be provided through in-kind contributions under clause (i).
 
 #### (2) Supplement not supplant
 
@@ -204,7 +204,7 @@ Funds for the juvenile offender reentry demonstration projects may be expended f
 
 &emsp;As a condition of receiving financial assistance under subsection (f), each applicant shall establish or empower a Reentry Task Force, or other relevant convening authority, to—
 
-&emsp;&emsp;(A) examine ways to pool resources and funding streams to promote lower recidivism rates for returning offenders and minimize the harmful effects of offenders' time in prison, jail, or a juvenile facility on families andcommunities of offenders by collecting data and best practices in offender reentry from demonstration grantees and other agencies and organizations; and
+&emsp;&emsp;(A) examine ways to pool resources and funding streams to promote lower recidivism rates for returning offenders and minimize the harmful effects of offenders' time in prison, jail, or a juvenile facility on families and communities of offenders by collecting data and best practices in offender reentry from demonstration grantees and other agencies and organizations; and
 
 &emsp;&emsp;(B) provide the analysis described in subsection (f)(2)(D).
 
@@ -332,7 +332,7 @@ To be eligible to receive a grant under this section in any fiscal year after th
 
 &emsp;&emsp;(B) collect data and best practices in offender reentry from demonstration grantees and others agencies and organizations;
 
-&emsp;&emsp;(C) develop and disseminate evaluation tools, mechanisms, and measures to better assess and document coalition performance measures and outcomes;
+&emsp;&emsp;(C) develop and disseminate evaluation tools, mechanisms, and measures to betterassess and document coalition performance measures and outcomes;
 
 &emsp;&emsp;(D) disseminate information to States and other relevant entities about best practices, policy standards, and research findings;
 

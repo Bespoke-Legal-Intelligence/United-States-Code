@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(A) integrate additional coastal and ocean observations, and other data and research, from the Integrated Ocean Observing System (IOOS) into regional weather forecasts to improve weather forecasts and forecasting decision support systems;
 
-&emsp;&emsp;(B) support the development of real-time data sharing products and forecast productsin collaboration with the regional associations of such system, including contributions from the private sector, academia, and research institutions to ensure timely and accurate use of ocean and coastal data in regional forecasts; and
+&emsp;&emsp;(B) support the development of real-time data sharing products and forecast products in collaboration with the regional associations of such system, including contributions from the private sector, academia, and research institutions to ensure timely and accurate use of ocean and coastal data in regional forecasts; and
 
 &emsp;&emsp;(C) support increasing use of autonomous, mobile surface, sub-surface, and submarine vehicle ocean and fresh water sensor systems and the infrastructure necessary to share and analyze these data in real-time and feed them into predictive early warning systems.
 
@@ -72,7 +72,7 @@
 
 #### (C) Deadline and report
 
-&emsp;&emsp;In carrying out the study under subparagraph (A), the National Academy of Sciences shall complete and transmit to the Under Secretary a report containing the findings of the National Academy of Sciences with respect to the study not later than 2 years after the date on which the Administrator enters into an agreement with the National Academy of Sciences under paragraph (1)(A).
+&emsp;&emsp;In carrying out the study under subparagraph (A), the National Academy of Sciencesshall complete and transmit to the Under Secretary a report containing the findings of the National Academy of Sciences with respect to the study not later than 2 years after the date on which the Administrator enters into an agreement with the National Academy of Sciences under paragraph (1)(A).
 
 #### (3) Alternate organization
 
@@ -203,6 +203,8 @@ Not later than 60 days after the date that a transaction agreement is made under
 Nothing in this section may be construed as limiting the authority of the National Oceanic and Atmospheric Administration to use cooperative research and development agreements, grants, procurement contracts, or cooperative agreements.
 
 (Pub. L. 115–25, title III, §301, Apr. 18, 2017, 131 Stat. 101; Pub. L. 115–423, §§6, 7(a), Jan. 7, 2019, 132 Stat. 5459, 5461; Pub. L. 116–259, title V, §503, Dec. 23, 2020, 134 Stat. 1179.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

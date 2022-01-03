@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The President shall rely on, including through delegations, as appropriate, the Secretary, the Secretary of Defense, the Secretary of State, the Secretary of Energy, the Director of National Intelligence, and the heads of other Federal agencies as appropriate, to exercise the authority to carry out the purposes set forth in subsection (b).
+The President shall rely on, including through delegations, as appropriate, the Secretary, theSecretary of Defense, the Secretary of State, the Secretary of Energy, the Director of National Intelligence, and the heads of other Federal agencies as appropriate, to exercise the authority to carry out the purposes set forth in subsection (b).
 
 #### (b) Purposes
 
@@ -33,6 +33,8 @@ The purposes of this section include to—
 It is the sense of Congress that the administration of export controls under this subchapter should be consistent with the procedures relating to export license applications described in Executive Order 12981 (1995).
 
 (Pub. L. 115–232, div. A, title XVII, §1755, Aug. 13, 2018, 132 Stat. 2216.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

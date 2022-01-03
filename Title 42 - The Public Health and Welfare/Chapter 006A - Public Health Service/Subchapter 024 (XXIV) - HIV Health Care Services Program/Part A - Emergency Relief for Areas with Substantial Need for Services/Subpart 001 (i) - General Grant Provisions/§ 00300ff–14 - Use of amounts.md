@@ -84,7 +84,7 @@ The Secretary may not make a grant under section 300ff–11(a) of this title to 
 
 #### (2) Medical outcomes
 
-&emsp;In this subsection, the term "medical outcomes" means those outcomes affecting theHIV-related clinical status of an individual with HIV/AIDS.
+&emsp;In this subsection, the term "medical outcomes" means those outcomes affecting the HIV-related clinical status of an individual with HIV/AIDS.
 
 #### (e) Early intervention services
 
@@ -124,7 +124,7 @@ The Secretary may not make a grant under section 300ff–11(a) of this title to 
 
 #### (A) In general
 
-&emsp;&emsp;In the case of an entity making an agreement pursuant to paragraph (1)(B) regarding the provision of services, the requirement established in such paragraph shall be waived by the HIV health services planning council for the eligible area if the entity does not, in providing health care services, impose a charge or accept reimbursement available from any third-party payor, including reimbursement under any insurance policy or under any Federal or State health benefits program.
+&emsp;&emsp;In the case of an entity making an agreement pursuant to paragraph (1)(B) regarding the provision of services, the requirement established in such paragraph shall be waived by the HIV health services planning council for the eligible area if the entity does not, in providing health care services, impose a charge or accept reimbursementavailable from any third-party payor, including reimbursement under any insurance policy or under any Federal or State health benefits program.
 
 #### (B) Determination
 
@@ -184,6 +184,8 @@ A chief elected official may not use amounts received under a grant awarded unde
 
 (July 1, 1944, ch. 373, title XXVI, §2604, as added Pub. L. 101–381, title I, §101(3), Aug. 18, 1990, 104 Stat. 580; amended Pub. L. 103–446, title XII, §1203(a)(3), Nov. 2, 1994, 108 Stat. 4689; Pub. L. 104–146, §3(b)(4), May 20, 1996, 110 Stat. 1351; Pub. L. 106–345, title I, §121, Oct. 20, 2000, 114 Stat. 1326; Pub. L. 109–415, title I, §§105, 107(b), title VII, §703, Dec. 19, 2006, 120 Stat. 2776, 2783, 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Social Security Act, referred to in subsecs. (f)(2) and (g)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
@@ -194,7 +196,7 @@ A prior section 2604 of act July 1, 1944, was successively renumbered by subsequ
 
 #### Amendments
 
-<b>2009</b>—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+<b>2009</b>—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect onSept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
 <b>2006</b>—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
 
@@ -214,7 +216,7 @@ Subsec. (b)(1)(D). Pub. L. 106–345, §121(a)(5), added subpar. (D).
 
 Subsec. (b)(3). Pub. L. 106–345, §121(b)(2), added par. (3). Former par. (3) redesignated (4).
 
-Subsec. (b)(4). Pub. L. 106–345, §121(b)(1), (c), redesignated par. (3) as (4) and amended heading and text of par. (4) generally. Prior to amendment, text read as follows: "For the purpose of providing health and support services to infants, children, and women with HIV disease, including treatment measures to prevent the perinatal transmission of HIV, the chief elected officialof an eligible area, in accordance with the established priorities of the planning council, shall use, from the grants made for the area under section 300ff–11(a) of this title for a fiscal year, not less than the percentage constituted by the ratio of the population in such area of infants, children, and women with acquired immune deficiency syndrome to the general population in such area of individuals with such syndrome."
+Subsec. (b)(4). Pub. L. 106–345, §121(b)(1), (c), redesignated par. (3) as (4) and amended heading and text of par. (4) generally. Prior to amendment, text read as follows: "For the purpose of providing health and support services to infants, children, and women with HIV disease, including treatment measures to prevent the perinatal transmission of HIV, the chief elected official of an eligible area, in accordance with the established priorities of the planning council, shall use, from the grants made for the area under section 300ff–11(a) of this title for a fiscal year, not less than the percentage constituted by the ratio of the population in such area of infants, children, and women with acquired immune deficiency syndrome to the general population in such area of individuals with such syndrome."
 
 Subsecs. (c) to (g). Pub. L. 106–345, §121(d), added subsec. (c) and redesignated former subsecs. (c) to (f) as (d) to (g), respectively.
 
@@ -227,6 +229,8 @@ Subsec. (b)(3). Pub. L. 104–146, §3(b)(4)(C), added par. (3).
 Subsec. (e). Pub. L. 104–146, §3(b)(4)(C), struck out "and planning" after "Administration" in heading, designated existing provisions as par. (1), inserted par. heading, struck out "accounting, reporting, and program oversight functions" after "for administration,", inserted at end "In the case of entities and subcontractors to which such officer allocates amounts received by the officer under the grant, the officer shall ensure that, of the aggregate amount so allocated, the total of the expenditures by such entities for administrative expenses does not exceed 10 percent (without regard to whether particular entities expend more than 10 percent for such expenses).", and added pars. (2) and (3).
 
 <b>1994</b>—Subsec. (b)(2)(A). Pub. L. 103–446 substituted "Department of Veterans Affairs facilities" for "Veterans Administration facilities".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment; Revival of Section
 

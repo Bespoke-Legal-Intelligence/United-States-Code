@@ -4,6 +4,8 @@ Notwithstanding section 3302 of title 31, section 825s of title 16, and section 
 
 (Pub. L. 111–85, title III, Oct. 28, 2009, 123 Stat. 2870.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 "This account" and "this appropriation", referred to in text, mean funds appropriated under the heading "
@@ -13,6 +15,8 @@ Construction, Rehabilitation, Operation and Maintenance, Western Area Power Admi
 #### Codification
 
 Section was enacted as part of the Energy and Water Development and Related Agencies Appropriations Act, 2010, and not as part of the Department of Energy Organization Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Purchase Power and Wheeling Expenses
 

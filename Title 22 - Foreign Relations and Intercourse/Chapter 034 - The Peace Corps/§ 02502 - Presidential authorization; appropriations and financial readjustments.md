@@ -26,7 +26,7 @@ In recognition of the fact that women in developing countries play a significant
 
 In recognition of the fact that there are over 400,000,000 disabled people in the world, 95 percent of whom are among the poorest of the poor, the Peace Corps shall be administered so as to give particular attention to programs, projects, and activities which tend to integrate disabled people into the national economies of developing countries, thus improving their status and assisting the total development effort.
 
-(Pub. L. 87–293, title I, §3, Sept. 22, 1961, 75 Stat. 612; Pub. L. 87–442, Apr. 27, 1962, 76 Stat. 62; Pub. L. 88–200, §1, Dec. 13, 1963, 77 Stat. 359; Pub. L. 88–285, Mar. 17, 1964, 78 Stat. 166; Pub. L. 89–134, §1, Aug. 24, 1965, 79 Stat. 549; Pub. L. 89–572, §1, Sept. 13, 1966, 80 Stat. 764; Pub. L. 90–175, Dec. 5, 1967, 81 Stat. 542; Pub. L. 90–362, June 27, 1968, 82 Stat. 250; Pub. L. 91–99, §1, Oct. 29, 1969, 83 Stat. 166; Pub. L. 91–352, §1, July 24, 1970, 84 Stat. 464; Pub. L. 92–135, Oct. 8, 1971, 85 Stat. 376; Pub. L. 92–352, title IV, §401, July 13, 1972, 86 Stat. 495; Pub. L. 93–49, §1, June 25, 1973, 87 Stat. 99; Pub. L. 93–302, §§1, 2, June 1, 1974, 88 Stat. 191; Pub. L. 94–130, §§1–3, Nov. 14, 1975, 89 Stat. 684; Pub. L. 94–281, §§1, 2, May 7, 1976, 90 Stat. 458; Pub. L. 95–102, §§1, 2, Aug. 15, 1977, 91 Stat. 841; Pub. L. 95–331, §3, Aug. 2, 1978, 92 Stat. 414; Pub. L. 96–53, title III, §301, Aug. 14, 1979, 93 Stat. 370; Pub. L. 96–533, title VI, §601(a), (b), Dec. 16, 1980, 94 Stat. 3155; Pub. L. 97–113, title VI, §§601(e)(1), 602, 603, Dec. 29, 1981, 95 Stat. 1542; Pub. L. 99–83, title XI, §1101, Aug. 8, 1985, 99 Stat. 272; Pub. L. 99–399, title XIII, §1301, Aug. 27, 1986, 100 Stat. 897; Pub. L. 102–565, §1, Oct. 28, 1992, 106 Stat. 4265; Pub. L. 106–30, §1, May 21, 1999, 113 Stat. 55.)
+(Pub. L. 87–293, title I, §3, Sept. 22, 1961, 75 Stat. 612; Pub. L. 87–442, Apr. 27, 1962, 76 Stat. 62; Pub. L. 88–200, §1, Dec. 13, 1963, 77 Stat. 359; Pub. L. 88–285, Mar. 17, 1964, 78 Stat. 166; Pub. L. 89–134, §1, Aug. 24, 1965, 79 Stat. 549; Pub. L. 89–572, §1, Sept. 13, 1966, 80 Stat. 764; Pub. L. 90–175, Dec. 5, 1967, 81 Stat. 542; Pub. L. 90–362, June 27, 1968, 82 Stat. 250; Pub. L. 91–99, §1, Oct. 29, 1969, 83 Stat. 166; Pub. L. 91–352, §1, July 24, 1970, 84 Stat. 464; Pub. L. 92–135, Oct. 8, 1971, 85 Stat. 376; Pub. L. 92–352, title IV, §401, July 13, 1972, 86 Stat. 495; Pub. L. 93–49, §1, June 25, 1973, 87 Stat. 99; Pub. L. 93–302, §§1, 2, June 1, 1974, 88 Stat. 191; Pub. L. 94–130, §§1–3, Nov. 14, 1975, 89 Stat. 684; Pub. L. 94–281, §§1, 2, May 7, 1976, 90 Stat. 458; Pub. L. 95–102, §§1, 2, Aug. 15, 1977, 91 Stat. 841; Pub. L. 95–331, §3, Aug. 2, 1978, 92 Stat. 414; Pub. L. 96–53, title III, §301, Aug. 14, 1979, 93 Stat. 370; Pub. L. 96–533, title VI, §601(a), (b), Dec. 16, 1980, 94 Stat. 3155; Pub. L. 97–113, title VI, §§601(e)(1), 602, 603,Dec. 29, 1981, 95 Stat. 1542; Pub. L. 99–83, title XI, §1101, Aug. 8, 1985, 99 Stat. 272; Pub. L. 99–399, title XIII, §1301, Aug. 27, 1986, 100 Stat. 897; Pub. L. 102–565, §1, Oct. 28, 1992, 106 Stat. 4265; Pub. L. 106–30, §1, May 21, 1999, 113 Stat. 55.)
 
 #### <b>Editorial Notes</b>
 
@@ -98,7 +98,7 @@ Subsecs. (c) to (f). Pub. L. 93–302, §2, added subsecs. (c) to (f).
 
 <b>1970</b>—Subsec. (b). Pub. L. 91–352 substituted "1971" for "1970" and "$98,800,000" for "$98,450,000".
 
-<b>1969</b>—Subsec. (b). Pub. L. 91–99 substituted "1970" for "1969" and "$98,450,000" for "$112,800,000", and inserted provision prohibiting funds authorized to carry out the purposes of this chapter to be used to carry out the Volunteers to America Program conducted under the Mutual Educational and Cultural Exchange Act of 1961, or any similar program.
+<b>1969</b>—Subsec. (b). Pub. L. 91–99 substituted "1970" for "1969" and "$98,450,000" for "$112,800,000", and inserted provision prohibiting funds authorized to carry out the purposes of this chapter to be used to carry out the Volunteers to America Program conducted under theMutual Educational and Cultural Exchange Act of 1961, or any similar program.
 
 <b>1968</b>—Subsec. (b). Pub. L. 90–362 substituted "1969" for "1968" and "$112,800,000" for "$115,700,000".
 
@@ -134,7 +134,7 @@ Pub. L. 97–113, title VI, §601(e)(2), Dec. 29, 1981, 95 Stat. 1542, provided 
 
 #### Payment of Readjustment Allowances From Amount Appropriated for Fiscal Year 1977; Limitation on Amount Available
 
-Pub. L. 94–281, §3, May 7, 1976, 90 Stat. 458, provided that: "Of the amount appropriated for fiscal year 1977to carry out the purposes of the Peace Corps Act \[see Short Title note set out under section 2501 of this title\], $10,100,000 shall be available only for payment of the readjustment allowances authorized by sections 5(c) and 6(1) of such Act \[sections 2504(c) and 2505(1) of this title\]."
+Pub. L. 94–281, §3, May 7, 1976, 90 Stat. 458, provided that: "Of the amount appropriated for fiscal year 1977 to carry out the purposes of the Peace Corps Act \[see Short Title note set out under section 2501 of this title\], $10,100,000 shall be available only for payment of the readjustment allowances authorized by sections 5(c) and 6(1) of such Act \[sections 2504(c) and 2505(1) of this title\]."
 
 #### <b>Executive Documents</b>
 

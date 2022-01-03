@@ -4,6 +4,8 @@ It shall be lawful for the authorities of any State having had troops at the Bat
 
 (June 21, 1934, ch. 694, §7, 48 Stat. 1200; Pub. L. 94–578, title III, §319(7), Oct. 21, 1976, 90 Stat. 2738.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Pub. L. 94–578 substituted "battlefield" for "Monocacy National Military Park" and ": <i>Provided further,"</i> for ", which approval shall be based upon formal written reports to be made to him in each case by the National Park Service: <i>Provided,".</i>

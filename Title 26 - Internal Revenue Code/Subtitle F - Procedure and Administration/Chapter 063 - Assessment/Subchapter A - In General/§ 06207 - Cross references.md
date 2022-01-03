@@ -14,6 +14,8 @@
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 769, §6206; renumbered §6207, Apr. 2, 1956, ch. 160, §4(b)(1), 70 Stat. 90; amended Pub. L. 85–859, title II, §204(2), (3), Sept. 2, 1958, 72 Stat. 1428; Pub. L. 94–455, title XIX, §1906(a)(14), Oct. 4, 1976, 90 Stat. 1825.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Par. (7). Pub. L. 94–455 struck out par. (7) relating to cross reference for assessment under the provisions of the Tariff Act of 1930.
@@ -21,6 +23,8 @@
 <b>1958</b>—Par. (4). Pub. L. 85–859, §204(2), substituted "with respect to taxes required to be paid by chapter 52, see section 5703" for "in case of sale or removal of tobacco, snuff, cigars, and cigarettes without the use of the proper stamps, see section 5703(d)".
 
 Pars. (6) to (9). Pub. L. 85–859, §204(3), redesignated pars. (8) and (9) as (6) and (7), respectively, and struck out former pars. (6) and (7) which contained cross references relating to assessments in case of certain spirits subject to excessive leakage and to assessment of deficiencies in production of distilled spirits.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1958 Amendment
 

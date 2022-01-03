@@ -4,9 +4,13 @@ On and after Mar. 3, 1899, all standard, meander, township, and section lines of
 
 (Mar. 3, 1899, ch. 424, §1, 30 Stat. 1097; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 "National forests" substituted in text for "reservations" and "public forest reservations" on authority of act Mar. 4, 1907, ch. 2907, 34 Stat. 1269, which provided that forest reserves shall hereafter be known as national forests.
+
+#### <b>Executive Documents</b>
 
 #### Change of Name
 
@@ -14,5 +18,5 @@ On and after Mar. 3, 1899, all standard, meander, township, and section lines of
 
 #### Transfer of Functions
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, withpower to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 

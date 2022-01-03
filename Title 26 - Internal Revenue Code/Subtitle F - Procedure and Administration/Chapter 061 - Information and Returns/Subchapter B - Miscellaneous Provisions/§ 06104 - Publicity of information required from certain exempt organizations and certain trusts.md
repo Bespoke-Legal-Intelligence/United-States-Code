@@ -34,7 +34,7 @@
 
 &emsp;Section 6103(f) shall apply with respect to—
 
-&emsp;&emsp;(A) the application for exemption of any organization described in section 501(c) or (d)which is exempt from taxation under section 501(a) for any taxable year or notice of status of any political organization which is exempt from taxation under section 527 for any taxable year, and any application referred to in subparagraph (B) of subsection (a)(1) of this section, and
+&emsp;&emsp;(A) the application for exemption of any organization described in section 501(c) or (d) which is exempt from taxation under section 501(a) for any taxable year or notice of status of any political organization which is exempt from taxation under section 527 for any taxable year, and any application referred to in subparagraph (B) of subsection (a)(1) of this section, and
 
 &emsp;&emsp;(B) any other papers which are in the possession of the Secretary and which relate to such application,
 
@@ -56,7 +56,7 @@
 
 #### (b) Inspection of annual returns
 
-The information required to be furnished by sections 6033, 6034, and 6058, together with the names and addresses of such organizations and trusts, shall be made available to the public at such times and in such places as the Secretary may prescribe. Nothing in this subsection shall authorize the Secretary to disclose the name or address of any contributor to any organization or trust (other than a private foundation, as defined in section 509(a) or a political organization exempt from taxation under section 527) which is required to furnish such information. In the case of an organization described in section 501(d), this subsection shall not apply to copies referred to in section 6031(b) with respect to such organization. In the case of a trust which is required to file a return under section 6034(a), this subsection shall not apply to information regarding beneficiaries which are not organizations described in section 170(c). Any annual return which is filed under section 6011 by an organization described in section 501(c)(3) and which relates to any tax imposed by section 511 (relating to imposition of tax on unrelated business income of charitable, etc., organizations) shall be treated for purposes of this subsection in the same manner as if furnished under section 6033. Any annual return required to be filed electronically under section 6033(n) shall be made available by the Secretary to the public as soon as practicable in a machine readable format.
+The information required to be furnished by sections 6033, 6034, and 6058, together with thenames and addresses of such organizations and trusts, shall be made available to the public at such times and in such places as the Secretary may prescribe. Nothing in this subsection shall authorize the Secretary to disclose the name or address of any contributor to any organization or trust (other than a private foundation, as defined in section 509(a) or a political organization exempt from taxation under section 527) which is required to furnish such information. In the case of an organization described in section 501(d), this subsection shall not apply to copies referred to in section 6031(b) with respect to such organization. In the case of a trust which is required to file a return under section 6034(a), this subsection shall not apply to information regarding beneficiaries which are not organizations described in section 170(c). Any annual return which is filed under section 6011 by an organization described in section 501(c)(3) and which relates to any tax imposed by section 511 (relating to imposition of tax on unrelated business income of charitable, etc., organizations) shall be treated for purposes of this subsection in the same manner as if furnished under section 6033. Any annual return required to be filed electronically under section 6033(n) shall be made available by the Secretary to the public as soon as practicable in a machine readable format.
 
 #### (c) Publication to State officials
 
@@ -166,7 +166,7 @@ The information required to be furnished by sections 6033, 6034, and 6058, toget
 
 #### (B) Nondisclosure of certain other information
 
-&emsp;&emsp;Paragraph (1) shall not require the disclosure of any information if the Secretarywithheld such information from public inspection under subsection (a)(1)(D).
+&emsp;&emsp;Paragraph (1) shall not require the disclosure of any information if the Secretary withheld such information from public inspection under subsection (a)(1)(D).
 
 #### (4) Limitation on providing copies
 
@@ -189,6 +189,8 @@ The information required to be furnished by sections 6033, 6034, and 6058, toget
 &emsp;The organizations referred to in paragraphs (1) and (2) of section 6033(d) shall comply with the requirements of this subsection relating to annual returns filed under section 6033 in the same manner as the organizations referred to in paragraph (1).
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 755; Pub. L. 85–866, title I, §75(a), Sept. 2, 1958, 72 Stat. 1660; Pub. L. 91–172, title I, §101(e)(1)–(3), (j)(36), Dec. 30, 1969, 83 Stat. 523, 530; Pub. L. 93–406, title II, §1022(g)(1)–(3), Sept. 2, 1974, 88 Stat. 940, 941; Pub. L. 94–455, title XII, §1201(d)(1), title XIII, §1307(d)(2)(B), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1667, 1727, 1834; Pub. L. 95–227, §4(e), Feb. 10, 1978, 92 Stat. 23; Pub. L. 95–488, §1(d), Oct. 20, 1978, 92 Stat. 1638; Pub. L. 95–600, title VII, §703(m), Nov. 6, 1978, 92 Stat. 2943; Pub. L. 96–603, §1(b), (d)(3), Dec. 28, 1980, 94 Stat. 3503, 3504; Pub. L. 98–369, div. A, title III, §306(b), title IV, §491(d)(49), July 18, 1984, 98 Stat. 784, 852; Pub. L. 100–203, title X, §10702(a), Dec. 22, 1987, 101 Stat. 1330–459; Pub. L. 104–168, title XIII, §1313(a), July 30, 1996, 110 Stat. 1479; Pub. L. 105–206, title VI, §6019(a), (b), July 22, 1998, 112 Stat. 823; Pub. L. 105–277, div. J, title I, §1004(b)(1), Oct. 21, 1998, 112 Stat. 2681–888; Pub. L. 106–230, §§1(b), 2(b), 3(b), July 1, 2000, 114 Stat. 478, 481, 482; Pub. L. 106–554, §1(a)(7) \[title III, §312(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–640; Pub. L. 107–276, §3(b), Nov. 2, 2002, 116 Stat. 1931; Pub. L. 109–280, title XII, §§1201(b)(3), 1224(a), (b)(4), 1225(a), Aug. 17, 2006, 120 Stat. 1066, 1091, 1093; Pub. L. 110–172, §3(g), Dec. 29, 2007, 121 Stat. 2475; Pub. L. 113–295, div. A, title II, §220(v), Dec. 19, 2014, 128 Stat. 4036; Pub. L. 116–25, title III, §3101(c), July 1, 2019, 133 Stat. 1015.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -226,7 +228,7 @@ Subsec. (d)(2). Pub. L. 107–276, §3(b)(2)(B), struck out "or section 6012(a)(
 
 <b>2000</b>—Subsec. (a). Pub. L. 106–230, §1(b)(1)(B), inserted "or notice of status" after "exemption" in heading.
 
-Subsec. (a)(1)(A). Pub. L. 106–230, §1(b)(1)(A), in heading, inserted "or 527" after "section 501", in first sentence, inserted "or a political organization is exempt from taxation under section 527 for any taxable year" after "taxable year" and "or notice of status filed by the organization under section 527(i)" before", together", in second sentence, inserted "or notice" after "any application", in last sentence, inserted "for exemption from taxation under section 501(a)" after "any organization", and inserted "or notice" after "such application", wherever appearing.
+Subsec. (a)(1)(A). Pub. L. 106–230, §1(b)(1)(A), in heading, inserted "or 527" after "section 501", in first sentence, inserted "or a political organization is exempt from taxation under section 527 for any taxable year" after "taxable year" and "or notice of status filed by the organization under section 527(i)" before ", together", in second sentence, inserted "or notice" after "any application", in last sentence, inserted "for exemption from taxation under section 501(a)" after "any organization", and inserted "or notice" after "such application", wherever appearing.
 
 Subsec. (a)(2)(A). Pub. L. 106–230, §1(b)(3), inserted "or notice of status of any political organization which is exempt from taxation under section 527 for any taxable year" after "taxable year".
 
@@ -312,6 +314,8 @@ Subsecs. (c), (d). Pub. L. 91–172, §101(e)(2), (3), added subsecs. (c) and (d
 
 <b>1958</b>—Pub. L. 85–866 designated existing provisions as subsec. (b) and added subsec. (a).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2019 Amendment
 
 Amendment by Pub. L. 116–25 applicable to taxable years beginning after July 1, 2019, with certain transitional relief permitted, see section 3101(d) of Pub. L. 116–25, set out as a note under section 527 of this title.
@@ -394,7 +398,7 @@ Amendment by section 1307(d)(2)(B) of Pub. L. 94–455 applicable on and after O
 
 #### Effective Date of 1974 Amendment
 
-Pub. L. 93–406, title X, §1022(g)(4), Sept. 2, 1974, 88 Stat. 941, provided that: "The amendments made bythis subsection \[amending this section\] shall apply to applications filed (or documents issued) after the date of enactment of this Act \[Sept. 2, 1974\]."
+Pub. L. 93–406, title X, §1022(g)(4), Sept. 2, 1974, 88 Stat. 941, provided that: "The amendments made by this subsection \[amending this section\] shall apply to applications filed (or documents issued) after the date of enactment of this Act \[Sept. 2, 1974\]."
 
 #### Effective Date of 1969 Amendment
 

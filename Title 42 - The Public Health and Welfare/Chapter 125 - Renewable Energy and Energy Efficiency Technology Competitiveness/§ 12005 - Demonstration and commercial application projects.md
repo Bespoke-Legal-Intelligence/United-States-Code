@@ -32,7 +32,7 @@ Requirements.—Each project selected under this section shall include at least 
 
 #### (4) Advisory Committee
 
-&emsp;(A) The Secretary shall establish an Advisory Committee on Demonstration and Commercial Application of Renewable Energy and Energy Efficiency Technologies (in this chapter referred to as the "Advisory Committee") to advise the Secretary on the development of the solicitation and evaluation criteria for projects under this section, and on otherwise carrying out his responsibilities under this section. The Secretary shall appoint members to the Advisory Committee, including at least one member representing—
+&emsp;(A) The Secretary shall establish an Advisory Committee on Demonstration and Commercial Application of Renewable Energy and Energy Efficiency Technologies (in this chapter referred to as the "Advisory Committee") to advise the Secretary on the development of the solicitation and evaluation criteria for projects under this section, and on otherwise carrying out his responsibilities under thissection. The Secretary shall appoint members to the Advisory Committee, including at least one member representing—
 
 &emsp;&emsp;(i) the Secretary of Commerce;
 
@@ -54,7 +54,7 @@ Requirements.—Each project selected under this section shall include at least 
 
 > &emsp;Nothing in this subparagraph shall be construed to require the Secretary to reestablish the Advisory Committee in place under this subsection as of October 24, 1992, or to perform again any duties performed by such advisory committee before October 24, 1992.
 
-&emsp;(B) Not later than 18 months after October 24, 1992, the Advisory Committee shall providethe Secretary with a report assessing the implementation of the program under this section, including specific recommendations for improvements or changes to the program and solicitation process. The Secretary shall transmit such report and, if any, the Secretary's recommendations to the Congress.
+&emsp;(B) Not later than 18 months after October 24, 1992, the Advisory Committee shall provide the Secretary with a report assessing the implementation of the program under this section, including specific recommendations for improvements or changes to the program and solicitation process. The Secretary shall transmit such report and, if any, the Secretary's recommendations to the Congress.
 
 #### (c) Selection of projects
 
@@ -128,6 +128,8 @@ There are authorized to be appropriated to the Secretary for carrying out this s
 
 (Pub. L. 101–218, §6, Dec. 11, 1989, 103 Stat. 1863; Pub. L. 102–486, title XII, §1202(a), Oct. 24, 1992, 106 Stat. 2956.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (b)(4)(A), was in the original "this Act", meaning Pub. L. 101–218, Dec. 11, 1989, 103 Stat. 1859, known as the Renewable Energy and Energy Efficiency Technology Competitiveness Act of 1989, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12001 of this title and Tables.
@@ -136,7 +138,9 @@ This chapter, referred to in subsec. (b)(4)(A), was in the original "this Act", 
 
 <b>1992</b>—Pub. L. 102–486 amended section generally, substituting provisions relating to demonstration and commercial application projects for renewable energy and energy efficiency technologies for provisions relating to use of joint ventures to further commercialization of renewable energy and energy efficiency technologies.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-yearperiod beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 

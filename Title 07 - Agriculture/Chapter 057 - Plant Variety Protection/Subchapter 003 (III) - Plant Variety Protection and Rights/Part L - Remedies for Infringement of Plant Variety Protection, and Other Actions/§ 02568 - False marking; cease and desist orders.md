@@ -8,13 +8,15 @@
 
 &emsp;(3) Use of either the phrase "Unauthorized Propagation Prohibited" or "Unauthorized Seed Multiplication Prohibited" or similar phrase without reasonable basis. Any reasonable basis expires one year after the first sale of the variety except as justified thereafter by a pending application or a certificate still in force.
 
-&emsp;(4) Failure to use the name of a variety for which a certificate of protection has been issued under this chapter, even after the expiration of the certificate, except that lawn, turf, or forage grass seed, or alfalfa or clover seedmay be sold without a variety name unless use of the name of a variety for which a certificate of protection has been issued under this chapter is required under State law.
+&emsp;(4) Failure to use the name of a variety for which a certificate of protection has been issued under this chapter, even after the expiration of the certificate, except that lawn, turf, or forage grass seed, or alfalfa or clover seed may be sold without a variety name unless use of the name of a variety for which a certificate of protection has been issued under this chapter is required under State law.
 
 (b) Anyone convicted of violating a binding cease and desist order, or of performing any act prohibited in subsection (a) of this section for the purpose of deceiving the public, shall be fined not more than $10,000 and not less than $500.
 
 (c) Anyone whose business is damaged or is likely to be damaged by an act prohibited in subsection (a) of this section, or is subjected to competition in connection with which such act is performed, may have remedy by civil action.
 
 (Pub. L. 91–577, title III, §128, Dec. 24, 1970, 84 Stat. 1557; Pub. L. 96–574, §19(c), Dec. 22, 1980, 94 Stat. 3352; Pub. L. 103–349, §§12, 13(v), Oct. 6, 1994, 108 Stat. 3142, 3144; Pub. L. 115–334, title X, §10108(d), Dec. 20, 2018, 132 Stat. 4906.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -23,6 +25,8 @@
 <b>1994</b>—Subsec. (a). Pub. L. 103–349 inserted "or tubers or parts of tubers" after "plant material" and substituted "if the Secretary determines" for "if he determines" in introductory provisions, and added par. (4).
 
 <b>1980</b>—Subsec. (a)(3). Pub. L. 96–574 substituted provisions respecting prohibitions for use of phrases "Unauthorized Propagation Prohibited" and "Unauthorized Seed Multiplication Prohibited" for provisions respecting prohibitions for use of phrase "propagation prohibited".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

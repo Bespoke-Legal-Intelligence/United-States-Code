@@ -24,7 +24,7 @@ A prior section 314, act Aug. 4, 1949, ch. 393, 63 Stat. 520, related to retirin
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 59 of this title as this section.
 
-<b>2014</b>—Pub. L. 113–281 struck out subsec. (a) designation and heading before "The Commandant" and struckout subsec. (b). Text of subsec. (b) read as follows: "Not later than the date of the submission each year of the President's budget request under section 1105 of title 31, the Commandant shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that describes—
+<b>2014</b>—Pub. L. 113–281 struck out subsec. (a) designation and heading before "The Commandant" and struck out subsec. (b). Text of subsec. (b) read as follows: "Not later than the date of the submission each year of the President's budget request under section 1105 of title 31, the Commandant shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that describes—
 
 &emsp;"(1) the number of officers, members, and employees of the Coast Guard assigned to private entities under this section; and
 

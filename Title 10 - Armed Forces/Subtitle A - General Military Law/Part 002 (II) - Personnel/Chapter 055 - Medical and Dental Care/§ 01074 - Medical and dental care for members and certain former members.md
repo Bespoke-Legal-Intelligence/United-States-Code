@@ -30,7 +30,7 @@
 
 (3)(A) A member of the uniformed services described in subparagraph (B) may not be required to receive routine primary medical care at a military medical treatment facility.
 
-(B) A member referred to in subparagraph (A) is a member of the uniformed services on activeduty who is entitled to medical care under this subsection and who—
+(B) A member referred to in subparagraph (A) is a member of the uniformed services on active duty who is entitled to medical care under this subsection and who—
 
 &emsp;(i) receives a duty assignment described in subparagraph (C); and
 
@@ -60,7 +60,7 @@
 
 &emsp;(B) 180 days before the date on which the period of active duty is to commence under such order for that member.
 
-(2) In this subsection, the term "delayed-effective-date active-duty order" means an order to active duty for a period of more than 30 days under section 12304b of this title or a provision of law referred to in section 101(a)(13)(B) of this title that provides for active-duty service to begin under such order on a date after the date of the issuance of the order.
+(2) In this subsection, the term "delayed-effective-date active-duty order" means an order to active duty for a period of more than 30 days under section 12304b of this title or a provisionof law referred to in section 101(a)(13)(B) of this title that provides for active-duty service to begin under such order on a date after the date of the issuance of the order.
 
 (Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1446; amended Pub. L. 89–614, §2(2), Sept. 30, 1966, 80 Stat. 862; Pub. L. 96–513, title V, §511(36), (37), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 98–525, title XIV, §1401(e)(1), Oct. 19, 1984, 98 Stat. 2616; Pub. L. 98–557, §19(3), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 101–189, div. A, title VII, §729, title XVI, §1621(a)(2), Nov. 29, 1989, 103 Stat. 1481, 1603; Pub. L. 101–510, div. A, title XIV, §1484(j)(1), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 104–106, div. A, title VII, §723, Feb. 10, 1996, 110 Stat. 377; Pub. L. 104–201, div. A, title VII, §725(d), Sept. 23, 1996, 110 Stat. 2596; Pub. L. 105–85, div. A, title VII, §731(a)(1), Nov. 18, 1997, 111 Stat. 1810; Pub. L. 106–398, §1 \[\[div. A\], title VII, §722(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–185; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–106, title I, §1116, Nov. 6, 2003, 117 Stat. 1218; Pub. L. 108–136, div. A, title VII, §§703, 708, Nov. 24, 2003, 117 Stat. 1527, 1530; Pub. L. 108–375, div. A, title VII, §703, Oct. 28, 2004, 118 Stat. 1982; Pub. L. 109–163, div. A, title VII, §743(a), Jan. 6, 2006, 119 Stat. 3360; Pub. L. 110–181, div. A, title VI, §647(b), title XVI, §1633(a), Jan. 28, 2008, 122 Stat. 161, 459; Pub. L. 111–84, div. A, title VII, §702, Oct. 28, 2009, 123 Stat. 2373; Pub. L. 115–91, div. A, title V, §511(a), Dec. 12, 2017, 131 Stat. 1376.)
 
@@ -88,6 +88,8 @@ In subsection (a), words of entitlement are substituted for the correlative word
 
 In subsection (b), the words "active duty (other than for training)" are substituted for the words "active duty as defined in section 901(b) of Title 50" to reflect section 101(22) of this title. The words "and dental" are inserted before the word "staff" for clarity. The words "retirement" and "retirement pay" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in subsec. (c) of this section were contained in Pub. L. 98–212, title VII, §735, Dec. 8, 1983, 97 Stat. 1444, which was formerly set out as a note under section 138 \[now 114\] of this title, and which was amended by Pub. L. 98–525, title XIV, §§1403(a)(2), 1404, Oct. 19, 1984, 98 Stat. 2621, eff. Oct. 1, 1985, to strike out these provisions.
@@ -112,7 +114,7 @@ Subsec. (c)(4). Pub. L. 110–181, §1633(a), added par. (4).
 
 Subsec. (d). Pub. L. 108–136, §703, amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
 
-"(1) For the purposes of this chapter, a member of a reserve component of the armed forces who is issued a delayed-effective-date active-duty order, or is coveredby such an order, shall be treated as being on active duty for a period of more than 30 days beginning on the later of the date that is—
+"(1) For the purposes of this chapter, a member of a reserve component of the armed forces who is issued a delayed-effective-date active-duty order, or is covered by such an order, shall be treated as being on active duty for a period of more than 30 days beginning on the later of the date that is—
 
 &emsp;"(A) the date of the issuance of such order; or
 
@@ -165,6 +167,8 @@ Subsec. (c). Pub. L. 98–525 added subsec. (c).
 Subsec. (b). Pub. L. 96–513, §511(36), (37), substituted "Secretary of Health and Human Services" and "President" for "Secretary of Health, Education, and Welfare" and "Bureau of the Budget", respectively.
 
 <b>1966</b>—Subsec. (b). Pub. L. 89–614 struck out provision which excepted from medical and dental care a member or former member who is entitled to retired pay under chapter 67 of this title and has served less than eight years on active duty (other than for training) and authorized care to be provided to persons covered by subsec. (b) in facilities operated by the Administrator of Veterans' Affairs and available on a reimbursable basis at rates approved by the Bureau of the Budget.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 
@@ -432,7 +436,7 @@ In General.—Not later than 180 days after the date of the enactment of this Ac
 
 "(b)
 
-Pharmaceutical Agent Defined.—In this section, the term 'pharmaceutical agent' has the meaninggiven that term in section 1074g(g) \[now 1074g(i)\] of title 10, United States Code."
+Pharmaceutical Agent Defined.—In this section, the term 'pharmaceutical agent' has the meaning given that term in section 1074g(g) \[now 1074g(i)\] of title 10, United States Code."
 
 #### Pilot Program on Investigational Treatment of Members of the Armed Forces for Traumatic Brain Injury and Post-Traumatic Stress Disorder
 
@@ -474,7 +478,7 @@ Pub. L. 112–239, div. A, title III, §313(a), Jan. 2, 2013, 126 Stat. 1692, pr
 
 "(1)
 
-In general.—Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Secretary of Defense shall issue guidance to the military departments and appropriate defense agencies regarding environmental exposures on military installations.
+In general.—Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Secretary of Defense shall issue guidance to the militarydepartments and appropriate defense agencies regarding environmental exposures on military installations.
 
 "(2)
 
@@ -604,7 +608,7 @@ Periodic and Final Reports.—After the third, seventh, eleventh, and fifteenth 
 
 &emsp;"(1) Current information on the cumulative outcomes of the study.
 
-&emsp;"(2) Such recommendations as the Secretary of Defense and the Secretary of Veterans Affairs jointly consider appropriate based on the outcomes of the study, including recommendations for legislative, programmatic, or administrative action to improve long-term care and rehabilitation programs and services for members of the Armed Forces with traumatic brain injuries."
+&emsp;"(2) Such recommendations as the Secretary of Defense and the Secretary of Veterans Affairs jointly consider appropriate based on the outcomes of thestudy, including recommendations for legislative, programmatic, or administrative action to improve long-term care and rehabilitation programs and services for members of the Armed Forces with traumatic brain injuries."
 
 #### Standards and Tracking of Access to Health Care Services for Wounded, Injured, or Ill Servicemembers Returning to the United States From a Combat Zone
 
@@ -728,7 +732,7 @@ Dissemination mechanisms.—The Secretary of Defense shall develop mechanisms fo
 
 &emsp;"(2)
 
-Use of existing mechanisms.—In developing such mechanisms, the Secretary may use and enhance existing mechanisms, including the Military Severely Injured Center (authorized under section 564 of this Act \[10 U.S.C. 113 note\]) and the programs for service to severely injured members established by the military departments.
+Use of existing mechanisms.—In developing such mechanisms, the Secretary may use and enhance existing mechanisms, including the MilitarySeverely Injured Center (authorized under section 564 of this Act \[10 U.S.C. 113 note\]) and the programs for service to severely injured members established by the military departments.
 
 "(d)
 
@@ -770,7 +774,7 @@ Composition.—The members of the Committee are as follows:
 
 &emsp;&emsp;"(A) The Under Secretary of Defense for Personnel and Readiness, who shall chair the Committee.
 
-&emsp;&emsp;"(B) The Vice Chief of Staff of the Army, the Vice Chief of Naval Operations, the Vice Chief of Staff ofthe Air Force, and the Assistant Commandant of the Marine Corp.
+&emsp;&emsp;"(B) The Vice Chief of Staff of the Army, the Vice Chief of Naval Operations, the Vice Chief of Staff of the Air Force, and the Assistant Commandant of the Marine Corp.
 
 &emsp;&emsp;"(C) The Assistant Secretary of Defense for Health Affairs.
 
@@ -894,7 +898,7 @@ Report.—Not later than one year after the date of the enactment of this Act \[
 
 &emsp;&emsp;"(B) An analysis of the efficacy of health surveillance systems as a means of detecting—
 
-&emsp;&emsp;&emsp;"(i) any health problems (including mental health conditions) of members of the ArmedForces contemporaneous with the performance of the assessment under the system; and
+&emsp;&emsp;&emsp;"(i) any health problems (including mental health conditions) of members of the Armed Forces contemporaneous with the performance of the assessment under the system; and
 
 &emsp;&emsp;&emsp;"(ii) exposures of the assessed members to environmental hazards that potentially lead to future health problems.
 
@@ -948,7 +952,7 @@ Health Care at Mobilization Installations.—The Secretary of Defense shall take
 
 "(b)
 
-Mobilization Installations.—For purposes of this section, the term 'mobilization installation' means a military installation at which members of the Armed Forces, in connection with a contingency operation or during a national emergency—
+Mobilization Installations.—For purposes of this section, the term 'mobilization installation' meansa military installation at which members of the Armed Forces, in connection with a contingency operation or during a national emergency—
 
 &emsp;"(1) are mobilized;
 
@@ -1002,7 +1006,7 @@ Action Official.—The Secretary of Defense may act through the Under Secretary 
 
 #### Internet Accessibility of Health Assessment Information for Members of the Armed Forces
 
-Pub. L. 108–375, div. A, title VII, §739(b), Oct. 28, 2004, 118 Stat. 2002, provided that: "Not later than one year after the date of the enactment of this Act \[Oct. 28, 2004\], the Chief Information Officer of each military department shall ensure that the online portal website ofthat military department includes the following information relating to health assessments:
+Pub. L. 108–375, div. A, title VII, §739(b), Oct. 28, 2004, 118 Stat. 2002, provided that: "Not later than one year after the date of the enactment of this Act \[Oct. 28, 2004\], the Chief Information Officer of each military department shall ensure that the online portal website of that military department includes the following information relating to health assessments:
 
 &emsp;"(1) Information on the policies of the Department of Defense and the military department concerned regarding predeployment and postdeployment health assessments, including policies on the following matters:
 
@@ -1138,7 +1142,7 @@ Pub. L. 105–85, div. A, title VII, §§761, 762, 770, Nov. 18, 1997, 111 Stat.
 
 &emsp;"(2) The term 'Persian Gulf War' has the meaning given that term in section 101 of title 38, United States Code.
 
-&emsp;"(3) The term 'Persian Gulf veteran' means an individual who served on active duty in the Armed Forces in the Southwest Asia theater of operations during the Persian Gulf War.
+&emsp;"(3) The term 'Persian Gulf veteran' means an individual who served on active duty in the Armed Forcesin the Southwest Asia theater of operations during the Persian Gulf War.
 
 &emsp;"(4) The term 'contingency operation' has the meaning given that term in section 101(a) of title 10, United States Code, and includes a humanitarian operation, peacekeeping operation, or similar operation.
 
@@ -1226,7 +1230,7 @@ Compatibility of Department of Defense and Department of Veterans Affairs Regist
 
 "(d)
 
-Presumptions on Behalf of Service Member.—(1) A member of the Armed Forces who is a Persian Gulf veteran, who has symptoms of illness, and who the Secretary concerned finds may have become ill as a result of serving on active duty in the Southwest Asia theater of operations during the Persian Gulf War shall be considered for Department of Defense purposes to have become ill as a result of serving in that theater of operations.
+Presumptions on Behalf of Service Member.—(1) A member of the Armed Forces who is a PersianGulf veteran, who has symptoms of illness, and who the Secretary concerned finds may have become ill as a result of serving on active duty in the Southwest Asia theater of operations during the Persian Gulf War shall be considered for Department of Defense purposes to have become ill as a result of serving in that theater of operations.
 
 "(2) A member of the Armed Forces who is a Persian Gulf veteran and who reports being ill as a result of serving on active duty in the Southwest Asia theater of operations during the Persian Gulf War shall be considered for Department of Defense purposes to have become ill as a result of serving in that theater of operations until such time as the weight of medical evidence establishes other cause or causes of the member's illness.
 
@@ -1336,7 +1340,7 @@ Pub. L. 103–335, title VIII, §8017, Sept. 30, 1994, 108 Stat. 2620, which pro
 
 #### Mental Health Evaluations of Members of Armed Forces
 
-Pub. L. 102–484, div. A, title V, §546(a)–(h), Oct. 23, 1992, 106 Stat. 2416–2419, which directed Secretary of Defense, not later than 180 days after Oct. 23, 1992, to revise applicable regulations to incorporate certain requirements with respect to mental health evaluationsof members of Armed Forces and to submit a report describing process of preparing regulations, was repealed by Pub. L. 112–81, div. A, title VII, §711(b), Dec. 31, 2011, 125 Stat. 1476.
+Pub. L. 102–484, div. A, title V, §546(a)–(h), Oct. 23, 1992, 106 Stat. 2416–2419, which directed Secretary of Defense, not later than 180 days after Oct. 23, 1992, to revise applicable regulations to incorporate certain requirements with respect to mental health evaluations of members of Armed Forces and to submit a report describing process of preparing regulations, was repealed by Pub. L. 112–81, div. A, title VII, §711(b), Dec. 31, 2011, 125 Stat. 1476.
 
 #### Study on Risk-Sharing Contracts for Health Care
 
@@ -1433,6 +1437,8 @@ Pub. L. 99–661, div. A, title VII, §705(c), Nov. 14, 1986, 100 Stat. 3904, pr
 Report to President and Congress
 
 Pub. L. 92–129, title I, §101(c), Sept. 28, 1971, 85 Stat. 354, authorized Secretary of Defense and Secretary of Health, Education, and Welfare to conduct a joint study of means of meeting medical needs of Armed Forces through means requiring less dependence on Armed Forces medical personnel, giving consideration to providing medical care for military personnel and their dependents under contracts with clinics, hospitals, and individual members of the medical profession at or near military installations within and outside the United States. The study and recommendations were to be submitted to President and Congress no later than 6 months after Sept. 28, 1971.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

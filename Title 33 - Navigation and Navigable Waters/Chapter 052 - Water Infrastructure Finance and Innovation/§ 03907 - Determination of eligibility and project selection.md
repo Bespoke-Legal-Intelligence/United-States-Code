@@ -34,7 +34,7 @@ To be eligible to receive financial assistance under this chapter, a project sha
 
 #### (ii) Final rating opinion letters
 
-&emsp;&emsp;&emsp;The Secretary or the Administrator, as applicable, shall require each project applicant to provide, prior to final acceptance and financing of the project, final rating opinion letters from at least 2 rating agencies indicating that the senior obligations of the project have an investment-grade rating.
+&emsp;&emsp;&emsp;The Secretary or the Administrator, as applicable, shall require each project applicant to provide, prior to final acceptance and financing of the project, a final rating opinion letter from at least 1 rating agency indicating that the senior obligations of the project have an investment-grade rating.
 
 #### (E) Special rule for certain combined projects
 
@@ -66,7 +66,7 @@ To be eligible to receive financial assistance under this chapter, a project sha
 
 #### (B) Public sponsorship
 
-&emsp;&emsp;For purposes of this chapter, a project shall be considered to be publicly sponsored if the obligor can demonstrate, to the satisfaction of the Secretary or the Administrator, as appropriate, that the project applicant has consulted with the affected State, local, or tribal government in which the project is located, or is otherwise affected by the project, and that such government supports the proposed project.
+&emsp;&emsp;For purposes of this chapter, a project shall be considered to be publicly sponsored if the obligor can demonstrate, to the satisfaction of the Secretary or the Administrator, as appropriate, that the project applicant has consulted with the affected State, local, or tribal government in whichthe project is located, or is otherwise affected by the project, and that such government supports the proposed project.
 
 #### (5) Use of existing financing mechanisms
 
@@ -154,11 +154,13 @@ To be eligible to receive financial assistance under this chapter, a project sha
 
 Nothing in this section supersedes the applicability of other requirements of Federal law (including regulations).
 
-(Pub. L. 113–121, title V, §5028, June 10, 2014, 128 Stat. 1335; Pub. L. 114–94, div. A, title I, §1445, Dec. 4, 2015, 129 Stat. 1437; Pub. L. 114–322, title IV, §5008(b)(2)(D), Dec. 16, 2016, 130 Stat. 1897; Pub. L. 115–270, title IV, §4201(a)(2), Oct. 23, 2018, 132 Stat. 3877.)
+(Pub. L. 113–121, title V, §5028, June 10, 2014, 128 Stat. 1335; Pub. L. 114–94, div. A, title I, §1445, Dec. 4, 2015, 129 Stat. 1437; Pub. L. 114–322, title IV, §5008(b)(2)(D), Dec. 16, 2016, 130 Stat. 1897; Pub. L. 115–270, title IV, §4201(a)(2), Oct. 23, 2018, 132 Stat. 3877; Pub. L. 117–58, div. E, title II, §50214, Nov. 15, 2021, 135 Stat. 1173.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(1)(D)(ii). Pub. L. 117–58 substituted "a final rating opinion letter from at least 1 rating agency" for "final rating opinion letters from at least 2 rating agencies".
 
 <b>2018</b>—Subsec. (a)(1)(E). Pub. L. 115–270 amended subpar. (E) generally. Prior to amendment, text read as follows: "The Administrator shall develop a credit evaluation process for a Federal credit instrument provided to a State infrastructure financing authority for a project under section 3905(9) of this title or an entity for a project under section 3905(10) of this title, which may include requiring the provision of a final rating opinion letter from at least 2 rating agencies."
 

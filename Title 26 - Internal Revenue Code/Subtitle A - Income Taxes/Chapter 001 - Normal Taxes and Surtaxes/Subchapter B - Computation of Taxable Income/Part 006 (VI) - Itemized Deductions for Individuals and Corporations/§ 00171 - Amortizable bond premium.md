@@ -28,7 +28,7 @@ In the case of any bond, as defined in subsection (d), the following rules shall
 
 &emsp;&emsp;(ii) with reference to the amount payable on maturity or on an earlier call date, in the case of a bond described in subsection (a)(2).
 
-&emsp;&emsp;(C) with adjustments proper to reflect unamortized bond premium, with respect to the bond, for the period before the date as ofwhich subsection (a) becomes applicable with respect to the taxpayer with respect to such bond.
+&emsp;&emsp;(C) with adjustments proper to reflect unamortized bond premium, with respect to the bond, for the period before the date as of which subsection (a) becomes applicable with respect to the taxpayer with respect to such bond.
 
 > &emsp;In no case shall the amount of bond premium on a convertible bond include any amount attributable to the conversion features of the bond.
 
@@ -74,7 +74,7 @@ In the case of any bond, as defined in subsection (d), the following rules shall
 
 #### (2) Manner and effect of election
 
-&emsp;The election authorized under this subsection shall be made in accordance with such regulations as the Secretary shall prescribe. If such election is made with respect to any bond (described in paragraph (1)) of the taxpayer, it shall also apply to all such bonds held by the taxpayer at the beginning of the first taxable year to which the election applies and to all such bonds thereafter acquired by him and shall be binding for all subsequent taxable years with respect to all such bonds of the taxpayer, unless, on application by the taxpayer, the Secretary permits him, subject to such conditions as the Secretary deems necessary, to revoke such election. In the case of bonds held by a common trust fund, as defined in section 584(a), the election authorized under this subsection shall be exercisable with respect to such bonds only by the common trust fund. In case of bonds held by an estate or trust, the election authorized under this subsection shall be exercisable with respect to such bonds only by the fiduciary.
+&emsp;The election authorized under this subsection shall be made in accordance with such regulations as the Secretary shall prescribe. If such election is made with respect to any bond (described in paragraph (1)) of the taxpayer, it shall also apply to all such bonds held by the taxpayer at the beginning of the first taxable year to which the election applies and to all such bonds thereafter acquired by him and shall be binding for all subsequent taxable years with respect to all such bonds of the taxpayer, unless, on application by the taxpayer, the Secretary permits him, subject to such conditions as the Secretary deems necessary, to revoke such election. In the case of bondsheld by a common trust fund, as defined in section 584(a), the election authorized under this subsection shall be exercisable with respect to such bonds only by the common trust fund. In case of bonds held by an estate or trust, the election authorized under this subsection shall be exercisable with respect to such bonds only by the fiduciary.
 
 #### (d) Bond defined
 
@@ -92,9 +92,11 @@ Except as provided in regulations, in the case of any taxable bond—
 
 #### (f) Dealers in tax-exempt securities
 
-&emsp;&emsp;<b>For special rules applicable, in the case of dealers in securities, with respect to premium attributable</b><b>to certain wholly tax-exempt securities, see section 75.</b>
+&emsp;&emsp;<b>For special rules applicable, in the case of dealers in securities, with respect to premium attributable to certain wholly tax-exempt securities, see section 75.</b>
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 61; Pub. L. 85–866, title I, §13(a), Sept. 2, 1958, 72 Stat. 1610; Pub. L. 94–455, title XIX, §§1901(b)(1)(E), 1906(b)(13)(A), 1951(b)(5)(A), Oct. 4, 1976, 90 Stat. 1790, 1834, 1837; Pub. L. 99–514, title VI, §643(a), title XVIII, §1803(a)(11)(A), (B), (12)(A), Oct. 22, 1986, 100 Stat. 2285, 2795; Pub. L. 100–647, title I, §1006(j)(1)(A), Nov. 10, 1988, 102 Stat. 3411; Pub. L. 108–357, title IV, §413(c)(2), Oct. 22, 2004, 118 Stat. 1507; Pub. L. 113–295, div. A, title II, §221(a)(29), Dec. 19, 2014, 128 Stat. 4041.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -146,9 +148,11 @@ Subsec. (c)(1). Pub. L. 94–455, §1901(b)(1)(E)(v), substituted "In the case o
 
 Subsec. (c)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" in three places after "Secretary".
 
-<b>1958</b>—Subsec. (b)(1)(B). Pub. L. 85–866, §13(a)(1), substituted ", in the case of any bond other than a bond to which clause (ii) or (iii) applies" for "(but in the case of bonds described in subsection (c)(1)(B) issued after January 22, 1951, and acquired after January 22, 1954, only if such earlier call date is a date more than 3 years after the date of such issue), and", designated such provision as cl. (i), and added cl. (ii) and (iii).
+<b>1958</b>—Subsec. (b)(1)(B). Pub. L. 85–866, §13(a)(1), substituted ", in the case of any bond other than a bond to which clause (ii) or (iii) applies" for "(but in the case of bonds described in subsection (c)(1)(B) issued after January 22, 1951, and acquired after January 22,1954, only if such earlier call date is a date more than 3 years after the date of such issue), and", designated such provision as cl. (i), and added cl. (ii) and (iii).
 
 Subsec. (b)(2). Pub. L. 85–866, §13(a)(2), substituted "In the case of a bond to which paragraph (1)(B)(ii) or (iii) applies and which has a call date," for "In the case of a bond described in subsection (c)(1)(B) issued after January 22, 1951, and acquired after January 22, 1954, which has a call date not more than 3 years after the date of such issue," in second sentence.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 
@@ -172,7 +176,7 @@ In general.—The amendment made by subsection (a) \[amending this section\] sha
 
 "(2)
 
-Revocation of election.—In the case of a taxpayer with respect to whom an election is in effect on the date of enactment of this Act \[Oct. 22, 1986\], under section 171(c) of the Internal Revenue Code of 1986, suchelection shall apply to obligations acquired after the date of the enactment of this Act only if the taxpayer chooses (at such time and in such manner as may be prescribed by the Secretary of the Treasury or his delegate) to have such election apply with respect to such obligations."
+Revocation of election.—In the case of a taxpayer with respect to whom an election is in effect on the date of enactment of this Act \[Oct. 22, 1986\], under section 171(c) of the Internal Revenue Code of 1986, such election shall apply to obligations acquired after the date of the enactment of this Act only if the taxpayer chooses (at such time and in such manner as may be prescribed by the Secretary of the Treasury or his delegate) to have such election apply with respect to such obligations."
 
 Pub. L. 99–514, title XVIII, §1803(a)(11)(C), Oct. 22, 1986, 100 Stat. 2795, provided that:
 

@@ -42,6 +42,8 @@
 
 (Pub. L. 101–624, title XIX, §1971, Nov. 28, 1990, 104 Stat. 3900.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Rules of Civil Procedure, referred to in subsec. (b)(2), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.

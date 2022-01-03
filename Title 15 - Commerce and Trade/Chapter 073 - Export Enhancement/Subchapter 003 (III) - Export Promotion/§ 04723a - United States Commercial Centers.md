@@ -28,7 +28,7 @@ To carry out its objectives, each Center shall make available the following (on 
 
 #### (2) Business services
 
-&emsp;Business support services, including language translation services, clerical services,and a commercial library containing a comprehensive collection of reference materials covering United States and host country industries and markets.
+&emsp;Business support services, including language translation services, clerical services, and a commercial library containing a comprehensive collection of reference materials covering United States and host country industries and markets.
 
 #### (3) Commercial law information services
 
@@ -95,6 +95,8 @@ For purposes of this section—
 &emsp;(3) the term "United States" means the several States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
 (Pub. L. 102–549, title IV, §401, Oct. 28, 1992, 106 Stat. 3661; Pub. L. 104–66, title I, §1021(b), Dec. 21, 1995, 109 Stat. 712.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

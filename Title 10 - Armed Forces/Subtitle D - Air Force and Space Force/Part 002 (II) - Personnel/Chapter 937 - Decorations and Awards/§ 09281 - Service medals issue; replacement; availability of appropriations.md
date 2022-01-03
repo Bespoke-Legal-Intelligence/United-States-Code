@@ -46,11 +46,15 @@ In subsection (b), the words "member of the Air Force" are substituted for the w
 
 In subsection (c), the last 16 words are substituted for 10:1415c (last 16 words).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283 inserted "or the Space Force" after "the Air Force" wherever appearing after the first appearance.
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 8751 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

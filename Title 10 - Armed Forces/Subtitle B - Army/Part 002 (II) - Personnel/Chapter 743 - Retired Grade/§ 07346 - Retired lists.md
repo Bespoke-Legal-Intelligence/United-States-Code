@@ -72,6 +72,8 @@ Act
 
 July 24, 1956, ch. 677, §2(f), (g), 70 Stat. 623.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 3966 of this title as this section.
@@ -79,6 +81,8 @@ July 24, 1956, ch. 677, §2(f), (g), 70 Stat. 623.
 <b>1987</b>—Subsec. (b)(2). Pub. L. 100–180 struck out "Regular" before "Army".
 
 <b>1958</b>—Pub. L. 85–861 struck out provisions in subsecs. (a) and (b) which required annual publication in the official Army Register of the retired list.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

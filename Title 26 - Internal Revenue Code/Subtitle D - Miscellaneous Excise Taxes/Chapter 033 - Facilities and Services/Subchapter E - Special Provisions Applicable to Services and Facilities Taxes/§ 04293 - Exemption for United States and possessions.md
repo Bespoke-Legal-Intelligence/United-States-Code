@@ -1,8 +1,10 @@
 ### §4293. Exemption for United States and possessions
 
-The Secretary of the Treasury may authorize exemption from the taxes imposed by section 4041, section 4051, chapter 32 (other than the taxes imposed by sections 4064 and 4121) and subchapter B of chapter 33, as to any particular article, or service or class of articles or services, to be purchased for the exclusive use of the United States, if he determines that the imposition of such taxes with respect to such articles or services, or class of articles or services will cause substantial burden or expense which can be avoided by granting tax exemption and that full benefit of such exemption, if granted, will accrue to the United States.
+The Secretary of the Treasury may authorize exemption from the taxes imposed by section4041, section 4051, chapter 32 (other than the taxes imposed by sections 4064 and 4121) and subchapter B of chapter 33, as to any particular article, or service or class of articles or services, to be purchased for the exclusive use of the United States, if he determines that the imposition of such taxes with respect to such articles or services, or class of articles or services will cause substantial burden or expense which can be avoided by granting tax exemption and that full benefit of such exemption, if granted, will accrue to the United States.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 511; Pub. L. 91–258, title II, §205(a)(3), May 21, 1970, 84 Stat. 241; Pub. L. 94–455, title XIX, §1906(b)(13)(B), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–227, §2(b)(3), Feb. 10, 1978, 92 Stat. 12; Pub. L. 95–502, title II, §202(b), Oct. 21, 1978, 92 Stat. 1697; Pub. L. 95–618, title II, §201(c)(2), Nov. 9, 1978, 92 Stat. 3184; Pub. L. 100–647, title VI, §6103(a), Nov. 10, 1988, 102 Stat. 3711; Pub. L. 101–508, title XI, §11221(c), Nov. 5, 1990, 104 Stat. 1388–444; Pub. L. 113–295, div. A, title II, §221(a)(103)(B)(iii), Dec. 19, 2014, 128 Stat. 4053.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -21,6 +23,8 @@ Pub. L. 95–227 inserted "(other than the tax imposed by section 4121)" after "
 <b>1976</b>—Pub. L. 94–455 substituted "Secretary of the Treasury" for "Secretary" after "The".
 
 <b>1970</b>—Pub. L. 91–258 substituted "subchapter B" for "subchapters B and C".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

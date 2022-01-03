@@ -10,7 +10,7 @@ The Director, in consultation with the Director of the National Institute of Cor
 
 &emsp;&emsp;(B) to provide a degree of security and discipline appropriate for the offender involved;
 
-&emsp;&emsp;(C) to provide diagnosis, and treatment and services (including counseling, substance abuse treatment, education, job training and placement assistance whileunder correctional supervision, and linkage to similar outside services), to increase the success rate of offenders who decide to pursue a course of lawful and productive conduct after release from legal restraint;
+&emsp;&emsp;(C) to provide diagnosis, and treatment and services (including counseling, substance abuse treatment, education, job training and placement assistance while under correctional supervision, and linkage to similar outside services), to increase the success rate of offenders who decide to pursue a course of lawful and productive conduct after release from legal restraint;
 
 &emsp;&emsp;(D) to reduce criminal recidivism by offenders who receive punishment through such alternatives;
 

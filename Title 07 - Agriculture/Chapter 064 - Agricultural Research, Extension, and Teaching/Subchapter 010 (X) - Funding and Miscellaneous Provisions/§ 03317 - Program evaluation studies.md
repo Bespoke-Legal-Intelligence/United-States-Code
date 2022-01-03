@@ -6,9 +6,13 @@
 
 (Pub. L. 95–113, title XIV, §1471, as added Pub. L. 97–98, title XIV, §1439(a), Dec. 22, 1981, 95 Stat. 1314.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For definition of "this chapter", referred to in subsec. (a), see note set out under section 3102 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

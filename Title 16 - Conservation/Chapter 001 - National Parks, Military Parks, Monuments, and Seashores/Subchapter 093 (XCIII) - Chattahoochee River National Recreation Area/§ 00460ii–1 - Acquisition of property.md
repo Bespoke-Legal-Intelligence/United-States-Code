@@ -18,9 +18,11 @@ Any right of use and occupancy retained pursuant to this section may, during its
 
 #### (e) "Improved property" defined
 
-As used in this section, the term "improved property" means a detached, year-round noncommercial residential dwelling, the construction of which was begun before January 1, 1975, together with so much of the land on which the dwelling is situated, the said land being in the same ownership as the dwelling, as the Secretary shall designate to be reasonably necessary for the enjoyment of the dwelling for the sole purpose of noncommercial residential use, together with any structures accessory to the dwelling which are situated on the land so designated.
+As used in this section, the term "improved property" means a detached, year-round noncommercial residential dwelling, the construction of which was begun before January 1, 1975, together with so much of the land on which the dwelling is situated, the said land being in thesame ownership as the dwelling, as the Secretary shall designate to be reasonably necessary for the enjoyment of the dwelling for the sole purpose of noncommercial residential use, together with any structures accessory to the dwelling which are situated on the land so designated.
 
 (Pub. L. 95–344, title I, §102, Aug. 15, 1978, 92 Stat. 474; Pub. L. 98–568, §1(c), Oct. 30, 1984, 98 Stat. 2928; Pub. L. 106–154, §2(b), (e)(1), Dec. 9, 1999, 113 Stat. 1737, 1738.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

@@ -6,7 +6,7 @@ As used in this subchapter—
 
 &emsp;(2) the term "IAEA" means the International Atomic Energy Agency;
 
-&emsp;(3) the term "near real time material accountancy" means a method of accounting for the location, quantity, and disposition of special fissionable material at facilities that store or process such material, in which verification of peaceful use is continuously achieved by means of frequent physical inventories and the use of in-process instrumentation;
+&emsp;(3) the term "near real time material accountancy" means a method of accounting for the location, quantity, and disposition of special fissionable material at facilities that store or process such material, in whichverification of peaceful use is continuously achieved by means of frequent physical inventories and the use of in-process instrumentation;
 
 &emsp;(4) the term "special fissionable material" has the meaning given that term by Article XX(1) of the Statute of the International Atomic Energy Agency, done at the Headquarters of the United Nations on October 26, 1956;
 

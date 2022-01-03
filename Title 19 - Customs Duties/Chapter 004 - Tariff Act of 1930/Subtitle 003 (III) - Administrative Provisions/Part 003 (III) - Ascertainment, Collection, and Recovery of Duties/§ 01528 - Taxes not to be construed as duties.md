@@ -4,11 +4,15 @@ No tax or other charge imposed by or pursuant to any law of the United States sh
 
 (June 17, 1930, ch. 497, title IV, §528, as added June 25, 1938, ch. 679, §20, 52 Stat. 1087; amended Pub. L. 96–417, title VI, §601(8), Oct. 10, 1980, 94 Stat. 1744; Pub. L. 97–164, title I, §163(a)(3), Apr. 2, 1982, 96 Stat. 49.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1982</b>—Pub. L. 97–164 substituted "Court of Appeals for the Federal Circuit" for "Court of Customs and Patent Appeals".
 
 <b>1980</b>—Pub. L. 96–417 redesignated the United States Customs Court as the United States Court of International Trade.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1982 Amendment
 

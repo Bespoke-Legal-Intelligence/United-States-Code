@@ -30,7 +30,7 @@ The items referred to in subsection (a) are:
 
 &emsp;&emsp;(A) The taxable year of the acquiring corporation to which the net operating loss carryovers of the distributor or transferor corporation are first carried shall be the first taxable year ending after the date of distribution or transfer.
 
-&emsp;&emsp;(B) In determining the net operating loss deduction, the portion of such deduction attributable to the net operating loss carryovers of the distributor or transferor corporation to the first taxable year of the acquiring corporation ending after the date of distribution or transfer shall be limited to an amount which bears the same ratio to the taxable income (determined without regard to a net operating loss deduction) of the acquiring corporation in such taxable year as the number of days in the taxable year afterthe date of distribution or transfer bears to the total number of days in the taxable year.
+&emsp;&emsp;(B) In determining the net operating loss deduction, the portion of such deduction attributable to the net operating loss carryovers of the distributor or transferor corporation to the first taxable year of the acquiring corporation ending after the date of distribution or transfer shall be limited to an amount which bears the same ratio to the taxable income (determined without regard to a net operating loss deduction) of the acquiring corporation in such taxable year as the number of days in the taxable year after the date of distribution or transfer bears to the total number of days in the taxable year.
 
 &emsp;&emsp;(C) For the purpose of determining the amount of the net operating loss carryovers under section 172(b)(2), a net operating loss for a taxable year (hereinafter in this subparagraph referred to as the "loss year") of a distributor or transferor corporation which ends on or before the end of a loss year of the acquiring corporation shall be considered to be a net operating loss for a year prior to such loss year of the acquiring corporation. For the same purpose, the taxable income for a "prior taxable year" (as the term is used in section 172(b)(2)) shall be computed as provided in such section; except that, if the date of distribution or transfer is on a day other than the last day of a taxable year of the acquiring corporation—
 
@@ -74,7 +74,7 @@ The items referred to in subsection (a) are:
 
 #### (6) Method of computing depreciation allowance
 
-&emsp;The acquiring corporation shall be treated as the distributor or transferor corporation for purposes of computing the depreciation allowance under sections 167 and 168 on property acquired in a distribution or transfer with respect to so much of the basis in the hands of the acquiring corporation as does not exceed the adjusted basis in the hands of the distributor or transferor corporation.
+&emsp;The acquiring corporation shall be treated as the distributor or transferor corporation forpurposes of computing the depreciation allowance under sections 167 and 168 on property acquired in a distribution or transfer with respect to so much of the basis in the hands of the acquiring corporation as does not exceed the adjusted basis in the hands of the distributor or transferor corporation.
 
 #### \[(7) Repealed. June 15, 1955, ch. 143, §2(1), 69 Stat. 134\]
 
@@ -132,7 +132,7 @@ The items referred to in subsection (a) are:
 
 #### (20) Carryforward of disallowed business interest
 
-&emsp;The carryover of disallowed business interest described in section 163(j)(2) to taxableyears ending after the date of distribution or transfer.
+&emsp;The carryover of disallowed business interest described in section 163(j)(2) to taxable years ending after the date of distribution or transfer.
 
 #### \[(21) Repealed. Pub. L. 94–455, title XIX, §1901(b)(16), Oct. 4, 1976, 90 Stat. 1796\]
 
@@ -158,6 +158,8 @@ The items referred to in subsection (a) are:
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 124; June 15, 1955, ch. 143, §2(1), 69 Stat. 134; Jan. 28, 1956, ch. 15, §1, 70 Stat. 7; Pub. L. 85–866, title I, §29(c), Sept. 2, 1958, 72 Stat. 1628; Pub. L. 86–69, §3(c), June 25, 1959, 73 Stat. 139; Pub. L. 87–834, §2(d), Oct. 16, 1962, 76 Stat. 971; Pub. L. 88–272, title II, §§209(d)(2), 225(i)(3), Feb. 26, 1964, 78 Stat. 46, 92; Pub. L. 90–240, §5(d), Jan. 2, 1968, 81 Stat. 778; Pub. L. 91–172, title V, §§504(c)(2), 512(c), 521(f), Dec. 30, 1969, 83 Stat. 633, 639, 654; Pub. L. 92–178, title VI, §601(c)(3), Dec. 10, 1971, 85 Stat. 557; Pub. L. 94–455, title XVI, §1601(e), title XIX, §§1901(a)(54), (b)(16), (17), (21)(B), (33)(N), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1746, 1773, 1796, 1797, 1802, 1834; Pub. L. 95–30, title II, §202(d)(3)(A), May 23, 1977, 91 Stat. 148; Pub. L. 95–600, title III, §362(d)(2), Nov. 6, 1978, 92 Stat. 2851; Pub. L. 96–223, title II, §232(b)(2)(B), Apr. 2, 1980, 94 Stat. 276; Pub. L. 96–471, §2(b)(2), Oct. 19, 1980, 94 Stat. 2253; Pub. L. 96–589, §4(g), Dec. 24, 1980, 94 Stat. 3404; Pub. L. 97–34, title II, §§208, 221(b)(1)(B), title III, §331(d)(1)(B), Aug. 13, 1981, 95 Stat. 226, 246, 294; Pub. L. 97–248, title II, §224(c)(7), Sept. 3, 1982, 96 Stat. 489; Pub. L. 97–448, title I, §§102(h)(3), 103(g)(2)(F), Jan. 12, 1983, 96 Stat. 2372, 2379; Pub. L. 98–369, div. A, title II, §211(b)(4), title IV, §474(r)(11), July 18, 1984, 98 Stat. 754, 841; Pub. L. 99–514, title II, §231(d)(3)(F), title IV, §411(b)(2)(C)(iii), title VII, §701(e)(1), title XVIII, §1812(a)(3), Oct. 22, 1986, 100 Stat. 2179, 2227, 2342, 2833; Pub. L. 100–203, title X, §10202(c)(3), Dec. 22, 1987, 101 Stat. 1330–392; Pub. L. 100–647, title I, §1002(a)(13), Nov. 10, 1988, 102 Stat. 3355; Pub. L. 101–239, title VII, §7841(d)(10), Dec. 19, 1989, 103 Stat. 2428; Pub. L. 101–508, title XI, §§11801(c)(10)(A), 11812(b)(6), Nov. 5, 1990, 104 Stat. 1388–526, 1388–535; Pub. L. 103–66, title XIII, §13302(e), Aug. 10, 1993, 107 Stat. 556; Pub. L. 104–188, title I, §1704(t)(26), Aug. 20, 1996, 110 Stat. 1888; Pub. L. 115–97, title I, §§13301(b)(1), 13511(b)(3), Dec. 22, 2017, 131 Stat. 2121, 2142; Pub. L. 115–141, div. U, title IV, §401(b)(18), Mar. 23, 2018, 132 Stat. 1202.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 172(b)(2)(B), referred to in subsec. (c)(1)(C)(v), (vi), was amended by Pub. L. 115–97, title I, §13302(a)(2), Dec. 22, 2017, 131 Stat. 2121, and, as so amended, no longer relates to net operating loss deductions. Provisions similar to those contained in former subpar. (B) of section 172(b)(2) of this title are now contained in subpar. (A) of section 172(b)(2) of this title.
@@ -178,7 +180,7 @@ Subsec. (d). Pub. L. 115–97, §13511(b)(3), struck out subsec. (d). Text read 
 
 Subsec. (c)(15). Pub. L. 101–508, §11801(c)(10)(A), struck out par. (15) "Indebtedness of certain personal holding companies" which read as follows: "The acquiring corporation shall be considered to be the distributor or transferor corporation for the purpose of determining the applicability of subsection (c) of section 545, relating to deduction with respect to payment of certain indebtedness."
 
-Subsec. (c)(24) to (26). Pub. L. 101–508, §11812(b)(6)(B), redesignated pars. (25) and (26) as (24) and (25), respectively, and struck out former par. (24) "Method of computing depreciation deduction" which read as follows: "The acquiring corporation shall be treated as the distributor or transferor corporation for purposes of computing the deduction allowable under section 168(a) on property acquired in a distribution or transfer with respect to so much of the basis in the hands of the acquiring corporation as does not exceed the adjusted basis in the hands of the distributor or transferor corporation."
+Subsec. (c)(24) to (26). Pub. L. 101–508, §11812(b)(6)(B), redesignated pars. (25) and (26) as (24) and (25), respectively, and struck out former par. (24) "Method of computing depreciation deduction" which read as follows:"The acquiring corporation shall be treated as the distributor or transferor corporation for purposes of computing the deduction allowable under section 168(a) on property acquired in a distribution or transfer with respect to so much of the basis in the hands of the acquiring corporation as does not exceed the adjusted basis in the hands of the distributor or transferor corporation."
 
 <b>1989</b>—Subsec. (c)(26), (27). Pub. L. 101–239, as amended by Pub. L. 104–188, redesignated par. (27) as (26).
 
@@ -258,7 +260,7 @@ Subsec. (c)(25). Pub. L. 94–455, §1601(e), added par. (25).
 
 Subsec. (c)(6). Pub. L. 91–172, §521(f), substituted "subsections (b), (j) and (k) of section 167" for "paragraphs (2), (3) and (4) of section 167(b)" and inserted reference to adjusted basis in the hand of the distributor or transferor corporation.
 
-Subsec. (c)(10). Pub. L. 91–172, §504(c)(2), substituted "Treatment of certain mining exploration and development expenses of distributor or transferor corporation" for "Treatment of certain expenses deferred by the election of distributor or transferor corporation" in heading, limited deduction of expenses deferred under sections 615 and 616 of this title by the acquiring corporation as if it were the distributor or transferor corporation to pre-1970 exploration and development expenditures, and inserted provision that if distributor or transferor corporation, for any taxable year, was allowed the deduction in sections 615(a) or 617(a) of this title or made the election provided in section 615(b) of this title, acquiring corporation shall be deemed to have been allowed such deduction or deductions or tohave made such election, as the case may be, for the purpose of applying the limitation provided in section 617 of this title.
+Subsec. (c)(10). Pub. L. 91–172, §504(c)(2), substituted "Treatment of certain mining exploration and development expenses of distributor or transferor corporation" for "Treatment of certain expenses deferred by the election of distributor or transferor corporation" in heading, limited deduction of expenses deferred under sections 615 and 616 of this title by the acquiring corporation as if it were the distributor or transferor corporation to pre-1970 exploration and development expenditures, and inserted provision that if distributor or transferor corporation, for any taxable year, was allowed the deduction in sections 615(a) or 617(a) of this title or made the election provided in section 615(b) of this title, acquiring corporation shall be deemed to have been allowed such deduction or deductions or to have made such election, as the case may be, for the purpose of applying the limitation provided in section 617 of this title.
 
 <b>1968</b>—Subsec. (c)(22). Pub. L. 90–240 substituted successor insurance companies for successor life insurance companies as the business enterprise covered, substituted reference to insurance companies taxable under subchapter L for reference to life insurance companies as defined in section 801(a), and substituted reference to the purposes of this section and of subchapter L for reference to the purposes of this section and part I of subchapter L.
 
@@ -277,6 +279,8 @@ Subsec. (d). Pub. L. 86–69, §3(c)(2), added subsec. (d).
 <b>1956</b>—Subsec. (c)(20). Act Jan. 28, 1956 added par. (20).
 
 <b>1955</b>—Subsec. (c)(7). Act June 15, 1955, repealed par. (7) which related to carryover of prepaid income.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 

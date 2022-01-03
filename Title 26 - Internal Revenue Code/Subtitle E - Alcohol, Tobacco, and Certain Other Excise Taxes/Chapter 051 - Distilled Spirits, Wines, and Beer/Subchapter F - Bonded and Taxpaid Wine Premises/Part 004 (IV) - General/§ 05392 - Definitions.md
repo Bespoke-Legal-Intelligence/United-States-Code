@@ -26,9 +26,11 @@ For purposes of this subchapter the term "own production", when used with refere
 
 #### (g) Liquid sugar
 
-For purposes of this subchapter the term "liquid sugar" means a substantially colorless puresugar and water solution containing not less than 60 percent pure sugar by weight (60 degrees Brix.)
+For purposes of this subchapter the term "liquid sugar" means a substantially colorless pure sugar and water solution containing not less than 60 percent pure sugar by weight (60 degrees Brix.)
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1387; amended Pub. L. 89–44, title VIII, §806(b)(3), June 21, 1965, 79 Stat. 163; Pub. L. 94–455, title XIX, §1905(a)(21), Oct. 4, 1976, 90 Stat. 1820; Pub. L. 115–141, div. U, title IV, §401(a)(246), Mar. 23, 2018, 132 Stat. 1195.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -43,6 +45,8 @@ A prior section 5392, act Aug. 16, 1954, ch. 736, 68A Stat. 672, consisted of pr
 <b>1965</b>—Subsec. (c). Pub. L. 89–44, §806(b)(3)(A), added fruit, grain, or other sources of starch to cane and beets as sources of "pure sugar".
 
 Subsec. (g). Pub. L. 89–44, §806(b)(3)(B), added subsec. (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

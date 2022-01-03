@@ -138,7 +138,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;&emsp;(i) beginning on the date that the corrective action is required by the Administrator or an authorized State pursuant to—
 
-&emsp;&emsp;&emsp;&emsp;(I) a final permit under section 3005 of the Solid Waste Disposal Act or a finalorder under section 3004 or 3008 of such Act, or
+&emsp;&emsp;&emsp;&emsp;(I) a final permit under section 3005 of the Solid Waste Disposal Act or a final order under section 3004 or 3008 of such Act, or
 
 &emsp;&emsp;&emsp;&emsp;(II) a final order under section 106 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, and
 
@@ -234,7 +234,7 @@ For purposes of this subchapter—
 
 #### (C) Inventory exchange
 
-&emsp;&emsp;For purposes of this paragraph, the term "inventory exchange" means any exchangein which 2 persons exchange property which is, in the hands of each person, property described in section 1221(a)(1).
+&emsp;&emsp;For purposes of this paragraph, the term "inventory exchange" means any exchange in which 2 persons exchange property which is, in the hands of each person, property described in section 1221(a)(1).
 
 #### (d) Refund or credit for certain uses
 
@@ -266,7 +266,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;(B) any person uses such chemical as a qualified fuel substance,
 
-> &emsp;then an amount equal to the excess of the tax so paid over the tax determined with regard to subsection (b)(5) shall be allowed as a credit or refund (without interest) to such person in the same manner as if it were an overpayment of tax imposed by this section.
+> &emsp;then an amount equal to the excess of the tax so paid over the tax determined with regard tosubsection (b)(5) shall be allowed as a credit or refund (without interest) to such person in the same manner as if it were an overpayment of tax imposed by this section.
 
 #### (4) Use in the production of animal feed
 
@@ -330,6 +330,8 @@ The provisions of subsections (a)(3) and (b)(3) of section 7652 shall not apply 
 
 (Added Pub. L. 96–510, title II, §211(a), Dec. 11, 1980, 94 Stat. 2799; amended Pub. L. 98–369, div. A, title X, §1019(a)–(c), July 18, 1984, 98 Stat. 1022–1024; Pub. L. 99–499, title V, §513(b)–(g), Oct. 17, 1986, 100 Stat. 1762–1765; Pub. L. 100–647, title II, §2001(a), Nov. 10, 1988, 102 Stat. 3593; Pub. L. 106–170, title V, §532(c)(2)(U), Dec. 17, 1999, 113 Stat. 1931.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 3005, 3004, and 3008 of the Solid Waste Disposal Act, referred to in subsec. (b)(8)(C)(i)(I), and section 1004 of that Act, referred to in subsec. (b)(8)(E), are classified to sections 6925, 6924, 6928, and 6903, respectively, of Title 42, The Public Health and Welfare.
@@ -373,6 +375,8 @@ Subsec. (c). Pub. L. 98–369, §1019(c), substituted "Except as provided in sub
 Subsec. (d)(2)(B). Pub. L. 98–369, §1019(b)(2)(B), inserted "fertilizer" after "qualified" and struck out ", or sells such substance for use," after "such substance".
 
 Subsec. (d)(3). Pub. L. 98–369, §1019(a)(2), added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1999 Amendment
 

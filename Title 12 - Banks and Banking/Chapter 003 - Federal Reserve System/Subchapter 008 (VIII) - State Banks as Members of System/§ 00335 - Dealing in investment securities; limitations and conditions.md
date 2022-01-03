@@ -8,7 +8,7 @@ State member banks shall be subject to the same limitations and conditions with 
 
 #### Codification
 
-Section is comprised of the twentieth par. of section 9 of act Dec. 23, 1913, as amended. The twentieth par.constituted the eighteenth par. of section 9 in 1933 (48 Stat. 16), became the nineteenth par. in 1935 (49 Stat. 704), and became the twentieth par. in 1950 (64 Stat. 458). For further details, see Codification notes set out under sections 321 and 329a of this title.
+Section is comprised of the twentieth par. of section 9 of act Dec. 23, 1913, as amended. The twentieth par. constituted the eighteenth par. of section 9 in 1933 (48 Stat. 16), became the nineteenth par. in 1935 (49 Stat. 704), and became the twentieth par. in 1950 (64 Stat. 458). For further details, see Codification notes set out under sections 321 and 329a of this title.
 
 #### Amendments
 

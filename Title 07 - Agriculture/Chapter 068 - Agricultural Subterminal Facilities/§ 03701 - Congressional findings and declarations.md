@@ -12,6 +12,8 @@ Congress finds and declares that—
 
 (Pub. L. 96–358, §2, Sept. 25, 1980, 94 Stat. 1184.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Pub. L. 96–358, §6, Sept. 25, 1980, 94 Stat. 1189, provided that: "The provisions of this Act \[enacting this chapter and amending section 1932 of this title\] shall become effective October 1, 1980."

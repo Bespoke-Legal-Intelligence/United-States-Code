@@ -4,9 +4,13 @@ Any standard or requirement adopted by a State pursuant to this title,<sup>1</su
 
 (Pub. L. 111–148, title I, §1252, Mar. 23, 2010, 124 Stat. 162.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This title, referred to in text, is title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 130, which enacted this chapter and enacted, amended, and transferred numerous other sections and notes in the Code. For complete classification of title I to the Code, see Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

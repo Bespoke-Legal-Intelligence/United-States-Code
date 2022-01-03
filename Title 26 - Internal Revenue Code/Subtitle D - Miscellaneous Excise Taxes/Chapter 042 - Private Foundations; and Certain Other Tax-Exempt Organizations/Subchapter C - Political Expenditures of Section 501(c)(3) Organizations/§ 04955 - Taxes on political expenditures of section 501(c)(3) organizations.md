@@ -88,9 +88,13 @@ For purposes of this section—
 
 (Added Pub. L. 100–203, title X, §10712(a), Dec. 22, 1987, 101 Stat. 1330–465; amended Pub. L. 104–168, title XIII, §1311(c)(1), July 30, 1996, 110 Stat. 1478.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (e). Pub. L. 104–168 substituted "sections 4945 and 4958" for "section 4945" in heading and inserted "or an excess benefit for purposes of section 4958" before period at end of text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

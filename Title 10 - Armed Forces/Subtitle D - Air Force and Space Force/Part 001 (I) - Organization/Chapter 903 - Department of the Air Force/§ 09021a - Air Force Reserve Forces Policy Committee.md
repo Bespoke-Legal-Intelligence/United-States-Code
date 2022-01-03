@@ -4,11 +4,15 @@ There is in the Office of the Secretary of the Air Force an Air Force Reserve Fo
 
 (Added Pub. L. 103–337, div. A, title XVI, §1661(b)(4)(B), Oct. 5, 1994, 108 Stat. 2982, §8021; renumbered §9021, Pub. L. 115–232, div. A, title VIII, §806(c), Aug. 13, 2018, 132 Stat. 1833; renumbered §9021a, Pub. L. 116–92, div. A, title IX, §954(a)(1), Dec. 20, 2019, 133 Stat. 1564.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Pub. L. 116–92 renumbered section 9021 of this title as this section.
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 8021 of this title as section 9021 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

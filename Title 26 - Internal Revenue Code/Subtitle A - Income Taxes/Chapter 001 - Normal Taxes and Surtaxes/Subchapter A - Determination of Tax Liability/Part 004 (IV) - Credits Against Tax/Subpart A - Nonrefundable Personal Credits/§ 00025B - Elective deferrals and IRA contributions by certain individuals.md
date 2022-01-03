@@ -78,7 +78,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The qualified retirement savings contributions determined under paragraph (1) shall be reduced (but not below zero) by the aggregate distributions received by the individual during the testing period from any entity of a type to which contributions under paragraph (1) may be made. The preceding sentence shall not apply to the portion of any distribution which is not includible in gross income by reason of a trustee-to-trustee transfer or a rollover distribution.
+&emsp;&emsp;The qualified retirement savings contributions determined under paragraph (1) shallbe reduced (but not below zero) by the aggregate distributions received by the individual during the testing period from any entity of a type to which contributions under paragraph (1) may be made. The preceding sentence shall not apply to the portion of any distribution which is not includible in gross income by reason of a trustee-to-trustee transfer or a rollover distribution.
 
 #### (B) Testing period
 
@@ -110,11 +110,13 @@ For purposes of this section, adjusted gross income shall be determined without 
 
 Notwithstanding any other provision of law, a qualified retirement savings contribution shall not fail to be included in determining the investment in the contract for purposes of section 72 by reason of the credit under this section.
 
-(Added and amended Pub. L. 107–16, title VI, §618(a), (b)(1), June 7, 2001, 115 Stat. 106, 108; Pub. L. 107–147, title IV, §§411(m), 417(1), Mar. 9, 2002, 116 Stat. 48, 56; Pub. L. 108–311, title II, §207(4), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 109–135, titleIV, §402(i)(3)(D), Dec. 21, 2005, 119 Stat. 2614; Pub. L. 109–280, title VIII, §§812, 833(a), Aug. 17, 2006, 120 Stat. 997, 1003; Pub. L. 110–343, div. B, title I, §106(e)(2)(C), title II, §205(d)(1)(C), Oct. 3, 2008, 122 Stat. 3817, 3838; Pub. L. 111–5, div. B, title I, §§1004(b)(4), 1142(b)(1)(C), 1144(b)(1)(C), Feb. 17, 2009, 123 Stat. 314, 330, 332; Pub. L. 111–148, title X, §10909(b)(2)(D), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 112–240, title I, §104(c)(2)(E), Jan. 2, 2013, 126 Stat. 2322; Pub. L. 115–97, title I, §§11002(d)(1)(C), 11024(b), Dec. 22, 2017, 131 Stat. 2060, 2076.)
+(Added and amended Pub. L. 107–16, title VI, §618(a), (b)(1), June 7, 2001, 115 Stat. 106, 108; Pub. L. 107–147, title IV, §§411(m), 417(1), Mar. 9, 2002, 116 Stat. 48, 56; Pub. L. 108–311, title II, §207(4), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 109–135, title IV, §402(i)(3)(D), Dec. 21, 2005, 119 Stat. 2614; Pub. L. 109–280, title VIII, §§812, 833(a), Aug. 17, 2006, 120 Stat. 997, 1003; Pub. L. 110–343, div. B, title I, §106(e)(2)(C), title II, §205(d)(1)(C), Oct. 3, 2008, 122 Stat. 3817, 3838; Pub. L. 111–5, div. B, title I, §§1004(b)(4), 1142(b)(1)(C), 1144(b)(1)(C), Feb. 17, 2009, 123 Stat. 314, 330, 332; Pub. L. 111–148, title X, §10909(b)(2)(D), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 112–240, title I, §104(c)(2)(E), Jan. 2, 2013, 126 Stat. 2322; Pub. L. 115–97, title I, §§11002(d)(1)(C), 11024(b), Dec. 22, 2017, 131 Stat. 2060, 2076.)
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title and Revenue Notices listed in a table under section 401 of this title.</i>
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -157,6 +159,8 @@ Subsec. (h). Pub. L. 109–280, §812, struck out heading and text of subsec. (h
 Subsecs. (g), (h). Pub. L. 107–147, §417(1), redesignated subsec. (g), relating to termination, as (h).
 
 <b>2001</b>—Subsec. (g). Pub. L. 107–16, §618(b)(1), added subsec. (g) relating to limitation based on amount of tax.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2013 Amendment
 

@@ -298,7 +298,7 @@
 
 |  |  |
 | :--- | ---: |
-| [7381l.](Subchapter%20013%20%28XIII%29%20-%20Department%20of%20Energy%20Science%20Education%20Programs/Part%20B%20-%20Science%2C%20Engineering%2C%20and%20Mathematics%20Education%20Programs/Subpart%20003%20-%20National%20Laboratories%20Centers%20of%20Excellence%20in%20Science%2C%20Technology%2C%20Engineering%2C%20and%20Mathematics%20Education/%C2%A7%2007381l%20-%20National%20Laboratories%20Centers%20of%20Excellence%20in%20Science%2C%20Technology%2C%20Engineering%2C%20and%20Mathematics%20education.md) | National Laboratories Centers of Excellence in Science, Technology, Engineering, and Mathematics education. |
+| 7381<i>l.</i> | National Laboratories Centers of Excellence in Science, Technology, Engineering, and Mathematics education. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

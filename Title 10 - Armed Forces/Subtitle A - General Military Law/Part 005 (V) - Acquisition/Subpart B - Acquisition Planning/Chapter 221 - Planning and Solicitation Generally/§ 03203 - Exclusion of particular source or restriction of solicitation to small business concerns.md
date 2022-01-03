@@ -30,9 +30,11 @@ Exclusion of Other Than Small Business Concerns.—The head of an agency may pro
 
 (c)
 
-Inapplicability of Justification and Approval Requirements.—A contract awarded pursuant to the competitive procedures referred to in paragraphs (1) and (2) shall not be subject to the justification and approval required by section 3204(e)(1) of this title.
+Inapplicability of Justification and Approval Requirements.—A contract awarded pursuant to the competitive procedures referred to in subsections (a)(1) and (b) shall not be subject to the justification and approval required by section 3204(e)(1) of this title.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, §1811(d)(1), (2), Jan. 1, 2021, 134 Stat. 4166.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, §1811(d)(1), (2), Jan. 1, 2021, 134 Stat. 4166; Pub. L. 117–81, div. A, title XVII, §1701(d)(3), Dec. 27, 2021, 135 Stat. 2136.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -40,7 +42,7 @@ The text of subsec. (b) of section 2304 of this title, which was transferred to 
 
 #### Prior Provisions
 
-A prior section 3203, act Aug. 10, 1956, ch. 1041, 70A Stat. 173; Pub. L. 85–861, §1(64), Sept. 2, 1958, 72 Stat. 1463, prescribed authorized strength of Regular Army inmembers on active duty, exclusive of officers candidates, prior to repeal by Pub. L. 96–513, title II, §202, title VII, §701, Dec. 12, 1980, 94 Stat. 2878, 2955, effective Sept. 15, 1981.
+A prior section 3203, act Aug. 10, 1956, ch. 1041, 70A Stat. 173; Pub. L. 85–861, §1(64), Sept. 2, 1958, 72 Stat. 1463, prescribed authorized strength of Regular Army in members on active duty, exclusive of officers candidates, prior to repeal by Pub. L. 96–513, title II, §202, title VII, §701, Dec. 12, 1980, 94 Stat. 2878, 2955, effective Sept. 15, 1981.
 
 #### Amendments
 
@@ -52,7 +54,15 @@ Subsec. (a)(2). Pub. L. 116–283, §1811(d)(2)(F), redesignated par. (4) as (2)
 
 Subsec. (b). Pub. L. 116–283, §1811(d)(2)(D), redesignated subsec. (a)(2) as (b), inserted heading, and substituted "chapter 137 legacy provisions" for "this section".
 
-Subsec. (c). Pub. L. 116–283, §1811(d)(2)(E), redesignated subsec. (a)(3) as (c), inserted heading, and substituted "section 3204(e)(1) of this title" for "subsection (f)(1)".
+Subsec. (c). Pub. L. 117–81 substituted "subsections (a)(1) and (b)" for "paragraphs (1) and (2)".
+
+Pub. L. 116–283, §1811(d)(2)(E), redesignated subsec. (a)(3) as (c), inserted heading, and substituted "section 3204(e)(1) of this title" for "subsection (f)(1)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 117–81 to take effect immediately after the amendments made by title XVIII of Pub. L. 116–283 have taken effect, see section 1701(a)(3) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and Effective Date note below.
 
 #### Effective Date
 

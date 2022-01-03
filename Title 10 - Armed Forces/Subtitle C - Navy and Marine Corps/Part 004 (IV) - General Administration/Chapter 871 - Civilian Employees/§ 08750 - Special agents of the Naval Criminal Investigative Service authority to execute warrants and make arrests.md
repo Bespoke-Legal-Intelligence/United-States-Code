@@ -14,6 +14,8 @@ Guidelines for Exercise of Authority.—The authority provided under subsection 
 
 (Added Pub. L. 106–398, §1 \[\[div. A\], title V, §554(b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–126, §7480; renumbered §8750, Pub. L. 115–232, div. A, title VIII, §807(d)(6), Aug. 13, 2018, 132 Stat. 1836.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 8750 was renumbered section 9280 of this title.
@@ -21,6 +23,8 @@ A prior section 8750 was renumbered section 9280 of this title.
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7480 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

@@ -20,7 +20,7 @@ As used in subsection (a), the term "discriminate against a qualified individual
 
 &emsp;(4) excluding or otherwise denying equal jobs or benefits to a qualified individual because of the known disability of an individual with whom the qualified individual is known to have a relationship or association;
 
-&emsp;(5)(A) not making reasonable accommodations to the known physical or mental limitations of an otherwise qualified individual with a disability who is an applicant or employee,unless such covered entity can demonstrate that the accommodation would impose an undue hardship on the operation of the business of such covered entity; or
+&emsp;(5)(A) not making reasonable accommodations to the known physical or mental limitations of an otherwise qualified individual with a disability who is an applicant or employee, unless such covered entity can demonstrate that the accommodation would impose an undue hardship on the operation of the business of such covered entity; or
 
 &emsp;(B) denying employment opportunities to a job applicant or employee who is an otherwise qualified individual with a disability, if such denial is based on the need of such covered entity to make reasonable accommodation to the physical or mental impairments of the employee or applicant;
 
@@ -76,7 +76,7 @@ As used in subsection (a), the term "discriminate against a qualified individual
 
 #### (3) Employment entrance examination
 
-&emsp;A covered entity may require a medical examination after an offer of employment has been made to a job applicant and prior to the commencement of the employment duties of such applicant, and may condition an offer of employment on the results of such examination, if—
+&emsp;A covered entity may require a medical examination after an offer of employment hasbeen made to a job applicant and prior to the commencement of the employment duties of such applicant, and may condition an offer of employment on the results of such examination, if—
 
 &emsp;&emsp;(A) all entering employees are subjected to such an examination regardless of disability;
 
@@ -106,9 +106,15 @@ As used in subsection (a), the term "discriminate against a qualified individual
 
 (Pub. L. 101–336, title I, §102, July 26, 1990, 104 Stat. 331; Pub. L. 102–166, title I, §109(b)(2), Nov. 21, 1991, 105 Stat. 1077; Pub. L. 110–325, §5(a), Sept. 25, 2008, 122 Stat. 3557.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (d)(3)(B)(iii), was in the original "this Act", meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
+
+#### Constitutionality
+
+For constitutionality of certain provisions of this subchapter, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
 #### Amendments
 
@@ -117,6 +123,8 @@ This chapter, referred to in subsec. (d)(3)(B)(iii), was in the original "this A
 Subsec. (b). Pub. L. 110–325, §5(a)(2), substituted "discriminate against a qualified individual on the basis of disability" for "discriminate" in introductory provisions.
 
 <b>1991</b>—Subsecs. (c), (d). Pub. L. 102–166 added subsec. (c) and redesignated former subsec. (c) as (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

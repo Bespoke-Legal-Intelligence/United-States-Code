@@ -8,7 +8,7 @@
 
 #### (2) Taxable years affected
 
-&emsp;An organization described in paragraph (1) shall be denied exemption from taxation undersection 501(a) by reason of paragraph (1) only for taxable years after the taxable year during which it is notified by the Secretary that it has engaged in a prohibited transaction, unless such organization entered into such prohibited transaction with the purpose of diverting corpus or income of the organization from its exempt purposes, and such transaction involved a substantial part of the corpus or income of such organization.
+&emsp;An organization described in paragraph (1) shall be denied exemption from taxation under section 501(a) by reason of paragraph (1) only for taxable years after the taxable year during which it is notified by the Secretary that it has engaged in a prohibited transaction, unless such organization entered into such prohibited transaction with the purpose of diverting corpus or income of the organization from its exempt purposes, and such transaction involved a substantial part of the corpus or income of such organization.
 
 #### (b) Prohibited transactions
 
@@ -62,11 +62,13 @@ Subsection (b)(1) shall not apply to a loan made by a trust described in section
 
 &emsp;(2) the making or renewal, as the case may be, is approved in writing as an investment which is consistent with the exempt purposes of the trust by a trustee who is independent of the employer, and no other such trustee had previously refused to give such written approval; and
 
-&emsp;(3) immediately following the making or renewal, as the case may be, the aggregate amount loaned by the trust to the employer,without the receipt of adequate security, does not exceed 25 percent of the value of all the assets of the trust.
+&emsp;(3) immediately following the making or renewal, as the case may be, the aggregate amount loaned by the trust to the employer, without the receipt of adequate security, does not exceed 25 percent of the value of all the assets of the trust.
 
 > For purposes of paragraph (2), the term "trustee" means, with respect to any trust for which there is more than one trustee who is independent of the employer, a majority of such independent trustees. For purposes of paragraph (3), the determination as to whether any amount loaned by the trust to the employer is loaned without the receipt of adequate security shall be made without regard to subsection (e).
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 166; Pub. L. 85–866, title I, §30(a), (b), Sept. 2, 1958, 72 Stat. 1629, 1630; Pub. L. 86–667, §2, July 14, 1960, 74 Stat. 535; Pub. L. 87–792, §6, Oct. 10, 1962, 76 Stat. 827; Pub. L. 91–172, title I, §§101(j)(7)–(14), 121(b)(6)(B), Dec. 30, 1969, 83 Stat. 527, 542; Pub. L. 93–406, title II, §2003(b), Sept. 2, 1974, 88 Stat. 978; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 101–508, title XI, §11801(a)(22), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 113–295, div. A, title II, §221(a)(63), Dec. 19, 2014, 128 Stat. 4048.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -134,13 +136,15 @@ Subsec. (h). Pub. L. 86–667, §2(d), included trusts described in section 501(
 
 Subsec. (i). Pub. L. 85–866, §30(b), added subsec. (i).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2014 Amendment
 
 Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 
 #### Effective Date of 1974 Amendment
 
-Amendment by Pub. L. 93–406 effective Jan. 1, 1975, but with provision for an election to be exercised by anorganization so as to constitute a savings clause with reference to the amendment, see section 2003(c) of Pub. L. 93–406, set out as an Effective Date; Savings Provisions note under section 4975 of this title.
+Amendment by Pub. L. 93–406 effective Jan. 1, 1975, but with provision for an election to be exercised by an organization so as to constitute a savings clause with reference to the amendment, see section 2003(c) of Pub. L. 93–406, set out as an Effective Date; Savings Provisions note under section 4975 of this title.
 
 #### Effective Date of 1969 Amendment
 

@@ -34,7 +34,7 @@ The purpose of the National Summit shall be—
 
 &emsp;(7) to examine the impact and effectiveness of government programs at the Federal, State, and local levels to educate the public about, and to encourage, retirement income savings;
 
-&emsp;(8) to develop such specific and comprehensive recommendations for the legislative and executive branches of the Government and for private sector action as may be appropriate for promoting private pensions and individual retirement savings; and
+&emsp;(8) to develop such specific and comprehensive recommendations for the legislative andexecutive branches of the Government and for private sector action as may be appropriate for promoting private pensions and individual retirement savings; and
 
 &emsp;(9) to develop recommendations for the coordination of Federal, State, and local retirement income savings initiatives among the Federal, State, and local levels of government and for the coordination of such initiatives.
 
@@ -142,7 +142,7 @@ For purposes of this section, the term "State" means a State, the District of Co
 
 #### (1) In general
 
-&emsp;There is authorized to be appropriated for fiscal years beginning on or after October 1,1997, such sums as are necessary to carry out this section.
+&emsp;There is authorized to be appropriated for fiscal years beginning on or after October 1, 1997, such sums as are necessary to carry out this section.
 
 #### (2) Authorization to accept private contributions
 

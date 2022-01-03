@@ -2,7 +2,7 @@
 
 #### (a) Duties of Secretary
 
-The Secretary of Agriculture is charged with the responsibility for the proper administration of sections 361a to 361i of this title, and is authorized and directed to prescribe such rules and regulations as may be necessary to carry out its provisions. It shall be the duty of the Secretary to furnish such advice and assistance as will best promote the purposes of said sections, including participation in coordination of research initiated under said sections by the State agricultural experiment stations, from time to time to indicate such lines of inquiry as to him seem most important, and to encourage and assist inthe establishment and maintenance of cooperation by and between the several State agricultural experiment stations, and between the stations and the United States Department of Agriculture.
+The Secretary of Agriculture is charged with the responsibility for the proper administration of sections 361a to 361i of this title, and is authorized and directed to prescribe such rules and regulations as may be necessary to carry out its provisions. It shall be the duty of the Secretary to furnish such advice and assistance as will best promote the purposes of said sections, including participation in coordination of research initiated under said sections by the State agricultural experiment stations, from time to time to indicate such lines of inquiry as to him seem most important, and to encourage and assist in the establishment and maintenance of cooperation by and between the several State agricultural experiment stations, and between the stations and the United States Department of Agriculture.
 
 #### (b) Ascertainment of entitlement
 
@@ -54,6 +54,8 @@ To the maximum extent practicable, the Secretary shall consider a plan of work s
 
 (Mar. 2, 1887, ch. 314, §7, 24 Stat. 441; Aug. 11, 1955, ch. 790, §1, 69 Stat. 673; Pub. L. 86–533, §1(22), June 29, 1960, 74 Stat. 249; Pub. L. 94–273, §3(2), Apr. 21, 1976, 90 Stat. 376; Pub. L. 105–185, title I, §103(f)(2), title II, §202(b), June 23, 1998, 112 Stat. 528, 532; Pub. L. 107–171, title VII, §7202, May 13, 2002, 116 Stat. 437; Pub. L. 115–334, title VII, §7612(b)(2), Dec. 20, 2018, 132 Stat. 4832.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 379 of this title. See section 361h of this title.
@@ -74,7 +76,7 @@ Section was formerly classified to section 379 of this title. See section 361h o
 
 <b>1998</b>—Pub. L. 105–185, §202(b), inserted section catchline, designated existing provisions as subsecs. (a) to (c), inserted subsec. headings, and added subsecs. (d) to (g).
 
-Pub. L. 105–185, §103(f)(2), struck out at end "If the Secretary of Agriculture shall withhold from any State any portion of the appropriations available for allotment, the facts and reasons therefor shall be reported to the President and the amount involved shall be kept separate in the Treasury until the close of the nextCongress. If the next Congress shall not direct such sum to be paid, it shall be carried to surplus."
+Pub. L. 105–185, §103(f)(2), struck out at end "If the Secretary of Agriculture shall withhold from any State any portion of the appropriations available for allotment, the facts and reasons therefor shall be reported to the President and the amount involved shall be kept separate in the Treasury until the close of the next Congress. If the next Congress shall not direct such sum to be paid, it shall be carried to surplus."
 
 <b>1976</b>—Pub. L. 94–273 substituted "October" for "July" in second par.
 
@@ -82,9 +84,13 @@ Pub. L. 105–185, §103(f)(2), struck out at end "If the Secretary of Agricultu
 
 <b>1955</b>—Act Aug. 11, 1955, amended section generally to prescribe the powers and duties of the Secretary of Agriculture, to provide for the determination of the amount of entitlement, to authorize deduction of unexpended balances, and to require reports. For provisions which stated that the relation of the college to the State was unaffected, see section 361h of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1998 Amendment
 
 Amendment by section 202(b) of Pub. L. 105–185 effective Oct. 1, 1999, see section 202(c) of Pub. L. 105–185, set out as a note under section 344 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

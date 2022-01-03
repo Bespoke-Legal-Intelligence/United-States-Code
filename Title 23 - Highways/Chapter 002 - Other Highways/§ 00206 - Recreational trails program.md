@@ -74,7 +74,7 @@ Permissible uses.—Permissible uses of funds apportioned to a State for a fisca
 
 &emsp;&emsp;(F) assessment of trail conditions for accessibility and maintenance;
 
-&emsp;&emsp;(G) development and dissemination of publications and operation of educational programs to promote safety and environmental protection, (as those objectives relate to one or more of the use of recreational trails, supporting non-law enforcement trail safety and trail use monitoring patrol programs, and providing trail-related training), but in an amount not to exceed 5 percent of the apportionment made to the State for the fiscal year; and
+&emsp;&emsp;(G) development and dissemination of publications and operation of educational programs to promote safety and environmental protection, (as those objectives relate to one or more of the uses of recreational trails, supporting non-law enforcement trail safety and trail use monitoring patrol programs, and providing trail-related training), but in an amount not to exceed 5 percent of the apportionment made to the State for the fiscal year; and
 
 &emsp;&emsp;(H) payment of costs to the State incurred in administering the program, but in an amount not to exceed 7 percent of the apportionment made to the State for the fiscal year.
 
@@ -130,7 +130,7 @@ Federal agency project sponsor.—Notwithstanding any other provision of law, a 
 
 &emsp;&emsp;(A) the share attributable to the Secretary of Transportation may not exceed the amount determined in accordance with section 120(b) for the cost of a project under this section; and
 
-&emsp;&emsp;(B) the share attributable to the Secretary and the Federal agency sponsoring theproject may not exceed 95 percent of the cost of a project under this section.
+&emsp;&emsp;(B) the share attributable to the Secretary and the Federal agency sponsoring the project may not exceed 95 percent of the cost of a project under this section.
 
 &emsp;(3)
 
@@ -216,7 +216,11 @@ Public access.—Any use of the apportionments to a State to carry out this sect
 
 Contract Authority.—Funds authorized to carry out this section shall be available for obligation in the same manner as if the funds were apportioned under chapter 1, except that the Federal share of the cost of a project under this section shall be determined in accordance with this section.
 
-(Added Pub. L. 105–178, title I, §1112(a), June 9, 1998, 112 Stat. 146; amended Pub. L. 109–59, titleI, §1109(b)–(e), Aug. 10, 2005, 119 Stat. 1168–1170; Pub. L. 110–244, title I, §101(q), June 6, 2008, 122 Stat. 1576; Pub. L. 113–287, §5(f)(3), Dec. 19, 2014, 128 Stat. 3268.)
+(j)
+
+Use of Other Apportioned Funds.—Funds apportioned to a State under section 104(b) that are obligated for a recreational trail or a related project shall be administered as if the funds were made available to carry out this section.
+
+(Added Pub. L. 105–178, title I, §1112(a), June 9, 1998, 112 Stat. 146; amended Pub. L. 109–59, title I, §1109(b)–(e), Aug. 10, 2005, 119 Stat. 1168–1170; Pub. L. 110–244, title I, §101(q), June 6, 2008, 122 Stat. 1576; Pub. L. 113–287, §5(f)(3), Dec. 19, 2014, 128 Stat. 3268; Pub. L. 117–58, div. A, title I, §§11134, 11525(n), Nov. 15, 2021, 135 Stat. 515, 608.)
 
 #### <b>Editorial Notes</b>
 
@@ -233,6 +237,10 @@ The Federal Land Policy and Management Act of 1976, referred to in subsec. (d)(2
 A prior section 206, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 908, provided for use of funds for construction and improvement of park roads and trails and for administration of such funds according to regulations jointly approved by the Secretary and the Secretary of the Interior, prior to repeal by Pub. L. 97–424, title I, §126(d), Jan. 6, 1983, 96 Stat. 2115.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (d)(2)(G). Pub. L. 117–58, §11525(n), substituted "uses of recreational trails" for "use of recreational trails".
+
+Subsec. (j). Pub. L. 117–58, §11134, added subsec. (j).
 
 <b>2014</b>—Subsec. (d)(1)(B). Pub. L. 113–287, §5(f)(3)(A), substituted "chapter 2003 of title 54" for "the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–4 et seq.)".
 
@@ -257,6 +265,66 @@ Subsec. (f)(4), (5). Pub. L. 109–59, §1109(d)(4)–(7), added par. (4), redes
 Subsec. (h)(1)(C). Pub. L. 109–59, §1109(e), added subpar. (C).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as a note under section 101 of this title.
+
+#### Nonhighway Recreational Fuel Study
+
+Pub. L. 117–58, div. A, title I, §11512, Nov. 15, 2021, 135 Stat. 594, provided that:
+
+"(a)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Highway trust fund.—The term 'Highway Trust Fund' means the Highway Trust Fund established by section 9503(a) of the Internal Revenue Code of 1986 \[26 U.S.C. 9503(a)\].
+
+&emsp;"(2)
+
+Nonhighway recreational fuel taxes.—The term 'nonhighway recreational fuel taxes' means taxes under section\[s\] 4041 and 4081 of the Internal Revenue Code of 1986 \[26 U.S.C. 4041, 4081\] with respect to fuel used in vehicles on recreational trails or back country terrain (including vehicles registered for highway use when used on recreational trails, trail access roads not eligible for funding under title 23, United States Code, or back country terrain).
+
+&emsp;"(3)
+
+Recreational trails program.—The term 'recreational trails program' means the recreational trails program under section 206 of title 23, United States Code.
+
+"(b)
+
+Assessment; Report.—
+
+&emsp;"(1)
+
+Assessment.—Not later than 1 year after the date of enactment of this Act \[Nov. 15, 2021\] and not less frequently than once every 5 years thereafter, as determined by the Secretary \[of Transportation\], the Secretary shall carry out an assessment of the best available estimate of the total amount of nonhighway recreational fuel taxes received by the Secretary of the Treasury and transferred to the Highway Trust Fund for the period covered by the assessment.
+
+&emsp;"(2)
+
+Report.—After carrying out each assessment under paragraph (1), the Secretary shall submit to the Committees on Finance and Environment and Public Works of the Senate and the Committees on Ways and Means and Transportation and Infrastructure of the House of Representatives a report that includes—
+
+&emsp;&emsp;"(A) to assist Congress in determining an appropriate funding level for the recreational trails program—
+
+&emsp;&emsp;&emsp;"(i) a description of the results of the assessment; and
+
+&emsp;&emsp;&emsp;"(ii) an evaluation of whether the current recreational trails program funding level reflects the amount of nonhighway recreational fuel taxes collected and transferred to the Highway Trust Fund; and
+
+&emsp;&emsp;"(B) in the case of the first report submitted under this paragraph, an estimate of the frequency with which the Secretary anticipates carrying out the assessment under paragraph (1), subject to the condition that such an assessment shall be carried out not less frequently than once every 5 years.
+
+"(c)
+
+Consultation.—In carrying out an assessment under subsection (b)(1), the Secretary may consult with, as the Secretary determines to be appropriate—
+
+&emsp;"(1) the heads of—
+
+&emsp;&emsp;"(A) State agencies designated by Governors pursuant to section 206(c)(1) of title 23, United States Code, to administer the recreational trails program; and
+
+&emsp;&emsp;"(B) division offices of the Department \[of Transportation\];
+
+&emsp;"(2) the Secretary of the Treasury;
+
+&emsp;"(3) the Administrator of the Federal Highway Administration; and
+
+&emsp;"(4) groups representing recreational activities and interests, including hiking, biking and mountain biking, horseback riding, water trails, snowshoeing, cross-country skiing, snowmobiling, off-highway motorcycling, all-terrain vehicles and other offroad motorized vehicle activities, and recreational trail advocates."
 
 #### Use of Youth Service and Conservation Corps
 

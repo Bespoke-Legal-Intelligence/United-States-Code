@@ -228,13 +228,15 @@ In providing agriculture risk coverage, the Secretary shall—
 
 (Pub. L. 113–79, title I, §1117, Feb. 7, 2014, 128 Stat. 669; Pub. L. 115–334, title I, §1107, Dec. 20, 2018, 132 Stat. 4505.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Crop Insurance Act, referred to in subsec. (c)(5), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§1501 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see section 1501 of this title and Tables.
 
 #### Amendments
 
-<b>2018</b>—Subsec. (a). Pub. L. 115–334, §1107(1), in introductory provisions, inserted "(beginning with the 2019 crop year, based on the physical location of the farm)" after "payments" and "or the 2019 through 2023 crop years, as applicable" after "the 2014 through 2018 crop years".
+<b>2018</b>—Subsec. (a). Pub. L. 115–334, §1107(1), in introductory provisions, inserted "(beginning with the 2019 cropyear, based on the physical location of the farm)" after "payments" and "or the 2019 through 2023 crop years, as applicable" after "the 2014 through 2018 crop years".
 
 Subsec. (c)(2)(A). Pub. L. 115–334, §1107(2)(A)(i), substituted "paragraphs (4) and (5)" for "paragraph (4)".
 

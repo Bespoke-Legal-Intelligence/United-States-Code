@@ -12,7 +12,7 @@ Each report required under subsection (a) shall include—
 
 &emsp;(2) an evaluation of the effectiveness of the System, including an evaluation of progress made by the Council to achieve the goals identified under the System Plan;
 
-&emsp;(3) the identification of Federal and non-Federal assets as determined by the Councilthat have been integrated into the System, including assets essential to the gathering of required observation data variables necessary to meet the respective missions of Council agencies;
+&emsp;(3) the identification of Federal and non-Federal assets as determined by the Council that have been integrated into the System, including assets essential to the gathering of required observation data variables necessary to meet the respective missions of Council agencies;
 
 &emsp;(4) a review of procurements, planned or initiated, by each department or agency represented on the Council to enhance, expand, or modernize the observation capabilities and data products provided by the System, including data management and communication subsystems;
 

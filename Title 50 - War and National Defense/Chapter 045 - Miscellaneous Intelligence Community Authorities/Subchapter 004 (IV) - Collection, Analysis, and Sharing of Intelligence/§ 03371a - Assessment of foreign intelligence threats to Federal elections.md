@@ -34,7 +34,7 @@ In this section:
 
 The Director of National Intelligence, in coordination with the Director of the Central Intelligence Agency, the Director of the National Security Agency, the Director of the Federal Bureau of Investigation, the Secretary of Homeland Security, and the heads of other relevant elements of the intelligence community, shall—
 
-&emsp;(1) commence not later than 1 year before any regularly scheduled Federal election occurring after December 31, 2018, and completenot later than 180 days before such election, an assessment of security vulnerabilities of State election systems; and
+&emsp;(1) commence not later than 1 year before any regularly scheduled Federal election occurring after December 31, 2018, and complete not later than 180 days before such election, an assessment of security vulnerabilities of State election systems; and
 
 &emsp;(2) not later than 180 days before any regularly scheduled Federal election occurring after December 31, 2018, submit a report on such security vulnerabilities and an assessment of foreign intelligence threats to the election to—
 
@@ -55,6 +55,8 @@ Not later than 90 days before any regularly scheduled Federal election occurring
 &emsp;&emsp;(B) the appropriate congressional committees.
 
 (Pub. L. 116–92, div. E, title LXV, §6503, Dec. 20, 2019, 133 Stat. 2203.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

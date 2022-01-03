@@ -11,6 +11,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Pub. L. 101–508, title XI, §11801(b)(6), (c)(9)(A)(ii), Nov. 5, 1990, 104 Stat. 1388–522, 1388–524, struck out items 422 "Qualified stock options" and 424 "Restricted stock options" and redesignated items 422A and 425 as 422 and 424, respectively.

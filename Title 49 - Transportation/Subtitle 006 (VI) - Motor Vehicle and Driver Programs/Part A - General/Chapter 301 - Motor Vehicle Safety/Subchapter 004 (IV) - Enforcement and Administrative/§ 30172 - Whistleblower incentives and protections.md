@@ -176,9 +176,13 @@ Regulation.—Not later than 18 months after the date of enactment of this secti
 
 (Added Pub. L. 114–94, div. B, title XXIV, §24352(a), Dec. 4, 2015, 129 Stat. 1716.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this section, referred to in subsec. (i), is the date of enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Rule of Construction
 

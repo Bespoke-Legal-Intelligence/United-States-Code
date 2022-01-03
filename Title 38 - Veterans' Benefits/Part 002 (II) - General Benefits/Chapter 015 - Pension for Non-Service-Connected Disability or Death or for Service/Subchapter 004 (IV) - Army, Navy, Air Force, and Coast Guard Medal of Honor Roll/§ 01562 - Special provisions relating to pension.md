@@ -38,7 +38,7 @@ The Social Security Act, referred to in subsec. (e), is act Aug. 14, 1935, ch. 5
 
 #### Prior Provisions
 
-Prior sections 1601, 1602, 1621 to 1625, 1631 to 1634, 1641, and 1643, which comprised chapter 32, were renumbered sections 3201, 3202, 3221 to 3225, 3231 to 3234, 3241, and 3243 of this title, respectively. Prior section 1642, Pub. L. 94–502, title IV, §404, Oct. 15, 1976, 90 Stat. 2397; amended Pub. L. 97–295, §4(37), Oct. 12, 1982, 96 Stat.1307; Pub. L. 101–237, title IV, §423(b)(1)(A), (4)(A), Dec. 18, 1989, 103 Stat. 2092, directed Secretary of Veterans Affairs and Secretary of Defense to submit a joint report annually on operations of program provided under chapter 32 of this title, prior to repeal by Pub. L. 102–16, §5(a), Mar. 22, 1991, 105 Stat. 50.
+Prior sections 1601, 1602, 1621 to 1625, 1631 to 1634, 1641, and 1643, which comprised chapter 32, were renumbered sections 3201, 3202, 3221 to 3225, 3231 to 3234, 3241, and 3243 of this title, respectively. Prior section 1642, Pub. L. 94–502, title IV, §404, Oct. 15, 1976, 90 Stat. 2397; amended Pub. L. 97–295, §4(37), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 101–237, title IV, §423(b)(1)(A), (4)(A), Dec. 18, 1989, 103 Stat. 2092, directed Secretary of Veterans Affairs and Secretary of Defense to submit a joint report annually on operations of program provided under chapter 32 of this title, prior to repeal by Pub. L. 102–16, §5(a), Mar. 22, 1991, 105 Stat. 50.
 
 Other prior sections 1601, 1610 to 1613, 1620 to 1626, 1631 to 1634, 1641 to 1645, 1651 to 1656, and 1661 to 1669, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1174–1192; Pub. L. 86–150, Aug. 11, 1964, 73 Stat. 332; Pub. L. 87–815, §1, Oct. 15, 1962, 76 Stat. 926; Pub. L. 88–361, §7, July 7, 1964, 78 Stat. 298, comprised chapter 33, Education of Korean Conflict Veterans, prior to repeal by Pub. L. 89–358, §4(a), Mar. 3, 1966, 80 Stat. 23.
 
@@ -156,7 +156,7 @@ Section 1696, added Pub. L. 91–219, title II, §204(a)(4), Mar. 26, 1970, 84 S
 
 Section 1697, added Pub. L. 91–219, title II, §204(a)(4), Mar. 26, 1970, 84 Stat. 81, related to educational and vocational guidance.
 
-Section 1698, added Pub. L. 92–540, title III, §308, Oct. 24, 1972, 86 Stat. 1082, §1697A; renumbered §1698 and amended Pub. L. 94–502, title II, §§210(3), 211(14), Oct. 15, 1976, 90 Stat. 2388, 2389; Pub. L. 95–202, title III, §302(b), Nov. 23, 1977, 91 Stat. 1441, related to coordination with and participation by Department of Defense in carrying out functions and duties of Department of Defense under predischarge education program.
+Section 1698, added Pub. L. 92–540, title III, §308, Oct. 24, 1972, 86 Stat. 1082, §1697A; renumbered §1698 and amended Pub. L. 94–502, title II, §§210(3), 211(14), Oct. 15, 1976, 90 Stat. 2388, 2389; Pub. L. 95–202, title III, §302(b), Nov. 23, 1977, 91 Stat. 1441, related to coordination with and participation by Department of Defense in carryingout functions and duties of Department of Defense under predischarge education program.
 
 Prior section 1700, which comprised the first section of chapter 35, was renumbered section 3500 of this title.
 

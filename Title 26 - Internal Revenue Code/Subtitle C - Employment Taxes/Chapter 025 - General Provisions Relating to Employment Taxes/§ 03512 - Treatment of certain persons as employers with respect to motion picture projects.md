@@ -32,7 +32,7 @@ For purposes of this section—
 
 #### (3) Motion picture project
 
-&emsp;The term "motion picture project" means the production of any property described insection 168(f)(3). Such term does not include property with respect to which records are required to be maintained under section 2257 of title 18, United States Code.
+&emsp;The term "motion picture project" means the production of any property described in section 168(f)(3). Such term does not include property with respect to which records are required to be maintained under section 2257 of title 18, United States Code.
 
 #### (4) Affiliate; affiliated
 
@@ -40,9 +40,13 @@ For purposes of this section—
 
 (Added Pub. L. 114–113, div. Q, title III, §346(a), Dec. 18, 2015, 129 Stat. 3115.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 29 U.S.C. 152, referred to in subsec. (b)(1)(A)(iv), is section 2 of the National Labor Relations Act, act July 5, 1935, ch. 372, 49 Stat. 450, which is classified to section 152 of Title 29, Labor.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

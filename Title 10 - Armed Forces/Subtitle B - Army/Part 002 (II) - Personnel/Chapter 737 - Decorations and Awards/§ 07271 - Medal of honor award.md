@@ -26,11 +26,15 @@ July 9, 1918, ch. 143 (8th par. under "Ordnance Department"), 40 Stat. 870.
 
 The words "That the provisions of existing law relating to the award of medals of honor to officers, noncommissioned officers, and privates of the Army be, and they hereby are, amended so that", in the Act of July 9, 1918, ch. 143 (8th par. under "Ordnance Department"), 40 Stat. 870, are not contained in 10:1403. They are also omitted from the revised section as surplusage. The word "member" is substituted for the words "officer or enlisted man". The word "only" is omitted as surplusage. The word "award" is inserted for clarity, since the President determines the recipient of the medal in addition to presenting it.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 3741 of this title as this section.
 
 <b>1963</b>—Pub. L. 88–77 enlarged authority to award medal of honor, which was limited to those cases in which persons distinguished themselves in action involving actual conflict with an enemy, to permit its award for distinguished service while engaged in an action against an enemy of the United States, while engaged in military operations involving conflict with an opposing foreign force, or while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which the United States is not a belligerent party.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 
@@ -116,7 +120,7 @@ Secretary concerned.—The term 'Secretary concerned' means—
 
 &emsp;"(2)
 
-Application of definitions of origin.—If the military personnel records of a person do not reflect the person's membership in one of the groups identified in subparagraphs (B) through (F) of paragraph (1) but historical evidence exists that demonstrates the person's Jewish faith held at the time of service, or that the person identified himself as of African, Asian, Hispanic, or Native American descent, the person may be treated as being a member of the applicable group by the Secretary concerned for purposes of this section."
+Application of definitions of origin.—If the military personnel records of a person do not reflectthe person's membership in one of the groups identified in subparagraphs (B) through (F) of paragraph (1) but historical evidence exists that demonstrates the person's Jewish faith held at the time of service, or that the person identified himself as of African, Asian, Hispanic, or Native American descent, the person may be treated as being a member of the applicable group by the Secretary concerned for purposes of this section."
 
 \[Pub. L. 116–283, div. A, title V, §561(b), Jan. 1, 2021, 134 Stat. 3639, provided that: "The amendment made by subsection (a) \[amending section 584 of Pub. L. 116–92, set out above\] shall take effect as if enacted on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020 \[Dec. 20, 2019\] (Public Law 116–92; 133 Stat. 1281 \[1198\])."\]
 
@@ -174,7 +178,7 @@ Review Required.—The Secretary of the Army and the Secretary of the Navy shall
 
 "(b)
 
-Covered Jewish American War Veterans.—The Jewish American World War I veterans whose service isto be reviewed under subsection (a) are any Jewish American World War I veterans awarded the Distinguished Service Cross or the Navy Cross for heroism during World War I and whose name and supporting material for upgrade of the award are submitted to the Secretary concerned for such purpose before the end of the one-year period beginning on the date of the enactment of this Act \[Dec. 31, 2011\].
+Covered Jewish American War Veterans.—The Jewish American World War I veterans whose service is to be reviewed under subsection (a) are any Jewish American World War I veterans awarded the Distinguished Service Cross or the Navy Cross for heroism during World War I and whose name and supporting material for upgrade of the award are submitted to the Secretary concerned for such purpose before the end of the one-year period beginning on the date of the enactment of this Act \[Dec. 31, 2011\].
 
 "(c)
 

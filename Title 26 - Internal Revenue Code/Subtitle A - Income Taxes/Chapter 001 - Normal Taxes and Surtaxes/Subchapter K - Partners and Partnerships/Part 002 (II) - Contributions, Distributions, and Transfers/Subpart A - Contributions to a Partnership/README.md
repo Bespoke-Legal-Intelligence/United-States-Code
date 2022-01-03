@@ -9,6 +9,8 @@ Subpart A—Contributions to a Partnership
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Pub. L. 98–369, div. A, title I, §74(c), July 18, 1984, 98 Stat. 593, added item 724.

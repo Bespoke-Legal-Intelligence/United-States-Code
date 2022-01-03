@@ -44,11 +44,13 @@ This section shall apply to any eligible lease issued before, on, or after Augus
 
 #### (e) Review
 
-Not later than 365 days after August 8, 2005, the Secretary, in consultation with the Secretary of Energy, shall carry out a review of, and submit to Congress a report on, further opportunities to enhance production of natural gas from gas hydrate resources on the outer Continental Shelf and on Federal lands in Alaskathrough the provision of other production incentives or through technical or financial assistance.
+Not later than 365 days after August 8, 2005, the Secretary, in consultation with the Secretary of Energy, shall carry out a review of, and submit to Congress a report on, further opportunities to enhance production of natural gas from gas hydrate resources on the outer Continental Shelf and on Federal lands in Alaska through the provision of other production incentives or through technical or financial assistance.
 
 (Pub. L. 109–58, title III, §353, Aug. 8, 2005, 119 Stat. 714.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Outer Continental Shelf Lands Act, referred to in subsec. (b)(2)(A), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
+The Outer Continental Shelf Lands Act, referred to in subsec. (b)(2)(A), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
 

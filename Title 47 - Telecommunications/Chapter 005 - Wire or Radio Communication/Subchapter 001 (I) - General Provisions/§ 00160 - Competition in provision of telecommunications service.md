@@ -16,11 +16,11 @@ In making the determination under subsection (a)(3), the Commission shall consid
 
 #### (c) Petition for forbearance
 
-Any telecommunications carrier, or class of telecommunications carriers, may submit a petition to the Commission requesting that the Commission exercise the authority granted under this section with respect to that carrier or those carriers, or any service offered by that carrier or carriers. Any such petition shall be deemed granted if the Commission does not deny the petition for failure to meet the requirements for forbearance under subsection (a) within one year after the Commission receives it, unless the one-year period is extended by the Commission. The Commission may extend the initial one-year period by an additional 90 days if the Commission finds that an extension is necessary to meet the requirements of subsection (a). The Commission may grant or deny a petition in whole or in part and shall explain its decision in writing.
+Any telecommunications carrier, or class of telecommunications carriers, may submit a petition to the Commission requesting that the Commission exercise the authority granted under this section with respect to that carrier or those carriers, or any service offered by thatcarrier or carriers. Any such petition shall be deemed granted if the Commission does not deny the petition for failure to meet the requirements for forbearance under subsection (a) within one year after the Commission receives it, unless the one-year period is extended by the Commission. The Commission may extend the initial one-year period by an additional 90 days if the Commission finds that an extension is necessary to meet the requirements of subsection (a). The Commission may grant or deny a petition in whole or in part and shall explain its decision in writing.
 
 #### (d) Limitation
 
-Except as provided in section 251(f) of this title, the Commission may not forbear from applying the requirements of section 251(c) or 271of this title under subsection (a) of this section until it determines that those requirements have been fully implemented.
+Except as provided in section 251(f) of this title, the Commission may not forbear from applying the requirements of section 251(c) or 271 of this title under subsection (a) of this section until it determines that those requirements have been fully implemented.
 
 #### (e) State enforcement after Commission forbearance
 

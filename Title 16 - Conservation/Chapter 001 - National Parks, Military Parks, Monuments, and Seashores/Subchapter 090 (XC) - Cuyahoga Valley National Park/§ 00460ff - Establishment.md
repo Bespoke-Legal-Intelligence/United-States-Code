@@ -4,9 +4,13 @@ For the purpose of preserving and protecting for public use and enjoyment, the h
 
 (Pub. L. 93–555, §1, Dec. 27, 1974, 88 Stat. 1784; Pub. L. 106–291, title I, §149(c), Oct. 11, 2000, 114 Stat. 956.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Pub. L. 106–291 substituted "National Park" for "National Recreation Area" and substituted "park" for "recreation area" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Redesignation of Cuyahoga Valley National Recreation Area
 

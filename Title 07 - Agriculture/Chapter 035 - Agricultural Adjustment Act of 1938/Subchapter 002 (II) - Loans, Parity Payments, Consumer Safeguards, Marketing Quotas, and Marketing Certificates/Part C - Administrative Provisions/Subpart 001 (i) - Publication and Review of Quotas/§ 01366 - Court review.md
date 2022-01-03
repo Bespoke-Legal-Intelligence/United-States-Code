@@ -4,9 +4,13 @@ The review by the court shall be limited to questions of law, and the findings o
 
 (Feb. 16, 1938, ch. 30, title III, §366, 52 Stat. 63; Pub. L. 98–620, title IV, §402(6), Nov. 8, 1984, 98 Stat. 3357.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Pub. L. 98–620 substituted "The court" for "At the earliest convenient time, the court, in term time or vacation,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

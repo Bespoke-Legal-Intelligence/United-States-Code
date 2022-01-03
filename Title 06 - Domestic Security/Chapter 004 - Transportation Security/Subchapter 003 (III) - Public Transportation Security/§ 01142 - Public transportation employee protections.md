@@ -60,7 +60,7 @@ A public transportation agency, a contractor or a subcontractor of such agency, 
 
 #### (i) Required showing by complainant
 
-&emsp;&emsp;&emsp;The Secretary of Labor shall dismiss a complaint filed under this subsection and shall not conduct an investigation otherwise required under subparagraph (A) unless the complainant makes a prima facie showing that any behavior described in subsection (a) or (b) was a contributing factor in the unfavorable personnel action alleged in the complaint.
+&emsp;&emsp;&emsp;The Secretary of Labor shall dismiss a complaint filed under this subsection andshall not conduct an investigation otherwise required under subparagraph (A) unless the complainant makes a prima facie showing that any behavior described in subsection (a) or (b) was a contributing factor in the unfavorable personnel action alleged in the complaint.
 
 #### (ii) Showing by employer
 
@@ -90,7 +90,7 @@ A public transportation agency, a contractor or a subcontractor of such agency, 
 
 #### (C) Order
 
-&emsp;&emsp;If an order is issued under subparagraph (B), the Secretary of Labor, at the request of the complainant, shall assess against the person against whom the order is issued a sum equal to the aggregate amount of all costs and expenses (including attorney and expert witness fees) reasonably incurred, asdetermined by the Secretary of Labor, by the complainant for, or in connection with, bringing the complaint upon which the order was issued.
+&emsp;&emsp;If an order is issued under subparagraph (B), the Secretary of Labor, at the request of the complainant, shall assess against the person against whom the order is issued a sum equal to the aggregate amount of all costs and expenses (including attorney and expert witness fees) reasonably incurred, as determined by the Secretary of Labor, by the complainant for, or in connection with, bringing the complaint upon which the order was issued.
 
 #### (D) Frivolous complaints
 
@@ -122,7 +122,7 @@ A public transportation agency, a contractor or a subcontractor of such agency, 
 
 #### (7) De novo review
 
-&emsp;With respect to a complaint under paragraph (1), if the Secretary of Labor has not issued a final decision within 210 days after the filing of the complaint and if the delay is not due to the bad faith of the employee, the employee may bring an original action at law or equity for de novo review in the appropriate district court of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy, and which action shall, at the request of either party to such action, be tried by the court with a jury. The action shall be governed by the same legal burdens of proof specified in paragraph (2)(B) for review by the Secretary of Labor.
+&emsp;With respect to a complaint under paragraph (1), if the Secretary of Labor has not issued a final decision within 210 days after the filingof the complaint and if the delay is not due to the bad faith of the employee, the employee may bring an original action at law or equity for de novo review in the appropriate district court of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy, and which action shall, at the request of either party to such action, be tried by the court with a jury. The action shall be governed by the same legal burdens of proof specified in paragraph (2)(B) for review by the Secretary of Labor.
 
 #### (d) Remedies
 

@@ -32,7 +32,7 @@ Subsection (a)(3) is deemed satisfied in the case of a child who is lawfully adm
 
 &emsp;&emsp;&emsp;(ii) authorized to accompany and reside abroad with a member of the Armed Forces of the United States pursuant to the member's official orders, and is so accompanying and residing abroad with the member in marital union; and
 
-&emsp;&emsp;(B) authorized to accompany such member and reside abroad with the member pursuantto the member's official orders, and is so accompanying and residing with the member.
+&emsp;&emsp;(B) authorized to accompany such member and reside abroad with the member pursuant to the member's official orders, and is so accompanying and residing with the member.
 
 #### (d) Name and birth date
 

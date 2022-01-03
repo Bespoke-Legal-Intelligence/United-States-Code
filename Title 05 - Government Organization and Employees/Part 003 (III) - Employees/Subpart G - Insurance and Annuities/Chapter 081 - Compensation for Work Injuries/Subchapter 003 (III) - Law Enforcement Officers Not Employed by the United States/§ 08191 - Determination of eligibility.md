@@ -10,7 +10,7 @@ The benefits of this subchapter are available as provided in this subchapter to 
 
 &emsp;&emsp;(C) who at that time was sought as a material witness in a criminal proceeding instituted by the United States; or
 
-&emsp;(2) a law enforcement officer and to have been engaged on that occasion in protecting orguarding a person held for the commission of a crime against the United States or as a material witness in connection with such a crime; or
+&emsp;(2) a law enforcement officer and to have been engaged on that occasion in protecting or guarding a person held for the commission of a crime against the United States or as a material witness in connection with such a crime; or
 
 &emsp;(3) a law enforcement officer and to have been engaged on that occasion in the lawful prevention of, or lawful attempt to prevent, the commission of a crime against the United States;
 

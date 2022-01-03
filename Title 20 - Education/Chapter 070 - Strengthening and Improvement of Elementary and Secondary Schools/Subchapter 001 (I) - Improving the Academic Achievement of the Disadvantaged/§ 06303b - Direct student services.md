@@ -66,7 +66,7 @@ A local educational agency receiving an award under this section—
 
 &emsp;(4) in paying the costs associated with the direct student services described in paragraph (3), shall—
 
-&emsp;&emsp;(A) first, pay such costs for students who are enrolled in schools identified by the State for comprehensive support and improvement under section 6311(c)(4)(D)(i) of this title;
+&emsp;&emsp;(A) first, pay such costs for students who are enrolled in schools identified by theState for comprehensive support and improvement under section 6311(c)(4)(D)(i) of this title;
 
 &emsp;&emsp;(B) second, pay such costs for low-achieving students who are enrolled in schools implementing targeted support and improvement plans under section 6311(d)(2) of this title; and
 
@@ -122,13 +122,15 @@ A State educational agency that reserves an amount under subsection (a) shall—
 
 &emsp;&emsp;&emsp;(iii) provide instruction and content that is secular, neutral, and non-ideological;
 
-&emsp;(3) ensure that each local educational agency receiving an award is able to provide anadequate number of high-quality academic tutoring options to ensure parents have a meaningful choice of services;
+&emsp;(3) ensure that each local educational agency receiving an award is able to provide an adequate number of high-quality academic tutoring options to ensure parents have a meaningful choice of services;
 
 &emsp;(4) develop and implement procedures for monitoring the quality of services provided by direct student service providers; and
 
 &emsp;(5) establish and implement clear criteria describing the course of action for direct student service providers that are not successful in improving student academic outcomes, which, for a high-quality academic tutoring provider, may include a process to remove State approval under paragraph (2).
 
 (Pub. L. 89–10, title I, §1003A, as added Pub. L. 114–95, title I, §1004, Dec. 10, 2015, 129 Stat. 1817.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

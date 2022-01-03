@@ -70,7 +70,7 @@ A civil action may be brought—
 
 &emsp;(B) in the case of a plan in endangered status which is not in seriously endangered status, for failure by the plan to meet the applicable benchmarks under section 1085 of this title by the end of the funding improvement period with respect to the plan.
 
-(9)(A) The Secretary may assess a civil penalty against any employer of up to $100 a dayfrom the date of the employer's failure to meet the notice requirement of section 1181(f)(3)(B)(i)(I) of this title. For purposes of this subparagraph, each violation with respect to any single employee shall be treated as a separate violation.
+(9)(A) The Secretary may assess a civil penalty against any employer of up to $100 a day from the date of the employer's failure to meet the notice requirement of section 1181(f)(3)(B)(i)(I) of this title. For purposes of this subparagraph, each violation with respect to any single employee shall be treated as a separate violation.
 
 (B) The Secretary may assess a civil penalty against any plan administrator of up to $100 a day from the date of the plan administrator's failure to timely provide to any State the information required to be disclosed under section 1181(f)(3)(B)(ii) of this title. For purposes of this subparagraph, each violation with respect to any single participant or beneficiary shall be treated as a separate violation.
 
@@ -156,7 +156,7 @@ Definitions.—Terms used in this paragraph which are defined in section 1191b o
 
 (1) An employee benefit plan may sue or be sued under this subchapter as an entity. Service of summons, subpena, or other legal process of a court upon a trustee or an administrator of an employee benefit plan in his capacity as such shall constitute service upon the employee benefit plan. In a case where a plan has not designated in the summary plan description of the plan an individual as agent for the service of legal process, service upon the Secretary shall constitute such service. The Secretary, not later than 15 days after receipt of service under the preceding sentence, shall notify the administrator or any trustee of the plan of receipt of such service.
 
-(2) Any money judgment under this subchapter against an employee benefit plan shall be enforceable only against the plan as an entity andshall not be enforceable against any other person unless liability against such person is established in his individual capacity under this subchapter.
+(2) Any money judgment under this subchapter against an employee benefit plan shall be enforceable only against the plan as an entity and shall not be enforceable against any other person unless liability against such person is established in his individual capacity under this subchapter.
 
 #### (e) Jurisdiction
 
@@ -196,7 +196,7 @@ A copy of the complaint in any action under this subchapter by a participant, be
 
 #### (i) Administrative assessment of civil penalty
 
-In the case of a transaction prohibited by section 1106 of this title by a party in interest with respect to a plan to which this part applies, the Secretary may assess a civil penalty against such party in interest. The amount of such penalty may not exceed 5 percent of the amount involved in each such transaction (as defined in section 4975(f)(4) of title 26) for each year or part thereof during which the prohibited transaction continues, except that, if the transaction is not corrected (in such manner as the Secretary shall prescribe in regulations which shall be consistent with section 4975(f)(5) of title 26) within 90 days after notice from the Secretary (or such longer period as the Secretary may permit), such penalty may be in an amount not more than 100 percent of the amount involved. This subsection shall not apply to a transaction with respect to a plan described in section 4975(e)(1) of title 26.
+In the case of a transaction prohibited by section 1106 of this title by a party in interest with respect to a plan to which this part applies, the Secretary may assess a civil penalty against such party in interest. The amount of such penalty may not exceed 5 percent of the amount involved in each such transaction (as defined in section 4975(f)(4) of title 26) for each year or part thereof during which the prohibited transaction continues, except that, if the transaction is notcorrected (in such manner as the Secretary shall prescribe in regulations which shall be consistent with section 4975(f)(5) of title 26) within 90 days after notice from the Secretary (or such longer period as the Secretary may permit), such penalty may be in an amount not more than 100 percent of the amount involved. This subsection shall not apply to a transaction with respect to a plan described in section 4975(e)(1) of title 26.
 
 #### (j) Direction and control of litigation by Attorney General
 
@@ -282,7 +282,7 @@ Subsec. (a)(8) to (10). Pub. L. 109–280, §202(c), amended subsec. (a) by stri
 
 Subsec. (c)(1). Pub. L. 109–280, §508(a)(2)(C), substituted "section 1021(f) of this title, or section 1025(a) of this title" for "or section 1021(f) of this title".
 
-Subsec. (c)(4). Pub. L. 109–280, §902(f)(2), which directed amendment of par. (4) by substituting ", section1082(b)(7)(F)(vi) of this title, or section 1144(e)(3) of this title" for "or section 1082(b)(7)(F)(vi) of this title", was executed by making the substitution for "or 1082(b)(7)(F)(iv) of this title", to reflect the probable intent of Congress.
+Subsec. (c)(4). Pub. L. 109–280, §902(f)(2), which directed amendment of par. (4) by substituting ", section 1082(b)(7)(F)(vi) of this title, or section 1144(e)(3) of this title" for "or section 1082(b)(7)(F)(vi) of this title", was executed by making the substitution for "or 1082(b)(7)(F)(iv) of this title", to reflect the probable intent of Congress.
 
 Pub. L. 109–280, §502(b)(2), which directed amendment of par. (4) by substituting "subsection (j), (k), or (l) of section 1021 of this title" for "section 1021(j) or (k) of this title", was executed by making the substitution for "subsection (j) or (k) of section 1021 of this title", to reflect the probable intent of Congress.
 
@@ -422,7 +422,7 @@ Pub. L. 101–239, title II, §2101(c), Dec. 19, 1989, 103 Stat. 2123, provided 
 
 Amendment by section 7881(b)(5)(B), (j)(2), (3) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
-Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
+Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
 Amendment by section 7894(f)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if originally included in the provision of the Employee Retirement Income Security Act of 1974, Pub. L. 93–406, to which such amendment relates, see section 7894(i) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
@@ -454,7 +454,7 @@ Secretary authorized, effective Sept. 2, 1974, to promulgate regulations whereve
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 
-For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGCsettlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
+For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
 
 #### Special Rule for Certain Benefits Funded Under an Agreement Approved by the Pension Benefit Guaranty Corporation
 

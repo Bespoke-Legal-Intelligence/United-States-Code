@@ -26,9 +26,13 @@ Aug. 22, 1912, ch. 329, 37 Stat. 324.
 
 The word "shall" is substituted for the words "is authorized and required". The word "separated" is substituted for the word "discharged", since the revised section covers acceptances of resignations as well as certificates of discharge. The words "enlisted or" and "while minors or otherwise" are omitted as surplusage. The words "the War of the Rebellion" are omitted as obsolete. The word "with" is substituted for the words "between the United States and". The words "honorably or under honorable conditions" are substituted for the word "honorably".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283 substituted "Marine Corps, or Space Force" for "or Marine Corps".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Personnel Freeze for Service Review Agencies
 

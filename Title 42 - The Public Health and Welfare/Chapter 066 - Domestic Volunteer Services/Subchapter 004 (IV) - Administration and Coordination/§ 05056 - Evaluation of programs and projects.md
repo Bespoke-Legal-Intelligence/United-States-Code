@@ -6,7 +6,7 @@ The Director shall measure and evaluate the impact of all programs authorized by
 
 #### (b) General standards; publication; reports of ensuing actions
 
-The Director shall develop and publish general standards for evaluation of program and project effectiveness in achieving the objectives of this chapter. Reports submitted pursuant to section 5047 <sup>1</sup> of this title shall describe the actions taken as a result of evaluations carried out under this section.
+The Director shall develop and publish general standards for evaluation of program and project effectiveness in achieving the objectives of this chapter. Reports submitted pursuant to section 5047 <sup>1</sup> of this title shall describe the actionstaken as a result of evaluations carried out under this section.
 
 #### (c) Opinions of participants
 
@@ -38,7 +38,7 @@ Not later than December 31, 1988, the Director shall—
 
 &emsp;&emsp;(A) information on adminstrative <sup>2</sup> costs associated with such volunteers;
 
-&emsp;&emsp;(B) a comparison of the quality of services provided by such volunteers and the qualityof services provided by volunteers who receive a stipend under such parts, including the rate of absenteeism and turnover; and
+&emsp;&emsp;(B) a comparison of the quality of services provided by such volunteers and the quality of services provided by volunteers who receive a stipend under such parts, including the rate of absenteeism and turnover; and
 
 &emsp;&emsp;(C) a review of the effect that participation by volunteers who do not receive such stipend have on the administration of such programs; and
 
@@ -49,6 +49,8 @@ Not later than December 31, 1988, the Director shall—
 The Director is authorized to use such sums as are required, but not to exceed 1 per centum of the funds appropriated under this chapter, to conduct program and project evaluations (directly, or by grants or contracts) as required by this chapter. In the case of allotments from such an appropriation, the amount available for such allotments (and the amount deemed appropriate therefor) shall be reduced accordingly.
 
 (Pub. L. 93–113, title IV, §416, Oct. 1, 1973, 87 Stat. 412; Pub. L. 98–288, §23, May 21, 1984, 98 Stat. 195; Pub. L. 99–551, §8, Oct. 27, 1986, 100 Stat. 3075; Pub. L. 101–204, title IV, §402, Dec. 7, 1989, 103 Stat. 1815; Pub. L. 103–82, title IV, §405(a)(9), Sept. 21, 1993, 107 Stat. 920; Pub. L. 111–13, title II, §2153, Apr. 21, 2009, 123 Stat. 1591.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -72,13 +74,15 @@ Subsecs. (f), (g). Pub. L. 99–551, §8(b), added subsec. (f) and redesignated 
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–288 substituted "biennially" for "periodically" in first sentence, and substituted "or any project of such program being evaluated. Such evaluation shall also measure and evaluate compliance with the equitable distribution requirement of section 5054 of this title" for "or project evaluated".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2009 Amendment
 
 Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under section 4950 of this title.
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–82 effective Apr. 4, 1994, see section 406(b) of Pub. L. 103–82, set out as a note under section 8332 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 103–82 effective Apr. 4, 1994, see section 406(b) of Pub. L. 103–82, set out as a noteunder section 8332 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1986 Amendment
 

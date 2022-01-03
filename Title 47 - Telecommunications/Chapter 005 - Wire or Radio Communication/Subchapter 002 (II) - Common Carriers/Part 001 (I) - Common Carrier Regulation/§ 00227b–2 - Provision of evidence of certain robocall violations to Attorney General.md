@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-If the Chief of the Enforcement Bureau of the Commission obtains evidence that suggests a willful, knowing, and repeated robocall violation with an intent to defraud, cause harm, or wrongfully obtain anything of value, the Chief of the Enforcement Bureau shall provide such evidence to the Attorney General.
+If the Chief of the Enforcement Bureau of the Commission obtains evidence that suggests awillful, knowing, and repeated robocall violation with an intent to defraud, cause harm, or wrongfully obtain anything of value, the Chief of the Enforcement Bureau shall provide such evidence to the Attorney General.
 
 #### (b) Report to Congress
 

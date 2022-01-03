@@ -9,6 +9,8 @@ Subpart A—Motor and Aviation Fuels
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Pub. L. 108–357, title VIII, §853(d)(2)(S), Oct. 22, 2004, 118 Stat. 1614, substituted "Motor and Aviation Fuels" for "Gasoline and Diesel Fuel" in subpart heading.

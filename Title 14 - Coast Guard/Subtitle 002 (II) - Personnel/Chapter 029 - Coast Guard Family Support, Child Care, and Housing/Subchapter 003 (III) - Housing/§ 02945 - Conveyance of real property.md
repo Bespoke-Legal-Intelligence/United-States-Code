@@ -8,7 +8,7 @@ Conveyance Authorized.—Notwithstanding any other provision of law, the Secreta
 
 Terms and Conditions.—
 
-&emsp;(1) The conveyance of real property under this section shall be by sale, for cash. The Secretary shall deposit the proceeds from the salein the Coast Guard Housing Fund established under section 2946 of this title, for the purpose of expending such proceeds to acquire and construct military family housing and military unaccompanied housing.
+&emsp;(1) The conveyance of real property under this section shall be by sale, for cash. The Secretary shall deposit the proceeds from the sale in the Coast Guard Housing Fund established under section 2946 of this title, for the purpose of expending such proceeds to acquire and construct military family housing and military unaccompanied housing.
 
 &emsp;(2) The conveyance of real property under this section shall not diminish the mission capacity of the Coast Guard, but further the mission support capability of the Coast Guard with regard to military family housing or military unaccompanied housing.
 

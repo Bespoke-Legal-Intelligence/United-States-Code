@@ -42,7 +42,7 @@
 
 &emsp;&emsp;(A) the cooperative agreements shall each provide for the parties to contribute funds or services on a matching basis to defray the costs of such programs, projects, and activities under the agreement; and
 
-&emsp;&emsp;(B) an individual providing voluntary services under this subsection shall not be considered a Federal employee except for purposes of chapter 81 of title 5, United States Code, with respect to compensation for work-related injuries, and chapter 171 oftitle 28, United States Code, with respect to tort claims;
+&emsp;&emsp;(B) an individual providing voluntary services under this subsection shall not be considered a Federal employee except for purposes of chapter 81 of title 5, United States Code, with respect to compensation for work-related injuries, and chapter 171 of title 28, United States Code, with respect to tort claims;
 
 &emsp;(20) enter into cooperative agreements with other Government agencies and the National Academy of Sciences;
 
@@ -488,7 +488,7 @@ Authorized procurement actions.—The Commandant is authorized to procure an ele
 
 "(4)
 
-Competition in contracting; exemption.—Procurement of an electronic health record system and support services pursuant to this subsection shall be exempt from the competition requirements of section 2304 of title 10, United States Code."
+Competition in contracting; exemption.—Procurement of an electronic health record system and support services pursuant to this subsection shall be exempt from the competition requirements of section 2304 of title 10, United States Code \[now 10 U.S.C. 3201 et seq.\]."
 
 #### Training of Coast Guard Personnel
 
@@ -516,7 +516,7 @@ Pub. L. 108–293, title II, §215, Aug. 9, 2004, 118 Stat. 1038, which directed
 
 #### Innovative Construction Alternatives
 
-Pub. L. 108–293, title II, §222, Aug. 9, 2004, 118 Stat. 1040, provided that: "The Commandant of the Coast Guard may consult with the Office of Naval Research and other Federal agencies with research and development programs that may provide innovative construction alternatives for the Integrated Deepwater System."
+Pub. L. 108–293, title II, §222, Aug. 9, 2004, 118 Stat. 1040, provided that: "The Commandant of the CoastGuard may consult with the Office of Naval Research and other Federal agencies with research and development programs that may provide innovative construction alternatives for the Integrated Deepwater System."
 
 #### Icebreaking Services
 
@@ -524,7 +524,7 @@ Pub. L. 109–241, title II, §210, July 11, 2006, 120 Stat. 523, provided that:
 
 "(a)
 
-Operation and Maintenance Plan.—Not later than 90 days after the date of enactment of this Act \[July 11, 2006\], the Secretary of the department in which the Coast Guard is operating shall submit to theCommittee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a plan—
+Operation and Maintenance Plan.—Not later than 90 days after the date of enactment of this Act \[July 11, 2006\], the Secretary of the department in which the Coast Guard is operating shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a plan—
 
 &emsp;"(1) for operation and maintenance after fiscal year 2006 of the Coast Guard polar icebreakers POLAR STAR, POLAR SEA, and HEALY, that does not rely on the transfer of funds to the Coast Guard by any other Federal agency; and
 

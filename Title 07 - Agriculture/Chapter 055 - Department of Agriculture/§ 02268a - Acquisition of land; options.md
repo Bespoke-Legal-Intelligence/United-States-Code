@@ -6,6 +6,8 @@
 
 (Aug. 3, 1956, ch. 950, §11, 70 Stat. 1034.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 428a of this title prior to editorial reclassification and renumbering as this section.

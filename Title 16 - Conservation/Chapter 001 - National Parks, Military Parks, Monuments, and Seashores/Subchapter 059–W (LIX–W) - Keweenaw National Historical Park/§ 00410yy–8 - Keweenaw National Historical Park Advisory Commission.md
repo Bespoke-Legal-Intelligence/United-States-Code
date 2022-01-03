@@ -100,13 +100,17 @@ The Commission may appoint and fix the pay of such personnel as the Commission d
 
 #### (h) Hearings
 
-The Commission may, for the purpose of carrying out this subchapter, hold such hearings,sit and act at such times and places, take such testimony, and receive such evidence, as the Commission considers appropriate. The Commission may not issue subpoenas or exercise any subpoena authority.
+The Commission may, for the purpose of carrying out this subchapter, hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence, as the Commission considers appropriate. The Commission may not issue subpoenas or exercise any subpoena authority.
 
 (Pub. L. 102–543, §9, Oct. 27, 1992, 106 Stat. 3572; Pub. L. 106–134, §1, Dec. 7, 1999, 113 Stat. 1684.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>1999</b>—Subsec. (c)(1)(A) to (D). Pub. L. 106–134 substituted "after consideration of nominees" for "from nominees".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Advisory Commissions
 

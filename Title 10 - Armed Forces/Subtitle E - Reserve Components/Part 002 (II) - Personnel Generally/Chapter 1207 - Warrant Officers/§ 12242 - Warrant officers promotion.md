@@ -20,11 +20,15 @@ Historical and Revision Notes
 
 May 29, 1954, ch. 249, §7 (last sentence, less applicability to temporary promotions), 68 Stat. 159.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–337 renumbered section 598 of this title as this section.
 
 <b>1991</b>—Pub. L. 102–190 inserted "not on the warrant officer active-duty list" after "reserve warrant officers".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1991 Amendment
 

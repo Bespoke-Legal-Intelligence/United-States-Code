@@ -1,6 +1,6 @@
 ### §8411. Aviation cadets: grade; procurement; transfer
 
-(a) The grade of aviation cadet is a special enlisted grade in the naval service. Under such regulations as the Secretary of the Navy prescribes, citizens in civil life may be enlisted as, and enlisted members of the naval service with their consent may be designated as, aviation cadets.
+(a) The grade of aviation cadet is a special enlisted grade in the naval service. Under suchregulations as the Secretary of the Navy prescribes, citizens in civil life may be enlisted as, and enlisted members of the naval service with their consent may be designated as, aviation cadets.
 
 (b) Except in time of war or emergency declared by Congress, 20 percent of the aviation cadets procured in each fiscal year shall be procured from qualified enlisted members of the Regular Navy and the Regular Marine Corps.
 
@@ -40,6 +40,8 @@ In subsection (b) the words before the first proviso are omitted as executed. Th
 
 Subsection (c) is written as a condition precedent to enlistment or transfer, and not as a requirement, to conform with interpretation of the provision.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 6911 of this title as this section.
@@ -55,6 +57,8 @@ Subsec. (b). Pub. L. 85–578 struck out "at least" before "20 percent" and "who
 Subsec. (c). Pub. L. 85–578 designated existing provisions as cls. (1) and (2), made phraseological changes including the substitution of "designated" for "transferred", and prescribed consent for one under 21 years of age instead of one described as minor and active duty service with commissioned status for minimum three year period instead of maximum four year period and unspecified grade.
 
 Subsec. (d). Pub. L. 85–578 substituted "naval service" for "Naval Reserve or the Marine Corps Reserve" and struck out "as appropriate" after such term.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

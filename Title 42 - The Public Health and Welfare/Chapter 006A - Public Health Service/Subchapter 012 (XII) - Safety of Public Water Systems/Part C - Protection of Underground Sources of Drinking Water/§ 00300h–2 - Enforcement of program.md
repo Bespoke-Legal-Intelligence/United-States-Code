@@ -48,7 +48,7 @@ Civil actions referred to in paragraphs (1) and (2) of subsection (a) shall be b
 
 &emsp;(A) a civil action under section 300j–8(a)(1) of this title has been filed prior to commencement of an action under this subsection, or
 
-&emsp;(B) a notice of violation under section 300j–8(b)(1) of this title has been given beforecommencement of an action under this subsection and an action under section 300j–8(a)(1) of this title is filed before 120 days after such notice is given.
+&emsp;(B) a notice of violation under section 300j–8(b)(1) of this title has been given before commencement of an action under this subsection and an action under section 300j–8(a)(1) of this title is filed before 120 days after such notice is given.
 
 (6) Any person against whom an order is issued or who commented on a proposed order pursuant to paragraph (3) may file an appeal of such order with the United States District Court for the District of Columbia or the district in which the violation is alleged to have occurred. Such an appeal may only be filed within the 30-day period beginning on the date the order is issued. Appellant shall simultaneously send a copy of the appeal by certified mail to the Administrator and to the Attorney General. The Administrator shall promptly file in such court a certified copy of the record on which such order was imposed. The district court shall not set aside or remand such order unless there is not substantial evidence on the record, taken as a whole, to support the finding of a violation or, unless the Administrator's assessment of penalty or requirement for compliance constitutes an abuse of discretion. The district court shall not impose additional civil penalties for the same violation unless the Administrator's assessment of a penalty constitutes an abuse of discretion. Notwithstanding section 300j–7(a)(2) of this title, any order issued under paragraph (3) shall be subject to judicial review exclusively under this paragraph.
 
@@ -67,6 +67,8 @@ Civil actions referred to in paragraphs (1) and (2) of subsection (a) shall be b
 Nothing in this subchapter shall diminish any authority of a State or political subdivision to adopt or enforce any law or regulation respecting underground injection but no such law or regulation shall relieve any person of any requirement otherwise applicable under this subchapter.
 
 (July 1, 1944, ch. 373, title XIV, §1423, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1677; amended Pub. L. 96–502, §2(b), Dec. 5, 1980, 94 Stat. 2738; Pub. L. 99–339, title II, §202, June 19, 1986, 100 Stat. 654.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

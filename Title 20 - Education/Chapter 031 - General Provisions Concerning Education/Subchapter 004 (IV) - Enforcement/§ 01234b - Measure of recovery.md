@@ -42,11 +42,15 @@ The Secretary shall periodically review the written requests for guidance submit
 
 (Pub. L. 90–247, title IV, §453, as added Pub. L. 95–561, title XII, §1232, Nov. 1, 1978, 92 Stat. 2349; amended Pub. L. 100–297, title III, §3501(a), Apr. 28, 1988, 102 Stat. 353.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–297 amended section generally, substituting provisions relating to measure of recovery for provisions relating to withholdings. See section 1234d of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–297 effective 180 days after Apr. 28, 1988, but not applicable to recipients receiving written notice to return funds prior to that date, see section 3501(b) of Pub. L. 100–297, set out as a note under section 1234 of this title.
+Amendment by Pub. L. 100–297 effective 180 days after Apr. 28, 1988, but not applicable to recipients receiving written notice to return funds prior to that date, seesection 3501(b) of Pub. L. 100–297, set out as a note under section 1234 of this title.
 

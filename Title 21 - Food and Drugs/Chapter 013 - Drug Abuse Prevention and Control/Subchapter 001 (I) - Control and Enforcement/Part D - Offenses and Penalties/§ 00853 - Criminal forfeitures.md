@@ -6,7 +6,7 @@ Any person convicted of a violation of this subchapter or subchapter II punishab
 
 &emsp;(1) any property constituting, or derived from, any proceeds the person obtained, directly or indirectly, as the result of such violation;
 
-&emsp;(2) any of the person's property used, or intended to be used, in any manner or part, tocommit, or to facilitate the commission of, such violation; and
+&emsp;(2) any of the person's property used, or intended to be used, in any manner or part, to commit, or to facilitate the commission of, such violation; and
 
 &emsp;(3) in the case of a person convicted of engaging in a continuing criminal enterprise in violation of section 848 of this title, the person shall forfeit, in addition to any property described in paragraph (1) or (2), any of his interest in, claims against, and property or contractual rights affording a source of control over, the continuing criminal enterprise.
 
@@ -26,7 +26,7 @@ All right, title, and interest in property described in subsection (a) vests in 
 
 #### (d) Rebuttable presumption
 
-There is a rebuttable presumption at trial that any property of a person convicted of a felony under this subchapter or subchapter II is subject to forfeiture under this section if the United States establishes by a preponderance of the evidence that—
+There is a rebuttable presumption at trial that any property of a person convicted of a felonyunder this subchapter or subchapter II is subject to forfeiture under this section if the United States establishes by a preponderance of the evidence that—
 
 &emsp;(1) such property was acquired by such person during the period of the violation of this subchapter or subchapter II or within a reasonable time after such period; and
 
@@ -64,7 +64,7 @@ Failure to comply.—Failure to comply with an order under this subsection, or a
 
 #### (f) Warrant of seizure
 
-The Government may request the issuance of a warrant authorizing the seizure of propertysubject to forfeiture under this section in the same manner as provided for a search warrant. If the court determines that there is probable cause to believe that the property to be seized would, in the event of conviction, be subject to forfeiture and that an order under subsection (e) may not be sufficient to assure the availability of the property for forfeiture, the court shall issue a warrant authorizing the seizure of such property.
+The Government may request the issuance of a warrant authorizing the seizure of property subject to forfeiture under this section in the same manner as provided for a search warrant. If the court determines that there is probable cause to believe that the property to be seized would, in the event of conviction, be subject to forfeiture and that an order under subsection (e) may not be sufficient to assure the availability of the property for forfeiture, the court shall issue a warrant authorizing the seizure of such property.
 
 #### (g) Execution
 
@@ -72,7 +72,7 @@ Upon entry of an order of forfeiture under this section, the court shall authori
 
 #### (h) Disposition of property
 
-Following the seizure of property ordered forfeited under this section, the Attorney General shall direct the disposition of the property by sale or any other commercially feasible means, making due provision for the rights of any innocent persons. Any property right or interest not exercisable by, or transferable for value to, the United States shall expire and shall not revert to the defendant, nor shall the defendant or any person acting in concert with him or on his behalf be eligible to purchase forfeited property at any sale held by the United States. Upon application of a person, other than the defendant or a person acting in concert with him or on his behalf, the court may restrain or stay the sale or disposition of the property pending the conclusion of any appeal of the criminal case giving rise to the forfeiture, if the applicant demonstrates that proceeding with the sale or disposition of the property will result in irreparable injury, harm, or loss to him.
+Following the seizure of property ordered forfeited under this section, the Attorney General shall direct the disposition of the property by sale or any other commercially feasible means, making due provision for the rights of any innocent persons. Any property right or interest not exercisable by, or transferable for value to, the United States shall expire and shall not revert to the defendant, nor shall the defendant or any person acting in concert with him or on his behalf be eligible to purchase forfeited property at any sale held by the United States. Upon application of a person, other than the defendant or a person acting in concert with him or on his behalf, the court may restrain or stay the sale ordisposition of the property pending the conclusion of any appeal of the criminal case giving rise to the forfeiture, if the applicant demonstrates that proceeding with the sale or disposition of the property will result in irreparable injury, harm, or loss to him.
 
 #### (i) Authority of the Attorney General
 
@@ -112,7 +112,7 @@ In order to facilitate the identification and location of property declared forf
 
 (1) Following the entry of an order of forfeiture under this section, the United States shall publish notice of the order and of its intent to dispose of the property in such manner as the Attorney General may direct. The Government may also, to the extent practicable, provide direct written notice to any person known to have alleged an interest in the property that is the subject of the order of forfeiture as a substitute for published notice as to those persons so notified.
 
-(2) Any person, other than the defendant, asserting a legal interest in property which has been ordered forfeited to the United States pursuant to this section may, within thirty days of the final publication of notice or his receipt of notice under paragraph (1), whichever is earlier, petition the court for a hearing to adjudicatethe validity of his alleged interest in the property. The hearing shall be held before the court alone, without a jury.
+(2) Any person, other than the defendant, asserting a legal interest in property which has been ordered forfeited to the United States pursuant to this section may, within thirty days of the final publication of notice or his receipt of notice under paragraph (1), whichever is earlier, petition the court for a hearing to adjudicate the validity of his alleged interest in the property. The hearing shall be held before the court alone, without a jury.
 
 (3) The petition shall be signed by the petitioner under penalty of perjury and shall set forth the nature and extent of the petitioner's right, title, or interest in the property, the time and circumstances of the petitioner's acquisition of the right, title, or interest in the property, any additional facts supporting the petitioner's claim, and the relief sought.
 
@@ -124,7 +124,7 @@ In order to facilitate the identification and location of property declared forf
 
 &emsp;(A) the petitioner has a legal right, title, or interest in the property, and such right, title, or interest renders the order of forfeiture invalid in whole or in part because the right, title, or interest was vested in the petitioner rather than the defendant or was superior to any right, title, or interest of the defendant at the time of the commission of the acts which gave rise to the forfeiture of the property under this section; or
 
-&emsp;(B) the petitioner is a bona fide purchaser for value of the right, title, or interest in the property and was at the time of purchase reasonably without cause to believe that the property was subject to forfeiture under this section;
+&emsp;(B) the petitioner is a bona fide purchaser for value of the right, title, or interest in the property and was at the time of purchase reasonably without cause to believe that theproperty was subject to forfeiture under this section;
 
 > the court shall amend the order of forfeiture in accordance with its determination.
 

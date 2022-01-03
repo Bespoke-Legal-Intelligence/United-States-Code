@@ -6,7 +6,7 @@ Grants under this subpart shall be awarded on the basis of criteria established 
 
 #### (b) Priorities to be given in criteria
 
-In establishing criteria under subsection (a), the Secretary shall give priority to applicants which have not previously received funding from the Minority Institutions Science ImprovementProgram and to previous grantees with a proven record of success, as well as to applications that contribute to achieving balance among projects with respect to geographic region, academic discipline, and project type.
+In establishing criteria under subsection (a), the Secretary shall give priority to applicants which have not previously received funding from the Minority Institutions Science Improvement Program and to previous grantees with a proven record of success, as well as to applications that contribute to achieving balance among projects with respect to geographic region, academic discipline, and project type.
 
 #### (c) Required criteria
 
@@ -33,6 +33,8 @@ In establishing criteria under subsection (a), the Secretary may consider the fo
 &emsp;(10) scientific and educational value of the proposed project.
 
 (Pub. L. 89–329, title III, §352, formerly title X, §1022, as added Pub. L. 99–498, title X, §1002, Oct. 17, 1986, 100 Stat. 1561; renumbered title III, §352, Pub. L. 105–244, title III, §301(a)(5), (7), Oct. 7, 1998, 112 Stat. 1636.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

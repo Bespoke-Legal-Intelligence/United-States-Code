@@ -40,11 +40,13 @@ Aug. 21, 1941, ch. 384, §5 (last 39 words of 1st proviso); restated June 29, 19
 
 June 29, 1948, ch. 708, §203(e) (30 words before proviso), 62 Stat. 1086.
 
-The words "basic pay \* \* \* as the case may be" are inserted to conform to the terminology of the Career Compensation Act of 1949, 63 Stat. 802 (37 U.S.C. 231 etseq.). The words "at the rate prescribed by law for his length of service", in 10:1004, are omitted as covered by the words "base and longevity pay". The words "base and longevity pay" are retained to cover the cases of members retired before the enactment of the Career Compensation Act of 1949, and advanced on the retired list after the enactment of that act. The words "and disregard a part of a year that is less than six months" are inserted to conform to footnote 4 of section 8991 of this title.
+The words "basic pay \* \* \* as the case may be" are inserted to conform to the terminology of the Career Compensation Act of 1949, 63 Stat. 802 (37 U.S.C. 231 et seq.). The words "at the rate prescribed by law for his length of service", in 10:1004, are omitted as covered by the words "base and longevity pay". The words "base and longevity pay" are retained to cover the cases of members retired before the enactment of the Career Compensation Act of 1949, and advanced on the retired list after the enactment of that act. The words "and disregard a part of a year that is less than six months" are inserted to conform to footnote 4 of section 8991 of this title.
 
 #### 1982 Act
 
 This amends 10:8992 to correct an inadvertent error in the codification of title 10 in 1956 relating to retirement pay of warrant officers advanced on the retired list. For further details, see the explanation for amendment of 10:1405 made by section 1(17).
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -71,6 +73,8 @@ Pub. L. 98–94, §922(a)(13), inserted "The amount recomputed, if not a multipl
 <b>1980</b>—Pub. L. 96–513 in heading for column 1 of table substituted "after September 7, 1980" for "on or after the date of the enactment of the Department of Defense Authorization Act, 1981".
 
 Pub. L. 96–342 in heading for column 1 of table inserted provisions respecting applicability to persons after date of enactment of Department of Defense Authorization Act, 1981.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

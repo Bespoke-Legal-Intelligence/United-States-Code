@@ -6,6 +6,8 @@ Beginning at the east quarter corner of section 7, township 2 south, range 5 eas
 
 (June 24, 1948, ch. 611, §2, 62 Stat. 581; Oct. 6, 1949, ch. 620, §1, 63 Stat. 708.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 "Custer State Park Game Sanctuary" changed to "Norbeck Wildlife Preserve" by act Oct. 6, 1949.

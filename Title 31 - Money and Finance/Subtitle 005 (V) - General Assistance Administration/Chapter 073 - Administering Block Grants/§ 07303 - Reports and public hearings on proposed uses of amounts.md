@@ -6,7 +6,7 @@
 
 &emsp;(B) information on the types of activities to be supported, geographic areas to be served, and categories or characteristics of individuals to be served; and
 
-&emsp;(C) the criteria for, and way of, distributing the amounts, including details on the way amounts will be distributed on the basis of need to carry out the purposes of the block grant amounts.
+&emsp;(C) the criteria for, and way of, distributing the amounts, including details on the way amounts will be distributed on the basis ofneed to carry out the purposes of the block grant amounts.
 
 (2) Beginning with the fiscal year ending September 30, 1983, each report shall describe how the State met the goals, objectives, and needs in using the amounts described in the report for the prior fiscal year.
 

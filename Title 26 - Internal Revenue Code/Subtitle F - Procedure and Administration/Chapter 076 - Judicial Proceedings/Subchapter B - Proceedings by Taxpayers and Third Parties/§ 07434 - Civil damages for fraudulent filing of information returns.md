@@ -24,7 +24,7 @@ Notwithstanding any other provision of law, an action to enforce the liability c
 
 #### (d) Copy of complaint filed with IRS
 
-Any person bringing an action under subsection (a) shall provide a copy of the complaint to the Internal Revenue Service upon the filing of such complaint with the court.
+Any person bringing an action under subsection (a) shall provide a copy of the complaintto the Internal Revenue Service upon the filing of such complaint with the court.
 
 #### (e) Finding of court to include correct amount of payment
 
@@ -36,6 +36,8 @@ For purposes of this section, the term "information return" means any statement 
 
 (Added Pub. L. 104–168, title VI, §601(a), July 30, 1996, 110 Stat. 1462; amended Pub. L. 105–206, title VI, §6023(29), July 22, 1998, 112 Stat. 826.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 7434 was renumbered 7437 of this title.
@@ -43,6 +45,8 @@ A prior section 7434 was renumbered 7437 of this title.
 #### Amendments
 
 <b>1998</b>—Subsec. (b)(3). Pub. L. 105–206 substituted "attorneys' fees" for "attorneys fees".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

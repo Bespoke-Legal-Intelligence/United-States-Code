@@ -10,7 +10,7 @@ Consistency With Executive Orders and Directives.—The Secretary shall carry ou
 
 (c)
 
-Performance of Industrial Security Functions for Other Agencies.—The Secretary may perform industrial security functions for other agencies of the Federal government upon request or upon designation of the Department of Defense as executive agent for the National Industrial Security Program (or any successor to such program).
+Performance of Industrial Security Functions for Other Agencies.—The Secretarymay perform industrial security functions for other agencies of the Federal government upon request or upon designation of the Department of Defense as executive agent for the National Industrial Security Program (or any successor to such program).
 
 (d)
 
@@ -21,6 +21,8 @@ Regulations and Policy Guidance.—The Secretary shall prescribe, and from time 
 Dedication of Resources.—The Secretary shall ensure that sufficient resources are provided to staff, train, and support such personnel as are necessary to fully protect classified information disclosed to contractors of the Department of Defense.
 
 (Added Pub. L. 110–417, \[div. A\], title VIII, §845(a)(1), Oct. 14, 2008, 122 Stat. 4541, §438; renumbered §428, Pub. L. 111–84, div. A, title X, §1073(a)(4), Oct. 28, 2009, 123 Stat. 2472; Pub. L. 111–383, div. A, title X, §1075(b)(11), Jan. 7, 2011, 124 Stat. 4369; Pub. L. 115–91, div. A, title X, §1051(a)(3), Dec. 12, 2017, 131 Stat. 1560.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -33,6 +35,8 @@ Executive Order 12829, referred to in subsec. (b), is set out as a note under se
 <b>2011</b>—Subsec. (f). Pub. L. 111–383 struck out ", United States Code," after "title 31".
 
 <b>2009</b>—Pub. L. 111–84 renumbered section 438 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Pilot Program for Department of Defense Controlled Unclassified Information in the Hands of Industry
 
@@ -60,6 +64,22 @@ Program Requirements.—The pilot program under subsection (a) shall have the fo
 
 Briefing Required.—By not later than 30 days after the completion of the pilot program under this section, but in no case later than December 1, 2019, the Secretary shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on the results of the pilot program and any decisions about whether to implement the pilot program on a Department-wide basis."
 
+#### Requirements Relating to Multi-Use Sensitive Compartmented Information Facilities
+
+Pub. L. 115–91, div. A, title XVI, §1628, Dec. 12, 2017, 131 Stat. 1735, provided that:
+
+"(a)
+
+In General.—In order to facilitate access for small business concerns and nontraditional defense contractors to affordable secure spaces, the Secretary of Defense, in consultation with the Director of National Intelligence, shall develop processes and procedures necessary to build, certify, and maintain certifications for multi-use sensitive compartmented information facilities not tied to a single contract and where multiple companies can securely work on multiple projects at different security levels.
+
+"(b)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'small business concern' has the meaning given that term under section 3 of the Small Business Act (15 U.S.C. 632).
+
+&emsp;"(2) The term 'nontraditional defense contractors' has the meaning given that term in section 2302 of title 10, United States Code \[now 10 U.S.C. 3014\]."
+
 #### Requirement for Entities With Facility Clearances That Are Not Under Foreign Ownership Control or Influence Mitigation
 
 Pub. L. 111–383, div. A, title VIII, §845, Jan. 7, 2011, 124 Stat. 4285, provided that:
@@ -86,5 +106,5 @@ Report.—Not later than 270 days after the date of the enactment of this Act \[
 
 #### Submission of First Biennial Report
 
-Pub. L. 110–417, \[div. A\], title VIII, §845(b), Oct. 14, 2008, 122 Stat. 4542, required the first biennial report under former subsec. (f) of this section to be submitted no later than Sept. 1, 2009.
+Pub. L. 110–417, \[div. A\], title VIII, §845(b), Oct. 14, 2008, 122 Stat. 4542, required the first biennial reportunder former subsec. (f) of this section to be submitted no later than Sept. 1, 2009.
 

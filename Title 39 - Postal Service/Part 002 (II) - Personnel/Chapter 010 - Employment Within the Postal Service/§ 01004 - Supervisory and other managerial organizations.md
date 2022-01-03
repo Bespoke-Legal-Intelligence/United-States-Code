@@ -70,7 +70,7 @@
 
 &emsp;(1) "supervisors' organization" means the organization recognized by the Postal Service under subsection (b) of this section as representing a majority of supervisors;
 
-&emsp;(2) "members of the supervisors' organization" means employees of the Postal Service who are recognized under an agreement between the Postal Service and the supervisors' organization as represented by such organization;
+&emsp;(2) "members of the supervisors' organization" means employees of the Postal Servicewho are recognized under an agreement between the Postal Service and the supervisors' organization as represented by such organization;
 
 (3) "postmaster" means an individual who is the manager in charge of the operations of a post office, with or without the assistance of subordinate managers or supervisors;
 
@@ -80,7 +80,7 @@
 
 &emsp;(A) between the Postal Service and the postmasters' organization as represented by the organization; or
 
-&emsp;(B) in the circumstance described in subsection (h)(1)(B), between the Postal Serviceand the postmasters' organizations (acting in concert) as represented by either or any of the postmasters' organizations involved.
+&emsp;(B) in the circumstance described in subsection (h)(1)(B), between the Postal Service and the postmasters' organizations (acting in concert) as represented by either or any of the postmasters' organizations involved.
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 731; Pub. L. 96–326, Aug. 8, 1980, 94 Stat. 1023; Pub. L. 108–86, §2(a)–(c), Sept. 30, 2003, 117 Stat. 1052.)
 

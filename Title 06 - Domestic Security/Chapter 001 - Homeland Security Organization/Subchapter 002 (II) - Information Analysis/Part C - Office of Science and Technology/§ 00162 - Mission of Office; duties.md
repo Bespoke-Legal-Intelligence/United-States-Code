@@ -20,7 +20,7 @@ In carrying out its mission, the Office shall have the following duties:
 
 &emsp;(4) To establish and maintain a program to certify, validate, and mark or otherwise recognize law enforcement technology products that conform to standards established and maintained by the Office in accordance with the National Technology Transfer and Advancement Act of 1995 (Public Law 104–113). The program may, at the discretion of the Office, allow for supplier's declaration of conformity with such standards.
 
-&emsp;(5) To work with other entities within the Department of Justice, other Federal agencies, and the executive office of the President to establish a coordinated Federal approach on issues related to law enforcement technology.
+&emsp;(5) To work with other entities within the Department of Justice, other Federal agencies, and the executive office of the Presidentto establish a coordinated Federal approach on issues related to law enforcement technology.
 
 &emsp;(6) To carry out research, development, testing, evaluation, and cost-benefit analyses in fields that would improve the safety, effectiveness, and efficiency of law enforcement technologies used by Federal, State, and local law enforcement agencies, including, but not limited to—
 
@@ -106,5 +106,5 @@ Section 605 of Public Law 107–77, referred to in subsec. (f), is section 605 o
 
 #### Amendments
 
-<b>2003</b>—Subsec. (f). Pub. L. 108–7 inserted before period at end ": <i>Provided</i>, That any such transfer or provision of funding shall be carried out in accordance with section 605 of Public Law 107–77".
+<b>2003</b>—Subsec. (f). Pub. L. 108–7 inserted before period at end ": <i>Provided</i>, That any such transfer or provisionof funding shall be carried out in accordance with section 605 of Public Law 107–77".
 

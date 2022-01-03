@@ -42,6 +42,8 @@ In subsection (b), the words "from the Secretary" and "conditions and other" are
 
 In subsection (d), the words "Not later than 1 year after the date of enactment of this Act" are omitted as obsolete.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Pub. L. 109–59 amended text generally. Prior to amendment, text read as follows: "See section 31144."

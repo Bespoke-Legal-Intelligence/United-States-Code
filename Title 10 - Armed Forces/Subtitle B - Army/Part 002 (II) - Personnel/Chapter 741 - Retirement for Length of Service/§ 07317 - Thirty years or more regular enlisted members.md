@@ -26,6 +26,8 @@ Feb. 14, 1885, ch. 67 (less 43d through 53d words); restated Sept. 30, 1890, ch.
 
 The word "regular" is inserted to conform to an opinion of the Judge Advocate General of the Army (JAGA, 1953/2301, 23 Mar. 1953). The words "upon his request" are substituted for the words "upon making application to the President", in 10:947, and "by application to the President", in 10:947a. The words "either as a private or noncommissioned officer, or both", in 10:947a, are omitted as surplusage. The words "shall be retired" are substituted for the words "be placed upon the retired list", in 10:947, and "be placed on the retired list heretofore created", in 10:947a. The words "computed under section 3925 of this title" are inserted for clarity. The 21 words before the proviso and the proviso of the Act of February 14, 1885, as restated, are not contained in 10:947a. They are also omitted from the revised section, since the proviso is executed and the 21 words before the proviso are omitted as covered by formula E of section 3991 of this title.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 7317 was renumbered section 8687 of this title.
@@ -35,6 +37,8 @@ A prior section 7317 was renumbered section 8687 of this title.
 <b>2018</b>—Pub. L. 115–232, §809(a), substituted "section 7325" for "section 3925".
 
 Pub. L. 115–232, §808(b)(12), renumbered section 3917 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

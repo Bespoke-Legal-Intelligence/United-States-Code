@@ -6,7 +6,7 @@ The Office of Science and Technology Policy shall develop policies for the manag
 
 &emsp;(1) Federal agencies with such collections; and
 
-&emsp;(2) representatives of other organizations, institutions, and other entities not a part of the Federal Government that have a stake in the preservation, maintenance, and accessibility of such collections, including State and local government agencies, institutions of higher education, museums, and other entities engaged in the acquisition, holding, management, or use of scientific collections.
+&emsp;(2) representatives of other organizations, institutions, and other entities not a part ofthe Federal Government that have a stake in the preservation, maintenance, and accessibility of such collections, including State and local government agencies, institutions of higher education, museums, and other entities engaged in the acquisition, holding, management, or use of scientific collections.
 
 #### (b) Clearinghouse
 
@@ -37,6 +37,8 @@ The Office of Science and Technology Policy, in consultation with relevant Feder
 In this section, the term "scientific collection" means a set of physical specimens, living or inanimate, created for the purpose of supporting science and serving as a long-term research asset, rather than for their market value as collectibles or their historical, artistic, or cultural significance, and, as appropriate and feasible, the associated specimen data and materials.
 
 (Pub. L. 111–358, title I, §104, Jan. 4, 2011, 124 Stat. 3988.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

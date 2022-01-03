@@ -76,7 +76,7 @@ In general.—The Secretary of Veterans Affairs shall conduct a study, through t
 
 &emsp;"(2)
 
-Preparation for future pandemic.—The Secretary, through the Center, shall analyze potential lessons learned through the study conducted under paragraph (1) to assist in preparing the Department of Veterans Affairs for potential future pandemics.
+Preparation for future pandemic.—The Secretary, through the Center, shall analyze potential lessons learned through the study conducted underparagraph (1) to assist in preparing the Department of Veterans Affairs for potential future pandemics.
 
 "(c)
 
@@ -118,7 +118,7 @@ Airborne Hazards and Open Burn Pit Registry Defined.—In this section, the term
 
 #### Coordination by Veterans Health Administration of Efforts To Understand Effects of Burn Pits
 
-Pub. L. 115–91, div. A, title VII, §738, Dec. 12, 2017, 131 Stat. 1446, provided that: "The Under Secretary for Health of the Department of Veterans Affairs, acting through the Office of Public Health of the VeteransHealth Administration, shall coordinate efforts related to furthering understanding of burn pits, the effect of burn pits on veterans, and effective treatments relating to such effects, including with respect to research efforts and training of clinical staff on related matters."
+Pub. L. 115–91, div. A, title VII, §738, Dec. 12, 2017, 131 Stat. 1446, provided that: "The Under Secretary for Health of the Department of Veterans Affairs, acting through the Office of Public Health of the Veterans Health Administration, shall coordinate efforts related to furthering understanding of burn pits, the effect of burn pits on veterans, and effective treatments relating to such effects, including with respect to research efforts and training of clinical staff on related matters."
 
 #### Submittal of Information to Secretary of Veterans Affairs Relating to Exposure to Airborne Hazards and Open Burn Pits
 
@@ -138,7 +138,7 @@ Inclusion of Certain Information.—The Secretary of Defense shall include in th
 
 #### Establishment of Open Burn Pit Registry
 
-Pub. L. 112–260, title II, §201, Jan. 10, 2013, 126 Stat. 2422, as amended by Pub. L. 116–315, title II, §2010(g), Jan. 5, 2021, 134 Stat. 4979, provided that:
+Pub. L. 112–260, title II, §201, Jan. 10, 2013, 126 Stat. 2422, as amended by Pub. L. 116–315, title II, §2010(g), Jan. 5, 2021, 134 Stat. 4979; Pub. L. 117–81, div. F, title LXVI, §6602, Dec. 27, 2021, 135 Stat. 2438, provided that:
 
 "(a)
 
@@ -174,7 +174,7 @@ Reports by independent scientific organization.—The Secretary of Veterans Affa
 
 &emsp;&emsp;&emsp;"(ii) Recommendations to improve the collection and maintenance of such information.
 
-&emsp;&emsp;&emsp;"(iii) Using established and previously published epidemiological studies, recommendations regarding the most effective and prudent means of addressing the medical needs of eligible individuals with respect to conditions that are likely to result from exposure to open burn pits.
+&emsp;&emsp;&emsp;"(iii) Using established and previously published epidemiological studies, recommendations regarding the most effective and prudent meansof addressing the medical needs of eligible individuals with respect to conditions that are likely to result from exposure to open burn pits.
 
 &emsp;&emsp;"(B) Not later than five years after completing the initial report described in subparagraph (A), a follow-up report containing the following:
 
@@ -208,7 +208,7 @@ Eligible individual.—The term 'eligible individual' means any individual who, 
 
 &emsp;"(2)
 
-Open burn pit.—The term 'open burn pit' means an area of land located in Afghanistan, Iraq, or Uzbekistan that—
+Open burn pit.—The term 'open burn pit' means an area of land located in Afghanistan, Iraq,, \[sic\] Uzbekistan, Egypt, or Syria that—
 
 &emsp;&emsp;"(A) is designated by the Secretary of Defense to be used for disposing solid waste by burning in the outdoor air; and
 
@@ -374,7 +374,7 @@ Funding.—(1) The Secretary of Veterans Affairs and the Secretary of Defense sh
 
 "(d)
 
-Research Review and Development of Medical Education Curriculum.—(1) In order to further understand the health consequences of military service in the Persian Gulf theater of operations during the Persian Gulf War and of new research findings with implications for improving the provision of care for veterans of such service, the Secretary of Veterans Affairs and the Secretary of Defense shall seek to enter into an agreement with the National Academy of Sciences under which the Institute of Medicine of the Academy would—
+Research Review and Development of Medical Education Curriculum.—(1) In order to further understand the health consequences of military service in the Persian Gulf theater of operations during the Persian Gulf War and of new research findings with implications for improving the provision of care for veterans of such service, the Secretary of Veterans Affairs and the Secretary of Defense shall seek to enter into an agreement with the National Academy of Sciencesunder which the Institute of Medicine of the Academy would—
 
 &emsp;"(A) develop a curriculum pertaining to the care and treatment of veterans of such service who have ill-defined or undiagnosed illnesses for use in the continuing medical education of both general and specialty physicians who provide care for such veterans; and
 

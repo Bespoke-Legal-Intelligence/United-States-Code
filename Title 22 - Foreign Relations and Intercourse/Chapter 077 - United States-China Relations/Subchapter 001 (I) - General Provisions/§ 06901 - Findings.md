@@ -44,11 +44,303 @@ Pub. L. 106–286, div. B, title II, §201(a), Oct. 10, 2000, 114 Stat. 891, pro
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Departmentof Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+
+#### Prohibition on Importation of Goods Made Through Forced Labor in the Xinjiang Uyghur Autonomous Region
+
+Pub. L. 117–78, Dec. 23, 2021, 135 Stat. 1525, provided that:
+
+#### "SECTION 1. STATEMENT OF POLICY.
+
+"It is the policy of the United States—
+
+&emsp;"(1) to strengthen the prohibition against the importation of goods made with forced labor, including by ensuring that the Government of the People's Republic of China does not undermine the effective enforcement of section 307 of the Tariff Act of 1930 (19 U.S.C. 1307), which prohibits the importation of all 'goods, wares, articles, and merchandise mined, produced or manufactured wholly or in part in any foreign country by \* \* \* forced labor';
+
+&emsp;"(2) to lead the international community in ending forced labor practices wherever such practices occur through all means available to the United States Government, including by stopping the importation of any goods made with forced labor, including those goods mined, produced, or manufactured wholly or in part in the Xinjiang Uyghur Autonomous Region;
+
+&emsp;"(3) to coordinate with Mexico and Canada to effectively implement Article 23.6 of the United States-Mexico-Canada Agreement to prohibit the importation of goods produced in whole or in part by forced or compulsory labor, including those goods mined, produced, or manufactured wholly or in part in the Xinjiang Uyghur Autonomous Region;
+
+&emsp;"(4) to actively work to prevent, publicly denounce, and end human trafficking including with respect to forced labor, whether sponsored by the government of a foreign country or not, and to restore the lives of those affected by human trafficking, a modern form of slavery;
+
+&emsp;"(5) to regard the prevention of atrocities as it is in the national interest of the United States, including efforts to prevent torture, enforced disappearances, severe deprivation of liberty, including mass internment, arbitrary detention, and widespread and systematic use of forced labor, and persecution targeting any identifiable ethnic or religious group; and
+
+&emsp;"(6) to address gross violations of human rights in the Xinjiang Uyghur Autonomous Region—
+
+&emsp;&emsp;"(A) through bilateral diplomatic channels and multilateral institutions where both the United States and the People's Republic of China are members; and
+
+&emsp;&emsp;"(B) using all the authorities available to the United States Government, including visa and financial sanctions, export restrictions, and import controls.
+
+#### "SEC. 2. STRATEGY TO ENFORCE PROHIBITION ON IMPORTATION OF GOODS MADE THROUGH FORCED LABOR IN THE XINJIANG UYGHUR AUTONOMOUS REGION.
+
+"(a)
+
+Public Comment.—
+
+&emsp;"(1)
+
+In general.—Not later than 30 days after the date of the enactment of this Act \[Dec. 23, 2021\], the Forced Labor Enforcement Task Force, established under section 741 of the United States-Mexico-Canada Agreement Implementation Act (19 U.S.C. 4681), shall publish in the Federal Register a notice soliciting public comments on how best to ensure that goods mined, produced, or manufactured wholly or in part with forced labor in the People's Republic of China, including by Uyghurs, Kazakhs, Kyrgyz, Tibetans, and members of other persecuted groups in the People's Republic of China, and especially in the Xinjiang Uyghur Autonomous Region, are not imported into the United States.
+
+&emsp;"(2)
+
+Period for comment.—The Forced Labor Enforcement Task Force shall provide the public with not less than 45 days to submit comments in response to the notice required by paragraph (1).
+
+"(b)
+
+Public Hearing.—
+
+&emsp;"(1)
+
+In general.—Not later than 45 days after the close of the period to submit comments under subsection (a)(2), the Forced Labor Enforcement Task Force shall conduct a public hearing inviting witnesses to testify with respect to the use of forced labor in the People's Republic of China and potential measures, including the measures described in paragraph (2), to prevent the importation of goods mined, produced, or manufactured wholly or in part with forced labor in the People's Republic of China into the United States.
+
+&emsp;"(2)
+
+Measures described.—The measures described in this paragraph are—
+
+&emsp;&emsp;"(A) measures that can be taken to trace the origin of goods, offer greater supply chain transparency, and identify third country supply chain routes for goods mined, produced, or manufactured wholly or in part with forced labor in the People's Republic of China; and
+
+&emsp;&emsp;"(B) other measures for ensuring that goods mined, produced, or manufactured wholly or in part with forced labor do not enter the United States.
+
+"(c)
+
+Development of Strategy.—After receiving public comments under subsection (a) and holding the hearing required by subsection (b), the Forced Labor Enforcement Task Force, in consultation with the Secretary of Commerce and the Director of National Intelligence, shall develop a strategy for supporting enforcement of Section 307 of the Tariff Act of 1930 (19 U.S.C. 1307) to prevent the importation into the United States of goods mined, produced, or manufactured wholly or in part with forced labor in the People's Republic of China.
+
+"(d)
+
+Elements.—The strategy developed under subsection (c) shall include the following:
+
+&emsp;"(1) A comprehensive assessment of the risk of importing goods mined, produced, or manufactured wholly or in part with forced labor in the People's Republic of China, including from the Xinjiang Uyghur Autonomous Region or made by Uyghurs, Kazakhs, Kyrgyz, Tibetans, or members of other persecuted groups in any other part of the People's Republic of China, that identifies, to the extent feasible—
+
+&emsp;&emsp;"(A) threats, including through the potential involvement in supply chains of entities that may use forced labor, that could lead to the importation into the United States from the People's Republic of China, including through third countries, of goods mined, produced, or manufactured wholly or in part with forced labor; and
+
+&emsp;&emsp;"(B) what procedures can be implemented or improved to reduce such threats.
+
+&emsp;"(2) A comprehensive description and evaluation—
+
+&emsp;&emsp;"(A) of 'pairing assistance' and 'poverty alleviation' or any other government labor scheme that includes the forced labor of Uyghurs, Kazakhs, Kyrgyz, Tibetans, or members of other persecuted groups outside of the Xinjiang Uyghur Autonomous Region or similar programs of the People's Republic of China in which work or services are extracted from Uyghurs, Kazakhs, Kyrgyz, Tibetans, or members of other persecuted groups through the threat of penalty or for which the Uyghurs, Kazakhs, Kyrgyz, Tibetans, or members of other persecuted groups have not offered themselves voluntarily; and
+
+&emsp;&emsp;"(B) that includes—
+
+&emsp;&emsp;&emsp;"(i) a list of entities in the Xinjiang Uyghur Autonomous Region that mine, produce, or manufacture wholly or in part any goods, wares, articles and merchandise with forced labor;
+
+&emsp;&emsp;&emsp;"(ii) a list of entities working with the government of the Xinjiang Uyghur Autonomous Region to recruit, transport, transfer, harbor or receive forced labor or Uyghurs, Kazakhs, Kyrgyz, or members of other persecuted groups out of the Xinjiang Uyghur Autonomous Region;
+
+&emsp;&emsp;&emsp;"(iii) a list of products mined, produced, or manufactured wholly or in part by entities on the list required by clause (i) or (ii);
+
+&emsp;&emsp;&emsp;"(iv) a list of entities that exported products described in clause (iii) from the People's Republic of China into the United States;
+
+&emsp;&emsp;&emsp;"(v) a list of facilities and entities, including the Xinjiang Production and Construction Corps, that source material from the Xinjiang Uyghur Autonomous Region or from persons working with the government of the Xinjiang Uyghur Autonomous Region or the Xinjiang Production and Construction Corps for purposes of the 'poverty alleviation' program or the 'pairing-assistance' program or any other government labor scheme that uses forced labor;
+
+&emsp;&emsp;&emsp;"(vi) a plan for identifying additional facilities and entities described in clause (v);
+
+&emsp;&emsp;&emsp;"(vii) an enforcement plan for each such entity whose goods, wares articles, or merchandise are exported into the United States, which may include issuing withhold release orders to support enforcement of section 4 with respect to the entity;
+
+&emsp;&emsp;&emsp;"(viii) a list of high-priority sectors for enforcement, which shall include cotton, tomatoes, and polysilicon; and
+
+&emsp;&emsp;&emsp;"(ix) an enforcement plan for each such high-priority sector.
+
+&emsp;"(3) Recommendations for efforts, initiatives, and tools and technologies to be adopted to ensure that U.S. Customs and Border Protection can accurately identify and trace goods made in the Xinjiang Uyghur Autonomous Region entering at any of the ports of the United States.
+
+&emsp;"(4) A description of how U.S. Customs and Border Protection plans to enhance its use of legal authorities and other tools to ensure that no goods are entered at any of the ports of the United States in violation of section 307 of the Tariff Act of 1930 (19 U.S.C. 1307), including through the initiation of pilot programs to test the viability of technologies to assist in the examination of such goods.
+
+&emsp;"(5) A description of the additional resources necessary for U.S. Customs and Border Protection to ensure that no goods are entered at any of the ports of the United States in violation of section 307 of the Tariff Act of 1930 (19 U.S.C. 1307).
+
+&emsp;"(6) Guidance to importers with respect to—
+
+&emsp;&emsp;"(A) due diligence, effective supply chain tracing, and supply chain management measures to ensure that such importers do not import any goods mined, produced, or manufactured wholly or in part with forced labor from the People's Republic of China, especially from the Xinjiang Uyghur Autonomous Region;
+
+&emsp;&emsp;"(B) the type, nature, and extent of evidence that demonstrates that goods originating in the People's Republic of China were not mined, produced, or manufactured wholly or in part in the Xinjiang Uyghur Autonomous Region; and
+
+&emsp;&emsp;"(C) the type, nature, and extent of evidence that demonstrates that goods originating in the People's Republic of China, including goods detained or seized pursuant to section 307 of the Tariff Act of 1930 (19 U.S.C. 1307), were not mined, produced, or manufactured wholly or in part with forced labor.
+
+&emsp;"(7) A plan to coordinate and collaborate with appropriate nongovernmental organizations and private sector entities to implement and update the strategy developed under subsection (c).
+
+"(e)
+
+Submission of Strategy.—
+
+&emsp;"(1)
+
+In general.—Not later than 180 days after the date of the enactment of this Act, and annually thereafter, the Forced Labor Enforcement Task Force, in consultation with the Department of Commerce and the Director of National Intelligence, shall submit to the appropriate congressional committees a report that—
+
+&emsp;&emsp;"(A) in the case of the first such report, sets forth the strategy developed under subsection (c); and
+
+&emsp;&emsp;"(B) in the case of any subsequent such report, sets forth any updates to the strategy.
+
+&emsp;"(2)
+
+Updates of certain matters.—Not less frequently than annually after the submission under paragraph (1)(A) of the strategy developed under subsection (c), the Forced Labor Enforcement Task Force shall submit to the appropriate congressional committees updates to the strategy with respect to the matters described in clauses (i) through (ix) of subsection (d)(2)(B).
+
+&emsp;"(3)
+
+Form of report.—Each report required by paragraph (1) shall be submitted in unclassified form, but may include a classified annex, if necessary.
+
+&emsp;"(4)
+
+Public availability.—The unclassified portion of each report required by paragraph (1) shall be made available to the public.
+
+"(f)
+
+Rule of Construction.—Nothing in this section may be construed to limit the application of regulations in effect on or measures taken before the date of the enactment of this Act to prevent the importation of goods mined, produced, or manufactured wholly or in part with forced labor into the United States, including withhold release orders issued before such date of enactment.
+
+#### "SEC. 3. REBUTTABLE PRESUMPTION THAT IMPORT PROHIBITION APPLIES TO GOODS MINED, PRODUCED, OR MANUFACTURED IN THE XINJIANG UYGHUR AUTONOMOUS REGION OR BY CERTAIN ENTITIES.
+
+"(a)
+
+In General.—The Commissioner of U.S. Customs and Border Protection shall, except as provided by subsection (b), apply a presumption that, with respect to any goods, wares, articles, and merchandise mined, produced, or manufactured wholly or in part in the Xinjiang Uyghur Autonomous Region of the People's Republic of China or produced by an entity on a list required by clause (i), (ii), (iv) or (v) of section 2(d)(2)(B)—
+
+&emsp;"(1) the importation of such goods, wares, articles, and merchandise is prohibited under section 307 of the Tariff Act of 1930 (19 U.S.C. 1307); and
+
+&emsp;"(2) such goods, wares, articles, and merchandise are not entitled to entry at any of the ports of the United States.
+
+"(b)
+
+Exceptions.—The Commissioner shall apply the presumption under subsection (a) unless the Commissioner determines—
+
+&emsp;"(1) that the importer of record has—
+
+&emsp;&emsp;"(A) fully complied with the guidance described in section 2(d)(6) and any regulations issued to implement that guidance; and
+
+&emsp;&emsp;"(B) completely and substantively responded to all inquiries for information submitted by the Commissioner to ascertain whether the goods were mined, produced, or manufactured wholly or in part with forced labor; and
+
+&emsp;"(2) by clear and convincing evidence, that the good, ware, article, or merchandise was not mined, produced, or manufactured wholly or in part by forced labor.
+
+"(c)
+
+Report Required.—The Commissioner shall submit to the appropriate congressional committees and make available to the public, not later than 30 days after making a determination of an exception under subsection (b), a report identifying the good and the evidence considered under subsection (b).
+
+"(d)
+
+Regulations.—The Commissioner may prescribe regulations—
+
+&emsp;"(1) to implement paragraphs (1) and (2) of subsection (b); or
+
+&emsp;"(2) to amend any other regulations relating to withhold release orders in order to implement this section.
+
+"(e)
+
+Effective Date.—This section takes effect on the date that is 180 days after the date of the enactment of this Act \[Dec. 23, 2021\].
+
+#### "SEC. 4. DIPLOMATIC STRATEGY TO ADDRESS FORCED LABOR IN THE XINJIANG UYGHUR AUTONOMOUS REGION.
+
+"(a)
+
+In General.—Not later than 90 days after the date of the enactment of this Act, the Secretary of State, in coordination with the heads of other appropriate Federal departments and agencies, shall submit to the appropriate congressional committees a report that contains a United States strategy to promote initiatives to enhance international awareness of and to address forced labor in the Xinjiang Uyghur Autonomous Region of the People's Republic of China.
+
+"(b)
+
+Matters To Be Included.—The strategy required by subsection (a) shall include—
+
+&emsp;"(1) a plan to enhance bilateral and multilateral coordination, including sustained engagement with the governments of United States partners and allies, to end forced labor of Uyghurs, Kazakhs, Kyrgyz, Tibetans, and members of other persecuted groups in the Xinjiang Uyghur Autonomous Region;
+
+&emsp;"(2) a description of public affairs, public diplomacy, and counter-messaging efforts to promote awareness of the human rights situation, including forced labor in the Xinjiang Uyghur Autonomous Region; and
+
+&emsp;"(3) a plan—
+
+&emsp;&emsp;"(A) to coordinate and collaborate with appropriate nongovernmental organizations and private sector entities to raise awareness about goods mined, produced, or manufactured wholly or in part with forced labor in the Xinjiang Uyghur Autonomous Region; and
+
+&emsp;&emsp;"(B) to provide humanitarian assistance, including with respect to resettlement and advocacy for imprisoned family members, to Uyghurs, Kazakhs, Kyrgyz, Tibetans, and members of other persecuted groups, including members of such groups formerly detained in mass internment camps in the Xinjiang Uyghur Autonomous Region.
+
+"(c)
+
+Additional Matters To Be Included.—The Secretary shall include in the report required by subsection (a), based on consultations with the Secretary of Commerce, the Secretary of Homeland Security, and the Secretary of the Treasury, the following—
+
+&emsp;"(1) to the extent practicable, a list of—
+
+&emsp;&emsp;"(A) entities in the People's Republic of China or affiliates of such entities that use or benefit from forced labor in the Xinjiang Uyghur Autonomous Region; and
+
+&emsp;&emsp;"(B) Foreign persons that acted as agents of the entities or affiliates of entities described in subparagraph (A) to import goods into the United States.
+
+&emsp;"(2) A plan for working with private sector entities seeking to conduct supply chain due diligence to prevent the importation of goods mined, produced, or manufactured wholly or in part with forced labor into the United States.
+
+&emsp;"(3) A plan of actions taken by the United States Government to address forced labor in the Xinjiang Uyghur Autonomous Region under existing authorities, including—
+
+&emsp;&emsp;"(A) the Trafficking Victims Protection Act of 2000 (Public Law 106–386; 22 U.S.C. 7101 et seq.);
+
+&emsp;&emsp;"(B) the Elie Wiesel Genocide and Atrocities Prevention Act of 2018 (Public Law 115–441; 22 U.S.C. 2656 note) \[see Short Title of 2019 Amendment note set out under section 2651 of this title\]; and
+
+&emsp;&emsp;"(C) the Global Magnitsky Human Rights Accountability Act \[Pub. L. 114–328, div. A, title XII, subtitle F\] (22 U.S.C. 2656 note).
+
+"(d)
+
+Form.—The report required by subsection (a) shall be submitted in unclassified form, but may include a classified annex, if necessary.
+
+"(e)
+
+Updates.—The Secretary of State may include any updates to the strategy required by subsection (a) in the annual Trafficking in Persons report required by section 110(b) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7107(b)).
+
+#### "SEC. 5. IMPOSITION OF SANCTIONS RELATING TO FORCED LABOR IN THE XINJIANG UYGHUR AUTONOMOUS REGION.
+
+"(a)
+
+In General.—\[Amended section 6 of Pub. L. 116–145, set out as a note below.\]
+
+"(b)
+
+Effective Date; Applicability.—The amendment made by subsection (a)—
+
+&emsp;"(1) takes effect on the date of the enactment of this Act \[Dec. 23, 2021\]; and
+
+&emsp;"(2) applies with respect to the first report required by section 6(a)(1) of the Uyghur Human Rights Policy Act of 2020 \[Pub. L. 116–145\] submitted after such date of enactment.
+
+"(c)
+
+Transition Rule.—
+
+&emsp;"(1)
+
+Interim report.—Not later than 180 days after the date of the enactment of this Act, the President shall submit to the committees specified in section 6(a)(1) of the Uyghur Human Rights Policy Act of 2020 \[Pub. L. 116–145, set out as a note below\] a report that identifies each foreign person, including any official of the Government of the People's Republic of China, that the President determines is responsible for serious human rights abuses in connection with forced labor with respect to Uyghurs, Kazakhs, Kyrgyz, or members of other persecuted groups, or other persons in the Xinjiang Uyghur Autonomous Region.
+
+&emsp;"(2)
+
+Imposition of sanctions.—The President shall impose sanctions under subsection (c) of section 6 of the Uyghur Human Rights Policy Act of 2020 with respect to each foreign person identified in the report required by paragraph (1), subject to the provisions of subsections (d), (e), (f), and (g) of that section.
+
+#### "SEC. 6. SUNSET.
+
+"Sections 3, 4, and 5 shall cease to have effect on the earlier of—
+
+&emsp;"(1) the date that is 8 years after the date of the enactment of this Act \[Dec. 23, 2021\]; or
+
+&emsp;"(2) the date on which the President submits to the appropriate congressional committees a determination that the Government of the People's Republic of China has ended mass internment, forced labor, and any other gross violations of human rights experienced by Uyghurs, Kazakhs, Kyrgyz, Tibetans, and members of other persecuted groups in the Xinjiang Uyghur Autonomous Region.
+
+#### "SEC. 7. DEFINITIONS.
+
+"In this Act:
+
+&emsp;"(1)
+
+Appropriate congressional committees.—The term 'appropriate congressional committees' means—
+
+&emsp;&emsp;"(A) the Committee on Foreign Affairs, the Committee on Financial Services, the Committee on Ways and Means and the Committee on Homeland Security of the House of Representatives; and
+
+&emsp;&emsp;"(B) the Committee on Foreign Relations, the Committee on Banking, Housing, and Urban Affairs, the Committee on Finance and the Committee on Homeland Security and Governmental Affairs of the Senate.
+
+&emsp;"(2)
+
+Forced labor.—The term 'forced labor'—
+
+&emsp;&emsp;"(A) has the meaning given that term in section 307 of the Tariff Act of 1930 (19 U.S.C. 1307); and
+
+&emsp;&emsp;"(B) includes convict labor and indentured labor under penal sanctions.
+
+&emsp;"(3)
+
+Foreign person.—The term 'foreign person' means a person that is not a United States person.
+
+&emsp;"(4)
+
+Person.—The term 'person' means an individual or entity.
+
+&emsp;"(5)
+
+United states person.—The term 'United States person' means—
+
+&emsp;&emsp;"(A) a United States citizen or an alien lawfully admitted for permanent residence to the United States; or
+
+&emsp;&emsp;"(B) an entity organized under the laws of the United States or any jurisdiction within the United States, including a foreign branch of such an entity."
 
 #### Imposition of Sanctions
 
-Pub. L. 116–145, §6, June 17, 2020, 134 Stat. 651, provided that:
+Pub. L. 116–145, §6, June 17, 2020, 134 Stat. 651, as amended by Pub. L. 117–78, §5(a), Dec. 23, 2021, 135 Stat. 1531, provided that:
 
 "(a)
 
@@ -56,7 +348,7 @@ Report Required.—
 
 &emsp;"(1)
 
-In general.—Not later than 180 days after the date of the enactment of this Act \[June 17, 2020\], and not less frequently than annually thereafter, the President shall submit a report to the Committee on Foreign Relations of the Senate, the Committee on Banking, Housing, and Urban Affairs of the Senate, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Financial Services of the House of Representatives that identifies each foreign person, including any official of the Government of the People's Republic of China, that the President determines is responsible for any of the following with respect to Uyghurs, ethnic Kazakhs, Kyrgyz, members of other Muslim minority groups, or other persons in Xinjiang Uyghur Autonomous Region:
+In general.—Not later than 180 days after the date of the enactment of this Act \[June 17, 2020\], and not less frequently than annually thereafter, thePresident shall submit a report to the Committee on Foreign Relations of the Senate, the Committee on Banking, Housing, and Urban Affairs of the Senate, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Financial Services of the House of Representatives that identifies each foreign person, including any official of the Government of the People's Republic of China, that the President determines is responsible for any of the following with respect to Uyghurs, ethnic Kazakhs, Kyrgyz, members of other Muslim minority groups, or other persons in Xinjiang Uyghur Autonomous Region:
 
 &emsp;&emsp;"(A) Torture.
 
@@ -67,6 +359,8 @@ In general.—Not later than 180 days after the date of the enactment of this Ac
 &emsp;&emsp;"(D) Causing the disappearance of persons by the abduction and clandestine detention of those persons.
 
 &emsp;&emsp;"(E) Other flagrant denial of the right to life, liberty, or the security of persons.
+
+&emsp;&emsp;"(F) Serious human rights abuses in connection with forced labor.
 
 &emsp;"(2)
 
@@ -266,7 +560,7 @@ Statement of Policy.—It is the policy of the United States that—
 
 &emsp;"(1) decisions regarding the selection, education, and veneration of Tibetan Buddhist religious leaders are exclusively spiritual matters that should be made by the appropriate religious authorities within the Tibetan Buddhist tradition and in the context of the will of practitioners of Tibetan Buddhism;
 
-&emsp;"(2) the wishes of the 14th Dalai Lama, including any written instructions, should play a key role in the selection, education, and veneration of a future 15th Dalai Lama; and
+&emsp;"(2) the wishes of the 14th Dalai Lama, including any written instructions, should play a key role inthe selection, education, and veneration of a future 15th Dalai Lama; and
 
 &emsp;"(3) interference by the Government of the People's Republic of China or any other government in the process of recognizing a successor or reincarnation of the 14th Dalai Lama and any future Dalai Lamas would represent a clear abuse of the right to religious freedom of Tibetan Buddhists and the Tibetan people.
 
@@ -470,7 +764,7 @@ Duties and Responsibilities.—The Special Coordinator shall—
 
 &emsp;"(1) coordinate United States Government policies, programs, and projects concerning Tibet;
 
-&emsp;"(2) vigorously promote the policy of seeking to protect the distinct religious, cultural, linguistic,and national identity of Tibet, and pressing for improved respect for human rights;
+&emsp;"(2) vigorously promote the policy of seeking to protect the distinct religious, cultural, linguistic, and national identity of Tibet, and pressing for improved respect for human rights;
 
 &emsp;"(3) maintain close contact with religious, cultural, and political leaders of the Tibetan people, including regular travel to Tibetan areas of the People's Republic of China, and to Tibetan refugee settlements in India and Nepal;
 
@@ -566,13 +860,13 @@ In general.—Subject to subsection (b) and paragraph (2), for all purposes, inc
 
 &emsp;"(2)
 
-Exception.—If, in carrying out this subsection, the President determines that Macau is not legallycompetent to carry out its obligations under any such treaty or other international agreement, or that the continuation of Macau's obligations or rights under any such treaty or other international agreement is not appropriate under the circumstances, the President shall take appropriate action to modify or terminate such treaty or other international agreement. The President shall promptly notify the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate concerning such determination.
+Exception.—If, in carrying out this subsection, the President determines that Macau is not legally competent to carry out its obligations under any such treaty or other international agreement, or that the continuation of Macau's obligations or rights under any such treaty or other international agreement is not appropriate under the circumstances, the President shall take appropriate action to modify or terminate such treaty or other international agreement. The President shall promptly notify the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate concerning such determination.
 
 #### "SEC. 204. REPORTING REQUIREMENT.
 
 "(a)
 
-In General.—Not later than 90 days after the date of the enactment of this Act \[Dec. 27, 2000\], and not later than March 31 of each of the years 2001, 2002, and 2003, the Secretary of State shall transmit to the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate a report on conditions in Macau of interest to the United States. The report shall describe—
+In General.—Not later than 90 days after the date of the enactment of this Act \[Dec. 27, 2000\], and not later than March 31 of each of the years 2001, 2002,and 2003, the Secretary of State shall transmit to the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate a report on conditions in Macau of interest to the United States. The report shall describe—
 
 &emsp;"(1) significant developments in United States relations with Macau, including any determination made under section 203;
 

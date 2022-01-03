@@ -24,9 +24,9 @@
 
 (B) Persons eligible for coverage under subparagraph (A) shall be limited to:
 
-&emsp;(i) persons who retired from active employment at one of the gaseous diffusion plants on or before the privatization date as vested participants in a pension plan maintained either by the Corporation's operating contractor or by a contractor employed prior to July 1, 1993, by the Department of Energy to operate a gaseous diffusion plant; and
+&emsp;(i) persons who retired from active employment at one of the gaseous diffusion plants onor before the privatization date as vested participants in a pension plan maintained either by the Corporation's operating contractor or by a contractor employed prior to July 1, 1993, by the Department of Energy to operate a gaseous diffusion plant; and
 
-&emsp;(ii) persons who are employed by the Corporation's operating contractor on or beforethe privatization date and are vested participants in a pension plan maintained either by the Corporation's operating contractor or by a contractor employed prior to July 1, 1993, by the Department of Energy to operate a gaseous diffusion plant.
+&emsp;(ii) persons who are employed by the Corporation's operating contractor on or before the privatization date and are vested participants in a pension plan maintained either by the Corporation's operating contractor or by a contractor employed prior to July 1, 1993, by the Department of Energy to operate a gaseous diffusion plant.
 
 (C) The Secretary shall fund the entire cost of post-retirement health benefits for persons who retired from employment with an operating contractor prior to July 1, 1993.
 
@@ -76,11 +76,13 @@ Continuity of benefits.—To the extent appropriations are provided in advance f
 
 &emsp;(A) such employee deductions and agency contributions as are required by section 8906(a)–(f) of title 5 for those employees who elect to retain their coverage under FEHBP pursuant to paragraph (4); and
 
-&emsp;(B) such amounts as are determined necessary by the Office of Personnel Management under paragraph (6) to reimburse the Office of Personnel Management for contributionsunder section 8906(g)(1) of title 5 for those employees who elect to retain their coverage under FEHBP pursuant to paragraph (4).
+&emsp;(B) such amounts as are determined necessary by the Office of Personnel Management under paragraph (6) to reimburse the Office of Personnel Management for contributions under section 8906(g)(1) of title 5 for those employees who elect to retain their coverage under FEHBP pursuant to paragraph (4).
 
 (6) The amounts required under paragraph (5)(B) shall pay the Government contributions for retired employees who retire from the Corporation after the privatization date under either CSRS or FERS, for survivors of such retired employees, and for survivors of employees of the Corporation who die after the privatization date, with said amounts prorated to reflect only that portion of the total service of such employees and retired persons that was performed for the Corporation after the privatization date.
 
 (Pub. L. 104–134, title III, §3110, Apr. 26, 1996, 110 Stat. 1321–340; Pub. L. 104–206, title III, Sept. 30, 1996, 110 Stat. 2995; Pub. L. 109–58, title VI, §633, Aug. 8, 2005, 119 Stat. 790.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

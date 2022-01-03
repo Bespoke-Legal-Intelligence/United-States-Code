@@ -26,11 +26,11 @@ The Administrator shall approve an integrated resource plan submitted as require
 
 #### (c) Use of other integrated resource plans
 
-Where a customer or group of customers are implementing integrated resource planningunder a program responding to Federal, State, or other initiatives, including integrated resource planning considered and implemented pursuant to section 2621(d) of title 16, in evaluating that customer's integrated resource plan under sections 7275 to 7276c of this title, the Administrator shall accept such plan as fulfillment of the requirements of sections 7275 to 7276c of this title to the extent such plan substantially complies with the requirements of sections 7275 to 7276c of this title.
+Where a customer or group of customers are implementing integrated resource planning under a program responding to Federal, State, or other initiatives, including integrated resource planning considered and implemented pursuant to section 2621(d) of title 16, in evaluating that customer's integrated resource plan under sections 7275 to 7276c of this title, the Administrator shall accept such plan as fulfillment of the requirements of sections 7275 to 7276c of this title to the extent such plan substantially complies with the requirements of sections 7275 to 7276c of this title.
 
 #### (d) Compliance with integrated resource plans
 
-Within 1 year after October 24, 1992, the Administrator shall, by regulation, revise the Final Amended Guidelines and Acceptance Criteria for Customer Conservation and Renewable Energy Programs published in the Federal Register on August 21, 1985 (50 F.R. 33892), or any subsequent amendments thereto, to require each customer to fully comply with the applicable integrated resource plan and submit an annual report to the Administrator (in such form and containing such information as the Administrator may require) describing the customer's progress to the goals established in such plan. After the initial review under subsection (a) the Administrator shall periodically conduct reviews of a representative sample of applicable integrated resource plans and the customer's implementation of the applicable integrated resource plan to determine if the customers are in compliance with their plans. If the Administrator finds a customer out-of-compliance, the Administrator shall impose a surcharge under this section on all electric energy purchased by the customer from the Western Area Power Administration or reduce such customer's power allocation by 10 percent, unless the Administrator finds that a good faith effort has been made to comply with the approved plan.
+Within 1 year after October 24, 1992, the Administrator shall, by regulation, revise the Final Amended Guidelines and Acceptance Criteria for Customer Conservation and Renewable Energy Programs published in the Federal Register on August 21, 1985 (50 F.R. 33892), or any subsequent amendments thereto, to require each customer to fully comply with the applicable integrated resource plan and submit an annual report to the Administrator (in such form and containing such information as the Administrator may require) describing the customer's progress to the goals established in such plan. After theinitial review under subsection (a) the Administrator shall periodically conduct reviews of a representative sample of applicable integrated resource plans and the customer's implementation of the applicable integrated resource plan to determine if the customers are in compliance with their plans. If the Administrator finds a customer out-of-compliance, the Administrator shall impose a surcharge under this section on all electric energy purchased by the customer from the Western Area Power Administration or reduce such customer's power allocation by 10 percent, unless the Administrator finds that a good faith effort has been made to comply with the approved plan.
 
 #### (e) Enforcement
 
@@ -59,6 +59,8 @@ If more than one long-term firm power service contract exists between the Admini
 Within 1 year after January 1, 1999, and at appropriate intervals thereafter, the Administrator shall initiate a public process to review the program established by this section. The Administrator is authorized at that time to revise the criteria set forth in subsection (b) to reflect changes, if any, in technology, needs, or other developments.
 
 (Pub. L. 98–381, title II, §204, as added Pub. L. 102–486, title I, §114, Oct. 24, 1992, 106 Stat. 2800.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

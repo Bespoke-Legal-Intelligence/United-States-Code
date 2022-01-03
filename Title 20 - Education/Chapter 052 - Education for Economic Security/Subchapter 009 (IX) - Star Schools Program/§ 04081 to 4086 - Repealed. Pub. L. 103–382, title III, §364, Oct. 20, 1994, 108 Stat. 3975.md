@@ -18,7 +18,9 @@ Section 4085c, Pub. L. 98–377, title IX, §909, as added Pub. L. 102–103, ti
 
 Section 4085d, Pub. L. 98–377, title IX, §910, as added Pub. L. 102–103, title III, §305(2), Aug. 17, 1991, 105 Stat. 504, authorized grants for dissemination and technical assistance to State and local educational agencies.
 
-Section 4086, Pub. L. 98–377, title IX, §911, formerly §907, as added Pub. L. 100–297, title II, §2302, Apr. 28, 1988, 102 Stat. 324; amended Pub. L. 102–73, title VIII, §802(c), July 25, 1991, 105 Stat. 361; renumbered §911, Pub. L. 102–103, title III, §305(1), Aug. 17, 1991, 105 Stat. 502, defined terms used in this subchapter.
+Section 4086, Pub. L. 98–377, title IX, §911, formerly §907, as added Pub. L. 100–297, title II, §2302, Apr. 28, 1988, 102 Stat. 324; amended Pub. L. 102–73, title VIII,§802(c), July 25, 1991, 105 Stat. 361; renumbered §911, Pub. L. 102–103, title III, §305(1), Aug. 17, 1991, 105 Stat. 502, defined terms used in this subchapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

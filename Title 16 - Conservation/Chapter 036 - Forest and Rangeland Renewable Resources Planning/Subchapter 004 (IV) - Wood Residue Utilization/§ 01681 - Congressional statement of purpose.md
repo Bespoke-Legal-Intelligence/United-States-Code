@@ -4,6 +4,8 @@ The purpose of this subchapter is to develop, demonstrate, and make available in
 
 (Pub. L. 96–554, §2, Dec. 19, 1980, 94 Stat. 3257.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Pub. L. 96–554, §9, Dec. 19, 1980, 94 Stat. 3259, provided that: "This Act \[enacting this subchapter and enacting a provision set out as a note under section 1600 of this title\] shall become effective October 1, 1981".

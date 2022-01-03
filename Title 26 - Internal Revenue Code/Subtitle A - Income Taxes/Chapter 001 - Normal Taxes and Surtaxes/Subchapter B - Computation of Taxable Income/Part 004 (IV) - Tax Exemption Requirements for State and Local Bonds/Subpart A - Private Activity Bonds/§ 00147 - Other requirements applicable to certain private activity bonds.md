@@ -72,7 +72,7 @@
 
 &emsp;&emsp;&emsp;(iii) before such bond is issued, a demand survey was conducted which shows a demand for financing greater than an amount equal to 120 percent of the lendable proceeds of such issue, and
 
-&emsp;&emsp;&emsp;(iv) 95 percent or more of the net proceeds of such issue are to be loaned to 501(c)(3) organizations or governmentalunits within 1 year of issuance and, to the extent there are any unspent proceeds after such 1-year period, bonds issued as part of such issue are to be redeemed as soon as possible thereafter (and in no event later than 18 months after issuance).
+&emsp;&emsp;&emsp;(iv) 95 percent or more of the net proceeds of such issue are to be loaned to 501(c)(3) organizations or governmental units within 1 year of issuance and, to the extent there are any unspent proceeds after such 1-year period, bonds issued as part of such issue are to be redeemed as soon as possible thereafter (and in no event later than 18 months after issuance).
 
 > &emsp;&emsp;A bond shall not meet the requirements of this subparagraph if the maturity date of any bond issued as part of such issue is more than 30 years after the date on which the bond was issued (or, in the case of a refunding or series of refundings, the date on which the original bond was issued).
 
@@ -192,7 +192,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in this paragraph, the term "rehabilitation expenditures" means any amount properly chargeable to capital account which is incurred by the person acquiring the building for property (or additions or improvements to property) in connection with the rehabilitation of a building. In the case of an integrated operation contained in a building before its acquisition, such term includes rehabilitating existing equipment in such building or replacing it with equipment having substantially the same function. For purposes of this subparagraph, any amount incurred by a successor to the person acquiring the building or by the seller under a sales contract with such person shall be treated as incurred by such person.
+&emsp;&emsp;Except as provided in this paragraph, the term "rehabilitation expenditures" means any amount properly chargeable to capital account which is incurred by the person acquiring the building for property (or additions or improvements to property) in connection with the rehabilitation of a building. In the case of an integrated operation contained in a building before its acquisition, such term includes rehabilitating existing equipment in such building or replacing it with equipment having substantially thesame function. For purposes of this subparagraph, any amount incurred by a successor to the person acquiring the building or by the seller under a sales contract with such person shall be treated as incurred by such person.
 
 #### (B) Certain expenditures not included
 
@@ -326,6 +326,8 @@ A private activity bond shall not be a qualified bond if issued as part of an is
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. (b)(5), is the date of enactment of Pub. L. 99–514, which was approved Oct. 22, 1986.
@@ -380,6 +382,8 @@ Subsec. (g)(1). Pub. L. 100–647, §1013(a)(13)(A), substituted "proceeds" for 
 
 Subsec. (g)(2). Pub. L. 100–647, §1013(a)(13)(B), substituted "proceeds" for "aggregate authorized face amount" and "do" for "does".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2017 Amendment
 
 Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
@@ -406,7 +410,7 @@ Pub. L. 104–188, title I, §1117(c), Aug. 20, 1996, 110 Stat. 1764, provided t
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicableto any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
+Amendment by Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Effective Date of 1989 Amendment
 

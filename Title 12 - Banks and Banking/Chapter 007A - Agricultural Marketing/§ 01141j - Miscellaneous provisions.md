@@ -38,7 +38,7 @@ As used in this chapter, the term "agricultural commodity" includes, in addition
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 Section was formerly classified to section 535 of Title 7, Agriculture.
 

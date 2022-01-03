@@ -10,7 +10,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;(3) provide assistance to participating countries conditioned on the implementation of economic reforms, and the preservation of economic reforms previously implemented, by the country that are consistent with the principles of sustainable development;
 
-&emsp;(4) encourage participating countries to make economic adjustments steadily and over a period of time in order to achieve policy reform;
+&emsp;(4) encourage participating countries to make economic adjustments steadily and overa period of time in order to achieve policy reform;
 
 &emsp;(5) use debt reduction techniques that would not compensate commercial banks for the reduction in the value of such debt, but would serve as a catalyst for new lending;
 
@@ -26,7 +26,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 #### (c) Voluntary market-based program for debt reduction and sustainable growth
 
-In connection with the discussions initiated pursuant to subsection (b), the Secretary shallinstruct the United States Executive Director of the International Bank for Reconstruction and Development to propose that a country be considered to be participating in a voluntary market-based program of debt reduction for purposes of subsection (b) if the creditors of such country agree to significantly reduce the debt service of such country through forgiveness of a percentage of the interest owed by such country on any sovereign debt or through any other means.
+In connection with the discussions initiated pursuant to subsection (b), the Secretary shall instruct the United States Executive Director of the International Bank for Reconstruction and Development to propose that a country be considered to be participating in a voluntary market-based program of debt reduction for purposes of subsection (b) if the creditors of such country agree to significantly reduce the debt service of such country through forgiveness of a percentage of the interest owed by such country on any sovereign debt or through any other means.
 
 #### (d) Reports
 

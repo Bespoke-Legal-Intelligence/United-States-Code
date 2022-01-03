@@ -42,7 +42,7 @@ Any amounts received from grants under this section may only be used to carry ou
 
 &emsp;&emsp;&emsp;(i) the structure is no longer needed to provide short-term supported housing or assistance or the continued operation of the structure for such purposes is no longer feasible; and
 
-&emsp;&emsp;&emsp;(ii) the structure will be used to benefit individuals or families whose incomes donot exceed 80 percent of the median income for the area, as determined by the Secretary, with adjustments for smaller and larger families, except that the Secretary may establish income ceilings higher or lower than 80 percent of the median income for the area if the Secretary finds that such variations are necessary because of prevailing levels of construction costs or unusually high or low family incomes.
+&emsp;&emsp;&emsp;(ii) the structure will be used to benefit individuals or families whose incomes do not exceed 80 percent of the median income for the area, as determined by the Secretary, with adjustments for smaller and larger families, except that the Secretary may establish income ceilings higher or lower than 80 percent of the median income for the area if the Secretary finds that such variations are necessary because of prevailing levels of construction costs or unusually high or low family incomes.
 
 #### (2) Residency and location limitations on short-term supported housing
 
@@ -81,6 +81,8 @@ Any amounts received from grants under this section may only be used to carry ou
 &emsp;A program assisted under this section shall provide each individual assisted under the program with an opportunity, if eligible, to receive case management services available from the appropriate social service agencies.
 
 (Pub. L. 101–625, title VIII, §858, Nov. 28, 1990, 104 Stat. 4379; Pub. L. 102–550, title VI, §606(g), (j)(5), (11)(C), Oct. 28, 1992, 106 Stat. 3809–3811.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

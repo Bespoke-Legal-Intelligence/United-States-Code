@@ -2,7 +2,7 @@
 
 #### (a) Establishment; purpose; mortgages or loans insurable; transfers to
 
-There is hereby created a General Insurance Fund which shall be used by the Secretary, on and after August 10, 1965, as a revolving fund for carrying out all the insurance provisions of this chapter with the exception of those specified in subsection (e). All mortgages or loans insured under this chapter pursuant to commitments issued on or after August 10, 1965, except those specified in subsection (e), and all loans reportedfor insurance under section 1703 of this title on or after August 10, 1965, shall be insured under the General Insurance Fund. The Secretary shall transfer to the General Insurance Fund—
+There is hereby created a General Insurance Fund which shall be used by the Secretary, on and after August 10, 1965, as a revolving fund for carrying out all the insurance provisions of this chapter with the exception of those specified in subsection (e). All mortgages or loans insured under this chapter pursuant to commitments issued on or after August 10, 1965, except those specified in subsection (e), and all loans reported for insurance under section 1703 of this title on or after August 10, 1965, shall be insured under the General Insurance Fund. The Secretary shall transfer to the General Insurance Fund—
 
 &emsp;(1) the assets and liabilities of all insurance accounts and funds, except the Mutual Mortgage Insurance Fund, existing under this chapter immediately prior to August 10, 1965;
 
@@ -30,7 +30,7 @@ The General Insurance Fund shall not be used for carrying out the provisions of 
 
 #### (f) Risk assessment
 
-The Secretary shall undertake an annual assessment of the risks associated with each of the insurance programs comprising the General Insurance Fund, and shall present findings from such review to the Congress in the FHA Annual Management Report.
+The Secretary shall undertake an annual assessment of the risks associated with each of the insurance programs comprising the General Insurance Fund, and shall present findings fromsuch review to the Congress in the FHA Annual Management Report.
 
 (June 27, 1934, ch. 847, title V, §519, as added Pub. L. 89–117, title II, §214, Aug. 10, 1965, 79 Stat. 471; amended Pub. L. 90–19, §1(a)(1), (3), May 25, 1967, 81 Stat. 17; Pub. L. 90–448, title I, §104(c), Aug. 1, 1968, 82 Stat. 488; Pub. L. 91–609, title I, §117(e), Dec. 31, 1970, 84 Stat. 1775; Pub. L. 94–375, §10, Aug. 3, 1976, 90 Stat. 1073; Pub. L. 95–24, title I, §102, Apr. 30, 1977, 91 Stat. 55; Pub. L. 95–557, title III, §310, Oct. 31, 1978, 92 Stat. 2098; Pub. L. 96–153, title III, §305, Dec. 21, 1979, 93 Stat. 1112; Pub. L. 96–399, title III, §305, Oct. 8, 1980, 94 Stat. 1639; Pub. L. 97–35, title III, §334, Aug. 13, 1981, 95 Stat. 414; Pub. L. 98–181, title I \[title IV, §403\], Nov. 30, 1983, 97 Stat. 1208; Pub. L. 102–550, title I, §185(c)(2), Oct. 28, 1992, 106 Stat. 3748; Pub. L. 103–233, title I, §§103(g)(2), 105(b), Apr. 11, 1994, 108 Stat. 362, 363; Pub. L. 110–289, div. B, title I, §2118(c)(2), July 30, 2008, 122 Stat. 2835.)
 

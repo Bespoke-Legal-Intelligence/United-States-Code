@@ -36,6 +36,8 @@
 
 (Added Pub. L. 89–534, §1(1), Aug. 11, 1966, 80 Stat. 345, §1124; renumbered §1126, Pub. L. 89–718, §9, Nov. 2, 1966, 80 Stat. 1117; amended Pub. L. 98–94, title XII, §1268(8), Sept. 24, 1983, 97 Stat. 706; Pub. L. 100–26, §7(k)(5), Apr. 21, 1987, 101 Stat. 284; Pub. L. 103–160, div. A, title XI, §1143, Nov. 30, 1993, 107 Stat. 1757; Pub. L. 116–92, div. A, title V, §581, Dec. 20, 2019, 133 Stat. 1411.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in sections 1 to 3 of act Aug. 1, 1947, ch. 426, 61 Stat. 710, which were classified to sections 182a to 182c of former Title 36, Patriotic Societies and Observances, prior to repeal by Pub. L. 89–534, §2, Aug. 11, 1966, 80 Stat. 345.
@@ -48,7 +50,7 @@ Subsec. (b). Pub. L. 116–92, §581(a)(2), substituted "each" for "the widow an
 
 Subsec. (c). Pub. L. 116–92, §581(b), substituted "and without cost." for "and payment of an amount sufficient to cover the cost of manufacture and distribution."
 
-Subsec. (d). Pub. L. 116–92, §581(a)(3), added par. (1), redesignated pars. (5) to (8) as (2) to (5), respectively, and struck out former pars. (1), (2), (3), and (4) which defined "widow", "parents", "next of kin", and "children", respectively.
+Subsec. (d). Pub. L. 116–92, §581(a)(3), added par. (1), redesignated pars. (5) to (8) as (2) to (5), respectively,and struck out former pars. (1), (2), (3), and (4) which defined "widow", "parents", "next of kin", and "children", respectively.
 
 <b>1993</b>—Subsec. (a). Pub. L. 103–160, §1143(a), struck out "of the United States" after "armed forces" in introductory provisions, redesignated cls. (i) to (iii) of par. (2) as subpars. (A) to (C), respectively, and added par. (3).
 

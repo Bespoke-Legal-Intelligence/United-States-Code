@@ -28,6 +28,8 @@
 
 (Added Pub. L. 101–189, div. A, title XVI, §1602(a)(1), Nov. 29, 1989, 103 Stat. 1596, §114a; amended Pub. L. 101–510, div. A, title XIV, §1402(a)(1)–(3)(A), Nov. 5, 1990, 104 Stat. 1674; renumbered §221 and amended Pub. L. 102–484, div. A, title X, §1002(c), Oct. 23, 1992, 106 Stat. 2480; Pub. L. 115–91, div. A, title X, §1042(a)–(c), Dec. 12, 2017, 131 Stat. 1553, 1554.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 221 was renumbered section 226 of this title.
@@ -48,9 +50,35 @@ Subsec. (a). Pub. L. 101–510, §1402(a)(1), (2), substituted "a multiyear" for
 
 Subsecs. (b)(2)(A), (c). Pub. L. 101–510, §1402(a)(2)(A), substituted "multiyear" for "five-year".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2017 Amendment
 
 Pub. L. 115–91, div. A, title X, §1042(d), Dec. 12, 2017, 131 Stat. 1554, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 12, 2017\], and shall apply to future-years defense programs submitted at the time of budgets of the President for fiscal years beginning after fiscal year 2018."
+
+#### Data on Phase III Small Business Innovation Research and Small Business Technology Transfer Program Awards
+
+Pub. L. 117–81, div. A, title VIII, §867, Dec. 27, 2021, 135 Stat. 1854, provided that:
+
+"(a)
+
+Definitions.—In this section, the terms 'Phase I', 'Phase II', 'Phase III', 'SBIR', and 'STTR' have the meanings given those terms in section 9(e) of the Small Business Act (15 U.S.C. 638(e)).
+
+"(b)
+
+Data on Phase III Awards.—Each Secretary of a military department (as defined in section 101 of title 10, United States Code) shall collect and submit to the President for inclusion in each budget submitted to Congress under section 1105 of title 31, United States Code, data on the Phase III awards under the SBIR and STTR programs of the military department of the Secretary for the immediately preceding fiscal year, including—
+
+&emsp;"(1) the cumulative funding amount for Phase III awards;
+
+&emsp;"(2) the number of Phase III award topics;
+
+&emsp;"(3) the total funding obligated for Phase III awards by State;
+
+&emsp;"(4) the original Phase I or Phase II award topics and the associated Phase III contracts awarded;
+
+&emsp;"(5) where possible, an identification of the specific program executive office involved in each Phase III transition; and
+
+&emsp;"(6) a list of the five highest performing projects, as determined by the Secretary."
 
 #### Treatment in Future Budgets of the President of Systems Added by Congress
 
@@ -102,7 +130,7 @@ Elements of budgetary details.—At a minimum, the budgetary details accompanyin
 
 &emsp;&emsp;&emsp;"(I) any significant change in methodology used to determine the budgetary details included in the report and the categories used to organize such details; and
 
-&emsp;&emsp;&emsp;"(II) a narrative justification for any significant changes in the amount requested as compared to the amount requested and the amount expended for the fiscal year preceding the fiscal year of the budget covered by the report; and
+&emsp;&emsp;&emsp;"(II) a narrative justification for any significant changes in the amount requested as compared to the amount requested and the amountexpended for the fiscal year preceding the fiscal year of the budget covered by the report; and
 
 &emsp;&emsp;"(iii) with respect to the estimated direct and indirect expenditures for the operation in the budget covered by the report—
 
@@ -216,7 +244,7 @@ Extreme Weather Defined.—In this section, the term 'extreme weather' means rec
 
 #### Inclusion of Procurement Technical Assistance Cooperative Agreement Program in Annual Budget Justification Documents
 
-Pub. L. 116–92, div. A, title VIII, §852(c), Dec. 20, 2019, 133 Stat. 1511, provided that: "The Secretary of Defense shall submit to Congress, as a part of the defense budget materials (as defined in section 234(d) of title 10, United States Code) for fiscal year 2021 and each fiscal year thereafter, a budget justification display that includes the procurement technical assistance cooperative agreement program under chapter 142 of title 10, United States Code, as part of the budget justification for Operation and Maintenance, Defense-wide for the Office of the Secretary of Defense."
+Pub. L. 116–92, div. A, title VIII, §852(c), Dec. 20, 2019, 133 Stat. 1511, provided that: "The Secretary of Defense shall submit to Congress, as a part of the defense budget materials (as defined in section 234(d) of title 10, United States Code) for fiscal year 2021 and each fiscal year thereafter, a budget justification display that includes the procurement technical assistance cooperative agreement program under \[former\] chapter 142 of title 10, United States Code \[see chapter 388 of this title\], as part of the budget justification for Operation and Maintenance, Defense-wide for the Office of the Secretary of Defense."
 
 #### Inclusion of European Deterrence Initiative in Annual Budget Display Information
 
@@ -390,7 +418,7 @@ Matters to Be Included.—The plan required under subsection (a) shall include t
 
 &emsp;&emsp;"(E) a reevaluation of sites identified for divestiture but not yet divested under the European Infrastructure Consolidation initiative, accounting for updated military requirements;
 
-&emsp;&emsp;"(F) any changes and associated costs incurred with retaining each site identified for divestiture but not yet divested under the European Infrastructure Consolidation initiative, including possible leasing agreements, sustainment, and maintenance;
+&emsp;&emsp;"(F) any changes and associated costs incurred with retaining each site identified for divestiturebut not yet divested under the European Infrastructure Consolidation initiative, including possible leasing agreements, sustainment, and maintenance;
 
 &emsp;&emsp;"(G) a detailed assessment of the resources necessary to achieve the requirements of the plan, including specific cost estimates for each project under the EDI to support increased presence, exercises and training, enhanced prepositioning, improved infrastructure, and building partnership capacity;
 
@@ -588,7 +616,7 @@ Pub. L. 111–383, div. A, title II, §213, Jan. 7, 2011, 124 Stat. 4163, provid
 
 #### Separate Procurement Line Item for Body Armor
 
-Pub. L. 111–84, div. A, title I, §141(b), Oct. 28, 2009, 123 Stat. 2223, provided that: "In the budget materials submitted to the President by the Secretary of Defense in connection with the submission to Congress, pursuant to section 1105 of title 31, United States Code, of the budget for fiscal year 2011, and each subsequent fiscal year, the Secretary shall ensure that within each military department procurement account, a separate, dedicated procurement line item is designated for body armor."
+Pub. L. 111–84, div. A, title I, §141(b), Oct. 28, 2009, 123 Stat. 2223, provided that: "In the budget materials submitted to the President by the Secretary of Defense in connection with the submission to Congress, pursuant to section 1105 of title 31, United States Code, of the budget for fiscal year 2011, and each subsequent fiscal year, the Secretary shall ensure that within each military department procurement account, a separate,dedicated procurement line item is designated for body armor."
 
 #### Separate Program Elements Required for Research and Development of Individual Body Armor and Associated Components
 
@@ -622,9 +650,7 @@ Applicability.—The guidance issued under subsection (a) shall apply with respe
 
 "(c)
 
-Major Range and Test Facility Base Defined.—In this section, the term 'Major Range and Test Facility Base' has the meaning given that term in section 196(h) \[now 196(i)\] of title 10, United States Code."
-
-<i>\[Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1845(c)(6), Jan. 1, 2021, 134 Stat. 4151, 4247, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, section 220(c) of Pub. L. 111–84, set out above, is amended by striking "section 196(h)" and inserting "sections 4173(i)".\]</i>
+Major Range and Test Facility Base Defined.—In this section, the term 'Major Range and Test Facility Base' has the meaning given that term in sections \[sic\] 4173(i) of title 10, United States Code."
 
 #### Military Munitions Response Program and Installation Restoration Program
 
@@ -692,7 +718,7 @@ Termination.—The section shall not be in effect after December 31, 2017."
 
 #### Specification of Amounts Requested for Procurement of Contract Services
 
-Pub. L. 110–181, div. A, title VIII, §806, Jan. 28, 2008, 122 Stat. 213, which required that materials submitted to Congress in support of the Defense Department budget identify clearly and separately the amounts requested in each budget account for procurement of contract services, was repealed and restated as section 235 of this title by Pub. L. 111–84, div. A, title VIII, §803(a)(1), (3), Oct. 28, 2009, 123 Stat. 2402.
+Pub. L. 110–181, div. A, title VIII, §806, Jan. 28, 2008, 122 Stat. 213, which required that materials submitted to Congress in support of the Defense Department budget identify clearly and separately the amounts requested in each budget account for procurement of contract services, was repealed and restated as former section 235 of this title by Pub. L. 111–84, div. A, title VIII, §803(a)(1), (3), Oct. 28, 2009, 123 Stat. 2402.
 
 #### Report on Major Department of Defense Headquarters Activities Personnel
 
@@ -852,7 +878,7 @@ Pub. L. 105–85, div. A, title III, §324(c), Nov. 18, 1997, 111 Stat. 1678, pr
 
 #### Inclusion of Air Force Depot Maintenance as Operation and Maintenance Budget Line Items
 
-Pub. L. 105–85, div. A, title III, §327, Nov. 18, 1997, 111 Stat. 1679, provided that: "For fiscal year 1999 and each fiscal year thereafter, Air Force depot-level maintenance of materiel shall be displayed as one or more separate line items under each subactivity within the authorization request for operation and maintenance, Air Force, in the proposed budget for that fiscal year submitted to Congress pursuant to section 1105 of title 31, United States Code."
+Pub. L. 105–85, div. A, title III, §327, Nov. 18, 1997, 111 Stat. 1679, provided that: "For fiscal year 1999 and eachfiscal year thereafter, Air Force depot-level maintenance of materiel shall be displayed as one or more separate line items under each subactivity within the authorization request for operation and maintenance, Air Force, in the proposed budget for that fiscal year submitted to Congress pursuant to section 1105 of title 31, United States Code."
 
 #### Identification in President's Budget of NATO Costs
 

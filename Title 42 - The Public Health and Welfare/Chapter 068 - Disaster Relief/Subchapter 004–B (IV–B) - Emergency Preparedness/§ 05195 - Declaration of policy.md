@@ -4,9 +4,13 @@ The purpose of this subchapter is to provide a system of emergency preparedness 
 
 (Pub. L. 93–288, title VI, §601, as added Pub. L. 103–337, div. C, title XXXIV, §3411(a)(3), Oct. 5, 1994, 108 Stat. 3100.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 2251 of the former Appendix to Title 50, War and National Defense, prior to repeal by Pub. L. 103–337, §3412(a).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 
@@ -16,7 +20,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 #### Multihazard Preparedness and Mitigation
 
-Pub. L. 106–74, title III, Oct. 20, 1999, 113 Stat. 1086, as amended by Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410, provided in part: "That beginning in fiscal year 2000 and each fiscal year thereafter, and notwithstanding any other provision of law, the Administrator of FEMA is authorized to provide assistancefrom funds appropriated under this heading \[EMERGENCY MANAGEMENT PLANNING AND ASSISTANCE\], subject to terms and conditions as the Administrator of FEMA shall establish, to any State for multi-hazard preparedness and mitigation through consolidated emergency management performance grants".
+Pub. L. 106–74, title III, Oct. 20, 1999, 113 Stat. 1086, as amended by Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410, provided in part: "That beginning in fiscal year 2000 and each fiscal year thereafter, and notwithstanding any other provision of law, the Administrator of FEMA is authorized to provide assistance from funds appropriated under this heading \[EMERGENCY MANAGEMENT PLANNING AND ASSISTANCE\], subject to terms and conditions as the Administrator of FEMA shall establish, to any State for multi-hazard preparedness and mitigation through consolidated emergency management performance grants".
 
 #### Multihazard Research, Planning, and Mitigation; Functions, Etc., of Federal Emergency Management Agency
 
@@ -71,6 +75,8 @@ Pub. L. 96–472, title III, §§301, 302, Oct. 19, 1980, 94 Stat. 2260, as amen
 &emsp;&emsp;"(C) not less than $1,535,000 to carry out paragraph (8) of such section with respect to those large California earthquakes which were identified by the National Security Council's Ad Hoc Committee on Assessment of Consequences and Preparations for a Major California Earthquake and with respect to other high seismic risk areas in the United States; and
 
 &emsp;"(2) such further sums as may be necessary for adjustments required by law in salaries, pay, retirement, and employee benefits incurred in the conduct of activities for which funds are authorized by paragraph (1) of this subsection."
+
+#### <b>Executive Documents</b>
 
 #### <b>REORGANIZATION PLAN NO. 1 OF 1958</b>
 
@@ -1732,7 +1738,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. The Federal Government must have the ability to communicate at all times and under all circumstances to carry out its most critical and time sensitive missions. Survivable, resilient, enduring, and effective communications, both domestic and international, are essential to enable the executive branch to communicate within itself and with: the legislative and judicial branches; State, local, territorial, and tribal governments; private sector entities; and the public, allies, and other nations. Such communications must be possible under all circumstances to ensure national security, effectively manage emergencies, and improve national resilience. The views of all levels of government, the private and nonprofit sectors, and the public must inform the development of national security and emergency preparedness (NS/EP) communications policies, programs, and capabilities.
 
-Sec. 2. <i>Executive Office Responsibilities</i>.
+Sec. 2. <i>Executive Office Responsibilities.</i>
 
 Sec. 2.1. Policy coordination, guidance, dispute resolution, and periodic in-progress reviews for the functions described and assigned herein shall be provided through the interagency process established in Presidential Policy Directive-1 of February 13, 2009 (Organization of the National Security Council System) (PPD–1).
 
@@ -1746,13 +1752,13 @@ Sec. 2.3. The Director of OSTP is delegated the authority to exercise the author
 
 Sec. 3. \[Revoked by Ex. Ord. No. 13961, §6(b), Dec. 7, 2020, 85 F.R. 79380, set out below.\]
 
-Sec. 4. <i>Executive Committee Joint Program Office</i>.
+Sec. 4. <i>Executive Committee Joint Program Office.</i>
 
 Sec. 4.1. The Secretary of Homeland Security shall establish an Executive Committee Joint Program Office (JPO) to provide full-time, expert, and administrative support for the Executive Committee's performance of its responsibilities under section 3.3 of this order. Staff of the JPO shall include detailees, as needed and appropriate, from agencies represented on the Executive Committee. The Department of Homeland Security shall provide resources to support the JPO. The JPO shall be responsive to the guidance of the Executive Committee.
 
 Sec. 4.2. The responsibilities of the JPO shall include: coordination of programs that support NS/EP missions, priorities, goals, and policy; and, when directed by the Executive Committee, the convening of governmental and nongovernmental groups (consistent with the Federal Advisory Committees \[sic\] Act, as amended (5 U.S.C. App.)), coordination of activities, and development of policies for senior official review and approval.
 
-Sec. 5. <i>Specific Department and Agency Responsibilities</i>.
+Sec. 5. <i>Specific Department and Agency Responsibilities.</i>
 
 Sec. 5.1. The Secretary of Defense shall: (a) oversee the development, testing, implementation, and sustainment of NS/EP communications that are directly responsive to the national security needs of the President, Vice President, and senior national leadership, including: communications with or among the President, Vice President, White House staff, heads of state and government, and Nuclear Command and Control leadership; Continuity of Government communications; and communications among the executive, judicial, and legislative branches to support Enduring Constitutional Government;
 

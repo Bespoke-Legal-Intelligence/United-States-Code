@@ -12,7 +12,7 @@ The Secretary, the applicable governing State official, or the certifying agent 
 
 #### (1) Inspection
 
-&emsp;If the Secretary, the applicable governing State official, or the certifying agent determines that an agricultural product sold or labeled as organically produced under this chapter contains any detectable pesticide or othernon-organic residue or prohibited natural substance the Secretary, the applicable governing State official, or the certifying agent shall conduct an investigation to determine if the organic certification program has been violated, and may require the producer or handler of such product to prove that any prohibited substance was not applied to such product.
+&emsp;If the Secretary, the applicable governing State official, or the certifying agent determines that an agricultural product sold or labeled as organically produced under this chapter contains any detectable pesticide or other non-organic residue or prohibited natural substance the Secretary, the applicable governing State official, or the certifying agent shall conduct an investigation to determine if the organic certification program has been violated, and may require the producer or handler of such product to prove that any prohibited substance was not applied to such product.
 
 #### (2) Removal of organic label
 
@@ -25,6 +25,8 @@ The Secretary, the applicable governing State official, or the certifying agent 
 > &emsp;such agricultural product shall not be sold or labeled as organically produced under this chapter.
 
 (Pub. L. 101–624, title XXI, §2112, Nov. 28, 1990, 104 Stat. 3942; Pub. L. 102–237, title X, §1001(4), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 113–79, title X, §10005(a), Feb. 7, 2014, 128 Stat. 944.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

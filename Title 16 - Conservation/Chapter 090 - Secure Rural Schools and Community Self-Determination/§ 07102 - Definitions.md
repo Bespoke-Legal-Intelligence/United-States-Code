@@ -88,7 +88,7 @@ In this chapter:
 
 #### (10) 50-percent payment
 
-&emsp;The term "50-percent payment" means the payment that is the sum of the 50-percent share otherwise paid to a county pursuant to title II of the Act of August 28, 1937 (chapter 876; 50 Stat. 875; 43 U.S.C. 1181f),<sup>2</sup> and the payment made to a county pursuant to the Act of May 24, 1939 (chapter 144; 53 Stat. 753; 43 U.S.C. 1181f–1 et seq.) <sup>2</sup>.
+&emsp;The term "50-percent payment" means the payment that is the sum of the 50-percent share otherwise paid to a county pursuant to title II of the Act of August 28, 1937 (chapter876; 50 Stat. 875; 43 U.S.C. 1181f),<sup>2</sup> and the payment made to a county pursuant to the Act of May 24, 1939 (chapter 144; 53 Stat. 753; 43 U.S.C. 1181f–1 et seq.) <sup>2</sup>.
 
 #### (11) Full funding amount
 
@@ -100,9 +100,11 @@ In this chapter:
 
 &emsp;&emsp;(C) for fiscal year 2012 through fiscal year 2015, the amount that is equal to 95 percent of the full funding amount for the preceding fiscal year;
 
-&emsp;&emsp;(D) for fiscal year 2017, the amount that is equal to 95 percent of the full funding amount for fiscal year 2015; and
+&emsp;&emsp;(D) for fiscal year 2017, the amount that is equal to 95 percent of the full funding amount for fiscal year 2015;
 
-&emsp;&emsp;(E) for fiscal year 2018 and each fiscal year thereafter, the amount that is equal to 95 percent of the full funding amount for the preceding fiscal year.
+&emsp;&emsp;(E) for each of fiscal years 2018 through 2020, the amount that is equal to 95 percent of the full funding amount for the preceding fiscal year; and
+
+&emsp;&emsp;(F) for fiscal year 2021 and each fiscal year thereafter, the amount that is equal to the full funding amount for fiscal year 2017.
 
 #### (12) Income adjustment
 
@@ -136,7 +138,9 @@ In this chapter:
 
 &emsp;The term "25-percent payment" means the payment to States required by the sixth paragraph under the heading of "FOREST SERVICE" in the Act of May 23, 1908 (35 Stat. 260; 16 U.S.C. 500), and section 13 of the Act of March 1, 1911 (36 Stat. 963; 16 U.S.C. 500).
 
-(Pub. L. 106–393, §3, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3894; amended Pub. L. 112–141, div. F, title I, §100101(a)(1), July 6, 2012, 126 Stat. 905; Pub. L. 115–141, div. O, title IV, §401(a)(1), Mar. 23, 2018, 132 Stat. 1076; Pub. L. 115–334, title VIII, §8704(a)(1)(B), Dec. 20, 2018, 132 Stat. 4877.)
+(Pub. L. 106–393, §3, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3894; amended Pub. L. 112–141, div. F, title I, §100101(a)(1), July 6, 2012, 126 Stat. 905; Pub. L. 115–141, div. O, title IV, §401(a)(1), Mar. 23, 2018, 132 Stat. 1076; Pub. L. 115–334, title VIII, §8704(a)(1)(B), Dec. 20, 2018, 132 Stat. 4877; Pub. L. 117–58, div. D, title XII, §41202(a), Nov. 15, 2021, 135 Stat. 1132.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -156,13 +160,25 @@ A prior section 3 of Pub. L. 106–393 was set out in a note under section 500 o
 
 #### Amendments
 
+<b>2021</b>—Par. (11)(D) to (F). Pub. L. 117–58 added subpars. (D) to (F) and struck out former subpars. (D) and (E) which read as follows:
+
+&emsp;"(D) for fiscal year 2017, the amount that is equal to 95 percent of the full funding amount for fiscal year 2015; and
+
+&emsp;"(E) for fiscal year 2018 and each fiscal year thereafter, the amount that is equal to 95 percent of the full funding amount for the preceding fiscal year."
+
 <b>2018</b>—Par. (11)(C) to (E). Pub. L. 115–141, §401(a)(1), as amended by Pub. L. 115–334, §8704(a)(1)(B), substituted "through fiscal year 2015" for "and each fiscal year thereafter" in subpar. (C) and added subpars. (D) and (E).
 
 <b>2012</b>—Par. (11)(B), (C). Pub. L. 112–141 substituted "each of fiscal years 2009 through 2011" for "fiscal year 2009 and each fiscal year thereafter" in subpar. (B) and added subpar. (C).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–334 effective as if enacted as part of the Wildfire Suppression Funding and Forest Management Activities Act, div. O of Pub. L. 115–141, see section 8704(a)(2) of Pub. L. 115–334, set out as a note under section 901 of Title 2, The Congress.
+
+#### Wage Rate Requirements
+
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of Title 42, The Public Health and Welfare.
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by "of".</i>
 

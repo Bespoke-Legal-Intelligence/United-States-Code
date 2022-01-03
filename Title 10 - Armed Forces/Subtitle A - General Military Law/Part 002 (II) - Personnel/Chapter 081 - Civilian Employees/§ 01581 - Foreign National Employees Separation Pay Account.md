@@ -14,7 +14,7 @@ Payments From Account.—Amounts in the account shall remain available for expen
 
 (d)
 
-Deobligated Funds.—Any amount in the account that is deobligated shall be available for a period of two years from the date of deobligation for recording, adjusting, and liquidating amounts properly chargeable to the liability of the United States for which the obligation was made. Any such deobligated amount remaining at the end of such two-year period shall be canceled.
+Deobligated Funds.—Any amount in the account that is deobligated shall be available for a period of two years from the date ofdeobligation for recording, adjusting, and liquidating amounts properly chargeable to the liability of the United States for which the obligation was made. Any such deobligated amount remaining at the end of such two-year period shall be canceled.
 
 (e)
 
@@ -27,6 +27,8 @@ Employees Covered.—This section applies only with respect to separation pay of
 &emsp;(3) A memorandum of understanding with a foreign nation.
 
 (Added Pub. L. 102–190, div. A, title X, §1003(a)(1), Dec. 5, 1991, 105 Stat. 1456; amended Pub. L. 102–484, div. A, title X, §1052(20), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–337, div. A, title III, §346, Oct. 5, 1994, 108 Stat. 2724; Pub. L. 107–107, div. A, title X, §1048(e)(2), Dec. 28, 2001, 115 Stat. 1227.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

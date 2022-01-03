@@ -4,7 +4,7 @@
 
 The Secretary of Homeland Security shall—
 
-&emsp;(1) establish a model ports-of-entry program for the purpose of providing a more efficient and welcoming international arrival process inorder to facilitate and promote business and tourist travel to the United States, while also improving security; and
+&emsp;(1) establish a model ports-of-entry program for the purpose of providing a more efficient and welcoming international arrival process in order to facilitate and promote business and tourist travel to the United States, while also improving security; and
 
 &emsp;(2) implement the program initially at the 20 United States international airports that have the highest number of foreign visitors arriving annually as of August 3, 2007.
 

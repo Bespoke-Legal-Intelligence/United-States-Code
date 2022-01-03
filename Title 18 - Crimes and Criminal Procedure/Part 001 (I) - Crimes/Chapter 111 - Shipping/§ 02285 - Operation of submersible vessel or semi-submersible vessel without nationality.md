@@ -66,5 +66,5 @@ Definitions.—In this section, the terms "submersible vessel", "semi-submersibl
 
 #### Findings and Declarations
 
-Pub. L. 110–407, title I, §101, Oct. 13, 2008, 122 Stat. 4296, provided that: "Congress finds and declares that operating or embarking in a submersible vessel or semi-submersible vessel without nationality and on an international voyage is a serious international problem, facilitates transnational crime, including drug trafficking, and terrorism, and presents a specific threat to the safety of maritime navigation and the security of the United States."
+Pub. L. 110–407, title I, §101, Oct. 13, 2008, 122 Stat. 4296, provided that: "Congress finds and declares that operating or embarking in a submersible vessel or semi-submersible vessel without nationality and on aninternational voyage is a serious international problem, facilitates transnational crime, including drug trafficking, and terrorism, and presents a specific threat to the safety of maritime navigation and the security of the United States."
 

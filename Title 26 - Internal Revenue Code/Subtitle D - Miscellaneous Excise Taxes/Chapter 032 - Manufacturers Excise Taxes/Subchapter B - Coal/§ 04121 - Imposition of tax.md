@@ -70,6 +70,8 @@ For purposes of this subchapter—
 
 (Added Pub. L. 95–227, §2(a), Feb. 10, 1978, 92 Stat. 11; amended Pub. L. 97–119, title I, §102(a), Dec. 29, 1981, 95 Stat. 1635; Pub. L. 99–272, title XIII, §13203(a), (c), Apr. 7, 1986, 100 Stat. 312, 313; Pub. L. 99–514, title XVIII, §1897(a), Oct. 22, 1986, 100 Stat. 2941; Pub. L. 100–203, title X, §10503, Dec. 22, 1987, 101 Stat. 1330–446; Pub. L. 110–343, div. B, title I, §113(a), Oct. 3, 2008, 122 Stat. 3824; Pub. L. 116–94, div. Q, title I, §105(a), Dec. 20, 2019, 133 Stat. 3228; Pub. L. 116–260, div. EE, title I, §149(a), Dec. 27, 2020, 134 Stat. 3056.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 For prior section 4121, see Prior Provisions note set out preceding this section.
@@ -107,6 +109,8 @@ Subsec. (e). Pub. L. 99–272, §13203(c), substituted "Reduction in amount of t
 &emsp;"(B) subsection (b) shall be applied by substituting '4 percent' for '2 percent'."
 
 <b>1981</b>—Subsec. (e). Pub. L. 97–119 added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 
@@ -214,7 +218,7 @@ Coal producer.—The term 'coal producer' means the person in whom is vested own
 
 &emsp;"(2)
 
-Exporter.—The term 'exporter' means a person, other than a coal producer, who does not have acontract, fee arrangement, or any other agreement with a producer or seller of such coal to export or ship such coal to a third party on behalf of the producer or seller of such coal and—
+Exporter.—The term 'exporter' means a person, other than a coal producer, who does not have a contract, fee arrangement, or any other agreement with a producer or seller of such coal to export orship such coal to a third party on behalf of the producer or seller of such coal and—
 
 &emsp;&emsp;"(A) is indicated in the shipper's export declaration or other documentation as the exporter of record, or
 

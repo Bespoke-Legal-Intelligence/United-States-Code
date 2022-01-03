@@ -14,6 +14,8 @@ The Secretary shall prepare and submit to the President and the authorizing comm
 
 (Pub. L. 95–367, §7, Sept. 17, 1978, 92 Stat. 604; Pub. L. 97–375, title II, §202(b), Dec. 21, 1982, 96 Stat. 1822.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1982</b>—Pub. L. 97–375 substituted "March 31" for "January 30".

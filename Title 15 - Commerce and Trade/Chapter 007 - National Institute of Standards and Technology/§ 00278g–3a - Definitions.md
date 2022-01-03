@@ -36,13 +36,17 @@ In this Act:
 
 (Pub. L. 116–207, §3, Dec. 4, 2020, 134 Stat. 1001.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This Act, referred to in text, is Pub. L. 116–207, Dec. 4, 2020, 134 Stat. 1001, known as the Internet of Things Cybersecurity Improvement Act of 2020 and also as the IoT Cybersecurity Improvement Act of 2020, which enacted this section and sections 278g–3b to 278g–3e of this title and provisions set out as notes under this section and section 271 of this title. For complete classification of this Act to the Code, see Short Title of 2020 Amendment note set out under section 271 of this title and Tables.
+This Act, referred to in text, is Pub. L. 116–207, Dec. 4, 2020, 134 Stat. 1001, known as the Internet of Things Cybersecurity Improvement Act of 2020 and also as the IoT Cybersecurity Improvement Act of 2020, which enacted this section and sections 278g–3b to 278g–3e of this title and provisions set out as a note under this section. For complete classification of this Act to the Code, see Short Title of 2020 Amendment note set out under section 271 of this title and Tables.
 
 #### Codification
 
 Section was enacted as part of the Internet of Things Cybersecurity Improvement Act of 2020, also known as the IoT Cybersecurity Improvement Act of 2020, and not as part of the National Institute of Standards and Technology Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Sense of Congress
 

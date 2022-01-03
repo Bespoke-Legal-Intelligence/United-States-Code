@@ -38,9 +38,13 @@ Filing of Information.—A motor and motor private carrier withholding pay from 
 
 (Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 901.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 11504 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

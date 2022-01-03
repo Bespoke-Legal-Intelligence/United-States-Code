@@ -10,7 +10,7 @@ Such portion of the sums appropriated pursuant to subsection (a) for any fiscal 
 
 #### (c) Payments to States for cost of grant programs to certain agencies and institutions
 
-From each State's allotment under subsection (b), the Secretary shall from time to time pay to such State its costs of carrying out the purposes of this section through (1) grants to public or other nonprofit institutions of higher learning for training personnel employed or preparing for employment in public assistance programs, (2) special courses of study or seminars of short duration conducted for such personnel by experts hired on a temporary basis for the purpose, and (3) establishing and maintaining, directly or through grants to such institutions, fellowshipsor traineeships for such personnel at such institutions, with such stipends and allowances as may be permitted under regulations of the Secretary.
+From each State's allotment under subsection (b), the Secretary shall from time to time pay to such State its costs of carrying out the purposes of this section through (1) grants to public or other nonprofit institutions of higher learning for training personnel employed or preparing for employment in public assistance programs, (2) special courses of study or seminars of short duration conducted for such personnel by experts hired on a temporary basis for the purpose, and (3) establishing and maintaining, directly or through grants to such institutions, fellowships or traineeships for such personnel at such institutions, with such stipends and allowances as may be permitted under regulations of the Secretary.
 
 #### (d) Advance payments to States
 
@@ -30,6 +30,8 @@ The amount of any allotment to a State under subsection (b) for any fiscal year 
 
 (Aug. 14, 1935, ch. 531, title VII, §705, as added Aug. 1, 1956, ch. 836, title III, §332, 70 Stat. 851; amended Pub. L. 87–31, §3, May 8, 1961, 75 Stat. 77; Pub. L. 87–543, title I, §123 (a)–(c), July 25, 1962, 76 Stat. 192.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1962</b>—Subsec. (a). Pub. L. 87–543, §123(a), substituted "for the fiscal year ending June 30, 1963, the sum of $3,500,000, and for each fiscal year thereafter the sum of $5,000,000" for "for the fiscal year ending June 30, 1958, the sum of $5,000,000, and for each of the five succeeding fiscal years such sums as the Congress may determine".
@@ -41,6 +43,8 @@ Subsec. (f). Pub. L. 87–543, §123(c), added subsec. (f).
 <b>1961</b>—Subsec. (a). Pub. L. 87–31, §3(a), substituted "five" for "four".
 
 Subsec. (c). Pub. L. 87–31, §3(b), substituted "its costs of carrying out the purposes of this section" for "80 per centum of the total of its expenditures in carrying out the purposes of this section".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1962 Amendment
 

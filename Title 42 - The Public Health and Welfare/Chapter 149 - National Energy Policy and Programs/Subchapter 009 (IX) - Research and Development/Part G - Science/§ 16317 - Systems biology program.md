@@ -32,7 +32,7 @@ The program shall have the goal of developing technologies and methods based on 
 
 #### (1) Development of plan
 
-&emsp;Not later than 1 year after August 8, 2005, the Secretary shall prepare and transmit to Congress a research plan describing how the program authorized pursuant to this section will be undertaken to accomplish the program goals established in subsection (b).
+&emsp;Not later than 1 year after August 8, 2005, the Secretary shall prepare and transmit toCongress a research plan describing how the program authorized pursuant to this section will be undertaken to accomplish the program goals established in subsection (b).
 
 #### (2) Review of plan
 
@@ -90,6 +90,8 @@ Within the funds authorized to be appropriated pursuant to this part, amounts sh
 
 (Pub. L. 109–58, title IX, §977, Aug. 8, 2005, 119 Stat. 903; Pub. L. 110–140, title II, §§232(a), 233, Dec. 19, 2007, 121 Stat. 1537.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This part, referred to in subsec. (d), was in the original "this subtitle", meaning subtitle G (§§971–984A) of title IX of Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 898, which enacted this part and amended section 5523 of Title 15, Commerce and Trade. For complete classification of subtitle G to the Code, see Tables.
@@ -103,6 +105,8 @@ Subsec. (b)(1). Pub. L. 110–140, §232(a)(2)(A), inserted "in sustainable prod
 Subsec. (b)(4), (5). Pub. L. 110–140, §232(a)(2)(B)–(D), added par. (4) and redesignated former par. (4) as (5).
 
 Subsec. (f). Pub. L. 110–140, §233, added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

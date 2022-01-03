@@ -1,6 +1,6 @@
 ### §4081. Travel and related expenses
 
-The Secretary may pay the travel and related expenses of members of the Service and theirfamilies, including costs or expenses incurred for—
+The Secretary may pay the travel and related expenses of members of the Service and their families, including costs or expenses incurred for—
 
 &emsp;(1) proceeding to and returning from assigned posts of duty;
 
@@ -26,7 +26,7 @@ The Secretary may pay the travel and related expenses of members of the Service 
 
 &emsp;(7) removal of the family members of a member of the Service, and the furniture and household and personal effects (including automobiles) of the family, from a Foreign Service post where there is imminent danger because of the prevalence of disturbed conditions, and the return of such individuals, furniture, and effects to such post upon the cessation of such conditions, or to such other Foreign Service post as may in the meantime have become the post to which the member of the Service has been reassigned;
 
-&emsp;(8) trips by a member of the Service, and members of his or her family, for purposes of family visitation in situations where the family of the member is prevented by official order from accompanying the member to, or has been ordered from, the assigned post of the member because of imminent danger due to the prevalence of disturbed conditions, except that—
+&emsp;(8) trips by a member of the Service, and members of his or her family, for purposes of family visitation in situations where the family of the member is prevented by official order from accompanying the member to, or has been ordered from, the assigned post of themember because of imminent danger due to the prevalence of disturbed conditions, except that—
 
 &emsp;&emsp;(A) with respect to any such member whose family is located in the United States, the Secretary may pay the costs and expenses for not to exceed two round trips in a 12-month period; and
 
@@ -44,7 +44,7 @@ The Secretary may pay the travel and related expenses of members of the Service 
 
 &emsp;&emsp;(B) in connection with an assignment of the member to a new post, except that costs and expenses may be paid under this subparagraph only for the period beginning on the date of departure from his or her last post or (in the case of a new member) on the date of departure from the place of residence of the member and ending on the earlier of the date which is 3 months after arrival of the member at the new post or the date on which the member establishes residence quarters, except that in extraordinary circumstances the Secretary may extend this period for not more than an additional 90 days; and
 
-&emsp;&emsp;(C) in connection with separation of the member from the Service, except that costsor expenses may not be paid under this subparagraph for storing furniture and household and personal effects for more than 3 months, except that in extraordinary circumstances the Secretary may extend this period for not more than an additional 90 days;
+&emsp;&emsp;(C) in connection with separation of the member from the Service, except that costs or expenses may not be paid under this subparagraph for storing furniture and household and personal effects for more than 3 months, except that in extraordinary circumstances the Secretary may extend this period for not more than an additional 90 days;
 
 &emsp;(13) transporting, for or on behalf of a member of the Service, a privately owned motor vehicle in any case in which the Secretary determines that water, rail, or air transportation of the motor vehicle is necessary or expedient for all or any part of the distance between points of origin and destination, but transportation may be provided under this paragraph for only one motor vehicle of a member during any 48-month period while the member is continuously serving abroad, except that another motor vehicle may be so transported as a replacement for such motor vehicle if such replacement—
 
@@ -54,19 +54,27 @@ The Secretary may pay the travel and related expenses of members of the Service 
 
 &emsp;(14) the travel and relocation of members of the Service, and members of their families, assigned to or within the United States (or any territory or possession of the United States or the Commonwealth of Puerto Rico), including assignments under subchapter VI of chapter 33 of title 5 (notwithstanding section 3375(a) of such title, if an agreement similar to that required by section 3375(b) of such title is executed by the member of the Service); and
 
-&emsp;(15) 1 round-trip per year for each child below age 21 of a member of the Service assigned abroad—
+&emsp;(15) in the case of one or more children below age 21 of a member of the Service assigned abroad, 1 round-trip per year—
 
-&emsp;&emsp;(A) to visit the member abroad if the child does not regularly reside with the member and the member is not receiving an education allowance or educational travel allowance for the child under section 5924(4) of title 5; or
+&emsp;&emsp;(A) for each child to visit the member abroad if the child does not regularly reside with the member and the member is not receiving an education allowance or educational travel allowance for the child under section 5924(4) of title 5,
 
-&emsp;&emsp;(B) to visit the other parent of the child if the other parent resides in a country other than the country to which the member is assigned and the child regularly resides with the member and does not regularly attend school in the country in which the other parent resides,
+&emsp;&emsp;(B) for each child to visit the other parent of the child if the other parent resides in a country other than the country to which the member is assigned and the child regularly resides with the member and does not regularly attend school in the country in which the other parent resides, or
 
-> &emsp;except that a payment under this paragraph may not exceed the cost of round-trip travel between the post to which the member is assigned and the residence of the other parent, or between the post to which the member is assigned and the residence of the child if the child does not reside with a parent.
+&emsp;&emsp;(C) for one of the child's parents to visit the child or children abroad if the child or children do not regularly reside with that parent and that parent is not receiving an education allowance or educational travel allowance for the child or children under section 5924(4) of title 5,
 
-(Pub. L. 96–465, title I, §901, Oct. 17, 1980, 94 Stat. 2124; Pub. L. 101–246, title I, §148, Feb. 16, 1990, 104 Stat. 38; Pub. L. 102–138, title I, §§145, 146, Oct. 28, 1991, 105 Stat. 668, 669; Pub. L. 107–228, div. A, title III, §§315(a), 328, Sept. 30, 2002, 116 Stat. 1379, 1387; Pub. L. 109–234, title I, §1602(d)(1), June 15, 2006, 120 Stat. 442; Pub. L. 110–321, §2(1), Sept. 19, 2008, 122 Stat. 3535.)
+> &emsp;except that the cost of round-trip travel under this paragraph may not exceed the cost of round-trip travel between the post to which the member is assigned and the residence of the other parent, or between the post to which the member is assigned and the residence of the child if the child does not reside with a parent.
+
+(Pub. L. 96–465, title I, §901, Oct. 17, 1980, 94 Stat. 2124; Pub. L. 101–246, title I, §148, Feb. 16, 1990, 104 Stat. 38; Pub. L. 102–138, title I, §§145, 146, Oct. 28, 1991, 105 Stat. 668, 669; Pub. L. 107–228, div. A, title III, §§315(a), 328, Sept. 30, 2002, 116 Stat. 1379, 1387; Pub. L. 109–234, title I, §1602(d)(1), June 15, 2006, 120 Stat. 442; Pub. L. 110–321, §2(1), Sept. 19, 2008, 122 Stat. 3535; Pub. L. 117–81, div. E, title LIII, §5304, Dec. 27, 2021, 135 Stat. 2361.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Par. (15). Pub. L. 117–81, §5304(1), in introductory provisions, substituted "in the case of one or more children below age 21 of a member of the Service assigned abroad, 1 round-trip per year" for "1 round-trip per year for each child below age 21 of a member of the Service assigned abroad".
+
+Pub. L. 117–81, §5304(5), in concluding provisions, substituted "the cost of round-trip travel" for "a payment".
+
+Par. (15)(A) to (C). Pub. L. 117–81, §5304(2)–(4), inserted "for each child" at beginning of subpars. (A) and (B) and added subpar. (C).
 
 <b>2008</b>—Par. (6)(B). Pub. L. 110–321 inserted "or its territories, including American Samoa, the Commonwealth of Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, and the United States Virgin Islands" after "United States".
 

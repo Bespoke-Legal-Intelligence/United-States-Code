@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Of the total amount made available for each fiscal year to carry out this part, the Secretary shall use not less than 2 percent to provide grants under this section, on a competitive basis, to—
+Of the total amount made available for each fiscal year to carry out this part, the Secretaryshall use not less than 2 percent to provide grants under this section, on a competitive basis, to—
 
 &emsp;(1) units of local government (including Indian tribes) that are not eligible entities; and
 
@@ -21,6 +21,8 @@ In providing grants under this section, the Secretary shall give priority to uni
 &emsp;(2) that plan to carry out projects that would result in significant energy efficiency improvements or reductions in fossil fuel use.
 
 (Pub. L. 110–140, title V, §546, Dec. 19, 2007, 121 Stat. 1673.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

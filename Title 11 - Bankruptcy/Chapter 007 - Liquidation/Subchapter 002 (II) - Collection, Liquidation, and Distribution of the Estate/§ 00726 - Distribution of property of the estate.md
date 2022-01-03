@@ -20,7 +20,7 @@
 
 &emsp;&emsp;&emsp;(ii) proof of such claim is filed in time to permit payment of such claim;
 
-&emsp;(3) third, in payment of any allowed unsecured claim proof of which is tardily filedunder section 501(a) of this title, other than a claim of the kind specified in paragraph (2)(C) of this subsection;
+&emsp;(3) third, in payment of any allowed unsecured claim proof of which is tardily filed under section 501(a) of this title, other than a claim of the kind specified in paragraph (2)(C) of this subsection;
 
 &emsp;(4) fourth, in payment of any allowed claim, whether secured or unsecured, for any fine, penalty, or forfeiture, or for multiple, exemplary, or punitive damages, arising before the earlier of the order for relief or the appointment of a trustee, to the extent that such fine, penalty, forfeiture, or damages are not compensation for actual pecuniary loss suffered by the holder of such claim;
 

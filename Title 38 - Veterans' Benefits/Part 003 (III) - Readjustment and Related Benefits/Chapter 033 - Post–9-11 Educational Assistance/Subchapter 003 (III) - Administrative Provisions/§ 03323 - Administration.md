@@ -6,7 +6,7 @@ In General.—
 
 &emsp;(1)
 
-In general.—Except as otherwise provided in this chapter, the provisions specified in sections 3034(a)(1) and 3680(c) shall apply to the provision of educational assistance under this chapter.
+In general.—Except as otherwise provided in this chapter, the provisions specified in sections 3034(a)(1) and 3680(c) shall apply tothe provision of educational assistance under this chapter.
 
 &emsp;(2)
 

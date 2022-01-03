@@ -2,7 +2,7 @@
 
 For purposes of this part—
 
-&emsp;(1) The term "consumer lease" means a contract in the form of a lease or bailment for the use of personal property by a natural person for a period of time exceeding four months, and for a total contractual obligation not exceeding $50,000,<sup>1</sup> primarily for personal, family, or household purposes, whether or not the lessee has the option to purchase or otherwise become the owner of the property at the expiration of the lease, except that such term shall not include any credit sale as defined in section 1602(g) <sup>2</sup> of this title. Such term does not include a lease for agricultural, business, or commercial purposes, or to a government or governmental agency or instrumentality, or to an organization.
+&emsp;(1) The term "consumer lease" means a contract in the form of a lease or bailment for the use of personal property by a natural person for a period of time exceeding four months, and for a total contractual obligation not exceeding $50,000,<sup>1</sup> primarily for personal, family, or household purposes, whether or not the lessee has the option to purchase or otherwise become the owner of the property at the expiration of the lease, except that such term shall not include any credit sale as defined in section 1602(g) <sup>2</sup> of this title. Such term does not include a lease for agricultural, business, or commercial purposes, or to a government orgovernmental agency or instrumentality, or to an organization.
 
 &emsp;(2) The term "lessee" means a natural person who leases or is offered a consumer lease.
 
@@ -14,6 +14,8 @@ For purposes of this part—
 
 (Pub. L. 90–321, title I, §181, as added Pub. L. 94–240, §3, Mar. 23, 1976, 90 Stat. 257; amended Pub. L. 111–203, title X, §1100E(a)(2), July 21, 2010, 124 Stat. 2111.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1602(g) of this title, referred to in par. (1), was redesignated section 1602(h) of this title by Pub. L. 111–203, title X, §1100A(1)(A), July 21, 2010, 124 Stat. 2107.
@@ -21,6 +23,8 @@ Section 1602(g) of this title, referred to in par. (1), was redesignated section
 #### Amendments
 
 <b>2010</b>—Par. (1). Pub. L. 111–203 substituted "$50,000" for "$25,000".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

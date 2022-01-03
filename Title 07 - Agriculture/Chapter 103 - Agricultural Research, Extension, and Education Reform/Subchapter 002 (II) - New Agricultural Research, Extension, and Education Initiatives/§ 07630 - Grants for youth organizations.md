@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, acting through the Director of the National Institute of Food and Agriculture, shall make grants to the Girl Scouts of the United States of America, the Boy Scouts of America, the National 4–H Council, and the National FFA Organization to establish pilot projects to expand the programs carried out by the organizations in rural areas and small towns (including, with respect to the National 4–H Council, activities provided for in Public Law 107–19 (115 Stat. 153)).
+The Secretary, acting through the Director of the National Institute of Food and Agriculture,shall make grants to the Girl Scouts of the United States of America, the Boy Scouts of America, the National 4–H Council, and the National FFA Organization to establish pilot projects to expand the programs carried out by the organizations in rural areas and small towns (including, with respect to the National 4–H Council, activities provided for in Public Law 107–19 (115 Stat. 153)).
 
 #### (b) Flexibility
 
@@ -22,6 +22,8 @@ There are authorized to be appropriated to carry out this section—
 
 (Pub. L. 105–185, title IV, §410, as added Pub. L. 107–171, title VII, §7412, May 13, 2002, 116 Stat. 462; amended Pub. L. 110–234, title VII, §§7309, 7511(c)(32), May 22, 2008, 122 Stat. 1243, 1270; Pub. L. 110–246, §4(a), title VII, §§7309, 7511(c)(32), June 18, 2008, 122 Stat. 1664, 2004, 2032; Pub. L. 113–79, title VII, §7305, Feb. 7, 2014, 128 Stat. 888; Pub. L. 115–334, title VII, §7304, Dec. 20, 2018, 132 Stat. 4815.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Pub. L. 107–19, referred to in subsec. (a), is Pub. L. 107–19, July 10, 2001, 115 Stat. 153, which is not classified to the Code.
@@ -39,6 +41,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 <b>2008</b>—Subsec. (a). Pub. L. 110–246, §7511(c)(32), substituted "Director of the National Institute of Food and Agriculture" for "Administrator of the Cooperative State Research, Education, and Extension Service".
 
 Subsecs. (b) to (d). Pub. L. 110–246, §7309, added subsecs. (b) to (d) and struck out former subsecs. (b) and (c) which related to availability of funds of the Commodity Credit Corporation for fiscal year 2002 and authorization of appropriations for fiscal years 2003 through 2007.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

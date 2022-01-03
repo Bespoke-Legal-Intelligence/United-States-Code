@@ -20,7 +20,7 @@ Each report submitted under subsection (a) shall include the following:
 
 &emsp;(1) Identification of each foreign country and non-State organization that possesses weapons of mass destruction, ballistic missiles, or cruise missiles, and a description of such weapons and missiles with respect to each such foreign country and non-State organization.
 
-&emsp;(2) A description of the means by which any foreign country and non-State organization that has achieved, or is making progress toward achieving, capability with respect to weapons of mass destruction, ballistic missiles, or cruise missiles has achieved, or is making progress toward achieving, that capability, including a description of the international network of foreign countries and private entities that provide assistance to foreign countries and non-State organizations in achieving that capability.
+&emsp;(2) A description of the means by which any foreign country and non-State organization that has achieved, or is making progress toward achieving, capability with respect to weapons of mass destruction, ballistic missiles, or cruise missiles has achieved, or ismaking progress toward achieving, that capability, including a description of the international network of foreign countries and private entities that provide assistance to foreign countries and non-State organizations in achieving that capability.
 
 &emsp;(3) An examination of the doctrines that guide the use of weapons of mass destruction in each foreign country that possesses such weapons.
 
@@ -28,7 +28,7 @@ Each report submitted under subsection (a) shall include the following:
 
 &emsp;(5) Identification of each foreign country and non-State organization that seeks to acquire or develop (indigenously or with foreign assistance) weapons of mass destruction, ballistic missiles, or cruise missiles, and a description of such weapons and missiles with respect to each such foreign country and non-State organization.
 
-&emsp;(6) An assessment of various possible timelines for the achievement by foreign countries and non-State organizations of capability with respect to weapons of mass destruction,ballistic missiles, and cruise missiles, taking into account the probability of whether foreign countries that are a party to the Missile Technology Control Regime will comply with and enforce the regime, the potential availability of assistance from foreign technical specialists, and the potential for independent sales by foreign private entities without authorization from their national governments.
+&emsp;(6) An assessment of various possible timelines for the achievement by foreign countries and non-State organizations of capability with respect to weapons of mass destruction, ballistic missiles, and cruise missiles, taking into account the probability of whether foreign countries that are a party to the Missile Technology Control Regime will comply with and enforce the regime, the potential availability of assistance from foreign technical specialists, and the potential for independent sales by foreign private entities without authorization from their national governments.
 
 &emsp;(7) For each foreign country or non-State organization that has not achieved the capability to target the United States or its territories with weapons of mass destruction, ballistic missiles, or cruise missiles as of January 2, 2013, an estimate of how far in advance the United States is likely to be warned before such foreign country or non-State organization achieves that capability.
 
@@ -50,6 +50,8 @@ In this section, the term "appropriate congressional committees" means the follo
 
 (Pub. L. 105–85, div. A, title II, §234, Nov. 18, 1997, 111 Stat. 1664; Pub. L. 112–239, div. A, title X, §1065(a), Jan. 2, 2013, 126 Stat. 1941.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1998, and not as part of the Defense Against Weapons of Mass Destruction Act of 1996 which comprises this chapter.
@@ -57,6 +59,8 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 #### Amendments
 
 <b>2013</b>—Pub. L. 112–239 amended section generally. Prior to amendment, section related to annual report on threat posed to United States by weapons of mass destruction, ballistic missiles, and cruise missiles.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Reporting Requirements
 

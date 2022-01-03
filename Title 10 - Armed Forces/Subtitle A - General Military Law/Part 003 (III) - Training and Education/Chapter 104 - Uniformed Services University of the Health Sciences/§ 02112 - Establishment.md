@@ -1,6 +1,6 @@
 ### §2112. Establishment
 
-(a)(1) There is established a Uniformed Services University of the Health Sciences (in this chapter referred to as the "University") with authority to grant appropriate certificates, certifications, undergraduate degrees, and advanced degrees.
+(a)(1) There is established a Uniformed Services University of the Health Sciences (in this chapter referred to as the "University") withauthority to grant appropriate certificates, certifications, undergraduate degrees, and advanced degrees.
 
 (2) The University shall be so organized as to graduate not fewer than 100 medical students annually.
 
@@ -11,6 +11,8 @@
 (c) The development of the University may be by such phases as the Secretary of Defense may prescribe subject to the requirements of subsection (a).
 
 (Added Pub. L. 92–426, §2(a), Sept. 21, 1972, 86 Stat. 713; amended Pub. L. 96–107, title VIII, §803(a), Nov. 9, 1979, 93 Stat. 811; Pub. L. 96–513, title V, §511(63), (64), Dec. 12, 1980, 94 Stat. 2925, 2926; Pub. L. 104–106, div. A, title X, §1072(b)(1), Feb. 10, 1996, 110 Stat. 446; Pub. L. 107–107, div. A, title X, §1048(e)(8), Dec. 28, 2001, 115 Stat. 1228; Pub. L. 114–328, div. A, title VII, §724(a), Dec. 23, 2016, 130 Stat. 2230.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -23,6 +25,8 @@
 <b>1980</b>—Subsec. (a). Pub. L. 96–513 inserted "in this chapter" after "hereinafter", and substituted "September 21, 1982" for "10 years after the date of the enactment of this chapter".
 
 <b>1979</b>—Subsec. (b). Pub. L. 96–107 inserted provisions respecting the maximum number of first-year enrollments in the University.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 
@@ -84,7 +88,7 @@ Pub. L. 103–337, div. A, title IX, §922, Oct. 5, 1994, 108 Stat. 2829, as ame
 
 "(b)
 
-Budgetary Commitment to Continuation.—It is the sense of Congress that the Secretary of Defenseshould budget for the ongoing operation of the Uniformed Services University of the Health Sciences as an institution of professional education that is vital to the education and training each year of significant numbers of personnel of the uniformed services for careers as uniformed services health care providers.
+Budgetary Commitment to Continuation.—It is the sense of Congress that the Secretary of Defense should budget for the ongoing operation of the Uniformed Services University of the Health Sciences as an institution of professional education that is vital to the education and training each year of significant numbers of personnel of the uniformed services for careers as uniformed services health care providers.
 
 "(c)
 

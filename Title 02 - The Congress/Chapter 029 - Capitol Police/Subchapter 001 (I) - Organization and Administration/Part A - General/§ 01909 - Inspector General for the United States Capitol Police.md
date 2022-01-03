@@ -44,7 +44,7 @@ There is established in the United States Capitol Police the Office of the Inspe
 
 #### (B) Nondisclosure
 
-&emsp;&emsp;The Inspector General shall not, after receipt of a complaint or information from an employee or member, disclose the identity of the employee or member without the consent of the employee or member, unless required by law or the Inspector General determines such disclosure is otherwise unavoidable during the course of the investigation.
+&emsp;&emsp;The Inspector General shall not, after receipt of a complaint or information from anemployee or member, disclose the identity of the employee or member without the consent of the employee or member, unless required by law or the Inspector General determines such disclosure is otherwise unavoidable during the course of the investigation.
 
 #### (C) Prohibiting retaliation
 

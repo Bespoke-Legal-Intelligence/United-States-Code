@@ -48,7 +48,7 @@
 
 &emsp;(1) negotiate or bargain on behalf of the United States concerning the terms or conditions of military service of members of the armed forces with any person who represents or purports to represent members of the armed forces, or
 
-&emsp;(2) permit or authorize the use of any military installation, facility, reservation, vessel, or other property of the United States for any meeting, march, picketing, demonstration, or other similar activity which is for the purpose of engaging in any activity prohibited by subsection (b), (c), or (d).
+&emsp;(2) permit or authorize the use of any military installation, facility, reservation, vessel, or other property of the United States for any meeting, march, picketing, demonstration, orother similar activity which is for the purpose of engaging in any activity prohibited by subsection (b), (c), or (d).
 
 > Nothing in this subsection shall prevent commanders or supervisors from giving consideration to the views of any member of the armed forces presented individually or as a result of participation on command-sponsored or authorized advisory councils, committees, or organizations.
 
@@ -70,6 +70,8 @@
 
 (Added Pub. L. 95–610, §2(a), Nov. 8, 1978, 92 Stat. 3085, §975; renumbered §976, Pub. L. 96–107, title VIII, §821(a), Nov. 9, 1979, 93 Stat. 820; amended Pub. L. 98–525, title IV, §414(a)(6), Oct. 19, 1984, 98 Stat. 2519; Pub. L. 99–661, div. A, title XIII, §1343(a)(2), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 105–85, div. A, title X, §1073(a)(15), Nov. 18, 1997, 111 Stat. 1900.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1997</b>—Subsec. (f). Pub. L. 105–85 substituted "shall be fined under title 18 or imprisoned not more than 5 years, or both, except that, in the case of an organization (as defined in section 18 of such title), the fine shall not be less than $25,000." for "shall, in the case of an individual, be fined not more than $10,000 or imprisoned not more than five years, or both, and in the case of an organization or association, be fined not less than $25,000 and not more than $250,000."
@@ -79,6 +81,8 @@
 <b>1986</b>—Subsec. (a)(1). Pub. L. 99–661 struck out the second of two commas before "(B)".
 
 <b>1984</b>—Subsec. (a)(1). Pub. L. 98–525 added cl. (B) and redesignated existing cl. (B) as (C).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Findings; Purpose
 

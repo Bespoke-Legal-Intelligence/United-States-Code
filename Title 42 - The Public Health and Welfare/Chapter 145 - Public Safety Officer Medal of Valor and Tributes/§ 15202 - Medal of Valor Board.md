@@ -8,7 +8,7 @@ There is established a Medal of Valor Review Board (hereinafter in this chapter 
 
 #### (1) Members
 
-&emsp;The members of the Board shall be individuals with knowledge or expertise, whether by experience or training, in the field of public safety, of which—
+&emsp;The members of the Board shall be individuals with knowledge or expertise, whether byexperience or training, in the field of public safety, of which—
 
 &emsp;&emsp;(A) two shall be appointed by the majority leader of the Senate;
 
@@ -65,6 +65,8 @@ The Board may secure directly from any Federal department or agency such informa
 The Board shall not disclose any information which may compromise an ongoing law enforcement investigation or is otherwise required by law to be kept confidential.
 
 (Pub. L. 107–12, §3, May 30, 2001, 115 Stat. 20; Pub. L. 109–162, title XI, §1112, Jan. 5, 2006, 119 Stat. 3103.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

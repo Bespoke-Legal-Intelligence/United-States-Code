@@ -62,13 +62,13 @@
 
 #### (4) Adjustment by Secretary
 
-&emsp;The Secretary may, through a rulemaking under section 553 of title 5, adjust the format and type sizes for the label statements required by this section; the text, format, and type sizes of any required tar, nicotine yield,or other constituent (including smoke constituent) disclosures; or the text, format, and type sizes for any other disclosures required under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\]. The text of any such label statements or disclosures shall be required to appear only within the 20 percent area of cigarette advertisements provided by paragraph (2). The Secretary shall promulgate regulations which provide for adjustments in the format and type sizes of any text required to appear in such area to ensure that the total text required to appear by law will fit within such area.
+&emsp;The Secretary may, through a rulemaking under section 553 of title 5, adjust the format and type sizes for the label statements required by this section; the text, format, and type sizes of any required tar, nicotine yield, or other constituent (including smoke constituent) disclosures; or the text, format, and type sizes for any other disclosures required under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\]. The text of any such label statements or disclosures shall be required to appear only within the 20 percent area of cigarette advertisements provided by paragraph (2). The Secretary shall promulgate regulations which provide for adjustments in the format and type sizes of any text required to appear in such area to ensure that the total text required to appear by law will fit within such area.
 
 #### (c) Marketing requirements
 
 #### (1) Random display
 
-&emsp;The label statements specified in subsection (a)(1) shall be randomly displayed in each 12-month period, in as equal a number of times as is possible on each brand of the product and be randomly distributed in all areas of the United States in which the product is marketed in accordance with a plan submitted by the tobacco product manufacturer, importer, distributor, or retailer and approved by the Secretary.
+&emsp;The label statements specified in subsection (a)(1) shall be randomly displayed in each 12-month period, in as equal a number of times as is possible on each brand of the product and be randomly distributed in all areas of the United States in which the product is marketed in accordance with a plan submitted by the tobaccoproduct manufacturer, importer, distributor, or retailer and approved by the Secretary.
 
 #### (2) Rotation
 
@@ -114,6 +114,8 @@ The Secretary through a rulemaking conducted under section 553 of title 5 may ad
 
 (Pub. L. 89–92, §4, July 27, 1965, 79 Stat. 283; Pub. L. 91–222, §2, Apr. 1, 1970, 84 Stat. 88; Pub. L. 98–474, §4(a), Oct. 12, 1984, 98 Stat. 2201; Pub. L. 99–92, §11\[(a)\], Aug. 16, 1985, 99 Stat. 402; Pub. L. 99–117, §11(d), Oct. 7, 1985, 99 Stat. 495; Pub. L. 111–31, div. A, title II, §§201(a), 202(b), 206, June 22, 2009, 123 Stat. 1842, 1845, 1849.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (b)(4), (d), and (e)(3), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
@@ -133,6 +135,8 @@ Subsec. (c)(2)(A). Pub. L. 99–117 substituted "brand style" for "brand" in pro
 <b>1984</b>—Pub. L. 98–474 amended section generally, designating existing provisions as subsec. (a), expanding choice of warnings to be placed on cigarette packaging and further expanding scope of places that must contain warnings to include advertisements and outdoor billboards, and adding subsecs. (b) to (d).
 
 <b>1970</b>—Pub. L. 91–222 substituted "Warning: The Surgeon General Has Determined That Cigarette Smoking Is Dangerous to Your Health" for "Caution: Cigarette Smoking May Be Hazardous to Your Health."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

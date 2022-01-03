@@ -48,6 +48,8 @@ In subsection (b), the words "the Secretary" are added for clarity.
 
 In subsection (c), the words "issue an order" are substituted for "seek relief" for consistency in this section. The words "The action must be brought in the judicial district" are substituted for "for the judicial district" for consistency in the revised title.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (a)(1). Pub. L. 110–432 substituted "death, personal injury, or significant harm to the environment" for "death or personal injury".

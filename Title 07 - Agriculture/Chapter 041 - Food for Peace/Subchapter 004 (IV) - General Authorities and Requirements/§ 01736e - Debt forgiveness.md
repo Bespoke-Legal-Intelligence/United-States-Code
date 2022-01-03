@@ -38,6 +38,8 @@ The authority of this section applies with respect to credit sales agreements en
 
 (July 10, 1954, ch. 469, title IV, §411, as added Pub. L. 91–524, title VII, §704, Nov. 30, 1970, as added Pub. L. 93–86, §1(26), Aug. 10, 1973, 87 Stat. 237; amended Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3654; Pub. L. 102–237, title III, §§322, 326, 336, Dec. 13, 1991, 105 Stat. 1857, 1859.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Subsec. (a). Pub. L. 102–237, §326, substituted "subchapter II" for "this subchapter" in introductory provisions.
@@ -48,6 +50,8 @@ Subsec. (e). Pub. L. 102–237, §322, substituted "November 28, 1990" for "the 
 
 <b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions prohibiting assistance under subchapters II, III and III–A of this chapter to North Vietnam after July 1, 1973, unless specifically authorized by Act of Congress.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–624 effective Jan. 1, 1991, see section 1513 of Pub. L. 101–624, set out as a note under section 1691 of this title.
@@ -55,6 +59,8 @@ Amendment by Pub. L. 101–624 effective Jan. 1, 1991, see section 1513 of Pub. 
 #### Renegotiation of Payment Terms of Loans for Sale of Agricultural Commodities
 
 Pub. L. 102–27, title II, Apr. 10, 1991, 105 Stat. 147, as amended by Pub. L. 110–246, title III, §3001(c), June 18, 2008, 122 Stat. 1821, provided that: "Title I of the Public Law 480 \[7 U.S.C. 1701 et seq.\] program allowed for the repayment of loans for the sale of agricultural commodities in foreign or local currencies until December 31, 1971. Since that time, until the law was changed in the 1985 farm bill \[probably means Pub. L. 99–198, see Tables for classification\], all sales have been on dollar credit terms. In view of the present financial situation, it is impossible for many countries to repay their loans in dollars. Therefore, the President may use the authority in section 411 and section 604 of the Food for Peace Act \[7 U.S.C. 1736e, 1738c\] to renegotiate the payment on Public Law 480 debt in eligible countries in Latin America, the Caribbean and sub-Saharan Africa."
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

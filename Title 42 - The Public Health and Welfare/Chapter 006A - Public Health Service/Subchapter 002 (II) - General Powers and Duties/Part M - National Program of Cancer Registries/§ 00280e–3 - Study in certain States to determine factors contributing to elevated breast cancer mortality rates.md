@@ -16,7 +16,9 @@ The Secretary may conduct the study required in subsection (a) in a State only i
 
 The Secretary shall, during each of the fiscal years 1993 and 1994, develop a plan for conducting the study required in subsection (a). The study shall be initiated by the Secretary not later than fiscal year 1994, and the collection of data under the study may continue through fiscal year 1998.
 
-(July 1, 1944, ch. 373, title III, §399E, formerly §399K, as added Pub. L. 102–515, §3, Oct. 24, 1992, 106 Stat. 3376; renumbered §399E and amended Pub. L. 106–310, div. A, title V, §502(2)(A), (C), Oct. 17, 2000, 114 Stat. 1115; Pub. L. 109–482, title I, §104(b)(2)(A), Jan. 15, 2007, 120 Stat. 3693.)
+(July 1, 1944, ch. 373, title III, §399E, formerly §399K, as added Pub. L. 102–515, §3, Oct. 24, 1992, 106 Stat. 3376; renumbered §399E and amended Pub. L. 106–310, div. A, title V, §502(2)(A), (C),Oct. 17, 2000, 114 Stat. 1115; Pub. L. 109–482, title I, §104(b)(2)(A), Jan. 15, 2007, 120 Stat. 3693.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -24,11 +26,13 @@ The Secretary shall, during each of the fiscal years 1993 and 1994, develop a pl
 
 <b>2000</b>—Subsec. (c). Pub. L. 106–310, §502(2)(C), made technical amendment to reference in original act which appears in text as reference to section 280e(a) of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2007 Amendment
 
 Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 
 #### Potential Environmental and Other Risks Contributing to Incidence of Breast Cancer
 
-Pub. L. 103–43, title XIX, §1911, June 10, 1993, 107 Stat. 205, provided that Director of the National Cancer Institute, in collaboration with Director of the National Institute of Environmental Health Sciences, was to conduct case-control study to assess biological markers of environmental and other potential risk factors contributing to incidence of breast cancer in specifiedcounties in State of New York and northeastern United States that had highest age-adjusted mortality rate of such cancer, and to report results of such study to Congress not later than 30 months after June 10, 1993.
+Pub. L. 103–43, title XIX, §1911, June 10, 1993, 107 Stat. 205, provided that Director of the National Cancer Institute, in collaboration with Director of the National Institute of Environmental Health Sciences, was to conduct case-control study to assess biological markers of environmental and other potential risk factors contributing to incidence of breast cancer in specified counties in State of New York and northeastern United States that had highest age-adjusted mortality rate of such cancer, and to report results of such study to Congress not later than 30 months after June 10, 1993.
 

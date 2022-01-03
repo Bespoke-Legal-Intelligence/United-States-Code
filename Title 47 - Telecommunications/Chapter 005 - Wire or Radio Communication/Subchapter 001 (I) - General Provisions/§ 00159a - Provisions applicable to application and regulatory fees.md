@@ -24,7 +24,7 @@ The Commission shall transmit to Congress notification—
 
 #### (3) Dismissal of applications or filings
 
-&emsp;The Commission may dismiss any application or other filing for failure to pay in a timely manner any fee under section 158 or 159 of this title or any interest or additional penalty under this subsection.
+&emsp;The Commission may dismiss any application or other filing for failure to pay in atimely manner any fee under section 158 or 159 of this title or any interest or additional penalty under this subsection.
 
 #### (4) Revocations
 

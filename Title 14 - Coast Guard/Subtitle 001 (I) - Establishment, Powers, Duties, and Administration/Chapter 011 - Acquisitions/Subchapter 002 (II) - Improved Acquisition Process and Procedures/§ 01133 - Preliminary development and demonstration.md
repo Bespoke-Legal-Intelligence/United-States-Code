@@ -28,7 +28,7 @@ Communication of safety concerns.—The Commandant shall ensure that independent
 
 &emsp;(4)
 
-Reporting of safety concerns.—The Commandant shall ensure that any safety concerns that have been communicated under paragraph (3) for an acquisition program or project are reported to the appropriate congressional committees at least 90 days before the award of any contract or issuance of any delivery order or task order for low, initial, or full-rate production of the capability or asset concerned if they will remain uncorrected or unmitigated at the time such a contract is awarded or delivery order or task order is issued. The report shall include a justification for the approval of that level of production of the capability or asset before the safety concerns are corrected or mitigated. The report shall also include an explanation of the actions that will be taken to correct or mitigate the safety concerns, the date by which those actions will be taken, and the adequacy of current funding to correct or mitigate the safety concerns.
+Reporting of safety concerns.—The Commandant shall ensure that any safety concerns that have been communicated under paragraph (3) for an acquisition program or project are reported to the appropriate congressional committees at least 90 days before the award of any contract or issuance of anydelivery order or task order for low, initial, or full-rate production of the capability or asset concerned if they will remain uncorrected or unmitigated at the time such a contract is awarded or delivery order or task order is issued. The report shall include a justification for the approval of that level of production of the capability or asset before the safety concerns are corrected or mitigated. The report shall also include an explanation of the actions that will be taken to correct or mitigate the safety concerns, the date by which those actions will be taken, and the adequacy of current funding to correct or mitigate the safety concerns.
 
 &emsp;(5)
 
@@ -36,7 +36,7 @@ Asset already in low, initial, or full-rate production.—The Commandant shall e
 
 &emsp;&emsp;(A) the Commandant, through the Assistant Commandant for Capability, shall notify the program manager and the Chief Acquisition Officer of the safety concern as soon as practicable, but not later than 30 days after the completion of the test and evaluation event or activity that identified the safety concern; and
 
-&emsp;&emsp;(B) the Deputy Commandant for Mission Support shall notify the Commandant andthe Deputy Commandant for Operations of the safety concern within 50 days after the notification required under subparagraph (A), and include in such notification—
+&emsp;&emsp;(B) the Deputy Commandant for Mission Support shall notify the Commandant and the Deputy Commandant for Operations of the safety concern within 50 days after the notification required under subparagraph (A), and include in such notification—
 
 &emsp;&emsp;&emsp;(i) an explanation of the actions that will be taken to correct or mitigate the safety concern in all capabilities or assets and subsystems of the capabilities or assets yet to be produced, and the date by which those actions will be taken;
 
@@ -98,7 +98,7 @@ Subsec. (b)(1). Pub. L. 115–282, §123(b)(2), substituted "section 1132(d)(1)"
 
 Subsec. (b)(3). Pub. L. 115–232, §3522(1), substituted "ensure that independent third parties and Government employees that identify safety concerns" for "require that safety concerns identified" and "Coast Guard communicate such concerns as" for "Coast Guard shall be communicated as".
 
-Subsec. (b)(4). Pub. L. 115–232, §3522(2), substituted "The Commandant shall ensure that any safety concerns that have been communicated under paragraph (3) for an acquisition program or project are reported" for "Any safety concerns that have been reported to the Chief Acquisition Officer for an acquisition program or project shall be reported by the Commandant".
+Subsec. (b)(4). Pub. L. 115–232, §3522(2), substituted "The Commandant shall ensure that any safety concerns that have been communicated under paragraph (3) for an acquisition program or project are reported" for "Any safety concerns that have been reported tothe Chief Acquisition Officer for an acquisition program or project shall be reported by the Commandant".
 
 Subsec. (b)(5). Pub. L. 115–232, §3522(3)(A), added introductory provisions and struck out former introductory provisions which read as follows: "If operational test and evaluation of a capability or asset already in low, initial, or full-rate production identifies a safety concern with the capability or asset or any subsystems of the capability or asset not previously identified during developmental or operational test and evaluation, the Commandant shall—".
 
@@ -110,7 +110,7 @@ Subsec. (c)(2)(A). Pub. L. 115–232, §3522(4)(A), struck out "and that are del
 
 Subsec. (c)(5). Pub. L. 115–232, §3522(4)(B), struck out "and delivered after the date of enactment of the Coast Guard Authorization Act of 2010" after "acquired by the Coast Guard".
 
-<b>2012</b>—Subsec. (c)(3)(B). Pub. L. 112–213 struck out subpar. (B). Text read as follows: "Not later than December 31, 2011, and biennially thereafter, the Commandant shall provide a report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate identifying which, if any, Coast Guard cutters that have been issued a certificateof classification by the American Bureau of Shipping have not been maintained in class and detailing the reasons why they have not been maintained in class."
+<b>2012</b>—Subsec. (c)(3)(B). Pub. L. 112–213 struck out subpar. (B). Text read as follows: "Not later than December 31, 2011, and biennially thereafter, the Commandant shall provide a report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate identifying which, if any, Coast Guard cutters that have been issued a certificate of classification by the American Bureau of Shipping have not been maintained in class and detailing the reasons why they have not been maintained in class."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

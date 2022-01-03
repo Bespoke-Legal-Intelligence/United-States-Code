@@ -30,11 +30,11 @@ An organization having a contract with the Secretary under this part shall provi
 
 &emsp;(2) to assist the Secretary, and such Federal and State agencies recognized by the Secretary as having health planning or related responsibilities under Federal or State law (including health systems agencies and State health planning and development agencies), in carrying out appropriate health care planning and related activities, which data and information shall be provided in such format and manner as may be prescribed by the Secretary or agreed upon by the responsible Federal and State agencies and such organization, and shall be in the form of aggregate statistical data (without explicitly identifying any individual) on a geographic, institutional, or other basis reflecting the volume and frequency of services furnished, as well as the demographic characteristics of the population subject to review by such organization.
 
-> The penalty provided in subsection (c) shall not apply to the disclosure of any information received under this subsection, except that such penalty shall apply to the disclosure (by the agency receiving such information) of any such information described in paragraph (1) unless such disclosure is made in a judicial, administrative, or other formal legal proceeding resulting from an investigation conducted by the agency receiving the information. An organization may require payment of a reasonable fee for providing information under this subsection in response to a request for such information.
+> The penalty provided in subsection (c) shall not apply to the disclosure of any information received under this subsection, except that such penalty shall apply to the disclosure (by the agency receiving such information) of any such information described in paragraph (1) unless such disclosure is made in a judicial, administrative, or other formal legal proceeding resulting from an investigation conducted by theagency receiving the information. An organization may require payment of a reasonable fee for providing information under this subsection in response to a request for such information.
 
 #### (c) Penalties
 
-It shall be unlawful for any person to disclose any such information described in subsection (a) other than for the purposes provided in subsections (a) and (b), and any person violating the provisions of this section shall, upon conviction, be fined not more than $1,000, and imprisoned fornot more than 6 months, or both, and shall be required to pay the costs of prosecution.
+It shall be unlawful for any person to disclose any such information described in subsection (a) other than for the purposes provided in subsections (a) and (b), and any person violating the provisions of this section shall, upon conviction, be fined not more than $1,000, and imprisoned for not more than 6 months, or both, and shall be required to pay the costs of prosecution.
 
 #### (d) Subpoena and discovery proceedings regarding patient records
 
@@ -45,6 +45,8 @@ No patient record in the possession of an organization having a contract with th
 For purposes of this section and section 1320c–6 of this title, the term "organization with a contract with the Secretary under this part" includes an entity with a contract with the Secretary under section 1320c–3(a)(4)(C) <sup>1</sup> of this title.
 
 (Aug. 14, 1935, ch. 531, title XI, §1160, as added Pub. L. 97–248, title I, §143, Sept. 3, 1982, 96 Stat. 391; amended Pub. L. 99–509, title IX, §9353(d)(1), Oct. 21, 1986, 100 Stat. 2047; Pub. L. 100–203, title IV, §4039(h)(6), Dec. 22, 1987, as added Pub. L. 100–360, title IV, §411(e)(3), July 1, 1988, 102 Stat. 776; Pub. L. 101–508, title IV, §4205(d)(1)(B), (e)(1), Nov. 5, 1990, 104 Stat. 1388–113, 1388–114; Pub. L. 103–432, title I, §156(b)(2)(B), (4), Oct. 31, 1994, 108 Stat. 4441; Pub. L. 112–40, title II, §261(a)(2)(C), Oct. 21, 2011, 125 Stat. 423.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -72,6 +74,8 @@ Subsec. (d). Pub. L. 101–508, §4205(e)(1), inserted at end "No document or ot
 
 <b>1986</b>—Subsec. (b)(1)(C). Pub. L. 99–509 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "to assist appropriate State agencies recognized by the Secretary as having responsibility for licensing or certification of providers or practitioners, which data and information shall be provided by the peer review organization to any such agency at the request of such agency relating to a specific case, but only to the extent that such data and information is required by the agency in carrying out a function which is within the jurisdiction of such agency under State law; and".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2011 Amendment
 
 Amendment by Pub. L. 112–40 applicable to contracts entered into or renewed on or after Jan. 1, 2012, see section 261(e) of Pub. L. 112–40, set out as a note under section 1320c of this title.
@@ -96,7 +100,7 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–509, title IX, §9353(d)(2), Oct. 21, 1986, 100 Stat. 2047, provided that: "The amendments made by paragraph (1) \[amending this section\] shall apply to requests for data and information made on and after theend of the 6-month period beginning on the date of the enactment of this Act \[Oct. 21, 1986\]."
+Pub. L. 99–509, title IX, §9353(d)(2), Oct. 21, 1986, 100 Stat. 2047, provided that: "The amendments made by paragraph (1) \[amending this section\] shall apply to requests for data and information made on and after the end of the 6-month period beginning on the date of the enactment of this Act \[Oct. 21, 1986\]."
 
 #### Freedom of Information Act Request
 

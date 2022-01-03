@@ -14,6 +14,8 @@ It is the policy of the United States to use its abundant agricultural productiv
 
 (July 10, 1954, ch. 469, §2, 68 Stat. 454; Pub. L. 89–808, §2(A), Nov. 11, 1966, 80 Stat. 1526; Pub. L. 94–161, title II, §201, Dec. 20, 1975, 89 Stat. 850; Pub. L. 99–198, title XI, §1111(a), Dec. 23, 1985, 99 Stat. 1474; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3633; Pub. L. 107–171, title III, §3001, May 13, 2002, 116 Stat. 280; Pub. L. 110–246, title III, §3002, June 18, 2008, 122 Stat. 1821.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Pars. (4) to (6). Pub. L. 110–246 redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out former par. (4) which read as follows: "develop and expand export markets for United States agricultural commodities;".
@@ -27,6 +29,8 @@ It is the policy of the United States to use its abundant agricultural productiv
 <b>1975</b>—Pub. L. 94–161 inserted provisions of second sentence, including cls. (1) to (5), respecting considerations in furnishing food aid under this chapter.
 
 <b>1966</b>—Pub. L. 89–808 restated the Congressional declaration of policy to include the use of the abundant agricultural productivity of the United States to combat hunger and malnutrition and the emphasis on assistance to those developing countries that are determined to improve their own agricultural production and to exclude statement of a policy to facilitate the convertibility of currency, to make maximum efficient use of surplus agricultural commodities in furtherance of the foreign policy of the United States, to purchase strategic materials, to pay United States obligations abroad, and to promote collective strength.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -60,7 +64,7 @@ Pub. L. 102–532, §2, Oct. 27, 1992, 106 Stat. 3509, which enacted sections 17
 
 Pub. L. 101–624, title XV, §1501, Nov. 28, 1990, 104 Stat. 3632, provided that: "This title \[see Tables for classification\] may be cited as the 'Agricultural Development and Trade Act of 1990'."
 
-Pub. L. 101–624, title XV, §1511, Nov. 28, 1990, 104 Stat. 3633, provided that: "This subtitle \[subtitle A (§§1511–1517) of title XV of Pub. L. 101–624, enacting sections 1706, 1736g–1 and 1737 to 1738m of this title and sections 1241g to 1241v of Appendix to Title 46, Shipping, amending this section and sections 1431, 1691a, 1701 to 1705, 1721 to 1726a, 1727 to 1727e, 1731 to 1736g, 1736o, 1736bb–6 of this title, and section 1241f of Appendix to Title 46, and enacting provisions set out as notes under this section\] may be cited as the 'Mickey Leland Food for Peace Act'."
+Pub. L. 101–624, title XV, §1511, Nov. 28, 1990, 104 Stat. 3633, provided that: "This subtitle \[subtitle A\(§§1511–1517) of title XV of Pub. L. 101–624, enacting sections 1706, 1736g–1 and 1737 to 1738m of this title and sections 1241g to 1241v of Appendix to Title 46, Shipping, amending this section and sections 1431, 1691a, 1701 to 1705, 1721 to 1726a, 1727 to 1727e, 1731 to 1736g, 1736o, 1736bb–6 of this title, and section 1241f of Appendix to Title 46, and enacting provisions set out as notes under this section\] may be cited as the 'Mickey Leland Food for Peace Act'."
 
 #### Short Title of 1988 Amendment
 
@@ -117,6 +121,8 @@ Pub. L. 95–113, title XII, §1209, Sept. 29, 1977, 91 Stat. 957, as amended by
 #### Special Task Force
 
 Pub. L. 95–113, title XII, §1210, Sept. 29, 1977, 91 Stat. 957, required the Secretary of Agriculture, not later than eighteen months after Sept. 29, 1977, to appoint a special task force to review and report to Congress upon the administration of the Agricultural Trade Development and Assistance Act of 1954 (now Food for Peace Act), 7 U.S.C. 1961 et seq.
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 10560
 

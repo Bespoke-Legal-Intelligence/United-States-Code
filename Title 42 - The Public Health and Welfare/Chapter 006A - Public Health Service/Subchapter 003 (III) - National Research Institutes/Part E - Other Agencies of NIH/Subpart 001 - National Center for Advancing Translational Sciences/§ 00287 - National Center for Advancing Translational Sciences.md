@@ -58,7 +58,9 @@ The first biennial report submitted under this section after December 13, 2016, 
 
 Nothing in this section shall be construed as authorizing the Secretary to disclose any information that is a trade secret, or other privileged or confidential information subject to section 552(b)(4) of title 5 or section 1905 of title 18.
 
-(July 1, 1944, ch. 373, title IV, §479, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 864; amended Pub. L. 103–43, title XV, §1501(2)(B), June 10, 1993, 107 Stat. 172; Pub. L. 112–74, div. F, title II, §221(a)(1)(C), Dec. 23, 2011, 125 Stat. 1086; Pub. L. 114–255, div. A, title II, §§2037, 2042(e), Dec. 13, 2016, 130 Stat. 1063, 1073.)
+(July 1, 1944, ch. 373, title IV, §479, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 864; amendedPub. L. 103–43, title XV, §1501(2)(B), June 10, 1993, 107 Stat. 172; Pub. L. 112–74, div. F, title II, §221(a)(1)(C), Dec. 23, 2011, 125 Stat. 1086; Pub. L. 114–255, div. A, title II, §§2037, 2042(e), Dec. 13, 2016, 130 Stat. 1063, 1073.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -81,6 +83,8 @@ Subsecs. (d), (e). Pub. L. 114–255, §2037(b)(2), added subsecs. (d) and (e).
 <b>2011</b>—Pub. L. 112–74 amended section generally. Prior to amendment, text read as follows: "The general purpose of the National Center for Research Resources (in this subpart referred to as the 'Center') is to strengthen and enhance the research environments of entities engaged in health-related research by developing and supporting essential research resources."
 
 <b>1993</b>—Pub. L. 103–43 substituted "the National Center for Research Resources (in this subpart referred to as the 'Center')" for "the Division of Research Resources".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Shared Instrumentation Grant Program
 

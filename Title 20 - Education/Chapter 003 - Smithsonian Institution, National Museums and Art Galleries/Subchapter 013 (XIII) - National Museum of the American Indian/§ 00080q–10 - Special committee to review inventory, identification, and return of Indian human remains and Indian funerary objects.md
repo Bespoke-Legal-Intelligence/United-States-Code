@@ -44,7 +44,7 @@ The Secretary shall prescribe regulations and provide administrative support for
 
 #### (f) Report and termination
 
-At the conclusion of the work of the committee, the Secretary shall be so <sup>1</sup> certify by report to the Congress. The committee shall ceaseto exist 120 days after the submission of the report.
+At the conclusion of the work of the committee, the Secretary shall be so <sup>1</sup> certify by report to the Congress. The committee shall cease to exist 120 days after the submission of the report.
 
 #### (g) Nonapplicability of Federal Advisory Committee Act
 
@@ -55,6 +55,8 @@ The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the commit
 There is authorized to be appropriated $250,000 for fiscal year 1991 and such sums as may be necessary for succeeding fiscal years to carry out this section.
 
 (Pub. L. 101–185, §12, Nov. 28, 1989, 103 Stat. 1344; Pub. L. 104–278, §5, Oct. 9, 1996, 110 Stat. 3357.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -69,6 +71,8 @@ Subsec. (b). Pub. L. 104–278, §5(2)(A), substituted "7 members" for "five mem
 Subsec. (b)(1). Pub. L. 104–278, §5(2)(B), substituted "4 members" for "three members" and struck out "and" at end.
 
 Subsec. (b)(2), (3). Pub. L. 104–278, §5(2)(C), (D), added par. (2) and redesignated former par. (2) as (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

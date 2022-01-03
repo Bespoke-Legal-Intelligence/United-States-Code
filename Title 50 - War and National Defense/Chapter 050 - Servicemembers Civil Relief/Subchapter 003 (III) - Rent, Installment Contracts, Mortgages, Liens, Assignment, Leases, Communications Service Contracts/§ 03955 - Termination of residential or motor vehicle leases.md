@@ -150,7 +150,7 @@ In this section:
 
 #### (1) Military orders
 
-&emsp;The term "military orders", with respect to a servicemember, means official military orders (including orders for separation or retirement), or any notification, certification, orverification from the servicemember's commanding officer, with respect to the servicemember's current or future military duty status.
+&emsp;The term "military orders", with respect to a servicemember, means official military orders (including orders for separation or retirement), or any notification, certification, or verification from the servicemember's commanding officer, with respect to the servicemember's current or future military duty status.
 
 #### (2) ConUS
 
@@ -161,6 +161,8 @@ In this section:
 &emsp;The term "permanent change of station" includes separation or retirement from military service.
 
 (Oct. 17, 1940, ch. 888, title III, §305, as added Pub. L. 108–189, §1, Dec. 19, 2003, 117 Stat. 2848; amended Pub. L. 108–454, title VII, §704, Dec. 10, 2004, 118 Stat. 3624; Pub. L. 111–275, title III, §§301, 303(b)(5), Oct. 13, 2010, 124 Stat. 2875, 2878; Pub. L. 115–407, title III, §301, Dec. 31, 2018, 132 Stat. 5373; Pub. L. 116–92, div. A, title V, §§545, 546, Dec. 20, 2019, 133 Stat. 1377; Pub. L. 116–158, §1(a)–(d), Aug. 14, 2020, 134 Stat. 706, 707; Pub. L. 116–283, div. A, title V, §549, Jan. 1, 2021, 134 Stat. 3620; Pub. L. 116–315, title VII, §§7201(a), 7202(a), Jan. 5, 2021, 134 Stat. 5063.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -217,6 +219,8 @@ Subsec. (b)(2)(B). Pub. L. 108–454, §704(b)(1), substituted "military orders�
 Subsec. (b)(2)(B)(ii). Pub. L. 108–454, §704(c), inserted ", or as an individual in support of a military operation," after "deploy with a military unit".
 
 Subsec. (i). Pub. L. 108–454, §704(b)(2), added subsec. (i).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2021 Amendment
 

@@ -10,9 +10,13 @@ If, within 10 years after acquisition, or within 20 years after the completion o
 
 (Pub. L. 89–73, title III, §312, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1534; amended Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1993</b>—Par. (2). Pub. L. 103–171 substituted "Assistant Secretary" for "Commissioner".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

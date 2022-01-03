@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(A) threats of serious harm to or physical restraint against any person;
 
-&emsp;&emsp;(B) any scheme, plan, or pattern intended to cause a person to believe that failure toperform an act would result in serious harm to or physical restraint against any person; or
+&emsp;&emsp;(B) any scheme, plan, or pattern intended to cause a person to believe that failure to perform an act would result in serious harm to or physical restraint against any person; or
 
 &emsp;&emsp;(C) the abuse or threatened abuse of law or the legal process.
 
@@ -104,5 +104,5 @@ Pub. L. 114–22, title I, §109, May 29, 2015, 129 Stat. 239, provided that: "I
 
 &emsp;"(3) in United States vs. Jungers, 702 F.3d 1066 (8th Cir. 2013), the United States Court of Appeals for the Eighth Circuit ruled that section 1591 of title 18, United States Code, applied to persons who purchase illicit sexual acts with trafficking victims after the United States District Court for the District of South Dakota erroneously granted motions to acquit these buyers in two separate cases; and
 
-&emsp;"(4) section 108 of this title \[title I of Pub. L. 114–22\] amends section 1591 of title 18, United States Code, to add the words 'solicits or patronizes' to the sex trafficking statute making absolutely clear for judges, juries, prosecutors, and law enforcement officials that criminals who purchase sexual acts from human trafficking victims may be arrested, prosecuted, andconvicted as sex trafficking offenders when this is merited by the facts of a particular case."
+&emsp;"(4) section 108 of this title \[title I of Pub. L. 114–22\] amends section 1591 of title 18, United States Code, to add the words 'solicits or patronizes' to the sex trafficking statute making absolutely clear for judges, juries, prosecutors, and law enforcement officials that criminals who purchase sexual acts from human trafficking victims may be arrested, prosecuted, and convicted as sex trafficking offenders when this is merited by the facts of a particular case."
 

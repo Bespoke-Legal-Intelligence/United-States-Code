@@ -38,7 +38,7 @@ If, after the transfer of management and administration of any lands pursuant to
 
 #### (f) Water rights
 
-Congress finds that there are unique circumstances with respect to the water and water related resources within the Reserve <sup>1</sup> designated by this subchapter. The Congress recognizes that the management of this area may be transferred to the State of Idaho, that the State has committed to providing the water necessary to fulfill the purposes of this subchapter, and that there is little or no water or water-related resources that require the protection of a Federal reserved water right. Nothing in this subchapter, nor any action taken pursuant thereto, shall constitute either an express or implied reservation of water or water right for any purpose: <i>Provided</i>, That the United States shall retain that reserved water right which is associated with the initial establishment and withdrawal of the national forest lands which will be transferred to the Reserve <sup>1</sup> under this subchapter.
+Congress finds that there are unique circumstances with respect to the water and water related resources within the Reserve <sup>2</sup> designated by this subchapter. The Congress recognizes that the management of this area may be transferred to the State of Idaho, that the State has committed to providing the water necessary to fulfill the purposes of this subchapter, and that there is little or no water or water-related resources that require the protection of a Federal reserved water right. Nothing in this subchapter, nor any action taken pursuant thereto, shall constitute either an express or implied reservation of water or water right for any purpose: <i>Provided</i>, That the United States shall retain that reserved water right which is associated with the initial establishment and withdrawal of the national forest lands which will be transferred to the Reserve <sup>2</sup> under this subchapter.
 
 #### (g) Withdrawal of lands from disposition under other laws
 
@@ -50,11 +50,15 @@ There is hereby authorized to be appropriated not to exceed $2,000,000 to carry 
 
 (Pub. L. 100–696, title II, §202, Nov. 18, 1988, 102 Stat. 4574.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Act of August 25, 1916 (39 Stat. 535), referred to in subsec. (d)(3), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under section 100101 of Title 54, National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
 The Geothermal Steam Act of 1970, referred to in subsec. (g), is Pub. L. 91–581, Dec. 24, 1970, 84 Stat. 1566, which is classified generally to chapter 23 (§1001 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 30 and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Permission To Hunt on Reserve; Restrictions
 
@@ -62,5 +66,5 @@ Pub. L. 101–512, title I, Nov. 5, 1990, 104 Stat. 1923, provided that: "with r
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
+<i><sup>2</sup></i><i> So in original. Probably should not be capitalized.</i>
 

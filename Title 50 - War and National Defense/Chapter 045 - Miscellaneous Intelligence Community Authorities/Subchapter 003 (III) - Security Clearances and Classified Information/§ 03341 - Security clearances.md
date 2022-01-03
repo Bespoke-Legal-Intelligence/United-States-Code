@@ -62,7 +62,7 @@ Access determination.—The term "access determination" means the determination 
 
 Except as otherwise provided, not later than 90 days after December 17, 2004, the President shall select a single department, agency, or element of the executive branch to be responsible for—
 
-&emsp;(1) directing day-to-day oversight of investigations and adjudications for personnel security clearances, including for highly sensitiveprograms, throughout the United States Government;
+&emsp;(1) directing day-to-day oversight of investigations and adjudications for personnel security clearances, including for highly sensitive programs, throughout the United States Government;
 
 &emsp;(2) developing and implementing uniform and consistent policies and procedures to ensure the effective, efficient, and timely completion of security clearances and determinations for access to highly sensitive programs, including the standardization of security questionnaires, financial disclosure requirements for security clearance applicants, and polygraph policies and procedures;
 
@@ -106,7 +106,7 @@ Except as otherwise provided, not later than 90 days after December 17, 2004, th
 
 (5) The head of the entity selected pursuant to subsection (b) may disallow the reciprocal recognition of an individual security clearance by an agency under this section on a case-by-case basis if the head of the entity selected pursuant to subsection (b) determines that such action is necessary for national security purposes.
 
-(6) The head of the entity selected pursuant to subsection (b) shall establish a review procedureby which agencies can seek review of actions required under this section.
+(6) The head of the entity selected pursuant to subsection (b) shall establish a review procedure by which agencies can seek review of actions required under this section.
 
 #### (e) Database on security clearances
 
@@ -182,7 +182,7 @@ There is authorized to be appropriated such sums as may be necessary for fiscal 
 
 #### (1) In general
 
-&emsp;Agency personnel with authority over personnel security clearance or access determinations shall not take or fail to take, or threaten to take or fail to take, any action with respect to any employee's security clearance or access determination in retaliation for—
+&emsp;Agency personnel with authority over personnel security clearance or access determinations shall not take or fail to take, or threatento take or fail to take, any action with respect to any employee's security clearance or access determination in retaliation for—
 
 &emsp;&emsp;(A) any lawful disclosure of information to the Director of National Intelligence (or an employee designated by the Director of National Intelligence for such purpose) or the head of the employing agency (or employee designated by the head of that agency for such purpose) by an employee that the employee reasonably believes evidences—
 
@@ -282,6 +282,8 @@ There is authorized to be appropriated such sums as may be necessary for fiscal 
 
 (Pub. L. 108–458, title III, §3001, Dec. 17, 2004, 118 Stat. 3705; Pub. L. 113–126, title VI, §602(a)(1), (b), (c), July 7, 2014, 128 Stat. 1416, 1417, 1419; Pub. L. 113–293, title III, §310, Dec. 19, 2014, 128 Stat. 3999; Pub. L. 115–118, title I, §110(c), Jan. 19, 2018, 132 Stat. 17.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Executive Order 12968, referred to in subsec. (a)(3), (9)(A), is set out as a note under section 3161 of this title.
@@ -314,13 +316,15 @@ Subsec. (b)(7)(B). Pub. L. 113–293, §310(3), substituted "information followi
 
 Subsec. (j). Pub. L. 113–126, §602(b), added subsec. (j).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Construction
 
-Pub. L. 113–126, title VI, §602(e), July 7, 2014, 128 Stat. 1419, provided that: "Nothing in section 3001 of the Intelligence Reform and Terrorism Prevention Act of 2004 (50 U.S.C. 3341), as amended by this title, shall be construed to require the repeal or replacement of agency appeal procedures implementing Executive Order 12968\(60 Fed. Reg. 40245; relating to access to classified information) \[50 U.S.C. 3161 note\], or any successor thereto, and Executive Order 10865 (25 Fed. Reg. 1583; relating to safeguarding classified information with\[in\] industry) \[50 U.S.C. 3161 note\], or any successor thereto, that meet the requirements of paragraph (7) of section 3001(b) of such Act \[50 U.S.C. 3341(b)(7)\], as added by this section."
+Pub. L. 113–126, title VI, §602(e), July 7, 2014, 128 Stat. 1419, provided that: "Nothing in section 3001 of the Intelligence Reform and Terrorism Prevention Act of 2004 (50 U.S.C. 3341), as amended by this title, shall be construed to require the repeal or replacement of agency appeal procedures implementing Executive Order 12968 (60 Fed. Reg. 40245; relating to access to classified information) \[50 U.S.C. 3161 note\], or any successor thereto, and Executive Order 10865 (25 Fed. Reg. 1583; relating to safeguarding classified information with\[in\] industry) \[50 U.S.C. 3161 note\], or any successor thereto, that meet the requirements of paragraph (7) of section 3001(b) of such Act \[50 U.S.C. 3341(b)(7)\], as added by this section."
 
 #### Required Elements of Policies and Procedures
 

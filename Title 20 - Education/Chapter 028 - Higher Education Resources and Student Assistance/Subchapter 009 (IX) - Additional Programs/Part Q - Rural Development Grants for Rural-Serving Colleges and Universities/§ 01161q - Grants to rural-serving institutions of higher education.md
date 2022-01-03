@@ -18,7 +18,7 @@ For the purposes of this section:
 
 #### (2) Rural area
 
-&emsp;The term "rural area" means an area that is defined, identified, or otherwise recognized asrural by a governmental agency of the State in which the area is located.
+&emsp;The term "rural area" means an area that is defined, identified, or otherwise recognized as rural by a governmental agency of the State in which the area is located.
 
 #### (3) Nontraditional student
 
@@ -98,7 +98,7 @@ Each rural-serving institution of higher education desiring a grant under this s
 
 A rural-serving institution of higher education that receives a grant under this section shall use grant funds for at least three of the following four purposes:
 
-&emsp;(1) To improve postsecondary enrollment rates for rural secondary school students at rural-serving institutions of higher education, which may include—
+&emsp;(1) To improve postsecondary enrollment rates for rural secondary school students atrural-serving institutions of higher education, which may include—
 
 &emsp;&emsp;(A) programs to provide students and families with counseling related to applying for postsecondary education, and Federal and State financial assistance for postsecondary education;
 
@@ -124,11 +124,15 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 (Pub. L. 89–329, title VIII, §861, as added Pub. L. 110–315, title VIII, §801, Aug. 14, 2008, 122 Stat. 3423; amended Pub. L. 113–128, title V, §512(n)(6), July 22, 2014, 128 Stat. 1711; Pub. L. 114–95, title IX, §9215(oo)(12), Dec. 10, 2015, 129 Stat. 2180.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (c)(2)(A). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to section 7801 of this title.
 
 <b>2014</b>—Subsec. (c)(1)(B). Pub. L. 113–128 substituted "local boards (as such term is defined in section 3102 of title 29)" for "local boards (as such term is defined in section 2801 of title 29)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

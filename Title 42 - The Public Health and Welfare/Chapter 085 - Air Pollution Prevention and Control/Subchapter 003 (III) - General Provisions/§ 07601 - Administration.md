@@ -2,7 +2,7 @@
 
 #### (a) Regulations; delegation of powers and duties; regional officers and employees
 
-(1) The Administrator is authorized to prescribe such regulations as are necessary to carry out his functions under this chapter. The Administrator may delegate to any officer or employee of the Environmental Protection Agency such of his powers and duties under this chapter, except the making of regulations subject to section 7607(d) of this title, as he may deem necessary or expedient.
+(1) The Administrator is authorized to prescribe such regulations as are necessary to carry out his functions under this chapter. The Administrator may delegate to any officer or employee of the Environmental Protection Agencysuch of his powers and duties under this chapter, except the making of regulations subject to section 7607(d) of this title, as he may deem necessary or expedient.
 
 (2) Not later than one year after August 7, 1977, the Administrator shall promulgate regulations establishing general applicable procedures and policies for regional officers and employees (including the Regional Administrator) to follow in carrying out a delegation under paragraph (1), if any. Such regulations shall be designed—
 
@@ -42,7 +42,9 @@ Payments under grants made under this chapter may be made in installments, and i
 
 (5) Until such time as the Administrator promulgates regulations pursuant to this subsection, the Administrator may continue to provide financial assistance to eligible Indian tribes under section 7405 of this title.
 
-(July 14, 1955, ch. 360, title III, §301, formerly §8, as added Pub. L. 88–206, §1, Dec. 17, 1963, 77 Stat. 400, renumbered Pub. L. 89–272, title I, §101(4), Oct. 20, 1965, 79 Stat. 992; amended Pub. L. 90–148, §2, Nov. 21, 1967, 81 Stat. 504; Pub. L. 91–604, §§3(b)(2), 15(c)(2), Dec. 31, 1970, 84 Stat. 1677, 1713;Pub. L. 95–95, title III, §305(e), Aug. 7, 1977, 91 Stat. 776; Pub. L. 101–549, title I, §§107(d), 108(i), Nov. 15, 1990, 104 Stat. 2464, 2467.)
+(July 14, 1955, ch. 360, title III, §301, formerly §8, as added Pub. L. 88–206, §1, Dec. 17, 1963, 77 Stat. 400, renumbered Pub. L. 89–272, title I, §101(4), Oct. 20, 1965, 79 Stat. 992; amended Pub. L. 90–148, §2, Nov. 21, 1967, 81 Stat. 504; Pub. L. 91–604, §§3(b)(2), 15(c)(2), Dec. 31, 1970, 84 Stat. 1677, 1713; Pub. L. 95–95, title III, §305(e), Aug. 7, 1977, 91 Stat. 776; Pub. L. 101–549, title I, §§107(d), 108(i), Nov. 15, 1990, 104 Stat. 2464, 2467.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -64,13 +66,15 @@ Subsec. (c). Pub. L. 91–604, §15(c)(2), substituted "Administrator" for "Secr
 
 <b>1967</b>—Pub. L. 90–148 reenacted section without change.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1977 Amendment
 
 Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d) of Pub. L. 95–95, set out as a note under section 7401 of this title.
 
 #### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
 
-All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to act July 14, 1955, the Clean Air Act, as in effect immediately prior to the date of enactment of Pub. L. 95–95 \[Aug. 7, 1977\] to continue in full force and effect until modified or rescinded in accordance with act July 14, 1955, as amended by Pub. L. 95–95 \[this chapter\], see section 406(b) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
+All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to act July 14, 1955, the Clean Air Act, as in effect immediately prior to the date of enactment of Pub. L. 95–95 \[Aug. 7, 1977\] to continue in full force and effect until modified or rescinded in accordance with act July14, 1955, as amended by Pub. L. 95–95 \[this chapter\], see section 406(b) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
 
 #### Disadvantaged Business Concerns; Use of Quotas Prohibited
 

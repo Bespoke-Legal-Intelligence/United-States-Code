@@ -24,7 +24,7 @@ Amounts in the Countering Russian Influence Fund shall be used to effectively im
 
 &emsp;(4) To improve participatory legislative processes and legal education, political transparency and competition, and compliance with international obligations in the countries described in paragraph (1).
 
-&emsp;(5) To build the capacity of civil society, media, and other nongovernmental organizations countering the influence and propagandaof the Russian Federation to combat corruption, prioritize access to truthful information, and operate freely in all regions in the countries described in paragraph (1).
+&emsp;(5) To build the capacity of civil society, media, and other nongovernmental organizations countering the influence and propaganda of the Russian Federation to combat corruption, prioritize access to truthful information, and operate freely in all regions in the countries described in paragraph (1).
 
 &emsp;(6) To assist the Secretary of State in executing the functions specified in section 1287(b) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 22 U.S.C. 2656 note) for the purposes of recognizing, understanding, exposing, and countering propaganda and disinformation efforts by foreign governments, in coordination with the relevant regional Assistant Secretary or Assistant Secretaries of the Department of State.
 
@@ -32,7 +32,7 @@ Amounts in the Countering Russian Influence Fund shall be used to effectively im
 
 #### (c) Revision of activities for which amounts may be used
 
-The Secretary of State may modify the goals described in subsection (b) if, not later than 15 days before revising such a goal, the Secretary notifies the appropriate congressional committees of the revision.
+The Secretary of State may modify the goals described in subsection (b) if, not later than 15days before revising such a goal, the Secretary notifies the appropriate congressional committees of the revision.
 
 #### (d) Implementation
 

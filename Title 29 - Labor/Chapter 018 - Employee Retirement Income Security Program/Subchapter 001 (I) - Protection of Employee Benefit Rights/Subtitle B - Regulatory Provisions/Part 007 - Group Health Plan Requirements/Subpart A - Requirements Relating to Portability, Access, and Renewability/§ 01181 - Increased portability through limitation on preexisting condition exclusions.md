@@ -22,7 +22,7 @@ For purposes of this part—
 
 #### (B) Treatment of genetic information
 
-&emsp;&emsp;Genetic information shall not be treated as a condition described in subsection (a)(1) in the absence of a diagnosis of the condition related to such information.
+&emsp;&emsp;Genetic information shall not be treated as a condition described in subsection (a)(1)in the absence of a diagnosis of the condition related to such information.
 
 #### (2) Enrollment date
 
@@ -110,7 +110,7 @@ For purposes of this part—
 
 #### (4) Establishment of period
 
-&emsp;Periods of creditable coverage with respect to an individual shall be established through presentation of certifications described in subsection (e) or in such other manner as may be specified in regulations.
+&emsp;Periods of creditable coverage with respect to an individual shall be established throughpresentation of certifications described in subsection (e) or in such other manner as may be specified in regulations.
 
 #### (d) Exceptions
 
@@ -178,7 +178,7 @@ For purposes of this part—
 
 &emsp;&emsp;(A) The employee or dependent was covered under a group health plan or had health insurance coverage at the time coverage was previously offered to the employee or dependent.
 
-&emsp;&emsp;(B) The employee stated in writing at such time that coverage under a group health plan or health insurance coverage was the reason for declining enrollment, but only if the plan sponsor or issuer (if applicable) required such a statement at such time and provided the employee with notice of such requirement (and the consequences of such requirement) at such time.
+&emsp;&emsp;(B) The employee stated in writing at such time that coverage under a group health plan or health insurance coverage was the reason for declining enrollment, but only ifthe plan sponsor or issuer (if applicable) required such a statement at such time and provided the employee with notice of such requirement (and the consequences of such requirement) at such time.
 
 &emsp;&emsp;(C) The employee's or dependent's coverage described in subparagraph (A)—
 
@@ -200,7 +200,7 @@ For purposes of this part—
 
 &emsp;&emsp;&emsp;(iii) a person becomes such a dependent of the individual through marriage, birth, or adoption or placement for adoption,
 
-> &emsp;&emsp;the group health plan shall provide for a dependent special enrollment period described in subparagraph (B) during which the person\(or, if not otherwise enrolled, the individual) may be enrolled under the plan as a dependent of the individual, and in the case of the birth or adoption of a child, the spouse of the individual may be enrolled as a dependent of the individual if such spouse is otherwise eligible for coverage.
+> &emsp;&emsp;the group health plan shall provide for a dependent special enrollment period described in subparagraph (B) during which the person (or, if not otherwise enrolled, the individual) may be enrolled under the plan as a dependent of the individual, and in the case of the birth or adoption of a child, the spouse of the individual may be enrolled as a dependent of the individual if such spouse is otherwise eligible for coverage.
 
 #### (B) Dependent special enrollment period
 
@@ -240,7 +240,7 @@ For purposes of this part—
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Each employer that maintains a group health plan in a State that provides medical assistance under a State Medicaid plan under title XIX of the Social Security Act, or child health assistance under a State child health plan under title XXI of such Act, in the form of premium assistance for the purchase of coverage under a group health plan, shall provide to each employee a written notice informing the employee of potential opportunities then currently available in the State in which the employee resides for premium assistance under such plans for health coverage of the employee or the employee's dependents.
+&emsp;&emsp;&emsp;&emsp;Each employer that maintains a group health plan in a State that provides medical assistance under a State Medicaid plan under title XIX of the Social Security Act, or child health assistance under a State child health plan under title XXI of such Act, in the form of premium assistance for the purchase of coverage under a group health plan, shall provide to each employee a written notice informing the employee of potential opportunities then currently available in the State in which the employee resides for premium assistance under such plans forhealth coverage of the employee or the employee's dependents.
 
 #### (II) Model notice
 
@@ -290,7 +290,7 @@ For purposes of this part—
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (c)(1)(C), (D), (f)(3)(A)(i), (B)(i)(I), (II), (ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (c)(1)(C), (D), (f)(3)(A)(i), (B)(i)(I), (II), (ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.) of subchapterXVIII of chapter 7 of Title 42, The Public Health and Welfare. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Section 311(b)(1)(C) of the Children's Health Insurance Program Reauthorization Act of 2009, referred to in subsec. (f)(3)(B)(ii), is section 311(b)(1)(C) of Pub. L. 111–3, which is set out as a note under this section.
 
@@ -320,7 +320,7 @@ Amendment by Pub. L. 111–344 applicable to plan years beginning after Dec. 31,
 
 #### Effective Date of 2009 Amendment
 
-Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 2271 of Title 19, Customs Duties.
+Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 2271 of Title 19, Customs Duties.
 
 Amendment by Pub. L. 111–5 applicable to plan years beginning after Feb. 17, 2009, see section 1899D(d) of Pub. L. 111–5, set out as a note under section 9801 of Title 26, Internal Revenue Code.
 
@@ -394,7 +394,7 @@ Timely regulations.—The Secretary of Labor, consistent with section 104 \[42 U
 
 "(5)
 
-Limitation on actions.—No enforcement action shall be taken, pursuant to the amendments made by this section, against a group health plan or health insurance issuer with respect to a violation of a requirement imposed by such amendments before January 1, 1998, or, if later, the date of issuance of regulations referred to in paragraph (4), if the plan or issuer has sought to comply in good faith with such requirements."
+Limitation on actions.—No enforcement action shall be taken, pursuant to the amendments made bythis section, against a group health plan or health insurance issuer with respect to a violation of a requirement imposed by such amendments before January 1, 1998, or, if later, the date of issuance of regulations referred to in paragraph (4), if the plan or issuer has sought to comply in good faith with such requirements."
 
 #### Working Group to Develop Model Coverage Coordination Disclosure Form
 

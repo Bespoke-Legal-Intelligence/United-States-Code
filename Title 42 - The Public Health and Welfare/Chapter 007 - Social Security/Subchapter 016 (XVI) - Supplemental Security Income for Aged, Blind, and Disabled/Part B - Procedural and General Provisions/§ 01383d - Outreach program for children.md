@@ -14,9 +14,13 @@ Under this program, the Commissioner of Social Security shall—
 
 (Aug. 14, 1935, ch. 531, title XVI, §1635, as added Pub. L. 101–239, title VIII, §8008(a), Dec. 19, 1989, 103 Stat. 2463; amended Pub. L. 103–296, title I, §107(a)(4), Aug. 15, 1994, 108 Stat. 1478.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsecs. (a), (b). Pub. L. 103–296 substituted "Commissioner of Social Security" for "Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

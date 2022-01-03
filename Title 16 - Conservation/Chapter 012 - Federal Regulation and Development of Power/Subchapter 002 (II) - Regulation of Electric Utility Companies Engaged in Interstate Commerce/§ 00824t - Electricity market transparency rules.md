@@ -34,13 +34,15 @@ The Commission shall not require entities who have a de minimis market presence 
 
 (1) Except as provided in paragraph (2), no person shall be subject to any civil penalty under this section with respect to any violation occurring more than 3 years before the date on which the person is provided notice of the proposed penalty under section 825o–1 of this title.
 
-(2) Paragraph (1) shall not apply in any case in which the Commission finds that a seller that has entered into a contract for the sale of electric energy at wholesale or transmission service subject to the jurisdiction of the Commission has engaged in fraudulent market manipulation activities materially affecting the contract in violation of section 824v of this title.
+(2) Paragraph (1) shall not apply in any case in which the Commission finds that a seller thathas entered into a contract for the sale of electric energy at wholesale or transmission service subject to the jurisdiction of the Commission has engaged in fraudulent market manipulation activities materially affecting the contract in violation of section 824v of this title.
 
 #### (f) ERCOT utilities
 
 This section shall not apply to a transaction for the purchase or sale of wholesale electric energy or transmission services within the area described in section 824k(k)(2)(A) of this title.
 
 (June 10, 1920, ch. 285, pt. II, §220, as added Pub. L. 109–58, title XII, §1281, Aug. 8, 2005, 119 Stat. 978.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

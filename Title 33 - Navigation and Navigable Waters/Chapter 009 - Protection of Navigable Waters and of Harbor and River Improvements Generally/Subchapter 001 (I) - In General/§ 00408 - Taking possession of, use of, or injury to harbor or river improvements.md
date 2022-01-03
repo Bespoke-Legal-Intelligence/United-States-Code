@@ -40,7 +40,7 @@ It shall not be lawful for any person or persons to take possession of or make u
 
 #### (1) Complete application
 
-&emsp;On or before the date that is 30 days after the date on which the Secretary receives anapplication for permission to take action affecting public projects pursuant to subsection (a), the Secretary shall inform the applicant whether the application is complete and, if it is not, what items are needed for the application to be complete.
+&emsp;On or before the date that is 30 days after the date on which the Secretary receives an application for permission to take action affecting public projects pursuant to subsection (a), the Secretary shall inform the applicant whether the application is complete and, if it is not, what items are needed for the application to be complete.
 
 #### (2) Decision
 

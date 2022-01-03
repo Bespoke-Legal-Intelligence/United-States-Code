@@ -18,9 +18,13 @@ Historical and Revision Notes
 
 July 14, 1939, ch. 267, §1 (last proviso); restated May 29, 1954, ch. 249, §19(b) (last proviso), 68 Stat. 166.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 3684 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

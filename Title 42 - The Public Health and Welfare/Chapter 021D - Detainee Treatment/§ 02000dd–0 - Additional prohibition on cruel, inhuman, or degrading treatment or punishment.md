@@ -14,6 +14,8 @@
 
 (Pub. L. 109–366, §6(c), Oct. 17, 2006, 120 Stat. 2635.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Military Commissions Act of 2006, and not as part of the Detainee Treatment Act of 2005 which comprises this chapter.

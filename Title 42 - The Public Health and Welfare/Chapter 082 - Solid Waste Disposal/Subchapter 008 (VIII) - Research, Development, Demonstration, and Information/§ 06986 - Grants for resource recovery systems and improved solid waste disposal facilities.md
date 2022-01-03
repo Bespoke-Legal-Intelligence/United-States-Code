@@ -52,9 +52,13 @@ A grant under this section—
 
 (Pub. L. 89–272, title II, §8006, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2838.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 3254b of this title, prior to the general amendment of the Solid Waste Disposal Act by Pub. L. 94–580.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

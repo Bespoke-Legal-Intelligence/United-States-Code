@@ -8,9 +8,13 @@
 
 (Pub. L. 90–448, title IX, §908, Aug. 1, 1968, 82 Stat. 550; Pub. L. 98–479, title I, §104(c)(3), Oct. 17, 1984, 98 Stat. 2225.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–479 designated existing provisions as par. (1) and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Reporting Requirements
 

@@ -22,6 +22,8 @@ Aug. 18, 1942, ch. 553, §7, 56 Stat. 747.
 
 The words "taking or" before "appropriation" and the words "taken or" before "appropriated" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior sections 8881 and 8882 were repealed by Pub. L. 85–155, title IV, §401(1), Aug. 21, 1957, 71 Stat. 390.
@@ -53,6 +55,8 @@ Section 8889, act Aug. 10, 1956, ch. 1041, 70A Stat. 548, provided that a member
 <b>2018</b>—Pub. L. 115–232, §807(d)(9), renumbered section 7681 of this title as this section.
 
 Subsec. (a). Pub. L. 115–232, §809(a), substituted "section 8852(a)" for "section 7652(a)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

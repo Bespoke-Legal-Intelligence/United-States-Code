@@ -1,6 +1,6 @@
 ### §1371. Reports
 
-Not later than 180 days after the end of each fiscal year, the Attorney General shall submit areport to the Inspector General of the Department of Justice and the Committees on the Judiciary of the House of Representatives and of the Senate describing the following:
+Not later than 180 days after the end of each fiscal year, the Attorney General shall submit a report to the Inspector General of the Department of Justice and the Committees on the Judiciary of the House of Representatives and of the Senate describing the following:
 
 #### (1) Public charge deportations
 

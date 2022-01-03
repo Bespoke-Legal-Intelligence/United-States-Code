@@ -94,7 +94,7 @@ Except as provided in this section, the Administrator shall not disclose informa
 
 #### (C) Additional requirements for claims regarding chemical identity information
 
-&emsp;&emsp;In the case of a claim under subparagraph (A) for protection from disclosure of a specific chemical identity, the claim shall include a structurally descriptive generic name for the chemical substance that the Administrator may disclose to the public, subject to the condition that such generic name shall—
+&emsp;&emsp;In the case of a claim under subparagraph (A) for protection from disclosure of a specific chemical identity, the claim shall include a structurally descriptive genericname for the chemical substance that the Administrator may disclose to the public, subject to the condition that such generic name shall—
 
 &emsp;&emsp;&emsp;(i) be consistent with guidance developed by the Administrator under paragraph (4)(A); and
 
@@ -244,7 +244,7 @@ Information described in subsection (a)—
 
 #### (C) No limit on number of extensions
 
-&emsp;&emsp;There shall be no limit on the number of extensions granted under this paragraph, if the Administrator determines that the relevant request under subparagraph (B)(i)—
+&emsp;&emsp;There shall be no limit on the number of extensions granted under this paragraph, ifthe Administrator determines that the relevant request under subparagraph (B)(i)—
 
 &emsp;&emsp;&emsp;(i) establishes the need to extend the period; and
 
@@ -380,7 +380,7 @@ Information described in subsection (a)—
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (C) and paragraph (2), an individual described in subparagraph (B) shall be fined under title 18 or imprisoned for not more than 1 year, or both.
+&emsp;&emsp;Subject to subparagraph (C) and paragraph (2), an individual described in subparagraph\(B) shall be fined under title 18 or imprisoned for not more than 1 year, or both.
 
 #### (B) Description
 
@@ -418,9 +418,13 @@ Notwithstanding any limitation contained in this section or any other provision 
 
 (Pub. L. 94–469, title I, §14, Oct. 11, 1976, 90 Stat. 2034; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 114–182, title I, §11, June 22, 2016, 130 Stat. 481.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Pub. L. 114–182 amended section generally. Prior to amendment, section related to disclosure of data.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

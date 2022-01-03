@@ -20,7 +20,7 @@
 
 > then such amount shall be treated by the Secretary for purposes of this subchapter as an amount appropriated for the following fiscal year to be allotted under section 8623 of this title for such following fiscal year.
 
-(2)(A) Any State may request that an amount allotted to such State for a fiscal year be held available for such State for the following fiscal year. Such request shall include a statement of the reasons that the amount allotted to such State for a fiscal year will not be used by such State during such fiscal year and a description of the types of assistance to be provided with the amount held available for the following fiscal year. Any amount so held available for the following fiscal year shall not be taken into account in computing the allotment of or the amount payable to such State for such fiscal year under this subchapter.
+(2)(A) Any State may request that an amount allotted to such State for a fiscal year be held available for such State for the following fiscal year. Such request shall include a statement of the reasons that the amount allotted to such State for a fiscal year will not be used by such State during such fiscal year and a description of the types of assistance to be provided withthe amount held available for the following fiscal year. Any amount so held available for the following fiscal year shall not be taken into account in computing the allotment of or the amount payable to such State for such fiscal year under this subchapter.
 
 (B) No amount may be held available under this paragraph for a State from a prior fiscal year to the extent such amount exceeds 10 percent of the amount payable to such State for such prior fiscal year. For purposes of the preceding sentence, the amount payable to a State for a fiscal year shall be determined without regard to any amount held available under this paragraph for such State for such fiscal year from the prior fiscal year.
 
@@ -29,6 +29,8 @@
 (3) During the 30-day period described in paragraph (1)(B), comments may be submitted to the Secretary. After considering such comments, the Secretary shall notify the chief executive officer of the State of any decision to reallot funds, and shall publish such decision in the Federal Register.
 
 (Pub. L. 97–35, title XXVI, §2607, Aug. 13, 1981, 95 Stat. 900; Pub. L. 98–558, title VI, §606, Oct. 30, 1984, 98 Stat. 2892; Pub. L. 101–501, title VII, §706, Nov. 3, 1990, 104 Stat. 1260; Pub. L. 103–252, title III, §310, May 18, 1994, 108 Stat. 661; Pub. L. 105–285, title III, §307, Oct. 27, 1998, 112 Stat. 2758.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -47,6 +49,8 @@ In subsec. (a)(1), "section 6503(a) of title 31" substituted for "section 203 of
 Subsec. (b)(2)(B). Pub. L. 98–558, §606(b), substituted "15 percent" for "25 percent", "payable to such State for such prior fiscal year and not transferred pursuant to section 8623(f) of this title" for "allotted to such State for such prior fiscal year", and "payable to a State but not transferred by the State" for "allotted to a State" in second sentence.
 
 Subsec. (b)(2)(C). Pub. L. 98–558, §606(c), added subpar. (C).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

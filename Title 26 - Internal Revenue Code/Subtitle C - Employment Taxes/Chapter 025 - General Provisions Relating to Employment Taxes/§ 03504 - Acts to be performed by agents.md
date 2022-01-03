@@ -4,11 +4,15 @@ In case a fiduciary, agent, or other person has the control, receipt, custody, o
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 471; Pub. L. 85–866, title I, §71, Sept. 2, 1958, 72 Stat. 1660; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" in three places.
 
 <b>1958</b>—Pub. L. 85–866 substituted "title" for "subtitle" in first sentence.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1958 Amendment
 

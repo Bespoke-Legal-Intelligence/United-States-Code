@@ -16,6 +16,8 @@ Subchapter B of chapter 63 (relating to deficiency procedure for income, estate,
 
 (Added Pub. L. 87–834, §20(c), Oct. 16, 1962, 76 Stat. 1062; amended Pub. L. 91–172, title I, §101(j)(54), Dec. 30, 1969, 83 Stat. 532; Pub. L. 93–406, title II, §1016(a)(22), Sept. 2, 1974, 88 Stat. 931; Pub. L. 97–248, title III, §340(b)(1), (2), title IV, §405(b), (c)(2), Sept. 3, 1982, 96 Stat. 634, 670; Pub. L. 97–448, title III, §306(c)(2), Jan. 12, 1983, 96 Stat. 2406; Pub. L. 105–34, title XI, §1143(b), Aug. 5, 1997, 111 Stat. 983; Pub. L. 108–357, title IV, §413(c)(29), Oct. 22, 2004, 118 Stat. 1509; Pub. L. 115–141, div. U, title IV, §401(a)(308), Mar. 23, 2018, 132 Stat. 1199.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a)(1). Pub. L. 115–141 substituted "section 6046 or 6046A" for "section 6046 and 6046A".
@@ -35,6 +37,8 @@ Subsec. (a). Pub. L. 97–248, §§340(b)(1), 405(b), as amended by Pub. L. 97�
 <b>1974</b>—Subsec. (b). Pub. L. 93–406 substituted "and certain excise" for "chapter 42".
 
 <b>1969</b>—Subsec. (b). Pub. L. 91–172 inserted reference to chapter 42 taxes.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

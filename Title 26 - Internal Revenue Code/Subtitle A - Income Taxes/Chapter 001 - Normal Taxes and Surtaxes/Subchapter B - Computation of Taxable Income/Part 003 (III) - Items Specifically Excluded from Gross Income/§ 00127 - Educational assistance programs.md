@@ -92,6 +92,8 @@ For purposes of this section—
 
 (Added Pub. L. 95–600, title I, §164(a), Nov. 6, 1978, 92 Stat. 2811; amended Pub. L. 98–611, §1(a)–(c), (d)(3)(B), (e), Oct. 31, 1984, 98 Stat. 3176–3178; Pub. L. 99–514, title XI, §§1114(b)(4), 1151(c)(4), (g)(3), 1162(a), Oct. 22, 1986, 100 Stat. 2450, 2503, 2507, 2510; Pub. L. 100–647, title I, §1011B(a)(31)(B), title IV, §4001(a), (b)(1), Nov. 10, 1988, 102 Stat. 3488, 3643; Pub. L. 101–140, title II, §203(a)(1), (2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VII, §§7101(a)(1), 7814(a), Dec. 19, 1989, 103 Stat. 2304, 2413; Pub. L. 101–508, title XI, §11403(a), (b), Nov. 5, 1990, 104 Stat. 1388–473; Pub. L. 102–227, title I, §103(a)(1), Dec. 11, 1991, 105 Stat. 1687; Pub. L. 103–66, title XIII, §13101(a)(1), Aug. 10, 1993, 107 Stat. 420; Pub. L. 104–188, title I, §1202(a), (b), Aug. 20, 1996, 110 Stat. 1772, 1773; Pub. L. 105–34, title II, §221(a), Aug. 5, 1997, 111 Stat. 818; Pub. L. 106–170, title V, §506(a), Dec. 17, 1999, 113 Stat. 1922; Pub. L. 107–16, title IV, §411(a), (b), June 7, 2001, 115 Stat. 63; Pub. L. 116–136, div. A, title II, §2206(a), Mar. 27, 2020, 134 Stat. 346; Pub. L. 116–260, div. EE, title I, §120(a), Dec. 27, 2020, 134 Stat. 3051.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 127 was renumbered section 140 of this title.
@@ -112,7 +114,7 @@ Subsecs. (d), (e). Pub. L. 107–16, §411(a), redesignated subsec. (e) as (d) a
 
 <b>1997</b>—Subsec. (d). Pub. L. 105–34 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: "This section shall not apply to taxable years beginning after May 31, 1997. In the case of any taxable year beginning in 1997, only expenses paid with respect to courses beginning before July 1, 1997, shall be taken into account in determining the amount excluded under this section."
 
-<b>1996</b>—Subsec. (c)(1). Pub. L. 104–188, §1202(b), in closing provisions, inserted before period at end ", and such term also does not include any payment for, orthe provision of any benefits with respect to, any graduate level course of a kind normally taken by an individual pursuing a program leading to a law, business, medical, or other advanced academic or professional degree".
+<b>1996</b>—Subsec. (c)(1). Pub. L. 104–188, §1202(b), in closing provisions, inserted before period at end ", and such term also does not include any payment for, or the provision of any benefits with respect to, any graduate level course of a kind normally taken by an individual pursuing a program leading to a law, business, medical, or other advanced academic or professional degree".
 
 Subsec. (d). Pub. L. 104–188, §1202(a), substituted "May 31, 1997. In the case of any taxable year beginning in 1997, only expenses paid with respect to courses beginning before July 1, 1997, shall be taken into account in determining the amount excluded under this section." for "December 31, 1994."
 
@@ -148,7 +150,7 @@ Subsec. (d). Pub. L. 100–647, §4001(a), substituted "1988" for "1987".
 
 Subsec. (b)(1). Pub. L. 99–514, §1151(c)(4)(A), added par. (1) and struck out former par (1) which read as follows: "For purposes of this section an educational assistance program is a separate written plan of an employer for the exclusive benefit of his employees to provide such employees with educational assistance. The program must meet the requirements of paragraphs (2) through (6) of this subsection."
 
-Subsec. (b)(2). Pub. L. 99–514, §1151(g)(3), substituted "For purposes of this paragraph, there may be excluded from consideration employees who may be excluded from consideration under section 89(h)." for "For purposes of this paragraph, there shall be excluded from consideration employees not included in the program who are included in a unit of employees covered by an agreement which the Secretary of Labor finds to be a collective bargaining agreement between employee representatives and one or more employers, if there is evidence that educational assistance benefits were the subject of good faith bargaining between such employee representatives and such employer or employers."
+Subsec. (b)(2). Pub. L. 99–514, §1151(g)(3), substituted "For purposes of this paragraph, there may be excludedfrom consideration employees who may be excluded from consideration under section 89(h)." for "For purposes of this paragraph, there shall be excluded from consideration employees not included in the program who are included in a unit of employees covered by an agreement which the Secretary of Labor finds to be a collective bargaining agreement between employee representatives and one or more employers, if there is evidence that educational assistance benefits were the subject of good faith bargaining between such employee representatives and such employer or employers."
 
 Pub. L. 99–514, §1114(b)(4), substituted "highly compensated employees (within the meaning of section 414(q))" for "officers, owners, or highly compensated,".
 
@@ -167,6 +169,8 @@ Subsec. (c)(8). Pub. L. 98–611, §1(c), added par. (8).
 Subsec. (d). Pub. L. 98–611, §1(a), substituted "December 31, 1985" for "December 31, 1983".
 
 Subsec. (e). Pub. L. 98–611, §1(d)(3)(B), added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 
@@ -296,7 +300,7 @@ Pub. L. 101–239, title VII, §7101(a)(2), Dec. 19, 1989, 103 Stat. 2304, provi
 
 #### Nonenforcement of Amendment Made by Section 1151 of Pub. L. 99–514 for Fiscal Year 1990
 
-No monies appropriated by Pub. L. 101–136 to be used to implement or enforce section 1151 of Pub. L. 99–514or the amendments made by such section, see section 528 of Pub. L. 101–136, set out as a note under section 89 of this title.
+No monies appropriated by Pub. L. 101–136 to be used to implement or enforce section 1151 of Pub. L. 99–514 or the amendments made by such section, see section 528 of Pub. L. 101–136, set out as a note under section 89 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

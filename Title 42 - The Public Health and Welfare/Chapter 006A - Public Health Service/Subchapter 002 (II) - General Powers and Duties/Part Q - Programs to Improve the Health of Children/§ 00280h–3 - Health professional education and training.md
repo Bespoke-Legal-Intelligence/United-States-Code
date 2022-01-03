@@ -16,6 +16,8 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 (July 1, 1944, ch. 373, title III, §399Z, as added Pub. L. 106–310, div. A, title XXIV, §2401, Oct. 17, 2000, 114 Stat. 1160.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Guide on Evidence-Based Strategies for Public Health Department Obesity Prevention Programs
 
 Pub. L. 116–260, div. BB, title III, §312, Dec. 27, 2020, 134 Stat. 2925, provided that:
@@ -32,7 +34,7 @@ Development and Dissemination of an Evidence-based Strategies Guide.—The Secre
 
 &emsp;&emsp;&emsp;"(i) optimal resources, including staffing and infrastructure, for promoting nutrition and obesity prevention and reduction; and
 
-&emsp;&emsp;&emsp;"(ii) strategies for effective obesity prevention programs for State, territorial, and local health departments, Indian Tribes, and Tribal organizations, including strategies related to—
+&emsp;&emsp;&emsp;"(ii) strategies for effective obesity prevention programs for State, territorial, and local healthdepartments, Indian Tribes, and Tribal organizations, including strategies related to—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the application of evidence-based and evidence-informed practices to prevent and reduce obesity rates;
 

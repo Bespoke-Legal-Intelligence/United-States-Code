@@ -28,9 +28,13 @@ In this section:
 
 (Pub. L. 116–92, div. E, title LVII, §5717, Dec. 20, 2019, 133 Stat. 2174.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 5703, referred to in subsecs. (a) and (c)(2), is section 5703 of Pub. L. 116–92, which is set out as a note below.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Study on Role of Retired and Former Personnel of Intelligence Community With Respect to Certain Foreign Intelligence Operations
 

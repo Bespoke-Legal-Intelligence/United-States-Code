@@ -48,7 +48,7 @@ In General.—At the times specified in subsection (b), the Director of National
 
 &emsp;&emsp;"(A) to provide support for—
 
-&emsp;&emsp;&emsp;"(i) any individual or entity designated for the imposition of sanctions for activities relating to international terrorism pursuant to an executiveorder or by the Office of Foreign Assets Control of the Department of the Treasury as of the date of the enactment of this Act \[Dec. 18, 2015\];
+&emsp;&emsp;&emsp;"(i) any individual or entity designated for the imposition of sanctions for activities relating to international terrorism pursuant to an executive order or by the Office of Foreign Assets Control of the Department of the Treasury as of the date of the enactment of this Act \[Dec. 18, 2015\];
 
 &emsp;&emsp;&emsp;"(ii) any organization designated by the Secretary of State as a foreign terrorist organization under section 219(a) of the Immigration and Nationality Act (8 U.S.C. 1189(a)) as of the date of the enactment of this Act;
 

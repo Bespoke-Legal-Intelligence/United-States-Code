@@ -6,6 +6,7 @@
 | :--- | :---: | ---: |
 | [<b>501.</b>](Part%20A%20-%20General/Chapter%20501%20-%20Policy%2C%20Studies%2C%20and%20Reports/README.md) | <b>Policy, Studies, and Reports</b> | <b>50101</b> |
 | [<b>503.</b>](Part%20A%20-%20General/Chapter%20503%20-%20Administrative/README.md) | <b>Administrative</b> | <b>50301</b> |
+| [<b>504.</b>](Part%20A%20-%20General/Chapter%20504%20-%20Committees/README.md) | <b>Committees</b> | <b>50401</b> |
 | [<b>505.</b>](Part%20A%20-%20General/Chapter%20505%20-%20Other%20General%20Provisions/README.md) | <b>Other General Provisions</b> | <b>50501</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -35,6 +36,7 @@
 | [<b>537.</b>](Part%20C%20-%20Financial%20Assistance%20Programs/Chapter%20537%20-%20Loans%20and%20Guarantees/README.md) | <b>Loans and Guarantees</b> | <b>53701</b> |
 | [<b>539.</b>](Part%20C%20-%20Financial%20Assistance%20Programs/Chapter%20539%20-%20War%20Risk%20Insurance/README.md) | <b>War Risk Insurance</b> | <b>53901</b> |
 | [<b>541.</b>](Part%20C%20-%20Financial%20Assistance%20Programs/Chapter%20541%20-%20Miscellaneous/README.md) | <b>Miscellaneous</b> | <b>54101</b> |
+| [<b>543.</b>](Part%20C%20-%20Financial%20Assistance%20Programs/Chapter%20543%20-%20Port%20Infrastructure%20Development%20Program/README.md) | <b>Port Infrastructure Development Program</b> | <b>54301</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -44,7 +46,7 @@
 | :--- | :---: | ---: |
 | [<b>551.</b>](Part%20D%20-%20Promotional%20Programs/Chapter%20551%20-%20Coastwise%20Trade/README.md) | <b>Coastwise Trade</b> | <b>55101</b> |
 | [<b>553.</b>](Part%20D%20-%20Promotional%20Programs/Chapter%20553%20-%20Passenger%20and%20Cargo%20Preferences/README.md) | <b>Passenger and Cargo Preferences</b> | <b>55301</b> |
-| [<b>555.</b>](Part%20D%20-%20Promotional%20Programs/Chapter%20555%20-%20Miscellaneous/README.md) | <b>Miscellaneous</b> | <b>55501</b> |
+| <b>\[555.</b> | <b>Transferred\]</b> |  |
 | [<b>556.</b>](Part%20D%20-%20Promotional%20Programs/Chapter%20556%20-%20Marine%20Highways/README.md) | <b>Short Sea Transportation </b><b><sup>1</sup></b> | <b>55601</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -81,7 +83,9 @@
 
 #### Amendments
 
-<b>2021</b>—Pub. L. 116–283, div. C, title XXXV, §3511(b), Jan. 1, 2021, 134 Stat. 4419, which directed amendment of this analysis by adding item for chapter 534 "at the end", was executed by adding the item for chapter 534 after the item for chapter 533 to reflect the probable intent of Congress.
+<b>2021</b>—Pub. L. 117–81, div. C, title XXXV, §§3512(c)(2), 3513(d), Dec. 27, 2021, 135 Stat. 2239, 2242, added items for chapters 504 and 543 and struck out item for chapter 555 "Miscellaneous".
+
+Pub. L. 116–283, div. C, title XXXV, §3511(b), Jan. 1, 2021, 134 Stat. 4419, which directed amendment of this analysis by adding item for chapter 534 "at the end", was executed by adding the item for chapter 534 after the item for chapter 533 to reflect the probable intent of Congress.
 
 <b>2019</b>—Pub. L. 116–92, div. C, title XXXV, §3521(b), Dec. 20, 2019, 133 Stat. 1997, added item for chapter 532.
 

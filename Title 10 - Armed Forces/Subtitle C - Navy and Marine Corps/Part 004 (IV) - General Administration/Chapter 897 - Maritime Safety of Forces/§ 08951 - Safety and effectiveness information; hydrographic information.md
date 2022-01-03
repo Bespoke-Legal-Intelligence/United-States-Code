@@ -18,6 +18,8 @@ Hydrographic Information.—The Secretary of the Navy shall collect, process, an
 
 (Added Pub. L. 112–81, div. A, title III, §363(a), Dec. 31, 2011, 125 Stat. 1379, §7921; renumbered §8951, Pub. L. 115–232, div. A, title VIII, §807(d)(16), Aug. 13, 2018, 132 Stat. 1837.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior sections 8961 to 8963 were renumbered sections 9341 to 9343 of this title, respectively.
@@ -31,6 +33,8 @@ Prior sections 8991 and 8992 were renumbered sections 9361 and 9362 of this titl
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7921 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

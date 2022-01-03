@@ -12,3 +12,4 @@
 - [Chapter 245 - Repealed](Chapter%20245%20-%20Repealed/README.md)
 - [Chapter 247 - Amtrak Route System](Chapter%20247%20-%20Amtrak%20Route%20System/README.md)
 - [Chapter 249 - Northeast Corridor Improvement Program](Chapter%20249%20-%20Northeast%20Corridor%20Improvement%20Program/README.md)
+- [Chapter 251 - Passenger Rail Planning](Chapter%20251%20-%20Passenger%20Rail%20Planning/README.md)

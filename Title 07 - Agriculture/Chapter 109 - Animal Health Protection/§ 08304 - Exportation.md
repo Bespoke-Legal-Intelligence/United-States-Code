@@ -4,7 +4,7 @@
 
 The Secretary may prohibit or restrict—
 
-&emsp;(1) the exportation of any animal, article, or means of conveyance if the Secretary determines that the prohibition or restriction is necessary to prevent the dissemination from or within the United States of any pest or disease of livestock;
+&emsp;(1) the exportation of any animal, article, or means of conveyance if the Secretary determines that the prohibition or restriction isnecessary to prevent the dissemination from or within the United States of any pest or disease of livestock;
 
 &emsp;(2) the exportation of any livestock if the Secretary determines that the livestock is unfit to be moved;
 
@@ -52,6 +52,8 @@ The Secretary may certify the classification, quality, quantity, condition, proc
 
 (Pub. L. 107–171, title X, §10405, May 13, 2002, 116 Stat. 497; Pub. L. 110–234, title XI, §11010(c), May 22, 2008, 122 Stat. 1360; Pub. L. 110–246, §4(a), title XI, §11010(c), June 18, 2008, 122 Stat. 1664, 2121; Pub. L. 113–79, title XII, §12101(c), Feb. 7, 2014, 128 Stat. 978.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 11010 of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (d)(1)(A), is section 11010 of Pub. L. 110–246, which amended this section and enacted provisions set out as a note below.
@@ -65,6 +67,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 <b>2014</b>—Subsec. (d)(1). Pub. L. 113–79 substituted "2018" for "2012" in subpars. (A) and (B).
 
 <b>2008</b>—Subsec. (d). Pub. L. 110–246, §11010(c), added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 
@@ -102,7 +106,7 @@ Regulations.—The Secretary shall issue final regulations to implement the prog
 
 &emsp;"(3)
 
-Report.—If final regulations are not published in accordance with paragraph (2) within 90 days of the date of the enactment of this Act, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report containing—
+Report.—If final regulations are not published in accordance with paragraph (2) within 90 days of the date of the enactment of this Act, the Secretary shall submit to the Committee on Agriculture of the Houseof Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report containing—
 
 &emsp;&emsp;"(A) an explanation of why the final regulations have not been issued in accordance with paragraph (2); and
 

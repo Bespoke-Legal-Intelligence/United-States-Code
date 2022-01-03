@@ -32,7 +32,7 @@ The Secretary shall, in accordance with section <sup>1</sup> 13541 and 13542 of
 
 &emsp;(B) It will increase the overall efficiency of the utilization of coal, including energy conversion efficiency and, where applicable, production of products derived from coal.
 
-&emsp;(C) It will be a more cost-effective technological alternative, based on life cycle capitaland operating costs per unit of energy produced and, where applicable, costs per unit of product produced.
+&emsp;(C) It will be a more cost-effective technological alternative, based on life cycle capital and operating costs per unit of energy produced and, where applicable, costs per unit of product produced.
 
 > Priority in selection shall be given to those projects which, in the judgment of the Secretary, best meet one or more of these criteria.
 
@@ -80,9 +80,13 @@ In carrying out research, development, demonstration, and commercial application
 
 (Pub. L. 102–486, title XIII, §1301, Oct. 24, 1992, 106 Stat. 2970.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Public Law 98–473, referred to in subsec. (c)(4), is Pub. L. 98–473, Oct. 12, 1984, 98 Stat. 1837, as amended. For complete classification of this Act to the Code, see Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

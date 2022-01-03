@@ -4,9 +4,13 @@ Not later than October 1, 2002, the Attorney General, in consultation with the F
 
 (Pub. L. 98–620, title II, §213, Nov. 8, 1984, 98 Stat. 3346; Pub. L. 107–179, §1, May 20, 2002, 116 Stat. 580.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Pub. L. 107–179 substituted "Not later than October 1, 2002" for "On October 1, 1987".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

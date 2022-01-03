@@ -56,7 +56,7 @@
 
 #### (1) In general
 
-&emsp;If, within 30 days after the day on which notice and demand of any penalty under subsection (a) or (b) is made against any person who is a tax return preparer, such person pays an amount which is not less than 15 percent of the amount of such penalty and files a claim for refund of the amount so paid, no levy or proceeding in court for the collection of the remainder of such penalty shall be made, begun, or prosecuted until the final resolution of a proceeding begun as provided in paragraph (2). Notwithstanding the provisions of section 7421(a), the beginning of such proceeding or levy during the time such prohibition is in force may be enjoined by a proceeding in the proper court. Nothing in this paragraph shall be construed to prohibit any counterclaim for the remainder of such penalty in a proceeding begun as provided in paragraph (2).
+&emsp;If, within 30 days after the day on which notice and demand of any penalty under subsection (a) or (b) is made against any person who is a tax return preparer, such person pays an amount which is not less than 15 percent of the amount of such penalty and files a claimfor refund of the amount so paid, no levy or proceeding in court for the collection of the remainder of such penalty shall be made, begun, or prosecuted until the final resolution of a proceeding begun as provided in paragraph (2). Notwithstanding the provisions of section 7421(a), the beginning of such proceeding or levy during the time such prohibition is in force may be enjoined by a proceeding in the proper court. Nothing in this paragraph shall be construed to prohibit any counterclaim for the remainder of such penalty in a proceeding begun as provided in paragraph (2).
 
 #### (2) Preparer must bring suit in district court to determine his liability for penalty
 
@@ -79,6 +79,8 @@ For purposes of this section, the term "understatement of liability" means any u
 &emsp;&emsp;<b>For definition of tax return preparer, see section 7701(a)(36).</b>
 
 (Added Pub. L. 94–455, title XII, §1203(b)(1), Oct. 4, 1976, 90 Stat. 1689; amended Pub. L. 101–239, title VII, §§7732(a), 7737(a), Dec. 19, 1989, 103 Stat. 2402, 2404; Pub. L. 110–28, title VIII, §8246(a)(2)(F)(i), (b), May 25, 2007, 121 Stat. 201, 203; Pub. L. 110–343, div. C, title V, §506(a), Oct. 3, 2008, 122 Stat. 3880; Pub. L. 114–113, div. Q, title II, §210(a), Dec. 18, 2015, 129 Stat. 3085.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -118,11 +120,13 @@ Subsec. (e). Pub. L. 110–28, §8246(a)(2)(F)(i)(IV), substituted "this title" 
 
 Subsec. (f). Pub. L. 110–28, §8246(a)(2)(F)(i)(V), substituted "tax return preparer" for "income tax return preparer".
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–239, §7732(a), substituted "Understatements due to unrealistic positions" for "Negligent or intentional disregard of rules and regulations" in heading and amended text generally. Prior to amendment, text read as follows: "If any part of any understatement of liability with respect to any return or claim for refund is due to the negligent or intentional disregard of rules and regulations by any person who is an income tax return preparer with respect to such return or claim, such person shall pay a penalty of $100 with respect to such return or claim."
+<b>1989</b>—Subsec. (a). Pub. L. 101–239, §7732(a), substituted "Understatements due to unrealistic positions" for "Negligent or intentional disregard of rules and regulations" in heading and amended text generally. Prior to amendment, text read as follows: "If any part of any understatement of liability with respect to any return or claim for refund is due to the negligent or intentional disregard of rules and regulations by any personwho is an income tax return preparer with respect to such return or claim, such person shall pay a penalty of $100 with respect to such return or claim."
 
 Subsec. (b). Pub. L. 101–239, §7732(a), substituted "Willful or reckless conduct" for "Willful understatement of liability" in heading and amended text generally. Prior to amendment, text read as follows: "If any part of any understatement of liability with respect to any return or claim for refund is due to a willful attempt in any manner to understate the liability for a tax by a person who is an income tax return preparer with respect to such return or claim, such person shall pay a penalty of $500 with respect to such return or claim. With respect to any return or claim, the amount of the penalty payable by any person by reason of this subsection shall be reduced by the amount of the penalty paid by such person by reason of subsection (a)."
 
 Subsec. (c)(1). Pub. L. 101–239, §7737(a), inserted at end "Nothing in this paragraph shall be construed to prohibit any counterclaim for the remainder of such penalty in a proceeding begun as provided in paragraph (2)."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

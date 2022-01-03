@@ -16,7 +16,7 @@ Subsection (a) shall not apply to—
 
 &emsp;(4) a sale of a commodity that has substantially deteriorated in quality or as to which there is a danger of loss or waste through deterioration or spoilage;
 
-&emsp;(5) a sale for the purpose of establishing a claim arising out of a contract or against aperson who has committed fraud, misrepresentation, or other wrongful act with respect to the commodity;
+&emsp;(5) a sale for the purpose of establishing a claim arising out of a contract or against a person who has committed fraud, misrepresentation, or other wrongful act with respect to the commodity;
 
 &emsp;(6) a sale for export, as determined by the Corporation; and
 
@@ -45,6 +45,8 @@ Subsection (a) shall not apply to—
 Subsection (a) shall not apply to the sale of a commodity the disposition of which is desirable in the interest of the effective and efficient conduct of the operations of the Corporation because of the small quantity of the commodity involved, or because of the age, location, or questionable continued storability of the commodity.
 
 (Pub. L. 104–127, title I, §165, Apr. 4, 1996, 110 Stat. 936.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -6,7 +6,7 @@
 
 (c)(1) If a board of inquiry determines that the officer has failed to establish that he should be retained on active duty, it shall recommend to the Secretary concerned that the officer not be retained on active duty.
 
-(2) Under regulations prescribed by the Secretary concerned, an officer as to whom a board of inquiry makes a recommendation under paragraph (1) that the officer not be retained on active duty may be required to take leave pending the completion of the officer's case under this chapter. The officer may be required to beginsuch leave at any time following the officer's receipt of the report of the board of inquiry, including the board's recommendation for removal from active duty, and the expiration of any period allowed for submission by the officer of a rebuttal to that report. The leave may be continued until the date on which action by the Secretary concerned on the officer's case is completed or may be terminated at any earlier time.
+(2) Under regulations prescribed by the Secretary concerned, an officer as to whom a board of inquiry makes a recommendation under paragraph (1) that the officer not be retained on active duty may be required to take leave pending the completion of the officer's case under this chapter. The officer may be required to begin such leave at any time following the officer's receipt of the report of the board of inquiry, including the board's recommendation for removal from active duty, and the expiration of any period allowed for submission by the officer of a rebuttal to that report. The leave may be continued until the date on which action by the Secretary concerned on the officer's case is completed or may be terminated at any earlier time.
 
 (d)(1) If a board of inquiry determines that the officer has established that he should be retained on active duty, the officer's case is closed.
 
@@ -18,6 +18,8 @@
 
 (Added Pub. L. 96–513, title I, §110, Dec. 12, 1980, 94 Stat. 2872; amended Pub. L. 105–261, div. A, title V, §503(b)(1), Oct. 17, 1998, 112 Stat. 2003; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(d)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–292; Pub. L. 107–314, div. A, title V, §506(a), Dec. 2, 2002, 116 Stat. 2534.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (c). Pub. L. 107–314 designated existing provisions as par. (1) and added par. (2).
@@ -25,6 +27,8 @@
 <b>2000</b>—Subsec. (c). Pub. L. 106–398 made technical correction to directory language of Pub. L. 105–261, §503(b)(1). See 1998 Amendment note below.
 
 <b>1998</b>—Subsec. (c). Pub. L. 105–261, §503(b)(1), as amended by Pub. L. 106–398, substituted "recommend to the Secretary concerned that the officer not be retained on active duty" for "send the record of its proceedings to a board of review convened under section 1183 of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

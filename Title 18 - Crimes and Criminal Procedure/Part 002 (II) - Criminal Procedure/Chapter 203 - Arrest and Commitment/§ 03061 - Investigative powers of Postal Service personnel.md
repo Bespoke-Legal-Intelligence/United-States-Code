@@ -32,7 +32,7 @@
 
 &emsp;(A) serve warrants and subpoenas issued under the authority of the United States; and
 
-&emsp;(B) conduct investigations, on and off the property in question, of offenses that mayhave been committed against property owned or occupied by the Postal Service or persons on the property.
+&emsp;(B) conduct investigations, on and off the property in question, of offenses that may have been committed against property owned or occupied by the Postal Service or persons on the property.
 
 (4)(A) As to such property, the Postmaster General may prescribe regulations necessary for the protection and administration of property owned or occupied by the Postal Service and persons on the property. The regulations may include reasonable penalties, within the limits prescribed in subparagraph (B), for violations of the regulations. The regulations shall be posted and remain posted in a conspicuous place on the property.
 

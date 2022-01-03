@@ -42,7 +42,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall carry out a program of research, development, demonstration, andcommercial application to support advanced reactor technologies.
+&emsp;The Secretary shall carry out a program of research, development, demonstration, and commercial application to support advanced reactor technologies.
 
 #### (2) Requirements
 
@@ -165,6 +165,8 @@
 &emsp;&emsp;(E) $40,000,000 for fiscal year 2025.
 
 (Pub. L. 109–58, title IX, §952, Aug. 8, 2005, 119 Stat. 885; Pub. L. 115–248, §2(b)(1), Sept. 28, 2018, 132 Stat. 3155; Pub. L. 116–260, div. Z, title II, §2003(a), Dec. 27, 2020, 134 Stat. 2459.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

@@ -102,6 +102,8 @@ The Federal Fund, and any nonliquid asset (such as a building or equipment) deve
 
 (Pub. L. 89–329, title IV, §422A, as added Pub. L. 105–244, title IV, §413(a), Oct. 7, 1998, 112 Stat. 1674; amended Pub. L. 110–315, title IV, §438(a)(1), Aug. 14, 2008, 122 Stat. 3258.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1078(c)(6)(A) of this title, referred to in subsec. (c)(2)(A), was redesignated section 1078(c)(6)(A)(i) of this title by Pub. L. 109–171, title VIII, §8014(d)(3)(A), (B), Feb. 8, 2006, 120 Stat. 170.
@@ -109,6 +111,8 @@ Section 1078(c)(6)(A) of this title, referred to in subsec. (c)(2)(A), was redes
 #### Amendments
 
 <b>2008</b>—Subsec. (d)(1). Pub. L. 110–315 substituted "and 1087" for "1087, and 1087–2(q)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

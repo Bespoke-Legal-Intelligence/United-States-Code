@@ -126,9 +126,9 @@ The head of any Federal agency that owns, leases, or operates a building or hous
 
 (2) Within 10 years after October 26, 1992, each Federal agency providing housing to Federal employees or housing assistance shall submit a report to Congress on the progress of that agency in implementing subsection (c) and on plans for continuing such implementation.
 
-(3)(A) The National Institute of Standards and Technology shall conduct a study and submit a report to Congress on the use, in combination, of fire detection systems, fire suppression systems, and compartmentation. Such study shall—
+(3)(A) The National Institute of Standards and Technology shall conduct a study and submit a report to Congress on the use, in combination, offire detection systems, fire suppression systems, and compartmentation. Such study shall—
 
-&emsp;(i) quantify performance and reliability for fire detection systems, fire suppression systems, and compartmentation, including a fieldassessment of performance and determination of conditions under which a reduction or elimination of 1 or more of those systems would result in an unacceptable risk of fire loss; and
+&emsp;(i) quantify performance and reliability for fire detection systems, fire suppression systems, and compartmentation, including a field assessment of performance and determination of conditions under which a reduction or elimination of 1 or more of those systems would result in an unacceptable risk of fire loss; and
 
 &emsp;(ii) include a comparative analysis and compartmentation using fire resistive materials and compartmentation using noncombustible materials.
 
@@ -139,6 +139,8 @@ The head of any Federal agency that owns, leases, or operates a building or hous
 In the implementation of this section, the process for meeting space needs in urban areas shall continue to give first consideration to a centralized community business area and adjacent areas of similar character to the extent of any Federal requirement therefor.
 
 (Pub. L. 93–498, §31, as added Pub. L. 102–522, title I, §106(a), Oct. 26, 1992, 106 Stat. 3412; amended Pub. L. 103–254, §6, May 19, 1994, 108 Stat. 682; Pub. L. 104–316, title I, §107, Oct. 19, 1996, 110 Stat. 3832; Pub. L. 105–108, §3(4), (5), Nov. 20, 1997, 111 Stat. 2264.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -157,6 +159,8 @@ Subsec. (c)(2)(B)(ii). Pub. L. 105–108, §3(5), inserted "or any successor sta
 <b>1994</b>—Subsec. (c)(1)(A). Pub. L. 103–254, §6(1), substituted "Except as otherwise provided in this paragraph, no Federal" for "No Federal".
 
 Subsec. (c)(1)(C), (D). Pub. L. 103–254, §6(2), added subpars. (C) and (D).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

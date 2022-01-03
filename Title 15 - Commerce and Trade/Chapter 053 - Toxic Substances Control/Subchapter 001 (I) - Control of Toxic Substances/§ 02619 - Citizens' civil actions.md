@@ -48,6 +48,8 @@ When two or more civil actions brought under subsection (a) involving the same d
 
 (Pub. L. 94–469, title I, §20, Oct. 11, 1976, 90 Stat. 2041; renumbered title I and amended Pub. L. 99–519, §3(b)(3), (c)(1), Oct. 22, 1986, 100 Stat. 2989; Pub. L. 102–550, title X, §1021(b)(9), Oct. 28, 1992, 106 Stat. 3923; Pub. L. 114–182, title I, §§15, 19(n), June 22, 2016, 130 Stat. 498, 509.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 Subsec. (a)(1). Pub. L. 114–182, §19(n), substituted "order issued under section 2603 or 2604 of this title" for "order issued under section 2604 of this title".
@@ -57,6 +59,8 @@ Subsec. (b)(2), (3). Pub. L. 114–182, §15, substituted ", except that no pri
 <b>1992</b>—Subsec. (a)(1). Pub. L. 102–550 substituted "subchapter II or IV" for "subchapter II" in two places.
 
 <b>1986</b>—Subsec. (a)(1). Pub. L. 99–519 inserted references to subchapter II of this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

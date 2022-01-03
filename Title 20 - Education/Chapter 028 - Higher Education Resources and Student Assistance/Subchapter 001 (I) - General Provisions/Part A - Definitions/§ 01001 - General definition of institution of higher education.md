@@ -28,9 +28,11 @@ For purposes of this chapter, other than subchapter IV, the term "institution of
 
 #### (c) List of accrediting agencies
 
-For purposes of this section and section 1002 of this title, the Secretary shall publish a list of nationally recognized accrediting agencies or associations that the Secretary determines, pursuant to subpart 2 of part H of subchapter IV, to be reliable authority as to the quality of the education or training offered.
+For purposes of this section and section 1002 of this title, the Secretary shall publish a list ofnationally recognized accrediting agencies or associations that the Secretary determines, pursuant to subpart 2 of part H of subchapter IV, to be reliable authority as to the quality of the education or training offered.
 
 (Pub. L. 89–329, title I, §101, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1585; amended Pub. L. 110–315, title I, §101(a), Aug. 14, 2008, 122 Stat. 3083; Pub. L. 112–74, div. F, title III, §309(c)(3), Dec. 23, 2011, 125 Stat. 1101.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -42,7 +44,7 @@ Another prior section 1001, Pub. L. 89–329, title I, §101, as added Pub. L. 9
 
 Another prior section 1001, Pub. L. 89–329, title I, §101, as added Pub. L. 96–374, title I, §101(a), Oct. 3, 1980, 94 Stat. 1373, stated Congressional findings with respect to continuing postsecondary education program and planning, prior to the general amendment of this subchapter by Pub. L. 99–498.
 
-Another prior section 1001, Pub. L. 89–329, title I, §101, Nov. 8, 1965, 79 Stat. 1219; Pub. L. 90–575, title II, §201, Oct. 16, 1968, 82 Stat. 1035; Pub. L. 92–318, title I, §101(a), June 23, 1972, 86 Stat. 236; Pub. L. 94–482, title I, §101(a), Oct. 12, 1976, 90 Stat. 2083; Pub. L. 96–49, §2, Aug. 13, 1979, 93 Stat. 351, authorized appropriations for thecommunity service, continuing education, and lifelong learning program grant programs through fiscal year 1980, prior to the general amendment of this subchapter by Pub. L. 96–374.
+Another prior section 1001, Pub. L. 89–329, title I, §101, Nov. 8, 1965, 79 Stat. 1219; Pub. L. 90–575, title II, §201, Oct. 16, 1968, 82 Stat. 1035; Pub. L. 92–318, title I, §101(a), June 23, 1972, 86 Stat. 236; Pub. L. 94–482, title I, §101(a), Oct. 12, 1976, 90 Stat. 2083; Pub. L. 96–49, §2, Aug. 13, 1979, 93 Stat. 351, authorized appropriations for the community service, continuing education, and lifelong learning program grant programs through fiscal year 1980, prior to the general amendment of this subchapter by Pub. L. 96–374.
 
 #### Amendments
 
@@ -53,6 +55,8 @@ Another prior section 1001, Pub. L. 89–329, title I, §101, Nov. 8, 1965, 79 S
 Subsec. (a)(3). Pub. L. 110–315, §101(a)(1)(B), inserted ", or awards a degree that is acceptable for admission to a graduate or professional degree program, subject to review and approval by the Secretary" before semicolon at end.
 
 Subsec. (b)(2). Pub. L. 110–315, §101(a)(2), added par. (2) and struck out former par. (2) which read as follows: "a public or nonprofit private educational institution in any State that, in lieu of the requirement in subsection (a)(1) of this section, admits as regular students persons who are beyond the age of compulsory school attendance in the State in which the institution is located."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 
@@ -98,7 +102,7 @@ Pub. L. 96–374, title XIII, §1393, Oct. 3, 1980, 94 Stat. 1504, provided that
 
 "(2) The amendment made by section 404(c)(4) of this Act to section 415C(b)(4) of the Act \[amending section 1070c–2 of this title\] shall be effective October 1, 1979.
 
-"(3) The amendment made by section 405 to subpart 4 of part A of title IV of the Act \[amending subpart 4 of part A of subchapter IV of this chapter generally\] shall take effect October 1, 1981.
+"(3) The amendment made by section 405 to subpart 4 of part A of title IV of the Act \[amending subpart 4of part A of subchapter IV of this chapter generally\] shall take effect October 1, 1981.
 
 "(4) The amendments made by part B of title IV of this Act \[enacting sections 1077a, 1078–2, 1083a, and 1087–1a of this title and amending sections 1074, 1075, 1077, 1078, 1078–1, 1080, 1082, 1085, 1087–1, and 1087–2 of this title\] shall take effect, except as otherwise provided therein, on January 1, 1981, and to the extent such amendments make changes in such part B which affect student loans, such changes shall apply to outstanding loans as well as to loans made after the amendments take effect, except that the amendments made by section 415(b) \[amending sections 1077(a)(2)(B) and 1078(b)(1)(E) of this title\] shall apply with respect to any loan to cover the cost of instruction for any period of instruction beginning on or after January 1, 1981, to any student borrower who has no outstanding balance of principal or interest on any loan made, insured, or guaranteed under part B of title IV of the Higher Education Act of 1965 \[part B of subchapter IV of this chapter\] on the date on which the borrower enters into the note or other written evidence of the loan.
 
@@ -114,9 +118,13 @@ Pub. L. 94–482, title V, §532, Oct. 12, 1976, 90 Stat. 2241, provided that: "
 
 &emsp;"(2) that each amendment made by this Act (not subject to clause (1) of this section) providing for authorization of appropriations shall take effect July 1, 1976."
 
+#### Short Title of 2021 Amendment
+
+Pub. L. 117–49, §1, Oct. 13, 2021, 135 Stat. 402, provided that: "This Act \[amending section 1070g–2 of this title, enacting provisions set out as notes under this section and section 1070g–2 of this title, and amending provisions set out as a note under this section\] may be cited as the 'Consider Teachers Act of 2021'."
+
 #### Short Title of 2020 Amendment
 
-Pub. L. 116–270, §1, Dec. 31, 2020, 134 Stat. 3325, provided that: "This Act \[enacting sections 1063d and 1063eof this title and enacting provisions set out as notes under section 1063d of this title\] may be cited as the 'HBCU Propelling Agency Relationships Towards a New Era of Results for Students Act' or the 'HBCU PARTNERS Act'."
+Pub. L. 116–270, §1, Dec. 31, 2020, 134 Stat. 3325, provided that: "This Act \[enacting sections 1063d and 1063e of this title and enacting provisions set out as notes under section 1063d of this title\] may be cited as the 'HBCU Propelling Agency Relationships Towards a New Era of Results for Students Act' or the 'HBCU PARTNERS Act'."
 
 Pub. L. 116–260, div. FF, title VII, §701(a), Dec. 27, 2020, 134 Stat. 3137, provided that: "This title \[see Tables for classification\] may be cited as the 'FAFSA Simplification Act'."
 
@@ -156,7 +164,7 @@ Pub. L. 110–84, §1(a), Sept. 27, 2007, 121 Stat. 784, provided that: "This Ac
 
 Pub. L. 110–51, §1, July 31, 2007, 121 Stat. 263, provided that: "This Act \[enacting and amending provisions set out as notes under this section\] may be cited as the 'Second Higher Education Extension Act of 2007'."
 
-Pub. L. 110–44, §1, July 3, 2007, 121 Stat. 238, provided that: "This Act \[enacting and amending provisions set out as notes under this section\] may be cited as the 'First Higher Education Extension Act of 2007'."
+Pub. L. 110–44, §1, July 3, 2007, 121 Stat. 238, provided that: "This Act \[enacting and amending provisions setout as notes under this section\] may be cited as the 'First Higher Education Extension Act of 2007'."
 
 #### Short Title of 2006 Amendment
 
@@ -178,7 +186,7 @@ Pub. L. 109–66, §1, Sept. 21, 2005, 119 Stat. 1999, provided that: "This Act 
 
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–409, §1, Oct. 30, 2004, 118 Stat. 2299, provided that: "This Act \[amending sections 1078–10,1087–1, and 1087j of this title and enacting provisions set out as notes under section 1078–10 of this title\] may be cited as the 'Taxpayer-Teacher Protection Act of 2004'."
+Pub. L. 108–409, §1, Oct. 30, 2004, 118 Stat. 2299, provided that: "This Act \[amending sections 1078–10, 1087–1, and 1087j of this title and enacting provisions set out as notes under section 1078–10 of this title\] may be cited as the 'Taxpayer-Teacher Protection Act of 2004'."
 
 #### Short Title of 2000 Amendments
 
@@ -238,7 +246,7 @@ Pub. L. 100–50, §1(a), June 3, 1987, 101 Stat. 335, provided that: "This Act 
 
 Pub. L. 99–498, §1, Oct. 17, 1986, 100 Stat. 1268, provided that: "This Act \[see Tables for classification\] may be cited as the 'Higher Education Amendments of 1986'."
 
-Pub. L. 99–320, §1, May 23, 1986, 100 Stat. 491, provided: "That this Act \[amending sections 1078 and 1080a of this title and a provision set out as a note under section1072 of this title\] may be cited as the 'Student Financial Assistance Technical Corrections Act of 1986'."
+Pub. L. 99–320, §1, May 23, 1986, 100 Stat. 491, provided: "That this Act \[amending sections 1078 and 1080a of this title and a provision set out as a note under section 1072 of this title\] may be cited as the 'Student Financial Assistance Technical Corrections Act of 1986'."
 
 Pub. L. 99–272, title XVI, §16001(a), Apr. 7, 1986, 100 Stat. 339, provided that: "This title \[enacting sections 1078–3, 1080a, and 1091a of this title, amending sections 1072, 1074, 1075, 1077, 1078, 1080, 1082, 1083a, 1085, 1087–1, 1087–2, 1087cc, 1087cc–1, 1087dd, 1087gg, 1089, 1091, and 1094 of this title, enacting provisions set out as notes under sections 1072, 1078, and 1078–3 of this title, and amending provisions set out as a note under section 1078 of this title\] may be cited as the 'Student Financial Assistance Amendments of 1985'."
 
@@ -268,7 +276,7 @@ Pub. L. 96–49, §1, Aug. 13, 1979, 93 Stat. 351, provided: "That this Act \[en
 
 Pub. L. 95–566, §1, Nov. 1, 1978, 92 Stat. 2402, provided: "That this Act \[enacting section 1087–3a of this title, amending sections 1070a, 1070c–2, 1070d–1, 1075, 1077, 1078, 1088 and 1088f of this title, and enacting provisions set out as a note under this section\] may be cited as the 'Middle Income Student Assistance Act'."
 
-Pub. L. 95–336, §1, Aug. 4, 1978, 92 Stat. 451, provided: "That this Act \[amending section 1070e–1 of this title, sections 1001, 1002, and 1007 of Title 21, Food and Drugs, and former section 246 of Title 38, Veterans' Benefits, and enacting provisions set out as a note under section 1070e–1 of this title\] may be cited as the 'Alcohol and Drug Abuse Education Amendments of 1978'."
+Pub. L. 95–336, §1, Aug. 4, 1978, 92 Stat. 451, provided: "That this Act \[amending section 1070e–1 of this title, sections 1001, 1002, and 1007 of Title 21, Food and Drugs,and former section 246 of Title 38, Veterans' Benefits, and enacting provisions set out as a note under section 1070e–1 of this title\] may be cited as the 'Alcohol and Drug Abuse Education Amendments of 1978'."
 
 #### Short Title of 1976 Amendments
 
@@ -282,7 +290,7 @@ Pub. L. 92–318, §1, June 23, 1972, 86 Stat. 235, provided: "That this Act \[e
 
 #### Short Title of 1968 Amendment
 
-Pub. L. 90–575, §1, Oct. 16, 1968, 82 Stat. 1014, provided: "That this Act \[enacting sections 451 to 455, 746, 1056,1060, 1087, 1087a to 1087c, 1088 to 1088c, 1089, 1119a–1, 1129a, 1133 to 1133b, 1134 to 1134l, 1135, 1135a, 1135b, 1135c, 1136 to 1136b, 1145, 1146 to 1150 of this title, amending this section and sections 403, 421 to 425, 425 note, 426, 441 to 445, 462 to 464, 481 to 484, 511, 513, 562, 581, 584, 588, 591, 711, 713 to 718, 731, 732, 743, 751, 758, 961, 1005, 1006, 1021 to 1024, 1031, 1033, 1041, 1051, 1061, 1062, 1065 to 1068, 1071 to 1075, 1077, 1078, 1080, 1083 to 1086, 1091c, 1101, 1104, 1108 to 1111, 1113, 1114, 1115, 1118, 1119a, 1119b–2, 1121, 1124, 1125, 1141, 1142, 1143, 1144 and 1176 of this title, section 1464 of Title 12, Banks and Banking, and sections 2741, 2751 to 2756, and 2809 of Title 42, The Public Health and Welfare, repealing sections 733, 981 to 996 of this title, and section 2757 of Title 42, and enacting provisions set out as notes under this section and sections 423 to 425, 445, 462 to 464, 588, 713, 716 to 718, 743, 751, 981, 1006, 1022, 1024, 1051, 1056, 1060, 1067, 1071, 1077, 1078, 1083, 1088b, and 1109 of this title, and sections 2751, 2753, 2754, and 2809 of Title 42\] may be cited as the 'Higher Education Amendments of 1968'."
+Pub. L. 90–575, §1, Oct. 16, 1968, 82 Stat. 1014, provided: "That this Act \[enacting sections 451 to 455, 746, 1056, 1060, 1087, 1087a to 1087c, 1088 to 1088c, 1089, 1119a–1, 1129a, 1133 to 1133b, 1134 to 1134l, 1135, 1135a, 1135b, 1135c, 1136 to 1136b, 1145, 1146 to 1150 of this title, amending this section and sections 403, 421 to 425, 425 note, 426, 441 to 445, 462 to 464, 481 to 484, 511, 513, 562, 581, 584, 588, 591, 711, 713 to 718, 731, 732, 743, 751, 758, 961, 1005, 1006, 1021 to 1024, 1031, 1033, 1041, 1051, 1061, 1062, 1065 to 1068, 1071 to 1075, 1077, 1078, 1080, 1083 to 1086, 1091c, 1101, 1104, 1108 to 1111, 1113, 1114, 1115, 1118, 1119a, 1119b–2, 1121, 1124, 1125, 1141, 1142, 1143, 1144 and 1176 of this title, section 1464 of Title 12, Banks and Banking, and sections 2741, 2751 to 2756, and 2809 of Title 42, The Public Health and Welfare, repealing sections 733, 981 to 996 of this title, and section 2757 of Title 42, and enacting provisions set out as notes under this section and sections 423 to 425, 445, 462 to 464, 588, 713, 716 to 718, 743, 751, 981, 1006, 1022, 1024, 1051, 1056, 1060, 1067, 1071, 1077, 1078, 1083, 1088b, and 1109 of this title, and sections 2751, 2753, 2754, and 2809 of Title 42\] may be cited as the 'Higher Education Amendments of 1968'."
 
 #### Short Title of 1966 Amendment
 
@@ -364,7 +372,7 @@ Effective Date.—Notwithstanding section 701(b) \[set out as a note above\], th
 
 #### COVID–19 Pandemic Education Relief
 
-Pub. L. 116–136, div. A, title III, §§3502–3510, 3512, 3513, 3517–3519, Mar. 27, 2020, 134 Stat. 395–399, 403, 404, 408, 409, as amended by Pub. L. 116–260, div. FF, title I, §101(a), Dec. 27, 2020, 134 Stat. 3082, provided that:
+Pub. L. 116–136, div. A, title III, §§3502–3510, 3512, 3513, 3517–3519, Mar. 27, 2020, 134 Stat. 395–399, 403, 404, 408, 409, as amended by Pub. L. 116–260, div. FF, title I, §101(a), Dec. 27, 2020, 134 Stat. 3082; Pub. L. 117–49, §4(a), (b), Oct. 13, 2021, 135 Stat. 404, 405, provided that:
 
 #### "SEC. 3502. DEFINITIONS.
 
@@ -432,7 +440,7 @@ Special Rule.—Any emergency financial aid grants to students under this sectio
 
 "(a)
 
-In General.—In the event of a qualifying emergency, an institution of higher education participating in the program under part C of title IV of the Higher Education Act of 1965 (20 U.S.C. 1087–51 et seq.) may make payments under such part to affected work-study students, for the period of time (not to exceed one academic year) in which affected students were unable to fulfill the students' work-study obligation for all or part of such academic year due to such qualifying emergency, as follows:
+In General.—In the event of a qualifying emergency, an institution of higher education participating in the program under part C of title IV of the Higher Education Act of 1965 (20 U.S.C. 1087–51 et seq.) may make payments under such part to affected work-study students, for the period of time (not to exceed one academic year) in which affected students were unable tofulfill the students' work-study obligation for all or part of such academic year due to such qualifying emergency, as follows:
 
 &emsp;"(1) Payments may be made under such part to affected work-study students in an amount equal to or less than the amount of wages such students would have been paid under such part had the students been able to complete the work obligation necessary to receive work study funds, as a one time grant or as multiple payments.
 
@@ -456,7 +464,7 @@ Definition of Affected Work-study Student.—In this section, the term 'affected
 
 #### "SEC. 3507. EXCLUSION FROM FEDERAL PELL GRANT DURATION LIMIT.
 
-"The Secretary shall exclude from a student's Federal Pell Grant duration limit under section 401(c)(5) of the Higher Education Act of 1965 (2 U.S.C. 1070a(c)(5)) \[probably means 20 U.S.C. 1070a(c)(5)\] any semester (or the equivalent) that the student does not complete dueto a qualifying emergency if the Secretary is able to administer such policy in a manner that limits complexity and the burden on the student.
+"The Secretary shall exclude from a student's Federal Pell Grant duration limit under section 401(c)(5) of the Higher Education Act of 1965 (2 U.S.C. 1070a(c)(5)) \[probably means 20 U.S.C. 1070a(c)(5)\] any semester (or the equivalent) that the student does not complete due to a qualifying emergency if the Secretary is able to administer such policy in a manner that limits complexity and the burden on the student.
 
 #### "SEC. 3508. INSTITUTIONAL REFUNDS AND FEDERAL STUDENT LOAN FLEXIBILITY.
 
@@ -630,7 +638,7 @@ Reporting to Consumer Reporting Agencies.—During the period in which the Secre
 
 "(e)
 
-Suspending Involuntary Collection.—During the period in which the Secretary suspends payments on a loan under subsection (a), the Secretary shall suspend all involuntary collection related to the loan, including—
+Suspending Involuntary Collection.—During the period in which the Secretary suspends paymentson a loan under subsection (a), the Secretary shall suspend all involuntary collection related to the loan, including—
 
 &emsp;"(1) a wage garnishment authorized under section 488A of the Higher Education Act of 1965 (20 U.S.C. 1095a) or section 3720D of title 31, United States Code;
 
@@ -722,11 +730,17 @@ Reports.—Not later than 180 days after the date of enactment of this Act \[Mar
 
 "(a)
 
-Teach Grants.—For the purpose of section 420N of the Higher Education Act of 1965 (20 U.S.C. 1070g–2), during a qualifying emergency, the Secretary—
+Teach Grants.—Notwithstanding any provision of subpart 9 of part A of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070g et seq.), the Secretary—
 
-&emsp;"(1) may modify the categories of extenuating circumstances under which a recipient of a grant under subpart 9 of part A of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070g et seq.) who is unable to fulfill all or part of the recipient's service obligation may be excused from fulfilling that portion of the service obligation; and
+&emsp;"(1) may modify the categories of extenuating circumstances under which a recipient of a grant under subpart 9 of part A of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070g et seq.) who is unable to fulfill all or part of the recipient's service obligation may be excused from fulfilling that portion of the service obligation;
 
-&emsp;"(2) shall consider teaching service that, as a result of a qualifying emergency, is part-time or temporarily interrupted, to be full-time service and to fulfill the service obligations under such section 420N.
+&emsp;"(2) shall consider teaching service that, as a result of a qualifying emergency, is part-time or temporarily interrupted, to be full-time service and to fulfill the service obligations under section 420N of such Act; and
+
+&emsp;"(3) shall extend the service obligation window (as described in section 420N(b)(1)(A) of such Act) for a period of not more than 3 years, in addition to any extensions provided in accordance with subpart 9 of part A of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070g et seq.), in the case of a grant recipient whose service obligation window begins during, or includes—
+
+&emsp;&emsp;"(A) the qualifying emergency period; or
+
+&emsp;&emsp;"(B) a period of recession or economic downturn related to the qualifying emergency period, as determined by the Secretary in consultation with the Secretary of Labor.
 
 "(b)
 
@@ -734,9 +748,15 @@ Teacher Loan Forgiveness.—Notwithstanding section 428J or 460 of the Higher Ed
 
 &emsp;"(1) the teaching service of a borrower is temporarily interrupted due to a qualifying emergency; and
 
-&emsp;"(2) after the temporary interruption due to a qualifying emergency, the borrower resumes teaching service and completes a total of 5 years of qualifying teaching service under such sections, including qualifying teaching service performed before, during, and after such qualifying emergency."
+&emsp;"(2) after the temporary interruption due to a qualifying emergency, the borrower resumes teaching service and completes a total of 5 years of qualifying teaching service under such sections, including qualifying teaching service performed before, during, and after such qualifying emergency.
 
-\[Pub. L. 116–260, div. FF, title I, §101(a)(4)(D)(ii), Dec. 27, 2020, 134 Stat. 3083, which directed amendment ofsection 3510(d)(4) of Pub. L. 116–136, set out above, by substituting "identifies, for each such foreign institution—" and subpars. (A) to (C) for "identifies each foreign institution that entered into a written arrangement under subsection (a).", was executed by making the substitution for "identifies each foreign institution that entered into a written arrangement authorized under subsection (a)." to reflect the probable intent of Congress.\]
+"(c)
+
+Federal Perkins Loans.—Notwithstanding section 465 of the Higher Education Act of 1965 (20 U.S.C. 1087ee), the Secretary shall waive the requirements of such section in regard to full-time service and shall consider an incomplete year of service of a borrower as fulfilling the requirement for a complete year of service under such section, if the service was interrupted due to a qualifying emergency."
+
+\[Pub. L. 117–49, §4(c), Oct. 13, 2021, 135 Stat. 405, provided that: "The amendments made by this section \[amending section 3519 of Pub. L. 116–136, set out above\] shall take effect as if included in the enactment of the CARES Act (Public Law 116–136)."\]
+
+\[Pub. L. 116–260, div. FF, title I, §101(a)(4)(D)(ii), Dec. 27, 2020, 134 Stat. 3083, which directed amendment of section 3510(d)(4) of Pub. L. 116–136, set out above, by substituting "identifies, for each such foreign institution—" and subpars. (A) to (C) for "identifies each foreign institution that entered into a written arrangement under subsection (a).", was executed by making the substitution for "identifies each foreign institution that entered into a written arrangement authorized under subsection (a)." to reflect the probable intent of Congress.\]
 
 \[Pub. L. 116–260, div. FF, title I, §101(b), Dec. 27, 2020, 134 Stat. 3083, provided that: "The amendments made by subsection (a) \[amending section 3510 of Pub. L. 116–136, set out above\] shall take effect as if included in the enactment of the CARES Act (Public Law 116–136)."\]
 
@@ -798,7 +818,7 @@ Exception.—The programs described in subsection (a) for which the authorizatio
 
 \[Pub. L. 110–44, §3, July 3, 2007, 121 Stat. 238, provided that: "Nothing in this Act \[see Short Title of 2007 Amendment note above\], or in the Higher Education Extension Act of 2005 \[Pub. L. 109–81, set out above\] as amended by this Act, shall be construed to limit or otherwise alter the authorizations of appropriations for, or the durations of, programs contained in the amendments made by the Higher Education Reconciliation Act of 2005 (Public Law 109–171) \[see Short Title of 2006 Amendment note above\] to the provisions of the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\] and the Taxpayer-Teacher Protection Act of 2004 \[see Short Title of 2004 Amendment note above\]."\]
 
-\[Pub. L. 109–292, §7, Sept. 30, 2006, 120 Stat. 1343, provided that: "Nothing in this Act \[see Short Title of 2006 Amendment note above\], or in the Higher Education Extension Act of 2005 \[Pub. L. 109–81, set out above\] as amended by this Act, shall be construed to limit or otherwise alter the authorizations of appropriations for, or the durations of, programs contained in the amendments made by the Higher Education Reconciliation Act of 2005 (P.L. 109–171) \[see Short Title of 2006 Amendment note above\] to the provisions of the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\] and the Taxpayer-Teacher Protection Act of 2004 \[see Short Title of 2004 Amendment note above\]."\]
+\[Pub. L. 109–292, §7, Sept. 30, 2006, 120 Stat. 1343, provided that: "Nothing in this Act \[see Short Title of 2006 Amendment note above\], or in the Higher Education Extension Act of 2005 \[Pub. L. 109–81, set out above\] as amended by this Act, shall be construed to limit or otherwise alter the authorizations of appropriations for, orthe durations of, programs contained in the amendments made by the Higher Education Reconciliation Act of 2005 (P.L. 109–171) \[see Short Title of 2006 Amendment note above\] to the provisions of the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\] and the Taxpayer-Teacher Protection Act of 2004 \[see Short Title of 2004 Amendment note above\]."\]
 
 \[Pub. L. 109–238, §3, June 30, 2006, 120 Stat. 507, provided that: "Nothing in this Act \[see Short Title of 2006 Amendment note above\], or in the Higher Education Extension Act of 2005 \[Pub. L. 109–81, set out above\] as amended by this Act, shall be construed to limit or otherwise alter the authorizations of appropriations for, or the durations of, programs contained in the amendments made by the Higher Education Reconciliation Act of 2005 (Public Law 109–171) \[see Short Title of 2006 Amendment note above\] to the provisions of the Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\] and the Taxpayer-Teacher Protection Act of 2004 \[see Short Title of 2004 Amendment note above\]."\]
 
@@ -845,6 +865,8 @@ Pub. L. 90–575, title V, §505, Oct. 16, 1968, 82 Stat. 1063, provided for pub
 #### Presidential Recommendations by December 31, 1969, With Respect to Post-Secondary Education for All
 
 Pub. L. 90–575, title V, §508, Oct. 16, 1968, 82 Stat. 1063, authorized the President, on or before Dec. 31, 1969, to submit to the Congress proposals relative to the feasibility of making available a post-secondary education to all young Americans who qualify and seek it.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13864. Improving Free Inquiry, Transparency, and Accountability at Colleges and Universities
 

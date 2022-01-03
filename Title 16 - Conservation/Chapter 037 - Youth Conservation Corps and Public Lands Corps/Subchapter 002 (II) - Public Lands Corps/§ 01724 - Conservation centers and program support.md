@@ -12,7 +12,7 @@
 
 #### (2) Assistance for conservation centers
 
-&emsp;The Secretary may provide to a conservation center established under paragraph (1)any services, facilities, equipment, and supplies that the Secretary determines to be necessary for the conservation center.
+&emsp;The Secretary may provide to a conservation center established under paragraph (1) any services, facilities, equipment, and supplies that the Secretary determines to be necessary for the conservation center.
 
 #### (3) Standards for conservation centers
 
@@ -44,6 +44,8 @@ The Secretary may provide to Corps participants who reside in their own homes tr
 
 (Pub. L. 91–378, title II, §205, as added Pub. L. 103–82, title I, §105(6), Sept. 21, 1993, 107 Stat. 851; amended Pub. L. 109–154, §2(d), (g)(2), Dec. 30, 2005, 119 Stat. 2891, 2893; Pub. L. 116–9, title IX, §9003(c), Mar. 12, 2019, 133 Stat. 833.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (e). Pub. L. 116–9 added subsec. (e).
@@ -57,6 +59,8 @@ Subsec. (b). Pub. L. 109–154, §2(g)(2)(A), substituted "Secretary may" for "S
 Subsec. (c). Pub. L. 109–154, §2(g)(2)(B), substituted "Secretary may" for "Secretary of the Interior and the Secretary of Agriculture may".
 
 Subsec. (d). Pub. L. 109–154, §2(d)(3), added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

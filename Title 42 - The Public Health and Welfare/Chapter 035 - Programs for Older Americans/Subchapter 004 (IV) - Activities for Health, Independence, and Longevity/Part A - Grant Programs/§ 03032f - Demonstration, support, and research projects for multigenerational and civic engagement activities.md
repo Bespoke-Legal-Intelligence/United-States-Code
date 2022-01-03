@@ -24,7 +24,7 @@ The Assistant Secretary shall award grants to and enter into contracts with elig
 
 &emsp;(2) coordinate multigenerational activities and civic engagement activities, including multigenerational nutrition and meal service programs;
 
-&emsp;(3) promote volunteerism, including by providing opportunities for older individuals tobecome a mentor to individuals in younger generations; and
+&emsp;(3) promote volunteerism, including by providing opportunities for older individuals to become a mentor to individuals in younger generations; and
 
 &emsp;(4) facilitate development of, and participation in, multigenerational activities and civic engagement activities.
 
@@ -112,7 +112,7 @@ As used in this section:
 
 &emsp;The term "multigenerational coordinator" means a person who—
 
-&emsp;&emsp;(A) builds the capacity of public and nonprofit organizations to develop meaningfulroles and assignments, that use the time, skill, and experience of older individuals to serve those organizations; and
+&emsp;&emsp;(A) builds the capacity of public and nonprofit organizations to develop meaningful roles and assignments, that use the time, skill, and experience of older individuals to serve those organizations; and
 
 &emsp;&emsp;(B) nurtures productive, sustainable working relationships between—
 
@@ -121,6 +121,8 @@ As used in this section:
 &emsp;&emsp;&emsp;(ii) individuals in younger generations.
 
 (Pub. L. 89–73, title IV, §417, as added Pub. L. 106–501, title IV, §401, Nov. 13, 2000, 114 Stat. 2261; amended Pub. L. 109–365, title IV, §406, Oct. 17, 2006, 120 Stat. 2555; Pub. L. 114–144, §5(e), Apr. 19, 2016, 130 Stat. 342; Pub. L. 116–131, title III, §306, Mar. 25, 2020, 134 Stat. 264.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

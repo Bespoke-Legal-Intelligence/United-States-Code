@@ -8,11 +8,15 @@ It is the purpose of this part to address the unique needs of rural school distr
 
 (Pub. L. 89–10, title V, §5202, formerly title VI, §6202, as added Pub. L. 107–110, title VI, §601, Jan. 8, 2002, 115 Stat. 1891; renumbered title V, §5202, Pub. L. 114–95, title V, §5001(a)(2), Dec. 10, 2015, 129 Stat. 2039, 2040.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 5202 of Pub. L. 89–10 was renumbered section 4302 and was classified to section 7221a of this title, prior to repeal by Pub. L. 114–95.
 
 Another prior section 5202 of Pub. L. 89–10 was classified to section 7232 of this title, prior to the general amendment of former subchapter V of this chapter by Pub. L. 107–110.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Review Relating to Rural Local Educational Agencies
 
@@ -26,7 +30,7 @@ Review and Report.—Not later than 18 months after the date of enactment of thi
 
 &emsp;&emsp;"(A) assess the methods and manner through which, and the extent to which, the Department of Education takes into account, considers input from, and addresses the unique needs and characteristics of rural schools and rural local educational agencies; and
 
-&emsp;&emsp;"(B) determine actions that the Department of Education can take to meaningfully increase the consideration and participation of rural schools and rural local educational agencies in the development and execution of the processes, procedures, policies, and regulations of the Department of Education;
+&emsp;&emsp;"(B) determine actions that the Department of Education can take to meaningfully increase theconsideration and participation of rural schools and rural local educational agencies in the development and execution of the processes, procedures, policies, and regulations of the Department of Education;
 
 &emsp;"(2) make public a preliminary report containing the information described in paragraph (1) and provide Congress and the public with 60 days to comment on the proposed actions described in paragraph (1)(B); and
 

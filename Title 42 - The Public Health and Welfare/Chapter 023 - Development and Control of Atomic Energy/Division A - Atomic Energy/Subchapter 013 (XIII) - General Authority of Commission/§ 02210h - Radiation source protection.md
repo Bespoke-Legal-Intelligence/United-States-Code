@@ -22,7 +22,7 @@ Not later than 180 days after August 8, 2005, the Commission shall issue regulat
 
 &emsp;(1) exporting a radiation source, unless the Commission has specifically determined under section 2077 or 2112 of this title, consistent with the Code of Conduct, with respect to the exportation, that—
 
-&emsp;&emsp;(A) the recipient of the radiation source may receive and possess the radiation sourceunder the laws and regulations of the country of the recipient;
+&emsp;&emsp;(A) the recipient of the radiation source may receive and possess the radiation source under the laws and regulations of the country of the recipient;
 
 &emsp;&emsp;(B) the recipient country has the appropriate technical and administrative capability, resources, and regulatory structure to ensure that the radiation source will be managed in a safe and secure manner; and
 
@@ -74,7 +74,7 @@ A violation of a regulation issued under subsection (a) or (b) shall be punishab
 
 &emsp;(A) uses a radiation source that could be replaced with an economically and technically equivalent (or improved) process that does not require the use of a radiation source; or
 
-&emsp;(B) may be used with a radiation source that would pose a lower risk to public health and safety in the event of an accident or attack involving the radiation source.
+&emsp;(B) may be used with a radiation source that would pose a lower risk to public health andsafety in the event of an accident or attack involving the radiation source.
 
 (3) Not later than 2 years after August 8, 2005, the Commission shall submit to Congress the results of the study under paragraph (1).
 
@@ -112,7 +112,7 @@ A violation of a regulation issued under subsection (a) or (b) shall be punishab
 
 (B) Not later than 1 year after August 8, 2005, and not less than once every 4 years thereafter, the task force shall submit to Congress and the President a report, in unclassified form with a classified annex if necessary, providing recommendations, including recommendations for appropriate regulatory and legislative changes, for—
 
-&emsp;(i) a list of additional radiation sources that should be required to be secured under this chapter, based on the potential attractiveness of the sources to terrorists and the extent ofthe threat to public health and safety of the sources, taking into consideration—
+&emsp;(i) a list of additional radiation sources that should be required to be secured under this chapter, based on the potential attractiveness of the sources to terrorists and the extent of the threat to public health and safety of the sources, taking into consideration—
 
 &emsp;&emsp;(I) radiation source radioactivity levels;
 
@@ -162,7 +162,7 @@ A violation of a regulation issued under subsection (a) or (b) shall be punishab
 
 #### (g) Action by Commission
 
-Not later than 60 days after the date of receipt by Congress and the President of a report under subsection (f)(3)(B), the Commission, in accordance with the recommendations of the task force, shall—
+Not later than 60 days after the date of receipt by Congress and the President of a report undersubsection (f)(3)(B), the Commission, in accordance with the recommendations of the task force, shall—
 
 &emsp;(1) take any action the Commission determines to be appropriate, including revising the system of the Commission for licensing radiation sources; and
 
@@ -170,9 +170,13 @@ Not later than 60 days after the date of receipt by Congress and the President o
 
 (Aug. 1, 1946, ch. 724, title I, §170H, as added Pub. L. 109–58, title VI, §651(d)(1), Aug. 8, 2005, 119 Stat. 802; amended Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (f)(3)(B)(i), (v), was in the original "this Act", meaning act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

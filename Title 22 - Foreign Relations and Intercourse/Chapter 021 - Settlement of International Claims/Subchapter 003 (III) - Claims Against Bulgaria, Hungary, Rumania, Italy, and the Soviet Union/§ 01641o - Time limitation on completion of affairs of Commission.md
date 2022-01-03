@@ -12,7 +12,7 @@ The Commission shall complete its affairs in connection with the settlement of c
 
 The Commission shall complete its affairs in connection with the settlement of claims pursuant to paragraph (5) of section 1641b of this title not later than two years following the deadline established under subsection (c) of section 1641e of this title.
 
-(Mar. 10, 1950, ch. 54, title III, §316, as added Aug. 9, 1955, ch. 645, §3, 69 Stat. 574; amended Pub. L. 90–421, §1(14), July 24, 1968, 82 Stat. 423; Pub. L. 93–460, §1(6), Oct. 20, 1974, 88 Stat. 1387.)
+(Mar. 10, 1950, ch. 54, title III, §316, as added Aug. 9, 1955, ch. 645, §3, 69 Stat. 574; amended Pub. L.90–421, §1(14), July 24, 1968, 82 Stat. 423; Pub. L. 93–460, §1(6), Oct. 20, 1974, 88 Stat. 1387.)
 
 #### <b>Editorial Notes</b>
 

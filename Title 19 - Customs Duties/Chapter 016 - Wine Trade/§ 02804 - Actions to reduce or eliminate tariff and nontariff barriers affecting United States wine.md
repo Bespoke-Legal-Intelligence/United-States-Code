@@ -8,7 +8,7 @@ The President shall direct the Trade Representative to enter into consultations 
 
 (1) the <sup>1</sup> President shall notify each of the Committees regarding the extent and effect of the efforts undertaken since the submission of the report required under section 854(a) of the Trade Agreements Act of 1979 \[19 U.S.C. 2135 note\], and during the 12-month period beginning on October 30, 1984, to expand opportunities in each major wine trading country for exports of United States wine. Such notification, which shall be in the form of a separate written report (that must be submitted within 30 days after the close of that 12-month period) for each major wine trading country, shall include—
 
-&emsp;(A) a description of each act, policy, and practice (and of its legal basis and operation)in that country that constitutes a tariff barrier or nontariff barrier to (or other distortion of) trade in United States wine (and that description shall be based upon an updating of the report that was submitted to the Congress under section 854(a) of the Trade Agreements Act of 1979);
+&emsp;(A) a description of each act, policy, and practice (and of its legal basis and operation) in that country that constitutes a tariff barrier or nontariff barrier to (or other distortion of) trade in United States wine (and that description shall be based upon an updating of the report that was submitted to the Congress under section 854(a) of the Trade Agreements Act of 1979);
 
 &emsp;(B) an assessment of the extent to which each such act, policy, or practice is subject to international agreements to which the United States is a party;
 
@@ -36,11 +36,15 @@ If the President, after taking into account information and advice received unde
 
 (Pub. L. 98–573, title IX, §905, Oct. 30, 1984, 98 Stat. 3049.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 854(a) of the Trade Agreements Act of 1979, referred to in subsec. (b)(1), is section 854(a) of Pub. L. 96–39, title VIII, July 26, 1979, 93 Stat. 294, which is set out as a note under section 2135 of this title.
 
 The Trade Act of 1974, referred to in subsecs. (b)(1)(C)(i) and (c), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended, which is classified principally to chapter 12 (§2101 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Reports on Negotiations To Eliminate Wine Trade Barriers
 

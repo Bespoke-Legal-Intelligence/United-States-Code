@@ -72,6 +72,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2009</b>—Pub. L. 111–84, div. A, title X, §1073(a)(33), Oct. 28, 2009, 123 Stat. 2474, substituted "Reserve Active-Status List" for "Reserve-Active Status List" in item for chapter 1409.

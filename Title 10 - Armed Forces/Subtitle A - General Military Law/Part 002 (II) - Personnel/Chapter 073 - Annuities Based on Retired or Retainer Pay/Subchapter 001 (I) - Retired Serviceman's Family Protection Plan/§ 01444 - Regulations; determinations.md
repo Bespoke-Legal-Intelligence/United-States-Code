@@ -28,6 +28,8 @@ Historical and Revision Notes
 
 Aug. 8, 1953, ch. 393, §§6, 8 (1st and 2d sentences), 67 Stat. 504.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–513, §511(58)(A), substituted "National Oceanic and Atmospheric Administration" for "Environmental Science Services Administration".
@@ -46,6 +48,8 @@ Subsec. (c). Pub. L. 92–425, §1(2)(A), substituted "subchapter" for "chapter"
 
 <b>1961</b>—Subsec. (b). Pub. L. 87–381 required report to contain a detailed account, including an actuarial analysis, of cases in which relief is granted under sections 1436(b) and 1552 of this title, or any other statutory or administrative procedure.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
@@ -54,7 +58,9 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 The directory language of, but not the amendment made by, Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117, cited as a credit to this section, was repealed by Pub. L. 97–295, §6(b), Oct. 12, 1982, 96 Stat. 1314.
 
+#### <b>Executive Documents</b>
+
 #### Transfer of Functions
 
-For transfer of functions of Public Health Service, see note under section 802 of this title.
+For transfer of functions of Public Health Service, see note set out under section 802 of this title.
 

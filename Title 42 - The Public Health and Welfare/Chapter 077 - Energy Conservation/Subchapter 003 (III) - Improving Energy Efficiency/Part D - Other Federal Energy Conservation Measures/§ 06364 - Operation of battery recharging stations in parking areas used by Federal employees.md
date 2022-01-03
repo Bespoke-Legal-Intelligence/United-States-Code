@@ -12,7 +12,7 @@
 
 #### (C) Use of vendors
 
-&emsp;The Administrator of General Services, with respect to subparagraph (A) or (B), or the head of a Federal agency, with respect to subparagraph (B), may carry out such subparagraph through a contract with a vendor, under such terms and conditions (including terms relating to the allocation between the Federal agency and the vendor of the costs of carrying out the contract) as the Administrator or the head of the Federal agency, as the case may be, and the vendor may agree to.
+&emsp;The Administrator of General Services, with respect to subparagraph (A) or (B), or the head of a Federal agency, with respect to subparagraph (B), may carry out such subparagraph through a contract with a vendor, under such terms and conditions (including terms relating to the allocation between the Federal agency and the vendor of the costs of carrying out thecontract) as the Administrator or the head of the Federal agency, as the case may be, and the vendor may agree to.
 
 #### (2) Imposition of fees to cover costs
 
@@ -82,9 +82,13 @@ This subsection shall apply with respect to fiscal year 2016 and each succeeding
 
 (Pub. L. 114–94, div. A, title I, §1413(c), Dec. 4, 2015, 129 Stat. 1418.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Fixing America's Surface Transportation Act, also known as the FAST Act, and not as part of the Energy Policy and Conservation Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

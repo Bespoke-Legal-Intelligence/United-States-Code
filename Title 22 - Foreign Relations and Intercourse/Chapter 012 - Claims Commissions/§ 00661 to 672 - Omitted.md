@@ -22,7 +22,7 @@ Section 667, acts Dec. 18, 1942, ch. 766, §8, 56 Stat. 1061; Apr. 3, 1945, ch. 
 
 Section 668, act Dec. 18, 1942, ch. 766, §9, 56 Stat. 1062, provided for payment of awards.
 
-Section 669, act Dec. 18, 1942, ch. 766, §10, 56 Stat. 1062, authorized appropriations for Commission to carry out its functions, and provided for deductions from award or appraisal as reimbursement for expenses incurred by United States.
+Section 669, act Dec. 18, 1942, ch. 766, §10, 56 Stat. 1062, authorized appropriations for Commission to carry outits functions, and provided for deductions from award or appraisal as reimbursement for expenses incurred by United States.
 
 Section 670, act Dec. 18, 1942, ch. 766, §11(a), 56 Stat. 1063, related to distribution of awards by Special Mexican Claims Commission pursuant to Convention signed Apr. 24, 1943.
 

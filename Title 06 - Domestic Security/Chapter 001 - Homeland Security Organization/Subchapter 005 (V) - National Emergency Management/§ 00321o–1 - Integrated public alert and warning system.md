@@ -46,7 +46,7 @@ In this section—
 
 &emsp;&emsp;(F) the procedures, protocols, and guidance concerning the communications that State, Tribal, and local governments shall issue to the public following a false alert issued under the public alert and warning system;
 
-&emsp;&emsp;(G) a plan by which State, Tribal, and local government officials may, during anemergency, contact each other as well as Federal officials and participants in the Emergency Alert System and the Wireless Emergency Alert System, when appropriate and necessary, by telephone, text message, or other means of communication regarding an alert that has been distributed to the public; and
+&emsp;&emsp;(G) a plan by which State, Tribal, and local government officials may, during an emergency, contact each other as well as Federal officials and participants in the Emergency Alert System and the Wireless Emergency Alert System, when appropriate and necessary, by telephone, text message, or other means of communication regarding an alert that has been distributed to the public; and
 
 &emsp;&emsp;(H) any other procedure the Administrator considers appropriate for maintaining the integrity of and providing for public confidence in the public alert and warning system.
 
@@ -144,7 +144,7 @@ On and after the date that is 60 days after the date on which the Administrator 
 
 &emsp;Not later than 1 year after December 20, 2019, the Secretary shall—
 
-&emsp;&emsp;(A) examine the feasibility of establishing an alert designation under the public alert and warning system that would be used to alert and warn the public of a missile threat while concurrently alerting a State warning point so that a State may activate related protective action plans; and
+&emsp;&emsp;(A) examine the feasibility of establishing an alert designation under the public alert and warning system that would be used to alert and warn the public of a missile threat while concurrently alerting a State warningpoint so that a State may activate related protective action plans; and
 
 &emsp;&emsp;(B) submit a report of the findings under subparagraph (A), including of the costs and timeline for taking action to implement an alert designation described in subparagraph (A), to—
 

@@ -62,6 +62,8 @@ If an officer, employee, or committee of an agency determines that a decision is
 
 (Pub. L. 103–354, title II, §272, Oct. 13, 1994, 108 Stat. 3229; Pub. L. 113–79, title I, §1610(a), Feb. 7, 2014, 128 Stat. 709; Pub. L. 115–334, title XII, §12412, Dec. 20, 2018, 132 Stat. 4980.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This subchapter, referred to in subsec. (e), was in the original "this subtitle", meaning subtitle H (§§271–283) of title II of Pub. L. 103–354, Oct. 13, 1994, 108 Stat. 3228, which enacted this subchapter, amended sections 2006 and 5101 to 5106 of this title and section 2202e of Title 12, Banks and Banking, and repealed sections 1433e and 1983b of this title.
@@ -70,5 +72,5 @@ This subchapter, referred to in subsec. (e), was in the original "this subtitle"
 
 <b>2018</b>—Subsec. (e). Pub. L. 115–334 amended subsec. (e) generally. Prior to amendment, text read as follows: "The Director shall appoint such hearing officers and other employees as are necessary for the administration of the Division. A hearing officer or other employee of the Division shall have no duties other than those that are necessary to carry out this subchapter."
 
-<b>2014</b>—Subsec. (c). Pub. L. 113–79 added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: "The Director shall be free from the direction and control of any person other than the Secretary. The Division shall not receive administrativesupport (except on a reimbursable basis) from any agency other than the Office of the Secretary. The Secretary may not delegate to any other officer or employee of the Department, other than the Director, the authority of the Secretary with respect to the Division."
+<b>2014</b>—Subsec. (c). Pub. L. 113–79 added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: "The Director shall be free from the direction and control of any person other than the Secretary. The Division shall not receive administrative support (except on a reimbursable basis) from any agency other than the Office of the Secretary. The Secretary may not delegate to any other officer or employee of the Department, other than the Director, the authority of the Secretary with respect to the Division."
 

@@ -10,7 +10,7 @@
 
 (e) A person not on active duty who served honorably in time of war in the Army, Navy, Air Force, Marine Corps, or Space Force may bear the title, and, when authorized by regulations prescribed by the President, wear the uniform, of the highest grade held by him during that war.
 
-(f) While portraying a member of the Army, Navy, Air Force, Marine Corps, or Space Force, an actor in a theatrical or motion-picture production may wear the uniform of that armed force if the portrayal does not tend to discredit that armed force.
+(f) While portraying a member of the Army, Navy, Air Force, Marine Corps, or Space Force, an actor in a theatrical or motion-picture production may wear the uniform of that armedforce if the portrayal does not tend to discredit that armed force.
 
 (g) An officer or resident of a veterans' home administered by the Department of Veterans Affairs may wear such uniform as the Secretary of the military department concerned may prescribe.
 
@@ -24,7 +24,7 @@
 
 &emsp;(2) Members of any other organization designated by the Secretary of a military department.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 35; Pub. L. 99–145, title XIII, §1301(a)(1), Nov. 8, 1985, 99 Stat. 735; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 104–201, div. A, title V, §551(b), Sept. 23, 1996, 110 Stat. 2525;Pub. L. 116–283, div. A, title IX, §924(b)(3)(O), Jan. 1, 2021, 134 Stat. 3821.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 35; Pub. L. 99–145, title XIII, §1301(a)(1), Nov. 8, 1985, 99 Stat. 735; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 104–201, div. A, title V, §551(b), Sept. 23, 1996, 110 Stat. 2525; Pub. L. 116–283, div. A, title IX, §924(b)(3)(O), Jan. 1, 2021, 134 Stat. 3821.)
 
 Historical and Revision Notes
 
@@ -138,9 +138,11 @@ In subsection (h), the words "authorized and" and "for wear during such course o
 
 In subsection (i), the words "Air Force school" are substituted for the words "Air Force advanced flying schools or Air Force service schools". The words "in such manner" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Constitutionality
 
-For information regarding constitutionality of certain provisions of this section as enacted by act Aug. 10, 1956, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For information regarding constitutionality of certain provisions of this section as enacted by act Aug. 10, 1956, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
 
 #### Amendments
 
@@ -152,9 +154,11 @@ For information regarding constitutionality of certain provisions of this sectio
 
 <b>1985</b>—Subsec. (c). Pub. L. 99–145 struck out provisions relating to a retired officer of the Navy Nurse Corps.
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 10554. Delegation of Authority To Prescribe Regulations
 
 Ex. Ord. No. 10554, Aug. 18, 1954, 19 F.R. 5295, as amended by Ex. Ord. No. 13286, §77, Feb. 28, 2003, 68 F.R. 10631, provided:
 
-The authority vested in the President (1) by section 125 of the act of June 3, 1916, 39 Stat. 216, as amended by the first section of the act of July 6, 1953, 67 Stat. 140, and (2) by section 2 of the act of June 21, 1930, 46 Stat. 793, as amended by section 2 of said act of July 6, 1953, to prescribe regulations authorizing occasions upon which the uniform may be worn by persons who have served honorably in the armed forces of the United States in time of war is hereby delegated to the Secretary of Defense so far as it pertains to the uniforms of the Army, Navy, Air Force, and Marine Corps, and to the Secretary of Homeland Security so far as it pertains to the uniform of the Coast Guard.
+The authority vested in the President (1) by section 125 of the act of June 3, 1916, 39 Stat. 216, as amended by the first section of the act of July 6, 1953, 67 Stat. 140, and (2) by section 2 of the act of June 21, 1930, 46 Stat. 793, as amended by section 2 of said act of July 6, 1953, to prescribe regulations authorizing occasionsupon which the uniform may be worn by persons who have served honorably in the armed forces of the United States in time of war is hereby delegated to the Secretary of Defense so far as it pertains to the uniforms of the Army, Navy, Air Force, and Marine Corps, and to the Secretary of Homeland Security so far as it pertains to the uniform of the Coast Guard.
 

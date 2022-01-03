@@ -24,7 +24,7 @@
 
 #### (1) In general
 
-&emsp;To be eligible to receive a capitalization grant under this section, an eligible entityshall submit to the Administrator an application that includes the following:
+&emsp;To be eligible to receive a capitalization grant under this section, an eligible entity shall submit to the Administrator an application that includes the following:
 
 &emsp;&emsp;(A) Project proposals comprised of local government hazard mitigation projects, on the condition that the entity provides public notice not less than 6 weeks prior to the submission of an application.
 
@@ -180,9 +180,9 @@ The Administrator may delegate to a participating entity all of the responsibili
 
 &emsp;&emsp;(B) the study and creation of agricultural risk compensation districts where there is a desire to remove or set-back levees protecting highly developed agricultural land to mitigate for flooding, allowing agricultural producers to receive compensation for assuming greater flood risk that would alleviate flood exposure to population centers and areas with critical national infrastructure;
 
-&emsp;&emsp;(C) the study and creation of land use incentives that reward developers for greater reliance on low impact developmentstormwater best management practices, exchange density increases for increased open space and improvement of neighborhood catch basins to mitigate urban flooding, reward developers for including and augmenting natural infrastructure adjacent to and around building projects without reliance on increased sprawl, and reward developers for addressing wildfire ignition; and
+&emsp;&emsp;(C) the study and creation of land use incentives that reward developers for greater reliance on low impact development stormwater best management practices, exchange density increases for increased open space and improvement of neighborhood catch basins to mitigate urban flooding, reward developers for including and augmenting natural infrastructure adjacent to and around building projects without reliance on increased sprawl, and reward developers for addressing wildfire ignition; and
 
-&emsp;&emsp;(D) the study and creation of an erosion response plan that accommodates river, lake, forest, plains, and ocean shoreline retreating or bluff stabilization due to increased flooding and disaster impacts.
+&emsp;&emsp;(D) the study and creation of an erosion response plan that accommodates river, lake, forest, plains, and ocean shoreline retreatingor bluff stabilization due to increased flooding and disaster impacts.
 
 #### (5) Establishing and carrying out building code enforcement
 
@@ -367,6 +367,8 @@ In this section, the following definitions apply:
 There are authorized to be appropriated $100,000,000 for each of fiscal years 2022 through 2023 to carry out this section.
 
 (Pub. L. 93–288, title II, §205, as added Pub. L. 116–284, §2, Jan. 1, 2021, 134 Stat. 4869.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

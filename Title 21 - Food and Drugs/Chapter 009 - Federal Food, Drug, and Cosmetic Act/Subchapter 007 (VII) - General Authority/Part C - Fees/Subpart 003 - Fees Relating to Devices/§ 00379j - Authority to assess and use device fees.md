@@ -64,7 +64,7 @@
 
 #### (C) Payment
 
-&emsp;&emsp;The fee required by subparagraph (A) shall be due upon submission of the premarket application, premarket report, supplement, premarket notification submission, 30-day notice, request for classification information, or periodic reporting concerning a class III device. Applicants submitting portions of applications pursuant to section 360e(c)(4) of this title shall pay such fees upon submission of the first portion of such applications.
+&emsp;&emsp;The fee required by subparagraph (A) shall be due upon submission of the premarket application, premarket report, supplement,premarket notification submission, 30-day notice, request for classification information, or periodic reporting concerning a class III device. Applicants submitting portions of applications pursuant to section 360e(c)(4) of this title shall pay such fees upon submission of the first portion of such applications.
 
 #### (D) Refunds
 
@@ -143,7 +143,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall, 60 days before the start of each fiscal year after September 30, 2017, establish fees under subsection (a), based on amounts specified under subsection (b) and the adjustments provided under this subsection, and publish such fees, and the rationale for any adjustments to such fees, in the Federal Register.
+&emsp;The Secretary shall, 60 days before the start of each fiscal year after September 30, 2017, establish fees under subsection (a), based on amounts specified under subsection (b) and the adjustments provided under this subsection, and publish such fees, and the rationale forany adjustments to such fees, in the Federal Register.
 
 #### (2) Inflation adjustments
 
@@ -201,7 +201,7 @@
 
 #### (B) Notice to Congress
 
-&emsp;&emsp;Not later than 14 days before the Secretary anticipates the use of funds described in subparagraph (A), the Secretary shall provide notice to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate and the Committee on Energy and Commerceand the Committee on Appropriations of the House of Representatives.
+&emsp;&emsp;Not later than 14 days before the Secretary anticipates the use of funds described in subparagraph (A), the Secretary shall provide notice to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate and the Committee on Energy and Commerce and the Committee on Appropriations of the House of Representatives.
 
 #### (d) Small businesses; fee waiver and fee reduction regarding premarket approval fees
 
@@ -213,7 +213,7 @@
 
 #### (A) Definition
 
-&emsp;&emsp;&emsp;For purposes of this paragraph, the term "small business" means an entity that reported $100,000,000 or less of gross receipts or sales in its most recent Federal income tax return for a taxable year, including such returns of all of its affiliates.
+&emsp;&emsp;&emsp;For purposes of this paragraph, the term "small business" means an entity that reported $100,000,000 or less of gross receipts or sales in its most recent Federal incometax return for a taxable year, including such returns of all of its affiliates.
 
 #### (B) Evidence of qualification
 
@@ -265,7 +265,7 @@
 
 #### (iii) Firms not submitting tax returns to the United States Internal Revenue Service
 
-&emsp;&emsp;&emsp;In the case of an applicant that has not previously submitted a Federal income tax return, the applicant and each of its affiliates shall demonstrate that it meets the definition under subparagraph (A) by submission of a signed certification, in such form as the Secretary may direct through a notice published in the Federal Register, that the applicant or affiliate meets the criteria for a small business and a certification, in English, from the national taxing authority of the country in which the applicant or, if applicable, affiliate is headquartered. The certification from such taxing authority shall bear the official seal of such taxing authority and shall provide the applicant's or affiliate's gross receipts or sales for the most recent year in both the local currency of such country and in United States dollars, the exchange rate used in converting such local currency to dollars, and the dates during which these receipts or sales were collected. The applicant shall also submit a statement signed by the head of the applicant's firm or by its chief financial officer that the applicant has submitted certifications for all of its affiliates, or that the applicant has no affiliates.
+&emsp;&emsp;&emsp;In the case of an applicant that has not previously submitted a Federal income tax return, the applicant and each of its affiliates shall demonstrate that it meets the definition under subparagraph (A) by submission of a signed certification, in suchform as the Secretary may direct through a notice published in the Federal Register, that the applicant or affiliate meets the criteria for a small business and a certification, in English, from the national taxing authority of the country in which the applicant or, if applicable, affiliate is headquartered. The certification from such taxing authority shall bear the official seal of such taxing authority and shall provide the applicant's or affiliate's gross receipts or sales for the most recent year in both the local currency of such country and in United States dollars, the exchange rate used in converting such local currency to dollars, and the dates during which these receipts or sales were collected. The applicant shall also submit a statement signed by the head of the applicant's firm or by its chief financial officer that the applicant has submitted certifications for all of its affiliates, or that the applicant has no affiliates.
 
 #### (C) Reduced fees
 
@@ -307,7 +307,7 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2)(C), fees authorized under subsection (a) shall be collected andavailable for obligation only to the extent and in the amount provided in advance in appropriation Acts. Such fees are authorized to be appropriated to remain available until expended. Such sums as may be necessary may be transferred from the Food and Drug Administration salaries and expenses appropriation account without fiscal year limitation to such appropriation account for salaries and expenses with such fiscal year limitation. The sums transferred shall be available solely for the process for the review of device applications.
+&emsp;Subject to paragraph (2)(C), fees authorized under subsection (a) shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriation Acts. Such fees are authorized to be appropriated to remain available until expended. Such sums as may be necessary may be transferred from the Food and Drug Administration salaries and expenses appropriation account without fiscal year limitation to such appropriation account for salaries and expenses with such fiscal year limitation. The sums transferred shall be available solely for the process for the review of device applications.
 
 #### (2) Collections and appropriation acts
 
@@ -317,7 +317,7 @@
 
 &emsp;&emsp;&emsp;(i) subject to subparagraph (C), shall be collected and available in each fiscal year in an amount not to exceed the amount specified in appropriation Acts, or otherwise made available for obligation, for such fiscal year, and
 
-&emsp;&emsp;&emsp;(ii) shall be available to defray increases in the costs of the resources allocated for the process for the review of device applications (including increases in such costs for an additional number of full-time equivalent positions in the Department of Health and Human Services to be engaged in such process) over such costs, excluding costs paid from fees collected under this section, for fiscal year 2009 multiplied by the adjustment factor.
+&emsp;&emsp;&emsp;(ii) shall be available to defray increases in the costs of the resources allocated for the process for the review of device applications (including increases in such costs for an additional number of full-time equivalent positions in the Department of Health and Human Services to be engagedin such process) over such costs, excluding costs paid from fees collected under this section, for fiscal year 2009 multiplied by the adjustment factor.
 
 #### (B) Compliance
 
@@ -379,7 +379,7 @@ Subsec. (a)(2)(A)(viii). Pub. L. 115–52, §203(a)(2)(A)(ii), substituted "3.4 
 
 Subsec. (a)(2)(A)(xi). Pub. L. 115–52, §203(a)(2)(A)(iii), added cl. (xi).
 
-Subsec. (a)(2)(B)(v)(I). Pub. L. 115–52, §203(a)(2)(B), substituted "premarket notification submission, or denovo classification request" for "or premarket notification submission".
+Subsec. (a)(2)(B)(v)(I). Pub. L. 115–52, §203(a)(2)(B), substituted "premarket notification submission, or de novo classification request" for "or premarket notification submission".
 
 Subsec. (a)(3)(A). Pub. L. 115–52, §203(f)(2)(B)(iii), struck out "and subsection (f)" after "subparagraph (B)".
 
@@ -401,7 +401,7 @@ Subsec. (c)(2)(B). Pub. L. 115–52, §203(c)(2)(B), added subpar. (B) and struc
 
 Subsec. (c)(2)(C). Pub. L. 115–52, §203(c)(2)(C), struck out "to total revenue amounts" after "adjustment" in heading.
 
-Subsec. (c)(2)(D). Pub. L. 115–52, §203(c)(2)(D), amended subpar. (D) generally. Prior to amendment, text read as follows: "For each of fiscal years 2014 through 2017, the base fee amounts specified in subsection (b)(2) shall be adjusted as needed, on a uniform proportionate basis, to generate the total revenue amounts under subsection (b)(3), as adjusted for inflation under subparagraph (A)."
+Subsec. (c)(2)(D). Pub. L. 115–52, §203(c)(2)(D), amended subpar. (D) generally. Prior to amendment, text read as follows: "For each of fiscal years 2014 through 2017, the base fee amounts specified in subsection (b)(2) shall be adjusted as needed, on a uniform proportionatebasis, to generate the total revenue amounts under subsection (b)(3), as adjusted for inflation under subparagraph (A)."
 
 Subsec. (c)(3). Pub. L. 115–52, §203(c)(3), substituted "2018 through 2022" for "2014 through 2017" and "increased" for "further adjusted".
 
@@ -531,7 +531,7 @@ Subsec. (g)(2). Pub. L. 110–85, §212(g)(2), amended par. (2) generally. Prior
 
 Subsec. (h)(3). Pub. L. 110–85, §212(h)(1), amended par. (3) generally, substituting provisions authorizing appropriations for fiscal years 2008 to 2012 for provisions authorizing appropriations for fiscal years 2003 to 2007.
 
-Subsec. (h)(4). Pub. L. 110–85, §212(h)(2), amended par. (4) generally. Prior to amendment, text read as follows: "Any amount of fees collected for a fiscal year under this section that exceeds the amount of fees specified in appropriation Acts for such fiscal year shall be credited to the appropriation account of the Food and DrugAdministration as provided in paragraph (1), and shall be subtracted from the amount of fees that would otherwise be authorized to be collected under this section pursuant to appropriation Acts for a subsequent fiscal year."
+Subsec. (h)(4). Pub. L. 110–85, §212(h)(2), amended par. (4) generally. Prior to amendment, text read as follows: "Any amount of fees collected for a fiscal year under this section that exceeds the amount of fees specified in appropriation Acts for such fiscal year shall be credited to the appropriation account of the Food and Drug Administration as provided in paragraph (1), and shall be subtracted from the amount of fees that would otherwise be authorized to be collected under this section pursuant to appropriation Acts for a subsequent fiscal year."
 
 <b>2005</b>—Subsec. (a)(2)(A). Pub. L. 109–43, §2(a)(7), substituted "subsection (c)(1)" for "subsection (c)(5)".
 
@@ -543,7 +543,7 @@ Subsec. (c)(1). Pub. L. 109–43, §2(a)(2)(B)–(D), redesignated par. (5) as (
 
 Subsec. (c)(2). Pub. L. 109–43, §2(a)(2)(B), (C), redesignated par. (6) as (2) and struck out former par. (2) which required an annual adjustment of the fee revenues established in subsec. (b) to reflect changes in the workload of the Secretary for the process for the review of device applications.
 
-Subsec. (c)(3). Pub. L. 109–43, §2(a)(2)(B), (E), added par. (3) and struck out former par. (3) which required an annual compensating adjustment of the fee revenues established in subsec. (b).
+Subsec. (c)(3). Pub. L. 109–43, §2(a)(2)(B), (E), added par. (3) and struck out former par. (3) which required anannual compensating adjustment of the fee revenues established in subsec. (b).
 
 Subsec. (c)(4). Pub. L. 109–43, §2(a)(2)(B), struck out par. (4) which provided for a fiscal year 2007 adjustment of the fee revenues established in subsec. (b) to provide for operating reserves of carryover user fees.
 

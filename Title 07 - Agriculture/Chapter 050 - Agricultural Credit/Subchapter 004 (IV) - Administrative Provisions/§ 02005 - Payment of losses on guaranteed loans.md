@@ -30,9 +30,11 @@
 
 #### (3) Construction of subsection
 
-&emsp;This subsection shall not be construed to limit the authority of the Secretary to enterinto a shared appreciation arrangement with a borrower, or the terms and conditions which shall be required of a borrower, under section 2001(e) of this title.
+&emsp;This subsection shall not be construed to limit the authority of the Secretary to enter into a shared appreciation arrangement with a borrower, or the terms and conditions which shall be required of a borrower, under section 2001(e) of this title.
 
 (Pub. L. 87–128, title III, §357, as added Pub. L. 100–233, title VI, §619, Jan. 6, 1988, 101 Stat. 1683; amended Pub. L. 101–624, title XXIII, §2388(d)(2), Nov. 28, 1990, 104 Stat. 4053.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

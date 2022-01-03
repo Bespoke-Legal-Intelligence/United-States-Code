@@ -30,10 +30,6 @@ Covered Preparatory Course Defined.—In this section, the term "covered prepara
 
 (Added Pub. L. 116–154, §5(a), Aug. 8, 2020, 134 Stat. 691.)
 
-#### Delayed Effective Date of Section
-
-<i>Section effective Aug. 1, 2021, see Effective Date note below.</i>
-
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date

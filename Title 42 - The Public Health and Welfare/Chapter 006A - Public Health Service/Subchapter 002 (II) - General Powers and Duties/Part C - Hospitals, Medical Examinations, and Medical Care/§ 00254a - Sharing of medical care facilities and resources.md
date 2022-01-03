@@ -20,9 +20,13 @@ For the purpose of maintaining or improving the quality of care in Public Health
 
 (July 1, 1944, ch. 373, title III, §327A, formerly §328, as added Pub. L. 90–174, §7, Dec. 5, 1967, 81 Stat. 539; renumbered §327A, Pub. L. 95–626, title I, §113(a)(2), Nov. 10, 1978, 92 Stat. 3562; amended Pub. L. 100–607, title VI, §629(a)(1), Nov. 4, 1988, 102 Stat. 3146.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Subsec. (b)(1). Pub. L. 100–607 inserted "schools of osteopathic medicine," after "schools of medicine," and "professions" after "health".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Availability of Appropriations for Expenses of Sharing Medical Care Facilities and Resources
 

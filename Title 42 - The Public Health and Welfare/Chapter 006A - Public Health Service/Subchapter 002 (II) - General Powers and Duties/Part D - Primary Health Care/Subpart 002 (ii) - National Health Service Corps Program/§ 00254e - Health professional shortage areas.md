@@ -2,7 +2,7 @@
 
 #### (a) Designation by Secretary; removal from areas designated; "medical facility" defined
 
-(1) For purposes of this subpart the term "health professional shortage area" means (A) an area in an urban or rural area (which need not conform to the geographic boundaries of a political subdivision and which is a rational area for the delivery of health services) which the Secretary determines has a health manpower shortage and which is not reasonably accessible to an adequately served area, (B) a population group which the Secretary determines has such a shortage, or (C) a public or nonprofit private medical facility or other public facility which the Secretary determines has such a shortage. All Federally qualified health centers and rural health clinics, as defined in section 1861(aa) of the Social Security Act (42 U.S.C. 1395x(aa)), that meet the requirements of section 254g of this title shall be automatically designated as having such a shortage. The Secretary shall not remove an area from the areas determined to be health professional shortage areas under subparagraph (A) of the preceding sentence until the Secretary has afforded interested persons and groups in such area an opportunity to provide data and information in support of the designation as a health professional shortage area or a population group described in subparagraph (B) of such sentence or a facility described in subparagraph (C) of such sentence, and has made a determination on the basis of the data and information submitted by such persons and groups and other data and information available to the Secretary.
+(1) For purposes of this subpart the term "health professional shortage area" means (A) an area in an urban or rural area (which need not conform to the geographic boundaries of a political subdivision and which is a rational area for the delivery of health services) which the Secretary determines has a health manpower shortage and which is not reasonably accessible to an adequately served area, (B) a population group which the Secretary determines has such a shortage, or (C) a public or nonprofit private medical facility or other public facility which the Secretary determines has such a shortage. All Federally qualified health centers and rural health clinics, as defined in section 1861(aa) of the Social Security Act (42 U.S.C. 1395x(aa)), that meet the requirements of section 254g of this title shall be automatically designated as having such a shortage. The Secretary shall not remove an area from the areas determined to be health professional shortage areas under subparagraph (A) of the preceding sentence until the Secretary has afforded interested persons and groups in such area an opportunity to provide data and information in support of the designation as a health professional shortage area or a population group described in subparagraph (B) of such sentence or a facility described in subparagraph (C) of such sentence,and has made a determination on the basis of the data and information submitted by such persons and groups and other data and information available to the Secretary.
 
 (2) For purposes of this subsection, the term "medical facility" means a facility for the delivery of health services and includes—
 
@@ -56,7 +56,7 @@ The Secretary shall give written notice of the designation of a health professio
 
 #### (g) Recommendations to Secretary
 
-Any person may recommend to the Secretary the designation of an area, population group, medical facility, or other public facility as a health professional shortage area.
+Any person may recommend to the Secretary the designation of an area, population group,medical facility, or other public facility as a health professional shortage area.
 
 #### (h) Public information programs in designated areas
 
@@ -105,6 +105,8 @@ The Administrator of the Health Resources and Services Administration shall diss
 &emsp;(B) affecting the types of health professionals, without application of this subsection, otherwise eligible for assistance, including a loan repayment or scholarship, pursuant to the application of this section.
 
 (July 1, 1944, ch. 373, title III, §332, as added Pub. L. 94–484, title IV, §407(b)(3), Oct. 12, 1976, 90 Stat. 2270; amended Pub. L. 95–142, §7(d), Oct. 25, 1977, 91 Stat. 1193; Pub. L. 96–32, §7(d), July 10, 1979, 93 Stat. 84; Pub. L. 97–35, title IX, §986(b)(4), title XXVII, §2702(a), (b), (c), Aug. 13, 1981, 95 Stat. 603, 903, 904; Pub. L. 100–77, title VI, §602, July 22, 1987, 101 Stat. 515; Pub. L. 100–177, title III, §302, Dec. 1, 1987, 101 Stat. 1003; Pub. L. 100–607, title VIII, §802(b)(2), Nov. 4, 1988, 102 Stat. 3169; Pub. L. 100–628, title VI, §602(b)(2), Nov. 7, 1988, 102 Stat. 3242; Pub. L. 101–597, title I, §102, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3014, 3035; Pub. L. 107–251, title III, §302(a), (d)(2), title VI, §601(a), Oct. 26, 2002, 116 Stat. 1643, 1645, 1664; Pub. L. 108–163, §2(f)(1), Dec. 6, 2003, 117 Stat. 2021; Pub. L. 110–355, §3(b), Oct. 8, 2008, 122 Stat. 3993; Pub. L. 115–320, §2, Dec. 17, 2018, 132 Stat. 4437.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -203,6 +205,8 @@ Subsec. (h). Pub. L. 97–35, §2702(b), substituted "may" for "shall".
 <b>1979</b>—Subsec. (a)(2)(C). Pub. L. 96–32 substituted "section 247e of this title" for "part D of subchapter II of this chapter".
 
 <b>1977</b>—Subsec. (c)(3). Pub. L. 95–142 added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

@@ -26,7 +26,7 @@ The Bureau may prescribe rules to ensure that the features of any consumer finan
 
 #### (c) Basis for rulemaking
 
-In prescribing rules under this section, the Bureau shall consider available evidence about consumer awareness, understanding of, and responses to disclosures or communications about the risks, costs, and benefits of consumer financial products or services.
+In prescribing rules under this section, the Bureau shall consider available evidence aboutconsumer awareness, understanding of, and responses to disclosures or communications about the risks, costs, and benefits of consumer financial products or services.
 
 #### (d) Safe harbor
 
@@ -44,7 +44,7 @@ Any covered person that uses a model form included with a rule issued under this
 
 #### (3) Public disclosure
 
-&emsp;The rules of the Bureau shall provide for public disclosure of trial disclosure programs,which public disclosure may be limited, to the extent necessary to encourage covered persons to conduct effective trials.
+&emsp;The rules of the Bureau shall provide for public disclosure of trial disclosure programs, which public disclosure may be limited, to the extent necessary to encourage covered persons to conduct effective trials.
 
 #### (f) Combined mortgage loan disclosure
 

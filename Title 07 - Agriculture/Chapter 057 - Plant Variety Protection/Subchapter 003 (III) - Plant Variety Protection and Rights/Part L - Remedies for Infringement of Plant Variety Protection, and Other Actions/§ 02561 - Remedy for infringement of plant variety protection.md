@@ -4,9 +4,13 @@ An owner shall have remedy by civil action for infringement of plant variety pro
 
 (Pub. L. 91–577, title III, §121, Dec. 24, 1970, 84 Stat. 1556; Pub. L. 103–349, §13(t), Oct. 6, 1994, 108 Stat. 3144.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–349 struck out "his" before "plant" in first sentence.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

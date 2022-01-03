@@ -44,7 +44,7 @@
 
 (2) In the case of a cadet who is a minor and who has parents or a guardian, the cadet may sign the agreement required by subsection (a) only with the consent of a parent or guardian.
 
-(f) A cadet or former cadet who does not fulfill the terms of the agreement as specified under subsection (a), or the alternative obligation imposed under subsection (b), shall be subject to the repayment provisions of section 303a(e) or 373 of title 37.
+(f) A cadet or former cadet who does not fulfill the terms of the agreement as specified undersubsection (a), or the alternative obligation imposed under subsection (b), shall be subject to the repayment provisions of section 303a(e) or 373 of title 37.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 243, §4348; Pub. L. 88–276, §5(a), Mar. 3, 1964, 78 Stat. 153; Pub. L. 88–647, title III, §301(9), Oct. 13, 1964, 78 Stat. 1072; Pub. L. 98–525, title V, §§541(a), 542(b), Oct. 19, 1984, 98 Stat. 2529; Pub. L. 99–145, title V, §512(a), Nov. 8, 1985, 99 Stat. 623; Pub. L. 101–189, div. A, title V, §511(b), title XVI, §1622(e)(5), Nov. 29, 1989, 103 Stat. 1439, 1605; Pub. L. 104–106, div. A, title V, §531(a), Feb. 10, 1996, 110 Stat. 314; Pub. L. 109–163, div. A, title VI, §687(c)(9), Jan. 6, 2006, 119 Stat. 3335; Pub. L. 111–84, div. A, title X, §1073(a)(29), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–383, div. A, title V, §554(a), Jan. 7, 2011, 124 Stat. 4221; Pub. L. 115–91, div. A, title V, §543(a), title VI, §618(a)(1)(K), Dec. 12, 2017, 131 Stat. 1395, 1426; renumbered §7448, Pub. L. 115–232, div. A, title VIII, §808(c)(1), Aug. 13, 2018, 132 Stat. 1839; Pub. L. 116–92, div. A, title V, §554(a), Dec. 20, 2019, 133 Stat. 1388.)
 
@@ -63,6 +63,8 @@ Historical and Revision Notes
 June 30, 1950, ch. 421, §3, 64 Stat. 304.
 
 The word "agreement" is substituted for the word "articles". The words "Hereafter", "appointed to the United States Military Academy", "engage", and 10:1092c (1st 25 words of clause (2)) are omitted as surplusage. The word "separated" is substituted for the words "discharged by competent authority". The words "if he is permitted to resign" are substituted for the words "in the event of the acceptance of his resignation", since a resignation is effective only when accepted. The first 31 words of clause (3) are substituted for 10:1092c (last 29 words of clause (3)). The last sentence is substituted for the words "with the consent of his parents or guardian if he be a minor, and if any he have".
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -108,13 +110,15 @@ Subsec. (a)(3). Pub. L. 98–525, §524(b), substituted "at least the sixth anni
 
 Subsec. (a)(2). Pub. L. 88–276 substituted "five" for "three".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 2017 Amendment
 
-Pub. L. 115–91, div. A, title V, §543(d), Dec. 12, 2017, 131 Stat. 1396, provided that: "The Secretaries of the military departments shall promptly revise the cadet and midshipman service agreements under sections 4348, 6959, and 9348 \[now 7448, 8459, and 9448\] of title 10, UnitedStates Code, to reflect the amendments made by this section \[amending this section and sections 6959 and 9348 of this title\]. The revised agreement shall apply to cadets and midshipmen who are attending the United States Military Academy, the United States Naval Academy, or the United States Air Force Academy on the date of the enactment of this Act \[Dec. 12, 2017\] and to persons who begin attendance at such military service academies on or after that date."
+Pub. L. 115–91, div. A, title V, §543(d), Dec. 12, 2017, 131 Stat. 1396, provided that: "The Secretaries of the military departments shall promptly revise the cadet and midshipman service agreements under sections 4348, 6959, and 9348 \[now 7448, 8459, and 9448\] of title 10, United States Code, to reflect the amendments made by this section \[amending this section and sections 6959 and 9348 of this title\]. The revised agreement shall apply to cadets and midshipmen who are attending the United States Military Academy, the United States Naval Academy, or the United States Air Force Academy on the date of the enactment of this Act \[Dec. 12, 2017\] and to persons who begin attendance at such military service academies on or after that date."
 
 #### Effective Date of 1996 Amendment
 

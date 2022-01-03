@@ -10,7 +10,7 @@
 
 #### (A) At time of obtaining permanent residence
 
-&emsp;&emsp;At the time an alien entrepreneur, alien spouse, or alien child obtains permanent resident status on a conditional basis under paragraph (1), the Attorney General shall provide for notice to such an entrepreneur, spouse, or child respecting the provisions ofthis section and the requirements of subsection (c)(1) to have the conditional basis of such status removed.
+&emsp;&emsp;At the time an alien entrepreneur, alien spouse, or alien child obtains permanent resident status on a conditional basis under paragraph (1), the Attorney General shall provide for notice to such an entrepreneur, spouse, or child respecting the provisions of this section and the requirements of subsection (c)(1) to have the conditional basis of such status removed.
 
 #### (B) At time of required petition
 
@@ -18,7 +18,7 @@
 
 #### (C) Effect of failure to provide notice
 
-&emsp;&emsp;The failure of the Attorney General to provide a notice under this paragraph shall not affect the enforcement of the provisions of this section with respect to such an entrepreneur, spouse, or child.
+&emsp;&emsp;The failure of the Attorney General to provide a notice under this paragraph shall notaffect the enforcement of the provisions of this section with respect to such an entrepreneur, spouse, or child.
 
 #### (b) Termination of status if finding that qualifying entrepreneurship improper
 
@@ -84,11 +84,11 @@
 
 #### (C) Termination if adverse determination
 
-&emsp;&emsp;If the Attorney General determines that such facts and information are not true, the Attorney General shall so notify the alien involved and, subject to subparagraph (D), shall terminate the permanent residentstatus of an alien entrepreneur, alien spouse, or alien child as of the date of the determination.
+&emsp;&emsp;If the Attorney General determines that such facts and information are not true, the Attorney General shall so notify the alien involved and, subject to subparagraph (D), shall terminate the permanent resident status of an alien entrepreneur, alien spouse, or alien child as of the date of the determination.
 
 #### (D) Hearing in removal proceeding
 
-&emsp;&emsp;Any alien whose permanent resident status is terminated under subparagraph (C) may request a review of such determination in a proceeding to remove the alien. In such proceeding, the burden of proof shall be on the Attorney General to establish, by a preponderance of the evidence, that the facts and information described in subsection (d)(1) and alleged in the petition are not true with respect to the qualifying commercial enterprise.
+&emsp;&emsp;Any alien whose permanent resident status is terminated under subparagraph (C) may request a review of such determination in a proceeding to remove the alien. In such proceeding, the burden of proof shall be on the Attorney General to establish, by a preponderance of the evidence, that the facts and information described in subsection (d)(1) and alleged in the petition are not truewith respect to the qualifying commercial enterprise.
 
 #### (d) Details of petition and interview
 

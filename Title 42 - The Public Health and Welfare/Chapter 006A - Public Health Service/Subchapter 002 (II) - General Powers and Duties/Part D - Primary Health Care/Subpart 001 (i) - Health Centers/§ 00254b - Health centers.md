@@ -140,7 +140,7 @@ For purposes of this section:
 
 #### (1) Centers
 
-&emsp;The Secretary may make grants to public and nonprofit private entities for projects to plan and develop health centers which will serve medically underserved populations. Aproject for which a grant may be made under this subsection may include the cost of the acquisition and lease of buildings and equipment (including the costs of amortizing the principal of, and paying the interest on, loans) and shall include—
+&emsp;The Secretary may make grants to public and nonprofit private entities for projects to plan and develop health centers which will serve medically underserved populations. A project for which a grant may be made under this subsection may include the cost of the acquisition and lease of buildings and equipment (including the costs of amortizing the principal of, and paying the interest on, loans) and shall include—
 
 &emsp;&emsp;(A) an assessment of the need that the population proposed to be served by the health center for which the project is undertaken has for required primary health services and additional health services;
 
@@ -164,7 +164,7 @@ For purposes of this section:
 
 #### (B) High poverty area defined
 
-&emsp;&emsp;For purposes of subparagraph (A), the term "high poverty area" means a catchment area which is established in a manner that is consistent with the factors in subsection (k)(3)(J), and the poverty rate of which is greater than the national average poverty rate as determined by the Bureau of the Census.
+&emsp;&emsp;For purposes of subparagraph (A), the term "high poverty area" means a catchmentarea which is established in a manner that is consistent with the factors in subsection (k)(3)(J), and the poverty rate of which is greater than the national average poverty rate as determined by the Bureau of the Census.
 
 #### (d) Improving quality of care
 
@@ -320,7 +320,7 @@ For purposes of this section:
 
 &emsp;&emsp;(B) such services will be continuous for each such recipient;
 
-&emsp;&emsp;(C) the center will provide follow-up services for individuals who are referred by the center for services described in paragraph (1);
+&emsp;&emsp;(C) the center will provide follow-up services for individuals who are referred by thecenter for services described in paragraph (1);
 
 &emsp;&emsp;(D) the grant will be expended to supplement, and not supplant, the expenditures of the center for primary health services (including prenatal care) with respect to the purpose described in this subsection; and
 
@@ -374,7 +374,7 @@ For purposes of this section:
 
 #### (2) Required services
 
-&emsp;In addition to required primary health services (as defined in subsection (b)(1)), an entitythat receives a grant under this subsection shall be required to provide substance abuse services as a condition of such grant.
+&emsp;In addition to required primary health services (as defined in subsection (b)(1)), an entity that receives a grant under this subsection shall be required to provide substance abuse services as a condition of such grant.
 
 #### (3) Supplement not supplant requirement
 
@@ -394,7 +394,7 @@ For purposes of this section:
 
 #### (B) Substance use disorder services
 
-&emsp;&emsp;The term "substance use disorder services" includes detoxification, risk reduction, outpatient treatment, residential treatment, and rehabilitation for substance abuse provided in settings other than hospitals.
+&emsp;&emsp;The term "substance use disorder services" includes detoxification, risk reduction,outpatient treatment, residential treatment, and rehabilitation for substance abuse provided in settings other than hospitals.
 
 #### (i) Residents of public housing
 
@@ -456,7 +456,7 @@ For purposes of this section:
 
 #### (6) Authorization of appropriations
 
-&emsp;There are authorized to be appropriated to carry out this subsection, in addition to anyfunds authorized to be appropriated or appropriated for health centers under any other subsection of this section, such sums as may be necessary for each of fiscal years 2002 through 2006.
+&emsp;There are authorized to be appropriated to carry out this subsection, in addition to any funds authorized to be appropriated or appropriated for health centers under any other subsection of this section, such sums as may be necessary for each of fiscal years 2002 through 2006.
 
 #### (k) Applications
 
@@ -508,7 +508,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;&emsp;(I) to secure from patients payment for services in accordance with such schedules; and
 
-&emsp;&emsp;&emsp;&emsp;(II) to collect reimbursement for health services to persons described insubparagraph (F) on the basis of the full amount of fees and payments for such services without application of any discount;
+&emsp;&emsp;&emsp;&emsp;(II) to collect reimbursement for health services to persons described in subparagraph (F) on the basis of the full amount of fees and payments for such services without application of any discount;
 
 &emsp;&emsp;&emsp;(iii)(I) will assure that no patient will be denied health care services due to an individual's inability to pay for such services; and
 
@@ -564,7 +564,7 @@ For purposes of this section:
 
 #### (l) Technical assistance
 
-The Secretary shall establish a program through which the Secretary shall provide (either through the Department of Health and Human Services or by grant or contract) technical and other assistance to eligible entities to assist such entities to meet the requirements of subsection (k)(3). Services provided through the program may include necessary technical and nonfinancial assistance, including fiscal and program management assistance, training in fiscal and program management, operational andadministrative support, and the provision of information to the entities of the variety of resources available under this subchapter and how those resources can be best used to meet the health needs of the communities served by the entities. Funds expended to carry out activities under this subsection and operational support activities under subsection (m) shall not exceed 3 percent of the amount appropriated for this section for the fiscal year involved.
+The Secretary shall establish a program through which the Secretary shall provide (either through the Department of Health and Human Services or by grant or contract) technical and other assistance to eligible entities to assist such entities to meet the requirements of subsection (k)(3). Services provided through the program may include necessary technical and nonfinancial assistance, including fiscal and program management assistance, training in fiscal and program management, operational and administrative support, and the provision of information to the entities of the variety of resources available under this subchapter and how those resources can be best used to meet the health needs of the communities served by the entities. Funds expended to carry out activities under this subsection and operational support activities under subsection (m) shall not exceed 3 percent of the amount appropriated for this section for the fiscal year involved.
 
 #### (m) Memorandum of agreement
 
@@ -652,7 +652,7 @@ In making grants under this section, the Secretary shall give special considerat
 
 #### (A) Public centers
 
-&emsp;&emsp;The Secretary may not expend in any fiscal year, for grants under this section to public centers (as defined in the second sentence of subsection (k)(3)) the governing boards of which (as described in subsection (k)(3)(H)) do not establish general policies for such centers, an amount which exceeds 5 percent of the amounts appropriated under this section for that fiscal year. For purposes of applying the preceding sentence, the term "public centers" shall not include health centers that receive grants pursuant to subsection (h) or (i).
+&emsp;&emsp;The Secretary may not expend in any fiscal year, for grants under this section to public centers (as defined in the second sentence of subsection (k)(3)) the governing boards of which (as described in subsection (k)(3)(H)) do not establish general policies for such centers, an amount which exceeds 5 percent of the amounts appropriated underthis section for that fiscal year. For purposes of applying the preceding sentence, the term "public centers" shall not include health centers that receive grants pursuant to subsection (h) or (i).
 
 #### (B) Distribution of grants
 
@@ -704,9 +704,11 @@ In making grants under this section, the Secretary shall give special considerat
 
 (July 1, 1944, ch. 373, title III, §330, as added Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626; amended Pub. L. 107–251, title I, §101, Oct. 26, 2002, 116 Stat. 1622; Pub. L. 108–163, §2(a), Dec. 6, 2003, 117 Stat. 2020; Pub. L. 110–355, §2(a), (c)(1), Oct. 8, 2008, 122 Stat. 3988, 3992; Pub. L. 111–148, title IV, §4206, title V, §5601, Mar. 23, 2010, 124 Stat. 576, 676; Pub. L. 115–123, div. E, title IX, §50901(b), Feb. 9, 2018, 132 Stat. 283; Pub. L. 116–136, div. A, title III, §3211(a), Mar. 27, 2020, 134 Stat. 368; Pub. L. 116–260, div. BB, title III, §311(c), Dec. 27, 2020, 134 Stat. 2925.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Social Security Act, referred to in subsec. (k)(3)(E)(i), (F), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (k)(3)(E)(i), (F), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification ofthis Act to the Code, see section 1305 of this title and Tables.
 
 The Indian Self-Determination Act, referred to in subsec. (k)(3)(H), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§5321 et seq.) of chapter 46 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
@@ -770,7 +772,7 @@ Subsec. (k)(4). Pub. L. 115–123, §50901(b)(9)(C), struck out par. (4) which r
 
 Subsec. (l). Pub. L. 115–123, §50901(b)(10), inserted at end "Funds expended to carry out activities under this subsection and operational support activities under subsection (m) shall not exceed 3 percent of the amount appropriated for this section for the fiscal year involved."
 
-Subsec. (q)(4). Pub. L. 115–123, §50901(b)(11), inserted at end "A waiver provided by the Secretary under this paragraph may not remain in effect for more than 1 year and may not be extended after such period. An entity may not receive more than one waiver under this paragraph in consecutive years."
+Subsec. (q)(4). Pub. L. 115–123, §50901(b)(11), inserted at end "A waiver provided by the Secretary under this paragraph may not remain in effect for more than 1year and may not be extended after such period. An entity may not receive more than one waiver under this paragraph in consecutive years."
 
 Subsec. (r)(3). Pub. L. 115–123, §50901(b)(12), substituted "Committee on Health, Education, Labor, and Pensions of the Senate, and the Committee on Energy and Commerce of the House of Representatives, a report including, at a minimum—" for "appropriate committees of Congress a report concerning the distribution of funds under this section", inserted "(A) the distribution of funds for carrying out this section" before "that are provided", substituted "particular populations;" for "particular populations. Such report shall include", inserted subsec. (B) designation before "an assessment", substituted "targeted populations;" for "targeted populations and the rationale for any substantial changes in the distribution of funds.", and added subpars. (C) to (I).
 
@@ -852,7 +854,7 @@ Subsec. (b)(2)(A)(i). Pub. L. 107–251, §101(2)(A), substituted "associated wi
 
 Subsec. (b)(2)(B) to (D). Pub. L. 107–251, §101(2)(B), (C), added subpar. (B) and redesignated former subpars. (A) and (B) as (C) and (D), respectively.
 
-Subsec. (c)(1)(B). Pub. L. 107–251, §101(3)(A)(iii), struck out concluding provisions which read as follows: "Any such grant may include the acquisition and lease of buildings and equipment which may include data and information systems (including the costs of amortizing the principal of, and paying the interest on, loans), and providing training and technical assistance related to the provision of health services on a prepaid basis or under another managed care arrangement, and for other purposes that promote the development of managed care networks and plans."
+Subsec. (c)(1)(B). Pub. L. 107–251, §101(3)(A)(iii), struck out concluding provisions which read as follows: "Any such grant may include the acquisition and lease of buildings and equipment which may include data and information systems (including the costs of amortizing the principal of, and paying the interest on, loans), and providing training and technical assistance related to the provision of health services on a prepaid basis or under another managed care arrangement, and forother purposes that promote the development of managed care networks and plans."
 
 Pub. L. 107–251, §101(3)(A)(ii), in introductory provisions, substituted "managed care network or plan." for "network or plan for the provision of health services, which may include the provision of health services on a prepaid basis or through another managed care arrangement, to some or to all of the individuals which the centers serve".
 
@@ -932,6 +934,8 @@ Subsec. (s)(2)(A). Pub. L. 107–251, §101(11)(B)(i), substituted "(l)(3)" for 
 
 Subsec. (s)(2)(B). Pub. L. 107–251, §101(11)(B)(ii), added subpar. (B) and struck out heading and text of former subpar. (B) relating to distribution of grants for fiscal years 1997 through 1999.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
 Pub. L. 110–355, §2(c)(2), Oct. 8, 2008, 122 Stat. 3992, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to grants made on or after January 1, 2009."
@@ -947,6 +951,34 @@ Section effective Oct. 1, 1996, see section 5 of Pub. L. 104–299, as amended, 
 #### Savings Provision for Current Grants, Contracts, and Cooperative Agreements
 
 Pub. L. 104–299, §3(b), Oct. 11, 1996, 110 Stat. 3644, provided that: "The Secretary of Health and Human Services shall ensure the continued funding of grants made, or contracts or cooperative agreements entered into, under subpart I of part D of title III of the Public Health Service Act (42 U.S.C. 254b et seq.) (as such subpart existed on the day prior to the date of enactment of this Act \[Oct. 11, 1996\]), until the expiration of the grant period or the term of the contract or cooperative agreement. Such funding shall be continued under the same terms and conditions as were in effect on the date on which the grant, contract or cooperative agreement was awarded, subject to the availability of appropriations."
+
+#### Funding for Community Health Centers and Community Care
+
+Pub. L. 117–2, title II, §2601, Mar. 11, 2021, 135 Stat. 43, provided that:
+
+"(a)
+
+In General.—In addition to amounts otherwise available, there is appropriated to the Secretary of Health and Human Services (in this subtitle \[subtitle G (§§2601–2605) of title II of Pub. L 117–2, see Tables for classification\] referred to as the 'Secretary') for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $7,600,000,000, to remain available until expended, for necessary expenses for awarding grants and cooperative agreements under section 330 of the Public Health Service Act (42 U.S.C. 254b) to be awarded without regard to the time limitation in subsection (e)(3) and subsections (e)(6)(A)(iii), (e)(6)(B)(iii), and (r)(2)(B) of such section 330, and for necessary expenses for awarding grants to Federally qualified health centers, as described in section 1861(aa)(4)(B) of the Social Security Act (42 U.S.C. 1395x(aa)(4)(B)), and for awarding grants or contracts to Papa Ola Lokahi and to qualified entities under sections 4 and 6 of the Native Hawaiian Health Care Improvement Act (42 U.S.C. 11703, 11705). Of the total amount appropriated by the preceding sentence, not less than $20,000,000 shall be for grants or contracts to Papa Ola Lokahi and to qualified entities under sections 4 and 6 of the Native Hawaiian Health Care Improvement Act (42 U.S.C. 11703, 11705).
+
+"(b)
+
+Use of Funds.—Amounts made available to an awardee pursuant to subsection (a) shall be used—
+
+&emsp;"(1) to plan, prepare for, promote, distribute, administer, and track COVID–19 vaccines, and to carry out other vaccine-related activities;
+
+&emsp;"(2) to detect, diagnose, trace, and monitor COVID–19 infections and related activities necessary to mitigate the spread of COVID–19, including activities related to, and equipment or supplies purchased for, testing, contact tracing, surveillance, mitigation, and treatment of COVID–19;
+
+&emsp;"(3) to purchase equipment and supplies to conduct mobile testing or vaccinations for COVID–19, to purchase and maintain mobile vehicles and equipment to conduct such testing or vaccinations, and to hire and train laboratory personnel and other staff to conduct such mobile testing or vaccinations, particularly in medically underserved areas;
+
+&emsp;"(4) to establish, expand, and sustain the health care workforce to prevent, prepare for, and respond to COVID–19, and to carry out other health workforce-related activities;
+
+&emsp;"(5) to modify, enhance, and expand health care services and infrastructure; and
+
+&emsp;"(6) to conduct community outreach and education activities related to COVID–19.
+
+"(c)
+
+Past Expenditures.—An awardee may use amounts awarded pursuant to subsection (a) to cover the costs of the awardee carrying out any of the activities described in subsection (b) during the period beginning on the date of the declaration of a public health emergency by the Secretary under section 319 of the Public Health Service Act (42 U.S.C. 247d) on January 31, 2020, with respect to COVID–19 and ending on the date of such award."
 
 #### Negotiated Rulemaking for Development of Methodology and Criteria for Designating Medically Underserved Populations and Health Professions Shortage Areas
 
@@ -998,7 +1030,7 @@ Appointment of Negotiated Rulemaking Committee and Facilitator.—The Secretary 
 
 "(e)
 
-Preliminary Committee Report.—The negotiated rulemaking committee appointed under subsection (d) shall report to the Secretary, by not later than April 1, 2010, regarding the committee's progress on achieving a consensus with regard to the rulemaking proceeding and whether such consensus is likely to occur before one month before the target date for publication of the rule. If the committee reports that the committee has failed to make significant progress toward such consensus or is unlikely to reach such consensus by the target date, the Secretary may terminate such process and provide for the publication of a rule under this section through such other methods as the Secretary may provide.
+Preliminary Committee Report.—The negotiated rulemaking committee appointed under subsection (d) shall report to the Secretary, by not later than April 1, 2010, regarding the committee's progress on achieving a consensus with regard to the rulemaking proceeding and whether such consensus is likely to occur before one month before the target date for publication of the rule. If the committee reports thatthe committee has failed to make significant progress toward such consensus or is unlikely to reach such consensus by the target date, the Secretary may terminate such process and provide for the publication of a rule under this section through such other methods as the Secretary may provide.
 
 "(f)
 
@@ -1100,6 +1132,8 @@ Pub. L. 104–299, §4(c), Oct. 11, 1996, 110 Stat. 3645, provided that: "Whenev
 
 Pub. L. 104–299, §4(e), Oct. 11, 1996, 110 Stat. 3645, provided that: "After consultation with the appropriate committees of the Congress, the Secretary of Health and Human Services shall prepare and submit to the Congress a legislative proposal in the form of an implementing bill containing technical and conforming amendments to reflect the changes made by this Act \[see Short Title of 1996 Amendments note set out under section 201 of this title\]."
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 13937. Access to Affordable Life-Saving Medications
 
 Ex. Ord. No. 13937, July 24, 2020, 85 F.R. 45755, provided:
@@ -1110,7 +1144,7 @@ Section 1. <i>Purpose</i>. Insulin is a critical and life-saving medication that
 
 The price of insulin in the United States has risen dramatically over the past decade. The list price for a single vial of insulin today is often more than $250 and most patients use at least two vials per month. As for injectable epinephrine, recent increased competition is helping to drive prices down. Nevertheless, the price for some types of injectable epinephrine remains more than $600 per kit. While Americans with diabetes and severe allergic reactions may have access to affordable insulin and injectable epinephrine through commercial insurance or Federal programs such as Medicare and Medicaid, many Americans still struggle to purchase these products.
 
-Federally Qualified Health Centers (FQHCs), as defined in section 1905(l)(2)(B)(i) and (ii) of the Social Security Act, as amended, 42 U.S.C. 1396d(l)(2)(B)(i) and\(ii), receive discounted prices through the 340B Prescription Drug Program on prescription drugs. Due to the sharp increases in list prices for many insulins and some types of injectable epinephrine in recent years, many of these products may be subject to the "penny pricing" policy when distributed to FQHCs, meaning FQHCs may purchase the drug at a price of one penny per unit of measure. These steep discounts, however, are not always passed through to low-income Americans at the point of sale. Those with low-incomes can be exposed to high insulin and injectable epinephrine prices, as they often do not benefit from discounts negotiated by insurers or the Federal or State governments.
+Federally Qualified Health Centers (FQHCs), as defined in section 1905(l)(2)(B)(i) and (ii) of the Social Security Act, as amended, 42 U.S.C. 1396d(l)(2)(B)(i) and (ii), receive discounted prices through the 340B Prescription Drug Program on prescription drugs. Due to the sharp increases in list prices for many insulins and some types of injectable epinephrine in recent years, many of these products may be subject to the "penny pricing" policy when distributed to FQHCs, meaning FQHCs may purchase the drug at a price of one penny per unit of measure. These steep discounts, however, are not always passed through to low-income Americans at the point of sale. Those with low-incomes can be exposed to high insulin and injectable epinephrine prices, as they often do not benefit from discounts negotiated by insurers or the Federal or State governments.
 
 Sec. 2. <i>Policy</i>. It is the policy of the United States to enable Americans without access to affordable insulin and injectable epinephrine through commercial insurance or Federal programs, such as Medicare and Medicaid, to purchase these pharmaceuticals from an FQHC at a price that aligns with the cost at which the FQHC acquired the medication.
 

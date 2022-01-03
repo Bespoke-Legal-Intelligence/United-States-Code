@@ -16,7 +16,7 @@ In leading the development of plans for cyber defense operations pursuant to sub
 
 &emsp;(4) ensure that plans for cyber defense operations, as appropriate, are responsive to potential adversary activity conducted in response to United States offensive cyber operations;
 
-&emsp;(5) facilitate the exercise of plans for cyber defense operations, including by developing and modeling scenarios based on an understanding of adversary threats to, vulnerability of, and potential consequences of disruption or compromise of critical infrastructure;
+&emsp;(5) facilitate the exercise of plans for cyber defense operations, including by developingand modeling scenarios based on an understanding of adversary threats to, vulnerability of, and potential consequences of disruption or compromise of critical infrastructure;
 
 &emsp;(6) coordinate with and, as necessary, support relevant Federal departments and agencies in the establishment of procedures, development of additional plans, including for offensive and intelligence activities in support of cyber defense operations, and creation of agreements necessary for the rapid execution of plans for cyber defense operations when a cybersecurity risk or incident or malicious cyber operation has been identified; and
 
@@ -80,11 +80,11 @@ In this section:
 
 &emsp;The term "information sharing and analysis organization" has the meaning given such term in section 671(5) of this title.
 
-(Pub. L. 107–296, title XXII, §2215, as added Pub. L. 116–283, div. A, title XVII, §1715(a), Jan. 1, 2021, 134 Stat. 4092.)
+(Pub. L. 107–296, title XXII, §2216, formerly §2215, as added Pub. L. 116–283, div. A, title XVII, §1715(a), Jan. 1, 2021, 134 Stat. 4092; renumbered §2216 and amended Pub. L. 117–81, div. A, title XV, §1547(b)(1)(A)(iii), Dec. 27, 2021, 135 Stat. 2061.)
 
 #### <b>Editorial Notes</b>
 
-#### Codification
+#### Amendments
 
-Other sections 2215 of Pub. L. 107–296 are classified to sections 665, 665c, and 665d of this title.
+<b>2021</b>—Pub. L. 117–81 reenacted section catchline.
 

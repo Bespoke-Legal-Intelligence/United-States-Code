@@ -70,7 +70,7 @@ In this section:
 
 The Secretary is authorized to award grants, on a competitive basis, to States to enable each such State to work with a statewide partnership—
 
-&emsp;(1) to promote better alignment of content knowledge requirements for secondary school graduation with the knowledge and skills needed to succeed in postsecondary education, the 21st century workforce, or the Armed Forces; or
+&emsp;(1) to promote better alignment of content knowledge requirements for secondary schoolgraduation with the knowledge and skills needed to succeed in postsecondary education, the 21st century workforce, or the Armed Forces; or
 
 &emsp;(2) to establish or improve a statewide P–16 education data system.
 
@@ -272,6 +272,8 @@ There are authorized to be appropriated to carry out this section $120,000,000 f
 
 (Pub. L. 110–69, title VI, §6201, formerly §6401, Aug. 9, 2007, 121 Stat. 668; renumbered §6201 and amended Pub. L. 111–358, title X, §§1002(b)(3), 1003(c), Jan. 4, 2011, 124 Stat. 4048, 4049; Pub. L. 114–95, title IX, §9215(i)(4), Dec. 10, 2015, 129 Stat. 2168.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsecs. (e)(2)(C)(ii)(II) and (i)(2), is Pub. L. 110–69, Aug. 9, 2007, 121 Stat. 572, known as the America COMPETES Act, and also as the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Act. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables.
@@ -282,9 +284,11 @@ A prior section 6201 of Pub. L. 110–69 was classified to section 9851 of this 
 
 #### Amendments
 
-<b>2015</b>—Subsec. (e)(2)(D)(ii)(I). Pub. L. 114–95, which directed amendment of section 6401(e)(2)(D)(ii)(I) of Pub.L. 110–69 by substituting "yearly test records of individual students with respect to assessments under section 6311(b)(2) of this title" for "yearly test records of individual students with respect to assessments under section 6311(b) of this title", was executed to this section to reflect the probable intent of Congress and the renumbering of section 6401 of Pub. L. 110–69 as this section.
+<b>2015</b>—Subsec. (e)(2)(D)(ii)(I). Pub. L. 114–95, which directed amendment of section 6401(e)(2)(D)(ii)(I) of Pub. L. 110–69 by substituting "yearly test records of individual students with respect to assessments under section 6311(b)(2) of this title" for "yearly test records of individual students with respect to assessments undersection 6311(b) of this title", was executed to this section to reflect the probable intent of Congress and the renumbering of section 6401 of Pub. L. 110–69 as this section.
 
 <b>2011</b>—Subsec. (j). Pub. L. 111–358, §1003(c), amended subsec. (j) generally. Prior to amendment, text read as follows: "There are authorized to be appropriated to carry out this section $120,000,000 for fiscal year 2008 and such sums as may be necessary for fiscal year 2009."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

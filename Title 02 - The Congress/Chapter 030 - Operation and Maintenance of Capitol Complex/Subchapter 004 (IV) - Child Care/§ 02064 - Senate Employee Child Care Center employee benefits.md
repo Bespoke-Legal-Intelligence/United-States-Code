@@ -30,7 +30,7 @@ An individual described under subsection (a) shall be deemed an employee under s
 
 #### (f) Government contributions
 
-Government contributions for individuals receiving benefits under this section, as computed under sections 8423, 8432, and 8708,<sup>2</sup> shall be madeby the Secretary of the Senate from the appropriations account, within the contingent fund of the Senate, "Miscellaneous Items".
+Government contributions for individuals receiving benefits under this section, as computed under sections 8423, 8432, and 8708,<sup>2</sup> shall be made by the Secretary of the Senate from the appropriations account, within the contingent fund of the Senate, "Miscellaneous Items".
 
 #### (g) Certification of creditable service
 

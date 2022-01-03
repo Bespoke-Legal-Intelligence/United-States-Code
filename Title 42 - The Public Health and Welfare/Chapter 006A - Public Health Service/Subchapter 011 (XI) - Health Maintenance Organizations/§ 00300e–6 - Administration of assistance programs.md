@@ -22,7 +22,9 @@ An entity which provides health services to a defined population on a prepaid ba
 
 > An entity which provides health services to a defined population on a prepaid basis and which has members who are enrolled under the health benefits program authorized by chapter 89 of title 5, may be considered as a health maintenance organization for purposes of receiving assistance under this subchapter if with respect to its other members it provides health services in accordance with section 300e(b) of this title and is organized and operated in the manner prescribed by section 300e(c) of this title.
 
-(July 1, 1944, ch. 373, title XIII, §1307, as added Pub. L. 93–222, §2, Dec. 29, 1973, 87 Stat. 926; amended Pub. L. 94–460, title I, §§109(b)(1), 112, Oct. 8, 1976, 90 Stat. 1950, 1953; Pub. L. 97–35, title IX, §943(d), Aug. 13, 1981, 95 Stat. 576; Pub. L. 99–660, title VIII, §803(a), (b)(2), Nov. 14, 1986, 100 Stat. 3799, 3800.)
+(July 1, 1944, ch. 373, title XIII, §1307, as added Pub. L. 93–222, §2, Dec. 29, 1973, 87 Stat. 926;amended Pub. L. 94–460, title I, §§109(b)(1), 112, Oct. 8, 1976, 90 Stat. 1950, 1953; Pub. L. 97–35, title IX, §943(d), Aug. 13, 1981, 95 Stat. 576; Pub. L. 99–660, title VIII, §803(a), (b)(2), Nov. 14, 1986, 100 Stat. 3799, 3800.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -41,6 +43,8 @@ Subsec. (c). Pub. L. 99–660, §803(a), struck out subsec. (c) which read as fo
 <b>1976</b>—Subsec. (d). Pub. L. 94–460, §112, inserted sentence at end setting conditions upon which an entity providing health services to a defined population on a prepaid basis may be considered as a health maintenance organization for purposes of receiving assistance under this subchapter.
 
 Subsec. (e). Pub. L. 94–460, §109(b)(1), inserted "for a private health maintenance organization (other than a private nonprofit health maintenance organization)" after "may be made", and "for private health maintenance organizations (other than private nonprofit health maintenance organizations)" after "guaranteed".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

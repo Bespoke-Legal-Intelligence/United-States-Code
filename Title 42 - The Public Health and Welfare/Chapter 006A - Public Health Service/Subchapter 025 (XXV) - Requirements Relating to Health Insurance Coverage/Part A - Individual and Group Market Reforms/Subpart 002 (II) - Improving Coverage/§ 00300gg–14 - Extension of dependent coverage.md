@@ -14,6 +14,8 @@ Nothing in this section shall be construed to modify the definition of "dependen
 
 (July 1, 1944, ch. 373, title XXVII, §2714, as added Pub. L. 111–148, title I, §1001(5), Mar. 23, 2010, 124 Stat. 132; amended Pub. L. 111–152, title II, §2301(b), Mar. 30, 2010, 124 Stat. 1082.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 2714 of act July 1, 1944, was successively renumbered by subsequent acts and transferred, see section 238m of this title.
@@ -21,6 +23,8 @@ A prior section 2714 of act July 1, 1944, was successively renumbered by subsequ
 #### Amendments
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–152 struck out "(who is not married)" after "adult child".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

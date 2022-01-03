@@ -8,7 +8,7 @@ General Equipment Requirements.—An air carrier shall make, or cause to be made
 
 Duties of Inspectors.—The Administrator of the Federal Aviation Administration shall employ inspectors who shall—
 
-&emsp;(1) inspect aircraft, aircraft engines, propellers, and appliances designed for use in air transportation, during manufacture and whenin use by an air carrier in air transportation, to enable the Administrator to decide whether the aircraft, aircraft engines, propellers, or appliances are in safe condition and maintained properly; and
+&emsp;(1) inspect aircraft, aircraft engines, propellers, and appliances designed for use in air transportation, during manufacture and when in use by an air carrier in air transportation, to enable the Administrator to decide whether the aircraft, aircraft engines, propellers, or appliances are in safe condition and maintained properly; and
 
 &emsp;(2) advise and cooperate with the air carrier during that inspection and maintenance.
 
@@ -116,17 +116,21 @@ In subsections (a)–(c), the word "Administrator" in section 605(a) and (b) of 
 
 In subsection (a), the word "overhaul" is omitted as being included in "repair". The word "prescribed" is added for consistency in the revised title and with other titles of the United States Code. The words "A person operating, inspecting, overhauling, or maintaining the equipment shall comply with those requirements, regulations, and orders" are substituted for 49 App.:1425(a) (last sentence) to eliminate unnecessary words.
 
-In subsection (b), before clause (1), the words "be charged with the duty . . . of" are omitted as surplus. In clause (1), the words "in use" are substituted for "used by an air carrier in air transportation" to eliminate unnecessary words. The words "as may be necessary" and "for operation in air transportation" are omitted as surplus.
+In subsection (b), before clause (1), the words "be charged with the duty . . . of" are omitted as surplus.In clause (1), the words "in use" are substituted for "used by an air carrier in air transportation" to eliminate unnecessary words. The words "as may be necessary" and "for operation in air transportation" are omitted as surplus.
 
 In subsection (c), the words "in the performance of his duty", "used or intended to be used by any air carrier in air transportation", and "a period of" are omitted as surplus.
 
-In subsection (d)(1), before clause (A), the words "not used to provide air transportation" are substituted forsection 7214 of the Anti-Drug Abuse Act of 1988 (Public Law 100–690, 102 Stat. 4434) because of the restatement.
+In subsection (d)(1), before clause (A), the words "not used to provide air transportation" are substituted for section 7214 of the Anti-Drug Abuse Act of 1988 (Public Law 100–690, 102 Stat. 4434) because of the restatement.
 
 In subsection (d)(2), the words "Not later than September 18, 1989" and "final" are omitted as obsolete. The words "Administrator of Drug Enforcement" are substituted for "Drug Enforcement Administration of the Department of Justice" because of section 5(a) of Reorganization Plan No. 2 of 1973 (eff. July 1, 1973, 87 Stat. 1092). The words "Commissioner of Customs" are substituted for "United States Customs Service" because of 19:2071.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>1996</b>—Subsec. (e). Pub. L. 104–264 added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

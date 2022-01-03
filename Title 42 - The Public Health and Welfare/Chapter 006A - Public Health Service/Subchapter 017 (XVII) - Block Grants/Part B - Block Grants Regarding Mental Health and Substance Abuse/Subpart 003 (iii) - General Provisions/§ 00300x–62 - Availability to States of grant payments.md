@@ -4,17 +4,19 @@ Any amounts paid to a State for a fiscal year under section 300x or 300x–21 of
 
 (July 1, 1944, ch. 373, title XIX, §1952, as added Pub. L. 102–321, title II, §203(a), July 10, 1992, 106 Stat. 409; amended Pub. L. 106–310, div. B, title XXXIV, §3403(b), Oct. 17, 2000, 114 Stat. 1220.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Pub. L. 106–310 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows:
 
 "(a)
 
-In General.—Subject to subsection (b) of this section, any amounts paid to a State under the program involved shall be available for obligation until the end of the fiscal year for which the amounts werepaid, and if obligated by the end of such year, shall remain available for expenditure until the end of the succeeding fiscal year.
+In General.—Subject to subsection (b) of this section, any amounts paid to a State under the program involved shall be available for obligation until the end of the fiscal year for which the amounts were paid, and if obligated by the end of such year, shall remain available for expenditure until the end of the succeeding fiscal year.
 
 "(b)
 
-Exception Regarding Noncompliance of Subgrantees.—If a State has in accordance with subsection (a) of this section obligated amounts paid to the State under the program involved, in any case in which the Secretary determines that the obligation consists of a grant or contract awarded by the State, and that the State has terminated or reduced the amount of such financial assistance on the basis of the failure of the recipient of the assistance to comply with the terms upon which the assistance was conditioned—
+Exception Regarding Noncompliance of Subgrantees.—If a State has in accordance with subsection (a) of this section obligated amounts paid tothe State under the program involved, in any case in which the Secretary determines that the obligation consists of a grant or contract awarded by the State, and that the State has terminated or reduced the amount of such financial assistance on the basis of the failure of the recipient of the assistance to comply with the terms upon which the assistance was conditioned—
 
 &emsp;"(1) the amounts involved shall be available for reobligation by the State through September 30 of the fiscal year following the fiscal year for which the amounts were paid to the State; and
 

@@ -2,13 +2,17 @@
 
 Section, Pub. L. 105–185, title IV, §401, June 23, 1998, 112 Stat. 564; Pub. L. 105–277, div. A, §101(a) \[title VII, §753(c)(2)\], Oct. 21, 1998, 112 Stat. 2681, 2681–33; Pub. L. 107–171, title VII, §7205(a), May 13, 2002, 116 Stat. 439; Pub. L. 109–171, title I, §1501, Feb. 8, 2006, 120 Stat. 7, related to the Initiative for Future Agriculture and Food Systems.
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 repealed this section. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of Repeal
 
-Repeal of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Repeal of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided,see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 Repeal of this section inapplicable to any solicitation for grant applications issued by the Cooperative State Research, Education, and Extension Service before June 18, 2008, see section 7406(c) of Pub. L. 110–246, set out as an Effective Date of 2008 Amendment note under section 3157 of this title.
 

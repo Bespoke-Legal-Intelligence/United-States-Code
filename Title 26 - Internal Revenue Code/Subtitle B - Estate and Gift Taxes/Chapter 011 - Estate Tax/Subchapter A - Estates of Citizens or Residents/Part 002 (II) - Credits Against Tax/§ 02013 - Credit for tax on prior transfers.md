@@ -14,7 +14,7 @@ The tax imposed by section 2001 shall be credited with all or a part of the amou
 
 #### (b) Computation of credit
 
-Subject to the limitation prescribed in subsection (c), the credit provided by this section shall be an amount which bears the same ratio to the estate tax paid (adjusted as indicated hereinafter) with respect to the estate of the transferor as the value of the property transferred bears to the taxable estate of the transferor (determined for purposes of the estate tax) decreased by any death taxes paid with respect to such estate. For purposes of the preceding sentence, the estate tax paid shall be the Federal estate tax paid increased by any credits allowed against such estate tax under section 2012, or corresponding provisions of prior laws, on account of gift tax, and for any credits allowed against such estate tax under this section on account of prior transfers where the transferor acquired property from a person who died within 10 years before the death of the decedent.
+Subject to the limitation prescribed in subsection (c), the credit provided by this sectionshall be an amount which bears the same ratio to the estate tax paid (adjusted as indicated hereinafter) with respect to the estate of the transferor as the value of the property transferred bears to the taxable estate of the transferor (determined for purposes of the estate tax) decreased by any death taxes paid with respect to such estate. For purposes of the preceding sentence, the estate tax paid shall be the Federal estate tax paid increased by any credits allowed against such estate tax under section 2012, or corresponding provisions of prior laws, on account of gift tax, and for any credits allowed against such estate tax under this section on account of prior transfers where the transferor acquired property from a person who died within 10 years before the death of the decedent.
 
 #### (c) Limitation on credit
 
@@ -56,6 +56,8 @@ If section 2032A applies to any property included in the gross estate of the tra
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 377; Pub. L. 94–455, title XIX, §1902(a)(2), title XX, §§2001(c)(1)(C), 2003(c), 2006(b)(2), Oct. 4, 1976, 90 Stat. 1804, 1850, 1862, 1888; Pub. L. 99–514, title XIV, §1432(c)(2), Oct. 22, 1986, 100 Stat. 2730; Pub. L. 100–647, title I, §1011A(g)(7), Nov. 10, 1988, 102 Stat. 3481; Pub. L. 105–34, title X, §1073(b)(2), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title V, §532(c)(2), June 7, 2001, 115 Stat. 74.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2001</b>—Subsec. (c)(1)(A). Pub. L. 107–16 struck out "2011," after "sections 2010,".
@@ -66,7 +68,7 @@ If section 2032A applies to any property included in the gross estate of the tra
 
 <b>1986</b>—Subsec. (g). Pub. L. 99–514 struck out subsec. (g) which provided for treatment of tax imposed on certain generation-skipping transfers.
 
-<b>1976</b>—Subsec. (b). Pub. L. 94–455, §2001(c)(1)(C)(i), struck out "and increased by the exemption providedfor by section 2052 or section 2106(a)(3), or the corresponding provisions of prior laws, in determining the taxable estate of the transferor for purposes of the estate tax" after "death taxes paid with respect to such estate".
+<b>1976</b>—Subsec. (b). Pub. L. 94–455, §2001(c)(1)(C)(i), struck out "and increased by the exemption provided for by section 2052 or section 2106(a)(3), or the corresponding provisions of prior laws, in determining the taxable estate of the transferor for purposes of the estate tax" after "death taxes paid with respect to such estate".
 
 Subsec. (c)(1)(A). Pub. L. 94–455, §2001(c)(1)(C)(ii), substituted "credits provided for in sections 2010, 2011, 2012, and 2014) computed" for "credits for State death taxes, gift tax, and foreign death taxes provided for in sections 2011, 2012, and 2014) computed".
 
@@ -75,6 +77,8 @@ Subsec. (d)(3). Pub. L. 94–455, §1902(a)(2), struck out ", or the correspond
 Subsec. (f). Pub. L. 94–455, §2003(c), added subsec. (f).
 
 Subsec. (g). Pub. L. 94–455, §2006(b)(2), added subsec. (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2001 Amendment
 

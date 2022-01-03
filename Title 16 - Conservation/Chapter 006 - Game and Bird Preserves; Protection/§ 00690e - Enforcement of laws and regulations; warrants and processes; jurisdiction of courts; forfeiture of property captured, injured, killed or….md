@@ -10,6 +10,8 @@ All birds or animals, or parts thereof, captured, injured, or killed, and all gr
 
 (Apr. 23, 1928, ch. 413, §6, 45 Stat. 449; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 90–578, title IV, §402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 95–616, §3(g), Nov. 8, 1978, 92 Stat. 3111; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 690i, included within the reference to sections 690 to 690i, was omitted from the Code.
@@ -18,11 +20,15 @@ Section 690i, included within the reference to sections 690 to 690i, was omitted
 
 <b>1978</b>—Subsec. (b). Pub. L. 95–616 substituted "as directed by the Secretary of the Interior, in accordance with law" for "as directed by the court having jurisdiction".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 "United States magistrate judge" substituted for "United States magistrate" in subsec. (a) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, "United States magistrate" substituted for "United States commissioner" pursuant to Pub. L. 90–578. See chapter 43 (§631 et seq.) of Title 28.
 
+#### <b>Executive Documents</b>
+
 #### Transfer of Functions
 
-Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939, see Transfer of Functions note set out under section 671 of this title.
+Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, transferred functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds to Secretary of the Interior.
 

@@ -1,5 +1,7 @@
 ### §3713. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 3713 was editorially reclassified as section 30101 of Title 34, Crime Control and Law Enforcement.

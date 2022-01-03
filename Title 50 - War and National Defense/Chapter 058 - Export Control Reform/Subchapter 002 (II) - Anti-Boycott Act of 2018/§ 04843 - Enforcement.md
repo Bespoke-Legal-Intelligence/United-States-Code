@@ -24,9 +24,11 @@ Any civil penalty or administrative sanction (including any suspension or revoca
 
 #### (d) Standards for levels of civil penalty
 
-The President may by regulation provide standards for establishing levels of civil penaltyunder this section based upon factors such as the seriousness of the violation, the culpability of the violator, and the violator's record of cooperation with the Government in disclosing the violation.
+The President may by regulation provide standards for establishing levels of civil penalty under this section based upon factors such as the seriousness of the violation, the culpability of the violator, and the violator's record of cooperation with the Government in disclosing the violation.
 
 (Pub. L. 115–232, div. A, title XVII, §1774, Aug. 13, 2018, 132 Stat. 2237; Pub. L. 116–283, div. A, title X, §1081(d)(11), Jan. 1, 2021, 134 Stat. 3874.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -35,6 +37,8 @@ Subchapter I, referred to in subsec. (b)(2), (3), was in the original "part I", 
 #### Amendments
 
 <b>2021</b>—Subsec. (a). Pub. L. 116–283 inserted "under" before "section 4842 of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2021 Amendment
 

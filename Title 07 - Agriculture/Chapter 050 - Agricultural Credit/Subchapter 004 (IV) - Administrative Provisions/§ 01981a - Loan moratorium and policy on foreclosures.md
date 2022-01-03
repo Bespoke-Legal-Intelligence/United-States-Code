@@ -32,6 +32,8 @@ In addition to any other authority that the Secretary may have to defer principa
 
 (Pub. L. 87–128, title III, §331A, as added Pub. L. 95–334, title I, §122, Aug. 4, 1978, 92 Stat. 427; amended Pub. L. 101–624, title XXIII, §2303(b), Nov. 28, 1990, 104 Stat. 3981; Pub. L. 110–234, title XIV, §14002(a), May 22, 2008, 122 Stat. 1442; Pub. L. 110–246, §4(a), title XIV, §14002(a), June 18, 2008, 122 Stat. 1664, 2204.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (a), was in the original "this title", meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
@@ -70,6 +72,8 @@ Pub. L. 97–370, title II, Dec. 18, 1982, 96 Stat. 1800.
 
 <b>1990</b>—Pub. L. 101–624 inserted "or by the Rural Development Administration" after "Farmers Home Administration".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
@@ -78,7 +82,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 Pub. L. 100–387, title III, §313(a), Aug. 11, 1988, 102 Stat. 949, provided that: "It is the sense of Congress that the Secretary of Agriculture should, with respect to farmers and ranchers who suffer major losses due to drought, hail, excessive moisture, or related condition in 1988—
 
-&emsp;"(1) exercise forbearance in the collection of interest and principal on direct farmer program loans under the Consolidated Farm and Rural Development Act \[7 U.S.C. 1921 et seq.\] outstanding for such farmers and ranchers;
+&emsp;"(1) exercise forbearance in the collection of interest and principal on direct farmer program loansunder the Consolidated Farm and Rural Development Act \[7 U.S.C. 1921 et seq.\] outstanding for such farmers and ranchers;
 
 &emsp;"(2) expedite the use of credit restructuring and other credit relief mechanisms authorized under the Agricultural Credit Act of 1987 \[Pub. L. 100–233, Jan. 6, 1988, 101 Stat. 1568, see Tables for classification\] and similar provisions of law for such farmers and ranchers; and
 

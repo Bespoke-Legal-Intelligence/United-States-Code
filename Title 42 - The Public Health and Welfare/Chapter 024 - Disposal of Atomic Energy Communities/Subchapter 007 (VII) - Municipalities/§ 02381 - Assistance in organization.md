@@ -4,9 +4,13 @@ The Commission is authorized, for a period not to extend beyond five years after
 
 (Aug. 4, 1955, ch. 543, ch. 8, §81, 69 Stat. 480; Pub. L. 87–719, §22, Sept. 28, 1962, 76 Stat. 666.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1962</b>—Pub. L. 87–719 inserted "in the case of Oak Ridge and Richland, or, in the case of Los Alamos, not to extend beyond five years after the date it is included within this chapter" after "August 4, 1955,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

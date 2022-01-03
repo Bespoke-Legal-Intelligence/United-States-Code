@@ -22,9 +22,13 @@ For each of fiscal years 2016 through 2021, there are authorized out of funds ap
 
 (Pub. L. 114–124, §4, Feb. 18, 2016, 130 Stat. 120.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Research Excellence and Advancements for Dyslexia Act or READ Act, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definition of Specific Learning Disability
 

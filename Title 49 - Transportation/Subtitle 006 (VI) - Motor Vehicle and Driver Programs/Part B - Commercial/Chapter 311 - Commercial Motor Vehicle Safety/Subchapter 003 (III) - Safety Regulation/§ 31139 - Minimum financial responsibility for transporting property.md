@@ -80,7 +80,7 @@ Evidence of Financial Responsibility.—(1) Subject to paragraph (2) of this sub
 
 &emsp;(D) qualification as a self-insurer.
 
-(2) A person domiciled in a country contiguous to the United States and providing transportation to which a minimum level of financial responsibility under this section applies shall have evidence of financial responsibility in the motor vehicle when the person is providing the transportation. If evidence of financial responsibilityis not in the vehicle, the Secretary of Transportation and the Secretary of the Treasury shall deny entry of the vehicle into the United States.
+(2) A person domiciled in a country contiguous to the United States and providing transportation to which a minimum level of financial responsibility under this section applies shall have evidence of financial responsibility in the motor vehicle when the person is providing the transportation. If evidence of financial responsibility is not in the vehicle, the Secretary of Transportation and the Secretary of the Treasury shall deny entry of the vehicle into the United States.
 
 (3) A motor carrier may obtain the required amount of financial responsibility from more than one source provided the cumulative amount is equal to the minimum requirements of this section.
 
@@ -98,7 +98,7 @@ Civil Penalty.—(1) If, after notice and an opportunity for a hearing, the Secr
 
 (3) The Secretary of Transportation may compromise the penalty before referring the matter to the Attorney General for collection.
 
-(4) The Attorney General shall bring a civil action in an appropriate district court of the United States to collect a penalty referred to the Attorney General for collection under this subsection.
+(4) The Attorney General shall bring a civil action in an appropriate district court of the United States to collect a penalty referred tothe Attorney General for collection under this subsection.
 
 (5) The amount of the penalty may be deducted from amounts the Government owes the person. An amount collected under this section shall be deposited in the Highway Trust Fund (other than the Mass Transit Account).
 
@@ -188,6 +188,8 @@ In subsection (f)(5), the words "when finally determined (or agreed upon in comp
 
 In subsection (g)(1) and (2), the words "any quantity of" are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (b)(1). Pub. L. 110–244, §305(b)(1), in introductory provisions, substituted "motor carrier or motor private carrier (as such terms are defined in section 13102 of this title)" for "commercial motor vehicle".
@@ -196,7 +198,7 @@ Subsec. (c). Pub. L. 110–244, §305(b)(2), struck out "commercial" before "mot
 
 Subsec. (g)(5). Pub. L. 110–244, §301(f), amended Pub. L. 109–59, §4121. See 2005 Amendment note below.
 
-<b>2005</b>—Subsec. (b)(1). Pub. L. 109–59, §4120(b)(1), struck out "for compensation" after "property" and inserted"commercial" before "motor vehicle" in introductory provisions.
+<b>2005</b>—Subsec. (b)(1). Pub. L. 109–59, §4120(b)(1), struck out "for compensation" after "property" and inserted "commercial" before "motor vehicle" in introductory provisions.
 
 Subsecs. (c) to (f). Pub. L. 109–59, §4120(b)(2), (3), added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively. Former subsec. (f) redesignated (g).
 
@@ -207,6 +209,8 @@ Subsec. (g)(5). Pub. L. 109–59, §4121, as amended by Pub. L. 110–244, §301
 Subsec. (h). Pub. L. 109–59, §4120(b)(2), redesignated subsec. (g) as (h).
 
 <b>1995</b>—Subsec. (e)(3). Pub. L. 104–88 added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

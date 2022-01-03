@@ -16,7 +16,7 @@
 
 #### (3) Relation to other uses
 
-&emsp;An emergency use authorized under paragraph (1) for a product is in addition to any other use that is authorized for the product under a section of this chapter or the Public Health Service Act \[42 U.S.C. 201 et seq.\] referred to in paragraph (2)(A).
+&emsp;An emergency use authorized under paragraph (1) for a product is in addition to any other use that is authorized for the product under a section of this chapter or the PublicHealth Service Act \[42 U.S.C. 201 et seq.\] referred to in paragraph (2)(A).
 
 #### (4) Definitions
 
@@ -56,7 +56,7 @@
 
 &emsp;&emsp;A declaration under this subsection shall terminate upon the earlier of—
 
-&emsp;&emsp;&emsp;(i) a determination by the Secretary, in consultation as appropriate with the Secretary of Homeland Security or the Secretary of Defense, that the circumstancesdescribed in paragraph (1) have ceased to exist; or
+&emsp;&emsp;&emsp;(i) a determination by the Secretary, in consultation as appropriate with the Secretary of Homeland Security or the Secretary of Defense, that the circumstances described in paragraph (1) have ceased to exist; or
 
 &emsp;&emsp;&emsp;(ii) a change in the approval status of the product such that the circumstances described in subsection (a)(2) have ceased to exist.
 
@@ -248,7 +248,7 @@ If a product is the subject of an authorization under this section, the use of s
 
 #### (l) Option to carry out authorized activities
 
-Nothing in this section provides the Secretary any authority to require any person to carry outany activity that becomes lawful pursuant to an authorization under this section, and no person is required to inform the Secretary that the person will not be carrying out such activity, except that a manufacturer of a sole-source unapproved product authorized for emergency use shall report to the Secretary within a reasonable period of time after the issuance by the Secretary of such authorization if such manufacturer does not intend to carry out any activity under the authorization. This section only has legal effect on a person who carries out an activity for which an authorization under this section is issued. This section does not modify or affect activities carried out pursuant to other provisions of this chapter or section 351 of the Public Health Service Act \[42 U.S.C. 262\]. Nothing in this subsection may be construed as restricting the Secretary from imposing conditions on persons who carry out any activity pursuant to an authorization under this section.
+Nothing in this section provides the Secretary any authority to require any person to carry out any activity that becomes lawful pursuant to an authorization under this section, and no person is required to inform the Secretary that the person will not be carrying out such activity, except that a manufacturer of a sole-source unapproved product authorized for emergency use shall report to the Secretary within a reasonable period of time after the issuance by the Secretary of such authorization if such manufacturer does not intend to carry out any activity under the authorization. This section only has legal effect on a person who carries out an activity for which an authorization under this section is issued. This section does not modify or affect activities carried out pursuant to other provisions of this chapter or section 351 of the Public Health Service Act \[42 U.S.C. 262\]. Nothing in this subsection may be construed as restricting the Secretary from imposing conditions on persons who carry out any activity pursuant to an authorization under this section.
 
 #### (m) Categorization of laboratory tests associated with devices subject to authorization
 
@@ -274,7 +274,7 @@ Nothing in this section provides the Secretary any authority to require any pers
 
 #### References in Text
 
-The Public Health Service Act, referred to in subsec. (a)(3), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (a)(3), is act July 1, 1944, ch. 373, 58 Stat. 682, which isclassified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 #### Amendments
 
@@ -312,7 +312,7 @@ Subsec. (b)(1). Pub. L. 113–5, §302(a)(2)(B), substituted "may make a declara
 
 Subsec. (b)(2)(A)(ii). Pub. L. 113–5, §302(a)(2)(C)(i), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "the expiration of the one-year period beginning on the date on which the declaration is made."
 
-Subsec. (b)(2)(B), (C). Pub. L. 113–5, §302(a)(2)(C)(ii), (iii), redesignated subpar. (C) as (B) and struck out former subpar. (B). Prior to amendment, text of subpar.\(B) read as follows: "Notwithstanding subparagraph (A), the Secretary may renew a declaration under this subsection, and this paragraph shall apply to any such renewal."
+Subsec. (b)(2)(B), (C). Pub. L. 113–5, §302(a)(2)(C)(ii), (iii), redesignated subpar. (C) as (B) and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: "Notwithstanding subparagraph (A), the Secretary may renew a declaration under this subsection, and this paragraph shall apply to any such renewal."
 
 Subsec. (b)(4). Pub. L. 113–5, §302(a)(2)(D), substituted ", and advance notice of termination under this subsection" for "advance notice of termination, and renewal under this subsection".
 

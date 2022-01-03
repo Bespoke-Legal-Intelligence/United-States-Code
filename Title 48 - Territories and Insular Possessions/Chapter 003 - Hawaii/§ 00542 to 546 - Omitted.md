@@ -1,5 +1,7 @@
 ### §§542 to 546. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Sections 542 to 546, relating to Territory of Hawaii, were omitted in view of admission of Hawaii into the Union.

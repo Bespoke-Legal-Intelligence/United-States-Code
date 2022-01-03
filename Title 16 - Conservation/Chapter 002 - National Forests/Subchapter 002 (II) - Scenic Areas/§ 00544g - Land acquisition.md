@@ -30,7 +30,7 @@ In exercising authority to acquire lands pursuant to this section the Secretary 
 
 #### (d) Land exchanges
 
-(1) The Secretary is authorized and directed, in conformance with the provisions of this subsection, to acquire by exchange any parcel ofunimproved forest land at least forty acres in size within the boundaries of the special management areas which is owned by any private forest land owner if, after November 17, 1986, but within one hundred and eighty days after final adoption of the management plan, such private forest land owner offers to the United States such parcel of forest land.
+(1) The Secretary is authorized and directed, in conformance with the provisions of this subsection, to acquire by exchange any parcel of unimproved forest land at least forty acres in size within the boundaries of the special management areas which is owned by any private forest land owner if, after November 17, 1986, but within one hundred and eighty days after final adoption of the management plan, such private forest land owner offers to the United States such parcel of forest land.
 
 (2) In exercising this authority to acquire forest lands pursuant to this subsection, the Secretary may accept title to such lands and convey to the owner federally owned lands deemed appropriate by the Secretary within the States of Oregon and Washington, regardless of the State in which the transferred lands are located. Forest lands exchanged pursuant to this subsection shall be of approximately equal value: <i>Provided</i>, That the Secretary may accept cash from or pay cash to the grantor in such an exchange in order to equalize minor differences in the values of the properties exchanged: <i>Provided further</i>, That the Secretary may reserve in any conveyance pursuant to this subsection such easements, subsurface rights, and any other interests in land deemed necessary or desirable: <i>Provided further</i>, That the valuation of lands exchanged shall be determined in terms of forest uses for timber.
 
@@ -178,7 +178,7 @@ Zig-Zag Area
 
 #### (B) On or after April 1, 2001
 
-&emsp;&emsp;Land within a special management area for which the landowner, on or after April 1, 2001, makes a written bona fide offer to convey to the Secretary for fair market value shall be appraised subject to—
+&emsp;&emsp;Land within a special management area for which the landowner, on or after April 1,2001, makes a written bona fide offer to convey to the Secretary for fair market value shall be appraised subject to—
 
 &emsp;&emsp;&emsp;(i) any zoning or land use restriction made in response to sections 544 to 544p of this title; and
 
@@ -204,6 +204,8 @@ For the purposes of sections 100506(c) and 200306 of title 54, the boundaries of
 
 (Pub. L. 99–663, §9, Nov. 17, 1986, 100 Stat. 4287; Pub. L. 104–66, title I, §1011(n), Dec. 21, 1995, 109 Stat. 710; Pub. L. 106–291, title III, §346(a), Oct. 11, 2000, 114 Stat. 999.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 In subsec. (g), "sections 100506(c) and 200306 of title 54" substituted for "section 7 of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 4601–9) \[sic\]" on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
@@ -213,6 +215,8 @@ In subsec. (g), "sections 100506(c) and 200306 of title 54" substituted for "sec
 <b>2000</b>—Subsecs. (e) to (g). Pub. L. 106–291 added subsecs. (e) and (f) and redesignated former subsec. (e) as (g).
 
 <b>1995</b>—Subsec. (d)(3). Pub. L. 104–66 struck out provision at end requiring Secretary to report to Congress on status of negotiations with owners of non-Federal lands regarding land exchanges.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Publication of Notice
 
@@ -234,7 +238,7 @@ Pub. L. 106–291, title III, §346(c), Oct. 11, 2000, 114 Stat. 1000, provided 
 
 Pub. L. 105–277, div. A, §101(e) \[title III, §341\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–296, provided that:
 
-"Upon the condition that Skamania County conveys title acceptable to the Secretary of Agriculture to all right, title and interest in lands identified on a map dated September 29, 1998 entitled 'Skamania County Lands to be Transferred', such lands being located on Table Mountain lying within the Columbia River Gorge National Scenic Area, there is hereby conveyed to Skamania County, notwithstanding any other provision of law, the Wind River Nursery Site lands and facilities and all interests therein, except for the corridor of the Pacific Crest National Scenic Trail, as depictedon a map dated September 29, 1998, entitled 'Wind River Conveyance', which is on file and available for public inspection in the Office of the Chief, USDA Forest Service, Washington, D.C.
+"Upon the condition that Skamania County conveys title acceptable to the Secretary of Agriculture to all right, title and interest in lands identified on a map dated September 29, 1998 entitled 'Skamania County Lands to be Transferred', such lands being located on Table Mountain lying within the Columbia River Gorge National Scenic Area, there is hereby conveyed to Skamania County, notwithstanding any other provision of law, the Wind River Nursery Site lands and facilities and all interests therein, except for the corridor of the Pacific Crest National Scenic Trail, as depicted on a map dated September 29, 1998, entitled 'Wind River Conveyance', which is on file and available for public inspection in the Office of the Chief, USDA Forest Service, Washington, D.C.
 
 "The conveyance of lands to Skamania County shall become automatically effective upon a determination by the Secretary that Skamania County has conveyed acceptable title to the United States to the Skamania County lands. Lands conveyed to the United States shall become part of the Gifford Pinchot National Forest and shall have the status of lands acquired under the Act of March 1, 1911, (commonly called the Weeks Act) \[see Short Title note set out under section 552 of this title\] and shall be managed in accordance with the laws and regulations applicable to the National Forest System."
 

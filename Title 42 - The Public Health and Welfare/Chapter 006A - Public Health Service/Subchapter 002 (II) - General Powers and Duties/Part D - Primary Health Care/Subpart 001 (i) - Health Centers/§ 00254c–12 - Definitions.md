@@ -12,6 +12,8 @@ For purposes of sections 254c–9 to 254c–13 of this title:
 
 (Pub. L. 106–505, title V, §524, Nov. 13, 2000, 114 Stat. 2344.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Lupus Research and Care Amendments of 2000, and also as part of the Public Health Improvement Act, and not as part of the Public Health Service Act which comprises this chapter.

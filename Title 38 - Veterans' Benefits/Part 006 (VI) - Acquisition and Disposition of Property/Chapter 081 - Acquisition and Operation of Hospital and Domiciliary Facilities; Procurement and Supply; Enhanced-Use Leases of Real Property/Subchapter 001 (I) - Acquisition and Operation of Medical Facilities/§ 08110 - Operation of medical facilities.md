@@ -46,7 +46,7 @@
 
 &emsp;&emsp;(C) A description of the anticipated effects of the closure on veterans and on their access to care.
 
-(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 59, §5010; amended Pub. L. 96–151, title III, §301(a), Dec. 20, 1979, 93 Stat. 1095; Pub. L. 97–66, title VI, §601(b), Oct. 17, 1981, 95 Stat. 1033; Pub. L. 97–72, title I, §108, Nov. 3, 1981, 95 Stat. 1053; Pub. L. 97–306, title IV, §409(b), Oct. 14, 1982, 96 Stat. 1446; Pub. L. 97–452, §2(e)(4), Jan. 12, 1983, 96 Stat. 2479; Pub. L. 98–160, title VII, §702(19), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 98–528, title I, §102, Oct. 19, 1984, 98 Stat. 2688; Pub. L. 99–576, title VII, §702(15), Oct. 28, 1986, 100 Stat. 3302; Pub. L. 100–322, title II, §222(a), title IV, §401(a), May 20, 1988, 102 Stat. 531, 543; renumbered §8110 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XI, §1103, title XII, §1201(b)(1), (d)(17), (g)(7), Nov. 2, 1994, 108 Stat. 4681, 4682, 4684, 4687; Pub. L. 104–66, title I, §1141(c), Dec. 21, 1995, 109 Stat. 726; Pub. L. 104–262, title I, §101(e)(4), title III, §305, Oct. 9, 1996, 110 Stat. 3181, 3194; Pub. L. 106–117, title III, §301, Nov. 30, 1999, 113 Stat. 1571; Pub. L. 107–135, title I, §124, Jan. 23, 2002, 115 Stat. 2452; Pub. L. 107–314, div. A, title VII, §726(a), Dec. 2, 2002, 116 Stat. 2599; Pub. L. 115–251, title II, §207, Sept. 29, 2018, 132 Stat. 3173.)
+(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 59, §5010; amended Pub. L. 96–151, title III, §301(a), Dec. 20, 1979, 93 Stat. 1095; Pub. L. 97–66, title VI, §601(b), Oct. 17, 1981, 95 Stat. 1033; Pub. L. 97–72, title I, §108, Nov. 3, 1981, 95 Stat. 1053; Pub. L. 97–306, title IV, §409(b), Oct. 14, 1982, 96 Stat. 1446; Pub. L. 97–452, §2(e)(4), Jan. 12, 1983, 96 Stat. 2479; Pub. L. 98–160, title VII, §702(19), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 98–528, title I, §102, Oct. 19, 1984, 98 Stat. 2688; Pub. L. 99–576, title VII, §702(15), Oct. 28, 1986, 100 Stat. 3302; Pub. L. 100–322, title II, §222(a), title IV, §401(a), May 20, 1988, 102 Stat. 531, 543; renumbered §8110 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E),5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XI, §1103, title XII, §1201(b)(1), (d)(17), (g)(7), Nov. 2, 1994, 108 Stat. 4681, 4682, 4684, 4687; Pub. L. 104–66, title I, §1141(c), Dec. 21, 1995, 109 Stat. 726; Pub. L. 104–262, title I, §101(e)(4), title III, §305, Oct. 9, 1996, 110 Stat. 3181, 3194; Pub. L. 106–117, title III, §301, Nov. 30, 1999, 113 Stat. 1571; Pub. L. 107–135, title I, §124, Jan. 23, 2002, 115 Stat. 2452; Pub. L. 107–314, div. A, title VII, §726(a), Dec. 2, 2002, 116 Stat. 2599; Pub. L. 115–251, title II, §207, Sept. 29, 2018, 132 Stat. 3173.)
 
 #### <b>Editorial Notes</b>
 
@@ -116,7 +116,7 @@ Subsec. (c)(2). Pub. L. 100–322, §401(a), inserted "responsive bids are recei
 
 <b>1986</b>—Subsec. (a)(1). Pub. L. 99–576 substituted "125,000 and not less than 100,000" for "one hundred and twenty-five thousand and not less than one hundred thousand" and "90,000" for "ninety thousand" in two places.
 
-<b>1984</b>—Subsec. (a)(4)(C). Pub. L. 98–528 substituted provision requiring the Comptroller General to submit a report stating the Comptroller General's opinion as to whether the Director has complied with subpar. (B) not later than fifteen days after end of period specified in that subparagraph for Director to submit required certification for provision which had required the Comptroller General to submit a report stating the Comptroller General's opinion as to whether the Director has complied with the requirements of any law making appropriations for the Veterans' Administration for any fiscal year or any part thereof regarding funded personnel ceilings not later than forty-fifth day after enactment of each such law.
+<b>1984</b>—Subsec. (a)(4)(C). Pub. L. 98–528 substituted provision requiring the Comptroller General to submit a report stating the Comptroller General's opinion as towhether the Director has complied with subpar. (B) not later than fifteen days after end of period specified in that subparagraph for Director to submit required certification for provision which had required the Comptroller General to submit a report stating the Comptroller General's opinion as to whether the Director has complied with the requirements of any law making appropriations for the Veterans' Administration for any fiscal year or any part thereof regarding funded personnel ceilings not later than forty-fifth day after enactment of each such law.
 
 <b>1983</b>—Subsec. (a)(1). Pub. L. 97–452 substituted "section 1105 of title 31" for "section 201(a) of the Budget and Accounting Act, 1921 (31 U.S.C. 11(a))".
 
@@ -168,7 +168,7 @@ Section effective Oct. 1, 1979, but not applicable with respect to the acquisiti
 
 #### Requirement for Certain Department of Veterans Affairs Medical Facilities To Have Physical Location for the Disposal of Controlled Substances Medications
 
-Pub. L. 116–315, title III, §3009, Jan. 5, 2021, 134 Stat. 4997, provided that:
+Pub. L. 116–315, title III, §3009, Jan. 5, 2021, 134 Stat. 4997, as amended by Pub. L. 117–29, §1, July 29, 2021, 135 Stat. 306, provided that:
 
 "(a)
 
@@ -176,9 +176,21 @@ In General.—The Secretary of Veterans Affairs shall ensure that each covered D
 
 "(b)
 
-Covered Department Medical Facility.—In this section, the term 'covered Department medical facility' means a medical facility of the Department of Veterans Affairs with an onsite pharmacy or a physical location dedicated for law enforcement purposes.
+Designation of Periods for Any Individual to Dispose of Medication.—
+
+&emsp;"(1)
+
+In general.—The Secretary shall designate periods during which any individual may dispose of controlled substances medications at a covered Department medical facility.
+
+&emsp;"(2)
+
+Public information campaigns.—The Secretary may carry out public information campaigns regarding the periods designated under paragraph (1).
 
 "(c)
+
+Covered Department Medical Facility.—In this section, the term 'covered Department medical facility' means a medical facility of the Department of Veterans Affairs with an onsite pharmacy or a physical location dedicated for law enforcement purposes.
+
+"(d)
 
 Effective Date.—This section shall take effect on January 1, 2022."
 
@@ -272,7 +284,7 @@ Contents.—Each plan submitted under paragraph (1) shall address the following:
 
 &emsp;&emsp;"(A) Increasing personnel or temporary personnel assistance, including mobile deployment teams furnished under section 402 of this Act.
 
-&emsp;&emsp;"(B) Providing special hiring incentives, including under the Education Debt Reduction Program under subchapter VII of chapter 76 of title 38, United States Code, and recruitment, relocation, and retention incentives.
+&emsp;&emsp;"(B) Providing special hiring incentives, including under the Education Debt Reduction Programunder subchapter VII of chapter 76 of title 38, United States Code, and recruitment, relocation, and retention incentives.
 
 &emsp;&emsp;"(C) Using direct hiring authority.
 

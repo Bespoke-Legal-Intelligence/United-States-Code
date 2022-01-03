@@ -26,7 +26,7 @@ Any grant agreement or grants under this section shall be subject to the followi
 
 &emsp;(4) Grants made for the operating costs of Radio Free Asia may not exceed $30,000,000 in each of the fiscal years 2000 and 2001.
 
-&emsp;(5) Grants awarded under this section shall be made pursuant to a grant agreement whichrequires that grant funds be used only for activities consistent with this section, and that failure to comply with such requirements shall permit the grant to be terminated without fiscal obligation to the United States.
+&emsp;(5) Grants awarded under this section shall be made pursuant to a grant agreement which requires that grant funds be used only for activities consistent with this section, and that failure to comply with such requirements shall permit the grant to be terminated without fiscal obligation to the United States.
 
 #### (d) Limitations on administrative and managerial costs
 
@@ -106,7 +106,7 @@ Subsecs. (f) to (h). Pub. L. 111–202, §3(2)–(4), redesignated subsecs. (g) 
 
 <b>2008</b>—Subsec. (c)(2). Pub. L. 110–321 substituted "2010" for "2009".
 
-<b>1999</b>—Subsec. (c). Pub. L. 106–113, §1000(a)(7) \[div. A, title V, §501(1), (2)\], redesignated subsec. (d) as (c) andstruck out heading and text of former subsec. (c), which required the Board, through the Director of the United States Information Agency, to submit to Congress a detailed plan for the establishment and operation of Radio Free Asia prior to the awarding of a grant to carry out this section.
+<b>1999</b>—Subsec. (c). Pub. L. 106–113, §1000(a)(7) \[div. A, title V, §501(1), (2)\], redesignated subsec. (d) as (c) and struck out heading and text of former subsec. (c), which required the Board, through the Director of the United States Information Agency, to submit to Congress a detailed plan for the establishment and operation of Radio Free Asia prior to the awarding of a grant to carry out this section.
 
 Subsec. (c)(1). Pub. L. 106–113, §1000(a)(7) \[div. A, title V, §501(3)(A)\], struck out "(A)" after "(1)" and struck out subpar. (B) which read as follows: "Not later than 90 days after confirmation of all members of the Board, the Board shall provide a report to Congress on the number of administrative, managerial, and technical staff of Radio Free Asia who will be located within the metropolitan area of Washington, D.C., and the number of employees whose principal place of business will be located outside the metropolitan area of Washington, D.C."
 
@@ -118,7 +118,7 @@ Subsec. (c)(5), (6). Pub. L. 106–113, §1000(a)(7) \[div. A, title V, §501(3)
 
 Subsecs. (d), (e). Pub. L. 106–113, §1000(a)(7) \[div. A, title V, §501(2)\], redesignated subsecs. (e) and (f) as (d) and (e), respectively. Former subsec. (d) redesignated (c).
 
-Subsec. (f). Pub. L. 106–113, §1000(a)(7) \[div. A, title V, §501(4)\], reenacted subsec. heading without change and amended text generally. Prior to amendment, text read as follows: "The Board may not make any grant for the purpose of operating Radio Free Asia after September 30, 1998, unless the President of the United States determines in the President's fiscal year 1999 budget submission that continuation of funding for Radio Free Asia for 1 additional year is in the interest of the United States."
+Subsec. (f). Pub. L. 106–113, §1000(a)(7) \[div. A, title V, §501(4)\], reenacted subsec. heading without change andamended text generally. Prior to amendment, text read as follows: "The Board may not make any grant for the purpose of operating Radio Free Asia after September 30, 1998, unless the President of the United States determines in the President's fiscal year 1999 budget submission that continuation of funding for Radio Free Asia for 1 additional year is in the interest of the United States."
 
 Pub. L. 106–113, §1000(a)(7) \[div. A, title V, §501(2)\], redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 

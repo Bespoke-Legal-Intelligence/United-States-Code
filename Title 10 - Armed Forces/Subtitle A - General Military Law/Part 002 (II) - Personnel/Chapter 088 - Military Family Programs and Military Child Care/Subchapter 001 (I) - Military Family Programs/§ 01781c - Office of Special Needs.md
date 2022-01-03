@@ -58,7 +58,7 @@ Policy.—(1) The Office shall develop, and regularly update, a uniform policy f
 
 &emsp;(C) Procedures to facilitate the enrollment of such members of the armed forces and their families in programs of the military department for the support of military families with special needs.
 
-&emsp;(D) Procedures to ensure the coordination of Department of Defense health care programs and support programs for military families with special needs, and the coordination of such programs with other Federal, State, local, and non-governmental health care programs and support programs intended to serve such families.
+&emsp;(D) Procedures to ensure the coordination of Department of Defense health care programsand support programs for military families with special needs, and the coordination of such programs with other Federal, State, local, and non-governmental health care programs and support programs intended to serve such families.
 
 &emsp;(E) Requirements for resources (including staffing) to ensure the availability through the Department of Defense of appropriate numbers of case managers to provide individualized support for military families with special needs.
 
@@ -116,7 +116,9 @@ Reports.—(1) Not later than April 30 each year, the Secretary of Defense shall
 
 Military Family With Special Needs.—For purposes of this section, a military family with special needs is any military family with one or more members who has a medical or educational special need (as defined by the Secretary in regulations for purposes of this section), including a condition covered by the Extended Health Care Option Program under section 1079f of this title.
 
-(Added Pub. L. 111–84, div. A, title V, §563(a)(1), Oct. 28, 2009, 123 Stat. 2304; amended Pub. L. 111–383, div. A, title V, §582(a), (b), title X, §1075(b)(24), Jan. 7, 2011, 124 Stat. 4226, 4227, 4370; Pub. L. 114–328, div. A, title IX, §933(b)(1)–(5)(A), Dec. 23, 2016, 130 Stat. 2364, 2365; Pub. L. 116–283, div. A, title V, §582(a), title VII, §704(c), Jan. 1, 2021, 134 Stat. 3651, 3688.)
+(Added Pub. L. 111–84, div. A, title V, §563(a)(1), Oct. 28, 2009, 123 Stat. 2304; amended Pub. L. 111–383, div. A, title V, §582(a), (b), title X, §1075(b)(24), Jan. 7, 2011, 124 Stat. 4226, 4227, 4370;Pub. L. 114–328, div. A, title IX, §933(b)(1)–(5)(A), Dec. 23, 2016, 130 Stat. 2364, 2365; Pub. L. 116–283, div. A, title V, §582(a), title VII, §704(c), Jan. 1, 2021, 134 Stat. 3651, 3688.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -166,11 +168,31 @@ Subsec. (d)(7), (8). Pub. L. 111–383, §582(b), added par. (7) and redesignate
 
 Subsec. (h)(1). Pub. L. 111–383, §1075(b)(24), substituted "April 30 each year" for "180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2010, and annually thereafter".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Termination of Reporting Requirements
 
 For termination, effective Dec. 31, 2021, of provisions in subsec. (g) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
 
 #### Improvements to Exceptional Family Member Program
+
+Pub. L. 117–81, div. A, title V, §562(b)–(d), Dec. 27, 2021, 135 Stat. 1747, provided that:
+
+"(b)
+
+Relocation.—The Secretary of the military department concerned may, if such Secretary determines it feasible, permit a covered member who receives permanent change of station orders to elect, not later than 14 days after such receipt, from at least two locations that provide support for the dependent of such covered member with a special need.
+
+"(c)
+
+Family Member Medical Summary.—The Secretary of a military department, in coordination with the Director of the Defense Health Agency, shall require that a family member medical summary, completed by a licensed and credentialed medical provider, is accessible in the electronic health record of the Department of Defense for subsequent review by a licensed medical provider.
+
+"(d)
+
+Covered Member Defined.—In this section, the term 'covered member' means a member of an Armed Force—
+
+&emsp;"(1) under the jurisdiction of the Secretary of a military department; and
+
+&emsp;"(2) with a dependent with a special need."
 
 Pub. L. 116–283, div. A, title V, §582(b)–(e), Jan. 1, 2021, 134 Stat. 3652, 3653, provided that:
 
@@ -360,7 +382,7 @@ Pub. L. 111–84, div. A, title V, §563(c), as added Pub. L. 111–383, div. A,
 
 #### Advisory Panel on Community Support for Military Families With Special Needs
 
-Pub. L. 111–84, div. A, title V, §563(d), as added Pub. L. 111–383, div. A, title V, §582(c)(2), Jan. 7, 2011, 124 Stat. 4227, provided that:
+Pub. L. 111–84, div. A, title V, §563(d), as added by Pub. L. 111–383, div. A, title V, §582(c)(2), Jan. 7, 2011, 124 Stat. 4227; amended by Pub. L. 117–81, div. A, title V, §562(a), Dec. 27, 2021, 135 Stat. 1746, provided that:
 
 "(1)
 
@@ -368,7 +390,25 @@ Establishment.—Not later than 90 days after the date of the enactment of this 
 
 "(2)
 
-Members.—The advisory panel shall consist of seven individuals who are a member of a military family with special needs. The Secretary of Defense shall appoint the members of the advisory panel.
+Members.—The advisory panel shall consist of nine individuals, appointed by the Secretary of Defense, who are each a member of a military family with special needs. In appointing individuals to the panel, the Secretary shall ensure that—
+
+&emsp;"(A) one individual is the spouse of an enlisted member;
+
+&emsp;"(B) one individual is the spouse of an officer in a grade below O-6;
+
+&emsp;"(C) one individual is a junior enlisted member;
+
+&emsp;"(D) one individual is a junior officer;
+
+&emsp;"(E) individuals reside in different geographic regions;
+
+&emsp;"(F) one individual is a member serving at a remote installation or is a member of the family of such a member; and
+
+&emsp;"(G) at least two individuals are members serving on active duty, each with a dependent who—
+
+&emsp;&emsp;"(i) is enrolled in the Exceptional Family Member Program; and
+
+&emsp;&emsp;"(ii) has an individualized education program.
 
 "(3)
 

@@ -6,9 +6,11 @@ Section 1694, acts July 10, 1954, ch. 469, title III, §305, 68 Stat. 459; Sept.
 
 Section 1695, act July 10, 1954, ch. 469, title III, §306, as added Sept. 21, 1959, Pub. L. 86–341, title I, §11, 73 Stat. 608, provided for distribution of surplus food commodities to needy persons in United States: authorization, term of program, and cost limitation; duties of Secretary of Agriculture; issuance of food stamps and their redemption; receipt of benefits not deemed income or resources under provisions of other laws; availability of surplus foods for distribution; definition of needy person; report to Congress; and authorization of appropriations. See Supplemental Nutrition Assistance Program classified to chapter 51 of this title.
 
-Section 1696, act July 10, 1954, ch. 469, title III, §307, as added Sept. 21, 1959, Pub. L. 86–341, title I, §12, 73 Stat. 609, provided for availability of surplus commodities for distribution to needy families and persons inUnited States. See Supplemental Nutrition Assistance Program classified to chapter 51 of this title and provisions of section 1721 et seq. of this title relating to donations of food on a government-to-government basis and through voluntary organizations.
+Section 1696, act July 10, 1954, ch. 469, title III, §307, as added Sept. 21, 1959, Pub. L. 86–341, title I, §12, 73 Stat. 609, provided for availability of surplus commodities for distribution to needy families and persons in United States. See Supplemental Nutrition Assistance Program classified to chapter 51 of this title and provisions of section 1721 et seq. of this title relating to donations of food on a government-to-government basis and through voluntary organizations.
 
 Section 1697, act July 10, 1954, ch. 469, title III, §308, as added Sept. 21, 1959, Pub. L. 86–341, title I, §13, 73 Stat. 609; amended Sept. 27, 1962, Pub. L. 87–703, title II, §203, 76 Stat. 611, related to disposal of animal fats and edible oils. See section 1721 et seq. of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of Repeal
 

@@ -20,6 +20,8 @@ As expeditiously as practicable but not later than one year after August 7, 1977
 
 (July 14, 1955, ch. 360, title I, §124, as added Pub. L. 95–95, title I, §122, Aug. 7, 1977, 91 Stat. 722.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.

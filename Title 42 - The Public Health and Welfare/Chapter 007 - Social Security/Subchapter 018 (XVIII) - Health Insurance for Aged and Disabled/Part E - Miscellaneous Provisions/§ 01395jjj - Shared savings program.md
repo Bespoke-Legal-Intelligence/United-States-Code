@@ -66,7 +66,7 @@
 
 #### (C) Quality performance standards
 
-&emsp;&emsp;The Secretary shall establish quality performance standards to assess the quality of care furnished by ACOs. The Secretary shall seek to improve the quality of care furnished by ACOs over time by specifying higher standards, new measures, or both for purposes of assessing such quality of care.
+&emsp;&emsp;The Secretary shall establish quality performance standards to assess the quality of care furnished by ACOs. The Secretary shallseek to improve the quality of care furnished by ACOs over time by specifying higher standards, new measures, or both for purposes of assessing such quality of care.
 
 #### (D) Other reporting requirements
 
@@ -74,7 +74,7 @@
 
 #### (4) No duplication in participation in shared savings programs
 
-&emsp;A provider of services or supplier that participates in any of the following shall not beeligible to participate in an ACO under this section:
+&emsp;A provider of services or supplier that participates in any of the following shall not be eligible to participate in an ACO under this section:
 
 &emsp;&emsp;(A) A model tested or expanded under section 1315a of this title that involves shared savings under this subchapter, or any other program or demonstration project that involves such shared savings.
 
@@ -134,7 +134,7 @@
 
 #### (ii) Establish and update benchmark
 
-&emsp;&emsp;&emsp;The Secretary shall estimate a benchmark for each agreement period for each ACO using the most recent available 3 years of per-beneficiary expenditures for parts A and B services for Medicare fee-for-service beneficiaries assigned to the ACO. Such benchmark shall be adjusted for beneficiary characteristics and such other factors as the Secretary determines appropriate and updated by the projected absolute amount of growth in national per capita expenditures for parts A and B services under the original Medicare fee-for-service program, as estimated by the Secretary. Such benchmark shall be reset at the start of each agreement period.
+&emsp;&emsp;&emsp;The Secretary shall estimate a benchmark for each agreement period for eachACO using the most recent available 3 years of per-beneficiary expenditures for parts A and B services for Medicare fee-for-service beneficiaries assigned to the ACO. Such benchmark shall be adjusted for beneficiary characteristics and such other factors as the Secretary determines appropriate and updated by the projected absolute amount of growth in national per capita expenditures for parts A and B services under the original Medicare fee-for-service program, as estimated by the Secretary. Such benchmark shall be reset at the start of each agreement period.
 
 #### (2) Payments for shared savings
 
@@ -224,7 +224,7 @@ The Secretary may give preference to ACOs who are participating in similar arran
 
 #### (k) Treatment of physician group practice demonstration
 
-During the period beginning on March 23, 2010, and ending on the date the program is established, the Secretary may enter into an agreement with an ACO under the demonstrationunder section 1395cc–1 of this title, subject to rebasing and other modifications deemed appropriate by the Secretary.
+During the period beginning on March 23, 2010, and ending on the date the program is established, the Secretary may enter into an agreement with an ACO under the demonstration under section 1395cc–1 of this title, subject to rebasing and other modifications deemed appropriate by the Secretary.
 
 #### (l) Providing ACOs the ability to expand the use of telehealth services
 
@@ -292,7 +292,7 @@ During the period beginning on March 23, 2010, and ending on the date the progra
 
 #### (B) Scope
 
-&emsp;&emsp;An ACO Beneficiary Incentive Program established under this subsection shall provide incentive payments to all of the following Medicare fee-for-service beneficiaries who are furnished qualifying services by the ACO:
+&emsp;&emsp;An ACO Beneficiary Incentive Program established under this subsection shall provide incentive payments to all of the following Medicare fee-for-service beneficiaries whoare furnished qualifying services by the ACO:
 
 &emsp;&emsp;&emsp;(i) With respect to the Track 2 and Track 3 payment models described in section 425.600(a) of title 42, Code of Federal Regulations (or in any successor regulation), Medicare fee-for-service beneficiaries who are preliminarily prospectively or prospectively assigned (or otherwise assigned, as determined by the Secretary) to the ACO.
 
@@ -302,7 +302,7 @@ During the period beginning on March 23, 2010, and ending on the date the progra
 
 &emsp;&emsp;For purposes of this subsection, a qualifying service is a primary care service, as defined in section 425.20 of title 42, Code of Federal Regulations (or in any successor regulation), with respect to which coinsurance applies under part B, furnished through an ACO by—
 
-&emsp;&emsp;&emsp;(i) an ACO professional described in subsection (h)(1)(A) who has a primary care specialty designation included in the definition of primary care physician undersection 425.20 of title 42, Code of Federal Regulations (or any successor regulation);
+&emsp;&emsp;&emsp;(i) an ACO professional described in subsection (h)(1)(A) who has a primary care specialty designation included in the definition of primary care physician under section 425.20 of title 42, Code of Federal Regulations (or any successor regulation);
 
 &emsp;&emsp;&emsp;(ii) an ACO professional described in subsection (h)(1)(B); or
 
@@ -346,6 +346,8 @@ During the period beginning on March 23, 2010, and ending on the date the progra
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1899, as added and amended Pub. L. 111–148, title III, §3022, title X, §10307, Mar. 23, 2010, 124 Stat. 395, 940; Pub. L. 114–255, div. C, title XVII, §17007, Dec. 13, 2016, 130 Stat. 1338; Pub. L. 115–123, div. E, title III, §§50324(a), 50331, 50341(a), Feb. 9, 2018, 132 Stat. 203, 205, 206.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (b)(2)(I). Pub. L. 115–123, §50341(a)(1), added subpar. (I).
@@ -363,6 +365,8 @@ Subsec. (m). Pub. L. 115–123, §50341(a)(2), added subsec. (m).
 <b>2016</b>—Subsec. (c). Pub. L. 114–255 substituted "utilization of—" for "utilization of primary", inserted par. (1) designation and "in the case of performance years beginning on or after April 1, 2012, primary" before "care services", and added par. (2).
 
 <b>2010</b>—Subsecs. (i) to (k). Pub. L. 111–148, §10307, added subsecs. (i) to (k).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Study and Report
 

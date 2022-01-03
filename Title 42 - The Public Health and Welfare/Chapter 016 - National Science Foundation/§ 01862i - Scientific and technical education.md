@@ -58,7 +58,7 @@ The Director shall award grants for the establishment of centers of excellence, 
 
 #### (2) Outreach grants
 
-&emsp;The Director shall make grants to associate-degree-granting colleges with outstandingmathematics and science programs to strengthen relationships with secondary schools in the community served by the college by improving mathematics and science education and encouraging the interest and aptitude of secondary school students for careers in science and advanced-technology fields through such means as developing agreements with local educational agencies to enable students to satisfy entrance and course requirements at the associate-degree-granting college.
+&emsp;The Director shall make grants to associate-degree-granting colleges with outstanding mathematics and science programs to strengthen relationships with secondary schools in the community served by the college by improving mathematics and science education and encouraging the interest and aptitude of secondary school students for careers in science and advanced-technology fields through such means as developing agreements with local educational agencies to enable students to satisfy entrance and course requirements at the associate-degree-granting college.
 
 #### (3) Mentor training grants
 
@@ -154,7 +154,7 @@ In carrying out this section, the Director shall consult, cooperate, and coordin
 
 #### (2) Limitation on funding
 
-&emsp;Amounts made available to carry out subsections (d), (e), and (f) shall be derived from amounts appropriated or otherwise made available to the National Science Foundation.
+&emsp;Amounts made available to carry out subsections (d), (e), and (f) shall be derived fromamounts appropriated or otherwise made available to the National Science Foundation.
 
 #### (3) Limitation on funding
 
@@ -202,9 +202,11 @@ As used in this section—
 
 (Pub. L. 102–476, §3, Oct. 23, 1992, 106 Stat. 2297; Pub. L. 105–244, title I, §102(a)(13)(B), Oct. 7, 1998, 112 Stat. 1620; Pub. L. 107–368, §21(a), (b), Dec. 19, 2002, 116 Stat. 3064; Pub. L. 110–69, title VII, §7031(a), Aug. 9, 2007, 121 Stat. 710; Pub. L. 115–402, §3, Dec. 31, 2018, 132 Stat. 5344; Pub. L. 116–283, div. E, title LIV, §5401(e)(3)(A), div. H, title XCIV, §9405(b), Jan. 1, 2021, 134 Stat. 4543, 4812.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-Sections 1862h to 1862j of this title, referred to in subsecs. (a) and (i), was in the original "this Act", meaning Pub. L. 102–476, Oct. 23, 1992, 106 Stat. 2297, known as the Scientific and Advanced-Technology Act of 1992, which enacted this section and sections 1862h and 1862jof this title and amended section 1862 of this title. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 1861 of this title and Tables.
+Sections 1862h to 1862j of this title, referred to in subsecs. (a) and (i), was in the original "this Act", meaning Pub. L. 102–476, Oct. 23, 1992, 106 Stat. 2297, known as the Scientific and Advanced-Technology Act of 1992, which enacted this section and sections 1862h and 1862j of this title and amended section 1862 of this title. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 1861 of this title and Tables.
 
 The Higher Education Act of 1965, referred to in subsecs. (c)(1)(C) and (g), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Part B of title I of the Act is classified generally to part B (§1011 et seq.) of subchapter I of chapter 28 of Title 20, Education. Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1585, amended title I of the Act generally and part B, which formerly related to articulation agreements, now relates to additional general provisions. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
@@ -253,6 +255,8 @@ Subsec. (a)(2). Pub. L. 107–368, §21(a)(3), substituted "who provide instruct
 Subsec. (c)(1)(B)(iii), (iv). Pub. L. 107–368, §21(b), added cls. (iii) and (iv).
 
 <b>1998</b>—Subsec. (g)(2), (3). Pub. L. 105–244 substituted "section 101 of the Higher Education Act of 1965" for "section 1201(a) of the Higher Education Act of 1965 (20 U.S.C. 1141(a))".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

@@ -18,7 +18,9 @@
 
 Nothing in this section shall be construed to prohibit expenditures by States and such tribal organizations for disaster relief for older individuals in excess of amounts reimbursable under this section, by using funds made available to them under other sections of this chapter or under other provisions of Federal or State law, or from private sources.
 
-(Pub. L. 89–73, title III, §310, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1533; amended Pub. L. 97–115, §§3(d), 11(b)(2), Dec. 29, 1981, 95 Stat. 1597, 1606; Pub. L. 100–707, title I, §109(q), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 102–375, title I, §102(b)(10)(A), title III, §309, Sept. 30, 1992, 106 Stat. 1202, 1235; Pub. L. 103–171, §§2(10), 3(a)(13), Dec. 2, 1993, 107 Stat. 1989, 1990; Pub. L. 106–501, title III, §308, Nov. 13, 2000, 114 Stat. 2246.)
+(Pub. L. 89–73, title III, §310, as added Pub. L. 95–478, title I, §103(b), Oct. 18, 1978, 92 Stat. 1533;amended Pub. L. 97–115, §§3(d), 11(b)(2), Dec. 29, 1981, 95 Stat. 1597, 1606; Pub. L. 100–707, title I, §109(q), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 102–375, title I, §102(b)(10)(A), title III, §309, Sept. 30, 1992, 106 Stat. 1202, 1235; Pub. L. 103–171, §§2(10), 3(a)(13), Dec. 2, 1993, 107 Stat. 1989, 1990; Pub. L. 106–501, title III, §308, Nov. 13, 2000, 114 Stat. 2246.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -53,6 +55,8 @@ Subsec. (b)(2). Pub. L. 102–375, §309(2)(B), substituted "to carry out subcha
 <b>1981</b>—Subsec. (a)(1). Pub. L. 97–115, §3(d), substituted "supportive services" for "social services".
 
 Subsecs. (a)(2), (b)(1), (2). Pub. L. 97–115, §11(b)(2), substituted reference to section 3035a of this title for reference to section 3035b of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -20,9 +20,13 @@ In this chapter:
 
 (Pub. L. 115–246, §2, Sept. 28, 2018, 132 Stat. 3130.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 115–246, Sept. 28, 2018, 132 Stat. 3130, known as the Department of Energy Research and Innovation Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

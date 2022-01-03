@@ -18,7 +18,7 @@ Certain Officers Not To Be Considered.—A promotion board convened under sectio
 
 &emsp;(1) An officer whose name is on a promotion list for that grade as a result of recommendation for promotion to that grade by an earlier selection board convened under that section or section 14502 of this title or under chapter 36 of this title.
 
-&emsp;(2) An officer who is recommended for promotion to that grade in the report of an earlier selection board convened under a provision referred to in paragraph (1), in the case of such a report that has not yet been approved by the President.
+&emsp;(2) An officer who is recommended for promotion to that grade in the report of an earlier selection board convened under a provision referred to in paragraph (1), in the case ofsuch a report that has not yet been approved by the President.
 
 &emsp;(3) An officer who has been approved for Federal recognition by a board convened under section 307 of title 32 and nominated by the President for promotion to that grade as a reserve of the Army or of the Air Force as the case may be, if that nomination is pending before the Senate.
 
@@ -48,7 +48,7 @@ Brigadier Generals.—(1) An officer who is a reserve component brigadier genera
 
 &emsp;(B) immediately before the date of the officer's most recent transfer to an inactive status, the officer had continuously served on the reserve active status list or the active-duty list (or a combination of the reserve active status list and the active-duty list) for at least one year.
 
-(2) An officer who is a reserve component brigadier general of the Army or the Air Force who is on the reserve active status list but who isnot eligible for consideration for promotion under subsection (a) because the officer's service does not meet the one-year-of-continuous-service requirement under paragraph (2) of that subsection is nevertheless eligible for consideration for promotion to the grade of major general by a promotion board convened under section 14101(a) of this title if—
+(2) An officer who is a reserve component brigadier general of the Army or the Air Force who is on the reserve active status list but who is not eligible for consideration for promotion under subsection (a) because the officer's service does not meet the one-year-of-continuous-service requirement under paragraph (2) of that subsection is nevertheless eligible for consideration for promotion to the grade of major general by a promotion board convened under section 14101(a) of this title if—
 
 &emsp;(A) the officer was transferred from an inactive status to the reserve active status list during the one-year period preceding the date of the convening of the promotion board;
 
@@ -78,13 +78,15 @@ Authority To Allow Officers To Opt Out of Selection Board Consideration.—(1) T
 
 &emsp;(B) the Secretary determines the exclusion from consideration is in the best interest of the military department concerned; and
 
-&emsp;(C) the officer has not previously failed of selection for promotion to the grade for which the officer requests the exclusion from consideration.
+&emsp;(C) the officer has not previously failed of selection for promotion to the grade for whichthe officer requests the exclusion from consideration.
 
 (k)
 
 Certain Officers Not to Be Considered for Selection for Promotion.—The Secretary of the military department concerned may provide that an officer who is in an active status, but is in a duty status in which the only points the officer accrues under section 12732(a)(2) of this title are pursuant to subparagraph (C)(i) of that section (relating to membership in a reserve component), shall not be considered for selection for promotion until completion of two years of service in such duty status. Any such officer may remain on the reserve active-status list.
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2931; amended Pub. L. 105–85, div. A, title V, §§503(b), (c), 514(b), Nov. 18, 1997, 111 Stat. 1724, 1725, 1732; Pub. L. 105–261, div. A, title V, §514, Oct. 17, 1998, 112 Stat. 2008; Pub. L. 106–65, div. A, title V, §513(a), title X, §1066(a)(32), Oct. 5, 1999, 113 Stat. 593, 772; Pub. L. 107–107, div. A, title V, §505(c)(1)(B), Dec. 28, 2001, 115 Stat. 1087; Pub. L. 107–314, div. A, title V, §521, Dec. 2, 2002, 116 Stat. 2540; Pub. L. 112–81, div. A, title V, §517, Dec. 31, 2011, 125 Stat. 1397; Pub. L. 115–232, div. A, title V, §§505(b), 513, Aug. 13, 2018, 132 Stat. 1743, 1752.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -135,6 +137,8 @@ Subsecs. (e) to (g). Pub. L. 105–85, §514(b), redesignated subsecs. (f) and (
 "(e)
 
 Reserve Officers of the Army; Consideration for Brigadier General and Major General.—In the case of officers of the Army, if the Secretary of the Army determines that vacancies are authorized or anticipated in the reserve grades of major general or brigadier general for officers who are on the reserve active-status list and who are not assigned to units organized to serve as a unit and the Secretary convenes a mandatory promotion board under section 14101(a) of this title to consider officers for promotion to fill such vacancies, the Secretary may limit the officers to be considered by that board to those determined to be exceptionally well qualified for promotion under such criteria and procedures as the Secretary may by regulation prescribe."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1999 Amendment
 

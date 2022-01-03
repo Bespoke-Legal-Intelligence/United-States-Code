@@ -72,7 +72,9 @@ To address more effectively the critical need for reducing farm input costs, imp
 
 &emsp;&emsp;&emsp;&emsp;(II) a public college or university or other postsecondary institution.
 
-(Pub. L. 95–113, title XIV, §1409A, as added Pub. L. 97–98, title XIV, §1410(a), Dec. 22, 1981, 95 Stat. 1301; amended Pub. L. 99–198, title XIV, §1407, Dec. 23, 1985, 99 Stat. 1545; Pub. L. 101–624, titleXVI, §1601(f)(1)(B), Nov. 28, 1990, 104 Stat. 3704; Pub. L. 104–127, title VIII, §803, Apr. 4, 1996, 110 Stat. 1159.)
+(Pub. L. 95–113, title XIV, §1409A, as added Pub. L. 97–98, title XIV, §1410(a), Dec. 22, 1981, 95 Stat. 1301; amended Pub. L. 99–198, title XIV, §1407, Dec. 23, 1985, 99 Stat. 1545; Pub. L. 101–624, title XVI, §1601(f)(1)(B), Nov. 28, 1990, 104 Stat. 3704; Pub. L. 104–127, title VIII, §803, Apr. 4, 1996, 110 Stat. 1159.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -103,6 +105,8 @@ Title XVIII of this Act, referred to in subsec. (e)(2), is title XVIII of the Fo
 <b>1985</b>—Subsec. (a)(4). Pub. L. 99–198, §1407(a), added par. (4).
 
 Subsecs. (d), (e). Pub. L. 99–198, §1407(b), added subsecs. (d) and (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

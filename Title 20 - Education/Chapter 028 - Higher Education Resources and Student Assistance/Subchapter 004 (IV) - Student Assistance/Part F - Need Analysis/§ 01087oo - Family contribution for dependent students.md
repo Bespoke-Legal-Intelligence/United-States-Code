@@ -510,7 +510,7 @@ Parents' Contribution From AAI
 
 #### <i>(4) Remarried parents</i>
 
-&emsp;<i>If a parent whose income and assets are taken into account under paragraph (2), or if a parent who is a widow or widower and whose income is taken into account under paragraph (3), has remarried, the income of that parent's spouse shall be included in determining the parent's assessment of adjusted available income if the student's parent and the stepparent are married as of the date of application for the award year concerned.</i>
+&emsp;<i>If a parent whose income and assets are taken into account under paragraph (2), or if a parent who is a widow or widower and whose income is taken into account under paragraph (3), has remarried, the income of that parent's spouse shall be included in determining the parent's assessment of adjusted available income if the student's</i><i>parent and the stepparent are married as of the date of application for the award year concerned.</i>
 
 #### <i>(5) Single parent who is not divorced or separated</i>
 
@@ -555,6 +555,8 @@ Parents' Contribution From AAI
 <i>The student's assets are determined by calculating the assets of the student and multiplying such amount by 20 percent, except that the result shall not be less than zero.</i>
 
 <i>See 2020 Amendment note below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -631,6 +633,8 @@ Subsec. (h). Pub. L. 100–50, §14(11), added subsec. (h) and struck out former
 &emsp;"(2) the net value of investments and real estate, including the net value in the principal place of residence except in the case of a dislocated worker (certified in accordance with title III of the Job Training Partnership Act) or a dislocated homemaker (as defined in section 1087vv(e) of this title)."
 
 Subsec. (i). Pub. L. 100–50, §14(12), added subsec. (i).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 

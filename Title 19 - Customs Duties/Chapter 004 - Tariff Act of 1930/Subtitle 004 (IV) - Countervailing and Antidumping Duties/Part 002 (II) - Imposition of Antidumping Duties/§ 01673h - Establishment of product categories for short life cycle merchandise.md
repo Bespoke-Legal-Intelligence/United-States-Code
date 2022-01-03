@@ -122,6 +122,8 @@ For purposes of this section—
 
 (June 17, 1930, ch. 497, title VII, §739, as added Pub. L. 100–418, title I, §1323(a), Aug. 23, 1988, 102 Stat. 1195; amended Pub. L. 101–382, title I, §139(a)(2), Aug. 20, 1990, 104 Stat. 653; Pub. L. 103–465, title II, §233(a)(1)(D), (2)(A)(v), Dec. 8, 1994, 108 Stat. 4898.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Harmonized Tariff Schedule of the United States, referred to in subsec. (a)(1)(B)(v), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
@@ -135,6 +137,8 @@ A prior section, act June 17, 1930, ch. 497, title VII, §739, as added July 26,
 <b>1994</b>—Subsec. (b)(2)(B)(ii), (3)(A)(i), (B)(i). Pub. L. 103–465 substituted "normal value" for "foreign market value" and "export price (or the constructed export price)" for "United States price".
 
 <b>1990</b>—Subsec. (a)(1)(B)(v). Pub. L. 101–382 substituted "Harmonized Tariff Schedule" for "Tariff Schedules".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

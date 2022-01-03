@@ -6,7 +6,7 @@ The Secretary is authorized to investigate the handling, weighing, grading, and 
 
 #### (b) Notice and opportunity for comment; standards regarding cleanliness of grain
 
-(1) Before establishing, amending, or revoking any standards under this chapter, the Secretary shall publish notice of the proposals and give interested persons opportunity to submit data, views, and arguments thereon and, upon request,an opportunity to present data, views, and arguments orally in an informal manner. No standards established or amendments or revocations of standards under this chapter shall become effective less than one calendar year after promulgation thereof, unless in the judgment of the Secretary, the public health, interest, or safety require that they become effective sooner.
+(1) Before establishing, amending, or revoking any standards under this chapter, the Secretary shall publish notice of the proposals and give interested persons opportunity to submit data, views, and arguments thereon and, upon request, an opportunity to present data, views, and arguments orally in an informal manner. No standards established or amendments or revocations of standards under this chapter shall become effective less than one calendar year after promulgation thereof, unless in the judgment of the Secretary, the public health, interest, or safety require that they become effective sooner.
 
 (2)(A)(i) If the Secretary determines that the establishment or amendment of standards regarding cleanliness conditions of wheat, corn, barley, sorghum and soybeans that meet the requirements for grade number 3 or better (as set forth in subparagraph (B)) would—
 
@@ -46,6 +46,8 @@ If the Government of any country requests that moisture content remain a criteri
 
 (Aug. 11, 1916, ch. 313, pt. B, §4, 39 Stat. 483; Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 762; Pub. L. 94–582, §5, Oct. 21, 1976, 90 Stat. 2869; Pub. L. 95–113, title XVI, §1604(c), Sept. 29, 1977, 91 Stat. 1027; Pub. L. 99–198, title XVI, §1671, Dec. 23, 1985, 99 Stat. 1632; Pub. L. 101–624, title XX, §§2005, 2006, Nov. 28, 1990, 104 Stat. 3930; Pub. L. 103–156, §12(b), Nov. 24, 1993, 107 Stat. 1528; Pub. L. 103–354, title II, §293(a)(7), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 116–216, §9, Dec. 11, 2020, 134 Stat. 1051.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2020</b>—Subsec. (a)(1). Pub. L. 116–216 substituted "soybeans, mixed" for "soybeans mixed".
@@ -66,7 +68,9 @@ Subsecs. (c), (d). Pub. L. 101–624, §2006, added subsec. (c) and redesignated
 
 Subsec. (b). Pub. L. 94–582, §5(b), substituted "Administrator" for "Secretary" in two places.
 
-<b>1968</b>—Pub. L. 90–487 substituted provisions authorizing Secretary to establish, amend, and revoke standards for provisions making the use of official standardscompulsory, setting out exceptions, and providing for the right of appeal.
+<b>1968</b>—Pub. L. 90–487 substituted provisions authorizing Secretary to establish, amend, and revoke standards for provisions making the use of official standards compulsory, setting out exceptions, and providing for the right of appeal.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1977 Amendment
 

@@ -158,7 +158,7 @@ The Secretary shall establish a regional innovation program to encourage and sup
 
 #### (4) Regional innovation grant program
 
-&emsp;The Secretary shall incorporate data and analysis relating to any grant awarded under subsection (c) into the program established under this subsection.
+&emsp;The Secretary shall incorporate data and analysis relating to any grant awarded undersubsection (c) into the program established under this subsection.
 
 #### (e) Interagency coordination
 
@@ -203,6 +203,8 @@ Not later than 5 years after the first grant is awarded under subsection (c), an
 From amounts appropriated by Congress to the Secretary, the Secretary may use up to $50,000,000 in each of the fiscal years 2020 through 2024 to carry out this section.
 
 (Pub. L. 96–480, §27, as added Pub. L. 111–358, title VI, §603, Jan. 4, 2011, 124 Stat. 4030; amended Pub. L. 113–235, div. B, title VII, §705, Dec. 16, 2014, 128 Stat. 2230; Pub. L. 116–92, div. A, title XVII, §1742, Dec. 20, 2019, 133 Stat. 1837.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

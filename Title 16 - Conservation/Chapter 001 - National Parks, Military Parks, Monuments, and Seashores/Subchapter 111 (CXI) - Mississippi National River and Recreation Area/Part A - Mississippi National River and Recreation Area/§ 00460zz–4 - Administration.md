@@ -6,7 +6,7 @@ The Secretary shall administer the Area in accordance with this part. Only those
 
 #### (b) State and local authorities
 
-The Secretary shall consult and cooperate with the State of Minnesota and its politicalsubdivisions concerning the development and management of Federal lands within the Area.
+The Secretary shall consult and cooperate with the State of Minnesota and its political subdivisions concerning the development and management of Federal lands within the Area.
 
 #### (c) Land acquisition
 
@@ -24,7 +24,7 @@ Within the boundaries of the Area, the Secretary is authorized, in consultation 
 
 #### (2) Purpose
 
-&emsp;The purpose of review under paragraph (1) shall be to determine the degree to which actions by local governments are compatible with the purposes of this subchapter. Following the approval of the plan under section 460zz–2 of this title and after a reasonable period of time has elapsed, upon a finding by the Secretary that such plans, laws and ordinances are nonexistent, are otherwise not in conformance with the plan or are not being enforced in a manner consistent with the plan, and if the Secretary determines that there is no feasible alternative available to prevent uses which would be substantially incompatible with the plan, the Secretary may exercise the authority available to him under the provisions of paragraph (3).
+&emsp;The purpose of review under paragraph (1) shall be to determine the degree to which actions by local governments are compatible with the purposes of this subchapter. Following the approval of the plan under section460zz–2 of this title and after a reasonable period of time has elapsed, upon a finding by the Secretary that such plans, laws and ordinances are nonexistent, are otherwise not in conformance with the plan or are not being enforced in a manner consistent with the plan, and if the Secretary determines that there is no feasible alternative available to prevent uses which would be substantially incompatible with the plan, the Secretary may exercise the authority available to him under the provisions of paragraph (3).
 
 #### (3) Enforcement
 
@@ -35,6 +35,8 @@ Within the boundaries of the Area, the Secretary is authorized, in consultation 
 The Secretary may permit the owner or owners of any improved residential property acquired by the Secretary under this part to retain a right of use and occupancy of the property for noncommerical <sup>1</sup> residential uses not incompatible with the plan approved under section 460zz–2 of this title. The provisions of subsection (c), (d), and (e) of section 460ii–1 of this title shall apply to the retention of such rights, except that for purposes of this part, the applicable date shall be January 1, 1987 in lieu of January 1, 1975 and the purposes of this part shall be substituted for the purposes referred to in section 460ii–1(d) of this title.
 
 (Pub. L. 100–696, title VII, §705, Nov. 18, 1988, 102 Stat. 4605; Pub. L. 101–40, §4(1), June 20, 1989, 103 Stat. 82.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

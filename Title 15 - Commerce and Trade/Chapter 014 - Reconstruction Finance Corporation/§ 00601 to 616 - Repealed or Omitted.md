@@ -1,8 +1,10 @@
 ### §§601 to 616. Repealed or Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
-Section 601, acts Jan. 22, 1932, ch. 8, §1, 47 Stat. 5; June 30, 1947, ch. 166, title I, §1, 61 Stat. 202; May 25, 1948, ch. 334, §1, 62 Stat. 261; 1951 Reorg. Plan No. 1, §§1, 5, 9, eff. May 1, 1951, 16 F.R. 3690, 65 Stat. 773, 774, created the Reconstruction Finance Corporation, which was abolished by section 6 of Reorg. Plan. No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647. Reorg. PlanNo. 1 of 1957 is set out preceding section 601 of this title.
+Section 601, acts Jan. 22, 1932, ch. 8, §1, 47 Stat. 5; June 30, 1947, ch. 166, title I, §1, 61 Stat. 202; May 25, 1948, ch. 334, §1, 62 Stat. 261; 1951 Reorg. Plan No. 1, §§1, 5, 9, eff. May 1, 1951, 16 F.R. 3690, 65 Stat. 773, 774, created the Reconstruction Finance Corporation, which was abolished by section 6 of Reorg. Plan. No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647. Reorg. Plan No. 1 of 1957 is set out preceding section 601 of this title.
 
 Sections 601a, 601b, acts Jan. 20, 1934, ch. 3, §1, 48 Stat. 318; Jan. 31, 1935, ch. 2, §1, 49 Stat. 1, which extended the life of the Corporation until Feb. 1, 1935, and Feb. 1, 1937, respectively, were repealed by act of June 30, 1947, ch. 166, title II, §206(i), (m), 61 Stat. 208.
 
@@ -22,7 +24,7 @@ Section 604a, act Jan. 20, 1934, ch. 3, §2, 48 Stat. 319, related to time limit
 
 Section 604b, act Jan. 31, 1935, ch. 2, §2, 49 Stat. 2, related to limitation on disbursement of funds under commitment. It was repealed by act of June 30, 1947, ch. 166, title II, §206(m), 61 Stat. 208, as amended May 27, 1948, ch. 334, §6, 62 Stat. 265.
 
-Section 605, acts Jan. 22, 1932, ch. 8, §5, formerly §6, 47 Stat. 8; May 20, 1933, ch. 35, §2, 48 Stat. 73; June 19, 1934, ch. 653, §2, 48 Stat. 1107; June 25, 1940, ch. 427, §3(a), 54 Stat. 573; Sept. 18, 1940, ch. 722, title III, §331(a), (b), 54 Stat. 955; renumbered and amended June 30, 1947, ch. 166, title I, §1, title II, §206(a), (e), 61 Stat. 202, 208, authorized and directed the Federal Reserve banks to act as custodians and fiscal agents for the Corporation, which Corporation was abolished by section 6 of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647. Reorg. Plan No. 1 of 1957 is set out preceding section 601 of this title.
+Section 605, acts Jan. 22, 1932, ch. 8, §5, formerly §6, 47 Stat. 8; May 20, 1933, ch. 35, §2, 48 Stat. 73; June 19, 1934, ch. 653, §2, 48 Stat. 1107; June 25, 1940, ch. 427, §3(a), 54 Stat. 573; Sept. 18, 1940, ch. 722, title III, §331(a), (b), 54 Stat. 955; renumbered and amended June 30, 1947, ch. 166, title I, §1, title II, §206(a), (e), 61 Stat.202, 208, authorized and directed the Federal Reserve banks to act as custodians and fiscal agents for the Corporation, which Corporation was abolished by section 6 of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647. Reorg. Plan No. 1 of 1957 is set out preceding section 601 of this title.
 
 Section 605a, act July 21, 1932, ch. 520, §1, 47 Stat. 709, related to loans to States and municipalities for unemployment relief purposes. It was repealed by act of June 30, 1947, ch. 166, title II, §206(a), 61 Stat. 208.
 
@@ -46,7 +48,7 @@ Section 605j, act June 10, 1933, ch. 55, §14, 48 Stat. 122, reserved right to a
 
 Section 605k, acts Apr. 13, 1934, ch. 121, 48 Stat. 589; July 26, 1935, ch. 421, 49 Stat. 505; Apr. 17, 1936, ch. 234, §1, 49 Stat. 1232, authorized the Reconstruction Finance Corporation to make loans for repair of damage caused by floods and other catastrophes, which Corporation was abolished by section 6 of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 646. Reorg. Plan No. 1 of 1957 is set out preceding section 601 of this title.
 
-Section 605k–1, acts Feb. 11, 1937, ch. 10, 50 Stat. 19; May 28, 1937, ch. 275, 50 Stat. 211; Mar. 3, 1938, ch. 40, 52 Stat. 84; Mar. 4, 1939, ch. 4, 53 Stat. 510; June 10, 1941, ch. 190, §1, 55 Stat. 248, related to the creation and powers of the Disaster Loan Corporation and was rendered obsolete by Joint Res. June 30, 1945, ch. 215, §1, 59 Stat. 310, which dissolved the Corporation and transferred all powers, functions, duties, liabilities, etc., to the Reconstruction Finance Corporation. Section 2 of Joint Res. June 30, 1945, saved all pending court or other proceedings and provided that the Court could, upon motion filed within one year after July 1, 1945, substitute the Reconstruction Finance Corporation for the Disaster Loan Corporation. Section 3 of Joint Res. June 30,1945, provided that it should become effective July 1, 1945. It was repealed by act of June 30, 1947, ch. 166, title II, §206(r), 61 Stat. 209.
+Section 605k–1, acts Feb. 11, 1937, ch. 10, 50 Stat. 19; May 28, 1937, ch. 275, 50 Stat. 211; Mar. 3, 1938, ch. 40, 52 Stat. 84; Mar. 4, 1939, ch. 4, 53 Stat. 510; June 10, 1941, ch. 190, §1, 55 Stat. 248, related to the creation and powers of the Disaster Loan Corporation and was rendered obsolete by Joint Res. June 30, 1945, ch. 215, §1, 59 Stat. 310, which dissolved the Corporation and transferred all powers, functions, duties, liabilities, etc., to the Reconstruction Finance Corporation. Section 2 of Joint Res. June 30, 1945, saved all pending court or other proceedings and provided that the Court could, upon motion filed within one year after July 1, 1945, substitute the Reconstruction Finance Corporation for the Disaster Loan Corporation. Section 3 of Joint Res. June 30, 1945, provided that it should become effective July 1, 1945. It was repealed by act of June 30, 1947, ch. 166, title II, §206(r), 61 Stat. 209.
 
 Section 605l, act Jan. 31, 1935, ch. 2, §11, 49 Stat. 5, related to substitution of bonds or other evidence of indebtedness held by the Corporation. It was repealed by act of June 30, 1947, ch. 166, title II, §206(m), 61 Stat. 208.
 
@@ -70,7 +72,7 @@ Section 606b–5, act Aug. 7, 1946, ch. 811, §3, 60 Stat. 902, authorized exten
 
 Section 606c, act June 19, 1934, ch. 653, §13, 48 Stat. 1112, related to loans for organizing farmers' mineral rights pools. It was repealed by act of June 30, 1947, ch. 166, title II, §206(k), 61 Stat. 208.
 
-Section 606d, acts June 19, 1934, ch. 653, §14, 48 Stat. 1112; Jan. 31, 1935, ch. 2, §12, 49 Stat. 5; Sept. 16, 1940, ch. 721, 54 Stat. 897, related to loans to aid mining, milling and smelting industry. It was repealed by act of June 30, 1947, ch. 166, title II, §206(k), 61 Stat. 208.
+Section 606d, acts June 19, 1934, ch. 653, §14, 48 Stat. 1112; Jan. 31, 1935, ch. 2, §12, 49 Stat. 5; Sept. 16, 1940, ch.721, 54 Stat. 897, related to loans to aid mining, milling and smelting industry. It was repealed by act of June 30, 1947, ch. 166, title II, §206(k), 61 Stat. 208.
 
 Section 606e, act June 19, 1934, ch. 653, §15, 48 Stat. 1112, related to loans to aid fishing industry. It was repealed by act of June 30, 1947, ch. 166, title II, §206(k), 61 Stat. 208.
 
@@ -98,7 +100,7 @@ Section 609, acts Jan. 22, 1932, ch. 8, §10, 47 Stat. 9; July 21, 1932, ch. 520
 
 Section 609a, act July 21, 1932, ch. 520, §205(a), 47 Stat. 714, increased the amount of obligations the Corporation could have outstanding, to six and three-fifths times its capital stock. It was repealed by act of June 30, 1947, ch. 166, title II, §206(a), 61 Stat. 208.
 
-Section 609a–1, act June 22, 1946, ch. 445, §1, 60 Stat. 294, was from the Department of Agriculture Appropriation Act, 1947, and increased by $50,000,000 theamount of obligations the Corporation could issue or have outstanding.
+Section 609a–1, act June 22, 1946, ch. 445, §1, 60 Stat. 294, was from the Department of Agriculture Appropriation Act, 1947, and increased by $50,000,000 the amount of obligations the Corporation could issue or have outstanding.
 
 Section 609b, act June 16, 1933, ch. 90, title III, §302, 48 Stat. 210, decreased by $400,000,000 the amount of obligations the Corporation could have outstanding. It was repealed by act of June 30, 1947, ch. 166, title II, §206(c), 61 Stat. 208.
 

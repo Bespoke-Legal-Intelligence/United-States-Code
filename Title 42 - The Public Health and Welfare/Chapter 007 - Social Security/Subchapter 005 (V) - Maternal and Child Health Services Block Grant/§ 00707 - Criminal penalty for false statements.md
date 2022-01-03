@@ -12,6 +12,8 @@
 
 (Aug. 14, 1935, ch. 531, title V, §507, as added Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 824.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 707, act Aug. 14, 1935, ch. 531, title V, §507, as added Jan. 2, 1968, Pub. L. 90–248, title III, §301, 81 Stat. 925, related to failure of State plan to comply with provisions of this subchapter, prior to the general revision of this subchapter by section 2192(a) of Pub. L. 97–35. See section 706 of this title. For effective date, savings, and transitional provisions, see section 2194 of Pub. L. 97–35, set out as a note under section 701 of this title.

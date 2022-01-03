@@ -34,6 +34,8 @@ July 17, 1914, ch. 149 (proviso), 38 Stat. 512.
 
 May 31, 1939, ch. 161 (last sentence), 53 Stat. 796.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232, §808(d), renumbered section 4629 of this title as this section.
@@ -43,6 +45,8 @@ Par. (1). Pub. L. 115–232, §809(a), substituted "section 7621" for "section 4
 Par. (2). Pub. L. 115–232, §809(a), substituted "section 7627" for "section 4627".
 
 Par. (3). Pub. L. 115–232, §809(a), substituted "section 7626" for "section 4626".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

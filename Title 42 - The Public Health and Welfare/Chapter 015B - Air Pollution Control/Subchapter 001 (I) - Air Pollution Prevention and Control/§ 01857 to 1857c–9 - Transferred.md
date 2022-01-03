@@ -1,5 +1,7 @@
 ### §§1857 to 1857c–9. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 1857, act July 14, 1955, ch. 360, title I, §101, formerly §1, as added Dec. 17, 1963, Pub. L. 88–206, §1, 77 Stat. 392; renumbered title I, §101, and amended Oct. 20, 1965, Pub. L. 89–272, title I, §101(2), (3), 79 Stat. 992; Nov. 21, 1967, Pub. L. 90–148, §2, 81 Stat. 485, which related to Congressional findings and declaration of purpose, was transferred to section 7401 of this title.
@@ -20,7 +22,7 @@ Section 1857c–3, act July 14, 1955, ch. 360, title I, §108, as added Dec. 31,
 
 Section 1857c–4, act July 14, 1955, ch. 360, title I, §109, as added Dec. 31, 1970, Pub. L. 91–604, §4(a), 84 Stat. 1679, which related to procedure for and promulgation of national primary and secondary ambient air quality standards, was transferred to section 7409 of this title.
 
-Section 1857c–5, act July 14, 1955, ch. 360, title I, §110, as added Dec. 31, 1970, Pub. L. 91–604, §4(a), 84 Stat. 1680; amended June 22, 1974, Pub. L. 93–319, §4, 88 Stat. 256; S. Res. 4, Feb. 4, 1977, which related to State implementation plans for national primary and secondary ambient air quality standards, was transferred to section 7410 of this title.
+Section 1857c–5, act July 14, 1955, ch. 360, title I, §110, as added Dec. 31, 1970, Pub. L. 91–604, §4(a), 84 Stat. 1680; amended June 22, 1974, Pub. L. 93–319, §4, 88 Stat. 256;S. Res. 4, Feb. 4, 1977, which related to State implementation plans for national primary and secondary ambient air quality standards, was transferred to section 7410 of this title.
 
 Section 1857c–6, act July 14, 1955, ch. 360, title I, §111, as added Dec. 31, 1970, Pub. L. 91–604, §4(a), 84 Stat. 1683; amended Nov. 18, 1971, Pub. L. 92–157, title III, §302(f), 85 Stat. 464, which related to standards of performance for new stationary sources, was transferred to section 7411 of this title.
 

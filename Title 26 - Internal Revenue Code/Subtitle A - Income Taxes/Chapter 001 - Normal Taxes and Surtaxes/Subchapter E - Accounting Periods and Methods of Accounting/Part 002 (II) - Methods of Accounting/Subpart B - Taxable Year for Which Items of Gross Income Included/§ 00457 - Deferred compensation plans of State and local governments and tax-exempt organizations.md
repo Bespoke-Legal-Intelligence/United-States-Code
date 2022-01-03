@@ -100,7 +100,7 @@ For purposes of this section—
 
 &emsp;The term "eligible employer" means—
 
-&emsp;&emsp;(A) a State, political subdivision of a State, and any agency or instrumentality ofa State or political subdivision of a State, and
+&emsp;&emsp;(A) a State, political subdivision of a State, and any agency or instrumentality of a State or political subdivision of a State, and
 
 &emsp;&emsp;(B) any other organization (other than a governmental unit) exempt from tax under this subtitle.
 
@@ -188,7 +188,7 @@ For purposes of this section—
 
 #### (iii) Cost of living adjustment
 
-&emsp;&emsp;&emsp;In the case of taxable years beginning after December 31, 2017, the Secretary shall adjust the $6,000 amount under clause (ii) at the same time and in the same manner as under section 415(d), except that the base period shall be the calendar quarter beginning July 1, 2016, and any increase under this paragraph that is not a multipleof $500 shall be rounded to the next lowest multiple of $500.
+&emsp;&emsp;&emsp;In the case of taxable years beginning after December 31, 2017, the Secretary shall adjust the $6,000 amount under clause (ii) at the same time and in the same manner as under section 415(d), except that the base period shall be the calendar quarter beginning July 1, 2016, and any increase under this paragraph that is not a multiple of $500 shall be rounded to the next lowest multiple of $500.
 
 #### (iv) Special rule for application of limitation on accruals for certain plans
 
@@ -226,7 +226,7 @@ For purposes of this section—
 
 #### (B) Nonelective deferred compensation
 
-&emsp;&emsp;For purposes of subparagraph (A), deferred compensation shall be treated as nonelective only if all individuals (other than those who have not satisfied any applicable initial service requirement) with the same relationship to the payor are covered under the same plan with no individual variations or options under the plan.
+&emsp;&emsp;For purposes of subparagraph (A), deferred compensation shall be treated as nonelectiveonly if all individuals (other than those who have not satisfied any applicable initial service requirement) with the same relationship to the payor are covered under the same plan with no individual variations or options under the plan.
 
 #### (13) Special rule for churches
 
@@ -388,6 +388,8 @@ For purposes of this section—
 
 <i>For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table under section 401 of this title.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 8101 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (e)(11)(D)(ii)(I), is classified to section 7801 of Title 20, Education.
@@ -536,6 +538,8 @@ Subsec. (e)(13). Pub. L. 100–647, §6064(c), added par. (13).
 
 <b>1980</b>—Subsec. (d)(9)(B). Pub. L. 96–222 in cl. (i) struck out "described in section 501(c)(12)" after "any organization" and substituted "electric service on a mutual or cooperative basis" for "electric service" and in cl. (ii) substituted "paragraph (4) or (6) of section 501(a)" for "section 501(c)(6)" and "at least 80 percent of the members" for "all the members".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2019 Amendment
 
 Amendment by section 104(b) of Pub. L. 116–94 applicable to plan years beginning after Dec. 31, 2019, see section 104(c) of Pub. L. 116–94, set out as a note under section 401 of this title.
@@ -624,7 +628,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 "(2)
 
-Transition rule.—In the case of a plan in existence on the date of the enactment of this Act, a trustneed not be established by reason of the amendments made by this section before January 1, 1999."
+Transition rule.—In the case of a plan in existence on the date of the enactment of this Act, a trust need not be established by reason of the amendments made by this section before January 1, 1999."
 
 Pub. L. 104–188, title I, §1458(c)(1), Aug. 20, 1996, 110 Stat. 1820, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to accruals of length of service awards after December 31, 1996."
 
@@ -732,7 +736,7 @@ Deferred compensation plans for state judges.—The amendments made by this sect
 
 Special rule for certain deferred compensation plans.—The amendments made by this section shall not apply—
 
-&emsp;"(A) to employees on August 16, 1986, of a nonprofit corporation organized under the laws of the State ofAlabama maintaining a deferred compensation plan with respect to which the Internal Revenue Service issued a ruling dated March 17, 1976, that the plan would not affect the tax-exempt status of the corporation, or
+&emsp;"(A) to employees on August 16, 1986, of a nonprofit corporation organized under the laws of the State of Alabama maintaining a deferred compensation plan with respect to which the Internal Revenue Service issued a ruling dated March 17, 1976, that the plan would not affect the tax-exempt status of the corporation, or
 
 &emsp;"(B) to to \[sic\] individuals eligible to participate on August 16, 1986, in a deferred compensation plan with respect to which a letter dated November 6, 1975, submitted the original plan to the Internal Revenue Service, an amendment was submitted on November 19, 1975, and the Internal Revenue Service responded with a letter dated December 24, 1975,
 

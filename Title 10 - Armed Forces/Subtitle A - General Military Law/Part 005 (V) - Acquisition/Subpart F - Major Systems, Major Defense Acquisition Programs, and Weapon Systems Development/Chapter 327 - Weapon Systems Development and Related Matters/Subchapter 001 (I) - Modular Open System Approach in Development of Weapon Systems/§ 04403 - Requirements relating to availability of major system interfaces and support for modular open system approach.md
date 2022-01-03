@@ -2,7 +2,7 @@
 
 The Secretary of each military department shall—
 
-&emsp;(1) coordinate with the other military departments, the defense agencies, defense and other private sector entities, national standards-setting organizations, and, when appropriate, with elements of the intelligence community with respect to the specification, identification, development, and maintenance ofmajor system interfaces and standards for use in major system platforms, where practicable;
+&emsp;(1) coordinate with the other military departments, the defense agencies, defense and other private sector entities, national standards-setting organizations, and, when appropriate, with elements of the intelligence community with respect to the specification, identification, development, and maintenance of major system interfaces and standards for use in major system platforms, where practicable;
 
 &emsp;(2) ensure that major system interfaces incorporate commercial standards and other widely supported consensus-based standards that are validated, published, and maintained by recognized standards organizations to the maximum extent practicable;
 
@@ -16,6 +16,8 @@ The Secretary of each military department shall—
 
 (Added Pub. L. 114–328, div. A, title VIII, §805(a)(1), Dec. 23, 2016, 130 Stat. 2255, §2446c; amended Pub. L. 116–92, div. A, title VIII, §840(b), Dec. 20, 2019, 133 Stat. 1499; renumbered §4403, Pub. L. 116–283, div. A, title XVIII, §1851(b)(1), Jan. 1, 2021, 134 Stat. 4272.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior sections 4411 to 4414 were renumbered sections 7481 to 7484 of this title, respectively.
@@ -28,7 +30,15 @@ Prior sections 4416 and 4417 were renumbered sections 7486 and 7487 of this titl
 
 <b>2021</b>—Pub. L. 116–283 renumbered section 2446c of this title as this section.
 
+<b>2019</b>—Par. (6). Pub. L. 116–92 added par. (6).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2021 Amendment
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+#### Effective Date
+
+Section effective Jan. 1, 2017, see section 805(a)(4) of Pub. L. 114–328, set out as a note under section 4401 of this title.
 

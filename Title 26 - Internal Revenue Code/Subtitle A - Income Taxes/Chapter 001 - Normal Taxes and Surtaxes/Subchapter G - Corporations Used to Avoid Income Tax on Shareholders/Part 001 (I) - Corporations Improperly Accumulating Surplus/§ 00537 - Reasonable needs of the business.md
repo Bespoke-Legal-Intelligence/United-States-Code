@@ -16,7 +16,7 @@ For purposes of subsection (a)—
 
 #### (1) Section 303 redemption needs
 
-&emsp;The term "section 303 redemption needs" means, with respect to the taxable year of the corporation in which a shareholder of the corporation died or any taxable year thereafter, the amount needed (or reasonably anticipated to be needed) to make a redemption of stock included in the gross estate of the decedent (but not in excess of the maximum amount of stock to which section 303(a) may apply).
+&emsp;The term "section 303 redemption needs" means, with respect to the taxable year of the corporation in which a shareholder of the corporation died or any taxable year thereafter, the amount needed (or reasonably anticipated to be needed) to make a redemption of stock included in the gross estate of the decedent\(but not in excess of the maximum amount of stock to which section 303(a) may apply).
 
 #### (2) Excess business holdings redemption needs
 
@@ -40,6 +40,8 @@ For purposes of subsection (a)—
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 182; Pub. L. 91–172, title IX, §906(a), Dec. 30, 1969, 83 Stat. 714; Pub. L. 94–455, title XIX, §1901(a)(75), Oct. 4, 1976, 90 Stat. 1777; Pub. L. 95–600, title III, §371(c), Nov. 6, 1978, 92 Stat. 2859; Pub. L. 104–188, title I, §1704(t)(33), Aug. 20, 1996, 110 Stat. 1889; Pub. L. 115–97, title I, §13302(c)(2)(B), Dec. 22, 2017, 131 Stat. 2123.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 172(f), referred to in subsec. (b)(4), was repealed by Pub. L. 115–97, title I, §13302(c)(2)(A), Dec. 22, 2017, 131 Stat. 2122.
@@ -59,6 +61,8 @@ The date of the enactment of the Tax Cuts and Jobs Act, referred to in subsec. (
 Subsec. (b)(4). Pub. L. 94–455, §1901(a)(75)(B), struck out "or (2)" after "paragraph (1)".
 
 <b>1969</b>—Pub. L. 91–172 designated existing provisions as subsec. (a)(1) and added subsecs. (a)(2), (3) and (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 

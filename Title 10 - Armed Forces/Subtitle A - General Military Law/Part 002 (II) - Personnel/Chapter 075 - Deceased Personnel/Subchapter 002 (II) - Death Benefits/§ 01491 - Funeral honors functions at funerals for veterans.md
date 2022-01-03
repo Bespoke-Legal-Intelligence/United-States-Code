@@ -34,7 +34,7 @@ Support.—(1) To support a funeral honors detail under this section, the Secret
 
 (2) The Secretary of Defense shall prescribe annually a flat rate daily stipend for purposes of paragraph (1)(A). Such stipend shall be set at a rate so as to encompass typical costs for transportation and other miscellaneous expenses for persons participating in funeral honors details who are members of the armed forces in a retired status and other persons who are not members of the armed forces or employees of the United States.
 
-(3) A stipend paid under this subsection to a member of the armed forces in a retired status is in addition to any compensation to which the member is entitled under section 495(a)(2) <sup>1</sup> of title 37 and any other compensation to which the member may be entitled.
+(3) A stipend paid under this subsection to a member of the armed forces in a retired status is in addition to any compensation to which themember is entitled under section 495(a)(2) <sup>1</sup> of title 37 and any other compensation to which the member may be entitled.
 
 (e)
 
@@ -67,6 +67,8 @@ Veteran Defined.—In this section, the term "veteran" means a decedent who—
 &emsp;(2) was a member or former member of the Selected Reserve described in section 2301(f) of title 38.
 
 (Added Pub. L. 105–261, div. A, title V, §567(b)(1), Oct. 17, 1998, 112 Stat. 2030; amended Pub. L. 106–65, div. A, title V, §578(a)(1), (b)–(e), (k)(1), title X, §1067(1), Oct. 5, 1999, 113 Stat. 625–627, 630, 774; Pub. L. 107–107, div. A, title V, §§561(a), 564, Dec. 28, 2001, 115 Stat. 1119, 1120; Pub. L. 107–314, div. A, title V, §571, Dec. 2, 2002, 116 Stat. 2556; Pub. L. 109–163, div. A, title VI, §662(b)(4), Jan. 6, 2006, 119 Stat. 3315; Pub. L. 112–81, div. A, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 113–66, div. A, title VI, §621(f), Dec. 26, 2013, 127 Stat. 784; Pub. L. 116–92, div. A, title V, §574(a), Dec. 20, 2019, 133 Stat. 1404; Pub. L. 116–283, div. A, title V, §596(a)(2), Jan. 1, 2021, 134 Stat. 3667.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -123,6 +125,8 @@ Pub. L. 106–65, §578(c)(1), redesignated subsec. (e) as (g).
 Subsec. (h). Pub. L. 106–65, §578(e), amended heading and text of subsec. (h) generally. Prior to amendment, text read as follows: "In this section, the term 'veteran' has the meaning given that term in section 101(2) of title 38."
 
 Pub. L. 106–65, §578(c)(1), redesignated subsec. (f) as (h).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2013 Amendment
 

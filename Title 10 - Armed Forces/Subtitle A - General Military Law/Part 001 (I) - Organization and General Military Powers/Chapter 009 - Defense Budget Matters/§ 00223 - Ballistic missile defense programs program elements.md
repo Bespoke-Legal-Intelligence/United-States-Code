@@ -22,6 +22,8 @@ Management and Support.—The amount requested for a fiscal year for any program
 
 (Added Pub. L. 105–261, div. A, title II, §235(a)(1), Oct. 17, 1998, 112 Stat. 1953; amended Pub. L. 107–107, div. A, title II, §232(a), (b), Dec. 28, 2001, 115 Stat. 1037; Pub. L. 107–314, div. A, title II, §225(b)(1)(A), Dec. 2, 2002, 116 Stat. 2486; Pub. L. 108–136, div. A, title II, §221(a), (b)(1), (c)(1), Nov. 24, 2003, 117 Stat. 1419.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in Pub. L. 104–106, div. A, title II, §251, Feb. 10, 1996, 110 Stat. 233, which was set out as a note under section 221 of this title, prior to repeal by Pub. L. 105–261, §235(b).
@@ -76,6 +78,8 @@ Subsec. (c). Pub. L. 108–136, §221(b)(1), substituted "for a fiscal year for 
 
 Subsec. (b). Pub. L. 107–107, §232(b), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: "Amounts requested for Theater Missile Defense and National Missile Defense major defense acquisition programs shall be specified in individual, dedicated program elements, and amounts appropriated for those programs shall be available only for Ballistic Missile Defense activities."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Acquisition Accountability Reports on the Ballistic Missile Defense System
 
 Pub. L. 111–383, div. A, title II, §225, Jan. 7, 2011, 124 Stat. 4170, related to acquisition baselines, elements of baselines, and annual reports, prior to repeal by Pub. L. 112–81, div. A, title II, §231(b)(1), Dec. 31, 2011, 125 Stat. 1339.
@@ -120,7 +124,7 @@ Availability of RDT\&E Funds for Fiscal Year 2009.—Upon approval by the Secret
 
 &emsp;&emsp;"(A) military construction activities; or
 
-&emsp;&emsp;"(B) procurement or advance procurement of long lead items, including for Terminal High AltitudeArea Defense firing units 3 and 4, and for Standard Missile-3 Block 1A interceptors.
+&emsp;&emsp;"(B) procurement or advance procurement of long lead items, including for Terminal High Altitude Area Defense firing units 3 and 4, and for Standard Missile-3 Block 1A interceptors.
 
 "(d)
 
@@ -134,7 +138,7 @@ Relationship to Other Law.—Nothing in this provision shall be construed to alt
 
 "(f)
 
-Plan Required.—Not later than March 1, 2008, the Director of the Missile Defense Agency shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a plan for transitioning the Missile Defense Agency from using exclusively research, development, test, and evaluation funds to using procurement, military construction, operations and maintenance, and research, development, test, and evaluation funds for the appropriate budget activities, and for transitioning from incremental funding to full funding for fiscal years after fiscal year 2010."
+Plan Required.—Not later than March 1, 2008, the Director of the Missile Defense Agency shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a plan for transitioning the Missile Defense Agency from using exclusively research, development, test, and evaluation funds to using procurement, military construction, operations and maintenance, and research, development, test, and evaluation funds for the appropriate budget activities, and fortransitioning from incremental funding to full funding for fiscal years after fiscal year 2010."
 
 #### References to New Name for Ballistic Missile Defense Organization
 

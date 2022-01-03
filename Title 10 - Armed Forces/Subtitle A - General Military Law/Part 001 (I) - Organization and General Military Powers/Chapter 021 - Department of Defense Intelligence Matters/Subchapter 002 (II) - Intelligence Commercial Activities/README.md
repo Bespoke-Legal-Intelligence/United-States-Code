@@ -12,6 +12,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Pub. L. 102–484, div. A, title X, §1052(1), Oct. 23, 1992, 106 Stat. 2499, inserted "Sec." above item "431".

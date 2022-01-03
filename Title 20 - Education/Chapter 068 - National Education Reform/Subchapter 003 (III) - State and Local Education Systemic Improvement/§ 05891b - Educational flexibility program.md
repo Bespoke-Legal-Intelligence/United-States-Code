@@ -180,9 +180,9 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Following the expiration of an approved educational flexibility program for a Statethat is designated an Ed-Flex Partnership State, the Secretary shall have not more than 180 days to complete a review of the performance of the State educational agency in granting waivers of Federal statutory or regulatory requirements as described in paragraph (1)(A) to determine if the State educational agency—
+&emsp;&emsp;&emsp;Following the expiration of an approved educational flexibility program for a State that is designated an Ed-Flex Partnership State, the Secretary shall have not more than 180 days to complete a review of the performance of the State educational agency in granting waivers of Federal statutory or regulatory requirements as described in paragraph (1)(A) to determine if the State educational agency—
 
-&emsp;&emsp;&emsp;&emsp;(I) has achieved, or is making substantial progress towards achieving, the objectives described in the application submitted pursuant to paragraph (3)(A)(iii) and the specific long-term goals and measurements of interim progress established under section 1111(c)(4)(A)(i) of the Elementary and Secondary Education Act of 1965; and
+&emsp;&emsp;&emsp;&emsp;(I) has achieved, or is making substantial progress towards achieving, the objectives described in the application submitted pursuant to paragraph (3)(A)(iii) and the specific long-term goals andmeasurements of interim progress established under section 1111(c)(4)(A)(i) of the Elementary and Secondary Education Act of 1965; and
 
 &emsp;&emsp;&emsp;&emsp;(II) demonstrates that local educational agencies, educational service agencies, or schools affected by the waiver authority or waivers have achieved, or are making progress toward achieving, the desired goals described in the application submitted pursuant to paragraph (4)(A)(iii).
 
@@ -294,6 +294,8 @@ A notice of the Secretary's decision to authorize State educational agencies to 
 
 (Pub. L. 106–25, §4, Apr. 29, 1999, 113 Stat. 42; Pub. L. 107–110, title X, §1073, Jan. 8, 2002, 115 Stat. 2090; Pub. L. 109–270, §2(e), Aug. 12, 2006, 120 Stat. 747; Pub. L. 114–95, title IX, §9207(b), Dec. 10, 2015, 129 Stat. 2141.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Elementary and Secondary Education Act of 1965, referred to in subsecs. (a)(2)(A)(ii), (3)(A)(v), (b)(1), and (c)(1)(G), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§6301 et seq.) of this title. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of this title. Parts A, C, and D of title I of the Act are classified generally to parts A (§6311 et seq.), C (§6391 et seq.), and D (§6421 et seq.), respectively, of subchapter I of chapter 70 of this title. Part A of title II of the Act is classified generally to part A (§6611 et seq.) of subchapter II of chapter 70 of this title. Part A of title IV of the Act is classified generally to part A (§7101) of subchapter IV of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
@@ -312,7 +314,7 @@ Section was enacted as part of the Education Flexibility Partnership Act of 1999
 
 <b>2006</b>—Subsec. (b)(2). Pub. L. 109–270 substituted "Carl D. Perkins Career and Technical Education Act of 2006" for "Carl D. Perkins Vocational and Technical Education Act of 1998".
 
-<b>2002</b>—Subsec. (b). Pub. L. 107–110 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "The statutory or regulatory requirements referred to in subsection\(a)(1)(A) of this section are any such requirements for programs carried out under the following provisions:
+<b>2002</b>—Subsec. (b). Pub. L. 107–110 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "The statutory or regulatory requirements referred to in subsection (a)(1)(A) of this section are any such requirements for programs carried out under the following provisions:
 
 &emsp;"(1) Title I of the Elementary and Secondary Education Act of 1965 (other than subsections (a) and (c) of section 1116 of such Act).
 
@@ -327,6 +329,8 @@ Section was enacted as part of the Education Flexibility Partnership Act of 1999
 &emsp;"(6) Part C of title VII of the Elementary and Secondary Education Act of 1965.
 
 &emsp;"(7) The Carl D. Perkins Vocational and Technical Education Act of 1998."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

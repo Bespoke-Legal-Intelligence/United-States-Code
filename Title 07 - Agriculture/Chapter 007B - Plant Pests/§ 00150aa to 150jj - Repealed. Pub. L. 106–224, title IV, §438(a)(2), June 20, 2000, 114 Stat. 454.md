@@ -6,7 +6,7 @@ Section 150bb, Pub. L. 85–36, title I, §103, May 23, 1957, 71 Stat. 32; Pub. 
 
 Section 150cc, Pub. L. 85–36, title I, §104, May 23, 1957, 71 Stat. 32; Pub. L. 100–449, title III, §301(f)(2), Sept. 28, 1988, 102 Stat. 1869; Pub. L. 103–465, title IV, §431(c)(2), Dec. 8, 1994, 108 Stat. 4967, prohibited mailing of plant pests.
 
-Section 150dd, Pub. L. 85–36, title I, §105, May 23, 1957, 71 Stat. 32; Pub. L. 97–98, title XI, §1119(1), Dec. 22, 1981,95 Stat. 1272, authorized emergency measures to prevent dissemination of plant pests.
+Section 150dd, Pub. L. 85–36, title I, §105, May 23, 1957, 71 Stat. 32; Pub. L. 97–98, title XI, §1119(1), Dec. 22, 1981, 95 Stat. 1272, authorized emergency measures to prevent dissemination of plant pests.
 
 Section 150ee, Pub. L. 85–36, title I, §106, May 23, 1957, 71 Stat. 33, authorized promulgation of regulations requiring inspection of products and articles.
 
@@ -19,6 +19,8 @@ Section 150hh, Pub. L. 85–36, title I, §109, May 23, 1957, 71 Stat. 34, relat
 Section 150ii, Pub. L. 85–36, title I, §111, May 23, 1957, 71 Stat. 34, provided that authority conferred by this chapter was to be in addition to that conferred by other statutes.
 
 Section 150jj, Pub. L. 85–36, title I, §111, May 23, 1957, 71 Stat. 35, provided that nothing in this chapter was to amend or repeal provisions of the Plant Quarantine Act.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

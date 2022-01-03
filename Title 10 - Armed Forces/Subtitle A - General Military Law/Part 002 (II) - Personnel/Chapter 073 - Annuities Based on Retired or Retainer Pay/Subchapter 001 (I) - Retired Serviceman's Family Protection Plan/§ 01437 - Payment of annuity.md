@@ -48,6 +48,8 @@ Aug. 8, 1953, ch. 393, §10, 67 Stat. 504.
 
 The words "the person upon whose reduced pay the annuity is based" are substituted for the words "the retired member" since persons other than retired members may elect an annuity. The words "due and" and "or be paid" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1985</b>—Subsec. (c)(3)(A). Pub. L. 99–145 struck out "(notwithstanding section 144 of this title)" after "which".
@@ -63,6 +65,8 @@ Subsec. (c). Pub. L. 98–525, §642(a)(1)(B), added subsec. (c).
 <b>1972</b>—Subsec. (a). Pub. L. 92–425 substituted "subchapter" for "chapter".
 
 <b>1968</b>—Pub. L. 90–485 designated existing provisions as subsec. (a), inserted "Except as provided in subsection (b)", substituted "whose pay" for "whose reduced pay", and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1983 Amendment
 

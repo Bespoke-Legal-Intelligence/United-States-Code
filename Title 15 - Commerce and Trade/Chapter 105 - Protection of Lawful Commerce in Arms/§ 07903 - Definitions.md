@@ -24,7 +24,7 @@ In this chapter:
 
 &emsp;&emsp;The term "qualified civil liability action" means a civil action or proceeding or an administrative proceeding brought by any person against a manufacturer or seller of a qualified product, or a trade association, for damages, punitive damages, injunctive or declaratory relief, abatement, restitution, fines, or penalties, or other relief, resulting from the criminal or unlawful misuse of a qualified product by the person or a third party, but shall not include—
 
-&emsp;&emsp;&emsp;(i) an action brought against a transferor convicted under section 924(h) of title 18,or a comparable or identical State felony law, by a party directly harmed by the conduct of which the transferee is so convicted;
+&emsp;&emsp;&emsp;(i) an action brought against a transferor convicted under section 924(h) of title 18, or a comparable or identical State felony law, by a party directly harmed by the conduct of which the transferee is so convicted;
 
 &emsp;&emsp;&emsp;(ii) an action brought against a seller for negligent entrustment or negligence per se;
 
@@ -81,6 +81,8 @@ In this chapter:
 &emsp;The term "unlawful misuse" means conduct that violates a statute, ordinance, or regulation as it relates to the use of a qualified product.
 
 (Pub. L. 109–92, §4, Oct. 26, 2005, 119 Stat. 2097.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -16,7 +16,7 @@ In each State, an authorized criminal justice agency of the State shall report c
 
 (2) The Attorney General shall require as a part of each State timetable that the State—
 
-&emsp;(A) by not later than the date that is 5 years after December 20, 1993, have in a computerized criminal history file at least 80 percent ofthe final dispositions that have been rendered in all identifiable child abuse crime cases in which there has been an event of activity within the last 5 years;
+&emsp;(A) by not later than the date that is 5 years after December 20, 1993, have in a computerized criminal history file at least 80 percent of the final dispositions that have been rendered in all identifiable child abuse crime cases in which there has been an event of activity within the last 5 years;
 
 &emsp;(B) continue to maintain a reporting rate of at least 80 percent for final dispositions in all identifiable child abuse crime cases in which there has been an event of activity within the preceding 5 years; and
 
@@ -38,7 +38,7 @@ The Attorney General shall, subject to the availability of appropriations, publi
 
 #### (f) Study of child abuse offenders
 
-(1) Not later than 180 days after December 20, 1993, the Administrator of the Office of Juvenile Justice and Delinquency Prevention shall begin a study based on a statistically significant sample of convicted child abuse offenders and other relevant information to determine—
+(1) Not later than 180 days after December 20, 1993, the Administrator of the Office of JuvenileJustice and Delinquency Prevention shall begin a study based on a statistically significant sample of convicted child abuse offenders and other relevant information to determine—
 
 &emsp;(A) the percentage of convicted child abuse offenders who have more than 1 conviction for an offense involving child abuse;
 

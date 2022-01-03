@@ -28,7 +28,7 @@ Assurances.—The Secretary shall require a State or unit of local government to
 
 &emsp;&emsp;(B) addresses ways to achieve and maintain compatible land uses, including zoning, building codes, and any other land use compatibility measures under section 47504(a)(2) that are within the authority of the State or unit of local government to implement;
 
-&emsp;&emsp;(C) uses noise contours provided by the airport operator that are consistent with the airport operation and planning, including any noise abatement measures adopted by the airport operator as part of its own noise mitigation efforts;
+&emsp;&emsp;(C) uses noise contours provided by the airport operator that are consistent with the airport operation and planning, includingany noise abatement measures adopted by the airport operator as part of its own noise mitigation efforts;
 
 &emsp;&emsp;(D) does not duplicate, and is not inconsistent with, the airport operator's noise compatibility measures for the same area; and
 
@@ -48,7 +48,9 @@ Eligible Projects.—The Secretary may approve a grant under this section to a S
 
 Sunset.—This section shall not be in effect after September 30, 2023.
 
-(Added Pub. L. 108–176, title I, §160(a), Dec. 12, 2003, 117 Stat. 2511; amended Pub. L. 110–253, §3(c)(2), June 30, 2008, 122 Stat. 2417; Pub. L. 110–330, §5(g), Sept. 30, 2008, 122 Stat. 3718; Pub.L. 111–12, §5(f), Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §5(g), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §5(f), Dec. 16, 2009, 123 Stat. 3032; Pub. L. 111–153, §5(f), Mar. 31, 2010, 124 Stat. 1085; Pub. L. 111–161, §5(f), Apr. 30, 2010, 124 Stat. 1127; Pub. L. 111–197, §5(f), July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §104(f), Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, §5(g), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 111–329, §5(f), Dec. 22, 2010, 124 Stat. 3567; Pub. L. 112–7, §5(f), Mar. 31, 2011, 125 Stat. 32; Pub. L. 112–16, §5(f), May 31, 2011, 125 Stat. 219; Pub. L. 112–21, §5(f), June 29, 2011, 125 Stat. 234; Pub. L. 112–27, §5(f), Aug. 5, 2011, 125 Stat. 271; Pub. L. 112–30, title II, §205(g), Sept. 16, 2011, 125 Stat. 358; Pub. L. 112–91, §5(g), Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title I, §153, Feb. 14, 2012, 126 Stat. 34; Pub. L. 114–55, title I, §102(d), Sept. 30, 2015, 129 Stat. 523; Pub. L. 114–141, title I, §102(d), Mar. 30, 2016, 130 Stat. 323; Pub. L. 114–190, title I, §1102(d), July 15, 2016, 130 Stat. 617; Pub. L. 115–63, title I, §102(e), Sept. 29, 2017, 131 Stat. 1169; Pub. L. 115–141, div. M, title I, §102(d), Mar. 23, 2018, 132 Stat. 1046; Pub. L. 115–254, div. B, title I, §117(b), Oct. 5, 2018, 132 Stat. 3201.)
+(Added Pub. L. 108–176, title I, §160(a), Dec. 12, 2003, 117 Stat. 2511; amended Pub. L. 110–253, §3(c)(2), June 30, 2008, 122 Stat. 2417; Pub. L. 110–330, §5(g), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 111–12, §5(f), Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §5(g), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §5(f), Dec. 16, 2009, 123 Stat. 3032; Pub. L. 111–153, §5(f), Mar. 31, 2010, 124 Stat. 1085; Pub. L. 111–161, §5(f), Apr. 30, 2010, 124 Stat. 1127; Pub. L. 111–197, §5(f), July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §104(f), Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, §5(g), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 111–329, §5(f), Dec. 22, 2010, 124 Stat. 3567; Pub. L. 112–7, §5(f), Mar. 31, 2011, 125 Stat. 32; Pub. L. 112–16, §5(f), May 31, 2011, 125 Stat. 219; Pub. L. 112–21, §5(f), June 29, 2011, 125 Stat. 234; Pub. L. 112–27, §5(f), Aug. 5, 2011, 125 Stat. 271; Pub. L. 112–30, title II, §205(g), Sept. 16, 2011, 125 Stat. 358; Pub. L. 112–91, §5(g), Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title I, §153, Feb. 14, 2012, 126 Stat. 34; Pub. L. 114–55, title I, §102(d), Sept. 30, 2015, 129 Stat. 523; Pub. L. 114–141, title I, §102(d), Mar. 30, 2016, 130 Stat. 323; Pub. L. 114–190, title I, §1102(d), July 15, 2016, 130 Stat. 617; Pub. L. 115–63, title I, §102(e), Sept. 29, 2017, 131 Stat. 1169; Pub. L. 115–141, div. M, title I, §102(d), Mar. 23, 2018, 132 Stat. 1046; Pub. L. 115–254, div. B, title I, §117(b), Oct. 5, 2018, 132 Stat. 3201.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -100,6 +102,8 @@ Pub. L. 111–12 substituted "September 30, 2009." for "March 31, 2009."
 
 Pub. L. 110–253 substituted "September 30, 2008" for "September 30, 2007".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2011 Amendment
 
 Amendment by Pub. L. 112–27 effective July 23, 2011, see section 5(j) of Pub. L. 112–27, set out as a note under section 40117 of this title.
@@ -150,7 +154,7 @@ In General.—Not later than 1 year after the date of enactment of this Act \[Fe
 
 "(b)
 
-Grants.—Under the pilot program, the Administrator may make a grant in a fiscal year, from fundsmade available for grants under section 47117(e)(1)(A) of title 49, United States Code, to an airport operator for a project—
+Grants.—Under the pilot program, the Administrator may make a grant in a fiscal year, from funds made available for grants under section 47117(e)(1)(A) of title 49, United States Code, to an airport operator for a project—
 
 &emsp;"(1) to support joint planning, engineering, design, and environmental permitting of projects, including the assembly and redevelopment of property purchased with noise mitigation funds made available under section 48103 of such title or passenger facility revenue collected under section 40117 of such title; and
 

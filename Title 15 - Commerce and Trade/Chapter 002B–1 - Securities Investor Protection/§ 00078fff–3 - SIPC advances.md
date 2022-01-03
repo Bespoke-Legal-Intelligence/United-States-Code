@@ -14,7 +14,7 @@ In order to provide for prompt payment and satisfaction of net equity claims of 
 
 &emsp;(5) no advance shall be made by SIPC to the trustee to pay or otherwise satisfy any net equity claim of any customer who is a broker or dealer or bank, other than to the extent that it shall be established to the satisfaction of the trustee, from the books and records of the debtor or from the books and records of a broker or dealer or bank, or otherwise, that the net equity claim of such broker or dealer or bank against the debtor arose out of transactions for customers of such broker or dealer or bank (which customers are not themselves a broker or dealer or bank or a person described in paragraph (4)), in which event each such customer of such broker or dealer or bank shall be deemed a separate customer of the debtor.
 
-> To the extent moneys are advanced by SIPC to the trustee to pay or otherwise satisfy the claims of customers, in addition to all other rights it may have at law or in equity, SIPC shall be subrogated to the claims of such customers with the rights and priorities provided in this chapter, except that SIPC as subrogee may assert no claim against customer property until after the allocation thereof to customers as provided in section 78fff–2(c) of this title.
+> To the extent moneys are advanced by SIPC to the trustee to pay or otherwise satisfy the claims of customers, in addition to all other rights it may have at law or in equity, SIPC shall be subrogated to the claims of such customers with the rights and priorities provided in this chapter, except that SIPC as subrogee mayassert no claim against customer property until after the allocation thereof to customers as provided in section 78fff–2(c) of this title.
 
 #### (b) Other advances
 
@@ -78,6 +78,8 @@ For purposes of this section, the term "standard maximum cash advance amount" me
 
 (Pub. L. 91–598, §9, as added Pub. L. 95–283, §9, May 21, 1978, 92 Stat. 265; amended Pub. L. 96–433, §1, Oct. 10, 1980, 94 Stat. 1855; Pub. L. 111–203, title IX, §§929H(a), 983(a), July 21, 2010, 124 Stat. 1856, 1931.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636. For complete classification of this Act to the Code, see Tables.
@@ -97,6 +99,8 @@ Subsecs. (d), (e). Pub. L. 111–203, §929H(a)(2), added subsecs. (d) and (e).
 <b>1980</b>—Subsec. (a). Pub. L. 96–433, §1(1), substituted in opening par. "$500,000" for "$100,000".
 
 Subsec. (a)(1). Pub. L. 96–433, §1(2), substituted "$100,000" for "$40,000".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

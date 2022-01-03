@@ -122,7 +122,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(I) one test conducted pursuant to test method ASTM E–1333–96 (2002) or, subject to clause (ii), ASTM D–6007–02; and
 
-&emsp;&emsp;&emsp;(II) 3 months of routine quality control tests pursuant to ASTM D–6007–02 orASTM D–5582 or such other routine quality control test methods as may be established by the Administrator through rulemaking.
+&emsp;&emsp;&emsp;(II) 3 months of routine quality control tests pursuant to ASTM D–6007–02 or ASTM D–5582 or such other routine quality control test methods as may be established by the Administrator through rulemaking.
 
 &emsp;&emsp;(ii) Test results obtained under clause (i)(I) or (II) by any test method other than ASTM E–1333–96 (2002) must include a showing of equivalence by means established by the Administrator through rulemaking.
 
@@ -142,7 +142,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) No higher than 0.04 parts per million of formaldehyde for 90 percent of the 3 months of routine quality control testing data required under subparagraph (A)(ii).
 
-&emsp;&emsp;&emsp;(ii) No test result higher than 0.05 parts per million of formaldehyde for hardwood plywood and 0.06 parts per million for particleboard, medium-density fiberboard, and thin medium-density fiberboard.
+&emsp;&emsp;&emsp;(ii) No test result higher than 0.05 parts per million of formaldehyde for hardwoodplywood and 0.06 parts per million for particleboard, medium-density fiberboard, and thin medium-density fiberboard.
 
 #### (8) Particleboard
 
@@ -214,7 +214,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;Except as provided in an applicable sell-through regulation promulgated pursuant to subsection (d), effective beginning on the date that is 180 days after the date of promulgation of those regulations, the emission standardsdescribed in paragraph (2), shall apply to hardwood plywood, medium-density fiberboard, and particleboard sold, supplied, offered for sale, or manufactured in the United States.
+&emsp;Except as provided in an applicable sell-through regulation promulgated pursuant to subsection (d), effective beginning on the date that is 180 days after the date of promulgation of those regulations, the emission standards described in paragraph (2), shall apply to hardwood plywood, medium-density fiberboard, and particleboard sold, supplied, offered for sale, or manufactured in the United States.
 
 #### (2) Emission standards
 
@@ -310,7 +310,7 @@ The formaldehyde emission standard referred to in subsection (b)(1) shall not ap
 
 &emsp;&emsp;(A) the doors are made from composite wood products manufactured with no-added formaldehyde-based resins or ultra low-emitting formaldehyde resins; or
 
-&emsp;&emsp;(B) the doors contain less than 3 percent by volume of hardwood plywood,particleboard, or medium-density fiberboard, combined, in relation to the total volume of the finished exterior door or garage door.
+&emsp;&emsp;(B) the doors contain less than 3 percent by volume of hardwood plywood, particleboard, or medium-density fiberboard, combined, in relation to the total volume of the finished exterior door or garage door.
 
 #### (d) Regulations
 
@@ -383,6 +383,8 @@ The formaldehyde emission standard referred to in subsection (b)(1) shall not ap
 An individual or entity that violates any requirement under this section (including any regulation promulgated pursuant to subsection (d)) shall be considered to have committed a prohibited act under section 2614 of this title.
 
 (Pub. L. 94–469, title VI, §601, as added Pub. L. 111–199, §2(a), July 7, 2010, 124 Stat. 1359; amended Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

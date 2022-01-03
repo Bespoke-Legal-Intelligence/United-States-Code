@@ -10,7 +10,7 @@
 
 &emsp;(C) prescribe criteria and resolve issues relating to the granting of national consultation rights under section 7113 of this title;
 
-&emsp;(D) prescribe criteria and resolve issues relating to determining compelling need foragency rules or regulations under section 7117(b) of this title;
+&emsp;(D) prescribe criteria and resolve issues relating to determining compelling need for agency rules or regulations under section 7117(b) of this title;
 
 &emsp;(E) resolves issues relating to the duty to bargain in good faith under section 7117(c) of this title;
 

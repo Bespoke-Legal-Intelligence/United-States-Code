@@ -54,7 +54,7 @@ Pub. L. 97–306, title I, §112(b), Oct. 14, 1982, 96 Stat. 1432, provided that
 
 "(2)(A) As soon as practicable after September 30, 1982, the Administrator of Veterans' Affairs shall pay an amount determined under subparagraph (B) to each person who would have been entitled to a payment under chapter 13 of title 38, United States Code, for any part of the period beginning on October 1, 1978, and ending on September 30, 1982, if the amendment made by subsection (a) \[amending this section\] had taken effect on October 1, 1978.
 
-"(B) The amount of any payment to a person under subparagraph (A) is the amount equal to the total of allpayments under chapter 13 of title 38, United States Code, that would have been made to that person for the period described in such subparagraph if the amendment made by subsection (a) \[amending this section\] had taken effect on October 1, 1978."
+"(B) The amount of any payment to a person under subparagraph (A) is the amount equal to the total of all payments under chapter 13 of title 38, United States Code, that would have been made to that person for the period described in such subparagraph if the amendment made by subsection (a) \[amending this section\] had taken effect on October 1, 1978."
 
 #### Effective Date of 1978 Amendment
 

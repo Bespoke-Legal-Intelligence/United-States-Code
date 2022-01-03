@@ -46,7 +46,7 @@ The Joint Board and the Commission shall base policies for the preservation and 
 
 #### (1) In general
 
-&emsp;Universal service is an evolving level of telecommunications services that the Commissionshall establish periodically under this section, taking into account advances in telecommunications and information technologies and services. The Joint Board in recommending, and the Commission in establishing, the definition of the services that are supported by Federal universal service support mechanisms shall consider the extent to which such telecommunications services—
+&emsp;Universal service is an evolving level of telecommunications services that the Commission shall establish periodically under this section, taking into account advances in telecommunications and information technologies and services. The Joint Board in recommending, and the Commission in establishing, the definition of the services that are supported by Federal universal service support mechanisms shall consider the extent to which such telecommunications services—
 
 &emsp;&emsp;(A) are essential to education, public health, or public safety;
 
@@ -86,7 +86,7 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 #### (A) Health care providers for rural areas
 
-&emsp;&emsp;A telecommunications carrier shall, upon receiving a bona fide request, provide telecommunications services which are necessary for the provision of health care services in a State, including instruction relating to such services, to any public or nonprofit health care provider that serves persons who reside in rural areas in that State at rates that are reasonably comparable to rates charged for similar services in urban areas in that State. A telecommunications carrier providing service under this paragraph shall be entitled to have an amount equal to the difference, if any, between the rates for services provided to health care providers for rural areas in a State and the rates for similar services provided to other customers in comparable rural areas in that State treated as a service obligation as a part of its obligation to participate in the mechanisms to preserve and advance universal service.
+&emsp;&emsp;A telecommunications carrier shall, upon receiving a bona fide request, provide telecommunications services which are necessary for the provision of health care services in a State, including instruction relating to such services, to any public or nonprofit health care provider that serves persons who reside in rural areas in that State at rates that are reasonably comparable to rates charged for similar services in urban areas in that State. A telecommunications carrier providing service under this paragraph shall be entitled to have an amountequal to the difference, if any, between the rates for services provided to health care providers for rural areas in a State and the rates for similar services provided to other customers in comparable rural areas in that State treated as a service obligation as a part of its obligation to participate in the mechanisms to preserve and advance universal service.
 
 #### (B) Educational providers and libraries
 
@@ -148,7 +148,7 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 &emsp;&emsp;&emsp;(ii) is enforcing the operation of such technology protection measure during any use of such computers by minors; and
 
-&emsp;&emsp;&emsp;(iii) as part of its Internet safety policy is educating minors about appropriate online behavior, including interacting with other individuals on social networking websites and in chat rooms and cyberbullying awareness and response.
+&emsp;&emsp;&emsp;(iii) as part of its Internet safety policy is educating minors about appropriate online behavior, including interacting with other individuals on social networkingwebsites and in chat rooms and cyberbullying awareness and response.
 
 #### (C) Certification with respect to adults
 
@@ -164,7 +164,7 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 #### (D) Disabling during adult use
 
-&emsp;&emsp;An administrator, supervisor, or other person authorized by the certifying authority under subparagraph (A)(i) may disable the technology protection measure concerned,during use by an adult, to enable access for bona fide research or other lawful purpose.
+&emsp;&emsp;An administrator, supervisor, or other person authorized by the certifying authority under subparagraph (A)(i) may disable the technology protection measure concerned, during use by an adult, to enable access for bona fide research or other lawful purpose.
 
 #### (E) Timing of implementation
 
@@ -292,7 +292,7 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) for the second program year after the effective date of this subsection in which it is applying for funds under this subsection, shall certify that it is in compliance with subparagraphs (B) and (C).
 
-> &emsp;&emsp;&emsp;&emsp;Any library that is unable to certify compliance with such requirements in such second program year shall be ineligible for services at discount rates or funding in lieu of services at such rates under this subsection for such secondyear and all subsequent program years under this subsection, until such time as such library comes into compliance with this paragraph.
+> &emsp;&emsp;&emsp;&emsp;Any library that is unable to certify compliance with such requirements in such second program year shall be ineligible for services at discount rates or funding in lieu of services at such rates under this subsection for such second year and all subsequent program years under this subsection, until such time as such library comes into compliance with this paragraph.
 
 #### (III) Waivers
 
@@ -368,7 +368,7 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 &emsp;&emsp;&emsp;(i) taken as a whole and with respect to minors, appeals to a prurient interest in nudity, sex, or excretion;
 
-&emsp;&emsp;&emsp;(ii) depicts, describes, or represents, in a patently offensive way with respect to what is suitable for minors, an actual or simulated sexual act or sexual contact, actual or simulated normal or perverted sexual acts, or a lewd exhibition of the genitals; and
+&emsp;&emsp;&emsp;(ii) depicts, describes, or represents, in a patently offensive way with respect towhat is suitable for minors, an actual or simulated sexual act or sexual contact, actual or simulated normal or perverted sexual acts, or a lewd exhibition of the genitals; and
 
 &emsp;&emsp;&emsp;(iii) taken as a whole, lacks serious literary, artistic, political, or scientific value as to minors.
 
@@ -509,6 +509,116 @@ Pub. L. 114–182, title II, §202(b), June 22, 2016, 130 Stat. 512, provided th
 #### Separability
 
 Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1721(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–350, provided that: "If any provision of paragraph (5) or (6) of section 254(h) of the Communications Act of 1934 \[47 U.S.C. 254(h)\], as amended by this section, or the application thereof to any person or circumstance is held invalid, the remainder of such paragraph and the application of such paragraph to other persons or circumstances shall not be affected thereby."
+
+#### Funding for E-Rate Support for Emergency Educational Connections and Devices
+
+Pub. L. 117–2, title VII, §7402, Mar. 11, 2021, 135 Stat. 109, provided that:
+
+"(a)
+
+Regulations Required.—Not later than 60 days after the date of the enactment of this Act \[Mar. 11, 2021\], the Commission shall promulgate regulations providing for the provision, from amounts made available from the Emergency Connectivity Fund, of support under paragraphs (1)(B) and (2) of section 254(h) of the Communications Act of 1934 (47 U.S.C. 254(h)) to an eligible school or library, for the purchase during a COVID–19 emergency period of eligible equipment or advanced telecommunications and information services (or both), for use by—
+
+&emsp;"(1) in the case of a school, students and staff of the school at locations that include locations other than the school; and
+
+&emsp;"(2) in the case of a library, patrons of the library at locations that include locations other than the library.
+
+"(b)
+
+Support Amount.—In providing support under the covered regulations, the Commission shall reimburse 100 percent of the costs associated with the eligible equipment, advanced telecommunications and information services, or eligible equipment and advanced telecommunications and information services, except that any reimbursement of a school or library for the costs associated with any eligible equipment may not exceed an amount that the Commission determines, with respect to the request by the school or library for the reimbursement, is reasonable.
+
+"(c)
+
+Emergency Connectivity Fund.—
+
+&emsp;"(1)
+
+Establishment.—There is established in the Treasury of the United States a fund to be known as the 'Emergency Connectivity Fund'.
+
+&emsp;"(2)
+
+Appropriation.—In addition to amounts otherwise available, there is appropriated to the Emergency Connectivity Fund for fiscal year 2021, out of any money in the Treasury not otherwise appropriated—
+
+&emsp;&emsp;"(A) $7,171,000,000, to remain available until September 30, 2030, for—
+
+&emsp;&emsp;&emsp;"(i) the provision of support under the covered regulations; and
+
+&emsp;&emsp;&emsp;"(ii) the Commission to adopt, and the Commission and the Universal Service Administrative Company to administer, the covered regulations; and
+
+&emsp;&emsp;"(B) $1,000,000, to remain available until September 30, 2030, for the Inspector General of the Commission to conduct oversight of support provided under the covered regulations.
+
+&emsp;"(3)
+
+Limitation.—Not more than 2 percent of the amount made available under paragraph (2)(A) may be used for the purposes described in clause (ii) of such paragraph.
+
+&emsp;"(4)
+
+Relationship to universal service contributions.—Support provided under the covered regulations shall be provided from amounts made available from the Emergency Connectivity Fund and not from contributions under section 254(d) of the Communications Act of 1934 (47 U.S.C. 254(d)).
+
+"(d)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Advanced telecommunications and information services.—The term 'advanced telecommunications and information services' means advanced telecommunications and information services, as such term is used in section 254(h) of the Communications Act of 1934 (47 U.S.C. 254(h)).
+
+&emsp;"(2)
+
+Commission.—The term 'Commission' means the Federal Communications Commission.
+
+&emsp;"(3)
+
+Connected device.—The term 'connected device' means a laptop computer, tablet computer, or similar end-user device that is capable of connecting to advanced telecommunications and information services.
+
+&emsp;"(4)
+
+Covered regulations.—The term 'covered regulations' means the regulations promulgated under subsection (a).
+
+&emsp;"(5) COVID–19
+
+emergency period.—The term 'COVID–19 emergency period' means a period that—
+
+&emsp;&emsp;"(A) begins on the date of a determination by the Secretary of Health and Human Services pursuant to section 319 of the Public Health Service Act (42 U.S.C. 247d) that a public health emergency exists as a result of COVID–19; and
+
+&emsp;&emsp;"(B) ends on the June 30 that first occurs after the date that is 1 year after the date on which such determination (including any renewal thereof) terminates.
+
+&emsp;"(6)
+
+Eligible equipment.—The term 'eligible equipment' means the following:
+
+&emsp;&emsp;"(A) Wi-Fi hotspots.
+
+&emsp;&emsp;"(B) Modems.
+
+&emsp;&emsp;"(C) Routers.
+
+&emsp;&emsp;"(D) Devices that combine a modem and router.
+
+&emsp;&emsp;"(E) Connected devices.
+
+&emsp;"(7)
+
+Eligible school or library.—The term 'eligible school or library' means an elementary school, secondary school, or library (including a Tribal elementary school, Tribal secondary school, or Tribal library) eligible for support under paragraphs (1)(B) and (2) of section 254(h) of the Communications Act of 1934 (47 U.S.C. 254(h)).
+
+&emsp;"(8)
+
+Emergency connectivity fund.—The term 'Emergency Connectivity Fund' means the fund established under subsection (c)(1).
+
+&emsp;"(9)
+
+Library.—The term 'library' includes a library consortium.
+
+&emsp;"(10)
+
+Wi-fi.—The term 'Wi-Fi' means a wireless networking protocol based on Institute of Electrical and Electronics Engineers standard 802.11 (or any successor standard).
+
+&emsp;"(11)
+
+Wi-fi hotspot.—The term 'Wi-Fi hotspot' means a device that is capable of—
+
+&emsp;&emsp;"(A) receiving advanced telecommunications and information services; and
+
+&emsp;&emsp;"(B) sharing such services with a connected device through the use of Wi-Fi."
 
 #### FCC COVID–19 Telehealth Program
 

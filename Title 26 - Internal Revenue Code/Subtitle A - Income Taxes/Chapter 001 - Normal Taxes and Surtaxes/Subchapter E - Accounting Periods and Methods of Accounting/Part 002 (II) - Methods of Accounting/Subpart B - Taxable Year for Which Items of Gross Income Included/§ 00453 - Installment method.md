@@ -92,7 +92,7 @@ For purposes of this section, the term "installment method" means a method under
 
 #### (5) Later payments treated as receipt of tax paid amounts
 
-&emsp;If paragraph (1) applies for any taxable year, payments received in subsequent taxable years by the person making the first disposition shall not be treated as the receipt of payments with respect to the first disposition to the extent that the aggregate of such payments does not exceed the amount treated as received by reason of paragraph (1).
+&emsp;If paragraph (1) applies for any taxable year, payments received in subsequent taxable years by the person making the first disposition shall not be treated as the receipt of paymentswith respect to the first disposition to the extent that the aggregate of such payments does not exceed the amount treated as received by reason of paragraph (1).
 
 #### (6) Exception for certain dispositions
 
@@ -358,7 +358,7 @@ For purposes of subsection (b)(2)(A)—
 
 #### (ii) Interest not taken into account
 
-&emsp;&emsp;&emsp;For purposes of clause (i), the portion of any tax attributable to the receipt of any payment shall be determined without regard to any interest imposed under subparagraph (A).
+&emsp;&emsp;&emsp;For purposes of clause (i), the portion of any tax attributable to the receipt of anypayment shall be determined without regard to any interest imposed under subparagraph (A).
 
 #### (iii) Taxable year of sale
 
@@ -368,7 +368,9 @@ For purposes of subsection (b)(2)(A)—
 
 &emsp;&emsp;Any amount payable under this paragraph shall be taken into account in computing the amount of any deduction allowable to the taxpayer for interest paid or accrued during such taxable year.
 
-(Added Pub. L. 96–471, §2(a), Oct. 19, 1980, 94 Stat. 2247; amended Pub. L. 97–34, title II, §202(c), Aug. 13, 1981, 95 Stat. 221; Pub. L. 97–448, title III, §303, Jan. 12, 1983, 96 Stat. 2398; Pub. L. 98–369, div. A, title I, §112(a), title IV, §421(b)(6)(B), (C), July 18, 1984, 98 Stat. 635, 794; Pub. L. 99–514, title VI, §§631(e)(8), 642(a)(1)(D), (3), (b), title VIII, §812(a), title XVIII, §1809(c), Oct. 22, 1986, 100 Stat. 2274, 2284, 2371, 2821; Pub. L. 100–203, title X, §10202(b), Dec. 22, 1987, 101 Stat. 1330–388; Pub. L. 100–647, title I, §§1006(e)(7), (i)(1), (2), 1008(g)(1), 1018(u)(25), (26), title II, §2004(d)(1), (5), Nov. 10, 1988, 102 Stat. 3401, 3410, 3442, 3591, 3599; Pub. L. 106–170, title V, §536(a), Dec. 17, 1999, 113 Stat. 1936; Pub. L. 106–573, §2(a), Dec. 28, 2000, 114 Stat.3061; Pub. L. 108–357, title VIII, §897(a), Oct. 22, 2004, 118 Stat. 1649.)
+(Added Pub. L. 96–471, §2(a), Oct. 19, 1980, 94 Stat. 2247; amended Pub. L. 97–34, title II, §202(c), Aug. 13, 1981, 95 Stat. 221; Pub. L. 97–448, title III, §303, Jan. 12, 1983, 96 Stat. 2398; Pub. L. 98–369, div. A, title I, §112(a), title IV, §421(b)(6)(B), (C), July 18, 1984, 98 Stat. 635, 794; Pub. L. 99–514, title VI, §§631(e)(8), 642(a)(1)(D), (3), (b), title VIII, §812(a), title XVIII, §1809(c), Oct. 22, 1986, 100 Stat. 2274, 2284, 2371, 2821; Pub. L. 100–203, title X, §10202(b), Dec. 22, 1987, 101 Stat. 1330–388; Pub. L. 100–647, title I, §§1006(e)(7), (i)(1), (2), 1008(g)(1), 1018(u)(25), (26), title II, §2004(d)(1), (5), Nov. 10, 1988, 102 Stat. 3401, 3410, 3442, 3591, 3599; Pub. L. 106–170, title V, §536(a), Dec. 17, 1999, 113 Stat. 1936; Pub. L. 106–573, §2(a), Dec. 28, 2000, 114 Stat. 3061; Pub. L. 108–357, title VIII, §897(a), Oct. 22, 2004, 118 Stat. 1649.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -453,6 +455,8 @@ Subsec. (i). Pub. L. 98–369, §112(a), amended subsec. (i) generally, substitu
 <b>1983</b>—Subsec. (f)(6)(C). Pub. L. 97–448 inserted ", when used in any provision of this section other than subsection (b)(1)," after "the term 'payment' ".
 
 <b>1981</b>—Subsecs. (i), (j). Pub. L. 97–34 added subsec. (i) and redesignated former subsec. (i) as (j).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

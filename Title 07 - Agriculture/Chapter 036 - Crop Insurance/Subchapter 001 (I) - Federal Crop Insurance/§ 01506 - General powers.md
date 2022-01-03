@@ -14,7 +14,7 @@ The Corporation may purchase or lease and hold such real and personal property a
 
 #### (d) Suit
 
-Subject to section 1508(j)(2)(A) of this title, the Corporation, subject to the provisions of section 1508(j) of this title,<sup>1</sup> may sue and be sued in its corporate name, but no attachment, injunction, garnishment, or other similar process, mesne or final, shall be issued against the Corporation or its property. The district courts of the United States, including the district courts of the District of Columbia and of any territory or possession, shall have exclusive original jurisdiction, without regard to the amount in controversy, of all suits brought by or against the Corporation. The Corporation may intervene in any court in any suit, action, or proceeding in which it has an interest. Any suit against the Corporation shall be brought in the District of Columbia, orin the district wherein the plaintiff resides or is engaged in business.
+Subject to section 1508(j)(2)(A) of this title, the Corporation, subject to the provisions of section 1508(j) of this title,<sup>1</sup> may sue and be sued in its corporate name, but no attachment, injunction, garnishment, or other similar process, mesne or final, shall be issued against the Corporation or its property. The district courts of the United States, including the district courts of the District of Columbia and of any territory or possession, shall have exclusive original jurisdiction, without regard to the amount in controversy, of all suits brought by or against the Corporation. The Corporation may intervene in any court in any suit, action, or proceeding in which it has an interest. Any suit against the Corporation shall be brought in the District of Columbia, or in the district wherein the plaintiff resides or is engaged in business.
 
 #### (e) Bylaws and regulations
 
@@ -62,7 +62,7 @@ The Corporation, with the consent of any board, commission, independent establis
 
 #### (3) Sharing of records
 
-&emsp;Notwithstanding section 1502(c) of this title, records submitted in accordance with this subchapter and section 7333 of this title shall be available to agencies and local offices of the Department, appropriate State and Federal agencies and divisions, applicants who have received payment under section 1522(b)(2)(E) of this title, and approved insurance providers for use in carrying out this subchapter, such section 7333 of this title, and other agricultural programs.
+&emsp;Notwithstanding section 1502(c) of this title, records submitted in accordance with this subchapter and section 7333 of this title shall be available to agencies and local offices of the Department, appropriate State and Federal agencies and divisions, applicants who have received payment under section 1522(b)(2)(E) of this title, and approved insurance providers for use in carrying out this subchapter, suchsection 7333 of this title, and other agricultural programs.
 
 #### (i) Expenditures
 
@@ -96,7 +96,7 @@ The Corporation may enter into and carry out contracts or agreements, and issue 
 
 #### (4) "Substantial beneficial interest" defined
 
-&emsp;For purposes of this subsection, the term "substantial beneficial interest" means notless than 5 percent of all beneficial interests in the policyholder.
+&emsp;For purposes of this subsection, the term "substantial beneficial interest" means not less than 5 percent of all beneficial interests in the policyholder.
 
 #### (n) Actuarial soundness
 
@@ -154,9 +154,11 @@ The Secretary and the Corporation are each authorized to issue such regulations 
 
 (Feb. 16, 1938, ch. 30, title V, §506, 52 Stat. 73; June 21, 1941, ch. 214, §2, 55 Stat. 255; Aug. 1, 1947, ch. 440, §7, 61 Stat. 719; Aug. 25, 1949, ch. 512, §8, 63 Stat. 665; Pub. L. 96–365, title I, §§103, 107(a), Sept. 26, 1980, 94 Stat. 1313, 1317; Pub. L. 101–624, title XXII, §§2201(a), 2202, Nov. 28, 1990, 104 Stat. 3951, 3954; Pub. L. 102–237, title VI, §601(1), (2), Dec. 13, 1991, 105 Stat. 1878; Pub. L. 103–66, title I, §1403(a), Aug. 10, 1993, 107 Stat. 333; Pub. L. 103–354, title I, §§104, 119(f)(1), Oct. 13, 1994, 108 Stat. 3181, 3208; Pub. L. 105–185, title V, §533, June 23, 1998, 112 Stat. 583; Pub. L. 106–224, title I, §§121(b), 124(b), June 20, 2000, 114 Stat. 377, 378; Pub. L. 110–234, title XII, §§12002(a), (b)(1), 12003(a), 12033(c)(2)(B), May 22, 2008, 122 Stat. 1371, 1405; Pub. L. 110–246, §4(a), title XII, §§12002(a), (b)(1), 12003(a), 12033(c)(2)(B), June 18, 2008, 122 Stat. 1664, 2133, 2167; Pub. L. 115–334, title XI, §§11102, 11103, Dec. 20, 2018, 132 Stat. 4919, 4920.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Confidential Information Protection and Statistical Efficiency Act of 2002, referred to in subsec. (h)(2)(B)(ii)(II), is title V of Pub. L. 107–347, Dec. 17, 2002, 116 Stat. 2962, which was set out as a note under section 3501 of Title 44, Public Printing and Documents,prior to repeal by Pub. L. 115–435, title III, §302(c)(1), title IV, §403, Jan. 14, 2019, 132 Stat. 5552, 5557, effective 180 days after Jan. 14, 2019. See parts A to C of subchapter III of chapter 35 of Title 44, especially section 3572 of Title 44, which relates to confidential information protection.
+The Confidential Information Protection and Statistical Efficiency Act of 2002, referred to in subsec. (h)(2)(B)(ii)(II), is title V of Pub. L. 107–347, Dec. 17, 2002, 116 Stat. 2962, which was set out as a note under section 3501 of Title 44, Public Printing and Documents, prior to repeal by Pub. L. 115–435, title III, §302(c)(1), title IV, §403, Jan. 14, 2019, 132 Stat. 5552, 5557, effective 180 days after Jan. 14, 2019. See parts A to C of subchapter III of chapter 35 of Title 44, especially section 3572 of Title 44, which relates to confidential information protection.
 
 Section 405(c)(2)(C)(iii) of title 42, referred to in subsec. (m)(1), was redesignated section 405(c)(2)(C)(iv) of title 42 by Pub. L. 103–296, title III, §321(a)(9)(B), Aug. 15, 1994, 108 Stat. 1536.
 
@@ -278,6 +280,8 @@ Subsec. (k). Pub. L. 96–365, §103(4), added subsec. (k).
 
 <b>1941</b>—Subsec. (h). Act June 21, 1941, substituted "and preparatory to the application of the chapter to other basic commodities when so provided by law, shall assemble data relative to field corn, for the purpose of establishing a satisfactory actuarial basis for such commodity" for "for wheat and other agricultural commodities."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
@@ -301,12 +305,6 @@ Amendment by Pub. L. 96–365 effective Sept. 26, 1980, see section 112 of Pub. 
 #### Regulations
 
 Pub. L. 103–66, title I, §1403(c)(2), Aug. 10, 1993, 107 Stat. 335, provided that: "Not later than 30 days after the date of enactment of this Act \[Aug. 10, 1993\], the Secretary of Agriculture shall publish, for public comment, proposed regulations to implement the amendments made by this section \[amending this section and sections 1508 and 1508a of this title\]."
-
-#### Transfer of Functions
-
-Administration of program of Federal Crop Insurance Corporation transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, §501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100. See note set out under section 1503 of this title.
-
-Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Conservation and Adjustment Administration, see note set out under section 1503 of this title.
 
 #### Required Terms and Conditions of Standard Reinsurance Agreements
 
@@ -350,7 +348,7 @@ Pub. L. 103–354, title I, §118, Oct. 13, 1994, 108 Stat. 3205, provided that:
 
 "(a)
 
-In General.—The Comptroller General of the United States and the Federal Crop Insurance Corporation (referred to in this section as the 'Corporation')shall jointly evaluate the financial arrangement between the Corporation and approved insurance providers to determine the quality, costs, and efficiencies of providing the benefits of multiple peril crop insurance to producers of agricultural commodities covered under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.).
+In General.—The Comptroller General of the United States and the Federal Crop Insurance Corporation (referred to in this section as the 'Corporation') shall jointly evaluate the financial arrangement between the Corporation and approved insurance providers to determine the quality, costs, and efficiencies of providing the benefits of multiple peril crop insurance to producers of agricultural commodities covered under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.).
 
 "(b)
 
@@ -409,6 +407,14 @@ Privacy.—In conducting the evaluation required by this section, the Comptrolle
 &emsp;"(2)
 
 Subpoenas.—The Comptroller General shall have the power to subpoena information relevant to the evaluation required by this section from any private insurance provider. The Comptroller General shall allow the Corporation access to the information subpoenaed taking into consideration the necessity of preserving the privacy of proprietary information."
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Administration of program of Federal Crop Insurance Corporation transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, §501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100. See note set out under section 1503 of this title.
+
+Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Conservation and Adjustment Administration, see note set out under section 1503 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

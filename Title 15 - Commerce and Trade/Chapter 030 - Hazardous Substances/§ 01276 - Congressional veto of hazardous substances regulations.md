@@ -8,7 +8,7 @@ The Commission shall transmit to the Secretary of the Senate and the Clerk of th
 
 Any regulation specified in subsection (a) shall not take effect if—
 
-&emsp;(1) within the ninety calendar days of continuous session of the Congress which occur after the date of the promulgation of such regulation, both Houses of the Congress adopt a concurrent resolution, the matter after the resolving clause of which is as follows (with the blank spaces appropriately filled): "That the Congress disapproves the regulation which was promulgated under the Federal Hazardous Substances Act by the Consumer Product Safety Commission with respect to          and which was transmitted to the Congress on            and disapproves the regulation for the following reasons:           ."; or
+&emsp;(1) within the ninety calendar days of continuous session of the Congress which occur after the date of the promulgation of such regulation, both Houses of the Congress adopt a concurrent resolution, the matter after the resolving clause of which is as follows (with the blank spaces appropriately filled): "That the Congress disapproves the regulation which was promulgated under the Federal Hazardous Substances Act by the Consumer ProductSafety Commission with respect to          and which was transmitted to the Congress on            and disapproves the regulation for the following reasons:           ."; or
 
 &emsp;(2) within the sixty calendar days of continuous session of the Congress which occur after the date of the promulgation of such regulation, one House of the Congress adopts such concurrent resolution and transmits such resolution to the other House and such resolution is not disapproved by such other House within the thirty calendar days of continuous session of the Congress which occur after the date of such transmittal.
 
@@ -26,6 +26,8 @@ For purposes of this section—
 
 (Pub. L. 86–613, §21, as added Pub. L. 97–35, title XII, §1207(c), Aug. 13, 1981, 95 Stat. 718; amended Pub. L. 110–314, title II, §204(b)(4)(H), Aug. 14, 2008, 122 Stat. 3042.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Hazardous Substances Act, referred to in subsec. (b), is Pub. L. 86–613, July 12, 1960, 74 Stat. 372, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1261 of this title and Tables.
@@ -33,6 +35,8 @@ The Federal Hazardous Substances Act, referred to in subsec. (b), is Pub. L. 86�
 #### Amendments
 
 <b>2008</b>—Pub. L. 110–314, which directed the substitution of "Commission" for "Consumer Product Safety Commission" in this section, was executed by making the substitution in subsec. (a), before "shall transmit", but not in subsec. (b)(1), to reflect the probable intent of Congress.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

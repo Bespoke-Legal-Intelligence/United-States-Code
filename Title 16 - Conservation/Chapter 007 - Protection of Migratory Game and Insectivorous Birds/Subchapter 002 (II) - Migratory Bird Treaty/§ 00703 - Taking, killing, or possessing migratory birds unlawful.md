@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Unless and except as permitted by regulations made as hereinafter provided in this subchapter, it shall be unlawful at any time, by any means or in any manner, to pursue, hunt, take, capture, kill, attempt to take, capture, or kill, possess, offer for sale, sell, offer to barter, barter, offer to purchase, purchase, deliver for shipment, ship, export, import, cause to be shipped, exported, or imported, deliver for transportation, transport or cause to be transported, carry or cause to be carried, or receive for shipment, transportation, carriage, or export, any migratory bird, any part, nest, or egg of any such bird, or any product, whether or not manufactured, which consists, or is composed in whole or part, of any such bird or any part, nest, or egg thereof, included in the terms of the conventions between the United States and Great Britain for the protection of migratory birds concluded August 16, 1916 (39 Stat. 1702), the United States and the United Mexican States for the protection of migratory birds and game mammals concluded February 7, 1936, the United States and the Government of Japan for the protection of migratory birds and birds in danger of extinction, and their environment concluded March 4, 1972, and the convention between theUnited States and the Union of Soviet Socialist Republics for the conservation of migratory birds and their environments concluded November 19, 1976.
+Unless and except as permitted by regulations made as hereinafter provided in this subchapter, it shall be unlawful at any time, by any means or in any manner, to pursue, hunt, take, capture, kill, attempt to take, capture, or kill, possess, offer for sale, sell, offer to barter, barter, offer to purchase, purchase, deliver for shipment, ship, export, import, cause to be shipped, exported, or imported, deliver for transportation, transport or cause to be transported, carry or cause to be carried, or receive for shipment, transportation, carriage, or export, any migratory bird, any part, nest, or egg of any such bird, or any product, whether or not manufactured, which consists, or is composed in whole or part, of any such bird or any part, nest, or egg thereof, included in the terms of the conventions between the United States and Great Britain for the protection of migratory birds concluded August 16, 1916 (39 Stat. 1702), the United States and the United Mexican States for the protection of migratory birds and game mammals concluded February 7, 1936, the United States and the Government of Japan for the protection of migratory birds and birds in danger of extinction, and their environment concluded March 4, 1972, and the convention between the United States and the Union of Soviet Socialist Republics for the conservation of migratory birds and their environments concluded November 19, 1976.
 
 #### (b) Limitation on application to introduced species
 
@@ -28,6 +28,8 @@ Unless and except as permitted by regulations made as hereinafter provided in th
 
 (July 3, 1918, ch. 128, §2, 40 Stat. 755; June 20, 1936, ch. 634, §3, 49 Stat. 1556; Pub. L. 93–300, §1, June 1, 1974, 88 Stat. 190; Pub. L. 101–233, §15, Dec. 13, 1989, 103 Stat. 1977; Pub. L. 108–447, div. E, title I, §143(b), Dec. 8, 2004, 118 Stat. 3071.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Pub. L. 108–447 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
@@ -37,6 +39,8 @@ Unless and except as permitted by regulations made as hereinafter provided in th
 <b>1974</b>—Pub. L. 93–300 substituted ", any part, nest, or egg of any such bird, or any product, whether or not manufactured, which consists, or is composed in whole or part, of any such bird or any part, nest, or egg thereof" for ", or any part, nest, or egg of any such birds", and ", and the United States and the Government of Japan for the protection of migratory birds and birds in danger of extinction, and their environment concluded March 4, 1972." for period at end.
 
 <b>1936</b>—Act June 20, 1936, amended section generally. Prior to amendment, text read as follows: "Unless and except as permitted by regulations made as hereinafter provided, it shall be unlawful to hunt, take, capture, kill, attempt to take, capture or kill, possess, offer for sale, sell, offer to purchase, purchase, deliver for shipment, ship, cause to be shipped, deliver for transportation, transport, cause to be transported, carry or cause to be carried by any means whatever, receive for shipment, transportation or carriage, or export, at any time or in any manner, any migratory bird, included in the terms of the convention between the United States and Great Britain for the protection of migratory birds concluded August sixteenth, nineteen hundred and sixteen, or any part, nest, or egg of any such bird."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1974 Amendment
 
@@ -56,7 +60,7 @@ Temporary Authorization.—
 
 &emsp;"(1)
 
-In general.—Until the Secretary of the Interior takes the action described in subsection (b), the take of nesting swallows to facilitate a construction project on a bridge eligible for funding under title 23, United States Code, with any component condition rating of 3 or less (as defined by the National Bridge Inventory General Condition Guidance issued by the Federal Highway Administration) is authorized under the Migratory Bird Treaty Act (16 U.S.C. 703 et seq.) between April 1 and August 31.
+In general.—Until the Secretary of the Interior takes the action described in subsection (b), the take of nesting swallows to facilitate a construction project on a bridge eligible for funding under title 23, United States Code, with any component condition rating of 3 or less (as defined by the National Bridge Inventory General Condition Guidance issued by theFederal Highway Administration) is authorized under the Migratory Bird Treaty Act (16 U.S.C. 703 et seq.) between April 1 and August 31.
 
 &emsp;"(2)
 

@@ -38,13 +38,17 @@ Within eighteen months after October 20, 1986, the Secretary shall develop and s
 
 #### (g) Public participation in development of management plan
 
-In conducting the reviews and preparing the comprehensive management plan required by subsection (d),<sup>1</sup> the Secretary shall provide for full public participation, and shall consider the views of all interested agencies, organizations, and individuals.
+In conducting the reviews and preparing the comprehensive management plan required by subsection (d),<sup>1</sup> the Secretary shall provide forfull public participation, and shall consider the views of all interested agencies, organizations, and individuals.
 
 (Pub. L. 99–504, title II, §203, Oct. 20, 1986, 100 Stat. 1804.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 This subchapter, referred to in subsec. (e), was in the original "this Act", meaning Pub. L. 99–504, Oct. 20, 1986, 100 Stat. 1802, known as the Nebraska Wilderness Act of 1985, which enacted this subchapter and provisions listed in a table of Wilderness Areas set out under section 1132 of this title. For complete classification of this Act to the Code, see Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

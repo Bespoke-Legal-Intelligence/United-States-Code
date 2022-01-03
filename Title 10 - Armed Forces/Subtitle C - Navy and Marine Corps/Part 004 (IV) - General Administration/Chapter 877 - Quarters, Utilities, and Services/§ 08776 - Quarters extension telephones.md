@@ -40,6 +40,8 @@ Aug. 2, 1946, ch. 756, §40(d), 60 Stat. 858.
 
 In subsection (a) the words "appropriated funds" are substituted for the words "naval appropriations", and the definition of "naval personnel" in 5 U.S.C. 421g, which is applicable to this section, is executed. In executing this definition the words "while on active duty" are omitted as unnecessary, since a member not on active duty would not have an official station within the meaning of this section.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7576 of this title as this section.
@@ -47,6 +49,8 @@ In subsection (a) the words "appropriated funds" are substituted for the words "
 <b>1980</b>—Subsec. (a)(3). Pub. L. 96–513 substituted "National Oceanic and Atmospheric Administration" for "Environmental Science Services Administration".
 
 <b>1966</b>—Subsec. (a)(3). Pub. L. 89–718 substituted "Environmental Science Services Administration" for "Coast and Geodetic Survey".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 
@@ -62,5 +66,5 @@ The directory language of, but not the amendment made by, Pub. L. 89–718, §8(
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security,and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

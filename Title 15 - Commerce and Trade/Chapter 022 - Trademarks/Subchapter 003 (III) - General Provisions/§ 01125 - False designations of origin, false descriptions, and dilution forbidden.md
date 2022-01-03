@@ -28,7 +28,7 @@ Any goods marked or labeled in contravention of the provisions of this section s
 
 &emsp;(A) For purposes of paragraph (1), a mark is famous if it is widely recognized by the general consuming public of the United States as a designation of source of the goods or services of the mark's owner. In determining whether a mark possesses the requisite degree of recognition, the court may consider all relevant factors, including the following:
 
-&emsp;&emsp;(i) The duration, extent, and geographic reach of advertising and publicity of themark, whether advertised or publicized by the owner or third parties.
+&emsp;&emsp;(i) The duration, extent, and geographic reach of advertising and publicity of the mark, whether advertised or publicized by the owner or third parties.
 
 &emsp;&emsp;(ii) The amount, volume, and geographic extent of sales of goods or services offered under the mark.
 
@@ -162,7 +162,7 @@ Any goods marked or labeled in contravention of the provisions of this section s
 
 &emsp;(i) the domain name registrar, registry, or other domain name authority that registered or assigned the domain name is located; or
 
-&emsp;(ii) documents sufficient to establish control and authority regarding the disposition of the registration and use of the domain name are deposited with the court.
+&emsp;(ii) documents sufficient to establish control and authority regarding the disposition of theregistration and use of the domain name are deposited with the court.
 
 (D)(i) The remedies in an in rem action under this paragraph shall be limited to a court order for the forfeiture or cancellation of the domain name or the transfer of the domain name to the owner of the mark. Upon receipt of written notification of a filed, stamped copy of a complaint filed by the owner of a mark in a United States district court under this paragraph, the domain name registrar, domain name registry, or other domain name authority shall—
 
@@ -172,15 +172,21 @@ Any goods marked or labeled in contravention of the provisions of this section s
 
 (ii) The domain name registrar or registry or other domain name authority shall not be liable for injunctive or monetary relief under this paragraph except in the case of bad faith or reckless disregard, which includes a willful failure to comply with any such court order.
 
-(3) The civil action established under paragraph (1) and the in rem action established under paragraph (2), and any remedy availableunder either such action, shall be in addition to any other civil action or remedy otherwise applicable.
+(3) The civil action established under paragraph (1) and the in rem action established under paragraph (2), and any remedy available under either such action, shall be in addition to any other civil action or remedy otherwise applicable.
 
 (4) The in rem jurisdiction established under paragraph (2) shall be in addition to any other jurisdiction that otherwise exists, whether in rem or in personam.
 
 (July 5, 1946, ch. 540, title VIII, §43, 60 Stat. 441; Pub. L. 100–667, title I, §132, Nov. 16, 1988, 102 Stat. 3946; Pub. L. 102–542, §3(c), Oct. 27, 1992, 106 Stat. 3568; Pub. L. 104–98, §3(a), Jan. 16, 1996, 109 Stat. 985; Pub. L. 106–43, §§3(a)(2), 5, Aug. 5, 1999, 113 Stat. 219, 220; Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3002(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–545; Pub. L. 109–312, §2, Oct. 6, 2006, 120 Stat. 1730; Pub. L. 112–190, §1(a), Oct. 5, 2012, 126 Stat. 1436.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Acts March 3, 1881, and February 20, 1905, referred to in subsec. (c)(2)(A)(iv), (6), are acts Mar. 3, 1881, ch. 138, 21 Stat. 502, and Feb. 20, 1905, ch. 592, 33 Stat. 724, which were repealed insofar as inconsistent with this chapter by act July 5, 1946, ch. 540, §46(a), 60 Stat. 444. Act Feb. 20, 1905, was classified to sections 81 to 109 of this title.
+
+#### Constitutionality
+
+For information regarding constitutionality of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
 
 #### Prior Provisions
 
@@ -212,6 +218,8 @@ Subsec. (d). Pub. L. 106–113 added subsec. (d).
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–667 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Any person who shall affix, apply, or annex, or use in connection with any goods or services, or any container or containers for goods, a false designation of origin, or any false description or representation, including words or other symbols tending falsely to describe or represent the same, and shall cause such goods or services to enter into commerce, and any person who shall with knowledge of the falsity of such designation of origin or description or representation cause or procure the same to be transported or used in commerce or deliver the same to any carrier to be transported or used, shall be liable to a civil action by any person doing business in the locality falsely indicated as that of origin or in the region in which said locality is situated, or by any person who believes that he is or is likely to be damaged by the use of any such false description or representation."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2012 Amendment
 
 Pub. L. 112–190, §1(b), Oct. 5, 2012, 126 Stat. 1436, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to any action commenced on or after the date of the enactment of this Act \[Oct. 5, 2012\]."
@@ -234,7 +242,7 @@ Amendment by Pub. L. 100–667 effective one year after Nov. 16, 1988, see secti
 
 #### Repeal and Effect on Existing Rights
 
-Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrations and rights under prior acts, see notes set out under section 1051 of this title.
+Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrationsand rights under prior acts, see notes set out under section 1051 of this title.
 
 #### Study on Abusive Domain Name Registrations Involving Personal Names
 

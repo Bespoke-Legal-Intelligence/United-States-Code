@@ -1,6 +1,6 @@
 ### §704. Determination as to when and how migratory birds may be taken, killed, or possessed
 
-(a) Subject to the provisions and in order to carry out the purposes of the conventions, referred to in section 703 of this title, the Secretary of the Interior is authorized and directed, from time to time, having due regard to the zones of temperature and to the distribution, abundance, economic value, breeding habits, and times and lines of migratory flight of such birds, to determine when, to what extent, if at all, and by what means, it is compatible with the terms of the conventions to allow hunting, taking, capture, killing, possession, sale, purchase, shipment, transportation, carriage, or export of any such bird, or any part, nest, or egg thereof, and to adopt suitable regulations permitting and governing the same, in accordance with such determinations, which regulations shall become effective when approved by the President.
+(a) Subject to the provisions and in order to carry out the purposes of the conventions, referred to in section 703 of this title, the Secretary of the Interior is authorized and directed, from time to time, having due regard to the zones of temperature and to the distribution, abundance, economic value, breeding habits, andtimes and lines of migratory flight of such birds, to determine when, to what extent, if at all, and by what means, it is compatible with the terms of the conventions to allow hunting, taking, capture, killing, possession, sale, purchase, shipment, transportation, carriage, or export of any such bird, or any part, nest, or egg thereof, and to adopt suitable regulations permitting and governing the same, in accordance with such determinations, which regulations shall become effective when approved by the President.
 
 (b) It shall be unlawful for any person to—
 
@@ -20,7 +20,7 @@ Regulations relating to framework closing date.—
 
 In general.—In promulgating regulations under subsection (a) relating to the Federal framework for the closing date up to which the States may select seasons for migratory bird hunting, except as provided in paragraph (2), the Secretary shall, with respect to the hunting season for ducks, mergansers, and coots—
 
-&emsp;&emsp;&emsp;(i) subject to subparagraph (B), adopt the recommendation of each respective flywaycouncil (as defined in section 20.152 of title 50, Code of Federal Regulations) for the Federal framework if the Secretary determines that the recommendation is consistent with science-based and sustainable harvest management; and
+&emsp;&emsp;&emsp;(i) subject to subparagraph (B), adopt the recommendation of each respective flyway council (as defined in section 20.152 of title 50, Code of Federal Regulations) for the Federal framework if the Secretary determines that the recommendation is consistent with science-based and sustainable harvest management; and
 
 &emsp;&emsp;&emsp;(ii) allow the States to establish the closing date for the hunting season in accordance with the Federal framework.
 
@@ -60,6 +60,8 @@ Regulations.—The Secretary shall promulgate regulations in accordance with thi
 
 (July 3, 1918, ch. 128, §3, 40 Stat. 755; June 20, 1936, ch. 634, §2, 49 Stat. 1556; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 105–312, title I, §102, Oct. 30, 1998, 112 Stat. 2956; Pub. L. 116–9, title IV, §4301, Mar. 12, 2019, 133 Stat. 764.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (c). Pub. L. 116–9 added subsec. (c).
@@ -68,13 +70,11 @@ Regulations.—The Secretary shall promulgate regulations in accordance with thi
 
 <b>1936</b>—Act June 20, 1936, substituted "conventions" for "convention" in two places.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1936 Amendment
 
 Act June 20, 1936, ch. 634, §2, 49 Stat. 1556, provided in part that the amendment by section 2 is effective as of the day aforesaid (June 30, 1937). See note under section 703 of this title.
-
-#### Transfer of Functions
-
-Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan, No. II of 1939, see Transfer of Functions note set out under section 701 of this title.
 
 #### Baiting of Migratory Game Birds
 
@@ -110,11 +110,17 @@ Reports.—Not less frequently than once each year—
 
 &emsp;"(1) the Secretary of Agriculture shall submit to the Secretary of the Interior a report that describes any changes to normal agricultural operations across the range of crops grown by agricultural producers in each region of the United States in which the official recommendations described in section 20.11(h) of title 50, Code of Federal Regulations (as in effect on the date of enactment of this Act), are provided to agricultural producers; and
 
-&emsp;"(2) the Secretary of the Interior, in consultation with the Secretary of Agriculture and after seeking input from the heads of State departments of fish and wildlife or the Regional Migratory Bird Flyway Councils of the United States Fish and Wildlife Service,shall publicly post a report on the impact that rice ratooning and post-disaster flooding have on the behavior of migratory game birds that are hunted in the area in which rice ratooning and post-disaster flooding, respectively, have occurred."
+&emsp;"(2) the Secretary of the Interior, in consultation with the Secretary of Agriculture and after seeking input from the heads of State departments of fish and wildlife or the Regional Migratory Bird Flyway Councils of the United States Fish and Wildlife Service, shall publicly post a report on the impact that rice ratooning and post-disaster flooding have on the behavior of migratory game birds that are hunted in the area in which rice ratooning and post-disaster flooding, respectively, have occurred."
 
 #### Report on Effects of 1998 Amendments
 
 Pub. L. 105–312, title I, §104, Oct. 30, 1998, 112 Stat. 2956, directed that no later than 5 years after Oct. 30, 1998, the Secretary of the Interior submit to the appropriate Senate and House committees a report analyzing the effect of certain amendments made by Pub. L. 105–312, and the general practice of baiting, on migratory bird conservation and law enforcement efforts under the Migratory Bird Treaty Act (16 U.S.C. 703 et seq.).
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan, No. II of 1939, see Transfer of Functions note set out under section 701 of this title.
 
 #### Delegation of Functions
 

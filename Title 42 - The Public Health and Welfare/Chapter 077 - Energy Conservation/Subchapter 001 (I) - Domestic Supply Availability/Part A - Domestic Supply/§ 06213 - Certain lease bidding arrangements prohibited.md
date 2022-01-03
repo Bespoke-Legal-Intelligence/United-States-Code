@@ -10,7 +10,7 @@ As used in this section:
 
 &emsp;(1) The term "major oil company" means any person who, individually or together with any other person with respect to which such person has an affiliate relationship or significant ownership interest, produced during a prior 6–month period specified by the Secretary, an average daily volume of 1,600,000 barrels of crude oil, natural gas liquids equivalents, and natural gas equivalents.
 
-&emsp;(2) One barrel of natural gas equivalent equals 5,626 cubic feet of natural gas measured at 14.73 pounds per square inch (MSL) and 60 degrees Fahrenheit.
+&emsp;(2) One barrel of natural gas equivalent equals 5,626 cubic feet of natural gas measuredat 14.73 pounds per square inch (MSL) and 60 degrees Fahrenheit.
 
 &emsp;(3) One barrel of natural gas liquids equivalent equals 1.454 barrels of natural gas liquids at 60 degrees Fahrenheit.
 
@@ -38,9 +38,13 @@ The Secretary shall study and report to the Congress, not later than 6 months af
 
 (Pub. L. 94–163, title I, §105, Dec. 22, 1975, 89 Stat. 879; Pub. L. 95–372, title II, §205(c), Sept. 18, 1978, 92 Stat. 646.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1978</b>—Subsec. (c). Pub. L. 95–372 substituted "in his discretion, consider a request from any person described in subsection (a) of this section for an exemption from the prohibition of this section" for "by amendment to the rule, exempt bidding for leases for lands located in frontier or other areas determined by the Secretary to be extremely high risk lands or to present unusually high cost exploration, or development, problems" in existing provisions and inserted provisions setting out the requisite finding of the Secretary and making arbitrariness and capriciousness of the Secretary's findings the only bases for invalidation of those findings.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

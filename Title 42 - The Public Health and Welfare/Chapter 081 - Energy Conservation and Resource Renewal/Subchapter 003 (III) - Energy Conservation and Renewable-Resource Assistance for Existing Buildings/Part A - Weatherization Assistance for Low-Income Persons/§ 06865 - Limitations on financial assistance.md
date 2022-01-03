@@ -96,7 +96,9 @@ Beginning with fiscal year 1992, the Secretary may allocate funds appropriated p
 
 (2) The Secretary shall, after consulting with the State Energy Advisory Board referred to in subsection (d)(1), prescribe guidelines to be used by each State in making available supplementary financial assistance under this subsection, with a priority being given to subgrantees that, by law or through administrative or other executive action, provided non-Federal resources (including private resources) to supplement Federal financial assistance under this part during the previous fiscal year.
 
-(Pub. L. 94–385, title IV, §415, Aug. 14, 1976, 90 Stat. 1155; Pub. L. 95–619, title II, §231(c), Nov. 9, 1978, 92 Stat. 3225; Pub. L. 96–294, title V, §§571, 572, 573(a), 575, 577(2), June 30, 1980, 94 Stat. 759, 760; Pub. L. 98–558, title IV, §§403, 404, Oct. 30, 1984, 98 Stat. 2887, 2888; Pub. L. 101–440, §7(d)–(f), (i), Oct. 18, 1990, 104 Stat. 1013, 1014; Pub. L. 106–469, title VI, §601(b), Nov. 9, 2000, 114 Stat. 2040; Pub. L. 109–58, title II, §206(a), Aug. 8, 2005, 119 Stat. 654; Pub. L. 111–5, div. A, title IV,§407(b), (e), Feb. 17, 2009, 123 Stat. 146; Pub. L. 116–260, div. Z, title I, §1011(g), (h), Dec. 27, 2020, 134 Stat. 2446.)
+(Pub. L. 94–385, title IV, §415, Aug. 14, 1976, 90 Stat. 1155; Pub. L. 95–619, title II, §231(c), Nov. 9, 1978, 92 Stat. 3225; Pub. L. 96–294, title V, §§571, 572, 573(a), 575, 577(2), June 30, 1980, 94 Stat. 759, 760; Pub. L. 98–558, title IV, §§403, 404, Oct. 30, 1984, 98 Stat. 2887, 2888; Pub. L. 101–440, §7(d)–(f), (i), Oct. 18, 1990, 104 Stat. 1013, 1014; Pub. L. 106–469, title VI, §601(b), Nov. 9, 2000, 114 Stat. 2040; Pub. L. 109–58, title II, §206(a), Aug. 8, 2005, 119 Stat. 654; Pub. L. 111–5, div. A, title IV, §407(b), (e), Feb. 17, 2009, 123 Stat. 146; Pub. L. 116–260, div. Z, title I, §1011(g), (h), Dec. 27, 2020, 134 Stat. 2446.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -167,6 +169,8 @@ Subsec. (c)(3). Pub. L. 96–294, §572(2), added par. (3).
 <b>1978</b>—Subsec. (a). Pub. L. 95–619, §231(c)(1), authorized expenditure of allocations under this part for costs related to weatherization of a dwelling unit as provided in subsec. (c) of this section and substituted an administrative expenses limitation of five percent of any allocation under this section for a similar limitation of ten percent of any such allocation.
 
 Subsec. (c). Pub. L. 95–619, §231(c)(2), included expenditure of financial assistance provided under this section for costs related to procurement and installation of weatherization materials in dwelling units in the maximum amount available per dwelling unit and increased such maximum amount to $800 per unit.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Performance Fund; Restriction on Use
 

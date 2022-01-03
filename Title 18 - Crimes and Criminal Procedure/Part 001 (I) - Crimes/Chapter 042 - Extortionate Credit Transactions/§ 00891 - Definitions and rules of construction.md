@@ -34,7 +34,7 @@ Pub. L. 90–321, title II, §201, May 29, 1968, 82 Stat. 159, provided that:
 
 &emsp;"(2) Extortionate credit transactions are characterized by the use, or the express or implicit threat of the use, of violence or other criminal means to cause harm to person, reputation, or property as a means of enforcing repayment. Among the factors which have rendered past efforts at prosecution almost wholly ineffective has been the existence of exclusionary rules of evidence stricter than necessary for the protection of constitutional rights.
 
-&emsp;"(3) Extortionate credit transactions are carried on to a substantial extent in interstate and foreign commerce and through the means and instrumentalities of such commerce. Even where extortionate credittransactions are purely intrastate in character, they nevertheless directly affect interstate and foreign commerce.
+&emsp;"(3) Extortionate credit transactions are carried on to a substantial extent in interstate and foreign commerce and through the means and instrumentalities of such commerce. Even where extortionate credit transactions are purely intrastate in character, they nevertheless directly affect interstate and foreign commerce.
 
 &emsp;"(4) Extortionate credit transactions directly impair the effectiveness and frustrate the purposes of the laws enacted by the Congress on the subject of bankruptcies.
 

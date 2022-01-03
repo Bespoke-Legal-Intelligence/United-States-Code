@@ -1,5 +1,7 @@
 ### §§50g to 58. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Sections 50g to 58, relating to Territory of Alaska, were omitted in view of admission of Alaska into the Union.

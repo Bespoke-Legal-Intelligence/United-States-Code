@@ -10,13 +10,13 @@ The Director of the Foundation shall provide Congress with a list of award recip
 
 (Pub. L. 114–329, title III, §307, Jan. 6, 2017, 130 Stat. 3010.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the American Innovation and Competitiveness Act, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 
-#### Definitions
-
-For definitions of terms used in this section, see section 2 of Pub. L. 114–329, set out as a note under section 1862s of this title.
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Presidential Awards for Educators and Mentors in Fields Relating to Cybersecurity
 
@@ -25,4 +25,8 @@ Pub. L. 116–283, div. H, title XCIV, §9405(d), Jan. 1, 2021, 134 Stat. 4812, 
 &emsp;"(1) Presidential Awards for Excellence in Mathematics and Science Teaching made under section 117 of the National Science Foundation Authorization Act of 1988 (42 U.S.C. 1881b); and
 
 &emsp;"(2) Presidential Awards for Excellence in STEM Mentoring administered under section 307 of the American Innovation and Competitiveness Act (42 U.S.C. 1862s–6)."
+
+#### Definitions
+
+For definitions of terms used in this section, see section 2 of Pub. L. 114–329, set out as a note under section 1862s of this title.
 

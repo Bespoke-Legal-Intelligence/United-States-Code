@@ -12,7 +12,7 @@ The Federal Energy Regulatory Commission shall, after opportunity for presentati
 
 &emsp;(2) whether the public convenience and necessity will be served by the issuance of the requested certificate of transportation.
 
-> Such statement of policy shall also set forth the terms or limitations on which the Commission may condition, pursuant to section 717f of title 15, the issuance of a certificate of transportation under such statement of policy. To the maximum extent practicable, such statement shall be promulgated and published within one year after September 18, 1978.
+> Such statement of policy shall also set forth the terms or limitations on which the Commissionmay condition, pursuant to section 717f of title 15, the issuance of a certificate of transportation under such statement of policy. To the maximum extent practicable, such statement shall be promulgated and published within one year after September 18, 1978.
 
 #### (c) Definitions
 

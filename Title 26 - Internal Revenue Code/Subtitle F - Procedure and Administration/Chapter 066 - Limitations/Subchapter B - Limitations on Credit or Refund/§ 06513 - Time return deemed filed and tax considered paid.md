@@ -10,7 +10,7 @@ For purposes of section 6511 or 6512—
 
 &emsp;(1) Any tax actually deducted and withheld at the source during any calendar year under chapter 24 shall, in respect of the recipient of the income, be deemed to have been paid by him on the 15th day of the fourth month following the close of his taxable year with respect to which such tax is allowable as a credit under section 31.
 
-&emsp;(2) Any amount paid as estimated income tax for any taxable year shall be deemed to have been paid on the last day prescribed for filing the return under section 6012 for such taxable year (determined without regard to any extension of time for filing such return).
+&emsp;(2) Any amount paid as estimated income tax for any taxable year shall be deemed tohave been paid on the last day prescribed for filing the return under section 6012 for such taxable year (determined without regard to any extension of time for filing such return).
 
 &emsp;(3) Any tax withheld at the source under chapter 3 or 4 shall, in respect of the recipient of the income, be deemed to have been paid by such recipient on the last day prescribed for filing the return under section 6012 for the taxable year (determined without regard to any extension of time for filing) with respect to which such tax is allowable as a credit under section 1462 or 1474(b). For this purpose, any exemption granted under section 6012 from the requirement of filing a return shall be disregarded.
 
@@ -32,6 +32,8 @@ Notwithstanding subsection (a), for purposes of section 6511 any payment of tax 
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 812; Pub. L. 89–809, title I, §105(f)(1), (2), Nov. 13, 1966, 80 Stat. 1567, 1568; Pub. L. 91–53, §2(d), Aug. 7, 1969, 83 Stat. 92; Pub. L. 98–76, title II, §231(b)(2)(C), Aug. 12, 1983, 97 Stat. 429; Pub. L. 100–647, title VII, §7106(c)(4), Nov. 10, 1988, 102 Stat. 3774; Pub. L. 111–147, title V, §501(c)(4), (5), Mar. 18, 2010, 124 Stat. 106.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (b)(3). Pub. L. 111–147, §501(c)(4), inserted "or 4" after "chapter 3" and "or 1474(b)" after "section 1462".
@@ -47,6 +49,8 @@ Subsec. (c). Pub. L. 111–147, §501(c)(5), inserted "4," after "chapter 3," in
 <b>1966</b>—Subsec. (b). Pub. L. 89–809, §105(f)(1), designated existing provisions as pars. (1) and (2) and added par. (3).
 
 Subsec. (c). Pub. L. 89–809, §105(f)(2), inserted reference to chapter 3 in provisions preceding par. (1) and "or other amount" after "remuneration" in par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

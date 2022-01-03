@@ -16,7 +16,7 @@
 
 &emsp;For purposes of this subsection—
 
-&emsp;&emsp;(A) the term "compliant coal" means coal that contains not less than 1.0 and not morethan 1.2 pounds of sulfur dioxide per million Btu; and
+&emsp;&emsp;(A) the term "compliant coal" means coal that contains not less than 1.0 and not more than 1.2 pounds of sulfur dioxide per million Btu; and
 
 &emsp;&emsp;(B) the term "supercompliant coal" means coal that contains less than 1.0 pounds of sulfur dioxide per million Btu.
 
@@ -38,9 +38,13 @@ The Secretary shall submit to the Committee on Resources of the House of Represe
 
 (Pub. L. 109–58, title IV, §437, Aug. 8, 2005, 119 Stat. 762.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The effective date of this section, referred to in subsec. (c)(1), probably means the date of enactment of Pub. L. 109–58, which enacted this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

@@ -1,5 +1,7 @@
 ### §§505 to 518. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Sections 505 to 518, relating to Territory of Hawaii, were omitted in view of admission of Hawaii into the Union.

@@ -26,7 +26,7 @@ Membership.—
 
 &emsp;&emsp;(A)
 
-Eligibility.—The Civilian Board consists of members appointed by the Administrator of General Services (in consultation with the Administrator for Federal Procurement Policy) from a register of applicants maintained by the Administrator of General Services, in accordance with rules issued by the Administrator of General Services (in consultation with the Administrator for Federal Procurement Policy) for establishing and maintaining a register of eligibleapplicants and selecting Civilian Board members. The Administrator of General Services shall appoint a member without regard to political affiliation and solely on the basis of the professional qualifications required to perform the duties and responsibilities of a Civilian Board member.
+Eligibility.—The Civilian Board consists of members appointed by the Administrator of General Services (in consultation with the Administrator for Federal Procurement Policy) from a register of applicants maintained by the Administrator of General Services, in accordance with rules issued by the Administrator of General Services (in consultation with the Administrator for Federal Procurement Policy) for establishing and maintaining a register of eligible applicants and selecting Civilian Board members. The Administrator of General Services shall appoint a member without regard to political affiliation and solely on the basis of the professional qualifications required to perform the duties and responsibilities of a Civilian Board member.
 
 &emsp;&emsp;(B)
 

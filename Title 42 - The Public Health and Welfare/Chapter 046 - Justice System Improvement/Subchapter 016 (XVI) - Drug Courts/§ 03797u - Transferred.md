@@ -1,8 +1,12 @@
 ### §3797u. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 3797u was editorially reclassified as section 10611 of Title 34, Crime Control and Law Enforcement.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Study by the Government Accountability Office
 

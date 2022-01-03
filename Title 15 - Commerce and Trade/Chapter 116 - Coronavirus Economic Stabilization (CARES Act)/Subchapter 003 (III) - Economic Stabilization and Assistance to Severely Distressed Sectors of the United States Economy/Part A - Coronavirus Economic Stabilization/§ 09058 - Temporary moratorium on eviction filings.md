@@ -50,7 +50,7 @@ In this section:
 
 #### (5) Federally backed multifamily mortgage loan
 
-&emsp;The term "Federally backed multifamily mortgage loan" includes any loan (other than temporary financing such as a construction loan) that—
+&emsp;The term "Federally backed multifamily mortgage loan" includes any loan (other thantemporary financing such as a construction loan) that—
 
 &emsp;&emsp;(A) is secured by a first or subordinate lien on residential multifamily real property designed principally for the occupancy of 5 or more families, including any such secured loan, the proceeds of which are used to prepay or pay off an existing loan secured by the same property; and
 

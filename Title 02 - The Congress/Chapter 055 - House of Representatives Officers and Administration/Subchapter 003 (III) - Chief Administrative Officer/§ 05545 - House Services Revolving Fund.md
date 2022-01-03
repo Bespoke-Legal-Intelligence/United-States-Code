@@ -86,7 +86,7 @@ Pub. L. 111–8, div. G, title I, §102(c), Mar. 11, 2009, 123 Stat. 817, provid
 
 #### Effective Date of 2007 Amendment
 
-Pub. L. 110–161, div. H, title I, §104(b), Dec. 26, 2007, 121 Stat. 2225, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to fiscal year 2008 and each succeeding fiscal year."
+Pub. L. 110–161, div. H, title I, §104(b), Dec. 26, 2007, 121 Stat. 2225, provided that: "The amendments made bythis section \[amending this section\] shall apply with respect to fiscal year 2008 and each succeeding fiscal year."
 
 #### Effective Date of 2005 Amendment
 

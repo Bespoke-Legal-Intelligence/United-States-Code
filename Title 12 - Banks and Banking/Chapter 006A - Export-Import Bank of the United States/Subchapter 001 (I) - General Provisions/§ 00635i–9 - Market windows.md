@@ -26,5 +26,5 @@ In this section, the term "OECD" means the Organization for Economic Cooperation
 
 #### Report
 
-Pub. L. 107–189, §10(b)(2), June 14, 2002, 116 Stat. 703, provided that: "Within 2 years after the date of the enactment of this Act \[June 14, 2002\], the Secretary of the Treasury shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report on the rationale for seeking or notseeking negotiations for multilateral disciplines and transparency, the successes, failures, and obstacles in initiating negotiations, and if negotiations were initiated, in reaching an agreement."
+Pub. L. 107–189, §10(b)(2), June 14, 2002, 116 Stat. 703, provided that: "Within 2 years after the date of the enactment of this Act \[June 14, 2002\], the Secretary of the Treasury shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report on the rationale for seeking or not seeking negotiations for multilateral disciplines and transparency, the successes, failures, and obstacles in initiating negotiations, and if negotiations were initiated, in reaching an agreement."
 

@@ -1,6 +1,6 @@
 ### §3105. Savings bonds and savings certificates
 
-(a) With the approval of the President, the Secretary of the Treasury may issue savingsbonds and savings certificates of the United States Government and may buy, redeem, and make refunds under section 3111 of this title. Proceeds from the bonds and certificates shall be used for expenditures authorized by law. Savings bonds and certificates may be issued on an interest-bearing basis, on a discount basis, or on an interest-bearing and discount basis. Savings bonds shall mature not more than 20 years from the date of issue. Savings certificates shall mature not more than 10 years from the date of issue. The difference between the price paid and the amount received on redeeming a savings bond or certificate is interest under the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.).
+(a) With the approval of the President, the Secretary of the Treasury may issue savings bonds and savings certificates of the United States Government and may buy, redeem, and make refunds under section 3111 of this title. Proceeds from the bonds and certificates shall be used for expenditures authorized by law. Savings bonds and certificates may be issued on an interest-bearing basis, on a discount basis, or on an interest-bearing and discount basis. Savings bonds shall mature not more than 20 years from the date of issue. Savings certificates shall mature not more than 10 years from the date of issue. The difference between the price paid and the amount received on redeeming a savings bond or certificate is interest under the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.).
 
 (b)(1) The Secretary may—
 
@@ -154,7 +154,7 @@ In subsection (b)(1), before clause (A), the words "and except as provided in pa
 
 "(3) With the approval of the President, the Secretary may prescribe regulations providing that—
 
-&emsp;"(A) owners of series E and H savings bonds may keep the bonds after maturity or after a period beyond maturity during which the bonds have earned interest and continue to earn interest at rates consistent with paragraph (1) of this subsection; and
+&emsp;"(A) owners of series E and H savings bonds may keep the bonds after maturity or after a period beyond maturity during which the bonds have earnedinterest and continue to earn interest at rates consistent with paragraph (1) of this subsection; and
 
 &emsp;"(B) series E and H savings bonds earning a different rate of interest before the regulations are prescribed shall earn a rate of interest consistent with paragraph (1)."
 
@@ -184,7 +184,7 @@ By virtue of the authority vested in me by the Constitution and statutes of the 
 
 Section 1. (a) There is hereby established the Interagency Committee for the Purchase of United States Savings Bonds (hereinafter referred to as the Committee). The Committee shall consist of a Chairman, who is to be appointed by the President for a term of two years, and the heads of Federal agencies. Each member of the Committee is responsible for the success of the Payroll Savings Program in his agency.
 
-(b) Members of the Committee may designate an alternate, who shall serve as a member of the Committeewhenever the regular member is unable to attend any meeting of the Committee. The alternate member may be authorized to act for the regular member in all appropriate matters relating to the Committee. In the case of an executive or military department, a Deputy Secretary or an Under Secretary may be designated as an alternate member. In the case of any other Federal agency, the alternate member shall be designated from among the officials thereof of appropriate rank.
+(b) Members of the Committee may designate an alternate, who shall serve as a member of the Committee whenever the regular member is unable to attend any meeting of the Committee. The alternate member may be authorized to act for the regular member in all appropriate matters relating to the Committee. In the case of an executive or military department, a Deputy Secretary or an Under Secretary may be designated as an alternate member. In the case of any other Federal agency, the alternate member shall be designated from among the officials thereof of appropriate rank.
 
 (c) The Chairman will designate the Federal Payroll Savings Officer of the Savings Bonds Division, Department of the Treasury, to act as his liaison officer with members of the Committee.
 

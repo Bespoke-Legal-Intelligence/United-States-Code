@@ -56,7 +56,7 @@ MTM services provided by licensed pharmacists under a grant or contract awarded 
 
 #### (e) Consultation with experts
 
-In designing and implementing MTM services provided under grants or contracts awarded under subsection (a), the Secretary shall consult with Federal, State, private, public-private, and academic entities, pharmacy and pharmacist organizations, health care organizations, consumer advocates, chronic disease groups, and other stakeholders involved with the research, dissemination, and implementation of pharmacist-delivered MTM services, as the Secretary determines appropriate. The Secretary, in collaboration with this group, shall determine whether it is possible to incorporate rapid cycle process improvement concepts in use in otherFederal programs that have implemented MTM services.
+In designing and implementing MTM services provided under grants or contracts awarded under subsection (a), the Secretary shall consult with Federal, State, private, public-private, and academic entities, pharmacy and pharmacist organizations, health care organizations, consumer advocates, chronic disease groups, and other stakeholders involved with the research, dissemination, and implementation of pharmacist-delivered MTM services, as the Secretary determines appropriate. The Secretary, in collaboration with this group, shall determinewhether it is possible to incorporate rapid cycle process improvement concepts in use in other Federal programs that have implemented MTM services.
 
 #### (f) Reporting to the Secretary
 
@@ -83,6 +83,8 @@ The Secretary shall submit to the relevant committees of Congress a report which
 The Secretary may, through the quality measure development program under section 299b–31 of this title, award grants or contracts to eligible entities for the purpose of funding the development of performance measures that assess the use and effectiveness of medication therapy management services.
 
 (July 1, 1944, ch. 373, title IX, §935, as added and amended Pub. L. 111–148, title III, §3503, title X, §10501(f)(4), Mar. 23, 2010, 124 Stat. 516, 996.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

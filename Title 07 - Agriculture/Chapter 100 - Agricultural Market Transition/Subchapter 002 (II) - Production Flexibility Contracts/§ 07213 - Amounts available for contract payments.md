@@ -60,9 +60,11 @@ The amount available under subsection (a) for a fiscal year shall be reduced by 
 
 (Pub. L. 104–127, title I, §113, Apr. 4, 1996, 110 Stat. 900.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-Sections 103B, 105B, and 107B of the Agricultural Act of 1949, referred to in subsec. (c)(3), were classified tosections 1444–2, 1444f, and 1445b–3a, respectively, of this title prior to repeal by section 7301(b)(2)(A)–(D) of this title.
+Sections 103B, 105B, and 107B of the Agricultural Act of 1949, referred to in subsec. (c)(3), were classified to sections 1444–2, 1444f, and 1445b–3a, respectively, of this title prior to repeal by section 7301(b)(2)(A)–(D) of this title.
 
 Section 1308(1) of this title, referred to in subsecs. (e), (f), was repealed by Pub. L. 107–171, title I, §1603(a), May 13, 2002, 116 Stat. 213.
 

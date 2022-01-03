@@ -92,7 +92,7 @@ Subsec. (b). Pub. L. 91–405, §204(d)(3), included reference to Delegate.
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–646, §47(b), Nov. 10, 1986, 100 Stat. 3605, provided that: "The amendments made by this section\[amending this section\] shall take effect 30 days after the date of enactment of this Act \[Nov. 10, 1986\]."
+Pub. L. 99–646, §47(b), Nov. 10, 1986, 100 Stat. 3605, provided that: "The amendments made by this section \[amending this section\] shall take effect 30 days after the date of enactment of this Act \[Nov. 10, 1986\]."
 
 #### Effective Date of 1970 Amendment
 

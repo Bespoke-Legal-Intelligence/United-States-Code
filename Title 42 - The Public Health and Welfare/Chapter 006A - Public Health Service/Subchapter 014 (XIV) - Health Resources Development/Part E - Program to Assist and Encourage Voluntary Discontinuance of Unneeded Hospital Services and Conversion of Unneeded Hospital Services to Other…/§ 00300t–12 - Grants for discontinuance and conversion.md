@@ -10,7 +10,7 @@
 
 &emsp;(B) in the case of a grantee which in discontinuing the provision of an inpatient hospital service converts or proposes to convert an identifiable part of a hospital facility used in the provision of the discontinued service to the delivery of other health services, for the planning, development (including construction and acquisition of equipment), and delivery of the health service;
 
-&emsp;(C) to provide reasonable termination pay for personnel of the grantee who will lose employment because of the discontinuance of hospital services made by the grantee, retraining of such personnel, assisting such personnel in securing employment, and other costs of implementing arrangements described in subsection (c); and
+&emsp;(C) to provide reasonable termination pay for personnel of the grantee who will lose employment because of the discontinuance ofhospital services made by the grantee, retraining of such personnel, assisting such personnel in securing employment, and other costs of implementing arrangements described in subsection (c); and
 
 &emsp;(D) for such other costs which the Secretary determines may need to be incurred by the grantee in discontinuing hospital services.
 
@@ -40,13 +40,13 @@
 
 &emsp;(ii) if the Secretary is unable to determine that the cost of providing inpatient health services in the health service area in which the applicant is located will be less than if the inpatient health services proposed to be discontinued were not discontinued.
 
-(B) In considering applications of hospitals for grants the Secretary shall consider the recommendations of health systems agencies andState Agencies and shall give special consideration to applications (i) which will assist health systems agencies and State Agencies to meet the goals in their health systems plans and State health plans, or (ii) which will result in the greatest reduction in hospital costs within a health service area.
+(B) In considering applications of hospitals for grants the Secretary shall consider the recommendations of health systems agencies and State Agencies and shall give special consideration to applications (i) which will assist health systems agencies and State Agencies to meet the goals in their health systems plans and State health plans, or (ii) which will result in the greatest reduction in hospital costs within a health service area.
 
 #### (c) Certification of protective arrangements for employment benefits and interests; guidelines; satisfactory arrangement determinations
 
 (1) Except as provided in paragraph (3), the Secretary may not approve an application submitted under subsection (b) unless the Secretary of Labor has certified that fair and equitable arrangements have been made to protect the interests of employees affected by the discontinuance of services against a worsening of their positions with respect to their employment, including arrangements to preserve the rights of employees under collective-bargaining agreements, continuation of collective-bargaining rights consistent with the provisions of the National Labor Relations Act \[29 U.S.C. 151 et seq.\], reassignment of affected employees to other jobs, retraining programs, protecting pension, health benefits, and other fringe benefits of affected employees, and arranging adequate severance pay, if necessary.
 
-(2) The Secretary of Labor shall by regulation prescribe guidelines for arrangements for the protection of the interests of employees affected by the discontinuance of hospital services. The Secretary of Labor shall consult with the Secretary of Health and Human Services in the promulgation of such guidelines. Such guidelines shall first be promulgated not later than the promulgation of regulations by the Secretary for the administration of the grants authorized by section 300t–11 of this title.
+(2) The Secretary of Labor shall by regulation prescribe guidelines for arrangements for the protection of the interests of employees affected by the discontinuance of hospital services. The Secretary of Labor shall consult with the Secretary of Health and Human Services in the promulgation of such guidelines. Such guidelines shall first be promulgated not later than the promulgation of regulations by the Secretaryfor the administration of the grants authorized by section 300t–11 of this title.
 
 (3) The Secretary of Labor shall review each application submitted under subsection (b) to determine if the arrangements described in paragraph (1) have been made and if they are satisfactory and shall notify the Secretary respecting his determination. Such review shall be completed within—
 
@@ -58,7 +58,7 @@
 
 #### (d) Records and audits requirements
 
-The records and audits requirements of section 292e <sup>2</sup> of this title shall apply with respect to grants made under subsection (a).
+The records and audits requirements of section 292e <sup>1</sup> of this title shall apply with respect to grants made under subsection (a).
 
 #### (e) "Hospital" defined
 
@@ -74,6 +74,8 @@ For purposes of this part, the term "hospital" means, with respect to any fiscal
 
 (July 1, 1944, ch. 373, title XVI, §1642, as added Pub. L. 96–79, title III, §301(a), Oct. 4, 1979, 93 Stat. 637; amended Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 300l–2 of this title, referred to in subsec. (b)(2)(A), was repealed effective Jan. 1, 1987, by Pub. L. 99–660, title VII, §701(a), Nov. 14, 1986, 100 Stat. 3799.
@@ -88,11 +90,11 @@ The Social Security Act, referred to in subsec. (e), is act Aug. 14, 1935, ch. 5
 
 In subsec. (b)(1)(D), "sections 3141–3144, 3146, and 3147 of title 40" substituted for "the Act of March 3, 1931 (40 U.S.C. 276a—276a–5, known as the Davis-Bacon Act)" and "section 3145 of title 40" substituted for "section 2 of the Act of June 13, 1934 (40 U.S.C. 276c)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
-"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsec. (c)(2) and (3), pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsecs. (a), (b), and (c) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
 

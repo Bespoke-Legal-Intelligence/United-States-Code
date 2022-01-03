@@ -28,7 +28,7 @@ Notwithstanding the fact that a valid protest was not filed, the Customs Service
 
 &emsp;(3) such other documentation and information relating to the importation of the goods as the Customs Service may require.
 
-(June 17, 1930, ch. 497, title IV, §520, 46 Stat. 739; June 26, 1934, ch. 756, §2, 48 Stat. 1225; June 25, 1938, ch. 679, §18, 52 Stat. 1086; Aug. 8, 1953, ch. 397, §20, 67 Stat. 519; Pub. L. 91–271, title II, §210, June 2, 1970, 84 Stat. 287; Pub. L. 95–410, title II, §210, Oct. 3, 1978, 92 Stat. 903; Pub. L. 98–573, title II, §§210(b), 212(c)(B), formerly §212(b)(7)(B), Oct. 30, 1984, 98 Stat. 2977, 2984, renumbered Pub. L. 99–514, title XVIII, §1889(3), Oct. 22, 1986, 100 Stat. 2925; Pub. L. 103–182, title II, §206, title VI, §§642(b), 646, Dec. 8, 1993, 107 Stat. 2095, 2205, 2207; Pub. L. 106–36, title II, §2408(a), June 25, 1999, 113 Stat. 171; Pub. L. 108–77, title II, §206, Sept. 3, 2003, 117 Stat. 931; Pub. L. 108–429, title II, §2105, Dec. 3, 2004, 118 Stat. 2598; Pub. L. 109–53, title II, §207, Aug. 2, 2005, 119 Stat. 485; Pub. L. 109–280, title XIV, §1635(b), Aug. 17, 2006, 120 Stat. 1170; Pub. L. 109–283, title II, §205, Sept. 26, 2006, 120 Stat. 1203; Pub. L. 110–138, title II, §206, Dec. 14, 2007, 121 Stat. 1476; Pub. L. 112–41, title II, §205, Oct. 21, 2011, 125 Stat. 449; Pub. L. 112–42, title II, §206, Oct. 21, 2011, 125 Stat. 484; Pub. L. 112–43, title II, §206, Oct. 21, 2011, 125 Stat. 520; Pub. L. 116–113, title II, §205(a), Jan. 29, 2020, 134 Stat. 46; Pub. L. 116–260, div. O, title VI, §601(e), Dec. 27, 2020, 134 Stat. 2151.)
+(June 17, 1930, ch. 497, title IV, §520, 46 Stat. 739; June 26, 1934, ch. 756, §2, 48 Stat. 1225; June 25, 1938, ch. 679, §18, 52 Stat. 1086; Aug. 8, 1953, ch. 397, §20, 67 Stat. 519; Pub. L. 91–271, title II, §210, June 2, 1970, 84 Stat. 287; Pub. L. 95–410, title II, §210, Oct. 3, 1978, 92 Stat. 903; Pub. L. 98–573, title II, §§210(b), 212(c)(B), formerly §212(b)(7)(B), Oct. 30, 1984, 98 Stat. 2977, 2984, renumbered Pub. L. 99–514, title XVIII, §1889(3), Oct. 22, 1986, 100 Stat. 2925; Pub. L. 103–182, title II, §206, title VI, §§642(b), 646, Dec. 8, 1993, 107 Stat. 2095, 2205, 2207;Pub. L. 106–36, title II, §2408(a), June 25, 1999, 113 Stat. 171; Pub. L. 108–77, title II, §206, Sept. 3, 2003, 117 Stat. 931; Pub. L. 108–429, title II, §2105, Dec. 3, 2004, 118 Stat. 2598; Pub. L. 109–53, title II, §207, Aug. 2, 2005, 119 Stat. 485; Pub. L. 109–280, title XIV, §1635(b), Aug. 17, 2006, 120 Stat. 1170; Pub. L. 109–283, title II, §205, Sept. 26, 2006, 120 Stat. 1203; Pub. L. 110–138, title II, §206, Dec. 14, 2007, 121 Stat. 1476; Pub. L. 112–41, title II, §205, Oct. 21, 2011, 125 Stat. 449; Pub. L. 112–42, title II, §206, Oct. 21, 2011, 125 Stat. 484; Pub. L. 112–43, title II, §206, Oct. 21, 2011, 125 Stat. 520; Pub. L. 116–113, title II, §205(a), Jan. 29, 2020, 134 Stat. 46; Pub. L. 116–260, div. O, title VI, §601(e), Dec. 27, 2020, 134 Stat. 2151.)
 
 #### Amendment of Section
 
@@ -46,6 +46,8 @@ Notwithstanding the fact that a valid protest was not filed, the Customs Service
 
 <i>For termination of amendment by section 107(c) of Pub. L. 108–77, see Effective and Termination Dates of 2003 Amendment note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 202 of the United States-Chile Free Trade Agreement Implementation Act, referred to in subsec. (d), is section 202 of Pub. L. 108–77, which is set out in a note under section 3805 of this title.
@@ -62,7 +64,7 @@ Section 203 of the United States–Panama Trade Promotion Agreement Implementati
 
 #### Codification
 
-Act June 26, 1934, ch. 756, §2(a), 48 Stat. 1225, which was classified to section 725a of former Title 31, Money and Finance, provided for the repeal, effective July 1, 1935, of the permanent appropriations under the appropriations titles listed in section 2(b) of such Act, and further provided that such portions of any Acts as made permanent appropriations to be be expended under such accounts were amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as were provided by the laws providing such permanent appropriations. The text of section 2(b)(9) of such Act provides as follows: "Refund of excessive duties (Customs) (2x324)." See 1934 Amendment note below.
+Act June 26, 1934, ch. 756, §2(a), 48 Stat. 1225, which was classified to section 725a of former Title 31, Money and Finance, provided for the repeal, effective July 1, 1935, of the permanent appropriations under the appropriations titles listed in section 2(b) of such Act, and further provided that such portions of any Acts as made permanent appropriations to be expended under such accounts were amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as were provided by the laws providing such permanent appropriations. The text of section 2(b)(9) of such Act provides as follows: "Refund of excessive duties (Customs) (2x324)." See 1934 Amendment note below.
 
 #### Prior Provisions
 
@@ -98,7 +100,7 @@ Subsec. (d). Pub. L. 109–283, §§107(c), 205(1), in introductory provisions, 
 
 Subsec. (d)(3). Pub. L. 109–283, §§107(c), 205(2), temporarily inserted "and information" after "documentation". See Effective and Termination Dates of 2006 Amendment note below.
 
-<b>2005</b>—Subsec. (d). Pub. L. 109–53, §§107(d), 207, temporarily substituted ", section 202 of the United States-Chile Free Trade Agreement Implementation Act, or section 4033 of this title" for "or section 202 of the United States-Chile Free Trade Agreement Implementation Act" in introductory provisions and inserted "or certifications" after "other certificates" in par. (2). SeeEffective and Termination Dates of 2005 Amendment note below.
+<b>2005</b>—Subsec. (d). Pub. L. 109–53, §§107(d), 207, temporarily substituted ", section 202 of the United States-Chile Free Trade Agreement Implementation Act, or section 4033 of this title" for "or section 202 of the United States-Chile Free Trade Agreement Implementation Act" in introductory provisions and inserted "or certifications" after "other certificates" in par. (2). See Effective and Termination Dates of 2005 Amendment note below.
 
 <b>2004</b>—Subsec. (c). Pub. L. 108–429 struck out subsec. (c) which related to reliquidation of entry or reconciliation.
 
@@ -136,6 +138,8 @@ Subsec. (c)(2). Act Aug. 8, 1953, permitted correction of assessments of duty on
 
 <b>1934</b>—Subsec. (b). Act June 26, 1934, repealed subsec. (b). Text read as follows: "The necessary moneys to make such refunds are hereby appropriated, and this appropriation shall be deemed a permanent and indefinite appropriation."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2020 Amendment
 
 Amendment by Pub. L. 116–260 effective July 1, 2020, see section 601(h) of div. O of Pub. L. 116–260, set out as a note under section 81c of this title.
@@ -162,7 +166,7 @@ Transition from nafta treatment.—In the case of a good entered for consumption
 
 #### Effective and Termination Dates of 2011 Amendment
 
-Amendment by Pub. L. 112–43 effective on the date the United States–Panama Trade Promotion Agreement enters into force (Oct. 31, 2012) and to cease to be effective on the date the Agreement terminates, see section 107(a), (c) of Pub. L. 112–43, set out in a note under section 3805 of this title.
+Amendment by Pub. L. 112–43 effective on the date the United States–Panama Trade Promotion Agreement enters into force (Oct. 31, 2012) and to cease to beeffective on the date the Agreement terminates, see section 107(a), (c) of Pub. L. 112–43, set out in a note under section 3805 of this title.
 
 Amendment by Pub. L. 112–42 effective on the date the United States–Colombia Trade Promotion Agreement enters into force (May 15, 2012) and to cease to be effective on the date the Agreement terminates, see section 107(a), (c) of Pub. L. 112–42, set out in a note under section 3805 of this title.
 
@@ -180,7 +184,7 @@ Amendment by Pub. L. 109–280 applicable with respect to goods entered, or with
 
 #### Effective and Termination Dates of 2005 Amendment
 
-Amendment by Pub. L. 109–53 effective on the date the Dominican Republic-Central America-UnitedStates Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on date Agreement ceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as an Effective and Termination Dates note under section 4001 of this title.
+Amendment by Pub. L. 109–53 effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on date Agreement ceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as an Effective and Termination Dates note under section 4001 of this title.
 
 #### Effective Date of 2004 Amendment
 
@@ -234,5 +238,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Availability of Transportation and Storage Facilities for Military Purposes
 
-Act Sept. 29, 1942, ch. 567, 56 Stat. 761, authorized removal of merchandise in bond or customs custody from transportation and storage facilities needed for military purposes, prior to repeal by act July 25, 1947, ch. 327, §1, 61 Stat. 449.
+Act Sept. 29, 1942, ch. 567, 56 Stat. 761, authorized removal of merchandise in bond or customs custody fromtransportation and storage facilities needed for military purposes, prior to repeal by act July 25, 1947, ch. 327, §1, 61 Stat. 449.
 

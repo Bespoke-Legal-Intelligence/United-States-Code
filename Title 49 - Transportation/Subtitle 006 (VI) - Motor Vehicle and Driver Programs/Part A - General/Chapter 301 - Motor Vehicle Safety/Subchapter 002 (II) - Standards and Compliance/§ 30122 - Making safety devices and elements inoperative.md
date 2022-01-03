@@ -56,11 +56,15 @@ In subsection (c)(1), the words "section 30101 of this title" are substituted fo
 
 In subsection (d), the words "with respect . . . the rendering inoperative of" are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (b). Pub. L. 114–94 inserted "rental company," after "dealer," in two places.
 
 <b>2012</b>—Subsec. (d). Pub. L. 112–141 struck out subsec. (d). Text read as follows: "This section does not apply to a safety belt interlock or buzzer designed to indicate a safety belt is not in use as described in section 30124 of this title."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

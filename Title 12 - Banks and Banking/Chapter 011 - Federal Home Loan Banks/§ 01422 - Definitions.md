@@ -12,7 +12,7 @@ Bank system.—The term "Federal Home Loan Bank System" means the Federal Home L
 
 &emsp;(2)
 
-State.—The term "State", in addition to the States of the United States, includes the District of Columbia, Guam, Puerto Rico, the United States Virgin Islands, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+State.—The term "State", in addition to the States of the United States, includes the District of Columbia, Guam, Puerto Rico, theUnited States Virgin Islands, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
 &emsp;(3) The term "member" means any institution which has subscribed for the stock of a Federal Home Loan Bank.
 
@@ -50,7 +50,7 @@ In general.—The term "community financial institution" means a member—
 
 &emsp;&emsp;(B)
 
-Adjustments.—The $1,000,000,000 limit referred to in subparagraph (A)(ii) shall be adjusted annually by the Director, based onthe annual percentage increase, if any, in the Consumer Price Index for all urban consumers, as published by the Department of Labor.
+Adjustments.—The $1,000,000,000 limit referred to in subparagraph (A)(ii) shall be adjusted annually by the Director, based on the annual percentage increase, if any, in the Consumer Price Index for all urban consumers, as published by the Department of Labor.
 
 &emsp;(11)
 
@@ -96,7 +96,7 @@ Pars. (11) to (13). Pub. L. 110–289, §1203(1), (3), (4), added pars. (11) and
 
 <b>1999</b>—Par. (1). Pub. L. 106–102, §602(1), substituted "terms 'Finance Board' and 'Board' mean" for "term 'Board' means".
 
-Par. (3). Pub. L. 106–102, §602(2), added par. (3) and struck out former par. (3) which read as follows: "The term 'State' includes the District of Columbia, Guam, Puerto Rico, and the Virgin Islands of the United States."
+Par. (3). Pub. L. 106–102, §602(2), added par. (3) and struck out former par. (3) which read as follows: "Theterm 'State' includes the District of Columbia, Guam, Puerto Rico, and the Virgin Islands of the United States."
 
 Par. (13). Pub. L. 106–102, §602(3), added par. (13).
 

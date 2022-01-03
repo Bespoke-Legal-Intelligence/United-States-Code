@@ -4,6 +4,8 @@ The same tariffs, customs, and duties shall be levied, collected, and paid upon 
 
 (Apr. 12, 1900, ch. 191, §2, 31 Stat. 77; Aug. 5, 1909, ch. 6, §1, 36 Stat. 71, 74; May 17, 1932, ch. 190, 47 Stat. 158.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was not enacted as part of the Puerto Rican Federal Relations Act which comprises this chapter.
@@ -11,6 +13,8 @@ Section was not enacted as part of the Puerto Rican Federal Relations Act which 
 #### Amendments
 
 <b>1909</b>—Act Aug. 5, 1909, placed coffee in the bean or ground, imported into Puerto Rico, formerly subject to a duty of 5 cents, on the duty free list.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

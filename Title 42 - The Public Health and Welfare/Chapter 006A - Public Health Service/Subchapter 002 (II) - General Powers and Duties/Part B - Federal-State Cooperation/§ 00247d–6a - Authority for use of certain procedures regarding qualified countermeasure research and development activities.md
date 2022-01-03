@@ -28,7 +28,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In carrying out activities under this section, the Secretary is authorized, subject tosubparagraph (B), to enter into interagency agreements and other collaborative undertakings with other agencies of the United States Government.
+&emsp;&emsp;In carrying out activities under this section, the Secretary is authorized, subject to subparagraph (B), to enter into interagency agreements and other collaborative undertakings with other agencies of the United States Government.
 
 #### (B) Limitation
 
@@ -84,7 +84,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In using the authority provided in section 3304(a)(1) of title 41 to use procedures other than competitive procedures in the case of a procurement described in paragraph (1) of this subsection, the phrase "available from only one responsible source" in such section 3304(a)(1) shall be deemed to mean "available from only one responsible source or only from a limited number of responsible sources".
+&emsp;&emsp;In using the authority provided in section 3304(a)(1) of title 41 to use procedures otherthan competitive procedures in the case of a procurement described in paragraph (1) of this subsection, the phrase "available from only one responsible source" in such section 3304(a)(1) shall be deemed to mean "available from only one responsible source or only from a limited number of responsible sources".
 
 #### (B) Relation to other authorities
 
@@ -98,7 +98,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For a procurement described by paragraph (1), the amount specified in subsections (a),\(d), and (e) of section 1902 of title 41 shall be deemed to be $15,000 in the administration of that section with respect to such procurement.
+&emsp;&emsp;For a procurement described by paragraph (1), the amount specified in subsections (a), (d), and (e) of section 1902 of title 41 shall be deemed to be $15,000 in the administration of that section with respect to such procurement.
 
 #### (B) Internal controls to be instituted
 
@@ -150,7 +150,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A person carrying out a contract under paragraph (1), and an officer, employee, or governing board member of such person, shall, subject to a determination by the Secretary, be deemed to be an employee of the Department of Health and Human Services for purposes of claims under sections 1346(b) and 2672 of title 28 for money damages for personal injury, including death, resulting from performance of functions under such contract.
+&emsp;&emsp;A person carrying out a contract under paragraph (1), and an officer, employee, or governing board member of such person,shall, subject to a determination by the Secretary, be deemed to be an employee of the Department of Health and Human Services for purposes of claims under sections 1346(b) and 2672 of title 28 for money damages for personal injury, including death, resulting from performance of functions under such contract.
 
 #### (B) Exclusivity of remedy
 
@@ -160,7 +160,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Should payment be made by the United States to any claimant bringing a claim under this paragraph, either by way of administrative determination, settlement, or court judgment, the United States shall have, notwithstanding any provision of State law, the right to recover against any entity identified in subparagraph (B) for that portion of the damages so awarded or paid, as well as interest and any costs of litigation, resulting from the failure of any such entity to carry out any obligation or responsibility assumed by such entity under a contract with the United States or from any grossly negligent orreckless conduct or intentional or willful misconduct on the part of such entity.
+&emsp;&emsp;&emsp;Should payment be made by the United States to any claimant bringing a claim under this paragraph, either by way of administrative determination, settlement, or court judgment, the United States shall have, notwithstanding any provision of State law, the right to recover against any entity identified in subparagraph (B) for that portion of the damages so awarded or paid, as well as interest and any costs of litigation, resulting from the failure of any such entity to carry out any obligation or responsibility assumed by such entity under a contract with the United States or from any grossly negligent or reckless conduct or intentional or willful misconduct on the part of such entity.
 
 #### (ii) Venue
 
@@ -210,6 +210,8 @@ Actions by the Secretary under the authority of this section are committed to ag
 
 (July 1, 1944, ch. 373, title III, §319F–1, as added Pub. L. 108–276, §2(a), July 21, 2004, 118 Stat. 835; amended Pub. L. 109–417, title IV, §403(a), Dec. 19, 2006, 120 Stat. 2874; Pub. L. 113–5, title IV, §402(g)(1), Mar. 13, 2013, 127 Stat. 195; Pub. L. 116–22, title VII, §705(a)(1), June 24, 2019, 133 Stat. 964.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Project BioShield Act of 2004, referred to in subsec. (b)(1)(D), is Pub. L. 108–276, July 21, 2004, 118 Stat. 835. For complete classification of this Act to the Code, see Short Title of 2004 Amendments note set out under section 201 of this title and Tables.
@@ -226,7 +228,7 @@ In subsec. (b)(1)(A)(ii), "section 3101(b)(1)(B) of title 41" substituted for "s
 
 In subsec. (b)(1)(B)(ii), "Section 8703(a) of title 41" substituted for "Subsections (a) and (b) of section 7 of the Anti-Kickback Act of 1986 (41 U.S.C. 57(a) and (b))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (b)(1)(B)(iii), "Section 4706 of title 41" substituted for "Section 304C of the Federal Property andAdministrative Services Act of 1949 (41 U.S.C. 254d)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b)(1)(B)(iii), "Section 4706 of title 41" substituted for "Section 304C of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 254d)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 In subsec. (b)(1)(B)(v), "Section 3901 of title 41" substituted for "Subsection (a) of section 304 of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 254(a))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
@@ -248,6 +250,8 @@ In subsec. (b)(3)(A), "subsections (a), (d), and (e) of section 1902 of title 41
 
 &emsp;"(B) treat, identify, or prevent harm from a condition that may result in adverse health consequences or death and may be caused by administering a drug, biological product, or device that is used as described in subparagraph (A)."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Rule of Construction
 
 Pub. L. 108–276, §2(e), July 21, 2004, 118 Stat. 842, provided that: "Nothing in this section \[enacting this section and amending sections 247d–6, 287a–2, and 300aa–6 of this title\] has any legal effect on sections 302(2), 302(4), 304(a), or 304(b) of the Homeland Security Act of 2002 \[6 U.S.C. 182(2), (4), 184(a), (b)\]."
@@ -262,7 +266,7 @@ Pub. L. 108–276, §6, July 21, 2004, 118 Stat. 862, provided that: "The Secret
 
 #### Recommendation for Export Controls on Certain Biomedical Countermeasures
 
-Pub. L. 108–276, §7, July 21, 2004, 118 Stat. 863, provided that: "Upon the award of any grant, contract, or cooperative agreement under section 2 or 3 of this Act \[enacting this section and section 320 of Title 6, Domestic Security, amending sections 247d–6, 247d–6b, 287a–2, and 300aa–6 of this title and sections 312 and 313 of Title 6, renumbering section 300hh–12 of this title as section 247d–6b of this title, and enacting provisions set out as notes under this section and section 247d–6b of this title\] for the research, development, or procurement of a qualified countermeasure or a security countermeasure (as those terms are defined in this Act \[see Short Title of 2004 Amendments note set out under section 201 of this title\]), the Secretary of Health and Human Services shall, in consultation with the heads of other appropriate Federal agencies, determine whether the countermeasure involved in such grant, contract, or cooperative agreement is subject to existing export-related controls and, if not, may make a recommendation to the appropriate Federal agency or agencies that such countermeasure should be included on the list of controlled items subject to such controls."
+Pub. L. 108–276, §7, July 21, 2004, 118 Stat. 863, provided that: "Upon the award of any grant, contract, or cooperative agreement under section 2 or 3 of this Act \[enacting this section and section 320 of Title 6, Domestic Security, amending sections 247d–6, 247d–6b, 287a–2, and 300aa–6 of this title and sections 312 and 313 of Title 6, renumbering section 300hh–12 of this title as section 247d–6b of this title, and enacting provisions set out asnotes under this section and section 247d–6b of this title\] for the research, development, or procurement of a qualified countermeasure or a security countermeasure (as those terms are defined in this Act \[see Short Title of 2004 Amendments note set out under section 201 of this title\]), the Secretary of Health and Human Services shall, in consultation with the heads of other appropriate Federal agencies, determine whether the countermeasure involved in such grant, contract, or cooperative agreement is subject to existing export-related controls and, if not, may make a recommendation to the appropriate Federal agency or agencies that such countermeasure should be included on the list of controlled items subject to such controls."
 
 #### Ensuring Coordination, Cooperation and the Elimination of Unnecessary Duplication in Programs Designed To Protect the Homeland From Biological, Chemical, Radiological, and Nuclear Agents
 
@@ -274,5 +278,5 @@ Ensuring Coordination of Programs.—The Secretary of Health and Human Services,
 
 "(b)
 
-Designation of Agency Coordination Officer.—The Secretary of Health and Human Services, the Secretary of Homeland Security, and the Secretary of Defense shall each designate an officer or employee of their respective Departments who shall coordinate,through regular meetings and communications, with the other aforementioned Departments such programs and activities carried out by their Departments."
+Designation of Agency Coordination Officer.—The Secretary of Health and Human Services, the Secretary of Homeland Security, and the Secretary of Defense shall each designate an officer or employee of their respective Departments who shall coordinate, through regular meetings and communications, with the other aforementioned Departments such programs and activities carried out by their Departments."
 

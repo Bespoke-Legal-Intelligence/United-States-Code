@@ -6,9 +6,13 @@
 
 (Aug. 22, 1940, ch. 686, title I, §45, 54 Stat. 845; Pub. L. 101–550, title II, §202(b)(1), Nov. 15, 1990, 104 Stat. 2715.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–550 substituted "Except as provided in section 78x(c) of this title, it shall be unlawful" for "It shall be unlawful".
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

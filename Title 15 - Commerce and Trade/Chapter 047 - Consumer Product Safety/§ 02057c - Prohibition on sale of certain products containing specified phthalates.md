@@ -94,7 +94,7 @@ Subsections (a) and (b)(1) and any rule promulgated under subsection (b)(3) shal
 
 &emsp;&emsp;(B) The term "children's toy" means a consumer product designed or intended by the manufacturer for a child 12 years of age or younger for use by the child when the child plays.
 
-&emsp;&emsp;(C) The term "child care article" means a consumer product designed or intended by the manufacturer to facilitate sleep or the feeding of children age 3 and younger, or to help such children with sucking or teething.
+&emsp;&emsp;(C) The term "child care article" means a consumer product designed or intended by the manufacturer to facilitate sleep or thefeeding of children age 3 and younger, or to help such children with sucking or teething.
 
 &emsp;&emsp;(D) The term "consumer product" has the meaning given such term in section 3(a)(1) of the Consumer Product Safety Act (15 U.S.C. 2052(a)(1)).
 
@@ -118,6 +118,8 @@ Subsections (a) and (b)(1) and any rule promulgated under subsection (b)(3) shal
 
 (Pub. L. 110–314, title I, §108, Aug. 14, 2008, 122 Stat. 3036; Pub. L. 112–28, §5(a), Aug. 12, 2011, 125 Stat. 280.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 August 12, 2011, referred to in subsec. (c), was in the original "the date of enactment of this Act", which was translated as meaning the date of enactment of Pub. L. 112–28, which enacted subsec. (c), to reflect the probable intent of Congress.
@@ -131,6 +133,8 @@ Section was enacted as part of the Consumer Product Safety Improvement Act of 20
 #### Amendments
 
 <b>2011</b>—Subsecs. (c) to (g). Pub. L. 112–28 added subsecs. (c) and (d) and redesignated former subsecs. (c) to (e) as (e) to (g), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definition
 

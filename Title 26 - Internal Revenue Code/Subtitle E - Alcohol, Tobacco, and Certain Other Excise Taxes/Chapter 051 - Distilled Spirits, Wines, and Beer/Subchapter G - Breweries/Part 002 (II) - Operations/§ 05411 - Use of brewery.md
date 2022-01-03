@@ -4,6 +4,8 @@ The brewery shall be used under regulations prescribed by the Secretary only for
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1389; amended Pub. L. 91–673, §3(c), Jan. 12, 1971, 84 Stat. 2057; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 5411, act Aug. 16, 1954, ch. 736, 68A Stat. 675, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
@@ -13,6 +15,8 @@ A prior section 5411, act Aug. 16, 1954, ch. 736, 68A Stat. 675, consisted of pr
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
 <b>1971</b>—Pub. L. 91–673 struck out requirement of separate facilities for bottling of beer and cereal beverages and permitted use of brewery for packaging and storing beer and other cereal beverages.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1971 Amendment
 

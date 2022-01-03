@@ -38,6 +38,8 @@ In subsection (b), the words "subject to the Uniform Code of Military Justice" a
 
 In subsection (c), the words "the terms and provisions of" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Uniform Code of Military Justice, referred to in subsec. (a), is classified to chapter 47 (§801 et seq.) of this title.
@@ -49,6 +51,8 @@ The Uniform Code of Military Justice, referred to in subsec. (a), is classified 
 <b>1985</b>—Subsec. (a). Pub. L. 99–145 provided for payment of expenses for legal representation of civilians overseas.
 
 <b>1980</b>—Subsec. (c). Pub. L. 96–513 substituted "Department of Transportation" for "Department of the Treasury".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

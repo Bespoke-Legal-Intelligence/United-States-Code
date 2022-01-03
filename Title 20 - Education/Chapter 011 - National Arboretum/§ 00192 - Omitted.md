@@ -1,5 +1,7 @@
 ### §192. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act Mar. 4, 1927, ch. 505, §2, 44 Stat. 1422, authorized appropriation of $300,000 to be expended for acquisition of land specified in section 191 of this title.

@@ -26,7 +26,7 @@ In this subchapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term "operations, maintenance, and replacement costs" means all costs for the operation of a rural water supply project that are necessary for the safe, efficient, and continued functioning of the project to produce the benefits described in a feasibility study.
+&emsp;&emsp;The term "operations, maintenance, and replacement costs" means all costs for the operation of a rural water supply projectthat are necessary for the safe, efficient, and continued functioning of the project to produce the benefits described in a feasibility study.
 
 #### (B) Inclusions
 

@@ -60,7 +60,7 @@ Under such regulations as the Secretary may deem necessary to protect the revenu
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of law, wine entered into customs bonded warehousesunder subsection (c)(4) may, under such regulations as the Secretary may prescribe, be withdrawn from such warehouses for consumption in the United States by and for the official or family use of such foreign governments, organizations, and individuals who are entitled to withdraw imported wines from such warehouses free of tax. Wines transferred to customs bonded warehouses under subsection (c)(4) shall be entered, stored, and accounted for in such warehouses under such regulations and bonds as the Secretary may prescribe, and may be withdrawn therefrom by such governments, organizations, and individuals free of tax under the same conditions and procedures as imported wines.
+&emsp;Notwithstanding any other provision of law, wine entered into customs bonded warehouses under subsection (c)(4) may, under such regulations as the Secretary may prescribe, be withdrawn from such warehouses for consumption in the United States by and for the official or family use of such foreign governments, organizations, and individuals who are entitled to withdraw imported wines from such warehouses free of tax. Wines transferred to customs bonded warehouses under subsection (c)(4) shall be entered, stored, and accounted for in such warehouses under such regulations and bonds as the Secretary may prescribe, and may be withdrawn therefrom by such governments, organizations, and individuals free of tax under the same conditions and procedures as imported wines.
 
 #### (2) Withdrawal for domestic use
 
@@ -71,6 +71,8 @@ Under such regulations as the Secretary may deem necessary to protect the revenu
 &emsp;Wine withdrawn from customs bonded warehouses or otherwise brought into the United States free of tax for the official or family use of foreign governments, organizations, or individuals authorized to obtain wine free of tax shall not be sold and shall not be disposed of or possessed for any use other than an authorized use. The provisions of paragraphs (1)(B) and (3) of section 5043(a) are hereby extended and made applicable to any person selling, disposing of, or possessing any wine in violation of the preceding sentence, and to the wine involved in any such violation.
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1380; amended Pub. L. 90–73, §1(a), Aug. 29, 1967, 81 Stat. 175; Pub. L. 94–455, title XIX, §§1905(c)(4), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1823, 1834; Pub. L. 96–39, title VIII, §807(a)(44), July 26, 1979, 93 Stat. 287; Pub. L. 96–601, §2(a), (b), Dec. 24, 1980, 94 Stat. 3495.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -91,6 +93,8 @@ Subsec. (c)(9). Pub. L. 94–455, §1905(c)(4), struck out "and Territories" aft
 Subsec. (d). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
 <b>1967</b>—Subsec. (d). Pub. L. 90–73 added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

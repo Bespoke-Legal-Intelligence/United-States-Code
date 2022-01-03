@@ -24,7 +24,7 @@ For any fiscal year after the end of the period for implementation, a jurisdicti
 
 #### (c) Reallocation
 
-Amounts not allocated under a program referred to in this section to a jurisdiction for failure to substantially implement this subchapter shall be reallocated under that program to jurisdictions that have not failed to substantially implement this subchapter or may be reallocated to a jurisdiction from which they were withheld to be used solely for the purpose of implementing this subchapter.
+Amounts not allocated under a program referred to in this section to a jurisdiction for failure to substantially implement this subchapter shall be reallocated under that program to jurisdictions that have not failed to substantially implement this subchapter or may be reallocated to a jurisdiction from which they werewithheld to be used solely for the purpose of implementing this subchapter.
 
 #### (d) Rule of construction
 

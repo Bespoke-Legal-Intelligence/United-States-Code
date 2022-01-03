@@ -1,6 +1,8 @@
 ### §1320b. Repealed. Pub. L. 93–647, §3(e)(1), Jan. 4, 1975, 88 Stat. 2349
 
-Section, act Aug. 14, 1935, ch. 531, title XI, §1130, as added Oct. 20, 1972, Pub. L. 92–512, title III, §301(a), 86 Stat. 945; amended July 9, 1973, Pub. L. 93–66, title II, §221, 87 Stat. 159; Dec. 31, 1973, Pub. L. 93–233, §18(j), 87Stat. 970, set out limitations on funds for certain social services.
+Section, act Aug. 14, 1935, ch. 531, title XI, §1130, as added Oct. 20, 1972, Pub. L. 92–512, title III, §301(a), 86 Stat. 945; amended July 9, 1973, Pub. L. 93–66, title II, §221, 87 Stat. 159; Dec. 31, 1973, Pub. L. 93–233, §18(j), 87 Stat. 970, set out limitations on funds for certain social services.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of Repeal
 
@@ -16,7 +18,7 @@ Pub. L. 93–233, §12, Dec. 31, 1973, 87 Stat. 959, as amended by Pub. L. 93–
 
 "(2) The provisions of subsection (a) shall not be applicable to any regulation relating to 'limitations on total amount of Federal funds payable to States for services', if such regulation is identical (except as provided in the succeeding sentence) to the provisions of section 221.55 of the regulations so proposed and published on May 1, 1973. There shall be deleted from subsection (d)(1) of such section 221.55 the phrase '(as defined under day care services for children)'; and, in lieu of the sentence contained in subsection (d)(5) of such section 221.55, there shall be inserted the following: 'Services provided to a child who is under foster care in a foster family home (as defined in section 408 of the Social Security Act \[42 U.S.C. 608\]) or in a childcare institution (as defined in such section), or while awaiting placement in such a home or institution, but only if such services are needed by such child because he is under foster care.'.
 
-"(3) The provisions of subsection (a) shall not be applicable to any regulation relating to 'rates and amounts of Federal financial participation for Puerto Rico, the Virgin Islands, and Guam', if such regulation is identical to the provisions of section 221.56 of the regulations so proposed and published on May 1, 1973.
+"(3) The provisions of subsection (a) shall not be applicable to any regulation relating to 'rates and amounts of Federal financial participation for Puerto Rico, the Virgin Islands, and Guam', if such regulationis identical to the provisions of section 221.56 of the regulations so proposed and published on May 1, 1973.
 
 "(4) The provisions of subsection (a) shall not be construed to preclude the Secretary from making any modification in any regulation (described in subsection (a)) if such modification is technically necessary to take account of the enactment of section 301 or 302 of the Social Security Amendments of 1972 \[enacting subchapters XVI and VI of this chapter\].
 

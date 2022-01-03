@@ -12,11 +12,11 @@
 
 #### (3) Minimum period of service required
 
-&emsp;Payment of a bonus under this subsection shall be contingent upon the individual entering into an agreement with the Capitol Police to complete a period of employment with the Capitol Police, with the required period determined pursuant to regulations of the Board. If the individual voluntarily fails to complete such period of service or is separated from the service before completion of such period of service for cause on charges of misconduct or delinquency, the individual shall repay the bonus on a pro rata basis.
+&emsp;Payment of a bonus under this subsection shall be contingent upon the individual entering into an agreement with the Capitol Police to complete a period of employment with the Capitol Police, with the required period determined pursuant to regulations of the Board. Ifthe individual voluntarily fails to complete such period of service or is separated from the service before completion of such period of service for cause on charges of misconduct or delinquency, the individual shall repay the bonus on a pro rata basis.
 
 #### (4) Bonus not considered part of basic pay
 
-&emsp;A bonus under this subsection shall be paid as a lump sum, and may not be considered tobe part of the basic pay of the officer or employee.
+&emsp;A bonus under this subsection shall be paid as a lump sum, and may not be considered to be part of the basic pay of the officer or employee.
 
 #### (5) Payment permitted prior to commencement of duty
 
@@ -94,7 +94,7 @@ Subsec. (b)(1). Pub. L. 108–7, §1006(1), substituted "if the Chief, in the Ch
 
 "(B) the Chief determines that the officer or employee would be likely to leave in the absence of a retention allowance."
 
-Subsec. (b)(3). Pub. L. 108–7, §1006(2), which directed the substitution of "any determination of the Chief under this subsection, or the reduction or elimination of a retention allowance, shall not be appealable or reviewable in any manner" for "the reduction or the elimination of a retention allowance may not be appealed", was executed by making the substitution for "the reduction or elimination of a retention allowance may not be appealed", to reflect the probable intent of Congress.
+Subsec. (b)(3). Pub. L. 108–7, §1006(2), which directed the substitution of "any determination of the Chief under this subsection, or the reduction or elimination of a retention allowance, shall not be appealable or reviewable in any manner" for "the reduction or the elimination of a retention allowance may not be appealed", was executed by making the substitution for "the reduction or elimination of a retention allowancemay not be appealed", to reflect the probable intent of Congress.
 
 Subsec. (e). Pub. L. 108–7, §1004(2), (3), redesignated subsec. (f) as (e) and struck out former subsec. (e) which related to additional compensation for field training officers.
 

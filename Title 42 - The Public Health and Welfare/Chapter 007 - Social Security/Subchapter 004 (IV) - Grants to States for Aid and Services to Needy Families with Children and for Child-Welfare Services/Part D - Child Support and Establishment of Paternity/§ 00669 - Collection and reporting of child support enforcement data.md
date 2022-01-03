@@ -10,7 +10,7 @@ With respect to each type of service described in subsection (b), the Secretary 
 
 #### (b) Types of services
 
-The statistics required by subsection (a) shall be separately stated with respect to paternityestablishment services and child support obligation establishment services.
+The statistics required by subsection (a) shall be separately stated with respect to paternity establishment services and child support obligation establishment services.
 
 #### (c) Types of service recipients
 
@@ -26,15 +26,19 @@ For purposes of subsection (a)(2), a service has actually been provided when the
 
 (Aug. 14, 1935, ch. 531, title IV, §469, as added Pub. L. 100–485, title I, §129, Oct. 13, 1988, 102 Stat. 2356; amended Pub. L. 100–647, title VIII, §8105(6), Nov. 10, 1988, 102 Stat. 3797; Pub. L. 104–193, title I, §108(c)(16), title III, §395(d)(2)(E), Aug. 22, 1996, 110 Stat. 2166, 2260; Pub. L. 105–200, title IV, §407(a), July 16, 1998, 112 Stat. 672.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>1998</b>—Pub. L. 105–200 reenacted section catchline without change, added subsecs. (a) to (c), redesignated former subsec. (c) as (d) and inserted heading, and struck out former subsec. (a) relating to statistics on need for and actual provision of services and subsec. (b) relating to types of services.
+<b>1998</b>—Pub. L. 105–200 reenacted section catchline without change, added subsecs. (a) to (c), redesignatedformer subsec. (c) as (d) and inserted heading, and struck out former subsec. (a) relating to statistics on need for and actual provision of services and subsec. (b) relating to types of services.
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–193, §108(c)(16), substituted "assistance under State programs funded under part A of this subchapter and for families not receiving such assistance)" for "aid under plans approved under part A of this subchapter and for families not receiving such aid)".
 
 Subsec. (b)(2), (4). Pub. L. 104–193, §395(d)(2)(E), substituted "a noncustodial parent" for "an absent parent".
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–647 made technical amendment to references to part A of this subchapter and to this part involving underlying provisions of original act and requiring no change in text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(C) 10 percent if no one is wholly dependent but one or more is partly dependent, divided among the dependents share and share alike.
 
-> &emsp;If there is a widow, widower, child, or dependent parent, so much of the percentages are payable as, when added to the total percentages payable to the widow, widower, children, and dependent parents, will not exceed a total of 75 percent.
+> &emsp;If there is a widow, widower, child, or dependent parent, so much of the percentages arepayable as, when added to the total percentages payable to the widow, widower, children, and dependent parents, will not exceed a total of 75 percent.
 
 (b) The compensation payable under subsection (a) of this section is paid from the time of death until—
 
@@ -136,7 +136,7 @@ Subsec. (f). Pub. L. 93–416, §18, added subsec. (f).
 
 #### Effective Date of 1974 Amendment
 
-Amendment by sections 16(a) and 17 of Pub. L. 93–416 applicable to cases where injury or death occurredprior to Sept. 7, 1974 but only to a period beginning on or after Sept. 7, 1974, see section 28(a) of Pub. L. 93–416, set out as a note under section 8101 of this title.
+Amendment by sections 16(a) and 17 of Pub. L. 93–416 applicable to cases where injury or death occurred prior to Sept. 7, 1974 but only to a period beginning on or after Sept. 7, 1974, see section 28(a) of Pub. L. 93–416, set out as a note under section 8101 of this title.
 
 Amendment by section 18 of Pub. L. 93–416 effective on Sept. 7, 1974, and applicable to any injury or death occurring on or after Sept. 7, 1974, see section 28(a) of Pub. L. 93–416, set out as a note under section 8101 of this title.
 

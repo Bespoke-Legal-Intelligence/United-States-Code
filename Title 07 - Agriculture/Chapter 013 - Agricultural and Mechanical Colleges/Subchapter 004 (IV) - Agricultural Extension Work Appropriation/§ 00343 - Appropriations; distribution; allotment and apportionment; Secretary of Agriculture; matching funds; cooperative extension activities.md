@@ -6,7 +6,7 @@
 
 (2) There is authorized to be appropriated for the fiscal year ending June 30, 1971, and for each fiscal year thereafter, for payment to the Virgin Islands, Guam, and the Northern Mariana Islands, $100,000 each, which sums shall be in addition to the sums appropriated for the several States of the United States and Puerto Rico under the provisions of this section. The amount paid by the Federal Government to the Virgin Islands and Guam pursuant to this paragraph shall not exceed during any fiscal year, except the fiscal years ending June 30, 1971, and June 30, 1972, when such amount may be used to pay the total cost of providing services pursuant to this subchapter, the amount available and budgeted for expenditure by the Virgin Islands and Guam for the purposes of this subchapter.
 
-(3) There are authorized to be appropriated for the fiscal year ending June 30, 1996, and for each fiscal year thereafter, for payment on behalf of the 1994 Institutions (as defined in section 532 of the Equity in Educational Land-Grant Status Act of 1994), such sums as are necessary for the purposes set forth in section 342 of this title. The balance of any annual funds provided under the preceding sentence for a fiscal year that remains unexpended at the end of that fiscal year shall remain available without fiscal year limitation. Such sums shall be in addition to the sums appropriated for the several States and Puerto Rico, the Virgin Islands, and Guam under the provisions of this section. Such sums shall be distributed on the basis of a competitive application process to be developed and implemented by the Secretary and paid by the Secretary to 1994 Institutions (in accordance with regulations that the Secretary may promulgate) and may be administered by the 1994 Institutions through cooperative agreements with colleges and universities eligible to receive funds under subchapters I and II of this chapter, including Tuskegee University, located in any State.
+(3) There are authorized to be appropriated for the fiscal year ending June 30, 1996, and for each fiscal year thereafter, for payment on behalf of the 1994 Institutions (as defined in section 532 of the Equity in Educational Land-Grant Status Act of 1994), such sums as are necessary for the purposes set forth in section 342 of this title. The balance of any annual funds provided under the preceding sentence for a fiscal year that remains unexpended at the end of that fiscal year shall remain available without fiscal year limitation. Such sums shall be in addition to thesums appropriated for the several States and Puerto Rico, the Virgin Islands, and Guam under the provisions of this section. Such sums shall be distributed on the basis of a competitive application process to be developed and implemented by the Secretary and paid by the Secretary to 1994 Institutions (in accordance with regulations that the Secretary may promulgate) and may be administered by the 1994 Institutions through cooperative agreements with colleges and universities eligible to receive funds under subchapters I and II of this chapter, including Tuskegee University, located in any State.
 
 (4)
 
@@ -94,7 +94,7 @@ Multistate Cooperative Extension Activities.—
 
 &emsp;(1)
 
-In general.—Not less than the applicable percentage specified under paragraph (2) of theamounts that are paid to a State under subsections (b) and (c) during a fiscal year shall be expended by States for cooperative extension activities in which 2 or more States cooperate to solve problems that concern more than 1 State (referred to in this subsection as "multistate activities").
+In general.—Not less than the applicable percentage specified under paragraph (2) of the amounts that are paid to a State under subsections (b) and (c) during a fiscal year shall be expended by States for cooperative extension activities in which 2 or more States cooperate to solve problems that concern more than 1 State (referred to in this subsection as "multistate activities").
 
 &emsp;(2)
 
@@ -144,6 +144,8 @@ Integration of Research and Extension.—Section 361c(i) of this title shall app
 
 (May 8, 1914, ch. 79, §3, 38 Stat. 373; June 26, 1953, ch. 157, §1, 67 Stat. 84; Pub. L. 87–749, §1(b)–(e), Oct. 5, 1962, 76 Stat. 745; Pub. L. 92–318, title V, §506(g), June 23, 1972, 86 Stat. 351; Pub. L. 95–113, title XIV, §1465, Sept. 29, 1977, 91 Stat. 1018; Pub. L. 99–198, title XIV, §1435(b), Dec. 23, 1985, 99 Stat. 1557; Pub. L. 99–396, §9(e), Aug. 27, 1986, 100 Stat. 840; Pub. L. 103–382, title V, §534(b), Oct. 20, 1994, 108 Stat. 4050; Pub. L. 104–127, title VIII, §883(a), Apr. 4, 1996, 110 Stat. 1176; Pub. L. 105–185, title I, §105, title II, §§201, 203(b), (c)(2), 204(b), June 23, 1998, 112 Stat. 529, 531, 534, 536; Pub. L. 105–277, div. A, §101(a) \[title VII, §753(e)\], Oct. 21, 1998, 112 Stat. 2681, 2681–33; Pub. L. 107–171, title VII, §§7213(b), 7215, May 13, 2002, 116 Stat. 448; Pub. L. 110–234, title VII, §§7129(b), 7403(a), May 22, 2008, 122 Stat. 1226, 1246; Pub. L. 110–246, §4(a), title VII, §§7129(b), 7403(a), June 18, 2008, 122 Stat. 1664, 1987, 2007; Pub. L. 115–334, title VII, §§7609(a), 7612(a)(1), Dec. 20, 2018, 132 Stat. 4830, 4831.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 532 of the Equity in Educational Land-Grant Status Act of 1994, referred to in subsec. (b)(3), is section 532 of Pub. L. 103–382, which is set out as a note under section 301 of this title.
@@ -174,7 +176,7 @@ Institutions" and, in text, substituted "or Hispanic-serving agricultural colleg
 
 <b>2002</b>—Subsec. (b)(3). Pub. L. 107–171, §7215, substituted "such sums as are necessary" for "$5,000,000" and inserted "The balance of any annual funds provided under the preceding sentence for a fiscal year that remains unexpended at the end of that fiscal year shall remain available without fiscal year limitation." after "section 342 of this title.".
 
-Subsec. (e)(4). Pub. L. 107–171, §7213(b), added par. (4) and struck out heading and text of former par. (4). Textread as follows: "In lieu of the matching funds requirement of paragraph (1), the Commonwealth of Puerto Rico, the Virgin Islands, and Guam shall be subject to the same matching funds requirements as those applicable to an eligible institution under section 3222d of this title."
+Subsec. (e)(4). Pub. L. 107–171, §7213(b), added par. (4) and struck out heading and text of former par. (4). Text read as follows: "In lieu of the matching funds requirement of paragraph (1), the Commonwealth of Puerto Rico, the Virgin Islands, and Guam shall be subject to the same matching funds requirements as those applicable to an eligible institution under section 3222d of this title."
 
 <b>1998</b>—Subsec. (b)(1). Pub. L. 105–185, §203(c)(2)(A), substituted "Secretary of Agriculture" for "Federal Extension Service".
 
@@ -222,7 +224,9 @@ Subsec. (c)2. Pub. L. 87–749, §1(d), substituted provisions authorizing 20 pe
 
 Subsec. (d). Pub. L. 87–749, §1(e), inserted "additional" after "receive such".
 
-<b>1953</b>—Act June 26, 1953, amended section generally, and, among other changes: (1) divided section into subsections; (2) substituted general authorization for appropriations for former authorization for specific annual appropriations; (3) inserted references to Alaska, Hawaii, and Puerto Rico; and (4) substituted provisions relating to allotment and apportionment of appropriations for former provisions for such apportionment on basis of rural population, and farm population, as determined by latest census.
+<b>1953</b>—Act June 26, 1953, amended section generally, and, among other changes: (1) divided section into subsections; (2) substituted general authorization for appropriations for former authorization for specific annual appropriations; (3) inserted references to Alaska, Hawaii, and Puerto Rico; and (4) substituted provisions relating to allotment and apportionment of appropriations for former provisions for such apportionment onbasis of rural population, and farm population, as determined by latest census.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

@@ -12,7 +12,7 @@
 
 &emsp;(B) any position in the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service under section 3151.
 
-(b)(1) Subject to such regulations as the Office of Personnel Management prescribes, the head of the agency concerned shall fix the rate of basic pay for any position within such agency to which this section applies. A rate fixed under this section shall be—
+(b)(1) Subject to such regulations as the Office of Personnel Management prescribes, the headof the agency concerned shall fix the rate of basic pay for any position within such agency to which this section applies. A rate fixed under this section shall be—
 
 &emsp;(A) not less than 120 percent of the minimum rate of basic pay payable for GS–15 of the General Schedule; and
 

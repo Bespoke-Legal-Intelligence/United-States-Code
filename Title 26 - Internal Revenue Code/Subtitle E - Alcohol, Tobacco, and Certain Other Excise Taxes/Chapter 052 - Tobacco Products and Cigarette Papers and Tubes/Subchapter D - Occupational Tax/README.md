@@ -9,6 +9,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior subchapter D, relating to records of manufacturers and importers of tobacco products, etc., was redesignated subchapter E by Pub. L. 100–203, title X, §10512(f)(1), Dec. 22, 1987, 101 Stat. 1330–449.

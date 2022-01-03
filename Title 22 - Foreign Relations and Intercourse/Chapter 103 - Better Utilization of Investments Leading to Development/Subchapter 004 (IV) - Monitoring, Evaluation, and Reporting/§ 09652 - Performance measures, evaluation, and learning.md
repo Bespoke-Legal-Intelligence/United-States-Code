@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Corporation shall develop a performance measurement system to evaluate and monitor projects supported by the Corporation under subchapter II of this chapter and to guide future projects of the Corporation.
+The Corporation shall develop a performance measurement system to evaluate and monitorprojects supported by the Corporation under subchapter II of this chapter and to guide future projects of the Corporation.
 
 #### (b) Considerations
 

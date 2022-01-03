@@ -26,9 +26,13 @@ Any civil action brought under subsection (a) in a district court of the United 
 
 (Pub. L. 103–297, §5, Aug. 16, 1994, 108 Stat. 1549; Pub. L. 111–203, title X, §1100C(c), July 21, 2010, 124 Stat. 2111.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (c). Pub. L. 111–203 inserted "or the Bureau of Consumer Financial Protection" after "Commission" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

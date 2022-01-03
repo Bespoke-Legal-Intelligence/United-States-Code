@@ -4,7 +4,7 @@ A State receiving a grant under this subchapter, through reports provided to the
 
 &emsp;(1) shall demonstrate the effective development, operation, and expansion of community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect that meets the requirements of this subchapter;
 
-&emsp;(2) shall supply an inventory and description of the services provided to families by local programs that meet identified community needs, including core and optional services as described in section 5116a of this title which description shall specify whether those services are supported by research;
+&emsp;(2) shall supply an inventory and description of the services provided to families by localprograms that meet identified community needs, including core and optional services as described in section 5116a of this title which description shall specify whether those services are supported by research;
 
 &emsp;(3) shall demonstrate that they will have addressed unmet needs identified by the inventory and description of current services required under section 5116d(3) of this title;
 
@@ -19,6 +19,8 @@ A State receiving a grant under this subchapter, through reports provided to the
 &emsp;(8) shall demonstrate an implementation plan to ensure the continued leadership of parents in the on-going planning, implementation, and evaluation of such community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect.
 
 (Pub. L. 93–247, title II, §206, formerly §207, as added Pub. L. 104–235, title I, §121, Oct. 3, 1996, 110 Stat. 3086; amended Pub. L. 108–36, title I, §127, June 25, 2003, 117 Stat. 817; renumbered §206 and amended Pub. L. 111–320, title I, §§137, 141, Dec. 20, 2010, 124 Stat. 3481, 3482.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

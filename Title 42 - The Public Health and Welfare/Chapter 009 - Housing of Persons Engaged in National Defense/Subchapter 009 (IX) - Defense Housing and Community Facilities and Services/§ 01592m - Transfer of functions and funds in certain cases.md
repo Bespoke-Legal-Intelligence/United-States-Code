@@ -4,13 +4,21 @@ Subject to all of the limitations and restrictions of this Act, including, speci
 
 (Sept. 1, 1951, ch. 378, title III, §314, 65 Stat. 308; Pub. L. 89–174, §5(a), Sept. 9, 1965, 79 Stat. 669; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in text, means act Sept. 1, 1951, ch. 378, 65 Stat. 293, as amended, known as the Defense Housing and Community Facilities and Services Act of 1951. For complete classification of this Act to the Code, see Short Title of 1951 Amendment set out as a note under section 1501 of this title and Tables.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transfer of Functions
 
 For transfer of functions to Secretary of Housing and Urban Development, see note set out under section 1581 of this title.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
 
 Functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau of the Budget transferred to President of United States by section 101 of Reorg. Plan. No. 2, of 1970, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, set out in the Appendix to Title 5, Government Organization and Employees. Section 102 of Reorg. Plan No. 2, of 1970, redesignated Bureau of the Budget as Office of Management and Budget.
 
@@ -22,7 +30,7 @@ Ex. Ord. No. 10296, Oct. 2, 1951, 16 F.R. 10103, as amended by Ex. Ord. No. 1046
 
 2\. \[Revoked by Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239.\]
 
-3\. The Housing and Home Finance Administrator is hereby designated and empowered to perform, withoutthe approval, ratification, or other action of the President, the function vested in the President by section 102(b) of the Act \[section 1591a(b) of this title\], relative to the suspension and relaxation of residential credit restrictions under the Defense Production Act of 1950, as amended \[50 App. §§2061 to 2166\].
+3\. The Housing and Home Finance Administrator is hereby designated and empowered to perform, without the approval, ratification, or other action of the President, the function vested in the President by section 102(b) of the Act \[section 1591a(b) of this title\], relative to the suspension and relaxation of residential credit restrictions under the Defense Production Act of 1950, as amended \[50 App. §§2061 to 2166\].
 
 4\. Except, as provided in paragraph 5 hereof, the functions authorized by Title III of the Act \[sections 1592 to 1592o of this title\] to be performed with respect to or in furtherance of the provision, maintenance, or operation of community facilities for, and with respect to or in furtherance of the provision of community services for, recreation and child day-care centers are hereby transferred to the Federal Security Administrator and shall be performed by him or by such officers and units of the Federal Security Agency as he may determine.
 

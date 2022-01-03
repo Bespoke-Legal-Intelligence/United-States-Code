@@ -13,6 +13,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232, div. A, title VIII, §808(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 449 of this title as this chapter and items 4771 to 4781 as 7771 to 7781, respectively.
@@ -81,7 +83,7 @@ Purposes.—The purposes of the online inventory tool are—
 
 Considerations.—To establish the pilot program, the Secretary of the Army shall—
 
-&emsp;"(1) consider innovative approaches, including the use of other transaction authorities consistent with section 2371 of title 10, United States Code, and the use of commercial off-the-shelf technologies;
+&emsp;"(1) consider innovative approaches, including the use of other transaction authorities consistent with section 2371 of title 10, United States Code \[now 10 U.S.C. 4021\], and the use of commercial off-the-shelf technologies;
 
 &emsp;"(2) develop appropriate protections of sensitive or classified information from being included with the online inventory tool; and
 

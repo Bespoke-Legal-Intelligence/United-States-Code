@@ -2,7 +2,7 @@
 
 #### (a) Factors considered; requirements
 
-In determining whether to withdraw, reserve, lease, or otherwise permit the use, occupancy, or disposition of public lands under any provision of law authorizing such actions, the head of the Federal agency having primary jurisdiction over such lands or his designee shall evaluate the effect of such use, occupancy, or disposition on subsistence uses and needs, the availability of other lands for the purposes sought to beachieved, and other alternatives which would reduce or eliminate the use, occupancy, or disposition of public lands needed for subsistence purposes. No such withdrawal, reservation, lease, permit, or other use, occupancy or disposition of such lands which would significantly restrict subsistence uses shall be effected until the head of such Federal agency—
+In determining whether to withdraw, reserve, lease, or otherwise permit the use, occupancy, or disposition of public lands under any provision of law authorizing such actions, the head of the Federal agency having primary jurisdiction over such lands or his designee shall evaluate the effect of such use, occupancy, or disposition on subsistence uses and needs, the availability of other lands for the purposes sought to be achieved, and other alternatives which would reduce or eliminate the use, occupancy, or disposition of public lands needed for subsistence purposes. No such withdrawal, reservation, lease, permit, or other use, occupancy or disposition of such lands which would significantly restrict subsistence uses shall be effected until the head of such Federal agency—
 
 &emsp;(1) gives notice to the appropriate State agency and the appropriate local committees and regional councils established pursuant to section 3115 of this title;
 
@@ -23,6 +23,8 @@ Nothing herein shall be construed to prohibit or impair the ability of the State
 After compliance with the procedural requirements of this section and other applicable law, the head of the appropriate Federal agency may manage or dispose of public lands under his primary jurisdiction for any of those uses or purposes authorized by this Act or other law.
 
 (Pub. L. 96–487, title VIII, §810, Dec. 2, 1980, 94 Stat. 2427.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

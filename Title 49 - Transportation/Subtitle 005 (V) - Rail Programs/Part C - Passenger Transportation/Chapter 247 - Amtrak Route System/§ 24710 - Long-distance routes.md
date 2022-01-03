@@ -52,6 +52,8 @@ Enforcement.—The Federal Railroad Administration shall monitor the development
 
 (Added Pub. L. 110–432, div. B, title II, §210(a), Oct. 16, 2008, 122 Stat. 4918.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 207 of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsecs. (a) and (b), is section 207 of Pub. L. 110–432, which is set out in a note under section 24101 of this title.

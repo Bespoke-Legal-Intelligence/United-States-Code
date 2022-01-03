@@ -62,9 +62,11 @@ As part of the first quadrennial review conducted in accordance with subsection 
 
 (Pub. L. 108–153, §5, Dec. 3, 2003, 117 Stat. 1928; Pub. L. 114–329, title II, §204(b)(3), Jan. 6, 2017, 130 Stat. 2999.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Pub. L. 114–329, §204(b)(3)(A)–(D), substituted "Quadrennial" for "Triennial" in section catchline and "quadrennial" for "triennial" in subsecs. (a) to (c).
 
-Subsec. (d). Pub. L. 114–329, §204(b)(3)(E), amended subsec. (d) generally. Prior to amendment, text read as follows: "The Director of the National Nanotechnology Coordination Office shall transmit the results of any evaluation for which it made arrangements under subsection (a) to the Advisory Panel, the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Scienceupon receipt. The first such evaluation shall be transmitted no later than June 10, 2005, with subsequent evaluations transmitted to the Committees every 3 years thereafter."
+Subsec. (d). Pub. L. 114–329, §204(b)(3)(E), amended subsec. (d) generally. Prior to amendment, text read as follows: "The Director of the National Nanotechnology Coordination Office shall transmit the results of any evaluation for which it made arrangements under subsection (a) to the Advisory Panel, the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Science upon receipt. The first such evaluation shall be transmitted no later than June 10, 2005, with subsequent evaluations transmitted to the Committees every 3 years thereafter."
 

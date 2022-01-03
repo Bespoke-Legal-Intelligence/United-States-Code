@@ -6,7 +6,7 @@ In order further to assist the States in carrying out the purposes of this subch
 
 #### (b) Approval; payments to applicants
 
-Except as provided in this section, an application for a loan with respect to any project under this part shall be submitted, and shall be approved by the Surgeon General, in accordance with the same procedures and subject to the same limitations and conditions as would be applicable to the making of a grant under this part for such project. Any such application may be approved in any fiscal year only if sufficient funds are available from the allotment for the type of project involved. All loans under this section shall be paid directly to the applicant.
+Except as provided in this section, an application for a loan with respect to any project underthis part shall be submitted, and shall be approved by the Surgeon General, in accordance with the same procedures and subject to the same limitations and conditions as would be applicable to the making of a grant under this part for such project. Any such application may be approved in any fiscal year only if sufficient funds are available from the allotment for the type of project involved. All loans under this section shall be paid directly to the applicant.
 
 #### (c) Terms
 
@@ -14,13 +14,15 @@ Except as provided in this section, an application for a loan with respect to an
 
 (2) The Surgeon General may enter into agreements modifying any of the terms and conditions of a loan made under this part whenever he determines such action is necessary to protect the financial interest of the United States.
 
-(3) If, at any time before a loan for a project has been repaid in full, any of the events specified in clause (a) or clause (b) of section 291i <sup>1</sup> ofthis title occurs with respect to such project, the unpaid balance of the loan shall become immediately due and payable by the applicant, and any transferee of the facility shall be liable to the United States for such repayment.
+(3) If, at any time before a loan for a project has been repaid in full, any of the events specified in clause (a) or clause (b) of section 291i <sup>1</sup> of this title occurs with respect to such project, the unpaid balance of the loan shall become immediately due and payable by the applicant, and any transferee of the facility shall be liable to the United States for such repayment.
 
 #### (d) Funds; miscellaneous receipts
 
 Any loan under this part shall be made out of the allotment from which a grant for the project concerned would be made. Payments of interest and repayments of principal on loans under this part shall be deposited in the Treasury as miscellaneous receipts.
 
 (July 1, 1944, ch. 373, title VI, §610, as added Pub. L. 88–443, §3(a), Aug. 18, 1964, 78 Stat. 457.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -32,9 +34,17 @@ A prior section 291j, act July 1, 1944, ch. 373, title VI, §632, as added Aug. 
 
 Provisions similar to those comprising this section were contained in sections 291w to 291z of this title, prior to the general amendment of this subchapter by Pub. L. 88–443.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+
+#### <b>Executive Documents</b>
+
 #### Transfer of Functions
 
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

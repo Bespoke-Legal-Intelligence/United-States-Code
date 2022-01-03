@@ -74,9 +74,13 @@ Notwithstanding any other provision of this subchapter, funds appropriated for c
 
 (Pub. L. 101–185, §7, Nov. 28, 1989, 103 Stat. 1339.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 "Section 586(a) and (b) of title 40" substituted in subsec. (b)(1)(A) for "section 210(j) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 490(j))", "section 592 of title 40" substituted in subsec. (b)(1)(B) for "section 210(f) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 490(f))", and "section 586(a) and (b) of title 40" substituted in subsec. (b)(1)(B) for "section 210(j) of such Act" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### National Native American Veterans' Memorial
 
@@ -116,7 +120,7 @@ Location.—The memorial shall be located at a site determined to be suitable by
 
 "(c)
 
-Design and Plans.—(1) The National Congress of American Indians and the National Museum of theAmerican Indian are authorized to hold a competition to select the design of the Memorial. Any design so selected shall be compatible with both the purpose of the Museum, as set forth in section 3(b) of the National Museum of the American Indian Act (20 U.S.C. 80q–1 \[(b)\]), and with any existing design plans for the Museum's structure and its surroundings.
+Design and Plans.—(1) The National Congress of American Indians and the National Museum of the American Indian are authorized to hold a competition to select the design of the Memorial. Any design so selected shall be compatible with both the purpose of the Museum, as set forth in section 3(b) of the National Museum of the American Indian Act (20 U.S.C. 80q–1 \[(b)\]), and with any existing design plans for the Museum's structure and its surroundings.
 
 "(2) Any design so selected shall be subject to the approval of the Board of Regents of the Smithsonian Institution.
 

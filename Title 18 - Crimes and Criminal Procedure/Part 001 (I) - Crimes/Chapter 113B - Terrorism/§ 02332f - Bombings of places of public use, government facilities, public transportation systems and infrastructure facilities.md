@@ -70,7 +70,7 @@ Exemptions to Jurisdiction.—This section does not apply to—
 
 &emsp;(2) activities undertaken by military forces of a state in the exercise of their official duties; or
 
-&emsp;(3) offenses committed within the United States, where the alleged offender and the victims are United States citizens and the allegedoffender is found in the United States, or where jurisdiction is predicated solely on the nationality of the victims or the alleged offender and the offense has no substantial effect on interstate or foreign commerce.
+&emsp;(3) offenses committed within the United States, where the alleged offender and the victims are United States citizens and the alleged offender is found in the United States, or where jurisdiction is predicated solely on the nationality of the victims or the alleged offender and the offense has no substantial effect on interstate or foreign commerce.
 
 (e)
 

@@ -30,7 +30,7 @@ The system shall include each of the following areas administered by the Bureau 
 
 &emsp;&emsp;(C) the Yaquina Head Outstanding Natural Area;
 
-&emsp;&emsp;(D) public land within the California Desert Conservation Area administered bythe Bureau of Land Management for conservation purposes; and
+&emsp;&emsp;(D) public land within the California Desert Conservation Area administered by the Bureau of Land Management for conservation purposes; and
 
 &emsp;&emsp;(E) any additional area designated by Congress for inclusion in the system.
 
@@ -63,6 +63,8 @@ The Secretary shall manage the system—
 &emsp;Nothing in this chapter shall be construed as affecting the authority, jurisdiction, or responsibility of the several States to manage, control, or regulate fish and resident wildlife under State law or regulations, including the regulation of hunting, fishing, trapping and recreational shooting on public land managed by the Bureau of Land Management. Nothing in this chapter shall be construed as limiting access for hunting, fishing, trapping, or recreational shooting.
 
 (Pub. L. 111–11, title II, §2002, Mar. 30, 2009, 123 Stat. 1095.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -90,6 +90,8 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 (Added Pub. L. 85–866, title II, §202(b), Sept. 2, 1958, 72 Stat. 1676; amended Pub. L. 94–455, title XIX, §§1901(b)(1)(W), (3)(G), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1792, 1793, 1834; Pub. L. 95–600, title III, §345(a)–(d), Nov. 6, 1978, 92 Stat. 2844, 2845; Pub. L. 98–369, div. A, title IV, §481(a), July 18, 1984, 98 Stat. 847; Pub. L. 113–295, div. A, title II, §221(a)(41)(H), Dec. 19, 2014, 128 Stat. 4044.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Subsec. (c)(2)(C). Pub. L. 113–295 struck out "244," after "243,".
@@ -110,6 +112,8 @@ Subsec. (d)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate"
 
 Subsec. (d)(3). Pub. L. 94–455, §1901(b)(3)(G), substituted "an ordinary loss" for "a loss from the sale or exchange of an asset which is not a capital asset".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2014 Amendment
 
 Amendment by Pub. L. 113–295 not applicable to preferred stock issued before Oct. 1, 1942 (determined in the same manner as under section 247 of this title as in effect before its repeal by Pub. L. 113–295), see section 221(a)(41)(K) of Pub. L. 113–295, set out as a note under section 172 of this title.
@@ -118,7 +122,7 @@ Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment b
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–369, div. A, title IV, §481(b), July 18, 1984, 98 Stat. 847, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to stock issued after the date of the enactment of this Act \[July 18, 1984\] in taxable years ending after such date."
+Pub. L. 98–369, div. A, title IV, §481(b), July 18, 1984, 98 Stat. 847, provided that: "The amendment made bysubsection (a) \[amending this section\] shall apply to stock issued after the date of the enactment of this Act \[July 18, 1984\] in taxable years ending after such date."
 
 #### Effective Date of 1978 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Briefings on agency declassification programs
 
-(1) As requested by the Board, or by the Select Committee on Intelligence of the Senate or the Permanent Select Committee on Intelligence of the House of Representatives, the head of any agency with the authority under an Executive order to classify information shall provide to the Board, the Select Committee on Intelligence of the Senate, or the Permanent Select Committee on Intelligence of the House of Representatives, on an annual basis, a summary briefing and report on such agency's progress and plans in the declassification of national security information. Such briefing shall coverthe declassification goals set by statute, regulation, or policy, the agency's progress with respect to such goals, and the agency's planned goals and priorities for its declassification activities over the next 2 fiscal years. Agency briefings and reports shall give particular attention to progress on the declassification of records and materials that are of archival value or extraordinary public interest to the people of the United States.
+(1) As requested by the Board, or by the Select Committee on Intelligence of the Senate or the Permanent Select Committee on Intelligence of the House of Representatives, the head of any agency with the authority under an Executive order to classify information shall provide to the Board, the Select Committee on Intelligence of the Senate, or the Permanent Select Committee on Intelligence of the House of Representatives, on an annual basis, a summary briefing and report on such agency's progress and plans in the declassification of national security information. Such briefing shall cover the declassification goals set by statute, regulation, or policy, the agency's progress with respect to such goals, and the agency's planned goals and priorities for its declassification activities over the next 2 fiscal years. Agency briefings and reports shall give particular attention to progress on the declassification of records and materials that are of archival value or extraordinary public interest to the people of the United States.
 
 (2)(A) The annual briefing and report under paragraph (1) for agencies within the Department of Defense, including the military departments and the elements of the intelligence community, shall be provided on a consolidated basis.
 
@@ -57,6 +57,8 @@
 &emsp;Any recommendations submitted to the President by the Board under section 3355a(b)(5) of this title,<sup>1</sup> shall be submitted to the chairman and ranking minority member of the committee of Congress that made the request relating to such recommendations.
 
 (Pub. L. 106–567, title VII, §704, Dec. 27, 2000, 114 Stat. 2859; Pub. L. 108–458, title I, §1102(c), (d), Dec. 17, 2004, 118 Stat. 3699; Pub. L. 110–53, title VI, §602(1), (2), Aug. 3, 2007, 121 Stat. 335.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

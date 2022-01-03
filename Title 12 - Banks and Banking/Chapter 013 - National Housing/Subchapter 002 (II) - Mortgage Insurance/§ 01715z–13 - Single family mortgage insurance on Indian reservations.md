@@ -2,7 +2,7 @@
 
 #### (a) One- to four-family residence; eligibility
 
-The Secretary, subject to such special conditions as the Secretary may prescribe, may insure under any provision of this subchapter that authorizes such insurance, a mortgage covering a property upon which there is located a one- to four-family residence, without regard to any limitation in this chapter relating to marketability of title or any other limitation in this chapter that the Secretary determines is contrary to promoting the availability of such insurance on Indian reservations if the mortgage\(1) is executed by an Indian tribe and the property is located on trust or otherwise restricted land; or (2) is executed by a member of an Indian tribe who will use the property as a principal residence and the property is on trust or otherwise restricted land.
+The Secretary, subject to such special conditions as the Secretary may prescribe, may insure under any provision of this subchapter that authorizes such insurance, a mortgage covering a property upon which there is located a one- to four-family residence, without regard to any limitation in this chapter relating to marketability of title or any other limitation in this chapter that the Secretary determines is contrary to promoting the availability of such insurance on Indian reservations if the mortgage (1) is executed by an Indian tribe and the property is located on trust or otherwise restricted land; or (2) is executed by a member of an Indian tribe who will use the property as a principal residence and the property is on trust or otherwise restricted land.
 
 #### (b) Construction advances; percentage limitation on amount of principal obligation; pledge of income from tribal resources or assets
 
@@ -30,7 +30,7 @@ A mortgage insured under this section may be assumed, subject to credit approval
 
 #### (f) Insurance of mortgage as obligation of General Insurance Fund
 
-Notwithstanding any other provision of this chapter, the insurance of a mortgage using the authority contained in this section shall be the obligation of the Mutual Mortgage Insurance Fund. The mortgagee shall be eligible to receive the benefits of insurance as provided in section 1710 of this title with respect to mortgages insured pursuant to this section, except that all references in section 1710 of this title to section 1709 of this title shall be construed to refer to the section under which the mortgage is insured.
+Notwithstanding any other provision of this chapter, the insurance of a mortgage using the authority contained in this section shall be the obligation of the Mutual Mortgage Insurance Fund. The mortgagee shall be eligible to receive the benefits of insurance as provided in section1710 of this title with respect to mortgages insured pursuant to this section, except that all references in section 1710 of this title to section 1709 of this title shall be construed to refer to the section under which the mortgage is insured.
 
 #### (g) Availability of status and payment history of loans; entitlement to benefit of insurance; reinstatement of loan upon cure of default; garnishment proceedings; foreclosure proceedings
 
@@ -42,7 +42,7 @@ Notwithstanding any other provision of this chapter, the insurance of a mortgage
 
 (4) If the Secretary determines that a mortgagor is not making a good-faith effort to cure a default, and that trust fund or tribal income is available under subsection (b)(3)(B), the Secretary shall commence proceedings for the garnishment of the mortgagor's distributed share of tribal or trust fund income in order to collect loan payments that are past due. Proceedings under this paragraph may be instituted in a tribal court, court of competent jurisdiction designated by the tribe, or Federal district court.
 
-(5) If the Secretary determines such action is necessary to protect the General Insurance Fund from undue loss, the Secretary may initiate foreclosure proceedings with respect to any mortgage acquired under this subsection. Suchproceeding may take place in a tribal court, a court of competent jurisdiction, or Federal district court. Any such court shall have jurisdiction to convey to the Secretary the remaining life of a lease on the real property and to order eviction of the delinquent mortgagor.
+(5) If the Secretary determines such action is necessary to protect the General Insurance Fund from undue loss, the Secretary may initiate foreclosure proceedings with respect to any mortgage acquired under this subsection. Such proceeding may take place in a tribal court, a court of competent jurisdiction, or Federal district court. Any such court shall have jurisdiction to convey to the Secretary the remaining life of a lease on the real property and to order eviction of the delinquent mortgagor.
 
 #### (h) Premium charge for insurance; report to Congress
 
@@ -70,7 +70,7 @@ The Alaska Native Claims Settlement Act, referred to in subsec. (i)(2), is Pub. 
 
 #### Amendments
 
-<b>2008</b>—Subsec. (f). Pub. L. 110–289 substituted "Mutual Mortgage Insurance Fund" for "General Insurance Fund established in section 1735c of this title" and struck out "(1) all references in section 1710 of this title to the Mutual Mortgage Insurance Fund or the Fund shall be construed to refer to the General Insurance Fund; and (2)" after "except that".
+<b>2008</b>—Subsec. (f). Pub. L. 110–289 substituted "Mutual Mortgage Insurance Fund" for "General Insurance Fund established in section 1735c of this title" and struck out "(1) all references in section 1710 of this title to the Mutual Mortgage Insurance Fund or the Fundshall be construed to refer to the General Insurance Fund; and (2)" after "except that".
 
 <b>1988</b>—Subsec. (a)(1). Pub. L. 100–242, §429(i)(1), substituted "land" for "lands".
 

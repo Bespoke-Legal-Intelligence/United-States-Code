@@ -14,5 +14,5 @@ Section 2476a, Pub. L. 85–568, title II, §207, as added Pub. L. 93–74, §7,
 
 Section 2476b, Pub. L. 85–568, title II, §208, as added Pub. L. 100–147, title I, §115, Oct. 30, 1987, 101 Stat. 866, related to Administrator's authority to accept gifts or donations for space shuttle orbiter, terminating five years after Oct. 30, 1987.
 
-Section 2477, Pub. L. 90–67, §6, Aug. 21, 1967, 81 Stat. 170; Pub. L. 94–307, §8, June 4, 1976, 90 Stat. 681; Pub. L. 99–234, title I, §107(f), Jan. 2, 1986, 99 Stat. 1759; Pub. L. 109–155, title I, §106, Dec. 30, 2005, 119 Stat. 2912, related to Aerospace Safety Advisory Panel. See section 31101 of Title 51.
+Section 2477, Pub. L. 90–67, §6, Aug. 21, 1967, 81 Stat. 170; Pub. L. 94–307, §8, June 4, 1976, 90 Stat. 681; Pub. L. 99–234, title I, §107(f), Jan. 2, 1986, 99 Stat. 1759; Pub. L. 109–155, title I, §106, Dec. 30, 2005, 119 Stat. 2912, relatedto Aerospace Safety Advisory Panel. See section 31101 of Title 51.
 

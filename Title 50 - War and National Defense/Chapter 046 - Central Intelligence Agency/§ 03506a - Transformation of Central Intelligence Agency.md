@@ -14,11 +14,15 @@ The Director of the Central Intelligence Agency shall, in accordance with standa
 
 (Pub. L. 108–458, title I, §1011(c), Dec. 17, 2004, 118 Stat. 3661.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 403–4b of this title prior to editorial reclassification and renumbering as this section.
 
-Section was enacted as part of the Intelligence Reform and Terrorism Prevention Act of 2004, and also as part of the National Security Intelligence Reform Actof 2004, and not as part of the Central Intelligence Agency Act of 1949 which comprises this chapter.
+Section was enacted as part of the Intelligence Reform and Terrorism Prevention Act of 2004, and also as part of the National Security Intelligence Reform Act of 2004, and not as part of the Central Intelligence Agency Act of 1949 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

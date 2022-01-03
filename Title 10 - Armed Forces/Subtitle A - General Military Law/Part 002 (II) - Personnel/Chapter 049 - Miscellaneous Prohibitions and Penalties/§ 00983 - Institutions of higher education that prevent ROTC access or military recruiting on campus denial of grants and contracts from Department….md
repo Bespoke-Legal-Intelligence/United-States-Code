@@ -2,7 +2,7 @@
 
 (a)
 
-Denial of Funds for Preventing ROTC Access to Campus.—No funds described in subsection (d)(1) may be provided by contract or by grant to an institution of higher education (including any subelement of such institution) ifthe Secretary of Defense determines that that institution (or any subelement of that institution) has a policy or practice (regardless of when implemented) that either prohibits, or in effect prevents—
+Denial of Funds for Preventing ROTC Access to Campus.—No funds described in subsection (d)(1) may be provided by contract or by grant to an institution of higher education (including any subelement of such institution) if the Secretary of Defense determines that that institution (or any subelement of that institution) has a policy or practice (regardless of when implemented) that either prohibits, or in effect prevents—
 
 &emsp;(1) the Secretary of a military department from maintaining, establishing, or operating a unit of the Senior Reserve Officer Training Corps (in accordance with section 654 <sup>1</sup> of this title and other applicable Federal laws) at that institution (or any subelement of that institution); or
 
@@ -56,6 +56,8 @@ Notice of Determinations.—Whenever the Secretary of Defense makes a determinat
 
 (Added Pub. L. 104–106, div. A, title V, §541(a), Feb. 10, 1996, 110 Stat. 315; amended Pub. L. 106–65, div. A, title V, §549(a)(1), Oct. 5, 1999, 113 Stat. 609; Pub. L. 107–296, title XVII, §1704(b)(1), (3), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title V, §552(a)–(d), Oct. 28, 2004, 118 Stat. 1911, 1912; Pub. L. 112–81, div. A, title X, §1061(11), Dec. 31, 2011, 125 Stat. 1583; Pub. L. 112–239, div. A, title V, §586, title X, §1076(f)(10), Jan. 2, 2013, 126 Stat. 1768, 1952; Pub. L. 116–283, div. A, title V, §521(b), Jan. 1, 2021, 134 Stat. 3597.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 654 of this title, referred to in subsec. (a)(1), was repealed by Pub. L. 111–321, §2(f)(1)(A), Dec. 22, 2010, 124 Stat. 3516.
@@ -100,6 +102,8 @@ Subsec. (d)(2)(B). Pub. L. 107–296, §1704(b)(3), substituted "Department of H
 
 <b>1999</b>—Pub. L. 106–65 amended section catchline and text generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to denial of Department of Defense grants and contracts to institutions of higher education that have anti-ROTC policies.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2004 Amendment
 
 Pub. L. 108–375, div. A, title V, §552(f), Oct. 28, 2004, 118 Stat. 1912, provided that: "The amendments made by this section \[amending this section and repealing provisions set out as a note under this section\] shall apply with respect to funds appropriated for fiscal year 2005 and thereafter."
@@ -110,7 +114,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Funds Available Solely for Student Financial Assistance
 
-Pub. L. 106–79, title VIII, §8120, Oct. 25, 1999, 113 Stat. 1260, provided that during fiscal year 2000 and thereafter, any Federal grant of funds to an institution of higher education to be available solely for student financial assistance or related administrative costs could be used for the purpose for which the grant was made without regard to any provision to the contrary in section 101(e) \[title V, §514\] of Pub. L. 104–208 (formerly 10 U.S.C. 503 note), or section 983 of this title, prior to repeal by Pub. L. 108–375, div. A, title V, §552(e), Oct. 28, 2004, 118 Stat. 1912.
+Pub. L. 106–79, title VIII, §8120, Oct. 25, 1999, 113 Stat. 1260, provided that during fiscal year 2000 and thereafter, any Federal grant of funds to an institution of higher education to be available solely for student financial assistance or related administrative costscould be used for the purpose for which the grant was made without regard to any provision to the contrary in section 101(e) \[title V, §514\] of Pub. L. 104–208 (formerly 10 U.S.C. 503 note), or section 983 of this title, prior to repeal by Pub. L. 108–375, div. A, title V, §552(e), Oct. 28, 2004, 118 Stat. 1912.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

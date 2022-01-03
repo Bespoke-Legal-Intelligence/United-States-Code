@@ -82,7 +82,7 @@ In this section:
 
 #### (C) Comparability
 
-&emsp;&emsp;The provisions of part C regarding the establishment or increase of an endowmentfund, that the Secretary determines are not inconsistent with this paragraph, shall apply to funds used under subparagraph (A).
+&emsp;&emsp;The provisions of part C regarding the establishment or increase of an endowment fund, that the Secretary determines are not inconsistent with this paragraph, shall apply to funds used under subparagraph (A).
 
 #### (d) Application, plan, and allocation
 
@@ -138,6 +138,8 @@ In this section:
 
 (Pub. L. 89–329, title III, §316, as added Pub. L. 102–325, title III, §302(d)(1), July 23, 1992, 106 Stat. 473; amended Pub. L. 103–208, §2(a)(7), Dec. 20, 1993, 107 Stat. 2457; Pub. L. 105–244, title III, §303(e), Oct. 7, 1998, 112 Stat. 1639; Pub. L. 106–211, §1(a), (b)(1), May 26, 2000, 114 Stat. 330; Pub. L. 110–315, title III, §303, Aug. 14, 2008, 122 Stat. 3167; Pub. L. 111–39, title III, §301(1), July 1, 2009, 123 Stat. 1936.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Tribally Controlled Colleges and Universities Assistance Act of 1978, referred to in subsec. (b)(3)(A), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, which is classified principally to chapter 20 (§1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
@@ -166,7 +168,7 @@ Subsec. (c)(2)(G) to (N). Pub. L. 110–315, §303(2)(D)–(H), added subpars. (
 
 Subsec. (d). Pub. L. 110–315, §303(3), added subsec. (d) and struck out former subsec. (d) which related to the application process for assistance under this section.
 
-<b>2000</b>—Subsec. (d)(2). Pub. L. 106–211, §1(a), inserted after first sentence "The Secretary shall, to the extentpossible, prescribe a simplified and streamlined format for such applications that takes into account the limited number of institutions that are eligible for assistance under this section."
+<b>2000</b>—Subsec. (d)(2). Pub. L. 106–211, §1(a), inserted after first sentence "The Secretary shall, to the extent possible, prescribe a simplified and streamlined format for such applications that takes into account the limited number of institutions that are eligible for assistance under this section."
 
 Subsec. (d)(3). Pub. L. 106–211, §1(b)(1), added par. (3) and struck out heading and text of former par. (3). Text read as follows: "For the purposes of this part, no Tribal College or University that is eligible for and receives funds under this section may concurrently receive other funds under this part or part B of this subchapter."
 
@@ -175,6 +177,8 @@ Subsec. (d)(3). Pub. L. 106–211, §1(b)(1), added par. (3) and struck out head
 <b>1993</b>—Subsec. (c). Pub. L. 103–208 substituted "(2)
 
 Examples of authorized activities.—Such programs may include—" for "Such programs may include—".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

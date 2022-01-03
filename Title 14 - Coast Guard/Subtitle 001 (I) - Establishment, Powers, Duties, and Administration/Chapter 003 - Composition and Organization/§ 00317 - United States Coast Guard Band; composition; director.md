@@ -8,7 +8,7 @@
 
 (d) An individual who is designated and commissioned under this section shall not be included on the active duty promotion list. He shall be promoted under section 2126 of this title. However, the grade of the director may not be higher than captain.
 
-(e) The Secretary may revoke any designation as director of the Coast Guard Band. When anindividual's designation is revoked, his appointment to commissioned grade under this section terminates and he is entitled, at his option—
+(e) The Secretary may revoke any designation as director of the Coast Guard Band. When an individual's designation is revoked, his appointment to commissioned grade under this section terminates and he is entitled, at his option—
 
 &emsp;(1) to be discharged from the Coast Guard; or
 

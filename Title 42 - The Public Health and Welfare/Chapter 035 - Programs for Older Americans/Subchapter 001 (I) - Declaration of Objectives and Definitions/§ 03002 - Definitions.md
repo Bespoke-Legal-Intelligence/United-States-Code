@@ -62,9 +62,9 @@ For the purposes of this chapter—
 
 &emsp;&emsp;(B) includes services and coordination such as—
 
-&emsp;&emsp;&emsp;(i) comprehensive assessment of the older individual (including the physical, psychological, and social needs of the individual);
+&emsp;&emsp;&emsp;(i) comprehensive assessment of the older individual (including the physical,psychological, and social needs of the individual);
 
-&emsp;&emsp;&emsp;(ii) development and implementation of a service plan with the older individual tomobilize the formal and informal resources and services identified in the assessment to meet the needs of the older individual, including coordination of the resources and services—
+&emsp;&emsp;&emsp;(ii) development and implementation of a service plan with the older individual to mobilize the formal and informal resources and services identified in the assessment to meet the needs of the older individual, including coordination of the resources and services—
 
 &emsp;&emsp;&emsp;&emsp;(I) with any other plans that exist for various formal services, such as hospital discharge plans; and
 
@@ -214,7 +214,7 @@ For the purposes of this chapter—
 
 &emsp;&emsp;(D) in-home respite care for families, and adult day care as a respite service for families;
 
-&emsp;&emsp;(E) minor modification of homes that is necessary to facilitate the ability of older individuals to remain at home and that is not available under another program (other than a program carried out under this chapter);
+&emsp;&emsp;(E) minor modification of homes that is necessary to facilitate the ability of olderindividuals to remain at home and that is not available under another program (other than a program carried out under this chapter);
 
 &emsp;&emsp;(F) personal care services; and
 
@@ -304,9 +304,9 @@ For the purposes of this chapter—
 
 &emsp;(43) The term "planning and service area" means an area designated by a State agency under section 3025(a)(1)(E) of this title, including a single planning and service area described in section 3025(b)(5)(A) of this title.
 
-&emsp;(44) The term "poverty line" means the official poverty line (as defined by the Office of Management and Budget, and adjusted by the Secretary in accordance with section 9902(2) of this title.<sup>2</sup>
+&emsp;(44) The term "poverty line" means the official poverty line (as defined by the Office of Management and Budget, and adjusted by theSecretary in accordance with section 9902(2) of this title.<sup>2</sup>
 
-&emsp;(45) The term "representative payee" means a person who is appointed by a governmentalentity to receive, on behalf of an older individual who is unable to manage funds by reason of a physical or mental incapacity, any funds owed to such individual by such entity.
+&emsp;(45) The term "representative payee" means a person who is appointed by a governmental entity to receive, on behalf of an older individual who is unable to manage funds by reason of a physical or mental incapacity, any funds owed to such individual by such entity.
 
 &emsp;(46) The term "Secretary" means the Secretary of Health and Human Services, except that for purposes of subchapter IX such term means the Secretary of Labor.
 
@@ -357,6 +357,8 @@ For the purposes of this chapter—
 &emsp;(56) Except for the purposes of subchapter X of this chapter, the term "tribal organization" means the recognized governing body of any Indian tribe, or any legally established organization of Indians which is controlled, sanctioned, or chartered by such governing body. In any case in which a contract is let or grant made to an organization to perform services benefiting more than one Indian tribe, the approval of each such Indian tribe shall be a prerequisite to the letting or making of such contract or grant.
 
 (Pub. L. 89–73, title I, §102, July 14, 1965, 79 Stat. 219; Pub. L. 90–42, §5(a), July 1, 1967, 81 Stat. 107; Pub. L. 91–69, §10(a), Sept. 17, 1969, 83 Stat. 114; Pub. L. 94–135, title I, §§104(b), 114(a), Nov. 28, 1975, 89 Stat. 714, 725; Pub. L. 95–478, title V, §503(a), Oct. 18, 1978, 92 Stat. 1559; Pub. L. 97–115, §2(a)(2), (3), Dec. 29, 1981, 95 Stat. 1595; Pub. L. 100–175, title I, §§136(a)(1), 146(a), 182(a), (b)(1), Nov. 29, 1987, 101 Stat. 942, 950, 964; Pub. L. 100–628, title VII, §705(1), Nov. 7, 1988, 102 Stat. 3247; Pub. L. 102–375, title I, §102(a), (b)(1)(A), title IX, §904(a)(2), Sept. 30, 1992, 106 Stat. 1197, 1200, 1306; Pub. L. 103–171, §§2(1), 3(a)(1), Dec. 2, 1993, 107 Stat. 1988, 1989; Pub. L. 105–244, title I, §102(a)(13)(C), Oct. 7, 1998, 112 Stat. 1620; Pub. L. 106–501, title I, §101, title VIII, §801(a), Nov. 13, 2000, 114 Stat. 2227, 2291; Pub. L. 108–36, title IV, §416, June 25, 2003, 117 Stat. 831; Pub. L. 109–365, title I, §101, Oct. 17, 2006, 120 Stat. 2523; Pub. L. 114–144, §§2, 9(1), Apr. 19, 2016, 130 Stat. 334, 351; Pub. L. 116–131, title I, §§103, 104(1), 105, 106(1), 107–113, title VII, §701(1), Mar. 25, 2020, 134 Stat. 242–245, 271.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -539,6 +541,8 @@ Pars. (4) to (6). Pub. L. 94–135, §104(b), added pars. (4) to (6).
 <b>1967</b>—Par. (2). Pub. L. 90–42, §5(a)(1), inserted ", unless the context otherwise requires," after "means".
 
 Par. (4). Pub. L. 90–42, §5(a)(2), enlarged term nonprofit institution or organization to include nonprofit agencies.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

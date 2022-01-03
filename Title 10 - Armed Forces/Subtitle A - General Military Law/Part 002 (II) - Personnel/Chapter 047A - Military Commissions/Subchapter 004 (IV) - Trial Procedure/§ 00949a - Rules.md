@@ -64,9 +64,11 @@ Delegation of Authority To Prescribe Regulations.—The Secretary of Defense may
 
 (d)
 
-Notice to Congress of Modification of Rules.—Not later than 60 days before the date on which any proposed modification of the rules in effect for military commissions under this chapter goes into effect, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report describing the proposed modification.
+Notice to Congress of Modification of Rules.—Not later than 60 days before the date on which any proposed modification of the rulesin effect for military commissions under this chapter goes into effect, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report describing the proposed modification.
 
 (Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2581; amended Pub. L. 112–81, div. A, title X, §1034(a), Dec. 31, 2011, 125 Stat. 1572.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

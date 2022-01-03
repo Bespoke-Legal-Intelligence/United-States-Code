@@ -72,7 +72,7 @@ Applications.—In order to receive a grant under the program, an applicant shal
 
 &emsp;(3)
 
-Non-federal share.—An applicant shall provide at least 20 percent of the project costsfrom non-Federal sources. In awarding grants under the program, the Secretary shall give a preference to those projects or components that present the most financially viable transportation services and require the lowest percentage Federal share of the costs.
+Non-federal share.—An applicant shall provide at least 20 percent of the project costs from non-Federal sources. In awarding grants under the program, the Secretary shall give a preference to those projects or components that present the most financially viable transportation services and require the lowest percentage Federal share of the costs.
 
 (Added Pub. L. 110–140, title XI, §1121(a), Dec. 19, 2007, 121 Stat. 1760; amended Pub. L. 111–84, div. C, title XXXV, §3515, Oct. 28, 2009, 123 Stat. 2724; Pub. L. 112–213, title IV, §405(a), Dec. 20, 2012, 126 Stat. 1571; Pub. L. 116–283, div. G, title LVXXXIII \[LXXXIII\], §8332(d)(3), Jan. 1, 2021, 134 Stat. 4704.)
 

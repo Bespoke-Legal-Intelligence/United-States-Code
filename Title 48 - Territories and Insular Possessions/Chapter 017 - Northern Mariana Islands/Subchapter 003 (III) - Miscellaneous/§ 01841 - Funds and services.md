@@ -26,6 +26,8 @@ Notwithstanding the provisions of the Food and Nutrition Act of 2008 \[7 U.S.C. 
 
 (Pub. L. 95–348, §3, Aug. 18, 1978, 92 Stat. 489; Pub. L. 96–205, title II, §204(a), Mar. 12, 1980, 94 Stat. 86; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(HH), May 22, 2008, 122 Stat. 1095, 1096, 1098; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(HH), June 18, 2008, 122 Stat. 1664, 1857, 1859.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsec. (b)(1), is Pub. L. 95–348, Aug. 18, 1978, 92 Stat. 487. For complete classification of this Act to the Code, see Tables.
@@ -54,9 +56,11 @@ March 12, 1980, referred to in subsec. (d)(2), was in the original "the date of 
 
 <b>1980</b>—Subsec. (d). Pub. L. 96–205 designated existing provisions as par. (1), inserted "or upon receipt of a resolution adopted by both houses of the legislature of the Northern Mariana Islands accompanied by a letter of request from either the Governor or the Lieutenant Governor of the Northern Mariana Islands," after "Constitution of the Northern Mariana Islands," the first place appearing, and added pars. (2) and (3).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 Amendment by section 4002(b)(1)(A), (B), (2)(HH) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 

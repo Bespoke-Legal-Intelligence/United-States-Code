@@ -4,6 +4,8 @@ The relations between the courts established by the Constitution or laws of the 
 
 (July 22, 1954, ch. 558, §23, 68 Stat. 506; Pub. L. 98–454, title VII, §704, Oct. 5, 1984, 98 Stat. 1739; Pub. L. 103–437, §17(a)(4), Nov. 2, 1994, 108 Stat. 4595; Pub. L. 112–226, §1, Dec. 28, 2012, 126 Stat. 1606.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Pub. L. 112–226 substituted a period for ": <i>Provided</i>, That for the first fifteen years following the establishment of the appellate court authorized by section 1611(a) of this title, the United States Court of Appeals for the Third Circuit shall have jurisdiction to review by writ of certiorari all final decisions of the highest court of the Virgin Islands from which a decision could be had. The Judicial Council of the Third Circuit shall submit reports to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives at intervals of five years following the establishment of such appellate court as to whether it has developed sufficient institutional traditions to justify direct review by the Supreme Court of the United States from all such final decisions. The United States Court of Appeals for the Third Circuit shall have jurisdiction to promulgate rules necessary to carry out the provisions of this section." at end.
@@ -12,9 +14,11 @@ The relations between the courts established by the Constitution or laws of the 
 
 <b>1984</b>—Pub. L. 98–454 amended section generally, substituting provisions relating to the relations between local law courts and already established courts under the Constitution or laws of the United States with respect to appeals, certiorari, etc. and providing that the Court of Appeals for the Third Circuit shall have jurisdiction to review all final decisions from the highest court of the Virgin Islands for fifteen years after the appellate court is established for former provisions relating to the jurisdiction of inferior courts, transfer of actions, status as committing court, bail and rules.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2012 Amendment
 
-Amendment by Pub. L. 112–226 applicable to cases commenced on or after Dec. 28, 2012, see section 3 of Pub. L. 112–226, set out as an Effective Date note under section 1260 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 112–226 applicable to cases commenced on or after Dec. 28, 2012, see section 3 ofPub. L. 112–226, set out as an Effective Date note under section 1260 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1984 Amendment
 

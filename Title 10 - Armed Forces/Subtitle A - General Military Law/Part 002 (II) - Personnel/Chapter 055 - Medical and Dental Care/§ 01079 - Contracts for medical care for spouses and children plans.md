@@ -20,7 +20,7 @@
 
 &emsp;(5) Durable equipment provided under this section may be provided on a rental basis.
 
-&emsp;(6) Services in connection with nonemergency inpatient hospital care may not be provided if such services are available at a facility of the uniformed services located within a 40-mile radius of the residence of the patient, except that those services may be provided in any case in which another insurance plan or program provides primary coverage for those services.
+&emsp;(6) Services in connection with nonemergency inpatient hospital care may not be provided if such services are available at a facility of the uniformed services located within a 40-mile radius of the residence of the patient, except that those services may be provided in any case in which another insuranceplan or program provides primary coverage for those services.
 
 &emsp;(7) Services of pastoral counselors, family and child counselors, or marital counselors (other than certified marriage and family therapists) may not be provided unless the patient has been referred to the counselor by a medical doctor for treatment of a specific problem with the results of that treatment to be communicated back to the medical doctor who made the referral and services of certified marriage and family therapists may be provided consistent with such rules as may be prescribed by the Secretary of Defense, including credentialing criteria and a requirement that the therapists accept payment under this section as full payment for all services provided.
 
@@ -60,13 +60,27 @@
 
 &emsp;(17) Breastfeeding support, supplies (including breast pumps and associated equipment), and counseling shall be provided as appropriate during pregnancy and the postpartum period.
 
+&emsp;(19) <sup>1</sup> Preconception and prenatal carrier screening tests shall be provided to eligible covered beneficiaries, with a limit per beneficiary of one test per condition per lifetime, for the following conditions:
+
+&emsp;&emsp;(A) Cystic Fibrosis.
+
+&emsp;&emsp;(B) Spinal Muscular Atrophy.
+
+&emsp;&emsp;(C) Fragile X Syndrome.
+
+&emsp;&emsp;(D) Tay-Sachs Disease.
+
+&emsp;&emsp;(E) Hemoglobinopathies.
+
+&emsp;&emsp;(F) Conditions linked with Ashkenazi Jewish descent.
+
 (b) Plans covered by subsection (a) shall include provisions for payment by the patient of the following amounts:
 
 &emsp;(1) $25 for each admission to a hospital, or the amount the patient would have been charged under section 1078(a) of this title had the care being paid for been obtained in a hospital of the uniformed services, whichever amount is the greater. The Secretary of Defense may exempt a patient from paying such amount if the hospital to which the patient is admitted does not impose a legal obligation on any of its patients to pay for inpatient care.
 
 &emsp;(2) Except as provided in clause (3), the first $150 each calendar year of the charges for all types of care authorized by subsection (a) and received while in an outpatient status and 20 percent of all subsequent charges for such care during a calendar year. Notwithstanding the preceding sentence, in the case of a dependent of an enlisted member in a pay grade below E–5, the initial deductible each calendar year under this paragraph shall be limited to $50.
 
-&emsp;(3) A family group of two or more persons covered by this section shall not be required to pay collectively more than the first $300 (or in the case of the family group of an enlisted member in a pay grade below E–5, the first $100) each calendar year of the charges for all types of care authorized by subsection (a) and received while in an outpatient status and 20 percent of the additional charges for such care during a calendar year.
+&emsp;(3) A family group of two or more persons covered by this section shall not be requiredto pay collectively more than the first $300 (or in the case of the family group of an enlisted member in a pay grade below E–5, the first $100) each calendar year of the charges for all types of care authorized by subsection (a) and received while in an outpatient status and 20 percent of the additional charges for such care during a calendar year.
 
 &emsp;(4) $25 for surgical care that is authorized by subsection (a) and received while in an outpatient status and that has been designated (under joint regulations to be prescribed by the administering Secretaries) as care to be treated as inpatient care for purposes of this subsection. Any care for which payment is made under this clause shall not be considered to be care received while in an outpatient status for purposes of clauses (2) and (3).
 
@@ -146,7 +160,7 @@
 
 &emsp;(B) The period ending on the date on which such dependent attains 21 years of age.
 
-&emsp;(C) In the case of such a dependent who, at 21 years of age, is enrolled in a full-time course of study in a secondary school or in a full-time course of study in an institution of higher education approved by the administering Secretary and was, at the time of the member's death, in fact dependent on themember for over one-half of such dependent's support, the period ending on the earlier of the following dates:
+&emsp;(C) In the case of such a dependent who, at 21 years of age, is enrolled in a full-time course of study in a secondary school or in a full-time course of study in an institution of higher education approved by the administering Secretary and was, at the time of the member's death, in fact dependent on the member for over one-half of such dependent's support, the period ending on the earlier of the following dates:
 
 &emsp;&emsp;(i) The date on which such dependent ceases to pursue such a course of study, as determined by the administering Secretary.
 
@@ -162,7 +176,7 @@
 
 (2) The Secretary of Defense, in consultation with the other administering Secretaries, shall prescribe regulations to provide for such exceptions to the payment limitations under paragraph (1) as the Secretary determines to be necessary to assure that covered beneficiaries retain adequate access to health care services. Such exceptions may include the payment of amounts higher than the amount allowed under paragraph (1) when enrollees in managed care programs obtain covered services from nonparticipating providers. To provide a suitable transition from the payment methodologies in effect before February 10, 1996, to the methodology required by paragraph (1), the amount allowable for any service may not be reduced by more than 15 percent below the amount allowed for the same service during the immediately preceding 12-month period (or other period as established by the Secretary of Defense).
 
-(3) In addition to the authority provided under paragraph (2), the Secretary of Defense may authorize the commander of a facility of the uniformed services, the lead agent (if other than the commander), and the health care contractor to modify the payment limitations under paragraph (1) for certain health care providers when necessary to ensure both the availability of certain services for covered beneficiaries and lower costs than would otherwise be incurred to provide the services. With the consent of the health care provider, the Secretary is also authorized to reduce the authorized payment for certain health care services below the amount otherwise required by the payment limitations under paragraph (1).
+(3) In addition to the authority provided under paragraph (2), the Secretary of Defense may authorize the commander of a facility of the uniformed services, the lead agent (if other than the commander), and the health care contractor to modify the payment limitations under paragraph (1) for certain health care providers when necessary to ensure both the availability of certain services for covered beneficiaries and lower costs than would otherwise be incurred to provide the services. With the consent of the health care provider, the Secretary is also authorizedto reduce the authorized payment for certain health care services below the amount otherwise required by the payment limitations under paragraph (1).
 
 (4)(A) The Secretary of Defense, in consultation with the other administering Secretaries, shall prescribe regulations to establish limitations (similar to the limitations established under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.)) on beneficiary liability for charges of an individual health care professional (or other noninstitutional health care provider).
 
@@ -200,7 +214,7 @@
 
 (l)(1) Subject to paragraph (2), the Secretary of Defense may, upon request, make payments under this section for a charge for services for which a claim is submitted under a plan contracted for under subsection (a) to a hospital that does not impose a legal obligation on any of its patients to pay for such services.
 
-(2) A payment under paragraph (1) may not exceed the average amount paid for comparable services in the geographic area in which the hospital is located or, if no comparable services are available in that area, in an area similar to the area in which the hospital is located.
+(2) A payment under paragraph (1) may not exceed the average amount paid for comparableservices in the geographic area in which the hospital is located or, if no comparable services are available in that area, in an area similar to the area in which the hospital is located.
 
 (3) The Secretary of Defense shall periodically review the billing practices of each hospital the Secretary approves for payment under this subsection to ensure that the hospital's practices of not billing patients for payment are not resulting in increased costs to the Government.
 
@@ -232,7 +246,33 @@
 
 (q) In the case of any pharmaceutical agent (as defined in section 1074g(i) of this title) provided under a contract entered into under this section by a physician, in an outpatient department of a hospital, or otherwise as part of any medical services provided under such a contract, the Secretary of Defense may, under regulations prescribed by the Secretary, adopt special reimbursement methods, amounts, and procedures to encourage the use of high-value products and discourage the use of low-value products, as determined by the Secretary.
 
-(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1448; amended Pub. L. 89–614, §2(6), Sept. 30, 1966, 80 Stat. 863; Pub. L. 92–58, §1, July 29, 1971, 85 Stat. 157; Pub. L. 95–485, title VIII, §806(a)(1), Oct. 20, 1978, 92 Stat. 1622; Pub. L. 96–342, title VIII, §810(a), (b), Sept. 8, 1980, 94 Stat. 1097; Pub. L. 96–513, title V, §§501(13), 511(36), (38), Dec. 12, 1980, 94 Stat. 2908, 2923; Pub. L. 96–552, Dec. 19, 1980, 94 Stat. 3254; Pub. L. 97–22, §11(a)(2), July 10, 1981, 95 Stat. 137; Pub. L. 97–86, title IX, §906(a)(1), Dec. 1, 1981, 95 Stat. 1117; Pub. L. 98–94, title IX, §931(a), title XII, §1268(4), Sept. 24, 1983, 97 Stat. 648, 705; Pub. L. 98–525, title VI, §632(a)(1), title XIV, §§1401(e)(4), 1405(23), Oct. 19, 1984, 98 Stat. 2543, 2617, 2623; Pub. L. 98–557, §19(7), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–661, div. A, title VI, §652(d), title VII, §703, Nov. 14, 1986, 100 Stat. 3889, 3900; Pub. L. 100–180, div. A, title VII, §§721(a), 726(a), Dec. 4, 1987, 101 Stat. 1115, 1117; Pub. L. 100–456, div. A, title VI, §646(a), Sept. 29, 1988, 102 Stat. 1989; Pub. L. 101–189, div. A, title VII, §730(a), Nov. 29, 1989, 103 Stat. 1481; Pub. L. 101–510, div. A, title VII, §§701(a), 702(a), 703(a), (b), 712(a), title XIV, §1484(g)(1), Nov. 5, 1990, 104 Stat. 1580, 1581, 1583, 1717; Pub. L. 102–25, title III, §316(b), Apr. 6, 1991, 105 Stat. 87; Pub. L. 102–190, div. A, title VII, §§702(b), 711, 712(a), 713, Dec. 5, 1991, 105 Stat. 1400, 1402, 1403; Pub. L. 102–484, div. A, title VII, §704, title X, §§1052(13), 1053(3), Oct. 23, 1992, 106 Stat. 2432, 2499, 2501; Pub. L. 103–35, title II, §202(a)(5), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. A, title VII, §§711, 716(c), Nov. 30, 1993, 107 Stat. 1688, 1693; Pub. L. 103–337, div. A, title VII, §§702(a), 707(a), Oct. 5, 1994, 108 Stat. 2797, 2800; Pub. L. 104–106, div. A, title VII, §§701, 731(a)–(d), Feb. 10, 1996, 110 Stat. 370, 380, 381; Pub. L. 104–201, div. A, title VII, §§701(b)(2), 711, 731, 732, 735(c), Sept. 23, 1996, 110 Stat. 2587, 2590, 2597, 2599; Pub. L. 105–85, div. A, title VII, §735, Nov. 18, 1997, 111 Stat. 1813; Pub. L. 106–398, §1 \[\[div. A\], title VII, §§701(c)(1), 704(b), 722(b)(1), 757(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–172, 1654A–175, 1654A–185, 1654A–198; Pub. L. 107–107, div. A, title VII, §§701(b), (g)(2), 703(b), 707(a), (b), title X, §1048(c)(5), Dec. 28, 2001, 115 Stat. 1158, 1161–1163, 1226; Pub. L. 107–314, div. A, title VII, §§701(a), §702, §705(a), Dec. 2, 2002, 116 Stat. 2583, 2584; Pub. L. 108–375, div. A, title VII, §705, Oct. 28, 2004, 118 Stat. 1983; Pub. L. 109–163, div. A, title VII, §§714, 715(a), Jan. 6, 2006, 119 Stat. 3344; Pub. L. 109–364, div. A, title VII, §§701, 702, 703(b), Oct. 17, 2006, 120 Stat. 2279; Pub. L. 110–417, \[div. A\], title VII, §732, Oct. 14, 2008, 122 Stat. 4511; Pub. L. 111–84, div. A, title X, §1073(a)(12), Oct. 28, 2009, 123 Stat. 2473; Pub. L. 113–291, div. A, title VII, §§703(a), (c)(1), 706, Dec. 19, 2014, 128 Stat. 3411–3413; Pub. L. 114–328, div. A, title VI, §618(b), title VII, §748(b), Dec. 23, 2016, 130 Stat. 2160, 2242; Pub. L. 115–91, div. A, title VII, §§702(b)(2), 704, 739(d)(1), Dec. 12, 2017, 131 Stat. 1434, 1435, 1447; Pub. L. 115–232, div. A, title VII, §715(b), Aug. 13, 2018, 132 Stat. 1814; Pub. L. 116–283, div. A, title VII, §§703–704(b), title X, §1081(a)(25), Jan. 1, 2021, 134 Stat. 3687, 3688, 3872.)
+(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1448; amended Pub. L. 89–614, §2(6), Sept. 30, 1966, 80 Stat. 863; Pub. L. 92–58, §1, July 29, 1971, 85 Stat. 157; Pub. L. 95–485, title VIII, §806(a)(1), Oct. 20, 1978, 92 Stat. 1622; Pub. L. 96–342, title VIII, §810(a), (b), Sept. 8, 1980, 94 Stat. 1097; Pub. L. 96–513, title V, §§501(13), 511(36), (38), Dec. 12, 1980, 94 Stat. 2908, 2923; Pub. L. 96–552, Dec. 19, 1980, 94 Stat. 3254; Pub. L. 97–22, §11(a)(2), July 10, 1981, 95 Stat. 137; Pub. L. 97–86, title IX, §906(a)(1), Dec. 1, 1981, 95 Stat. 1117; Pub. L. 98–94, title IX, §931(a), title XII, §1268(4), Sept. 24, 1983, 97 Stat. 648, 705; Pub. L. 98–525, title VI, §632(a)(1), title XIV, §§1401(e)(4), 1405(23), Oct. 19, 1984, 98 Stat. 2543, 2617, 2623; Pub. L. 98–557, §19(7), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–661, div. A, title VI, §652(d), title VII, §703, Nov. 14, 1986, 100 Stat. 3889, 3900; Pub. L. 100–180, div. A, title VII, §§721(a), 726(a), Dec. 4, 1987, 101 Stat. 1115, 1117; Pub. L. 100–456, div. A, title VI, §646(a), Sept. 29, 1988, 102 Stat. 1989; Pub. L. 101–189, div. A, title VII, §730(a), Nov. 29, 1989, 103 Stat. 1481; Pub. L. 101–510, div. A, title VII, §§701(a), 702(a), 703(a), (b), 712(a), title XIV, §1484(g)(1), Nov. 5, 1990, 104 Stat. 1580, 1581, 1583, 1717; Pub. L. 102–25, title III, §316(b), Apr. 6, 1991, 105 Stat. 87; Pub. L. 102–190, div. A, title VII, §§702(b), 711, 712(a), 713, Dec. 5, 1991, 105 Stat.1400, 1402, 1403; Pub. L. 102–484, div. A, title VII, §704, title X, §§1052(13), 1053(3), Oct. 23, 1992, 106 Stat. 2432, 2499, 2501; Pub. L. 103–35, title II, §202(a)(5), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. A, title VII, §§711, 716(c), Nov. 30, 1993, 107 Stat. 1688, 1693; Pub. L. 103–337, div. A, title VII, §§702(a), 707(a), Oct. 5, 1994, 108 Stat. 2797, 2800; Pub. L. 104–106, div. A, title VII, §§701, 731(a)–(d), Feb. 10, 1996, 110 Stat. 370, 380, 381; Pub. L. 104–201, div. A, title VII, §§701(b)(2), 711, 731, 732, 735(c), Sept. 23, 1996, 110 Stat. 2587, 2590, 2597, 2599; Pub. L. 105–85, div. A, title VII, §735, Nov. 18, 1997, 111 Stat. 1813; Pub. L. 106–398, §1 \[\[div. A\], title VII, §§701(c)(1), 704(b), 722(b)(1), 757(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–172, 1654A–175, 1654A–185, 1654A–198; Pub. L. 107–107, div. A, title VII, §§701(b), (g)(2), 703(b), 707(a), (b), title X, §1048(c)(5), Dec. 28, 2001, 115 Stat. 1158, 1161–1163, 1226; Pub. L. 107–314, div. A, title VII, §§701(a), §702, §705(a), Dec. 2, 2002, 116 Stat. 2583, 2584; Pub. L. 108–375, div. A, title VII, §705, Oct. 28, 2004, 118 Stat. 1983; Pub. L. 109–163, div. A, title VII, §§714, 715(a), Jan. 6, 2006, 119 Stat. 3344; Pub. L. 109–364, div. A, title VII, §§701, 702, 703(b), Oct. 17, 2006, 120 Stat. 2279; Pub. L. 110–417, \[div. A\], title VII, §732, Oct. 14, 2008, 122 Stat. 4511; Pub. L. 111–84, div. A, title X, §1073(a)(12), Oct. 28, 2009, 123 Stat. 2473; Pub. L. 113–291, div. A, title VII, §§703(a), (c)(1), 706, Dec. 19, 2014, 128 Stat. 3411–3413; Pub. L. 114–328, div. A, title VI, §618(b), title VII, §748(b), Dec. 23, 2016, 130 Stat. 2160, 2242; Pub. L. 115–91, div. A, title VII, §§702(b)(2), 704, 739(d)(1), Dec. 12, 2017, 131 Stat. 1434, 1435, 1447; Pub. L. 115–232, div. A, title VII, §715(b), Aug. 13, 2018, 132 Stat. 1814; Pub. L. 116–283, div. A, title VII, §§703–704(b), title X, §1081(a)(25), Jan. 1, 2021, 134 Stat. 3687, 3688, 3872; Pub. L. 117–81, div. A, title VII, §§701(a), 702, Dec. 27, 2021, 135 Stat. 1777, 1779.)
+
+#### Amendment of Section
+
+<i>Pub. L. 117–81, div. A, title VII, §701(a), (d), Dec. 27, 2021, 135 Stat. 1777, 1779, provided that, effective Oct. 1, 2022, this section is amended:</i>
+
+<i>(1) in subsection (a), by adding at the end the following new paragraph:</i>
+
+&emsp;<i>"(18) Treatment for eating disorders may be provided in accordance with subsection (r)."; and</i>
+
+<i>(2) by adding at the end the following new subsection:</i>
+
+<i>(r)(1) The provision of health care services for an eating disorder under subsection (a)(18) may include the following services:</i>
+
+&emsp;<i>(A) Outpatient services for in-person or telehealth care, including partial hospitalization services and intensive outpatient services.</i>
+
+&emsp;<i>(B) Inpatient services, which shall include residential services only if medically indicated for treatment of a primary diagnosis of an eating disorder.</i>
+
+<i>(2) A dependent provided health care services for an eating disorder under subsection (a)(18) shall be provided such services without regard to—</i>
+
+&emsp;<i>(A) the age of the dependent, except with respect to residential services under paragraph (1)(B), which may be provided only to a dependent who is not eligible for hospital insurance benefits under part A of title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.); and</i>
+
+&emsp;<i>(B) except as otherwise specified in paragraph (1)(B), whether the eating disorder is the primary or secondary diagnosis of the dependent.</i>
+
+<i>(3) In this section, the term "eating disorder" has the meaning given the term "feeding and eating disorders" in the Diagnostic and Statistical Manual of Mental Disorders, 5th Edition (or successor edition), published by the American Psychiatric Association.</i>
+
+<i>See 2021 Amendment notes below.</i>
 
 Historical and Revision Notes
 
@@ -266,7 +306,9 @@ In subsection (a)(1), the word "rooms", in 37:411(a), is substituted for the wor
 
 In subsection (a)(5), the word "services" is substituted for the word "procedures" and the word "performed" is substituted for the word "accomplished", in 37: 411(a). The words "or surgeon" are inserted for clarity.
 
-In subsection (b), the word "variances" is substituted for the words "limitations, additions, exclusions". The words "or care other than that provided for in sections 1076–1078 of this title" are substituted for 37:414. Thewords "definitions, and related provisions", in 37:411(b), are omitted as surplusage, since the Secretary of an executive department has inherent authority to interpret laws and issue regulations.
+In subsection (b), the word "variances" is substituted for the words "limitations, additions, exclusions". The words "or care other than that provided for in sections 1076–1078 of this title" are substituted for 37:414. The words "definitions, and related provisions", in 37:411(b), are omitted as surplusage, since the Secretary of an executive department has inherent authority to interpret laws and issue regulations.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -308,11 +350,17 @@ A prior section 1079, act Aug. 10, 1956, ch. 1041, 70A Stat. 84, related to esta
 
 <b>2021</b>—Subsec. (a)(12). Pub. L. 116–283, §703, substituted "certified clinical social worker, or other class of provider as designated by the Secretary of Defense," for "or certified clinical social worker,".
 
+Subsec. (a)(18). Pub. L. 117–81, §701(a)(1), which directed adding par. (18) at the end of subsec. (a), effective after the addition of par. (19), was executed by adding it before par. (19) to reflect the probable intent of Congress.
+
+Subsec. (a)(19). Pub. L. 117–81, §702, added par. (19).
+
 Subsec. (e). Pub. L. 116–283, §704(a), amended subsec. (e) generally. Prior to amendment, subsec. (e) related to extended benefits for eligible dependents.
 
 Subsec. (f)(2), (4). Pub. L. 116–283, §704(b), substituted "subparagraph (C), (E), (F), or (G) of subsection (e)(1)" for "paragraph (3) or (4) of subsection (e)".
 
 Subsec. (q). Pub. L. 116–283, §1081(a)(25), substituted "section 1074g(i)" for "section 1074g(h)".
+
+Subsec. (r). Pub. L. 117–81, §701(a)(2), added subsec. (r).
 
 <b>2018</b>—Subsec. (q). Pub. L. 115–232 substituted "section 1074g(h)" for "section 1074g(g)".
 
@@ -604,6 +652,12 @@ Subsec. (b). Pub. L. 89–614 incorporated existing provisions of subsec. (a)(6)
 
 Subsecs. (c) to (f). Pub. L. 89–614 added subsecs. (c) to (f).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Pub. L. 117–81, div. A, title VII, §701(d), Dec. 27, 2021, 135 Stat. 1779, provided that: "The amendments made by this section \[enacting section 1090a of this title, transferring former section 1090a of this title to section 1090b of this title, and amending this section and section 1086 of this title\] shall take effect on October 1, 2022."
+
 #### Effective Date of 2006 Amendment
 
 Pub. L. 109–163, div. A, title VII, §715(b), Jan. 6, 2006, 119 Stat. 3345, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on October 7, 2001, and shall apply with respect to deaths occurring on or after that date."
@@ -630,7 +684,7 @@ Pub. L. 103–337, div. A, title VII, §707(c), Oct. 5, 1994, 108 Stat. 2801, pr
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–35 applicable as if included in the enactment of Pub. L. 102–484, see section202(b) of Pub. L. 103–35, set out as a note under section 155 of this title.
+Amendment by Pub. L. 103–35 applicable as if included in the enactment of Pub. L. 102–484, see section 202(b) of Pub. L. 103–35, set out as a note under section 155 of this title.
 
 #### Effective Date of 1992 Amendment
 
@@ -642,7 +696,7 @@ Pub. L. 102–25, title III, §316(b), Apr. 6, 1991, 105 Stat. 87, provided that
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–510, div. A, title VII, §701(b), Nov. 5, 1990, 104 Stat. 1580, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to the provision of pap smears and mammograms under section 1079 or 1086 of title 10, United States Code, on or after the date of the enactment of this Act \[Nov. 5, 1990\]."
+Pub. L. 101–510, div. A, title VII, §701(b), Nov. 5, 1990, 104 Stat. 1580, provided that: "The amendment made bysubsection (a) \[amending this section\] shall apply to the provision of pap smears and mammograms under section 1079 or 1086 of title 10, United States Code, on or after the date of the enactment of this Act \[Nov. 5, 1990\]."
 
 Pub. L. 101–510, div. A, title VII, §702(b), Nov. 5, 1990, 104 Stat. 1581, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to the services of certified marriage and family therapists provided under section 1079 or 1086 of title 10, United States Code, on or after the date of the enactment of this Act \[Nov. 5, 1990\]."
 
@@ -822,7 +876,7 @@ Pub. L. 102–484, div. A, title VII, §702, Oct. 23, 1992, 106 Stat. 2431, as a
 
 #### Correction of Omission in Delay of Increase of CHAMPUS Deductibles Related to Operation Desert Storm
 
-Pub. L. 102–484, div. A, title VII, §721, Oct. 23, 1992, 106 Stat. 2438, provided that during the period beginning on Apr. 1, 1991, and ending on Sept. 30, 1991, the annual deductibles specified in this section or section 1086 of this title applicable to CHAMPUS beneficiaries who had served on active duty in the Persian Gulf theaterof operations in connection with Operation Desert Storm would not exceed the annual deductibles in effect on Nov. 4, 1990, and provided for the credit or reimbursement of excess amounts paid.
+Pub. L. 102–484, div. A, title VII, §721, Oct. 23, 1992, 106 Stat. 2438, provided that during the period beginning on Apr. 1, 1991, and ending on Sept. 30, 1991, the annual deductibles specified in this section or section 1086 of this title applicable to CHAMPUS beneficiaries who had served on active duty in the Persian Gulf theater of operations in connection with Operation Desert Storm would not exceed the annual deductibles in effect on Nov. 4, 1990, and provided for the credit or reimbursement of excess amounts paid.
 
 #### Temporary CHAMPUS Provisions for Dependents of Operation Desert Shield/Desert Storm Active Duty Personnel
 
@@ -835,4 +889,6 @@ Pub. L. 102–25, title III, §312, Apr. 6, 1991, 105 Stat. 85, provided that th
 #### Transitional Health Care for Members, or Dependents of Members, Upon Release of Member From Active Duty in Connection With Operation Desert Storm
 
 For provision authorizing transitional health care, including health benefits contracted for under subsec. (a) of this section, for members, or dependents of members, upon release of member from active duty in connection with Operation Desert Storm, see section 313 of Pub. L. 102–25, set out as a note under section 1076 of this title.
+
+<i><sup>1</sup></i><i> For delayed enactment of par. (18), see Amendment of Section note below.</i>
 

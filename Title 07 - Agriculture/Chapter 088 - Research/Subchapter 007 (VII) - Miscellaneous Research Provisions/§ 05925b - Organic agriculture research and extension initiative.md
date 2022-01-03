@@ -86,6 +86,8 @@ On October 1, 2003, and each October 1 thereafter through October 1, 2007, out o
 
 (Pub. L. 101–624, title XVI, §1672B, as added Pub. L. 105–185, title II, §244, June 23, 1998, 112 Stat. 555; amended Pub. L. 107–171, title VII, §7218, May 13, 2002, 116 Stat. 449; Pub. L. 110–234, title VII, §§7206(a), 7406(d)(3), May 22, 2008, 122 Stat. 1238, 1252; Pub. L. 110–246, §4(a), title VII, §§7206(a), 7406(d)(3), June 18, 2008, 122 Stat. 1664, 1999, 2013; Pub. L. 112–240, title VII, §701(e)(1), Jan. 2, 2013, 126 Stat. 2364; Pub. L. 113–79, title VII, §§7128(b)(2)(D), 7211, Feb. 7, 2014, 128 Stat. 879, 885; Pub. L. 115–334, title VII, §§7210, 7614(b)(2)(D), Dec. 20, 2018, 132 Stat. 4811, 4835.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -142,9 +144,11 @@ Subsec. (a)(4) to (6). Pub. L. 107–171, §7218(1)(B)–(D), added pars. (4) to
 
 Subsec. (e). Pub. L. 107–171, §7218(2), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: "There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2002."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
-Amendment by section 7614(b)(2)(D) of Pub. L. 115–334 applicable to grants, cooperative agreements, or other awards made after Dec. 20, 2018, with matching fundsrequirement in effect on Dec. 20, 2018, to continue to apply to such grant, cooperative agreement, or other award, see section 7614(c) of Pub. L. 115–334, set out as a note under section 3151 of this title.
+Amendment by section 7614(b)(2)(D) of Pub. L. 115–334 applicable to grants, cooperative agreements, or other awards made after Dec. 20, 2018, with matching funds requirement in effect on Dec. 20, 2018, to continue to apply to such grant, cooperative agreement, or other award, see section 7614(c) of Pub. L. 115–334, set out as a note under section 3151 of this title.
 
 #### Effective Date of 2013 Amendment
 

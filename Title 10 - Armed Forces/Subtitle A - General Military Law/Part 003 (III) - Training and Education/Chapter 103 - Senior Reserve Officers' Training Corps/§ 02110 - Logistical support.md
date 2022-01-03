@@ -16,7 +16,9 @@
 
 (f) The Secretary of the military department concerned shall require, from each institution to which property is issued under subsection (a), a bond or other indemnity in such amount as he considers adequate, but not less than $5,000, for the care and safekeeping of all property so issued except uniforms, expendable articles, and supplies expended in operation, maintenance, and instruction. The Secretary may accept a bond without surety if the institution to which the property is issued furnishes to him satisfactory evidence of its financial responsibility.
 
-(Added Pub. L. 88–647, title II, §201(1), Oct. 13, 1964, 78 Stat. 1069; amended Pub. L. 89–718, §18,Nov. 2, 1966, 80 Stat. 1118; Pub. L. 94–273, §11(2), Apr. 21, 1976, 90 Stat. 378; Pub. L. 97–375, title I, §104(c), Dec. 21, 1982, 96 Stat. 1819.)
+(Added Pub. L. 88–647, title II, §201(1), Oct. 13, 1964, 78 Stat. 1069; amended Pub. L. 89–718, §18, Nov. 2, 1966, 80 Stat. 1118; Pub. L. 94–273, §11(2), Apr. 21, 1976, 90 Stat. 378; Pub. L. 97–375, title I, §104(c), Dec. 21, 1982, 96 Stat. 1819.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

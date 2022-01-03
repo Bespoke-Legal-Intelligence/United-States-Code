@@ -164,7 +164,7 @@ Pub. L. 94–433, title IV, §406, Sept. 30, 1976, 90 Stat. 1380, provided that:
 
 #### Effective Date of Future Increases
 
-Pub. L. 98–223, title I, §108, Mar. 2, 1984, 98 Stat. 40, provided that: "It is the sense of the Congress that any increase provided by law to take effect after fiscal year 1984 in the rates of disability compensation and dependency and indemnity compensation payable under chapters 11 and 13, respectively, of title 38, United States Code, shall take effect on December 1 of the fiscal year involved and that the budgets for any such fiscal year include amounts to achieve such purpose."
+Pub. L. 98–223, title I, §108, Mar. 2, 1984, 98 Stat. 40, provided that: "It is the sense of the Congress that anyincrease provided by law to take effect after fiscal year 1984 in the rates of disability compensation and dependency and indemnity compensation payable under chapters 11 and 13, respectively, of title 38, United States Code, shall take effect on December 1 of the fiscal year involved and that the budgets for any such fiscal year include amounts to achieve such purpose."
 
 \[Section 108 of Pub. L. 98–223 effective Apr. 1, 1984, see section 107 of Pub. L. 98–223, set out as a note under section 1114 of this title.\]
 

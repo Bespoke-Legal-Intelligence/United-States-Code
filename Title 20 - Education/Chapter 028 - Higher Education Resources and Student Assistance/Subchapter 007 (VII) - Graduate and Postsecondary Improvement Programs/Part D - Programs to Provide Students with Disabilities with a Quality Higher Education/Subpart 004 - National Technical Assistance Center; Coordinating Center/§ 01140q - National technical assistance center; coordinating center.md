@@ -106,7 +106,7 @@
 
 #### (2) In general
 
-&emsp;From amounts appropriated under section 1140r of this title, the Secretary shall enterinto a cooperative agreement, on a competitive basis, with an eligible entity for the purpose of establishing a coordinating center for institutions of higher education that offer inclusive comprehensive transition and postsecondary programs for students with intellectual disabilities, including institutions participating in grants authorized under subpart 2, to provide—
+&emsp;From amounts appropriated under section 1140r of this title, the Secretary shall enter into a cooperative agreement, on a competitive basis, with an eligible entity for the purpose of establishing a coordinating center for institutions of higher education that offer inclusive comprehensive transition and postsecondary programs for students with intellectual disabilities, including institutions participating in grants authorized under subpart 2, to provide—
 
 &emsp;&emsp;(A) recommendations related to the development of standards for such programs;
 
@@ -171,6 +171,8 @@
 &emsp;Not later than five years after the date of the establishment of the coordinating center under this subsection, the coordinating center shall report to the Secretary, the authorizing committees, and the National Advisory Committee on Institutional Quality and Integrity on the recommendations of the workgroup described in paragraph (5)(J).
 
 (Pub. L. 89–329, title VII, §777, as added Pub. L. 110–315, title VII, §709(2), Aug. 14, 2008, 122 Stat. 3373.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

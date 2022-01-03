@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-The purposes of this section are to provide assistance to restore or maintain the financial soundness, to assist in the improvement of the management, to permit capital improvements to be made to maintain certain projects as decent, safe, and sanitary housing, and to maintain the low- to moderate-income character of certainprojects assisted or approved for assistance under the National Housing Act \[12 U.S.C. 1701 et seq.\], the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], the Housing Act of 1959, or the Housing and Urban Development Act of 1965, without regard to whether such projects are insured under the National Housing Act.
+The purposes of this section are to provide assistance to restore or maintain the financial soundness, to assist in the improvement of the management, to permit capital improvements to be made to maintain certain projects as decent, safe, and sanitary housing, and to maintain the low- to moderate-income character of certain projects assisted or approved for assistance under the National Housing Act \[12 U.S.C. 1701 et seq.\], the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], the Housing Act of 1959, or the Housing and Urban Development Act of 1965, without regard to whether such projects are insured under the National Housing Act.
 
 #### (b) Availability of financial assistance
 
@@ -28,7 +28,7 @@ No assistance may be made available under this section unless the Secretary has 
 
 &emsp;(2) the assistance which could reasonably be expected to be provided over the useful life of the project will be less costly to the Federal Government than other reasonable alternatives by which the Secretary could maintain the low- and moderate-income character of the project;
 
-&emsp;(3) the owner of the project, together with the mortgagee in the case of a project not insured under the National Housing Act \[12 U.S.C. 1701 et seq.\], has provided or has agreed to provide assistance to the project in such manner as the Secretary may determine;
+&emsp;(3) the owner of the project, together with the mortgagee in the case of a project not insured under the National Housing Act \[12 U.S.C. 1701 et seq.\], has provided or has agreedto provide assistance to the project in such manner as the Secretary may determine;
 
 &emsp;(4) the project is or can reasonably be made structurally sound, as determined on the basis of information obtained as a result of an onsite inspection of the project;
 
@@ -46,7 +46,7 @@ No assistance may be made available under this section unless the Secretary has 
 
 #### (e) Consultation with local officials
 
-Prior to making assistance available to a project, the Secretary shall consult with the appropriate officials of the unit of local governmentin which such project is located and seek assurances that—
+Prior to making assistance available to a project, the Secretary shall consult with the appropriate officials of the unit of local government in which such project is located and seek assurances that—
 
 &emsp;(1) the community in which the project is located is or will provide essential services to the project in keeping with the community's general level of such services;
 
@@ -78,7 +78,7 @@ Prior to making assistance available to a project, the Secretary shall consult w
 
 > except that—
 
-&emsp;(E) in computing the estimated amount of rent to be expended by tenants, the Secretary shall provide that (i) at least 25 percent (or such lesser percentage as is provided for under any other Federal housing assistance program in which such tenant is participating) of the income of each such tenant is included, or (ii) in the case of a tenant paying his or her own utilities, a percentage of income which is less than 25 percent and which takes into account the reasonable costs of such utilities; except that no amount shall be provided for any tenant under clause (i) or (ii) which exceeds the fair market rental charge as determined pursuant to section 236(f)(1) of the National Housing Act \[12 U.S.C. 1715z–1(f)(1)\] for such tenant; and
+&emsp;(E) in computing the estimated amount of rent to be expended by tenants, the Secretary shall provide that (i) at least 25 percent (or such lesser percentage as is provided for under any other Federal housing assistance program in which such tenant is participating) of the income of each such tenant is included, or (ii) in the case of a tenant paying his or her own utilities, a percentage of income which is lessthan 25 percent and which takes into account the reasonable costs of such utilities; except that no amount shall be provided for any tenant under clause (i) or (ii) which exceeds the fair market rental charge as determined pursuant to section 236(f)(1) of the National Housing Act \[12 U.S.C. 1715z–1(f)(1)\] for such tenant; and
 
 &emsp;(F) in computing the estimated amount of rent to be expended by tenants and the estimated amount of rental assistance payments to be made on behalf of such tenants, the Secretary may permit a delinquency-and-vacancy allowance of not more than 6 per centum of the estimated amount of such rent and payments computed without regard to such allowance; except that, with respect to the first three years in which assistance is provided to a project under this section, the Secretary may permit such allowance for such project to exceed such 6 percent by an amount which the Secretary determines is appropriate to carry out the purposes of this section.
 
@@ -148,7 +148,7 @@ The Secretary may not use any of the assistance available under this section dur
 
 (2) In order to minimize any increases in rental payments that may occur as a result of the debt service and other expenses of a loan for capital improvements provided under this section for a project and that would be incurred by lower income residents of the project involved whose rental payments are, or would as a result of such expenses be, in excess of the amount allowable if section 3(a) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(a)\] were applicable to such residents, or where appropriate to implement a plan of action under subtitle B of the Emergency Low Income Housing Preservation Act of 1987, the Secretary may take any or all of the following actions:
 
-&emsp;(A) Provide assistance with respect to such project under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\], to the extent amounts are available for such assistance and without regard to section 16 of such Act \[42 U.S.C. 1437n\].
+&emsp;(A) Provide assistance with respect to such project under section 8 of the United StatesHousing Act of 1937 \[42 U.S.C. 1437f\], to the extent amounts are available for such assistance and without regard to section 16 of such Act \[42 U.S.C. 1437n\].
 
 &emsp;(B) Notwithstanding subsection (l)(2)(B), reduce the rate of interest charged on such loan to a rate of not less than 1 percent.
 
@@ -210,7 +210,7 @@ Notwithstanding any other provision of law, any project that receives or has rec
 
 The National Housing Act, as amended, referred to in subsecs. (a), (b), (c)(1)(A), and (d)(3), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to this chapter (§1701 et seq.). For complete classification of this Act to the Code, see section 1701 of this title and Tables.
 
-The United States Housing Act of 1937, referred to in subsec. (a), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
+The United States Housing Act of 1937, referred to in subsec. (a), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974,88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
 
 The Housing Act of 1959, referred to in subsec. (a), is Pub. L. 86–372, Sept. 23, 1959, 73 Stat. 654, as amended. For complete classification of this Act to the Code, see Short Title of 1959 Amendment note set out under section 1701 of this title and Tables.
 
@@ -274,7 +274,7 @@ Subsecs. (o), (p). Pub. L. 103–233, §103(b)(4) redesignated subsec. (p) as (o
 
 <b>1992</b>—Subsec. (d)(5). Pub. L. 102–550, §405(a)(1), struck out "and" at end.
 
-Subsec. (d)(6). Pub. L. 102–550, §406, which directed insertion, before period at end, of "; and except that the Secretary shall review and approve or disapprove each plan not later than the expiration of the 30-day period beginning upon the date of submission of the plan to the Secretary by the owner, but if the Secretary fails to inform the owner of approval or disapproval of the plan within such period the plan shall be considered to have been approved", was executed by making the insertion before the concluding semicolon to reflect the probable intent of Congress and the intervening amendment by Pub. L. 102–550, §405(a)(2). See below.
+Subsec. (d)(6). Pub. L. 102–550, §406, which directed insertion, before period at end, of "; and except that the Secretary shall review and approve or disapprove each plan not later than the expiration of the 30-day period beginning upon the date of submission of the plan tothe Secretary by the owner, but if the Secretary fails to inform the owner of approval or disapproval of the plan within such period the plan shall be considered to have been approved", was executed by making the insertion before the concluding semicolon to reflect the probable intent of Congress and the intervening amendment by Pub. L. 102–550, §405(a)(2). See below.
 
 Pub. L. 102–550, §405(a)(2), substituted semicolon for period at end.
 
@@ -366,7 +366,7 @@ Subsec. (j). Pub. L. 97–35, §321(f)(1), (2)(A), redesignated former subsec. (
 
 <b>1980</b>—Subsec. (h). Pub. L. 96–399 authorized appropriations for fiscal year 1981.
 
-<b>1979</b>—Subsec. (d)(1). Pub. L. 96–153, §211(c), inserted requirement that the owner agree to maintain the low- and moderate-income character of such project for a period at least equal to the remaining term of the project mortgage.
+<b>1979</b>—Subsec. (d)(1). Pub. L. 96–153, §211(c), inserted requirement that the owner agree to maintain the low-and moderate-income character of such project for a period at least equal to the remaining term of the project mortgage.
 
 Subsec. (h). Pub. L. 96–153, §205(a), authorized appropriations for fiscal year 1980.
 
@@ -514,7 +514,7 @@ Resident Review.—The Secretary shall require each owner of a covered multifami
 
 "(c)
 
-State Housing Finance Agency Review.—To the extent that a covered multifamily housing property or a covered multifamily housing property for the elderly is financed or assisted by a State housing finance agency (as such term is defined in section 802 of the Housing and Community Development Act of 1974 \[42 U.S.C. 1440\]), the Secretary shall require the owner of theproperty to submit the comprehensive needs assessment for the property to the State housing finance agency upon submitting the assessment to the Secretary.
+State Housing Finance Agency Review.—To the extent that a covered multifamily housing property or a covered multifamily housing property for the elderly is financed or assisted by a State housing finance agency (as such term is defined in section 802 of the Housing and Community Development Act of 1974 \[42 U.S.C. 1440\]), the Secretary shall require the owner of the property to submit the comprehensive needs assessment for the property to the State housing finance agency upon submitting the assessment to the Secretary.
 
 "(d)
 
@@ -568,7 +568,7 @@ Pub. L. 102–550, title IV, §409, as added by Pub. L. 103–233, title I, §10
 
 Allocation of Assistance.—Based upon needs identified in comprehensive needs assessments, and subject to otherwise applicable program requirements, including selection criteria, the Secretary may allocate the following assistance to owners of covered multifamily housing projects and may provide such assistance on a noncompetitive basis:
 
-&emsp;"(1) Operating assistance and capital improvement assistance for troubled multifamily housing projects pursuant to section 201 of the Housing and Community Development Amendments of 1978 \[Pub. L. 95–557, enacting this section, amending section 1715z–1 of this title, and enacting provisions set out as a note under section 1715z–1 of this title\], except for assistance set aside under section 201(n)(1) \[subsec. (n)(1) of this section\].
+&emsp;"(1) Operating assistance and capital improvement assistance for troubled multifamily housing projectspursuant to section 201 of the Housing and Community Development Amendments of 1978 \[Pub. L. 95–557, enacting this section, amending section 1715z–1 of this title, and enacting provisions set out as a note under section 1715z–1 of this title\], except for assistance set aside under section 201(n)(1) \[subsec. (n)(1) of this section\].
 
 &emsp;"(2) Loan management assistance available pursuant to section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\].
 
@@ -586,7 +586,7 @@ Pub. L. 101–235, title II, §204(c), Dec. 15, 1989, 103 Stat. 2040, as amended
 
 #### National Commission on Severely Distressed Public Housing
 
-Pub. L. 101–235, title V, Dec. 15, 1989, 103 Stat. 2048, as amended by Pub. L. 102–550, title I, §127(a), Oct. 28, 1992, 106 Stat. 3710, established a National Commission on Severely Distressed Public Housing to identify those public housing projects in the Nation that are in a severe state of distress, to assess most promising strategies to improve condition of severely distressed public housing projects that have been implemented by public housing authorities, other Government agencies at Federal, State and local level, public housing tenants, and private sector, and to develop national action plan to eliminate by year 2000 unfit living conditions in public housing projects determined by Commission to bemost severely distressed, provided for membership, functions, and powers of the Commission, directed that, not later than 12 months after Commission is established, Commission submit a final report to Secretary and to Congress containing information, evaluations, and recommendations, authorized appropriations for Commission of not to exceed $2,000,000 for fiscal year 1990 and $1,000,000 for fiscal year 1991, and terminated Commission at the end of Sept. 30, 1992.
+Pub. L. 101–235, title V, Dec. 15, 1989, 103 Stat. 2048, as amended by Pub. L. 102–550, title I, §127(a), Oct. 28, 1992, 106 Stat. 3710, established a National Commission on Severely Distressed Public Housing to identify those public housing projects in the Nation that are in a severe state of distress, to assess most promising strategies to improve condition of severely distressed public housing projects that have been implemented by public housing authorities, other Government agencies at Federal, State and local level, public housing tenants, and private sector, and to develop national action plan to eliminate by year 2000 unfit living conditions in public housing projects determined by Commission to be most severely distressed, provided for membership, functions, and powers of the Commission, directed that, not later than 12 months after Commission is established, Commission submit a final report to Secretary and to Congress containing information, evaluations, and recommendations, authorized appropriations for Commission of not to exceed $2,000,000 for fiscal year 1990 and $1,000,000 for fiscal year 1991, and terminated Commission at the end of Sept. 30, 1992.
 
 #### Multifamily Housing Capital Improvements Assistance; Regulations for Implementation of Program
 

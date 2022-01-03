@@ -26,7 +26,7 @@ Grade Crossing Safety.—Not more than $1,000,000 may be appropriated to the Sec
 
 (c)
 
-Research and Development, Automated Track Inspection, and State Participation Grants.—Amounts appropriated under this section for research and development, automatedtrack inspection, and grants under section 20105(e) of this title remain available until expended.
+Research and Development, Automated Track Inspection, and State Participation Grants.—Amounts appropriated under this section for research and development, automated track inspection, and grants under section 20105(e) of this title remain available until expended.
 
 (d)
 
@@ -80,9 +80,11 @@ Nov. 2, 1978, Pub. L. 95–574, §3, 92 Stat. 2459.
 
 In subsection (a), references to fiscal years prior to 1993 are omitted as obsolete.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-Section 403 of the Rail Safety Improvement Act of 2008, referred to in subsec. (a)(2), is section 403 of Pub. L. 110–432, which is set out as a note under section 20142 of this title.
+Section 403 of the Rail Safety Improvement Act of 2008, referred to in subsec. (a)(2), is section 403 of Pub.L. 110–432, which is set out as a note under section 20142 of this title.
 
 #### Amendments
 

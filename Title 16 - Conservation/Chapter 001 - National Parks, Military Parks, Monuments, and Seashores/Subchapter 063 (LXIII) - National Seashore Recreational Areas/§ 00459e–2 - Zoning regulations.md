@@ -18,7 +18,7 @@ No zoning ordinance or amendment thereof shall be approved by the Secretary whic
 
 #### (e) Termination of suspension of authority for acquisition by condemnation because of nonconforming variances and uses
 
-In the case of any property, including improved property but excluding undeveloped property in the Dune district referred to in section459e–1(g) of this title, with respect to which the Secretary's authority to acquire by condemnation has been suspended under sections 459e to 459e–9 of this title if—
+In the case of any property, including improved property but excluding undeveloped property in the Dune district referred to in section 459e–1(g) of this title, with respect to which the Secretary's authority to acquire by condemnation has been suspended under sections 459e to 459e–9 of this title if—
 
 &emsp;(1) such property is, after October 17, 1984, made the subject of a variance under, or becomes for any reason an exception to, any applicable zoning ordinance approved under this section; and
 
@@ -41,6 +41,8 @@ Notwithstanding any other provision of sections 459e to 459e–9 of this title, 
 > Except to the extent the Court may deem necessary in extraordinary circumstances, no such order or injunction shall continue in effect for more than one hundred and eighty days. During the period of such order or injunction, the Secretary shall diligently and in good faith negotiate with the owner of the property to assure that following termination of the order or injunction, the inconsistent use is abated or the significant harm to the natural resources is mitigated.
 
 (Pub. L. 88–587, §3, Sept. 11, 1964, 78 Stat. 930; Pub. L. 98–482, §§3–5, Oct. 17, 1984, 98 Stat. 2256.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

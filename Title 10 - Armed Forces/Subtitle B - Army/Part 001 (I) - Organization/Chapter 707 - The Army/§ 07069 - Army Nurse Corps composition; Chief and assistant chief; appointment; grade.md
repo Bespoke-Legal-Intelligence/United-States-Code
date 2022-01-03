@@ -30,6 +30,8 @@ Apr. 16, 1947, ch. 38 §§101(a) (words of last sentence before proviso), 101(b)
 
 The words "officers of the Regular Army in that corps" are substituted for the words "officers permanently commissioned in such Army Nurse Corps". The words "but not for more than" are substituted for the words "for a term not to exceed", in 10:166(a). The words "vacating her regular grade" are substituted for the words "vacation of her permanent grade".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 3069 of this title as this section.
@@ -52,6 +54,8 @@ Subsec. (c). Pub. L. 104–201, §502(a)(2), substituted "lieutenant colonel" fo
 
 <b>1957</b>—Pub. L. 85–155 substituted "second lieutenant through colonel" for "second lieutenant through lieutenant colonel", "major" for "captain", and "entitled to the temporary grade and the pay and allowances of a colonel while so serving and ranks above all other colonels in that corps" for "entitled to the rank, pay and allowances of a colonel so serving".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
@@ -68,7 +72,7 @@ Pub. L. 85–155, title I, §105, Aug. 21, 1957, 71 Stat. 381, provided that: "T
 
 Pub. L. 85–155, title I, §104, Aug. 21, 1957, 71 Stat. 380, provided that:
 
-"(a) This Act \[amending this section and sections 3070, 3206, 3207, 3288, 3291, 3296 to 3299, 3304, 3305, 3888, 3915, 3916, 3927, 3991, 5140, 5444, 5449, 5702, 5707, 5708, 5753, 5762, 5773, 5775, 5776, 5782, 6377 to 6379, 6381, 6388, 6395, 6396, 8206, 8207, 8212, 8285 to 8288, 8297, 8298 to 8301, 8303, 8305, 8888, 8915, 8927 and 8991 of this title, and repealing sections 3881, 3882, 3887, 3912, 3928, 8291, 8304, 8881, 8882, 8887, 8912 and 8928 of this title\] does not affect the appointment of an officer of the Army Nurse Corps, Regular Army, or the Army Medical Specialist Corps, Regular Army, on the active list on the effective date of this Act \[Aug. 21, 1957\].
+"(a) This Act \[amending this section and sections 3070, 3206, 3207, 3288, 3291, 3296 to 3299, 3304, 3305, 3888,3915, 3916, 3927, 3991, 5140, 5444, 5449, 5702, 5707, 5708, 5753, 5762, 5773, 5775, 5776, 5782, 6377 to 6379, 6381, 6388, 6395, 6396, 8206, 8207, 8212, 8285 to 8288, 8297, 8298 to 8301, 8303, 8305, 8888, 8915, 8927 and 8991 of this title, and repealing sections 3881, 3882, 3887, 3912, 3928, 8291, 8304, 8881, 8882, 8887, 8912 and 8928 of this title\] does not affect the appointment of an officer of the Army Nurse Corps, Regular Army, or the Army Medical Specialist Corps, Regular Army, on the active list on the effective date of this Act \[Aug. 21, 1957\].
 
 "(b) This Act does not affect the retired status or retired pay of a person retired under section 108, Army-Navy Nurses Act of 1947, as amended, or any other law.
 

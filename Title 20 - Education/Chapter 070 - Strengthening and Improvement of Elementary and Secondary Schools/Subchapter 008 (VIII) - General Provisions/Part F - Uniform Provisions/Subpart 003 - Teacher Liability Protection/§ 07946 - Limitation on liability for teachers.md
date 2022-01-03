@@ -12,7 +12,7 @@ Except as provided in subsection (b), no teacher in a school shall be liable for
 
 &emsp;(4) the harm was not caused by willful or criminal misconduct, gross negligence, reckless misconduct, or a conscious, flagrant indifference to the rights or safety of the individual harmed by the teacher; and
 
-&emsp;(5) the harm was not caused by the teacher operating a motor vehicle, vessel, aircraft, or other vehicle for which the State requires theoperator or the owner of the vehicle, craft, or vessel to—
+&emsp;(5) the harm was not caused by the teacher operating a motor vehicle, vessel, aircraft, or other vehicle for which the State requires the operator or the owner of the vehicle, craft, or vessel to—
 
 &emsp;&emsp;(A) possess an operator's license; or
 
@@ -68,6 +68,8 @@ If the laws of a State limit teacher liability subject to one or more of the fol
 
 (Pub. L. 89–10, title VIII, §8556, formerly title II, §2366, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1668; renumbered title IX, §9546, renumbered title VIII, §8556, and amended Pub. L. 114–95, title II, §2001(a)(1), (3)(A), (B), (D), title VIII, §8001(a)(7), Dec. 10, 2015, 129 Stat. 1913, 2088, 2089.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was classified to section 6736 of this title prior to renumbering by Pub. L. 114–95.
@@ -77,6 +79,8 @@ Section was classified to section 6736 of this title prior to renumbering by Pub
 <b>2015</b>—Pub. L. 114–95, §2001(a)(1), struck out undesignated par. following par. (2) which read as follows: "ate law that makes a limitation of liability inapplicable if the civil action was brought by an officer of a State or local government pursuant to State or local law."
 
 Subsec. (b)(3). Pub. L. 114–95, §2001(a)(1), added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

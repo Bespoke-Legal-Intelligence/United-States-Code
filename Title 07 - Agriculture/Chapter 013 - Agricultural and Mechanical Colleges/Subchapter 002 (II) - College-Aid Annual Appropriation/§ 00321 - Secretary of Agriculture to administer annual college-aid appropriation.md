@@ -4,9 +4,13 @@ The Secretary of Agriculture is charged with the proper administration of this s
 
 (Aug. 30, 1890, ch. 841, §4, 26 Stat. 419; 1939 Reorg. Plan No. 1, §§201, 204, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 96–88, title III, §301(a)(2)(E), Oct. 17, 1979, 93 Stat. 677; Pub. L. 97–98, title XIV, §1419, Dec. 22, 1981, 95 Stat. 1306.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section constitutes part of section 4 of act Aug. 30, 1890. Remainder of section 4 is classified to section 326 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 
@@ -18,7 +22,7 @@ Functions and duties of Secretary of Education under this subchapter transferred
 
 Functions of Secretary of Health, Education, and Welfare under this subchapter transferred to Secretary of Education by section 301(a)(2)(E) of Pub. L. 96–88, which is classified to section 3441(a)(2)(E) of Title 20, Education.
 
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfareand all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of 1953 Reorg. Plan No. 1, set out in the Appendix to Title 5, Government Organization and Employees. Federal Security Agency and office of Administrator abolished by section 8 of 1953 Reorg. Plan No. 1.
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of 1953 Reorg. Plan No. 1, set out in the Appendix to Title 5, Government Organization and Employees. Federal Security Agency and office of Administrator abolished by section 8 of 1953 Reorg. Plan No. 1.
 
 Prior to July 1, 1939, functions of Secretary of the Interior under this subchapter were carried out through Office of Education of Department of the Interior. Office of Education and its functions transferred to Federal Security Administrator by section 204 of 1939 Reorg. Plan No. 1, set out in the Appendix to Title 5.
 

@@ -46,9 +46,9 @@ It is the policy of the United States—
 
 &emsp;&emsp;&emsp;(ii) the implications of unintended or unintentional disturbances to critical infrastructures; and
 
-&emsp;&emsp;&emsp;(iii) responses to incidents or crises involving critical infrastructures, including the continuity of government and private sector activities through and after such incidents or crises.
+&emsp;&emsp;&emsp;(iii) responses to incidents or crises involving critical infrastructures, including the continuity of government and privatesector activities through and after such incidents or crises.
 
-&emsp;&emsp;(D) Utilization of modeling, simulation, and analysis under subparagraph (A) to provide recommendations to policymakers, andto departments and agencies of the Federal Government and private sector persons and entities upon request, regarding means of enhancing the stability of, and preserving, critical infrastructures.
+&emsp;&emsp;(D) Utilization of modeling, simulation, and analysis under subparagraph (A) to provide recommendations to policymakers, and to departments and agencies of the Federal Government and private sector persons and entities upon request, regarding means of enhancing the stability of, and preserving, critical infrastructures.
 
 #### (3) Recipient of certain support
 
@@ -64,9 +64,13 @@ There is hereby authorized for the Department of Defense for fiscal year 2002, $
 
 (Pub. L. 107–56, title X, §1016, Oct. 26, 2001, 115 Stat. 400.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as the Critical Infrastructures Protection Act of 2001 and also as part of the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001 or USA PATRIOT Act, and not as part of the Robert T. Stafford Disaster Relief and Emergency Assistance Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

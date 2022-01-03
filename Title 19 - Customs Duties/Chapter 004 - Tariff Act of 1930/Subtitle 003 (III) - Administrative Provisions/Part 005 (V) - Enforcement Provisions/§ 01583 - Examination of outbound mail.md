@@ -30,7 +30,7 @@ Mail not sealed against inspection under the postal laws and regulations of the 
 
 #### (1) In general
 
-&emsp;Mail weighing in excess of 16 ounces sealed against inspection under the postal laws and regulations of the United States may be searched by a Customs officer, subject to paragraph (2), if there is reasonable cause to suspect that such mail contains one or more of the following:
+&emsp;Mail weighing in excess of 16 ounces sealed against inspection under the postal laws andregulations of the United States may be searched by a Customs officer, subject to paragraph (2), if there is reasonable cause to suspect that such mail contains one or more of the following:
 
 &emsp;&emsp;(A) Monetary instruments, as defined in section 1956 of title 18.
 
@@ -68,6 +68,8 @@ Notwithstanding any other provision of this section, subsection (a)(1) shall not
 
 (June 17, 1930, ch. 497, title IV, §583, as added Pub. L. 107–210, div. A, title III, §344(a), Aug. 6, 2002, 116 Stat. 986; amended Pub. L. 108–429, title II, §2004(a)(12), Dec. 3, 2004, 118 Stat. 2590.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Export Administration Act of 1979, referred to in subsecs. (a)(2)(D) and (c)(1)(G), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to section 2401 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 56 (§4601 et seq.) of Title 50, and was repealed by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613).
@@ -88,6 +90,8 @@ A prior section 1583, acts June 17, 1930, ch. 497, title IV, §583, 46 Stat. 748
 
 <b>2004</b>—Subsec. (c)(1). Pub. L. 108–429 realigned margins.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Pub. L. 107–210, div. A, title III, §344(c), Aug. 6, 2002, 116 Stat. 987, provided that:
@@ -106,7 +110,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 #### Certification by Secretary
 
-Pub. L. 107–210, div. A, title III, §344(b), Aug. 6, 2002, 116 Stat. 987, provided that: "Not later than 3 months after the date of enactment of this section \[Aug. 6, 2002\], the Secretary of State shall determine whether the application of section 583 of the Tariff Act of 1930 \[this section\] to foreign mail transiting the United States that is imported or exported by the United States Postal Service is being handled in a manner consistent with international law and any international obligation of the United States. Section 583 of such Act shall not apply to such foreign mail unless the Secretary certifies to Congress that the application of such section 583 is consistent with international law and any international obligation of the United States."
+Pub. L. 107–210, div. A, title III, §344(b), Aug. 6, 2002, 116 Stat. 987, provided that: "Not later than 3 months after the date of enactment of this section \[Aug. 6, 2002\], the Secretary of State shall determine whether the application of section 583 of the Tariff Act of 1930 \[this section\] to foreign mail transiting the UnitedStates that is imported or exported by the United States Postal Service is being handled in a manner consistent with international law and any international obligation of the United States. Section 583 of such Act shall not apply to such foreign mail unless the Secretary certifies to Congress that the application of such section 583 is consistent with international law and any international obligation of the United States."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

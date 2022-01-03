@@ -48,7 +48,7 @@
 
 &emsp;(2) the administration of the Postgraduate School.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 437, §7042; Pub. L. 96–513, title V, §503(53), Dec. 12, 1980, 94 Stat. 2915; Pub. L. 108–375, div. A, title V, §557(a)(3), Oct. 28, 2004, 118 Stat. 1915; Pub. L. 109–163, div. A, title V, §§523(b), 524, Jan. 6, 2006, 119 Stat. 3244, 3245; Pub. L. 109–364, div. A, title V, §508, Oct. 17, 2006, 120 Stat. 2180; Pub. L. 111–383, div. A, title X, §1075(b)(49), Jan. 7, 2011, 124 Stat. 4371; renumbered §8542, Pub. L. 115–232, div. A, title VIII, §807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 437, §7042; Pub. L. 96–513, title V, §503(53), Dec. 12, 1980, 94 Stat. 2915; Pub. L. 108–375, div. A, title V, §557(a)(3), Oct. 28, 2004, 118 Stat. 1915; Pub. L. 109–163, div. A, title V, §§523(b), 524, Jan. 6, 2006, 119 Stat.3244, 3245; Pub. L. 109–364, div. A, title V, §508, Oct. 17, 2006, 120 Stat. 2180; Pub. L. 111–383, div. A, title X, §1075(b)(49), Jan. 7, 2011, 124 Stat. 4371; renumbered §8542, Pub. L. 115–232, div. A, title VIII, §807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
 Historical and Revision Notes
 
@@ -67,6 +67,8 @@ July 31, 1947, ch. 420, §2, 61 Stat. 705.
 In subsection (a) the word "Regular" is omitted as covered by the term "active list".
 
 In subsection (b) the words "line and staff" and "as may be necessary" are omitted as surplusage. The word "grades" is substituted for the word "ranks". The words "advanced instruction and technical education" are substituted for the words "training \* \* \* in the practical and theoretical duties of commissioned naval officers".
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -87,6 +89,8 @@ Subsec. (b)(1). Pub. L. 109–163, §523(b), substituted "and professional and t
 <b>2004</b>—Pub. L. 108–375 substituted "President" for "Superintendent" wherever appearing in section catchline and text.
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted "active-duty list" for "active list".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

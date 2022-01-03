@@ -1,6 +1,6 @@
 ### §8222. Indebtedness to Marine Corps Exchanges: payment from appropriated funds in certain cases
 
-Under regulations prescribed by the Secretary of the Navy, appropriations for the pay of the Marine Corps are available to pay any indebtedness to Marine Corps Exchanges of members of the Marine Corps who are discharged, who desert, or who are sentenced to prison.
+Under regulations prescribed by the Secretary of the Navy, appropriations for the pay of theMarine Corps are available to pay any indebtedness to Marine Corps Exchanges of members of the Marine Corps who are discharged, who desert, or who are sentenced to prison.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 378, §6032; renumbered §8222, Pub. L. 115–232, div. A, title VIII, §807(b)(7), Aug. 13, 2018, 132 Stat. 1834.)
 
@@ -20,6 +20,8 @@ Aug. 2, 1946, ch. 756, §28, 60 Stat. 857.
 
 The words "while in debt to the United States" are omitted as surplusage and to avoid the erroneous interpretation that the provision authorizes the payment, out of appropriations, of debts other than to Marine Corps Exchanges.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior sections 8222 to 8224 were repealed by Pub. L. 103–337, div. A, title XVI, §1662(a)(3), Oct. 5, 1994, 108 Stat. 2988.
@@ -33,6 +35,8 @@ Section 8224, act Aug. 10, 1956. ch. 1041, 70A Stat. 502, related to authorized 
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 6032 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

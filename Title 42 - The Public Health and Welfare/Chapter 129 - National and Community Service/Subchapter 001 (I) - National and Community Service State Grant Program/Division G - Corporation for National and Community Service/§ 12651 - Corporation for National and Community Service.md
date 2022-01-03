@@ -4,6 +4,8 @@ There is established a Corporation for National and Community Service that shall
 
 (Pub. L. 101–610, title I, §191, as added and amended Pub. L. 103–82, title II, §§202(a), 203(a)(1)(B), Sept. 21, 1993, 107 Stat. 873, 891.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 12651, Pub. L. 101–610, title I, §190, Nov. 16, 1990, 104 Stat. 3168; Pub. L. 102–10, §9, Mar. 12, 1991, 105 Stat. 31; Pub. L. 102–384, §§4, 10, Oct. 5, 1992, 106 Stat. 1455, 1456, provided for establishment of Commission on National and Community Service, prior to the general amendment of subtitle G of title I of Pub. L. 101–610 \[former part G of this subchapter\] by Pub. L. 103–82, §202(a).
@@ -11,6 +13,8 @@ A prior section 12651, Pub. L. 101–610, title I, §190, Nov. 16, 1990, 104 Sta
 #### Amendments
 
 <b>1993</b>—Pub. L. 103–82, §203(a)(1)(B), which directed amendment of section 191 of subtitle I of the National and Community Service Act of 1990 by substituting "the national service laws" for "this chapter", was executed to this section, which is section 191 of subtitle G of title I of the National Community Service Act of 1990, to reflect the probable intent of Congress.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1993 Amendment
 
@@ -98,7 +102,7 @@ Transfer and allocations of appropriations and personnel.—Except as otherwise 
 
 "(6)
 
-Incidental transfer.—The Director of the Office of Management and Budget, at such time or times as the Director shall provide, is authorized to make such determinations as may be necessary with regard to the functions transferred by this subsection, and to make such additional incidental dispositions of personnel, assets, liabilities, grants, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds held, used, arising from, available to, or to be made available in connection with such functions, as may be necessary to carry out the provisions of this subsection. The Director of the Office of Management and Budget shall provide for the termination of the affairs of all entities terminated by this subsection and for such furthermeasures and dispositions as may be necessary to effectuate the purposes of this subsection.
+Incidental transfer.—The Director of the Office of Management and Budget, at such time or times as the Director shall provide, is authorized to make such determinations as may be necessary with regard to the functions transferred by this subsection, and to make such additional incidental dispositions of personnel, assets, liabilities, grants, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds held, used, arising from, available to, or to be made available in connection with such functions, as may be necessary to carry out the provisions of this subsection. The Director of the Office of Management and Budget shall provide for the termination of the affairs of all entities terminated by this subsection and for such further measures and dispositions as may be necessary to effectuate the purposes of this subsection.
 
 "(7)
 
@@ -136,7 +140,7 @@ Proceedings not affected.—The provisions of this subsection shall not affect a
 
 &emsp;"(C)
 
-Suits not affected.—The provisions of this subsection shall not affect suits commenced before the effective date of this subsection, and in all such suits, proceedings shall be had, appeals taken, and judgments rendered in the same manner and with the same effect as if this subsection had not been enacted.
+Suits not affected.—The provisions of this subsection shall not affect suits commenced beforethe effective date of this subsection, and in all such suits, proceedings shall be had, appeals taken, and judgments rendered in the same manner and with the same effect as if this subsection had not been enacted.
 
 &emsp;"(D)
 
@@ -292,6 +296,8 @@ Duplication of functions.—The business plan shall include a description of the
 
 Definition.—The term 'transition period' means the period beginning on October 1, 1993 and ending on the day before the effective date of section 203(c)(2) \[see Effective Date of 1993 Amendment note above\]."
 
+#### <b>Executive Documents</b>
+
 #### Proc. No. 6662. Transfer of Functions of ACTION Agency to Corporation for National and Community Service
 
 Proc. No. 6662, Apr. 4, 1994, 59 F.R. 16507, provided:
@@ -322,7 +328,7 @@ Sec. 3. The selection process for the award shall be administered by the Commiss
 
 Sec. 4. The award shall be presented by the President, his designee or designees, or individuals designated by the Director of the White House Office of National Service.
 
-Sec. 5. The name and design of the award shall be approved by the President upon the recommendation of the Director of the White House Office of National Service.
+Sec. 5. The name and design of the award shall be approved by the President upon the recommendation ofthe Director of the White House Office of National Service.
 
 George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -364,7 +370,7 @@ Sec. 2. <i>Mission and Functions of the Council.</i>
 
 (iv) monitor and advise the Chief Executive Officer of the CNCS on the need for the enhancement of materials disseminated pursuant to subsection 2(b)(iii) of this order; and
 
-(v) make recommendations from time to time to the President, through the Director of the USA FreedomCorps, on ways to encourage greater levels of volunteer service and civic participation by individuals, schools, and organizations.
+(v) make recommendations from time to time to the President, through the Director of the USA Freedom Corps, on ways to encourage greater levels of volunteer service and civic participation by individuals, schools, and organizations.
 
 Sec. 3. <i>Administration</i>. (a) Each Federal agency, to the extent permitted by law and subject to the availability of appropriations, shall furnish such information and assistance to the Council as the Council may, with the approval of the Director of the USA Freedom Corps, request.
 

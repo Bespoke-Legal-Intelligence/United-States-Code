@@ -2,7 +2,7 @@
 
 #### (a) Jurisdiction
 
-Notwithstanding any law or court decision to the contrary, the District Court of Guam is hereby granted authority and jurisdiction to review claims of persons, their heirs or legatees, from whom interests in land on Guam were acquired other than through judicial condemnation proceedings, in which the issue of compensation was adjudicated in a contested trial in the District Court of Guam, by the United States between July 21, 1944, and August 23, 1963,and to award fair compensation in those cases where it is determined that less than fair market value was paid as a result of (1) duress, unfair influence, or other unconscionable actions, or (2) unfair, unjust, and inequitable actions of the United States.
+Notwithstanding any law or court decision to the contrary, the District Court of Guam is hereby granted authority and jurisdiction to review claims of persons, their heirs or legatees, from whom interests in land on Guam were acquired other than through judicial condemnation proceedings, in which the issue of compensation was adjudicated in a contested trial in the District Court of Guam, by the United States between July 21, 1944, and August 23, 1963, and to award fair compensation in those cases where it is determined that less than fair market value was paid as a result of (1) duress, unfair influence, or other unconscionable actions, or (2) unfair, unjust, and inequitable actions of the United States.
 
 #### (b) Acquisitions effected through condemnation proceedings
 
@@ -30,6 +30,8 @@ All agencies and departments of the United States Government shall, upon request
 
 (Pub. L. 95–134, title II, §204, Oct. 15, 1977, 91 Stat. 1162; Pub. L. 96–205, title III, §301(a), Mar. 12, 1980, 94 Stat. 87.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsec. (c), is Pub. L. 95–134, Oct. 15, 1977, 91 Stat. 1159, as amended, popularly known as the Omnibus Territories Act of 1977. For complete classification of this Act to the Code, see Tables.
@@ -41,6 +43,8 @@ Section was not enacted as part of the Organic Act of Guam which comprises this 
 #### Amendments
 
 <b>1980</b>—Subsec. (c). Pub. L. 96–205 struck out provisions prohibiting allowance of interest on additional amounts of award.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Treatment of Certain Awards by District Court of Guam
 

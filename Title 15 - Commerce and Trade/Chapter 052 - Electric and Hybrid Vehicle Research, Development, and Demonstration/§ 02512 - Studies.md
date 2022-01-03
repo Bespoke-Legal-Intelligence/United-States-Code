@@ -40,6 +40,8 @@ The Secretary of Energy shall conduct a study to determine the overall effective
 
 (Pub. L. 94–413, §13, Sept. 17, 1976, 90 Stat. 1269; Pub. L. 95–91, title III, §301(a), Aug. 4, 1977, 91 Stat. 577; Pub. L. 96–185, §18, Jan. 7, 1980, 93 Stat. 1336.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 2513 of this title, referred to in subsecs. (b) and (c), was repealed by Pub. L. 104–66, title I, §1051(o), Dec. 21, 1995, 109 Stat. 717.
@@ -54,11 +56,13 @@ January 7, 1980, referred to in subsec. (c)(2), was in the original "enactment o
 
 A part of par. (2) of section 2512(c) of the Electric and Hybrid Vehicle Research, Development, and Demonstration Act of 1976, as added by Pub. L. 96–185, has not been included in the text of subsec. (c)(2) of this section. The omitted provision consists of directory language for an amendment of section 2003 of this title and the indicated amendment has been executed to the text of that section as directed.
 
-In subsec. (d), "Secretary of Transportation" substituted for "Secretary" in two places for clarity, see Codification note set out under section 2502 of this title.
+In subsec. (d), "Secretary of Transportation" substituted for "Secretary" in two places for clarity, seeCodification note set out under section 2502 of this title.
 
 #### Amendments
 
 <b>1980</b>—Subsec. (c)(1) to (3). Pub. L. 96–185 added pars. (1) to (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

@@ -16,7 +16,7 @@
 
 &emsp;(B) such effect gives rise to a claim under the provisions of this subsection, other than this paragraph.
 
-> If this subsection applies to such methods of competition only because of the operation of subparagraph (A)(ii), this subsection shall apply to such conduct only for injury to export business in the United States.
+> If this subsection applies to such methods of competition only because of the operation ofsubparagraph (A)(ii), this subsection shall apply to such conduct only for injury to export business in the United States.
 
 (4)(A) For purposes of subsection (a), the term "unfair or deceptive acts or practices" includes such acts or practices involving foreign commerce that—
 
@@ -24,7 +24,7 @@
 
 &emsp;(ii) involve material conduct occurring within the United States.
 
-(B) All remedies available to the Commission with respect to unfair and deceptive acts orpractices shall be available for acts and practices described in this paragraph, including restitution to domestic or foreign victims.
+(B) All remedies available to the Commission with respect to unfair and deceptive acts or practices shall be available for acts and practices described in this paragraph, including restitution to domestic or foreign victims.
 
 #### (b) Proceeding by Commission; modifying and setting aside orders
 
@@ -32,7 +32,7 @@ Whenever the Commission shall have reason to believe that any such person, partn
 
 #### (c) Review of order; rehearing
 
-Any person, partnership, or corporation required by an order of the Commission to cease and desist from using any method of competition or act or practice may obtain a review of such order in the court of appeals of the United States, within any circuit where the method of competition or the act or practice in question was used or where such person, partnership, or corporation resides or carries on business, by filing in the court, within sixty days from the date of the service of such order, a written petition praying that the order of the Commission be set aside. A copy of such petition shall be forthwith transmitted by the clerk of the court to the Commission, and thereupon the Commission shall file in the court the record in the proceeding, as provided in section 2112 of title 28. Upon such filing of the petition the court shall have jurisdiction of the proceeding and of the question determined therein concurrently with the Commission until the filing of the record and shall have power to make and enter a decree affirming, modifying, or setting aside the order of the Commission, and enforcing the same to the extent that such order is affirmed and to issue such writs as are ancillary to its jurisdiction or are necessary in its judgement to prevent injury to the public or to competitors pendente lite. The findings of the Commission as to the facts, if supported by evidence, shall be conclusive. To the extent that the order of the Commission is affirmed, the court shall thereupon issue its own order commanding obedience to the terms of such order of the Commission. If either party shall apply to the court for leave to adduce additional evidence, and shall show to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for the failure to adduce such evidence in the proceeding before the Commission, the court may order such additional evidence to be taken before the Commission and to be adduced upon the hearing in such manner and upon such terms and conditions as to the court may seem proper. The Commission may modify its findings as to the facts, or make new findings, by reason of the additional evidence so taken, and it shall file such modified or new findings, which, if supported by evidence, shall be conclusive, and its recommendation, if any, for the modification or setting aside of its original order, with the return of such additional evidence. The judgment and decree of the courtshall be final, except that the same shall be subject to review by the Supreme Court upon certiorari, as provided in section 1254 of title 28.
+Any person, partnership, or corporation required by an order of the Commission to cease and desist from using any method of competition or act or practice may obtain a review of such order in the court of appeals of the United States, within any circuit where the method of competition or the act or practice in question was used or where such person, partnership, or corporation resides or carries on business, by filing in the court, within sixty days from the date of the service of such order, a written petition praying that the order of the Commission be set aside. A copy of such petition shall be forthwith transmitted by the clerk of the court to the Commission, and thereupon the Commission shall file in the court the record in the proceeding, as provided in section 2112 of title 28. Upon such filing of the petition the court shall have jurisdiction of the proceeding and of the question determined therein concurrently with the Commission until the filing of the record and shall have power to make and enter a decree affirming, modifying, or setting aside the order of the Commission, and enforcing the same to the extent that such order is affirmed and to issue such writs as are ancillary to its jurisdiction or are necessary in its judgement to prevent injury to the public or to competitors pendente lite. The findings of the Commission as to the facts, if supported by evidence, shall be conclusive. To the extent that the order of the Commission is affirmed, the court shall thereupon issue its own order commanding obedience to the terms of such order of the Commission. If either party shall apply to the court for leave to adduce additional evidence, and shall show to the satisfaction of the court that such additional evidence is material and that there were reasonable grounds for the failure to adduce such evidence in the proceeding before the Commission, the court may order such additional evidence to be taken before the Commission and to be adduced upon the hearing in such manner and upon such terms and conditions as to the court may seem proper. The Commission may modify its findings as to the facts, or make new findings, by reason of the additional evidence so taken, and it shall file such modified or new findings, which, if supported by evidence, shall be conclusive, and its recommendation, if any, for the modification or setting aside of its original order, with the return of such additional evidence. The judgment and decree of the court shall be final, except that the same shall be subject to review by the Supreme Court upon certiorari, as provided in section 1254 of title 28.
 
 #### (d) Jurisdiction of court
 
@@ -82,7 +82,7 @@ If the Supreme Court directs that the order of the Commission be modified or set
 
 #### (i) Modification or setting aside of order by Court of Appeals
 
-If the order of the Commission is modified or set aside by the court of appeals, and if (1) the time allowed for filing a petition for certiorari has expired and no such petition has been duly filed, or (2) the petition for certiorari has been denied, or (3) the decision of the court has been affirmed by the Supreme Court, then the order of the Commission rendered in accordance with the mandate of the court of appeals shall become final on the expiration of thirty days from the time such order of the Commission was rendered, unless within such thirty days either party has instituted proceedings to have such order corrected so that it will accord with the mandate, in which event the order of the Commission shall become final when so corrected.
+If the order of the Commission is modified or set aside by the court of appeals, and if (1) the time allowed for filing a petition for certiorari has expired and no such petition has been duly filed, or (2) the petition for certiorari has beendenied, or (3) the decision of the court has been affirmed by the Supreme Court, then the order of the Commission rendered in accordance with the mandate of the court of appeals shall become final on the expiration of thirty days from the time such order of the Commission was rendered, unless within such thirty days either party has instituted proceedings to have such order corrected so that it will accord with the mandate, in which event the order of the Commission shall become final when so corrected.
 
 #### (j) Rehearing upon order or remand
 
@@ -118,11 +118,13 @@ Any person, partnership, or corporation who violates an order of the Commission 
 
 The Commission shall have no authority under this section or section 57a of this title to declare unlawful an act or practice on the grounds that such act or practice is unfair unless the act or practice causes or is likely to cause substantial injury to consumers which is not reasonably avoidable by consumers themselves and not outweighed by countervailing benefits to consumers or to competition. In determining whether an act or practice is unfair, the Commission may consider established public policies as evidence to be considered with all other evidence. Such public policy considerations may not serve as a primary basis for such determination.
 
-(Sept. 26, 1914, ch. 311, §5, 38 Stat. 719; Mar. 21, 1938, ch. 49, §3, 52 Stat. 111; June 23, 1938, ch. 601, title XI, §1107(f), 52 Stat. 1028; June 25, 1948, ch. 646, §32(a), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Mar. 16, 1950, ch. 61, §4(c), 64 Stat. 21; July 14, 1952, ch. 745, §2, 66 Stat. 632; Pub. L. 85–726, title XIV, §§1401(b), 1411, Aug. 23, 1958, 72 Stat. 806, 809; Pub. L. 85–791, §3, Aug. 28, 1958, 72 Stat. 942; Pub. L. 85–909, §3, Sept. 2, 1958, 72 Stat. 1750; Pub. L. 86–507, §1(13), June 11, 1960, 74 Stat. 200; Pub. L. 93–153, title IV, §408(c), (d), Nov. 16,1973, 87 Stat. 591, 592; Pub. L. 93–637, title II, §§201(a), 204(b), 205(a), Jan. 4, 1975, 88 Stat. 2193, 2200; Pub. L. 94–145, §3, Dec. 12, 1975, 89 Stat. 801; Pub. L. 96–37, §1(a), July 23, 1979, 93 Stat. 95; Pub. L. 96–252, §2, May 28, 1980, 94 Stat. 374; Pub. L. 97–290, title IV, §403, Oct. 8, 1982, 96 Stat. 1246; Pub. L. 98–620, title IV, §402(12), Nov. 8, 1984, 98 Stat. 3358; Pub. L. 100–86, title VII, §715(a)(1), Aug. 10, 1987, 101 Stat. 655; Pub. L. 103–312, §§4, 6, 9, Aug. 26, 1994, 108 Stat. 1691, 1692, 1695; Pub. L. 109–455, §§3, 13, Dec. 22, 2006, 120 Stat. 3372, 3382; Pub. L. 112–203, §1, Dec. 4, 2012, 126 Stat. 1484.)
+(Sept. 26, 1914, ch. 311, §5, 38 Stat. 719; Mar. 21, 1938, ch. 49, §3, 52 Stat. 111; June 23, 1938, ch. 601, title XI, §1107(f), 52 Stat. 1028; June 25, 1948, ch. 646, §32(a), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Mar. 16, 1950, ch. 61, §4(c), 64 Stat. 21; July 14, 1952, ch. 745, §2, 66 Stat. 632; Pub. L. 85–726, title XIV, §§1401(b), 1411, Aug. 23, 1958, 72 Stat. 806, 809; Pub. L. 85–791, §3, Aug. 28, 1958, 72 Stat. 942; Pub. L. 85–909, §3, Sept. 2, 1958, 72 Stat. 1750; Pub. L. 86–507, §1(13), June 11, 1960, 74 Stat. 200; Pub. L. 93–153, title IV, §408(c), (d), Nov. 16, 1973, 87 Stat. 591, 592; Pub. L. 93–637, title II, §§201(a), 204(b), 205(a), Jan. 4, 1975, 88 Stat. 2193, 2200; Pub. L. 94–145, §3, Dec. 12, 1975, 89 Stat. 801; Pub. L. 96–37, §1(a), July 23, 1979, 93 Stat. 95; Pub. L. 96–252, §2, May 28, 1980, 94 Stat. 374; Pub. L. 97–290, title IV, §403, Oct. 8, 1982, 96 Stat. 1246; Pub. L. 98–620, title IV, §402(12), Nov. 8, 1984, 98 Stat. 3358; Pub. L. 100–86, title VII, §715(a)(1), Aug. 10, 1987, 101 Stat. 655; Pub. L. 103–312, §§4, 6, 9, Aug. 26, 1994, 108 Stat. 1691, 1692, 1695; Pub. L. 109–455, §§3, 13, Dec. 22, 2006, 120 Stat. 3372, 3382; Pub. L. 112–203, §1, Dec. 4, 2012, 126 Stat. 1484.)
 
 #### Amendment of Section
 
 <i>For repeal of amendment by section 13 of Pub. L. 109–455, see Termination Date of 2006 Amendment note below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -182,17 +184,19 @@ Pub. L. 85–726, §1411, substituted "Federal Aviation Act of 1958" for "Civil 
 
 Subsec. (b). Pub. L. 85–791, §3(a), struck out "the transcript of" before "the record in the proceeding" in sixth sentence.
 
-Subsec. (c). Pub. L. 85–791, §3(b), in second sentence, substituted "transmitted by the clerk of the court to" for "served upon", and "Commission shall file in the court the record in the proceeding, as provided in section 2112 of title 28" for "Commission forthwith shall certify and file in the court a transcript of the entire record in the proceeding, including all the evidence taken and the report and order of the Commission", and which, in third sentence struck out "and transcript" after "petition", inserted "concurrently with the Commission until the filing of the record" and struck out "upon the pleadings, evidence, and proceedings set forth in such transcript" before "a decree affirming".
+Subsec. (c). Pub. L. 85–791, §3(b), in second sentence, substituted "transmitted by the clerk of the court to" for "served upon", and "Commission shall file in the court the record in the proceeding, as provided in section 2112 of title 28" for "Commission forthwith shall certify and file in the court a transcript of the entirerecord in the proceeding, including all the evidence taken and the report and order of the Commission", and which, in third sentence struck out "and transcript" after "petition", inserted "concurrently with the Commission until the filing of the record" and struck out "upon the pleadings, evidence, and proceedings set forth in such transcript" before "a decree affirming".
 
 Subsec. (d). Pub. L. 85–791, §3(c), substituted "Upon the filing of the record with it the" for "The".
 
 <b>1952</b>—Subsec. (a). Act July 14, 1952, amended subsec. (a) generally to permit fair trade pricing of articles for retail sale.
 
-<b>1950</b>—Subsec. (l). Act Mar. 16, 1950, inserted last sentence to make each separate violation of a cease anddesist order as a separate offense, except that each day of a continuing failure to obey a final order shall be a separate offense.
+<b>1950</b>—Subsec. (l). Act Mar. 16, 1950, inserted last sentence to make each separate violation of a cease and desist order as a separate offense, except that each day of a continuing failure to obey a final order shall be a separate offense.
 
 <b>1938</b>—Subsec. (a). Act June 23, 1938, inserted "air carriers and foreign air carriers subject to chapter 9 of title 49" in second par.
 
 Act Mar. 21, 1938, amended section generally.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -252,10 +256,6 @@ Amendment by Pub. L. 85–726 effective on 60th day following the date on which 
 
 Amendment by act Mar. 16, 1950, effective July 1, 1950, see note set out under section 347 of Title 21, Food and Drugs.
 
-#### Transfer of Functions
-
-For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, §1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
-
 #### Prohibiting Deceptive Acts or Practices in Connection With the Novel Coronavirus
 
 Pub. L. 116–260, div. FF, title XIV, §1401, Dec. 27, 2020, 134 Stat. 3275, provided that:
@@ -313,6 +313,12 @@ Pub. L. 93–153, §408(a), (b), Nov. 16, 1973, 87 Stat. 591, provided that:
 #### Purpose of Act July 14, 1952
 
 Act July 14, 1952, ch. 745, §1, 66 Stat. 631, provided: "That it is the purpose of this Act \[amending this section\] to protect the rights of States under the United States Constitution to regulate their internal affairs and more particularly to enact statutes and laws, and to adopt policies, which authorize contracts and agreements prescribing minimum or stipulated prices for the resale of commodities and to extend the minimum or stipulated prices prescribed by such contracts and agreements to persons who are not parties thereto. It is the further purpose of this Act to permit such statutes, laws, and public policies to apply to commodities, contracts, agreements, and activities in or affecting interstate or foreign commerce."
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, §1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "clause".</i>
 

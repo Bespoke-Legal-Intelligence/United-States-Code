@@ -10,7 +10,7 @@ The purposes of this subchapter are—
 
 &emsp;(4) to serve as a catalyst for increased citizen participation and greater collaboration among all sectors and organizations of a community that first demonstrates a long-term commitment to reducing substance use and misuse among youth;
 
-&emsp;(5) to rechannel resources from the fiscal year 1998 Federal drug control budget to provide technical assistance, guidance, and financial support to communities that demonstrate a long-term commitment in reducing substance use and misuse among youth;
+&emsp;(5) to rechannel resources from the fiscal year 1998 Federal drug control budget to provide technical assistance, guidance, and financial support to communities that demonstratea long-term commitment in reducing substance use and misuse among youth;
 
 &emsp;(6) to disseminate to communities timely information regarding the state-of-the-art practices and initiatives that have proven to be effective in reducing substance use and misuse among youth;
 

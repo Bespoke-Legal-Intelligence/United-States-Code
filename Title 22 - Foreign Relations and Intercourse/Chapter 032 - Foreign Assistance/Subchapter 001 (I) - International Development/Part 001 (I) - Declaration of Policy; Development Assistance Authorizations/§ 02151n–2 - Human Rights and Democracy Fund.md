@@ -2,7 +2,7 @@
 
 #### (a) Establishment of Fund
 
-There is established a Human Rights and Democracy Fund (in this section referred to as the "Fund") to be administered by the Assistant Secretary of State for Democracy, Human Rights, and Labor.
+There is established a Human Rights and Democracy Fund (in this section referred to as the "Fund") to be administered by the AssistantSecretary of State for Democracy, Human Rights, and Labor.
 
 #### (b) Purposes of Fund
 
@@ -52,7 +52,7 @@ Pub. L. 107–228, div. A, title VI, §662, Sept. 30, 2002, 116 Stat. 1405, prov
 
 &emsp;"(1) To underscore that promoting and protecting human rights is in the national interests of the United States and is consistent with American values and beliefs.
 
-&emsp;"(2) To establish a goal of devoting one percent of the funds available to the Department under 'Diplomatic and Consular Programs', other than such funds that will be made available for worldwide securityupgrades and information resource management, to enhance the ability of the United States to promote respect for human rights and the protection of human rights defenders."
+&emsp;"(2) To establish a goal of devoting one percent of the funds available to the Department under 'Diplomatic and Consular Programs', other than such funds that will be made available for worldwide security upgrades and information resource management, to enhance the ability of the United States to promote respect for human rights and the protection of human rights defenders."
 
 \[For definition of "Department" as used in section 662 of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
 

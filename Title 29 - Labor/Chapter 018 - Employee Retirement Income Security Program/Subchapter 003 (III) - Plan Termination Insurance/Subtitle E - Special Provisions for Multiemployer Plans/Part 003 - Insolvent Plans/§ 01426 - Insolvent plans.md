@@ -26,7 +26,7 @@ For purposes of this section, for a plan year—
 
 &emsp;(i) the term "person in pay status" means—
 
-&emsp;&emsp;(I) a participant or beneficiary on the last day of the base plan year who, at any time during such year, was paid an early, late, normal, or disability retirement benefit (ora death benefit related to a retirement benefit), and
+&emsp;&emsp;(I) a participant or beneficiary on the last day of the base plan year who, at any time during such year, was paid an early, late, normal, or disability retirement benefit (or a death benefit related to a retirement benefit), and
 
 &emsp;&emsp;(II) to the extent provided in regulations prescribed by the Secretary of the Treasury, any other person who is entitled to such a benefit under the plan.
 
@@ -76,7 +76,7 @@ For purposes of this section, for a plan year—
 
 (3) In any case in which the plan sponsor anticipates that the resource benefit level for an insolvency year may not exceed the level of basic benefits, the plan sponsor shall notify the corporation.
 
-(4) Notice required by this subsection shall be given in accordance with regulations prescribedby the corporation, except that notice to the Secretary of the Treasury shall be given in accordance with regulations prescribed by the Secretary of the Treasury.
+(4) Notice required by this subsection shall be given in accordance with regulations prescribed by the corporation, except that notice to the Secretary of the Treasury shall be given in accordance with regulations prescribed by the Secretary of the Treasury.
 
 (5) The corporation may prescribe a time other than the time prescribed by this section for the making of a determination or the filing of a notice under this section.
 

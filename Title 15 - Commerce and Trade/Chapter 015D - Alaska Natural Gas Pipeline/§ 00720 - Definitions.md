@@ -16,7 +16,7 @@ In this chapter:
 
 #### (3) Alaska natural gas transportation system
 
-&emsp;The term "Alaska natural gas transportation system" means the Alaska natural gastransportation project authorized under the Alaska Natural Gas Transportation Act of 1976 (15 U.S.C. 719 et seq.) and designated and described in section 2 of the President's decision.
+&emsp;The term "Alaska natural gas transportation system" means the Alaska natural gas transportation project authorized under the Alaska Natural Gas Transportation Act of 1976 (15 U.S.C. 719 et seq.) and designated and described in section 2 of the President's decision.
 
 #### (4) Commission
 
@@ -44,11 +44,15 @@ In this chapter:
 
 (Pub. L. 108–324, div. C, §102, Oct. 13, 2004, 118 Stat. 1255.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this division", meaning division C of Pub. L. 108–324, Oct. 13, 2004, 118 Stat. 1255, which is classified principally to this chapter. For complete classification of division C to the Code, see Short Title note set out below and Tables.
 
 The Alaska Natural Gas Transportation Act of 1976, referred to in pars. (2)(A) and (3), is Pub. L. 94–586, Oct. 22, 1976, 90 Stat. 2903, as amended, which is classified generally to chapter 15C (§719 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 719 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

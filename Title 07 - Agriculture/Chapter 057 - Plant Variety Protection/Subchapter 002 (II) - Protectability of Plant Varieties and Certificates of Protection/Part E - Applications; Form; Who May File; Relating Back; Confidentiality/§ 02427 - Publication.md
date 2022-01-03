@@ -4,6 +4,8 @@ The Secretary may establish regulations for the publication of information regar
 
 (Pub. L. 91–577, title II, §57, Dec. 24, 1970, 84 Stat. 1549; Pub. L. 96–574, §13, Dec. 22, 1980, 94 Stat. 3350.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1980</b>—Pub. L. 96–574 inserted "information regarding" after "publication of".

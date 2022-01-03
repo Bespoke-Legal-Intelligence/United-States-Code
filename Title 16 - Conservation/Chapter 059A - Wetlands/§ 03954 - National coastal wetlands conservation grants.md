@@ -24,7 +24,7 @@ The Director may only grant or otherwise provide matching moneys to a coastal St
 
 &emsp;&emsp;(A) a trust fund from which the principal is not spent; or
 
-&emsp;&emsp;(B) a fund derived from a dedicated recurring source of monies including, but not limited to, real estate transfer fees or taxes,cigarette taxes, tax check-offs, or motor vehicle license plate fees.
+&emsp;&emsp;(B) a fund derived from a dedicated recurring source of monies including, but not limited to, real estate transfer fees or taxes, cigarette taxes, tax check-offs, or motor vehicle license plate fees.
 
 #### (2) Form of State share
 
@@ -46,6 +46,8 @@ The Director shall, with the funds made available in accordance with section 395
 
 (Pub. L. 101–646, title III, §305, Nov. 29, 1990, 104 Stat. 4785; Pub. L. 102–212, title III, §302(a), Dec. 11, 1991, 105 Stat. 1660.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Subsec. (d)(1). Pub. L. 102–212 substituted "has established and is using one of the following for the purpose of acquiring coastal wetlands, other natural areas or open spaces:
@@ -55,6 +57,8 @@ The Director shall, with the funds made available in accordance with section 395
 &emsp;"(B) a fund derived from a dedicated recurring source of monies including, but not limited to, real estate transfer fees or taxes, cigarette taxes, tax check-offs, or motor vehicle license plate fees"
 
 > for "has established a trust fund, from which the principal is not spent, for the purpose of acquiring coastal wetlands, other natural area or open spaces".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1991 Amendment
 

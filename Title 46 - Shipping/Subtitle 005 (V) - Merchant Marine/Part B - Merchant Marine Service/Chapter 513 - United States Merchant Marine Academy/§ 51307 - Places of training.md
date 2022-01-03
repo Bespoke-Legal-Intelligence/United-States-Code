@@ -70,7 +70,7 @@ In paragraph (2), the words "with the permission of the owner" are substituted f
 
 #### Amendments
 
-<b>2021</b>—Subsec. (b). Pub. L. 116–283 added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: "The Secretary shall require an operator of a vessel participating in the Maritime Security Program under chapter 531 of this title to carry on each Maritime Security Program vessel 2 United StatesMerchant Marine Academy cadets, if available, on each voyage."
+<b>2021</b>—Subsec. (b). Pub. L. 116–283 added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: "The Secretary shall require an operator of a vessel participating in the Maritime Security Program under chapter 531 of this title to carry on each Maritime Security Program vessel 2 United States Merchant Marine Academy cadets, if available, on each voyage."
 
 <b>2018</b>—Pub. L. 115–232, §3512(1), (3), designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) to (e).
 

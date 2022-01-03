@@ -2,7 +2,7 @@
 
 #### (a) Marginal Areas
 
-Each State in which all or part of a Marginal Area is located shall, with respect to the Marginal Area (or portion thereof, to the extent specified in this subsection), submit to the Administrator the State implementation plan revisions (including the plan items) described underthis subsection except to the extent the State has made such submissions as of November 15, 1990.
+Each State in which all or part of a Marginal Area is located shall, with respect to the Marginal Area (or portion thereof, to the extent specified in this subsection), submit to the Administrator the State implementation plan revisions (including the plan items) described under this subsection except to the extent the State has made such submissions as of November 15, 1990.
 
 #### (1) Inventory
 
@@ -18,7 +18,7 @@ Each State in which all or part of a Marginal Area is located shall, with respec
 
 #### (B) Savings clause for vehicle inspection and maintenance
 
-&emsp;&emsp;(i) For any Marginal Area (or, within the Administrator's discretion, portion thereof), the plan for which already includes, or was required by section 7502(b)(11)(B) of this title (as in effect immediately before November 15, 1990) to have included, a specific schedule for implementation of a vehicle emission control inspection and maintenance program, the State shall submit, immediately after November 15, 1990, a revision that includes any provisions necessary to provide for a vehicle inspection and maintenance program of no less stringency than that of either the program defined in House Report Numbered 95–294, 95th Congress, 1st Session, 281–291 (1977) as interpreted in guidance of the Administrator issued pursuant to section 7502(b)(11)(B) of this title (as in effect immediately before November 15, 1990) or the program already included in the plan, whichever is more stringent.
+&emsp;&emsp;(i) For any Marginal Area (or, within the Administrator's discretion, portion thereof),the plan for which already includes, or was required by section 7502(b)(11)(B) of this title (as in effect immediately before November 15, 1990) to have included, a specific schedule for implementation of a vehicle emission control inspection and maintenance program, the State shall submit, immediately after November 15, 1990, a revision that includes any provisions necessary to provide for a vehicle inspection and maintenance program of no less stringency than that of either the program defined in House Report Numbered 95–294, 95th Congress, 1st Session, 281–291 (1977) as interpreted in guidance of the Administrator issued pursuant to section 7502(b)(11)(B) of this title (as in effect immediately before November 15, 1990) or the program already included in the plan, whichever is more stringent.
 
 &emsp;&emsp;(ii) Within 12 months after November 15, 1990, the Administrator shall review, revise, update, and republish in the Federal Register the guidance for the States for motor vehicle inspection and maintenance programs required by this chapter, taking into consideration the Administrator's investigations and audits of such program. The guidance shall, at a minimum, cover the frequency of inspections, the types of vehicles to be inspected (which shall include leased vehicles that are registered in the nonattainment area), vehicle maintenance by owners and operators, audits by the State, the test method and measures, including whether centralized or decentralized, inspection methods and procedures, quality of inspection, components covered, assurance that a vehicle subject to a recall notice from a manufacturer has complied with that notice, and effective implementation and enforcement, including ensuring that any retesting of a vehicle after a failure shall include proof of corrective action and providing for denial of vehicle registration in the case of tampering or misfueling. The guidance which shall be incorporated in the applicable State implementation plans by the States shall provide the States with continued reasonable flexibility to fashion effective, reasonable, and fair programs for the affected consumer. No later than 2 years after the Administrator promulgates regulations under section 7521(m)(3) of this title (relating to emission control diagnostics), the State shall submit a revision to such program to meet any requirements that the Administrator may prescribe under that section.
 
@@ -38,7 +38,7 @@ Each State in which all or part of a Marginal Area is located shall, with respec
 
 #### (B) Emissions statements
 
-&emsp;&emsp;(i) Within 2 years after November 15, 1990, the State shall submit a revision to the State implementation plan to require that the owner or operator of each stationary source of oxides of nitrogen or volatile organic compounds provide the State with a statement, in such form as the Administrator may prescribe (or accept an equivalent alternative developed by the State), for classes or categories of sources, showing the actual emissions of oxides of nitrogen and volatile organic compounds from that source. The first such statement shall be submitted within 3 years after November 15, 1990. Subsequent statements shall be submitted at least every year thereafter. The statement shall contain a certification thatthe information contained in the statement is accurate to the best knowledge of the individual certifying the statement.
+&emsp;&emsp;(i) Within 2 years after November 15, 1990, the State shall submit a revision to the State implementation plan to require that the owner or operator of each stationary source of oxides of nitrogen or volatile organic compounds provide the State with a statement, in such form as the Administrator may prescribe (or accept an equivalent alternative developed by the State), for classes or categories of sources, showing the actual emissions of oxides of nitrogen and volatile organic compounds from that source. The first such statement shall be submitted within 3 years after November 15, 1990. Subsequent statements shall be submitted at least every year thereafter. The statement shall contain a certification that the information contained in the statement is accurate to the best knowledge of the individual certifying the statement.
 
 &emsp;&emsp;(ii) The State may waive the application of clause (i) to any class or category of stationary sources which emit less than 25 tons per year of volatile organic compounds or oxides of nitrogen if the State, in its submissions under subparagraphs <sup>1</sup> (1) or (3)(A), provides an inventory of emissions from such class or category of sources, based on the use of the emission factors established by the Administrator or other methods acceptable to the Administrator.
 
@@ -86,7 +86,7 @@ Each State in which all or part of a Moderate Area is located shall, with respec
 
 &emsp;&emsp;&emsp;(iii) Measures required under subsection (a)(2)(A) (concerning corrections to implementation plans prescribed under guidance by the Administrator).
 
-&emsp;&emsp;&emsp;(iv) Measures required under subsection (a)(2)(B) to be submitted immediatelyafter November 15, 1990 (concerning corrections to motor vehicle inspection and maintenance programs).
+&emsp;&emsp;&emsp;(iv) Measures required under subsection (a)(2)(B) to be submitted immediately after November 15, 1990 (concerning corrections to motor vehicle inspection and maintenance programs).
 
 #### (2) Reasonably available control technology
 
@@ -140,7 +140,7 @@ Except as otherwise specified in paragraph (4), each State in which all or part 
 
 #### (2) Attainment and reasonable further progress demonstrations
 
-&emsp;Within 4 years after November 15, 1990, the State shall submit a revision to the applicableimplementation plan that includes each of the following:
+&emsp;Within 4 years after November 15, 1990, the State shall submit a revision to the applicable implementation plan that includes each of the following:
 
 #### (A) Attainment demonstration
 
@@ -154,7 +154,7 @@ Except as otherwise specified in paragraph (4), each State in which all or part 
 
 &emsp;&emsp;&emsp;(ii) an amount less than 3 percent of such baseline emissions each year, if the State demonstrates to the satisfaction of the Administrator that the plan reflecting such lesser amount includes all measures that can feasibly be implemented in the area, in light of technological achievability.
 
-> &emsp;&emsp;To lessen the 3 percent requirement under clause (ii), a State must demonstrate to the satisfaction of the Administrator that the plan for the area includes the measures that are achieved in practice by sources in the same source category in nonattainment areas of the next higher classification. Any determination to lessen the 3 percent requirement shall be reviewed at each milestone under subsection (g) and revised to reflect such new measures (if any) achieved in practice by sources in the same category in any State, allowing a reasonable time to implement such measures. The emission reductions described in this subparagraph shall be calculated in accordance with subsection (b)(1)(C) and (D) (concerning creditability of reductions). The reductions creditable for the period beginning 6 years after November 15, 1990, shall include reductions that occurred before such period, computed in accordance with subsection (b)(1), that exceed the 15-percent amount of reductions required under subsection (b)(1)(A).
+> &emsp;&emsp;To lessen the 3 percent requirement under clause (ii), a State must demonstrate to the satisfaction of the Administrator that the plan for the area includes the measures that are achieved in practice by sources in thesame source category in nonattainment areas of the next higher classification. Any determination to lessen the 3 percent requirement shall be reviewed at each milestone under subsection (g) and revised to reflect such new measures (if any) achieved in practice by sources in the same category in any State, allowing a reasonable time to implement such measures. The emission reductions described in this subparagraph shall be calculated in accordance with subsection (b)(1)(C) and (D) (concerning creditability of reductions). The reductions creditable for the period beginning 6 years after November 15, 1990, shall include reductions that occurred before such period, computed in accordance with subsection (b)(1), that exceed the 15-percent amount of reductions required under subsection (b)(1)(A).
 
 #### (C) NO<sub>x</sub> control
 
@@ -184,7 +184,7 @@ Except as otherwise specified in paragraph (4), each State in which all or part 
 
 &emsp;&emsp;&emsp;(ii) No waivers for vehicles and parts covered by the emission control performance warranty as provided for in section 7541(b) of this title unless a warranty remedy has been denied in writing, or for tampering-related repairs.
 
-&emsp;&emsp;&emsp;(iii) In view of the air quality purpose of the program, if, for any vehicle, waivers are permitted for emissions-related repairs not covered by warranty, an expenditure to qualify for the waiver of an amount of $450 or more for such repairs (adjusted annually as determined by the Administrator on the basis of the Consumer Price Indexin the same manner as provided in subchapter V).
+&emsp;&emsp;&emsp;(iii) In view of the air quality purpose of the program, if, for any vehicle, waivers are permitted for emissions-related repairs not covered by warranty, an expenditure to qualify for the waiver of an amount of $450 or more for such repairs (adjusted annually as determined by the Administrator on the basis of the Consumer Price Index in the same manner as provided in subchapter V).
 
 &emsp;&emsp;&emsp;(iv) Enforcement through denial of vehicle registration (except for any program in operation before November 15, 1990, whose enforcement mechanism is demonstrated to the Administrator to be more effective than the applicable vehicle registration program in assuring that noncomplying vehicles are not operated on public roads).
 
@@ -194,7 +194,7 @@ Except as otherwise specified in paragraph (4), each State in which all or part 
 
 &emsp;&emsp;&emsp;(vii) Inspection of emission control diagnostic systems and the maintenance or repair of malfunctions or system deterioration identified by or affecting such diagnostics systems.
 
-> &emsp;&emsp;Each State shall biennially prepare a report to the Administrator which assesses the emission reductions achieved by the program required under this paragraph based on data collected during inspection and repair of vehicles. The methods used to assess the emission reductions shall be those established by the Administrator.
+> &emsp;&emsp;Each State shall biennially prepare a report to the Administrator which assesses theemission reductions achieved by the program required under this paragraph based on data collected during inspection and repair of vehicles. The methods used to assess the emission reductions shall be those established by the Administrator.
 
 #### (4) Clean-fuel vehicle programs
 
@@ -206,7 +206,7 @@ Except as otherwise specified in paragraph (4), each State in which all or part 
 
 #### (5) Transportation control
 
-&emsp;(A) <sup>4</sup> Beginning 6 years after November 15, 1990, and each third year thereafter, the State shall submit a demonstration as to whether current aggregate vehicle mileage, aggregate vehicle emissions, congestion levels, and other relevant parameters are consistent with those used for the area's demonstration of attainment. Where such parameters and emissions levels exceed the levels projected for purposes of the area's attainment demonstration, the State shall within 18 months develop and submit a revision of the applicable implementation plan that includes a transportation control measures program consisting of measures from, but not limited to, section 7408(f) of this title that will reduce emissions to levels that are consistent with emission levels projected in such demonstration. In considering such measures, the State should ensure adequate access to downtown, other commercial, and residential areas and should avoid measures that increase or relocate emissions and congestion rather than reduce them. Such revision shall be developed in accordance with guidance issued by the Administrator pursuant to section 7408(e) of this title and with the requirements of section 7504(b) of this titleand shall include implementation and funding schedules that achieve expeditious emissions reductions in accordance with implementation plan projections.
+&emsp;(A) <sup>4</sup> Beginning 6 years after November 15, 1990, and each third year thereafter, the State shall submit a demonstration as to whether current aggregate vehicle mileage, aggregate vehicle emissions, congestion levels, and other relevant parameters are consistent with those used for the area's demonstration of attainment. Where such parameters and emissions levels exceed the levels projected for purposes of the area's attainment demonstration, the State shall within 18 months develop and submit a revision of the applicable implementation plan that includes a transportation control measures program consisting of measures from, but not limited to, section 7408(f) of this title that will reduce emissions to levels that are consistent with emission levels projected in such demonstration. In considering such measures, the State should ensure adequate access to downtown, other commercial, and residential areas and should avoid measures that increase or relocate emissions and congestion rather than reduce them. Such revision shall be developed in accordance with guidance issued by the Administrator pursuant to section 7408(e) of this title and with the requirements of section 7504(b) of this title and shall include implementation and funding schedules that achieve expeditious emissions reductions in accordance with implementation plan projections.
 
 #### (6) De minimis rule
 
@@ -214,7 +214,7 @@ Except as otherwise specified in paragraph (4), each State in which all or part 
 
 #### (7) Special rule for modifications of sources emitting less than 100 tons
 
-&emsp;In the case of any major stationary source of volatile organic compounds located in the area (other than a source which emits or has the potential to emit 100 tons or more of volatile organic compounds per year), whenever any change (as described in section 7411(a)(4) of this title) at that source results in any increase (other than a de minimis increase) in emissions of volatile organic compounds from any discrete operation, unit, or other pollutant emitting activity at the source, such increase shall be considered a modification for purposes of section 7502(c)(5) of this title and section 7503(a) of this title, except that such increase shall not be considered a modification for such purposes if the owner or operator of the source elects to offset the increase by a greater reduction in emissions of volatile organic compounds concerned from other operations, units, or activities within the source at an internal offset ratio of at least 1.3 to 1. If the owner or operator does not make such election, such change shall be considered a modification for such purposes, but in applying section 7503(a)(2) of this title in the case of any such modification, the best available control technology (BACT), as defined in section 7479 of this title, shall be substituted for the lowest achievable emission rate (LAER). The Administrator shall establish and publish policies and procedures for implementing the provisions of this paragraph.
+&emsp;In the case of any major stationary source of volatile organic compounds located in the area (other than a source which emits or has the potential to emit 100 tons or more of volatile organic compounds per year), whenever any change (as described in section 7411(a)(4) of this title) at that source results in any increase (other than a de minimis increase) in emissions of volatile organic compounds from any discrete operation, unit, or other pollutant emitting activity at the source, such increase shall be considered a modification for purposes of section 7502(c)(5) of this title and section 7503(a) of this title, except that such increase shall not be considered a modificationfor such purposes if the owner or operator of the source elects to offset the increase by a greater reduction in emissions of volatile organic compounds concerned from other operations, units, or activities within the source at an internal offset ratio of at least 1.3 to 1. If the owner or operator does not make such election, such change shall be considered a modification for such purposes, but in applying section 7503(a)(2) of this title in the case of any such modification, the best available control technology (BACT), as defined in section 7479 of this title, shall be substituted for the lowest achievable emission rate (LAER). The Administrator shall establish and publish policies and procedures for implementing the provisions of this paragraph.
 
 #### (8) Special rule for modifications of sources emitting 100 tons or more
 
@@ -242,7 +242,7 @@ Each State in which all or part of a Severe Area is located shall, with respect 
 
 #### (2) Offset requirement
 
-&emsp;For purposes of satisfying the offset requirements pursuant to this part, the ratio of total emission reductions of VOCs to total increased emissions of such air pollutant shall be at least 1.3 to 1, except that if the State plan requires all existing major sources in the nonattainment area to use best available control technology (as defined in section 7479(3) of this title) for the control of volatile organic compounds, the ratio shall be at least 1.2 to 1.
+&emsp;For purposes of satisfying the offset requirements pursuant to this part, the ratio of totalemission reductions of VOCs to total increased emissions of such air pollutant shall be at least 1.3 to 1, except that if the State plan requires all existing major sources in the nonattainment area to use best available control technology (as defined in section 7479(3) of this title) for the control of volatile organic compounds, the ratio shall be at least 1.2 to 1.
 
 #### (3) Enforcement under section 7511d
 
@@ -270,7 +270,7 @@ Each State in which all or part of an Extreme Area is located shall, with respec
 
 &emsp;&emsp;(B) use advanced control technology (such as catalytic control technology or other comparably effective control methods) for reduction of emissions of oxides of nitrogen.
 
-> &emsp;For purposes of this subsection, the term "primary fuel" means the fuel which is used 90 percent or more of the operating time. Thisparagraph shall not apply during any natural gas supply emergency (as defined in title III of the Natural Gas Policy Act of 1978 \[15 U.S.C. 3361 et seq.\]).
+> &emsp;For purposes of this subsection, the term "primary fuel" means the fuel which is used 90 percent or more of the operating time. This paragraph shall not apply during any natural gas supply emergency (as defined in title III of the Natural Gas Policy Act of 1978 \[15 U.S.C. 3361 et seq.\]).
 
 #### (4) Traffic control measures during heavy traffic hours
 
@@ -284,7 +284,7 @@ Each State in which all or part of an Extreme Area is located shall, with respec
 
 &emsp;&emsp;(B) the State has submitted enforceable commitments to develop and adopt contingency measures to be implemented as set forth herein if the anticipated technologies do not achieve planned reductions.
 
-> &emsp;Such contingency measures shall be submitted to the Administrator no later than 3 years before proposed implementation of the plan provisions and approved or disapproved by the Administrator in accordance with section 7410 of this title. The contingency measures shall be adequate to produce emission reductions sufficient, in conjunction with other approved plan provisions, to achieve the periodic emission reductions required by subsection (b)(1) or (c)(2) and attainment by the applicable dates. If the Administrator determines that an Extreme Area has failed to achieve an emission reduction requirement set forth in subsection (b)(1) or (c)(2), and that such failure is due in whole or part to an inability to fully implement provisions approved pursuant to this subsection, the Administrator shall require the State to implement the contingency measures to the extent necessary to assure compliance with subsections (b)(1) and (c)(2).
+> &emsp;Such contingency measures shall be submitted to the Administrator no later than 3 years before proposed implementation of the plan provisions and approved or disapproved by the Administrator in accordance with section 7410 of this title. The contingency measures shall beadequate to produce emission reductions sufficient, in conjunction with other approved plan provisions, to achieve the periodic emission reductions required by subsection (b)(1) or (c)(2) and attainment by the applicable dates. If the Administrator determines that an Extreme Area has failed to achieve an emission reduction requirement set forth in subsection (b)(1) or (c)(2), and that such failure is due in whole or part to an inability to fully implement provisions approved pursuant to this subsection, the Administrator shall require the State to implement the contingency measures to the extent necessary to assure compliance with subsections (b)(1) and (c)(2).
 
 > Any reference to the term "attainment date" in subsection (b), (c), or (d) which is incorporated by reference into this subsection, shall refer to the attainment date for Extreme Areas.
 
@@ -350,7 +350,7 @@ Each State in which all or part of an Extreme Area is located shall, with respec
 
 (1) Notwithstanding any other provision of section 7511 of this title or this section, a State containing an ozone nonattainment area that does not include, and is not adjacent to, any part of a Metropolitan Statistical Area or, where one exists, a Consolidated Metropolitan Statistical Area (as defined by the United States Bureau of the Census), which area is treated by the Administrator, in the Administrator's discretion, as a rural transport area within the meaning of paragraph (2), shall be treated by operation of law as satisfying the requirements of this section if it makes the submissions required under subsection (a) of this section (relating to marginal areas).
 
-(2) The Administrator may treat an ozone nonattainment area as a rural transport area if the Administrator finds that sources of VOC (and, where the Administrator determines relevant, NO<sub>x</sub>) emissions within the area do not make asignificant contribution to the ozone concentrations measured in the area or in other areas.
+(2) The Administrator may treat an ozone nonattainment area as a rural transport area if the Administrator finds that sources of VOC (and, where the Administrator determines relevant, NO<sub>x</sub>) emissions within the area do not make a significant contribution to the ozone concentrations measured in the area or in other areas.
 
 #### (i) Reclassified areas
 
@@ -370,9 +370,11 @@ Each State containing an ozone nonattainment area reclassified under section 751
 
 #### (2) Failure to demonstrate attainment
 
-&emsp;If any State in which there is located a portion of a multi-State ozone nonattainment area fails to provide a demonstration of attainment of the national ambient air quality standard for ozone in that portion within the required period, the State may petition the Administrator to make a finding that the State would have been able to make such demonstration but for the failure of one or more other States in which other portions of the area are located to commit to the implementation of all measures required under this section (relating to plan submissions and requirements for ozone nonattainment areas). If the Administrator makes such finding, the provisions of section 7509 of this title (relating to sanctions) shall not apply, by reason of the failure to make such demonstration, in the portion of the multi-State ozone nonattainment area within the State submitting such petition.
+&emsp;If any State in which there is located a portion of a multi-State ozone nonattainmentarea fails to provide a demonstration of attainment of the national ambient air quality standard for ozone in that portion within the required period, the State may petition the Administrator to make a finding that the State would have been able to make such demonstration but for the failure of one or more other States in which other portions of the area are located to commit to the implementation of all measures required under this section (relating to plan submissions and requirements for ozone nonattainment areas). If the Administrator makes such finding, the provisions of section 7509 of this title (relating to sanctions) shall not apply, by reason of the failure to make such demonstration, in the portion of the multi-State ozone nonattainment area within the State submitting such petition.
 
 (July 14, 1955, ch. 360, title I, §182, as added Pub. L. 101–549, title I, §103, Nov. 15, 1990, 104 Stat. 2426; amended Pub. L. 104–70, §1, Dec. 23, 1995, 109 Stat. 773.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -381,6 +383,8 @@ The Natural Gas Policy Act of 1978, referred to in subsec. (e)(3), is Pub. L. 95
 #### Amendments
 
 <b>1995</b>—Subsec. (d)(1)(B). Pub. L. 104–70 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "Within 2 years after November 15, 1990, the State shall submit a revision requiring employers in such area to implement programs to reduce work-related vehicle trips and miles traveled by employees. Such revision shall be developed in accordance with guidance issued by the Administrator pursuant to section 7408(f) of this title and shall, at a minimum, require that each employer of 100 or more persons in such area increase average passenger occupancy per vehicle in commuting trips between home and the workplace during peak travel periods by not less than 25 percent above the average vehicle occupancy for all such trips in the area at the time the revision is submitted. The guidance of the Administrator may specify average vehicle occupancy rates which vary for locations within a nonattainment area (suburban, center city, business district) or among nonattainment areas reflecting existing occupancy rates and the availability of high occupancy modes. The revision shall provide that each employer subject to a vehicle occupancy requirement shall submit a compliance plan within 2 years after the date the revision is submitted which shall convincingly demonstrate compliance with the requirements of this paragraph not later than 4 years after such date."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Moratorium on Certain Emissions Testing Requirements
 

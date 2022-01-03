@@ -20,7 +20,7 @@ An employee shall not be eligible to receive any assistance (other than moving e
 
 &emsp;(2) at any time after the date such employee receives an offer of employment, in his craft and for which such employee is qualified, from a rail carrier acquiring lines of the Rock Island Railroad.
 
-(Pub. L. 96–254, title I, §108, May 30, 1980, 94 Stat. 402; Pub. L. 96–448, title VII, §701(b)(2), Oct. 14,1980, 94 Stat. 1960; Pub. L. 97–468, title II, §232, Jan. 14, 1983, 96 Stat. 2547.)
+(Pub. L. 96–254, title I, §108, May 30, 1980, 94 Stat. 402; Pub. L. 96–448, title VII, §701(b)(2), Oct. 14, 1980, 94 Stat. 1960; Pub. L. 97–468, title II, §232, Jan. 14, 1983, 96 Stat. 2547.)
 
 #### <b>Editorial Notes</b>
 

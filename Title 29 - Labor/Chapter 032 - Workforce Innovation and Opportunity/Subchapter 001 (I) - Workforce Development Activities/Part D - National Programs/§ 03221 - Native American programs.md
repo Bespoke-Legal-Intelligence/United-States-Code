@@ -44,7 +44,7 @@ Every 4 years, the Secretary shall, on a competitive basis, make grants to, or e
 
 &emsp;&emsp;(A) are consistent with this section; and
 
-&emsp;&emsp;(B) are necessary to meet the needs of Indians, Alaska Natives, or Native Hawaiianspreparing to enter, reenter, or retain unsubsidized employment leading to self-sufficiency.
+&emsp;&emsp;(B) are necessary to meet the needs of Indians, Alaska Natives, or Native Hawaiians preparing to enter, reenter, or retain unsubsidized employment leading to self-sufficiency.
 
 #### (2) Workforce development activities and supplemental services
 

@@ -38,7 +38,7 @@ No work shall be deemed suitable for the purposes of subsection (a–2)(ii) of t
 
 &emsp;(iii) as a condition of being employed he would be required to join a company union or to resign from or refrain from joining any bona fide labor organization;
 
-&emsp;(iv) acceptance of the work would require him to engage in activities in violation of law or which, by reason of their being in violation of reasonable requirements of the constitution, bylaws, or similar regulations of a bona fide labor organization of which he is a member, would subject him to expulsion from such labor organization; or
+&emsp;(iv) acceptance of the work would require him to engage in activities in violation of lawor which, by reason of their being in violation of reasonable requirements of the constitution, bylaws, or similar regulations of a bona fide labor organization of which he is a member, would subject him to expulsion from such labor organization; or
 
 &emsp;(v) acceptance of the work would subject him to loss of substantial seniority rights under any collective bargaining agreement between a railway labor organization, organized in accordance with the provisions of the Railway Labor Act \[45 U.S.C. 151 et seq.\], and any other employer.
 
@@ -134,7 +134,7 @@ Amendment by Pub. L. 85–927 effective with respect to days in benefit years af
 
 #### Effective Date of 1951 Amendment
 
-Amendment by act Oct. 30, 1951, effective with respect to registration periods beginning on and afterJan. 1, 1952, see section 28 of act Oct. 30, 1951, set out as a note under section 351 of this title.
+Amendment by act Oct. 30, 1951, effective with respect to registration periods beginning on and after Jan. 1, 1952, see section 28 of act Oct. 30, 1951, set out as a note under section 351 of this title.
 
 #### Effective Date of 1946 Amendment
 

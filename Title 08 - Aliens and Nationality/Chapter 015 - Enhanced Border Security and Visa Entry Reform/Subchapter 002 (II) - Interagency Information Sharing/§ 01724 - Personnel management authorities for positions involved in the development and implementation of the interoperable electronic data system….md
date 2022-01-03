@@ -14,7 +14,7 @@ Total payments to employees under any system established under this section shal
 
 #### (d) Operating plan
 
-Not later than 90 days after May 14, 2002, the Attorney General shall submit to the Committee on Appropriations, the Committee on theJudiciary, the Select Committee on Intelligence, and the Committee on Foreign Relations of the Senate and the Committee on Appropriations, the Committee on the Judiciary, the Permanent Select Committee on Intelligence, and the Committee on International Relations of the House of Representatives an operating plan—
+Not later than 90 days after May 14, 2002, the Attorney General shall submit to the Committee on Appropriations, the Committee on the Judiciary, the Select Committee on Intelligence, and the Committee on Foreign Relations of the Senate and the Committee on Appropriations, the Committee on the Judiciary, the Permanent Select Committee on Intelligence, and the Committee on International Relations of the House of Representatives an operating plan—
 
 &emsp;(1) describing the Attorney General's intended use of the authority under this section; and
 
@@ -31,6 +31,8 @@ The authority of this section shall terminate upon the implementation of the Chi
 #### References in Text
 
 Level III of the Executive Schedule, referred to in subsec. (b), is set out in section 5314 of Title 5, Government Organization and Employees.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

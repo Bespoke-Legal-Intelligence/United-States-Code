@@ -88,7 +88,7 @@ Section 7 of the Fair Labor Standards Act of 1938, referred to in subsec. (a), i
 
 <b>1996</b>—Subsec. (c). Pub. L. 104–201 inserted "and the provisions of section 5543(b)" after "the last two sentences of subsection (a)".
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–378, §2(42)(B), amended last two sentences generally. Prior to amendment, last two sentences read as follows: "This section, other than the sixth sentence, shall not be applicable to anemployee who is subject to the overtime pay provisions of section 7 of the Fair Labor Standards Act of 1938. In the case of an employee who would, were it not for the preceding sentence, be subject to this section, hours of work in excess of 8 hours in a day shall be deemed to be overtime hours for the purposes of such section 7 and hours in a paid nonwork status shall be deemed to be hours of work."
+<b>1992</b>—Subsec. (a). Pub. L. 102–378, §2(42)(B), amended last two sentences generally. Prior to amendment, last two sentences read as follows: "This section, other than the sixth sentence, shall not be applicable to an employee who is subject to the overtime pay provisions of section 7 of the Fair Labor Standards Act of 1938. In the case of an employee who would, were it not for the preceding sentence, be subject to this section, hours of work in excess of 8 hours in a day shall be deemed to be overtime hours for the purposes of such section 7 and hours in a paid nonwork status shall be deemed to be hours of work."
 
 Subsec. (a)(2), (3). Pub. L. 102–378, §2(42)(A), substituted "2,087" for "2,080".
 

@@ -170,6 +170,8 @@ The State shall make copies of the reports and audits required by this section a
 
 (Aug. 14, 1935, ch. 531, title V, §506, as added Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 823; amended Pub. L. 98–369, div. B, title III, §2373(a)(2), July 18, 1984, 98 Stat. 1111; Pub. L. 101–239, title VI, §§6503(c)(3), (4), 6504, Dec. 19, 1989, 103 Stat. 2278; Pub. L. 104–316, title I, §122(f), Oct. 19, 1996, 110 Stat. 3837; Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §703(d)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–402.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 6503 of title 31, referred to in subsec. (d)(3), was amended generally by Pub. L. 101–453, §5(b), Oct. 24, 1990, 104 Stat. 1059, and, as so amended, provisions formerly appearing in subsec. (b) are now contained in subsec. (h).
@@ -188,7 +190,7 @@ Provisions similar to those comprising former section 706 were contained in sect
 
 <b>1989</b>—Subsec. (a)(1). Pub. L. 101–239, §6504(a)(1), inserted after first sentence "Each such report shall be prepared by, or in consultation with, the State maternal and child health agency.", substituted "be in such standardized form and contain such information (including information described in paragraph (2))" for "be in such form and contain such information", and substituted ", (C) to describe the extent to which the State has met the goals and objectives it set forth under section 705(a)(2)(B)(i) of this title and the national health objectives referred to in section 701(a) of this title, and (D)" for "and of the progress made toward achieving the purposes of this subchapter, and (C)".
 
-Pub. L. 101–239, §6503(c)(3), (4), substituted "application transmitted under section 705(a) of this title" for"description and statement transmitted under section 705 of this title" in subpar. (C).
+Pub. L. 101–239, §6503(c)(3), (4), substituted "application transmitted under section 705(a) of this title" for "description and statement transmitted under section 705 of this title" in subpar. (C).
 
 Subsec. (a)(2). Pub. L. 101–239, §6504(a)(3), added par. (2). Former par. (2) redesignated (3).
 
@@ -197,6 +199,8 @@ Subsec. (a)(3). Pub. L. 101–239, §6504(b), amended par. (3) generally. Prior 
 Pub. L. 101–239, §6504(a)(2), redesignated former par. (2) as (3).
 
 <b>1984</b>—Subsec. (d)(3). Pub. L. 98–369 substituted "section 6503(b) of title 31" for "section 202 of the Intergovernmental Cooperation Act of 1968 (42 U.S.C. 4212)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

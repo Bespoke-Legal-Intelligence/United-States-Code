@@ -46,6 +46,8 @@ Effective Date.—The requirements of this section shall become effective on the
 
 (Added Pub. L. 112–95, title IV, §403(a), Feb. 14, 2012, 126 Stat. 84.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this section, referred to in subsec. (b), is the date of enactment of Pub. L. 112–95, which was approved Feb. 14, 2012.

@@ -32,7 +32,7 @@ As used in this chapter—
 
 &emsp;(10) The term "recreational fishing" means fishing for personal use and enjoyment using conventional angling gear, and not for sale or barter.
 
-&emsp;(11) The term "salmon" means any anadromous species of the family Salmonidae and Genus Oncorhynchus, commonly known as Pacific salmon.
+&emsp;(11) The term "salmon" means any anadromous species of the family Salmonidae andGenus Oncorhynchus, commonly known as Pacific salmon.
 
 &emsp;(12) The term "salmon or steelhead resource" means any stock of salmon or steelhead.
 
@@ -49,6 +49,8 @@ As used in this chapter—
 &emsp;(18) The term "Washington tribal coordinating body" means the organization duly authorized by the treaty tribes of the Washington conservation area to coordinate their activities for them for the purposes of this chapter.
 
 (Pub. L. 96–561, title I §103, Dec. 22, 1980, 94 Stat. 3276.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -66,7 +66,7 @@ The purpose of the program under this section is to provide local educational ag
 
 &emsp;&emsp;(G) an assurance that the local educational agency developed and will implement the local flexibility demonstration agreement in consultation with teachers, principals, other school leaders (including charter school leaders in a local educational agency that has charter schools), administrators of Federal programs impacted by the agreement, parents, community leaders, and other relevant stakeholders;
 
-&emsp;&emsp;(H) an assurance that the local educational agency will use fiscal control and sound accounting procedures that ensure proper disbursement of, and accounting for, eligible Federal funds consolidated and used under such system;
+&emsp;&emsp;(H) an assurance that the local educational agency will use fiscal control and sound accounting procedures that ensure proper disbursement of, and accounting for,eligible Federal funds consolidated and used under such system;
 
 &emsp;&emsp;(I) an assurance that the local educational agency will continue to meet the requirements of sections 6320, 6321, and 7881 of this title; and
 
@@ -118,7 +118,7 @@ Each local educational agency with an approved application under subsection (d) 
 
 &emsp;(3) make public the total number of students enrolled in each school served by the agency and the number of students enrolled in each such school disaggregated by each of the subgroups of students, as defined in section 6311(c)(2) of this title; and
 
-&emsp;(4) notwithstanding paragraph (1), (2), or (3), ensure that any information to be reported ormade public under this subsection is only reported or made public if such information does not reveal personally identifiable information.
+&emsp;(4) notwithstanding paragraph (1), (2), or (3), ensure that any information to be reported or made public under this subsection is only reported or made public if such information does not reveal personally identifiable information.
 
 #### (f) Limitations on administrative expenditures
 
@@ -185,6 +185,8 @@ In this section:
 &emsp;The term "high-poverty school" means a school that is in the highest 2 quartiles of schools served by a local educational agency, based on the percentage of enrolled students from low-income families.
 
 (Pub. L. 89–10, title I, §1501, as added Pub. L. 114–95, title I, §1501(b), Dec. 10, 2015, 129 Stat. 1906.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -273,6 +275,8 @@ Section 6561g, Pub. L. 89–10, title I, §1828, as added Pub. L. 107–110, tit
 Section 6561h, Pub. L. 89–10, title I, §1829, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1616, related to calculation of annual school dropout rate.
 
 Section 6561i, Pub. L. 89–10, title I, §1830, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1616, related to reporting and accountability.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

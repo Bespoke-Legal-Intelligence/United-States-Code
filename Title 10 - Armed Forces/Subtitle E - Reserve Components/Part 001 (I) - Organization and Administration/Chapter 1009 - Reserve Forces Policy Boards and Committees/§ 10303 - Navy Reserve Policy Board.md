@@ -4,6 +4,8 @@ A Navy Reserve Policy Board shall be convened at least once annually at the seat
 
 (Added Pub. L. 103–337, div. A, title XVI, §1661(b)(1), Oct. 5, 1994, 108 Stat. 2981; amended Pub. L. 109–163, div. A, title V, §515(b)(1)(DD), (3)(H), Jan. 6, 2006, 119 Stat. 3233, 3234.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 5251(c) of this title, prior to repeal by Pub. L. 103–337, §1661(a)(3)(A).
@@ -13,6 +15,8 @@ Provisions similar to those in this section were contained in section 5251(c) of
 <b>2006</b>—Pub. L. 109–163, §515(b)(3)(H), substituted "Navy Reserve" for "Naval Reserve" in section catchline.
 
 Pub. L. 109–163, §515(b)(1)(DD), substituted "Navy Reserve" for "Naval Reserve" in two places in text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

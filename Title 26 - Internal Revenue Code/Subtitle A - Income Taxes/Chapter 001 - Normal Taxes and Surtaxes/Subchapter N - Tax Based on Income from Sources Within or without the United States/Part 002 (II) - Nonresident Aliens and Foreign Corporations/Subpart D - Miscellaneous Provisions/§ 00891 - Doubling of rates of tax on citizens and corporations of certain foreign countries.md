@@ -4,6 +4,8 @@ Whenever the President finds that, under the laws of any foreign country, citize
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 283; Mar. 13, 1956, ch. 83, §5(6), 70 Stat. 49; Pub. L. 86–69, §3(f)(1), June 25, 1959, 73 Stat. 140; Pub. L. 98–369, div. A, title II, §211(b)(12), July 18, 1984, 98 Stat. 755; Pub. L. 99–514, title X, §1024(c)(13), Oct. 22, 1986, 100 Stat. 2408.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1986</b>—Pub. L. 99–514 struck out reference to section 821.
@@ -13,6 +15,8 @@ Whenever the President finds that, under the laws of any foreign country, citize
 <b>1959</b>—Pub. L. 86–69 struck out reference to section 811.
 
 <b>1956</b>—Act Mar. 13, 1956, inserted reference to section 811.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

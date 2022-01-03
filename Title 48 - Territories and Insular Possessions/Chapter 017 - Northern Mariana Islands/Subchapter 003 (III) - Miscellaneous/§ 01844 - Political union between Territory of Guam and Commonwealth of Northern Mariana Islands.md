@@ -1,6 +1,6 @@
 ### §1844. Political union between Territory of Guam and Commonwealth of Northern Mariana Islands
 
-In the event that a political union is effected at a future time between the Territory of Guam and the Commonwealth of the Northern Mariana Islands, the Federal Government and each of its agencies is authorized and directed to assure that—
+In the event that a political union is effected at a future time between the Territory of Guamand the Commonwealth of the Northern Mariana Islands, the Federal Government and each of its agencies is authorized and directed to assure that—
 
 &emsp;(i) there will be no diminution of any rights or entitlements otherwise eligible to said territory and Commonwealth in effect on the effective date of such union,
 
@@ -11,6 +11,8 @@ In the event that a political union is effected at a future time between the Ter
 > Whenever any discrepancy exists or arises between the benefits available for either said territory or Commonwealth under any policies or programs authorized by law (including, but not limited to, any formulas for matching grants-in-aid or comparable programs or benefits), the most favorable terms available to either said territory or Commonwealth shall be deemed applicable to said unified area after the effective date of unification.
 
 (Pub. L. 96–597, title VI, §602, Dec. 24, 1981, 94 Stat. 3480.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

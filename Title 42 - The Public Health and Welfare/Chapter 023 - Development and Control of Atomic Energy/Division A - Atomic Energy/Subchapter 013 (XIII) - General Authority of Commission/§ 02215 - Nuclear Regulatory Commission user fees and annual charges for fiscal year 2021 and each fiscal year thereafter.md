@@ -70,7 +70,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B) and except as provided in subparagraph (D), the Commission may charge to any licensee or certificate holder of the Commission an annualcharge in addition to the fees assessed and collected under paragraph (2).
+&emsp;&emsp;Subject to subparagraph (B) and except as provided in subparagraph (D), the Commission may charge to any licensee or certificate holder of the Commission an annual charge in addition to the fees assessed and collected under paragraph (2).
 
 #### (B) Cap on annual charges of certain licensees
 
@@ -154,15 +154,19 @@ Except as provided in subsection (c), this section takes effect on October 1, 20
 
 (Pub. L. 115–439, title I, §102, Jan. 14, 2019, 132 Stat. 5568.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-Section 3116 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005, referredto in subsec. (b)(1)(B)(ii)(II), is section 3116 of Pub. L. 108–375, which is set out as a note under section 2602 of Title 50, War and National Defense.
+Section 3116 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005, referred to in subsec. (b)(1)(B)(ii)(II), is section 3116 of Pub. L. 108–375, which is set out as a note under section 2602 of Title 50, War and National Defense.
 
 Section 103, referred to in subsec. (b)(1)(B)(iii), is section 103 of Pub. L. 115–439, title I, Jan. 14, 2019, 132 Stat. 5571. Subsec. (a) of section 103 of Pub. L. 115–439 enacted provisions set out as a note under section 2133 of this title. Subsecs. (b) to (e) of section 103 of Pub. L. 115–439 are not classified to the Code.
 
 #### Codification
 
 Section was enacted as part of the Nuclear Energy Innovation and Modernization Act, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Purpose
 
@@ -296,5 +300,5 @@ Technology-inclusive regulatory framework.—The term 'technology-inclusive regu
 
 Topical report.—The term 'topical report' means a document submitted to the Commission that addresses a technical topic related to nuclear reactor safety or design."
 
-<i><sup>1</sup></i><i> See References in Text below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

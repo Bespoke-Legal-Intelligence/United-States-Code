@@ -48,7 +48,7 @@ In the case of an individual who is a first-time homebuyer of a principal reside
 
 #### (4) Age limitation
 
-&emsp;No credit shall be allowed under subsection (a) with respect to the purchase of any residence unless the taxpayer has attained age 18 as of the date of such purchase. In the case of any taxpayer who is married (within the meaning of section 7703), the taxpayer shall be treated as meeting the age requirement of the preceding sentence if the taxpayer or the taxpayer's spouse meets such age requirement.
+&emsp;No credit shall be allowed under subsection (a) with respect to the purchase of any residence unless the taxpayer has attained age 18 as of the date of such purchase. In the case of any taxpayer who is married (within themeaning of section 7703), the taxpayer shall be treated as meeting the age requirement of the preceding sentence if the taxpayer or the taxpayer's spouse meets such age requirement.
 
 #### (c) Definitions
 
@@ -90,7 +90,7 @@ For purposes of this section—
 
 #### (6) Exception for long-time residents of same principal residence
 
-&emsp;In the case of an individual (and, if married, such individual's spouse) who has owned andused the same residence as such individual's principal residence for any 5-consecutive-year period during the 8-year period ending on the date of the purchase of a subsequent principal residence, such individual shall be treated as a first-time homebuyer for purposes of this section with respect to the purchase of such subsequent residence.
+&emsp;In the case of an individual (and, if married, such individual's spouse) who has owned and used the same residence as such individual's principal residence for any 5-consecutive-year period during the 8-year period ending on the date of the purchase of a subsequent principal residence, such individual shall be treated as a first-time homebuyer for purposes of this section with respect to the purchase of such subsequent residence.
 
 #### (d) Exceptions
 
@@ -212,6 +212,8 @@ In the case of a purchase of a principal residence after December 31, 2008, a ta
 
 (Added Pub. L. 110–289, div. C, title I, §3011(a), July 30, 2008, 122 Stat. 2888; amended Pub. L. 111–5, div. B, title I, §1006(a)–(c), (d)(2), (e), Feb. 17, 2009, 123 Stat. 316, 317; Pub. L. 111–92, §§11(a)–(g), 12(a)–(c), Nov. 6, 2009, 123 Stat. 2989–2992; Pub. L. 111–198, §2(a), (b), July 2, 2010, 124 Stat. 1356.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 36 was renumbered section 37 of this title.
@@ -269,6 +271,8 @@ Subsec. (h). Pub. L. 111–92, §11(a)(1), substituted "May 1, 2010" for "Decemb
 Pub. L. 111–5, §1006(a)(1), substituted "December 1, 2009" for "July 1, 2009".
 
 Subsec. (h)(3). Pub. L. 111–92, §11(f), added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

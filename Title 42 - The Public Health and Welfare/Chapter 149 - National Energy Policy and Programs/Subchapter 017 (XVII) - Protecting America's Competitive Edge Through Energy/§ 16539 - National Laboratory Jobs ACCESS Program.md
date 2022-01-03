@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-On or after the date that is 180 days after December 20, 2019, the Secretary may establish a program, to be known as the "Department of Energy National Lab Jobs ACCESS Program", under which the Secretary may award, on a competitive basis, 5-year grants to eligible entities described in subsection (c) for the Federal share of the costs of pre-apprenticeship programs and apprenticeship programs described in subsection (b).
+On or after the date that is 180 days after December 20, 2019, the Secretary may establish aprogram, to be known as the "Department of Energy National Lab Jobs ACCESS Program", under which the Secretary may award, on a competitive basis, 5-year grants to eligible entities described in subsection (c) for the Federal share of the costs of pre-apprenticeship programs and apprenticeship programs described in subsection (b).
 
 #### (b) Pre-apprenticeship and apprenticeship programs described
 
@@ -78,7 +78,7 @@ The amount of a grant provided under this section may not, for any 24-month peri
 
 #### (i) Non-Federal share
 
-The non-Federal share of the cost of a pre-apprenticeship program or apprenticeship program carried out using a grant under this section shall be not less than 25 percent of the total cost of the program.
+The non-Federal share of the cost of a pre-apprenticeship program or apprenticeship program carried out using a grant under this sectionshall be not less than 25 percent of the total cost of the program.
 
 #### (j) Technical assistance
 
@@ -218,7 +218,9 @@ In this section:
 
 (Pub. L. 116–92, div. C, title XXXI, §3122, Dec. 20, 2019, 133 Stat. 1953.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
-Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2020, and not as part of the America COMPETES Act, which comprises this subchapter.
+Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2020, and not as part of the America COMPETES Act which comprises this subchapter.
 

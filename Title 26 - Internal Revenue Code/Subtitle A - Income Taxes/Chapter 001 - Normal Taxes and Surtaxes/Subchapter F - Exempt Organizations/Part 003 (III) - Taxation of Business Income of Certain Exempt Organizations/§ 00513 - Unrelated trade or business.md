@@ -182,7 +182,7 @@ In the case of a mutual or cooperative telephone or electric company, the term "
 
 &emsp;&emsp;&emsp;&emsp;(I) any payment which entitles the payor to the use or acknowledgement of the name or logo (or product lines) of the payor's trade or business in regularly scheduled and printed material published by or on behalf of the payee organization that is not related to and primarily distributed in connection with a specific event conducted by the payee organization, or
 
-&emsp;&emsp;&emsp;&emsp;(II) any payment made in connection with any qualified convention or tradeshow activity (as defined in subsection (d)(3)(B)).
+&emsp;&emsp;&emsp;&emsp;(II) any payment made in connection with any qualified convention or trade show activity (as defined in subsection (d)(3)(B)).
 
 #### (3) Allocation of portions of single payment
 
@@ -197,6 +197,8 @@ The term "unrelated trade or business" includes the provision of debt management
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -229,6 +231,8 @@ Subsec. (e). Pub. L. 94–455, §1311(a), added subsec. (e).
 Subsec. (c). Pub. L. 91–172, §121(c), substituted "Advertising, etc., activities" for "Special rule for certain publishing businesses", in heading, and, in text, substituted provisions extending definition of trade or business to include any activity carried on for the production of income from the sale of goods or the performance of services, for provisions referring to publishing businesses carried on by an organization during a taxable year beginning before Jan. 1, 1953.
 
 <b>1960</b>—Subsec. (b)(2). Pub. L. 86–667 included trusts described in section 501(c)(17).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 
@@ -268,7 +272,7 @@ Pub. L. 95–502, title III, §301(b), Oct. 21, 1978, 92 Stat. 1702, provided th
 
 Pub. L. 94–455, title XIII, §1305(b), Oct. 4, 1976, 90 Stat. 1717, provided that: "The amendments made by subsection (a) \[amending this section\] apply to qualified public entertainment activities in taxable years beginning after December 31, 1962, and to qualified convention and trade show activities in taxable years beginning after the date of enactment of this Act \[Oct. 4, 1976\]."
 
-Pub. L. 94–455, title XIII, §1311(b), Oct. 4, 1976, 90 Stat. 1730, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100Stat. 2095, provided that: "The amendment made by this section \[amending this section\] shall apply to all taxable years to which the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[this title\] applies."
+Pub. L. 94–455, title XIII, §1311(b), Oct. 4, 1976, 90 Stat. 1730, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendment made by this section \[amending this section\] shall apply to all taxable years to which the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[this title\] applies."
 
 #### Effective Date of 1969 Amendment
 

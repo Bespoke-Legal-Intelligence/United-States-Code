@@ -40,7 +40,7 @@ For purposes of the provisions of chapter 11 of part I of title 18, and any othe
 
 &emsp;This subsection shall not be construed—
 
-&emsp;&emsp;(A) to affect any other immunities and protections that may be available to such member under applicable law with respect to such transactions;
+&emsp;&emsp;(A) to affect any other immunities and protections that may be available to suchmember under applicable law with respect to such transactions;
 
 &emsp;&emsp;(B) to affect any other right or remedy against the Corporation, against the United States under applicable law, or against any person other than a member of the Board participating in such transactions; or
 
@@ -98,9 +98,11 @@ As part of the agenda of meetings of the Board under subsection (a), the Board s
 
 (Pub. L. 101–610, title I, §192A, as added and amended Pub. L. 103–82, title II, §§202(a), 203(a)(1)(B), (2), Sept. 21, 1993, 107 Stat. 875, 891; Pub. L. 111–13, title I, §1702, Apr. 21, 2009, 123 Stat. 1544.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-Section 8E of the Inspector General Act of 1978, referred to in subsec. (g)(6), is section 8E of Pub. L. 95–452, as added by Pub. L. 103–82, title II, §202(g)(1), Sept. 21, 1993, 107 Stat. 889, which was renumbered section 8F of the Act by Pub. L. 103–204, §23(a)(3), Dec. 17, 1993, 107 Stat. 2408, and is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 8E of the Inspector General Act of 1978, referred to in subsec. (g)(6), is section 8E of Pub. L. 95–452,as added by Pub. L. 103–82, title II, §202(g)(1), Sept. 21, 1993, 107 Stat. 889, which was renumbered section 8F of the Act by Pub. L. 103–204, §23(a)(3), Dec. 17, 1993, 107 Stat. 2408, and is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The Domestic Volunteer Service Act of 1973, referred to in subsec. (g)(10)(A), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394. Title I of the Act is classified generally to subchapter I (§4951 et seq.) of chapter 66 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 
@@ -129,6 +131,8 @@ Subsec. (g)(10). Pub. L. 103–82, §203(a)(2)(C), added par. (10). Former par. 
 Pub. L. 103–82, §203(a)(1)(B), which directed amendment of section 192A(g)(10) of subtitle I of the National and Community Service Act of 1990 by substituting "the national service laws" for "this chapter", was executed to subsec. (g)(10) of this section, which is section 192A of subtitle G of title I of the National Community Service Act of 1990, to reflect the probable intent of Congress.
 
 Subsec. (g)(11). Pub. L. 103–82, §203(a)(2)(B), redesignated par. (10) as (11).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

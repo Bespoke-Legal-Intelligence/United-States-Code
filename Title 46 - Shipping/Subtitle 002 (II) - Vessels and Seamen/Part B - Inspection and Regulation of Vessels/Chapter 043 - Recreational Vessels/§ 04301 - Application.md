@@ -4,7 +4,7 @@
 
 (b) Except when expressly otherwise provided, this chapter does not apply to a foreign vessel temporarily operating on waters subject to the jurisdiction of the United States.
 
-(c) Until there is a final judicial decision that they are navigable waters of the United States,the following waters lying entirely in New Hampshire are declared not to be waters subject to the jurisdiction of the United States within the meaning of this section: Lake Winnisquam, Lake Winnipesaukee, parts of the Merrimack River, and their tributary and connecting waters.
+(c) Until there is a final judicial decision that they are navigable waters of the United States, the following waters lying entirely in New Hampshire are declared not to be waters subject to the jurisdiction of the United States within the meaning of this section: Lake Winnisquam, Lake Winnipesaukee, parts of the Merrimack River, and their tributary and connecting waters.
 
 (Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 529; Pub. L. 105–383, title III, §301(b)(4), Nov. 13, 1998, 112 Stat. 3417.)
 

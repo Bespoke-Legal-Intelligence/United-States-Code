@@ -24,7 +24,7 @@
 
 (e) Whoever, through the use of the mail, telephone, telegraph, or other instrument of interstate or foreign commerce, or in or affecting interstate or foreign commerce, willfully makes any threat, or maliciously conveys false information knowing the same to be false, concerning an attempt or alleged attempt being made, or to be made, to kill, injure, or intimidate any individual or unlawfully to damage or destroy any building, vehicle, or other real or personal property by means of fire or an explosive shall be imprisoned for not more than 10 years or fined under this title, or both.
 
-(f)(1) Whoever maliciously damages or destroys, or attempts to damage or destroy, by means of fire or an explosive, any building, vehicle, or other personal or real property in whole or in part owned or possessed by, or leased to, the United States, or any department or agencythereof, or any institution or organization receiving Federal financial assistance, shall be imprisoned for not less than 5 years and not more than 20 years, fined under this title, or both.
+(f)(1) Whoever maliciously damages or destroys, or attempts to damage or destroy, by means of fire or an explosive, any building, vehicle, or other personal or real property in whole or in part owned or possessed by, or leased to, the United States, or any department or agency thereof, or any institution or organization receiving Federal financial assistance, shall be imprisoned for not less than 5 years and not more than 20 years, fined under this title, or both.
 
 (2) Whoever engages in conduct prohibited by this subsection, and as a result of such conduct, directly or proximately causes personal injury or creates a substantial risk of injury to any person, including any public safety officer performing duties, shall be imprisoned for not less than 7 years and not more than 40 years, fined under this title, or both.
 
@@ -48,7 +48,7 @@
 
 (i) Whoever maliciously damages or destroys, or attempts to damage or destroy, by means of fire or an explosive, any building, vehicle, or other real or personal property used in interstate or foreign commerce or in any activity affecting interstate or foreign commerce shall be imprisoned for not less than 5 years and not more than 20 years, fined under this title, or both; and if personal injury results to any person, including any public safety officer performing duties as a direct or proximate result of conduct prohibited by this subsection, shall be imprisoned for not less than 7 years and not more than 40 years, fined under this title, or both; and if death results to any person, including any public safety officer performing duties as a direct or proximate result of conduct prohibited by this subsection, shall also be subject to imprisonment for any term of years, or to the death penalty or to life imprisonment.
 
-(j) For the purposes of subsections (d), (e), (f), (g), (h), and (i) of this section and section 842(p), the term "explosive" means gunpowders, powders used for blasting, all forms of high explosives, blasting materials, fuzes (other than electric circuit breakers), detonators, and other detonating agents, smokeless powders, other explosive or incendiary devices within the meaning of paragraph (5) of section 232 of this title, and any chemical compounds, mechanical mixture, or device that contains any oxidizing and combustible units, or other ingredients, in such proportions, quantities, or packing that ignition by fire, by friction, by concussion, by percussion, or by detonation of the compound, mixture, or device or any part thereof may cause an explosion.
+(j) For the purposes of subsections (d), (e), (f), (g), (h), and (i) of this section and section 842(p), the term "explosive" means gunpowders, powders used for blasting, all forms of high explosives, blasting materials, fuzes (other than electric circuit breakers), detonators, and other detonating agents, smokeless powders, other explosive or incendiary devices within the meaning of paragraph (5) of section 232 of this title, and anychemical compounds, mechanical mixture, or device that contains any oxidizing and combustible units, or other ingredients, in such proportions, quantities, or packing that ignition by fire, by friction, by concussion, by percussion, or by detonation of the compound, mixture, or device or any part thereof may cause an explosion.
 
 (k) A person who steals any explosives materials which are moving as, or are a part of, or which have moved in, interstate or foreign commerce shall be imprisoned for not more than 10 years, fined under this title, or both.
 
@@ -66,7 +66,7 @@ Theft Reporting Requirement.—
 
 &emsp;(1)
 
-In general.—A holder of a license or permit who knows that explosive materials have been stolen from that licensee or permittee,shall report the theft to the Secretary <sup>1</sup> not later than 24 hours after the discovery of the theft.
+In general.—A holder of a license or permit who knows that explosive materials have been stolen from that licensee or permittee, shall report the theft to the Secretary <sup>1</sup> not later than 24 hours after the discovery of the theft.
 
 &emsp;(2)
 
@@ -108,7 +108,7 @@ Subsec. (i). Pub. L. 104–294, which directed substitution of comma for ",," ea
 
 Pub. L. 104–132, §708(c)(3), struck out at end "No person shall be prosecuted, tried, or punished for any noncapital offense under this subsection unless the indictment is found or the information is instituted within 7 years after the date on which the offense was committed."
 
-Pub. L. 104–132, §708(a)(4)(B), which directed substitution of "not less than 7 years and not more than 40 years, fined under this title" for "not more than 40 years, fined the greater of a fine under this title or the cost of repairing or replacing any property that is damaged or destroyed,", was executed by making the substitution in text which read "not more than 40 years, fined the greater of the fine under this title" to reflect the probable intent of Congress.
+Pub. L. 104–132, §708(a)(4)(B), which directed substitution of "not less than 7 years and not more than 40 years, fined under this title" for "not more than 40years, fined the greater of a fine under this title or the cost of repairing or replacing any property that is damaged or destroyed,", was executed by making the substitution in text which read "not more than 40 years, fined the greater of the fine under this title" to reflect the probable intent of Congress.
 
 Pub. L. 104–132, §708(a)(4)(A), substituted "not less than 5 years and not more than 20 years, fined under this title" for "not more than 20 years, fined the greater of the fine under this title or the cost of repairing or replacing any property that is damaged or destroyed,".
 

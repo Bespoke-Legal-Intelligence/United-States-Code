@@ -1,6 +1,6 @@
 ### §2700. Use of vehicles
 
-The Secretary of State may authorize the principal officer of a Foreign Service post to provide for the use of Government owned or leased vehicles located at that post for transportation of United States Government employeesand their families when public transportation is unsafe or not available or when such use is advantageous to the Government.
+The Secretary of State may authorize the principal officer of a Foreign Service post to provide for the use of Government owned or leased vehicles located at that post for transportation of United States Government employees and their families when public transportation is unsafe or not available or when such use is advantageous to the Government.
 
 (Aug. 1, 1956, ch. 841, title I, §28, as added Pub. L. 96–465, title II, §2201(a), Oct. 17, 1980, 94 Stat. 2154; renumbered title I, Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282.)
 

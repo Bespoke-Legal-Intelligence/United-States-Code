@@ -1,6 +1,6 @@
 ### §6393. Administrative procedure and judicial review
 
-(a)(1) Subject to paragraphs (2), (3), and (4) of this subsection, the provisions of subchapter II of chapter 5 of title 5 shall apply to any rule, regulation, or order having the applicability and effect of a rule as defined in section 551(4) of title 5 issued under title I (other than section 103 <sup>1</sup> thereof) and title II of this Act, or thistitle <sup>1</sup> (other than any provision of such titles which amends another law).
+(a)(1) Subject to paragraphs (2), (3), and (4) of this subsection, the provisions of subchapter II of chapter 5 of title 5 shall apply to any rule, regulation, or order having the applicability and effect of a rule as defined in section 551(4) of title 5 issued under title I (other than section 103 <sup>1</sup> thereof) and title II of this Act, or this title <sup>1</sup> (other than any provision of such titles which amends another law).
 
 (2)(A) Notice of any proposed rule, regulation, or order described in paragraph (1) which is substantive and of general applicability shall be given by publication of such proposed rule, regulation, or order in the Federal Register. In each case, a minimum of 30 days following the date of such publication and prior to the effective date of the rule shall be provided for opportunity to comment; except that the 30-day period for opportunity to comment prior to the effective date of the rule may be—
 
@@ -8,7 +8,7 @@
 
 &emsp;(ii) waived entirely, if the President finds that such waiver is necessary to act expeditiously during an emergency affecting the national security of the United States.
 
-(B) Public notice of any rule, regulation, or order which is substantive and of general applicability which is promulgated by officers of a State or political subdivision thereof or to State or local boards which have been delegated authority pursuant to title I or II of this Act or this title (other than any provision of such title) <sup>2</sup> which amend <sup>3</sup> another law shall, to the maximum extent practicable, be achieved by publication of such rules, regulations, or orders in a sufficient number of newspapers of general circulation calculated to receive widest practicable notice.
+(B) Public notice of any rule, regulation, or order which is substantive and of general applicability which is promulgated by officers of a State or political subdivision thereof or to State or local boards which have been delegated authority pursuant to title I or II of this Act or this title (other than any provision of such title) <sup>2</sup> which amend <sup>3</sup> another law shall, to the maximum extent practicable, be achieved by publication of such rules, regulations, or orders in a sufficient number of newspapers of generalcirculation calculated to receive widest practicable notice.
 
 (3) In addition to the requirements of paragraph (2) and to the maximum extent practicable, an opportunity for oral presentation of data, views, and arguments shall be afforded and such opportunity shall be afforded prior to the effective date of such rule, regulation, or order, but in all cases such opportunity shall be afforded no later than 45 days, and no later than 10 days (in the case of a waiver of the entire comment period under paragraph (2) (ii)), after such date. A transcript shall be made of any oral presentation.
 
@@ -19,6 +19,8 @@
 (c) Any agency authorized to issue any rule, regulation, or order described in subsection (a)(1) shall, upon written request of any person, which request is filed after any grant or denial of a request for exception or exemption from any such rule, regulation, or order, furnish such person, within 30 days after the date on which such request is filed, with a written opinion setting forth applicable facts and the legal basis in support of such grant or denial.
 
 (Pub. L. 94–163, title V, §523, Dec. 22, 1975, 89 Stat. 962.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

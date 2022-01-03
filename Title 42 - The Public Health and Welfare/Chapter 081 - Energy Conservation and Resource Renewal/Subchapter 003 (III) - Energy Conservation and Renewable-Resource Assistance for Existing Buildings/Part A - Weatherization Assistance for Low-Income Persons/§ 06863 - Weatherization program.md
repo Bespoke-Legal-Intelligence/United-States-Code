@@ -2,7 +2,7 @@
 
 #### (a) Development and conduct of program by Secretary; grants to States and Indian tribal organizations
 
-The Secretary shall develop and conduct, in accordance with the purpose and provisions of this part, a weatherization program. In developing and conducting such program, the Secretary may, in accordance with this part and regulations promulgated under this part, make grants (1) to States, and (2) in accordance with the provisions of subsection (d), to Indian tribal organizations to serve Native Americans. Suchgrants shall be made for the purpose of providing financial assistance with regard to projects designed to provide for the weatherization of dwelling units, particularly those where elderly or handicapped low-income persons reside, occupied by low-income families.
+The Secretary shall develop and conduct, in accordance with the purpose and provisions of this part, a weatherization program. In developing and conducting such program, the Secretary may, in accordance with this part and regulations promulgated under this part, make grants (1) to States, and (2) in accordance with the provisions of subsection (d), to Indian tribal organizations to serve Native Americans. Such grants shall be made for the purpose of providing financial assistance with regard to projects designed to provide for the weatherization of dwelling units, particularly those where elderly or handicapped low-income persons reside, occupied by low-income families.
 
 #### (b) Consultation by Secretary with other Federal departments and agencies on development and publication in Federal Register of proposed regulations; required regulatory provisions; standards and procedures; rental units
 
@@ -16,7 +16,7 @@ The Secretary shall develop and conduct, in accordance with the purpose and prov
 
 &emsp;(C) that secure the Federal investment made under this part and address the issues of eviction from and sale of property receiving weatherization materials under this part.
 
-(3) The Secretary, in coordination with the Secretaries and Director described in paragraph (2)(A) and the Secretary of Agriculture, shall develop and publish in the Federal Register for public comment, not later than 60 days after November 9, 1978, proposed amendments to the regulations prescribed under paragraph (1). Such amendments shall provide that the standards described in paragraph (2)(A) shall include a set of procedures to be applied to each dwelling unit to determine the optimum set of cost-effective measures, within the cost guidelines set for the program, to be installed in such dwelling unit. Such standards shall, in order to achieve such optimum savings of energy, take into consideration the following factors—
+(3) The Secretary, in coordination with the Secretaries and Director described in paragraph\(2)(A) and the Secretary of Agriculture, shall develop and publish in the Federal Register for public comment, not later than 60 days after November 9, 1978, proposed amendments to the regulations prescribed under paragraph (1). Such amendments shall provide that the standards described in paragraph (2)(A) shall include a set of procedures to be applied to each dwelling unit to determine the optimum set of cost-effective measures, within the cost guidelines set for the program, to be installed in such dwelling unit. Such standards shall, in order to achieve such optimum savings of energy, take into consideration the following factors—
 
 &emsp;(A) the cost of the weatherization material;
 
@@ -44,7 +44,7 @@ The Secretary shall develop and conduct, in accordance with the purpose and prov
 
 #### (c) Failure of State to submit application; alternate application by any unit of general purpose local government or community action agency; submission of amended application by State
 
-If a State does not, within 90 days after the date on which final regulations are promulgated under this section, submit an application to the Secretary which meets the requirements set forth in section 6864 of this title, any unit of general purpose local government of sufficientsize (as determined by the Secretary), or a community action agency carrying out programs under title II of the Economic Opportunity Act of 1964 \[42 U.S.C. 2781 et seq.\], may, in lieu of such State, submit an application (meeting such requirements and subject to all other provisions of this part) for carrying out projects under this part within the geographical area which is subject to the jurisdiction of such government or is served by such agency. A State may, in accordance with regulations promulgated under this part, submit an amended application.
+If a State does not, within 90 days after the date on which final regulations are promulgated under this section, submit an application to the Secretary which meets the requirements set forth in section 6864 of this title, any unit of general purpose local government of sufficient size (as determined by the Secretary), or a community action agency carrying out programs under title II of the Economic Opportunity Act of 1964 \[42 U.S.C. 2781 et seq.\], may, in lieu of such State, submit an application (meeting such requirements and subject to all other provisions of this part) for carrying out projects under this part within the geographical area which is subject to the jurisdiction of such government or is served by such agency. A State may, in accordance with regulations promulgated under this part, submit an amended application.
 
 #### (d) Direct grants to low-income members of Indian tribal organizations or alternate service organizations; application for funds
 
@@ -80,6 +80,8 @@ Notwithstanding any other provision of law, the Secretary may transfer to the Di
 
 (Pub. L. 94–385, title IV, §413, Aug. 14, 1976, 90 Stat. 1152; Pub. L. 95–619, title II, §231(a)(2), (b)(1), Nov. 9, 1978, 92 Stat. 3224; Pub. L. 96–294, title V, §§573(b), 574, 577(2), June 30, 1980, 94 Stat. 759, 760; Pub. L. 98–479, title II, §201(h), Oct. 17, 1984, 98 Stat. 2228; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 101–440, §7(b), Oct. 18, 1990, 104 Stat. 1012; Pub. L. 103–82, title IV, §405(l), Sept. 21, 1993, 107 Stat. 922; Pub. L. 115–325, title II, §203, Dec. 18, 2018, 132 Stat. 4462; Pub. L. 116–260, div. Z, title I, §1011(c), Dec. 27, 2020, 134 Stat. 2442.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Economic Opportunity Act of 1964, referred to in subsec. (c), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508. Title II of the Economic Opportunity Act of 1964 was classified generally to subchapter II (§2781 et seq.) of chapter 34 of this title prior to repeal by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519. Prior to that repeal, section 222(a)(12) of that Act \[42 U.S.C. 2809(a)(12)\] was redesignated as section 222(a)(5) \[42 U.S.C. 2809(a)(5)\] by Pub. L. 95–568, §5(a)(2)(E), Nov. 2, 1978, 94 Stat. 2426. For complete classification of this Act to the Code, see Tables.
@@ -98,7 +100,7 @@ Subsec. (d)(3). Pub. L. 115–325, §203(3), inserted heading.
 
 <b>1993</b>—Subsec. (b)(1). Pub. L. 103–82 struck out "the Director of the ACTION Agency," after "Labor,".
 
-<b>1990</b>—Subsec. (b)(2)(B), (C). Pub. L. 101–440, §7(b)(1), added subpars. (B) and (C) and struck out former subpar. (B) which read as follows: "designed to insure that (i) the benefits of weatherization assistance in connection with leased dwelling units will accrue primarily to low-income tenants; (ii) the rents on such dwelling units will not be raised because of any increase in the value thereof due solely to weatherization assistance provided under this part; and (iii) no undue or excessiveenhancement will occur to the value of such dwelling units."
+<b>1990</b>—Subsec. (b)(2)(B), (C). Pub. L. 101–440, §7(b)(1), added subpars. (B) and (C) and struck out former subpar. (B) which read as follows: "designed to insure that (i) the benefits of weatherization assistance in connection with leased dwelling units will accrue primarily to low-income tenants; (ii) the rents on such dwelling units will not be raised because of any increase in the value thereof due solely to weatherization assistance provided under this part; and (iii) no undue or excessive enhancement will occur to the value of such dwelling units."
 
 Subsec. (b)(5), (6). Pub. L. 101–440, §7(b)(2), added pars. (5) and (6).
 
@@ -112,11 +114,13 @@ Subsec. (b)(4). Pub. L. 96–294, §574, added par. (4).
 
 Subsec. (c). Pub. L. 96–294, §§573(b), 577(2), substituted "Secretary" for "Administrator" wherever appearing, and struck out provisions relating to determinations respecting inapplicability of allocation requirement and priority for an applicable community action agency.
 
-Subsec. (d), (e). Pub. L. 96–294, §577(2), substituted "Secretary" for "Administrator" wherever appearing.
+Subsecs. (d), (e). Pub. L. 96–294, §577(2), substituted "Secretary" for "Administrator" wherever appearing.
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–619, §231(a)(2), substituted "occupied by low-income families" for "in which the head of the household is a low-income person".
 
 Subsec. (b)(3). Pub. L. 95–619, §231(b)(1), added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1993 Amendment
 

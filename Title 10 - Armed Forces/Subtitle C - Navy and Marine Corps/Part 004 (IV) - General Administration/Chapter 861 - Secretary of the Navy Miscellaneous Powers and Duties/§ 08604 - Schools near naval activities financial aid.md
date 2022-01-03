@@ -44,6 +44,8 @@ Aug. 2, 1946, ch. 756, §39, 60 Stat. 858.
 
 In subsection (b) the words "except the authority to prescribe regulations" are omitted, since 5 U.S.C. 421d contains no authority for the Secretary of the Navy to prescribe regulations for the administration of that section.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7204 of this title as this section.
@@ -57,6 +59,8 @@ Subsec. (a). Pub. L. 98–525, §1401(j)(3)(A), substituted "The Secretary of th
 <b>1980</b>—Subsec. (a)(1)(D). Pub. L. 96–513 substituted "National Oceanic and Atmospheric Administration" for "Environmental Science Services Administration".
 
 <b>1966</b>—Subsec. (a)(1)(D). Pub. L. 89–718 substituted "Environmental Science Services Administration" for "Coast and Geodetic Survey".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

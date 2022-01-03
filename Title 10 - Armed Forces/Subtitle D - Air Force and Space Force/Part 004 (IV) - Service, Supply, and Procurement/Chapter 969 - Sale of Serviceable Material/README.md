@@ -14,6 +14,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283, div. A, title IX, §923(e)(12)(C), Jan. 1, 2021, 134 Stat. 3818, added item 9625 and struck out former item 9625 "Ordnance property: officers of armed forces; civilian employees of Air Force; American National Red Cross; educational institutions; homes for veterans' orphans".

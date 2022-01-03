@@ -12,7 +12,7 @@ The Secretary shall investigate and study the feasibility of utilizing the capab
 
 #### (2) Inclusions
 
-&emsp;Such projects shall be developed, and their effectiveness evaluated, in consultation withthe Director of the Fish and Wildlife Service and the Assistant Administrator for Fisheries of the National Oceanic and Atmospheric Administration. Such projects shall include—
+&emsp;Such projects shall be developed, and their effectiveness evaluated, in consultation with the Director of the Fish and Wildlife Service and the Assistant Administrator for Fisheries of the National Oceanic and Atmospheric Administration. Such projects shall include—
 
 &emsp;&emsp;(A) the construction of a reef for fish habitat in Lake Erie in the vicinity of Buffalo, New York;
 

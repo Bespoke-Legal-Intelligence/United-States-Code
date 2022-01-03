@@ -58,7 +58,7 @@
 
 &emsp;&emsp;(B) The Secretary shall next give priority to applications for emergency grants from local educational agencies that meet the requirements of subparagraph (C) or (D) of paragraph (3) and, among such applications for emergency grants, shall give priority to those applications of local educational agencies based on the severity of the emergency, as determined by the Secretary.
 
-&emsp;&emsp;(C) The Secretary shall next give priority to applications for modernization grants from local educational agencies that meet the requirements of paragraph (3)(B) and, among such applications for modernizationgrants, shall give priority to those applications of local educational agencies based on the severity of the need for modernization, as determined by the Secretary.
+&emsp;&emsp;(C) The Secretary shall next give priority to applications for modernization grants from local educational agencies that meet the requirements of paragraph (3)(B) and, among such applications for modernization grants, shall give priority to those applications of local educational agencies based on the severity of the need for modernization, as determined by the Secretary.
 
 &emsp;&emsp;(D) The Secretary shall next give priority to applications for modernization grants from local educational agencies that meet the requirements of subparagraph (C) or (D) of paragraph (3) and, among such applications for modernization grants, shall give priority to those applications of local educational agencies based on the severity of the need for modernization, as determined by the Secretary.
 
@@ -86,7 +86,7 @@
 
 &emsp;&emsp;&emsp;(ii) the agency (or in the case of a local educational agency that does not have the authority to tax or issue bonds, the agency's fiscal agent) meets the requirements of subclause (I), (II), or (III) of subparagraph (A)(i); and
 
-&emsp;&emsp;&emsp;(iii) the agency has facility needs resulting from the presence of the Federal Government, such as the enrollment of federally connected children, the presence of tax-exempt Federal property, or an increase in enrollment due to the expansion of Federal activities, housing privatization, or the acquisition of Federal property.
+&emsp;&emsp;&emsp;(iii) the agency has facility needs resulting from the presence of the Federal Government, such as the enrollment of federally connected children, the presence oftax-exempt Federal property, or an increase in enrollment due to the expansion of Federal activities, housing privatization, or the acquisition of Federal property.
 
 #### (C) Additional eligibility for emergency and modernization grants
 
@@ -194,7 +194,7 @@
 
 #### (iii) Supplement, not supplant
 
-&emsp;&emsp;&emsp;A local educational agency shall use funds provided under an emergency grant or modernization grant awarded under this subsection only to supplement the amount of funds that would, in the absence of the Federal funds provided under the grant, be made available from non-Federal sourcesto carry out emergency repairs of school facilities or to carry out the modernization of school facilities, as the case may be, and not to supplant such funds.
+&emsp;&emsp;&emsp;A local educational agency shall use funds provided under an emergency grant or modernization grant awarded under this subsection only to supplement the amount of funds that would, in the absence of the Federal funds provided under the grant, be made available from non-Federal sources to carry out emergency repairs of school facilities or to carry out the modernization of school facilities, as the case may be, and not to supplant such funds.
 
 #### (iv) Maintenance costs
 
@@ -239,6 +239,8 @@
 &emsp;&emsp;(E) A description of the interest in, or authority over, the school facility involved, such as an ownership interest or a lease arrangement.
 
 (Pub. L. 89–10, title VII, §7007, formerly title VIII, §8007, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3763; amended Pub. L. 104–134, title I, §101(d) \[title III, §306(b)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–236; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1811\], Oct. 30, 2000, 114 Stat. 1654, 1654A–383; Pub. L. 107–110, title VIII, §803, Jan. 8, 2002, 115 Stat. 1950; Pub. L. 113–188, title V, §501, Nov. 26, 2014, 128 Stat. 2019; renumbered title VII, §7007, and amended Pub. L. 114–95, title VII, §§7001(c)(2), (d)(1), (3)–(8), (11), 7007, Dec. 10, 2015, 129 Stat. 2074, 2075, 2086.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -285,6 +287,8 @@ Subsec. (b)(6)(F). Pub. L. 114–95, §7007(2)(B)(iii), struck out subpar. (F) w
 <b>2000</b>—Pub. L. 106–398 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) authorizing payments to certain local educational agencies for construction.
 
 <b>1996</b>—Subsec. (a)(2)(B). Pub. L. 104–134 struck out "and in which the agency at any 2 times during the four fiscal years preceding October 20, 1994, was denied by a vote of the agency's eligible voters a bond referendum for the purposes of school construction or renovation" before semicolon at end.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

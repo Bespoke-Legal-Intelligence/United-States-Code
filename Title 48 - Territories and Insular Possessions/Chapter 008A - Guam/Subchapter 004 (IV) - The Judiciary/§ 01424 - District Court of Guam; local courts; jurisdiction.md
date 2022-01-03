@@ -18,6 +18,8 @@ In addition to the jurisdiction described in subsection (b), the District Court 
 
 (Aug. 1, 1950, ch. 512, §22, 64 Stat. 389; Aug. 27, 1954, ch. 1017, §1, 68 Stat. 882; Pub. L. 85–444, §§1, 2, June 4, 1958, 72 Stat. 178, 179; Pub. L. 95–598, title III, §335, Nov. 6, 1978, 92 Stat. 2680; Pub. L. 98–454, title VIII, §§801, 803, title X, §1001, Oct. 5, 1984, 98 Stat. 1741, 1743, 1745; Pub. L. 108–378, §1(a), Oct. 30, 2004, 118 Stat. 2206.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Subsec. (a). Pub. L. 108–378 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "The judicial authority of Guam shall be vested in a court of record established by Congress, designated the 'District Court of Guam,' and such local court or courts as may have been or shall hereafter be established by the laws of Guam in conformity with section 1424–1 of this title."
@@ -32,13 +34,15 @@ Subsec. (b). Pub. L. 95–598, §335(b), substituted "section 2075 of title 28, 
 
 <b>1954</b>—Subsec. (b). Act Aug. 27, 1954, inserted provisions making it clear that trial by jury or the prosecution of offenses by indictment by a grand jury instead of by information shall not be required in the District Court of Guam until so required by laws enacted by the Legislature of Guam; and defining the terms "attorney for the government", and "United States attorney", as used in the Federal Rules of Criminal Procedure, when applicable to cases arising under the laws of Guam.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1984 Amendment
 
 Pub. L. 98–454, title X, §1005, Oct. 5, 1984, 98 Stat. 1746, provided that: "Titles VII, VIII, IX, and X of this Act \[enacting sections 1424–1 to 1424–4, 1493, and 1613a of this title, repealing section 1400 of this title, amending this section and sections 1424b, 1561, 1611, 1612, 1613, 1614, 1615, 1617, 1694, and 1821 to 1824 of this title, and enacting provisions set out as notes under sections 1424b, 1612, and 1614 of this title and section 373 of Title 28, Judiciary and Judicial Procedure\] shall become effective on the ninetieth day following their enactment \[Oct. 5, 1984\]."
 
 #### Effective Date of 1978 Amendment
 
-Amendment by section 335(b) of Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub. L. 95–598, setout as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+Amendment by section 335(b) of Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub. L. 95–598, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
 Pub. L. 95–598, title IV, §402(e), Nov. 6, 1978, 92 Stat. 2682, which provided a prospective effective date for the amendment of subsec. (a) by section 335(a) of Pub. L. 95–598, was repealed by section 1001 of Pub. L. 98–454.
 

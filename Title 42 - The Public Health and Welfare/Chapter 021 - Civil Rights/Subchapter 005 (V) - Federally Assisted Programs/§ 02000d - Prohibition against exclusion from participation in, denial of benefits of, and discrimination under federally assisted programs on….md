@@ -4,6 +4,8 @@ No person in the United States shall, on the ground of race, color, or national 
 
 (Pub. L. 88–352, title VI, §601, July 2, 1964, 78 Stat. 252.)
 
+#### <b>Executive Documents</b>
+
 #### Coordination of Implementation and Enforcement of Provisions
 
 For provisions relating to the coordination of implementation and enforcement of the provisions of this subchapter by the Attorney General, see section 1–201 of Ex. Ord. No. 12250, Nov. 2, 1980, 45 F.R. 72995, set out as a note under section 2000d–1 of this title.
@@ -66,7 +68,7 @@ Sec. 4. <i>Administrative enforcement.</i>
 
 4–401. Any person who believes himself or herself to be aggrieved by a violation of this order or its implementing regulations, rules, policies, or guidance may, personally or through a representative, file a written complaint with the agency that such person believes is in violation of this order or its implementing regulations, rules, policies, or guidance. Pursuant to procedures to be established by the Attorney General, each executive department or agency shall conduct an investigation of any complaint by one of its employees alleging a violation of this Executive Order.
 
-4–402. (a) If the office within an executive department or agency that is designated to investigate complaints for violations of this order or its implementing rules, regulations, policies, or guidance concludes that an employee has not complied with this order or any of its implementing rules, regulations, policies, or guidance, such office shall complete a report and refer a copy of the report and any relevant findings or supporting evidence to an appropriate agency official. The appropriate agency official shall review such material and determine what, if any, disciplinary action is appropriate.
+4–402. (a) If the office within an executive department or agency that is designated to investigate complaints for violations of this order or its implementing rules, regulations, policies, or guidance concludes that an employee has not complied with this order or any of its implementing rules, regulations, policies, or guidance,such office shall complete a report and refer a copy of the report and any relevant findings or supporting evidence to an appropriate agency official. The appropriate agency official shall review such material and determine what, if any, disciplinary action is appropriate.
 
 (b) In addition, the designated investigating office may provide appropriate agency officials with a recommendation for any corrective and/or remedial action. The appropriate officials shall consider such recommendation and implement corrective and/or remedial action by the agency, when appropriate. Nothing in this order authorizes monetary relief to the complainant as a form of remedial or corrective action by an executive department or agency.
 
@@ -134,7 +136,7 @@ Sec. 2. <i>Ensuring Robust Enforcement of Title VI</i>. (a) In enforcing Title V
 
 Sec. 3. <i>Additional Authorities Prohibiting Anti-Semitic Discrimination</i>. Within 120 days of the date of this order \[Dec. 11, 2019\], the head of each agency charged with enforcing Title VI shall submit a report to the President, through the Assistant to the President for Domestic Policy, identifying additional nondiscrimination authorities within its enforcement authority with respect to which the IHRA definition of anti-Semitism could be considered.
 
-Sec. 4. <i>Rule of Construction</i>. Nothing in this order shall be construed to alter the evidentiary requirements pursuant to which an agency makes a determination that conduct, including harassment, amounts to actionable discrimination, or to diminish or infringe upon the rights protected under any other provision of law.
+Sec. 4. <i>Rule of Construction</i>. Nothing in this order shall be construed to alter the evidentiary requirements pursuant to which an agency makes a determination that conduct, including harassment, amountsto actionable discrimination, or to diminish or infringe upon the rights protected under any other provision of law.
 
 Sec. 5. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
 

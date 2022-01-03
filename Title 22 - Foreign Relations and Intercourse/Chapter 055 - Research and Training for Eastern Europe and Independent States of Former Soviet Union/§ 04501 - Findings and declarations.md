@@ -26,7 +26,7 @@ The Congress finds and declares that—
 
 #### Amendments
 
-<b>1993</b>—Pars. (1), (2), (3)(E). Pub. L. 103–199 substituted "countries of Eastern Europe and the independentstates of the former Soviet Union" for "Soviet Union and Eastern European countries".
+<b>1993</b>—Pars. (1), (2), (3)(E). Pub. L. 103–199 substituted "countries of Eastern Europe and the independent states of the former Soviet Union" for "Soviet Union and Eastern European countries".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

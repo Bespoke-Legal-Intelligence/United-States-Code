@@ -38,7 +38,7 @@ Designation of Intelligence Officer.—At the request of the Secretary of Homela
 
 (e)
 
-Written Working Agreements.—The heads of units in the intelligence community,the Secretary of Homeland Security, and the Administrator of the Transportation Security Administration shall review and, as appropriate, revise written working agreements between the intelligence community and the Administrator of the Transportation Security Administration.
+Written Working Agreements.—The heads of units in the intelligence community, the Secretary of Homeland Security, and the Administrator of the Transportation Security Administration shall review and, as appropriate, revise written working agreements between the intelligence community and the Administrator of the Transportation Security Administration.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1212; Pub. L. 107–71, title I, §§101(f)(7), (9), 102(b), (c), Nov. 19, 2001, 115 Stat. 603, 605; Pub. L. 115–254, div. K, title I, §1991(d)(9), Oct. 5, 2018, 132 Stat. 3633.)
 
@@ -92,6 +92,8 @@ In subsections (c) and (e), the words "heads of units in the intelligence commun
 
 In subsection (e), the words "memorandums of understanding" are omitted as being included in "written working agreements".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (b). Pub. L. 115–254, §1991(d)(9)(A), substituted "Administrator of the Transportation Security Administration" for "Under Secretary of Transportation for Security".
@@ -107,6 +109,8 @@ Pub. L. 107–71, §101(f)(7), (9), substituted "Under Secretary of Transportati
 Subsec. (c). Pub. L. 107–71, §102(c), substituted "place" for "consider placing".
 
 Subsec. (e). Pub. L. 107–71, §101(f)(7), substituted "Under Secretary" for "Administrator" in two places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

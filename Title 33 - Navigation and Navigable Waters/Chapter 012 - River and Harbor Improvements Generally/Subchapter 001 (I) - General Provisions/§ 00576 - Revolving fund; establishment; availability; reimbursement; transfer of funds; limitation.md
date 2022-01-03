@@ -72,7 +72,7 @@ Section was formerly classified to section 190b of Title 10 prior to the general
 
 #### Headquarters Aircraft; Transfer and Reassignment of Property Accountability to Army Military Activity
 
-Pub. L. 101–101, title I, §105, Sept. 29, 1989, 103 Stat. 649, provided that: "Notwithstanding section 110 of the Energy and Water Development Appropriation Act, 1988, Public Law 100–202 \[set out below\], the Secretary of the Army is authorized to transfer and reassign property accountability for the headquarters aircraft of the Corps of Engineers, Serial Number 045, from the assets of the civil works revolving fund, to the military activity of the Army that the Secretary determines is appropriate, except that the aircraft shall be made available on a priority basis as necessary for activities in support of the Army's civil works mission."
+Pub. L. 101–101, title I, §105, Sept. 29, 1989, 103 Stat. 649, provided that: "Notwithstanding section 110 of the Energy and Water Development Appropriation Act, 1988, Public Law 100–202 \[set out below\], the Secretaryof the Army is authorized to transfer and reassign property accountability for the headquarters aircraft of the Corps of Engineers, Serial Number 045, from the assets of the civil works revolving fund, to the military activity of the Army that the Secretary determines is appropriate, except that the aircraft shall be made available on a priority basis as necessary for activities in support of the Army's civil works mission."
 
 #### Retention of Three Operational Aircraft; Notice of Intended Use Outside United States
 

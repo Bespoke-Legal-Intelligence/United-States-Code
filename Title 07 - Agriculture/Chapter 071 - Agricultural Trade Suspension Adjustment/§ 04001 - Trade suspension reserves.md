@@ -4,7 +4,7 @@ Notwithstanding any other provision of law—
 
 #### (a) Gasohol feedstock or food security reserves; establishment
 
-Whenever the President or other member of the executive branch of Government causes the export of any agricultural commodity to any country or area of the world to be suspended or restricted for reasons of national security or foreign policy under the Export AdministrationAct of 1979 or any other provision of law and the Secretary of Agriculture determines that such suspension or restriction will result in a surplus supply of such commodity that will adversely affect prices producers receive for the commodity, the Secretary may establish a gasohol feedstock reserve or a food security reserve, or both, of the commodity, as provided in subsections (c) and (d) of this section, if the commodity is suitable for stockpiling in a reserve.
+Whenever the President or other member of the executive branch of Government causes the export of any agricultural commodity to any country or area of the world to be suspended or restricted for reasons of national security or foreign policy under the Export Administration Act of 1979 or any other provision of law and the Secretary of Agriculture determines that such suspension or restriction will result in a surplus supply of such commodity that will adversely affect prices producers receive for the commodity, the Secretary may establish a gasohol feedstock reserve or a food security reserve, or both, of the commodity, as provided in subsections (c) and (d) of this section, if the commodity is suitable for stockpiling in a reserve.
 
 #### (b) Announcement of intention to establish reserves; contents
 
@@ -32,7 +32,7 @@ Applicability of certain provisions.—Subsections (c), (d), (e), and (f)(2) of 
 
 #### (e) Use of Commodity Credit Corporation funds, facilities, and authorities
 
-The funds, facilities, and authorities of the Commodity Credit Corporation shall be used by the Secretary of Agriculture in carrying out this section, except that any restriction applicable to the acquisition, storage, or disposition of Commodity Credit Corporation owned or controlled commodities shall not apply with respect to the acquisition, storage, or disposition of agricultural commodities under this section.
+The funds, facilities, and authorities of the Commodity Credit Corporation shall be used bythe Secretary of Agriculture in carrying out this section, except that any restriction applicable to the acquisition, storage, or disposition of Commodity Credit Corporation owned or controlled commodities shall not apply with respect to the acquisition, storage, or disposition of agricultural commodities under this section.
 
 #### (f) Safeguards for protection of free market
 
@@ -47,6 +47,8 @@ Whenever stocks of agricultural commodities are disposed of or released from res
 The provisions of this section shall become effective with respect to any suspension of, or restriction on, the export of agricultural commodities, as described in subsection (a) of this section, implemented after December 3, 1980.
 
 (Pub. L. 96–494, title II, §208, Dec. 3, 1980, 94 Stat. 2573; Pub. L. 97–98, title X, §1004, Dec. 22, 1981, 95 Stat. 1260; Pub. L. 104–127, title II, §225(b), Apr. 4, 1996, 110 Stat. 962; Pub. L. 105–385, title II, §212(b)(4), Nov. 13, 1998, 112 Stat. 3467.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -63,6 +65,8 @@ Section 1445e of this title, referred to in subsec. (c)(2), was amended generall
 <b>1981</b>—Subsec. (c)(2)(A). Pub. L. 97–98, §1004(1), substituted "third sentence" for "second sentence".
 
 Subsec. (c)(2)(B)(i). Pub. L. 97–98, §1004(2), substituted "110 per centum" for "105 per centum", "Secretary may encourage repayment" for "Secretary may call for repayment", and "clause (5) of the third sentence" for "clause (6) of the second sentence".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1981 Amendment
 

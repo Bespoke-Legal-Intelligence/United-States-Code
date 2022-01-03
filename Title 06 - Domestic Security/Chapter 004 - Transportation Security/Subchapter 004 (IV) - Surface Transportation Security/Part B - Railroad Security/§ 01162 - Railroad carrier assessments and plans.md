@@ -116,7 +116,7 @@ Utilizing the risk assessment and National Strategy for Railroad Transportation 
 
 #### (1) Provision of information
 
-&emsp;The Secretary may request, and a railroad carrier shall provide, information necessaryfor the Secretary to assign a railroad carrier to the appropriate tier under this subsection.
+&emsp;The Secretary may request, and a railroad carrier shall provide, information necessary for the Secretary to assign a railroad carrier to the appropriate tier under this subsection.
 
 #### (2) Notification
 
@@ -156,7 +156,7 @@ Utilizing the risk assessment and National Strategy for Railroad Transportation 
 
 #### (4) Notification
 
-&emsp;If the Secretary determines that particular existing procedures, protocols, or standards of a railroad carrier under this subsection do not satisfy the requirements of this section, the Secretary shall provide to the railroad carrier a written notification that includes an explanation of the determination.
+&emsp;If the Secretary determines that particular existing procedures, protocols, or standards ofa railroad carrier under this subsection do not satisfy the requirements of this section, the Secretary shall provide to the railroad carrier a written notification that includes an explanation of the determination.
 
 #### (5) Review
 

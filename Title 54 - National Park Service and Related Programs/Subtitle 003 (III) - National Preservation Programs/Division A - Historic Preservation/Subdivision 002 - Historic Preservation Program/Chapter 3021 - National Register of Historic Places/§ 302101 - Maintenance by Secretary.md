@@ -88,5 +88,5 @@ Historic building and structures.—The term 'historic building and structures' 
 
 #### Recommendations of Historic Properties for Preservation
 
-Pub. L. 102–575, title XL, §4021, Oct. 30, 1992, 106 Stat. 4765, provided that: "The Secretary of the Interior, in consultation with the Advisory Council, shall seek to ensure that historic properties preserved under the National Historic Preservation Act \[see 54 U.S.C. 300101 etseq.\] fully reflect the historical experience of this nation."
+Pub. L. 102–575, title XL, §4021, Oct. 30, 1992, 106 Stat. 4765, provided that: "The Secretary of the Interior, in consultation with the Advisory Council, shall seek to ensure that historic properties preserved under the National Historic Preservation Act \[see 54 U.S.C. 300101 et seq.\] fully reflect the historical experience of this nation."
 

@@ -18,7 +18,7 @@
 
 &emsp;(B) as a full-time staff member in a preschool program carried on under the Head Start Act \[42 U.S.C. 9831 et seq.\], or in a prekindergarten or child care program that is licensed or regulated by the State, that is operated for a period which is comparable to a full school year in the locality if the salary of such staff member is not more than the salary of a comparable employee of the local educational agency;
 
-&emsp;(C) as a full-time special education teacher, including teachers of infants, toddlers, children, or youth with disabilities in a public or other nonprofit elementary or secondary school system, including a system administered by an educational service agency, or as a full-time qualified professional provider ofearly intervention services in a public or other nonprofit program under public supervision by the lead agency as authorized in section 1435(a)(10) of this title;
+&emsp;(C) as a full-time special education teacher, including teachers of infants, toddlers, children, or youth with disabilities in a public or other nonprofit elementary or secondary school system, including a system administered by an educational service agency, or as a full-time qualified professional provider of early intervention services in a public or other nonprofit program under public supervision by the lead agency as authorized in section 1435(a)(10) of this title;
 
 &emsp;(D) as a member of the Armed Forces of the United States, for service that qualifies for special pay under section 310, or paragraph (1) or (3) of section 351(a), of title 37 as an area of hostilities;
 
@@ -48,7 +48,7 @@
 
 (3)(A) The percent of a loan which shall be canceled under paragraph (1) of this subsection is—
 
-&emsp;(i) in the case of service described in subparagraph (A), (C), (D), (F), (G), (H), (I), (J), (K), (L), or (M) of paragraph (2), at the rate of 15 percent for the first or second year of such service, 20 percent for the third or fourth year of such service, and 30 percent for the fifth year of such service;
+&emsp;(i) in the case of service described in subparagraph (A), (C), (D), (F), (G), (H), (I), (J),\(K), (L), or (M) of paragraph (2), at the rate of 15 percent for the first or second year of such service, 20 percent for the third or fourth year of such service, and 30 percent for the fifth year of such service;
 
 &emsp;(ii) in the case of service described in subparagraph (B) of paragraph (2), at the rate of 15 percent for each year of such service; or
 
@@ -88,6 +88,8 @@ The Secretary shall pay to each institution for each fiscal year an amount equal
 
 (Pub. L. 89–329, title IV, §465, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1451; amended Pub. L. 100–50, §13(j), June 3, 1987, 101 Stat. 349; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 101–476, title IX, §901(e), Oct. 30, 1990, 104 Stat. 1151; Pub. L. 101–647, title XXI, §2101(a), (b), Nov. 29, 1990, 104 Stat. 4856; Pub. L. 102–119, §26(h), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–325, title IV, §465(a)–(c), July 23, 1992, 106 Stat. 582, 583; Pub. L. 103–82, title I, §102(c)(3), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103–208, §2(f)(12)–(14), (k)(7), Dec. 20, 1993, 107 Stat. 2471, 2486; Pub. L. 103–382, title III, §391(e)(3), Oct. 20, 1994, 108 Stat. 4022; Pub. L. 105–244, title IV, §465, Oct. 7, 1998, 112 Stat. 1728; Pub. L. 108–446, title III, §305(c)(1), Dec. 3, 2004, 118 Stat. 2805; Pub. L. 110–315, title IV, §465, Aug. 14, 2008, 122 Stat. 3267; Pub. L. 111–39, title IV, §405(5), July 1, 2009, 123 Stat. 1947; Pub. L. 114–328, div. A, title VI, §618(e), Dec. 23, 2016, 130 Stat. 2160.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2)(A)(i), (L), (M), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of this title. Part A of title I of the Act is classified generally to part A (§6311 et seq.) of subchapter I of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
@@ -98,7 +100,7 @@ The Peace Corps Act, referred to in subsec. (a)(2)(E), is Pub. L. 87–293, Sept
 
 The Domestic Volunteer Service Act of 1973, referred to in subsec. (a)(2)(E), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, as amended, which is classified principally to chapter 66 (§4950 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of Title 42 and Tables.
 
-The National and Community Service Act of 1990, referred to in subsec. (a)(6), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended. Subtitle D of title I of the Act is classified generally to division D of subchapter I (§12601 et seq.) of chapter 129 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
+The National and Community Service Act of 1990, referred to in subsec. (a)(6), is Pub. L. 101–610, Nov. 16,1990, 104 Stat. 3127, as amended. Subtitle D of title I of the Act is classified generally to division D of subchapter I (§12601 et seq.) of chapter 129 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
 Section 1087aa of this title, referred to in subsec. (b), was amended by Pub. L. 114–105, §2(a)(1)(B), Dec. 18, 2015, 129 Stat. 2219, which struck out subsec. (b) authorizing appropriations and added a new subsec. (b) authorizing institutions of higher education to make loans.
 
@@ -138,7 +140,7 @@ Subsec. (a)(2)(C). Pub. L. 105–244, §465(1)(A), substituted "section 1435(a)(
 
 Subsec. (a)(7). Pub. L. 105–244, §465(1)(C), added par. (7).
 
-Subsec. (b). Pub. L. 105–244, §465(2), inserted at end "To the extent feasible, the Secretary shall pay the amounts for which any institution qualifies under thissubsection not later than 3 months after the institution files an institutional application for campus-based funds."
+Subsec. (b). Pub. L. 105–244, §465(2), inserted at end "To the extent feasible, the Secretary shall pay the amounts for which any institution qualifies under this subsection not later than 3 months after the institution files an institutional application for campus-based funds."
 
 <b>1994</b>—Subsec. (a)(2)(A). Pub. L. 103–382 substituted "title I of the Elementary and Secondary Education Act of 1965" for "chapter 1 of the Education Consolidation and Improvement Act of 1981".
 
@@ -176,9 +178,11 @@ Subsec. (a)(3)(A)(i). Pub. L. 101–647, §2101(b), which directed amendment of 
 
 Subsec. (a)(2)(B). Pub. L. 100–50, §13(j)(3), substituted "the Head Start Act" for "section 2809(a)(1) of title 42".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2009 Amendment
 
-Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14,2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 
 #### Effective Date of 1998 Amendment
 

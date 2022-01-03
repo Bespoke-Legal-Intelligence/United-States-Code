@@ -1,8 +1,12 @@
 ### §3722. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 3722 was editorially reclassified as section 10122 of Title 34, Crime Control and Law Enforcement.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Report on Drug-testing Technologies
 

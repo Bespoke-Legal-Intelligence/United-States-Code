@@ -17,6 +17,7 @@
 - [&sect; 08110 - Operation of medical facilities](%C2%A7%2008110%20-%20Operation%20of%20medical%20facilities.md)
 - [&sect; 08111 - Sharing of Department of Veterans Affairs and Department of Defense health care resources](%C2%A7%2008111%20-%20Sharing%20of%20Department%20of%20Veterans%20Affairs%20and%20Department%20of%20Defense%20health%20care%20resources.md)
 - [&sect; 08111A - Furnishing of health-care services to members of the Armed Forces during a war or national emergency](%C2%A7%2008111A%20-%20Furnishing%20of%20health-care%20services%20to%20members%20of%20the%20Armed%20Forces%20during%20a%20war%20or%20national%20emergency.md)
+- [&sect; 08111B - Shared medical facilities with Department of Defense](%C2%A7%2008111B%20-%20Shared%20medical%20facilities%20with%20Department%20of%20Defense.md)
 - [&sect; 08112 - Partial relinquishment of legislative jurisdiction](%C2%A7%2008112%20-%20Partial%20relinquishment%20of%20legislative%20jurisdiction.md)
 - [&sect; 08113 - Property formerly owned by National Home for Disabled Volunteer Soldiers](%C2%A7%2008113%20-%20Property%20formerly%20owned%20by%20National%20Home%20for%20Disabled%20Volunteer%20Soldiers.md)
 - [&sect; 08114 - Use of federally owned facilities; use of personnel](%C2%A7%2008114%20-%20Use%20of%20federally%20owned%20facilities%3B%20use%20of%20personnel.md)

@@ -3,9 +3,9 @@
 | Sec. |  |
 | :--- | ---: |
 | [9511\.](%C2%A7%2009511%20-%20Definitions.md) | Definitions. |
-| [9511a.](%C2%A7%2009511a%20-%20Civil%20Reserve%20Air%20Fleet%20contracts%20payment%20rate.md) | Civil Reserve Air Fleet contracts: payment rate. |
-| [9512\.](%C2%A7%2009512%20-%20Contracts%20for%20the%20inclusion%20or%20incorporation%20of%20defense%20features.md) | Contracts for the inclusion or incorporation of defense features. |
-| \[9513. | Repealed.\] |
+| \[9511a. | Renumbered.\] |
+| [9512\.](%C2%A7%2009512%20-%20Civil%20Reserve%20Air%20Fleet%20contracts%20payment%20rate.md) | Civil Reserve Air Fleet contracts: payment rate. |
+| [9513\.](%C2%A7%2009513%20-%20Contracts%20for%20the%20inclusion%20or%20incorporation%20of%20defense%20features.md) | Contracts for the inclusion or incorporation of defense features. |
 | [9514\.](%C2%A7%2009514%20-%20Indemnification%20of%20Department%20of%20Transportation%20for%20losses%20covered%20by%20defense-related%20aviation%20insurance.md) | Indemnification of Department of Transportation for losses covered by defense-related aviation insurance. |
 | [9515\.](%C2%A7%2009515%20-%20Charter%20air%20transportation%20services%20minimum%20annual%20purchase%20amount%20for%20carriers%20participating%20in%20Civil%20Reserve%20Air%20Fleet.md) | Charter air transportation services: minimum annual purchase amount for carriers participating in Civil Reserve Air Fleet. |
 | [9516\.](%C2%A7%2009516%20-%20Airlift%20service.md) | Airlift service. |
@@ -13,17 +13,19 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Chapter was comprised of subchapter I, sections 9501 to 9507, and subchapter II, sections 9511 to 9513, prior to amendment by Pub. L. 103–160, div. A, title VIII, §828(a)(8)(A)(ii), Nov. 30, 1993, 107 Stat. 1714, which struck out headings for subchapters I and II.
 
-Prior section 9501, act Aug. 10, 1956, ch. 1041, 70A Stat. 573, related to mobilization by the President in time of war, prior to repeal by Pub. L. 103–160, div. A, title VIII, §822(a)(2), Nov. 30, 1993, 107 Stat. 1705. See section 2538 of this title.
+Prior section 9501, act Aug. 10, 1956, ch. 1041, 70A Stat. 573, related to mobilization by the President in time of war, prior to repeal by Pub. L. 103–160, div. A, title VIII, §822(a)(2), Nov. 30, 1993, 107 Stat. 1705. See section 4882 of this title.
 
-Prior section 9502, act Aug. 10, 1956, ch. 1041, 70A Stat. 574, related to maintenance by Secretary of the Air Force of lists of plants equipped to manufacture arms or ammunition and lists of plants convertible into ammunition factories, and provided for a Board on Mobilization of Industries Essential for Military Preparedness, prior to repeal by Pub. L. 103–160, div. A, title VIII, §822(a)(2), Nov. 30, 1993, 107 Stat. 1705. See sections 2539 and 2539a of this title.
+Prior section 9502, act Aug. 10, 1956, ch. 1041, 70A Stat. 574, related to maintenance by Secretary of the Air Force of lists of plants equipped to manufacture arms or ammunition and lists of plants convertible into ammunition factories, and provided for a Board on Mobilization of Industries Essential for Military Preparedness, prior to repeal by Pub. L. 103–160, div. A, title VIII, §822(a)(2), Nov. 30, 1993, 107 Stat. 1705. See sections 4883 and 4884 of this title.
 
 Prior section 9503, act Aug. 10, 1956, ch. 1041, 70A Stat. 574, related to research and development programs of the Air Force, prior to repeal by Pub. L. 103–160, div. A, title VIII, §827(c), Nov. 30, 1993, 107 Stat. 1713.
 
-Prior section 9504, act Aug. 10, 1956, ch. 1041, 70A Stat. 575, related to procurement of ordnance, signal, and chemical warfare supplies for experimental purposes by the Secretary of the Air Force, prior to repeal by Pub. L. 103–160, div. A, title VIII, §822(c)(2), Nov. 30, 1993, 107 Stat. 1707. See section 2373 of this title.
+Prior section 9504, act Aug. 10, 1956, ch. 1041, 70A Stat. 575, related to procurement of ordnance, signal, and chemical warfare supplies for experimental purposes by the Secretary of the Air Force, prior to repeal by Pub. L. 103–160, div. A, title VIII, §822(c)(2), Nov. 30, 1993, 107 Stat. 1707. See section 4023 of this title.
 
 Prior section 9505, act Aug. 10, 1956, ch. 1041, 70A Stat. 575, related to procurement of production equipment by Secretary of the Air Force, prior to repeal by Pub. L. 103–160, div. A, title VIII, §823(1), Nov. 30, 1993, 107 Stat. 1707.
 
@@ -32,6 +34,8 @@ Prior section 9506, act Aug. 10, 1956, ch. 1041, 70A Stat. 575, related to sale,
 Prior section 9507, act Aug. 10, 1956, ch. 1041, 70A Stat. 575, related to sale of ordnance and ordnance stores to designers, prior to repeal by Pub. L. 103–160, div. A, title VIII, §822(b)(3), Nov. 30, 1993, 107 Stat. 1706.
 
 #### Amendments
+
+<b>2021</b>—Pub. L. 117–81, div. A, title X, §1083(c)(2), Dec. 27, 2021, 135 Stat. 1923, added items 9512 and 9513 andstruck out item 9511a "Civil Reserve Air Fleet contracts: payment rate" and former item 9512 "Contracts for the inclusion or incorporation of defense features".
 
 <b>2018</b>—Pub. L. 115–232, div. A, title VIII, §806(d)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 931 of this title as this chapter.
 
@@ -61,9 +65,9 @@ Prior section 9507, act Aug. 10, 1956, ch. 1041, 70A Stat. 575, related to sale 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 09511 - Definitions](%C2%A7%2009511%20-%20Definitions.md)
-- [&sect; 09511a - Civil Reserve Air Fleet contracts payment rate](%C2%A7%2009511a%20-%20Civil%20Reserve%20Air%20Fleet%20contracts%20payment%20rate.md)
-- [&sect; 09512 - Contracts for the inclusion or incorporation of defense features](%C2%A7%2009512%20-%20Contracts%20for%20the%20inclusion%20or%20incorporation%20of%20defense%20features.md)
-- [&sect; 09513 - Repealed. Pub. L. 113&#8211;291, div. A, title X, &sect;1045(a), Dec. 19, 2014, 128 Stat. 3494](%C2%A7%2009513%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93291%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71045%28a%29%2C%20Dec.%2019%2C%202014%2C%20128%20Stat.%203494.md)
+- [&sect; 09511a - Renumbered &sect;9512](%C2%A7%2009511a%20-%20Renumbered%20%C2%A79512.md)
+- [&sect; 09512 - Civil Reserve Air Fleet contracts payment rate](%C2%A7%2009512%20-%20Civil%20Reserve%20Air%20Fleet%20contracts%20payment%20rate.md)
+- [&sect; 09513 - Contracts for the inclusion or incorporation of defense features](%C2%A7%2009513%20-%20Contracts%20for%20the%20inclusion%20or%20incorporation%20of%20defense%20features.md)
 - [&sect; 09514 - Indemnification of Department of Transportation for losses covered by defense-related aviation insurance](%C2%A7%2009514%20-%20Indemnification%20of%20Department%20of%20Transportation%20for%20losses%20covered%20by%20defense-related%20aviation%20insurance.md)
 - [&sect; 09515 - Charter air transportation services minimum annual purchase amount for carriers participating in Civil Reserve Air Fleet](%C2%A7%2009515%20-%20Charter%20air%20transportation%20services%20minimum%20annual%20purchase%20amount%20for%20carriers%20participating%20in%20Civil%20Reserve%20Air%20Fleet.md)
 - [&sect; 09516 - Airlift service](%C2%A7%2009516%20-%20Airlift%20service.md)

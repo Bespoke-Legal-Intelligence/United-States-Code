@@ -134,7 +134,7 @@ Limitations.—In exercising the authority under clause (ii) in any year, the Po
 
 &emsp;(3)
 
-Review.—Ten years after the date of enactment of the Postal Accountability and Enhancement Act and as appropriate thereafter, the Commission shall review the system forregulating rates and classes for market-dominant products established under this section to determine if the system is achieving the objectives in subsection (b), taking into account the factors in subsection (c). If the Commission determines, after notice and opportunity for public comment, that the system is not achieving the objectives in subsection (b), taking into account the factors in subsection (c), the Commission may, by regulation, make such modification or adopt such alternative system for regulating rates and classes for market-dominant products as necessary to achieve the objectives.
+Review.—Ten years after the date of enactment of the Postal Accountability and Enhancement Act and as appropriate thereafter, the Commission shall review the system for regulating rates and classes for market-dominant products established under this section to determine if the system is achieving the objectives in subsection (b), taking into account the factors in subsection (c). If the Commission determines, after notice and opportunity for public comment, that the system is not achieving the objectives in subsection (b), taking into account the factors in subsection (c), the Commission may, by regulation, make such modification or adopt such alternative system for regulating rates and classes for market-dominant products as necessary to achieve the objectives.
 
 (e)
 

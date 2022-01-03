@@ -8,6 +8,8 @@ Subpart F—Rules for Computing Work Opportunity Credit
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–432, div. A, title I, §105(e)(4)(B), Dec. 20, 2006, 120 Stat. 2937, struck out item 51A "Temporary incentives for employing long-term family assistance recipients".

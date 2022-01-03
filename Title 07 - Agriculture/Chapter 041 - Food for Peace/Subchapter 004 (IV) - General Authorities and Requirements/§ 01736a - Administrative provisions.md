@@ -54,7 +54,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Administrator shall transfer, arrange for the transportation, and take other steps necessary to make available agricultural commodities to be provided under subchapter III and subchapter III–A.
+&emsp;&emsp;The Administrator shall transfer, arrange for the transportation, and take other stepsnecessary to make available agricultural commodities to be provided under subchapter III and subchapter III–A.
 
 #### (B) Certain commodities made available for nonemergency assistance
 
@@ -156,6 +156,8 @@ An agreement under subchapters II and III–A shall, to the extent practicable, 
 
 (July 10, 1954, ch. 469, title IV, §407, as added Pub. L. 89–808, §2(E), Nov. 11, 1966, 80 Stat. 1537; amended Pub. L. 90–436, §8, July 29, 1968, 82 Stat. 451; Pub. L. 94–161, title II, §210, Dec. 20, 1975, 89 Stat. 854; Pub. L. 101–508, title I, §1204(b)(3), Nov. 5, 1990, 104 Stat. 1388–11; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3650; Pub. L. 102–237, title III, §§319, 324, 325, 328, 329, 332, Dec. 13, 1991, 105 Stat. 1857, 1858; Pub. L. 104–66, title I, §1011(e), Dec. 21, 1995, 109 Stat. 709; Pub. L. 104–127, title II, §216, Apr. 4, 1996, 110 Stat. 957; Pub. L. 106–472, title III, §310(b), Nov. 9, 2000, 114 Stat. 2076; Pub. L. 107–171, title III, §§3010, 3011, May 13, 2002, 116 Stat. 284; Pub. L. 110–246, title III, §§3017, 3018(a), June 18, 2008, 122 Stat. 1827; Pub. L. 113–79, title III, §§3009, 3010, Feb. 7, 2014, 128 Stat. 776, 777; Pub. L. 115–334, title III, §§3111, 3112(a), Dec. 20, 2018, 132 Stat. 4605.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Food for Progress Act of 1985, referred to in subsec. (f)(2)(C)(iii), is Pub. L. 99–198, title XI, §1110, Dec. 23, 1985, 99 Stat. 1472, which is classified to section 1736o of this title.
@@ -194,7 +196,7 @@ Subsec. (f)(1)(B)(iii)(III). Pub. L. 113–79, §3010(3)(B)–(D), added subcl. 
 
 Subsec. (c)(5). Pub. L. 110–246, §3017(2), added par. (5).
 
-Subsec. (f). Pub. L. 110–246, §3018(a), added subsec. (f) and struck out former subsec. (f) which directed President to prepare an annual report concerning programs and activities implemented under this chapter for the preceding fiscal year, described contents of report, and directed that it be submitted not later than Jan. 15 of each year to the Committee on Agriculture and the Committee on Foreign Affairs of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
+Subsec. (f). Pub. L. 110–246, §3018(a), added subsec. (f) and struck out former subsec. (f) which directed President to prepare an annual report concerning programsand activities implemented under this chapter for the preceding fiscal year, described contents of report, and directed that it be submitted not later than Jan. 15 of each year to the Committee on Agriculture and the Committee on Foreign Affairs of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
 
 <b>2002</b>—Subsec. (c)(1). Pub. L. 107–171, §3011, designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
@@ -242,6 +244,8 @@ Subsec. (c)(4). Pub. L. 101–508 substituted "providing ocean transportation or
 
 <b>1968</b>—Pub. L. 90–436 struck out provisions that the vice chairman and one ranking minority member of the specified House committees and the next ranking majority member and one ranking minority member of the specified Senate committees be members of the Advisory Committee, and inserted provisions requiring the Advisory Committee to meet not less than four times during each calendar year and setting forth the order of precedence at such meetings.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
 Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
@@ -256,9 +260,11 @@ Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub.
 
 Section effective Jan. 1, 1967, see section 5 of Pub. L. 89–808, set out as an Effective Date of 1966 Amendment note under section 1691 of this title.
 
+#### <b>Executive Documents</b>
+
 #### Preparation of Annual Report
 
-For provisions requiring Food Assistance Policy Council to prepare annual report pursuant to subsec.\(g)(1) \[now (f)(1)\] of this section, see Ex. Ord. No. 12752, §3(c), Feb. 25, 1991, 56 F.R. 8256, set out as a note under section 1691 of this title.
+For provisions requiring Food Assistance Policy Council to prepare annual report pursuant to subsec. (g)(1) \[now (f)(1)\] of this section, see Ex. Ord. No. 12752, §3(c), Feb. 25, 1991, 56 F.R. 8256, set out as a note under section 1691 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "sections".</i>
 

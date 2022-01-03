@@ -58,7 +58,7 @@ In developing the strategy required under this section, the Secretary of State s
 
 #### (c) Consultation
 
-In developing the strategy required under this section, the Secretary of State may consult with civil society and the private sector in the United States, El Salvador, Guatemala, and Honduras.
+In developing the strategy required under this section, the Secretary of State may consult with civil society and the private sector in theUnited States, El Salvador, Guatemala, and Honduras.
 
 #### (d) Benchmarks
 
@@ -98,7 +98,7 @@ In this section, the term "appropriate congressional committees" means—
 
 #### Codification
 
-Section was enacted as part of the United States – Northern Triangle Enhanced Engagement Act, and notas part of the Foreign Assistance Act of 1961 which comprises this chapter.
+Section was enacted as part of the United States – Northern Triangle Enhanced Engagement Act, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

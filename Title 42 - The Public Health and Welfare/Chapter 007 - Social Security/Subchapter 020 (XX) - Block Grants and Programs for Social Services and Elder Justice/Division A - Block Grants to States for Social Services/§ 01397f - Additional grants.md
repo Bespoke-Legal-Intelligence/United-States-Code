@@ -158,6 +158,8 @@ As used in this section:
 
 (Aug. 14, 1935, ch. 531, title XX, §2007, as added Pub. L. 103–66, title XIII, §13761, Aug. 10, 1993, 107 Stat. 664; amended Pub. L. 103–432, title II, §263, Oct. 31, 1994, 108 Stat. 4467.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Internal Revenue Code of 1986, referred to in subsecs. (a)(3), (d)(1), and (f), is classified generally to Title 26, Internal Revenue Code.

@@ -14,7 +14,7 @@ Activities supported pursuant to this part may include the establishment of and 
 
 #### (d) Cooperative development and research projects
 
-Assistance under this part may include support for cooperative development projects, including cooperative development researchprojects, among the United States, other countries, and independent states of the former Soviet Union.
+Assistance under this part may include support for cooperative development projects, including cooperative development research projects, among the United States, other countries, and independent states of the former Soviet Union.
 
 #### (e) Administration of justice programs
 
@@ -90,7 +90,7 @@ Assistance under this part shall be provided on such terms and conditions as the
 
 &emsp;&emsp;(B) imports from the Cuban Government at preferential tariff rates;
 
-&emsp;&emsp;(C) exchange arrangements that include advance delivery of commodities, arrangements in which the Cuban Government is not held accountable for unfulfilled exchange contracts, and arrangements underwhich Cuba does not pay appropriate transportation, insurance, or finance costs; and
+&emsp;&emsp;(C) exchange arrangements that include advance delivery of commodities, arrangements in which the Cuban Government is not held accountable for unfulfilled exchange contracts, and arrangements under which Cuba does not pay appropriate transportation, insurance, or finance costs; and
 
 &emsp;&emsp;(D) the exchange, reduction, or forgiveness of debt of the Cuban Government in return for a grant by the Cuban Government of an equity interest in a property, investment, or operation of the Cuban Government or of a Cuban national.
 

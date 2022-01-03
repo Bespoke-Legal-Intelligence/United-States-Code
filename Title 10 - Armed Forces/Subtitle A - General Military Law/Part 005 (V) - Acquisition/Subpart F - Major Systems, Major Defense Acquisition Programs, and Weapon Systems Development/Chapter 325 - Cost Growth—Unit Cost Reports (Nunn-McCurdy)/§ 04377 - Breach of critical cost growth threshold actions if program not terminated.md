@@ -16,7 +16,7 @@ Actions if Program Not Terminated.—If the Secretary elects not to terminate a 
 
 (b)
 
-Identification of Report for Description of Funding Changes.—For purposes of subsection (a)(4), the report specified in this subsection is the first Selected Acquisition Report for the program submitted pursuant to section 4352 of this title after the President submits a budget pursuant to section 1105 of title 31, in the calendar year following the year in which the program was restructured.
+Identification of Report for Description of Funding Changes.—For purposes of subsection (a)(4), the report specified in this subsection is the first Selected Acquisition Report for the program submitted pursuant to section 4351 of this title after the President submits a budget pursuant to section 1105 of title 31, in the calendar year following the year in which the program was restructured.
 
 (c)
 
@@ -34,7 +34,7 @@ Conditions for inapplicability.—The requirements of paragraphs (2), (3), and (
 
 &emsp;&emsp;(B) the Secretary determines in writing that the cost to the Department of Defense of complying with such requirements is likely to exceed the benefits to the Department of complying with such requirements; and
 
-&emsp;&emsp;(C) the Secretary submits to Congress, before the end of the 60-day period beginning on the day the Selected Acquisition Report containing the information described in subsections (d) and (e) of section 4375 of this title is required to be submitted under section 4356 of this title—
+&emsp;&emsp;(C) the Secretary submits to Congress, before the end of the 60-day period beginning on the day the Selected Acquisition Report containing the information described in subsections (d) and (e) of section 4375 of this title is required to be submitted under section 4351(f) of this title—
 
 &emsp;&emsp;&emsp;(i) a copy of the written determination under subparagraph (A) and an explanation of the basis for the determination; and
 
@@ -56,7 +56,13 @@ Cost growth thresholds.—The cost growth thresholds specified in this paragraph
 
 &emsp;&emsp;&emsp;(ii) 10 percent over the procurement unit cost for the program or subprogram as shown in the original Baseline Estimate for the program or subprogram.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, §1850(a), (k), Jan. 1, 2021, 134 Stat. 4265, 4270.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, §1850(a), (k), Jan. 1, 2021, 134 Stat. 4265, 4270; Pub. L. 117–81, div. A, title XVII, §1701(o)(6)(E)(vi), (vii), Dec. 27, 2021, 135 Stat. 2148.)
+
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+Section 205 of the Weapon Systems Acquisition Reform Act of 2009, referred to in subsec. (a)(5), is section 205 of Pub. L. 111–23, which amended section 4252 of this title and enacted provisions set out as notes under this section and former section 2366b of this title.
 
 #### Codification
 
@@ -94,9 +100,9 @@ Subsec. (a)(2). Pub. L. 116–283, §1850(k)(3)(E), substituted "section 4251 or
 
 Subsec. (a)(4). Pub. L. 116–283, §1850(k)(3)(F), substituted "subsection (b)" for "paragraph (2)".
 
-Subsec. (b). Pub. L. 116–283, §1850(k)(4), inserted heading and substituted "subsection (a)(4)" for "paragraph (1)(D)", "in this subsection" for "in this paragraph", and "section 4352" for "section 2432".
+Subsec. (b). Pub. L. 116–283, §1850(k)(4), as amended by Pub. L. 117–81, §1701(o)(6)(E)(vi), inserted heading and substituted "subsection (a)(4)" for "paragraph (1)(D)", "in this subsection" for "in this paragraph", and "section 4351" for "section 2432".
 
-Subsec. (c). Pub. L. 116–283, §1850(k)(5), inserted subsec. heading, redesignated subpars. (A) and (B) as pars.\(1) and (2), respectively, inserted par. headings, and substituted "The requirements of paragraphs (2), (3), and (5) of subsection (a)" for "The requirements of subparagraphs (B), (C), and (E) of paragraph (1)" in introductory provisions of par. (1).
+Subsec. (c). Pub. L. 116–283, §1850(k)(5), inserted subsec. heading, redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, inserted par. headings, and substituted "The requirements of paragraphs (2), (3), and (5) of subsection (a)" for "The requirements of subparagraphs (B), (C), and (E) of paragraph (1)" in introductory provisions of par. (1).
 
 Subsec. (c)(1). Pub. L. 116–283, §1850(k)(6)(A), redesignated cls. (i) to (iii) as subpars. (A) to (C), respectively.
 
@@ -108,7 +114,7 @@ Subsec. (c)(1)(A)(i). Pub. L. 116–283, §1850(k)(6)(C)(ii), substituted "parag
 
 Subsec. (c)(1)(A)(ii). Pub. L. 116–283, §1850(k)(6)(C)(iii), substituted "clause (i)" for "subclause (I)".
 
-Subsec. (c)(1)(C). Pub. L. 116–283, §1850(k)(6)(D)(i), substituted "subsections (d) and (e) of section 4375" for "section 2433(g)" and "section 4356" for "section 2432(f)" in introductory provisions.
+Subsec. (c)(1)(C). Pub. L. 116–283, §1850(k)(6)(D)(i), as amended by Pub. L. 117–81, §1701(o)(6)(E)(vii), substituted "subsections (d) and (e) of section 4375" for "section 2433(g)" and "section 4351(f)" for "section 2432(f)" in introductory provisions.
 
 Pub. L. 116–283, §1850(k)(6)(B), redesignated subcls. (I) and (II) as cls. (i) and (ii), respectively.
 
@@ -120,7 +126,21 @@ Subsec. (c)(2). Pub. L. 116–283, §1850(k)(7)(A), (B), substituted "this parag
 
 Subsec. (c)(2)(A), (B). Pub. L. 116–283, §1850(k)(7)(C), redesignated subcls. (I) and (II) as cls. (i) and (ii), respectively.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and Effective Date note below.
+
 #### Effective Date
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
+
+#### Reviews of Programs Restructured After Experiencing Critical Cost Growth
+
+Pub. L. 111–23, title II, §205(c), May 22, 2009, 123 Stat. 1725, as amended by Pub. L. 111–383, div. A, title VIII, §813(e), title X, §1075(k)(2), Jan. 7, 2011, 124 Stat. 4266, 4378, provided that: "The official designated to perform oversight of performance assessment pursuant to section 103 of this Act \[formerly set out as a note under section 2430 of this title, see 10 U.S.C. 4273\], shall assess the performance of each major defense acquisition program that has exceeded critical cost growth thresholds established pursuant to \[former\] section 2433(e) of title 10, United States Code \[see 10 U.S.C. 4375(a) to (c)\], but has not been terminated in accordance with \[former\] section 2433a of such title \[see 10 U.S.C. 4376, 4377\] (as added by section 206(a) of this Act) not less often than semi-annually until one year after the date on which such program receives a new milestone approval, in accordance with \[former\] section 2433a(c)(1)(C) of such title \[see 10 U.S.C. 4377(a)(3)\] (as so added). The results of reviews performed under this subsection shall be reported to the Under Secretary of Defense for Acquisition, Technology, and Logistics and summarized in the next annual report of such designated official."
+
+\[Pub. L. 111–383, div. A, title VIII, §813(e), Jan. 7, 2011, 124 Stat. 4266, provided that the amendment made by section 813(e) to section 205(c) of Pub. L. 111–23, set out above, is effective as of May 22, 2009, and as if included in Pub. L. 111–23, as enacted.\]
+
+\[For definition of "major defense acquisition program" as used in section 205(c) of Pub. L. 111–23, set out above, see section 2(2) of Pub. L. 111–23, set out as a note preceding section 4321 of this title.\]
 

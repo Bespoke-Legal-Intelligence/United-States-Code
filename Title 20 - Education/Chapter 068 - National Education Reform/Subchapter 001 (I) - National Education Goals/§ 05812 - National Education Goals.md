@@ -26,7 +26,7 @@ The Congress declares that the National Education Goals are the following:
 
 #### (3) Student achievement and citizenship
 
-&emsp;(A) By the year 2000, all students will leave grades 4, 8, and 12 having demonstrated competency over challenging subject matter including English, mathematics, science, foreign languages, civics and government, economics,arts, history, and geography, and every school in America will ensure that all students learn to use their minds well, so they may be prepared for responsible citizenship, further learning, and productive employment in our Nation's modern economy.
+&emsp;(A) By the year 2000, all students will leave grades 4, 8, and 12 having demonstrated competency over challenging subject matter including English, mathematics, science, foreign languages, civics and government, economics, arts, history, and geography, and every school in America will ensure that all students learn to use their minds well, so they may be prepared for responsible citizenship, further learning, and productive employment in our Nation's modern economy.
 
 &emsp;(B) The objectives for this goal are that—
 
@@ -112,7 +112,7 @@ The Congress declares that the National Education Goals are the following:
 
 &emsp;(B) The objectives for this Goal are that—
 
-&emsp;&emsp;(i) every State will develop policies to assist local schools and local educational agencies to establish programs for increasing partnerships that respond to the varying needs of parents and the home, including parents of children who are disadvantaged or bilingual, or parents of children with disabilities;
+&emsp;&emsp;(i) every State will develop policies to assist local schools and local educational agencies to establish programs for increasing partnerships that respond to the varyingneeds of parents and the home, including parents of children who are disadvantaged or bilingual, or parents of children with disabilities;
 
 &emsp;&emsp;(ii) every school will actively engage parents and families in a partnership which supports the academic work of children at home and shared educational decisionmaking at school; and
 

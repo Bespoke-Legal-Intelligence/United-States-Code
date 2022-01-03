@@ -16,9 +16,13 @@ The Secretary of Agriculture (referred to in this chapter as the "Secretary") is
 
 (Pub. L. 95–334, title IV, §401, Aug. 4, 1978, 92 Stat. 433; Pub. L. 115–334, title II, §2403(a)(1), Dec. 20, 2018, 132 Stat. 4571.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–334 inserted section catchline, designated existing provisions as subsec. (a), inserted heading, substituted "The Secretary of Agriculture (referred to in this chapter as the 'Secretary')" for "The Secretary of Agriculture", inserted "wildfires," after "hurricanes,", and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -30,6 +30,8 @@ In the case of any expenditures paid or incurred with respect to the development
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 212; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title II, §201(d)(9)(C), formerly §201(c)(9)(C), Sept. 3, 1982, 96 Stat. 420, renumbered §201(d)(9)(C), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 99–514, title IV, §411(b)(2)(A), (C)(i), Oct. 22, 1986, 100 Stat. 2226; Pub. L. 100–647, title I, §1007(g)(7), Nov. 10, 1988, 102 Stat. 3435.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Subsec. (e). Pub. L. 100–647 substituted "section 59(e)" for "section 58(i)".
@@ -41,6 +43,8 @@ Subsecs. (d), (e). Pub. L. 99–514, §411(b)(2)(A), added subsec. (d) and redes
 <b>1982</b>—Subsec. (d). Pub. L. 97–248 added subsec. (d).
 
 <b>1976</b>—Subsec. (b). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

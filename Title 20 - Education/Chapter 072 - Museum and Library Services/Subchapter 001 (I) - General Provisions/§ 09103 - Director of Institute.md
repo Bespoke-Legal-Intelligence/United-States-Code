@@ -62,7 +62,7 @@ The Director shall ensure coordination of the policies and activities of the Ins
 
 #### (g) Interagency collaboration
 
-The Director shall work jointly with the individuals heading relevant Federal departments and agencies, including the Secretary of Labor, the Secretary of Education, the Administrator of the Small Business Administration, the Chairman of the Federal Communications Commission, the Director of the National Science Foundation, the Secretary of Health and HumanServices, the Secretary of State, the Administrator of the Environmental Protection Agency, the Secretary of the Interior, the Secretary of Housing and Urban Development, the Chairman of the National Endowment for the Arts, the Chairman of the National Endowment of the Humanities, the Director of the Office of Management and Budget, the Secretary of Commerce, the Secretary of Veterans Affairs, the Secretary of Defense, the Secretary of Homeland Security, the Secretary of Agriculture, the Chief Executive Officer of the Corporation for National and Community Service, the Librarian of Congress, the Archivist of the United States, and the Director of the United States Government Publishing Office, or the designees of such individuals, on—
+The Director shall work jointly with the individuals heading relevant Federal departments and agencies, including the Secretary of Labor, the Secretary of Education, the Administrator of the Small Business Administration, the Chairman of the Federal Communications Commission, the Director of the National Science Foundation, the Secretary of Health and Human Services, the Secretary of State, the Administrator of the Environmental Protection Agency, the Secretary of the Interior, the Secretary of Housing and Urban Development, the Chairman of the National Endowment for the Arts, the Chairman of the National Endowment of the Humanities, the Director of the Office of Management and Budget, the Secretary of Commerce, the Secretary of Veterans Affairs, the Secretary of Defense, the Secretary of Homeland Security, the Secretary of Agriculture, the Chief Executive Officer of the Corporation for National and Community Service, the Librarian of Congress, the Archivist of the United States, and the Director of the United States Government Publishing Office, or the designees of such individuals, on—
 
 &emsp;(1) initiatives, materials, technology, or research to support education, workforce development, economic and business development, and related activities and services undertaken by libraries;
 
@@ -96,9 +96,11 @@ The Director may promulgate such rules and regulations as are necessary and appr
 
 #### (C) Treatment of application disapproval
 
-&emsp;&emsp;The disapproval of an application by the Director shall not be construed to mean, and shall not be considered as evidence that, the project for which the applicant requested financial assistance is or is not obscene.
+&emsp;&emsp;The disapproval of an application by the Director shall not be construed to mean, and shall not be considered as evidence that, theproject for which the applicant requested financial assistance is or is not obscene.
 
 (Pub. L. 94–462, title II, §204, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–294; amended Pub. L. 108–81, title I, §103, Sept. 25, 2003, 117 Stat. 992; Pub. L. 111–340, title I, §102, Dec. 22, 2010, 124 Stat. 3595; Pub. L. 113–128, title V, §512(t)(1), July 22, 2014, 128 Stat. 1712; Pub. L. 114–95, title IX, §9215(aaa)(1), Dec. 10, 2015, 129 Stat. 2184; Pub. L. 115–410, §3, Dec. 31, 2018, 132 Stat. 5412.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -116,7 +118,7 @@ A prior section 204 of Pub. L. 94–462 was classified to section 963 of this ti
 
 #### Amendments
 
-<b>2018</b>—Subsec. (a)(2). Pub. L. 115–410, §3(1), inserted ", except that if a successor to the Director has not been appointed by the President, by and with the advice and consent of the Senate, as of the date of expiration of the Director's term, the Director may serve for not more than 1 additional year or until a successor isappointed and confirmed, whichever is earlier" before period at end.
+<b>2018</b>—Subsec. (a)(2). Pub. L. 115–410, §3(1), inserted ", except that if a successor to the Director has not been appointed by the President, by and with the advice and consent of the Senate, as of the date of expiration of the Director's term, the Director may serve for not more than 1 additional year or until a successor is appointed and confirmed, whichever is earlier" before period at end.
 
 Subsec. (f)(1). Pub. L. 115–410, §3(2)(A), added par. (1) and struck out former par. (1) which read as follows: "activities under section 6646 of this title;".
 
@@ -142,6 +144,8 @@ Subsecs. (h), (i). Pub. L. 111–340, §102(2), redesignated subsecs. (f) and (g
 
 Subsecs. (f), (g). Pub. L. 108–81, §103(2), added subsecs. (f) and (g).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
@@ -152,7 +156,7 @@ Amendment by Pub. L. 113–128 effective on the first day of the first full prog
 
 #### Service of Individuals Serving on September 30, 1996
 
-Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §705\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–311, which provided that the individual who was appointed to the position of Director of the Institute of Museum Services and was serving in such position on the day before Sept. 30, 1996, would serve, at the pleasure of the President, as the first Director of the Institute of Museum and Library Services, was repealed by Pub. L. 108–81, title V, §505(b), Sept. 25, 2003, 117 Stat. 1004.
+Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §705\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–311, which providedthat the individual who was appointed to the position of Director of the Institute of Museum Services and was serving in such position on the day before Sept. 30, 1996, would serve, at the pleasure of the President, as the first Director of the Institute of Museum and Library Services, was repealed by Pub. L. 108–81, title V, §505(b), Sept. 25, 2003, 117 Stat. 1004.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

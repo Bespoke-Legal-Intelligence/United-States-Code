@@ -2,7 +2,7 @@
 
 A Commission shall—
 
-&emsp;(1) assess the needs and assets of its region based on available research, demonstration projects, investigations, assessments, and evaluations of the region prepared by Federal, State, and local agencies, universities, local development districts, and other nonprofit groups;
+&emsp;(1) assess the needs and assets of its region based on available research, demonstrationprojects, investigations, assessments, and evaluations of the region prepared by Federal, State, and local agencies, universities, local development districts, and other nonprofit groups;
 
 &emsp;(2) develop, on a continuing basis, comprehensive and coordinated economic and infrastructure development strategies to establish priorities and approve grants for the economic development of its region, giving due consideration to other Federal, State, and local planning and development activities in the region;
 

@@ -14,15 +14,21 @@ Presidential Waiver for National Security Interest.—(1) The President may auth
 
 Exception for Inflatable Boats.—An inflatable boat or a rigid inflatable boat, as defined by the Secretary of the Navy, is not a vessel for the purpose of the restriction in subsection (a).
 
-(Added Pub. L. 103–160, div. A, title VIII, §824(b), Nov. 30, 1993, 107 Stat. 1710, §7309; renumbered§8679, Pub. L. 115–232, div. A, title VIII, §807(d)(2), Aug. 13, 2018, 132 Stat. 1836.)
+(Added Pub. L. 103–160, div. A, title VIII, §824(b), Nov. 30, 1993, 107 Stat. 1710, §7309; renumbered §8679, Pub. L. 115–232, div. A, title VIII, §807(d)(2), Aug. 13, 2018, 132 Stat. 1836.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7309 of this title as this section.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Authority
 

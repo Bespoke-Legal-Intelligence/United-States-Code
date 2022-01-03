@@ -1,5 +1,7 @@
 ### §622. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act June 26, 1934, ch. 753, §2, 48 Stat. 1223, related to refunding or crediting of taxes paid under section 616 of this title.

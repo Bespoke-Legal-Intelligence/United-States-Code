@@ -1,12 +1,16 @@
 ### §6303a. Whole-school reform strategy
 
-Funds available for school improvement grants for fiscal year 2014 and thereafter may be used by a local educational agency to implement a whole-school reform strategy for a school using an evidence-based strategy that ensures whole-school reform is undertaken in partnership with a strategy developer offering a whole-school reform program that is based on at least a moderate level of evidence that the program will have a statistically significant effect on student outcomes, including at least one well-designed and well-implemented experimental or quasi-experimental study.
+Funds available for school improvement grants for fiscal year 2014 and thereafter may be used by a local educational agency to implement a whole-school reform strategy for a schoolusing an evidence-based strategy that ensures whole-school reform is undertaken in partnership with a strategy developer offering a whole-school reform program that is based on at least a moderate level of evidence that the program will have a statistically significant effect on student outcomes, including at least one well-designed and well-implemented experimental or quasi-experimental study.
 
 (Pub. L. 114–113, div. H, title III, Dec. 18, 2015, 129 Stat. 2627.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
 Section was enacted as part of the Department of Education Appropriations Act, 2016, and also as part of the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2016, and the Consolidated Appropriations Act, 2016, and not as part of the Elementary and Secondary Education Act of 1965 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Similar Provisions
 

@@ -6,7 +6,7 @@
 
 &emsp;(2) extend or reduce the time for such payments;
 
-&emsp;(3) alter the amount of the distribution to a creditor whose claim is provided for by the plan to the extent necessary to take account of any payment of such claim other than under the plan; or
+&emsp;(3) alter the amount of the distribution to a creditor whose claim is provided for by the plan to the extent necessary to take accountof any payment of such claim other than under the plan; or
 
 &emsp;(4) provide for the payment of a claim described in section 1232(a) that arose after the date on which the petition was filed.
 

@@ -6,7 +6,7 @@ As used in this chapter:
 
 &emsp;(2) The term "IUU fishing" means any activity set out in paragraph 3 of the 2001 FAO International Plan of Action to Prevent, Deter and Eliminate Illegal, Unreported and Unregulated Fishing.
 
-&emsp;(3) The term "listed IUU vessel" means a vessel that is included in a list of vessels having engaged in IUU fishing or fishing-related activities in support of IUU fishing that has been adopted by a regional fisheries management organization of which the United States is a member, or a list adopted by a regional fisheries management organization of whichthe United States is not a member if the Secretary determines the criteria used by that organization to create the IUU list is comparable to criteria adopted by RFMOs of which the United States is a member for identifying IUU vessels and activities.
+&emsp;(3) The term "listed IUU vessel" means a vessel that is included in a list of vessels having engaged in IUU fishing or fishing-related activities in support of IUU fishing that has been adopted by a regional fisheries management organization of which the United States is a member, or a list adopted by a regional fisheries management organization of which the United States is not a member if the Secretary determines the criteria used by that organization to create the IUU list is comparable to criteria adopted by RFMOs of which the United States is a member for identifying IUU vessels and activities.
 
 &emsp;(4) The term "Magnuson-Stevens Act" means the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.).
 
@@ -35,6 +35,8 @@ As used in this chapter:
 &emsp;&emsp;(B) does not include any scientific research activity that is conducted by a scientific research vessel.
 
 (Pub. L. 114–81, title III, §303, Nov. 5, 2015, 129 Stat. 664.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

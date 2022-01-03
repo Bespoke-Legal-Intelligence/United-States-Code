@@ -22,7 +22,7 @@ Presumption of Termination.—
 
 &emsp;(1)
 
-Termination unless secretary submits certification and report.—After conducting the reassessment required by subsection (a) with respect to a major defense acquisition program, the Secretary shall terminate the program unless the Secretary submits to Congress, before the end of the 60-day period beginning on the day the Selected Acquisition Report containing the information described in section 4375(d) and (e) of this title is required to be submitted under section 4356(a) of this title, a written certification in accordance with paragraph (2).
+Termination unless secretary submits certification and report.—After conducting the reassessment required by subsection (a) with respect to a major defense acquisition program, the Secretary shall terminate the program unless the Secretary submits to Congress, before the end of the 60-day period beginning on the day the Selected Acquisition Report containing the information described in section 4375(d) and (e) of this title is required to be submitted under section 4351(f) of this title, a written certification in accordance with paragraph (2).
 
 &emsp;(2)
 
@@ -52,7 +52,9 @@ Actions if Program Terminated.—If a major defense acquisition program is termi
 
 &emsp;(3) the course the Department plans to pursue to meet any continuing joint military requirements otherwise intended to be met by the program.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, §1850(a), (j), Jan. 1, 2021, 134 Stat. 4265, 4269.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, §1850(a), (j), Jan. 1, 2021, 134 Stat. 4265, 4269; Pub. L. 117–81, div. A, title XVII, §1701(o)(6)(E)(v), Dec. 27, 2021, 135 Stat. 2148.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -68,9 +70,15 @@ Subsec. (a). Pub. L. 116–283, §1850(j)(3)(A), substituted "section 4374" for 
 
 Subsec. (b)(1). Pub. L. 116–283, §1850(j)(4)(A), inserted heading.
 
-Pub. L. 116–283, §1850(j)(3)(B), substituted "section 4375(d) and (e)" for "section 2433(g)" and "section 4356(a)" for "section 2432(f)".
+Pub. L. 116–283, §1850(j)(3)(B), as amended by Pub. L. 117–81, §1701(o)(6)(E)(v), substituted "section 4375(d) and (e)" for "section 2433(g)" and "section 4351(f)" for "section 2432(f)".
 
 Subsec. (b)(2), (3). Pub. L. 116–283, §1850(j)(4)(B)–(D), realigned margins and inserted headings.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and Effective Date note below.
 
 #### Effective Date
 

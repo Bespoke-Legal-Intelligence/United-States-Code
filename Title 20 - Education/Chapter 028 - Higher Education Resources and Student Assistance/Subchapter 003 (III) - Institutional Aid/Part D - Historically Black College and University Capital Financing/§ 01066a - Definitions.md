@@ -14,7 +14,7 @@ For the purposes of this part:
 
 &emsp;&emsp;(A) any classroom facility, library, laboratory facility, dormitory (including dining facilities) or other facility customarily used by colleges and universities for instructional or research purposes or for housing students, faculty, and staff;
 
-&emsp;&emsp;(B) a facility for the administration of an educational program, or a student center or student union, except that not more than 5 percent of the loan proceeds provided under this part may be used for the facility, center or union if the facility, center or union is owned, leased, managed, or operated by a private business, that, in return for such use, makes a payment to the eligible institution;
+&emsp;&emsp;(B) a facility for the administration of an educational program, or a student center or student union, except that not more than 5 percent of the loan proceeds provided under this part may be used for the facility, center or union if the facility, center or union is owned, leased, managed, or operated by a private business, that, in return for suchuse, makes a payment to the eligible institution;
 
 &emsp;&emsp;(C) instructional equipment, technology, research instrumentation, and any capital equipment or fixture related to facilities described in subparagraph (A);
 
@@ -37,6 +37,8 @@ For the purposes of this part:
 &emsp;(9) The term "Advisory Board" means the Advisory Board established by section 1066f of this title.
 
 (Pub. L. 89–329, title III, §342, formerly title VII, §722, as added Pub. L. 102–325, title VII, §704, July 23, 1992, 106 Stat. 742; renumbered title III, §342, and amended Pub. L. 105–244, title III, §§301(a)(3), (4), (c)(4), 306(a), Oct. 7, 1998, 112 Stat. 1636, 1637, 1646; Pub. L. 110–315, title III, §§314(a), 320(1), Aug. 14, 2008, 122 Stat. 3180, 3187.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -75,6 +77,8 @@ Par. (5)(H). Pub. L. 105–244, §306(a)(1), (5), redesignated subpar. (D) as (H
 Par. (8). Pub. L. 105–244, §301(c)(4)(D), substituted "section 1066d(1)" for "section 1132c–4(1)".
 
 Par. (9). Pub. L. 105–244, §301(c)(4)(E), substituted "section 1066f" for "section 1132c–6".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

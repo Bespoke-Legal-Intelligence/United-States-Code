@@ -12,7 +12,7 @@ Survey and Schedule of Projects.—Each State shall conduct and systematically m
 
 (e)
 
-Funds for Protective Devices.—
+Funds for Railway-Highway Grade Crossings.—
 
 &emsp;(1)
 
@@ -20,21 +20,11 @@ In general.—
 
 &emsp;&emsp;(A)
 
-Set aside.—Before making an apportionment under section 104(b)(3) for a fiscal year, the Secretary shall set aside, from amounts made available to carry out the highway safety improvement program under section 148 for such fiscal year, for the elimination of hazards and the installation of protective devices at railway-highway crossings at least—
-
-&emsp;&emsp;&emsp;(i) $225,000,000 for fiscal year 2016;
-
-&emsp;&emsp;&emsp;(ii) $230,000,000 for fiscal year 2017;
-
-&emsp;&emsp;&emsp;(iii) $235,000,000 for fiscal year 2018;
-
-&emsp;&emsp;&emsp;(iv) $240,000,000 for fiscal year 2019; and
-
-&emsp;&emsp;&emsp;(v) $245,000,000 for fiscal year 2020.
+Set aside.—Before making an apportionment under section 104(b)(3) for a fiscal year, the Secretary shall set aside, from amounts made available to carry out the highway safety improvement program under section 148 for such fiscal year, for the elimination of hazards, the installation of protective devices at railway-highway crossings, the replacement of functionally obsolete warning devices, and as described in subparagraph (B), not less than $245,000,000 for each of fiscal years 2022 through 2026.
 
 &emsp;&emsp;(B)
 
-Installation of protective devices.—At least ½ of the funds set aside each fiscal year under subparagraph (A) shall be available for the installation of protective devices at railway-highway crossings.
+Reducing trespassing fatalities and injuries.—A State may use funds set aside under subparagraph (A) for projects to reduce pedestrian fatalities and injuries from trespassing at grade crossings.
 
 &emsp;&emsp;(C)
 
@@ -58,11 +48,31 @@ Minimum apportionment.—Notwithstanding paragraph (1), each State shall receive
 
 &emsp;(3)
 
-Federal share.—The Federal share payable on account of any project financed with funds set aside to carry out this section shall be 90 percent of the cost thereof.
+Federal share.—The Federal share payable on account of any project financed with funds set aside to carry out this section shall be 100 percent of the cost thereof.
 
 (g)
 
-Annual Report.—Each State shall report to the Secretary not later than December 30 of each year on the progress being made to implement the railway-highway crossings program authorized by this section and the effectiveness of such improvements. Each State report shall contain an assessment of the costs of the various treatments employed and subsequent accident experience at improved locations. The Secretary shall submit a report to the Committee on Environment and Public Works and the Committee on Commerce, Science, and Transportation,<sup>1</sup> of the Senate and the Committee on Transportation and Infrastructure of the Houseof Representatives, not later than April 1, 2006, and every 2 years thereafter,,<sup>1</sup> on the progress being made by the State in implementing projects to improve railway-highway crossings. The report shall include, but not be limited to, the number of projects undertaken, their distribution by cost range, road system, nature of treatment, and subsequent accident experience at improved locations. In addition, the Secretary's report shall analyze and evaluate each State program, identify any State found not to be in compliance with the schedule of improvements required by subsection (d) and include recommendations for future implementation of the railroad highway <sup>2</sup> crossings program.
+Annual Report.—
+
+&emsp;(1)
+
+In general.—Not later than August 31 of each year, each State shall submit a report to the Administrator of the Federal Highway Administration that describes—
+
+&emsp;&emsp;(A) the progress being made to implement the railway-highway crossings program authorized under this section; and
+
+&emsp;&emsp;(B) the effectiveness of the improvements made as a result of such implementation.
+
+&emsp;(2)
+
+Contents.—Each report submitted pursuant to paragraph (1) shall contain an assessment of—
+
+&emsp;&emsp;(A) the costs of the various treatments employed by the State to implement the railway-highway crossings program; and
+
+&emsp;&emsp;(B) the effectiveness of such treatments, as measured by the accident experience at the locations that received such treatments.
+
+&emsp;(3)
+
+Coordination.—Not later than 30 days after the Federal Highway Administration's acceptance of each report submitted pursuant to paragraph (1), the Administrator of the Federal Highway Administration shall make such report available to the Administrator of the Federal Railroad Administration.
 
 (h)
 
@@ -86,7 +96,7 @@ Amount of state payment.—The amount of the incentive payment payable to a loca
 
 &emsp;&emsp;(A) the amount of the incentive payment paid to the government with respect to the crossing by the railroad concerned under paragraph (2); or
 
-&emsp;&emsp;(B) $7,500.
+&emsp;&emsp;(B) $100,000.
 
 &emsp;(4)
 
@@ -98,7 +108,7 @@ Bicycle Safety.—In carrying out projects under this section, a State shall tak
 
 (k)
 
-Expenditure of Funds.—Not more than 2 percent of funds apportioned to a State to carry out this section may be used by the State for compilation and analysis of data in support of activities carried out under subsection (g).
+Expenditure of Funds.—Not more than 8 percent of funds apportioned to a State to carry out this section may be used by the State for compilation and analysis of data in support of activities carried out under subsection (g).
 
 (l)
 
@@ -112,7 +122,7 @@ Initial reporting of crossing information.—Not later than 1 year after the dat
 
 Periodic updating of crossing information.—On a periodic basis beginning not later than 2 years after the date of enactment of the Rail Safety Improvement Act of 2008 and on or before September 30 of every year thereafter, or as otherwise specified by the Secretary, each State shall report to the Secretary current information, including information about warning devices and signage, as specified by the Secretary, concerning each public crossing located within its borders.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 903; Pub. L. 100–17, title I, §121(a), Apr. 2, 1987, 101 Stat. 159; Pub. L. 104–59, title III, §325(a), Nov. 28, 1995, 109 Stat. 591; Pub. L. 104–205, title III, §353(b), Sept. 30, 1996, 110 Stat. 2980; Pub. L. 105–178, title I, §§1111(d), 1202(d), 1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 146, 170, 193; Pub. L. 109–59, title I, §1401(c), formerly §1401(d), Aug. 10, 2005, 119 Stat. 1226, renumbered §1401(c), Pub. L. 110–244, title I, §101(s)(1), June 6, 2008, 122 Stat. 1577; Pub. L. 110–244, title I, §101(l), June 6, 2008, 122 Stat. 1575; Pub. L. 110–432, div. A, title II, §204(c), Oct. 16, 2008, 122 Stat. 4871; Pub. L. 112–141, div. A, title I, §1519(c)(5), formerly §1519(c)(6), July 6, 2012, 126 Stat. 575, renumbered §1519(c)(5), Pub. L. 114–94, div. A, title I, §1446(d)(5)(B), Dec. 4, 2015, 129 Stat. 1438; Pub. L. 114–94, div. A, title I, §§1108, 1412, Dec. 4, 2015, 129 Stat. 1338, 1416.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 903; Pub. L. 100–17, title I, §121(a), Apr. 2, 1987, 101 Stat. 159; Pub. L. 104–59, title III, §325(a), Nov. 28, 1995, 109 Stat. 591; Pub. L. 104–205, title III, §353(b), Sept. 30, 1996, 110 Stat. 2980; Pub. L. 105–178, title I, §§1111(d), 1202(d), 1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 146, 170, 193; Pub. L. 109–59, title I, §1401(c), formerly §1401(d), Aug. 10, 2005, 119 Stat. 1226, renumbered §1401(c), Pub. L. 110–244, title I, §101(s)(1), June 6, 2008, 122 Stat. 1577; Pub. L. 110–244, title I, §101(l), June 6, 2008, 122 Stat. 1575; Pub. L. 110–432, div. A, title II, §204(c), Oct. 16, 2008, 122 Stat. 4871; Pub. L. 112–141, div. A, title I, §1519(c)(5), formerly §1519(c)(6), July 6, 2012, 126 Stat. 575, renumbered §1519(c)(5), Pub. L. 114–94, div. A, title I, §1446(d)(5)(B), Dec. 4, 2015, 129 Stat. 1438; Pub. L. 114–94, div. A, title I, §§1108, 1412, Dec. 4, 2015, 129 Stat. 1338, 1416; Pub. L. 117–58, div. A, title I, §§11108(a)–(d), 11525(f), div. B, title II, §22403(c), Nov. 15, 2021, 135 Stat. 461, 607, 736.)
 
 #### <b>Editorial Notes</b>
 
@@ -123,6 +133,22 @@ Section 104(b)(3)(A) as in effect on the day before the date of enactment of the
 The date of enactment of the Rail Safety Improvement Act of 2008, referred to in subsec. (l), is the date of enactment of div. A of Pub. L. 110–432, which was approved Oct. 16, 2008.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (e). Pub. L. 117–58, §11108(a)(1), substituted "Railway-Highway Grade Crossings" for "Protective Devices" in heading.
+
+Subsec. (e)(1)(A). Pub. L. 117–58, §11108(a)(2)(A), substituted ", the installation of protective devices at railway-highway crossings, the replacement of functionally obsolete warning devices, and as described in subparagraph (B), not less than $245,000,000 for each of fiscal years 2022 through 2026." for "and the installation of protective devices at railway-highway crossings at least—" and cls. (i) to (v) which set out amounts to be set aside for fiscal years 2016 to 2020.
+
+Subsec. (e)(1)(B). Pub. L. 117–58, §11108(a)(2)(B), added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows: "At least ½ of the funds set aside each fiscal year under subparagraph (A) shall be available for the installation of protective devices at railway-highway crossings."
+
+Subsec. (f)(3). Pub. L. 117–58, §11108(b), substituted "100 percent" for "90 percent".
+
+Subsec. (g). Pub. L. 117–58, §22403(c), amended subsec. (g) generally. Prior to amendment, subsec. (g) required annual reports on the progress being made to implement the railway-highway crossings program authorized by this section and the effectiveness of such improvements.
+
+Pub. L. 117–58, §11525(f), substituted "and Transportation of the Senate" for "and Transportation, of the Senate", "thereafter, on" for "thereafter,, on", and "implementation of the railway-highway" for "implementation of the railroad highway".
+
+Subsec. (i)(3)(B). Pub. L. 117–58, §11108(c), substituted "$100,000" for "$7,500".
+
+Subsec. (k). Pub. L. 117–58, §11108(d), substituted "8 percent" for "2 percent".
 
 <b>2015</b>—Pub. L. 114–94, §1446(d)(5)(B), amended Pub. L. 112–141, §1519(c). See 2012 Amendment notes below.
 
@@ -163,6 +189,10 @@ Subsec. (j). Pub. L. 105–178, §1202(d), added subsec. (j).
 <b>1987</b>—Subsecs. (d) to (h). Pub. L. 100–17 added subsecs. (d) to (h).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by sections 11108(a)–(d) and 11525(f) of Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as a note under section 101 of this title.
 
 #### Effective Date of 2015 Amendment
 
@@ -301,8 +331,4 @@ Highway authorizations provisions of section 104(a)(1) and (2) of Pub. L. 93–8
 "(1) For the Federal-aid primary system in rural areas, out of the Highway Trust Fund, $680,000,000 for the fiscal year ending June 30, 1974, $700,000,000 for the fiscal year ending June 30, 1975, and $700,000,000 for the fiscal year ending June 30, 1976. For the Federal-aid secondary system in rural areas, out of Highway Trust Fund, $390,000,000 for the fiscal year ending June 30, 1974, $400,000,000 for the fiscal year ending June 30, 1975, and $400,000,000 for the fiscal year ending June 30, 1976.
 
 "(2) For the Federal-aid urban system, out of the Highway Trust Fund, $780,000,000 for the fiscal year ending June 30, 1974, $800,000,000 for the fiscal year ending June 30, 1975, and $800,000,000 for the fiscal year ending June 30, 1976. For the extensions of the Federal-aid primary and secondary systems in urban areas, out of the Highway Trust Fund $290,000,000 for the fiscal year ending June 30, 1974, $300,000,000 for the fiscal year ending June 30, 1975, and $300,000,000 for the fiscal year ending June 30, 1976."
-
-<i><sup>1</sup></i><i> So in original.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be "railroad-highway".</i>
 

@@ -32,7 +32,7 @@ The Director may not approve an application described in subsection (a)(1) unles
 
 &emsp;Members of any peer review group shall, at a minimum, meet the following requirements:
 
-&emsp;&emsp;(A) Such members shall agree in writing to treat information received, pursuant to their work for the group, as confidential information, except that this subparagraph shall not apply to public records and public information.
+&emsp;&emsp;(A) Such members shall agree in writing to treat information received, pursuant totheir work for the group, as confidential information, except that this subparagraph shall not apply to public records and public information.
 
 &emsp;&emsp;(B) Such members shall agree in writing to recuse themselves from participation in the peer review of specific applications which present a potential personal conflict of interest or appearance of such conflict, including employment in a directly affected organization, stock ownership, or any financial or other arrangement that might introduce bias in the process of peer review.
 
@@ -45,6 +45,8 @@ In the case of applications for financial assistance whose direct costs will not
 The Director shall issue regulations for the conduct of peer review under this section.
 
 (July 1, 1944, ch. 373, title IX, §942, formerly §922, as added Pub. L. 106–129, §2(a), Dec. 6, 1999, 113 Stat. 1665; renumbered §932, Pub. L. 109–41, §2(a)(3), July 29, 2005, 119 Stat. 424; renumbered §942, Pub. L. 111–148, title III, §3013(a)(2), Mar. 23, 2010, 124 Stat. 381.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

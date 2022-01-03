@@ -20,6 +20,8 @@ Aug. 8, 1953, ch. 393, §7, 67 Stat. 504.
 
 The words "In addition to other methods of recovery provided by law, the Secretary concerned may" are substituted for 37:376(a) (1st 15 words of 1st sentence). The words "from later payments to an annuitant" are substituted for 37:376(a) (2d sentence).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–316 struck out "and the Comptroller General" after "judgment of the Secretary concerned".

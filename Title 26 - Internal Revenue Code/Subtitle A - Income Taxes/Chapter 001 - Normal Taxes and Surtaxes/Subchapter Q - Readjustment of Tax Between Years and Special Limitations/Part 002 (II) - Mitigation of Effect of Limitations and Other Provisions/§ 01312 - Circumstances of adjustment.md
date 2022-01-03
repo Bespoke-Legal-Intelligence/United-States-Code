@@ -14,7 +14,7 @@ The circumstances under which the adjustment provided in section 1311 is authori
 
 #### (A) Items included in income
 
-&emsp;&emsp;The determination requires the exclusion from gross income of an item included in a return filed by the taxpayer or with respect to which tax was paid and which was erroneously excluded or omitted from the gross income of the taxpayer for another taxable year, or from the gross income of a related taxpayer; or
+&emsp;&emsp;The determination requires the exclusion from gross income of an item included in a return filed by the taxpayer or with respect to which tax was paid and which was erroneously excluded or omitted from the grossincome of the taxpayer for another taxable year, or from the gross income of a related taxpayer; or
 
 #### (B) Items not included in income
 
@@ -60,9 +60,13 @@ The circumstances under which the adjustment provided in section 1311 is authori
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 338; Pub. L. 85–866, title I, §59(a), Sept. 2, 1958, 72 Stat. 1647.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1958</b>—Pars. (6), (7). Pub. L. 85–866 added par. (6) and redesignated former par. (6) as (7).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1958 Amendment
 

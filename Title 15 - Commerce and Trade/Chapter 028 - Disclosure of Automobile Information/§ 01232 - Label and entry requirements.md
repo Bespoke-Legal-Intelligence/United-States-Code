@@ -40,6 +40,8 @@ Every manufacturer of new automobiles distributed in commerce shall, prior to th
 
 (Pub. L. 85–506, §3, July 7, 1958, 72 Stat. 326; Pub. L. 109–59, title X, §10307(a), Aug. 10, 2005, 119 Stat. 1941; Pub. L. 112–141, div. C, title I, §31314, July 6, 2012, 126 Stat. 772.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Subsec. (g)(2). Pub. L. 112–141 inserted "safety rating categories that may include" after "refers to".
@@ -47,6 +49,8 @@ Every manufacturer of new automobiles distributed in commerce shall, prior to th
 <b>2005</b>—Subsec. (f)(3). Pub. L. 109–59, §10307(a)(2), inserted "and" at end.
 
 Subsecs. (g), (h). Pub. L. 109–59, §10307(a)(1), (3), (4), added subsecs. (g) and (h).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

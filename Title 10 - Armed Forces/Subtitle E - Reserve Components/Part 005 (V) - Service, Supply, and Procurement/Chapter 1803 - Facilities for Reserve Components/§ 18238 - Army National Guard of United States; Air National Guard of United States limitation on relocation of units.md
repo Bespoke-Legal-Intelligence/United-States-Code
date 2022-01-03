@@ -40,6 +40,8 @@ Aug. 9, 1955, ch. 662, §1(c), 69 Stat. 593.
 
 The words "shall have been consulted" and "such withdrawal or change of location" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–337 renumbered section 2238 of this title as this section.
@@ -47,6 +49,8 @@ The words "shall have been consulted" and "such withdrawal or change of location
 <b>1982</b>—Pub. L. 97–214 substituted "or, in the case of the District of Columbia, the commanding general of the National Guard of the District of Columbia" for "or Territory, or Puerto Rico, or the commanding general of the District of Columbia, as the case may be".
 
 <b>1958</b>—Pub. L. 85–861 required the consent of the governor, or the commanding general of the National Guard of the District of Columbia, prior to relocation or withdrawal.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1982 Amendment
 

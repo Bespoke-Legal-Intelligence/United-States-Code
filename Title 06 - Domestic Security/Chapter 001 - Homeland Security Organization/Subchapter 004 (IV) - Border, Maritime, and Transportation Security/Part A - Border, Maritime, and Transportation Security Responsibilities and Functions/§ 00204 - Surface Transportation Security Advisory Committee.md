@@ -186,7 +186,7 @@ The Administrator of the Transportation Security Administration (referred to in 
 
 #### (4) Updates
 
-&emsp;Not later than 90 days after the date the Administrator receives a recommendation from the Advisory Committee under subsection (d)(2) that the Administrator agrees with, and quarterly thereafter until the recommendation is fully implemented, the Administrator shall submit a report to the appropriate congressional committees or post on the public website under paragraph (5) an update on the status of the recommendation.
+&emsp;Not later than 90 days after the date the Administrator receives a recommendation from the Advisory Committee under subsection (d)(2) that the Administrator agrees with, and quarterly thereafter until the recommendation is fully implemented, the Administrator shall submit a report to the appropriate congressional committees or post on the publicwebsite under paragraph (5) an update on the status of the recommendation.
 
 #### (5) Website
 

@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(VI) the entity demonstrates willingness to support or facilitate mentorship, professional development, and training opportunities for Corps members.
 
-> An application for assignment of a Corps member to a health professional shortage area shall include a demonstration by the applicant that the area or population group to be served by the applicant has a shortage of personal health services and that the Corps member will be located so that the member will provide services to the greatest number of persons residing in such area or included in such population group. Such a demonstration shall be made on the basis of the criteria prescribed by the Secretary under section 254e(b) of this title and on additional criteria which the Secretary shall prescribe to determine if the area or population group to be served by the applicant has a shortage of personal health services.
+> An application for assignment of a Corps member to a health professional shortage area shall include a demonstration by the applicant that the area or population group to be served by theapplicant has a shortage of personal health services and that the Corps member will be located so that the member will provide services to the greatest number of persons residing in such area or included in such population group. Such a demonstration shall be made on the basis of the criteria prescribed by the Secretary under section 254e(b) of this title and on additional criteria which the Secretary shall prescribe to determine if the area or population group to be served by the applicant has a shortage of personal health services.
 
 (2) Corps members may be assigned to a Federal health care facility, but only upon the request of the head of the department or agency of which such facility is a part.
 
@@ -46,7 +46,7 @@ The Secretary shall assign Corps members to entities in health professional shor
 
 (1) The Secretary may provide technical assistance to a public or private entity which is located in a health professional shortage area and which desires to make an application under this section for assignment of a Corps member to such area. Assistance provided under this paragraph may include assistance to an entity in (A) analyzing the potential use of health professions personnel in defined health services delivery areas by the residents of such areas, (B) determining the need for such personnel in such areas, (C) determining the extent to which such areas will have a financial base to support the practice of such personnel and the extent to which additional financial resources are needed to adequately support the practice, (D) determining the types of inpatient and other health services that should be provided by such personnel in such areas, and (E) developing long-term plans for addressing health professional shortages and improving access to health care. The Secretary shall encourage entities that receive technical assistance under this paragraph to communicate with other communities, State Offices of Rural Health, State Primary Care Associations and Offices, and other entities concerned with site development and community needs assessment.
 
-(2) The Secretary may provide, to public and private entities which are located in a health professional shortage area to which area a Corps member has been assigned, technical assistanceto assist in the retention of such member in such area after the completion of such member's assignment to the area.
+(2) The Secretary may provide, to public and private entities which are located in a health professional shortage area to which area a Corps member has been assigned, technical assistance to assist in the retention of such member in such area after the completion of such member's assignment to the area.
 
 (3) The Secretary may provide, to health professional shortage areas to which no Corps member has been assigned, (A) technical assistance to assist in the recruitment of health manpower for such areas, and (B) current information on public and private programs which provide assistance in the securing of health manpower.
 
@@ -79,6 +79,8 @@ The Secretary shall assign Corps members to entities in health professional shor
 Notwithstanding any other law, any member of the Corps licensed to practice medicine, osteopathic medicine, dentistry, or any other health profession in any State shall, while serving in the Corps, be allowed to practice such profession in any State.
 
 (July 1, 1944, ch. 373, title III, §333, as added Pub. L. 94–484, title IV, §407(b)(3), Oct. 12, 1976, 90 Stat. 2272; amended Pub. L. 97–35, title XXVII, §2703, Aug. 13, 1981, 95 Stat. 904; Pub. L. 100–177, title III, §§303, 304, Dec. 1, 1987, 101 Stat. 1004; Pub. L. 100–607, title VI, §629(a)(2), Nov. 4, 1988, 102 Stat. 3146; Pub. L. 101–597, title I, §103, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3015, 3035; Pub. L. 107–251, title III, §303, Oct. 26, 2002, 116 Stat. 1645; Pub. L. 108–163, §2(g), Dec. 6, 2003, 117 Stat. 2022; Pub. L. 110–355, §3(c), Oct. 8, 2008, 122 Stat. 3993.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -143,6 +145,8 @@ Subsec. (g). Pub. L. 97–35, §2703(d), (e), redesignated former subsec. (f) as
 Subsec. (h). Pub. L. 97–35, §2703(d), (f), redesignated former subsec. (g) as (h) and directed that "may" be substituted for "shall" which was executed by substituting "may" for "shall" in two places preceding par. (1). Former subsec. (h) redesignated (i).
 
 Subsec. (i). Pub. L. 97–35, §2703(d), (g), redesignated former subsec. (h) as (i) and inserted reference to other health profession.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

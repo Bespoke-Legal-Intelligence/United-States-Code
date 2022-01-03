@@ -22,11 +22,15 @@ The Executive Director is authorized to—
 
 (Pub. L. 94–136, title IV, §401, Nov. 28, 1975, 89 Stat. 741.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 In par. (9), "section 3324(a) and (b) of title 31" substituted for "section 3648 of the Revised Statutes, as amended (21 \[31\] U.S.C. 529)" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 

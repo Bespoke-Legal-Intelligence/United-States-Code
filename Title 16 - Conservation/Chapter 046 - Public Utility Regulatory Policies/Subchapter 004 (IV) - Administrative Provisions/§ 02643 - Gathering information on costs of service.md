@@ -30,13 +30,15 @@ Not later than two years after November 9, 1978, and periodically, but not less 
 
 &emsp;(2) any State regulatory authority which has ratemaking authority for such utility,
 
-> the information gathered pursuant to this section and make such information available to the public in such form and manner as the Commission shall prescribe. In addition, at the time of application for, or proposal of, any rate increase, each electric utility shall make such information available to the public in such form and manner as the Commission shall prescribe. The two-year period after November 9, 1978, specified in this subsection may be extended bythe Commission for a reasonable additional period in the case of any electric utility for good cause shown.
+> the information gathered pursuant to this section and make such information available to the public in such form and manner as the Commission shall prescribe. In addition, at the time of application for, or proposal of, any rate increase, each electric utility shall make such information available to the public in such form and manner as the Commission shall prescribe. The two-year period after November 9, 1978, specified in this subsection may be extended by the Commission for a reasonable additional period in the case of any electric utility for good cause shown.
 
 #### (d) Enforcement
 
 For purposes of enforcement, any violation of a requirement of this section shall be treated as a violation of a provision of the Energy Supply and Environmental Coordination Act of 1974 \[15 U.S.C. 791 et seq.\] enforceable under section 12 of such Act \[15 U.S.C. 797\] (notwithstanding any expiration date in such Act) except that in applying the provisions of such section 12 any reference to the Federal Energy Administrator shall be treated as a reference to the Commission.
 
 (Pub. L. 95–617, title I, §133, Nov. 9, 1978, 92 Stat. 3132.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

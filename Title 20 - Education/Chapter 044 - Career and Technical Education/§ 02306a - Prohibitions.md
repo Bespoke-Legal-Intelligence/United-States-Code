@@ -68,21 +68,25 @@ For the purposes of this chapter, coherent and rigorous content shall be determi
 
 (Pub. L. 88–210, §8, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 690; amended Pub. L. 114–95, title IX, §9215(n)(2), Dec. 10, 2015, 129 Stat. 2169; Pub. L. 115–224, §9, title II, §201(b), July 31, 2018, 132 Stat. 1574, 1622.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 8 of Pub. L. 88–210 was classified to section 2307 of this title prior to the general amendment of this chapter by Pub. L. 109–270.
 
 #### Amendments
 
-<b>2018</b>—Subsec. (a). Pub. L. 115–224, §201(b), which made technical amendment to references in original Act which appeared in text as references to sections 2391(b)and 2413 of this title, could not be executed because of the intervening amendment by Pub. L. 115–224, §9(1), which had already amended those references. See below.
+<b>2018</b>—Subsec. (a). Pub. L. 115–224, §201(b), which made technical amendment to references in original Act which appeared in text as references to sections 2391(b) and 2413 of this title, could not be executed because of the intervening amendment by Pub. L. 115–224, §9(1), which had already amended those references. See below.
 
-Pub. L. 115–224, §9(1), substituted "Federal Government—" for "Federal Government to mandate, direct, or control a State, local educational agency, or school's curriculum, program of instruction, or allocation of State or local resources, or mandate a State or any subdivision thereof to spend any funds or incur any costs not paid for under this chapter, except as required under sections 2322(b), 2391(b), and 2413 of this title." and added pars. (1) to (3).
+Pub. L. 115–224, §9(1), substituted "Federal Government—" for "Federal Government to mandate, direct, or control a State, local educational agency, or school's curriculum, program of instruction, or allocation ofState or local resources, or mandate a State or any subdivision thereof to spend any funds or incur any costs not paid for under this chapter, except as required under sections 2322(b), 2391(b), and 2413 of this title." and added pars. (1) to (3).
 
 Subsec. (d). Pub. L. 115–224, §9(2), amended subsec. (d) generally. Prior to amendment, text read as follows: "Nothing in this section shall be construed to affect the requirements under section 2323 of this title."
 
 Subsec. (f). Pub. L. 115–224, §9(3), added subsec. (f).
 
 <b>2015</b>—Subsec. (e). Pub. L. 114–95 substituted "section 6311(b)(1) of this title" for "section 6311(b)(1)(D) of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

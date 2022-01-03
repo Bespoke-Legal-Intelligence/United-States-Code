@@ -158,7 +158,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;In order to provide experience in intergovernmental collaboration, the head of an agency with rural responsibilities that elects to participate in the Partnership may, and is encouraged to, detail to the Secretary for the support of the Partnership 1 or more employees of the agency with rural responsibilities without reimbursement for a period of up to 1 year.
+&emsp;&emsp;In order to provide experience in intergovernmental collaboration, the head of an agency with rural responsibilities that elects to participate in the Partnership may,and is encouraged to, detail to the Secretary for the support of the Partnership 1 or more employees of the agency with rural responsibilities without reimbursement for a period of up to 1 year.
 
 #### (B) Civil service status
 
@@ -214,7 +214,9 @@ In this section:
 
 The authority provided under this section shall terminate on September 30, 2023.
 
-(Pub. L. 87–128, title III, §378, as added Pub. L. 107–171, title VI, §6021, May 13, 2002, 116 Stat. 363; amended Pub. L. 110–234, title VI, §6019, May 22, 2008, 122 Stat. 1172; Pub. L. 110–246, §4(a), title VI, §6019, June 18, 2008, 122 Stat. 1664, 1933; Pub.L. 113–79, title VI, §6021, Feb. 7, 2014, 128 Stat. 847; Pub. L. 115–334, title VI, §6420, Dec. 20, 2018, 132 Stat. 4765.)
+(Pub. L. 87–128, title III, §378, as added Pub. L. 107–171, title VI, §6021, May 13, 2002, 116 Stat. 363; amended Pub. L. 110–234, title VI, §6019, May 22, 2008, 122 Stat. 1172; Pub. L. 110–246, §4(a), title VI, §6019, June 18, 2008, 122 Stat. 1664, 1933; Pub. L. 113–79, title VI, §6021, Feb. 7, 2014, 128 Stat. 847; Pub. L. 115–334, title VI, §6420, Dec. 20, 2018, 132 Stat. 4765.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -233,6 +235,8 @@ Subsec. (h). Pub. L. 113–79, §6021(2), substituted "2018" for "2012".
 <b>2008</b>—Subsec. (g)(1). Pub. L. 110–246, §6019(1), substituted "2008 through 2012" for "2003 through 2007".
 
 Subsec. (h). Pub. L. 110–246, §6019(2), substituted "September 30, 2012" for "the date that is 5 years after May 13, 2002".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

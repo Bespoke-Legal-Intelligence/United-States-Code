@@ -4,9 +4,11 @@ Connecting or side trails within park, forest, and other recreation areas admini
 
 (Pub. L. 90–543, §6, Oct. 2, 1968, 82 Stat. 922; Pub. L. 95–625, title V, §551(16), Nov. 10, 1978, 92 Stat. 3515; Pub. L. 98–11, title II, §206, Mar. 28, 1983, 97 Stat. 45.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1983</b>—Pub. L. 98–11 substituted "marked by the appropriate Secretary as components" for "marked as components" and ", or, where the appropriate Secretary deems necessary or desirable, on privately owned lands with the consent of the landowner. Applications for approval and designation of connecting and side trails on non-Federal lands shall be submitted to the appropriate Secretary" for ": <i>Provided</i>, That such trails provide additional points of public access to national recreation, national scenic or national historic trails".
 
-<b>1978</b>—Pub. L. 95–625 substituted ", national scenic or national historic" for "or national scenic," and ", national scenic, or national historic" for "or scenic".
+<b>1978</b>—Pub. L. 95–625 substituted ", national scenic or national historic" for "or national scenic," and ", national scenic, or national historic" for "or scenic".
 

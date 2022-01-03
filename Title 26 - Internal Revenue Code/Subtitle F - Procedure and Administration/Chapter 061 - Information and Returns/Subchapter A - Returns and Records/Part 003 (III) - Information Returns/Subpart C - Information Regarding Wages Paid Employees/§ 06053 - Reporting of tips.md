@@ -30,7 +30,7 @@ If the tax imposed by section 3101 or section 3201 (as the case may be) with res
 
 #### (2) Furnishing of statement to employees
 
-&emsp;Each employer described in paragraph (1) shall furnish, in such manner as the Secretarymay prescribe by regulations, to each employee of the large food or beverage establishment a written statement for each calendar year showing the following information:
+&emsp;Each employer described in paragraph (1) shall furnish, in such manner as the Secretary may prescribe by regulations, to each employee of the large food or beverage establishment a written statement for each calendar year showing the following information:
 
 &emsp;&emsp;(A) The name and address of such employer.
 
@@ -96,6 +96,8 @@ If the tax imposed by section 3101 or section 3201 (as the case may be) with res
 
 (Added Pub. L. 89–97, title III, §313(e)(2)(A), July 30, 1965, 79 Stat. 384; amended Pub. L. 89–212, §2(d), Sept. 29, 1965, 79 Stat. 859; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title III, §314(a), Sept. 3, 1982, 96 Stat. 603; Pub. L. 98–369, div. A, title X, §1072(a), (c)(1), July 18, 1984, 98 Stat. 1052; Pub. L. 113–295, div. B, title II, §206(c)(3), Dec. 19, 2014, 128 Stat. 4071.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Subsec. (c)(8). Pub. L. 113–295 added par. (8).
@@ -112,13 +114,15 @@ Subsec. (c)(4). Pub. L. 98–369, §1072(c)(1), inserted provision that an indiv
 
 Subsec. (b). Pub. L. 89–212, §2(d)(2), inserted "or section 3201 (as the case may be)" and "or section 3202 (as the case may be)".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–295 applicable with respect to wages for services performed on or after Jan. 1 of the first calendar year beginning more than 12 months after Dec. 19, 2014, see section 206(g)(1) of Pub. L. 113–295, set out as a note under section 3302 of this title.
+Amendment by Pub. L. 113–295 applicable with respect to wages for services performed on or after Jan.1 of the first calendar year beginning more than 12 months after Dec. 19, 2014, see section 206(g)(1) of Pub. L. 113–295, set out as a note under section 3302 of this title.
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–369, div. A, title X, §1072(c)(2), July 18, 1984, 98 Stat. 1052, provided that: "The amendment made byparagraph (1) \[amending this section\] shall apply to calendar years beginning after December 31, 1982."
+Pub. L. 98–369, div. A, title X, §1072(c)(2), July 18, 1984, 98 Stat. 1052, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to calendar years beginning after December 31, 1982."
 
 #### Effective Date of 1982 Amendment
 

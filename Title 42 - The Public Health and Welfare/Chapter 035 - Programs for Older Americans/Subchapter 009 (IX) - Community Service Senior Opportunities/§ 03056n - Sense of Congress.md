@@ -4,9 +4,11 @@ It is the sense of Congress that—
 
 &emsp;(1) the older American community service employment program described in this subchapter was established with the intent of placing older individuals in community service positions and providing job training; and
 
-&emsp;(2) placing older individuals in community service positions strengthens the ability of the individuals to become self-sufficient, provides much-needed support to organizations that benefit from increased civic engagement, and strengthens the communities that are served by such organizations.
+&emsp;(2) placing older individuals in community service positions strengthens the ability of theindividuals to become self-sufficient, provides much-needed support to organizations that benefit from increased civic engagement, and strengthens the communities that are served by such organizations.
 
 (Pub. L. 89–73, title V, §516, as added Pub. L. 109–365, title V, §501, Oct. 17, 2006, 120 Stat. 2587.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

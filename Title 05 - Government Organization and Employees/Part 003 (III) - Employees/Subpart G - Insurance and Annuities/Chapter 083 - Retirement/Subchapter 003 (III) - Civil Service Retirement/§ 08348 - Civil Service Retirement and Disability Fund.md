@@ -282,7 +282,7 @@ In general.—
 
 &emsp;"(A)
 
-Request for review.—Notwithstanding any other provision of this section \[amending this sectionand section 8334 of this title\] (including any amendment made by this section), any determination or redetermination made by the Office of Personnel Management under this section (including any amendment made by this section) shall, upon request of the United States Postal Service, be subject to a review by the Postal Regulatory Commission under this subsection.
+Request for review.—Notwithstanding any other provision of this section \[amending this section and section 8334 of this title\] (including any amendment made by this section), any determination or redetermination made by the Office of Personnel Management under this section (including any amendment made by this section) shall, upon request of the United States Postal Service, be subject to a review by the Postal Regulatory Commission under this subsection.
 
 &emsp;"(B)
 
@@ -340,5 +340,5 @@ Section 3 of Pub. L. 89–737, Nov. 2, 1966, 80 Stat. 1164, which provided that 
 
 #### Redemption of Obligations Held Prior to Oct. 4, 1961; Reinvestment of Proceeds
 
-Pub. L. 87–350, §1(b) Oct. 4, 1961, 75 Stat. 770, provided that all special issues in which the civil service retirement and disability fund was invested in accordance with subsecs. (d) and (e) of this section before Oct. 4, 1961, were to be redeemed and the moneys reinvested bythe Secretary of the Treasury in equal annual amounts over the period of ten calendar years beginning with the calendar year 1962.
+Pub. L. 87–350, §1(b) Oct. 4, 1961, 75 Stat. 770, provided that all special issues in which the civil service retirement and disability fund was invested in accordance with subsecs. (d) and (e) of this section before Oct. 4, 1961, were to be redeemed and the moneys reinvested by the Secretary of the Treasury in equal annual amounts over the period of ten calendar years beginning with the calendar year 1962.
 

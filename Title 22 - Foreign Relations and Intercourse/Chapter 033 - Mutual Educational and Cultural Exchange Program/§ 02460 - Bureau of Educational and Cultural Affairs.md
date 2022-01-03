@@ -92,7 +92,7 @@ There is established in the Bureau of Educational and Cultural Affairs an Office
 
 &emsp;(G) Not later than 6 months after October 21, 1998, to report on the feasibility and advisability of transferring funds and program management for the ATLAS or the Mandela Fellows programs, or both, in South Africa from the Agency for International Development to the Department of State. The report shall include an assessment of the capabilities of the South African Fulbright Commission to manage such programs and the cost effects of consolidating such programs under one entity.
 
-(7) All reports prepared by the Working Group shall be submitted to the President, through theSecretary of State, acting through the Under Secretary of State for Public Diplomacy.
+(7) All reports prepared by the Working Group shall be submitted to the President, through the Secretary of State, acting through the Under Secretary of State for Public Diplomacy.
 
 (8) The Working Group shall meet at least on a quarterly basis.
 
@@ -159,6 +159,10 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
 Pub. L. 101–246, title II, §222(b), Feb. 16, 1990, 104 Stat. 56, provided that: "There are hereby transferred to the Office of Citizen Exchanges on the date of enactment of this Act \[Feb. 16, 1990\] all functions carried out by the Office of Private Sector Programs on the day before such date."
+
+#### Information on Educational Opportunities for Children With Special Education Needs Consistent With the Individuals With Disabilities Education Act
+
+Pub. L. 117–81, div. E, title LIII, §5324, Dec. 27, 2021, 135 Stat. 2370, provided that: "Not later than March 31, 2022, and annually thereafter, the Director of the Office of Overseas Schools of the Department of State shall maintain and update a list of overseas schools receiving assistance from the Office and detailing the extent to which each such school provides special education and related services to children with disabilities in accordance with part B of the Individuals with Disabilities Education Act (20 U.S.C. 1411 et seq.). Each list required under this section shall be posted on the public website of the Office for access by members of the Foreign Service, the Senior Foreign Service, and their eligible family members."
 
 #### Private Sector Program; Restrictions on Funds for Foreign Travel; Waiver; Reports
 

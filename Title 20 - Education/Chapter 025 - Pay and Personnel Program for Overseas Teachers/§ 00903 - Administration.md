@@ -22,6 +22,8 @@ The Secretary of Defense may prescribe and issue such regulations as he deems ap
 
 (Pub. L. 86–91, §5, July 17, 1959, 73 Stat. 214; Pub. L. 86–370, §6(b), Sept. 23, 1959, 73 Stat. 652; Pub. L. 89–391, §1(b), (c), Apr. 14, 1966, 80 Stat. 117; Pub. L. 96–470, title I, §104(b), Oct. 19, 1980, 94 Stat. 2238; Pub. L. 104–201, div. A, title XVI, §1606(b), Sept. 23, 1996, 110 Stat. 2737; Pub. L. 105–85, div. A, title X, §1073(c)(9)(B), (C), Nov. 18, 1997, 111 Stat. 1904.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 In subsec. (b), "section 5103 of title 5" and "paragraph (22) of section 5102(c) of title 5" substituted for "section 202 of the Classification Act of 1949" and "paragraph (33) of section 202 of such Act, added by section 3 of this Act" respectively, on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
@@ -56,6 +58,8 @@ Subsec. (e). Pub. L. 89–391, §1(c), inserted provisions designated as subsec.
 
 <b>1959</b>—Subsec. (b). Pub. L. 86–370 substituted "(33)" for "(32)" in two places.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1997 Amendment
 
 Pub. L. 105–85, div. A, title X, §1073(c), Nov. 18, 1997, 111 Stat. 1904, provided that the amendment made by that section is effective as of Sept. 23, 1996, and as if included in the National Defense Authorization Act for Fiscal Year 1997, Pub. L. 104–201, as enacted.
@@ -70,5 +74,5 @@ Amendment by Pub. L. 86–370 effective on first day of first pay period which b
 
 #### Teachers Employed by Canal Zone Government School System on September 30, 1979
 
-Subsec. (c) of this section not to apply with respect to any teacher who was employed by the Canal Zone Government school system on September 30, 1979, and who was transferred from such position to a teaching position which is under the Department of Defense Overseas Dependent School System and the permanent duty station of which is in the Republic of Panama, until the rates of basic compensation established under subsec. (c) of this section equal or exceed the rates ofbasic compensation then in effect for teachers who were so transferred, see section 3671(c)(1) of Title 22, Foreign Relations and Intercourse.
+Subsec. (c) of this section not to apply with respect to any teacher who was employed by the Canal Zone Government school system on September 30, 1979, and who was transferred from such position to a teaching position which is under the Department of Defense Overseas Dependent School System and the permanent duty station of which is in the Republic of Panama, until the rates of basic compensation established under subsec. (c) of this section equal or exceed the rates of basic compensation then in effect for teachers who were so transferred, see section 3671(c)(1) of Title 22, Foreign Relations and Intercourse.
 

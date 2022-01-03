@@ -30,6 +30,8 @@ Premium.—(1) The Secretary shall prescribe by regulation a premium (or premium
 
 (Added Pub. L. 111–383, div. A, title VII, §702(a)(1), Jan. 7, 2011, 124 Stat. 4244; Pub. L. 114–328, div. A, title VII, §701(j)(1)(F), Dec. 23, 2016, 130 Stat. 2192; Pub. L. 115–91, div. A, title VII, §739(f), Dec. 12, 2017, 131 Stat. 1447.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 5000A of the Internal Revenue Code of 1986, referred to in subsec. (b)(3), is classified to section 5000A of Title 26, Internal Revenue Code.
@@ -41,6 +43,8 @@ Section 2714 of the Public Health Service Act, referred to in subsec. (b)(5), is
 <b>2017</b>—Subsec. (c)(1). Pub. L. 115–91 substituted "section 1075 or 1075a of this title, as appropriate" for "section 1075 of this section".
 
 <b>2016</b>—Subsec. (c)(1). Pub. L. 114–328 inserted at end "Such premium shall apply instead of any enrollment fees required under section 1075 of this section."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2016 Amendment
 

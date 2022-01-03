@@ -40,7 +40,7 @@ Every individual who—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary, in coordination with the Commissioner of Social Security, shall establish a process for determining whether an individual described in paragraph (1) who is to be enrolled or deemed to be enrolled in the medical insurance program described in such paragraph meets the requirements for such enrollment under this subsection, including the requirement that the individual not be enrolled in other coverage as described in subparagraph (A).
+&emsp;&emsp;&emsp;The Secretary, in coordination with the Commissioner of Social Security, shall establish a process for determining whether an individual described in paragraph (1)who is to be enrolled or deemed to be enrolled in the medical insurance program described in such paragraph meets the requirements for such enrollment under this subsection, including the requirement that the individual not be enrolled in other coverage as described in subparagraph (A).
 
 #### (ii) Attestation regarding other coverage
 
@@ -52,11 +52,15 @@ Every individual who—
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1836, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 304; amended Pub. L. 92–603, title II, §201(c)(1), Oct. 30, 1972, 86 Stat. 1372; Pub. L. 116–260, div. CC, title IV, §402(a)(2)(A), Dec. 27, 2020, 134 Stat. 2998.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2020</b>—Pub. L. 116–260 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 <b>1972</b>—Pub. L. 92–603 designed former par. (2)(B) as par. (1), former par. (1) as introductory clause in par. (2), and former pars. (2)(A)(i) and (ii) as pars. (2)(A) and (B), and struck out "(A)" after "(2)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Persons Convicted of Subversive Activities
 

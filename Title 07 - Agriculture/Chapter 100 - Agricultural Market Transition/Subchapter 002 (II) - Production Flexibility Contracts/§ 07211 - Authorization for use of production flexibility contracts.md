@@ -34,7 +34,7 @@ In carrying out this subchapter, the Secretary shall provide adequate safeguards
 
 #### (d) Eligible cropland described
 
-Land shall be considered to be cropland eligible for coverage under a contract only if theland has contract acreage attributable to the land and—
+Land shall be considered to be cropland eligible for coverage under a contract only if the land has contract acreage attributable to the land and—
 
 &emsp;(1) for at least 1 of the 1991 through 1995 crops, at least a portion of the land was enrolled in the acreage reduction program authorized for a crop of a contract commodity under section 101B, 103B, 105B, or 107B of the Agricultural Act of 1949 or was considered planted;
 
@@ -52,6 +52,8 @@ Subject to subsection (b)(4), an owner or producer who enters into a contract ma
 
 (Pub. L. 104–127, title I, §111, Apr. 4, 1996, 110 Stat. 898.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Food Security Act of 1985, referred to in subsec. (a)(1), (2), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Subtitles B and C of title XII of the Act are classified generally to subchapters II (§3811 et seq.) and III (§3821 et seq.), respectively, of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
@@ -59,6 +61,8 @@ The Food Security Act of 1985, referred to in subsec. (a)(1), (2), is Pub. L. 99
 This subchapter, referred to in subsec. (c), was in the original "this subtitle", meaning subtitle B (§§111–118) of title I of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 898, which enacted this subchapter and amended sections 1308, 1308–1, and 1308–3 of this title. For complete classification of subtitle B to the Code, see Tables.
 
 Sections 101B, 103B, 105B, and 107B of the Agricultural Act of 1949, referred to in subsec. (d)(1), were classified to sections 1441–2, 1444–2, 1444f, and 1445b–3a, respectively, of this title prior to repeal by section 7301(b)(2)(A)–(D) of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Violation of Contract; Denial of Funds for Salaries
 

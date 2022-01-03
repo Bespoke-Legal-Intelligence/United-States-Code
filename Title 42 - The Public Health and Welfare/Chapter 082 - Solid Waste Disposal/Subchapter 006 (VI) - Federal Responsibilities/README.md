@@ -13,3 +13,5 @@
 - [&sect; 06966 - Increased use of recovered mineral component in federally funded projects involving procurement of cement or concrete](%C2%A7%2006966%20-%20Increased%20use%20of%20recovered%20mineral%20component%20in%20federally%20funded%20projects%20involving%20procurement%20of%20cement%20or%20concrete.md)
 - [&sect; 06966a - Increased use of recovered mineral component in federally funded projects involving procurement of cement or concrete](%C2%A7%2006966a%20-%20Increased%20use%20of%20recovered%20mineral%20component%20in%20federally%20funded%20projects%20involving%20procurement%20of%20cement%20or%20concrete.md)
 - [&sect; 06966b - Use of granular mine tailings](%C2%A7%2006966b%20-%20Use%20of%20granular%20mine%20tailings.md)
+- [&sect; 06966c - Best practices for battery recycling and labeling guidelines](%C2%A7%2006966c%20-%20Best%20practices%20for%20battery%20recycling%20and%20labeling%20guidelines.md)
+- [&sect; 06966d - Consumer recycling education and outreach grant program; Federal procurement](%C2%A7%2006966d%20-%20Consumer%20recycling%20education%20and%20outreach%20grant%20program%3B%20Federal%20procurement.md)

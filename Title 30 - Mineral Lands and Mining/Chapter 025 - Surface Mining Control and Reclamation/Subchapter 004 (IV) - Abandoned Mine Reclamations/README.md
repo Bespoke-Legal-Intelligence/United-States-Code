@@ -6,6 +6,7 @@
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 01231 - Abandoned Mine Reclamation Fund](%C2%A7%2001231%20-%20Abandoned%20Mine%20Reclamation%20Fund.md)
+- [&sect; 01231a - Abandoned mine reclamation fund authorization of appropriations](%C2%A7%2001231a%20-%20Abandoned%20mine%20reclamation%20fund%20authorization%20of%20appropriations.md)
 - [&sect; 01232 - Reclamation fee](%C2%A7%2001232%20-%20Reclamation%20fee.md)
 - [&sect; 01233 - Objectives of fund](%C2%A7%2001233%20-%20Objectives%20of%20fund.md)
 - [&sect; 01234 - Eligible lands and water](%C2%A7%2001234%20-%20Eligible%20lands%20and%20water.md)
@@ -20,3 +21,4 @@
 - [&sect; 01242 - Powers of Secretary or State](%C2%A7%2001242%20-%20Powers%20of%20Secretary%20or%20State.md)
 - [&sect; 01243 - Interagency cooperation](%C2%A7%2001243%20-%20Interagency%20cooperation.md)
 - [&sect; 01244 - Remining incentives](%C2%A7%2001244%20-%20Remining%20incentives.md)
+- [&sect; 01245 - Abandoned hardrock mine reclamation](%C2%A7%2001245%20-%20Abandoned%20hardrock%20mine%20reclamation.md)

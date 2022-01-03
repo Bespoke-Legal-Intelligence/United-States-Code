@@ -18,6 +18,8 @@ Assignment of Forces.—The Secretary of the Navy—
 
 (Added Pub. L. 104–201, div. A, title XII, §1211(a)(1), Sept. 23, 1996, 110 Stat. 2689; amended Pub. L. 109–163, div. A, title V, §515(b)(1)(BB), (3)(G), Jan. 6, 2006, 119 Stat. 3233, 3234; Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (c)(2). Pub. L. 115–232 substituted "section 8013" for "section 5013".
@@ -25,6 +27,8 @@ Assignment of Forces.—The Secretary of the Navy—
 <b>2006</b>—Pub. L. 109–163, §515(b)(3)(G), substituted "Navy Reserve" for "Naval Reserve" in section catchline.
 
 Pub. L. 109–163, §515(b)(1)(BB), substituted "Navy Reserve" for "Naval Reserve" wherever appearing in text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

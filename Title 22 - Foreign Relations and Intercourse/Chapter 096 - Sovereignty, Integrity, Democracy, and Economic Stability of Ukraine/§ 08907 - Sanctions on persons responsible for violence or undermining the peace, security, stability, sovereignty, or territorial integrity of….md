@@ -24,7 +24,7 @@ The President shall impose the sanctions described in subsection (b) with respec
 
 #### (B) Exclusion from the United States and revocation of visa or other documentation
 
-&emsp;&emsp;In the case of an alien determined by the President to be subject to subsection (a), denial of a visa to, and exclusion from theUnited States of, the alien, and revocation in accordance with section 1201(i) of title 8, of any visa or other documentation of the alien.
+&emsp;&emsp;In the case of an alien determined by the President to be subject to subsection (a), denial of a visa to, and exclusion from the United States of, the alien, and revocation in accordance with section 1201(i) of title 8, of any visa or other documentation of the alien.
 
 #### (2) Penalties
 

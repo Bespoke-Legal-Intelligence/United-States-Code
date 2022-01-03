@@ -14,9 +14,13 @@ The running of any statute of limitations shall be suspended with reference to t
 
 (Oct. 6, 1917, ch. 106, §8, 40 Stat. 418.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 8 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

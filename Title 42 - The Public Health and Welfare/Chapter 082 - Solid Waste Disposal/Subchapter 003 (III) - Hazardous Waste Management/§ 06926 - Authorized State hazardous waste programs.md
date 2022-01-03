@@ -6,7 +6,7 @@ Not later than eighteen months after October 21, 1976, the Administrator, after 
 
 #### (b) Authorization of State program
 
-Any State which seeks to administer and enforce a hazardous waste program pursuant to this subchapter may develop and, after notice and opportunity for public hearing, submit to the Administrator an application, in such form as he shall require, for authorization of such program. Within ninety days following submission of an application under this subsection, the Administrator shall issue a notice as to whether or not he expects such program to be authorized, and within ninety days following such notice (and after opportunity for public hearing) he shall publish his findings as to whether or not the conditions listed in items (1), (2), and (3) below have been met. Such State is authorized to carry out such program in lieu of the Federal program under this subchapter in such State and to issue and enforce permits for the storage, treatment, or disposal of hazardous waste (and to enforce permits deemed to have been issued under section 6935(d)(1) <sup>1</sup> of this title) unless, within ninety days following submission of the application the Administrator notifies such State that such program may not be authorized and, within ninety days following such notice and after opportunity for public hearing, he finds that (1) such State program is not equivalent to the Federal program under this subchapter, (2) such program is not consistent with the Federal or State programs applicable in other States, or (3) such program does not provide adequate enforcement of compliance with the requirements of this subchapter. In authorizing a State program, the Administrator may base his findings on the Federal program in effect one year prior to submission of a State's application or in effect on January 26, 1983, whichever is later.
+Any State which seeks to administer and enforce a hazardous waste program pursuant to this subchapter may develop and, after notice and opportunity for public hearing, submit to the Administrator an application, in such form as he shall require, for authorization of such program. Within ninety days following submission of an application under this subsection, the Administrator shall issue a notice as to whether or not he expects such program to be authorized, and within ninety days following such notice (and after opportunity for public hearing) he shall publish his findings as to whether or not the conditions listed in items (1), (2), and (3) below have been met. Such State is authorized to carry out such program in lieu of the Federal program under this subchapter in such State and to issue and enforce permits for the storage, treatment, or disposal of hazardous waste (and to enforce permits deemed to have been issued under section 6935(d)(1) <sup>1</sup> of this title) unless,within ninety days following submission of the application the Administrator notifies such State that such program may not be authorized and, within ninety days following such notice and after opportunity for public hearing, he finds that (1) such State program is not equivalent to the Federal program under this subchapter, (2) such program is not consistent with the Federal or State programs applicable in other States, or (3) such program does not provide adequate enforcement of compliance with the requirements of this subchapter. In authorizing a State program, the Administrator may base his findings on the Federal program in effect one year prior to submission of a State's application or in effect on January 26, 1983, whichever is later.
 
 #### (c) Interim authorization
 
@@ -32,7 +32,7 @@ No State program may be authorized by the Administrator under this section unles
 
 &emsp;(1) such program provides for the public availability of information obtained by the State regarding facilities and sites for the treatment, storage, and disposal of hazardous waste; and
 
-&emsp;(2) such information is available to the public in substantially the same manner, and tothe same degree, as would be the case if the Administrator was carrying out the provisions of this subchapter in such State.
+&emsp;(2) such information is available to the public in substantially the same manner, and to the same degree, as would be the case if the Administrator was carrying out the provisions of this subchapter in such State.
 
 #### (g) Amendments made by 1984 act
 
@@ -44,7 +44,9 @@ No State program may be authorized by the Administrator under this section unles
 
 In the case of used oil which is not listed or identified under this subchapter as a hazardous waste but which is regulated under section 6935 of this title, the provisions of this section regarding State programs shall apply in the same manner and to the same extent as such provisions apply to hazardous waste identified or listed under this subchapter.
 
-(Pub. L. 89–272, title II, §3006, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2809; amended Pub. L. 95–609, §7(i), Nov. 8, 1978, 92 Stat. 3082; Pub. L. 98–616, title II, §§225, 226(a), 227, 228, 241(b)(2), Nov. 8, 1984, 98 Stat. 3254, 3255, 3260; Pub. L. 99–499, title II, §205(j), Oct. 17, 1986, 100 Stat. 1703.)
+(Pub. L. 89–272, title II, §3006, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2809; amended Pub. L. 95–609, §7(i), Nov. 8, 1978, 92 Stat. 3082;Pub. L. 98–616, title II, §§225, 226(a), 227, 228, 241(b)(2), Nov. 8, 1984, 98 Stat. 3254, 3255, 3260; Pub. L. 99–499, title II, §205(j), Oct. 17, 1986, 100 Stat. 1703.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -68,9 +70,13 @@ Subsec. (g). Pub. L. 98–616, §228, added subsec. (g).
 
 <b>1978</b>—Subsec. (c). Pub. L. 95–609 substituted "of" for "required for" wherever appearing and "may submit" for "submit".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1984 Amendment
 
 Pub. L. 98–616, title II, §226(b), Nov. 8, 1984, 98 Stat. 3254, provided that: "The amendment made by subsection (a) \[enacting subsec. (f) of this section\] shall apply with respect to State programs authorized under section 3006 \[this section\] before, on, or after the date of enactment of the Hazardous and Solid Waste Amendments of 1984 \[Nov. 8, 1984\]."
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

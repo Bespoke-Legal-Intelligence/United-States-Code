@@ -28,7 +28,7 @@ A qualified individual enrolled in any qualified health plan may pay any applica
 
 #### (2) Small group market
 
-&emsp;A health insurance issuer shall consider all enrollees in all health plans (other than grandfathered health plans) offered by such issuer in the small group market, including those enrollees who do not enroll in such plans through the Exchange, to be members of a single risk pool.
+&emsp;A health insurance issuer shall consider all enrollees in all health plans (other than grandfathered health plans) offered by such issuer inthe small group market, including those enrollees who do not enroll in such plans through the Exchange, to be members of a single risk pool.
 
 #### (3) Merger of markets
 
@@ -141,6 +141,8 @@ The Secretary shall establish procedures under which a State may allow agents or
 &emsp;If an individual is not, or is not reasonably expected to be for the entire period for which enrollment is sought, a citizen or national of the United States or an alien lawfully present in the United States, the individual shall not be treated as a qualified individual and may not be covered under a qualified health plan in the individual market that is offered through an Exchange.
 
 (Pub. L. 111–148, title I, §1312, title X, §10104(i), Mar. 23, 2010, 124 Stat. 182, 901.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

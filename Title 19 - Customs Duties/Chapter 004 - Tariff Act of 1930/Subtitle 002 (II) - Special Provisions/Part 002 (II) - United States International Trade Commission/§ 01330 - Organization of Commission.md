@@ -20,7 +20,7 @@ The terms of office of the commissioners holding office on January 3, 1975, whic
 
 &emsp;(B) has the longest period of continuous service as a commissioner,
 
-> shall serve as chairman of the Commission for the portion of such term preceding the date onwhich an individual designated by the President takes office as chairman.
+> shall serve as chairman of the Commission for the portion of such term preceding the date on which an individual designated by the President takes office as chairman.
 
 (2) After June 16, 1978, the terms of office for the chairman and vice chairman of the Commission shall be as follows:
 
@@ -48,7 +48,7 @@ The terms of office of the commissioners holding office on January 3, 1975, whic
 
 &emsp;(B) under section 2436 of this title, whether market disruption exists.
 
-> and the commissioners voting are equally divided with respect to such determination, then the determination, agreed upon by either group of commissioners may be considered by the President as the determination of the Commission.
+> and the commissioners voting are equally divided with respect to such determination, thenthe determination, agreed upon by either group of commissioners may be considered by the President as the determination of the Commission.
 
 (2) If under section 2252(b) or 2436 of this title there is an affirmative determination of the Commission, or a determination of the Commission which the President may consider an affirmative determination under paragraph (1), that serious injury or market disruption exists, respectively, and a majority of the commissioners voting are unable to agree on a finding or recommendation described in section 2252(e)(1) of this title or the finding described in section 2436(a)(3) of this title, as the case may be (hereafter in this subsection referred to as a "remedy finding"), then—
 
@@ -64,7 +64,7 @@ The terms of office of the commissioners holding office on January 3, 1975, whic
 
 (4) In a case to which paragraph (2)(B)(ii) applies, for purposes of section 2253(a) of this title, notwithstanding section 2192(a)(1)(A) of this title, the second blank space in the joint resolution described in such section 2192(a)(1)(A) of this title shall be filled with the appropriate date and the following: "The action which shall take effect under section 203(a) of the Trade Act of 1974 is the finding or recommendation agreed upon by Commissioners \_\_\_\_\_\_\_\_\_\_\_\_\_\_, \_\_\_\_\_\_\_\_\_\_\_\_\_\_, and \_\_\_\_\_\_\_\_\_\_\_\_." The three blank spaces shall be filled with the names of the appropriate Commissioners.
 
-(5) Whenever, in any case in which the Commission is authorized to make an investigation upon its own motion, upon complaint, or upon application of any interested party, one-half of the number of commissioners voting agree that the investigation should be made, such investigation shall thereupon be carried out in accordance with the statutory authority covering the matter in question. Whenever the Commission is authorized to hold hearings in the course of any investigation and one-half of the number of commissioners voting agree that hearings should be held, such hearings shall thereupon beheld in accordance with the statutory authority covering the matter in question.
+(5) Whenever, in any case in which the Commission is authorized to make an investigation upon its own motion, upon complaint, or upon application of any interested party, one-half of the number of commissioners voting agree that the investigation should be made, such investigation shall thereupon be carried out in accordance with the statutory authority covering the matter in question. Whenever the Commission is authorized to hold hearings in the course of any investigation and one-half of the number of commissioners voting agree that hearings should be held, such hearings shall thereupon be held in accordance with the statutory authority covering the matter in question.
 
 #### (e) Authorization of appropriations
 
@@ -88,7 +88,9 @@ The terms of office of the commissioners holding office on January 3, 1975, whic
 
 The Commission shall be considered to be an independent regulatory agency for purposes of chapter 35 of title 44.
 
-(June 17, 1930, ch. 497, title III, §330, 46 Stat. 696; Aug. 7, 1953, ch. 348, title II, §201, 67 Stat. 472; Pub. L. 93–618, title I, §§172(a), (b), 175(b), Jan. 3, 1975, 88 Stat. 2009–2011; Pub. L. 94–455, title XVIII, §1801(a), (b), Oct. 4, 1976, 90 Stat. 1762; Pub. L. 95–106, §§1, 2(a), Aug. 17, 1977, 91 Stat. 867; Pub. L. 95–430, Oct. 10, 1978, 92 Stat. 1020; Pub. L. 97–456, §1(a), Jan. 12, 1983, 96 Stat. 2503; Pub. L. 98–573, title II, §248(c), title VII, §701, Oct. 30, 1984, 98 Stat. 2998, 3043; Pub. L. 99–272, title XIII, §13021, Apr. 7, 1986, 100 Stat. 305; Pub. L. 100–203, title IX, §9502, Dec. 22, 1987, 101 Stat. 1330–380; Pub. L. 100–418, title I, §§1401(b)(4), 1611, 1612, Aug. 23, 1988, 102 Stat. 1240, 1262; Pub. L. 100–647, title IX, §9001(a)(15), Nov. 10, 1988, 102 Stat. 3808; Pub. L. 101–207, §2, Dec. 7, 1989, 103 Stat. 1833; Pub. L. 101–382, title I, §101, Aug. 20, 1990, 104 Stat. 633; Pub. L. 102–185, §1(a)(1), (2), (c)(1), Dec. 4, 1991, 105 Stat. 1280; Pub. L. 107–210, div. A, title III, §371, Aug. 6, 2002, 116 Stat. 991; Pub. L. 108–429, title II, §2004(a)(13), Dec. 3, 2004, 118 Stat. 2590.)
+(June 17, 1930, ch. 497, title III, §330, 46 Stat. 696; Aug. 7, 1953, ch. 348, title II, §201, 67 Stat. 472; Pub. L. 93–618, title I, §§172(a), (b), 175(b), Jan. 3, 1975, 88 Stat. 2009–2011; Pub. L. 94–455, title XVIII, §1801(a), (b), Oct. 4, 1976, 90 Stat. 1762; Pub. L. 95–106, §§1, 2(a), Aug. 17, 1977, 91 Stat. 867; Pub. L. 95–430, Oct. 10, 1978, 92 Stat. 1020; Pub. L. 97–456, §1(a), Jan. 12, 1983, 96 Stat. 2503; Pub. L. 98–573, title II, §248(c), title VII, §701, Oct. 30, 1984, 98 Stat. 2998, 3043; Pub. L. 99–272, title XIII, §13021, Apr. 7, 1986, 100 Stat. 305; Pub. L. 100–203, title IX, §9502, Dec. 22, 1987, 101 Stat. 1330–380; Pub. L. 100–418, title I, §§1401(b)(4), 1611, 1612, Aug. 23, 1988, 102 Stat. 1240, 1262; Pub. L. 100–647, title IX, §9001(a)(15), Nov. 10, 1988, 102Stat. 3808; Pub. L. 101–207, §2, Dec. 7, 1989, 103 Stat. 1833; Pub. L. 101–382, title I, §101, Aug. 20, 1990, 104 Stat. 633; Pub. L. 102–185, §1(a)(1), (2), (c)(1), Dec. 4, 1991, 105 Stat. 1280; Pub. L. 107–210, div. A, title III, §371, Aug. 6, 2002, 116 Stat. 991; Pub. L. 108–429, title II, §2004(a)(13), Dec. 3, 2004, 118 Stat. 2590.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -132,7 +134,7 @@ Subsec. (c)(3)(C). Pub. L. 102–185, §1(a)(2)(B), inserted at end "Designation
 
 Pub. L. 102–185, §1(a)(1)(B), struck out at end "Designation of a chairman under this subparagraph may be made without regard to the limitation set forth in subparagraph (A)(i)."
 
-<b>1990</b>—Subsec. (e)(2). Pub. L. 101–382 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "There are authorized to be appropriated to the Commission for necessary expenses (including the rental of conference rooms in the District of Columbia and elsewhere) for fiscal year 1990 not to exceed $39,943,000; of which not to exceed $2,500 may be used, subject to approval by the Chairman of the Commission, for reception and entertainment expenses. No part of any sum that is appropriated under the authority of this paragraph may be used by the Commission for the makingof any special study, investigation, or report that is requested by any agency of the executive branch unless that agency reimburses the Commission for the cost thereof."
+<b>1990</b>—Subsec. (e)(2). Pub. L. 101–382 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "There are authorized to be appropriated to the Commission for necessary expenses (including the rental of conference rooms in the District of Columbia and elsewhere) for fiscal year 1990 not to exceed $39,943,000; of which not to exceed $2,500 may be used, subject to approval by the Chairman of the Commission, for reception and entertainment expenses. No part of any sum that is appropriated under the authority of this paragraph may be used by the Commission for the making of any special study, investigation, or report that is requested by any agency of the executive branch unless that agency reimburses the Commission for the cost thereof."
 
 <b>1989</b>—Subsec. (e)(2). Pub. L. 101–207 substituted "1990" for "1988" and "$39,943,000" for "$35,386,000".
 
@@ -184,6 +186,8 @@ Subsec. (e). Pub. L. 93–618, §175(b), added subsec. (e).
 
 <b>1953</b>—Subsec. (d). Act Aug. 7, 1953, added subsec. (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–210 applicable to petitions for certification filed under part 2 or 3 of subchapter II of chapter 12 of this title on or after the date that is 90 days after Aug. 6, 2002, except as otherwise provided, see section 151 of Pub. L. 107–210, set out as a note preceding section 2271 of this title.
@@ -214,7 +218,7 @@ Amendment by section 248(c) of Pub. L. 98–573 effective on 15th day after Oct.
 
 #### Effective Date of 1977 Amendment
 
-Pub. L. 95–106, §2(b), Aug. 17, 1977, 91 Stat. 868, provided that: "The amendment made by this section \[amending this section\] shall apply with respect to the designation of chairmen and vice chairmen of theUnited States International Trade Commission for terms beginning after June 16, 1978."
+Pub. L. 95–106, §2(b), Aug. 17, 1977, 91 Stat. 868, provided that: "The amendment made by this section \[amending this section\] shall apply with respect to the designation of chairmen and vice chairmen of the United States International Trade Commission for terms beginning after June 16, 1978."
 
 #### Effective Date of 1976 Amendment
 

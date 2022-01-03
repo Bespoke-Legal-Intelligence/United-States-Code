@@ -24,7 +24,7 @@ Quarters and Rations.—The head of an agency may provide quarters and rations, 
 
 (c)
 
-Storage of Motor Vehicle.—The head of an agency may provide for the storage, without charge, or for the reimbursement of the cost of storage, of a motor vehicle that is owned or leased by a covered employee of such agency (or by a dependent of such an employee) and that is for the personal use of the covered employee. This subsection shall apply—
+Storage of Motor Vehicle.—The head of an agency may provide for the storage, without charge, or for the reimbursement of the cost of storage, of a motor vehicle that is owned or leased by a covered employee of such agency (orby a dependent of such an employee) and that is for the personal use of the covered employee. This subsection shall apply—
 
 &emsp;(1) with respect to storage during the period of the employee's temporary assignment (as described in subsection (a)(1)(B)); and
 

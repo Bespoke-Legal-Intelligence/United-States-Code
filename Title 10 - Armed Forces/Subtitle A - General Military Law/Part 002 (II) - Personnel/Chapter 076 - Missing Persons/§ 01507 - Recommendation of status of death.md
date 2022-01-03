@@ -28,6 +28,8 @@ Submittal of Information on Death.—If a board appointed under section 1503, 15
 
 (Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 347; amended Pub. L. 104–201, div. A, title V, §578(e), Sept. 23, 1996, 110 Stat. 2537; Pub. L. 105–85, div. A, title V, §599(c), Nov. 18, 1997, 111 Stat. 1768.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1997</b>—Subsec. (b)(3), (4). Pub. L. 105–85 added pars. (3) and (4).

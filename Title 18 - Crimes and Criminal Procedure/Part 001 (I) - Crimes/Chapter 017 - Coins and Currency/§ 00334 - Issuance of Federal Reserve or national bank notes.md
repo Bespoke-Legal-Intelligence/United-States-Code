@@ -14,7 +14,7 @@ Based on sections 581 and 592 of title 12, U.S.C., 1940 ed., Banks and Banking (
 
 This section consolidates section 581 and part of section 592 of title 12, U.S.C., 1940 ed., Banks and Banking.
 
-The punishment provision was drawn from said section 592 as being the latest expression of congressional intent, in preference to the provision of said section 581 which authorized a fine "not more than double the amount so countersigned and delivered and imprisonment not more than 15 years".
+The punishment provision was drawn from said section 592 as being the latest expression of congressionalintent, in preference to the provision of said section 581 which authorized a fine "not more than double the amount so countersigned and delivered and imprisonment not more than 15 years".
 
 The words "shall be guilty of a misdemeanor" were omitted as unnecessary in view of definition of misdemeanor in section 1 of this title.
 

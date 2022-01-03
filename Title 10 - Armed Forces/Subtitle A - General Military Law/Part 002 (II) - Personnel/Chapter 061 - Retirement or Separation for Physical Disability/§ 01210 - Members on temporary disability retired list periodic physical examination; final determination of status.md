@@ -24,7 +24,7 @@
 
 (B) The grade of a member retired, transferred, discharged, or eliminated from an active status pursuant to paragraph (1)(B) shall be determined under the provisions of law under which the member is retired, transferred, discharged, or eliminated. The member's retired, retainer, severance, readjustment, or separation pay shall be computed as if the member had been reappointed or reenlisted upon removal from the temporary disability retired list and before the retirement, transfer, discharge, or elimination. Notwithstanding section 8301 of title 5, a member who is retired shall be entitled to retired pay effective on the day after the last day on which the member is entitled to disability retired pay.
 
-(g) Any member of the armed forces whose name is on the temporary disability retired list,and who is required to travel to submit to a physical examination under subsection (a), is entitled to the travel and transportation allowances authorized for members in his retired grade traveling in connection with temporary duty while on active duty.
+(g) Any member of the armed forces whose name is on the temporary disability retired list, and who is required to travel to submit to a physical examination under subsection (a), is entitled to the travel and transportation allowances authorized for members in his retired grade traveling in connection with temporary duty while on active duty.
 
 (h) If his name is not sooner removed, the disability retired pay of a member whose name is on the temporary disability retired list terminates upon the expiration of three years after the date when his name was placed on that list.
 
@@ -98,6 +98,8 @@ In subsection (f), the first 39 words are inserted for clarity.
 
 In subsection (g), the words "members in his retired grade traveling in connection with temporary duty" are substituted for the words "the rank, grade, or rating in which retired for temporary duty travel performed". The words "for travel performed" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Subsecs. (b), (h). Pub. L. 114–328 substituted "three years" for "five years".
@@ -107,6 +109,8 @@ In subsection (g), the words "members in his retired grade traveling in connecti
 <b>1985</b>—Subsecs. (b) to (d). Pub. L. 99–145, §513(a)(2)(A), inserted "and stable" after "permanent nature".
 
 Subsec. (f). Pub. L. 99–145, §513(a)(2)(B), designated existing provisions as par. (1), substituted "or rating, the Secretary shall—" for "and rating, the Secretary shall treat him as provided in section 1211 of this title", added subpars. (A) and (B), and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2016 Amendment
 

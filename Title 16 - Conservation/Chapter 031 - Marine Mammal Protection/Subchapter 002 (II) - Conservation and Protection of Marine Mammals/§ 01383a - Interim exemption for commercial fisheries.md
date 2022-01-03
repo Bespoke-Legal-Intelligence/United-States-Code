@@ -22,7 +22,7 @@
 
 &emsp;(C) at least once each year thereafter, and at such other times as the Secretary considers appropriate, reexamine, based on information gathered from the program established under subsections (c), (d), (e), and (f), and other relevant sources and after notice and opportunity for public comment, the classification of fisheries and other determinations required under subparagraph (A) and publish in the Federal Register any necessary changes.
 
-(2)(A) An exemption shall be granted by the Secretary in accordance with this section for a vessel engaged in a fishery identified under paragraph (1)(A)(i) or (ii), upon receipt by the Secretary of a completed registration form providing the name of the vessel owner, the name and description of the vessel, the fisheries in which it will be engaged, and such other information as the Secretary considers necessary. A decal or other physical evidence that the exemption is current and valid shall be issued by the Secretary at the time an exemption is granted, and so long as the exemption remains current and valid, shall be reissued annually thereafter.
+(2)(A) An exemption shall be granted by the Secretary in accordance with this section for avessel engaged in a fishery identified under paragraph (1)(A)(i) or (ii), upon receipt by the Secretary of a completed registration form providing the name of the vessel owner, the name and description of the vessel, the fisheries in which it will be engaged, and such other information as the Secretary considers necessary. A decal or other physical evidence that the exemption is current and valid shall be issued by the Secretary at the time an exemption is granted, and so long as the exemption remains current and valid, shall be reissued annually thereafter.
 
 (B) No exemption may be granted under this section to the owner of a vessel unless such vessel—
 
@@ -72,7 +72,7 @@ The owner of each vessel holding an exemption granted under subsection (b) of th
 
 &emsp;(2) the date and approximate time of any incidental taking of a marine mammal, together with the area in which the incidental taking occurred, the fishing gear used at the time of the incidental taking, and the species of fish involved; and
 
-&emsp;(3) for each incidental taking, the number and species of marine mammals involved, whether the marine mammals were deterred from gear or catch, incidentally injured, incidentally killed, or lethally removed to protect gear, catch, or human life.
+&emsp;(3) for each incidental taking, the number and species of marine mammals involved,whether the marine mammals were deterred from gear or catch, incidentally injured, incidentally killed, or lethally removed to protect gear, catch, or human life.
 
 > If there was no incidental taking of marine mammals during the reporting period, a report stating that fact shall be filed with the Secretary.
 
@@ -100,7 +100,7 @@ The owner of each vessel holding an exemption granted under subsection (b) of th
 
 &emsp;(B) the requirement that assignment of observers is fair and equitable among fisheries and among vessels in a fishery;
 
-&emsp;(C) consistent with paragraph (1), the requirement that no individual person or vessel,or group of persons or vessels, be subject to excessive or overly burdensome observer coverage; and
+&emsp;(C) consistent with paragraph (1), the requirement that no individual person or vessel, or group of persons or vessels, be subject to excessive or overly burdensome observer coverage; and
 
 &emsp;(D) where practicable, the need to minimize costs and avoid duplication.
 
@@ -128,7 +128,7 @@ The owner of each vessel holding an exemption granted under subsection (b) of th
 
 &emsp;(C) for reasons beyond the control of the Secretary, an observer is not available.
 
-(7)(A) An observer on a vessel (or the observer's personal representative) under the requirements of this section or section 1374 of this title that is ill, disabled, injured, or killed from service as an observer on that vessel may not bring a civil action under any law of the United States for that illness, disability, injury, or death against the vessel or vessel owner, except that a civil action may be brought against the vessel owner for the owner's willful misconduct.
+(7)(A) An observer on a vessel (or the observer's personal representative) under the requirements of this section or section 1374 of this titlethat is ill, disabled, injured, or killed from service as an observer on that vessel may not bring a civil action under any law of the United States for that illness, disability, injury, or death against the vessel or vessel owner, except that a civil action may be brought against the vessel owner for the owner's willful misconduct.
 
 (B) This paragraph does not apply if the observer is engaged by the owner, master, or individual in charge of a vessel to perform any duties in service to the vessel.
 
@@ -232,7 +232,7 @@ The Secretary shall consult with the Secretary of the Interior prior to taking a
 
 #### (n) Owner of fixed commercial fishing gear deemed owner of vessel engaged in fishery in which gear deployed
 
-For the purposes of this section, the owner of fixed or other commercial fishing gear that is deployed with or without the use of a vessel shall be deemed to be an owner of a vessel engaged in the fishery in which that gear is deployed.
+For the purposes of this section, the owner of fixed or other commercial fishing gear that isdeployed with or without the use of a vessel shall be deemed to be an owner of a vessel engaged in the fishery in which that gear is deployed.
 
 #### (o) Definitions
 
@@ -247,6 +247,8 @@ As used in this section—
 &emsp;(4) the term "vessel of the United States" has the same meaning as it does in section 1802(27) <sup>2</sup> of this title.
 
 (Pub. L. 92–522, title I, §114, as added Pub. L. 100–711, §2(a)(2), Nov. 23, 1988, 102 Stat. 4755; amended Pub. L. 103–86, Sept. 30, 1993, 107 Stat. 930; Pub. L. 103–228, Mar. 31, 1994, 108 Stat. 281; Pub. L. 103–238, §15(a), Apr. 30, 1994, 108 Stat. 559; Pub. L. 104–43, title IV, §404(a)(1), Nov. 3, 1995, 109 Stat. 390; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 115–232, div. C, title XXXV, §3541(b)(1), Aug. 13, 2018, 132 Stat. 2323.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -265,6 +267,8 @@ Section 1802 of this title, referred to in subsec. (o)(1), (4), was subsequently
 Pub. L. 103–228 substituted "May 1, 1994." for "April 1, 1994,".
 
 <b>1993</b>—Subsec. (a)(1). Pub. L. 103–86 substituted "April 1, 1994" for "October 1, 1993".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

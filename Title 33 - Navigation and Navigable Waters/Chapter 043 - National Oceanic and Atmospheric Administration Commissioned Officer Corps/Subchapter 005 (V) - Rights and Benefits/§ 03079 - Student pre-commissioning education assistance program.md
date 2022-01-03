@@ -106,7 +106,7 @@ Financial assistance may be provided to a person under subsection (a) for not mo
 
 #### (5) Discharge in bankruptcy
 
-&emsp;A discharge in bankruptcy under title 11 that is entered less than five years after the termination of a written agreement enteredinto under subsection (b)(1)(C) does not discharge the person signing the agreement from a debt arising under such agreement or under paragraph (2).
+&emsp;A discharge in bankruptcy under title 11 that is entered less than five years after the termination of a written agreement entered into under subsection (b)(1)(C) does not discharge the person signing the agreement from a debt arising under such agreement or under paragraph (2).
 
 #### (i) Regulations
 

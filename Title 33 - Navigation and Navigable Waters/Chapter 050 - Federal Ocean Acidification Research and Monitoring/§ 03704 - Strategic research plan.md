@@ -100,5 +100,5 @@ Subsec. (e). Pub. L. 116–271, §110(c), inserted ", tribal governments, and s
 
 #### Revised Strategic Research Plan
 
-Pub. L. 116–271, title I, §110(d), Dec. 31, 2020, 134 Stat. 3343, provided that: "Not later than one year after the date of the enactment of this Act \[Dec. 31, 2020\], the Joint Subcommittee on Ocean Science and Technology of the National Science and Technology Council shall submit to Congress a revised strategic research plan under section 12405 of the Federal Ocean Acidification Research And Monitoring Act of 2009 (33 U.S.C. 3704) that includes the matters required by the amendments made by this section."
+Pub. L. 116–271, title I, §110(d), Dec. 31, 2020, 134 Stat. 3343, provided that: "Not later than one year after thedate of the enactment of this Act \[Dec. 31, 2020\], the Joint Subcommittee on Ocean Science and Technology of the National Science and Technology Council shall submit to Congress a revised strategic research plan under section 12405 of the Federal Ocean Acidification Research And Monitoring Act of 2009 (33 U.S.C. 3704) that includes the matters required by the amendments made by this section."
 

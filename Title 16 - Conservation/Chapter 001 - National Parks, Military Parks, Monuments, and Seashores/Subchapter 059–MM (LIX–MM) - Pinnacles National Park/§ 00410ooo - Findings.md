@@ -12,9 +12,11 @@ The Congress makes the following findings:
 
 &emsp;(5) Pinnacles National Monument is the only National Park System site within the ancestral home range of the California Condor. The reintroduction of the condor to its traditional range in California is important to the survival of the species, and as a result, the scientific community with centers at the Los Angeles Zoo and San Diego Zoo in California and Buenos Aires Zoo in Argentina looks to Pinnacles National Monument as a leader in California Condor recovery, and as an international partner for condor recovery in South America.
 
-&emsp;(6) The preservation, enhancement, economic and tourism potential and managementof the central California coast and Pacific coast range's important natural and cultural resources requires cooperation and partnerships among local property owners, Federal, State, and local government entities and the private sector.
+&emsp;(6) The preservation, enhancement, economic and tourism potential and management of the central California coast and Pacific coast range's important natural and cultural resources requires cooperation and partnerships among local property owners, Federal, State, and local government entities and the private sector.
 
 (Pub. L. 112–245, §2, Jan. 10, 2013, 126 Stat. 2385.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

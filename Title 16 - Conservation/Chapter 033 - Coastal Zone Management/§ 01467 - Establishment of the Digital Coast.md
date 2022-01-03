@@ -124,6 +124,8 @@ There is authorized to be appropriated to the Secretary $4,000,000 for each fisc
 
 (Pub. L. 116–223, §4, Dec. 18, 2020, 134 Stat. 1068.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsec. (b)(4), is Pub. L. 116–223, Dec. 18, 2020, 134 Stat. 1067, known as the Digital Coast Act. For complete classification of this Act to the Code, see Short Title of 2020 Amendment note set out under section 1451 of this title and Tables.
@@ -142,13 +144,15 @@ Executive Order 12906, as amended by Executive Order 13286, referred to in subse
 
 Section was enacted as part of the Digital Coast Act, and not as part of the Coastal Zone Management Act of 1972 which comprises this chapter.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Findings
 
 Pub. L. 116–223, §2, Dec. 18, 2020, 134 Stat. 1067, provided that: "Congress makes the following findings:
 
 &emsp;"(1) The Digital Coast is a model approach for effective Federal partnerships with State and local government, nongovernmental organizations, and the private sector.
 
-&emsp;"(2) Access to current, accurate, uniform, and standards-based geospatial information, tools, and training to characterize the United States coastal region is critical for public safety and for the environment, infrastructure, and economy of the United States.
+&emsp;"(2) Access to current, accurate, uniform, and standards-based geospatial information, tools, andtraining to characterize the United States coastal region is critical for public safety and for the environment, infrastructure, and economy of the United States.
 
 &emsp;"(3) More than half of all people of the United States (153,000,000) currently live on or near a coast and an additional 12,000,000 are expected in the next decade.
 

@@ -28,7 +28,7 @@ Minor changes were made in phraseology.
 
 "Whoever, being a custodian, trustee, marshal, or other officer of the court, knowingly purchases, directly or indirectly, any property of the estate of which he is such officer in a case under title 11; or
 
-"Whoever being such officer, knowingly refuses to permit a reasonable opportunity for the inspection ofthe documents and accounts relating to the affairs of estates in his charge by parties in interest when directed by the court to do so—
+"Whoever being such officer, knowingly refuses to permit a reasonable opportunity for the inspection of the documents and accounts relating to the affairs of estates in his charge by parties in interest when directed by the court to do so—
 
 "Shall be fined under this title, and shall forfeit his office, which shall thereupon become vacant."
 

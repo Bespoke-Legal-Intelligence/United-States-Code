@@ -26,6 +26,8 @@ As used in this chapter—
 
 (Pub. L. 89–92, §3, July 27, 1965, 79 Stat. 282; Pub. L. 91–222, §2, Apr. 1, 1970, 84 Stat. 88; Pub. L. 93–109, §2, Sept. 21, 1973, 87 Stat. 352; Pub. L. 98–474, §6(b), Oct. 12, 1984, 98 Stat. 2204; Pub. L. 99–92, §11(b), Aug. 16, 1985, 99 Stat. 403.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1985</b>—Pars. (8), (9). Pub. L. 99–92 added par. (8) and redesignated former par. (8) as (9).
@@ -36,11 +38,13 @@ As used in this chapter—
 
 <b>1970</b>—Subsec. (3). Pub. L. 91–222 inserted provisions defining "State".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1973 Amendment
 
 Pub. L. 93–109, §4, Sept. 21, 1973, 87 Stat. 352, provided that: "The amendment made by this Act \[amending this section and section 1335 of this title\] shall become effective thirty days after the date of enactment \[Sept. 21, 1973\]."
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–222 effective Jan. 1, 1970, except where otherwise specified, see section 3 of Pub.L. 91–222, set out in part as a note under section 1331 of this title.
+Amendment by Pub. L. 91–222 effective Jan. 1, 1970, except where otherwise specified, see section 3 of Pub. L. 91–222, set out in part as a note under section 1331 of this title.
 

@@ -96,7 +96,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In carrying out this subsection, the Secretary may enter into competitively awarded contracts or cooperative agreements with, or provide grants to, public or private organizations or agencies (as determined by the Secretary), for use in accordance with demonstration projects that meet the purposes of this subsection.
+&emsp;&emsp;&emsp;In carrying out this subsection, the Secretary may enter into competitivelyawarded contracts or cooperative agreements with, or provide grants to, public or private organizations or agencies (as determined by the Secretary), for use in accordance with demonstration projects that meet the purposes of this subsection.
 
 #### (ii) Requirement
 
@@ -176,7 +176,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) describes the manner in which Federal nutrition programs can help to overcome child hunger nutrition problems on Indian reservations; and
 
-&emsp;&emsp;&emsp;&emsp;(II) contains proposed administrative and legislative recommendations to strengthen and streamline all relevant Department of Agriculture nutrition programs to reduce childhood hunger, obesity, and type 2 diabetes on Indian reservations.
+&emsp;&emsp;&emsp;&emsp;(II) contains proposed administrative and legislative recommendations tostrengthen and streamline all relevant Department of Agriculture nutrition programs to reduce childhood hunger, obesity, and type 2 diabetes on Indian reservations.
 
 #### (D) Limitations
 
@@ -206,6 +206,8 @@
 
 (June 4, 1946, ch. 281, §23, as added Pub. L. 111–296, title I, §141, Dec. 13, 2010, 124 Stat. 3206.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 7517 of title 7, referred to in subsec. (b)(7)(D)(iii), was amended generally by Pub. L. 113–79, title IV, §4208, Feb. 7, 2014, 128 Stat. 826, and now relates to the Gus Schumacher nutrition incentive program.
@@ -219,6 +221,8 @@ The Emergency Food Assistance Act of 1983, referred to in subsec. (b)(7)(D)(iv)(
 #### Prior Provisions
 
 A prior section 1769d, act June 4, 1946, ch. 281, §23, as added Nov. 10, 1989, Pub. L. 101–147, title I, §111, 103 Stat. 890, directed Secretary to provide each appropriate State agency with information on income eligibility for free or reduced price meals under each program established under this chapter and the Child Nutrition Act of 1966, prior to repeal by Pub. L. 104–193, title VII, §711, Aug. 22, 1996, 110 Stat. 2301.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

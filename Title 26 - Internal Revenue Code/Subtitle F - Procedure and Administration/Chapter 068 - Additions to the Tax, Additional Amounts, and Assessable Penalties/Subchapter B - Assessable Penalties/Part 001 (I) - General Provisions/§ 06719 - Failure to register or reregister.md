@@ -18,11 +18,15 @@ No penalty shall be imposed under this section with respect to any failure if it
 
 (Added Pub. L. 108–357, title VIII, §863(c)(1), Oct. 22, 2004, 118 Stat. 1620; amended Pub. L. 109–59, title XI, §11164(b)(1), Aug. 10, 2005, 119 Stat. 1975.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Pub. L. 109–59, §11164(b)(1)(C), inserted "or reregister" after "register" in section catchline.
 
 Subsecs. (a), (b). Pub. L. 109–59, §11164(b)(1)(A), (B), inserted "or reregister" after "register" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2005 Amendment
 

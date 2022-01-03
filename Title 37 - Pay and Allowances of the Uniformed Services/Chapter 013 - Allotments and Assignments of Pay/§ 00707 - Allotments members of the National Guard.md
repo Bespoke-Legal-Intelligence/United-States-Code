@@ -42,5 +42,5 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Liability of United States for Losses or Damages
 
-Pub. L. 93–289, §11(b), May 24, 1974, 88 Stat. 173, which provided that the United States shall not be liable forany losses or damages suffered by any person as the result of any error made by any officer or employee of the United States in administering the allotment program authorized under subsec. (a) of this section, was repealed and reenacted as subsec. (b) of this section by Pub. L. 97–295, §§3(5), 6(b), Oct. 12, 1982, 96 Stat. 1304, 1314.
+Pub. L. 93–289, §11(b), May 24, 1974, 88 Stat. 173, which provided that the United States shall not be liable for any losses or damages suffered by any person as the result of any error made by any officer or employee of the United States in administering the allotment program authorized under subsec. (a) of this section, was repealed and reenacted as subsec. (b) of this section by Pub. L. 97–295, §§3(5), 6(b), Oct. 12, 1982, 96 Stat. 1304, 1314.
 

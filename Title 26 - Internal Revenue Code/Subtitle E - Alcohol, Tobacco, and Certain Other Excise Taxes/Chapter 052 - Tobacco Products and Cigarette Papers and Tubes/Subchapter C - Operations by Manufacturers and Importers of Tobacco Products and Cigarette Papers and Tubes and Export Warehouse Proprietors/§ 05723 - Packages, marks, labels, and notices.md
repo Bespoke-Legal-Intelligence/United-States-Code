@@ -2,7 +2,7 @@
 
 #### (a) Packages
 
-All tobacco products, processed tobacco, and cigarette papers and tubes shall, before removal,be put up in such packages as the Secretary shall by regulation prescribe.
+All tobacco products, processed tobacco, and cigarette papers and tubes shall, before removal, be put up in such packages as the Secretary shall by regulation prescribe.
 
 #### (b) Marks, labels, and notices
 
@@ -20,7 +20,9 @@ No indecent or immoral picture, print, or representation shall be contained in, 
 
 Tobacco products furnished by manufacturers of such products for use or consumption by their employees, or for experimental purposes, and tobacco products, processed tobacco, and cigarette papers and tubes transferred to the bonded premises of another manufacturer or export warehouse proprietor or released in bond from customs custody for deliver to a manufacturer of tobacco products, processed tobacco, or cigarette papers and tubes, may be exempted from subsection (a) and (b) in accordance with such regulations as the Secretary shall prescribe.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 713; Pub. L. 85–859, title II, §202, Sept. 2, 1958, 72 Stat. 1422; Pub. L. 94–455, title XIX, §§1905(a)(28), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1821, 1834; Pub. L. 111–3, title VII, §702(a)(2)(C), Feb. 4, 2009, 123 Stat. 108.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 713; Pub. L. 85–859, title II, §202, Sept. 2, 1958, 72 Stat. 1422; Pub. L. 94–455, title XIX, §§1905(a)(28), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1821, 1834; Pub.L. 111–3, title VII, §702(a)(2)(C), Feb. 4, 2009, 123 Stat. 108.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -41,6 +43,8 @@ Subsec. (c). Pub. L. 85–859 redesignated former subsec. (b) as (c) and substit
 Subsec. (d). Pub. L. 85–859 redesignated former subsec. (c) as (d) and substituted "tobacco products or cigarette papers or tubes" for "articles". Former subsec. (d) redesignated (e).
 
 Subsec. (e). Pub. L. 85–859 redesignated former subsec. (d) as (e), and permitted exemption of tobacco products and cigarette papers and tubes transferred to the bonded premises of another manufacturer or export warehouse proprietor or released in bond from customs custody for delivery to a manufacturer of tobacco products or cigarette papers and tubes, and eliminated provisions which authorized exemption of articles removed for shipment to a foreign country, Puerto Rico, the Virgin Islands, or a possession of the United States, and so shipped.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

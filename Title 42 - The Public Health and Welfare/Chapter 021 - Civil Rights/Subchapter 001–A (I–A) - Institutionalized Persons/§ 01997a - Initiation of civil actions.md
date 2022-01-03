@@ -12,7 +12,9 @@ In any action commenced under this section, the court may allow the prevailing p
 
 The Attorney General shall personally sign any complaint filed pursuant to this section.
 
-(Pub. L. 96–247, §3, May 23, 1980, 94 Stat. 350; Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §803(a)\],Apr. 26, 1996, 110 Stat. 1321, 1321–70; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
+(Pub. L. 96–247, §3, May 23, 1980, 94 Stat. 350; Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §803(a)\], Apr. 26, 1996, 110 Stat. 1321, 1321–70; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

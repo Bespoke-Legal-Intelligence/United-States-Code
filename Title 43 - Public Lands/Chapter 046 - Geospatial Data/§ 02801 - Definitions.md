@@ -72,7 +72,7 @@ Section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.
 
 #### Short Title
 
-Pub. L. 115–254, div. B, title VII, §751(a), Oct. 5, 2018, 132 Stat. 3413, provided that: "This subtitle \[subtitle F (§§751–759C) of title VII of div. B of Pub. L. 115–254, enacting this chapter\] may be cited as the 'Geospatial Data Act of 2018'."
+Pub. L. 115–254, div. B, title VII, §751(a), Oct. 5, 2018, 132 Stat. 3413, provided that: "This subtitle \[subtitle F\(§§751–759C) of title VII of div. B of Pub. L. 115–254, enacting this chapter\] may be cited as the 'Geospatial Data Act of 2018'."
 
 #### Findings
 

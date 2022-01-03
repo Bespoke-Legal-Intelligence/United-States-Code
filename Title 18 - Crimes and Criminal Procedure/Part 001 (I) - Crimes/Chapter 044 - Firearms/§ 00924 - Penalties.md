@@ -16,7 +16,7 @@
 
 (3) Any licensed dealer, licensed importer, licensed manufacturer, or licensed collector who knowingly—
 
-&emsp;(A) makes any false statement or representation with respect to the information required by the provisions of this chapter to bekept in the records of a person licensed under this chapter, or
+&emsp;(A) makes any false statement or representation with respect to the information required by the provisions of this chapter to be kept in the records of a person licensed under this chapter, or
 
 &emsp;(B) violates subsection (m) of section 922,
 
@@ -78,7 +78,7 @@
 
 &emsp;(B) that by its nature, involves a substantial risk that physical force against the person or property of another may be used in the course of committing the offense.
 
-(4) For purposes of this subsection, the term "brandish" means, with respect to a firearm, todisplay all or part of the firearm, or otherwise make the presence of the firearm known to another person, in order to intimidate that person, regardless of whether the firearm is directly visible to that person.
+(4) For purposes of this subsection, the term "brandish" means, with respect to a firearm, to display all or part of the firearm, or otherwise make the presence of the firearm known to another person, in order to intimidate that person, regardless of whether the firearm is directly visible to that person.
 
 (5) Except to the extent that a greater minimum sentence is otherwise provided under this subsection, or by any other provision of law, any person who, during and in relation to any crime of violence or drug trafficking crime (including a crime of violence or drug trafficking crime that provides for an enhanced punishment if committed by the use of a deadly or dangerous weapon or device) for which the person may be prosecuted in a court of the United States, uses or carries armor piercing ammunition, or who, in furtherance of any such crime, possesses armor piercing ammunition, shall, in addition to the punishment provided for such crime of violence or drug trafficking crime or conviction under this section—
 
@@ -122,7 +122,7 @@
 
 &emsp;&emsp;(i) an offense under the Controlled Substances Act (21 U.S.C. 801 et seq.), the Controlled Substances Import and Export Act (21 U.S.C. 951 et seq.), or chapter 705 of title 46 for which a maximum term of imprisonment of ten years or more is prescribed by law; or
 
-&emsp;&emsp;(ii) an offense under State law, involving manufacturing, distributing, or possessingwith intent to manufacture or distribute, a controlled substance (as defined in section 102 of the Controlled Substances Act (21 U.S.C. 802)), for which a maximum term of imprisonment of ten years or more is prescribed by law;
+&emsp;&emsp;(ii) an offense under State law, involving manufacturing, distributing, or possessing with intent to manufacture or distribute, a controlled substance (as defined in section 102 of the Controlled Substances Act (21 U.S.C. 802)), for which a maximum term of imprisonment of ten years or more is prescribed by law;
 
 &emsp;(B) the term "violent felony" means any crime punishable by imprisonment for a term exceeding one year, or any act of juvenile delinquency involving the use or carrying of a firearm, knife, or destructive device that would be punishable by imprisonment for such term if committed by an adult, that—
 
@@ -198,7 +198,7 @@ Review.—An action of the Secretary under this paragraph may be reviewed only a
 
 &emsp;(2)
 
-Administrative remedies.—The suspension or revocation of a license or the imposition of a civil penalty under paragraph (1)shall not preclude any administrative remedy that is otherwise available to the Secretary.
+Administrative remedies.—The suspension or revocation of a license or the imposition of a civil penalty under paragraph (1) shall not preclude any administrative remedy that is otherwise available to the Secretary.
 
 (Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 233; amended Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1223; Pub. L. 91–644, title II, §13, Jan. 2, 1971, 84 Stat. 1889; Pub. L. 98–473, title II, §§223(a), 1005(a), Oct. 12, 1984, 98 Stat. 2028, 2138; Pub. L. 99–308, §104(a), May 19, 1986, 100 Stat. 456; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §1402, Oct. 27, 1986, 100 Stat. 3207–39; Pub. L. 100–649, §2(b), (f)(2)(B), (D), Nov. 10, 1988, 102 Stat. 3817, 3818; Pub. L. 100–690, title VI, §§6211, 6212, 6451, 6460, 6462, title VII, §§7056, 7060(a), Nov. 18, 1988, 102 Stat. 4359, 4360, 4371, 4373, 4374, 4402, 4403; Pub. L. 101–647, title XI, §1101, title XVII, §1702(b)(3), title XXII, §§2203(d), 2204(c), title XXXV, §§3526–3529, Nov. 29, 1990, 104 Stat. 4829, 4845, 4857, 4924; Pub. L. 103–159, title I, §102(c), title III, §302(d), Nov. 30, 1993, 107 Stat. 1541, 1545; Pub. L. 103–322, title VI, §60013, title XI, §§110102(c), 110103(c), 110105(2), 110201(b), 110401(e), 110503, 110504(a), 110507, 110510, 110515(a), 110517, 110518(a), title XXXIII, §§330002(h), 330003(f)(2), 330011(i), (j), 330016(1)(H), (K), (L), Sept. 13, 1994, 108 Stat. 1973, 1998–2000, 2011, 2015, 2016, 2018–2020, 2140, 2141, 2145, 2147; Pub. L. 104–294, title VI, §603(m)(1), (n)–(p)(1), (q)–(s), Oct. 11, 1996, 110 Stat. 3505; Pub. L. 105–386, §1(a), Nov. 13, 1998, 112 Stat. 3469; Pub. L. 107–273, div. B, title IV, §4002(d)(1)(E), div. C, title I, §11009(e)(3), Nov. 2, 2002, 116 Stat. 1809, 1821; Pub. L. 108–174, §1(2), (3), Dec. 9, 2003, 117 Stat. 2481; Pub. L. 109–92, §§5(c)(2), 6(b), Oct. 26, 2005, 119 Stat. 2100, 2102; Pub. L. 109–304, §17(d)(3), Oct. 6, 2006, 120 Stat. 1707; Pub. L. 115–391, title IV, §403(a), Dec. 21, 2018, 132 Stat. 5221.)
 
@@ -220,7 +220,7 @@ The Controlled Substances Import and Export Act, referred to in subsecs. (c)(2),
 
 #### Constitutionality
 
-For information regarding constitutionality of certain provisions of this section, as added by section 1402(b) of Pub. L. 99–570, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For information regarding constitutionality of certain provisions of this section, as added by section 1402(b) of Pub. L. 99–570, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
 
 #### Amendments
 
@@ -350,7 +350,7 @@ Subsec. (e)(2). Pub. L. 101–647, §3529(2), (3), struck out "and" at end of su
 
 Subsecs. (f) to (h). Pub. L. 101–647, §3526(a), redesignated subsec. (f) relating to punishment for traveling from any State or foreign country into another State to obtain firearms for drug trafficking purposes as subsec. (g) and redesignated former subsec. (g) as (h).
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–690, §6462, in par. (1), inserted "or 3" and substituted ", (c), or (f)" for "or (c)" in introductory provisions and struck out "(g), (i), (j),"after "(f)," in subpar. (B), added par. (2), and redesignated former par. (2) as (3).
+<b>1988</b>—Subsec. (a). Pub. L. 100–690, §6462, in par. (1), inserted "or 3" and substituted ", (c), or (f)" for "or (c)" in introductory provisions and struck out "(g), (i), (j)," after "(f)," in subpar. (B), added par. (2), and redesignated former par. (2) as (3).
 
 Subsec. (c)(1). Pub. L. 100–690, §7060(a), substituted "crime (including a crime of violence or drug trafficking crime which" for "crime,, including a crime of violence or drug trafficking crime, which", "device) for" for "device, for", "crime, be sentenced" for "crime,, be sentenced", and "crime in which" for "crime, or drug trafficking crime in which".
 
@@ -414,7 +414,7 @@ Amendment by section 5(c)(2) of Pub. L. 109–92 effective 180 days after Oct. 2
 
 Pub. L. 104–294, title VI, §603(m)(2), Oct. 11, 1996, 110 Stat. 3505, provided that: "The amendments made by paragraph (1) \[amending this section\] shall take effect as if the amendments had been included in section 110507 of the Act referred to in paragraph (1) \[Pub. L. 103–322\] on the date of the enactment of such Act \[Sept. 13, 1994\]."
 
-Pub. L. 104–294, title VI, §603(p)(2), Oct. 11, 1996, 110 Stat. 3505, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect as if the amendment had been included in section 110102(c)(2) of the Act referred to in paragraph (1) \[Pub.L. 103–322\] on the date of the enactment of such Act \[Sept. 13, 1994\]."
+Pub. L. 104–294, title VI, §603(p)(2), Oct. 11, 1996, 110 Stat. 3505, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect as if the amendment had been included in section 110102(c)(2) of the Act referred to in paragraph (1) \[Pub. L. 103–322\] on the date of the enactment of such Act \[Sept. 13, 1994\]."
 
 #### Effective and Termination Dates of 1994 Amendment
 

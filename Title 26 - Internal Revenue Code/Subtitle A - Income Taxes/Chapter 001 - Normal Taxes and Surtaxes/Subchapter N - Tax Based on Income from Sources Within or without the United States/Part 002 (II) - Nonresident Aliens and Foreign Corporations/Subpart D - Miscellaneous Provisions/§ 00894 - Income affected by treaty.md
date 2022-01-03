@@ -28,9 +28,11 @@ For purposes of applying any exemption from, or reduction of, any tax provided b
 
 #### (2) Regulations
 
-&emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate todetermine the extent to which a taxpayer to which paragraph (1) does not apply shall not be entitled to benefits under any income tax treaty of the United States with respect to any payment received by, or income attributable to any activities of, an entity organized in any jurisdiction (including the United States) that is treated as a partnership or is otherwise treated as fiscally transparent for purposes of this title (including a common investment trust under section 584, a grantor trust, or an entity that is disregarded for purposes of this title) and is treated as fiscally nontransparent for purposes of the tax laws of the jurisdiction of residence of the taxpayer.
+&emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate to determine the extent to which a taxpayer to which paragraph (1) does not apply shall not be entitled to benefits under any income tax treaty of the United States with respect to any payment received by, or income attributable to any activities of, an entity organized in any jurisdiction (including the United States) that is treated as a partnership or isotherwise treated as fiscally transparent for purposes of this title (including a common investment trust under section 584, a grantor trust, or an entity that is disregarded for purposes of this title) and is treated as fiscally nontransparent for purposes of the tax laws of the jurisdiction of residence of the taxpayer.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 284; Pub. L. 89–809, title I, §105(a), Nov. 13, 1966, 80 Stat. 1563; Pub. L. 100–647, title I, §1012(aa)(6), Nov. 10, 1988, 102 Stat. 3533; Pub. L. 105–34, title X, §1054(a), Aug. 5, 1997, 111 Stat. 943.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -39,6 +41,8 @@ For purposes of applying any exemption from, or reduction of, any tax provided b
 <b>1988</b>—Subsec. (a). Pub. L. 100–647 substituted "Treaty provisions" for "Income affected by treaty" in heading and amended text generally. Prior to amendment, text read as follows: "Income of any kind, to the extent required by any treaty obligation of the United States, shall not be included in gross income and shall be exempt from taxation under this subtitle."
 
 <b>1966</b>—Pub. L. 89–809 designated existing provisions as subsec. (a), added subsec. (b), and substituted "affected by treaty" for "exempt under treaty" in section catchline.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1997 Amendment
 

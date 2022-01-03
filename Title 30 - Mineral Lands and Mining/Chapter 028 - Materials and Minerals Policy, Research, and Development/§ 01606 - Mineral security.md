@@ -346,7 +346,7 @@ Not later than 1 year and 300 days after December 27, 2020, the Administrator of
 
 #### (B) Leadership
 
-&emsp;&emsp;If an Energy Innovation Hub authorized under section 18632 of title 42 that is focused on critical materials exists on December 27, 2020, the Secretary shall leverage the personnel and expertise of the Energy Innovation Hub to manage the Consortium for not less than 3 years following the date on which the Consortium is established.
+&emsp;&emsp;If an Energy Innovation Hub authorized under section 18632 of title 42 that is focusedon critical materials exists on December 27, 2020, the Secretary shall leverage the personnel and expertise of the Energy Innovation Hub to manage the Consortium for not less than 3 years following the date on which the Consortium is established.
 
 #### (C) Membership
 
@@ -514,7 +514,7 @@ Not later than 1 year and 300 days after December 27, 2020, the Administrator of
 
 &emsp;&emsp;&emsp;(iv) the quantity of each critical mineral projected to be domestically recycled over the subsequent 1-year, 5-year, and 10-year periods;
 
-&emsp;&emsp;&emsp;(v) the market penetration of alternatives to each critical mineral projectedto take place over the subsequent 1-year, 5-year, and 10-year periods;
+&emsp;&emsp;&emsp;(v) the market penetration of alternatives to each critical mineral projected to take place over the subsequent 1-year, 5-year, and 10-year periods;
 
 &emsp;&emsp;&emsp;(vi) a discussion of reasonably foreseeable international trends associated with the discovery, production, consumption, use, costs of production, and recycling of each critical mineral as well as the development of alternatives to critical minerals; and
 
@@ -572,7 +572,7 @@ Not later than 1 year and 300 days after December 27, 2020, the Administrator of
 
 #### (A) Establishment
 
-&emsp;&emsp;The Secretary and the Secretary of Labor shall jointly conduct a competitive grant program under which institutions of higher education may apply for and receive 4-year grants for—
+&emsp;&emsp;The Secretary and the Secretary of Labor shall jointly conduct a competitive grantprogram under which institutions of higher education may apply for and receive 4-year grants for—
 
 &emsp;&emsp;&emsp;(i) startup costs for newly designated faculty positions in integrated critical mineral education, research, innovation, training, and workforce development programs consistent with paragraph (2);
 
@@ -627,4 +627,10 @@ An amendment made by this section, referred to in subsec. (n)(3)(A), (B), means 
 Section was enacted as part of the Energy Act of 2020, and not as part of the National Materials and Minerals Policy, Research and Development Act of 1980 which comprises this chapter.
 
 Section is comprised of section 7002 of div. Z of Pub. L. 116–260. Subsec. (b) of section 7002 amended sections 1601 and 1602 of this title. Subsec. (l) of section 7002 amended section 15908 of Title 42, The Public Health and Welfare. Subsec. (m) of section 7002 amended sections 1602 to 1604 of this title. Subsec. (n)(1) of section 7002 repealed chapter 30 (§1801 et seq.) of this title. Subsec. (n)(2) of section 7002 amended section 5202 of Title 15, Commerce and Trade.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Department of Defense Research and Development Priorities
+
+Pub. L. 117–81, div. A, title VIII, §845, Dec. 27, 2021, 135 Stat. 1842, provided that: "The Secretary of Defense shall cooperate with the Secretary of Energy to ensure that the priorities of the Department of Defense with respect to the research and development of alternative technologies to, and methods for the extraction, processing, and recycling of, critical minerals (as defined in section 2(b) of the National Materials and Minerals Policy, Research, and Development Act of 1980 (30 U.S.C. 1601(b))) are considered and included where feasible in the associated research and development activities funded by the Secretary of Energy pursuant to the program established under paragraph \[probably should be "subsection"\] (g) of section 7002 of division Z of the Consolidated Appropriations Act, 2021 (Public Law 116–260) \[30 U.S.C. 1606(g)\]."
 

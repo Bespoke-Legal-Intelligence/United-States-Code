@@ -2,7 +2,7 @@
 
 (a) Upon being federally recognized, an officer of the Air National Guard shall be appointed as a Reserve for service as a member of the Air National Guard of the United States in the grade that he holds in the Air National Guard. However, an officer of the Air Force Reserve who is federally recognized as an officer of the Air National Guard becomes an officer of the Air National Guard of the United States and ceases to be an officer of the Air Force Reserve. The acceptance of an appointment as a Reserve for service as a member of the Air National Guard of the United States by an officer of the Air National Guard does not vacate his office in the Air National Guard.
 
-(b) When an officer of the Air National Guard to whom temporary Federal recognition has been extended is appointed as a Reserve for service as a member of the Air National Guard of the United States, his appointment shall bear the date of the temporary recognition and shallbe considered to have been accepted and effective on that date.
+(b) When an officer of the Air National Guard to whom temporary Federal recognition has been extended is appointed as a Reserve for service as a member of the Air National Guard of the United States, his appointment shall bear the date of the temporary recognition and shall be considered to have been accepted and effective on that date.
 
 (c) When the Air National Guard of the United States is ordered to active duty, any officer of the Air National Guard who is not a Reserve of the Air Force may be appointed by the President as a Reserve for service as a member of the Air National Guard of the United States in the grade that he holds in the Air National Guard.
 
@@ -38,11 +38,15 @@ In subsection (a), the words "as a Reserve" are substituted for the words "as Re
 
 In subsection (c), the words "active duty" are substituted for the words "active military service of the United States". The words "and branch" are omitted as surplusage. The words "of the Air National Guard of the United States" are inserted for clarity.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–106 inserted "the" after "National Guard of" in section catchline.
 
 <b>1994</b>—Pub. L. 103–337 renumbered section 8351 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

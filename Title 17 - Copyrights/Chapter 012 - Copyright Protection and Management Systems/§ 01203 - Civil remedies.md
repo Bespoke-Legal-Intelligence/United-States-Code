@@ -34,7 +34,7 @@ In general.—Except as otherwise provided in this title, a person committing a 
 
 &emsp;(2)
 
-Actual damages.—The court shall award to the complaining party the actual damages suffered by the party as a result of the violation, and any profits of the violator that are attributable to the violation and are not taken into account in computing the actual damages, if the complaining party elects such damages at any time before final judgment is entered.
+Actual damages.—The court shall award to the complaining party the actual damages suffered by the party as a result of the violation, and any profits of the violator that are attributable to the violation and are not taken into account in computing the actual damages, if the complaining party elects suchdamages at any time before final judgment is entered.
 
 &emsp;(3)
 

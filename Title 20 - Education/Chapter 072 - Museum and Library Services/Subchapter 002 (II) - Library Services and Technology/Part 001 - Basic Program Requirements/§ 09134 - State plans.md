@@ -134,7 +134,7 @@ Each library receiving assistance under this subchapter shall submit to the Stat
 
 &emsp;&emsp;&emsp;A library covered by paragraph (1) that does not have in place an Internet safety policy meeting the requirements of paragraph (1)—
 
-&emsp;&emsp;&emsp;&emsp;(I) for the first program year after the effective date of this subsection in which the library applies for funds under this subchapter, shall certify that it is undertaking such actions, including any necessary procurement procedures, to put inplace an Internet safety policy that meets such requirements; and
+&emsp;&emsp;&emsp;&emsp;(I) for the first program year after the effective date of this subsection in which the library applies for funds under this subchapter, shall certify that it is undertaking such actions, including any necessary procurement procedures, to put in place an Internet safety policy that meets such requirements; and
 
 &emsp;&emsp;&emsp;&emsp;(II) for the second program year after the effective date of this subsection in which the library applies for funds under this subchapter, shall certify that such library is in compliance with such requirements.
 
@@ -148,7 +148,7 @@ Each library receiving assistance under this subchapter shall submit to the Stat
 
 #### (A) Use of General Education Provisions Act remedies
 
-&emsp;&emsp;Whenever the Director of the Institute of Museum and Library Services has reason to believe that any recipient of funds this <sup>1</sup> subchapter is failing to comply substantially with the requirements of this subsection, the Director may—
+&emsp;&emsp;Whenever the Director of the Institute of Museum and Library Services has reason to believe that any recipient of funds this <sup>1</sup> subchapter is failing to comply substantiallywith the requirements of this subsection, the Director may—
 
 &emsp;&emsp;&emsp;(i) withhold further payments to the recipient under this subchapter,
 
@@ -200,9 +200,11 @@ Each library receiving assistance under this subchapter shall submit to the Stat
 
 (Pub. L. 94–462, title II, §224, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–300; amended Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1712(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–340; Pub. L. 108–81, title II, §205, title V, §504(f), Sept. 25, 2003, 117 Stat. 999, 1004; Pub. L. 111–340, title II, §204, Dec. 22, 2010, 124 Stat. 3600; Pub. L. 113–128, title V, §512(t)(2), July 22, 2014, 128 Stat. 1712; Pub. L. 114–95, title IX, §9215(aaa)(2), Dec. 10, 2015, 129 Stat. 2184; Pub. L. 115–410, §11, Dec. 31, 2018, 132 Stat. 5417.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(6)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§6301 et seq.) of this title. Subparts 2 and 3 of part B of title II of the Act are classified generally to subparts 2 (§6641 et seq.) and 3 (§6661 et seq.), respectively, of subchapter II of chapter 70 of this title. Parts A and B of title IV of the Act are classified generally to parts A (§7101 et seq.) and B (§7171 et seq.), respectively, of subchapter IV of chapter 70 of this title. For complete classification of this Act to the Code, seeShort Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(6)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§6301 et seq.) of this title. Subparts 2 and 3 of part B of title II of the Act are classified generally to subparts 2 (§6641 et seq.) and 3 (§6661 et seq.), respectively, of subchapter II of chapter 70 of this title. Parts A and B of title IV of the Act are classified generally to parts A (§7101 et seq.) and B (§7171 et seq.), respectively, of subchapter IV of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 The Workforce Innovation and Opportunity Act, referred to in subsec. (b)(6)(C)(iii), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title II of the Act, known as the Adult Education and Family Literacy Act, is classified generally to subchapter II (§3271 et seq.) of chapter 32 of Title 29, Labor. For complete classification of these Acts to the Code, see sections 1(a) and 201 of Pub. L. 113–128, set out as Short Title notes under section 3101 of Title 29 and Tables.
 
@@ -243,6 +245,8 @@ Subsec. (f)(7)(D). Pub. L. 108–81, §205(2)(C)(ii), substituted "applicable to
 <b>2000</b>—Subsec. (b)(6), (7). Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1712(a)(1)\], added par. (6) and redesignated former par. (6) as (7).
 
 Subsec. (f). Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1712(a)(2)\], added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

@@ -82,9 +82,11 @@ There are transferred to the Secretary all functions of the Secretary of Health,
 
 #### (d) Reservation of functions relating to Project Head Start
 
-Nothing in the provisions of this section or in the provisions of this chapter shall authorize the transfer of functions under part A of title V of the Economic Opportunity Act of 1964 \[42 U.S.C. 2928 et seq.\], relating to Project Head Start, from the Secretary of Health, Education, and Welfare to the Secretary.
+Nothing in the provisions of this section or in the provisions of this chapter shall authorize the transfer of functions under part A of title V of the Economic Opportunity Act of 1964 \[42 U.S.C. 2928 et seq.\], relating to Project HeadStart, from the Secretary of Health, Education, and Welfare to the Secretary.
 
 (Pub. L. 96–88, title III, §301, Oct. 17, 1979, 93 Stat. 677; Pub. L. 101–476, title IX, §901(a)(2), Oct. 30, 1990, 104 Stat. 1142; Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(b)(2)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–313.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -120,7 +122,7 @@ The Alcohol and Drug Abuse Education Act, referred to in subsec. (a)(2)(Q), is P
 
 The Rehabilitation Act of 1973, referred to in subsecs. (a)(4)(A), (C), and (b)(3), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
-Act of June 20, 1936, referred to in subsec. (a)(4)(B), is act June 20, 1936, ch. 638, 49 Stat. 1559, known as the Randolph-Sheppard Act and also popularly known as the Randolph-Sheppard Vending Stand Act, which is classified generally to chapter 6A (§107 et seq.) of thistitle. For complete classification of this Act to the Code, see Short Title notes set out under section 107 of this title and Tables.
+Act of June 20, 1936, referred to in subsec. (a)(4)(B), is act June 20, 1936, ch. 638, 49 Stat. 1559, known as the Randolph-Sheppard Act and also popularly known as the Randolph-Sheppard Vending Stand Act, which is classified generally to chapter 6A (§107 et seq.) of this title. For complete classification of this Act to the Code, see Short Title notes set out under section 107 of this title and Tables.
 
 #### Codification
 
@@ -130,9 +132,11 @@ Act of June 20, 1936, referred to in subsec. (a)(4)(B), is act June 20, 1936, ch
 
 <b>1996</b>—Subsec. (a)(5) to (7). Pub. L. 104–208, §101(e) \[title VII, §709(b)(2)(A)\], redesignated pars. (6) and (7) as (5) and (6), respectively, and struck out former par. (5) which transferred all functions of the Institute of Museum Services of the Department of Health, Education, and Welfare to the Secretary of Education.
 
-Subsec. (b)(4) to (7). Pub. L. 104–208, §101(e) \[title VII, §709(b)(2)(B)\], redesignated pars. (5) to (7) as (4) to (6), respectively, and struck out former par. (4) which transferred the offices, etc., of the Institute of Museum Services of the Department of Health, Education, and Welfare to the Department of Education.
+Subsec. (b)(4) to (7). Pub. L. 104–208, §101(e) \[title VII, §709(b)(2)(B)\], redesignated pars. (5) to (7) as (4) to (6),respectively, and struck out former par. (4) which transferred the offices, etc., of the Institute of Museum Services of the Department of Health, Education, and Welfare to the Department of Education.
 
 <b>1990</b>—Subsec. (a)(2)(H). Pub. L. 101–476 substituted "Individuals with Disabilities Education Act" for "Education of the Handicapped Act".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

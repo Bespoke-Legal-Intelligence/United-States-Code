@@ -18,7 +18,7 @@ A food additive shall, with respect to any particular use or intended use of suc
 
 #### (b) Petition for regulation prescribing conditions of safe use; contents; description of production methods and controls; samples; notice of regulation
 
-(1) Any person may, with respect to any intended use of a food additive, file with the Secretary a petition proposing the issuance of a regulation prescribing the conditions under which such additive may be safely used.
+(1) Any person may, with respect to any intended use of a food additive, file with the Secretary a petition proposing the issuance of aregulation prescribing the conditions under which such additive may be safely used.
 
 (2) Such petition shall, in addition to any explanatory or supporting data, contain—
 
@@ -82,7 +82,7 @@ Any order, including any regulation established by such order, issued under subs
 
 (2) Such order shall be based upon a fair evaluation of the entire record at such hearing, and shall include a statement setting forth in detail the findings and conclusions upon which the order is based.
 
-(3) The Secretary shall specify in the order the date on which it shall take effect, except that it shall not be made to take effect prior to the ninetieth day after its publication, unless the Secretary finds that emergency conditions exist necessitating an earlier effective date, in whichevent the Secretary shall specify in the order his findings as to such conditions.
+(3) The Secretary shall specify in the order the date on which it shall take effect, except that it shall not be made to take effect prior to the ninetieth day after its publication, unless the Secretary finds that emergency conditions exist necessitating an earlier effective date, in which event the Secretary shall specify in the order his findings as to such conditions.
 
 #### (g) Judicial review
 
@@ -104,7 +104,7 @@ Any order, including any regulation established by such order, issued under subs
 
 (B) A decision by the Secretary to object to a notification shall constitute final agency action subject to judicial review.
 
-(C) In this paragraph, the term "food contact substance" means the substance that is the subject of a notification submitted under paragraph (1), and does not include a similar or identical substance manufactured or prepared by a person other than the manufacturer identified in the notification.
+(C) In this paragraph, the term "food contact substance" means the substance that is the subject of a notification submitted under paragraph\(1), and does not include a similar or identical substance manufactured or prepared by a person other than the manufacturer identified in the notification.
 
 (3)(A) The process in this subsection shall be utilized for authorizing the marketing of a food contact substance except where the Secretary determines that submission and review of a petition under subsection (b) is necessary to provide adequate assurance of safety, or where the Secretary and any manufacturer or supplier agree that such manufacturer or supplier may submit a petition under subsection (b).
 
@@ -118,7 +118,7 @@ Any order, including any regulation established by such order, issued under subs
 
 &emsp;(II) the Secretary certifies that the amount appropriated for such fiscal year for the Center for Food Safety and Applied Nutrition of the Food and Drug Administration (exclusive of the appropriation referred to in subclause (I)) equals or exceeds the amount appropriated for the Center for fiscal year 1997, excluding any amount appropriated for new programs.
 
-(ii) The Secretary shall, not later than April 1, 1999, begin accepting and reviewing notificationssubmitted under the notification program established under this subsection if—
+(ii) The Secretary shall, not later than April 1, 1999, begin accepting and reviewing notifications submitted under the notification program established under this subsection if—
 
 &emsp;(I) an appropriation equal to or exceeding the applicable amount under clause (iii) is made for the last six months of fiscal year 1999 for carrying out such program during such period; and
 
@@ -230,7 +230,7 @@ Contents.—The guidance under paragraph (1) shall include—
 
 "(3)
 
-Final guidance.—The guidance under paragraph (1) shall be finalized, withdrawn, or reissued not later than 1 year after the close of the comment period on the draft guidance."
+Final guidance.—The guidance under paragraph (1) shall be finalized, withdrawn, or reissued not laterthan 1 year after the close of the comment period on the draft guidance."
 
 #### Glass and Ceramic Ware
 
@@ -256,7 +256,7 @@ Pub. L. 95–203, §3, Nov. 23, 1977, 91 Stat. 1452, as amended by Pub. L. 96–
 
 &emsp;"(1) may not amend or revoke the interim food additive regulation of the Food and Drug Administration of the Department of Health and Human Services applicable to saccharin and published on March 15, 1977 (section 180.37 of part 180, subchapter B, chapter 1, title 21, Code of Federal Regulations (42 Fed. Reg. 14638)), or
 
-&emsp;"(2) may, except as provided in section 4 \[enacting section 343a of this title, amending sections 321 and343 of this title, and enacting provisions set out as notes under section 343 of this title\] and the amendments made by such section, not take any other action under the Federal Food, Drug, and Cosmetic Act \[this chapter\] to prohibit or restrict the sale or distribution of saccharin, any food permitted by such interim food additive regulation to contain saccharin, or any drug or cosmetic containing saccharin,
+&emsp;"(2) may, except as provided in section 4 \[enacting section 343a of this title, amending sections 321 and 343 of this title, and enacting provisions set out as notes under section 343 of this title\] and the amendments made by such section, not take any other action under the Federal Food, Drug, and Cosmetic Act \[this chapter\] to prohibit or restrict the sale or distribution of saccharin, any food permitted by such interim food additive regulation to contain saccharin, or any drug or cosmetic containing saccharin,
 
 > solely on the basis of the carcinogenic or other toxic effect of saccharin as determined by any study made available to the Secretary before the date of the enactment of this Act \[Nov. 23, 1977\] which involved human studies or animal testing, or both."
 

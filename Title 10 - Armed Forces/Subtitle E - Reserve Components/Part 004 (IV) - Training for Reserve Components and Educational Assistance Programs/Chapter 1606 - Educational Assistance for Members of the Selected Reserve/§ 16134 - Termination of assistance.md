@@ -8,6 +8,8 @@ Educational assistance may not be provided under this chapter—
 
 (Added Pub. L. 95–79, title IV, §402(a), July 30, 1977, 91 Stat. 330, §2134; amended Pub. L. 98–94, title XII, §1268(14), Sept. 24, 1983, 97 Stat. 707; Pub. L. 98–525, title VII, §705(a)(1), Oct. 19, 1984, 98 Stat. 2566; renumbered §16134, Pub. L. 103–337, div. A, title XVI, §1663(b)(2), Oct. 5, 1994, 108 Stat. 3006.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–337 renumbered section 2134 of this title as this section.
@@ -15,6 +17,8 @@ Educational assistance may not be provided under this chapter—
 <b>1984</b>—Pub. L. 98–525 amended section generally, substituting provisions covering termination of educational assistance for provisions relating to reports to Congress. See section 16137 of this title.
 
 <b>1983</b>—Pub. L. 98–94 struck out provision requiring the first report under this section to be submitted not later than Dec. 31, 1977.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

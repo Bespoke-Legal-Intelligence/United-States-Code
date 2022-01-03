@@ -58,7 +58,7 @@ Problems caused by host rail carrier.—If the Board determines that delays or f
 
 Damages and relief.—In awarding damages and prescribing other relief under this subsection the Board shall consider such factors as—
 
-&emsp;&emsp;(A) the extent to which Amtrak suffers financial loss as a result of host rail carrier delays or failure to achieve minimum standards; and
+&emsp;&emsp;(A) the extent to which Amtrak suffers financial loss as a result of host rail carrierdelays or failure to achieve minimum standards; and
 
 &emsp;&emsp;(B) what reasonable measures would adequately deter future actions which may reasonably be expected to be likely to result in delays to Amtrak on the route involved.
 
@@ -144,6 +144,8 @@ In subsection (e)(2)(B), the word "proper" is omitted as surplus. The words "60 
 
 In subsection (e)(3), the words "Unless the parties have an agreement that establishes the compensation Amtrak will pay the carrier for additional trains provided under an order under this subsection" are substituted for 45:562(g) (last sentence words before last comma) to eliminate unnecessary words. The words "the dispute" are added for clarity and consistency in this section.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 207 of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsec. (f)(1), is section 207 of Pub. L. 110–432, which is set out in a note under section 24101 of this title.
@@ -163,6 +165,8 @@ Subsecs. (d), (e)(1), (2). Pub. L. 110–432, §213(d)(4), substituted "Board" f
 Subsec. (e)(3). Pub. L. 110–432, §213(d)(2), substituted "Board" for "Commission".
 
 Subsec. (f). Pub. L. 110–432, §213(a), added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Fees
 

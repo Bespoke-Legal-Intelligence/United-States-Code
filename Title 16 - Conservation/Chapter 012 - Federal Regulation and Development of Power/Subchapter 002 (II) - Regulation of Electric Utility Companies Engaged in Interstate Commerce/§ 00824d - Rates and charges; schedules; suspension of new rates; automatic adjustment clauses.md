@@ -62,6 +62,8 @@ Whenever any such new schedule is filed the Commission shall have authority, eit
 
 (June 10, 1920, ch. 285, pt. II, §205, as added Aug. 26, 1935, ch. 687, title II, §213, 49 Stat. 851; amended Pub. L. 95–617, title II, §§207(a), 208, Nov. 9, 1978, 92 Stat. 3142; Pub. L. 115–270, title III, §3006, Oct. 23, 2018, 132 Stat. 3868.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (g). Pub. L. 115–270 added subsec. (g).
@@ -69,6 +71,8 @@ Whenever any such new schedule is filed the Commission shall have authority, eit
 <b>1978</b>—Subsec. (d). Pub. L. 95–617, §207(a), substituted "sixty" for "thirty" in two places.
 
 Subsec. (f). Pub. L. 95–617, §208, added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Study of Electric Rate Increases Under Federal Power Act
 

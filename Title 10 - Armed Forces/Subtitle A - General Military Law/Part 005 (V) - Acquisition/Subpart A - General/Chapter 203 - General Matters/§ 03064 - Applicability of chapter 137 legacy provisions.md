@@ -2,13 +2,15 @@
 
 (a)
 
-General Applicability.—Any provision of this part that is a chapter 137 legacy provision; <sup>1</sup> applies to the procurement by any by any <sup>2</sup> of the agencies named in section 3063 of this title, for its use or otherwise, of all property (other than land) and all services for which payment is to be made from appropriated funds.
+General Applicability.—Any provision of this part that is a chapter 137 legacy provision applies to the procurement by any of the agencies named in section 3063 of this title, for its use or otherwise, of all property (other than land) and all services for which payment is to be made from appropriated funds.
 
 (b)
 
 Applicability to Contracts for Installation or Alteration.—The provisions of this part that are chapter 137 legacy provisions that apply to the procurement of property apply also to contracts for its installation or alteration.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, §1807(c)(1), (3), Jan. 1, 2021, 134 Stat. 4157.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, §1807(c)(1), (3), Jan. 1, 2021, 134 Stat. 4157; Pub. L. 117–81, div. A, title XVII, §1701(b)(2)(B), Dec. 27, 2021, 135 Stat. 2132.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -22,15 +24,17 @@ A prior section 3064 was renumbered section 7064 of this title.
 
 <b>2021</b>—Pub. L. 116–283, §1807(c)(3), transferred introductory provisions of subsec. (a) and subsec. (b) of section 2303 of this title to this section.
 
-Subsec. (a). Pub. L. 116–283, §1807(c)(3)(A), inserted heading and substituted "Any provision of this part that is a chapter 137 legacy provision;" for "This chapter", "by any of the agencies named in section 3063 of this title" for "of the following agencies", and period for colon at end.
+Subsec. (a). Pub. L. 116–283, §1807(c)(3)(A), as amended by Pub. L. 117–81, §1701(b)(2)(B), inserted heading and substituted "Any provision of this part that is a chapter 137 legacy provision" for "This chapter", "of the agencies named in section 3063 of this title" for "of the following agencies", and period for colon at end.
 
 Subsec. (b). Pub. L. 116–283, §1807(c)(3)(B), inserted heading and substituted "The provisions of this part that are chapter 137 legacy provisions" for "The provisions of this chapter".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and Effective Date note below.
 
 #### Effective Date
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
-
-<i><sup>1</sup></i><i> So in original. The semicolon probably should not appear.</i>
-
-<i><sup>2</sup></i><i> So in original.</i>
 

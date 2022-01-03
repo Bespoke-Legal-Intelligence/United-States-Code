@@ -2,7 +2,7 @@
 
 #### (a) Grants
 
-The Secretary is authorized to make grants to units of local government, private, non-profit community development organizations, and Indian tribe economic development entities to improve energy efficiency; identify and develop alternative, renewable, and distributed energy supplies; and increase energy conservation in low income rural and urban communities.
+The Secretary is authorized to make grants to units of local government, private, non-profitcommunity development organizations, and Indian tribe economic development entities to improve energy efficiency; identify and develop alternative, renewable, and distributed energy supplies; and increase energy conservation in low income rural and urban communities.
 
 #### (b) Purpose of grants
 
@@ -28,7 +28,9 @@ For the purposes of this section there are authorized to be appropriated to the 
 
 (Pub. L. 109–58, title I, §126, Aug. 8, 2005, 119 Stat. 618.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Alaska Native Claims Settlement Act, referred to in subsec. (c), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (c), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 

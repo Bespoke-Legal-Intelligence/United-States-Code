@@ -12,6 +12,8 @@
 
 (Pub. L. 96–573, §10, as added Pub. L. 99–240, title I, §102, Jan. 15, 1986, 99 Stat. 1859.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Low-Level Radioactive Waste Policy Act, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.

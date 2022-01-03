@@ -40,7 +40,7 @@ The reports required under subsection (a) shall contain—
 
 &emsp;&emsp;(B) Federal expenditures required incident to studies, evaluations, design, construction, operation, maintenance, or rehabilitation of Federal water resource development activities, including channel improvements;
 
-&emsp;&emsp;(C) the commodity loans and purchases program and cotton, feed grain, wheat, andrice production stabilization programs administered by the Department of Agriculture; and
+&emsp;&emsp;(C) the commodity loans and purchases program and cotton, feed grain, wheat, and rice production stabilization programs administered by the Department of Agriculture; and
 
 &emsp;&emsp;(D) Federal expenditures for the construction of publicly owned or publicly operated highways, roads, structures, or facilities that are essential links in a larger network or system; and
 

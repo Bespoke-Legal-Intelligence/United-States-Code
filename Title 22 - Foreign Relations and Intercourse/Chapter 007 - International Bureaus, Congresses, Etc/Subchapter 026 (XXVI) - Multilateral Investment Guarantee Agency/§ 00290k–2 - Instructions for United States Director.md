@@ -10,7 +10,7 @@ Immediately after taking office and prior to the issuance by the Agency of its f
 
 &emsp;&emsp;(B) other trade benefits likely to accrue to the United States or other member countries from the investment; or
 
-&emsp;(3) increase a country's productive capacity in an industry already facing excess worldwidecapacity for the same, similar or competing product, and cause substantial injury to producers of such product in another member country.
+&emsp;(3) increase a country's productive capacity in an industry already facing excess worldwide capacity for the same, similar or competing product, and cause substantial injury to producers of such product in another member country.
 
 (Pub. L. 100–202, §101(e) \[title I\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–134.)
 

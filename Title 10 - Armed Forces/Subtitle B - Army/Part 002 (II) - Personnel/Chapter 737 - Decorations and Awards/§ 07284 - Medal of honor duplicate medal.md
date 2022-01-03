@@ -4,9 +4,13 @@ A person awarded a medal of honor shall, upon written application of that person
 
 (Added Pub. L. 107–107, div. A, title V, §553(a)(1)(A), Dec. 28, 2001, 115 Stat. 1115, §3754; renumbered §7284, Pub. L. 115–232, div. A, title VIII, §808(b)(11), Aug. 13, 2018, 132 Stat. 1838.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 3754 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

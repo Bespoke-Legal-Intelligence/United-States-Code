@@ -96,9 +96,9 @@ The Council shall meet at the call of the Chairperson.
 
 #### (g) National prevention and health promotion strategy
 
-Not later than 1 year after March 23, 2010, the Chairperson, in consultation with the Council, shall develop and make public a national prevention, health promotion and public health strategy, and shall review and revise such strategy periodically. Such strategy shall—
+Not later than 1 year after March 23, 2010, the Chairperson, in consultation with the Council,shall develop and make public a national prevention, health promotion and public health strategy, and shall review and revise such strategy periodically. Such strategy shall—
 
-&emsp;(1) set specific goals and objectives for improving the health of the United States through federally-supported prevention, health promotion, and public health programs,consistent with ongoing goal setting efforts conducted by specific agencies;
+&emsp;(1) set specific goals and objectives for improving the health of the United States through federally-supported prevention, health promotion, and public health programs, consistent with ongoing goal setting efforts conducted by specific agencies;
 
 &emsp;(2) establish specific and measurable actions and timelines to carry out the strategy, and determine accountability for meeting those timelines, within and across Federal departments and agencies; and
 
@@ -128,6 +128,8 @@ The Secretary shall conduct periodic reviews, not less than every 5 years, and e
 
 (Pub. L. 111–148, title IV, §4001, title X, §10401(a), Mar. 23, 2010, 124 Stat. 538, 974; Pub. L. 113–188, title IX, §902(a), Nov. 26, 2014, 128 Stat. 2020.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Patient Protection and Affordable Care Act, and not as part of the Public Health Service Act which comprises this chapter.
@@ -137,6 +139,8 @@ Section was enacted as part of the Patient Protection and Affordable Care Act, a
 <b>2014</b>—Subsec. (i). Pub. L. 113–188 substituted "The Secretary shall conduct periodic reviews" for "The Secretary and the Comptroller General of the United States shall jointly conduct periodic reviews".
 
 <b>2010</b>—Subsec. (h)(4), (5). Pub. L. 111–148, §10401(a), substituted "2020" for "2010".
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13544. Establishing the National Prevention, Health Promotion, and Public Health Council
 
@@ -182,7 +186,7 @@ Sec. 3. <i>Purposes and Duties</i>. The Council shall:
 
 (a) provide coordination and leadership at the Federal level, and among all executive departments and agencies, with respect to prevention, wellness, and health promotion practices, the public health system, and integrative health care in the United States;
 
-(b) develop, after obtaining input from relevant stakeholders, a national prevention, health promotion, public health, and integrative health-care strategy that incorporates the most effective and achievable means of improving the health status of Americans and reducing the incidence of preventable illness and disability in the United States, as further described in section 5 of this order;
+(b) develop, after obtaining input from relevant stakeholders, a national prevention, health promotion, public health, and integrative health-care strategy thatincorporates the most effective and achievable means of improving the health status of Americans and reducing the incidence of preventable illness and disability in the United States, as further described in section 5 of this order;
 
 (c) provide recommendations to the President and the Congress concerning the most pressing health issues confronting the United States and changes in Federal policy to achieve national wellness, health promotion, and public health goals, including the reduction of tobacco use, sedentary behavior, and poor nutrition;
 
@@ -274,7 +278,7 @@ Ex. Ord. No. 13631, Dec. 7, 2012, 77 F.R. 74101, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 4001 of the Patient Protection and Affordable Care Act (Public Law 111–148), 42 U.S.C. 300u–10, it is hereby ordered as follows:
 
-Section 1. <i>Reestablishing the Advisory Group on Prevention, Health Promotion, and Integrative and Public Health</i>. The Advisory Group on Prevention, Health Promotion,and Integrative and Public Health (Advisory Group), as set forth under the provisions of Executive Order 13544 of June 10, 2010, and continued by section 2 of Executive Order 13591 of November 23, 2011, is hereby reestablished and shall terminate on September 30, 2013, unless extended by the President. The same members who were serving on the Advisory Group on September 30, 2012, are hereby reappointed to the Advisory Group as reestablished by this order, as if the Advisory Group had continued without termination through the date of this Executive Order.
+Section 1. <i>Reestablishing the Advisory Group on Prevention, Health Promotion, and Integrative and Public Health</i>. The Advisory Group on Prevention, Health Promotion, and Integrative and Public Health (Advisory Group), as set forth under the provisions of Executive Order 13544 of June 10, 2010, and continued by section 2 of Executive Order 13591 of November 23, 2011, is hereby reestablished and shall terminate on September 30, 2013, unless extended by the President. The same members who were serving on the Advisory Group on September 30, 2012, are hereby reappointed to the Advisory Group as reestablished by this order, as if the Advisory Group had continued without termination through the date of this Executive Order.
 
 Sec. 2. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
 

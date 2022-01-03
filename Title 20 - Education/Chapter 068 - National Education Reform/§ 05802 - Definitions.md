@@ -24,7 +24,7 @@ As used in subchapters I, II, III, and X of this chapter—
 
 &emsp;(10) the term "State assessment" means measures of student performance which include at least 1 instrument of evaluation, and may include other measures of student performance, for a specific purpose and use which are intended to evaluate the progress of all students in the State toward learning the material in State content standards in 1 or more subject areas;
 
-&emsp;(11) the term "school" means a public school that is under the authority of the State educational agency or a local educational agencyor, for the purpose of carrying out section 5895(b) <sup>1</sup> of this title, a school that is operated or funded by the Bureau;
+&emsp;(11) the term "school" means a public school that is under the authority of the State educational agency or a local educational agency or, for the purpose of carrying out section 5895(b) <sup>1</sup> of this title, a school that is operated or funded by the Bureau;
 
 &emsp;(12) the term "Secretary", unless otherwise provided, means the Secretary of Education; and
 
@@ -41,6 +41,8 @@ For the purpose of subchapters IV, V, VI, VII, VIII, and IX—
 &emsp;(3) the term "Secretary", unless otherwise provided, means the Secretary of Education.
 
 (Pub. L. 103–227, §3, Mar. 31, 1994, 108 Stat. 129; Pub. L. 103–382, title III, §394(f)(1), Oct. 20, 1994, 108 Stat. 4027; Pub. L. 104–134, title I, §101(d) \[title VII, §703(a)(3)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–252; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 108–446, title III, §305(e), Dec. 3, 2004, 118 Stat. 2805.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

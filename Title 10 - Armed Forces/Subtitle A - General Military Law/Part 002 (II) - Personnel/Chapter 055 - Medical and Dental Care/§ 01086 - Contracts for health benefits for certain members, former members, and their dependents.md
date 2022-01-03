@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;(i) while on active duty under a call or order to active duty of 30 days or less, on active duty for training, or on inactive duty training; or
 
-&emsp;&emsp;&emsp;(ii) while traveling to or from the place at which the member is to perform, or hasperformed, such active duty, active duty for training, or inactive duty training.
+&emsp;&emsp;&emsp;(ii) while traveling to or from the place at which the member is to perform, or has performed, such active duty, active duty for training, or inactive duty training.
 
 &emsp;(3) A dependent covered by clause (F), (G), or (H) of section 1072(2) of this title who is not eligible under paragraph (1).
 
@@ -78,7 +78,21 @@
 
 (4) The Secretary of Defense may require each hospital the Secretary approves for payment under this subsection to provide evidence that it has sources of revenue to cover unbilled costs.
 
-(Added Pub. L. 89–614, §2(7), Sept. 30, 1966, 80 Stat. 865; amended Pub. L. 95–485, title VIII,§806(a)(2), Oct. 20, 1978, 92 Stat. 1622; Pub. L. 96–173, §1, Dec. 29, 1979, 93 Stat. 1287; Pub. L. 96–513, title V, §§501(14), 511(36), (39), Dec. 12, 1980, 94 Stat. 2908, 2923; Pub. L. 97–86, title IX, §906(a)(2), Dec. 1, 1981, 95 Stat. 1117; Pub. L. 97–252, title X, §1004(c), Sept. 8, 1982, 96 Stat. 737; Pub. L. 98–94, title IX, §931(b), Sept. 24, 1983, 97 Stat. 649; Pub. L. 98–525, title VI, §632(a)(2), Oct. 19, 1984, 98 Stat. 2543; Pub. L. 98–557, §19(13), Oct. 30, 1984, 98 Stat. 2870; Pub. L. 99–145, title VI, §652(b), Nov. 8, 1985, 99 Stat. 657; Pub. L. 99–661, div. A, title VI, §604(f)(1)(C), Nov. 14, 1986, 100 Stat. 3877; Pub. L. 100–180, div. A, title VII, §721(b), Dec. 4, 1987, 101 Stat. 1115; Pub. L. 100–456, div. A, title VI, §646(b), Sept. 29, 1988, 102 Stat. 1989; Pub. L. 101–189, div. A, title VII, §731(c)(2), title XVI, §1621(a)(3), Nov. 29, 1989, 103 Stat. 1482, 1603; Pub. L. 101–510, div. A, title VII, §712(b), Nov. 5, 1990, 104 Stat. 1583; Pub. L. 102–190, div. A, title VII, §704(a), (b)(1), Dec. 5, 1991, 105 Stat. 1401; Pub. L. 102–484, div. A, title VII, §§703(a), 705(a), Oct. 23, 1992, 106 Stat. 2432; Pub. L. 103–35, title II, §203(b)(2), May 31, 1993, 107 Stat. 102; Pub. L. 103–160, div. A, title VII, §716(b)(2), Nov. 30, 1993, 107 Stat. 1693; Pub. L. 103–337, div. A, title VII, §711, Oct. 5, 1994, 108 Stat. 2801; Pub. L. 104–106, div. A, title VII, §732, Feb. 10, 1996, 110 Stat. 381; Pub. L. 104–201, div. A, title VII, §734(a)(2), (b)(2), Sept. 23, 1996, 110 Stat. 2598; Pub. L. 106–398, §1 \[\[div. A\], title VII, §§712(a)(1), 759\], Oct. 30, 2000, 114 Stat. 1654, 1654A–176, 1654A–200; Pub. L. 108–173, title IX, §900(e)(4)(A), Dec. 8, 2003, 117 Stat. 2373; Pub. L. 109–364, div. A, title VII, §704(b), Oct. 17, 2006, 120 Stat. 2280; Pub. L. 110–181, div. A, title VII, §701(b), Jan. 28, 2008, 122 Stat. 187; Pub. L. 110–417, \[div. A\], title VII, §701(b), Oct. 14, 2008, 122 Stat. 4498; Pub. L. 111–84, div. A, title VII, §§706, 709, Oct. 28, 2009, 123 Stat. 2375, 2378; Pub. L. 111–383, div. A, title VII, §701(b), Jan. 7, 2011, 124 Stat. 4244; Pub. L. 112–239, div. A, title X, §1076(f)(11), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 113–291, div. A, title VII, §703(c)(2), Dec. 19, 2014, 128 Stat. 3412; Pub. L. 115–91, div. A, title VII, §739(d)(2), Dec. 12, 2017, 131 Stat. 1447.)
+(Added Pub. L. 89–614, §2(7), Sept. 30, 1966, 80 Stat. 865; amended Pub. L. 95–485, title VIII, §806(a)(2), Oct. 20, 1978, 92 Stat. 1622; Pub. L. 96–173, §1, Dec. 29, 1979, 93 Stat. 1287; Pub. L. 96–513, title V, §§501(14), 511(36), (39), Dec. 12, 1980, 94 Stat. 2908, 2923; Pub. L. 97–86, title IX, §906(a)(2), Dec. 1, 1981, 95 Stat. 1117; Pub. L. 97–252, title X, §1004(c), Sept. 8, 1982, 96 Stat. 737; Pub. L. 98–94, title IX, §931(b), Sept. 24, 1983, 97 Stat. 649; Pub. L. 98–525, title VI, §632(a)(2), Oct. 19, 1984, 98 Stat. 2543; Pub. L. 98–557, §19(13), Oct. 30, 1984, 98 Stat. 2870; Pub. L. 99–145, title VI, §652(b), Nov. 8, 1985, 99 Stat. 657; Pub. L. 99–661, div. A, title VI, §604(f)(1)(C), Nov. 14, 1986, 100 Stat. 3877; Pub. L. 100–180, div. A, title VII, §721(b), Dec. 4, 1987, 101 Stat. 1115; Pub. L. 100–456, div. A, title VI, §646(b), Sept. 29, 1988, 102 Stat. 1989; Pub. L. 101–189, div. A, title VII, §731(c)(2), title XVI, §1621(a)(3), Nov. 29, 1989, 103 Stat. 1482, 1603; Pub. L. 101–510, div. A, title VII, §712(b), Nov. 5, 1990, 104 Stat. 1583; Pub. L. 102–190, div. A, title VII, §704(a), (b)(1), Dec. 5, 1991, 105 Stat. 1401; Pub. L. 102–484, div. A, title VII, §§703(a), 705(a), Oct. 23, 1992, 106 Stat. 2432; Pub. L. 103–35, title II, §203(b)(2), May 31, 1993, 107 Stat. 102; Pub. L. 103–160, div. A, title VII, §716(b)(2), Nov. 30, 1993, 107 Stat. 1693; Pub. L. 103–337, div. A, title VII, §711, Oct. 5, 1994, 108 Stat. 2801; Pub. L. 104–106, div. A, title VII, §732, Feb. 10, 1996, 110 Stat. 381; Pub. L. 104–201, div. A, title VII, §734(a)(2), (b)(2), Sept. 23, 1996, 110 Stat. 2598; Pub. L. 106–398, §1 \[\[div. A\], title VII, §§712(a)(1), 759\], Oct. 30, 2000, 114 Stat. 1654, 1654A–176, 1654A–200; Pub. L. 108–173, title IX, §900(e)(4)(A), Dec. 8, 2003, 117 Stat. 2373; Pub. L. 109–364, div. A, title VII, §704(b), Oct. 17, 2006, 120 Stat. 2280; Pub. L. 110–181, div. A, title VII, §701(b), Jan. 28, 2008, 122 Stat. 187; Pub. L. 110–417, \[div. A\], title VII, §701(b), Oct. 14, 2008, 122 Stat. 4498; Pub. L. 111–84, div. A, title VII, §§706, 709, Oct. 28, 2009, 123 Stat. 2375, 2378; Pub. L. 111–383, div. A, title VII, §701(b), Jan. 7, 2011, 124 Stat. 4244; Pub. L. 112–239, div. A, title X, §1076(f)(11), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 113–291, div. A, title VII, §703(c)(2), Dec. 19, 2014, 128 Stat. 3412; Pub. L. 115–91, div. A, title VII, §739(d)(2), Dec. 12, 2017, 131 Stat. 1447; Pub. L. 117–81, div. A, title VII, §701(b), Dec. 27, 2021, 135 Stat. 1778.)
+
+#### Amendment of Section
+
+<i>Pub. L. 117–81, div. A, title VII, §701(b), (d), Dec. 27, 2021, 135 Stat. 1778, 1779, provided that, effective Oct. 1, 2022, this section is amended:</i>
+
+<i>(1) in subsection (a), by inserting "and (except as provided in subsection (i)) treatments for eating disorders" after "eye examinations"; and</i>
+
+<i>(2) by adding at the end the following new subsection:</i>
+
+<i>(i) If, prior to October 1, 2022, a category of persons covered by this section was eligible to receive a specific type of treatment for eating disorders under a plan contracted for under subsection (a), the general prohibition on the provision of treatments for eating disorders specified in such subsection shall not apply with respect to the provision of the specific type of treatment to such category of persons.</i>
+
+<i>See 2021 Amendment notes below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -89,6 +103,10 @@ The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 5
 A prior section 1086, act Aug. 10, 1956, ch. 1041, 70A Stat. 88, authorized the mailing of official post cards, ballots, voting instructions, and envelopes, free of postage, prior to repeal by Pub. L. 85–861, §36(B)(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a). Pub. L. 117–81, §701(b)(1), inserted "and (except as provided in subsection (i)) treatments for eating disorders" after "eye examinations".
+
+Subsec. (i). Pub. L. 117–81, §701(b)(2), added subsec. (i).
 
 <b>2017</b>—Subsec. (b). Pub. L. 115–91 substituted "calendar year" for "fiscal year" wherever appearing.
 
@@ -114,7 +132,7 @@ Pub. L. 110–181 substituted "September 30, 2008" for "September 30, 2007."
 
 <b>2000</b>—Subsec. (b)(4). Pub. L. 106–398, §1 \[\[div. A\], title VII, §759\], substituted "$3,000" for "$7,500".
 
-Subsec. (d)(2). Pub. L. 106–398, §1 \[\[div. A\], title VII, §712(a)(1)(A)\], added par. (2) and struck out former par. (2) which read as follows: "The prohibition contained in paragraph (1) shall not apply in the case of a person referred to in subsection (c) who—
+Subsec. (d)(2). Pub. L. 106–398, §1 \[\[div. A\], title VII, §712(a)(1)(A)\], added par. (2) and struck out former par. (2) which read as follows: "The prohibition contained inparagraph (1) shall not apply in the case of a person referred to in subsection (c) who—
 
 &emsp;"(A) is entitled to hospital insurance benefits under part A of title XVIII of the Social Security Act pursuant to subparagraph (A) or (C) of section 226(b)(2) of such Act (42 U.S.C. 426(b)(2)) or section 226A(a) of such Act (42 U.S.C. 426–1(a));
 
@@ -186,6 +204,12 @@ Subsec. (c). Pub. L. 96–513, §§501(14), 511(39)(B), substituted "section 107
 
 <b>1978</b>—Subsec. (f). Pub. L. 95–485 added subsec. (f).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 117–81 effective Oct. 1, 2022, see section 701(d) of Pub. L. 117–81, set out as a note under section 1079 of this title.
+
 #### Effective Date of 2000 Amendment
 
 Pub. L. 106–398, §1 \[\[div. A\], title VII, §712(a)(3)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–177, provided that: "The amendments made by paragraphs (1) and (2) \[amending this section and section 1395ggg of Title 42, The Public Health and Welfare\] shall take effect on October 1, 2001."
@@ -196,7 +220,7 @@ Pub. L. 102–484, div. A, title VII, §703(b), Oct. 23, 1992, 106 Stat. 2432, p
 
 #### Effective Date of 1991 Amendment
 
-Pub. L. 102–190, div. A, title VII, §704(c), Dec. 5, 1991, 105 Stat. 1402, which provided that subsection (d) of this section was to apply with respect to health care benefits or services received by a person described in such subsection on or after Dec. 5, 1991, was repealed by Pub. L. 102–484, div. A, title VII, §705(c)(1), Oct. 23, 1992, 106 Stat. 2433.
+Pub. L. 102–190, div. A, title VII, §704(c), Dec. 5, 1991, 105 Stat. 1402, which provided that subsection (d) of thissection was to apply with respect to health care benefits or services received by a person described in such subsection on or after Dec. 5, 1991, was repealed by Pub. L. 102–484, div. A, title VII, §705(c)(1), Oct. 23, 1992, 106 Stat. 2433.
 
 #### Effective Date of 1990 Amendment
 
@@ -266,7 +290,7 @@ Pub. L. 104–106, div. A, title VII, §743, Feb. 10, 1996, 110 Stat. 385.
 
 #### Minimum Amount Payable for Services Provided Under This Section
 
-Pub. L. 103–335, title VIII, §8052, Sept. 30, 1994, 108 Stat. 2629, provided that: "Notwithstanding any other provision of law, of the funds appropriated for the Defense Health Program during this fiscal year and hereafter, the amount payable for services provided under this section shall not be less than the amount calculated under the coordination of benefits reimbursement formula utilized when CHAMPUS is a secondary payor to medical insurance programs other than Medicare, and such appropriations as necessary shall be available (notwithstanding the last sentence of section 1086(c) of title 10, United States Code) to continue Civilian Health and Medical Program of the Uniformed Services (CHAMPUS) benefits, until age 65, under such section for a former member of a uniformed service who is entitled to retired or retainer pay or equivalent pay, or a dependent of such a member, or any other beneficiary described by section 1086(c) of title 10, United States Code, who becomes eligible for hospital insurance benefits under part A of title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) \[42 U.S.C. 1395c et seq.\] solely on the grounds of physical disability, or end stage renal disease: <i>Provided</i>, That expenses under this section shall only be covered to the extent that such expenses are not covered under parts A and B of title XVIII of the Social Security Act \[42 U.S.C. 1395c et seq., 1395j et seq.\] and are otherwise covered under CHAMPUS: <i>Provided further</i>, That no reimbursement shall be made for services provided prior to October 1, 1991."
+Pub. L. 103–335, title VIII, §8052, Sept. 30, 1994, 108 Stat. 2629, provided that: "Notwithstanding any other provision of law, of the funds appropriated for the Defense Health Program during this fiscal year and hereafter, the amount payable for services provided under this section shall not be less than the amount calculated under the coordination of benefits reimbursement formula utilized when CHAMPUS is a secondary payor to medical insurance programs other than Medicare, and such appropriations as necessary shall be available (notwithstanding the last sentence of section 1086(c) of title 10, United States Code) to continue Civilian Health and Medical Program of the Uniformed Services (CHAMPUS) benefits, until age 65, under such section for a former member of a uniformed service who is entitled to retired or retainer pay or equivalent pay, or a dependent of such a member, or any other beneficiary described by section 1086(c) of title 10, United States Code, who becomes eligible for hospital insurance benefits under part A of title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) \[42 U.S.C. 1395c et seq.\] solely on the grounds of physical disability, or end stage renal disease: <i>Provided</i>, That expenses under this section shall only be covered to the extent that such expenses are not covered under parts A and B of title XVIII of the Social Security Act \[42 U.S.C. 1395c et seq., 1395j et seq.\] and are otherwise covered under CHAMPUS: <i>Provided further</i>, That no reimbursementshall be made for services provided prior to October 1, 1991."
 
 #### Authorization To Apply Section 1079 Payment Rules for Spouse and Children of Member Who Dies While on Active Duty
 

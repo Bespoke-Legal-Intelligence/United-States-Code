@@ -28,6 +28,8 @@ There are authorized to be appropriated to carry out this section—
 
 (Pub. L. 95–113, title XIV, §1491, as added Pub. L. 107–171, title VII, §7503, May 13, 2002, 116 Stat. 465; amended Pub. L. 110–234, title VII, §7143(b), May 22, 2008, 122 Stat. 1233; Pub. L. 110–246, §4(a), title VII, §7143(b), June 18, 2008, 122 Stat. 1664, 1994; Pub. L. 113–79, title VII, §7127(b), Feb. 7, 2014, 128 Stat. 877; Pub. L. 115–334, title VII, §7136(b), Dec. 20, 2018, 132 Stat. 4802.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -40,7 +42,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>2008</b>—Subsecs. (c), (e). Pub. L. 110–246, §7143(b), redesignated subsec. (e) as (c) and substituted "2012" for "2007".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 

@@ -28,11 +28,11 @@
 
 #### (3) Related Federal statutes
 
-&emsp;In carrying out this subsection, the Commissioner may make grants to and enter into contracts with States and public or nonprofit agencies and organizations, including institutions of higher education, to furnish training regarding provisions of Federal statutes, including section 794 of this title, title I of the Americans with Disabilities Act of 1990 (42 U.S.C. 12111 et seq.), and the provisions of titles II and XVI of the Social Security Act (42U.S.C. 401 et seq. and 1381 et seq.), that are related to work incentives for individuals with disabilities.
+&emsp;In carrying out this subsection, the Commissioner may make grants to and enter into contracts with States and public or nonprofit agencies and organizations, including institutions of higher education, to furnish training regarding provisions of Federal statutes, including section 794 of this title, title I of the Americans with Disabilities Act of 1990 (42 U.S.C. 12111 et seq.), and the provisions of titles II and XVI of the Social Security Act (42 U.S.C. 401 et seq. and 1381 et seq.), that are related to work incentives for individuals with disabilities.
 
 #### (4) Training for statewide workforce systems personnel
 
-&emsp;The Commissioner may make grants to and enter into contracts under this subsection with States and public or nonprofit agencies and organizations, including institutions of higher education, to furnish training to personnel providing services to individuals with disabilities under subtitle B of title I of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3151 et seq.\]. Under this paragraph, personnel may be trained—
+&emsp;The Commissioner may make grants to and enter into contracts under this subsection with States and public or nonprofit agencies and organizations, including institutions of higher education, to furnish training to personnel providing services to individuals withdisabilities under subtitle B of title I of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3151 et seq.\]. Under this paragraph, personnel may be trained—
 
 &emsp;&emsp;(A) in evaluative skills to determine whether an individual with a disability may be served by the State vocational rehabilitation program or another component of a statewide workforce development system; or
 
@@ -166,7 +166,7 @@ The Commissioner shall evaluate the impact of the training programs conducted un
 
 &emsp;&emsp;(A) a description of the manner in which an interpreter training program will be developed and operated during the 5-year period following the date on which a grant is received by the applicant under this subsection;
 
-&emsp;&emsp;(B) a demonstration of the applicant's capacity or potential for providing training for interpreters for individuals who are deaf or hard of hearing, and individuals who are deaf-blind;
+&emsp;&emsp;(B) a demonstration of the applicant's capacity or potential for providing training for interpreters for individuals who are deaf orhard of hearing, and individuals who are deaf-blind;
 
 &emsp;&emsp;(C) assurances that any interpreter trained or retrained under a program funded under the grant will meet such minimum standards of competency as the Commissioner may establish for purposes of this subsection; and
 
@@ -234,7 +234,7 @@ Subsec. (g)(3). Pub. L. 113–128, §441(b)(3)(C), struck out par. (3) which rel
 
 Subsec. (h). Pub. L. 113–128, §441(b)(4), made technical amendment to reference in original act which appears in text as reference to section 776 of this title.
 
-Subsec. (i). Pub. L. 113–128, §441(b)(5), substituted "$33,657,000 for fiscal year 2015, $36,257,000 for fiscal year 2016, $37,009,000 for fiscal year 2017, $37,830,000 for fiscal year 2018, $38,719,000 for fiscal year 2019, and $39,540,000 for fiscal year 2020." for "such sums as may be necessary for each of the fiscal years 1999 through 2003."
+Subsec. (i). Pub. L. 113–128, §441(b)(5), substituted "$33,657,000 for fiscal year 2015, $36,257,000 for fiscal year 2016, $37,009,000 for fiscal year 2017, $37,830,000 for fiscalyear 2018, $38,719,000 for fiscal year 2019, and $39,540,000 for fiscal year 2020." for "such sums as may be necessary for each of the fiscal years 1999 through 2003."
 
 <b>2004</b>—Subsec. (f)(1)(D)(ii). Pub. L. 108–446 made technical amendment to reference in original act which appears in text as reference to section 1402 of title 20.
 

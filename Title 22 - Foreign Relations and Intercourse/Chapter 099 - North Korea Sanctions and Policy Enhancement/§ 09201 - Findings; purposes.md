@@ -96,7 +96,7 @@ The purposes of this chapter are—
 
 #### References in Text
 
-This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 114–122, Feb. 18,2016, 130 Stat. 93, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 114–122, Feb. 18, 2016, 130 Stat. 93, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -106,7 +106,7 @@ Pub. L. 114–122, title IV, §406, Feb. 18, 2016, 130 Stat. 116, provided that:
 
 #### Short Title of 2017 Amendment
 
-Pub. L. 115–44, title III, §301, Aug. 2, 2017, 131 Stat. 940, provided that: "This title \[enacting sections 9221a, 9225, 9241a, 9241b of this title and section 1232c of Title 33, Navigation and Navigable Waters, amending sections 2708, 9202, 9214, 9223, 9228, and 9241 of this title and sections 1223 and 1232 of Title 33, repealing section 9225 of this title, and enacting provisions set out as notes under sections 9202, 9214, and 9241 of this title\] may be cited as the 'Korean Interdiction and Modernization of Sanctions Act'."
+Pub. L. 115–44, title III, §301, Aug. 2, 2017, 131 Stat. 940, provided that: "This title \[enacting sections 9221a, 9225, 9241a, 9241b of this title and section 1232c of Title 33, Navigation and Navigable Waters, amending sections 2708, 9202, 9214, 9223, 9228, and 9241 of this title and sections 1223 and 1232 of Title 33, repealing section 9225 of this title, and enacting provisions set out as notesunder sections 9202, 9214, and 9241 of this title\] may be cited as the 'Korean Interdiction and Modernization of Sanctions Act'."
 
 #### Short Title
 

@@ -102,7 +102,7 @@ Except as otherwise specifically provided in this Act, in this Act, the followin
 
 #### (13) Rules of the Board
 
-&emsp;The term "rules of the Board" means the bylaws and rules of the Board (as submitted to,and approved, modified, or amended by the Commission, in accordance with section 7217 of this title), and those stated policies, practices, and interpretations of the Board that the Commission, by rule, may deem to be rules of the Board, as necessary or appropriate in the public interest or for the protection of investors.
+&emsp;The term "rules of the Board" means the bylaws and rules of the Board (as submitted to, and approved, modified, or amended by the Commission, in accordance with section 7217 of this title), and those stated policies, practices, and interpretations of the Board that the Commission, by rule, may deem to be rules of the Board, as necessary or appropriate in the public interest or for the protection of investors.
 
 #### (14) Security
 
@@ -122,6 +122,8 @@ Except as otherwise specifically provided in this Act, in this Act, the followin
 
 (Pub. L. 107–204, §2(a), July 30, 2002, 116 Stat. 746; Pub. L. 111–203, title IX, §§929F(g)(1), 981(a), 982(a)(2), July 21, 2010, 124 Stat. 1854, 1926, 1928.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in text, is Pub. L. 107–204, July 30, 2002, 116 Stat. 745, known as the Sarbanes-Oxley Act of 2002. For complete classification of this Act to the Code, see Tables.
@@ -137,6 +139,8 @@ Title II, referred to in par. (10)(B), means title II of Pub. L. 107–204, July
 Par. (9)(C). Pub. L. 111–203, §929F(g)(1), added subpar. (C).
 
 Par. (17). Pub. L. 111–203, §981(a), added par. (17).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

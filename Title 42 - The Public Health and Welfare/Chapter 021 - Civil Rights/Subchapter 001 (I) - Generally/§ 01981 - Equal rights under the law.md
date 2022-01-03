@@ -14,6 +14,8 @@ The rights protected by this section are protected against impairment by nongove
 
 (R.S. §1977; Pub. L. 102–166, title I, §101, Nov. 21, 1991, 105 Stat. 1071.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §1977 derived from act May 31, 1870, ch. 114, §16, 16 Stat. 144.
@@ -23,6 +25,8 @@ Section was formerly classified to section 41 of Title 8, Aliens and Nationality
 #### Amendments
 
 <b>1991</b>—Pub. L. 102–166 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1991 Amendment
 
@@ -38,7 +42,7 @@ Certain Disparate Impact Cases.—Notwithstanding any other provision of this Ac
 
 #### Short Title of 1991 Amendment
 
-Pub. L. 102–166, §1, Nov. 21, 1991, 105 Stat. 1071, provided that: "This Act \[enacting section 1981a of this title and sections 60l and 1201 to 1224 of Title 2, TheCongress, amending this section and sections 1988, 2000e, 2000e–1, 2000e–2, 2000e–4, 2000e–5, 2000e–16, 12111, 12112, and 12209 of this title, and section 626 of Title 29, Labor, and enacting provisions set out as notes under this section and sections 2000e and 2000e–4 of this title, and section 1a–5 of Title 16, Conservation\] may be cited as the 'Civil Rights Act of 1991'."
+Pub. L. 102–166, §1, Nov. 21, 1991, 105 Stat. 1071, provided that: "This Act \[enacting section 1981a of this title and sections 60l and 1201 to 1224 of Title 2, The Congress, amending this section and sections 1988, 2000e, 2000e–1, 2000e–2, 2000e–4, 2000e–5, 2000e–16, 12111, 12112, and 12209 of this title, and section 626 of Title 29, Labor, and enacting provisions set out as notes under this section and sections 2000e and 2000e–4 of this title, and section 1a–5 of Title 16, Conservation\] may be cited as the 'Civil Rights Act of 1991'."
 
 #### Short Title of 1976 Amendment
 
@@ -72,7 +76,7 @@ Pub. L. 102–166, §3, Nov. 21, 1991, 105 Stat. 1071, provided that: "The purpo
 
 #### Legislative History for 1991 Amendment
 
-Pub. L. 102–166, title I, §105(b), Nov. 21, 1991, 105 Stat. 1075, provided that: "No statements other than the interpretive memorandum appearing at Vol. 137 Congressional Record S 15276 (daily ed. Oct. 25, 1991) \[Cong. Rec., vol. 137, pt. 19, p. 28680, Oct. 25, 1991\] shall be considered legislative history of, or relied upon in any way as legislative history in construing or applying, any provision of this Act \[see Short Title of 1991 Amendment note above\] that relates to Wards Cove—Business necessity/cumulation/alternative business practice."
+Pub. L. 102–166, title I, §105(b), Nov. 21, 1991, 105 Stat. 1075, provided that: "No statements other than the interpretive memorandum appearing at Vol. 137 Congressional Record S 15276 (daily ed. Oct. 25, 1991) \[Cong. Rec., vol. 137, pt. 19, p. 28680, Oct. 25, 1991\] shall be considered legislative history of, or relied upon in any wayas legislative history in construing or applying, any provision of this Act \[see Short Title of 1991 Amendment note above\] that relates to Wards Cove—Business necessity/cumulation/alternative business practice."
 
 #### Construction of 1991 Amendment
 
@@ -81,6 +85,8 @@ Pub. L. 102–166, title I, §116, Nov. 21, 1991, 105 Stat. 1079, provided that:
 #### Alternative Means of Dispute Resolution
 
 Pub. L. 102–166, title I, §118, Nov. 21, 1991, 105 Stat. 1081, provided that: "Where appropriate and to the extent authorized by law, the use of alternative means of dispute resolution, including settlement negotiations, conciliation, facilitation, mediation, factfinding, minitrials, and arbitration, is encouraged to resolve disputes arising under the Acts or provisions of Federal law amended by this title \[enacting section 1981a of this title and amending this section, sections 1988, 2000e, 2000e–1, 2000e–2, 2000e–4, 2000e–5, 2000e–16, 12111, and 12112 of this title, and section 626 of Title 29, Labor\]."
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 13050
 

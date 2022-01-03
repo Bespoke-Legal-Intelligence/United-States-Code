@@ -6,7 +6,7 @@ When used in this subchapter, unless the context otherwise requires—
 
 &emsp;(2) The terms "sale", "sell", "offer to sell", "offer for sale", and "offer" shall include all transactions included in such terms as provided in paragraph (3) of section 2(a) of the Securities Act of 1933 \[15 U.S.C. 77b(a)\], except that an offer or sale of a certificate of interest or participation shall be deemed an offer or sale of the security or securities in which such certificate evidences an interest or participation if and only if such certificate gives the holder thereof the right to convert the same into such security or securities.
 
-&emsp;(3) The term "prospectus" shall have the meaning assigned to such term in paragraph (10) of section 2(a) of the Securities Act of 1933 \[15 U.S.C. 77b(a)\], except that in the case of securities which are not registered under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], such term shall not include any communication (A) if it is proved that prior to or at the same timewith such communication a written statement if any required by section 77fff of this title was sent or given to the persons to whom the communication was made, or (B) if such communication states from whom such statement may be obtained (if such statement is required by rules or regulations under paragraphs (1) or (2) of subsection (b) of section 77fff of this title) and, in addition, does no more than identify the security, state the price thereof, state by whom orders will be executed and contain such other information as the Commission, by rules or regulations deemed necessary or appropriate in the public interest or for the protection of investors, and subject to such terms and conditions as may be prescribed therein, may permit.
+&emsp;(3) The term "prospectus" shall have the meaning assigned to such term in paragraph (10) of section 2(a) of the Securities Act of 1933 \[15 U.S.C. 77b(a)\], except that in the case of securities which are not registered under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], such term shall not include any communication (A) if it is proved that prior to or at the same time with such communication a written statement if any required by section 77fff of this title was sent or given to the persons to whom the communication was made, or (B) if such communication states from whom such statement may be obtained (if such statement is required by rules or regulations under paragraphs (1) or (2) of subsection (b) of section 77fff of this title) and, in addition, does no more than identify the security, state the price thereof, state by whom orders will be executed and contain such other information as the Commission, by rules or regulations deemed necessary or appropriate in the public interest or for the protection of investors, and subject to such terms and conditions as may be prescribed therein, may permit.
 
 &emsp;(4) The term "underwriter" means any person who has purchased from an issuer with a view to, or offers or sells for an issuer in connection with, the distribution of any security, or participates or has a direct or indirect participation in any such undertaking, or participates or has a participation in the direct or indirect underwriting of any such undertaking; but such term shall not include a person whose interest is limited to a commission from an underwriter or dealer not in excess of the usual and customary distributors' or sellers' commission.
 
@@ -40,11 +40,13 @@ When used in this subchapter, unless the context otherwise requires—
 
 (May 27, 1933, ch. 38, title III, §303, as added Aug. 3, 1939, ch. 411, 53 Stat. 1151; amended Aug. 10, 1954, ch. 667, title III, §301, 68 Stat. 686; Pub. L. 95–598, title III, §307, Nov. 6, 1978, 92 Stat. 2674; Pub. L. 100–181, title V, §§501, 502, Dec. 4, 1987, 101 Stat. 1260; Pub. L. 101–550, title IV, §402, Nov. 15, 1990, 104 Stat. 2722; Pub. L. 105–353, title III, §301(e)(1), Nov. 3, 1998, 112 Stat. 3237; Pub. L. 111–203, title IX, §986(b)(1), July 21, 2010, 124 Stat. 1935.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Securities Act of 1933, referred to in pars. (3) and (17), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) of this chapter. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
-The Securities Exchange Act of 1934, referred to in par. (17), is act June 6, 1934, ch. 404, 48 Stat. 881, whichis classified principally to chapter 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
+The Securities Exchange Act of 1934, referred to in par. (17), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
 
 The Bankruptcy Act, referred to in par. (18), is act July 1, 1898, ch. 541, 30 Stat. 544, as amended, which was classified generally to former Title 11, Bankruptcy. The Act was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11.
 
@@ -64,6 +66,8 @@ Par. (12). Pub. L. 100–181, §502, inserted "(including a guarantor)" after "p
 
 <b>1954</b>—Pars. (1) to (4). Act Aug. 10, 1954, made formal changes in order to conform to amendments made by act Aug. 10, 1954, to sections 77b, 77e, and 77j of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
@@ -75,6 +79,8 @@ Amendment effective Oct. 1, 1979, see section 402(a) of Pub. L. 95–598 set out
 #### Effective Date of 1954 Amendment
 
 Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note under section 77b of this title.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

@@ -200,7 +200,7 @@ The pendency of a rulemaking proceeding to consider—
 
 #### (3) Methods for screening lead in small painted areas
 
-&emsp;In order to provide for effective and efficient enforcement of the limit set forth in section1303.1 of title 16, Code of Federal Regulations, the Commission may rely on x-ray fluorescence technology or other alternative methods for measuring lead in paint or other surface coatings on products subject to such section where the total weight of such paint or surface coating is no greater than 10 milligrams or where such paint or surface coating covers no more than 1 square centimeter of the surface area of such products. Such alternative methods for measurement shall not permit more than 2 micrograms of lead in a total weight of 10 milligrams or less of paint or other surface coating or in a surface area of 1 square centimeter or less.
+&emsp;In order to provide for effective and efficient enforcement of the limit set forth in section 1303.1 of title 16, Code of Federal Regulations, the Commission may rely on x-ray fluorescence technology or other alternative methods for measuring lead in paint or other surface coatings on products subject to such section where the total weight of such paint or surface coating is no greater than 10 milligrams or where such paint or surface coating covers no more than 1 square centimeter of the surface area of such products. Such alternative methods for measurement shall not permit more than 2 micrograms of lead in a total weight of 10 milligrams or less of paint or other surface coating or in a surface area of 1 square centimeter or less.
 
 #### (4) Alternative methods of measuring lead in paint generally
 
@@ -230,6 +230,8 @@ Any ban imposed by subsection (a) or rule promulgated under subsection (a) or (b
 
 (Pub. L. 110–314, title I, §101, Aug. 14, 2008, 122 Stat. 3017; Pub. L. 112–28, §§1, 10(b), Aug. 12, 2011, 125 Stat. 273, 283.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Hazardous Substances Act, referred to in subsec. (a)(1), is Pub. L. 86–613, July 12, 1960, 74 Stat. 372, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1261 of this title and Tables.
@@ -250,13 +252,15 @@ Subsec. (a)(3). Pub. L. 112–28, §1(a), added par. (3).
 
 Subsec. (b)(1). Pub. L. 112–28, §1(b)(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "The Commission may, by regulation, exclude a specific product or material from the prohibition in subsection (a) if the Commission, after notice and a hearing, determines on the basis of the best-available, objective, peer-reviewed, scientific evidence that lead in such product or material will neither—
 
-&emsp;"(A) result in the absorption of any lead into the human body, taking into account normal and reasonably foreseeable use and abuse of such product by achild, including swallowing, mouthing, breaking, or other children's activities, and the aging of the product; nor
+&emsp;"(A) result in the absorption of any lead into the human body, taking into account normal and reasonably foreseeable use and abuse of such product by a child, including swallowing, mouthing, breaking, or other children's activities, and the aging of the product; nor
 
 &emsp;"(B) have any other adverse impact on public health or safety."
 
 Subsec. (b)(2)(A). Pub. L. 112–28, §1(b)(2), substituted "include" for "include to,".
 
 Subsec. (b)(5) to (8). Pub. L. 112–28, §1(b)(3), added pars. (5) to (7) and redesignated former par. (5) as (8).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 

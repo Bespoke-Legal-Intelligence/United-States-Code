@@ -36,9 +36,13 @@ July 3, 1944, ch. 399, §6, 58 Stat. 726.
 
 In subsection (b) the words "upon a claim against the United States" and "as to any proceedings by or on behalf of such claimant for the taking of a deposition or the production of evidence in connection with or in relation to such claim" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7724 of this title as this section and substituted "section 8891" for "section 7721" in introductory provisions of subsec. (a) and in subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

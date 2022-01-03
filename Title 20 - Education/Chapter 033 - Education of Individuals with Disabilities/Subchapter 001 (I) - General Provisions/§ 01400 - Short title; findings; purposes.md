@@ -40,7 +40,7 @@ Congress finds the following:
 
 &emsp;&emsp;(D) providing appropriate special education and related services, and aids and supports in the regular classroom, to such children, whenever appropriate;
 
-&emsp;&emsp;(E) supporting high-quality, intensive preservice preparation and professional development for all personnel who work with children with disabilities in order to ensure that such personnel have the skills andknowledge necessary to improve the academic achievement and functional performance of children with disabilities, including the use of scientifically based instructional practices, to the maximum extent possible;
+&emsp;&emsp;(E) supporting high-quality, intensive preservice preparation and professional development for all personnel who work with children with disabilities in order to ensure that such personnel have the skills and knowledge necessary to improve the academic achievement and functional performance of children with disabilities, including the use of scientifically based instructional practices, to the maximum extent possible;
 
 &emsp;&emsp;(F) providing incentives for whole-school approaches, scientifically based early reading programs, positive behavioral interventions and supports, and early intervening services to reduce the need to label children as disabled in order to address the learning and behavioral needs of such children;
 
@@ -98,11 +98,13 @@ The purposes of this chapter are—
 
 &emsp;(2) to assist States in the implementation of a statewide, comprehensive, coordinated, multidisciplinary, interagency system of early intervention services for infants and toddlers with disabilities and their families;
 
-&emsp;(3) to ensure that educators and parents have the necessary tools to improve educational results for children with disabilities by supporting system improvement activities; coordinated research and personnel preparation; coordinated technical assistance, dissemination, and support; and technology development and media services; and
+&emsp;(3) to ensure that educators and parents have the necessary tools to improve educational results for children with disabilities by supporting system improvement activities;coordinated research and personnel preparation; coordinated technical assistance, dissemination, and support; and technology development and media services; and
 
 &emsp;(4) to assess, and ensure the effectiveness of, efforts to educate children with disabilities.
 
 (Pub. L. 91–230, title VI, §601, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2647; amended Pub. L. 111–256, §2(b)(1), Oct. 5, 2010, 124 Stat. 2643.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -123,6 +125,8 @@ Another prior section 1400, Pub. L. 91–230, title VI, §601, Apr. 13, 1970, 84
 #### Amendments
 
 <b>2010</b>—Subsec. (c)(12)(C). Pub. L. 111–256 substituted "having intellectual disabilities" for "having mental retardation".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -170,7 +174,7 @@ Pub. L. 100–630, §1, Nov. 7, 1988, 102 Stat. 3289, provided that: "This Act \
 
 Pub. L. 99–457, §1(a), Oct. 8, 1986, 100 Stat. 1145, provided that: "This Act \[enacting sections 1408, 1461, 1462, and 1471 to 1485 of this title, amending sections 1401, 1406, 1411 to 1413, 1418, 1419, 1421 to 1424, 1424a, 1425, 1427, 1431 to 1433, 1435, 1441, 1443, 1444, 1452, and 1454 of this title, repealing sections 1403 and 1453 of this title, and enacting provisions set out as notes under sections 1419 and 1485 of this title\] may be cited as the 'Education of the Handicapped Act Amendments of 1986'."
 
-Pub. L. 99–372, §1, Aug. 5, 1986, 100 Stat. 796, provided that: "This Act \[amending section 1415 of this title and enacting provisions set out as notes under section 1415 of this title\] may be cited as the 'Handicapped Children's Protection Act of 1986'."
+Pub. L. 99–372, §1, Aug. 5, 1986, 100 Stat. 796, provided that: "This Act \[amending section 1415 of this title andenacting provisions set out as notes under section 1415 of this title\] may be cited as the 'Handicapped Children's Protection Act of 1986'."
 
 #### Short Title of 1983 Amendment
 

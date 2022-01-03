@@ -2,6 +2,8 @@
 
 Section, R.S. §2951, defined the word "ton" and was previously omitted.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of Repeal
 
 For effective date of repeal, see section 501(a) of Pub. L. 87–456, set out as an Effective Date of Tariff Classification Act of 1962 note preceding section 1202 of this title.

@@ -14,7 +14,7 @@ Designation of Department of Defense Critical Infrastructure Security Informatio
 
 (c)
 
-Information Provided to State and Local Governments.—(1) Department of Defense critical infrastructure security information covered by a written determination undersubsection (a) or designated under subsection (b) that is provided to a State or local government shall remain under the control of the Department of Defense.
+Information Provided to State and Local Governments.—(1) Department of Defense critical infrastructure security information covered by a written determination under subsection (a) or designated under subsection (b) that is provided to a State or local government shall remain under the control of the Department of Defense.
 
 (2)(A) A State or local law authorizing or requiring a State or local government to disclose Department of Defense critical infrastructure security information that is covered by a written determination under subsection (a) shall not apply to such information.
 
@@ -33,6 +33,8 @@ Transparency.—Each determination of the Secretary, or the Secretary's designee
 Definition.—In this section, the term "Department of Defense critical infrastructure security information" means sensitive but unclassified information that, if disclosed, would reveal vulnerabilities in Department of Defense critical infrastructure that, if exploited, would likely result in the significant disruption, destruction, or damage of or to Department of Defense operations, property, or facilities, including information regarding the securing and safeguarding of explosives, hazardous chemicals, or pipelines, related to critical infrastructure or protected systems owned or operated by or on behalf of the Department of Defense, including vulnerability assessments prepared by or on behalf of the Department of Defense, explosives safety information (including storage and handling), and other site-specific information on or relating to installation security.
 
 (Added Pub. L. 112–81, div. A, title X, §1091(a), Dec. 31, 2011, 125 Stat. 1604; amended Pub. L. 114–92, div. A, title X, §1081(a)(2), Nov. 25, 2015, 129 Stat. 1000; Pub. L. 114–328, div. A, title XVI, §1662(b), Dec. 23, 2016, 130 Stat. 2614.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

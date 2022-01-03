@@ -4,7 +4,7 @@
 
 #### (1) Determination by treating facility
 
-&emsp;If a victim of an emergency is transported by emergency response employees to a medical facility and the medical facility makes a determination that the victim has an airborne infectious disease, the medical facility shall notify the designated officer of the emergency response employees who transported the victim to the medical facility of the determination.
+&emsp;If a victim of an emergency is transported by emergency response employees to a medicalfacility and the medical facility makes a determination that the victim has an airborne infectious disease, the medical facility shall notify the designated officer of the emergency response employees who transported the victim to the medical facility of the determination.
 
 #### (2) Determination by facility ascertaining cause of death
 
@@ -15,6 +15,8 @@
 With respect to a determination described in paragraph (1) or (2) of subsection (a), the notification required in each of such paragraphs shall be made as soon as is practicable, but not later than 48 hours after the determination is made.
 
 (July 1, 1944, ch. 373, title XXVI, §2695A, as added Pub. L. 111–87, §13, Oct. 30, 2009, 123 Stat. 2898.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

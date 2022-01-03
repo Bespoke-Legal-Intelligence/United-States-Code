@@ -4,7 +4,7 @@ Congress finds as follows:
 
 &emsp;(1) The National Forest System features a world-class trail system with over 157,000 miles of trails that provide world-class opportunities for hiking, horseback riding, hunting, mountain bicycling, motorized vehicles, and other outdoor activities.
 
-&emsp;(2) According to the Government Accountability Office, the Forest Service is only able to maintain about one-quarter of National Forest System trails to the agency standard, and the agency faces a trail maintenance backlog of $314 million, and an additional backlog of $210 million in annual maintenance, capital improvements, and operations.
+&emsp;(2) According to the Government Accountability Office, the Forest Service is only ableto maintain about one-quarter of National Forest System trails to the agency standard, and the agency faces a trail maintenance backlog of $314 million, and an additional backlog of $210 million in annual maintenance, capital improvements, and operations.
 
 &emsp;(3) The lack of maintenance on National Forest System trails threatens access to public lands, and may cause increased environmental damage, threaten public safety, and increase future maintenance costs.
 
@@ -13,6 +13,8 @@ Congress finds as follows:
 &emsp;(5) Volunteers, partners, and outfitters and guides play an important role in maintaining National Forest System trails, and a comprehensive strategy is needed to ensure that volunteers and partners are used as effectively as possible.
 
 (Pub. L. 114–245, §2, Nov. 28, 2016, 130 Stat. 990.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

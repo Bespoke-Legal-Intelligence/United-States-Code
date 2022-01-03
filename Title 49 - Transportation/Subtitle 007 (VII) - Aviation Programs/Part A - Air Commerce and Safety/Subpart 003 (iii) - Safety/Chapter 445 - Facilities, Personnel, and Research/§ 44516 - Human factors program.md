@@ -38,9 +38,13 @@ Advanced Qualification Program Defined.—In this section, the term "advanced qu
 
 (Added Pub. L. 106–181, title VII, §713(a), Apr. 5, 2000, 114 Stat. 160.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this section, referred to in subsec. (c), is the date of enactment of Pub. L. 106–181, which was approved Apr. 5, 2000.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

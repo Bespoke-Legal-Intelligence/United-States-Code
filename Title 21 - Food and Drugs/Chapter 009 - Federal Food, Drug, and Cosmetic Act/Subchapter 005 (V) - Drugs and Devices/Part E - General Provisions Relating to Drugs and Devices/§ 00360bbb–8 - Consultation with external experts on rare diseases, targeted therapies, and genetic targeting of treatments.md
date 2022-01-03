@@ -52,7 +52,7 @@ The external experts who are consulted under this section may be considered spec
 
 #### (e) Other consultation
 
-Nothing in this section shall be construed to limit the ability of the Secretary to consultwith individuals and organizations as authorized prior to July 9, 2012.
+Nothing in this section shall be construed to limit the ability of the Secretary to consult with individuals and organizations as authorized prior to July 9, 2012.
 
 #### (f) No right or obligation
 

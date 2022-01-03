@@ -22,6 +22,8 @@ Sept. 3, 1954, ch. 1257, §§102(1) (as applicable to §211), 211, 68 Stat. 1149
 
 The words "including those heretofore or hereafter transferred to the Retired Reserve", "permanent", and "pursuant to the Officer Personnel Act of 1947, as amended" are omitted as surplusage. The rule as to the Coast Guard is consolidated with the rule applicable to the other armed forces, since 14:754 prescribes the same substantive result as that prescribed by 50:1201 for the other armed forces.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–337 renumbered section 592 of this title as this section.

@@ -20,6 +20,8 @@ The boundaries of any river proposed in section 1276(a) of this title for potent
 
 (Pub. L. 90–542, §4, Oct. 2, 1968, 82 Stat. 909; Pub. L. 93–279, §1(b)(1), May 10, 1974, 88 Stat. 122; Pub. L. 93–621, §1(d), Jan. 3, 1975, 88 Stat. 2096; Pub. L. 94–486, title V, §501, Oct. 12, 1976, 90 Stat. 2330; Pub. L. 95–91, title III, §301(b), Aug. 4, 1977, 91 Stat. 578; Pub. L. 99–590, title V, §502, Oct. 30, 1986, 100 Stat. 3335.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Water Resources Planning Act, referred to in subsec. (a), is Pub. L. 89–80, July 22, 1965, 79 Stat. 244, as amended, which is classified generally to chapter 19B (§1962 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1962 of Title 42 and Tables.
@@ -32,11 +34,13 @@ The Water Resources Planning Act, referred to in subsec. (a), is Pub. L. 89–80
 
 <b>1975</b>—Subsec. (a). Pub. L. 93–621, in first paragraph, designated provision relating to the developments, which, if undertaken, would render the rivers unsuitable for inclusion in the system as cl. (i), and added cl. (ii).
 
-<b>1974</b>—Subsec. (a). Pub. L. 93–279, in first paragraph, substituted provisions requiring submission of reports to the President on the suitability or nonsuitability for addition to the national wild and scenic river system of rivers designated by Congress as potential additions to such system, and submission by President of recommendations and proposals to the Congress, for provisions for submission of proposals to the President and the Congress, struck out reference to section 1273(b) of this title and administration by an agency of theUnited States, inserted provisions that the studies relating to rivers named in section 1276(a) of this title be completed by Oct. 2, 1978, and that the Secretary of the Interior and the Secretary of Agriculture give priority to rivers which may be unsuitable for inclusion in the national wild and scenic river system if developments were undertaken, and in second paragraph, substantially incorporated the existing provisions with minor changes.
+<b>1974</b>—Subsec. (a). Pub. L. 93–279, in first paragraph, substituted provisions requiring submission of reports to the President on the suitability or nonsuitability for addition to the national wild and scenic river system of rivers designated by Congress as potential additions to such system, and submission by President of recommendations and proposals to the Congress, for provisions for submission of proposals to the President and the Congress, struck out reference to section 1273(b) of this title and administration by an agency of the United States, inserted provisions that the studies relating to rivers named in section 1276(a) of this title be completed by Oct. 2, 1978, and that the Secretary of the Interior and the Secretary of Agriculture give priority to rivers which may be unsuitable for inclusion in the national wild and scenic river system if developments were undertaken, and in second paragraph, substantially incorporated the existing provisions with minor changes.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 
 "Secretary of Energy" substituted for "Chairman of the Federal Power Commission" in subsecs. (b) and (c) pursuant to Pub. L. 95–91, §301(b), which is classified to section 7151(b) of Title 42, The Public Health and Welfare.
 
-Federal Power Commission terminated and its functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
+The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
 

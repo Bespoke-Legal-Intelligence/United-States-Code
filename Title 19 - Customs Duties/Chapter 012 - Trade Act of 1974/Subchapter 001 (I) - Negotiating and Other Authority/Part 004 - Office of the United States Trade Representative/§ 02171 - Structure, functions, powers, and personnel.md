@@ -176,6 +176,8 @@ The United States Trade Representative shall, to the extent he deems it necessar
 
 (Pub. L. 93–618, title I, §141, Jan. 3, 1975, 88 Stat. 1999; Pub. L. 97–456, §3(a)–(d)(2), Jan. 12, 1983, 96 Stat. 2504, 2505; Pub. L. 98–573, title III, §304(d)(2)(A), title VII, §703, Oct. 30, 1984, 98 Stat. 3004, 3043; Pub. L. 99–272, title XIII, §13023, Apr. 7, 1986, 100 Stat. 307; Pub. L. 99–514, title XVIII, §1887(a)(3), (4), Oct. 22, 1986, 100 Stat. 2923; Pub. L. 100–203, title IX, §9504, Dec. 22, 1987, 101 Stat. 1330–382; Pub. L. 100–418, title I, §1601, Aug. 23, 1988, 102 Stat. 1260; Pub. L. 101–207, §1(a), Dec. 7, 1989, 103 Stat. 1833; Pub. L. 101–382, title I, §103(a), Aug. 20, 1990, 104 Stat. 634; Pub. L. 103–465, title VI, §621(a)(8), Dec. 8, 1994, 108 Stat. 4993; Pub. L. 104–65, §21(b), Dec. 19, 1995, 109 Stat. 704; Pub. L. 104–295, §20(f)(1), Oct. 11, 1996, 110 Stat. 3529; Pub. L. 106–36, title I, §1001(a)(2), June 25, 1999, 113 Stat. 130; Pub. L. 106–200, title IV, §406, May 18, 2000, 114 Stat. 293; Pub. L. 107–210, div. A, title III, §361(a), (b), Aug. 6, 2002, 116 Stat. 991; Pub. L. 108–429, title II, §2004(a)(15), Dec. 3, 2004, 118 Stat. 2591; Pub. L. 114–26, title I, §104(f), June 29, 2015, 129 Stat. 342; Pub. L. 114–125, title VI, §§604(a), (b), 609(a), title IX, §918, Feb. 24, 2016, 130 Stat. 185, 186, 190, 280.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Subtitles A and B of title VII and section 337, referred to in subsec. (d)(3)(A) to (C), probably mean subtitles A and B of title VII and section 337 of the Tariff Act of 1930 which is act June 17, 1930, ch. 497, 46 Stat. 590. Subtitles A and B of title VII of the Tariff Act of 1930 are classified generally to parts I and II (§1671 et seq. and 1673 et seq., respectively) of subtitle IV of chapter 4 of this title. Section 337 of the Tariff Act of 1930 is classified to section 1337 of this title. For complete classification of this Act to the Code, see section 1654 of this title and Tables.
@@ -190,7 +192,7 @@ Section is comprised of section 141 of Pub. L. 93–618. Section 141(b) of Pub. 
 
 #### Amendments
 
-<b>2016</b>—Subsec. (b)(2). Pub. L. 114–125, §609(a)(1), substituted ", one Chief Agricultural Negotiator, and one Chief Innovation and Intellectual Property Negotiator," for "and one Chief Agricultural Negotiator", ", the Chief Agricultural Negotiator, or the Chief Innovation and Intellectual Property Negotiator" for "or the Chief Agricultural Negotiator", and ", the Chief Agricultural Negotiator, and the Chief Innovation and Intellectual Property Negotiator" for "and the Chief Agricultural Negotiator".
+<b>2016</b>—Subsec. (b)(2). Pub. L. 114–125, §609(a)(1), substituted ", one Chief Agricultural Negotiator, and one Chief Innovation and Intellectual Property Negotiator," for "and one Chief Agricultural Negotiator", ", the Chief Agricultural Negotiator, or the Chief Innovation and Intellectual Property Negotiator" for "or the Chief Agricultural Negotiator", and ", the Chief Agricultural Negotiator, and the Chief Innovation andIntellectual Property Negotiator" for "and the Chief Agricultural Negotiator".
 
 Subsec. (b)(5). Pub. L. 114–125, §918, added par. (5).
 
@@ -280,7 +282,7 @@ Subsec. (f)(1). Pub. L. 98–573, §703, substituted provisions authorizing appr
 
 Subsec. (b)(1). Pub. L. 97–456, §3(d)(1)(D), substituted "United States Trade Representative" for "Special Representative for Trade Negotiations" wherever appearing.
 
-Subsec. (b)(2). Pub. L. 97–456, §3(c), (d)(2)(A), (B), substituted "three Deputy United States Trade Representatives" for "two Deputy Special Representatives for Trade Negotiations" after "in the Office", "a Deputy United States Trade Representative" for "a Deputy Special Representative" after "any nomination of a", and "Deputy United States Trade Representative" for "Deputy Special Representative for Trade Negotiations" after "Each".
+Subsec. (b)(2). Pub. L. 97–456, §3(c), (d)(2)(A), (B), substituted "three Deputy United States Trade Representatives" for "two Deputy Special Representatives for Trade Negotiations" after "in the Office", "a Deputy United States Trade Representative" for "a Deputy Special Representative" after "any nomination of a",and "Deputy United States Trade Representative" for "Deputy Special Representative for Trade Negotiations" after "Each".
 
 Subsec. (c)(1). Pub. L. 97–456, §3(d)(1)(D), substituted "United States Trade Representative" for "Special Representative for Trade Negotiations" in provisions preceding subpar. (A).
 
@@ -303,6 +305,8 @@ Subsec. (f). Pub. L. 97–456, §3(a), substituted provisions authorizing for ap
 Subsec. (g). Pub. L. 97–456, §3(d)(1), struck out subsec. (g) which abolished the Office of Special Representative for Trade Negotiations and transferred its assets and obligations to the Office of United States Trade Representative.
 
 Subsec. (h). Pub. L. 97–456, §3(d)(1), struck out subsec. (h) which permitted any individual holding the position of Special Representative for Trade Negotiations or Deputy Special Representative for Trade Negotiations on Jan. 3, 1975, appointed with the advice and consent of the Senate, to continue to hold such position, and provided for the transfer of personnel employed by the Office of Special Representative for Trade Negotiations on Jan. 2, 1975, to the Office of United States Trade Representative.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 
@@ -357,6 +361,8 @@ Pub. L. 100–202, §101(a) \[title I\], Dec. 22, 1987, 101 Stat. 1329, 1329–3
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+
+#### <b>Executive Documents</b>
 
 #### <b>REORGANIZATION PLAN NO. 3 OF 1979</b>
 
@@ -424,9 +430,9 @@ The Trade Representative and the Secretary shall serve, ex officio and without v
 
 &emsp;(B) section 232 of the Trade Expansion Act of 1962 (19 U.S.C. 1862);
 
-&emsp;(C) section 303 and title VII (including section 771(1) \[19 U.S.C. 1677(1)\] of the Tariff Act of 1930 (19 U.S.C. 1303, 1671 <i>et seq</i>.), except that the Customs Service of the Department of the Treasury shall accept such deposits, bonds, or other security as deemed appropriate by the Secretary, shall assess and collect such duties as may be directed by the Secretary, and shall furnish such of its important records or copies thereof as may be requested by the Secretary incident to the functions transferred by this subparagraph;
+&emsp;(C) section 303 and title VII (including section 771(1) \[19 U.S.C. 1677(1)\] of the Tariff Act of 1930 (19 U.S.C.1303, 1671 <i>et seq</i>.), except that the Customs Service of the Department of the Treasury shall accept such deposits, bonds, or other security as deemed appropriate by the Secretary, shall assess and collect such duties as may be directed by the Secretary, and shall furnish such of its important records or copies thereof as may be requested by the Secretary incident to the functions transferred by this subparagraph;
 
-&emsp;(D) sections 514, 515, and 516 of the Tariff Act of 1930 (19 U.S.C. 1514, 1515, and 1516) insofar as they relate toany protest, petition, or notice of desire to contest described in section 1002(b)(1) of the Trade Agreements Act of 1979 \[19 U.S.C. 1516a note\];
+&emsp;(D) sections 514, 515, and 516 of the Tariff Act of 1930 (19 U.S.C. 1514, 1515, and 1516) insofar as they relate to any protest, petition, or notice of desire to contest described in section 1002(b)(1) of the Trade Agreements Act of 1979 \[19 U.S.C. 1516a note\];
 
 &emsp;(E) with respect to the functions transferred by subparagraph (C) of this paragraph, section 318 of the Tariff Act of 1930 (19 U.S.C. 1318), to be exercised in consultation with the Secretary of the Treasury;
 
@@ -522,7 +528,7 @@ In performing these functions, the Trade Representative will act as the principa
 
 #### the department of commerce
 
-The Department of Commerce, under this proposal, will become the focal point of operational responsibilities in the non-agricultural trade area. My reorganization plan will transfer to the Commerce Department important responsibilities for administration of countervailing and antidumping matters, foreign commercial representation, and MTN implementation support. Consolidating these trade functions in the Department of Commerce builds upon an agency with extensivetrade experience. The Department will retain its operational responsibilities in such areas as export controls, East-West trade, trade adjustment assistance to firms and communities, trade policy analysis, and monitoring foreign compliance with trade agreements. The Department will be substantially reorganized to consolidate and reshape its trade functions under an Under Secretary for International Trade.
+The Department of Commerce, under this proposal, will become the focal point of operational responsibilities in the non-agricultural trade area. My reorganization plan will transfer to the Commerce Department important responsibilities for administration of countervailing and antidumping matters, foreign commercial representation, and MTN implementation support. Consolidating these trade functions in the Department of Commerce builds upon an agency with extensive trade experience. The Department will retain its operational responsibilities in such areas as export controls, East-West trade, trade adjustment assistance to firms and communities, trade policy analysis, and monitoring foreign compliance with trade agreements. The Department will be substantially reorganized to consolidate and reshape its trade functions under an Under Secretary for International Trade.
 
 With this reorganization, trade functions will be strengthened within the Department of Commerce, and such related efforts in the Department as improvement of industrial innovation and the productivity, encouraging local and regional economic development, and sectoral analysis, will be closely linked to an aggressive trade program. Fostering the international competitiveness of American industry will become the principal mission of the Department of Commerce.
 
@@ -568,7 +574,7 @@ Commerce will also expand its traditional trade policy focus on industrial issue
 
 After an investigation lasting over a year, I have found that this reorganization is necessary to carry out the policy set forth in section 901(a) of title 5 of the United States Code. As described above, this reorganization will increase significantly our ability to implement the MTN agreements efficiently and effectively and will improve greatly the services of the government with regard to export development. These improvements will be achieved with no increase in personnel or expenditures, except for an annual expense of about $300,000 for the salaries and clerical support of the three additional senior Commerce Department officials and a non-recurring expense of approximately $600,000 in connection with the transfers of functions provided in the plan. I find that the reorganization made by this plan makes necessary the provisions for the appointment and pay of a Deputy Secretary, an Under Secretary for International Trade, and two additional Assistant Secretaries of the Department of Commerce, and additional members of the Boards of Directors of the Export-Import Bank and the Overseas Private Investment Corporation \[now the United States International Development Finance Corporation\].
 
-It is indeed appropriate that this proposal follows so soon after the overwhelming approval by the Congress of the Trade Agreements Act of 1979 \[19 U.S.C. 2501 etseq.\], for it will sharpen and unify trade policy direction, improve the efficiency of trade law enforcement, and enable us to negotiate abroad from a position of strength. The extensive discussions between Administration officials and the Congress on this plan have been a model of the kind of cooperation that can exist between the two branches. I look forward to our further cooperation in successfully implementing both this reorganization proposal and the MTN agreements.
+It is indeed appropriate that this proposal follows so soon after the overwhelming approval by the Congress of the Trade Agreements Act of 1979 \[19 U.S.C. 2501 et seq.\], for it will sharpen and unify trade policy direction, improve the efficiency of trade law enforcement, and enable us to negotiate abroad from a position of strength. The extensive discussions between Administration officials and the Congress on this plan have been a model of the kind of cooperation that can exist between the two branches. I look forward to our further cooperation in successfully implementing both this reorganization proposal and the MTN agreements.
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -726,7 +732,7 @@ Sec. 1–107. <i>Effective Dates.</i>
 
 Ex. Ord. No. 13601, Feb. 28, 2012, 77 F.R. 12981, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to advance U.S. foreign policy and protect the national and economic security of the United States through strengthened and coordinated enforcement of U.S. trade rights under international trade agreements and enforcement of domestic trade laws, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to advance U.S. foreign policy and protect the national and economic security of the United States through strengthened and coordinatedenforcement of U.S. trade rights under international trade agreements and enforcement of domestic trade laws, it is hereby ordered as follows:
 
 Section 1. <i>Policy</i>. Robust monitoring and enforcement of U.S. rights under international trade agreements, and enforcement of domestic trade laws, are crucial to expanding exports and ensuring U.S. workers, businesses, ranchers, and farmers are able to compete on a level playing field with foreign trade partners. To strengthen our capacity to monitor and enforce U.S. trade rights and domestic trade laws, and thereby enhance market access for U.S. exporters, executive departments and agencies (agencies) must coordinate and augment their efforts to identify and reduce or eliminate foreign trade barriers and unfair foreign trade practices to ensure that U.S. workers, businesses, ranchers, and farmers receive the maximum benefit from our international trade agreements and under domestic trade laws.
 
@@ -798,7 +804,7 @@ Section 1. <i>Policy</i>. The World Trade Organization (WTO) was created to spur
 
 When the wealthiest economies claim developing-country status, they harm not only other developed economies but also economies that truly require special and differential treatment. Such disregard for adherence to WTO rules, including the likely disregard of any future rules, cannot continue to go unchecked.
 
-China most dramatically illustrates the point. Since joining the WTO in 2001, China has continued to insist that it is a developing country and thus has the right to avail itself of flexibilities under any new WTO rules. The United States has never accepted China's claim to developing-country status, and virtually every current economic indicator belies China's claim. After years ofexplosive growth, China has the second largest Gross Domestic Product in the world, behind only the United States. China accounts for nearly 13 percent of total global exports of goods, while its global share of such exports jumped five-fold between 1995 and 2017. It has been the largest global exporter of goods each year since 2009. Further, China's preeminent status in exports is not limited to goods from low-wage manufacturing sectors. China currently ranks first in the world for exports of high-technology products, with such exports alone increasing by 3,800 percent between 1995 and 2016.
+China most dramatically illustrates the point. Since joining the WTO in 2001, China has continued to insistthat it is a developing country and thus has the right to avail itself of flexibilities under any new WTO rules. The United States has never accepted China's claim to developing-country status, and virtually every current economic indicator belies China's claim. After years of explosive growth, China has the second largest Gross Domestic Product in the world, behind only the United States. China accounts for nearly 13 percent of total global exports of goods, while its global share of such exports jumped five-fold between 1995 and 2017. It has been the largest global exporter of goods each year since 2009. Further, China's preeminent status in exports is not limited to goods from low-wage manufacturing sectors. China currently ranks first in the world for exports of high-technology products, with such exports alone increasing by 3,800 percent between 1995 and 2016.
 
 Other economic figures tell a similar story. Valued at nearly $1.5 trillion, China's outbound foreign direct investment (FDI) exceeds that of 32 of 36 OECD countries, while its inbound FDI of nearly $2.9 trillion exceeds all but one OECD country. China is home to 120 of the world's 500 largest companies, and its defense expenditures and total number of satellites in space are second only to those of the United States.
 

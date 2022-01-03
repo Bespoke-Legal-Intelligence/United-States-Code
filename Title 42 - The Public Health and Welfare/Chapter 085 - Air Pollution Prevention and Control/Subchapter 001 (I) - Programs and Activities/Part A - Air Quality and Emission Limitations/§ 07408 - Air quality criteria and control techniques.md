@@ -22,7 +22,7 @@
 
 (1) Simultaneously with the issuance of criteria under subsection (a), the Administrator shall, after consultation with appropriate advisory committees and Federal departments and agencies, issue to the States and appropriate air pollution control agencies information on air pollution control techniques, which information shall include data relating to the cost of installation and operation, energy requirements, emission reduction benefits, and environmental impact of the emission control technology. Such information shall include such data as are available on available technology and alternative methods of prevention and control of air pollution. Such information shall also include data on alternative fuels, processes, and operating methods which will result in elimination or significant reduction of emissions.
 
-(2) In order to assist in the development of information on pollution control techniques, the Administrator may establish a standing consulting committee for each air pollutant included in a list published pursuant to subsection (a)(1), which shall be comprised of technically qualified individuals representative of State and local governments, industry, and the academic community. Each such committee shall submit, as appropriate, to the Administrator information related to that required by paragraph (1).
+(2) In order to assist in the development of information on pollution control techniques, theAdministrator may establish a standing consulting committee for each air pollutant included in a list published pursuant to subsection (a)(1), which shall be comprised of technically qualified individuals representative of State and local governments, industry, and the academic community. Each such committee shall submit, as appropriate, to the Administrator information related to that required by paragraph (1).
 
 #### (c) Review, modification, and reissuance of criteria or information
 
@@ -108,6 +108,8 @@ The Administrator shall make information regarding emission control technology a
 
 (July 14, 1955, ch. 360, title I, §108, as added Pub. L. 91–604, §4(a), Dec. 31, 1970, 84 Stat. 1678; amended Pub. L. 95–95, title I, §§104, 105, title IV, §401(a), Aug. 7, 1977, 91 Stat. 689, 790; Pub. L. 101–549, title I, §§108(a)–(c), (o), 111, Nov. 15, 1990, 104 Stat. 2465, 2466, 2469, 2470; Pub. L. 105–362, title XV, §1501(b), Nov. 10, 1998, 112 Stat. 3294.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 November 15, 1990, referred to in subsec. (e), was in the original "enactment of the Clean Air Act Amendments of 1989", and was translated as meaning the date of the enactment of Pub. L. 101–549, popularly known as the Clean Air Act Amendments of 1990, to reflect the probable intent of Congress.
@@ -141,6 +143,8 @@ Subsec. (b)(1). Pub. L. 95–95, §104(a), substituted "cost of installation and
 Subsec. (c). Pub. L. 95–95, §104(b), inserted provision directing the Administrator, not later than six months after Aug. 7, 1977, to revise and reissue criteria relating to concentrations of NO<b>2</b> over such period (not more than three hours) as he deems appropriate, with the criteria to include a discussion of nitric and nitrous acids, nitrites, nitrates, nitrosamines, and other carcinogenic and potentially carcinogenic derivatives of oxides of nitrogen.
 
 Subsecs. (e), (f). Pub. L. 95–95, §105, added subsecs. (e) and (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1977 Amendment
 

@@ -82,11 +82,13 @@ The Secretary shall provide biennial reports to the Committee on Agriculture of 
 
 &emsp;Activities under the BARD Fund to promote and support agricultural research and development that are of mutual benefit to the United States and Israel shall—
 
-&emsp;&emsp;(A) accelerate the demonstration, development, and application of agricultural solutions resulting from or relating to BARD Fund programs, including BARD Fund-sponsored research and innovations in drip irrigation, pesticides, aquaculture, livestock, poultry, disease control, and farm equipment; and
+&emsp;&emsp;(A) accelerate the demonstration, development, and application of agricultural solutions resulting from or relating to BARDFund programs, including BARD Fund-sponsored research and innovations in drip irrigation, pesticides, aquaculture, livestock, poultry, disease control, and farm equipment; and
 
 &emsp;&emsp;(B) encourage research carried out by governmental, nongovernmental, and private entities, including through collaboration with colleges and universities, research institutions, and the private sector.
 
 (Pub. L. 95–113, title XIV, §1458, Sept. 29, 1977, 91 Stat. 1015; Pub. L. 97–98, title XIV, §1436, Dec. 22, 1981, 95 Stat. 1313; Pub. L. 99–198, title XIV, §1418, Dec. 23, 1985, 99 Stat. 1550; Pub. L. 101–624, title XVI, §1613(a), (b), (d)(1), Nov. 28, 1990, 104 Stat. 3724, 3726; Pub. L. 102–237, title IV, §402(11), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–127, title VIII, §816, Apr. 4, 1996, 110 Stat. 1167; Pub. L. 105–185, title II, §227(a)–(d), June 23, 1998, 112 Stat. 543–545; Pub. L. 107–171, title VII, §7209(c), May 13, 2002, 116 Stat. 445; Pub. L. 110–234, title VII, §§7130, 7511(c)(10)(B), May 22, 2008, 122 Stat. 1227, 1268; Pub. L. 110–246, §4(a), title VII, §§7130, 7511(c)(10)(B), June 18, 2008, 122 Stat. 1664, 1988, 2029; Pub. L. 115–334, title VII, §7122, Dec. 20, 2018, 132 Stat. 4792.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -163,6 +165,8 @@ Subsec. (c). Pub. L. 101–624, §1613(b), (d)(1)(C), inserted heading and "and 
 Subsec. (a)(4). Pub. L. 99–198 inserted "through the development of highly qualified scientists with specialization in international development" after "countries".
 
 <b>1981</b>—Pub. L. 97–98 designated existing provisions as subsec. (a), inserted provisions authorizing Secretary to work with transitional countries as well as developed countries on agricultural research and extension and establishing that agricultural research includes food, agricultural, and related research, and added subsecs. (b) and (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

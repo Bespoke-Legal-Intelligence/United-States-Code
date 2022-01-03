@@ -6,7 +6,7 @@ The Secretary shall, during 1964, appoint an Advisory Council on Public Welfare 
 
 #### (b) Membership and representation of interests on initial Council
 
-The Council shall be appointed by the Secretary without regard to the provisions of title 5 governing appointments in the competitive service and shall consist of twelve persons who shall, to the extent possible, be representatives of employers and employees in equal numbers, representatives of State or Federal agencies concerned with the administration or financing of the public assistance and child welfare services programs, representatives of nonprofit private organizations concerned with social welfare programs, other persons with special knowledge, experience, or qualifications with respect to such programs, and members of the public.
+The Council shall be appointed by the Secretary without regard to the provisions of title5 governing appointments in the competitive service and shall consist of twelve persons who shall, to the extent possible, be representatives of employers and employees in equal numbers, representatives of State or Federal agencies concerned with the administration or financing of the public assistance and child welfare services programs, representatives of nonprofit private organizations concerned with social welfare programs, other persons with special knowledge, experience, or qualifications with respect to such programs, and members of the public.
 
 #### (c) Technical and other assistance for initial Council; availability of data
 
@@ -34,11 +34,13 @@ Members of the Council or of any advisory committee appointed under this section
 
 (2) The exemption granted by paragraph (1) shall not extend—
 
-&emsp;(A) to the receipt or payment of salary in connection with the appointee's Governmentservice from any source other than the employer of the appointee at the time of his appointment, or
+&emsp;(A) to the receipt or payment of salary in connection with the appointee's Government service from any source other than the employer of the appointee at the time of his appointment, or
 
 &emsp;(B) during the period of such appointment, to the prosecution or participation in the prosecution, by any person so appointed, of any claim against the Government involving any matter with which such person, during such period, is or was directly connected by reason of such appointment.
 
 (Aug. 14, 1935, ch. 531, title XI, §1114, as added Pub. L. 87–543, title I, §121, July 25, 1962, 76 Stat. 190; amended Pub. L. 90–248, title IV, §403(e), Jan. 2, 1968, 81 Stat. 932; Pub. L. 98–369, div. B, title VI, §2663(e)(4), (j)(2)(D)(iv), July 18, 1984, 98 Stat. 1168, 1170; Pub. L. 106–554, §1(a)(6) \[title V, §522(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–546; Pub. L. 108–173, title IX, §948(a)(1)(A), Dec. 8, 2003, 117 Stat. 2425.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -55,6 +57,8 @@ Subsec. (h)(1). Pub. L. 98–369, §2663(e)(4)(B), substituted "sections 203, 20
 <b>1968</b>—Subsecs. (b), (f). Pub. L. 90–248, §403(e)(1), (2), substituted "provisions of title 5, governing appointments in the competitive service" for "civil-service laws".
 
 Subsec. (g). Pub. L. 90–248, §403(e)(3), substituted "section 5703 of title 5" for "section 5 of the Administrative Expenses Act of 1946 (5 U.S.C. 73b–2)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

@@ -57,11 +57,15 @@
 | [6720\.](%C2%A7%2006720%20-%20Fraudulent%20acknowledgments%20with%20respect%20to%20donations%20of%20motor%20vehicles%2C%20boats%2C%20and%20airplanes.md) | Fraudulent acknowledgments with respect to donations of motor vehicles, boats, and airplanes. |
 | [6720A.](%C2%A7%2006720A%20-%20Penalty%20with%20respect%20to%20certain%20adulterated%20fuels.md) | Penalty with respect to certain adulterated fuels. |
 | [6720B.](%C2%A7%2006720B%20-%20Fraudulent%20identification%20of%20exempt%20use%20property.md) | Fraudulent identification of exempt use property. |
-| \[6720C. | Repealed.\] |
+| [6720C.](%C2%A7%2006720C%20-%20Penalty%20for%20failure%20to%20notify%20health%20plan%20of%20cessation%20of%20eligibility%20for%20continuation%20coverage%20premium%20assistance.md) | Penalty for failure to notify health plan of cessation of eligibility for continuation coverage premium assistance. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Pub. L. 117–2, title IX, §9501(b)(2)(B), Mar. 11, 2021, 135 Stat. 137, added item 6720C.
 
 <b>2018</b>—Pub. L. 115–141, div. U, title IV, §401(a)(306), (307), (d)(7)(B), Mar. 23, 2018, 132 Stat. 1199, 1212, substituted "Assessable penalties with respect to liability for tax under chapter 42" for "Repeated liability for tax under chapter 42" in item 6684 and "Failure to file returns or supply information by DISC or former FSC" for "Failure to file returns or supply information by DISC or FSC" in item 6686 and struck out item 6720C "Penalty for failure to notify health plan of cessation of eligibility for COBRA premium assistance".
 
@@ -71,7 +75,7 @@ Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300, amended a
 
 <b>2009</b>—Pub. L. 111–5, div. B, title III, §3001(a)(13)(B), Feb. 17, 2009, 123 Stat. 465, added item 6720C.
 
-<b>2007</b>—Pub. L. 110–142, §9(b), Dec. 20, 2007, 121 Stat. 1807, which directed amendment of the analysis for this part by adding item 6699 at the end, was executed by inserting item 6699 after item 6698, to reflect the probable intent of Congress.
+<b>2007</b>—Pub. L. 110–142, §9(b), Dec. 20, 2007, 121 Stat. 1807, which directed amendment of the analysis for thispart by adding item 6699 at the end, was executed by inserting item 6699 after item 6698, to reflect the probable intent of Congress.
 
 Pub. L. 110–28, title VIII, §§8246(a)(2)(F)(ii), (G)(iii), 8247(b), May 25, 2007, 121 Stat. 202, 204, added item 6676, substituted "tax return preparer" for "income tax return preparer" in item 6694, and struck out "income" before "tax returns" in item 6695.
 
@@ -224,4 +228,4 @@ Act Apr. 2, 1956, ch. 160, §4(g), 70 Stat. 91, added item 6675.
 - [&sect; 06720 - Fraudulent acknowledgments with respect to donations of motor vehicles, boats, and airplanes](%C2%A7%2006720%20-%20Fraudulent%20acknowledgments%20with%20respect%20to%20donations%20of%20motor%20vehicles%2C%20boats%2C%20and%20airplanes.md)
 - [&sect; 06720A - Penalty with respect to certain adulterated fuels](%C2%A7%2006720A%20-%20Penalty%20with%20respect%20to%20certain%20adulterated%20fuels.md)
 - [&sect; 06720B - Fraudulent identification of exempt use property](%C2%A7%2006720B%20-%20Fraudulent%20identification%20of%20exempt%20use%20property.md)
-- [&sect; 06720C - Repealed. Pub. L. 115&#8211;141, div. U, title IV, &sect;401(d)(7)(B), Mar. 23, 2018, 132 Stat. 1212](%C2%A7%2006720C%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93141%2C%20div.%20U%2C%20title%20IV%2C%20%C2%A7401%28d%29%287%29%28B%29%2C%20Mar.%2023%2C%202018%2C%20132%20Stat.%201212.md)
+- [&sect; 06720C - Penalty for failure to notify health plan of cessation of eligibility for continuation coverage premium assistance](%C2%A7%2006720C%20-%20Penalty%20for%20failure%20to%20notify%20health%20plan%20of%20cessation%20of%20eligibility%20for%20continuation%20coverage%20premium%20assistance.md)

@@ -22,6 +22,8 @@ The Congress finds the following:
 
 (Pub. L. 102–194, §2, Dec. 9, 1991, 105 Stat. 1594; Pub. L. 105–305, §2(b), Oct. 28, 1998, 112 Stat. 2919; Pub. L. 114–329, title I, §105(b), Jan. 6, 2017, 130 Stat. 2976.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Par. (2). Pub. L. 114–329, §105(b)(1), substituted "networking and information technology, including high-performance computing," for "high-performance computing".
@@ -33,6 +35,8 @@ Par. (5). Pub. L. 114–329, §105(b)(1), substituted "networking and informatio
 <b>1998</b>—Par. (4). Pub. L. 105–305, §2(b)(1), added par. (4) and struck out former par. (4) which read as follows: "A high-capacity and high-speed national research and education computer network would provide researchers and educators with access to computer and information resources and act as a test bed for further research and development of high-capacity and high-speed computer networks."
 
 Pars. (7) to (9). Pub. L. 105–305, §2(b)(2), added pars. (7) to (9).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2017 Amendment
 
@@ -96,6 +100,8 @@ Geographic penalty.—The term 'geographic penalty' means the imposition of cost
 
 Internet.—The term 'Internet' means the international computer network of both Federal and non-Federal interoperable packet switched data networks."
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 13702. Creating a National Strategic Computing Initiative
 
 Ex. Ord. No. 13702, July 29, 2015, 80 F.R. 46177, provided:
@@ -134,7 +140,7 @@ Sec. 3. <i>Roles and Responsibilities</i>. To achieve the five strategic objecti
 
 (a) <i>Lead Agencies</i>. There are three lead agencies for the NSCI: the Department of Energy (DOE), the Department of Defense (DOD), and the National Science Foundation (NSF). The DOE Office of Science and DOE National Nuclear Security Administration will execute a joint program focused on advanced simulation through a capable exascale computing program emphasizing sustained performance on relevant applications and analytic computing to support their missions. NSF will play a central role in scientific discovery advances, the broader HPC ecosystem for scientific discovery, and workforce development. DOD will focus on data analytic computing to support its mission. The assignment of these responsibilities reflects the historical roles that each of the lead agencies have played in pushing the frontiers of HPC, and will keep the Nation on the forefront of this strategically important field. The lead agencies will also work with the foundational research and development agencies and the deployment agencies to support the objectives of the NSCI and address the wide variety of needs across the Federal Government.
 
-(b) <i>Foundational Research and Development Agencies</i>. There are two foundational research and development agencies for the NSCI: the Intelligence Advanced Research Projects Activity (IARPA) and the National Institute of Standards and Technology (NIST). IARPA will focus on future computing paradigms offering an alternative to standard semiconductor computing technologies. NIST will focus on measurement science to support future computing technologies. The foundational research and development agencies will coordinate with deployment agencies to enable effective transition of research and development efforts that support the wide variety of requirements across the Federal Government.
+(b) <i>Foundational Research and Development Agencies</i>. There are two foundational research and development agencies for the NSCI: the Intelligence Advanced Research Projects Activity (IARPA) and the National Institute of Standards and Technology (NIST). IARPA will focus on future computing paradigms offering an alternative to standard semiconductor computing technologies. NIST will focus on measurement science to support future computing technologies. The foundational research and development agencies will coordinate with deployment agencies to enable effective transition of research and development efforts thatsupport the wide variety of requirements across the Federal Government.
 
 (c) <i>Deployment Agencies</i>. There are five deployment agencies for the NSCI: the National Aeronautics and Space Administration, the Federal Bureau of Investigation, the National Institutes of Health, the Department of Homeland Security, and the National Oceanic and Atmospheric Administration. These agencies may participate in the co-design process to integrate the special requirements of their respective missions and influence the early stages of design of new HPC systems, software, and applications. Agencies will also have the opportunity to participate in testing, supporting workforce development activities, and ensuring effective deployment within their mission contexts.
 

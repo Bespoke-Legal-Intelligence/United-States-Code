@@ -22,6 +22,8 @@ It shall be unlawful for any packer or swine contractor with respect to livestoc
 
 <i>For termination of amendment by section 942 of Pub. L. 106–78, see Termination Date of 1999 Amendment note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Pub. L. 107–171, §10502(b)(1), substituted "packer or swine contractor" for "packer" in introductory provisions.
@@ -42,9 +44,11 @@ Par. (c). Pub. L. 100–173, §3(2), struck out reference to poultry handlers wh
 
 <b>1935</b>—Act Aug. 15, 1921, title V, §503, as added Aug. 14, 1935, inserted "or any live poultry dealer or handler" after "packer" wherever appearing.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Termination Date of 1999 Amendment
 
-Amendment by Pub. L. 106–78 to terminate Sept. 30, 2020, see section 942 of Pub. L. 106–78, set out in a Livestock Mandatory Reporting note under section 1635 of this title. Section 942 of Pub. L. 106–78 to be applied by substituting "September 30, 2021" for "September 30, 2020", see section 401 of div. O of Pub. L. 116–260, set out as a Mandatory Livestock Reporting Extension note under section 1636i of this title.
+Amendment by Pub. L. 106–78 to terminate Sept. 30, 2020, see section 942 of Pub. L. 106–78, set out in a Livestock Mandatory Reporting note under section 1635 of this title. Section 942 of Pub. L. 106–78 to be applied by substituting "September 30, 2021" for "September 30, 2020", see section 401 of Pub. L. 116–260, set out as a Mandatory Livestock Reporting Extension note under section 1636i of this title.
 
 #### Effective Date of 1987 Amendment
 

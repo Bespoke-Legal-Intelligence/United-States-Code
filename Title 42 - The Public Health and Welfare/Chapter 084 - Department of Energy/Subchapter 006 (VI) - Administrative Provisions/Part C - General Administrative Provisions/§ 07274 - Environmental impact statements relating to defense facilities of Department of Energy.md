@@ -10,9 +10,13 @@
 
 (Pub. L. 97–90, title II, §212(b), Dec. 4, 1981, 95 Stat. 1171.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
-Section was enacted as part of the Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1982, and not as part of the Department of Energy Organization Act which comprises this chapter.
+Section was enacted as part of the Department of Energy National Security and Military Applications ofNuclear Energy Authorization Act of 1982, and not as part of the Department of Energy Organization Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### National Environmental Policy Act Compliance Report Requirement
 

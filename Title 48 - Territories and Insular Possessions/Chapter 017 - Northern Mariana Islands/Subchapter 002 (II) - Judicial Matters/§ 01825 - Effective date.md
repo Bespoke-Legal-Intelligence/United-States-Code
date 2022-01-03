@@ -4,9 +4,13 @@ This subchapter shall come into force upon its approval or at the time proclaime
 
 (Pub. L. 95–157, §5, Nov. 8, 1977, 91 Stat. 1267.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 1694d of this title.
+
+#### <b>Executive Documents</b>
 
 #### Effective Date of Constitution
 

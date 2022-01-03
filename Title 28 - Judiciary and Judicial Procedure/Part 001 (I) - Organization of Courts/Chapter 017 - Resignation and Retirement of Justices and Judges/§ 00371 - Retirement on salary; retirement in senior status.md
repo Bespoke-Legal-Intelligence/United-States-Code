@@ -119,7 +119,7 @@ Calendar year 1990.—In the case of certifications required by section 371(f) o
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–702, title X, §1005(b), Nov. 19, 1988, 102 Stat. 4666, provided that: "The amendment made bythis section \[amending this section\] shall apply to a justice or judge who retires, or has retired, from the judicial office or from regular active service (into senior status) as such justice or judge of the United States on or after the effective date of section 5532(c) of title 5 \[effective 90 days after Oct. 13, 1978, see Effective Date of 1978 Amendment note under section 1101 of Title 5, Government Organization and Employees\], and to whom section 5532(c) would otherwise be applicable."
+Pub. L. 100–702, title X, §1005(b), Nov. 19, 1988, 102 Stat. 4666, provided that: "The amendment made by this section \[amending this section\] shall apply to a justice or judge who retires, or has retired, from the judicial office or from regular active service (into senior status) as such justice or judge of the United States on or after the effective date of section 5532(c) of title 5 \[effective 90 days after Oct. 13, 1978, see Effective Date of 1978 Amendment note under section 1101 of Title 5, Government Organization and Employees\], and to whom section 5532(c) would otherwise be applicable."
 
 #### Effective Date of 1984 Amendment
 

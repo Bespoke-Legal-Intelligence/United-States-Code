@@ -56,5 +56,5 @@ Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit I
 
 #### Moratorium on Examination Fees Under This Chapter
 
-Pub. L. 103–328, title I, §115(b), Sept. 29, 1994, 108 Stat. 2368, provided that: "The provision of section 10(c) of the International Banking Act of 1978 \[12 U.S.C. 3107(c)\] relating to the cost of examinations under such section shall not apply with respect to any examination under such section which begins before or during the 3-year period beginning on July 25, 1994."
+Pub. L. 103–328, title I, §115(b), Sept. 29, 1994, 108 Stat. 2368, provided that: "The provision of section 10(c) ofthe International Banking Act of 1978 \[12 U.S.C. 3107(c)\] relating to the cost of examinations under such section shall not apply with respect to any examination under such section which begins before or during the 3-year period beginning on July 25, 1994."
 

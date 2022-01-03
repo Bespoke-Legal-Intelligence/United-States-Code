@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, acting through the Director of the Centers for Disease Control and Prevention,shall establish fellowship and training programs to be conducted by the Centers for Disease Control and Prevention to train individuals to develop skills in epidemiology, surveillance, testing, counseling, education, information, and laboratory analysis relating to acquired immune deficiency syndrome. Such programs shall be designed to enable health professionals and health personnel trained under such programs to work, after receiving such training, in national and international efforts toward the prevention, diagnosis, and treatment of acquired immune deficiency syndrome.
+The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall establish fellowship and training programs to be conducted by the Centers for Disease Control and Prevention to train individuals to develop skills in epidemiology, surveillance, testing, counseling, education, information, and laboratory analysis relating to acquired immune deficiency syndrome. Such programs shall be designed to enable health professionals and health personnel trained under such programs to work, after receiving such training, in national and international efforts toward the prevention, diagnosis, and treatment of acquired immune deficiency syndrome.
 
 #### (b) Programs conducted by National Institute of Mental Health
 
@@ -18,6 +18,8 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 (July 1, 1944, ch. 373, title XXIII, §2341, as added Pub. L. 100–607, title II, §201(4), Nov. 4, 1988, 102 Stat. 3076; amended Pub. L. 100–690, title II, §2617(e), Nov. 18, 1988, 102 Stat. 4240; Pub. L. 102–531, title III, §312(d)(21), Oct. 27, 1992, 106 Stat. 3505; Pub. L. 103–43, title XVIII, §1811(7), June 10, 1993, 107 Stat. 200.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1993</b>—Subsec. (d). Pub. L. 103–43 substituted "fiscal year" for "of the fiscal years 1989 through 1991".
@@ -25,6 +27,8 @@ For the purpose of carrying out this section, there are authorized to be appropr
 <b>1992</b>—Subsec. (a). Pub. L. 102–531, which directed the substitution of "Centers for Disease Control and Prevention" for "Centers for Disease Control", was executed by making the substitution in two places to reflect the probable intent of Congress.
 
 <b>1988</b>—Subsec. (c). Pub. L. 100–690 substituted "date of the enactment of the AIDS Amendments of 1988" for "date of the enactment of the AIDS Federal Policy Act of 1988" which for purposes of codification was translated as "November 4, 1988".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

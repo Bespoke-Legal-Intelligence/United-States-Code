@@ -16,6 +16,8 @@ In General.—So much of subparagraph (A) of section 50B(h)(1) of the Internal R
 
 Effective Date.—The amendment made by subsection (a) shall apply for purposes of credits first claimed after March 11, 1987."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of Repeal
 
 Repeal applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as an Effective Date of 1984 Amendment note under section 21 of this title.

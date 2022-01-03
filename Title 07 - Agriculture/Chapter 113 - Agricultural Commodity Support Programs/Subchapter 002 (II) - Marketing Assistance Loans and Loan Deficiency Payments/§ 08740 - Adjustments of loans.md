@@ -40,7 +40,7 @@ The adjustments under subsection (a) shall, to the maximum extent practicable, b
 
 &emsp;&emsp;&emsp;(iii) the elimination of any artificial split in the premium or discount between upland cotton with a 32 or 33 staple length due to micronaire; and
 
-&emsp;&emsp;&emsp;(iv) a mechanism to ensure that no premium or discount is established that exceeds the premium or discount associated with a leaf grade that is 1 better than the applicable color grade.
+&emsp;&emsp;&emsp;(iv) a mechanism to ensure that no premium or discount is established that exceeds the premium or discount associatedwith a leaf grade that is 1 better than the applicable color grade.
 
 #### (C) Discretionary revisions
 
@@ -72,9 +72,11 @@ The adjustments under subsection (a) shall, to the maximum extent practicable, b
 
 #### (e) Rice
 
-The Secretary shall not make adjustments in the loan rates for long grain rice and mediumgrain rice, except for differences in grade and quality (including milling yields).
+The Secretary shall not make adjustments in the loan rates for long grain rice and medium grain rice, except for differences in grade and quality (including milling yields).
 
 (Pub. L. 110–234, title I, §1210, May 22, 2008, 122 Stat. 965; Pub. L. 110–246, §4(a), title I, §1210, June 18, 2008, 122 Stat. 1664, 1693.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -87,6 +89,8 @@ The Federal Advisory Committee Act, referred to in subsec. (d)(3)(B), is Pub. L.
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

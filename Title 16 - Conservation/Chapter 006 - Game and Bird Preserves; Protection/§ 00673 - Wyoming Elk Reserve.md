@@ -4,6 +4,8 @@ There is established a winter game (elk) reserve in the State of Wyoming, which 
 
 (Aug. 10, 1912, ch. 284, 37 Stat. 293; Mar. 4, 1913, ch. 145, §1 (part), 37 Stat. 847; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is a combination provision, the first sentence being from act Aug. 10, 1912, and the last from act Mar. 4, 1913.
@@ -12,7 +14,9 @@ As originally enacted, the first sentence was in the form of an appropriation fo
 
 Res. Feb. 25, 1927, ch. 205, 44 Stat. 1246, authorized the acceptance of title to certain lands in accordance with this section.
 
+#### <b>Executive Documents</b>
+
 #### Transfer of Functions
 
-Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939, see Transfer of Functions note set out under section 671 of this title.
+Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, transferred functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds to Secretary of the Interior.
 

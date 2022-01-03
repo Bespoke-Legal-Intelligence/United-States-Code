@@ -60,7 +60,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (3) Investments in financial subsidiaries
 
-&emsp;For purposes of this section, investments in financial subsidiaries that insured depository institutions are required to deduct from regulatory capital under section 24a of this title or section 1831w(a)(2) of this title need not be deducted from regulatory capital by depository institution holding companies or nonbank financial companies supervised by the Board of Governors, unless such capital deduction is required by the Board of Governors or the primary financial regulatory agency in the case of nonbank financial companies supervised by the Board of Governors.
+&emsp;For purposes of this section, investments in financial subsidiaries that insured depository institutions are required to deduct from regulatory capital under section 24a of this title or section 1831w(a)(2) of this title need not be deducted from regulatory capital by depository institution holding companies or nonbank financial companies supervised by the Board ofGovernors, unless such capital deduction is required by the Board of Governors or the primary financial regulatory agency in the case of nonbank financial companies supervised by the Board of Governors.
 
 #### (4) Effective dates and phase-in periods
 
@@ -132,7 +132,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (2) Rule of construction on Board's authority
 
-&emsp;This subsection shall not be construed to prohibit, modify, limit, or otherwise supersedeany other provision of Federal law that provides the Board of Governors authority to issue regulations and orders relating to capital requirements for depository institution holding companies or nonbank financial companies supervised by the Board of Governors.
+&emsp;This subsection shall not be construed to prohibit, modify, limit, or otherwise supersede any other provision of Federal law that provides the Board of Governors authority to issue regulations and orders relating to capital requirements for depository institution holding companies or nonbank financial companies supervised by the Board of Governors.
 
 #### (3) Rule of construction on accounting principles
 
@@ -194,7 +194,7 @@ Asset threshold.—The term 'qualifying community bank' means a depository insti
 
 &emsp;&emsp;"(B)
 
-Risk profile.—The appropriate Federal banking agencies may determine that a depository institution or depository institution holding company (or a class of depository institutions or depository institution holding companies) described in subparagraph (A) is not a qualifying community bank based on the depository institution's or depository institution holding company's risk profile, which shall be based on consideration of—
+Risk profile.—The appropriate Federal banking agencies may determine that a depositoryinstitution or depository institution holding company (or a class of depository institutions or depository institution holding companies) described in subparagraph (A) is not a qualifying community bank based on the depository institution's or depository institution holding company's risk profile, which shall be based on consideration of—
 
 &emsp;&emsp;&emsp;"(i) off-balance sheet exposures;
 

@@ -38,6 +38,8 @@ Mar. 4, 1921, ch. 166, §2, 41 Stat. 1438.
 
 In subsection (a), the words "Any which were used during their service by such organizations and" are omitted as surplusage. The first 15 words of the last sentence are substituted for 5:202 (1st 45 words of 2d sentence).
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior sections 7571 to 7573 were renumbered sections 8771 to 8773 of this title, respectively.
@@ -59,6 +61,8 @@ Prior sections 7579 to 7582 were renumbered sections 8779 to 8782 of this title,
 <b>2018</b>—Pub. L. 115–232 renumbered section 4565 of this title as this section.
 
 <b>1966</b>—Subsec. (a). Pub. L. 89–718 substituted the Secretary of the Army for the Quartermaster General as the officer to accept delivery of colors, standards, and guidons of demobilized organizations of the Army which cannot be disposed of under clauses (1) and (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

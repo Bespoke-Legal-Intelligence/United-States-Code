@@ -72,6 +72,8 @@ Definitions.—In this section:
 
 (Added Pub. L. 103–160, div. A, title I, §158(a)(1), Nov. 30, 1993, 107 Stat. 1581, §4543; amended Pub. L. 103–337, div. A, title I, §141, Oct. 5, 1994, 108 Stat. 2688; renumbered §7543, Pub. L. 115–232, div. A, title VIII, §808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 7543 was renumbered section 8763 of this title.
@@ -81,6 +83,8 @@ A prior section 7543 was renumbered section 8763 of this title.
 <b>2018</b>—Pub. L. 115–232 renumbered section 4543 of this title as this section.
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–337 struck out "nondefense-related commercial" after "sell manufactured" in introductory provisions and added pars. (5) to (9).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

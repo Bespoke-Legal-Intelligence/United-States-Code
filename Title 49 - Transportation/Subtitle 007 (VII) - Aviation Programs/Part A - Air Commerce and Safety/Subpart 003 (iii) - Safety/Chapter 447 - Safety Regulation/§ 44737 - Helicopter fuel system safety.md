@@ -34,6 +34,8 @@ Rule of Construction.—Nothing in this section may be construed to affect the o
 
 (Added Pub. L. 115–254, div. B, title III, §317(a), Oct. 5, 2018, 132 Stat. 3268.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this section, referred to in text, is the date of enactment of Pub. L. 115–254, which was approved Oct. 5, 2018.

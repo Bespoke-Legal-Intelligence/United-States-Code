@@ -30,9 +30,9 @@ A taxpayer shall be allowed an additional credit under section 3302(b) with resp
 
 #### (b) Certification by the Secretary of Labor with respect to additional credit allowance
 
-(1) On October 31 of each calendar year, the Secretary of Labor shall certify to the Secretary of the Treasury the law of each State (certified by the Secretary of Labor as provided in section 3304 for the 12-month period ending on such October 31), with respect to which he finds that reduced rates of contributions were allowable withrespect to such 12-month period only in accordance with the provisions of subsection (a).
+(1) On October 31 of each calendar year, the Secretary of Labor shall certify to the Secretary of the Treasury the law of each State (certified by the Secretary of Labor as provided in section 3304 for the 12-month period ending on such October 31), with respect to which he finds that reduced rates of contributions were allowable with respect to such 12-month period only in accordance with the provisions of subsection (a).
 
-(2) If the Secretary of Labor finds that under the law of a single State (certified by the Secretary of Labor as provided in section 3304) more than one type of fund or account is maintained, and reduced rates of contributions to more than one type of fund or account were allowable with respect to any 12-month period ending on October 31, and one or more of such reduced rates were allowable under conditions not fulfilling the requirements of subsection (a), the Secretary of Labor shall, on such October 31, certify to the Secretary of the Treasury only those provisions of the State law pursuant to which reduced rates of contributions were allowable with respect to such 12-month period under conditions fulfilling the requirements of subsection (a), and shall, in connection therewith, designate the kind of fund or account, as defined in subsection (c), established by the provisions so certified. If the Secretary of Labor finds that a part of any reduced rate of contributions payable under such law or under such provisions is required to be paid into one fund or account and a part into another fund or account, the Secretary of Labor shall make such certification pursuant to this paragraph as he finds will assure the allowance of additional credits only with respect to that part of the reduced rate of contributions which is allowed under provisions which do fulfill the requirements of subsection (a).
+(2) If the Secretary of Labor finds that under the law of a single State (certified by the Secretary of Labor as provided in section 3304) more than one type of fund or account is maintained, and reduced rates of contributions to more thanone type of fund or account were allowable with respect to any 12-month period ending on October 31, and one or more of such reduced rates were allowable under conditions not fulfilling the requirements of subsection (a), the Secretary of Labor shall, on such October 31, certify to the Secretary of the Treasury only those provisions of the State law pursuant to which reduced rates of contributions were allowable with respect to such 12-month period under conditions fulfilling the requirements of subsection (a), and shall, in connection therewith, designate the kind of fund or account, as defined in subsection (c), established by the provisions so certified. If the Secretary of Labor finds that a part of any reduced rate of contributions payable under such law or under such provisions is required to be paid into one fund or account and a part into another fund or account, the Secretary of Labor shall make such certification pursuant to this paragraph as he finds will assure the allowance of additional credits only with respect to that part of the reduced rate of contributions which is allowed under provisions which do fulfill the requirements of subsection (a).
 
 (3) The Secretary of Labor shall, within 30 days after any State law is submitted to him for such purpose, certify to the State agency his findings with respect to reduced rates of contributions to a type of fund or account, as defined in subsection (c), which are allowable under such State law only in accordance with the provisions of subsection (a). After making such findings, the Secretary of Labor shall not withhold his certification to the Secretary of the Treasury of such State law, or of the provisions thereof with respect to which such findings were made, for any 12-month period ending on October 31 pursuant to paragraph (1) or (2) unless, after reasonable notice and opportunity for hearing to the State agency, the Secretary of Labor finds the State law no longer contains the provisions specified in subsection (a) or the State has, with respect to such 12-month period, failed to comply substantially with any such provision.
 
@@ -66,7 +66,7 @@ As used in this section—
 
 #### (6) Balance
 
-&emsp;The term "balance", with respect to a reserve account or a guaranteed employment account, means the amount standing to the credit of the account as of the computation date; except that, if subsequent to January 1, 1940,any moneys have been paid into or credited to such account other than payments thereto by persons having individuals in their employ, such term shall mean the amount in such account as of the computation date less the total of such other moneys paid into or credited to such account subsequent to January 1, 1940.
+&emsp;The term "balance", with respect to a reserve account or a guaranteed employment account, means the amount standing to the credit of the account as of the computation date; except that, if subsequent to January 1, 1940, any moneys have been paid into or credited to such account other than payments thereto by persons having individuals in their employ, such term shall mean the amount in such account as of the computation date less the total of such other moneys paid into or credited to such account subsequent to January 1, 1940.
 
 #### (7) Computation date
 
@@ -100,6 +100,8 @@ A State may, without being deemed to violate the standards set forth in subsecti
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 440; Sept. 1, 1954, ch. 1212, §2, 68 Stat. 1130; Pub. L. 91–373, title I, §§104(c), 122(a), 142(c)–(e), Aug. 10, 1970, 84 Stat. 699, 702, 707; Pub. L. 94–455, title XIX, §§1903(a)(13), 1906(b)(13)(C), Oct. 4, 1976, 90 Stat. 1809, 1834; Pub. L. 94–566, title I, §122(a), (b), Oct. 20, 1976, 90 Stat. 2675, 2676; Pub. L. 112–40, title II, §252(a), Oct. 21, 2011, 125 Stat. 421; Pub. L. 113–295, div. B, title II, §206(c)(2), Dec. 19, 2014, 128 Stat. 4070.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Subsec. (a). Pub. L. 113–295, §206(c)(2)(B), substituted "paragraphs (1), (2), (3), and (4)" for "paragraphs (1), (2), and (3)" and "paragraph (1), (2), (3), or (4)" for "paragraph (1), (2), or (3)" in concluding provisions.
@@ -122,6 +124,8 @@ Subsecs. (e), (f). Pub. L. 91–373, §104(c), added subsecs. (e) and (f).
 
 <b>1954</b>—Subsec. (a). Act Sept. 1, 1954, inserted sentence relating to reduced rates for new employers.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2014 Amendment
 
 Amendment by Pub. L. 113–295 applicable with respect to wages for services performed on or after January 1 of the first calendar year beginning more than 12 months after Dec. 19, 2014, see section 206(g)(1) of Pub. L. 113–295, set out as a note under section 3302 of this title.
@@ -142,7 +146,7 @@ Authority.—A State may amend its State law to apply such amendments to erroneo
 
 Pub. L. 94–566, title I, §122(c), Oct. 20, 1976, 90 Stat. 2676, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 20, 1976\]. The amendment made by subsection (b) \[amending this section\] shall take effect on January 1, 1970."
 
-Amendment by section 1903(a)(13) of Pub. L. 94–455 applicable with respect to wages paid after Dec. 31, 1976,see section 1903(d) of Pub. L. 94–455, set out as a note under section 3101 of this title.
+Amendment by section 1903(a)(13) of Pub. L. 94–455 applicable with respect to wages paid after Dec. 31, 1976, see section 1903(d) of Pub. L. 94–455, set out as a note under section 3101 of this title.
 
 #### Effective Date of 1970 Amendment
 

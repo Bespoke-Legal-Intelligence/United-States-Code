@@ -16,7 +16,7 @@ Within five days after the initial communication with a consumer in connection w
 
 #### (b) Disputed debts
 
-If the consumer notifies the debt collector in writing within the thirty-day period described in subsection (a) that the debt, or any portion thereof, is disputed, or that the consumer requests the name and address of the original creditor, the debt collector shall cease collection of the debt, or any disputed portion thereof, until the debt collector obtains verification of the debt or a copy of a judgment, or the name and address of the original creditor, and a copy of such verification or judgment, or name and address of the original creditor, is mailed to the consumer by the debt collector. Collection activities and communications that do not otherwise violate this subchapter may continue during the 30-day period referred to in subsection (a) unless the consumer has notified the debt collector in writing that the debt, or any portion of the debt, is disputed or that the consumer requests the name and address of the original creditor. Any collection activities andcommunication during the 30-day period may not overshadow or be inconsistent with the disclosure of the consumer's right to dispute the debt or request the name and address of the original creditor.
+If the consumer notifies the debt collector in writing within the thirty-day period described in subsection (a) that the debt, or any portion thereof, is disputed, or that the consumer requests the name and address of the original creditor, the debt collector shall cease collection of the debt, or any disputed portion thereof, until the debt collector obtains verification of the debt or a copy of a judgment, or the name and address of the original creditor, and a copy of such verification or judgment, or name and address of the original creditor, is mailed to the consumer by the debt collector. Collection activities and communications that do not otherwise violate this subchapter may continue during the 30-day period referred to in subsection (a) unless the consumer has notified the debt collector in writing that the debt, or any portion of the debt, is disputed or that the consumer requests the name and address of the original creditor. Any collection activities and communication during the 30-day period may not overshadow or be inconsistent with the disclosure of the consumer's right to dispute the debt or request the name and address of the original creditor.
 
 #### (c) Admission of liability
 
@@ -32,9 +32,11 @@ The sending or delivery of any form or notice which does not relate to the colle
 
 (Pub. L. 90–321, title VIII, §809, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 879; amended Pub. L. 109–351, title VIII, §802, Oct. 13, 2006, 120 Stat. 2006.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Gramm-Leach-Bliley Act, referred to in subsec. (e), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338. Title V of the Act is classified principally to chapter 94 (§ 6801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
+The Gramm-Leach-Bliley Act, referred to in subsec. (e), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338. Title V of the Act is classified principally to chapter 94 (§ 6801 et seq.) of this title. For complete classification ofthis Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
 
 #### Amendments
 
@@ -43,6 +45,8 @@ The Gramm-Leach-Bliley Act, referred to in subsec. (e), is Pub. L. 106–102, No
 Subsec. (d). Pub. L. 109–351, §802(a), added subsec. (d).
 
 Subsec. (e). Pub. L. 109–351, §802(b), added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

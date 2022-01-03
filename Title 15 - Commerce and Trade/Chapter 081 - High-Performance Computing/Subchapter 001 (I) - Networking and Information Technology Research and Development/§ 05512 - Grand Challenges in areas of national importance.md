@@ -14,7 +14,7 @@ The Program shall encourage the participating agencies to support foundational, 
 
 &emsp;&emsp;(B) to the extent practicable, involve collaborations among researchers in institutions of higher education and industry, and may involve nonprofit research institutions and Federal laboratories, as appropriate;
 
-&emsp;&emsp;(C) to the extent practicable, leverage Federal investments through collaboration with related State and private sector initiatives; and
+&emsp;&emsp;(C) to the extent practicable, leverage Federal investments through collaboration withrelated State and private sector initiatives; and
 
 &emsp;&emsp;(D) include a plan for fostering the transfer of research discoveries and the results of technology demonstration activities, including from institutions of higher education and Federal laboratories, to industry for commercial development.
 
@@ -23,6 +23,8 @@ The Program shall encourage the participating agencies to support foundational, 
 &emsp;In selecting applications for support, the agencies may give special consideration to projects that include cost sharing from non-Federal sources.
 
 (Pub. L. 102–194, title I, §102, as added Pub. L. 114–329, title I, §105(i), Jan. 6, 2017, 130 Stat. 2982.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

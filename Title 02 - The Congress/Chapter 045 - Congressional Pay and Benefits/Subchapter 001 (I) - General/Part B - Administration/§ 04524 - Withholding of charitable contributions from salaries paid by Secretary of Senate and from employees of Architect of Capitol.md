@@ -24,7 +24,7 @@ The Secretary and the Architect shall, to the extent practicable, carry out subs
 
 #### (d) Amount
 
-(1) No amount shall be withheld under subsection (b) from the pay of any individual for any pay period if the amount of such pay for such period is less than the sum of—
+(1) No amount shall be withheld under subsection (b) from the pay of any individual forany pay period if the amount of such pay for such period is less than the sum of—
 
 &emsp;(A) the amount specified to be withheld from such pay under subsection (b) for such period; plus
 

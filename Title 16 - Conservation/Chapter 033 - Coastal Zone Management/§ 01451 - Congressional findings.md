@@ -18,7 +18,7 @@ The Congress finds that—
 
 (h) In light of competing demands and the urgent need to protect and to give high priority to natural systems in the coastal zone, present state and local institutional arrangements for planning and regulating land and water uses in such areas are inadequate.
 
-(i) The key to more effective protection and use of the land and water resources of the coastal zone is to encourage the states to exercise their full authority over the lands and waters in the coastal zone by assisting the states, in cooperation with Federal and local governments and other vitally affected interests, in developing land and water use programs for the coastal zone, including unified policies, criteria, standards, methods, and processes for dealing with land and water use decisions of more than local significance.
+(i) The key to more effective protection and use of the land and water resources of the coastal zone is to encourage the states to exercise their full authority over the lands and waters inthe coastal zone by assisting the states, in cooperation with Federal and local governments and other vitally affected interests, in developing land and water use programs for the coastal zone, including unified policies, criteria, standards, methods, and processes for dealing with land and water use decisions of more than local significance.
 
 (j) The national objective of attaining a greater degree of energy self-sufficiency would be advanced by providing Federal financial assistance to meet state and local needs resulting from new or expanded energy activity in or affecting the coastal zone.
 
@@ -29,6 +29,8 @@ The Congress finds that—
 (m) Because of their proximity to and reliance upon the ocean and its resources, the coastal states have substantial and significant interests in the protection, management, and development of the resources of the exclusive economic zone that can only be served by the active participation of coastal states in all Federal programs affecting such resources and, wherever appropriate, by the development of state ocean resource plans as part of their federally approved coastal zone management programs.
 
 (Pub. L. 89–454, title III, §302, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280; amended Pub. L. 94–370, §2, July 26, 1976, 90 Stat. 1013; Pub. L. 96–464, §2, Oct. 17, 1980, 94 Stat. 2060; Pub. L. 101–508, title VI, §6203(a), Nov. 5, 1990, 104 Stat. 1388–300.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -43,6 +45,8 @@ Subsecs. (k) to (m). Pub. L. 101–508, §6203(a)(3), added subsecs. (k) to (m).
 <b>1976</b>—Subsec. (b). Pub. L. 94–370, §2(1), inserted "ecological," after "recreational,".
 
 Subsec. (i). Pub. L. 94–370, §2(3), added subsec. (i).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2020 Amendment
 
@@ -88,7 +92,7 @@ Pub. L. 110–114, title V, §5022, Nov. 8, 2007, 121 Stat. 1203, provided that:
 
 Pub. L. 108–456, title I, §102 (part), Dec. 10, 2004, 118 Stat. 3630, formerly set out as a note under this section, was transferred to section 4001a of Title 33, Navigation and Navigable Waters.
 
-Pub. L. 105–383, title VI, Nov. 13, 1998, 112 Stat. 3447, as amended by Pub. L. 108–456, title I, §§102–105, Dec. 10, 2004, 118 Stat. 3630–3633; Pub. L. 110–161, div. B, title V, §528, Dec. 26, 2007, 121 Stat. 1930, formerly set out as a note under this section, was transferred to chapter 53 (§4001 et seq.) of Title 33, Navigation and Navigable Waters.
+Pub. L. 105–383, title VI, Nov. 13, 1998, 112 Stat. 3447, as amended by Pub. L. 108–456, title I, §§102–105, Dec. 10,2004, 118 Stat. 3630–3633; Pub. L. 110–161, div. B, title V, §528, Dec. 26, 2007, 121 Stat. 1930, formerly set out as a note under this section, was transferred to chapter 53 (§4001 et seq.) of Title 33, Navigation and Navigable Waters.
 
 #### Findings and Purpose of Coastal Zone Act Reauthorization Amendments of 1990
 
@@ -123,6 +127,8 @@ Purpose.—It is the purpose of Congress in this subtitle \[see Short Title of 1
 #### Establishment of Positions and Fixing of Compensation by Secretary of Commerce; Appointments
 
 Pub. L. 94–370, §15(c), July 26, 1976, 90 Stat. 1032, related to establishment and compensation of four new positions without regard to the provisions of chapter 51 of Title 5, Government Organization and Employees, prior to repeal by Pub. L. 99–272, title VI, §6045(3), Apr. 7, 1986, 100 Stat. 127.
+
+#### <b>Executive Documents</b>
 
 #### Territorial Sea of United States
 

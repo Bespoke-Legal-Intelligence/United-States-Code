@@ -26,7 +26,7 @@ Notification and Analysis.—(1) A rail carrier intending to downgrade or dispos
 
 &emsp;(D) opportunities to target advertising and fares to potential classes of riders;
 
-&emsp;(E) economic characteristics of rail passenger transportation related to the facility and the extent to which the characteristicsare consistent with sound economic principles of short haul or long haul rail transportation; and
+&emsp;(E) economic characteristics of rail passenger transportation related to the facility and the extent to which the characteristics are consistent with sound economic principles of short haul or long haul rail transportation; and
 
 &emsp;(F) the feasibility of applying effective internal cost controls to the facility and route served by the facility to improve the ratio of passenger revenue to transportation expenses (excluding maintenance of tracks, structures, and equipment and depreciation).
 
@@ -50,7 +50,7 @@ Approval of Application and Payment of Avoidable Costs.—(1) If Amtrak does not
 
 (e)
 
-Compliance With Other Obligations.—Downgrading or disposing of a facility under this section does not relieve a rail carrier from complying with its other common carrier or legal obligations related to the facility.
+Compliance With Other Obligations.—Downgrading or disposing of a facility underthis section does not relieve a rail carrier from complying with its other common carrier or legal obligations related to the facility.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 913; Pub. L. 105–134, title I, §162, Dec. 2, 1997, 111 Stat. 2578.)
 
@@ -105,6 +105,8 @@ In subsection (c)(2), before clause (A), the words "need for the" are added for 
 In subsection (d)(2), before clause (A), the word "timely" is omitted as surplus. In clause (F), the words "rail line" are substituted for "lines of railroad" for consistency in the revised title and with other titles of the Code.
 
 In subsection (e), the words "approval of" are omitted as surplus.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

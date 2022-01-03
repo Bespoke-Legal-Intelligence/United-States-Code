@@ -24,7 +24,7 @@ If the President declares a severe energy supply interruption, as defined in sec
 
 #### (c) Emergency stays
 
-The President may, by order, stay the application of any provision of this chapter, or any rule or order thereunder, applicable to any new or existing electric powerplant, if the Presidentfinds, and publishes such finding, that an emergency exists, due to national, regional, or systemwide shortages of coal or other alternate fuels, or disruption of transportation facilities, which emergency is likely to affect reliability of service of any such electric powerplant.
+The President may, by order, stay the application of any provision of this chapter, or any rule or order thereunder, applicable to any new or existing electric powerplant, if the President finds, and publishes such finding, that an emergency exists, due to national, regional, or systemwide shortages of coal or other alternate fuels, or disruption of transportation facilities, which emergency is likely to affect reliability of service of any such electric powerplant.
 
 #### (d) Duration of emergency orders
 
@@ -45,6 +45,8 @@ The authority of the President to issue any order under this section may not be 
 Any order issued under this section shall be published in the Federal Register. To the greatest extent practicable, the President shall, before issuing any order under this section, but in no event later than 5 days after issuing such order, report to the Congress of his intention to issue such order and state his reasons therefor.
 
 (Pub. L. 95–620, title IV, §404, Nov. 9, 1978, 92 Stat. 3319; Pub. L. 100–42, §1(c)(15), May 21, 1987, 101 Stat. 313.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -38,6 +38,8 @@ Reports.—Each year, the Administrator of the Transportation Security Administr
 
 (Added Pub. L. 113–27, §2(a), Aug. 9, 2013, 127 Stat. 503; amended Pub. L. 115–254, div. K, title I, §1991(d)(23), Oct. 5, 2018, 132 Stat. 3637.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–254, §1991(d)(23)(A), substituted "Administrator of the Transportation Security Administration" for "Assistant Secretary" wherever appearing.

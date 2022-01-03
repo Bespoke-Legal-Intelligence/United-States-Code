@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(A) The development of curricula and programs that address the educational needs of Alaska Native students, including the following:
 
-&emsp;&emsp;&emsp;(i) Curriculum materials that are culturally informed and reflect the cultural diversity, languages, history, or the contributions of Alaska Native people, including curricula intended to preserve and promote Alaska Native culture.
+&emsp;&emsp;&emsp;(i) Curriculum materials that are culturally informed and reflect the culturaldiversity, languages, history, or the contributions of Alaska Native people, including curricula intended to preserve and promote Alaska Native culture.
 
 &emsp;&emsp;&emsp;(ii) Instructional programs that make use of Alaska Native languages and cultures.
 
@@ -126,6 +126,8 @@ There are authorized to be appropriated to carry out this section $31,453,000 fo
 
 (Pub. L. 89–10, title VI, §6304, formerly title VII, §7304, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1943; amended Pub. L. 108–11, title II, §2504, Apr. 16, 2003, 117 Stat. 599; renumbered title VI, §6304, and amended Pub. L. 114–95, title VI, §§6001(a), (b)(1), 6004(c), Dec. 10, 2015, 129 Stat. 2046, 2068; Pub. L. 115–224, title III, §302(3), July 31, 2018, 132 Stat. 1623.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Head Start Act, referred to in subsec. (a)(3)(C)(iv), is subchapter B (§635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
@@ -141,6 +143,8 @@ A prior section 7544, Pub. L. 89–10, title VII, §7304, as added Pub. L. 103�
 <b>2015</b>—Pub. L. 114–95, §6004(c), amended section generally. Prior to amendment, section related to program authorized, consisting of subsecs. (a) to (d).
 
 <b>2003</b>—Subsec. (a)(2)(P). Pub. L. 108–11 substituted "operated by" for "such as".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

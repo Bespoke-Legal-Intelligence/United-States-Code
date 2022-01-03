@@ -140,7 +140,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 #### (B) Authorization
 
-&emsp;&emsp;The Secretary is authorized to charge a fee to each Medicare+Choice organization witha contract under this part and each PDP sponsor with a contract under part D that is equal to the organization's or sponsor's pro rata share (as determined by the Secretary) of the aggregate amount of fees which the Secretary is directed to collect in a fiscal year. Any amounts collected shall be available without further appropriation to the Secretary for the purpose of carrying out section 1395w–21 of this title (relating to enrollment and dissemination of information), section 1395w–101(c) of this title, and section 1395b–4 of this title (relating to the health insurance counseling and assistance program).
+&emsp;&emsp;The Secretary is authorized to charge a fee to each Medicare+Choice organization with a contract under this part and each PDP sponsor with a contract under part D that is equal to the organization's or sponsor's pro rata share (as determined by the Secretary) of the aggregate amount of fees which the Secretary is directed to collect in a fiscal year. Any amounts collected shall be available without further appropriation to the Secretary for the purpose of carrying out section 1395w–21 of this title (relating to enrollment and dissemination of information), section 1395w–101(c) of this title, and section 1395b–4 of this title (relating to the health insurance counseling and assistance program).
 
 #### (C) Authorization of appropriations
 
@@ -206,7 +206,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 #### (A) In general
 
-&emsp;&emsp;Beginning with plan years beginning on or after January 1, 2021, a contract under this section with an MA organization shall require the organization to submit to the Secretary, through the process established under subparagraph (B), information on theinvestigations, credible evidence of suspicious activities of a provider of services (including a prescriber) or supplier related to fraud, and other actions taken by such plans related to inappropriate prescribing of opioids.
+&emsp;&emsp;Beginning with plan years beginning on or after January 1, 2021, a contract under this section with an MA organization shall require the organization to submit to the Secretary, through the process established under subparagraph (B), information on the investigations, credible evidence of suspicious activities of a provider of services (including a prescriber) or supplier related to fraud, and other actions taken by such plans related to inappropriate prescribing of opioids.
 
 #### (B) Process
 
@@ -232,7 +232,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 #### (3) Incorporation of certain prescription drug plan contract requirements
 
-&emsp;The following provisions shall apply to contracts with a Medicare Advantage organization offering an MA–PD plan in the same manner as they apply to contracts with a PDP sponsor offering a prescription drug plan under part D:
+&emsp;The following provisions shall apply to contracts with a Medicare Advantage organization offering an MA–PD plan in the same manner as they apply to contracts with a PDPsponsor offering a prescription drug plan under part D:
 
 #### (A) Prompt payment
 
@@ -276,7 +276,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 &emsp;&emsp;(H) except as provided under subparagraph (C) or (D) of section 1395w–101(b)(1) of this title, enrolls an individual in any plan under this part without the prior consent of the individual or the designee of the individual;
 
-&emsp;&emsp;(I) transfers an individual enrolled under this part from one plan to another withoutthe prior consent of the individual or the designee of the individual or solely for the purpose of earning a commission;
+&emsp;&emsp;(I) transfers an individual enrolled under this part from one plan to another without the prior consent of the individual or the designee of the individual or solely for the purpose of earning a commission;
 
 &emsp;&emsp;(J) fails to comply with marketing restrictions described in subsections (h) and (j) of section 1395w–21 of this title or applicable implementing regulations or guidance; or
 
@@ -340,6 +340,8 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1857, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 319; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §§513(a), (b)(1), 522(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–383, 1501A–387; Pub. L. 106–554, §1(a)(6) \[title VI, §§617(a), 623(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–561, 2763A–566; Pub. L. 108–173, title II, §§222(j), (k), (l)(3)(C), 237(c), title IX, §900(e)(1)(I), Dec. 8, 2003, 117 Stat. 2205, 2207, 2213, 2372; Pub. L. 110–275, title I, §§164(d)(2), 171(b), 172(a)(2), 173(b), July 15, 2008, 122 Stat. 2574, 2580, 2581; Pub. L. 111–148, title VI, §6408(b), Mar. 23, 2010, 124 Stat. 771; Pub. L. 111–152, title I, §1103, Mar. 30, 2010, 124 Stat. 1047; Pub. L. 114–255, div. C, title XVII, §17001(b), Dec. 13, 2016, 130 Stat. 1330; Pub. L. 115–271, title II, §2008(b), title VI, §6063(b), Oct. 24, 2018, 132 Stat. 3931, 3988.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (e)(5). Pub. L. 115–271, §6063(b), added par. (5).
@@ -402,7 +404,7 @@ Pub. L. 106–113, §1000(a)(6) \[title V, §513(a), (b)(1)(A)\], substituted "2
 
 Subsec. (e)(2)(B). Pub. L. 106–113, §1000(a)(6) \[title V, §522(a)(1)\], substituted "Any amounts collected shall be available without further appropriation to the Secretary for" for "Any amounts collected are authorized to be appropriated only for".
 
-Subsec. (e)(2)(C). Pub. L. 106–113, §1000(a)(6) \[title V, §522(a)(2)\], amended heading and text of subpar. (C)generally. Prior to amendment, text read as follows: "For any fiscal year, the fees authorized under subparagraph (B) are contingent upon enactment in an appropriations act of a provision specifying the aggregate amount of fees the Secretary is directed to collect in a fiscal year. Fees collected during any fiscal year under this paragraph shall be deposited and credited as offsetting collections."
+Subsec. (e)(2)(C). Pub. L. 106–113, §1000(a)(6) \[title V, §522(a)(2)\], amended heading and text of subpar. (C) generally. Prior to amendment, text read as follows: "For any fiscal year, the fees authorized under subparagraph (B) are contingent upon enactment in an appropriations act of a provision specifying the aggregate amount of fees the Secretary is directed to collect in a fiscal year. Fees collected during any fiscal year under this paragraph shall be deposited and credited as offsetting collections."
 
 Subsec. (e)(2)(D)(ii)(II). Pub. L. 106–113, §1000(a)(6) \[title V, §522(a)(3)(A)\], struck out "and" after semicolon.
 
@@ -411,6 +413,8 @@ Subsec. (e)(2)(D)(ii)(III). Pub. L. 106–113, §1000(a)(6) \[title V, §522(a)(
 Subsec. (e)(2)(D)(ii)(IV). Pub. L. 106–113, §1000(a)(6) \[title V, §522(a)(3)(C)\], added subcl. (IV).
 
 Subsec. (e)(2)(E). Pub. L. 106–113, §1000(a)(6) \[title V, §522(a)(4)\], added subpar. (E).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

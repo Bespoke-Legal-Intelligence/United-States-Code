@@ -78,7 +78,7 @@
 
 #### Amendment of Subsection (b) and Termination of Amendment
 
-<i>Pub. L. 116–260, div. N, title III, §320(b), (f)(1), Dec. 27, 2020, 134 Stat. 2015, 2016, provided that, effective on the date on which the Administrator of the Small Business Administration submits to the Director of the Executive Office for United States Trustees a written determination that, subject to satisfying any other eligibility requirements, any debtor in possession or trustee that is authorized to operate the business of the debtor under section 1183, 1184, 1203, 1204, or 1304 of this title would be eligible for a loan under paragraphs (36) and (37) of</i><i>section 636(a) of Title 15, Commerce and Trade, and applicable to any case pending on or commenced on or after such effective date, subsection (b) of this section is amended—</i>
+<i>Pub. L. 116–260, div. N, title III, §320(b), (f)(1), Dec. 27, 2020, 134 Stat. 2015, 2016, provided that, effective on the date on which the Administrator of the Small Business Administration submits to the Director of the Executive Office for United States Trustees a written determination that, subject to satisfying any other eligibility requirements, any debtor in possession or trustee that is authorized to operate the business of the debtor under section 1183, 1184, 1203, 1204, or 1304 of this title would be eligible for a loan under paragraphs (36) and (37) of section 636(a) of Title 15, Commerce and Trade, and applicable to any case pending on or commenced on or after such effective date, subsection (b) of this section is amended—</i>
 
 <i>(1) in paragraph (8)(B), by striking "and" at the end;</i>
 
@@ -132,7 +132,7 @@ Pub. L. 116–260, §320(b), added par. (10).
 
 <b>2005</b>—Subsec. (b)(1)(A). Pub. L. 109–8, §329, amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "the actual, necessary costs and expenses of preserving the estate, including wages, salaries, or commissions for services rendered after the commencement of the case;".
 
-Subsec. (b)(1)(B)(i). Pub. L. 109–8, §712(b), inserted "whether secured or unsecured, including propertytaxes for which liability is in rem, in personam, or both," before "except".
+Subsec. (b)(1)(B)(i). Pub. L. 109–8, §712(b), inserted "whether secured or unsecured, including property taxes for which liability is in rem, in personam, or both," before "except".
 
 Subsec. (b)(1)(D). Pub. L. 109–8, §712(c), added subpar. (D).
 

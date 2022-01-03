@@ -38,6 +38,8 @@ In subsection (f) the words "or the Naval Postgraduate School" are inserted for 
 
 In subsection (g) the words "Federal Employees Compensation Act of September 7, 1916, as amended (5 U.S.C. 751 et seq.)," are substituted for the words "Act of Sept. 7, 1916, entitled 'An act to provide compensation for employees of the United States suffering injuries while in the performance of their duties, and for other purposes' ". Authority for referring to this Act as the Federal Employees Compensation Act is contained in the Federal Employees Compensation Act Amendments of 1949, 63 Stat. 854. The words "but this provision shall not bar the right of any claimant to the greater benefit conferred by either Act for any part of the same period" are omitted as unnecessary.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232, §807(c)(1), renumbered section 7086 of this title as this section.
@@ -50,11 +52,13 @@ Subsec. (f). Pub. L. 115–232, §809(a), substituted "section 8585" for "sectio
 
 <b>1966</b>—Subsec. (g). Pub. L. 89–718 substituted "chapter 81 of title 5" for "sections 751–756, 757–791, and 793 of title 5".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 References to Superintendent of the Naval Postgraduate School deemed to refer to President of the Naval Postgraduate School, see section 557(a)(1), (2) of Pub. L. 108–375, set out as a note under section 8542 of this title.
 
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments andspecial rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 

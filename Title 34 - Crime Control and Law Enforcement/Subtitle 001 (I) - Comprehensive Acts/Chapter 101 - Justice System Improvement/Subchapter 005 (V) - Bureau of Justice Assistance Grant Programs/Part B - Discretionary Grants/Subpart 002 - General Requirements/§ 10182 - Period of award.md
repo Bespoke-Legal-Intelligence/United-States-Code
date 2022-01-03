@@ -1,10 +1,10 @@
 ### §10182. Period of award
 
-The Bureau may provide financial aid and assistance to programs or projects under this part for a period of not to exceed 4 years. Grants made pursuant to this part may be extended or renewed by the Bureau for an additional period of up to 2 years if—
+The Bureau may provide financial aid and assistance to programs or projects under this part for a period of not to exceed 4 years. Grants made pursuant to this part may be extended orrenewed by the Bureau for an additional period of up to 2 years if—
 
 &emsp;(1) an evaluation of the program or project indicates that it has been effective in achieving the stated goals or offers the potential for improving the functioning of the criminal justice system; and
 
-&emsp;(2) the applicant that conducts such program or project agrees to provide at least one-halfof the total cost of such program or project from any source of funds, including Federal grants, available to the eligible jurisdiction.
+&emsp;(2) the applicant that conducts such program or project agrees to provide at least one-half of the total cost of such program or project from any source of funds, including Federal grants, available to the eligible jurisdiction.
 
 (Pub. L. 90–351, title I, §518, formerly §514, as added Pub. L. 100–690, title VI, §6091(a), Nov. 18, 1988, 102 Stat. 4336; renumbered §518 and amended Pub. L. 101–647, title XVIII, §1801(a)(5), (6), Nov. 29, 1990, 104 Stat. 4847.)
 

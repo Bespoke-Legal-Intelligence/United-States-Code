@@ -6,7 +6,7 @@ There is hereby established in the Treasury of the United States, as an account 
 
 #### (b) Use of amounts
 
-Amounts in the Fund shall be used by the Architect of the Capitol for the revitalization ofthe major historical buildings and assets of the House of Representatives which the Architect is responsible for maintaining and preserving, except that the Architect may not obligate any amounts in the Fund without the approval of the Committee on Appropriations of the House of Representatives.
+Amounts in the Fund shall be used by the Architect of the Capitol for the revitalization of the major historical buildings and assets of the House of Representatives which the Architect is responsible for maintaining and preserving, except that the Architect may not obligate any amounts in the Fund without the approval of the Committee on Appropriations of the House of Representatives.
 
 #### (c) Continuing availability of funds
 

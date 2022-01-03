@@ -4,6 +4,8 @@ The Secretary may not complete a study of, or enter into a contract with a priva
 
 (Pub. L. 87–128, title III, §365, as added Pub. L. 110–234, title V, §5306, May 22, 2008, 122 Stat. 1153, and Pub. L. 110–246, §4(a), title V, §5306, June 18, 2008, 122 Stat. 1664, 1915.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
@@ -11,6 +13,8 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 #### Prior Provisions
 
 A prior section 2008, Pub. L. 87–128, title III, §365, as added Pub. L. 101–624, title XXIII, §2316(a), Nov. 28, 1990, 104 Stat. 4000; amended Pub. L. 102–237, title VII, §701(e), Dec. 13, 1991, 105 Stat. 1879, related to system for delivery of certain rural development programs, prior to repeal by Pub. L. 104–127, title VII, §753(a), Apr. 4, 1996, 110 Stat. 1131.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

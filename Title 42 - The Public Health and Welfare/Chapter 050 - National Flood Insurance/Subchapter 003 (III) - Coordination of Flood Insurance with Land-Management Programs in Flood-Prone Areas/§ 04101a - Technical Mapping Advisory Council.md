@@ -106,7 +106,7 @@ The Council shall—
 
 #### (2) Responsibility of the Administrator
 
-&emsp;The Administrator, as part of the ongoing program to review and update National Flood Insurance Program rate maps under section 4101b of this title, shall incorporate any future risk assessment submitted under paragraph (1)(B) in any such revision or update.
+&emsp;The Administrator, as part of the ongoing program to review and update National FloodInsurance Program rate maps under section 4101b of this title, shall incorporate any future risk assessment submitted under paragraph (1)(B) in any such revision or update.
 
 #### (e) Chairperson
 
@@ -160,9 +160,13 @@ The Administrator, on an annual basis, shall report to the Committee on Banking,
 
 (Pub. L. 112–141, div. F, title II, §100215, July 6, 2012, 126 Stat. 924.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Biggert-Waters Flood Insurance Reform Act of 2012, and also as part of the Moving Ahead for Progress in the 21st Century Act, also known as the MAP–21, and not as part of the National Flood Insurance Act of 1968 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

@@ -38,7 +38,7 @@ The Attorney General may obtain the assistance of other Federal agencies in carr
 
 #### (C) Subchapter III
 
-&emsp;&emsp;The Attorney General, in coordination with the Secretary of Transportation and the Chair of the Architectural Transportation Barriers Compliance Board, shall implement such plan for assistance for subchapter III, except for section 12184 of this title, the plan for assistance for which shall be implemented by the Secretary of Transportation.
+&emsp;&emsp;The Attorney General, in coordination with the Secretary of Transportation andthe Chair of the Architectural Transportation Barriers Compliance Board, shall implement such plan for assistance for subchapter III, except for section 12184 of this title, the plan for assistance for which shall be implemented by the Secretary of Transportation.
 
 #### (D) Title IV
 
@@ -46,7 +46,7 @@ The Attorney General may obtain the assistance of other Federal agencies in carr
 
 #### (3) Technical assistance manuals
 
-&emsp;Each Federal agency that has responsibility under paragraph (2) for implementing this chapter shall, as part of its implementation responsibilities, ensure the availability and provision of appropriate technical assistancemanuals to individuals or entities with rights or duties under this chapter no later than six months after applicable final regulations are published under subchapters I, II, and III and title IV.
+&emsp;Each Federal agency that has responsibility under paragraph (2) for implementing this chapter shall, as part of its implementation responsibilities, ensure the availability and provision of appropriate technical assistance manuals to individuals or entities with rights or duties under this chapter no later than six months after applicable final regulations are published under subchapters I, II, and III and title IV.
 
 #### (d) Grants and contracts
 
@@ -63,6 +63,8 @@ The Attorney General may obtain the assistance of other Federal agencies in carr
 An employer, public accommodation, or other entity covered under this chapter shall not be excused from compliance with the requirements of this chapter because of any failure to receive technical assistance under this section, including any failure in the development or dissemination of any technical assistance manual authorized by this section.
 
 (Pub. L. 101–336, title V, §507, formerly §506, July 26, 1990, 104 Stat. 371; renumbered §507, Pub. L. 110–325, §6(a)(2), Sept. 25, 2008, 122 Stat. 3558.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

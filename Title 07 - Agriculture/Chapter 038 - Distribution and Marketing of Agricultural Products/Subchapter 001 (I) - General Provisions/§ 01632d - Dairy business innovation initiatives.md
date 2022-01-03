@@ -74,7 +74,7 @@ An initiative—
 
 #### (1) Direct assistance to dairy businesses
 
-&emsp;An initiative shall provide nonmonetary assistance directly to dairy businesses through private consultation or widely available distribution—
+&emsp;An initiative shall provide nonmonetary assistance directly to dairy businesses throughprivate consultation or widely available distribution—
 
 &emsp;&emsp;(A) by the entity that hosts the initiative under subsection (d)(1);
 
@@ -124,7 +124,7 @@ An initiative—
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall establish guidelines and procedures to prevent any conflict of interest or the appearance of a conflict of interest by an initiative (including a partnerof the initiative) during the allocation of direct assistance under paragraph (1) or grant funding under paragraph (3).
+&emsp;&emsp;The Secretary shall establish guidelines and procedures to prevent any conflict of interest or the appearance of a conflict of interest by an initiative (including a partner of the initiative) during the allocation of direct assistance under paragraph (1) or grant funding under paragraph (3).
 
 #### (B) Penalty
 
@@ -178,9 +178,13 @@ There is authorized to be appropriated to carry out this section $20,000,000 for
 
 (Pub. L. 115–334, title XII, §12513, Dec. 20, 2018, 132 Stat. 4996.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Agriculture Improvement Act of 2018, and not as part of the Agricultural Marketing Act of 1946 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definition of "Secretary"
 

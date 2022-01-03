@@ -18,11 +18,15 @@ The first report under subsections (a), (b), and (c) shall be submitted not late
 
 (July 1, 1944, ch. 373, title IV, §403A, as added Pub. L. 109–482, title I, §104(a)(3), Jan. 15, 2007, 120 Stat. 3691.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 403A of act July 1, 1944, was renumbered section 403D and is classified to section 283a–3 of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Section applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscalyears, see section 109 of Pub. L. 109–482, set out as an Effective Date of 2007 Amendment note under section 281 of this title.
+Section applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as an Effective Date of 2007 Amendment note under section 281 of this title.
 

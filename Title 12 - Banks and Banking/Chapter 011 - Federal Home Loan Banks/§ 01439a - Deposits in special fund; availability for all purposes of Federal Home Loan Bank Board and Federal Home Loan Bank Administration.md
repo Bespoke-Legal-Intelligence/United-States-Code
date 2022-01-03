@@ -24,6 +24,10 @@ Section was enacted as part of the Independent Offices Appropriation Act, 1944, 
 
 Federal Home Loan Bank Board abolished and functions transferred, see sections 401 to 406 of Pub. L. 101–73, set out as a note under section 1437 of this title.
 
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
 For transfer of functions to Secretary of the Treasury, see note set out under section 55 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>

@@ -20,7 +20,7 @@
 
 &emsp;(3) Job development and placement services.
 
-(e) In providing rehabilitative services under this chapter, the Secretary shall take appropriate action to make it possible for the patient to take maximum advantage of any benefits to which such patient is entitled under chapter 31, 34, or 35 of this title, and, if the patient is still receiving treatment of a prolonged nature under this chapter, the provision of rehabilitative services under this chapter shall be continued during, and coordinated with, the pursuit of education and training under such chapter 31, 34, or 35.
+(e) In providing rehabilitative services under this chapter, the Secretary shall take appropriate action to make it possible for the patientto take maximum advantage of any benefits to which such patient is entitled under chapter 31, 34, or 35 of this title, and, if the patient is still receiving treatment of a prolonged nature under this chapter, the provision of rehabilitative services under this chapter shall be continued during, and coordinated with, the pursuit of education and training under such chapter 31, 34, or 35.
 
 (f) The Secretary shall prescribe regulations to ensure that the priorities set forth in section 1705 of this title shall be applied, insofar as practicable, to participation in therapeutic and rehabilitation activities carried out under this section.
 

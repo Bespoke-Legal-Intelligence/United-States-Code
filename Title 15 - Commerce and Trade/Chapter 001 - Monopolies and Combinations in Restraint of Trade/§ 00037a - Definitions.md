@@ -28,11 +28,15 @@ For purposes of this section and section 37 of this title:
 
 (Pub. L. 104–63, §3, Dec. 8, 1995, 109 Stat. 687; Pub. L. 105–26, §2(2), July 3, 1997, 111 Stat. 242.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1997</b>—Pars. (1), (2). Pub. L. 105–26, §2(2)(A)–(C), added par. (2), redesignated former par. (2) as (1), and struck out heading and text of former par. (1). Text read as follows: "The term 'annuity rate' means the percentage of the fair market value of a gift (determined as of the date of the gift) given in exchange for a charitable gift annuity, that represents the amount of the annual payment to be made to 1 or 2 annuitants over the life of either or both under the terms of the agreement to give such gift in exchange for such annuity."
 
 Pars. (4) to (6). Pub. L. 105–26, §2(2)(D), (E), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1997 Amendment
 

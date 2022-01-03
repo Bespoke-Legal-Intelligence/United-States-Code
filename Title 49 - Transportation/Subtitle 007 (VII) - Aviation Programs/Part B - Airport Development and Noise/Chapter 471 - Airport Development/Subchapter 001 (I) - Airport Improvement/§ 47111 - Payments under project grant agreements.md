@@ -78,6 +78,8 @@ In subsection (d)(2)(A), the word "mutual" is omitted as surplus.
 
 In subsection (d)(3), the words "adversely affected" are substituted for "aggrieved" for consistency in the revised title and with other titles of the United States Code. The words "the date on which" are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Subsec. (e). Pub. L. 113–188 substituted "section 47107(k)" for "section 47107(l)".

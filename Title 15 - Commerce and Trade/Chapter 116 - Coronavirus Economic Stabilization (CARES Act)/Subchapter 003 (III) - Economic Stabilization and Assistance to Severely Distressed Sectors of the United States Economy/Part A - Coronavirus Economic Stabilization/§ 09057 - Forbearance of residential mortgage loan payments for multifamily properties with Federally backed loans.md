@@ -36,7 +36,7 @@ A multifamily borrower that receives a forbearance under this section may not, f
 
 A multifamily borrower that receives a forbearance under this section—
 
-&emsp;(1) may not require a tenant to vacate a dwelling unit located in or on the applicable property before the date that is 30 days after the date on which the borrower provides the tenant with a notice to vacate; and
+&emsp;(1) may not require a tenant to vacate a dwelling unit located in or on the applicableproperty before the date that is 30 days after the date on which the borrower provides the tenant with a notice to vacate; and
 
 &emsp;(2) may not issue a notice to vacate under paragraph (1) until after the expiration of the forbearance.
 
@@ -73,6 +73,8 @@ In this section:
 &emsp;&emsp;(B) December 31, 2020.
 
 (Pub. L. 116–136, div. A, title IV, §4023, Mar. 27, 2020, 134 Stat. 491.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

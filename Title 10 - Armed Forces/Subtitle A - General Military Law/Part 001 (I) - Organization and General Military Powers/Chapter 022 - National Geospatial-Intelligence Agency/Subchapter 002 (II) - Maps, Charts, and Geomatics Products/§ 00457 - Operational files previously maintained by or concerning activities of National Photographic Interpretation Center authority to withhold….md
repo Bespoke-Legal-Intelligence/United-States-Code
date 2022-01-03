@@ -18,6 +18,8 @@ Operational Files Defined.—In this section, the term "operational files" has t
 
 (Added Pub. L. 106–65, div. A, title X, §1045(a), Oct. 5, 1999, 113 Stat. 762; amended Pub. L. 108–136, div. A, title IX, §921(d)(2)(A), Nov. 24, 2003, 117 Stat. 1568; Pub. L. 113–291, div. A, title X, §1071(c)(8), Dec. 19, 2014, 128 Stat. 3509.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Subsec. (a). Pub. L. 113–291, §1071(c)(8)(A), substituted "(50 U.S.C. 3141)" for "(50 U.S.C. 431)".

@@ -48,7 +48,7 @@
 
 (2) The appropriate regulatory agency for a clearing agency, transfer agent, or municipal securities dealer for which the Commission is not the appropriate regulatory agency shall file with the Commission notice of the commencement of any proceeding and a copy of any order entered by such appropriate regulatory agency against any clearing agency, transfer agent, municipal securities dealer, or person associated with a transfer agent or municipal securities dealer, and the Commission shall file with such appropriate regulatory agency, if any, notice of the commencement of any proceeding and a copy of any order entered by the Commission against the clearing agency, transfer agent, or municipal securities dealer, or against any person associated with a transfer agent or municipal securities dealer for which the agency is the appropriate regulatory agency.
 
-(3) The Commission and the appropriate regulatory agency for a clearing agency, transfer agent, or municipal securities dealer for which the Commission is not the appropriate regulatory agency shall each notify the other and make a report of any examination conducted by it of such clearing agency, transfer agent, or municipal securities dealer, and, upon request, furnish to the other a copy of such report and any data supplied to it in connection with such examination.
+(3) The Commission and the appropriate regulatory agency for a clearing agency, transferagent, or municipal securities dealer for which the Commission is not the appropriate regulatory agency shall each notify the other and make a report of any examination conducted by it of such clearing agency, transfer agent, or municipal securities dealer, and, upon request, furnish to the other a copy of such report and any data supplied to it in connection with such examination.
 
 (4) The Commission or the appropriate regulatory agency may specify that documents required to be filed pursuant to this subsection with the Commission or such agency, respectively, may be retained by the originating clearing agency, transfer agent, or municipal securities dealer, or filed with another appropriate regulatory agency. The Commission or the appropriate regulatory agency (as the case may be) making such a specification shall continue to have access to the document on request.
 
@@ -106,11 +106,11 @@ Any broker, dealer, or other person extending credit who is subject to the rules
 
 #### (1) Obligations to obtain, maintain, and report information
 
-&emsp;Every person who is (A) a registered broker or dealer, or (B) a registered municipal securities dealer for which the Commission is the appropriate regulatory agency, shall obtain such information and make and keep such records as the Commission by rule prescribes concerning the registered person's policies, procedures, or systems for monitoring andcontrolling financial and operational risks to it resulting from the activities of any of its associated persons, other than a natural person. Such records shall describe, in the aggregate, each of the financial and securities activities conducted by, and the customary sources of capital and funding of, those of its associated persons whose business activities are reasonably likely to have a material impact on the financial or operational condition of such registered person, including its net capital, its liquidity, or its ability to conduct or finance its operations. The Commission, by rule, may require summary reports of such information to be filed with the Commission no more frequently than quarterly.
+&emsp;Every person who is (A) a registered broker or dealer, or (B) a registered municipal securities dealer for which the Commission is the appropriate regulatory agency, shall obtain such information and make and keep such records as the Commission by rule prescribes concerning the registered person's policies, procedures, or systems for monitoring and controlling financial and operational risks to it resulting from the activities of any of its associated persons, other than a natural person. Such records shall describe, in the aggregate, each of the financial and securities activities conducted by, and the customary sources of capital and funding of, those of its associated persons whose business activities are reasonably likely to have a material impact on the financial or operational condition of such registered person, including its net capital, its liquidity, or its ability to conduct or finance its operations. The Commission, by rule, may require summary reports of such information to be filed with the Commission no more frequently than quarterly.
 
 #### (2) Authority to require additional information
 
-&emsp;If, as a result of adverse market conditions or based on reports provided to the Commission pursuant to paragraph (1) of this subsection or other available information, the Commission reasonably concludes that it has concerns regarding the financial or operational condition of (A) any registered broker or dealer, or (B) any registered municipal securities dealer, government securities broker, or government securities dealer for which the Commission is the appropriate regulatory agency, the Commission may require the registered person to make reports concerning the financial and securities activities of any of such person's associated persons, other than a natural person, whose business activities are reasonably likely to have a material impact on the financial or operational condition of such registered person. The Commission, in requiring reports pursuant to this paragraph, shall specify the information required, the period for which it is required, the time and date on which the information must be furnished, and whether the information is to be furnished directly to the Commission or to a self-regulatory organization with primary responsibility for examining the registered person's financial and operational condition.
+&emsp;If, as a result of adverse market conditions or based on reports provided to the Commission pursuant to paragraph (1) of this subsection or other available information, the Commission reasonably concludes that it has concerns regarding the financial or operational condition of (A) any registered broker or dealer, or (B) any registered municipal securities dealer, government securities broker, or government securities dealer for which theCommission is the appropriate regulatory agency, the Commission may require the registered person to make reports concerning the financial and securities activities of any of such person's associated persons, other than a natural person, whose business activities are reasonably likely to have a material impact on the financial or operational condition of such registered person. The Commission, in requiring reports pursuant to this paragraph, shall specify the information required, the period for which it is required, the time and date on which the information must be furnished, and whether the information is to be furnished directly to the Commission or to a self-regulatory organization with primary responsibility for examining the registered person's financial and operational condition.
 
 #### (3) Special provisions with respect to associated persons subject to Federal banking agency regulation
 
@@ -136,11 +136,11 @@ Any broker, dealer, or other person extending credit who is subject to the rules
 
 #### (E) Confidentiality of information provided
 
-&emsp;&emsp;No information provided to or obtained by the Commission from any Federal banking agency pursuant to a request by the Commission under subparagraph (C) of this paragraph regarding any associated person whichis subject to examination by or reporting requirements of a Federal banking agency may be disclosed to any other person (other than a self-regulatory organization), without the prior written approval of the Federal banking agency. Nothing in this subsection shall authorize the Commission to withhold information from Congress, or prevent the Commission from complying with a request for information from any other Federal department or agency requesting the information for purposes within the scope of its jurisdiction, or complying with an order of a court of the United States in an action brought by the United States or the Commission.
+&emsp;&emsp;No information provided to or obtained by the Commission from any Federal banking agency pursuant to a request by the Commission under subparagraph (C) of this paragraph regarding any associated person which is subject to examination by or reporting requirements of a Federal banking agency may be disclosed to any other person (other than a self-regulatory organization), without the prior written approval of the Federal banking agency. Nothing in this subsection shall authorize the Commission to withhold information from Congress, or prevent the Commission from complying with a request for information from any other Federal department or agency requesting the information for purposes within the scope of its jurisdiction, or complying with an order of a court of the United States in an action brought by the United States or the Commission.
 
 #### (F) Notice to banking agencies concerning financial and operational condition concerns
 
-&emsp;&emsp;The Commission shall notify the Federal banking agency of any concerns of the Commission regarding significant financial or operational risks resulting from the activities of any registered broker or dealer, or any registered municipal securities dealer, government securities broker, or government securities dealer for which the Commission is the appropriate regulatory agency, to any associated person thereof which is subject to examination by or reporting requirements of the Federal banking agency.
+&emsp;&emsp;The Commission shall notify the Federal banking agency of any concerns of the Commission regarding significant financial or operational risks resulting from the activities of any registered broker or dealer, or any registered municipal securities dealer,government securities broker, or government securities dealer for which the Commission is the appropriate regulatory agency, to any associated person thereof which is subject to examination by or reporting requirements of the Federal banking agency.
 
 #### (G) "Federal banking agency" defined
 
@@ -176,7 +176,7 @@ Notwithstanding any other provision of law, the Commission shall not be compelle
 
 #### (2) Coordination of examinations
 
-&emsp;The Commission and the examining authorities shall share such information, includingreports of examinations, customer complaint information, and other nonpublic regulatory information, as appropriate to foster a coordinated approach to regulatory oversight of brokers and dealers that are subject to examination by more than one examining authority.
+&emsp;The Commission and the examining authorities shall share such information, including reports of examinations, customer complaint information, and other nonpublic regulatory information, as appropriate to foster a coordinated approach to regulatory oversight of brokers and dealers that are subject to examination by more than one examining authority.
 
 #### (3) Examinations for cause
 
@@ -190,13 +190,15 @@ Notwithstanding any other provision of law, the Commission shall not be compelle
 
 #### (B) Appropriate disclosure not prohibited
 
-&emsp;&emsp;Nothing in this paragraph authorizes the Commission or any examining authority to withhold information from the Congress, or prevent the Commission or any examining authority from complying with a request for information from any other Federal department or agency requesting the information for purposes within the scope of its jurisdiction, or complying with an order of a court of the United States in an action brought by the United States or the Commission.
+&emsp;&emsp;Nothing in this paragraph authorizes the Commission or any examining authority to withhold information from the Congress, orprevent the Commission or any examining authority from complying with a request for information from any other Federal department or agency requesting the information for purposes within the scope of its jurisdiction, or complying with an order of a court of the United States in an action brought by the United States or the Commission.
 
 #### (5) "Examining authority" defined
 
 &emsp;For purposes of this subsection, the term "examining authority" means a self-regulatory organization registered with the Commission under this chapter (other than a registered clearing agency) with the authority to examine, inspect, and otherwise oversee the activities of a registered broker or dealer.
 
 (June 6, 1934, ch. 404, title I, §17, 48 Stat. 897; May 27, 1936, ch. 462, §4, 49 Stat. 1379; June 25, 1938, ch. 677, §5, 52 Stat. 1076; Pub. L. 94–29, §14, June 4, 1975, 89 Stat. 137; Pub. L. 99–571, title I, §102(h), (i), Oct. 28, 1986, 100 Stat. 3219; Pub. L. 100–181, title III, §321, title VIII, §801(b), Dec. 4, 1987, 101 Stat. 1257, 1265; Pub. L. 101–432, §4(a), Oct. 16, 1990, 104 Stat. 966; Pub. L. 104–290, title I, §108, Oct. 11, 1996, 110 Stat. 3425; Pub. L. 105–353, title III, §301(b)(5), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 106–102, title II, §231(a), Nov. 12, 1999, 113 Stat. 1402; Pub. L. 106–554, §1(a)(5) \[title II, §204\], Dec. 21, 2000, 114 Stat. 2763, 2763A–424; Pub. L. 107–204, title II, §205(c)(2), July 30, 2002, 116 Stat. 774; Pub. L. 108–386, §8(f)(5), (6), Oct. 30, 2004, 118 Stat. 2232; Pub. L. 109–291, §5, Sept. 29, 2006, 120 Stat. 1338; Pub. L. 111–203, title VI, §617(a), title IX, §§929D, 929S, 975(h), 982(e)(2), 985(b)(7), July 21, 2010, 124 Stat. 1616, 1853, 1867, 1923, 1929, 1934.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -270,6 +272,8 @@ Subsecs. (b) to (g). Pub. L. 94–29 added subsecs. (b) to (f) and redesignated 
 
 <b>1936</b>—Subsec. (a). Act May 27, 1936, substituted "every broker or dealer registered pursuant to section 78o of this title" for "every broker or dealer making or creating a market for both the purchase and sale of securities through the use of the mails or of any means or instrumentality of interstate commerce".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Amendment by sections 929D, 929S, 982(e)(2), and 985(b)(7) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
@@ -291,6 +295,8 @@ Amendment by Pub. L. 99–571 effective 270 days after Oct. 28, 1986, see sectio
 #### Effective Date of 1975 Amendment
 
 Amendment by Pub. L. 94–29 effective June 4, 1975, see section 31(a) of Pub. L. 94–29, set out as a note under section 78b of this title.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

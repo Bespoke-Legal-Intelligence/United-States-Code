@@ -68,6 +68,8 @@ The primary role of the warning coordination meteorologist shall be to carry out
 
 (Pub. L. 115–25, title IV, §405, Apr. 18, 2017, 131 Stat. 107.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 409, referred to in subsec. (c)(1), is section 409 of Pub. L. 115–25, title IV, Apr. 18, 2017, 131 Stat. 112, which is not classified to the Code.

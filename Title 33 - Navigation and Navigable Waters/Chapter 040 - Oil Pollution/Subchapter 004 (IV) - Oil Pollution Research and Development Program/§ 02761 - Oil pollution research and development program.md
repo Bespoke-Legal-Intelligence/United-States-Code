@@ -134,7 +134,7 @@ In this section—
 
 #### (1) Establishment
 
-&emsp;The Interagency Committee shall coordinate the establishment, by the agencies represented on the Interagency Committee, of a program for conducting oil pollution research, technology, and development, as provided in this subsection.
+&emsp;The Interagency Committee shall coordinate the establishment, by the agencies representedon the Interagency Committee, of a program for conducting oil pollution research, technology, and development, as provided in this subsection.
 
 #### (2) Innovative oil pollution technology
 
@@ -216,7 +216,7 @@ In this section—
 
 #### (6) Demonstration projects
 
-&emsp;The United States Coast Guard, in conjunction with such agencies as the President maydesignate, shall conduct 4 port oil pollution minimization demonstration projects, one each with (A) the Port Authority of New York and New Jersey, (B) the Ports of Los Angeles and Long Beach, California, (C) the Port of New Orleans, Louisiana, and (D) ports on the Great Lakes, for the purpose of developing and demonstrating integrated port oil pollution prevention and cleanup systems which utilize the information and implement the improved practices and technologies developed from the research, development, and demonstration program established in this section. Such systems shall utilize improved technologies and management practices for reducing the risk of oil discharges, including, as appropriate, improved data access, computerized tracking of oil shipments, improved vessel tracking and navigation systems, advanced technology to monitor pipeline and tank conditions, improved oil spill response capability, improved capability to predict the flow and effects of oil discharges in both the inner and outer harbor areas for the purposes of making infrastructure decisions, and such other activities necessary to achieve the purposes of this section.
+&emsp;The United States Coast Guard, in conjunction with such agencies as the President may designate, shall conduct 4 port oil pollution minimization demonstration projects, one each with (A) the Port Authority of New York and New Jersey, (B) the Ports of Los Angeles and Long Beach, California, (C) the Port of New Orleans, Louisiana, and (D) ports on the Great Lakes, for the purpose of developing and demonstrating integrated port oil pollution prevention and cleanup systems which utilize the information and implement the improved practices and technologies developed from the research, development, and demonstration program established in this section. Such systems shall utilize improved technologies and management practices for reducing the risk of oil discharges, including, as appropriate, improved data access, computerized tracking of oil shipments, improved vessel tracking and navigation systems, advanced technology to monitor pipeline and tank conditions, improved oil spill response capability, improved capability to predict the flow and effects of oil discharges in both the inner and outer harbor areas for the purposes of making infrastructure decisions, and such other activities necessary to achieve the purposes of this section.
 
 #### (7) Simulated environmental testing
 
@@ -242,7 +242,7 @@ In this section—
 
 &emsp;(A) Consistent with the research plan in subsection (d), the Interagency Committee shall coordinate a program of competitive grants to universities or other research institutions, or groups of universities or research institutions, for the purposes of conducting a coordinated research program related to the regional aspects of oil pollution, such as prevention, removal, mitigation, and the effects of discharged oil on regional environments. For the purposes of this paragraph, a region means a Coast Guard district as set out in part 3 of title 33, Code of Federal Regulations (2010).
 
-&emsp;(B) The Interagency Committee shall coordinate the publication by the agencies represented on the Interagency Committee of a solicitation for grants under this subsection. The application shall be in such form and contain such information as may be required in the published solicitation. The applications shall be reviewed by the Interagency Committee, which shall make recommendations to the appropriate granting agency represented on the Interagency Committee for awarding the grant. The granting agency shall award the grants recommended by the Interagency Committee unless the agency decides not to award the grant due to budgetary or other compelling considerations and publishes its reasons for such a determination in the Federal Register. No grants may be made by any agency from any funds authorized for this paragraph unless such grant award has first been recommended by the Interagency Committee.
+&emsp;(B) The Interagency Committee shall coordinate the publication by the agencies represented on the Interagency Committee of a solicitation for grants under this subsection. The application shall be in such form and contain such information as may be required in the published solicitation. The applications shall be reviewed by the Interagency Committee, which shall make recommendations to the appropriate granting agency representedon the Interagency Committee for awarding the grant. The granting agency shall award the grants recommended by the Interagency Committee unless the agency decides not to award the grant due to budgetary or other compelling considerations and publishes its reasons for such a determination in the Federal Register. No grants may be made by any agency from any funds authorized for this paragraph unless such grant award has first been recommended by the Interagency Committee.
 
 &emsp;(C) Any university or other research institution, or group of universities or research institutions, may apply for a grant for the regional research program established by this paragraph. The applicant must be located in the region, or in a State a part of which is in the region, for which the project is proposed as part of the regional research program. With respect to a group application, the entity or entities which will carry out the substantial portion of the proposed research must be located in the region, or in a State a part of which is in the region, for which the project is proposed as part of the regional research program.
 
@@ -254,7 +254,7 @@ In this section—
 
 &emsp;&emsp;(iii) The projects which the applicant proposes to carry out under the grant are consistent with the research plan under subsection (d) and would further the objectives of the research and development program established in this section.
 
-&emsp;(E) Grants provided under this paragraph shall be for a period up to 3 years, subject toannual review by the granting agency, and provide not more than 80 percent of the costs of the research activities carried out in connection with the grant.
+&emsp;(E) Grants provided under this paragraph shall be for a period up to 3 years, subject to annual review by the granting agency, and provide not more than 80 percent of the costs of the research activities carried out in connection with the grant.
 
 &emsp;(F) No funds made available to carry out this subsection may be used for the acquisition of real property (including buildings) or construction of any building.
 
@@ -368,7 +368,7 @@ Subsec. (c)(9). Pub. L. 104–324, §1102(c)(2), inserted "until the authorizati
 
 Subsec. (f). Pub. L. 104–332 made technical amendment to Pub. L. 101–646, §4002(2). See 1990 Amendment note below.
 
-<b>1990</b>—Subsec. (c)(6). Pub. L. 101–537, §2002(1), and Pub. L. 101–646, §4002(1), as amended by Pub. L. 104–332, §2(h)(1), made substantially identical amendments, substituting "4" for "3" and inserting cl. (D).
+<b>1990</b>—Subsec. (c)(6). Pub. L. 101–537, §2002(1), and Pub. L. 101–646, §4002(1), as amended by Pub. L. 104–332,§2(h)(1), made substantially identical amendments, substituting "4" for "3" and inserting cl. (D).
 
 Subsec. (f). Pub. L. 101–537, §2002(2), and Pub. L. 101–646, §4002(2), as amended by Pub. L. 104–332, amended subsec. (f) identically, substituting "$22,000,000" for "$21,250,000" in introductory provisions and "$3,000,000" for "$2,250,000" in par. (2).
 

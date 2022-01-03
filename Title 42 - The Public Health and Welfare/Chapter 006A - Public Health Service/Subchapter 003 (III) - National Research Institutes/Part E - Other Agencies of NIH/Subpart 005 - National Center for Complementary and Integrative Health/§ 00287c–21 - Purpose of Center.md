@@ -6,7 +6,7 @@ The general purposes of the National Center for Complementary and Integrative He
 
 #### (b) Advisory council
 
-The Secretary shall establish an advisory council for the Center in accordance with section 284a of this title, except that at least half of the members of the advisory council who arenot ex officio members shall include practitioners licensed in one or more of the major systems with which the Center is concerned, and at least 3 individuals representing the interests of individual consumers of complementary and integrative health.
+The Secretary shall establish an advisory council for the Center in accordance with section 284a of this title, except that at least half of the members of the advisory council who are not ex officio members shall include practitioners licensed in one or more of the major systems with which the Center is concerned, and at least 3 individuals representing the interests of individual consumers of complementary and integrative health.
 
 #### (c) Integration of new and non-traditional approaches
 
@@ -14,7 +14,7 @@ In carrying out subsection (a), the Director of the Center shall, as appropriate
 
 #### (d) Appropriate scientific expertise and coordination with institutes and Federal agencies
 
-The Director of the Center, after consultation with the advisory council for the Center and the division of research grants, shall ensure that scientists with appropriate expertise in research on complementary and integrative health are incorporated into the review, oversight, and management processes of all research projects and other activities funded by the Center. In carrying out this subsection, the Director of the Center, as necessary, may establish review groups with appropriate scientific expertise. The Director of the Center shall coordinate efforts with other Institutes and Federal agencies to ensure appropriate scientific input and management.
+The Director of the Center, after consultation with the advisory council for the Center and the division of research grants, shall ensure that scientists with appropriate expertise in research on complementary and integrative health are incorporated into the review, oversight, and management processes of all research projects and other activities funded by the Center. In carrying out this subsection, the Director of the Center, as necessary, may establish review groups with appropriate scientific expertise. The Director of the Center shall coordinate effortswith other Institutes and Federal agencies to ensure appropriate scientific input and management.
 
 #### (e) Evaluation of various disciplines and systems
 
@@ -62,6 +62,8 @@ Amounts appropriated to carry out this section for fiscal year 1999 are availabl
 
 (July 1, 1944, ch. 373, title IV, §485D, as added Pub. L. 105–277, div. A, §101(f) \[title VI, §601(2)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–387; amended Pub. L. 113–235, div. G, title II, §224, Dec. 16, 2014, 128 Stat. 2490.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Subsec. (a). Pub. L. 113–235, §224(1), (3), substituted "National Center for Complementary and Integrative Health" for "National Center for Complementary and Alternative Medicine" and "complementary and integrative health" for "complementary and alternative treatment".
@@ -80,11 +82,15 @@ Subsec. (g)(2). Pub. L. 113–235, §224(4), substituted "integrative health tre
 
 Subsec. (h). Pub. L. 113–235, §224(2), (3), substituted "complementary and integrative health," for "complementary and alternative treatment," and "integrative health research" for "alternative medicine research".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Termination of Advisory Councils
 
 Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 13147
 

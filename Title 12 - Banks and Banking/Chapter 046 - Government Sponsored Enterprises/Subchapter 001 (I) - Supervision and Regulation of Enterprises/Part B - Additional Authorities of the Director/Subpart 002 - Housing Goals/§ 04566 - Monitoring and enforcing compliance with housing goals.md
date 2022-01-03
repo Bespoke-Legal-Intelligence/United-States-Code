@@ -98,7 +98,7 @@
 
 #### (4) Approval
 
-&emsp;The Director shall review each submission by an enterprise, including a housing plan submitted under this subsection, and, not later than 30 days after submission, approve or disapprove the plan or other action. The Director may extend the period for approval or disapproval for a single additional 30-day period if the Director determines it necessary. The Director shall approve any plan that the Director determines is likely to succeed, and conforms with the Federal National Mortgage Association Charter Act \[12 U.S.C. 1716 et seq.\] or the Federal Home Loan Mortgage Corporation Act \[12 U.S.C. 1451 et seq.\] (as applicable), this chapter, and any other applicable provision of law.
+&emsp;The Director shall review each submission by an enterprise, including a housing plan submitted under this subsection, and, not laterthan 30 days after submission, approve or disapprove the plan or other action. The Director may extend the period for approval or disapproval for a single additional 30-day period if the Director determines it necessary. The Director shall approve any plan that the Director determines is likely to succeed, and conforms with the Federal National Mortgage Association Charter Act \[12 U.S.C. 1716 et seq.\] or the Federal Home Loan Mortgage Corporation Act \[12 U.S.C. 1451 et seq.\] (as applicable), this chapter, and any other applicable provision of law.
 
 #### (5) Notice of approval and disapproval
 

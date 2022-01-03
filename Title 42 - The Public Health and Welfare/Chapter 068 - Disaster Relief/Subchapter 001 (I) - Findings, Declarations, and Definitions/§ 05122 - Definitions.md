@@ -66,6 +66,8 @@ Chief executive.—The term "Chief Executive" means the person who is the Chief,
 
 (Pub. L. 93–288, title I, §102, May 22, 1974, 88 Stat. 144; Pub. L. 100–707, title I, §103(b)–(d), (f), Nov. 23, 1988, 102 Stat. 4689, 4690; Pub. L. 102–247, title II, §205, Feb. 24, 1992, 106 Stat. 38; Pub. L. 106–390, title III, §302, Oct. 30, 2000, 114 Stat. 1572; Pub. L. 109–295, title VI, §688, Oct. 4, 2006, 120 Stat. 1448; Pub. L. 113–2, div. B, §1110(c), Jan. 29, 2013, 127 Stat. 49; Pub. L. 114–111, §2(a), Dec. 18, 2015, 129 Stat. 2240; Pub. L. 115–123, div. B, title VI, §20604(a), Feb. 9, 2018, 132 Stat. 85; Pub. L. 115–254, div. D, §§1214, 1238(b), Oct. 5, 2018, 132 Stat. 3449, 3466.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in introductory provisions and par. (2), was in the original "this Act", meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
@@ -112,7 +114,7 @@ Par. (9). Pub. L. 106–390, §302(3), inserted "irrigation," after "utility,".
 
 <b>1992</b>—Pars. (3), (4). Pub. L. 102–247 inserted "the Northern Mariana Islands," after "American Samoa,".
 
-<b>1988</b>—Par. (1). Pub. L. 100–707, §103(b), inserted heading and amended text generally. Prior to amendment, text read as follows: " 'Emergency' means any hurricane, tornado, storm, flood, high water, wind-drivenwater, tidal wave, tsunami, earthquake, volcanic eruption, landslide, mudslide, snowstorm, drought, fire, explosion, or other catastrophe in any part of the United States which requires Federal emergency assistance to supplement State and local efforts to save lives and protect property, public health and safety or to avert or lessen the threat of a disaster."
+<b>1988</b>—Par. (1). Pub. L. 100–707, §103(b), inserted heading and amended text generally. Prior to amendment, text read as follows: " 'Emergency' means any hurricane, tornado, storm, flood, high water, wind-driven water, tidal wave, tsunami, earthquake, volcanic eruption, landslide, mudslide, snowstorm, drought, fire, explosion, or other catastrophe in any part of the United States which requires Federal emergency assistance to supplement State and local efforts to save lives and protect property, public health and safety or to avert or lessen the threat of a disaster."
 
 Par. (2). Pub. L. 100–707, §103(c), inserted heading and amended text generally. Prior to amendment, text read as follows: " 'Major disaster' means any hurricane, tornado, storm, flood, high water, wind-driven water, tidal wave, tsunami, earthquake, volcanic eruption, landslide, mudslide, snowstorm, drought, fire, explosion, or other catastrophe in any part of the United States which, in the determination of the President, causes damage of sufficient severity and magnitude to warrant major disaster assistance under this chapter, above and beyond emergency services by the Federal Government, to supplement the efforts and available resources of States, local governments, and disaster relief organizations in alleviating the damage, loss, hardship, or suffering caused thereby."
 
@@ -120,9 +122,11 @@ Pars. (3), (4). Pub. L. 100–707, §103(d), struck out "the Canal Zone," after 
 
 Pars. (8), (9). Pub. L. 100–707, §103(f), added pars. (8) and (9).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
-Pub. L. 115–254, div. D, §1238(c), Oct. 5, 2018, 132 Stat. 3466, provided that: "The amendment made by subsection (b)(1) \[amending this section\] shall apply to any major disaster or emergency declared by the President under section 401 or 501, respectively, of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170, 5191) on or after the date of enactment of this Act \[Oct. 5, 2018\]."
+Pub. L. 115–254, div. D, §1238(c), Oct. 5, 2018, 132 Stat. 3466, provided that: "The amendment made by subsection (b)(1) \[amending this section\] shall apply to any major disaster or emergency declared by the President under section 401 or 501, respectively, of the Robert T.Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170, 5191) on or after the date of enactment of this Act \[Oct. 5, 2018\]."
 
 Amendment by Pub. L. 115–254 applicable to each major disaster and emergency declared by the President on or after Aug. 1, 2017, and authorities provided under div. D of Pub. L. 115–254 applicable to each major disaster and emergency declared by the President on or after Jan. 1, 2016, except as otherwise provided, see section 1202 of Pub. L. 115–254, set out as a note under section 5121 of this title.
 

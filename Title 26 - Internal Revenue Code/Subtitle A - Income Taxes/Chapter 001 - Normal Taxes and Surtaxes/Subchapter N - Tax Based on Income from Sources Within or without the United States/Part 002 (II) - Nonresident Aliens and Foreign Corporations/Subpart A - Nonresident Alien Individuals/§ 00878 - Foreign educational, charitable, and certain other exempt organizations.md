@@ -4,9 +4,13 @@
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 282, §877; renumbered §878, Pub. L. 89–809, title I, §103(f)(1), Nov. 13, 1966, 80 Stat. 1551; amended Pub. L. 91–172, title I, §101(j)(20), Dec. 30, 1969, 83 Stat. 528.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1969</b>—Pub. L. 91–172 substituted provisions requiring reference to organizations in sections 512(a) and 4948 for provisions requiring reference to trusts in section 512(a), and struck out reference to unrelated business income.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1969 Amendment
 

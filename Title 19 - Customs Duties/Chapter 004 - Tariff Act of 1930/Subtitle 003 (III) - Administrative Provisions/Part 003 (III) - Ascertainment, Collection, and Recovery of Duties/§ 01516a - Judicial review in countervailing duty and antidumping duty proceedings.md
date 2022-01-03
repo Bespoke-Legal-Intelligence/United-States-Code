@@ -40,7 +40,7 @@
 
 &emsp;&emsp;&emsp;(i) Final affirmative determinations by the administering authority and by the Commission under section 1671d or 1673d of this title, including any negative part of such a determination (other than a part referred to in clause (ii)).
 
-&emsp;&emsp;&emsp;(ii) A final negative determination by the administering authority or the Commission under section 1671d or 1673d of thistitle, including, at the option of the appellant, any part of a final affirmative determination which specifically excludes any company or product.
+&emsp;&emsp;&emsp;(ii) A final negative determination by the administering authority or the Commission under section 1671d or 1673d of this title, including, at the option of the appellant, any part of a final affirmative determination which specifically excludes any company or product.
 
 &emsp;&emsp;&emsp;(iii) A final determination, other than a determination reviewable under paragraph (1), by the administering authority or the Commission under section 1675 of this title.
 
@@ -88,7 +88,7 @@
 
 &emsp;&emsp;&emsp;(ii) under subsection (g)(12)(D), the day after the date that notice of settlement is published in the Federal Register.
 
-&emsp;&emsp;(E) For a determination described in clause (vii) of paragraph (2)(B), the 31st day after the date on which notice of the implementation of the determination is published in the Federal Register.
+&emsp;&emsp;(E) For a determination described in clause (vii) of paragraph (2)(B), the 31st dayafter the date on which notice of the implementation of the determination is published in the Federal Register.
 
 #### (b) Standards of review
 
@@ -266,7 +266,7 @@ For purposes of this section—
 
 #### (A) Constitutionality of binational panel review system
 
-&emsp;&emsp;An action for declaratory judgment or injunctive relief, or both, regarding a determination on the grounds that any provision of, or amendment made by, the United States-Canada Free-Trade Agreement Implementation Act of 1988 implementing the binational panel dispute settlement system under chapter 19 of the Agreement, or theUnited States-Mexico-Canada Agreement Implementation Act implementing the binational panel dispute settlement system under chapter 10 of the USMCA, violates the Constitution may be brought only in the United States Court of Appeals for the District of Columbia Circuit, which shall have jurisdiction of such action.
+&emsp;&emsp;An action for declaratory judgment or injunctive relief, or both, regarding a determination on the grounds that any provision of, or amendment made by, the United States-Canada Free-Trade Agreement Implementation Act of 1988 implementing the binational panel dispute settlement system under chapter 19 of the Agreement, or the United States-Mexico-Canada Agreement Implementation Act implementing the binational panel dispute settlement system under chapter 10 of the USMCA, violates the Constitution may be brought only in the United States Court of Appeals for the District of Columbia Circuit, which shall have jurisdiction of such action.
 
 #### (B) Other constitutional review
 
@@ -350,7 +350,7 @@ For purposes of this section—
 
 #### (i) General rule
 
-&emsp;&emsp;&emsp;An interested party who was a party to the proceeding in which a determination is made may request binational panel review of such determination by filing a request with the United States Secretary by no later than the date that is 30 days after the date described in subparagraph (A), (B), or (E) of subsection (a)(5) that is applicable to such determination. Receipt of such request by the United States Secretary shall be deemed to be a request for binational panel review within the meaning of article 1904(4) of the Agreement or article 10.12 of the USMCA. Such request shall contain such information and be in such form, manner, and style as the administering authority, in consultation with the Commission, shall prescribe by regulations.
+&emsp;&emsp;&emsp;An interested party who was a party to the proceeding in which a determination is made may request binational panel review of such determination by filing a requestwith the United States Secretary by no later than the date that is 30 days after the date described in subparagraph (A), (B), or (E) of subsection (a)(5) that is applicable to such determination. Receipt of such request by the United States Secretary shall be deemed to be a request for binational panel review within the meaning of article 1904(4) of the Agreement or article 10.12 of the USMCA. Such request shall contain such information and be in such form, manner, and style as the administering authority, in consultation with the Commission, shall prescribe by regulations.
 
 #### (ii) Suspension of time to request binational panel review under the USMCA
 
@@ -452,6 +452,8 @@ For purposes of this section—
 
 <i>For termination of amendment by section 501(c) of Pub. L. 100–449, see Effective and Termination Dates of 1988 Amendment note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1303 of this title, referred to in subsec. (d), is defined in section 1677(26) of this title to mean section 1330 as in effect on the day before Jan. 1, 1995.
@@ -486,7 +488,7 @@ Subsec. (f)(9). Pub. L. 116–113, §421(3)(D), (E), redesignated par. (10) as (
 
 Subsec. (f)(10). Pub. L. 116–113, §421(3)(F), added par. (10). Former par. (10) redesignated (9).
 
-Subsec. (g)(2). Pub. L. 116–113, §421(4)(A), substituted "of the Agreement or article 10.12 of the USMCA" for"of the NAFTA or of the Agreement" in introductory provisions.
+Subsec. (g)(2). Pub. L. 116–113, §421(4)(A), substituted "of the Agreement or article 10.12 of the USMCA" for "of the NAFTA or of the Agreement" in introductory provisions.
 
 Subsec. (g)(3)(A)(i). Pub. L. 116–113, §421(4)(B)(i), which directed substitution of "of the Agreement or article 10.12 of the USMCA;" for "of the NAFTA or of the Agreement.", was executed by making the substitution for "of the NAFTA or of the Agreement," to reflect the probable intent of Congress.
 
@@ -642,7 +644,7 @@ Subsec. (a)(3), (4). Pub. L. 98–573, §623(a)(4), added par. (3) and redesigna
 
 <b>1982</b>—Subsecs. (c)(1), (e). Pub. L. 97–164 substituted "Court of Appeals for the Federal Circuit" for "Court of Customs and Patent Appeals".
 
-<b>1980</b>—Subsec. (a)(1). Pub. L. 96–417, §608(a), inserted subpar. "(A) Thirty-day review" heading; redesignatedas cls. (i), (ii), and (iii) of subpar. (A) provisions formerly designated as subpars. (A), (C), and (D) of par. (1); inserted subpar. "(B) Ten-day review" heading and its introductory text; redesignated as cls. (i) and (ii) of subpar. (B) provisions formerly designated as subpars. (B) and (E) of par. (1), thus substituting ten-day for thirty-day review for such clauses; enacted provision respecting commencement of action by an interested party following subpars. (A) and (B), formerly enacted following only par. (1); and redesignated the United States Customs Court as the United States Court of International Trade in the latter provisions.
+<b>1980</b>—Subsec. (a)(1). Pub. L. 96–417, §608(a), inserted subpar. "(A) Thirty-day review" heading; redesignated as cls. (i), (ii), and (iii) of subpar. (A) provisions formerly designated as subpars. (A), (C), and (D) of par. (1); inserted subpar. "(B) Ten-day review" heading and its introductory text; redesignated as cls. (i) and (ii) of subpar. (B) provisions formerly designated as subpars. (B) and (E) of par. (1), thus substituting ten-day for thirty-day review for such clauses; enacted provision respecting commencement of action by an interested party following subpars. (A) and (B), formerly enacted following only par. (1); and redesignated the United States Customs Court as the United States Court of International Trade in the latter provisions.
 
 Subsec. (a)(2)(A). Pub. L. 96–417, §601(7), redesignated the United States Customs Court as the United States Court of International Trade.
 
@@ -655,6 +657,8 @@ Subsec. (c)(1), (2). Pub. L. 96–417, §§601(7), 608(c), redesignated in pars.
 Subsec. (d). Pub. L. 96–417, §§601(7), 608(d), redesignated the United States Customs Court as the United States Court of International Trade and substituted requirement for notification of "all such interested parties of the filing of an action under this section, in the form, manner, style, and within the time prescribed by rules of the court" for prior notice requirement to "all interested parties of the filing of an action pursuant to this section".
 
 Subsec. (e). Pub. L. 96–417, §601(7), redesignated the United States Customs Court as the United States Court of International Trade.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 
@@ -710,7 +714,7 @@ Transitional Rules.—
 
 Certain protests, petitions, actions, etc.—The amendments made by this title \[enacting this section and amending sections 1514, 1515, and 1516 of this title and sections 1541, 1582, 2632, 2633, and 2637 of Title 28, Judiciary and Judicial Procedure\] shall not apply with respect to—
 
-&emsp;&emsp;"(A) any protest, petition, or notice of desire to contest filed before the effective date \[Jan. 1, 1980\]under section 514, 516(a), or 516(d), respectively, of the Tariff Act of 1930 \[section 1514, 1516(a), or 1516(d) of this title\];
+&emsp;&emsp;"(A) any protest, petition, or notice of desire to contest filed before the effective date \[Jan. 1, 1980\] under section 514, 516(a), or 516(d), respectively, of the Tariff Act of 1930 \[section 1514, 1516(a), or 1516(d) of this title\];
 
 &emsp;&emsp;"(B) any civil action commenced before the effective date \[Jan. 1, 1980\] under section 2632 of title 28 of the United States Code; or
 
@@ -739,6 +743,8 @@ For provisions relating to effect of termination of USMCA country status on sect
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+
+#### <b>Executive Documents</b>
 
 #### Acceptance by President of Panel and Committee Decisions
 

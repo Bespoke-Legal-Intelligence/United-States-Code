@@ -26,7 +26,7 @@ A taxpayer engaged in more than one trade or business may, in computing taxable 
 
 #### (e) Requirement respecting change of accounting method
 
-Except as otherwise expressly provided in this chapter, a taxpayer who changes the method ofaccounting on the basis of which he regularly computes his income in keeping his books shall, before computing his taxable income under the new method, secure the consent of the Secretary.
+Except as otherwise expressly provided in this chapter, a taxpayer who changes the method of accounting on the basis of which he regularly computes his income in keeping his books shall, before computing his taxable income under the new method, secure the consent of the Secretary.
 
 #### (f) Failure to request change of method of accounting
 
@@ -38,11 +38,15 @@ If the taxpayer does not file with the Secretary a request to change the method 
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 151; Pub. L. 94–455, title XIX, §1906 (b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title I, §161(a), July 18, 1984, 98 Stat. 696.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Subsec. (f). Pub. L. 98–369 added subsec. (f).
 
 <b>1976</b>—Subsecs. (b), (c), (e). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

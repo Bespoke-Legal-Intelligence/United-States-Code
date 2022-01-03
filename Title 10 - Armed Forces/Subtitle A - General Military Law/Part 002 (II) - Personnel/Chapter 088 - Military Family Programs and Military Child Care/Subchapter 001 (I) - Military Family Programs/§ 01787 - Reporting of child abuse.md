@@ -10,9 +10,13 @@ Definition.—In this section, the term "child abuse and neglect" has the meanin
 
 (Added Pub. L. 104–106, div. A, title V, §568(a)(1), Feb. 10, 1996, 110 Stat. 331; amended Pub. L. 112–239, div. A, title X, §1076(d)(2), Jan. 2, 2013, 126 Stat. 1951.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2013</b>—Subsec. (b). Pub. L. 112–239 substituted "section 3" for "section 3(1)" and "Public Law 93–247; 42 U.S.C. 5101 note" for "42 U.S.C. 5102".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Improvements to Department of Defense Tracking of and Response to Incidents of Child Abuse, Adult Crimes Against Children, and Serious Harmful Behavior Between Children and Youth Involving Military Dependents on Military Installations
 
@@ -120,7 +124,7 @@ Availability.—The Secretary shall ensure that—
 
 &emsp;&emsp;&emsp;"(i) one or more certified pediatric sexual assault examiners are located in each geographic region specified pursuant to subparagraph (A); and
 
-&emsp;&emsp;&emsp;"(ii) examiners so located serve as certified pediatric sexual assault examiners throughout suchregion, without regard to Armed Force or installation.
+&emsp;&emsp;&emsp;"(ii) examiners so located serve as certified pediatric sexual assault examiners throughout such region, without regard to Armed Force or installation.
 
 &emsp;"(5)
 
@@ -172,7 +176,7 @@ Collaboration with national children's alliance.—
 
 &emsp;&emsp;"(A)
 
-Memoranda of understanding.—The Secretary of each military department shall seek to enter into a memorandum of understanding with the National Children's Alliance, or similar organization, under which—
+Memoranda of understanding.—The Secretary of each military department shall seek to enter into a memorandum of understanding withthe National Children's Alliance, or similar organization, under which—
 
 &emsp;&emsp;&emsp;"(i) the children's advocacy center services of the Alliance are available to all installations in the continental United States under the jurisdiction of such Secretary; and
 

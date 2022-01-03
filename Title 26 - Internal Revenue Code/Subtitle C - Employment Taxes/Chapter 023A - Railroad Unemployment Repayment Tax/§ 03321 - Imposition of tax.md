@@ -24,6 +24,8 @@ The tax imposed by this section shall not apply to rail wages paid on or after t
 
 (Added Pub. L. 98–76, title II, §231(a), Aug. 12, 1983, 97 Stat. 426; amended Pub. L. 99–272, title XIII, §13301(a), Apr. 7, 1986, 100 Stat. 325; Pub. L. 100–647, title I, §1018(u)(17), title VIII, §7106(a), Nov. 10, 1988, 102 Stat. 3590, 3772.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 10(d) of the Railroad Unemployment Insurance Act, referred to in subsec. (c)(1), is classified to section 360(d) of Title 45, Railroads.
@@ -54,9 +56,11 @@ Subsequent taxable periods.—The applicable percentage for any taxable period b
 
 > &emsp;In no event shall the applicable percentage exceed 5 percent."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1988 Amendment
 
-Amendment by section 1018(u)(17) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by section 1018(u)(17) of Pub. L. 100–647 effective, except as otherwise provided, as if included inthe provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 Pub. L. 100–647, title VII, §7106(d), Nov. 10, 1988, 102 Stat. 3774, provided that: "The amendments made by this section \[amending this section and sections 3322, 6157, 6201, 6317, 6513, and 6601 of this title, omitting section 3323 of this title, and amending provisions set out as a note under section 231n of Title 45, Railroads\], and the provisions of subsection (b) \[set out below\], shall apply to remuneration paid after December 31, 1988."
 

@@ -16,7 +16,7 @@
 
 &emsp;(3) a payment may not be made under section 8133(a)(5) of this title;
 
-&emsp;(4) "performance of duty" means only active service, and travel to and from that service, rendered in performance or support of operational missions of the Civil Air Patrol under direction of the Department of the Air Force and under written authorization by competent authority covering a specific assignment and prescribing a time limit for the assignment; and
+&emsp;(4) "performance of duty" means only active service, and travel to and from that service, rendered in performance or support of operational missions of the Civil Air Patrol under direction of the Department of the Air Forceand under written authorization by competent authority covering a specific assignment and prescribing a time limit for the assignment; and
 
 &emsp;(5) the Secretary of Labor or his designee shall inform the Commissioner of Social Security when a claim is filed and eligibility for compensation is established under section 8133(a)(2) or (3) of this title, and the Commissioner of Social Security shall certify to the Secretary of Labor as to whether or not the member concerned was fully or currently insured under subchapter II of chapter 7 of title 42 at the time of his death.
 

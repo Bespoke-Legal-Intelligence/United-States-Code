@@ -46,7 +46,7 @@ Eligibility of Dependents of Federal Employees.—(1)(A) A dependent of a Federa
 
 (C) Subparagraph (A) shall not apply to an individual who is a dependent of a Federal employee in the excepted service (as defined in section 2103 of title 5) and who is enrolled in an educational program provided by the Secretary pursuant to subsection (a) in Puerto Rico, Wake Island, Guam, American Samoa, the Northern Mariana Islands, or the Virgin Islands.
 
-(D) Subparagraph (A) shall not apply to a dependent covered by paragraph (1)(B). No requirement under this paragraph for reimbursement for educational services provided for the dependent shall apply with respect to the dependent, except that the Secretary may require theUnited States Customs Service to reimburse the Secretary for the cost of the educational services provided for the dependent.
+(D) Subparagraph (A) shall not apply to a dependent covered by paragraph (1)(B). No requirement under this paragraph for reimbursement for educational services provided for the dependent shall apply with respect to the dependent, except that the Secretary may require the United States Customs Service to reimburse the Secretary for the cost of the educational services provided for the dependent.
 
 (d)
 
@@ -114,7 +114,7 @@ Administration and Staff.—(1) The Secretary of Defense may enter into such arr
 
 Substantive and Procedural Rights and Protections for Children.—(1) The Secretary shall provide the following substantive rights, protections, and procedural safeguards (including due process procedures) in the educational programs provided for under this section:
 
-&emsp;(A) In the case of children with disabilities aged 3 to 5, inclusive, all substantive rights, protections, and procedural safeguards (including due process procedures) available tochildren with disabilities aged 3 to 5, inclusive, under part B of the Individuals with Disabilities Education Act (20 U.S.C. 1411 et seq.).
+&emsp;(A) In the case of children with disabilities aged 3 to 5, inclusive, all substantive rights, protections, and procedural safeguards (including due process procedures) available to children with disabilities aged 3 to 5, inclusive, under part B of the Individuals with Disabilities Education Act (20 U.S.C. 1411 et seq.).
 
 &emsp;(B) In the case of infants or toddlers with disabilities, all substantive rights, protections, and procedural safeguards (including due process procedures) available to infants or toddlers with disabilities under part C of such Act (20 U.S.C. 1431 et seq.).
 
@@ -188,7 +188,9 @@ Enrollment in Virtual Elementary and Secondary Education Program.—(1) Under re
 
 (3) Any payments received by the Secretary of Defense under this subsection shall be credited to the account designated by the Secretary for the operation of the virtual educational program under this subsection. Payments so credited shall be merged with other funds in the account and shall be available, to the extent provided in advance in appropriation Acts, for the same purposes and the same period as other funds in the account.
 
-(Added Pub. L. 103–337, div. A, title III, §351(a), Oct. 5, 1994, 108 Stat. 2727; amended Pub. L. 104–106, div. A, title X, §1075, Feb. 10, 1996, 110 Stat. 450; Pub. L. 104–201, div. A, title XVI, §1608, Sept. 23, 1996, 110 Stat. 2737; Pub. L. 105–261, div. A, title III, §371(a)–(c)(2), Oct. 17, 1998, 112 Stat. 1988, 1989; Pub. L. 106–65, div. A, title III, §§352, 353, Oct. 5, 1999, 113 Stat. 572; Pub. L. 106–398, §1 \[\[div. A\], title III, §361\], Oct. 30, 2000, 114 Stat. 1654, 1654A–76; Pub. L. 108–446, title III, §305(a), Dec. 3, 2004, 118 Stat. 2804; Pub. L. 111–84, div. A, title V, §534, Oct. 28, 2009, 123 Stat. 2292; Pub. L. 111–383, div. A, title V, §561, Jan. 7, 2011, 124 Stat. 4221; Pub. L. 112–239, div. A, title V, §565, Jan. 2, 2013, 126 Stat. 1749; Pub. L. 113–66, div. A, title V, §553(a), Dec. 26, 2013, 127 Stat. 764.)
+(Added Pub. L. 103–337, div. A, title III, §351(a), Oct. 5, 1994, 108 Stat. 2727; amended Pub. L.104–106, div. A, title X, §1075, Feb. 10, 1996, 110 Stat. 450; Pub. L. 104–201, div. A, title XVI, §1608, Sept. 23, 1996, 110 Stat. 2737; Pub. L. 105–261, div. A, title III, §371(a)–(c)(2), Oct. 17, 1998, 112 Stat. 1988, 1989; Pub. L. 106–65, div. A, title III, §§352, 353, Oct. 5, 1999, 113 Stat. 572; Pub. L. 106–398, §1 \[\[div. A\], title III, §361\], Oct. 30, 2000, 114 Stat. 1654, 1654A–76; Pub. L. 108–446, title III, §305(a), Dec. 3, 2004, 118 Stat. 2804; Pub. L. 111–84, div. A, title V, §534, Oct. 28, 2009, 123 Stat. 2292; Pub. L. 111–383, div. A, title V, §561, Jan. 7, 2011, 124 Stat. 4221; Pub. L. 112–239, div. A, title V, §565, Jan. 2, 2013, 126 Stat. 1749; Pub. L. 113–66, div. A, title V, §553(a), Dec. 26, 2013, 127 Stat. 764.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -241,6 +243,8 @@ Subsec. (c)(2)(D). Pub. L. 105–261, §371(c)(2), added subpar. (D).
 <b>1996</b>—Subsec. (d)(7). Pub. L. 104–201 added par. (7).
 
 Subsec. (e)(4). Pub. L. 104–106 added par. (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2013 Amendment
 

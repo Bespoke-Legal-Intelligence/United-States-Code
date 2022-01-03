@@ -664,7 +664,7 @@ In this title the following definitions shall apply:
 
 #### Amendment of Paragraph (10A)(B)(ii)(V)
 
-<i>Pub. L. 116–136, div. A, title I, §1113(b)(2)(A)(i), (B), Mar. 27, 2020, 134 Stat. 311, 312, provided that, effective 1 year after Mar. 27, 2020, paragraph (10A)(B)(ii)(V) of this section is amended by striking subclause (V). See 2020 Amendment note below.</i>
+<i>Pub. L. 116–136, div. A, title I, §1113(b)(2)(A)(i), (B), Mar. 27, 2020, 134 Stat. 311, 312, as amended by Pub. L. 117–5, §2(a)(2), Mar. 27, 2021, 135 Stat. 249, provided that, effective 2 years after Mar. 27, 2020, paragraph (10A)(B)(ii)(V) of this section is amended by striking subclause (V). See 2020 Amendment note below.</i>
 
 #### Historical and Revision Notes
 
@@ -678,7 +678,7 @@ On the other hand, rights to an equitable remedy for a breach of performance wit
 
 In a case under chapter 9 to title 11, "claim" does not include a right to payment under an industrial development bond issued by a municipality as a matter of convenience for a third party.
 
-Municipalities are authorized, under section 103(c) of the Internal Revenue Code of 1954, as amended \[title 26\], to issue tax-exempt industrial development revenue bonds to provide for the financing of certain projects for privately owned companies. The bonds are sold on the basis of the credit of the company on whose behalfthey are issued, and the principal, interest, and premium, if any, are payable solely from payments made by the company to the trustee under the bond indenture and do not constitute claims on the tax revenues or other funds of the issuing municipalities. The municipality merely acts as the vehicle to enable the bonds to be issued on a tax-exempt basis. Claims that arise by virtue of these bonds are not among the claims defined by this paragraph and amounts owed by private companies to the holders of industrial development revenue bonds are not to be included among the assets of the municipality that would be affected by the plan.
+Municipalities are authorized, under section 103(c) of the Internal Revenue Code of 1954, as amended \[title 26\], to issue tax-exempt industrial development revenue bonds to provide for the financing of certain projectsfor privately owned companies. The bonds are sold on the basis of the credit of the company on whose behalf they are issued, and the principal, interest, and premium, if any, are payable solely from payments made by the company to the trustee under the bond indenture and do not constitute claims on the tax revenues or other funds of the issuing municipalities. The municipality merely acts as the vehicle to enable the bonds to be issued on a tax-exempt basis. Claims that arise by virtue of these bonds are not among the claims defined by this paragraph and amounts owed by private companies to the holders of industrial development revenue bonds are not to be included among the assets of the municipality that would be affected by the plan.
 
 Section 101(6) defines "community claim" as provided by the Senate amendment in order to indicate that a community claim exists whether or not there is community property in the estate as of the commencement of the case.
 
@@ -724,7 +724,7 @@ Paragraph (6) defines "community claim" for those eight States that have communi
 
 Paragraph (7) defines "consumer debt". The definition is adapted from the definition used in various consumer protection laws. It encompasses only a debt incurred by an individual primarily for a personal, family, or household purpose.
 
-The definition of "corporation" in paragraph (8) is similar to the definition in current law, section 1(8) \[section 1(8) of former title 11\]. The term encompasses any association having the power or privilege that a private corporation, but not an individual or partnership, has; partnership associations organized under alaw that makes only the capital subscribed responsible for the debts of the partnership; joint-stock company; unincorporated company or association; and business trust. "Unincorporated association" is intended specifically to include a labor union, as well as other bodies that come under that phrase as used under current law. The exclusion of limited partnerships is explicit, and not left to the case law.
+The definition of "corporation" in paragraph (8) is similar to the definition in current law, section 1(8) \[section 1(8) of former title 11\]. The term encompassesany association having the power or privilege that a private corporation, but not an individual or partnership, has; partnership associations organized under a law that makes only the capital subscribed responsible for the debts of the partnership; joint-stock company; unincorporated company or association; and business trust. "Unincorporated association" is intended specifically to include a labor union, as well as other bodies that come under that phrase as used under current law. The exclusion of limited partnerships is explicit, and not left to the case law.
 
 Paragraph (9) defines "court" as the bankruptcy judge in the district in which the case is pending except in municipal adjustment and railroad reorganization cases, where "court" means the Federal district judge.
 
@@ -758,7 +758,7 @@ Paragraph (24) defines "individual with regular income." The effect of this defi
 
 However, the definition excludes certain stockbrokers and commodity brokers, in order to prohibit them from proceeding under chapter 13 and avoiding the customer protection provisions of chapter 7.
 
-"Insider", defined in paragraph (25), is a new term. An insider is one who has a sufficiently close relationship with the debtor that his conduct is made subject to closer scrutiny than those dealing at arms length with the debtor. If the debtor is an individual, then a relative of the debtor, a partnership in which the debtor is a general partner, a general partner of the debtor, and a corporation controlled by the debtor are all insiders. If the debtor is a corporation, then a controlling person, a relative of a controlling person, a partnership in which the debtor is a general partner, and a general partner of the debtor are all insiders. If the debtor is a partnership, then a general partner of or in the debtor, a relative of a general partner in the debtor, and a person in control are all insiders. If the debtor is a municipality, then an elected official of the debtor is an insider. In addition, affiliates of the debtor and managing agents are insiders.
+"Insider", defined in paragraph (25), is a new term. An insider is one who has a sufficiently close relationship with the debtor that his conduct is made subject to closer scrutiny than those dealing at arms length with the debtor. If the debtor is an individual, then arelative of the debtor, a partnership in which the debtor is a general partner, a general partner of the debtor, and a corporation controlled by the debtor are all insiders. If the debtor is a corporation, then a controlling person, a relative of a controlling person, a partnership in which the debtor is a general partner, and a general partner of the debtor are all insiders. If the debtor is a partnership, then a general partner of or in the debtor, a relative of a general partner in the debtor, and a person in control are all insiders. If the debtor is a municipality, then an elected official of the debtor is an insider. In addition, affiliates of the debtor and managing agents are insiders.
 
 The definition of "insolvent" in paragraph (26) is adopted from section 1(19) of current law \[section 1(19) of former title 11\]. An entity is insolvent if its debts are greater than its assets, at a fair valuation, exclusive of property exempted or fraudulently transferred. It is the traditional bankruptcy balance sheet test of insolvency. For a partnership, the definition is modified to account for the liability of a general partner for the partnership's debts. The difference in this definition from that in current law is in the exclusion of exempt property for all purposes in the definition of insolvent.
 
@@ -786,7 +786,7 @@ Paragraph (38) defines another kind of lien, "statutory lien." The definition, d
 
 "Stockbroker" is defined in paragraph (39) as a person engaged in the business of effecting transactions in securities for the account of others or with members of the general public from or for such person's own account, if the person has a customer, as defined. Thus, the definition, derived from a combination of the definitions of "broker" and "dealer" in the Securities Exchange Act of 1934 \[15 U.S.C. 78c\], encompasses both brokers and dealers. The definition is used in section 109 and in subchapter III of chapter 7, Stockholder Liquidation. The term does not encompass an employee who acts for a principal that "effects" transaction or deals with the public, because such an employee will not have a "customer".
 
-Paragraph (40) defines "transfer." It is derived and adapted, with stylistic changes, from section 1(30) of the Bankruptcy Act \[section 1(30) of former title 11\]. A transfer is a disposition of an interest in property. The definition of transfer is as broad as possible. Many of the potentially limiting words in current law are deleted, and the language is simplified. Under this definition, any transfer of an interest in property is a transfer, including a transfer of possession, custody, or control even if there is no transfer of title, because possession, custody, and control are interests in property. A deposit in a bank account or similar account is a transfer.
+Paragraph (40) defines "transfer." It is derived and adapted, with stylistic changes, from section 1(30) of the Bankruptcy Act \[section 1(30) of former title 11\]. Atransfer is a disposition of an interest in property. The definition of transfer is as broad as possible. Many of the potentially limiting words in current law are deleted, and the language is simplified. Under this definition, any transfer of an interest in property is a transfer, including a transfer of possession, custody, or control even if there is no transfer of title, because possession, custody, and control are interests in property. A deposit in a bank account or similar account is a transfer.
 
 #### <b>Editorial Notes</b>
 
@@ -958,7 +958,7 @@ Pars. (23), (24). Pub. L. 109–8, §1201(2), (8), inserted "The term" after par
 
 Pub. L. 109–8, §802(b), added pars. (23) and (24) and struck out former pars. (23) and (24) which read as follows:
 
-"(23) 'foreign proceeding' means proceeding, whether judicial or administrative and whether or not under bankruptcy law, in a foreign country in which the debtor's domicile, residence, principal place of business, or principal assets were located at the commencement of such proceeding, for the purpose of liquidating an estate, adjusting debts by composition, extension, or discharge, or effecting a reorganization;
+"(23) 'foreign proceeding' means proceeding, whether judicial or administrative and whether or not under bankruptcy law, in a foreign country in which the debtor's domicile, residence, principal place of business, or principal assets were located at the commencement ofsuch proceeding, for the purpose of liquidating an estate, adjusting debts by composition, extension, or discharge, or effecting a reorganization;
 
 "(24) 'foreign representative' means duly selected trustee, administrator, or other representative of an estate in a foreign proceeding;".
 
@@ -1310,7 +1310,7 @@ Pars. (40), (41). Pub. L. 97–222, §1(a)(1), (d), redesignated former par. (39
 
 Pub. L. 116–136, div. A, title I, §1113(b)(1)(D)(i), Mar. 27, 2020, 134 Stat. 312, provided that: "The amendments made by subparagraphs (A) and (B) \[amending this section and section 1325 of this title\] shall apply to any case commenced before, on, or after the date of enactment of this Act \[Mar. 27, 2020\]."
 
-Pub. L. 116–136, div. A, title I, §1113(b)(2)(B), Mar. 27, 2020, 134 Stat. 312, provided that: "The amendments made by subparagraph (A) \[amending this section and sections 1325 and 1329 of this title\] shall take effect on the date that is 1 year after the date of enactment of this Act \[Mar. 27, 2020\]."
+Pub. L. 116–136, div. A, title I, §1113(b)(2)(B), Mar. 27, 2020, 134 Stat. 312, as amended by Pub. L. 117–5, §2(a)(2), Mar. 27, 2021, 135 Stat. 249, provided that: "The amendments made by subparagraph (A) \[amending this section and sections 1325 and 1329 of this title\] shall take effect on the date that is 2 years after the date of enactment of this Act \[Mar. 27, 2020\]."
 
 #### Effective Date of 2019 Amendment
 
@@ -1374,7 +1374,7 @@ Pub. L. 100–597, §12, Nov. 3, 1988, 102 Stat. 3030, provided that:
 
 "(a)
 
-Effective Date.—Except as provided in subsection (b), this Act and the amendments made by this Act \[enacting sections 927 to 929 of this title, amending this section and sections 109, 901, 902, 922, 926, and 943 of this title, and renumbering section 927 of this title as 930\] shall take effect on the date of the enactment of this Act \[Nov. 3, 1988\].
+Effective Date.—Except as provided in subsection (b), this Act and the amendments made by this Act \[enacting sections 927 to 929 of this title, amending this section and sections 109, 901, 902, 922, 926, and 943 of this title, and renumbering section 927 of this title as930\] shall take effect on the date of the enactment of this Act \[Nov. 3, 1988\].
 
 "(b)
 
@@ -1407,6 +1407,10 @@ Pub. L. 98–353, title III, §552, formerly §553, July 10, 1984, 98 Stat. 392,
 "(b) The amendments made by section 426(b) \[amending section 303 of this title\] shall become effective upon the date of enactment of this Act.
 
 "(c) The amendments made by subtitle J \[enacting section 1113 of this title\], shall become effective as provided in section 541(c) \[set out as an Effective Date note under section 1113 of this title\]."
+
+#### Short Title of 2021 Amendment
+
+Pub. L. 117–5, §1, Mar. 27, 2021, 135 Stat. 249, provided that: "This Act \[amending section 1329 of this title and provisions set out as notes under this section and sections 1182 and 1329 of this title\] may be cited as the 'COVID–19 Bankruptcy Relief Extension Act of 2021'."
 
 #### Short Title of 2019 Amendment
 
@@ -1452,7 +1456,7 @@ Pub. L. 109–8, title III, §332(a), Apr. 20, 2005, 119 Stat. 103, provided tha
 
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–369, §1, Oct. 25, 2004, 118 Stat. 1749, provided that: "This Act \[amending sections 1201 to 1208 and 1221 to 1231 of this title and enacting and amending provisions set out as notes under section 1201 of this title\] may be cited as the 'Family Farmer Bankruptcy Relief Act of 2004'."
+Pub. L. 108–369, §1, Oct. 25, 2004, 118 Stat. 1749, provided that: "This Act \[amending sections 1201 to 1208 and 1221 to 1231 of this title and enacting and amending provisions set out as notes under section 1201 of thistitle\] may be cited as the 'Family Farmer Bankruptcy Relief Act of 2004'."
 
 #### Short Title of 2003 Amendment
 
@@ -1464,7 +1468,7 @@ Pub. L. 107–377, §1, Dec. 19, 2002, 116 Stat. 3115, provided that: "This Act 
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–183, §1, June 19, 1998, 112 Stat. 517, provided that: "This Act \[amending sections 544, 546, 548,707, and 1325 of this title and enacting provisions set out as notes under section 544 of this title\] may be cited as the 'Religious Liberty and Charitable Donation Protection Act of 1998'."
+Pub. L. 105–183, §1, June 19, 1998, 112 Stat. 517, provided that: "This Act \[amending sections 544, 546, 548, 707, and 1325 of this title and enacting provisions set out as notes under section 544 of this title\] may be cited as the 'Religious Liberty and Charitable Donation Protection Act of 1998'."
 
 #### Short Title of 1994 Amendment
 

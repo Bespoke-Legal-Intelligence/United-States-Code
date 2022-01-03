@@ -14,9 +14,13 @@
 
 (Pub. L. 94–282, title II, §204, May 11, 1976, 90 Stat. 463; Pub. L. 107–296, title XVII, §1712(1), Nov. 25, 2002, 116 Stat. 2320.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (b)(1). Pub. L. 107–296 inserted "homeland security," after "national security,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

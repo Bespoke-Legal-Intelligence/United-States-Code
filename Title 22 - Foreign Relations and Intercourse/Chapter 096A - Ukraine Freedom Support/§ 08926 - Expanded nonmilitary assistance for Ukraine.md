@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 30 days after December 18, 2014, the Secretary of State shall submit a plan, including actions by the United States Government, other governments, and international organizations, to meet the need for protection of and assistance for internally displaced persons in Ukraine, to—
+&emsp;Not later than 30 days after December 18, 2014, the Secretary of State shall submit a plan, including actions by the United StatesGovernment, other governments, and international organizations, to meet the need for protection of and assistance for internally displaced persons in Ukraine, to—
 
 &emsp;&emsp;(A) the Committee on Foreign Relations, the Committee on Appropriations, and the Committee on Energy and Natural Resources of the Senate; and
 
@@ -52,7 +52,7 @@ The Secretary of State and the Secretary of Defense should assist entities in th
 
 &emsp;&emsp;&emsp;(iv) streamlining emergency communications throughout national, regional, and local governments to manage the potential energy crisis resulting from heating fuel and electricity shortages;
 
-&emsp;&emsp;&emsp;(v) forming a crisis management team within the Government of Ukraine to specifically address the potential crisis, including ensuring coordination of theteam's efforts with the efforts of outside governmental and nongovernmental entities providing assistance to address the potential crisis; and
+&emsp;&emsp;&emsp;(v) forming a crisis management team within the Government of Ukraine to specifically address the potential crisis, including ensuring coordination of the team's efforts with the efforts of outside governmental and nongovernmental entities providing assistance to address the potential crisis; and
 
 &emsp;&emsp;&emsp;(vi) developing a public outreach strategy to facilitate preparation by the population and communication with the population in the event of a crisis.
 

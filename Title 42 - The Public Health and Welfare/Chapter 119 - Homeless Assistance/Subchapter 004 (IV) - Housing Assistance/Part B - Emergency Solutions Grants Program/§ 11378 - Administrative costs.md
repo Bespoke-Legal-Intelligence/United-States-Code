@@ -4,9 +4,13 @@ A recipient may use up to 7.5 percent of any annual grant received under this pa
 
 (Pub. L. 100–77, title IV, §418, as added Pub. L. 101–625, title VIII, §832(b)(1), Nov. 28, 1990, 104 Stat. 4359; amended Pub. L. 111–22, div. B, title II, §1204, May 20, 2009, 123 Stat. 1680.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2009</b>—Pub. L. 111–22 substituted "7.5 percent" for "5 percent".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

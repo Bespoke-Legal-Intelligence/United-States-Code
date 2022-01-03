@@ -16,7 +16,7 @@ In general.—The Postal Service shall file with the Postal Regulatory Commissio
 
 &emsp;(2)
 
-Registrant defined.—For purposes of defining the reports required by paragraph (1), the Postal Service shall be deemed to be the "registrant" described in the Securities and Exchange Commission Forms, and references contained in such Forms to Securities and Exchange Commission regulations are incorporated herein by reference, as amended.
+Registrant defined.—For purposes of defining the reports required by paragraph (1), the Postal Service shall be deemed to be the"registrant" described in the Securities and Exchange Commission Forms, and references contained in such Forms to Securities and Exchange Commission regulations are incorporated herein by reference, as amended.
 
 &emsp;(3)
 

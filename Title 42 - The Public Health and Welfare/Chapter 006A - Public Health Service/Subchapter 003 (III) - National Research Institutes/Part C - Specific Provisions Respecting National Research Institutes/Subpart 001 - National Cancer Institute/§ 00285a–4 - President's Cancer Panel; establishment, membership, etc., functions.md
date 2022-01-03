@@ -10,9 +10,11 @@
 
 (3) The Panel shall meet at the call of the chairman, but not less often than four times a year. A transcript shall be kept of the proceedings of each meeting of the Panel, and the chairman shall make such transcript available to the public.
 
-(b) The Panel shall monitor the development and execution of the activities of the National Cancer Program, and shall report directly to the President. Any delays or blockages in rapid execution of the Program shall immediately be brought to the attention of the President. The Panel shall submit to the President periodic progress reports on the National Cancer Program and shall submit to the President, the Secretary, and the Congress an annual evaluation of the efficacy of the Program and suggestions for improvements, and shall submit such other reports as the President shall direct.
+(b) The Panel shall monitor the development and execution of the activities of the NationalCancer Program, and shall report directly to the President. Any delays or blockages in rapid execution of the Program shall immediately be brought to the attention of the President. The Panel shall submit to the President periodic progress reports on the National Cancer Program and shall submit to the President, the Secretary, and the Congress an annual evaluation of the efficacy of the Program and suggestions for improvements, and shall submit such other reports as the President shall direct.
 
 (July 1, 1944, ch. 373, title IV, §415, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 835.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Reporting Requirements
 

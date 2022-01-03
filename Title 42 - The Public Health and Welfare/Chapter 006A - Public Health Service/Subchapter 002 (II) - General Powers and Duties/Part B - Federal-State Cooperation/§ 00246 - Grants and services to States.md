@@ -14,7 +14,7 @@
 
 &emsp;(D) provide for encouraging cooperative efforts among governmental or nongovernmental agencies, organizations and groups concerned with health services, facilities, or manpower, and for cooperative efforts between such agencies, organizations, and groups and similar agencies, organizations, and groups in the fields of education, welfare, and rehabilitation;
 
-&emsp;(E) contain or be supported by assurances satisfactory to the Secretary that the funds paid under this subsection will be used to supplement and, to the extent practicable, to increase the level of funds that would otherwise be made available by the State for the purpose of comprehensive health planning and not to supplant such non-Federal funds;
+&emsp;(E) contain or be supported by assurances satisfactory to the Secretary that the funds paid under this subsection will be used to supplement and, to the extent practicable, to increase the level of funds that would otherwise be made available by the State for the purposeof comprehensive health planning and not to supplant such non-Federal funds;
 
 &emsp;(F) provide such methods of administration (including methods relating to the establishment and maintenance of personnel standards on a merit basis, except that the Secretary shall exercise no authority with respect to the selection, tenure of office, and compensation of any individual employed in accordance with such methods) as are found by the Secretary to be necessary for the proper and efficient operation of the plan;
 
@@ -30,7 +30,7 @@
 
 (3)(A) From the sums appropriated for such purpose for each fiscal year, the several States shall be entitled to allotments determined, in accordance with regulations, on the basis of the population and the per capita income of the respective States; except that no such allotment to any State for any fiscal year shall be less than 1 per centum of the sum appropriated for such fiscal year pursuant to paragraph (1). Any such allotment to a State for a fiscal year shall remain available for obligation by the State, in accordance with the provisions of this subsection and the State's plan approved thereunder, until the close of the succeeding fiscal year.
 
-(B) The amount of any allotment to a State under subparagraph (A) for any fiscal year which the Secretary determines will not be required by the State, during the period for which it isavailable, for the purposes for which allotted shall be available for reallotment by the Secretary from time to time, on such date or dates as he may fix, to other States with respect to which such a determination has not been made, in proportion to the original allotments to such States under subparagraph (A) for such fiscal year, but with such proportionate amount for any of such other States being reduced to the extent it exceeds the sum the Secretary estimates such State needs and will be able to use during such period; and the total of such reductions shall be similarly reallotted among the States whose proportionate amounts were not so reduced. Any amount so reallotted to a State from funds appropriated pursuant to this subsection for a fiscal year shall be deemed part of its allotment under subparagraph (A) for such fiscal year.
+(B) The amount of any allotment to a State under subparagraph (A) for any fiscal year which the Secretary determines will not be required by the State, during the period for which it is available, for the purposes for which allotted shall be available for reallotment by the Secretary from time to time, on such date or dates as he may fix, to other States with respect to which such a determination has not been made, in proportion to the original allotments to such States under subparagraph (A) for such fiscal year, but with such proportionate amount for any of such other States being reduced to the extent it exceeds the sum the Secretary estimates such State needs and will be able to use during such period; and the total of such reductions shall be similarly reallotted among the States whose proportionate amounts were not so reduced. Any amount so reallotted to a State from funds appropriated pursuant to this subsection for a fiscal year shall be deemed part of its allotment under subparagraph (A) for such fiscal year.
 
 (4) From each State's allotment for a fiscal year under this subsection, the State shall from time to time be paid the Federal share of the expenditures incurred during that year or the succeeding year pursuant to its State plan approved under this subsection. Such payments shall be made on the basis of estimates by the Secretary of the sums the State will need in order to perform the planning under its approved State plan under this subsection, but with such adjustments as may be necessary to take account of previously made underpayments or overpayments. The "Federal share" for any State for purposes of this subsection shall be all, or such part as the Secretary may determine, of the cost of such planning, except that in the case of the allotments for the fiscal year ending June 30, 1970, it shall not exceed 75 per centum of such cost.
 
@@ -46,9 +46,11 @@
 
 #### (c) Project grants for training, studies, and demonstrations; authorization of appropriations
 
-The Secretary is also authorized, during the period beginning July 1, 1966, and ending June 30, 1974, to make grants to any public or nonprofit private agency, institution, or other organization to cover all or any part of the cost of projects for training, studies, or demonstrations looking toward the development of improved or more effective comprehensive health planningthroughout the Nation. For the purposes of carrying out this subsection, there are hereby authorized to be appropriated $1,500,000 for the fiscal year ending June 30, 1967, $2,500,000 for the fiscal year ending June 30, 1968, $5,000,000 for the fiscal year ending June 30, 1969, $7,500,000 for the fiscal year ending June 30, 1970, $8,000,000 for the fiscal year ending June 30, 1971, $10,000,000 for the fiscal year ending June 30, 1972, $12,000,000 for the fiscal year ending June 30, 1973, and $4,700,000 for the fiscal year ending June 30, 1974.
+The Secretary is also authorized, during the period beginning July 1, 1966, and ending June 30, 1974, to make grants to any public or nonprofit private agency, institution, or other organization to cover all or any part of the cost of projects for training, studies, or demonstrations looking toward the development of improved or more effective comprehensive health planning throughout the Nation. For the purposes of carrying out this subsection, there are hereby authorized to be appropriated $1,500,000 for the fiscal year ending June 30, 1967, $2,500,000 for the fiscal year ending June 30, 1968, $5,000,000 for the fiscal year ending June 30, 1969, $7,500,000 for the fiscal year ending June 30, 1970, $8,000,000 for the fiscal year ending June 30, 1971, $10,000,000 for the fiscal year ending June 30, 1972, $12,000,000 for the fiscal year ending June 30, 1973, and $4,700,000 for the fiscal year ending June 30, 1974.
 
 (July 1, 1944, ch. 373, title III, §314, 58 Stat. 693; July 3, 1946, ch. 538, §9, 60 Stat. 424; June 16, 1948, ch. 481, §5, 62 Stat. 468; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Aug. 1, 1956, ch. 852, §18, 70 Stat. 910; Pub. L. 85–544, §1, July 22, 1958, 72 Stat. 400; Pub. L. 87–395, §2(a)–(d), Oct. 5, 1961, 75 Stat. 824; Pub. L. 87–688, §4(a)(1), Sept. 25, 1962, 76 Stat. 587; Pub. L. 89–109, §4, Aug. 5, 1965, 79 Stat. 436; Pub. L. 89–749, §3, Nov. 3, 1966, 80 Stat. 1181; Pub. L. 90–174, §§2(a)–(f), 3(b)(2), 8(a), (b), 12(d), Dec. 5, 1967, 81 Stat. 533–535, 540, 541; Pub. L. 91–296, title I, §111(b), title IV, §401(b)(1)(C), (D), June 30, 1970, 84 Stat. 340, 352; Pub. L. 91–513, title I, §3(b), Oct. 27, 1970, 84 Stat. 1241; Pub. L. 91–515, title II, §§220, 230, 240, 250, 260(a)–(c)(1), 282, Oct. 30, 1970, 84 Stat. 1304–1306, 1308; Pub. L. 91–616, title III, §331, Dec. 31, 1970, 84 Stat. 1853; Pub. L. 91–648, title IV, §403, Jan. 5, 1971, 84 Stat. 1925, as amended Pub. L. 95–454, title VI, §602(c), Oct. 13, 1978, 92 Stat. 1189; Pub. L. 92–255, title IV, §403(a), Mar. 21, 1972, 86 Stat. 77; Pub. L. 93–45, title I, §106, June 18, 1973, 87 Stat. 92; Pub. L. 93–151, §8, Nov. 9, 1973, 87 Stat. 568; Pub. L. 94–63, title I, §102, title V, §501(b), title VII, §701(a), (b), July 29, 1975, 89 Stat. 304, 346, 352; Pub. L. 94–484, title IX, §905(b)(1), Oct. 12, 1976, 90 Stat. 2325; Pub. L. 95–83, title III, §302, Aug. 1, 1977, 91 Stat. 387; Pub. L. 95–454, title VI, §602(c), Oct. 13, 1978, 92 Stat. 1189; Pub. L. 95–622, title I, §109, Nov. 9, 1978, 92 Stat. 3417; Pub. L. 95–626, title II, §201(a), (b)(2), Nov. 10, 1978, 92 Stat. 3570; Pub. L. 96–32, §6(e), (f), July 10, 1979, 93 Stat. 83; Pub. L. 96–79, title I, §115(k)(2), Oct. 4, 1979, 93 Stat. 610; Pub. L. 96–398, title I, §107(d), Oct. 7, 1980, 94 Stat. 1571; Pub. L. 97–35, title IX, §902(b), Aug. 13, 1981, 95 Stat. 559; Pub. L. 99–117, §12(a), Oct. 7, 1985, 99 Stat. 495; Pub. L. 102–54, §13(q)(1)(D), June 13, 1991, 105 Stat. 279.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -62,7 +64,7 @@ The Secretary is also authorized, during the period beginning July 1, 1966, and 
 
 <b>1979</b>—Subsec. (d)(2)(C)(ii). Pub. L. 96–32, §6(e), substituted "uniform national health program reporting system" for "uniform national reporting system".
 
-Subsec. (d)(4)(A). Pub. L. 96–32, §6(f), in provision following subd. (II) of cl. (ii), substituted "the preceding provisions of this subparagraph" for "clauses (i) and (ii)" and "amount" for "amounts" and inserted provision that if the amount appropriated for a fiscal year is equal to or less than the amount appropriated for fiscal year ending Sept. 30, 1979, the total amount of grants for a State health authority shall be an amount which bears the same ratio to the amount appropriated as the total amount of grants received by such authority from appropriations for fiscal year ending Sept. 30, 1979, bears to the amount appropriated for that fiscal year.
+Subsec. (d)(4)(A). Pub. L. 96–32, §6(f), in provision following subd. (II) of cl. (ii), substituted "the preceding provisions of this subparagraph" for "clauses (i) and\(ii)" and "amount" for "amounts" and inserted provision that if the amount appropriated for a fiscal year is equal to or less than the amount appropriated for fiscal year ending Sept. 30, 1979, the total amount of grants for a State health authority shall be an amount which bears the same ratio to the amount appropriated as the total amount of grants received by such authority from appropriations for fiscal year ending Sept. 30, 1979, bears to the amount appropriated for that fiscal year.
 
 Subsec. (g)(2)(D)(iv). Pub. L. 96–79 substituted "a plan which is consistent with the State health plan in effect for the State under section 300m–3(c) of this title and" for "a plan".
 
@@ -84,7 +86,7 @@ Subsec. (d)(7)(B). Pub. L. 95–83, §302(b), substituted provision for an appro
 
 <b>1975</b>—Subsec. (d). Pub. L. 94–63, §§102, 701(a), substituted provisions relating to grants made pursuant to allotments to State health and mental health authorities for meeting the costs of providing comprehensive public health services, for provisions relating to grants made pursuant to appropriations for fiscal year ending June 30, 1968 to fiscal year ending June 30, 1975, to State health or mental health authorities to aid in the establishment and maintenance of adequate public health services, including the training of personnel for State and local health work.
 
-Subsec. (e). Pub. L. 94–63, §§501(b), 701(b), struck out subsec. (e) which authorized appropriations from fiscal year ending June 30, 1968 through fiscal year ending June 30, 1975 for project grants for health services and related training, set forth procedures for making such grants, and prohibited grants after the fiscal year ending June 30, 1975, for provisions of this chapter amendedby title VII of the Health Revenue Sharing and Health Services Act of 1975.
+Subsec. (e). Pub. L. 94–63, §§501(b), 701(b), struck out subsec. (e) which authorized appropriations from fiscal year ending June 30, 1968 through fiscal year ending June 30, 1975 for project grants for health services and related training, set forth procedures for making such grants, and prohibited grants after the fiscal year ending June 30, 1975, for provisions of this chapter amended by title VII of the Health Revenue Sharing and Health Services Act of 1975.
 
 <b>1973</b>—Subsec. (a)(1). Pub. L. 93–45, §106(a)(1), authorized appropriations of $10,000,000 for fiscal year ending June 30, 1974.
 
@@ -146,7 +148,7 @@ Subsec. (d)(5). Pub. L. 90–174, §2(d)(2), made Federal share of 662/3 per cen
 
 Subsec. (d)(7). Pub. L. 90–174, §2(d)(3), provided for an allocation of 70 per centum of funds for provision under the State plan of services in communities of the State.
 
-Subsec. (e). Pub. L. 90–174, §§2(e), 3(b)(2), 8(b), increased appropriations authorization for fiscal year ending June 30, 1968, from $62,500,000 to $90,000,000, authorized appropriations of $95,000,000 and $80,000,000 for fiscal years ending June 30, 1969, and 1970, respectively, inserted "(including related training)" after "providing services" in cl. (1), substituted "developing" for "stimulating" and inserted "(including related training)"after "health services" in cl. (2), struck out cl. (3) which authorized grants to cover part of cost of undertaking studies, demonstrations, or training designed to develop new methods or improve existing methods of providing health services, and made program evaluation funds available for any fiscal year ending after June 30, 1968.
+Subsec. (e). Pub. L. 90–174, §§2(e), 3(b)(2), 8(b), increased appropriations authorization for fiscal year ending June 30, 1968, from $62,500,000 to $90,000,000, authorized appropriations of $95,000,000 and $80,000,000 for fiscal years ending June 30, 1969, and 1970, respectively, inserted "(including related training)" after "providing services" in cl. (1), substituted "developing" for "stimulating" and inserted "(including related training)" after "health services" in cl. (2), struck out cl. (3) which authorized grants to cover part of cost of undertaking studies, demonstrations, or training designed to develop new methods or improve existing methods of providing health services, and made program evaluation funds available for any fiscal year ending after June 30, 1968.
 
 Subsec. (f)(5). Pub. L. 90–174, §12(d)(1), inserted "for" before "the expenses of travel".
 
@@ -200,6 +202,12 @@ Subsec. (d). Act July 3, 1946, provided that Surgeon General shall give special 
 
 Subsecs. (f), (h), (i). Act July 3, 1946, provided that in matters relating to work in field of mental health Surgeon General shall deal with State mental health authorities where they differ from general health authorities.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+"Secretary of Health and Human Services" substituted in text for "Secretary of Health, Education, and Welfare" pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 902(h) of Pub. L. 97–35, set out as a note under section 238l of this title.
@@ -242,7 +250,7 @@ Pub. L. 90–174, §3(b), Dec. 5, 1967, 81 Stat. 535, provided that the amendmen
 
 #### Effective Date of 1966 Amendment
 
-Pub. L. 89–749, §6, Nov. 3, 1966, 80 Stat. 1190, provided in part that: "The amendments made by section 3 \[amending this section\] shall become effective as of July 1, 1966, except that the provisions of section 314 of the Public Health Service Act \[42 U.S.C. 246\] as in effect prior to the enactment of this Act shall be effective until July 1, 1967, in lieu of the provisions of subsections (d) and (e), and the provisions of subsections (g) insofar as they relate to such subsections (d) and (e), of section 314 of the Public Health Service Act as amended by this Act."
+Pub. L. 89–749, §6, Nov. 3, 1966, 80 Stat. 1190, provided in part that: "The amendments made by section 3\[amending this section\] shall become effective as of July 1, 1966, except that the provisions of section 314 of the Public Health Service Act \[42 U.S.C. 246\] as in effect prior to the enactment of this Act shall be effective until July 1, 1967, in lieu of the provisions of subsections (d) and (e), and the provisions of subsections (g) insofar as they relate to such subsections (d) and (e), of section 314 of the Public Health Service Act as amended by this Act."
 
 #### Effective Date of 1962 Amendment
 
@@ -263,8 +271,6 @@ The directory language of, but not the amendment made by, Pub. L. 96–398, titl
 #### Transfer of Functions
 
 Functions, powers, and duties of Secretary of Health and Human Services under subsecs. (a)(2)(F) and (d)(2)(F) of this section, insofar as relates to the prescription of personnel standards on a merit basis, transferred to Office of Personnel Management, see section 4728(a)(3)(C) of this title.
-
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 #### Year 2000 Health Objectives Planning
 
@@ -311,4 +317,10 @@ The Poliomyelitis Vaccination Assistance Act of 1955, act Aug. 12, 1955, ch. 863
 #### Applicability of Reorganization Plan No. 3 of 1966
 
 Pub. L. 89–749, §7, Nov. 3, 1966, 80 Stat. 1190, provided that: "The provisions enacted by this Act \[amending this section and sections 242g and 243 of this title\] shall be subject to the provisions of Reorganization Plan No. 3 of 1966 \[42 U.S.C. 202 note\]."
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 

@@ -16,9 +16,11 @@
 
 &emsp;(1) The term "combat arms battalions" means armor, infantry, mechanized infantry, air assault infantry, airborne infantry, ranger, artillery, and combat engineer battalions and armored cavalry and air cavalry squadrons.
 
-&emsp;(2) The term "major repair work" means, in the case of any ship to which subsection (a) isapplicable, any overhaul, modification, alteration, or conversion work which will result in a total cost to the United States of more than $10,000,000.
+&emsp;(2) The term "major repair work" means, in the case of any ship to which subsection (a) is applicable, any overhaul, modification, alteration, or conversion work which will result in a total cost to the United States of more than $10,000,000.
 
 (Added Pub. L. 96–342, title X, §1001(b)(3), (c)(2), Sept. 8, 1980, 94 Stat. 1118, 1119, §138(e), (f)(2); amended Pub. L. 96–513, title V, §511(4)(B), Dec. 12, 1980, 94 Stat. 2920; Pub. L. 97–86, title III, §302, Dec. 1, 1981, 95 Stat. 1104; renumbered §116 and amended Pub. L. 99–433, title I, §§101(a)(2), 110(b)(6), (7), (9), (10), Oct. 1, 1986, 100 Stat. 994, 1002; Pub. L. 105–85, div. A, title X, §1073(a)(3), Nov. 18, 1997, 111 Stat. 1900; Pub. L. 112–81, div. A, title X, §1064(2), Dec. 31, 2011, 125 Stat. 1586; Pub. L. 116–283, div. A, title IX, §924(b)(1)(A), Jan. 1, 2021, 134 Stat. 3820.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -33,6 +35,8 @@
 <b>1981</b>—Subsec. (a)(3), (4), formerly §138(e)(3), (4). Pub. L. 97–86 struck out pars. (3) and (4) which required the Secretary to include in each report a projection of the combat readiness of specified military units proposed to be maintained during the next fiscal year.
 
 <b>1980</b>—Subsec. (b), formerly §138(f)(2). Pub. L. 96–513 substituted "In subsection (e)" for "In subsection (f)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

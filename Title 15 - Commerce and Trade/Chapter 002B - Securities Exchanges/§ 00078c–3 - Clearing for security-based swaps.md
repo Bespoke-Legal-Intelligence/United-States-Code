@@ -50,7 +50,7 @@
 
 &emsp;&emsp;(ii) The availability of rule framework, capacity, operational expertise and resources, and credit support infrastructure to clear the contract on terms that are consistent with the material terms and trading conventions on which the contract is then traded.
 
-&emsp;&emsp;(iii) The effect on the mitigation of systemic risk, taking into account the size ofthe market for such contract and the resources of the clearing agency available to clear the contract.
+&emsp;&emsp;(iii) The effect on the mitigation of systemic risk, taking into account the size of the market for such contract and the resources of the clearing agency available to clear the contract.
 
 &emsp;&emsp;(iv) The effect on competition, including appropriate fees and charges applied to clearing.
 
@@ -88,7 +88,7 @@
 
 #### (1) In general
 
-&emsp;The Commission shall prescribe rules under this section (and issue interpretations of rules prescribed under this section), as determined by the Commission to be necessary to prevent evasions of the mandatory clearing requirements under this chapter.
+&emsp;The Commission shall prescribe rules under this section (and issue interpretations of rulesprescribed under this section), as determined by the Commission to be necessary to prevent evasions of the mandatory clearing requirements under this chapter.
 
 #### (2) Duty of Commission to investigate and take certain actions
 
@@ -182,7 +182,7 @@ Rules adopted by the Commission under this section shall provide for the reporti
 
 &emsp;&emsp;&emsp;(i) enters into the security-based swap to hedge or mitigate the commercial risk of the person or other affiliate of the person that is not a financial entity, and the commercial risk that the affiliate is hedging or mitigating has been transferred to the affiliate;
 
-&emsp;&emsp;&emsp;(ii) is directly and wholly-owned by another affiliate qualified for the exception under this paragraph or an entity that is not a financial entity;
+&emsp;&emsp;&emsp;(ii) is directly and wholly-owned by another affiliate qualified for the exceptionunder this paragraph or an entity that is not a financial entity;
 
 &emsp;&emsp;&emsp;(iii) is not indirectly majority-owned by a financial entity;
 
@@ -336,6 +336,8 @@ Exemptions from the requirements of this section to clear a security-based swap 
 
 (June 6, 1934, ch. 404, title I, §3C, as added Pub. L. 111–203, title VII, §763(a), July 21, 2010, 124 Stat. 1762; amended Pub. L. 114–113, div. O, title VII, §705(b), Dec. 18, 2015, 129 Stat. 3027.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a)(1) and (d)(1), was in the original "this Act", and this chapter, referred to in subsec. (j)(2)(D), (3)(A)(i), was in the original "this title". See References in Text note set out under section 78a of this title.
@@ -347,6 +349,8 @@ Subsection (c) of that section, referred to in subsec. (g)(4)(B)(v), was in the 
 #### Amendments
 
 <b>2015</b>—Subsec. (g)(4). Pub. L. 114–113 added subpars. (A) to (D) and (F), redesignated former subpar. (C) as (E), and struck out former subpars. (A) and (B) which related to application of exception to affiliates and prohibition relating to certain affiliates, respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

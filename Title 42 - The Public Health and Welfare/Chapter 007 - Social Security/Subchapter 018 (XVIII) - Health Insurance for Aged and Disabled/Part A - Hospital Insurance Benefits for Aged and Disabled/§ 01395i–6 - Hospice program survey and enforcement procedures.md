@@ -4,7 +4,7 @@
 
 #### (1) Frequency
 
-&emsp;Any entity that is certified as a hospice program (as defined in section 1395x(dd)(2)) of thistitle shall be subject to a standard survey by an appropriate State or local survey agency, or an approved accreditation agency, as determined by the Secretary, not less frequently than once every 36 months.
+&emsp;Any entity that is certified as a hospice program (as defined in section 1395x(dd)(2)) of this title shall be subject to a standard survey by an appropriate State or local survey agency, or an approved accreditation agency, as determined by the Secretary, not less frequently than once every 36 months.
 
 #### (2) Public transparency of survey and certification information
 
@@ -38,7 +38,7 @@
 
 #### (C) Training
 
-&emsp;&emsp;The Secretary shall provide, not later than October 1, 2021, for the comprehensive training of State and Federal surveyors, and any surveyor employed by a national accreditation body described in paragraph (2)(A)(i), in the conduct of surveys under this subsection, including training with respect to the review of written plans for providing hospice care (as described in section 1395f(a)(7)(B) of this title). No individual shall serve as a member of a survey team with respect to a survey conducted on or after such date unless the individual has successfully completed a training and testing program in survey and certification techniques that has been approved by the Secretary.
+&emsp;&emsp;The Secretary shall provide, not later than October 1, 2021, for the comprehensive training of State and Federal surveyors, and any surveyor employed by a national accreditation body described in paragraph (2)(A)(i), in the conduct of surveys under this subsection, including training with respect to the review of written plans for providing hospice care (as described in section 1395f(a)(7)(B) of this title). No individual shall serve as a member of a survey teamwith respect to a survey conducted on or after such date unless the individual has successfully completed a training and testing program in survey and certification techniques that has been approved by the Secretary.
 
 #### (5) Funding
 
@@ -133,6 +133,8 @@
 &emsp;&emsp;The remedies developed under subparagraph (A) are in addition to sanctions otherwise available under State or Federal law and shall not be construed as limiting other remedies, including any remedy available to an individual at common law.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1822, as added Pub. L. 116–260, div. CC, title IV, §407(a)(1), Dec. 27, 2020, 134 Stat. 3003.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

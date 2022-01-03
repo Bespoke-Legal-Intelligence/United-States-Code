@@ -18,7 +18,7 @@ The purposes of this section are—
 
 #### (2) Eligible entities
 
-&emsp;In this subsection, the term "eligible entity" means any of the following entities that has a plan to develop and maintain, or to improve and expand, programs that support the entity's use of a Native American or Alaska Native language as the primary language of instruction in elementary schools or secondary schools, or both:
+&emsp;In this subsection, the term "eligible entity" means any of the following entities that has a plan to develop and maintain, or to improve and expand, programs that support theentity's use of a Native American or Alaska Native language as the primary language of instruction in elementary schools or secondary schools, or both:
 
 &emsp;&emsp;(A) An Indian tribe.
 
@@ -146,6 +146,8 @@ Not more than 5 percent of the funds provided to a grantee under this section fo
 
 (Pub. L. 89–10, title VI, §6133, as added Pub. L. 114–95, title VI, §6002(o), Dec. 10, 2015, 129 Stat. 2057.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Native American Languages Act, referred to in subsec. (a)(2), is title I of Pub. L. 101–477, Oct. 30, 1990, 104 Stat. 1153, which is classified generally to chapter 31 (§2901 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 2901 of Title 25 and Tables.
@@ -157,6 +159,8 @@ A prior section 7453, Pub. L. 89–10, title VI, §6133, formerly title VII, §7
 Another prior section 7453, Pub. L. 89–10, title VII, §7133, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3730, related to academic excellence awards, prior to the general amendment of former subchapter VII of this chapter by Pub. L. 107–110.
 
 A prior section 6133 of Pub. L. 89–10 was classified to section 7311b of this title, prior to repeal by Pub. L. 114–95.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -4,6 +4,8 @@ Not to exceed $100,000 annually of funds available to the Forest Service may be 
 
 (Pub. L. 87–869, §3, Oct. 23, 1962, 76 Stat. 1157; Pub. L. 101–512, title II, Nov. 5, 1990, 104 Stat. 1944.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Pub. L. 101–512 substituted "$100,000" for "$35,000".

@@ -28,11 +28,15 @@ As used in this subpart:
 
 (Pub. L. 89–73, title VII, §711, as added Pub. L. 102–375, title VII, §702, Sept. 30, 1992, 106 Stat. 1275; amended Pub. L. 114–144, §8(b), Apr. 19, 2016, 130 Stat. 347; Pub. L. 116–131, title II, §202(2), Mar. 25, 2020, 134 Stat. 254.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2020</b>—Par. (6). Pub. L. 116–131 inserted "of any age" after "individual".
 
 <b>2016</b>—Par. (6). Pub. L. 114–144 struck out "older" before "individual".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

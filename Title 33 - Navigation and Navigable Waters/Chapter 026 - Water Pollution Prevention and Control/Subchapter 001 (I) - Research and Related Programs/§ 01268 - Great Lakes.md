@@ -70,7 +70,7 @@ The Great Lakes National Program Office (previously established by the Administr
 
 &emsp;(B) By June 30, 1992, the Administrator, in consultation with the Program Office, shall publish in the Federal Register, pursuant to this section and the Administrator's authority under this chapter, final water quality guidance for the Great Lakes System.
 
-&emsp;(C) Within two years after such Great Lakes guidance is published, the Great Lakes States shall adopt water quality standards, antidegradation policies, and implementation procedures for waters within the Great Lakes System which are consistent with such guidance. If a Great Lakes State fails to adopt such standards, policies, and procedures, the Administrator shall promulgate them not later than the end of such two-year period. When reviewing any Great Lakes State's water quality plan, the agency shall consider the extent to which the State has complied with the Great Lakes guidance issued pursuant to this section.
+&emsp;(C) Within two years after such Great Lakes guidance is published, the Great Lakes States shall adopt water quality standards, antidegradation policies, and implementation procedures for waters within the Great Lakes System which are consistent with such guidance. If a Great Lakes State fails to adoptsuch standards, policies, and procedures, the Administrator shall promulgate them not later than the end of such two-year period. When reviewing any Great Lakes State's water quality plan, the agency shall consider the extent to which the State has complied with the Great Lakes guidance issued pursuant to this section.
 
 #### (3) Remedial Action Plans
 
@@ -422,7 +422,7 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 #### (iii) Allocation of funds
 
-&emsp;&emsp;&emsp;Not more than 20 percent of the funds appropriated pursuant to clause (i) for afiscal year may be used to carry out subparagraph (F).
+&emsp;&emsp;&emsp;Not more than 20 percent of the funds appropriated pursuant to clause (i) for a fiscal year may be used to carry out subparagraph (F).
 
 #### (12) Public information program
 
@@ -482,7 +482,7 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 #### (3) Health research report
 
-&emsp;(A) Not later than September 30, 1994, the Program Office, in consultation with the Research Office, the Agency for Toxic Substances and Disease Registry, and Great Lakes States shall submit to the Congress a report assessing the adverse effects of water pollutants in the Great Lakes System on the health of persons in Great Lakes States and the health of fish, shellfish, and wildlife in the Great Lakes System. In conducting research in support of this report, the Administrator may, where appropriate, provide for research to be conducted under cooperative agreements with Great Lakes States.
+&emsp;(A) Not later than September 30, 1994, the Program Office, in consultation with the Research Office, the Agency for Toxic Substances and Disease Registry, and Great Lakes States shall submit to the Congress a report assessing the adverse effects of water pollutants in the Great Lakes System on the health of persons in Great Lakes States and the health of fish, shellfish, and wildlife in the Great Lakes System. In conducting research in support of thisreport, the Administrator may, where appropriate, provide for research to be conducted under cooperative agreements with Great Lakes States.
 
 &emsp;(B) There is authorized to be appropriated to the Administrator to carry out this section not to exceed $3,000,000 for each of fiscal years 1992, 1993, and 1994.
 
@@ -494,7 +494,7 @@ The head of each department, agency, or other instrumentality of the Federal Gov
 
 Nothing in this section shall be construed—
 
-&emsp;(1) to affect the jurisdiction, powers, or prerogatives of any department, agency, or officer of the Federal Government or of any Stategovernment, or of any tribe, nor any powers, jurisdiction, or prerogatives of any international body created by treaty with authority relating to the Great Lakes; or
+&emsp;(1) to affect the jurisdiction, powers, or prerogatives of any department, agency, or officer of the Federal Government or of any State government, or of any tribe, nor any powers, jurisdiction, or prerogatives of any international body created by treaty with authority relating to the Great Lakes; or
 
 &emsp;(2) to affect any other Federal or State authority that is being used or may be used to facilitate the cleanup and protection of the Great Lakes.
 
@@ -576,7 +576,7 @@ Subsec. (c)(12), (13). Pub. L. 107–303, §103, added pars. (12) and (13).
 
 Subsec. (g). Pub. L. 107–303, §104, substituted "construed—" for "construed to affect", inserted "(1) to affect" before "the jurisdiction", substituted "Lakes; or" for "Lakes.", and added par. (2).
 
-Subsec. (h). Pub. L. 107–303, §105, substituted "not to exceed—" for "not to exceed $11,000,000", inserted "(1)$11,000,000" before "per fiscal year for", substituted "1991;" for "1991.", added pars. (2) and (3), and struck out former last sentence which read as follows: "Of the amounts appropriated each fiscal year—
+Subsec. (h). Pub. L. 107–303, §105, substituted "not to exceed—" for "not to exceed $11,000,000", inserted "(1) $11,000,000" before "per fiscal year for", substituted "1991;" for "1991.", added pars. (2) and (3), and struck out former last sentence which read as follows: "Of the amounts appropriated each fiscal year—
 
 &emsp;"(1) 40 percent shall be used by the Great Lakes National Program Office on demonstration projects on the feasibility of controlling and removing toxic pollutants;
 

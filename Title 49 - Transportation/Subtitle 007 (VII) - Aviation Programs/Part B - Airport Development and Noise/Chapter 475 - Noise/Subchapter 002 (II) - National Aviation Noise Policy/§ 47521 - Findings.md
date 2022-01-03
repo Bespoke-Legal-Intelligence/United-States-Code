@@ -36,11 +36,15 @@ Historical and Revision Notes
 
 Nov. 5, 1990, Pub. L. 101–508, §9302, 104 Stat. 1388–378.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Par. (5). Pub. L. 112–95, §111(c)(2)(B), substituted "charges" for "fees".
 
 Pars. (7), (8). Pub. L. 112–95, §111(c)(2)(A)(vi), substituted "charge" for "fee".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Authorization of Certain Flights by Stage 2 Aircraft
 

@@ -44,7 +44,7 @@ To maximize efficiency and effectiveness in carrying out the Program, the Admini
 
 #### (3) Recovery of payment
 
-&emsp;If an employee who is required to make a payment under this subsection does not make the payment, a sum equal to the amount ofthe expenses incurred by the Government for the education of that employee is recoverable by the Government from the employee or his estate by—
+&emsp;If an employee who is required to make a payment under this subsection does not make the payment, a sum equal to the amount of the expenses incurred by the Government for the education of that employee is recoverable by the Government from the employee or his estate by—
 
 &emsp;&emsp;(A) setoff against accrued pay, compensation, amount of retirement credit, or other amount due the employee from the Government; or
 

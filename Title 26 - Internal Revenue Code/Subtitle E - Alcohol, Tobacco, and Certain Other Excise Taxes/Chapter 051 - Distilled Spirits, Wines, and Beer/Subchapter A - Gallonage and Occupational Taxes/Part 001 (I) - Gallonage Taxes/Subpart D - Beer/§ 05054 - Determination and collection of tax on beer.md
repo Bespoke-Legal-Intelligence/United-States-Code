@@ -32,6 +32,8 @@ All administrative and penal provisions of this title, insofar as applicable, sh
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1334; amended Pub. L. 94–455, title XIX, §§1905(a)(5), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1818, 1834; Pub. L. 95–458, §2(b)(2)(B), Oct. 14, 1978, 92 Stat. 1256; Pub. L. 99–509, title VIII, §8011(b)(2), Oct. 21, 1986, 100 Stat. 1953; Pub. L. 100–647, title I, §1018(u)(19), Nov. 10, 1988, 102 Stat. 3591; Pub. L. 105–206, title VI, §6014(a)(1), (2), July 22, 1998, 112 Stat. 820; Pub. L. 115–141, div. U, title IV, §401(a)(239), Mar. 23, 2018, 132 Stat. 1195.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 5054, act Aug. 16, 1954, ch. 736, 68A Stat. 613, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
@@ -56,6 +58,8 @@ Subsec. (a)(2). Pub. L. 105–206, §6014(a)(2), inserted "and not transferred t
 
 Subsecs. (c), (d). Pub. L. 94–455, §1905(a)(5), redesignated subsec. (d) as (c) and struck out former subsec. (c) respecting stamps or other devices as evidence of payment of tax.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates (see section 1421(c) of Pub. L. 105–34 set out as an Effective Date note under section 5418 of this title), see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
@@ -74,5 +78,5 @@ Amendment by Pub. L. 95–458 effective on first day of first calendar month beg
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1905(a)(5) of Pub. L. 94–455 effective on first day of first month which begins morethan 90 days after Oct. 4, 1976, see section 1905(d) of Pub. L. 94–455, set out as a note under section 5005 of this title.
+Amendment by section 1905(a)(5) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1905(d) of Pub. L. 94–455, set out as a note under section 5005 of this title.
 

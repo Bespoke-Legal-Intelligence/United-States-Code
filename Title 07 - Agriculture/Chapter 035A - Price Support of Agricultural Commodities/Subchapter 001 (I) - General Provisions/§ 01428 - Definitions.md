@@ -30,7 +30,9 @@ For the purposes of this Act—
 
 (l) "Producer" shall include a person growing hybrid seed under contract. In determining the interest of a grower of hybrid seed in a crop, the Secretary shall not take into consideration the existence of a hybrid seed contract.
 
-(Oct. 31, 1949, ch. 792, title IV, §408, 63 Stat. 1055; Aug. 28, 1954, ch. 1041, title II, §209, 68 Stat. 901; Pub. L. 89–321, title IV, §402(b), Nov. 3, 1965, 79 Stat. 1197; Pub. L. 90–559, §1(4), Oct. 11, 1968, 82 Stat. 996; Pub. L. 91–524, title IV, §408, title VI, §§604, 607, Nov. 30, 1970, 84 Stat. 1367, 1378; Pub. L. 93–86, §1(22), Aug. 10, 1973, 87 Stat. 235; Pub. L. 94–214, title III, §§303, 304, Feb. 16, 1976, 90 Stat. 187, 188; Pub. L. 95–113, title IV, §407, title VI, §604(a), (b), title VII, §§704, 705, Sept. 29, 1977, 91Stat. 927, 939, 944; Pub. L. 97–98, title XI, §1104, Dec. 22, 1981, 95 Stat. 1264; Pub. L. 99–198, title X, §1018, Dec. 23, 1985, 99 Stat. 1459; Pub. L. 101–624, title XI, §1131, Nov. 28, 1990, 104 Stat. 3511; Pub. L. 107–171, title I, §1310(a)(2)(B), May 13, 2002, 116 Stat. 182; Pub. L. 108–357, title VI, §612(c), Oct. 22, 2004, 118 Stat. 1524.)
+(Oct. 31, 1949, ch. 792, title IV, §408, 63 Stat. 1055; Aug. 28, 1954, ch. 1041, title II, §209, 68 Stat. 901; Pub. L. 89–321, title IV, §402(b), Nov. 3, 1965, 79 Stat. 1197; Pub. L. 90–559, §1(4), Oct. 11, 1968, 82 Stat. 996; Pub. L. 91–524, title IV, §408, title VI, §§604, 607, Nov. 30, 1970, 84 Stat. 1367, 1378; Pub. L. 93–86, §1(22), Aug. 10, 1973, 87 Stat. 235; Pub. L. 94–214, title III, §§303, 304, Feb. 16, 1976, 90 Stat. 187, 188; Pub. L. 95–113, title IV, §407, title VI, §604(a), (b), title VII, §§704, 705, Sept. 29, 1977, 91 Stat. 927, 939, 944; Pub. L. 97–98, title XI, §1104, Dec. 22, 1981, 95 Stat. 1264; Pub. L. 99–198, title X, §1018, Dec. 23, 1985, 99 Stat. 1459; Pub. L. 101–624, title XI, §1131, Nov. 28, 1990, 104 Stat. 3511; Pub. L. 107–171, title I, §1310(a)(2)(B), May 13, 2002, 116 Stat. 182; Pub. L. 108–357, title VI, §612(c), Oct. 22, 2004, 118 Stat. 1524.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -68,7 +70,7 @@ Subsec. (m). Pub. L. 94–214, §304, temporarily added subsec. (m). See Effecti
 
 <b>1973</b>—Subsec. (b). Pub. L. 93–86 substituted "1971 through 1977" for "1971, 1972, and 1973" in proviso requiring that for such designated crops of upland cotton a cooperator shall be a producer on a farm on which a farm base acreage allotment has been established who has set aside the acreage required under section 1444(e) of this title.
 
-<b>1970</b>—Subsec. (b). Pub. L. 91–524, §604, inserted proviso that, for the 1971, 1972, and 1973 crops of upland cotton, a cooperator shall be a producer on a farm on which a farm base acreage allotment has been established who has set aside the acreage required under section 1444(e) of this title.
+<b>1970</b>—Subsec. (b). Pub. L. 91–524, §604, inserted proviso that, for the 1971, 1972, and 1973 crops of upland cotton,a cooperator shall be a producer on a farm on which a farm base acreage allotment has been established who has set aside the acreage required under section 1444(e) of this title.
 
 Subsecs. (k), (l). Pub. L. 91–524, §§408, 607, temporarily added subsecs. (k) and (l). See Effective and Termination Dates of 1970 Amendment note below.
 
@@ -77,6 +79,8 @@ Subsecs. (k), (l). Pub. L. 91–524, §§408, 607, temporarily added subsecs. (k
 <b>1965</b>—Subsec. (b). Pub. L. 89–321 temporarily inserted proviso. See Effective and Termination Dates of 1965 Amendment note below.
 
 <b>1954</b>—Subsec. (b). Act Aug. 28, 1954, inserted "or wheat" after "corn", and "or wheat-producing" after "corn producing".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

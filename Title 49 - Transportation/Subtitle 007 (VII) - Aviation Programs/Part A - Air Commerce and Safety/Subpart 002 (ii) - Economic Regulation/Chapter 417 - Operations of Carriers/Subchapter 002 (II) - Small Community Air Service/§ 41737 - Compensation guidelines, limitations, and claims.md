@@ -90,11 +90,15 @@ In subsection (b), the words "air service or air transportation" are substituted
 
 In subsection (d)(2), the reference to fiscal year 1992 is omitted as obsolete.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Subsec. (a)(1)(D), (E). Pub. L. 112–95 added subpars. (D) and (E).
 
 <b>2003</b>—Subsec. (e). Pub. L. 108–176 added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

@@ -34,11 +34,15 @@ It is the sense of the Congress that a boxing commission should, upon issuing an
 
 (Pub. L. 104–272, §6, Oct. 9, 1996, 110 Stat. 3310; Pub. L. 106–210, §7(c), (f), May 26, 2000, 114 Stat. 328.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Subsec. (b)(2). Pub. L. 106–210, §7(c), substituted "4 years" for "2 years".
 
 Subsec. (c). Pub. L. 106–210, §7(f), added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

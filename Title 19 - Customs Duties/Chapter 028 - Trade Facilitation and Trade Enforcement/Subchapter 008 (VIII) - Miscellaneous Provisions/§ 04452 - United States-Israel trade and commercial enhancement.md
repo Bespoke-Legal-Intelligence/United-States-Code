@@ -54,7 +54,7 @@ Congress—
 
 &emsp;&emsp;(B) To discourage politically motivated boycotts of, divestment from, and sanctions against Israel and to seek the elimination of politically motivated nontariff barriers on Israeli goods, services, or other commerce imposed on Israel.
 
-&emsp;&emsp;(C) To seek the elimination of state-sponsored unsanctioned foreign boycotts of Israel, or compliance with the Arab League Boycott of Israel, by prospective trading partners.
+&emsp;&emsp;(C) To seek the elimination of state-sponsored unsanctioned foreign boycotts of Israel, or compliance with the Arab LeagueBoycott of Israel, by prospective trading partners.
 
 #### (2) Effective date
 
@@ -118,7 +118,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) a natural person;
 
-&emsp;&emsp;&emsp;(ii) a corporation, business association, partnership, society, trust, financial institution, insurer, underwriter, guarantor,and any other business organization, any other nongovernmental entity, organization, or group, and any governmental entity operating as a business enterprise; and
+&emsp;&emsp;&emsp;(ii) a corporation, business association, partnership, society, trust, financial institution, insurer, underwriter, guarantor, and any other business organization, any other nongovernmental entity, organization, or group, and any governmental entity operating as a business enterprise; and
 
 &emsp;&emsp;&emsp;(iii) any successor to any entity described in clause (ii).
 
@@ -136,6 +136,8 @@ In this section:
 
 (Pub. L. 114–125, title IX, §909, Feb. 24, 2016, 130 Stat. 236.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The United States-Israel Enhanced Security Cooperation Act of 2012, referred to in subsec. (a)(5), is Pub. L. 112–150, July 27, 2012, 126 Stat. 1146, which is classified principally to chapter 93 (§8601 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 8601 of Title 22 and Tables.
@@ -147,6 +149,8 @@ The Export Administration Act of 1979, referred to in subsec. (a)(6)(B), is Pub.
 The International Emergency Economic Powers Act, referred to in subsec. (a)(6)(B), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 The Tax Reform Act of 1976, referred to in subsec. (a)(6)(C), is Pub. L. 94–455, Oct. 4, 1976, 90 Stat. 1520. For complete classification of this Act to the Code, see Tables.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

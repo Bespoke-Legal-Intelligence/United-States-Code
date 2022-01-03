@@ -26,7 +26,7 @@ This section shall not be operative when the United States is at war.
 
 #### References in Text
 
-Section 452(i) of this title, referred to in subsec. (a), was repealed by act Aug. 26, 1954, ch. 937, title V, §542(a)(12), 68 Stat. 861. See former section 1934(a) and section 2778(a) of this title.
+Section 452(i) of this title, referred to in subsec. (a), was repealed by act Aug. 26, 1954, ch. 937, title V,§542(a)(12), 68 Stat. 861. See former section 1934(a) and section 2778(a) of this title.
 
 #### Amendments
 
@@ -36,7 +36,7 @@ Section 452(i) of this title, referred to in subsec. (a), was repealed by act Au
 
 #### Operation of Section Postponed Until July 1, 1953
 
-Joint Res. July 3, 1952, ch. 570, §1(b)(7), 66 Stat. 333, as amended by Joint Res. Mar. 31, 1953, ch. 13, §1, 67Stat. 18, provided that this section which is normally operative in time of peace shall not be operative by reason of the termination of a state of war on Apr. 28, 1952, but rather (in addition to being inoperative, in accordance with their terms, in time of war) shall continue to be inoperative until 6 months after the termination of the national emergency proclaimed by the President on Dec. 16, 1950, 1950 Proc. 2914, 15 F.R. 9029, set out as a note preceding section 1 of Title 50, War and National Defense, or until such earlier date or dates as the Congress may provide, but in no event beyond Apr. 1, 1953.
+Joint Res. July 3, 1952, ch. 570, §1(b)(7), 66 Stat. 333, as amended by Joint Res. Mar. 31, 1953, ch. 13, §1, 67 Stat. 18, provided that this section which is normally operative in time of peace shall not be operative by reason of the termination of a state of war on Apr. 28, 1952, but rather (in addition to being inoperative, in accordance with their terms, in time of war) shall continue to be inoperative until 6 months after the termination of the national emergency proclaimed by the President on Dec. 16, 1950, 1950 Proc. 2914, 15 F.R. 9029, set out as a note preceding section 1 of Title 50, War and National Defense, or until such earlier date or dates as the Congress may provide, but in no event beyond Apr. 1, 1953.
 
 #### Repeal of Prior Acts Continuing Section
 

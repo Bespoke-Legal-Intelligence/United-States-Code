@@ -134,6 +134,8 @@ To the extent determined to be feasible under regulations of the Secretary, a di
 
 (Aug. 14, 1935, ch. 531, title XI, §1124, as added Pub. L. 95–142, §3(a)(1), Oct. 25, 1977, 91 Stat. 1177; amended Pub. L. 96–499, title IX, §912(a), Dec. 5, 1980, 94 Stat. 2619; Pub. L. 97–35, title XXIII, §2353(i), Aug. 13, 1981, 95 Stat. 872; Pub. L. 100–93, §11, Aug. 18, 1987, 101 Stat. 697; Pub. L. 105–33, title IV, §§4313(a), 4707(c), Aug. 5, 1997, 111 Stat. 388, 506; Pub. L. 111–148, title VI, §6101(a), Mar. 23, 2010, 124 Stat. 699.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Internal Revenue Code of 1986, referred to in subsec. (a)(1), is classified generally to Title 26, Internal Revenue Code.
@@ -156,13 +158,15 @@ Subsec. (a)(2)(D). Pub. L. 97–35, §2353(i)(2)(C), struck out subpar. (D) whic
 
 <b>1980</b>—Subsec. (a)(3)(A)(ii). Pub. L. 96–499 substituted "of a whole or part interest" for "(in whole or in part) of an interest of 5 per centum or more" and inserted ", which whole or part interest is equal to or exceeds $25,000 or 5 per centum of the total property and assets of the entity".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1997 Amendment
 
 Pub. L. 105–33, title IV, §4313(e), Aug. 5, 1997, 111 Stat. 389, provided that:
 
 "(1)
 
-Disclosure requirements.—The amendment made by subsection (a) \[amending this section\] shallapply to the application of conditions of participation, and entering into and renewal of contracts and agreements, occurring more than 90 days after the date of submission of the report under subsection (d) \[set out as a note below\].
+Disclosure requirements.—The amendment made by subsection (a) \[amending this section\] shall apply to the application of conditions of participation, and entering into and renewal of contracts and agreements, occurring more than 90 days after the date of submission of the report under subsection (d) \[set out as a note below\].
 
 "(2)
 

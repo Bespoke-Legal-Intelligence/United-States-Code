@@ -14,6 +14,8 @@
 
 (Added Pub. L. 96–343, §11(a), Sept. 8, 1980, 94 Stat. 1130, §5142; amended Pub. L. 105–85, div. A, title V, §504(c)(1), Nov. 18, 1997, 111 Stat. 1725; Pub. L. 114–328, div. A, title V, §502(cc), Dec. 23, 2016, 130 Stat. 2105; renumbered §8082 and amended Pub. L. 115–232, div. A, title V, §510(b), title VIII, §807(a)(2), Aug. 13, 2018, 132 Stat. 1751, 1834.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232, §807(a)(2), renumbered section 5142 of this title as this section.
@@ -24,7 +26,9 @@ Subsec. (e). Pub. L. 115–232, §510(b), added subsec. (e).
 
 <b>1997</b>—Subsec. (b). Pub. L. 105–85 struck out ", who are not on the retired list," after "serving on active duty".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
-Amendment by section 807(a)(2) of Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by section 807(a)(2) of Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordinationof amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 

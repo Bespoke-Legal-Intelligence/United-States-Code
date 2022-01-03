@@ -54,7 +54,7 @@ The effective price for a covered commodity for a crop year shall be the higher 
 
 #### (d) Payment amount
 
-If price loss coverage payments are required to be provided under this section for any of the 2014through 2018 crop years for a covered commodity, the amount of the price loss coverage payment to be paid to the producers on a farm for the crop year shall be equal to the product obtained by multiplying—
+If price loss coverage payments are required to be provided under this section for any of the 2014 through 2018 crop years for a covered commodity, the amount of the price loss coverage payment to be paid to the producers on a farm for the crop year shall be equal to the product obtained by multiplying—
 
 &emsp;(1) the payment rate for the covered commodity under subsection (c);
 
@@ -110,6 +110,8 @@ In order to reflect price premiums, the Secretary shall provide a reference pric
 
 (Pub. L. 113–79, title I, §1116, Feb. 7, 2014, 128 Stat. 668; Pub. L. 115–123, div. F, §60101(a)(8), Feb. 9, 2018, 132 Stat. 310; Pub. L. 115–334, title I, §1106, Dec. 20, 2018, 132 Stat. 4504.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–334, §1106(1), in introductory provisions, inserted "or (h)" after "subsection (a)" and substituted "determines that—" for "determines that, for any of the 2014 through 2018 crop years—", inserted par. (1) designation and introductory provisions, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1) and realigned margins, and added par. (2).
@@ -119,6 +121,8 @@ Subsec. (c). Pub. L. 115–334, §1106(2), designated existing provisions as par
 Subsec. (g). Pub. L. 115–334, §1106(3), added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: "The Secretary shall provide a reference price with respect to temperate japonica rice in an amount equal to 115 percent of the amount established in subparagraphs (F) and (G) of section 9011(18) of this title in order to reflect price premiums."
 
 Subsec. (h). Pub. L. 115–123 added subsec. (h).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

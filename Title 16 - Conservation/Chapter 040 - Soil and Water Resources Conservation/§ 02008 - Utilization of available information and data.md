@@ -4,9 +4,13 @@ In the implementation of this chapter, the Secretary shall utilize information a
 
 (Pub. L. 95–192, §9, Nov. 18, 1977, 91 Stat. 1411; Pub. L. 113–79, title II, §2508(d), Feb. 7, 2014, 128 Stat. 756.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Pub. L. 113–79 inserted ", tribal" after "State".
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

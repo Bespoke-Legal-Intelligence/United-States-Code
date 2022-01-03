@@ -20,7 +20,7 @@ A State shall be eligible to receive funding to evaluate the State program funde
 
 &emsp;(2) the Secretary determines that the design and approach of the proposed evaluation is rigorous and is likely to yield information that is credible and will be useful to other States; and
 
-&emsp;(3) unless waived by the Secretary, the State contributes to the cost of the evaluation, from non-Federal sources, an amount equal to at least 25 percent of the cost of the proposed evaluation.
+&emsp;(3) unless waived by the Secretary, the State contributes to the cost of the evaluation, fromnon-Federal sources, an amount equal to at least 25 percent of the cost of the proposed evaluation.
 
 #### (e) Census Bureau research
 
@@ -78,7 +78,9 @@ Research and evaluation conducted under this section designed to determine the e
 
 &emsp;The baseline established pursuant to section 907 of title 2 for the Temporary Assistance for Needy Families Program shall be recorded by the Office of Management and Budget and the Congressional Budget Office at the level prior to any transfers recorded pursuant to section 613(h) of this title.
 
-(Aug. 14, 1935, ch. 531, title IV, §413, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2153; amended Pub. L. 105–33, title V, §§5001(f), 5509, 5514(c), Aug. 5, 1997, 111 Stat. 592, 618, 620; Pub. L. 105–200, title IV, §410(a), July 16, 1998, 112 Stat. 673; Pub. L. 106–169, title IV, §401(c), Dec. 14, 1999, 113 Stat. 1858; Pub. L. 110–234, title IV, §4002(b)(1)(D), (2)(V), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(D), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 112–96, title IV, §4002(e), Feb. 22, 2012, 126 Stat. 195; Pub. L. 113–235, div. G, title II, §228(e), Dec. 16, 2014, 128 Stat. 2492; Pub. L. 115–31, div. M, title I, §102(c)(1), May 5, 2017, 131 Stat. 801.)
+(Aug. 14, 1935, ch. 531, title IV, §413, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2153; amended Pub. L. 105–33, title V,§§5001(f), 5509, 5514(c), Aug. 5, 1997, 111 Stat. 592, 618, 620; Pub. L. 105–200, title IV, §410(a), July 16, 1998, 112 Stat. 673; Pub. L. 106–169, title IV, §401(c), Dec. 14, 1999, 113 Stat. 1858; Pub. L. 110–234, title IV, §4002(b)(1)(D), (2)(V), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(D), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 112–96, title IV, §4002(e), Feb. 22, 2012, 126 Stat. 195; Pub. L. 113–235, div. G, title II, §228(e), Dec. 16, 2014, 128 Stat. 2492; Pub. L. 115–31, div. M, title I, §102(c)(1), May 5, 2017, 131 Stat. 801.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -132,6 +134,8 @@ Subsec. (i)(5). Pub. L. 105–33, §5509(d)(2), substituted ", to the extent av
 
 Subsec. (j). Pub. L. 105–33, §5001(f), added subsec. (j).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
@@ -140,7 +144,7 @@ Amendment by section 4002(b)(1)(D), (2)(V) of Pub. L. 110–246 effective Oct. 1
 
 #### Effective Date of 1999 Amendment
 
-Amendment by Pub. L. 106–169 effective as if included in the enactment of the Personal Responsibility andWork Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 401(q) of Pub. L. 106–169, set out as a note under section 602 of this title.
+Amendment by Pub. L. 106–169 effective as if included in the enactment of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 401(q) of Pub. L. 106–169, set out as a note under section 602 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -158,7 +162,7 @@ Pub. L. 113–235, div. G, title II, §228(c), Dec. 16, 2014, 128 Stat. 2491, pr
 
 #### Coordination of Substance Abuse and Child Protection Services
 
-Pub. L. 105–89, title IV, §405, Nov. 19, 1997, 111 Stat. 2135, required the Secretary of Health and Human Services, based on information from the Substance Abuse and Mental Health Services Administration and the Administration for Children and Families in the Department of Health and Human Services, to submit to the appropriate committees of Congress a report which described the extent and scope of the problem of substance abuse in the child welfare population, the types of services provided to such population, and the outcomes resulting from the provision of such services to such population, along with appropriate recommendations for legislative changes.
+Pub. L. 105–89, title IV, §405, Nov. 19, 1997, 111 Stat. 2135, required the Secretary of Health and Human Services, based on information from the Substance Abuse and Mental Health Services Administration and the Administration for Children and Families in the Department of Health and Human Services, to submit to the appropriate committees of Congress a report which described the extent and scope of the problem of substance abuse in the child welfare population, the typesof services provided to such population, and the outcomes resulting from the provision of such services to such population, along with appropriate recommendations for legislative changes.
 
 #### GAO Study of Effect of Family Violence on Need for Public Assistance
 

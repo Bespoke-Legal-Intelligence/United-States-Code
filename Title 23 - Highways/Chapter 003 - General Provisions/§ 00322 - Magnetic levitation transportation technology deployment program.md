@@ -150,7 +150,7 @@ Availability of funds.—Funds made available under paragraph (1) shall remain a
 
 &emsp;(3)
 
-Other federal funds.—Notwithstanding any other provision of law, funds made available to a State to carry out the surface transportation block grant program under section 133 and the congestion mitigation and airquality improvement program under section 149 may be used by the State to pay a portion of the full project costs of an eligible project selected under this section, without requirement for non-Federal funds.
+Other federal funds.—Notwithstanding any other provision of law, funds made available to a State to carry out the surface transportation block grant program under section 133 and the congestion mitigation and air quality improvement program under section 149 may be used by the State to pay a portion of the full project costs of an eligible project selected under this section, without requirement for non-Federal funds.
 
 &emsp;(4)
 
@@ -224,7 +224,7 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 
 #### Deployment of Magnetic Levitation Transportation Projects
 
-Pub. L. 114–94, div. A, title XI, §11315(c), Dec. 4, 2015, 129 Stat. 1675, provided that: "A project described in 1307(a)(3) of SAFETEA–LU (Public Law 109–59) \[set out below\] may be eligible for the Railroad Rehabilitation and Improvement Financing program if the Secretary \[of Transportation\] determines such project meets the requirements of sections 502 and 503 of the Railroad Revitalization and Regulatory Reform Act of 1976 \[45 U.S.C. 822, 823\]."
+Pub. L. 114–94, div. A, title XI, §11315(c), Dec. 4, 2015, 129 Stat. 1675, as amended by Pub. L. 117–58, div. B, title I, §21301(j)(2), Nov. 15, 2021, 135 Stat. 691, provided that: "A project described in 1307(a)(3) of SAFETEA–LU (Public Law 109–59) \[set out below\] may be eligible for the Railroad Rehabilitation and Improvement Financing program if the Secretary \[of Transportation\] determines such project meets the requirements of sections 22402 and 22403 of title 49, United States Code."
 
 Pub. L. 109–59, title I, §1307, Aug. 10, 2005, 119 Stat. 1217, as amended by Pub. L. 110–244, title I, §102(b), (c), June 6, 2008, 122 Stat. 1577, provided that:
 

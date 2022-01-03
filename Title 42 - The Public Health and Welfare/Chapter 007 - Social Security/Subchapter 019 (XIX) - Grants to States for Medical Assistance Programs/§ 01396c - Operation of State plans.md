@@ -10,7 +10,9 @@ If the Secretary, after reasonable notice and opportunity for hearing to the Sta
 
 (Aug. 14, 1935, ch. 531, title XIX, §1904, as added Pub. L. 89–97, title I, §121(a), July 30, 1965, 79 Stat. 351.)
 
+#### <b>Editorial Notes</b>
+
 #### Constitutionality
 
-For constitutionality of section 121(a) of Pub. L. 89–97, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For constitutionality of section 121(a) of Pub. L. 89–97, amending this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
 

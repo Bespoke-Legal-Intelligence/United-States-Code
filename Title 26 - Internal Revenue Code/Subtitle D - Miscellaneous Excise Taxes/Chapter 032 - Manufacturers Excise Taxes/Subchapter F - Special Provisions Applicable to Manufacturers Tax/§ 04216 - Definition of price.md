@@ -16,7 +16,7 @@ In determining, for the purposes of this chapter, the price for which an article
 
 &emsp;&emsp;(C) sold (otherwise than through an arm's length transaction) at less than the fair market price,
 
-> &emsp;the tax under this chapter shall (if based on the price for which the article is sold) be computed on the price for which such articles are sold, in the ordinary course of trade, by manufacturers or producers thereof, as determined by the Secretary. In the case of an article sold at retail, the computation under the preceding sentence shall be on whichever of the following prices is the lower: (i) the price for which such article is sold, or (ii) the highest price for which such articles are sold to wholesale distributors, in the ordinary course of trade, by manufacturers or producers thereof, as determined by the Secretary. This paragraph shall not apply if paragraph (2) applies.
+> &emsp;the tax under this chapter shall (if based on the price for which the article is sold) be computed on the price for which such articles are sold, in the ordinary course of trade, by manufacturers or producers thereof, as determined by the Secretary. In the case of an article sold at retail, the computation under the preceding sentence shall be on whichever of the following prices is the lower: (i) the price for which such article is sold, or (ii) the highest price for which such articles are sold to wholesale distributors, in the ordinary course oftrade, by manufacturers or producers thereof, as determined by the Secretary. This paragraph shall not apply if paragraph (2) applies.
 
 #### (2) Special rule
 
@@ -80,7 +80,7 @@ If installment accounts, with respect to payments on which tax is being computed
 
 &emsp;(1) there shall be paid an amount equal to the difference between (A) the tax previously paid on the payments on such installment accounts, and (B) the total tax which would be payable if such installment accounts had not been sold or otherwise disposed of (computed as provided in subsection (c)); except that
 
-&emsp;(2) if any such sale is pursuant to the order of, or subject to the approval of, a court of competent jurisdiction in a bankruptcy or insolvency proceeding, the amount computed under paragraph (1) shall not exceed the sum of the amounts computed by multiplying (A) the proportionate share of the amount for which such accounts are sold which is allocable to each unpaid installment payment by (B) the rate of tax under this chapter in effect on the date such unpaid installment payment is or was due.
+&emsp;(2) if any such sale is pursuant to the order of, or subject to the approval of, a court ofcompetent jurisdiction in a bankruptcy or insolvency proceeding, the amount computed under paragraph (1) shall not exceed the sum of the amounts computed by multiplying (A) the proportionate share of the amount for which such accounts are sold which is allocable to each unpaid installment payment by (B) the rate of tax under this chapter in effect on the date such unpaid installment payment is or was due.
 
 > The sum of the amounts payable under this subsection and subsection (c) in respect of the sale of any article shall not exceed the total tax.
 
@@ -96,7 +96,7 @@ If installment accounts, with respect to payments on which tax is being computed
 
 &emsp;&emsp;(C) is intended to be refunded to the purchaser or any subsequent vendee in reimbursement of costs incurred for local advertising.
 
-> &emsp;In the case of any such charge (or portion thereof) which is not so refunded before thefirst day of the fifth calendar month following the calendar year during which the article was sold, the exclusion provided by the preceding sentence shall cease to apply as of such first day.
+> &emsp;In the case of any such charge (or portion thereof) which is not so refunded before the first day of the fifth calendar month following the calendar year during which the article was sold, the exclusion provided by the preceding sentence shall cease to apply as of such first day.
 
 #### (2) Aggregate amount which may be excluded
 
@@ -123,6 +123,8 @@ If installment accounts, with respect to payments on which tax is being computed
 &emsp;&emsp;(C) is broadcast over a radio station or television station, appears in a newspaper or magazine, or is displayed by means of an outdoor advertising sign or poster.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 493; Aug. 9, 1955, ch. 677, §§1, 2, 69 Stat. 613; Pub. L. 85–859, title I, §§115, 116, 117(b), Sept. 2, 1958, 72 Stat. 1279–1281; Pub. L. 86–781, §1, Sept. 14, 1960, 74 Stat. 1017; Pub. L. 87–770, §2(a), Oct. 9, 1962, 76 Stat. 768; Pub. L. 87–858, §1(a), Oct. 23, 1962, 76 Stat. 1134; Pub. L. 89–44, title II, §§207(a), (b), 208(a), (b), title VIII, §801(b), June 21, 1965, 79 Stat. 140, 141, 158; Pub. L. 91–172, title IX, §932(a), Dec. 30, 1969, 83 Stat. 725; Pub. L. 91–614, title III, §301(a), (b), Dec. 31, 1970, 84 Stat. 1844; Pub. L. 92–178, title IV, §401(g)(4), Dec. 10, 1971, 85 Stat. 533; Pub. L. 94–455, title XIX, §§1904(a)(2), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1811, 1834; Pub. L. 95–458, §1(a), (b), Oct. 14, 1978, 92 Stat. 1255; Pub. L. 98–369, div. A, title VII, §735(c)(6), July 18, 1984, 98 Stat. 982.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -186,6 +188,8 @@ Subsec. (e). Pub. L. 85–859, §116, added subsec. (e).
 
 Subsec. (d). Act Aug. 9, 1955, §2, added subsec. (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–369 effective, except as otherwise provided, as if included in the provisions of the Highway Revenue Act of 1982, title V of Pub. L. 97–424, to which such amendment relates, see section 736 of Pub. L. 98–369, set out as a note under section 4051 of this title.
@@ -218,7 +222,7 @@ Pub. L. 89–44, title VIII, §801(e), June 21, 1965, 79 Stat. 158, provided tha
 
 #### Effective Date of 1962 Amendments
 
-Pub. L. 87–858, §1(b), Oct. 23, 1962, 76 Stat. 1134, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to articles sold by the manufacturer, producer, or importer on or after October 1, 1962."
+Pub. L. 87–858, §1(b), Oct. 23, 1962, 76 Stat. 1134, provided that: "The amendment made by subsection (a)\[amending this section\] shall apply with respect to articles sold by the manufacturer, producer, or importer on or after October 1, 1962."
 
 Pub. L. 87–770, §2(b), Oct. 9, 1962, 76 Stat. 768, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to articles sold on or after the first day of the first calendar quarter beginning more than 20 days after the date of the enactment of this Act \[Oct. 9, 1962\]."
 

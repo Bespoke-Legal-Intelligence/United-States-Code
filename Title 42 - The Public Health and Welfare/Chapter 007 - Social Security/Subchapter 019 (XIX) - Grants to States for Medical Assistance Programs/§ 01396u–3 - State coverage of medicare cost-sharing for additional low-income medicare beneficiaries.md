@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A State plan under this subchapter shall provide, under section 1396a(a)(10)(E)(iv) of this title and subject to the succeeding provisions of this section and through a plan amendment, for medical assistance for payment of the cost of medicare cost-sharing described in such section on behalf of all individuals described in such section (in this section referred to as "qualifying individuals") who are selected to receive such assistance under subsection (b).
+A State plan under this subchapter shall provide, under section 1396a(a)(10)(E)(iv) of thistitle and subject to the succeeding provisions of this section and through a plan amendment, for medical assistance for payment of the cost of medicare cost-sharing described in such section on behalf of all individuals described in such section (in this section referred to as "qualifying individuals") who are selected to receive such assistance under subsection (b).
 
 #### (b) Selection of qualifying individuals
 
@@ -146,6 +146,8 @@ For each fiscal year, the Secretary shall provide for the transfer from the Fede
 
 (Aug. 14, 1935, ch. 531, title XIX, §1933, as added Pub. L. 105–33, title IV, §4732(c), Aug. 5, 1997, 111 Stat. 520; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(x)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398; Pub. L. 108–89, title IV, §401(b), (c), Oct. 1, 2003, 117 Stat. 1134; Pub. L. 108–173, title I, §103(f)(2), Dec. 8, 2003, 117 Stat. 2160; Pub. L. 108–448, §1(b), Dec. 8, 2004, 118 Stat. 3467; Pub. L. 109–91, title I, §101(b), Oct. 20, 2005, 119 Stat. 2091; Pub. L. 110–90, §3(b), Sept. 29, 2007, 121 Stat. 984; Pub. L. 110–173, title II, §203(b), Dec. 29, 2007, 121 Stat. 2513; Pub. L. 110–275, title I, §111(b), July 15, 2008, 122 Stat. 2503; Pub. L. 110–379, §2, Oct. 8, 2008, 122 Stat. 4075; Pub. L. 111–5, div. B, title V, §5005(b), Feb. 17, 2009, 123 Stat. 505; Pub. L. 111–127, §3, Jan. 27, 2010, 124 Stat. 4; Pub. L. 111–309, title I, §110(b), Dec. 15, 2010, 124 Stat. 3288; Pub. L. 112–78, title III, §310(b), Dec. 23, 2011, 125 Stat. 1286; Pub. L. 112–96, title III, §3101(b), Feb. 22, 2012, 126 Stat. 191; Pub. L. 112–240, title VI, §621(b), Jan. 2, 2013, 126 Stat. 2352; Pub. L. 113–67, div. B, title II, §1201(b), Dec. 26, 2013, 127 Stat. 1198; Pub. L. 113–93, title II, §201(b), Apr. 1, 2014, 128 Stat. 1045; Pub. L. 114–10, title II, §211(b), Apr. 16, 2015, 129 Stat. 151.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1933 of act Aug. 14, 1935, was renumbered section 1939 and is classified to section 1396v of this title.
@@ -233,6 +235,8 @@ Pub. L. 108–89, §401(c), added subsec. (g).
 Subsec. (g)(2). Pub. L. 108–173, §103(f)(2)(B), substituted "$300,000,000" for "$100,000,000".
 
 <b>1999</b>—Subsec. (b)(4). Pub. L. 106–113 inserted "a" after "for a month in".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

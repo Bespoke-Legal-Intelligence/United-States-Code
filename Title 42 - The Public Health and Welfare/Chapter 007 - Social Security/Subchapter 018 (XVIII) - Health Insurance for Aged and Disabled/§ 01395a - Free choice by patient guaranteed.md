@@ -120,6 +120,8 @@ Any individual entitled to insurance benefits under this subchapter may obtain h
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1802, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 291; amended Pub. L. 105–33, title IV, §4507(a)(1), (2)(A), Aug. 5, 1997, 111 Stat. 439, 441; Pub. L. 108–173, title VI, §603, Dec. 8, 2003, 117 Stat. 2301; Pub. L. 114–10, title I, §106(a)(1)(A), (2), Apr. 16, 2015, 129 Stat. 137, 138.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (b)(3)(B)(ii). Pub. L. 114–10, §106(a)(1)(A)(i), substituted "during the applicable 2-year period (as defined in subparagraph (D))" for "during the 2-year period beginning on the date the affidavit is signed".
@@ -137,6 +139,8 @@ Subsec. (b)(6). Pub. L. 114–10, §106(a)(2)(B), redesignated par. (5) as (6).
 <b>2003</b>—Subsec. (b)(5)(B). Pub. L. 108–173 substituted "paragraphs (1), (2), (3), and (4) of section 1395x(r)" for "section 1395x(r)(1)".
 
 <b>1997</b>—Pub. L. 105–33 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 
@@ -156,7 +160,7 @@ In General.—Not later than 12 months after the last day of the period for the 
 
 "(b)
 
-Request for Information.—Not later than 6 months after the date of the enactment of this Act \[Dec. 13, 2016\], the Secretary of Health and Human Services shall request information, including recommendations, from stakeholders (including patient advocates, issuers, and employers) on information included in the Welcome to Medicare package, includingpertinent data and information regarding enrollment and coverage for Medicare eligible individuals."
+Request for Information.—Not later than 6 months after the date of the enactment of this Act \[Dec. 13, 2016\], the Secretary of Health and Human Services shall request information, including recommendations, from stakeholders (including patient advocates, issuers, and employers) on information included in the Welcome to Medicare package, including pertinent data and information regarding enrollment and coverage for Medicare eligible individuals."
 
 #### Report to Congress on Effect of Private Contracts
 

@@ -6,7 +6,7 @@ The Commission may, after hearing, require natural-gas companies to carry proper
 
 #### (b) Rules
 
-The Commission, before prescribing any rules or requirements as to accounts, records, or memoranda, or as to depreciation or amortization rates, shall notify each State commission having jurisdiction with respect to any natural-gas company involved and shall give reasonable opportunity to each such commission to present its views and shall receive and consider such views and recommendations.
+The Commission, before prescribing any rules or requirements as to accounts, records, or memoranda, or as to depreciation or amortization rates, shall notify each State commission having jurisdiction with respect to any natural-gas company involved and shall give reasonableopportunity to each such commission to present its views and shall receive and consider such views and recommendations.
 
 (June 21, 1938, ch. 556, §9, 52 Stat. 826.)
 

@@ -10,7 +10,7 @@ The Director shall establish and collect from the regulated entities annual asse
 
 &emsp;(3) such amounts in excess of actual expenses for any given year as deemed necessary by the Director to maintain a working capital fund in accordance with subsection (e); and
 
-&emsp;(4) the windup of the affairs of the Office of Federal Housing Enterprise Oversight and the Federal Housing Finance Board under title III of the Federal Housing Finance Regulatory Reform Act of 2008.
+&emsp;(4) the windup of the affairs of the Office of Federal Housing Enterprise Oversight and theFederal Housing Finance Board under title III of the Federal Housing Finance Regulatory Reform Act of 2008.
 
 #### (b) Allocation of annual assessment to enterprises
 
@@ -48,7 +48,7 @@ The Director shall establish and collect from the regulated entities annual asse
 
 #### (3) Additional assessment for deficiencies
 
-&emsp;If at any time, as a result of increased costs of regulation of a regulated entity that is not classified (for purposes of subchapter II) as adequately capitalized or as the result of supervisory or enforcement activities under thisAct for a regulated entity, the amount available from any semiannual payment made by such regulated entity pursuant to subsection (b) is insufficient to cover the costs of the Agency with respect to such entity, the Director may make and collect from such regulated entity an immediate assessment to cover the amount of such deficiency for the semiannual period. If, at the end of any semiannual period during which such an assessment is made, any amount remains from such assessment, such remaining amount shall be deducted from the assessment for such regulated entity for the following semiannual period.
+&emsp;If at any time, as a result of increased costs of regulation of a regulated entity that is not classified (for purposes of subchapter II) as adequately capitalized or as the result of supervisory or enforcement activities under this Act for a regulated entity, the amount available from any semiannual payment made by such regulated entity pursuant to subsection (b) is insufficient to cover the costs of the Agency with respect to such entity, the Director may make and collect from such regulated entity an immediate assessment to cover the amount of such deficiency for the semiannual period. If, at the end of any semiannual period during which such an assessment is made, any amount remains from such assessment, such remaining amount shall be deducted from the assessment for such regulated entity for the following semiannual period.
 
 #### (d) Surplus
 
@@ -78,7 +78,7 @@ At the end of each year for which an assessment under this section is made, the 
 
 #### (5) Availability of oversight fund amounts
 
-&emsp;Notwithstanding any other provision of law, any amounts remaining in the Federal Housing Enterprises Oversight Fund established under this section (as in effect before the effective date of the Federal Housing Finance Regulatory Reform Act of 2008, and any amounts remaining from assessments on the Federal Home Loan Banks pursuant to section 1438(b) <sup>2</sup> of this title), shall, upon such effective date, be treated for purposes of this subsection as amounts received from assessments under this section.
+&emsp;Notwithstanding any other provision of law, any amounts remaining in the Federal Housing Enterprises Oversight Fund established under this section (as in effect before the effective date of the Federal Housing Finance Regulatory Reform Act of 2008, and any amounts remaining from assessments on the Federal Home Loan Banks pursuant to section 1438(b) <sup>2</sup> of this title), shall, upon such effectivedate, be treated for purposes of this subsection as amounts received from assessments under this section.
 
 #### (6) Treasury investments
 
@@ -120,7 +120,7 @@ At the end of each year for which an assessment under this section is made, the 
 
 #### (5) Rule of construction
 
-&emsp;This subsection may not be construed as implying any obligation on the part of the Director to consult with or obtain the consent or approval of the Director of the Office of Management and Budget with respect to any report, plan, forecast, or other information referred to in paragraph (1) or any jurisdictionor oversight over the affairs or operations of the Agency.
+&emsp;This subsection may not be construed as implying any obligation on the part of the Director to consult with or obtain the consent or approval of the Director of the Office of Management and Budget with respect to any report, plan, forecast, or other information referred to in paragraph (1) or any jurisdiction or oversight over the affairs or operations of the Agency.
 
 #### (h) Audit of Agency
 

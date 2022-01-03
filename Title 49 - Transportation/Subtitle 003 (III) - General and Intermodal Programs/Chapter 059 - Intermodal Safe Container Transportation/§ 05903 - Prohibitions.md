@@ -72,6 +72,8 @@ In subsection (a), the words "After the date on which the Secretary of Transport
 
 In subsection (b), the words "(as such term is defined in section 10102 of this title)" are omitted as unnecessary because of section 5901(1) of the revised title. The word "transport" is substituted for "provide transportation of" for consistency and to eliminate unnecessary words.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–291, §205(1), inserted ", To whom section 5902(b) applies," after "person".

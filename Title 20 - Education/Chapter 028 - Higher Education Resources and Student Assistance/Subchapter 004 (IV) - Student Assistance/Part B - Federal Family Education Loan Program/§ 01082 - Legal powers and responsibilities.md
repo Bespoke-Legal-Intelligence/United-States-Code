@@ -8,7 +8,7 @@ In the performance of, and with respect to, the functions, powers, and duties, v
 
 &emsp;(2) sue and be sued in any court of record of a State having general jurisdiction or in any district court of the United States, and such district courts shall have jurisdiction of civil actions arising under this part without regard to the amount in controversy, and action instituted under this subsection by or against the Secretary shall survive notwithstanding any change in the person occupying the office of Secretary or any vacancy in that office; but no attachment, injunction, garnishment, or other similar process, mesne or final, shall be issued against the Secretary or property under the Secretary's control and nothing herein shall be construed to except litigation arising out of activities under this part from the application of sections 509, 517, 547, and 2679 of title 28;
 
-&emsp;(3) include in any contract for Federal loan insurance such terms, conditions, and covenants relating to repayment of principal and payment of interest, relating to the Secretary's obligations and rights to those of eligible lenders, and borrowers in case of default, and relating to such other matters as the Secretary determines to be necessary to assure that the purposes of this part will be achieved; and any term, condition, and covenant made pursuant to this paragraph or pursuant to any other provision of this part may be modified by the Secretary, after notice and opportunity for a hearing, if the Secretary finds that themodification is necessary to protect the United States from the risk of unreasonable loss;
+&emsp;(3) include in any contract for Federal loan insurance such terms, conditions, and covenants relating to repayment of principal and payment of interest, relating to the Secretary's obligations and rights to those of eligible lenders, and borrowers in case of default, and relating to such other matters as the Secretary determines to be necessary to assure that the purposes of this part will be achieved; and any term, condition, and covenant made pursuant to this paragraph or pursuant to any other provision of this part may be modified by the Secretary, after notice and opportunity for a hearing, if the Secretary finds that the modification is necessary to protect the United States from the risk of unreasonable loss;
 
 &emsp;(4) subject to the specific limitations in this part, consent to modification, with respect to rate of interest, time of payment of any installment of principal and interest or any portion thereof, or any other provision of any note or other instrument evidencing a loan which has been insured by the Secretary under this part;
 
@@ -88,7 +88,7 @@ Notwithstanding any other provision of law, the Secretary may provide to eligibl
 
 #### (4) Audit procedures
 
-&emsp;In conducting audits pursuant to this subsection, the Comptroller General and the Inspector General of the Department of Education shall audit the records to determine the extent to which they, at a minimum, comply with Federal statutes, and rules and regulations prescribed by the Secretary, in effect at the time that the record was made, and in no case shall the Comptroller General or the Inspector General apply subsequently determined standards, procedures, or regulations to the records of such agency, lender, or Authority.
+&emsp;In conducting audits pursuant to this subsection, the Comptroller General and the Inspector General of the Department of Education shall audit the records to determine the extent to which they, at a minimum, comply with Federal statutes, and rules and regulations prescribed by the Secretary, in effect at the time that the record was made, and in no case shall the Comptroller General or the Inspector General apply subsequently determined standards, procedures, or regulations tothe records of such agency, lender, or Authority.
 
 #### (g) Civil penalties
 
@@ -160,7 +160,7 @@ Notwithstanding any other provision of law, the Secretary may provide to eligibl
 
 #### (2) Review of sanctions on lenders
 
-&emsp;(A) The Secretary shall review each limitation, suspension, or termination imposed by any guaranty agency pursuant to section 1078(b)(1)(U) of this title within 60 days after receipt by the Secretary of a notice from the guaranty agency of the imposition of such limitation, suspension, or termination, unless the right to such review is waived in writing by the lender. The Secretary shall uphold the imposition of such limitation, suspension, or termination in the student loan insurance program of each of the guaranty agencies under this part, and shall notify such guaranty agencies of such sanction—
+&emsp;(A) The Secretary shall review each limitation, suspension, or termination imposed by any guaranty agency pursuant to section1078(b)(1)(U) of this title within 60 days after receipt by the Secretary of a notice from the guaranty agency of the imposition of such limitation, suspension, or termination, unless the right to such review is waived in writing by the lender. The Secretary shall uphold the imposition of such limitation, suspension, or termination in the student loan insurance program of each of the guaranty agencies under this part, and shall notify such guaranty agencies of such sanction—
 
 &emsp;&emsp;(i) if such review is waived; or
 
@@ -192,7 +192,7 @@ Notwithstanding any other provision of law, the Secretary may provide to eligibl
 
 #### (i) Authority to sell defaulted loans
 
-In the event that all other collection efforts have failed, the Secretary is authorized to selldefaulted student loans assigned to the United States under this part to collection agencies, eligible lenders, guaranty agencies, or other qualified purchaser on such terms as the Secretary determines are in the best financial interests of the United States. A loan may not be sold pursuant to this subsection if such loan is in repayment status.
+In the event that all other collection efforts have failed, the Secretary is authorized to sell defaulted student loans assigned to the United States under this part to collection agencies, eligible lenders, guaranty agencies, or other qualified purchaser on such terms as the Secretary determines are in the best financial interests of the United States. A loan may not be sold pursuant to this subsection if such loan is in repayment status.
 
 #### (j) Authority of Secretary to take emergency actions against lenders
 
@@ -274,7 +274,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 #### (4) Additional recommendations
 
-&emsp;The Secretary shall review regulations prescribed pursuant to paragraph (1) and seek additional recommendations from guarantyagencies, lenders, institutions of higher education, students, secondary markets, third party servicers and other organizations involved in providing loans under this part, not less frequently than annually, for additional methods of simplifying and standardizing the administration of the programs authorized by this part.
+&emsp;The Secretary shall review regulations prescribed pursuant to paragraph (1) and seek additional recommendations from guaranty agencies, lenders, institutions of higher education, students, secondary markets, third party servicers and other organizations involved in providing loans under this part, not less frequently than annually, for additional methods of simplifying and standardizing the administration of the programs authorized by this part.
 
 #### (m) Common forms and formats
 
@@ -300,7 +300,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary shall develop and require the use of master promissory note forms for loans made under this part and part D. Such forms shall be available for periods of enrollment beginning not later than July 1, 2000. Each form shall allow eligible borrowers to receive, in addition to initial loans, additional loans for the same or subsequent periods of enrollment through a student confirmation process approved by the Secretary. Such forms shall be used for loans made under this part or part D as directed by the Secretary. Unless otherwise notified by the Secretary, each institution of higher education that participates in the program under this part or part D may use a master promissory note for loans under this part and part D.
+&emsp;&emsp;&emsp;The Secretary shall develop and require the use of master promissory note forms for loans made under this part and part D. Such forms shall be available for periods of enrollment beginning not later than July 1, 2000. Each form shall allow eligible borrowers to receive, in addition to initial loans, additional loans for the same or subsequent periods of enrollment through a student confirmation process approved by the Secretary. Such forms shall be used for loans made under this part or part D as directed by the Secretary. Unless otherwise notified by the Secretary, each institution of higher education that participates in the program under this part or part D mayuse a master promissory note for loans under this part and part D.
 
 #### (ii) Consultation
 
@@ -370,6 +370,8 @@ All officers and directors, and those employees and paid consultants of eligible
 
 (Pub. L. 89–329, title IV, §432, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1401; amended Pub. L. 100–50, §10(x), (y), June 3, 1987, 101 Stat. 346; Pub. L. 101–239, title II, §2006(a), Dec. 19, 1989, 103 Stat. 2118; Pub. L. 102–325, title IV, §425, July 23, 1992, 106 Stat. 543; Pub. L. 103–208, §2(k)(2), (3), Dec. 20, 1993, 107 Stat. 2485; Pub. L. 104–66, title I, §1042(e), Dec. 21, 1995, 109 Stat. 716; Pub. L. 105–244, title IV, §427, Oct. 7, 1998, 112 Stat. 1702; Pub. L. 106–554, §1(a)(1) \[title III, §311\], Dec. 21, 2000, 114 Stat. 2763, 2763A–46; Pub. L. 109–171, title VIII, §8014(j), Feb. 8, 2006, 120 Stat. 171; Pub. L. 110–315, title I, §103(b)(6), title IV, §433, Aug. 14, 2008, 122 Stat. 3089, 3247; Pub. L. 111–39, title IV, §402(f)(9), July 1, 2009, 123 Stat. 1944.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Subparagraph (D) of paragraph (1) of subsec. (f), referred to in subsec. (f)(2), was repealed by Pub. L. 105–244, title IV, §427(a)(3), Oct. 7, 1998, 112 Stat. 1702.
@@ -388,7 +390,7 @@ Subsec. (m)(1)(B). Pub. L. 111–39, §402(f)(9)(B), in cl. (i), inserted "and" 
 
 <b>2008</b>—Subsec. (b). Pub. L. 110–315, §433(a), inserted at end "The Secretary may not enter into any settlement of any claim under this subchapter that exceeds $1,000,000 unless—" and pars. (1) and (2).
 
-Subsec. (f)(1)(C). Pub. L. 110–315, §103(b)(6)(A), substituted "either of the authorizing committees" for"the Committee on Education and the Workforce of the House of Representatives or the Committee on Labor and Human Resources of the Senate".
+Subsec. (f)(1)(C). Pub. L. 110–315, §103(b)(6)(A), substituted "either of the authorizing committees" for "the Committee on Education and the Workforce of the House of Representatives or the Committee on Labor and Human Resources of the Senate".
 
 Subsec. (m)(1)(D)(i). Pub. L. 110–315, §433(b), inserted at end "Unless otherwise notified by the Secretary, each institution of higher education that participates in the program under this part or part D may use a master promissory note for loans under this part and part D."
 
@@ -469,6 +471,8 @@ Subsecs. (k) to (p). Pub. L. 102–325, §425(e), added subsecs. (k) to (p).
 <b>1987</b>—Subsec. (f)(4). Pub. L. 100–50, §10(x), added par. (4).
 
 Subsec. (g)(2)(A)(i), (B). Pub. L. 100–50, §10(y), substituted "misrepresentation" for "representation".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

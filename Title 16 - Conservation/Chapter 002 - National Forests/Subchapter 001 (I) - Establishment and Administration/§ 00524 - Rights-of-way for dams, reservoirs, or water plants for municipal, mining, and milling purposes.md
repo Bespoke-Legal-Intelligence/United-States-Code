@@ -8,9 +8,13 @@ Rights-of-way for the construction and maintenance of dams, reservoirs, water pl
 
 <i>Section repealed by Pub. L. 94–579, title VII, §706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 "National forests" and "forests" substituted in text for "forest reserves" and "reserves", respectively, on authority of act Mar. 4, 1907, ch. 2907, 34 Stat. 1269, which provided that forest reserves shall hereafter be known as national forests.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Savings Provision
 

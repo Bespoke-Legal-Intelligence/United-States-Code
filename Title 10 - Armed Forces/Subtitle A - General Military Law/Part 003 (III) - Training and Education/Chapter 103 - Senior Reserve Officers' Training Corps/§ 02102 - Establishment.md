@@ -8,7 +8,7 @@
 
 &emsp;(2) the institution fulfills the terms of its agreement with the Secretary of the military department concerned; and
 
-&emsp;(3) the institution adopts, as a part of its curriculum, a four-year course of military instruction or a two-year course of advanced training of military instruction, or both, which the Secretary of the military department concerned prescribes and conducts.
+&emsp;(3) the institution adopts, as a part of its curriculum, a four-year course of military instruction or a two-year course of advancedtraining of military instruction, or both, which the Secretary of the military department concerned prescribes and conducts.
 
 (c) At those institutions where a unit of the program is established membership of students in the program shall be elective or compulsory as provided by State law or the authorities of the institution concerned.
 
@@ -22,15 +22,21 @@
 
 (Added Pub. L. 88–647, title II, §201(1), Oct. 13, 1964, 78 Stat. 1065; amended Pub. L. 95–79, title VI, §602, July 30, 1977, 91 Stat. 332; Pub. L. 116–283, div. A, title IX, §924(b)(3)(BB), Jan. 1, 2021, 134 Stat. 3822.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Subsec. (a). Pub. L. 116–283 substituted "Marine Corps, or Space Force" for "or Marine Corps".
 
 <b>1977</b>—Subsec. (d). Pub. L. 95–79 added subsec. (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Military Training for Female Undergraduates at Military Colleges; Regulations
 
 Pub. L. 95–485, title VIII, §809, Oct. 20, 1978, 92 Stat. 1623, directed the Secretary of Defense to require that any college or university designated as a military college provide that qualified female undergraduate students be eligible to participate in military training at such college or university, and prohibited the Secretary from requiring such college or university to require female undergraduate students enrolled in such college or university to participate in military training, prior to repeal by Pub. L. 98–525, title XIV, §§1403(b), 1404, Oct. 19, 1984, 98 Stat. 2621, eff. Oct. 1, 1985. See section 2009 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

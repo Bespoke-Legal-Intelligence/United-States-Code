@@ -28,7 +28,7 @@
 
 #### (2) Health insurance issuer
 
-&emsp;The term "health insurance issuer" means an insurance company, insurance service, or insurance organization (including a health maintenance organization, as defined in paragraph (3)) which is licensed to engage in the business of insurance in a State and which is subject to State law which regulates insurance (within the meaning of section 514(b)(2) of the Employee Retirement Income Security Act of1974 \[29 U.S.C. 1144(b)(2)\]). Such term does not include a group health plan.
+&emsp;The term "health insurance issuer" means an insurance company, insurance service, or insurance organization (including a health maintenance organization, as defined in paragraph (3)) which is licensed to engage in the business of insurance in a State and which is subject to State law which regulates insurance (within the meaning of section 514(b)(2) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1144(b)(2)\]). Such term does not include a group health plan.
 
 #### (3) Health maintenance organization
 
@@ -138,7 +138,7 @@ For purposes of this subchapter, the term "excepted benefits" means benefits und
 
 #### (8) Governmental plan
 
-&emsp;(A) The term "governmental plan" has the meaning given such term under section 3(32) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1002(32)\] and any Federal governmental plan.
+&emsp;(A) The term "governmental plan" has the meaning given such term under section 3(32) ofthe Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1002(32)\] and any Federal governmental plan.
 
 &emsp;(B)
 
@@ -302,13 +302,15 @@ For purposes of this subchapter:
 
 (July 1, 1944, ch. 373, title XXVII, §2791, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1972; amended Pub. L. 110–233, title I, §102(a)(4), May 21, 2008, 122 Stat. 890; Pub. L. 111–148, title I, §1563(b), (c)(16), formerly §1562(b), (c)(16), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 264, 269, 911; Pub. L. 114–60, §2(b), Oct. 7, 2015, 129 Stat. 543; Pub. L. 114–255, div. C, title XVIII, §18001(c)(1), Dec. 13, 2016, 130 Stat. 1344.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Social Security Act, referred to in subsec. (a)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part C of title XI of the Act is classified generally to part C (§1320d et seq.) of subchapter XI of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 Section 2701, referred to in subsecs. (a)(3) and (d)(15)(A), is a reference to section 2701 of act July 1, 1944. Section 2701, which was classified to section 300gg of this title, was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and was transferred to section 300gg–3 of this title. A new section 2701 of act July 1, 1944, related to fair health insurance premiums, was added, effective for plan years beginning on or after Jan. 1, 2014, and amended, by Pub. L. 111–148, title I, §1201(4), title X, §10103(a), Mar. 23, 2010, 124 Stat. 155, 892, and is classified to section 300gg of this title.
 
-The Employee Retirement Income Security Act of 1974, referred to in subsec. (d)(4)(B), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Part 6 of subtitle B of title I of the Act is classified generally to part 6 (§1161 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsec. (d)(4)(B), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Part 6 of subtitleB of title I of the Act is classified generally to part 6 (§1161 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 Section 2702, referred to in subsec. (d)(9), is a reference to section 2702 of act July 1, 1944. Section 2702, which was classified to section 300gg–1 of this title, was amended by Pub. L. 111–148, title I, §1201(3), Mar. 23, 2010, 124 Stat. 154, and was transferred to subsecs. (b) to (f) of section 300gg–4 of this title, effective for plan years beginning on or after Jan. 1, 2014. A new section 2702, related to guaranteed availability of coverage, was added by Pub. L. 111–148, title I, §1201(4), Mar. 23, 2010, 124 Stat. 156, effective for plan years beginning on or after Jan. 1, 2014, and is classified to section 300gg–1 of this title.
 
@@ -329,6 +331,8 @@ Subsec. (e)(2). Pub. L. 111–148, §1563(c)(16)(A), formerly §1562(c)(16)(A), 
 Subsec. (e)(4). Pub. L. 111–148, §1563(c)(16)(B), formerly §1562(c)(16)(B), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted "100" for "50" and "at least 1" for "at least 2" in two places.
 
 <b>2008</b>—Subsec. (d)(15) to (19). Pub. L. 110–233 added pars. (15) to (19).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2016 Amendment
 

@@ -10,7 +10,7 @@
 
 > shall be treated by the Commission following such revision as continuing to be used for the priority use referred to in subparagraph (A).
 
-(2) The Commission shall, by rule, prescribe methods for measurement of volumes of natural gas to which subparagraphs (A) and (B) of paragraph (1) apply.
+(2) The Commission shall, by rule, prescribe methods for measurement of volumes of naturalgas to which subparagraphs (A) and (B) of paragraph (1) apply.
 
 #### (b) Conditions, limitations, etc.
 
@@ -28,6 +28,8 @@ For purposes of this section—
 
 (Pub. L. 95–617, title VI, §605, Nov. 9, 1978, 92 Stat. 3167.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Natural Gas Policy Act of 1978, referred to in subsec. (c)(3), is Pub. L. 95–621, Nov. 9, 1978, 92 Stat. 3350, as amended, which is classified generally to chapter 60 (§3301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
@@ -37,6 +39,8 @@ The Natural Gas Act, referred to in subsec. (c)(3), is act June 21, 1938, ch. 55
 #### Codification
 
 Section was enacted as part of the Public Utility Regulatory Policies Act of 1978, and not as part of the Natural Gas Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

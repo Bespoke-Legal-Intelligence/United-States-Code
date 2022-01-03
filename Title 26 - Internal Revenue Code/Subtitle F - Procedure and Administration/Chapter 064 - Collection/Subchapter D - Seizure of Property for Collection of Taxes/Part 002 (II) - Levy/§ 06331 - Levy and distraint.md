@@ -16,7 +16,7 @@ Whenever any property or right to property upon which levy has been made by virt
 
 #### (1) In general
 
-&emsp;Levy may be made under subsection (a) upon the salary or wages or other property of anyperson with respect to any unpaid tax only after the Secretary has notified such person in writing of his intention to make such levy.
+&emsp;Levy may be made under subsection (a) upon the salary or wages or other property of any person with respect to any unpaid tax only after the Secretary has notified such person in writing of his intention to make such levy.
 
 #### (2) 30-day requirement
 
@@ -208,7 +208,9 @@ No levy may be made on any property if the amount of the expenses which the Secr
 
 &emsp;&emsp;<b>(3) For release and notice of release of levy, see section 6343.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 783; Pub. L. 89–719, title I, §104(a), Nov. 2, 1966, 80 Stat. 1135; Pub. L. 92–178, title II, §211(a), Dec. 10, 1971, 85 Stat. 520; Pub. L. 94–455, title XII, §1209(d)(1), (2), (4), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1710, 1711, 1834; Pub. L. 97–248, title III, §349(a), Sept. 3, 1982, 96 Stat. 639; Pub. L. 98–369, div. A, title VII, §714(o), July 18, 1984, 98 Stat. 964; Pub. L. 100–647, title VI, §6236(a), (b), (d), Nov. 10, 1988, 102 Stat. 3737, 3739; Pub. L. 105–34, title X, §1024(a), Aug. 5, 1997, 111 Stat. 923; Pub. L. 105–206, title III, §§3433(a), 3444(a), 3462(b), title VI, §6010(f), July 22, 1998, 112 Stat. 759, 762, 765, 814; Pub. L. 106–554, §1(a)(7) \[title III, §313(b)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–642; Pub. L. 107–147, title IV, §416(e)(1), Mar. 9, 2002, 116 Stat. 55; Pub. L. 108–357, title VIII, §887(a), Oct. 22, 2004, 118 Stat. 1641; Pub. L. 112–56, title III, §301(a), Nov. 21, 2011, 125 Stat. 733; Pub. L. 113–295, div. B, title II, §209(a), Dec. 19, 2014, 128 Stat. 4074; Pub. L. 114–10, title IV, §413(a), Apr.16, 2015, 129 Stat. 162; Pub. L. 114–94, div. C, title XXXII, §32101(b)(2), Dec. 4, 2015, 129 Stat. 1731.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 783; Pub. L. 89–719, title I, §104(a), Nov. 2, 1966, 80 Stat. 1135; Pub. L. 92–178, title II, §211(a), Dec. 10, 1971, 85 Stat. 520; Pub. L. 94–455, title XII, §1209(d)(1), (2), (4), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1710, 1711, 1834; Pub. L. 97–248, title III, §349(a), Sept. 3, 1982, 96 Stat. 639; Pub. L. 98–369, div. A, title VII, §714(o), July 18, 1984, 98 Stat. 964; Pub. L. 100–647, title VI, §6236(a), (b), (d), Nov. 10, 1988, 102 Stat. 3737, 3739; Pub. L. 105–34, title X, §1024(a), Aug. 5, 1997, 111 Stat. 923; Pub. L. 105–206, title III, §§3433(a), 3444(a), 3462(b), title VI, §6010(f), July 22, 1998, 112 Stat. 759, 762, 765, 814; Pub. L. 106–554, §1(a)(7) \[title III, §313(b)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–642; Pub. L. 107–147, title IV, §416(e)(1), Mar. 9, 2002, 116 Stat. 55; Pub. L. 108–357, title VIII, §887(a), Oct. 22, 2004, 118 Stat. 1641; Pub. L. 112–56, title III, §301(a), Nov. 21, 2011, 125 Stat. 733; Pub. L. 113–295, div. B, title II, §209(a), Dec. 19, 2014, 128 Stat. 4074; Pub. L. 114–10, title IV, §413(a), Apr. 16, 2015, 129 Stat. 162; Pub. L. 114–94, div. C, title XXXII, §32101(b)(2), Dec. 4, 2015, 129 Stat. 1731.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -286,6 +288,8 @@ Subsec. (d)(3). Pub. L. 94–455, §1209(d)(1), added par. (3).
 
 <b>1966</b>—Subsec. (b). Pub. L. 89–719 inserted sentence providing that a levy shall extend only to property possessed and obligations existing at the time thereof.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
 Pub. L. 114–10, title IV, §413(b), Apr. 16, 2015, 129 Stat. 162, provided that: "The amendment made by this section \[amending this section\] shall apply to payments made after 180 days after the date of the enactment of this Act \[Apr. 16, 2015\]."
@@ -308,7 +312,7 @@ Pub. L. 107–147, title IV, §416(e)(2), Mar. 9, 2002, 116 Stat. 55, provided t
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–206, title III, §3433(b), July 22, 1998, 112 Stat. 760, provided that: "The amendment made by thissection \[amending this section\] shall apply to unpaid tax attributable to taxable periods beginning after December 31, 1998."
+Pub. L. 105–206, title III, §3433(b), July 22, 1998, 112 Stat. 760, provided that: "The amendment made by this section \[amending this section\] shall apply to unpaid tax attributable to taxable periods beginning after December 31, 1998."
 
 Pub. L. 105–206, title III, §3444(b), July 22, 1998, 112 Stat. 762, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[July 22, 1998\]."
 

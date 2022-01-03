@@ -40,6 +40,8 @@ The Secretary shall ensure that the Medical Expenditures Panel Survey by the Age
 
 (Pub. L. 111–148, title IV, §4102(d), Mar. 23, 2010, 124 Stat. 552.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Patient Protection and Affordable Care Act, and not as part of the Public Health Service Act which comprises this chapter.

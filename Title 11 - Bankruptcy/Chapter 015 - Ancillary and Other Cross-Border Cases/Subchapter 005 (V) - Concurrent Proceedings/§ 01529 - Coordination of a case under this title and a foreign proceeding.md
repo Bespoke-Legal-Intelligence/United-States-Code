@@ -10,7 +10,7 @@ If a foreign proceeding and a case under another chapter of this title are pendi
 
 &emsp;(2) If a case in the United States under this title commences after recognition, or after the date of the filing of the petition for recognition, of such foreign proceeding—
 
-&emsp;&emsp;(A) any relief in effect under section 1519 or 1521 shall be reviewed by the court and shall be modified or terminated if inconsistent with the case in the United States; and
+&emsp;&emsp;(A) any relief in effect under section 1519 or 1521 shall be reviewed by the court andshall be modified or terminated if inconsistent with the case in the United States; and
 
 &emsp;&emsp;(B) if such foreign proceeding is a foreign main proceeding, the stay and suspension referred to in section 1520(a) shall be modified or terminated if inconsistent with the relief granted in the case in the United States.
 

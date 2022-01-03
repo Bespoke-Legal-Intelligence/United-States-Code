@@ -22,7 +22,7 @@ In order for the Secretary to enter into a watershed restoration and enhancement
 
 &emsp;&emsp;(B) improve the viability of and otherwise benefit the fish, wildlife, and other biotic resources on public land in the watershed;
 
-&emsp;&emsp;(C) authorize the provision of technical assistance by the Secretary in the planning ofmanagement activities that will further the purposes of the agreement;
+&emsp;&emsp;(C) authorize the provision of technical assistance by the Secretary in the planning of management activities that will further the purposes of the agreement;
 
 &emsp;&emsp;(D) provide for the sharing of costs of implementing the agreement among the Federal government,<sup>1</sup> the landowner, and other entities, as mutually agreed on by the affected interests; and
 
@@ -31,6 +31,8 @@ In order for the Secretary to enter into a watershed restoration and enhancement
 &emsp;(2) the Secretary may require such other terms and conditions as are necessary to protect the public investment on private lands, provided such terms and conditions are mutually agreed to by the Secretary and the landowner.
 
 (Pub. L. 104–208, div. A, title I, §101(d) \[title I, §124\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–204; Pub. L. 105–277, div. A, §101(e) \[title I, §136\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–266; Pub. L. 108–7, div. F, title I, §135, Feb. 20, 2003, 117 Stat. 243.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -41,6 +43,8 @@ Section was enacted as part of the Department of the Interior and Related Agenci
 <b>2003</b>—Subsec. (a). Pub. L. 108–7 inserted "including appropriations for the Wildland Fire Management account allocated to the National Park Service, Fish and Wildlife Service, and Bureau of Indian Affairs" after "appropriations made for the Bureau of Land Management".
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–277 substituted "with the heads of other Federal agencies, tribal, State, and local governments, private and nonprofit entities, and landowners for the protection, restoration, and enhancement of fish and wildlife habitat and other resources on public or private land and the reduction of risk from natural disaster where public safety is threatened" for "with willing private landowners for restoration and enhancement of fish, wildlife, and other biotic resources on public or private land or both".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Federal and State Cooperative Watershed Restoration and Protection
 

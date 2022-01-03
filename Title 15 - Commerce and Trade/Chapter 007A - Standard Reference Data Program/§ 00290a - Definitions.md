@@ -28,6 +28,8 @@ For the purposes of this chapter:
 
 (Pub. L. 90–396, §2, July 11, 1968, 82 Stat. 340; Pub. L. 114–329, title I, §108, Jan. 6, 2017, 130 Stat. 2987.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Pub. L. 114–329 amended section generally. Prior to amendment, text read as follows: "For the purposes of this chapter—

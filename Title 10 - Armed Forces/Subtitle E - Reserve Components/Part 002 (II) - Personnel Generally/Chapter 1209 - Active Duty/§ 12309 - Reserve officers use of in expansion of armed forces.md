@@ -20,6 +20,8 @@ July 9, 1952, ch. 608, §233(f), 66 Stat. 490.
 
 The words "without their consent" are substituted for the word "involuntarily". The words "it shall be the policy" are omitted as surplusage. The words "to active duty (other than for training)" are substituted for the words "into the active military service".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–337 renumbered section 677 of this title as this section.

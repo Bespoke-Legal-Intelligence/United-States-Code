@@ -56,6 +56,8 @@ In subsection (b), the words "of the Regular Army in that corps whose regular gr
 
 In subsection (c), the words "is the Surgeon General's consultant" are substituted for the words "who shall be consultants to him".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 3068 of this title as this section.
@@ -67,6 +69,8 @@ Par. (5)(C). Pub. L. 111–383, §594(2), substituted "Preventive Medicine Scien
 Par. (5)(D). Pub. L. 111–383, §594(3), substituted "Clinical Health Sciences" for "Optometry".
 
 <b>1982</b>—Par. (5). Pub. L. 97–295 redesignated cls. (a), (b), (c), (d), and (e) as subpars. (A), (B), (C), (D), and (E), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

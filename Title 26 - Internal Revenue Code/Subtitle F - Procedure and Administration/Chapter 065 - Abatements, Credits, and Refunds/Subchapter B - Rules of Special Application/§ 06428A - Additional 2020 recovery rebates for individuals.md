@@ -86,7 +86,7 @@ For purposes of this section, the term "eligible individual" means any individua
 
 &emsp;&emsp;Notwithstanding any other provision of law, the Secretary may certify and disburse refunds payable under this subsection electronically to—
 
-&emsp;&emsp;&emsp;(i) any account to which the payee authorized, on or after January 1, 2019, thedelivery of a refund of taxes under this title or of a Federal payment (as defined in section 3332 of title 31, United States Code),
+&emsp;&emsp;&emsp;(i) any account to which the payee authorized, on or after January 1, 2019, the delivery of a refund of taxes under this title or of a Federal payment (as defined in section 3332 of title 31, United States Code),
 
 &emsp;&emsp;&emsp;(ii) any account belonging to a payee from which that individual, on or after January 1, 2019, made a payment of taxes under this title, or
 
@@ -206,7 +206,7 @@ For purposes of this section, the term "eligible individual" means any individua
 
 #### (6) Notice to taxpayer
 
-&emsp;As soon as practicable after the date on which the Secretary distributed any payment to an eligible taxpayer pursuant to this subsection, the Secretary shall send notice by mail to such taxpayer's last known address. Such notice shall indicate the method by which such payment was made, the amount of such payment, and a phone number for the appropriate point of contact at the Internal Revenue Service to report any failure to receive such payment.
+&emsp;As soon as practicable after the date on which the Secretary distributed any paymentto an eligible taxpayer pursuant to this subsection, the Secretary shall send notice by mail to such taxpayer's last known address. Such notice shall indicate the method by which such payment was made, the amount of such payment, and a phone number for the appropriate point of contact at the Internal Revenue Service to report any failure to receive such payment.
 
 #### (g) Identification number requirement
 
@@ -258,6 +258,8 @@ The Secretary shall prescribe such regulations or other guidance as may be neces
 
 (Added Pub. L. 116–260, div. N, title II, §272(a), Dec. 27, 2020, 134 Stat. 1965.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 272(c) of the COVID-related Tax Relief Act of 2020, referred to in subsec. (f)(3)(A)(ii)(II), is section 272(c) of title II of div. N of Pub. L. 116–260, which is set out as a note under this section.
@@ -269,6 +271,8 @@ The Social Security Act, referred to in subsec. (f)(5)(C), (D), (H)(ii)(I), is a
 Section 212(a) of Public Law 93–66, referred to in subsec. (f)(5)(D)(i)(III), is section 212(a) of title II of Pub. L. 93–66, July 9, 1973, 87 Stat. 155, which is set out as a note under section 1382 of Title 42.
 
 The Railroad Retirement Act, referred to in subsec. (f)(5)(H)(ii)(II), probably means the Railroad Retirement Act of 1974, act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Treatment of United States Possessions
 
@@ -284,7 +288,7 @@ Mirror code possession.—The Secretary of the Treasury shall pay to each posses
 
 &emsp;"(B)
 
-Other possessions.—The Secretary of the Treasury shall pay to each possession of the United States which does not have a mirror code tax system amounts estimated by the Secretary of the Treasury as being equal to the aggregate benefits (if any) that would have been provided to residents of such possession by reason of the amendments made by this section if a mirror code tax system had been in effect in such possession. The preceding sentence shall not apply unless the respective possession has a plan, which has been approved by the Secretary of the Treasury, under which such possession will promptly distribute such payments to its residents.
+Other possessions.—The Secretary of the Treasury shall pay to each possession of the United States which does not have a mirror code tax systemamounts estimated by the Secretary of the Treasury as being equal to the aggregate benefits (if any) that would have been provided to residents of such possession by reason of the amendments made by this section if a mirror code tax system had been in effect in such possession. The preceding sentence shall not apply unless the respective possession has a plan, which has been approved by the Secretary of the Treasury, under which such possession will promptly distribute such payments to its residents.
 
 "(2)
 

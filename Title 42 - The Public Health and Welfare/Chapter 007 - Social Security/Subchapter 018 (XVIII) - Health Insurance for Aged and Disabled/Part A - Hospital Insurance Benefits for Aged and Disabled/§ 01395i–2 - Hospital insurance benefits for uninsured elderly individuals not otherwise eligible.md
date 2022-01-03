@@ -58,7 +58,7 @@ The provisions of section 1395p of this title (except subsection (f) thereof), s
 
 (2) The Secretary shall, during September of each year <sup>1</sup> determine and promulgate the dollar amount which shall be applicable for premiums for months occurring in the following year. Subject to paragraphs (4) and (5), the amount of an individual's monthly premium under this section shall be equal to the monthly actuarial rate determined under paragraph (1) for that following year. Any amount determined under the preceding sentence which is not a multiple of $1 shall be rounded to the nearest multiple of $1 (or, if it is a multiple of 50 cents but not a multiple of $1, to the next higher multiple of $1).
 
-(3) Whenever the Secretary promulgates the dollar amount which shall be applicable as the monthly premium under this section, he shall, at the time such promulgation is announced, issue a public statement setting forth the actuarial assumptions and bases employed by him in arriving at the amount of an adequate actuarial rate for individuals 65 and older as provided in paragraph (1).
+(3) Whenever the Secretary promulgates the dollar amount which shall be applicable as the monthly premium under this section, he shall, at the time such promulgation is announced,issue a public statement setting forth the actuarial assumptions and bases employed by him in arriving at the amount of an adequate actuarial rate for individuals 65 and older as provided in paragraph (1).
 
 (4)(A) In the case of an individual described in subparagraph (B), the monthly premium for a month shall be reduced by the applicable reduction percent specified in the following table:
 
@@ -134,6 +134,8 @@ Amounts paid to the Secretary for coverage under this section shall be deposited
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1818, as added Pub. L. 92–603, title II, §202, Oct. 30, 1972, 86 Stat. 1374; amended Pub. L. 98–21, title VI, §606(a)(3)(D), (b), Apr. 20, 1983, 97 Stat. 170, 171; Pub. L. 98–369, div. B, title III, §§2315(e), 2354(b)(3), (4), July 18, 1984, 98 Stat. 1080, 1100; Pub. L. 99–272, title IX, §9124(a), Apr. 7, 1986, 100 Stat. 168; Pub. L. 100–203, title IV, §4009(j)(9), Dec. 22, 1987, as added Pub. L. 100–360, title IV, §411(b)(8)(D), July 1, 1988, 102 Stat. 772; Pub. L. 100–360, title I, §103, July 1, 1988, 102 Stat. 687; Pub. L. 100–485, title VI, §608(d)(2), Oct. 13, 1988, 102 Stat. 2413; Pub. L. 101–239, title VI, §§6012(a)(1), 6013(a), Dec. 19, 1989, 103 Stat. 2161, 2163; Pub. L. 101–508, title IV, §4008(g)(1), (m)(3)(D), Nov. 5, 1990, 104 Stat. 1388–45, 1388–54; Pub. L. 103–66, title XIII, §13508(a), Aug. 10, 1993, 107 Stat. 579; Pub. L. 105–33, title IV, §4453(a), Aug. 5, 1997, 111 Stat. 425; Pub. L. 106–554, §1(a)(6) \[title III, §331(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–502; Pub. L. 108–173, title I, §101(e)(5), title VII, §736(a)(7), Dec. 8, 2003, 117 Stat. 2151, 2355.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Internal Revenue Code of 1986, referred to in subsec. (d)(6)(A), is classified generally to Title 26, Internal Revenue Code.
@@ -189,6 +191,8 @@ Subsec. (d)(2). Pub. L. 98–369, §2354(b)(4), substituted ", if a multiple of
 <b>1983</b>—Subsec. (c). Pub. L. 98–21, §606(a)(3)(D), substituted "subsection (a) of section 1395r" for "subsection (c) of section 1395r".
 
 Subsec. (d)(2). Pub. L. 98–21, §606(b), substituted "during the next to last calendar quarter of each year" for "during the last calendar quarter of each year, beginning in 1973,", "the following calendar year" for "the 12-month period commencing July 1 of the next year", and "for that following calendar year" for "for such next year".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

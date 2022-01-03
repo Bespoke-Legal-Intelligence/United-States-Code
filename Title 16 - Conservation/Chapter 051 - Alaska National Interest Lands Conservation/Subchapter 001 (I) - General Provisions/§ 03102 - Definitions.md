@@ -46,6 +46,8 @@ As used in this Act (except that in titles IX and XIV the following terms shall 
 
 (Pub. L. 96–487, title I, §102, Dec. 2, 1980, 94 Stat. 2375; Pub. L. 105–83, title III, §316(b)(2), (d), Nov. 14, 1997, 111 Stat. 1592, 1595.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in provision preceding par. (1) and in par. (4), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. Title IX of this Act enacted sections 1631 to 1638 of Title 43, Public Lands, amended sections 1614 and 1620 of Title 43, and amended provisions set out as notes under section 1611 of Title 43 and preceding section 21 of Title 48, Territories and Insular Possessions. Title XIV of this Act enacted sections 1639 to 1641 of Title 43, amended sections 1602, 1606, 1607, 1611, 1613, 1620, and 1621 of Title 43, enacted provisions set out as notes under sections 1605, 1613, and 1618 of Title 43, and amended provisions set out as notes under sections 1611 and 1613 of Title 43. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
@@ -60,6 +62,8 @@ The Wilderness Act, referred to in par. (13), is Pub. L. 88–577, Sept. 3, 1964
 
 <b>1997</b>—Par. (2). Pub. L. 105–83, §316(b)(2), which directed the amendment of par. (2) generally, to read as follows: "The term 'Federal land' means lands the title to which is in the United States after December 2, 1980. 'Federal land' does not include lands the title to which is in the State, an Alaska Native corporation, or other private ownership.", was repealed by Pub. L. 105–83, §316(d). See Effective and Termination Dates of 1997 Amendment note below.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective and Termination Dates of 1997 Amendment
 
 Pub. L. 105–83, title III, §316(d), Nov. 14, 1997, 111 Stat. 1595, provided that: "Unless and until laws are adopted in the State of Alaska which provide for the definition, preference, and participation specified in sections 803, 804, and 805 \[sections 3113 to 3115 of this title\] of the Alaska National Interest Lands Conservation Act (16 U.S.C. 3111 et seq.), the amendments made by subsection (b) of this section \[amending this section and sections 3111, 3113 to 3115, 3117, 3124, and 3125 of this title\] shall be effective only for the purposes of determining whether the State's laws provide for such definition, preference, and participation. The Secretary shall certify before December 1, 1998 if such laws have been adopted in the State of Alaska. Subsection (b) shall be repealed on such date if such laws have not been adopted." \[The State of Alaska did not adopt laws specified above by Dec. 1, 1998.\]
@@ -68,7 +72,7 @@ Pub. L. 105–83, title III, §316(d), Nov. 14, 1997, 111 Stat. 1595, provided t
 
 Pub. L. 105–83, title III, §316(c), Nov. 14, 1997, 111 Stat. 1595, provided that: "No provision of this section \[amending this section and sections 3111, 3113 to 3115, 3117, 3124, and 3125 of this title and enacting provisions set out as notes under this section\], amendment made by this section, or exercise of authority pursuant to this section may be construed to validate, invalidate, or in any way affect—
 
-&emsp;"(1) any assertion that an Alaska Native organization (including a federally recognized tribe, traditional Alaska Native council, or Alaska Native council organized pursuant to the Act of June 18, 1934 (25U.S.C. 461 et seq.) \[now 25 U.S.C. 5101 et seq.\], as amended) has or does not have governmental authority over lands (including management of, or regulation of the taking of, fish and wildlife) or persons within the boundaries of the State of Alaska;
+&emsp;"(1) any assertion that an Alaska Native organization (including a federally recognized tribe, traditional Alaska Native council, or Alaska Native council organized pursuant to the Act of June 18, 1934 (25 U.S.C. 461 et seq.) \[now 25 U.S.C. 5101 et seq.\], as amended) has or does not have governmental authority over lands (including management of, or regulation of the taking of, fish and wildlife) or persons within the boundaries of the State of Alaska;
 
 &emsp;"(2) any assertion that Indian country, as defined in section 1151 of title 18, United States Code, exists or does not exist within the boundaries of the State of Alaska;
 

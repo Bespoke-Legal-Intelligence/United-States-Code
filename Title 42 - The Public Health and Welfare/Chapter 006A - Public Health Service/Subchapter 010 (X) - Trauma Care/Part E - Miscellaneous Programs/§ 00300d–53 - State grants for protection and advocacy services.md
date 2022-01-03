@@ -110,6 +110,8 @@ In this section:
 
 (July 1, 1944, ch. 373, title XII, §1253, as added Pub. L. 106–310, div. A, title XIII, §1305, Oct. 17, 2000, 114 Stat. 1141; amended Pub. L. 110–206, §6(b), Apr. 28, 2008, 122 Stat. 717; Pub. L. 113–196, §4, Nov. 26, 2014, 128 Stat. 2053; Pub. L. 115–377, §4, Dec. 21, 2018, 132 Stat. 5114.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsecs. (k) and (m)(1), (2), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677. Subtitle C of title I of the Act is classified generally to part C (§15041 et seq.) of subchapter I of chapter 144 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of this title and Tables.
@@ -132,7 +134,7 @@ Subsec. (j)(1). Pub. L. 113–196, §4(2), substituted "Secretary" for "Administ
 
 Subsec. (k). Pub. L. 113–196, §4(5), substituted "subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 (42 U.S.C. 15041 et seq.)" for "subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000".
 
-Subsec. (l). Pub. L. 113–196, §4(6), substituted "$3,100,000 for each of the fiscal years 2015 through 2019" for "$5,000,000 for fiscal year 2001, and such sums as may be necessary for each the fiscal years 2009 through 2012".
+Subsec. (l). Pub. L. 113–196, §4(6), substituted "$3,100,000 for each of the fiscal years 2015 through 2019"for "$5,000,000 for fiscal year 2001, and such sums as may be necessary for each the fiscal years 2009 through 2012".
 
 Subsec. (m)(1). Pub. L. 113–196, §4(7)(A), substituted "subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 (42 U.S.C. 15041 et seq.)" for "part C of the Developmental Disabilities Assistance Bill of Rights Act (42 U.S.C. 6042 et seq.)".
 

@@ -38,6 +38,8 @@ Nothing in this section shall be construed to create a private right of action a
 
 <i>Pub. L. 116–260, div. FF, title VII, §§701(b), 704(1), Dec. 27, 2020, 134 Stat. 3137, 3199, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended by striking "the expected family contribution" each place the term appears and inserting "the student aid index". See 2020 Amendment note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2020</b>—Subsec. (a)(4)(B). Pub. L. 116–260 substituted "the student aid index" for "the expected family contribution".
@@ -53,6 +55,8 @@ Nothing in this section shall be construed to create a private right of action a
 &emsp;"(D) the difference between the amounts under subparagraphs (A) and (C), as applicable; and
 
 &emsp;"(E) the sum of the amounts under subparagraphs (B) and (D), as applicable; and".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 

@@ -26,7 +26,7 @@ Congress makes the following findings:
 
 &emsp;(11) Institutionalizing ongoing robust, independent, and vigorous analysis of data related to foreign threat networks within and across social media platforms will help counter ongoing information warfare operations against the United States, its allies, and its partners.
 
-&emsp;(12) Archiving and disclosing to the public the results of these analyses by the social media companies and trusted third-party experts in a transparent manner will serve to demonstrate that the social media companies are detecting and removing foreign malign activities from their platforms while protecting the privacy of the people of the United States and will build public understanding of the scale and scope of these foreign threats to our democracy, since exposure is one of the most effective means to build resilience.
+&emsp;(12) Archiving and disclosing to the public the results of these analyses by the social media companies and trusted third-party experts in a transparent manner will serve to demonstrate that the social media companies are detecting and removing foreign malign activities from their platforms while protecting the privacy of the people of the United States and will build public understanding of thescale and scope of these foreign threats to our democracy, since exposure is one of the most effective means to build resilience.
 
 #### (b) Sense of Congress
 
@@ -114,7 +114,7 @@ The Director of the Center shall—
 
 #### (A) Requirement
 
-&emsp;&emsp;Not later than 90 days before the date of each regularly scheduled general election for Federal office, the Director of the Centershall submit to the appropriate congressional committees a report on foreign malign influence campaigns on and across social media platforms targeting such election.
+&emsp;&emsp;Not later than 90 days before the date of each regularly scheduled general election for Federal office, the Director of the Center shall submit to the appropriate congressional committees a report on foreign malign influence campaigns on and across social media platforms targeting such election.
 
 #### (B) Matters included
 
@@ -180,6 +180,8 @@ Of the amounts appropriated or otherwise made available to the National Intellig
 
 (Pub. L. 116–92, div. E, title LIII, §5323, Dec. 20, 2019, 133 Stat. 2130; Pub. L. 116–283, div. H, title XCIII, §9301, Jan. 1, 2021, 134 Stat. 4801.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 5724, referred to in subsec. (h)(3), is section 5724 of Pub. L. 116–92, which is set out as a note under section 3024 of this title.
@@ -205,6 +207,8 @@ Pub. L. 116–283, §9301(b)(1), redesignated subsec. (f) as (g). Former subsec.
 Subsec. (h). Pub. L. 116–283, §9301(c), amended subsec. (h) generally. Prior to amendment, subsec. (h) defined "appropriate congressional committees".
 
 Pub. L. 116–283, §9301(b)(1), redesignated subsec. (g) as (h).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

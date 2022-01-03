@@ -22,9 +22,13 @@ June 29, 1948, ch. 708, §309, 62 Stat. 1090.
 
 10:1036h (1st sentence) and 34:440p (1st sentence) are omitted as surplusage. The words "member of the armed forces" are substituted for the word "person", since only a member may be "ordered to active duty".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–337 renumbered section 1337 of this title as this section and amended text generally, substituting "the member" for "him".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

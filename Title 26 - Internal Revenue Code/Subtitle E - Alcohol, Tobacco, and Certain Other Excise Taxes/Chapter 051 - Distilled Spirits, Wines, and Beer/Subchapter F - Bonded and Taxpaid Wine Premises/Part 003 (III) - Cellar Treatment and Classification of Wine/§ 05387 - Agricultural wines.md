@@ -6,13 +6,15 @@ Wines made from agricultural products other than the juice of fruit shall be mad
 
 #### (b) Limitations
 
-No wine spirits may be added to wines produced under this section, nor shall any coloringmaterial or herbs or other flavoring material (except hops in the case of honey wine) be used in their production.
+No wine spirits may be added to wines produced under this section, nor shall any coloring material or herbs or other flavoring material (except hops in the case of honey wine) be used in their production.
 
 #### (c) Restriction on blending
 
 Wines from different agricultural commodities shall not be blended together.
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1386; amended Pub. L. 90–619, §5, Oct. 22, 1968, 82 Stat. 1237; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -23,6 +25,8 @@ A prior section 5387, act Aug. 16, 1954, ch. 736, 68A Stat. 671, consisted of pr
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
 <b>1968</b>—Subsec. (a). Pub. L. 90–619 inserted reference to subsec. (a) of section 5382.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1968 Amendment
 

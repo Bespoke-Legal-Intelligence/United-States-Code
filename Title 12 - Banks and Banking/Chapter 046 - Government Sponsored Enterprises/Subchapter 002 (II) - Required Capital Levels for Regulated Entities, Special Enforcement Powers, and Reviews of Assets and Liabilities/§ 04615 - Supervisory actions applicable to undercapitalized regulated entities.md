@@ -34,7 +34,7 @@
 
 &emsp;An undercapitalized regulated entity shall not, directly or indirectly, acquire any interest in any entity or engage in any new activity, unless—
 
-&emsp;&emsp;(A) the Director has accepted the capital restoration plan of the regulated entity, the regulated entity is implementing the plan, and the Director determines that the proposed action is consistent with and will further the achievement of the plan; or
+&emsp;&emsp;(A) the Director has accepted the capital restoration plan of the regulated entity, theregulated entity is implementing the plan, and the Director determines that the proposed action is consistent with and will further the achievement of the plan; or
 
 &emsp;&emsp;(B) the Director determines that the proposed action will further the purpose of this subchapter.
 
@@ -78,5 +78,5 @@ Subsec. (b)(2). Pub. L. 110–289, §1143(5)(C), struck out "make, in good faith
 
 Pub. L. 110–289, §1143(1), substituted "the regulated entity" for "the enterprise".
 
-Subsec. (c). Pub. L. 110–289, §1143(6), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: "This section shall take effect upon the expiration of the 1-year period beginning onthe date of the effectiveness of the regulations issued under section 4611(e) of this title establishing the risk-based capital test."
+Subsec. (c). Pub. L. 110–289, §1143(6), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: "This section shall take effect upon the expiration of the 1-year period beginning on the date of the effectiveness of the regulations issued under section 4611(e) of this title establishing the risk-based capital test."
 

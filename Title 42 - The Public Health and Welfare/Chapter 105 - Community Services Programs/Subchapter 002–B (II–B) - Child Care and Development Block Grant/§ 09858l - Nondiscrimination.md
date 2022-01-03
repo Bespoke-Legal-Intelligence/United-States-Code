@@ -26,7 +26,7 @@
 
 #### (A) Prohibition
 
-&emsp;&emsp;A child care provider that receives assistance under this subchapter shall not discriminate in employment on the basis of the religion of the prospective employee if suchemployee's primary responsibility is or will be working directly with children in the provision of child care services.
+&emsp;&emsp;A child care provider that receives assistance under this subchapter shall not discriminate in employment on the basis of the religion of the prospective employee if such employee's primary responsibility is or will be working directly with children in the provision of child care services.
 
 #### (B) Qualified applicants
 
@@ -38,13 +38,15 @@
 
 #### (4) Employment and admission practices
 
-&emsp;Notwithstanding paragraphs (1)(B), (2), and (3), if assistance provided under this subchapter, and any other Federal or State program, amounts to 80 percent or more of the operating budget of a child care provider that receives such assistance, the Secretary shall not permit such provider to receive any further assistance under this subchapter unless the grant or contract relating to the financial assistance, or the employment and admissions policies of the provider, specifically provides that no person with responsibilities in the operation of the child care program, project, or activity of the provider will discriminate against any individual in employment, if such employee's primary responsibility is or will be working directly with children in the provision of child care, or admissions because of the religion of such individual.
+&emsp;Notwithstanding paragraphs (1)(B), (2), and (3), if assistance provided under this subchapter, and any other Federal or State program, amounts to 80 percent or more of the operating budget of a child care provider that receives such assistance, the Secretary shall not permit such provider to receive any further assistance under this subchapter unless the grant or contract relating to the financial assistance, or the employment and admissions policies of the provider, specifically provides that no person with responsibilities in the operation of the child care program, project, oractivity of the provider will discriminate against any individual in employment, if such employee's primary responsibility is or will be working directly with children in the provision of child care, or admissions because of the religion of such individual.
 
 #### (b) Effect on State law
 
 Nothing in this subchapter shall be construed to supersede or modify any provision of a State constitution or State law that prohibits the expenditure of public funds in or by sectarian institutions, except that no provision of a State constitution or State law shall be construed to prohibit the expenditure in or by sectarian institutions of any Federal funds provided under this subchapter.
 
 (Pub. L. 97–35, title VI, §658N, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–245; amended Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

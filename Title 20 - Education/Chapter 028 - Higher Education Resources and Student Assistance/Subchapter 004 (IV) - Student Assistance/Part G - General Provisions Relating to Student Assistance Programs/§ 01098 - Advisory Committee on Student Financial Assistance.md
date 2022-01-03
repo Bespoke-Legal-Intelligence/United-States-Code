@@ -176,7 +176,7 @@ Notwithstanding the sunset and charter provisions of the Federal Advisory Commit
 
 #### (B) Review panels
 
-&emsp;&emsp;The Advisory Committee shall convene not less than two review panels of representatives of the groups involved in higher education, including individuals involved in student financial assistance programs under this subchapter, who have experience and expertise in the regulations issued by the Federal Government that affect all sectors of higher education, in order to review the regulations and to provide recommendations to the Advisory Committee with respect to the review and analysis under paragraph (2). The panels shall be made up of experts in areas such as the operations of the financial assistance programs, the institutional eligibility requirements for the financial assistance programs, regulations not directly related to the operations or the institutional eligibility requirements of the financial assistance programs, and regulations for dissemination of information to students about the financial assistance programs.
+&emsp;&emsp;The Advisory Committee shall convene not less than two review panels of representatives of the groups involved in higher education, including individuals involved in student financial assistance programs underthis subchapter, who have experience and expertise in the regulations issued by the Federal Government that affect all sectors of higher education, in order to review the regulations and to provide recommendations to the Advisory Committee with respect to the review and analysis under paragraph (2). The panels shall be made up of experts in areas such as the operations of the financial assistance programs, the institutional eligibility requirements for the financial assistance programs, regulations not directly related to the operations or the institutional eligibility requirements of the financial assistance programs, and regulations for dissemination of information to students about the financial assistance programs.
 
 #### (4) Periodic updates to the authorizing committees
 
@@ -239,6 +239,8 @@ Notwithstanding the sunset and charter provisions of the Federal Advisory Commit
 &emsp;&emsp;The Advisory Committee shall, not later than three years after August 14, 2008, prepare and submit to the authorizing committees and the Secretary a final report on the study, including recommendations for legislative, regulatory, and administrative changes based on findings related to the topics identified under paragraph (2).
 
 (Pub. L. 89–329, title IV, §491, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1492; amended Pub. L. 100–50, §15(16)–(18), June 3, 1987, 101 Stat. 357; Pub. L. 102–325, title IV, §496, July 23, 1992, 106 Stat. 631; Pub. L. 103–208, §2(h)(45), (46), Dec. 20, 1993, 107 Stat. 2478; Pub. L. 105–244, title IV, §490C, Oct. 7, 1998, 112 Stat. 1754; Pub. L. 110–315, title IV, §494C, Aug. 14, 2008, 122 Stat. 3319; Pub. L. 111–39, title IV, §407(b)(11), July 1, 2009, 123 Stat. 1953; Pub. L. 113–174, §2, Sept. 26, 2014, 128 Stat. 1900.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -337,6 +339,8 @@ Subsecs. (j) to (l). Pub. L. 102–325, §496(e), added subsecs. (j) to (l) and 
 Subsec. (i). Pub. L. 100–50, §15(17), substituted "In each fiscal year not less than $500,000" for "An amount, not to exceed $500,000 in any fiscal year".
 
 Subsec. (j). Pub. L. 100–50, §15(18), added subsec. (j).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

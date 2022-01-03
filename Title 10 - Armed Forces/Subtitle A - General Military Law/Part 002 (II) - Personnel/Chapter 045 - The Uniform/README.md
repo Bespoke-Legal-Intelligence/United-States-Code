@@ -14,6 +14,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Pub. L. 111–383, div. A, title V, §505(a)(2), Jan. 7, 2011, 124 Stat. 4210, added item 777a.
@@ -25,6 +27,8 @@
 <b>1987</b>—Pub. L. 100–180, div. A, title V, §508(b), Dec. 4, 1987, 101 Stat. 1087, added item 774 and redesignated former item 774 as 775.
 
 <b>1968</b>—Pub. L. 90–235, §8(1)(B), Jan. 2, 1968, 81 Stat. 764, added item 771a.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Pilot Program for Temporary Issuance of Maternity-Related Uniform Items
 
@@ -126,7 +130,7 @@ Guidance Required.—
 
 &emsp;"(1)
 
-In general.—Not later than 60 days after the date of the enactment of this Act \[Dec. 26, 2013\], the Secretary of Defense shall issue guidance to implement this section.
+In general.—Not later than 60 days after the date of the enactment of this Act \[Dec. 26, 2013\], theSecretary of Defense shall issue guidance to implement this section.
 
 &emsp;"(2)
 

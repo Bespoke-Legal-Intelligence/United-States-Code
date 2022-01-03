@@ -28,7 +28,7 @@ An amateur sports organization, a high-performance management organization, or a
 
 &emsp;&emsp;(C) is free from outside restraint;
 
-&emsp;(6) demonstrates that it is a member of no more than one international sports federationthat governs a sport included on the program of the Olympic Games, the Paralympic Games, the Pan-American Games, or the Parapan American Games;
+&emsp;(6) demonstrates that it is a member of no more than one international sports federation that governs a sport included on the program of the Olympic Games, the Paralympic Games, the Pan-American Games, or the Parapan American Games;
 
 &emsp;(7) demonstrates that its membership is open to any individual who is an amateur athlete, coach, trainer, manager, administrator, or official active in the sport for which certification is sought, or any amateur sports organization that conducts programs in the sport for which certification is sought, or both;
 
@@ -88,7 +88,7 @@ An amateur sports organization, a high-performance management organization, or a
 
 &emsp;&emsp;&emsp;(i) the income and expenses of the organization; and
 
-&emsp;&emsp;&emsp;(ii) the amounts expended on stipends, bonuses, and services for amateur athletes,organized by the level and gender of the amateur athletes;
+&emsp;&emsp;&emsp;(ii) the amounts expended on stipends, bonuses, and services for amateur athletes, organized by the level and gender of the amateur athletes;
 
 &emsp;(18) commits to meeting any minimum standard or requirement set forth by the corporation; and
 

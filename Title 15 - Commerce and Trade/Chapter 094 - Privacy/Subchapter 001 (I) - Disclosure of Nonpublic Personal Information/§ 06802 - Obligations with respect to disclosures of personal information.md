@@ -26,7 +26,7 @@ Except as otherwise provided in this subchapter, a nonaffiliated third party tha
 
 #### (d) Limitations on the sharing of account number information for marketing purposes
 
-A financial institution shall not disclose, other than to a consumer reporting agency, anaccount number or similar form of access number or access code for a credit card account, deposit account, or transaction account of a consumer to any nonaffiliated third party for use in telemarketing, direct mail marketing, or other marketing through electronic mail to the consumer.
+A financial institution shall not disclose, other than to a consumer reporting agency, an account number or similar form of access number or access code for a credit card account, deposit account, or transaction account of a consumer to any nonaffiliated third party for use in telemarketing, direct mail marketing, or othermarketing through electronic mail to the consumer.
 
 #### (e) General exceptions
 
@@ -56,6 +56,8 @@ Subsections (a) and (b) shall not prohibit the disclosure of nonpublic personal 
 
 (Pub. L. 106–102, title V, §502, Nov. 12, 1999, 113 Stat. 1437; Pub. L. 111–203, title X, §1093(2), July 21, 2010, 124 Stat. 2095.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This subchapter, referred to in subsecs. (a) and (c), was in the original "this subtitle", meaning subtitle A (§§501–510) of title V of Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1436, which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables.
@@ -69,6 +71,8 @@ The Fair Credit Reporting Act, referred to in subsec. (e)(6)(A), is title VI of 
 #### Amendments
 
 <b>2010</b>—Subsec. (e)(5). Pub. L. 111–203 inserted "the Bureau of Consumer Financial Protection" after "(including".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

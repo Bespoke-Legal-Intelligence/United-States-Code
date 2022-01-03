@@ -58,7 +58,7 @@
 
 #### (iii) Monitoring
 
-&emsp;&emsp;&emsp;Grantees under this section shall maintain records of screening results under this subparagraph to establish the baseline data for monitoring the targeted population <sup>1</sup>
+&emsp;&emsp;&emsp;Grantees under this section shall maintain records of screening results under thissubparagraph to establish the baseline data for monitoring the targeted population <sup>1</sup>
 
 #### (D) Clinical referral/treatment for chronic diseases
 
@@ -70,7 +70,7 @@
 
 #### (I) Identification and determination of status
 
-&emsp;&emsp;&emsp;&emsp;With respect to each individual with risk factors for or having heart disease,stroke, diabetes, or any other condition for which such individual was screened under subparagraph (C), a grantee under this section shall determine whether or not such individual is covered under any public or private health insurance program.
+&emsp;&emsp;&emsp;&emsp;With respect to each individual with risk factors for or having heart disease, stroke, diabetes, or any other condition for which such individual was screened under subparagraph (C), a grantee under this section shall determine whether or not such individual is covered under any public or private health insurance program.
 
 #### (II) Insured individuals
 
@@ -157,6 +157,8 @@
 &emsp;In this subsection, the term "Medicare beneficiary" means an individual who is entitled to benefits under part A of title XVIII of the Social Security Act \[42 U.S.C. 1395c et seq.\] and enrolled under part B of such title \[42 U.S.C. 1395j et seq.\].
 
 (Pub. L. 111–148, title IV, §4202, Mar. 23, 2010, 124 Stat. 566.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

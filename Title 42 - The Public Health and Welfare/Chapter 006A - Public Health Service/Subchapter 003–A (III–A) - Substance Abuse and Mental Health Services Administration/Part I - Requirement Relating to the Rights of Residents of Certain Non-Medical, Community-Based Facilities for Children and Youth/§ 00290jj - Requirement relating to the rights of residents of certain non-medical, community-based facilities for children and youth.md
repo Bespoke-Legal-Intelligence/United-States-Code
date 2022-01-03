@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(A) the restraints or seclusion are imposed only in emergency circumstances and only to ensure the immediate physical safety of the resident, a staff member, or others and less restrictive interventions have been determined to be ineffective; and
 
-&emsp;&emsp;(B) the restraints or seclusion are imposed only by an individual trained and certified, by a State-recognized body (as defined in regulation promulgated by the Secretary) and pursuant to a process determined appropriate by the State and approved by the Secretary, in the prevention and use of physical restraint and seclusion, including the needs and behaviors of the population served, relationship building, alternatives to restraint and seclusion, de-escalation methods, avoiding power struggles, thresholds for restraints and seclusion, the physiological and psychological impact of restraint and seclusion, monitoring physical signs of distress and obtaining medical assistance, legal issues, position asphyxia, escape and evasion techniques, time limits, the process for obtaining approval for continued restraints,procedures to address problematic restraints, documentation, processing with children, and follow-up with staff, and investigation of injuries and complaints.
+&emsp;&emsp;(B) the restraints or seclusion are imposed only by an individual trained and certified, by a State-recognized body (as defined in regulation promulgated by the Secretary) and pursuant to a process determined appropriate by the State and approved by the Secretary, in the prevention and use of physical restraint and seclusion, including the needs and behaviors of the population served, relationship building, alternatives to restraint and seclusion, de-escalation methods, avoiding power struggles, thresholds for restraints and seclusion, the physiological and psychological impact of restraint and seclusion, monitoring physical signs of distress and obtaining medical assistance, legal issues, position asphyxia, escape and evasion techniques, time limits, the process for obtaining approval for continued restraints, procedures to address problematic restraints, documentation, processing with children, and follow-up with staff, and investigation of injuries and complaints.
 
 #### (2) Interim procedures relating to training and certification
 
@@ -34,7 +34,7 @@
 
 &emsp;&emsp;A procedure developed under subparagraph (A) shall—
 
-&emsp;&emsp;&emsp;(i) ensure that a supervisory or senior staff person with training in restraint and seclusion who is competent to conduct a face-to-face assessment (as defined in regulations promulgated by the Secretary), will assess the mental and physical well-being of the child or youth being restrained or secluded and assure that the restraint or seclusion is being done in a safe manner;
+&emsp;&emsp;&emsp;(i) ensure that a supervisory or senior staff person with training in restraint andseclusion who is competent to conduct a face-to-face assessment (as defined in regulations promulgated by the Secretary), will assess the mental and physical well-being of the child or youth being restrained or secluded and assure that the restraint or seclusion is being done in a safe manner;
 
 &emsp;&emsp;&emsp;(ii) ensure that the assessment required under clause (i) take place as soon as practicable, but in no case later than 1 hour after the initiation of the restraint or seclusion; and
 
@@ -89,6 +89,8 @@ In this section:
 &emsp;The term "time out" means a behavior management technique that is part of an approved treatment program and may involve the separation of the resident from the group, in a non-locked setting, for the purpose of calming. Time out is not seclusion.
 
 (July 1, 1944, ch. 373, title V, §595, as added Pub. L. 106–310, div. B, title XXXII, §3208, Oct. 17, 2000, 114 Stat. 1197.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

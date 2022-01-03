@@ -118,6 +118,8 @@ Federal funds made available under this subpart shall be used so as to supplemen
 
 (Pub. L. 89–10, title III, §3115, as added Pub. L. 107–110, title III, §301, Jan. 8, 2002, 115 Stat. 1697; amended Pub. L. 114–95, title III, §3003(f), Dec. 10, 2015, 129 Stat. 1958.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 3115 of Pub. L. 89–10 was classified to section 6815 of this title, prior to the general amendment of this subchapter by Pub. L. 107–110.
@@ -125,6 +127,8 @@ A prior section 3115 of Pub. L. 89–10 was classified to section 6815 of this t
 #### Amendments
 
 <b>2015</b>—Pub. L. 114–95 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (g) relating to subgrants to eligible entities.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

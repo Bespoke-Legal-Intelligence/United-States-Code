@@ -2,7 +2,7 @@
 
 #### (a) Assessment of domestic uranium industry viability; monitoring and reporting requirements; criteria; implementation by rules and regulations
 
-The Secretary of Energy shall monitor and for the years 1983 to 1992 report annually to the Congress and to the President a determination of the viability of the domestic uranium mining and milling industry and shall establish by rule, after public notice and in accordance with the requirements of section 2231 of this title, within 9 months of January 4, 1983, specific criteria which shall be assessed in the annual reports on the domestic uranium industry's viability. The Secretary of Energy is authorized to issue regulations providing for the collection of such information as the Secretary of Energy deems necessary to carry out the monitoring and reporting requirements of this section.
+The Secretary of Energy shall monitor and for the years 1983 to 1992 report annually to theCongress and to the President a determination of the viability of the domestic uranium mining and milling industry and shall establish by rule, after public notice and in accordance with the requirements of section 2231 of this title, within 9 months of January 4, 1983, specific criteria which shall be assessed in the annual reports on the domestic uranium industry's viability. The Secretary of Energy is authorized to issue regulations providing for the collection of such information as the Secretary of Energy deems necessary to carry out the monitoring and reporting requirements of this section.
 
 #### (b) Disclosure of information
 
@@ -42,9 +42,13 @@ The Secretary or <sup>1</sup> Energy, at any time, may determine on the basis o
 
 (Aug. 1, 1946, ch. 724, title I, §170B, as added Pub. L. 97–415, §23(b)(1), Jan. 4, 1983, 96 Stat. 2081; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 2251 of title 19, referred to in subsec. (d), was amended generally by Pub. L. 100–418, title I, §1401(a), Aug. 23, 1988, 102 Stat. 1225, and as so amended does not relate to investigations. See section 2252 of Title 19, Customs Duties.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Review of Status of Domestic Uranium Mining and Milling Industry; Availability to Congressional Committees; Scope of Review
 

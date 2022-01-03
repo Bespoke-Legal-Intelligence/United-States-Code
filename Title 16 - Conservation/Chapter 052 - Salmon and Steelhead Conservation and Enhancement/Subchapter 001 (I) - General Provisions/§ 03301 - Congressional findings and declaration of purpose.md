@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(B) add stability to the treaty and nontreaty fisheries by reducing variations in fish availability.
 
-(b) In order to assist the harvesters of the salmon and steelhead resources within theColumbia River conservation area and the Washington conservation area established by this chapter to overcome temporary dislocations arising from the decisions in the cases of United States against Washington and Sohappy against Smith and from other causes, this chapter authorizes the establishment of a cooperative program involving the United States, the States of Washington and Oregon, the treaty tribes acting through the appropriate tribal coordinating bodies, and other parties, to—
+(b) In order to assist the harvesters of the salmon and steelhead resources within the Columbia River conservation area and the Washington conservation area established by this chapter to overcome temporary dislocations arising from the decisions in the cases of United States against Washington and Sohappy against Smith and from other causes, this chapter authorizes the establishment of a cooperative program involving the United States, the States of Washington and Oregon, the treaty tribes acting through the appropriate tribal coordinating bodies, and other parties, to—
 
 &emsp;(1) encourage stability in and promote the economic well being of the treaty and nontreaty commercial fishing and charter fishing industries and improve the distribution of fishing power between treaty and nontreaty fisheries through—
 
@@ -28,9 +28,11 @@
 
 (Pub. L. 96–561, title I, §102, Dec. 22, 1980, 94 Stat. 3275.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title
 
-Pub. L. 96–561, title I, §101, Dec. 22, 1980, 94 Stat. 3275, provided that: "This title \[enacting this chapter and provisions set out as a note under section 1823 of this title\] may be cited as the 'Salmon and Steelhead Conservation and Enhancement Act of 1980'."
+Pub. L. 96–561, title I, §101, Dec. 22, 1980, 94 Stat. 3275, provided that: "This title \[enacting this chapter andprovisions set out as a note under section 1823 of this title\] may be cited as the 'Salmon and Steelhead Conservation and Enhancement Act of 1980'."
 
 #### Research and Development Program To Improve Salmon Survival
 

@@ -62,6 +62,8 @@ Definitions.—In this section:
 
 (Added Pub. L. 105–85, div. A, title VII, §766(a), Nov. 18, 1997, 111 Stat. 1827; amended Pub. L. 105–261, div. A, title VII, §731(a)(1), (b), Oct. 17, 1998, 112 Stat. 2070, 2071; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1043(b)(7), Nov. 24, 2003, 117 Stat. 1611; Pub. L. 108–375, div. A, title VII, §726(a), Oct. 28, 2004, 118 Stat. 1992.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Subsec. (f)(1). Pub. L. 108–375, §726(a)(1), substituted "obtaining consent is" for "obtaining consent—
@@ -88,6 +90,8 @@ Subsec. (c). Pub. L. 105–261, §731(b)(2), struck out "unless the Secretary of
 
 Subsecs. (f), (g). Pub. L. 105–261, §731(a)(1), added subsec. (f) and redesignated former subsec. (f) as (g).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–261, div. A, title VII, §731(a)(2), Oct. 17, 1998, 112 Stat. 2071, provided that: "Subsection (f) of section 1107 of title 10, United States Code (as added by paragraph (1)), shall apply to the administration of an investigational new drug or a drug unapproved for its applied use to a member of the Armed Forces in connection with the member's participation in a particular military operation on or after the date of the enactment of this Act \[Oct. 17, 1998\]."
@@ -107,6 +111,8 @@ Pub. L. 105–261, div. A, title VII, §731(a)(3), Oct. 17, 1998, 112 Stat. 2071
 &emsp;&emsp;"(ii) the President's written concurrence; and
 
 &emsp;&emsp;"(iii) the Secretary's justification for the request or for the requirement under subsection 1107(a) of such title for the member to receive the drug covered by the waiver."
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13139. Improving Health Protection of Military Personnel Participating in Particular Military Operations
 
@@ -164,7 +170,7 @@ Sec. 4. <i>Required Action After Waiver is Issued</i>. (a) Following a President
 
 (c) The Secretary shall, as soon as practicable and consistent with classification requirements, issue a public notice in the Federal Register describing each waiver of informed consent determination and a summary of the most updated scientific information on the products used, as well as other information the President determines is appropriate.
 
-(d) The waiver will expire at the end of 1 year (or an alternative time period not to exceed 1 year, specifiedby the President at the time of approval), or when the Secretary informs the President that the particular military operation creating the need for the use of the investigational drug has ended, whichever is earlier. The President may revoke the waiver based on changed circumstances or for any other reason. If the Secretary seeks to renew a waiver prior to its expiration, the Secretary must submit to the President an updated request, specifically identifying any new information available relevant to the standards and criteria under 21 CFR 50.23(d). To request to renew a waiver, the Secretary must satisfy the criteria for a waiver as described in section 3 of this order.
+(d) The waiver will expire at the end of 1 year (or an alternative time period not to exceed 1 year, specified by the President at the time of approval), or when the Secretary informs the President that the particular military operation creating the need for the use of the investigational drug has ended, whichever is earlier. The President may revoke the waiver based on changed circumstances or for any other reason. If the Secretary seeks to renew a waiver prior to its expiration, the Secretary must submit to the President an updated request, specifically identifying any new information available relevant to the standards and criteria under 21 CFR 50.23(d). To request to renew a waiver, the Secretary must satisfy the criteria for a waiver as described in section 3 of this order.
 
 (e) The Secretary shall notify the President and the Commissioner if the threat countered by the investigational drug changes significantly or if significant new information on the investigational drug is received.
 

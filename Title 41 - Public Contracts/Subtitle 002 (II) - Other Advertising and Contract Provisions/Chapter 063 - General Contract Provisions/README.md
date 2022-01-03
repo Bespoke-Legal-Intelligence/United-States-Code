@@ -18,7 +18,7 @@
 
 #### Federal Contractor Authority
 
-Pub. L. 116–136, div. A, title III, §3610, Mar. 27, 2020, 134 Stat. 414, provided that: "Notwithstanding any other provision of law, and subject to the availability of appropriations, funds made available to an agency by this Act \[div. A of Pub. L. 116–136, see Tables for classification\] or any other Act may be used by such agency to modify the terms and conditions of a contract, or other agreement, without consideration, to reimburse at the minimum applicable contract billing rates not to exceed an average of 40 hours per week any paid leave, including sick leave, a contractor provides to keep its employees or subcontractors in a ready state, including to protect the life and safety of Government and contractor personnel, but in no event beyond September 30, 2020. Such authority shall apply only to a contractor whose employees or subcontractors cannot perform work on a site that has been approved by the Federal Government, including a federally-owned or leased facility or site, due to facility closures or other restrictions, and who cannot telework because their job duties cannot be performed remotely during the public health emergency declared on January 31, 2020 for COVID–19: <i>Provided</i>, That the maximum reimbursement authorized by this section shall be reduced by the amount of credit a contractor is allowed pursuant to division G \[§§7001–7005\] of Public Law 116–127 \[set out as notes under sections 1401 and 3111 of Title 26, Internal Revenue Code\] and any applicable credits a contractor is allowed under this Act."
+Pub. L. 116–136, div. A, title III, §3610, Mar. 27, 2020, 134 Stat. 414, as amended by Pub. L. 117–2, title IV, §4015, Mar. 11, 2021, 135 Stat. 80, provided that: "Notwithstanding any other provision of law, and subject to the availability of appropriations, funds made available to an agency by this Act \[div. A of Pub. L. 116–136, see Tables for classification\] or any other Act may be used by such agency to modify the terms and conditions of a contract, or other agreement, without consideration, to reimburse at the minimum applicable contract billing rates not to exceed an average of 40 hours per week any paid leave, including sick leave, a contractor provides to keep its employees or subcontractors in a ready state, including to protect the life and safety of Government and contractor personnel, but in no event beyond September 30, 2021. Such authority shall apply only to a contractor whose employees or subcontractors cannot perform work on a site that has been approved by the Federal Government, including a federally-owned or leased facility or site, due to facility closures or other restrictions, and who cannot telework because their job duties cannot be performed remotely during the public health emergency declared on January 31, 2020 for COVID–19: <i>Provided</i>, That the maximum reimbursement authorized by this section shall be reduced by the amount of credit a contractor is allowed pursuant to division G \[§§7001–7005\] of Public Law 116–127 \[set out as notes under sections 1401 and 3111 of Title 26, Internal Revenue Code\] and any applicable credits a contractor is allowed under this Act."
 
 \[Pub. L. 116–260, div. N, title X, §1002, Dec. 27, 2020, 134 Stat. 2145, provided that: "Section 3610 of division A of the CARES Act (Public Law 116–136) \[set out above\] shall be applied by substituting 'March 31, 2021' for 'September 30, 2020'."\]
 
@@ -30,7 +30,7 @@ Ex. Ord. No. 13658, Feb. 12, 2014, 79 F.R. 9851, as amended by Ex. Ord. 13838, �
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Property and Administrative Services Act \[of 1949\], 40 U.S.C. 101 <i>et seq</i>., and in order to promote economy and efficiency in procurement by contracting with sources who adequately compensate their workers, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. This order seeks to increase efficiency and cost savings in the work performed by parties who contract with the Federal Government by increasing to $10.10 the hourly minimum wage paid by those contractors. Raising the pay of low-wage workersincreases their morale and the productivity and quality of their work, lowers turnover and its accompanying costs, and reduces supervisory costs. These savings and quality improvements will lead to improved economy and efficiency in Government procurement.
+Section 1. <i>Policy</i>. This order seeks to increase efficiency and cost savings in the work performed by parties who contract with the Federal Government by increasing to $10.10 the hourly minimum wage paid by those contractors. Raising the pay of low-wage workers increases their morale and the productivity and quality of their work, lowers turnover and its accompanying costs, and reduces supervisory costs. These savings and quality improvements will lead to improved economy and efficiency in Government procurement.
 
 Sec. 2. <i>Establishing a minimum wage for Federal contractors and subcontractors</i>. (a) Executive departments and agencies (agencies) shall, to the extent permitted by law, ensure that new contracts, contract-like instruments, and solicitations (collectively referred to as "contracts"), as described in section 7 of this order, include a clause, which the contractor and any subcontractors shall incorporate into lower-tier subcontracts, specifying, as a condition of payment, that the minimum wage to be paid to workers, including workers whose wages are calculated pursuant to special certificates issued under 29 U.S.C. 214(c), in the performance of the contract or any subcontract thereunder, shall be at least:
 
@@ -111,6 +111,8 @@ Sec. 8. <i>Effective Date</i>. (a) This order is effective immediately and shall
 (b) This order shall not apply to contracts or contract-like instruments entered into pursuant to solicitations issued on or before the effective date for the relevant action taken pursuant to section 4 of this order.
 
 (c) For all new contracts and contract-like instruments negotiated between the date of this order and the effective dates set forth in this section, agencies are strongly encouraged to take all steps that are reasonable and legally permissible to ensure that individuals working pursuant to those contracts and contract-like instruments are paid an hourly wage of at least $10.10 (as set forth under sections 2 and 3 of this order) as of the effective dates set forth in this section.
+
+\[Ex. Ord. No. 13658, set out above, superseded, as of Jan. 30, 2022, to the extent inconsistent with Ex. Ord. No. 14026, see section 6 of Ex. Ord. No. 14026, set out below.\]
 
 #### Ex. Ord. No. 13706. Establishing Paid Sick Leave for Federal Contractors
 
@@ -202,23 +204,89 @@ Sec. 7. <i>Effective Date</i>. (a) This order is effective immediately and shall
 
 (ii) January 1, 2017, for contracts where an agency action is taken pursuant to section 3(b) of this order, consistent with the effective date for such action.
 
-(b) This order shall not apply to contracts or contract-like instruments that are awarded, or entered into pursuant to solicitations issued, on or before the effective date for the relevant action taken pursuant to section 3 of this order.
+(b) This order shall not apply to contracts or contract-like instruments that are awarded, or enteredinto pursuant to solicitations issued, on or before the effective date for the relevant action taken pursuant to section 3 of this order.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Ex. Ord. No. 13838. Exemption From Executive Order 13658 for Recreational Services on Federal Lands
+#### Executive Order No. 13838
 
-Ex. Ord. No. 13838, May 25, 2018, 83 F.R. 25341, provided:
+Ex. Ord. No. 13838, May 25, 2018, 83 F.R. 25341, which related to an exemption from the minimum wage requirements for contractors established by Ex. Ord. No. 13658 (set out above) for recreational services on Federal lands, was revoked, effective Jan. 30, 2022, by Ex. Ord. No. 14026, §6, Apr. 27, 2021, 86 F.R. 22836, set out below.
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Property and Administrative Services Act \[of 1949\], 40 U.S.C. 101 <i>et seq</i>., and in order to ensure that the Federal Government caneconomically and efficiently provide the services that allow visitors of all means to enjoy the natural beauty of Federal parks and other Federal lands, it is hereby ordered as follows:
+#### Ex. Ord. No. 14026. Increasing the Minimum Wage for Federal Contractors
 
-Section 1. <i>Policy</i>. Executive Order 13658 of February 12, 2014 (Establishing a Minimum Wage for Contractors) \[set out above\], established a minimum wage to be paid by parties who contract with the Federal Government and applies to outfitters and guides operating on Federal lands. These individuals often conduct multiday recreational tours through Federal lands, and may be required to work substantial overtime hours. The implementation of Executive Order 13658 threatens to raise significantly the cost of guided hikes and tours on Federal lands, preventing many visitors from enjoying the great beauty of America's outdoors. Seasonal recreational workers have irregular work schedules, a high incidence of overtime pay, and an unusually high turnover rate, among other distinguishing characteristics. As a consequence, a minimum wage increase would generally entail large negative effects on hours worked by recreational service workers. Thus, applying Executive Order 13658 to these service contracts does not promote economy and efficiency in making these services available to those who seek to enjoy our Federal lands. That rationale, however, does not apply with the same force to lodging and food services associated with seasonal recreational services, which generally involve more regular work schedules and normal amounts of overtime work. Executive Order 13658 therefore should continue to apply to lodging and food services associated with seasonal recreational services.
+Ex. Ord. No. 14026, Apr. 27, 2021, 86 F.R. 22835, provided:
 
-Sec. 2. <i>Exemption from Executive Order 13658</i>. \[Amended Ex. Ord. No. 13658, set out above.\]
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Property and Administrative Services Act \[of 1949\], \[see\] 40 U.S.C. 101 <i>et seq</i>., and in order to promote economy and efficiency in procurement by contracting with sources that adequately compensate their workers, it is hereby ordered as follows:
 
-Sec. 3. <i>Agency Implementation</i>. Executive departments and agencies (agencies) shall promptly take appropriate action to implement this exemption and to ensure that all applicable regulations and agency guidance are consistent with this order. Agencies shall modify existing authorizations and solicitations for contracts or contract-like instruments affected by section 2 of this order by removing clauses requiring compliance with Executive Order 13658 (including the contract clause set forth at title 29, part 10, appendix A, Code of Federal Regulations) as soon as practicable and consistent with applicable law. Agencies shall remove such clauses without impairing the recreational activities or uses authorized by those permits and contracts.
+Section 1. <i>Policy</i>. This order promotes economy and efficiency in Federal procurement by increasing the hourly minimum wage paid by the parties that contract with the Federal Government to $15.00 for those workers working on or in connection with a Federal Government contract as described in section 8 of this order. Raising the minimum wage enhances worker productivity and generates higher-quality work by boosting workers' health, morale, and effort; reducing absenteeism and turnover; and lowering supervisory and training costs. Accordingly, ensuring that Federal contractors pay their workers an hourly wage of at least $15.00 will bolster economy and efficiency in Federal procurement.
 
-Sec. 4. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+Sec. 2. <i>Increasing the Minimum Wage for Federal Contractors and Subcontractors</i>. (a) Executive departments and agencies, including independent establishments subject to the Federal Property and Administrative Services Act, 40 U.S.C. 102(4)(A), (5) (agencies), shall, to the extent permitted by law, ensure that contracts and contract-like instruments (as defined in regulations issued pursuant to section 4(a) of this order and as described in section 8(a) of this order) include a clause that the contractor and any covered subcontractors (as defined in regulations issued pursuant to section 4(a) of this order) shall incorporate into lower-tier subcontracts. This clause shall specify that, as a condition of payment, the minimum wage to be paid to workers employed in the performance of the contract or any covered subcontract thereunder, including workers whose wages are calculated pursuant to special certificates issued under section 14(c) of the Fair Labor Standards Act of 1938 (29 U.S.C. 214(c)), shall be at least:
+
+(i) $15.00 per hour, beginning January 30, 2022; and
+
+(ii) beginning January 1, 2023, and annually thereafter, an amount determined by the Secretary of Labor (Secretary). The amount shall be published by the Secretary at least 90 days before such new minimum wage is to take effect and shall be:
+
+&emsp;(A) not less than the amount in effect on the date of such determination;
+
+&emsp;(B) increased from such amount by the annual percentage increase in the Consumer Price Index for Urban Wage Earners and Clerical Workers (United States city average, all items, not seasonally adjusted), or its successor publication, as determined by the Bureau of Labor Statistics; and
+
+&emsp;(C) rounded to the nearest multiple of $0.05.
+
+(b) In calculating the annual percentage increase in the Consumer Price Index for purposes of subsection (a)(ii)(B) of this section, the Secretary shall compare such Consumer Price Index for the most recent month, quarter, or year available (as selected by the Secretary prior to the first year for which a minimum wage is in effect pursuant to subsection (a)(ii)(B) of this section) with the Consumer Price Index for the same month in the preceding year, the same quarter in the preceding year, or the preceding year, respectively.
+
+(c) Nothing in this order shall excuse noncompliance with any applicable Federal or State prevailing wage law, or any applicable law or municipal ordinance establishing a minimum wage higher than the minimum wage established under this order.
+
+Sec. 3. <i>Application to Tipped Workers</i>. (a) For workers covered under section 2 of this order who are tipped employees pursuant to section 3(t) of the Fair Labor Standards Act of 1938 (29 U.S.C. 203(t)), the cash wage that must be paid by an employer to such workers shall be at least:
+
+(i) $10.50 per hour, beginning January 30, 2022;
+
+(ii) beginning January 1, 2023, 85 percent of the wage in effect under section 2 of this order, rounded to the nearest multiple of $0.05; and
+
+(iii) beginning January 1, 2024, and for each subsequent year, 100 percent of the wage in effect under section 2 of this order.
+
+(b) Where workers do not receive a sufficient additional amount on account of tips, when combined with the hourly cash wage paid by the employer, such that their wages are equal to the minimum wage under section 2 of this order, the cash wage paid by the employer, as set forth in this section for those workers, shall be increased such that their wages equal the minimum wage under section 2 of this order. Consistent with applicable law, if the wage required to be paid under the Service Contract Act \[of 1965\], \[see\] 41 U.S.C. 6701 <i>et seq</i>., or any other applicable law or regulation is higher than the wage required under section 2 of this order, the employer shall pay additional cash wages sufficient to meet the highest wage required to be paid.
+
+Sec. 4. <i>Regulations and Implementation</i>. (a) The Secretary shall, consistent with applicable law, issue regulations by November 24, 2021, to implement the requirements of this order. Such regulations shall include both definitions of relevant terms and, as appropriate, exclusions from the requirements of this order. Within 60 days of the Secretary issuing such regulations, the Federal Acquisition Regulatory Council, to the extent permitted by law, shall amend the Federal Acquisition Regulation to provide for inclusion in Federal procurement solicitations, contracts, and contract-like instruments subject to this order the clause described in section 2(a) of this order.
+
+(b) Within 60 days of the Secretary issuing regulations pursuant to subsection (a) of this section, agencies shall take steps, to the extent permitted by law, to exercise any applicable authority to ensure that contracts and contract-like instruments as described in sections 8(a)(i)(C) and (D) of this order, entered into on or after January 30, 2022, consistent with the effective date of such agency action, comply with the requirements set forth in sections 2 and 3 of this order.
+
+(c) Any regulations issued pursuant to this section should, to the extent practicable, incorporate existing definitions, principles, procedures, remedies, and enforcement processes under the Fair Labor Standards Act of 1938, 29 U.S.C. 201 <i>et seq</i>.; the Service Contract Act, 41 U.S.C. 6701 <i>et seq</i>.; the Davis-Bacon Act, \[see\] 40 U.S.C. 3141 <i>et seq</i>.; Executive Order 13658 of February 12, 2014 (Establishing a Minimum Wage for Contractors) \[41 U.S.C. 6301 note prec.\]; and regulations issued to implement that order.
+
+Sec. 5. <i>Enforcement</i>. (a) The Secretary shall have the authority for investigating potential violations of and obtaining compliance with this order.
+
+(b) This order creates no rights under the Contract Disputes Act \[of 1978\], \[see\] 41 U.S.C. 7101 <i>et seq</i>., and disputes regarding whether a contractor has paid the wages prescribed by this order, as appropriate and consistent with applicable law, shall be disposed of only as provided by the Secretary in regulations issued pursuant to this order.
+
+Sec. 6. <i>Revocation of Certain Presidential Actions</i>. Executive Order 13838 of May 25, 2018 (Exemption From Executive Order 13658 for Recreational Services on Federal Lands) \[set out above\], is revoked as of January 30, 2022. Executive Order 13658 of February 12, 2014 (Establishing a Minimum Wage for Contractors) \[set out above\], is superseded, as of January 30, 2022, to the extent it is inconsistent with this order.
+
+Sec. 7. <i>Severability</i>. If any provision of this order, or the application of any provision of this order to any person or circumstance, is held to be invalid, the remainder of this order and its application to any other person or circumstance shall not be affected thereby.
+
+Sec. 8. <i>Applicability</i>. (a) This order shall apply to any new contract; new contract-like instrument; new solicitation; extension or renewal of an existing contract or contract-like instrument; and exercise of an option on an existing contract or contract-like instrument, if (i): \[sic\]
+
+&emsp;(A) it is a procurement contract or contract-like instrument for services or construction;
+
+&emsp;(B) it is a contract or contract-like instrument for services covered by the Service Contract Act;
+
+&emsp;(C) it is a contract or contract-like instrument for concessions, including any concessions contract excluded by Department of Labor regulations at 29 CFR 4.133(b); or
+
+&emsp;(D) it is a contract or contract-like instrument entered into with the Federal Government in connection with Federal property or lands and related to offering services for Federal employees, their dependents, or the general public; and
+
+(ii) the wages of workers under such contract or contract-like instrument are governed by the Fair Labor Standards Act, the Service Contract Act, or the Davis-Bacon Act.
+
+(b) For contracts or contract-like instruments covered by the Service Contract Act or the Davis-Bacon Act, this order shall apply only to contracts or contract-like instruments at the thresholds specified in those statutes. Where workers' wages are governed by the Fair Labor Standards Act of 1938, this order shall apply only to procurement contracts or contract-like instruments that exceed the micro-purchase threshold, as defined in 41 U.S.C. 1902(a), unless expressly made subject to this order pursuant to regulations or actions taken under section 4 of this order.
+
+(c) This order shall not apply to grants; contracts, contract-like instruments, or agreements with Indian Tribes under the Indian Self-Determination and Education Assistance Act (Public Law 93–638) \[25 U.S.C. 5301 et seq.\], as amended; or any contracts or contract-like instruments expressly excluded by the regulations issued pursuant to section 4(a) of this order.
+
+Sec. 9. <i>Effective Date</i>. (a) This order is effective immediately and shall apply to new contracts; new contract-like instruments; new solicitations; extensions or renewals of existing contracts or contract-like instruments; and exercises of options on existing contracts or contract-like instruments, as described in section 8(a) in this order, where the relevant contract or contract-like instrument will be entered into, the relevant contract or contract-like instrument will be extended or renewed, or the relevant option will be exercised, on or after:
+
+(i) January 30, 2022, consistent with the effective date for the action taken by the Federal Acquisition Regulatory Council pursuant to section 4(a) of this order; or
+
+(ii) for contracts where an agency action is taken pursuant to section 4(b) of this order, January 30, 2022, consistent with the effective date for such action.
+
+(b) As an exception to subsection (a) of this section, where agencies have issued a solicitation before the effective date for the relevant action taken pursuant to section 4 of this order and entered into a new contract or contract-like instrument resulting from such solicitation within 60 days of such effective date, such agencies are strongly encouraged but not required to ensure that the minimum wages specified in sections 2 and 3 of this order are paid in the new contract or contract-like instrument. But if that contract or contract-like instrument is subsequently extended or renewed, or an option is subsequently exercised under that contract or contract-like instrument, the minimum wages specified in sections 2 and 3 of this order shall apply to that extension, renewal, or option.
+
+(c) For all existing contracts and contract-like instruments, solicitations issued between the date of this order and the effective dates set forth in this section, and contracts and contract-like instruments entered into between the date of this order and the effective dates set forth in this section, agencies are strongly encouraged, to the extent permitted by law, to ensure that the hourly wages paid under such contracts or contract-like instruments are consistent with the minimum wages specified in sections 2 and 3 of this order.
+
+Sec. 10. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
 
 (i) the authority granted by law to an executive department or agency, or the head thereof; or
 
@@ -228,7 +296,75 @@ Sec. 4. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
-Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 14042. Ensuring Adequate COVID Safety Protocols for Federal Contractors
+
+Ex. Ord. No. 14042, Sept. 9, 2021, 86 F.R. 50985, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Property and Administrative Services Act, 40 U.S.C. 101 <i>et seq</i>., and section 301 of title 3, United States Code, and in order to promote economy and efficiency in procurement by contracting with sources that provide adequate COVID–19 safeguards for their workforce, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. This order promotes economy and efficiency in Federal procurement by ensuring that the parties that contract with the Federal Government provide adequate COVID–19 safeguards to their workers performing on or in connection with a Federal Government contract or contract-like instrument as described in section 5(a) of this order. These safeguards will decrease the spread of COVID–19, which will decrease worker absence, reduce labor costs, and improve the efficiency of contractors and subcontractors at sites where they are performing work for the Federal Government. Accordingly, ensuring that Federal contractors and subcontractors are adequately protected from COVID–19 will bolster economy and efficiency in Federal procurement.
+
+Sec. 2. <i>Providing for Adequate COVID–19 Safety Protocols for Federal Contractors and Subcontractors</i>. (a) Executive departments and agencies, including independent establishments subject to the Federal Property and Administrative Services Act, 40 U.S.C. 102(4)(A) (agencies), shall, to the extent permitted by law, ensure that contracts and contract-like instruments (as described in section 5(a) of this order) include a clause that the contractor and any subcontractors (at any tier) shall incorporate into lower-tier subcontracts. This clause shall specify that the contractor or subcontractor shall, for the duration of the contract, comply with all guidance for contractor or subcontractor workplace locations published by the Safer Federal Workforce Task Force (Task Force Guidance or Guidance), provided that the Director of the Office of Management and Budget (Director) approves the Task Force Guidance and determines that the Guidance, if adhered to by contractors or subcontractors, will promote economy and efficiency in Federal contracting. This clause shall apply to any workplace locations (as specified by the Task Force Guidance) in which an individual is working on or in connection with a Federal Government contract or contract-like instrument (as described in section 5(a) of this order).
+
+(b) By September 24, 2021, the Safer Federal Workforce Task Force (Task Force) shall, as part of its issuance of Task Force Guidance, provide definitions of relevant terms for contractors and subcontractors, explanations of protocols required of contractors and subcontractors to comply with workplace safety guidance, and any exceptions to Task Force Guidance that apply to contractor and subcontractor workplace locations and individuals in those locations working on or in connection with a Federal Government contract or contract-like instrument (as described in section 5(a) of this order).
+
+(c) Prior to the Task Force publishing new Guidance related to COVID–19 for contractor or subcontractor workplace locations, including the Guidance developed pursuant to subsection (b) of this section, the Director shall, as an exercise of the delegation of my authority under the Federal Property and Administrative Services Act, see 3 U.S.C. 301, determine whether such Guidance will promote economy and efficiency in Federal contracting if adhered to by Government contractors and subcontractors. Upon an affirmative determination by the Director, the Director's approval of the Guidance, and subsequent issuance of such Guidance by the Task Force, contractors and subcontractors working on or in connection with a Federal Government contract or contract-like instrument (as described in section 5(a) of this order), shall adhere to the requirements of the newly published Guidance, in accordance with the clause described in subsection (a) of this section. The Director shall publish such determination in the Federal Register.
+
+(d) Nothing in this order shall excuse noncompliance with any applicable State law or municipal ordinance establishing more protective safety protocols than those established under this order or with any more protective Federal law, regulation, or agency instructions for contractor or subcontractor employees working at a Federal building or a federally controlled workplace.
+
+(e) For purposes of this order, the term "contract or contract-like instrument" shall have the meaning set forth in the Department of Labor's proposed rule, "Increasing the Minimum Wage for Federal Contractors," 86 FR 38816, 38887 (July 22, 2021). If the Department of Labor issues a final rule relating to that proposed rule, that term shall have the meaning set forth in that final rule.
+
+Sec. 3. <i>Regulations and Implementation</i>. (a) The Federal Acquisition Regulatory Council, to the extent permitted by law, shall amend the Federal Acquisition Regulation to provide for inclusion in Federal procurement solicitations and contracts subject to this order the clause described in section 2(a) of this order, and shall, by October 8, 2021, take initial steps to implement appropriate policy direction to acquisition offices for use of the clause by recommending that agencies exercise their authority under subpart 1.4 of the Federal Acquisition Regulation.
+
+(b) By October 8, 2021, agencies shall take steps, to the extent permitted by law, to exercise any applicable authority to ensure that contracts and contract-like instruments as described in section 5(a) of this order that are not subject to the Federal Acquisition Regulation and that are entered into on or after October 15, 2021, consistent with the effective date of such agency action, include the clause described in section 2(a) of this order.
+
+Sec. 4. <i>Severability</i>. If any provision of this order, or the application of any provision of this order to any person or circumstance, is held to be invalid, the remainder of this order and its application to any other person or circumstance shall not be affected thereby.
+
+Sec. 5. <i>Applicability</i>. (a) This order shall apply to any new contract; new contract-like instrument; new solicitation for a contract or contract-like instrument; extension or renewal of an existing contract or contract-like instrument; and exercise of an option on an existing contract or contract-like instrument, if:
+
+(i) it is a procurement contract or contract-like instrument for services, construction, or a leasehold interest in real property;
+
+(ii) it is a contract or contract-like instrument for services covered by the Service Contract Act, 41 U.S.C. 6701 <i>et seq</i>.;
+
+(iii) it is a contract or contract-like instrument for concessions, including any concessions contract excluded by Department of Labor regulations at 29 CFR 4.133(b); or
+
+(iv) it is a contract or contract-like instrument entered into with the Federal Government in connection with Federal property or lands and related to offering services for Federal employees, their dependents, or the general public;
+
+(b) This order shall not apply to:
+
+(i) grants;
+
+(ii) contracts, contract-like instruments, or agreements with Indian Tribes under the Indian Self-Determination and Education Assistance Act (Public Law 93–638) \[25 U.S.C. 5301 et seq.\], as amended;
+
+(iii) contracts or subcontracts whose value is equal to or less than the simplified acquisition threshold, as that term is defined in section 2.101 of the Federal Acquisition Regulation;
+
+(iv) employees who perform work outside the United States or its outlying areas, as those terms are defined in section 2.101 of the Federal Acquisition Regulation; or
+
+(v) subcontracts solely for the provision of products.
+
+Sec. 6. <i>Effective Date</i>. (a) Except as provided in subsection (b) of this section, this order is effective immediately and shall apply to new contracts; new contract-like instruments; new solicitations for contracts or contract-like instruments; extensions or renewals of existing contracts or contract-like instruments; and exercises of options on existing contracts or contract-like instruments, as described in section 5(a) of this order, where the relevant contract or contract-like instrument will be entered into, the relevant contract or contract-like instrument will be extended or renewed, or the relevant option will be exercised, on or after:
+
+(i) October 15, 2021, consistent with the effective date for the action taken by the Federal Acquisition Regulatory Council pursuant to section 3(a) of this order; or
+
+(ii) for contracts and contract-like instruments that are not subject to the Federal Acquisition Regulation and where an agency action is taken pursuant to section 3(b) of this order, October 15, 2021, consistent with the effective date for such action.
+
+(b) As an exception to subsection (a) of this section, where agencies have issued a solicitation before the effective date for the relevant action taken pursuant to section 3 of this order and entered into a new contract or contract-like instrument resulting from such solicitation within 30 days of such effective date, such agencies are strongly encouraged to ensure that the safety protocols specified in section 2 of this order are applied in the new contract or contract-like instrument. But if that contract or contract-like instrument term is subsequently extended or renewed, or an option is subsequently exercised under that contract or contract-like instrument, the safety protocols specified in section 2 of this order shall apply to that extension, renewal, or option.
+
+(c) For all existing contracts and contract-like instruments, solicitations issued between the date of this order \[Sept. 9, 2021\] and the effective dates set forth in this section, and contracts and contract-like instruments entered into between the date of this order and the effective dates set forth in this section, agencies are strongly encouraged, to the extent permitted by law, to ensure that the safety protocols required under those contracts and contract-like instruments are consistent with the requirements specified in section 2 of this order.
+
+Sec. 7. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ---

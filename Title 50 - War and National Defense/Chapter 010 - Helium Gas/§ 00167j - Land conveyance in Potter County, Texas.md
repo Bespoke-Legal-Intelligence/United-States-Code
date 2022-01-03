@@ -18,7 +18,7 @@ The parcel of land referred to in subsection (a) is all those certain lots, trac
 
 &emsp;&emsp;Thence, North 89 degrees 47 minutes West with the North line of the South 150 acres of the East half, 956.8 varas to a point in the East line of the West half Section 78;
 
-&emsp;&emsp;Thence, North 0 degrees 10 minutes West with the East line of the West half 999.4 varas to a stone 18 x 14 x 3 inches in the middle of the South line of Section 79;
+&emsp;&emsp;Thence, North 0 degrees 10 minutes West with the East line of the West half 999.4varas to a stone 18 x 14 x 3 inches in the middle of the South line of Section 79;
 
 &emsp;&emsp;Thence, South 89 degrees 47 minutes East 965 varas to the place of beginning.
 
@@ -26,7 +26,7 @@ The parcel of land referred to in subsection (a) is all those certain lots, trac
 
 &emsp;One Hundred Sixty (160) acres of land known as the South part of the East part of said survey No. Seventy-eight (78) described by metes and bounds as follows:
 
-&emsp;&emsp;Beginning at the Southwest corner of Section 59, a stone marked X and a pile ofstones; Thence, North 89 degrees 47 minutes West with the North line of Section 77, 966.5 varas to the Southeast corner of the West half of Section 78; Thence, North 0 degrees 10 minutes West with the East line of the West half of Section 78;
+&emsp;&emsp;Beginning at the Southwest corner of Section 59, a stone marked X and a pile of stones; Thence, North 89 degrees 47 minutes West with the North line of Section 77, 966.5 varas to the Southeast corner of the West half of Section 78; Thence, North 0 degrees 10 minutes West with the East line of the West half of Section 78;
 
 &emsp;&emsp;Thence, South 89 degrees 47 minutes East 965.8 varas to a point in the East line of Section 78;
 
@@ -35,6 +35,8 @@ The parcel of land referred to in subsection (a) is all those certain lots, trac
 &emsp;Containing an area of 331 acres, more or less.
 
 (Mar. 3, 1925, ch. 426, §12, as added Pub. L. 86–777, §2, Sept. 13, 1960, 74 Stat. 923; amended Pub. L. 104–273, §6, Oct. 9, 1996, 110 Stat. 3318.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

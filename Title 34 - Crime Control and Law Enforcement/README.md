@@ -61,6 +61,7 @@
 | [<b>503.</b>](Subtitle%20005%20%28V%29%20-%20Law%20Enforcement%20and%20Criminal%20Justice%20Personnel/Chapter%20503%20-%20Law%20Enforcement%20Congressional%20Badge%20of%20Bravery/README.md) | <b>Law Enforcement Congressional Badge of Bravery</b> | <b>50301</b> |
 | [<b>505.</b>](Subtitle%20005%20%28V%29%20-%20Law%20Enforcement%20and%20Criminal%20Justice%20Personnel/Chapter%20505%20-%20National%20Blue%20Alert/README.md) | <b>National Blue Alert</b> | <b>50501</b> |
 | [<b>507.</b>](Subtitle%20005%20%28V%29%20-%20Law%20Enforcement%20and%20Criminal%20Justice%20Personnel/Chapter%20507%20-%20Law%20Enforcement%20Suicide%20Data%20Collection/README.md) | <b>Law Enforcement Suicide Data Collection</b> | <b>50701</b> |
+| [<b>509.</b>](Subtitle%20005%20%28V%29%20-%20Law%20Enforcement%20and%20Criminal%20Justice%20Personnel/Chapter%20509%20-%20Confidentiality%20Opportunities%20for%20Peer%20Support%20Counseling/README.md) | <b>Confidentiality Opportunities for Peer Support Counseling</b> | <b>50901</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -4,6 +4,8 @@ Notwithstanding any other provision of law, an amount equal to the amount of all
 
 (Pub. L. 99–645, title II, §203, Nov. 10, 1986, 100 Stat. 3586; Pub. L. 100–418, title I, §1214(f), Aug. 23, 1988, 102 Stat. 1156.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Harmonized Tariff Schedule of the United States, referred to in text, is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
@@ -11,6 +13,8 @@ The Harmonized Tariff Schedule of the United States, referred to in text, is not
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–418 substituted "chapter 93 of the Harmonized Tariff Schedule of the United States" for "subpart A of part 5 of schedule 7 of the Tariff Schedules of the United States".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

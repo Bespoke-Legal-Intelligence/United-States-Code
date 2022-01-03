@@ -110,7 +110,7 @@ To the maximum extent practicable, each State agency shall ensure that in making
 
 &emsp;&emsp;(D) On July 1, 2011, $150,000,000.
 
-&emsp;&emsp;(E) On July 1, 2012, and each July 1 thereafter, the amount made available for the preceding fiscal year, as adjusted to reflect changes for the 12-month period ending thepreceding April 30 in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor, for items other than food.
+&emsp;&emsp;(E) On July 1, 2012, and each July 1 thereafter, the amount made available for the preceding fiscal year, as adjusted to reflect changes for the 12-month period ending the preceding April 30 in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor, for items other than food.
 
 #### (2) Maintenance of existing funding
 
@@ -118,7 +118,7 @@ To the maximum extent practicable, each State agency shall ensure that in making
 
 #### (3) Evaluation funding
 
-&emsp;On October 1, 2008, out of any funds made available under subsection (b)(2)(A) of section 612c–6 of title 7, the Secretary shall use to carry out the evaluation required under subsection (h), $3,000,000, to remain available for obligation until September 30, 2010.
+&emsp;On October 1, 2008, out of any funds made available under subsection (b)(2)(A) of section612c–6 of title 7, the Secretary shall use to carry out the evaluation required under subsection (h), $3,000,000, to remain available for obligation until September 30, 2010.
 
 #### (4) Receipt and acceptance
 
@@ -150,6 +150,8 @@ To the maximum extent practicable, each State agency shall ensure that in making
 
 (June 4, 1946, ch. 281, §19, as added Pub. L. 110–234, title IV, §4304(a)(1), May 22, 2008, 122 Stat. 1127, and Pub. L. 110–246, §4(a), title IV, §4304(a)(1), June 18, 2008, 122 Stat. 1664, 1888.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 4304(a)(2) of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (d)(1), is section 4304(a)(2) of Pub. L. 110–246, which is set out as a note below.
@@ -167,6 +169,8 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 #### Prior Provisions
 
 A prior section 1769a, act June 4, 1946, ch. 281, §19, formerly §21, as added Nov. 10, 1977, Pub. L. 95–166, §13, 91 Stat. 1338; renumbered §19, Oct. 18, 1986, Pub. L. 99–500, title III, §371(c)(1), 100 Stat. 1783–368, and Oct. 30, 1986, Pub. L. 99–591, title III, §371(c)(1), 100 Stat. 3341–372; renumbered §19, Nov. 14, 1986, Pub. L. 99–661, div. D, title V, §4501(c)(1), 100 Stat. 4080; Nov. 10, 1989, Pub. L. 101–147, title I, §108, 103 Stat. 887; Nov. 2, 1994, Pub. L. 103–448, title I, §119, 108 Stat. 4726, directed Secretary to reduce paperwork required in carrying out functions under this chapter and under the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.), prior to repeal by Pub. L. 104–193, title VII, §710, Aug. 22, 1996, 110 Stat. 2301.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

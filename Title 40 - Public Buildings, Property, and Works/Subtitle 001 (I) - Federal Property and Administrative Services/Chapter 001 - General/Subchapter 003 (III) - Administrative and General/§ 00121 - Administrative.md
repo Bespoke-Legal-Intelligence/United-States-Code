@@ -80,7 +80,7 @@ Transfer of resources.—
 
 &emsp;&emsp;(A)
 
-Within administration.—If the Administrator transfers a function from one component of the Administration to another, the Administrator may also provide for the transfer of appropriate allocated amounts from the component that previously carried out the function to the component being directed to carry out the function. A transfer under this subparagraph must be reported tothe Director of the Office of Management and Budget.
+Within administration.—If the Administrator transfers a function from one component of the Administration to another, the Administrator may also provide for the transfer of appropriate allocated amounts from the component that previously carried out the function to the component being directed to carry out the function. A transfer under this subparagraph must be reported to the Director of the Office of Management and Budget.
 
 &emsp;&emsp;(B)
 
@@ -196,7 +196,7 @@ Space Acquisition and Management. \[sic\]
 
 1–101. Federal facilities and Federal use of space in urban areas shall serve to strengthen the Nation's cities and to make them attractive places to live and work. Such Federal space shall conserve existing urban resources and encourage the development and redevelopment of cities.
 
-1–102. Procedures for meeting space needs in urban areas shall give serious consideration to the impact a site selection will have on improving the social, economic, environmental, and cultural conditions of the communities in the urban area.
+1–102. Procedures for meeting space needs in urban areas shall give serious consideration to the impact asite selection will have on improving the social, economic, environmental, and cultural conditions of the communities in the urban area.
 
 1–103. In the process for meeting Federal space needs, except where such selection is otherwise prohibited, and where cost and security considerations take precedence, preference is to be given to qualified opportunity zones (as defined in 26 U.S.C. 1400Z–1), other distressed areas, and centralized community business areas (including other specific areas which may be recommended by local officials).
 
@@ -278,7 +278,7 @@ Ex. Ord. No. 12954, Mar. 8, 1995, 60 F.R. 13023, provided:
 
 Efficient economic performance and productivity are directly related to the existence of cooperative working relationships between employers and employees. When Federal contractors become involved in prolonged labor disputes with their employees, the Federal Government's economy, efficiency, and cost of operations are adversely affected. In order to operate as effectively as possible, by receiving timely goods and quality services, the Federal Government must assist the entities with which it has contractual relations to develop stable relationships with their employees.
 
-An important aspect of a stable collective bargaining relationship is the balance between allowing businesses to operate during a strike and preserving worker rights. This balance is disrupted when permanent replacement employees are hired. It has been found that strikes involving permanent replacement workers are longer in duration than other strikes. In addition, the use of permanent replacements can change a limited dispute into a broader, more contentious struggle, thereby exacerbating the problems that initially led to the strike. By permanently replacing its workers, an employer loses the accumulated knowledge, experience, skill, and expertise of its incumbent employees. These circumstances then adversely affect the businesses and entities, such as the Federal Government, which rely on that employer to provide high quality and reliable goods or services.
+An important aspect of a stable collective bargaining relationship is the balance between allowing businesses to operate during a strike and preserving worker rights. This balance is disrupted when permanent replacement employees are hired. It has been found that strikes involving permanent replacement workers are longer in duration than other strikes. In addition, the use of permanent replacements can change a limited dispute into a broader, more contentious struggle, thereby exacerbating the problems that initially led to the strike. By permanently replacing its workers, an employer loses the accumulated knowledge, experience, skill, and expertise of its incumbent employees. Thesecircumstances then adversely affect the businesses and entities, such as the Federal Government, which rely on that employer to provide high quality and reliable goods or services.
 
 NOW, THEREFORE, to ensure the economical and efficient administration and completion of Federal Government contracts, and by the authority vested in me as President by the Constitution and the laws of the United States of America, including 40 U.S.C. 486(a) \[now 40 U.S.C. 121(a)\] and 3 U.S.C. 301, it is hereby ordered as follows:
 
@@ -432,7 +432,7 @@ Sec. 3. <i>Establishment and Responsibilities of Agency Senior Real Property Off
 
 (v) identify and pursue goals, with appropriate deadlines, consistent with and supportive of the agency's asset management plan and measure progress against such goals;
 
-(vi) incorporate planning and management requirements for historic property under Executive Order 13287of March 3, 2003 \[54 U.S.C. 306101 note\], and for environmental management under other Executive Orders; and
+(vi) incorporate planning and management requirements for historic property under Executive Order 13287 of March 3, 2003 \[54 U.S.C. 306101 note\], and for environmental management under other Executive Orders; and
 
 (vii) identify any other information and pursue any other actions necessary to the appropriate development and implementation of the agency asset management plan.
 

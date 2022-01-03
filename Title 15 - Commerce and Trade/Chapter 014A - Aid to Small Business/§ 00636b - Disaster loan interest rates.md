@@ -4,6 +4,8 @@ Any loan made under section 636a <sup>1</sup> of this title and section 4452 <
 
 (Pub. L. 91–606, title II, §234, Dec. 31, 1970, 84 Stat. 1754.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 636a of this title, referred to in text, was repealed by Pub. L. 97–35, title XIX, §1917, Aug. 13, 1981, 95 Stat. 781.
@@ -12,7 +14,9 @@ Section 4452 of title 42, referred to in text, was repealed by Pub. L. 93–24, 
 
 #### Codification
 
-Section was enacted as part of the Disaster Relief Act of 1970, and not as part of the Small Business Act whichcomprises this chapter. Section was formerly classified to section 4453 of Title 42, The Public Health and Welfare.
+Section was enacted as part of the Disaster Relief Act of 1970, and not as part of the Small Business Act which comprises this chapter. Section was formerly classified to section 4453 of Title 42, The Public Health and Welfare.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

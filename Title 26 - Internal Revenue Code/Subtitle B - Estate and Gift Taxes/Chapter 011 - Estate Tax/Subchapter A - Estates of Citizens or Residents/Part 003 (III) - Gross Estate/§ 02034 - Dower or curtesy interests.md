@@ -4,9 +4,13 @@ The value of the gross estate shall include the value of all property to the ext
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 381; Pub. L. 87–834, §18(a)(2)(B), Oct. 16, 1962, 76 Stat. 1052.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1962</b>—Pub. L. 87–834 struck out provisions which excepted real property situated outside of the United States.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1962 Amendment
 

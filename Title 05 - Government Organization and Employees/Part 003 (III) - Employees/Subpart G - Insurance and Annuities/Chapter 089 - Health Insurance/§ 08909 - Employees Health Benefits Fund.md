@@ -56,7 +56,7 @@ Mar. 17, 1964, Pub. L. 88–284, §1(12), (13), 78 Stat. 165.
 
 Sept. 23, 1959, Pub. L. 86–382, §9(b), 73 Stat. 715.
 
-In subsection (a), the words "hereby created" are omitted as executed. The words "hereinafter referred to as the 'Fund' " are omitted as unnecessary. The words "to reimburse the Employees Health Benefits Fund for sums expended by the Commission in administering the provisions of this chapter for the fiscal years 1960 and 1961" in former section 3008(b) are omitted as executed.
+In subsection (a), the words "hereby created" are omitted as executed. The words "hereinafter referred toas the 'Fund' " are omitted as unnecessary. The words "to reimburse the Employees Health Benefits Fund for sums expended by the Commission in administering the provisions of this chapter for the fiscal years 1960 and 1961" in former section 3008(b) are omitted as executed.
 
 In subsection (d), the requirement that the assets and liabilities of plans of organizations that have been merged be transferred at the beginning of the contract term next following the date of the merger or enactment of this subsection is omitted as executed. The next beginning contract term referred to was November 1, 1964, and the transfers have been made. In the last sentence, the word "hereafter" is omitted as unnecessary.
 
@@ -136,7 +136,7 @@ Pub. L. 99–272, title XV, §15202(a), Apr. 7, 1986, 100 Stat. 333, provided th
 
 "(4)(A) Subject to subparagraphs (B) and (C), any amounts refunded to the Employees Health Benefits Fund under this subsection may be used solely for the purpose of paying the Government contribution under chapter 89 of title 5, United States Code, for health benefits for annuitants, as defined by section 8901(3) of title 5, United States Code, (including the Government contribution for former employees of the United States Postal Service) enrolled in health benefits plans under such chapter.
 
-"(B) This paragraph applies to a refund to the extent that such refund represents amounts attributable toGovernment contributions which were made under section 8906(b) of title 5, United States Code, (including contributions made by the United States Postal Service) as determined under regulations which the Office of Personnel Management shall prescribe.
+"(B) This paragraph applies to a refund to the extent that such refund represents amounts attributable to Government contributions which were made under section 8906(b) of title 5, United States Code, (including contributions made by the United States Postal Service) as determined under regulations which the Office of Personnel Management shall prescribe.
 
 "(C) Any part of the amount in the Employees Health Benefits Fund as a result of a refund made under this subsection may be transferred—
 

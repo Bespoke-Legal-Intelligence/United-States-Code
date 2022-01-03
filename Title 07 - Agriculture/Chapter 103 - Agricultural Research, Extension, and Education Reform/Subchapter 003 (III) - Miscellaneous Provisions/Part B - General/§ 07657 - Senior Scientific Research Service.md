@@ -102,6 +102,8 @@ The Secretary shall develop a performance appraisal system for members of the Se
 
 (Pub. L. 105–185, title VI, §620, as added Pub. L. 107–171, title VII, §7219, May 13, 2002, 116 Stat. 449.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The General Schedule, referred to in subsecs. (b)(2)(C), (4)(A)(iv), (B), (d)(2)(A), and (f)(1)(A), is set out under section 5332 of Title 5, Government Organization and Employees.

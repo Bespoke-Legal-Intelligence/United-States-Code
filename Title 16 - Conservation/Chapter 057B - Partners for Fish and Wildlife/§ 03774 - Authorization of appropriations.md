@@ -4,6 +4,8 @@ There is authorized to be appropriated to carry out this chapter not more than $
 
 (Pub. L. 109–294, §5, Oct. 3, 2006, 120 Stat. 1354; Pub. L. 116–9, title VII, §7001(a), Mar. 12, 2019, 133 Stat. 779.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Pub. L. 116–9 substituted "2019 through 2023" for "2006 through 2011".

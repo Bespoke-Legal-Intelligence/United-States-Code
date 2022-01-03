@@ -2,7 +2,7 @@
 
 #### (a) Reports by outlets to Commission
 
-Not later than 60 days after August 13, 2018, and not less frequently than every 6 monthsthereafter, a United States-based foreign media outlet shall submit to the Commission a report that contains the following information:
+Not later than 60 days after August 13, 2018, and not less frequently than every 6 months thereafter, a United States-based foreign media outlet shall submit to the Commission a report that contains the following information:
 
 &emsp;(1) The name of such outlet.
 

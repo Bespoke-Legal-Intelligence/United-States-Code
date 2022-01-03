@@ -34,7 +34,7 @@ In addition to any other payment under this part, the Secretary shall, subject t
 
 &emsp;&emsp;&emsp;(ix) $483,000,000 for fiscal year 2008; and
 
-&emsp;&emsp;&emsp;(x) for any succeeding fiscal year, the amount of the incentive payment pool for the fiscal year that precedes such succeeding fiscal year, multiplied by the percentage (if any) by which the CPI for such preceding fiscal year exceeds the CPI for the second preceding fiscal year.
+&emsp;&emsp;&emsp;(x) for any succeeding fiscal year, the amount of the incentive payment pool forthe fiscal year that precedes such succeeding fiscal year, multiplied by the percentage (if any) by which the CPI for such preceding fiscal year exceeds the CPI for the second preceding fiscal year.
 
 #### (B) CPI
 
@@ -74,7 +74,7 @@ In addition to any other payment under this part, the Secretary shall, subject t
 
 #### (B) Data required to be complete and reliable
 
-&emsp;&emsp;Notwithstanding subparagraph (A), the maximum incentive base amount for a Statefor a fiscal year with respect to a performance measure described in paragraph (4) is zero, unless the Secretary determines, on the basis of an audit performed under section 652(a)(4)(C)(i) of this title, that the data which the State submitted pursuant to section 654(15)(B) of this title for the fiscal year and which is used to determine the performance level involved is complete and reliable.
+&emsp;&emsp;Notwithstanding subparagraph (A), the maximum incentive base amount for a State for a fiscal year with respect to a performance measure described in paragraph (4) is zero, unless the Secretary determines, on the basis of an audit performed under section 652(a)(4)(C)(i) of this title, that the data which the State submitted pursuant to section 654(15)(B) of this title for the fiscal year and which is used to determine the performance level involved is complete and reliable.
 
 #### (C) State collections base
 
@@ -248,7 +248,7 @@ In addition to any other payment under this part, the Secretary shall, subject t
 | 40% | 41% | 50 |
 | 0% | 40% | 0\. |
 
-&emsp;&emsp;&nbsp;Notwithstanding the preceding sentence, if the current payment performance level of a State for a fiscal year is less than 40 percent but exceeds by at least 5 percentage points the current payment performance level of the State for the immediately preceding fiscal year, then the applicable percentage with respect to the State's current payment performance level is 50 percent.
+&emsp;&emsp;&nbsp;Notwithstanding the preceding sentence, if the current payment performance level of a State for a fiscal year is less than 40 percent but exceeds by at least 5 percentagepoints the current payment performance level of the State for the immediately preceding fiscal year, then the applicable percentage with respect to the State's current payment performance level is 50 percent.
 
 #### (D) Collections on child support arrearages
 
@@ -340,7 +340,7 @@ In computing incentive payments under this section, support which is collected b
 
 #### (d) Administrative provisions
 
-The amounts of the incentive payments to be made to the States under this section for a fiscal year shall be estimated by the Secretary at/or before the beginning of the fiscal year on the basis of the best information available. The Secretary shall make the payments for the fiscal year, on a quarterly basis (with each quarterly payment being made no later than the beginning of the quarter involved), in the amounts so estimated, reduced or increased to the extent of any overpayments or underpayments which the Secretary determines were made under this section to the States involved for prior periods and with respect to which adjustment has not already been made under this subsection. Upon the making of any estimate by the Secretary under the preceding sentence, any appropriations available for payments under this section are deemed obligated.
+The amounts of the incentive payments to be made to the States under this section for a fiscal year shall be estimated by the Secretary at/or before the beginning of the fiscal year on the basis of the best information available. The Secretary shall make the payments for the fiscal year, on a quarterly basis (with each quarterly payment being made no later than the beginning of the quarter involved), in the amounts so estimated, reduced or increased to the extent of any overpayments or underpayments which the Secretary determines were made under this section to the States involved for prior periods and with respect to which adjustment has not already been made under this subsection. Upon the making of any estimate by the Secretary under thepreceding sentence, any appropriations available for payments under this section are deemed obligated.
 
 #### (e) Regulations
 
@@ -356,6 +356,8 @@ A State to which a payment is made under this section shall expend the full amou
 
 (Aug. 14, 1935, ch. 531, title IV, §458, formerly §458A, as added and renumbered §458, Pub. L. 105–200, title II, §201(a), (f)(2)(A), July 16, 1998, 112 Stat. 648, 658.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Pub. L. 105–200, title II, §201(g), July 16, 1998, 112 Stat. 658, provided that: "Except as otherwise provided in this section \[enacting this section, amending this section and sections 652, 655, and 658 of this title, repealing section 658 of this title, enacting provisions set out as notes under this section and sections 652 and 655 of this title, amending provisions set out as notes under this section and sections 652 and 658 of this title, and repealing provisions set out as a note under section 658 of this title\], the amendments made by this section shall take effect on October 1, 1999."
@@ -366,7 +368,7 @@ Pub. L. 105–200, title II, §201(c), July 16, 1998, 112 Stat. 656, provided th
 
 #### Transition Rule
 
-Pub. L. 105–200, title II, §201(b), July 16, 1998, 112 Stat. 656, provided for reductions by the Secretary of theamount otherwise payable to a State under this section and former section 658 of this title for fiscal years 2000 and 2001.
+Pub. L. 105–200, title II, §201(b), July 16, 1998, 112 Stat. 656, provided for reductions by the Secretary of the amount otherwise payable to a State under this section and former section 658 of this title for fiscal years 2000 and 2001.
 
 #### Studies
 

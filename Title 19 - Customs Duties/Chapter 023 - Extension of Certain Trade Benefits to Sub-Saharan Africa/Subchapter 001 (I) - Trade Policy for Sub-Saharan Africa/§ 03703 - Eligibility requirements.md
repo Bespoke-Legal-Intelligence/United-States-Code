@@ -4,7 +4,7 @@ The President is authorized to designate a sub-Saharan African country as an eli
 
 &emsp;(1) has established, or is making continual progress toward establishing—
 
-&emsp;&emsp;(A) a market-based economy that protects private property rights for men and women, incorporates an open rules-based tradingsystem, and minimizes government interference in the economy through measures such as price controls, subsidies, and government ownership of economic assets;
+&emsp;&emsp;(A) a market-based economy that protects private property rights for men and women, incorporates an open rules-based trading system, and minimizes government interference in the economy through measures such as price controls, subsidies, and government ownership of economic assets;
 
 &emsp;&emsp;(B) the rule of law, political pluralism, and the right to due process, a fair trial, and equal protection under the law;
 
@@ -27,6 +27,8 @@ The President is authorized to designate a sub-Saharan African country as an eli
 &emsp;(3) does not engage in gross violations of internationally recognized human rights or provide support for acts of international terrorism and cooperates in international efforts to eliminate human rights violations and terrorist activities.
 
 (Pub. L. 106–200, title I, §104, May 18, 2000, 114 Stat. 254; Pub. L. 114–27, title I, §§106(b), 111, June 29, 2015, 129 Stat. 368, 370.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

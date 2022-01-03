@@ -44,7 +44,7 @@ The Secretary shall ensure that, subject to subsection (e), information collecte
 
 #### (e) Patient privacy
 
-The Secretary shall ensure that the data and information collected under this section are made available in a manner that, at a minimum, protects personal privacy to the extent required by applicable Federal and State law.
+The Secretary shall ensure that the data and information collected under this section aremade available in a manner that, at a minimum, protects personal privacy to the extent required by applicable Federal and State law.
 
 #### (f) Eligibility for grants
 
@@ -59,6 +59,8 @@ To be eligible to receive a grant under subsection (a)(3), an entity shall—
 To carry out this section, there are authorized to be appropriated $10,000,000 for each of fiscal years 2020 through 2024.
 
 (July 1, 1944, ch. 373, title III, §399V–2, as added Pub. L. 111–148, title X, §10411(b)(1), Mar. 23, 2010, 124 Stat. 988; amended Pub. L. 115–342, §2, Dec. 21, 2018, 132 Stat. 5040.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

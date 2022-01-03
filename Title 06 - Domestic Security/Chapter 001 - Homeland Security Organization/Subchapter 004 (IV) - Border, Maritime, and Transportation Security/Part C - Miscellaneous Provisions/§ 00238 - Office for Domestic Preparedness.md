@@ -40,7 +40,7 @@ During fiscal year 2003 and fiscal year 2004, the Director of the Office for Dom
 
 #### Amendments
 
-<b>2016</b>—Subsec. (a). Pub. L. 114–125, §802(g)(1)(B)(iv)(II)(aa), amended subsec. (a) generally.Prior to amendment, text read as follows: "The Office for Domestic Preparedness shall be within the Directorate of Border and Transportation Security."
+<b>2016</b>—Subsec. (a). Pub. L. 114–125, §802(g)(1)(B)(iv)(II)(aa), amended subsec. (a) generally. Prior to amendment, text read as follows: "The Office for Domestic Preparedness shall be within the Directorate of Border and Transportation Security."
 
 Subsec. (b). Pub. L. 114–125, §802(g)(1)(B)(iv)(II)(bb), struck out at end "The Director of the Office for Domestic Preparedness shall report directly to the Under Secretary for Border and Transportation Security."
 

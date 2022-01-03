@@ -4,7 +4,7 @@ For the purposes of this subchapter—
 
 #### (a) Employment
 
-The term "employment" means any service performed after 1936 and prior to 1951 which was employment for the purposes of this subchapter under the law applicable to the period in which such service was performed, and any service, of whatever nature, performed after 1950 (A) by an employee for the person employing him, irrespective of the citizenship or residence of either, (i) within the United States, or (ii) on or in connection with an American vessel or American aircraft under a contract of service which is entered into within the United States or during the performance of which and while the employee is employed on the vessel or aircraft it touches at a port in the United States, if the employee is employed on and in connection with such vessel or aircraft when outside the United States, or (B) outside the United States by a citizen or resident of the United States as an employee (i) of an American employer (as defined in subsection (e) of this section), or (ii) of a foreign affiliate (as defined in section 3121(l)(6) of the Internal Revenue Code of 1986) of an American employer during any period for which there is in effect an agreement, entered into pursuant to section 3121(l) of such Code, with respect to such affiliate, or (C) if it is service, regardless of where or by whom performed, which is designated as employment or recognized as equivalent to employment under an agreement entered into under section 433 of this title; except that, in the case of service performed after 1950, such term shall not include—
+The term "employment" means any service performed after 1936 and prior to 1951 which wasemployment for the purposes of this subchapter under the law applicable to the period in which such service was performed, and any service, of whatever nature, performed after 1950 (A) by an employee for the person employing him, irrespective of the citizenship or residence of either, (i) within the United States, or (ii) on or in connection with an American vessel or American aircraft under a contract of service which is entered into within the United States or during the performance of which and while the employee is employed on the vessel or aircraft it touches at a port in the United States, if the employee is employed on and in connection with such vessel or aircraft when outside the United States, or (B) outside the United States by a citizen or resident of the United States as an employee (i) of an American employer (as defined in subsection (e) of this section), or (ii) of a foreign affiliate (as defined in section 3121(l)(6) of the Internal Revenue Code of 1986) of an American employer during any period for which there is in effect an agreement, entered into pursuant to section 3121(l) of such Code, with respect to such affiliate, or (C) if it is service, regardless of where or by whom performed, which is designated as employment or recognized as equivalent to employment under an agreement entered into under section 433 of this title; except that, in the case of service performed after 1950, such term shall not include—
 
 &emsp;(1) Service performed by foreign agricultural workers lawfully admitted to the United States from the Bahamas, Jamaica, and the other British West Indies, or from any other foreign country or possession thereof, on a temporary basis to perform agricultural labor;
 
@@ -32,13 +32,13 @@ The term "employment" means any service performed after 1936 and prior to 1951 w
 
 &emsp;&emsp;&emsp;&emsp;(I) if an individual performing service described in subparagraph (A) returns to the performance of such service after being separated therefrom for a period of less than 366 consecutive days, regardless of whether the period began before, on, or after December 31, 1983, then such service shall be considered continuous,
 
-&emsp;&emsp;&emsp;&emsp;(II) if an individual performing service described in subparagraph (A) returns to the performance of such service afterbeing detailed or transferred to an international organization as described under section 3343 of subchapter III of chapter 33 of title 5 or under section 3581 of chapter 35 of such title, then the service performed for that organization shall be considered service described in subparagraph (A),
+&emsp;&emsp;&emsp;&emsp;(II) if an individual performing service described in subparagraph (A) returns to the performance of such service after being detailed or transferred to an international organization as described under section 3343 of subchapter III of chapter 33 of title 5 or under section 3581 of chapter 35 of such title, then the service performed for that organization shall be considered service described in subparagraph (A),
 
 &emsp;&emsp;&emsp;&emsp;(III) if an individual performing service described in subparagraph (A) is reemployed or reinstated after being separated from such service for the purpose of accepting employment with the American Institute of Taiwan as provided under section 3310 of title 22, then the service performed for that Institute shall be considered service described in subparagraph (A),
 
 &emsp;&emsp;&emsp;&emsp;(IV) if an individual performing service described in subparagraph (A) returns to the performance of such service after performing service as a member of a uniformed service (including, for purposes of this clause, service in the National Guard and temporary service in the Coast Guard Reserve) and after exercising restoration or reemployment rights as provided under chapter 43 of title 38, then the service so performed as a member of a uniformed service shall be considered service described in subparagraph (A), and
 
-&emsp;&emsp;&emsp;&emsp;(V) if an individual performing service described in subparagraph (A) returns to the performance of such service after employment (by a tribal organization) to which section 5323(e)(2) of title 25 applies, then the service performed for that tribal organization shall be considered service described in subparagraph (A); or
+&emsp;&emsp;&emsp;&emsp;(V) if an individual performing service described in subparagraph (A) returns to the performance of such service after employment (by a tribal organization) towhich section 5323(e)(2) of title 25 applies, then the service performed for that tribal organization shall be considered service described in subparagraph (A); or
 
 &emsp;&emsp;&emsp;(ii) is receiving an annuity from the Civil Service Retirement and Disability Fund, or benefits (for service as an employee) under another retirement system established by a law of the United States for employees of the Federal Government (other than for members of the uniformed services);
 
@@ -70,7 +70,7 @@ The term "employment" means any service performed after 1936 and prior to 1951 w
 
 &emsp;&emsp;(H) service performed by an individual—
 
-&emsp;&emsp;&emsp;(i) on or after the effective date of an election by such individual, under section 301 of the Federal Employees' Retirement System Act of 1986, section 2157 of title 50, or the Federal Employees' Retirement System Open Enrollment Act of 1997 <sup>1</sup> tobecome subject to the Federal Employees' Retirement System provided in chapter 84 of title 5, or
+&emsp;&emsp;&emsp;(i) on or after the effective date of an election by such individual, under section 301 of the Federal Employees' Retirement System Act of 1986, section 2157 of title 50, or the Federal Employees' Retirement System Open Enrollment Act of 1997 <sup>1</sup> to become subject to the Federal Employees' Retirement System provided in chapter 84 of title 5, or
 
 &emsp;&emsp;&emsp;(ii) on or after the effective date of an election by such individual, under regulations issued under section 860 of the Foreign Service Act of 1980 \[22 U.S.C. 4071i\], to become subject to the Foreign Service Pension System provided in subchapter II of chapter 8 of title I of such Act \[22 U.S.C. 4071 et seq.\];
 
@@ -130,7 +130,7 @@ The term "employment" means any service performed after 1936 and prior to 1951 w
 
 &emsp;&emsp;(A) a school, college, or university, or
 
-&emsp;&emsp;(B) an organization described in section 509(a)(3) of the Internal Revenue Code of 1986 if the organization is organized, and at all times thereafter is operated, exclusively for the benefit of, to perform the functions of, or to carry out the purposes of a school, college, or university and is operated, supervised, or controlled by or in connection with such school, college, or university, unless it is a school, college, or university of a State or a political subdivision thereof and the services in its employ performed by a student referred to in section 418(c)(5) of this title are covered under the agreement between the Commissioner of Social Security and such State entered into pursuant to section 418 of this title;
+&emsp;&emsp;(B) an organization described in section 509(a)(3) of the Internal Revenue Code of 1986 if the organization is organized, and at alltimes thereafter is operated, exclusively for the benefit of, to perform the functions of, or to carry out the purposes of a school, college, or university and is operated, supervised, or controlled by or in connection with such school, college, or university, unless it is a school, college, or university of a State or a political subdivision thereof and the services in its employ performed by a student referred to in section 418(c)(5) of this title are covered under the agreement between the Commissioner of Social Security and such State entered into pursuant to section 418 of this title;
 
 > &emsp;if such service is performed by a student who is enrolled and regularly attending classes at such school, college, or university;
 
@@ -234,7 +234,7 @@ The term "agricultural labor" includes all service performed—
 
 &emsp;(4)(A) In the employ of the operator of a farm in handling, planting, drying, packing, packaging, processing, freezing, grading, storing, or delivering to storage or to market or to a carrier for transportation to market, in its unmanufactured state, any agricultural or horticultural commodity; but only if such operator produced more than one-half of the commodity with respect to which such service is performed.
 
-&emsp;(B) In the employ of a group of operators of farms (other than a cooperative organization) in the performance of service described in subparagraph (A) of this paragraph, but only if such operators produced all of the commodity with respect to which such service is performed. For the purposes of this subparagraph, any unincorporated group of operators shall be deemed a cooperative organization if the number of operators comprising such group is more than twenty at any time during the calendar year in which such service is performed.
+&emsp;(B) In the employ of a group of operators of farms (other than a cooperative organization)in the performance of service described in subparagraph (A) of this paragraph, but only if such operators produced all of the commodity with respect to which such service is performed. For the purposes of this subparagraph, any unincorporated group of operators shall be deemed a cooperative organization if the number of operators comprising such group is more than twenty at any time during the calendar year in which such service is performed.
 
 &emsp;(5) On a farm operated for profit if such service is not in the course of the employer's trade or business.
 
@@ -278,7 +278,7 @@ The term "employee" means—
 
 (2) Service performed in the employ of a State or political subdivision in connection with the operation of its public transportation system shall not constitute covered transportation service if—
 
-&emsp;(A) any part of the transportation system was acquired from private ownership after 1936 and prior to 1951, and substantially all service in connection with the operation of the transportation system is, on December 31, 1950, covered under a general retirement system providing benefits which, by reason of a provisionof the State constitution dealing specifically with retirement systems of the State or political subdivisions thereof, cannot be diminished or impaired; or
+&emsp;(A) any part of the transportation system was acquired from private ownership after 1936 and prior to 1951, and substantially all service in connection with the operation of the transportation system is, on December 31, 1950, covered under a general retirement system providing benefits which, by reason of a provision of the State constitution dealing specifically with retirement systems of the State or political subdivisions thereof, cannot be diminished or impaired; or
 
 &emsp;(B) no part of the transportation system operated by the State or political subdivision on December 31, 1950, was acquired from private ownership after 1936 and prior to 1951;
 
@@ -288,7 +288,7 @@ The term "employee" means—
 
 &emsp;(D) prior to such acquisition rendered service in employment in connection with the operation of such part of the transportation system acquired by the State or political subdivision,
 
-> the service of such employee in connection with the operation of the transportation system shall constitute covered transportation service, commencing with the first day of the third calendar quarter following the calendar quarter in which the acquisition of such part took place, unless on such first day such service of such employee is covered by a general retirement system which does not, with respect to such employee, contain special provisions applicable only to employees described in subparagraph (C) of this paragraph.
+> the service of such employee in connection with the operation of the transportation system shall constitute covered transportation service, commencing with the first day of the third calendar quarter following the calendar quarter in which the acquisition of such part took place, unless on such first day such service of such employee is covered by a general retirement system which does not, with respect to such employee, containspecial provisions applicable only to employees described in subparagraph (C) of this paragraph.
 
 (3) All service performed in the employ of a State or political subdivision thereof in connection with its operation of a public transportation system shall constitute covered transportation service if the transportation system was not operated by the State or political subdivision prior to 1951 and, at the time of its first acquisition (after 1950) from private ownership of any part of its transportation system, the State or political subdivision did not have a general retirement system covering substantially all service performed in connection with the operation of the transportation system.
 
@@ -318,7 +318,7 @@ The term "employee" means—
 
 #### (m) Member of a uniformed service
 
-The term "member of a uniformed service" means any person appointed, enlisted, or inducted in a component of the Army, Navy, Air Force, Marine Corps, or Coast Guard (including a reserve component as defined in section 101(27)of title 38), or in one of those services without specification of component, or as a commissioned officer of the Coast and Geodetic Survey, the National Oceanic and Atmospheric Administration Corps, or the Regular or Reserve Corps <sup>4</sup> of the Public Health Service, and any person serving in the Army or Air Force under call or conscription. The term includes—
+The term "member of a uniformed service" means any person appointed, enlisted, or inducted in a component of the Army, Navy, Air Force, Marine Corps, or Coast Guard (including a reserve component as defined in section 101(27) of title 38), or in one of those services without specification of component, or as a commissioned officer of the Coast and Geodetic Survey, the National Oceanic and Atmospheric Administration Corps, or the Regular or Reserve Corps <sup>4</sup> of the Public Health Service, and any person serving in the Army or Air Force under call or conscription. The term includes—
 
 &emsp;(1) a retired member of any of those services;
 
@@ -384,7 +384,7 @@ The term "employment" shall, notwithstanding the provisions of subsection (a), i
 
 (4) For purposes of paragraph (3), under regulations (consistent with regulations established under section 3121(u)(2)(D) of the Internal Revenue Code of 1986)—
 
-&emsp;(A) all agencies and instrumentalities of a State (as defined in section 418(b) of this title)or of the District of Columbia shall be treated as a single employer, and
+&emsp;(A) all agencies and instrumentalities of a State (as defined in section 418(b) of this title) or of the District of Columbia shall be treated as a single employer, and
 
 &emsp;(B) all agencies and instrumentalities of a political subdivision of a State (as so defined) shall be treated as a single employer and shall not be treated as described in subparagraph (A).
 
@@ -408,6 +408,8 @@ Notwithstanding any other provision of this subchapter, the rules of section 350
 
 (Aug. 14, 1935, ch. 531, title II, §210, as added Aug. 10, 1946, ch. 951, title II, §201, 60 Stat. 979; amended, Aug. 28, 1950, ch. 809, title I, §104(a), 64 Stat. 492, 494; Oct. 31, 1949, ch. 792, title V, §506(a), formerly §505(a), as added July 12, 1951, ch. 223, 65 Stat. 120, and renumbered Pub. L. 87–345, §3, Oct. 3, 1961, 75 Stat. 761; Sept. 1, 1954, ch. 1206, title I, §101(a)(4), (5), (b), (c)(1), (2), (e), (f), (m), 68 Stat. 1052, 1061; Aug. 1, 1956, ch. 836, title I, §§104(a), (b), (c)(1), 105(b), 121(c), 70 Stat. 824, 828, 839; Aug. 1, 1956, ch. 837, title IV, §402(a), 70 Stat. 870; Pub. L. 85–840, title III, §311(a), 312(a), Aug. 28, 1958, 72 Stat. 1035; Pub. L. 86–70, §32(c)(2), June 25, 1959, 73 Stat. 149; Pub. L. 86–168, title I, §104(h), title II, §202(a), Aug. 18, 1959, 73 Stat. 387, 389; Pub. L. 86–624, §30(c)(2), July 12, 1960, 74 Stat. 420; Pub. L. 86–778, title I, §§103(c)–(f), (j)(2)(A), (B), 104(a), Sept. 13, 1960, 74 Stat. 936, 937, 942; Pub. L. 87–256, §110(e)(2), Sept. 21, 1961, 75 Stat. 537; Pub. L. 87–293, title II, §202(b)(1), Sept. 22, 1961, 75 Stat. 626; Pub. L. 89–97, title III, §§311(a)(3), (4), 317(a), July 30, 1965, 79 Stat. 380, 381, 388; Pub. L. 90–248, title I, §123(a), title IV, §403(a), Jan. 2, 1968, 81 Stat. 844, 931; Pub. L. 92–603, title I, §§123(a)(1), 128(a), 129(a)(1), Oct. 30, 1972, 86 Stat. 1354, 1358, 1359; Pub. L. 93–445, title III, §311, Oct. 16, 1974, 88 Stat. 1359; Pub. L. 94–455, title XII, §1207(e)(2)(A), Oct. 4, 1976, 90 Stat. 1707; Pub. L. 94–563, §1(a), Oct. 19, 1976, 90 Stat. 2655; Pub. L. 95–216, title III, §351(a)(1), (3)(B), Dec. 20, 1977, 91 Stat. 1549; Pub. L. 95–600, title VII, §703(j)(14)(C), Nov. 6, 1978, 92 Stat. 2942; Pub. L. 97–248, title II, §§269(b), 278(b)(1), Sept. 3, 1982, 96 Stat. 552, 560; Pub. L. 97–448, title III, §309(b)(23), Jan. 12, 1983, 96 Stat. 2410; Pub. L. 98–21, title I, §§101(a), 102(a), title III, §§321(b), 322(a)(1), 323(a)(2), Apr. 20, 1983, 97 Stat. 67, 70, 118, 120, 121; Pub. L. 98–369, div. B, title VI, §§2601(a), 2603(a)(1), 2661(j), 2663(a)(7), (j)(3)(A)(i), July 18, 1984, 98 Stat. 1122, 1128, 1157, 1162, 1170; Pub. L. 99–221, §3(b), Dec. 26, 1985, 99 Stat. 1735; Pub. L. 99–272, title XIII, §§13205(b)(1), 13303(c)(2), Apr. 7, 1986, 100 Stat. 316, 327; Pub. L. 99–335, title III, §304(a), June 6, 1986, 100 Stat. 606; Pub. L. 99–514, title XVIII, §§1883(a)(4), 1895(b)(18)(B), (19), Oct. 22, 1986, 100 Stat. 2916, 2935; Pub. L. 100–203, title IX, §§9001(a)(1), 9004(a), 9005(a), 9023(a), Dec. 22, 1987, 101 Stat. 1330–286 to 1330–288, 1330–295; Pub. L. 100–647, title I, §1001(d)(2)(E), title VIII, §§8015(b)(1), (c)(1), 8016(a)(4)(B), (C), Nov. 10, 1988, 102 Stat. 3351, 3791–3793; Pub. L. 101–239, title X, §10201(b)(1), Dec. 19, 1989, 103 Stat. 2472; Pub. L. 101–508, title XI, §11332(a), Nov. 5, 1990, 104 Stat. 1388–469; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–178, title II, §204(d), Dec. 3, 1993, 107 Stat. 2033; Pub. L. 103–296, title I, §107(a)(4), title III, §§303(a)(1), (b)(1), 319(b)(1), (3), 320(b), 321(a)(13), (c)(6)(C), (D), Aug. 15, 1994, 108 Stat. 1478, 1518, 1519, 1534–1536, 1538; Pub. L. 103–387, §2(a)(2)(B), Oct. 22, 1994, 108 Stat. 4072; Pub. L. 104–188, title I, §1116(a)(2), Aug. 20, 1996, 110 Stat. 1762; Pub. L. 105–61, title VI, §642(d)(1), Oct. 10, 1997, 111 Stat. 1319; Pub. L. 105–33, title XI, §11246(b)(2)(B), as added Pub. L. 105–277, div. A, §101(h) \[title VIII, §802(a)(2)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–532; Pub. L. 108–203, title IV, §423(c), Mar. 2, 2004, 118 Stat. 536; Pub. L. 109–280, title VIII, §854(c)(9), Aug. 17, 2006, 120 Stat. 1019; Pub. L. 110–245, title III, §302(b), June 17, 2008, 122 Stat. 1648; Pub. L. 110–458, title I, §108(k)(2), Dec. 23, 2008, 122 Stat. 5110; Pub. L. 113–295, div. A, title II, §221(a)(99)(C)(ii), Dec. 19, 2014, 128 Stat. 4052; Pub. L. 115–243, §2(b)(1), Sept. 20, 2018, 132 Stat. 2895.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Internal Revenue Code of 1986, referred to in text, is classified to Title 26, Internal Revenue Code.
@@ -420,7 +422,7 @@ The Federal Employees' Retirement System Open Enrollment Act of 1997, referred t
 
 The Foreign Service Act of 1980, referred to in subsec. (a)(5)(H)(ii), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071. Subchapter II of chapter 8 of title I of the Act is classified generally to part II (§4071 et seq.) of subchapter VIII of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
 
-The International Organizations Immunities Act, referred to in subsec. (a)(15), is act Dec. 29, 1945, ch. 652,title I, 59 Stat. 669, which is classified principally to subchapter XVIII (§288 et seq.) of chapter 7 of Title 22. For complete classification of that Act to the Code, see Short Title note set out under section 288 of Title 22 and Tables.
+The International Organizations Immunities Act, referred to in subsec. (a)(15), is act Dec. 29, 1945, ch. 652, title I, 59 Stat. 669, which is classified principally to subchapter XVIII (§288 et seq.) of chapter 7 of Title 22. For complete classification of that Act to the Code, see Short Title note set out under section 288 of Title 22 and Tables.
 
 Section 1141j(g) of title 12, referred to in subsec. (f)(3), was redesignated section 1141j(f) by Pub. L. 110–246, title I, §1610, June 18, 2008, 122 Stat. 1746.
 
@@ -428,11 +430,15 @@ The Military Selective Service Act, referred to in subsec. (m)(5)(B), is act Jun
 
 The Peace Corps Act, referred to in subsec. (o), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of that Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
 
+#### Constitutionality
+
+For information regarding constitutionality of certain provisions of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a)(22). Pub. L. 115–243 added par. (22).
 
-<b>2014</b>—Subsec. (a)(17). Pub. L. 113–295 struck out par. (17) which read as follows: "Service in the employ of any organization which is performed (A) in any year during any part of which such organization is registered, or there is in effect a final order of the Subversive Activities Control Board requiring such organization to register, under the Internal Security Act of 1950, as amended, as a Communist-action organization, a Communist-front organization, or a Communist-infiltrated organization, and (B) after June 30, 1956;".
+<b>2014</b>—Subsec. (a)(17). Pub. L. 113–295 struck out par. (17) which read as follows: "Service in the employ of any organization which is performed (A) in any yearduring any part of which such organization is registered, or there is in effect a final order of the Subversive Activities Control Board requiring such organization to register, under the Internal Security Act of 1950, as amended, as a Communist-action organization, a Communist-front organization, or a Communist-infiltrated organization, and (B) after June 30, 1956;".
 
 <b>2008</b>—Subsec. (a)(5)(E). Pub. L. 110–458 struck out "or special trial judge" before "of the United States Tax Court".
 
@@ -502,7 +508,7 @@ Subsec. (a)(3)(B). Pub. L. 100–203, §9005(a)(2), inserted reference to an ind
 
 Pub. L. 100–203, §9004(a)(2), substituted introductory provisions for former introductory provisions which read as follows: "Service not in the course of the employer's trade or business, or domestic service in a private home of the employer, performed by an individual in the employ of his son or daughter; except that the provisions of this subparagraph shall not be applicable to such domestic service if—".
 
-Subsec. (l)(1). Pub. L. 100–203, §9001(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "Except as provided in paragraph (4) of thissubsection, the term 'employment' shall, notwithstanding the provisions of subsection (a) of this section, include service performed after December 1956 by an individual as a member of a uniformed service on active duty; but such term shall not include any such service which is performed while on leave without pay."
+Subsec. (l)(1). Pub. L. 100–203, §9001(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "Except as provided in paragraph (4) of this subsection, the term 'employment' shall, notwithstanding the provisions of subsection (a) of this section, include service performed after December 1956 by an individual as a member of a uniformed service on active duty; but such term shall not include any such service which is performed while on leave without pay."
 
 Subsec. (p). Pub. L. 100–203, §9023(p), directed that the heading of subsec. (p) be amended to read the same as it was set out in the general amendment of subsec. (p) by Pub. L. 99–272, see 1986 Amendment note below.
 
@@ -696,11 +702,11 @@ Subsec. (k)(3)(C). Act Sept. 1, 1954, §101(f), struck out requirement that serv
 
 <b>1950</b>—Act Aug. 28, 1950, substituted a new section 410 for former section 410.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 "United States magistrate judge" substituted for "United States magistrate" in subsec. (a)(5)(E) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
-
-Coast and Geodetic Survey consolidated with National Weather Bureau in 1965 to form Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out in the Appendix to Title 5, Government Organization and Employees. Commissioned Officer Corps of the Environmental Science Services Administration changed to Commissioned Officer Corps of National Oceanic and Atmospheric Administration, see Reorg. Plan No. 4 of 1970, §4(d), eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5.
 
 Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see section 204(c)(3) of this title.
 
@@ -732,7 +738,7 @@ Amendment by Pub. L. 103–387 applicable to services performed after Dec. 31, 1
 
 Amendment by section 107(a)(4) of Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of this title.
 
-Pub. L. 103–296, title III, §303(e), Aug. 15, 1994, 108 Stat. 1520, provided that: "The amendments made bysubsections (a), (b), and (c) \[amending this section, section 418 of this title, and section 3121 of Title 26, Internal Revenue Code\] shall apply with respect to service performed on or after January 1, 1995."
+Pub. L. 103–296, title III, §303(e), Aug. 15, 1994, 108 Stat. 1520, provided that: "The amendments made by subsections (a), (b), and (c) \[amending this section, section 418 of this title, and section 3121 of Title 26, Internal Revenue Code\] shall apply with respect to service performed on or after January 1, 1995."
 
 Amendment by section 319(b)(1), (3) of Pub. L. 103–296 applicable with respect to service performed after calendar quarter following calendar quarter in which Aug. 15, 1994, occurs, see section 319(c) of Pub. L. 103–296, set out as a note under section 1402 of Title 26, Internal Revenue Code.
 
@@ -752,7 +758,7 @@ Amendment by Pub. L. 101–239 applicable with respect to any agreement in effec
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 1001(d)(2)(E) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of Title 26, Internal Revenue Code.
+Amendment by section 1001(d)(2)(E) of Pub. L. 100–647 effective, except as otherwise provided, as if included inthe provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of Title 26, Internal Revenue Code.
 
 Amendment by section 8015(b)(1) of Pub. L. 100–647 applicable as if such amendment had been included or reflected in section 304 of Federal Employees' Retirement System Act of 1986, Pub. L. 99–335, at the time of its enactment (June 6, 1986), see section 8015(b)(3) of Pub. L. 100–647, set out as a note under section 3121 of Title 26.
 
@@ -804,7 +810,7 @@ Amendment by section 2663(a)(7), (j)(3)(A)(i) of Pub. L. 98–369 effective July
 
 Amendment by section 101(a) of Pub. L. 98–21 effective with respect to service performed after Dec. 31, 1983, see section 101(d) of Pub. L. 98–21, as amended, set out as a note under section 3121 of Title 26, Internal Revenue Code.
 
-Amendment by section 102(a) of Pub. L. 98–21 effective with respect to service performed after Dec. 31,1983, see section 102(c) of Pub. L. 98–21, set out as a note under section 3121 of Title 26.
+Amendment by section 102(a) of Pub. L. 98–21 effective with respect to service performed after Dec. 31, 1983, see section 102(c) of Pub. L. 98–21, set out as a note under section 3121 of Title 26.
 
 Amendment by section 321(b) of Pub. L. 98–21 applicable to agreements entered into after Apr. 20, 1983, except that at the election of any American employer such amendment shall also apply to any agreement entered into on or before Apr. 20, 1983, see section 321(f) of Pub. L. 98–21, set out as a note under section 406 of Title 26.
 
@@ -824,7 +830,7 @@ Amendment by Pub. L. 95–600 effective Oct. 4, 1976, see section 703(r) of Pub.
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–216 applicable with respect to remuneration paid and services rendered after Dec. 31, 1977, see section 351(d) of Pub. L. 95–216, set out as a note under section 409 of this title.
+Amendment by Pub. L. 95–216 applicable with respect to remuneration paid and services rendered after Dec.31, 1977, see section 351(d) of Pub. L. 95–216, set out as a note under section 409 of this title.
 
 #### Effective Date of 1976 Amendment
 
@@ -864,7 +870,7 @@ Amendment by section 103(d) of Pub. L. 86–778 applicable only with respect to 
 
 Amendment by section 103(e), (f) of Pub. L. 86–778 applicable only with respect to service performed after 1960, except that insofar as the carrying on of a trade or business (other than performance of service as an employee) is concerned, the amendment shall be applicable only in the case of taxable years beginning after 1960, see section 103(v)(1), (3) of Pub. L. 86–778, set out as a note under section 402 of this title.
 
-Amendment by section 103(j)(2)(A), (B) of Pub. L. 86–778 effective Sept. 13, 1960, see section 103(v)(1), (3) ofPub. L. 86–778, set out as a note under section 402 of this title.
+Amendment by section 103(j)(2)(A), (B) of Pub. L. 86–778 effective Sept. 13, 1960, see section 103(v)(1), (3) of Pub. L. 86–778, set out as a note under section 402 of this title.
 
 Pub. L. 86–778, title I, §104(c), Sept. 13, 1960, 74 Stat. 942, provided that: "The amendments made by subsections (a) and (b) \[amending this section and section 3121 of Title 26, Internal Revenue Code\] shall apply only with respect to services performed after 1960."
 
@@ -930,7 +936,7 @@ Nothing in amendment by Pub. L. 115–243 to be construed to affect application 
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, set out as a note under section 542 of Title 6.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
@@ -976,7 +982,7 @@ Pub. L. 98–21, title I, §101(e), Apr. 20, 1983, 97 Stat. 70, provided that: "
 
 #### Coverage of Federal Home Loan Bank Employees
 
-Pub. L. 92–603, title I, §125(a), Oct. 30, 1972, 86 Stat. 1357, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The provisions of section210(a)(6)(B)(ii) of the Social Security Act \[subsec. (a)(6)(B)(ii) of this section\] and section 3121(b)(6)(B)(ii) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[26 U.S.C. 3121(b)(6)(B)(ii)\], insofar as they relate to service performed in the employ of a Federal home loan bank, shall be effective—
+Pub. L. 92–603, title I, §125(a), Oct. 30, 1972, 86 Stat. 1357, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The provisions of section 210(a)(6)(B)(ii) of the Social Security Act \[subsec. (a)(6)(B)(ii) of this section\] and section 3121(b)(6)(B)(ii) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[26 U.S.C. 3121(b)(6)(B)(ii)\], insofar as they relate to service performed in the employ of a Federal home loan bank, shall be effective—
 
 &emsp;"(1) with respect to all service performed in the employ of a Federal home loan bank on and after the first day of the first calendar quarter which begins on or after the date of the enactment of this Act \[Oct. 30, 1972\]; and
 
@@ -989,6 +995,12 @@ Act Sept. 1, 1954, ch. 1206, title I, §115, 68 Stat. 1087, which prohibited cou
 #### Termination of War and Emergencies
 
 Joint Res. July 25, 1947, ch. 327, §3, 61 Stat. 451, provided that in the interpretation of this section, the date July 25, 1947, shall be deemed to be the date of termination of any state of war theretofore declared by Congress and of the national emergencies proclaimed by the President on Sept. 8, 1939, and May 27, 1941.
+
+#### <b>Executive Documents</b>
+
+#### Change of Name
+
+Coast and Geodetic Survey consolidated with National Weather Bureau in 1965 to form Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out in the Appendix to Title 5, Government Organization and Employees. Commissioned Officer Corps of the Environmental Science Services Administration changed to Commissioned Officer Corps of National Oceanic and Atmospheric Administration, see Reorg. Plan No. 4 of 1970, §4(d), eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

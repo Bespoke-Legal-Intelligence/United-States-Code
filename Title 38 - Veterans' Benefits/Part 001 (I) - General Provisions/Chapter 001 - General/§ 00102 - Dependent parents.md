@@ -4,7 +4,7 @@
 
 (b) Dependency of a parent shall not be denied (1) solely because of remarriage, or (2) in any case in any State where the monthly income for a mother or father does not exceed minimum levels which the Secretary shall prescribe by regulation, giving due regard to the marital status of the mother or father and additional members of the family whom the mother or father is under a moral or legal obligation to support.
 
-(c) For the purposes of this section, in determining monthly income the Secretary shall not consider any payments under laws administered by the Secretary because of disability or death or payments of bonus or similar cash gratuity by any State based upon service in the Armed Forces.
+(c) For the purposes of this section, in determining monthly income the Secretary shall not consider any payments under laws administered by the Secretary because of disability or deathor payments of bonus or similar cash gratuity by any State based upon service in the Armed Forces.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1109; Pub. L. 89–358, §4(e), (f), Mar. 3, 1966, 80 Stat. 24; Pub. L. 92–540, title IV, §408, Oct. 24, 1972, 86 Stat. 1092; Pub. L. 94–432, title IV, §402, Sept. 30, 1976, 90 Stat. 1372; Pub. L. 99–576, title VII, §701(1), Oct. 28, 1986, 100 Stat. 3289; Pub. L. 102–54, §14(a)(2), June 13, 1991, 105 Stat. 282; Pub. L. 102–83, §4(a)(1), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405.)
 

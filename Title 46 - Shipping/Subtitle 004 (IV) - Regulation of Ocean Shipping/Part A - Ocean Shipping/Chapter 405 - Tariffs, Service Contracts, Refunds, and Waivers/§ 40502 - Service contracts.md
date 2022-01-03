@@ -46,11 +46,11 @@ Disclosure of Certain Terms.—
 
 &emsp;(1)
 
-Definitions.—In this subsection, the terms "dock area" and "within the port area" have the same meaning and scope as in the applicable collective bargaining agreement between the requesting labor organization and the carrier.
+Definitions.—In this subsection, the terms "dock area" and "within the port area"have the same meaning and scope as in the applicable collective bargaining agreement between the requesting labor organization and the carrier.
 
 &emsp;(2)
 
-Disclosure.—An ocean common carrier that is a party to or is otherwise subject to a collective bargaining agreement with a labororganization shall, in response to a written request by the labor organization, state whether it is responsible for the following work at a dock area or within a port area in the United States with respect to cargo transportation under a service contract:
+Disclosure.—An ocean common carrier that is a party to or is otherwise subject to a collective bargaining agreement with a labor organization shall, in response to a written request by the labor organization, state whether it is responsible for the following work at a dock area or within a port area in the United States with respect to cargo transportation under a service contract:
 
 &emsp;&emsp;(A) The movement of the shipper's cargo on a dock area or within the port area or to or from railroad cars on a dock area or within the port area.
 

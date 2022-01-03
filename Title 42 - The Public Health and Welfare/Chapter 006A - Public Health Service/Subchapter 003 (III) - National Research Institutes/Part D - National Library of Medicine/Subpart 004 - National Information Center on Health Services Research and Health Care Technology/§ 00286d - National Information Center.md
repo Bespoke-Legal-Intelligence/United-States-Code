@@ -10,7 +10,7 @@ The purpose of the Center is the collection, storage, analysis, retrieval, and d
 
 #### (c) Electronic, convenient format; criteria for inclusion
 
-The Director of the Center shall ensure that information under subsection (b) concerning clinical practice guidelines is collected and maintained electronically and in a convenient format. Such Director shall develop and publish criteria for the inclusion of practice guidelines and technology assessments in the information center database.
+The Director of the Center shall ensure that information under subsection (b) concerningclinical practice guidelines is collected and maintained electronically and in a convenient format. Such Director shall develop and publish criteria for the inclusion of practice guidelines and technology assessments in the information center database.
 
 #### (d) Coordination with Director of the Agency for Healthcare Research and Quality
 
@@ -18,9 +18,13 @@ The Secretary, acting through the Center, shall coordinate the activities carrie
 
 (July 1, 1944, ch. 373, title IV, §478A, as added Pub. L. 103–43, title XIV, §1421, June 10, 1993, 107 Stat. 171; amended Pub. L. 106–129, §2(b)(2), Dec. 6, 1999, 113 Stat. 1670.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1999</b>—Subsec. (d). Pub. L. 106–129 substituted "Director of the Agency for Healthcare Research and Quality" for "Administrator for Health Care Policy and Research".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Construction
 

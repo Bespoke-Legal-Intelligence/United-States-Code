@@ -34,6 +34,8 @@ The regulations prescribed under this section shall set forth factors which are 
 
 (Added Pub. L. 91–172, title IV, §415(a), Dec. 30, 1969, 83 Stat. 613; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 101–239, title VII, §7208(a)(1), Dec. 19, 1989, 103 Stat. 2337; Pub. L. 102–486, title XIX, §1936(a), Oct. 24, 1992, 106 Stat. 3032.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Subsec. (c). Pub. L. 102–486 added subsec. (c).
@@ -41,6 +43,8 @@ The regulations prescribed under this section shall set forth factors which are 
 <b>1989</b>—Subsec. (a). Pub. L. 101–239 inserted "(or as in part stock and in part indebtedness)" before period at end.
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

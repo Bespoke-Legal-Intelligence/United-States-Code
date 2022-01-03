@@ -8,7 +8,7 @@ Beginning with fiscal year 2013 and ending after fiscal year 2017, not later tha
 
 &emsp;(2) the average total time to decision by the Secretary for applications for approval of a generic drug under section 355(j) of this title, amendments to such applications, and prior approval supplements with respect to such applications filed in the previous fiscal year, including the number of calendar days spent during the review by the Food and Drug Administration and the number of calendar days spent by the sponsor responding to a complete response letter;
 
-&emsp;(3) the total number of applications under section 355(j) of this title, amendments to such applications, and prior approval supplementswith respect to such applications that were pending with the Secretary for more than 10 months on July 9, 2012; and
+&emsp;(3) the total number of applications under section 355(j) of this title, amendments to such applications, and prior approval supplements with respect to such applications that were pending with the Secretary for more than 10 months on July 9, 2012; and
 
 &emsp;(4) the number of applications described in paragraph (3) on which the Food and Drug Administration took final regulatory action in the previous fiscal year.
 

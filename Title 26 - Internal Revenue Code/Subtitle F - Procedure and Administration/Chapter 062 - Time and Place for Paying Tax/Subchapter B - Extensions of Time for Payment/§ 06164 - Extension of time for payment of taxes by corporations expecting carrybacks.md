@@ -22,7 +22,7 @@ The statement shall be filed at such time and in such manner and form as the Sec
 
 #### (c) Amount to which extension relates and installment payments
 
-The amount the time for payment of which may be extended under subsection (a) with respect to any tax shall not exceed the amount of such tax shown on the return, increased by any amount assessed as a deficiency (or as interest or addition to the tax) prior to the date of filing the statement and decreased by any amount paid or required to be paid prior to the date of such filing, and the total amount of the tax the time for payment of which may be extended shall not exceed the amount stated under subsection (b)(3). For purposes of this subsection, an amount shall not be considered as required to be paid unless shown on the return or assessed as a deficiency (or as interest or addition to the tax), and an amount assessed as a deficiency (or as interest or addition to the tax) shall be considered to be required to be paid prior to the date of filing of the statement if the 10th day after notice and demand for its payment occurs prior to such date. If an extension of time under this section relates to only a part of the tax, the time for payment of the remainder shall be the date on which payment would have been required if such remainder had been the tax.
+The amount the time for payment of which may be extended under subsection (a) with respect to any tax shall not exceed the amount of such tax shown on the return, increased by any amount assessed as a deficiency (or as interest or addition to the tax) prior to the date of filing the statement and decreased by any amountpaid or required to be paid prior to the date of such filing, and the total amount of the tax the time for payment of which may be extended shall not exceed the amount stated under subsection (b)(3). For purposes of this subsection, an amount shall not be considered as required to be paid unless shown on the return or assessed as a deficiency (or as interest or addition to the tax), and an amount assessed as a deficiency (or as interest or addition to the tax) shall be considered to be required to be paid prior to the date of filing of the statement if the 10th day after notice and demand for its payment occurs prior to such date. If an extension of time under this section relates to only a part of the tax, the time for payment of the remainder shall be the date on which payment would have been required if such remainder had been the tax.
 
 #### (d) Period of extension
 
@@ -38,7 +38,7 @@ Each statement filed under subsection (a) with respect to any taxable year shall
 
 #### (f) Termination
 
-The Secretary is not required to make any examination of the statement, but he may make such examination thereof as he deems necessary and practicable. The Secretary shall terminatethe extension as to any part of the amount to which it relates which he deems should be terminated because, upon such examination, he believes that, as of the time such examination is made, all or any part of the statement clearly is in a material respect erroneous or unreasonable.
+The Secretary is not required to make any examination of the statement, but he may make such examination thereof as he deems necessary and practicable. The Secretary shall terminate the extension as to any part of the amount to which it relates which he deems should be terminated because, upon such examination, he believes that, as of the time such examination is made, all or any part of the statement clearly is in a material respect erroneous or unreasonable.
 
 #### (g) Payments on termination
 
@@ -58,6 +58,8 @@ If the corporation seeking an extension of time under this section made or was r
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 764; Pub. L. 85–866, title I, §89(b), Sept. 2, 1958, 72 Stat. 1665; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title II, §234(b)(2)(C), Sept. 3, 1982, 96 Stat. 503.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1982</b>—Subsec. (c). Pub. L. 97–248, §234(b)(2)(C)(i), substituted "shall be the date on which payment would have been required if such remainder had been the tax" for "shall be considered to be the dates on which payments would have been required if such remainder had been the tax and the taxpayer had elected to pay the tax in installments as provided in section 6152" in last sentence.
@@ -67,6 +69,8 @@ Subsec. (g)(2). Pub. L. 97–248, §234(b)(2)(C)(ii), substituted "date on which
 <b>1976</b>—Subsecs. (a), (b), (d), (f), (h), (i). Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
 <b>1958</b>—Subsec. (d)(2). Pub. L. 85–866 inserted "certified mail or" before "registered mail".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1982 Amendment
 

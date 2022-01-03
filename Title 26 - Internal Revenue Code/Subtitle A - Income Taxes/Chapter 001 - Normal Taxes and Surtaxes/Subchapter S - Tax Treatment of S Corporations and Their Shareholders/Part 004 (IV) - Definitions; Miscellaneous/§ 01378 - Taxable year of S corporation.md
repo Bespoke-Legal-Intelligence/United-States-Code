@@ -16,6 +16,8 @@ For purposes of this section, the term "permitted year" means a taxable year whi
 
 (Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1685; amended Pub. L. 98–369, div. A, title VII, §721(m), (q), July 18, 1984, 98 Stat. 969, 970; Pub. L. 99–514, title VIII, §806(b), Oct. 22, 1986, 100 Stat. 2363.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1378, added Pub. L. 89–389, §2(a), Apr. 14, 1966, 80 Stat. 113; amended Pub. L. 91–172, title V, §511(c)(4), Dec. 30, 1969, 83 Stat. 638; Pub. L. 94–455, title XIX, §1901(a)(152), (b)(33)(R), Oct. 4, 1976, 90 Stat. 1789, 1802, related to tax imposed on certain capital gains, prior to the general revision of this subchapter by section 2 of Pub. L. 97–354.
@@ -35,6 +37,8 @@ Subsec. (c). Pub. L. 99–514, §806(b)(3), struck out subsec. (c) which require
 <b>1984</b>—Subsec. (c)(1). Pub. L. 98–369, §721(m), substituted "which includes December 31, 1982 (or which is an S corporation for a taxable year beginning during 1983 by reason of an election made on or before October 19, 1982)" for "which includes December 31, 1982".
 
 Subsec. (c)(3)(B)(i). Pub. L. 98–369, §721(q), substituted "who (or whose estate) held" for "who held".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 
@@ -78,5 +82,5 @@ Section applicable to taxable years beginning after Dec. 31, 1982, see section 6
 
 #### Construction of Section 806 of Pub. L. 99–514
 
-Pub. L. 100–647, title I, §1008(e)(9), Nov. 10, 1988, 102 Stat. 3441, provided that: "Nothing in section 806 of the Reform Act \[Pub. L. 99–514, amending this section andsections 267, 441, and 706 of this title and enacting provisions set out above\] or in any legislative history relating thereto shall be construed as requiring the Secretary of the Treasury or his delegate to permit an automatic change of a taxable year."
+Pub. L. 100–647, title I, §1008(e)(9), Nov. 10, 1988, 102 Stat. 3441, provided that: "Nothing in section 806 of the Reform Act \[Pub. L. 99–514, amending this section and sections 267, 441, and 706 of this title and enacting provisions set out above\] or in any legislative history relating thereto shall be construed as requiring the Secretary of the Treasury or his delegate to permit an automatic change of a taxable year."
 

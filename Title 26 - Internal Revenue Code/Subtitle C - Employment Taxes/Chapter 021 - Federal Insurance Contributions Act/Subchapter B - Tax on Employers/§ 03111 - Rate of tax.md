@@ -6,7 +6,7 @@ In addition to other taxes, there is hereby imposed on every employer an excise 
 
 #### (b) Hospital insurance
 
-In addition to the tax imposed by the preceding subsection, there is hereby imposed on every employer an excise tax, with respect to having individuals in his employ, equal to 1.45 percent of the wages (as defined in section 3121(a)) paid by the employer with respect to employment (as defined in section 3121(b)).
+In addition to the tax imposed by the preceding subsection, there is hereby imposed on every employer an excise tax, with respect to having individuals in his employ, equal to 1.45percent of the wages (as defined in section 3121(a)) paid by the employer with respect to employment (as defined in section 3121(b)).
 
 #### (c) Relief from taxes in cases covered by certain international agreements
 
@@ -66,6 +66,8 @@ During any period in which there is in effect an agreement entered into pursuant
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 416; Sept. 1, 1954, ch. 1206, title II, §208(c), 68 Stat. 1094; Aug. 1, 1956. ch. 836, title II, §202(c), 70 Stat. 845; Pub. L. 85–840, title IV, §401(c), Aug. 28, 1958, 72 Stat. 1042; Pub. L. 87–64, title II, §201(c), June 30, 1961, 75 Stat. 141; Pub. L. 89–97, title I, §111(c)(6), title III, §321(c), July 30, 1965, 79 Stat. 343, 396; Pub. L. 90–248, title I, §109(a)(3), (b)(3), Jan. 2, 1968, 81 Stat. 836, 837; Pub. L. 92–5, title II, §204(a)(2), Mar. 17, 1971, 85 Stat. 11; Pub. L. 92–336, title II, §204(a)(3), (b)(3), July 1, 1972, 86 Stat. 421, 422; Pub. L. 92–603, title I, §135(a)(3), (b)(3), Oct. 30, 1972, 86 Stat. 1363, 1364; Pub. L. 93–233, §6(a)(2), (b)(3), Dec. 31, 1973, 87 Stat. 954, 955; Pub. L. 94–455, title XIX, §1903(a)(1), Oct. 4, 1976, 90 Stat. 1806; Pub. L. 95–216, title I, §101(a)(2), (b)(2), title III, §§315(b), 317(b)(2), Dec. 20, 1977, 91 Stat. 1511, 1512, 1537, 1540; Pub. L. 98–21, title I, §123(a)(2), Apr. 20, 1983, 97 Stat. 88; Pub. L. 100–203, title IX, §9006(b)(1), Dec. 22, 1987, 101 Stat. 1330–289; Pub. L. 100–647, title VIII, §8016(a)(5), Nov. 10, 1988, 102 Stat. 3793; Pub. L. 108–203, title IV, §415, Mar. 2, 2004, 118 Stat. 530; Pub. L. 111–147, title I, §101(a), Mar. 18, 2010, 124 Stat. 72; Pub. L. 112–56, title II, §261(e)(2), Nov. 21, 2011, 125 Stat. 730; Pub. L. 113–295, div. A, title II, §221(a)(99)(B), Dec. 19, 2014, 128 Stat. 4051; Pub. L. 114–113, div. Q, title I, §121(c)(2), Dec. 18, 2015, 129 Stat. 3051; Pub. L. 115–141, div. U, title IV, §401(a)(208), (b)(34), Mar. 23, 2018, 132 Stat. 1194, 1204.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 233 of the Social Security Act, referred to in subsec. (c), is classified to section 433 of Title 42, The Public Health and Welfare.
@@ -108,7 +110,7 @@ Subsec. (b). Pub. L. 113–295, §221(a)(99)(B)(ii), substituted "1.45 percent o
 
 <b>1977</b>—Subsec. (a). Pub. L. 95–216, §§101(a)(2), 315(b), substituted "(as defined in section 3121(a) and (t))" for "(as defined in section 3121(a))" in provisions preceding par. (1), substituted "1974 through 1977" for "1974 through 2010" in par. (1), substituted "wages paid during the calendar year 1978, the rate shall be 5.05 percent" for "wages paid after December 31, 2010, the rate shall be 5.95 percent" in par. (2), and added pars. (3) to (7).
 
-Subsec. (b). Pub. L. 95–216, §§101(b)(2), 315(b), substituted "(as defined in section 3121(a) and (t))" for "(as defined in section 3121(a))" in provisions preceding par. (1), substituted "wages paid during the calendar year 1978, the rate shall be 1.00 percent" for "wages paid during the calendar years 1978 through 1980, the rate shall be 1.10 percent", in par. (2), substituted "wages paid during the calendar years 1979 and 1980, the rate shall be 1.05 percent" for wages paid during the calendar years 1981 through 1985, the rate shall be 1.35 percent" in par. (3), substituted "wages paid during the calendaryears 1981 through 1984, the rate shall be 1.30 percent" for "wages paid after December 31, 1985, the rate shall be 1.50 percent" in par. (4), and added pars. (5) and (6).
+Subsec. (b). Pub. L. 95–216, §§101(b)(2), 315(b), substituted "(as defined in section 3121(a) and (t))" for "(as defined in section 3121(a))" in provisions preceding par. (1), substituted "wages paid during the calendar year 1978, the rate shall be 1.00 percent" for "wages paid during the calendar years 1978 through 1980, the rate shall be 1.10 percent", in par. (2), substituted "wages paid during the calendar years 1979 and 1980, the rate shall be 1.05 percent" for wages paid during the calendar years 1981 through 1985, the rate shall be 1.35 percent" in par. (3), substituted "wages paid during the calendar years 1981 through 1984, the rate shall be 1.30 percent" for "wages paid after December 31, 1985, the rate shall be 1.50 percent" in par. (4), and added pars. (5) and (6).
 
 Subsec. (c). Pub. L. 95–216, §317(b)(2), added subsec. (c).
 
@@ -171,6 +173,8 @@ Subsec. (b). Pub. L. 89–97, §111(c)(6), struck out ", but without regard to 
 <b>1956</b>—Act Aug. 1, 1956, increased rate of tax with respect to wages paid during calendar years 1957 to 1959, and for all calendar years thereafter, by one-quarter percent.
 
 <b>1954</b>—Act Sept. 1, 1954, increased 3¼ percent rate of tax for calendar year 1970 and subsequent years to 3½ percent for calendar years 1970 to 1974 and 4 percent for 1975 and subsequent years.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 
@@ -244,7 +248,7 @@ Amendment by Pub. L. 87–64 applicable with respect to remuneration paid after 
 
 #### Effective Date of 1958 Amendment
 
-Amendment by Pub. L. 85–840 applicable with respect to remuneration paid after Dec. 31, 1958, see section401(d) of Pub. L. 85–840, set out as a note under section 1401 of this title.
+Amendment by Pub. L. 85–840 applicable with respect to remuneration paid after Dec. 31, 1958, see section 401(d) of Pub. L. 85–840, set out as a note under section 1401 of this title.
 
 #### Effective Date of 1956 Amendment
 
@@ -288,7 +292,7 @@ In general.—If the amount of the credit under subsection (a) exceeds the limit
 
 &emsp;&emsp;"(B)
 
-Treatment of payments.—For purposes of section 1324 of title 31, United States Code, any amounts due to the employer under this paragraph shall be treated in the same manner as a refund due from a credit provision referred to in subsection (b)(2) of such section.
+Treatment of payments.—For purposes of section 1324 of title 31, United States Code, anyamounts due to the employer under this paragraph shall be treated in the same manner as a refund due from a credit provision referred to in subsection (b)(2) of such section.
 
 "(c)
 
@@ -478,7 +482,7 @@ Reconciliation of credit with advance payments.—
 
 &emsp;&emsp;"(A)
 
-In general.—The amount of credit which would (but for this subsection) be allowed underthis section shall be reduced (but not below zero) by the aggregate payment allowed to the taxpayer under paragraph (2). Any failure to so reduce the credit shall be treated as arising out of a mathematical or clerical error and assessed according to section 6213(b)(1) of the Internal Revenue Code of 1986.
+In general.—The amount of credit which would (but for this subsection) be allowed under this section shall be reduced (but not below zero) by the aggregate payment allowed to the taxpayer under paragraph (2). Any failure to so reduce the credit shall be treated as arising out of a mathematical or clerical error and assessed according to section 6213(b)(1) of the Internal Revenue Code of 1986.
 
 &emsp;&emsp;"(B)
 
@@ -524,7 +528,7 @@ Outreach.—Under the campaign conducted under paragraph (1), the Secretary shal
 
 \["(1)
 
-In general.—The amendments made by this section \[amending section 2301 of Pub. L. 116–136, set out above\] shall take effect as if included in the provisions of the CARES Act \[Pub. L. 116–136\] to which they relate.
+In general.—The amendments made by this section \[amending section 2301 of Pub. L. 116–136, set outabove\] shall take effect as if included in the provisions of the CARES Act \[Pub. L. 116–136\] to which they relate.
 
 \["(2)
 
@@ -590,7 +594,7 @@ Acts to be performed by agents.—For purposes of section 3504 of the Internal R
 
 &emsp;"(2)
 
-Certified professional employer organizations.—For purposes of section 3511, in the case of a certified professional employer organization (as defined in subsection (a) of section 7705 of the InternalRevenue Code of 1986) that has entered into a service contract described in subsection (e)(2) of such section with a customer, if such customer directs such organization to defer payment of any applicable employment taxes during the payroll tax deferral period under this section, such customer shall, notwithstanding subsections (a) and (c) of section 3511, be solely liable for the payment of such applicable employment taxes before the applicable date for any wages paid by such organization to any work site employee performing services for such customer during such period.
+Certified professional employer organizations.—For purposes of section 3511, in the case of a certified professional employer organization (as defined in subsection (a) of section 7705 of the Internal Revenue Code of 1986) that has entered into a service contract described in subsection (e)(2) of such section with a customer, if such customer directs such organization to defer payment of any applicable employment taxes during the payroll tax deferral period under this section, such customer shall, notwithstanding subsections (a) and (c) of section 3511, be solely liable for the payment of such applicable employment taxes before the applicable date for any wages paid by such organization to any work site employee performing services for such customer during such period.
 
 "(d)
 
@@ -792,7 +796,7 @@ Refundability of excess credit.—
 
 &emsp;&emsp;"(A)
 
-Credit is refundable.—If the amount of the credit under subsection (a) exceeds the limitation of paragraph (2) for any calendar quarter, such excess shall be treated as an overpayment that shallbe refunded under sections 6402(a) and 6413(b) of such Code.
+Credit is refundable.—If the amount of the credit under subsection (a) exceeds the limitation of paragraph (2) for any calendar quarter, such excess shall be treated as an overpayment that shall be refunded under sections 6402(a) and 6413(b) of such Code.
 
 &emsp;&emsp;"(B)
 

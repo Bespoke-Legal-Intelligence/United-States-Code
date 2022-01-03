@@ -136,7 +136,7 @@ In this section:
 
 #### (d) Report
 
-Not later than 60 days after the date on which funds are initially awarded under this section, and on an annual basis thereafter, the Administrator shall submit to Congress a report containing—
+Not later than 60 days after the date on which funds are initially awarded under this section,and on an annual basis thereafter, the Administrator shall submit to Congress a report containing—
 
 &emsp;(1) an identification of the grant recipients, a description of the projects to be funded and the amount of funding provided; and
 
@@ -144,9 +144,11 @@ Not later than 60 days after the date on which funds are initially awarded under
 
 (Pub. L. 109–58, title VII, §756, Aug. 8, 2005, 119 Stat. 829.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Clean Air Act, referred to in subsec. (b)(1)(A)(i), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
+The Clean Air Act, referred to in subsec. (b)(1)(A)(i), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
 
 #### Codification
 

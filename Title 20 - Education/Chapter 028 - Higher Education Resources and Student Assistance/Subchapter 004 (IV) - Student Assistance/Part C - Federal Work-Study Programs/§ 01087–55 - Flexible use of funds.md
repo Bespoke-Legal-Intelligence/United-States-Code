@@ -20,9 +20,9 @@ An eligible institution may, upon the request of a student, make payments to the
 
 #### (1) In general
 
-&emsp;In the event of a major disaster, an eligible institution located in any area affected by such major disaster, as determined by the Secretary, may make payments under this part to disaster-affected students, for the period oftime (not to exceed one academic year) in which the disaster-affected students were prevented from fulfilling the students' work-study obligations as described in paragraph (2)(A)(iii), as follows:
+&emsp;In the event of a major disaster, an eligible institution located in any area affected by such major disaster, as determined by the Secretary, may make payments under this part to disaster-affected students, for the period of time (not to exceed one academic year) in which the disaster-affected students were prevented from fulfilling the students' work-study obligations as described in paragraph (2)(A)(iii), as follows:
 
-&emsp;&emsp;(A) Payments may be made under this part to disaster-affected students in an amount equal to or less than the amount of wages such students would have been paid under this part had the students been able to complete the work obligation necessary to receive work study funds.
+&emsp;&emsp;(A) Payments may be made under this part to disaster-affected students in an amount equal to or less than the amount of wagessuch students would have been paid under this part had the students been able to complete the work obligation necessary to receive work study funds.
 
 &emsp;&emsp;(B) Payments shall not be made to any student who was not eligible for work study or was not completing the work obligation necessary to receive work study funds under this part prior to the occurrence of the major disaster.
 
@@ -46,6 +46,8 @@ An eligible institution may, upon the request of a student, make payments to the
 
 (Pub. L. 89–329, title IV, §445, as added Pub. L. 99–498, title IV, §403(a), Oct. 17, 1986, 100 Stat. 1435; amended Pub. L. 102–325, title IV, §444, July 23, 1992, 106 Stat. 566; Pub. L. 105–244, title IV, §444, Oct. 7, 1998, 112 Stat. 1714; Pub. L. 110–315, title IV, §444, Aug. 14, 2008, 122 Stat. 3259.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 2755 of Title 42, The Public Health and Welfare, prior to transfer to this section. See note below.
@@ -63,6 +65,8 @@ A prior section 445 of Pub. L. 89–329, title IV, formerly Pub. L. 88–452, ti
 <b>1998</b>—Subsec. (c). Pub. L. 105–244 added subsec. (c).
 
 <b>1992</b>—Subsec. (b). Pub. L. 102–325 designated existing provisions as par. (1) and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

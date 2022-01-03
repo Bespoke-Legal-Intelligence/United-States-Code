@@ -18,11 +18,15 @@ Purposes.—The purposes of the program are as follows:
 
 (Added Pub. L. 104–201, div. A, title II, §282(a)(1), Sept. 23, 1996, 110 Stat. 2470, §7901; renumbered §8931, Pub. L. 115–232, div. A, title VIII, §807(d)(14), Aug. 13, 2018, 132 Stat. 1837; Pub. L. 116–283, div. A, title X, §1055(a), Jan. 1, 2021, 134 Stat. 3851.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283 amended section generally. Prior to amendment, section related to establishment and purposes of National Oceanographic Partnership Program. As enacted by Pub. L. 116–283, "SEC." preceding section designation and catchline text were editorially conformed to the style used in this title.
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7901 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 
@@ -38,7 +42,7 @@ Pub. L. 104–201, div. A, title II, §281, Sept. 23, 1996, 110 Stat. 2469, prov
 
 &emsp;"(3) Understanding of the oceans through basic and applied research is essential for using the oceans wisely and protecting their limited resources. Therefore, the United States should maintain its world leadership in oceanography as one key to its competitive future.
 
-&emsp;"(4) Ocean research and education activities take place within Federal agencies, academic institutions, and industry. These entities often have similar requirements for research facilities, data, and other resources (such as oceanographic research vessels).
+&emsp;"(4) Ocean research and education activities take place within Federal agencies, academic institutions,and industry. These entities often have similar requirements for research facilities, data, and other resources (such as oceanographic research vessels).
 
 &emsp;"(5) The need exists for a formal mechanism to coordinate existing partnerships and establish new partnerships for the sharing of resources, intellectual talent, and facilities in the ocean sciences and education, so that optimal use can be made of this most important natural resource for the well-being of all Americans."
 

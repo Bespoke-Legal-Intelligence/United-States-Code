@@ -62,11 +62,11 @@ In this section:
 
 #### (ii) Preservation of other authorities
 
-&emsp;&emsp;&emsp;Nothing in this section limits the use of other authorities for the disposition of an eligible commodity held in the inventory of the Commodity Credit Corporation for nonfood use or otherwise in a manner that does not increase the net quantity of sugar available for human consumption in the United States market, consistent with section 7272(f)(1) of this title.
+&emsp;&emsp;&emsp;Nothing in this section limits the use of other authorities for the disposition of aneligible commodity held in the inventory of the Commodity Credit Corporation for nonfood use or otherwise in a manner that does not increase the net quantity of sugar available for human consumption in the United States market, consistent with section 7272(f)(1) of this title.
 
 #### (B) Emergency shortages
 
-&emsp;&emsp;Notwithstanding subparagraph (A), if there is an emergency shortage of sugar forhuman consumption in the United States market that is caused by a war, flood, hurricane, or other natural disaster, or other similar event, the Secretary may dispose of an eligible commodity that is owned and held in inventory by the Commodity Credit Corporation (accumulated pursuant to the program authorized under section 7272 of this title) through disposition as authorized under section 7272(f) of this title or through the use of any other authority of the Commodity Credit Corporation.
+&emsp;&emsp;Notwithstanding subparagraph (A), if there is an emergency shortage of sugar for human consumption in the United States market that is caused by a war, flood, hurricane, or other natural disaster, or other similar event, the Secretary may dispose of an eligible commodity that is owned and held in inventory by the Commodity Credit Corporation (accumulated pursuant to the program authorized under section 7272 of this title) through disposition as authorized under section 7272(f) of this title or through the use of any other authority of the Commodity Credit Corporation.
 
 #### (4) Transfer rule; storage fees
 
@@ -104,6 +104,8 @@ In this section:
 
 (Pub. L. 107–171, title IX, §9010, as added Pub. L. 110–234, title IX, §9001(a), May 22, 2008, 122 Stat. 1325, and Pub. L. 110–246, §4(a), title IX, §9001(a), June 18, 2008, 122 Stat. 1664, 2086; amended Pub. L. 112–240, title VII, §701(f)(9), Jan. 2, 2013, 126 Stat. 2365; Pub. L. 113–79, title IX, §9009, Feb. 7, 2014, 128 Stat. 931; Pub. L. 115–334, title IX, §9009, Dec. 20, 2018, 132 Stat. 4887.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (b)(2)(A), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
@@ -125,6 +127,8 @@ A prior section 9010 of Pub. L. 107–171 was classified to section 8108 of this
 <b>2014</b>—Subsec. (b)(1)(A), (2)(A). Pub. L. 113–79 substituted "2018" for "2013".
 
 <b>2013</b>—Subsec. (b)(1)(A), (2)(A). Pub. L. 112–240 substituted "2013" for "2012".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2013 Amendment
 

@@ -6,7 +6,7 @@ General.—A person commits a violation if the person fails to comply with this 
 
 (b)
 
-Automobile Manufacturers.—A manufacturer of automobiles commits a violation if themanufacturer fails to comply with an applicable average fuel economy standard under section 32902 of this title. Compliance is determined after considering credits available to the manufacturer under section 32903 of this title. If average fuel economy calculations under section 32904(c) of this title indicate that a manufacturer has violated this subsection, the Secretary shall conduct a proceeding, with an opportunity for a hearing on the record, to decide whether a violation has been committed. The Secretary may not conduct the proceeding if further measurements of fuel economy, further calculations of average fuel economy, or other information indicates a violation has not been committed. The results of the measurements and calculations and the information shall be published in the Federal Register. Any interested person may participate in a proceeding under this subsection.
+Automobile Manufacturers.—A manufacturer of automobiles commits a violation if the manufacturer fails to comply with an applicable average fuel economy standard under section 32902 of this title. Compliance is determined after considering credits available to the manufacturer under section 32903 of this title. If average fuel economy calculations under section 32904(c) of this title indicate that a manufacturer has violated this subsection, the Secretary shall conduct a proceeding, with an opportunity for a hearing on the record, to decide whether a violation has been committed. The Secretary may not conduct the proceeding if further measurements of fuel economy, further calculations of average fuel economy, or other information indicates a violation has not been committed. The results of the measurements and calculations and the information shall be published in the Federal Register. Any interested person may participate in a proceeding under this subsection.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1071; Pub. L. 103–429, §6(40), Oct. 31, 1994, 108 Stat. 4382.)
 
@@ -46,7 +46,7 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, §507(b); added Oct. 10, 1980, Pu
 
 15:2008(a).
 
-In this section, the words "commits a violation if the . . . fails" are substituted for "the following conduct is unlawful . . . the failure of any person" for clarity and consistency in the revised title.
+In this section, the words "commits a violation if the . . . fails" are substituted for "the following conduct isunlawful . . . the failure of any person" for clarity and consistency in the revised title.
 
 In subsection (a), the reference to 15:2011 is omitted because that provision is not restated in this chapter. The words "The Secretary of Transportation shall conduct a proceeding, with an opportunity for a hearing on the record, to decide" are substituted for "If, on the record after opportunity for agency hearing, the Secretary determines" in 15:2008 for clarity. The words "the Secretary shall assess the penalties provided for under subsection (b) of this section" are omitted as surplus.
 
@@ -55,6 +55,8 @@ In subsection (b), the words "Compliance is determined after considering credits
 #### Pub. L. 103–429
 
 This makes a conforming amendment necessary because of the restatement of 15:2011 as 49:32918 by section 6(43)(A) of the bill.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

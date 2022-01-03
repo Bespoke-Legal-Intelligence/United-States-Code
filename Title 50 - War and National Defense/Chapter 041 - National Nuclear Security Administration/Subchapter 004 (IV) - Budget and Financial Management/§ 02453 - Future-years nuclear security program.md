@@ -52,6 +52,8 @@ Nothing in this section shall be construed to prohibit the inclusion in the futu
 
 (Pub. L. 106–65, div. C, title XXXII, §3253, Oct. 5, 1999, 113 Stat. 966; Pub. L. 106–398, §1 \[div. C, title XXXI, §3154\], Oct. 30, 2000, 114 Stat. 1654, 1654A–465; Pub. L. 109–364, div. C, title XXXI, §3111(b), Oct. 17, 2006, 120 Stat. 2503; Pub. L. 110–181, div. C, title XXXI, §3123, Jan. 28, 2008, 122 Stat. 580; Pub. L. 112–239, div. C, title XXXI, §3132(a)(1), (d)(2), Jan. 2, 2013, 126 Stat. 2185, 2187; Pub. L. 113–66, div. C, title XXXI, §3145(f), Dec. 26, 2013, 127 Stat. 1071; Pub. L. 115–91, div. C, title XXXI, §3133(c)(2), Dec. 12, 2017, 131 Stat. 1896.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Subsec. (b)(5). Pub. L. 115–91 struck out par. (5) which read as follows: "A plan, developed in consultation with the Director of the Office of Health, Safety, and Security of the Department of Energy, for the research and development, deployment, and lifecycle sustainment of the technologies employed within the nuclear security enterprise to address physical and cyber security threats during the applicable five-fiscal-year period, together with—
@@ -66,7 +68,7 @@ Nothing in this section shall be construed to prohibit the inclusion in the futu
 
 Subsec. (b)(3). Pub. L. 112–239, §3132(d)(2), substituted "section 2522(a) of this title" for "section 3158 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (42 U.S.C. 2121 note)".
 
-Subsec. (b)(5), (6). Pub. L. 113–66, §3145(f)(2), (3), redesignated par. (6) as (5), struck out "National Nuclear Security" before "Administration" in subpar. (B), and struck out former par. (5) which read as follows: "A statement of proposed budget authority, estimated expenditures, and proposed appropriations necessary to support the programs required to implement the plan to transform the nuclear security enterprise under section 2534 of this title, together with a detailed description of how the funds identified for each program element specified pursuant to paragraph (1) in the budget for the Administration for each fiscal year during that five-fiscal-year period will help ensure that those programs are implemented. The statement shall assume year-to-year funding profiles that account for increases only for projected inflation."
+Subsec. (b)(5), (6). Pub. L. 113–66, §3145(f)(2), (3), redesignated par. (6) as (5), struck out "National Nuclear Security" before "Administration" in subpar. (B), and struck out former par. (5) which read as follows: "A statement of proposed budget authority, estimated expenditures, and proposed appropriations necessary to support the programs required to implement the plan to transform the nuclear security enterprise under section 2534 of this title, together with a detailed description of how the funds identified for each program element specified pursuant to paragraph (1) in the budget for the Administration for each fiscal year during thatfive-fiscal-year period will help ensure that those programs are implemented. The statement shall assume year-to-year funding profiles that account for increases only for projected inflation."
 
 Pub. L. 112–239, §3132(a)(1), substituted "nuclear security enterprise" for "nuclear weapons complex" wherever appearing.
 
@@ -81,6 +83,8 @@ Subsec. (c). Pub. L. 106–398, §1 \[div. C, title XXXI, §3154(b)(1), (2)\], r
 Subsec. (d). Pub. L. 106–398, §1 \[div. C, title XXXI, §3154(b)(2), (3)\], redesignated subsec. (e) as (d) and substituted "subsection (c)" for "subsection (d)". Former subsec. (d) redesignated (c).
 
 Subsec. (e). Pub. L. 106–398, §1 \[div. C, title XXXI, §3154(b)(2)\], redesignated subsec. (e) as (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

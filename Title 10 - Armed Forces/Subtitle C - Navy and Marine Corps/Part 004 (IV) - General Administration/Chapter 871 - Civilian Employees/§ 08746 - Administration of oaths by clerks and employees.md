@@ -1,6 +1,6 @@
 ### §8746. Administration of oaths by clerks and employees
 
-(a) Chief clerks and inspectors attached to any office of inspector of naval material, chief clerks attached to the field service of the Department of the Navy, to naval shipyards and stations, and to Marine Corps posts and stations, and such other clerks and employees attached to those activities as the Secretary of the Navy designates, may administer—
+(a) Chief clerks and inspectors attached to any office of inspector of naval material, chief clerks attached to the field service of the Departmentof the Navy, to naval shipyards and stations, and to Marine Corps posts and stations, and such other clerks and employees attached to those activities as the Secretary of the Navy designates, may administer—
 
 &emsp;(1) oaths required by law or regulation relating to claims against, or applications to, the United States of officers and of employees of the Department; and
 
@@ -24,6 +24,8 @@ Historical and Revision Notes
 
 Apr. 25, 1935, ch. 83, 49 Stat. 162.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 8746 was renumbered section 9276 of this title.
@@ -31,6 +33,8 @@ A prior section 8746 was renumbered section 9276 of this title.
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7476 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

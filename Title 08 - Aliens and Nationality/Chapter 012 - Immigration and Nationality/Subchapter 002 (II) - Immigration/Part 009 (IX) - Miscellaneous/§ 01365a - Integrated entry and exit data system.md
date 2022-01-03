@@ -46,7 +46,7 @@ For purposes of this section, the term "integrated entry and exit data system" m
 
 #### (2) High-traffic land border ports of entry
 
-&emsp;Not later than December 31, 2004, the Attorney General shall implement the integrated entry and exit data system using the data described in paragraph (1) and available alien arrival and departure data described in subsection (b)(1) pertaining to aliens arriving in, or departing from, the United States at the 50 land border ports of entry determined by the Attorney General to serve the highest numbers of arriving and departing aliens. Such implementation shall include ensuring that such data, when collected or created by an immigration officer at such a port of entry, are entered into the system and can be accessed by immigration officers at airports, seaports, and other such land border ports of entry.
+&emsp;Not later than December 31, 2004, the Attorney General shall implement the integrated entry and exit data system using the data described in paragraph (1) and available alien arrival and departure data described in subsection (b)(1) pertaining to aliens arriving in, or departing from, the United States at the 50land border ports of entry determined by the Attorney General to serve the highest numbers of arriving and departing aliens. Such implementation shall include ensuring that such data, when collected or created by an immigration officer at such a port of entry, are entered into the system and can be accessed by immigration officers at airports, seaports, and other such land border ports of entry.
 
 #### (3) Remaining data
 
@@ -134,7 +134,7 @@ Information.—The report shall include the following information:
 
 &emsp;&emsp;"(B) The number of departure records that were successfully matched to records of the alien's prior arrival in the United States, with an accounting by the alien's country of nationality and by the alien's classification as an immigrant or nonimmigrant.
 
-&emsp;&emsp;"(C) The number of aliens who arrived as nonimmigrants, or as a visitor under the visa waiverprogram under section 1187 of this title, for whom no matching departure record has been obtained through the system or through other means as of the end of the alien's authorized period of stay, with an accounting by the alien's country of nationality and date of arrival in the United States.
+&emsp;&emsp;"(C) The number of aliens who arrived as nonimmigrants, or as a visitor under the visa waiver program under section 1187 of this title, for whom no matching departure record has been obtained through the system or through other means as of the end of the alien's authorized period of stay, with an accounting by the alien's country of nationality and date of arrival in the United States.
 
 "(c)
 
@@ -250,7 +250,7 @@ Duties.—The Task Force shall evaluate the following:
 
 &emsp;"(2) How the United States can improve the flow of traffic at airports, seaports, and land border ports of entry through—
 
-&emsp;&emsp;"(A) enhancing systems for data collection and data sharing, including the integrated entry and exit data system described in section 110 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (8 U.S.C. 1221 note \[8 U.S.C. 1365a\]), as amended by section 2 of this Act, by better use of technology, resources, and personnel;
+&emsp;&emsp;"(A) enhancing systems for data collection and data sharing, including the integrated entry andexit data system described in section 110 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (8 U.S.C. 1221 note \[8 U.S.C. 1365a\]), as amended by section 2 of this Act, by better use of technology, resources, and personnel;
 
 &emsp;&emsp;"(B) increasing cooperation between the public and private sectors;
 

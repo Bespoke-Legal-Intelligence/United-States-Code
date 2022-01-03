@@ -6,7 +6,7 @@ Denial of Certificate.—
 
 &emsp;(1)
 
-In general.—Except as provided in paragraph (2) of this subsection and subsection (e)(2), the Administrator of the Federal Aviation Administration may not issue a certificate under this chapter to any person—
+In general.—Except as provided in paragraph (2) of this subsection and subsection\(e)(2), the Administrator of the Federal Aviation Administration may not issue a certificate under this chapter to any person—
 
 &emsp;&emsp;(A) convicted in a court of law of a violation of a law of the United States relating to the installation, production, repair, or sale of a counterfeit or fraudulently-represented aviation part or material;
 
@@ -32,7 +32,7 @@ In general.—Except as provided in subsections (f) and (g), the Administrator s
 
 &emsp;(2)
 
-No authority to review violation.—In carrying out paragraph (1), the Administratormay not review whether a person violated a law described in paragraph (1)(A).
+No authority to review violation.—In carrying out paragraph (1), the Administrator may not review whether a person violated a law described in paragraph (1)(A).
 
 (c)
 
@@ -84,9 +84,13 @@ Amendment of Certificate.—If the holder of a certificate issued under this cha
 
 (Added Pub. L. 106–181, title V, §505(a)(1), Apr. 5, 2000, 114 Stat. 134; amended Pub. L. 108–176, title V, §501, Dec. 12, 2003, 117 Stat. 2556.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2003</b>—Subsec. (a)(1). Pub. L. 108–176 struck out "or" at end of subpar. (A), added subpar. (B), and redesignated former subpar. (B) as (C) and substituted "described in subparagraph (A) or (B)" for "convicted of such a violation".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

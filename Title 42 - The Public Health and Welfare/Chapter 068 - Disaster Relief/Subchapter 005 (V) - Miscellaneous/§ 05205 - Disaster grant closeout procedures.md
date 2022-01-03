@@ -50,19 +50,23 @@ A State or local government shall not be liable for reimbursement or any other p
 
 (Pub. L. 93–288, title VII, §705, as added Pub. L. 106–390, title III, §304, Oct. 30, 2000, 114 Stat. 1573; amended Pub. L. 115–254, div. D, §§1216(c)(1), 1221(a), Oct. 5, 2018, 132 Stat. 3451, 3453.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a)(1) and (c), was in the original "this Act", meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
 #### Amendments
 
-<b>2018</b>—Subsec. (a)(1). Pub. L. 115–254, §1216(c)(1)(A), substituted "Notwithstanding section 3716(e) of title 31 and except" for "Except" and "report for project completion as certified by the grantee" for "report for the disaster or emergency".
+<b>2018</b>—Subsec. (a)(1). Pub. L. 115–254, §1216(c)(1)(A), substituted "Notwithstanding section 3716(e) of title 31and except" for "Except" and "report for project completion as certified by the grantee" for "report for the disaster or emergency".
 
 Subsec. (b)(1). Pub. L. 115–254, §1216(c)(1)(B)(i), substituted "report for project completion as certified by the grantee" for "report for the disaster or emergency".
 
 Subsec. (b)(3). Pub. L. 115–254, §1216(c)(1)(B)(ii), inserted "for project completion as certified by the grantee" after "final expenditure report".
 
 Subsec. (d). Pub. L. 115–254, §1221(a), added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

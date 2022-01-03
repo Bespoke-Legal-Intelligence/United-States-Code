@@ -38,7 +38,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) of the projected amount of the assets of the plan (as of a proposed date of final distribution of assets),
 
-&emsp;&emsp;&emsp;&emsp;(II) of the actuarial present value (as of such date) of the benefit liabilities\(determined as of the proposed termination date) under the plan, and
+&emsp;&emsp;&emsp;&emsp;(II) of the actuarial present value (as of such date) of the benefit liabilities (determined as of the proposed termination date) under the plan, and
 
 &emsp;&emsp;&emsp;&emsp;(III) that the plan is projected to be sufficient (as of such proposed date of final distribution) for such benefit liabilities,
 
@@ -108,7 +108,7 @@
 
 #### (B) Certification to the corporation of final distribution of assets
 
-&emsp;&emsp;Within 30 days after the final distribution of assets is completed pursuant to the standard termination of the plan under this subsection, the plan administrator shall send anotice to the corporation certifying that the assets of the plan have been distributed in accordance with the provisions of subparagraph (A) so as to pay all benefit liabilities under the plan.
+&emsp;&emsp;Within 30 days after the final distribution of assets is completed pursuant to the standard termination of the plan under this subsection, the plan administrator shall send a notice to the corporation certifying that the assets of the plan have been distributed in accordance with the provisions of subparagraph (A) so as to pay all benefit liabilities under the plan.
 
 #### (4) Continuing authority
 
@@ -250,7 +250,7 @@
 
 #### (II) Limitation
 
-&emsp;&emsp;&emsp;&emsp;A court may limit disclosure under this subparagraph of confidential information described in section 552(b) of title5 to any authorized representative of the participants or beneficiaries that agrees to ensure the confidentiality of such information.
+&emsp;&emsp;&emsp;&emsp;A court may limit disclosure under this subparagraph of confidential information described in section 552(b) of title 5 to any authorized representative of the participants or beneficiaries that agrees to ensure the confidentiality of such information.
 
 #### (iii) Form and manner of information; charges
 
@@ -310,7 +310,7 @@
 
 &emsp;&emsp;&emsp;The plan administrator shall—
 
-&emsp;&emsp;&emsp;&emsp;(I) meet the requirements of clause (ii) for the period commencing on the date on which the plan administrator provides a notice of distress termination to the corporation under subsection (a)(2)and ending on the date on which the plan administrator receives notification from the corporation of its determinations under subparagraph (A), and
+&emsp;&emsp;&emsp;&emsp;(I) meet the requirements of clause (ii) for the period commencing on the date on which the plan administrator provides a notice of distress termination to the corporation under subsection (a)(2) and ending on the date on which the plan administrator receives notification from the corporation of its determinations under subparagraph (A), and
 
 &emsp;&emsp;&emsp;&emsp;(II) meet the requirements of clause (ii) commencing on the date on which the plan administrator or the corporation makes a finding under subparagraph (C)(ii).
 
@@ -542,7 +542,7 @@ In general.—In the case of a single-employer plan termination for which a noti
 
 &emsp;"(2)
 
-Deemed compliance with notice requirements.—The requirements of subsections (a)(2), (b)(1)(A), and (c)(1)(A) of section 4041 of the Employee Retirement Income Security Act of 1974 (as amendedby this title) \[29 U.S.C. 1341\] shall be considered to have been met with respect to a termination described in paragraph (1) if—
+Deemed compliance with notice requirements.—The requirements of subsections (a)(2), (b)(1)(A), and (c)(1)(A) of section 4041 of the Employee Retirement Income Security Act of 1974 (as amended by this title) \[29 U.S.C. 1341\] shall be considered to have been met with respect to a termination described in paragraph (1) if—
 
 &emsp;&emsp;"(A) the plan administrator provided notice to the participants in the plan regarding the termination in compliance with applicable regulations of the Pension Benefit Guaranty Corporation as in effect on the date of the notice, and
 
@@ -628,7 +628,7 @@ Pub. L. 99–272, title XI, §11008(d), Apr. 7, 1986, 100 Stat. 247, provided th
 
 "(1)
 
-Requirements to be met before final distribution of assets.—In the case of the termination of asingle-employer plan described in paragraph (2) with respect to which the amount payable to the employer pursuant to section 4044(d) \[29 U.S.C. 1344(d)\] exceeds $1,000,000 (determined as of the proposed date of final distribution of assets), the final distribution of assets pursuant to such termination may not occur unless the Pension Benefit Guaranty Corporation—
+Requirements to be met before final distribution of assets.—In the case of the termination of a single-employer plan described in paragraph (2) with respect to which the amount payable to the employer pursuant to section 4044(d) \[29 U.S.C. 1344(d)\] exceeds $1,000,000 (determined as of the proposed date of final distribution of assets), the final distribution of assets pursuant to such termination may not occur unless the Pension Benefit Guaranty Corporation—
 
 &emsp;"(A) determines that the assets of the plan are sufficient for benefit commitments (within the meaning of section 4041(d)(1) of the Employee Retirement Income Security Act of 1974 (as amended by section 11007) \[29 U.S.C. 1341(d)(1)\]) under the plan, and
 

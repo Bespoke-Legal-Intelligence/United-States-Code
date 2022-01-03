@@ -6,11 +6,13 @@
 
 (Pub. L. 94–70, §8, Aug. 5, 1975, 89 Stat. 391; Pub. L. 114–81, title I, §107(3), (4), Nov. 5, 2015, 129 Stat. 658.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (a). Pub. L. 114–81, §107(3), added subsec. (a) and struck out former subsec. (a) which related to particular powers of persons authorized to enforce the provisions of this chapter and the regulations issued thereunder.
 
-Subsec. (b). Pub. L. 114–81, §107(4), substituted "enforcement activities with respect to this chapter that are otherwise authorized by law" for "the enforcement activities specified in subsection (a) of this section" in two places.
+Subsec. (b). Pub. L. 114–81, §107(4), substituted "enforcement activities with respect to this chapter thatare otherwise authorized by law" for "the enforcement activities specified in subsection (a) of this section" in two places.
 
 Subsec. (c). Pub. L. 114–81, §107(3)(A), struck out subsec. (c) which related to bonds or stipulations.
 

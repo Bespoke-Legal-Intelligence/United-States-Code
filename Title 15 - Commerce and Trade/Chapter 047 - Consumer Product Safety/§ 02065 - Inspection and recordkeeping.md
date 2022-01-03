@@ -6,7 +6,7 @@ For purposes of implementing this chapter, or rules or orders prescribed under t
 
 &emsp;(1) to enter, at reasonable times, (A) any factory, warehouse, or establishment in which consumer products are manufactured or held, in connection with distribution in commerce, (B) any firewalled conformity assessment bodies accredited under section 2063(f)(2)(D) of this title, or (C) any conveyance being used to transport consumer products in connection with distribution in commerce; and
 
-&emsp;(2) to inspect, at reasonable times and in a reasonable manner such conveyance or those areas of such factory, firewalled conformity assessment body, warehouse, or establishment where such products are manufactured, held, or transported and which may relate to the safety of such products. Each such inspection shall be commenced and completed with reasonable promptness.
+&emsp;(2) to inspect, at reasonable times and in a reasonable manner such conveyance or those areas of such factory, firewalled conformityassessment body, warehouse, or establishment where such products are manufactured, held, or transported and which may relate to the safety of such products. Each such inspection shall be commenced and completed with reasonable promptness.
 
 #### (b) Recordkeeping
 
@@ -32,6 +32,8 @@ The Commission shall, by rule, condition the manufacturing for sale, offering fo
 
 (Pub. L. 92–573, §16, Oct. 27, 1972, 86 Stat. 1222; Pub. L. 110–314, title II, §§215, 223(c)(2), Aug. 14, 2008, 122 Stat. 3056, 3069.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–314, §215(c)(1), inserted subsec. heading.
@@ -45,6 +47,8 @@ Subsec. (b). Pub. L. 110–314, §215(c)(2), inserted subsec. heading.
 Subsec. (c). Pub. L. 110–314, §215(b), added subsec. (c).
 
 Subsec. (d). Pub. L. 110–314, §223(c)(2), added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

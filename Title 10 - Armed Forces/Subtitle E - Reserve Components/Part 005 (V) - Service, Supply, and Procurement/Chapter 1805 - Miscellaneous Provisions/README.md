@@ -9,6 +9,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–163, div. A, title V, §589(b)(1), Jan. 6, 2006, 119 Stat. 3279, struck out item 18506 "Recruitment and retention: availability of funds for recognition items for Army Reserve personnel".

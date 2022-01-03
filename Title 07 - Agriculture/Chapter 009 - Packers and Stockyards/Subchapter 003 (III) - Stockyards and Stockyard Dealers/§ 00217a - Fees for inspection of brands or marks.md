@@ -10,7 +10,7 @@ The provisions of this subchapter, relating to the filing, publication, approval
 
 #### (c) Collection and payment of charges
 
-Charges authorized to be made under this section shall be collected by the market agency or other person receiving and disbursing the funds received from the sale of livestock with respect to the inspection of which such charge is made, and paid by it to the department, agency, or association performing such service.
+Charges authorized to be made under this section shall be collected by the market agency or other person receiving and disbursing the funds received from the sale of livestock with respect to the inspection of which such charge is made,and paid by it to the department, agency, or association performing such service.
 
 #### (d) Revocation of authorization or registration
 
@@ -18,9 +18,13 @@ The Secretary may, if he deems it to be in the public interest, suspend, and aft
 
 (Aug. 15, 1921, ch. 64, title III, §317, as added June 19, 1942, ch. 421, 56 Stat. 372.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Former provisions relating to fees for inspection of brands appearing upon livestock were contained in section 231 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Administrative Orders Review Act
 

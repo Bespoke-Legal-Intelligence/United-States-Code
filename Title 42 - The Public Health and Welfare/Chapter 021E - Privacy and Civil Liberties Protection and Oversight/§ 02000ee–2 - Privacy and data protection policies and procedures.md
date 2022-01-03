@@ -18,7 +18,7 @@ Each agency shall have a Chief Privacy Officer to assume primary responsibility 
 
 &emsp;(7) ensuring that the Department protects information in an identifiable form and information systems from unauthorized access, use, disclosure, disruption, modification, or destruction;
 
-&emsp;(8) training and educating employees on privacy and data protection policies to promote awareness of and compliance with established privacy and data protection policies; and
+&emsp;(8) training and educating employees on privacy and data protection policies to promoteawareness of and compliance with established privacy and data protection policies; and
 
 &emsp;(9) ensuring compliance with the Departments <sup>2</sup> established privacy and data protection policies.
 
@@ -52,6 +52,8 @@ In this section, the definition of "identifiable form" is consistent with Public
 
 (Pub. L. 108–447, div. H, title V, §522, Dec. 8, 2004, 118 Stat. 3268; Pub. L. 110–161, div. D, title VII, §742(b), Dec. 26, 2007, 121 Stat. 2032.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Privacy Act of 1974, referred to in subsecs. (a)(3) and (b)(1), is Pub. L. 93–579, Dec. 31, 1974, 88 Stat. 1896, which enacted section 552a of Title 5, Government Organization and Employees, and provisions set out as notes under section 552a of Title 5. For complete classification of this Act to the Code, see Short Title of 1974 Amendment note set out under section 552a of Title 5 and Tables.
@@ -70,9 +72,13 @@ Section was formerly set out as a note under section 552a of Title 5, Government
 
 <b>2007</b>—Subsec. (d). Pub. L. 110–161 added subsec. (d) and struck out former subsec. (d) which related to independent, third-party reviews.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13719. Establishment of the Federal Privacy Council
 
@@ -80,7 +86,7 @@ Ex. Ord. No. 13719, Feb. 9, 2016, 81 F.R. 7961, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. The mission of the United States Government is to serve its people. In order to accomplish its mission, the Government lawfully collects, maintains, and uses large amounts of information about people in a wide range of contexts. Protecting privacy in the collection and handling of this information is fundamental to the successful accomplishment of the Government's mission. The proper functioning of Government requires the public's trust, and to maintain that trust the Government must strive to uphold the highest standards for collecting, maintaining, and using personal data. Privacy has been at the heart of our democracy from its inception, and we need it now more than ever.
+Section 1. <i>Policy</i>. The mission of the United States Government is to serve its people. In order to accomplish its mission, the Government lawfully collects, maintains, and uses large amounts of informationabout people in a wide range of contexts. Protecting privacy in the collection and handling of this information is fundamental to the successful accomplishment of the Government's mission. The proper functioning of Government requires the public's trust, and to maintain that trust the Government must strive to uphold the highest standards for collecting, maintaining, and using personal data. Privacy has been at the heart of our democracy from its inception, and we need it now more than ever.
 
 Executive departments and agencies (agencies) already take seriously their mission to protect privacy and have been working diligently to advance that mission through existing interagency mechanisms. Today's challenges, however, require that we find even more effective and innovative ways to improve the Government's efforts. Our efforts to meet these new challenges and preserve our core value of privacy, while delivering better and more effective Government services for the American people, demand leadership and enhanced coordination and collaboration among a diverse group of stakeholders and experts.
 
@@ -90,7 +96,7 @@ Sec. 2. <i>Policy on Senior Agency Officials for Privacy</i>. Within 120 days of
 
 Sec. 3. <i>Responsibilities of Agency Heads</i>. The head of each agency, consistent with guidance to be issued by the Director as required in section 2 of this order, shall designate or re-designate a Senior Agency Official for Privacy with the experience and skills necessary to manage an agency-wide privacy program. In addition, the head of each agency, to the extent permitted by law and consistent with ongoing activities, shall work with the Federal Privacy Council, established in section 4 of this order.
 
-Sec. 4. <i>The Federal Privacy Council</i>.
+Sec. 4. <i>The Federal Privacy Council.</i>
 
 (a) <i>Establishment</i>. There is hereby established the Federal Privacy Council (Privacy Council) as the principal interagency forum to improve the Government privacy practices of agencies and entities acting on their behalf. The establishment of the Privacy Council will help Senior Agency Officials for Privacy at agencies better coordinate and collaborate, educate the Federal workforce, and exchange best practices. The activities of the Privacy Council will reinforce the essential work that agency privacy officials undertake every day to protect privacy.
 
@@ -156,11 +162,11 @@ The Privacy Council may also include other officials from agencies and offices, 
 
 (iv) perform other privacy-related functions, consistent with law, as designated by the Chair.
 
-(d) <i>Coordination</i>.
+(d) <i>Coordination.</i>
 
 (i) The Chair and the Privacy Council shall coordinate with the Federal Chief Information Officers Council (CIO Council) to promote consistency and efficiency across the executive branch when addressing privacy and information security issues. In addition, the Chairs of the Privacy Council and the CIO Council shall coordinate to ensure that the work of the two councils is complementary and not duplicative.
 
-(ii) The Chair and the Privacy Council should coordinate, as appropriate, with such other interagency councils and councils and offices within the Executive Office of the President, as appropriate, including the President's Management Council, the Chief Financial Officers Council, the President's Council on Integrity and Efficiency, the National Science and TechnologyCouncil, the National Economic Council, the Domestic Policy Council, the National Security Council staff, the Office of Science and Technology Policy, the Interagency Council on Statistical Policy, the Federal Acquisition Regulatory Council, and the Small Agency Council.
+(ii) The Chair and the Privacy Council should coordinate, as appropriate, with such other interagency councils and councils and offices within the Executive Office of the President, as appropriate, including the President's Management Council, the Chief Financial Officers Council, the President's Council on Integrity and Efficiency, the National Science and Technology Council, the National Economic Council, the Domestic Policy Council, the National Security Council staff, the Office of Science and Technology Policy, the Interagency Council on Statistical Policy, the Federal Acquisition Regulatory Council, and the Small Agency Council.
 
 Sec. 5. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
 

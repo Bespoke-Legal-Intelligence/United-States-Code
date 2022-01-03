@@ -24,6 +24,8 @@ The Congress finds that—
 
 (Pub. L. 96–88, title I, §101, Oct. 17, 1979, 93 Stat. 669.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Pub. L. 96–88, title VI, §601, Oct. 17, 1979, 93 Stat. 696, provided that:
@@ -42,7 +44,291 @@ Pub. L. 101–392, title VI, §601, Sept. 25, 1990, 104 Stat. 840, provided that
 
 #### Short Title
 
-Pub. L. 96–88, §1, Oct. 17, 1979, 93 Stat. 668, provided in part: "This Act \[enacting this chapter, amending sections 928, 929, 1102, 2390, 2711, and 3012 of this title, section 19 of Title 3, The President, sections 101, 5312, and 5314 to 5316 of Title 5, Government Organization and Employees, sections 2, 9, and 11 of the Inspector General Act of 1978, set out in the Appendix to Title 5, section 1004 of Title 21, Food and Drugs, and sections 761b, 794c, 821, 829, 873, 879, 882, 914, and 952 of Title 29, Labor, and enacting provisions set out as notes under this section and section 1102 of this title\] may be cited as the 'Department of Education Organization Act'."
+Pub. L. 96–88, §1, Oct. 17, 1979, 93 Stat. 668, provided in part: "This Act \[enacting this chapter, amending sections 928, 929, 1102, 2390, 2711, and 3012 of this title, section 19 of Title 3, The President, sections 101, 5312, and 5314 to 5316 of Title 5, Government Organization and Employees, sections 2, 9, and 11 of the Inspector General Act of 1978, set out in the Appendix to Title 5,section 1004 of Title 21, Food and Drugs, and sections 761b, 794c, 821, 829, 873, 879, 882, 914, and 952 of Title 29, Labor, and enacting provisions set out as notes under this section and section 1102 of this title\] may be cited as the 'Department of Education Organization Act'."
+
+#### Emergency Assistance and Relief to Schools; Maintenance of Effort and Equity
+
+Pub. L. 117–2, title II, §§2001–2004, Mar. 11, 2021, 135 Stat. 19, provided that:
+
+#### "SEC. 2001. ELEMENTARY AND SECONDARY SCHOOL EMERGENCY RELIEF FUND.
+
+"(a)
+
+In General.—In addition to amounts otherwise available through the Education Stabilization Fund, there is appropriated to the Department of Education for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $122,774,800,000, to remain available through September 30, 2023, to carry out this section.
+
+"(b)
+
+Grants.—From funds provided under subsection (a), the Secretary shall—
+
+&emsp;"(1) use $800,000,000 for the purposes of identifying homeless children and youth and providing homeless children and youth with—
+
+&emsp;&emsp;"(A) wrap-around services in light of the challenges of COVID–19; and
+
+&emsp;&emsp;"(B) assistance needed to enable homeless children and youth to attend school and participate fully in school activities; and
+
+&emsp;"(2) from the remaining amounts, make grants to each State educational agency in accordance with this section.
+
+"(c)
+
+Allocations to States.—The amount of each grant under subsection (b) shall be allocated by the Secretary to each State in the same proportion as each State received under part A of title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6311 et seq.\] in the most recent fiscal year.
+
+"(d)
+
+Subgrants to Local Educational Agencies.—
+
+&emsp;"(1)
+
+In general.—Each State shall allocate not less than 90 percent of the grant funds awarded to the State under this section as subgrants to local educational agencies (including charter schools that are local educational agencies) in the State in proportion to the amount of funds such local educational agencies and charter schools that are local educational agencies received under part A of title I of the Elementary and Secondary Education Act of 1965 in the most recent fiscal year.
+
+&emsp;"(2)
+
+Availability of funds.—Each State shall make allocations under paragraph (1) to local educational agencies in an expedited and timely manner and, to the extent practicable, not later than 60 days after the receipt of such funds.
+
+"(e)
+
+Uses of Funds.—A local educational agency that receives funds under this section—
+
+&emsp;"(1) shall reserve not less than 20 percent of such funds to address learning loss through the implementation of evidence-based interventions, such as summer learning or summer enrichment, extended day, comprehensive afterschool programs, or extended school year programs, and ensure that such interventions respond to students' academic, social, and emotional needs and address the disproportionate impact of the coronavirus on the student subgroups described in section 1111(b)(2)(B)(xi) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311(b)(2)(B)(xi)), students experiencing homelessness, and children and youth in foster care; and
+
+&emsp;"(2) shall use the remaining funds for any of the following:
+
+&emsp;&emsp;"(A) Any activity authorized by the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\].
+
+&emsp;&emsp;"(B) Any activity authorized by the Individuals with Disabilities Education Act \[20 U.S.C. 1400 et seq.\].
+
+&emsp;&emsp;"(C) Any activity authorized by the Adult Education and Family Literacy Act \[two Acts with that Short Title: 20 U.S.C. 9201 et seq.; 29 U.S.C. 3271 et seq.\].
+
+&emsp;&emsp;"(D) Any activity authorized by the Carl D. Perkins Career and Technical Education Act of 2006 \[20 U.S.C. 2301 et seq.\].
+
+&emsp;&emsp;"(E) Coordination of preparedness and response efforts of local educational agencies with State, local, Tribal, and territorial public health departments, and other relevant agencies, to improve coordinated responses among such entities to prevent, prepare for, and respond to coronavirus.
+
+&emsp;&emsp;"(F) Activities to address the unique needs of low-income children or students, children with disabilities, English learners, racial and ethnic minorities, students experiencing homelessness, and foster care youth, including how outreach and service delivery will meet the needs of each population.
+
+&emsp;&emsp;"(G) Developing and implementing procedures and systems to improve the preparedness and response efforts of local educational agencies.
+
+&emsp;&emsp;"(H) Training and professional development for staff of the local educational agency on sanitation and minimizing the spread of infectious diseases.
+
+&emsp;&emsp;"(I) Purchasing supplies to sanitize and clean the facilities of a local educational agency, including buildings operated by such agency.
+
+&emsp;&emsp;"(J) Planning for, coordinating, and implementing activities during long-term closures, including providing meals to eligible students, providing technology for online learning to all students, providing guidance for carrying out requirements under the Individuals with Disabilities Education Act and ensuring other educational services can continue to be provided consistent with all Federal, State, and local requirements.
+
+&emsp;&emsp;"(K) Purchasing educational technology (including hardware, software, and connectivity) for students who are served by the local educational agency that aids in regular and substantive educational interaction between students and their classroom instructors, including low-income students and children with disabilities, which may include assistive technology or adaptive equipment.
+
+&emsp;&emsp;"(L) Providing mental health services and supports, including through the implementation of evidence-based full-service community schools.
+
+&emsp;&emsp;"(M) Planning and implementing activities related to summer learning and supplemental afterschool programs, including providing classroom instruction or online learning during the summer months and addressing the needs of low-income students, children with disabilities, English learners, migrant students, students experiencing homelessness, and children in foster care.
+
+&emsp;&emsp;"(N) Addressing learning loss among students, including low-income students, children with disabilities, English learners, racial and ethnic minorities, students experiencing homelessness, and children and youth in foster care, of the local educational agency, including by—
+
+&emsp;&emsp;&emsp;"(i) administering and using high-quality assessments that are valid and reliable, to accurately assess students' academic progress and assist educators in meeting students' academic needs, including through differentiating instruction;
+
+&emsp;&emsp;&emsp;"(ii) implementing evidence-based activities to meet the comprehensive needs of students;
+
+&emsp;&emsp;&emsp;"(iii) providing information and assistance to parents and families on how they can effectively support students, including in a distance learning environment; and
+
+&emsp;&emsp;&emsp;"(iv) tracking student attendance and improving student engagement in distance education.
+
+&emsp;&emsp;"(O) School facility repairs and improvements to enable operation of schools to reduce risk of virus transmission and exposure to environmental health hazards, and to support student health needs.
+
+&emsp;&emsp;"(P) Inspection, testing, maintenance, repair, replacement, and upgrade projects to improve the indoor air quality in school facilities, including mechanical and non-mechanical heating, ventilation, and air conditioning systems, filtering, purification and other air cleaning, fans, control systems, and window and door repair and replacement.
+
+&emsp;&emsp;"(Q) Developing strategies and implementing public health protocols including, to the greatest extent practicable, policies in line with guidance from the Centers for Disease Control and Prevention for the reopening and operation of school facilities to effectively maintain the health and safety of students, educators, and other staff.
+
+&emsp;&emsp;"(R) Other activities that are necessary to maintain the operation of and continuity of services in local educational agencies and continuing to employ existing staff of the local educational agency.
+
+"(f)
+
+State Funding.—With funds not otherwise allocated under subsection (d), a State—
+
+&emsp;"(1) shall reserve not less than 5 percent of the total amount of grant funds awarded to the State under this section to carry out, directly or through grants or contracts, activities to address learning loss by supporting the implementation of evidence-based interventions, such as summer learning or summer enrichment, extended day, comprehensive afterschool programs, or extended school year programs, and ensure that such interventions respond to students' academic, social, and emotional needs and address the disproportionate impact of the coronavirus on the student subgroups described in section 1111(b)(2)(B)(xi) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311(b)(2)(B)(xi)), students experiencing homelessness, and children and youth in foster care, including by providing additional support to local educational agencies to fully address such impacts;
+
+&emsp;"(2) shall reserve not less than 1 percent of the total amount of grant funds awarded to the State under this section to carry out, directly or through grants or contracts, the implementation of evidence-based summer enrichment programs, and ensure such programs respond to students' academic, social, and emotional needs and address the disproportionate impact of the coronavirus on the student populations described in section 1111(b)(2)(B)(xi) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311(b)(2)(B)(xi)), students experiencing homelessness, and children and youth in foster care;
+
+&emsp;"(3) shall reserve not less than 1 percent of the total amount of grant funds awarded to the State under this section to carry out, directly or through grants or contracts, the implementation of evidence-based comprehensive afterschool programs, and ensure such programs respond to students' academic, social, and emotional needs and address the disproportionate impact of the coronavirus on the student populations described in section 1111(b)(2)(B)(xi) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311(b)(2)(B)(xi)), students experiencing homelessness, and children and youth in foster care; and
+
+&emsp;"(4) may reserve not more than one-half of 1 percent of the total amount of grant funds awarded to the State under this section for administrative costs and the remainder for emergency needs as determined by the State educational agency to address issues responding to coronavirus, which may be addressed through the use of grants or contracts.
+
+"(g)
+
+Reallocation.—A State shall return to the Secretary any funds received under this section that the State does not award within 1 year of receiving such funds and the Secretary shall reallocate such funds to the remaining States in accordance with subsection (c).
+
+"(h)
+
+Definitions.—In this section—
+
+&emsp;"(1) the terms 'child', 'children with disabilities', 'distance education', 'elementary school', 'English learner', 'evidence-based', 'secondary school', 'local educational agency', 'parent', 'Secretary', 'State educational agency', and 'technology' have the meanings given those terms in section 8101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801);
+
+&emsp;"(2) the term 'full-service community school' has the meaning given that term in section 4622(2) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7272(2)); and
+
+&emsp;"(3) the term 'State' means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
+
+"(i)
+
+Safe Return to In-person Instruction.—
+
+&emsp;"(1)
+
+In general.—A local educational agency receiving funds under this section shall develop and make publicly available on the local educational agency's website, not later than 30 days after receiving the allocation of funds described in paragraph (d)(1), a plan for the safe return to in-person instruction and continuity of services.
+
+&emsp;"(2)
+
+Comment period.—Before making the plan described in paragraph (1) publicly available, the local educational agency shall seek public comment on the plan and take such comments into account in the development of the plan.
+
+&emsp;"(3)
+
+Previous plans.—If a local educational agency has developed a plan for the safe return to in-person instruction before the date of enactment of this Act \[Mar. 11, 2021\] that meets the requirements described in paragraphs (1) and (2), such plan shall be deemed to satisfy the requirements under this subsection.
+
+#### "SEC. 2002. EMERGENCY ASSISTANCE TO NON-PUBLIC SCHOOLS.
+
+"(a)
+
+In General.—In addition to amounts otherwise available through the Emergency Assistance to Non-Public Schools Program, there is appropriated to the Department of Education for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $2,750,000,000, to remain available through September 30, 2023, for making allocations to Governors under the Emergency Assistance to Non-Public Schools Program to provide services or assistance to non-public schools that enroll a significant percentage of low-income students and are most impacted by the qualifying emergency.
+
+"(b)
+
+Limitations.—Funds provided under subsection (a) shall not be used to provide reimbursements to any non-public school.
+
+#### "SEC. 2003. HIGHER EDUCATION EMERGENCY RELIEF FUND.
+
+"In addition to amounts otherwise available, there is appropriated to the Department of Education for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $39,584,570,000, to remain available through September 30, 2023, for making allocations to institutions of higher education in accordance with the same terms and conditions of section 314 of the Coronavirus Response and Relief Supplemental Appropriations Act, 2021 (division M of Public Law 116–260) \[set out in a note below\], except that—
+
+&emsp;"(1) subsection (a)(1) of such section 314 shall be applied by substituting '91 percent' for '89 percent';
+
+&emsp;"(2) subsection (a)(2) of such section 314 shall be applied—
+
+&emsp;&emsp;"(A) in the matter preceding subparagraph (A), by substituting 'under the heading "Higher Education" in the Department of Education Appropriations Act, 2020 \[title III of div. A of Pub. L. 116–94, 133 Stat. 2593\]' for 'in the Further Consolidated Appropriations Act, 2020 (Public Law 116–94)'; and
+
+&emsp;&emsp;"(B) in subparagraph (B), by substituting 'under the heading "Higher Education" in the Department of Education Appropriations Act, 2020' for 'in the Further Consolidated Appropriations Act, 2020 (Public Law 116–94)';
+
+&emsp;"(3) an institution that receives an allocation apportioned in accordance with clause (iii) of subsection (a)(2)(A) of such section 314 that has a total endowment size of less than $1,000,000 (including an institution that does not have an endowment) shall be treated by the Secretary as having a total endowment size of $1,000,000 for the purposes of such clause (iii);
+
+&emsp;"(4) subsection (a)(4) of such section 314 shall be applied by substituting '1 percent' for '3 percent';
+
+&emsp;"(5) except as provided in paragraphs (7) and (9) of subsection (d) of such section 314, an institution shall use a portion of funds received under this section to—
+
+&emsp;&emsp;"(A) implement evidence-based practices to monitor and suppress coronavirus in accordance with public health guidelines; and
+
+&emsp;&emsp;"(B) conduct direct outreach to financial aid applicants about the opportunity to receive a financial aid adjustment due to the recent unemployment of a family member or independent student, or other circumstances, described in section 479A of the Higher Education Act of 1965 (20 U.S.C. 1087tt);
+
+&emsp;"(6) the following shall not apply to funds provided or received in accordance with this section—
+
+&emsp;&emsp;"(A) subsection (b) of such section 314;
+
+&emsp;&emsp;"(B) paragraph (2) of subsection (c) of such section 314;
+
+&emsp;&emsp;"(C) paragraphs (1), (2), (4), (5), (6), and (8) of subsection (d) of such section 314;
+
+&emsp;&emsp;"(D) subsections (e) and (f) of such section 314; and
+
+&emsp;&emsp;"(E) section 316 of the Coronavirus Response and Relief Supplemental Appropriations Act, 2021 (division M of Public Law 116–260) \[set out in a note below\]; and
+
+&emsp;"(7) an institution that receives an allocation under this section apportioned in accordance with subparagraphs (A) through (D) of subsection (a)(1) of such section 314 shall use not less than 50 percent of such allocation to provide emergency financial aid grants to students in accordance with subsection (c)(3) of such section 314.
+
+#### "SEC. 2004. MAINTENANCE OF EFFORT AND MAINTENANCE OF EQUITY.
+
+"(a)
+
+State Maintenance of Effort.—
+
+&emsp;"(1)
+
+In general.—As a condition of receiving funds under section 2001, a State shall maintain support for elementary and secondary education, and for higher education (which shall include State funding to institutions of higher education and State need-based financial aid, and shall not include support for capital projects or for research and development or tuition and fees paid by students), in each of fiscal years 2022 and 2023 at least at the proportional levels of such State's support for elementary and secondary education and for higher education relative to such State's overall spending, averaged over fiscal years 2017, 2018, and 2019.
+
+&emsp;"(2)
+
+Waiver.—For the purpose of relieving fiscal burdens incurred by States in preventing, preparing for, and responding to the coronavirus, the Secretary of Education may waive any maintenance of effort requirements associated with the Education Stabilization Fund.
+
+"(b)
+
+State Maintenance of Equity.—
+
+&emsp;"(1)
+
+High-need local educational agencies.—As a condition of receiving funds under section 2001, a State educational agency shall not, in fiscal year 2022 or 2023, reduce State funding (as calculated on a per-pupil basis) for any high-need local educational agency in the State by an amount that exceeds the overall per-pupil reduction in State funds, if any, across all local educational agencies in such State in such fiscal year.
+
+&emsp;"(2)
+
+Highest poverty local educational agencies.—Notwithstanding paragraph (1), as a condition of receiving funds under section 2001, a State educational agency shall not, in fiscal year 2022 or 2023, reduce State funding (as calculated on a per-pupil basis) for any highest poverty local educational agency below the level of funding (as calculated on a per-pupil basis) provided to each such local educational agency in fiscal year 2019.
+
+"(c)
+
+Local Educational Agency Maintenance of Equity for High-poverty Schools.—
+
+&emsp;"(1)
+
+In general.—As a condition of receiving funds under section 2001, a local educational agency shall not, in fiscal year 2022 or 2023—
+
+&emsp;&emsp;"(A) reduce per-pupil funding (from combined State and local funding) for any high-poverty school served by such local educational agency by an amount that exceeds—
+
+&emsp;&emsp;&emsp;"(i) the total reduction in local educational agency funding (from combined State and local funding) for all schools served by the local educational agency in such fiscal year (if any); divided by
+
+&emsp;&emsp;&emsp;"(ii) the number of children enrolled in all schools served by the local educational agency in such fiscal year; or
+
+&emsp;&emsp;"(B) reduce per-pupil, full-time equivalent staff in any high-poverty school by an amount that exceeds—
+
+&emsp;&emsp;&emsp;"(i) the total reduction in full-time equivalent staff in all schools served by such local educational agency in such fiscal year (if any); divided by
+
+&emsp;&emsp;&emsp;"(ii) the number of children enrolled in all schools served by the local educational agency in such fiscal year.
+
+&emsp;"(2)
+
+Exception.—Paragraph (1) shall not apply to a local educational agency in fiscal year 2022 or 2023 that meets at least 1 of the following criteria in such fiscal year:
+
+&emsp;&emsp;"(A) Such local educational agency has a total enrollment of less than 1,000 students.
+
+&emsp;&emsp;"(B) Such local educational agency operates a single school.
+
+&emsp;&emsp;"(C) Such local educational agency serves all students within each grade span with a single school.
+
+&emsp;&emsp;"(D) Such local educational agency demonstrates an exceptional or uncontrollable circumstance, such as unpredictable changes in student enrollment or a precipitous decline in the financial resources of such agency, as determined by the Secretary of Education.
+
+"(d)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Elementary education; secondary education.—The terms 'elementary education' and 'secondary education' have the meaning given such terms under State law.
+
+&emsp;"(2)
+
+Highest poverty local educational agency.—The term 'highest poverty local educational agency' means a local educational agency that is among the group of local educational agencies in the State that—
+
+&emsp;&emsp;"(A) in rank order, have the highest percentages of economically disadvantaged students in the State, on the basis of the most recent satisfactory data available from the Department of Commerce (or, for local educational agencies for which no such data are available, such other data as the Secretary of Education determines are satisfactory); and
+
+&emsp;&emsp;"(B) collectively serve not less than 20 percent of the State's total enrollment of students served by all local educational agencies in the State.
+
+&emsp;"(3)
+
+High-need local educational agency.—The term 'high-need local educational agency' means a local educational agency that is among the group of local educational agencies in the State that—
+
+&emsp;&emsp;"(A) in rank order, have the highest percentages of economically disadvantaged students in the State, on the basis of the most recent satisfactory data available from the Department of Commerce (or, for local educational agencies for which no such data are available, such other data as the Secretary of Education determines are satisfactory); and
+
+&emsp;&emsp;"(B) collectively serve not less than 50 percent of the State's total enrollment of students served by all local educational agencies in the State.
+
+&emsp;"(4)
+
+High-poverty school.—
+
+&emsp;&emsp;"(A)
+
+In general.—The term 'high-poverty school' means, with respect to a school served by a local educational agency, a school that is in the highest quartile of schools served by such local educational agency based on the percentage of economically disadvantaged students served, as determined by the State in accordance with subparagraph (B).
+
+&emsp;&emsp;"(B)
+
+Determination.—In making the determination under subparagraph (A), a State shall select ameasure of poverty established for the purposes of this paragraph by the Secretary of Education and apply such measure consistently to all schools in the State.
+
+&emsp;"(5)
+
+Overall per-pupil reduction in state funds.—The term 'overall per-pupil reduction in State funds' means, with respect to a fiscal year—
+
+&emsp;&emsp;"(A) the amount of any reduction in the total amount of State funds provided to all local educational agencies in the State in such fiscal year compared to the total amount of such funds provided to all local educational agencies in the State in the previous fiscal year; divided by
+
+&emsp;&emsp;"(B) the aggregate number of children enrolled in all schools served by all local educational agencies in the State in the fiscal year for which the determination is being made.
+
+&emsp;"(6)
+
+State.—The term 'State' means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico."
 
 #### Emergency Funding for Education
 
@@ -56,7 +342,7 @@ Sec. 311. (a)
 
 Allocations.—From the amount made available under this heading \[probably means the heading "
 
-education stabilization fund" under the heading "DEPARTMENT OF EDUCATION", 134 Stat. 1924\] inthis Act \[div. M of Pub. L. 116–260, see Tables for classification\] to carry out the Education Stabilization Fund, the Secretary shall first allocate—
+education stabilization fund" under the heading "DEPARTMENT OF EDUCATION", 134 Stat. 1924\] in this Act \[div. M of Pub. L. 116–260, see Tables for classification\] to carry out the Education Stabilization Fund, the Secretary shall first allocate—
 
 &emsp;"(1) one-half of 1 percent to the outlying areas for supplemental awards to be allocated not more than 30 calendar days from the date of enactment of this Act \[Dec. 27, 2020\] on the basis of the terms and conditions for funding provided under section 18001(a)(1) of the Coronavirus Aid, Relief, and Economic Security (CARES) Act (Public Law 116–136) \[set out below\]; and
 
@@ -168,7 +454,7 @@ Application request and review.—A State educational agency receiving funds fro
 
 &emsp;&emsp;"(B)
 
-Application requirements.—Each non-public school desiring services or assistance under this subsection shall submit an application to the State educational agency at such time, in such manner,and accompanied by such information as the State educational agency may reasonably require to ensure expedited and timely provision of services or assistance to the non-public school, which shall include—
+Application requirements.—Each non-public school desiring services or assistance under this subsection shall submit an application to the State educational agency at such time, in such manner, and accompanied by such information as the State educational agency may reasonably require to ensure expedited and timely provision of services or assistance to the non-public school, which shall include—
 
 &emsp;&emsp;&emsp;"(i) the number and percentage of students from low-income families enrolled by such non-public school in the 2019–2020 school year;
 
@@ -268,7 +554,7 @@ Restrictions.—
 
 &emsp;"(2)
 
-Exception.—Notwithstanding paragraph (1), a State may use funds provided under subsection (a)(1) to provide assistance prohibited under paragraph (1) only to students who receive or received such assistance with funds provided under section 18002(a) of division B of the CARES Act \[Pub. L. 116–136\] (20 U.S.C. 3401 note), for the 2020–2021 school year and only forthe same assistance provided such students under such section.
+Exception.—Notwithstanding paragraph (1), a State may use funds provided under subsection (a)(1) to provide assistance prohibited under paragraph (1) only to students who receive or received such assistance with funds provided under section 18002(a) of division B of the CARES Act \[Pub. L. 116–136\] (20 U.S.C. 3401 note), for the 2020–2021 school year and only for the same assistance provided such students under such section.
 
 &emsp;"(3)
 
@@ -330,7 +616,7 @@ Uses of Funds.—A local educational agency that receives funds under this secti
 
 &emsp;&emsp;"(D) Tracking student attendance and improving student engagement in distance education.
 
-&emsp;"(13) School facility repairs and improvements to enable operation of schools to reduce risk of virus transmission and exposure to environmental health hazards, and to support student health needs.
+&emsp;"(13) School facility repairs and improvements to enable operation of schools to reduce risk of virustransmission and exposure to environmental health hazards, and to support student health needs.
 
 &emsp;"(14) Inspection, testing, maintenance, repair, replacement, and upgrade projects to improve the indoor air quality in school facilities, including mechanical and non-mechanical heating, ventilation, and air conditioning systems, filtering, purification and other air cleaning, fans, control systems, and window and door repair and replacement.
 
@@ -416,7 +702,7 @@ Special Provisions.—
 
 &emsp;"(1) A Historically Black College and University or a Minority Serving Institution may use prior awards provided under titles III, V, and VII of the Higher Education Act \[20 U.S.C. 1051 et seq., 1101 et seq., and 1133 et seq.\] to prevent, prepare for, and respond to coronavirus.
 
-&emsp;"(2) An institution of higher education awarded funds under section 18004 of division B of the CARES Act (Public Law 116–136) \[set out below\] prior to the date of enactment of this Act may use those fundsunder the terms and conditions of section 314(c) of this title, subject to the requirements in paragraph (5). Amounts repurposed pursuant to this paragraph that were previously designated by the Congress as an emergency requirement pursuant to the Balanced Budget and Emergency Deficit Control Act of 1985 \[title II of Pub. L. 99–177, see Tables for classification\] are designated by the Congress as an emergency requirement pursuant to section 251(b)(2)(A)(i) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 901(b)(2)(A)(i)\].
+&emsp;"(2) An institution of higher education awarded funds under section 18004 of division B of the CARES Act (Public Law 116–136) \[set out below\] prior to the date of enactment of this Act may use those funds under the terms and conditions of section 314(c) of this title, subject to the requirements in paragraph (5). Amounts repurposed pursuant to this paragraph that were previously designated by the Congress as an emergency requirement pursuant to the Balanced Budget and Emergency Deficit Control Act of 1985 \[title II of Pub. L. 99–177, see Tables for classification\] are designated by the Congress as an emergency requirement pursuant to section 251(b)(2)(A)(i) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 901(b)(2)(A)(i)\].
 
 &emsp;"(3) No funds received by an institution of higher education under this section shall be used to fund contractors for the provision of pre-enrollment recruitment activities; marketing or recruitment; endowments; capital outlays associated with facilities related to athletics, sectarian instruction, or religious worship; senior administrator or executive salaries, benefits, bonuses, contracts, incentives; stock buybacks, shareholder dividends, capital distributions, and stock options; or any other cash or other benefit for a senior administrator or executive.
 
@@ -626,7 +912,7 @@ Uses of Funds.—Except as otherwise specified in subsection (a), an institution
 
 "(d)
 
-Special Provisions.—(1) In awarding grants under section 18004(a)(3) of this title, the Secretary shall give priority to any institution of higher education that is not otherwise eligible for funding under paragraphs (1) and (2) of section 18004(a) of this title of at least $500,000 and demonstrates significant unmet needs related to expenses associated with coronavirus.
+Special Provisions.—(1) In awarding grants under section 18004(a)(3) of this title, the Secretaryshall give priority to any institution of higher education that is not otherwise eligible for funding under paragraphs (1) and (2) of section 18004(a) of this title of at least $500,000 and demonstrates significant unmet needs related to expenses associated with coronavirus.
 
 "(2) A Historically Black College and University or a Minority Serving Institution may use prior awards provided under titles III, V, and VII of the Higher Education Act \[20 U.S.C. 1051 et seq., 1101 et seq., and 1133 et seq.\] to prevent, prepare for, and respond to coronavirus.
 
@@ -692,7 +978,47 @@ Pub. L. 96–88, title VI, §602, Oct. 17, 1979, 93 Stat. 696, provided that:
 
 "(b) Any officer acting in an office in the Department pursuant to the provisions of subsection (a) shall receive compensation at the rate prescribed for such office under this Act."
 
+#### <b>Executive Documents</b>
+
 #### Executive Order No. 12212
 
 Ex. Ord. No. 12212, May 2, 1980, 45 F.R. 29557, which established the effective date for the Department of Education Organization Act, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
+
+#### Ensuring a Safe Return to In-Person School for the Nation's Children
+
+Memorandum of President of the United States, Aug. 18, 2021, 86 F.R. 46951, provided:
+
+Memorandum for the Secretary of Education
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. As the school year starts across the country, a top priority of my Administration is to do everything in our power to ensure a safe return to full-time, in-person school for our Nation's children. With increased access to vaccinations for school staff and students age 12 and older, proven virus prevention strategies, and unprecedented resources from the American Rescue Plan Act of 2021 (Public Law 117–2) \[see Tables for classification\] (American Rescue Plan) and other Federal pandemic relief funds, opening all schools this fall for full-time, in-person learning is essential. At the same time, the Centers for Disease Control and Prevention (CDC) has made clear that, with the B.1.617.2 (Delta) variant driving an increase in COVID–19 cases nationally, it is critical for schools to protect students against exposure, especially given the number of children who are ineligible to obtain the vaccine at this time. The CDC has provided clear guidance to schools on how to adopt science-based strategies to prevent the spread of COVID–19, and the Department of Education has provided guidance to schools on how to reopen safely while addressing the academic, social, emotional, and mental health needs of our Nation's students.
+
+Many Governors and other State and local officials have risen to the challenge of beginning the new school year safely and responsibly by implementing prevention and mitigation strategies to maximize the health and safety of students, educators, and staff. The Federal Government is supporting these efforts in criticalways. The American Rescue Plan provides significant support to schools to develop and implement science-based health protocols to prevent the spread of COVID–19. Additionally, the Federal Emergency Management Agency is reimbursing States, including their school districts, at 100 percent Federal cost share to support the safe reopening and operation of school facilities and to effectively maintain the health and safety of students, educators, and staff.
+
+At the same time, however, some State governments have adopted policies and laws that interfere with the ability of schools and districts to keep our children safe during in-person learning. Some of these policies and laws have gone so far as to try to block school officials from adopting safety protocols aligned with recommendations from the CDC to protect students, educators, and staff. And some State officials have even threatened to impose personal financial consequences on school officials who are working tirelessly to put student health and safety first and to comply with their legal obligations to their communities to further the essential goal of a safe, in-person education for all students.
+
+Our priority must be the safety of students, families, educators, and staff in our school communities. Nothing should interfere with this goal.
+
+Sec. 2. <i>Department of Education Role in Ensuring a Safe Return to In-Person School</i>. (a) In furtherance of the policy set out in section 1 of this memorandum, I direct the Secretary of Education to assess all available tools in taking action, as appropriate and consistent with applicable law, to ensure that:
+
+(i) Governors and other officials are taking all appropriate steps to prepare for a safe return to school for our Nation's children, including not standing in the way of local leaders making such preparations; and
+
+(ii) Governors and other officials are giving students the opportunity to participate and remain in safe full-time, in-person learning without compromising their health or the health of their families or communities.
+
+(b) The Secretary of Education's assessment in subsection (a) of this section shall include consideration of whether to take steps toward the initiation of possible enforcement actions under applicable laws.
+
+Sec. 3. <i>General Provisions</i>. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(d) You are authorized and directed to publish this memorandum in the Federal Register.
+
+J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

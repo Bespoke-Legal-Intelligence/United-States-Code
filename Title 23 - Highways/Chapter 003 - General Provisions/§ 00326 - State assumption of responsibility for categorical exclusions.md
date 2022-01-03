@@ -54,9 +54,11 @@ Assistance to states.—On request of a Governor of a State, the Secretary shall
 
 Term.—A memorandum of understanding—
 
-&emsp;&emsp;(A) shall have a term of not more than 3 years; and
+&emsp;&emsp;(A) except as provided under subparagraph (C), shall have a term of not more than 3 years;
 
-&emsp;&emsp;(B) shall be renewable.
+&emsp;&emsp;(B) shall be renewable; and
+
+&emsp;&emsp;(C) shall have a term of 5 years, in the case of a State that has assumed the responsibility for categorical exclusions under this section for not fewer than 10 years.
 
 &emsp;(4)
 
@@ -102,7 +104,7 @@ State Agency Deemed to Be Federal Agency.—A State agency that is assigned a re
 
 Legal Fees.—A State assuming the responsibilities of the Secretary under this section for a specific project may use funds apportioned to the State under section 104(b)(2) for attorney's fees directly attributable to eligible activities associated with the project.
 
-(Added Pub. L. 109–59, title VI, §6004(a), Aug. 10, 2005, 119 Stat. 1867; amended Pub. L. 112–141, div. A, title I, §1312, July 6, 2012, 126 Stat. 545; Pub. L. 114–94, div. A, title I, §1307, Dec. 4, 2015, 129 Stat. 1390.)
+(Added Pub. L. 109–59, title VI, §6004(a), Aug. 10, 2005, 119 Stat. 1867; amended Pub. L. 112–141, div. A, title I, §1312, July 6, 2012, 126 Stat. 545; Pub. L. 114–94, div. A, title I, §1307, Dec. 4, 2015, 129 Stat. 1390; Pub. L. 117–58, div. A, title I, §11314, Nov. 15, 2021, 135 Stat. 540.)
 
 #### <b>Editorial Notes</b>
 
@@ -116,6 +118,10 @@ A prior section 326, added Pub. L. 102–240, title VI, §6004(a), Dec. 18, 1991
 
 #### Amendments
 
+<b>2021</b>—Subsec. (c)(3)(A). Pub. L. 117–58, §11314(1), added subpar. (A) and struck out former subpar. (A) which read as follows: "shall have a term of not more than 3 years; and".
+
+Subsec. (c)(3)(C). Pub. L. 117–58, §11314(2), (3), added subpar. (C).
+
 <b>2015</b>—Subsec. (c)(2) to (5). Pub. L. 114–94, §1307(1), added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively.
 
 Subsec. (d)(1). Pub. L. 114–94, §1307(2), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "The Secretary may terminate any assumption of responsibility under a memorandum of understanding on a determination that the State is not adequately carrying out the responsibilities assigned to the State."
@@ -127,6 +133,10 @@ Subsec. (d). Pub. L. 112–141, §1312(2), added subsec. (d) and struck out form
 Subsec. (f). Pub. L. 112–141, §1312(3), added subsec. (f).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as a note under section 101 of this title.
 
 #### Effective Date of 2015 Amendment
 

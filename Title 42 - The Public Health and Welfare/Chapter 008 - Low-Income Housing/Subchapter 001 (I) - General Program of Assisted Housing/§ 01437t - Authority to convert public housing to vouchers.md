@@ -92,6 +92,8 @@ To the extent approved by the Secretary, the funds used by the public housing ag
 
 (Sept. 1, 1937, ch. 896, title I, §22, as added Pub. L. 101–625, title V, §515(a), Nov. 28, 1990, 104 Stat. 4196; amended Pub. L. 102–550, title I, §119, Oct. 28, 1992, 106 Stat. 3695; Pub. L. 105–276, title V, §533(a), Oct. 21, 1998, 112 Stat. 2576.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 503(a) of the Quality Housing and Work Responsibility Act of 1998, referred to in subsec. (b)(2), is section 503(a) of Pub. L. 105–276, which is set out as an Effective Date of 1998 Amendment note under section 1437 of this title.
@@ -102,13 +104,15 @@ Section 503(a) of the Quality Housing and Work Responsibility Act of 1998, refer
 
 <b>1992</b>—Subsec. (k). Pub. L. 102–550 amended subsec. (k) generally, substituting present provisions for provisions authorizing $25,000,000 in fiscal year 1991 and $26,100,000 in fiscal year 1992.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1998 Amendment
 
 Amendment by title V of Pub. L. 105–276 effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement amendment before such date, except to extent that such amendment provides otherwise, and with savings provision, see section 503 of Pub. L. 105–276, set out as a note under section 1437 of this title.
 
 #### Savings Provision
 
-Pub. L. 105–276, title V, §533(b), Oct. 21, 1998, 112 Stat. 2578, provided that: "The amendment made by subsection (a) \[amending this section\] shall not affect any contract or other agreement entered into under section22 of the United States Housing Act of 1937 \[42 U.S.C. 1437t\], as such section existed immediately before the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998 \[Pub. L. 105–276, set out as an Effective Date of 1998 Amendment note under section 1437 of this title\]."
+Pub. L. 105–276, title V, §533(b), Oct. 21, 1998, 112 Stat. 2578, provided that: "The amendment made by subsection (a) \[amending this section\] shall not affect any contract or other agreement entered into under section 22 of the United States Housing Act of 1937 \[42 U.S.C. 1437t\], as such section existed immediately before the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998 \[Pub. L. 105–276, set out as an Effective Date of 1998 Amendment note under section 1437 of this title\]."
 
 #### Public Housing One-Stop Perinatal Services Demonstration
 

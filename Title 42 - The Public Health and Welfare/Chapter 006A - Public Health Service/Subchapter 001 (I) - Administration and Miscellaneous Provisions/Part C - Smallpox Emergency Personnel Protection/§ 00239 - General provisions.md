@@ -58,7 +58,7 @@ For purposes of this part:
 
 The Secretary shall ensure that a State, local, or Department of Health and Human Services plan to vaccinate individuals that is approved by the Secretary establishes procedures to ensure, consistent with the Declaration and any applicable guidelines of the Centers for Disease Control and Prevention, that—
 
-&emsp;(1) potential participants are educated with respect to contraindications, the voluntary nature of the program, and the availability ofpotential benefits and compensation under this part;
+&emsp;(1) potential participants are educated with respect to contraindications, the voluntary nature of the program, and the availability of potential benefits and compensation under this part;
 
 &emsp;(2) there is voluntary screening provided to potential participants that can identify health conditions relevant to contraindications; and
 

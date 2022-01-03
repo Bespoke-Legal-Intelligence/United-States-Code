@@ -2,7 +2,7 @@
 
 #### (a) Objectives
 
-The Congress hereby declares that the general welfare and the common defense and security require positive and effective action to conserve scarce energy supplies, to insure fair and efficient distribution of, and the maintenance of fair and reasonable consumer prices for, such supplies, to promote the expansion of readily usable energy sources, and to assist in developingpolicies and plans to meet the energy needs of the Nation.
+The Congress hereby declares that the general welfare and the common defense and security require positive and effective action to conserve scarce energy supplies, to insure fair and efficient distribution of, and the maintenance of fair and reasonable consumer prices for, such supplies, to promote the expansion of readily usable energy sources, and to assist in developing policies and plans to meet the energy needs of the Nation.
 
 #### (b) Necessity for reorganization
 
@@ -14,13 +14,15 @@ The sole purpose of this chapter is to create an administration in the executive
 
 (Pub. L. 93–275, §2, May 7, 1974, 88 Stat. 97.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective and Termination Dates
 
 Section 30 of Pub. L. 93–275, as amended by Pub. L. 94–332, June 30, 1976, 90 Stat. 784; Pub. L. 94–385, title I, §112(a), Aug. 14, 1976, 90 Stat. 1132; Pub. L. 95–70, §6, July 21, 1977, 91 Stat. 277, under which this chapter became effective sixty days after May 7, 1974, and was to terminate Sept. 30, 1978, was repealed by Pub. L. 95–91, title VII, §709(a)(1), Aug. 4, 1977, 91 Stat. 607.
 
 #### Short Title of 1977 Amendment
 
-Pub. L. 95–70, §1, July 21, 1977, 91 Stat. 275, provided that: "This Act \[enacting sections 788 and 789 of this title and amending sections 766 and 792 of this title, sections 6246, 6309, and 6881 of Title 42, The Public Health and Welfare, and notes under this section\] may be cited as the 'Federal Energy Administration Authorization Act of 1977'."
+Pub. L. 95–70, §1, July 21, 1977, 91 Stat. 275, provided that: "This Act \[enacting sections 788 and 789 of thistitle and amending sections 766 and 792 of this title, sections 6246, 6309, and 6881 of Title 42, The Public Health and Welfare, and notes under this section\] may be cited as the 'Federal Energy Administration Authorization Act of 1977'."
 
 #### Short Title of 1976 Amendment
 
@@ -98,6 +100,8 @@ Pub. L. 93–275, §29, May 7, 1974, 88 Stat. 115, as amended by Pub. L. 94–38
 
 Pub. L. 93–153, title IV, §404, Nov. 16, 1973, 87 Stat. 590, directed that Director of Energy Policy Office be appointed by President, by and with advice and consent of Senate, but that if any individual serving in this office on Nov. 16, 1973, were nominated for such position, he may continue to act unless and until such nomination were disapproved by Senate.
 
+#### <b>Executive Documents</b>
+
 #### Executive Order No. 11712
 
 Ex. Ord. No. 11712, Apr. 18, 1973, 38 F.R. 9657, which related to the Special Committee on Energy and the National Energy Office, was superseded by Ex. Ord. No. 11726, June 29, 1973, 38 F.R. 17711, formerly set out as a note under section 791a of Title 16, Conservation.
@@ -148,7 +152,7 @@ Sec. 5. (a) The Federal Energy Office established by Executive Order No. 11748 i
 
 (d) All personnel, property, records, and unexpended balances of appropriations, allocations, and other funds employed, used, held, available, or to be made available in connection with functions of the Administrator of the Federal Energy Office, as Administrator of that Office or as Chairman of the Oil Policy Committee, are hereby transferred to the Secretary.
 
-Sec. 6. All authority delegated or transferred to the Secretary by this order may be further delegated, inwhole or in part, by the Secretary to any other office or any department or agency of the United States, or, if authorized by law, to any State or officer thereof.
+Sec. 6. All authority delegated or transferred to the Secretary by this order may be further delegated, in whole or in part, by the Secretary to any other office or any department or agency of the United States, or, if authorized by law, to any State or officer thereof.
 
 Secs. 7 to 10. \[Deleted.\]
 

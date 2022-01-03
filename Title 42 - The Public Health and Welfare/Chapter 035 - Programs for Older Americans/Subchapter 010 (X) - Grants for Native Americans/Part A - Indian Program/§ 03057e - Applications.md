@@ -4,7 +4,7 @@
 
 No grant may be made under this part unless the eligible tribal organization submits an application to the Assistant Secretary which meets such criteria as the Assistant Secretary may by regulation prescribe. Each such application shall—
 
-&emsp;(1) provide that the eligible tribal organization will evaluate the need for supportive and nutrition services among older individuals who are Indians to be represented by the tribal organization;
+&emsp;(1) provide that the eligible tribal organization will evaluate the need for supportive and nutrition services among older individualswho are Indians to be represented by the tribal organization;
 
 &emsp;(2) provide for the use of such methods of administration as are necessary for the proper and efficient administration of the program to be assisted;
 
@@ -22,7 +22,7 @@ No grant may be made under this part unless the eligible tribal organization sub
 
 &emsp;(9) provide that any legal or ombudsman services made available to older individuals who are Indians represented by the tribal organization will be substantially in compliance with the provisions of subchapter III relating to the furnishing of similar services;
 
-&emsp;(10) provide satisfactory assurance that fiscal control and fund accounting procedures will be adopted as may be necessary to assure proper disbursement of, and accounting for,Federal funds paid under this part to the tribal organization, including any funds paid by the tribal organization to a recipient of a grant or contract; and
+&emsp;(10) provide satisfactory assurance that fiscal control and fund accounting procedures will be adopted as may be necessary to assure proper disbursement of, and accounting for, Federal funds paid under this part to the tribal organization, including any funds paid by the tribal organization to a recipient of a grant or contract; and
 
 &emsp;(11) contain assurances that the tribal organization will coordinate services provided under this part with services provided under subchapter III in the same geographical area.
 
@@ -56,9 +56,11 @@ Whenever the Assistant Secretary approves an application of a tribal organizatio
 
 (Pub. L. 89–73, title VI, §614, as added Pub. L. 100–175, title I, §171, Nov. 29, 1987, 101 Stat. 960; amended Pub. L. 102–375, title I, §102(b)(4), title VI, §601, title IX, §904(a)(23), Sept. 30, 1992, 106 Stat. 1201, 1269, 1309; Pub. L. 103–171, §§2(21), 3(a)(13), Dec. 2, 1993, 107 Stat. 1989, 1990; Pub. L. 106–501, title VI, §602, title VIII, §801(d), Nov. 13, 2000, 114 Stat. 2287, 2292; Pub. L. 116–131, title VII, §701(11), Mar. 25, 2020, 134 Stat. 271.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
-A prior section 3057e, Pub. L. 89–73, title VI, §606, as added Pub. L. 95–478, title I, §106, Oct. 18, 1978, 92 Stat. 1551; amended Pub. L. 97–115, §3(d), Dec. 29, 1981, 95 Stat. 1597, related to surplus educational facilities, prior to the general amendment of this subchapter by Pub. L. 100–175. See section 3057f of this title.
+A prior section 3057e, Pub. L. 89–73, title VI, §606, as added Pub. L. 95–478, title I, §106, Oct. 18, 1978, 92 Stat. 1551; amended Pub. L. 97–115, §3(d), Dec. 29, 1981, 95Stat. 1597, related to surplus educational facilities, prior to the general amendment of this subchapter by Pub. L. 100–175. See section 3057f of this title.
 
 #### Amendments
 
@@ -89,6 +91,8 @@ Subsec. (a)(8). Pub. L. 102–375, §904(a)(23)(B), (C), inserted "individuals w
 Subsec. (a)(10). Pub. L. 102–375, §904(a)(23)(C), inserted "individuals who are" after "older".
 
 Subsec. (a)(12). Pub. L. 102–375, §601, added par. (12).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

@@ -400,7 +400,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Any shareholder of an S corporation which makes an election under paragraph (1) shall report the amount of such shareholder's deferred net tax liability on such shareholder's return of tax for the taxable year for which such election is made and on the return of tax for each taxable year thereafter until such amount has been fully assessed on such returns.
+&emsp;&emsp;Any shareholder of an S corporation which makes an election under paragraph (1) shallreport the amount of such shareholder's deferred net tax liability on such shareholder's return of tax for the taxable year for which such election is made and on the return of tax for each taxable year thereafter until such amount has been fully assessed on such returns.
 
 #### (B) Deferred net tax liability
 
@@ -486,7 +486,7 @@ No installment payments.—The real estate investment trust may not make an elec
 
 #### (ii) Acceleration of inclusion
 
-&emsp;&emsp;&emsp;If there is a liquidation or sale of substantially all the assets of the real estate investment trust (including in a title 11 orsimilar case), a cessation of business by such trust, or any similar circumstance, then any amount not yet included in gross income under paragraph (1)(B) shall be included in gross income as of the day before the date of the event and the unpaid portion of any tax liability with respect to such inclusion shall be due on the date of such event (or in the case of a title 11 or similar case, the day before the petition is filed).
+&emsp;&emsp;&emsp;If there is a liquidation or sale of substantially all the assets of the real estate investment trust (including in a title 11 or similar case), a cessation of business by such trust, or any similar circumstance, then any amount not yet included in gross income under paragraph (1)(B) shall be included in gross income as of the day before the date of the event and the unpaid portion of any tax liability with respect to such inclusion shall be due on the date of such event (or in the case of a title 11 or similar case, the day before the petition is filed).
 
 #### (n) Election not to apply net operating loss deduction
 
@@ -519,6 +519,8 @@ The Secretary shall prescribe such regulations or other guidance as may be neces
 &emsp;(2) regulations or other guidance to prevent the avoidance of the purposes of this section, including through a reduction in earnings and profits, through changes in entity classification or accounting methods, or otherwise.
 
 (Added Pub. L. 108–357, title IV, §422(a), Oct. 22, 2004, 118 Stat. 1514; amended Pub. L. 109–135, title IV, §403(q), Dec. 21, 2005, 119 Stat. 2627; Pub. L. 115–97, title I, §14103(a), Dec. 22, 2017, 131 Stat. 2195.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -555,6 +557,8 @@ Subsec. (d)(4). Pub. L. 109–135, §403(q)(6), added par. (4).
 Subsec. (e)(1). Pub. L. 109–135, §403(q)(7), inserted "which are imposed by foreign countries and possessions of the United States and are" after "taxes" in concluding provisions.
 
 Subsec. (f). Pub. L. 109–135, §403(q)(8), inserted "on or" before "before the due date" in concluding provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2005 Amendment
 

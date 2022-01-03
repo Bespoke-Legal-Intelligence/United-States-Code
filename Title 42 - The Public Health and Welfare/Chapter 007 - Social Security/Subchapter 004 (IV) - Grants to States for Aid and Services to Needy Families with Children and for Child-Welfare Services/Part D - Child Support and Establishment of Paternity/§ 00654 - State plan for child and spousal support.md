@@ -14,7 +14,7 @@ A State plan for child and spousal support must—
 
 &emsp;&emsp;&emsp;(i) each child for whom (I) assistance is provided under the State program funded under part A of this subchapter, (II) benefits or services for foster care maintenance are provided under the State program funded under part E of this subchapter, (III) medical assistance is provided under the State plan approved under subchapter XIX, or (IV) cooperation is required pursuant to section 2015(l)(1) of title 7, unless, in accordance with paragraph (29), good cause or other exceptions exist;
 
-&emsp;&emsp;&emsp;(ii) any other child, if an individual applies for such services with respect to the child (except that, if the individual applying for the services resides in a foreign reciprocating country or foreign treaty country, the State may opt to require the individual to request the services through the Central Authority for child support enforcement in the foreign reciprocating country or the foreign treaty country, and if the individual resides in a foreign country that is not a foreign reciprocating country or a foreign treaty country, a State may accept or reject the application); and
+&emsp;&emsp;&emsp;(ii) any other child, if an individual applies for such services with respect to the child (except that, if the individual applying for the services resides in a foreign reciprocating country or foreign treaty country, the State may opt to require the individual to request the services through the Central Authority for child support enforcement in the foreign reciprocating country or the foreign treaty country, and if the individual resides in a foreign country that is not a foreign reciprocatingcountry or a foreign treaty country, a State may accept or reject the application); and
 
 &emsp;&emsp;(B) enforce any support obligation established with respect to—
 
@@ -56,13 +56,13 @@ A State plan for child and spousal support must—
 
 &emsp;&emsp;(A) in establishing paternity, if necessary;
 
-&emsp;&emsp;(B) in locating a noncustodial parent residing in the State (whether or not permanently) against whom any action is being taken under a program established under a plan approved under this part in another State;
+&emsp;&emsp;(B) in locating a noncustodial parent residing in the State (whether or not permanently) against whom any action is beingtaken under a program established under a plan approved under this part in another State;
 
 &emsp;&emsp;(C) in securing compliance by a noncustodial parent residing in such State (whether or not permanently) with an order issued by a court of competent jurisdiction against such parent for the support and maintenance of the child or children or the parent of such child or children with respect to whom aid is being provided under the plan of such other State;
 
 &emsp;&emsp;(D) in carrying out other functions required under a plan approved under this part; and
 
-&emsp;&emsp;(E) not later than March 1, 1997, in using the forms promulgated pursuant to section652(a)(11) of this title for income withholding, imposition of liens, and issuance of administrative subpoenas in interstate child support cases;
+&emsp;&emsp;(E) not later than March 1, 1997, in using the forms promulgated pursuant to section 652(a)(11) of this title for income withholding, imposition of liens, and issuance of administrative subpoenas in interstate child support cases;
 
 &emsp;(10) provide that the State will maintain a full record of collections and disbursements made under the plan and have an adequate reporting system;
 
@@ -100,7 +100,7 @@ A State plan for child and spousal support must—
 
 &emsp;&emsp;(B) shall enforce any such child support obligations which are owed by such an individual but are not being met—
 
-&emsp;&emsp;&emsp;(i) through an agreement with such individual to have specified amounts withheld from compensation otherwise payable tosuch individual and by submitting a copy of any such agreement to the State agency administering the unemployment compensation law; or
+&emsp;&emsp;&emsp;(i) through an agreement with such individual to have specified amounts withheld from compensation otherwise payable to such individual and by submitting a copy of any such agreement to the State agency administering the unemployment compensation law; or
 
 &emsp;&emsp;&emsp;(ii) in the absence of such an agreement, by bringing legal process (as defined in section 659(i)(5) of this title) to require the withholding of amounts from such compensation;
 
@@ -132,7 +132,7 @@ A State plan for child and spousal support must—
 
 &emsp;&emsp;(D) in cases in which the prohibitions under subparagraphs (B) and (C) apply, the requirement to notify the Secretary, for purposes of section 653(b)(2) of this title, that the State has reasonable evidence of domestic violence or child abuse against a party or the child and that the disclosure of such information could be harmful to the party or the child; and
 
-&emsp;&emsp;(E) procedures providing that when the Secretary discloses information about a parent or child to a State court or an agent of a State court described in section 653(c)(2) or 663(d)(2)(B) of this title, and advises that court or agent that the Secretary has been notified that there is reasonable evidence of domestic violence or child abuse pursuant to section 653(b)(2) of this title, the court shall determine whether disclosure to any other person of information received from the Secretary could be harmful to the parent or child and, if the court determines that disclosure to any other person could be harmful, the court and its agents shall not make any such disclosure;
+&emsp;&emsp;(E) procedures providing that when the Secretary discloses information about a parent or child to a State court or an agent of a State court described in section 653(c)(2) or 663(d)(2)(B) of this title, and advises that court or agent that the Secretary has been notified that there is reasonable evidence of domestic violence or child abuse pursuant to section 653(b)(2) of this title, the court shalldetermine whether disclosure to any other person of information received from the Secretary could be harmful to the parent or child and, if the court determines that disclosure to any other person could be harmful, the court and its agents shall not make any such disclosure;
 
 &emsp;(27) provide that, on and after October 1, 1998, the State agency will—
 
@@ -176,13 +176,15 @@ A State plan for child and spousal support must—
 
 &emsp;(C) provide that no applications will be required from, and no costs will be assessed for such services against, the foreign reciprocating country, foreign treaty country, or foreign individual (but costs may at State option be assessed against the obligor);
 
-&emsp;(33) provide that a State that receives funding pursuant to section 628 of this title and that has within its borders Indian country (as defined in section 1151 of title 18) may enter into cooperative agreements with an Indian tribe or tribal organization (as defined in subsections (e) and (l) of section 5304 of title 25), if the Indian tribe or tribal organization demonstrates that such tribe or organization has an established tribal court system or a Court of Indian Offenses with the authority to establish paternity, establish, modify, or enforce support orders, or to enter support orders in accordance with child support guidelines established or adopted by such tribe or organization, under which the State and tribe or organization shall provide for the cooperative delivery of child support enforcement services in Indian country and for the forwarding of all collections pursuant to the functions performed by the tribe or organization to the State agency, or conversely, by the State agency to the tribe or organization, which shall distribute such collections in accordance with such agreement; and
+&emsp;(33) provide that a State that receives funding pursuant to section 628 of this title and that has within its borders Indian country (as defined in section 1151 of title 18) may enter into cooperative agreements with an Indian tribe or tribal organization (as defined in subsections (e) and (l) of section 5304 of title 25), if the Indian tribe or tribal organization demonstrates that such tribe or organization hasan established tribal court system or a Court of Indian Offenses with the authority to establish paternity, establish, modify, or enforce support orders, or to enter support orders in accordance with child support guidelines established or adopted by such tribe or organization, under which the State and tribe or organization shall provide for the cooperative delivery of child support enforcement services in Indian country and for the forwarding of all collections pursuant to the functions performed by the tribe or organization to the State agency, or conversely, by the State agency to the tribe or organization, which shall distribute such collections in accordance with such agreement; and
 
 &emsp;(34) include an election by the State to apply section 657(a)(2)(B) of this title or former section 657(a)(2)(B) of this title (as in effect for the State immediately before the date this paragraph first applies to the State) to the distribution of the amounts which are the subject of such sections and, for so long as the State elects to so apply such former section, the amendments made by subsection (b)(1) of section 7301 of the Deficit Reduction Act of 2005 shall not apply with respect to the State, notwithstanding subsection (e) of such section 7301.
 
 > The State may allow the jurisdiction which makes the collection involved to retain any application fee under paragraph (6)(B) or any late payment fee under paragraph (21). Nothing in paragraph (33) shall void any provision of any cooperative agreement entered into before August 22, 1996, nor shall such paragraph deprive any State of jurisdiction over Indian country (as so defined) that is lawfully exercised under section 1322 of title 25.
 
 (Aug. 14, 1935, ch. 531, title IV, §454, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2354; amended Pub. L. 94–88, title II, §208(b), (c), Aug. 9, 1975, 89 Stat. 436; Pub. L. 95–30, title V, §502(a), May 23, 1977, 91 Stat. 162; Pub. L. 96–265, title IV, §405(b), June 9, 1980, 94 Stat. 463; Pub. L. 96–611, §9(a), Dec. 28, 1980, 94 Stat. 3571; Pub. L. 97–35, title XXIII, §§2331(b), 2332(d), 2333(a), (b), 2335(a), Aug. 13, 1981, 95 Stat. 860, 862, 863; Pub. L. 97–248, title I, §§171(a), (b)(1), 173(a), Sept. 3, 1982, 96 Stat. 401, 403; Pub. L. 98–369, div. B, title VI, §2663(c)(14), (j)(2)(B)(x), July 18, 1984, 98 Stat. 1166, 1170; Pub. L. 98–378, §§3(a), (c)–(f), 5(b), 6(a), 11(b)(1), 12(a), (b), 14(a), 21(d), Aug. 16, 1984, 98 Stat. 1306, 1310, 1311, 1314, 1318, 1319, 1320, 1324; Pub. L. 100–203, title IX, §§9141(a)(2), 9142(a), Dec. 22, 1987, 101 Stat. 1330–321; Pub. L. 100–485, title I, §§104(a), 111(c), 123(a), (d), Oct. 13, 1988, 102 Stat. 2348, 2349, 2352, 2353; Pub. L. 104–35, §1(a), Oct. 12, 1995, 109 Stat. 294; Pub. L. 104–193, title I, §108(c)(11), (12), title III, §§301(a), (b), 302(b)(2), 303(a), 304(a), 312(a), 313(a), 316(g)(1), 324(b), 332, 333, 342(a), 343(b), 344(a)(1), (4), 370(a)(2), 371(b), 375(a), (c), 395(d)(1)(D), (2)(B), Aug. 22, 1996, 110 Stat. 2166, 2199, 2204, 2205, 2207, 2209, 2218, 2223, 2230, 2233, 2234, 2236, 2252, 2254, 2256, 2259, 2260; Pub. L. 105–33, title V, §§5531(a), 5542(c), 5545, 5546(a), 5548, 5552, 5556(b), Aug. 5, 1997, 111 Stat. 625, 631, 633, 635, 637; Pub. L. 106–169, title IV, §401(g), (h), Dec. 14, 1999, 113 Stat. 1858; Pub. L. 109–171, title VII, §§7301(b)(1)(C), 7303(b), 7310(a), Feb. 8, 2006, 120 Stat. 143, 145, 147; Pub. L. 110–234, title IV, §§4002(b)(1)(A), (B), (2)(V), 4115(c)(2)(H), May 22, 2008, 122 Stat. 1095–1097, 1110; Pub. L. 110–246, §4(a), title IV, §§4002(b)(1)(A), (B), (2)(V), 4115(c)(2)(H), June 18, 2008, 122 Stat. 1664, 1857, 1858, 1871; Pub. L. 113–79, title IV, §4030(v), Feb. 7, 2014, 128 Stat. 815; Pub. L. 113–183, title III, §301(c), Sept. 29, 2014, 128 Stat. 1943; Pub. L. 115–123, div. E, title XII, §53117(a), Feb. 9, 2018, 132 Stat. 307.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -214,7 +216,7 @@ Par. (32)(C). Pub. L. 113–183, §301(c)(2)(B), substituted ", foreign treaty 
 
 Par. (29)(A), (D), (E). Pub. L. 110–246, §4115(c)(2)(H), as amended by Pub. L. 113–79, §4030(v), substituted "section 2012(l)" for "section 2012(h)" wherever appearing.
 
-Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(V), substituted "supplemental nutrition assistance program" for "food stamp program" wherever appearing and made technical amendment to references in original act which appear in text as references to sections 2012(h) and 2015(l)(2) of title 7.
+Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(V), substituted "supplemental nutrition assistance program" for "food stamp program" wherever appearing and made technical amendment to references in original act whichappear in text as references to sections 2012(h) and 2015(l)(2) of title 7.
 
 <b>2006</b>—Par. (6)(B). Pub. L. 109–171, §7310(a), designated existing provisions as cl. (i), redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, of cl. (i), and added cl. (ii).
 
@@ -372,7 +374,7 @@ Pub. L. 100–485, §123(a)(2), substituted "a statewide automated" for "an auto
 
 Par. (24). Pub. L. 100–485, §123(a)(1), added par. (24).
 
-<b>1987</b>—Par. (4)(A). Pub. L. 100–203, §9142(a)(1)(A), (B), substituted "an assignment under section 602(a)(26) of this title or section 1396k of this title" for "an assignment under section 602(a)(26) of this title" and ", or, in the case of such a child with respect to whom an assignment under section 1396k of this title is in effect,the State agency administering the plan approved under subchapter XIX of this chapter determines pursuant to section 1396k(a)(1)(B) of this title that it is against the best interests of the child to do so, and" for ", and".
+<b>1987</b>—Par. (4)(A). Pub. L. 100–203, §9142(a)(1)(A), (B), substituted "an assignment under section 602(a)(26) of this title or section 1396k of this title" for "an assignment under section 602(a)(26) of this title" and ", or, in the case of such a child with respect to whom an assignment under section 1396k of this title is in effect, the State agency administering the plan approved under subchapter XIX of this chapter determines pursuant to section 1396k(a)(1)(B) of this title that it is against the best interests of the child to do so, and" for ", and".
 
 Par. (4)(B). Pub. L. 100–203, §9142(a)(1)(C), inserted "or medical assistance under a State plan approved under subchapter XIX of this chapter" after "children".
 
@@ -448,9 +450,11 @@ Par. (17). Pub. L. 96–611 added par. (17).
 
 <b>1977</b>—Pars. (14), (15). Pub. L. 95–30 added pars. (14) and (15).
 
-<b>1975</b>—Par. (4)(A). Pub. L. 94–88, §208(b), substituted "to establish the paternity of such child, unless the agency administering the plan of the State under part A of this subchapter determines in accordance with the standards prescribed by the Secretary pursuant to section 602(a)(26)(B) of this title that it is against the best interests of the child to do so" for "to establish the paternity of such child".
+<b>1975</b>—Par. (4)(A). Pub. L. 94–88, §208(b), substituted "to establish the paternity of such child, unless the agency administering the plan of the State under partA of this subchapter determines in accordance with the standards prescribed by the Secretary pursuant to section 602(a)(26)(B) of this title that it is against the best interests of the child to do so" for "to establish the paternity of such child".
 
 Par. (4)(B). Pub. L. 94–88, §208(c), substituted "reciprocal arrangements adopted with other States (unless the agency administering the plan of the State under part A of this subchapter determines in accordance with the standards prescribed by the Secretary pursuant to section 602(a)(26)(B) of this title that it is against the best interests of the child to do so)" for "reciprocal arrangements adopted with other States".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 
@@ -602,7 +606,7 @@ Pub. L. 98–378, §15, Aug. 16, 1984, 98 Stat. 1320, provided that:
 
 "(b) Each State Commission appointed under subsection (a) shall be composed of members appropriately representing all aspects of the child support system, including custodial and non-custodial parents, the agency or organizational unit administering the State's plan under part D of such title IV \[42 U.S.C. 651 et seq.\], the State judiciary, the executive and legislative branches of the State government, child welfare and social services agencies, and others.
 
-"(c) It shall be the function of each State Commission to examine, investigate, and study the operation of the State's child support system for the primary purpose of determining the extent to which such system has been successful in securing support and parental involvement both for children who are eligible for aid under a State plan approved under part A of title IV of such Act \[42 U.S.C. 601 et seq.\] and for children who are not eligible for such aid, giving particular attention tosuch specific problems (among others) as visitation, the establishment of appropriate objective standards for support, the enforcement of interstate obligations, the availability, cost, and effectiveness of services both to children who are eligible for such aid and to children who are not, and the need for additional State or Federal legislation to obtain support for all children.
+"(c) It shall be the function of each State Commission to examine, investigate, and study the operation of the State's child support system for the primary purpose of determining the extent to which such system has been successful in securing support and parental involvement both for children who are eligible for aid under a State plan approved under part A of title IV of such Act \[42 U.S.C. 601 et seq.\] and for children who are not eligible for such aid, giving particular attention to such specific problems (among others) as visitation, the establishment of appropriate objective standards for support, the enforcement of interstate obligations, the availability, cost, and effectiveness of services both to children who are eligible for such aid and to children who are not, and the need for additional State or Federal legislation to obtain support for all children.
 
 "(d) Each State Commission shall submit to the Governor of the State and make available to the public, no later than October 1, 1985, a full and complete report of its findings and recommendations resulting from the examination, investigation, and study under this section. The Governor shall transmit such report to the Secretary of Health and Human Services along with the Governor's comments thereon.
 

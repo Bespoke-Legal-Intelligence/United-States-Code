@@ -74,7 +74,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (6) Nationwide mortgage licensing system and registry
 
-&emsp;The term "Nationwide Mortgage Licensing System and Registry" means a mortgage licensing system developed and maintained by the Conference of State Bank Supervisors and the American Association of Residential Mortgage Regulators for the State licensing and registration of State-licensed loan originators and the registration of registered loan originators or any system established by the Director under section 5108 of this title.
+&emsp;The term "Nationwide Mortgage Licensing System and Registry" means a mortgage licensing system developed and maintained by the Conference of State Bank Supervisors and the American Association of Residential Mortgage Regulators for the State licensing andregistration of State-licensed loan originators and the registration of registered loan originators or any system established by the Director under section 5108 of this title.
 
 #### (7) Nontraditional mortgage product
 
@@ -175,6 +175,8 @@ Par. (12)(A)(ii). Pub. L. 111–203, §1100(2), substituted "Bureau" for "Federa
 #### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
+
+#### <b>Executive Documents</b>
 
 #### Termination of Trust Territory of the Pacific Islands
 

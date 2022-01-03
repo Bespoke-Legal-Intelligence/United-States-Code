@@ -28,7 +28,7 @@ Not later than 90 days after March 23, 2010, the Secretary shall establish a tem
 
 #### (1) In general
 
-&emsp;Amounts made available under this section shall be used to establish a qualified high riskpool that meets the requirements of paragraph (2).
+&emsp;Amounts made available under this section shall be used to establish a qualified high risk pool that meets the requirements of paragraph (2).
 
 #### (2) Requirements
 
@@ -126,11 +126,15 @@ The Secretary shall establish—
 
 (Pub. L. 111–148, title I, §1101, Mar. 23, 2010, 124 Stat. 141.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsec. (c)(2)(C)(i), is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119, known as the Patient Protection and Affordable Care Act. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 The date on which such amendments take effect, referred to in subsec. (c)(2)(C)(i), is the date on which the amendments by Pub. L. 111–148 to section 300gg of this title take effect, which is Jan. 1, 2014. See section 1255 of Pub. L. 111–148, set out as an Effective Date note under section 300gg of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2014 Amendment
 
@@ -140,83 +144,15 @@ Pub. L. 113–235, div. M, §1, Dec. 16, 2014, 128 Stat. 2767, provided that: "T
 
 Pub. L. 111–148, §1(a), Mar. 23, 2010, 124 Stat. 119, provided that: "This Act \[see Tables for classification\] may be cited as the 'Patient Protection and Affordable Care Act'."
 
-#### Ex. Ord. No. 13765. Minimizing the Economic Burden of the Patient Protection and Affordable Care Act Pending Repeal
+#### <b>Executive Documents</b>
 
-Ex. Ord. No. 13765, Jan. 20, 2017, 82 F.R. 8351, provided:
+#### Executive Order No. 13765
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+Ex. Ord. No. 13765, Jan. 20, 2017, 82 F.R. 8351, which related to minimizing the economic burden of the Patient Protection and Affordable Care Act (Pub. L. 111–148) pending repeal, was revoked by Ex. Ord. No. 14009, §4(a), Jan. 28, 2021, 86 F.R. 7794, set out below.
 
-Section 1. It is the policy of my Administration to seek the prompt repeal of the Patient Protection and Affordable Care Act (Public Law 111–148), as amended (the "Act"). In the meantime, pending such repeal, it is imperative for the executive branch to ensure that the law is being efficiently implemented, take all actions consistent with law to minimize the unwarranted economic and regulatory burdens of the Act, and prepare to afford the States more flexibility and control to create a more free and open healthcare market.
+#### Executive Order No. 13813
 
-Sec. 2. To the maximum extent permitted by law, the Secretary of Health and Human Services (Secretary) and the heads of all other executive departments and agencies (agencies) with authorities and responsibilities under the Act shall exercise all authority and discretion available to them to waive, defer, grant exemptions from, or delay the implementation of any provision or requirement of the Act that would impose a fiscal burden on any State or a cost, fee, tax, penalty, or regulatory burden on individuals, families, healthcare providers, health insurers, patients, recipients of healthcare services, purchasers of health insurance, or makers of medical devices, products, or medications.
-
-Sec. 3. To the maximum extent permitted by law, the Secretary and the heads of all other executive departments and agencies with authorities and responsibilities under the Act, shall exercise all authority and discretion available to them to provide greater flexibility to States and cooperate with them in implementing healthcare programs.
-
-Sec. 4. To the maximum extent permitted by law, the head of each department or agency with responsibilities relating to healthcare or health insurance shall encourage the development of a free and open market in interstate commerce for the offering of healthcare services and health insurance, with the goal of achieving and preserving maximum options for patients and consumers.
-
-Sec. 5. To the extent that carrying out the directives in this order would require revision of regulations issued through notice-and-comment rulemaking, the heads of agencies shall comply with the Administrative Procedure Act and other applicable statutes in considering or promulgating such regulatory revisions.
-
-Sec. 6. (a) Nothing in this order shall be construed to impair or otherwise affect:
-
-(i) the authority granted by law to an executive department or agency, or the head thereof; or
-
-(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
-
-(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
-
-(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-
-Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Ex. Ord. No. 13813. Promoting Healthcare Choice and Competition Across the United States
-
-Ex. Ord. No. 13813, Oct. 12, 2017, 82 F.R. 48385, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
-
-Section 1. <i>Policy</i>. (a) It shall be the policy of the executive branch, to the extent consistent with law, to facilitate the purchase of insurance across State lines and the development and operation of a healthcare system that provides high-quality care at affordable prices for the American people. The Patient Protection and Affordable Care Act (PPACA), however, has severely limited the choice of healthcare options available to many Americans and has produced large premium increases in many State individual markets for health insurance. The average exchange premium in the 39 States that are using www.healthcare.gov in 2017 is more than double the average overall individual market premium recorded in 2013. The PPACA has also largely failed to provide meaningful choice or competition between insurers, resulting in one-third of America's counties having only one insurer offering coverage on their applicable government-run exchange in 2017.
-
-(b) Among the myriad areas where current regulations limit choice and competition, my Administration will prioritize three areas for improvement in the near term: association health plans (AHPs), short-term, limited-duration insurance (STLDI), and health reimbursement arrangements (HRAs).
-
-(i) Large employers often are able to obtain better terms on health insurance for their employees than small employers because of their larger pools of insurable individuals across which they can spread risk and administrative costs. Expanding access to AHPs can help small businesses overcome this competitive disadvantage by allowing them to group together to self-insure or purchase large group health insurance. Expanding access to AHPs will also allow more small businesses to avoid many of the PPACA's costly requirements. Expanding access to AHPs would provide more affordable health insurance options to many Americans, including hourly wage earners, farmers, and the employees of small businesses and entrepreneurs that fuel economic growth.
-
-(ii) STLDI is exempt from the onerous and expensive insurance mandates and regulations included in title I of the PPACA. This can make it an appealing and affordable alternative to government-run exchanges for many people without coverage available to them through their workplaces. The previous administration took steps to restrict access to this market by reducing the allowable coverage period from less than 12 months to less than 3 months and by preventing any extensions selected by the policyholder beyond 3 months of total coverage.
-
-(iii) HRAs are tax-advantaged, account-based arrangements that employers can establish for employees to give employees more flexibility and choices regarding their healthcare. Expanding the flexibility and use of HRAs would provide many Americans, including employees who work at small businesses, with more options for financing their healthcare.
-
-(c) My Administration will also continue to focus on promoting competition in healthcare markets and limiting excessive consolidation throughout the healthcare system. To the extent consistent with law, government rules and guidelines affecting the United States healthcare system should:
-
-(i) expand the availability of and access to alternatives to expensive, mandate-laden PPACA insurance, including AHPs, STLDI, and HRAs;
-
-(ii) re-inject competition into healthcare markets by lowering barriers to entry, limiting excessive consolidation, and preventing abuses of market power; and
-
-(iii) improve access to and the quality of information that Americans need to make informed healthcare decisions, including data about healthcare prices and outcomes, while minimizing reporting burdens on affected plans, providers, or payers.
-
-Sec. 2. <i>Expanded Access to Association Health Plans</i>. Within 60 days of the date of this order, the Secretary of Labor shall consider proposing regulations or revising guidance, consistent with law, to expand access to health coverage by allowing more employers to form AHPs. To the extent permitted by law and supported by sound policy, the Secretary should consider expanding the conditions that satisfy the commonality-of-interest requirements under current Department of Labor advisory opinions interpreting the definition of an "employer" under section 3(5) of the Employee Retirement Income Security Act of 1974. The Secretary of Labor should also consider ways to promote AHP formation on the basis of common geography or industry.
-
-Sec. 3. <i>Expanded Availability of Short-Term, Limited-Duration Insurance</i>. Within 60 days of the date of this order, the Secretaries of the Treasury, Labor, and Health and Human Services shall consider proposing regulations or revising guidance, consistent with law, to expand the availability of STLDI. To the extent permitted by law and supported by sound policy, the Secretaries should consider allowing such insurance to cover longer periods and be renewed by the consumer.
-
-Sec. 4. <i>Expanded Availability and Permitted Use of Health Reimbursement Arrangements</i>. Within 120 days of the date of this order, the Secretaries of the Treasury, Labor, and Health and Human Services shall consider proposing regulations or revising guidance, to the extent permitted by law and supported by sound policy, to increase the usability of HRAs, to expand employers' ability to offer HRAs to their employees, and to allow HRAs to be used in conjunction with nongroup coverage.
-
-Sec. 5. <i>Public Comment</i>. The Secretaries shall consider and evaluate public comments on any regulations proposed under sections 2 through 4 of this order.
-
-Sec. 6. <i>Reports</i>. Within 180 days of the date of this order, and every 2 years thereafter, the Secretary of Health and Human Services, in consultation with the Secretaries of the Treasury and Labor and the Federal Trade Commission, shall provide a report to the President that:
-
-(a) details the extent to which existing State and Federal laws, regulations, guidance, requirements, and policies fail to conform to the policies set forth in section 1 of this order; and
-
-(b) identifies actions that States or the Federal Government could take in furtherance of the policies set forth in section 1 of this order.
-
-Sec. 7. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
-
-(i) the authority granted by law to an executive department or agency, or the head thereof; or
-
-(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
-
-(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
-
-(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-
-Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Ex. Ord. No. 13813, Oct. 12, 2017, 82 F.R. 48385, which related to promoting association health plans, short-term, limited-duration insurance, and health reimbursement arrangements, was revoked by Ex. Ord. No. 14009, §4(a), Jan. 28, 2021, 86 F.R. 7794, set out below.
 
 #### Ex. Ord. No. 13877. Improving Price and Quality Transparency in American Healthcare To Put Patients First
 
@@ -226,7 +162,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Purpose</i>. My Administration seeks to enhance the ability of patients to choose the healthcare that is best for them. To make fully informed decisions about their healthcare, patients must know the price and quality of a good or service in advance. With the predominant role that third-party payers and Government programs play in the American healthcare system, however, patients often lack both access to useful price and quality information and the incentives to find low-cost, high-quality care. Opaque pricing structures may benefit powerful special interest groups, such as large hospital systems and insurance companies, but they generally leave patients and taxpayers worse off than would a more transparent system.
 
-Pursuant to Executive Order 13813 of October 12, 2017 (Promoting Healthcare Choice and Competition Across the United States) \[set out above\], my Administration issued a report entitled "Reforming America's Healthcare System Through Choice and Competition." The report recommends developing price and quality transparency initiatives to ensure that healthcare patients can make well-informed decisions about their care. In particular, the report describes the characteristics of the most effective price transparency efforts: they distinguish between the charges that providers bill and the rates negotiated between payers and providers; they give patients proper incentives to seek information about the price of healthcare services; and they provide useful price comparisons for "shoppable" services (common services offered by multiple providers through the market, which patients can research and compare before making informed choices based on price and quality).
+Pursuant to Executive Order 13813 of October 12, 2017 (Promoting Healthcare Choice and Competition Across the United States) \[formerly set out above\], my Administration issued a report entitled "Reforming America's Healthcare System Through Choice and Competition." The report recommends developing price and quality transparency initiatives to ensure that healthcare patients can make well-informed decisions about their care. In particular, the report describes the characteristics of the most effective price transparency efforts: they distinguish between the charges that providers bill and the rates negotiated between payers and providers; they give patients proper incentives to seek information about the price of healthcare services; and they provide useful price comparisons for "shoppable" services (common services offered by multiple providers through the market, which patients can research and compare before making informed choices based on price and quality).
 
 Shoppable services make up a significant share of the healthcare market, which means that increasing transparency among these services will have a broad effect on increasing competition in the healthcare system as a whole. One study, cited by the Council of Economic Advisers in its 2019 Annual Report, examined a sample of the highest-spending categories of medical cases requiring inpatient and outpatient care. Of the categories of medical cases requiring inpatient care, 73 percent of the 100 highest-spending categories were shoppable. Among the categories of medical cases requiring outpatient care, 90 percent of the 300 highest-spending categories were shoppable. Another study demonstrated that the ability of patients to price-shop imaging services, a particularly fungible and shoppable set of healthcare services, was associated with a per-service savings of up to approximately 19 percent.
 
@@ -244,7 +180,7 @@ Sec. 3. <i>Informing Patients About Actual Prices</i>. (a) Within 60 days of the
 
 Sec. 4. <i>Establishing a Health Quality Roadmap</i>. Within 180 days of the date of this order, the Secretaries of Health and Human Services, Defense, and Veterans Affairs shall develop a Health Quality Roadmap (Roadmap) that aims to align and improve reporting on data and quality measures across Medicare, Medicaid, the Children's Health Insurance Program, the Health Insurance Marketplace, the Military Health System, and the Veterans Affairs Health System. The Roadmap shall include a strategy for establishing, adopting, and publishing common quality measurements; aligning inpatient and outpatient measures; and eliminating low-value or counterproductive measures.
 
-Sec. 5. <i>Increasing Access to Data to Make Healthcare Information More Transparent and Useful to Patients</i>. Within 180 days of the date of this order, the Secretary of Health and Human Services, in consultation with the Secretaries of the Treasury, Defense, Labor, and Veterans Affairs, and the Director of the Office of Personnel Management, shall increase access to de-identified claims data from taxpayer-funded healthcare programs and group health plans for researchers, innovators, providers, and entrepreneurs, in a manner that is consistent with applicable law and that ensures patient privacy and security. Providing access to this data will facilitate the development of tools that empower patients to be better informed as they make decisions related to healthcare goods and services. Access to this data will also enable researchers and entrepreneurs to locate inefficiencies and opportunities for improvement, such as patterns of performance of medical procedures that are outside the recommended standards of care. Such data may be derived from the Transformed Medicaid Statistical Information System (T-MSIS) and other sources. As part of this process, the Secretary of Health and Human Services shall make a list of priority datasets that, if de-identified, could advance the policies set forth by this order, and shall report to the President on proposed plans for future release of these priority datasets and on any barriers to their release.
+Sec. 5. <i>Increasing Access to Data to Make Healthcare Information More Transparent and Useful to Patients</i>. Within 180 days of the date of this order, the Secretary of Health and Human Services, in consultation with the Secretaries of the Treasury, Defense, Labor, and Veterans Affairs, and the Director of the Office of Personnel Management, shall increase access to de-identified claims data from taxpayer-funded healthcare programs and group health plans for researchers, innovators, providers, and entrepreneurs, in a manner that is consistent with applicable law and that ensures patient privacy and security. Providing access to this data will facilitate the development of tools that empower patients to be better informed as they make decisions related to healthcare goods and services. Access to this data will also enable researchers and entrepreneurs to locate inefficiencies and opportunities for improvement, such as patterns of performance of medical procedures that are outside the recommended standards of care. Such data may be derived from the Transformed Medicaid Statistical Information System (T–MSIS) and other sources. As part of this process, the Secretary of Health and Human Services shall make a list of priority datasets that, if de-identified, could advance the policies set forth by this order, and shall report to the President on proposed plans for future release of these priority datasets and on any barriers to their release.
 
 Sec. 6. <i>Empowering Patients by Enhancing Control Over Their Healthcare Resources</i>. (a) Within 120 days of the date of this order, the Secretary of the Treasury, to the extent consistent with law, shall issue guidance to expand the ability of patients to select high-deductible health plans that can be used alongside a health savings account, and that cover low-cost preventive care, before the deductible, for medical care that helps maintain health status for individuals with chronic conditions.
 
@@ -276,7 +212,7 @@ Section 1. <i>Purpose</i>. Since January 20, 2017, my Administration has been co
 
 (a) My Administration has been committed to restoring choice and control to the American patient.
 
-On December 22, 2017, I signed into law the repeal of the burdensome individual-mandate penalty, liberating millions of low-income Americans from a tax that penalized them for not purchasing health-insurance coverage they did not want or could not afford. Through Executive Order 13813 of October 12, 2017 (Promoting Healthcare Choice and Competition Across the United States) \[set out above\], my Administration has expanded coverage options for millions of Americans in several ways. My Administration increased the availability of renewable short-term, limited-duration healthcare plans, providing options that are up to 60 percent cheaper than the least expensive alternatives under the Patient Protection and Affordable Care Act (ACA) \[Pub. L. 111–148\] and are projected to cover 500,000 individuals who would otherwise be uninsured. My Administration expanded health reimbursement arrangements, which have been projected by the Department of the Treasury to reach 800,000 businesses and over 11 million employees and to expand coverage to more than 800,000 individuals who would otherwise be uninsured. My Administration also issued a rule to increase the availability of association health plans for small businesses, which, upon implementation of the rule, are projected to cover up to 400,000 previously uninsured individuals for on average 30 percent less cost.
+On December 22, 2017, I signed into law the repeal of the burdensome individual-mandate penalty, liberating millions of low-income Americans from a tax that penalized them for not purchasing health-insurance coverage they did not want or could not afford. Through Executive Order 13813 of October 12, 2017 (Promoting Healthcare Choice and Competition Across the United States) \[formerly set out above\], my Administration has expanded coverage options for millions of Americans in several ways. My Administration increased the availability of renewable short-term, limited-duration healthcare plans, providing options that are up to 60 percent cheaper than the least expensive alternatives under the Patient Protection and Affordable Care Act (ACA) \[Pub. L. 111–148\] and are projected to cover 500,000 individuals who would otherwise be uninsured. My Administration expanded health reimbursement arrangements, which have been projected by the Department of the Treasury to reach 800,000 businesses andover 11 million employees and to expand coverage to more than 800,000 individuals who would otherwise be uninsured. My Administration also issued a rule to increase the availability of association health plans for small businesses, which, upon implementation of the rule, are projected to cover up to 400,000 previously uninsured individuals for on average 30 percent less cost.
 
 As set forth in the Economic Report of the President (February 2020), my Administration's expansion of health savings accounts will further help millions of Americans pay for health expenditures by allowing them to save more of their own money free from Federal taxation, and will especially help Americans with chronic conditions who now have more flexibility to enroll in plans that fit their complicated care needs and can be paired with a tax-advantaged account.
 
@@ -326,7 +262,7 @@ The ACA is neither the best nor the only way to ensure that Americans who suffer
 
 My Administration has always been committed to ensuring that patients with pre-existing conditions can obtain affordable healthcare, to lowering healthcare costs, to improving quality of care, and to enabling individuals to choose the healthcare that meets their needs. For example, when the COVID–19 pandemic hit, my Administration implemented a program to provide any individual without health-insurance coverage access to necessary COVID–19-related testing and treatment.
 
-My commitment to improving care across our country expands vastly beyond the rules governing health insurance. On July 10, 2019, I signed Executive Order 13879 (Advancing American Kidney Health) \[42 U.S.C. 280g–6 note\] to improve care for the hundreds of thousands of Americans suffering from end-stage renal disease. Pursuant to that order, my Administration launched a program to encourage home dialysis and promote transplants for patients, and expects to enrollapproximately 120,000 Medicare beneficiaries with end-stage renal disease in the program. We also have removed financial barriers to living organ donation by adding additional financial support for living donors, such as by reimbursing expenses for lost wages, child care, and elder care. HHS, together with the American Society of Nephrology, issued two phases of awards through KidneyX's Redesign Dialysis Price Competition to work toward the creation of an artificial kidney.
+My commitment to improving care across our country expands vastly beyond the rules governing health insurance. On July 10, 2019, I signed Executive Order 13879 (Advancing American Kidney Health) \[42 U.S.C. 280g–6 note\] to improve care for the hundreds of thousands of Americans suffering from end-stage renal disease. Pursuant to that order, my Administration launched a program to encourage home dialysis and promote transplants for patients, and expects to enroll approximately 120,000 Medicare beneficiaries with end-stage renal disease in the program. We also have removed financial barriers to living organ donation by adding additional financial support for living donors, such as by reimbursing expenses for lost wages, child care, and elder care. HHS, together with the American Society of Nephrology, issued two phases of awards through KidneyX's Redesign Dialysis Price Competition to work toward the creation of an artificial kidney.
 
 My Administration has taken unprecedented action to improve the quality of and access to care for individuals with HIV, as part of our goal of ending the epidemic of HIV in the United States by 2030. HHS has awarded at least $226 million to expand access to HIV care, treatment, medication, and prevention services, focused on 48 counties, Washington, DC, and San Juan, Puerto Rico, where more than 50 percent of new HIV diagnoses occurred in 2016 and 2017, as well as seven States with a substantial rural HIV rate. We secured a historic donation of a groundbreaking HIV preventive medication that is available at no cost to eligible patients.
 
@@ -334,7 +270,7 @@ My Administration has started a transformation in healthcare in rural America. T
 
 My Administration has additionally demonstrated an incredible dedication to protecting and improving care for those most in need, including senior citizens, those with substance use disorders, and those to whom our Nation owes the greatest debt: our veterans.
 
-I have protected the viability of the Medicare program. For example, on February 9, 2018, I signed into law the repeal of the Independent Payment Advisory Board, which would have been a group of unelected bureaucrats created by the ACA, designed to be insulated from the will of America's elected leaders for the purpose of cutting the spending of this important program. On October 3, 2019, I signed Executive Order 13890 (Protecting and Improving Medicare for Our Nation's Seniors) \[42 U.S.C. 1395 note prec.\], to modernize the Medicare program and continue its viability. According to CMS estimates, seniors have saved $2.65 billion in lower Medicare premiums under my Administration while benefiting from more choices. For example, the average monthly Medicare Advantage premium has declined an estimated 28 percent since 2017, and Medicare Advantage has included about 1,200 more plan options since 2018. New Medicare Advantage supplemental benefits have helped seniors stay safe in their homes, improved respite care for caregivers, and provided transportation, more in-home support services and assistance, and non-opioid pain management alternatives like therapeutic massages. Medicare Part D premiums are at their lowest level in their history, with the average basic premium declining 13.5 percent since 2016.
+I have protected the viability of the Medicare program. For example, on February 9, 2018, I signed into law the repeal of the Independent Payment AdvisoryBoard, which would have been a group of unelected bureaucrats created by the ACA, designed to be insulated from the will of America's elected leaders for the purpose of cutting the spending of this important program. On October 3, 2019, I signed Executive Order 13890 (Protecting and Improving Medicare for Our Nation's Seniors) \[42 U.S.C. 1395 note prec.\], to modernize the Medicare program and continue its viability. According to CMS estimates, seniors have saved $2.65 billion in lower Medicare premiums under my Administration while benefiting from more choices. For example, the average monthly Medicare Advantage premium has declined an estimated 28 percent since 2017, and Medicare Advantage has included about 1,200 more plan options since 2018. New Medicare Advantage supplemental benefits have helped seniors stay safe in their homes, improved respite care for caregivers, and provided transportation, more in-home support services and assistance, and non-opioid pain management alternatives like therapeutic massages. Medicare Part D premiums are at their lowest level in their history, with the average basic premium declining 13.5 percent since 2016.
 
 My Administration has directed unprecedented attention on the substance use disorder epidemic, with a focus on reducing overdose deaths from prescription opioids and the deadly synthetic opioid fentanyl. On October 24, 2018, I signed the Substance Use-Disorder Prevention that Promotes Opioid Recovery and Treatment for Patients and Communities Act \[Pub. L. 115–271\], enabling the expenditure of billions of dollars of funding for important programs to support prevention and recovery. My Administration has provided approximately $22.5 billion from 2017 to 2020 to address the opioid crisis and improve access to prevention, treatment, and recovery services. We saw a 34 percent decrease in total opioids dispensed monthly by pharmacies between 2017 and 2019, an approximate increase of 64 percent in the number of Americans who receive medication-assisted treatment for opioid use disorder since 2016, and a 484 percent increase in naloxone prescriptions since 2017. Data show that drug overdose deaths fell nationwide for the first time in decades between 2017 and 2018, with many of the hardest-hit States leading the way.
 
@@ -346,7 +282,7 @@ Investments my Administration has made in scientific research will help tackle s
 
 On May 30, 2018, I signed the Trickett Wendler, Frank Mongiello, Jordan McLinn, and Matthew Bellina Right to Try Act of 2017 \[Pub. L. 115–176, see 21 U.S.C. 360bbb–0a\], which gives terminally ill patients the right to access certain treatments without being blocked by onerous Federal regulations.
 
-In response to the COVID–19 pandemic, my Administration launched Operation Warp Speed, a groundbreaking effort of the Federal Government toengage with the private sector to quickly develop and deliver safe and effective vaccines, therapeutics, and diagnostics for COVID–19. On August 6, 2020, I signed Executive Order 13944 (Combating Public Health Emergencies and Strengthening National Security by Ensuring Essential Medicines, Medical Countermeasures, and Critical Inputs Are Made in the United States) \[42 U.S.C. 247d–6b note\], to protect Americans through reduced dependence on foreign manufacturers for essential medicines and other items and to strengthen the Nation's Public Health Industrial Base.
+In response to the COVID–19 pandemic, my Administration launched Operation Warp Speed, a groundbreaking effort of the Federal Government to engage with the private sector to quickly develop and deliver safe and effective vaccines, therapeutics, and diagnostics for COVID–19. On August 6, 2020, I signed Executive Order 13944 (Combating Public Health Emergencies and Strengthening National Security by Ensuring Essential Medicines, Medical Countermeasures, and Critical Inputs Are Made in the United States) \[42 U.S.C. 247d–6b note\], to protect Americans through reduced dependence on foreign manufacturers for essential medicines and other items and to strengthen the Nation's Public Health Industrial Base.
 
 Taken together, these extraordinary reforms constitute an ongoing effort to improve American healthcare by putting patients first and delivering continuous innovation. And this effort will continue to succeed because of my Administration's commitment to delivering great healthcare with more choices, better care, and lower costs for all Americans.
 
@@ -387,6 +323,48 @@ Sec. 6. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 14009. Strengthening Medicaid and the Affordable Care Act
+
+Ex. Ord. No. 14009, Jan. 28, 2021, 86 F.R. 7793, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. In the 10 years since its enactment, the \[Patient Protection and\] Affordable Care Act (ACA) \[Pub. L. 111–148\] has reduced the number of uninsured Americans by more than 20 million, extended critical consumer protections to more than 100 million people, and strengthened and improved the Nation's healthcare system. At the same time, millions of people who are potentially eligible for coverage under the ACA or other laws remain uninsured, and obtaining insurance benefits is more difficult than necessary. For these reasons, it is the policy of my Administration to protect and strengthen Medicaid and the ACA and to make high-quality healthcare accessible and affordable for every American.
+
+Sec. 2. <i>Special Enrollment Period</i>. The coronavirus disease 2019 (COVID–19) pandemic has triggered a historic public health and economic crisis. In January of 2020, as the COVID–19 pandemic was spreading, the Secretary of Health and Human Services declared a public health emergency. In March of 2020, the President declared a national emergency. Although almost a year has passed, the emergency continues—over 5 million Americans have contracted the disease in January 2021, and thousands are dying every week. Over 30 million Americans remain uninsured, preventing many from obtaining necessary health services and treatment. Black, Latino, and Native American persons are more likely to be uninsured, and communities of color have been especially hard hit by both the COVID–19 pandemic and the economic downturn. In light of the exceptional circumstances caused by the ongoing COVID–19 pandemic, the Secretary of Health and Human Services shall consider establishing a Special Enrollment Period for uninsured and under-insured Americans to seek coverage through the Federally Facilitated Marketplace, pursuant to existing authorities, including sections 18031 and 18041 of title 42, United States Code, and section 155.420(d)(9) of title 45, Code of Federal Regulations, and consistent with applicable law.
+
+Sec. 3. <i>Immediate Review of Agency Actions</i>. (a) The Secretary of the Treasury, the Secretary of Labor, the Secretary of Health and Human Services, and the heads of all other executive departments and agencies with authorities and responsibilities related to Medicaid and the ACA (collectively, heads of agencies) shall, as soon as practicable, review all existing regulations, orders, guidance documents, policies, and any other similar agency actions (collectively, agency actions) to determine whether such agency actions are inconsistent with the policy set forth in section 1 of this order. As part of this review, the heads of agencies shall examine the following:
+
+&emsp;(i) policies or practices that may undermine protections for people with pre-existing conditions, including complications related to COVID–19, under the ACA;
+
+&emsp;(ii) demonstrations and waivers, as well as demonstration and waiver policies, that may reduce coverage under or otherwise undermine Medicaid or the ACA;
+
+&emsp;(iii) policies or practices that may undermine the Health Insurance Marketplace or the individual, small group, or large group markets for health insurance in the United States;
+
+&emsp;(iv) policies or practices that may present unnecessary barriers to individuals and families attempting to access Medicaid or ACA coverage, including for mid-year enrollment; and
+
+&emsp;(v) policies or practices that may reduce the affordability of coverage or financial assistance for coverage, including for dependents.
+
+(b) Heads of agencies shall, as soon as practicable and as appropriate and consistent with applicable law, consider whether to suspend, revise, or rescind—and, as applicable, publish for notice and comment proposed rules suspending, revising, or rescinding—those agency actions identified as inconsistent with the policy set forth in section 1 of this order.
+
+(c) Heads of agencies shall, as soon as practicable and as appropriate and consistent with applicable law, consider whether to take any additional agency actions to more fully enforce the policy set forth in section 1 of this order.
+
+Sec. 4. <i>Revocation of Certain Presidential Actions and Review of Associated Agency Actions</i>. (a) Executive Order 13765 of January 20, 2017 (Minimizing the Economic Burden of the Patient Protection and Affordable Care Act Pending Repeal) \[formerly set out above\], and Executive Order 13813 of October 12, 2017 (Promoting Healthcare Choice and Competition Across the United States) \[formerly set out above\], are revoked.
+
+(b) As part of the review required under section 3 of this order, heads of agencies shall identify existing agency actions related to or arising from Executive Orders 13765 and 13813. Heads of agencies shall, as soon as practicable, consider whether to suspend, revise, or rescind—and, as applicable, publish for notice and comment proposed rules suspending, revising, or rescinding—any such agency actions, as appropriate and consistent with applicable law and the policy set forth in section 1 of this order.
+
+Sec. 5. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+&emsp;(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+&emsp;(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> So in original. Probably should be "from".</i>
 

@@ -18,7 +18,7 @@ In this chapter—
 
 &emsp;(3) "local government" means a unit of government in a State, a local public authority, a special district, an intrastate district, a council of governments, a sponsor group representative organization, an interstate entity, or another instrumentality of a local government.
 
-&emsp;(4) "other recipient" means a person or recipient (except a State or local government) authorized to receive United States Government assistance or procurement contracts andincludes a charitable or educational institution.
+&emsp;(4) "other recipient" means a person or recipient (except a State or local government) authorized to receive United States Government assistance or procurement contracts and includes a charitable or educational institution.
 
 &emsp;(5) "State" means a State of the United States, the District of Columbia, a territory or possession of the United States, an agency or instrumentality of a State, and a multi-State, regional, or interstate entity having governmental duties and powers.
 

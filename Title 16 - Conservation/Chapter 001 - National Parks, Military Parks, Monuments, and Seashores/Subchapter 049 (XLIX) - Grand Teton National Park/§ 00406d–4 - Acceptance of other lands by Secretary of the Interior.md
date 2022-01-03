@@ -10,6 +10,8 @@ Containing seventy-eight and ninety-three one-hundredths acres, more or less.
 
 (Sept. 14, 1950, ch. 950, §7, 64 Stat. 852.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Repeal of Inconsistent Laws
 
 Repeal of laws inconsistent with act Sept. 14, 1950, see note set out under section 406d–1 of this title.

@@ -18,6 +18,8 @@
 
 (Added Pub. L. 103–337, div. A, title XVI, §1662(i)(1), Oct. 5, 1994, 108 Stat. 2997; amended Pub. L. 105–85, div. A, title V, §516, Nov. 18, 1997, 111 Stat. 1733; Pub. L. 105–261, div. A, title X, §1069(a)(8), Oct. 17, 1998, 112 Stat. 2136.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 1163(a) of this title, prior to repeal by Pub. L. 103–337, §1662(i)(2).
@@ -30,13 +32,15 @@ Provisions similar to those in this section were contained in section 1163(a) of
 
 Subsec. (b)(1). Pub. L. 105–85, §516(b)(1), (2), substituted "A" for "to a" and "title." for "title;".
 
-Subsec. (b)(2). Pub. L. 105–85, §516(b)(3), which directed substitution of a period for "; and" at end of par. (2), could not be executed because "; and" did not appear in par. (2).
+Subsec. (b)(2). Pub. L. 105–85, §516(b)(3), which directed substitution of a period for "; and" at end ofpar. (2), could not be executed because "; and" did not appear in par. (2).
 
 Pub. L. 105–85, §516(b)(1), substituted "A" for "to a".
 
 Subsec. (b)(3). Pub. L. 105–85, §516(b)(1), substituted "A" for "to a".
 
 Subsec. (b)(4). Pub. L. 105–85, §516(a)(2), added par. (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -18,7 +18,7 @@ R.S. §327, contained after the word "Secretary" the following "who shall be ent
 
 <b>1959</b>—Pub. L. 86–251 provided for the appointment of four Deputy Comptrollers instead of one, the designation of one as the First Deputy, the fixing of salaries, increase in surety bond requirement from $50,000 to $100,000 and order of succession.
 
-#### <b>Statutory Notes and Related Subsidiaries</b>
+#### <b>Executive Documents</b>
 
 #### Exception as to Transfer of Functions
 

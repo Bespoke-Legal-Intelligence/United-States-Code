@@ -32,7 +32,7 @@ The Secretary, acting through the Assistant Secretary for Mental Health and Subs
 
 #### (3) Consideration
 
-&emsp;In awarding grants under this section, the Secretary shall take into consideration the extent of the need of the applicant, including theincidence and prevalence of suicide in the State and among the populations of focus, including rates of suicide determined by the Centers for Disease Control and Prevention for the State or population of focus.
+&emsp;In awarding grants under this section, the Secretary shall take into consideration the extent of the need of the applicant, including the incidence and prevalence of suicide in the State and among the populations of focus, including rates of suicide determined by the Centers for Disease Control and Prevention for the State or population of focus.
 
 #### (4) Consultation
 
@@ -48,7 +48,7 @@ In providing assistance under a grant or cooperative agreement under this sectio
 
 &emsp;(3) employ or include in their applications a commitment to evaluate youth suicide early intervention and prevention practices and strategies adapted to the local community;
 
-&emsp;(4) provide timely referrals for appropriate community-based mental health care and treatment of youth who are at risk for suicide in child-serving settings and agencies;
+&emsp;(4) provide timely referrals for appropriate community-based mental health care andtreatment of youth who are at risk for suicide in child-serving settings and agencies;
 
 &emsp;(5) provide immediate support and information resources to families of youth who are at risk for suicide;
 
@@ -92,7 +92,7 @@ Not less than 85 percent of grant funds received under this section shall be use
 
 &emsp;&emsp;(D) youth who are at risk for suicide, who have survived suicide attempts, or who are currently receiving care from early intervention services;
 
-&emsp;&emsp;(E) families and friends of youth who are at risk for suicide, who have survived suicide attempts, who are currently receiving carefrom early intervention and prevention services, or who have completed suicide;
+&emsp;&emsp;(E) families and friends of youth who are at risk for suicide, who have survived suicide attempts, who are currently receiving care from early intervention and prevention services, or who have completed suicide;
 
 &emsp;&emsp;(F) qualified professionals who possess the specialized knowledge, skills, experience, and relevant attributes needed to serve youth at risk for suicide and their families; and
 
@@ -174,7 +174,9 @@ In this section:
 
 For the purpose of carrying out this section, there are authorized to be appropriated $30,000,000 for each of fiscal years 2018 through 2022.
 
-(July 1, 1944, ch. 373, title V, §520E, as added Pub. L. 108–355, §3(c), Oct. 21, 2004, 118 Stat. 1409; amended Pub. L. 114–95, title IX, §9215(kkk)(3), Dec. 10, 2015, 129 Stat. 2187; Pub. L. 114–255, div. B, title VI, §6001(c)(1), title IX, §9008(b), Dec. 13,2016, 130 Stat. 1203, 1242; Pub. L. 116–260, div. BB, title III, §315, Dec. 27, 2020, 134 Stat. 2932.)
+(July 1, 1944, ch. 373, title V, §520E, as added Pub. L. 108–355, §3(c), Oct. 21, 2004, 118 Stat. 1409; amended Pub. L. 114–95, title IX, §9215(kkk)(3), Dec. 10, 2015, 129 Stat. 2187; Pub. L. 114–255, div. B, title VI, §6001(c)(1), title IX, §9008(b), Dec. 13, 2016, 130 Stat. 1203, 1242; Pub. L. 116–260, div. BB, title III, §315, Dec. 27, 2020, 134 Stat. 2932.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -212,6 +214,8 @@ Subsec. (m). Pub. L. 114–255, §9008(b)(4), added subsec. (m) and struck out f
 
 <b>2015</b>—Subsec. (l)(2)(C). Pub. L. 114–95 substituted "elementary school or secondary school (as such terms are defined in section 8101 of the Elementary and Secondary Education Act of 1965)" for "elementary or secondary school (as such terms are defined in section 9101 of the Elementary and Secondary Education Act of 1965)".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of Title 20, Education.
@@ -244,7 +248,7 @@ Pub. L. 108–355, §2, Oct. 21, 2004, 118 Stat. 1404, provided that: "Congress 
 
 &emsp;"(12) There is clear evidence of an increased incidence of depression among college students. According to a survey described in the Chronicle of Higher Education (February 1, 2002), depression among freshmen has nearly doubled (from 8.2 percent to 16.3 percent). Without treatment, researchers recently noted that 'depressed adolescents are at risk for school failure, social isolation, promiscuity, self-medication with drugs and alcohol, and suicide—now the third leading cause of death among 10–24 year olds.'.
 
-&emsp;"(13) Researchers who conducted the study 'Changes in Counseling Center Client ProblemsAcross 13 Years' (1989–2001) at Kansas State University stated that 'students are experiencing more stress, more anxiety, more depression than they were a decade ago.' (The Chronicle of Higher Education, February 14, 2003).
+&emsp;"(13) Researchers who conducted the study 'Changes in Counseling Center Client Problems Across 13 Years' (1989–2001) at Kansas State University stated that 'students are experiencing more stress, more anxiety, more depression than they were a decade ago.' (The Chronicle of Higher Education, February 14, 2003).
 
 &emsp;"(14) According to the 2001 National Household Survey on Drug Abuse, 20 percent of full-time undergraduate college students use illicit drugs.
 

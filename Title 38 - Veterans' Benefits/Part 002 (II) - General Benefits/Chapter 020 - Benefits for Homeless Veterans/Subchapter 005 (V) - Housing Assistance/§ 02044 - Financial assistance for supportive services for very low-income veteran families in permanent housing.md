@@ -86,7 +86,7 @@ Application for Financial Assistance.—(1) An eligible entity seeking financial
 
 (d)
 
-Technical Assistance.—(1) The Secretary shall provide training and technical assistance to participating eligible entities regarding the planning, development, and provision of supportive services to very low-income veteran families occupying permanent housing, through the Technical Assistance grants program in section 2064 of this title.
+Technical Assistance.—(1) The Secretary shall provide training and technical assistanceto participating eligible entities regarding the planning, development, and provision of supportive services to very low-income veteran families occupying permanent housing, through the Technical Assistance grants program in section 2064 of this title.
 
 (2) The Secretary may provide the training described in paragraph (1) directly or through grants or contracts with appropriate public or nonprofit private entities.
 
@@ -154,7 +154,7 @@ Definitions.—In this section:
 
 &emsp;(7) The term "veteran family" includes a veteran who is a single person and a family in which the head of household or the spouse of the head of household is a veteran.
 
-(Added Pub. L. 110–387, title VI, §604(b)(1), Oct. 10, 2008, 122 Stat. 4132; amended Pub. L. 111–275,title X, §1001(e), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 112–37, §12, Oct. 5, 2011, 125 Stat. 397; Pub. L. 112–154, title III, §305(c), Aug. 6, 2012, 126 Stat. 1187; Pub. L. 113–37, §2(f)(2), Sept. 30, 2013, 127 Stat. 524; Pub. L. 113–175, title II, §206, Sept. 26, 2014, 128 Stat. 1904; Pub. L. 114–58, title III, §304, title VI, §601(9), Sept. 30, 2015, 129 Stat. 534, 538; Pub. L. 114–228, title III, §305, Sept. 29, 2016, 130 Stat. 939; Pub. L. 115–62, title III, §304, Sept. 29, 2017, 131 Stat. 1163; Pub. L. 115–251, title I, §145, Sept. 29, 2018, 132 Stat. 3170; Pub. L. 116–61, §4, Sept. 30, 2019, 133 Stat. 1116; Pub. L. 116–159, div. E, title III, §5305, Oct. 1, 2020, 134 Stat. 751.)
+(Added Pub. L. 110–387, title VI, §604(b)(1), Oct. 10, 2008, 122 Stat. 4132; amended Pub. L. 111–275, title X, §1001(e), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 112–37, §12, Oct. 5, 2011, 125 Stat. 397; Pub. L. 112–154, title III, §305(c), Aug. 6, 2012, 126 Stat. 1187; Pub. L. 113–37, §2(f)(2), Sept. 30, 2013, 127 Stat. 524; Pub. L. 113–175, title II, §206, Sept. 26, 2014, 128 Stat. 1904; Pub. L. 114–58, title III, §304, title VI, §601(9), Sept. 30, 2015, 129 Stat. 534, 538; Pub. L. 114–228, title III, §305, Sept. 29, 2016, 130 Stat. 939; Pub. L. 115–62, title III, §304, Sept. 29, 2017, 131 Stat. 1163; Pub. L. 115–251, title I, §145, Sept. 29, 2018, 132 Stat. 3170; Pub. L. 116–61, §4, Sept. 30, 2019, 133 Stat. 1116; Pub. L. 116–159, div. E, title III, §5305, Oct. 1, 2020, 134 Stat. 751.)
 
 #### <b>Editorial Notes</b>
 

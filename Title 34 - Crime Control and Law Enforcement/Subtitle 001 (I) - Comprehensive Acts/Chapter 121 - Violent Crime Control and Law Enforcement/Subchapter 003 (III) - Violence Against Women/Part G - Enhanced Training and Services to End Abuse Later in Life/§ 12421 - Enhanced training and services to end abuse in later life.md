@@ -76,7 +76,7 @@ In this section—
 
 #### (4) Underserved populations
 
-&emsp;In making grants under this section, the Attorney General shall give priority to proposalsproviding services to culturally specific and underserved populations.
+&emsp;In making grants under this section, the Attorney General shall give priority to proposals providing services to culturally specific and underserved populations.
 
 #### (5) Authorization of appropriations
 

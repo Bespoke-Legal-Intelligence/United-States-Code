@@ -2,7 +2,7 @@
 
 (a)
 
-Review of Report.—Upon receipt of the report of a promotion board submitted under section 14109(a) of this title, the Secretary of the military department concerned shall review the report to determine whether the board has acted contrary to law or regulation or to guidelines furnished the board under section 14107(a) of this title. Following that review, unless the Secretary concerned makes a determination as described in subsection (b), the Secretary shall submit the report as required by section 14111 of this title.
+Review of Report.—Upon receipt of the report of a promotion board submitted under section 14109(a) of this title, the Secretary of the military department concerned shall review thereport to determine whether the board has acted contrary to law or regulation or to guidelines furnished the board under section 14107(a) of this title. Following that review, unless the Secretary concerned makes a determination as described in subsection (b), the Secretary shall submit the report as required by section 14111 of this title.
 
 (b)
 
@@ -10,9 +10,13 @@ Return of Report for Further Proceedings.—If, on the basis of a review of the 
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2929.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 5898(a) of this title, prior to repeal by Pub. L. 103–337, §1629(b)(2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

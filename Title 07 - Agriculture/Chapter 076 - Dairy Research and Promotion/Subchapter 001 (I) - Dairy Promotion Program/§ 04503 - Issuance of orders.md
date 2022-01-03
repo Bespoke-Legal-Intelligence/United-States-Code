@@ -2,7 +2,7 @@
 
 #### (a) Notice and opportunity for public comment
 
-During the period beginning with November 29, 1983, and ending thirty days after receipt of a proposal for an initial dairy products promotion and research order, the Secretary shall publish such proposed order and give due notice and opportunity for public comment upon the proposed order. The proposal for an order may be submitted by an organization certified under section 4505 of this title or by any interestedperson affected by the provisions of this subchapter.
+During the period beginning with November 29, 1983, and ending thirty days after receipt of a proposal for an initial dairy products promotion and research order, the Secretary shall publish such proposed order and give due notice and opportunity for public comment upon the proposed order. The proposal for an order may be submitted by an organization certified under section 4505 of this title or by any interested person affected by the provisions of this subchapter.
 
 #### (b) Effective date of orders
 
@@ -17,6 +17,8 @@ The Secretary may, from time to time, amend a dairy products promotion and resea
 The Secretary, in consultation with the United States Trade Representative, shall ensure that the order is implemented in a manner consistent with the international trade obligations of the Federal Government.
 
 (Pub. L. 98–180, title I, §112, Nov. 29, 1983, 97 Stat. 1137; Pub. L. 107–171, title I, §1505(g), May 13, 2002, 116 Stat. 209.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

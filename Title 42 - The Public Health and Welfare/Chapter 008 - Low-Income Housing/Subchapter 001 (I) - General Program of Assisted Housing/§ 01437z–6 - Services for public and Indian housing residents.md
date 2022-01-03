@@ -12,7 +12,7 @@ Grantees under this section may use such amounts only for activities on or near 
 
 &emsp;(2) the provision of service coordinators or a congregate housing services program for elderly individuals, elderly disabled individuals, nonelderly disabled individuals, or temporarily disabled individuals;
 
-&emsp;(3) the provision of services related to work readiness, including education, job trainingand counseling, job search skills, business development training and planning, tutoring, mentoring, adult literacy, computer access, personal and family counseling, health screening, work readiness health services, transportation, and child care;
+&emsp;(3) the provision of services related to work readiness, including education, job training and counseling, job search skills, business development training and planning, tutoring, mentoring, adult literacy, computer access, personal and family counseling, health screening, work readiness health services, transportation, and child care;
 
 &emsp;(4) economic and job development, including employer linkages and job placement, and the start-up of resident microenterprises, community credit unions, and revolving loan funds, including the licensing, bonding, and insurance needed to operate such enterprises;
 
@@ -54,6 +54,8 @@ To the extent that there are a sufficient number of qualified applications for a
 
 (Sept. 1, 1937, ch. 896, title I, §34, as added Pub. L. 105–276, title V, §538(a), Oct. 21, 1998, 112 Stat. 2592; amended Pub. L. 106–377, §1(a)(1) \[title II, §221(a)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–29.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsecs. (a) and (b), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, as amended, which is classified principally to chapter 43 (§4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
@@ -69,6 +71,8 @@ Subsec. (b). Pub. L. 106–377, §1(a)(1) \[title II, §221(a)(3)(A), (B)\], in 
 Subsec. (b)(1). Pub. L. 106–377, §1(a)(1) \[title II, §221(a)(3)(C)\], inserted "or residents of housing assisted under such Act" after "public housing project".
 
 Subsec. (d)(2). Pub. L. 106–377, §1(a)(1) \[title II, §221(a)(4)\], substituted "State, local, or tribal government" for "State or local government".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

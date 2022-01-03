@@ -54,7 +54,7 @@ In addition to the adjustments required by subsection (b), the Commission shall 
 
 Moneys received from application fees established under this section shall be deposited in the general fund of the Treasury.
 
-(June 19, 1934, ch. 652, title I, §8, as added Pub. L. 99–272, title V, §5002(e), Apr. 7, 1986, 100 Stat. 118; amended Pub. L. 100–594, §5, Nov. 3, 1988, 102Stat. 3021; Pub. L. 101–239, title III, §3001(a), (b), Dec. 19, 1989, 103 Stat. 2124, 2131; Pub. L. 102–538, title II, §209, Oct. 27, 1992, 106 Stat. 3544; Pub. L. 103–66, title VI, §6003(a)(2), Aug. 10, 1993, 107 Stat. 401; Pub. L. 103–414, title III, §§302, 303(a)(3), (4), Oct. 25, 1994, 108 Stat. 4294; Pub. L. 115–141, div. P, title I, §102(a), Mar. 23, 2018, 132 Stat. 1082.)
+(June 19, 1934, ch. 652, title I, §8, as added Pub. L. 99–272, title V, §5002(e), Apr. 7, 1986, 100 Stat. 118; amended Pub. L. 100–594, §5, Nov. 3, 1988, 102 Stat. 3021; Pub. L. 101–239, title III, §3001(a), (b), Dec. 19, 1989, 103 Stat. 2124, 2131; Pub. L. 102–538, title II, §209, Oct. 27, 1992, 106 Stat. 3544; Pub. L. 103–66, title VI, §6003(a)(2), Aug. 10, 1993, 107 Stat. 401; Pub. L. 103–414, title III, §§302, 303(a)(3), (4), Oct. 25, 1994, 108 Stat. 4294; Pub. L. 115–141, div. P, title I, §102(a), Mar. 23, 2018, 132 Stat. 1082.)
 
 #### <b>Editorial Notes</b>
 

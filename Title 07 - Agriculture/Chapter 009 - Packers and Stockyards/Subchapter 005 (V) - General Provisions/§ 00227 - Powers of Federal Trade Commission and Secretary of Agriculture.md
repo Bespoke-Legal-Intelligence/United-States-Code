@@ -8,7 +8,7 @@ The Federal Trade Commission shall have power and jurisdiction over any matter i
 
 &emsp;(1) When the Secretary in the exercise of his duties requests of the Commission that it make investigations and reports in any case.
 
-&emsp;(2) In any investigation of, or proceeding for the prevention of, an alleged violation of any Act administered by the Commission, arising out of acts or transactions involving meat, meat food products, or livestock products in unmanufactured form, if the Commission determines that effective exercise of its power or jurisdiction with respect to retail sales of any such commodities is or will be impaired by the absence of power or jurisdiction over all acts or transactions involving such commodities in such investigation or proceeding. In order to avoid unnecessary duplication of effort by the Government and burdens upon the industry,the Commissioner shall notify the Secretary of such determination, the reasons therefor, and the acts or transactions involved, and shall not exercise power or jurisdiction with regard to acts or transactions (other than retail sales) involving such commodities if the Secretary within ten days from the date of receipt of the notice notifies the Commission that there is pending in his Department an investigation of, or proceeding for the prevention of, an alleged violation of this chapter involving the same subject matter.
+&emsp;(2) In any investigation of, or proceeding for the prevention of, an alleged violation of any Act administered by the Commission, arising out of acts or transactions involving meat, meat food products, or livestock products in unmanufactured form, if the Commission determines that effective exercise of its power or jurisdiction with respect to retail sales of any such commodities is or will be impaired by the absence of power or jurisdiction over all acts or transactions involving such commodities in such investigation or proceeding. In order to avoid unnecessary duplication of effort by the Government and burdens upon the industry, the Commissioner shall notify the Secretary of such determination, the reasons therefor, and the acts or transactions involved, and shall not exercise power or jurisdiction with regard to acts or transactions (other than retail sales) involving such commodities if the Secretary within ten days from the date of receipt of the notice notifies the Commission that there is pending in his Department an investigation of, or proceeding for the prevention of, an alleged violation of this chapter involving the same subject matter.
 
 &emsp;(3) Over all transactions in commerce in margarine, oleomargarine, or poultry products and over retail sales of meat, meat food products and livestock products in unmanufactured form.
 
@@ -29,6 +29,8 @@ The Secretary of Agriculture shall exercise jurisdiction over poultry products o
 The Secretary of Agriculture and the Federal Trade Commission shall include in their respective annual reports information with respect to the administration of subsections (b), (d), and (e) of this section.
 
 (Aug. 15, 1921, ch. 64, title IV, §406, 42 Stat. 169; Pub. L. 85–909, §1(2), Sept. 2, 1958, 72 Stat. 1749; Pub. L. 100–173, §7, Nov. 23, 1987, 101 Stat. 919; Pub. L. 102–237, title X, §1008(2), Dec. 13, 1991, 105 Stat. 1898.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -52,13 +54,11 @@ Subsec. (f). Pub. L. 100–173, §7(3), (5), redesignated former subsec. (e) as 
 
 <b>1958</b>—Pub. L. 85–909 substituted subsecs. (b) to (e) for former provisions providing that Federal Trade Commission shall have no power or jurisdiction over matters within jurisdiction of Secretary of Agriculture except when Secretary requests Commission to make investigations and reports in any case, which were incorporated in subsecs. (b)(1) and (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1987 Amendment
 
 Amendment by Pub. L. 100–173 effective 90 days after Nov. 23, 1987, see section 12 of Pub. L. 100–173, set out as a note under section 182 of this title.
-
-#### Transfer of Functions
-
-Executive and administrative functions of Federal Trade Commission, with certain reservations, transferred to Chairman of such Commission by 1950 Reorg. Plan No. 8, §1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Construction of 1987 Amendments
 
@@ -77,4 +77,10 @@ General Rule.—The amendments made by this Act \[see Short Title of 1987 Amendm
 "(b)
 
 Secretary's Authority.—Subsection (a) shall not be construed to limit or otherwise affect the authority of the Secretary of Agriculture under section 406(e), as amended, of the Packers and Stockyards Act, 1921 \[7 U.S.C. 227(e)\]."
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Executive and administrative functions of Federal Trade Commission, with certain reservations, transferred to Chairman of such Commission by 1950 Reorg. Plan No. 8, §1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out in the Appendix to Title 5, Government Organization and Employees.
 

@@ -2,6 +2,8 @@
 
 Section, added Pub. L. 99–514, title VIII, §811(a), Oct. 22, 1986, 100 Stat. 2365; amended Pub. L. 100–647, title I, §1008(f)(1)–(5), Nov. 10, 1988, 102 Stat. 3441, 3442, related to treatment of certain indebtedness as payment on installment obligations.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of Repeal
 
 Repeal applicable to dispositions in taxable years beginning after Dec. 31, 1987, with special rules for dealers and non-dealers, and coordination with Tax Reform Act of 1986, see section 10202(e)(1)–(3), (5) of Pub. L. 100–203, set out as a note under section 453 of this title.
@@ -26,7 +28,7 @@ Exception for certain obligations.—In applying the amendments made by this sec
 
 &emsp;"(A) 125/8 percent subordinated debentures with a total face amount of $175,000,000 issued pursuant to a trust indenture dated as of September 1, 1985.
 
-&emsp;"(B) A revolving credit term loan in the maximum amount of $130,000,000 made pursuant to a revolvingcredit and security agreement dated as of September 6, 1985, payable in various stages with final payment due on August 31, 1992.
+&emsp;"(B) A revolving credit term loan in the maximum amount of $130,000,000 made pursuant to a revolving credit and security agreement dated as of September 6, 1985, payable in various stages with final payment due on August 31, 1992.
 
 > This paragraph shall also apply to indebtedness which replaces indebtedness described in this paragraph if such indebtedness does not exceed the amount and maturity of the indebtedness it replaces.
 

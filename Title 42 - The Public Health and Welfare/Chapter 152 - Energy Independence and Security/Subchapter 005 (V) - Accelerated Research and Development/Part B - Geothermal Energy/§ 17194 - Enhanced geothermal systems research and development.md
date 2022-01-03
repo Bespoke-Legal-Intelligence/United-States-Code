@@ -66,7 +66,7 @@ In collaboration with industry partners, institutions of higher education, and t
 
 #### (A) Initial duration
 
-&emsp;&emsp;FORGE sites selected under paragraph (3) shall operate for an initial term of not morethan 7 years after the date on which site operation begins.
+&emsp;&emsp;FORGE sites selected under paragraph (3) shall operate for an initial term of not more than 7 years after the date on which site operation begins.
 
 #### (B) Performance metrics
 
@@ -148,6 +148,8 @@ In collaboration with industry partners, institutions of higher education, and t
 
 (Pub. L. 110–140, title VI, §615, Dec. 19, 2007, 121 Stat. 1680; Pub. L. 116–260, div. Z, title III, §3002(d), Dec. 27, 2020, 134 Stat. 2489.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 December 27, 2020, referred to in subsecs. (c)(4) and (d)(1), was in the original "the date of enactment of this Act" and "he date of enactment of this section", respectively, and were translated as meaning the date of enactment of Pub. L. 116–260, which was approved Dec. 27, 2020.
@@ -155,6 +157,8 @@ December 27, 2020, referred to in subsecs. (c)(4) and (d)(1), was in the origina
 #### Amendments
 
 <b>2020</b>—Pub. L. 116–260 amended section generally. Prior to amendment, section related to enhanced geothermal systems research and development.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

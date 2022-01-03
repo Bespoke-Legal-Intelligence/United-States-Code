@@ -94,7 +94,9 @@ Jan. 6, 1983, Pub. L. 97–424, §310, 96 Stat. 2151.
 
 This \[deletion of the last sentence of subsection (a)\] is necessary because section 111(b) of the Congressional Reports Elimination Act of 1982 (Pub. L. 97–375, 96 Stat. 1821) repealed section 602 of the Regional Rail Reorganization Act of 1973 (Pub. L. 93–236, 87 Stat. 1022), which was restated as section 308(a) (last sentence) of title 49 by section 1 of the Act of January 12, 1983 (Pub. L. 97–449, 96 Stat. 2413).
 
-In subsection (e)(1), the words "January of each even-numbered year" are substituted for "January of 1984and in January of every second year thereafter" to eliminate unnecessary words.
+In subsection (e)(1), the words "January of each even-numbered year" are substituted for "January of 1984 and in January of every second year thereafter" to eliminate unnecessary words.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -107,6 +109,122 @@ In subsection (e)(1), the words "January of each even-numbered year" are substit
 Subsec. (a). Pub. L. 98–216, §2(1)(A)(ii), struck out requirement that the report include a complete statement on the effectiveness of the United States Railway Association and the Consolidated Rail Corporation in carrying out the purposes of the Regional Rail Reorganization Act of 1973.
 
 Subsecs. (d), (e). Pub. L. 98–216, §2(1)(A)(iii), added subsecs. (d) and (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Annual Report
+
+Pub. L. 117–58, div. A, title I, §11319, Nov. 15, 2021, 135 Stat. 545, provided that:
+
+"(a)
+
+Definition of Covered Project.—In this section, the term 'covered project' means a project or activity carried out with funds provided by the Department \[of Transportation\], including a project carried out under title 23 or 49, United States Code—
+
+&emsp;"(1) that is more than 5 years behind schedule; or
+
+&emsp;"(2) for which the total amount spent on the project or activity is not less than $1,000,000,000 more than the original cost estimate for the project or activity.
+
+"(b)
+
+Requirement.—Not later than 1 year after the date of enactment of this Act \[Nov. 15, 2021\], and annually thereafter, the Secretary \[of Transportation\] shall submit to Congress a report on covered projects of theDepartment, which shall include, for each covered project—
+
+&emsp;"(1) a brief description of the covered project, including—
+
+&emsp;&emsp;"(A) the purpose of the covered project;
+
+&emsp;&emsp;"(B) each location in which the covered project is carried out;
+
+&emsp;&emsp;"(C) the contract or award number of the covered project, if applicable;
+
+&emsp;&emsp;"(D) the year in which the covered project was initiated;
+
+&emsp;&emsp;"(E) the Federal share of the total cost of the covered project; and
+
+&emsp;&emsp;"(F) each primary contractor, subcontractor, grant recipient, and subgrantee recipient of the covered project;
+
+&emsp;"(2) an explanation of any change to the original scope of the covered project, including by the addition or narrowing of the initial requirements of the covered project;
+
+&emsp;"(3) the original expected date for completion of the covered project;
+
+&emsp;"(4) the current expected date for completion of the covered project;
+
+&emsp;"(5) the original cost estimate for the covered project, as adjusted to reflect increases in the Consumer Price Index for All Urban Consumers, as published by the Bureau of Labor Statistics;
+
+&emsp;"(6) the current cost estimate for the covered project, as adjusted to reflect increases in the Consumer Price Index for All Urban Consumers, as published by the Bureau of Labor Statistics;
+
+&emsp;"(7) an explanation for a delay in completion or an increase in the original cost estimate for the covered project, including, where applicable, any impact of insufficient or delayed appropriations; and
+
+&emsp;"(8) the amount of and rationale for any award, incentive fee, or other type of bonus, if any, awarded for the covered project."
+
+#### Rulemaking Report
+
+Pub. L. 117–58, div. B, title IV, §24210, Nov. 15, 2021, 135 Stat. 824, provided that:
+
+"(a)
+
+Definition of Covered Rulemaking.—In this section, the term 'covered rulemaking' means a regulation or rulemaking that—
+
+&emsp;"(1) has not been finalized by the date on which the relevant notification is submitted under subsection (b); and
+
+&emsp;"(2) relates to—
+
+&emsp;&emsp;"(A) section 30120A of title 49, United States Code;
+
+&emsp;&emsp;"(B) section 30166(o) of title 49, United States Code;
+
+&emsp;&emsp;"(C) section 30172 of title 49, United States Code;
+
+&emsp;&emsp;"(D) section 32302(c) of title 49, United States Code;
+
+&emsp;&emsp;"(E) a defect reporting requirement under section 32302(d) of title 49, United States Code;
+
+&emsp;&emsp;"(F) subsections (b) and (c) of section 32304A of title 49, United States Code;
+
+&emsp;&emsp;"(G) the tire pressure monitoring standards required under section 24115 of the FAST Act (49 U.S.C. 30123 note; Public Law 114–94);
+
+&emsp;&emsp;"(H) the amendment made by section 24402 of the FAST Act (129 Stat. 1720; Public Law 114–94) to section 30120(g)(1) of title 49, United States Code;
+
+&emsp;&emsp;"(I) the records retention rule required under section 24403 of the FAST Act (49 U.S.C. 30117 note; Public Law 114–94);
+
+&emsp;&emsp;"(J) the amendments made by section 24405 of the FAST Act (Public Law 114–94; 129 Stat. 1721) to section 30114 of title 49, United States Code;
+
+&emsp;&emsp;"(K) a defect and noncompliance notification required under—
+
+&emsp;&emsp;&emsp;"(i) section 24104 of the FAST Act (49 U.S.C. 30119 note; Public Law 114–94); or
+
+&emsp;&emsp;&emsp;"(ii) section 31301 of MAP–21 (49 U.S.C. 30166 note; Public Law 112–141);
+
+&emsp;&emsp;"(L) a side impact or frontal impact test procedure for child restraint systems under section 31501 of MAP–21 (49 U.S.C. 30127 note; Public Law 112–141);
+
+&emsp;&emsp;"(M) an upgrade to child restraint anchorage system usability requirements required under section 31502 of MAP–21 (49 U.S.C. 30127 note; Public Law 112–141);
+
+&emsp;&emsp;"(N) the rear seat belt reminder system required under section 31503 of MAP–21 (49 U.S.C. 30127 note; Public Law 112–141);
+
+&emsp;&emsp;"(O) a motorcoach rulemaking required under section 32703 of MAP–21 (49 U.S.C. 31136 note; Public Law 112–141); or
+
+&emsp;&emsp;"(P) any rulemaking required under this Act \[div. B of Pub. L. 117–58, see Tables for classification\].
+
+"(b)
+
+Notification.—Not later than 180 days after the date of enactment of this Act \[Nov. 15, 2021\], and not less frequently than biannually thereafter until the applicable covered rulemaking is complete, the Secretary \[of Transportation\] shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a written notification that includes, with respect to each covered rulemaking—
+
+&emsp;"(1) for a covered rulemaking with a statutory deadline for completion—
+
+&emsp;&emsp;"(A) an explanation of why the deadline was not met; and
+
+&emsp;&emsp;"(B) an expected date of completion of the covered rulemaking; and
+
+&emsp;"(2) for a covered rulemaking without a statutory deadline for completion, an expected date of completion of the covered rulemaking.
+
+"(c)
+
+Additional Contents.—A notification under subsection (b) shall include, for each applicable covered rulemaking—
+
+&emsp;"(1) an updated timeline;
+
+&emsp;"(2) a list of factors causing delays in the completion of the covered rulemaking; and
+
+&emsp;"(3) any other details associated with the status of the covered rulemaking."
 
 #### Availability of Reports
 
@@ -126,5 +244,5 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 #### Annual Report on Safety Enforcement Activities of Federal Aviation Administration
 
-Pub. L. 100–202, §101(l) \[title III, §317(a)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–380, and Pub. L. 100–457, title III, §317(a), Sept. 30, 1988, 102 Stat. 2148, which required Secretary of Transportation to transmit to Congress an annual report on Federal Aviation Administration's prior safety enforcement activities including staffing level comparisons, inspector experience and training schedules, criteria used to set annual work programs, annual inspection comparisons, statement of adequacy of internal management controls, status of regulatory changes, list of specific operational measures of effectiveness, schedule showing number of civil penalty cases closed, schedule showing number of enforcement actions taken, and schedules showing aviation industry's safety record, were repealed and reenacted as section 44723 of this title by Pub. L. 103–272, §§1(e), 7(b), July 5, 1994, 108 Stat. 1202, 1379.
+Pub. L. 100–202, §101(l) \[title III, §317(a)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–380, and Pub. L. 100–457, title III, §317(a), Sept. 30, 1988, 102 Stat. 2148, which required Secretary of Transportation to transmit to Congress an annual report on Federal Aviation Administration's prior safety enforcement activities including staffing level comparisons, inspector experience and training schedules, criteria used to set annual work programs, annual inspection comparisons, statement of adequacy of internal management controls, status of regulatory changes, list of specific operational measures of effectiveness, schedule showing number of civil penalty cases closed, schedule showing number of enforcementactions taken, and schedules showing aviation industry's safety record, were repealed and reenacted as section 44723 of this title by Pub. L. 103–272, §§1(e), 7(b), July 5, 1994, 108 Stat. 1202, 1379.
 

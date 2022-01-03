@@ -4,6 +4,8 @@ The purposes of this joint resolution are to aid in stabilizing the economy of t
 
 (Dec. 30, 1947, ch. 526, §1, 61 Stat. 945.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This joint resolution, referred to in text, means act Dec. 30, 1947, ch. 526, 61 Stat. 945. For complete classification of this Act to the Code, see Tables.
@@ -11,6 +13,8 @@ This joint resolution, referred to in text, means act Dec. 30, 1947, ch. 526, 61
 #### Codification
 
 Section was formerly classified to section 1911 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as this section.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 9919. Delegation of Authority and Establishment of Procedures Under 15 U.S.C. 713d et seq.
 
@@ -26,7 +30,7 @@ By virtue of the authority vested in me by the joint resolution approved Decembe
 
 3 (a). The authority delegated to the Secretary of Agriculture by paragraph 1 hereof shall be exercised by him with respect to priority, allocation, and inventory control of agricultural commodities and with respect to speculative trading on commodity exchanges.
 
-(b). For the purposes of this order, the term "agricultural commodities" means all commodities and products, simple, mixed, or compound, or complements to such commodities or products that are or may be eaten or drunk by human beings or animals, irrespective of other uses to which such commodities or products may be put, and at all stages of processing from the rawcommodity to the product thereof in a vendible form for immediate human or animal consumption, but exclusive of such commodities and products as the Secretary of Agriculture shall determine. For the purposes of this order, the term "agricultural commodities" shall also include all starches, sugars, fats and oils of animal, vegetable, or marine origin (including oil seeds and other oil bearing materials, fatty acids, soap and soap powder), cotton, tobacco, wool, hemp, flax, fiber, and alcohol, and also such other commodities and products as the President may designate.
+(b). For the purposes of this order, the term "agricultural commodities" means all commodities and products, simple, mixed, or compound, or complements to such commodities or products that are or may be eaten or drunk by human beings or animals, irrespective of other uses to which such commodities or products may be put, and at all stages of processing from the raw commodity to the product thereof in a vendible form for immediate human or animal consumption, but exclusive of such commodities and products as the Secretary of Agriculture shall determine. For the purposes of this order, the term "agricultural commodities" shall also include all starches, sugars, fats and oils of animal, vegetable, or marine origin (including oil seeds and other oil bearing materials, fatty acids, soap and soap powder), cotton, tobacco, wool, hemp, flax, fiber, and alcohol, and also such other commodities and products as the President may designate.
 
 4 (a). The authority delegated to the Director of the Office of Defense Transportation by paragraph 1 hereof shall be exercised by him with respect to allocation of transportation facilities and equipment.
 

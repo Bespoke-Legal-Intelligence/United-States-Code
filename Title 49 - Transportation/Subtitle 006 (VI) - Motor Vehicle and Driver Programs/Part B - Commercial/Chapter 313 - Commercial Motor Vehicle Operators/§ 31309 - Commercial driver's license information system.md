@@ -36,7 +36,7 @@ Modernization Plan.—
 
 &emsp;(1)
 
-In general.—Not later than 120 days after the date of enactment of this subsection,the Secretary shall develop and publish a comprehensive national plan to modernize the information system under this section that—
+In general.—Not later than 120 days after the date of enactment of this subsection, the Secretary shall develop and publish a comprehensive national plan to modernize the information system under this section that—
 
 &emsp;&emsp;(A) complies with applicable Federal information technology security standards;
 
@@ -140,6 +140,8 @@ In subsection (b), the text of 49 App.:2706(b)(1) is omitted as executed. The wo
 
 In subsection (f), the text of 49 App.:2706(g) and section 9105(b) of the Anti-Drug Abuse Act of 1988 (Public Law 100–690, 102 Stat. 4530) is omitted as obsolete.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this subsection, referred to in subsec. (e)(1), is the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005.
@@ -164,7 +166,7 @@ Subsecs. (e), (f). Pub. L. 109–59, §4123(a), added subsecs. (e) and (f).
 
 Subsec. (b). Pub. L. 105–178, §4011(d)(3), (8), redesignated subsec. (d) as (b) and struck out heading and text of former subsec. (b). Text read as follows: "If the Secretary decides that an information system used by a State or States about the driving status of operators of motor vehicles or another State-operated information system could be used to carry out this section, and the State or States agree to the use of the system for carrying out this section, the Secretary may make an agreement with the State or States to use the system as provided in this section and section 31311(c) of this title. An agreement made under this subsection shall contain terms the Secretary considers necessary to carry out this chapter."
 
-Subsec. (c). Pub. L. 105–178, §4011(d)(3), (8), redesignated subsec. (e) as (c) and struck out heading and text of former subsec. (c). Text read as follows: "If the Secretary does not make an agreement under subsection\(b) of this section, the Secretary shall establish an information system about the driving status and licensing of operators of commercial motor vehicles as provided in this section."
+Subsec. (c). Pub. L. 105–178, §4011(d)(3), (8), redesignated subsec. (e) as (c) and struck out heading and text of former subsec. (c). Text read as follows: "If the Secretary does not make an agreement under subsection (b) of this section, the Secretary shall establish an information system about the driving status and licensing of operators of commercial motor vehicles as provided in this section."
 
 Subsec. (d). Pub. L. 105–178, §4011(d)(8), redesignated subsec. (f) as (d). Former subsec. (d) redesignated (b).
 
@@ -185,6 +187,8 @@ Pub. L. 105–178, §4011(d)(5), added subsec. (e) and struck out heading and te
 Subsec. (f). Pub. L. 105–178, §4011(d)(8), redesignated subsec. (f) as (d).
 
 Pub. L. 105–178, §4011(d)(6), (7), substituted "The Secretary may establish" for "If the Secretary establishes an information system under this section, the Secretary shall establish".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

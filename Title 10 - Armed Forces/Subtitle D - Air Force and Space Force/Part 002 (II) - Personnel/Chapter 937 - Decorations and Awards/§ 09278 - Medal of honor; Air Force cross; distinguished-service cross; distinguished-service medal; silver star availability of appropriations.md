@@ -20,11 +20,15 @@ July 9, 1918, ch. 143 (13th par. under "Ordnance Department"), 40 Stat. 871.
 
 The word "amounts" is substituted for the words "so much as may be". The word "provides" is substituted for the words "defray the cost of". The words "medals and devices under" are substituted for the words "medals of honor, distinguished-service crosses, distinguished-service medals, bars, rosettes, and other devices provided for in". The words "from time to time" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 8748 of this title as this section and substituted "sections 9271, 9272, 9273, 9274, 9276, 9277, and 9282" for "sections 8741, 8742, 8743, 8744, 8746, 8747, and 8752".
 
 <b>1960</b>—Pub. L. 86–593 inserted "Air Force cross" in section catchline.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

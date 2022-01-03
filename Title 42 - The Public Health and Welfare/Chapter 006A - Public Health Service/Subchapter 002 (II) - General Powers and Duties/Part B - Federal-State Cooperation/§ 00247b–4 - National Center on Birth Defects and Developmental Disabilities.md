@@ -34,7 +34,7 @@
 
 &emsp;&emsp;The programs and functions described in this subparagraph are all programs and functions that—
 
-&emsp;&emsp;&emsp;(i) relate to birth defects; folic acid; cerebral palsy; intellectual disabilities; child development; newborn screening; autism; fragile X syndrome; fetal alcohol syndrome; pediatric genetic disorders; disability prevention; or other relevant diseases, disorders, or conditions as determined <sup>1</sup> the Secretary; and
+&emsp;&emsp;&emsp;(i) relate to birth defects; folic acid; cerebral palsy; intellectual disabilities; childdevelopment; newborn screening; autism; fragile X syndrome; fetal alcohol syndrome; pediatric genetic disorders; disability prevention; or other relevant diseases, disorders, or conditions as determined <sup>1</sup> the Secretary; and
 
 &emsp;&emsp;&emsp;(ii) were carried out through the National Center for Environmental Health as of the day before October 17, 2000.
 
@@ -90,6 +90,8 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 (July 1, 1944, ch. 373, title III, §317C, as added Pub. L. 102–531, title III, §306(a), Oct. 27, 1992, 106 Stat. 3494; amended Pub. L. 103–43, title XX, §2008(i)(1)(B)(iii), June 10, 1993, 107 Stat. 213; Pub. L. 105–168, §2, Apr. 21, 1998, 112 Stat. 43; Pub. L. 106–310, div. A, title VI, §611, Oct. 17, 2000, 114 Stat. 1119; Pub. L. 108–154, §2, Dec. 3, 2003, 117 Stat. 1933; Pub. L. 111–256, §2(f)(1), Oct. 5, 2010, 124 Stat. 2644.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (a)(4)(B)(i). Pub. L. 111–256 substituted "intellectual disabilities;" for "mental retardation;".
@@ -121,6 +123,8 @@ Subsec. (b)(1). Pub. L. 106–310, §611(3), substituted "subsection (a)(2)(A) o
 <b>1998</b>—Pub. L. 105–168 amended section generally, substituting present provisions for provisions which directed Secretary to encourage and assist States in collection and analysis of epidemiological data on birth defects and to establish and maintain National Information Clearinghouse on Birth Defects, required report not later than July 1, 1993, and biennially thereafter, and authorized appropriations for fiscal years 1993, 1994, and 1995.
 
 <b>1993</b>—Pub. L. 103–43 made technical amendment to directory language of Pub. L. 102–531, §306(a), which enacted this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

@@ -4,6 +4,8 @@ In the event that lands and/or buildings, structures, and so forth, within the c
 
 (July 3, 1930, ch. 837, §7, 46 Stat. 856.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 443f of this title.

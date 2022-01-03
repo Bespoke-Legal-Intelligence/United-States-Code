@@ -23,8 +23,15 @@
 | :--- | ---: |
 | [14321\.](Subchapter%20002%20%28II%29%20-%20Financial%20Assistance/%C2%A7%2014321%20-%20Grants%20and%20other%20assistance.md) | Grants and other assistance. |
 | [14322\.](Subchapter%20002%20%28II%29%20-%20Financial%20Assistance/%C2%A7%2014322%20-%20Approval%20of%20development%20plans%2C%20strategy%20statements%2C%20and%20projects.md) | Approval of development plans, strategy statements, and projects. |
+| [14323\.](Subchapter%20002%20%28II%29%20-%20Financial%20Assistance/%C2%A7%2014323%20-%20Congressional%20notification.md) | Congressional notification. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+Pub. L. 117–58, div. A, title I, §11506(c)(2), Nov. 15, 2021, 135 Stat. 584, which directed amendment of the analysis for subchapter II of this chapter by adding item 14323 at the end, was executed by adding item 14323 to the analysis for this chapter to reflect the probable intent of Congress.
 
 
 ---

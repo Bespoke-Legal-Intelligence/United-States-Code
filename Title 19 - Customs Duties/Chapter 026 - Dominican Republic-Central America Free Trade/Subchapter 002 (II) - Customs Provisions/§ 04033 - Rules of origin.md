@@ -81,7 +81,7 @@ av
 
 #### (iii) VNM
 
-&emsp;&emsp;&emsp;The term "VNM" means the value of nonoriginating materials that are acquired and used by the producer in the production of the good, but does not include the value of a material that is self-produced.
+&emsp;&emsp;&emsp;The term "VNM" means the value of nonoriginating materials that are acquiredand used by the producer in the production of the good, but does not include the value of a material that is self-produced.
 
 #### (3) Build-up method
 
@@ -177,7 +177,7 @@ nc
 
 #### (i) Basis of calculation
 
-&emsp;&emsp;&emsp;For purposes of determining the regional value-content under subparagraph (A) for an automotive good that is a motor vehicle provided for in any of headings 8701 through 8705, an importer, exporter, orproducer may average the amounts calculated under the formula contained in subparagraph (A), over the producer's fiscal year—
+&emsp;&emsp;&emsp;For purposes of determining the regional value-content under subparagraph (A) for an automotive good that is a motor vehicle provided for in any of headings 8701 through 8705, an importer, exporter, or producer may average the amounts calculated under the formula contained in subparagraph (A), over the producer's fiscal year—
 
 &emsp;&emsp;&emsp;&emsp;(I) with respect to all motor vehicles in any 1 of the categories described in clause (ii); or
 
@@ -215,7 +215,7 @@ nc
 
 &emsp;&emsp;The importer, exporter, or producer shall, consistent with the provisions regarding allocation of costs set out in generally accepted accounting principles, determine the net cost of an automotive good under subparagraph (B) by—
 
-&emsp;&emsp;&emsp;(i) calculating the total cost incurred with respect to all goods produced by the producer of the automotive good, subtracting any sales promotion, marketing and after-sales service costs, royalties, shipping and packing costs, and nonallowable interest costs that are included in the total cost of all such goods, and then reasonably allocating the resulting net cost of those goods to the automotive good;
+&emsp;&emsp;&emsp;(i) calculating the total cost incurred with respect to all goods produced by theproducer of the automotive good, subtracting any sales promotion, marketing and after-sales service costs, royalties, shipping and packing costs, and nonallowable interest costs that are included in the total cost of all such goods, and then reasonably allocating the resulting net cost of those goods to the automotive good;
 
 &emsp;&emsp;&emsp;(ii) calculating the total cost incurred with respect to all goods produced by that producer, reasonably allocating the total cost to the automotive good, and then subtracting any sales promotion, marketing and after-sales service costs, royalties, shipping and packing costs, and nonallowable interest costs that are included in the portion of the total cost allocated to the automotive good; or
 
@@ -245,7 +245,7 @@ nc
 
 &emsp;&emsp;&emsp;(i) The costs of freight, insurance, packing, and all other costs incurred in transporting the material within or between the territory of one or more of the CAFTA–DR countries to the location of the producer.
 
-&emsp;&emsp;&emsp;(ii) Duties, taxes, and customs brokerage fees on the material paid in the territory of one or more of the CAFTA–DR countries, other than duties or taxes that arewaived, refunded, refundable, or otherwise recoverable, including credit against duty or tax paid or payable.
+&emsp;&emsp;&emsp;(ii) Duties, taxes, and customs brokerage fees on the material paid in the territory of one or more of the CAFTA–DR countries, other than duties or taxes that are waived, refunded, refundable, or otherwise recoverable, including credit against duty or tax paid or payable.
 
 &emsp;&emsp;&emsp;(iii) The cost of waste and spoilage resulting from the use of the material in the production of the good, less the value of renewable scrap or byproducts.
 
@@ -373,7 +373,7 @@ nc
 
 #### (1) In general
 
-&emsp;Subject to paragraphs (2) and (3), accessories, spare parts, or tools delivered with a good that form part of the good's standard accessories, spare parts, or tools shall—
+&emsp;Subject to paragraphs (2) and (3), accessories, spare parts, or tools delivered with agood that form part of the good's standard accessories, spare parts, or tools shall—
 
 &emsp;&emsp;(A) be treated as originating goods if the good is an originating good; and
 
@@ -413,7 +413,7 @@ A good that has undergone production necessary to qualify as an originating good
 
 #### (m) Goods classifiable as goods put up in sets
 
-Notwithstanding the rules set forth in Annex 4.1 of the Agreement, goods classifiable as goodsput up in sets for retail sale as provided for in General Rule of Interpretation 3 of the HTS shall not be considered to be originating goods unless—
+Notwithstanding the rules set forth in Annex 4.1 of the Agreement, goods classifiable as goods put up in sets for retail sale as provided for in General Rule of Interpretation 3 of the HTS shall not be considered to be originating goods unless—
 
 &emsp;(1) each of the goods in the set is an originating good; or
 
@@ -637,7 +637,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(II) any interested entity objects to the request.
 
-&emsp;&emsp;(iii) The President may, within the time periods specified in clause (iv), proclaim that a fabric, yarn, or fiber that is the subject of a request submitted under clause (i) is added to the list in Annex 3.25 of the Agreement in an unrestricted quantity, or in any restricted quantity that the President may establish, if the President determines under clause (ii) that—
+&emsp;&emsp;(iii) The President may, within the time periods specified in clause (iv), proclaimthat a fabric, yarn, or fiber that is the subject of a request submitted under clause (i) is added to the list in Annex 3.25 of the Agreement in an unrestricted quantity, or in any restricted quantity that the President may establish, if the President determines under clause (ii) that—
 
 &emsp;&emsp;&emsp;(I) the fabric, yarn, or fiber is not available in commercial quantities in a timely manner in the CAFTA–DR countries; or
 
@@ -688,6 +688,8 @@ In this section:
 #### Termination of Section
 
 <i>For termination of section by section 107(d) of Pub. L. 109–53, see Effective and Termination Dates note below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -835,9 +837,13 @@ nc–vnm
 
 &nbsp;
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective and Termination Dates
 
 Section effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on the date the Agreement ceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as a note under section 4001 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

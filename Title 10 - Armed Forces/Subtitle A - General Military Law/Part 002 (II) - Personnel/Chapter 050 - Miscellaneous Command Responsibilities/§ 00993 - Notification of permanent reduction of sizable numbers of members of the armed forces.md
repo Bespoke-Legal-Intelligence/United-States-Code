@@ -38,6 +38,8 @@ Definitions.—In this section:
 
 (Added Pub. L. 112–81, div. B, title XXVIII, §2864(a), Dec. 31, 2011, 125 Stat. 1702; amended Pub. L. 112–239, div. B, title XXVIII, §2851, Jan. 2, 2013, 126 Stat. 2159.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2013</b>—Subsec. (a). Pub. L. 112–239, §2851(a), inserted at end "In calculating the number of members to be reduced, the Secretary shall take into consideration both direct reductions and indirect reductions."
@@ -48,9 +50,11 @@ Subsec. (b)(1) to (3). Pub. L. 112–239, §2851(b), added pars. (1) and (2) and
 
 "(2) submits a justification for the reduction and an evaluation of the local strategic and operational impact of such reduction; and
 
-"(3) a period of 21 days has expired following submission of the notice and evaluation required under this subsection, or if sooner, a period of 14 days has expired following the date on which an electronic version of the notice and justification has been submitted to such committees."
+"(3) a period of 21 days has expired following submission of the notice and evaluation required under this subsection, or if sooner, a period of 14 days has expired following the date on which an electronic version of thenotice and justification has been submitted to such committees."
 
 Subsec. (d). Pub. L. 112–239, §2851(c), added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Notification of Necessary Assessments or Studies
 

@@ -26,6 +26,8 @@ R.S. §278.
 
 The section is made applicable to the Air Force by section 207(a) and (f) of the Act of July 26, 1947 (ch. 343, 61 Stat. 502). For comparable provisions that apply to the Army, see the revision note for 10:4842.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283 inserted "or the Space Force" after "Air Force".

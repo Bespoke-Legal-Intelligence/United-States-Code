@@ -14,7 +14,7 @@ In order to be approved under section 6947 of this title, each State plan must c
 
 &emsp;(5) The plan shall provide that no State or local government within the State shall be prohibited under State or local law from negotiating and entering into long-term contracts for the supply of solid waste to resource recovery facilities, from entering into long-term contracts for the operation of such facilities, or from securing long-term markets for material and energy recovered from such facilities or for conserving materials or energy by reducing the volume of waste.
 
-&emsp;(6) The plan shall provide for such resource conservation or recovery and for the disposal of solid waste in sanitary landfills or any combination of practices so as may be necessary to use or dispose of such waste in a manner that is environmentally sound.
+&emsp;(6) The plan shall provide for such resource conservation or recovery and for the disposalof solid waste in sanitary landfills or any combination of practices so as may be necessary to use or dispose of such waste in a manner that is environmentally sound.
 
 #### (b) Discretionary plan provisions relating to recycled oil
 
@@ -63,6 +63,8 @@ Any State plan submitted under this subchapter may include, at the option of the
 Notwithstanding any of the above requirements, it is the intention of this chapter and the planning process developed pursuant to this chapter that in determining the size of the waste-to-energy facility, adequate provision shall be given to the present and reasonably anticipated future needs of the recycling and resource recovery interest within the area encompassed by the planning process.
 
 (Pub. L. 89–272, title II, §4003, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2814; amended Pub. L. 96–463, §5(b), Oct. 15, 1980, 94 Stat. 2056; Pub. L. 96–482, §§18, 32(d), Oct. 21, 1980, 94 Stat. 2345, 2353; Pub. L. 98–616, title III, §301(b), title V, §502(h), Nov. 8, 1984, 98 Stat. 3267, 3277.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

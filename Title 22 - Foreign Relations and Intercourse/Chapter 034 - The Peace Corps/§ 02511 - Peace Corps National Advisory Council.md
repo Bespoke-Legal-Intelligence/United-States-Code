@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-A Peace Corps National Advisory Council (hereinafter in this section referred to as the"Council") shall be established in accordance with the provisions of this section.
+A Peace Corps National Advisory Council (hereinafter in this section referred to as the "Council") shall be established in accordance with the provisions of this section.
 
 #### (b) Functions
 
@@ -70,7 +70,7 @@ At its first meeting and at its first regular meeting in each calendar year ther
 
 (1) The Council shall hold a regular meeting during each calendar quarter and shall meet at the call of the President, the Director of the Peace Corps, the Council's Chair, or one-fourth of its members.
 
-(2) The Council shall prescribe such bylaws and regulations as it considers necessary tocarry out its functions. Such bylaws and regulations shall include procedures for fixing the time and place of meetings, giving or waiving of notice of meetings, and keeping of minutes of meetings.
+(2) The Council shall prescribe such bylaws and regulations as it considers necessary to carry out its functions. Such bylaws and regulations shall include procedures for fixing the time and place of meetings, giving or waiving of notice of meetings, and keeping of minutes of meetings.
 
 #### (i) Reports to the President and the Director
 
@@ -108,5 +108,5 @@ Advisory councils established after Jan. 5, 1973, to terminate not later than th
 
 #### Termination of Similar Advisory Body
 
-Pub. L. 99–83, title XI, §1104(b), Aug. 8, 1985, 99 Stat. 275, provided that: "Any advisory body carrying out functions similar to those assigned to the Peace Corps National Advisory Council provided for in subsection (a) \[enacting this section\] shall cease to exist sixty days after the date of the enactment of this Act \[Aug. 8, 1985\]."
+Pub. L. 99–83, title XI, §1104(b), Aug. 8, 1985, 99 Stat. 275, provided that: "Any advisory body carrying out functions similar to those assigned to the Peace Corps National Advisory Council provided for in subsection\(a) \[enacting this section\] shall cease to exist sixty days after the date of the enactment of this Act \[Aug. 8, 1985\]."
 

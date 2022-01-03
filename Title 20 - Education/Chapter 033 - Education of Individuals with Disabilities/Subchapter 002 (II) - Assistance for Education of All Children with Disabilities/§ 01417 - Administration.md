@@ -34,9 +34,11 @@ Not later than the date that the Secretary publishes final regulations under thi
 
 &emsp;(3) a model form of the notice of procedural safeguards described in section 1415(d) of this title; and
 
-&emsp;(4) a model form of the prior written notice described in subsections (b)(3) and (c)(1) of section 1415 of this title that is consistent with the requirements of this subchapter and is sufficient to meet such requirements.
+&emsp;(4) a model form of the prior written notice described in subsections (b)(3) and (c)(1) of section 1415 of this title that is consistent withthe requirements of this subchapter and is sufficient to meet such requirements.
 
 (Pub. L. 91–230, title VI, §617, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2737.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

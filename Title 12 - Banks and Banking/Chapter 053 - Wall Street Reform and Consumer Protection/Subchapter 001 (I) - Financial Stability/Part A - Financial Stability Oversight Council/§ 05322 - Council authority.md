@@ -122,7 +122,7 @@ The Chairperson shall appear before the Committee on Financial Services of the H
 
 #### (B) Retention of privilege
 
-&emsp;&emsp;The submission of any nonpublicly available data or information under this subsection and part B shall not constitute a waiver of, or otherwise affect, any privilege arising under Federal or State law (including the rules of any Federal or State court) to which the data or information is otherwise subject.
+&emsp;&emsp;The submission of any nonpublicly available data or information under this subsection and part B shall not constitute a waiver of, or otherwise affect, any privilege arising under Federal or State law (including the rules of any Federal or State court)to which the data or information is otherwise subject.
 
 #### (C) Freedom of Information Act
 

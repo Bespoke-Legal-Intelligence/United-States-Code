@@ -8,7 +8,7 @@ Qualification Requirement Defined.—In this section, the term "qualification re
 
 Actions Before Establishing Qualification Requirement.—Except as provided in subsection (c), the head of the agency shall, before establishing a qualification requirement—
 
-&emsp;(1) prepare a written justification stating the necessity for establishing the qualification requirement and specify why the qualification requirement must be demonstrated before contract award;
+&emsp;(1) prepare a written justification stating the necessity for establishing the qualificationrequirement and specify why the qualification requirement must be demonstrated before contract award;
 
 &emsp;(2) specify in writing and make available to a potential offeror upon request all requirements which a prospective offeror, or its product, must satisfy in order to become qualified, such requirements to be limited to those least restrictive to meet the purposes necessitating the establishment of the qualification requirement;
 
@@ -76,7 +76,7 @@ Solicitation and testing of additional sources or products.—If the number of q
 
 &emsp;(2)
 
-Certification when agency may bear cost.—Costs may be borne under paragraph (1)(B) only if the head of the agency determines that such additional qualified sources or products are likely to result in cost savings from increased competition for future requirements sufficient to amortize the costs incurred by the agency within a reasonable period of time considering the duration and dollar value of anticipated future requirements.
+Certification when agency may bear cost.—Costs may be borne under paragraph (1)(B) only if the head of the agency determines that such additional qualified sourcesor products are likely to result in cost savings from increased competition for future requirements sufficient to amortize the costs incurred by the agency within a reasonable period of time considering the duration and dollar value of anticipated future requirements.
 
 &emsp;(3)
 
@@ -100,7 +100,9 @@ Definitions.—In this section:
 
 &emsp;(3) The term "design control activity", with respect to an aviation critical safety item or ship critical safety item, means the systems command of a military department that is specifically responsible for ensuring the airworthiness of an aviation system or equipment, or the seaworthiness of a ship or ship equipment, in which such item is to be used.
 
-(Added Pub. L. 98–525, title XII, §1216(a), Oct. 19, 1984, 98 Stat. 2593, §2319; amended Pub. L. 100–26,§7(d)(5), (i)(4), (k)(3), Apr. 21, 1987, 101 Stat. 281, 282, 284; Pub. L. 108–136, div. A, title VIII, §802(d), Nov. 24, 2003, 117 Stat. 1541; Pub. L. 109–364, div. A, title I, §130(d), Oct. 17, 2006, 120 Stat. 2110; renumbered §3243 and amended Pub. L. 116–283, div. A, title XVIII, §1813(d), Jan. 1, 2021, 134 Stat. 4179.)
+(Added Pub. L. 98–525, title XII, §1216(a), Oct. 19, 1984, 98 Stat. 2593, §2319; amended Pub. L. 100–26, §7(d)(5), (i)(4), (k)(3), Apr. 21, 1987, 101 Stat. 281, 282, 284; Pub. L. 108–136, div. A, title VIII, §802(d), Nov. 24, 2003, 117 Stat. 1541; Pub. L. 109–364, div. A, title I, §130(d), Oct. 17, 2006, 120 Stat. 2110; renumbered §3243 and amended Pub. L. 116–283, div. A, title XVIII, §1813(d), Jan. 1, 2021, 134 Stat. 4179.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -140,7 +142,29 @@ Subsec. (d)(3). Pub. L. 116–283, §1813(d)(5)(B), redesignated par. (2) as (3)
 
 Subsecs. (e), (f). Pub. L. 116–283, §1813(d)(6), (7), inserted headings.
 
+<b>2006</b>—Subsec. (c)(3). Pub. L. 109–364, §130(d)(1), inserted "or ship critical safety item" after "aviation critical safety item".
+
+Subsec. (g)(2), (3). Pub. L. 109–364, §130(d)(2), added par. (2), redesignated former par. (2) as (3), inserted "or ship critical safety item" after "aviation critical safety item" and ", or the seaworthiness of a ship or ship equipment," after "or equipment", and substituted "such item" for "the item".
+
+<b>2003</b>—Subsec. (c)(3). Pub. L. 108–136, §802(d)(1), inserted "(or, in the case of a contract for the procurement of an aviation critical safety item, the head of the design control activity for such item)" after "the contracting officer".
+
+Subsec. (g). Pub. L. 108–136, §802(d)(2), added subsec. (g).
+
+<b>1987</b>—Subsec. (a). Pub. L. 100–26, §7(k)(3), inserted "the term" after "In this section,".
+
+Subsec. (c)(1), (3). Pub. L. 100–26, §7(i)(4), substituted "October 19, 1984," for "the date of the enactment of the Defense Procurement Reform Act of 1984".
+
+Subsec. (c)(4). Pub. L. 100–26, §7(d)(5)(A), inserted "(15 U.S.C. 637(b)(7))" after "Small Business Act".
+
+Subsec. (d)(2). Pub. L. 100–26, §7(d)(5)(B), inserted "(15 U.S.C. 632)" after "Small Business Act".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2021 Amendment
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+#### Effective Date
+
+Pub. L. 98–525, title XII, §1216(c)(2), Oct. 19, 1984, 98 Stat. 2599, provided that: "Sections 2319 \[now 10 U.S.C. 3243\], \[former\] 2320, and \[former\] 2321 of title 10, United States Code (as added by subsection (a)), shall apply with respect to solicitations issued after the end of the one-year period beginning on the date of the enactment of this Act \[Oct. 19, 1984\]."
 

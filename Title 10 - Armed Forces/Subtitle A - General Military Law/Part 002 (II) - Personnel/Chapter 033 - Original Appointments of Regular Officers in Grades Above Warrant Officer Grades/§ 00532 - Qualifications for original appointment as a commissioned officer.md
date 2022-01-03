@@ -32,6 +32,8 @@
 
 (Added Pub. L. 96–513, title I, §104(a), Dec. 12, 1980, 94 Stat. 2845; amended Pub. L. 97–22, §3(b), July 10, 1981, 95 Stat. 124; Pub. L. 97–295, §1(7), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 102–190, div. A, title V, §501, Dec. 5, 1991, 105 Stat. 1354; Pub. L. 103–160, div. A, title V, §510, Nov. 30, 1993, 107 Stat. 1648; Pub. L. 108–375, div. A, title V, §501(a)(1)–(3)(A), Oct. 28, 2004, 118 Stat. 1872; Pub. L. 109–163, div. A, title V, §534(c), Jan. 6, 2006, 119 Stat. 3248; Pub. L. 111–383, div. A, title V, §501(a), Jan. 7, 2011, 124 Stat. 4206; Pub. L. 115–232, div. A, title V, §501(a), (b), title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1739, 1840; Pub. L. 116–283, div. A, title IX, §924(b)(4)(B), Jan. 1, 2021, 134 Stat. 3822.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Subsec. (a). Pub. L. 116–283 substituted "Regular Marine Corps, or Regular Space Force" for "or Regular Marine Corps" in introductory provisions.
@@ -52,7 +54,7 @@ Subsec. (d). Pub. L. 115–232, §501(b), struck out subsec. (d) which read as f
 
 <b>2004</b>—Subsec. (a)(2). Pub. L. 108–375, §501(a)(2), substituted "sixty-second birthday" for "fifty-fifth birthday".
 
-Subsec. (e). Pub. L. 108–375, §501(a)(1), struck out subsec. (e) which read as follows: "After September 30, 1996, no person may receive an original appointment as a commissioned officer in the Regular Army, Regular Navy, Regular Air Force, or Regular Marine Corps until that person has completed one year of service on active duty as a commissioned officer (other than a warrant officer) of a reserve component."
+Subsec. (e). Pub. L. 108–375, §501(a)(1), struck out subsec. (e) which read as follows: "After September 30, 1996, no person may receive an original appointment as a commissioned officer in the Regular Army, Regular Navy, Regular Air Force, or Regular Marine Corpsuntil that person has completed one year of service on active duty as a commissioned officer (other than a warrant officer) of a reserve component."
 
 Subsec. (f). Pub. L. 108–375, §501(a)(3)(A), added subsec. (f).
 
@@ -63,6 +65,8 @@ Subsec. (f). Pub. L. 108–375, §501(a)(3)(A), added subsec. (f).
 <b>1982</b>—Pub. L. 97–295 inserted "a" after "original appointment as" in section catchline.
 
 <b>1981</b>—Subsec. (d). Pub. L. 97–22 substituted "medical or dental officer, as a chaplain, or as an officer designated for limited duty in the Regular Navy or Regular Marine Corps" for "medical officer or dental officer or as a chaplain".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

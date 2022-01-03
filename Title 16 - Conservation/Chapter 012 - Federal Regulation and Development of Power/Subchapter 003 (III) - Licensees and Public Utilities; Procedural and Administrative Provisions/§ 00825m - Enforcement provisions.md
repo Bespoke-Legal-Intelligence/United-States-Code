@@ -2,7 +2,7 @@
 
 #### (a) Enjoining and restraining violations
 
-Whenever it shall appear to the Commission that any person is engaged or about to engage in any acts or practices which constitute or will constitute a violation of the provisions of this chapter, or of any rule, regulation, or order thereunder, it may in its discretion bring an action in the proper District Court of the UnitedStates or the United States courts of any Territory or other place subject to the jurisdiction of the United States, to enjoin such acts or practices and to enforce compliance with this chapter or any rule, regulation, or order thereunder, and upon a proper showing a permanent or temporary injunction or decree or restraining order shall be granted without bond. The Commission may transmit such evidence as may be available concerning such acts or practices to the Attorney General, who, in his discretion, may institute the necessary criminal proceedings under this chapter.
+Whenever it shall appear to the Commission that any person is engaged or about to engage in any acts or practices which constitute or will constitute a violation of the provisions of this chapter, or of any rule, regulation, or order thereunder, it may in its discretion bring an action in the proper District Court of the United States or the United States courts of any Territory or other place subject to the jurisdiction of the United States, to enjoin such acts or practices and to enforce compliance with this chapter or any rule, regulation, or order thereunder, and upon a proper showing a permanent or temporary injunction or decree or restraining order shall be granted without bond. The Commission may transmit such evidence as may be available concerning such acts or practices to the Attorney General, who, in his discretion, may institute the necessary criminal proceedings under this chapter.
 
 #### (b) Writs of mandamus
 
@@ -25,6 +25,8 @@ In any proceedings under subsection (a), the court may prohibit, conditionally o
 &emsp;&emsp;(B) transmission services subject to the jurisdiction of the Commission.
 
 (June 10, 1920, ch. 285, pt. III, §314, as added Aug. 26, 1935, ch. 687, title II, §213, 49 Stat. 861; amended June 25, 1936, ch. 804, 49 Stat. 1921; June 25, 1948, ch. 646, §32(b), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Pub. L. 109–58, title XII, §1288, Aug. 8, 2005, 119 Stat. 982.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

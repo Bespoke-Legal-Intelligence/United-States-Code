@@ -20,7 +20,7 @@
 
 (d) Nothing in this section may be construed to limit the ability of the Government to forfeit property under any provision of law if the property involved in the offense giving rise to the forfeiture or property traceable thereto is available for forfeiture.
 
-(Added Pub. L. 102–550, title XV, §1522(a), Oct. 28, 1992, 106 Stat. 4063; amended Pub. L. 103–325, title IV, §411(c)(2)(E), Sept. 23, 1994, 108 Stat. 2253; Pub. L. 106–185, §13(a), Apr. 25, 2000, 114 Stat. 218.)
+(Added Pub. L. 102–550, title XV, §1522(a), Oct. 28, 1992, 106 Stat. 4063; amended Pub. L. 103–325, titleIV, §411(c)(2)(E), Sept. 23, 1994, 108 Stat. 2253; Pub. L. 106–185, §13(a), Apr. 25, 2000, 114 Stat. 218.)
 
 #### <b>Editorial Notes</b>
 

@@ -6,6 +6,8 @@
 
 (Added Pub. L. 97–86, title IX, §913(a)(1), Dec. 1, 1981, 95 Stat. 1123, §2392; renumbered §4653, Pub. L. 116–283, div. A, title XVIII, §1862(b), Jan. 1, 2021, 134 Stat. 4277.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 4653 was renumbered section 7653 of this title.
@@ -13,6 +15,8 @@ A prior section 4653 was renumbered section 7653 of this title.
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283 renumbered section 2392 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2021 Amendment
 

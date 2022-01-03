@@ -22,7 +22,7 @@ Pub. L. 104–65, §24, Dec. 19, 1995, 109 Stat. 705, provided that:
 
 &emsp;"(1) shall not affect any proceeding or suit commenced before the effective date under subsection (a), and in all such proceedings or suits, proceedings shall be had, appeals taken, and judgments rendered in the same manner and with the same effect as if this Act had not been enacted; and
 
-&emsp;"(2) shall not affect the requirements of Federal agencies to compile, publish, and retain informationfiled or received before the effective date of such repeals and amendments."
+&emsp;"(2) shall not affect the requirements of Federal agencies to compile, publish, and retain information filed or received before the effective date of such repeals and amendments."
 
 #### Short Title of 2019 Amendment
 

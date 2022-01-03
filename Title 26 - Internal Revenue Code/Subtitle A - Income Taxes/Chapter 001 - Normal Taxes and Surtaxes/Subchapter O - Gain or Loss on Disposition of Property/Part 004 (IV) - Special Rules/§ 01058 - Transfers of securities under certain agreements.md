@@ -22,9 +22,13 @@ Property acquired by a taxpayer described in subsection (a), in a transaction de
 
 (Added Pub. L. 95–345, §2(d)(1), Aug. 15, 1978, 92 Stat. 482.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1058 was renumbered section 1062 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

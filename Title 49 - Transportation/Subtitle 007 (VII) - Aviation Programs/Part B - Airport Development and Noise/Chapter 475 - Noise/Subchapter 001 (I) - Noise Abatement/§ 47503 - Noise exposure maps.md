@@ -50,6 +50,8 @@ In subsection (a), before clause (1), the words "After the effective date of the
 
 In subsection (b), the words "to the Secretary" are added for clarity. The words "after the submission to the Secretary of a noise exposure map under paragraph (1)" are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (b). Pub. L. 115–254 amended subsec. (b) generally. Prior to amendment, text read as follows: "If, in an area surrounding an airport, a change in the operation of the airport would establish a substantial new noncompatible use, or would significantly reduce noise over existing noncompatible uses, that is not reflected in either the existing conditions map or forecast map currently on file with the Federal Aviation Administration, the airport operator shall submit a revised noise exposure map to the Secretary showing the new noncompatible use or noise reduction."
@@ -57,6 +59,8 @@ In subsection (b), the words "to the Secretary" are added for clarity. The words
 <b>2003</b>—Subsec. (a). Pub. L. 108–176, §324(1), substituted "a forecast period that is at least 5 years in the future" for "1985," in introductory provisions.
 
 Subsec. (b). Pub. L. 108–176, §324(2), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: "If a change in the operation of an airport will establish a substantial new noncompatible use in an area surrounding the airport, the airport operator shall submit a revised noise exposure map to the Secretary showing the new noncompatible use."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

@@ -22,11 +22,15 @@ Funding provided under this section may be used for laboratory equipment and mat
 
 (Pub. L. 111–358, title V, §525, Jan. 4, 2011, 124 Stat. 4019.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the America COMPETES Reauthorization Act of 2010, also known as the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Reauthorization Act of 2010, and also as part of the National Science Foundation Authorization Act of 2010, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Definitions
 
-For definitions of terms used in this section, see section 2 of Pub. L. 111–358, set out as a note under section6621 of this title, and section 502 of Pub. L. 111–358, set out as a note under section 1862p of this title.
+For definitions of terms used in this section, see section 2 of Pub. L. 111–358, set out as a note under section 6621 of this title, and section 502 of Pub. L. 111–358, set out as a note under section 1862p of this title.
 

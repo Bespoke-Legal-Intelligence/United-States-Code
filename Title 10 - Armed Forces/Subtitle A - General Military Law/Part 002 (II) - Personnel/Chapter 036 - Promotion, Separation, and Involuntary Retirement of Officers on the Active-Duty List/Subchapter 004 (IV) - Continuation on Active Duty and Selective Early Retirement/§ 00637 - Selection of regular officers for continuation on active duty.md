@@ -26,11 +26,13 @@
 
 (c) Continuation of an officer on active duty under this section pursuant to the action of a selection board convened under section 611(b) of this title is subject to the approval of the Secretary of the military department concerned. The period of the continuation on active duty of an officer under this section may be reduced by the Secretary concerned in the case of any officer as provided in section 638a of this title.
 
-(d) For purposes of this section, a period of continuation on active duty under this section expires or is completed on the earlier of (1) the date originally established for the termination of such period, or (2) the date established for thetermination of such period by any shortening of such period under section 638a of this title.
+(d) For purposes of this section, a period of continuation on active duty under this section expires or is completed on the earlier of (1) the date originally established for the termination of such period, or (2) the date established for the termination of such period by any shortening of such period under section 638a of this title.
 
 (e) The Secretary of Defense shall prescribe regulations for the administration of this section.
 
-(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2863; amended Pub. L. 97–22, §4(e), July 10, 1981, 95 Stat. 127; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title XIV, §1405(15), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 101–510, div. A, title V, §521(b)(1), Nov. 5, 1990, 104 Stat. 1561; Pub. L. 110–181, div. A, title V, §504, Jan. 28, 2008, 122 Stat. 95; Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840; Pub. L. 116–283, div. A, title IX, §924(b)(3)(K), Jan. 1, 2021, 134 Stat. 3821.)
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2863; amended Pub. L. 97–22, §4(e), July 10, 1981, 95 Stat. 127; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 98–525, title XIV, §1405(15), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 101–510, div. A, title V,§521(b)(1), Nov. 5, 1990, 104 Stat. 1561; Pub. L. 110–181, div. A, title V, §504, Jan. 28, 2008, 122 Stat. 95; Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840; Pub. L. 116–283, div. A, title IX, §924(b)(3)(K), Jan. 1, 2021, 134 Stat. 3821.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -55,6 +57,8 @@ Subsec. (a)(3). Pub. L. 98–525, §1405(15)(B), substituted "24" for "twenty-fo
 Subsec. (b)(2). Pub. L. 97–86 substituted "commodore" for "commodore admiral".
 
 Pub. L. 97–22, §4(e)(2), inserted provision that an officer subject to retirement under section 635 or 636 of this title who is serving in the grade of brigadier general, commodore admiral, major general, or rear admiral may, subject to the needs of the service, have his retirement deferred and be continued on active duty by the Secretary concerned and struck out requirement that the deferral of the retirement of an officer subject to retirement under section 635 or 636 of this title serving in a grade above major general or rear admiral was subject to the needs of the service.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

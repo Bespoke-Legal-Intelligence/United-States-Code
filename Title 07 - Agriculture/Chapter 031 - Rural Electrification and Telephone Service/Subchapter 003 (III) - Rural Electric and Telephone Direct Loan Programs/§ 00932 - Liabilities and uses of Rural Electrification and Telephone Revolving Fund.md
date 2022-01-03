@@ -2,7 +2,7 @@
 
 #### (a) Liabilities and obligations of fund
 
-The notes of the Secretary to the Secretary of the Treasury to obtain funds for loans under sections 904, 905,<sup>1</sup> and 922 of this title, and all other liabilities against the appropriations or assets in the fund in connection with electrification and telephone loan operations shall be liabilities of the fund, and all other obligations against such appropriations or assets in the fund arising out of electrification and telephone loan operations shall be obligations of the fund.
+The notes of the Secretary to the Secretary of the Treasury to obtain funds for loans under sections 904, 905,<sup>1</sup> and 922 of this title, and all otherliabilities against the appropriations or assets in the fund in connection with electrification and telephone loan operations shall be liabilities of the fund, and all other obligations against such appropriations or assets in the fund arising out of electrification and telephone loan operations shall be obligations of the fund.
 
 #### (b) Uses of fund assets
 
@@ -38,6 +38,8 @@ The assets of the fund shall be available only for the following purposes:
 
 (May 20, 1936, ch. 432, title III, §302, as added Pub. L. 92–12, §2, May 7, 1971, 85 Stat. 30; amended Pub. L. 93–32, §2, May 11, 1973, 87 Stat. 66; Pub. L. 101–624, title XXIII, §2359, Nov. 28, 1990, 104 Stat. 4041; Pub. L. 103–354, title II, §235(a)(13), Oct. 13, 1994, 108 Stat. 3221; Pub. L. 104–127, title VII, §772(b)(2), Apr. 4, 1996, 110 Stat. 1149.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 905 of this title, referred to in subsecs. (a) and (b)(1), was repealed by Pub. L. 104–127, title VII, §774(a), Apr. 4, 1996, 110 Stat. 1150.
@@ -51,6 +53,8 @@ Section 905 of this title, referred to in subsecs. (a) and (b)(1), was repealed 
 <b>1990</b>—Subsec. (c). Pub. L. 101–624 added subsec. (c).
 
 <b>1973</b>—Pub. L. 93–32 substituted provisions setting out the liabilities of the Rural Electrification and Telephone Revolving Fund and the allowable purposes for which fund assets shall be available, for provisions, that the monies in the rural telephone account should remain on deposit in the Treasury of the United States until disbursed.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1973 Amendment
 

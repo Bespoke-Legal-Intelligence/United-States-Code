@@ -2,7 +2,7 @@
 
 #### (a) Appointment
 
-At the inaugural meeting of the Board of Governors of the Bank, the Governor and the alternate for the Governor of the International Bank for Reconstruction and Development, appointed pursuant to section 286a of this title, shall serve ex-officio as a Governor and the alternate for the Governor, respectively, of the Bank. The President, by and with the advice and consent of the Senate, shall appoint a Governor of the Bank and an alternate for the Governor.
+At the inaugural meeting of the Board of Governors of the Bank, the Governor and the alternate for the Governor of the International Bank for Reconstruction and Development, appointedpursuant to section 286a of this title, shall serve ex-officio as a Governor and the alternate for the Governor, respectively, of the Bank. The President, by and with the advice and consent of the Senate, shall appoint a Governor of the Bank and an alternate for the Governor.
 
 #### (b) Compensation
 

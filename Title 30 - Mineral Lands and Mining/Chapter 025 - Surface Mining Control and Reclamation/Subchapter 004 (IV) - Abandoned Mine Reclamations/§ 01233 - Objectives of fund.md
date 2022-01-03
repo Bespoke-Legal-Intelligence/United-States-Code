@@ -38,7 +38,7 @@ For the purposes of assisting in the planning and evaluation of reclamation proj
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a)(1). Pub. L. 109–432, §203(1)(A), designated existing provisions as subpar. (A), inserted semicolon after "protection", struck out "general welfare," after "safety,", and added subpar. (B).
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–432, §203(1)(A), designated existing provisions as subpar. (A), insertedsemicolon after "protection", struck out "general welfare," after "safety,", and added subpar. (B).
 
 Subsec. (a)(2). Pub. L. 109–432, §203(1)(B), designated existing provisions as subpar. (A), substituted "health and safety" for "health, safety, and general welfare", and added subpar. (B).
 

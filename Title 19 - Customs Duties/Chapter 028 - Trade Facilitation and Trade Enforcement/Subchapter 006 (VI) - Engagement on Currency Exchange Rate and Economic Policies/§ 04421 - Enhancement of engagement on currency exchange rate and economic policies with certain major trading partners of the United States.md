@@ -144,13 +144,19 @@ In this section:
 
 (Pub. L. 114–125, title VII, §701, Feb. 24, 2016, 130 Stat. 195; Pub. L. 115–254, div. F, title VI, §1470(h), Oct. 5, 2018, 132 Stat. 3516.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (c)(1)(A). Pub. L. 115–254 substituted "United States International Development Finance Corporation" for "Overseas Private Investment Corporation".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–254 effective at the end of the transition period, as defined in section 9681 of Title 22, Foreign Relations and Intercourse, see section 1470(w) of Pub. L. 115–254, set out as a note under section 905 of Title 2, The Congress.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13733. Delegation of Certain Authorities and Assignment of Certain Functions Under the Trade Facilitation and Trade Enforcement Act of 2015
 

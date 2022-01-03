@@ -275,7 +275,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (iii) Payment term alterations
 
-&emsp;&emsp;&emsp;The Director shall extend or shorten the term of the payment obligations of a Federal home loan bank under this subparagraph as necessary to ensure that thevalue of all payments made by the Banks is equivalent to the value of an annuity referred to in clause (ii).
+&emsp;&emsp;&emsp;The Director shall extend or shorten the term of the payment obligations of a Federal home loan bank under this subparagraph as necessary to ensure that the value of all payments made by the Banks is equivalent to the value of an annuity referred to in clause (ii).
 
 #### (iv) Term beyond maturity
 
@@ -297,7 +297,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (ii) Liability of Funding Corporation
 
-&emsp;&emsp;&emsp;In each instance where the Secretary is required to make a payment under this subparagraph to the Funding Corporation, the amount of the payment shall become a liability of the Funding Corporation to be repaid to the Secretary upon dissolution of the Funding Corporation (to the extent the Funding Corporation may have any remaining assets).
+&emsp;&emsp;&emsp;In each instance where the Secretary is required to make a payment under thissubparagraph to the Funding Corporation, the amount of the payment shall become a liability of the Funding Corporation to be repaid to the Secretary upon dissolution of the Funding Corporation (to the extent the Funding Corporation may have any remaining assets).
 
 #### (iii) Appropriation of funds
 
@@ -341,7 +341,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 &emsp;&emsp;&emsp;(i) shall not be considered to be securities issued or guaranteed by a person controlled or supervised by, or acting as an instrumentality of, the Government of the United States; and
 
-&emsp;&emsp;&emsp;(ii) shall not be considered to be "exempted securities" within the meaning of section 78c(a)(12)(A)(i) of title 15, exceptthat such obligations shall be considered to be exempted securities for purposes of section 78o of title 15.
+&emsp;&emsp;&emsp;(ii) shall not be considered to be "exempted securities" within the meaning of section 78c(a)(12)(A)(i) of title 15, except that such obligations shall be considered to be exempted securities for purposes of section 78o of title 15.
 
 #### (B) Authority of Commission
 
@@ -363,7 +363,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (2) Separate account for zero coupon instruments held to ensure payment of principal
 
-&emsp;Except as provided in subsection (e)(8), the Funding Corporation shall invest amounts received pursuant to subsection (e) in, and hold in a separate account to be known as the Funding Corporation Principal Fund, noninterest bearing instruments—
+&emsp;Except as provided in subsection (e)(8), the Funding Corporation shall invest amounts received pursuant to subsection (e) in, and holdin a separate account to be known as the Funding Corporation Principal Fund, noninterest bearing instruments—
 
 &emsp;&emsp;(A) which are direct obligations of the United States issued by the Secretary; and
 
@@ -531,7 +531,7 @@ Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(11)(F). See 1996 Amendme
 
 <b>1996</b>—Subsec. (e). Pub. L. 104–208, §2704(d)(11)(E), which directed the amendment of subsec. (e) by inserting, in par. (5), "as of the date of funding" after "Savings Association Insurance Fund members" in two places and by striking par. (7) and redesignating par. (8) as (7), was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-Subsec. (f)(2)(C)(ii)(I), (II). Pub. L. 104–208, §2704(d)(5), which directed the amendment of subcls. (I) and (II) by substituting "to insured depository institutions, and their successors, which were Savings Association Insurance Fund members on September 1, 1995" for "to Savings Associations Insurance Fund members", was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below.
+Subsec. (f)(2)(C)(ii)(I), (II). Pub. L. 104–208, §2704(d)(5), which directed the amendment of subcls. (I) and (II) bysubstituting "to insured depository institutions, and their successors, which were Savings Association Insurance Fund members on September 1, 1995" for "to Savings Associations Insurance Fund members", was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below.
 
 Subsec. (k)(8) to (10). Pub. L. 104–208, §2704(d)(11)(F), which directed the amendment of subsec. (k) by striking par. (8) and redesignating pars. (9) and (10) as (8) and (9), respectively, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 

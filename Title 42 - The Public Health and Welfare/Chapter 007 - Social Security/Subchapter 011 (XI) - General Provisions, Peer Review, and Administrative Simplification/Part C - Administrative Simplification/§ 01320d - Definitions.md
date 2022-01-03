@@ -24,7 +24,7 @@ For purposes of this part:
 
 #### (5) Health plan
 
-&emsp;The term "health plan" means an individual or group plan that provides, or pays the costof, medical care (as such term is defined in section 300gg–91 of this title). Such term includes the following, and any combination thereof:
+&emsp;The term "health plan" means an individual or group plan that provides, or pays the cost of, medical care (as such term is defined in section 300gg–91 of this title). Such term includes the following, and any combination thereof:
 
 &emsp;&emsp;(A) A group health plan (as defined in section 300gg–91(a) of this title), but only if the plan—
 
@@ -82,9 +82,11 @@ For purposes of this part:
 
 (Aug. 14, 1935, ch. 531, title XI, §1171, as added Pub. L. 104–191, title II, §262(a), Aug. 21, 1996, 110 Stat. 2021; amended Pub. L. 107–105, §4, Dec. 27, 2001, 115 Stat. 1007; Pub. L. 111–5, div. A, title XIII, §13102, Feb. 17, 2009, 123 Stat. 242; Pub. L. 111–148, title I, §1104(b)(1), Mar. 23, 2010, 124 Stat. 146.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Indian Health Care Improvement Act, referred to in par. (5)(L), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, which is classified principally to chapter 18 (§1601 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
+The Indian Health Care Improvement Act, referred to in par. (5)(L), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat.1400, which is classified principally to chapter 18 (§1601 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
 
 #### Prior Provisions
 
@@ -98,13 +100,15 @@ A prior section 1171 of act Aug. 14, 1935, was classified to section 1320c–20 
 
 <b>2001</b>—Par. (5)(D). Pub. L. 107–105 substituted "Parts A, B, or C" for "Part A or part B".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Pub. L. 111–148, title I, §1105, Mar. 23, 2010, 124 Stat. 154, provided that: "This subtitle \[subtitle B (§§1101–1105) of title I of Pub. L. 111–148, enacting subchapter I of chapter 157 of this title, amending this section and sections 1320d–2 and 1395y of this title, enacting provisions set out as a note under section 1320d–2 of this title, and amending provisions set out as a note under this section\] shall take effect on the date of enactment of this Act \[Mar. 23, 2010\]."
 
 #### Purpose
 
-Pub. L. 104–191, title II, §261, Aug. 21, 1996, 110 Stat. 2021, as amended by Pub. L. 111–148, title I, §1104(a), Mar. 23, 2010, 124 Stat. 146, provided that: "It is the purpose of this subtitle \[subtitle F (§§261–264) of title II of Pub. L. 104–191, enacting this part, amending sections 242k and 1395cc of this title, and enacting provisions set out as a note under section 1320d–2 of this title\] to improve the Medicare program under title XVIII of theSocial Security Act \[42 U.S.C. 1395 et seq.\], the medicaid program under title XIX of such Act \[42 U.S.C. 1396 et seq.\], and the efficiency and effectiveness of the health care system, by encouraging the development of a health information system through the establishment of uniform standards and requirements for the electronic transmission of certain health information and to reduce the clerical burden on patients, health care providers, and health plans."
+Pub. L. 104–191, title II, §261, Aug. 21, 1996, 110 Stat. 2021, as amended by Pub. L. 111–148, title I, §1104(a), Mar. 23, 2010, 124 Stat. 146, provided that: "It is the purpose of this subtitle \[subtitle F (§§261–264) of title II of Pub. L. 104–191, enacting this part, amending sections 242k and 1395cc of this title, and enacting provisions set out as a note under section 1320d–2 of this title\] to improve the Medicare program under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\], the medicaid program under title XIX of such Act \[42 U.S.C. 1396 et seq.\], and the efficiency and effectiveness of the health care system, by encouraging the development of a health information system through the establishment of uniform standards and requirements for the electronic transmission of certain health information and to reduce the clerical burden on patients, health care providers, and health plans."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "Part".</i>
 

@@ -6,6 +6,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1969</b>—Pub. L. 91–172, title V, §503(a), Dec. 30, 1969, 83 Stat. 630, added part heading and section analysis.

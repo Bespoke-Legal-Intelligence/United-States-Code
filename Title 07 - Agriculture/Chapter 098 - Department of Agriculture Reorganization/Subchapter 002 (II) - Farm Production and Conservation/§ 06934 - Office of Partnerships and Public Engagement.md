@@ -20,7 +20,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;The Secretary shall establish within the executive operations of the Department an officeto be known as the "Office of Partnerships and Public Engagement"—
+&emsp;The Secretary shall establish within the executive operations of the Department an office to be known as the "Office of Partnerships and Public Engagement"—
 
 &emsp;&emsp;(A) to improve access to programs of the Department;
 
@@ -130,7 +130,7 @@ The duties of the Office shall be to ensure small farms and ranches, beginning f
 
 &emsp;&emsp;(B) Serving as a liaison to community-based nonprofit organizations that represent and have demonstrated experience serving low-income migrant and seasonal farmworkers.
 
-&emsp;&emsp;(C) Coordinating with the Department, other Federal agencies, and State and local governments to ensure that farmworker needs are assessed and met during declared disasters and other emergencies.
+&emsp;&emsp;(C) Coordinating with the Department, other Federal agencies, and State and local governments to ensure that farmworkerneeds are assessed and met during declared disasters and other emergencies.
 
 &emsp;&emsp;(D) Consulting within the Office and with other entities to better integrate farmworker perspectives, concerns, and interests into the ongoing programs of the Department.
 
@@ -147,6 +147,8 @@ The duties of the Office shall be to ensure small farms and ranches, beginning f
 &emsp;&emsp;(B) $2,000,000 for each of fiscal years 2014 through 2023.
 
 (Pub. L. 103–354, title II, §226B, as added Pub. L. 110–234, title XIV, §14013(a), May 22, 2008, 122 Stat. 1450, and Pub. L. 110–246, §4(a), title XIV, §14013(a), June 18, 2008, 122 Stat. 1664, 2212; amended Pub. L. 113–79, title XII, §12202, Feb. 7, 2014, 128 Stat. 984; Pub. L. 115–334, title XII, §§12301(a)(2)(A), 12406(a)(1), (b), (c), Dec. 20, 2018, 132 Stat. 4950, 4975, 4976.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -185,6 +187,8 @@ Subsec. (e)(2)(B). Pub. L. 115–334, §12406(a)(2)(A), substituted "the beginni
 Subsec. (f)(3)(B). Pub. L. 115–334, §12406(c), substituted "2023" for "2018".
 
 <b>2014</b>—Subsec. (f)(3). Pub. L. 113–79 amended par. (3) generally. Prior to amendment, text read as follows: "There are authorized to be appropriated such sums as are necessary to carry out this subsection for each of fiscal years 2009 through 2012."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

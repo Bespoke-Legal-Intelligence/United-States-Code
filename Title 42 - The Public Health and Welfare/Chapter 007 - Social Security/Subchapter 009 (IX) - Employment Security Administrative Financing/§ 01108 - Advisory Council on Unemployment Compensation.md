@@ -68,6 +68,8 @@ Each member of any Council—
 
 (Aug. 14, 1935, ch. 531, title IX, §908, as added Pub. L. 91–373, title I, §141, Aug. 10, 1970, 84 Stat. 706; amended Pub. L. 98–369, div. B, title VI, §2663(d)(4), July 18, 1984, 98 Stat. 1167; Pub. L. 102–164, title III, §303, Nov. 15, 1991, 105 Stat. 1059; Pub. L. 103–152, §6, Nov. 24, 1993, 107 Stat. 1518.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 9 of Pub. L. 102–107, Aug. 17, 1991, 105 Stat. 547, which contained provisions substantially identical to those of section 303 of Pub. L. 102–164, amending this section, did not become effective pursuant to section 10(b) of Pub. L. 102–107, because the President did not take the action required by that section by Aug. 17, 1991.
@@ -83,6 +85,8 @@ A prior section 1108, act Aug. 14, 1935, ch. 531, title IX, §908, 49 Stat. 643,
 <b>1991</b>—Pub. L. 102–164 amended section generally, substituting present provisions for provisions which in subsec. (a) established the Federal Advisory Council and its membership, in subsec. (b) prescribed the appointment of its members, in subsec. (c) required that secretarial, clerical, and other assistance be made available to the Council, in subsec. (d) provided for compensation of members, in subsec. (e) encouraged the organization of State advisory councils, and in subsec. (f) authorized certain appropriations for the work of the Council.
 
 <b>1984</b>—Subsec. (d). Pub. L. 98–369 substituted "5703" for "5703(b)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

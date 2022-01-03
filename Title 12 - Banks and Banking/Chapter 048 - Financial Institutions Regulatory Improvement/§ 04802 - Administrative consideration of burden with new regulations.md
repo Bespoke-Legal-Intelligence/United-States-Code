@@ -2,7 +2,7 @@
 
 #### (a) Agency considerations
 
-In determining the effective date and administrative compliance requirements for new regulations that impose additional reporting, disclosure, or other requirements on insured depository institutions, each Federal banking agency shall consider, consistent with the principles of safety and soundness and the public interest—
+In determining the effective date and administrative compliance requirements for new regulations that impose additional reporting, disclosure, or other requirements on insured depository institutions, each Federal banking agencyshall consider, consistent with the principles of safety and soundness and the public interest—
 
 &emsp;(1) any administrative burdens that such regulations would place on depository institutions, including small depository institutions and customers of depository institutions; and
 

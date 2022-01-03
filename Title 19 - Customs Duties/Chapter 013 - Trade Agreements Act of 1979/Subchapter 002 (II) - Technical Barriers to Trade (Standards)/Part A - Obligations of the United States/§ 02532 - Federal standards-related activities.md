@@ -4,7 +4,7 @@ No Federal agency may engage in any standards-related activity that creates unne
 
 #### (1) Nondiscriminatory treatment
 
-&emsp;Each Federal agency shall ensure, in applying standards-related activities with respect to any imported product, that such product is treated no less favorably than are like domestic or imported products, including, but not limited to, when applying tests or test methods, no less favorable treatment with respect to—
+&emsp;Each Federal agency shall ensure, in applying standards-related activities with respect to any imported product, that such product istreated no less favorably than are like domestic or imported products, including, but not limited to, when applying tests or test methods, no less favorable treatment with respect to—
 
 &emsp;&emsp;(A) the acceptance of the product for testing in comparable situations;
 
@@ -52,9 +52,11 @@ No Federal agency may engage in any standards-related activity that creates unne
 
 #### (4) Access for foreign suppliers
 
-&emsp;Each Federal agency shall, with respect to any conformity assessment procedure used byit, permit access for obtaining an assessment of conformity and the mark of the system, if any, to foreign suppliers of a product on the same basis as access is permitted to suppliers of like products, whether of domestic or other foreign origin.
+&emsp;Each Federal agency shall, with respect to any conformity assessment procedure used by it, permit access for obtaining an assessment of conformity and the mark of the system, if any, to foreign suppliers of a product on the same basis as access is permitted to suppliers of like products, whether of domestic or other foreign origin.
 
 (Pub. L. 96–39, title IV, §402, July 26, 1979, 93 Stat. 242; Pub. L. 103–465, title III, §351(c), Dec. 8, 1994, 108 Stat. 4956; Pub. L. 104–295, §20(c)(14), Oct. 11, 1996, 110 Stat. 3529.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -65,6 +67,8 @@ Section 2571(6)(A) of this title, referred to in par. (2)(B)(ii), was amended ge
 <b>1996</b>—Par. (4). Pub. L. 104–295 inserted comma after "system, if any".
 
 <b>1994</b>—Par. (4). Pub. L. 103–465 substituted "Access" for "Certification access" in heading, and, in text, substituted "conformity assessment procedure" for "certification system" and "an assessment of conformity and the mark of the system, if any" for "certification under that system".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

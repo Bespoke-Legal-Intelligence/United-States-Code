@@ -10,7 +10,7 @@ Section 668cc, Pub. L. 89–669, §3, Oct. 15, 1966, 80 Stat. 927, covered the S
 
 Section 668cc–1, Pub. L. 91–135, §1, Dec. 5, 1969, 83 Stat. 275, defined "Secretary", "fish or wildlife", "United States", and "person".
 
-Section 668cc–2, Pub. L. 91–135, §2, Dec. 5, 1969, 83 Stat. 275, covered importation of endangered speciesand set out civil and criminal penalties by reference to provisions of section 668cc–4 of this title.
+Section 668cc–2, Pub. L. 91–135, §2, Dec. 5, 1969, 83 Stat. 275, covered importation of endangered species and set out civil and criminal penalties by reference to provisions of section 668cc–4 of this title.
 
 Section 668cc–3, Pub. L. 91–135, §3, Dec. 5, 1969, 83 Stat. 275, provided for determination by the Secretary of the species threatened with extinction, methods to be used and factors determinative of Secretary's determination, and rule making procedures to be used.
 
@@ -19,6 +19,8 @@ Section 668cc–4, Pub. L. 91–135, §4, Dec. 5, 1969, 83 Stat. 276, set out pe
 Section 668cc–5, Pub. L. 91–135, §5, Dec. 5, 1969, 83 Stat. 278, covered international agreements for fish and wildlife preservation.
 
 Section 668cc–6, Pub. L. 91–135, §6, Dec. 5, 1969, 83 Stat. 278, called for coordination of administration of provisions relating to endangered species of fish and wildlife with animal quarantine and tariff laws, and provided for non-impairment of functions of Secretaries of Agriculture and Treasury under agriculture and tariff laws, including imports.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of Repeal
 

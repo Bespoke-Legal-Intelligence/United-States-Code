@@ -12,13 +12,15 @@ The Small State and Rural Advocate shall be an advocate for the fair treatment o
 
 The Small State and Rural Advocate shall—
 
-&emsp;(1) participate in the disaster declaration process under section 5170 of this title and the emergency declaration process under section 5191 of this title, to ensure that the needs of rural communities are being addressed;
+&emsp;(1) participate in the disaster declaration process under section 5170 of this title and theemergency declaration process under section 5191 of this title, to ensure that the needs of rural communities are being addressed;
 
 &emsp;(2) assist small population States in the preparation of requests for major disaster or emergency declarations; and
 
 &emsp;(3) conduct such other activities as the Administrator of the Federal Emergency Management Agency considers appropriate.
 
 (Pub. L. 93–288, title III, §326, as added Pub. L. 109–295, title VI, §689g(a), Oct. 4, 2006, 120 Stat. 1453; amended Pub. L. 111–351, §3(c)(2), Jan. 4, 2011, 124 Stat. 3864.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -27,6 +29,8 @@ This chapter, referred to in subsec. (b), was in the original "this Act", meanin
 #### Amendments
 
 <b>2011</b>—Subsec. (c)(3). Pub. L. 111–351 substituted "Administrator" for "Director".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Construction
 

@@ -2,7 +2,7 @@
 
 #### (a) Activities regulated by plan under Magnuson-Stevens Fishery Conservation and Management Act
 
-The provisions of paragraph (1) of section 3372(a) of this title shall not apply to any activity regulated by a fishery management plan ineffect under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.).
+The provisions of paragraph (1) of section 3372(a) of this title shall not apply to any activity regulated by a fishery management plan in effect under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.).
 
 #### (b) Activities regulated by Tuna Convention Acts; harvesting of highly migratory species taken on high seas
 
@@ -17,6 +17,8 @@ The provisions of paragraphs (1), (2)(A), and (3)(A) of section 3372(a) of this 
 The provisions of paragraph (2) of section 3372(a) of this title shall not apply to the interstate shipment or transshipment through Indian country as defined in section 1151 of title 18 or a State of any fish or wildlife or plant legally taken if the shipment is en route to a State in which the fish or wildlife or plant may be legally possessed.
 
 (Pub. L. 97–79, §8, Nov. 16, 1981, 95 Stat. 1078.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

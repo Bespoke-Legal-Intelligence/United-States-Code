@@ -130,7 +130,7 @@ Pub. L. 94–417, §1(c), Sept. 21, 1976, 90 Stat. 1277, provided that:
 
 "(1) The amendments made by subsection (a) of this section \[amending this section\] shall be effective on October 1, 1976.
 
-"(2) At the time of the first payment to a State under section 641 \[now 1741\] of title 38, United States Code, as amended by subsection (a) of this section, the Administrator of Veterans' Affairs shall pay such State, in a lump sum, an amount equal to the difference between the total amount paid each such State under such section 641 \[now 1741\] for care provided by such State in a State home from January 1, 1976, to October 1, 1976, and the amount such State would have been paid for providing such care if the amendment made by subsection\(a) of this section had been effective on January 1, 1976."
+"(2) At the time of the first payment to a State under section 641 \[now 1741\] of title 38, United States Code, as amended by subsection (a) of this section, the Administrator of Veterans' Affairs shall pay such State, in a lump sum, an amount equal to the difference between the total amount paid each such State under such section 641 \[now 1741\] for care provided by such State in a State home from January 1, 1976, to October 1, 1976, and the amount such State would have been paid for providing such care if the amendment made by subsection (a) of this section had been effective on January 1, 1976."
 
 #### Effective Date of 1973 Amendment
 
@@ -150,7 +150,7 @@ Additional Legislative or Administrative Action.—
 
 &emsp;"(1)
 
-Consultation with indian tribes.—Not later than 180 days after the date of the enactment of this Act \[Jan. 5, 2021\], the Secretary of Veterans Affairs shall consult with Indian tribes to determine if any legislative or administrative action is necessary to modify the State home program to function efficiently in support of State homes operated by Indian tribes pursuant to the amendments made by this section \[amending this section and sections 101, 8131 and 8132 of this title\].
+Consultation with indian tribes.—Not later than 180 days after the date of the enactment of this Act \[Jan. 5, 2021\], the Secretary of Veterans Affairs shall consult with Indian tribes to determine if any legislative or administrative action is necessary to modify the State home program to function efficiently in support of State homes operated by Indiantribes pursuant to the amendments made by this section \[amending this section and sections 101, 8131 and 8132 of this title\].
 
 &emsp;"(2)
 
@@ -252,5 +252,5 @@ State home.—The term 'State home' has the meaning given that term in section 1
 
 #### Payments to States for Nursing Home Care
 
-Pub. L. 88–450, §3(b), Aug. 19, 1964, 78 Stat. 501, provided that: "No payment shall be made to any Statehome solely by reason of the amendment made by this section \[amending this section\] on account of nursing home care furnished any veteran except where such care is furnished the veteran by the State home for the first time after the effective date of this section \[Jan. 1, 1965\]."
+Pub. L. 88–450, §3(b), Aug. 19, 1964, 78 Stat. 501, provided that: "No payment shall be made to any State home solely by reason of the amendment made by this section \[amending this section\] on account of nursing home care furnished any veteran except where such care is furnished the veteran by the State home for the first time after the effective date of this section \[Jan. 1, 1965\]."
 

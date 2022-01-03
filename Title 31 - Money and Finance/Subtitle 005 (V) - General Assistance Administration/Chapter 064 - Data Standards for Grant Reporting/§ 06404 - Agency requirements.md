@@ -1,6 +1,6 @@
 ### §6404. Agency requirements
 
-Not later than 1 year after the date on which guidance is issued or updated under subsection\(b) or (c), respectively, of section 6403, the head of each agency shall—
+Not later than 1 year after the date on which guidance is issued or updated under subsection (b) or (c), respectively, of section 6403, the head of each agency shall—
 
 &emsp;(1) ensure that all of the Federal awards that the agency issues use data standards for all future information collection requests; and
 

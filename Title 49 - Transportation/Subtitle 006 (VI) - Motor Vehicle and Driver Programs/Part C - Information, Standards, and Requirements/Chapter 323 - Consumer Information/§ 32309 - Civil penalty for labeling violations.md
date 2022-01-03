@@ -40,9 +40,13 @@ In subsection (b), the words "Each failure to attach or maintain that label" are
 
 This amends the catchline for 49:32309 to correct an error in the codification enacted by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1042).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–429 substituted "Civil" for "Criminal" in section catchline.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

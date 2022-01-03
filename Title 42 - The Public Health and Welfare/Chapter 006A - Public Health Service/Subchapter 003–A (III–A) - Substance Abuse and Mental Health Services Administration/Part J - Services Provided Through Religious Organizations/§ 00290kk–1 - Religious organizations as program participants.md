@@ -10,13 +10,13 @@ Notwithstanding any other provision of law, a religious organization, on the sam
 
 #### (b) Religious organizations
 
-The purpose of this section is to allow religious organizations to be program participantson the same basis as any other nonprofit private provider without impairing the religious character of such organizations, and without diminishing the religious freedom of program beneficiaries.
+The purpose of this section is to allow religious organizations to be program participants on the same basis as any other nonprofit private provider without impairing the religious character of such organizations, and without diminishing the religious freedom of program beneficiaries.
 
 #### (c) Nondiscrimination against religious organizations
 
 #### (1) Eligibility as program participants
 
-&emsp;Religious organizations are eligible to be program participants on the same basis as any other nonprofit private organization as long as the programs are implemented consistent with the Establishment Clause and Free Exercise Clause of the First Amendment to the United States Constitution. Nothing in this chapter shall be construed to restrict the ability of the Federal Government, or a State or local government receiving funds under such programs, to apply to religious organizations the same eligibility conditions in designated programs as are applied to any other nonprofit private organization.
+&emsp;Religious organizations are eligible to be program participants on the same basis as any other nonprofit private organization as long as the programs are implemented consistent with the Establishment Clause and Free Exercise Clause of the First Amendment to the United States Constitution. Nothing in this chapter shall be construed to restrict the ability of theFederal Government, or a State or local government receiving funds under such programs, to apply to religious organizations the same eligibility conditions in designated programs as are applied to any other nonprofit private organization.
 
 #### (2) Nondiscrimination
 
@@ -85,6 +85,8 @@ Nothing in this section shall be construed to modify or affect the provisions of
 With respect to compliance with this section by an agency, a religious organization may obtain judicial review of agency action in accordance with chapter 7 of title 5.
 
 (July 1, 1944, ch. 373, title V, §582, as added Pub. L. 106–554, §1(a)(7) \[title I, §144\], Dec. 21, 2000, 114 Stat. 2763, 2763A–620.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

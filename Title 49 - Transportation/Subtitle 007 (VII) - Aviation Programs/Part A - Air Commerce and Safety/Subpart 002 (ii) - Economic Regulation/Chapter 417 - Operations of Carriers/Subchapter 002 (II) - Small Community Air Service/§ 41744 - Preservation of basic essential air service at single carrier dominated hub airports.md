@@ -10,9 +10,13 @@ Essential Airport Facility Defined.—In this section, the term "essential airpo
 
 (Added Pub. L. 106–181, title II, §204(a), Apr. 5, 2000, 114 Stat. 93; amended Pub. L. 108–176, title II, §225(b)(4), Dec. 12, 2003, 117 Stat. 2529.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2003</b>—Subsec. (b). Pub. L. 108–176 struck out "(as defined in section 41731)" after "large hub airport".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

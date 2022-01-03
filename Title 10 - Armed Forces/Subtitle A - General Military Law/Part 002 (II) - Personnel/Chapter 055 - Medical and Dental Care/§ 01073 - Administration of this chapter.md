@@ -28,6 +28,8 @@ June 7, 1956, ch. 374, §102(b), 70 Stat. 251.
 
 The words "armed forces under his jurisdiction" are substituted for the words "Army, Navy, Air Force, and Marine Corps and for the Coast Guard when it is operating as a service in the Navy" to reflect section 101(4) of this title.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Assisted Suicide Funding Restriction Act of 1997, referred to in subsec. (a)(1), is Pub. L. 105–12, Apr. 30, 1997, 111 Stat. 23, which is classified principally to chapter 138 (§14401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 14401 of Title 42 and Tables.
@@ -56,6 +58,8 @@ Pub. L. 106–65, §1066(a)(7), inserted "(42 U.S.C. 14401 et seq.)" after "Act 
 
 Pub. L. 89–614 substituted "1087" for "1085" in section catchline and text.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
@@ -74,7 +78,35 @@ For effective date of amendment by Pub. L. 89–614, see section 3 of Pub. L. 89
 
 #### Repeals
 
-The directory language of, but not the amendment made by, Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117,cited as a credit to this section, was repealed by Pub. L. 97–295, §6(b), Oct. 12, 1982, 96 Stat. 1314.
+The directory language of, but not the amendment made by, Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117, cited as a credit to this section, was repealed by Pub. L. 97–295, §6(b), Oct. 12, 1982, 96 Stat. 1314.
+
+#### Pilot Program on Assistance for Mental Health Appointment Scheduling at Military Medical Treatment Facilities
+
+Pub. L. 117–81, div. A, title VII, §734, Dec. 27, 2021, 135 Stat. 1799, provided that:
+
+"(a)
+
+Pilot Program.—Not later than 180 days after the date of the enactment of this Act \[Dec. 27, 2021\], the Secretary of Defense shall commence a pilot program, to be carried out for at least a one-year period, to provide direct assistance for mental health appointment scheduling under the direct care and purchased care components of the TRICARE program, through facilities and clinics selected by the Secretary for participation in the pilot program in a number determined by the Secretary.
+
+"(b)
+
+Briefings.—
+
+&emsp;"(1)
+
+First briefing.—Not later than 180 days after the date of the enactment of this Act, the Secretary shall provide to the Committees on Armed Services of the House of Representatives and the Senate a briefing on the nature of the pilot program under subsection (a).
+
+&emsp;"(2)
+
+Final briefing.—Not later than 90 days after the date on which the pilot program under subsection (a) terminates, the Secretary shall provide to the Committees on Armed Services of the House of Representatives and the Senate a briefing on the pilot program. Such briefing shall include an assessment of—
+
+&emsp;&emsp;"(A) the effectiveness of the pilot program with respect to improved access to mental health appointments; and
+
+&emsp;&emsp;"(B) any barriers to scheduling mental health appointments under the pilot program observed by health care professionals or other individuals involved in scheduling such appointments.
+
+"(c)
+
+TRICARE Program Defined.—In this section, the term 'TRICARE program' has the meaning given such term in section 1072 of title 10, United States Code."
 
 #### Extramedical Maternal Health Providers Demonstration Project
 
@@ -202,7 +234,7 @@ Requirement.—In addition to any other qualification required by law or regulat
 
 "(b)
 
-Application.—Subsection (a) shall apply with respect to an individual who is commissioned as an officer in the Armed Forces on or after the date that is oneyear after the date of the enactment of this Act \[Dec. 12, 2017\]."
+Application.—Subsection (a) shall apply with respect to an individual who is commissioned as an officer in the Armed Forces on or after the date that is one year after the date of the enactment of this Act \[Dec. 12, 2017\]."
 
 #### Authorization of Physical Therapist Assistants and Occupational Therapy Assistants To Provide Services Under the TRICARE Program
 
@@ -248,7 +280,7 @@ Requirements.—In carrying out the pilot program under paragraph (1), the Secre
 
 &emsp;"(C) reduce or eliminate copayments or cost shares for covered beneficiaries to receive health care services from high-value providers;
 
-&emsp;"(D) credit the amount of any reduction or elimination of a copayment or cost share under subparagraph (B) or (C) for a covered beneficiary towards meeting a deductible applicable to the covered beneficiary in the purchased care component of the TRICARE program to the same extent as if such reduction or elimination had not applied; and
+&emsp;"(D) credit the amount of any reduction or elimination of a copayment or cost share under subparagraph (B) or (C) for a covered beneficiary towards meeting a deductible applicable to the covered beneficiary in the purchased care component of theTRICARE program to the same extent as if such reduction or elimination had not applied; and
 
 &emsp;"(E) develop a process to reimburse high-value providers at rates higher than those rates for health care providers that are not high-value providers.
 
@@ -296,7 +328,7 @@ Comptroller general preliminary review and assessment.—
 
 Review and assessment of pilot program.—
 
-&emsp;"(A) Not later than January 1, 2023, the Secretary shall submit to the Committees on Armed Services ofthe Senate and the House of Representatives a review and assessment of the pilot program.
+&emsp;"(A) Not later than January 1, 2023, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a review and assessment of the pilot program.
 
 &emsp;"(B) The review and assessment required under subparagraph (A) shall include the following:
 
@@ -324,7 +356,7 @@ Termination.—The Secretary may not carry out the pilot program after December 
 
 #### Improvement of Health Outcomes and Control of Costs of Health Care Under TRICARE Program Through Programs To Involve Covered Beneficiaries
 
-Pub. L. 114–328, div. A, title VII, §729, Dec. 23, 2016, 130 Stat. 2234, provided that:
+Pub. L. 114–328, div. A, title VII, §729, Dec. 23, 2016, 130 Stat. 2234, as amended by Pub. L. 117–81, div. A, title VII, §719, Dec. 27, 2021, 135 Stat. 1790, provided that:
 
 "(a)
 
@@ -332,7 +364,7 @@ Medical Intervention Incentive Program.—
 
 &emsp;"(1)
 
-In general.—The Secretary of Defense shall establish a program to incentivize covered beneficiaries to participate in medical intervention programs established by the Secretary, such as comprehensive disease management programs, that may include lowering fees for enrollment in the TRICARE program by a certain percentage or lowering copayment and cost-share amounts for health care services during a particular year for covered beneficiaries with chronic diseases or conditions described in paragraph (2) who met participation milestones, as determined by the Secretary, in the previous year in such medical intervention programs.
+In general.—The Secretary of Defense shall establish a program to incentivize covered beneficiaries to participate in medical intervention programs established by the Secretary, such as comprehensive disease management programs, that may include lowering fees for enrollment in the TRICARE program by a certain percentage or lowering copayment and cost-share amounts for health care services during a particular year for covered beneficiaries with chronic diseases or conditions described in paragraph (2) who met participation milestones, as determined by the Secretary, in such medical intervention programs.
 
 &emsp;"(2)
 
@@ -340,11 +372,11 @@ Chronic diseases or conditions described.—Chronic diseases or conditions descr
 
 "(b)
 
-Lifestyle Intervention Incentive Program.—The Secretary shall establish a program to incentivize lifestyle interventions for covered beneficiaries, such as smoking cessation and weight reduction, that may include lowering fees for enrollment in the TRICARE program by a certain percentage or lowering copayment and cost share amounts for health care services during a particular year for covered beneficiaries who met participation milestones, as determined by the Secretary, in the previous year with respect to such lifestyle interventions, such as quitting smoking or achieving a lower body mass index by a certain percentage.
+Lifestyle Intervention Incentive Program.—The Secretary shall establish a program to incentivize lifestyle interventions for covered beneficiaries, such as smoking cessation and weight reduction, that may include lowering fees for enrollment in the TRICARE program by a certain percentage or lowering copayment and cost share amounts for health care services during a particular year for covered beneficiaries who met participation milestones, as determined by the Secretary, with respect to such lifestyle interventions, such as quitting smoking or achieving a lower body mass index by a certain percentage.
 
 "(c)
 
-Healthy Lifestyle Maintenance Incentive Program.—The Secretary shall establish a program to incentivize the maintenance of a healthy lifestyle among covered beneficiaries, such as exercise and weight maintenance, that may include lowering fees for enrollment in the TRICARE program by a certain percentage or lowering copayment and cost-share amounts for health care services during a particular year for covered beneficiaries who met participation milestones, as determined by the Secretary, in the previous year with respect to the maintenance of a healthy lifestyle, such as maintaining smoking cessation or maintaining a normal body mass index.
+Healthy Lifestyle Maintenance Incentive Program.—The Secretary shall establish a program to incentivize the maintenance of a healthy lifestyle among covered beneficiaries, such as exercise and weight maintenance, that may include lowering fees for enrollment in the TRICARE program by a certain percentage or lowering copayment and cost-share amounts for health care services during a particular year for covered beneficiaries who met participation milestones, as determined by the Secretary, with respect to the maintenance of a healthy lifestyle, such as maintaining smoking cessation or maintaining a normal body mass index.
 
 "(d)
 
@@ -968,7 +1000,7 @@ Waiver Authority.—The Secretary may waive the prohibition in subsection (a) if
 
 &emsp;"(2) the Secretary provides notification of the Secretary's intent to grant a waiver under this subsection to covered beneficiaries who receive care at the military medical treatment facility or facilities that will be affected by the decision to grant a waiver under this subsection;
 
-&emsp;"(3) the Secretary notifies the Committees on Armed Services of the House of Representatives and the Senate of the Secretary's intent to grant a waiverunder this subsection, the reason for the waiver, and the date that a nonavailability statement will be required; and
+&emsp;"(3) the Secretary notifies the Committees on Armed Services of the House of Representatives and the Senate of the Secretary's intent to grant a waiver under this subsection, the reason for the waiver, and the date that a nonavailability statement will be required; and
 
 &emsp;"(4) 60 days have elapsed since the date of the notification described in paragraph (3).
 
@@ -1028,7 +1060,7 @@ Suspension of Implementation of Program.—The Secretary shall suspend any plan 
 
 &emsp;"(2) the Secretary implements cost-saving reforms with respect to the military and contractor retail and mail order pharmacy system."
 
-Pub. L. 105–261, div. A, title VII, §723, Oct. 17, 1998, 112 Stat. 2068, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[\[div. A\], title VII, §711(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–175, provided that:
+Pub. L. 105–261, div. A, title VII, §723, Oct. 17, 1998, 112 Stat. 2068, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1\[\[div. A\], title VII, §711(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–175, provided that:
 
 "(a)
 
@@ -1070,7 +1102,7 @@ Eligible Individuals.—(1) An individual is eligible to participate under this 
 
 #### System for Tracking Data and Measuring Performance in Meeting TRICARE Access Standards
 
-Pub. L. 105–261, div. A, title VII, §713, Oct. 17, 1998, 112 Stat. 2060, directed the Secretary of Defense to establish a system, no later than Apr. 1, 1999, for trackingdata and measuring performance in meeting primary care access standards under the TRICARE program.
+Pub. L. 105–261, div. A, title VII, §713, Oct. 17, 1998, 112 Stat. 2060, directed the Secretary of Defense to establish a system, no later than Apr. 1, 1999, for tracking data and measuring performance in meeting primary care access standards under the TRICARE program.
 
 #### TRICARE as Supplement to Medicare Demonstration
 
@@ -1236,7 +1268,7 @@ Special Rule for Medicare-Eligible Beneficiaries.—(1) Except as provided in pa
 
 "(f)
 
-Information Regarding Eligible Covered Beneficiaries.—The Secretary shall provide, in a timelymanner, a designated provider with an accurate list of covered beneficiaries within the marketing area of the designated provider to whom the designated provider may offer enrollment.
+Information Regarding Eligible Covered Beneficiaries.—The Secretary shall provide, in a timely manner, a designated provider with an accurate list of covered beneficiaries within the marketing area of the designated provider to whom the designated provider may offer enrollment.
 
 "(g)
 
@@ -1280,7 +1312,7 @@ Establishment of Payment Rates on Annual Basis.—The Secretary and a designated
 
 "(d)
 
-Alternative Basis for Calculating Payments.—After September 30, 1999, the Secretary and a designated provider may mutually agree upon a new basis for calculating capitation payments.
+Alternative Basis for Calculating Payments.—After September 30, 1999, the Secretary and adesignated provider may mutually agree upon a new basis for calculating capitation payments.
 
 #### "SEC. 727. REPEAL OF SUPERSEDED AUTHORITIES.
 
@@ -1398,7 +1430,7 @@ Modification of Existing Contracts.—In the case of managed health care contrac
 
 #### Managed Health Care Program and Contracts for Military Health Services System
 
-Pub. L. 104–61, title VI, Dec. 1, 1995, 109 Stat. 649, provided in part that the date for implementation of thenation-wide managed care military health services system would be extended to Sept. 30, 1997.
+Pub. L. 104–61, title VI, Dec. 1, 1995, 109 Stat. 649, provided in part that the date for implementation of the nation-wide managed care military health services system would be extended to Sept. 30, 1997.
 
 Pub. L. 103–139, title VIII, §8025, Nov. 11, 1993, 107 Stat. 1443, provided that: "Notwithstanding any other provision of law, to establish region-wide, at-risk, fixed price managed care contracts possessing features similar to those of the CHAMPUS Reform Initiative, the Secretary of Defense shall submit to the Congress a plan to implement a nation-wide managed health care program for the military health services system not later than December 31, 1993: <i>Provided</i>, That the program shall include, but not be limited to: (1) a uniform, stabilized benefit structure characterized by a triple option health benefit feature; (2) a regionally-based health care management system; (3) cost minimization incentives including 'gatekeeping' and annual enrollment procedures, capitation budgeting, and at-risk managed care support contracts; and (4) full and open competition for all managed care support contracts: <i>Provided further</i>, That the implementation of the nation-wide managed care military health services system shall be completed by September 30, 1996: <i>Provided further</i>, That the Department shall competitively award contracts in fiscal year 1994 for at least four new region-wide, at-risk, fixed price managed care support contracts consistent with the nation-wide plan, that one such contract shall include the State of Florida (which may include Department of Veterans Affairs' medical facilities with the concurrence of the Secretary of Veterans Affairs), one such contract shall include the States of Washington and Oregon, and one such contract shall include the State of Texas: <i>Provided further</i>, That any law or regulation of a State or local government relating to health insurance, prepaid health plans, or other health care delivery, administration, and financing methods shall be preempted and shall not apply to any region-wide, at-risk, fixed price managed care contract entered into pursuant to chapter 55 of title 10, United States Code: <i>Provided further</i>, That the Department shall competitively award within 13 months after the date of enactment of this Act \[Nov. 11, 1993\] two contracts for stand-alone, at-risk managed mental health services in high utilization, high-cost areas, consistent with the management and service delivery features in operation in Department of Defense managed mental health care contracts: <i>Provided further</i>, That the Assistant Secretary of Defense for Health Affairs shall, during the current fiscal year, initiate through competitive procedures a managed health care program for eligible beneficiaries in the area of Homestead Air Force Base with benefits and services substantially identical to those established to serve beneficiary populations in areas where military medical facilities have been terminated, to include retail pharmacy networks available to Medicare-eligible beneficiaries, and shall present a plan to implement this program to the House and Senate Committees on Appropriations not later than January 15, 1994."
 
@@ -1434,7 +1466,7 @@ Pub. L. 99–661, div. A, title VII, §702, Nov. 14, 1986, 100 Stat. 3899, as am
 
 Pub. L. 114–328, div. A, title VII, §701(i), Dec. 23, 2016, 130 Stat. 2190, provided that: "In this section \[enacting sections 1075 and 1075a of this title, amending sections 1072, 1076d, 1076e, 1079a, 1095f, 1099, and 1110b of this title, and enacting provisions set out as notes under this section and sections 1072 and 1099 of this title\]:
 
-&emsp;"(1) The terms 'uniformed services', 'covered beneficiary', 'TRICARE Extra', 'TRICARE for Life','TRICARE Prime', and 'TRICARE Standard', have the meaning given those terms in section 1072 of title 10, United States Code, as amended by subsection (j).
+&emsp;"(1) The terms 'uniformed services', 'covered beneficiary', 'TRICARE Extra', 'TRICARE for Life', 'TRICARE Prime', and 'TRICARE Standard', have the meaning given those terms in section 1072 of title 10, United States Code, as amended by subsection (j).
 
 &emsp;"(2) The term 'TRICARE Select' means the self-managed, preferred-provider network option under the TRICARE program established by section 1075 of such title, as added by subsection (a).
 

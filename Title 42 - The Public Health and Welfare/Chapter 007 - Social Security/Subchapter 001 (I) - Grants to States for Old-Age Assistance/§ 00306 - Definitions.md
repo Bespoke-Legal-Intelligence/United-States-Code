@@ -22,6 +22,8 @@
 
 <i>Pub. L. 92–603, title III, §303(a), (b), Oct. 30, 1972, 86 Stat. 1484, provided that this section is repealed effective Jan. 1, 1974, except with respect to Puerto Rico, Guam, and the Virgin Islands.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1981</b>—Subsecs. (b), (c). Pub. L. 97–35 struck out subsecs. (b) and (c) which defined "medical assistance for the aged" and "Federal medical percentage", respectively.
@@ -32,7 +34,7 @@
 
 Pub. L. 89–97, §402(a), extended definition of "old-age assistance" to include payments made on behalf of the recipient to an individual who (as determined in accordance with the standards prescribed by the Secretary) is interested in or concerned with the welfare of the recipient and inserted an enumeration of the five characteristics required of State plans under which such payments can be made, including provision for finding of inability to manage funds, payment to meet all needs, special efforts to protect welfare, periodic review, and opportunity for fair hearing.
 
-Subsec. (b). Pub. L. 89–97, §§221(a)(2), 222(a), struck out from provision at end of cl. (12) excluding certain payments from definition of "medical assistance for the aged" payments with respect to care or services for any individual who is a patient in an institution for tuberculosis or mental diseases or for any individual who is a patient in a medical institution as a result of a diagnosis of tuberculosis or psychosis, with respect to any period after the individual has been a patient insuch an institution, for forty-two days and inserted in text preceding cl. (1) "(except, for any month, for recipients of old-age assistance who are admitted to or discharged from a medical institution during such month)" after "who are not recipients of old-age assistance", respectively.
+Subsec. (b). Pub. L. 89–97, §§221(a)(2), 222(a), struck out from provision at end of cl. (12) excluding certain payments from definition of "medical assistance for the aged" payments with respect to care or services for any individual who is a patient in an institution for tuberculosis or mental diseases or for any individual who is a patient in a medical institution as a result of a diagnosis of tuberculosis or psychosis, with respect to any period after the individual has been a patient in such an institution, for forty-two days and inserted in text preceding cl. (1) "(except, for any month, for recipients of old-age assistance who are admitted to or discharged from a medical institution during such month)" after "who are not recipients of old-age assistance", respectively.
 
 <b>1962</b>—Subsec. (a). Pub. L. 87–543, §156(a)(1), inserted "(if provided in or after the third month before the month in which the recipient makes application for assistance)" before "medical care".
 
@@ -45,6 +47,8 @@ Subsecs. (b), (c). Pub. L. 86–778, §601(f)(2), added subsecs. (b) and (c).
 <b>1950</b>—Act Aug. 28, 1950, redefined "old-age assistance".
 
 <b>1939</b>—Act Aug. 10, 1939, inserted "needy" before "individuals who".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1965 Amendment
 

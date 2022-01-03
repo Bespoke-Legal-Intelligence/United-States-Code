@@ -2,7 +2,7 @@
 
 #### (a) Report required
 
-Not later than 1 year after December 27, 2020, the Director of National Intelligence (referred to in this section as the "Director"), in consultation with the Secretary of the Interior, the Secretary of Energy, the Secretary of Commerce, the Secretary of State, the Secretary of Defense,and the United States Trade Representative, shall submit to the appropriate congressional committees a report on investments in minerals under the Belt and Road Initiative of the People's Republic of China that includes an assessment of—
+Not later than 1 year after December 27, 2020, the Director of National Intelligence (referred to in this section as the "Director"), in consultation with the Secretary of the Interior, the Secretary of Energy, the Secretary of Commerce, the Secretary of State, the Secretary of Defense, and the United States Trade Representative, shall submit to the appropriate congressional committees a report on investments in minerals under the Belt and Road Initiative of the People's Republic of China that includes an assessment of—
 
 &emsp;(1) notable past mineral investments;
 
@@ -50,7 +50,7 @@ Each report or list required by this section shall be submitted in unclassified 
 
 In this section, the term "appropriate congressional committees" means—
 
-&emsp;(1) the Committee on Energy and Natural Resources, the Committee on Foreign Relations, the Committee on Armed Services, the Committee on Finance, the Committee on Homeland Security and Governmental Affairs, the Committee on Commerce, Science, and Transportation, and the Committee on Appropriations of the Senate; and
+&emsp;(1) the Committee on Energy and Natural Resources, the Committee on Foreign Relations, the Committee on Armed Services, the Committee on Finance, the Committee on Homeland Security and Governmental Affairs,the Committee on Commerce, Science, and Transportation, and the Committee on Appropriations of the Senate; and
 
 &emsp;(2) the Committee on Energy and Commerce, the Committee on Foreign Affairs, the Committee on Armed Services, the Committee on Ways and Means, the Committee on Homeland Security, and the Committee on Appropriations of the House of Representatives.
 

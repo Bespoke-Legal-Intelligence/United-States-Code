@@ -120,7 +120,7 @@ The Council shall—
 
 #### (1) In general
 
-&emsp;The Council shall provide to a nonbank financial company written notice of a proposed determination of the Council, including an explanation of the basis of the proposed determination of the Council, that a nonbank financial company shall be supervised by the Board of Governors and shall be subject to prudential standards in accordance with this subchapter.
+&emsp;The Council shall provide to a nonbank financial company written notice of a proposed determination of the Council, including an explanation of the basis of the proposed determination of the Council, that a nonbank financial company shall be supervised by the Board of Governors and shall be subject toprudential standards in accordance with this subchapter.
 
 #### (2) Hearing
 
@@ -128,7 +128,7 @@ The Council shall—
 
 #### (3) Final determination
 
-&emsp;Not later than 60 days after the date of a hearing under paragraph (2), the Council shall notify the nonbank financial company of thefinal determination of the Council, which shall contain a statement of the basis for the decision of the Council.
+&emsp;Not later than 60 days after the date of a hearing under paragraph (2), the Council shall notify the nonbank financial company of the final determination of the Council, which shall contain a statement of the basis for the decision of the Council.
 
 #### (4) No hearing requested
 
@@ -176,5 +176,5 @@ In exercising its duties under this subchapter with respect to foreign nonbank f
 
 This subchapter, referred to in subsecs. (a)(1), (b)(1), (c)(1), (3), (6), (e)(1), and (i), was in the original "this title", meaning title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1391, which is classified principally to this subchapter. For complete classification of title I to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-This Act, referred to in subsec. (c)(6), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act, which enacted this chapter and chapters 108 (§8201 et seq.) and 109 (§8301 et seq.) of Title 15, Commerce and Trade, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+This Act, referred to in subsec. (c)(6), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act, which enacted this chapter and chapters 108 (§8201 et seq.) and 109 (§8301 et seq.) of Title 15, Commerce and Trade, and enacted, amended, and repealed numerous other sections and notes in the Code. For completeclassification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 

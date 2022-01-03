@@ -4,9 +4,13 @@ Funds deposited to the credit of allottees, their heirs, or devisees may be used
 
 (Apr. 23, 1946, ch. 199, §3, 60 Stat. 118.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was not enacted as part of act May 18, 1938, which comprises this chapter.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

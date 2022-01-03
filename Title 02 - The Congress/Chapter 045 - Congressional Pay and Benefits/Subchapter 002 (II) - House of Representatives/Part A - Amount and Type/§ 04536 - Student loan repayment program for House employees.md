@@ -44,5 +44,5 @@ Pub. L. 116–260, div. I, title I, §114(b)(2), Dec. 27, 2020, 134 Stat. 1636, 
 
 &emsp;"(B) prior to fiscal year 2021, had payments made on the individual's behalf under the program under such section; and
 
-&emsp;"(C) prior to fiscal year 2021, became ineligible to have payments made on the individual's behalf underthe program because the aggregate amount of the payments made on the individual's behalf under the program reached the limit on such aggregate amount which (under regulations promulgated by the Committee) was in effect prior to fiscal year 2021."
+&emsp;"(C) prior to fiscal year 2021, became ineligible to have payments made on the individual's behalf under the program because the aggregate amount of the payments made on the individual's behalf under the program reached the limit on such aggregate amount which (under regulations promulgated by the Committee) was in effect prior to fiscal year 2021."
 

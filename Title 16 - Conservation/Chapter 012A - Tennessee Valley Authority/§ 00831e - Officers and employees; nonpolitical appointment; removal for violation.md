@@ -4,9 +4,13 @@ In the appointment of officials and the selection of employees for said Corporat
 
 (May 18, 1933, ch. 32, §6, 48 Stat. 63; Pub. L. 108–447, div. C, title VI, §603(a)(2), Dec. 8, 2004, 118 Stat. 2966.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Pub. L. 108–447 substituted "Board" for "board" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

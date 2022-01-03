@@ -28,7 +28,7 @@ Definitions.—In this section:
 
 &emsp;(1) The term "Department of Defense educational assistance programs and authorities covered by this section" means the programs and authorities as follows:
 
-&emsp;&emsp;(A) The programs to assist military spouses in achieving education and training to expand employment and portable career opportunities under section 1784a of this title.
+&emsp;&emsp;(A) The programs to assist military spouses in achieving education and trainingto expand employment and portable career opportunities under section 1784a of this title.
 
 &emsp;&emsp;(B) The authority to pay tuition for off-duty training or education of members of the armed forces under section 2007 of this title.
 
@@ -42,11 +42,15 @@ Definitions.—In this section:
 
 (Added Pub. L. 113–66, div. A, title V, §541(a), Dec. 26, 2013, 127 Stat. 760; amended Pub. L. 114–92, div. A, title X, §1081(a)(6), Nov. 25, 2015, 129 Stat. 1001; Pub. L. 115–232, div. A, title X, §1081(a)(15), Aug. 13, 2018, 132 Stat. 1984.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (b)(3). Pub. L. 115–232 substituted "such programs" for "the such programs".
 
 <b>2015</b>—Subsec. (a). Pub. L. 114–92 substituted "August 1" for "August, 1" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

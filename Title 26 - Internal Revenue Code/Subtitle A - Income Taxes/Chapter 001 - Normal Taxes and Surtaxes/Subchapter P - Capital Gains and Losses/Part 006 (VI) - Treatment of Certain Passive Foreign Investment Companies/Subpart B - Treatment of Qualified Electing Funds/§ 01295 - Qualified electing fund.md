@@ -24,6 +24,8 @@ For purposes of this part, any passive foreign investment company shall be treat
 
 (Added Pub. L. 99–514, title XII, §1235(a), Oct. 22, 1986, 100 Stat. 2571; amended Pub. L. 100–647, title I, §1012(p)(37)(A), title VI, §6127(a), Nov. 10, 1988, 102 Stat. 3522, 3715.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–647, §6127(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "For purposes of this part, the term 'qualified electing fund' means any passive foreign investment company if—
@@ -50,6 +52,8 @@ When made.—An election under this subsection may be made for any taxable year 
 
 Pub. L. 100–647, §1012(p)(37)(A), inserted sentence at end of par. (2) permitting a later election when a company reasonably believed it was not a passive foreign investment company.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1988 Amendment
 
 Amendment by section 1012(p)(37)(A) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
@@ -66,7 +70,7 @@ Time for making election.—The period during which an election under section 12
 
 #### Effective Date
 
-Section applicable to taxable years of foreign corporations beginning after Dec. 31, 1986, see section 1235(h) of Pub. L. 99–514, set out as a note under section 1291 of this title.
+Section applicable to taxable years of foreign corporations beginning after Dec. 31, 1986, see section1235(h) of Pub. L. 99–514, set out as a note under section 1291 of this title.
 
 #### Expiration of Subsection (b) Election Period
 

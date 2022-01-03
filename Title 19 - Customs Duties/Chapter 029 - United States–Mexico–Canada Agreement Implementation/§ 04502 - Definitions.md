@@ -52,6 +52,8 @@ In this Act:
 
 (Pub. L. 116–113, §3, Jan. 29, 2020, 134 Stat. 13.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in text, is Pub. L. 116–113, Jan. 29, 2020, 134 Stat. 11, known as the United States-Mexico-Canada Agreement Implementation Act. For complete classification of this Act to the Code, see Short Title note set out under section 4501 of this title and Tables.

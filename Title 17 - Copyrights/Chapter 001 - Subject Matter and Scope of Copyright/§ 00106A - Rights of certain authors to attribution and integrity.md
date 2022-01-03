@@ -14,7 +14,7 @@ Rights of Attribution and Integrity.—Subject to section 107 and independent of
 
 &emsp;(3) subject to the limitations set forth in section 113(d), shall have the right—
 
-&emsp;&emsp;(A) to prevent any intentional distortion, mutilation, or other modification of that work which would be prejudicial to his or her honor or reputation, and any intentional distortion, mutilation, or modification of that work is a violation of that right, and
+&emsp;&emsp;(A) to prevent any intentional distortion, mutilation, or other modification of that work which would be prejudicial to his or her honor or reputation, and any intentionaldistortion, mutilation, or modification of that work is a violation of that right, and
 
 &emsp;&emsp;(B) to prevent any destruction of a work of recognized stature, and any intentional or grossly negligent destruction of that work is a violation of that right.
 

@@ -50,9 +50,13 @@ Unless superseded by an Act of Congress, the authority provided by this section 
 
 (Pub. L. 104–46, title V, §508, Nov. 13, 1995, 109 Stat. 419.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
-Section was enacted as part of the Energy and Water Development Appropriations Act, 1996, and not as part of the Bonneville Project Act of 1937 which comprises this chapter.
+Section was enacted as part of the Energy and Water Development Appropriations Act, 1996, and not as partof the Bonneville Project Act of 1937 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Voluntary Separation Incentives to Employees
 

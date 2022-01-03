@@ -2,7 +2,7 @@
 
 #### (a) Criminal liability
 
-Whoever shall willfully violate any of the provisions of this chapter or of any license, rule, orregulation issued thereunder, and whoever shall willfully violate, neglect, or refuse to comply with any order of the President issued in compliance with the provisions of the chapter shall, upon conviction, be fined not more than $1,000,000, or if a natural person, be imprisoned for not more than 20 years, or both.
+Whoever shall willfully violate any of the provisions of this chapter or of any license, rule, or regulation issued thereunder, and whoever shall willfully violate, neglect, or refuse to comply with any order of the President issued in compliance with the provisions of the chapter shall, upon conviction, be fined not more than $1,000,000, or if a natural person, be imprisoned for not more than 20 years, or both.
 
 #### (b) Civil liability; hearing; judicial review
 
@@ -19,6 +19,8 @@ Whoever shall willfully violate any of the provisions of this chapter or of any 
 Upon conviction, any property, funds, securities, papers, or other articles or documents, or any vessel, together with tackle, apparel, furniture, and equipment, concerned in any violation of subsection (a) may be forfeited to the United States.
 
 (Oct. 6, 1917, ch. 106, §16, 40 Stat. 425; Pub. L. 95–223, title I, §103(a), Dec. 28, 1977, 91 Stat. 1626; Pub. L. 102–393, title VI, §628, Oct. 6, 1992, 106 Stat. 1772; Pub. L. 102–484, div. A, title XVII, §1710(c), Oct. 23, 1992, 106 Stat. 2580; Pub. L. 104–114, title I, §102(d), Mar. 12, 1996, 110 Stat. 792; Pub. L. 111–195, title I, §107(a)(4), July 1, 2010, 124 Stat. 1337.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

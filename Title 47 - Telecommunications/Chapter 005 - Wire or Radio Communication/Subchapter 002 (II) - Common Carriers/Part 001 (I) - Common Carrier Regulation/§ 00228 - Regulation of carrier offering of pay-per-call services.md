@@ -46,7 +46,7 @@ Within 270 days after October 28, 1992, the Commission shall, by regulation, est
 
 #### (3) Compliance procedures
 
-&emsp;A common carrier that by contract or tariff assigns a telephone number with a prefix or area code designated by the Commission in accordance with subsection (b)(5) to a provider of pay-per-call services shall terminate, in accordance with procedures specified in such regulations, the offering of a pay-per-call service of a provider if the carrier knows or reasonably should know that such service is not provided in compliance with title II or III of the Telephone Disclosure and Dispute Resolution Act \[15 U.S.C. 5711 et seq.; 5721 et seq.\] or the regulations prescribed by the Federal Trade Commission pursuant to such titles.
+&emsp;A common carrier that by contract or tariff assigns a telephone number with a prefix or area code designated by the Commission in accordance with subsection (b)(5) to a provider of pay-per-call services shall terminate, in accordance with procedures specified in suchregulations, the offering of a pay-per-call service of a provider if the carrier knows or reasonably should know that such service is not provided in compliance with title II or III of the Telephone Disclosure and Dispute Resolution Act \[15 U.S.C. 5711 et seq.; 5721 et seq.\] or the regulations prescribed by the Federal Trade Commission pursuant to such titles.
 
 #### (4) Subscriber disconnection prohibited
 
@@ -202,7 +202,7 @@ The regulations required by this section shall require that any common carrier t
 
 #### (2) Civil liability
 
-&emsp;No cause of action may be brought in any court or administrative agency against anycommon carrier or any of its affiliates on account of any act of the carrier or affiliate to terminate any pay-per-call service in order to comply with the regulations prescribed under this section, title II or III of the Telephone Disclosure and Dispute Resolution Act \[15 U.S.C. 5711 et seq.; 5721 et seq.\], or any other Federal law unless the complainant demonstrates that the carrier or affiliate did not act in good faith.
+&emsp;No cause of action may be brought in any court or administrative agency against any common carrier or any of its affiliates on account of any act of the carrier or affiliate to terminate any pay-per-call service in order to comply with the regulations prescribed under this section, title II or III of the Telephone Disclosure and Dispute Resolution Act \[15 U.S.C. 5711 et seq.; 5721 et seq.\], or any other Federal law unless the complainant demonstrates that the carrier or affiliate did not act in good faith.
 
 #### (f) Special provisions
 

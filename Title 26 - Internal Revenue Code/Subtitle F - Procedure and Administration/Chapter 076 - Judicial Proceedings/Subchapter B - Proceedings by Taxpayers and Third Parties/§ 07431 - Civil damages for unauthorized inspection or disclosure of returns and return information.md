@@ -34,7 +34,7 @@ In any action brought under subsection (a), upon a finding of liability on the p
 
 &emsp;(2) the costs of the action, plus
 
-&emsp;(3) in the case of a plaintiff which is described in section 7430(c)(4)(A)(ii), reasonableattorneys fees, except that if the defendant is the United States, reasonable attorneys fees may be awarded only if the plaintiff is the prevailing party (as determined under section 7430(c)(4)).
+&emsp;(3) in the case of a plaintiff which is described in section 7430(c)(4)(A)(ii), reasonable attorneys fees, except that if the defendant is the United States, reasonable attorneys fees may be awarded only if the plaintiff is the prevailing party (as determined under section 7430(c)(4)).
 
 #### (d) Period for bringing action
 
@@ -60,7 +60,7 @@ For purposes of this section, the terms "inspect", "inspection", "return", and "
 
 For purposes of this section—
 
-&emsp;(1) any information obtained under section 3406 (including information with respect to any payee certification failure under subsection (d) thereof) shall be treated as return information, and
+&emsp;(1) any information obtained under section 3406 (including information with respect toany payee certification failure under subsection (d) thereof) shall be treated as return information, and
 
 &emsp;(2) any inspection or use of such information other than for purposes of meeting any requirement under section 3406 or (subject to the safeguards set forth in section 6103) for purposes permitted under section 6103 shall be treated as a violation of section 6103.
 
@@ -71,6 +71,8 @@ For purposes of this section—
 For purposes of this section, any reference to section 6103 shall be treated as including a reference to section 6311(e).
 
 (Added Pub. L. 97–248, title III, §357(a), Sept. 3, 1982, 96 Stat. 645; amended Pub. L. 98–67, title I, §104(b), Aug. 5, 1983, 97 Stat. 379; Pub. L. 105–34, title XII, §1205(c)(2), Aug. 5, 1997, 111 Stat. 998; Pub. L. 105–35, §3(a)–(d)(4), (6), Aug. 5, 1997, 111 Stat. 1105, 1106; Pub. L. 105–206, title III, §3101(f), title VI, §6012(b)(3), July 22, 1998, 112 Stat. 729, 819; Pub. L. 109–280, title XII, §1224(b)(7), Aug. 17, 2006, 120 Stat. 1093; Pub. L. 116–25, title III, §3002(a), July 1, 2019, 133 Stat. 1015.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -115,6 +117,8 @@ Subsec. (g). Pub. L. 105–35, §3(b), (d)(6), redesignated subsec. (f) as (g) a
 Pub. L. 105–34, §1205(c)(2), added subsec. (g) relating to special rule for information obtained under section 6103(k)(8).
 
 <b>1983</b>—Subsec. (f). Pub. L. 98–67 added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2019 Amendment
 

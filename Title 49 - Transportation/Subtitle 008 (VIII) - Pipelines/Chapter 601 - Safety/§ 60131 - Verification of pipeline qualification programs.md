@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Subject to the requirements of this section, the Secretary of Transportationshall require the operator of a pipeline facility to develop and adopt a qualification program to ensure that the individuals who perform covered tasks are qualified to conduct such tasks.
+In General.—Subject to the requirements of this section, the Secretary of Transportation shall require the operator of a pipeline facility to develop and adopt a qualification program to ensure that the individuals who perform covered tasks are qualified to conduct such tasks.
 
 (b)
 
@@ -84,9 +84,13 @@ Report.—Not later than 4 years after the date of enactment of this section, th
 
 (Added Pub. L. 107–355, §13(a)(1), Dec. 17, 2002, 116 Stat. 2999.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this section, referred to in subsecs. (b)(1), (c), (e)(2), (6), and (h), is the date of enactment of Pub. L. 107–355, which was approved Dec. 17, 2002.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Pilot Program for Certification of Certain Pipeline Workers
 
@@ -98,7 +102,7 @@ In general.—Not later than 36 months after the date of enactment of this Act \
 
 &emsp;"(A) develop tests and other requirements for certifying the qualifications of individuals who operate computer-based systems for controlling the operations of pipelines; and
 
-&emsp;"(B) establish and carry out a pilot program for 3 pipeline facilities under which the individuals operating computer-based systems for controlling the operations of pipelines at such facilities are required to be certified under the process established under subparagraph (A).
+&emsp;"(B) establish and carry out a pilot program for 3 pipeline facilities under which the individuals operating computer-based systems for controlling the operations of pipelines at such facilities are required tobe certified under the process established under subparagraph (A).
 
 "(2)
 

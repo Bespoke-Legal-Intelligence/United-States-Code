@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;There is created within the Centers for Medicare \& Medicaid Services a Center for Medicare and Medicaid Innovation (in this section referred to as the "CMI") to carry out the duties described in this section. The purpose of the CMI is to test innovative payment and service delivery models to reduce program expenditures under the applicable subchapters while preserving or enhancing the quality of care furnished to individuals under such subchapters. In selecting such models, the Secretary shall give preference to models that also improve the coordination, quality, and efficiency of health care services furnished to applicable individuals defined in paragraph (4)(A).
+&emsp;There is created within the Centers for Medicare \& Medicaid Services a Center for Medicare and Medicaid Innovation (in this section referred to as the "CMI") to carry out the duties described in this section. The purpose of the CMI is to test innovative payment and service delivery models to reduce program expenditures under the applicable subchapters while preserving or enhancing the quality ofcare furnished to individuals under such subchapters. In selecting such models, the Secretary shall give preference to models that also improve the coordination, quality, and efficiency of health care services furnished to applicable individuals defined in paragraph (4)(A).
 
 #### (2) Deadline
 
@@ -56,7 +56,7 @@
 
 &emsp;&emsp;&emsp;(ii) Contracting directly with groups of providers of services and suppliers to promote innovative care delivery models, such as through risk-based comprehensive payment or salary-based payment.
 
-&emsp;&emsp;&emsp;(iii) Utilizing geriatric assessments and comprehensive care plans to coordinatethe care (including through interdisciplinary teams) of applicable individuals with multiple chronic conditions and at least one of the following:
+&emsp;&emsp;&emsp;(iii) Utilizing geriatric assessments and comprehensive care plans to coordinate the care (including through interdisciplinary teams) of applicable individuals with multiple chronic conditions and at least one of the following:
 
 &emsp;&emsp;&emsp;&emsp;(I) An inability to perform 2 or more activities of daily living.
 
@@ -104,7 +104,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) to improve the capacity of non-medical providers and non-specialized medical providers to provide health services for patients with chronic complex conditions.
 
-&emsp;&emsp;&emsp;(xx) Utilizing a diverse network of providers of services and suppliers to improvecare coordination for applicable individuals described in subsection (a)(4)(A)(i) with 2 or more chronic conditions and a history of prior-year hospitalization through interventions developed under the Medicare Coordinated Care Demonstration Project under section 4016 of the Balanced Budget Act of 1997 (42 U.S.C. 1395b–1 note).
+&emsp;&emsp;&emsp;(xx) Utilizing a diverse network of providers of services and suppliers to improve care coordination for applicable individuals described in subsection (a)(4)(A)(i) with 2 or more chronic conditions and a history of prior-year hospitalization through interventions developed under the Medicare Coordinated Care Demonstration Project under section 4016 of the Balanced Budget Act of 1997 (42 U.S.C. 1395b–1 note).
 
 &emsp;&emsp;&emsp;(xxi) Focusing primarily on physicians' services (as defined in section 1395w–4(j)(3) of this title) furnished by physicians who are not primary care practitioners.
 
@@ -116,7 +116,7 @@
 
 &emsp;&emsp;&emsp;(xxv) Providing, for the adoption and use of certified EHR technology (as defined in section 1395w–4(o)(4) of this title) to improve the quality and coordination of care through the electronic documentation and exchange of health information, incentive payments to behavioral health providers (such as psychiatric hospitals (as defined in section 1395x(f) of this title), community mental health centers (as defined in section 1395x(ff)(3)(B) of this title), hospitals that participate in a State plan under subchapter XIX or a waiver of such plan, treatment facilities that participate in such a State plan or such a waiver, mental health or substance use disorder providers that participate in such a State plan or such a waiver, clinical psychologists (as defined in section 1395x(ii) of this title), nurse practitioners (as defined in section 1395x(aa)(5) of this title) with respect to the provision of psychiatric services, and clinical social workers (as defined in section 1395x(hh)(1) of this title)).
 
-&emsp;&emsp;&emsp;(xxvi) Supporting ways to familiarize individuals with the availability of coverage under part B of subchapter XVIII for qualified psychologist services (as defined in section 1395x(ii) of this title).
+&emsp;&emsp;&emsp;(xxvi) Supporting ways to familiarize individuals with the availability of coverageunder part B of subchapter XVIII for qualified psychologist services (as defined in section 1395x(ii) of this title).
 
 &emsp;&emsp;&emsp;(xxvii) Exploring ways to avoid unnecessary hospitalizations or emergency department visits for mental and behavioral health services (such as for treating depression) through use of a 24-hour, 7-day a week help line that may inform individuals about the availability of treatment options, including the availability of qualified psychologist services (as defined in section 1395x(ii) of this title).
 
@@ -246,6 +246,8 @@ Beginning in 2012, and not less than once every other year thereafter, the Secre
 
 (Aug. 14, 1935, ch. 531, title XI, §1115A, as added and amended Pub. L. 111–148, title III, §3021(a), title X, §10306, Mar. 23, 2010, 124 Stat. 389, 939; Pub. L. 114–10, title I, §101(e)(4), Apr. 16, 2015, 129 Stat. 122; Pub. L. 114–85, §1, Nov. 5, 2015, 129 Stat. 674; Pub. L. 115–271, title VI, §§6001, 6085(a), Oct. 24, 2018, 132 Stat. 3976, 3996.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 4016 of the Balanced Budget Act of 1997, referred to in subsec. (b)(2)(B)(xx), is section 4016 of Pub. L. 105–33, which is set out as a note under section 1395b–1 of this title.
@@ -279,6 +281,8 @@ Subsec. (c)(1)(B). Pub. L. 111–148, §10306(4)(A), substituted "patient care w
 Subsec. (c)(2). Pub. L. 111–148, §10306(4)(B), substituted "reduce (or would not result in any increase in) net program spending under applicable subchapters; and" for "reduce program spending under applicable subchapters."
 
 Subsec. (c)(3). Pub. L. 111–148, §10306(4)(C), added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Construction Regarding Telehealth Services
 

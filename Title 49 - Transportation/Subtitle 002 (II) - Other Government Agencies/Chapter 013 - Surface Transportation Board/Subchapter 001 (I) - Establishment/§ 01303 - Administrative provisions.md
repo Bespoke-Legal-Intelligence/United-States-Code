@@ -76,6 +76,8 @@ No approval required.—No officer or agency of the United States has any author
 
 (Added Pub. L. 104–88, title II, §201(a), Dec. 29, 1995, 109 Stat. 934, §703; renumbered §1303 and amended Pub. L. 114–110, §§3(a)(3), (c)(1), 5, Dec. 18, 2015, 129 Stat. 2228–2230.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Pub. L. 114–110, §3(a)(3), renumbered section 703 of this title as this section.

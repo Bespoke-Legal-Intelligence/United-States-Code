@@ -116,6 +116,8 @@ Nothing in this subchapter shall be construed to link performance of service wit
 
 (Pub. L. 101–610, title I, §176, Nov. 16, 1990, 104 Stat. 3161; Pub. L. 103–82, title I, §116, title IV, §402(b)(1), Sept. 21, 1993, 107 Stat. 863, 918; Pub. L. 111–13, title I, §1604, Apr. 21, 2009, 123 Stat. 1529.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (e), was in the original "this Act", meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, known as the National and Community Service Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
@@ -139,6 +141,8 @@ Subsec. (a)(2)(B). Pub. L. 103–82, §116(a)(2), inserted "or revoked" after "t
 Subsec. (e). Pub. L. 103–82, §116(b), inserted before period at end ", other than assistance provided pursuant to this chapter".
 
 Subsec. (f). Pub. L. 103–82, §116(c), amended subsec. (f) generally, substituting pars. (1) to (6) for former pars. (1) to (6) relating to same subjects and adding par. (7).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

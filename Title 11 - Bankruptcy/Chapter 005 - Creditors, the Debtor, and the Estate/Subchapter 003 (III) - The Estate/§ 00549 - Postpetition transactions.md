@@ -24,7 +24,7 @@
 
 #### legislative statements
 
-Section 549 of the House amendment has been redrafted in order to incorporate sections 342(b) and (c) of the Senate amendment. Those sections have been consolidated and redrafted in section 549(c) of the House amendment. Section 549(d) of the House amendment adopts a provision contained in section 549(c) of the Senate amendment.
+Section 549 of the House amendment has been redrafted in order to incorporate sections 342(b) and (c) ofthe Senate amendment. Those sections have been consolidated and redrafted in section 549(c) of the House amendment. Section 549(d) of the House amendment adopts a provision contained in section 549(c) of the Senate amendment.
 
 #### senate report no. 95–989
 
@@ -34,7 +34,7 @@ This section modifies section 70d of current law \[section 110(d) of former titl
 
 #### Amendments
 
-<b>2005</b>—Subsec. (c). Pub. L. 109–8 inserted "an interest in" after "transfer of" in two places and substituted"purchaser of such real property" for "purchaser of such property" and "such interest" for "the interest".
+<b>2005</b>—Subsec. (c). Pub. L. 109–8 inserted "an interest in" after "transfer of" in two places and substituted "purchaser of such real property" for "purchaser of such property" and "such interest" for "the interest".
 
 <b>1994</b>—Subsec. (b). Pub. L. 103–394 inserted "the trustee may not avoid under subsection (a) of this section" after "involuntary case,".
 

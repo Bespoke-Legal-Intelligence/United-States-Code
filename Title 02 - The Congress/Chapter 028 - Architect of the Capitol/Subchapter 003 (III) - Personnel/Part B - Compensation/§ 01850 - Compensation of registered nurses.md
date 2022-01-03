@@ -4,7 +4,7 @@ Notwithstanding any other provision of law, effective on the first day of the fi
 
 Notwithstanding any other provision of law, effective January 1, 1975, none of the funds appropriated to the Architect of the Capitol shall thereafter be available for any nursing position unless the position is occupied by a Registered Nurse: <i>Provided</i>, That such provision shall not be applicable to the present incumbents of such positions.
 
-(Pub. L. 93–554, title I, ch. III, Dec. 27, 1974, 88 Stat. 1777; Pub. L. 101–520, title I, §109, Nov. 5,1990, 104 Stat. 2269; Pub. L. 103–283, title I, §103, July 22, 1994, 108 Stat. 1435.)
+(Pub. L. 93–554, title I, ch. III, Dec. 27, 1974, 88 Stat. 1777; Pub. L. 101–520, title I, §109, Nov. 5, 1990, 104 Stat. 2269; Pub. L. 103–283, title I, §103, July 22, 1994, 108 Stat. 1435.)
 
 #### <b>Editorial Notes</b>
 

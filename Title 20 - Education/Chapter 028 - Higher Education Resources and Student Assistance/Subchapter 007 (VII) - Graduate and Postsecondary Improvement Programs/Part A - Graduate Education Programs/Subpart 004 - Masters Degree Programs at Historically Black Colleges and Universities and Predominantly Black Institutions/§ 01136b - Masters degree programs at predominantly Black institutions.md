@@ -8,7 +8,7 @@
 
 #### (2) Assurance of non-Federal matching funds
 
-&emsp;No grant in excess of $1,000,000 may be made under this section unless the institution provides assurances that 50 percent of the cost of the purposes for which the grant is made will be paid from non-Federal sources, except that no institution shall be required to match any portion of the first $1,000,000 of the institution's award from the Secretary. After funds are made available to each eligible institution under the funding rules described in subsection (f), the Secretary shall distribute, on a pro rata basis, any amounts which were not so made available (by reason of the failure of an institution to comply with the matching requirements of this paragraph) among the institutions that have complied with such matching requirement.
+&emsp;No grant in excess of $1,000,000 may be made under this section unless the institution provides assurances that 50 percent of the cost of the purposes for which the grant is made will be paid from non-Federal sources, except that no institution shall be required to match any portion of the first $1,000,000 of the institution's award from the Secretary. After funds are made available to each eligible institution under the funding rules described in subsection (f), the Secretary shall distribute, on a pro rata basis, any amounts which were not so made available (by reason of the failure of aninstitution to comply with the matching requirements of this paragraph) among the institutions that have complied with such matching requirement.
 
 #### (3) Minimum award
 
@@ -38,7 +38,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For the purposes of this section, the term "qualified masters degree program" means a masters degree program that provides a program of instruction in mathematics, engineering, the physical or natural sciences, computer science, information technology,nursing, allied health, or other scientific disciplines in which African Americans are underrepresented and has students enrolled in such program of instruction at the time of application for a grant under this section.
+&emsp;&emsp;For the purposes of this section, the term "qualified masters degree program" means a masters degree program that provides a program of instruction in mathematics, engineering, the physical or natural sciences, computer science, information technology, nursing, allied health, or other scientific disciplines in which African Americans are underrepresented and has students enrolled in such program of instruction at the time of application for a grant under this section.
 
 #### (B) Enrollment exception
 
@@ -94,7 +94,7 @@ A grant under this section may be used for—
 
 #### (e) Interaction with other grant programs
 
-No institution that is eligible for and receives an award under section 1063b, 1102a, or 1136a of this title for a fiscal year shall be eligible to apply for a grant, or receive grant funds, under this section for the same fiscal year.
+No institution that is eligible for and receives an award under section 1063b, 1102a, or 1136a ofthis title for a fiscal year shall be eligible to apply for a grant, or receive grant funds, under this section for the same fiscal year.
 
 #### (f) Funding rule
 
@@ -125,6 +125,8 @@ Notwithstanding paragraphs (2) and (3) of subsection (f), no eligible institutio
 &emsp;(2) the institution cannot provide sufficient matching funds to meet the requirements of this section.
 
 (Pub. L. 89–329, title VII, §724, as added Pub. L. 110–315, title VII, §706(b), Aug. 14, 2008, 122 Stat. 3353.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

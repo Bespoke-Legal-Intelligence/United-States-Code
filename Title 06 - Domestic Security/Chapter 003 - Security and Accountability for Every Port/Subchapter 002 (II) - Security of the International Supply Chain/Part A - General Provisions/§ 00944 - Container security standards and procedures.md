@@ -12,7 +12,7 @@
 
 #### (3) Missed deadline
 
-&emsp;If the Secretary is unable to meet the deadline established pursuant to paragraph (2), theSecretary shall submit a letter to the appropriate congressional committees explaining why the Secretary is unable to meet that deadline and describing what must be done before such minimum standards and procedures can be established.
+&emsp;If the Secretary is unable to meet the deadline established pursuant to paragraph (2), the Secretary shall submit a letter to the appropriate congressional committees explaining why the Secretary is unable to meet that deadline and describing what must be done before such minimum standards and procedures can be established.
 
 #### (4) Deadline for enforcement
 

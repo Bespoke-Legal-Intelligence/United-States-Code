@@ -1,5 +1,7 @@
 ### §1340. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act June 17, 1930, ch. 497, title III, §340, 46 Stat. 706, related to preparation of a certain report by commission to Congress. See Tariff Commission Reports, No. 46, Parts 1 to 8.

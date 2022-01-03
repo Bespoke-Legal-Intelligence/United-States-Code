@@ -4,6 +4,8 @@ Section 3324(a) and (b) of title 31 shall not apply to advance payments for rent
 
 (Mar. 4, 1925, ch. 556, §1, 43 Stat. 1327.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 "Section 3324(a) and (b) of title 31" substituted in text for "section 3648 of the Revised Statutes" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
@@ -12,7 +14,9 @@ Section was formerly classified to section 531 of Title 31 prior to the general 
 
 Section is from the Second Deficiency Act for the fiscal year 1925.
 
+#### <b>Executive Documents</b>
+
 #### Transfer of Functions
 
-Functions of all other officers of Department of Commerce and functions of all agencies and employees ofsuch Department, with a few exceptions, transferred to Secretary of Commerce, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees. Through internal reorganization, functions of former Bureau of Foreign and Domestic Commerce, referred to in text, have been reassigned to other offices of Department of Commerce.
+Functions of all other officers of Department of Commerce and functions of all agencies and employees of such Department, with a few exceptions, transferred to Secretary of Commerce, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees. Through internal reorganization, functions of former Bureau of Foreign and Domestic Commerce, referred to in text, have been reassigned to other offices of Department of Commerce.
 

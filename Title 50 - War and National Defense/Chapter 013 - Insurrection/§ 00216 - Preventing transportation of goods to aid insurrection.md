@@ -4,6 +4,8 @@ The Secretary of the Treasury is authorized to prohibit and prevent the transpor
 
 (R.S. §5312.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §5312 derived from act May 20, 1862, ch. 81, §3, 12 Stat. 404.

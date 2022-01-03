@@ -148,7 +148,7 @@ The Secretary may establish 20 officer positions in the Epidemic Intelligence Se
 
 &emsp;&emsp;(A) the epidemiology and pathogenesis of such pathogens;
 
-&emsp;&emsp;(B) the sequencing of the genomes, or other DNA analysis, or other comparative analysis, of priority pathogens (as determined by the Director of the National Institutes of Health in consultation with the working group established in subsection (a)), in collaboration and coordination with the activities of the Department of Defense and the Joint Genome Institute of the Department of Energy;
+&emsp;&emsp;(B) the sequencing of the genomes, or other DNA analysis, or other comparative analysis, of priority pathogens (as determined by the Director of the National Institutes of Health in consultation with the working group established in subsection (a)), in collaboration and coordination with theactivities of the Department of Defense and the Joint Genome Institute of the Department of Energy;
 
 &emsp;&emsp;(C) the development of priority countermeasures; and
 
@@ -194,6 +194,8 @@ The Secretary may establish 20 officer positions in the Epidemic Intelligence Se
 
 (July 1, 1944, ch. 373, title III, §319F, as added Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114 Stat. 2321; amended Pub. L. 107–188, title I, §§104(a) 105, 108, 111(3), 125, June 12, 2002, 116 Stat. 605, 606, 609, 611, 614; Pub. L. 108–276, §2(d), July 21, 2004, 118 Stat. 842; Pub. L. 109–417, title III, §§301(d), (e), 304, Dec. 19, 2006, 120 Stat. 2854, 2855, 2859; Pub. L. 113–5, title II, §203(a), Mar. 13, 2013, 127 Stat. 175.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2013</b>—Subsec. (a)(5)(B). Pub. L. 113–5 substituted "public health, medical, or dental" for "public health or medical".
@@ -230,7 +232,7 @@ Subsec. (h)(4)(B). Pub. L. 108–276, §2(d)(2), substituted "to treat, identify
 
 &emsp;"(3) develop shared standards for equipment to detect and to protect against infection from pathogens likely to be used in a bioterrorist attack on the civilian population; and
 
-&emsp;"(4) coordinate the development, maintenance, and procedures for the release of, strategic reserves of vaccines, drugs, and medical supplies which may be needed rapidly after a bioterrorist attack upon the civilian population."
+&emsp;"(4) coordinate the development, maintenance, and procedures for the release of, strategic reserves ofvaccines, drugs, and medical supplies which may be needed rapidly after a bioterrorist attack upon the civilian population."
 
 Subsec. (b). Pub. L. 107–188, §104(a)(1), (3), added subsec. (b) and struck out former subsec. (b) which related to establishment, functions, membership, and coordination of a working group on the public health and medical consequences of bioterrorism.
 
@@ -265,6 +267,8 @@ Pub. L. 107–188, §104(a)(2), redesignated subsec. (f) as (h). Former subsec. 
 Subsec. (i). Pub. L. 107–188, §104(a)(1), (2), redesignated subsec. (g) as (i) and struck out heading and text of former subsec. (i). Text read as follows: "There are authorized to be appropriated to carry out this section $215,000,000 for fiscal year 2001, and such sums as may be necessary for each subsequent fiscal year through 2006."
 
 Subsec. (j). Pub. L. 107–188, §104(a)(2), redesignated subsec. (h) as (j).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Other Reports
 

@@ -24,7 +24,7 @@
 
 > such interest in such property shall be perfected, or perfection of such interest shall be maintained or continued, by giving notice within the time fixed by such law for such seizure or such commencement.
 
-(c)(1) Except as provided in subsection (d) of this section and in section 507(c), and subject to the prior rights of a holder of a security interest in such goods or the proceeds thereof, the rightsand powers of the trustee under sections 544(a), 545, 547, and 549 are subject to the right of a seller of goods that has sold goods to the debtor, in the ordinary course of such seller's business, to reclaim such goods if the debtor has received such goods while insolvent, within 45 days before the date of the commencement of a case under this title, but such seller may not reclaim such goods unless such seller demands in writing reclamation of such goods—
+(c)(1) Except as provided in subsection (d) of this section and in section 507(c), and subject to the prior rights of a holder of a security interest in such goods or the proceeds thereof, the rights and powers of the trustee under sections 544(a), 545, 547, and 549 are subject to the right of a seller of goods that has sold goods to the debtor, in the ordinary course of such seller's business, to reclaim such goods if the debtor has received such goods while insolvent, within 45 days before the date of the commencement of a case under this title, but such seller may not reclaim such goods unless such seller demands in writing reclamation of such goods—
 
 &emsp;(A) not later than 45 days after the date of receipt of such goods by the debtor; or
 
@@ -50,7 +50,7 @@
 
 (2) The prohibition under paragraph (1) shall be applied in a manner consistent with any State statute applicable to such lien that is similar to section 7–209 of the Uniform Commercial Code, as in effect on the date of enactment of the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005, or any successor to such section 7–209.
 
-(j) Notwithstanding sections 544, 545, 547, 548(a)(1)(B), and 548(b) the trustee may not avoid a transfer made by or to (or for the benefit of) a master netting agreement participant under or in connection with any master netting agreement or any individual contract covered thereby that is made before the commencement of the case, except under section 548(a)(1)(A) and except to the extent that the trustee could otherwise avoid such a transfer made under an individual contract covered by such master netting agreement.
+(j) Notwithstanding sections 544, 545, 547, 548(a)(1)(B), and 548(b) the trustee may not avoid a transfer made by or to (or for the benefit of) a master netting agreement participant under or in connection with any master netting agreement or any individual contract covered thereby that is made before the commencement of thecase, except under section 548(a)(1)(A) and except to the extent that the trustee could otherwise avoid such a transfer made under an individual contract covered by such master netting agreement.
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2597; Pub. L. 97–222, §4, July 27, 1982, 96 Stat. 236; Pub. L. 98–353, title III, §§351, 393, 461, July 10, 1984, 98 Stat. 358, 365, 377; Pub. L. 99–554, title II, §§257(d), 283(l), Oct. 27, 1986, 100 Stat. 3114, 3117; Pub. L. 101–311, title I, §103, title II, §203, June 25, 1990, 104 Stat. 268, 269; Pub. L. 103–394, title II, §§204(b), 209, 216, 222(a), title V, §501(b)(4), Oct. 22, 1994, 108 Stat. 4122, 4125, 4126, 4129, 4142; Pub. L. 105–183, §3(c), June 19, 1998, 112 Stat. 518; Pub. L. 109–8, title IV, §406, title IX, §907(e), (o)(2), (3), title XII, §1227(a), Apr. 20, 2005, 119 Stat. 105, 177, 182, 199; Pub. L. 109–390, §5(b), Dec. 12, 2006, 120 Stat. 2697.)
 
@@ -58,7 +58,7 @@
 
 #### legislative statements
 
-Section 546(a) of the House amendment is derived from section 546(c) of the Senate amendment. Section 546(c) of the House amendment is derived from section 546(b) of the Senate amendment. It applies to receipt ofgoods on credit as well as by cash sales. The section clarifies that a demand for reclamation must be made in writing anytime before 10 days after receipt of the goods by the debtor. The section also permits the court to grant the reclaiming creditor a lien or an administrative expense in lieu of turning over the property.
+Section 546(a) of the House amendment is derived from section 546(c) of the Senate amendment. Section 546(c) of the House amendment is derived from section 546(b) of the Senate amendment. It applies to receipt of goods on credit as well as by cash sales. The section clarifies that a demand for reclamation must be made in writing anytime before 10 days after receipt of the goods by the debtor. The section also permits the court to grant the reclaiming creditor a lien or an administrative expense in lieu of turning over the property.
 
 #### senate report no. 95–989
 
@@ -108,7 +108,7 @@ Subsec. (j). Pub. L. 109–8, §907(e)(2), added subsec. (j).
 
 <b>1994</b>—Subsec. (a)(1). Pub. L. 103–394, §216, amended par. (1) generally. Prior to amendment, par. (1) read as follows: "two years after the appointment of a trustee under section 702, 1104, 1163, 1302, or 1202 of this title; or".
 
-Subsec. (b). Pub. L. 103–394, §204(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "The rights and powers of a trustee under sections 544, 545, and 549 of this title are subject to any generally applicable law that permits perfection of an interest in property to be effective against an entity that acquires rights in such property before the date of such perfection. If such law requires seizure of such property or commencement of an action to accomplish such perfection, and such property has not been seized or such action has not been commenced before the date of the filing of the petition, such interest in such property shall be perfected by notice within the time fixed by such law for such seizure or commencement."
+Subsec. (b). Pub. L. 103–394, §204(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "The rights and powers of a trustee under sections 544, 545, and 549 of this title are subject to anygenerally applicable law that permits perfection of an interest in property to be effective against an entity that acquires rights in such property before the date of such perfection. If such law requires seizure of such property or commencement of an action to accomplish such perfection, and such property has not been seized or such action has not been commenced before the date of the filing of the petition, such interest in such property shall be perfected by notice within the time fixed by such law for such seizure or commencement."
 
 Subsec. (c)(1). Pub. L. 103–394, §209, amended par. (1) generally. Prior to amendment, par. (1) read as follows: "such a seller may not reclaim any such goods unless such seller demands in writing reclamation of such goods before ten days after receipt of such goods by the debtor; and".
 

@@ -4,9 +4,13 @@ The Director of the Institute shall conduct and support research and related act
 
 (July 1, 1944, ch. 373, title IV, §450, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 856; amended Pub. L. 111–256, §2(f)(3), Oct. 5, 2010, 124 Stat. 2644.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–256 amended section generally. Prior to amendment, text read as follows: "The Director of the Institute shall conduct and support research and related activities into the causes, prevention, and treatment of mental retardation."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

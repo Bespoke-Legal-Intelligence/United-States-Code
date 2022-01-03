@@ -24,7 +24,7 @@ Notwithstanding the provisions of subsection (b), funds appropriated under this 
 
 #### References in Text
 
-The Mutual Defense Assistance Control Act of 1951, referred to in subsec. (b), is act Oct. 26, 1951, ch. 575, 65 Stat. 644, as amended, which was classified generally to chapter 20A (§1611 et seq.) of this title prior to its supersedure by former section 4619(e) of Title 50, War andNational Defense. For complete classification of this Act to the Code, see Tables.
+The Mutual Defense Assistance Control Act of 1951, referred to in subsec. (b), is act Oct. 26, 1951, ch. 575, 65 Stat. 644, as amended, which was classified generally to chapter 20A (§1611 et seq.) of this title prior to its supersedure by former section 4619(e) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
@@ -104,7 +104,7 @@ Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L.
 
 #### Effective Date of 1977 Amendment
 
-Pub. L. 95–88, title I, §116(b), Aug. 3, 1977, 91 Stat. 539, provided that: "The amendment made by subsection\(a)(3) \[amending this section\] shall not apply to funds appropriated before the date of enactment of this Act \[Aug. 3, 1977\]."
+Pub. L. 95–88, title I, §116(b), Aug. 3, 1977, 91 Stat. 539, provided that: "The amendment made by subsection (a)(3) \[amending this section\] shall not apply to funds appropriated before the date of enactment of this Act \[Aug. 3, 1977\]."
 
 #### <b>Executive Documents</b>
 

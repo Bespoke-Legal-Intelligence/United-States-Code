@@ -36,6 +36,8 @@ In subsection (b), the word "basic" is substituted for the word "base" to confor
 
 In subsection (c), 10:11 (1st proviso of last sentence) is omitted as executed. 10:11 (last proviso of last sentence) and the words "and received the pay and allowances of" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 7216 was renumbered section 8616 of this title.
@@ -45,6 +47,8 @@ A prior section 7216 was renumbered section 8616 of this title.
 <b>2018</b>—Pub. L. 115–232 renumbered section 3536 of this title as this section.
 
 <b>1962</b>—Subsec. (b). Pub. L. 87–649 repealed subsec. (b) which related to the basic pay and allowances of the leader of the Army band, and is now covered by sections 207 and 424 of Title 37, Pay and Allowances of the Uniformed Services.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

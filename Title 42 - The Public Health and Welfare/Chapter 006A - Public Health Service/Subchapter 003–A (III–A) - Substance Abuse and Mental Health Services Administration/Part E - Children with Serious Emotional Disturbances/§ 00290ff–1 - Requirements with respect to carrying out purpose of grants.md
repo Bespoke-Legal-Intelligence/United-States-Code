@@ -76,7 +76,7 @@ A funding agreement for a grant under section 290ff(a) of this title is that men
 
 #### (1) Case management services
 
-&emsp;A funding agreement for a grant under section 290ff(a) of this title is that a system of care under subsection (a) will provide for the case management of each child provided access to the system in order to ensure that—
+&emsp;A funding agreement for a grant under section 290ff(a) of this title is that a system ofcare under subsection (a) will provide for the case management of each child provided access to the system in order to ensure that—
 
 &emsp;&emsp;(A) the services provided through the system to the child are coordinated and that the need of each such child for the services is periodically reassessed;
 
@@ -124,13 +124,15 @@ A funding agreement for a grant under section 290ff(a) of this title is that the
 
 &emsp;(3) to provide for room and board or other services or expenditures associated with care of children in residential treatment centers serving more than 10 children or in inpatient hospital settings, except intensive home-based services and other services provided on an ambulatory or outpatient basis; or
 
-&emsp;(4) to provide for the training of any individual, except training authorized in section 290ff–3(a)(2) of this title and training provided through any appropriate course in continuingeducation whose duration does not exceed 2 days.
+&emsp;(4) to provide for the training of any individual, except training authorized in section 290ff–3(a)(2) of this title and training provided through any appropriate course in continuing education whose duration does not exceed 2 days.
 
 #### (g) Waivers
 
 The Secretary may waive one or more of the requirements of subsection (c) for a public entity that is an Indian Tribe or tribal organization, or American Samoa, Guam, the Marshall Islands, the Federated States of Micronesia, the Commonwealth of the Northern Mariana Islands, the Republic of Palau, or the United States Virgin Islands if the Secretary determines, after peer review, that the system of care is family-centered and uses the least restrictive environment that is clinically appropriate.
 
 (July 1, 1944, ch. 373, title V, §562, as added Pub. L. 102–321, title I, §119, July 10, 1992, 106 Stat. 351; amended Pub. L. 106–310, div. B, title XXXI, §3105(b), Oct. 17, 2000, 114 Stat. 1175; Pub. L. 108–446, title III, §305(i)(4), Dec. 3, 2004, 118 Stat. 2806; Pub. L. 114–255, div. B, title X, §10001(b), Dec. 13, 2016, 130 Stat. 1262.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -140,11 +142,13 @@ The Individuals with Disabilities Education Act, referred to in subsec. (d)(3)(B
 
 #### Amendments
 
-<b>2016</b>—Subsec. (b). Pub. L. 114–255 substituted "will provide an individual with access to the system through the age of 21 years" for "will not provide an individual with access to the system if the individual is more than 21 years of age".
+<b>2016</b>—Subsec. (b). Pub. L. 114–255 substituted "will provide an individual with access to the systemthrough the age of 21 years" for "will not provide an individual with access to the system if the individual is more than 21 years of age".
 
 <b>2004</b>—Subsec. (d)(3)(B). Pub. L. 108–446 substituted "and C" for "and H".
 
 <b>2000</b>—Subsec. (g). Pub. L. 106–310 added subsec. (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -12,6 +12,7 @@
 | [608\.](%C2%A7%2000608%20-%20Funding.md) | Funding. |
 | [609\.](%C2%A7%2000609%20-%20Reports%20to%20Congress.md) | Reports to Congress. |
 | [610\.](%C2%A7%2000610%20-%20State%20infrastructure%20bank%20program.md) | State infrastructure bank program. |
+| [611\.](%C2%A7%2000611%20-%20Asset%20concessions%20and%20innovative%20finance%20assistance.md) | Asset concessions and innovative finance assistance. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -20,6 +21,10 @@
 #### Codification
 
 This chapter, consisting of sections 601 to 610 of this title, was previously set out as subchapter II, consisting of sections 181 to 190, of chapter 1 of this title.
+
+#### Amendments
+
+<b>2021</b>—Pub. L. 117–58, div. G, title X, §71001(a)(2), Nov. 15, 2021, 135 Stat. 1320, added item 611.
 
 
 ---
@@ -36,3 +41,4 @@ This chapter, consisting of sections 601 to 610 of this title, was previously se
 - [&sect; 00608 - Funding](%C2%A7%2000608%20-%20Funding.md)
 - [&sect; 00609 - Reports to Congress](%C2%A7%2000609%20-%20Reports%20to%20Congress.md)
 - [&sect; 00610 - State infrastructure bank program](%C2%A7%2000610%20-%20State%20infrastructure%20bank%20program.md)
+- [&sect; 00611 - Asset concessions and innovative finance assistance](%C2%A7%2000611%20-%20Asset%20concessions%20and%20innovative%20finance%20assistance.md)

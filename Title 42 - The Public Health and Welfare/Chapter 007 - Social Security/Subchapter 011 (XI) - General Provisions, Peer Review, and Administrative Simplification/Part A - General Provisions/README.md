@@ -93,3 +93,4 @@ Part A—General Provisions
 - [&sect; 01320b&#8211;23 - Pharmacy benefit managers transparency requirements](%C2%A7%2001320b%E2%80%9323%20-%20Pharmacy%20benefit%20managers%20transparency%20requirements.md)
 - [&sect; 01320b&#8211;24 - Consultation with Tribal Technical Advisory Group](%C2%A7%2001320b%E2%80%9324%20-%20Consultation%20with%20Tribal%20Technical%20Advisory%20Group.md)
 - [&sect; 01320b&#8211;25 - Reporting to law enforcement of crimes occurring in federally funded long-term care facilities](%C2%A7%2001320b%E2%80%9325%20-%20Reporting%20to%20law%20enforcement%20of%20crimes%20occurring%20in%20federally%20funded%20long-term%20care%20facilities.md)
+- [&sect; 01320b&#8211;26 - Funding for providers relating to COVID&#8211;19](%C2%A7%2001320b%E2%80%9326%20-%20Funding%20for%20providers%20relating%20to%20COVID%E2%80%9319.md)

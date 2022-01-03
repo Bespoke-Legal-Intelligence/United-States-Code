@@ -4,9 +4,13 @@ The provisions of this subchapter shall extend to Puerto Rico and the Virgin Isl
 
 (July 22, 1937, ch. 517, title III, §35, as added Pub. L. 87–128, title III, §342, Aug. 8, 1961, 75 Stat. 318.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Another section 342 of Pub. L. 87–128 is classified to section 1990a of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

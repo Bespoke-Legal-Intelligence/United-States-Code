@@ -18,6 +18,8 @@ Historical and Revision Notes
 
 49:508(g)(2)(C).
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Perishable Agricultural Commodities Act, 1930, referred to in text, is act June 10, 1930, ch. 436, 46 Stat. 531, as amended, which is classified generally to chapter 20A (§499a et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 499a(a) of Title 7 and Tables.

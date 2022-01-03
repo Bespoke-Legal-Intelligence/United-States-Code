@@ -30,7 +30,7 @@ The authority granted to the President by this section does not include the auth
 
 &emsp;(2) donations, by persons subject to the jurisdiction of the United States, of articles, such as food, clothing, and medicine, intended to be used to relieve human suffering, except to the extent that the President determines that such donations (A) would seriously impair his ability to deal with any national emergency declared under section 1701 of this title, (B) are in response to coercion against the proposed recipient or donor, or (C) would endanger Armed Forces of the United States which are engaged in hostilities or are in a situation where imminent involvement in hostilities is clearly indicated by the circumstances; or <sup>2</sup>
 
-&emsp;(3) the importation from any country, or the exportation to any country, whether commercial or otherwise, regardless of format or medium of transmission, of any information or informational materials, including but notlimited to, publications, films, posters, phonograph records, photographs, microfilms, microfiche, tapes, compact disks, CD ROMs, artworks, and news wire feeds. The exports exempted from regulation or prohibition by this paragraph do not include those which are otherwise controlled for export under section 4604 <sup>3</sup> of this title, or under section 4605 <sup>3</sup> of this title to the extent that such controls promote the nonproliferation or antiterrorism policies of the United States, or with respect to which acts are prohibited by chapter 37 of title 18; or
+&emsp;(3) the importation from any country, or the exportation to any country, whether commercial or otherwise, regardless of format or medium of transmission, of any information or informational materials, including but not limited to, publications, films, posters, phonograph records, photographs, microfilms, microfiche, tapes, compact disks, CD ROMs, artworks, and news wire feeds. The exports exempted from regulation or prohibition by this paragraph do not include those which are otherwise controlled for export under section4604 <sup>3</sup> of this title, or under section 4605 <sup>3</sup> of this title to the extent that such controls promote the nonproliferation or antiterrorism policies of the United States, or with respect to which acts are prohibited by chapter 37 of title 18; or
 
 &emsp;(4) any transactions ordinarily incident to travel to or from any country, including importation of accompanied baggage for personal use, maintenance within any country including payment of living expenses and acquisition of goods or services for personal use, and arrangement or facilitation of such travel including nonscheduled air, sea, or land voyages.
 
@@ -39,6 +39,8 @@ The authority granted to the President by this section does not include the auth
 In any judicial review of a determination made under this section, if the determination was based on classified information (as defined in section 1(a) of the Classified Information Procedures Act) such information may be submitted to the reviewing court ex parte and in camera. This subsection does not confer or imply any right to judicial review.
 
 (Pub. L. 95–223, title II, §203, Dec. 28, 1977, 91 Stat. 1626; Pub. L. 100–418, title II, §2502(b)(1), Aug. 23, 1988, 102 Stat. 1371; Pub. L. 103–236, title V, §525(c)(1), Apr. 30, 1994, 108 Stat. 474; Pub. L. 107–56, title I, §106, Oct. 26, 2001, 115 Stat. 277.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -64,6 +66,8 @@ Subsec. (c). Pub. L. 107–56, §106(2), added subsec. (c).
 
 <b>1988</b>—Subsec. (b)(3). Pub. L. 100–418 added par. (3).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1994 Amendment
 
 Pub. L. 103–236, title V, §525(c)(2), (3), Apr. 30, 1994, 108 Stat. 475, provided that:
@@ -75,6 +79,8 @@ Pub. L. 103–236, title V, §525(c)(2), (3), Apr. 30, 1994, 108 Stat. 475, prov
 #### Effective Date of 1988 Amendment
 
 Pub. L. 100–418, title II, §2502(b)(2), Aug. 23, 1988, 102 Stat. 1372, provided that: "The amendments made by paragraph (1) \[amending this section\] apply to actions taken by the President under section 203 of the International Emergency Economic Powers Act \[this section\] before the date of the enactment of this Act \[Aug. 23, 1988\] which are in effect on such date of enactment, and to actions taken under such section on or after such date of enactment."
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13290. Confiscating and Vesting Certain Iraqi Property
 
@@ -88,7 +94,7 @@ I hereby order:
 
 Section 1. All blocked funds held in the United States in accounts in the name of the Government of Iraq, the Central Bank of Iraq, Rafidain Bank, Rasheed Bank, or the State Organization for Marketing Oil are hereby confiscated and vested in the Department of the Treasury, except for the following:
 
-(a) any such funds that are subject to the Vienna Convention on Diplomatic Relations or the Vienna Convention on Consular Relations, or that enjoy equivalent privileges and immunities under the laws of the United States, and are or have been used for diplomatic or consular purposes, and
+(a) any such funds that are subject to the Vienna Convention on Diplomatic Relations or the Vienna Convention on Consular Relations, or that enjoy equivalent privileges and immunities under the laws of theUnited States, and are or have been used for diplomatic or consular purposes, and
 
 (b) any such amounts that as of the date of this order are subject to post-judgment writs of execution or attachment in aid of execution of judgments pursuant to section 201 of the Terrorism Risk Insurance Act of 2002 (Public Law 107–297) \[see Tables for classification\], provided that, upon satisfaction of the judgments on which such writs are based, any remainder of such excepted amounts shall, by virtue of this order and without further action, be confiscated and vested.
 

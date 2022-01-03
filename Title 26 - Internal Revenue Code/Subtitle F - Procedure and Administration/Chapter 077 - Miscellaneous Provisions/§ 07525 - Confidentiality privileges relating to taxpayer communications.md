@@ -24,7 +24,7 @@
 
 #### (B) Tax advice
 
-&emsp;&emsp;The term "tax advice" means advice given by an individual with respect to a matter which is within the scope of the individual'sauthority to practice described in subparagraph (A).
+&emsp;&emsp;The term "tax advice" means advice given by an individual with respect to a matter which is within the scope of the individual's authority to practice described in subparagraph (A).
 
 #### (b) Section not to apply to communications regarding tax shelters
 
@@ -42,9 +42,13 @@ The privilege under subsection (a) shall not apply to any written communication 
 
 (Added Pub. L. 105–206, title III, §3411(a), July 22, 1998, 112 Stat. 750; amended Pub. L. 108–357, title VIII, §813(a), Oct. 22, 2004, 118 Stat. 1581.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Subsec. (b). Pub. L. 108–357 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: "The privilege under subsection (a) shall not apply to any written communication between a federally authorized tax practitioner and a director, shareholder, officer, or employee, agent, or representative of a corporation in connection with the promotion of the direct or indirect participation of such corporation in any tax shelter (as defined in section 6662(d)(2)(C)(iii))."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

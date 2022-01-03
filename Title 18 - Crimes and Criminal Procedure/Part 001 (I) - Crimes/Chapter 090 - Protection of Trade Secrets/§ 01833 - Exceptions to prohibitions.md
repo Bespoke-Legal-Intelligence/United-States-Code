@@ -88,5 +88,5 @@ Pub. L. 114–153, §2(f), May 11, 2016, 130 Stat. 382, provided that: "Nothing 
 
 #### Applicability of Section 2 of Pub. L. 114–153 to Other Laws
 
-Pub. L. 114–153, §2(g), May 11, 2016, 130 Stat. 382, provided that: "This section \[amending this section and sections 1836 and 1839 of this title and enacting provisions set out as notes under this section\] and the amendments made by this section shall not be construed to be a law pertaining to intellectual property for purposes of any other Act of Congress."
+Pub. L. 114–153, §2(g), May 11, 2016, 130 Stat. 382, provided that: "This section \[amending this section and sections 1836 and 1839 of this title and enacting provisions set out as notes under this section\] and theamendments made by this section shall not be construed to be a law pertaining to intellectual property for purposes of any other Act of Congress."
 

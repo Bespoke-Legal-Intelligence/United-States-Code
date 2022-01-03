@@ -30,7 +30,7 @@ In this subpart:
 
 #### (2) High-need school
 
-&emsp;The term "high-need school" means a public elementary school or secondary school that islocated in an area in which the percentage of students from families with incomes below the poverty line is 30 percent or more.
+&emsp;The term "high-need school" means a public elementary school or secondary school that is located in an area in which the percentage of students from families with incomes below the poverty line is 30 percent or more.
 
 #### (3) Human capital management system
 
@@ -58,11 +58,15 @@ In this subpart:
 
 (Pub. L. 89–10, title II, §2211, as added Pub. L. 114–95, title II, §2002, Dec. 10, 2015, 129 Stat. 1931.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 6631, Pub. L. 89–10, title II, §2131, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1633, defined terms in subpart 3 of part A of former subchapter II of this chapter, prior to repeal by Pub. L. 114–95, §5, title II, §2002, Dec. 10, 2015, 129 Stat. 1806, 1913, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
 
 A prior section 2211 of Pub. L. 89–10 was classified to section 6651 of this title, prior to the general amendment of this subchapter by Pub. L. 107–110.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

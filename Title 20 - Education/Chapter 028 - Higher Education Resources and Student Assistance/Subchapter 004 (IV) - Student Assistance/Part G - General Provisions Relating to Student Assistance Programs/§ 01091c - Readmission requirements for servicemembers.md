@@ -58,7 +58,7 @@ A person who is a member of, applies to be a member of, performs, has performed,
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), a student referred to in subsection (a) shall,upon the completion of a period of service in the uniformed services, notify the institution of higher education of the student's intent to return to the institution not later than three years after the completion of the period of service.
+&emsp;&emsp;Except as provided in subparagraph (B), a student referred to in subsection (a) shall, upon the completion of a period of service in the uniformed services, notify the institution of higher education of the student's intent to return to the institution not later than three years after the completion of the period of service.
 
 #### (B) Hospitalization or convalescence
 
@@ -97,6 +97,8 @@ A student's eligibility for readmission to an institution of higher education un
 &emsp;(3) A dropping of such person from the rolls pursuant to section 1161(b) of title 10.
 
 (Pub. L. 89–329, title IV, §484C, as added Pub. L. 110–315, title IV, §487, Aug. 14, 2008, 122 Stat. 3290; amended Pub. L. 115–232, div. A, title XII, §1204(a)(6), (b)(2), Aug. 13, 2018, 132 Stat. 2017.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

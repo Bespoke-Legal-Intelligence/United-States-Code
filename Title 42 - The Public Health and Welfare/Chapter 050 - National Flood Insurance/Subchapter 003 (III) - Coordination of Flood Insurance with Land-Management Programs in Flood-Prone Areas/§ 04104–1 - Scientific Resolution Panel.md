@@ -12,7 +12,7 @@
 
 &emsp;&emsp;&emsp;(ii) completed 60 days of consultation with the Federal Emergency Management Agency on the appeal; and
 
-&emsp;&emsp;&emsp;(iii) not allowed more than 120 days, or such longer period as may be provided bythe Administrator by waiver, to pass since the end of the appeal period; or
+&emsp;&emsp;&emsp;(iii) not allowed more than 120 days, or such longer period as may be provided by the Administrator by waiver, to pass since the end of the appeal period; or
 
 &emsp;&emsp;(B) that has received an unsatisfactory ruling under the map revision process established pursuant to section 4101(f) of this title.
 

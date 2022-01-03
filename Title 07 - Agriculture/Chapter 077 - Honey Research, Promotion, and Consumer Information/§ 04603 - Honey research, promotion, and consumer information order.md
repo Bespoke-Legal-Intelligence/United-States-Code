@@ -4,9 +4,13 @@ To effectuate the declared policy of this chapter, the Secretary shall, subject 
 
 (Pub. L. 98–590, §4, Oct. 30, 1984, 98 Stat. 3116; Pub. L. 105–185, title VI, §605(c), June 23, 1998, 112 Stat. 589.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Pub. L. 105–185 inserted "and regulations" after "orders".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Conforming Amendment to Order
 

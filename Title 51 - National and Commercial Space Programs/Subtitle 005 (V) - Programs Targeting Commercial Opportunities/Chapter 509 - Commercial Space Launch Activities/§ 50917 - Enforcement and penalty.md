@@ -90,7 +90,7 @@ In subsection (b)(2), the text of 49 App.:2616(a) (1st sentence) is omitted as s
 
 In subsection (c)(1), the words "in accordance with section 554 of title 5" are omitted for consistency in the revised title and because 5:554 applies to a hearing on the record unless otherwise stated. The words "for each violation" are omitted as surplus.
 
-In subsection (c)(2), the words "relevant papers, books, documents, and other" are omitted as surplus. The words "(3) administer oaths and affirmatives" are omitted as surplus because of subsection (b)(1)(B) of this section.
+In subsection (c)(2), the words "relevant papers, books, documents, and other" are omitted as surplus.The words "(3) administer oaths and affirmatives" are omitted as surplus because of subsection (b)(1)(B) of this section.
 
 In subsection (c)(3), the word "impose" is substituted for "assessed" for consistency in the revised title and with other titles of the Code. The words "amount of such" and "modify . . . with or without conditions" are omitted as surplus.
 

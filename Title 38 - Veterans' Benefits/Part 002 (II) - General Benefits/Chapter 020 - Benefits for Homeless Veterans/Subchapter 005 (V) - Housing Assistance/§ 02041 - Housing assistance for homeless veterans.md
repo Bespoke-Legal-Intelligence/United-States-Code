@@ -6,7 +6,7 @@
 
 &emsp;(B) any State or any political subdivision thereof.
 
-(2) To carry out paragraph (1), the Secretary may enter into agreements to sell, lease, lease with an option to purchase, or donate real property, and improvements thereon, acquired by the Secretary as the result of a default on a loan made, insured, or guaranteed under this chapter. Such sale or lease or donation shall be for such consideration as the Secretary determines is in the best interests of homeless veterans and the Federal Government.
+(2) To carry out paragraph (1), the Secretary may enter into agreements to sell, lease, leasewith an option to purchase, or donate real property, and improvements thereon, acquired by the Secretary as the result of a default on a loan made, insured, or guaranteed under this chapter. Such sale or lease or donation shall be for such consideration as the Secretary determines is in the best interests of homeless veterans and the Federal Government.
 
 (3) The Secretary may enter into an agreement under paragraph (1) of this subsection only if—
 
@@ -64,7 +64,7 @@
 
 <b>2011</b>—Subsec. (c). Pub. L. 112–37 substituted "December 31, 2012" for "December 31, 2011".
 
-<b>2006</b>—Subsec. (a)(3)(A)(i). Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461,the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+<b>2006</b>—Subsec. (a)(3)(A)(i). Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
 Pub. L. 109–461, §1004(a)(5), substituted "established under section 3722 of this title" for "under this chapter".
 
@@ -118,7 +118,27 @@ Pub. L. 112–154, title III, §304, Aug. 6, 2012, 126 Stat. 1185, as amended by
 
 "(a)
 
-In General.—The Secretary of Veterans Affairs shall consider entering into contracts or agreements, under sections 513 and 8153 of title 38, United States Code, with eligible entities to collaborate with the Secretary in the provision of case management services to covered veterans as part of the supported housing program carried out under section 8(o)(19) of the United States Housing Act of 1937 (42 U.S.C. 1437f(o)(19)) to ensure that the homeless veterans facing the most significant difficulties in obtaining suitable housing receive the assistance they require to obtain such housing.
+In General.—(1) The Secretary of Veterans Affairs shall consider entering into contracts or agreements, under sections 513 and 8153 of title 38, United States Code, with eligible entities to collaborate with the Secretary in the provision of case management services to covered veterans as part of the supported housing program carried out under section 8(o)(19) of the United States Housing Act of 1937 (42 U.S.C. 1437f(o)(19)) to ensure that the homeless veterans facing the most significant difficulties in obtaining suitable housing receive the assistance they require to obtain such housing.
+
+"(2)(A) The director of each covered medical center shall seek to enter into one or more contracts or agreements described in paragraph (1).
+
+"(B) Any contract or agreement under subparagraph (A) may require that each case manager employed by an eligible entity who performs services under the contract or agreement has credentials equivalent to the credentials required for a case manager of the Department.
+
+"(C)(i) The Secretary may waive the requirement under subparagraph (A) with respect to a covered medical center if the Secretary determines that fulfilling such requirement is infeasible.
+
+"(ii) If the Secretary grants a waiver under clause (i), the Secretary shall, not later than 90 days after granting such waiver, submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report containing—
+
+&emsp;"(I) an explanation of the determination made under clause (i);
+
+&emsp;"(II) a plan to increase the number of case managers of the Department; and
+
+&emsp;"(III) a plan for the covered medical center to increase use of housing vouchers allocated to that medical center under the program described in paragraph (1).
+
+"(D) In this paragraph, the term 'covered medical center' means a medical center of the Department with respect to which the Secretary determines that—
+
+&emsp;"(i) more than 15 percent of all housing vouchers allocated to that medical center under the program described in paragraph (1) during the fiscal year preceding the fiscal year in which such determination was made were unused due to a lack of case management services provided by the Secretary; and
+
+&emsp;"(ii) one or more case manager positions have been vacant for at least nine consecutive months immediately preceding the date of such determination.
 
 "(b)
 
@@ -126,13 +146,7 @@ Covered Veterans.—For purposes of this section, a covered veteran is any veter
 
 &emsp;"(1) requires the assistance of a case manager in obtaining suitable housing with such voucher; and
 
-&emsp;"(2) is having difficulty obtaining the amount of such assistance the veteran requires, including because—
-
-&emsp;&emsp;"(A) the veteran resides in an area that has a shortage of low-income housing and because of such shortage the veteran requires more assistance from a case manager than the Secretary otherwise provides;
-
-&emsp;&emsp;"(B) the location in which the veteran resides is located at such distance from facilities of the Department of Veterans Affairs as makes the provision of case management services by the Secretary to such veteran impractical; or
-
-&emsp;&emsp;"(C) the veteran resides in an area where veterans who receive case management services from the Secretary under such section have a significantly lower average rate of successfully obtaining suitable housing than the average rate of successfully obtaining suitable housing for all veterans receiving such services.
+&emsp;"(2) is having difficulty obtaining the amount of such assistance the veteran requires.
 
 "(c)
 
@@ -223,40 +237,6 @@ Elements.—Each report required by paragraph (1) shall include, for the period 
 &emsp;&emsp;"(G) A discussion of the benefits of increasing the ratio of case managers to recipients of vouchers under the supported housing program described in such subsection to veterans who reside in rural areas.
 
 &emsp;&emsp;"(H) Such recommendations for legislative or administrative action as the Secretary considers appropriate for the improvement of collaboration in the provision of case management services under such supported housing program."
-
-<i>\[Pub. L. 116–315, title IV, §4207, Jan. 5, 2021, 134 Stat. 5015, provided that, effective on the first day of the first fiscal year that begins after Jan. 5, 2021, section 304 of Pub. L. 112–154, set out above, is amended:</i>
-
-<i>\[(1) in subsection (a)—</i>
-
-<i>\[(A) by inserting "(1)" before "The Secretary"; and</i>
-
-<i>\[(B) by adding at the end the following new paragraphs:</i>
-
-<i>\["(2)(A) The director of each covered medical center shall seek to enter into one or more contracts or agreements described in paragraph (1).</i>
-
-<i>\["(B) Any contract or agreement under subparagraph (A) may require that each case manager employed by an eligible entity who performs services under the contract or agreement has credentials equivalent to the credentials required for a case manager of the Department.</i>
-
-<i>\["(C)(i) The Secretary may waive the requirement under subparagraph (A) with respect to a covered medical center if the Secretary determines that fulfilling such requirement is infeasible.</i>
-
-<i>\["(ii) If the Secretary grants a waiver under clause (i), the Secretary shall, not later than 90 days after granting such waiver, submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report containing—</i>
-
-&emsp;<i>\["(I) an explanation of the determination made under clause (i);</i>
-
-&emsp;<i>\["(II) a plan to increase the number of case managers of the Department; and</i>
-
-&emsp;<i>\["(III) a plan for the covered medical center to increase use of housing vouchers allocated to that medical center under the program described in paragraph (1).</i>
-
-<i>\["(D) In this paragraph, the term 'covered medical center' means a medical center of the Department with respect to which the Secretary determines that—</i>
-
-&emsp;<i>\["(i) more than 15 percent of all housing vouchers allocated to that medical center under the program described in paragraph (1) during the fiscal year preceding the fiscal year in which such determination was made were unused due to a lack of case management services provided by the Secretary; and</i>
-
-&emsp;<i>\["(ii) one or more case manager positions have been vacant for at least nine consecutive months immediately preceding the date of such determination."; and</i>
-
-<i>\[(2) in subsection (b)(2)—</i>
-
-<i>\[(A) in the matter before subparagraph (A), by striking ", including because—" and inserting a period; and</i>
-
-<i>\[(B) by striking subparagraphs (A), (B), and (C).\]</i>
 
 \[Pub. L. 116–315, title IV, §4207(b), Jan. 5, 2021, 134 Stat. 5015, provided that: "The amendments made by this section \[amending section 304 of Pub. L. 112–154, set out above\] shall take effect on the first day of the first fiscal year that begins after the date of the enactment of this Act \[Jan. 5, 2021\]."\]
 

@@ -2,7 +2,7 @@
 
 #### (a) Specific and other site locations; remedial action; consultations; boundaries; Grand Junction, Colorado, site restriction
 
-(1) As soon as practicable, but no later than one year after November 8, 1978, the Secretaryshall designate processing sites at or near the following locations:
+(1) As soon as practicable, but no later than one year after November 8, 1978, the Secretary shall designate processing sites at or near the following locations:
 
 &emsp;&emsp;Salt Lake City, Utah
 
@@ -80,7 +80,7 @@ The designations made, and priorities established, by the Secretary under this s
 
 #### (1) Designation
 
-&emsp;Notwithstanding any other provision of law, the Moab uranium milling site (referred to in this subsection as the "Moab site") located approximately three miles northwest of Moab, Utah, and identified in the Final Environmental Impact Statement issued by the Nuclear Regulatory Commission in March 1996 in conjunction with Source Materials License No. SUA–917, is designated as a processing site.
+&emsp;Notwithstanding any other provision of law, the Moab uranium milling site (referred to in this subsection as the "Moab site") located approximately three miles northwest of Moab, Utah, and identified in the Final Environmental Impact Statement issued by the Nuclear Regulatory Commission in March 1996 in conjunction with Source Materials LicenseNo. SUA–917, is designated as a processing site.
 
 #### (2) Applicability
 
@@ -92,13 +92,15 @@ The designations made, and priorities established, by the Secretary under this s
 
 #### (3) Remediation
 
-&emsp;Subject to the availability of appropriations for this purpose, the Secretary shall conduct remediation at the Moab site in a safe and environmentally sound manner that takes into consideration the remedial action plan prepared pursuant to section 3405(i) of the Strom Thurmond National Defense AuthorizationAct for Fiscal Year 1999 (10 U.S.C. 8720 note; Public Law 105–261), including—
+&emsp;Subject to the availability of appropriations for this purpose, the Secretary shall conduct remediation at the Moab site in a safe and environmentally sound manner that takes into consideration the remedial action plan prepared pursuant to section 3405(i) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (10 U.S.C. 8720 note; Public Law 105–261), including—
 
 &emsp;&emsp;(A) ground water restoration; and
 
 &emsp;&emsp;(B) the removal, to a site in the State of Utah, for permanent disposition and any necessary stabilization, of residual radioactive material and other contaminated material from the Moab site and the floodplain of the Colorado River.
 
 (Pub. L. 95–604, title I, §102, Nov. 8, 1978, 92 Stat. 3023; Pub. L. 97–415, §21, Jan. 4, 1983, 96 Stat. 2079; Pub. L. 106–398, §1 \[div. C, title XXXIV, §3403(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–489; Pub. L. 115–232, div. A, title VIII, §809(n)(4), Aug. 13, 2018, 132 Stat. 1844.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -111,6 +113,8 @@ Remedial action authorized under Public Law 92–314, referred to in subsec. (a)
 <b>2000</b>—Subsec. (f). Pub. L. 106–398 added subsec. (f).
 
 <b>1983</b>—Subsec. (e)(3). Pub. L. 97–415 added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

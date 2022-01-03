@@ -8,7 +8,7 @@
 
 #### (2) Considerations in development of safety program
 
-&emsp;In the development of the horseracing safety program for covered horses, covered persons, and covered horseraces, the Authority and the Commission shall take into consideration existing safety standards including the National Thoroughbred Racing Association Safety and Integrity Alliance Code of Standards, the International Federation of Horseracing Authority's International Agreement onBreeding, Racing, and Wagering, and the British Horseracing Authority's Equine Health and Welfare program.
+&emsp;In the development of the horseracing safety program for covered horses, covered persons, and covered horseraces, the Authority and the Commission shall take into consideration existing safety standards including the National Thoroughbred Racing Association Safety and Integrity Alliance Code of Standards, the International Federation of Horseracing Authority's International Agreement on Breeding, Racing, and Wagering, and the British Horseracing Authority's Equine Health and Welfare program.
 
 #### (b) Elements of horseracing safety program
 
@@ -82,7 +82,7 @@ The following activities shall be carried out under the racetrack safety program
 
 #### (B) Collection of information
 
-&emsp;&emsp;In accordance with the registration of covered persons under section 3054(d) of this title, the Authority may require covered persons to collect and submit to the database described in subparagraph (A) such information as the Authority may require to further the goal of increased racehorse welfare.
+&emsp;&emsp;In accordance with the registration of covered persons under section 3054(d) of thistitle, the Authority may require covered persons to collect and submit to the database described in subparagraph (A) such information as the Authority may require to further the goal of increased racehorse welfare.
 
 (Pub. L. 116–260, div. FF, title XII, §1207, Dec. 27, 2020, 134 Stat. 3267.)
 

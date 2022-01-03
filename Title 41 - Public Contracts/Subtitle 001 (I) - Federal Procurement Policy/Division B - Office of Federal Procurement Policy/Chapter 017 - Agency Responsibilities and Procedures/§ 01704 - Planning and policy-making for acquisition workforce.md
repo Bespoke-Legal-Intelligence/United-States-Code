@@ -114,7 +114,7 @@ Deadline for completion.—The Acquisition Workforce Development Strategic Plan 
 
 &emsp;(5)
 
-Funds.—The acquisition workforce development strategic plan shall be funded from the acquisition workforce training fund under section 1703(i) of this title.
+Funds.—The acquisition workforce development strategic plan shall be funded from theacquisition workforce training fund under section 1703(i) of this title.
 
 (h)
 

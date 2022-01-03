@@ -26,7 +26,7 @@ In general.—Except as provided in paragraph (2), if an annuitant receiving an 
 
 &emsp;(2)(A)
 
-Election.—An annuitant retired under section 8336(d)(1) or 8414(b)(1)(A) of title 5, receiving an annuity from the Civil ServiceRetirement and Disability Fund, who becomes employed in any category of acquisition positions designated by the Commandant under subsection (a) after the date of the enactment of the Elijah E. Cummings Coast Guard Authorization Act of 2020, may elect to be subject to section 8344 or 8468 of such title (as the case may be).
+Election.—An annuitant retired under section 8336(d)(1) or 8414(b)(1)(A) of title 5, receiving an annuity from the Civil Service Retirement and Disability Fund, who becomes employed in any category of acquisition positions designated by the Commandant under subsection (a) after the date of the enactment of the Elijah E. Cummings Coast Guard Authorization Act of 2020, may elect to be subject to section 8344 or 8468 of such title (as the case may be).
 
 &emsp;&emsp;(i)
 

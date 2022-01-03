@@ -142,7 +142,7 @@ In carrying out subsection (e)(2), the Director shall carry out the following fu
 
 &emsp;&emsp;(A) shall be subject to the ethical and procedural standards regulating Federal employment, scientific investigation, and research findings (including publications and patents) that are required of individuals employed by the Centers for Disease Control and Prevention, including standards under this chapter, the Ethics in Government Act, and the Technology Transfer Act; <sup>1</sup> and
 
-&emsp;&emsp;(B) shall be subject to such ethical and procedural standards under chapter 11 of title 18 (relating to conflicts of interest), as the Director of such Centers determines isappropriate, except such memorandum may not provide that the individual shall be subject to the standards of section 209 of title 18.
+&emsp;&emsp;(B) shall be subject to such ethical and procedural standards under chapter 11 of title 18 (relating to conflicts of interest), as the Director of such Centers determines is appropriate, except such memorandum may not provide that the individual shall be subject to the standards of section 209 of title 18.
 
 #### (5) Financial conflicts of interest
 
@@ -200,7 +200,7 @@ In carrying out subsection (e)(2), the Director shall carry out the following fu
 
 &emsp;(D) For the purposes described in subparagraph (B)—
 
-&emsp;&emsp;(i) any portion of the grant made under subparagraph (A)(i) for fiscal year 1993 that remains unobligated after the entity receiving the grant completes the duties established in subsection (j)(9) for the entity shall be available to the committee established under such subsection; and
+&emsp;&emsp;(i) any portion of the grant made under subparagraph (A)(i) for fiscal year 1993 thatremains unobligated after the entity receiving the grant completes the duties established in subsection (j)(9) for the entity shall be available to the committee established under such subsection; and
 
 &emsp;&emsp;(ii) any portion of a grant under subparagraph (A) made for fiscal year 1993 or 1994 that remains unobligated after such committee completes the duties established in such subsection for the committee shall be available to the Foundation.
 
@@ -216,7 +216,7 @@ In carrying out subsection (e)(2), the Director shall carry out the following fu
 
 #### (4) Support services
 
-&emsp;The Director of the Centers for Disease Control and Prevention may provide facilities,utilities, and support services to the Foundation if it is determined by the Director to be advantageous to the programs of such Centers.
+&emsp;The Director of the Centers for Disease Control and Prevention may provide facilities, utilities, and support services to the Foundation if it is determined by the Director to be advantageous to the programs of such Centers.
 
 #### (j) Committee for establishment of Foundation
 
@@ -287,6 +287,8 @@ In carrying out subsection (e)(2), the Director shall carry out the following fu
 &emsp;(C) The Secretary may make a grant referred to in subparagraph (A) only if the applicant for the grant makes an agreement that the grant will not be expended for any purpose other than carrying out subparagraph (B). Such a grant may be made only if an application for the grant is submitted to the Secretary containing such agreement, and the application is in such form, is made in such manner, and contains such other agreements and such assurances and information as the Secretary determines to be necessary to carry out this paragraph.
 
 (July 1, 1944, ch. 373, title III, §399G, formerly §399F, as added Pub. L. 102–531, title II, §201, Oct. 27, 1992, 106 Stat. 3474; renumbered §399G, Pub. L. 106–310, div. A, title V, §502(3), Oct. 17, 2000, 114 Stat. 1115; amended Pub. L. 109–245, §1, July 26, 2006, 120 Stat. 575.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

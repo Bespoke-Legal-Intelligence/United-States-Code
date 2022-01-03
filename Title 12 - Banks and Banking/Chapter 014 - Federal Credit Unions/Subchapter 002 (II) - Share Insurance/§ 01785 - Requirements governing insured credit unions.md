@@ -38,7 +38,7 @@ Conversion of insured credit unions to mutual savings banks.—
 
 &emsp;(A)
 
-In general.—Notwithstanding paragraph (1), an insured credit union may convert to a mutual savings bank or savings association (if the savings association is in mutual form), as those terms are defined in section 1813 of this title, without the prior approval of the Board, subject to the requirements and procedures set forth in the laws and regulations governing mutual savings banks and savings associations.
+In general.—Notwithstanding paragraph (1), an insured credit union may convert to amutual savings bank or savings association (if the savings association is in mutual form), as those terms are defined in section 1813 of this title, without the prior approval of the Board, subject to the requirements and procedures set forth in the laws and regulations governing mutual savings banks and savings associations.
 
 &emsp;(B)
 
@@ -68,7 +68,7 @@ Limit on compensation of officials.—
 
 &emsp;&emsp;(i)
 
-In general.—No director or senior management official of an insured creditunion may receive any economic benefit in connection with a conversion of the credit union as described in subparagraph (A), other than—
+In general.—No director or senior management official of an insured credit union may receive any economic benefit in connection with a conversion of the credit union as described in subparagraph (A), other than—
 
 &emsp;&emsp;&emsp;(I) director fees; and
 

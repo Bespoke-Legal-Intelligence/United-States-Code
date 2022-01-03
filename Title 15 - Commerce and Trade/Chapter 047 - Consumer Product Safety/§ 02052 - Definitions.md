@@ -82,7 +82,7 @@ In this chapter:
 
 #### (12) Private labeler
 
-&emsp;(A) The term "private labeler" means an owner of a brand or trademark on the label of a consumer product which bears a private label.
+&emsp;(A) The term "private labeler" means an owner of a brand or trademark on the label ofa consumer product which bears a private label.
 
 &emsp;(B) A consumer product bears a private label if (i) the product (or its container) is labeled with the brand or trademark of a person other than a manufacturer of the product, (ii) the person with whose brand or trademark the product (or container) is labeled has authorized or caused the product to be so labeled, and (iii) the brand or trademark of a manufacturer of such product does not appear on such label.
 
@@ -96,7 +96,7 @@ In this chapter:
 
 #### (15) State
 
-&emsp;The term "State" means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, Wake Island, Midway Island, Kingman Reef, JohnstonIsland, the Canal Zone, American Samoa, or the Trust Territory of the Pacific Islands.
+&emsp;The term "State" means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, Wake Island, Midway Island, Kingman Reef, Johnston Island, the Canal Zone, American Samoa, or the Trust Territory of the Pacific Islands.
 
 #### (16) Third-party logistics provider
 
@@ -111,6 +111,8 @@ In this chapter:
 A common carrier, contract carrier, third-party logistics provider, or freight forwarder shall not, for purposes of this chapter, be deemed to be a manufacturer, distributor, or retailer of a consumer product solely by reason of receiving or transporting a consumer product in the ordinary course of its business as such a carrier or forwarder.
 
 (Pub. L. 92–573, §3, Oct. 27, 1972, 86 Stat. 1208; Pub. L. 94–284, §3(b), (d), May 11, 1976, 90 Stat. 503; Pub. L. 97–35, title XII, §1213, Aug. 13, 1981, 95 Stat. 724; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 110–314, title II, §235(a)–(c)(1), Aug. 14, 2008, 122 Stat. 3074.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -148,13 +150,15 @@ Subsec. (b). Pub. L. 110–314, §235(b)(5), (c)(1), inserted heading and insert
 
 <b>1976</b>—Subsec. (a)(1). Pub. L. 94–284 substituted in subpar. (D) "pesticides" for "economic poisons", and in provision following subpar. (I) "other limitations" for "limitations", and inserted provision which limited the authority of the Commission to regulate any product or article described in subpar. (E).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1981 Amendment
 
 Pub. L. 97–35, title XII, §1215, Aug. 13, 1981, 95 Stat. 724, provided that:
 
 "(a) Except as provided in subsection (b), the amendments made by this subtitle \[see Short Title of 1981 Amendment note set out under section 2051 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 13, 1981\].
 
-"(b) The amendments made by section 1207 \[enacting sections 1204, 1276, and 2083 of this title and amending section 2076 of this title\] shall apply with respect to consumer product safety rules under the Consumer Product Safety Act \[this chapter\] and regulations under the Federal Hazardous Substances Act \[section 1261 et seq. of this title\] and the Flammable Fabrics Act \[section 1191 et seq. of this title\] promulgated by the Consumer Product Safety Commission after the date of the enactment of this Act \[Aug. 13, 1981\]; and the amendments made by sections 1202, 1203, and 1206 of this subtitle \[enacting section 2077 of this title and amending sections 1193, 1262, 2056, 2057, 2058, and 2080 of this title\] shall apply with respect to regulations underthe Consumer Product Safety Act, the Federal Hazardous Substances Act, and the Flammable Fabrics Act for which notices of proposed rulemaking are issued after August 14, 1981."
+"(b) The amendments made by section 1207 \[enacting sections 1204, 1276, and 2083 of this title and amending section 2076 of this title\] shall apply with respect to consumer product safety rules under the Consumer Product Safety Act \[this chapter\] and regulations under the Federal Hazardous Substances Act \[section 1261 et seq. of this title\] and the Flammable Fabrics Act \[section 1191 et seq. of this title\] promulgated by the Consumer Product Safety Commission after the date of the enactment of this Act \[Aug. 13, 1981\]; and the amendments made by sections 1202, 1203, and 1206 of this subtitle \[enacting section 2077 of this title and amending sections 1193, 1262, 2056, 2057, 2058, and 2080 of this title\] shall apply with respect to regulations under the Consumer Product Safety Act, the Federal Hazardous Substances Act, and the Flammable Fabrics Act for which notices of proposed rulemaking are issued after August 14, 1981."
 
 #### Effective Date
 
@@ -163,6 +167,8 @@ Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### <b>Executive Documents</b>
 
 #### Termination of Trust Territory of the Pacific Islands
 

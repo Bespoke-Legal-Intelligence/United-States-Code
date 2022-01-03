@@ -10,7 +10,7 @@ The Secretary shall enter into an agreement with every State under which the ser
 
 #### (b) Requests from authorized persons for information
 
-An agreement entered into under subsection (a) shall provide that the State agency described in section 654 of this title will, under proceduresprescribed by the Secretary in regulations, receive and transmit to the Secretary requests from authorized persons for information as to (or useful in determining) the whereabouts of any parent or child when such information is to be used to locate such parent or child for the purpose of—
+An agreement entered into under subsection (a) shall provide that the State agency described in section 654 of this title will, under procedures prescribed by the Secretary in regulations, receive and transmit to the Secretary requests from authorized persons for information as to (or useful in determining) the whereabouts of any parent or child when such information is to be used to locate such parent or child for the purpose of—
 
 &emsp;(1) enforcing any State or Federal law with respect to the unlawful taking or restraint of a child; or
 
@@ -36,7 +36,7 @@ For purposes of this section—
 
 #### (e) Agreement on use of Federal Parent Locator Service with United States Central Authority under Convention on the Civil Aspects of International Child Abduction
 
-The Secretary shall enter into an agreement with the Central Authority designated by the President in accordance with section 9006 of title 22, under which the services of the Federal Parent Locator Service established under section 653 of this title shall be made available to such Central Authority upon its request for the purpose of locating any parent or child on behalf of an applicant to such Central Authority within the meaning of section 9002(1) of title 22. The Federal Parent Locator Service shall charge no fees for services requested pursuant to this subsection.
+The Secretary shall enter into an agreement with the Central Authority designated by the President in accordance with section 9006 of title 22, under which the services of the FederalParent Locator Service established under section 653 of this title shall be made available to such Central Authority upon its request for the purpose of locating any parent or child on behalf of an applicant to such Central Authority within the meaning of section 9002(1) of title 22. The Federal Parent Locator Service shall charge no fees for services requested pursuant to this subsection.
 
 #### (f) Agreement to assist in locating missing children under Federal Parent Locator Service
 
@@ -49,6 +49,8 @@ The Secretary shall enter into an agreement with the Attorney General of the Uni
 > The Federal Parent Locator Service shall charge no fees for services requested pursuant to this subsection.
 
 (Aug. 14, 1935, ch. 531, title IV, §463, as added Pub. L. 96–611, §9(b), Dec. 28, 1980, 94 Stat. 3572; amended Pub. L. 100–300, §11, Apr. 29, 1988, 102 Stat. 441; Pub. L. 103–432, title II, §214(a), (b), Oct. 31, 1994, 108 Stat. 4461; Pub. L. 104–193, title III, §§316(e)(1), 395(d)(1)(G), Aug. 22, 1996, 110 Stat. 2215, 2259; Pub. L. 105–33, title V, §5534(b), Aug. 5, 1997, 111 Stat. 629.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -83,6 +85,8 @@ Subsec. (f). Pub. L. 103–432, §214(a), added subsec. (f).
 Subsec. (c). Pub. L. 100–300, §11(2), substituted "under subsection (a), (b), or (e)" for "under this section".
 
 Subsec. (e). Pub. L. 100–300, §11(3), added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1997 Amendment
 

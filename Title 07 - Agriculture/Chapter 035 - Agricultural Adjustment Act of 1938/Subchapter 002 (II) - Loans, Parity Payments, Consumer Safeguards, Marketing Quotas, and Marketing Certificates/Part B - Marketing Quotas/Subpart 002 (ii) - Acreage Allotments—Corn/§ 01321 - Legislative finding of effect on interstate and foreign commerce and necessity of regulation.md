@@ -12,9 +12,11 @@ Substantially all the corn moving in interstate commerce, substantially all the 
 
 The conditions affecting the production and marketing of corn and the livestock products of corn are such that, without Federal assistance, farmers, individually or in cooperation, cannot effectively prevent the recurrence of disparities between the supplies of livestock moving in interstate and foreign commerce and the supply of corn available for feeding, and provide for orderly marketing of corn in interstate and foreign commerce and livestock and livestock products in interstate and foreign commerce.
 
-The national public interest requires that the burdens on interstate and foreign commerce above described be removed by the exercise of Federal power. By reason of the administrativeand physical impracticability of regulating the movement of livestock and livestock products in interstate and foreign commerce and the inadequacy of any such regulation to remove such burdens, such power can be feasibly exercised only by providing for the withholding from market of excessive and burdensome supplies of corn in times of excessive production, and providing a reserve supply of corn available for market in times of deficient production, in order that a stable and continuous flow of livestock and livestock products in interstate and foreign commerce may at all times be assured and maintained.
+The national public interest requires that the burdens on interstate and foreign commerce above described be removed by the exercise of Federal power. By reason of the administrative and physical impracticability of regulating the movement of livestock and livestock products in interstate and foreign commerce and the inadequacy of any such regulation to remove such burdens, such power can be feasibly exercised only by providing for the withholding from market of excessive and burdensome supplies of corn in times of excessive production, and providing a reserve supply of corn available for market in times of deficient production, in order that a stable and continuous flow of livestock and livestock products in interstate and foreign commerce may at all times be assured and maintained.
 
 (Feb. 16, 1938, ch. 30, title III, §321, 52 Stat. 48.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Inapplicability of Section
 

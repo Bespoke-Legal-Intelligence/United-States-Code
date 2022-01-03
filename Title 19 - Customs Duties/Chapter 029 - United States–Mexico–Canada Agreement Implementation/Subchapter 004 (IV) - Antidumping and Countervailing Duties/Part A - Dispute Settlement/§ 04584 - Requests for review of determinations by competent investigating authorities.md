@@ -18,13 +18,15 @@ In the case of a final determination of a competent investigating authority, req
 
 #### (c) Requests for review by person
 
-In the case of a final determination of a competent investigating authority, a person, within the meaning of paragraph 5 of article 10.12, mayrequest a binational panel review of such determination by filing such a request with the United States Secretary within the time limit provided for in paragraph 4 of article 10.12. The receipt of such request by the United States Secretary shall be deemed to be a request for binational panel review within the meaning of article 10.12. The request for such panel review shall be without prejudice to any challenge before a binational panel of the basis for a particular request for review.
+In the case of a final determination of a competent investigating authority, a person, within the meaning of paragraph 5 of article 10.12, may request a binational panel review of such determination by filing such a request with the United States Secretary within the time limit provided for in paragraph 4 of article 10.12. The receipt of such request by the United States Secretary shall be deemed to be a request for binational panel review within the meaning of article 10.12. The request for such panel review shall be without prejudice to any challenge before a binational panel of the basis for a particular request for review.
 
 #### (d) Service of request for review
 
 Whenever binational panel review of a final determination made by a competent investigating authority is requested under this section, the United States Secretary shall serve a copy of the request on all persons who would otherwise be entitled under the law of the importing country to commence proceedings for judicial review of the determination.
 
 (Pub. L. 116–113, title IV, §414, formerly Pub. L. 103–182, title IV, §404, Dec. 8, 1993, 107 Stat. 2137; renumbered §414 of Pub. L. 116–113 and amended Pub. L. 116–113, title V, §504(e), Jan. 29, 2020, 134 Stat. 75.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -41,6 +43,8 @@ Subsec. (a)(2). Pub. L. 116–113, §504(e)(3)(B)(ii), substituted "article 10.1
 Subsec. (b). Pub. L. 116–113, §504(e)(3)(C), substituted "article 10.12" for "article 1904".
 
 Subsec. (c). Pub. L. 116–113, §504(e)(3)(D), substituted "article 10.12" for "article 1904" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 

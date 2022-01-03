@@ -1,6 +1,6 @@
 ### §3611. Payment of a fine or restitution
 
-A person who is sentenced to pay a fine, assessment, or restitution, shall pay the fine, assessment, or restitution (including any interest or penalty), as specified by the Director of the Administrative Office of the United States Courts. Such Director may specify that such payment be made to the clerk of the court or in the manner provided for under section 604(a)(18) of title 28, United States Code.
+A person who is sentenced to pay a fine, assessment, or restitution, shall pay the fine, assessment, or restitution (including any interestor penalty), as specified by the Director of the Administrative Office of the United States Courts. Such Director may specify that such payment be made to the clerk of the court or in the manner provided for under section 604(a)(18) of title 28, United States Code.
 
 (Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 2004; amended Pub. L. 100–185, §10(a), Dec. 11, 1987, 101 Stat. 1283; Pub. L. 101–647, title XXXV, §3591, Nov. 29, 1990, 104 Stat. 4931; Pub. L. 104–132, title II, §207(c)(1), Apr. 24, 1996, 110 Stat. 1237.)
 

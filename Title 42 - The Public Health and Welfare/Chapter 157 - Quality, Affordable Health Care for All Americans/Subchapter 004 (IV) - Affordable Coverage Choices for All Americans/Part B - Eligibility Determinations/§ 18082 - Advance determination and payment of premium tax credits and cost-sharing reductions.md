@@ -4,7 +4,7 @@
 
 The Secretary, in consultation with the Secretary of the Treasury, shall establish a program under which—
 
-&emsp;(1) upon request of an Exchange, advance determinations are made under section 18081 of this title with respect to the income eligibility of individuals enrolling in a qualifiedhealth plan in the individual market through the Exchange for the premium tax credit allowable under section 36B of title 26 and the cost-sharing reductions under section 18071 of this title;
+&emsp;(1) upon request of an Exchange, advance determinations are made under section 18081 of this title with respect to the income eligibility of individuals enrolling in a qualified health plan in the individual market through the Exchange for the premium tax credit allowable under section 36B of title 26 and the cost-sharing reductions under section 18071 of this title;
 
 &emsp;(2) the Secretary notifies—
 
@@ -78,9 +78,11 @@ Nothing in this subtitle or the amendments made by this subtitle shall be constr
 
 (Pub. L. 111–148, title I, §1412, Mar. 23, 2010, 124 Stat. 231.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This subtitle, referred to in subsecs. (d) and (e), is subtitle E (§§1401–1421) of title I of Pub. L. 111–148,which enacted this subchapter and sections 36B and 45R of Title 26, Internal Revenue Code, amended section 405 of this title, sections 38, 196, 280C, 6103, and 7213 of Title 26, and section 1324 of Title 31, Money and Finance, and enacted provisions set out as notes under sections 36B and 38 of Title 26. For complete classification of subtitle E to the Code, see Tables.
+This subtitle, referred to in subsecs. (d) and (e), is subtitle E (§§1401–1421) of title I of Pub. L. 111–148, which enacted this subchapter and sections 36B and 45R of Title 26, Internal Revenue Code, amended section 405 of this title, sections 38, 196, 280C, 6103, and 7213 of Title 26, and section 1324 of Title 31, Money and Finance, and enacted provisions set out as notes under sections 36B and 38 of Title 26. For complete classification of subtitle E to the Code, see Tables.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "employees".</i>
 

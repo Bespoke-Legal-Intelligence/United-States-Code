@@ -14,7 +14,7 @@ Activities supported by grants under this section may include—
 
 &emsp;(3) development and implementation of future faculty training programs focused on improved instruction, mentoring, assessment of student learning, and support of undergraduate STEM students;
 
-&emsp;(4) support and training for graduate students to participate in instructional activities beyond the traditional teaching assistantship, and especially as part of ongoing educationalreform efforts, including at pre-K–12 schools, and primarily undergraduate institutions;
+&emsp;(4) support and training for graduate students to participate in instructional activities beyond the traditional teaching assistantship, and especially as part of ongoing educational reform efforts, including at pre-K–12 schools, and primarily undergraduate institutions;
 
 &emsp;(5) creation, improvement, or expansion of innovative graduate programs such as science master's degree programs;
 
@@ -58,9 +58,13 @@ An institution of higher education may partner with one or more other nonprofit 
 
 (Pub. L. 111–358, title V, §527, Jan. 4, 2011, 124 Stat. 4020.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the America COMPETES Reauthorization Act of 2010, also known as the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Reauthorization Act of 2010, and also as part of the National Science Foundation Authorization Act of 2010, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

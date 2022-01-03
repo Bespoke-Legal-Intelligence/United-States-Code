@@ -34,7 +34,7 @@ Notwithstanding section 2055(a)(3) of this title, the Commission may provide to 
 
 #### (1) Agreements and conditions
 
-&emsp;Notwithstanding the requirements of subsections (a)(3) and (b) of section 2055 of this title, relating to public disclosure of information, the Commission may make information obtained by the Commission available to any Federal, State, local, or foreign government agency upon the prior certification of an appropriate official of any such agency, either by a prior agreement or memorandum of understanding with the Commission or by other written certification, that such material will be maintained in confidence and will be used only for official law enforcement or consumer protection purposes, if—
+&emsp;Notwithstanding the requirements of subsections (a)(3) and (b) of section 2055 of this title, relating to public disclosure of information, the Commission may make informationobtained by the Commission available to any Federal, State, local, or foreign government agency upon the prior certification of an appropriate official of any such agency, either by a prior agreement or memorandum of understanding with the Commission or by other written certification, that such material will be maintained in confidence and will be used only for official law enforcement or consumer protection purposes, if—
 
 &emsp;&emsp;(A) the agency has set forth a bona fide legal basis for its authority to maintain the material in confidence;
 
@@ -80,6 +80,8 @@ Whenever the Commission is notified of any voluntary corrective action taken by 
 
 (Pub. L. 92–573, §29, Oct. 27, 1972, 86 Stat. 1230; Pub. L. 94–284, §15, May 11, 1976, 90 Stat. 510; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 110–314, title II, §§207, 235(c)(7), Aug. 14, 2008, 122 Stat. 3044, 3075.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 4605(j) of title 50, referred to in subsec. (f)(1)(C), was repealed by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232. For provisions similar to those of former section 4605(j) of title 50, see section 4813(c) of title 50, as enacted by Pub. L. 115–232.
@@ -93,6 +95,8 @@ Subsecs. (f), (g). Pub. L. 110–314, §207, added subsecs. (f) and (g).
 <b>1988</b>—Subsec. (d). Pub. L. 100–418 substituted "National Institute of Standards and Technology" for "National Bureau of Standards".
 
 <b>1976</b>—Subsec. (e). Pub. L. 94–284 added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

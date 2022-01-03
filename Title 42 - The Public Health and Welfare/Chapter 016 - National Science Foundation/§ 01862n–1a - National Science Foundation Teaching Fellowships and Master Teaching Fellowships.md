@@ -78,7 +78,7 @@ Grants awarded under this section shall be used by the eligible entity (and part
 
 &emsp;&emsp;(D) in the case of National Science Foundation Teaching Fellowships, a description of—
 
-&emsp;&emsp;&emsp;(i) the selection process that will be used in awarding fellowships, including a description of the rigorous measures to be used, including the rigorous, nationally recognized assessments to be used, in order to determine whether individuals applying for fellowships have advanced content knowledge of science, technology, engineering, or mathematics;
+&emsp;&emsp;&emsp;(i) the selection process that will be used in awarding fellowships, including a description of the rigorous measures to be used, including the rigorous, nationally recognized assessments to be used, in order to determine whether individuals applyingfor fellowships have advanced content knowledge of science, technology, engineering, or mathematics;
 
 &emsp;&emsp;&emsp;(ii) the academic courses and clinical teaching experiences described in subsection (c)(2)(A), including—
 
@@ -134,7 +134,7 @@ A National Science Foundation Teaching Fellow or a National Science Foundation M
 
 #### (1) In general
 
-&emsp;An eligible entity receiving a grant under this section shall provide salary supplements to individuals who participate in the program under this section during the period of their service obligation under subsection (h). A local educational agency through which the service obligation is fulfilled shall agree notto reduce the base salary normally paid to an individual solely because such individual receives a salary supplement under this subsection.
+&emsp;An eligible entity receiving a grant under this section shall provide salary supplements to individuals who participate in the program under this section during the period of their service obligation under subsection (h). A local educational agency through which the service obligation is fulfilled shall agree not to reduce the base salary normally paid to an individual solely because such individual receives a salary supplement under this subsection.
 
 #### (2) Amount and duration
 
@@ -144,7 +144,7 @@ A National Science Foundation Teaching Fellow or a National Science Foundation M
 
 #### (B) Support while enrolled in master's degree program
 
-&emsp;&emsp;A National Science Foundation Teaching Fellow may receive a maximum of 1 year of fellowship support while enrolled in a master's degree program as described in subsection (c)(2)(A), except that if such fellow is enrolled in a part-time program, such amount shall be prorated according to the length of the program.
+&emsp;&emsp;A National Science Foundation Teaching Fellow may receive a maximum of 1 year offellowship support while enrolled in a master's degree program as described in subsection (c)(2)(A), except that if such fellow is enrolled in a part-time program, such amount shall be prorated according to the length of the program.
 
 #### (C) Duration of support
 
@@ -216,6 +216,8 @@ An individual awarded a fellowship under this section shall serve as a mathemati
 
 (Pub. L. 107–368, §10A, as added Pub. L. 110–69, title VII, §7030, Aug. 9, 2007, 121 Stat. 705; amended Pub. L. 111–358, title V, §511, Jan. 4, 2011, 124 Stat. 4010; Pub. L. 114–59, §4(a), Oct. 7, 2015, 129 Stat. 540; Pub. L. 114–329, title III, §301, Jan. 6, 2017, 130 Stat. 3003; Pub. L. 115–303, §2(a)(2), Dec. 11, 2018, 132 Stat. 4399; Pub. L. 116–115, §3(e), Feb. 11, 2020, 134 Stat. 107.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 7030 of Pub. L. 110–69, which directed that "Section 10 of the National Science Foundation Authorization Act of 2002 (42 U.S.C. 1862n–1) is amended to read as follows:" and then set out the text of sections 10 and 10A, was executed by generally amending section 10 and adding a new section 10A (42 U.S.C. 1862n–1a) after section 10, to reflect the probable intent of Congress.
@@ -245,6 +247,8 @@ Subsecs. (g) to (j). Pub. L. 114–59, §4(a)(4), (5), added subsec. (g) and red
 <b>2011</b>—Subsec. (a)(2)(A). Pub. L. 111–358, §511(b), inserted "including retiring professionals in those fields," after "mathematics professionals,".
 
 Subsec. (h)(1). Pub. L. 111–358, §511(a), amended par. (1) generally. Prior to amendment, text read as follows: "An eligible entity receiving a grant under this section shall provide, from non-Federal sources, an amount equal to 50 percent of the amount of the grant (which may be provided in cash or in-kind) to carry out the activities supported by the grant."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

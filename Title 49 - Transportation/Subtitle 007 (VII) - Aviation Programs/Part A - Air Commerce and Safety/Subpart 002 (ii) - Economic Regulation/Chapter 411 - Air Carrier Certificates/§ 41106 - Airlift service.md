@@ -54,6 +54,8 @@ In subsection (a), before clause (1), the word "passengers" is substituted for "
 
 In subsection (b), the words "to provide the service" are added for clarity.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Subsecs. (a)(1), (b). Pub. L. 112–81, §365(a)(1), substituted "CRAF-eligible aircraft" for "transport category aircraft".
@@ -62,9 +64,11 @@ Subsec. (c). Pub. L. 112–81, §365(a), substituted "CRAF-eligible aircraft" fo
 
 Subsec. (e). Pub. L. 112–81, §365(b), added subsec. (e).
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title III, §385(a)(1), (b)\], in heading substituted "Interstate Transportation" for "General" and in introductoryprovisions of par. (1), substituted "Except as provided in subsection (d) of this section," for "Except as provided in subsection (b) of this section," and struck out "of at least 31 days" after "through a contract".
+<b>2000</b>—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title III, §385(a)(1), (b)\], in heading substituted "Interstate Transportation" for "General" and in introductory provisions of par. (1), substituted "Except as provided in subsection (d) of this section," for "Except as provided in subsection (b) of this section," and struck out "of at least 31 days" after "through a contract".
 
 Subsecs. (b) to (d). Pub. L. 106–398, §1 \[\[div. A\], title III, §385(a)(2), (3)\], added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

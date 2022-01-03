@@ -76,13 +76,201 @@ Market Research Training Required.—The Secretary of Defense shall provide mand
 
 (Added Pub. L. 103–355, title VIII, §8104(a), Oct. 13, 1994, 108 Stat. 3390, §2377; amended Pub. L. 110–181, div. A, title VIII, §826(a), Jan. 28, 2008, 122 Stat. 227; Pub. L. 114–92, div. A, title VIII, §844(a), Nov. 25, 2015, 129 Stat. 915; Pub. L. 114–328, div. A, title VIII, §871, Dec. 23, 2016, 130 Stat. 2307; Pub. L. 115–232, div. A, title VIII, §836(d)(3), (8)(C), Aug. 13, 2018, 132 Stat. 1866, 1868; Pub. L. 116–92, div. A, title VIII, §818(a), Dec. 20, 2019, 133 Stat. 1488; renumbered §3453 and amended Pub. L. 116–283, div. A, title XVIII, §1821(a)(2), (b)(3), Jan. 1, 2021, 134 Stat. 4195.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283, §1821(a)(2), renumbered section 2377 of this title as this section.
 
 Subsec. (d)(1). Pub. L. 116–283, §1821(b)(3), substituted "section 3455" for "section 2379".
 
+<b>2019</b>—Subsec. (c)(4). Pub. L. 116–92, §818(a)(1)(B), added par. (4). Former par. (4) redesignated (5).
+
+Subsec. (c)(5). Pub. L. 116–92, §818(a)(2), amended directory language of Pub. L. 115–232, §836(d)(3)(C)(ii). See 2018 Amendment note below.
+
+Pub. L. 116–92, §818(a)(1), redesignated par. (4) as (5).
+
+<b>2018</b>—Pub. L. 115–232, §836(d)(8)(C), substituted "commercial products and commercial services" for "acquisition of commercial items" in section catchline.
+
+Subsec. (a)(2). Pub. L. 115–232, §836(d)(3)(A)(i), substituted "commercial services or commercial products or, to the extent that commercial products suitable to meet the agency's needs are not available, nondevelopmental items other than commercial products" for "commercial items or, to the extent that commercial items suitable to meet the agency's needs are not available, nondevelopmental items other than commercial items".
+
+Subsec. (a)(3). Pub. L. 115–232, §836(d)(3)(A)(ii), substituted "commercial services, commercial products, and nondevelopmental items other than commercial products" for "commercial items and nondevelopmental items other than commercial items".
+
+Subsec. (b)(1), (2). Pub. L. 115–232, §836(d)(3)(B)(i), substituted "commercial services, commercial products, or nondevelopmental items other than commercial products" for "commercial items or nondevelopmental items other than commercial items".
+
+Subsec. (b)(3), (4). Pub. L. 115–232, §836(d)(3)(B)(ii), substituted "commercial services or commercial products or, to the extent that commercial products suitable to meet the agency's needs are not available, nondevelopmental items other than commercial products" for "commercial items or, to the extent that commercial items suitable to meet the agency's needs are not available, nondevelopmental items other than commercial items".
+
+Subsec. (b)(5), (6). Pub. L. 115–232, §836(d)(3)(B)(iii), substituted "commercial products and commercial services" for "commercial items".
+
+Subsec. (c)(2). Pub. L. 115–232, §836(d)(3)(C)(i), in introductory provisions, substituted "commercial services or commercial products or, to the extent that commercial products suitable to meet the agency's needs are not available, nondevelopmental items other than commercial products" for "commercial items or, to the extent that commercial items suitable to meet the agency's needs are not available, nondevelopmental items other than commercial items".
+
+Subsec. (c)(5). Pub. L. 115–232, §836(d)(3)(C)(ii), as amended by Pub. L. 116–92, §818(a)(2), substituted "products other than commercial products or services other than commercial services" for "items other than commercial items".
+
+Subsec. (d). Pub. L. 115–232, §836(d)(3)(D)(i), substituted "commercial products or commercial services" for "commercial items" in introductory provisions.
+
+Subsec. (d)(1), (2). Pub. L. 115–232, §836(d)(3)(D)(ii), (iii), substituted "products or services" for "items".
+
+Subsec. (e)(1). Pub. L. 115–232, §836(d)(3)(E), substituted "commercial products and commercial services" for "commercial items".
+
+<b>2016</b>—Subsecs. (d), (e). Pub. L. 114–328 added subsec. (d), redesignated former subsec. (d) as (e), and in introductory provisions of subsec. (e), substituted "subsections (c) and (d)" for "subsection (c)".
+
+<b>2015</b>—Subsec. (d). Pub. L. 114–92 added subsec. (d).
+
+<b>2008</b>—Subsec. (c)(1)(C). Pub. L. 110–181, §826(a)(1), added subpar. (C).
+
+Subsec. (c)(4). Pub. L. 110–181, §826(a)(2), added par. (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2021 Amendment
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+#### Effective Date of 2018 Amendment
+
+Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
+
+#### Use of Commercial Items in Distributed Common Ground Systems
+
+Pub. L. 115–91, div. A, title XVI, §1698, Dec. 12, 2017, 131 Stat. 1794, provided that:
+
+"(a)
+
+In General.—The procurement process for each covered Distributed Common Ground System shall be carried out in accordance with section 2377 of title 10, United States Code \[now 10 U.S.C. 3453\].
+
+"(b)
+
+Certification.—Not later than 30 days after the date of the enactment of this Act \[Dec. 12, 2017\], the service acquisition executive responsible for each covered Distributed Common Ground System shall certify to the appropriate congressional committees that the procurement process for increments of the system procured after the date of the enactment of this Act will be carried out in accordance with section 2377 of title 10, United States Code \[now 10 U.S.C. 3453\].
+
+"(c)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'appropriate congressional committees' means—
+
+&emsp;&emsp;"(A) the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\]; and
+
+&emsp;&emsp;"(B) the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives.
+
+&emsp;"(2) The term 'covered Distributed Common Ground System' includes the following:
+
+&emsp;&emsp;"(A) The Distributed Common Ground System of the Army.
+
+&emsp;&emsp;"(B) The Distributed Common Ground System of the Navy.
+
+&emsp;&emsp;"(C) The Distributed Common Ground System of the Marine Corps.
+
+&emsp;&emsp;"(D) The Distributed Common Ground System of the Air Force.
+
+&emsp;&emsp;"(E) The Distributed Common Ground System of the Special Operations Forces."
+
+#### Commercial Operational and Support Savings Initiative
+
+Pub. L. 114–328, div. A, title VIII, §849(d), Dec. 23, 2016, 130 Stat. 2294, as amended by Pub. L. 115–232, div. A, title VIII, §836(f)(7), Aug. 13, 2018, 132 Stat. 1871, provided that:
+
+"(1)
+
+In general.—The Secretary of Defense may establish a commercial operational and support savings initiative to improve readiness and reduce operations and support costs by inserting existing commercial products or technology into military legacy systems through the rapid development of prototypes and fielding of production items based on current commercial technology.
+
+"(2)
+
+Program priority.—The commercial operational and support savings initiative shall fund programs that—
+
+&emsp;"(A) reduce the costs of owning and operating a military system, including the costs of personnel, consumables, goods and services, and sustaining the support and investment associated with the peacetime operation of a weapon system;
+
+&emsp;"(B) take advantage of the commercial sector's technological innovations by inserting commercial technology into fielded weapon systems; and
+
+&emsp;"(C) emphasize prototyping and experimentation with new technologies and concepts of operations.
+
+"(3)
+
+Funding phases.—
+
+&emsp;"(A)
+
+In general.—Projects funded under the commercial operational and support savings initiative shall consist of two phases, Phase I and Phase II.
+
+&emsp;"(B)
+
+Phase i.—(i) Funds made available during Phase I shall be used to perform the non-recurring engineering, testing, and qualification that are typically needed to adapt a commercial product or technology for use in a military system.
+
+&emsp;"(ii) Phase I shall include—
+
+&emsp;&emsp;"(I) establishment of cost and performance metrics to evaluate project success;
+
+&emsp;&emsp;"(II) establishment of a transition plan and agreement with a military department or Defense Agency for adoption and sustainment of the technology or system; and
+
+&emsp;&emsp;"(III) the development, fabrication, and delivery of a demonstrated prototype to a military department for installation into a fielded Department of Defense system.
+
+&emsp;"(iii) Programs shall be terminated if no agreement is established within two years of project initiation.
+
+&emsp;"(iv) The Office of the Secretary of Defense may provide up to 50 percent of Phase I funding for a project. The military department or Defense Agency concerned may provide the remainder of Phase I funding, which may be provided out of operation and maintenance funding.
+
+&emsp;"(v) Phase I funding shall not exceed three years.
+
+&emsp;"(vi) Phase I projects shall be selected based on a merit-based process using criteria to be established by the Secretary of Defense.
+
+&emsp;"(C)
+
+Phase ii.—(i) Phase II shall include the purchase of limited production quantities of the prototype kits and transition to a program of record for continued sustainment.
+
+&emsp;"(ii) Phase II awards may be made without competition if general solicitation competitive procedures were used for the selection of parties for participation in a Phase I project.
+
+&emsp;"(iii) Phase II awards may be made as firm fixed-price awards.
+
+"(4)
+
+Treatment as competitive procedures.—The use of a merit-based process for selection of projects under the commercial operational and support savings initiative shall be considered to be the use of competitive procedures for purposes of \[former\] chapter 137 of title 10, United States Code.
+
+&emsp;"(5)
+
+Definition.—In this subsection, the term 'commercial product' has the meaning given that term in section 103 of title 41."
+
+#### Preference for Commercial Services
+
+Pub. L. 114–328, div. A, title VIII, §876, Dec. 23, 2016, 130 Stat. 2311, as amended by Pub. L. 116–92, div. A, title IX, §902(59), Dec. 20, 2019, 133 Stat. 1550, provided that: "Not later than 90 days after the date of the enactment of this Act \[Dec. 23, 2016\], the Secretary of Defense shall revise the guidance issued pursuant to section 855 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 2377 note) to provide that—
+
+&emsp;"(1) the head of an agency may not enter into a contract in excess of $10,000,000 for facilities-related services, knowledge-based services (except engineering services), construction services, medical services, or transportation services that are not commercial services unless the service acquisition executive of the military department concerned, the head of the Defense Agency concerned, the commander of the combatant command concerned, or the Under Secretary of Defense for Acquisition and Sustainment (as applicable) determines in writing that no commercial services are suitable to meet the agency's needs as provided in section 2377(c)(2) of title 10, United States Code \[now 10 U.S.C. 3453(c)(2)\]; and
+
+&emsp;"(2) the head of an agency may not enter into a contract in an amount above the simplified acquisition threshold and below $10,000,000 for facilities-related services, knowledge-based services (except engineering services), construction services, medical services, or transportation services that are not commercial services unless the contracting officer determines in writing that no commercial services are suitable to meet the agency's needs as provided in section 2377(c)(2) of such title \[now 10 U.S.C. 3453(c)(2)\]."
+
+#### Incorporation Into Management Certification Training Mandate
+
+Pub. L. 114–92, div. A, title VIII, §844(b), Nov. 25, 2015, 129 Stat. 915, provided that: "The Chairman of the Joint Chiefs of Staff shall ensure that the requirements of section 2377(d) of title 10, United States Code \[now 10 U.S.C. 3453(e)\], as added by subsection (a), are incorporated into the requirements management certification training mandate of the Joint Capabilities Integration Development System."
+
+#### Market Research and Preference for Commercial Items
+
+Pub. L. 114–92, div. A, title VIII, §855, Nov. 25, 2015, 129 Stat. 919, as amended by Pub. L. 116–92, div. A, title IX, §902(60), Dec. 20, 2019, 133 Stat. 1550, provided that:
+
+"(a)
+
+Guidance Required.—Not later than 90 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Under Secretary of Defense for Acquisition and Sustainment shall issue guidance to ensure that acquisition officials of the Department of Defense fully comply with the requirements of section 2377 of title 10, United States Code \[now 10 U.S.C. 3453\], regarding market research and commercial items. The guidance issued pursuant to this subsection shall, at a minimum—
+
+&emsp;"(1) provide that the head of an agency may not enter into a contract in excess of the simplified acquisition threshold for information technology products or services that are not commercial items unless the head of the agency determines in writing that no commercial items are suitable to meet the agency's needs as provided in subsection (c)(2) of such section; and
+
+&emsp;"(2) ensure that market research conducted in accordance with subsection (c) of such section is used, where appropriate, to inform price reasonableness determinations.
+
+"(b)
+
+Review Required.—Not later than 180 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Chairman and the Vice Chairman of the Joint Chiefs of Staff, in consultation with the Under Secretary of Defense for Acquisition and Sustainment, shall review Chairman of the Joint Chiefs of Staff Instruction 3170.01, the Manual for the Operation of the Joint Capabilities Integration and Development System, and other documents governing the requirements development process and revise these documents as necessary to ensure that the Department of Defense fully complies with the requirement in section 2377(c) of title 10, United States Code \[now 10 U.S.C. 3453(c)\], and section 10.001 of the Federal Acquisition Regulation for Federal agencies to conduct appropriate market research before developing new requirements.
+
+"(c)
+
+Market Research Defined.—For the purposes of this section, the term 'market research' means a review of existing systems, subsystems, capabilities, and technologies that are available or could be made available to meet the needs of the Department of Defense in whole or in part. The review may include any of the techniques for conducting market research provided in section 10.002(b)(2) of the Federal Acquisition Regulation and shall include, at a minimum, contacting knowledgeable individuals in Government and industry regarding existing market capabilities."
+
+#### Commercial Software Reuse Preference
+
+Pub. L. 110–417, \[div. A\], title VIII, §803, Oct. 14, 2008, 122 Stat. 4519, provided that:
+
+"(a)
+
+In General.—The Secretary of Defense shall ensure that contracting officials identify and evaluate, at all stages of the acquisition process (including concept refinement, concept decision, and technology development), opportunities for the use of commercial computer software and other non-developmental software.
+
+"(b)
+
+Report.—Not later than 270 days after the date of enactment of this Act \[Oct. 14, 2008\], the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on actions taken to implement subsection (a), including a description of any relevant regulations and policy guidance."
+
+#### Requirement To Develop Training and Tools
+
+Pub. L. 110–181, div. A, title VIII, §826(b), Jan. 28, 2008, 122 Stat. 228, provided that: "The Secretary of Defense shall develop training to assist contracting officers, and market research tools to assist such officers and prime contractors, in performing appropriate market research as required by subsection (c) of section 2377 of title 10, United States Code \[now 10 U.S.C. 3453(c)\], as amended by this section."
 

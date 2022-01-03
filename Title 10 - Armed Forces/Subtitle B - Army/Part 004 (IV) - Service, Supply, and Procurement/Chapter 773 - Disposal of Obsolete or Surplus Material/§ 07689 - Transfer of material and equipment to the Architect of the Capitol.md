@@ -4,11 +4,15 @@ The Secretary of the Army is authorized to transfer, without payment, to the Arc
 
 (Added Pub. L. 107–217, §2(1), Aug. 21, 2002, 116 Stat. 1294, §4689; amended Pub. L. 108–375, div. A, title X, §1084(d)(29), Oct. 28, 2004, 118 Stat. 2063; renumbered §7689, Pub. L. 115–232, div. A, title VIII, §808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4689 of this title as this section.
 
 <b>2004</b>—Pub. L. 108–375 struck out "Building" after "Capitol power plant, the Capitol".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

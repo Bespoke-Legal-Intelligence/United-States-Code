@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1)(A) Subject to subparagraph (B), the Secretary shall enter into an agreement under this section with any individual who, by reason of a breach of a contract entered into by such individual pursuant to the National Health Service Corps Scholarship Program, the Physician Shortage Area Scholarship Program, or the Health Education Assistance Loan Program, owes a past-due obligation to the United States (as defined in subsection (b)).
+(1)(A) Subject to subparagraph (B), the Secretary shall enter into an agreement under thissection with any individual who, by reason of a breach of a contract entered into by such individual pursuant to the National Health Service Corps Scholarship Program, the Physician Shortage Area Scholarship Program, or the Health Education Assistance Loan Program, owes a past-due obligation to the United States (as defined in subsection (b)).
 
 (B) The Secretary shall not enter into an agreement with an individual under this section to the extent—
 
@@ -54,7 +54,7 @@ This section shall not preclude the United States from applying other provisions
 
 (3) Such deduction shall not be made until 6 months after the Secretary notifies the provider, organization, or plan of the amount to be deducted and the particular physicians <sup>3</sup> to whom the deductions are attributable.
 
-(4) A deduction made under this subsection shall relieve the individual of the obligation (to the extent of the amount collected) to the United States, but the provider, organization, or plan shall have a right of action to collect from such individual the amount deducted pursuant to this subsection (including accumulated interest).
+(4) A deduction made under this subsection shall relieve the individual of the obligation (to the extent of the amount collected) to theUnited States, but the provider, organization, or plan shall have a right of action to collect from such individual the amount deducted pursuant to this subsection (including accumulated interest).
 
 (5) No deduction shall be made under this subsection if, within the 6-month period after notice is given to the provider, organization, or plan, the individual pays the past-due obligation, or ceases to be employed by the provider, organization, or plan.
 
@@ -65,6 +65,8 @@ This section shall not preclude the United States from applying other provisions
 Amounts equal to the amounts deducted pursuant to this section shall be transferred from the Trust Fund from which the payment to the individual, provider, or other entity would otherwise have been made, to the general fund in the Treasury, and shall be credited as payment of the past-due obligation of the individual from whom (or with respect to whom) the deduction was made.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1892, as added Pub. L. 100–203, title IV, §4052(a), Dec. 22, 1987, 101 Stat. 1330–95; amended Pub. L. 100–360, title IV, §411(f)(10)(A), (C)(i), July 1, 1988, 102 Stat. 780; Pub. L. 100–485, title VI, §608(d)(21)(E)–(H), Oct. 13, 1988, 102 Stat. 2420.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -115,6 +117,8 @@ Pub. L. 100–360, §411(f)(10)(C)(i)(II), as amended by Pub. L. 100–485, §60
 Subsec. (d)(4) to (6). Pub. L. 100–360, §411(f)(10)(C)(i)(II), as amended by Pub. L. 100–485, §608(d)(21)(G), substituted "individual" for "physician" wherever appearing.
 
 Subsec. (e). Pub. L. 100–360, §411(f)(10)(C)(i)(II), as amended by Pub. L. 100–485, §608(d)(21)(G), substituted "individual" for "physician" in two places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

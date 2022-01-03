@@ -13,6 +13,8 @@
 | [858a.](%C2%A7%2000858a%20-%20Art.%2058a.%20Sentences%20reduction%20in%20enlisted%20grade.md) | 58a. | Sentences: reduction in enlisted grade. |
 | [858b.](%C2%A7%2000858b%20-%20Art.%2058b.%20Sentences%20forfeiture%20of%20pay%20and%20allowances%20during%20confinement.md) | 58b. | Sentences: forfeiture of pay and allowances during confinement. |
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, made technical amendment to Pub. L. 114–328, §5541(5). See 2016 Amendment note below.

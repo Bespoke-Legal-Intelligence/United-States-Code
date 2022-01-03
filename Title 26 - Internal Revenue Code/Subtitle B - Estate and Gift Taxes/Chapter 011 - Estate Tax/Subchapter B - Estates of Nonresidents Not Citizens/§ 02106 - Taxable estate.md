@@ -18,7 +18,7 @@ For purposes of the tax imposed by section 2101, the value of the taxable estate
 
 &emsp;&emsp;&emsp;(ii) to or for the use of any domestic corporation organized and operated exclusively for religious, charitable, scientific, literary, or educational purposes, including the encouragement of art and the prevention of cruelty to children or animals, no part of the net earnings of which inures to the benefit of any private stockholder or individual, which is not disqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation, and which does not participate in, or intervene in (including the publishing or distributing of statements), any political campaign on behalf of (or in opposition to) any candidate for public office; or
 
-&emsp;&emsp;&emsp;(iii) to a trustee or trustees, or a fraternal society, order, or association operating under the lodge system, but only if such contributions or gifts are to be used within the United States by such trustee or trustees, or by such fraternal society, order, or association, exclusively for religious, charitable, scientific, literary, or educational purposes, or for the prevention of cruelty to children or animals, such trust, fraternal society, order, or association would not be disqualified for tax exemption under section 501(c)(3) by reasonof attempting to influence legislation, and such trustee or trustees, or such fraternal society, order, or association, does not participate in, or intervene in (including the publishing or distributing of statements), any political campaign on behalf of (or in opposition to) any candidate for public office;
+&emsp;&emsp;&emsp;(iii) to a trustee or trustees, or a fraternal society, order, or association operating under the lodge system, but only if such contributions or gifts are to be used within the United States by such trustee or trustees, or by such fraternal society, order, or association, exclusively for religious, charitable, scientific, literary, or educational purposes, or for the prevention of cruelty to children or animals, such trust, fraternal society, order, or association would not be disqualified for tax exemption under section 501(c)(3) by reason of attempting to influence legislation, and such trustee or trustees, or such fraternal society, order, or association, does not participate in, or intervene in (including the publishing or distributing of statements), any political campaign on behalf of (or in opposition to) any candidate for public office;
 
 #### (B) Powers of appointment
 
@@ -30,7 +30,7 @@ For purposes of the tax imposed by section 2101, the value of the taxable estate
 
 #### (D) Limitation on deduction
 
-&emsp;&emsp;The amount of the deduction under this paragraph for any transfer shall not exceed the value of the transferred property required to be included in the gross estate.
+&emsp;&emsp;The amount of the deduction under this paragraph for any transfer shall not exceedthe value of the transferred property required to be included in the gross estate.
 
 #### (E) Disallowance of deductions in certain cases
 
@@ -57,6 +57,8 @@ For purposes of the tax imposed by section 2101, the value of the taxable estate
 No deduction shall be allowed under paragraphs (1) and (2) of subsection (a) in the case of a nonresident not a citizen of the United States unless the executor includes in the return required to be filed under section 6018 the value at the time of his death of that part of the gross estate of such nonresident not situated in the United States.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 398; Pub. L. 85–866, title I, §30(d), Sept. 2, 1958, 72 Stat. 1631; Pub. L. 86–779, §4(c), Sept. 14, 1960, 74 Stat. 1000; Pub. L. 89–809, title I, §108(e), Nov. 13, 1966, 80 Stat. 1572; Pub. L. 91–172, title II, §201(d)(2), (4)(B), Dec. 30, 1969, 83 Stat. 561; Pub. L. 94–455, title XIII, §1307(d)(1)(B)(iii), (C), title XIX, §1902(a)(5), (12)(A), title XX, § 2001(c)(1)(F), Oct. 4, 1976, 90 Stat. 1727, 1805, 1852; Pub. L. 97–473, title II, §202(b)(6), Jan. 14, 1983, 96 Stat. 2610; Pub. L. 99–514, title XIV, §1422(c), Oct. 22, 1986, 100 Stat. 2717; Pub. L. 100–203, title X, §10711(a)(4), Dec. 22, 1987, 101 Stat. 1330–464; Pub. L. 100–647, title V, §5033(c), Nov. 10, 1988, 102 Stat. 3672; Pub. L. 101–239, title VII, §7815(d)(3), Dec. 19, 1989, 103 Stat. 2415; Pub. L. 107–16, title V, §532(c)(8), June 7, 2001, 115 Stat. 75; Pub. L. 113–295, div. A, title II, §221(a)(95)(A)(ii), Dec. 19, 2014, 128 Stat. 4051; Pub. L. 115–141, div. U, title IV, §401(a)(203), Mar. 23, 2018, 132 Stat. 1194.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -98,13 +100,15 @@ Subsec. (a)(2)(E). Pub. L. 91–172, §201(d)(2), substituted substantive provis
 
 <b>1958</b>—Subsec. (a)(2)(E). Pub. L. 85–866 substituted "503" for "504".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2014 Amendment
 
 Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 
 #### Effective Date of 2001 Amendment
 
-Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under section 2012 of this title.
+Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers,after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under section 2012 of this title.
 
 #### Effective Date of 1989 Amendment
 

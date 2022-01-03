@@ -26,7 +26,7 @@ For purposes of this section—
 
 #### (1) Indian tribal government
 
-&emsp;For purposes of this section, the term "Indian tribal government" includes any agencies or instrumentalities of an Indian tribal government and any Alaska Native regional or village corporation, as defined in, or established pursuant to, the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.).
+&emsp;For purposes of this section, the term "Indian tribal government" includes any agenciesor instrumentalities of an Indian tribal government and any Alaska Native regional or village corporation, as defined in, or established pursuant to, the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.).
 
 #### (2) Dependent
 
@@ -46,9 +46,11 @@ For purposes of this section—
 
 (Added Pub. L. 113–168, §2(a), Sept. 26, 2014, 128 Stat. 1883; amended Pub. L. 115–141, div. U, title IV, §401(a)(42), (43), Mar. 23, 2018, 132 Stat. 1186.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Alaska Native Claims Settlement Act, referred to in subsec. (c)(1), is Pub. L. 92–203, Dec. 18, 1971, 85Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (c)(1), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 Section 3(a) of the Tribal General Welfare Exclusion Act of 2014, referred to in subsec. (c)(3), is section 3(a) of Pub. L. 113–168, which is set out as a note under this section.
 
@@ -57,6 +59,8 @@ Section 3(a) of the Tribal General Welfare Exclusion Act of 2014, referred to in
 <b>2018</b>—Subsec. (c)(1). Pub. L. 115–141, §401(a)(42), substituted "(43 U.S.C. 1601 et seq.)" for "(43 U.S.C. 1601, et seq.)".
 
 Subsec. (c)(3). Pub. L. 115–141, §401(a)(43), substituted "Act of 2014" for "Act of 2013".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

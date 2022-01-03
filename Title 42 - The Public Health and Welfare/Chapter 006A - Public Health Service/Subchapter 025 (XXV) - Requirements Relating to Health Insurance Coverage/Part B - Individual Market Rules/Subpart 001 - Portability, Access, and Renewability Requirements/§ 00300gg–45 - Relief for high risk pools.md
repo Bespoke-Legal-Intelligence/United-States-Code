@@ -134,9 +134,13 @@ In this section:
 
 (July 1, 1944, ch. 373, title XXVII, §2745, as added Pub. L. 107–210, div. A, title II, §201(b), Aug. 6, 2002, 116 Stat. 959; amended Pub. L. 109–172, §2, Feb. 10, 2006, 120 Stat. 185.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–172 amended section generally, substituting provisions relating to relief for high risk pools for provisions relating to promotion of qualified high risk pools.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Construction
 

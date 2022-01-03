@@ -19,6 +19,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1993</b>—Pub. L. 103–160, div. A, title V, §504(b), Nov. 30, 1993, 107 Stat. 1645, added item 580a.

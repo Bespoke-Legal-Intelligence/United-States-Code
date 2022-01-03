@@ -30,7 +30,7 @@ The Milwaukee Railroad Restructuring Act, referred to in subsecs. (a)(2) and (c)
 
 Section 1008 of this title, referred to in subsec. (b), was repealed by Pub. L. 97–468, title II, §234(a), Jan. 14, 1983, 96 Stat. 2547.
 
-The United States Court of Claims, referred to in subsec. (c), and the United States Court of Customs and Patent Appeals were merged effective Oct. 1, 1982, into a new United States Court of Appeals for the Federal Circuit by Pub. L. 97–164, Apr. 2, 1982, 96 Stat. 25, which also created a United States Claims Court \[now United States Court of Federal Claims\] that inherited the trial jurisdiction of the Court of Claims. See sections 48, 171 et seq., 791 et seq., and 1491 et seq. of Title 28, Judiciary and Judicial Procedure.
+The United States Court of Claims, referred to in subsec. (c), and the United States Court of Customs andPatent Appeals were merged effective Oct. 1, 1982, into a new United States Court of Appeals for the Federal Circuit by Pub. L. 97–164, Apr. 2, 1982, 96 Stat. 25, which also created a United States Claims Court \[now United States Court of Federal Claims\] that inherited the trial jurisdiction of the Court of Claims. See sections 48, 171 et seq., 791 et seq., and 1491 et seq. of Title 28, Judiciary and Judicial Procedure.
 
 #### Amendments
 

@@ -86,7 +86,7 @@ As used in this section:
 
 &emsp;The Secretary may issue a temporary renewal certificate, for a period of not to exceed 45 days, to a facility seeking reaccreditation if the accreditation body has issued an accreditation extension, for a period of not to exceed 45 days, for any of the following:
 
-&emsp;&emsp;(A) The facility has submitted the required materials to the accreditation body within the established time frames for the submission of such materials but the accreditation body is unable to complete the reaccreditation process before the certification expires.
+&emsp;&emsp;(A) The facility has submitted the required materials to the accreditation body withinthe established time frames for the submission of such materials but the accreditation body is unable to complete the reaccreditation process before the certification expires.
 
 &emsp;&emsp;(B) The facility has acquired additional or replacement equipment, or has had significant personnel changes or other unforeseen situations that have caused the facility to be unable to meet reaccreditation timeframes, but in the opinion of the accreditation body have not compromised the quality of mammography.
 
@@ -308,7 +308,7 @@ As used in this section:
 
 &emsp;&emsp;(A) specify organizations eligible to certify individuals to perform radiological procedures as required by paragraph (1)(C);
 
-&emsp;&emsp;(B) specify boards eligible to certify physicians to interpret radiological procedures,including mammography, as required by paragraph (1)(D);
+&emsp;&emsp;(B) specify boards eligible to certify physicians to interpret radiological procedures, including mammography, as required by paragraph (1)(D);
 
 &emsp;&emsp;(C) establish standards for a program to certify physicians described in paragraph (1)(D); and
 
@@ -330,7 +330,7 @@ As used in this section:
 
 &emsp;&emsp;In conducting inspections, the Secretary or State or local agency acting on behalf of the Secretary—
 
-&emsp;&emsp;&emsp;(i) shall have access to all equipment, materials, records, and information that the Secretary or State or local agency considers necessary to determine whether the facility is being operated in accordance with this section; and
+&emsp;&emsp;&emsp;(i) shall have access to all equipment, materials, records, and information thatthe Secretary or State or local agency considers necessary to determine whether the facility is being operated in accordance with this section; and
 
 &emsp;&emsp;&emsp;(ii) may copy, or require the facility to submit to the Secretary or the State or local agency, any of the materials, records, or information.
 
@@ -378,7 +378,7 @@ As used in this section:
 
 &emsp;&emsp;&emsp;(iii) The number of facilities selected for inclusion in the program shall be sufficient to provide a statistically significant sample, subject to compliance with clause (ii).
 
-&emsp;&emsp;&emsp;(iv) Facilities that are selected for inclusion in the program shall be inspected atsuch intervals as the Secretary determines will reasonably ensure that the facilities are maintaining compliance with such standards.
+&emsp;&emsp;&emsp;(iv) Facilities that are selected for inclusion in the program shall be inspected at such intervals as the Secretary determines will reasonably ensure that the facilities are maintaining compliance with such standards.
 
 #### (h) Sanctions
 
@@ -450,7 +450,7 @@ As used in this section:
 
 If the Secretary determines that—
 
-&emsp;(1) continuation of any activity related to the provision of mammography by a facilitywould constitute a serious risk to human health, the Secretary may bring suit in the district court of the United States for the district in which the facility is situated to enjoin continuation of the activity; and
+&emsp;(1) continuation of any activity related to the provision of mammography by a facility would constitute a serious risk to human health, the Secretary may bring suit in the district court of the United States for the district in which the facility is situated to enjoin continuation of the activity; and
 
 &emsp;(2) a facility is operating without a certificate as required by subsection (b), the Secretary may bring suit in the district court of the United States for the district in which the facility is situated to enjoin the operation of the facility.
 
@@ -460,7 +460,7 @@ If the Secretary determines that—
 
 #### (1) Petition
 
-&emsp;If the Secretary imposes a sanction on a facility under subsection (h) or suspends or revokes the certificate of a facility under subsection (i), the owner or operator of the facility may, not later than 60 days after the date the action of the Secretary becomes final, file a petition with the United States court of appeals for the circuit in which the facility is situated for judicial review of the action. As soon as practicable after receipt of the petition, the clerk of the court shall transmit a copy of the petition to the Secretary or other officer designated by the Secretary. As soon as practicable after receipt of the copy, the Secretary shall file in the court the record on which the action of the Secretary is based, as provided in section 2112 of title 28.
+&emsp;If the Secretary imposes a sanction on a facility under subsection (h) or suspends or revokes the certificate of a facility under subsection (i), the owner or operator of the facility may, not later than 60 days after the date the action of the Secretary becomes final, file a petition with the United States court of appeals for the circuit in which the facility is situated for judicial review of the action. As soon as practicable after receipt of the petition, the clerk of the court shall transmit a copy of the petition to the Secretary or other officer designated by the Secretary. As soon aspracticable after receipt of the copy, the Secretary shall file in the court the record on which the action of the Secretary is based, as provided in section 2112 of title 28.
 
 #### (2) Additional evidence
 
@@ -514,7 +514,7 @@ Nothing in this section shall be construed to limit the authority of any State t
 
 #### (2) Composition
 
-&emsp;The Advisory Committee shall be composed of not fewer than 13, nor more than 19 individuals, who are not officers or employees of the Federal Government. The Secretary shallmake appointments to the Advisory Committee from among—
+&emsp;The Advisory Committee shall be composed of not fewer than 13, nor more than 19 individuals, who are not officers or employees of the Federal Government. The Secretary shall make appointments to the Advisory Committee from among—
 
 &emsp;&emsp;(A) physicians,
 
@@ -678,9 +678,11 @@ In carrying out this section, the Secretary shall consult with appropriate Feder
 
 (July 1, 1944, ch. 373, title III, §354, as added Pub. L. 102–539, §2, Oct. 27, 1992, 106 Stat. 3547; amended Pub. L. 105–248, §§2–13, Oct. 9, 1998, 112 Stat. 1864–1867; Pub. L. 108–365, §§2–4, Oct. 25, 2004, 118 Stat. 1738–1740.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
-A prior section 263b, act July 1, 1944, ch. 373, title III, §354, as added Oct. 18, 1968, Pub. L. 90–602, §2(3), 82 Stat.1173; amended Nov. 28, 1990, Pub. L. 101–629, §19(a)(1)(B), 104 Stat. 4529; Aug. 13, 1993, Pub. L. 103–80, §4(a)(2), 107 Stat. 779, set forth Congressional declaration of purpose, prior to repeal by Pub. L. 101–629, §19(a)(3), Nov. 28, 1990, 104 Stat. 4530.
+A prior section 263b, act July 1, 1944, ch. 373, title III, §354, as added Oct. 18, 1968, Pub. L. 90–602, §2(3), 82 Stat. 1173; amended Nov. 28, 1990, Pub. L. 101–629, §19(a)(1)(B), 104 Stat. 4529; Aug. 13, 1993, Pub. L. 103–80, §4(a)(2), 107 Stat. 779, set forth Congressional declaration of purpose, prior to repeal by Pub. L. 101–629, §19(a)(3), Nov. 28, 1990, 104 Stat. 4530.
 
 Sections 263c to 263n, act July 1, 1944, ch. 373, title III, §§355–360F, as added Oct. 18, 1968, Pub. L. 90–602, §2(3), 82 Stat. 1174, and amended, which related to electronic product radiation control, were renumbered sections 531 to 542, respectively, of the Federal Food, Drug, and Cosmetic Act by Pub. L. 101–629, §19(a)(4), Nov. 28, 1990, 104 Stat. 4530, and are classified to sections 360hh to 360ss, respectively, of Title 21, Food and Drugs.
 
@@ -754,6 +756,8 @@ Subsec. (r)(2)(A). Pub. L. 105–248, §2, substituted "subsection (p)" for "sub
 
 Subsec. (r)(2)(B). Pub. L. 105–248, §2, substituted "fiscal years" for "fiscal year" and "2002" for "1997".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
@@ -764,7 +768,7 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
-Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time asmay be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 
 #### Regulations
 

@@ -10,9 +10,11 @@ Eligible Recipients.—In carrying out activities authorized by subsection (a), 
 
 (c)
 
-Consultation With Other Agencies.—In carrying out activities authorized by subsection\(a), the Secretary shall consult with such other governmental agencies as may be necessary concerning the availability of appropriate technologies for commercial application in high-speed rail service in the United States.
+Consultation With Other Agencies.—In carrying out activities authorized by subsection (a), the Secretary shall consult with such other governmental agencies as may be necessary concerning the availability of appropriate technologies for commercial application in high-speed rail service in the United States.
 
 (Added Pub. L. 103–440, title I, §103(a)(2), Nov. 2, 1994, 108 Stat. 4617.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

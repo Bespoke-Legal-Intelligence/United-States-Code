@@ -66,7 +66,7 @@ The Commission shall have oversight and enforcement authority over the Board, as
 
 #### (2) Censure of the Board; limitations
 
-&emsp;The Commission may, by order, as it determines necessary or appropriate in the public interest, for the protection of investors, orotherwise in furtherance of the purposes of this Act or the securities laws, censure or impose limitations upon the activities, functions, and operations of the Board, if the Commission finds, on the record, after notice and opportunity for a hearing, that the Board—
+&emsp;The Commission may, by order, as it determines necessary or appropriate in the public interest, for the protection of investors, or otherwise in furtherance of the purposes of this Act or the securities laws, censure or impose limitations upon the activities, functions, and operations of the Board, if the Commission finds, on the record, after notice and opportunity for a hearing, that the Board—
 
 &emsp;&emsp;(A) has violated or is unable to comply with any provision of this Act, the rules of the Board, or the securities laws; or
 
@@ -84,17 +84,21 @@ The Commission shall have oversight and enforcement authority over the Board, as
 
 (Pub. L. 107–204, title I, §107, July 30, 2002, 116 Stat. 765; Pub. L. 111–203, title IX, §929F(i), July 21, 2010, 124 Stat. 1855.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act and the Sarbanes-Oxley Act of 2002, referred to in text, are Pub. L. 107–204, July 30, 2002, 116 Stat. 745. Title I of the Act is classified generally to this subchapter. For complete classification of this Act to the Code, see Tables.
 
 #### Constitutionality
 
-For information regarding constitutionality of certain provisions of section 107 of Pub. L. 107–204, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For information regarding constitutionality of certain provisions of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
 
 #### Amendments
 
 <b>2010</b>—Subsec. (d)(3). Pub. L. 111–203 substituted "any person who is, or at the time of the alleged misconduct was, a member" for "any member" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

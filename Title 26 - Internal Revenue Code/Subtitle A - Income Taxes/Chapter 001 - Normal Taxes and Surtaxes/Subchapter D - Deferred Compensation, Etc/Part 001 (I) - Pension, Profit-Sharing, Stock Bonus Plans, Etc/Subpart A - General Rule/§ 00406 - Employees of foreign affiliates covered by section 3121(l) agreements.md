@@ -50,7 +50,9 @@ An individual who is treated as an employee of an American employer under subsec
 
 &emsp;(2) Section 2039 (relating to annuities).
 
-(Added Pub. L. 88–272, title II, §220(a), Feb. 26, 1964, 78 Stat. 58; amended Pub. L. 91–172, title V,§515(c)(2), Dec. 30, 1969, 83 Stat. 645; Pub. L. 93–406, title II, §§1016(a)(4), 2005(c)(12), Sept. 2, 1974, 88 Stat. 929, 992; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–21, title III, §321(c), (e)(2)(A)–(D)(i), Apr. 20, 1983, 97 Stat. 119, 120; Pub. L. 98–369, div. A, title IV, §491(d)(13)–(15), July 18, 1984, 98 Stat. 849; Pub. L. 99–514, title XI, §§1112(d)(3), 1114(b)(9)(A), (C), title XVIII, §1852(e)(2)(C), Oct. 22, 1986, 100 Stat. 2445, 2451, 2868; Pub. L. 100–647, title I, §1011A(b)(1)(C), (16), Nov. 10, 1988, 102 Stat. 3472, 3475; Pub. L. 101–239, title VII, §§7811(g)(3), 7831(f), title X, §10201(b)(1), (2), Dec. 19, 1989, 103 Stat. 2409, 2427, 2472; Pub. L. 102–318, title V, §521(b)(14), July 3, 1992, 106 Stat. 311; Pub. L. 104–188, title I, §§1401(b)(7), 1402(b)(2), Aug. 20, 1996, 110 Stat. 1789, 1790.)
+(Added Pub. L. 88–272, title II, §220(a), Feb. 26, 1964, 78 Stat. 58; amended Pub. L. 91–172, title V, §515(c)(2), Dec. 30, 1969, 83 Stat. 645; Pub. L. 93–406, title II, §§1016(a)(4), 2005(c)(12), Sept. 2, 1974, 88 Stat. 929, 992; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–21, title III, §321(c), (e)(2)(A)–(D)(i), Apr. 20, 1983, 97 Stat. 119, 120; Pub. L. 98–369, div. A, title IV, §491(d)(13)–(15), July 18, 1984, 98 Stat. 849; Pub. L. 99–514, title XI, §§1112(d)(3), 1114(b)(9)(A), (C), title XVIII, §1852(e)(2)(C), Oct. 22, 1986, 100 Stat. 2445, 2451, 2868; Pub. L. 100–647, title I, §1011A(b)(1)(C), (16), Nov. 10, 1988, 102 Stat. 3472, 3475; Pub. L. 101–239, title VII, §§7811(g)(3), 7831(f), title X, §10201(b)(1), (2), Dec. 19, 1989, 103 Stat. 2409, 2427, 2472; Pub. L. 102–318, title V, §521(b)(14), July 3, 1992, 106 Stat. 311; Pub. L. 104–188, title I, §§1401(b)(7), 1402(b)(2), Aug. 20, 1996, 110 Stat. 1789, 1790.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -110,6 +112,8 @@ Subsec. (c). Pub. L. 93–406, §2005(c)(12), substituted "subsections (a)(2) an
 
 <b>1969</b>—Subsec. (c). Pub. L. 91–172 substituted "provisions and limitation of tax" for "provisions" in heading, and substituted "section 72(n), section 402(a)(2)," for "section 402(a)(2)" in text.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1996 Amendment
 
 Amendment by section 1401(b)(7) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1999, with retention of certain transition rules, see section 1401(c) of Pub. L. 104–188, set out as a note under section 402 of this title.
@@ -124,7 +128,7 @@ Amendment by Pub. L. 102–318 applicable to distributions after Dec. 31, 1992, 
 
 Amendment by section 7811(g)(3) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
-Amendment by section 7831(f) of Pub. L. 101–239 effective as if included in the provision of the Tax ReformAct of 1986, Pub. L. 99–514, to which such amendment relates, see section 7831(g) of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by section 7831(f) of Pub. L. 101–239 effective as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7831(g) of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 Pub. L. 101–239, title X, §10201(c), Dec. 19, 1989, 103 Stat. 2472, provided that: "The amendments made by this section \[amending this section, section 3121 of this title, and section 410 of Title 42, The Public Health and Welfare\] shall apply with respect to any agreement in effect under section 3121(l) of the Internal Revenue Code of 1986 on or after June 15, 1989, with respect to which no notice of termination is in effect on such date."
 
@@ -168,7 +172,7 @@ Amendment by Pub. L. 91–172 applicable to taxable years ending after Dec. 31, 
 
 #### Effective Date
 
-Pub. L. 88–272, title II, §220(d), Feb. 26, 1964, 78 Stat. 63, provided that: "The amendments made by subsections (a) \[enacting this section\], (b) \[enacting section 407 of this title\], and (c)(1) \[amending the analysis preceding section 401 of this title\] shall apply to taxable years ending after December 31, 1963. The amendments made by subsections (c)(2) \[amending section 3121 of this title\] and (3) \[amending section 409 of Title 42, The Public Health and Welfare\] shall apply to remuneration paid after December 31, 1962."
+Pub. L. 88–272, title II, §220(d), Feb. 26, 1964, 78 Stat. 63, provided that: "The amendments made by subsections (a) \[enacting this section\], (b) \[enacting section 407 of this title\], and (c)(1) \[amending the analysis preceding section 401 of this title\] shall apply to taxable years ending after December 31, 1963. The amendments made by subsections (c)(2) \[amending section3121 of this title\] and (3) \[amending section 409 of Title 42, The Public Health and Welfare\] shall apply to remuneration paid after December 31, 1962."
 
 #### Regulations
 

@@ -28,7 +28,7 @@ In this section:
 
 #### (3) Tribal educational agency
 
-&emsp;The term "tribal educational agency" means the agency, department, or instrumentality of an Indian tribe that is primarily responsiblefor supporting tribal students' elementary and secondary education.
+&emsp;The term "tribal educational agency" means the agency, department, or instrumentality of an Indian tribe that is primarily responsible for supporting tribal students' elementary and secondary education.
 
 #### (c) Grant program
 
@@ -54,7 +54,7 @@ The Secretary may award grants to—
 
 #### (1) In general
 
-&emsp;Each eligible applicant desiring a grant under this section shall submit an application to the Secretary at such time and in such manner as the Secretary may reasonably prescribe.
+&emsp;Each eligible applicant desiring a grant under this section shall submit an application to the Secretary at such time and in suchmanner as the Secretary may reasonably prescribe.
 
 #### (2) Contents
 
@@ -96,6 +96,8 @@ Funds under this section shall be used to supplement, and not supplant, other Fe
 
 (Pub. L. 89–10, title VI, §6132, formerly title VII, §7135, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1928; renumbered title VI, §6135, renumbered §6132, and amended Pub. L. 114–95, title VI, §§6001(a), (b)(1), 6002(n)(2), (p), Dec. 10, 2015, 129 Stat. 2046, 2057, 2060.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was classified to section 7455 of this title prior to renumbering by Pub. L. 114–95.
@@ -111,6 +113,8 @@ A prior section 6132 of Pub. L. 89–10 was classified to section 7311a of this 
 #### Amendments
 
 <b>2015</b>—Pub. L. 114–95, §6001(p), amended section generally. Prior to amendment, section related to grants to Indian tribes for education administrative planning and development.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

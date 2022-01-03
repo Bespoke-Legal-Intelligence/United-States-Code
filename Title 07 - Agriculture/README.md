@@ -136,6 +136,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 Disposition Table<br>(Showing disposition of sections of former chapter 17 of Title 7)
 
 <i>Former Classification</i>

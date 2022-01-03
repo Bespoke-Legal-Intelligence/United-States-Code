@@ -60,6 +60,8 @@ Grants awarded under this section shall be used for one or more of the following
 
 (Pub. L. 89–329, title V, §503, as added Pub. L. 105–244, title V, §501, Oct. 7, 1998, 112 Stat. 1768; amended Pub. L. 110–315, title V, §501, Aug. 14, 2008, 122 Stat. 3331.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 503 of Pub. L. 89–329 was classified to section 1102b of this title prior to the general amendment of this subchapter by Pub. L. 105–244.
@@ -70,5 +72,5 @@ Another prior section 503 of Pub. L. 89–329 was classified to section 1091b of
 
 <b>2008</b>—Subsec. (b)(5). Pub. L. 110–315, §501(2), inserted ", including innovative and customized instruction courses (which may include remedial education and English language instruction) designed to help retain students and move the students rapidly into core courses and through program completion" before period at end.
 
-Subsec. (b)(6) to (16). Pub. L. 110–315, §501(1), (3)–(5), added pars. (6) and (15), redesignated former pars. (6),\(7), (8), (9), (10), (11), (12), (13), and (14) as pars. (7), (8), (9), (10), (11), (12), (13), (14), and (16), respectively, and in par. (11), substituted "distance education technologies" for "distance learning academic instruction capabilities".
+Subsec. (b)(6) to (16). Pub. L. 110–315, §501(1), (3)–(5), added pars. (6) and (15), redesignated former pars. (6), (7), (8), (9), (10), (11), (12), (13), and (14) as pars. (7), (8), (9), (10), (11), (12), (13), (14), and (16), respectively, and in par. (11), substituted "distance education technologies" for "distance learning academic instruction capabilities".
 

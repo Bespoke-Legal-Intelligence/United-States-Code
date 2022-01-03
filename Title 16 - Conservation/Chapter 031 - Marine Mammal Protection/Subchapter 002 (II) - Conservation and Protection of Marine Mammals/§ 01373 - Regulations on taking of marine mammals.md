@@ -2,7 +2,7 @@
 
 #### (a) Necessity and appropriateness
 
-The Secretary, on the basis of the best scientific evidence available and in consultation with the Marine Mammal Commission, shall prescribe such regulations with respect to the taking and importing of animals from each species of marine mammal (including regulations on the taking and importing of individuals within population stocks) as he deems necessary and appropriate to insure that such taking will not be to the disadvantage of those species and population stocks and will be consistent with the purposes and policies set forth in section 1361 of this title.
+The Secretary, on the basis of the best scientific evidence available and in consultationwith the Marine Mammal Commission, shall prescribe such regulations with respect to the taking and importing of animals from each species of marine mammal (including regulations on the taking and importing of individuals within population stocks) as he deems necessary and appropriate to insure that such taking will not be to the disadvantage of those species and population stocks and will be consistent with the purposes and policies set forth in section 1361 of this title.
 
 #### (b) Factors considered in prescribing regulations
 
@@ -54,9 +54,13 @@ Within six months after the effective date of this chapter and every twelve mont
 
 (Pub. L. 92–522, title I, §103, Oct. 21, 1972, 86 Stat. 1033.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The effective date of this chapter, referred to in subsec. (f), means the effective date of Pub. L. 92–522, See section 4 of Pub. L. 92–522, set out as an Effective Date note under section 1361 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

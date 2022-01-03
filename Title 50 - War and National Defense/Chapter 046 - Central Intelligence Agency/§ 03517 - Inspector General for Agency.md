@@ -42,7 +42,7 @@ It shall be the duty and responsibility of the Inspector General appointed under
 
 #### (d) Semiannual reports; immediate reports of serious or flagrant problems; reports of functional problems; reports to Congress on urgent concerns
 
-(1) The Inspector General shall, not later than October 31 and April 30 of each year, prepare and submit to the Director a classified semiannual report summarizing the activities of the Officeduring the immediately preceding six-month periods ending September 30 and March 31, respectively. Not later than 30 days after the date of the receipt of such reports, the Director shall transmit such reports to the intelligence committees with any comments he may deem appropriate. Such reports shall, at a minimum, include a list of the title or subject of each inspection, investigation, review, or audit conducted during the reporting period and—
+(1) The Inspector General shall, not later than October 31 and April 30 of each year, prepare and submit to the Director a classified semiannual report summarizing the activities of the Office during the immediately preceding six-month periods ending September 30 and March 31, respectively. Not later than 30 days after the date of the receipt of such reports, the Director shall transmit such reports to the intelligence committees with any comments he may deem appropriate. Such reports shall, at a minimum, include a list of the title or subject of each inspection, investigation, review, or audit conducted during the reporting period and—
 
 &emsp;(A) a description of significant problems, abuses, and deficiencies relating to the administration of programs and operations of the Agency identified by the Office during the reporting period;
 
@@ -56,7 +56,7 @@ It shall be the duty and responsibility of the Inspector General appointed under
 
 &emsp;(F) such recommendations as the Inspector General may wish to make concerning legislation to promote economy and efficiency in the administration of programs and operations undertaken by the Agency, and to detect and eliminate fraud and abuse in such programs and operations.
 
-(2) The Inspector General shall report immediately to the Director whenever he becomes aware of particularly serious or flagrant problems, abuses, or deficiencies relating to the administration of programs or operations. The Director shall transmit such report to the intelligence committees within seven calendar days, together with any comments he considers appropriate.
+(2) The Inspector General shall report immediately to the Director whenever he becomesaware of particularly serious or flagrant problems, abuses, or deficiencies relating to the administration of programs or operations. The Director shall transmit such report to the intelligence committees within seven calendar days, together with any comments he considers appropriate.
 
 (3) In the event that—
 
@@ -98,7 +98,7 @@ It shall be the duty and responsibility of the Inspector General appointed under
 
 (C) Upon receipt of a transmittal from the Inspector General under subparagraph (B), the Director shall, within 7 calendar days of such receipt, forward such transmittal to the intelligence committees, together with any comments the Director considers appropriate.
 
-(D)(i) If the Inspector General does not find credible under subparagraph (B) a complaint or information submitted under subparagraph (A), or does not transmit the complaint or information to the Director in accurate form under subparagraph (B), the employee (subject to clause\(ii)) may submit the complaint or information to Congress by contacting either or both of the intelligence committees directly.
+(D)(i) If the Inspector General does not find credible under subparagraph (B) a complaint or information submitted under subparagraph (A), or does not transmit the complaint or information to the Director in accurate form under subparagraph (B), the employee (subject to clause (ii)) may submit the complaint or information to Congress by contacting either or both of the intelligence committees directly.
 
 (ii) The employee may contact the intelligence committees directly as described in clause (i) only if the employee—
 
@@ -222,9 +222,11 @@ There shall be transferred to the Office the office of the Agency referred to as
 
 (1) The Director of the Central Intelligence Agency shall establish and maintain on the homepage of the Agency's publicly accessible website information relating to the Office of the Inspector General including methods to contact the Inspector General.
 
-(2) The information referred to in paragraph (1) shall be obvious and facilitate accessibility to the information related to the Office of the Inspector General.
+(2) The information referred to in paragraph (1) shall be obvious and facilitate accessibilityto the information related to the Office of the Inspector General.
 
 (June 20, 1949, ch. 227, §17, as added Pub. L. 100–453, title V, §504, Sept. 29, 1988, 102 Stat. 1910; amended Pub. L. 101–193, title VIII, §801, Nov. 30, 1989, 103 Stat. 1711; Pub. L. 102–496, title VI, §601, Oct. 24, 1992, 106 Stat. 3187; Pub. L. 103–359, title IV, §402, Oct. 14, 1994, 108 Stat. 3427; Pub. L. 104–93, title IV, §403, Jan. 6, 1996, 109 Stat. 969; Pub. L. 105–107, title IV, §402, Nov. 20, 1997, 111 Stat. 2257; Pub. L. 105–272, title VII, §702(a), Oct. 20, 1998, 112 Stat. 2414; Pub. L. 106–567, title IV, §§402, 403, Dec. 27, 2000, 114 Stat. 2847, 2848; Pub. L. 107–108, title III, §309(a), Dec. 28, 2001, 115 Stat. 1399; Pub. L. 107–306, title VIII, §811(b)(2), Nov. 27, 2002, 116 Stat. 2422; Pub. L. 108–458, title I, §§1071(b)(1)(B), (2)(C), 1074(b)(2), Dec. 17, 2004, 118 Stat. 3690, 3694; Pub. L. 111–259, title IV, §§425(a)–(f)(1), 426, title VIII, §802(2), Oct. 7, 2010, 124 Stat. 2728–2730, 2746; Pub. L. 112–87, title IV, §413, Jan. 3, 2012, 125 Stat. 1891; Pub. L. 112–277, title III, §309(b)(1), Jan. 14, 2013, 126 Stat. 2474; Pub. L. 113–126, title VI, §603(b), July 7, 2014, 128 Stat. 1420; Pub. L. 114–113, div. M, title IV, §411, Dec. 18, 2015, 129 Stat. 2922; Pub. L. 115–31, div. N, title IV, §412(a), May 5, 2017, 131 Stat. 821.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -276,7 +278,7 @@ Subsec. (e)(5)(A). Pub. L. 111–259, §425(e), inserted "in any medium (includi
 
 Subsec. (e)(8). Pub. L. 111–259, §425(f)(1)(C), added par. (8). Former par. (8) redesignated (9).
 
-Subsec. (e)(9). Pub. L. 111–259, §425(f)(1)(A), (B), redesignated par. (8) as (9), substituted "The" for "Subject to the concurrence of the Director, the" and inserted atend "Consistent with budgetary and personnel resources allocated by the Director, the Inspector General has final approval of—
+Subsec. (e)(9). Pub. L. 111–259, §425(f)(1)(A), (B), redesignated par. (8) as (9), substituted "The" for "Subject to the concurrence of the Director, the" and inserted at end "Consistent with budgetary and personnel resources allocated by the Director, the Inspector General has final approval of—
 
 &emsp;"(A) the selection of internal and external candidates for employment with the Office of Inspector General; and
 
@@ -332,6 +334,8 @@ Subsec. (e)(6). Pub. L. 103–359, §402(6), substituted "the Inspector General 
 
 <b>1989</b>—Pub. L. 101–193 amended section generally, substituting subsecs. (a) to (g) relating to establishment of the Office of Inspector General and appointment, duties, and authority of Inspector General for introductory par. and subsecs. (a) to (e) relating to various reports to be filed with the intelligence committees by Director of Central Intelligence concerning selection and activities of Inspector General.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2004 Amendment
 
 For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of this title.
@@ -344,7 +348,7 @@ Pub. L. 115–31, div. N, title IV, §412(b), May 5, 2017, 131 Stat. 821, provid
 
 #### Construction of 2010 Amendment
 
-Pub. L. 111–259, title IV, §425(f)(2), Oct. 7, 2010, 124 Stat. 2729, provided that: "Nothing in the amendmentmade by paragraph (1)(C) \[amending this section\] shall be construed to alter the duties and responsibilities of the General Counsel of the Central Intelligence Agency."
+Pub. L. 111–259, title IV, §425(f)(2), Oct. 7, 2010, 124 Stat. 2729, provided that: "Nothing in the amendment made by paragraph (1)(C) \[amending this section\] shall be construed to alter the duties and responsibilities of the General Counsel of the Central Intelligence Agency."
 
 #### Termination of Reporting Requirements
 

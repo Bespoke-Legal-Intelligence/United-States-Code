@@ -28,13 +28,13 @@ In computing the taxpayer's taxable income for any taxable year (referred to in 
 
 &emsp;&emsp;(B) the taxpayer establishes his taxable income (under the new method of accounting) for one or more taxable years consecutively preceding the taxable year of the change for which the taxpayer in computing taxable income used the method of accounting from which the change is made,
 
-> &emsp;then the tax under this chapter attributable to such increase in taxable income shall not be greater than the net increase in the taxes under this chapter (or under the corresponding provisions of prior revenue laws) which would result if the adjustments required by subsection (a)(2) were allocated to the taxable year or years specified in subparagraph (B) to which they are properly allocable under the new method of accounting and the balance of the adjustments required by subsection (a)(2) was allocated to the taxable year of the change.
+> &emsp;then the tax under this chapter attributable to such increase in taxable income shall not begreater than the net increase in the taxes under this chapter (or under the corresponding provisions of prior revenue laws) which would result if the adjustments required by subsection (a)(2) were allocated to the taxable year or years specified in subparagraph (B) to which they are properly allocable under the new method of accounting and the balance of the adjustments required by subsection (a)(2) was allocated to the taxable year of the change.
 
 #### (3) Special rules for computations under paragraphs (1) and (2)
 
 &emsp;For purposes of this subsection—
 
-&emsp;&emsp;(A) There shall be taken into account the increase or decrease in tax for any taxableyear preceding the year of the change to which no adjustment is allocated under paragraph (1) or (2) but which is affected by a net operating loss (as defined in section 172) or by a capital loss carryback or carryover (as defined in section 1212), determined with reference to taxable years with respect to which adjustments under paragraph (1) or (2) are allocated.
+&emsp;&emsp;(A) There shall be taken into account the increase or decrease in tax for any taxable year preceding the year of the change to which no adjustment is allocated under paragraph (1) or (2) but which is affected by a net operating loss (as defined in section 172) or by a capital loss carryback or carryover (as defined in section 1212), determined with reference to taxable years with respect to which adjustments under paragraph (1) or (2) are allocated.
 
 &emsp;&emsp;(B) The increase or decrease in the tax for any taxable year for which an assessment of any deficiency, or a credit or refund of any overpayment, is prevented by any law or rule of law, shall be determined by reference to the tax previously determined (within the meaning of section 1314(a)) for such year.
 
@@ -61,6 +61,8 @@ In the case of any change described in subsection (a), the taxpayer may, in such
 &emsp;&emsp;(B) the owners of the stock of which, determined on the date such revocation is made, are the same owners (and in identical proportions) as on the date of such enactment.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 160; Pub. L. 85–866, title I, §29(a), (b), Sept. 2, 1958, 72 Stat. 1626–1628; Pub. L. 91–172, title V, §512(f)(4), Dec. 30, 1969, 83 Stat. 641; Pub. L. 94–455, title XIX, §§1901(a)(70), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1776, 1834; Pub. L. 96–471, §2(b)(3), Oct. 19, 1980, 94 Stat. 2254; Pub. L. 113–295, div. A, title II, §221(a)(61), Dec. 19, 2014, 128 Stat. 4048; Pub. L. 115–97, title I, §13543(a), Dec. 22, 2017, 131 Stat. 2155.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -91,6 +93,8 @@ Subsec. (b)(2). Pub. L. 85–866, §29(b)(1), (4), inserted "other than the amou
 Subsec. (b)(3)(A). Pub. L. 85–866, §29(b)(5), substituted "paragraph (1) or (2)" for "paragraph (2)", wherever appearing.
 
 Subsec. (b)(4) to (6). Pub. L. 85–866, §29(a)(2), added pars. (4) to (6).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

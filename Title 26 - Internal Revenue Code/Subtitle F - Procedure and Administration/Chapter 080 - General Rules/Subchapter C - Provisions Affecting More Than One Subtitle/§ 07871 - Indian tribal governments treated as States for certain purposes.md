@@ -54,7 +54,7 @@ Paragraph (2) of subsection (a) shall apply with respect to any transaction only
 
 #### (2) No exemption for private activity bonds
 
-&emsp;Except as provided in paragraph (3), subsection (a) of section 103 shall not apply to any private activity bond (as defined in section141(a)) issued by an Indian tribal government (or subdivision thereof).
+&emsp;Except as provided in paragraph (3), subsection (a) of section 103 shall not apply to any private activity bond (as defined in section 141(a)) issued by an Indian tribal government (or subdivision thereof).
 
 #### (3) Exception for certain private activity bonds
 
@@ -184,6 +184,8 @@ For purposes of this section, the term "essential governmental function" shall n
 
 (Added Pub. L. 97–473, title II, §202(a), Jan. 14, 1983, 96 Stat. 2608; amended Pub. L. 98–21, title I, §122(c)(6), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–369, div. A, title IV, §474(r)(41), title X, §1065(b), July 18, 1984, 98 Stat. 847, 1048; Pub. L. 99–514, title I, §§112(b)(4), 123(b)(3), title XIII, §1301(j)(6), (7), title XVIII, §§1878(i), 1899A(65), Oct. 22, 1986, 100 Stat. 2109, 2113, 2658, 2905, 2962; Pub. L. 100–203, title X, §10632(a), (b), Dec. 22, 1987, 101 Stat. 1330–455; Pub. L. 103–66, title XIII, §13222(d), Aug. 10, 1993, 107 Stat. 481; Pub. L. 111–5, div. B, title I, §1402(a), Feb. 17, 2009, 123 Stat. 351; Pub. L. 115–141, div. U, title IV, §401(a)(337), Mar. 23, 2018, 132 Stat. 1200.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 4 of the Indian Gaming Regulatory Act, referred to in subsec. (f)(3)(B)(i), is classified to section 2703 of Title 25, Indians.
@@ -226,6 +228,8 @@ Subsec. (a)(6)(B) to (F). Pub. L. 98–369, §1065(b), as amended by Pub. L. 99�
 
 <b>1983</b>—Subsec. (a)(6). Pub. L. 98–21 redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out former subpar. (A), which referred to section 37(e)(9)(A) (relating to certain public retirement systems).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2009 Amendment
 
 Pub. L. 111–5, div. B, title I, §1402(c), Feb. 17, 2009, 123 Stat. 352, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Feb. 17, 2009\]."
@@ -240,7 +244,7 @@ Pub. L. 100–203, title X, §10632(c), Dec. 22, 1987, 101 Stat. 1330–457, pro
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 112(b)(4) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 151(a) of Pub. L. 99–514, set out as a note under section 1 of this title.
+Amendment by section 112(b)(4) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986,see section 151(a) of Pub. L. 99–514, set out as a note under section 1 of this title.
 
 Amendment by section 123(b)(3) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, but only in the case of scholarships and fellowships granted after Aug. 16, 1986, see section 151(d) of Pub. L. 99–514, set out as a note under section 1 of this title.
 

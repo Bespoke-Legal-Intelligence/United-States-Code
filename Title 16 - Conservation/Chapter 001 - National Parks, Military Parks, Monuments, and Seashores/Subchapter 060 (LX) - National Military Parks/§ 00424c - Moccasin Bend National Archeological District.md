@@ -56,13 +56,15 @@ As used in this section:
 
 #### (3) Visitor interpretive center
 
-&emsp;For purposes of interpreting the historical themes and cultural resources of the archeological district, the Secretary may establish and administer a visitor center in the archeological district.
+&emsp;For purposes of interpreting the historical themes and cultural resources of the archeological district, the Secretary may establishand administer a visitor center in the archeological district.
 
 #### (4) General management plan
 
 &emsp;Not later than 3 years after funds are made available under this section, the Secretary shall develop a general management plan for the archeological district. The general management plan shall describe the appropriate protection and preservation of natural, cultural, and scenic resources, visitor use, and facility development within the archeological district consistent with the purposes of this section, while ensuring continued access by private landowners to their property.
 
 (Pub. L. 108–7, div. F, title I, §160, Feb. 20, 2003, 117 Stat. 247.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

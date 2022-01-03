@@ -6,7 +6,7 @@ The Secretary shall, as expeditiously as possible, provide the commodities made 
 
 #### (b) Distribution by State agencies; priority; rural areas
 
-State agencies receiving commodities under this chapter shall, as expeditiously as possible, distribute such commodities, in the quantities requested (to the extent practicable), to eligible recipient agencies within their respective States. However, if a State agency cannot meet all requests for a particular commodity under this chapter, the State agency shall give priority in the distribution of such commodity to eligible recipient agencies providing nutrition assistance to relieve situations of emergency and distress through the provision of food to needy persons, including low-income and unemployed persons. Each State agency shall encourage distribution of such commodities in rural areas.
+State agencies receiving commodities under this chapter shall, as expeditiously as possible, distribute such commodities, in the quantities requested (to the extent practicable), to eligible recipient agencies within their respective States. However, if a State agency cannot meetall requests for a particular commodity under this chapter, the State agency shall give priority in the distribution of such commodity to eligible recipient agencies providing nutrition assistance to relieve situations of emergency and distress through the provision of food to needy persons, including low-income and unemployed persons. Each State agency shall encourage distribution of such commodities in rural areas.
 
 #### (c) Distribution to needy persons
 
@@ -22,6 +22,8 @@ Each State agency receiving commodities under this chapter may—
 
 (Pub. L. 98–8, title II, §203B, as added Pub. L. 98–92, §2(5), Sept. 2, 1983, 97 Stat. 610; amended Pub. L. 99–198, title XV, §1568, Dec. 23, 1985, 99 Stat. 1592; Pub. L. 100–435, title I, §105(c), Sept. 19, 1988, 102 Stat. 1651; Pub. L. 104–193, title VIII, §871(e)(1), Aug. 22, 1996, 110 Stat. 2345.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–193 substituted "203A", which was translated as "section 7504 of this title", for "203 and 203A of this Act".
@@ -31,6 +33,8 @@ Each State agency receiving commodities under this chapter may—
 <b>1985</b>—Subsec. (b). Pub. L. 99–198, §1568(a), inserted at end "Each State agency shall encourage distribution of such commodities in rural areas."
 
 Subsec. (d). Pub. L. 99–198, §1568(b), added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

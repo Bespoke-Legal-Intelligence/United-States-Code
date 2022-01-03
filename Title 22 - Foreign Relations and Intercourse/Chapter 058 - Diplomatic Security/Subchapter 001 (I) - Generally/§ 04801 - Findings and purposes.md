@@ -46,7 +46,7 @@ Amendment by Pub. L. 103–236 applicable with respect to officials, offices, an
 
 #### Short Title of 1999 Amendment
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VI, §601\], Nov. 29, 1999, 113 Stat. 1536, 1501A–451, provided that: "This title \[enacting section 4865 of this title, amending section 4831 of this title, and enacting provisions set out as notes under section 4865 of this title\] may be cited as the 'Secure Embassy Construction and Counterterrorism Act of 1999'."
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VI, §601\], Nov. 29, 1999, 113 Stat. 1536, 1501A–451, providedthat: "This title \[enacting section 4865 of this title, amending section 4831 of this title, and enacting provisions set out as notes under section 4865 of this title\] may be cited as the 'Secure Embassy Construction and Counterterrorism Act of 1999'."
 
 #### Short Title
 

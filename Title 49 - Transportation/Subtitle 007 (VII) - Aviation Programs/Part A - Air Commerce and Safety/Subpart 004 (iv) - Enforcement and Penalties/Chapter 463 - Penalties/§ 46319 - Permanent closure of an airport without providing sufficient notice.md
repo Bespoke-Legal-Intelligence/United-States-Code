@@ -14,6 +14,8 @@ Civil Penalty.—A public agency violating subsection (a) shall be liable for a 
 
 (Added Pub. L. 108–176, title I, §185(a), Dec. 12, 2003, 117 Stat. 2517.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as an Effective Date of 2003 Amendment note under section 106 of this title.

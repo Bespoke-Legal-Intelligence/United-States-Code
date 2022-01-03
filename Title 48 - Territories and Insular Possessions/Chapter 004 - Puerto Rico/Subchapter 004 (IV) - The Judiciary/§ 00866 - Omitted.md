@@ -1,5 +1,7 @@
 ### §866. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act Apr. 12, 1900, ch. 191, §35, 31 Stat. 85, provided that all proceedings in Supreme Court of United States to review decisions of Supreme Court of Puerto Rico and the District Court of the United States for Puerto Rico, should be conducted in the English language.

@@ -28,6 +28,8 @@ The following vessels shall not be required to make entry under section 1434 of 
 
 (June 17, 1930, ch. 497, title IV, §441, 46 Stat. 712; Aug. 5, 1935, ch. 438, title III, §302, 49 Stat. 527; Aug. 14, 1937, ch. 620, §1, 50 Stat. 638; Sept. 1, 1954, ch. 1213, title V, §501(b), 68 Stat. 1140; Pub. L. 91–271, title III, §301(b), June 2, 1970, 84 Stat. 287; Pub. L. 98–573, title II, §204, Oct. 30, 1984, 98 Stat. 2974; Pub. L. 103–182, title VI, §655, Dec. 8, 1993, 107 Stat. 2210; Pub. L. 104–295, §21(e)(5), Oct. 11, 1996, 110 Stat. 3530; Pub. L. 106–36, title I, §1001(b)(10), June 25, 1999, 113 Stat. 132; Pub. L. 106–476, title I, §1452(b), Nov. 9, 2000, 114 Stat. 2168.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 "Section 60105 of title 46" substituted in introductory provisions for "section 4197 of the Revised Statutes of the United States (46 U.S.C. App. 91)" and in par. (6) for "section 4197 of the Revised Statutes of the United States" on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 60105 of Title 46, Shipping.
@@ -40,7 +42,7 @@ Provisions somewhat similar to those in par. (1) of this section were contained 
 
 <b>2000</b>—Par (6). Pub. L. 106–476 added par. (6).
 
-<b>1999</b>—Par. (6). Pub. L. 106–36 struck out par. (6) which read as follows: "Tugs documented under chapter 121 oftitle 46 with a Great Lakes endorsement when towing vessels which are required by law to enter and clear."
+<b>1999</b>—Par. (6). Pub. L. 106–36 struck out par. (6) which read as follows: "Tugs documented under chapter 121 of title 46 with a Great Lakes endorsement when towing vessels which are required by law to enter and clear."
 
 <b>1996</b>—Pars. (1), (2), (4), (5). Pub. L. 104–295 substituted period for semicolon at end of pars. (1), (2), and (4) and substituted period for "; and" at end of par. (5).
 
@@ -62,13 +64,15 @@ Par. (6). Pub. L. 103–182, §655(3), (4), redesignated par. (5) as (6) and sub
 
 <b>1935</b>—Par. (3). Act. Aug. 5, 1935, inserted "And not visiting any hovering vessel, nor having at any time or, if forfeited to the United States or to a foreign government, at any time after forfeiture, become liable to seizure and forfeiture for any violation of the laws of the United States".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–476, except as otherwise provided, applicable with respect to goods entered, or withdrawn from warehouse, for consumption, on or after the 15th day after Nov. 9, 2000, see section 1471 of Pub. L. 106–476, set out as a note under section 58c of this title.
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–573 applicable with respect to vessels returning from the British Virgin Islands on or after 15th day after Oct. 30, 1984, see section 214(a), (c)(1) of Pub. L. 98–573, set out as a note under section 1304 of this title.
+Amendment by Pub. L. 98–573 applicable with respect to vessels returning from the British Virgin Islands onor after 15th day after Oct. 30, 1984, see section 214(a), (c)(1) of Pub. L. 98–573, set out as a note under section 1304 of this title.
 
 #### Effective Date of 1970 Amendment
 

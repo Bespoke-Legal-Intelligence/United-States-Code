@@ -58,9 +58,13 @@ The authority to enter into contracts shall be in effect for each fiscal year on
 
 (Pub. L. 96–481, title III, §302, Oct. 21, 1980, 94 Stat. 2331.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was not enacted as part of the Small Business Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Advisory Boards
 
@@ -80,7 +84,7 @@ Definitions.—In this section—
 
 &emsp;&emsp;"(B) is operating profitably, based on operations in the United States;
 
-&emsp;&emsp;"(C) has demonstrated understanding of the costs associated with exporting and doing business with foreign purchasers, including the costs of freight forwarding, customs brokers, packing and shipping, as determined by the Associate Administrator; and
+&emsp;&emsp;"(C) has demonstrated understanding of the costs associated with exporting and doing business with foreign purchasers, including the costs of freightforwarding, customs brokers, packing and shipping, as determined by the Associate Administrator; and
 
 &emsp;&emsp;"(D) has in effect a strategic plan for exporting;
 
@@ -224,7 +228,7 @@ Termination.—The authority to carry out the program shall terminate 3 years af
 
 #### Definitions
 
-Pub. L. 111–240, title I, §1202(a), Sept. 27, 2010, 124 Stat. 2520, provided that: "In this subtitle \[subtitle B (§§1201–1209) of title I of Pub. L. 111–240, see Short Title of 2010 Amendment note set out under section 631 of this title\]—
+Pub. L. 111–240, title I, §1202(a), Sept. 27, 2010, 124 Stat. 2520, provided that: "In this subtitle \[subtitle B\(§§1201–1209) of title I of Pub. L. 111–240, see Short Title of 2010 Amendment note set out under section 631 of this title\]—
 
 &emsp;"(1) the term 'Associate Administrator' means the Associate Administrator for International Trade appointed under section 22(a)(2) of the Small Business Act \[15 U.S.C. 649(a)(2)\], as amended by this subtitle;
 

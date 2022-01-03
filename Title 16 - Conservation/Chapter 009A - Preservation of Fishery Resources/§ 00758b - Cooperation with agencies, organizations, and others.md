@@ -4,9 +4,13 @@ In carrying out the purposes and objectives of sections 758 and 758a of this tit
 
 (Aug. 4, 1947, ch. 451, §3, 61 Stat. 726; Pub. L. 86–624, §11(c), July 12, 1960, 74 Stat. 412; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1960</b>—Pub. L. 86–624 substituted "State" for "Territorial".
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

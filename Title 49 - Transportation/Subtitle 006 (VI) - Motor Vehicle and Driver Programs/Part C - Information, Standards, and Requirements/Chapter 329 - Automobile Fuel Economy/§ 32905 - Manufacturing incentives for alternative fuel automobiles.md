@@ -102,6 +102,8 @@ In subsection (c), the words "For purposes of this section" and "than natural ga
 
 In subsection (e), the words "subject to the provisions of this section" are omitted as unnecessary because of the restatement. The words "for each model described under subsections (a)–(d) of this section" are substituted for "for each model type of dedicated automobile or dual fueled automobile" to eliminate unnecessary words. The words "by using as the denominator" are substituted for "by including as the denominator of the term" for clarity.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Subsecs. (e) to (g). Pub. L. 113–291 added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
@@ -123,6 +125,8 @@ Subsec. (f)(1). Pub. L. 109–58, §772(a)(3), substituted "2010" for "2004".
 Subsec. (h). Pub. L. 109–58, §759, added subsec. (h).
 
 <b>1996</b>—Subsec. (g). Pub. L. 104–287 substituted "Committee on Commerce" for "Committee on Energy and Commerce".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

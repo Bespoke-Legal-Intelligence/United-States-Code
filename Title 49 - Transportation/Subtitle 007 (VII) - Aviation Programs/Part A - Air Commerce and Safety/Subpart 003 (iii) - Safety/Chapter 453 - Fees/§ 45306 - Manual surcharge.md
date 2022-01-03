@@ -20,6 +20,8 @@ Credit to Account and Availability.—Monies collected from a surcharge imposed 
 
 (Added Pub. L. 115–254, div. B, title V, §546(d), Oct. 5, 2018, 132 Stat. 3376.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of the FAA Reauthorization Act of 2018, referred to in subsec. (a), is the date of enactment of Pub. L. 115–254, which was approved Oct. 5, 2018.

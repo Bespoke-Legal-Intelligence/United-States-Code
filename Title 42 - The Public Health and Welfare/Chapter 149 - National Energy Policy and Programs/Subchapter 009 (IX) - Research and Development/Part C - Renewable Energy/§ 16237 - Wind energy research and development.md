@@ -356,11 +356,15 @@ In this section:
 
 (Pub. L. 116–260, div. Z, title III, §3003, Dec. 27, 2020, 134 Stat. 2497.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Energy Act of 2020, and not as part of the Energy Policy Act of 2005 which comprises this chapter.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Application
 
-Pub. L. 116–260, div. Z, title IX, §9006(b), Dec. 27, 2020, 134 Stat. 2600, provided that: "The provisions of section 602 of the Public Works and Economic Development Act of 1965 (42 U.S.C. 3212) shall apply with respect to construction, alteration, or repair work of demonstration projects funded by grants or contracts authorized under sections 3001 \[enacting part C of subchapter III of chapter 152 of this title\], 3003 \[enacting this section\], 3004 \[enacting section 16238 of this title\], 5001 \[enacting section 16298d of this title\], and 8007 \[enacting section 17389 of this title\] and the amendments made by such sections."
+Pub. L. 116–260, div. Z, title IX, §9006(b), Dec. 27, 2020, 134 Stat. 2600, provided that: "The provisions of section 602 of the Public Works and Economic Development Act of 1965 (42 U.S.C. 3212) shall apply with respect to construction, alteration, or repair work of demonstration projects funded by grants or contracts authorized under sections 3001 \[enacting part C of subchapter V of chapter 152 of this title\], 3003 \[enacting this section\], 3004 \[enacting section 16238 of this title\], 5001 \[enacting section 16298d of this title\], and 8007 \[enacting section 17389 of this title\] and the amendments made by such sections."
 

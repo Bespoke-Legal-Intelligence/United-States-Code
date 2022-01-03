@@ -26,7 +26,7 @@
 
 #### (C) Significant new use
 
-&emsp;&emsp;A statute or administrative action requiring the notification of a use of a chemical substance that the Administrator has specified as a significant new use and for which the Administrator has required notification pursuant to a rule promulgated under section 2604 of this title.
+&emsp;&emsp;A statute or administrative action requiring the notification of a use of a chemicalsubstance that the Administrator has specified as a significant new use and for which the Administrator has required notification pursuant to a rule promulgated under section 2604 of this title.
 
 #### (2) Effective date of preemption
 
@@ -36,7 +36,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in subsections (c), (d), (e), (f), and (g), beginning on the date on which the Administrator defines the scope of a risk evaluation for a chemical substance under section 2605(b)(4)(D) of this title and ending on the date on which the deadline established pursuant to section 2605(b)(4)(G) of this title for completion of the risk evaluation expires, or on the date on which the Administrator publishes the risk evaluation under section2605(b)(4)(C) of this title, whichever is earlier, no State or political subdivision of a State may establish a statute, criminal penalty, or administrative action prohibiting or otherwise restricting the manufacture, processing, distribution in commerce, or use of such chemical substance that is a high-priority substance designated under section 2605(b)(1)(B)(i) of this title.
+&emsp;Except as provided in subsections (c), (d), (e), (f), and (g), beginning on the date on which the Administrator defines the scope of a risk evaluation for a chemical substance under section 2605(b)(4)(D) of this title and ending on the date on which the deadline established pursuant to section 2605(b)(4)(G) of this title for completion of the risk evaluation expires, or on the date on which the Administrator publishes the risk evaluation under section 2605(b)(4)(C) of this title, whichever is earlier, no State or political subdivision of a State may establish a statute, criminal penalty, or administrative action prohibiting or otherwise restricting the manufacture, processing, distribution in commerce, or use of such chemical substance that is a high-priority substance designated under section 2605(b)(1)(B)(i) of this title.
 
 #### (2) Effect of subsection
 
@@ -156,7 +156,7 @@ Federal preemption under subsections (a) and (b) of statutes, criminal penalties
 
 #### (4) Failure to make a determination
 
-&emsp;If the Administrator fails to make a determination under paragraph (3)(B) during the110-day period beginning on the date on which an application under paragraph (2) is submitted, the statute or administrative action of the State or political subdivision of the State that was the subject of the application shall not be considered to be an existing statute or administrative action for purposes of subsection (b) by reason of the failure of the Administrator to make a determination.
+&emsp;If the Administrator fails to make a determination under paragraph (3)(B) during the 110-day period beginning on the date on which an application under paragraph (2) is submitted, the statute or administrative action of the State or political subdivision of the State that was the subject of the application shall not be considered to be an existing statute or administrative action for purposes of subsection (b) by reason of the failure of the Administrator to make a determination.
 
 #### (5) Notice and comment
 
@@ -212,6 +212,8 @@ Federal preemption under subsections (a) and (b) of statutes, criminal penalties
 
 (Pub. L. 94–469, title I, §18, Oct. 11, 1976, 90 Stat. 2038; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 114–182, title I, §13, June 22, 2016, 130 Stat. 492.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 2605(b)(4)(D) of this title, referred to in subsec. (a)(1)(B)(i), (ii), was in the original "section (6)(b)(4)(D)", and was translated as meaning section 6(b)(4)(D) of title I of Pub. L. 94–469 to reflect the probable intent of Congress.
@@ -225,6 +227,8 @@ The Frank R. Lautenberg Chemical Safety for the 21st Century Act, referred to in
 Subsec. (b). Pub. L. 114–182, §13(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to exemption from required testing of chemical substances or mixtures.
 
 Subsecs. (c) to (g). Pub. L. 114–182, §13(3), added subsecs. (c) to (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

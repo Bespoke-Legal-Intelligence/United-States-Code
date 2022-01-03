@@ -6,6 +6,8 @@
 
 (Added Pub. L. 99–433, title V, §502(e), Oct. 1, 1986, 100 Stat. 1042, §3035; amended Pub. L. 110–181, div. A, title IX, §902(a), Jan. 28, 2008, 122 Stat. 272; renumbered §7035, Pub. L. 115–232, div. A, title VIII, §808(a), Aug. 13, 2018, 132 Stat. 1838.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 3035 of this title as this section.
@@ -15,6 +17,8 @@
 &emsp;"(1) there may not be more than five Deputy Chiefs of Staff; and
 
 &emsp;"(2) there may not be more than three Assistant Chiefs of Staff."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

@@ -34,7 +34,7 @@ The following investment companies are exempt from the provisions of this subcha
 
 #### (b) Exemption of employees' security company upon application; matters considered
 
-Upon application by any employees' security company, the Commission shall by order exempt such company from the provisions of this subchapter and of the rules and regulations hereunder, if and to the extent that such exemptionis consistent with the protection of investors. In determining the provisions to which such an order of exemption shall apply, the Commission shall give due weight, among other things, to the form of organization and the capital structure of such company, the persons by whom its voting securities, evidences of indebtedness, and other securities are owned and controlled, the prices at which securities issued by such company are sold and the sales load thereon, the disposition of the proceeds of such sales, the character of the securities in which such proceeds are invested, and any relationship between such company and the issuer of any such security.
+Upon application by any employees' security company, the Commission shall by order exempt such company from the provisions of this subchapter and of the rules and regulations hereunder, if and to the extent that such exemption is consistent with the protection of investors. In determining the provisions to which such an order of exemption shall apply, the Commission shall give due weight, among other things, to the form of organization and the capital structure of such company, the persons by whom its voting securities, evidences of indebtedness, and other securities are owned and controlled, the prices at which securities issued by such company are sold and the sales load thereon, the disposition of the proceeds of such sales, the character of the securities in which such proceeds are invested, and any relationship between such company and the issuer of any such security.
 
 #### (c) Exemption of persons, securities or any class or classes of persons as necessary and appropriate in public interest
 
@@ -66,6 +66,8 @@ Any closed-end company which—
 
 (Aug. 22, 1940, ch. 686, title I, §6, 54 Stat. 800; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; Pub. L. 86–70, §12(e), June 25, 1959, 73 Stat. 143; Pub. L. 86–624, §7(c), July 12, 1960, 74 Stat. 412; Pub. L. 95–598, title III, §310(b), Nov. 6, 1978, 92 Stat. 2676; Pub. L. 96–477, title I, §103, Oct. 21, 1980, 94 Stat. 2277; Pub. L. 100–181, title VI, §608, Dec. 4, 1987, 101 Stat. 1261; Pub. L. 104–290, title V, §§501, 502, Oct. 11, 1996, 110 Stat. 3444, 3445; Pub. L. 111–203, title IX, §939(c), July 21, 2010, 124 Stat. 1886; Pub. L. 115–174, title V, §506(a), May 24, 2018, 132 Stat. 1363.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For the effective date of this subchapter, referred to in subsec. (a)(1), see section 80a–52 of this title.
@@ -84,7 +86,7 @@ Subsec. (d)(1). Pub. L. 104–290, §502, substituted "$10,000,000, or such othe
 
 <b>1987</b>—Subsec. (a)(1). Pub. L. 100–181, §608(1), struck out reference to Canal Zone.
 
-Subsec. (a)(2) to (5). Pub. L. 100–181, §608(2), redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: "Any company for which, in a proceeding in any court of the United States or of a State, a receiver, trustee in a case under title 11, or similar officer had been appointed orelected prior to the effective date of this subchapter, and every such officer so appointed or elected prior to the effective date of this subchapter; but such exemption shall continue only so long as (A) the conduct of such company's business remains subject to the supervision of such court or officer thereof, and (B) such company does not sell exclusively for cash any security of which it is the issuer, except short-term paper and ordinary receiver's or trustee's certificates."
+Subsec. (a)(2) to (5). Pub. L. 100–181, §608(2), redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: "Any company for which, in a proceeding in any court of the United States or of a State, a receiver, trustee in a case under title 11, or similar officer had been appointed or elected prior to the effective date of this subchapter, and every such officer so appointed or elected prior to the effective date of this subchapter; but such exemption shall continue only so long as (A) the conduct of such company's business remains subject to the supervision of such court or officer thereof, and (B) such company does not sell exclusively for cash any security of which it is the issuer, except short-term paper and ordinary receiver's or trustee's certificates."
 
 <b>1980</b>—Subsec. (f). Pub. L. 96–477 added subsec. (f).
 
@@ -93,6 +95,8 @@ Subsec. (a)(2) to (5). Pub. L. 100–181, §608(2), redesignated pars. (3) to (5
 <b>1960</b>—Subsec. (a)(1). Pub. L. 86–624 struck out reference to Hawaii.
 
 <b>1959</b>—Subsec. (a)(1). Pub. L. 86–70 struck out reference to Alaska.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment; Safe Harbor
 
@@ -124,11 +128,15 @@ Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub.
 
 Federal Savings and Loan Insurance Corporation abolished and functions transferred, see sections 401 to 406 of Pub. L. 101–73, set out as a note under section 1437 of Title 12, Banks and Banking.
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
 #### Investment Company Provisions Inapplicable to Certain Life Insurance Benefits Issued Prior to March 23, 1959
 
 Subchapter inapplicable to certain life insurance benefits issued prior to Mar. 23, 1959, under certain conditions, see section 29 of Pub. L. 91–547, Dec. 14, 1970, 84 Stat. 1436, set out as a note under section 77c of this title.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

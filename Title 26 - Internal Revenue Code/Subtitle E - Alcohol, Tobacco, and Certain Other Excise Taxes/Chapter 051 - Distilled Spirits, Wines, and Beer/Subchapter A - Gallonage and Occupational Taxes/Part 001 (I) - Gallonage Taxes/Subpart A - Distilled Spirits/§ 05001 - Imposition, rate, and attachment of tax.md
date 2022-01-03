@@ -20,7 +20,7 @@
 
 #### (5) Denatured distilled spirits or articles
 
-&emsp;Any person who produces, withdraws, sells, transports, or uses denatured distilled spirits or articles in violation of laws or regulations now or hereafter in force pertaining thereto, and all such denatured distilled spirits or articles shall be subject to all provisions of law pertaining to distilled spirits that are not denatured, including those requiring the payment of tax thereon; and the person so producing, withdrawing, selling, transporting, or using the denatured distilled spirits or articles shall be required to pay such tax.
+&emsp;Any person who produces, withdraws, sells, transports, or uses denatured distilled spirits or articles in violation of laws or regulations now or hereafter in force pertaining thereto, and all such denatured distilled spirits or articles shall be subject to all provisions of law pertaining to distilled spirits that are not denatured, including those requiring the payment of tax thereon; and the person so producing, withdrawing, selling, transporting, orusing the denatured distilled spirits or articles shall be required to pay such tax.
 
 #### (6) Fruit-flavor concentrates
 
@@ -118,7 +118,7 @@ The tax shall attach to distilled spirits as soon as this substance is in existe
 
 #### <i>(A) In general</i>
 
-&emsp;&emsp;<i>In the case of any proof gallons of distilled spirits which have been produced outside the United States and imported into the United</i><i>States, if such proof gallons of distilled spirits are removed after December 31, 2022—</i>
+&emsp;&emsp;<i>In the case of any proof gallons of distilled spirits which have been produced outside the United States and imported into the United States, if such proof gallons of distilled spirits are removed after December 31, 2022—</i>
 
 &emsp;&emsp;&emsp;<i>(i) paragraph (1) shall not apply, and</i>
 
@@ -154,13 +154,15 @@ The tax shall attach to distilled spirits as soon as this substance is in existe
 
 <i>See 2020 Amendment note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
-A prior section 5001, acts Aug. 16, 1954, ch. 736, 68A Stat. 595; Mar. 30, 1955, ch. 18, §3(a)(4), (5), 69 Stat. 14; Mar. 29, 1956, ch. 115, §3(a)(4), (5), 70 Stat. 66; Mar. 29, 1957, Pub. L. 85–12, §3(a)(2), (3), 71 Stat. 9; June 30, 1958, Pub. L. 85–475, §3(a)(2), (3), 72 Stat. 259, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859. See section 5061(d) of this title.
+A prior section 5001, acts Aug. 16, 1954, ch. 736, 68A Stat. 595; Mar. 30, 1955, ch. 18, §3(a)(4), (5), 69 Stat. 14;Mar. 29, 1956, ch. 115, §3(a)(4), (5), 70 Stat. 66; Mar. 29, 1957, Pub. L. 85–12, §3(a)(2), (3), 71 Stat. 9; June 30, 1958, Pub. L. 85–475, §3(a)(2), (3), 72 Stat. 259, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859. See section 5061(d) of this title.
 
 #### Amendments
 
-<b>2020</b>—Subsec. (c). Pub. L. 116–260, §106(g)(1)(A), substituted "Reduced rate" for "Temporary reduced rate" in heading.
+<b>2020</b>—Subsec. (c). Pub. L. 116–260, §106(g)(1)(A), substituted "Reduced Rate" for "Temporary reduced rate" in heading.
 
 Subsec. (c)(2)(D). Pub. L. 116–260, §110(c), substituted "under a license" for "marketed under a similar brand, license" and inserted "or process" after "that produce".
 
@@ -222,6 +224,8 @@ Subsec. (a)(3). Pub. L. 86–564, §202(a)(5), substituted "July 1, 1961" for "J
 
 Subsec. (a)(3). Pub. L. 86–75, §3(a)(3), substituted "July 1, 1960" for "July 1, 1959".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2020 Amendment
 
 Pub. L. 116–260, div. EE, title I, §106(g)(2), Dec. 27, 2020, 134 Stat. 3045, provided that: "The amendments made by this subsection \[amending this section\] shall apply to distilled spirits removed after December 31, 2020."
@@ -262,7 +266,7 @@ Electronic transfer provisions.—The amendments made by subsection (c) \[amendi
 
 #### Effective Date of 1979 Amendment
 
-Pub. L. 96–39, title VIII, §810, July 26, 1979, 93 Stat. 292, provided that: "The amendments made by this title \[amending this section and sections 5002 to 5008, 5043, 5061, 5064, 5066, 5116, 5171 to 5173, 5175 to 5178, 5180, 5181, 5201 to 5205, 5207, 5211 to 5215, 5221 to 5223, 5231, 5232, 5235, 5241, 5273, 5291, 5301, 5352, 5361 to 5363, 5365, 5381, 5391, 5551, 5601, 5604, 5610, 5612, 5615, 5663, 5681, 5682, and 5691 of this title, repealing sections 5009, 5021 to 5026, 5081 to 5084, 5174, 5233, 5234, 5251, 5252, 5364, and 5521 to 5523 of this title, and enacting provisions set out as notes under sections 1, 5061, 5171, and 5173 of this title\] shall take effect on January 1, 1980."
+Pub. L. 96–39, title VIII, §810, July 26, 1979, 93 Stat. 292, provided that: "The amendments made by this title\[amending this section and sections 5002 to 5008, 5043, 5061, 5064, 5066, 5116, 5171 to 5173, 5175 to 5178, 5180, 5181, 5201 to 5205, 5207, 5211 to 5215, 5221 to 5223, 5231, 5232, 5235, 5241, 5273, 5291, 5301, 5352, 5361 to 5363, 5365, 5381, 5391, 5551, 5601, 5604, 5610, 5612, 5615, 5663, 5681, 5682, and 5691 of this title, repealing sections 5009, 5021 to 5026, 5081 to 5084, 5174, 5233, 5234, 5251, 5252, 5364, and 5521 to 5523 of this title, and enacting provisions set out as notes under sections 1, 5061, 5171, and 5173 of this title\] shall take effect on January 1, 1980."
 
 #### Effective Date of 1965 Amendment
 
@@ -286,7 +290,7 @@ Pub. L. 85–859, title II, §210(b), Sept. 2, 1958, 72 Stat. 1435, as amended b
 
 #### References to Other Provisions of Law
 
-Pub. L. 85–859, title II, §210(d), Sept. 2, 1958, 72 Stat. 1435, provided that: "For the purpose of applying any provision of this title \[see Savings Provision note above\] to any occurrence on or after the effective dateof such provision, any reference in this title to another provision thereof shall also be deemed to be a reference to the corresponding provision of prior law, when consistent with the purpose of the provision to be applied."
+Pub. L. 85–859, title II, §210(d), Sept. 2, 1958, 72 Stat. 1435, provided that: "For the purpose of applying any provision of this title \[see Savings Provision note above\] to any occurrence on or after the effective date of such provision, any reference in this title to another provision thereof shall also be deemed to be a reference to the corresponding provision of prior law, when consistent with the purpose of the provision to be applied."
 
 #### Repeal of Acts Mar. 3, 1877 and Oct. 18, 1888
 
@@ -550,7 +554,7 @@ Treatment of imported perfumes containing distilled spirits.—Any article descr
 
 &emsp;"(F)
 
-Treatment of distilled spirits in foreign trade zones.—Notwithstanding the Act of June 18, 1934 (48 Stat. 998, 19 U.S.C. 81a) or any other provision of law, distilled spirits which are located in a foreign trade zone on October 1, 1985, shall be subject to thetax imposed by paragraph (1) and shall be treated for purposes of this subsection as held on such date for sale if—
+Treatment of distilled spirits in foreign trade zones.—Notwithstanding the Act of June 18, 1934 (48 Stat. 998, 19 U.S.C. 81a) or any other provision of law, distilled spirits which are located in a foreign trade zone on October 1, 1985, shall be subject to the tax imposed by paragraph (1) and shall be treated for purposes of this subsection as held on such date for sale if—
 
 &emsp;&emsp;"(i) internal revenue taxes have been determined, or customs duties liquidated, with respect to such distilled spirits before such date pursuant to a request made under the first proviso of section 3(a) of such Act \[19 U.S.C. 81c(a)\], or
 

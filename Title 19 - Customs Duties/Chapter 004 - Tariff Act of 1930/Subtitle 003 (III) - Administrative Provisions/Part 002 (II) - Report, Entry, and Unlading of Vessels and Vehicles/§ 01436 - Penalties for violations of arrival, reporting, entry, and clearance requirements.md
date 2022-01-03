@@ -58,7 +58,9 @@ If any merchandise (other than sea stores or the equivalent for conveyances othe
 
 > &emsp;civil penalties may be imposed against the United States Postal Service until corrective action, satisfactory to U.S. Customs and Border Protection, is taken.
 
-(June 17, 1930, ch. 497, title IV, §436, 46 Stat. 711; Aug. 5, 1935, ch. 438, title II, §202, 49 Stat. 521; Pub. L. 99–570, title III, §3113(a), Oct. 27, 1986, 100 Stat. 3207–81; Pub. L. 103–182, title VI, §611, Dec. 8, 1993, 107 Stat. 2170; Pub. L. 104–295, §21(e)(3), Oct. 11, 1996, 110 Stat. 3530; Pub. L. 115–271, title VIII, §8007, Oct. 24, 2018, 132 Stat. 4080.)
+(June 17, 1930, ch. 497, title IV, §436, 46 Stat. 711; Aug. 5, 1935, ch. 438, title II, §202, 49 Stat. 521; Pub. L. 99–570, title III, §3113(a), Oct. 27, 1986, 100 Stat. 3207–81; Pub. L. 103–182, title VI, §611, Dec.8, 1993, 107 Stat. 2170; Pub. L. 104–295, §21(e)(3), Oct. 11, 1996, 110 Stat. 3530; Pub. L. 115–271, title VIII, §8007, Oct. 24, 2018, 132 Stat. 4080.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -92,9 +94,11 @@ Subsec. (a)(2), (3). Pub. L. 103–182, §611(1)(B), (C), amended pars. (2) and 
 
 <b>1935</b>—Act Aug. 5, 1935, inserted provisions relating to additional penalty for vessel carrying nonimportable merchandise or liquor and added second par.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
-Pub. L. 115–271, title VIII, §8009(a), Oct. 24, 2018, 132 Stat. 4081, provided that: "This subtitle \[subtitle A\(§§8001–8009) of title VIII of Pub. L. 115–271, see Short Title of 2018 Amendment note set out under section 1 of this title\] and the amendments made by this subtitle (other than the amendments made by section 8002 \[amending section 58c of this title\]) shall take effect on the date of the enactment of this Act \[Oct. 24, 2018\]."
+Pub. L. 115–271, title VIII, §8009(a), Oct. 24, 2018, 132 Stat. 4081, provided that: "This subtitle \[subtitle A (§§8001–8009) of title VIII of Pub. L. 115–271, see Short Title of 2018 Amendment note set out under section 1 of this title\] and the amendments made by this subtitle (other than the amendments made by section 8002 \[amending section 58c of this title\]) shall take effect on the date of the enactment of this Act \[Oct. 24, 2018\]."
 
 #### Transfer of Functions
 

@@ -6,7 +6,7 @@ The Secretary is authorized on behalf of the United States to enter into an agre
 
 #### (b) Amendment, suspension, and termination of agreements
 
-Each agreement under this subpart shall provide the terms and conditions upon which theagreement may be amended, suspended, or terminated.
+Each agreement under this subpart shall provide the terms and conditions upon which the agreement may be amended, suspended, or terminated.
 
 #### (c) Form and manner of data
 
@@ -80,7 +80,7 @@ In order to promote the coordination of workforce investment activities in each 
 
 &emsp;&emsp;&emsp;The primary indicators of performance referred to in paragraph (1)(A) shall consist of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the percentage and number of workers who received benefits under the trade adjustment assistance program who are in unsubsidized employment during thesecond calendar quarter after exit from the program;
+&emsp;&emsp;&emsp;&emsp;(I) the percentage and number of workers who received benefits under the trade adjustment assistance program who are in unsubsidized employment during the second calendar quarter after exit from the program;
 
 &emsp;&emsp;&emsp;&emsp;(II) the percentage and number of workers who received benefits under the trade adjustment assistance program and who are in unsubsidized employment during the fourth calendar quarter after exit from the program;
 
@@ -88,7 +88,7 @@ In order to promote the coordination of workforce investment activities in each 
 
 &emsp;&emsp;&emsp;&emsp;(IV) the percentage and number of workers who received benefits under the trade adjustment assistance program who, subject to clause (ii), obtain a recognized postsecondary credential or a secondary school diploma or its recognized equivalent, during participation in the program or within 1 year after exit from the program; and
 
-&emsp;&emsp;&emsp;&emsp;(V) the percentage and number of workers who received benefits under the trade adjustment assistance program who, during a year while receiving such benefits, are in an education or training program that leads to a recognized postsecondary credential or employment and who are achieving measurable gains in skills toward such a credential or employment.
+&emsp;&emsp;&emsp;&emsp;(V) the percentage and number of workers who received benefits under thetrade adjustment assistance program who, during a year while receiving such benefits, are in an education or training program that leads to a recognized postsecondary credential or employment and who are achieving measurable gains in skills toward such a credential or employment.
 
 #### (ii) Indicator relating to credential
 
@@ -122,6 +122,8 @@ In order to promote the coordination of workforce investment activities in each 
 
 <i>For reversion, beginning on July 1, 2021, to provisions in effect on Jan. 1, 2014, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see Codification and Effective and Termination Dates of 2015 Revival notes below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 2291(c)(2) of this title, referred to in subsec. (a)(3), was subsequently amended, and no longer contains provisions relating to certifications.
@@ -132,13 +134,13 @@ The Workforce Innovation and Opportunity Act, referred to in subsec. (f), is Pub
 
 Section is comprised of subsecs. (a) to (k) of section 239 of Pub. L. 93–618. Another subsec. (e) of section 239 of Pub. L. 93–618 amended section 3302 of Title 26, Internal Revenue Code.
 
-Amendment by section 1852(b)(1) of Pub. L. 111–5, which directed the temporary redesignation of subsecs.\(c) through (g) of section 239 of Pub. L. 93–618 as subsecs. (d) through (h), respectively, was executed by redesignating subsecs. (c) to (g) set out in this section and not redesignating the subsec. (e) that amended section 3302 of Title 26, Internal Revenue Code, to reflect the probable intent of Congress.
+Amendment by section 1852(b)(1) of Pub. L. 111–5, which directed the temporary redesignation of subsecs. (c) through (g) of section 239 of Pub. L. 93–618 as subsecs. (d) through (h), respectively, was executed by redesignating subsecs. (c) to (g) set out in this section and not redesignating the subsec. (e) that amended section 3302 of Title 26, Internal Revenue Code, to reflect the probable intent of Congress.
 
 Section 233 of Pub. L. 112–40, which provided for the Jan. 1, 2014, revival of this section as in effect on Feb. 13, 2011, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, and the provisions of this section, as in effect on Dec. 31, 2013, were temporarily revived, effective June 29, 2015, until July 1, 2021, by Pub. L. 114–27, §§402(b), (c), 406. See 2011 and 2015 Amendment notes, Effective and Termination Dates of 2011 Revival notes, and Effective and Termination Dates of 2015 Revival notes below.
 
 Amendment made by Pub. L. 113–128 was effective July 1, 2015, and was executed to this section as it existed on Dec. 31, 2013, pursuant to section 402(b) of Pub. L. 114–27, which revived the provisions of this section, effective June 29, 2015. See 2014 Amendment note below.
 
-Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of amendment by Pub. L. 111–5, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and the provisions of this section, as amended by Pub. L. 111–5 and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by Pub. L. 112–40, §§201(b), (c), 233. See 2009 and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, and Effective and Termination Dates of 2011 Revival notes below.
+Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of amendment by Pub. L. 111–5, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and the provisions of this section, asamended by Pub. L. 111–5 and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by Pub. L. 112–40, §§201(b), (c), 233. See 2009 and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, and Effective and Termination Dates of 2011 Revival notes below.
 
 Amendment by section 1424(d)(1)(B) of Pub. L. 100–418, which directed amendment of subsec. (e) of section 239 of Pub. L. 93–618, was executed to the subsec. (e) (now subsec. (f)) set out in this section and not the subsec. (e) that amended section 3302 of Title 26, Internal Revenue Code, to reflect the probable intent of Congress.
 
@@ -190,7 +192,7 @@ Subsec. (g). Pub. L. 111–5, §§1852(b)(1), 1893, temporarily redesignated sub
 
 Subsec. (g)(3). Pub. L. 111–5, §§1852(c)(1), 1893, temporarily struck out "and" at end. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (g)(4). Pub. L. 111–5, §§1852(c)(2), 1893, temporarily amended par. (4) generally. Prior to amendment,par. (4) read as follows: "as soon as practicable, interview the adversely affected worker regarding suitable training opportunities available to the worker under section 2296 of this title and review such opportunities with the worker." See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (g)(4). Pub. L. 111–5, §§1852(c)(2), 1893, temporarily amended par. (4) generally. Prior to amendment, par. (4) read as follows: "as soon as practicable, interview the adversely affected worker regarding suitable training opportunities available to the worker under section 2296 of this title and review such opportunities with the worker." See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
 Subsec. (g)(5). Pub. L. 111–5, §§1852(c)(3), 1893, temporarily added par. (5). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
@@ -229,6 +231,8 @@ Pub. L. 99–272, §13003(a)(3), substituted "training and job search programs" 
 Subsecs. (e), (f). Pub. L. 99–272, §13004(c)(2), added subsecs. (e) and (f).
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–35 struck out provisions respecting persons applying for payments under this part.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective and Termination Dates of 2015 Revival
 

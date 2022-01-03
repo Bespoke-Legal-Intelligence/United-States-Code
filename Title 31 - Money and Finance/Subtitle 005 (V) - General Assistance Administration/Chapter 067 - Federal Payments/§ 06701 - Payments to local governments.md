@@ -72,7 +72,7 @@ General rule.—Of amounts paid to a unit of general local government under this
 
 &emsp;&emsp;(A) small business concerns controlled by socially and economically disadvantaged individuals and women;
 
-&emsp;&emsp;(B) historically Black colleges and universities and colleges and universities having a student body in which more than 20 percent of the students are Hispanic Americans or Native Americans; and
+&emsp;&emsp;(B) historically Black colleges and universities and colleges and universities having astudent body in which more than 20 percent of the students are Hispanic Americans or Native Americans; and
 
 &emsp;&emsp;(C) qualified HUBZone small business concerns.
 

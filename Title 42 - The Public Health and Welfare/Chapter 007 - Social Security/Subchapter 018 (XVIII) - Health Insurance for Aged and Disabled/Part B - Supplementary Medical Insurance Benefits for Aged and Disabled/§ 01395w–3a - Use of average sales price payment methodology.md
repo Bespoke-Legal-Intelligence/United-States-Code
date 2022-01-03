@@ -126,7 +126,7 @@
 
 #### (B) Sales at nominal charge
 
-&emsp;&emsp;Such other sales as the Secretary identifies as sales to an entity that are merely nominal in amount (as applied for purposes of section 1396r–8(c)(1)(C)(ii)(III) of this title, except as the Secretary may otherwise provide).
+&emsp;&emsp;Such other sales as the Secretary identifies as sales to an entity that are merelynominal in amount (as applied for purposes of section 1396r–8(c)(1)(C)(ii)(III) of this title, except as the Secretary may otherwise provide).
 
 #### (3) Sale price net of discounts
 
@@ -152,7 +152,7 @@
 
 #### (A) In general on a quarterly basis
 
-&emsp;&emsp;The manufacturer's average sales price, for a drug or biological of a manufacturer, shall be calculated by such manufacturer under this subsection on a quarterly basis.In making such calculation insofar as there is a lag in the reporting of the information on rebates and chargebacks under paragraph (3) so that adequate data are not available on a timely basis, the manufacturer shall apply a methodology based on a 12-month rolling average for the manufacturer to estimate costs attributable to rebates and chargebacks. For years after 2004, the Secretary may establish a uniform methodology under this subparagraph to estimate and apply such costs.
+&emsp;&emsp;The manufacturer's average sales price, for a drug or biological of a manufacturer, shall be calculated by such manufacturer under this subsection on a quarterly basis. In making such calculation insofar as there is a lag in the reporting of the information on rebates and chargebacks under paragraph (3) so that adequate data are not available on a timely basis, the manufacturer shall apply a methodology based on a 12-month rolling average for the manufacturer to estimate costs attributable to rebates and chargebacks. For years after 2004, the Secretary may establish a uniform methodology under this subparagraph to estimate and apply such costs.
 
 #### (B) Updates in payment amounts
 
@@ -336,7 +336,7 @@ In the case of a public health emergency under section 247d of this title in whi
 
 #### (C) Verification
 
-&emsp;&emsp;The Secretary may survey wholesalers and manufacturers that directly distribute drugs or biologicals described in subparagraph (A), when necessary, to verify manufacturer prices and manufacturer's average sales prices (including wholesale acquisition cost) if required to make payment reported under subparagraph (A). The Secretary may impose a civil monetary penalty in an amount not to exceed $100,000 on a wholesaler, manufacturer, or direct seller, if the wholesaler, manufacturer, or direct seller of such a drug or biological refuses a request for information about charges or prices by the Secretary in connection with a survey under this subparagraph or knowingly provides false information. The provisions of section 1320a–7a of this title (other than subsections (a) (with respect to amounts of penalties or additional assessments) and (b)) shall apply to a civil money penalty under this subparagraph in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
+&emsp;&emsp;The Secretary may survey wholesalers and manufacturers that directly distribute drugs or biologicals described in subparagraph (A), when necessary, to verify manufacturer prices and manufacturer's average sales prices (including wholesale acquisition cost) if required to make payment reported under subparagraph (A). The Secretary may impose a civil monetary penalty in an amount not to exceed $100,000 on a wholesaler, manufacturer, or direct seller, if the wholesaler, manufacturer, or direct seller of such a drug or biological refuses a request for information about charges or prices by the Secretary in connection with a survey under this subparagraph or knowingly provides false information. The provisions of section1320a–7a of this title (other than subsections (a) (with respect to amounts of penalties or additional assessments) and (b)) shall apply to a civil money penalty under this subparagraph in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
 
 #### (D) Confidentiality
 
@@ -356,7 +356,7 @@ In the case of a public health emergency under section 247d of this title in whi
 
 #### (1) OIG studies
 
-&emsp;The Inspector General of the Department of Health and Human Services shall conduct periodic studies to identify National Drug Codes for drug or biological products that are self-administered for which payment may not be made under this part because such products are not covered pursuant to section 1395x(s)(2) of this title and which the Inspector General determines (based on the same or similar methodologies to the methodologies used in the final recommendation followup report ofthe Inspector General described in paragraph (3) or in the November 2017 final report of the Inspector General entitled "Excluding Noncovered Versions When Setting Payment for Two Part B Drugs Would Have Resulted in Lower Drug Costs for Medicare and its Beneficiaries") should be excluded from the determination of the payment amount under this section.
+&emsp;The Inspector General of the Department of Health and Human Services shall conduct periodic studies to identify National Drug Codes for drug or biological products that are self-administered for which payment may not be made under this part because such products are not covered pursuant to section 1395x(s)(2) of this title and which the Inspector General determines (based on the same or similar methodologies to the methodologies used in the final recommendation followup report of the Inspector General described in paragraph (3) or in the November 2017 final report of the Inspector General entitled "Excluding Noncovered Versions When Setting Payment for Two Part B Drugs Would Have Resulted in Lower Drug Costs for Medicare and its Beneficiaries") should be excluded from the determination of the payment amount under this section.
 
 #### (2) Payment adjustment
 
@@ -374,7 +374,119 @@ In the case of a public health emergency under section 247d of this title in whi
 
 &emsp;&emsp;(B) the amount of payment otherwise determined under this section for such billing and payment code without application of this subsection.
 
-#### (h) Judicial review
+#### (h) Refund for certain discarded single-dose container or single-use package drugs
+
+#### (1) Secretarial provision of information
+
+#### (A) In general
+
+&emsp;&emsp;For each calendar quarter beginning on or after January 1, 2023, the Secretary shall, with respect to a refundable single-dose container or single-use package drug (as defined in paragraph (8)), report to each manufacturer (as defined in subsection (c)(6)(A)) of such refundable single-dose container or single-use package drug the following for the calendar quarter:
+
+&emsp;&emsp;&emsp;(i) Subject to subparagraph (C), information on the total number of units of the billing and payment code of such drug, if any, that were discarded during such quarter, as determined using a mechanism such as the JW modifier used as of November 15, 2021 (or any such successor modifier that includes such data as determined appropriate by the Secretary).
+
+&emsp;&emsp;&emsp;(ii) The refund amount that the manufacturer is liable for pursuant to paragraph (3).
+
+#### (B) Determination of discarded amounts
+
+&emsp;&emsp;For purposes of subparagraph (A)(i), with respect to a refundable single-dose container or single-use package drug furnished during a quarter, the amount of such drug that was discarded shall be determined based on the amount of such drug that was unused anddiscarded for each drug on the date of service.
+
+#### (C) Exclusion of units of packaged drugs
+
+&emsp;&emsp;The total number of units of the billing and payment code of a refundable single-dose container or single-use package drug of a manufacturer furnished during a calendar quarter for purposes of subparagraph (A)(i), and the determination of the estimated total allowed charges for the drug in the quarter for purposes of paragraph (3)(A)(ii), shall not include such units that are packaged into the payment amount for an item or service and are not separately payable.
+
+#### (2) Manufacturer requirement
+
+&emsp;For each calendar quarter beginning on or after January 1, 2023, the manufacturer of a refundable single-dose container or single-use package drug shall, for such drug, provide to the Secretary a refund that is equal to the amount specified in paragraph (3) for such drug for such quarter.
+
+#### (3) Refund amount
+
+#### (A) In general
+
+&emsp;&emsp;The amount of the refund specified in this paragraph is, with respect to a refundable single-dose container or single-use package drug of a manufacturer assigned to a billing and payment code for a calendar quarter beginning on or after January 1, 2023, an amount equal to the estimated amount (if any) by which—
+
+&emsp;&emsp;&emsp;(i) the product of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the total number of units of the billing and payment code for such drug that were discarded during such quarter (as determined under paragraph (1)); and
+
+&emsp;&emsp;&emsp;&emsp;(II)(aa) in the case of a refundable single-dose container or single-use package drug that is a single source drug or biological, the amount of payment determined for such drug or biological under subsection (b)(1)(B) for such quarter; or
+
+&emsp;&emsp;&emsp;&emsp;(bb) in the case of a refundable single-dose container or single-use package drug that is a biosimilar biological product, the amount of payment determined for such product under subsection (b)(1)(C) for such quarter; exceeds
+
+&emsp;&emsp;&emsp;(ii) an amount equal to the applicable percentage (as defined in subparagraph (B)) of the estimated total allowed charges for such drug under this part during the quarter.
+
+#### (B) Applicable percentage defined
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;For purposes of subparagraph (A)(ii), the term "applicable percentage" means—
+
+&emsp;&emsp;&emsp;&emsp;(I) subject to subclause (II), 10 percent; and
+
+&emsp;&emsp;&emsp;&emsp;(II) if applicable, in the case of a refundable single-dose container or single-use package drug described in clause (ii), a percentage specified by the Secretary pursuant to such clause.
+
+#### (ii) Treatment of drugs that have unique circumstances
+
+&emsp;&emsp;&emsp;In the case of a refundable single-dose container or single-use package drug that has unique circumstances involving similar loss of product as that described in paragraph (8)(B)(ii), the Secretary, through notice and comment rulemaking, may increase the applicable percentage otherwise applicable under clause (i)(I) as determined appropriate by the Secretary.
+
+#### (4) Frequency
+
+&emsp;Amounts required to be refunded pursuant to paragraph (2) shall be paid in regular intervals (as determined appropriate by the Secretary).
+
+#### (5) Refund deposits
+
+&emsp;Amounts paid as refunds pursuant to paragraph (2) shall be deposited into the Federal Supplementary Medical Insurance Trust Fund established under section 1395t of this title.
+
+#### (6) Enforcement
+
+#### (A) Audits
+
+#### (i) Manufacturer audits
+
+&emsp;&emsp;&emsp;Each manufacturer of a refundable single-dose container or single-use package drug that is required to provide a refund under this subsection shall be subject to periodic audit with respect to such drug and such refunds by the Secretary.
+
+#### (ii) Provider audits
+
+&emsp;&emsp;&emsp;The Secretary shall conduct periodic audits of claims submitted under this part with respect to refundable single-dose container or single-use package drugs in accordance with the authority under section 1395l(e) of this title to ensure compliance with the requirements applicable under this subsection.
+
+#### (B) Civil money penalty
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The Secretary shall impose a civil money penalty on a manufacturer of a refundable single-dose container or single-use package drug who has failed to comply with the requirement under paragraph (2) for such drug for a calendar quarter in an amount equal to the sum of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the amount that the manufacturer would have paid under such paragraph with respect to such drug for such quarter; and
+
+&emsp;&emsp;&emsp;&emsp;(II) 25 percent of such amount.
+
+#### (ii) Application
+
+&emsp;&emsp;&emsp;The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under this subparagraph in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
+
+#### (7) Implementation
+
+&emsp;The Secretary shall implement this subsection through notice and comment rulemaking.
+
+#### (8) Definition of refundable single-dose container or single-use package drug
+
+#### (A) In general
+
+&emsp;&emsp;Except as provided in subparagraph (B), in this subsection, the term "refundable single-dose container or single-use package drug" means a single source drug or biological (as defined in subsection (c)(6)(D)) or a biosimilar biological product (as defined in subsection (c)(6)(H)) for which payment is made under this part and that is furnished from a single-dose container or single-use package.
+
+#### (B) Exclusions
+
+&emsp;&emsp;The term "refundable single-dose container or single-use package drug" does not include—
+
+&emsp;&emsp;&emsp;(i) a drug or biological that is either a radiopharmaceutical or an imaging agent;
+
+&emsp;&emsp;&emsp;(ii) a drug or biological approved by the Food and Drug Administration for which dosage and administration instructions included in the labeling require filtration during the drug preparation process, prior to dilution and administration, and require that any unused portion of such drug after the filtration process be discarded after the completion of such filtration process; or
+
+&emsp;&emsp;&emsp;(iii) a drug or biological approved by the Food and Drug Administration on or after November 15, 2021, and with respect to which payment has been made under this part for fewer than 18 months.
+
+#### (9) Report to Congress
+
+&emsp;Not later than 3 years after November 15, 2021, the Office of the Inspector General, after consultation with the Centers for Medicare \& Medicaid Services and the Food and Drug Administration, shall submit to the Committee on Finance of the Senate and the Committee on Energy and Commerce and the Committee on Ways and Means of the House of Representatives, a report on any impact this section is reported to have on the licensure, market entry, market retention, or marketing of biosimilar biological products. Such report shall be updated periodically at the direction of the Committee on Finance of the Senate and the Committee on Energy and Commerce and the Committee on Ways and Means of the House of Representatives.
+
+#### (i) Judicial review
 
 There shall be no administrative or judicial review under section 1395ff of this title, section 1395oo of this title, or otherwise, of—
 
@@ -388,9 +500,13 @@ There shall be no administrative or judicial review under section 1395ff of this
 
 &emsp;(5) the disclosure of the average manufacturer price by reason of an adjustment under subsection (d)(3)(C) or (e).
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1847A, as added Pub. L. 108–173, title III, §303(c)(1), Dec. 8, 2003, 117 Stat. 2239; amended Pub. L. 110–173, title I, §112, Dec. 29, 2007, 121 Stat. 2500; Pub. L. 111–148, title III, §3139(a), Mar. 23, 2010, 124 Stat. 439; Pub. L. 116–39, §6, Aug. 6, 2019, 133 Stat. 1062; Pub. L. 116–260, div. CC, title IV, §§401(a), (b), 405, Dec. 27, 2020, 134 Stat. 2995, 2996, 3002.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1847A, as added Pub. L. 108–173, title III, §303(c)(1), Dec. 8, 2003, 117 Stat. 2239; amended Pub. L. 110–173, title I, §112, Dec. 29, 2007, 121 Stat. 2500; Pub. L. 111–148, title III, §3139(a), Mar. 23, 2010, 124 Stat. 439; Pub. L. 116–39, §6, Aug. 6, 2019, 133 Stat. 1062; Pub. L. 116–260, div. CC, title IV, §§401(a), (b), 405, Dec. 27, 2020, 134 Stat. 2995, 2996, 3002; Pub. L. 117–58, div. I, §90004, Nov. 15, 2021, 135 Stat. 1343.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsecs. (h), (i). Pub. L. 117–58 added subsec. (h) and redesignated former subsec. (h) as (i).
 
 <b>2020</b>—Subsec. (b)(2)(A). Pub. L. 116–260, §401(a)(1)(A), inserted "or subsection (f)(2), as applicable" before period at end.
 
@@ -436,9 +552,11 @@ Subsec. (b)(6). Pub. L. 110–173, §112(a)(3), added par. (6).
 
 Subsec. (b)(7). Pub. L. 110–173, §112(b)(2), added par. (7).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–148, title III, §3139(b), Mar. 23, 2010, 124 Stat. 440, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply to payments for biosimilar biological products beginning with the first day of the second calendar quarter after enactment of legislation providing for a biosimilar pathway (as determined by the Secretary \[probably means the Secretary of Health and Human Services\])."
+Pub. L. 111–148, title III, §3139(b), Mar. 23, 2010, 124 Stat. 440, provided that: "The amendments made bysubsection (a) \[amending this section\] shall apply to payments for biosimilar biological products beginning with the first day of the second calendar quarter after enactment of legislation providing for a biosimilar pathway (as determined by the Secretary \[probably means the Secretary of Health and Human Services\])."
 
 #### Report on Sales to Pharmacy Benefit Managers
 

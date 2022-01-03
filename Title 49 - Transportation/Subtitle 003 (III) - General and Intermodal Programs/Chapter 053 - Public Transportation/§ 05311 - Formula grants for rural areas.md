@@ -90,13 +90,21 @@ Apportionments.—
 
 &emsp;(1)
 
-Public transportation on indian reservations.—Of the amounts made available or appropriated for each fiscal year pursuant to section 5338(a)(2)(F) to carry out this paragraph, the following amounts shall be apportioned each fiscal year for grants to Indian tribes for any purpose eligible under this section, under such terms and conditions as may be established by the Secretary:
+In general.—Of the amounts made available or appropriated for each fiscal year pursuant to section 5338(a)(2)(F) to carry out this section—
 
-&emsp;&emsp;(A) $5,000,000 for each fiscal year shall be distributed on a competitive basis by the Secretary.
+&emsp;&emsp;(A) an amount equal to 5 percent shall be available to carry out paragraph (2); and
 
-&emsp;&emsp;(B) $30,000,000 for each fiscal year shall be apportioned as formula grants, as provided in subsection (j).
+&emsp;&emsp;(B) 3 percent shall be available to carry out paragraph (3).
 
 &emsp;(2)
+
+Public transportation on indian reservations.—For each fiscal year, the amounts made available under paragraph (1)(A) shall be apportioned for grants to Indian tribes for any purpose eligible under this section, under such terms and conditions as may be established by the Secretary, of which—
+
+&emsp;&emsp;(A) 20 percent shall be distributed by the Secretary on a competitive basis; and
+
+&emsp;&emsp;(B) 80 percent shall be apportioned as formula grants as provided in subsection (j).
+
+&emsp;(3)
 
 Appalachian development public transportation assistance program.—
 
@@ -124,7 +132,7 @@ Special rule.—An eligible recipient may use amounts that cannot be used for op
 
 &emsp;&emsp;&emsp;(ii) the eligible recipient, in approving the use of amounts under this subparagraph, determines that the local transit needs are being addressed.
 
-&emsp;(3)
+&emsp;(4)
 
 Remaining amounts.—
 
@@ -166,7 +174,7 @@ In general.—16.85 percent of the amount described in subparagraph (A) shall be
 
 &emsp;&emsp;&emsp;(ii)
 
-Land area.—Subject to clause (v), each State shall receive an amount that is equal to 29.68 percent of the amount apportioned under clause (i), multiplied by the ratio of the land area in rural areas in that State and divided by the land area in all rural areas in the United States, as shown by the most recent decennial census of population.
+Land area.—Subject to clause (v), each State shall receive an amount that is equal to 29.68 percent of the amount apportioned under clause (i), multiplied by the ratio of the land area in rural areas in that State and divided by the land area in all rural areas in the United States, as shownby the most recent decennial census of population.
 
 &emsp;&emsp;&emsp;(iii)
 
@@ -292,7 +300,7 @@ Apportionment.—
 
 &emsp;&emsp;(A)
 
-In general.—Of the amounts described in subsection (c)(1)(B)—
+In general.—Of the amounts described in subsection (c)(2)(B)—
 
 &emsp;&emsp;&emsp;(i) 50 percent of the total amount shall be apportioned so that each Indian tribe providing public transportation service shall receive an amount equal to the total amount apportioned under this clause multiplied by the ratio of the number of vehicle revenue miles provided by an Indian tribe divided by the total number of vehicle revenue miles provided by all Indian tribes, as reported to the Secretary;
 
@@ -320,7 +328,7 @@ Allocation between multiple indian tribes.—If more than 1 Indian tribe provide
 
 Non-tribal service providers.—A recipient that is an Indian tribe may use funds apportioned under this subsection to finance public transportation services provided by a non-tribal provider of public transportation that connects residents of tribal lands with surrounding communities, improves access to employment or healthcare, or otherwise addresses the mobility needs of tribal members.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 809; Pub. L. 105–178, title III, §3014(a), June 9, 1998, 112 Stat. 359; Pub. L. 109–59, title III, §§3002(b)(4), 3013(a)–(h), Aug. 10, 2005, 119 Stat. 1545, 1593–1596; Pub. L. 110–244, title II, §201(e), June 6, 2008, 122 Stat. 1610; Pub. L. 111–147, title IV, §434, Mar. 18, 2010, 124 Stat. 89; Pub. L. 111–322, title II, §2304, Dec. 22, 2010, 124 Stat. 3527; Pub. L. 112–5, title III, §304, Mar. 4, 2011, 125 Stat. 19; Pub. L. 112–30, title I, §134, Sept. 16, 2011, 125 Stat. 351; Pub. L. 112–102, title III, §304, Mar. 30, 2012, 126 Stat. 277; Pub. L. 112–140, title III, §304, June 29, 2012, 126 Stat. 398; Pub. L. 112–141, div. B, §20010, div. G, title III, §113004, July 6, 2012, 126 Stat. 680, 985; Pub. L. 113–159, title I, §1201, Aug. 8, 2014, 128 Stat. 1845; Pub. L. 114–21, title I, §1201, May 29, 2015, 129 Stat. 222; Pub. L. 114–41, title I, §1201, July 31, 2015, 129 Stat. 450; Pub. L. 114–73, title I, §1201, Oct. 29, 2015, 129 Stat. 572; Pub. L. 114–87, title I, §1201, Nov. 20, 2015, 129 Stat. 681; Pub. L. 114–94, div. A, title III, §3007, Dec. 4, 2015, 129 Stat. 1464.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 809; Pub. L. 105–178, title III, §3014(a), June 9, 1998, 112 Stat. 359; Pub. L. 109–59, title III, §§3002(b)(4), 3013(a)–(h), Aug. 10, 2005, 119 Stat. 1545, 1593–1596; Pub. L. 110–244, title II, §201(e), June 6, 2008, 122 Stat. 1610; Pub. L. 111–147, title IV, §434, Mar. 18, 2010, 124 Stat. 89; Pub. L. 111–322, title II, §2304, Dec. 22, 2010, 124 Stat. 3527; Pub. L. 112–5, title III, §304, Mar. 4, 2011, 125 Stat. 19; Pub. L. 112–30, title I, §134, Sept. 16, 2011, 125 Stat. 351; Pub. L. 112–102, title III, §304, Mar. 30, 2012, 126 Stat. 277; Pub. L. 112–140, title III, §304, June 29, 2012, 126 Stat. 398; Pub. L. 112–141, div. B, §20010, div. G, title III, §113004, July 6, 2012, 126 Stat. 680, 985; Pub. L. 113–159, title I, §1201, Aug. 8, 2014, 128 Stat. 1845; Pub. L. 114–21, title I, §1201, May 29, 2015, 129 Stat. 222; Pub. L. 114–41, title I, §1201, July 31, 2015, 129 Stat. 450; Pub. L. 114–73, title I, §1201, Oct. 29, 2015, 129 Stat. 572; Pub. L. 114–87, title I, §1201, Nov. 20, 2015, 129 Stat. 681; Pub. L. 114–94, div. A, title III, §3007, Dec. 4, 2015, 129 Stat. 1464; Pub. L. 117–58, div. C, §30006, Nov. 15, 2021, 135 Stat. 900.)
 
 Historical and Revision Notes
 
@@ -436,11 +444,17 @@ Subsection (h) is substituted for 49 App.:1614(c) (last sentence) for clarity an
 
 In subsection (j)(1), the text of 49 App.:1614(f) (1st sentence) is omitted as unnecessary because of section 5334(a) of the revised title and 49:322(a). The words "in carrying out projects" are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 204 of title 23, referred to in subsec. (g)(3)(E), was repealed and a new section 204 was enacted by Pub. L. 112–141, div. A, title I, §1119(a), July 6, 2012, 126 Stat. 473, 489. As enacted by Pub. L. 112–141, section 204 relates to the Federal lands access program.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (c). Pub. L. 117–58, §30006(1), added pars. (1) and (2), struck out former par. (1) which related to public transportation on Indian reservations, and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+
+Subsec. (j)(1)(A). Pub. L. 117–58, §30006(2), substituted "subsection (c)(2)(B)" for "subsection (c)(1)(B)" in introductory provisions.
 
 <b>2015</b>—Subsec. (b)(3)(B). Pub. L. 114–94, §3007(b)(1), substituted "5338(a)(2)(F)" for "5338(a)(2)(E)".
 
@@ -456,7 +470,7 @@ Pub. L. 114–41, §1201(1), substituted "for each fiscal year ending before Oct
 
 Pub. L. 114–21, §1201(1), substituted "and $4,164,384 for the period beginning on October 1, 2014, and ending on July 31, 2015," for "and $3,328,767 for the period beginning on October 1, 2014, and ending on May 31, 2015,".
 
-Subsec. (c)(1)(B). Pub. L. 114–94, §3007(a)(1), added subpar. (B) and struck out former subpar. (B), which read as follows: "$25,000,000 for each fiscal year ending before October 1, 2015, and $4,439,891 for the period beginning on October 1, 2015, and ending on December 4, 2015, shall be apportioned as formula grants, as provided in subsection (j)."
+Subsec. (c)(1)(B). Pub. L. 114–94, §3007(a)(1), added subpar. (B) and struck out former subpar. (B), which read as follows: "$25,000,000 for each fiscal year ending beforeOctober 1, 2015, and $4,439,891 for the period beginning on October 1, 2015, and ending on December 4, 2015, shall be apportioned as formula grants, as provided in subsection (j)."
 
 Pub. L. 114–87, §1201(2), substituted "and $4,439,891 for the period beginning on October 1, 2015, and ending on December 4, 2015," for "and $3,483,607 for the period beginning on October 1, 2015, and ending on November 20, 2015,".
 
@@ -522,7 +536,7 @@ Subsec. (f)(1). Pub. L. 109–59, §3013(e)(1), inserted heading, struck out "af
 
 Subsec. (f)(1)(E). Pub. L. 109–59, §3002(b)(4), substituted "public transportation" for "mass transportation".
 
-Subsec. (f)(2). Pub. L. 109–59, §3013(e)(2), inserted heading and substituted "Secretary, after consultation with affected intercity bus service providers," for "Secretary of Transportation".
+Subsec. (f)(2). Pub. L. 109–59, §3013(e)(2), inserted heading and substituted "Secretary, after consultationwith affected intercity bus service providers," for "Secretary of Transportation".
 
 Subsec. (g). Pub. L. 109–59, §3013(f), substituted "Government" for "Government's" in heading and amended text generally. Prior to amendment, text read as follows:
 
@@ -541,6 +555,8 @@ Subsec. (j). Pub. L. 109–59, §3013(g)(2), redesignated subsec. (j) as (i).
 <b>1998</b>—Pub. L. 105–178, §3014(a)(1), substituted "Formula grants" for "Financial assistance" in section catchline.
 
 Subsec. (f)(1). Pub. L. 105–178, §3014(a)(2), struck out "10 percent of the amount made available in the fiscal year ending September 30, 1993, and" before "15 percent of the amount" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

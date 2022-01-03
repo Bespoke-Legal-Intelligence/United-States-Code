@@ -7,6 +7,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior chapter 835, consisting of sections 8281 to 8314, related to appointments in the regular Air Force, prior to renumbering as chapter 915 of this title.

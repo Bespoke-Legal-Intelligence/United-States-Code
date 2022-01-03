@@ -80,7 +80,7 @@ In this section:
 
 #### (1) Discretionary
 
-&emsp;The term "discretionary" means that a system of graduated sanctions is not required to be imposed by each and every juvenile court in a State or unit of local government.
+&emsp;The term "discretionary" means that a system of graduated sanctions is not required tobe imposed by each and every juvenile court in a State or unit of local government.
 
 #### (2) Sanctions
 

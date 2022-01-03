@@ -190,7 +190,7 @@ Pub. L. 109–95, §2, Nov. 8, 2005, 119 Stat. 2111, provided that: "Congress ma
 
 &emsp;&emsp;"(A) ensures that Federal agencies and the private sector coordinate efforts to prevent and eliminate duplication of efforts and waste in the provision of such assistance; and
 
-&emsp;&emsp;"(B) to the maximum extent possible, focuses on community-based programs that allow orphans andother vulnerable children to remain connected to the traditions and rituals of their families and communities."
+&emsp;&emsp;"(B) to the maximum extent possible, focuses on community-based programs that allow orphans and other vulnerable children to remain connected to the traditions and rituals of their families and communities."
 
 #### Strategy of the United States
 

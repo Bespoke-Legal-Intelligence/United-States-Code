@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(D) collecting and organizing quantitative data on imports of organically produced agricultural products; and
 
-&emsp;&emsp;(E) requesting feedback from stakeholders on how to improve the oversight of importsof organically produced agricultural products.
+&emsp;&emsp;(E) requesting feedback from stakeholders on how to improve the oversight of imports of organically produced agricultural products.
 
 #### (4) Designated employees and officials
 
@@ -95,6 +95,8 @@ On an annual basis, the working group shall submit to Congress and make publicly
 &emsp;&emsp;&emsp;(ii) a descriptive summary of compliance actions taken by certifying agents in each country.
 
 (Pub. L. 101–624, title XXI, §2122A, as added Pub. L. 115–334, title X, §10104(i), Dec. 20, 2018, 132 Stat. 4902.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Trade Savings Provision
 

@@ -10,7 +10,7 @@ The President may proclaim modifications, based on the recommendations by the Co
 
 #### (b) Lay-over period
 
-(1) The President may proclaim a modification under subsection (a) only after the expiration ofthe 60-day period beginning on the date on which the President submits a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate that sets forth the proposed modification and the reasons therefor.
+(1) The President may proclaim a modification under subsection (a) only after the expiration of the 60-day period beginning on the date on which the President submits a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate that sets forth the proposed modification and the reasons therefor.
 
 (2) The 60-day period referred to in paragraph (1) shall be computed by excluding—
 
@@ -24,6 +24,8 @@ Modifications proclaimed by the President under subsection (a) may not take effe
 
 (Pub. L. 100–418, title I, §1206, Aug. 23, 1988, 102 Stat. 1151; Pub. L. 109–432, div. D, title III, §3012, Dec. 20, 2006, 120 Stat. 3177.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Harmonized Tariff Schedule, referred to in subsec. (a), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
@@ -32,13 +34,15 @@ The Harmonized Tariff Schedule, referred to in subsec. (a), is not set out in th
 
 <b>2006</b>—Subsec. (c). Pub. L. 109–432 substituted "30<sup>th</sup>" for "15<sup>th</sup>".
 
+#### <b>Executive Documents</b>
+
 #### Delegation of Authority
 
 Memorandum of President of the United States, Dec. 12, 1991, 56 F.R. 65413, provided:
 
 Memorandum for the United States Trade Representative
 
-By virtue of the authority vested in me by the Constitution and laws of the United States, including section 301 of title 3 of the United States Code and the Omnibus Trade and Competitiveness Act of 1988 (Public Law 100–418) ("the Act") \[see Tables for classification\], you are hereby delegated the functions vested in me by section 1206(b) of the Act (19 U.S.C. 3006(b)), to submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate reports that set forth proposed modifications to the Harmonized Tariff Schedule \[see 19 U.S.C. 1202\] and the reasons therefor.
+By virtue of the authority vested in me by the Constitution and laws of the United States, including section 301 of title 3 of the United States Code and the Omnibus Trade and Competitiveness Act of 1988 (Public Law 100–418) ("the Act") \[see Tables for classification\], you are hereby delegated the functions vested in me bysection 1206(b) of the Act (19 U.S.C. 3006(b)), to submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate reports that set forth proposed modifications to the Harmonized Tariff Schedule \[see 19 U.S.C. 1202\] and the reasons therefor.
 
 The President shall retain the authority under section 1206 of the Act to proclaim modifications to the Harmonized Tariff Schedule after the layover period specified in section 1206(b) has expired.
 
